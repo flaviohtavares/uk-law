@@ -34,7 +34,7 @@ Exiting The European Union
 
 Climate Change
 
-The Greenhouse Gas Emissions Trading Scheme (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-3e99bc0b25b23b3eb6e4e3f012fa0068]
+The Greenhouse Gas Emissions Trading Scheme (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-3e99bc0b25b23b3eb6e4e3f012fa0068]
 
 Sift requirements satisfied
 
@@ -50,11 +50,11 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-3e99bc0b25b23b3eb6e4e3f012fa0068]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e99bc0b25b23b3eb6e4e3f012fa0068]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-3e99bc0b25b23b3eb6e4e3f012fa0068]
+### PART 1 — Introduction[^c-3e99bc0b25b23b3eb6e4e3f012fa0068]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,7 +62,7 @@ Coming into force in accordance with regulation 1
 
 - [Section 1 — Citation and commencement](part-1/section-1.md)
 
-### PART 2 — Amendment of the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^key-3e99bc0b25b23b3eb6e4e3f012fa0068]
+### PART 2 — Amendment of the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^c-3e99bc0b25b23b3eb6e4e3f012fa0068]
 
 *Extent: E+W+S+N.I.*
 
@@ -130,7 +130,7 @@ Coming into force in accordance with regulation 1
 - [Section 61 — Omission of Schedule 10](part-2/section-61.md)
 - [Section 62 — Amendment of Schedule 11](part-2/section-62.md)
 
-### PART 3 — Amendment of EU Regulations, Decisions and the EEA Agreement[^key-3e99bc0b25b23b3eb6e4e3f012fa0068]
+### PART 3 — Amendment of EU Regulations, Decisions and the EEA Agreement[^c-3e99bc0b25b23b3eb6e4e3f012fa0068]
 
 *Extent: E+W+S+N.I.*
 
@@ -208,7 +208,7 @@ Coming into force in accordance with regulation 1
 - [Section 132 — Amendment of Annex 10](part-3/section-132.md)
 - [Section 133 — Amendment of Annex XX to the EEA Agreement](part-3/section-133.md)
 
-### PART 4 — Revocation of EU Decisions and Regulations[^key-3e99bc0b25b23b3eb6e4e3f012fa0068]
+### PART 4 — Revocation of EU Decisions and Regulations[^c-3e99bc0b25b23b3eb6e4e3f012fa0068]
 
 *Extent: E+W+S+N.I.*
 
@@ -226,14 +226,14 @@ Coming into force in accordance with regulation 1
 
 **No longer in force.**
 
-[^key-3e99bc0b25b23b3eb6e4e3f012fa0068]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e99bc0b25b23b3eb6e4e3f012fa0068]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-3e99bc0b25b23b3eb6e4e3f012fa0068]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3e99bc0b25b23b3eb6e4e3f012fa0068]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3e99bc0b25b23b3eb6e4e3f012fa0068]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [43(a)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/43/a)
+[^c-3e99bc0b25b23b3eb6e4e3f012fa0068]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [43(a)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/43/a)

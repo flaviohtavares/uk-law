@@ -59,7 +59,7 @@ An Act to make provision with respect to the English Industrial Estates Corporat
 
 ### 2. Extension of the Corporation’s borrowing power.
 
-For section 4(1) of the 1981 Act (which confers borrowing power on the Corporation, but limits that power to borrowing from the Commission of the European Union[^key-167a74880df8004e30674a57e94e00df] or from the European Investment Bank) there shall be substituted the following subsection—
+For section 4(1) of the 1981 Act (which confers borrowing power on the Corporation, but limits that power to borrowing from the Commission of the European Union[^c-167a74880df8004e30674a57e94e00df] or from the European Investment Bank) there shall be substituted the following subsection—
 
 > (1) For the purpose of the exercise of any of its functions, the Corporation may, in accordance with directions under section 2(4) above given with the approval of the Treasury, borrow either in sterling or in a currency other than sterling from any person other than the Secretary of State.
 
@@ -127,7 +127,7 @@ Section 6.
 
 [^c7659461]: Marginal citation: [1981 c. 13](https://www.legislation.gov.uk/ukpga/1981/13).
 
-[^key-167a74880df8004e30674a57e94e00df]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-167a74880df8004e30674a57e94e00df]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
 [^c7659511]: Marginal citation: [1982 c. 52](https://www.legislation.gov.uk/ukpga/1982/52).
 

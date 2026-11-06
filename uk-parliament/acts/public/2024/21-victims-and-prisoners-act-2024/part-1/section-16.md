@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Guidance about specified victim support roles[^key-94ac77e90392d0ac1eb4876b13e972eb][^key-0a3b87c084933bf3dd776348cea04d80]
+## 16. Guidance about specified victim support roles[^c-94ac77e90392d0ac1eb4876b13e972eb][^c-0a3b87c084933bf3dd776348cea04d80]
 
 *Extent: E+W*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-94ac77e90392d0ac1eb4876b13e972eb]: Commencement: S. 16 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-94ac77e90392d0ac1eb4876b13e972eb]: Commencement: S. 16 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-0a3b87c084933bf3dd776348cea04d80]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2024/21/section/16) in force at 9.5.2025 by [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 3](https://www.legislation.gov.uk/uksi/2025/441/regulation/3)
+[^c-0a3b87c084933bf3dd776348cea04d80]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2024/21/section/16) in force at 9.5.2025 by [S.I. 2025/441](https://www.legislation.gov.uk/uksi/2025/441), [reg. 3](https://www.legislation.gov.uk/uksi/2025/441/regulation/3)

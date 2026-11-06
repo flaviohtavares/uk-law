@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Regulations for supplementing orders[^key-c24e568962bc8b0834f1ed4227ba3cbf]
+## 14. Regulations for supplementing orders[^c-c24e568962bc8b0834f1ed4227ba3cbf]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c24e568962bc8b0834f1ed4227ba3cbf]: Commencement: S. 14 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)
+[^c-c24e568962bc8b0834f1ed4227ba3cbf]: Commencement: S. 14 in force at 1.11.2007 for E. by [S.I. 2007/3136](https://www.legislation.gov.uk/uksi/2007/3136), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/3136/article/2/a)

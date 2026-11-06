@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Appointment by Department[^key-1caaf8243146f840b6cc613a7d432bcb]
+## 39. Appointment by Department[^c-1caaf8243146f840b6cc613a7d432bcb]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1caaf8243146f840b6cc613a7d432bcb]: Commencement: S. 39 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-1caaf8243146f840b6cc613a7d432bcb]: Commencement: S. 39 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

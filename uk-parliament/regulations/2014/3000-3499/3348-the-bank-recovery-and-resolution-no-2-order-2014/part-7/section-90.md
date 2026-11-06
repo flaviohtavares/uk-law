@@ -25,7 +25,7 @@ summary: ''
 - (a) the parties to an agreement authorised under this Chapter wish to amend the agreement; and
 - (b) rules made by the PRA or FCA under FSMA require the amendment to be authorised before it is made.
 
-(2) If the UK[^key-8ab8f786bb1c5a51f0f04588835d83ed] parent undertaking submits to the appropriate regulator an application for authorisation of the amendment (“the amendment application”), the appropriate regulator must treat the amendment application as if it were an application for authorisation of a group financial support agreement.
+(2) If the UK[^c-8ab8f786bb1c5a51f0f04588835d83ed] parent undertaking submits to the appropriate regulator an application for authorisation of the amendment (“the amendment application”), the appropriate regulator must treat the amendment application as if it were an application for authorisation of a group financial support agreement.
 
 (3) Articles 84 to 89 apply for that purpose, but have effect in relation to the amendment application as if—
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ab8f786bb1c5a51f0f04588835d83ed]: Textual amendment: Word in [art. 90(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/90/2) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 52(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/52/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8ab8f786bb1c5a51f0f04588835d83ed]: Textual amendment: Word in [art. 90(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/90/2) substituted (31.12.2020) by [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 3 para. 52(2)](https://www.legislation.gov.uk/uksi/2018/1394/schedule/3/paragraph/52/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

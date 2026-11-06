@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 81. Rule Committee: continuation and membership[^key-f016035489b8c2d645e3367bb1347714]
+## 81. Rule Committee: continuation and membership[^c-f016035489b8c2d645e3367bb1347714]
 
 *Extent: E*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f016035489b8c2d645e3367bb1347714]: Commencement: [S. 81](https://www.legislation.gov.uk/ukcm/2018/3/section/81) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-f016035489b8c2d645e3367bb1347714]: Commencement: [S. 81](https://www.legislation.gov.uk/ukcm/2018/3/section/81) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

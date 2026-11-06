@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3GA — Diamonds and diamond jewellery[^key-f95bbd4122b4eea8ef293c18af727bd9]
+## SCHEDULE 3GA — Diamonds and diamond jewellery[^c-f95bbd4122b4eea8ef293c18af727bd9]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ Regulation 46Z16J
 
 ## Annotations
 
-[^key-f95bbd4122b4eea8ef293c18af727bd9]: Textual amendment: Sch. 3GA inserted (1.1.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 5) Regulations 2023 (S.I. 2023/1367)](https://www.legislation.gov.uk/uksi/2023/1367), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1367/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1367/schedule)
+[^c-f95bbd4122b4eea8ef293c18af727bd9]: Textual amendment: Sch. 3GA inserted (1.1.2024) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 5) Regulations 2023 (S.I. 2023/1367)](https://www.legislation.gov.uk/uksi/2023/1367), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1367/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2023/1367/schedule)

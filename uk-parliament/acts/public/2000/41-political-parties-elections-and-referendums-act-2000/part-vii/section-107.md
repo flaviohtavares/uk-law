@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Register of declarations and notifications for purposes of section 105.[^c10574821][^c20060961][^key-01af856e7c4c8a9f7f63f0e507067315]
+## 107. Register of declarations and notifications for purposes of section 105.[^c10574821][^c20060961][^c-01af856e7c4c8a9f7f63f0e507067315]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ as soon as is reasonably practicable.
 
 [^c20060961]: Modification: S. 107 applied (23.7.2004) by [The Regional Assembly and Local Government Referendums Order 2004 (S.I. 2004/1962)](https://www.legislation.gov.uk/uksi/2004/1962), [art. 7(1)](https://www.legislation.gov.uk/uksi/2004/1962/article/7/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2004/1962/schedule/3/part/1)
 
-[^key-01af856e7c4c8a9f7f63f0e507067315]: Modification: S. 107 restricted (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/7/2); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-01af856e7c4c8a9f7f63f0e507067315]: Modification: S. 107 restricted (1.2.2016) by [European Union Referendum Act 2015 (c. 36)](https://www.legislation.gov.uk/ukpga/2015/36), [s. 13(2)](https://www.legislation.gov.uk/ukpga/2015/36/section/13/2), [Sch. 1 para. 7(2)](https://www.legislation.gov.uk/ukpga/2015/36/schedule/1/paragraph/7/2); [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

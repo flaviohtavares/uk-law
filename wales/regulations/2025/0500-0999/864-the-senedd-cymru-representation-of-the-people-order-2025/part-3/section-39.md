@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Appointment of election agent[^key-7c667c07188d94cc8df38fbdac42a2b6]
+## 39. Appointment of election agent[^c-7c667c07188d94cc8df38fbdac42a2b6]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ will be of no effect under this article unless it is made and signed by that per
 
 ## Annotations
 
-[^key-7c667c07188d94cc8df38fbdac42a2b6]: Commencement: Art. 39 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-7c667c07188d94cc8df38fbdac42a2b6]: Commencement: Art. 39 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

@@ -31,28 +31,28 @@ summary: ''
 
 as the case may be.
 
-(4)[^key-565f45ffd1d99d3d87033b18cdc8244c] Accordingly, it is charged to corporation tax at the main rate of corporation tax.
+(4)[^c-565f45ffd1d99d3d87033b18cdc8244c] Accordingly, it is charged to corporation tax at the main rate of corporation tax.
 
-(4)[^key-2c11b211267e53615124e914bb598e36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2c11b211267e53615124e914bb598e36] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-01dd59bbc25f68f8fc437afc3ca6bbd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-01dd59bbc25f68f8fc437afc3ca6bbd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-01dd59bbc25f68f8fc437afc3ca6bbd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-01dd59bbc25f68f8fc437afc3ca6bbd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-01dd59bbc25f68f8fc437afc3ca6bbd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-01dd59bbc25f68f8fc437afc3ca6bbd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-01dd59bbc25f68f8fc437afc3ca6bbd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-01dd59bbc25f68f8fc437afc3ca6bbd2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) No loss, deficit, expense or allowance may be set off against the section 565 amount.
 
-(10)[^key-7af5db216e33ea7b8f8f6afd0244fd43] In this section and section 565, “ **distribution** ” is to be read in accordance with section 530(6A) and (6B).
+(10)[^c-7af5db216e33ea7b8f8f6afd0244fd43] In this section and section 565, “ **distribution** ” is to be read in accordance with section 530(6A) and (6B).
 
 ## Annotations
 
-[^key-565f45ffd1d99d3d87033b18cdc8244c]: Textual amendment: [S. 564(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/564/4) inserted (with effect in accordance with Sch. 1 para. 34 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/26)
+[^c-565f45ffd1d99d3d87033b18cdc8244c]: Textual amendment: [S. 564(4)](https://www.legislation.gov.uk/ukpga/2010/4/section/564/4) inserted (with effect in accordance with Sch. 1 para. 34 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 26](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/26)
 
-[^key-2c11b211267e53615124e914bb598e36]: Textual amendment: S. 564(4) omitted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 14(7)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/14/7)
+[^c-2c11b211267e53615124e914bb598e36]: Textual amendment: S. 564(4) omitted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 14(7)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/14/7)
 
-[^key-01dd59bbc25f68f8fc437afc3ca6bbd2]: Textual amendment: S. 564(5)-(8) omitted (with effect in accordance with Sch. 4 para. 26(2) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/24)
+[^c-01dd59bbc25f68f8fc437afc3ca6bbd2]: Textual amendment: S. 564(5)-(8) omitted (with effect in accordance with Sch. 4 para. 26(2) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2012/14/schedule/4/paragraph/24)
 
-[^key-7af5db216e33ea7b8f8f6afd0244fd43]: Textual amendment: S. 564(10) inserted (with effect in accordance with Sch. 4 para. 12 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/4/paragraph/9/3)
+[^c-7af5db216e33ea7b8f8f6afd0244fd43]: Textual amendment: S. 564(10) inserted (with effect in accordance with Sch. 4 para. 12 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 4 para. 9(3)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/4/paragraph/9/3)

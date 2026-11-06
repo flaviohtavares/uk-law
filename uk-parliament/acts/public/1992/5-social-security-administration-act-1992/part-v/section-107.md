@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Recovery of expenditure on income support: additional amounts and transfer of orders[^key-50fc6c1bcfb9bf2c02fb2719914f4869]
+## 107. Recovery of expenditure on income support: additional amounts and transfer of orders[^c-50fc6c1bcfb9bf2c02fb2719914f4869]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50fc6c1bcfb9bf2c02fb2719914f4869]: Textual amendment: [S. 107](https://www.legislation.gov.uk/ukpga/1992/5/section/107) repealed (27.10.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/2008/6/schedule/8); [S.I. 2008/2548](https://www.legislation.gov.uk/uksi/2008/2548), [art. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2008/2548/article/3/d/ii)
+[^c-50fc6c1bcfb9bf2c02fb2719914f4869]: Textual amendment: [S. 107](https://www.legislation.gov.uk/ukpga/1992/5/section/107) repealed (27.10.2008) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [s. 62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3), [Sch. 8](https://www.legislation.gov.uk/ukpga/2008/6/schedule/8); [S.I. 2008/2548](https://www.legislation.gov.uk/uksi/2008/2548), [art. 3(d)(ii)](https://www.legislation.gov.uk/uksi/2008/2548/article/3/d/ii)

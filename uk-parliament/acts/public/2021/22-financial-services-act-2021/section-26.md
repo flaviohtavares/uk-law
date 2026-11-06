@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Money market funds authorised in approved countries[^key-e9eee7ffd62266249d8301230acfe0dd]
+## 26. Money market funds authorised in approved countries[^c-e9eee7ffd62266249d8301230acfe0dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9eee7ffd62266249d8301230acfe0dd]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2021/22/section/26) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/c)
+[^c-e9eee7ffd62266249d8301230acfe0dd]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2021/22/section/26) in force at 23.2.2022 by [S.I. 2022/163](https://www.legislation.gov.uk/uksi/2022/163), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/163/regulation/2/c)

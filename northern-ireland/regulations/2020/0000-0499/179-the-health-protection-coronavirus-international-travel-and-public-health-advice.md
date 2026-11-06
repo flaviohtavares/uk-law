@@ -40,15 +40,15 @@ Coming into operation in accordance with Regulation 1
 
 The Department of Health [^c24262211] makes the following Regulations in exercise of the powers conferred by sections 25B and 25F(2) of the Public Health Act (Northern Ireland) 1967 [^c24262221].
 
-## 1. Citation and commencement[^key-8b40d4d2093fbccced32d5ada169a070]
+## 1. Citation and commencement[^c-8b40d4d2093fbccced32d5ada169a070]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2020[^key-acd9e8f214f6e0318c4959b1417f3464]
+## 2. Amendment of the Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2020[^c-acd9e8f214f6e0318c4959b1417f3464]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Health Protection (Coronavirus, Public Health Advice for Persons Travelling to Northern Ireland) Regulations (Northern Ireland) 2020[^key-3b08f3c211269ad13996bd02a8524d82]
+## 3. Amendment of the Health Protection (Coronavirus, Public Health Advice for Persons Travelling to Northern Ireland) Regulations (Northern Ireland) 2020[^c-3b08f3c211269ad13996bd02a8524d82]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -157,8 +157,8 @@ The review period of both regulations is amended to 28 days.
 
 [^c24262221]: Marginal citation: [1967 c. 36 (N.I.)](https://www.legislation.gov.uk/apni/1967/36). Part 1A was inserted by section 48 of, and Schedule 18 to, the [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7)
 
-[^key-8b40d4d2093fbccced32d5ada169a070]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/nisr/2020/179/regulation/1) revoked (16.4.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) Regulations (Northern Ireland) 2021 (S.R. 2021/102)](https://www.legislation.gov.uk/nisr/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/102/regulation/1/2), [14(a)](https://www.legislation.gov.uk/nisr/2021/102/regulation/14/a) (with [regs. 13](https://www.legislation.gov.uk/nisr/2021/102/regulation/13), [15](https://www.legislation.gov.uk/nisr/2021/102/regulation/15))
+[^c-8b40d4d2093fbccced32d5ada169a070]: Textual amendment: [Reg. 1](https://www.legislation.gov.uk/nisr/2020/179/regulation/1) revoked (16.4.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Information to Passengers) Regulations (Northern Ireland) 2021 (S.R. 2021/102)](https://www.legislation.gov.uk/nisr/2021/102), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2021/102/regulation/1/2), [14(a)](https://www.legislation.gov.uk/nisr/2021/102/regulation/14/a) (with [regs. 13](https://www.legislation.gov.uk/nisr/2021/102/regulation/13), [15](https://www.legislation.gov.uk/nisr/2021/102/regulation/15))
 
-[^key-acd9e8f214f6e0318c4959b1417f3464]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/179/regulation/2) revoked (16.4.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2021 (S.R. 2021/99)](https://www.legislation.gov.uk/nisr/2021/99), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2021/99/regulation/1/2), [Sch. 9 Pt. 2](https://www.legislation.gov.uk/nisr/2021/99/schedule/9/part/2) (with [regs. 37](https://www.legislation.gov.uk/nisr/2021/99/regulation/37), [39](https://www.legislation.gov.uk/nisr/2021/99/regulation/39), [40](https://www.legislation.gov.uk/nisr/2021/99/regulation/40))
+[^c-acd9e8f214f6e0318c4959b1417f3464]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2020/179/regulation/2) revoked (16.4.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel) Regulations (Northern Ireland) 2021 (S.R. 2021/99)](https://www.legislation.gov.uk/nisr/2021/99), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2021/99/regulation/1/2), [Sch. 9 Pt. 2](https://www.legislation.gov.uk/nisr/2021/99/schedule/9/part/2) (with [regs. 37](https://www.legislation.gov.uk/nisr/2021/99/regulation/37), [39](https://www.legislation.gov.uk/nisr/2021/99/regulation/39), [40](https://www.legislation.gov.uk/nisr/2021/99/regulation/40))
 
-[^key-3b08f3c211269ad13996bd02a8524d82]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2020/179/regulation/3) revoked (31.10.2020) by [The Health Protection (Coronavirus, Public Health Advice for Persons Travelling to Northern Ireland) (No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/215)](https://www.legislation.gov.uk/nisr/2020/215), [regs. 1](https://www.legislation.gov.uk/nisr/2020/215/regulation/1), [7(1)(b)](https://www.legislation.gov.uk/nisr/2020/215/regulation/7/1/b) (with [reg. 7(2)](https://www.legislation.gov.uk/nisr/2020/215/regulation/7/2))
+[^c-3b08f3c211269ad13996bd02a8524d82]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2020/179/regulation/3) revoked (31.10.2020) by [The Health Protection (Coronavirus, Public Health Advice for Persons Travelling to Northern Ireland) (No. 2) Regulations (Northern Ireland) 2020 (S.R. 2020/215)](https://www.legislation.gov.uk/nisr/2020/215), [regs. 1](https://www.legislation.gov.uk/nisr/2020/215/regulation/1), [7(1)(b)](https://www.legislation.gov.uk/nisr/2020/215/regulation/7/1/b) (with [reg. 7(2)](https://www.legislation.gov.uk/nisr/2020/215/regulation/7/2))

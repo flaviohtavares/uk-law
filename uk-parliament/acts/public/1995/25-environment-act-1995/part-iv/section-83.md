@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Designation of air quality management areas.[^key-5c80079a40e14f18bde5c2d8e01c95bf][^key-702807d837e33817be90c3d57be7890e]
+## 83. Designation of air quality management areas.[^c-5c80079a40e14f18bde5c2d8e01c95bf][^c-702807d837e33817be90c3d57be7890e]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c80079a40e14f18bde5c2d8e01c95bf]: Modification: S. 83 functions made exercisable concurrently (E.W.) (1.4.2011) by [The Greater Manchester Combined Authority Order 2011 (S.I. 2011/908)](https://www.legislation.gov.uk/uksi/2011/908), [arts. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1), [10](https://www.legislation.gov.uk/uksi/2011/908/article/10), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2011/908/schedule/3/paragraph/4)
+[^c-5c80079a40e14f18bde5c2d8e01c95bf]: Modification: S. 83 functions made exercisable concurrently (E.W.) (1.4.2011) by [The Greater Manchester Combined Authority Order 2011 (S.I. 2011/908)](https://www.legislation.gov.uk/uksi/2011/908), [arts. 1](https://www.legislation.gov.uk/uksi/2011/908/article/1), [10](https://www.legislation.gov.uk/uksi/2011/908/article/10), [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/2011/908/schedule/3/paragraph/4)
 
-[^key-702807d837e33817be90c3d57be7890e]: Modification: [S. 83](https://www.legislation.gov.uk/ukpga/1995/25/section/83) functions made exercisable concurrently (E.W.) (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [17](https://www.legislation.gov.uk/uksi/2017/510/article/17)
+[^c-702807d837e33817be90c3d57be7890e]: Modification: [S. 83](https://www.legislation.gov.uk/ukpga/1995/25/section/83) functions made exercisable concurrently (E.W.) (8.5.2017) by [The West Midlands Combined Authority (Functions and Amendment) Order 2017 (S.I. 2017/510)](https://www.legislation.gov.uk/uksi/2017/510), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/510/article/1/2), [17](https://www.legislation.gov.uk/uksi/2017/510/article/17)

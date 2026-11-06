@@ -36,7 +36,7 @@ undertaken by way of trade or business, or for the purpose of any industrial or 
 - (f) Part V;
 - (g) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14253591]
 - (h) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14253601]
-- (j)[^c14253611] the provisions of Part X with respect to . . . [^c14253621][^c14253631]. . ., [^key-16df45e652dbe0b9dfebdc5ef309ea55]..., preservation of registers and records, . . . [^c14253641]
+- (j)[^c14253611] the provisions of Part X with respect to . . . [^c14253621][^c14253631]. . ., [^c-16df45e652dbe0b9dfebdc5ef309ea55]..., preservation of registers and records, . . . [^c14253641]
 - (k) the provisions of Part XI with respect to . . . [^c14253571] duties of . . . [^c14253571] district councils;
 - (l) Part XII;
 - (m) Part XIII;
@@ -46,7 +46,7 @@ undertaken by way of trade or business, or for the purpose of any industrial or 
 
 (4) The provisions of this Act in their application to building operations or to works of engineering construction shall have effect as if any place where such operations or works are carried on were a factory and any person undertaking any such operations or works to which this Act applies were the occupier of a factory, and with such other adaptations and modifications as may be made by regulations made by the Minister.
 
-(5) The provisions of this Act requiring [^key-d9cebb05d172795845047c495c9c50d2]... registers to be kept [^c14253681]. . . shall be deemed to be complied with as respects building operations or works of engineering construction if the register is kept at an office of the person undertaking the operations or works [^c14253681]. . ..
+(5) The provisions of this Act requiring [^c-d9cebb05d172795845047c495c9c50d2]... registers to be kept [^c14253681]. . . shall be deemed to be complied with as respects building operations or works of engineering construction if the register is kept at an office of the person undertaking the operations or works [^c14253681]. . ..
 
 (6)[^c14253701] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -74,13 +74,13 @@ undertaken by way of trade or business, or for the purpose of any industrial or 
 
 [^c14253631]: Textual amendment: Words in s. 127(2)(j) repealed (1.1.1996) by [S.I. 1995/2923](https://www.legislation.gov.uk/uksi/1995/2923), [reg. 3](https://www.legislation.gov.uk/uksi/1995/2923/regulation/3), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1995/2923/schedule/part/I)
 
-[^key-16df45e652dbe0b9dfebdc5ef309ea55]: Textual amendment: Words in [s. 127(2)(j)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/127/2/j) repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2009/605/regulation/4/2/b)
+[^c-16df45e652dbe0b9dfebdc5ef309ea55]: Textual amendment: Words in [s. 127(2)(j)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/127/2/j) repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2009/605/regulation/4/2/b)
 
 [^c14253641]: Textual amendment: Words repealed by [S.I. 1975/1012](https://www.legislation.gov.uk/uksi/1975/1012), [Sch.](https://www.legislation.gov.uk/uksi/1975/1012/schedule)
 
 [^c14253671]: Textual amendment: S. 127(3) repealed (2.9.1996) by [S.I. 1996/1592](https://www.legislation.gov.uk/uksi/1996/1592), [reg. 34](https://www.legislation.gov.uk/uksi/1996/1592/regulation/34), [Sch. 9 para. 2(a)](https://www.legislation.gov.uk/uksi/1996/1592/schedule/9/paragraph/2/a)
 
-[^key-d9cebb05d172795845047c495c9c50d2]: Textual amendment: Word in [s. 127(5)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/127/5) repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2009/605/regulation/4/2/c)
+[^c-d9cebb05d172795845047c495c9c50d2]: Textual amendment: Word in [s. 127(5)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/127/5) repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2009/605/regulation/4/2/c)
 
 [^c14253681]: Textual amendment: Words in s. 127(5) repealed (1.1.1996) by [S.I. 1995/2923](https://www.legislation.gov.uk/uksi/1995/2923), [reg. 3](https://www.legislation.gov.uk/uksi/1995/2923/regulation/3), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1995/2923/schedule/part/I)
 

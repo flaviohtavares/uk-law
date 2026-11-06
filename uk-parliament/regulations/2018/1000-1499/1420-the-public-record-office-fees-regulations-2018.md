@@ -31,7 +31,7 @@ summary: ''
 
 Public Records
 
-The Public Record Office (Fees) Regulations 2018 (revoked)[^key-185cb167de07d4e682f40bb8b3e2d60e]
+The Public Record Office (Fees) Regulations 2018 (revoked)[^c-185cb167de07d4e682f40bb8b3e2d60e]
 
 Made
 
@@ -41,27 +41,27 @@ Coming into force
 
 1st February 2019
 
-[^key-185cb167de07d4e682f40bb8b3e2d60e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-185cb167de07d4e682f40bb8b3e2d60e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-185cb167de07d4e682f40bb8b3e2d60e]
+## 1. Citation and commencement[^c-185cb167de07d4e682f40bb8b3e2d60e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Fees[^key-185cb167de07d4e682f40bb8b3e2d60e]
+## 2. Fees[^c-185cb167de07d4e682f40bb8b3e2d60e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-185cb167de07d4e682f40bb8b3e2d60e]
+## 3. Revocation[^c-185cb167de07d4e682f40bb8b3e2d60e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-185cb167de07d4e682f40bb8b3e2d60e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-185cb167de07d4e682f40bb8b3e2d60e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-185cb167de07d4e682f40bb8b3e2d60e]
+## SCHEDULE[^c-185cb167de07d4e682f40bb8b3e2d60e]
 
 Regulation 2
 
@@ -69,8 +69,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-185cb167de07d4e682f40bb8b3e2d60e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-185cb167de07d4e682f40bb8b3e2d60e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-185cb167de07d4e682f40bb8b3e2d60e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1420) revoked (2.2.2026) by [The Public Record Office (Fees) Regulations 2025 (S.I. 2025/1243)](https://www.legislation.gov.uk/uksi/2025/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1243/regulation/1), [4](https://www.legislation.gov.uk/uksi/2025/1243/regulation/4)
+[^c-185cb167de07d4e682f40bb8b3e2d60e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2018/1420) revoked (2.2.2026) by [The Public Record Office (Fees) Regulations 2025 (S.I. 2025/1243)](https://www.legislation.gov.uk/uksi/2025/1243), [regs. 1](https://www.legislation.gov.uk/uksi/2025/1243/regulation/1), [4](https://www.legislation.gov.uk/uksi/2025/1243/regulation/4)

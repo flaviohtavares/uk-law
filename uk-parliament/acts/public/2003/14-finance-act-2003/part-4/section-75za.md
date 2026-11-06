@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75ZA. Increased rates for non-resident transactions[^key-e381cbd7572399b5098cbf7fc12a4c0a]
+## 75ZA. Increased rates for non-resident transactions[^c-e381cbd7572399b5098cbf7fc12a4c0a]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e381cbd7572399b5098cbf7fc12a4c0a]: Textual amendment: S. 75ZA and cross-heading inserted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/2) (with [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/6))
+[^c-e381cbd7572399b5098cbf7fc12a4c0a]: Textual amendment: S. 75ZA and cross-heading inserted (with effect in accordance with Sch. 16 para. 6 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/2) (with [Sch. 16 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/16/paragraph/6))

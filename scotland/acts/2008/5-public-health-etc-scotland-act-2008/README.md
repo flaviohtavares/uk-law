@@ -231,9 +231,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 - [Section 86 — Application of this Part where other functions being exercised](part-5/section-86.md)
 
-### Part 5A — Public health protection measures[^key-1fbe3b64e74b1d617988b2f4af4d44cc]
+### Part 5A — Public health protection measures[^c-1fbe3b64e74b1d617988b2f4af4d44cc]
 
-#### Public health protection regulations[^key-1fbe3b64e74b1d617988b2f4af4d44cc]
+#### Public health protection regulations[^c-1fbe3b64e74b1d617988b2f4af4d44cc]
 
 - [Section 86A — Public health protection regulations](part-5a/section-86a.md)
 - [Section 86B — Public health protection regulations: public health declarations](part-5a/section-86b.md)
@@ -245,7 +245,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - [Section 86H — Further provision on content of regulations](part-5a/section-86h.md)
 - [Section 86I — Review of regulations](part-5a/section-86i.md)
 
-#### Public health monitoring measures[^key-1fbe3b64e74b1d617988b2f4af4d44cc]
+#### Public health monitoring measures[^c-1fbe3b64e74b1d617988b2f4af4d44cc]
 
 - [Section 86J — Public health monitoring measures](part-5a/section-86j.md)
 
@@ -327,4 +327,4 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-1fbe3b64e74b1d617988b2f4af4d44cc]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/asp/2008/5/part/5A) inserted (1.9.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/8/section/1/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-1fbe3b64e74b1d617988b2f4af4d44cc]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/asp/2008/5/part/5A) inserted (1.9.2022) by [Coronavirus (Recovery and Reform) (Scotland) Act 2022 (asp 8)](https://www.legislation.gov.uk/asp/2022/8), [ss. 1(2)](https://www.legislation.gov.uk/asp/2022/8/section/1/2), [59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

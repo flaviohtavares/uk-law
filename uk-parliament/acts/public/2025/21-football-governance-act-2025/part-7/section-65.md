@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Power to require information[^key-8830bf9c7333f095623c600ca996f67f][^key-67749aacacd881762899915c2759ef02]
+## 65. Power to require information[^c-8830bf9c7333f095623c600ca996f67f][^c-67749aacacd881762899915c2759ef02]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8830bf9c7333f095623c600ca996f67f]: Commencement: S. 65 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
+[^c-8830bf9c7333f095623c600ca996f67f]: Commencement: S. 65 in force at Royal Assent for specified purposes, see [s. 100(2)(g)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/g)
 
-[^key-67749aacacd881762899915c2759ef02]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2025/21/section/65) in force at 1.11.2025 in so far as not already in force by [S.I. 2025/1134](https://www.legislation.gov.uk/uksi/2025/1134), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1134/regulation/2/a)
+[^c-67749aacacd881762899915c2759ef02]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2025/21/section/65) in force at 1.11.2025 in so far as not already in force by [S.I. 2025/1134](https://www.legislation.gov.uk/uksi/2025/1134), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1134/regulation/2/a)

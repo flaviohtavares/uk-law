@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Transitional provisions in respect of the 2000 Regulations[^key-fb55697bdeafbed3407a80f1d271d0a5]
+## 58. Transitional provisions in respect of the 2000 Regulations[^c-fb55697bdeafbed3407a80f1d271d0a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ received by the Secretary of State before the Regulations come into force.
 
 ## Annotations
 
-[^key-fb55697bdeafbed3407a80f1d271d0a5]: Commencement: Reg. 58 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-fb55697bdeafbed3407a80f1d271d0a5]: Commencement: Reg. 58 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)

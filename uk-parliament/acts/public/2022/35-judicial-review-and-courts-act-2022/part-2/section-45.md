@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Abolition of local justice areas[^key-e98cdd0776c111b1defe35aa9a1e0b85]
+## 45. Abolition of local justice areas[^c-e98cdd0776c111b1defe35aa9a1e0b85]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e98cdd0776c111b1defe35aa9a1e0b85]: Commencement: S. 45 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-e98cdd0776c111b1defe35aa9a1e0b85]: Commencement: S. 45 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

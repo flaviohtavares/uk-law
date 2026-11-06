@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Cessation of the EUCL[^key-505e61f57f3efd5a6ab73b314df8f9ae]
+## 154. Cessation of the EUCL[^c-505e61f57f3efd5a6ab73b314df8f9ae]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The continued effect of the EUCL in relation to goods as provided by this chapte
 
 ## Annotations
 
-[^key-505e61f57f3efd5a6ab73b314df8f9ae]: Commencement: Reg. 154 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-505e61f57f3efd5a6ab73b314df8f9ae]: Commencement: Reg. 154 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 74. Compliance notices[^key-91005f2bec9c2b600c85860eb5a00368]
+## 74. Compliance notices[^c-91005f2bec9c2b600c85860eb5a00368]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91005f2bec9c2b600c85860eb5a00368]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2012/2079/regulation/74) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)
+[^c-91005f2bec9c2b600c85860eb5a00368]: Commencement: [Reg. 74](https://www.legislation.gov.uk/uksi/2012/2079/regulation/74) in force at 1.10.2012 for specified purposes and 28.1.2013 in so far as not already in force, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/4)

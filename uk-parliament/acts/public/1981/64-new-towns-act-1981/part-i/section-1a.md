@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Local authority to oversee development of new town[^key-18bb9ed9fca48963e46b4b23b7854b64]
+## 1A. Local authority to oversee development of new town[^c-18bb9ed9fca48963e46b4b23b7854b64]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18bb9ed9fca48963e46b4b23b7854b64]: Textual amendment: S. 1A inserted (19.7.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/16/2), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/f)
+[^c-18bb9ed9fca48963e46b4b23b7854b64]: Textual amendment: S. 1A inserted (19.7.2017) by [Neighbourhood Planning Act 2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2017/20/section/16/2), [46(1)](https://www.legislation.gov.uk/ukpga/2017/20/section/46/1); [S.I. 2017/767](https://www.legislation.gov.uk/uksi/2017/767), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/767/regulation/2/f)

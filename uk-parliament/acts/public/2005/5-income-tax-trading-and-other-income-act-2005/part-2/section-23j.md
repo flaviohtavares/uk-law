@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23J. Election to disapply section 23I[^key-3b3b89fd758a500a76833fb17c4c24b0]
+## 23J. Election to disapply section 23I[^c-3b3b89fd758a500a76833fb17c4c24b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b3b89fd758a500a76833fb17c4c24b0]: Textual amendment: [Ss. 23I-23R](https://www.legislation.gov.uk/ukpga/2005/5/section/23I) and cross-heading inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/2)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6)
+[^c-3b3b89fd758a500a76833fb17c4c24b0]: Textual amendment: [Ss. 23I-23R](https://www.legislation.gov.uk/ukpga/2005/5/section/23I) and cross-heading inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/2)[(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6)

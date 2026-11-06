@@ -22,9 +22,9 @@ summary: ''
 
 Subject to regulation 39(4)(b)(ii), a party to a transaction with an open-ended investment company is not bound to enquire—
 
-- (a) as to whether the transaction is permitted by these Regulations, FCA[^key-22e07a67ed7afbb1a72aaed221fbf07f] rules or the company’s instrument of incorporation; or
+- (a) as to whether the transaction is permitted by these Regulations, FCA[^c-22e07a67ed7afbb1a72aaed221fbf07f] rules or the company’s instrument of incorporation; or
 - (b) as to any limitation on the powers referred to in regulation 39(1)(a) or (b).
 
 ## Annotations
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)

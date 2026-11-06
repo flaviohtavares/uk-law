@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Bovine Products (Restriction on Placing on the Market) Regulations (Northern Ireland) 2005 (revoked)[^key-88fe188e750f07aeedf3a678dd0bd949]
+The Bovine Products (Restriction on Placing on the Market) Regulations (Northern Ireland) 2005 (revoked)[^c-88fe188e750f07aeedf3a678dd0bd949]
 
 Made
 
@@ -41,50 +41,50 @@ Coming into operation
 
 7th November 2005
 
-[^key-88fe188e750f07aeedf3a678dd0bd949]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88fe188e750f07aeedf3a678dd0bd949]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-88fe188e750f07aeedf3a678dd0bd949]
+## 1. Citation and commencement[^c-88fe188e750f07aeedf3a678dd0bd949]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-88fe188e750f07aeedf3a678dd0bd949]
+## 2. Interpretation[^c-88fe188e750f07aeedf3a678dd0bd949]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on the placing on the market of certain products derived from older bovine animals[^key-88fe188e750f07aeedf3a678dd0bd949]
+## 3. Prohibition on the placing on the market of certain products derived from older bovine animals[^c-88fe188e750f07aeedf3a678dd0bd949]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^key-88fe188e750f07aeedf3a678dd0bd949]
+## 4. Application of various provisions of the Food Safety (Northern Ireland) Order 1991[^c-88fe188e750f07aeedf3a678dd0bd949]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Inspection and seizure of suspected products[^key-88fe188e750f07aeedf3a678dd0bd949]
+## 5. Inspection and seizure of suspected products[^c-88fe188e750f07aeedf3a678dd0bd949]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-88fe188e750f07aeedf3a678dd0bd949]
+## 6. Offences and penalties[^c-88fe188e750f07aeedf3a678dd0bd949]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement[^key-88fe188e750f07aeedf3a678dd0bd949]
+## 7. Enforcement[^c-88fe188e750f07aeedf3a678dd0bd949]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Animal By-Products (Identification) Regulations (Northern Ireland) 1999[^key-88fe188e750f07aeedf3a678dd0bd949]
+## 8. Amendment of the Animal By-Products (Identification) Regulations (Northern Ireland) 1999[^c-88fe188e750f07aeedf3a678dd0bd949]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Revocations[^key-88fe188e750f07aeedf3a678dd0bd949]
+## 9. Revocations[^c-88fe188e750f07aeedf3a678dd0bd949]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88fe188e750f07aeedf3a678dd0bd949]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88fe188e750f07aeedf3a678dd0bd949]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-88fe188e750f07aeedf3a678dd0bd949]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-88fe188e750f07aeedf3a678dd0bd949]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-88fe188e750f07aeedf3a678dd0bd949]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/439) revoked (1.1.2006) by [The Bovine Products (Restriction on Placing on the Market) (No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/515)](https://www.legislation.gov.uk/nisr/2005/515), [regs. 1](https://www.legislation.gov.uk/nisr/2005/515/regulation/1), [9](https://www.legislation.gov.uk/nisr/2005/515/regulation/9)
+[^c-88fe188e750f07aeedf3a678dd0bd949]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/439) revoked (1.1.2006) by [The Bovine Products (Restriction on Placing on the Market) (No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/515)](https://www.legislation.gov.uk/nisr/2005/515), [regs. 1](https://www.legislation.gov.uk/nisr/2005/515/regulation/1), [9](https://www.legislation.gov.uk/nisr/2005/515/regulation/9)

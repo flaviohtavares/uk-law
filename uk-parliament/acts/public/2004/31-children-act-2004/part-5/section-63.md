@@ -66,8 +66,8 @@ summary: ''
 >
 > (9) The reference to an enactment in sub-paragraph (5)(b) includes a reference to an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament.
 
-(2) In relation to an offence committed under sub-paragraph (5) of paragraph 10A of Schedule 5 to the Tax Credits Act 2002 (c. 21) (as inserted by subsection (1) above) before 2 May 2022[^key-30ef3de2a0a71fccce6e1e8f35073992], the reference in sub-paragraph (7)(b) of that paragraph to twelve months shall be read as a reference to six months.
+(2) In relation to an offence committed under sub-paragraph (5) of paragraph 10A of Schedule 5 to the Tax Credits Act 2002 (c. 21) (as inserted by subsection (1) above) before 2 May 2022[^c-30ef3de2a0a71fccce6e1e8f35073992], the reference in sub-paragraph (7)(b) of that paragraph to twelve months shall be read as a reference to six months.
 
 ## Annotations
 
-[^key-30ef3de2a0a71fccce6e1e8f35073992]: Textual amendment: Words in [s. 63(2)](https://www.legislation.gov.uk/ukpga/2004/31/section/63/2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-30ef3de2a0a71fccce6e1e8f35073992]: Textual amendment: Words in [s. 63(2)](https://www.legislation.gov.uk/ukpga/2004/31/section/63/2) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)

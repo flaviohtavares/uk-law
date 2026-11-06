@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Access to works[^key-19ab2619905e58a20591a606d453d914]
+## 14. Access to works[^c-19ab2619905e58a20591a606d453d914]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ DLRL may, for the purposes of the authorised works—
 
 ## Annotations
 
-[^key-19ab2619905e58a20591a606d453d914]: Commencement: Art. 14 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)
+[^c-19ab2619905e58a20591a606d453d914]: Commencement: Art. 14 in force at 25.11.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3105/article/1)

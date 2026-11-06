@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99ZA. Inspection of records and other documents and data relating to recording equipment[^key-bf33417b0fe268be6715ed53020de7f5]
+## 99ZA. Inspection of records and other documents and data relating to recording equipment[^c-bf33417b0fe268be6715ed53020de7f5]
 
 *Extent: E+W+S+N.I.*
 
 (1) An officer may, on production if so required of his authority, require any person to produce, and permit him to inspect, remove, retain and copy—
 
-- (a) if that person is the owner of a vehicle to which section 97 or 97ZA[^key-56819c5acda245cd7e4fe711cb9ffbb4] applies, any document of that person which the officer may reasonably require to inspect for the purpose of ascertaining whether the provisions of this Part of this Act have been complied with;
-- (b) any record sheet or hard copy of electronically stored data which that person is required by the EU[^key-7705c5afa0ecc1758504bc9d8e9ed551] Tachographs Regulation or the AETR[^key-fd6bcf87363ac3872f79a994aecb6246] to retain or to be able to produce;
+- (a) if that person is the owner of a vehicle to which section 97 or 97ZA[^c-56819c5acda245cd7e4fe711cb9ffbb4] applies, any document of that person which the officer may reasonably require to inspect for the purpose of ascertaining whether the provisions of this Part of this Act have been complied with;
+- (b) any record sheet or hard copy of electronically stored data which that person is required by the EU[^c-7705c5afa0ecc1758504bc9d8e9ed551] Tachographs Regulation or the AETR[^c-fd6bcf87363ac3872f79a994aecb6246] to retain or to be able to produce;
 - (c) any book, register or other document required by the applicable Community Rules or which the officer may reasonably require to inspect for the purpose of ascertaining whether the requirements of the applicable Community rules have been complied with.
 
 (2) An officer may, on production if so required of his authority, require any person—
 
-- (a) to produce and permit him to inspect any driver card which that person is required by Article 36 of the[^key-6ffb053e68bdc627a5b6890a330049dc] EU Tachographs Regulation or Article 12(7)(a) or (b) of the Annex to the AETR[^key-69f15ce05faeb81bb3fb7d49553adefb] to be able to produce; and
+- (a) to produce and permit him to inspect any driver card which that person is required by Article 36 of the[^c-6ffb053e68bdc627a5b6890a330049dc] EU Tachographs Regulation or Article 12(7)(a) or (b) of the Annex to the AETR[^c-69f15ce05faeb81bb3fb7d49553adefb] to be able to produce; and
 - (b) to permit the officer to copy the data stored on the driver card (and to remove temporarily the driver card for the purpose of doing so) and to remove and retain the copy.
 
 (3) If the officer so requires by notice in writing, anything that a person is required to produce under subsection (1) or (2) of this section shall, instead of being produced when the requirement under those subsections is imposed, be produced at an address specified in the notice, within such time (not being less than ten days) from the service of the notice as is so specified.
@@ -39,14 +39,14 @@ summary: ''
 
 (6) In this Part of this Act—
 
-- “digital recording equipment” means recording equipment that complies with the relevant provision[^key-842f8ded21faab50658988bea65e5381];
-- “driver card” has the meaning given by the relevant provision[^key-f60bdecb4819df1437adb99fad54bb41];
-- “electronic copy” of data means a copy of data stored electronically together with the data’s digital signature (within the meaning of the relevant provision[^key-daf0bbce18ccb3fd7bd9831088f9cd75]);
+- “digital recording equipment” means recording equipment that complies with the relevant provision[^c-842f8ded21faab50658988bea65e5381];
+- “driver card” has the meaning given by the relevant provision[^c-f60bdecb4819df1437adb99fad54bb41];
+- “electronic copy” of data means a copy of data stored electronically together with the data’s digital signature (within the meaning of the relevant provision[^c-daf0bbce18ccb3fd7bd9831088f9cd75]);
 - “hard copy” in relation to data stored electronically means a printed out version of the data.
 
-(7)[^key-10e2c629902f0d941f5329bbf765c88e] In subsection (6) “**relevant provision**” means—
+(7)[^c-10e2c629902f0d941f5329bbf765c88e] In subsection (6) “**relevant provision**” means—
 
-- (a)[^key-94e4ff376fcdbc3803e2392a1cf4dd98] in relation to a vehicle to which section 97 applies—
+- (a)[^c-94e4ff376fcdbc3803e2392a1cf4dd98] in relation to a vehicle to which section 97 applies—
   - (i) where the vehicle was put into service for the first time before the date on which the Passenger and Goods Vehicles (Tachographs) (Amendment etc.) Regulations 2019 come into force—
     - (aa) Annex IB of [Council Regulation (EEC) No 3821/85](https://www.legislation.gov.uk/european/regulation/1985/3821) for as long as preserved and applied by Article 46 of the EU Tachographs Regulation, or
     - (bb) Annex 1C to Commission Implementing Regulation (EU) 2016/799; and
@@ -202,27 +202,27 @@ the relevant person must pay, in respect of loss occasioned, such amount as in d
 
 ## Annotations
 
-[^key-bf33417b0fe268be6715ed53020de7f5]: Textual amendment: Ss. 99ZA-99ZF inserted (5.8.2005) by [The Passenger and Goods Vehicles (Recording Equipment) Regulations 2005 (S.I. 2005/1904)](https://www.legislation.gov.uk/uksi/2005/1904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1904/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2005/1904/regulation/6)
+[^c-bf33417b0fe268be6715ed53020de7f5]: Textual amendment: Ss. 99ZA-99ZF inserted (5.8.2005) by [The Passenger and Goods Vehicles (Recording Equipment) Regulations 2005 (S.I. 2005/1904)](https://www.legislation.gov.uk/uksi/2005/1904), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1904/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2005/1904/regulation/6)
 
-[^key-56819c5acda245cd7e4fe711cb9ffbb4]: Textual amendment: Words in [s. 99ZA(1)(a)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/1/a) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/2/a)
+[^c-56819c5acda245cd7e4fe711cb9ffbb4]: Textual amendment: Words in [s. 99ZA(1)(a)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/1/a) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/2/a)
 
-[^key-7705c5afa0ecc1758504bc9d8e9ed551]: Textual amendment: Words in s. 99ZA(1)(b) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/8/a)
+[^c-7705c5afa0ecc1758504bc9d8e9ed551]: Textual amendment: Words in s. 99ZA(1)(b) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/8/a)
 
-[^key-fd6bcf87363ac3872f79a994aecb6246]: Textual amendment: Words in [s. 99ZA(1)(b)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/1/b) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/2/b)
+[^c-fd6bcf87363ac3872f79a994aecb6246]: Textual amendment: Words in [s. 99ZA(1)(b)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/1/b) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/2/b)
 
-[^key-6ffb053e68bdc627a5b6890a330049dc]: Textual amendment: Words in s. 99ZA(2)(a) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2016/248/regulation/8/b)
+[^c-6ffb053e68bdc627a5b6890a330049dc]: Textual amendment: Words in s. 99ZA(2)(a) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2016/248/regulation/8/b)
 
-[^key-69f15ce05faeb81bb3fb7d49553adefb]: Textual amendment: Words in [s. 99ZA(2)(a)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/2/a) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/3)
+[^c-69f15ce05faeb81bb3fb7d49553adefb]: Textual amendment: Words in [s. 99ZA(2)(a)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/2/a) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/3)
 
-[^key-842f8ded21faab50658988bea65e5381]: Textual amendment: Words in [s. 99ZA(6)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/6) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(4)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/4/a)
+[^c-842f8ded21faab50658988bea65e5381]: Textual amendment: Words in [s. 99ZA(6)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/6) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(4)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/4/a)
 
-[^key-f60bdecb4819df1437adb99fad54bb41]: Textual amendment: Words in [s. 99ZA(6)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/6) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(4)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/4/b)
+[^c-f60bdecb4819df1437adb99fad54bb41]: Textual amendment: Words in [s. 99ZA(6)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/6) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(4)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/4/b)
 
-[^key-daf0bbce18ccb3fd7bd9831088f9cd75]: Textual amendment: Words in [s. 99ZA(6)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/6) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(4)(c)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/4/c)
+[^c-daf0bbce18ccb3fd7bd9831088f9cd75]: Textual amendment: Words in [s. 99ZA(6)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/6) substituted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(4)(c)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/4/c)
 
-[^key-10e2c629902f0d941f5329bbf765c88e]: Textual amendment: [S. 99ZA(7)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/7) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/5)
+[^c-10e2c629902f0d941f5329bbf765c88e]: Textual amendment: [S. 99ZA(7)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/7) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [16(5)](https://www.legislation.gov.uk/uksi/2019/453/regulation/16/5)
 
-[^key-94e4ff376fcdbc3803e2392a1cf4dd98]: Textual amendment: [S. 99ZA(7)(a)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/7/a) substituted (24.10.2019) by [The Passenger and Goods Vehicles (Tachographs) (Amendment etc.) Regulations 2019 (S.I. 2019/1379)](https://www.legislation.gov.uk/uksi/2019/1379), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1379/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/1379/regulation/6)
+[^c-94e4ff376fcdbc3803e2392a1cf4dd98]: Textual amendment: [S. 99ZA(7)(a)](https://www.legislation.gov.uk/ukpga/1968/73/section/99ZA/7/a) substituted (24.10.2019) by [The Passenger and Goods Vehicles (Tachographs) (Amendment etc.) Regulations 2019 (S.I. 2019/1379)](https://www.legislation.gov.uk/uksi/2019/1379), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1379/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/1379/regulation/6)
 
 [^M_F_49041c04-d83b-4fc3-c61f-017d22180e2c]: Textual amendment: Words in s. 99ZB(1) inserted (26.3.2019) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [17(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/17/2)
 

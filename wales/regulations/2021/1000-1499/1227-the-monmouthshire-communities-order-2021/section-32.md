@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Caldicot, Portskewett and Rogiet, — changes in community boundaries and consequential change to electoral arrangements[^key-af1059a663d3179b65143638b94e937c][^key-9385de41ab96977085632364b7680f8d]
+## 32. Caldicot, Portskewett and Rogiet, — changes in community boundaries and consequential change to electoral arrangements[^c-af1059a663d3179b65143638b94e937c][^c-9385de41ab96977085632364b7680f8d]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ The part of the community of Portskewett shown hatched on Map 27—
 
 ## Annotations
 
-[^key-af1059a663d3179b65143638b94e937c]: Commencement: Art. 32 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-af1059a663d3179b65143638b94e937c]: Commencement: Art. 32 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-9385de41ab96977085632364b7680f8d]: Commencement: [Art. 32](https://www.legislation.gov.uk/wsi/2021/1227/article/32) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-9385de41ab96977085632364b7680f8d]: Commencement: [Art. 32](https://www.legislation.gov.uk/wsi/2021/1227/article/32) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. The training manager[^key-119c7cbaf3f5c0edb0e070c7f26cf1c5]
+## 61. The training manager[^c-119c7cbaf3f5c0edb0e070c7f26cf1c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-119c7cbaf3f5c0edb0e070c7f26cf1c5]: Commencement: Reg. 61 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-119c7cbaf3f5c0edb0e070c7f26cf1c5]: Commencement: Reg. 61 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

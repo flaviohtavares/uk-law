@@ -37,7 +37,7 @@ Made
 
 The Secretary of State for Children, Schools and Families makes the following Order in exercise of the powers conferred by section 173(4) and (8) of the Education and Skills Act 2008[^f00001]:
 
-## 1. Citation and interpretation[^key-6a93c325fc555105af7ff07578a6f3bb]
+## 1. Citation and interpretation[^c-6a93c325fc555105af7ff07578a6f3bb]
 
 (1) This Order may be cited as the Education and Skills Act 2008 (Commencement No. 4, Commencement No. 3 (Amendment), Transitory and Saving Provisions) Order 2009.
 
@@ -46,11 +46,11 @@ The Secretary of State for Children, Schools and Families makes the following Or
 - “the Act” means the Education and Skills Act 2008;
 - “the 2002 Act” means the Education Act 2002[^f00002].
 
-## 2. Provisions coming into force on 1st August 2009[^key-e16093b06da484f8a12307d8503e1dc9]
+## 2. Provisions coming into force on 1st August 2009[^c-e16093b06da484f8a12307d8503e1dc9]
 
 Section 86 of the Act comes into force on 1st August 2009 so far as not already in force.
 
-## 3. Provisions coming into force on 1st September 2009[^key-41ee4ea913df2b2e9200cd8787739c19]
+## 3. Provisions coming into force on 1st September 2009[^c-41ee4ea913df2b2e9200cd8787739c19]
 
 The following provisions of the Act come into force on 1st September 2009—
 
@@ -64,7 +64,7 @@ The following provisions of the Act come into force on 1st September 2009—
 - paragraphs 13 and 18 of Schedule 1 (minor and consequential amendments), so far as they repeal subsections (6) and (7) of section 162B of the 2002 Act[^f00003], and section 169(1) so far as it relates to that repeal;
 - Schedule 2 (repeals and revocations) so far as it repeals subsections (6) and (7) of section 162B of the 2002 Act, and section 169(2) so far as it relates to that repeal.
 
-## 4. Provisions coming into force on 12th October 2009[^key-943fb27850ab8d9dab2c1ec832e5cdb8]
+## 4. Provisions coming into force on 12th October 2009[^c-943fb27850ab8d9dab2c1ec832e5cdb8]
 
 The following provisions of the Act come into force on 12th October 2009—
 
@@ -75,15 +75,15 @@ The following provisions of the Act come into force on 12th October 2009—
 - sections 134 to 136 (offences);
 - section 138(1) so far as not already in force and so far as necessary for the interpretation of provisions brought into force by this article or made under such provisions.
 
-## 5. Transitory provisions in connection with the commencement of sections 112, 117, 119, 124, 127 and 137 of the Act[^key-8ba9a0a516b299b6d77fc23a60b49a20]
+## 5. Transitory provisions in connection with the commencement of sections 112, 117, 119, 124, 127 and 137 of the Act[^c-8ba9a0a516b299b6d77fc23a60b49a20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Saving[^key-6a482d63d898aba571fba936402eebc6]
+## 6. Saving[^c-6a482d63d898aba571fba936402eebc6]
 
 Despite the repeal of subsections (6) and (7) of section 162B of the 2002 Act, on and after 1st September 2009 the Secretary of State may remove a school from the register referred to in section 158(1)(a) of that Act where the proprietor fails to pay a fee in respect of which the liability to pay accrued before 1st September 2009.
 
-## 7. Amendment of the Education and Skills Act 2008 (Commencement No. 3) Order 2009: transitory provisions[^key-8315ecda158d46b671cee25a05d8134c]
+## 7. Amendment of the Education and Skills Act 2008 (Commencement No. 3) Order 2009: transitory provisions[^c-8315ecda158d46b671cee25a05d8134c]
 
 (1) The Education and Skills Act 2008 (Commencement No. 3) Order 2009[^f00004] is amended as follows.
 
@@ -186,22 +186,22 @@ The following provisions of the Act have been or will be brought into force in E
 
 [^f00001]: Footnote: [2008 c.25](https://www.legislation.gov.uk/ukpga/2008/25).
 
-[^key-6a93c325fc555105af7ff07578a6f3bb]: Commencement: Art. 1 in force at made date
+[^c-6a93c325fc555105af7ff07578a6f3bb]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [2002 c.32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-e16093b06da484f8a12307d8503e1dc9]: Commencement: Art. 2 in force at made date
+[^c-e16093b06da484f8a12307d8503e1dc9]: Commencement: Art. 2 in force at made date
 
-[^key-41ee4ea913df2b2e9200cd8787739c19]: Commencement: Art. 3 in force at made date
+[^c-41ee4ea913df2b2e9200cd8787739c19]: Commencement: Art. 3 in force at made date
 
 [^f00003]: Footnote: Section 162B was inserted by paragraph 2 of Schedule 8 to the Education Act [2005 (c.18)](https://www.legislation.gov.uk/ukpga/2005/18) and amended by paragraph 74 of Schedule 14 to the Education and Inspections Act [2006 (c.40)](https://www.legislation.gov.uk/ukpga/2006/40).
 
-[^key-943fb27850ab8d9dab2c1ec832e5cdb8]: Commencement: Art. 4 in force at made date
+[^c-943fb27850ab8d9dab2c1ec832e5cdb8]: Commencement: Art. 4 in force at made date
 
-[^key-8ba9a0a516b299b6d77fc23a60b49a20]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2009/1606/article/5) revoked (22.12.2014) by [The Education and Skills Act 2008 (Commencement No. 11 and Saving and Transitory Provisions) Order 2014 (S.I. 2014/3364)](https://www.legislation.gov.uk/uksi/2014/3364), [Sch.](https://www.legislation.gov.uk/uksi/2014/3364/schedule)
+[^c-8ba9a0a516b299b6d77fc23a60b49a20]: Textual amendment: [Art. 5](https://www.legislation.gov.uk/uksi/2009/1606/article/5) revoked (22.12.2014) by [The Education and Skills Act 2008 (Commencement No. 11 and Saving and Transitory Provisions) Order 2014 (S.I. 2014/3364)](https://www.legislation.gov.uk/uksi/2014/3364), [Sch.](https://www.legislation.gov.uk/uksi/2014/3364/schedule)
 
-[^key-6a482d63d898aba571fba936402eebc6]: Commencement: Art. 6 in force at made date
+[^c-6a482d63d898aba571fba936402eebc6]: Commencement: Art. 6 in force at made date
 
-[^key-8315ecda158d46b671cee25a05d8134c]: Commencement: Art. 7 in force at made date
+[^c-8315ecda158d46b671cee25a05d8134c]: Commencement: Art. 7 in force at made date
 
 [^f00004]: Footnote: [S.I. 2009/1513 (C.78)](https://www.legislation.gov.uk/uksi/2009/1513).

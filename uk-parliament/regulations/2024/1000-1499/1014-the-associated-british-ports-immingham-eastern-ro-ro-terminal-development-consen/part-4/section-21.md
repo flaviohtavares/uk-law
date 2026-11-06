@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Operation and use of development[^key-75e7dc47befc2a1f21de0664ef868cbb]
+## 21. Operation and use of development[^c-75e7dc47befc2a1f21de0664ef868cbb]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75e7dc47befc2a1f21de0664ef868cbb]: Commencement: Art. 21 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-75e7dc47befc2a1f21de0664ef868cbb]: Commencement: Art. 21 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

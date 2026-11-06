@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Recovery of costs of new connections[^key-2a2652f30cd8d987060dc8d637d670a1]
+## 44. Recovery of costs of new connections[^c-2a2652f30cd8d987060dc8d637d670a1]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ is entitled to recover from the undertaker compensation in respect of expenditur
 
 ## Annotations
 
-[^key-2a2652f30cd8d987060dc8d637d670a1]: Commencement: Art. 44 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-2a2652f30cd8d987060dc8d637d670a1]: Commencement: Art. 44 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

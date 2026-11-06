@@ -42,17 +42,17 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment is a department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the environment.
 
-These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Department that it is expedient for references to EU instruments, or provisions of those instruments, in these Regulations to be construed as references to those instruments or provisions as amended from time to time.[^key-98f6d11adcdacbe1fd51d84cfa91a6c0]
+These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972, and it appears to the Department that it is expedient for references to EU instruments, or provisions of those instruments, in these Regulations to be construed as references to those instruments or provisions as amended from time to time.[^c-98f6d11adcdacbe1fd51d84cfa91a6c0]
 
-Accordingly, the Department of Enterprise, Trade and Investment makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, as read with paragraph 1A of Schedule 2 to that Act[^f00003].[^key-98f6d11adcdacbe1fd51d84cfa91a6c0]
+Accordingly, the Department of Enterprise, Trade and Investment makes these Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972, as read with paragraph 1A of Schedule 2 to that Act[^f00003].[^c-98f6d11adcdacbe1fd51d84cfa91a6c0]
 
 ## General
 
-### 1. Citation and commencement[^key-675246ec0606024642ca5b15f70625d7]
+### 1. Citation and commencement[^c-675246ec0606024642ca5b15f70625d7]
 
 These Regulations may be cited as the Storage of Carbon Dioxide (Licensing etc.) Regulations (Northern Ireland) 2015, and come into operation on 4th January 2016.
 
-### 2. Interpretation[^key-67b56209a6c8eb80d641b7ebf2e774bf]
+### 2. Interpretation[^c-67b56209a6c8eb80d641b7ebf2e774bf]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00004] applies to these Regulations as it applies to an Act of the Assembly.
 
@@ -122,18 +122,18 @@ These Regulations may be cited as the Storage of Carbon Dioxide (Licensing etc.)
 
 ## Licences
 
-### 3. Limitation on licensing powers[^key-71c2b2c62bed183a0fa75082d68d397a]
+### 3. Limitation on licensing powers[^c-71c2b2c62bed183a0fa75082d68d397a]
 
 A licence shall not be granted for the purpose of storing CO<sub>2</sub> in the water column.
 
-### 4. Applications for a licence[^key-9b2047774cf473ad01144248e8b00bf4]
+### 4. Applications for a licence[^c-9b2047774cf473ad01144248e8b00bf4]
 
 An application for a licence shall be made in writing to the authority, and shall include either—
 
 - (a) a request that the licence specify a period (the “appraisal term”) during which the licence holder has the right to explore the licensed area before making an application for a storage permit; or
 - (b) if no such period is requested, a statement of the reasons why such exploration is not considered necessary.
 
-### 5. Appraisal term[^key-6e88592a257758ad062baae295439ca9]
+### 5. Appraisal term[^c-6e88592a257758ad062baae295439ca9]
 
 (1) A licence shall include an appraisal term where the authority determines that exploration is required to generate the information necessary to select a storage site.
 
@@ -149,13 +149,13 @@ An application for a licence shall be made in writing to the authority, and shal
 - (a) at the end of the appraisal term, if no application for a storage permit is made before that date; or
 - (b) if such an application is refused, when that refusal is notified to the licence holder.
 
-### 6. Content of a licence[^key-7b1491e2d3b7a357193991c3d5f9fefe]
+### 6. Content of a licence[^c-7b1491e2d3b7a357193991c3d5f9fefe]
 
 A licence shall include the provisions contained in Schedule 1.
 
 ## Storage permits
 
-### 7. Applications for a storage permit[^key-d2e677984f3ed010547ed39f137a911f]
+### 7. Applications for a storage permit[^c-d2e677984f3ed010547ed39f137a911f]
 
 (1) The licence holder may, under the conditions laid down by the licence, apply to the authority for a storage permit in respect of a storage site within the licensed area.
 
@@ -186,7 +186,7 @@ A licence shall include the provisions contained in Schedule 1.
 
 (5) The authority shall also (within one month after receipt) forward a copy of the permit application to the Department of the Environment.
 
-### 8. Grant of storage permits[^key-4c9915607d371f3a29e09a9e5722f2d8]
+### 8. Grant of storage permits[^c-4c9915607d371f3a29e09a9e5722f2d8]
 
 (1) Before granting a storage permit the authority shall be satisfied that—
 
@@ -228,7 +228,7 @@ and (if the permit is granted) the corrective measures plan is the plan as so ap
 - (a) the authority shall forward a draft of the proposed permit to the Department of the Environment; and
 - (b) the authority shall before granting the permit consider any opinion on the draft given by the Department of the Environment within one month of the date on which the draft permit was forwarded to it.
 
-### 9. Content of storage permits[^key-4ebc4a1649e67c8a5e5630d357d83a33]
+### 9. Content of storage permits[^c-4ebc4a1649e67c8a5e5630d357d83a33]
 
 (1) A storage permit shall include at least the following—
 
@@ -253,7 +253,7 @@ and (if the permit is granted) the corrective measures plan is the plan as so ap
 
 ## Powers and duties of the authority
 
-### 10. Corrective measures[^key-d953b914e4683258165f47d3858a87fd]
+### 10. Corrective measures[^c-d953b914e4683258165f47d3858a87fd]
 
 (1) This regulation applies where—
 
@@ -276,7 +276,7 @@ but does not apply where the storage permit has been revoked.
 
 (5) Section 24(5) to (8) apply to action taken under paragraph (4) as they apply to action taken under section 24(4).
 
-### 11. Review, modification and revocation of storage permits[^key-94aaf0cedca892b3ae1c3f2edf4e116a]
+### 11. Review, modification and revocation of storage permits[^c-94aaf0cedca892b3ae1c3f2edf4e116a]
 
 (1) Subject to paragraph (2), where a notification is given under the provisions in a storage permit included by virtue of regulation 9(1)(i) and paragraph 4(1) of Schedule 2, the authority—
 
@@ -319,7 +319,7 @@ but does not apply where the storage permit has been revoked.
 
 (8) Before making any modification to a storage permit or revoking a storage permit under this regulation, the authority shall consult the operator and any other licence holder.
 
-### 12. Consequences of revocation of a storage permit[^key-fc937221aa21b7f0ecb4112f2bfd859e]
+### 12. Consequences of revocation of a storage permit[^c-fc937221aa21b7f0ecb4112f2bfd859e]
 
 (1) This regulation applies where the authority has revoked a storage permit under regulation 11(7).
 
@@ -354,7 +354,7 @@ but does not apply where the storage permit has been revoked.
 
 ## Closure of storage site and post-closure period
 
-### 13. Post-closure plan[^key-91f3b939ed53a469e3e8bb190978fa00]
+### 13. Post-closure plan[^c-91f3b939ed53a469e3e8bb190978fa00]
 
 (1) Before applying for a storage permit, a licence holder shall draw up a proposed provisional post-closure plan that is—
 
@@ -377,7 +377,7 @@ and the post-closure plan is the plan so approved or modified.
 
 (4) Where the authority is deemed to be the operator pursuant to regulation 12(5), the post-closure plan is the provisional post-closure plan with such modifications as the authority considers necessary.
 
-### 14. Post-closure obligations[^key-e779c0f16ea379e8c75e5c30c28d5f78]
+### 14. Post-closure obligations[^c-e779c0f16ea379e8c75e5c30c28d5f78]
 
 The closure of a storage site is without prejudice to the obligations of the operator—
 
@@ -386,7 +386,7 @@ The closure of a storage site is without prejudice to the obligations of the ope
 
 ## Inspections and enforcement
 
-### 15. Inspections[^key-8d54588181b6acee8d0a5c9bb4a095c5]
+### 15. Inspections[^c-8d54588181b6acee8d0a5c9bb4a095c5]
 
 (1) The authority shall carry out an inspection (a “routine inspection”) of a storage complex—
 
@@ -423,7 +423,7 @@ The closure of a storage site is without prejudice to the obligations of the ope
 - (c) “post-closure period” means the period commencing on the day after the third anniversary of the date of closure of the storage site and ending on the date on which the relevant licence is terminated;
 - (d) “year” means a period of twelve months.
 
-### 16. Inspectors[^key-e6d039fc6f9bbd7b2c843cd57526a1ed]
+### 16. Inspectors[^c-e6d039fc6f9bbd7b2c843cd57526a1ed]
 
 (1) Subject to paragraph (3), an inspector may exercise any of the powers set out in Schedule 3 to assist the authority in carrying out its functions under Chapter 3 or these Regulations, including—
 
@@ -438,7 +438,7 @@ The closure of a storage site is without prejudice to the obligations of the ope
 
 (3) Before exercising any of the powers set out in Schedule 3, an inspector shall on request produce evidence of appointment.
 
-### 17. Inspection reports[^key-eb0422d0514845e9c5ef8387d3c3d8f2]
+### 17. Inspection reports[^c-eb0422d0514845e9c5ef8387d3c3d8f2]
 
 (1) The authority shall prepare a written report (an “inspection report”) of the results of an inspection.
 
@@ -458,7 +458,7 @@ The closure of a storage site is without prejudice to the obligations of the ope
 - (a) provide a copy of the inspection report to the operator of the relevant storage complex; and
 - (b) make the inspection report available for inspection by the public.
 
-### 18. Offences[^key-51092474d28f3525ecc2db03ea4fd4a1]
+### 18. Offences[^c-51092474d28f3525ecc2db03ea4fd4a1]
 
 (1) It is an offence for a person—
 
@@ -487,7 +487,7 @@ Department of Enterprise, Trade and Investment
 
 Regulation 6
 
-### 1. Closure of storage site by the operator[^key-c23434216ab16d5f28e7899045510df5]
+### 1. Closure of storage site by the operator[^c-c23434216ab16d5f28e7899045510df5]
 
 (1) If a storage permit is granted under the licence in respect of a storage site then, subject to regulation 12 of the Storage of Carbon Dioxide (Licensing etc.) Regulations (Northern Ireland) 2015 (“the Regulations”), the operator shall close the storage site if the conditions referred to in regulation 9(1)(k) of the Regulations are met.
 
@@ -503,7 +503,7 @@ Regulation 6
 
 (4) A storage site shall not be closed under sub-paragraph (1) or (2) until the terms of the post-closure plan have been determined under regulation 13(3) of the Regulations.
 
-### 2. Post-closure plan[^key-6c419726f9d0a23c569b47796e210242]
+### 2. Post-closure plan[^c-6c419726f9d0a23c569b47796e210242]
 
 (1) Prior to the closure of the storage site in accordance with paragraph 1(1) or (2) the operator shall submit a proposed post-closure plan to the authority for approval.
 
@@ -515,7 +515,7 @@ Regulation 6
 - (b) current best practice; and
 - (c) any improvements in the available technology.
 
-### 3. Post-closure obligations[^key-f5dbca13ce5d0ca07715158ce5835f3d]
+### 3. Post-closure obligations[^c-f5dbca13ce5d0ca07715158ce5835f3d]
 
 (1) After the storage site has been closed and until the licence is terminated, the operator shall continue to comply with the obligations in the storage permit to—
 
@@ -527,11 +527,11 @@ Regulation 6
 
 (3) The operator shall seal the storage site and remove the injection facilities and, where applicable, in accordance with Part 4 of the Petroleum Act 1998.
 
-### 4. Extraction of stored CO<sub>2</sub>[^key-51d0652fc75bbd915bbbb48713e2c3b6]
+### 4. Extraction of stored CO<sub>2</sub>[^c-51d0652fc75bbd915bbbb48713e2c3b6]
 
 The operator shall not (and shall not permit any other person to) extract stored CO<sub>2</sub> from the storage site except with the prior written consent of the authority and in accordance with any conditions subject to which any such consent is given.
 
-### 5. Interpretation[^key-e618af310ccd2a9fdbedb786999a0609]
+### 5. Interpretation[^c-e618af310ccd2a9fdbedb786999a0609]
 
 (1) In this licence the following expressions have the meanings given by regulation 2(3) of the Storage of Carbon Dioxide (Licensing etc.) Regulations (Northern Ireland) 2015—
 
@@ -558,7 +558,7 @@ The operator shall not (and shall not permit any other person to) extract stored
 
 Regulation 9(2)
 
-### 1. Acceptance and injection of CO<sub>2</sub>[^key-d32a1e6fe86619b0e04925de59f7c335]
+### 1. Acceptance and injection of CO<sub>2</sub>[^c-d32a1e6fe86619b0e04925de59f7c335]
 
 (1) In order to be injected into the storage site the CO<sub>2</sub> stream shall consist overwhelmingly of carbon dioxide, and shall in particular satisfy the conditions in sub-paragraph (2).
 
@@ -581,7 +581,7 @@ Regulation 9(2)
 
 (5) The operator shall maintain a register, at a place and in a manner approved by the authority, of the quantities and properties of the CO<sub>2</sub> streams that have been delivered to, and injected into, the storage site (including the composition of those streams).
 
-### 2. Monitoring[^key-9316a4ab271cbe368c9df0e8417b7a54]
+### 2. Monitoring[^c-9316a4ab271cbe368c9df0e8417b7a54]
 
 (1) The operator shall carry out a programme of monitoring of the storage complex and injection facilities for the purposes specified in sub-paragraph (3).
 
@@ -620,7 +620,7 @@ and the updated monitoring plan is the plan as so approved or modified.
 
 (8) Sub-paragraphs (5) to (7) apply to the further updating of an updated plan as they apply to the updating of the original plan.
 
-### 3. Reporting and notification of leakages and significant irregularities[^key-9d09b7d9b6fe22688d56114420db5b66]
+### 3. Reporting and notification of leakages and significant irregularities[^c-9d09b7d9b6fe22688d56114420db5b66]
 
 (1) The operator shall send to the authority a report in respect of each reporting period containing the information specified in sub-paragraph (5).
 
@@ -641,7 +641,7 @@ and the updated monitoring plan is the plan as so approved or modified.
 
 (7) If the operator becomes aware of any leakages or significant irregularities which imply the risk of leakage, the operator shall immediately notify the person who is the regulator in relation to the storage site for the purposes of the legislation implementing the ETS Directive.
 
-### 4. Notification and implementation of changes[^key-ce2b3048a8b603e77b3809468f7910e6]
+### 4. Notification and implementation of changes[^c-ce2b3048a8b603e77b3809468f7910e6]
 
 (1) The operator shall notify the authority of any change planned in the operation of the storage site, including any change concerning the operator.
 
@@ -660,17 +660,17 @@ and the updated monitoring plan is the plan as so approved or modified.
 
 (7) Notwithstanding sub-paragraphs (5) and (6), the change may be implemented on or after the later of the dates referred to in sub-paragraph (5)(a) if the authority has not before then given notification under regulation 11(1)(b)(ii) or (2)(b) of the Regulations.
 
-### 5. Review, and modification or revocation of the storage permit[^key-3bad887848caf81bb9bc9b51ecf52c98]
+### 5. Review, and modification or revocation of the storage permit[^c-3bad887848caf81bb9bc9b51ecf52c98]
 
 The permit shall be reviewed, and where necessary modified or (as a last resort) revoked, by the authority in accordance with regulation 11 of the Regulations.
 
-### 6. Corrective measures[^key-335950341926417bc15b31b6d5b7f8bf]
+### 6. Corrective measures[^c-335950341926417bc15b31b6d5b7f8bf]
 
 (1) If the operator becomes aware of any leakages or significant irregularities, the operator shall take the necessary corrective measures and measures for the protection of human health.
 
 (2) Subject to regulation 10, the measures taken shall include those set out in the corrective measures plan.
 
-### 7. Financial security[^key-0ce62040627db4790047178228cbd1d2]
+### 7. Financial security[^c-0ce62040627db4790047178228cbd1d2]
 
 (1) The operator shall maintain a financial security that—
 
@@ -707,7 +707,7 @@ The permit shall be reviewed, and where necessary modified or (as a last resort)
 - (a) the obligations of the operator under this paragraph continue in effect until the licence is terminated, but
 - (b) the assessment by the authority under sub-paragraph (3) is to be made at such intervals as the authority may determine.
 
-### 8. Interpretation[^key-c11f370d1cfa4df18306c009e0bce9fa]
+### 8. Interpretation[^c-c11f370d1cfa4df18306c009e0bce9fa]
 
 (1) In this storage permit—
 
@@ -743,7 +743,7 @@ The permit shall be reviewed, and where necessary modified or (as a last resort)
 
 Regulation 16(1)
 
-**1.**[^key-dcb40112fe71d6c2ab0f9de97e56bc09] The powers of an inspector are—
+**1.**[^c-dcb40112fe71d6c2ab0f9de97e56bc09] The powers of an inspector are—
 
 - (a) to enter, at any reasonable time (or, in an emergency, at any time) any premises which the inspector has reason to believe it is necessary to enter;
 - (b) on entering any premises by virtue of sub-paragraph (a), to—
@@ -766,9 +766,9 @@ Regulation 16(1)
   - (ii) any records which the inspector considers it necessary to see for the purposes of an examination or investigation under sub-paragraph (c); and
 - (k) to require any person to afford the inspector such facilities and assistance with respect to any matters or things within that person’s control or in relation to which that person has responsibilities as the inspector considers are necessary to enable the inspector to exercise any of the powers conferred on the inspector by these Regulations and this Schedule.
 
-**2.**[^key-d5495d21e049a261dc573a7faec4c69f] Where an inspector proposes to exercise the power conferred by paragraph 1(g) in the case of any thing found in or on any premises, the inspector shall, if so requested by a person who at the time is present on and has responsibilities in relation to those premises, cause anything which is to be done by virtue of that power to be done in the presence of that person.
+**2.**[^c-d5495d21e049a261dc573a7faec4c69f] Where an inspector proposes to exercise the power conferred by paragraph 1(g) in the case of any thing found in or on any premises, the inspector shall, if so requested by a person who at the time is present on and has responsibilities in relation to those premises, cause anything which is to be done by virtue of that power to be done in the presence of that person.
 
-**3.**[^key-eb2262dbbe1a7a116a1995debfbcc7c8] Before exercising the power conferred by paragraph 1(g), an inspector shall consult—
+**3.**[^c-eb2262dbbe1a7a116a1995debfbcc7c8] Before exercising the power conferred by paragraph 1(g), an inspector shall consult—
 
 - (a) such persons having duties on the premises where the thing is to be dismantled or subjected to the process or test; and
 - (b) such other persons,
@@ -825,13 +825,13 @@ Schedule 3 sets out the powers and duties of inspectors appointed under section 
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7)
 
-[^key-98f6d11adcdacbe1fd51d84cfa91a6c0]: Modification: Regulations: power to amend conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 93(10)(d)](https://www.legislation.gov.uk/ukpga/2023/52/section/93/10/d), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-98f6d11adcdacbe1fd51d84cfa91a6c0]: Modification: Regulations: power to amend conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 93(10)(d)](https://www.legislation.gov.uk/ukpga/2023/52/section/93/10/d), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
 [^f00003]: Footnote: Paragraph 1A of Schedule 2 was inserted by section 28 of the Legislative and Regulatory Reform Act 2006, and amended by [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388) and by section 3(3) of, and Part 1 of the Schedule to, the European Union (Amendment) Act 2008
 
-[^key-675246ec0606024642ca5b15f70625d7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-675246ec0606024642ca5b15f70625d7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-67b56209a6c8eb80d641b7ebf2e774bf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/387/regulation/2) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-67b56209a6c8eb80d641b7ebf2e774bf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2015/387/regulation/2) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
 [^f00004]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -849,72 +849,72 @@ Schedule 3 sets out the powers and duties of inspectors appointed under section 
 
 [^f00011]: Footnote: [1998 c.17](https://www.legislation.gov.uk/ukpga/1998/17)
 
-[^key-71c2b2c62bed183a0fa75082d68d397a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/387/regulation/3) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-71c2b2c62bed183a0fa75082d68d397a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2015/387/regulation/3) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-9b2047774cf473ad01144248e8b00bf4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/387/regulation/4) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-9b2047774cf473ad01144248e8b00bf4]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2015/387/regulation/4) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-6e88592a257758ad062baae295439ca9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/387/regulation/5) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-6e88592a257758ad062baae295439ca9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2015/387/regulation/5) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-7b1491e2d3b7a357193991c3d5f9fefe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/387/regulation/6) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-7b1491e2d3b7a357193991c3d5f9fefe]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2015/387/regulation/6) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-d2e677984f3ed010547ed39f137a911f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/387/regulation/7) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-d2e677984f3ed010547ed39f137a911f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2015/387/regulation/7) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
 [^f00012]: Footnote: OJ No L 26, 28.1.2012. p.1. This Directive was implemented in Northern Ireland by [S.R. 2012 No. 59](https://www.legislation.gov.uk/nisr/2012/59)
 
-[^key-4c9915607d371f3a29e09a9e5722f2d8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/387/regulation/8) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-4c9915607d371f3a29e09a9e5722f2d8]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2015/387/regulation/8) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
 [^f00013]: Footnote: Cmnd. 8941
 
-[^key-4ebc4a1649e67c8a5e5630d357d83a33]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/387/regulation/9) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-4ebc4a1649e67c8a5e5630d357d83a33]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2015/387/regulation/9) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-d953b914e4683258165f47d3858a87fd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/387/regulation/10) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-d953b914e4683258165f47d3858a87fd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2015/387/regulation/10) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-94aaf0cedca892b3ae1c3f2edf4e116a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/387/regulation/11) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-94aaf0cedca892b3ae1c3f2edf4e116a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2015/387/regulation/11) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-fc937221aa21b7f0ecb4112f2bfd859e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/387/regulation/12) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-fc937221aa21b7f0ecb4112f2bfd859e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2015/387/regulation/12) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
 [^f00014]: Footnote: Section 30 of the Energy Act 2008 applies Part 4 of the Petroleum Act [1998 (c.17)](https://www.legislation.gov.uk/ukpga/1998/17) to carbon dioxide installations (as defined by section 30(5))
 
-[^key-91f3b939ed53a469e3e8bb190978fa00]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/387/regulation/13) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-91f3b939ed53a469e3e8bb190978fa00]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2015/387/regulation/13) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-e779c0f16ea379e8c75e5c30c28d5f78]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/387/regulation/14) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-e779c0f16ea379e8c75e5c30c28d5f78]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2015/387/regulation/14) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-8d54588181b6acee8d0a5c9bb4a095c5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/387/regulation/15) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-8d54588181b6acee8d0a5c9bb4a095c5]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2015/387/regulation/15) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-e6d039fc6f9bbd7b2c843cd57526a1ed]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2015/387/regulation/16) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-e6d039fc6f9bbd7b2c843cd57526a1ed]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2015/387/regulation/16) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-eb0422d0514845e9c5ef8387d3c3d8f2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/387/regulation/17) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-eb0422d0514845e9c5ef8387d3c3d8f2]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2015/387/regulation/17) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-51092474d28f3525ecc2db03ea4fd4a1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/387/regulation/18) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-51092474d28f3525ecc2db03ea4fd4a1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2015/387/regulation/18) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-c23434216ab16d5f28e7899045510df5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2015/387/schedule/1/paragraph/1) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-c23434216ab16d5f28e7899045510df5]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisr/2015/387/schedule/1/paragraph/1) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-6c419726f9d0a23c569b47796e210242]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2015/387/schedule/1/paragraph/2) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-6c419726f9d0a23c569b47796e210242]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisr/2015/387/schedule/1/paragraph/2) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-f5dbca13ce5d0ca07715158ce5835f3d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2015/387/schedule/1/paragraph/3) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-f5dbca13ce5d0ca07715158ce5835f3d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisr/2015/387/schedule/1/paragraph/3) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-51d0652fc75bbd915bbbb48713e2c3b6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2015/387/schedule/1/paragraph/4) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-51d0652fc75bbd915bbbb48713e2c3b6]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisr/2015/387/schedule/1/paragraph/4) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-e618af310ccd2a9fdbedb786999a0609]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2015/387/schedule/1/paragraph/5) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-e618af310ccd2a9fdbedb786999a0609]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisr/2015/387/schedule/1/paragraph/5) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-d32a1e6fe86619b0e04925de59f7c335]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/1) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-d32a1e6fe86619b0e04925de59f7c335]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/1) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-9316a4ab271cbe368c9df0e8417b7a54]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/2) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-9316a4ab271cbe368c9df0e8417b7a54]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/2) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-9d09b7d9b6fe22688d56114420db5b66]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/3) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-9d09b7d9b6fe22688d56114420db5b66]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/3) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-ce2b3048a8b603e77b3809468f7910e6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/4) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-ce2b3048a8b603e77b3809468f7910e6]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/4) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-3bad887848caf81bb9bc9b51ecf52c98]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/5) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-3bad887848caf81bb9bc9b51ecf52c98]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/5) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-335950341926417bc15b31b6d5b7f8bf]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/6) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-335950341926417bc15b31b6d5b7f8bf]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/6) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-0ce62040627db4790047178228cbd1d2]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/7) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-0ce62040627db4790047178228cbd1d2]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/7) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-c11f370d1cfa4df18306c009e0bce9fa]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/8) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-c11f370d1cfa4df18306c009e0bce9fa]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2015/387/schedule/2/paragraph/8) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-dcb40112fe71d6c2ab0f9de97e56bc09]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2015/387/schedule/3/paragraph/1) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-dcb40112fe71d6c2ab0f9de97e56bc09]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2015/387/schedule/3/paragraph/1) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-d5495d21e049a261dc573a7faec4c69f]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2015/387/schedule/3/paragraph/2) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-d5495d21e049a261dc573a7faec4c69f]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2015/387/schedule/3/paragraph/2) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
 
-[^key-eb2262dbbe1a7a116a1995debfbcc7c8]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2015/387/schedule/3/paragraph/3) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)
+[^c-eb2262dbbe1a7a116a1995debfbcc7c8]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2015/387/schedule/3/paragraph/3) in operation at 4.1.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2015/387/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124H. Trust maximum allowance[^key-dd5842475d4bc252e1d5be80953bdad2]
+## 124H. Trust maximum allowance[^c-dd5842475d4bc252e1d5be80953bdad2]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd5842475d4bc252e1d5be80953bdad2]: Textual amendment: [Ss. 124G-124K](https://www.legislation.gov.uk/ukpga/1984/51/section/124G) inserted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/5), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-dd5842475d4bc252e1d5be80953bdad2]: Textual amendment: [Ss. 124G-124K](https://www.legislation.gov.uk/ukpga/1984/51/section/124G) inserted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 5](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/5), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)

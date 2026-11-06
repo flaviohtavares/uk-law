@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Dependants’ pensions and children’s pensions: suspension and recovery[^key-b66912c259c010f3f17297c8d80e63bb]
+## 86. Dependants’ pensions and children’s pensions: suspension and recovery[^c-b66912c259c010f3f17297c8d80e63bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b66912c259c010f3f17297c8d80e63bb]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/2014/2336/regulation/86) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-b66912c259c010f3f17297c8d80e63bb]: Commencement: [Reg. 86](https://www.legislation.gov.uk/uksi/2014/2336/regulation/86) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

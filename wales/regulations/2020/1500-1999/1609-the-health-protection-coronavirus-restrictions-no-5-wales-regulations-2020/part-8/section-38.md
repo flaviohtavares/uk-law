@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Travel restriction offences[^key-6ea4b4162a705f22d8ee987dff59172e]
+## 38. Travel restriction offences[^c-6ea4b4162a705f22d8ee987dff59172e]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ea4b4162a705f22d8ee987dff59172e]: Textual amendment: Reg. 38 omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(7)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/7)
+[^c-6ea4b4162a705f22d8ee987dff59172e]: Textual amendment: Reg. 38 omitted (17.5.2021 at 6.00 a.m.) by virtue of [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 10) Regulations 2021 (S.I. 2021/583)](https://www.legislation.gov.uk/wsi/2021/583), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/583/regulation/1/2), [2(7)](https://www.legislation.gov.uk/wsi/2021/583/regulation/2/7)

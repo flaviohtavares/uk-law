@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — TEMPORARY SUSPENSION OF PUBLIC ACCESS TO ACCESS LAND[^key-981f5199575a9c1543da8cd4f41b70bf]
+## SCHEDULE 6 — TEMPORARY SUSPENSION OF PUBLIC ACCESS TO ACCESS LAND[^c-981f5199575a9c1543da8cd4f41b70bf]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ Article 21
 
 ## Annotations
 
-[^key-981f5199575a9c1543da8cd4f41b70bf]: Commencement: Sch. 6 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-981f5199575a9c1543da8cd4f41b70bf]: Commencement: Sch. 6 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

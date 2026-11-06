@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Modification of Part 1 of the 1965 Act[^key-eb3d6b9efb495f0e1b739532af49122f]
+## 23. Modification of Part 1 of the 1965 Act[^c-eb3d6b9efb495f0e1b739532af49122f]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb3d6b9efb495f0e1b739532af49122f]: Commencement: Art. 23 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-eb3d6b9efb495f0e1b739532af49122f]: Commencement: Art. 23 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

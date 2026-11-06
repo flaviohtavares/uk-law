@@ -22,8 +22,8 @@ summary: ''
 
 1. The operator shall facilitate the safe access to the vessel, transport vehicle or room where the fisheries products are stored, processed or marketed. It shall ensure the safety of the officials and shall not obstruct, intimidate or interfere with the officials in the performance of their duties.
 
-2.[^key-beb849b6152512548bcf30a6667feab3] A fisheries administration may make regulations specifying detailed rules for the application of this Article.
+2.[^c-beb849b6152512548bcf30a6667feab3] A fisheries administration may make regulations specifying detailed rules for the application of this Article.
 
 ## Annotations
 
-[^key-beb849b6152512548bcf30a6667feab3]: Textual amendment: [Art. 75(2)](https://www.legislation.gov.uk/eur/2009/1224/article/75/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [27(23)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-beb849b6152512548bcf30a6667feab3]: Textual amendment: [Art. 75(2)](https://www.legislation.gov.uk/eur/2009/1224/article/75/2) substituted (31.12.2020) by [The Common Fisheries Policy and Aquaculture (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/753)](https://www.legislation.gov.uk/uksi/2019/753), [regs. 1](https://www.legislation.gov.uk/uksi/2019/753/regulation/1), [27(23)](https://www.legislation.gov.uk/uksi/2019/753/regulation/27/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

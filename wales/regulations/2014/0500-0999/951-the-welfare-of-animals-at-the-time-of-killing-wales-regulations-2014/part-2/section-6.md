@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Operations which require a certificate or temporary certificate[^key-de78aac7148fe240280d63e29b9fb506]
+## 6. Operations which require a certificate or temporary certificate[^c-de78aac7148fe240280d63e29b9fb506]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The operations referred to in regulation 5 are—
 
 ## Annotations
 
-[^key-de78aac7148fe240280d63e29b9fb506]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2014/951/regulation/6) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-de78aac7148fe240280d63e29b9fb506]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2014/951/regulation/6) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

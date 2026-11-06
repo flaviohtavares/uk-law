@@ -75,13 +75,13 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Register
 
-1.[^key-45b823d144619430f977ec377ec93bd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.[^c-45b823d144619430f977ec377ec93bd3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-2. The register established and maintained by the Secretary of State under Article 21 of Regulation (EU) No 251/2014 (‘the register’)[^key-2b737df641cae7068eed75b044be9926] shall list the name (or names) of the aromatised wine products protected as geographical indications under Regulation (EU) No 251/2014.
+2. The register established and maintained by the Secretary of State under Article 21 of Regulation (EU) No 251/2014 (‘the register’)[^c-2b737df641cae7068eed75b044be9926] shall list the name (or names) of the aromatised wine products protected as geographical indications under Regulation (EU) No 251/2014.
 
 ## Article 2. Existing geographical designations
 
-The Secretary of State must list[^key-199800a5444e9ebc03b9627037f82827] the following existing geographical designations [^key-b3750f414f8ec598712e29094e07a96d]... in the register as geographical indications protected in accordance with Regulation (EU) No 251/2014:
+The Secretary of State must list[^c-199800a5444e9ebc03b9627037f82827] the following existing geographical designations [^c-b3750f414f8ec598712e29094e07a96d]... in the register as geographical indications protected in accordance with Regulation (EU) No 251/2014:
 
 - ((a)) ‘Nürnberger Glühwein’;
 - ((b)) ‘Samoborski bermet’;
@@ -93,7 +93,7 @@ The Secretary of State must list[^key-199800a5444e9ebc03b9627037f82827] the foll
 
 This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-8fe88d1542602063a896912395602672]...
+[^c-8fe88d1542602063a896912395602672]...
 
 Done at Brussels, 13 February 2020.
 
@@ -109,12 +109,12 @@ Ursula von der Leyen
 
 [^f00002]: Footnote: Council Regulation (EEC) No 1601/91 of 10 June 1991 laying down general rules on the definition, description and presentation of aromatized wines, aromatized wine- based drinks and aromatized wine-product cocktails ([OJ L 149, 14.6.1991, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.149.01.0001.01.ENG)).
 
-[^key-45b823d144619430f977ec377ec93bd3]: Textual amendment: [Art. 1(1)](https://www.legislation.gov.uk/eur/2020/198/article/1/1) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [32(2)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/32/2/a)
+[^c-45b823d144619430f977ec377ec93bd3]: Textual amendment: [Art. 1(1)](https://www.legislation.gov.uk/eur/2020/198/article/1/1) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [32(2)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/32/2/a)
 
-[^key-2b737df641cae7068eed75b044be9926]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2020/198/article/1/2) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [32(2)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/32/2/b)
+[^c-2b737df641cae7068eed75b044be9926]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eur/2020/198/article/1/2) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [32(2)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/32/2/b)
 
-[^key-199800a5444e9ebc03b9627037f82827]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2020/198/article/2) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [32(3)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/32/3/a)
+[^c-199800a5444e9ebc03b9627037f82827]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2020/198/article/2) inserted (31.12.2020) by [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [32(3)(a)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/32/3/a)
 
-[^key-b3750f414f8ec598712e29094e07a96d]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2020/198/article/2) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [32(3)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/32/3/b)
+[^c-b3750f414f8ec598712e29094e07a96d]: Textual amendment: Words in [Art. 2](https://www.legislation.gov.uk/eur/2020/198/article/2) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [32(3)(b)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/32/3/b)
 
-[^key-8fe88d1542602063a896912395602672]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2020/198/signature) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [32(4)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/32/4)
+[^c-8fe88d1542602063a896912395602672]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2020/198/signature) omitted (31.12.2020) by virtue of [The Agricultural Products, Food and Drink (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1637)](https://www.legislation.gov.uk/uksi/2020/1637), [regs. 1(7)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/1/7), [32(4)](https://www.legislation.gov.uk/uksi/2020/1637/regulation/32/4)

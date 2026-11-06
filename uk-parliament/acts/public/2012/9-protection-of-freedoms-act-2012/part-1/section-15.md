@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Destruction of impressions of footwear[^key-ee6751cd8c2fb6846cafa20767406dcc]
+## 15. Destruction of impressions of footwear[^c-ee6751cd8c2fb6846cafa20767406dcc]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ After section 63R of the Police and Criminal Evidence Act 1984 (for which see se
 
 ## Annotations
 
-[^key-ee6751cd8c2fb6846cafa20767406dcc]: Commencement: S. 15 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/d) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))
+[^c-ee6751cd8c2fb6846cafa20767406dcc]: Commencement: S. 15 in force at 31.10.2013 by [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/d) (with transitional provisions and savings in [S.I. 2013/1813](https://www.legislation.gov.uk/uksi/2013/1813))

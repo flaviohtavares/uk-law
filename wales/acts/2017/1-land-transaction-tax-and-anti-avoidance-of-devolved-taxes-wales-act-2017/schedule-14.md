@@ -26,7 +26,7 @@ summary: ''
 
 #### Overview
 
-**1.**[^key-0c365e7d4f8de24aef0f0e9432fc3d78] (1) This Schedule makes provision about reliefs available for certain acquisitions of dwellings.
+**1.**[^c-0c365e7d4f8de24aef0f0e9432fc3d78] (1) This Schedule makes provision about reliefs available for certain acquisitions of dwellings.
 
 (2) This Schedule is arranged as follows—
 
@@ -45,7 +45,7 @@ summary: ''
 
 #### Acquisition by housebuilder from individual acquiring new dwelling
 
-**2.**[^key-6c726d420a508bad41d99d28db21f484] (1) Where a housebuilder acquires a dwelling (“**"the old dwelling”**”) from an individual (whether alone or with other individuals), the acquisition is relieved from tax if the following conditions are met (but see sub-paragraph (3) for provision about partial relief).
+**2.**[^c-6c726d420a508bad41d99d28db21f484] (1) Where a housebuilder acquires a dwelling (“**"the old dwelling”**”) from an individual (whether alone or with other individuals), the acquisition is relieved from tax if the following conditions are met (but see sub-paragraph (3) for provision about partial relief).
 
 (2) The conditions are—
 
@@ -66,7 +66,7 @@ summary: ''
 
 #### Acquisition by property trader from individual acquiring new dwelling
 
-**3.**[^key-a3482b3757493267fe70c229d0fd8305] (1) Where a property trader acquires a dwelling (“**"the old dwelling”**”) from an individual (whether alone or with other individuals), the acquisition is relieved from tax if the following conditions are met (but see sub-paragraph (4) for provision about partial relief).
+**3.**[^c-a3482b3757493267fe70c229d0fd8305] (1) Where a property trader acquires a dwelling (“**"the old dwelling”**”) from an individual (whether alone or with other individuals), the acquisition is relieved from tax if the following conditions are met (but see sub-paragraph (4) for provision about partial relief).
 
 (2) The conditions are—
 
@@ -93,7 +93,7 @@ summary: ''
 
 #### Acquisition by property trader from individual where chain of transactions breaks down
 
-**4.**[^key-4671ed7a9d794c98866b902be39f5105] (1) Where a property trader acquires a dwelling (“**"the old dwelling”**”) from an individual (whether alone or with other individuals), the acquisition is relieved from tax if the following conditions are met (but see sub-paragraph (4) for provision about partial relief).
+**4.**[^c-4671ed7a9d794c98866b902be39f5105] (1) Where a property trader acquires a dwelling (“**"the old dwelling”**”) from an individual (whether alone or with other individuals), the acquisition is relieved from tax if the following conditions are met (but see sub-paragraph (4) for provision about partial relief).
 
 (2) The conditions are—
 
@@ -122,7 +122,7 @@ summary: ''
 
 #### Relief for acquisition by property trader from personal representatives
 
-**5.**[^key-97c490fe1f6abd4536c42fa809198092] (1) Where a property trader acquires a dwelling from the personal representatives of a deceased individual, the acquisition is relieved from tax if the following conditions are met (but see sub-paragraph (3) for provision about partial relief).
+**5.**[^c-97c490fe1f6abd4536c42fa809198092] (1) Where a property trader acquires a dwelling from the personal representatives of a deceased individual, the acquisition is relieved from tax if the following conditions are met (but see sub-paragraph (3) for provision about partial relief).
 
 (2) The conditions are—
 
@@ -143,7 +143,7 @@ summary: ''
 
 #### Acquisition by property trader in case of relocation of employment
 
-**6.**[^key-6b1f28396709ada98b9fa65482d8e83a] (1) Where a property trader acquires a dwelling from an individual (whether alone or with other individuals), the acquisition is relieved from tax if the following conditions are met (but see sub-paragraph (4) for provision about partial relief).
+**6.**[^c-6b1f28396709ada98b9fa65482d8e83a] (1) Where a property trader acquires a dwelling from an individual (whether alone or with other individuals), the acquisition is relieved from tax if the following conditions are met (but see sub-paragraph (4) for provision about partial relief).
 
 (2) The conditions are—
 
@@ -168,7 +168,7 @@ summary: ''
 
 #### Acquisition by employer in case of relocation of employment
 
-**7.**[^key-73d8c03947e44bce414680f2b914e69c] (1) Where an individual's employer acquires a dwelling from the individual (whether alone or with other individuals), the acquisition is relieved from tax if the following conditions are met (but see sub-paragraph (3) for provision about partial relief).
+**7.**[^c-73d8c03947e44bce414680f2b914e69c] (1) Where an individual's employer acquires a dwelling from the individual (whether alone or with other individuals), the acquisition is relieved from tax if the following conditions are met (but see sub-paragraph (3) for provision about partial relief).
 
 (2) The conditions are—
 
@@ -187,7 +187,7 @@ summary: ''
 
 #### Withdrawal of reliefs available to property traders
 
-**8.**[^key-50e13c3d5f5c7fe14b0eceb01534cad3] (1) Relief under paragraphs 3 (acquisition by property trader from individual acquiring new dwelling) and 4 (acquisition by property trader from individual where chain of transactions breaks down) is withdrawn if the property trader—
+**8.**[^c-50e13c3d5f5c7fe14b0eceb01534cad3] (1) Relief under paragraphs 3 (acquisition by property trader from individual acquiring new dwelling) and 4 (acquisition by property trader from individual where chain of transactions breaks down) is withdrawn if the property trader—
 
 - (a) spends more than the permitted amount on refurbishment of the old dwelling,
 - (b) grants a lease or licence of the old dwelling, or
@@ -213,7 +213,7 @@ summary: ''
 
 #### Interpretation
 
-**9.**[^key-7f930a7a0ccc321eae9741cecd264b1b] (1) For the purposes of this Part of this Schedule—
+**9.**[^c-7f930a7a0ccc321eae9741cecd264b1b] (1) For the purposes of this Part of this Schedule—
 
 - (a) “**"housebuilder”**” means—
   - (i) a company,
@@ -267,7 +267,7 @@ summary: ''
 
 #### Relief for transactions entered into by persons exercising collective rights
 
-**10.**[^key-959636fbbb7e95bd4697c145b93c9a42] (1) This paragraph applies where a chargeable transaction is entered into by a person or persons nominated or appointed by qualifying tenants of flats contained in premises in exercise of—
+**10.**[^c-959636fbbb7e95bd4697c145b93c9a42] (1) This paragraph applies where a chargeable transaction is entered into by a person or persons nominated or appointed by qualifying tenants of flats contained in premises in exercise of—
 
 - (a) a right under Part 1 of the Landlord and Tenant Act 1987 (c. 31) (right of first refusal), or
 - (b) a right under Chapter 1 of Part 1 of the Leasehold Reform, Housing and Urban Development Act 1993 (c. 28) (right to collective enfranchisement).
@@ -285,22 +285,22 @@ summary: ''
 
 ## Annotations
 
-[^key-0c365e7d4f8de24aef0f0e9432fc3d78]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-0c365e7d4f8de24aef0f0e9432fc3d78]: Commencement: [Sch. 14 para. 1](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/1) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-6c726d420a508bad41d99d28db21f484]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-6c726d420a508bad41d99d28db21f484]: Commencement: [Sch. 14 para. 2](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/2) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-a3482b3757493267fe70c229d0fd8305]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-a3482b3757493267fe70c229d0fd8305]: Commencement: [Sch. 14 para. 3](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/3) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-4671ed7a9d794c98866b902be39f5105]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-4671ed7a9d794c98866b902be39f5105]: Commencement: [Sch. 14 para. 4](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/4) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-97c490fe1f6abd4536c42fa809198092]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-97c490fe1f6abd4536c42fa809198092]: Commencement: [Sch. 14 para. 5](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/5) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-6b1f28396709ada98b9fa65482d8e83a]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-6b1f28396709ada98b9fa65482d8e83a]: Commencement: [Sch. 14 para. 6](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/6) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-73d8c03947e44bce414680f2b914e69c]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-73d8c03947e44bce414680f2b914e69c]: Commencement: [Sch. 14 para. 7](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/7) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-50e13c3d5f5c7fe14b0eceb01534cad3]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-50e13c3d5f5c7fe14b0eceb01534cad3]: Commencement: [Sch. 14 para. 8](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/8) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-7f930a7a0ccc321eae9741cecd264b1b]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-7f930a7a0ccc321eae9741cecd264b1b]: Commencement: [Sch. 14 para. 9](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/9) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
 
-[^key-959636fbbb7e95bd4697c145b93c9a42]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-959636fbbb7e95bd4697c145b93c9a42]: Commencement: [Sch. 14 para. 10](https://www.legislation.gov.uk/anaw/2017/1/schedule/14/paragraph/10) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

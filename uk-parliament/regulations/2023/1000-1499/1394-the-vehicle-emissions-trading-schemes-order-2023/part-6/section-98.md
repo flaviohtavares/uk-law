@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Failure to provide information under article 73[^key-61646938c8bc9dd34b352ccf7554dfdb]
+## 98. Failure to provide information under article 73[^c-61646938c8bc9dd34b352ccf7554dfdb]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61646938c8bc9dd34b352ccf7554dfdb]: Commencement: Art. 98 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-61646938c8bc9dd34b352ccf7554dfdb]: Commencement: Art. 98 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

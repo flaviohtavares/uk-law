@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Enforcement of agreements made by unlicensed trader[^key-217b3f713928c10651776e48d459b6d8]
+## 170. Enforcement of agreements made by unlicensed trader[^c-217b3f713928c10651776e48d459b6d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In section 40 of the Consumer Credit Act 1974 (enforcement of agreements made by
 
 ## Annotations
 
-[^key-217b3f713928c10651776e48d459b6d8]: Commencement: Art. 170 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-217b3f713928c10651776e48d459b6d8]: Commencement: Art. 170 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

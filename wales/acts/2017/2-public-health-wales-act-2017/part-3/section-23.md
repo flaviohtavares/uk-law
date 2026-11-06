@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Powers of inspection etc.[^key-6172481541dc0f640b6c7c882b4d2c8f]
+## 23. Powers of inspection etc.[^c-6172481541dc0f640b6c7c882b4d2c8f]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6172481541dc0f640b6c7c882b4d2c8f]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2017/2/section/23) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-6172481541dc0f640b6c7c882b4d2c8f]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2017/2/section/23) in force at 1.3.2021 by [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

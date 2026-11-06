@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Evidence and information[^key-013c67e729a1554a20793bacc39ed228]
+## 27. Evidence and information[^c-013c67e729a1554a20793bacc39ed228]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-013c67e729a1554a20793bacc39ed228]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2021/249/regulation/27) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-013c67e729a1554a20793bacc39ed228]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2021/249/regulation/27) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

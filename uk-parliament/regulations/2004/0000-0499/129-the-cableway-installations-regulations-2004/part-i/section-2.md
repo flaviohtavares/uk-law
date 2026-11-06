@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Interpretation etc.[^key-12b586cc1abd1828e2b0ba53b2b299b6]
+## 2. Interpretation etc.[^c-12b586cc1abd1828e2b0ba53b2b299b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12b586cc1abd1828e2b0ba53b2b299b6]: Textual amendment: Regulations revoked (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/816/regulation/2/a) (with [regs. 5(4)](https://www.legislation.gov.uk/uksi/2018/816/regulation/5/4), [6(4)](https://www.legislation.gov.uk/uksi/2018/816/regulation/6/4))
+[^c-12b586cc1abd1828e2b0ba53b2b299b6]: Textual amendment: Regulations revoked (30.7.2018) by [The Cableway Installations Regulations 2018 (S.I. 2018/816)](https://www.legislation.gov.uk/uksi/2018/816), [regs. 1](https://www.legislation.gov.uk/uksi/2018/816/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/816/regulation/2/a) (with [regs. 5(4)](https://www.legislation.gov.uk/uksi/2018/816/regulation/5/4), [6(4)](https://www.legislation.gov.uk/uksi/2018/816/regulation/6/4))

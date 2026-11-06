@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Application of Part to Northern Ireland[^key-f01accfe9bd8eb6c9af33d8991f1127f]
+## 117. Application of Part to Northern Ireland[^c-f01accfe9bd8eb6c9af33d8991f1127f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f01accfe9bd8eb6c9af33d8991f1127f]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2016/22/section/117) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-f01accfe9bd8eb6c9af33d8991f1127f]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2016/22/section/117) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

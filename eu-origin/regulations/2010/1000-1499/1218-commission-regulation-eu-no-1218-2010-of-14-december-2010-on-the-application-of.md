@@ -35,40 +35,40 @@ on the application of Article 101(3) of the Treaty on the Functioning of the Eur
 
 (Text with EEA relevance) (revoked)
 
-[^key-a6bcad9d775b3261904b4e5396d7e7b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6bcad9d775b3261904b4e5396d7e7b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Definitions[^key-a6bcad9d775b3261904b4e5396d7e7b4]
+## Article 1. Definitions[^c-a6bcad9d775b3261904b4e5396d7e7b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Exemption[^key-a6bcad9d775b3261904b4e5396d7e7b4]
+## Article 2. Exemption[^c-a6bcad9d775b3261904b4e5396d7e7b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Market share threshold[^key-a6bcad9d775b3261904b4e5396d7e7b4]
+## Article 3. Market share threshold[^c-a6bcad9d775b3261904b4e5396d7e7b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Hardcore restrictions[^key-a6bcad9d775b3261904b4e5396d7e7b4]
+## Article 4. Hardcore restrictions[^c-a6bcad9d775b3261904b4e5396d7e7b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Application of the market share threshold[^key-a6bcad9d775b3261904b4e5396d7e7b4]
+## Article 5. Application of the market share threshold[^c-a6bcad9d775b3261904b4e5396d7e7b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Transitional period[^key-a6bcad9d775b3261904b4e5396d7e7b4]
+## Article 6. Transitional period[^c-a6bcad9d775b3261904b4e5396d7e7b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Period of validity[^key-a6bcad9d775b3261904b4e5396d7e7b4]
+## Article 7. Period of validity[^c-a6bcad9d775b3261904b4e5396d7e7b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a6bcad9d775b3261904b4e5396d7e7b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a6bcad9d775b3261904b4e5396d7e7b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a6bcad9d775b3261904b4e5396d7e7b4]: Textual amendment: Regulation revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)
+[^c-a6bcad9d775b3261904b4e5396d7e7b4]: Textual amendment: Regulation revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/2)

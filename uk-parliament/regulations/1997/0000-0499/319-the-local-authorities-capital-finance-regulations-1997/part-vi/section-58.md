@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Repayment of money deemed to have been borrowed[^key-ef8070afe6ccaa405d7f3f17e7037d54]
+## 58. Repayment of money deemed to have been borrowed[^c-ef8070afe6ccaa405d7f3f17e7037d54]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ A sum received by a local authority in respect of a repayment of principal in re
 
 ## Annotations
 
-[^key-ef8070afe6ccaa405d7f3f17e7037d54]: Commencement: Reg. 58 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-ef8070afe6ccaa405d7f3f17e7037d54]: Commencement: Reg. 58 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00050]: Footnote: [1985 c. 51](https://www.legislation.gov.uk/ukpga/1985/51).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121. Information from personal and stakeholder pension schemes[^c24494181][^key-0079b938a38881ed48b745f7817299d3]
+## 121. Information from personal and stakeholder pension schemes[^c24494181][^c-0079b938a38881ed48b745f7817299d3]
 
 *Extent: E+W+S*
 
@@ -159,4 +159,4 @@ summary: ''
 
 [^c24494181]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2021/1/section/121) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-0079b938a38881ed48b745f7817299d3]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2021/1/section/121) in force at 14.10.2022 in so far as not already in force by [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/c)
+[^c-0079b938a38881ed48b745f7817299d3]: Commencement: [S. 121](https://www.legislation.gov.uk/ukpga/2021/1/section/121) in force at 14.10.2022 in so far as not already in force by [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/c)

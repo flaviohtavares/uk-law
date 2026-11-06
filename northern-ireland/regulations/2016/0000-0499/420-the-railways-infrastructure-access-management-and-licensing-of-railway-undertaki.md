@@ -52,7 +52,7 @@ These Regulations may be cited as the Railways Infrastructure (Access, Managemen
 
 (1) In these Regulations—
 
-- “the 1995 Directive” means Council[^key-7f64a2ee3ba1e783e93bd426be281b32] [Directive 95/18/EC](https://www.legislation.gov.uk/eudr/1995/0018) dated 19 June 1995 on the licensing of railway undertakings as amended by [Directive 2001/13/EC](https://www.legislation.gov.uk/eudr/2001/0013) dated 26 February 2001 and Directive 2004/49 dated 29 April 2004, both of the European Parliament and of the Council;
+- “the 1995 Directive” means Council[^c-7f64a2ee3ba1e783e93bd426be281b32] [Directive 95/18/EC](https://www.legislation.gov.uk/eudr/1995/0018) dated 19 June 1995 on the licensing of railway undertakings as amended by [Directive 2001/13/EC](https://www.legislation.gov.uk/eudr/2001/0013) dated 26 February 2001 and Directive 2004/49 dated 29 April 2004, both of the European Parliament and of the Council;
 - “**access rights**” means rights of access to railway infrastructure for the purpose of operating a service for the transport of goods or passengers;
 - “**ad hoc request**” means a request for individual train paths made other than in accordance with the timetable for the capacity allocation process as set out in Schedule 3;
 - “**allocation**” means the allocation of railway infrastructure capacity by an infrastructure manager;
@@ -62,35 +62,35 @@ These Regulations may be cited as the Railways Infrastructure (Access, Managemen
 - “**charging body**” means a body or undertaking, other than the infrastructure manager, which is responsible, by virtue of regulation 14(6), for the functions and obligations of the infrastructure manager under Part 4 and Schedule 2;
 - “**charging scheme**” means the specific charging rules established in accordance with regulation 14 by the Office of Rail and Road or the infrastructure manager; governing the determination of access charges as set out in Part 4;
 - “**competent authority**” has the same meaning as in Article 2 of Regulation No. 1370/2007;
-- “cross-border agreement” means any agreement between Northern Ireland and the Republic of Ireland intended to facilitate the provision of cross-border rail services;[^key-96aa6aa980769e5036a38746a5b45716]
+- “cross-border agreement” means any agreement between Northern Ireland and the Republic of Ireland intended to facilitate the provision of cross-border rail services;[^c-96aa6aa980769e5036a38746a5b45716]
 - “**the Department**” means the Department for Infrastructure;
-- “development”, in relation to railway infrastructure, means network planning, financial and investment planning as well as the building and upgrading of the infrastructure;[^key-2212c4820b51973e4012f0434620ac5d]
-- “the Directive” means[^key-fc1c0bebe611fa6217dd1b418ae81e1b] [Directive 2012/34/EU](https://www.legislation.gov.uk/eudr/2012/0034) of the European Parliament and of the Council of 21st November 2012 establishing a single European railway area (recast), as amended from time to time, before and after exit day;
+- “development”, in relation to railway infrastructure, means network planning, financial and investment planning as well as the building and upgrading of the infrastructure;[^c-2212c4820b51973e4012f0434620ac5d]
+- “the Directive” means[^c-fc1c0bebe611fa6217dd1b418ae81e1b] [Directive 2012/34/EU](https://www.legislation.gov.uk/eudr/2012/0034) of the European Parliament and of the Council of 21st November 2012 establishing a single European railway area (recast), as amended from time to time, before and after exit day;
 - “**the environment**” means all or any of the following media, namely the air, water and land (and the medium of air includes the air within buildings and the air within other natural or man-made structures above or below ground);
-- “essential functions”, in relation to infrastructure management, means decision-making concerning—[^key-c19975ebd0188ff1a456cbc7af6fde54]
+- “essential functions”, in relation to infrastructure management, means decision-making concerning—[^c-c19975ebd0188ff1a456cbc7af6fde54]
   - (a) train path allocation, including both the definition and the assessment of availability and the allocation of individual train paths, and
   - (b) infrastructure charging, including determination and collection of charges, in accordance with the charging framework and the capacity allocation framework established pursuant to regulations 14 and 19 respectively;
-- “European licence” means a licence granted to a railway undertaking pursuant to these regulations by which the capacity of the railway undertaking as such is recognised and which authorises the undertaking to provide such train services as may be specified in the licence;[^key-d7a9a751d4aa95e00ce58e4b166100cf]
+- “European licence” means a licence granted to a railway undertaking pursuant to these regulations by which the capacity of the railway undertaking as such is recognised and which authorises the undertaking to provide such train services as may be specified in the licence;[^c-d7a9a751d4aa95e00ce58e4b166100cf]
 - “**framework agreement**” means a legally binding general agreement under public or private law, setting out the rights and obligations of an applicant and the infrastructure manager in relation to the infrastructure capacity to be allocated and the charges to be levied over a period in excess of one working timetable period;
 - “**infrastructure capacity**” means the potential to schedule train paths requested for an element of infrastructure for a certain period;
 - “**infrastructure manager**” means any body or undertaking that is responsible in particular for establishing and maintaining railway infrastructure;
-- “international freight service” means a transport service where the train crosses the border between Northern Ireland and the Republic of Ireland; the train may be joined or split (or joined and split) and the different sections may have different origins and destinations provided that all wagons cross the border;[^key-dd863cf86295045e6a69123e15d2b8f4]
-- “international grouping” means any association of at least two railway undertakings, at least one of which is established in the United Kingdom for the purpose of providing international transport and at least one of which is established in the Republic of Ireland for that purpose;[^key-636b0f4401d4bd24345e43d790588150]
-- “international passenger service” means a passenger service where the train crosses the border between Northern Ireland and the Republic of Ireland and where the principal purpose of the service is to carry passengers between stations located in Northern Ireland and the Republic of Ireland; the train may be joined or split (or joined and split) and the different sections may have different origins and destinations provided all the carriages cross the border;[^key-6f7ffb1174f70eca747a6bbca83efd95]
-- “maintenance”, in relation to railway infrastructure, means works intended to maintain the condition and capability of the existing infrastructure;[^key-1cc49bccd874529dc7e4bd4b96350dda]
+- “international freight service” means a transport service where the train crosses the border between Northern Ireland and the Republic of Ireland; the train may be joined or split (or joined and split) and the different sections may have different origins and destinations provided that all wagons cross the border;[^c-dd863cf86295045e6a69123e15d2b8f4]
+- “international grouping” means any association of at least two railway undertakings, at least one of which is established in the United Kingdom for the purpose of providing international transport and at least one of which is established in the Republic of Ireland for that purpose;[^c-636b0f4401d4bd24345e43d790588150]
+- “international passenger service” means a passenger service where the train crosses the border between Northern Ireland and the Republic of Ireland and where the principal purpose of the service is to carry passengers between stations located in Northern Ireland and the Republic of Ireland; the train may be joined or split (or joined and split) and the different sections may have different origins and destinations provided all the carriages cross the border;[^c-6f7ffb1174f70eca747a6bbca83efd95]
+- “maintenance”, in relation to railway infrastructure, means works intended to maintain the condition and capability of the existing infrastructure;[^c-1cc49bccd874529dc7e4bd4b96350dda]
 - “management board” means the senior body of an undertaking performing executive and administrative functions, which is responsible and accountable for day-to-day management of the undertaking;
 - “**network**” means the entire railway infrastructure managed by an infrastructure manager;
 - “**network statement**” means the statement required to be prepared and published under regulation 13;
-- “Northern Ireland Department” means a department listed in Schedule 1 to the the Departments Act (Northern Ireland) 2016;[^key-7c846be2263af5456adcf819b8319007]
+- “Northern Ireland Department” means a department listed in Schedule 1 to the the Departments Act (Northern Ireland) 2016;[^c-7c846be2263af5456adcf819b8319007]
 - “**the Office of Rail and Road**” means the body established under section 15 of the Railways and Transport Safety Act 2003 [^c22818631];
-- “operation”, in relation to railway infrastructure, means train path allocation, traffic management and infrastructure charging;[^key-9040e97f4857ddc248c75cf17a8d4a0e]
-- “public passenger transport” and “public service operator” have the same meanings as in Article 2 of Regulation EC No. 1370/2007;[^key-1f18409d6dd6d03622d7783319bb02db]
+- “operation”, in relation to railway infrastructure, means train path allocation, traffic management and infrastructure charging;[^c-9040e97f4857ddc248c75cf17a8d4a0e]
+- “public passenger transport” and “public service operator” have the same meanings as in Article 2 of Regulation EC No. 1370/2007;[^c-1f18409d6dd6d03622d7783319bb02db]
 - “public service contract” means one or more legally binding acts confirming the agreement between a competent authority and a public service operator to entrust to that public service operator the management and operation of public passenger transport services subject to public service obligations; the contract may also consist of a decision adopted by the competent authority—
   - (a) taking the form of an individual legislative or regulatory act, or
   - (b) containing conditions under which the competent authority itself provides the services or entrusts the provision of such services to an internal operator,
 
   and for the purposes of this definition “competent authority” means any public authority or group of public authorities of Northern Ireland and the Republic of Ireland which has the power to intervene in public passenger transport in a given geographical area or any body vested with such authority, “competent local authority” means any competent authority whose geographical area of competence is not national and “internal operator” means a legally distinct entity over which a competent local authority, or in the case of a group of authorities at least one competent local authority, exercises control similar to that exercised over its own departments and “public service obligation” has the same meaning as in Regulation EC No. 1370/2007;
-- “public-private partnership” means a binding arrangement between public bodies and one or more undertakings other than the main infrastructure manager, under which the undertakings—[^key-f236dcc0519d800d94a84d09c5c6c19d]
+- “public-private partnership” means a binding arrangement between public bodies and one or more undertakings other than the main infrastructure manager, under which the undertakings—[^c-f236dcc0519d800d94a84d09c5c6c19d]
   - (a) partially or totally construct or fund railway infrastructure; or
   - (b) acquire the right to exercise any of the functions of the infrastructure manager for a predefined period of time;
 - “**railway infrastructure**” means all the items listed in Annex 1 to the Directive;
@@ -103,21 +103,21 @@ These Regulations may be cited as the Railways Infrastructure (Access, Managemen
 - “**regional services**” means transport services whose principal purpose is to meet the transport needs of a region, including a cross-border region;
 - “**Regulation EC No. 1370/2007**” means Regulation 1370/2007 [^c22818641] of the European Parliament and of the Council of 23<sup>rd</sup> October 2007 on public passenger transport services by rail and road and by repealing Council Regulations [(EEC) No. 1191/69](https://www.legislation.gov.uk/eur/1969/1191) [^c22818651] and 1107/70 [^c22818661];
 - “**Regulation No. 913/2010**” means regulation (EU) No 913/2010 of the European Parliament and of the Council of 22<sup>nd</sup> September 2010 concerning a European rail network for competitive freight [^c22818671];
-- “renewal”, in relation to railway infrastructure, means major substitution works on the existing infrastructure which do not change its overall performance[^key-a782289e7421e29fc070badcf1252b4d]
+- “renewal”, in relation to railway infrastructure, means major substitution works on the existing infrastructure which do not change its overall performance[^c-a782289e7421e29fc070badcf1252b4d]
 - “**SNRP**” means a statement of national regulatory provisions, issued under regulation 46;
 - “**service provider**” means a body or undertaking that supplies any of the services—
   - (a) to which access is granted by virtue of regulation 5; or
   - (b) listed in paragraph, 2, 3 or 4 of Schedule 1;
 
   or which manages a service facility used for this supply, whether or not that body or undertaking is also an infrastructure manager;
-- “supervisory board” means the most senior body of an undertaking that fulfils supervisory tasks, including the exercise of control over the management board and general strategic decisions regarding the undertaking;[^key-08642d1bfdfba85ebac2d1324bc4fc6b]
+- “supervisory board” means the most senior body of an undertaking that fulfils supervisory tasks, including the exercise of control over the management board and general strategic decisions regarding the undertaking;[^c-08642d1bfdfba85ebac2d1324bc4fc6b]
 - “**the Treaty**” means the Treaty on the Functioning of the European Union [^c22818681];
 - “**train path**” means the infrastructure capacity needed to run a train between two places over a given period;
 - “**train service**” means a service for the transport of goods or passengers (or both) by rail;
-- “transit rights” means rights of transit through Northern Ireland using its railway infrastructure;[^key-824bbd359bf699bc5496119421b61f27]
-- “upgrade” in relation to railway infrastructure, means major modification works to the infrastructure which improve its overall performance;[^key-ee9633e92d8f3f5908753d9fd424a074]
+- “transit rights” means rights of transit through Northern Ireland using its railway infrastructure;[^c-824bbd359bf699bc5496119421b61f27]
+- “upgrade” in relation to railway infrastructure, means major modification works to the infrastructure which improve its overall performance;[^c-ee9633e92d8f3f5908753d9fd424a074]
 - “urban” or “**suburban**” means, in relation to a transport service, a service whose principal purpose is to meet the transport needs of an urban centre or conurbation, including a cross-border conurbation, together with transport needs between such a centre or conurbation and surrounding areas;
-- “vertically integrated undertaking” means an undertaking where, within the meaning of Council Regulation[^key-e3881b8cc074d21298bf5e5b9ddb63d2] [(EC) No. 139/2004](https://www.legislation.gov.uk/eur/2004/0139) on the control of concentrations between undertakings (the EC Merger Regulation)—
+- “vertically integrated undertaking” means an undertaking where, within the meaning of Council Regulation[^c-e3881b8cc074d21298bf5e5b9ddb63d2] [(EC) No. 139/2004](https://www.legislation.gov.uk/eur/2004/0139) on the control of concentrations between undertakings (the EC Merger Regulation)—
   - (a) an infrastructure manager is controlled by an undertaking which at the same time controls one or several railway undertakings that operate rail services on the infrastructure manager’s network;
   - (b) an infrastructure manager is controlled by one or several railway undertakings that operate rail services on the infrastructure manager’s network; or
   - (c) one or several railway undertakings that operate rail services on the infrastructure manager’s network are controlled by an infrastructure manager,
@@ -140,7 +140,7 @@ These Regulations may be cited as the Railways Infrastructure (Access, Managemen
 (2) Subject to paragraphs (3) and (6), Parts 2 and 3 (save for regulation 13), regulations 14(6) and (7), 15, 19(3), 33 and Schedule 1 lay down the rules applicable to–
 
 - (i) the management of railway infrastructure;
-- (ii) the rail transport activities of railway undertakings[^key-431615ae8c3c9cd3c5906f1954df124f] ; and
+- (ii) the rail transport activities of railway undertakings[^c-431615ae8c3c9cd3c5906f1954df124f] ; and
 - (iii) the licensing of railway undertakings and groupings in respect of international services and international combined transport goods services which they operate.
 
 (3) The provisions referred to in paragraph (2) do not apply to railway undertakings whose activity is limited to the provision of solely urban, suburban or regional services on local and regional stand-alone networks for transport services on railway infrastructure or on networks intended only for the operation of urban or suburban rail services.
@@ -156,7 +156,7 @@ These Regulations may be cited as the Railways Infrastructure (Access, Managemen
 - (a) the setting and collection of railway infrastructure charges; and
 - (b) the allocation of railway infrastructure capacity.
 
-(6)[^key-656e4169eefec61aea6035e1a8105d4d]
+(6)[^c-656e4169eefec61aea6035e1a8105d4d]
 
 - (a) The provisions of—
   - (i) regulation 5;
@@ -188,7 +188,7 @@ These Regulations may be cited as the Railways Infrastructure (Access, Managemen
 - (c) until such time as capacity is requested by another applicant, regional networks used for regional freight services solely by a railway undertaking referred to in paragraph (3); or
 - (d) privately owned railway infrastructure that exists solely for use by the infrastructure manager for its own freight operations.
 
-(7A)[^key-a60d64840154d6db1a57ca1b0d775297] The lines referred to in paragraph (6)(b) and (c) are local, low traffic lines of a length not exceeding 100km that are used for freight traffic between a mainline and points of origin and destination of shipments along those lines, provided that those lines are managed by entities other than the main infrastructure manager and that either—
+(7A)[^c-a60d64840154d6db1a57ca1b0d775297] The lines referred to in paragraph (6)(b) and (c) are local, low traffic lines of a length not exceeding 100km that are used for freight traffic between a mainline and points of origin and destination of shipments along those lines, provided that those lines are managed by entities other than the main infrastructure manager and that either—
 
 - (a) those lines are used by a single freight operator, or
 - (b) the essential functions in relation to those lines are performed by a body which is not controlled by any railway undertaking.
@@ -213,25 +213,25 @@ do not apply to the railway undertaking.
 
 ### 4. Access and transit rights
 
-(1) A railway undertaking is entitled, on equitable, non-discriminatory and transparent conditions, access rights to such railway infrastructure as may be necessary for the purpose of operating all types of rail freight or [^key-a0fb37599fb4139a159d1a27e1037974]... passenger services.
+(1) A railway undertaking is entitled, on equitable, non-discriminatory and transparent conditions, access rights to such railway infrastructure as may be necessary for the purpose of operating all types of rail freight or [^c-a0fb37599fb4139a159d1a27e1037974]... passenger services.
 
-(2) An international grouping which includes a railway undertaking established in Northern Ireland, for the purpose of operating all types of rail freight or international passenger services, is entitled to such access or transit rights as may be necessary for the provision of international transport services between Northern Ireland and the Republic of Ireland[^key-943cfe0d48b173737f5d5ec507920c9d].
+(2) An international grouping which includes a railway undertaking established in Northern Ireland, for the purpose of operating all types of rail freight or international passenger services, is entitled to such access or transit rights as may be necessary for the provision of international transport services between Northern Ireland and the Republic of Ireland[^c-943cfe0d48b173737f5d5ec507920c9d].
 
 (3) The access rights described in paragraph (1) include access to railway infrastructure connecting the service facilities referred to in paragraph 2 of Schedule 1.
 
 (4) The access rights described in paragraph (1) for the purposes of operating rail freight services include the right of access to railway infrastructure serving, or potentially serving, more than one final customer.
 
-(5) The access rights of a railway undertaking for the purposes of the operation of a passenger service[^key-d263d6c5adf18a4f8f26490bb0927838] include the right to pick up passengers at any station located on the route[^key-e9422d42d1bfb2a3dc38c8308adbbe63] and set them down at another[^key-965700ab37b6d563748c86c4c3389006]....
+(5) The access rights of a railway undertaking for the purposes of the operation of a passenger service[^c-d263d6c5adf18a4f8f26490bb0927838] include the right to pick up passengers at any station located on the route[^c-e9422d42d1bfb2a3dc38c8308adbbe63] and set them down at another[^c-965700ab37b6d563748c86c4c3389006]....
 
-(6)[^key-4d6001fe488272c688d16c95fdffcf98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-4d6001fe488272c688d16c95fdffcf98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-609e1c2a430d6408dae46846bcfb50ce] The Office of Rail and Road may, in accordance with regulation 33, limit the rights granted by this regulation to passenger services between a place of departure and a destination where one or more public service contracts cover the same route or an alternative route if the exercise of any such right would compromise the economic equilibrium of the public service contract or contracts in question.
+(7)[^c-609e1c2a430d6408dae46846bcfb50ce] The Office of Rail and Road may, in accordance with regulation 33, limit the rights granted by this regulation to passenger services between a place of departure and a destination where one or more public service contracts cover the same route or an alternative route if the exercise of any such right would compromise the economic equilibrium of the public service contract or contracts in question.
 
-(8)[^key-255ce8e9d31c74776dd001cb06bd3105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-255ce8e9d31c74776dd001cb06bd3105] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) It is the duty of the infrastructure manager to ensure that the entitlements conferred by this regulation are honoured.
 
-(10) Without prejudice to the generality of regulation 32, if a railway undertaking is denied the entitlements conferred on it by this regulation other than pursuant to a decision of the Office of Rail and Road under paragraph (7) and regulation 33[^key-e2a52953072edc4df13df800b225a9e4] that railway undertaking has a right of appeal to the Office of Rail and Road in accordance with regulation 32.
+(10) Without prejudice to the generality of regulation 32, if a railway undertaking is denied the entitlements conferred on it by this regulation other than pursuant to a decision of the Office of Rail and Road under paragraph (7) and regulation 33[^c-e2a52953072edc4df13df800b225a9e4] that railway undertaking has a right of appeal to the Office of Rail and Road in accordance with regulation 32.
 
 ### 5. Access to services
 
@@ -272,11 +272,11 @@ the infrastructure manager or service provider must justify, in writing, any dec
 
 (12) Without prejudice to the generality of regulation 32, if an applicant is denied the entitlements conferred on it by this regulation, that applicant has a right of appeal to the Office of Rail and Road in accordance with regulation 32.
 
-(13)[^key-560a3ebee1bd112c9067693ac4433e6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-560a3ebee1bd112c9067693ac4433e6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 6. Access to training facilities
 
-(1) Railway undertakings applying for a safety certificate in accordance with Part 2 of the Railways (Safety Management) Regulations (Northern Ireland) 2006[^key-87bffe524958c128b42f0e03b8e57a80] shall be entitled to a fair and non-discriminatory access to training facilities for train drivers and staff accompanying the trains, whenever such training is necessary for the fulfilment of requirements to obtain that certificate.
+(1) Railway undertakings applying for a safety certificate in accordance with Part 2 of the Railways (Safety Management) Regulations (Northern Ireland) 2006[^c-87bffe524958c128b42f0e03b8e57a80] shall be entitled to a fair and non-discriminatory access to training facilities for train drivers and staff accompanying the trains, whenever such training is necessary for the fulfilment of requirements to obtain that certificate.
 
 (2) The services offered under paragraph (1) must include training on—
 
@@ -289,7 +289,7 @@ in respect of the routes operated.
 
 (3) The infrastructure manager, and any of his staff with responsibility for safety critical tasks, must have a fair and non-discriminatory access to the services listed in paragraph (2).
 
-(4) It is the responsibility of the Department[^key-ab58574b7e8b776f65ff313d0b99ed87] to ensure that the provision of training services meets the safety requirements laid down in the National Safety Rules.
+(4) It is the responsibility of the Department[^c-ab58574b7e8b776f65ff313d0b99ed87] to ensure that the provision of training services meets the safety requirements laid down in the National Safety Rules.
 
 (5) If the training facilities to which access is granted by virtue of this regulation are available only through the services of one single railway undertaking, or the infrastructure manager, the Department must ensure that those facilities and services are available to applicants at a reasonable and non-discriminatory price, which is cost-related and may include a profit margin.
 
@@ -297,7 +297,7 @@ in respect of the routes operated.
 
 (7) The staff described in paragraph (6) must be granted access to all documents attesting to their training, qualifications and experience, and be entitled to have copies of such documentation.
 
-(8) It is the responsibility of each railway undertaking and infrastructure manager to provide the appropriate level of training and qualification of staff set out in national safety rules[^key-f39c966a4e148fde14a008c8d6f1b46b] and Annex III to Council Directive [2004/49/EC](https://www.legislation.gov.uk/eudr/2004/49).
+(8) It is the responsibility of each railway undertaking and infrastructure manager to provide the appropriate level of training and qualification of staff set out in national safety rules[^c-f39c966a4e148fde14a008c8d6f1b46b] and Annex III to Council Directive [2004/49/EC](https://www.legislation.gov.uk/eudr/2004/49).
 
 (9) For the purposes of this regulation—
 
@@ -332,21 +332,21 @@ which could significantly affect the health or safety of persons on a railway.
 
 (1) The Department must ensure that provisions contained in cross-border agreements do not discriminate between railway undertakings, or restrict their freedom to operate cross-border services.
 
-(2)[^key-5b405cd16d75a6542bb3cd39797856f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5b405cd16d75a6542bb3cd39797856f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-5b405cd16d75a6542bb3cd39797856f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5b405cd16d75a6542bb3cd39797856f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-5b405cd16d75a6542bb3cd39797856f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5b405cd16d75a6542bb3cd39797856f3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — INFRASTRUCTURE MANAGEMENT
 
 ### 8. Management independence
 
-(1) Railway undertakings which are directly or indirectly controlled by a Northern Ireland Department[^key-57273b3a6244f1087f211a4080992523] must, in their management, administration and internal control over administrative, economic and accounting matters, maintain the status of an independent operator and hold, in particular, assets, budgets and accounts which are separate from those of that Northern Ireland Department[^key-8e48ca672729119e8e19b641fd998e92].
+(1) Railway undertakings which are directly or indirectly controlled by a Northern Ireland Department[^c-57273b3a6244f1087f211a4080992523] must, in their management, administration and internal control over administrative, economic and accounting matters, maintain the status of an independent operator and hold, in particular, assets, budgets and accounts which are separate from those of that Northern Ireland Department[^c-8e48ca672729119e8e19b641fd998e92].
 
 (2) Subject to the requirements set out in Parts 4 and 5 and Schedules 2 and 3 about the determination of infrastructure charges and the allocation of infrastructure capacity an infrastructure manager must be responsible for its own management, administration and internal control.
 
-### 8A. Independence of the infrastructure manager[^key-5bc5c2aefc121be41aabf39ab0aef1c0]
+### 8A. Independence of the infrastructure manager[^c-5bc5c2aefc121be41aabf39ab0aef1c0]
 
 (1) Subject to paragraph (5), the infrastructure manager, in its legal form, must be independent of any railway undertaking and, in vertically integrated undertakings, also be independent of any other legal entity within the undertaking.
 
@@ -411,11 +411,11 @@ however, they may be offered incentives related to the overall performance of th
 - (a) the prohibition set out in those paragraphs relating to the transfer of public funds; and
 - (b) the use of income from infrastructure charges and surpluses from other commercial activities.
 
-(4)[^key-f91c660afdb913466ed7d700ae6cbcd6] Where infrastructure charging and path allocation functions are performed by a charging body and an allocation body by virtue of regulations 14(6) and 19(3) respectively, the undertaking must be organised in distinct divisions that do not have a separate legal form within a single undertaking.
+(4)[^c-f91c660afdb913466ed7d700ae6cbcd6] Where infrastructure charging and path allocation functions are performed by a charging body and an allocation body by virtue of regulations 14(6) and 19(3) respectively, the undertaking must be organised in distinct divisions that do not have a separate legal form within a single undertaking.
 
 (4) The monitoring of the observance of public service obligations, where stipulated in the terms of a contract required by regulation 19(11), must be carried out by the Department.
 
-### 9A. Financial transparency[^key-5e20d152031e1239596d17dd5e14f911]
+### 9A. Financial transparency[^c-5e20d152031e1239596d17dd5e14f911]
 
 (1) Infrastructure managers must not use income from infrastructure network management activities for any purposes other than to finance the business of the infrastructure manager, but this may include the servicing of the infrastructure manager’s loans and the payment of dividends to its shareholders provided that the income is not used to pay dividends to undertakings within a vertically integrated undertaking which exercise control over both a railway undertaking and the infrastructure manager.
 
@@ -465,7 +465,7 @@ the requirements of paragraphs (1) and (2) are met if regulations 14(6) and 19(3
 (1) The Department must, by 19th December 2019 and after consultation with interested parties, publish an indicative railway infrastructure strategy for Northern Ireland which must—
 
 - (a) be drafted with a view to meeting future mobility needs in terms of the maintenance, renewal and development needs of the railway infrastructure in Northern Ireland;
-- (b)[^key-bf6eb27cecca2ea89d12ab90c0835465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-bf6eb27cecca2ea89d12ab90c0835465] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) be based on sustainable financing.
 
 (2) The strategy referred to in paragraph (1) must—
@@ -549,7 +549,7 @@ the requirements of paragraphs (1) and (2) are met if regulations 14(6) and 19(3
 - (o) a model agreement for the conclusion of a framework agreement between an infrastructure manager and an applicant in accordance with regulation 21; and
 - (p) the criteria to determine failure to use capacity published under regulation 18(3)(a).
 
-(5) The information provided under paragraph (4)(a) must be made consistent, on an annual basis with, or must refer to, the rail infrastructure registers to be published in accordance with regulation 35 of the Railways (Interoperability) Regulations 2011[^key-34fd3118eab0307a7fd89512b5b0075b].
+(5) The information provided under paragraph (4)(a) must be made consistent, on an annual basis with, or must refer to, the rail infrastructure registers to be published in accordance with regulation 35 of the Railways (Interoperability) Regulations 2011[^c-34fd3118eab0307a7fd89512b5b0075b].
 
 (6) The information provided under paragraph (4)(c) and (d) must include–
 
@@ -566,13 +566,13 @@ the requirements of paragraphs (1) and (2) are met if regulations 14(6) and 19(3
 
 (11) The content of the network statement must be made available free of charge in electronic format on the web portal of the infrastructure manager and must be accessible through a common web portal.
 
-(12) The common web portal referred to in paragraph (11) must be set up by the infrastructure manager in the framework of its cooperation with infrastructure managers from the Republic of Ireland[^key-c0e69172b6e4b68b1286173d34564937], in accordance with regulations 17 and 20.
+(12) The common web portal referred to in paragraph (11) must be set up by the infrastructure manager in the framework of its cooperation with infrastructure managers from the Republic of Ireland[^c-c0e69172b6e4b68b1286173d34564937], in accordance with regulations 17 and 20.
 
 (13) If the information required under paragraphs (2) or (3) is not provided to the satisfaction of the infrastructure manager, the infrastructure manager may refer the matter to the Office of Rail and Road for a determination as to whether additional information must be supplied.
 
 (14) Where a matter is referred to the Office of Rail and Road in accordance with paragraph (13), it is the duty of the Office of Rail and Road to make the determination within such period as is reasonable in all the circumstances, and any such determination shall be binding on all parties.
 
-### 13A. Coordination mechanisms[^key-661eaee401cf05b0c5d35a6ed02cc645]
+### 13A. Coordination mechanisms[^c-661eaee401cf05b0c5d35a6ed02cc645]
 
 (1) The main infrastructure manager must put in place appropriate a coordination mechanism to ensure it coordinates, at least annually, with all interested railway undertakings as well as applicants referred to in regulation 12(3) regarding the matters set out in paragraph (3).
 
@@ -588,7 +588,7 @@ the requirements of paragraphs (1) and (2) are met if regulations 14(6) and 19(3
 
 (4) The main infrastructure manager must draw up and publish guidelines for the coordination required by paragraph (1) in consultation with interested parties and must publish on its website an overview of the activities undertaken pursuant to this regulation.
 
-### 13B. European Network of Infrastructure Managers[^key-0fe56d80ea286c172108bd47b0268c0c]
+### 13B. European Network of Infrastructure Managers[^c-0fe56d80ea286c172108bd47b0268c0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -617,7 +617,7 @@ the requirements of paragraphs (1) and (2) are met if regulations 14(6) and 19(3
 
 (6) Subject to paragraph (7), if the infrastructure manager in its legal form, organisation and decision making functions, is not independent of any railway undertaking, the infrastructure manager must ensure that the functions described in this Part and Schedule 2 are performed by a charging body that is independent in its legal form, organisation and decision-making from any railway undertaking.
 
-(6A)[^key-c2277c8dbc44a236ac0d02423c33c5f6] In paragraph (6) the infrastructure manager is not independent in its organisation or decision-making functions if, in particular—
+(6A)[^c-c2277c8dbc44a236ac0d02423c33c5f6] In paragraph (6) the infrastructure manager is not independent in its organisation or decision-making functions if, in particular—
 
 - (a) a railway undertaking or any other legal entity exercises a decisive influence on the infrastructure manager in relation to the infrastructure charging elements of the essential functions, without prejudice to the charging framework established pursuant to this regulation;
 - (b) a railway undertaking or any other legal entity within the vertically integrated undertaking has decisive influence on appointments and dismissals of persons in charge of taking decisions on the infrastructure charging elements of the essential functions; or
@@ -644,7 +644,7 @@ the requirements of paragraphs (1) and (2) are met if regulations 14(6) and 19(3
 
 with railway infrastructure expenditure.
 
-(2) The infrastructure manager must enter into an agreement with the Department which must fulfil the basic parameters set out in Schedule 3A[^key-8cb8be29af96902846f76fbee86de75a] , and cover a period of not less than five years.
+(2) The infrastructure manager must enter into an agreement with the Department which must fulfil the basic parameters set out in Schedule 3A[^c-8cb8be29af96902846f76fbee86de75a] , and cover a period of not less than five years.
 
 (3) The infrastructure manager must, with due regard to safety and to maintaining and improving the quality of the infrastructure service, be provided with incentives to reduce the costs of provision of infrastructure and the level of access charges.
 
@@ -682,11 +682,11 @@ with railway infrastructure expenditure.
 
 ### 17. Cooperation in relation to charging systems on more than one network
 
-(1) The infrastructure manager must cooperate with other infrastructure managers within Northern Ireland and the Republic of Ireland[^key-07a6da863f40633d2a3da80678649e4c] to enable the application of efficient charging schemes, and must associate with them to coordinate the charging or to charge for the operation of train services which cross more than one infrastructure network of the rail system [^key-74fab1a935316b3f73339e11e33b3d65]....
+(1) The infrastructure manager must cooperate with other infrastructure managers within Northern Ireland and the Republic of Ireland[^c-07a6da863f40633d2a3da80678649e4c] to enable the application of efficient charging schemes, and must associate with them to coordinate the charging or to charge for the operation of train services which cross more than one infrastructure network of the rail system [^c-74fab1a935316b3f73339e11e33b3d65]....
 
-(2) The infrastructure manager must, in particular, aim to guarantee the optimal competitiveness of international rail services and ensure the efficient use of the railway networks; to this end the infrastructure manager must cooperate with other infrastructure managers in Northern Ireland and the Republic of Ireland[^key-75c5e010066eae09b55a67aac7abfb21] to establish appropriate procedures, subject to the rules set out in these regulations.
+(2) The infrastructure manager must, in particular, aim to guarantee the optimal competitiveness of international rail services and ensure the efficient use of the railway networks; to this end the infrastructure manager must cooperate with other infrastructure managers in Northern Ireland and the Republic of Ireland[^c-75c5e010066eae09b55a67aac7abfb21] to establish appropriate procedures, subject to the rules set out in these regulations.
 
-(3) For the purpose of paragraphs (1) and (2) the infrastructure manager must cooperate with infrastructure managers in the Republic of Ireland[^key-3968dd5653540b6dc0cb8e4bcac61d06] to enable mark-ups (as referred to in Schedule 2, paragraph 2) and performance schemes (as referred to in regulation 16) to be efficiently applied for traffic crossing more than one network of the rail system [^key-714eb45cd8abe5be52783e5e69a83cb6]....
+(3) For the purpose of paragraphs (1) and (2) the infrastructure manager must cooperate with infrastructure managers in the Republic of Ireland[^c-3968dd5653540b6dc0cb8e4bcac61d06] to enable mark-ups (as referred to in Schedule 2, paragraph 2) and performance schemes (as referred to in regulation 16) to be efficiently applied for traffic crossing more than one network of the rail system [^c-714eb45cd8abe5be52783e5e69a83cb6]....
 
 ### 18. Reservation charges
 
@@ -714,7 +714,7 @@ with railway infrastructure expenditure.
 
 (3) If the infrastructure manager, in its legal form, organisation and decision making functions, is not independent of any railway undertaking, the infrastructure manager must ensure that the functions described in this Part and Schedule 3 are performed by an allocation body that is independent in its legal form, organisation and decision-making from any railway undertaking.
 
-(3A)[^key-28949a7cd24e9806af67077310f7d985] In paragraph (3) the infrastructure manager is not independent in its organisation or decision-making functions if, in particular—
+(3A)[^c-28949a7cd24e9806af67077310f7d985] In paragraph (3) the infrastructure manager is not independent in its organisation or decision-making functions if, in particular—
 
 - (a) a railway undertaking or any other legal entity exercises a decisive influence on the infrastructure manager in relation to the train path allocation elements of the essential functions, without prejudice to the allocation framework established pursuant to this regulation;
 - (b) a railway undertaking or any other legal entity within the vertically integrated undertaking has decisive influence on appointments and dismissals of persons in charge of taking decisions on the train path allocation elements of the essential functions; or
@@ -749,13 +749,13 @@ must not trade that capacity with another applicant or transfer it to another un
 
 (13) In reserving infrastructure capacity for the purposes of scheduled track maintenance, as requested under regulation 22(3), the infrastructure manager must take into account the effect of that reservation on applicants.
 
-(14) An applicant applying for infrastructure capacity with a view to operating a[^key-58cb067fc443391997cfb212d5aa609c] passenger service must give notice of that fact to the infrastructure manager concerned and to the Office of Rail and Road at least 18 months before the entry into force of the working timetable to which the request for capacity relates[^key-883627a26524e73359814e821f6e7228] and provide such information as the Office of Rail and Road may reasonably require or prescribe.
+(14) An applicant applying for infrastructure capacity with a view to operating a[^c-58cb067fc443391997cfb212d5aa609c] passenger service must give notice of that fact to the infrastructure manager concerned and to the Office of Rail and Road at least 18 months before the entry into force of the working timetable to which the request for capacity relates[^c-883627a26524e73359814e821f6e7228] and provide such information as the Office of Rail and Road may reasonably require or prescribe.
 
-(15) When the Office of Rail and Road receives a notice from an applicant under paragraph (14)[^key-3a94925f067c0754c1564fd1bbf870eb] it must , without undue delay and at the latest within 10 days,[^key-b26fddc42c8a6dce4284054aab78e0a2] provide—
+(15) When the Office of Rail and Road receives a notice from an applicant under paragraph (14)[^c-3a94925f067c0754c1564fd1bbf870eb] it must , without undue delay and at the latest within 10 days,[^c-b26fddc42c8a6dce4284054aab78e0a2] provide—
 
 - (a) any competent authority that has awarded a rail passenger service, defined in a relevant public service contract;
 - (b) any railway undertaking which is a relevant public service operator; and
-- (c) any other competent authority with a right to limit access along the route of the [^key-283f6326271dfd992c13af0b8be8ab3e]... passenger service notified under paragraph (14)[^key-c6760325627844dfc5ac5b0f28fd25ea] .
+- (c) any other competent authority with a right to limit access along the route of the [^c-283f6326271dfd992c13af0b8be8ab3e]... passenger service notified under paragraph (14)[^c-c6760325627844dfc5ac5b0f28fd25ea] .
 
 with a copy of the information in relation to that service provided to it in accordance with that paragraph.
 
@@ -771,22 +771,22 @@ with a copy of the information in relation to that service provided to it in acc
 
 ### 20. Co-operation in the allocation of infrastructure capacity crossing more than one network
 
-(1) This regulation applies to the allocation of infrastructure capacity in the form of a train path crossing more than one network of the rail system in Northern Ireland and the Republic of Ireland[^key-f8aa62a8af34ffbec9160ff4709c1110].
+(1) This regulation applies to the allocation of infrastructure capacity in the form of a train path crossing more than one network of the rail system in Northern Ireland and the Republic of Ireland[^c-f8aa62a8af34ffbec9160ff4709c1110].
 
 (2) Infrastructure managers must –
 
 - (a) co-operate to enable the efficient creation and allocation of infrastructure capacity to which this regulation applies, including under a framework agreement, and
 - (b) before consulting on the draft working timetable in relation to relevant train paths agree with the other relevant infrastructure managers which international train paths are to be included in that draft working timetable.
 
-(2A)[^key-de4dd14be6d775754be19ddd890aef17] Infrastructure managers required by paragraph (2)(a) to cooperate in the allocation of infrastructure capacity crossing more than one network, must provide, without delay, all the information requested by the Office of Rail and Road which is necessary for the purpose of handling an appeal or an own initiative investigation on issues of access or charging relating to an international train path.
+(2A)[^c-de4dd14be6d775754be19ddd890aef17] Infrastructure managers required by paragraph (2)(a) to cooperate in the allocation of infrastructure capacity crossing more than one network, must provide, without delay, all the information requested by the Office of Rail and Road which is necessary for the purpose of handling an appeal or an own initiative investigation on issues of access or charging relating to an international train path.
 
 (3) The international train paths referred to in paragraph (2)(b) may only be adjusted if absolutely necessary.
 
 (4) The infrastructure managers must establish such procedures as are appropriate, in accordance with the requirements set out in these regulations, to enable the co-operation referred to in paragraph (2)(a) to take place, and such procedures must include coordination with representatives of the infrastructure managers whose allocation decisions have an impact on one or more other infrastructure managers.
 
-(5) The procedures established by virtue of paragraph (4) may permit appropriate representatives of infrastructure managers outside Northern Ireland[^key-b626e6f1edb46fb76d16fba1edaba1b8] to be associated with these procedures.
+(5) The procedures established by virtue of paragraph (4) may permit appropriate representatives of infrastructure managers outside Northern Ireland[^c-b626e6f1edb46fb76d16fba1edaba1b8] to be associated with these procedures.
 
-(6)[^key-08d9e1d459bb17a48fb16221b0a4115b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-08d9e1d459bb17a48fb16221b0a4115b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The infrastructure manager must provide the Office of Rail and Road with sufficient information about the development of common principles and practices for the allocation of infrastructure and from any IT-based allocation systems, to allow it to perform its regulatory supervision.
 
@@ -796,11 +796,11 @@ with a copy of the information in relation to that service provided to it in acc
 
 (10) The prearranged train paths referred to in paragraph (2)(b) must be made available to applicants through any infrastructure manager who participates in the international co-ordination of train paths referred to in this regulation.
 
-(11)[^key-456041d54b5bd51cd54f8681791f89f2] The Office of Rail and Road must review decisions and practices of infrastructure managers required to co-operate under this regulation, in relation to train services which cross more than one network, where those decisions and practices implement provisions in these Regulations or which otherwise facilitate international rail transport.
+(11)[^c-456041d54b5bd51cd54f8681791f89f2] The Office of Rail and Road must review decisions and practices of infrastructure managers required to co-operate under this regulation, in relation to train services which cross more than one network, where those decisions and practices implement provisions in these Regulations or which otherwise facilitate international rail transport.
 
 ### 21. Framework agreements
 
-(1) Subject to the requirements of this regulation, [^key-9fdcb9b9478c3041393f5295c54efcae]... an infrastructure manager may enter into a framework agreement with an applicant for the purpose of specifying the characteristics of the infrastructure capacity required by and offered to the applicant over a period of time exceeding one working timetable period.
+(1) Subject to the requirements of this regulation, [^c-9fdcb9b9478c3041393f5295c54efcae]... an infrastructure manager may enter into a framework agreement with an applicant for the purpose of specifying the characteristics of the infrastructure capacity required by and offered to the applicant over a period of time exceeding one working timetable period.
 
 (2) An applicant who is party to a framework agreement may apply for the allocation of capacity in accordance with the terms of that agreement.
 
@@ -883,7 +883,7 @@ with a copy of the information in relation to that service provided to it in acc
 
 (1) Subject to paragraph (2), all infrastructure capacity must be available for the use of all types of rail transport service which conform to the characteristics necessary for use of that infrastructure, as defined in the infrastructure manager's network statement.
 
-(2) Subject to the provisions set out in paragraph (3), [^key-3bd01fad0649880ed2c2a5cbdd03873a]... an infrastructure manager may designate particular sections of the infrastructure for use by specified types of rail service and, once the infrastructure is so designated, may give priority to that specified type of rail service in the allocation of infrastructure capacity.
+(2) Subject to the provisions set out in paragraph (3), [^c-3bd01fad0649880ed2c2a5cbdd03873a]... an infrastructure manager may designate particular sections of the infrastructure for use by specified types of rail service and, once the infrastructure is so designated, may give priority to that specified type of rail service in the allocation of infrastructure capacity.
 
 (3) Those provisions are that—
 
@@ -992,7 +992,7 @@ provided that prior approval to continue to levy the scarcity charge is obtained
 
 (2) The infrastructure manager must have in place a contingency plan listing the various bodies who are required to be informed in the event of a serious incident or serious disruption to train movements.
 
-(2A)[^key-9c44e472276f18f04a0b3fc54ff6631b] In the event of disruption which has the potential to affect cross-border traffic, the infrastructure manager must share any relevant information with other infrastructure managers whose network or traffic may be affected and the infrastructure managers concerned must cooperate to restore cross-border traffic to normal.
+(2A)[^c-9c44e472276f18f04a0b3fc54ff6631b] In the event of disruption which has the potential to affect cross-border traffic, the infrastructure manager must share any relevant information with other infrastructure managers whose network or traffic may be affected and the infrastructure managers concerned must cooperate to restore cross-border traffic to normal.
 
 (3) The infrastructure manager may, in the event of an emergency and where absolutely necessary on account of a breakdown which renders a part of the railway infrastructure temporarily unusable, withdraw allocated train paths without warning and with immediate effect for such period as is necessary to repair the affected infrastructure.
 
@@ -1062,9 +1062,9 @@ provided that prior approval to continue to levy the scarcity charge is obtained
 - (c) the allocation process and its result as prescribed in Part 5 and Schedule 3;
 - (d) the charging scheme and charging system established in accordance with regulation 14;
 - (e) the level of structure of railway infrastructure charges, the principles of which are prescribed in Part 4 and Schedule 2, which it is, or may be, required to pay;
-- (f) the arrangements for access granted under Part 2 and Schedule 1; [^key-e025ffe97b3cd33fdeff06bd63b688d5]...
-- (g) access to and charging for services provided under Part 2 and Schedule 1 ;[^key-00771d019c844c5ce6ab7bd2c66ff236]
-- (h)[^key-eb00834c46ff1af6602c6706e422a885] traffic management;
+- (f) the arrangements for access granted under Part 2 and Schedule 1; [^c-e025ffe97b3cd33fdeff06bd63b688d5]...
+- (g) access to and charging for services provided under Part 2 and Schedule 1 ;[^c-00771d019c844c5ce6ab7bd2c66ff236]
+- (h)[^c-eb00834c46ff1af6602c6706e422a885] traffic management;
 - (i) renewal planning and scheduled or unscheduled maintenance;
 - (j) compliance with the requirements, including those regarding conflicts of interest, set out in regulations 8A, 8B, 8C, 9A, 14(6) and 19(3).
 
@@ -1095,21 +1095,21 @@ provided that prior approval to continue to levy the scarcity charge is obtained
 - (a) a decision by the Office of Rail and Road on an appeal brought under this regulation is binding on all parties affected by that decision;
 - (b) it is the duty of any person to whom a direction is given under this regulation to comply with and give effect to that direction.
 
-### 33. Regulatory decisions concerning ... passenger services[^key-fcbb66f9b9e92fd026b31d774080c069]
+### 33. Regulatory decisions concerning ... passenger services[^c-fcbb66f9b9e92fd026b31d774080c069]
 
-(1)[^key-47f746def799aa2f8a0afd2c1024ebe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-47f746def799aa2f8a0afd2c1024ebe6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-182893ff6e45563b9055fca2d49a04f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-182893ff6e45563b9055fca2d49a04f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) At the request of a relevant party submitted within one month of receipt of the information on the intended passenger service referred to in regulation 19(14), the Office of Rail and Road must[^key-8094839444a1af5df0156f10b739b64e] —
+(3) At the request of a relevant party submitted within one month of receipt of the information on the intended passenger service referred to in regulation 19(14), the Office of Rail and Road must[^c-8094839444a1af5df0156f10b739b64e] —
 
-- (a) [^key-af43a9a866ac8bedcf04d994de0b9844]... in accordance with paragraphs (5) and (6) determine whether the exercise of the right conferred under regulation 4 by an applicant for infrastructure capacity notified under regulation 19(14) would compromise the economic equilibrium of a relevant public service contract; and
+- (a) [^c-af43a9a866ac8bedcf04d994de0b9844]... in accordance with paragraphs (5) and (6) determine whether the exercise of the right conferred under regulation 4 by an applicant for infrastructure capacity notified under regulation 19(14) would compromise the economic equilibrium of a relevant public service contract; and
 - (b) make the determination on the basis of an objective economic analysis and in accordance with pre-determined criteria published by it.
 
 (4) For the purposes of paragraph (3), and (6)(d) a relevant party is—
 
 - (a) the competent authority or authorities that awarded the public service contract;
-- (b) any other competent authority with a right to limit access along the route of the [^key-3310b7f7313dc287535e1eb113666b20]... passenger service notified under regulation 19(14);
+- (b) any other competent authority with a right to limit access along the route of the [^c-3310b7f7313dc287535e1eb113666b20]... passenger service notified under regulation 19(14);
 - (c) the infrastructure manager; and
 - (d) the railway undertaking performing the relevant public service contract to which the request relates.
 
@@ -1120,16 +1120,16 @@ provided that prior approval to continue to levy the scarcity charge is obtained
 - (a) complete a consultation initiated under paragraph (5) or, as the case may be, under paragraph (9) if required;
 - (b) make a decision on a request made under paragraph (3);
 - (c) where appropriate, issue a direction to the infrastructure manager, allocation body, charging body, service provider or, as the case may be, railway undertaking, limiting the access rights conferred under regulation 4, if the exercise of those rights would compromise the economic equilibrium of a relevant public service contract;
-- (d)[^key-66400325cb08c48e908d3bc20c073284] provide the relevant parties and any railway undertaking seeking access for the purpose of operating a passenger service with—
+- (d)[^c-66400325cb08c48e908d3bc20c073284] provide the relevant parties and any railway undertaking seeking access for the purpose of operating a passenger service with—
   - (i) the grounds for its decision,
   - (ii) the conditions under which any of those parties may request a reconsideration of the decision or direction or both, and
   - (iii) where paragraph (6)(c) applies, an indication of possible changes to the service which would ensure that the conditions to grant the right of access provided for in regulation 4 are met.
 
-(6A)[^key-bd51f283ae02b4fea5e82a00d8b36802] A request for a reconsideration in accordance with paragraph (6)(d)(ii) must be made within one month of receipt of the information referred to in paragraph (6)(d).
+(6A)[^c-bd51f283ae02b4fea5e82a00d8b36802] A request for a reconsideration in accordance with paragraph (6)(d)(ii) must be made within one month of receipt of the information referred to in paragraph (6)(d).
 
-(7) Where the Office of Rail and Road has received a properly made request for a reconsideration of its decision or direction in accordance with paragraph (6)(d) (ii) and (6A)[^key-fde5352288ae39d5f619ab7fd7984085] , any decision or direction it has made under paragraph (6) will not take effect pending reconsideration.
+(7) Where the Office of Rail and Road has received a properly made request for a reconsideration of its decision or direction in accordance with paragraph (6)(d) (ii) and (6A)[^c-fde5352288ae39d5f619ab7fd7984085] , any decision or direction it has made under paragraph (6) will not take effect pending reconsideration.
 
-(8) Where the Office of Rail and Road has received a properly made request for a reconsideration of its decision or direction in accordance with paragraph (6)(d) (ii) and (6A)[^key-55104064ce115218b4085a6460efeff4] , it must, within six weeks of the date of receipt of all relevant information and of any representations made by the Department—
+(8) Where the Office of Rail and Road has received a properly made request for a reconsideration of its decision or direction in accordance with paragraph (6)(d) (ii) and (6A)[^c-55104064ce115218b4085a6460efeff4] , it must, within six weeks of the date of receipt of all relevant information and of any representations made by the Department—
 
 - (a) make a reconsidered decision on the request; and
 - (b) where appropriate, issue or reissue a direction or directions to the infrastructure manager, allocation body, charging body, service provider or, as the case may be, railway undertaking.
@@ -1148,11 +1148,11 @@ provided that prior approval to continue to levy the scarcity charge is obtained
 
 ### 34. Monitoring the rail services markets
 
-(1) The Office of Rail and Road must monitor the competitive situation in the rail services markets , including the market for passenger services and the activities of infrastructure managers in relation to the matters referred to in regulation 32(2)[^key-58acfc713dbeb772aae40183c4ba5a76] .
+(1) The Office of Rail and Road must monitor the competitive situation in the rail services markets , including the market for passenger services and the activities of infrastructure managers in relation to the matters referred to in regulation 32(2)[^c-58acfc713dbeb772aae40183c4ba5a76] .
 
 (2) In particular it must-
 
-- (a) verify compliance with[^key-e1dd6a41501b3f52b3c8196afb527c8d] the matters referred to in regulation 32(2) on its own initiative and with a view to preventing discrimination against applicants; and
+- (a) verify compliance with[^c-e1dd6a41501b3f52b3c8196afb527c8d] the matters referred to in regulation 32(2) on its own initiative and with a view to preventing discrimination against applicants; and
 - (b) check whether the network statement contains discriminatory clauses or creates discretionary powers for the infrastructure manager that may be used to discriminate against applicants.
 
 (3) The Office of Rail and Road must, where appropriate and on its own initiative, give appropriate directions to correct—
@@ -1165,21 +1165,21 @@ provided that prior approval to continue to levy the scarcity charge is obtained
 
 (5) The Office of Rail and Road must regularly, and in any case at least every two years, consult representatives of users of the rail freight and passenger transport services, to take into account their views on the rail market.
 
-(6)[^key-b077ad0a5638c6e48c19b9594a8b9373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-b077ad0a5638c6e48c19b9594a8b9373] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-693aa0e0bc6e4b36242325b518e06df1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-693aa0e0bc6e4b36242325b518e06df1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) The Office of Rail and Road and the Department as safety authority must co-operate closely, in particular with a view jointly, to develop a framework for information sharing and co-operation aimed at preventing adverse effects on competition or safety in the rail services markets.
 
 ### 35. Audits
 
-(1) The Office of Rail and Road may carry out an audit or initiate an external audit of an infrastructure manager, service provider and, where relevant, railway undertakings to verify compliance with the account separation provisions laid down in regulation 9 and the provisions on financial transparency laid down in regulation 9A[^key-1d2e0dc32a5cd89632bca320a45b9cd1] .
+(1) The Office of Rail and Road may carry out an audit or initiate an external audit of an infrastructure manager, service provider and, where relevant, railway undertakings to verify compliance with the account separation provisions laid down in regulation 9 and the provisions on financial transparency laid down in regulation 9A[^c-1d2e0dc32a5cd89632bca320a45b9cd1] .
 
 (2) For the purposes of paragraph (1) the power of the Office of Rail and Road, under regulation 36 to request relevant information to perform its functions includes a power to request any relevant party to provide all or part of the accounting information listed in Schedule 5 with a sufficient level of detail as is deemed necessary and proportionate.
 
 (3) For the purposes of paragraph (2) “**any relevant party**” includes an infrastructure manager, service provider, railway undertaking or other entity performing or integrating different types of rail transport or infrastructure management as referred to in regulations 5 and 9(1).
 
-(3A)[^key-9c8c9317b2012d44dd03f9dc0f939a5b] In the case of vertically integrated undertakings, the powers of the Office of Rail and Road under this regulation extend to all legal entities within the vertically integrated undertaking.
+(3A)[^c-9c8c9317b2012d44dd03f9dc0f939a5b] In the case of vertically integrated undertakings, the powers of the Office of Rail and Road under this regulation extend to all legal entities within the vertically integrated undertaking.
 
 (4) The Office of Rail and Road may draw conclusions from the accounts concerning state aid issues which it must report to the Department.
 
@@ -1210,7 +1210,7 @@ provided that prior approval to continue to levy the scarcity charge is obtained
 
 (11) In this section “**the court**” means the Court of Judicature.
 
-### 37. Co-operation between regulatory bodies[^key-c473e76cb6e36a91335023306300b1ef]
+### 37. Co-operation between regulatory bodies[^c-c473e76cb6e36a91335023306300b1ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1353,15 +1353,15 @@ he may make an application to the court under this section.
 
 (3) No proceedings shall be instituted in Northern Ireland in respect of an offence under this regulation except by or on behalf of the Office of Rail and Road.
 
-(4) In this regulation the expression “**European licence**” includes a licence granted pursuant to any action taken by an EEA State for the purpose of implementing the 1995 Directive [^c22818831] or the Directive and a licence granted by the Office of Rail and Road pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005[^key-0ac66c86da68b38ece5d80d191a3f87b] .
+(4) In this regulation the expression “**European licence**” includes a licence granted pursuant to any action taken by an EEA State for the purpose of implementing the 1995 Directive [^c22818831] or the Directive and a licence granted by the Office of Rail and Road pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005[^c-0ac66c86da68b38ece5d80d191a3f87b] .
 
 ### 44. Appointment of licensing authority and grant of European licences
 
 (1) The Department is hereby designated as the body responsible for granting European licences.
 
-(2)[^key-8e70c99f6260c08c3a562a11fb1f9a1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-8e70c99f6260c08c3a562a11fb1f9a1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The Department shall determine and publish the procedures for the granting of European licences [^key-524df8d9a91722303b4e1ad5edf54263]....
+(3) The Department shall determine and publish the procedures for the granting of European licences [^c-524df8d9a91722303b4e1ad5edf54263]....
 
 (4) Subject to and in accordance with these regulations, the Department shall grant a European licence to a railway undertaking if that undertaking—
 
@@ -1390,7 +1390,7 @@ he may make an application to the court under this section.
 
 (13) The Department shall inform the applicant in writing of its decision and, where it refuses to grant a European licence, the refusal shall state the reasons for its decision.
 
-(14)[^key-6cd8886202d87d22e1016a15f19b8c46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-6cd8886202d87d22e1016a15f19b8c46] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (15) As soon as practical after granting a European licence the Department shall send a copy of the licence to the Health and Safety Executive for Northern Ireland.
 
@@ -1420,7 +1420,7 @@ he may make an application to the court under this section.
 
 (4) The Department shall revoke a European licence if proceedings have been commenced for the winding up of a railway undertaking on the grounds that the undertaking is unable to pay its debts and the Department is satisfied that there is no reasonable prospect of satisfactory financial restructuring of the undertaking within a reasonable period of time.
 
-(5)[^key-7067b4fba65556626f3662b04ee59aef] Where the Department is satisfied that there is a serious doubt whether a railway undertaking to which a licence has been granted by the Office of Rail and Road pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 complies with any requirement of those Regulations, it must without delay so notify the Office of Rail and Road.
+(5)[^c-7067b4fba65556626f3662b04ee59aef] Where the Department is satisfied that there is a serious doubt whether a railway undertaking to which a licence has been granted by the Office of Rail and Road pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005 complies with any requirement of those Regulations, it must without delay so notify the Office of Rail and Road.
 
 (6) Where the Department has suspended or revoked a European licence solely on the grounds of the non-compliance by the railway undertaking with the requirements of financial fitness specified in Schedule 4 but the Department considers that there is a realistic prospect of a satisfactory financial restructuring of the undertaking taking place within a reasonable period of time, it may grant to the undertaking a temporary European licence pending such financial restructuring.
 
@@ -1441,7 +1441,7 @@ he may make an application to the court under this section.
 
 (13) When a railway undertaking intends significantly to change or extend its activities from those in respect of which a European licence was granted to it, the railway undertaking shall submit its European licence to the Department for review.
 
-(14) When the Department amends, suspends or revokes a European licence it shall forthwith inform the the Office of Rail and Road[^key-134a569f3a2308e2f42dd833fe51a2e3] of such an amendment, suspension or revocation.
+(14) When the Department amends, suspends or revokes a European licence it shall forthwith inform the the Office of Rail and Road[^c-134a569f3a2308e2f42dd833fe51a2e3] of such an amendment, suspension or revocation.
 
 ### 47. Review
 
@@ -1478,7 +1478,7 @@ he may make an application to the court under this section.
 
 (4) No proceedings shall be instituted in Northern Ireland in respect of an offence under this regulation except by or on behalf of the Department.
 
-(5) In this regulation and in regulations 49 and 50, the expression “**European licence**” includes a licence granted pursuant to any action taken by an EEA State for the purpose of implementing the 1995 Directive [^c22818861] or the Directive and a licence granted by the Office of Rail and Road pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005[^key-3dedb9305d9adf93926aed7c8b5adddd].
+(5) In this regulation and in regulations 49 and 50, the expression “**European licence**” includes a licence granted pursuant to any action taken by an EEA State for the purpose of implementing the 1995 Directive [^c22818861] or the Directive and a licence granted by the Office of Rail and Road pursuant to the Railway (Licensing of Railway Undertakings) Regulations 2005[^c-3dedb9305d9adf93926aed7c8b5adddd].
 
 ### 49. Statements of national regulatory provisions (“SNRPs”)
 
@@ -1506,12 +1506,12 @@ he may make an application to the court under this section.
 
 (4) A condition may not—
 
-- (a)[^key-33f572fdde9492a980aa9c1f8fbedfbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-33f572fdde9492a980aa9c1f8fbedfbb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) be applied in a discriminatory manner.
 
 (5) Any sums received by the Department in consequence of the provisions of any condition of a SNRP shall be paid into the Consolidated Fund.
 
-### 51. Referral for Commission's opinion[^key-dd5142258a80f7a30fbffd4f9327baf1]
+### 51. Referral for Commission's opinion[^c-dd5142258a80f7a30fbffd4f9327baf1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1532,7 +1532,7 @@ and shall, before making the modifications, consider any representations or obje
 - (a) by publishing the notice in such manner as the Department considers appropriate for the purpose of bringing the notice to the attention of persons likely to be affected by the making of the modifications; and
 - (b) by serving a copy of the notice on the SNRP holder.
 
-### 52A. Monitoring, suspension and revocation of SNRPs issued to holders of European licences”[^key-99483fe3b64d67445dd787e8b9996299]
+### 52A. Monitoring, suspension and revocation of SNRPs issued to holders of European licences”[^c-99483fe3b64d67445dd787e8b9996299]
 
 (1) This regulation applies where the Department has issued a SNRP under regulation 49 to the holder of a licence granted pursuant to any action taken by an EEA State for the purpose of implementing the Directive or the 1995 Directive.
 
@@ -1711,7 +1711,7 @@ the infrastructure manager may set or continue to set higher charges on the basi
 
 ### 6. Discounts
 
-(1) [^key-290e7afb7c44d71cc621b83efbe98cf5]... Notwithstanding paragraph 1(5) of this schedule, any discount on the charges levied on a user of railway infrastructure by the infrastructure manager, for any service, must comply with the principles set out in this paragraph.
+(1) [^c-290e7afb7c44d71cc621b83efbe98cf5]... Notwithstanding paragraph 1(5) of this schedule, any discount on the charges levied on a user of railway infrastructure by the infrastructure manager, for any service, must comply with the principles set out in this paragraph.
 
 (2) Except where subparagraph (3) applies, discounts must be limited to the actual saving of the administrative cost to the infrastructure manager and, in determining the level of discount to be applied, no account may be taken of cost savings already incorporated in the charge levied.
 
@@ -1795,13 +1795,13 @@ the infrastructure manager may set or continue to set higher charges on the basi
 
 (6) The calculation of payments must take into account the average delay of train services of similar punctuality requirements.
 
-## SCHEDULE 3 — Timetable for the Allocation Process[^key-812d140da5115fa0da8c140964007bbd]
+## SCHEDULE 3 — Timetable for the Allocation Process[^c-812d140da5115fa0da8c140964007bbd]
 
 Regulations 19 and 22
 
 The Schedule for the Allocation Process set out in Annex 7 to the Directive (the text of which was replaced by the text annexed to Commission delegated Decision (EU) 2017 replacing Annex 7 to [Directive 2012/34/EU](https://www.legislation.gov.uk/eudr/2012/0034) of the European Parliament and of the council establishing a single European railway area applies for the purpose of this Schedule.
 
-## SCHEDULE 3A — BASIC PRINCIPLES AND PARAMETERS OF CONTRACTUAL AGREEMENTS BETWEEN COMPETENT AUTHORITIES AND INFRASTRUCTURE MANAGERS[^key-2796ccfde0c3d50cff2a86b5c4983935]
+## SCHEDULE 3A — BASIC PRINCIPLES AND PARAMETERS OF CONTRACTUAL AGREEMENTS BETWEEN COMPETENT AUTHORITIES AND INFRASTRUCTURE MANAGERS[^c-2796ccfde0c3d50cff2a86b5c4983935]
 
 Regulation 15(2)
 
@@ -1949,37 +1949,37 @@ Schedule 5 stipulates the accounting information required by the Office of Rail 
 
 [^c22818601]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-7f64a2ee3ba1e783e93bd426be281b32]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7f64a2ee3ba1e783e93bd426be281b32]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22818611]: Marginal citation: L.315, 3.12.2007
 
-[^key-96aa6aa980769e5036a38746a5b45716]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96aa6aa980769e5036a38746a5b45716]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(c)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2212c4820b51973e4012f0434620ac5d]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/a)
+[^c-2212c4820b51973e4012f0434620ac5d]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/a)
 
-[^key-fc1c0bebe611fa6217dd1b418ae81e1b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fc1c0bebe611fa6217dd1b418ae81e1b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c19975ebd0188ff1a456cbc7af6fde54]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(c)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/c)
+[^c-c19975ebd0188ff1a456cbc7af6fde54]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(c)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/c)
 
-[^key-d7a9a751d4aa95e00ce58e4b166100cf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d7a9a751d4aa95e00ce58e4b166100cf]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(d)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dd863cf86295045e6a69123e15d2b8f4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(e)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd863cf86295045e6a69123e15d2b8f4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(e)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-636b0f4401d4bd24345e43d790588150]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(f)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-636b0f4401d4bd24345e43d790588150]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(f)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/f); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f7ffb1174f70eca747a6bbca83efd95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(g)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f7ffb1174f70eca747a6bbca83efd95]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(g)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/g); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1cc49bccd874529dc7e4bd4b96350dda]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(d)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/d)
+[^c-1cc49bccd874529dc7e4bd4b96350dda]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(d)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/d)
 
-[^key-7c846be2263af5456adcf819b8319007]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(h)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c846be2263af5456adcf819b8319007]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(h)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22818631]: Marginal citation: [2003 c.20](https://www.legislation.gov.uk/ukpga/2003/20)
 
-[^key-9040e97f4857ddc248c75cf17a8d4a0e]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(e)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/e)
+[^c-9040e97f4857ddc248c75cf17a8d4a0e]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(e)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/e)
 
-[^key-1f18409d6dd6d03622d7783319bb02db]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(i)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1f18409d6dd6d03622d7783319bb02db]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(i)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f236dcc0519d800d94a84d09c5c6c19d]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(f)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/f)
+[^c-f236dcc0519d800d94a84d09c5c6c19d]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(f)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/f)
 
 [^c22818641]: Marginal citation: L.315, 3.12.2007
 
@@ -1989,201 +1989,201 @@ Schedule 5 stipulates the accounting information required by the Office of Rail 
 
 [^c22818671]: Marginal citation: L276, 20.10.10
 
-[^key-a782289e7421e29fc070badcf1252b4d]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(g)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/g)
+[^c-a782289e7421e29fc070badcf1252b4d]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(g)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/g)
 
-[^key-08642d1bfdfba85ebac2d1324bc4fc6b]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(h)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/h)
+[^c-08642d1bfdfba85ebac2d1324bc4fc6b]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(h)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/h)
 
 [^c22818681]: Marginal citation: O.J. no. C326, 26.10.2012, p.47
 
-[^key-824bbd359bf699bc5496119421b61f27]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(j)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-824bbd359bf699bc5496119421b61f27]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/2/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [3(2)(j)](https://www.legislation.gov.uk/uksi/2019/826/regulation/3/2/j); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee9633e92d8f3f5908753d9fd424a074]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(i)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/i)
+[^c-ee9633e92d8f3f5908753d9fd424a074]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(i)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/i)
 
-[^key-e3881b8cc074d21298bf5e5b9ddb63d2]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(j)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/j)
+[^c-e3881b8cc074d21298bf5e5b9ddb63d2]: Textual amendment: Words in reg. 2 inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [3(j)](https://www.legislation.gov.uk/nisr/2019/15/regulation/3/j)
 
 [^c22818691]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-431615ae8c3c9cd3c5906f1954df124f]: Textual amendment: Words in [reg. 3(2)(ii)](https://www.legislation.gov.uk/nisr/2016/420/regulation/3/2/ii) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/826/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-431615ae8c3c9cd3c5906f1954df124f]: Textual amendment: Words in [reg. 3(2)(ii)](https://www.legislation.gov.uk/nisr/2016/420/regulation/3/2/ii) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2019/826/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-656e4169eefec61aea6035e1a8105d4d]: Textual amendment: Words in reg. 3(6) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/4/1/a)
+[^c-656e4169eefec61aea6035e1a8105d4d]: Textual amendment: Words in reg. 3(6) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [4(1)(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/4/1/a)
 
-[^key-a60d64840154d6db1a57ca1b0d775297]: Textual amendment: Reg. 3(7A)-(7D) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2019/15/regulation/4/1/b)
+[^c-a60d64840154d6db1a57ca1b0d775297]: Textual amendment: Reg. 3(7A)-(7D) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [4(1)(b)](https://www.legislation.gov.uk/nisr/2019/15/regulation/4/1/b)
 
-[^key-a0fb37599fb4139a159d1a27e1037974]: Textual amendment: Word in reg. 4(1) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/a)
+[^c-a0fb37599fb4139a159d1a27e1037974]: Textual amendment: Word in reg. 4(1) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/a)
 
-[^key-943cfe0d48b173737f5d5ec507920c9d]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/420/regulation/4/2) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2019/826/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-943cfe0d48b173737f5d5ec507920c9d]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/420/regulation/4/2) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2019/826/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d263d6c5adf18a4f8f26490bb0927838]: Textual amendment: Words in reg. 4(5) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(b)(i)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/b/i)
+[^c-d263d6c5adf18a4f8f26490bb0927838]: Textual amendment: Words in reg. 4(5) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(b)(i)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/b/i)
 
-[^key-e9422d42d1bfb2a3dc38c8308adbbe63]: Textual amendment: Words in reg. 4(5) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(b)(ii)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/b/ii)
+[^c-e9422d42d1bfb2a3dc38c8308adbbe63]: Textual amendment: Words in reg. 4(5) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(b)(ii)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/b/ii)
 
-[^key-965700ab37b6d563748c86c4c3389006]: Textual amendment: Words in reg. 4(5) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(b)(iii)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/b/iii)
+[^c-965700ab37b6d563748c86c4c3389006]: Textual amendment: Words in reg. 4(5) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(b)(iii)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/b/iii)
 
-[^key-4d6001fe488272c688d16c95fdffcf98]: Textual amendment: Reg. 4(6) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(c)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/c)
+[^c-4d6001fe488272c688d16c95fdffcf98]: Textual amendment: Reg. 4(6) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(c)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/c)
 
-[^key-609e1c2a430d6408dae46846bcfb50ce]: Textual amendment: Reg. 4(7) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(d)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/d)
+[^c-609e1c2a430d6408dae46846bcfb50ce]: Textual amendment: Reg. 4(7) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(d)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/d)
 
-[^key-255ce8e9d31c74776dd001cb06bd3105]: Textual amendment: Reg. 4(8) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(e)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/e)
+[^c-255ce8e9d31c74776dd001cb06bd3105]: Textual amendment: Reg. 4(8) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(e)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/e)
 
-[^key-e2a52953072edc4df13df800b225a9e4]: Textual amendment: Words in reg. 4(10) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(f)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/f)
+[^c-e2a52953072edc4df13df800b225a9e4]: Textual amendment: Words in reg. 4(10) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [5(f)](https://www.legislation.gov.uk/nisr/2019/15/regulation/5/f)
 
-[^key-560a3ebee1bd112c9067693ac4433e6b]: Textual amendment: [Reg. 5(13)](https://www.legislation.gov.uk/nisr/2016/420/regulation/5/13) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/826/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-560a3ebee1bd112c9067693ac4433e6b]: Textual amendment: [Reg. 5(13)](https://www.legislation.gov.uk/nisr/2016/420/regulation/5/13) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2019/826/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-87bffe524958c128b42f0e03b8e57a80]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/6/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-87bffe524958c128b42f0e03b8e57a80]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/6/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab58574b7e8b776f65ff313d0b99ed87]: Textual amendment: Word in [reg. 6(4)](https://www.legislation.gov.uk/nisr/2016/420/regulation/6/4) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab58574b7e8b776f65ff313d0b99ed87]: Textual amendment: Word in [reg. 6(4)](https://www.legislation.gov.uk/nisr/2016/420/regulation/6/4) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f39c966a4e148fde14a008c8d6f1b46b]: Textual amendment: Words in [reg. 6(8)](https://www.legislation.gov.uk/nisr/2016/420/regulation/6/8) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f39c966a4e148fde14a008c8d6f1b46b]: Textual amendment: Words in [reg. 6(8)](https://www.legislation.gov.uk/nisr/2016/420/regulation/6/8) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5b405cd16d75a6542bb3cd39797856f3]: Textual amendment: [Reg. 7(2)-(4)](https://www.legislation.gov.uk/nisr/2016/420/regulation/7/2) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2019/826/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5b405cd16d75a6542bb3cd39797856f3]: Textual amendment: [Reg. 7(2)-(4)](https://www.legislation.gov.uk/nisr/2016/420/regulation/7/2) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2019/826/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-57273b3a6244f1087f211a4080992523]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/8/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/826/regulation/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57273b3a6244f1087f211a4080992523]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/8/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [9(2)(a)](https://www.legislation.gov.uk/uksi/2019/826/regulation/9/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e48ca672729119e8e19b641fd998e92]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/8/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e48ca672729119e8e19b641fd998e92]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/8/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [9(2)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/9/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5bc5c2aefc121be41aabf39ab0aef1c0]: Textual amendment: Regs. 8A-8C inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2019/15/regulation/6)
+[^c-5bc5c2aefc121be41aabf39ab0aef1c0]: Textual amendment: Regs. 8A-8C inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2019/15/regulation/6)
 
-[^key-f91c660afdb913466ed7d700ae6cbcd6]: Textual amendment: Reg. 9(4) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2019/15/regulation/7)
+[^c-f91c660afdb913466ed7d700ae6cbcd6]: Textual amendment: Reg. 9(4) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2019/15/regulation/7)
 
-[^key-5e20d152031e1239596d17dd5e14f911]: Textual amendment: Reg. 9A inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2019/15/regulation/8)
+[^c-5e20d152031e1239596d17dd5e14f911]: Textual amendment: Reg. 9A inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [8](https://www.legislation.gov.uk/nisr/2019/15/regulation/8)
 
-[^key-bf6eb27cecca2ea89d12ab90c0835465]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/nisr/2016/420/regulation/11/1/b) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/826/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bf6eb27cecca2ea89d12ab90c0835465]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/nisr/2016/420/regulation/11/1/b) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/826/regulation/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22818701]: Marginal citation: S.R. [2010 No. 132](https://www.legislation.gov.uk/ukcm/2010/132)
 
 [^c22818711]: Marginal citation: S.R. [2006 No. 237](https://www.legislation.gov.uk/ukcm/2006/237)
 
-[^key-34fd3118eab0307a7fd89512b5b0075b]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/nisr/2016/420/regulation/13/5) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-34fd3118eab0307a7fd89512b5b0075b]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/nisr/2016/420/regulation/13/5) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/11/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c0e69172b6e4b68b1286173d34564937]: Textual amendment: Words in [reg. 13(12)](https://www.legislation.gov.uk/nisr/2016/420/regulation/13/12) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c0e69172b6e4b68b1286173d34564937]: Textual amendment: Words in [reg. 13(12)](https://www.legislation.gov.uk/nisr/2016/420/regulation/13/12) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [11(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/11/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-661eaee401cf05b0c5d35a6ed02cc645]: Textual amendment: [Regs. 13A-13B](https://www.legislation.gov.uk/nisr/2016/420/regulation/13A) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2019/15/regulation/9)
+[^c-661eaee401cf05b0c5d35a6ed02cc645]: Textual amendment: [Regs. 13A-13B](https://www.legislation.gov.uk/nisr/2016/420/regulation/13A) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [9](https://www.legislation.gov.uk/nisr/2019/15/regulation/9)
 
-[^key-0fe56d80ea286c172108bd47b0268c0c]: Textual amendment: [Reg. 13B](https://www.legislation.gov.uk/nisr/2016/420/regulation/13B) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2019/826/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0fe56d80ea286c172108bd47b0268c0c]: Textual amendment: [Reg. 13B](https://www.legislation.gov.uk/nisr/2016/420/regulation/13B) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2019/826/regulation/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c2277c8dbc44a236ac0d02423c33c5f6]: Textual amendment: [Reg. 14(6A)](https://www.legislation.gov.uk/nisr/2016/420/regulation/14/6A) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [10(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/10/1)
+[^c-c2277c8dbc44a236ac0d02423c33c5f6]: Textual amendment: [Reg. 14(6A)](https://www.legislation.gov.uk/nisr/2016/420/regulation/14/6A) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [10(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/10/1)
 
-[^key-8cb8be29af96902846f76fbee86de75a]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/nisr/2016/420/regulation/15/2) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2019/826/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8cb8be29af96902846f76fbee86de75a]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/nisr/2016/420/regulation/15/2) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [13](https://www.legislation.gov.uk/uksi/2019/826/regulation/13); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-07a6da863f40633d2a3da80678649e4c]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/17/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2019/826/regulation/14/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-07a6da863f40633d2a3da80678649e4c]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/17/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [14(2)(a)](https://www.legislation.gov.uk/uksi/2019/826/regulation/14/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74fab1a935316b3f73339e11e33b3d65]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/17/1) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/14/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74fab1a935316b3f73339e11e33b3d65]: Textual amendment: Words in [reg. 17(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/17/1) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [14(2)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/14/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-75c5e010066eae09b55a67aac7abfb21]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/nisr/2016/420/regulation/17/2) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-75c5e010066eae09b55a67aac7abfb21]: Textual amendment: Words in [reg. 17(2)](https://www.legislation.gov.uk/nisr/2016/420/regulation/17/2) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [14(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/14/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3968dd5653540b6dc0cb8e4bcac61d06]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/nisr/2016/420/regulation/17/3) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [14(4)(a)](https://www.legislation.gov.uk/uksi/2019/826/regulation/14/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3968dd5653540b6dc0cb8e4bcac61d06]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/nisr/2016/420/regulation/17/3) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [14(4)(a)](https://www.legislation.gov.uk/uksi/2019/826/regulation/14/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-714eb45cd8abe5be52783e5e69a83cb6]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/nisr/2016/420/regulation/17/3) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [14(4)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/14/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-714eb45cd8abe5be52783e5e69a83cb6]: Textual amendment: Words in [reg. 17(3)](https://www.legislation.gov.uk/nisr/2016/420/regulation/17/3) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [14(4)(b)](https://www.legislation.gov.uk/uksi/2019/826/regulation/14/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-28949a7cd24e9806af67077310f7d985]: Textual amendment: Reg. 19(3A) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [10(2)](https://www.legislation.gov.uk/nisr/2019/15/regulation/10/2)
+[^c-28949a7cd24e9806af67077310f7d985]: Textual amendment: Reg. 19(3A) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [10(2)](https://www.legislation.gov.uk/nisr/2019/15/regulation/10/2)
 
-[^key-58cb067fc443391997cfb212d5aa609c]: Textual amendment: Word in reg. 19(14) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [11(a)(i)](https://www.legislation.gov.uk/nisr/2019/15/regulation/11/a/i)
+[^c-58cb067fc443391997cfb212d5aa609c]: Textual amendment: Word in reg. 19(14) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [11(a)(i)](https://www.legislation.gov.uk/nisr/2019/15/regulation/11/a/i)
 
-[^key-883627a26524e73359814e821f6e7228]: Textual amendment: Words in reg. 19(14) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [11(a)(ii)](https://www.legislation.gov.uk/nisr/2019/15/regulation/11/a/ii)
+[^c-883627a26524e73359814e821f6e7228]: Textual amendment: Words in reg. 19(14) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [11(a)(ii)](https://www.legislation.gov.uk/nisr/2019/15/regulation/11/a/ii)
 
-[^key-3a94925f067c0754c1564fd1bbf870eb]: Textual amendment: Words in reg. 19(15) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [11(b)(i)](https://www.legislation.gov.uk/nisr/2019/15/regulation/11/b/i)
+[^c-3a94925f067c0754c1564fd1bbf870eb]: Textual amendment: Words in reg. 19(15) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [11(b)(i)](https://www.legislation.gov.uk/nisr/2019/15/regulation/11/b/i)
 
-[^key-b26fddc42c8a6dce4284054aab78e0a2]: Textual amendment: Words in reg. 19(15) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [11(b)(i)](https://www.legislation.gov.uk/nisr/2019/15/regulation/11/b/i)
+[^c-b26fddc42c8a6dce4284054aab78e0a2]: Textual amendment: Words in reg. 19(15) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [11(b)(i)](https://www.legislation.gov.uk/nisr/2019/15/regulation/11/b/i)
 
-[^key-283f6326271dfd992c13af0b8be8ab3e]: Textual amendment: Word in reg. 19(15)(c) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [11(b)(ii)](https://www.legislation.gov.uk/nisr/2019/15/regulation/11/b/ii)
+[^c-283f6326271dfd992c13af0b8be8ab3e]: Textual amendment: Word in reg. 19(15)(c) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [11(b)(ii)](https://www.legislation.gov.uk/nisr/2019/15/regulation/11/b/ii)
 
-[^key-c6760325627844dfc5ac5b0f28fd25ea]: Textual amendment: Words in reg. 19(15)(c) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [11(b)(ii)](https://www.legislation.gov.uk/nisr/2019/15/regulation/11/b/ii)
+[^c-c6760325627844dfc5ac5b0f28fd25ea]: Textual amendment: Words in reg. 19(15)(c) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [11(b)(ii)](https://www.legislation.gov.uk/nisr/2019/15/regulation/11/b/ii)
 
 [^c22818731]: Marginal citation: O.J. No. L3, 7.1.15, p.34
 
 [^c22818741]: Marginal citation: O.J. No. L237/11, 12.8.14
 
-[^key-f8aa62a8af34ffbec9160ff4709c1110]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/20/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f8aa62a8af34ffbec9160ff4709c1110]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/20/1) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/15/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de4dd14be6d775754be19ddd890aef17]: Textual amendment: [Reg. 20(2A)](https://www.legislation.gov.uk/nisr/2016/420/regulation/20/2A) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/15/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de4dd14be6d775754be19ddd890aef17]: Textual amendment: [Reg. 20(2A)](https://www.legislation.gov.uk/nisr/2016/420/regulation/20/2A) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [15(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/15/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b626e6f1edb46fb76d16fba1edaba1b8]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/nisr/2016/420/regulation/20/5) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [15(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/15/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b626e6f1edb46fb76d16fba1edaba1b8]: Textual amendment: Words in [reg. 20(5)](https://www.legislation.gov.uk/nisr/2016/420/regulation/20/5) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [15(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/15/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-08d9e1d459bb17a48fb16221b0a4115b]: Textual amendment: [Reg. 20(6)](https://www.legislation.gov.uk/nisr/2016/420/regulation/20/6) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2019/826/regulation/15/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-08d9e1d459bb17a48fb16221b0a4115b]: Textual amendment: [Reg. 20(6)](https://www.legislation.gov.uk/nisr/2016/420/regulation/20/6) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2019/826/regulation/15/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-456041d54b5bd51cd54f8681791f89f2]: Textual amendment: [Reg. 20(11)](https://www.legislation.gov.uk/nisr/2016/420/regulation/20/11) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [15(6)](https://www.legislation.gov.uk/uksi/2019/826/regulation/15/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-456041d54b5bd51cd54f8681791f89f2]: Textual amendment: [Reg. 20(11)](https://www.legislation.gov.uk/nisr/2016/420/regulation/20/11) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [15(6)](https://www.legislation.gov.uk/uksi/2019/826/regulation/15/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9fdcb9b9478c3041393f5295c54efcae]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/21/1) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2019/826/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fdcb9b9478c3041393f5295c54efcae]: Textual amendment: Words in [reg. 21(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/21/1) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [16](https://www.legislation.gov.uk/uksi/2019/826/regulation/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3bd01fad0649880ed2c2a5cbdd03873a]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2016/420/regulation/25/2) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2019/826/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3bd01fad0649880ed2c2a5cbdd03873a]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/nisr/2016/420/regulation/25/2) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2019/826/regulation/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9c44e472276f18f04a0b3fc54ff6631b]: Textual amendment: [Reg. 30(2A)](https://www.legislation.gov.uk/nisr/2016/420/regulation/30/2A) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2019/15/regulation/12)
+[^c-9c44e472276f18f04a0b3fc54ff6631b]: Textual amendment: [Reg. 30(2A)](https://www.legislation.gov.uk/nisr/2016/420/regulation/30/2A) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2019/15/regulation/12)
 
 [^c22818751]: Marginal citation: Rules of the Court of Judicature under para 3.3 of Schedule 11 to the Constitutional Reform Act 2005
 
-[^key-e025ffe97b3cd33fdeff06bd63b688d5]: Textual amendment: Word in reg. 32(2)(f) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [13(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/13/a)
+[^c-e025ffe97b3cd33fdeff06bd63b688d5]: Textual amendment: Word in reg. 32(2)(f) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [13(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/13/a)
 
-[^key-00771d019c844c5ce6ab7bd2c66ff236]: Textual amendment: Reg. 32(2)(g) full stop replaced by semicolon (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [13(b)](https://www.legislation.gov.uk/nisr/2019/15/regulation/13/b)
+[^c-00771d019c844c5ce6ab7bd2c66ff236]: Textual amendment: Reg. 32(2)(g) full stop replaced by semicolon (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [13(b)](https://www.legislation.gov.uk/nisr/2019/15/regulation/13/b)
 
-[^key-eb00834c46ff1af6602c6706e422a885]: Textual amendment: Reg. 32(2)(h)-(j) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [13(c)](https://www.legislation.gov.uk/nisr/2019/15/regulation/13/c)
+[^c-eb00834c46ff1af6602c6706e422a885]: Textual amendment: Reg. 32(2)(h)-(j) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [13(c)](https://www.legislation.gov.uk/nisr/2019/15/regulation/13/c)
 
 [^c22818761]: Marginal citation: The Rules of the Supreme Court were renamed the Rules of the Court of Judicature under para 3(3) of Schedule 11 to the Constitutional Reform Act 2005.
 
-[^key-fcbb66f9b9e92fd026b31d774080c069]: Textual amendment: Word in [reg. 33](https://www.legislation.gov.uk/nisr/2016/420/regulation/33) heading omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/1)
+[^c-fcbb66f9b9e92fd026b31d774080c069]: Textual amendment: Word in [reg. 33](https://www.legislation.gov.uk/nisr/2016/420/regulation/33) heading omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/1)
 
-[^key-47f746def799aa2f8a0afd2c1024ebe6]: Textual amendment: [Reg. 33(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/1) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/a)
+[^c-47f746def799aa2f8a0afd2c1024ebe6]: Textual amendment: [Reg. 33(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/1) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/a)
 
-[^key-182893ff6e45563b9055fca2d49a04f1]: Textual amendment: [Reg. 33(2)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/2) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/a)
+[^c-182893ff6e45563b9055fca2d49a04f1]: Textual amendment: [Reg. 33(2)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/2) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/a)
 
-[^key-8094839444a1af5df0156f10b739b64e]: Textual amendment: Words in [reg. 33(3)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/3) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(b)(i)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/b/i)
+[^c-8094839444a1af5df0156f10b739b64e]: Textual amendment: Words in [reg. 33(3)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/3) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(b)(i)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/b/i)
 
-[^key-af43a9a866ac8bedcf04d994de0b9844]: Textual amendment: Words in [reg. 33(3)(a)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/3/a) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/b/ii)
+[^c-af43a9a866ac8bedcf04d994de0b9844]: Textual amendment: Words in [reg. 33(3)(a)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/3/a) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/b/ii)
 
-[^key-3310b7f7313dc287535e1eb113666b20]: Textual amendment: Word in [reg. 33(4)(b)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/4/b) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(c)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/c)
+[^c-3310b7f7313dc287535e1eb113666b20]: Textual amendment: Word in [reg. 33(4)(b)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/4/b) omitted (15.3.2019) by virtue of [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(c)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/c)
 
-[^key-66400325cb08c48e908d3bc20c073284]: Textual amendment: [Reg. 33(6)(d)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/6/d) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(d)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/d)
+[^c-66400325cb08c48e908d3bc20c073284]: Textual amendment: [Reg. 33(6)(d)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/6/d) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(d)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/d)
 
-[^key-bd51f283ae02b4fea5e82a00d8b36802]: Textual amendment: [Reg. 33(6A)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/6A) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(e)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/e)
+[^c-bd51f283ae02b4fea5e82a00d8b36802]: Textual amendment: [Reg. 33(6A)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/6A) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(e)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/e)
 
-[^key-fde5352288ae39d5f619ab7fd7984085]: Textual amendment: Words in [reg. 33(7)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/7) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(f)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/f)
+[^c-fde5352288ae39d5f619ab7fd7984085]: Textual amendment: Words in [reg. 33(7)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/7) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(f)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/f)
 
-[^key-55104064ce115218b4085a6460efeff4]: Textual amendment: Words in [reg. 33(8)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/8) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(f)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/f)
+[^c-55104064ce115218b4085a6460efeff4]: Textual amendment: Words in [reg. 33(8)](https://www.legislation.gov.uk/nisr/2016/420/regulation/33/8) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [14(2)(f)](https://www.legislation.gov.uk/nisr/2019/15/regulation/14/2/f)
 
 [^c22818781]: Marginal citation: The Rules of the Supreme Court were renamed the Rules of the Court of Judicature under para 3(3) of Schedule 11 to the Constitutional Reform Act 2005
 
 [^c22818791]: Marginal citation: O.J. No. L239, 12.8.2014, p.1-10
 
-[^key-58acfc713dbeb772aae40183c4ba5a76]: Textual amendment: Words in reg. 34(1) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [15(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/15/a)
+[^c-58acfc713dbeb772aae40183c4ba5a76]: Textual amendment: Words in reg. 34(1) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [15(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/15/a)
 
-[^key-e1dd6a41501b3f52b3c8196afb527c8d]: Textual amendment: Words in reg. 34(2)(a) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [15(b)](https://www.legislation.gov.uk/nisr/2019/15/regulation/15/b)
+[^c-e1dd6a41501b3f52b3c8196afb527c8d]: Textual amendment: Words in reg. 34(2)(a) substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [15(b)](https://www.legislation.gov.uk/nisr/2019/15/regulation/15/b)
 
-[^key-b077ad0a5638c6e48c19b9594a8b9373]: Textual amendment: [Reg. 34(6)](https://www.legislation.gov.uk/nisr/2016/420/regulation/34/6) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/826/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b077ad0a5638c6e48c19b9594a8b9373]: Textual amendment: [Reg. 34(6)](https://www.legislation.gov.uk/nisr/2016/420/regulation/34/6) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/826/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-693aa0e0bc6e4b36242325b518e06df1]: Textual amendment: [Reg. 34(7)](https://www.legislation.gov.uk/nisr/2016/420/regulation/34/7) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/826/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-693aa0e0bc6e4b36242325b518e06df1]: Textual amendment: [Reg. 34(7)](https://www.legislation.gov.uk/nisr/2016/420/regulation/34/7) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2019/826/regulation/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1d2e0dc32a5cd89632bca320a45b9cd1]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/35/1) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [16(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/16/a)
+[^c-1d2e0dc32a5cd89632bca320a45b9cd1]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2016/420/regulation/35/1) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [16(a)](https://www.legislation.gov.uk/nisr/2019/15/regulation/16/a)
 
-[^key-9c8c9317b2012d44dd03f9dc0f939a5b]: Textual amendment: [Reg. 35(3A)](https://www.legislation.gov.uk/nisr/2016/420/regulation/35/3A) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [16(b)](https://www.legislation.gov.uk/nisr/2019/15/regulation/16/b)
+[^c-9c8c9317b2012d44dd03f9dc0f939a5b]: Textual amendment: [Reg. 35(3A)](https://www.legislation.gov.uk/nisr/2016/420/regulation/35/3A) inserted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [16(b)](https://www.legislation.gov.uk/nisr/2019/15/regulation/16/b)
 
 [^c22818811]: Marginal citation: O.J. No. L164, 30.04.2004, p.44-133
 
-[^key-c473e76cb6e36a91335023306300b1ef]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/nisr/2016/420/regulation/37) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2019/826/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c473e76cb6e36a91335023306300b1ef]: Textual amendment: [Reg. 37](https://www.legislation.gov.uk/nisr/2016/420/regulation/37) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [19](https://www.legislation.gov.uk/uksi/2019/826/regulation/19); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22818821]: Marginal citation: The Rules of the Supreme Court were renamed the Rules of the Court of Judicature under para 3(3) of Schedule 11 to the Constitutional Reform Act 2005
 
 [^c22818831]: Marginal citation: O.J. No. L143, 27.6.1995. p70-74.
 
-[^key-0ac66c86da68b38ece5d80d191a3f87b]: Textual amendment: Words in [reg. 43(4)](https://www.legislation.gov.uk/nisr/2016/420/regulation/43/4) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2019/826/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0ac66c86da68b38ece5d80d191a3f87b]: Textual amendment: Words in [reg. 43(4)](https://www.legislation.gov.uk/nisr/2016/420/regulation/43/4) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [20](https://www.legislation.gov.uk/uksi/2019/826/regulation/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e70c99f6260c08c3a562a11fb1f9a1b]: Textual amendment: [Reg. 44(2)](https://www.legislation.gov.uk/nisr/2016/420/regulation/44/2) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8e70c99f6260c08c3a562a11fb1f9a1b]: Textual amendment: [Reg. 44(2)](https://www.legislation.gov.uk/nisr/2016/420/regulation/44/2) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/21/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-524df8d9a91722303b4e1ad5edf54263]: Textual amendment: Words in [reg. 44(3)](https://www.legislation.gov.uk/nisr/2016/420/regulation/44/3) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/21/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-524df8d9a91722303b4e1ad5edf54263]: Textual amendment: Words in [reg. 44(3)](https://www.legislation.gov.uk/nisr/2016/420/regulation/44/3) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/21/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6cd8886202d87d22e1016a15f19b8c46]: Textual amendment: [Reg. 44(14)](https://www.legislation.gov.uk/nisr/2016/420/regulation/44/14) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/21/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6cd8886202d87d22e1016a15f19b8c46]: Textual amendment: [Reg. 44(14)](https://www.legislation.gov.uk/nisr/2016/420/regulation/44/14) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2019/826/regulation/21/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7067b4fba65556626f3662b04ee59aef]: Textual amendment: [Reg. 46(5)](https://www.legislation.gov.uk/nisr/2016/420/regulation/46/5) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7067b4fba65556626f3662b04ee59aef]: Textual amendment: [Reg. 46(5)](https://www.legislation.gov.uk/nisr/2016/420/regulation/46/5) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [22(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/22/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-134a569f3a2308e2f42dd833fe51a2e3]: Textual amendment: Words in [reg. 46(14)](https://www.legislation.gov.uk/nisr/2016/420/regulation/46/14) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-134a569f3a2308e2f42dd833fe51a2e3]: Textual amendment: Words in [reg. 46(14)](https://www.legislation.gov.uk/nisr/2016/420/regulation/46/14) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [22(3)](https://www.legislation.gov.uk/uksi/2019/826/regulation/22/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22818861]: Marginal citation: O.J. No. L143, 27.6.1995, p.70-74
 
-[^key-3dedb9305d9adf93926aed7c8b5adddd]: Textual amendment: Words in reg. 48(5) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2019/826/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3dedb9305d9adf93926aed7c8b5adddd]: Textual amendment: Words in reg. 48(5) substituted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2019/826/regulation/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-33f572fdde9492a980aa9c1f8fbedfbb]: Textual amendment: Reg. 50(4)(a) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2019/826/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33f572fdde9492a980aa9c1f8fbedfbb]: Textual amendment: Reg. 50(4)(a) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2019/826/regulation/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-dd5142258a80f7a30fbffd4f9327baf1]: Textual amendment: Reg. 51 omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2019/826/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dd5142258a80f7a30fbffd4f9327baf1]: Textual amendment: Reg. 51 omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [25](https://www.legislation.gov.uk/uksi/2019/826/regulation/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-99483fe3b64d67445dd787e8b9996299]: Textual amendment: [Reg. 52A](https://www.legislation.gov.uk/nisr/2016/420/regulation/52A) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2019/826/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-99483fe3b64d67445dd787e8b9996299]: Textual amendment: [Reg. 52A](https://www.legislation.gov.uk/nisr/2016/420/regulation/52A) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2019/826/regulation/26); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22818881]: Marginal citation: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -2193,11 +2193,11 @@ Schedule 5 stipulates the accounting information required by the Office of Rail 
 
 [^c22818911]: Marginal citation: O.J. No. L148, 13.6.15, p.17
 
-[^key-290e7afb7c44d71cc621b83efbe98cf5]: Textual amendment: Words in Sch. 2 para. 6(1) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2019/826/regulation/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-290e7afb7c44d71cc621b83efbe98cf5]: Textual amendment: Words in Sch. 2 para. 6(1) omitted (31.12.2020) by virtue of [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2019/826/regulation/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-812d140da5115fa0da8c140964007bbd]: Textual amendment: Sch. 3 substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2019/15/schedule)
+[^c-812d140da5115fa0da8c140964007bbd]: Textual amendment: Sch. 3 substituted (15.3.2019) by [The Railways Infrastructure (Access, Management and Licensing of Railway Undertakings) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/15)](https://www.legislation.gov.uk/nisr/2019/15), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/15/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2019/15/schedule)
 
-[^key-2796ccfde0c3d50cff2a86b5c4983935]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/nisr/2016/420/schedule/3A) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/826/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2796ccfde0c3d50cff2a86b5c4983935]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/nisr/2016/420/schedule/3A) inserted (31.12.2020) by [The Railways (Amendment) (EU Exit) Regulations (Northern Ireland) 2019 (S.I. 2019/826)](https://www.legislation.gov.uk/uksi/2019/826), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/826/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/826/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22818921]: Marginal citation: [1955 c.18](https://www.legislation.gov.uk/ukpga/1955/18)
 

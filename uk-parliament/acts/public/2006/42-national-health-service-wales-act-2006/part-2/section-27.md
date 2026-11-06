@@ -22,8 +22,8 @@ summary: ''
 
 (1) In this section—
 
-- (a) “**member**” means a member of a [^key-be46ed0ba4d49890dee6bf3d6090c504]... [^key-6bb9d60e941b1629963fdcacde907947]... Special Health Authority or Local Health Board, or a member of the board of directors of an NHS trust,
-- (b) “**employee member**” means a member of a [^key-be46ed0ba4d49890dee6bf3d6090c504]... [^key-6bb9d60e941b1629963fdcacde907947]... Special Health Authority or Local Health Board who is an officer of the body, or an executive director of an NHS trust.
+- (a) “**member**” means a member of a [^c-be46ed0ba4d49890dee6bf3d6090c504]... [^c-6bb9d60e941b1629963fdcacde907947]... Special Health Authority or Local Health Board, or a member of the board of directors of an NHS trust,
+- (b) “**employee member**” means a member of a [^c-be46ed0ba4d49890dee6bf3d6090c504]... [^c-6bb9d60e941b1629963fdcacde907947]... Special Health Authority or Local Health Board who is an officer of the body, or an executive director of an NHS trust.
 
 (2) An intervention order may provide for the removal from office of—
 
@@ -64,6 +64,6 @@ and the directions may require that any contract or other arrangement made by th
 
 ## Annotations
 
-[^key-be46ed0ba4d49890dee6bf3d6090c504]: Textual amendment: Words in s. 27(1) omitted (1.2.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 20(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/20/a); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-be46ed0ba4d49890dee6bf3d6090c504]: Textual amendment: Words in s. 27(1) omitted (1.2.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 20(a)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/20/a); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
 
-[^key-6bb9d60e941b1629963fdcacde907947]: Textual amendment: Words in s. 27(1) omitted (1.2.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 20(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/20/b); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)
+[^c-6bb9d60e941b1629963fdcacde907947]: Textual amendment: Words in s. 27(1) omitted (1.2.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 21 para. 20(b)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/21/paragraph/20/b); [S.I. 2012/2657](https://www.legislation.gov.uk/uksi/2012/2657), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/2657/article/2/4)

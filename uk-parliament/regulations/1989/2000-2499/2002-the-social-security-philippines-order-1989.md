@@ -53,7 +53,7 @@ And Whereas the Convention has been ratified by the said Governments and the ins
 
 And Whereas by section 143 of the Social Security Act 1975[^c2181125] it is provided that Her Majesty may by Order in Council make provision for modifying or adapting the said Social Security Act in its application to cases affected by agreements with other Governments providing for reciprocity in matters specified in that section:
 
-Now, therefore, Her Majesty, in pursuance of the said section 143 and of all other powers enabling Her in that behalf is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^M_C_68674fc9-a7b7-4b43-a145-1557b4651c81][^key-7b4d6781b8f1fc2cb84e5b44bec457c3][^key-216e752f180df4fcb216a1f2dd9104ca][^key-6e9694b38f9c1a5b0f1ec7233e8b6d64]
+Now, therefore, Her Majesty, in pursuance of the said section 143 and of all other powers enabling Her in that behalf is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows:—[^M_C_68674fc9-a7b7-4b43-a145-1557b4651c81][^c-7b4d6781b8f1fc2cb84e5b44bec457c3][^c-216e752f180df4fcb216a1f2dd9104ca][^c-6e9694b38f9c1a5b0f1ec7233e8b6d64]
 
 ## 1. Citation and commencement
 
@@ -67,7 +67,7 @@ G. I. de Deney
 
 Clerk of the Privy Council
 
-## SCHEDULE — CONVENTION ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES[^key-eae7afe30164b4fb5ebf7ecb32bd7c9d]
+## SCHEDULE — CONVENTION ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF THE REPUBLIC OF THE PHILIPPINES[^c-eae7afe30164b4fb5ebf7ecb32bd7c9d]
 
 Article 2
 
@@ -380,13 +380,13 @@ Rules are laid down for employers who send their employees to work temporarily i
 
 [^M_C_68674fc9-a7b7-4b43-a145-1557b4651c81]: Modification: Order modified (13.4.1995) by [Social Security (Reciprocal Agreements) Order 1995 (S.I. 1995/767)](https://www.legislation.gov.uk/uksi/1995/767), [art. 2](https://www.legislation.gov.uk/uksi/1995/767/article/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/767/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/1995/767/schedule/3)
 
-[^key-7b4d6781b8f1fc2cb84e5b44bec457c3]: Modification: Order modified (9.4.2001) by [Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [arts. 1](https://www.legislation.gov.uk/uksi/2001/407/article/1), [2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+[^c-7b4d6781b8f1fc2cb84e5b44bec457c3]: Modification: Order modified (9.4.2001) by [Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [arts. 1](https://www.legislation.gov.uk/uksi/2001/407/article/1), [2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
 
-[^key-216e752f180df4fcb216a1f2dd9104ca]: Modification: [Order](https://www.legislation.gov.uk/uksi/1989/2002) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [art. 1](https://www.legislation.gov.uk/uksi/2016/158/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+[^c-216e752f180df4fcb216a1f2dd9104ca]: Modification: [Order](https://www.legislation.gov.uk/uksi/1989/2002) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [art. 1](https://www.legislation.gov.uk/uksi/2016/158/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
 
-[^key-6e9694b38f9c1a5b0f1ec7233e8b6d64]: Modification: [Order](https://www.legislation.gov.uk/uksi/1989/2002) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
+[^c-6e9694b38f9c1a5b0f1ec7233e8b6d64]: Modification: [Order](https://www.legislation.gov.uk/uksi/1989/2002) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
 
-[^key-eae7afe30164b4fb5ebf7ecb32bd7c9d]: Modification: Sch. modified (5.12.2005) by [Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+[^c-eae7afe30164b4fb5ebf7ecb32bd7c9d]: Modification: Sch. modified (5.12.2005) by [Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
 
 [^M_F_3ad2925d-55de-4927-b58e-a6066e6ac793]: Textual amendment: Words in art. 11(2) substituted (5.12.05) by [S.I. 2005/2765](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [2](https://www.legislation.gov.uk/uksi/2005/2765/article/2)
 

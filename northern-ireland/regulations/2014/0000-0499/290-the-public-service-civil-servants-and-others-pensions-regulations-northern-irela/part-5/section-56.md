@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 56. Establishment of pension credit member’s account[^key-71def8701bc03c94a25d0785a5ab36cf]
+## 56. Establishment of pension credit member’s account[^c-71def8701bc03c94a25d0785a5ab36cf]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-71def8701bc03c94a25d0785a5ab36cf]: Commencement: [Reg. 56](https://www.legislation.gov.uk/nisr/2014/290/regulation/56) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-71def8701bc03c94a25d0785a5ab36cf]: Commencement: [Reg. 56](https://www.legislation.gov.uk/nisr/2014/290/regulation/56) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00052]: Footnote: Part 4A was inserted by Article 34 of the Welfare Reform and Pensions (Northern Ireland) Order 1999 [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147)

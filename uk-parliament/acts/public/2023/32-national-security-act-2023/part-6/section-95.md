@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Power to make consequential amendments[^key-f033b2a4b17edd8efb58e6a0d870b2bc]
+## 95. Power to make consequential amendments[^c-f033b2a4b17edd8efb58e6a0d870b2bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ whenever passed or made.
 
 ## Annotations
 
-[^key-f033b2a4b17edd8efb58e6a0d870b2bc]: Commencement: S. 95 in force at Royal Assent, see [s. 100(2)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/2)
+[^c-f033b2a4b17edd8efb58e6a0d870b2bc]: Commencement: S. 95 in force at Royal Assent, see [s. 100(2)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/2)

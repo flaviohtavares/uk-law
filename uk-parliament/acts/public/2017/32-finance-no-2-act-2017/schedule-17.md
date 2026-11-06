@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 17 — Disclosure of tax avoidance schemes: VAT and other indirect taxes[^key-024dcf79f52011cb704f8bd5e2df965b]
+## SCHEDULE 17 — Disclosure of tax avoidance schemes: VAT and other indirect taxes[^c-024dcf79f52011cb704f8bd5e2df965b]
 
 *Extent: E+W+S+N.I.*
 
 Section 66
 
-### PART A1 — Introduction[^key-5f92e5b194f7de17b15c33b752021823]
+### PART A1 — Introduction[^c-5f92e5b194f7de17b15c33b752021823]
 
 **A1.** (1) This Schedule makes provision about the disclosure of information in relation to arrangements, or proposed arrangements, that enable, or might be expected to enable, a person to obtain a tax advantage in relation to VAT or another indirect tax.
 
@@ -51,18 +51,18 @@ Section 66
 - machine games duty
 - gaming duty
 - lottery duty
-- [^key-5ce66664773393c4fc63bc2cb9fc2e73]...
+- [^c-5ce66664773393c4fc63bc2cb9fc2e73]...
 - air passenger duty
 - hydrocarbon oils duty
 - tobacco products duty
 - duties on spirits, beer, wine, made-wine and cider
-- vaping products duty[^key-90c14b6bd86d1e9bf4952cfa40159d0b]
+- vaping products duty[^c-90c14b6bd86d1e9bf4952cfa40159d0b]
 - soft drinks industry levy
 - aggregates levy
 - landfill tax
 - plastic packaging tax[^M_F_cbe29179-0396-4cfd-e4e6-4f169c491fac]
 - climate change levy
-- carbon border adjustment mechanism[^key-137a6ea914aa93486817a398c0d31a0f]
+- carbon border adjustment mechanism[^c-137a6ea914aa93486817a398c0d31a0f]
 - customs duties.
 
 (2) The Treasury may by regulations amend the list in sub-paragraph (1) by adding, varying or omitting an entry for a tax.
@@ -142,16 +142,16 @@ Section 66
 (3) For the purposes of sub-paragraph (2)(b), the VAT “incurred” by a taxable person is—
 
 - (a) VAT on the supply to the person of any goods or services,
-- (b)[^key-e532ff062a335a13c287b36dd3b83301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) VAT paid or payable by the person on the importation of any goods [^key-c2ecabae47048c0c40bdc988942b7cff]....
+- (b)[^c-e532ff062a335a13c287b36dd3b83301] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) VAT paid or payable by the person on the importation of any goods [^c-c2ecabae47048c0c40bdc988942b7cff]....
 
 (4) A person who is not a taxable person obtains a tax advantage in relation to VAT if that person's non-refundable tax is less that it otherwise would be.
 
 (5) In sub-paragraph (4) “**non-refundable tax**” means—
 
 - (a) VAT on the supply to the person of any goods or services,
-- (b)[^key-c3295d5283f529fab785075567b3d622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c) VAT paid or payable by the person on the importation of any goods [^key-80431699ae4644659c462e6b9393711b]...,
+- (b)[^c-c3295d5283f529fab785075567b3d622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) VAT paid or payable by the person on the importation of any goods [^c-80431699ae4644659c462e6b9393711b]...,
 
 but excluding (in each case) any VAT in respect of which the person is entitled to a refund from the Commissioners by virtue of any provision of VATA 1994.
 
@@ -174,13 +174,13 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 (2) P is a promoter in relation to a notifiable proposal if, in the course of a relevant business, P—
 
-- (a)[^key-54ca710dd693cf3bca35412dddc20e4e] is to any extent responsible for the design of the proposed arrangements,
+- (a)[^c-54ca710dd693cf3bca35412dddc20e4e] is to any extent responsible for the design of the proposed arrangements,
 - (b) makes a firm approach to another person (C) in relation to the proposal with a view to P making the proposal available for implementation by C or any other person, or
 - (c) makes the proposal available for implementation by other persons.
 
 (3) P is a promoter in relation to notifiable arrangements if—
 
-- (a)[^key-54ca710dd693cf3bca35412dddc20e4e] P is by virtue of sub-paragraph (2)(b) or (c) a promoter in relation to a notifiable proposal which is implemented by the arrangements, or
+- (a)[^c-54ca710dd693cf3bca35412dddc20e4e] P is by virtue of sub-paragraph (2)(b) or (c) a promoter in relation to a notifiable proposal which is implemented by the arrangements, or
 - (b) if in the course of a relevant business, P is to any extent responsible for—
   - (i) the design of the arrangements, or
   - (ii) the organisation or management of the arrangements.
@@ -197,7 +197,7 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 (6) For the purposes of this paragraph anything done by a company is to be taken to be done in the course of a relevant business if it is done for the purposes of a relevant business falling within sub-paragraph (4)(b) carried on by another company which is a member of the same group.
 
-(7)[^key-9cb81534b64c7e5dd282ea6afde3152b] Section 170 of the TCGA 1992 has effect for determining for the purposes of sub-paragraph (6) whether two companies are members of the same group, but as if in that section—
+(7)[^c-9cb81534b64c7e5dd282ea6afde3152b] Section 170 of the TCGA 1992 has effect for determining for the purposes of sub-paragraph (6) whether two companies are members of the same group, but as if in that section—
 
 - (a) for each of the references to a 75 per cent subsidiary there were substituted a reference to a 51 per cent subsidiary, and
 - (b) subsection (3)(b) and subsections (6) to (8) were omitted.
@@ -216,7 +216,7 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 #### “Makes a firm approach” and “marketing contact”
 
-**10.**[^c22798381] (1) A person makes a firm approach to another person in relation to a [^key-eb9d359b0192fda185ef5c21c832be1f]... proposal if the person makes a marketing contact with the other person in relation to the proposal at a time when the proposed arrangements have been substantially designed.
+**10.**[^c22798381] (1) A person makes a firm approach to another person in relation to a [^c-eb9d359b0192fda185ef5c21c832be1f]... proposal if the person makes a marketing contact with the other person in relation to the proposal at a time when the proposed arrangements have been substantially designed.
 
 (2) A person makes a marketing contact with another person in relation to a notifiable proposal if—
 
@@ -292,7 +292,7 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 #### Duty of person dealing with promoter outside United Kingdom
 
-**17.**[^c22799431][^key-7e090b419c6ea7404b0706e278acf534] (1) This paragraph applies where a person enters into any transaction forming part of any notifiable arrangements in relation to which—
+**17.**[^c22799431][^c-7e090b419c6ea7404b0706e278acf534] (1) This paragraph applies where a person enters into any transaction forming part of any notifiable arrangements in relation to which—
 
 - (a) a promoter is resident outside the United Kingdom, and
 - (b) no promoter is resident in the United Kingdom.
@@ -360,7 +360,7 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 (6) If a person provides information in compliance with sub-paragraph (3), the duty imposed by that sub-paragraph on any other person, so far as relating to the provision of that information, is discharged.
 
-#### Notice of potential allocation of reference number: arrangements and proposals suspected of being notifiable[^key-1ca5be3b43c45b993c7e0378fedd45af]
+#### Notice of potential allocation of reference number: arrangements and proposals suspected of being notifiable[^c-1ca5be3b43c45b993c7e0378fedd45af]
 
 **21A.** (1) This paragraph applies where—
 
@@ -378,7 +378,7 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 (5) A notice under this paragraph may be issued to any other person who HMRC reasonably suspect to be involved in the supply of the arrangements or proposed arrangements.
 
-#### Allocation of reference number to arrangements[^key-f990193b39df3a45346836c3e77ac295]
+#### Allocation of reference number to arrangements[^c-f990193b39df3a45346836c3e77ac295]
 
 **22.** (1) This paragraph applies in—
 
@@ -475,11 +475,11 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 - (a) the period of 10 working days beginning with the day on which HMRC imposed the requirement, or
 - (b) such longer period as HMRC may direct.
 
-#### Duty of promoter to notify client of number : paragraph 22(2) case[^key-515b53855eb6cd04812191c0a79f40f6]
+#### Duty of promoter to notify client of number : paragraph 22(2) case[^c-515b53855eb6cd04812191c0a79f40f6]
 
 **23.**[^c22799721] (1) This paragraph applies where a person who is a promoter in relation to notifiable arrangements is providing (or has provided) services to any person (“**the client**”) in connection with the arrangements.
 
-(2) The promoter must, within 30 days after the relevant date, provide the client with prescribed information relating to any reference number allocated in a case within paragraph 22(2)[^key-343f91f190be4fce0ab97408a1f2d66f] (or, if more than one, any one such reference number[^key-91c863fc86f72e70f3084d5838898987]) that has been notified to the promoter (whether by HMRC or any other person) in relation to—
+(2) The promoter must, within 30 days after the relevant date, provide the client with prescribed information relating to any reference number allocated in a case within paragraph 22(2)[^c-343f91f190be4fce0ab97408a1f2d66f] (or, if more than one, any one such reference number[^c-91c863fc86f72e70f3084d5838898987]) that has been notified to the promoter (whether by HMRC or any other person) in relation to—
 
 - (a) the notifiable arrangements, or
 - (b) any arrangements substantially the same as the notifiable arrangements (whether involving the same or different parties).
@@ -499,7 +499,7 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 (6) HMRC may give notice that, in relation to notifiable arrangements specified in the notice, promoters are not under the duty under sub-paragraph (2) after the date specified in the notice.
 
-#### Duty to notify client of reference number: paragraph 22(3) case[^key-567a1ac10a95580292e0fa415eb18981]
+#### Duty to notify client of reference number: paragraph 22(3) case[^c-567a1ac10a95580292e0fa415eb18981]
 
 **23A.** (1) This paragraph applies where a person is providing (or has provided) services to any person (“**the client**”) in connection with arrangements or proposed arrangements.
 
@@ -514,9 +514,9 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 #### Duty of client to notify parties of number
 
-**24.**[^c22799731] (1) In this paragraph “**client**” means a person to whom a person [^key-8677153446ba5d2747e05dd9f31b7529]... is providing (or has provided) services in connection with arrangements or a proposal[^key-f458ee198e412065bb7f501e5e559869].
+**24.**[^c22799731] (1) In this paragraph “**client**” means a person to whom a person [^c-8677153446ba5d2747e05dd9f31b7529]... is providing (or has provided) services in connection with arrangements or a proposal[^c-f458ee198e412065bb7f501e5e559869].
 
-(2)[^key-fb1dce1eb2e307d47c5d797400a0b5e2] Sub-paragraph (3) applies where—
+(2)[^c-fb1dce1eb2e307d47c5d797400a0b5e2] Sub-paragraph (3) applies where—
 
 - (a) the client receives prescribed information under paragraph 23 relating to the reference number allocated to—
   - (i) the arrangements or proposed arrangements, or
@@ -532,20 +532,20 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 (4) In sub-paragraph (3) “the relevant period” is the period of 30 days beginning with the later of—
 
-- (a) the day on which the client first becomes aware of any transaction forming part of the arrangements or proposed arrangements[^key-b2340955173d90726e01cee8575e14f1], and
-- (b) the day on which the prescribed information is notified to the client under paragraph 23 or (as the case may be) paragraph 23A[^key-22af7618bcc1e197f498bd46e8eca3e8].
+- (a) the day on which the client first becomes aware of any transaction forming part of the arrangements or proposed arrangements[^c-b2340955173d90726e01cee8575e14f1], and
+- (b) the day on which the prescribed information is notified to the client under paragraph 23 or (as the case may be) paragraph 23A[^c-22af7618bcc1e197f498bd46e8eca3e8].
 
-(5) HMRC may give notice that, in relation to arrangements or a proposal[^key-6e6996d97b8b3f57ea4cbcbcda6e7dc7] specified in the notice, persons are not under the duty under sub-paragraph (3) after the date specified in the notice.
+(5) HMRC may give notice that, in relation to arrangements or a proposal[^c-6e6996d97b8b3f57ea4cbcbcda6e7dc7] specified in the notice, persons are not under the duty under sub-paragraph (3) after the date specified in the notice.
 
 (6) The duty under sub-paragraph (3) does not apply in prescribed circumstances.
 
 (7) For the purposes of this paragraph a tax is a “**relevant tax**”, in relation to arrangements or arrangements proposed in a proposal of any description, if it is prescribed in relation to arrangements or proposals of that description by regulations under paragraph 3(1).
 
-#### Duty of client to provide information ...[^key-5d6d2bcba32182da308b66ed8a3c7273]
+#### Duty of client to provide information ...[^c-5d6d2bcba32182da308b66ed8a3c7273]
 
-**25.**[^c22799741] (1)[^key-da2214a9b00070a8f3fb35689d96ad11] This paragraph applies where a person (“**the client**”) has been provided with information under paragraph 23(2) or 23A(2) (prescribed information about reference number).
+**25.**[^c22799741] (1)[^c-da2214a9b00070a8f3fb35689d96ad11] This paragraph applies where a person (“**the client**”) has been provided with information under paragraph 23(2) or 23A(2) (prescribed information about reference number).
 
-(2) The client must, within the relevant period, provide the person who provided the information[^key-bfe20ababe55a11b0d82c75823161a11] with prescribed information relating to the client.
+(2) The client must, within the relevant period, provide the person who provided the information[^c-bfe20ababe55a11b0d82c75823161a11] with prescribed information relating to the client.
 
 (3) In sub-paragraph (2) “the relevant period” is the period of 11 days beginning with the later of—
 
@@ -554,14 +554,14 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 (4) The duty under sub-paragraph (2) is subject to any exceptions that may be prescribed.
 
-#### Duty of parties to notify HMRC of reference number etc[^key-bd825befd1cf21717c001d5ec092e944]
+#### Duty of parties to notify HMRC of reference number etc[^c-bd825befd1cf21717c001d5ec092e944]
 
-**26.**[^c22799751] (1) Any person (P) who is a party to any [^key-8f712110e2f151d146ba7548f5130a74]... arrangements must provide HMRC with prescribed information relating to—
+**26.**[^c22799751] (1) Any person (P) who is a party to any [^c-8f712110e2f151d146ba7548f5130a74]... arrangements must provide HMRC with prescribed information relating to—
 
-- (a) any reference number notified to P under paragraph 23 , 23A[^key-509e9122b3a5661c13aadf2c9f0673eb] or 24, and
+- (a) any reference number notified to P under paragraph 23 , 23A[^c-509e9122b3a5661c13aadf2c9f0673eb] or 24, and
 - (b) the time when P obtains or expects to obtain by virtue of the arrangements a tax advantage in relation to any relevant tax.
 
-(2) For the purposes of sub-paragraph (1) a tax is a “**relevant tax**” in relation to arrangements of any description[^key-d12652789797742c64255b26b41920da] if it is prescribed in relation to arrangements of that description by regulations under paragraph 3(1).
+(2) For the purposes of sub-paragraph (1) a tax is a “**relevant tax**” in relation to arrangements of any description[^c-d12652789797742c64255b26b41920da] if it is prescribed in relation to arrangements of that description by regulations under paragraph 3(1).
 
 (3) Regulations made by the Commissioners may—
 
@@ -573,57 +573,57 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 (4) In sub-paragraph (3) “**prescribed**” includes being prescribed in a document made under a power conferred by regulations made by the Commissioners.
 
-(5) HMRC may give notice that, in relation to [^key-b8b11a104f916d6873f904a18837cac3]... arrangements specified in the notice, persons are not under the duty under sub-paragraph (1) after the date specified in the notice.
+(5) HMRC may give notice that, in relation to [^c-b8b11a104f916d6873f904a18837cac3]... arrangements specified in the notice, persons are not under the duty under sub-paragraph (1) after the date specified in the notice.
 
 (6) The duty under sub-paragraph (1) does not apply in prescribed circumstances.
 
-#### Duty ... to provide details of clients[^key-030ca98aef37c94d6ade9e6e44c70223]
+#### Duty ... to provide details of clients[^c-030ca98aef37c94d6ade9e6e44c70223]
 
 **27.**[^c22799761] (1) This paragraph applies where a person who is a promoter in relation to notifiable arrangements is providing (or has provided) services to any person (“**the client**”) in connection with the arrangements and either—
 
-- (a)[^key-d65137cdbf4832d97bacede3145facc0] the promoter is subject to the requirement under paragraph 23(2) to provide to the client prescribed information relating to the reference number allocated to—
+- (a)[^c-d65137cdbf4832d97bacede3145facc0] the promoter is subject to the requirement under paragraph 23(2) to provide to the client prescribed information relating to the reference number allocated to—
   - (i) the arrangements, or
   - (ii) any arrangements substantially the same as the arrangements; or
 - (b) the promoter has failed to comply with paragraph 11(1) or 12(1) in relation to the notifiable arrangements (or the notifiable proposal for them) but would be subject to that requirement if a reference number had been allocated to—
   - (i) the notifiable arrangements, or
   - (ii) any arrangements substantially the same as the arrangements.
 
-(1A)[^key-3ec4b090cc0ba61f4827b621d3c8d4b4] This paragraph also applies where—
+(1A)[^c-3ec4b090cc0ba61f4827b621d3c8d4b4] This paragraph also applies where—
 
 - (a) a person (“**the provider**”) is providing (or has provided) services to another person (“**the client**”) in connection with arrangements or proposed arrangements, and
 - (b) the provider is subject to the requirement under paragraph 23A(2) to provide to the client prescribed information relating to the reference number allocated to—
   - (i) the arrangements or proposed arrangements, or
   - (ii) any arrangements substantially the same as the arrangements or proposed arrangements.
 
-(2)[^key-186a744862d590261c7f3f52490d4451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-186a744862d590261c7f3f52490d4451] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The promoter or (as the case may be) provider[^key-68d3ac85f877ca5c086ed792dc84b9d5] must, within the prescribed period after the end of the relevant period, provide HMRC with prescribed information in relation to the client.
+(3) The promoter or (as the case may be) provider[^c-68d3ac85f877ca5c086ed792dc84b9d5] must, within the prescribed period after the end of the relevant period, provide HMRC with prescribed information in relation to the client.
 
-(4)[^key-eba997b745c8a2a0747e26946f397261] In sub-paragraph (3) “**the relevant period**” means—
+(4)[^c-eba997b745c8a2a0747e26946f397261] In sub-paragraph (3) “**the relevant period**” means—
 
 - (a) in a case within sub-paragraph (1), such period as is prescribed and is a period during which the promoter is or would be subject to the requirement mentioned in that sub-paragraph;
 - (b) in a case within sub-paragraph (1A), such period as is prescribed and is a period during which the provider is or would be subject to the requirement mentioned in that sub-paragraph.
 
 (5) The promoter need not comply with sub-paragraph (3) in relation to any notifiable arrangements at any time after HMRC have given notice under paragraph 23(6) in relation to the arrangements.
 
-(6)[^key-47ca679ebe61a6426bb51a2d0ff01ac3] The provider need not comply with sub-paragraph (3) in relation to any arrangements at any time after HMRC have given notice under paragraph 23A(4) in relation to the arrangements.
+(6)[^c-47ca679ebe61a6426bb51a2d0ff01ac3] The provider need not comply with sub-paragraph (3) in relation to any arrangements at any time after HMRC have given notice under paragraph 23A(4) in relation to the arrangements.
 
 #### Enquiry following disclosure of client details
 
 **28.**[^c22799771] (1) This paragraph applies where—
 
-- (a)[^key-433b67e1852db10c7d9acdb2447f0bfa] a person (“the service provider”) is providing or has provided services to another person (“**the client**”) in connection with arrangements or proposed arrangements,
+- (a)[^c-433b67e1852db10c7d9acdb2447f0bfa] a person (“the service provider”) is providing or has provided services to another person (“**the client**”) in connection with arrangements or proposed arrangements,
 - (aa) the service provider has provided HMRC with information in relation to the client under paragraph 27(3), and
 - (b) HMRC suspect that a person other than the client is or is likely to be a party to the arrangements.
 
-(2) HMRC may by written notice require the service provider[^key-0dc27b672cdb3c655e6b5606c76cbb13] to provide prescribed information in relation to any person other than the client who the service provider might reasonably be expected to know is or is likely to be a party to the arrangements.
+(2) HMRC may by written notice require the service provider[^c-0dc27b672cdb3c655e6b5606c76cbb13] to provide prescribed information in relation to any person other than the client who the service provider might reasonably be expected to know is or is likely to be a party to the arrangements.
 
-(3) The service provider[^key-f987ac19b571c6524d8cb5d5e50b5a7a] must comply with a requirement under or by virtue of sub-paragraph (2) within—
+(3) The service provider[^c-f987ac19b571c6524d8cb5d5e50b5a7a] must comply with a requirement under or by virtue of sub-paragraph (2) within—
 
 - (a) the relevant period, or
 - (b) such longer period as HMRC may direct.
 
-(4) In sub-paragraph (3) “the relevant period” is the period of 11 days beginning with the day on which the service provider[^key-c8765204731ab4165c25317942d0cef7] receives the notice under sub-paragraph (2).
+(4) In sub-paragraph (3) “the relevant period” is the period of 11 days beginning with the day on which the service provider[^c-c8765204731ab4165c25317942d0cef7] receives the notice under sub-paragraph (2).
 
 #### Pre-disclosure enquiry
 
@@ -692,9 +692,9 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 #### Information
 
-**33.**[^c22799821] (1) This paragraph applies where a person is required to provide information under paragraph 23(2) , 23A(2)[^key-f7bfcffb3645bfd07379bc1adf13f087] or 24(3).
+**33.**[^c22799821] (1) This paragraph applies where a person is required to provide information under paragraph 23(2) , 23A(2)[^c-f7bfcffb3645bfd07379bc1adf13f087] or 24(3).
 
-(2) HMRC may specify additional information which must be provided by that person to the recipients under paragraph 23(2) , 23A(2)[^key-abf31194158d204987c2541498376068] or 24(3) at the same time as the information referred to in sub-paragraph (1).
+(2) HMRC may specify additional information which must be provided by that person to the recipients under paragraph 23(2) , 23A(2)[^c-abf31194158d204987c2541498376068] or 24(3) at the same time as the information referred to in sub-paragraph (1).
 
 (3) HMRC may specify the form and manner in which the additional information is to be provided.
 
@@ -702,11 +702,11 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 **34.**[^c22799831] (1) HMRC may specify the form and manner in which information required to be provided by or under any of the information provisions must be provided if the provision is to be complied with.
 
-(2) The “information provisions” are paragraphs 11(1), 12(1), 17(2), 18(2), 19(2), 21(3), 22C,[^key-b31de0f1f1db6c79b5275c0ac39c1123] 23(2), 23A(2),[^key-bcb475e59c21f0987fb48f559a2b57c0] 24(3), 26(1) and (3), 27(3), 28(2), 29(1), 31(2) and 33(2).
+(2) The “information provisions” are paragraphs 11(1), 12(1), 17(2), 18(2), 19(2), 21(3), 22C,[^c-b31de0f1f1db6c79b5275c0ac39c1123] 23(2), 23A(2),[^c-bcb475e59c21f0987fb48f559a2b57c0] 24(3), 26(1) and (3), 27(3), 28(2), 29(1), 31(2) and 33(2).
 
 **35.**[^c22799841] No duty of confidentiality or other restriction on disclosure (however imposed) prevents the voluntary disclosure by any person to HMRC of information or documents which the person has reasonable grounds for suspecting will assist HMRC in determining whether there has been a breach of any requirement imposed by or under this Part of this Schedule.
 
-**36.**[^c22799671] (1)[^key-0ffd0394108ecce3c7b8c600bc18a1ee] HMRC may publish information about—
+**36.**[^c22799671] (1)[^c-0ffd0394108ecce3c7b8c600bc18a1ee] HMRC may publish information about—
 
 - (a) any arrangements, or proposed arrangements, to which a reference number is allocated under paragraph 22;
 - (b) where the reference number is allocated in a case within paragraph 22(2), any person who is a promoter in relation to the arrangements or, in the case of proposed arrangements, the proposal;
@@ -716,36 +716,36 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 (2) The information that may be published is (subject to sub-paragraph (4))—
 
-- (a) any information relating to arrangements within sub-paragraph (1)(a), or a person within sub-paragraph (1)(b) or (c)[^key-656e618e867d928d5d12bc8ad14540e5], that is prescribed information for the purposes of paragraph any provision of this Part[^key-a3a9d0cdcabd122a5ed561e32f7d7776];
-- (b)[^key-7c4a61de9e93c3ae2242504ba07560a2] any ruling of a court or tribunal relating to—
+- (a) any information relating to arrangements within sub-paragraph (1)(a), or a person within sub-paragraph (1)(b) or (c)[^c-656e618e867d928d5d12bc8ad14540e5], that is prescribed information for the purposes of paragraph any provision of this Part[^c-a3a9d0cdcabd122a5ed561e32f7d7776];
+- (b)[^c-7c4a61de9e93c3ae2242504ba07560a2] any ruling of a court or tribunal relating to—
   - (i) arrangements within sub-paragraph (1)(a);
   - (ii) a person within sub-paragraph (1)(b), in that person's capacity as a promoter;
   - (iii) a person within sub-paragraph (1)(c), in that person's capacity as a promoter or a person otherwise involved in the supply of arrangements or proposed arrangements;
-- (c) the number of persons in any period who enter into transactions forming part of [^key-e820822ee870d28aedd96e8fa8994da4]... arrangements within sub-paragraph (1)(a);
-- (d) any other information that HMRC considers it appropriate to publish for the purpose of identifying arrangements within sub-paragraph (1)(a) or a person within sub-paragraph (1)(b) or (c)[^key-cdd6648fabc280a678a4ae05cc86a911].
+- (c) the number of persons in any period who enter into transactions forming part of [^c-e820822ee870d28aedd96e8fa8994da4]... arrangements within sub-paragraph (1)(a);
+- (d) any other information that HMRC considers it appropriate to publish for the purpose of identifying arrangements within sub-paragraph (1)(a) or a person within sub-paragraph (1)(b) or (c)[^c-cdd6648fabc280a678a4ae05cc86a911].
 
 (3) The information may be published in any manner that HMRC considers appropriate.
 
-(4) No information may be published under this paragraph that identifies a person who enters into a transaction forming part of [^key-57b4b5e8106a9fc89ce913161f0c2ade]... arrangements within sub-paragraph (1)(a).
+(4) No information may be published under this paragraph that identifies a person who enters into a transaction forming part of [^c-57b4b5e8106a9fc89ce913161f0c2ade]... arrangements within sub-paragraph (1)(a).
 
-(4A)[^key-8af1c781e119d4d8baa77fc29be61966] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-8af1c781e119d4d8baa77fc29be61966] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) But where a person within sub-paragraph (1)(b) or (c)[^key-bc7b9950f98511a29bffd6c6ef83bbb5] is also a person mentioned in sub-paragraph (4), nothing in sub-paragraph (4) is to be taken as preventing the publication under this paragraph of information so far as relating to the person's activities as a promoter or a person involved in the supply of arrangements or proposed arrangements[^key-7f45454e7f7206f30c3b403e368f75c5].
+(5) But where a person within sub-paragraph (1)(b) or (c)[^c-bc7b9950f98511a29bffd6c6ef83bbb5] is also a person mentioned in sub-paragraph (4), nothing in sub-paragraph (4) is to be taken as preventing the publication under this paragraph of information so far as relating to the person's activities as a promoter or a person involved in the supply of arrangements or proposed arrangements[^c-7f45454e7f7206f30c3b403e368f75c5].
 
-(6) Before publishing any information under this paragraph that identifies a person as a person within sub-paragraph (1)(b) or (c)[^key-44c4e458cda848fec80653cfb1052435], HMRC must—
+(6) Before publishing any information under this paragraph that identifies a person as a person within sub-paragraph (1)(b) or (c)[^c-44c4e458cda848fec80653cfb1052435], HMRC must—
 
 - (a) inform the person that they are considering doing so, and
 - (b) give the person reasonable opportunity to
-  - (i)[^key-f46194a3a553d9d353b638bf5d53d1a2] make representations about whether it should be published , and[^key-c03ec9ef46e6eee8c1c4a916db77819d]
+  - (i)[^c-f46194a3a553d9d353b638bf5d53d1a2] make representations about whether it should be published , and[^c-c03ec9ef46e6eee8c1c4a916db77819d]
   - (ii) where section 209(2) of FA 2026 applies, provide a declaration made under that subsection substantiating those representations.
 
-(7)[^key-b07bd311460061fb13424e50d41c7b85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-b07bd311460061fb13424e50d41c7b85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-0374013528c0bfe2f23357607c36d4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-0374013528c0bfe2f23357607c36d4cf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **37.**[^c22799661] (1) This paragraph applies if—
 
-- (a) information about [^key-04dfda3354c53d568a7889c819155ac3]... arrangements, or proposed [^key-04dfda3354c53d568a7889c819155ac3]... arrangements, is published under paragraph 36,
+- (a) information about [^c-04dfda3354c53d568a7889c819155ac3]... arrangements, or proposed [^c-04dfda3354c53d568a7889c819155ac3]... arrangements, is published under paragraph 36,
 - (b) at any time after the information is published, a ruling of a court or tribunal is made in relation to tax arrangements, and
 - (c) HMRC is of the opinion that the ruling is relevant to the arrangements mentioned in paragraph (a)
 
@@ -790,9 +790,9 @@ but excluding (in each case) any VAT in respect of which the person is entitled 
 
 ### PART 2 — Penalties
 
-#### Penalty for failure to comply with duties under Part 1 ...[^key-ba1f40e2f1c7299f1b5a46b8d674e92b]
+#### Penalty for failure to comply with duties under Part 1 ...[^c-ba1f40e2f1c7299f1b5a46b8d674e92b]
 
-**39.**[^key-0210869a7a8d630caec6369b19e68462] (1) A person who fails to comply with a duty imposed by a provision of Part 1 of this Schedule mentioned in the first column of the table is liable to a penalty not exceeding the amount specified in relation to that provision in the second column.
+**39.**[^c-0210869a7a8d630caec6369b19e68462] (1) A person who fails to comply with a duty imposed by a provision of Part 1 of this Schedule mentioned in the first column of the table is liable to a penalty not exceeding the amount specified in relation to that provision in the second column.
 
 | Provision | Maximum penalty amount |
 | --- | --- |
@@ -868,19 +868,19 @@ the person is liable to a further penalty not exceeding the applicable rate (as 
 
 (2) Regulations under this paragraph may include incidental or transitional provision.
 
-**43.**[^key-0210869a7a8d630caec6369b19e68462] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-0210869a7a8d630caec6369b19e68462] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Penalty for failure to comply with duties under paragraph 26
 
-**44.**[^key-0210869a7a8d630caec6369b19e68462] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-0210869a7a8d630caec6369b19e68462] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### ...[^key-4d5e3f8b4e6ada7a1d4a42b235663781]
+#### ...[^c-4d5e3f8b4e6ada7a1d4a42b235663781]
 
-**45.**[^key-4d5e3f8b4e6ada7a1d4a42b235663781] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-4d5e3f8b4e6ada7a1d4a42b235663781] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Assessment of penalties ...[^key-c4f1d7d97c1d77c7fdfe16d65cee613f]
+#### Assessment of penalties ...[^c-c4f1d7d97c1d77c7fdfe16d65cee613f]
 
-**46.**[^c22799561] (1) Where a person is liable to a penalty under paragraph 39 or 40[^key-d44545f7307ba862962064aed64a1a3a] an authorised officer may assess the amount due by way of a penalty.
+**46.**[^c22799561] (1) Where a person is liable to a penalty under paragraph 39 or 40[^c-d44545f7307ba862962064aed64a1a3a] an authorised officer may assess the amount due by way of a penalty.
 
 (2) An assessment may not be made more than 12 months after evidence of facts sufficient to justify the making of the assessment first comes to the knowledge of HMRC.
 
@@ -938,7 +938,7 @@ must be served on the person liable to the penalty.
 
 (2) Where an order is made under paragraph 4 or 5 then for the purposes of paragraph 48—
 
-- (a) the person identified in the order as the promoter of the proposal or arrangements cannot, in respect of any time after the end of the period mentioned in paragraph 39(2)(b)[^key-2846565246d703c4173001a7ffb4f561], rely on doubt as to notifiability as a reasonable excuse for failure to comply with paragraph 11(1) or 12(1), and
+- (a) the person identified in the order as the promoter of the proposal or arrangements cannot, in respect of any time after the end of the period mentioned in paragraph 39(2)(b)[^c-2846565246d703c4173001a7ffb4f561], rely on doubt as to notifiability as a reasonable excuse for failure to comply with paragraph 11(1) or 12(1), and
 - (b) any delay in compliance with that provision after the end of that period is not capable of being a reasonable excuse unless attributable to something other than doubt as to notifiability.
 
 **50.**[^c22799521] (1) Where a person fails to comply with—
@@ -1243,7 +1243,7 @@ then for the purposes of paragraph 48 legal advice which the person took into ac
 - “**notifiable proposal**” has the meaning given by paragraph 3(3);
 - “prescribed” (except in or in references to paragraph 3(1)(a)), means prescribed by regulations made by HMRC;
 - “**promoter**” is to be construed in accordance with paragraph 8;
-- “[^key-f19ed0d8776c92637218d74e6e0269b2]**reference number**” means a reference number allocated under paragraph 22;
+- “[^c-f19ed0d8776c92637218d74e6e0269b2]**reference number**” means a reference number allocated under paragraph 22;
 - “**TCEA 2007**” means the Tribunals, Courts and Enforcement Act 2007;
 - “**tax advantage**” means a tax advantage within the meaning of—
   - (a) paragraph 6 (in relation to VAT), or
@@ -1254,21 +1254,21 @@ then for the purposes of paragraph 48 legal advice which the person took into ac
 
 ## Annotations
 
-[^key-024dcf79f52011cb704f8bd5e2df965b]: Modification: Sch. 17 modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [Sch. 9ZA para. 80](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZA/paragraph/80) (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/2) (with [s. 3(4)](https://www.legislation.gov.uk/ukpga/2020/26/section/3/4), [Sch. 2 para. 7(7)-(10)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
+[^c-024dcf79f52011cb704f8bd5e2df965b]: Modification: Sch. 17 modified (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23), [Sch. 9ZA para. 80](https://www.legislation.gov.uk/ukpga/1994/23/schedule/9ZA/paragraph/80) (as inserted by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 2 para. 2](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/2) (with [s. 3(4)](https://www.legislation.gov.uk/ukpga/2020/26/section/3/4), [Sch. 2 para. 7(7)-(10)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9))
 
-[^key-5f92e5b194f7de17b15c33b752021823]: Textual amendment: [Sch. 17 Pt. A1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/A1) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 20](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/20), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-5f92e5b194f7de17b15c33b752021823]: Textual amendment: [Sch. 17 Pt. A1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/A1) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 20](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/20), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
 [^c22798271]: Commencement: [Sch. 17 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/1) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
 [^c22798281]: Commencement: [Sch. 17 para. 2](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/2) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-5ce66664773393c4fc63bc2cb9fc2e73]: Textual amendment: Words in Sch. 17 para. 2(1) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/19) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-5ce66664773393c4fc63bc2cb9fc2e73]: Textual amendment: Words in Sch. 17 para. 2(1) omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3), [Sch. 13 para. 19](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/19) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
 
-[^key-90c14b6bd86d1e9bf4952cfa40159d0b]: Textual amendment: Words in Sch. 17 para. 2(1) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2026/11/schedule/15/paragraph/6)
+[^c-90c14b6bd86d1e9bf4952cfa40159d0b]: Textual amendment: Words in Sch. 17 para. 2(1) inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 15 para. 6](https://www.legislation.gov.uk/ukpga/2026/11/schedule/15/paragraph/6)
 
 [^M_F_cbe29179-0396-4cfd-e4e6-4f169c491fac]: Textual amendment: Words in Sch. 17 para. 2(1) inserted (10.12.2021 for specified purposes, 1.4.2022 in so far as not already in force and with effect in accordance with [s. 85(1)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/85/1/b) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 85(1)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/85/1/a), [Sch. 15 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/15/paragraph/7); [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [regs. 3](https://www.legislation.gov.uk/uksi/2021/1409/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
 
-[^key-137a6ea914aa93486817a398c0d31a0f]: Textual amendment: Words in Sch. 17 para. 2(1) inserted (with effect in accordance with s. 158 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 158](https://www.legislation.gov.uk/ukpga/2026/11/section/158), [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/19/paragraph/4)
+[^c-137a6ea914aa93486817a398c0d31a0f]: Textual amendment: Words in Sch. 17 para. 2(1) inserted (with effect in accordance with s. 158 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 158](https://www.legislation.gov.uk/ukpga/2026/11/section/158), [Sch. 19 para. 4](https://www.legislation.gov.uk/ukpga/2026/11/schedule/19/paragraph/4)
 
 [^c22798291]: Commencement: [Sch. 17 para. 3](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/3) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
@@ -1278,27 +1278,27 @@ then for the purposes of paragraph 48 legal advice which the person took into ac
 
 [^c22798331]: Commencement: [Sch. 17 para. 6](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/6) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-e532ff062a335a13c287b36dd3b83301]: Textual amendment: Sch. 17 para. 6(3)(b) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 131(a)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/131/a/i) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-e532ff062a335a13c287b36dd3b83301]: Textual amendment: Sch. 17 para. 6(3)(b) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 131(a)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/131/a/i) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-c2ecabae47048c0c40bdc988942b7cff]: Textual amendment: Words in Sch. 17 para. 6(3)(c) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 131(a)(ii)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/131/a/ii) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-c2ecabae47048c0c40bdc988942b7cff]: Textual amendment: Words in Sch. 17 para. 6(3)(c) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 131(a)(ii)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/131/a/ii) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-c3295d5283f529fab785075567b3d622]: Textual amendment: Sch. 17 para. 6(5)(b) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 131(b)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/131/b/i) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-c3295d5283f529fab785075567b3d622]: Textual amendment: Sch. 17 para. 6(5)(b) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 131(b)(i)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/131/b/i) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
-[^key-80431699ae4644659c462e6b9393711b]: Textual amendment: Words in Sch. 17 para. 6(5)(c) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 131(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/131/b/ii) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-80431699ae4644659c462e6b9393711b]: Textual amendment: Words in Sch. 17 para. 6(5)(c) omitted (31.12.2020) by virtue of [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 131(b)(ii)](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/131/b/ii) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
 
 [^c22798341]: Commencement: [Sch. 17 para. 7](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/7) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
 [^c22798351]: Commencement: Sch. 17 para. 8 in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-54ca710dd693cf3bca35412dddc20e4e]: Modification: Sch. 17 para. 8(2)(a)(3)(a) restricted (1.1.2018) by [The Indirect Taxes (Disclosure of Avoidance Schemes) Regulations 2017 (S.I. 2017/1215)](https://www.legislation.gov.uk/uksi/2017/1215), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/6/1)
+[^c-54ca710dd693cf3bca35412dddc20e4e]: Modification: Sch. 17 para. 8(2)(a)(3)(a) restricted (1.1.2018) by [The Indirect Taxes (Disclosure of Avoidance Schemes) Regulations 2017 (S.I. 2017/1215)](https://www.legislation.gov.uk/uksi/2017/1215), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1), [6(1)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/6/1)
 
-[^key-9cb81534b64c7e5dd282ea6afde3152b]: Modification: Sch. 17 para. 8(7) applied (1.1.2018) by [The Indirect Taxes (Disclosure of Avoidance Schemes) Regulations 2017 (S.I. 2017/1215)](https://www.legislation.gov.uk/uksi/2017/1215), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/3/3)
+[^c-9cb81534b64c7e5dd282ea6afde3152b]: Modification: Sch. 17 para. 8(7) applied (1.1.2018) by [The Indirect Taxes (Disclosure of Avoidance Schemes) Regulations 2017 (S.I. 2017/1215)](https://www.legislation.gov.uk/uksi/2017/1215), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/3/3)
 
 [^c22798361]: Commencement: [Sch. 17 para. 9](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/9) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
 [^c22798381]: Commencement: [Sch. 17 para. 10](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/10) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-eb9d359b0192fda185ef5c21c832be1f]: Textual amendment: Word in [Sch. 17 para. 10(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/10/1) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 21](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/21), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-eb9d359b0192fda185ef5c21c832be1f]: Textual amendment: Word in [Sch. 17 para. 10(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/10/1) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 21](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/21), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
 [^c22798391]: Commencement: [Sch. 17 para. 11](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/11) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
@@ -1314,7 +1314,7 @@ then for the purposes of paragraph 48 legal advice which the person took into ac
 
 [^c22799431]: Commencement: [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/17) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-7e090b419c6ea7404b0706e278acf534]: Modification: [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/17) restricted (1.1.2018) by [The Indirect Taxes (Disclosure of Avoidance Schemes) Regulations 2017 (S.I. 2017/1215)](https://www.legislation.gov.uk/uksi/2017/1215), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/4/4)
+[^c-7e090b419c6ea7404b0706e278acf534]: Modification: [Sch. 17 para. 17](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/17) restricted (1.1.2018) by [The Indirect Taxes (Disclosure of Avoidance Schemes) Regulations 2017 (S.I. 2017/1215)](https://www.legislation.gov.uk/uksi/2017/1215), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1215/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2017/1215/regulation/4/4)
 
 [^c22799441]: Commencement: [Sch. 17 para. 18](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/18) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
@@ -1324,79 +1324,79 @@ then for the purposes of paragraph 48 legal advice which the person took into ac
 
 [^c22799701]: Commencement: [Sch. 17 para. 21](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/21) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-1ca5be3b43c45b993c7e0378fedd45af]: Textual amendment: [Sch. 17 para. 21A](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/21A) and cross-heading inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/22), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-1ca5be3b43c45b993c7e0378fedd45af]: Textual amendment: [Sch. 17 para. 21A](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/21A) and cross-heading inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/22), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-f990193b39df3a45346836c3e77ac295]: Textual amendment: Sch. 17 paras. 22-22C and cross-headings substituted for Sch. 17 para. 22 and cross-heading (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/23), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-f990193b39df3a45346836c3e77ac295]: Textual amendment: Sch. 17 paras. 22-22C and cross-headings substituted for Sch. 17 para. 22 and cross-heading (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/23), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-515b53855eb6cd04812191c0a79f40f6]: Textual amendment: Words in [Sch. 17 para. 23 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/1/crossheading/duty-of-promoter-to-notify-client-of-number) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 24](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/24), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-515b53855eb6cd04812191c0a79f40f6]: Textual amendment: Words in [Sch. 17 para. 23 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/1/crossheading/duty-of-promoter-to-notify-client-of-number) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 24](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/24), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
 [^c22799721]: Commencement: [Sch. 17 para. 23](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/23) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-343f91f190be4fce0ab97408a1f2d66f]: Textual amendment: Words in [Sch. 17 para. 23(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/23/2) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 25(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/25/2/a), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-343f91f190be4fce0ab97408a1f2d66f]: Textual amendment: Words in [Sch. 17 para. 23(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/23/2) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 25(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/25/2/a), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-91c863fc86f72e70f3084d5838898987]: Textual amendment: Words in [Sch. 17 para. 23(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/23/2) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 25(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/25/2/b), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-91c863fc86f72e70f3084d5838898987]: Textual amendment: Words in [Sch. 17 para. 23(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/23/2) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 25(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/25/2/b), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-567a1ac10a95580292e0fa415eb18981]: Textual amendment: [Sch. 17 para. 23A](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/23A) and cross-heading inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 26](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/26), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-567a1ac10a95580292e0fa415eb18981]: Textual amendment: [Sch. 17 para. 23A](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/23A) and cross-heading inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 26](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/26), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
 [^c22799731]: Commencement: [Sch. 17 para. 24](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-8677153446ba5d2747e05dd9f31b7529]: Textual amendment: Words in [Sch. 17 para. 24(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24/1) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/27/2/a), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-8677153446ba5d2747e05dd9f31b7529]: Textual amendment: Words in [Sch. 17 para. 24(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24/1) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 27(2)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/27/2/a), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-f458ee198e412065bb7f501e5e559869]: Textual amendment: Words in [Sch. 17 para. 24(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24/1) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/27/2/b), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-f458ee198e412065bb7f501e5e559869]: Textual amendment: Words in [Sch. 17 para. 24(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24/1) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 27(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/27/2/b), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-fb1dce1eb2e307d47c5d797400a0b5e2]: Textual amendment: [Sch. 17 para. 24(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24/2) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 27(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/27/3), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-fb1dce1eb2e307d47c5d797400a0b5e2]: Textual amendment: [Sch. 17 para. 24(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24/2) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 27(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/27/3), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-b2340955173d90726e01cee8575e14f1]: Textual amendment: Words in [Sch. 17 para. 24(4)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24/4/a) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 27(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/27/4), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-b2340955173d90726e01cee8575e14f1]: Textual amendment: Words in [Sch. 17 para. 24(4)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24/4/a) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 27(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/27/4), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-22af7618bcc1e197f498bd46e8eca3e8]: Textual amendment: Words in [Sch. 17 para. 24(4)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24/4/b) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 27(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/27/5), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-22af7618bcc1e197f498bd46e8eca3e8]: Textual amendment: Words in [Sch. 17 para. 24(4)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24/4/b) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 27(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/27/5), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-6e6996d97b8b3f57ea4cbcbcda6e7dc7]: Textual amendment: Words in [Sch. 17 para. 24(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24/5) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 27(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/27/6), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-6e6996d97b8b3f57ea4cbcbcda6e7dc7]: Textual amendment: Words in [Sch. 17 para. 24(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/24/5) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 27(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/27/6), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-5d6d2bcba32182da308b66ed8a3c7273]: Textual amendment: Words in [Sch. 17 para. 25 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/1/crossheading/duty-of-client-to-provide-information-to-promoter) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 28](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/28), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-5d6d2bcba32182da308b66ed8a3c7273]: Textual amendment: Words in [Sch. 17 para. 25 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/1/crossheading/duty-of-client-to-provide-information-to-promoter) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 28](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/28), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
 [^c22799741]: Commencement: [Sch. 17 para. 25](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/25) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-da2214a9b00070a8f3fb35689d96ad11]: Textual amendment: [Sch. 17 para. 25(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/25/1) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 29(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/29/2), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-da2214a9b00070a8f3fb35689d96ad11]: Textual amendment: [Sch. 17 para. 25(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/25/1) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 29(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/29/2), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-bfe20ababe55a11b0d82c75823161a11]: Textual amendment: Words in [Sch. 17 para. 25(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/25/2) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 29(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/29/3), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-bfe20ababe55a11b0d82c75823161a11]: Textual amendment: Words in [Sch. 17 para. 25(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/25/2) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 29(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/29/3), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-bd825befd1cf21717c001d5ec092e944]: Textual amendment: [Sch. 17 para. 26 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/1/crossheading/duty-of-parties-to-notifiable-arrangements-to-notify-hmrc-of-number-etc) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 30](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/30), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-bd825befd1cf21717c001d5ec092e944]: Textual amendment: [Sch. 17 para. 26 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/1/crossheading/duty-of-parties-to-notifiable-arrangements-to-notify-hmrc-of-number-etc) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 30](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/30), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
 [^c22799751]: Commencement: [Sch. 17 para. 26](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/26) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-8f712110e2f151d146ba7548f5130a74]: Textual amendment: Word in [Sch. 17 para. 26(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/26/1) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 31(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/31/2), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-8f712110e2f151d146ba7548f5130a74]: Textual amendment: Word in [Sch. 17 para. 26(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/26/1) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 31(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/31/2), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-509e9122b3a5661c13aadf2c9f0673eb]: Textual amendment: Word in [Sch. 17 para. 26(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/26/1/a) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 31(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/31/3), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-509e9122b3a5661c13aadf2c9f0673eb]: Textual amendment: Word in [Sch. 17 para. 26(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/26/1/a) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 31(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/31/3), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-d12652789797742c64255b26b41920da]: Textual amendment: Words in [Sch. 17 para. 26(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/26/2) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 31(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/31/4), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-d12652789797742c64255b26b41920da]: Textual amendment: Words in [Sch. 17 para. 26(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/26/2) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 31(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/31/4), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-b8b11a104f916d6873f904a18837cac3]: Textual amendment: Word in [Sch. 17 para. 26(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/26/5) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 31(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/31/5), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-b8b11a104f916d6873f904a18837cac3]: Textual amendment: Word in [Sch. 17 para. 26(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/26/5) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 31(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/31/5), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-030ca98aef37c94d6ade9e6e44c70223]: Textual amendment: Words in [Sch. 17 para. 27 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/1/crossheading/duty-of-promoter-to-provide-details-of-clients) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 32](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/32), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-030ca98aef37c94d6ade9e6e44c70223]: Textual amendment: Words in [Sch. 17 para. 27 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/1/crossheading/duty-of-promoter-to-provide-details-of-clients) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 32](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/32), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
 [^c22799761]: Commencement: [Sch. 17 para. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-d65137cdbf4832d97bacede3145facc0]: Textual amendment: [Sch. 17 para. 27(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/1/a)[(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/1/b) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 33(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/33/2), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-d65137cdbf4832d97bacede3145facc0]: Textual amendment: [Sch. 17 para. 27(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/1/a)[(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/1/b) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 33(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/33/2), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-3ec4b090cc0ba61f4827b621d3c8d4b4]: Textual amendment: [Sch. 17 para. 27(1A)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/1A) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 33(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/33/3), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-3ec4b090cc0ba61f4827b621d3c8d4b4]: Textual amendment: [Sch. 17 para. 27(1A)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/1A) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 33(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/33/3), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-186a744862d590261c7f3f52490d4451]: Textual amendment: [Sch. 17 para. 27(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/2) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 33(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/33/4), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-186a744862d590261c7f3f52490d4451]: Textual amendment: [Sch. 17 para. 27(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/2) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 33(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/33/4), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-68d3ac85f877ca5c086ed792dc84b9d5]: Textual amendment: Words in [Sch. 17 para. 27(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/3) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 33(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/33/5), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-68d3ac85f877ca5c086ed792dc84b9d5]: Textual amendment: Words in [Sch. 17 para. 27(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/3) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 33(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/33/5), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-eba997b745c8a2a0747e26946f397261]: Textual amendment: [Sch. 17 para. 27(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/4) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 33(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/33/6), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-eba997b745c8a2a0747e26946f397261]: Textual amendment: [Sch. 17 para. 27(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/4) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 33(6)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/33/6), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-47ca679ebe61a6426bb51a2d0ff01ac3]: Textual amendment: [Sch. 17 para. 27(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/6) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 33(7)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/33/7), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-47ca679ebe61a6426bb51a2d0ff01ac3]: Textual amendment: [Sch. 17 para. 27(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/27/6) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 33(7)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/33/7), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
 [^c22799771]: Commencement: [Sch. 17 para. 28](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-433b67e1852db10c7d9acdb2447f0bfa]: Textual amendment: [Sch. 17 para. 28(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28/1/a)[(aa)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28/1/aa) substituted for [Sch. 17](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17) [para. 28(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28/1/a) (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 34(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/34/2), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-433b67e1852db10c7d9acdb2447f0bfa]: Textual amendment: [Sch. 17 para. 28(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28/1/a)[(aa)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28/1/aa) substituted for [Sch. 17](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17) [para. 28(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28/1/a) (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 34(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/34/2), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-0dc27b672cdb3c655e6b5606c76cbb13]: Textual amendment: Words in [Sch. 17 para. 28(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28/2) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 34(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/34/3), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-0dc27b672cdb3c655e6b5606c76cbb13]: Textual amendment: Words in [Sch. 17 para. 28(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28/2) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 34(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/34/3), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-f987ac19b571c6524d8cb5d5e50b5a7a]: Textual amendment: Words in [Sch. 17 para. 28(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28/3) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 34(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/34/4), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-f987ac19b571c6524d8cb5d5e50b5a7a]: Textual amendment: Words in [Sch. 17 para. 28(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28/3) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 34(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/34/4), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-c8765204731ab4165c25317942d0cef7]: Textual amendment: Words in [Sch. 17 para. 28(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28/4) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 34(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/34/5), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-c8765204731ab4165c25317942d0cef7]: Textual amendment: Words in [Sch. 17 para. 28(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/28/4) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 34(5)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/34/5), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
 [^c22799781]: Commencement: [Sch. 17 para. 29](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/29) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
@@ -1408,67 +1408,67 @@ then for the purposes of paragraph 48 legal advice which the person took into ac
 
 [^c22799821]: Commencement: [Sch. 17 para. 33](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/33) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-f7bfcffb3645bfd07379bc1adf13f087]: Textual amendment: Word in [Sch. 17 para. 33(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/33/1) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 35](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/35), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-f7bfcffb3645bfd07379bc1adf13f087]: Textual amendment: Word in [Sch. 17 para. 33(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/33/1) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 35](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/35), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-abf31194158d204987c2541498376068]: Textual amendment: Word in [Sch. 17 para. 33(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/33/2) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 35](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/35), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-abf31194158d204987c2541498376068]: Textual amendment: Word in [Sch. 17 para. 33(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/33/2) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 35](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/35), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
 [^c22799831]: Commencement: [Sch. 17 para. 34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/34) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-b31de0f1f1db6c79b5275c0ac39c1123]: Textual amendment: Word in [Sch. 17 para. 34(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/34/2) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 36(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/36/a), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-b31de0f1f1db6c79b5275c0ac39c1123]: Textual amendment: Word in [Sch. 17 para. 34(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/34/2) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 36(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/36/a), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-bcb475e59c21f0987fb48f559a2b57c0]: Textual amendment: Word in [Sch. 17 para. 34(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/34/2) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 36(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/36/b), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-bcb475e59c21f0987fb48f559a2b57c0]: Textual amendment: Word in [Sch. 17 para. 34(2)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/34/2) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 36(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/36/b), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
 [^c22799841]: Commencement: [Sch. 17 para. 35](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/35) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
 [^c22799671]: Commencement: [Sch. 17 para. 36](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-0ffd0394108ecce3c7b8c600bc18a1ee]: Textual amendment: [Sch. 17 para. 36(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/1) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/2), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-0ffd0394108ecce3c7b8c600bc18a1ee]: Textual amendment: [Sch. 17 para. 36(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/1) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/2), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-656e618e867d928d5d12bc8ad14540e5]: Textual amendment: Words in [Sch. 17 para. 36(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/2/a) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/3/a/i), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-656e618e867d928d5d12bc8ad14540e5]: Textual amendment: Words in [Sch. 17 para. 36(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/2/a) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(3)(a)(i)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/3/a/i), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-a3a9d0cdcabd122a5ed561e32f7d7776]: Textual amendment: Words in [Sch. 17 para. 36(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/2/a) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/3/a/ii), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-a3a9d0cdcabd122a5ed561e32f7d7776]: Textual amendment: Words in [Sch. 17 para. 36(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/2/a) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(3)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/3/a/ii), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-7c4a61de9e93c3ae2242504ba07560a2]: Textual amendment: [Sch. 17 para. 36(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/2/b) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/3/b), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-7c4a61de9e93c3ae2242504ba07560a2]: Textual amendment: [Sch. 17 para. 36(2)(b)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/2/b) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(3)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/3/b), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-e820822ee870d28aedd96e8fa8994da4]: Textual amendment: Word in [Sch. 17 para. 36(2)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/2/c) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(3)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/3/c), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-e820822ee870d28aedd96e8fa8994da4]: Textual amendment: Word in [Sch. 17 para. 36(2)(c)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/2/c) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(3)(c)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/3/c), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-cdd6648fabc280a678a4ae05cc86a911]: Textual amendment: Words in [Sch. 17 para. 36(2)(d)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/2/d) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(3)(d)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/3/d), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-cdd6648fabc280a678a4ae05cc86a911]: Textual amendment: Words in [Sch. 17 para. 36(2)(d)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/2/d) inserted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(3)(d)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/3/d), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-57b4b5e8106a9fc89ce913161f0c2ade]: Textual amendment: Word in [Sch. 17 para. 36(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/4) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/4), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-57b4b5e8106a9fc89ce913161f0c2ade]: Textual amendment: Word in [Sch. 17 para. 36(4)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/4) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(4)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/4), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-8af1c781e119d4d8baa77fc29be61966]: Textual amendment: [Sch. 17 para. 36(4A)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/4A) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/2/a), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
+[^c-8af1c781e119d4d8baa77fc29be61966]: Textual amendment: [Sch. 17 para. 36(4A)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/4A) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(2)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/2/a), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
 
-[^key-bc7b9950f98511a29bffd6c6ef83bbb5]: Textual amendment: Words in [Sch. 17 para. 36(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/5) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/6/a), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-bc7b9950f98511a29bffd6c6ef83bbb5]: Textual amendment: Words in [Sch. 17 para. 36(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/5) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(6)(a)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/6/a), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-7f45454e7f7206f30c3b403e368f75c5]: Textual amendment: Words in [Sch. 17 para. 36(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/5) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(6)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/6/b), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-7f45454e7f7206f30c3b403e368f75c5]: Textual amendment: Words in [Sch. 17 para. 36(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/5) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(6)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/6/b), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-44c4e458cda848fec80653cfb1052435]: Textual amendment: Words in [Sch. 17 para. 36(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/6) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(7)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/7), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-44c4e458cda848fec80653cfb1052435]: Textual amendment: Words in [Sch. 17 para. 36(6)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/6) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 37(7)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/37/7), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
-[^key-f46194a3a553d9d353b638bf5d53d1a2]: Textual amendment: Words in Sch. 17 para. 36(6)(b) renumbered as Sch. 17 para. 36(6)(b)(i) (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/2/b/i), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
+[^c-f46194a3a553d9d353b638bf5d53d1a2]: Textual amendment: Words in Sch. 17 para. 36(6)(b) renumbered as Sch. 17 para. 36(6)(b)(i) (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/2/b/i), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
 
-[^key-c03ec9ef46e6eee8c1c4a916db77819d]: Textual amendment: [Sch. 17 para. 36(6)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/6/b/ii) and word inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/2/b/ii), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
+[^c-c03ec9ef46e6eee8c1c4a916db77819d]: Textual amendment: [Sch. 17 para. 36(6)(b)(ii)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/6/b/ii) and word inserted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 214(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2026/11/section/214/2/b/ii), [215(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/1) (with [s. 215(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/215/2))
 
-[^key-b07bd311460061fb13424e50d41c7b85]: Textual amendment: [Sch. 17 para. 36(7)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/7) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 217(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/217/2)
+[^c-b07bd311460061fb13424e50d41c7b85]: Textual amendment: [Sch. 17 para. 36(7)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/7) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 217(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/217/2)
 
-[^key-0374013528c0bfe2f23357607c36d4cf]: Textual amendment: [Sch. 17 para. 36(8)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/8) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 217(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/217/2)
+[^c-0374013528c0bfe2f23357607c36d4cf]: Textual amendment: [Sch. 17 para. 36(8)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/36/8) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 217(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/217/2)
 
 [^c22799661]: Commencement: [Sch. 17 para. 37](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/37) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-04dfda3354c53d568a7889c819155ac3]: Textual amendment: Word in [Sch. 17 para. 37(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/37/1/a) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 38](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/38), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-04dfda3354c53d568a7889c819155ac3]: Textual amendment: Word in [Sch. 17 para. 37(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/37/1/a) omitted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by virtue of [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 38](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/38), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
 
 [^c22799651]: Commencement: [Sch. 17 para. 38](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/38) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-ba1f40e2f1c7299f1b5a46b8d674e92b]: Textual amendment: Words in [Sch. 17 para. 39 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/2/crossheading/penalty-for-failure-to-comply-with-duties-under-part-1-apart-from-paragraph-26) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(3)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/3/a) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
+[^c-ba1f40e2f1c7299f1b5a46b8d674e92b]: Textual amendment: Words in [Sch. 17 para. 39 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/2/crossheading/penalty-for-failure-to-comply-with-duties-under-part-1-apart-from-paragraph-26) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(3)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/3/a) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
 
-[^key-0210869a7a8d630caec6369b19e68462]: Textual amendment: Sch. 17 paras. 39-42 substituted for Sch. 17 paras. 39-44 (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(3)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/3/b) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
+[^c-0210869a7a8d630caec6369b19e68462]: Textual amendment: Sch. 17 paras. 39-42 substituted for Sch. 17 paras. 39-44 (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(3)(b)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/3/b) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
 
-[^key-4d5e3f8b4e6ada7a1d4a42b235663781]: Textual amendment: [Sch. 17 para. 45 and cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/2/crossheading/penalty-proceedings-before-firsttier-tribunal) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(3)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/3/c) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
+[^c-4d5e3f8b4e6ada7a1d4a42b235663781]: Textual amendment: [Sch. 17 para. 45 and cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/2/crossheading/penalty-proceedings-before-firsttier-tribunal) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(3)(c)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/3/c) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
 
-[^key-c4f1d7d97c1d77c7fdfe16d65cee613f]: Textual amendment: Words in [Sch. 17 para. 46 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/2/crossheading/assessment-of-penalties-under-paragraph-391b-or-44) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(3)(d)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/3/d) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
+[^c-c4f1d7d97c1d77c7fdfe16d65cee613f]: Textual amendment: Words in [Sch. 17 para. 46 cross-heading](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/part/2/crossheading/assessment-of-penalties-under-paragraph-391b-or-44) omitted (18.3.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(3)(d)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/3/d) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
 
 [^c22799561]: Commencement: [Sch. 17 para. 46](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/46) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-d44545f7307ba862962064aed64a1a3a]: Textual amendment: Words in [Sch. 17 para. 46(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/46/1) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(3)(e)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/3/e) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
+[^c-d44545f7307ba862962064aed64a1a3a]: Textual amendment: Words in [Sch. 17 para. 46(1)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/46/1) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(3)(e)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/3/e) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
 
 [^c22799551]: Commencement: [Sch. 17 para. 47](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/47) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
@@ -1476,7 +1476,7 @@ then for the purposes of paragraph 48 legal advice which the person took into ac
 
 [^c22799531]: Commencement: [Sch. 17 para. 49](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/49) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-2846565246d703c4173001a7ffb4f561]: Textual amendment: Words in [Sch. 17 para. 49(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/49/2/a) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(3)(f)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/3/f) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
+[^c-2846565246d703c4173001a7ffb4f561]: Textual amendment: Words in [Sch. 17 para. 49(2)(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/49/2/a) substituted (18.3.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 216(3)(f)](https://www.legislation.gov.uk/ukpga/2026/11/section/216/3/f) (with [s. 219](https://www.legislation.gov.uk/ukpga/2026/11/section/219))
 
 [^c22799521]: Commencement: [Sch. 17 para. 50](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/50) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
@@ -1494,4 +1494,4 @@ then for the purposes of paragraph 48 legal advice which the person took into ac
 
 [^c22799451]: Commencement: [Sch. 17 para. 57](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/57) in force at Royal Assent for specified purposes and at 1.1.2018 otherwise, see [s. 66(4)](https://www.legislation.gov.uk/ukpga/2017/32/section/66/4)
 
-[^key-f19ed0d8776c92637218d74e6e0269b2]: Textual amendment: Words in [Sch. 17 para. 57](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/57) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 41](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/41), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)
+[^c-f19ed0d8776c92637218d74e6e0269b2]: Textual amendment: Words in [Sch. 17 para. 57](https://www.legislation.gov.uk/ukpga/2017/32/schedule/17/paragraph/57) substituted (with application in accordance with Sch. 31 paras. 45, 46 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 31 paras. 41](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/41), [44](https://www.legislation.gov.uk/ukpga/2021/26/schedule/31/paragraph/44)

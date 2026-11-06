@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11A. Power to charge[^key-a0d0c44e41d21c7400472edfe6b90cc5]
+## 11A. Power to charge[^c-a0d0c44e41d21c7400472edfe6b90cc5]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0d0c44e41d21c7400472edfe6b90cc5]: Textual amendment: S. 11A inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 68(2)](https://www.legislation.gov.uk/asc/2024/5/section/68/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(p)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/p)
+[^c-a0d0c44e41d21c7400472edfe6b90cc5]: Textual amendment: S. 11A inserted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 68(2)](https://www.legislation.gov.uk/asc/2024/5/section/68/2), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(p)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/p)

@@ -29,13 +29,13 @@ summary: ''
 
 (2) Where—
 
-- (a) there is an earn-out right, and[^key-932763e2467d5d6f333e428b6818f6eb]
-- (b) the exchange of the old securities for the earn-out right is an exchange to which section 135 would apply, in a manner unaffected by section 137, if the earn-out right were an ascertainable amount of shares in or debentures of the new company, [^key-35db4837acb78e3b1fe72f1f23764576]...
-- (c)[^key-35db4837acb78e3b1fe72f1f23764576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) there is an earn-out right, and[^c-932763e2467d5d6f333e428b6818f6eb]
+- (b) the exchange of the old securities for the earn-out right is an exchange to which section 135 would apply, in a manner unaffected by section 137, if the earn-out right were an ascertainable amount of shares in or debentures of the new company, [^c-35db4837acb78e3b1fe72f1f23764576]...
+- (c)[^c-35db4837acb78e3b1fe72f1f23764576] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 this Act shall have effect, in the case of the seller and every other person who from time to time has the earn-out right, in accordance with the assumptions specified in subsection (3) below.
 
-(2A)[^key-5ecc29a92e8eaaf3691b4e4033cd171d] Subsection (2) above does not have effect if the seller elects under this section for the earn-out right not to be treated as a security of the new company.
+(2A)[^c-5ecc29a92e8eaaf3691b4e4033cd171d] Subsection (2) above does not have effect if the seller elects under this section for the earn-out right not to be treated as a security of the new company.
 
 (3) Those assumptions are—
 
@@ -48,13 +48,13 @@ this Act shall have effect, in the case of the seller and every other person who
 
 - (a) any right which is assumed, in accordance with this section, to be a security of a company (“**the old right**”) is extinguished,
 - (b) the whole of the consideration for the extinguishment of the old right consists in another right (“**the new right**”) to be issued with shares in or debentures of that company,
-- (c) the new right is such that the value or quantity of the shares or debentures to be issued in pursuance of the right (“**the replacement securities**”) is unascertainable at the time when the old right is extinguished, and[^key-e2583367034a12e0f60216e235167dfb]
-- (d) the new right is not capable of being discharged in accordance with its terms otherwise than by the issue of the replacement securities, [^key-74bc1f20717db86841f18a4beda13d3b]...
-- (e)[^key-74bc1f20717db86841f18a4beda13d3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c) the new right is such that the value or quantity of the shares or debentures to be issued in pursuance of the right (“**the replacement securities**”) is unascertainable at the time when the old right is extinguished, and[^c-e2583367034a12e0f60216e235167dfb]
+- (d) the new right is not capable of being discharged in accordance with its terms otherwise than by the issue of the replacement securities, [^c-74bc1f20717db86841f18a4beda13d3b]...
+- (e)[^c-74bc1f20717db86841f18a4beda13d3b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-the assumptions specified in subsection (3) above shall have effect in relation to the new right, in the case of the person on whom the new right is conferred[^key-8fca7632d776c7cb63bc4ce6b5999584] and every other person who from time to time has the new right, as they had effect in relation to the old right.
+the assumptions specified in subsection (3) above shall have effect in relation to the new right, in the case of the person on whom the new right is conferred[^c-8fca7632d776c7cb63bc4ce6b5999584] and every other person who from time to time has the new right, as they had effect in relation to the old right.
 
-(4A)[^key-f97f33d2afbac9b5f0b0398949e300b2] Subsection (4) above does not have effect if the person on whom the new right is conferred elects under this section for it not to be treated as a security of the new company.
+(4A)[^c-f97f33d2afbac9b5f0b0398949e300b2] Subsection (4) above does not have effect if the person on whom the new right is conferred elects under this section for it not to be treated as a security of the new company.
 
 (5) An election under this section in respect of any right must be made, by a notice given to an officer of the Board—
 
@@ -93,16 +93,16 @@ and in this subsection the reference to a group of companies shall be construed 
 
 [^c2335607]: Textual amendment: S. 138A inserted (retrospectively) by [Finance Act 1997 (c. 16)](https://www.legislation.gov.uk/ukpga/1997/16), [s. 89(1)(2)](https://www.legislation.gov.uk/ukpga/1997/16/section/89/1/2) (with [s. 89(3)-(8)](https://www.legislation.gov.uk/ukpga/1997/16/section/89/3))
 
-[^key-932763e2467d5d6f333e428b6818f6eb]: Textual amendment: Word in s. 138A(2)(a) inserted (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(2)(a)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/2/a)
+[^c-932763e2467d5d6f333e428b6818f6eb]: Textual amendment: Word in s. 138A(2)(a) inserted (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(2)(a)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/2/a)
 
-[^key-35db4837acb78e3b1fe72f1f23764576]: Textual amendment: S. 138A(2)(c) and preceding word repealed (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(2)(b)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/2/b), [Sch. 43 Pt. 3(8)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/8)
+[^c-35db4837acb78e3b1fe72f1f23764576]: Textual amendment: S. 138A(2)(c) and preceding word repealed (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(2)(b)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/2/b), [Sch. 43 Pt. 3(8)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/8)
 
-[^key-5ecc29a92e8eaaf3691b4e4033cd171d]: Textual amendment: S. 138A(2A) inserted (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/3)
+[^c-5ecc29a92e8eaaf3691b4e4033cd171d]: Textual amendment: S. 138A(2A) inserted (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/3)
 
-[^key-e2583367034a12e0f60216e235167dfb]: Textual amendment: Word in s. 138A(4)(c) inserted (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(4)(a)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/4/a)
+[^c-e2583367034a12e0f60216e235167dfb]: Textual amendment: Word in s. 138A(4)(c) inserted (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(4)(a)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/4/a)
 
-[^key-74bc1f20717db86841f18a4beda13d3b]: Textual amendment: S. 138A(4)(e) and preceding word repealed (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(4)(b)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/4/b), [Sch. 43 Pt. 3(8)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/8)
+[^c-74bc1f20717db86841f18a4beda13d3b]: Textual amendment: S. 138A(4)(e) and preceding word repealed (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(4)(b)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/4/b), [Sch. 43 Pt. 3(8)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/3/8)
 
-[^key-8fca7632d776c7cb63bc4ce6b5999584]: Textual amendment: Words in s. 138A(4) substituted (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(4)(c)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/4/c)
+[^c-8fca7632d776c7cb63bc4ce6b5999584]: Textual amendment: Words in s. 138A(4) substituted (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(4)(c)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/4/c)
 
-[^key-f97f33d2afbac9b5f0b0398949e300b2]: Textual amendment: S. 138A(4A) inserted (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(5)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/5)
+[^c-f97f33d2afbac9b5f0b0398949e300b2]: Textual amendment: S. 138A(4A) inserted (with effect in accordance with s. 161(6) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 161(5)](https://www.legislation.gov.uk/ukpga/2003/14/section/161/5)

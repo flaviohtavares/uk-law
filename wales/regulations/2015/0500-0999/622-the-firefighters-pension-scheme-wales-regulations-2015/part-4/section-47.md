@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Establishment of added pension account[^key-ae179702e1083a495a49eb474aa473a1]
+## 47. Establishment of added pension account[^c-ae179702e1083a495a49eb474aa473a1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae179702e1083a495a49eb474aa473a1]: Commencement: Reg. 47 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-ae179702e1083a495a49eb474aa473a1]: Commencement: Reg. 47 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

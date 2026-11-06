@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33A. Power to provide for further exemptions[^key-94ea28ad77ccc9779356934828c96b38]
+## 33A. Power to provide for further exemptions[^c-94ea28ad77ccc9779356934828c96b38]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ shall not apply; and in this section such a case is referred to as an “**exemp
 
 - (a) for the exemption to apply only for a prescribed period;
 - (b) for the exemption not to apply unless prescribed conditions are satisfied, or continue to be satisfied;
-- (c) for the appropriate agency[^key-0ae67d1ec1272e9437b5845931bb1e3e] to be notified, or its consent obtained—
+- (c) for the appropriate agency[^c-0ae67d1ec1272e9437b5845931bb1e3e] to be notified, or its consent obtained—
   - (i) before any particular abstraction operation or series of such operations begins; or
   - (ii) in connection with such an operation or series of operations relating to the abstraction of water in underground strata, before any other thing which is mentioned in section 24(2) above is done; or
   - (iii) before any impounding works are constructed or altered,
@@ -53,6 +53,6 @@ shall not apply; and in this section such a case is referred to as an “**exemp
 
 ## Annotations
 
-[^key-94ea28ad77ccc9779356934828c96b38]: Textual amendment: S. 33A inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 9](https://www.legislation.gov.uk/ukpga/2003/37/section/9), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(b)](https://www.legislation.gov.uk/uksi/2004/641/article/3/b) (with [Sch. 3 paras. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/1) [7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-94ea28ad77ccc9779356934828c96b38]: Textual amendment: S. 33A inserted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 9](https://www.legislation.gov.uk/ukpga/2003/37/section/9), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(b)](https://www.legislation.gov.uk/uksi/2004/641/article/3/b) (with [Sch. 3 paras. 1](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/1) [7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-0ae67d1ec1272e9437b5845931bb1e3e]: Textual amendment: Words in ss. 33A-45 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(g)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/g) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-0ae67d1ec1272e9437b5845931bb1e3e]: Textual amendment: Words in ss. 33A-45 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(g)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/g) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

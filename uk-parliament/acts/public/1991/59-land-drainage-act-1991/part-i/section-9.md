@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Default powers of the appropriate supervisory body.[^key-d9e55487d0b9e18d4f3b92d49b284fe8]
+## 9. Default powers of the appropriate supervisory body.[^c-d9e55487d0b9e18d4f3b92d49b284fe8]
 
 *Extent: E+W*
 
-(1) Subject to subsections (2) and (3) below [^key-1e9fe36a7da28c66918d9d2a5b19e60a]..., where in the opinion of the Agency[^c1415329] any land is injured or likely to be injured by [^key-268a18ce0a41ef59c8fbbd1174a36166]... inadequate drainage that might be remedied wholly or partially by the exercise of drainage powers vested in any internal drainage board which either—
+(1) Subject to subsections (2) and (3) below [^c-1e9fe36a7da28c66918d9d2a5b19e60a]..., where in the opinion of the Agency[^c1415329] any land is injured or likely to be injured by [^c-268a18ce0a41ef59c8fbbd1174a36166]... inadequate drainage that might be remedied wholly or partially by the exercise of drainage powers vested in any internal drainage board which either—
 
 - (a) are not being exercised at all; or
 - (b) in the opinion of the Agency, are not being exercised to the necessary extent,
@@ -42,10 +42,10 @@ the Agency may exercise all or any of those powers and also any power vested in 
 
 ## Annotations
 
-[^key-d9e55487d0b9e18d4f3b92d49b284fe8]: Textual amendment: Words in s. 9 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 317](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/317) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d9e55487d0b9e18d4f3b92d49b284fe8]: Textual amendment: Words in s. 9 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 317](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/317) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-1e9fe36a7da28c66918d9d2a5b19e60a]: Textual amendment: Words in s. 9(1) omitted (6.4.2012) by virtue of [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 2 para. 27(a)](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/27/a) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b)
+[^c-1e9fe36a7da28c66918d9d2a5b19e60a]: Textual amendment: Words in s. 9(1) omitted (6.4.2012) by virtue of [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 2 para. 27(a)](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/27/a) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b)
 
 [^c1415329]: Textual amendment: Words in s. 9 substituted (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(1)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/1), [Sch. 22](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22), [para. 191](https://www.legislation.gov.uk/ukpga/1995/25/paragraph/191) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-268a18ce0a41ef59c8fbbd1174a36166]: Textual amendment: Words in s. 9(1) omitted (6.4.2012) by virtue of [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 2 para. 27(b)](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/27/b) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b)
+[^c-268a18ce0a41ef59c8fbbd1174a36166]: Textual amendment: Words in s. 9(1) omitted (6.4.2012) by virtue of [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 2 para. 27(b)](https://www.legislation.gov.uk/ukpga/2010/29/schedule/2/paragraph/27/b) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2012/879](https://www.legislation.gov.uk/uksi/2012/879), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/879/article/3/b)

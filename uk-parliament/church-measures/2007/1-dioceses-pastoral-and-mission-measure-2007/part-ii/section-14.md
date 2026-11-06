@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 14. Discharge of certain functions of bishop[^key-b32152293ec3867d8071c0e640c87671][^key-86a5dd29e894e9c61fb8fc1fcd3d565d]
+## 14. Discharge of certain functions of bishop[^c-b32152293ec3867d8071c0e640c87671][^c-86a5dd29e894e9c61fb8fc1fcd3d565d]
 
 *Extent: E*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the bishop of a diocese has executed an irreversible instrument of resignation as bishop or the bishop considers that he will be unable to discharge any or all of his functions by reason of disability, illness or absence from his diocese or by reason of his forthcoming translation to another see; and
 - (b) there is no person in episcopal orders in the diocese who is for the time being authorised to discharge the relevant functions of the bishop,
 
-the bishop may (in the case of resignation or translation before the resignation or translation takes effect) by an instrument under his hand delegate to a person holding office as a diocesan, suffragan or assistant bishop in the Church of England, without the consent of the diocesan synod, but after consultation with the bishop's council and standing committee of that synod, unless the bishop is unable to consult the bishop's council and standing committee by reason of his disability or illness, such of his functions as may be specified in the instrument, except functions to which an instrument made under section 13 above relates[^key-5e6d1a94c0a24169271713223af2cc21]....
+the bishop may (in the case of resignation or translation before the resignation or translation takes effect) by an instrument under his hand delegate to a person holding office as a diocesan, suffragan or assistant bishop in the Church of England, without the consent of the diocesan synod, but after consultation with the bishop's council and standing committee of that synod, unless the bishop is unable to consult the bishop's council and standing committee by reason of his disability or illness, such of his functions as may be specified in the instrument, except functions to which an instrument made under section 13 above relates[^c-5e6d1a94c0a24169271713223af2cc21]....
 
 (2) Subject to section 15 below, the instrument made by a bishop under subsection (1) above shall remain in operation for a period specified in the instrument, which shall not be longer than twelve months but which may be extended by the archbishop of the province.
 
@@ -52,8 +52,8 @@ the bishop may (in the case of resignation or translation before the resignation
 
 ## Annotations
 
-[^key-b32152293ec3867d8071c0e640c87671]: Commencement: S. 14 in force at 1.5.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-b32152293ec3867d8071c0e640c87671]: Commencement: S. 14 in force at 1.5.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
 
-[^key-86a5dd29e894e9c61fb8fc1fcd3d565d]: Modification: S. 14 excluded (1.1.2011) by [Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010 (No. 2)](https://www.legislation.gov.uk/ukcm/2010/2), [ss. 2(5)](https://www.legislation.gov.uk/ukcm/2010/2/section/2/5), [4(2)](https://www.legislation.gov.uk/ukcm/2010/2/section/4/2); [2010 No. 6](https://www.legislation.gov.uk/ukci/2010/6), [art. 2](https://www.legislation.gov.uk/ukci/2010/6/article/2)
+[^c-86a5dd29e894e9c61fb8fc1fcd3d565d]: Modification: S. 14 excluded (1.1.2011) by [Vacancies in Suffragan Sees and Other Ecclesiastical Offices Measure 2010 (No. 2)](https://www.legislation.gov.uk/ukcm/2010/2), [ss. 2(5)](https://www.legislation.gov.uk/ukcm/2010/2/section/2/5), [4(2)](https://www.legislation.gov.uk/ukcm/2010/2/section/4/2); [2010 No. 6](https://www.legislation.gov.uk/ukci/2010/6), [art. 2](https://www.legislation.gov.uk/ukci/2010/6/article/2)
 
-[^key-5e6d1a94c0a24169271713223af2cc21]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukcm/2007/1/section/14/1) omitted (25.1.2024) by virtue of [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 6(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/6/3), [22(2)(e)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/e)
+[^c-5e6d1a94c0a24169271713223af2cc21]: Textual amendment: Words in [s. 14(1)](https://www.legislation.gov.uk/ukcm/2007/1/section/14/1) omitted (25.1.2024) by virtue of [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 6(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/6/3), [22(2)(e)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/2/e)

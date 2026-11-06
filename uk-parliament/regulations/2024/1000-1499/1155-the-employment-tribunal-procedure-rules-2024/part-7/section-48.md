@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Conversion from preliminary hearing to final hearing and vice versa[^key-7b8dcf3807220f787816129f5d340988]
+## 48. Conversion from preliminary hearing to final hearing and vice versa[^c-7b8dcf3807220f787816129f5d340988]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Tribunal conducting a preliminary hearing may order that it be treated as a 
 
 ## Annotations
 
-[^key-7b8dcf3807220f787816129f5d340988]: Commencement: [Rule 48](https://www.legislation.gov.uk/uksi/2024/1155/rule/48) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-7b8dcf3807220f787816129f5d340988]: Commencement: [Rule 48](https://www.legislation.gov.uk/uksi/2024/1155/rule/48) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

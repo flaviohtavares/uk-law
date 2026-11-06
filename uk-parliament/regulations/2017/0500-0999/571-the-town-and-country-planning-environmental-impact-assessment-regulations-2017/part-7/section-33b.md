@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33B. Miscellaneous orders and notices made by the Secretary of State[^key-dcfebf30fac10b6f777a6ce82e65f0c5]
+## 33B. Miscellaneous orders and notices made by the Secretary of State[^c-dcfebf30fac10b6f777a6ce82e65f0c5]
 
 *Extent: E+W*
 
@@ -122,4 +122,4 @@ to the effect that the development is EIA development.
 
 ## Annotations
 
-[^key-dcfebf30fac10b6f777a6ce82e65f0c5]: Textual amendment: Regs. 33A, 33B inserted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/6)
+[^c-dcfebf30fac10b6f777a6ce82e65f0c5]: Textual amendment: Regs. 33A, 33B inserted (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2018/695/regulation/2/6)

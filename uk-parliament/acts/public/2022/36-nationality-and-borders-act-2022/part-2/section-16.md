@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Asylum claims by persons with connection to safe third State: inadmissibility[^key-fcc4779a7d8fcb1c5964ca4f97198700][^key-f5a3cb442dff3db7ec4fbc84aa1468c1]
+## 16. Asylum claims by persons with connection to safe third State: inadmissibility[^c-fcc4779a7d8fcb1c5964ca4f97198700][^c-f5a3cb442dff3db7ec4fbc84aa1468c1]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,6 +88,6 @@ In Part 4A of the Nationality, Immigration and Asylum Act 2002 (as inserted by s
 
 ## Annotations
 
-[^key-fcc4779a7d8fcb1c5964ca4f97198700]: Commencement: S. 16 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-fcc4779a7d8fcb1c5964ca4f97198700]: Commencement: S. 16 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
 
-[^key-f5a3cb442dff3db7ec4fbc84aa1468c1]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/36/section/16) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/15) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/4/3))
+[^c-f5a3cb442dff3db7ec4fbc84aa1468c1]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2022/36/section/16) in force at 28.6.2022 by [S.I. 2022/590](https://www.legislation.gov.uk/uksi/2022/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/590/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/590/regulation/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2022/590/schedule/1/paragraph/15) (with [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2022/590/schedule/2/paragraph/4/3))

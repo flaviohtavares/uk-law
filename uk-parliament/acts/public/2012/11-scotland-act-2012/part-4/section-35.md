@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. References of compatibility issues to the High Court or Supreme Court[^key-c2d1cf3894000c48135452567190fdee]
+## 35. References of compatibility issues to the High Court or Supreme Court[^c-c2d1cf3894000c48135452567190fdee]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ In the Criminal Procedure (Scotland) Act 1995, after section 288ZA (inserted by 
 
 ## Annotations
 
-[^key-c2d1cf3894000c48135452567190fdee]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2012/11/section/35) in force at 22.4.2013 by [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/6/article/2/b)
+[^c-c2d1cf3894000c48135452567190fdee]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2012/11/section/35) in force at 22.4.2013 by [S.I. 2013/6](https://www.legislation.gov.uk/uksi/2013/6), [art. 2(b)](https://www.legislation.gov.uk/uksi/2013/6/article/2/b)

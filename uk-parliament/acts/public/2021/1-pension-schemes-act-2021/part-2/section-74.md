@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Powers of the Pensions Regulator[^c24480831][^key-1fae7dea6a2a50eb84dbabd87967add2]
+## 74. Powers of the Pensions Regulator[^c24480831][^c-1fae7dea6a2a50eb84dbabd87967add2]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 [^c24480831]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2021/1/section/74) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-1fae7dea6a2a50eb84dbabd87967add2]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2021/1/section/74) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)
+[^c-1fae7dea6a2a50eb84dbabd87967add2]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2021/1/section/74) in force at 1.8.2022 in so far as not already in force by [S.R. 2022/197](https://www.legislation.gov.uk/nisr/2022/197), [art. 3(a)](https://www.legislation.gov.uk/nisr/2022/197/article/3/a)

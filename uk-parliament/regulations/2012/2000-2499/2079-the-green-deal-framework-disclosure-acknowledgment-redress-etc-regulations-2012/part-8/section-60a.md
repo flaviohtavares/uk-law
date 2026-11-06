@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 60A. Complaints – breach of the relevant requirements by a green deal certification body[^key-8de05123ceb92ce103b782817bcff983]
+## 60A. Complaints – breach of the relevant requirements by a green deal certification body[^c-8de05123ceb92ce103b782817bcff983]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ A complaint in respect of a breach of the relevant requirements by a green deal 
 
 ## Annotations
 
-[^key-8de05123ceb92ce103b782817bcff983]: Textual amendment: [Reg. 60A](https://www.legislation.gov.uk/uksi/2012/2079/regulation/60A) inserted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [12](https://www.legislation.gov.uk/uksi/2013/139/regulation/12)
+[^c-8de05123ceb92ce103b782817bcff983]: Textual amendment: [Reg. 60A](https://www.legislation.gov.uk/uksi/2012/2079/regulation/60A) inserted (28.1.2013) by [The Green Deal Framework (Disclosure, Acknowledgment, Redress etc.) (Amendment) Regulations 2013 (S.I. 2013/139)](https://www.legislation.gov.uk/uksi/2013/139), [regs. 1](https://www.legislation.gov.uk/uksi/2013/139/regulation/1), [12](https://www.legislation.gov.uk/uksi/2013/139/regulation/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.106. Appointment to be advertised and registered[^key-bcead4c4857605c72128a9ca616d7c05]
+## 4.106. Appointment to be advertised and registered[^c-bcead4c4857605c72128a9ca616d7c05]
 
 *Extent: E+W*
 
@@ -30,12 +30,12 @@ The same applies also in the case of the notice or advertisement required where 
 
 (4) [^m00061] In the case of a winding up by the court, the liquidator shall also forthwith notify his appointment to the registrar of companies.
 
-This applies however the liquidator is appointed. (NO CVL APPLICATION)[^key-c92cfd1e9b78cea378abdcb2a896ce80]
+This applies however the liquidator is appointed. (NO CVL APPLICATION)[^c-c92cfd1e9b78cea378abdcb2a896ce80]
 
 ## Annotations
 
-[^key-bcead4c4857605c72128a9ca616d7c05]: Commencement: [Rule 4.106](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.106) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-bcead4c4857605c72128a9ca616d7c05]: Commencement: [Rule 4.106](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.106) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00061]: Marginal citation: \[FORM 4.31\]
 
-[^key-c92cfd1e9b78cea378abdcb2a896ce80]: Textual amendment: Words in [rule 4.106(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.106/4) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 63](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/63)
+[^c-c92cfd1e9b78cea378abdcb2a896ce80]: Textual amendment: Words in [rule 4.106(4)](https://www.legislation.gov.uk/uksi/1986/1925/article/4.106/4) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 63](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/63)

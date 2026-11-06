@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 295A. Notification of decision under section 293 or 295[^key-431a282781c30e45a31426b956b01b8e]
+## 295A. Notification of decision under section 293 or 295[^c-431a282781c30e45a31426b956b01b8e]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-431a282781c30e45a31426b956b01b8e]: Textual amendment: [S. 295A](https://www.legislation.gov.uk/asp/2003/13/section/295A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 19](https://www.legislation.gov.uk/asp/2015/9/section/19), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2017/197/article/10))
+[^c-431a282781c30e45a31426b956b01b8e]: Textual amendment: [S. 295A](https://www.legislation.gov.uk/asp/2003/13/section/295A) inserted (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 19](https://www.legislation.gov.uk/asp/2015/9/section/19), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2017/197/article/10))

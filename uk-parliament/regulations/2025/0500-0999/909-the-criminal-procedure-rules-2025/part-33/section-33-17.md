@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.17. Application for variation of confiscation order made against an absconder[^key-ba5cba10ba1177678e8198b608e9cae4]
+## 33.17. Application for variation of confiscation order made against an absconder[^c-ba5cba10ba1177678e8198b608e9cae4]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba5cba10ba1177678e8198b608e9cae4]: Commencement: [Rule 33.17](https://www.legislation.gov.uk/uksi/2025/909/rule/33.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ba5cba10ba1177678e8198b608e9cae4]: Commencement: [Rule 33.17](https://www.legislation.gov.uk/uksi/2025/909/rule/33.17) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00807]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).

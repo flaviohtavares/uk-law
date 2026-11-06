@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Amendments consequential on sections 8 to 10[^key-713b7b88a4356408df84116b2cfad664]
+## 11. Amendments consequential on sections 8 to 10[^c-713b7b88a4356408df84116b2cfad664]
 
 *Extent: E+W*
 
@@ -28,12 +28,12 @@ summary: ''
 
 (4) In section 359(2)(a) (confidential information about waste contracts) after “section 67(1) or (2)” insert “ , 72(1), 73(1) or 127A(1) ”.
 
-(5)[^key-682179e68bbf5e37f61a4d37bd9824c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-682179e68bbf5e37f61a4d37bd9824c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 424(1) (interpretation), in the definition of “member of staff”, after “section 67(1) or (2)” insert “ , 72(1), 73(1) or 127A(1) ”.
 
 ## Annotations
 
-[^key-713b7b88a4356408df84116b2cfad664]: Commencement: S. 11 in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
+[^c-713b7b88a4356408df84116b2cfad664]: Commencement: S. 11 in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/113/article/2/a)
 
-[^key-682179e68bbf5e37f61a4d37bd9824c3]: Textual amendment: S. 11(5) repealed (1.10.2010) by Equality Act 2010 (c. 15) Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)); S.I. 2010/2317, art. 2
+[^c-682179e68bbf5e37f61a4d37bd9824c3]: Textual amendment: S. 11(5) repealed (1.10.2010) by Equality Act 2010 (c. 15) Sch. 27 Pt. 1 (as substituted by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2279/schedule/2)); S.I. 2010/2317, art. 2

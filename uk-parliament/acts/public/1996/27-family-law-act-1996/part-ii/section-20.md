@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Time when proceedings for divorce or separation begin.[^key-69388deffefd9ea71dc5ee56fc4c7e3e]
+## 20. Time when proceedings for divorce or separation begin.[^c-69388deffefd9ea71dc5ee56fc4c7e3e]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69388deffefd9ea71dc5ee56fc4c7e3e]: Textual amendment: Pt. II repealed (except for s. 22) (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/1), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)
+[^c-69388deffefd9ea71dc5ee56fc4c7e3e]: Textual amendment: Pt. II repealed (except for s. 22) (13.5.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 18(1)](https://www.legislation.gov.uk/ukpga/2014/6/section/18/1), [139(4)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133A. Supply of universal credit information[^key-1c761a9ed91b63ff20d937187c3ab341]
+## 133A. Supply of universal credit information[^c-1c761a9ed91b63ff20d937187c3ab341]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ for use in connection with obtaining a rent repayment order in respect of an awa
 
 ## Annotations
 
-[^key-1c761a9ed91b63ff20d937187c3ab341]: Textual amendment: [S. 133A](https://www.legislation.gov.uk/ukpga/1992/5/section/133A) and cross-heading inserted (26.11.2014 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [9(1)(a)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/9/1/a)[(b)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/9/1/b)
+[^c-1c761a9ed91b63ff20d937187c3ab341]: Textual amendment: [S. 133A](https://www.legislation.gov.uk/ukpga/1992/5/section/133A) and cross-heading inserted (26.11.2014 with effect in accordance with reg. 1(2) of the amending S.I.) by [The Universal Credit and Miscellaneous Amendments (No.2) Regulations 2014 (S.I. 2014/2888)](https://www.legislation.gov.uk/uksi/2014/2888), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/1/1), [9(1)(a)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/9/1/a)[(b)](https://www.legislation.gov.uk/uksi/2014/2888/regulation/9/1/b)

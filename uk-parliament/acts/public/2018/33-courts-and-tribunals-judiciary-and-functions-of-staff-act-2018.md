@@ -116,7 +116,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Functions of staff
 
-### 3. Authorised court and tribunal staff: legal advice and judicial functions[^key-5e1d6aee02713d5b29e02d7c6e83dd8e][^key-468737891af8b939fea405758f982946]
+### 3. Authorised court and tribunal staff: legal advice and judicial functions[^c-5e1d6aee02713d5b29e02d7c6e83dd8e][^c-468737891af8b939fea405758f982946]
 
 (1) The Schedule provides for authorised court and tribunal staff—
 
@@ -159,21 +159,21 @@ Section 3
 
 #### Criminal Justice Act 1972
 
-**1.**[^key-bafd98c7d8e9536e995e3fc2ae4d1450] In section 51 of the Criminal Justice Act 1972 (execution of process between England and Wales and Scotland), omit subsection (4).
+**1.**[^c-bafd98c7d8e9536e995e3fc2ae4d1450] In section 51 of the Criminal Justice Act 1972 (execution of process between England and Wales and Scotland), omit subsection (4).
 
 #### Solicitors Act 1974
 
-**2.**[^key-479d2e67cab975d5e477439ba73b5d5b] In section 3(1) of the Solicitors Act 1974 (admission as solicitor), omit the words from the beginning to “clerk),”.
+**2.**[^c-479d2e67cab975d5e477439ba73b5d5b] In section 3(1) of the Solicitors Act 1974 (admission as solicitor), omit the words from the beginning to “clerk),”.
 
 #### Bail Act 1976
 
-**3.**[^key-f706739a2c63ed3561f3963fdcbe3156] In section 8(4)(a) of the Bail Act 1976 (recognizance of surety), omit “, a justices' clerk”.
+**3.**[^c-f706739a2c63ed3561f3963fdcbe3156] In section 8(4)(a) of the Bail Act 1976 (recognizance of surety), omit “, a justices' clerk”.
 
 #### Magistrates' Courts Act 1980
 
-**4.**[^key-0639d0cf593d875218b95fabd913d0d2] The Magistrates' Courts Act 1980 is amended as follows.
+**4.**[^c-0639d0cf593d875218b95fabd913d0d2] The Magistrates' Courts Act 1980 is amended as follows.
 
-**5.**[^key-f70709db050472ce2d94e47f3324313a] (1) Section 12 (non-appearance of accused: plea of guilty) is amended as follows.
+**5.**[^c-f70709db050472ce2d94e47f3324313a] (1) Section 12 (non-appearance of accused: plea of guilty) is amended as follows.
 
 (2) In subsection (7), omit “by the clerk of the court”.
 
@@ -185,22 +185,22 @@ Section 3
 
 (4) In subsection (7A), omit “by the clerk of the court”.
 
-**6.**[^key-c3729dc58c32280a6517ab8b213fa44f] In section 77(6)(a) (postponement of issue of warrant: reference of application to court), omit “clerk of the”.
+**6.**[^c-c3729dc58c32280a6517ab8b213fa44f] In section 77(6)(a) (postponement of issue of warrant: reference of application to court), omit “clerk of the”.
 
-**7.**[^key-4bb921e6339c5e39162e22078ac27f5e] In section 114 (recognizances and fees on case stated)—
+**7.**[^c-4bb921e6339c5e39162e22078ac27f5e] In section 114 (recognizances and fees on case stated)—
 
 - (a) for “justices' clerk” substitute “ designated officer for the court ”, and
 - (b) omit “for the court”.
 
-**8.**[^key-cc3f136fe64b8a90a029ad3fe9897bfc] (1) Section 125C (disclosure of information for enforcing warrants) is amended as follows.
+**8.**[^c-cc3f136fe64b8a90a029ad3fe9897bfc] (1) Section 125C (disclosure of information for enforcing warrants) is amended as follows.
 
 (2) In subsection (1), omit “(or to a justices' clerk who is specified in the application)”.
 
 (3) In subsection (3)(c) omit “justices' clerk or other”.
 
-**9.**[^key-13809ca48bca38daf951a855e8fa26d9] In section 125CB(1)(c) (use of information supplied under disclosure order), omit “justices' clerk or other”.
+**9.**[^c-13809ca48bca38daf951a855e8fa26d9] In section 125CB(1)(c) (use of information supplied under disclosure order), omit “justices' clerk or other”.
 
-**10.**[^key-f49858882bc0f9c4de3688ad9fc863b9] In section 144 (rules of procedure), for subsections (1) and (1ZA) substitute—
+**10.**[^c-f49858882bc0f9c4de3688ad9fc863b9] In section 144 (rules of procedure), for subsections (1) and (1ZA) substitute—
 
 > (1) The Lord Chief Justice may, with the concurrence of the Lord Chancellor, make rules for regulating and prescribing, except in relation to any criminal cause or matter, the procedure and practice to be followed—
 >
@@ -209,15 +209,15 @@ Section 3
 
 #### Highways Act 1980
 
-**11.**[^key-a09af4deed9482cec01a201dc772b2b3] In section 116(9) of the Highways Act 1980 (power of magistrates' court to authorise stopping up or diversion of highway), for “justices' clerk” substitute “ designated officer for the court ”.
+**11.**[^c-a09af4deed9482cec01a201dc772b2b3] In section 116(9) of the Highways Act 1980 (power of magistrates' court to authorise stopping up or diversion of highway), for “justices' clerk” substitute “ designated officer for the court ”.
 
 #### Matrimonial and Family Proceedings Act 1984
 
-**12.**[^key-d93dcf251289cd15f0b18a52aa8ba0d6][^key-ac581d32418cecbd11553472c395d41e] The Matrimonial and Family Proceedings Act 1984 is amended as follows.
+**12.**[^c-d93dcf251289cd15f0b18a52aa8ba0d6][^c-ac581d32418cecbd11553472c395d41e] The Matrimonial and Family Proceedings Act 1984 is amended as follows.
 
-**13.**[^key-3fb775982d90334d65830b5ebaa68353] In section 31C(2) (precedent in the family court), for “justices' clerk or an assistant to a justices' clerk,” substitute “ person authorised under section 67B(2) of the Courts Act 2003, ”.
+**13.**[^c-3fb775982d90334d65830b5ebaa68353] In section 31C(2) (precedent in the family court), for “justices' clerk or an assistant to a justices' clerk,” substitute “ person authorised under section 67B(2) of the Courts Act 2003, ”.
 
-**14.**[^key-88ea66d8aabc84be653d3b534e1a9913][^key-1f3c82cfd015ead2f1aeebb80a0928cc] For section 31O substitute—
+**14.**[^c-88ea66d8aabc84be653d3b534e1a9913][^c-1f3c82cfd015ead2f1aeebb80a0928cc] For section 31O substitute—
 
 > **31O. Function of giving legal advice to judges**
 >
@@ -254,43 +254,43 @@ Section 3
 >
 > (8) In this section “**judicial office holder**” has the meaning given by section 109(4) of the Constitutional Reform Act 2005.
 
-**15.**[^key-df2c10c080371085798b706192c6d2e6][^key-0679891240dc20ab979f0199fa46de77] In section 31P (orders, regulations and rules), omit subsection (2).
+**15.**[^c-df2c10c080371085798b706192c6d2e6][^c-0679891240dc20ab979f0199fa46de77] In section 31P (orders, regulations and rules), omit subsection (2).
 
 #### Police and Criminal Evidence Act 1984
 
-**16.**[^key-6025d0151f5bb7b1ed360206ed333f32] Omit section 47A of the Police and Criminal Evidence Act 1984 (early administrative hearings conducted by justices' clerks).
+**16.**[^c-6025d0151f5bb7b1ed360206ed333f32] Omit section 47A of the Police and Criminal Evidence Act 1984 (early administrative hearings conducted by justices' clerks).
 
 #### Criminal Justice Act 1991
 
-**17.**[^key-b8451908bde8185600a26442d1c9d91f] In Schedule 3 to the Criminal Justice Act 1991 (reciprocal enforcement of certain orders), in paragraph 11(7)(b), for “clerk of” substitute “ designated officer for ”.
+**17.**[^c-b8451908bde8185600a26442d1c9d91f] In Schedule 3 to the Criminal Justice Act 1991 (reciprocal enforcement of certain orders), in paragraph 11(7)(b), for “clerk of” substitute “ designated officer for ”.
 
 #### Criminal Procedure (Scotland) Act 1995
 
-**18.**[^key-0c64bbeab16999bbdcaf7effe10a2ba2] In Schedule 13 (transfer of community payback orders), in paragraph 5(4)(a), omit “the clerk of”.
+**18.**[^c-0c64bbeab16999bbdcaf7effe10a2ba2] In Schedule 13 (transfer of community payback orders), in paragraph 5(4)(a), omit “the clerk of”.
 
 #### Civil Procedure Act 1997
 
-**19.**[^key-95fa74b83ee0e89d54d29cd8cf048035] In Schedule 1 to the Civil Procedure Act 1997 (civil procedure rules), omit paragraph 2.
+**19.**[^c-95fa74b83ee0e89d54d29cd8cf048035] In Schedule 1 to the Civil Procedure Act 1997 (civil procedure rules), omit paragraph 2.
 
 #### Crime and Disorder Act 1998
 
-**20.**[^key-651995b4bf58377c8b80d6b67704b7a2] The Crime and Disorder Act 1998 is amended as follows.
+**20.**[^c-651995b4bf58377c8b80d6b67704b7a2] The Crime and Disorder Act 1998 is amended as follows.
 
-**21.**[^key-406414f2e495d7e4276eabba519a6cc5] In section 49 (powers of magistrates' courts exercisable by single justice), omit subsections (2) to (5).
+**21.**[^c-406414f2e495d7e4276eabba519a6cc5] In section 49 (powers of magistrates' courts exercisable by single justice), omit subsections (2) to (5).
 
-**22.**[^key-7e22d66a5bf10a895e83b700711704ae] In section 50 (early administrative hearings), in subsection (4), for the words from the beginning to “such a clerk” substitute “ Where the powers of a single justice are exercised by a person authorised under section 67B(2) of the Courts Act 2003, nothing in subsection (3)(b) above authorises the person ”.
+**22.**[^c-7e22d66a5bf10a895e83b700711704ae] In section 50 (early administrative hearings), in subsection (4), for the words from the beginning to “such a clerk” substitute “ Where the powers of a single justice are exercised by a person authorised under section 67B(2) of the Courts Act 2003, nothing in subsection (3)(b) above authorises the person ”.
 
-**23.**[^key-308626d48a60366a2218ef84fda3fbed] In Schedule 3 (procedure where persons are sent for trial under section 51), in paragraph 6(9)(a), omit “the clerk of”.
+**23.**[^c-308626d48a60366a2218ef84fda3fbed] In Schedule 3 (procedure where persons are sent for trial under section 51), in paragraph 6(9)(a), omit “the clerk of”.
 
 #### Licensing Act 2003
 
-**24.**[^key-4bd1a32b635cc29774dd02a8fbec86bb] In section 131 of the Licensing Act 2003 (court's duty to notify licensing authority of convictions), in subsection (5)(a), for “clerk of” substitute “ designated officer for ”.
+**24.**[^c-4bd1a32b635cc29774dd02a8fbec86bb] In section 131 of the Licensing Act 2003 (court's duty to notify licensing authority of convictions), in subsection (5)(a), for “clerk of” substitute “ designated officer for ”.
 
 #### Courts Act 2003
 
-**25.**[^key-78de104c6a6e73572ee7d2fbffbea253][^key-afac4941322bed29108a4a145b452f03] The Courts Act 2003 is amended as follows.
+**25.**[^c-78de104c6a6e73572ee7d2fbffbea253][^c-afac4941322bed29108a4a145b452f03] The Courts Act 2003 is amended as follows.
 
-**26.**[^key-da385afa12ac6e344fe4b0660005403a][^key-2731aeb792699255e563ddf644b9bb64] For sections 27 to 29 substitute—
+**26.**[^c-da385afa12ac6e344fe4b0660005403a][^c-2731aeb792699255e563ddf644b9bb64] For sections 27 to 29 substitute—
 
 > **Legal advice**
 >
@@ -347,11 +347,11 @@ Section 3
 >
 > (5) In this section “**judicial office holder**” has the meaning given by section 109(4) of the Constitutional Reform Act 2005.
 
-**27.**[^key-a78712501d64f0142c683b04f40bfec3] In section 31 (immunity for acts within jurisdiction), omit subsection (2).
+**27.**[^c-a78712501d64f0142c683b04f40bfec3] In section 31 (immunity for acts within jurisdiction), omit subsection (2).
 
-**28.**[^key-0020edbf7a8e6419a5edee6e491ffccc] In section 32 (immunity for certain acts beyond jurisdiction), omit subsection (2).
+**28.**[^c-0020edbf7a8e6419a5edee6e491ffccc] In section 32 (immunity for certain acts beyond jurisdiction), omit subsection (2).
 
-**29.**[^key-8418c5fd435f68d324e0936dd01f0a5d] (1) Section 34 (costs in legal proceedings) is amended as follows.
+**29.**[^c-8418c5fd435f68d324e0936dd01f0a5d] (1) Section 34 (costs in legal proceedings) is amended as follows.
 
 (2) Omit subsection (2).
 
@@ -364,7 +364,7 @@ Section 3
 
 (5) In consequence of the preceding provisions of this paragraph, the Justices and Justices' Clerks (Costs) Regulations 2001 (S.I. 2001/1296) are revoked.
 
-**30.**[^key-c24b3c3695d00453c0fb5ee6226d6207] (1) Section 35 (indemnity) is amended as follows.
+**30.**[^c-c24b3c3695d00453c0fb5ee6226d6207] (1) Section 35 (indemnity) is amended as follows.
 
 (2) In subsection (1), omit “, justices' clerk or assistant clerk” (in both places).
 
@@ -372,12 +372,12 @@ Section 3
 
 (4) In subsection (4), omit “, justices' clerk or assistant clerk”.
 
-**31.**[^key-40569b55eae0056bd64d8435ca14db16] In section 37(2) (designated officers and magistrates' courts)—
+**31.**[^c-40569b55eae0056bd64d8435ca14db16] In section 37(2) (designated officers and magistrates' courts)—
 
 - (a) omit the “and” at the end of paragraph (a), and
 - (b) omit paragraph (b).
 
-**32.**[^key-b2d69244e7e9759203696b9873286bd1][^key-f00b08116be31d3625fd9acfb938439b] After Part 6 insert—
+**32.**[^c-b2d69244e7e9759203696b9873286bd1][^c-f00b08116be31d3625fd9acfb938439b] After Part 6 insert—
 
 > **PART 6A — Exercise of judicial functions by authorised persons**
 >
@@ -537,7 +537,7 @@ Section 3
 > - (a) is subject to such limitations (if any) as the Lord Chancellor thinks proper and to the subsequent determination of the costs reasonably incurred, and
 > - (b) does not affect any other determination which may fall to be made in connection with the proceedings or claim in question.
 
-**33.**[^key-1ff69e799f752cb0979f242025f6dbc2] (1) Section 70 (Criminal Procedure Rule Committee) is amended as follows.
+**33.**[^c-1ff69e799f752cb0979f242025f6dbc2] (1) Section 70 (Criminal Procedure Rule Committee) is amended as follows.
 
 (2) In subsection (2), for paragraph (f) substitute—
 
@@ -549,12 +549,12 @@ Section 3
 
 > (4A) A person falling within subsection (2)(f) exercising a function as a member of the Criminal Procedure Rule Committee is not subject to the direction of the Lord Chancellor or any other person when exercising the function.
 
-**34.**[^key-cc703c0de42c3d3dc9312827195e97f3] In section 76(2) (scope of Family Procedure Rules)—
+**34.**[^c-cc703c0de42c3d3dc9312827195e97f3] In section 76(2) (scope of Family Procedure Rules)—
 
 - (a) omit the “and” at the end of paragraph (a), and
 - (b) omit paragraph (aa).
 
-**35.**[^key-5f27afb3159111144524f91f0c25c1df] (1) Section 77 (membership of Family Procedure Rule Committee) is amended as follows.
+**35.**[^c-5f27afb3159111144524f91f0c25c1df] (1) Section 77 (membership of Family Procedure Rule Committee) is amended as follows.
 
 (2) In subsection (2), for paragraph (g) substitute—
 
@@ -566,23 +566,23 @@ Section 3
 
 > (5A) A person falling within subsection (2)(g) exercising a function as a member of the Family Procedure Rule Committee is not subject to the direction of the Lord Chancellor or any other person when exercising the function.
 
-**36.**[^key-8f39eb647c05dd0ec6e6723259133613][^key-7e807e6885d59559d380171287f4b22c] In section 108(3)(b) (orders and regulations subject to affirmative resolution procedure), after “34(5)” insert “ or 67F(4) ”.
+**36.**[^c-8f39eb647c05dd0ec6e6723259133613][^c-7e807e6885d59559d380171287f4b22c] In section 108(3)(b) (orders and regulations subject to affirmative resolution procedure), after “34(5)” insert “ or 67F(4) ”.
 
 #### Criminal Justice Act 2003
 
-**37.**[^key-1d0b8030136e9f191d184334f6cb7296] In section 305(1) of the Criminal Justice Act 2003 (interpretation of Part 12), in the definition of “the appropriate officer of the court”, for “clerk of” substitute “ designated officer for ”.
+**37.**[^c-1d0b8030136e9f191d184334f6cb7296] In section 305(1) of the Criminal Justice Act 2003 (interpretation of Part 12), in the definition of “the appropriate officer of the court”, for “clerk of” substitute “ designated officer for ”.
 
 #### Mental Capacity Act 2005
 
-**38.**[^key-5bdcb463ac374f0355061f7814665c37] In section 51(2) of the Mental Capacity Act 2005 (scope of Court of Protection Rules), omit paragraph (d).
+**38.**[^c-5bdcb463ac374f0355061f7814665c37] In section 51(2) of the Mental Capacity Act 2005 (scope of Court of Protection Rules), omit paragraph (d).
 
 ### PART 2 — Tribunals
 
 #### Tribunals, Courts and Enforcement Act 2007
 
-**39.**[^key-cd4eae6b0b8040f490e08d122db667d6][^key-238b4d945f40484208e6934b27afc305] The Tribunals, Courts and Enforcement Act 2007 is amended as follows.
+**39.**[^c-cd4eae6b0b8040f490e08d122db667d6][^c-238b4d945f40484208e6934b27afc305] The Tribunals, Courts and Enforcement Act 2007 is amended as follows.
 
-**40.**[^key-9f02d2de15af875eb3ff26d6e4d7c136] In section 8(2) (functions of Senior President of Tribunals excluded from general power to delegate), at the appropriate places insert—
+**40.**[^c-9f02d2de15af875eb3ff26d6e4d7c136] In section 8(2) (functions of Senior President of Tribunals excluded from general power to delegate), at the appropriate places insert—
 
 > section 29B;
 >
@@ -590,7 +590,7 @@ Section 3
 
 , and “ paragraph 3 of Schedule 5; ”.
 
-**41.**[^key-6bf650424ad50c2bd14ac55acc59e878][^key-8e8988e507a354ba0eb0f5dca905e3fd] After section 29 insert—
+**41.**[^c-6bf650424ad50c2bd14ac55acc59e878][^c-8e8988e507a354ba0eb0f5dca905e3fd] After section 29 insert—
 
 > **CHAPTER 2A — Exercise of tribunal functions by authorised persons**
 >
@@ -711,7 +711,7 @@ Section 3
 >
 > (7) In the application of this section to Scotland, references to costs are to be read as references to expenses.
 
-**42.**[^key-12474f2d2773c512f72a9fcef10dc50a][^key-56c96a445ae107b500eb395aaa27353c] (1) Section 49 (orders and regulations under Part 1: supplemental and procedural provisions) is amended as follows.
+**42.**[^c-12474f2d2773c512f72a9fcef10dc50a][^c-56c96a445ae107b500eb395aaa27353c] (1) Section 49 (orders and regulations under Part 1: supplemental and procedural provisions) is amended as follows.
 
 (2) In subsection (5), for the words from the beginning to “containing it” substitute “ None of the orders or regulations mentioned in subsection (6) may be made unless a draft of the statutory instrument containing the order or regulations ”.
 
@@ -724,9 +724,9 @@ Section 3
 
   .
 
-**43.**[^key-87458741707de381e0ae42c158a0ddf0][^key-1131c0a8ef790089446a50b39f1d3f74] Schedule 5 (Tribunal Procedure Rules) is amended as follows.
+**43.**[^c-87458741707de381e0ae42c158a0ddf0][^c-1131c0a8ef790089446a50b39f1d3f74] Schedule 5 (Tribunal Procedure Rules) is amended as follows.
 
-**44.**[^key-76d68acb8d1d7543b5df564e4000711e][^key-06d88e7c85a9d4bba800e0093d190a31] (1) Paragraph 3 is amended as follows.
+**44.**[^c-76d68acb8d1d7543b5df564e4000711e][^c-06d88e7c85a9d4bba800e0093d190a31] (1) Paragraph 3 is amended as follows.
 
 (2) In sub-paragraph (1), for “40(1)” substitute “ 2(1) of the Courts Act 2003 or section 40(1) of this Act ”.
 
@@ -765,7 +765,7 @@ Section 3
 >   - (b) any function of granting an injunction;
 > - “**judicial office holder**” has the meaning given by section 109(4) of the Constitutional Reform Act 2005.
 
-**45.**[^key-fa64988bb04b3bd7b30d3eec66b181b7][^key-1b09210fd027214b7998dbef5263720d] After paragraph 28 insert—
+**45.**[^c-fa64988bb04b3bd7b30d3eec66b181b7][^c-1b09210fd027214b7998dbef5263720d] After paragraph 28 insert—
 
 > **Delegation of functions to staff: reconsideration of decisions**
 >
@@ -784,122 +784,122 @@ Section 3
 
 ## Annotations
 
-[^key-5e1d6aee02713d5b29e02d7c6e83dd8e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/33/section/3) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/a)
+[^c-5e1d6aee02713d5b29e02d7c6e83dd8e]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/33/section/3) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/a)
 
-[^key-468737891af8b939fea405758f982946]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/33/section/3) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/a)
+[^c-468737891af8b939fea405758f982946]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2018/33/section/3) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/a)
 
-[^key-bafd98c7d8e9536e995e3fc2ae4d1450]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/1) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-bafd98c7d8e9536e995e3fc2ae4d1450]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/1) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-479d2e67cab975d5e477439ba73b5d5b]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/2) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-479d2e67cab975d5e477439ba73b5d5b]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/2) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-f706739a2c63ed3561f3963fdcbe3156]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/3) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-f706739a2c63ed3561f3963fdcbe3156]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/3) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-0639d0cf593d875218b95fabd913d0d2]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/4) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-0639d0cf593d875218b95fabd913d0d2]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/4) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-f70709db050472ce2d94e47f3324313a]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/5) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-f70709db050472ce2d94e47f3324313a]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/5) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-c3729dc58c32280a6517ab8b213fa44f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/6) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-c3729dc58c32280a6517ab8b213fa44f]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/6) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-4bb921e6339c5e39162e22078ac27f5e]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/7) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-4bb921e6339c5e39162e22078ac27f5e]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/7) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-cc3f136fe64b8a90a029ad3fe9897bfc]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/8) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-cc3f136fe64b8a90a029ad3fe9897bfc]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/8) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-13809ca48bca38daf951a855e8fa26d9]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/9) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-13809ca48bca38daf951a855e8fa26d9]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/9) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-f49858882bc0f9c4de3688ad9fc863b9]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/10) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-f49858882bc0f9c4de3688ad9fc863b9]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/10) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-a09af4deed9482cec01a201dc772b2b3]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/11) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-a09af4deed9482cec01a201dc772b2b3]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/11) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-d93dcf251289cd15f0b18a52aa8ba0d6]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/12) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/i)
+[^c-d93dcf251289cd15f0b18a52aa8ba0d6]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/12) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/i)
 
-[^key-ac581d32418cecbd11553472c395d41e]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/12) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-ac581d32418cecbd11553472c395d41e]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/12) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-3fb775982d90334d65830b5ebaa68353]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/13) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-3fb775982d90334d65830b5ebaa68353]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/13) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-88ea66d8aabc84be653d3b534e1a9913]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/14) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/i)
+[^c-88ea66d8aabc84be653d3b534e1a9913]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/14) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/i)
 
-[^key-1f3c82cfd015ead2f1aeebb80a0928cc]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/14) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-1f3c82cfd015ead2f1aeebb80a0928cc]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/14) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-df2c10c080371085798b706192c6d2e6]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/15) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/i)
+[^c-df2c10c080371085798b706192c6d2e6]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/15) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/i)
 
-[^key-0679891240dc20ab979f0199fa46de77]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/15) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-0679891240dc20ab979f0199fa46de77]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/15) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-6025d0151f5bb7b1ed360206ed333f32]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/16) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-6025d0151f5bb7b1ed360206ed333f32]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/16) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-b8451908bde8185600a26442d1c9d91f]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/17) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-b8451908bde8185600a26442d1c9d91f]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/17) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-0c64bbeab16999bbdcaf7effe10a2ba2]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/18) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-0c64bbeab16999bbdcaf7effe10a2ba2]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/18) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-95fa74b83ee0e89d54d29cd8cf048035]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/19) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-95fa74b83ee0e89d54d29cd8cf048035]: Commencement: [Sch. para. 19](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/19) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-651995b4bf58377c8b80d6b67704b7a2]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/20) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-651995b4bf58377c8b80d6b67704b7a2]: Commencement: [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/20) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-406414f2e495d7e4276eabba519a6cc5]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/21) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-406414f2e495d7e4276eabba519a6cc5]: Commencement: [Sch. para. 21](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/21) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-7e22d66a5bf10a895e83b700711704ae]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/22) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-7e22d66a5bf10a895e83b700711704ae]: Commencement: [Sch. para. 22](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/22) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-308626d48a60366a2218ef84fda3fbed]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/23) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-308626d48a60366a2218ef84fda3fbed]: Commencement: [Sch. para. 23](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/23) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-4bd1a32b635cc29774dd02a8fbec86bb]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/24) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-4bd1a32b635cc29774dd02a8fbec86bb]: Commencement: [Sch. para. 24](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/24) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-78de104c6a6e73572ee7d2fbffbea253]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/25) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(ii)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/ii/iii)
+[^c-78de104c6a6e73572ee7d2fbffbea253]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/25) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(ii)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/ii/iii)
 
-[^key-afac4941322bed29108a4a145b452f03]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/25) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-afac4941322bed29108a4a145b452f03]: Commencement: [Sch. para. 25](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/25) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-da385afa12ac6e344fe4b0660005403a]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/26) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/ii)
+[^c-da385afa12ac6e344fe4b0660005403a]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/26) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/ii)
 
-[^key-2731aeb792699255e563ddf644b9bb64]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/26) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-2731aeb792699255e563ddf644b9bb64]: Commencement: [Sch. para. 26](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/26) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-a78712501d64f0142c683b04f40bfec3]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/27) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-a78712501d64f0142c683b04f40bfec3]: Commencement: [Sch. para. 27](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/27) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-0020edbf7a8e6419a5edee6e491ffccc]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/28) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-0020edbf7a8e6419a5edee6e491ffccc]: Commencement: [Sch. para. 28](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/28) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-8418c5fd435f68d324e0936dd01f0a5d]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/29) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-8418c5fd435f68d324e0936dd01f0a5d]: Commencement: [Sch. para. 29](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/29) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-c24b3c3695d00453c0fb5ee6226d6207]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/30) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-c24b3c3695d00453c0fb5ee6226d6207]: Commencement: [Sch. para. 30](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/30) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-40569b55eae0056bd64d8435ca14db16]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/31) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-40569b55eae0056bd64d8435ca14db16]: Commencement: [Sch. para. 31](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/31) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-b2d69244e7e9759203696b9873286bd1]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/32) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iii)
+[^c-b2d69244e7e9759203696b9873286bd1]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/32) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iii)
 
-[^key-f00b08116be31d3625fd9acfb938439b]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/32) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-f00b08116be31d3625fd9acfb938439b]: Commencement: [Sch. para. 32](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/32) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-1ff69e799f752cb0979f242025f6dbc2]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/33) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-1ff69e799f752cb0979f242025f6dbc2]: Commencement: [Sch. para. 33](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/33) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-cc703c0de42c3d3dc9312827195e97f3]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/34) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-cc703c0de42c3d3dc9312827195e97f3]: Commencement: [Sch. para. 34](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/34) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-5f27afb3159111144524f91f0c25c1df]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/35) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-5f27afb3159111144524f91f0c25c1df]: Commencement: [Sch. para. 35](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/35) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-8f39eb647c05dd0ec6e6723259133613]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/36) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iii)
+[^c-8f39eb647c05dd0ec6e6723259133613]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/36) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iii)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iii)
 
-[^key-7e807e6885d59559d380171287f4b22c]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/36) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-7e807e6885d59559d380171287f4b22c]: Commencement: [Sch. para. 36](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/36) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-1d0b8030136e9f191d184334f6cb7296]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/37) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-1d0b8030136e9f191d184334f6cb7296]: Commencement: [Sch. para. 37](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/37) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-5bdcb463ac374f0355061f7814665c37]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/38) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-5bdcb463ac374f0355061f7814665c37]: Commencement: [Sch. para. 38](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/38) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-cd4eae6b0b8040f490e08d122db667d6]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/39) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
+[^c-cd4eae6b0b8040f490e08d122db667d6]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/39) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
 
-[^key-238b4d945f40484208e6934b27afc305]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/39) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-238b4d945f40484208e6934b27afc305]: Commencement: [Sch. para. 39](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/39) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-9f02d2de15af875eb3ff26d6e4d7c136]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/40) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-9f02d2de15af875eb3ff26d6e4d7c136]: Commencement: [Sch. para. 40](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/40) in force at 6.4.2020 by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-6bf650424ad50c2bd14ac55acc59e878]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/41) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
+[^c-6bf650424ad50c2bd14ac55acc59e878]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/41) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
 
-[^key-8e8988e507a354ba0eb0f5dca905e3fd]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/41) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-8e8988e507a354ba0eb0f5dca905e3fd]: Commencement: [Sch. para. 41](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/41) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-12474f2d2773c512f72a9fcef10dc50a]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/42) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
+[^c-12474f2d2773c512f72a9fcef10dc50a]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/42) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
 
-[^key-56c96a445ae107b500eb395aaa27353c]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/42) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-56c96a445ae107b500eb395aaa27353c]: Commencement: [Sch. para. 42](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/42) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-87458741707de381e0ae42c158a0ddf0]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/43) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
+[^c-87458741707de381e0ae42c158a0ddf0]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/43) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
 
-[^key-1131c0a8ef790089446a50b39f1d3f74]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/43) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-1131c0a8ef790089446a50b39f1d3f74]: Commencement: [Sch. para. 43](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/43) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-76d68acb8d1d7543b5df564e4000711e]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/44) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
+[^c-76d68acb8d1d7543b5df564e4000711e]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/44) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
 
-[^key-06d88e7c85a9d4bba800e0093d190a31]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/44) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-06d88e7c85a9d4bba800e0093d190a31]: Commencement: [Sch. para. 44](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/44) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-fa64988bb04b3bd7b30d3eec66b181b7]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/45) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
+[^c-fa64988bb04b3bd7b30d3eec66b181b7]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/45) in force at 10.1.2020 for specified purposes by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 2(b)(iv)](https://www.legislation.gov.uk/uksi/2020/24/regulation/2/b/iv)
 
-[^key-1b09210fd027214b7998dbef5263720d]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/45) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-1b09210fd027214b7998dbef5263720d]: Commencement: [Sch. para. 45](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/45) in force at 6.4.2020 in so far as not already in force by [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Validity of transactions[^key-06c6dc6ed7c04cfc03099d9bfd8dc086]
+## 33. Validity of transactions[^c-06c6dc6ed7c04cfc03099d9bfd8dc086]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06c6dc6ed7c04cfc03099d9bfd8dc086]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2004/20/section/33) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-06c6dc6ed7c04cfc03099d9bfd8dc086]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2004/20/section/33) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

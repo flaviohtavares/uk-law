@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Permission required where licence does not meet relevant minimum standards[^key-d949e295eb8f9d8e0bed0a4c3d11f7d7]
+## 41. Permission required where licence does not meet relevant minimum standards[^c-d949e295eb8f9d8e0bed0a4c3d11f7d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d949e295eb8f9d8e0bed0a4c3d11f7d7]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2015/870/article/41) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-d949e295eb8f9d8e0bed0a4c3d11f7d7]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2015/870/article/41) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

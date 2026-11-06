@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.156. Meetings of the committee[^key-c4e6456d9f82cf1b35ab033df8426e64]
+## 4.156. Meetings of the committee[^c-c4e6456d9f82cf1b35ab033df8426e64]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ Waiver may be signified either at or before the meeting.
 
 ## Annotations
 
-[^key-c4e6456d9f82cf1b35ab033df8426e64]: Commencement: [Rule 4.156](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.156) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-c4e6456d9f82cf1b35ab033df8426e64]: Commencement: [Rule 4.156](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.156) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

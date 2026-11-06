@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Attendance at meetings of building society’s personnel[^key-d69f5427f88fb283090cccb02e13d360]
+## 27. Attendance at meetings of building society’s personnel[^c-d69f5427f88fb283090cccb02e13d360]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.14 of the 1986 Rules.
 
 ## Annotations
 
-[^key-d69f5427f88fb283090cccb02e13d360]: Commencement: Rule 27 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-d69f5427f88fb283090cccb02e13d360]: Commencement: Rule 27 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

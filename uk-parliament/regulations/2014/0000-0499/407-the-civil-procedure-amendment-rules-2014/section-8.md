@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**8.**[^key-404f36d788631a0c542d3e3782e958d3] In Part 12—
+**8.**[^c-404f36d788631a0c542d3e3782e958d3] In Part 12—
 
 - (a) in the table of contents, for the entry for rule 12.5A substitute “County Court Money Claims”; and
 - (b) for rule 12.5A substitute—
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-404f36d788631a0c542d3e3782e958d3]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2014/407/rule/8) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-404f36d788631a0c542d3e3782e958d3]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2014/407/rule/8) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

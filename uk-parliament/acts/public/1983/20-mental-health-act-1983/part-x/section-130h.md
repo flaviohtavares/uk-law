@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130H. Independent mental health advocates for Wales: supplementary powers and duties[^key-46b5c501a0d3542ef243143655a3e407]
+## 130H. Independent mental health advocates for Wales: supplementary powers and duties[^c-46b5c501a0d3542ef243143655a3e407]
 
 *Extent: E+W*
 
@@ -61,7 +61,7 @@ summary: ''
 (7) In subsection (4) above–
 
 - (a) “**carer**”, in relation to a Welsh qualifying informal patient, means an individual who provides or intends to provide a substantial amount of care on a regular basis for the patient, but does not include any individual who provides, or intends to provide care by virtue of a contract of employment or other contract with any person or as a volunteer for a body (whether or not incorporated);
-- (b) “**registered social worker**” means a person included in the social worker part[^key-e2ba740ca0e06cf6497319f3fe97dd4d] [^key-7ff4f81f6a4d365dc5cc78a8d93ed9e5]... of the register kept under section 80(1) of the Regulation and Inspection of Social Care (Wales) Act 2016.
+- (b) “**registered social worker**” means a person included in the social worker part[^c-e2ba740ca0e06cf6497319f3fe97dd4d] [^c-7ff4f81f6a4d365dc5cc78a8d93ed9e5]... of the register kept under section 80(1) of the Regulation and Inspection of Social Care (Wales) Act 2016.
 
 (8) In subsections (2) to (4) above–
 
@@ -70,8 +70,8 @@ summary: ''
 
 ## Annotations
 
-[^key-46b5c501a0d3542ef243143655a3e407]: Textual amendment: S. 130H inserted (15.2.2011 for specified purposes, 3.1.2012 for specified purposes and 2.4.2012 in so far as not already in force) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 34](https://www.legislation.gov.uk/mwa/2010/7/section/34), [55(1)](https://www.legislation.gov.uk/mwa/2010/7/section/55/1), [(2)](https://www.legislation.gov.uk/mwa/2010/7/section/55/2); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [arts. 2(c)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/c), [3(c)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/c) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
+[^c-46b5c501a0d3542ef243143655a3e407]: Textual amendment: S. 130H inserted (15.2.2011 for specified purposes, 3.1.2012 for specified purposes and 2.4.2012 in so far as not already in force) by [Mental Health (Wales) Measure 2010 (nawm 7)](https://www.legislation.gov.uk/mwa/2010/7), [ss. 34](https://www.legislation.gov.uk/mwa/2010/7/section/34), [55(1)](https://www.legislation.gov.uk/mwa/2010/7/section/55/1), [(2)](https://www.legislation.gov.uk/mwa/2010/7/section/55/2); [S.I. 2011/3046](https://www.legislation.gov.uk/wsi/2011/3046), [arts. 2(c)](https://www.legislation.gov.uk/wsi/2011/3046/article/2/c), [3(c)](https://www.legislation.gov.uk/wsi/2011/3046/article/3/c) (with [art. 5](https://www.legislation.gov.uk/wsi/2011/3046/article/5))
 
-[^key-e2ba740ca0e06cf6497319f3fe97dd4d]: Textual amendment: Words in s. 130H(7)(b) substituted (3.4.2017) by Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2), s. 188(1), Sch. 3 para. 39 (as amended by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1), [144(2)](https://www.legislation.gov.uk/uksi/2016/1030/regulation/144/2) (with [reg. 155](https://www.legislation.gov.uk/uksi/2016/1030/regulation/155))); [S.I. 2017/309](https://www.legislation.gov.uk/uksi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/uksi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/uksi/2017/309/article/3), [4](https://www.legislation.gov.uk/uksi/2017/309/article/4) [Sch.](https://www.legislation.gov.uk/uksi/2017/309/schedule))
+[^c-e2ba740ca0e06cf6497319f3fe97dd4d]: Textual amendment: Words in s. 130H(7)(b) substituted (3.4.2017) by Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2), s. 188(1), Sch. 3 para. 39 (as amended by [S.I. 2016/1030](https://www.legislation.gov.uk/uksi/2016/1030), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1), [144(2)](https://www.legislation.gov.uk/uksi/2016/1030/regulation/144/2) (with [reg. 155](https://www.legislation.gov.uk/uksi/2016/1030/regulation/155))); [S.I. 2017/309](https://www.legislation.gov.uk/uksi/2017/309), [art. 2(j)](https://www.legislation.gov.uk/uksi/2017/309/article/2/j) (with [arts. 3](https://www.legislation.gov.uk/uksi/2017/309/article/3), [4](https://www.legislation.gov.uk/uksi/2017/309/article/4) [Sch.](https://www.legislation.gov.uk/uksi/2017/309/schedule))
 
-[^key-7ff4f81f6a4d365dc5cc78a8d93ed9e5]: Textual amendment: Words in s. 130H(7)(b) omitted (31.12.2020) by virtue of [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761)](https://www.legislation.gov.uk/wsi/2019/761), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/761/regulation/1/2), [15](https://www.legislation.gov.uk/wsi/2019/761/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ff4f81f6a4d365dc5cc78a8d93ed9e5]: Textual amendment: Words in s. 130H(7)(b) omitted (31.12.2020) by virtue of [The Regulation and Inspection of Social Care (Qualifications) (Wales) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/761)](https://www.legislation.gov.uk/wsi/2019/761), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/761/regulation/1/2), [15](https://www.legislation.gov.uk/wsi/2019/761/regulation/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

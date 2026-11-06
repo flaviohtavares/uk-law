@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Confirmation decisions: children’s access assessments[^key-dfdbcf691b3844daeb6e0198d921fbfe][^key-067ac3d7d4b0fc24a352d6ea73019f6f]
+## 135. Confirmation decisions: children’s access assessments[^c-dfdbcf691b3844daeb6e0198d921fbfe][^c-067ac3d7d4b0fc24a352d6ea73019f6f]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dfdbcf691b3844daeb6e0198d921fbfe]: Commencement: S. 135 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-dfdbcf691b3844daeb6e0198d921fbfe]: Commencement: S. 135 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-067ac3d7d4b0fc24a352d6ea73019f6f]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2023/50/section/135) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-067ac3d7d4b0fc24a352d6ea73019f6f]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2023/50/section/135) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

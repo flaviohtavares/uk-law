@@ -35,30 +35,30 @@ establishing the European Statistical Governance Advisory Board
 
 (Text with EEA relevance) (revoked)
 
-[^key-8daa00c02f9aff5c18acc5a1da1bbcd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8daa00c02f9aff5c18acc5a1da1bbcd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Advisory Board[^key-8daa00c02f9aff5c18acc5a1da1bbcd7]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Tasks[^key-8daa00c02f9aff5c18acc5a1da1bbcd7]
+## Article 1. Advisory Board[^c-8daa00c02f9aff5c18acc5a1da1bbcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Membership of the Board[^key-8daa00c02f9aff5c18acc5a1da1bbcd7]
+## Article 2. Tasks[^c-8daa00c02f9aff5c18acc5a1da1bbcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Proceedings[^key-8daa00c02f9aff5c18acc5a1da1bbcd7]
+## Article 3. Membership of the Board[^c-8daa00c02f9aff5c18acc5a1da1bbcd7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-8daa00c02f9aff5c18acc5a1da1bbcd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 4. Proceedings[^c-8daa00c02f9aff5c18acc5a1da1bbcd7]
 
-**Article 6.**[^key-8daa00c02f9aff5c18acc5a1da1bbcd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8daa00c02f9aff5c18acc5a1da1bbcd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-8daa00c02f9aff5c18acc5a1da1bbcd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**Article 6.**[^c-8daa00c02f9aff5c18acc5a1da1bbcd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-8daa00c02f9aff5c18acc5a1da1bbcd7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8daa00c02f9aff5c18acc5a1da1bbcd7]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 118](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/118); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8daa00c02f9aff5c18acc5a1da1bbcd7]: Textual amendment: Decision revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 118](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/118); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

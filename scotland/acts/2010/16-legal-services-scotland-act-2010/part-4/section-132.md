@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 132. Council membership[^key-11d31d3dfa6ddcf86df5330e112356d7]
+## 132. Council membership[^c-11d31d3dfa6ddcf86df5330e112356d7]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11d31d3dfa6ddcf86df5330e112356d7]: Commencement: [S. 132](https://www.legislation.gov.uk/asp/2010/16/section/132) in force at 30.6.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 6](https://www.legislation.gov.uk/ssi/2011/180/article/6)
+[^c-11d31d3dfa6ddcf86df5330e112356d7]: Commencement: [S. 132](https://www.legislation.gov.uk/asp/2010/16/section/132) in force at 30.6.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 6](https://www.legislation.gov.uk/ssi/2011/180/article/6)

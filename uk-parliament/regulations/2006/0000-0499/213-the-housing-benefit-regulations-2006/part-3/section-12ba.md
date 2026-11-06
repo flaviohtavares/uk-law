@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12BA. Eligible rent and maximum rent (social sector)[^key-69b4253dbeee726a864a23e756d99167][^key-5f0fe6118893e66ca6bd6a4b03141f76]
+## 12BA. Eligible rent and maximum rent (social sector)[^c-69b4253dbeee726a864a23e756d99167][^c-5f0fe6118893e66ca6bd6a4b03141f76]
 
 *Extent: E+W+S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 where that eligible rent is more than the eligible rent determined in accordance with paragraph (2).
 
-(4) For the purpose of paragraph (3), a claimant is treated as occupying the dwelling if paragraph (13) of regulation 7 (circumstances in which a person is or is not to be treated as occupying a dwelling as his home) is satisfied and for that purpose paragraph (13) shall have effect as if sub-paragraph (b) of that paragraph were omitted. *(affected by repeal, see note)*[^key-5aa15a30356341708fa05a93fc677708]
+(4) For the purpose of paragraph (3), a claimant is treated as occupying the dwelling if paragraph (13) of regulation 7 (circumstances in which a person is or is not to be treated as occupying a dwelling as his home) is satisfied and for that purpose paragraph (13) shall have effect as if sub-paragraph (b) of that paragraph were omitted. *(affected by repeal, see note)*[^c-5aa15a30356341708fa05a93fc677708]
 
 For the purpose of paragraph (3), a claimant is treated as occupying the dwelling if—
 
@@ -60,8 +60,8 @@ For the purpose of paragraph (3), a claimant is treated as occupying the dwellin
 
 ## Annotations
 
-[^key-69b4253dbeee726a864a23e756d99167]: Textual amendment: Reg. 12BA inserted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/5/5)
+[^c-69b4253dbeee726a864a23e756d99167]: Textual amendment: Reg. 12BA inserted (1.4.2013) by [The Housing Benefit (Amendment) Regulations 2012 (S.I. 2012/3040)](https://www.legislation.gov.uk/uksi/2012/3040), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2012/3040/regulation/5/5)
 
-[^key-5f0fe6118893e66ca6bd6a4b03141f76]: Textual amendment: Regs. 12B-12D inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2868/regulation/5) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
+[^c-5f0fe6118893e66ca6bd6a4b03141f76]: Textual amendment: Regs. 12B-12D inserted (7.4.2008) by [The Housing Benefit (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2868)](https://www.legislation.gov.uk/uksi/2007/2868), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2868/regulation/5) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2007/2868/regulation/1/6))
 
-[^key-5aa15a30356341708fa05a93fc677708]: Textual amendment: Reg. 12BA(4) substituted (28.7.2016) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations 2016 (S.I. 2016/624)](https://www.legislation.gov.uk/uksi/2016/624), [regs. 1](https://www.legislation.gov.uk/uksi/2016/624/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/624/regulation/2/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/2))
+[^c-5aa15a30356341708fa05a93fc677708]: Textual amendment: Reg. 12BA(4) substituted (28.7.2016) by [The Housing Benefit and State Pension Credit (Temporary Absence) (Amendment) Regulations 2016 (S.I. 2016/624)](https://www.legislation.gov.uk/uksi/2016/624), [regs. 1](https://www.legislation.gov.uk/uksi/2016/624/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2016/624/regulation/2/3) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/1)[(2)](https://www.legislation.gov.uk/uksi/2016/624/regulation/5/2))

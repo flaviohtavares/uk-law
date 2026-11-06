@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 62. Treatment of fee loans[^key-714a4a17e52ae8cfa157795c83f48cbb]
+## 62. Treatment of fee loans[^c-714a4a17e52ae8cfa157795c83f48cbb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ A loan for fees, known as a fee loan or a fee contribution loan, made pursuant t
 
 ## Annotations
 
-[^key-714a4a17e52ae8cfa157795c83f48cbb]: Commencement: [Reg. 62](https://www.legislation.gov.uk/nisr/2006/405/regulation/62) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-714a4a17e52ae8cfa157795c83f48cbb]: Commencement: [Reg. 62](https://www.legislation.gov.uk/nisr/2006/405/regulation/62) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)

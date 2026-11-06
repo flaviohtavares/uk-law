@@ -33,42 +33,42 @@ of 14 May 2019
 
 on the position to be taken on behalf of the European Union in the General Fisheries Commission for the Mediterranean (GFCM), and repealing the Decision of 19 May 2014 on the position to be adopted, on behalf of the Union, in the GFCM (revoked)
 
-[^key-b260a19e2ec512f24a092ff6a6b42f6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b260a19e2ec512f24a092ff6a6b42f6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-b260a19e2ec512f24a092ff6a6b42f6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-b260a19e2ec512f24a092ff6a6b42f6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-b260a19e2ec512f24a092ff6a6b42f6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-b260a19e2ec512f24a092ff6a6b42f6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-b260a19e2ec512f24a092ff6a6b42f6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-b260a19e2ec512f24a092ff6a6b42f6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-b260a19e2ec512f24a092ff6a6b42f6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-b260a19e2ec512f24a092ff6a6b42f6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-b260a19e2ec512f24a092ff6a6b42f6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-b260a19e2ec512f24a092ff6a6b42f6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b260a19e2ec512f24a092ff6a6b42f6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b260a19e2ec512f24a092ff6a6b42f6e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — The position to be taken on the Union's behalf in the General Fisheries Commission for the Mediterranean (GFCM)[^key-b260a19e2ec512f24a092ff6a6b42f6e]
+## ANNEX I — The position to be taken on the Union's behalf in the General Fisheries Commission for the Mediterranean (GFCM)[^c-b260a19e2ec512f24a092ff6a6b42f6e]
 
-[^key-b260a19e2ec512f24a092ff6a6b42f6e]1.
+[^c-b260a19e2ec512f24a092ff6a6b42f6e]1.
 
 PRINCIPLES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b260a19e2ec512f24a092ff6a6b42f6e]2.
+[^c-b260a19e2ec512f24a092ff6a6b42f6e]2.
 
 ORIENTATIONS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Year to year specification of the Union's position to be taken at meetings of the General Fisheries Commission for the Mediterranean[^key-b260a19e2ec512f24a092ff6a6b42f6e]
+## ANNEX II — Year to year specification of the Union's position to be taken at meetings of the General Fisheries Commission for the Mediterranean[^c-b260a19e2ec512f24a092ff6a6b42f6e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b260a19e2ec512f24a092ff6a6b42f6e]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-b260a19e2ec512f24a092ff6a6b42f6e]: Textual amendment: Decision revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

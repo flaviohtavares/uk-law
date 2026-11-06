@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 237. Record of examination[^key-41f56e9bbba8551f0bae53b46e278b0a]
+## 237. Record of examination[^c-41f56e9bbba8551f0bae53b46e278b0a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 9.5 of the 1986 Rules.
 
 ## Annotations
 
-[^key-41f56e9bbba8551f0bae53b46e278b0a]: Commencement: Rule 237 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-41f56e9bbba8551f0bae53b46e278b0a]: Commencement: Rule 237 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

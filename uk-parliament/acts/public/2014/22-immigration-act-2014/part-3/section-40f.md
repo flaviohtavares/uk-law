@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40F. Freezing orders: code of practice[^key-3eddd31660459429d2301939594a7596]
+## 40F. Freezing orders: code of practice[^c-3eddd31660459429d2301939594a7596]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3eddd31660459429d2301939594a7596]: Textual amendment: [Ss. 40A-40H](https://www.legislation.gov.uk/ukpga/2014/22/section/40A) inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/2); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d); [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
+[^c-3eddd31660459429d2301939594a7596]: Textual amendment: [Ss. 40A-40H](https://www.legislation.gov.uk/ukpga/2014/22/section/40A) inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/2); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d); [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)

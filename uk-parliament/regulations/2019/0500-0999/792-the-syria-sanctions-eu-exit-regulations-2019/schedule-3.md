@@ -24,7 +24,7 @@ Regulation 25(1)
 
 ### PART 1 — Certain dual-use goods and dual-use technology
 
-#### 1. Dual-use goods[^key-64eca2e387c82889c6f1a9ff84c7128e]
+#### 1. Dual-use goods[^c-64eca2e387c82889c6f1a9ff84c7128e]
 
 Any thing which is specified in or by the following Dual-Use Codes—
 
@@ -40,7 +40,7 @@ Any thing which is specified in or by the following Dual-Use Codes—
 - (j) 9A012;
 - (k) 9A350.
 
-#### 2. Software[^key-9473f4084928addd8ad9de220d4c92b1]
+#### 2. Software[^c-9473f4084928addd8ad9de220d4c92b1]
 
 Any software which is specified in or by the following Dual-Use Codes—
 
@@ -49,7 +49,7 @@ Any software which is specified in or by the following Dual-Use Codes—
 - (c) 9D001, provided that it is specially designed or modified for the development of any goods or technology specified in or by Dual-Use Code 9A012 (paragraph 1(j));
 - (d) 9D002, provided that it is specially designed or modified for the production of any thing specified in or by Dual-Use Code 9A012 (paragraph 1(j)).
 
-#### 3. Technology[^key-a0a89833862f18a2788d2af8eaaf661d]
+#### 3. Technology[^c-a0a89833862f18a2788d2af8eaaf661d]
 
 (1) Any technology which is specified in or by the following Dual-Use Codes—
 
@@ -78,11 +78,11 @@ Any software which is specified in or by the following Dual-Use Codes—
 
 ### PART 2 — Weapons-related chemicals and technology
 
-#### 4. Chemicals[^key-3da46d13ebd6d7b531ec0faab60a22eb]
+#### 4. Chemicals[^c-3da46d13ebd6d7b531ec0faab60a22eb]
 
 Any of the following chemicals at 95% concentration or greater—
 
-- (a) Aluminium chloride (CAS No[^key-7b0ce04e971ffb6b62765dbc0a862740] 7446-70-0);
+- (a) Aluminium chloride (CAS No[^c-7b0ce04e971ffb6b62765dbc0a862740] 7446-70-0);
 - (b) Arsenic (CAS No 7440-38-2);
 - (c) Arsenic trioxide (CAS No 1327-53-3);
 - (d) Bis(2-chloroethyl)ethylamine hydrochloride (CAS No 3590-07-6);
@@ -92,13 +92,13 @@ Any of the following chemicals at 95% concentration or greater—
 - (h) Nitromethane (CAS No 75-52-5);
 - (i) Tris(2-chloroethyl)amine hydrochloride (CAS No 817-09-4).
 
-#### 5. Software and technology[^key-edf291ecb4a3268335e975fb95806e7e]
+#### 5. Software and technology[^c-edf291ecb4a3268335e975fb95806e7e]
 
 Any technology or software required for the development, production or use of any of the chemicals listed in paragraph 4.
 
 ### PART 3 — Materials, other chemicals and related-technology
 
-#### 6. Chemicals[^key-45b22a14e0ea7a266b9aa6d101d7c68f]
+#### 6. Chemicals[^c-45b22a14e0ea7a266b9aa6d101d7c68f]
 
 Any of the following chemicals at 95% concentration or greater—
 
@@ -136,7 +136,7 @@ Any of the following chemicals at 95% concentration or greater—
 - (ff) Triethylamine (CAS No 121-44-8);
 - (gg) Trimethylamine (CAS No 75-50-3).
 
-**7.**[^key-de0651e783881c8083979d07ed24d29a] Any of the following chemicals at 90% concentration or greater—
+**7.**[^c-de0651e783881c8083979d07ed24d29a] Any of the following chemicals at 90% concentration or greater—
 
 - (a) Acetone (CAS No 67-64-1);
 - (b) Acetylene (CAS No 74-86-2);
@@ -176,31 +176,31 @@ Any of the following chemicals at 95% concentration or greater—
 - (jj) Tri-isobutyl phosphite (CAS No 1606-96-8);
 - (kk) White/yellow phosphorus (CAS No 12185-10-3).
 
-#### 8. Materials[^key-096032606b72aed99fad4198a7392cbb]
+#### 8. Materials[^c-096032606b72aed99fad4198a7392cbb]
 
 Floor-mounted fume hoods (walk-in-style) with a minimum nominal width of 2.5 metres.
 
-**9.**[^key-7b4e84a75047108c38c2578f4530171e] Full face-mask air-purifying and air-supplying respirators, other than any thing which is specified in or by any of the following Dual-Use Codes—
+**9.**[^c-7b4e84a75047108c38c2578f4530171e] Full face-mask air-purifying and air-supplying respirators, other than any thing which is specified in or by any of the following Dual-Use Codes—
 
 - (a) 1A004;
 - (b) 2B352(f)(1).
 
-**10.**[^key-58db55a88b13781a75856eaaf83b0d02] Class ⅠⅠ biological safety cabinets or isolators with similar performance standards.
+**10.**[^c-58db55a88b13781a75856eaaf83b0d02] Class ⅠⅠ biological safety cabinets or isolators with similar performance standards.
 
-**11.**[^key-7c851e3cb828678551f97c0de3fafa1b] Batch centrifuges with a rotor capacity of 4 litres or greater, usable with biological materials.
+**11.**[^c-7c851e3cb828678551f97c0de3fafa1b] Batch centrifuges with a rotor capacity of 4 litres or greater, usable with biological materials.
 
-**12.**[^key-64f462ca5b8442f9938aecaf58e0922e] (1) Fermenters capable of cultivation of pathogenic micro-organisms or viruses or for toxic production, without the propagation of aerosols, having a capacity of 5 litres or more but less than 20 litres.
+**12.**[^c-64f462ca5b8442f9938aecaf58e0922e] (1) Fermenters capable of cultivation of pathogenic micro-organisms or viruses or for toxic production, without the propagation of aerosols, having a capacity of 5 litres or more but less than 20 litres.
 
 (2) For the purpose of sub-paragraph (1)—
 
 - “fermenters” include bioreactors, chemostats and continuous-flow systems;
 - “micro-organisms” has the same meaning that it has in the Dual-Use Regulation.
 
-**13.**[^key-4b958bc1d472cfb3d6375de764071b90] (1) Conventional or turbulent air-flow clean-air rooms and self-contained fan-HEPA or ULPA filter units that may be used for containment facilities at P3 or P4 (BSL 3, BSL 4, L3, L4) containment levels.
+**13.**[^c-4b958bc1d472cfb3d6375de764071b90] (1) Conventional or turbulent air-flow clean-air rooms and self-contained fan-HEPA or ULPA filter units that may be used for containment facilities at P3 or P4 (BSL 3, BSL 4, L3, L4) containment levels.
 
 (2) For the purpose of sub-paragraph (1), “P3 or P4 (BL3, BL4, L3, L4) containment levels” are the levels specified in the World Health Organisation Laboratory Biosafety manual [^c23698601].
 
-**14.**[^key-63baa2cd40c160acf51a7d57ab13da76] (1) Any of the following chemical manufacturing facilities, equipment and components, other than any thing which is specified in or by Dual-Use Code 2B350—
+**14.**[^c-63baa2cd40c160acf51a7d57ab13da76] (1) Any of the following chemical manufacturing facilities, equipment and components, other than any thing which is specified in or by Dual-Use Code 2B350—
 
 - (a) reaction vessels or reactors, with or without agitators, with total internal (geometric) volume greater than 0.1m<sup>3</sup> (100 litres) and less than 20m<sup>3</sup> (20,000 litres), provided that all surfaces that come in direct contact with the fluid being processed or contained is made from the relevant composition;
 - (b) agitators for use in reaction vessels or reactors specified in paragraph (a), provided that all surfaces that come in direct contact with the fluid being processed or contained is made from the relevant composition;
@@ -246,19 +246,19 @@ Floor-mounted fume hoods (walk-in-style) with a minimum nominal width of 2.5 met
 - (b) in the case of paragraph (g), do not determine the control status of the valve, and
 - (c) in the case of paragraph (j), do not determine the control status of the pump.
 
-**15.**[^key-b690c8a45881745bbc3a1711875bd883] (1) Subject to sub-paragraph (2), laboratory equipment for the analysis or detection of chemical substances, including any part or accessory for such equipment.
+**15.**[^c-b690c8a45881745bbc3a1711875bd883] (1) Subject to sub-paragraph (2), laboratory equipment for the analysis or detection of chemical substances, including any part or accessory for such equipment.
 
 (2) Sub-paragraph (1) does not apply to any equipment specially designed for medical use or any part or accessory for such equipment.
 
 (3) In this paragraph, the “analysis” of chemical substances can be using both destructive and non-destructive means.
 
-#### 16. Software and technology[^key-296e5b3d47f80b2908fc1d7a4d566d53]
+#### 16. Software and technology[^c-296e5b3d47f80b2908fc1d7a4d566d53]
 
 Any technology or software which is required to develop, produce or use any item mentioned in this Part.
 
 ### PART 4 — Rules for interpretation
 
-#### 17. Principal element[^key-bd07ae4069e8c2ad1a27a6d69eb90008]
+#### 17. Principal element[^c-bd07ae4069e8c2ad1a27a6d69eb90008]
 
 (1) Any item (“A”) not listed in any of paragraphs 2 to 12 is included in this Schedule if—
 
@@ -267,18 +267,18 @@ Any technology or software which is required to develop, produce or use any item
 
 (2) Whether an item is a principal element of any other item shall be determined having regard to quantity, value, technological know-how and any other relevant factors.
 
-#### 18. Definition of Dual-Use Codes[^key-31280146948785529aed4b72c105343a]
+#### 18. Definition of Dual-Use Codes[^c-31280146948785529aed4b72c105343a]
 
 For the purposes of this Schedule—
 
 - (a) a thing is specified in or by a Dual-Use Code if it would be specified in or by that code in accordance with the Dual-Use Regulation;
 - (b) a “**Dual Use Code**” means an alphanumeric code as it used in Annex Ⅰ of the Dual-Use Regulation.
 
-#### 19. Interpretation[^key-53be5114905453bc90be61ea54b87992]
+#### 19. Interpretation[^c-53be5114905453bc90be61ea54b87992]
 
 (1) In this Schedule, a reference to any item includes that item whether it is new or used.
 
-(2)[^key-db5c9e8e6eb98e27b9d9267a677f28b0] A reference in this Schedule to a “CAS No” followed by a numerical sequence is a reference to the CAS Registry Numbers (CAS numbers) assigned to chemicals by the Chemical Abstracts Service, a division of the American Chemical Society. In some instances chemicals are listed by name and CAS number. The list applies to chemicals of the same structural formula (including hydrates) regardless of name or CAS number. CAS numbers are shown to assist in identifying a particular chemical or mixture, irrespective of nomenclature. CAS numbers cannot be used as unique identifiers because some forms of the listed chemical have different CAS numbers, and mixtures containing a listed chemical may also have different CAS numbers.
+(2)[^c-db5c9e8e6eb98e27b9d9267a677f28b0] A reference in this Schedule to a “CAS No” followed by a numerical sequence is a reference to the CAS Registry Numbers (CAS numbers) assigned to chemicals by the Chemical Abstracts Service, a division of the American Chemical Society. In some instances chemicals are listed by name and CAS number. The list applies to chemicals of the same structural formula (including hydrates) regardless of name or CAS number. CAS numbers are shown to assist in identifying a particular chemical or mixture, irrespective of nomenclature. CAS numbers cannot be used as unique identifiers because some forms of the listed chemical have different CAS numbers, and mixtures containing a listed chemical may also have different CAS numbers.
 
 (3) For the purposes of this Schedule, the following terms have the meaning given to them in the Dual-Use Regulation—
 
@@ -290,46 +290,46 @@ For the purposes of this Schedule—
 
 ## Annotations
 
-[^key-64eca2e387c82889c6f1a9ff84c7128e]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-64eca2e387c82889c6f1a9ff84c7128e]: Commencement: Sch. 3 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-9473f4084928addd8ad9de220d4c92b1]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-9473f4084928addd8ad9de220d4c92b1]: Commencement: Sch. 3 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-a0a89833862f18a2788d2af8eaaf661d]: Commencement: Sch. 3 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-a0a89833862f18a2788d2af8eaaf661d]: Commencement: Sch. 3 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-3da46d13ebd6d7b531ec0faab60a22eb]: Commencement: Sch. 3 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3da46d13ebd6d7b531ec0faab60a22eb]: Commencement: Sch. 3 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-7b0ce04e971ffb6b62765dbc0a862740]: Textual amendment: Words in Sch. 3 substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [9(17)(a)](https://www.legislation.gov.uk/uksi/2020/590/regulation/9/17/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-7b0ce04e971ffb6b62765dbc0a862740]: Textual amendment: Words in Sch. 3 substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [9(17)(a)](https://www.legislation.gov.uk/uksi/2020/590/regulation/9/17/a); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
 
-[^key-edf291ecb4a3268335e975fb95806e7e]: Commencement: Sch. 3 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-edf291ecb4a3268335e975fb95806e7e]: Commencement: Sch. 3 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-45b22a14e0ea7a266b9aa6d101d7c68f]: Commencement: Sch. 3 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-45b22a14e0ea7a266b9aa6d101d7c68f]: Commencement: Sch. 3 para. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-de0651e783881c8083979d07ed24d29a]: Commencement: Sch. 3 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-de0651e783881c8083979d07ed24d29a]: Commencement: Sch. 3 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-096032606b72aed99fad4198a7392cbb]: Commencement: Sch. 3 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-096032606b72aed99fad4198a7392cbb]: Commencement: Sch. 3 para. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-7b4e84a75047108c38c2578f4530171e]: Commencement: Sch. 3 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-7b4e84a75047108c38c2578f4530171e]: Commencement: Sch. 3 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-58db55a88b13781a75856eaaf83b0d02]: Commencement: Sch. 3 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-58db55a88b13781a75856eaaf83b0d02]: Commencement: Sch. 3 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-7c851e3cb828678551f97c0de3fafa1b]: Commencement: Sch. 3 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-7c851e3cb828678551f97c0de3fafa1b]: Commencement: Sch. 3 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-64f462ca5b8442f9938aecaf58e0922e]: Commencement: Sch. 3 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-64f462ca5b8442f9938aecaf58e0922e]: Commencement: Sch. 3 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-4b958bc1d472cfb3d6375de764071b90]: Commencement: Sch. 3 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-4b958bc1d472cfb3d6375de764071b90]: Commencement: Sch. 3 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23698601]: Marginal citation: Third edition, Geneva 2004.
 
-[^key-63baa2cd40c160acf51a7d57ab13da76]: Commencement: Sch. 3 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-63baa2cd40c160acf51a7d57ab13da76]: Commencement: Sch. 3 para. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-b690c8a45881745bbc3a1711875bd883]: Commencement: Sch. 3 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-b690c8a45881745bbc3a1711875bd883]: Commencement: Sch. 3 para. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-296e5b3d47f80b2908fc1d7a4d566d53]: Commencement: Sch. 3 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-296e5b3d47f80b2908fc1d7a4d566d53]: Commencement: Sch. 3 para. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-bd07ae4069e8c2ad1a27a6d69eb90008]: Commencement: Sch. 3 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-bd07ae4069e8c2ad1a27a6d69eb90008]: Commencement: Sch. 3 para. 17 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-31280146948785529aed4b72c105343a]: Commencement: Sch. 3 para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-31280146948785529aed4b72c105343a]: Commencement: Sch. 3 para. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-53be5114905453bc90be61ea54b87992]: Commencement: Sch. 3 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-53be5114905453bc90be61ea54b87992]: Commencement: Sch. 3 para. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-db5c9e8e6eb98e27b9d9267a677f28b0]: Textual amendment: Sch. 3 para. 19(2) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [9(17)(b)](https://www.legislation.gov.uk/uksi/2020/590/regulation/9/17/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-db5c9e8e6eb98e27b9d9267a677f28b0]: Textual amendment: Sch. 3 para. 19(2) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [9(17)(b)](https://www.legislation.gov.uk/uksi/2020/590/regulation/9/17/b); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)

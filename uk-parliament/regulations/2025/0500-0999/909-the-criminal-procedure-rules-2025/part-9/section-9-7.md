@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.7. Sending for Crown Court trial[^key-b1f177e3c409bdc919e9299356b9a07b]
+## 9.7. Sending for Crown Court trial[^c-b1f177e3c409bdc919e9299356b9a07b]
 
 *Extent: E+W*
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b1f177e3c409bdc919e9299356b9a07b]: Commencement: [Rule 9.7](https://www.legislation.gov.uk/uksi/2025/909/rule/9.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-b1f177e3c409bdc919e9299356b9a07b]: Commencement: [Rule 9.7](https://www.legislation.gov.uk/uksi/2025/909/rule/9.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00273]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37); section 51 was substituted, and sections 51A and 51E inserted, by paragraphs 15 and 18 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44). Section 51 was amended by section 59 of, and paragraph 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4). Section 51A was amended by section 49 of, and paragraph 5 of Schedule 1 to, the Violent Crime Reduction Act [2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38) and paragraph 6 of Schedule 21 to the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10).
 

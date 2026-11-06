@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Effect of acquisition or disposal of affected land by responsible body[^key-44de0c1ed6820a7943a114b502a6fc92][^key-6b9126799cc59eff6b5fff12fc92210c]
+## 133. Effect of acquisition or disposal of affected land by responsible body[^c-44de0c1ed6820a7943a114b502a6fc92][^c-6b9126799cc59eff6b5fff12fc92210c]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ If the responsible body under a conservation covenant acquires an estate in land
 
 ## Annotations
 
-[^key-44de0c1ed6820a7943a114b502a6fc92]: Commencement: S. 133 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-44de0c1ed6820a7943a114b502a6fc92]: Commencement: S. 133 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-6b9126799cc59eff6b5fff12fc92210c]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2021/30/section/133) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-6b9126799cc59eff6b5fff12fc92210c]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2021/30/section/133) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

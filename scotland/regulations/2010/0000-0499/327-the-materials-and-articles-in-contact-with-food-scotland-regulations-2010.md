@@ -32,7 +32,7 @@ summary: ''
 
 Food
 
-The Materials and Articles in Contact with Food (Scotland) Regulations 2010 (revoked)[^key-fbbef343c14fa2b625ce41c140b16520]
+The Materials and Articles in Contact with Food (Scotland) Regulations 2010 (revoked)[^c-fbbef343c14fa2b625ce41c140b16520]
 
 Made
 
@@ -46,124 +46,124 @@ Coming into force
 
 20th October 2010
 
-[^key-fbbef343c14fa2b625ce41c140b16520]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbbef343c14fa2b625ce41c140b16520]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Preliminary[^key-fbbef343c14fa2b625ce41c140b16520]
+## PART 1 — Preliminary[^c-fbbef343c14fa2b625ce41c140b16520]
 
-### 1. Citation, commencement and extent[^key-fbbef343c14fa2b625ce41c140b16520]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-fbbef343c14fa2b625ce41c140b16520]
+### 1. Citation, commencement and extent[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Scope[^key-fbbef343c14fa2b625ce41c140b16520]
+### 2. Interpretation[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — General Requirements for Materials and Articles[^key-fbbef343c14fa2b625ce41c140b16520]
-
-### 4. Offences of contravening specified provisions of Regulation 1935/2004[^key-fbbef343c14fa2b625ce41c140b16520]
+### 3. Scope[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Offence of contravening Article 4 of Regulation 2023/2006[^key-fbbef343c14fa2b625ce41c140b16520]
+## PART 2 — General Requirements for Materials and Articles[^c-fbbef343c14fa2b625ce41c140b16520]
+
+### 4. Offences of contravening specified provisions of Regulation 1935/2004[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Offences of contravening specified provisions of Regulation 450/2009[^key-fbbef343c14fa2b625ce41c140b16520]
+### 5. Offence of contravening Article 4 of Regulation 2023/2006[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Competent authorities[^key-fbbef343c14fa2b625ce41c140b16520]
+### 6. Offences of contravening specified provisions of Regulation 450/2009[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Requirements for Vinyl Chloride[^key-fbbef343c14fa2b625ce41c140b16520]
-
-### 8. Limits and migration limits[^key-fbbef343c14fa2b625ce41c140b16520]
+### 7. Competent authorities[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Methods of analysis[^key-fbbef343c14fa2b625ce41c140b16520]
+## PART 3 — Requirements for Vinyl Chloride[^c-fbbef343c14fa2b625ce41c140b16520]
+
+### 8. Limits and migration limits[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Requirements for Regenerated Cellulose Film[^key-fbbef343c14fa2b625ce41c140b16520]
-
-### 10. Controls and limits[^key-fbbef343c14fa2b625ce41c140b16520]
+### 9. Methods of analysis[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Migration limits for regenerated cellulose film coated with plastics[^key-fbbef343c14fa2b625ce41c140b16520]
+## PART 4 — Requirements for Regenerated Cellulose Film[^c-fbbef343c14fa2b625ce41c140b16520]
+
+### 10. Controls and limits[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Saving provision and transitional defence[^key-fbbef343c14fa2b625ce41c140b16520]
+### 11. Migration limits for regenerated cellulose film coated with plastics[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — General[^key-fbbef343c14fa2b625ce41c140b16520]
-
-### 13. Offences and penalties[^key-fbbef343c14fa2b625ce41c140b16520]
+### 12. Saving provision and transitional defence[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Enforcement[^key-fbbef343c14fa2b625ce41c140b16520]
+## PART 5 — General[^c-fbbef343c14fa2b625ce41c140b16520]
+
+### 13. Offences and penalties[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Offences by corporate bodies or Scottish partnerships[^key-fbbef343c14fa2b625ce41c140b16520]
+### 14. Enforcement[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Offences due to the act or default of a third party[^key-fbbef343c14fa2b625ce41c140b16520]
+### 15. Offences by corporate bodies or Scottish partnerships[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Time limit for prosecutions[^key-fbbef343c14fa2b625ce41c140b16520]
+### 16. Offences due to the act or default of a third party[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. General defences[^key-fbbef343c14fa2b625ce41c140b16520]
+### 17. Time limit for prosecutions[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Procedure where a sample is to be analysed[^key-fbbef343c14fa2b625ce41c140b16520]
+### 18. General defences[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Secondary analysis by the Government Chemist[^key-fbbef343c14fa2b625ce41c140b16520]
+### 19. Procedure where a sample is to be analysed[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Application of various provisions of the Act[^key-fbbef343c14fa2b625ce41c140b16520]
+### 20. Secondary analysis by the Government Chemist[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Consequential amendment to the Food Safety (Sampling and Qualifications) Regulations 1990[^key-fbbef343c14fa2b625ce41c140b16520]
+### 21. Application of various provisions of the Act[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Consequential amendment to the 2009 Regulations[^key-fbbef343c14fa2b625ce41c140b16520]
+### 22. Consequential amendment to the Food Safety (Sampling and Qualifications) Regulations 1990[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Amendment to the Food Labelling Regulations 1996[^key-fbbef343c14fa2b625ce41c140b16520]
+### 23. Consequential amendment to the 2009 Regulations[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Revocations[^key-fbbef343c14fa2b625ce41c140b16520]
+### 24. Amendment to the Food Labelling Regulations 1996[^c-fbbef343c14fa2b625ce41c140b16520]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fbbef343c14fa2b625ce41c140b16520]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 25. Revocations[^c-fbbef343c14fa2b625ce41c140b16520]
 
-[^key-fbbef343c14fa2b625ce41c140b16520]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fbbef343c14fa2b625ce41c140b16520]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-fbbef343c14fa2b625ce41c140b16520]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fbbef343c14fa2b625ce41c140b16520]: Textual amendment: Regulations revoked (22.12.2012) by [The Materials and Articles in Contact with Food (Scotland) Regulations 2012 (S.S.I. 2012/318)](https://www.legislation.gov.uk/ssi/2012/318), [reg. 1](https://www.legislation.gov.uk/ssi/2012/318/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2012/318/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/318/regulation/3))
+[^c-fbbef343c14fa2b625ce41c140b16520]: Textual amendment: Regulations revoked (22.12.2012) by [The Materials and Articles in Contact with Food (Scotland) Regulations 2012 (S.S.I. 2012/318)](https://www.legislation.gov.uk/ssi/2012/318), [reg. 1](https://www.legislation.gov.uk/ssi/2012/318/regulation/1), [sch. 2](https://www.legislation.gov.uk/ssi/2012/318/schedule/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/318/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Detained children to be treated as looked after children[^key-24988c1f533e00d666107a03c5f67c19]
+## 17A. Detained children to be treated as looked after children[^c-24988c1f533e00d666107a03c5f67c19]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24988c1f533e00d666107a03c5f67c19]: Textual amendment: S. 17A inserted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 24(2)](https://www.legislation.gov.uk/asp/2024/5/section/24/2), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/h) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-24988c1f533e00d666107a03c5f67c19]: Textual amendment: S. 17A inserted (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [ss. 24(2)](https://www.legislation.gov.uk/asp/2024/5/section/24/2), [38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(h)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/h) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26.8. Taking of evidence by commissioner: conduct of commission[^key-34e71d52eab193de37dfcd2bbbda75c5]
+## 26.8. Taking of evidence by commissioner: conduct of commission[^c-34e71d52eab193de37dfcd2bbbda75c5]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34e71d52eab193de37dfcd2bbbda75c5]: Commencement: Para. 26.8 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-34e71d52eab193de37dfcd2bbbda75c5]: Commencement: Para. 26.8 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

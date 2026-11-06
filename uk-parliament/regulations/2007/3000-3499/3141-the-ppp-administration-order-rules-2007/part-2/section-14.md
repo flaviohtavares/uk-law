@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Discharge of PPP administration order[^key-7a8a4fd7da25eadcd85bd418f35a01da]
+## 14. Discharge of PPP administration order[^c-7a8a4fd7da25eadcd85bd418f35a01da]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the PPP administration order is discharged, the special PPP administrator 
 
 ## Annotations
 
-[^key-7a8a4fd7da25eadcd85bd418f35a01da]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2007/3141/rule/14) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-7a8a4fd7da25eadcd85bd418f35a01da]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2007/3141/rule/14) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

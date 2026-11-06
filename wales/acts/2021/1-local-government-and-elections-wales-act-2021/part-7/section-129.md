@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Conditions to be met before making restructuring regulations[^key-5c8c9f83a500c8050f5b8ce466fa6075]
+## 129. Conditions to be met before making restructuring regulations[^c-5c8c9f83a500c8050f5b8ce466fa6075]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ about the steps that the Welsh Ministers are considering taking as a consequence
 
 ## Annotations
 
-[^key-5c8c9f83a500c8050f5b8ce466fa6075]: Commencement: S. 129 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
+[^c-5c8c9f83a500c8050f5b8ce466fa6075]: Commencement: S. 129 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)

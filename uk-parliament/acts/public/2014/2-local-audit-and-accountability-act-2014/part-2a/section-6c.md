@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6C. Eligibility and regulation of registered providers[^key-dce2fcccd23494fb76c982d335eb4e31]
+## 6C. Eligibility and regulation of registered providers[^c-dce2fcccd23494fb76c982d335eb4e31]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dce2fcccd23494fb76c982d335eb4e31]: Textual amendment: Pt. 2A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 90(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/90/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-dce2fcccd23494fb76c982d335eb4e31]: Textual amendment: Pt. 2A inserted (29.4.2026 for specified purposes) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [ss. 90(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/90/1), [108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)

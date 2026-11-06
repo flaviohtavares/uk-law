@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 303. Code relating to provision for people with disabilities[^key-93587ce1b7b8d909532172c9180037fd][^key-b3e3556644fa682bd4c264c42f7788cc]
+## 303. Code relating to provision for people with disabilities[^c-93587ce1b7b8d909532172c9180037fd][^c-b3e3556644fa682bd4c264c42f7788cc]
 
 *Extent: E+W+S+N.I.*
 
 (1) It shall be the duty of OFCOM to draw up, and from time to time to review and revise, a code giving guidance as to—
 
-- (a) the extent to which the services to which this section applies should promote the understanding and enjoyment by people with disabilities, in particular[^key-25f0fbee4ef9eae5bb69d0420403abc4]—
+- (a) the extent to which the services to which this section applies should promote the understanding and enjoyment by people with disabilities, in particular[^c-25f0fbee4ef9eae5bb69d0420403abc4]—
   - (i) persons who are deaf or hard of hearing,
   - (ii) persons who are blind or partially-sighted, and
   - (iii) persons with a dual sensory impairment,
@@ -30,7 +30,7 @@ summary: ''
   of the programmes to be included in such services; and
 - (b) the means by which such understanding and enjoyment should be promoted.
 
-(1A)[^key-3e2f57b27896729f1d8624b986008bd2] The code must include provision—
+(1A)[^c-3e2f57b27896729f1d8624b986008bd2] The code must include provision—
 
 - (a) encouraging providers of services to which this section applies to develop accessibility action plans with a view to continuously and progressively making such services more accessible to people with disabilities;
 - (b) requiring such action plans to be notified to OFCOM;
@@ -85,7 +85,7 @@ as consists of programmes that are not excluded programmes must be accompanied b
 
 (12) This section applies to the following services—
 
-- (a) S4C Digital or any other television programme service provided by S4C[^key-15e118c339b31297bc75ae780b2f4169] for broadcasting in digital form so as to be available for reception by members of the public;
+- (a) S4C Digital or any other television programme service provided by S4C[^c-15e118c339b31297bc75ae780b2f4169] for broadcasting in digital form so as to be available for reception by members of the public;
 - (b) any licensed public service channel;
 - (c) a digital television programme service but not an electronic programme guide;
 - (d) a television licensable content service but not an electronic programme guide;
@@ -102,12 +102,12 @@ as consists of programmes that are not excluded programmes must be accompanied b
 
 ## Annotations
 
-[^key-93587ce1b7b8d909532172c9180037fd]: Commencement: S. 303 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-93587ce1b7b8d909532172c9180037fd]: Commencement: S. 303 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-b3e3556644fa682bd4c264c42f7788cc]: Textual amendment: Words in s. 303 heading substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/8/a) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-b3e3556644fa682bd4c264c42f7788cc]: Textual amendment: Words in s. 303 heading substituted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/8/a) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-25f0fbee4ef9eae5bb69d0420403abc4]: Textual amendment: Words in [s. 303(1)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/303/1/a) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/8/b) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-25f0fbee4ef9eae5bb69d0420403abc4]: Textual amendment: Words in [s. 303(1)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/303/1/a) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/8/b) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-3e2f57b27896729f1d8624b986008bd2]: Textual amendment: [S. 303(1A)](https://www.legislation.gov.uk/ukpga/2003/21/section/303/1A) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/8/c) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
+[^c-3e2f57b27896729f1d8624b986008bd2]: Textual amendment: [S. 303(1A)](https://www.legislation.gov.uk/ukpga/2003/21/section/303/1A) inserted (1.11.2020) by [The Audiovisual Media Services Regulations 2020 (S.I. 2020/1062)](https://www.legislation.gov.uk/uksi/2020/1062), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/1/2), [8(c)](https://www.legislation.gov.uk/uksi/2020/1062/regulation/8/c) (with [Pt. 7](https://www.legislation.gov.uk/uksi/2020/1062/part/7))
 
-[^key-15e118c339b31297bc75ae780b2f4169]: Textual amendment: Word in [s. 303(12)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/303/12/a) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/37); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)
+[^c-15e118c339b31297bc75ae780b2f4169]: Textual amendment: Word in [s. 303(12)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/303/12/a) substituted (23.8.2024) by [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(c)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/c), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2024/15/schedule/4/paragraph/37); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(x)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/x)

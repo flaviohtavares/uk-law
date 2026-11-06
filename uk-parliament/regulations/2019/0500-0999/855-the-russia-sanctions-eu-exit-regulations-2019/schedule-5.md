@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 64(2)
 
-### PART A1 — Interpretation[^key-71b20a415c69d0e438268539047a798d]
+### PART A1 — Interpretation[^c-71b20a415c69d0e438268539047a798d]
 
 #### A1. Interpretation of Schedule 5
 
@@ -30,27 +30,27 @@ In this Schedule—
 
 - “**consular post**” has the same meaning as in the Vienna Convention on Consular Relations done at Vienna on 24 April 1963[^M_F_777ce330-0f6f-49ec-e79c-dde5fd1c0eaf], and any reference to the functions of a consular post is to be read in accordance with that Convention;
 - “diplomatic mission” and any reference to the functions of a diplomatic mission are to be read in accordance with the Vienna Convention on Diplomatic Relations done at Vienna on 18 April 1961[^M_F_57adb271-3ad1-4d0b-9d77-23663132b7dd];
-- “[^key-f90072531aa3d08ab84f861668fadff4]**frozen account**” has the meaning given in regulation 58(7);
+- “[^c-f90072531aa3d08ab84f861668fadff4]**frozen account**” has the meaning given in regulation 58(7);
 - “**humanitarian assistance activity**” includes the work of international and non-governmental organisations carrying out relief activities for the benefit of the civilian population of a country;
 - “**medical goods**” includes medicines and medical devices;
-- “[^key-6fdc3d044bee94e900ead4fe75c0390f]**relevant financial authority**” means authorities involved in the regulation of financial services in the United Kingdom, including the Financial Conduct Authority, the Prudential Regulation Authority and the Bank of England;
+- “[^c-6fdc3d044bee94e900ead4fe75c0390f]**relevant financial authority**” means authorities involved in the regulation of financial services in the United Kingdom, including the Financial Conduct Authority, the Prudential Regulation Authority and the Bank of England;
 - “**relevant institution**” has the meaning given in regulation 58(7);
 - “**spaceflight activity**” has the meaning given in section 1(6) of the Space Industry Act 2018.
 
 ### PART 1 — Asset-freeze etc.
 
-#### 1. Interpretation of Part 1[^key-a19985e97f857b302918ef70519590ae][^key-d393a73cbaaa4dcd97cdcacca155fa73]
+#### 1. Interpretation of Part 1[^c-a19985e97f857b302918ef70519590ae][^c-d393a73cbaaa4dcd97cdcacca155fa73]
 
-(1)[^key-723c42a3b40afbb5e503d037430c9645] In this Part of this Schedule—
+(1)[^c-723c42a3b40afbb5e503d037430c9645] In this Part of this Schedule—
 
-- “**designated person**” has the same meaning as it has in Chapter 1 of Part 3 (Asset-freeze etc.[^key-4f100bc93317b8f0180335e24ba82877]);
-- “**frozen funds or economic resources**” means funds or economic resources frozen by virtue of regulation 11 [^key-86b37855f5d0add264f44db0d0f542bc]....
+- “**designated person**” has the same meaning as it has in Chapter 1 of Part 3 (Asset-freeze etc.[^c-4f100bc93317b8f0180335e24ba82877]);
+- “**frozen funds or economic resources**” means funds or economic resources frozen by virtue of regulation 11 [^c-86b37855f5d0add264f44db0d0f542bc]....
 
-(2)[^key-67b86c28eecef7731d27af316a0f4c61] For the purposes of this Part of this Schedule, references to a designated person are to be read as including a person (“**C**”) who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (“**P**”).
+(2)[^c-67b86c28eecef7731d27af316a0f4c61] For the purposes of this Part of this Schedule, references to a designated person are to be read as including a person (“**C**”) who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person (“**P**”).
 
 (3) When determining for the purposes of paragraph 8 when C became a designated person, C is to be treated as having become a designated person at the same time as P.
 
-#### 2. Basic needs[^key-b04958a57228a4dad91274fa56164c50]
+#### 2. Basic needs[^c-b04958a57228a4dad91274fa56164c50]
 
 (1) To enable the basic needs of a designated person, or (in the case of an individual) any dependent family member of such a person, to be met.
 
@@ -59,8 +59,8 @@ In this Schedule—
 - (a) medical needs;
 - (b) needs for—
   - (i) food;
-  - (ii) payment[^key-a29e46ea2bb1ddc5f524b913232e046b] of insurance premiums;
-  - (iii) payment[^key-853b4e2838921dbc46625c762830404a] of tax;
+  - (ii) payment[^c-a29e46ea2bb1ddc5f524b913232e046b] of insurance premiums;
+  - (iii) payment[^c-853b4e2838921dbc46625c762830404a] of tax;
   - (iv) rent or mortgage payments;
   - (v) utility payments.
 
@@ -83,14 +83,14 @@ In this Schedule—
   - (d) any child or other descendant of the designated person;
   - (e) any person who is a brother or sister of the designated person, or a child or other descendant of such a person.
 
-#### 3. Legal services[^key-438ea328abbc0df3d9ff8af440c1e22c]
+#### 3. Legal services[^c-438ea328abbc0df3d9ff8af440c1e22c]
 
 To enable the payment of—
 
 - (a) reasonable professional fees for the provision of legal services, or
 - (b) reasonable expenses associated with the provision of legal services.
 
-#### 4. Maintenance of frozen funds and economic resources[^key-2e45e9887540e118c0ba79c0f9e4ee29]
+#### 4. Maintenance of frozen funds and economic resources[^c-2e45e9887540e118c0ba79c0f9e4ee29]
 
 To enable the payment of—
 
@@ -99,35 +99,35 @@ To enable the payment of—
 
 arising from the routine holding or maintenance of frozen funds or economic resources.
 
-#### 5. Extraordinary expenses[^key-86b9f50db4467866c8f19a7b73ceedda]
+#### 5. Extraordinary expenses[^c-86b9f50db4467866c8f19a7b73ceedda]
 
 To enable an extraordinary expense of a designated person to be met.
 
-#### 6. Judicial decisions etc.[^key-ac0eedebf758298ca1508cd58915ce9f]
+#### 6. Judicial decisions etc.[^c-ac0eedebf758298ca1508cd58915ce9f]
 
 To enable the implementation or satisfaction (in whole or in part) of a judicial, administrative or arbitral decision or lien which is enforceable in the United Kingdom (the “judicial decision”), provided that—
 
 - (a) where funds or economic resources are made available to a designated person, they are credited to a frozen account or otherwise frozen by virtue of regulation 11;
 - (b) where funds or economic resources are made available by a person (including a designated person) to a designated person to enable the implementation or satisfaction of the judicial decision, no other designated person benefits, directly or indirectly.
 
-#### 7. Extraordinary situation[^key-163c2edd2de149361a6a47e8b58cf058]
+#### 7. Extraordinary situation[^c-163c2edd2de149361a6a47e8b58cf058]
 
 To enable anything to be done to deal with an extraordinary situation.
 
-#### 8. Prior obligations[^key-645c6f556cda59d05c3f96959fcca3b4]
+#### 8. Prior obligations[^c-645c6f556cda59d05c3f96959fcca3b4]
 
 To enable the satisfaction of an obligation of a designated person (whether arising under a contract, other agreement or otherwise), provided that—
 
 - (a) the obligation arose before the date on which the person became a designated person, and
 - (b) no payments are made to another designated person, whether directly or indirectly.
 
-#### 9. Consular posts[^key-c70fcc9f7826ad937e3d35e0cd6fe514]
+#### 9. Consular posts[^c-c70fcc9f7826ad937e3d35e0cd6fe514]
 
-(1) To enable anything to be done in order that the functions of a consular post in non-government controlled Ukrainian territory[^key-ee48a48426355422c86bf177251e090f], or of an international organisation enjoying immunities in accordance with international law, may be carried out.
+(1) To enable anything to be done in order that the functions of a consular post in non-government controlled Ukrainian territory[^c-ee48a48426355422c86bf177251e090f], or of an international organisation enjoying immunities in accordance with international law, may be carried out.
 
-(2)[^key-69d83b9eb3bfab77af94dc5618878432] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-69d83b9eb3bfab77af94dc5618878432] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9A. Humanitarian assistance activity[^key-4f71a96ac7cef9279268a2d57e8232a7]
+#### 9A. Humanitarian assistance activity[^c-4f71a96ac7cef9279268a2d57e8232a7]
 
 To enable anything to be done in connection with the performance of any humanitarian assistance activity.
 
@@ -147,17 +147,17 @@ To enable anything to be done in connection with the production or distribution 
 
 (2) To enable anything to be done in order that the functions of a diplomatic mission or consular post of Russia in the United Kingdom may be carried out.
 
-### PART 1ZA — Divestment etc.[^key-a2cccdabe008489470c380836048d21e]
+### PART 1ZA — Divestment etc.[^c-a2cccdabe008489470c380836048d21e]
 
 #### 9DA. Interpretation of Part 1ZA
 
 In this Part—
 
-- “[^key-55b6d8566301e5d976ccc6fefa5acca0]**designated person**” has the same meaning as it has in Chapter 1 of Part 3 (Finance);
+- “[^c-55b6d8566301e5d976ccc6fefa5acca0]**designated person**” has the same meaning as it has in Chapter 1 of Part 3 (Finance);
 - “**Government of Russia**” has the same meaning as in regulation 6;
 - “**non-UK country**” means a country that is not the United Kingdom;
 - “**non-UK credit or financial institution**” has the same meaning as in regulation 17A;
-- “**person concerned**” means the Government of Russia or, as the case may be, a designated person or a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person[^key-78bbbf453dc2e83fdaa58506f5dc4a61];
+- “**person concerned**” means the Government of Russia or, as the case may be, a designated person or a person who is owned or controlled directly or indirectly (within the meaning of regulation 7) by the designated person[^c-78bbbf453dc2e83fdaa58506f5dc4a61];
 - “**UK entity**” means a person, other than an individual, incorporated or constituted under the law of any part of the United Kingdom.
 
 #### 9DB. Divestment
@@ -200,7 +200,7 @@ In this Part—
     - (bb) exceptions corresponding to those in Part 7 of these Regulations; and
   - (ii) where relevant or appropriate, allows for licences to be granted on grounds corresponding to those in this Schedule.
 
-### Part 1ZB — Insolvency[^key-b21ca56fdbea9d16dfa09a8990fb4fdc]
+### Part 1ZB — Insolvency[^c-b21ca56fdbea9d16dfa09a8990fb4fdc]
 
 #### 9DD. Insolvency
 
@@ -271,7 +271,7 @@ To enable anything to be done in order for a United Kingdom person to undertake 
 
 To enable anything to be done to deal with an extraordinary situation.
 
-### PART 1B — Correspondent banking relationships and processing payments[^key-5b3e5cdd7b711a7028d71c435ceb91b6]
+### PART 1B — Correspondent banking relationships and processing payments[^c-5b3e5cdd7b711a7028d71c435ceb91b6]
 
 #### 9K. Interpretation of Part 1B
 
@@ -302,13 +302,13 @@ To enable the payment of—
 
 (1) To enable anything to be done by, or on behalf of, a relevant financial authority for the purposes of the functions of that authority.
 
-(2)[^key-e22bc3a5cb6beaef9734a58ecd9ed7ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e22bc3a5cb6beaef9734a58ecd9ed7ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 9O. Extraordinary situation
 
 To enable anything to be done to deal with an extraordinary situation.
 
-### PART 1C — Processing payments[^key-f05413eeb6158750d1a0015dfe016ae9]
+### PART 1C — Processing payments[^c-f05413eeb6158750d1a0015dfe016ae9]
 
 #### 9P. Humanitarian assistance activity
 
@@ -334,11 +334,11 @@ To enable anything to be done in connection with the production or distribution 
 
 To enable anything to be done in order for a United Kingdom person to undertake spaceflight activity.
 
-#### 9TA. Other licensing purposes[^key-3b8d58ee143d2fe3ea4656bf6df49803]
+#### 9TA. Other licensing purposes[^c-3b8d58ee143d2fe3ea4656bf6df49803]
 
 To enable anything to be done in connection with a licence which the Treasury has decided to issue for another purpose specified in this Schedule.
 
-### PART 1D — Foreign exchange reserve and asset management services[^key-f9e1ef3acdf67b39aaff17ad0ee55c12]
+### PART 1D — Foreign exchange reserve and asset management services[^c-f9e1ef3acdf67b39aaff17ad0ee55c12]
 
 #### 9U. Humanitarian assistance activity
 
@@ -348,7 +348,7 @@ To enable anything to be done in connection with the performance of any humanita
 
 (1) To enable anything to be done by, or on behalf of, a relevant financial authority for the purposes of the functions of that authority.
 
-(2)[^key-dab3615057e8d7fe8a038458369e541b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-dab3615057e8d7fe8a038458369e541b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 9W. Financial stability
 
@@ -362,28 +362,28 @@ To enable anything to be done by a person, following consultation by that person
 
 To enable anything to be done to deal with an extraordinary situation.
 
-### PART 2 — Investment in non-government controlled Ukrainian territory[^key-7b0c01489a5636569fd8b787bf1af19a]
+### PART 2 — Investment in non-government controlled Ukrainian territory[^c-7b0c01489a5636569fd8b787bf1af19a]
 
-#### 10. Consular posts[^key-f359b2b3a266210fccd4ee9053cca30f]
+#### 10. Consular posts[^c-f359b2b3a266210fccd4ee9053cca30f]
 
-(1) To enable anything to be done in order that the functions of a consular post in non-government controlled Ukrainian territory[^key-bf39482adf207d3c8f96a2df8c2de49c], or of an international organisation enjoying immunities in accordance with international law, may be carried out.
+(1) To enable anything to be done in order that the functions of a consular post in non-government controlled Ukrainian territory[^c-bf39482adf207d3c8f96a2df8c2de49c], or of an international organisation enjoying immunities in accordance with international law, may be carried out.
 
-(2)[^key-699af560c17dc72f934e34278ab46ac5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-699af560c17dc72f934e34278ab46ac5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Medical and educational purposes[^key-553d9599def05b5e36ea934eb1740186]
+#### 11. Medical and educational purposes[^c-553d9599def05b5e36ea934eb1740186]
 
 To enable the carrying out of projects exclusively in support of—
 
 - (a) hospitals, or other public health institutions providing medical services, or
-- (b) civilian education establishments, located in non-government controlled Ukrainian territory[^key-60ead6964c7f3f8fb9e5b6354585b61e].
+- (b) civilian education establishments, located in non-government controlled Ukrainian territory[^c-60ead6964c7f3f8fb9e5b6354585b61e].
 
-**12.**[^key-c47a5b20b6a2303a43fa3cb199e724f7] To enable anything to be done in relation to the provision or maintenance of appliances or equipment for medical use in non-government controlled Ukrainian territory[^key-33340598bed704b363fc2ccd0ef1809d].
+**12.**[^c-c47a5b20b6a2303a43fa3cb199e724f7] To enable anything to be done in relation to the provision or maintenance of appliances or equipment for medical use in non-government controlled Ukrainian territory[^c-33340598bed704b363fc2ccd0ef1809d].
 
-#### 13. Health and the environment[^key-65a1d7aee66bd1d37399915fa5377fbc]
+#### 13. Health and the environment[^c-65a1d7aee66bd1d37399915fa5377fbc]
 
 To enable anything to be done for the urgent prevention or mitigation of an event likely to have a serious and significant impact on human health or safety, infrastructure or the environment.
 
-### PART 3 — Investments in relation to Russia[^key-223ec38a25d8728dc9605aa044647d36]
+### PART 3 — Investments in relation to Russia[^c-223ec38a25d8728dc9605aa044647d36]
 
 #### 14. Extraordinary situation
 
@@ -417,7 +417,7 @@ To enable anything to be done by a person, following consultation by that person
 
 To enable anything to be done for a United Kingdom person to undertake spaceflight activity.
 
-### PART 3A — Trust services[^key-f738976dd6118ade92c9067e9605ff5a]
+### PART 3A — Trust services[^c-f738976dd6118ade92c9067e9605ff5a]
 
 #### 20A. Extraordinary situation
 
@@ -463,7 +463,7 @@ To enable anything to be done by a person, following consultation by that person
 
 (3) Terms used in this paragraph are to be construed in accordance with regulation 60ZZB.
 
-### PART 4 — Maritime transportation of certain oil and oil products[^key-a0b1c47ee5187355dc83fb7df8daa623]
+### PART 4 — Maritime transportation of certain oil and oil products[^c-a0b1c47ee5187355dc83fb7df8daa623]
 
 #### 21. Extraordinary situation
 
@@ -471,94 +471,94 @@ To enable anything to be done to deal with an extraordinary situation.
 
 ## Annotations
 
-[^key-71b20a415c69d0e438268539047a798d]: Textual amendment: [Sch. 5 Pt. A1](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/A1) inserted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2022/194/regulation/14/a)
+[^c-71b20a415c69d0e438268539047a798d]: Textual amendment: [Sch. 5 Pt. A1](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/A1) inserted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [14(a)](https://www.legislation.gov.uk/uksi/2022/194/regulation/14/a)
 
 [^M_F_777ce330-0f6f-49ec-e79c-dde5fd1c0eaf]: Textual amendment: United Nations Treaty Series, vol. 596, p.261.
 
 [^M_F_57adb271-3ad1-4d0b-9d77-23663132b7dd]: Textual amendment: United Nations Treaty Series, vol. 500, p. 95.
 
-[^key-f90072531aa3d08ab84f861668fadff4]: Textual amendment: Words in [Sch. 5 para. A1](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/A1) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(a)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/a)
+[^c-f90072531aa3d08ab84f861668fadff4]: Textual amendment: Words in [Sch. 5 para. A1](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/A1) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(a)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/a)
 
-[^key-6fdc3d044bee94e900ead4fe75c0390f]: Textual amendment: Words in [Sch. 5 para. A1](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/A1) inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [20(4)(a)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/20/4/a)
+[^c-6fdc3d044bee94e900ead4fe75c0390f]: Textual amendment: Words in [Sch. 5 para. A1](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/A1) inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [20(4)(a)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/20/4/a)
 
-[^key-a19985e97f857b302918ef70519590ae]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-a19985e97f857b302918ef70519590ae]: Commencement: Sch. 5 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-d393a73cbaaa4dcd97cdcacca155fa73]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/1) heading inserted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2022/194/regulation/14/b)
+[^c-d393a73cbaaa4dcd97cdcacca155fa73]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/1) heading inserted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [14(b)](https://www.legislation.gov.uk/uksi/2022/194/regulation/14/b)
 
-[^key-723c42a3b40afbb5e503d037430c9645]: Textual amendment: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/1) renumbered as Sch. 5 para. 1(1) (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/b/i)
+[^c-723c42a3b40afbb5e503d037430c9645]: Textual amendment: [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/1) renumbered as Sch. 5 para. 1(1) (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(b)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/b/i)
 
-[^key-4f100bc93317b8f0180335e24ba82877]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/1) substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [14(c)](https://www.legislation.gov.uk/uksi/2022/194/regulation/14/c)
+[^c-4f100bc93317b8f0180335e24ba82877]: Textual amendment: Words in [Sch. 5 para. 1](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/1) substituted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [14(c)](https://www.legislation.gov.uk/uksi/2022/194/regulation/14/c)
 
-[^key-86b37855f5d0add264f44db0d0f542bc]: Textual amendment: Words in [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/1/1) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [15(7)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/15/7/a)
+[^c-86b37855f5d0add264f44db0d0f542bc]: Textual amendment: Words in [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/1/1) omitted (13.5.2026) by virtue of [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [15(7)(a)](https://www.legislation.gov.uk/uksi/2026/443/regulation/15/7/a)
 
-[^key-67b86c28eecef7731d27af316a0f4c61]: Textual amendment: [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/1/2)[(3)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/1/3) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/b/ii)
+[^c-67b86c28eecef7731d27af316a0f4c61]: Textual amendment: [Sch. 5 para. 1(2)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/1/2)[(3)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/1/3) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/b/ii)
 
-[^key-b04958a57228a4dad91274fa56164c50]: Commencement: Sch. 5 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-b04958a57228a4dad91274fa56164c50]: Commencement: Sch. 5 para. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-a29e46ea2bb1ddc5f524b913232e046b]: Textual amendment: Word in [Sch. 5 para. 2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/2/2/b/ii) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [10(15)](https://www.legislation.gov.uk/uksi/2020/590/regulation/10/15); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-a29e46ea2bb1ddc5f524b913232e046b]: Textual amendment: Word in [Sch. 5 para. 2(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/2/2/b/ii) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [10(15)](https://www.legislation.gov.uk/uksi/2020/590/regulation/10/15); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
 
-[^key-853b4e2838921dbc46625c762830404a]: Textual amendment: Word in [Sch. 5 para. 2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/2/2/b/iii) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [10(15)](https://www.legislation.gov.uk/uksi/2020/590/regulation/10/15); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
+[^c-853b4e2838921dbc46625c762830404a]: Textual amendment: Word in [Sch. 5 para. 2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/2/2/b/iii) substituted (31.12.2020 immediately after IP completion day) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2020 (S.I. 2020/590)](https://www.legislation.gov.uk/uksi/2020/590), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/590/regulation/1/2), [10(15)](https://www.legislation.gov.uk/uksi/2020/590/regulation/10/15); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 4](https://www.legislation.gov.uk/uksi/2020/1514/regulation/4)
 
-[^key-438ea328abbc0df3d9ff8af440c1e22c]: Commencement: Sch. 5 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-438ea328abbc0df3d9ff8af440c1e22c]: Commencement: Sch. 5 para. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-2e45e9887540e118c0ba79c0f9e4ee29]: Commencement: Sch. 5 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-2e45e9887540e118c0ba79c0f9e4ee29]: Commencement: Sch. 5 para. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-86b9f50db4467866c8f19a7b73ceedda]: Commencement: Sch. 5 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-86b9f50db4467866c8f19a7b73ceedda]: Commencement: Sch. 5 para. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-ac0eedebf758298ca1508cd58915ce9f]: Textual amendment: Sch. 5 para. 6 substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/c)
+[^c-ac0eedebf758298ca1508cd58915ce9f]: Textual amendment: Sch. 5 para. 6 substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/c)
 
-[^key-163c2edd2de149361a6a47e8b58cf058]: Commencement: Sch. 5 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-163c2edd2de149361a6a47e8b58cf058]: Commencement: Sch. 5 para. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-645c6f556cda59d05c3f96959fcca3b4]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/8) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [15(7)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/15/7/b)
+[^c-645c6f556cda59d05c3f96959fcca3b4]: Textual amendment: [Sch. 5 para. 8](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/8) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [15(7)(b)](https://www.legislation.gov.uk/uksi/2026/443/regulation/15/7/b)
 
-[^key-c70fcc9f7826ad937e3d35e0cd6fe514]: Commencement: Sch. 5 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-c70fcc9f7826ad937e3d35e0cd6fe514]: Commencement: Sch. 5 para. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-ee48a48426355422c86bf177251e090f]: Textual amendment: Words in [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [39(a)](https://www.legislation.gov.uk/uksi/2022/395/regulation/39/a)
+[^c-ee48a48426355422c86bf177251e090f]: Textual amendment: Words in [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [39(a)](https://www.legislation.gov.uk/uksi/2022/395/regulation/39/a)
 
-[^key-69d83b9eb3bfab77af94dc5618878432]: Textual amendment: [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9/2) omitted (1.3.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [14(d)](https://www.legislation.gov.uk/uksi/2022/194/regulation/14/d)
+[^c-69d83b9eb3bfab77af94dc5618878432]: Textual amendment: [Sch. 5 para. 9(2)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9/2) omitted (1.3.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [14(d)](https://www.legislation.gov.uk/uksi/2022/194/regulation/14/d)
 
-[^key-4f71a96ac7cef9279268a2d57e8232a7]: Textual amendment: [Sch. 5 paras. 9A-9T](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9A) and related Pt. headings inserted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [14(e)](https://www.legislation.gov.uk/uksi/2022/194/regulation/14/e)
+[^c-4f71a96ac7cef9279268a2d57e8232a7]: Textual amendment: [Sch. 5 paras. 9A-9T](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9A) and related Pt. headings inserted (1.3.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [14(e)](https://www.legislation.gov.uk/uksi/2022/194/regulation/14/e)
 
-[^key-a2cccdabe008489470c380836048d21e]: Textual amendment: Sch. 5 Pt. 1ZA inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(22)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/22)
+[^c-a2cccdabe008489470c380836048d21e]: Textual amendment: Sch. 5 Pt. 1ZA inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(22)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/22)
 
-[^key-55b6d8566301e5d976ccc6fefa5acca0]: Textual amendment: Words in [Sch. 5 para. 9DA](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9DA) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(d)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/d/i)
+[^c-55b6d8566301e5d976ccc6fefa5acca0]: Textual amendment: Words in [Sch. 5 para. 9DA](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9DA) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(d)(i)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/d/i)
 
-[^key-78bbbf453dc2e83fdaa58506f5dc4a61]: Textual amendment: Words in [Sch. 5 para. 9DA](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9DA) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(d)(ii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/d/ii)
+[^c-78bbbf453dc2e83fdaa58506f5dc4a61]: Textual amendment: Words in [Sch. 5 para. 9DA](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9DA) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(d)(ii)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/d/ii)
 
-[^key-b21ca56fdbea9d16dfa09a8990fb4fdc]: Textual amendment: [Sch. 5 Pt. 1ZB](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/1ZB) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(e)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/e)
+[^c-b21ca56fdbea9d16dfa09a8990fb4fdc]: Textual amendment: [Sch. 5 Pt. 1ZB](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/1ZB) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(17)(e)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/17/e)
 
-[^key-5b3e5cdd7b711a7028d71c435ceb91b6]: Textual amendment: Words in Sch. 5 Pt. 1B heading substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [23(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/23/3)
+[^c-5b3e5cdd7b711a7028d71c435ceb91b6]: Textual amendment: Words in Sch. 5 Pt. 1B heading substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [23(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/23/3)
 
-[^key-e22bc3a5cb6beaef9734a58ecd9ed7ba]: Textual amendment: [Sch. 5 para. 9N(2)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9N/2) omitted (16.12.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [20(4)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/20/4/b)
+[^c-e22bc3a5cb6beaef9734a58ecd9ed7ba]: Textual amendment: [Sch. 5 para. 9N(2)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9N/2) omitted (16.12.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [20(4)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/20/4/b)
 
-[^key-f05413eeb6158750d1a0015dfe016ae9]: Textual amendment: Sch. 5 Pt. 1C heading substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(23)(a)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/23/a)
+[^c-f05413eeb6158750d1a0015dfe016ae9]: Textual amendment: Sch. 5 Pt. 1C heading substituted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(23)(a)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/23/a)
 
-[^key-3b8d58ee143d2fe3ea4656bf6df49803]: Textual amendment: Sch. 5 Pt. 1C para. 9TA inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(23)(b)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/23/b)
+[^c-3b8d58ee143d2fe3ea4656bf6df49803]: Textual amendment: Sch. 5 Pt. 1C para. 9TA inserted (15.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/3), [22(23)(b)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/22/23/b)
 
-[^key-f9e1ef3acdf67b39aaff17ad0ee55c12]: Textual amendment: [Sch. 5 Pt. 1D](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/1D) inserted (1.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/205)](https://www.legislation.gov.uk/uksi/2022/205), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/205/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/205/regulation/7)
+[^c-f9e1ef3acdf67b39aaff17ad0ee55c12]: Textual amendment: [Sch. 5 Pt. 1D](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/1D) inserted (1.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 5) Regulations 2022 (S.I. 2022/205)](https://www.legislation.gov.uk/uksi/2022/205), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/205/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2022/205/regulation/7)
 
-[^key-dab3615057e8d7fe8a038458369e541b]: Textual amendment: [Sch. 5 para. 9V(2)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9V/2) omitted (16.12.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [20(4)(c)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/20/4/c)
+[^c-dab3615057e8d7fe8a038458369e541b]: Textual amendment: [Sch. 5 para. 9V(2)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/9V/2) omitted (16.12.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [20(4)(c)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/20/4/c)
 
-[^key-7b0c01489a5636569fd8b787bf1af19a]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/2) heading substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [39(b)(i)](https://www.legislation.gov.uk/uksi/2022/395/regulation/39/b/i)
+[^c-7b0c01489a5636569fd8b787bf1af19a]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/2) heading substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [39(b)(i)](https://www.legislation.gov.uk/uksi/2022/395/regulation/39/b/i)
 
-[^key-f359b2b3a266210fccd4ee9053cca30f]: Commencement: Sch. 5 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-f359b2b3a266210fccd4ee9053cca30f]: Commencement: Sch. 5 para. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-bf39482adf207d3c8f96a2df8c2de49c]: Textual amendment: Words in [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/10) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [39(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/395/regulation/39/b/ii/aa)
+[^c-bf39482adf207d3c8f96a2df8c2de49c]: Textual amendment: Words in [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/10) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [39(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2022/395/regulation/39/b/ii/aa)
 
-[^key-699af560c17dc72f934e34278ab46ac5]: Textual amendment: [Sch. 5 para. 10(2)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/10/2) omitted (1.3.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [14(f)](https://www.legislation.gov.uk/uksi/2022/194/regulation/14/f)
+[^c-699af560c17dc72f934e34278ab46ac5]: Textual amendment: [Sch. 5 para. 10(2)](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/10/2) omitted (1.3.2022) by virtue of [The Russia (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2022 (S.I. 2022/194)](https://www.legislation.gov.uk/uksi/2022/194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/194/regulation/1/2), [14(f)](https://www.legislation.gov.uk/uksi/2022/194/regulation/14/f)
 
-[^key-553d9599def05b5e36ea934eb1740186]: Commencement: Sch. 5 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-553d9599def05b5e36ea934eb1740186]: Commencement: Sch. 5 para. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-60ead6964c7f3f8fb9e5b6354585b61e]: Textual amendment: Words in [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/11) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [39(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/395/regulation/39/b/ii/bb)
+[^c-60ead6964c7f3f8fb9e5b6354585b61e]: Textual amendment: Words in [Sch. 5 para. 11](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/11) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [39(b)(ii)(bb)](https://www.legislation.gov.uk/uksi/2022/395/regulation/39/b/ii/bb)
 
-[^key-c47a5b20b6a2303a43fa3cb199e724f7]: Commencement: Sch. 5 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-c47a5b20b6a2303a43fa3cb199e724f7]: Commencement: Sch. 5 para. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-33340598bed704b363fc2ccd0ef1809d]: Textual amendment: Words in [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/12) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [39(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2022/395/regulation/39/b/ii/cc)
+[^c-33340598bed704b363fc2ccd0ef1809d]: Textual amendment: Words in [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/paragraph/12) substituted (30.3.2022 at 5.00 p.m.) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 7) Regulations 2022 (S.I. 2022/395)](https://www.legislation.gov.uk/uksi/2022/395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/395/regulation/1/2), [39(b)(ii)(cc)](https://www.legislation.gov.uk/uksi/2022/395/regulation/39/b/ii/cc)
 
-[^key-65a1d7aee66bd1d37399915fa5377fbc]: Commencement: Sch. 5 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
+[^c-65a1d7aee66bd1d37399915fa5377fbc]: Commencement: Sch. 5 para. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(2)
 
-[^key-223ec38a25d8728dc9605aa044647d36]: Textual amendment: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/3) inserted (19.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 12) Regulations 2022 (S.I. 2022/801)](https://www.legislation.gov.uk/uksi/2022/801), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/801/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2022/801/regulation/10)
+[^c-223ec38a25d8728dc9605aa044647d36]: Textual amendment: [Sch. 5 Pt. 3](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/3) inserted (19.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 12) Regulations 2022 (S.I. 2022/801)](https://www.legislation.gov.uk/uksi/2022/801), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/801/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2022/801/regulation/10)
 
-[^key-f738976dd6118ade92c9067e9605ff5a]: Textual amendment: [Sch. 5 Pt. 3A](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/3A) inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [Sch. 3](https://www.legislation.gov.uk/uksi/2022/1331/schedule/3)
+[^c-f738976dd6118ade92c9067e9605ff5a]: Textual amendment: [Sch. 5 Pt. 3A](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/3A) inserted (16.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/b), [Sch. 3](https://www.legislation.gov.uk/uksi/2022/1331/schedule/3)
 
-[^key-a0b1c47ee5187355dc83fb7df8daa623]: Textual amendment: [Sch. 5 Pt. 4](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/4) inserted (5.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 16) Regulations 2022 (S.I. 2022/1122)](https://www.legislation.gov.uk/uksi/2022/1122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1122/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2022/1122/regulation/17)
+[^c-a0b1c47ee5187355dc83fb7df8daa623]: Textual amendment: [Sch. 5 Pt. 4](https://www.legislation.gov.uk/uksi/2019/855/schedule/5/part/4) inserted (5.12.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 16) Regulations 2022 (S.I. 2022/1122)](https://www.legislation.gov.uk/uksi/2022/1122), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1122/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2022/1122/regulation/17)

@@ -22,7 +22,7 @@ summary: ''
 
 (1) This regulation applies to a candidate at—
 
-- (a) a parliamentary [^key-adf36f5b051748dc045c94ab8f6a10f6]... election in Northern Ireland;
+- (a) a parliamentary [^c-adf36f5b051748dc045c94ab8f6a10f6]... election in Northern Ireland;
 - (b) an election to the Northern Ireland Assembly; and
 - (c) a local election in Northern Ireland.
 
@@ -40,4 +40,4 @@ other than for electoral purposes.
 
 ## Annotations
 
-[^key-adf36f5b051748dc045c94ab8f6a10f6]: Textual amendment: Words in [reg. 106(1)(a)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/106/1/a) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-adf36f5b051748dc045c94ab8f6a10f6]: Textual amendment: Words in [reg. 106(1)(a)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/106/1/a) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) Table 1 (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

@@ -34,8 +34,8 @@ summary: ''
 
 (4) Condition C is that the payment is made—
 
-- (a) under an order made by a court in the United Kingdom or[^key-23b97503e0a5480ba62f284164143bcb] a member State, or
-- (b) under a written agreement the law applicable to which is the law of the United Kingdom or of a part of the United Kingdom or of[^key-c45c44f06f7b0ca892cfe58d76fb91ca] a member State or of a part of a member State.
+- (a) under an order made by a court in the United Kingdom or[^c-23b97503e0a5480ba62f284164143bcb] a member State, or
+- (b) under a written agreement the law applicable to which is the law of the United Kingdom or of a part of the United Kingdom or of[^c-c45c44f06f7b0ca892cfe58d76fb91ca] a member State or of a part of a member State.
 
 (5) Condition D is that the payment is due at a time when—
 
@@ -46,7 +46,7 @@ summary: ''
 
 (6) Condition E is that relief from tax in respect of the payment is not available to the person making it under any provision of the Income Tax Acts other than section 453.
 
-(7) In subsection (4) the reference to an order made by a court in the United Kingdom[^key-5986c632507145148fe64a82353039dd] includes a reference to a maintenance calculation.
+(7) In subsection (4) the reference to an order made by a court in the United Kingdom[^c-5986c632507145148fe64a82353039dd] includes a reference to a maintenance calculation.
 
 (8) “**Maintenance calculation**” means—
 
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-23b97503e0a5480ba62f284164143bcb]: Textual amendment: Words in [s. 454(4)(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/454/4/a) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Qualifying Maintenance Payments) (Amendment) Regulations 2022 (S.I. 2022/169)](https://www.legislation.gov.uk/uksi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/169/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/169/regulation/2/2/a)
+[^c-23b97503e0a5480ba62f284164143bcb]: Textual amendment: Words in [s. 454(4)(a)](https://www.legislation.gov.uk/ukpga/2007/3/section/454/4/a) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Qualifying Maintenance Payments) (Amendment) Regulations 2022 (S.I. 2022/169)](https://www.legislation.gov.uk/uksi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/169/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2022/169/regulation/2/2/a)
 
-[^key-c45c44f06f7b0ca892cfe58d76fb91ca]: Textual amendment: Words in [s. 454(4)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/454/4/b) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Qualifying Maintenance Payments) (Amendment) Regulations 2022 (S.I. 2022/169)](https://www.legislation.gov.uk/uksi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/169/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/169/regulation/2/2/b)
+[^c-c45c44f06f7b0ca892cfe58d76fb91ca]: Textual amendment: Words in [s. 454(4)(b)](https://www.legislation.gov.uk/ukpga/2007/3/section/454/4/b) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Qualifying Maintenance Payments) (Amendment) Regulations 2022 (S.I. 2022/169)](https://www.legislation.gov.uk/uksi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/169/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/169/regulation/2/2/b)
 
-[^key-5986c632507145148fe64a82353039dd]: Textual amendment: Words in [s. 454(7)](https://www.legislation.gov.uk/ukpga/2007/3/section/454/7) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Qualifying Maintenance Payments) (Amendment) Regulations 2022 (S.I. 2022/169)](https://www.legislation.gov.uk/uksi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/169/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/169/regulation/2/3)
+[^c-5986c632507145148fe64a82353039dd]: Textual amendment: Words in [s. 454(7)](https://www.legislation.gov.uk/ukpga/2007/3/section/454/7) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Income Tax (Qualifying Maintenance Payments) (Amendment) Regulations 2022 (S.I. 2022/169)](https://www.legislation.gov.uk/uksi/2022/169), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/169/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2022/169/regulation/2/3)

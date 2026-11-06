@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95A. Hearings: defence and national security[^key-a022d5237f7d3cba826053905a050979]
+## 95A. Hearings: defence and national security[^c-a022d5237f7d3cba826053905a050979]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a022d5237f7d3cba826053905a050979]: Textual amendment: S. 95A inserted (15.1.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 42](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/42); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/57/article/2/a); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)
+[^c-a022d5237f7d3cba826053905a050979]: Textual amendment: S. 95A inserted (15.1.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 13 para. 42](https://www.legislation.gov.uk/ukpga/2011/20/schedule/13/paragraph/42); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/57/article/2/a); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 7(a)](https://www.legislation.gov.uk/uksi/2012/628/article/7/a)

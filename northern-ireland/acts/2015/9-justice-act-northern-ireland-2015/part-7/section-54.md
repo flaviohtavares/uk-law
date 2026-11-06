@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 54. Live links: patients detained in hospital under Mental Health Order[^key-1f6a2d793a43bc289a2fc629f386c5c5]
+## 54. Live links: patients detained in hospital under Mental Health Order[^c-1f6a2d793a43bc289a2fc629f386c5c5]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f6a2d793a43bc289a2fc629f386c5c5]: Commencement: [S. 54](https://www.legislation.gov.uk/nia/2015/9/section/54) in operation at 29.4.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(c)](https://www.legislation.gov.uk/nisr/2016/136/article/4/c)
+[^c-1f6a2d793a43bc289a2fc629f386c5c5]: Commencement: [S. 54](https://www.legislation.gov.uk/nia/2015/9/section/54) in operation at 29.4.2016 by [S.R. 2016/136](https://www.legislation.gov.uk/nisr/2016/136), [art. 4(c)](https://www.legislation.gov.uk/nisr/2016/136/article/4/c)

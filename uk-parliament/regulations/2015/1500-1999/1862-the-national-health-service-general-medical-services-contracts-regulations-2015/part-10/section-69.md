@@ -25,10 +25,10 @@ summary: ''
 - (a) in a case where a new patient registers with the contractor's practice, to the contractor's practice from the practice of another provider of primary medical services (if any) with which the patient was previously registered; or
 - (b) in a case where the contractor receives a request from another provider of primary medical services with which the patient has registered, in order to respond to that request.
 
-(2) In this regulation, “**GP2GP facility**” means the facility provided by NHS England[^key-27a783e1510d45f884edbc32ee2f5c83] to a contractor's practice which enables the electronic health records of a registered patient which are held on the computerised clinical systems of a contractor's practice to be transferred securely and directly to another provider of primary medical services with which the patient has registered.
+(2) In this regulation, “**GP2GP facility**” means the facility provided by NHS England[^c-27a783e1510d45f884edbc32ee2f5c83] to a contractor's practice which enables the electronic health records of a registered patient which are held on the computerised clinical systems of a contractor's practice to be transferred securely and directly to another provider of primary medical services with which the patient has registered.
 
 (3) The requirements of this regulation do not apply in the case of a temporary resident.
 
 ## Annotations
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

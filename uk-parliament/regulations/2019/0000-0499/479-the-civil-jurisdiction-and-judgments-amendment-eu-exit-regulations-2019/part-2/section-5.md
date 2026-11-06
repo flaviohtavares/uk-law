@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5.[^key-37ed333c1ebf7ccca695529b855f3109]
+## 5.[^c-37ed333c1ebf7ccca695529b855f3109]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-37ed333c1ebf7ccca695529b855f3109]: Textual amendment: Reg. 5 omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/5)
+[^c-37ed333c1ebf7ccca695529b855f3109]: Textual amendment: Reg. 5 omitted (31.12.2020) by virtue of [Private International Law (Implementation of Agreements) Act 2020 (c. 24)](https://www.legislation.gov.uk/ukpga/2020/24), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2020/24/section/4/3), [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2020/24/schedule/5/paragraph/5)

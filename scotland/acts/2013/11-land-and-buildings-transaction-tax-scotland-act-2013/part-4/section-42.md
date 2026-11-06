@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Regulations about applications under section 41[^key-fe8b4423e16689809649e504836e9be8]
+## 42. Regulations about applications under section 41[^c-fe8b4423e16689809649e504836e9be8]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe8b4423e16689809649e504836e9be8]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2013/11/section/42) in force at 7.11.2014 by [S.S.I. 2014/279](https://www.legislation.gov.uk/ssi/2014/279), [art. 2](https://www.legislation.gov.uk/ssi/2014/279/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/279/schedule)
+[^c-fe8b4423e16689809649e504836e9be8]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2013/11/section/42) in force at 7.11.2014 by [S.S.I. 2014/279](https://www.legislation.gov.uk/ssi/2014/279), [art. 2](https://www.legislation.gov.uk/ssi/2014/279/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/279/schedule)

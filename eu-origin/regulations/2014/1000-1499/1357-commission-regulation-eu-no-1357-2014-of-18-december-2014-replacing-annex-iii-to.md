@@ -35,18 +35,18 @@ replacing Annex III to Directive 2008/98/EC of the European Parliament and of th
 
 (Text with EEA relevance) (revoked)
 
-[^key-eceaf170d76ac3f2633164040bf1fcf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eceaf170d76ac3f2633164040bf1fcf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-eceaf170d76ac3f2633164040bf1fcf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-eceaf170d76ac3f2633164040bf1fcf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-eceaf170d76ac3f2633164040bf1fcf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-eceaf170d76ac3f2633164040bf1fcf0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eceaf170d76ac3f2633164040bf1fcf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eceaf170d76ac3f2633164040bf1fcf0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-eceaf170d76ac3f2633164040bf1fcf0]
+## ANNEX[^c-eceaf170d76ac3f2633164040bf1fcf0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eceaf170d76ac3f2633164040bf1fcf0]: Textual amendment: Regulation revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eceaf170d76ac3f2633164040bf1fcf0]: Textual amendment: Regulation revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 92. Certificates of registration[^key-b099abb09b70a519f1e17858661f431d]
+## 92. Certificates of registration[^c-b099abb09b70a519f1e17858661f431d]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b099abb09b70a519f1e17858661f431d]: Commencement: [Art. 92](https://www.legislation.gov.uk/nisi/1986/595/article/92) in operation at 31.3.2013 in so far as not already in operation by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2012/349/article/2/2/c)
+[^c-b099abb09b70a519f1e17858661f431d]: Commencement: [Art. 92](https://www.legislation.gov.uk/nisi/1986/595/article/92) in operation at 31.3.2013 in so far as not already in operation by [S.R. 2012/349](https://www.legislation.gov.uk/nisr/2012/349), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2012/349/article/2/2/c)

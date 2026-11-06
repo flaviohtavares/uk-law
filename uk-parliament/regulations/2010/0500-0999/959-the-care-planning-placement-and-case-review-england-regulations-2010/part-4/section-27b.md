@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27B. Exception to the prohibition on placing a child under 16 in other arrangements[^key-ba75ed29ee647f7d158922fe88360f52]
+## 27B. Exception to the prohibition on placing a child under 16 in other arrangements[^c-ba75ed29ee647f7d158922fe88360f52]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba75ed29ee647f7d158922fe88360f52]: Textual amendment: [Regs. 27A](https://www.legislation.gov.uk/uksi/2010/959/regulation/27A), [27B](https://www.legislation.gov.uk/uksi/2010/959/regulation/27B) inserted (9.9.2021) by [The Care Planning, Placement and Case Review (England) (Amendment) Regulations 2021 (S.I. 2021/161)](https://www.legislation.gov.uk/uksi/2021/161), [regs. 1](https://www.legislation.gov.uk/uksi/2021/161/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/161/regulation/4)
+[^c-ba75ed29ee647f7d158922fe88360f52]: Textual amendment: [Regs. 27A](https://www.legislation.gov.uk/uksi/2010/959/regulation/27A), [27B](https://www.legislation.gov.uk/uksi/2010/959/regulation/27B) inserted (9.9.2021) by [The Care Planning, Placement and Case Review (England) (Amendment) Regulations 2021 (S.I. 2021/161)](https://www.legislation.gov.uk/uksi/2021/161), [regs. 1](https://www.legislation.gov.uk/uksi/2021/161/regulation/1), [4](https://www.legislation.gov.uk/uksi/2021/161/regulation/4)

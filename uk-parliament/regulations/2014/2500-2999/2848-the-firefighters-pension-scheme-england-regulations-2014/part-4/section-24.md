@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Calculation of “retirement index adjustment”[^key-2674931940b2511cd3aeb3e727d3fcfc]
+## 24. Calculation of “retirement index adjustment”[^c-2674931940b2511cd3aeb3e727d3fcfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ where—
 
 ## Annotations
 
-[^key-2674931940b2511cd3aeb3e727d3fcfc]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/2848/regulation/24) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-2674931940b2511cd3aeb3e727d3fcfc]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2014/2848/regulation/24) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

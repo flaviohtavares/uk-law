@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Approvals, authorisations, licences and registrations[^key-6b1a7c942d5aa50da0059bd9b0c21f27]
+## 10. Approvals, authorisations, licences and registrations[^c-6b1a7c942d5aa50da0059bd9b0c21f27]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b1a7c942d5aa50da0059bd9b0c21f27]: Commencement: Reg. 10 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-6b1a7c942d5aa50da0059bd9b0c21f27]: Commencement: Reg. 10 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

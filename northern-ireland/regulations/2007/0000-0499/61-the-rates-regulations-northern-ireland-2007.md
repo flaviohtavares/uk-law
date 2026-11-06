@@ -41,7 +41,7 @@ Coming into operation
 
 The Department of Finance and Personnel[^f00001], makes the following Regulations in exercise of the powers conferred by Articles 8, 34, 35 and 61 (2B) of the Rates (Northern Ireland) Order 1977[^f00002]:
 
-## 1. Citation, commencement and interpretation[^key-d7d7aab09db94069637b092e59256805]
+## 1. Citation, commencement and interpretation[^c-d7d7aab09db94069637b092e59256805]
 
 (1) These Regulations may be cited as the Rates Regulations (Northern Ireland) 2007 and shall come into operation on the 27th February 2007.
 
@@ -53,15 +53,15 @@ The Department of Finance and Personnel[^f00001], makes the following Regulation
 - “NAV list” has the same meaning as in Article 2(2)[^f00004] of the 1977 Order;
 - “NAV rate” means a rate levied on a hereditament or part of a hereditament within the NAV list.
 
-## 2. Time of making notification of district rate[^key-1299a2eda769ddfedb74b71512835ee3]
+## 2. Time of making notification of district rate[^c-1299a2eda769ddfedb74b71512835ee3]
 
-(1) The date in any year not later than which a district council must make the district rates for the next following year shall be the 15th February[^key-a16f00846350abb10afa7fb197b81f10] .
+(1) The date in any year not later than which a district council must make the district rates for the next following year shall be the 15th February[^c-a16f00846350abb10afa7fb197b81f10] .
 
 (2) The period within which a district council must notify the Department under Article 8(4) of the 1977 Order of the amounts in the pound of the district rates made by the council shall be 7 days.
 
 (3) The notification referred to in paragraph (2) shall be in writing.
 
-## 3. Payments to district councils on account of district rates[^key-efc71c24d29a46370176b1e5dd8cc83d]
+## 3. Payments to district councils on account of district rates[^c-efc71c24d29a46370176b1e5dd8cc83d]
 
 (1) Not later than 1st March in any year each district council shall serve on the Department notice of the amounts estimated by the council under under section 3(2)(e) of the Local Government Finance Act (Northern Ireland) 2011[^M_F_28c6a091-3a36-44d6-be95-c18d21595f14] to be required to be raised by means of capital value and NAV rates made by the council for the next following year.
 
@@ -87,15 +87,15 @@ The Department of Finance and Personnel[^f00001], makes the following Regulation
 
 the Department shall consult the district council concerned.
 
-## 4. Ascertainment of rate product: introductory[^key-45de0a0268a3fb95cd86b8ba9ee2e556]
+## 4. Ascertainment of rate product: introductory[^c-45de0a0268a3fb95cd86b8ba9ee2e556]
 
 Where, under regulation 5,6 or 7 it is necessary to ascertain the amount of the product of a rate in the pound which is more or less than one penny, that amount shall be ascertained proportionately from the amount of the product of a rate of one penny in the pound.
 
-## 5. Determination of the sums payable to a district council in respect of any year as being equal to the products of the rates made by that council for that year[^key-33b31dda1e0f0d5b5bba75db300266b5]
+## 5. Determination of the sums payable to a district council in respect of any year as being equal to the products of the rates made by that council for that year[^c-33b31dda1e0f0d5b5bba75db300266b5]
 
 For the purpose of determining under Article 34(1) of the 1977 Order the sums payable to a district council in respect of any year as being equal to the products of the rates made by that council for that year, the products of the rates of one penny in the pound for the district council for that year shall be ascertained in accordance with Schedule 1 or 2.
 
-## 6. The resources element of the General Grant[^key-80e16117e02e6a25143564e1726ca570]
+## 6. The resources element of the General Grant[^c-80e16117e02e6a25143564e1726ca570]
 
 (1) Subject to paragraph (2), for the purpose of determining under the Local Government (Rates Support Grant) Regulations (Northern Ireland) 2011 the amount of the rates support grant[^M_F_2e3bef71-b6bd-48d7-d379-3bcbacd6025a] which is payable to a district council for any year, the products of the rates of one penny in the pound for the district of the council for that year shall be ascertained in accordance with Schedule 1 or 2.
 
@@ -104,7 +104,7 @@ For the purpose of determining under Article 34(1) of the 1977 Order the sums pa
 - (a) there shall be added to the amount of the NAV gross rate income the amount of the de-rating grant[^M_F_e60a21a1-fc54-43cc-c2d5-9cbcce0e3486] which is payable to the council for that year; and
 - (b) there shall be disregarded any rebate under the Social Security Administration (Northern Ireland) Act 1992[^f00007].
 
-## 7. Expenditure limited by reference to a stated rate product[^key-cefdc85e8cb924dd5733e4037d87b65a]
+## 7. Expenditure limited by reference to a stated rate product[^c-cefdc85e8cb924dd5733e4037d87b65a]
 
 (1) For the purpose of any transferred provision which limits the expenditure of a district council for any purpose in any year by reference to the product of a rate of a stated amount in the pound on the rateable value of the district of the council, the product of a rate of one penny in the pound for the district shall be taken to be the amount obtained by dividing the amount estimated by the council under section 53(2)(e) of the Local Government Act (Northern Ireland) 1972 to be required to be raised by means of—
 
@@ -118,7 +118,7 @@ by the appropriate divisor.
 - (a) in the case of a capital value rate made by the council for that year, the total pence in the pound in respect of hereditaments or any part of any hereditaments in the capital value list; or
 - (b) in the case of a NAV rate made by the council for that year, the total pence in the pound in respect of hereditaments or any part of any hereditaments in the NAV list.
 
-## 8. Revocations[^key-d62fa58613dbf63d2b7c9a767a84fb4e]
+## 8. Revocations[^c-d62fa58613dbf63d2b7c9a767a84fb4e]
 
 (1) Subject to paragraph (2), the Rates Regulations (Northern Ireland) 2000[^f00008] and the Rates (Amendment) Regulations (Northern Ireland) 2005[^f00009] are revoked.
 
@@ -134,15 +134,15 @@ A senior officer of the Department of Finance and Personnel
 
 Regulations 5 and 6
 
-### 1. Interpretation[^key-1b20740c3265ea1b00c300325e81f250]
+### 1. Interpretation[^c-1b20740c3265ea1b00c300325e81f250]
 
 In this Schedule the definition of “capital value rate” in regulation 1 shall be construed as meaning, except in paragraph 4, capital value regional rate and capital value district rate and, in that paragraph capital value regional rate and capital value district rates.
 
-### 2. Manner of determination[^key-3fb70b1857521af2686918cddfb42a23]
+### 2. Manner of determination[^c-3fb70b1857521af2686918cddfb42a23]
 
 The product of a capital value rate of one penny in the pound in any district for any year shall be determined by deducting from the gross rate income from each hereditament or part of a hereditament in the capital value list in the district the cost of collection and the loss on collection attributable to those hereditaments or part hereditaments and dividing the remainder by the total of the pence in the pound of the capital value rates made for the year.
 
-### 3. Gross rate income[^key-f03fb34716880cc4908c68047573b52d]
+### 3. Gross rate income[^c-f03fb34716880cc4908c68047573b52d]
 
 In this Schedule the gross rate income for any district for any year shall be ascertained by adding together the following amounts—
 
@@ -151,7 +151,7 @@ In this Schedule the gross rate income for any district for any year shall be as
   - (i) hereditaments or any parts of any hereditaments in the capital value list; or
   - (ii) hereditaments or any parts of any hereditaments used for private dwelling, private storage or private garages that were included in a valuation list prior to 1st April 2007.
 
-### 4. Cost of collection[^key-c5b8147fa328517d17bbbc2390613b9e]
+### 4. Cost of collection[^c-c5b8147fa328517d17bbbc2390613b9e]
 
 (1) For the purpose of this paragraph and paragraph 4 of Schedule 2—
 
@@ -189,15 +189,15 @@ less any such amount for an earlier year found during the year to be recoverable
 
 Regulations 5 and 6
 
-### 1. Interpretation[^key-012309aea49f4944f40448d140cd2ada]
+### 1. Interpretation[^c-012309aea49f4944f40448d140cd2ada]
 
 In this Schedule the definition of “NAV rate” in regulation 1 shall be construed as meaning, except in paragraph 4, NAV regional rate and NAV district rate and, in that paragraph, NAV regional rate and NAV district rates.
 
-### 2. Manner of determination[^key-f1685301b4c43e1373be1e99818c45fd]
+### 2. Manner of determination[^c-f1685301b4c43e1373be1e99818c45fd]
 
 The product of a NAV rate of one penny in the pound in any district for any year shall be determined by deducting from the gross rate income from each hereditament or any part of any hereditament in the NAV list in the district the cost of collection and the loss on collection attributable to those hereditaments or any part hereditaments and dividing the remainder by the total of the pence in the pound of the NAV rates made for that year.
 
-### 3. Gross rate income[^key-003f8c9ea6117dde324af69f02076d87]
+### 3. Gross rate income[^c-003f8c9ea6117dde324af69f02076d87]
 
 In this Schedule the gross rate income for any district for any year shall be ascertained by adding together the following amounts—
 
@@ -206,7 +206,7 @@ In this Schedule the gross rate income for any district for any year shall be as
   - (i) hereditaments or any parts of any hereditaments in the NAV list; or
   - (ii) hereditaments or any parts of any hereditaments not used for private dwelling, private storage or private garages that were included in the valuation list prior to 1st April 2007.
 
-### 4. Cost of collection[^key-9e907484b3fdb63fd15d3843b7465b41]
+### 4. Cost of collection[^c-9e907484b3fdb63fd15d3843b7465b41]
 
 (1) When in accordance with paragraph 4(1) of Schedule 1, the cost of collection for any district has been ascertained, the cost of collection of NAV rates for the district shall be determined in accordance with sub-paragraphs (2) and (3).
 
@@ -255,25 +255,25 @@ These Regulations revoke and replace, subject to the saving provision in regulat
 
 [^f00002]: Footnote: [S.I. 1977/2157 (N.I. 28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 61(2B) was inserted by paragraph 38(4) of Schedule 2 to the Rates (Amendment) (Northern Ireland) Order 2006 ([S.I. 2006/2954 (N.I. 18)](https://www.legislation.gov.uk/nisi/2006/2954))
 
-[^key-d7d7aab09db94069637b092e59256805]: Commencement: Reg. 1 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-d7d7aab09db94069637b092e59256805]: Commencement: Reg. 1 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
 [^f00003]: Footnote: Article 2(2) the definition of “capital value list” was inserted by Article 11(3)(a) of the Rates (Amendment) (Northern Ireland) Order 2006
 
 [^f00004]: Footnote: Article 2(2) the definition of “NAV list” was inserted by Article 11(3)(b) of the Rates (Amendment) (Northern Ireland) Order 2006
 
-[^key-1299a2eda769ddfedb74b71512835ee3]: Commencement: Reg. 2 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-1299a2eda769ddfedb74b71512835ee3]: Commencement: Reg. 2 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
-[^key-a16f00846350abb10afa7fb197b81f10]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/2/1) substituted (1.2.2022) by [The Rates (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/13)](https://www.legislation.gov.uk/nisr/2022/13), [regs. 1](https://www.legislation.gov.uk/nisr/2022/13/regulation/1), [2](https://www.legislation.gov.uk/nisr/2022/13/regulation/2)
+[^c-a16f00846350abb10afa7fb197b81f10]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/2/1) substituted (1.2.2022) by [The Rates (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/13)](https://www.legislation.gov.uk/nisr/2022/13), [regs. 1](https://www.legislation.gov.uk/nisr/2022/13/regulation/1), [2](https://www.legislation.gov.uk/nisr/2022/13/regulation/2)
 
-[^key-efc71c24d29a46370176b1e5dd8cc83d]: Commencement: Reg. 3 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-efc71c24d29a46370176b1e5dd8cc83d]: Commencement: Reg. 3 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
 [^M_F_28c6a091-3a36-44d6-be95-c18d21595f14]: Textual amendment: Words in [reg. 3(1)](https://editorial.legislation.gov.uk/nisr/2011/375/regulation/5/made) substituted (1.11.2011) by [The Local Government (Rates Support Grant) Regulations (Northern Ireland) 2011 (S.R. 2011/375)](https://editorial.legislation.gov.uk/nisr/2011/375/contents/made), [regs. 1](https://editorial.legislation.gov.uk/nisr/2011/375/regulation/1/made), [5(1)](https://editorial.legislation.gov.uk/nisr/2011/375/regulation/5/made)
 
-[^key-45de0a0268a3fb95cd86b8ba9ee2e556]: Commencement: Reg. 4 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-45de0a0268a3fb95cd86b8ba9ee2e556]: Commencement: Reg. 4 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
-[^key-33b31dda1e0f0d5b5bba75db300266b5]: Commencement: Reg. 5 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-33b31dda1e0f0d5b5bba75db300266b5]: Commencement: Reg. 5 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
-[^key-80e16117e02e6a25143564e1726ca570]: Commencement: Reg. 6 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-80e16117e02e6a25143564e1726ca570]: Commencement: Reg. 6 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
 [^M_F_2e3bef71-b6bd-48d7-d379-3bcbacd6025a]: Textual amendment: Words in [reg. 6(1)](https://editorial.legislation.gov.uk/nisr/2007/61/regulation/6) substituted (1.11.2011) by [The Local Government (Rates Support Grant) Regulations (Northern Ireland) 2011 (S.R. 2011/375)](https://editorial.legislation.gov.uk/nisr/2011/375), [regs. 1](https://editorial.legislation.gov.uk/nisr/2011/375/regulation/1), [5(3)](https://editorial.legislation.gov.uk/nisr/2011/375/regulation/5)
 
@@ -281,21 +281,21 @@ These Regulations revoke and replace, subject to the saving provision in regulat
 
 [^f00007]: Footnote: [1992 c. 8](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-cefdc85e8cb924dd5733e4037d87b65a]: Commencement: Reg. 7 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-cefdc85e8cb924dd5733e4037d87b65a]: Commencement: Reg. 7 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
-[^key-d62fa58613dbf63d2b7c9a767a84fb4e]: Commencement: Reg. 8 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-d62fa58613dbf63d2b7c9a767a84fb4e]: Commencement: Reg. 8 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 2000 No. 333](https://www.legislation.gov.uk/nisr/2000/333)
 
 [^f00009]: Footnote: [S.R. 2005 No. 553](https://www.legislation.gov.uk/nisr/2005/553)
 
-[^key-1b20740c3265ea1b00c300325e81f250]: Commencement: Sch. 1 para. 1 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-1b20740c3265ea1b00c300325e81f250]: Commencement: Sch. 1 para. 1 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
-[^key-3fb70b1857521af2686918cddfb42a23]: Commencement: Sch. 1 para. 2 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-3fb70b1857521af2686918cddfb42a23]: Commencement: Sch. 1 para. 2 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
-[^key-f03fb34716880cc4908c68047573b52d]: Commencement: Sch. 1 para. 3 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-f03fb34716880cc4908c68047573b52d]: Commencement: Sch. 1 para. 3 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
-[^key-c5b8147fa328517d17bbbc2390613b9e]: Commencement: Sch. 1 para. 4 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-c5b8147fa328517d17bbbc2390613b9e]: Commencement: Sch. 1 para. 4 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 2006/611 (N.I. 4)](https://www.legislation.gov.uk/nisi/2006/611)
 
@@ -305,13 +305,13 @@ These Regulations revoke and replace, subject to the saving provision in regulat
 
 [^M_F_1db9f3e6-ac08-405f-e514-0ff96ffaf646]: Textual amendment: Words in [Sch. 1 para. 5(3)](https://editorial.legislation.gov.uk/nisr/2007/61/schedule/1/paragraph/5) substituted (31.3.2010) by [The Rates (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/18)](https://editorial.legislation.gov.uk/nisr/2010/18), [regs. 1](https://editorial.legislation.gov.uk/nisr/2010/18/regulation/1), [3](https://editorial.legislation.gov.uk/nisr/2010/18/regulation/3)
 
-[^key-012309aea49f4944f40448d140cd2ada]: Commencement: Sch. 2 para. 1 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-012309aea49f4944f40448d140cd2ada]: Commencement: Sch. 2 para. 1 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
-[^key-f1685301b4c43e1373be1e99818c45fd]: Commencement: Sch. 2 para. 2 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-f1685301b4c43e1373be1e99818c45fd]: Commencement: Sch. 2 para. 2 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
-[^key-003f8c9ea6117dde324af69f02076d87]: Commencement: Sch. 2 para. 3 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-003f8c9ea6117dde324af69f02076d87]: Commencement: Sch. 2 para. 3 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
-[^key-9e907484b3fdb63fd15d3843b7465b41]: Commencement: Sch. 2 para. 4 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
+[^c-9e907484b3fdb63fd15d3843b7465b41]: Commencement: Sch. 2 para. 4 in operation at 27.2.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/61/regulation/1/1)
 
 [^M_F_03ed6188-8e1a-4370-8b2d-c01eef1f2a07]: Textual amendment: Sch. 2 para. 5 substituted (31.3.2009) by [The Rates (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/58)](https://editorial.legislation.gov.uk/nisr/2009/58), [regs. 1](https://editorial.legislation.gov.uk/nisr/2009/58/regulation/), [4](https://editorial.legislation.gov.uk/nisr/2009/58/regulation/4)
 

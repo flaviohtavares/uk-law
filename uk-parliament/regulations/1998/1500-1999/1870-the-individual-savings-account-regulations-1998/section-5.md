@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transfers from matured tax-exempt special savings accounts[^key-8cd0f2ca1fea313e3d0787ccf7d4efe4]
+## 5. Transfers from matured tax-exempt special savings accounts[^c-8cd0f2ca1fea313e3d0787ccf7d4efe4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cd0f2ca1fea313e3d0787ccf7d4efe4]: Textual amendment: Reg. 5 omitted (6.4.2008) by virtue of [The Individual Savings Account (Amendment) Regulations 2007 (S.I. 2007/2119)](https://www.legislation.gov.uk/uksi/2007/2119), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2119/regulation/1), [10](https://www.legislation.gov.uk/uksi/2007/2119/regulation/10)
+[^c-8cd0f2ca1fea313e3d0787ccf7d4efe4]: Textual amendment: Reg. 5 omitted (6.4.2008) by virtue of [The Individual Savings Account (Amendment) Regulations 2007 (S.I. 2007/2119)](https://www.legislation.gov.uk/uksi/2007/2119), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2119/regulation/1), [10](https://www.legislation.gov.uk/uksi/2007/2119/regulation/10)

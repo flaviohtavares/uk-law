@@ -50,11 +50,11 @@ The Leader of the House of Commons has obtained the consent of the Leader of the
 
 In accordance with section 10(9) of that Act, a draft of this instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-## 1. Citation and commencement[^key-16b01dde18466948533c9e2e38c43dc8]
+## 1. Citation and commencement[^c-16b01dde18466948533c9e2e38c43dc8]
 
 These Regulations may be cited as the Parliamentary Works Sponsor Body (Abolition) Regulations 2022 and come into force on 1st January 2023.
 
-## 2. Interpretation[^key-93815aedd35dcdcd07803b625b136d51]
+## 2. Interpretation[^c-93815aedd35dcdcd07803b625b136d51]
 
 In these Regulations—
 
@@ -62,11 +62,11 @@ In these Regulations—
 - “**the Corporate Officers**” means the Corporate Officer of the House of Commons and the Corporate Officer of the House of Lords, acting jointly; and
 - “**the Sponsor Body**” means the Parliamentary Works Sponsor Body.
 
-## 3. Abolition of Sponsor Body[^key-bf07ba8c4c3267771ee995297b7a7e56]
+## 3. Abolition of Sponsor Body[^c-bf07ba8c4c3267771ee995297b7a7e56]
 
 The Sponsor Body is hereby abolished.
 
-## 4. Transfer of functions[^key-d50d735d416ceaecf7546e7e71c4561d]
+## 4. Transfer of functions[^c-d50d735d416ceaecf7546e7e71c4561d]
 
 (1) The functions of the Sponsor Body are hereby transferred to the Corporate Officers.
 
@@ -75,19 +75,19 @@ The Sponsor Body is hereby abolished.
 - (a) the Corporate Officers have overall responsibility for the Parliamentary building works; and
 - (b) the provisions of section 2(2) to (5) of the Act (Sponsor Body) continue to apply in relation to the Corporate Officers as they applied to the Sponsor Body.
 
-## 5. Transfer of property[^key-5ce35fb33b18bd5cc24fe47e15bd7d3a]
+## 5. Transfer of property[^c-5ce35fb33b18bd5cc24fe47e15bd7d3a]
 
 (1) The property, rights and liabilities of the Sponsor Body are hereby transferred to the Corporate Officers (to be held jointly).
 
 (2) Paragraph (1) includes rights and liabilities under contracts of employment; and the provisions of the Transfer of Undertakings (Protection of Employment) Regulations 2006[^f00002] shall be treated as if they applied to the transfer under paragraph (1).
 
-## 6. Delivery Authority[^key-22461ac7ae61d01f1fa7b979abfecce1]
+## 6. Delivery Authority[^c-22461ac7ae61d01f1fa7b979abfecce1]
 
 (1) The Delivery Authority (formed by the Sponsor Body in accordance with section 3(1) of the Act) continues in existence.
 
 (2) The Corporate Officers (acting jointly) become the only member and guarantor of the Delivery Authority.
 
-## 7. Annual report[^key-bb26de1da276e4cc89bbc5282fa51b81]
+## 7. Annual report[^c-bb26de1da276e4cc89bbc5282fa51b81]
 
 After section 2 of the Act insert—
 
@@ -104,7 +104,7 @@ After section 2 of the Act insert—
 
 .
 
-## 8. Finance[^key-ebf8fc3bd6aa2336ab6d6dc3bed3824f]
+## 8. Finance[^c-ebf8fc3bd6aa2336ab6d6dc3bed3824f]
 
 For section 9 of the Act (funding) substitute—
 
@@ -122,7 +122,7 @@ For section 9 of the Act (funding) substitute—
 
 .
 
-## 9. Consequential amendments and modifications of the Act[^key-e666a2f2013647faf716ceb0195bd24c]
+## 9. Consequential amendments and modifications of the Act[^c-e666a2f2013647faf716ceb0195bd24c]
 
 (1) The Act is hereby amended and modified as follows.
 
@@ -185,17 +185,17 @@ For section 9 of the Act (funding) substitute—
 
 (7) In so far as is necessary in consequence of a transfer effected by these Regulations, a reference to the Sponsor Body in a provision of the Act (including a provision specially mentioned elsewhere in these Regulations) is to be taken as being, or including, a reference to the Corporate Officers.
 
-## 10. Amendment of other legislation[^key-6c54c1a0057315429c7570a9933ca6be]
+## 10. Amendment of other legislation[^c-6c54c1a0057315429c7570a9933ca6be]
 
 (1) In Schedule 1 to the Superannuation Act 1972[^f00003] (kinds of employment to which a scheme under section 1 of that Act can apply) omit the reference to the Parliamentary Works Sponsor Body.
 
 (2) In Part 6 of Schedule 1 to the Freedom of Information Act 2000[^f00004] (other public bodies and offices which are public authorities) omit the reference to the Parliamentary Works Sponsor Body.
 
-(3)[^key-eeb40ba3d6cd486a0001a5aaa22bed5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-eeb40ba3d6cd486a0001a5aaa22bed5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Part 1 of Schedule 1 to the Public Contracts (Scotland) Regulations 2015[^f00006] (GPA Annex 1 Contracting Authorities) omit the reference to the Parliamentary Works Sponsor Body.
 
-## 11. Continuity of the law[^key-5cee337872adbddab678b04d0835be4d]
+## 11. Continuity of the law[^c-5cee337872adbddab678b04d0835be4d]
 
 (1) These Regulations remain in force despite the amendment of section 10 of the Act by regulation 9(4).
 
@@ -237,34 +237,34 @@ A full impact assessment has not been produced for this instrument as the legisl
 
 [^f00001]: Footnote: [2019 c. 27](https://www.legislation.gov.uk/ukpga/2019/27).
 
-[^key-16b01dde18466948533c9e2e38c43dc8]: Commencement: Reg. 1 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
+[^c-16b01dde18466948533c9e2e38c43dc8]: Commencement: Reg. 1 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
 
-[^key-93815aedd35dcdcd07803b625b136d51]: Commencement: Reg. 2 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
+[^c-93815aedd35dcdcd07803b625b136d51]: Commencement: Reg. 2 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
 
-[^key-bf07ba8c4c3267771ee995297b7a7e56]: Commencement: Reg. 3 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
+[^c-bf07ba8c4c3267771ee995297b7a7e56]: Commencement: Reg. 3 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
 
-[^key-d50d735d416ceaecf7546e7e71c4561d]: Commencement: Reg. 4 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
+[^c-d50d735d416ceaecf7546e7e71c4561d]: Commencement: Reg. 4 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
 
-[^key-5ce35fb33b18bd5cc24fe47e15bd7d3a]: Commencement: Reg. 5 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
+[^c-5ce35fb33b18bd5cc24fe47e15bd7d3a]: Commencement: Reg. 5 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
 
 [^f00002]: Footnote: [S.I. 2006/246](https://www.legislation.gov.uk/uksi/2006/246), amended by [S.I. 2009/592](https://www.legislation.gov.uk/uksi/2009/592), [2010/93](https://www.legislation.gov.uk/uksi/2010/93), [2014/16](https://www.legislation.gov.uk/uksi/2014/16), [386](https://www.legislation.gov.uk/uksi/2014/386), [853](https://www.legislation.gov.uk/uksi/2014/853).
 
-[^key-22461ac7ae61d01f1fa7b979abfecce1]: Commencement: Reg. 6 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
+[^c-22461ac7ae61d01f1fa7b979abfecce1]: Commencement: Reg. 6 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
 
-[^key-bb26de1da276e4cc89bbc5282fa51b81]: Commencement: Reg. 7 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
+[^c-bb26de1da276e4cc89bbc5282fa51b81]: Commencement: Reg. 7 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
 
-[^key-ebf8fc3bd6aa2336ab6d6dc3bed3824f]: Commencement: Reg. 8 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
+[^c-ebf8fc3bd6aa2336ab6d6dc3bed3824f]: Commencement: Reg. 8 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
 
-[^key-e666a2f2013647faf716ceb0195bd24c]: Commencement: Reg. 9 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
+[^c-e666a2f2013647faf716ceb0195bd24c]: Commencement: Reg. 9 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
 
-[^key-6c54c1a0057315429c7570a9933ca6be]: Commencement: Reg. 10 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
+[^c-6c54c1a0057315429c7570a9933ca6be]: Commencement: Reg. 10 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
 
 [^f00003]: Footnote: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11), the reference was inserted by paragraph 18(1) of Schedule 1 to the Parliamentary Buildings (Restoration and Renewal) Act [2019 (c. 27)](https://www.legislation.gov.uk/ukpga/2019/27).
 
 [^f00004]: Footnote: [2000 c. 36](https://www.legislation.gov.uk/ukpga/2000/36), the reference was inserted by paragraph 29 of Schedule 1(2) to the Parliamentary Buildings (Restoration and Renewal) Act [2019 (c. 27)](https://www.legislation.gov.uk/ukpga/2019/27).
 
-[^key-eeb40ba3d6cd486a0001a5aaa22bed5c]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/10/3) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-eeb40ba3d6cd486a0001a5aaa22bed5c]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2022/1360/regulation/10/3) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
 
 [^f00006]: Footnote: [S.S.I. 2015/446](https://www.legislation.gov.uk/ssi/2015/446), amended by [S.I. 2021/872](https://www.legislation.gov.uk/uksi/2021/872); there are other amending instruments but none is relevant.
 
-[^key-5cee337872adbddab678b04d0835be4d]: Commencement: Reg. 11 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)
+[^c-5cee337872adbddab678b04d0835be4d]: Commencement: Reg. 11 in force at 1.1.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/1360/regulation/1)

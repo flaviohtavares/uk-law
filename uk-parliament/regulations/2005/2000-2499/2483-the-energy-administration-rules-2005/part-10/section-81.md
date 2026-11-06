@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 81. Grounds for resignation[^key-8ba0ffa25f3fce403db94c96d6511c60]
+## 81. Grounds for resignation[^c-8ba0ffa25f3fce403db94c96d6511c60]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8ba0ffa25f3fce403db94c96d6511c60]: Commencement: Rule 81 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-8ba0ffa25f3fce403db94c96d6511c60]: Commencement: Rule 81 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

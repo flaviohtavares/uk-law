@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23.3. Preparation of reference[^key-1f7433e967f6f07ac87c229d1641d962]
+## 23.3. Preparation of reference[^c-1f7433e967f6f07ac87c229d1641d962]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1f7433e967f6f07ac87c229d1641d962]: Commencement: Para. 23.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-1f7433e967f6f07ac87c229d1641d962]: Commencement: Para. 23.3 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00029]: Footnote: OJ C 380, 8.11.2019, p. 1.

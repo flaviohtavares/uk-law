@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Amendment of the Mental Health (Hospital, Guardianship, Community Treatment and Consent to Treatment) (Wales) Regulations 2008 (English language text)[^key-55f83f5a47ff8b86d4dd99999df043e0]
+## 31. Amendment of the Mental Health (Hospital, Guardianship, Community Treatment and Consent to Treatment) (Wales) Regulations 2008 (English language text)[^c-55f83f5a47ff8b86d4dd99999df043e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-55f83f5a47ff8b86d4dd99999df043e0]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2023/1071/regulation/31) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-55f83f5a47ff8b86d4dd99999df043e0]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2023/1071/regulation/31) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00026]: Footnote: [S.I. 2008/2439 (W. 212)](https://www.legislation.gov.uk/wsi/2008/2439), relevant amending instruments are [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235) and [S.I. 2022/634](https://www.legislation.gov.uk/uksi/2022/634).

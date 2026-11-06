@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 (affected by repeal, see note) — Notices (affected by repeal, see note) etc. (affected by repeal, see note)[^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc][^key-ff0f761e51ae43a5920475cc265851cc]
+## SCHEDULE 2 (affected by repeal, see note) — Notices (affected by repeal, see note) etc. (affected by repeal, see note)[^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc][^c-ff0f761e51ae43a5920475cc265851cc]
 
 *Extent: E+W+S+N.I.*
 
-Regulation 5 *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc265851cc]
+Regulation 5 *(affected by repeal, see note)*[^c-ff0f761e51ae43a5920475cc265851cc]
 
 **1.** In this Schedule, “**instrument**” means any notice or direction served or given under these Regulations (but does not include a notice or direction required to be given to the regulator or registry administrator).
 
@@ -51,14 +51,14 @@ Regulation 5 *(affected by repeal, see note)*[^key-ff0f761e51ae43a5920475cc26585
 
 **8.** For the purposes of paragraph 7, where a body corporate registered outside the United Kingdom or a partnership established outside the United Kingdom has an office in the United Kingdom, the principal office of that body corporate or partnership is its principal office in the United Kingdom.
 
-**9.**[^key-ad46dd9beed4d7c15981c3f796eac872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ad46dd9beed4d7c15981c3f796eac872] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-ef053ba5a6f8b6f5ea267af31ecf8226] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ef053ba5a6f8b6f5ea267af31ecf8226] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff0f761e51ae43a5920475cc265851cc]: Textual amendment: Regulations revoked in so far as they continue to apply in relation to the UK Registry (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [12](https://www.legislation.gov.uk/uksi/2021/511/regulation/12)
+[^c-ff0f761e51ae43a5920475cc265851cc]: Textual amendment: Regulations revoked in so far as they continue to apply in relation to the UK Registry (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [12](https://www.legislation.gov.uk/uksi/2021/511/regulation/12)
 
-[^key-ad46dd9beed4d7c15981c3f796eac872]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2012/3038/schedule/2/paragraph/9) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2020/1369/regulation/37) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1369/regulation/46))
+[^c-ad46dd9beed4d7c15981c3f796eac872]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2012/3038/schedule/2/paragraph/9) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2020/1369/regulation/37) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1369/regulation/46))
 
-[^key-ef053ba5a6f8b6f5ea267af31ecf8226]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2012/3038/schedule/2/paragraph/10) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2020/1369/regulation/37) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1369/regulation/46))
+[^c-ef053ba5a6f8b6f5ea267af31ecf8226]: Textual amendment: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2012/3038/schedule/2/paragraph/10) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Withdrawal Agreement) (EU Exit) Regulations 2020 (S.I. 2020/1369)](https://www.legislation.gov.uk/uksi/2020/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1369/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2020/1369/regulation/37) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1369/regulation/46))

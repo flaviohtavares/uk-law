@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Local dispute resolution before serving remedial notices or breach notices[^key-3c46872dbca05d05eae04949527a7bd1]
+## 49. Local dispute resolution before serving remedial notices or breach notices[^c-3c46872dbca05d05eae04949527a7bd1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c46872dbca05d05eae04949527a7bd1]: Commencement: Reg. 49 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)
+[^c-3c46872dbca05d05eae04949527a7bd1]: Commencement: Reg. 49 in force at 1.10.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/c)

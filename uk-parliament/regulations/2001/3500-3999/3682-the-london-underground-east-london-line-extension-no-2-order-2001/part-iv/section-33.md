@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Statutory undertakers etc.[^key-0d67e4b2351635d1afae7db28572ecc6]
+## 33. Statutory undertakers etc.[^c-0d67e4b2351635d1afae7db28572ecc6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 9 to this Order shall have effect.
 
 ## Annotations
 
-[^key-0d67e4b2351635d1afae7db28572ecc6]: Commencement: Art. 33 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-0d67e4b2351635d1afae7db28572ecc6]: Commencement: Art. 33 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

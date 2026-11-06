@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — Police and crime panels[^key-1742e572392a3c7cdc68e65ce6ce2d07]
+## SCHEDULE 6 — Police and crime panels[^c-1742e572392a3c7cdc68e65ce6ce2d07]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ Section 28
 
 #### England
 
-**1.**[^key-effffb3ac3fff1555d89c6d1fc2d12da] (1) Each police area in England, other than the metropolitan police district, is to have a police and crime panel established and maintained in accordance with Part 2 of this Schedule.
+**1.**[^c-effffb3ac3fff1555d89c6d1fc2d12da] (1) Each police area in England, other than the metropolitan police district, is to have a police and crime panel established and maintained in accordance with Part 2 of this Schedule.
 
 (2) But the Secretary of State may, by order, provide that any such police area is to have (for as long as the order has effect) a police and crime panel established and maintained in accordance with Part 3 of this Schedule (instead of a panel established and maintained in accordance with Part 2).
 
@@ -39,26 +39,26 @@ Section 28
 
 #### Wales
 
-**2.**[^key-4bb5f794768196373518ceb338449e4d] Each police area in Wales is to have a police and crime panel established and maintained in accordance with Part 3 of this Schedule.
+**2.**[^c-4bb5f794768196373518ceb338449e4d] Each police area in Wales is to have a police and crime panel established and maintained in accordance with Part 3 of this Schedule.
 
 ### Part 2 — Panels established by local authorities
 
 #### Establishment and maintenance of panels
 
-**3.**[^key-c372767dfd2e10b487a6446d3c01f397] (1) This Part of this Schedule applies in relation to each police area in England (other than the metropolitan police district), unless an order under paragraph 1(2) has effect in relation to the police area.
+**3.**[^c-c372767dfd2e10b487a6446d3c01f397] (1) This Part of this Schedule applies in relation to each police area in England (other than the metropolitan police district), unless an order under paragraph 1(2) has effect in relation to the police area.
 
 (2) The local authority or local authorities which such a police area covers must—
 
 - (a) establish and maintain a police and crime panel for the police area, and
 - (b) make the panel arrangements (see paragraph 24) for the police and crime panel.
 
-(3)[^key-a525a99e6426368081ee4c33bce20b4f] In the case of a multi-authority police area, all the relevant local authorities must agree to the making or modification of the panel arrangements.
+(3)[^c-a525a99e6426368081ee4c33bce20b4f] In the case of a multi-authority police area, all the relevant local authorities must agree to the making or modification of the panel arrangements.
 
 (4) In the following provisions of this Part of this Schedule, a reference to a police and crime panel is a reference to a panel established and maintained in accordance with this paragraph.
 
 #### Membership and status
 
-**4.**[^key-cce364a0d2e5df2df62cd29582f54125][^key-06b8cea6763d68d892a8b403e3a164a7] (1) A police and crime panel for a police area is to consist of the following members—
+**4.**[^c-cce364a0d2e5df2df62cd29582f54125][^c-06b8cea6763d68d892a8b403e3a164a7] (1) A police and crime panel for a police area is to consist of the following members—
 
 - (a) the relevant number of persons properly appointed as members of the panel; and
 - (b) the appropriate number of members co-opted by the panel.
@@ -84,11 +84,11 @@ Section 28
 - (a) a committee of the relevant local authority (if it is the panel for a single-authority police area), or
 - (b) a joint committee of the relevant local authorities (if it is the panel for a multi-authority police area).
 
-(6)[^key-e1335b7149d56b5bf1c2110260b93f7a][^key-7f1412c8ba2531fe24fa5b242837cbf1] A police and crime panel may not exercise any functions other than those conferred by this Act or by, or by virtue of, the Fire and Rescue Services Act 2004.
+(6)[^c-e1335b7149d56b5bf1c2110260b93f7a][^c-7f1412c8ba2531fe24fa5b242837cbf1] A police and crime panel may not exercise any functions other than those conferred by this Act or by, or by virtue of, the Fire and Rescue Services Act 2004.
 
 #### Persons properly appointed as members of panels
 
-**5.**[^key-8325ecb6ce48837b6061ae9476c9df2e] (1) In this Part of this Schedule, a reference to a person properly appointed as a member of a police and crime panel is a reference to—
+**5.**[^c-8325ecb6ce48837b6061ae9476c9df2e] (1) In this Part of this Schedule, a reference to a person properly appointed as a member of a police and crime panel is a reference to—
 
 - (a) a person nominated by a relevant local authority to be a member of the panel, and appointed by the authority as a member of the panel, in accordance with paragraphs 6 and 9, paragraphs 7 and 9, or paragraphs 8 and 9, or
 - (b) a person nominated by the Secretary of State to be a member of the panel, and appointed by the Secretary of State as a member of the panel, in accordance with paragraph 10.
@@ -103,7 +103,7 @@ where L is the number of local authorities which the police area covers.
 
 #### Single-authority police area: nomination by local authority
 
-**6.**[^key-4e30c954d8c0c69a93c144331d3660e8] (1) This paragraph applies in relation to the police and crime panel for a single-authority police area.
+**6.**[^c-4e30c954d8c0c69a93c144331d3660e8] (1) This paragraph applies in relation to the police and crime panel for a single-authority police area.
 
 (2) If the number of appointed members of the police and crime panel is less than the full complement, the relevant local authority may nominate the appropriate number of its councillors to be members of the police and crime panel.
 
@@ -118,7 +118,7 @@ where L is the number of local authorities which the police area covers.
 
 #### Police area covering ten or more local authorities: nomination by local authority
 
-**7.**[^key-fa27d8ba3294722c803b0391b48c13cc] (1) This paragraph applies in relation to the police and crime panel for a police area which covers ten or more local authorities.
+**7.**[^c-fa27d8ba3294722c803b0391b48c13cc] (1) This paragraph applies in relation to the police and crime panel for a police area which covers ten or more local authorities.
 
 (2) In a case where—
 
@@ -133,7 +133,7 @@ the authority may nominate one of its councillors to be a member of the police a
 
 #### Multi-authority police area covering nine or fewer local authorities: nomination by local authority
 
-**8.**[^key-88e2ce27aed935c15bdf4646ab69c306] (1) This paragraph applies in relation to the police and crime panel for a multi-authority police area which covers nine or fewer local authorities.
+**8.**[^c-88e2ce27aed935c15bdf4646ab69c306] (1) This paragraph applies in relation to the police and crime panel for a multi-authority police area which covers nine or fewer local authorities.
 
 (2) In a case where—
 
@@ -163,7 +163,7 @@ the authority may nominate the permitted number of its councillors to be members
 
 #### Appointment after nomination by local authority
 
-**9.**[^key-0f6a515e2dc715400acae8415d20931d] (1) This paragraph applies where a relevant local authority makes a nomination under paragraph 6, 7 or 8.
+**9.**[^c-0f6a515e2dc715400acae8415d20931d] (1) This paragraph applies where a relevant local authority makes a nomination under paragraph 6, 7 or 8.
 
 (2) If the nominee accepts the nomination, the relevant local authority may appoint the nominated councillor as a member of the panel.
 
@@ -171,7 +171,7 @@ the authority may nominate the permitted number of its councillors to be members
 
 #### Failure of local authority to appoint member: nomination and appointment by Secretary of State
 
-**10.**[^key-e726e22faac9bd7e42d745cc8977de6d] (1) This paragraph applies if the Secretary of State is satisfied that—
+**10.**[^c-e726e22faac9bd7e42d745cc8977de6d] (1) This paragraph applies if the Secretary of State is satisfied that—
 
 - (a) the number of appointed members of a police and crime panel is less than the full complement, and
 - (b) a relevant local authority (the “defaulting local authority”)—
@@ -216,7 +216,7 @@ the Secretary of State may give the authority notice that the Secretary of State
 
 #### Costs of the panel
 
-**11.**[^key-84b6f92b292f1db0de6142d76a941632] (1) This paragraph applies to a multi-authority panel.
+**11.**[^c-84b6f92b292f1db0de6142d76a941632] (1) This paragraph applies to a multi-authority panel.
 
 (2) The panel arrangements must make provision about—
 
@@ -227,7 +227,7 @@ the Secretary of State may give the authority notice that the Secretary of State
 
 #### Establishment and maintenance of panels
 
-**12.**[^key-eba3e5df51b9f8ff368b8ba4ddf0c779] (1) This Part of this Schedule applies in relation to—
+**12.**[^c-eba3e5df51b9f8ff368b8ba4ddf0c779] (1) This Part of this Schedule applies in relation to—
 
 - (a) each police area in Wales, and
 - (b) each police area in England in relation to which an order under paragraph 1(2) has effect.
@@ -243,7 +243,7 @@ the Secretary of State may give the authority notice that the Secretary of State
 
 #### Membership and status
 
-**13.**[^key-fb8d581cfe06433fa346dd2b65d2989a] (1) A police and crime panel for a police area is to consist of the following members—
+**13.**[^c-fb8d581cfe06433fa346dd2b65d2989a] (1) A police and crime panel for a police area is to consist of the following members—
 
 - (a) the relevant number of persons appointed by the Secretary of State as members of the panel; and
 - (b) the appropriate number of members co-opted by the panel.
@@ -268,14 +268,14 @@ the Secretary of State may give the authority notice that the Secretary of State
 
 #### Wales: persons appointed by the Secretary of State as members of panels
 
-**14.**[^key-85da175b07ccf6933d288911d7c60f14] In this Part of this Schedule, a reference to a person appointed by the Secretary of State as a member of a Welsh police and crime panel is a reference to—
+**14.**[^c-85da175b07ccf6933d288911d7c60f14] In this Part of this Schedule, a reference to a person appointed by the Secretary of State as a member of a Welsh police and crime panel is a reference to—
 
 - (a) a person nominated by a relevant local authority to be a member of the panel, and appointed by the Secretary of State as a member of the panel, in accordance with paragraph 16 (2) to (4)(a), or
 - (b) a person nominated by the Secretary of State to be a member of the panel, and appointed by the Secretary of State as a member of the panel, in accordance with paragraph 16 (4)(b) to (6).
 
 #### Wales: Secretary of State to ask local authorities to nominate members of panels
 
-**15.**[^key-f0b93af793981c4d3e403b070fc1c422] (1) This paragraph applies in relation to a Welsh police and crime panel if the Secretary of State is satisfied that the number of appointed members of the panel is less than the full complement.
+**15.**[^c-f0b93af793981c4d3e403b070fc1c422] (1) This paragraph applies in relation to a Welsh police and crime panel if the Secretary of State is satisfied that the number of appointed members of the panel is less than the full complement.
 
 (2) In the case of a police and crime panel for a single-authority police area, the Secretary of State must ask the relevant local authority to nominate the appropriate number of the authority's councillors to be members of the panel.
 
@@ -304,7 +304,7 @@ the Secretary of State may give the authority notice that the Secretary of State
 
 #### Wales: consequences of Secretary of State asking local authorities to make nominations
 
-**16.**[^key-796d0f30c8734e21b75d76e12cca3a96] (1) This paragraph applies if, under paragraph 15, the Secretary of State asks a relevant local authority to nominate a councillor to be a member of a Welsh police and crime panel.
+**16.**[^c-796d0f30c8734e21b75d76e12cca3a96] (1) This paragraph applies if, under paragraph 15, the Secretary of State asks a relevant local authority to nominate a councillor to be a member of a Welsh police and crime panel.
 
 (2) The authority may make the nomination.
 
@@ -321,11 +321,11 @@ the Secretary of State may give the authority notice that the Secretary of State
 
 #### England: persons appointed by the Secretary of State as members of panels
 
-**17.**[^key-5779ee8e3794facb516466b30579efa6] In this Part of this Schedule, a reference to a person appointed by the Secretary of State as a member of an English police and crime panel is a reference to a person who has been appointed by the Secretary of State as a member of the panel in accordance with paragraph 18.
+**17.**[^c-5779ee8e3794facb516466b30579efa6] In this Part of this Schedule, a reference to a person appointed by the Secretary of State as a member of an English police and crime panel is a reference to a person who has been appointed by the Secretary of State as a member of the panel in accordance with paragraph 18.
 
 #### England: nomination and appointment of members of panels by Secretary of State
 
-**18.**[^key-0d0283d00368d259fb8bddc20ad69dca] (1) This paragraph applies in relation to an English police and crime panel if the Secretary of State is satisfied that the number of appointed members of the panel is less than the full complement.
+**18.**[^c-0d0283d00368d259fb8bddc20ad69dca] (1) This paragraph applies in relation to an English police and crime panel if the Secretary of State is satisfied that the number of appointed members of the panel is less than the full complement.
 
 (2) The Secretary of State must nominate the appropriate number of persons who are councillors of relevant local authorities to be members of the police and crime panel.
 
@@ -344,7 +344,7 @@ the Secretary of State may give the authority notice that the Secretary of State
 
 #### Liabilities of panels
 
-**19.**[^key-7c91bae186ac96e647e5b0d84ef16b7c] (1) All relevant liabilities relating to a police and crime panel are liabilities of the Secretary of State (and accordingly are not liabilities of any member of the panel).
+**19.**[^c-7c91bae186ac96e647e5b0d84ef16b7c] (1) All relevant liabilities relating to a police and crime panel are liabilities of the Secretary of State (and accordingly are not liabilities of any member of the panel).
 
 (2) Any expense incurred by a member of a police and crime panel—
 
@@ -361,7 +361,7 @@ is to be borne and repaid by the Secretary of State.
 
 #### Provision of financial and other resources
 
-**20.**[^key-c120094c35a6ce93c8457a531d7047a6] (1) The Secretary of State may provide financial and other resources—
+**20.**[^c-c120094c35a6ce93c8457a531d7047a6] (1) The Secretary of State may provide financial and other resources—
 
 - (a) to a police and crime panel in connection with the exercise of the panel's functions;
 - (b) to the members of a police and crime panel in connection with the exercise of their functions; and
@@ -376,22 +376,22 @@ is to be borne and repaid by the Secretary of State.
 
 (4) The power under this paragraph to provide resources is in addition to the duty under paragraph 19(2).
 
-### Part 4 — General provisions[^key-1742e572392a3c7cdc68e65ce6ce2d07]
+### Part 4 — General provisions[^c-1742e572392a3c7cdc68e65ce6ce2d07]
 
 #### Restrictions on membership of panel
 
-**21.**[^key-246ab13ce937b97bcaf5ce46857ea46d][^key-a9ab8dffc99e2f080dac6b689cf0dccd] The police and crime commissioner for a police area may not be a member of the police and crime panel for the area.
+**21.**[^c-246ab13ce937b97bcaf5ce46857ea46d][^c-a9ab8dffc99e2f080dac6b689cf0dccd] The police and crime commissioner for a police area may not be a member of the police and crime panel for the area.
 
-**22.**[^key-12cb546b8b7863cd61c10447572b45a1] (1)[^key-bdf5cc0d9ac614e98f00ec8c4f317b1c] A person may not be a co-opted member of the police and crime panel for a police area if the person is any of the following—
+**22.**[^c-12cb546b8b7863cd61c10447572b45a1] (1)[^c-bdf5cc0d9ac614e98f00ec8c4f317b1c] A person may not be a co-opted member of the police and crime panel for a police area if the person is any of the following—
 
-- (a)[^key-180f4b6e1856239c2f586900f851b88e] a member of the staff of the police and crime commissioner for that police area;
+- (a)[^c-180f4b6e1856239c2f586900f851b88e] a member of the staff of the police and crime commissioner for that police area;
 - (b) a member of the civilian staff of the police force for that police area;
 - (c) a Member of Parliament;
 - (d) a member of the National Assembly for Wales;
 - (e) a member of the Scottish Parliament;
 - (f) a member of the European Parliament.
 
-(2)[^key-a20bf281b7431a032143402bfe146bc5] Sub-paragraph (3) applies (as well as sub-paragraph (1)) in relation to a police and crime panel for a police area which, under or by virtue of the Fire and Rescue Services Act 2004, exercises functions in relation to a fire and rescue authority.
+(2)[^c-a20bf281b7431a032143402bfe146bc5] Sub-paragraph (3) applies (as well as sub-paragraph (1)) in relation to a police and crime panel for a police area which, under or by virtue of the Fire and Rescue Services Act 2004, exercises functions in relation to a fire and rescue authority.
 
 (3) A person may not be a co-opted member of the panel if the person is—
 
@@ -400,13 +400,13 @@ is to be borne and repaid by the Secretary of State.
   - (i) transferred to the chief constable under a scheme made under subsection 4I(1) of that Act, or
   - (ii) appointed by the chief constable under section 4I(4) of that Act.
 
-**23.**[^key-513b4dcb541e36386419a6abb72740a2] (1) If the police and crime panel for a police area has two co-opted members, a member of a local authority which is covered by that police area may not be a co-opted member of that panel.
+**23.**[^c-513b4dcb541e36386419a6abb72740a2] (1) If the police and crime panel for a police area has two co-opted members, a member of a local authority which is covered by that police area may not be a co-opted member of that panel.
 
 (2) If the police and crime panel for a police area has three or more co-opted members, a member of a local authority which is covered by that police area may be a co-opted member of that panel only if at least two of the other co-opted members are not members of any such local authority.
 
 #### Panel arrangements
 
-**24.**[^key-0ac563a23ea624cc1bc87805dd1b162a] (1) Panel arrangements are arrangements for the establishment and maintenance of a police and crime panel.
+**24.**[^c-0ac563a23ea624cc1bc87805dd1b162a] (1) Panel arrangements are arrangements for the establishment and maintenance of a police and crime panel.
 
 (2) Panel arrangements must make provision about the co-option of, and holding of office by, the co-opted members of the police and crime panel.
 
@@ -427,7 +427,7 @@ is to be borne and repaid by the Secretary of State.
 
 #### Rules of procedure
 
-**25.**[^key-f1018bc43f80bf72bb23b07fb54d4b66] (1) A police and crime panel must make rules of procedure for the panel.
+**25.**[^c-f1018bc43f80bf72bb23b07fb54d4b66] (1) A police and crime panel must make rules of procedure for the panel.
 
 (2) A police and crime panel's rules of procedure must make provision about the appointment, resignation and removal of a person to chair the panel.
 
@@ -442,13 +442,13 @@ is to be borne and repaid by the Secretary of State.
 
 #### Voting by members
 
-**26.**[^key-6570dbec5792652cd46b909d1c841f83] All members of a police and crime panel may vote in proceedings of the panel.
+**26.**[^c-6570dbec5792652cd46b909d1c841f83] All members of a police and crime panel may vote in proceedings of the panel.
 
 #### Exercise of special functions
 
-**27.**[^key-9d1c5373c67d132a0ab9e6bc79141306][^key-568b08fbf17699e527367d64a9e5a590] (1) The special functions of a police and crime panel may not be discharged by a committee or sub-committee of the panel.
+**27.**[^c-9d1c5373c67d132a0ab9e6bc79141306][^c-568b08fbf17699e527367d64a9e5a590] (1) The special functions of a police and crime panel may not be discharged by a committee or sub-committee of the panel.
 
-(2)[^key-68ac4fd756c32d80e2d09dc22b3baef5] In this paragraph “**special functions**” means the functions conferred on a police and crime panel by—
+(2)[^c-68ac4fd756c32d80e2d09dc22b3baef5] In this paragraph “**special functions**” means the functions conferred on a police and crime panel by—
 
 - (a) section 28(3) (scrutiny of police and crime plan);
 - (b) section 28(4) (scrutiny of annual report);
@@ -456,15 +456,15 @@ is to be borne and repaid by the Secretary of State.
 - (d) Schedule 5 (issuing precepts); and
 - (e) Part 1 of Schedule 8 (scrutiny of appointment of chief constables).
 
-(3)[^key-d85e63c0fea1c680e1f80808736d7a85] The references in sub-paragraph (2) to section 28(3) and (4) and Schedule 5 include those provisions as applied in relation to a fire and rescue authority by virtue of Schedule A2 to the Fire and Rescue Services Act 2004.
+(3)[^c-d85e63c0fea1c680e1f80808736d7a85] The references in sub-paragraph (2) to section 28(3) and (4) and Schedule 5 include those provisions as applied in relation to a fire and rescue authority by virtue of Schedule A2 to the Fire and Rescue Services Act 2004.
 
 #### Allowances
 
-**28.**[^key-062dcd3680f4d4503cc9ed2fa08b0a93] The panel arrangements may make provision about the payment of allowances to members of the police and crime panel.
+**28.**[^c-062dcd3680f4d4503cc9ed2fa08b0a93] The panel arrangements may make provision about the payment of allowances to members of the police and crime panel.
 
 #### Promotion of, and support, for panels
 
-**29.**[^key-6775170500e9c7ca1b2823547cc7c055] The panel arrangements must make provision for—
+**29.**[^c-6775170500e9c7ca1b2823547cc7c055] The panel arrangements must make provision for—
 
 - (a) the role of the police and crime panel to be promoted;
 - (b) administrative and other support to be given to the police and crime panel and its members;
@@ -477,11 +477,11 @@ is to be borne and repaid by the Secretary of State.
 
 #### Validity of proceedings
 
-**30.**[^key-779162a6f82118cd70aa4e9c1124f73c] The validity of the proceedings of a police and crime panel is not affected by a vacancy in the membership of the panel or a defect in appointment.
+**30.**[^c-779162a6f82118cd70aa4e9c1124f73c] The validity of the proceedings of a police and crime panel is not affected by a vacancy in the membership of the panel or a defect in appointment.
 
 #### Duty to produce balanced panel
 
-**31.**[^key-8fbe2e0b9e5967790ccb161918688895] (1) In exercising functions under Part 2 or 3 of this Schedule, a relevant local authority must secure that (as far as is reasonably practicable) the balanced appointment objective is met.
+**31.**[^c-8fbe2e0b9e5967790ccb161918688895] (1) In exercising functions under Part 2 or 3 of this Schedule, a relevant local authority must secure that (as far as is reasonably practicable) the balanced appointment objective is met.
 
 (2) In exercising functions under Part 2 or 3 of this Schedule, the Secretary of State must secure that (as far as is reasonably practicable) the balanced appointment objective is met.
 
@@ -505,31 +505,31 @@ is to be borne and repaid by the Secretary of State.
 - (a) appointed members of the police and crime panel, and
 - (b) co-opted members of the panel who are members of relevant local authorities.
 
-**32.**[^key-2b2058263b636635f6dc13175d1dc0bc] In co-opting members who are not members of relevant local authorities, a police and crime panel must secure that (as far as is reasonably practicable) the appointed and co-opted members of the panel (when taken together) have the skills, knowledge and experience necessary for the police and crime panel to discharge its functions effectively.
+**32.**[^c-2b2058263b636635f6dc13175d1dc0bc] In co-opting members who are not members of relevant local authorities, a police and crime panel must secure that (as far as is reasonably practicable) the appointed and co-opted members of the panel (when taken together) have the skills, knowledge and experience necessary for the police and crime panel to discharge its functions effectively.
 
-#### Duty to produce panel with fire and rescue expertise[^key-d80b6959d55840c59ac9a5cd677326c6]
+#### Duty to produce panel with fire and rescue expertise[^c-d80b6959d55840c59ac9a5cd677326c6]
 
-**32A.**[^key-bb4f4bd149ef1c79988db01ece8ebcfe] (1) Sub-paragraph (2) applies in relation to a police and crime panel for a police area if—
+**32A.**[^c-bb4f4bd149ef1c79988db01ece8ebcfe] (1) Sub-paragraph (2) applies in relation to a police and crime panel for a police area if—
 
 - (a) a fire and rescue authority is created by an order under section 4A of the Fire and Rescue Services Act 2004, and
 - (b) the area of the fire and rescue authority is the same as, or falls within, the police area.
 
-(2)[^key-f3e27e3dfa039563d8ed8889caef275a] Each person listed in sub-paragraph (3)—
+(2)[^c-f3e27e3dfa039563d8ed8889caef275a] Each person listed in sub-paragraph (3)—
 
 - (a) must consider whether the person could exercise a function conferred on the person by or by virtue of this Schedule to enable the fire and rescue expertise objective to be met or to contribute to that objective being met, and
 - (b) if the person considers that the person could exercise such a function to that end, must do so.
 
-(3)[^key-f3e27e3dfa039563d8ed8889caef275a] Those persons are—
+(3)[^c-f3e27e3dfa039563d8ed8889caef275a] Those persons are—
 
 - (a) the panel,
 - (b) a relevant local authority, and
 - (c) the Secretary of State.
 
-(4)[^key-f3e27e3dfa039563d8ed8889caef275a] The “fire and rescue expertise objective” referred to in this paragraph is the objective that members of the panel (when taken together) have the skills, knowledge and experience necessary for the panel effectively to discharge its functions in relation to the fire and rescue authority.
+(4)[^c-f3e27e3dfa039563d8ed8889caef275a] The “fire and rescue expertise objective” referred to in this paragraph is the objective that members of the panel (when taken together) have the skills, knowledge and experience necessary for the panel effectively to discharge its functions in relation to the fire and rescue authority.
 
 #### Duty to nominate elected mayor to be a member of the panel
 
-**33.**[^key-326e6115c011f85cfd42324953e85944][^key-fd16e1b2b021698fd311db7696cc3b9c][^key-9577e53a07d208869fe7ff7e5ae8fe43] (1) This paragraph applies if—
+**33.**[^c-326e6115c011f85cfd42324953e85944][^c-fd16e1b2b021698fd311db7696cc3b9c][^c-9577e53a07d208869fe7ff7e5ae8fe43] (1) This paragraph applies if—
 
 - (a) a local authority has a mayor and cabinet executive, and
 - (b) the elected mayor of that executive is not a member of the relevant police and crime panel.
@@ -545,7 +545,7 @@ is to be borne and repaid by the Secretary of State.
 
 (5) But sub-paragraph (4) does not prevent the exercise of a power under this Schedule so as to make a further nomination of the current mayor to be a member of that panel.
 
-**34.**[^key-6cd9d0b2852b0e501f1d883345f0d4f5][^key-fd16e1b2b021698fd311db7696cc3b9c][^key-4121038d5f98cd519a85fb3e53b8e14d] (1) This paragraph applies if—
+**34.**[^c-6cd9d0b2852b0e501f1d883345f0d4f5][^c-fd16e1b2b021698fd311db7696cc3b9c][^c-4121038d5f98cd519a85fb3e53b8e14d] (1) This paragraph applies if—
 
 - (a) a local authority has a mayor and cabinet executive,
 - (b) under paragraph 6(2), 7(2), 8(2) or (3) or 16(2) the local authority nominates the person who holds office as elected mayor of the executive at that time (the “current mayor”) to be a member of the relevant police and crime panel,
@@ -554,7 +554,7 @@ is to be borne and repaid by the Secretary of State.
 
 (2) The Secretary of State may not, by virtue of that failure of the current mayor to become a member of the police and crime panel, nominate a person to be a member of that panel under paragraph 10(2) or 16(4)(b).
 
-**35.**[^key-39994d931885b1964dba893586024c76][^key-fd16e1b2b021698fd311db7696cc3b9c] (1) This paragraph applies for the purposes of paragraphs 33 and 34 and this paragraph.
+**35.**[^c-39994d931885b1964dba893586024c76][^c-fd16e1b2b021698fd311db7696cc3b9c] (1) This paragraph applies for the purposes of paragraphs 33 and 34 and this paragraph.
 
 (2) A reference to the start of the current mayoral term of a person who is the elected mayor of the executive of a local authority is a reference to the time when that person—
 
@@ -567,7 +567,7 @@ is to be borne and repaid by the Secretary of State.
 
 #### Application of other legislation
 
-**36.**[^key-f6753db21f5d317e9a788dfa24c13088] (1) The Secretary of State may, by regulations—
+**36.**[^c-f6753db21f5d317e9a788dfa24c13088] (1) The Secretary of State may, by regulations—
 
 - (a) amend or otherwise modify any local authority enactment in its application to police and crime panels or members of police and crime panels, and
 - (b) apply any local authority enactment (with or without modifications) to police and crime panels or members of police and crime panels if, or to the extent that, it does not so apply.
@@ -579,14 +579,14 @@ is to be borne and repaid by the Secretary of State.
 
 #### Regulations about notifications
 
-**37.**[^key-6c881c132361b0f87c6354420681ad3b] The Secretary of State may, by regulations, make provision about notifications to be given by persons in relation to—
+**37.**[^c-6c881c132361b0f87c6354420681ad3b] The Secretary of State may, by regulations, make provision about notifications to be given by persons in relation to—
 
 - (a) their compliance, or failure to comply, with any duty imposed under this Schedule; or
 - (b) their exercise, or failure to exercise, any power conferred under this Schedule.
 
 #### Regulations about making nominations
 
-**38.**[^key-295c9c9b8a729d3cc1ce42dfd0e680eb] (1) The Secretary of State may, by regulations, make provision about—
+**38.**[^c-295c9c9b8a729d3cc1ce42dfd0e680eb] (1) The Secretary of State may, by regulations, make provision about—
 
 - (a) the making of nominations (including provision about when nominations lapse);
 - (b) the notification of nominations (whether to the nominee or any other person); and
@@ -596,7 +596,7 @@ is to be borne and repaid by the Secretary of State.
 
 #### Regulations about making appointments
 
-**39.**[^key-a230d0b4395b772708676913f453bfad] (1) The Secretary of State may, by regulations, make provision about—
+**39.**[^c-a230d0b4395b772708676913f453bfad] (1) The Secretary of State may, by regulations, make provision about—
 
 - (a) the making of appointments;
 - (b) the notification of appointments (whether to the appointee or any other person); and
@@ -609,13 +609,13 @@ is to be borne and repaid by the Secretary of State.
 
 #### Regulations about modification etc of functions
 
-**40.**[^key-eae39a875cb07941f6880511ed74be58] (1) The Secretary of State may, by regulations, make provision for modifying, suspending, transferring or removing relevant functions insofar as they are exercisable in relation to police and crime panels in respect of which the Secretary of State is, or has been, required to nominate members.
+**40.**[^c-eae39a875cb07941f6880511ed74be58] (1) The Secretary of State may, by regulations, make provision for modifying, suspending, transferring or removing relevant functions insofar as they are exercisable in relation to police and crime panels in respect of which the Secretary of State is, or has been, required to nominate members.
 
 (2) In this paragraph, “**relevant functions**” means functions conferred on relevant local authorities or the Secretary of State by this Schedule.
 
 #### Interpretation
 
-**41.**[^key-f0caaf633080b7d99d68a839a6ae69f3] (1) A reference in this Schedule to a police area which covers a local authority is a reference to a police area whose area is the same as, or includes, all or part of the local authority's area.
+**41.**[^c-f0caaf633080b7d99d68a839a6ae69f3] (1) A reference in this Schedule to a police area which covers a local authority is a reference to a police area whose area is the same as, or includes, all or part of the local authority's area.
 
 (2) The circumstances in which a relevant local authority may be taken, for the purposes of this Schedule, to have failed to nominate or appoint a councillor as a member of a police and crime panel include circumstances where a councillor who is nominated and appointed fails to remain as a member of the panel for such a period as the Secretary of State considers reasonable.
 
@@ -638,120 +638,120 @@ is to be borne and repaid by the Secretary of State.
 
 ## Annotations
 
-[^key-1742e572392a3c7cdc68e65ce6ce2d07]: Modification: [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/34)
+[^c-1742e572392a3c7cdc68e65ce6ce2d07]: Modification: [Sch. 6](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6) applied (with modifications) (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2017/470/schedule/1/paragraph/34)
 
-[^key-effffb3ac3fff1555d89c6d1fc2d12da]: Commencement: Sch. 6 para. 1 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-effffb3ac3fff1555d89c6d1fc2d12da]: Commencement: Sch. 6 para. 1 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-4bb5f794768196373518ceb338449e4d]: Commencement: Sch. 6 para. 2 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-4bb5f794768196373518ceb338449e4d]: Commencement: Sch. 6 para. 2 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-c372767dfd2e10b487a6446d3c01f397]: Commencement: Sch. 6 para. 3 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-c372767dfd2e10b487a6446d3c01f397]: Commencement: Sch. 6 para. 3 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-a525a99e6426368081ee4c33bce20b4f]: Modification: Sch. 6 para. 3(3) modified (3.10.2012) by [The Police and Crime Panels (Modification of Functions) Regulations 2012 (S.I. 2012/2504)](https://www.legislation.gov.uk/uksi/2012/2504), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2504/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/2504/regulation/2)
+[^c-a525a99e6426368081ee4c33bce20b4f]: Modification: Sch. 6 para. 3(3) modified (3.10.2012) by [The Police and Crime Panels (Modification of Functions) Regulations 2012 (S.I. 2012/2504)](https://www.legislation.gov.uk/uksi/2012/2504), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2504/regulation/1), [2](https://www.legislation.gov.uk/uksi/2012/2504/regulation/2)
 
-[^key-cce364a0d2e5df2df62cd29582f54125]: Commencement: Sch. 6 para. 4 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-cce364a0d2e5df2df62cd29582f54125]: Commencement: Sch. 6 para. 4 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-06b8cea6763d68d892a8b403e3a164a7]: Modification: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/4) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 8(8)(a)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/8/8/a)
+[^c-06b8cea6763d68d892a8b403e3a164a7]: Modification: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/4) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 8(8)(a)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/8/8/a)
 
-[^key-e1335b7149d56b5bf1c2110260b93f7a]: Textual amendment: Words in [Sch. 6 para. 4(6)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/4/6) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 92(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92/2); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-e1335b7149d56b5bf1c2110260b93f7a]: Textual amendment: Words in [Sch. 6 para. 4(6)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/4/6) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 92(2)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92/2); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-7f1412c8ba2531fe24fa5b242837cbf1]: Modification: [Sch. 6 para. 4(6)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/4/6) applied by [S.I. 2017/469](https://www.legislation.gov.uk/uksi/2017/469), [Sch. 1 para. 5(8)(a)](https://www.legislation.gov.uk/uksi/2017/469/schedule/1/paragraph/5/8/a) (as inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [9](https://www.legislation.gov.uk/uksi/2020/641/article/9))
+[^c-7f1412c8ba2531fe24fa5b242837cbf1]: Modification: [Sch. 6 para. 4(6)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/4/6) applied by [S.I. 2017/469](https://www.legislation.gov.uk/uksi/2017/469), [Sch. 1 para. 5(8)(a)](https://www.legislation.gov.uk/uksi/2017/469/schedule/1/paragraph/5/8/a) (as inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [9](https://www.legislation.gov.uk/uksi/2020/641/article/9))
 
-[^key-8325ecb6ce48837b6061ae9476c9df2e]: Commencement: Sch. 6 para. 5 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-8325ecb6ce48837b6061ae9476c9df2e]: Commencement: Sch. 6 para. 5 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-4e30c954d8c0c69a93c144331d3660e8]: Commencement: Sch. 6 para. 6 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-4e30c954d8c0c69a93c144331d3660e8]: Commencement: Sch. 6 para. 6 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-fa27d8ba3294722c803b0391b48c13cc]: Commencement: Sch. 6 para. 7 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-fa27d8ba3294722c803b0391b48c13cc]: Commencement: Sch. 6 para. 7 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-88e2ce27aed935c15bdf4646ab69c306]: Commencement: Sch. 6 para. 8 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-88e2ce27aed935c15bdf4646ab69c306]: Commencement: Sch. 6 para. 8 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-0f6a515e2dc715400acae8415d20931d]: Commencement: Sch. 6 para. 9 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-0f6a515e2dc715400acae8415d20931d]: Commencement: Sch. 6 para. 9 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-e726e22faac9bd7e42d745cc8977de6d]: Commencement: Sch. 6 para. 10 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-e726e22faac9bd7e42d745cc8977de6d]: Commencement: Sch. 6 para. 10 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-84b6f92b292f1db0de6142d76a941632]: Commencement: Sch. 6 para. 11 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-84b6f92b292f1db0de6142d76a941632]: Commencement: Sch. 6 para. 11 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-eba3e5df51b9f8ff368b8ba4ddf0c779]: Commencement: Sch. 6 para. 12 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-eba3e5df51b9f8ff368b8ba4ddf0c779]: Commencement: Sch. 6 para. 12 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-fb8d581cfe06433fa346dd2b65d2989a]: Commencement: Sch. 6 para. 13 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-fb8d581cfe06433fa346dd2b65d2989a]: Commencement: Sch. 6 para. 13 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-85da175b07ccf6933d288911d7c60f14]: Commencement: Sch. 6 para. 14 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-85da175b07ccf6933d288911d7c60f14]: Commencement: Sch. 6 para. 14 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-f0b93af793981c4d3e403b070fc1c422]: Commencement: Sch. 6 para. 15 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-f0b93af793981c4d3e403b070fc1c422]: Commencement: Sch. 6 para. 15 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-796d0f30c8734e21b75d76e12cca3a96]: Commencement: Sch. 6 para. 16 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-796d0f30c8734e21b75d76e12cca3a96]: Commencement: Sch. 6 para. 16 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-5779ee8e3794facb516466b30579efa6]: Commencement: Sch. 6 para. 17 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-5779ee8e3794facb516466b30579efa6]: Commencement: Sch. 6 para. 17 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-0d0283d00368d259fb8bddc20ad69dca]: Commencement: Sch. 6 para. 18 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-0d0283d00368d259fb8bddc20ad69dca]: Commencement: Sch. 6 para. 18 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-7c91bae186ac96e647e5b0d84ef16b7c]: Commencement: Sch. 6 para. 19 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-7c91bae186ac96e647e5b0d84ef16b7c]: Commencement: Sch. 6 para. 19 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-c120094c35a6ce93c8457a531d7047a6]: Commencement: Sch. 6 para. 20 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-c120094c35a6ce93c8457a531d7047a6]: Commencement: Sch. 6 para. 20 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-246ab13ce937b97bcaf5ce46857ea46d]: Commencement: Sch. 6 para. 21 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-246ab13ce937b97bcaf5ce46857ea46d]: Commencement: Sch. 6 para. 21 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-a9ab8dffc99e2f080dac6b689cf0dccd]: Modification: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/21) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 34(a)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/34/a)
+[^c-a9ab8dffc99e2f080dac6b689cf0dccd]: Modification: [Sch. 6 para. 21](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/21) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 34(a)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/34/a)
 
-[^key-12cb546b8b7863cd61c10447572b45a1]: Commencement: Sch. 6 para. 22 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-12cb546b8b7863cd61c10447572b45a1]: Commencement: Sch. 6 para. 22 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-bdf5cc0d9ac614e98f00ec8c4f317b1c]: Textual amendment: Sch. 6 para. 22(1): Sch. 6 para. 22 renumbered as Sch. 6 para. 22(1) (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 92(3)(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92/3/a); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-bdf5cc0d9ac614e98f00ec8c4f317b1c]: Textual amendment: Sch. 6 para. 22(1): Sch. 6 para. 22 renumbered as Sch. 6 para. 22(1) (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 92(3)(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92/3/a); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-180f4b6e1856239c2f586900f851b88e]: Modification: [Sch. 6 para. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/22/1/a) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 34(b)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/34/b)
+[^c-180f4b6e1856239c2f586900f851b88e]: Modification: [Sch. 6 para. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/22/1/a) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 34(b)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/34/b)
 
-[^key-a20bf281b7431a032143402bfe146bc5]: Textual amendment: Sch. 6 para. 22(2)(3) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 92(3)(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92/3/b); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-a20bf281b7431a032143402bfe146bc5]: Textual amendment: Sch. 6 para. 22(2)(3) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 92(3)(b)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92/3/b); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-513b4dcb541e36386419a6abb72740a2]: Commencement: Sch. 6 para. 23 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-513b4dcb541e36386419a6abb72740a2]: Commencement: Sch. 6 para. 23 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-0ac563a23ea624cc1bc87805dd1b162a]: Commencement: Sch. 6 para. 24 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-0ac563a23ea624cc1bc87805dd1b162a]: Commencement: Sch. 6 para. 24 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-f1018bc43f80bf72bb23b07fb54d4b66]: Commencement: Sch. 6 para. 25 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-f1018bc43f80bf72bb23b07fb54d4b66]: Commencement: Sch. 6 para. 25 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-6570dbec5792652cd46b909d1c841f83]: Commencement: Sch. 6 para. 26 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-6570dbec5792652cd46b909d1c841f83]: Commencement: Sch. 6 para. 26 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-9d1c5373c67d132a0ab9e6bc79141306]: Commencement: Sch. 6 para. 27 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-9d1c5373c67d132a0ab9e6bc79141306]: Commencement: Sch. 6 para. 27 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-568b08fbf17699e527367d64a9e5a590]: Modification: [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/27) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 8(8)(b)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/8/8/b)
+[^c-568b08fbf17699e527367d64a9e5a590]: Modification: [Sch. 6 para. 27](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/27) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 8(8)(b)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/8/8/b)
 
-[^key-68ac4fd756c32d80e2d09dc22b3baef5]: Modification: [Sch. 6 para. 27(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/27/2) applied by [S.I. 2017/469](https://www.legislation.gov.uk/uksi/2017/469), [Sch. 1 para. 5(8)(b)](https://www.legislation.gov.uk/uksi/2017/469/schedule/1/paragraph/5/8/b) (as inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [9](https://www.legislation.gov.uk/uksi/2020/641/article/9))
+[^c-68ac4fd756c32d80e2d09dc22b3baef5]: Modification: [Sch. 6 para. 27(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/27/2) applied by [S.I. 2017/469](https://www.legislation.gov.uk/uksi/2017/469), [Sch. 1 para. 5(8)(b)](https://www.legislation.gov.uk/uksi/2017/469/schedule/1/paragraph/5/8/b) (as inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [9](https://www.legislation.gov.uk/uksi/2020/641/article/9))
 
-[^key-d85e63c0fea1c680e1f80808736d7a85]: Textual amendment: [Sch. 6 para. 27(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/27/3) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 92(4)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92/4); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-d85e63c0fea1c680e1f80808736d7a85]: Textual amendment: [Sch. 6 para. 27(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/27/3) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 92(4)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92/4); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-062dcd3680f4d4503cc9ed2fa08b0a93]: Commencement: Sch. 6 para. 28 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-062dcd3680f4d4503cc9ed2fa08b0a93]: Commencement: Sch. 6 para. 28 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-6775170500e9c7ca1b2823547cc7c055]: Commencement: Sch. 6 para. 29 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-6775170500e9c7ca1b2823547cc7c055]: Commencement: Sch. 6 para. 29 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-779162a6f82118cd70aa4e9c1124f73c]: Commencement: Sch. 6 para. 30 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-779162a6f82118cd70aa4e9c1124f73c]: Commencement: Sch. 6 para. 30 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-8fbe2e0b9e5967790ccb161918688895]: Commencement: Sch. 6 para. 31 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-8fbe2e0b9e5967790ccb161918688895]: Commencement: Sch. 6 para. 31 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-2b2058263b636635f6dc13175d1dc0bc]: Commencement: Sch. 6 para. 32 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-2b2058263b636635f6dc13175d1dc0bc]: Commencement: Sch. 6 para. 32 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-d80b6959d55840c59ac9a5cd677326c6]: Textual amendment: [Sch. 6 para. 32A and crossheading](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/part/2/crossheading/appointment-after-nomination-by-local-authorityn1) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 92(5)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
+[^c-d80b6959d55840c59ac9a5cd677326c6]: Textual amendment: [Sch. 6 para. 32A and crossheading](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/part/2/crossheading/appointment-after-nomination-by-local-authorityn1) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 1 para. 92(5)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/1/paragraph/92/5); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/38)
 
-[^key-bb4f4bd149ef1c79988db01ece8ebcfe]: Modification: [Sch. 6 para. 32A](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/32A) applied (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 8(8)(c)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/8/8/c)
+[^c-bb4f4bd149ef1c79988db01ece8ebcfe]: Modification: [Sch. 6 para. 32A](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/32A) applied (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [46(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/46/2), [Sch. 7 para. 8(8)(c)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/7/paragraph/8/8/c)
 
-[^key-f3e27e3dfa039563d8ed8889caef275a]: Modification: [Sch. 6 paras. 32A(2)-(4)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/32A/2) applied by [S.I. 2017/469](https://www.legislation.gov.uk/uksi/2017/469), [Sch. 1 para. 5(8)(c)](https://www.legislation.gov.uk/uksi/2017/469/schedule/1/paragraph/5/8/c) (as inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [9](https://www.legislation.gov.uk/uksi/2020/641/article/9))
+[^c-f3e27e3dfa039563d8ed8889caef275a]: Modification: [Sch. 6 paras. 32A(2)-(4)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/32A/2) applied by [S.I. 2017/469](https://www.legislation.gov.uk/uksi/2017/469), [Sch. 1 para. 5(8)(c)](https://www.legislation.gov.uk/uksi/2017/469/schedule/1/paragraph/5/8/c) (as inserted (26.6.2020) by [The Greater Manchester Combined Authority (Fire and Rescue Functions) (Amendment) Order 2020 (S.I. 2020/641)](https://www.legislation.gov.uk/uksi/2020/641), [arts. 1](https://www.legislation.gov.uk/uksi/2020/641/article/1), [9](https://www.legislation.gov.uk/uksi/2020/641/article/9))
 
-[^key-326e6115c011f85cfd42324953e85944]: Commencement: Sch. 6 para. 33 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-326e6115c011f85cfd42324953e85944]: Commencement: Sch. 6 para. 33 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-fd16e1b2b021698fd311db7696cc3b9c]: Modification: Sch. 6 paras. 33-35 excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 21(g)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/21/g)
+[^c-fd16e1b2b021698fd311db7696cc3b9c]: Modification: Sch. 6 paras. 33-35 excluded (8.5.2017) by [The Greater Manchester Combined Authority (Transfer of Police and Crime Commissioner Functions to the Mayor) Order 2017 (S.I. 2017/470)](https://www.legislation.gov.uk/uksi/2017/470), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2), [Sch. 2 para. 21(g)](https://www.legislation.gov.uk/uksi/2017/470/schedule/2/paragraph/21/g)
 
-[^key-9577e53a07d208869fe7ff7e5ae8fe43]: Modification: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/33/1A) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 34(c)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/34/c)
+[^c-9577e53a07d208869fe7ff7e5ae8fe43]: Modification: [Sch. 6 para. 33](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/33/1A) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 34(c)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/34/c)
 
-[^key-6cd9d0b2852b0e501f1d883345f0d4f5]: Commencement: Sch. 6 para. 34 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-6cd9d0b2852b0e501f1d883345f0d4f5]: Commencement: Sch. 6 para. 34 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-4121038d5f98cd519a85fb3e53b8e14d]: Modification: [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/34/1A) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 34(d)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/34/d)
+[^c-4121038d5f98cd519a85fb3e53b8e14d]: Modification: [Sch. 6 para. 34](https://www.legislation.gov.uk/ukpga/2011/13/schedule/6/paragraph/34/1A) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [33(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/33/2), [Sch. 5 para. 34(d)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/5/paragraph/34/d)
 
-[^key-39994d931885b1964dba893586024c76]: Commencement: Sch. 6 para. 35 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-39994d931885b1964dba893586024c76]: Commencement: Sch. 6 para. 35 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-f6753db21f5d317e9a788dfa24c13088]: Commencement: Sch. 6 para. 36 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-f6753db21f5d317e9a788dfa24c13088]: Commencement: Sch. 6 para. 36 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-6c881c132361b0f87c6354420681ad3b]: Commencement: Sch. 6 para. 37 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-6c881c132361b0f87c6354420681ad3b]: Commencement: Sch. 6 para. 37 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-295c9c9b8a729d3cc1ce42dfd0e680eb]: Commencement: Sch. 6 para. 38 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-295c9c9b8a729d3cc1ce42dfd0e680eb]: Commencement: Sch. 6 para. 38 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-a230d0b4395b772708676913f453bfad]: Commencement: Sch. 6 para. 39 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-a230d0b4395b772708676913f453bfad]: Commencement: Sch. 6 para. 39 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-eae39a875cb07941f6880511ed74be58]: Commencement: Sch. 6 para. 40 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-eae39a875cb07941f6880511ed74be58]: Commencement: Sch. 6 para. 40 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
 
-[^key-f0caaf633080b7d99d68a839a6ae69f3]: Commencement: Sch. 6 para. 41 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)
+[^c-f0caaf633080b7d99d68a839a6ae69f3]: Commencement: Sch. 6 para. 41 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(e)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/e)

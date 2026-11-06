@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95A. Employment training schemes etc[^key-31938c955313eb1ac8f8225ffbc62447]
+## 95A. Employment training schemes etc[^c-31938c955313eb1ac8f8225ffbc62447]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31938c955313eb1ac8f8225ffbc62447]: Textual amendment: S. 95A inserted (30.10.2012 for specified purposes, 31.10.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 66(1)](https://www.legislation.gov.uk/ukpga/2012/5/section/66/1), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/b); [S.I. 2013/2534](https://www.legislation.gov.uk/uksi/2013/2534), [art. 2](https://www.legislation.gov.uk/uksi/2013/2534/article/2)
+[^c-31938c955313eb1ac8f8225ffbc62447]: Textual amendment: S. 95A inserted (30.10.2012 for specified purposes, 31.10.2013 in so far as not already in force) by [Welfare Reform Act 2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5), [ss. 66(1)](https://www.legislation.gov.uk/ukpga/2012/5/section/66/1), [150(3)](https://www.legislation.gov.uk/ukpga/2012/5/section/150/3); [S.I. 2012/2530](https://www.legislation.gov.uk/uksi/2012/2530), [art. 2(5)(b)](https://www.legislation.gov.uk/uksi/2012/2530/article/2/5/b); [S.I. 2013/2534](https://www.legislation.gov.uk/uksi/2013/2534), [art. 2](https://www.legislation.gov.uk/uksi/2013/2534/article/2)

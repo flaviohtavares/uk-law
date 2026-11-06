@@ -31,7 +31,7 @@ Forestry Act 1967
 
 [^M_F_19958652-57e8-4bc4-ed4b-225cd3e274e7]An Act to consolidate the Forestry Acts 1919 to 1963 with corrections and improvements made under the Consolidation of Enactments (Procedure) Act 1949.
 
-\[22nd March 1967\][^c377187][^key-18dc6fb77a5bcf68cbe85114c569aeaf]
+\[22nd March 1967\][^c377187][^c-18dc6fb77a5bcf68cbe85114c569aeaf]
 
 ## Contents
 
@@ -56,7 +56,7 @@ Forestry Act 1967
 - [Section 8 — Miscellaneous powers of Commissioners.](part-i/section-8.md)
 - [Section 8A — General duty of Ministers.](part-i/section-8a.md)
 
-### Part II — ... Power to Control Felling of Trees[^key-13dd27cce3060b8abe89951a4c3408fe]
+### Part II — ... Power to Control Felling of Trees[^c-13dd27cce3060b8abe89951a4c3408fe]
 
 *Extent: E+W+S*
 
@@ -166,6 +166,6 @@ SCHEDULES
 
 [^c377187]: Commencement: Act wholly in force at Royal Assent.
 
-[^key-18dc6fb77a5bcf68cbe85114c569aeaf]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1967/10) modified (27.7.2023) by [The Boston Alternative Energy Facility Order 2023 (S.I. 2023/778)](https://www.legislation.gov.uk/uksi/2023/778), [arts. 1](https://www.legislation.gov.uk/uksi/2023/778/article/1), [42(3)](https://www.legislation.gov.uk/uksi/2023/778/article/42/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2023/778/article/5), [53](https://www.legislation.gov.uk/uksi/2023/778/article/53), [Sch. 8 paras. 6](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/6), [64](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/64))
+[^c-18dc6fb77a5bcf68cbe85114c569aeaf]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1967/10) modified (27.7.2023) by [The Boston Alternative Energy Facility Order 2023 (S.I. 2023/778)](https://www.legislation.gov.uk/uksi/2023/778), [arts. 1](https://www.legislation.gov.uk/uksi/2023/778/article/1), [42(3)](https://www.legislation.gov.uk/uksi/2023/778/article/42/3) (with [arts. 5](https://www.legislation.gov.uk/uksi/2023/778/article/5), [53](https://www.legislation.gov.uk/uksi/2023/778/article/53), [Sch. 8 paras. 6](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/6), [64](https://www.legislation.gov.uk/uksi/2023/778/schedule/8/paragraph/64))
 
-[^key-13dd27cce3060b8abe89951a4c3408fe]: Textual amendment: Word in Pt. II cross-heading omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 52](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/52) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-13dd27cce3060b8abe89951a4c3408fe]: Textual amendment: Word in Pt. II cross-heading omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 52](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/52) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

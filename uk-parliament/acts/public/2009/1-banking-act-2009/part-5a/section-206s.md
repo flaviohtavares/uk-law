@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 206S. Publication[^key-ae09a7768d77aba2c7df294dec95488a]
+## 206S. Publication[^c-ae09a7768d77aba2c7df294dec95488a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The Bank of England may publish details of—
 
 ## Annotations
 
-[^key-ae09a7768d77aba2c7df294dec95488a]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2009/1/part/5A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/1)
+[^c-ae09a7768d77aba2c7df294dec95488a]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2009/1/part/5A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/1)

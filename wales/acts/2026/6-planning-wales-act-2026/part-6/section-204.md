@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 204. CIL regulations: general[^key-15034944e823d4502dc45c6b9ff2d57a]
+## 204. CIL regulations: general[^c-15034944e823d4502dc45c6b9ff2d57a]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ CIL regulations may—
 
 ## Annotations
 
-[^key-15034944e823d4502dc45c6b9ff2d57a]: Commencement: S. 204 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-15034944e823d4502dc45c6b9ff2d57a]: Commencement: S. 204 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

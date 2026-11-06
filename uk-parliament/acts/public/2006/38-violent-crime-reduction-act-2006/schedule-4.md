@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Forfeiture and detention of vehicles etc.[^key-8b2f1b6d22ab2bca66bda7c8be4b3e09]
+## SCHEDULE 4 — Forfeiture and detention of vehicles etc.[^c-8b2f1b6d22ab2bca66bda7c8be4b3e09]
 
 *Extent: E+W+N.I.*
 
 Section 54
 
-**1.**[^key-c15bd873452c3242f829de74e4f54a4f] The Sexual Offences Act 2003 (c. 42) is amended as follows.
+**1.**[^c-c15bd873452c3242f829de74e4f54a4f] The Sexual Offences Act 2003 (c. 42) is amended as follows.
 
-**2.**[^key-3970d8570a0341fc0a98e87bfb01de0d] After section 60 (sections 57 to 59: interpretation and jurisdiction) insert—
+**2.**[^c-3970d8570a0341fc0a98e87bfb01de0d] After section 60 (sections 57 to 59: interpretation and jurisdiction) insert—
 
 > **60A. Forfeiture of land vehicle, ship or aircraft**
 >
@@ -104,16 +104,16 @@ Section 54
 >
 > (2) In sections 60A and 60B, a reference to being an owner of a vehicle, ship or aircraft includes a reference to being any of a number of persons who jointly own it.
 
-**3.**[^key-2ab51b0b226038b2865109f71a4ff93e] In section 142(2) (provisions extending to Northern Ireland), in paragraph (a) for “to 60” substitute *(Extent: N.I.)* *(affected by repeal, see note)*[^key-482bfedfdcb0425b565e52918c00d4f8] “ to 60C ” *(Extent: N.I.)* *(affected by repeal, see note)*[^key-482bfedfdcb0425b565e52918c00d4f8] . *(Extent: N.I.)* *(affected by repeal, see note)*[^key-482bfedfdcb0425b565e52918c00d4f8]
+**3.**[^c-2ab51b0b226038b2865109f71a4ff93e] In section 142(2) (provisions extending to Northern Ireland), in paragraph (a) for “to 60” substitute *(Extent: N.I.)* *(affected by repeal, see note)*[^c-482bfedfdcb0425b565e52918c00d4f8] “ to 60C ” *(Extent: N.I.)* *(affected by repeal, see note)*[^c-482bfedfdcb0425b565e52918c00d4f8] . *(Extent: N.I.)* *(affected by repeal, see note)*[^c-482bfedfdcb0425b565e52918c00d4f8]
 
 ## Annotations
 
-[^key-8b2f1b6d22ab2bca66bda7c8be4b3e09]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/38/schedule/4) repealed (N.I.) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (NorthernÂ Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28](https://www.legislation.gov.uk/nia/2015/2/section/28), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
+[^c-8b2f1b6d22ab2bca66bda7c8be4b3e09]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/38/schedule/4) repealed (N.I.) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (NorthernÂ Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28](https://www.legislation.gov.uk/nia/2015/2/section/28), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
 
-[^key-c15bd873452c3242f829de74e4f54a4f]: Commencement: Sch. 4 para. 1 in force at 12.2.2007 by [S.I. 2007/74](https://www.legislation.gov.uk/uksi/2007/74), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/74/article/2/b)
+[^c-c15bd873452c3242f829de74e4f54a4f]: Commencement: Sch. 4 para. 1 in force at 12.2.2007 by [S.I. 2007/74](https://www.legislation.gov.uk/uksi/2007/74), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/74/article/2/b)
 
-[^key-3970d8570a0341fc0a98e87bfb01de0d]: Commencement: Sch. 4 para. 2 in force at 12.2.2007 by [S.I. 2007/74](https://www.legislation.gov.uk/uksi/2007/74), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/74/article/2/b)
+[^c-3970d8570a0341fc0a98e87bfb01de0d]: Commencement: Sch. 4 para. 2 in force at 12.2.2007 by [S.I. 2007/74](https://www.legislation.gov.uk/uksi/2007/74), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/74/article/2/b)
 
-[^key-2ab51b0b226038b2865109f71a4ff93e]: Commencement: Sch. 4 para. 3 in force at 12.2.2007 by [S.I. 2007/74](https://www.legislation.gov.uk/uksi/2007/74), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/74/article/2/b)
+[^c-2ab51b0b226038b2865109f71a4ff93e]: Commencement: Sch. 4 para. 3 in force at 12.2.2007 by [S.I. 2007/74](https://www.legislation.gov.uk/uksi/2007/74), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/74/article/2/b)
 
-[^key-482bfedfdcb0425b565e52918c00d4f8]: Textual amendment: Sch. 4 para. 3 repealed (N.I.) (2.2.2009) by [The Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769)](https://www.legislation.gov.uk/nisi/2008/1769), [art. 1(3)](https://www.legislation.gov.uk/nisi/2008/1769/article/1/3), [Sch. 3](https://www.legislation.gov.uk/nisi/2008/1769/schedule/3); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
+[^c-482bfedfdcb0425b565e52918c00d4f8]: Textual amendment: Sch. 4 para. 3 repealed (N.I.) (2.2.2009) by [The Sexual Offences (Northern Ireland) Order 2008 (S.I. 2008/1769)](https://www.legislation.gov.uk/nisi/2008/1769), [art. 1(3)](https://www.legislation.gov.uk/nisi/2008/1769/article/1/3), [Sch. 3](https://www.legislation.gov.uk/nisi/2008/1769/schedule/3); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)

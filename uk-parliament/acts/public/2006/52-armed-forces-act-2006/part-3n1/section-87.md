@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Power of CO to authorise entry and search by service policeman[^key-e6d34e2fa382664839f069dcc387362d][^key-3d8633a0899e74210425f6e4ab1427a9]
+## 87. Power of CO to authorise entry and search by service policeman[^c-e6d34e2fa382664839f069dcc387362d][^c-3d8633a0899e74210425f6e4ab1427a9]
 
 *Extent: E+W+S+N.I.*
 
 (1) An officer may authorise a service policeman to enter and search premises within subsection (3) if the officer has reasonable grounds for believing—
 
-- (a)[^key-0b05d6688f8ef7eac7205e3691f00ecb] that a relevant offence within the meaning of section 84 has been committed;
+- (a)[^c-0b05d6688f8ef7eac7205e3691f00ecb] that a relevant offence within the meaning of section 84 has been committed;
 - (b) that material which is likely to be of substantial value (whether by itself or together with other material) to the investigation of the offence is on the premises;
 - (c) that the material would be likely to be admissible in evidence at a trial for the offence;
 - (d) that it does not consist of or include items subject to legal privilege, excluded material or special procedure material (within the meaning given by section 84);
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e6d34e2fa382664839f069dcc387362d]: Commencement: S. 87 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-e6d34e2fa382664839f069dcc387362d]: Commencement: S. 87 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-3d8633a0899e74210425f6e4ab1427a9]: Commencement: S. 87 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-3d8633a0899e74210425f6e4ab1427a9]: Commencement: S. 87 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-0b05d6688f8ef7eac7205e3691f00ecb]: Textual amendment: S. 87(1)(a)-(f) substituted for s. 87(1)(a)(b) (14.12.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2011/18/schedule/4/paragraph/6); [S.I. 2012/2921](https://www.legislation.gov.uk/uksi/2012/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/2921/article/3/b)
+[^c-0b05d6688f8ef7eac7205e3691f00ecb]: Textual amendment: S. 87(1)(a)-(f) substituted for s. 87(1)(a)(b) (14.12.2012) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [s. 32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3), [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2011/18/schedule/4/paragraph/6); [S.I. 2012/2921](https://www.legislation.gov.uk/uksi/2012/2921), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/2921/article/3/b)

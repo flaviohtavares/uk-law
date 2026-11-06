@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Repeal of existing powers to regulate social workers[^key-304f8b54e10565504ece874b17c716e3]
+## 61. Repeal of existing powers to regulate social workers[^c-304f8b54e10565504ece874b17c716e3]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-304f8b54e10565504ece874b17c716e3]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2017/16/section/61) in force at 2.12.2019 by [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/n)
+[^c-304f8b54e10565504ece874b17c716e3]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2017/16/section/61) in force at 2.12.2019 by [S.I. 2019/1436](https://www.legislation.gov.uk/uksi/2019/1436), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2019/1436/regulation/2/n)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212. Special trustees for a university hospital or teaching hospital[^key-76ca20179f55987d926badf2a1e2fd28]
+## 212. Special trustees for a university hospital or teaching hospital[^c-76ca20179f55987d926badf2a1e2fd28]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76ca20179f55987d926badf2a1e2fd28]: Textual amendment: [S. 212](https://www.legislation.gov.uk/ukpga/2006/41/section/212) omitted (17.6.2021) by virtue of [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [ss. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2016/10/section/1/1/b), [5(1)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/1); [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/a)
+[^c-76ca20179f55987d926badf2a1e2fd28]: Textual amendment: [S. 212](https://www.legislation.gov.uk/ukpga/2006/41/section/212) omitted (17.6.2021) by virtue of [NHS (Charitable Trusts Etc) Act 2016 (c. 10)](https://www.legislation.gov.uk/ukpga/2016/10), [ss. 1(1)(b)](https://www.legislation.gov.uk/ukpga/2016/10/section/1/1/b), [5(1)](https://www.legislation.gov.uk/ukpga/2016/10/section/5/1); [S.I. 2021/712](https://www.legislation.gov.uk/uksi/2021/712), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2021/712/regulation/3/a)

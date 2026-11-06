@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41P. Claim for relief for qualifying new residents[^key-136f1c4573a8120bd967a5b83f07519e]
+## 41P. Claim for relief for qualifying new residents[^c-136f1c4573a8120bd967a5b83f07519e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) The relief is given by deducting the amount of the relief in calculating the individual's net income for the tax year for which the claim is made (see Step 2 of the calculation in section 23 of ITA 2007).
 
-(4A)[^key-a034b14aa355a8e8db06bc7bff5ce29d] But a deduction for that purpose is to be made only from qualifying foreign employment income.
+(4A)[^c-a034b14aa355a8e8db06bc7bff5ce29d] But a deduction for that purpose is to be made only from qualifying foreign employment income.
 
 (5) A foreign employment relief claim must be made in a return.
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-136f1c4573a8120bd967a5b83f07519e]: Textual amendment: [Pt. 2 Ch. 5C](https://www.legislation.gov.uk/ukpga/2003/1/part/2/chapter/5C) inserted (20.3.2025 for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/1)[(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
+[^c-136f1c4573a8120bd967a5b83f07519e]: Textual amendment: [Pt. 2 Ch. 5C](https://www.legislation.gov.uk/ukpga/2003/1/part/2/chapter/5C) inserted (20.3.2025 for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/1)[(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
 
-[^key-a034b14aa355a8e8db06bc7bff5ce29d]: Textual amendment: [S. 41P(4A)](https://www.legislation.gov.uk/ukpga/2003/1/section/41P/4A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/2)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/5)
+[^c-a034b14aa355a8e8db06bc7bff5ce29d]: Textual amendment: [S. 41P(4A)](https://www.legislation.gov.uk/ukpga/2003/1/section/41P/4A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/2)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/5)

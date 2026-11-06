@@ -24,7 +24,7 @@ summary: ''
 
 (2) The authority shall, within seven days of their receiving the application, notify the occupier of the dwelling-house of which possession is sought (“the dwelling-house”) that the application has been made.
 
-(3) If the dwelling-house is in Wales, the authority[^key-7c844223cc1c7182c7ec049f75adc6fe], or the applicant, or the occupier of the dwelling-house, may obtain advice on the case made by the applicant concerning the interests of efficient agriculture, and regarding the urgency of the application, by applying for the services of a committee under section 29 of this Act.
+(3) If the dwelling-house is in Wales, the authority[^c-7c844223cc1c7182c7ec049f75adc6fe], or the applicant, or the occupier of the dwelling-house, may obtain advice on the case made by the applicant concerning the interests of efficient agriculture, and regarding the urgency of the application, by applying for the services of a committee under section 29 of this Act.
 
 (4) The committee shall tender its advice in writing to the authority, and make copies of it available for the applicant and the occupier of the dwelling-house.
 
@@ -59,7 +59,7 @@ A person who without reasonable excuse fails to comply with this subsection shal
 
 ## Annotations
 
-[^key-7c844223cc1c7182c7ec049f75adc6fe]: Textual amendment: Words in [s. 28(3)](https://www.legislation.gov.uk/ukpga/1976/80/section/28/3) substituted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/1); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/a) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/3))
+[^c-7c844223cc1c7182c7ec049f75adc6fe]: Textual amendment: Words in [s. 28(3)](https://www.legislation.gov.uk/ukpga/1976/80/section/28/3) substituted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/1); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/a) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/3))
 
 [^c13230591]: Textual amendment: S. 28(6)(6A) substituted for s. 28(6) by [Rent (Agriculture) Amendment Act 1977 (c. 17)](https://www.legislation.gov.uk/ukpga/1977/17), [s. 1](https://www.legislation.gov.uk/ukpga/1977/17/section/1) except where the application under s. 27 of this Act is received by the housing authority concerned before 9.6.1977
 

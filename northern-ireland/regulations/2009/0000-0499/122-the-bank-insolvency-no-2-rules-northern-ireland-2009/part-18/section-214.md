@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 214. Cost of officers charged with executions of writs or other process[^key-f844292cda5f34f19201f72eb5cc5af8]
+## 214. Cost of officers charged with executions of writs or other process[^c-f844292cda5f34f19201f72eb5cc5af8]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f844292cda5f34f19201f72eb5cc5af8]: Commencement: Rule 214 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-f844292cda5f34f19201f72eb5cc5af8]: Commencement: Rule 214 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

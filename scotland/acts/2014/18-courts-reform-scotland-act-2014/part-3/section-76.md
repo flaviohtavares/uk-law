@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Service of documents[^key-a17d622fb5f5bffe879ce64d4665273d]
+## 76. Service of documents[^c-a17d622fb5f5bffe879ce64d4665273d]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a17d622fb5f5bffe879ce64d4665273d]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2014/18/section/76) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-a17d622fb5f5bffe879ce64d4665273d]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2014/18/section/76) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

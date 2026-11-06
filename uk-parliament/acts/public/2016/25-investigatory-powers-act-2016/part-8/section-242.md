@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 242. Right of appeal from Tribunal[^key-a730847e4292b238a8769f194bbebc45]
+## 242. Right of appeal from Tribunal[^c-a730847e4292b238a8769f194bbebc45]
 
 *Extent: E+W+S+N.I.*
 
@@ -113,4 +113,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a730847e4292b238a8769f194bbebc45]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2016/25/section/242) in force at 31.12.2018 by [S.I. 2018/1379](https://www.legislation.gov.uk/uksi/2018/1379), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1379/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1379/regulation/3))
+[^c-a730847e4292b238a8769f194bbebc45]: Commencement: [S. 242](https://www.legislation.gov.uk/ukpga/2016/25/section/242) in force at 31.12.2018 by [S.I. 2018/1379](https://www.legislation.gov.uk/uksi/2018/1379), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1379/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1379/regulation/3))

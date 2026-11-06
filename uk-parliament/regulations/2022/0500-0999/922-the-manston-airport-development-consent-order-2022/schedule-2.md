@@ -26,7 +26,7 @@ Article 3
 
 #### Interpretation
 
-**1.**[^key-f9e55085b35f62c461d8fb0efa16b447] In this Schedule—
+**1.**[^c-f9e55085b35f62c461d8fb0efa16b447] In this Schedule—
 
 - “**bellyhold**” means the cargo hold of a passenger aircraft used for freight;
 - “**Biodiversity Unit**” means a biodiversity unit as defined in accordance with the methodology outlined in the document entitled ‘Technical Paper: the metric for the biodiversity offsetting pilot in England’ published by the UK Department for Environment, Food and Rural Affairs in March 2012;
@@ -41,11 +41,11 @@ Article 3
 
 #### Time limits
 
-**2.**[^key-c93507ebf3124b4f76ca6aec2686a621] The authorised development must commence no later than the expiration of five years beginning with the date that this Order comes into force.
+**2.**[^c-c93507ebf3124b4f76ca6aec2686a621] The authorised development must commence no later than the expiration of five years beginning with the date that this Order comes into force.
 
 #### Development masterplans
 
-**3.**[^key-9aa03cf61c5c75347adad465383b1c8a] (1) No part of the authorised development is to be commenced until there has been submitted to and approved by the relevant planning authority in consultation with Kent County Council and Historic England—
+**3.**[^c-9aa03cf61c5c75347adad465383b1c8a] (1) No part of the authorised development is to be commenced until there has been submitted to and approved by the relevant planning authority in consultation with Kent County Council and Historic England—
 
 - (a) where the authorised development is to be constructed in a single part, a masterplan in respect of the entire authorised development; or
 - (b) where the authorised development is to be constructed in two or more parts, a masterplan for the relevant part of the authorised development.
@@ -74,7 +74,7 @@ Article 3
 
 #### Detailed design
 
-**4.**[^key-8a9c227bf0ec17d493beb6938ae4c55e] (1) No part of the authorised development is to commence until details of the siting, design, external appearance, lighting, site access (including emergency access) and dimensions of any element of Work Nos. 1, 2, 3, 4, 12, 13, 14, 15, 16, 17, 18 or 20 contained in that part, which must accord with sub-paragraphs (2) and (3), have been submitted to and approved by the relevant planning authority in consultation with Kent County Council where relevant to its functions.
+**4.**[^c-8a9c227bf0ec17d493beb6938ae4c55e] (1) No part of the authorised development is to commence until details of the siting, design, external appearance, lighting, site access (including emergency access) and dimensions of any element of Work Nos. 1, 2, 3, 4, 12, 13, 14, 15, 16, 17, 18 or 20 contained in that part, which must accord with sub-paragraphs (2) and (3), have been submitted to and approved by the relevant planning authority in consultation with Kent County Council where relevant to its functions.
 
 (2) The authorised development must be carried out in general accordance with—
 
@@ -94,7 +94,7 @@ unless otherwise agreed in writing by the relevant planning authority provided t
 
 #### Detailed design of fuel farm
 
-**5.**[^key-bf788b5eff34bec7653fe42441f27307] (1) No part of Work No. 19 is to commence until the detailed design for that Work and details of safety processes associated with operation of that Work have been submitted to and approved in writing by the relevant planning authority, following consultation with the Environment Agency.
+**5.**[^c-bf788b5eff34bec7653fe42441f27307] (1) No part of Work No. 19 is to commence until the detailed design for that Work and details of safety processes associated with operation of that Work have been submitted to and approved in writing by the relevant planning authority, following consultation with the Environment Agency.
 
 (2) The details approved under sub-paragraph (1) must reflect the relevant actions and commitments set out in the register of environmental actions and commitments.
 
@@ -102,7 +102,7 @@ unless otherwise agreed in writing by the relevant planning authority provided t
 
 #### Construction environmental management plan
 
-**6.**[^key-077bdd5e47d55d6bbd81e8a9646bf420] (1) No part of the authorised development is to commence until a construction environmental management plan for that part, which must be substantially in accordance with the outline construction environmental management plan, has been submitted to, and approved in writing by, the relevant planning authority, following consultation with the relevant highway authority, the Environment Agency, Southern Water, Historic England, the Civil Aviation Authority and Natural England to the extent that it relates to matters relevant to their function.
+**6.**[^c-077bdd5e47d55d6bbd81e8a9646bf420] (1) No part of the authorised development is to commence until a construction environmental management plan for that part, which must be substantially in accordance with the outline construction environmental management plan, has been submitted to, and approved in writing by, the relevant planning authority, following consultation with the relevant highway authority, the Environment Agency, Southern Water, Historic England, the Civil Aviation Authority and Natural England to the extent that it relates to matters relevant to their function.
 
 (2) A construction environmental management plan approved under sub-paragraph (1) must contain—
 
@@ -130,7 +130,7 @@ unless otherwise agreed in writing by the relevant planning authority provided t
 
 #### Operation environmental management plan
 
-**7.**[^key-9f2683f5bc50931d23c7bf6e9c6cb49d] (1) No part of the authorised development is to begin operation until an operation environmental management plan for that part has been submitted to, and approved in writing by, the relevant planning authority, following consultation with the relevant highway authority, the Environment Agency, Southern Water, Historic England, the Civil Aviation Authority and Natural England to the extent that it relates to matters relevant to their function.
+**7.**[^c-9f2683f5bc50931d23c7bf6e9c6cb49d] (1) No part of the authorised development is to begin operation until an operation environmental management plan for that part has been submitted to, and approved in writing by, the relevant planning authority, following consultation with the relevant highway authority, the Environment Agency, Southern Water, Historic England, the Civil Aviation Authority and Natural England to the extent that it relates to matters relevant to their function.
 
 (2) The operation environmental management plan must contain—
 
@@ -177,7 +177,7 @@ unless otherwise agreed in writing by the relevant planning authority provided t
 
 #### Ecological mitigation
 
-**8.**[^key-fd0ca334c4e707c71502c523c8a6cec9] (1) No part of the authorised development may be commenced until written details of the proposed on-site and off-site ecological mitigation for that part, the timetable for its implementation, its monitoring and management have been submitted to and approved by the local planning authority, in consultation with Natural England.
+**8.**[^c-fd0ca334c4e707c71502c523c8a6cec9] (1) No part of the authorised development may be commenced until written details of the proposed on-site and off-site ecological mitigation for that part, the timetable for its implementation, its monitoring and management have been submitted to and approved by the local planning authority, in consultation with Natural England.
 
 (2) The details of mitigation approved under sub-paragraph (1) must incorporate a net gain of at least 10 Biodiversity Units across the Order limits and any land used for ecological mitigation purposes compared with the situation that existed prior to the commencement of the authorised development.
 
@@ -185,7 +185,7 @@ unless otherwise agreed in writing by the relevant planning authority provided t
 
 #### Noise mitigation
 
-**9.**[^key-099787790ef1eb2cc1885110d287f3cb] (1) The undertaker must fully implement the noise mitigation plan.
+**9.**[^c-099787790ef1eb2cc1885110d287f3cb] (1) The undertaker must fully implement the noise mitigation plan.
 
 (2) The authorised development must be operated in accordance with the noise mitigation plan.
 
@@ -206,7 +206,7 @@ unless otherwise agreed in writing by the relevant planning authority provided t
 
 #### Landscaping
 
-**10.**[^key-13929a1a6d10920f62ded6f73e93b0e1] (1) No part of the authorised development is to commence, nor may powers under article 34 (felling or lopping of trees and removal of hedgerows) be exercised, until a landscaping scheme for that part, which sets out details of all proposed hard and soft landscaping works, has been submitted to and approved in writing by the local planning authority.
+**10.**[^c-13929a1a6d10920f62ded6f73e93b0e1] (1) No part of the authorised development is to commence, nor may powers under article 34 (felling or lopping of trees and removal of hedgerows) be exercised, until a landscaping scheme for that part, which sets out details of all proposed hard and soft landscaping works, has been submitted to and approved in writing by the local planning authority.
 
 (2) A landscaping scheme referred to in sub-paragraph (1) must contain all relevant mitigation measures set out in the register of environmental actions and commitments.
 
@@ -220,7 +220,7 @@ unless otherwise agreed in writing by the relevant planning authority provided t
 
 #### Contaminated land and groundwater
 
-**11.**[^key-b9b5efc15a6f7c6b9dc576ebcb3c1bb4] (1) In the event that land affected by contamination, including groundwater, is found at any time when carrying out the authorised development which was not previously identified in the environmental statement, it must be reported as soon as reasonably practicable to the relevant planning authority and the Environment Agency, and the undertaker must complete a risk assessment of the contamination in consultation with the relevant planning authority and the Environment Agency.
+**11.**[^c-b9b5efc15a6f7c6b9dc576ebcb3c1bb4] (1) In the event that land affected by contamination, including groundwater, is found at any time when carrying out the authorised development which was not previously identified in the environmental statement, it must be reported as soon as reasonably practicable to the relevant planning authority and the Environment Agency, and the undertaker must complete a risk assessment of the contamination in consultation with the relevant planning authority and the Environment Agency.
 
 (2) Where the undertaker determines that remediation of contamination identified in, on, or under land from detailed site investigations, or as an unexpected discovery, is necessary, a written scheme and programme for the remedial measures to be taken to render the land fit for its intended purpose must be submitted to and approved in writing by the relevant planning authority, following consultation with the Environment Agency.
 
@@ -232,7 +232,7 @@ unless otherwise agreed in writing by the relevant planning authority provided t
 
 #### Protected species
 
-**12.**[^key-6af5117b3fa9dc47bf2005bee0b81b07] (1) No part of the authorised development is to commence until for that part final pre-construction survey work has been carried out to establish whether European or nationally protected species are present on any of the land affected or likely to be affected by any part of the relevant works, or in any of the trees and shrubs to be lopped or felled as part of the relevant works.
+**12.**[^c-6af5117b3fa9dc47bf2005bee0b81b07] (1) No part of the authorised development is to commence until for that part final pre-construction survey work has been carried out to establish whether European or nationally protected species are present on any of the land affected or likely to be affected by any part of the relevant works, or in any of the trees and shrubs to be lopped or felled as part of the relevant works.
 
 (2) Following pre-construction survey work or at any time when carrying out the authorised development, where—
 
@@ -248,7 +248,7 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 #### Surface and foul water drainage
 
-**13.**[^key-18891110c3a0ca55cb873fe7501b48ca] (1) No part of the authorised development is to commence until for that part written details of the surface and foul water drainage plan, containing all relevant mitigation measures set out in the register of environmental actions and commitments including means of pollution control and monitoring and drainage operation, have been submitted to and approved in writing by the relevant planning authority following consultation with the Environment Agency, Kent County Council, Natural England and Southern Water on matters related to their function.
+**13.**[^c-18891110c3a0ca55cb873fe7501b48ca] (1) No part of the authorised development is to commence until for that part written details of the surface and foul water drainage plan, containing all relevant mitigation measures set out in the register of environmental actions and commitments including means of pollution control and monitoring and drainage operation, have been submitted to and approved in writing by the relevant planning authority following consultation with the Environment Agency, Kent County Council, Natural England and Southern Water on matters related to their function.
 
 (2) The surface and foul water drainage system must be constructed in accordance with the approved details, unless otherwise agreed in writing by the relevant planning authority following consultation with the Environment Agency, Kent County Council, Natural England and Southern Water on matters relating to their functions, provided that the Secretary of State is satisfied that any amendments to the approved details do not give rise to any materially new or materially different environmental effects from those assessed in the environmental statement.
 
@@ -258,19 +258,19 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 #### Traffic management
 
-**14.**[^key-4408c199d32bd3da11516af639efbf19] (1) No part of the authorised development is to commence until a construction traffic management plan for that part has been submitted to and approved in writing by the relevant planning authority, following consultation with the Royal Mail.
+**14.**[^c-4408c199d32bd3da11516af639efbf19] (1) No part of the authorised development is to commence until a construction traffic management plan for that part has been submitted to and approved in writing by the relevant planning authority, following consultation with the Royal Mail.
 
 (2) The authorised development must be constructed in accordance with the construction traffic management plan approved under sub-paragraph (1).
 
 #### Piling and other intrusive works
 
-**15.**[^key-2fc9d8f284c692b8e58f52efdf4b15a4] (1) No operations consisting of piling or other intrusive works (including drilling) are to commence until a risk assessment and a method statement have been submitted to and approved in writing by the relevant planning authority following consultation with the Environment Agency and Southern Water.
+**15.**[^c-2fc9d8f284c692b8e58f52efdf4b15a4] (1) No operations consisting of piling or other intrusive works (including drilling) are to commence until a risk assessment and a method statement have been submitted to and approved in writing by the relevant planning authority following consultation with the Environment Agency and Southern Water.
 
 (2) Operations subject to sub-paragraph (1) must be carried out in accordance with the method statement approved under sub-paragraph (1).
 
 #### Archaeological remains
 
-**16.**[^key-46f86854dd89a6aa9ff6d0f56b6fba7d] (1) No part of the authorised development is to commence until for that part a written scheme for the investigation of areas of archaeological interest, containing all relevant mitigation measures set out in the register of environmental actions and commitments, has been submitted to and approved in writing by the relevant planning authority, following consultation with Historic England and Kent County Council on matters related to their function.
+**16.**[^c-46f86854dd89a6aa9ff6d0f56b6fba7d] (1) No part of the authorised development is to commence until for that part a written scheme for the investigation of areas of archaeological interest, containing all relevant mitigation measures set out in the register of environmental actions and commitments, has been submitted to and approved in writing by the relevant planning authority, following consultation with Historic England and Kent County Council on matters related to their function.
 
 (2) The authorised development must be carried out in accordance with the scheme approved under sub-paragraph (1).
 
@@ -284,17 +284,17 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 #### Amendments to approved details
 
-**17.**[^key-91bcca23fe25ebfdbe5a2d404b3b53ac] With respect to any requirement which requires the authorised development to be carried out in accordance with the details or schemes approved under this Schedule, the approved details or schemes are taken to include any amendments that may subsequently be approved in writing.
+**17.**[^c-91bcca23fe25ebfdbe5a2d404b3b53ac] With respect to any requirement which requires the authorised development to be carried out in accordance with the details or schemes approved under this Schedule, the approved details or schemes are taken to include any amendments that may subsequently be approved in writing.
 
 #### Community consultative committee
 
-**18.**[^key-3461f9772d07243b7ac8321ce761d667] (1) No part of the authorised development is to commence until the undertaker has established a community consultative committee pursuant to section 35[^f00079] (facilities for consultation at certain aerodromes) of the 1982 Act.
+**18.**[^c-3461f9772d07243b7ac8321ce761d667] (1) No part of the authorised development is to commence until the undertaker has established a community consultative committee pursuant to section 35[^f00079] (facilities for consultation at certain aerodromes) of the 1982 Act.
 
 (2) The constitution and proceedings of the community consultative committee established under sub-paragraph (1) must be in accordance with the consultative committee guidance.
 
 #### Airport-related commercial facilities
 
-**19.**[^key-5ae91846bd3db1a2fd7a930bf3ba3f85] (1) Work Nos. 15, 16 and 17 must only be developed and used to have a direct relationship to and support the operation of Work Nos. 1 to 11 and 13.
+**19.**[^c-5ae91846bd3db1a2fd7a930bf3ba3f85] (1) Work Nos. 15, 16 and 17 must only be developed and used to have a direct relationship to and support the operation of Work Nos. 1 to 11 and 13.
 
 (2) Buildings comprised in Work Nos. 15, 16 and 17 must not be occupied before
 
@@ -303,7 +303,7 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 #### Education, employment and skills plan
 
-**20.**[^key-fa265c79d7b2669862a863ff423138ce] (1) No part of the authorised development is to commence until an employment and skills plan has been submitted to, and approved in writing by, the relevant planning authority, following consultation with the relevant local education authority to the extent that it relates to matters relevant to their function.
+**20.**[^c-fa265c79d7b2669862a863ff423138ce] (1) No part of the authorised development is to commence until an employment and skills plan has been submitted to, and approved in writing by, the relevant planning authority, following consultation with the relevant local education authority to the extent that it relates to matters relevant to their function.
 
 (2) The employment and skills plan must contain—
 
@@ -322,7 +322,7 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 #### Airport operation
 
-**21.**[^key-c9f8c9ec278ff7bc8f2e1f9610394ba4] (1) The operation of the airport is subject to—
+**21.**[^c-c9f8c9ec278ff7bc8f2e1f9610394ba4] (1) The operation of the airport is subject to—
 
 - (a) a total annual cargo air transport movement limit of 17,170;
 - (b) a total annual passenger air transport movement limit of 9,298; and
@@ -336,15 +336,15 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 #### Highway improvements
 
-**22.**[^key-0557601a75ce2d6a8a1855f32630f8e6] Work Nos. 26 to 31 must be completed in accordance with article 11 (construction and maintenance of new, altered or diverted streets) of this Order before any of Work Nos. 1, 2, 7, 12 or 15 to 20 commence operation.
+**22.**[^c-0557601a75ce2d6a8a1855f32630f8e6] Work Nos. 26 to 31 must be completed in accordance with article 11 (construction and maintenance of new, altered or diverted streets) of this Order before any of Work Nos. 1, 2, 7, 12 or 15 to 20 commence operation.
 
 #### Monitoring
 
-**23.**[^key-51d16290279e687dc81ad8de07f5075d] No part of the authorised development is to begin operation until a monitoring, auditing and reporting plan for the register of environmental actions and commitments has been submitted to, and approved in writing by, the relevant planning authority, following consultation with the highway authority, the Environment Agency, Historic England, the Civil Aviation Authority and Natural England to the extent that it relates to matters relevant to their function.
+**23.**[^c-51d16290279e687dc81ad8de07f5075d] No part of the authorised development is to begin operation until a monitoring, auditing and reporting plan for the register of environmental actions and commitments has been submitted to, and approved in writing by, the relevant planning authority, following consultation with the highway authority, the Environment Agency, Historic England, the Civil Aviation Authority and Natural England to the extent that it relates to matters relevant to their function.
 
 #### High Resolution Direction Finder
 
-**24.**[^key-13a965b7022bf9ef0cdfc0ed2b8abf18] (1) No part of the authorised development must commence unless and until a detailed mitigation scheme to provide an alternate High Resolution Direction Finder, prepared by the undertaker and agreed in writing by the Ministry of Defence, has been submitted to the relevant planning authority. The detailed mitigation scheme must include siting location(s) for the alternate High Resolution Direction Finder, full specification for the equipment and infrastructure proposed, details of a programme, to test the new equipment as installed against the Ministry of Defence requirements for acceptance into service and the technical performance data necessary to establish safeguarding criteria to protect its subsequent operation.
+**24.**[^c-13a965b7022bf9ef0cdfc0ed2b8abf18] (1) No part of the authorised development must commence unless and until a detailed mitigation scheme to provide an alternate High Resolution Direction Finder, prepared by the undertaker and agreed in writing by the Ministry of Defence, has been submitted to the relevant planning authority. The detailed mitigation scheme must include siting location(s) for the alternate High Resolution Direction Finder, full specification for the equipment and infrastructure proposed, details of a programme, to test the new equipment as installed against the Ministry of Defence requirements for acceptance into service and the technical performance data necessary to establish safeguarding criteria to protect its subsequent operation.
 
 (2) No part of the authorised development is permitted to be constructed within the zone protected by the Ministry of Defence (Manston) Technical Site Direction 2017 while the safeguarding direction is in force without the consent of the Secretary of State for Defence.
 
@@ -354,7 +354,7 @@ the relevant parts of the relevant works must cease until a scheme of protection
 
 #### Applications made under requirements
 
-**25.**[^key-7984d34e272e95b46d25e6cffd896160] (1) Where an application has been made to a relevant planning authority for any consent, agreement or approval required by a requirement (including consent, agreement or approval in respect of part of a requirement) included in this Order, the relevant planning authority must give notice to the undertaker of its decision on the application within a period of eight weeks beginning with—
+**25.**[^c-7984d34e272e95b46d25e6cffd896160] (1) Where an application has been made to a relevant planning authority for any consent, agreement or approval required by a requirement (including consent, agreement or approval in respect of part of a requirement) included in this Order, the relevant planning authority must give notice to the undertaker of its decision on the application within a period of eight weeks beginning with—
 
 - (a) the day immediately following that on which the application is received by the authority;
 - (b) the day immediately following that on which further information has been supplied by the undertaker under sub-paragraph (3); or
@@ -377,7 +377,7 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 #### Fees
 
-**26.**[^key-1f72b5a239aa763ccb1e79daab759e5f] (1) Where an application is made to a relevant planning authority for any consent, agreement or approval required by a requirement, the fee for the discharge of conditions attached to a planning permission contained in regulation 16(1)(b) of the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012[^f00080] (as may be replaced from time to time) is to apply and must be paid to the relevant planning authority for each application.
+**26.**[^c-1f72b5a239aa763ccb1e79daab759e5f] (1) Where an application is made to a relevant planning authority for any consent, agreement or approval required by a requirement, the fee for the discharge of conditions attached to a planning permission contained in regulation 16(1)(b) of the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012[^f00080] (as may be replaced from time to time) is to apply and must be paid to the relevant planning authority for each application.
 
 (2) Any fee paid under this Schedule must be refunded to the undertaker within a period of 35 days of—
 
@@ -387,7 +387,7 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 #### Appeals
 
-**27.**[^key-b22f36b754404d0fa50498772571a89b] (1) The undertaker may appeal to the Secretary of State if—
+**27.**[^c-b22f36b754404d0fa50498772571a89b] (1) The undertaker may appeal to the Secretary of State if—
 
 - (a) the relevant planning authority refuses an application for any consent, agreement or approval required by—
   - (i) a requirement and any document referred to in any requirement in Part 1 of this Schedule; or
@@ -416,7 +416,7 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 #### Outcome of appeals
 
-**28.**[^key-a1aee78fa8046f1f011811c3ce51f556] (1) On an appeal under paragraph 27, the appointed person may—
+**28.**[^c-a1aee78fa8046f1f011811c3ce51f556] (1) On an appeal under paragraph 27, the appointed person may—
 
 - (a) allow or dismiss the appeal; or
 - (b) reverse or vary any part of the decision of the relevant planning authority (whether the appeal relates to that part of it or not) and may deal with the application as if it had been made to the appointed person in the first instance.
@@ -439,7 +439,7 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 #### Interpretation of Part 2 of Schedule 2
 
-**29.**[^key-f4c7204ee80a42341a9fdd6c50a18a41] In Part 2 of Schedule 2—
+**29.**[^c-f4c7204ee80a42341a9fdd6c50a18a41] In Part 2 of Schedule 2—
 
 - “**the appeal parties**” means the relevant planning authority, the requirement consultee and the undertaker;
 - “**business day**” means a day other than a Saturday or Sunday which is not Christmas Day, Good Friday or a bank holiday under section 1 (bank holidays) of the Banking and Financial Dealings Act 1971[^f00082]; and
@@ -447,72 +447,72 @@ and where consent, agreement or approval is refused or granted subject to condit
 
 ## Annotations
 
-[^key-f9e55085b35f62c461d8fb0efa16b447]: Commencement: Sch. 2 para. 1 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-f9e55085b35f62c461d8fb0efa16b447]: Commencement: Sch. 2 para. 1 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
 [^f00077]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
 [^f00078]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
-[^key-c93507ebf3124b4f76ca6aec2686a621]: Commencement: Sch. 2 para. 2 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-c93507ebf3124b4f76ca6aec2686a621]: Commencement: Sch. 2 para. 2 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-9aa03cf61c5c75347adad465383b1c8a]: Commencement: Sch. 2 para. 3 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-9aa03cf61c5c75347adad465383b1c8a]: Commencement: Sch. 2 para. 3 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-8a9c227bf0ec17d493beb6938ae4c55e]: Commencement: Sch. 2 para. 4 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-8a9c227bf0ec17d493beb6938ae4c55e]: Commencement: Sch. 2 para. 4 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-bf788b5eff34bec7653fe42441f27307]: Commencement: Sch. 2 para. 5 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-bf788b5eff34bec7653fe42441f27307]: Commencement: Sch. 2 para. 5 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-077bdd5e47d55d6bbd81e8a9646bf420]: Commencement: Sch. 2 para. 6 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-077bdd5e47d55d6bbd81e8a9646bf420]: Commencement: Sch. 2 para. 6 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-9f2683f5bc50931d23c7bf6e9c6cb49d]: Commencement: Sch. 2 para. 7 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-9f2683f5bc50931d23c7bf6e9c6cb49d]: Commencement: Sch. 2 para. 7 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-fd0ca334c4e707c71502c523c8a6cec9]: Commencement: Sch. 2 para. 8 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-fd0ca334c4e707c71502c523c8a6cec9]: Commencement: Sch. 2 para. 8 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-099787790ef1eb2cc1885110d287f3cb]: Commencement: Sch. 2 para. 9 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-099787790ef1eb2cc1885110d287f3cb]: Commencement: Sch. 2 para. 9 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-13929a1a6d10920f62ded6f73e93b0e1]: Commencement: Sch. 2 para. 10 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-13929a1a6d10920f62ded6f73e93b0e1]: Commencement: Sch. 2 para. 10 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-b9b5efc15a6f7c6b9dc576ebcb3c1bb4]: Commencement: Sch. 2 para. 11 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-b9b5efc15a6f7c6b9dc576ebcb3c1bb4]: Commencement: Sch. 2 para. 11 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-6af5117b3fa9dc47bf2005bee0b81b07]: Commencement: Sch. 2 para. 12 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-6af5117b3fa9dc47bf2005bee0b81b07]: Commencement: Sch. 2 para. 12 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-18891110c3a0ca55cb873fe7501b48ca]: Commencement: Sch. 2 para. 13 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-18891110c3a0ca55cb873fe7501b48ca]: Commencement: Sch. 2 para. 13 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-4408c199d32bd3da11516af639efbf19]: Commencement: Sch. 2 para. 14 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-4408c199d32bd3da11516af639efbf19]: Commencement: Sch. 2 para. 14 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-2fc9d8f284c692b8e58f52efdf4b15a4]: Commencement: Sch. 2 para. 15 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-2fc9d8f284c692b8e58f52efdf4b15a4]: Commencement: Sch. 2 para. 15 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-46f86854dd89a6aa9ff6d0f56b6fba7d]: Commencement: Sch. 2 para. 16 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-46f86854dd89a6aa9ff6d0f56b6fba7d]: Commencement: Sch. 2 para. 16 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-91bcca23fe25ebfdbe5a2d404b3b53ac]: Commencement: Sch. 2 para. 17 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-91bcca23fe25ebfdbe5a2d404b3b53ac]: Commencement: Sch. 2 para. 17 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-3461f9772d07243b7ac8321ce761d667]: Commencement: Sch. 2 para. 18 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-3461f9772d07243b7ac8321ce761d667]: Commencement: Sch. 2 para. 18 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
 [^f00079]: Footnote: Section 35 was amended by section 83(5) of, and Schedule 6 to, the Airports Act [1986 (c. 31)](https://www.legislation.gov.uk/ukpga/1986/31).
 
-[^key-5ae91846bd3db1a2fd7a930bf3ba3f85]: Commencement: Sch. 2 para. 19 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-5ae91846bd3db1a2fd7a930bf3ba3f85]: Commencement: Sch. 2 para. 19 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-fa265c79d7b2669862a863ff423138ce]: Commencement: Sch. 2 para. 20 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-fa265c79d7b2669862a863ff423138ce]: Commencement: Sch. 2 para. 20 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-c9f8c9ec278ff7bc8f2e1f9610394ba4]: Commencement: Sch. 2 para. 21 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-c9f8c9ec278ff7bc8f2e1f9610394ba4]: Commencement: Sch. 2 para. 21 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-0557601a75ce2d6a8a1855f32630f8e6]: Commencement: Sch. 2 para. 22 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-0557601a75ce2d6a8a1855f32630f8e6]: Commencement: Sch. 2 para. 22 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-51d16290279e687dc81ad8de07f5075d]: Commencement: Sch. 2 para. 23 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-51d16290279e687dc81ad8de07f5075d]: Commencement: Sch. 2 para. 23 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-13a965b7022bf9ef0cdfc0ed2b8abf18]: Commencement: Sch. 2 para. 24 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-13a965b7022bf9ef0cdfc0ed2b8abf18]: Commencement: Sch. 2 para. 24 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-7984d34e272e95b46d25e6cffd896160]: Commencement: Sch. 2 para. 25 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-7984d34e272e95b46d25e6cffd896160]: Commencement: Sch. 2 para. 25 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-1f72b5a239aa763ccb1e79daab759e5f]: Commencement: Sch. 2 para. 26 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-1f72b5a239aa763ccb1e79daab759e5f]: Commencement: Sch. 2 para. 26 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
 [^f00080]: Footnote: [S.I. 2012/2920](https://www.legislation.gov.uk/uksi/2012/2920), as amended by [S.I. 2017/1314](https://www.legislation.gov.uk/uksi/2017/1314). There are other amendments to the Regulations that are not relevant to this Order.
 
-[^key-b22f36b754404d0fa50498772571a89b]: Commencement: Sch. 2 para. 27 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-b22f36b754404d0fa50498772571a89b]: Commencement: Sch. 2 para. 27 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
 [^f00081]: Footnote: The appointment is made at the discretion of the Secretary of State, and such appointment may be made by the Planning Inspectorate on behalf of the Secretary of State.
 
-[^key-a1aee78fa8046f1f011811c3ce51f556]: Commencement: Sch. 2 para. 28 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-a1aee78fa8046f1f011811c3ce51f556]: Commencement: Sch. 2 para. 28 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
-[^key-f4c7204ee80a42341a9fdd6c50a18a41]: Commencement: Sch. 2 para. 29 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
+[^c-f4c7204ee80a42341a9fdd6c50a18a41]: Commencement: Sch. 2 para. 29 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/922/article/1)
 
 [^f00082]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

@@ -22,7 +22,7 @@ summary: ''
 
 (1) The Authority must have regard to the strategic priorities set out in the strategy and policy statement when carrying out regulatory functions.
 
-(2)[^key-dd283caf80de935d59697dbbd2d7829a] The Secretary of State and the Authority must carry out their respective regulatory functions in the manner which the Secretary of State or the Authority (as the case may be) considers is best calculated to further the delivery of the policy outcomes.
+(2)[^c-dd283caf80de935d59697dbbd2d7829a] The Secretary of State and the Authority must carry out their respective regulatory functions in the manner which the Secretary of State or the Authority (as the case may be) considers is best calculated to further the delivery of the policy outcomes.
 
 (3) Subsection (2) is subject to the application of the principal objective duty in the carrying out of any such function.
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd283caf80de935d59697dbbd2d7829a]: Modification: [S. 132(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/132/2) restricted by 1989 c. 29, s. 32Z(6)(b) (as inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/56/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2))
+[^c-dd283caf80de935d59697dbbd2d7829a]: Modification: [S. 132(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/132/2) restricted by 1989 c. 29, s. 32Z(6)(b) (as inserted (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 56(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/56/2), [156(2)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2))

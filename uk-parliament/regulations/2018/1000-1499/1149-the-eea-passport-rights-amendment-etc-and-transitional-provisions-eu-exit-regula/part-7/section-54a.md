@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54A. Information to be supplied to a party to a contract with a person to whom regulation 47 applies[^key-3c4f62cafc6ebfbfff05bfd53066edb9]
+## 54A. Information to be supplied to a party to a contract with a person to whom regulation 47 applies[^c-3c4f62cafc6ebfbfff05bfd53066edb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c4f62cafc6ebfbfff05bfd53066edb9]: Textual amendment: Reg. 54A inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1010)](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2019/1010/regulation/3) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 44(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/44/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3c4f62cafc6ebfbfff05bfd53066edb9]: Textual amendment: Reg. 54A inserted (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1010)](https://www.legislation.gov.uk/uksi/2019/1010), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1010/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2019/1010/regulation/3) (as amended by [S.I. 2020/1301](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 44(a)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/44/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

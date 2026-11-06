@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. The insurance element etc.[^key-f65f7bd80ea51e30dc033e72963c048c]
+## 77. The insurance element etc.[^c-f65f7bd80ea51e30dc033e72963c048c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f65f7bd80ea51e30dc033e72963c048c]: Textual amendment: [S. 77](https://www.legislation.gov.uk/ukpga/1998/36/section/77) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
+[^c-f65f7bd80ea51e30dc033e72963c048c]: Textual amendment: [S. 77](https://www.legislation.gov.uk/ukpga/1998/36/section/77) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)

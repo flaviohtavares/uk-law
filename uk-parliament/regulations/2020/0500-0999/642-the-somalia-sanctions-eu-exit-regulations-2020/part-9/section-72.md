@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Exercise of maritime enforcement powers[^key-3e5a9015b00fec96ab2e0ce8edd3dbeb]
+## 72. Exercise of maritime enforcement powers[^c-3e5a9015b00fec96ab2e0ce8edd3dbeb]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ and a ship within sub-paragraph (a), (b) or (c) is referred to in this Part as â
 
 ## Annotations
 
-[^key-3e5a9015b00fec96ab2e0ce8edd3dbeb]: Commencement: Reg. 72 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-3e5a9015b00fec96ab2e0ce8edd3dbeb]: Commencement: Reg. 72 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)

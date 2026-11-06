@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 783. Certain associated companies leaving group at the same time[^key-2c255c5108376ece0fb09b52b8e9150b][^key-7f6c5887f60c1526971412898f464530]
+## 783. Certain associated companies leaving group at the same time[^c-2c255c5108376ece0fb09b52b8e9150b][^c-7f6c5887f60c1526971412898f464530]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-70cdd8d1ced5e582844feb262a1e80f1] Where two companies cease to be members of a group at the same time, section 780 does not apply in relation to a transfer by one of the companies to the other if condition A or B is met.
+(1)[^c-70cdd8d1ced5e582844feb262a1e80f1] Where two companies cease to be members of a group at the same time, section 780 does not apply in relation to a transfer by one of the companies to the other if condition A or B is met.
 
 (1A) Condition A is that the companies—
 
@@ -46,8 +46,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2c255c5108376ece0fb09b52b8e9150b]: Modification: Pt. 8 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-2c255c5108376ece0fb09b52b8e9150b]: Modification: Pt. 8 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
 
-[^key-7f6c5887f60c1526971412898f464530]: Textual amendment: Words in s. 783 heading substituted (19.7.2011) (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 7(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/7/3)
+[^c-7f6c5887f60c1526971412898f464530]: Textual amendment: Words in s. 783 heading substituted (19.7.2011) (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 7(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/7/3)
 
-[^key-70cdd8d1ced5e582844feb262a1e80f1]: Textual amendment: S. 783(1)-(1B) substituted (19.7.2011) for s. 783(1) (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 7(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/7/3)
+[^c-70cdd8d1ced5e582844feb262a1e80f1]: Textual amendment: S. 783(1)-(1B) substituted (19.7.2011) for s. 783(1) (with effect in accordance with Sch. 10 para. 9 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 10 para. 7(3)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/10/paragraph/7/3)

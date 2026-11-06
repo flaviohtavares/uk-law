@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Democratic services functions[^key-d72004a7078e98e76b7e7da2c76948a0]
+## 9. Democratic services functions[^c-d72004a7078e98e76b7e7da2c76948a0]
 
 *Extent: E+W*
 
@@ -47,12 +47,12 @@ summary: ''
 - (a) support and advice to a member of the authority in discharging that member's functions as part of the executive of the authority (except as provided for under subsection (1)(f));
 - (b) advice about whether or how the authority's functions should be, or should have been, exercised in relation to any matter under consideration, or to be considered, at a meeting of the authority, a committee referred to in subsection (1)(b) or a joint committee which a local authority is responsible for organising.
 
-(4) Nothing in subsection (1)(h) affects the duty of the chief executive in section 54(2) of the Local Government and Elections (Wales) Act 2021[^key-1a0e1e397b307b0b6f93e9960dae757b].
+(4) Nothing in subsection (1)(h) affects the duty of the chief executive in section 54(2) of the Local Government and Elections (Wales) Act 2021[^c-1a0e1e397b307b0b6f93e9960dae757b].
 
 (5) In this section, references to a committee (or joint committee) include references to any sub-committee of that committee.
 
 ## Annotations
 
-[^key-d72004a7078e98e76b7e7da2c76948a0]: Commencement: S. 9 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
+[^c-d72004a7078e98e76b7e7da2c76948a0]: Commencement: S. 9 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
 
-[^key-1a0e1e397b307b0b6f93e9960dae757b]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/mwa/2011/4/section/9/4) substituted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 5 para. 14](https://www.legislation.gov.uk/asc/2021/1/schedule/5/paragraph/14); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(s)](https://www.legislation.gov.uk/wsi/2021/231/article/6/s)
+[^c-1a0e1e397b307b0b6f93e9960dae757b]: Textual amendment: Words in [s. 9(4)](https://www.legislation.gov.uk/mwa/2011/4/section/9/4) substituted (5.5.2022) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 5 para. 14](https://www.legislation.gov.uk/asc/2021/1/schedule/5/paragraph/14); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(s)](https://www.legislation.gov.uk/wsi/2021/231/article/6/s)

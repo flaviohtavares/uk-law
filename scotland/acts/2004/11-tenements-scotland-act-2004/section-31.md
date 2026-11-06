@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Ancillary provision[^key-6ed0ee01d225e528bf2cd45a5b796ac4]
+## 31. Ancillary provision[^c-6ed0ee01d225e528bf2cd45a5b796ac4]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ed0ee01d225e528bf2cd45a5b796ac4]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2004/11/section/31) in force at 10.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/487/article/2/2)
+[^c-6ed0ee01d225e528bf2cd45a5b796ac4]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2004/11/section/31) in force at 10.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(2)](https://www.legislation.gov.uk/ssi/2004/487/article/2/2)

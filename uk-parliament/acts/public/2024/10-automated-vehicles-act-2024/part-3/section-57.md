@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Application of stopping powers etc[^key-818e57be8037ea4eb5ad4c9afa8e92ad]
+## 57. Application of stopping powers etc[^c-818e57be8037ea4eb5ad4c9afa8e92ad]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ as if it had been given to that individual as the driver.
 
 ## Annotations
 
-[^key-818e57be8037ea4eb5ad4c9afa8e92ad]: Commencement: S. 57 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-818e57be8037ea4eb5ad4c9afa8e92ad]: Commencement: S. 57 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

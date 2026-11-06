@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Amendment of Article 59 of Regulation (EU) No 2018/1139[^key-50aef9faa179b20317d1e52091c08b41]
+## 136. Amendment of Article 59 of Regulation (EU) No 2018/1139[^c-50aef9faa179b20317d1e52091c08b41]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 59 (applicable rules), in point (b), for “the delegated acts referr
 
 ## Annotations
 
-[^key-50aef9faa179b20317d1e52091c08b41]: Commencement: Reg. 136 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-50aef9faa179b20317d1e52091c08b41]: Commencement: Reg. 136 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -28,7 +28,7 @@ summary: ''
 - (d) section 5 of the [^c12394421]Science and Technology Act 1965 (funding of scientific research),
 - (e) section 1 of the [^c12394431]Mineral Exploration and Investment Grants Act 1972 (contributions in respect of mineral exploration),
 - (f) sections 10 to 12 of the [^c12394441]Industry Act 1972 (credits and grants for construction of ships and offshore installations),
-- (g)[^key-f4061236caeb00fca0db963182011b4e] sections 2, 11(3) and 12(4) of the [^c12394451]Employment and Training Act 1973 (power to make arrangements for employment and training etc. and to make certain payments),
+- (g)[^c-f4061236caeb00fca0db963182011b4e] sections 2, 11(3) and 12(4) of the [^c12394451]Employment and Training Act 1973 (power to make arrangements for employment and training etc. and to make certain payments),
 - (h) sections 7 to 9 and 11 to 13 of the [^c12394461]Industrial Development Act 1982 (financial and other assistance for industry), and
 - (i) sections 39 and 40 of the [^c12394471]Road Traffic Act 1988 (road safety information and training),
 
@@ -63,7 +63,7 @@ shall, despite that section, be exercisable jointly by the Minister of the Crown
 
 [^c12394441]: Marginal citation: [1972 c. 63](https://www.legislation.gov.uk/ukpga/1972/63).
 
-[^key-f4061236caeb00fca0db963182011b4e]: Modification: S. 56(1)(g) modified (5.9.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 31(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/31/5), [72(4)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/b); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/h)
+[^c-f4061236caeb00fca0db963182011b4e]: Modification: S. 56(1)(g) modified (5.9.2016) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 31(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/31/5), [72(4)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/b); [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/h)
 
 [^c12394451]: Marginal citation: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50).
 

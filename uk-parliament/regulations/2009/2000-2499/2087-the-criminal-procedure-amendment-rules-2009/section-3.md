@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Amendments to the Criminal Procedure Rules 2005[^key-0e9795403578d8dcfca0db4e7ae155c1]
+## 3. Amendments to the Criminal Procedure Rules 2005[^c-0e9795403578d8dcfca0db4e7ae155c1]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ After rule 2.1(15) (When the Rules apply), insert—
 
 ## Annotations
 
-[^key-0e9795403578d8dcfca0db4e7ae155c1]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2009/2087/article/3) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-0e9795403578d8dcfca0db4e7ae155c1]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2009/2087/article/3) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

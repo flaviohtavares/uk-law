@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Power for Welsh Ministers to make regulations in relation to sections 32 and 33[^key-3d80e9e4c9875353c511bf224d4d612e][^key-ad31f8dbdd4fe01d7888fe4a26134f36]
+## 34. Power for Welsh Ministers to make regulations in relation to sections 32 and 33[^c-3d80e9e4c9875353c511bf224d4d612e][^c-ad31f8dbdd4fe01d7888fe4a26134f36]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3d80e9e4c9875353c511bf224d4d612e]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2014/7/section/34) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
+[^c-3d80e9e4c9875353c511bf224d4d612e]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2014/7/section/34) in force at 1.12.2014 for specified purposes by [S.I. 2014/3127](https://www.legislation.gov.uk/wsi/2014/3127), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/3127/article/2/b), [Sch. Pt. 2](https://www.legislation.gov.uk/wsi/2014/3127/schedule/part/2)
 
-[^key-ad31f8dbdd4fe01d7888fe4a26134f36]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2014/7/section/34) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)
+[^c-ad31f8dbdd4fe01d7888fe4a26134f36]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2014/7/section/34) in force at 23.11.2016 in so far as not already in force by [S.I. 2016/1066](https://www.legislation.gov.uk/wsi/2016/1066), [art. 2](https://www.legislation.gov.uk/wsi/2016/1066/article/2)

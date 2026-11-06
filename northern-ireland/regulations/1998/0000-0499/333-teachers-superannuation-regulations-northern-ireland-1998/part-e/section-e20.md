@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E20. Death grants[^key-adeb057feae4072827087ebf366de120]
+## E20. Death grants[^c-adeb057feae4072827087ebf366de120]
 
 *Extent: N.I.*
 
@@ -65,4 +65,4 @@ a death grant equal to the balance of his contributions, calculated in accordanc
 
 ## Annotations
 
-[^key-adeb057feae4072827087ebf366de120]: Commencement: Reg. E20 in operation at 2.11.1998, see reg. A1
+[^c-adeb057feae4072827087ebf366de120]: Commencement: Reg. E20 in operation at 2.11.1998, see reg. A1

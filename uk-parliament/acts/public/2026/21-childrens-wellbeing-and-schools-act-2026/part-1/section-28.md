@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Employment of children in England and Wales[^key-fd0869b1b2c18293f2f7639aa4ee1840]
+## 28. Employment of children in England and Wales[^c-fd0869b1b2c18293f2f7639aa4ee1840]
 
 *Extent: E+W*
 
@@ -125,4 +125,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd0869b1b2c18293f2f7639aa4ee1840]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(3)(5)
+[^c-fd0869b1b2c18293f2f7639aa4ee1840]: Commencement: S. 28 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(3)(5)

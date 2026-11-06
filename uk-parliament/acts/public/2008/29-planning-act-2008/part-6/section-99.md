@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Completion of Examining authority's examination of application[^key-b4abc247dfb1c1ffdaad3c1c93ec3fb0]
+## 99. Completion of Examining authority's examination of application[^c-b4abc247dfb1c1ffdaad3c1c93ec3fb0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ When the Examining authority has completed its examination of the application, i
 
 ## Annotations
 
-[^key-b4abc247dfb1c1ffdaad3c1c93ec3fb0]: Commencement: S. 99 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-b4abc247dfb1c1ffdaad3c1c93ec3fb0]: Commencement: S. 99 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(d)](https://www.legislation.gov.uk/uksi/2010/101/article/3/d) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

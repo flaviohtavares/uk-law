@@ -39,7 +39,7 @@ Made
 
 The Secretary of State makes these Regulations in exercise of the powers conferred by section 255(3)(b), (11), (12) and (13) of the Levelling-up and Regeneration Act 2023[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-81e1f0c8e4702bae29216ed31b4ffe28][^key-81e1f0c8e4702bae29216ed31b4ffe28]
+## 1. Citation, commencement and interpretation[^c-81e1f0c8e4702bae29216ed31b4ffe28][^c-81e1f0c8e4702bae29216ed31b4ffe28]
 
 (1) These Regulations may be cited as the Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) Regulations 2026 and come into force in accordance with paragraphs (2) and (3).
 
@@ -54,7 +54,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - “**commencement date**” means 25th March 2026;
 - “**the PCPA 2004**” means the [Planning and Compulsory Purchase Act 2004](https://www.legislation.gov.uk/ukpga/2004/5/contents)[^f00003].
 
-## 2. Provisions coming into force on 3rd March 2026[^key-fe803c1cd6ec7ef322cc2f36e7143761][^key-fe803c1cd6ec7ef322cc2f36e7143761]
+## 2. Provisions coming into force on 3rd March 2026[^c-fe803c1cd6ec7ef322cc2f36e7143761][^c-fe803c1cd6ec7ef322cc2f36e7143761]
 
 (1) For the purpose of the exercise of the power to make regulations only, the provisions of the Act listed in paragraph (2) come into force on 3rd March 2026.
 
@@ -63,7 +63,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 - (a) section 97 (plan making) and Schedule 7 (plan making), excluding sections 15A to 15AI, 15K and 15LE(2)(a), (b), (c), (k), (l) and (3) of the PCPA 2004, inserted by that Schedule;
 - (b) section 100 (requirement to assist with certain plan making).
 
-## 3. Provisions coming into force on 25th March 2026[^key-b4b5a85c6c412c6763b4d657fbb15403][^key-b4b5a85c6c412c6763b4d657fbb15403]
+## 3. Provisions coming into force on 25th March 2026[^c-b4b5a85c6c412c6763b4d657fbb15403][^c-b4b5a85c6c412c6763b4d657fbb15403]
 
 The following provisions of the Act come into force on 25th March 2026—
 
@@ -108,11 +108,11 @@ The following provisions of the Act come into force on 25th March 2026—
     - (bb) in sub-paragraph (3)(a), inserted sub-paragraph (aa);
     - (cc) in sub-paragraph (3), paragraph (b).
 
-## 4. Plan making saving and transitional provisions[^key-4c47e7fc7b0060a9af9420519b704eec]
+## 4. Plan making saving and transitional provisions[^c-4c47e7fc7b0060a9af9420519b704eec]
 
 Schedule 1 contains saving and transitional provisions in relation to plan making.
 
-## 5. Savings for Orders made under the PCPA 2004[^key-8127c144b693bda6ad375db9162319db]
+## 5. Savings for Orders made under the PCPA 2004[^c-8127c144b693bda6ad375db9162319db]
 
 Schedule 2 contains savings for certain Orders made under the PCPA 2004.
 
@@ -130,7 +130,7 @@ Ministry of Housing, Communities and Local Government
 
 Regulation 4
 
-### 1. Interpretation[^key-2c581f656033f9b9d28b06a59cfb9f79]
+### 1. Interpretation[^c-2c581f656033f9b9d28b06a59cfb9f79]
 
 In this Schedule—
 
@@ -157,7 +157,7 @@ In this Schedule—
 - “**supplementary planning document**” means any document of a description referred to in regulation 5(1)(a)(iii) or (b) of the 2012 Regulations (local development documents), as that provision had effect immediately before the commencement date, except an adopted policies map or a statement of community involvement;
 - “**the TCPA 1990**” means the [Town and Country Planning Act 1990](https://www.legislation.gov.uk/ukpga/1990/8/contents)[^f00011].
 
-### 2. Saved old local planning provisions and saved old miscellaneous provisions[^key-56d616a16d68927f451b51fd9110802c]
+### 2. Saved old local planning provisions and saved old miscellaneous provisions[^c-56d616a16d68927f451b51fd9110802c]
 
 (1) The following provisions, as they had effect immediately before the commencement date (together, the “saved old local planning provisions”), continue to have effect for the purposes referred to in paragraphs 4, 5 and 6—
 
@@ -188,14 +188,14 @@ In this Schedule—
 - (r) the West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021[^f00029];
 - (s) the North East Mayoral Combined Authority (Establishment and Functions) Order 2024[^f00030].
 
-### 3. Saved old local development document provisions[^key-1c19d0441894ce49112ec77a7ff7d914]
+### 3. Saved old local development document provisions[^c-1c19d0441894ce49112ec77a7ff7d914]
 
 The following provisions, as they had effect immediately before the commencement date (together the “saved old local development document provisions”), continue to have effect for the purposes referred to in paragraphs 4(3) and 5(2)(a)—
 
 - (a) sections 2A, 59A and 74 of the TCPA 1990[^f00031];
 - (b) section 346 of the Greater London Authority Act 1999[^f00032].
 
-### 4. Saving and transitional provisions for local planning authorities in relation to the development plan and development plan documents[^key-2c0fba9abef303718b4f4006299e0fcc]
+### 4. Saving and transitional provisions for local planning authorities in relation to the development plan and development plan documents[^c-2c0fba9abef303718b4f4006299e0fcc]
 
 (1) For the purposes of an authority outside Greater London, in relation to which a regional strategy has effect as part of the development plan for an authority’s area immediately before the commencement date, under section 38 of the PCPA 2004, as it had effect immediately before the commencement date, the regional strategy continues to have effect as part of the development plan for the authority’s area on and after that date.
 
@@ -219,7 +219,7 @@ The following provisions, as they had effect immediately before the commencement
 
 (8) A local planning development plan document and a regional strategy, where one has effect for an authority’s area in accordance with sub-paragraph (1), cease to have effect as part of the development plan for an authority’s area on the date that a local plan for the authority’s area is adopted or approved under Part 2 of the PCPA 2004, as amended by section 97 of, and Schedule 7 to, the Act.
 
-### 5. Saving and transitional provisions for minerals and waste planning authorities in relation to development plan documents[^key-bf312df365596da6ca7ef09ff91198f1]
+### 5. Saving and transitional provisions for minerals and waste planning authorities in relation to development plan documents[^c-bf312df365596da6ca7ef09ff91198f1]
 
 (1) A minerals and waste development plan document which has effect as part of the development plan for an authority’s area immediately before the commencement date under section 38 of the PCPA 2004, as it had effect immediately before the commencement date, continues to have effect as part of the development plan for the authority’s area on and after that date.
 
@@ -253,7 +253,7 @@ The following provisions, as they had effect immediately before the commencement
 - (a) a minerals and waste development plan document;
 - (b) an authority.
 
-### 6. Supplementary planning documents[^key-5613b495f7470227a80a45b5c2a4eb9d]
+### 6. Supplementary planning documents[^c-5613b495f7470227a80a45b5c2a4eb9d]
 
 (1) A supplementary planning document which has effect for an authority’s area immediately before the commencement date, continues to have effect on and after that date.
 
@@ -274,11 +274,11 @@ The following provisions, as they had effect immediately before the commencement
 
 (6) For the purpose of sub-paragraph (5), the development plan document to which the supplementary planning document relates is the development plan document which contains the policy which is the subject of the supplementary planning document.
 
-### 7. Proceedings under section 113 of the PCPA 2004[^key-633de6041f24d50b4ac10407f0295a85]
+### 7. Proceedings under section 113 of the PCPA 2004[^c-633de6041f24d50b4ac10407f0295a85]
 
 Despite the amendments made to section 113 of the PCPA 2004 by paragraph 23 of Schedule 8 to the Act, any proceedings under section 113(1)(c) of the PCPA 2004 brought in relation to a development plan document to which this Schedule applies, continue in effect as if those amendments had not been made.
 
-### 8. Savings for the purpose of the Community Infrastructure Levy[^key-4a16934c36f06ef19165a3592b992338]
+### 8. Savings for the purpose of the Community Infrastructure Levy[^c-4a16934c36f06ef19165a3592b992338]
 
 Despite the commencement of Schedule 7 to the Act to the extent specified in regulation 3, sections 29 and 37 of the PCPA 2004, as they had effect immediately before the commencement date, continue to have effect for the purposes of Part 11 of the Planning Act 2008 (Community Infrastructure Levy), until 31st December 2027.
 
@@ -286,14 +286,14 @@ Despite the commencement of Schedule 7 to the Act to the extent specified in reg
 
 Regulation 5
 
-### 1. Joint Committee Orders[^key-fc20a733e0a4c5462819e223eeb187cf]
+### 1. Joint Committee Orders[^c-fc20a733e0a4c5462819e223eeb187cf]
 
 The following Orders continue to have effect despite the substitution of section 29 of the PCPA 2004 by Schedule 7 to the Act—
 
 - (a) the [Central Lincolnshire Joint Strategic Planning Committee Order 2009](https://www.legislation.gov.uk/uksi/2009/2467/contents)[^f00036];
 - (b) the [South East Lincolnshire Joint Strategic Planning Committee Order 2011](https://www.legislation.gov.uk/uksi/2011/1455/contents)[^f00037].
 
-**2.**[^key-3b6722ac413f15ce6112f2f2b7c2ac09] A joint committee constituted under an Order saved by paragraph 1 is to be treated as if it were a joint committee constituted by Regulations made by the Secretary of State under section 15J of the PCPA 2004.
+**2.**[^c-3b6722ac413f15ce6112f2f2b7c2ac09] A joint committee constituted under an Order saved by paragraph 1 is to be treated as if it were a joint committee constituted by Regulations made by the Secretary of State under section 15J of the PCPA 2004.
 
 Explanatory Note
 
@@ -398,21 +398,21 @@ The following provisions of the Levelling-up and Regeneration Act 2023 have been
 
 [^f00001]: Footnote: [2023 c. 55](https://www.legislation.gov.uk/ukpga/2023/55).
 
-[^key-81e1f0c8e4702bae29216ed31b4ffe28]: Commencement: Reg. 1 in force at 3.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/2)
+[^c-81e1f0c8e4702bae29216ed31b4ffe28]: Commencement: Reg. 1 in force at 3.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2012/767](https://www.legislation.gov.uk/uksi/2012/767), amended by [S.I. 2012/2613](https://www.legislation.gov.uk/uksi/2012/2613), [2013/235](https://www.legislation.gov.uk/uksi/2013/235), [2015/377](https://www.legislation.gov.uk/uksi/2015/377), [2015/627](https://www.legislation.gov.uk/uksi/2015/627), [2015/1682](https://www.legislation.gov.uk/uksi/2015/1682), [2016/871](https://www.legislation.gov.uk/uksi/2016/871), [2017/1011](https://www.legislation.gov.uk/uksi/2017/1011), [2017/1244](https://www.legislation.gov.uk/uksi/2017/1244), [2018/1234](https://www.legislation.gov.uk/uksi/2018/1234), [2019/1103](https://www.legislation.gov.uk/uksi/2019/1103), [2020/731](https://www.legislation.gov.uk/uksi/2020/731), [2020/1398](https://www.legislation.gov.uk/uksi/2020/1398), [2022/634](https://www.legislation.gov.uk/uksi/2022/634), [2023/1071](https://www.legislation.gov.uk/uksi/2023/1071).
 
 [^f00003]: Footnote: [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-fe803c1cd6ec7ef322cc2f36e7143761]: Commencement: Reg. 2 in force at 3.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/2)
+[^c-fe803c1cd6ec7ef322cc2f36e7143761]: Commencement: Reg. 2 in force at 3.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/2)
 
-[^key-b4b5a85c6c412c6763b4d657fbb15403]: Commencement: Reg. 3 in force at 3.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/2)
+[^c-b4b5a85c6c412c6763b4d657fbb15403]: Commencement: Reg. 3 in force at 3.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/2)
 
-[^key-4c47e7fc7b0060a9af9420519b704eec]: Commencement: Reg. 4 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
+[^c-4c47e7fc7b0060a9af9420519b704eec]: Commencement: Reg. 4 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
 
-[^key-8127c144b693bda6ad375db9162319db]: Commencement: Reg. 5 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
+[^c-8127c144b693bda6ad375db9162319db]: Commencement: Reg. 5 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
 
-[^key-2c581f656033f9b9d28b06a59cfb9f79]: Commencement: Sch. 1 para. 1 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
+[^c-2c581f656033f9b9d28b06a59cfb9f79]: Commencement: Sch. 1 para. 1 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
 
 [^f00004]: Footnote: Section 15LF was inserted by section 97 of, and Schedule 7 to, the Levelling-up and Regeneration Act 2023.
 
@@ -430,7 +430,7 @@ The following provisions of the Levelling-up and Regeneration Act 2023 have been
 
 [^f00011]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8/contents).
 
-[^key-56d616a16d68927f451b51fd9110802c]: Commencement: Sch. 1 para. 2 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
+[^c-56d616a16d68927f451b51fd9110802c]: Commencement: Sch. 1 para. 2 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
 
 [^f00012]: Footnote: Section 303A was inserted by section 1(1) of the Town and Country Planning (Costs of Inquiries etc.) Act 1995 (repealed) (c. 49) and amended by paragraph 11(2), (3), (4), (5)(c) and (6) of Schedule 6 and by Schedule 9, to the Planning and Compulsory Purchase Act [2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5) and section 148(2) and (3) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22). There are other amendments which are not relevant to these Regulations. Section 324 was amended by section 23(8) of, and Parts I and II of Schedule 19 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34), paragraph 13 of Schedule 6 to the Planning and Compulsory Purchase Act 2004, section 34(6) of, and Part 3 of Schedule 5 to, the Clean Neighbourhoods and Environment Act [2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), paragraph 19 of Schedule 14 to the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), section 127(3) of, and paragraph 21(2) and (3) of Schedule 12 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and paragraph 12 of Schedule 11 to the Levelling-up and Regeneration Act 2023. There are other amendments which are not relevant to these Regulations. Schedule 13 was amended by the paragraph 32(16) of Schedule 10 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), paragraph 18 of Schedule 6 to the Planning and Compulsory Purchase Act 2004, paragraph 23 of Schedule 12 and paragraph 37 of Schedule 22 to the Localism Act 2011. There are other amendments which are not relevant to these Regulations.
 
@@ -470,15 +470,15 @@ The following provisions of the Levelling-up and Regeneration Act 2023 have been
 
 [^f00030]: Footnote: [S.I. 2024/402](https://www.legislation.gov.uk/uksi/2024/402), amended by S.I. 2025/879.
 
-[^key-1c19d0441894ce49112ec77a7ff7d914]: Commencement: Sch. 1 para. 3 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
+[^c-1c19d0441894ce49112ec77a7ff7d914]: Commencement: Sch. 1 para. 3 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
 
 [^f00031]: Footnote: Section 2A was inserted by section 31(2) of the Greater London Authority Act [2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24). Section 2A(6)(aa) was substituted by section 149(1) of the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22). Section 2A was also amended by paragraph 21 of Schedule 22 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), paragraph 2(1) and (2)(a) of Schedule 1 to the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27) and paragraph 2 of Schedule 12 to the Housing and Planning Act 2016. Section 59A was inserted by section 150(2) of the Housing and Planning Act 2016 and was amended by [S.I. 2025/418](https://www.legislation.gov.uk/uksi/2025/418). Section 74(1BB) was inserted by section 149(3) of the Housing and Planning Act 2016. There are other amendments to section 74 which are not relevant to these Regulations.
 
 [^f00032]: Footnote: Section 346 was amended by [paragraph 22](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/22) [(4)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/22) of [Schedule 7](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7) to the [Planning and Compulsory Purchase Act 2004](https://www.legislation.gov.uk/ukpga/2004/5/contents).
 
-[^key-2c0fba9abef303718b4f4006299e0fcc]: Commencement: Sch. 1 para. 4 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
+[^c-2c0fba9abef303718b4f4006299e0fcc]: Commencement: Sch. 1 para. 4 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
 
-[^key-bf312df365596da6ca7ef09ff91198f1]: Commencement: Sch. 1 para. 5 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
+[^c-bf312df365596da6ca7ef09ff91198f1]: Commencement: Sch. 1 para. 5 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
 
 [^f00033]: Footnote: Section 15D is applied in relation to a minerals and waste plan by section 15CB(8) of the Planning and Compulsory Purchase Act 2004.
 
@@ -486,16 +486,16 @@ The following provisions of the Levelling-up and Regeneration Act 2023 have been
 
 [^f00035]: Footnote: Paragraph 7 of Schedule 1 was substituted by paragraph 16(4) of Schedule 6 to the Planning and Compulsory Purchase Act 2004. Paragraph 7(10) of Schedule 1 was amended by Part 15 of Schedule 25 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-5613b495f7470227a80a45b5c2a4eb9d]: Commencement: Sch. 1 para. 6 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
+[^c-5613b495f7470227a80a45b5c2a4eb9d]: Commencement: Sch. 1 para. 6 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
 
-[^key-633de6041f24d50b4ac10407f0295a85]: Commencement: Sch. 1 para. 7 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
+[^c-633de6041f24d50b4ac10407f0295a85]: Commencement: Sch. 1 para. 7 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
 
-[^key-4a16934c36f06ef19165a3592b992338]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2026/169/schedule/1/paragraph/8) inserted (24.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/333)](https://www.legislation.gov.uk/uksi/2026/333), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/333/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/333/regulation/2)
+[^c-4a16934c36f06ef19165a3592b992338]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2026/169/schedule/1/paragraph/8) inserted (24.3.2026) by [The Levelling-up and Regeneration Act 2023 (Commencement No. 11 and Saving and Transitional Provisions) (Amendment) Regulations 2026 (S.I. 2026/333)](https://www.legislation.gov.uk/uksi/2026/333), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/333/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/333/regulation/2)
 
-[^key-fc20a733e0a4c5462819e223eeb187cf]: Commencement: Sch. 2 para. 1 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
+[^c-fc20a733e0a4c5462819e223eeb187cf]: Commencement: Sch. 2 para. 1 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
 
 [^f00036]: Footnote: [S.I. 2009/2467](https://www.legislation.gov.uk/uksi/2009/2467/contents).
 
 [^f00037]: Footnote: [S.I. 2011/1455](https://www.legislation.gov.uk/uksi/2011/1455/contents).
 
-[^key-3b6722ac413f15ce6112f2f2b7c2ac09]: Commencement: Sch. 2 para. 2 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)
+[^c-3b6722ac413f15ce6112f2f2b7c2ac09]: Commencement: Sch. 2 para. 2 in force at 25.3.2026, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/169/regulation/1/3)

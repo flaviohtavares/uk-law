@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56.1. Scope and interpretation[^key-083d3acaff142ff50b3490b86b713816]
+## 56.1. Scope and interpretation[^c-083d3acaff142ff50b3490b86b713816]
 
 *Extent: E+W*
 
@@ -25,15 +25,15 @@ summary: ''
 - (a) the Landlord and Tenant Act 1927[^f00016];
 - (b) the Leasehold Property (Repairs) Act 1938[^f00017];
 - (c) the Landlord and Tenant Act 1954[^f00018];
-- (d) the Landlord and Tenant Act 1985[^f00019]; [^key-34fda268e78418a0fad47599e44289f6]...
-- (e) the Landlord and Tenant Act 1987[^f00020] ; or[^key-b481400440acfb632c7d2dbe3931f412]
-- (f)[^key-daa715bc4a6ceab50215c03a212fd5b6] section 214 of the Housing Act 2004.
+- (d) the Landlord and Tenant Act 1985[^f00019]; [^c-34fda268e78418a0fad47599e44289f6]...
+- (e) the Landlord and Tenant Act 1987[^f00020] ; or[^c-b481400440acfb632c7d2dbe3931f412]
+- (f)[^c-daa715bc4a6ceab50215c03a212fd5b6] section 214 of the Housing Act 2004.
 
 (2) A practice direction may set out special provisions with regard to any particular category of landlord and tenant claim.
 
 ## Annotations
 
-[^key-083d3acaff142ff50b3490b86b713816]: Textual amendment: Pt. 56 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/256/schedule/2) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-083d3acaff142ff50b3490b86b713816]: Textual amendment: Pt. 56 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/256/schedule/2) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
 
 [^f00016]: Footnote: [1978 c. 33](https://www.legislation.gov.uk/ukpga/1978/33).
 
@@ -43,10 +43,10 @@ summary: ''
 
 [^f00019]: Footnote: [1997 c. 27](https://www.legislation.gov.uk/ukpga/1997/27).
 
-[^key-34fda268e78418a0fad47599e44289f6]: Textual amendment: Word in [rule 56.1(1)(d)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.1/1/d) omitted (1.10.2008) by virtue of [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [29(a)(i)](https://www.legislation.gov.uk/uksi/2008/2178/rule/29/a/i)
+[^c-34fda268e78418a0fad47599e44289f6]: Textual amendment: Word in [rule 56.1(1)(d)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.1/1/d) omitted (1.10.2008) by virtue of [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [29(a)(i)](https://www.legislation.gov.uk/uksi/2008/2178/rule/29/a/i)
 
 [^f00020]: Footnote: [1980 c. 58](https://www.legislation.gov.uk/ukpga/1980/58).
 
-[^key-b481400440acfb632c7d2dbe3931f412]: Textual amendment: Word in [rule 56.1(1)(e)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.1/1/e) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [29(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2178/rule/29/a/ii)
+[^c-b481400440acfb632c7d2dbe3931f412]: Textual amendment: Word in [rule 56.1(1)(e)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.1/1/e) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [29(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2178/rule/29/a/ii)
 
-[^key-daa715bc4a6ceab50215c03a212fd5b6]: Textual amendment: [Rule 56.1(1)(f)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.1/1/f) inserted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [29(a)(iii)](https://www.legislation.gov.uk/uksi/2008/2178/rule/29/a/iii)
+[^c-daa715bc4a6ceab50215c03a212fd5b6]: Textual amendment: [Rule 56.1(1)(f)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.1/1/f) inserted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [29(a)(iii)](https://www.legislation.gov.uk/uksi/2008/2178/rule/29/a/iii)

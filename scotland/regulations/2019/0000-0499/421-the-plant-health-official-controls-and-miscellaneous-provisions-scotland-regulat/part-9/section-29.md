@@ -16,22 +16,22 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 29. Powers of entry[^key-ebc01427562c8054127a55104673dd8b]
+## 29. Powers of entry[^c-ebc01427562c8054127a55104673dd8b]
 
 *Extent: S*
 
 (1) A plant health inspector may enter any premises at a reasonable time for the purpose of—
 
-- (a)[^key-936e62634d118b7c4c27c23b374b6924] performing official controls to verify that—
+- (a)[^c-936e62634d118b7c4c27c23b374b6924] performing official controls to verify that—
   - (i) an operator is complying with the Official Controls Regulation,
-  - (ii) a professional operator is complying with the [^key-79e788a9ffb536ba5204ecc1ad8ac515]... Plant Health Regulation,
-  - (iii) a person is complying with these Regulations, [^key-9fec538a5f8a00ba51b706688b14e780]...
-  - (iv) any plants, plant products or other objects which are subject to a plant health rule comply with that rule[^key-5f392c7c17ed0285c2d1ad2c31efd19b], or[^key-caeda7644800faa0a250a957d38a6166]
-  - (v)[^key-14c493ef59de8fefead8acc8a0034f7d] an authorised operator, professional operator or registered operator is complying with the Windsor Framework (Plant Health) Regulations 2023,
-- (b) carrying out other official activities which are to be performed by the Scottish Ministers pursuant to the Official Controls Regulation, the [^key-687120abe2156cd0f1e388d9e83672b2]... Plant Health Regulation , the Windsor Framework (Plant Health) Regulations 2023[^key-3f4f1b9be4290aa50e71468551bb6bfc] or these Regulations,
-- (c) enforcing the Official Controls Regulation, the [^key-e1485a477407ba7962186e0e23bc3b92]... Plant Health Regulation , the Windsor Framework (Plant Health) Regulations 2023[^key-666621d893e5c3251c879774aecab5bd] or these Regulations,
+  - (ii) a professional operator is complying with the [^c-79e788a9ffb536ba5204ecc1ad8ac515]... Plant Health Regulation,
+  - (iii) a person is complying with these Regulations, [^c-9fec538a5f8a00ba51b706688b14e780]...
+  - (iv) any plants, plant products or other objects which are subject to a plant health rule comply with that rule[^c-5f392c7c17ed0285c2d1ad2c31efd19b], or[^c-caeda7644800faa0a250a957d38a6166]
+  - (v)[^c-14c493ef59de8fefead8acc8a0034f7d] an authorised operator, professional operator or registered operator is complying with the Windsor Framework (Plant Health) Regulations 2023,
+- (b) carrying out other official activities which are to be performed by the Scottish Ministers pursuant to the Official Controls Regulation, the [^c-687120abe2156cd0f1e388d9e83672b2]... Plant Health Regulation , the Windsor Framework (Plant Health) Regulations 2023[^c-3f4f1b9be4290aa50e71468551bb6bfc] or these Regulations,
+- (c) enforcing the Official Controls Regulation, the [^c-e1485a477407ba7962186e0e23bc3b92]... Plant Health Regulation , the Windsor Framework (Plant Health) Regulations 2023[^c-666621d893e5c3251c879774aecab5bd] or these Regulations,
 - (d) verifying information supplied by a person in connection with an application for registration or for an authorisation or permit granted, or to be granted, under these Regulations,
-- (e) ascertaining whether a condition of an authorisation or permit granted by the Scottish Ministers for the purpose of the [^key-5299cac619425f080c40dcdddf8163a6]... Plant Health Regulation or the Official Controls Regulation is being or has been complied with.
+- (e) ascertaining whether a condition of an authorisation or permit granted by the Scottish Ministers for the purpose of the [^c-5299cac619425f080c40dcdddf8163a6]... Plant Health Regulation or the Official Controls Regulation is being or has been complied with.
 
 (2) A plant health inspector must, if requested to do so, produce evidence of the inspector's authority before entering any premises for the purposes specified in paragraph (1).
 
@@ -47,12 +47,12 @@ summary: ''
 
 (5) A plant health inspector may destroy or otherwise dispose of any sample taken under this regulation when the sample is no longer required.
 
-(6)[^key-a0f835443a88a471de2d33183f677f2e] A plant health inspector may—
+(6)[^c-a0f835443a88a471de2d33183f677f2e] A plant health inspector may—
 
-- (a) be accompanied by such persons as the inspector considers necessary,[^key-98e9e616ee19a966b4e13b47e5036e6a]
+- (a) be accompanied by such persons as the inspector considers necessary,[^c-98e9e616ee19a966b4e13b47e5036e6a]
 - (b) bring onto the premises such equipment and vehicles as the inspector considers necessary.
 
-(6A)[^key-fd7e897421487a20478a4fef0a1ba556] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6A)[^c-fd7e897421487a20478a4fef0a1ba556] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) A person accompanying a plant health inspector under paragraph (6) may—
 
@@ -62,32 +62,32 @@ summary: ''
 
 ## Annotations
 
-[^key-ebc01427562c8054127a55104673dd8b]: Commencement: Reg. 29 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-ebc01427562c8054127a55104673dd8b]: Commencement: Reg. 29 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
 
-[^key-936e62634d118b7c4c27c23b374b6924]: Textual amendment: Reg. 29(1)(a) substituted (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [14(a)](https://www.legislation.gov.uk/ssi/2020/176/regulation/14/a)
+[^c-936e62634d118b7c4c27c23b374b6924]: Textual amendment: Reg. 29(1)(a) substituted (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [14(a)](https://www.legislation.gov.uk/ssi/2020/176/regulation/14/a)
 
-[^key-79e788a9ffb536ba5204ecc1ad8ac515]: Textual amendment: Word in reg. 29(1)(a)(ii) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(a)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/a/i/aa) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-79e788a9ffb536ba5204ecc1ad8ac515]: Textual amendment: Word in reg. 29(1)(a)(ii) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(a)(i)(aa)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/a/i/aa) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-9fec538a5f8a00ba51b706688b14e780]: Textual amendment: Word in [reg. 29(1)(a)(iii)](https://www.legislation.gov.uk/ssi/2019/421/regulation/29/1/a/iii) omitted (1.10.2023) by virtue of [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(4)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/4/a/i)
+[^c-9fec538a5f8a00ba51b706688b14e780]: Textual amendment: Word in [reg. 29(1)(a)(iii)](https://www.legislation.gov.uk/ssi/2019/421/regulation/29/1/a/iii) omitted (1.10.2023) by virtue of [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(4)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/4/a/i)
 
-[^key-5f392c7c17ed0285c2d1ad2c31efd19b]: Textual amendment: Words in reg. 29(1)(a)(iv) substituted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/a/i/bb) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-5f392c7c17ed0285c2d1ad2c31efd19b]: Textual amendment: Words in reg. 29(1)(a)(iv) substituted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(a)(i)(bb)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/a/i/bb) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-caeda7644800faa0a250a957d38a6166]: Textual amendment: Word in [reg. 29(1)(a)(iv)](https://www.legislation.gov.uk/ssi/2019/421/regulation/29/1/a/iv) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/4/a/ii)
+[^c-caeda7644800faa0a250a957d38a6166]: Textual amendment: Word in [reg. 29(1)(a)(iv)](https://www.legislation.gov.uk/ssi/2019/421/regulation/29/1/a/iv) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/4/a/ii)
 
-[^key-14c493ef59de8fefead8acc8a0034f7d]: Textual amendment: [Reg. 29(1)(a)(v)](https://www.legislation.gov.uk/ssi/2019/421/regulation/29/1/a/v) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/4/a/iii)
+[^c-14c493ef59de8fefead8acc8a0034f7d]: Textual amendment: [Reg. 29(1)(a)(v)](https://www.legislation.gov.uk/ssi/2019/421/regulation/29/1/a/v) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/4/a/iii)
 
-[^key-687120abe2156cd0f1e388d9e83672b2]: Textual amendment: Word in reg. 29(1)(b) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/a/ii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-687120abe2156cd0f1e388d9e83672b2]: Textual amendment: Word in reg. 29(1)(b) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/a/ii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-3f4f1b9be4290aa50e71468551bb6bfc]: Textual amendment: Words in [reg. 29(1)(b)](https://www.legislation.gov.uk/ssi/2019/421/regulation/29/1/b) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/4/b)
+[^c-3f4f1b9be4290aa50e71468551bb6bfc]: Textual amendment: Words in [reg. 29(1)(b)](https://www.legislation.gov.uk/ssi/2019/421/regulation/29/1/b) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(4)(b)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/4/b)
 
-[^key-e1485a477407ba7962186e0e23bc3b92]: Textual amendment: Word in reg. 29(1)(c) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/a/ii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-e1485a477407ba7962186e0e23bc3b92]: Textual amendment: Word in reg. 29(1)(c) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/a/ii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-666621d893e5c3251c879774aecab5bd]: Textual amendment: Words in [reg. 29(1)(c)](https://www.legislation.gov.uk/ssi/2019/421/regulation/29/1/c) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/4/c)
+[^c-666621d893e5c3251c879774aecab5bd]: Textual amendment: Words in [reg. 29(1)(c)](https://www.legislation.gov.uk/ssi/2019/421/regulation/29/1/c) inserted (1.10.2023) by [The Windsor Framework (Enforcement etc.) Regulations 2023 (S.I. 2023/1056)](https://www.legislation.gov.uk/uksi/2023/1056), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/1/2), [4(4)(c)](https://www.legislation.gov.uk/uksi/2023/1056/regulation/4/4/c)
 
-[^key-5299cac619425f080c40dcdddf8163a6]: Textual amendment: Word in reg. 29(1)(e) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/a/ii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-5299cac619425f080c40dcdddf8163a6]: Textual amendment: Word in reg. 29(1)(e) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/a/ii) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-a0f835443a88a471de2d33183f677f2e]: Textual amendment: Reg. 29(6)(6A) substituted for reg. 29(6) (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [14(b)](https://www.legislation.gov.uk/ssi/2020/176/regulation/14/b)
+[^c-a0f835443a88a471de2d33183f677f2e]: Textual amendment: Reg. 29(6)(6A) substituted for reg. 29(6) (27.6.2020) by [The Plant Health (Official Controls and Miscellaneous Provisions) (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/176)](https://www.legislation.gov.uk/ssi/2020/176), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/176/regulation/1/1), [14(b)](https://www.legislation.gov.uk/ssi/2020/176/regulation/14/b)
 
-[^key-98e9e616ee19a966b4e13b47e5036e6a]: Textual amendment: Reg. 29(6)(a) substituted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/b) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-98e9e616ee19a966b4e13b47e5036e6a]: Textual amendment: Reg. 29(6)(a) substituted (31.12.2020) by [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(b)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/b) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
 
-[^key-fd7e897421487a20478a4fef0a1ba556]: Textual amendment: Reg. 29(6A) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/c) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-fd7e897421487a20478a4fef0a1ba556]: Textual amendment: Reg. 29(6A) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [19(2)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/19/2/c) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

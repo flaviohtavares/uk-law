@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Information to be recorded by police[^key-7c731ff54f937e0557bb86f8c2eb146e]
+## 6. Information to be recorded by police[^c-7c731ff54f937e0557bb86f8c2eb146e]
 
 *Extent: S*
 
 (1) There must be recorded in relation to any arrest by a constable—
 
 - (a) the time and place of arrest,
-- (b)[^key-297dbe9eabf87bd0ea2a1337a26bf016] either—
+- (b)[^c-297dbe9eabf87bd0ea2a1337a26bf016] either—
   - (i) the general nature of the offence in respect of which the person is arrested, or
   - (ii) if the person is arrested otherwise than in respect of an offence, the reason for the arrest,
 - (c) if the person is taken from one place to another while in police custody (including to a police station in accordance with section 4)—
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7c731ff54f937e0557bb86f8c2eb146e]: Commencement: S. 6 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
+[^c-7c731ff54f937e0557bb86f8c2eb146e]: Commencement: S. 6 in force at 25.1.2018 by [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/345/article/4))
 
-[^key-297dbe9eabf87bd0ea2a1337a26bf016]: Textual amendment: [S. 6(1)(b)](https://www.legislation.gov.uk/asp/2016/1/section/6/1/b) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/4)
+[^c-297dbe9eabf87bd0ea2a1337a26bf016]: Textual amendment: [S. 6(1)(b)](https://www.legislation.gov.uk/asp/2016/1/section/6/1/b) substituted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Modification of Part 1 and Ancillary Provision) Regulations 2017 (S.S.I. 2017/453)](https://www.legislation.gov.uk/ssi/2017/453), [regs. 1](https://www.legislation.gov.uk/ssi/2017/453/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2017/453/regulation/2/4)

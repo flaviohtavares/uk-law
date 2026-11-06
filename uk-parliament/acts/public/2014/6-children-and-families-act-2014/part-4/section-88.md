@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Governing bodies: provision of community facilities[^key-101050c685f6702fccdc0f4420353265]
+## 88. Governing bodies: provision of community facilities[^c-101050c685f6702fccdc0f4420353265]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-101050c685f6702fccdc0f4420353265]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2014/6/section/88) in force at 13.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/889/article/5/d)
+[^c-101050c685f6702fccdc0f4420353265]: Commencement: [S. 88](https://www.legislation.gov.uk/ukpga/2014/6/section/88) in force at 13.5.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 5(d)](https://www.legislation.gov.uk/uksi/2014/889/article/5/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Time limits[^key-c3267dbf67398bd2f9ef6e9ce4637e54]
+## 22. Time limits[^c-c3267dbf67398bd2f9ef6e9ce4637e54]
 
 *Extent: E+W+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3267dbf67398bd2f9ef6e9ce4637e54]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2009/26/section/22) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(i)](https://www.legislation.gov.uk/uksi/2010/507/article/5/i)
+[^c-c3267dbf67398bd2f9ef6e9ce4637e54]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2009/26/section/22) in force at 1.4.2010 by [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 5(i)](https://www.legislation.gov.uk/uksi/2010/507/article/5/i)

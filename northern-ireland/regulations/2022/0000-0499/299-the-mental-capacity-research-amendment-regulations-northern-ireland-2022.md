@@ -42,7 +42,7 @@ Coming into operation
 
 The Department of Health[^f00001], in exercise of the powers conferred by section 132 of the Mental Capacity Act (Northern Ireland) 2016[^f00002], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-ec47de2569855705c4a50e7fa0fccdf0]
+## 1. Citation, commencement and interpretation[^c-ec47de2569855705c4a50e7fa0fccdf0]
 
 (1) These Regulations may be cited as the Mental Capacity (Research) (Amendment) Regulations (Northern Ireland) 2022 and shall come into operation on 21st December 2022.
 
@@ -51,7 +51,7 @@ The Department of Health[^f00001], in exercise of the powers conferred by sectio
 - “**the Act**” means the Mental Capacity Act (Northern Ireland) 2016; and
 - “**the principal Regulations**” means the Mental Capacity (Research) Regulations (Northern Ireland) 2019[^f00003].
 
-## 2. Amendments to the principal Regulations[^key-5261be0c99b204f850ba3e387bcdeea4]
+## 2. Amendments to the principal Regulations[^c-5261be0c99b204f850ba3e387bcdeea4]
 
 In the principal Regulations, for regulation 2 there shall be substituted the following—
 
@@ -160,8 +160,8 @@ The new regulation provides an updated list specifying the persons, committee or
 
 [^f00002]: Footnote: [2016 c. 18 (N.I.)](https://www.legislation.gov.uk/nia/2016/18)
 
-[^key-ec47de2569855705c4a50e7fa0fccdf0]: Commencement: Reg. 1 in operation at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/299/regulation/1/1)
+[^c-ec47de2569855705c4a50e7fa0fccdf0]: Commencement: Reg. 1 in operation at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/299/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 2019 No. 193](https://www.legislation.gov.uk/nisr/2019/193) as amended by [S.R. 2020 No.17](https://www.legislation.gov.uk/nisr/2020/17)
 
-[^key-5261be0c99b204f850ba3e387bcdeea4]: Commencement: Reg. 2 in operation at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/299/regulation/1/1)
+[^c-5261be0c99b204f850ba3e387bcdeea4]: Commencement: Reg. 2 in operation at 21.12.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/299/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144.[^key-f64e433ba597d15c0ac057a00322b760]
+## 144.[^c-f64e433ba597d15c0ac057a00322b760]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In section 318C (childcare: meaning of “qualifying child care”), in subsecti
 
 ## Annotations
 
-[^key-f64e433ba597d15c0ac057a00322b760]: Commencement: Reg. 144 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-f64e433ba597d15c0ac057a00322b760]: Commencement: Reg. 144 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

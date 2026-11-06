@@ -30,7 +30,7 @@ Intellectual Property
 
 Patents
 
-The Patents Act 1977 (Amendment) Regulations 2011 (revoked)[^key-47cbb4bfd9bd51851380f4c25e1e09e9]
+The Patents Act 1977 (Amendment) Regulations 2011 (revoked)[^c-47cbb4bfd9bd51851380f4c25e1e09e9]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 1st October 2011
 
-[^key-47cbb4bfd9bd51851380f4c25e1e09e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47cbb4bfd9bd51851380f4c25e1e09e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-47cbb4bfd9bd51851380f4c25e1e09e9]
+## 1. Citation and commencement[^c-47cbb4bfd9bd51851380f4c25e1e09e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Patents Act 1977[^key-47cbb4bfd9bd51851380f4c25e1e09e9]
+## 2. Amendment of Patents Act 1977[^c-47cbb4bfd9bd51851380f4c25e1e09e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-47cbb4bfd9bd51851380f4c25e1e09e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47cbb4bfd9bd51851380f4c25e1e09e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-47cbb4bfd9bd51851380f4c25e1e09e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-47cbb4bfd9bd51851380f4c25e1e09e9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-47cbb4bfd9bd51851380f4c25e1e09e9]: Textual amendment: Regulations revoked (1.6.2014) by [The Copyright (Public Administration) Regulations 2014 (S.I. 2014/1385)](https://www.legislation.gov.uk/uksi/2014/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/1385/regulation/3/2)
+[^c-47cbb4bfd9bd51851380f4c25e1e09e9]: Textual amendment: Regulations revoked (1.6.2014) by [The Copyright (Public Administration) Regulations 2014 (S.I. 2014/1385)](https://www.legislation.gov.uk/uksi/2014/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1385/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/1385/regulation/3/2)

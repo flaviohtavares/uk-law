@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 252B. References to Committee in relation to railways[^key-baa93b276f8f91121d800c10020c3c31]
+## 252B. References to Committee in relation to railways[^c-baa93b276f8f91121d800c10020c3c31]
 
 *Extent: E+W+S+N.I.*
 
 (1) It shall be the duty of the Committee to investigate any matter relating to a relevant railway matter if—
 
 - (a) it is the subject of a representation made to the Committee by a user or potential user of railway passenger services;
-- (b) it is referred to the Committee by the Secretary of State, the Office of Rail and Road[^key-3bdb3bc38d369e3a5199b274045cef0f], the Passengers’ Council[^key-ef2189b68f1a81332633cc2de692a9f6], the London Assembly or Transport for London; or
+- (b) it is referred to the Committee by the Secretary of State, the Office of Rail and Road[^c-3bdb3bc38d369e3a5199b274045cef0f], the Passengers’ Council[^c-ef2189b68f1a81332633cc2de692a9f6], the London Assembly or Transport for London; or
 - (c) it appears to the Committee that it is a matter that it ought to investigate.
 
 (2) A matter is a relevant railway matter for the purposes of subsection (1) if it relates to—
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-baa93b276f8f91121d800c10020c3c31]: Textual amendment: Ss. 252B-252D inserted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/3); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-baa93b276f8f91121d800c10020c3c31]: Textual amendment: Ss. 252B-252D inserted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/3); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-3bdb3bc38d369e3a5199b274045cef0f]: Textual amendment: Words in s. 252B(1)(b) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(n)(v)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/n/v)
+[^c-3bdb3bc38d369e3a5199b274045cef0f]: Textual amendment: Words in s. 252B(1)(b) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 4(n)(v)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/4/n/v)
 
-[^key-ef2189b68f1a81332633cc2de692a9f6]: Textual amendment: Words in s. 252B(1)(b) substituted (E.W.S.) (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/7/2)
+[^c-ef2189b68f1a81332633cc2de692a9f6]: Textual amendment: Words in s. 252B(1)(b) substituted (E.W.S.) (25.2.2010) by [The Passengers’ Council (Non-Railway Functions) Order 2010 (S.I. 2010/439)](https://www.legislation.gov.uk/uksi/2010/439), [art. 1](https://www.legislation.gov.uk/uksi/2010/439/article/1), [Sch. para. 7(2)](https://www.legislation.gov.uk/uksi/2010/439/schedule/paragraph/7/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and interpretation[^key-00a2e0abdfc1113bb40d047bf8df959b]
+## 1. Citation, commencement and interpretation[^c-00a2e0abdfc1113bb40d047bf8df959b]
 
 *Extent: N.I.*
 
@@ -157,7 +157,7 @@ summary: ''
 
 ## Annotations
 
-[^key-00a2e0abdfc1113bb40d047bf8df959b]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-00a2e0abdfc1113bb40d047bf8df959b]: Commencement: Reg. 1 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00004]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77)
 

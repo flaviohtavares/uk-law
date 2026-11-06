@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 187. General powers[^key-dd9c88d5151e584fd3155a510fc5a597]
+## 187. General powers[^c-dd9c88d5151e584fd3155a510fc5a597]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd9c88d5151e584fd3155a510fc5a597]: Commencement: [Rule 187](https://www.legislation.gov.uk/uksi/2011/1301/rule/187) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-dd9c88d5151e584fd3155a510fc5a597]: Commencement: [Rule 187](https://www.legislation.gov.uk/uksi/2011/1301/rule/187) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

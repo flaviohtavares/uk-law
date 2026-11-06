@@ -22,7 +22,7 @@ summary: ''
 
 Article 2
 
-### PART 1 — AUTHORISED DEVELOPMENT[^key-4009f2880302ae07e38b97e090276051]
+### PART 1 — AUTHORISED DEVELOPMENT[^c-4009f2880302ae07e38b97e090276051]
 
 A nationally significant infrastructure project as defined in sections 14 and 29(1A) of the Planning Act 2008 (as amended) (‘the Act’) comprising the works described in column (1) of the table below.
 
@@ -33,7 +33,7 @@ Table 1
 |  |  |
 | --- | --- |
 | (1)<br>Works comprising a nationally significant infrastructure project as defined in sections 14 and 29(1A) of the Act | (2)<br>Works comprising associated development within the meaning of section 115(2) of the Act |
-| Work Nos. 1a, 1b, 1c, 1d, 2a, 3a, 3b, 4a, 4b, 5a, 5b, 6a, 7, 8a, 9a, 10a, 10b, 11a, 11b, 12a, 12b, 13a, 14a, 14b, 15a, 15b, 16a, 16b, 17a, 19a, 20, 21a, 22a, 23a, 24a and 24aa.[^key-0cf0989002bd3022de051b3a84ff6ab5]<br>These works are marked with an asterisk in the description below. | Work Nos. 2b, 3c, 4c, 5c, 5d, 6b, 8b, 8c, 9b, 10c, 11c, 12c, 13b, 14c, 15c, 16c, 17b, 18, 19b, 21b, 22b, 23b, 23c, 24b, 25, 26 and 27. |
+| Work Nos. 1a, 1b, 1c, 1d, 2a, 3a, 3b, 4a, 4b, 5a, 5b, 6a, 7, 8a, 9a, 10a, 10b, 11a, 11b, 12a, 12b, 13a, 14a, 14b, 15a, 15b, 16a, 16b, 17a, 19a, 20, 21a, 22a, 23a, 24a and 24aa.[^c-0cf0989002bd3022de051b3a84ff6ab5]<br>These works are marked with an asterisk in the description below. | Work Nos. 2b, 3c, 4c, 5c, 5d, 6b, 8b, 8c, 9b, 10c, 11c, 12c, 13b, 14c, 15c, 16c, 17b, 18, 19b, 21b, 22b, 23b, 23c, 24b, 25, 26 and 27. |
 
 The description set out in this Schedule is subject to article 2(4) of this Order.
 
@@ -259,7 +259,7 @@ The description set out in this Schedule is subject to article 2(4) of this Orde
       - (viii) provision of construction access from Victoria Embankment and subsequent reinstatement to original layout;
       - (ix) provision of permanent access from Victoria Embankment;
       - (x) removal of a section of central reservation and its subsequent re-instatement;
-      - (xi) removal of existing mooring for the Tattershall Castle attached to listed wall (and associated access ramps), construction and use of a new mooring (over listed wall) for a vessel to the south of Work No. 16c(ii), and means of access attached to the listed wall including access brows, gangways, guide piles, mooring chains and anchors fixed to the river bed, construction dredging and associated sheet piling to accommodate the relocated vessel;[^key-6bbd1e4781e048762a40e8ada5b638f5]
+      - (xi) removal of existing mooring for the Tattershall Castle attached to listed wall (and associated access ramps), construction and use of a new mooring (over listed wall) for a vessel to the south of Work No. 16c(ii), and means of access attached to the listed wall including access brows, gangways, guide piles, mooring chains and anchors fixed to the river bed, construction dredging and associated sheet piling to accommodate the relocated vessel;[^c-6bbd1e4781e048762a40e8ada5b638f5]
       - (xii) permanent removal of the service mooring / service pontoon to the east of the junction of Victoria Embankment and Horse Guards Avenue including guide piles;
       - (xiii) permanent removal of service mooring / service pontoon to the north of the junction of Victoria Embankment and Horse Guards Avenue; and
       - (xiv) construction of amenity buildings.
@@ -352,7 +352,7 @@ The description set out in this Schedule is subject to article 2(4) of this Orde
 - In the London Borough of Tower Hamlets
   - KING EDWARD MEMORIAL PARK FORESHORE
     - \*Work No.24a: King Edward Memorial Park CSO drop shaft – A shaft with an internal diameter of 20 metres and a depth (to invert level) of 60 metres.
-    - \*Work No.24aa: North East Storm Relief connection tunnel – A tunnel between the King Edward Memorial Park CSO drop shaft (Work No.24a) and the main tunnel (east) (Work No.1d).[^key-281191233438363eede75e991e502f27]
+    - \*Work No.24aa: North East Storm Relief connection tunnel – A tunnel between the King Edward Memorial Park CSO drop shaft (Work No.24a) and the main tunnel (east) (Work No.1d).[^c-281191233438363eede75e991e502f27]
     - Work No.24b: King Edward Memorial Park Foreshore associated development – Works to intercept and divert flow from the North East Storm Relief Sewer CSO to the King Edward Memorial Park Foreshore drop shaft (Work No. 24a) and to the main tunnel (east) (Work No. 1d), including the following above and below ground works and structures:
       - (i) demolition of existing park maintenance buildings and other structures;
       - (ii) dredging and construction of a cofferdam including fluvial training walls and the placement of fill material, connection to the existing river wall and construction of a campshed;
@@ -383,13 +383,13 @@ The description set out in this Schedule is subject to article 2(4) of this Orde
     - Work No.27: Beckton Sewage Treatment Works associated development – modifications to the sewage treatment works to cater for sewage flows from the Thames Tideway Tunnel Project, including:
       - (i) construction of works above and below ground to transfer flows from the Tideway Pumping Station to the inlet works of the sewage treatment works;
       - (ii) installation of additional equipment at the inlet works; and
-      - (iii) construction of a siphon tunnel inlet shaft with an internal diameter of up to 10.5 metres and which has a depth (to invert level) of up to 24 metres[^key-9becd6f69a1af65f1e86a32ef4d2135b] (when measured from the top of Work No. 27(iii));
+      - (iii) construction of a siphon tunnel inlet shaft with an internal diameter of up to 10.5 metres and which has a depth (to invert level) of up to 24 metres[^c-9becd6f69a1af65f1e86a32ef4d2135b] (when measured from the top of Work No. 27(iii));
       - (iv) construction of a siphon tunnel outlet shaft with an internal diameter of up to 7 metres (which extends 3 metres above the proposed ground level) and which has a depth (to invert level) of up to 23 metres (when measured from the top of Work No. 27(iv));
       - (v) construction of a siphon tunnel with superstructure above the siphon inlet shaft between the siphon tunnel inlet and outlet shafts; and
       - (vi) construction of pits, chambers, culverts, ducts and pipes for cables, hydraulic pipelines, utility connections, utility diversions and drainage, including facilities for drainage attenuation.
     - And in connection with Work Nos. 1 to 27
     - And in connection with Work Nos. 1 to 27, to the extent that they do not otherwise form part of any such work, the following further works, being associated development within the meaning of section 115(2) of the Act, including:-
-      - (a) establishment of temporary construction areas at each works site to include, as necessary, site hoardings/means of enclosure, demolition and site clearance (including of existing walls, fences, planters, and other buildings and other above and below ground structures), provision of services, including electronic communications[^key-ee935920befd38628cf7fb7367416109], water and power supplies (including substations) including means of enclosure, and ground preparation works including land remediation and groundwater de-watering;
+      - (a) establishment of temporary construction areas at each works site to include, as necessary, site hoardings/means of enclosure, demolition and site clearance (including of existing walls, fences, planters, and other buildings and other above and below ground structures), provision of services, including electronic communications[^c-ee935920befd38628cf7fb7367416109], water and power supplies (including substations) including means of enclosure, and ground preparation works including land remediation and groundwater de-watering;
       - (b) provision of hardstanding areas, welfare/office accommodation, workshops and stores, storage and handling areas, facilities for and equipment for processing of excavated materials, treatment enclosures and other temporary facilities, plant, cranes, machinery, temporary bridges and accesses, and any other temporary works required;
       - (c) in connection with Work Nos. 5, 6, 8, 11, 12, 13, 14, 15, 16, 17, 19, 23, 24 and 26 the provision of temporary moorings (including dolphins) and other equipment and facilities for temporary use by barges, pontoons and other floating structures and temporary works platforms and apparatus (including as necessary piling for support of such structures) for use in construction of those works, and works for the strengthening and protecting of river walls and other flood protection defences;
       - (d) temporary removal of coach and car parking bays and creation of temporary replacement coach and car-parking as required and temporary footpath diversions;
@@ -404,9 +404,9 @@ The description set out in this Schedule is subject to article 2(4) of this Orde
       - (m) permanent and temporary works for the benefit or protection of land or structures affected by the authorised project (including protective works to buildings and other structures, and works for the monitoring of buildings and structures);
       - (n) temporary landing places, moorings or other means of accommodating vessels in the construction and or maintenance of the authorised project;
       - (o) provision of buoys, beacons, fenders and other navigational warning or ship impact protection works;
-      - (p) such other works as may be necessary or expedient for the purposes of or in connection with the construction of the authorised project which do not give rise to any materially new or materially different environmental effects from those assessed as set out in the environmental statement[^key-761928d34ac76eed5bbe965e74ca766c];
+      - (p) such other works as may be necessary or expedient for the purposes of or in connection with the construction of the authorised project which do not give rise to any materially new or materially different environmental effects from those assessed as set out in the environmental statement[^c-761928d34ac76eed5bbe965e74ca766c];
 
-### PART 2 — ANCILLARY WORKS[^key-8c008d251b6caf252db7760f73d1304d]
+### PART 2 — ANCILLARY WORKS[^c-8c008d251b6caf252db7760f73d1304d]
 
 At the Shad Thames Pumping Station—
 
@@ -431,18 +431,18 @@ Generally—
 
 ## Annotations
 
-[^key-4009f2880302ae07e38b97e090276051]: Commencement: Sch. 1 Pt. 1 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-4009f2880302ae07e38b97e090276051]: Commencement: Sch. 1 Pt. 1 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
 
-[^key-0cf0989002bd3022de051b3a84ff6ab5]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/2384/schedule/1/part/1) Table 1 substituted (11.3.2020) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Amendment) Order 2020 (S.I. 2020/268)](https://www.legislation.gov.uk/uksi/2020/268), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/268/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/268/article/2/4/a)
+[^c-0cf0989002bd3022de051b3a84ff6ab5]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/2384/schedule/1/part/1) Table 1 substituted (11.3.2020) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Amendment) Order 2020 (S.I. 2020/268)](https://www.legislation.gov.uk/uksi/2020/268), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/268/article/1/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/268/article/2/4/a)
 
-[^key-6bbd1e4781e048762a40e8ada5b638f5]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/2384/schedule/1/part/1) substituted (24.11.2022) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Amendment) Order 2022 (S.I. 2022/1242)](https://www.legislation.gov.uk/uksi/2022/1242), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/1242/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1242/schedule/1) Table
+[^c-6bbd1e4781e048762a40e8ada5b638f5]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/2384/schedule/1/part/1) substituted (24.11.2022) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Amendment) Order 2022 (S.I. 2022/1242)](https://www.legislation.gov.uk/uksi/2022/1242), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/1242/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1242/schedule/1) Table
 
-[^key-281191233438363eede75e991e502f27]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/2384/schedule/1/part/1) inserted (11.3.2020) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Amendment) Order 2020 (S.I. 2020/268)](https://www.legislation.gov.uk/uksi/2020/268), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/268/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/268/article/2/4/b)
+[^c-281191233438363eede75e991e502f27]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/2384/schedule/1/part/1) inserted (11.3.2020) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Amendment) Order 2020 (S.I. 2020/268)](https://www.legislation.gov.uk/uksi/2020/268), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2020/268/article/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/268/article/2/4/b)
 
-[^key-9becd6f69a1af65f1e86a32ef4d2135b]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/2384/schedule/1/part/1) substituted (17.5.2017) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Amendment) Order 2017 (S.I. 2017/659)](https://www.legislation.gov.uk/uksi/2017/659), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/659/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/659/schedule)
+[^c-9becd6f69a1af65f1e86a32ef4d2135b]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/2384/schedule/1/part/1) substituted (17.5.2017) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Amendment) Order 2017 (S.I. 2017/659)](https://www.legislation.gov.uk/uksi/2017/659), [art. 1(1)](https://www.legislation.gov.uk/uksi/2017/659/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/659/schedule)
 
-[^key-ee935920befd38628cf7fb7367416109]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/2384/schedule/1/part/1) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 42(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/42/2)
+[^c-ee935920befd38628cf7fb7367416109]: Textual amendment: Words in [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2014/2384/schedule/1/part/1) substituted (28.12.2017) by [The Communications Act 2003 and the Digital Economy Act 2017 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/1011)](https://www.legislation.gov.uk/uksi/2017/1011), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1011/regulation/1/1), [Sch. 4 para. 42(2)](https://www.legislation.gov.uk/uksi/2017/1011/schedule/4/paragraph/42/2)
 
-[^key-761928d34ac76eed5bbe965e74ca766c]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/uksi/2014/2384) substituted (17.3.2015) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Correction) Order 2015 (S.I. 2015/723)](https://www.legislation.gov.uk/uksi/2015/723), [art. 1](https://www.legislation.gov.uk/uksi/2015/723/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/723/schedule) Table 1
+[^c-761928d34ac76eed5bbe965e74ca766c]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/uksi/2014/2384) substituted (17.3.2015) by [The Thames Water Utilities Limited (Thames Tideway Tunnel) (Correction) Order 2015 (S.I. 2015/723)](https://www.legislation.gov.uk/uksi/2015/723), [art. 1](https://www.legislation.gov.uk/uksi/2015/723/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/723/schedule) Table 1
 
-[^key-8c008d251b6caf252db7760f73d1304d]: Commencement: Sch. 1 Pt. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-8c008d251b6caf252db7760f73d1304d]: Commencement: Sch. 1 Pt. 2 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

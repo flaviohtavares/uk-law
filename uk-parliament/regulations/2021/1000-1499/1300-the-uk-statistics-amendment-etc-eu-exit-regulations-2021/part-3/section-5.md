@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Amendment of the Concession Contracts Regulations 2016[^key-f3e886f30739dc1339077e8e2ff6fa84]
+## 5. Amendment of the Concession Contracts Regulations 2016[^c-f3e886f30739dc1339077e8e2ff6fa84]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f3e886f30739dc1339077e8e2ff6fa84]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1300/regulation/5) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-f3e886f30739dc1339077e8e2ff6fa84]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2021/1300/regulation/5) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)

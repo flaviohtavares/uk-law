@@ -24,7 +24,7 @@ summary: ''
 
 (2) Tax is charged in respect of a chargeable interest if on one or more days in a chargeable period—
 
-- (a) the interest is a single-dwelling interest and has a taxable value of more than £500,000[^key-9ad8de5da9dedf4f2d92c53b6bc3afbe], and
+- (a) the interest is a single-dwelling interest and has a taxable value of more than £500,000[^c-9ad8de5da9dedf4f2d92c53b6bc3afbe], and
 - (b) a company, partnership or collective investment scheme meets the ownership condition with respect to the interest.
 
 (3) The tax is charged for the chargeable period concerned.
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ad8de5da9dedf4f2d92c53b6bc3afbe]: Textual amendment: Words in s. 94(2)(a) substituted (1.4.2016) (with effect in accordance with s. 110(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/110/2)
+[^c-9ad8de5da9dedf4f2d92c53b6bc3afbe]: Textual amendment: Words in s. 94(2)(a) substituted (1.4.2016) (with effect in accordance with s. 110(4) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 110(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/110/2)

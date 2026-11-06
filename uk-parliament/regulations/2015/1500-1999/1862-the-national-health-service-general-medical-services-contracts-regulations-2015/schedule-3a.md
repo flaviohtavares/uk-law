@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3A — Suspension and reactivation of general medical services contracts[^key-e7cde8d9a67ae89f1a28b8afa41c2762]
+## SCHEDULE 3A — Suspension and reactivation of general medical services contracts[^c-e7cde8d9a67ae89f1a28b8afa41c2762]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ In this Schedule—
 
 ### 2. Right to suspend a general medical services contract
 
-(1) Where a contractor wishes to perform or provide primary medical services under an integrated care provider contract, the contractor must give notice in writing to NHS England[^key-27a783e1510d45f884edbc32ee2f5c83] of that intention in accordance with paragraph 4 and NHS England must agree to suspend the operation of the contractor’s general medical services contract in accordance with the requirements of, and subject to the conditions set out in, this Schedule.
+(1) Where a contractor wishes to perform or provide primary medical services under an integrated care provider contract, the contractor must give notice in writing to NHS England[^c-27a783e1510d45f884edbc32ee2f5c83] of that intention in accordance with paragraph 4 and NHS England must agree to suspend the operation of the contractor’s general medical services contract in accordance with the requirements of, and subject to the conditions set out in, this Schedule.
 
 (2) NHS England must not suspend the contractor’s contract until—
 
@@ -54,7 +54,7 @@ In this Schedule—
 (3) The persons specified in this sub-paragraph are—
 
 - (a) NHS England;
-- (b) one or more integrated care boards[^key-8ac1ef8e58083fcca996bf4ca434b629]; or
+- (b) one or more integrated care boards[^c-8ac1ef8e58083fcca996bf4ca434b629]; or
 - (c) one or more local authorities in England.
 
 (4) An integrated care provider contract must—
@@ -88,7 +88,7 @@ and include such services where they are provided under arrangements entered int
     - (ii) section 111 (dental public health); or
     - (iii) paragraphs 1 to 7B or 13 of Schedule 1 (further provision about the Secretary of State and services under this Act);
   - (c) the public health functions of the Secretary of State that a local authority in England is required to exercise by virtue of regulations made under section 6C(1) (regulations as to the exercise by local authorities of certain public health functions) of the Act; or
-  - (d) the public health functions of the Secretary of State where they are exercised by NHS England, an integrated care board or a local authority in England where those bodies are acting pursuant to arrangements made under section 7A (exercise of the Secretary of State’s public health functions) or 7B (directions requiring NHS bodies to exercise public health functions)[^key-31bdc7582c60c507e5c4b00539993824] of the Act;
+  - (d) the public health functions of the Secretary of State where they are exercised by NHS England, an integrated care board or a local authority in England where those bodies are acting pursuant to arrangements made under section 7A (exercise of the Secretary of State’s public health functions) or 7B (directions requiring NHS bodies to exercise public health functions)[^c-31bdc7582c60c507e5c4b00539993824] of the Act;
 - “public health services” are services which are provided pursuant to the exercise of public health functions;
 - “secondary care services” means—
   - (a) such services, accommodation or facilities as an integrated care board considers it appropriate to make arrangements for the provision of under or by virtue of section 3 (duties of integrated care boards as to commissioning of health services) or 3A (power of integrated care boards to commission certain health services) of the Act; or
@@ -192,10 +192,10 @@ pay the contractor any outstanding payments owed to the contractor in respect of
 
 ## Annotations
 
-[^key-e7cde8d9a67ae89f1a28b8afa41c2762]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2015/1862/schedule/3A) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2019/248/regulation/30)
+[^c-e7cde8d9a67ae89f1a28b8afa41c2762]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2015/1862/schedule/3A) inserted (1.4.2019) by [The Amendments Relating to the Provision of Integrated Care Regulations 2019 (S.I. 2019/248)](https://www.legislation.gov.uk/uksi/2019/248), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/248/regulation/1/1), [30](https://www.legislation.gov.uk/uksi/2019/248/regulation/30)
 
-[^key-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-27a783e1510d45f884edbc32ee2f5c83]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-8ac1ef8e58083fcca996bf4ca434b629]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/1862) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-8ac1ef8e58083fcca996bf4ca434b629]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2015/1862) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-31bdc7582c60c507e5c4b00539993824]: Textual amendment: Words in [Sch. 3A para. 3(7)](https://www.legislation.gov.uk/uksi/2015/1862/schedule/3A/paragraph/3/7) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [216(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/216/3)
+[^c-31bdc7582c60c507e5c4b00539993824]: Textual amendment: Words in [Sch. 3A para. 3(7)](https://www.legislation.gov.uk/uksi/2015/1862/schedule/3A/paragraph/3/7) inserted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [216(3)](https://www.legislation.gov.uk/uksi/2022/634/regulation/216/3)

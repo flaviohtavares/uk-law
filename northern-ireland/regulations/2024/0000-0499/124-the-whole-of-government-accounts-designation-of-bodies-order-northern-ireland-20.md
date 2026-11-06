@@ -49,11 +49,11 @@ The bodies listed in the Schedule to this Order appear to the Department of Fina
 
 The Department intends the accounts under section 14 of the Act for the financial year ending with 31st March 2024 to relate in part to those bodies.
 
-## 1. Title and commencement[^key-c79edf945ba9b596f234e827504c9c5b]
+## 1. Title and commencement[^c-c79edf945ba9b596f234e827504c9c5b]
 
 This Order may be cited as the Whole of Government Accounts (Designation of Bodies) Order (Northern Ireland) 2024 and shall come into operation on 24th June 2024.
 
-## 2. Designation of Bodies[^key-106100dadba48bba5ee720a65fb95159]
+## 2. Designation of Bodies[^c-106100dadba48bba5ee720a65fb95159]
 
 For the purposes of section 15 of the Government Resources and Accounts Act (Northern Ireland) 2001, the Department designates the bodies listed in the Schedule in respect of the financial year ending with 31st March 2024.
 
@@ -63,11 +63,11 @@ Stuart Stevenson
 
 A senior officer of the Department of Finance
 
-## SCHEDULE — DESIGNATED BODIES FOR 2023-2024[^key-a1e01dcf42a9dc2d94f3a0b0f044abaf]
+## SCHEDULE — DESIGNATED BODIES FOR 2023-2024[^c-a1e01dcf42a9dc2d94f3a0b0f044abaf]
 
 Article 2
 
-[^key-a1e01dcf42a9dc2d94f3a0b0f044abaf]
+[^c-a1e01dcf42a9dc2d94f3a0b0f044abaf]
 
 - Agri-Food and Biosciences Institute
 - Antrim and Newtownabbey Borough Council
@@ -192,8 +192,8 @@ WGA are financial statements prepared on the basis of Generally Accepted Account
 
 [^f00002]: Footnote: [2001 (c.6) (NI)](https://www.legislation.gov.uk/nia/2001/6)
 
-[^key-c79edf945ba9b596f234e827504c9c5b]: Commencement: Art. 1 in operation at 24.6.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/124/article/1)
+[^c-c79edf945ba9b596f234e827504c9c5b]: Commencement: Art. 1 in operation at 24.6.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/124/article/1)
 
-[^key-106100dadba48bba5ee720a65fb95159]: Commencement: Art. 2 in operation at 24.6.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/124/article/1)
+[^c-106100dadba48bba5ee720a65fb95159]: Commencement: Art. 2 in operation at 24.6.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/124/article/1)
 
-[^key-a1e01dcf42a9dc2d94f3a0b0f044abaf]: Commencement: Sch. in operation at 24.6.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/124/article/1)
+[^c-a1e01dcf42a9dc2d94f3a0b0f044abaf]: Commencement: Sch. in operation at 24.6.2024, see [art. 1](https://www.legislation.gov.uk/nisr/2024/124/article/1)

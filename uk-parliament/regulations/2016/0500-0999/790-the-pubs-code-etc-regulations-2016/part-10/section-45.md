@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Pub-owning business to notify Adjudicator and tied pub tenants of status under these Regulations[^key-d3b9e67d42772329030e1b3466dc1009]
+## 45. Pub-owning business to notify Adjudicator and tied pub tenants of status under these Regulations[^c-d3b9e67d42772329030e1b3466dc1009]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ must, as soon as reasonably practicable, notify the Adjudicator and its tied pub
 
 ## Annotations
 
-[^key-d3b9e67d42772329030e1b3466dc1009]: Commencement: Reg. 45 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-d3b9e67d42772329030e1b3466dc1009]: Commencement: Reg. 45 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

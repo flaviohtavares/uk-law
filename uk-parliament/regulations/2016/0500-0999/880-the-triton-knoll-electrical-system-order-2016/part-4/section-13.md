@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Authority to survey and investigate land[^key-fc1ded1bc7cddbfd8b368cf0ce8ecd70]
+## 13. Authority to survey and investigate land[^c-fc1ded1bc7cddbfd8b368cf0ce8ecd70]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ fails to notify the undertaker of its decision within 28 days of receiving the c
 
 ## Annotations
 
-[^key-fc1ded1bc7cddbfd8b368cf0ce8ecd70]: Commencement: Art. 13 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-fc1ded1bc7cddbfd8b368cf0ce8ecd70]: Commencement: Art. 13 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

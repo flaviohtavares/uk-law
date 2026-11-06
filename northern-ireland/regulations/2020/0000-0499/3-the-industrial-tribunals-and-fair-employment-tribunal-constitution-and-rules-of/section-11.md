@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Composition of individual tribunals: specialist knowledge[^key-784663583cdccd96c5f7b9a0e6dcf839]
+## 11. Composition of individual tribunals: specialist knowledge[^c-784663583cdccd96c5f7b9a0e6dcf839]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Where particular specialist knowledge would, in the opinion of the President or 
 
 ## Annotations
 
-[^key-784663583cdccd96c5f7b9a0e6dcf839]: Commencement: Reg. 11 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)
+[^c-784663583cdccd96c5f7b9a0e6dcf839]: Commencement: Reg. 11 in operation at 27.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Recovering green deal payments: electricity suppliers[^key-d47c9187b9892118360be608ea2b093b]
+## 24. Recovering green deal payments: electricity suppliers[^c-d47c9187b9892118360be608ea2b093b]
 
 *Extent: E+W+S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d47c9187b9892118360be608ea2b093b]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2011/16/section/24) in force at 28.1.2013 by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/125/article/3/a)
+[^c-d47c9187b9892118360be608ea2b093b]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2011/16/section/24) in force at 28.1.2013 by [S.I. 2013/125](https://www.legislation.gov.uk/uksi/2013/125), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/125/article/3/a)

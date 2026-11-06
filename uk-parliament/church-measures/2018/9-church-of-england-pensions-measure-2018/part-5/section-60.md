@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 60. Repeals and revocations[^key-915576284f19162411f1b8e665725e91]
+## 60. Repeals and revocations[^c-915576284f19162411f1b8e665725e91]
 
 *Extent: E*
 
@@ -24,4 +24,4 @@ Schedule 5 (which contains repeals and revocations) has effect.
 
 ## Annotations
 
-[^key-915576284f19162411f1b8e665725e91]: Commencement: [S. 60](https://www.legislation.gov.uk/ukcm/2018/9/section/60) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-915576284f19162411f1b8e665725e91]: Commencement: [S. 60](https://www.legislation.gov.uk/ukcm/2018/9/section/60) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

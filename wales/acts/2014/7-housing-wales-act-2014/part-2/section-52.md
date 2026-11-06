@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Homelessness strategies[^key-c1ca7d5d428c9f4ea75496e12fcebbfc]
+## 52. Homelessness strategies[^c-c1ca7d5d428c9f4ea75496e12fcebbfc]
 
 *Extent: E+W*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1ca7d5d428c9f4ea75496e12fcebbfc]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2014/7/section/52) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 3](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/3)
+[^c-c1ca7d5d428c9f4ea75496e12fcebbfc]: Commencement: [S. 52](https://www.legislation.gov.uk/anaw/2014/7/section/52) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 3](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/3)

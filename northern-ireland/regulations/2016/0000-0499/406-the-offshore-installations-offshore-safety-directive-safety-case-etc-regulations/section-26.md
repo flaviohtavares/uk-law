@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Power of the competent authority to prohibit operations[^key-cc0b2376f1d519586e1cd1f03b6b1a87]
+## 26. Power of the competent authority to prohibit operations[^c-cc0b2376f1d519586e1cd1f03b6b1a87]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc0b2376f1d519586e1cd1f03b6b1a87]: Commencement: Reg. 26 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-cc0b2376f1d519586e1cd1f03b6b1a87]: Commencement: Reg. 26 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

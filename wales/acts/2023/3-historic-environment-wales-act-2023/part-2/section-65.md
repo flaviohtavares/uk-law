@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Powers of entry for inspection of scheduled monuments etc.[^key-729f16319a76b79d0969b3f84f3358ce][^key-8765bc5ff87c1e2f8d958a7b405b882c]
+## 65. Powers of entry for inspection of scheduled monuments etc.[^c-729f16319a76b79d0969b3f84f3358ce][^c-8765bc5ff87c1e2f8d958a7b405b882c]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-729f16319a76b79d0969b3f84f3358ce]: Commencement: S. 65 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-729f16319a76b79d0969b3f84f3358ce]: Commencement: S. 65 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-8765bc5ff87c1e2f8d958a7b405b882c]: Commencement: [S. 65](https://www.legislation.gov.uk/asc/2023/3/section/65) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-8765bc5ff87c1e2f8d958a7b405b882c]: Commencement: [S. 65](https://www.legislation.gov.uk/asc/2023/3/section/65) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 56A. Traffic commissioner may have regard to international obligations[^key-f746853a02b0eb5cfccd397dbe6e7190]
+## 56A. Traffic commissioner may have regard to international obligations[^c-f746853a02b0eb5cfccd397dbe6e7190]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f746853a02b0eb5cfccd397dbe6e7190]: Textual amendment: [S. 56A](https://www.legislation.gov.uk/ukpga/1995/23/section/56A) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [51](https://www.legislation.gov.uk/uksi/2022/293/regulation/51)
+[^c-f746853a02b0eb5cfccd397dbe6e7190]: Textual amendment: [S. 56A](https://www.legislation.gov.uk/ukpga/1995/23/section/56A) inserted (17.3.2022) by [The Goods Vehicles (Licensing of Operators) (Amendment) Regulations 2022 (S.I. 2022/293)](https://www.legislation.gov.uk/uksi/2022/293), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2022/293/regulation/2/1), [51](https://www.legislation.gov.uk/uksi/2022/293/regulation/51)

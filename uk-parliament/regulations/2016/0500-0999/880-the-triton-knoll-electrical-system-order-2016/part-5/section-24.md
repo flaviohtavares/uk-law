@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Temporary use of land for carrying out authorised project[^key-628906d91ed78a7b3d6b9ddf017ab04a]
+## 24. Temporary use of land for carrying out authorised project[^c-628906d91ed78a7b3d6b9ddf017ab04a]
 
 *Extent: E+W+S*
 
@@ -58,6 +58,6 @@ summary: ''
 
 ## Annotations
 
-[^key-628906d91ed78a7b3d6b9ddf017ab04a]: Commencement: Art. 24 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-628906d91ed78a7b3d6b9ddf017ab04a]: Commencement: Art. 24 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
 
 [^f00034]: Footnote: Section 13 was amended by section 139 of, and paragraph 28(2) of Schedule 13 and Part 3 of Schedule 23 to, the Tribunals, Courts and Enforcement Act [2007 (c.15)](https://www.legislation.gov.uk/ukpga/2007/15).

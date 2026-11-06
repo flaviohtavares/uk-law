@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Requirements relating to areas of learning and experience and cross-curricular skills[^key-ee2f9270be9ce4cd0d224d7306da3d8a][^key-559fd084d3757c9279e46aed78fdf5e1][^key-b1267d65c5c59207d05aafe3533c24af][^key-699323f26a2838e98f5de77dbd8a9882][^key-f91879987d68bacb663d548dbb884815]
+## 36. Requirements relating to areas of learning and experience and cross-curricular skills[^c-ee2f9270be9ce4cd0d224d7306da3d8a][^c-559fd084d3757c9279e46aed78fdf5e1][^c-b1267d65c5c59207d05aafe3533c24af][^c-699323f26a2838e98f5de77dbd8a9882][^c-f91879987d68bacb663d548dbb884815]
 
 *Extent: E+W*
 
@@ -29,12 +29,12 @@ summary: ''
 
 ## Annotations
 
-[^key-ee2f9270be9ce4cd0d224d7306da3d8a]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2021/4/section/36) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/c), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
+[^c-ee2f9270be9ce4cd0d224d7306da3d8a]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2021/4/section/36) in force at 1.9.2022 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 5(1)](https://www.legislation.gov.uk/wsi/2022/652/article/5/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/5/2/c), [Sch.](https://www.legislation.gov.uk/wsi/2022/652/schedule)
 
-[^key-559fd084d3757c9279e46aed78fdf5e1]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2021/4/section/36) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/c)
+[^c-559fd084d3757c9279e46aed78fdf5e1]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2021/4/section/36) in force at 1.9.2023 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 6(1)](https://www.legislation.gov.uk/wsi/2022/652/article/6/1)[(2)(c)](https://www.legislation.gov.uk/wsi/2022/652/article/6/2/c)
 
-[^key-b1267d65c5c59207d05aafe3533c24af]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2021/4/section/36) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(c)](https://www.legislation.gov.uk/wsi/2022/652/article/7/c)
+[^c-b1267d65c5c59207d05aafe3533c24af]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2021/4/section/36) in force at 1.9.2024 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 7(c)](https://www.legislation.gov.uk/wsi/2022/652/article/7/c)
 
-[^key-699323f26a2838e98f5de77dbd8a9882]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2021/4/section/36) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
+[^c-699323f26a2838e98f5de77dbd8a9882]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2021/4/section/36) in force at 1.9.2025 for specified purposes by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 8(a)](https://www.legislation.gov.uk/wsi/2022/652/article/8/a)
 
-[^key-f91879987d68bacb663d548dbb884815]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2021/4/section/36) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)
+[^c-f91879987d68bacb663d548dbb884815]: Commencement: [S. 36](https://www.legislation.gov.uk/asc/2021/4/section/36) in force at 1.9.2026 in so far as not already in force by [S.I. 2022/652](https://www.legislation.gov.uk/wsi/2022/652), [art. 9(a)](https://www.legislation.gov.uk/wsi/2022/652/article/9/a)

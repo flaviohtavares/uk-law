@@ -56,13 +56,13 @@ The Order authorises the compulsory acquisition of land which is the property of
 
 The Order will not come into force until it has been laid before Parliament and has been brought into operation in accordance with the provisions of the Statutory Orders (Special Procedure) Acts 1945 and 1965[^f00003];
 
-Accordingly, in exercise of the powers conferred by sections 114, 115 and 120 of the 2008 Act, the Infrastructure Planning Commission makes the following Order:[^key-ef78a740b8eb960277499994a562e60e]
+Accordingly, in exercise of the powers conferred by sections 114, 115 and 120 of the 2008 Act, the Infrastructure Planning Commission makes the following Order:[^c-ef78a740b8eb960277499994a562e60e]
 
-## 1. Citation[^key-d1791c336117367ead3877b2d7ae22f8]
+## 1. Citation[^c-d1791c336117367ead3877b2d7ae22f8]
 
 This Order may be cited as the Rookery South (Resource Recovery Facility) Order 2011.
 
-## 2. Interpretation[^key-bbcc373fbeaf046cb33aaa62f0938164]
+## 2. Interpretation[^c-bbcc373fbeaf046cb33aaa62f0938164]
 
 (1) In this Order—
 
@@ -109,7 +109,7 @@ This Order may be cited as the Rookery South (Resource Recovery Facility) Order 
 
 (4) All distances, directions and lengths referred to in this Order are approximate and distances between points on a work comprised in the authorised development are to be taken to be measured along that work.
 
-## 3. Development consent etc. granted by the Order[^key-ed49d589fa360f56d30cfb10bc898e2d]
+## 3. Development consent etc. granted by the Order[^c-ed49d589fa360f56d30cfb10bc898e2d]
 
 (1) Subject to the provisions of this Order and to the requirements the undertaker is granted development consent for the authorised development to be carried out within the Order limits.
 
@@ -127,7 +127,7 @@ This Order may be cited as the Rookery South (Resource Recovery Facility) Order 
 - (a) development contrary to any condition imposed by any planning permission granted or deemed to be granted under Part III of the 1990 Act or any requirement otherwise than where expressly authorised by either Order;
 - (b) any part of Work No. 1 (other than the stack comprised in that work) to exceed the height of the building shown on the plans listed in requirement 6.
 
-## 4. Procedure in relation to approvals etc. under requirements[^key-dc152fd6ef660db75de54fbb054dfd9a]
+## 4. Procedure in relation to approvals etc. under requirements[^c-dc152fd6ef660db75de54fbb054dfd9a]
 
 (1) Where an application is made to the relevant planning authorities or either of them for any consent, agreement or approval required by a requirement, the following provisions apply, so far as they relate to a consent, agreement or approval of a local planning authority required by a condition imposed on a grant of planning permission, as if the requirement was a condition imposed on the grant of planning permission—
 
@@ -138,7 +138,7 @@ This Order may be cited as the Rookery South (Resource Recovery Facility) Order 
 
 (3) For the purposes of the application of section 262 of the 1990 Act (meaning of “statutory undertaker”) to appeals pursuant this article, the undertaker is deemed to be a holder of a licence under section 6 of the Electricity Act 1989[^f00011].
 
-## 5. Maintenance of authorised development[^key-153f3bd8ee8d30ddb33eaa6b4e742a24]
+## 5. Maintenance of authorised development[^c-153f3bd8ee8d30ddb33eaa6b4e742a24]
 
 (1) Subject to the other terms of this Order, including the requirements, the undertaker may maintain the authorised development, except to the extent that an agreement made under this Order provides otherwise.
 
@@ -149,13 +149,13 @@ This Order may be cited as the Rookery South (Resource Recovery Facility) Order 
 
 (3) This article only authorises the carrying out of maintenance of works within the Order limits.
 
-## 6. Operation of generating station[^key-ce7a1b1ab147bc6f57eae5e0287a425f]
+## 6. Operation of generating station[^c-ce7a1b1ab147bc6f57eae5e0287a425f]
 
 (1) The undertaker is authorised to operate the generating station comprised in the authorised development.
 
 (2) This article does not relieve the undertaker of any requirement to obtain any permit or licence or any other obligation under any other legislation that may be required to authorise the operation of a generating station.
 
-## 7. Benefit of the Order[^key-0a786d45b7f44346918d574172ffdc6f]
+## 7. Benefit of the Order[^c-0a786d45b7f44346918d574172ffdc6f]
 
 (1) Except as provided for by this article, section 156(1) of the 2008 Act applies to the grant of development consent by this Order.
 
@@ -197,13 +197,13 @@ This Order may be cited as the Rookery South (Resource Recovery Facility) Order 
 
 the liability is enforceable against the undertaker in respect of Work No. 1.
 
-## 8. Guarantees in respect of payment of compensation[^key-706d3b7120a64eab93690ebe99e808a4]
+## 8. Guarantees in respect of payment of compensation[^c-706d3b7120a64eab93690ebe99e808a4]
 
 (1) The authorised development must not be commenced and the undertaker must not begin to exercise the powers of articles 17 to 27 of this Order unless either a guarantee in respect of the liabilities of the undertaker to pay compensation under this Order or an alternative form of security for that purpose is in place which has been approved by the relevant planning authorities.
 
 (2) A guarantee given in respect of any liability of the undertaker to pay compensation under this Order is to be treated as enforceable against the guarantor by any person to whom such compensation is payable.
 
-## 9. Defence to proceedings in respect of statutory nuisance[^key-c40f3db4af17e1a893856438bccb861e]
+## 9. Defence to proceedings in respect of statutory nuisance[^c-c40f3db4af17e1a893856438bccb861e]
 
 (1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00014] (summary proceedings by person aggrieved by statutory nuisance) in relation to a nuisance falling within paragraph (g) of section 79(1) of that Act (noise emitted from premises so as to be prejudicial to health or nuisance) no order may be made, and no fine may be imposed, under section 82(2) of that Act if—
 
@@ -216,7 +216,7 @@ the liability is enforceable against the undertaker in respect of Work No. 1.
 
 (2) Section 61(9) of the Control of Pollution Act 1974 (consent for work on construction site to include statement that it does not of itself constitute a defence to proceedings under section 82 of the Environmental Protection Act 1990) and section 65(8) of that Act (corresponding provision in relation to consent for registered noise level to be exceeded) do not apply where the consent relates to the use of premises by the undertaker for the purposes of or in connection with the construction or maintenance of the authorised development.
 
-## 10. Street works[^key-06da22f17c8bd565eafcd68409b13f7a]
+## 10. Street works[^c-06da22f17c8bd565eafcd68409b13f7a]
 
 (1) The undertaker may, for the purposes of the authorised development, enter on so much of any of the streets specified in Schedule 2 as is within the Order limits and may—
 
@@ -232,7 +232,7 @@ the liability is enforceable against the undertaker in respect of Work No. 1.
 
 (4) In this article “apparatus” has the same meaning as in Part 3 of the 1991 Act.
 
-## 11. Public rights of way[^key-5ca118e3db6a439360e29eccb245889e]
+## 11. Public rights of way[^c-5ca118e3db6a439360e29eccb245889e]
 
 (1) With effect from the date upon which authorised development is first commenced the section of each public right of way specified in columns (1) and (2) of Part 1 of Schedule 3 and shown on the rights of way plan is extinguished to the extent specified in column (3) of that Part of that Schedule.
 
@@ -240,7 +240,7 @@ the liability is enforceable against the undertaker in respect of Work No. 1.
 
 (3) In this article “implementation plan” means the written plan agreed between the undertaker and the local highway authority for the improvement of the public right of way in question.
 
-## 12. Temporary stopping up of streets[^key-ce81e7eedca1da2e6c3e239430b4cd8c]
+## 12. Temporary stopping up of streets[^c-ce81e7eedca1da2e6c3e239430b4cd8c]
 
 (1) The undertaker, during and for the purposes of carrying out the authorised development, may temporarily stop up, alter or divert any street and may for any reasonable time—
 
@@ -258,14 +258,14 @@ the liability is enforceable against the undertaker in respect of Work No. 1.
 
 (5) Any person who suffers loss by the suspension of any private rights of way under this article is entitled to compensation to be determined, in case of dispute, under Part 1 of the 1961 Act (determination of questions of disputed compensation).
 
-## 13. Access to works[^key-10ef857f1be8c16733b311d967bf84de]
+## 13. Access to works[^c-10ef857f1be8c16733b311d967bf84de]
 
 The undertaker may, for the purposes of carrying out the authorised development—
 
 - (a) form and lay out means of access, or improve existing means of access, in the location specified in columns (1) and (2) of Schedule 5; and
 - (b) with the approval of the relevant planning authority after consultation with the highway authority, form and lay out such other means of access or improve existing means of access, at such locations within the Order limits as the undertaker reasonably requires for the purposes of the authorised development.
 
-## 14. Agreements with street authorities[^key-0ffacc9eabc33097250fa2fe401b2546]
+## 14. Agreements with street authorities[^c-0ffacc9eabc33097250fa2fe401b2546]
 
 (1) A street authority and the undertaker may enter into agreements with respect to—
 
@@ -278,7 +278,7 @@ The undertaker may, for the purposes of carrying out the authorised development�
 - (b) include an agreement between the undertaker and street authority specifying a reasonable time for the completion of the works; and
 - (c) contain such terms as to payment and otherwise as the parties consider appropriate.
 
-## 15. Discharge of water[^key-5745c04f1377a6d1b2ab0704d3dbabb0]
+## 15. Discharge of water[^c-5745c04f1377a6d1b2ab0704d3dbabb0]
 
 (1) The undertaker may use any watercourse or any public sewer or drain for the drainage of water in connection with the carrying out or maintenance of the authorised development and for that purpose may lay down, take up and alter pipes and may, on any land within the Order limits, make openings into, and connections with, the watercourse, public sewer or drain.
 
@@ -304,7 +304,7 @@ The undertaker may, for the purposes of carrying out the authorised development�
 
 (9) This article has effect in relation to watercourses or drains that are created or to be created as part of any restoration scheme applicable to Rookery South Pit and authorised by a review of old minerals permissions pursuant to section 96 of the Environment Act 1995[^f00018] reference number BC/CM/2000/08.
 
-## 16. Authority to survey and investigate the land[^key-910a67860452bb972eb6f9da7f4fdaac]
+## 16. Authority to survey and investigate the land[^c-910a67860452bb972eb6f9da7f4fdaac]
 
 (1) The undertaker may for the purposes of this Order enter on any land shown within the Order limits or which may be affected by the authorised development and—
 
@@ -329,7 +329,7 @@ but such consent must not be unreasonably withheld.
 
 (5) The undertaker must compensate the owners and occupiers of the land for any loss or damage arising by reason of the exercise of the authority conferred by this article, such compensation to be determined, in case of dispute, under Part 1 of the 1961 Act.
 
-## 17. Compulsory acquisition of land[^key-94bb8aa8be6ba5dba6303c2c41ee7ebf]
+## 17. Compulsory acquisition of land[^c-94bb8aa8be6ba5dba6303c2c41ee7ebf]
 
 (1) The undertaker may acquire compulsorily so much of the Order land as is required for the authorised development or to facilitate it, or as is incidental to it.
 
@@ -339,7 +339,7 @@ but such consent must not be unreasonably withheld.
 
 (4) This article is subject to article 25.
 
-## 18. Power to override easements and other rights[^key-97cdc5a6fb5c1fe5d4b6c142aab6977a]
+## 18. Power to override easements and other rights[^c-97cdc5a6fb5c1fe5d4b6c142aab6977a]
 
 (1) Any authorised activity which takes place on land within the Order limits (whether the activity is undertaken by the undertaker, by its successor pursuant to a transfer or lease under article 7 of this Order, by any person deriving title under them or by any of their servants or agents) is authorised by this Order for the purposes of this article if it is authorised by the Order apart from this article and done in accordance with the terms of this Order, notwithstanding that it involves—
 
@@ -367,7 +367,7 @@ but such consent must not be unreasonably withheld.
 
 (7) This article does not apply in respect of any agreement, restriction, obligation or other provision contained in a deed made pursuant to section 106 of the 1990 Act or section 278 of the 1980 Act.
 
-## 19. Time limit for exercise of authority to acquire land compulsorily[^key-e3f6b6f0141415a59b5430cbfca43b78]
+## 19. Time limit for exercise of authority to acquire land compulsorily[^c-e3f6b6f0141415a59b5430cbfca43b78]
 
 (1) After the end of the period of 5 years beginning on the day on which this Order is made—
 
@@ -376,7 +376,7 @@ but such consent must not be unreasonably withheld.
 
 (2) The authority conferred by article 25 ceases at the end of the period referred to in paragraph (1), save that nothing in this paragraph prevents the undertaker remaining in possession of land after the end of that period if the land was entered and possession was taken before the end of that period.
 
-## 20. Compulsory acquisition of rights[^key-f66dc4efd755d8b1ac02060cc055da91]
+## 20. Compulsory acquisition of rights[^c-f66dc4efd755d8b1ac02060cc055da91]
 
 (1) The undertaker may acquire compulsorily the existing rights and create and acquire compulsorily the new rights described in the book of reference and shown on the land plans.
 
@@ -386,7 +386,7 @@ but such consent must not be unreasonably withheld.
 
 (4) Any person who suffers loss as a result of the extinguishment or suspension of any private right of way under this article is entitled to compensation to be determined, in case of dispute, under Part 1 of the 1961 Act.
 
-## 21. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^key-c19e03a9faff7a34cce8efd8b6348d81]
+## 21. Application of the Compulsory Purchase (Vesting Declarations) Act 1981[^c-c19e03a9faff7a34cce8efd8b6348d81]
 
 (1) The Compulsory Purchase (Vesting Declarations) Act 1981 applies as if this Order were a compulsory purchase order.
 
@@ -421,7 +421,7 @@ but such consent must not be unreasonably withheld.
 
 (8) References to the 1965 Act in the Compulsory Purchase (Vesting Declarations) Act 1981 are to be construed as references to that Act as applied by section 125 of the 2008 Act (application of compulsory acquisition provisions) to the compulsory acquisition of land under this Order.
 
-## 22. Acquisition of subsoil only[^key-9dcbeee7335a0f7a9fce75ad4beb6536]
+## 22. Acquisition of subsoil only[^c-9dcbeee7335a0f7a9fce75ad4beb6536]
 
 (1) The undertaker may acquire compulsorily so much of, or such rights in, the subsoil of the land referred to in paragraph (1) of article 17 as may be required for any purpose for which that land may be acquired under that provision instead of acquiring the whole of the land.
 
@@ -431,7 +431,7 @@ but such consent must not be unreasonably withheld.
 
 (4) Nothing in this article requires the undertaker to acquire any estate, right or interest in any adopted highway.
 
-## 23. Acquisition of part of certain properties[^key-2e8f2cf3027e92fbb20b7c0d937b2f90]
+## 23. Acquisition of part of certain properties[^c-2e8f2cf3027e92fbb20b7c0d937b2f90]
 
 (1) This article applies instead of section 8(1) of the 1965 Act (other provisions as to divided land) (as applied by section 125 of the 2008 Act) where—
 
@@ -476,7 +476,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 (10) Where the owner is required under this article to sell only part of a house, building or manufactory or of land consisting of a house with a park or garden, the undertaker must pay the owner compensation for any loss sustained by the owner due to the severance of that part in addition to the value of the interest acquired.
 
-## 24. Rights under or over streets[^key-43f61197c1aca8ce47a77a94a68adfb2]
+## 24. Rights under or over streets[^c-43f61197c1aca8ce47a77a94a68adfb2]
 
 (1) The undertaker may enter upon and appropriate so much of the subsoil of, or air space over, any street within the Order limits as may be required for the purposes of the authorised development and may use the subsoil or air-space for those purposes or any other purpose ancillary to the authorised development.
 
@@ -491,7 +491,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 (5) Compensation is not payable under paragraph (4) to any person who is an undertaker to whom section 85 of the 1991 Act (sharing cost of necessary measures) applies in respect of measures of which the allowable costs are to be borne in accordance with that section.
 
-## 25. Temporary use of land for carrying out the authorised development[^key-9ee6f1304cb9ee4f8817ed93113a7e16]
+## 25. Temporary use of land for carrying out the authorised development[^c-9ee6f1304cb9ee4f8817ed93113a7e16]
 
 (1) The undertaker may, in connection with the carrying out of the authorised development—
 
@@ -520,7 +520,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 (10) Section 13 of the 1965 Act (refusal to give possession to acquiring authority) applies to the temporary use of land pursuant to this article to the same extent as it applies to the compulsory acquisition of land under this Order by virtue of section 125 of the 2008 Act.
 
-## 26. Temporary use of land for maintaining authorised development[^key-3725414c46dfaa90a8fd5a1bbdeb3399]
+## 26. Temporary use of land for maintaining authorised development[^c-3725414c46dfaa90a8fd5a1bbdeb3399]
 
 (1) Subject to paragraph (2), at any time during the maintenance period relating to any part of the authorised development, the undertaker may—
 
@@ -550,7 +550,7 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 (11) In this article “the maintenance period”, in relation to any part of the authorised development, means the period of 5 years beginning with the date on which that part of the authorised development is first opened for use.
 
-## 27. Statutory undertakers[^key-864efa454bb028a76e7191de054aba83]
+## 27. Statutory undertakers[^c-864efa454bb028a76e7191de054aba83]
 
 The undertaker may—
 
@@ -558,7 +558,7 @@ The undertaker may—
 - (b) extinguish the rights of and remove or reposition apparatus belonging to statutory undertakers in, on or over land shown on the land plans and described in the book of reference; and
 - (c) acquire compulsorily the new rights over land belonging to statutory undertakers shown on the land plans and described in the book of reference.
 
-## 28. Railway undertakings[^key-b81b3f0daa03b22d73c4eedfef17dbad]
+## 28. Railway undertakings[^c-b81b3f0daa03b22d73c4eedfef17dbad]
 
 (1) Subject to the following provisions of this article, the undertaker may not under article 10 break up or open a street where the street, not being a highway maintainable at public expense (within the meaning of the 1980 Act)—
 
@@ -571,7 +571,7 @@ except with the consent of the undertakers or, as the case may be, of the person
 
 (3) A consent given for the purpose of paragraph (1) may be made subject to such reasonable conditions as may be specified by the person giving it but must not be unreasonably withheld or delayed.
 
-## 29. Application of landlord and tenant law[^key-4074ff20ab9fabd35405bdd143eb46b9]
+## 29. Application of landlord and tenant law[^c-4074ff20ab9fabd35405bdd143eb46b9]
 
 (1) This article applies to—
 
@@ -588,11 +588,11 @@ so far as any such agreement relates to the terms on which any land which is the
 - (b) confer or impose on any such party any right or obligation arising out of or connected with anything done or omitted on or in relation to land which is the subject of the lease, in addition to any such right or obligation provided for by the terms of the lease; or
 - (c) restrict the enforcement (whether by action for damages or otherwise) by any party to the lease of any obligation of any other party under the lease.
 
-## 30. Operational land for purposes of the 1990 Act[^key-d9a664f6ee6561f3e0e12b244553b3a5]
+## 30. Operational land for purposes of the 1990 Act[^c-d9a664f6ee6561f3e0e12b244553b3a5]
 
 Development consent granted by this Order is to be treated as specific planning permission for the purposes of section 264(3)(a) of the 1990 Act (cases in which land is to be treated as operational land for the purposes of that Act).
 
-## 31. Felling or lopping of trees[^key-7ec2f3df376210b107da6d0877f9bc97]
+## 31. Felling or lopping of trees[^c-7ec2f3df376210b107da6d0877f9bc97]
 
 (1) The undertaker may fell or lop any tree or shrub near any part of the authorised development, or cut back its roots, if it reasonably believes it to be necessary to do so to prevent the tree or shrub from obstructing or interfering with the construction, maintenance or operation of the authorised development or any apparatus used in connection with the authorised development.
 
@@ -600,7 +600,7 @@ Development consent granted by this Order is to be treated as specific planning 
 
 (3) Any dispute as to a person’s entitlement to compensation under paragraph (2), or as to the amount of compensation, is to be determined under Part 1 of the 1961 Act.
 
-## 32. Certification of plans etc.[^key-a8d21e79486ecfb447cba926f2a2cb43]
+## 32. Certification of plans etc.[^c-a8d21e79486ecfb447cba926f2a2cb43]
 
 (1) The undertaker must, as soon as practicable after the making of this Order, submit to the decision-maker copies of—
 
@@ -619,11 +619,11 @@ for certification that they are true copies of the plans or documents referred t
 
 (2) A plan or document so certified is admissible in any proceedings as evidence of the contents of the document of which it is a copy.
 
-## 33. Protection of Network Rail Infrastructure Limited[^key-5e2d5bee6e76b4a55cbd1bc853a12762]
+## 33. Protection of Network Rail Infrastructure Limited[^c-5e2d5bee6e76b4a55cbd1bc853a12762]
 
 Schedule 7 has effect.
 
-## 34. Arbitration[^key-44cd2e9bf4cf8875f37f7ac1e66568d6]
+## 34. Arbitration[^c-44cd2e9bf4cf8875f37f7ac1e66568d6]
 
 Any difference under any provision of this Order, unless otherwise provided for, is to be referred to and settled by a single arbitrator to be agreed between the parties or, failing agreement, to be appointed on the application of either party (after giving notice in writing to the other) by the decision-maker.
 
@@ -641,7 +641,7 @@ Infrastructure Planning Commission
 
 Article 2
 
-### PART 1 — AUTHORISED DEVELOPMENT[^key-89cf110b9015c2d2e6186ad6c5600c21]
+### PART 1 — AUTHORISED DEVELOPMENT[^c-89cf110b9015c2d2e6186ad6c5600c21]
 
 #### In Central Bedfordshire
 
@@ -718,19 +718,19 @@ In this Part of this Schedule—
   - (b) any other vehicle designed for the transport of waste including refuse collection vehicles;
 - “low level restoration scheme” means the scheme for the restoration of Rookery North and Rookery South Pits which has been developed as a part of the review of old minerals permissions application which was submitted to Bedford Borough Council and Central Bedfordshire Council on 5 June 2009 and bears statutory reference number BC/CM/2000/08.
 
-#### 1. Time limits[^key-ad4272f50a2b4b4fa0d90ef5ab9c8369]
+#### 1. Time limits[^c-ad4272f50a2b4b4fa0d90ef5ab9c8369]
 
 The authorised development may commence no later than the expiration of 5 years beginning with the date that this Order comes into force.
 
-#### 2. Type of waste to be treated[^key-dc8a2448164b417ff5ab448c50b2f3e6]
+#### 2. Type of waste to be treated[^c-dc8a2448164b417ff5ab448c50b2f3e6]
 
 The waste permitted to be incinerated in Work No. 1 must be limited to waste categorised as residual municipal waste and residual commercial and industrial waste and materials derived therefrom.
 
-#### 3. Commencement[^key-301777f570e8e24272bf95fe1d75540c]
+#### 3. Commencement[^c-301777f570e8e24272bf95fe1d75540c]
 
 Notice of commencement of the authorised development must be given to the relevant planning authorities within 7 days beginning with the date that the authorised development is commenced.
 
-#### 4. Incineration, operation, etc.[^key-88f9af9c702c0f1a80ce90ce8c7cc633]
+#### 4. Incineration, operation, etc.[^c-88f9af9c702c0f1a80ce90ce8c7cc633]
 
 Notice of commencement of—
 
@@ -739,11 +739,11 @@ Notice of commencement of—
 
 must be given to the relevant planning authorities within 7 days beginning with the date that incineration commences and the authorised development is first commercially operated respectively.
 
-#### 5. Detailed design approval[^key-cfe91b4a0686b3cc1300d7bc48707661]
+#### 5. Detailed design approval[^c-cfe91b4a0686b3cc1300d7bc48707661]
 
 Except where the authorised development is carried out in accordance with the plans listed in requirement 6, no authorised development may commence until details of the layout, scale and external appearance of Works No. 1, 2, 5A, 5B, 7A, 7B and 9 comprised in the authorised development so far as they do not accord with the approved development plans have been submitted to and approved by the relevant planning authorities. The authorised development must be carried out in accordance with the approved details.
 
-**6.**[^key-8583647791f1e68a332e0b7ee40a1152][^key-cfe91b4a0686b3cc1300d7bc48707661] (1) The authorised development must be carried out in accordance with the approved development plans bearing references 2.1 to 2.4 and 2.11 to 2.35 and strategies listed in this requirement (unless otherwise approved in writing by the relevant planning authorities and the altered development accords with the principles of the design and access statement and falls within the Order limits)—
+**6.**[^c-8583647791f1e68a332e0b7ee40a1152][^c-cfe91b4a0686b3cc1300d7bc48707661] (1) The authorised development must be carried out in accordance with the approved development plans bearing references 2.1 to 2.4 and 2.11 to 2.35 and strategies listed in this requirement (unless otherwise approved in writing by the relevant planning authorities and the altered development accords with the principles of the design and access statement and falls within the Order limits)—
 
 - Application Site Plan/the Order limits plan (drawing number: 2807LO/Order/007) (application document reference 2.1)
 - Works Plan: Key Plan (drawing number 2807LO/Order/001) (application document reference 2.2)
@@ -779,7 +779,7 @@ Except where the authorised development is carried out in accordance with the pl
 
 (2) Where any alternative details are approved pursuant to this requirement and requirements 5 or 30, those details are to be deemed to be substituted for the corresponding approved details set out in this requirement.
 
-#### 7. BREEAM Rating[^key-32ec478bbb3fccb1ed833f772773428f]
+#### 7. BREEAM Rating[^c-32ec478bbb3fccb1ed833f772773428f]
 
 (1) No part of the authorised development may commence until─
 
@@ -788,7 +788,7 @@ Except where the authorised development is carried out in accordance with the pl
 
 (2) The authorised development must be carried out in accordance with the details approved pursuant to requirement 7(1). Any variation of the BREEAM rating must be agreed with BRE and submitted to Central Bedfordshire Council for approval in writing.
 
-#### 8. Provision of landscaping[^key-d44f89e4eecc80db7fe220c262abbb2e]
+#### 8. Provision of landscaping[^c-d44f89e4eecc80db7fe220c262abbb2e]
 
 (1) No part of the authorised development may commence until a detailed landscaping scheme and associated working programme (which accords with the landscape strategy submitted with the application) has been submitted to and approved in writing by the relevant planning authorities.
 
@@ -807,7 +807,7 @@ Except where the authorised development is carried out in accordance with the pl
 - (k) the specified standard to which the works will be undertaken; and
 - (l) a timetable for the implementation of all hard and soft landscaping works.
 
-#### 9. Implementation and maintenance of landscaping[^key-0e43de0c229522e632bc6a78482a119e]
+#### 9. Implementation and maintenance of landscaping[^c-0e43de0c229522e632bc6a78482a119e]
 
 (1) All landscaping works must be carried out in accordance with the detailed landscaping scheme approved under requirement 8 and to the specified standard in accordance with the relevant recommendations of appropriate British Standards or other recognised codes of good practice.
 
@@ -815,7 +815,7 @@ Except where the authorised development is carried out in accordance with the pl
 
 (3) The green wall that is part of the landscaping scheme approved under requirement 8(1) must be maintained in accordance with the approved landscaping scheme following its installation for the duration of the period of commercial operation of the authorised development.
 
-#### 10. Highway accesses[^key-440f14bbfaa2872e8b0c00a50085d7ec]
+#### 10. Highway accesses[^c-440f14bbfaa2872e8b0c00a50085d7ec]
 
 (1) The highway works comprised in Works No. 8A and 8B to Green Lane, including the two pedestrian crossings and the footway running parallel to and south of Green Lane and the first 10 metres chainage of the access road comprised in Work No. 5A from its junction with Green Lane (including the pedestrian crossing that forms part of the junction in those Works), must be completed prior to the commencement of Works No. 1 and 2.
 
@@ -825,7 +825,7 @@ Except where the authorised development is carried out in accordance with the pl
 
 (4) The commencement of Work No. 1 must not take place until a scheme to provide wheel cleaning facilities for heavy goods vehicles and provision for road cleaning in relation to construction of the authorised development has been submitted to and approved in writing by Central Bedfordshire Council. The scheme must include details of the measures and location for the wheel cleaning facilities and details of how cleaning of the highway will be secured so as to remove mud and other debris that may be carried on to it from the authorised development.
 
-#### 11. Fencing and other means of site perimeter enclosure[^key-3b6985a12793cc4bff4eba4cf3e3bea1]
+#### 11. Fencing and other means of site perimeter enclosure[^c-3b6985a12793cc4bff4eba4cf3e3bea1]
 
 (1) No part of the authorised development may commence until details of all proposed permanent fences, walls or other means of enclosure according with boundary details shown on drawing B3250-P1310 (application document reference no. 2.23) including the acoustic fence adjacent to the ramp serving the tipping hall comprised in Work No. 1 have been submitted to and approved in writing by Central Bedfordshire Council.
 
@@ -835,13 +835,13 @@ Except where the authorised development is carried out in accordance with the pl
 
 (4) All perimeter fences, walls or other means of site perimeter enclosure for the authorised development approved in accordance with paragraph (1) must be completed prior to commencement of commercial operation in accordance with the approved details.
 
-#### 12. Surface and foul water drainage[^key-8bec1979687eeffc3a4ea1a4de657ad9]
+#### 12. Surface and foul water drainage[^c-8bec1979687eeffc3a4ea1a4de657ad9]
 
 (1) Except where the authorised development is constructed in accordance with the approved drainage strategies, details of the surface and foul water drainage system (including means of pollution control and information demonstrating compliance with the best practice for sustainable drainage schemes) must be submitted to and approved in writing by Central Bedfordshire Council. Unless otherwise agreed in writing by Central Bedfordshire Council, such details must accord with the principles of the drainage strategy submitted with the application, making provision for the construction of Work No. 3, and must be implemented in accordance with the approved details.
 
 (2) The drainage strategy must provide that all drains provided as part of the authorised development must, where necessary and appropriate, contain trap gullies or interceptors.
 
-#### 13. Land stability[^key-d00d31a38956830255884220371f633e]
+#### 13. Land stability[^c-d00d31a38956830255884220371f633e]
 
 (1) No part of the authorised development may commence until a written scheme to deal with land stability has been submitted to and approved in writing by Central Bedfordshire Council.
 
@@ -849,7 +849,7 @@ Except where the authorised development is carried out in accordance with the pl
 
 (3) Land stabilisation must be carried out in accordance with the approved scheme unless otherwise agreed in writing by Central Bedfordshire Council.
 
-#### 14. Contamination and groundwater[^key-5f4992460f83ac7f019cb16a30e11466]
+#### 14. Contamination and groundwater[^c-5f4992460f83ac7f019cb16a30e11466]
 
 (1) No part of the authorised development may commence until a scheme to deal with the contamination of any land, including groundwater, which is likely to cause significant harm to persons or pollution of controlled waters or the environment has been submitted to and approved in writing by Central Bedfordshire Council.
 
@@ -857,21 +857,21 @@ Except where the authorised development is carried out in accordance with the pl
 
 (3) Remediation must be carried out in accordance with the approved scheme unless otherwise agreed in writing by Central Bedfordshire Council.
 
-#### 15. Archaeology[^key-c6e974a7ecc514c7bd0d85d44aad8834]
+#### 15. Archaeology[^c-c6e974a7ecc514c7bd0d85d44aad8834]
 
 (1) No part of the authorised development may commence until a written scheme of archaeological investigation has been submitted to and approved in writing by the relevant planning authorities.
 
 (2) The archaeological investigation must be carried out in accordance with the approved scheme unless otherwise agreed in writing by the relevant planning authorities.
 
-#### 16. Code of construction practice[^key-f91a6615436b0c20e51853e04cdc0a0c]
+#### 16. Code of construction practice[^c-f91a6615436b0c20e51853e04cdc0a0c]
 
 All construction works must be undertaken in accordance with the code of construction practice unless otherwise agreed in writing by the relevant planning authorities.
 
-#### 17. Control of noise during construction and operational phase[^key-93b150be66f1a72c4d92fe7957693cff]
+#### 17. Control of noise during construction and operational phase[^c-93b150be66f1a72c4d92fe7957693cff]
 
 During construction the daytime free field noise level as a result of the construction of the authorised development at any residential location must not exceed 55 dB LAeq, 1 hour unless otherwise agreed in writing by Central Bedfordshire Council.
 
-**18.**[^key-b9a4e74c3a84f03f3d0d24b4199c05aa][^key-93b150be66f1a72c4d92fe7957693cff] (1) Except in case of an emergency, or with the prior written agreement of Central Bedfordshire Council, the Rating Level as defined in BS4142:1997 of the noise emitted from the operation of the authorised development must not exceed the free field noise levels listed in the following table—
+**18.**[^c-b9a4e74c3a84f03f3d0d24b4199c05aa][^c-93b150be66f1a72c4d92fe7957693cff] (1) Except in case of an emergency, or with the prior written agreement of Central Bedfordshire Council, the Rating Level as defined in BS4142:1997 of the noise emitted from the operation of the authorised development must not exceed the free field noise levels listed in the following table—
 
 | *Location* | *Daytime (0700-2300) dB L*<br>***<sub>Aeq 1 hour</sub>*** | *Night-time (2300-0700) dB L*<br>***<sub>Aeq 5 minutes</sub>*** |
 | --- | --- | --- |
@@ -881,7 +881,7 @@ During construction the daytime free field noise level as a result of the constr
 
 (2) Compliance with these limits must be demonstrated by noise measurements at locations closer to the Order limits selected to allow measurement of noise from the authorised development to be made without significant influence of noise from other sources. Noise levels must be calculated for these locations in accordance with the propagation methodology in ISO 9613 and agreed with the relevant planning authorities.
 
-**19.**[^key-d53bd04eb0e97e8518db63b62a800380][^key-93b150be66f1a72c4d92fe7957693cff] (1) No part of the authorised development may commence until a written scheme providing for the monitoring of noise generated during the construction and operation of the authorised development has been submitted to and approved in writing by Central Bedfordshire Council.
+**19.**[^c-d53bd04eb0e97e8518db63b62a800380][^c-93b150be66f1a72c4d92fe7957693cff] (1) No part of the authorised development may commence until a written scheme providing for the monitoring of noise generated during the construction and operation of the authorised development has been submitted to and approved in writing by Central Bedfordshire Council.
 
 (2) The scheme must specify the locations at which noise will be monitored and the method of noise measurement (which must be in accord with BS 4142, an equivalent successor standard or other agreed noise measurement methodology appropriate to the circumstances).
 
@@ -893,17 +893,17 @@ During construction the daytime free field noise level as a result of the constr
 
 (6) Such review must be submitted to Central Bedfordshire Council for its written approval within 4 weeks of the notification or request.
 
-**20.**[^key-d11b92cc082169538f0143f8d787381d][^key-93b150be66f1a72c4d92fe7957693cff] (1) In any case where the noise levels specified in requirement 18 or otherwise agreed in writing for monitoring locations is exceeded because of an emergency, the undertaker must notify Central Bedfordshire Council in writing of the nature of the emergency within 2 working days, the reasons for exceeding the noise limit and its expected duration.
+**20.**[^c-d11b92cc082169538f0143f8d787381d][^c-93b150be66f1a72c4d92fe7957693cff] (1) In any case where the noise levels specified in requirement 18 or otherwise agreed in writing for monitoring locations is exceeded because of an emergency, the undertaker must notify Central Bedfordshire Council in writing of the nature of the emergency within 2 working days, the reasons for exceeding the noise limit and its expected duration.
 
 (2) If the period of excess noise is expected to last for more than 24 hours then the undertaker must inform any community liaison panel or any other consultative body established as a result of the authorised development, the relevant planning authorities and adjoining occupiers or land users.
 
 (3) Notification of the excess, the reasons for it and its expected duration must also be posted on the undertaker’s internet web site.
 
-**21.**[^key-0a2281e61a63e75828d639e4789d8ccb][^key-93b150be66f1a72c4d92fe7957693cff] Except in an emergency, the undertaker must give at least three working days’ written notice to Central Bedfordshire Council of any proposed operation of emergency pressure valves or similar equipment. Where steam purging is to take place, the undertaker must give 3 working days’ prior written notice to local residents and businesses by informing any community liaison panel or any other consultative body established in respect of the authorised development as well as the relevant planning authorities. Notification of the incident, the reasons for it and its expected duration must also be posted on the undertaker’s internet web site.
+**21.**[^c-0a2281e61a63e75828d639e4789d8ccb][^c-93b150be66f1a72c4d92fe7957693cff] Except in an emergency, the undertaker must give at least three working days’ written notice to Central Bedfordshire Council of any proposed operation of emergency pressure valves or similar equipment. Where steam purging is to take place, the undertaker must give 3 working days’ prior written notice to local residents and businesses by informing any community liaison panel or any other consultative body established in respect of the authorised development as well as the relevant planning authorities. Notification of the incident, the reasons for it and its expected duration must also be posted on the undertaker’s internet web site.
 
-**22.**[^key-0000efe537e21264e98bc27c1bf27293][^key-93b150be66f1a72c4d92fe7957693cff] So far as reasonably practicable, steam purging may only take place between the hours of 0900-1700 Mondays-Saturdays and not on any Sunday or Bank Holiday.
+**22.**[^c-0000efe537e21264e98bc27c1bf27293][^c-93b150be66f1a72c4d92fe7957693cff] So far as reasonably practicable, steam purging may only take place between the hours of 0900-1700 Mondays-Saturdays and not on any Sunday or Bank Holiday.
 
-**23.**[^key-b61c5c64fed218906933ded627eecd68][^key-93b150be66f1a72c4d92fe7957693cff] (1) Prior to the commencement of construction for the building envelope to contain Work No. 1 an acoustic design report must be submitted to and approved in writing by Central Bedfordshire Council.
+**23.**[^c-b61c5c64fed218906933ded627eecd68][^c-93b150be66f1a72c4d92fe7957693cff] (1) Prior to the commencement of construction for the building envelope to contain Work No. 1 an acoustic design report must be submitted to and approved in writing by Central Bedfordshire Council.
 
 (2) The report must detail─
 
@@ -916,15 +916,15 @@ During construction the daytime free field noise level as a result of the constr
 
 (4) The acoustic design report must demonstrate compliance with requirements 18 and 19.
 
-#### 24. Construction hours[^key-6d785d7c091471a2434b8ff29ff8b325]
+#### 24. Construction hours[^c-6d785d7c091471a2434b8ff29ff8b325]
 
 Construction work (which for the purpose of this requirement does not include non-intrusive activities such as electrical installation and internal fit out works) may not take place other than between 0700 and 1900 hours on weekdays and 0700 and 1300 hours on Saturdays, excluding public holidays, unless otherwise agreed in writing by Central Bedfordshire Council.
 
-#### 25. Combined Heat and Power[^key-59aaca97f198ff5a2c4a1697128b146b]
+#### 25. Combined Heat and Power[^c-59aaca97f198ff5a2c4a1697128b146b]
 
 A facility must be provided and maintained within Work No. 1 to enable steam pass-outs and/or hot water pass-outs and reserve space for the provision of water pressurisation, heating and pumping systems for off-site users of process or space heating and its later connection to such systems.
 
-#### 26. Delivery hours and traffic management[^key-8459c5949f3a0a4f5eb9ea591e3ed262]
+#### 26. Delivery hours and traffic management[^c-8459c5949f3a0a4f5eb9ea591e3ed262]
 
 (1) No heavy goods vehicle transporting municipal waste or commercial and industrial waste may enter or leave the authorised development at any time on a Sunday, Christmas Day, New Year’s Day or Easter Day (unless otherwise approved in writing by Central Bedfordshire Council).
 
@@ -943,7 +943,7 @@ A facility must be provided and maintained within Work No. 1 to enable steam pas
 - (b) associated with an emergency; or
 - (c) carried out with the written approval of Central Bedfordshire Council.
 
-#### 27. CCTV[^key-ad8a77152f4c99140fca2188b0df2472]
+#### 27. CCTV[^c-ad8a77152f4c99140fca2188b0df2472]
 
 (1) No part of the authorised development may commence until a scheme for the installation of a CCTV camera (or cameras) to monitor the entrance to the site from Green Lane has been submitted to and approved in writing by Central Bedfordshire Council. The scheme must include details of—
 
@@ -954,11 +954,11 @@ A facility must be provided and maintained within Work No. 1 to enable steam pas
 
 (2) The approved CCTV scheme must be installed prior to commencement of incineration of waste in Work No. 1 and must be operated afterwards in accordance with the approved scheme unless otherwise agreed in writing by Central Bedfordshire Council.
 
-#### 28. Loads to be covered[^key-d817bd850d243b19ca897aed1dfb4aef]
+#### 28. Loads to be covered[^c-d817bd850d243b19ca897aed1dfb4aef]
 
 All heavy goods vehicles carrying bulk materials or waste into and out of the site of the authorised development during the construction, operational and decommissioning phases of development must be covered unless the load is otherwise enclosed, except when required to inspect incoming loads of waste.
 
-#### 29. Restoration[^key-ef45e36f4cdefc1912c55277dd931d7d]
+#### 29. Restoration[^c-ef45e36f4cdefc1912c55277dd931d7d]
 
 (1) On the 32nd anniversary of the commencement of operation of the authorised development or on the cessation of the commercial operation of the development, whichever is earlier, the applicant must inform Central Bedfordshire Council as to whether it intends to maintain the authorised development in its then current state, refurbish it or demolish the facility and restore the land.
 
@@ -976,25 +976,25 @@ All heavy goods vehicles carrying bulk materials or waste into and out of the si
 
 (6) The demolition must be carried out in accordance with the approved details following cessation of commercial operation of the authorised development unless otherwise agreed in writing by Central Bedfordshire Council.
 
-#### 30. Amendments to approved details[^key-3c70c22271097d244704ae072db74f97]
+#### 30. Amendments to approved details[^c-3c70c22271097d244704ae072db74f97]
 
 With respect to any requirement which requires the authorised development to be carried out in accordance with details approved by the relevant planning authorities or either of them, the approved details are to be taken to include any amendments that may subsequently be approved in writing by the relevant planning authorities or either of them as the case may be.
 
-#### 31. Low level restoration scheme[^key-21dd7bfec9248e569b0c3ff3a06757d0]
+#### 31. Low level restoration scheme[^c-21dd7bfec9248e569b0c3ff3a06757d0]
 
 No part of the authorised development may commence until the works comprising phase 1 of the low level restoration scheme, which has been authorised by Bedford Borough Council and Central Bedfordshire Council as a part of the review of old minerals permission with reference number BC/CM/2000/08, have been carried out so as to provide an engineered site for the authorised development.
 
-#### 32. Incinerator bottom ash processing and storage[^key-9827e989e122f28b55c7506e67b334e9]
+#### 32. Incinerator bottom ash processing and storage[^c-9827e989e122f28b55c7506e67b334e9]
 
 No incinerator bottom ash or other combustion residues produced at any other generating station may be accepted at or processed in Work No. 2 of the authorised development.
 
-**33.**[^key-60d46ddbe5dd56488be0b6f056c0213b][^key-9827e989e122f28b55c7506e67b334e9] No by-products stored at Work No. 2 comprised in the authorised development may exceed 10 metres in height from the surface of the yard comprised in Work No. 2.
+**33.**[^c-60d46ddbe5dd56488be0b6f056c0213b][^c-9827e989e122f28b55c7506e67b334e9] No by-products stored at Work No. 2 comprised in the authorised development may exceed 10 metres in height from the surface of the yard comprised in Work No. 2.
 
-**34.**[^key-b541b6de02d02d87b5d52cc15e2239ed][^key-9827e989e122f28b55c7506e67b334e9] (1) Work No. 2 must not be commercially operated until a written scheme for the management and mitigation of dust emissions has been submitted to and approved in writing by Central Bedfordshire Council.
+**34.**[^c-b541b6de02d02d87b5d52cc15e2239ed][^c-9827e989e122f28b55c7506e67b334e9] (1) Work No. 2 must not be commercially operated until a written scheme for the management and mitigation of dust emissions has been submitted to and approved in writing by Central Bedfordshire Council.
 
 (2) The approved scheme for the management and mitigation of dust emissions must be implemented and maintained for the duration of the operation of the authorised development.
 
-#### 35. Lighting strategy[^key-ee973faaec149a6fcb49e396bebdf7c7]
+#### 35. Lighting strategy[^c-ee973faaec149a6fcb49e396bebdf7c7]
 
 (1) No part of the authorised development may commence until a detailed lighting strategy (which accords with the approved lighting strategy listed in requirement 6(1) and described in the design and access statement) has been submitted to and approved in writing by Central Bedfordshire Council.
 
@@ -1002,19 +1002,19 @@ No incinerator bottom ash or other combustion residues produced at any other gen
 
 (3) Where construction of Work No. 2 has not been completed prior to the incineration of waste in Work No. 1 the relevant elements of the approved lighting strategy relating to Work No. 2 must be implemented in accordance with the approved details prior to commercial operation of Work No. 2 and must be maintained afterwards for the duration of the operation of the authorised development.
 
-#### 36. Connection to the national grid[^key-cc867e72db53d79bee48e04013745ada]
+#### 36. Connection to the national grid[^c-cc867e72db53d79bee48e04013745ada]
 
 (1) No incineration of waste in Work No. 1 may take place, apart from during commissioning, until a grid connection comprised in Works No. 6A, 6B, 6C, 6D, 6E, 6F, 6G and 6H has been installed and is capable of transmitting electricity generated by Work No. 1.
 
 (2) No waste may then be incinerated in Work No. 1 unless electricity is being generated by Work No. 1 except during periods of maintenance, inspection or repair or at the direction of the holder of a licence under section 6(1)(b) or (c) of the Electricity Act 1989 who is entitled to give such direction in relation to transmission of electricity from Work No. 1 to the national grid.
 
-#### 37. Visibility requirements at Green Lane/C94 junction[^key-307a63e02aa8fdc520897a3efaf0ab7a]
+#### 37. Visibility requirements at Green Lane/C94 junction[^c-307a63e02aa8fdc520897a3efaf0ab7a]
 
 (1) No part of the authorised development may commence until a scheme which overcomes the substandard visibility splay to the left on exit at the junction of Green Lane with the C94 has been submitted to and approved in writing by Bedford Borough Council and implemented on site in accordance with the approved details.
 
 (2) Visibility requirements at either the existing junction or any new or realigned junction must accord with the requirements set out in the Design Manual for Roads and Bridges.
 
-#### 38. Vehicle movements[^key-47d1d7a6e86f45a3b0bf769d65f1b566]
+#### 38. Vehicle movements[^c-47d1d7a6e86f45a3b0bf769d65f1b566]
 
 (1) The total number of heavy goods vehicles importing or exporting waste, incinerator bottom ash aggregate or flue gas treatment residues to and from the authorised development must not exceed 594 movements per day.
 
@@ -1025,7 +1025,7 @@ No incinerator bottom ash or other combustion residues produced at any other gen
 - (a) number of vehicles both entering and leaving the authorised development; and
 - (b) time and date of vehicles both entering and leaving the authorised development.
 
-#### 39. Travel plan[^key-3e6ef7a08e4b97da33303c42fc927ec7]
+#### 39. Travel plan[^c-3e6ef7a08e4b97da33303c42fc927ec7]
 
 (1) The authorised development may not be commercially operated except in accordance with the travel plan which, prior to the approval of the travel plan referred to in requirement 39(2), means the travel plan submitted with the application together with the addendum headed “Interim Travel Plan SoCG Appendix” unless otherwise agreed in writing by the relevant planning authorities.
 
@@ -1033,7 +1033,7 @@ No incinerator bottom ash or other combustion residues produced at any other gen
 
 (3) A review of the travel plan must be carried out on each anniversary of the date of commencement of commercial operation of the authorised development and an annual travel plan report including any revisions to the travel plan deemed necessary as a result of the review must be submitted to the relevant planning authorities for written approval. Following approval of the revisions to the travel plan by the relevant planning authorities the authorised development must be operated in accordance with the revised travel plan.
 
-#### 40. Ecological management scheme[^key-0720ad10e2b58d851b1217619f9353d7]
+#### 40. Ecological management scheme[^c-0720ad10e2b58d851b1217619f9353d7]
 
 (1) No part of the authorised development may commence until a written ecological management scheme has been submitted to and approved in writing by the relevant planning authorities.
 
@@ -1052,7 +1052,7 @@ No incinerator bottom ash or other combustion residues produced at any other gen
 
 (3) The approved ecological management scheme must be implemented and maintained during commercial operation of the authorised development unless otherwise agreed in writing by the relevant planning authorities.
 
-#### 41. Residual Waste Acceptance Scheme[^key-e260a73f7ca5cefb19aaa90d382eea9e]
+#### 41. Residual Waste Acceptance Scheme[^c-e260a73f7ca5cefb19aaa90d382eea9e]
 
 (1) Incineration of waste in Work No. 1 must not take place except in accordance with the Residual Waste Acceptance Scheme dated 8 July 2011.
 
@@ -1062,7 +1062,7 @@ No incinerator bottom ash or other combustion residues produced at any other gen
 
 (4) The purpose of altering the scheme is to ensure that the scheme continues to address changes in waste management, and that Work No. 1 is used only for the incineration of residual waste.
 
-## SCHEDULE 2 — STREETS SUBJECT TO STREET WORKS[^key-d78ecd4b568b5933171db262bcdc4fcb]
+## SCHEDULE 2 — STREETS SUBJECT TO STREET WORKS[^c-d78ecd4b568b5933171db262bcdc4fcb]
 
 Article 10
 
@@ -1078,7 +1078,7 @@ Article 10
 
 Article 11
 
-### PART 1 — PUBLIC RIGHTS OF WAY EXTINGUISHED[^key-77dea130a3bc4525b48b531d284a7247]
+### PART 1 — PUBLIC RIGHTS OF WAY EXTINGUISHED[^c-77dea130a3bc4525b48b531d284a7247]
 
 | *(1)*<br>*Area* | *(2)*<br>*Right of way extinguished* | *(3)*<br>*Extent to which extinguished* |
 | --- | --- | --- |
@@ -1086,7 +1086,7 @@ Article 11
 |  | Footpath No. 17 East of the western boundary of the Marston Vale railway line | Existing footpath between points X3 and X4 |
 |  | All footpaths, bridleways and other rights of way affecting the area of the Rookery shown shaded grey on the rights of way plan | Within the area shaded grey on the rights of way plans |
 
-### PART 2 — RIGHTS OF WAY CREATED OR IMPROVED[^key-d73e8f473217367efc0357b1f137fcf5]
+### PART 2 — RIGHTS OF WAY CREATED OR IMPROVED[^c-d73e8f473217367efc0357b1f137fcf5]
 
 | *(1)*<br>*Area* | *(2)*<br>*Existing or new right* | *(3)*<br>*New status* |
 | --- | --- | --- |
@@ -1097,7 +1097,7 @@ Article 11
 | Bedford Borough | Footpath to be upgraded to include cycle rights between points I8 and I9 | Footpath with cycle rights |
 | Bedford Borough and Central Bedfordshire | Footpath to be upgraded to include cycle rights between points I3 and, thence by a circular route via points I4-I7 to Point I3 | Footpath with cycle rights |
 
-## SCHEDULE 4 — STREETS TO BE TEMPORARILY STOPPED UP[^key-9bf6e188a14e9729a7a03a8b3222466c]
+## SCHEDULE 4 — STREETS TO BE TEMPORARILY STOPPED UP[^c-9bf6e188a14e9729a7a03a8b3222466c]
 
 Article 12
 
@@ -1105,7 +1105,7 @@ Article 12
 | --- | --- | --- |
 | Bedford Borough and Central Bedfordshire | The Copart Access Road, Marston Moretaine | Within the Order limits |
 
-## SCHEDULE 5 — ACCESS TO WORKS[^key-21d0ebfc9dc4553aa23032be1fa38735]
+## SCHEDULE 5 — ACCESS TO WORKS[^c-21d0ebfc9dc4553aa23032be1fa38735]
 
 Article 13
 
@@ -1113,7 +1113,7 @@ Article 13
 | --- | --- |
 | Bedford Borough | An improved access to Green Lane Stewartby at or near to point A |
 
-## SCHEDULE 6 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^key-e8303e4f64c55f5af94f01e50b34eb8a]
+## SCHEDULE 6 — LAND OF WHICH TEMPORARY POSSESSION MAY BE TAKEN[^c-e8303e4f64c55f5af94f01e50b34eb8a]
 
 Article 25
 
@@ -1126,9 +1126,9 @@ Article 25
 
 Article 33
 
-**1.**[^key-7ecb65f725d9aaf2955be0807a5cca8a] The following provisions of this Schedule shall have effect unless otherwise agreed in writing between the undertaker and Network Rail and, in the case of paragraph 15, any other person on whom rights or obligations are conferred by that paragraph.
+**1.**[^c-7ecb65f725d9aaf2955be0807a5cca8a] The following provisions of this Schedule shall have effect unless otherwise agreed in writing between the undertaker and Network Rail and, in the case of paragraph 15, any other person on whom rights or obligations are conferred by that paragraph.
 
-**2.**[^key-08d35dfd2480e163acb93cada56e3f9c] In this Schedule—
+**2.**[^c-08d35dfd2480e163acb93cada56e3f9c] In this Schedule—
 
 - “construction” includes execution, placing, alteration and reconstruction and “construct” and “constructed” have corresponding meanings;
 - “the engineer” means an engineer appointed by Network Rail for the purposes of this Order;
@@ -1141,14 +1141,14 @@ Article 33
   - (b) any easement or other property interest held or used by Network Rail Infrastructure Limited for the purposes of such railway or works, apparatus or equipment; and
 - “specified work” means so much of any of the authorised development as is situated upon, across, under, over or within 15 metres of, or may in any way adversely affect, railway property.
 
-**3.**[^key-354bcba00776939f3d69fcf87382dc96] (1) Where under this Schedule Network Rail is required to give its consent, agreement or approval in respect of any matter, that consent, agreement or approval is subject to the condition that Network Rail complies with any relevant railway operational procedures and any obligations under its network licence or under statute.
+**3.**[^c-354bcba00776939f3d69fcf87382dc96] (1) Where under this Schedule Network Rail is required to give its consent, agreement or approval in respect of any matter, that consent, agreement or approval is subject to the condition that Network Rail complies with any relevant railway operational procedures and any obligations under its network licence or under statute.
 
 (2) In so far as any specified work or the acquisition or use of railway property is or may be subject to railway operational procedures, Network Rail shall—
 
 - (a) co-operate with the undertaker with a view to avoiding undue delay and securing conformity as between any plans approved by the engineer and requirements emanating from those procedures; and
 - (b) use their reasonable endeavours to avoid any conflict arising between the application of those procedures and the proper implementation of the authorised development pursuant to this Order.
 
-**4.**[^key-42d0dba828821cc9c0d3a46cffdc78d1] (1) The undertaker shall not exercise the powers conferred by articles 16, 17, 18, 20 or 25 or the powers conferred by section 11(3) of the 1965 Act (powers of entry) in respect of any railway property unless the exercise of such powers is with the consent of Network Rail.
+**4.**[^c-42d0dba828821cc9c0d3a46cffdc78d1] (1) The undertaker shall not exercise the powers conferred by articles 16, 17, 18, 20 or 25 or the powers conferred by section 11(3) of the 1965 Act (powers of entry) in respect of any railway property unless the exercise of such powers is with the consent of Network Rail.
 
 (2) The undertaker shall not in the exercise of the powers conferred by this Order prevent pedestrian or vehicular access to any railway property, unless preventing such access is with the consent of Network Rail.
 
@@ -1160,7 +1160,7 @@ Article 33
 
 (6) Where Network Rail is asked to give its consent or agreement pursuant to this paragraph, such consent or agreement shall not be unreasonably withheld but may be given subject to reasonable conditions.
 
-**5.**[^key-0b52a8aa1bc0650db71789b98d093af5] (1) The undertaker shall before commencing construction of any specified work supply to Network Rail proper and sufficient plans of that work for the reasonable approval of the engineer and the specified work shall not be commenced except in accordance with such plans as have been approved in writing by the engineer or settled by arbitration.
+**5.**[^c-0b52a8aa1bc0650db71789b98d093af5] (1) The undertaker shall before commencing construction of any specified work supply to Network Rail proper and sufficient plans of that work for the reasonable approval of the engineer and the specified work shall not be commenced except in accordance with such plans as have been approved in writing by the engineer or settled by arbitration.
 
 (2) The approval of the engineer under sub-paragraph (1) shall not be unreasonably withheld, and if by the end of the period of 28 days beginning with the date on which such plans have been supplied to Network Rail the engineer has not intimated disapproval of those plans and the grounds of disapproval the undertaker may serve upon the engineer written notice requiring the engineer to intimate approval or disapproval within a further period of 28 days beginning with the date upon which the engineer receives written notice from the undertaker. If by the expiry of the further 28 days the engineer has not intimated approval or disapproval, the engineer shall be deemed to have approved the plans as submitted.
 
@@ -1168,7 +1168,7 @@ Article 33
 
 (4) When signifying approval of the plans the engineer may specify any protective works (whether temporary or permanent) which in the engineer’s opinion should be carried out before the commencement of the construction of a specified work to ensure the safety or stability of railway property or the continuation of safe and efficient operation of the railways of Network Rail or the services of operators using the same (including any relocation de-commissioning and removal of works, apparatus and equipment necessitated by a specified work and the comfort and safety of passengers who may be affected by the specified works), and such protective works as may be reasonably necessary for those purposes shall be constructed by Network Rail or by the undertaker, if Network Rail so desires, and such protective works shall be carried out at the expense of the undertaker in either case with all reasonable dispatch and the undertaker shall not commence the construction of the specified works until the engineer has notified the undertaker that the protective works have been completed to his reasonable satisfaction.
 
-**6.**[^key-8569665074547b4fbdbbeac0373ead56] (1) Any specified work and any protective works to be constructed by virtue of paragraph 5(4) shall, when commenced, be constructed—
+**6.**[^c-8569665074547b4fbdbbeac0373ead56] (1) Any specified work and any protective works to be constructed by virtue of paragraph 5(4) shall, when commenced, be constructed—
 
 - (a) with all reasonable dispatch in accordance with the plans approved or deemed to have been approved or settled under paragraph 5;
 - (b) under the supervision (where appropriate and if given) and to the reasonable satisfaction of the engineer;
@@ -1179,14 +1179,14 @@ Article 33
 
 (3) Nothing in this Schedule shall impose any liability on the undertaker with respect to any damage, costs, expenses or loss attributable to the negligence of Network Rail or its servants, contractors or agents or any liability on Network Rail with respect of any damage, costs, expenses or loss attributable to the negligence of the undertaker or its servants, contractors or agents.
 
-**7.**[^key-b97853c328c223f3e53b5fd4e80486ee] The undertaker shall—
+**7.**[^c-b97853c328c223f3e53b5fd4e80486ee] The undertaker shall—
 
 - (a) at all times afford reasonable facilities to the engineer for access to a specified work during its construction; and
 - (b) supply the engineer with all such information as the engineer may reasonably require with regard to a specified work or the method of constructing it.
 
-**8.**[^key-4ae663c91cebc2089b678cd84451f44a] Network Rail shall at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by Network Rail under this Schedule during their construction and shall supply the undertaker with such information as it may reasonably require with regard to such works or the method of constructing them.
+**8.**[^c-4ae663c91cebc2089b678cd84451f44a] Network Rail shall at all times afford reasonable facilities to the undertaker and its agents for access to any works carried out by Network Rail under this Schedule during their construction and shall supply the undertaker with such information as it may reasonably require with regard to such works or the method of constructing them.
 
-**9.**[^key-8b03b033766009f0f55194f67b398fad] (1) If any permanent or temporary alterations or additions to railway property are reasonably necessary in consequence of the construction of a specified work, or during a period of 24 months after the completion of that work in order to ensure the safety of railway property or the continued safe operation of the railway of Network Rail, such alterations and additions may be carried out by Network Rail and if Network Rail gives to the undertaker reasonable notice of its intention to carry out such alterations or additions (which shall be specified in the notice), the undertaker shall pay to Network Rail the reasonable cost of those alterations or additions including, in respect of any such alterations and additions as are to be permanent, a capitalised sum representing the increase of the costs which may be expected to be reasonably incurred by Network Rail in maintaining, working and, when necessary, renewing any such alterations or additions.
+**9.**[^c-8b03b033766009f0f55194f67b398fad] (1) If any permanent or temporary alterations or additions to railway property are reasonably necessary in consequence of the construction of a specified work, or during a period of 24 months after the completion of that work in order to ensure the safety of railway property or the continued safe operation of the railway of Network Rail, such alterations and additions may be carried out by Network Rail and if Network Rail gives to the undertaker reasonable notice of its intention to carry out such alterations or additions (which shall be specified in the notice), the undertaker shall pay to Network Rail the reasonable cost of those alterations or additions including, in respect of any such alterations and additions as are to be permanent, a capitalised sum representing the increase of the costs which may be expected to be reasonably incurred by Network Rail in maintaining, working and, when necessary, renewing any such alterations or additions.
 
 (2) If during the construction of a specified work by the undertaker, Network Rail gives notice to the undertaker that Network Rail desires itself to construct that part of the specified work which in the opinion of the engineer is endangering the stability of railway property or the safe operation of traffic on the railways of Network Rail then, if the undertaker decides that part of the specified work is to be constructed, Network Rail shall assume construction of that part of the specified work and the undertaker shall, notwithstanding any such approval of a specified work under paragraph 5(3), pay to Network Rail all reasonable expenses to which Network Rail may be put and compensation for any loss which it may suffer by reason of the execution by Network Rail of that specified work.
 
@@ -1194,7 +1194,7 @@ Article 33
 
 (4) If the cost of maintaining, working or renewing railway property is reduced in consequence of any such alterations or additions a capitalised sum representing such saving shall be set off against any sum payable by the undertaker to Network Rail under this paragraph.
 
-**10.**[^key-1e4bc466a219b046c87e82a6b9601577] The undertaker shall repay to Network Rail all reasonable fees, costs, charges and expenses reasonably incurred by Network Rail—
+**10.**[^c-1e4bc466a219b046c87e82a6b9601577] The undertaker shall repay to Network Rail all reasonable fees, costs, charges and expenses reasonably incurred by Network Rail—
 
 - (a) in constructing any part of a specified work on behalf of the undertaker as provided by paragraph 5(3) or in constructing any protective works under the provisions of paragraph 5(4) including, in respect of any permanent protective works, a capitalised sum representing the cost of maintaining and renewing those works;
 - (b) in respect of the approval by the engineer of plans submitted by the undertaker and the supervision by the engineer of the construction of a specified work;
@@ -1202,7 +1202,7 @@ Article 33
 - (d) in respect of any special traffic working resulting from any speed restrictions which may in the opinion of the engineer, require to be imposed by reason or in consequence of the construction or failure of a specified work or from the substitution or diversion of services which may be reasonably necessary for the same reason; and
 - (e) in respect of any additional temporary lighting of railway property in the vicinity of the specified works, being lighting made reasonably necessary by reason or in consequence of the construction or failure of a specified work.
 
-**11.**[^key-64a7a39549feacca80e3f36877aea94c] (1) In this paragraph—
+**11.**[^c-64a7a39549feacca80e3f36877aea94c] (1) In this paragraph—
 
 - “EMI” means, subject to sub-paragraph (2), electromagnetic interference with Network Rail apparatus generated by the operation of the authorised development where such interference is of a level which adversely affects the safe operation of Network Rail’s apparatus; and
 - “Network Rail’s apparatus” means any lines, circuits, wires, apparatus or equipment (whether or not modified or installed as part of the authorised development) which are owned or used by Network Rail for the purpose of transmitting or receiving electrical energy or of radio, telegraphic, telephonic, electric, electronic or other like means of signalling or other communications.
@@ -1238,13 +1238,13 @@ Article 33
 
 (11) In relation to any dispute arising under this paragraph the reference in article 34 to an arbitrator to be agreed shall be read as a reference to an arbitrator being a member of the Institution of Electrical Engineers to be agreed.
 
-**12.**[^key-7cee0fce2ba9fa7147665a4cf5313710] If at any time after the completion of a specified work, not being a work vested in Network Rail, Network Rail gives notice to the undertaker informing it that the state of maintenance of any part of the specified work appears to be such as adversely affects the operation of railway property, the undertaker shall, on receipt of such notice, take such steps as may be reasonably necessary to put that specified work in such state of maintenance as not adversely to affect railway property.
+**12.**[^c-7cee0fce2ba9fa7147665a4cf5313710] If at any time after the completion of a specified work, not being a work vested in Network Rail, Network Rail gives notice to the undertaker informing it that the state of maintenance of any part of the specified work appears to be such as adversely affects the operation of railway property, the undertaker shall, on receipt of such notice, take such steps as may be reasonably necessary to put that specified work in such state of maintenance as not adversely to affect railway property.
 
-**13.**[^key-038ae1f5489a0f2cffd943a7b2756726] The undertaker shall not provide any illumination or illuminated sign or signal on or in connection with a specified work in the vicinity of any railway belonging to Network Rail unless it shall have first consulted Network Rail and it shall comply with Network Rail’s reasonable requirements for preventing confusion between such illumination or illuminated sign or signal and any railway signal or other light used for controlling, directing or securing the safety of traffic on the railway.
+**13.**[^c-038ae1f5489a0f2cffd943a7b2756726] The undertaker shall not provide any illumination or illuminated sign or signal on or in connection with a specified work in the vicinity of any railway belonging to Network Rail unless it shall have first consulted Network Rail and it shall comply with Network Rail’s reasonable requirements for preventing confusion between such illumination or illuminated sign or signal and any railway signal or other light used for controlling, directing or securing the safety of traffic on the railway.
 
-**14.**[^key-8412fb5066e5aab565c77e34e6513c16] Any additional expenses which Network Rail may reasonably incur in altering, reconstructing or maintaining railway property under any powers existing at the making of this Order by reason of the existence of a specified work shall, provided that 56 days’ previous notice of the commencement of such alteration, reconstruction or maintenance has been given to the undertaker, be repaid by the undertaker to Network Rail.
+**14.**[^c-8412fb5066e5aab565c77e34e6513c16] Any additional expenses which Network Rail may reasonably incur in altering, reconstructing or maintaining railway property under any powers existing at the making of this Order by reason of the existence of a specified work shall, provided that 56 days’ previous notice of the commencement of such alteration, reconstruction or maintenance has been given to the undertaker, be repaid by the undertaker to Network Rail.
 
-**15.**[^key-1d4451365215c91b44a6685dbc6c6ec2] (1) The undertaker shall pay to Network Rail all reasonable costs, charges, damages and expenses not otherwise provided for in this Schedule which may be occasioned to or reasonably incurred by Network Rail—
+**15.**[^c-1d4451365215c91b44a6685dbc6c6ec2] (1) The undertaker shall pay to Network Rail all reasonable costs, charges, damages and expenses not otherwise provided for in this Schedule which may be occasioned to or reasonably incurred by Network Rail—
 
 - (a) by reason of the construction or maintenance of a specified work or the failure thereof; or
 - (b) by reason of any act or omission of the undertaker or of any person in its employ or of its contractors or others whilst engaged upon a specified work,
@@ -1264,25 +1264,25 @@ and the undertaker shall indemnify and keep indemnified Network Rail from and ag
 - “the relevant costs” means the costs, direct losses and expenses (including loss of revenue) reasonably incurred by each train operator as a consequence of any restriction of the use of Network Rail’s railway network as a result of the construction, maintenance or failure of a specified work or any such act or omission as mentioned in sub-paragraph (1); and
 - “train operator” means any person who is authorised to act as the operator of a train by a licence under section 8 of the Railways Act 1993.
 
-**16.**[^key-17cc93e9a6bbea69dedd356f91e88d52] Network Rail shall, on receipt of a request from the undertaker, from time to time provide the undertaker free of charge with written estimates of the costs, charges, expenses and other liabilities for which the undertaker is or will become liable under this Schedule (including the amount of the relevant costs mentioned in paragraph 15) and with such information as may reasonably enable the undertaker to assess the reasonableness of any such estimate or claim made or to be made pursuant to this Schedule (including any claim relating to those relevant costs).
+**16.**[^c-17cc93e9a6bbea69dedd356f91e88d52] Network Rail shall, on receipt of a request from the undertaker, from time to time provide the undertaker free of charge with written estimates of the costs, charges, expenses and other liabilities for which the undertaker is or will become liable under this Schedule (including the amount of the relevant costs mentioned in paragraph 15) and with such information as may reasonably enable the undertaker to assess the reasonableness of any such estimate or claim made or to be made pursuant to this Schedule (including any claim relating to those relevant costs).
 
-**17.**[^key-520b9a359c763f531351edff0be7ca40] In the assessment of any sums payable to Network Rail under this Schedule there shall not be taken into account any increase in the sums claimed that is attributable to any action taken by or any agreement entered into by Network Rail if that action or agreement was not reasonably necessary and was taken or entered into with a view to obtaining the payment of those sums by the undertaker under this Schedule or increasing the sums so payable.
+**17.**[^c-520b9a359c763f531351edff0be7ca40] In the assessment of any sums payable to Network Rail under this Schedule there shall not be taken into account any increase in the sums claimed that is attributable to any action taken by or any agreement entered into by Network Rail if that action or agreement was not reasonably necessary and was taken or entered into with a view to obtaining the payment of those sums by the undertaker under this Schedule or increasing the sums so payable.
 
-**18.**[^key-4bf5d81071708da4376a0982f3c55c95] The undertaker and Network Rail may, subject in the case of Network Rail to compliance with the terms of its network licence, enter into, and carry into effect, agreements for the transfer to the undertaker of—
+**18.**[^c-4bf5d81071708da4376a0982f3c55c95] The undertaker and Network Rail may, subject in the case of Network Rail to compliance with the terms of its network licence, enter into, and carry into effect, agreements for the transfer to the undertaker of—
 
 - (a) any railway property shown on the works and land plans and described in the book of reference;
 - (b) any lands, works or other property held in connection with any such railway property; and
 - (c) any rights and obligations (whether or not statutory) of Network Rail relating to any railway property or any lands, works or other property referred to in this paragraph.
 
-**19.**[^key-4b57c260d23e707e7aa61d484917090b] Nothing in this Order, or in any enactment incorporated with or applied by this Order, shall prejudice or affect the operation of Part I of the Railways Act 1993.
+**19.**[^c-4b57c260d23e707e7aa61d484917090b] Nothing in this Order, or in any enactment incorporated with or applied by this Order, shall prejudice or affect the operation of Part I of the Railways Act 1993.
 
-**20.**[^key-e3f2fb28f014219e861ccd7c7de37c0f] The undertaker shall give written notice to Network Rail where any application is proposed to be made by the undertaker for the decision-maker’s consent under article 7 of this Order and any such notice shall be given no later than 28 days before any such application is made and shall describe or give (as appropriate)—
+**20.**[^c-e3f2fb28f014219e861ccd7c7de37c0f] The undertaker shall give written notice to Network Rail where any application is proposed to be made by the undertaker for the decision-maker’s consent under article 7 of this Order and any such notice shall be given no later than 28 days before any such application is made and shall describe or give (as appropriate)—
 
 - (a) the nature of the application to be made;
 - (b) the extent of the geographical area to which the application relates; and
 - (c) the name and address of the person acting for the decision-maker to whom the application is to be made.
 
-**21.**[^key-7a6e5891cab5e430f40868a60f81b766] The undertaker shall no later than 28 days from the date that the plans submitted to and certified by the decision-maker in accordance with article 32, provide a set of those plans to Network Rail in the form of a computer disc with read only memory.
+**21.**[^c-7a6e5891cab5e430f40868a60f81b766] The undertaker shall no later than 28 days from the date that the plans submitted to and certified by the decision-maker in accordance with article 32, provide a set of those plans to Network Rail in the form of a computer disc with read only memory.
 
 EXPLANATORY NOTE
 
@@ -1300,11 +1300,11 @@ A copy of the plans and book of reference referred to in this Order and certifie
 
 [^f00003]: Footnote: 1945 (9 & 10 Geo.6 c.18) and [1965 c.43](https://www.legislation.gov.uk/ukpga/1965/43).
 
-[^key-ef78a740b8eb960277499994a562e60e]: Modification: [Order](https://www.legislation.gov.uk/uksi/2013/680) modified (3.4.2019) by [The Millbrook Gas Fired Generating Station Order 2019 (S.I. 2019/578)](https://www.legislation.gov.uk/uksi/2019/578), [arts. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1), [37](https://www.legislation.gov.uk/uksi/2019/578/article/37)
+[^c-ef78a740b8eb960277499994a562e60e]: Modification: [Order](https://www.legislation.gov.uk/uksi/2013/680) modified (3.4.2019) by [The Millbrook Gas Fired Generating Station Order 2019 (S.I. 2019/578)](https://www.legislation.gov.uk/uksi/2019/578), [arts. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1), [37](https://www.legislation.gov.uk/uksi/2019/578/article/37)
 
-[^key-d1791c336117367ead3877b2d7ae22f8]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/680/article/1) in force at 28.2.2013, see [Introductory Text](https://www.legislation.gov.uk/uksi/2013/680/Introduction)
+[^c-d1791c336117367ead3877b2d7ae22f8]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2013/680/article/1) in force at 28.2.2013, see [Introductory Text](https://www.legislation.gov.uk/uksi/2013/680/Introduction)
 
-[^key-bbcc373fbeaf046cb33aaa62f0938164]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/680/article/2) in force at 28.2.2013, see Introductory Text
+[^c-bbcc373fbeaf046cb33aaa62f0938164]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2013/680/article/2) in force at 28.2.2013, see Introductory Text
 
 [^f00004]: Footnote: [1961 c.33](https://www.legislation.gov.uk/ukpga/1961/33). Section 2(2) was amended by section 193 of, and paragraph 5 of Schedule 33 to, the Local Government, Planning and Land Act [1980 (c.65)](https://www.legislation.gov.uk/ukpga/1980/65). There are other amendments to the 1961 Act which are not relevant to this Order.
 
@@ -1318,43 +1318,43 @@ A copy of the plans and book of reference referred to in this Order and certifie
 
 [^f00009]: Footnote: [1981 c.67](https://www.legislation.gov.uk/ukpga/1981/67). Section 7 was amended by section 70 of, and paragraph 9 of Schedule 15 to, the Planning and Compensation Act [1991 (c.34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-ed49d589fa360f56d30cfb10bc898e2d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/680/article/3) in force at 28.2.2013, see Introductory Text
+[^c-ed49d589fa360f56d30cfb10bc898e2d]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2013/680/article/3) in force at 28.2.2013, see Introductory Text
 
 [^f00010]: Footnote: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418).
 
-[^key-dc152fd6ef660db75de54fbb054dfd9a]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/680/article/4) in force at 28.2.2013, see Introductory Text
+[^c-dc152fd6ef660db75de54fbb054dfd9a]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2013/680/article/4) in force at 28.2.2013, see Introductory Text
 
 [^f00011]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
-[^key-153f3bd8ee8d30ddb33eaa6b4e742a24]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2013/680/article/5) in force at 28.2.2013, see Introductory text
+[^c-153f3bd8ee8d30ddb33eaa6b4e742a24]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2013/680/article/5) in force at 28.2.2013, see Introductory text
 
-[^key-ce7a1b1ab147bc6f57eae5e0287a425f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/680/article/6) in force at 28.2.2013, see Introductory text
+[^c-ce7a1b1ab147bc6f57eae5e0287a425f]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2013/680/article/6) in force at 28.2.2013, see Introductory text
 
-[^key-0a786d45b7f44346918d574172ffdc6f]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2013/680/article/7) in force at 28.2.2013, see Introductory text
+[^c-0a786d45b7f44346918d574172ffdc6f]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2013/680/article/7) in force at 28.2.2013, see Introductory text
 
 [^f00012]: Footnote: [1972 c.70](https://www.legislation.gov.uk/ukpga/1972/70).
 
 [^f00013]: Footnote: [S.I. 1985/1884](https://www.legislation.gov.uk/uksi/1985/1884).
 
-[^key-706d3b7120a64eab93690ebe99e808a4]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/680/article/8) in force at 28.2.2013, see Introductory text
+[^c-706d3b7120a64eab93690ebe99e808a4]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2013/680/article/8) in force at 28.2.2013, see Introductory text
 
-[^key-c40f3db4af17e1a893856438bccb861e]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2013/680/article/9) in force at 28.2.2013, see Introductory text
+[^c-c40f3db4af17e1a893856438bccb861e]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2013/680/article/9) in force at 28.2.2013, see Introductory text
 
 [^f00014]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43). There are amendments to this Act which are not relevant to this Order.
 
 [^f00015]: Footnote: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40). Sections 61(9) and 65(8) were amended by section 162 of, and paragraph 15 of Schedule 3 to, the Environmental Protection Act [1990 (c.25)](https://www.legislation.gov.uk/ukpga/1990/25). There are other amendments to the 1974 Act which are not relevant to this Order.
 
-[^key-06da22f17c8bd565eafcd68409b13f7a]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2013/680/article/10) in force at 28.2.2013, see Introductory text
+[^c-06da22f17c8bd565eafcd68409b13f7a]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2013/680/article/10) in force at 28.2.2013, see Introductory text
 
-[^key-5ca118e3db6a439360e29eccb245889e]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/680/article/11) in force at 28.2.2013, see Introductory text
+[^c-5ca118e3db6a439360e29eccb245889e]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2013/680/article/11) in force at 28.2.2013, see Introductory text
 
-[^key-ce81e7eedca1da2e6c3e239430b4cd8c]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/680/article/12) in force at 28.2.2013, see Introductory text
+[^c-ce81e7eedca1da2e6c3e239430b4cd8c]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2013/680/article/12) in force at 28.2.2013, see Introductory text
 
-[^key-10ef857f1be8c16733b311d967bf84de]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2013/680/article/13) in force at 28.2.2013, see Introductory text
+[^c-10ef857f1be8c16733b311d967bf84de]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2013/680/article/13) in force at 28.2.2013, see Introductory text
 
-[^key-0ffacc9eabc33097250fa2fe401b2546]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2013/680/article/14) in force at 28.2.2013, see Introductory text
+[^c-0ffacc9eabc33097250fa2fe401b2546]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2013/680/article/14) in force at 28.2.2013, see Introductory text
 
-[^key-5745c04f1377a6d1b2ab0704d3dbabb0]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2013/680/article/15) in force at 28.2.2013, see Introductory text
+[^c-5745c04f1377a6d1b2ab0704d3dbabb0]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2013/680/article/15) in force at 28.2.2013, see Introductory text
 
 [^f00016]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 106 was amended by sections 36(2) and 99 of the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37). There are other amendments to this section which are not relevant to this Order.
 
@@ -1362,180 +1362,180 @@ A copy of the plans and book of reference referred to in this Order and certifie
 
 [^f00018]: Footnote: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-910a67860452bb972eb6f9da7f4fdaac]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2013/680/article/16) in force at 28.2.2013, see Introductory text
+[^c-910a67860452bb972eb6f9da7f4fdaac]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2013/680/article/16) in force at 28.2.2013, see Introductory text
 
-[^key-94bb8aa8be6ba5dba6303c2c41ee7ebf]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/680/article/17) in force at 28.2.2013, see Introductory text
+[^c-94bb8aa8be6ba5dba6303c2c41ee7ebf]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2013/680/article/17) in force at 28.2.2013, see Introductory text
 
-[^key-97cdc5a6fb5c1fe5d4b6c142aab6977a]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2013/680/article/18) in force at 28.2.2013, see Introductory text
+[^c-97cdc5a6fb5c1fe5d4b6c142aab6977a]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2013/680/article/18) in force at 28.2.2013, see Introductory text
 
-[^key-e3f6b6f0141415a59b5430cbfca43b78]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2013/680/article/19) in force at 28.2.2013, see Introductory text
+[^c-e3f6b6f0141415a59b5430cbfca43b78]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2013/680/article/19) in force at 28.2.2013, see Introductory text
 
 [^f00019]: Footnote: [1981 c.66](https://www.legislation.gov.uk/ukpga/1981/66). Sections 2(3), 6(2) and 11(6) were amended by section 4 of, and paragraph 52 of Schedule 2 to, the Planning (Consequential Provisions) Act [1990 (c.11)](https://www.legislation.gov.uk/ukpga/1990/11). Section 15 was amended by sections 56 and 321(1) of, and Schedules 8 and 16 to, the Housing and Regeneration Act [2008 (c.17)](https://www.legislation.gov.uk/ukpga/2008/17). Paragraph 1 of Schedule 2 was amended by section 76 of, and Part 2 of Schedule 9 to, the Housing Act [1988 (c.50)](https://www.legislation.gov.uk/ukpga/1988/50); section 161(4) of, and Schedule 19 to, the Leasehold Reform, Housing and Urban Development Act [1993 (c.28)](https://www.legislation.gov.uk/ukpga/1993/28); and sections 56 and 321(1) of, and Schedule 8 to, the Housing and Regeneration Act 2008. Paragraph 3 of Schedule 2 was amended by section 76 of, and Schedule 9 to, the Housing Act 1988 and section 56 of, and Schedule 8 to, the Housing and Regeneration Act 2008. Paragraph 2 of Schedule 3 was repealed by section 277 of, and Schedule 9 to, the Inheritance Tax Act [1984 (c.51)](https://www.legislation.gov.uk/ukpga/1984/51). There are other amendments to the 1981 Act which are not relevant to this Order.
 
-[^key-f66dc4efd755d8b1ac02060cc055da91]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2013/680/article/20) in force at 28.2.2013, see Introductory text
+[^c-f66dc4efd755d8b1ac02060cc055da91]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2013/680/article/20) in force at 28.2.2013, see Introductory text
 
-[^key-c19e03a9faff7a34cce8efd8b6348d81]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2013/680/article/21) in force at 28.2.2013, see Introductory text
+[^c-c19e03a9faff7a34cce8efd8b6348d81]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2013/680/article/21) in force at 28.2.2013, see Introductory text
 
-[^key-9dcbeee7335a0f7a9fce75ad4beb6536]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2013/680/article/22) in force at 28.2.2013, see Introductory text
+[^c-9dcbeee7335a0f7a9fce75ad4beb6536]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2013/680/article/22) in force at 28.2.2013, see Introductory text
 
-[^key-2e8f2cf3027e92fbb20b7c0d937b2f90]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2013/680/article/23) in force at 28.2.2013, see Introductory text
+[^c-2e8f2cf3027e92fbb20b7c0d937b2f90]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2013/680/article/23) in force at 28.2.2013, see Introductory text
 
-[^key-43f61197c1aca8ce47a77a94a68adfb2]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2013/680/article/24) in force at 28.2.2013, see Introductory text
+[^c-43f61197c1aca8ce47a77a94a68adfb2]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2013/680/article/24) in force at 28.2.2013, see Introductory text
 
-[^key-9ee6f1304cb9ee4f8817ed93113a7e16]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2013/680/article/25) in force at 28.2.2013, see Introductory text
+[^c-9ee6f1304cb9ee4f8817ed93113a7e16]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2013/680/article/25) in force at 28.2.2013, see Introductory text
 
-[^key-3725414c46dfaa90a8fd5a1bbdeb3399]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2013/680/article/26) in force at 28.2.2013, see Introductory text
+[^c-3725414c46dfaa90a8fd5a1bbdeb3399]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2013/680/article/26) in force at 28.2.2013, see Introductory text
 
-[^key-864efa454bb028a76e7191de054aba83]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2013/680/article/27) in force at 28.2.2013, see Introductory text
+[^c-864efa454bb028a76e7191de054aba83]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2013/680/article/27) in force at 28.2.2013, see Introductory text
 
-[^key-b81b3f0daa03b22d73c4eedfef17dbad]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2013/680/article/28) in force at 28.2.2013, see Introductory text
+[^c-b81b3f0daa03b22d73c4eedfef17dbad]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2013/680/article/28) in force at 28.2.2013, see Introductory text
 
-[^key-4074ff20ab9fabd35405bdd143eb46b9]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2013/680/article/29) in force at 28.2.2013, see Introductory text
+[^c-4074ff20ab9fabd35405bdd143eb46b9]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2013/680/article/29) in force at 28.2.2013, see Introductory text
 
-[^key-d9a664f6ee6561f3e0e12b244553b3a5]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2013/680/article/30) in force at 28.2.2013, see Introductory text
+[^c-d9a664f6ee6561f3e0e12b244553b3a5]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2013/680/article/30) in force at 28.2.2013, see Introductory text
 
-[^key-7ec2f3df376210b107da6d0877f9bc97]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2013/680/article/31) in force at 28.2.2013, see Introductory text
+[^c-7ec2f3df376210b107da6d0877f9bc97]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2013/680/article/31) in force at 28.2.2013, see Introductory text
 
-[^key-a8d21e79486ecfb447cba926f2a2cb43]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2013/680/article/32) in force at 28.2.2013, see Introductory text
+[^c-a8d21e79486ecfb447cba926f2a2cb43]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2013/680/article/32) in force at 28.2.2013, see Introductory text
 
-[^key-5e2d5bee6e76b4a55cbd1bc853a12762]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2013/680/article/33) in force at 28.2.2013, see Introductory text
+[^c-5e2d5bee6e76b4a55cbd1bc853a12762]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2013/680/article/33) in force at 28.2.2013, see Introductory text
 
-[^key-44cd2e9bf4cf8875f37f7ac1e66568d6]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2013/680/article/34) in force at 28.2.2013, see Introductory text
+[^c-44cd2e9bf4cf8875f37f7ac1e66568d6]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2013/680/article/34) in force at 28.2.2013, see Introductory text
 
-[^key-89cf110b9015c2d2e6186ad6c5600c21]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/part/1) in force at 28.2.2013, see Introductory text
+[^c-89cf110b9015c2d2e6186ad6c5600c21]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/part/1) in force at 28.2.2013, see Introductory text
 
-[^key-ad4272f50a2b4b4fa0d90ef5ab9c8369]: Commencement: [Sch. 1 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/part/2/paragraph/1) in force at 28.2.2013, see Introductory text
+[^c-ad4272f50a2b4b4fa0d90ef5ab9c8369]: Commencement: [Sch. 1 Pt. 2 para. 1](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/part/2/paragraph/1) in force at 28.2.2013, see Introductory text
 
-[^key-dc8a2448164b417ff5ab448c50b2f3e6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/2) in force at 28.2.2013, see Introductory text
+[^c-dc8a2448164b417ff5ab448c50b2f3e6]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/2) in force at 28.2.2013, see Introductory text
 
-[^key-301777f570e8e24272bf95fe1d75540c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/3) in force at 28.2.2013, see Introductory text
+[^c-301777f570e8e24272bf95fe1d75540c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/3) in force at 28.2.2013, see Introductory text
 
-[^key-88f9af9c702c0f1a80ce90ce8c7cc633]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/4) in force at 28.2.2013, see Introductory text
+[^c-88f9af9c702c0f1a80ce90ce8c7cc633]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/4) in force at 28.2.2013, see Introductory text
 
-[^key-cfe91b4a0686b3cc1300d7bc48707661]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/5) in force at 28.2.2013, see Introductory text
+[^c-cfe91b4a0686b3cc1300d7bc48707661]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/5) in force at 28.2.2013, see Introductory text
 
-[^key-8583647791f1e68a332e0b7ee40a1152]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/6) in force at 28.2.2013, see Introductory text
+[^c-8583647791f1e68a332e0b7ee40a1152]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/6) in force at 28.2.2013, see Introductory text
 
-[^key-32ec478bbb3fccb1ed833f772773428f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/7) in force at 28.2.2013, see Introductory text
+[^c-32ec478bbb3fccb1ed833f772773428f]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/7) in force at 28.2.2013, see Introductory text
 
-[^key-d44f89e4eecc80db7fe220c262abbb2e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/8) in force at 28.2.2013, see Introductory text
+[^c-d44f89e4eecc80db7fe220c262abbb2e]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/8) in force at 28.2.2013, see Introductory text
 
-[^key-0e43de0c229522e632bc6a78482a119e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/9) in force at 28.2.2013, see Introductory text
+[^c-0e43de0c229522e632bc6a78482a119e]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/9) in force at 28.2.2013, see Introductory text
 
-[^key-440f14bbfaa2872e8b0c00a50085d7ec]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/10) in force at 28.2.2013, see Introductory text
+[^c-440f14bbfaa2872e8b0c00a50085d7ec]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/10) in force at 28.2.2013, see Introductory text
 
-[^key-3b6985a12793cc4bff4eba4cf3e3bea1]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/11) in force at 28.2.2013, see Introductory text
+[^c-3b6985a12793cc4bff4eba4cf3e3bea1]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/11) in force at 28.2.2013, see Introductory text
 
-[^key-8bec1979687eeffc3a4ea1a4de657ad9]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/12) in force at 28.2.2013, see Introductory text
+[^c-8bec1979687eeffc3a4ea1a4de657ad9]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/12) in force at 28.2.2013, see Introductory text
 
-[^key-d00d31a38956830255884220371f633e]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/13) in force at 28.2.2013, see Introductory text
+[^c-d00d31a38956830255884220371f633e]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/13) in force at 28.2.2013, see Introductory text
 
-[^key-5f4992460f83ac7f019cb16a30e11466]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/14) in force at 28.2.2013, see
+[^c-5f4992460f83ac7f019cb16a30e11466]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/14) in force at 28.2.2013, see
 
-[^key-c6e974a7ecc514c7bd0d85d44aad8834]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/15) in force at 28.2.2013, see
+[^c-c6e974a7ecc514c7bd0d85d44aad8834]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/15) in force at 28.2.2013, see
 
-[^key-f91a6615436b0c20e51853e04cdc0a0c]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/16) in force at 28.2.2013, see
+[^c-f91a6615436b0c20e51853e04cdc0a0c]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/16) in force at 28.2.2013, see
 
-[^key-93b150be66f1a72c4d92fe7957693cff]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/17) in force at 28.2.2013, see
+[^c-93b150be66f1a72c4d92fe7957693cff]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/17) in force at 28.2.2013, see
 
-[^key-b9a4e74c3a84f03f3d0d24b4199c05aa]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/18) in force at 28.2.2013, see
+[^c-b9a4e74c3a84f03f3d0d24b4199c05aa]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/18) in force at 28.2.2013, see
 
-[^key-d53bd04eb0e97e8518db63b62a800380]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/19) in force at 28.2.2013, see
+[^c-d53bd04eb0e97e8518db63b62a800380]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/19) in force at 28.2.2013, see
 
-[^key-d11b92cc082169538f0143f8d787381d]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/20) in force at 28.2.2013, see
+[^c-d11b92cc082169538f0143f8d787381d]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/20) in force at 28.2.2013, see
 
-[^key-0a2281e61a63e75828d639e4789d8ccb]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/21) in force at 28.2.2013, see
+[^c-0a2281e61a63e75828d639e4789d8ccb]: Commencement: [Sch. 1 para. 21](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/21) in force at 28.2.2013, see
 
-[^key-0000efe537e21264e98bc27c1bf27293]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/22) in force at 28.2.2013, see
+[^c-0000efe537e21264e98bc27c1bf27293]: Commencement: [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/22) in force at 28.2.2013, see
 
-[^key-b61c5c64fed218906933ded627eecd68]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/23) in force at 28.2.2013, see
+[^c-b61c5c64fed218906933ded627eecd68]: Commencement: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/23) in force at 28.2.2013, see
 
-[^key-6d785d7c091471a2434b8ff29ff8b325]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/24) in force at 28.2.2013, see
+[^c-6d785d7c091471a2434b8ff29ff8b325]: Commencement: [Sch. 1 para. 24](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/24) in force at 28.2.2013, see
 
-[^key-59aaca97f198ff5a2c4a1697128b146b]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/25) in force at 28.2.2013, see
+[^c-59aaca97f198ff5a2c4a1697128b146b]: Commencement: [Sch. 1 para. 25](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/25) in force at 28.2.2013, see
 
-[^key-8459c5949f3a0a4f5eb9ea591e3ed262]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/26) in force at 28.2.2013, see
+[^c-8459c5949f3a0a4f5eb9ea591e3ed262]: Commencement: [Sch. 1 para. 26](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/26) in force at 28.2.2013, see
 
-[^key-ad8a77152f4c99140fca2188b0df2472]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/27) in force at 28.2.2013, see
+[^c-ad8a77152f4c99140fca2188b0df2472]: Commencement: [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/27) in force at 28.2.2013, see
 
-[^key-d817bd850d243b19ca897aed1dfb4aef]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/28) in force at 28.2.2013, see
+[^c-d817bd850d243b19ca897aed1dfb4aef]: Commencement: [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/28) in force at 28.2.2013, see
 
-[^key-ef45e36f4cdefc1912c55277dd931d7d]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/29) in force at 28.2.2013, see
+[^c-ef45e36f4cdefc1912c55277dd931d7d]: Commencement: [Sch. 1 para. 29](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/29) in force at 28.2.2013, see
 
-[^key-3c70c22271097d244704ae072db74f97]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/30) in force at 28.2.2013, see Introductory text
+[^c-3c70c22271097d244704ae072db74f97]: Commencement: [Sch. 1 para. 30](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/30) in force at 28.2.2013, see Introductory text
 
-[^key-21dd7bfec9248e569b0c3ff3a06757d0]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/31) in force at 28.2.2013, see Introductory text
+[^c-21dd7bfec9248e569b0c3ff3a06757d0]: Commencement: [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/31) in force at 28.2.2013, see Introductory text
 
-[^key-9827e989e122f28b55c7506e67b334e9]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/32) in force at 28.2.2013, see Introductory text
+[^c-9827e989e122f28b55c7506e67b334e9]: Commencement: [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/32) in force at 28.2.2013, see Introductory text
 
-[^key-60d46ddbe5dd56488be0b6f056c0213b]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/33) in force at 28.2.2013, see Introductory text
+[^c-60d46ddbe5dd56488be0b6f056c0213b]: Commencement: [Sch. 1 para. 33](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/33) in force at 28.2.2013, see Introductory text
 
-[^key-b541b6de02d02d87b5d52cc15e2239ed]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/34) in force at 28.2.2013, see Introductory text
+[^c-b541b6de02d02d87b5d52cc15e2239ed]: Commencement: [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/34) in force at 28.2.2013, see Introductory text
 
-[^key-ee973faaec149a6fcb49e396bebdf7c7]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/35) in force at 28.2.2013, see Introductory text
+[^c-ee973faaec149a6fcb49e396bebdf7c7]: Commencement: [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/35) in force at 28.2.2013, see Introductory text
 
-[^key-cc867e72db53d79bee48e04013745ada]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/36) in force at 28.2.2013, see Introductory text
+[^c-cc867e72db53d79bee48e04013745ada]: Commencement: [Sch. 1 para. 36](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/36) in force at 28.2.2013, see Introductory text
 
-[^key-307a63e02aa8fdc520897a3efaf0ab7a]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/37) in force at 28.2.2013, see Introductory text
+[^c-307a63e02aa8fdc520897a3efaf0ab7a]: Commencement: [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/37) in force at 28.2.2013, see Introductory text
 
-[^key-47d1d7a6e86f45a3b0bf769d65f1b566]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/38) in force at 28.2.2013, see Introductory text
+[^c-47d1d7a6e86f45a3b0bf769d65f1b566]: Commencement: [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/38) in force at 28.2.2013, see Introductory text
 
-[^key-3e6ef7a08e4b97da33303c42fc927ec7]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/39) in force at 28.2.2013, see Introductory text
+[^c-3e6ef7a08e4b97da33303c42fc927ec7]: Commencement: [Sch. 1 para. 39](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/39) in force at 28.2.2013, see Introductory text
 
-[^key-0720ad10e2b58d851b1217619f9353d7]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/40) in force at 28.2.2013, see Introductory text
+[^c-0720ad10e2b58d851b1217619f9353d7]: Commencement: [Sch. 1 para. 40](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/40) in force at 28.2.2013, see Introductory text
 
-[^key-e260a73f7ca5cefb19aaa90d382eea9e]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/41) in force at 28.2.2013, see Introductory text
+[^c-e260a73f7ca5cefb19aaa90d382eea9e]: Commencement: [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2013/680/schedule/1/paragraph/41) in force at 28.2.2013, see Introductory text
 
-[^key-d78ecd4b568b5933171db262bcdc4fcb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/680/schedule/2) in force at 28.2.2013, see Introductory text
+[^c-d78ecd4b568b5933171db262bcdc4fcb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2013/680/schedule/2) in force at 28.2.2013, see Introductory text
 
-[^key-77dea130a3bc4525b48b531d284a7247]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2013/680/schedule/3/part/1) in force at 28.2.2013, see Introductory text
+[^c-77dea130a3bc4525b48b531d284a7247]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2013/680/schedule/3/part/1) in force at 28.2.2013, see Introductory text
 
-[^key-d73e8f473217367efc0357b1f137fcf5]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2013/680/schedule/3/part/2) in force at 28.2.2013, see Introductory text
+[^c-d73e8f473217367efc0357b1f137fcf5]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2013/680/schedule/3/part/2) in force at 28.2.2013, see Introductory text
 
-[^key-9bf6e188a14e9729a7a03a8b3222466c]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2013/680/schedule/4) in force at 28.2.2013, see Introductory text
+[^c-9bf6e188a14e9729a7a03a8b3222466c]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2013/680/schedule/4) in force at 28.2.2013, see Introductory text
 
-[^key-21d0ebfc9dc4553aa23032be1fa38735]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2013/680/schedule/5) in force at 28.2.2013, see Introductory text
+[^c-21d0ebfc9dc4553aa23032be1fa38735]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2013/680/schedule/5) in force at 28.2.2013, see Introductory text
 
-[^key-e8303e4f64c55f5af94f01e50b34eb8a]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2013/680/schedule/6) in force at 28.2.2013, see Introductory text
+[^c-e8303e4f64c55f5af94f01e50b34eb8a]: Commencement: [Sch. 6](https://www.legislation.gov.uk/uksi/2013/680/schedule/6) in force at 28.2.2013, see Introductory text
 
-[^key-7ecb65f725d9aaf2955be0807a5cca8a]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/1) in force at 28.2.2013, see Introductory text
+[^c-7ecb65f725d9aaf2955be0807a5cca8a]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/1) in force at 28.2.2013, see Introductory text
 
-[^key-08d35dfd2480e163acb93cada56e3f9c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/2) in force at 28.2.2013, see Introductory text
+[^c-08d35dfd2480e163acb93cada56e3f9c]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/2) in force at 28.2.2013, see Introductory text
 
-[^key-354bcba00776939f3d69fcf87382dc96]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/3) in force at 28.2.2013, see Introductory text
+[^c-354bcba00776939f3d69fcf87382dc96]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/3) in force at 28.2.2013, see Introductory text
 
-[^key-42d0dba828821cc9c0d3a46cffdc78d1]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/4) in force at 28.2.2013, see Introductory text
+[^c-42d0dba828821cc9c0d3a46cffdc78d1]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/4) in force at 28.2.2013, see Introductory text
 
-[^key-0b52a8aa1bc0650db71789b98d093af5]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/5) in force at 28.2.2013, see Introductory text
+[^c-0b52a8aa1bc0650db71789b98d093af5]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/5) in force at 28.2.2013, see Introductory text
 
-[^key-8569665074547b4fbdbbeac0373ead56]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/6) in force at 28.2.2013, see Introductory text
+[^c-8569665074547b4fbdbbeac0373ead56]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/6) in force at 28.2.2013, see Introductory text
 
-[^key-b97853c328c223f3e53b5fd4e80486ee]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/7) in force at 28.2.2013, see Introductory text
+[^c-b97853c328c223f3e53b5fd4e80486ee]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/7) in force at 28.2.2013, see Introductory text
 
-[^key-4ae663c91cebc2089b678cd84451f44a]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/8) in force at 28.2.2013, see Introductory text
+[^c-4ae663c91cebc2089b678cd84451f44a]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/8) in force at 28.2.2013, see Introductory text
 
-[^key-8b03b033766009f0f55194f67b398fad]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/9) in force at 28.2.2013, see Introductory text
+[^c-8b03b033766009f0f55194f67b398fad]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/9) in force at 28.2.2013, see Introductory text
 
-[^key-1e4bc466a219b046c87e82a6b9601577]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/10) in force at 28.2.2013, see Introductory text
+[^c-1e4bc466a219b046c87e82a6b9601577]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/10) in force at 28.2.2013, see Introductory text
 
-[^key-64a7a39549feacca80e3f36877aea94c]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/11) in force at 28.2.2013, see Introductory text
+[^c-64a7a39549feacca80e3f36877aea94c]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/11) in force at 28.2.2013, see Introductory text
 
-[^key-7cee0fce2ba9fa7147665a4cf5313710]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/12) in force at 28.2.2013, see Introductory text
+[^c-7cee0fce2ba9fa7147665a4cf5313710]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/12) in force at 28.2.2013, see Introductory text
 
-[^key-038ae1f5489a0f2cffd943a7b2756726]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/13) in force at 28.2.2013, see Introductory text
+[^c-038ae1f5489a0f2cffd943a7b2756726]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/13) in force at 28.2.2013, see Introductory text
 
-[^key-8412fb5066e5aab565c77e34e6513c16]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/14) in force at 28.2.2013, see Introductory text
+[^c-8412fb5066e5aab565c77e34e6513c16]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/14) in force at 28.2.2013, see Introductory text
 
-[^key-1d4451365215c91b44a6685dbc6c6ec2]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/15) in force at 28.2.2013, see Introductory text
+[^c-1d4451365215c91b44a6685dbc6c6ec2]: Commencement: [Sch. 7 para. 15](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/15) in force at 28.2.2013, see Introductory text
 
-[^key-17cc93e9a6bbea69dedd356f91e88d52]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/16) in force at 28.2.2013, see Introductory text
+[^c-17cc93e9a6bbea69dedd356f91e88d52]: Commencement: [Sch. 7 para. 16](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/16) in force at 28.2.2013, see Introductory text
 
-[^key-520b9a359c763f531351edff0be7ca40]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/17) in force at 28.2.2013, see Introductory text
+[^c-520b9a359c763f531351edff0be7ca40]: Commencement: [Sch. 7 para. 17](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/17) in force at 28.2.2013, see Introductory text
 
-[^key-4bf5d81071708da4376a0982f3c55c95]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/18) in force at 28.2.2013, see Introductory text
+[^c-4bf5d81071708da4376a0982f3c55c95]: Commencement: [Sch. 7 para. 18](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/18) in force at 28.2.2013, see Introductory text
 
-[^key-4b57c260d23e707e7aa61d484917090b]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/19) in force at 28.2.2013, see Introductory text
+[^c-4b57c260d23e707e7aa61d484917090b]: Commencement: [Sch. 7 para. 19](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/19) in force at 28.2.2013, see Introductory text
 
-[^key-e3f2fb28f014219e861ccd7c7de37c0f]: Commencement: [Sch. 7 para. 20](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/20) in force at 28.2.2013, see Introductory text
+[^c-e3f2fb28f014219e861ccd7c7de37c0f]: Commencement: [Sch. 7 para. 20](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/20) in force at 28.2.2013, see Introductory text
 
-[^key-7a6e5891cab5e430f40868a60f81b766]: Commencement: [Sch. 7 para. 21](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/21) in force at 28.2.2013, see Introductory text
+[^c-7a6e5891cab5e430f40868a60f81b766]: Commencement: [Sch. 7 para. 21](https://www.legislation.gov.uk/uksi/2013/680/schedule/7/paragraph/21) in force at 28.2.2013, see Introductory text

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 9 — OVERSEAS LIFE INSURANCE COMPANIES: AMENDMENT OF TAXES ACT 1988 ETC[^key-64afafe3284fc3efba90ac3f1b99020f]
+## SCHEDULE 9 — OVERSEAS LIFE INSURANCE COMPANIES: AMENDMENT OF TAXES ACT 1988 ETC[^c-64afafe3284fc3efba90ac3f1b99020f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 Section 97.
 
-### ...[^key-64afafe3284fc3efba90ac3f1b99020f]
+### ...[^c-64afafe3284fc3efba90ac3f1b99020f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-64afafe3284fc3efba90ac3f1b99020f]: Textual amendment: Sch. 9 repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)
+[^c-64afafe3284fc3efba90ac3f1b99020f]: Textual amendment: Sch. 9 repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)

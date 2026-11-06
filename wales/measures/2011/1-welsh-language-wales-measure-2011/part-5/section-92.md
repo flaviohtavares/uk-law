@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Failure to comply with settlement agreement[^key-7e6854910a35e0a4c87b844c77c97e96]
+## 92. Failure to comply with settlement agreement[^c-7e6854910a35e0a4c87b844c77c97e96]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e6854910a35e0a4c87b844c77c97e96]: Commencement: [S. 92](https://www.legislation.gov.uk/mwa/2011/1/section/92) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-7e6854910a35e0a4c87b844c77c97e96]: Commencement: [S. 92](https://www.legislation.gov.uk/mwa/2011/1/section/92) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

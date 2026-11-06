@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143A. Civil partnership notice: false information or evidence[^key-c9ff003081e1a4e282554e91a9626f6e]
+## 143A. Civil partnership notice: false information or evidence[^c-c9ff003081e1a4e282554e91a9626f6e]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9ff003081e1a4e282554e91a9626f6e]: Textual amendment: [S. 143A](https://www.legislation.gov.uk/ukpga/2004/33/section/143A) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/5) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))
+[^c-c9ff003081e1a4e282554e91a9626f6e]: Textual amendment: [S. 143A](https://www.legislation.gov.uk/ukpga/2004/33/section/143A) inserted (1.3.2015) by [The Referral and Investigation of Proposed Marriages and Civil Partnerships (Northern Ireland and Miscellaneous Provisions) Order 2015 (S.I. 2015/395)](https://www.legislation.gov.uk/uksi/2015/395), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/395/article/1/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2015/395/schedule/3/paragraph/5) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2015/395/article/1/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Approved premises[^key-d5cf5af7d4c9f3cf4b51659df5e0f421]
+## 13. Approved premises[^c-d5cf5af7d4c9f3cf4b51659df5e0f421]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) for persons granted bail in criminal proceedings (within the meaning of the Bail Act 1976 (c. 63)); or
 - (b) for, or in connection with, the supervision or rehabilitation of persons convicted of offences;
 
-and in this section and section 13A[^key-fafb4e6d59793b7e3ecff43c240f335d] “**approved premises**” means premises which are for the time being approved under this subsection.
+and in this section and section 13A[^c-fafb4e6d59793b7e3ecff43c240f335d] “**approved premises**” means premises which are for the time being approved under this subsection.
 
 (2) The Secretary of State may make regulations for the regulation, management and inspection of approved premises.
 
@@ -48,6 +48,6 @@ to any person who incurs expenditure on the activities in question.
 
 ## Annotations
 
-[^key-d5cf5af7d4c9f3cf4b51659df5e0f421]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2007/21/section/13) in force at 1.4.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(e)](https://www.legislation.gov.uk/uksi/2008/504/article/3/e)
+[^c-d5cf5af7d4c9f3cf4b51659df5e0f421]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2007/21/section/13) in force at 1.4.2008 by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(e)](https://www.legislation.gov.uk/uksi/2008/504/article/3/e)
 
-[^key-fafb4e6d59793b7e3ecff43c240f335d]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/13/1) inserted (3.10.2022) by [Approved Premises (Substance Testing) Act 2022 (c. 27)](https://www.legislation.gov.uk/ukpga/2022/27), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2022/27/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2022/27/section/2/2); [S.I. 2022/1013](https://www.legislation.gov.uk/uksi/2022/1013), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1013/regulation/3)
+[^c-fafb4e6d59793b7e3ecff43c240f335d]: Textual amendment: Words in [s. 13(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/13/1) inserted (3.10.2022) by [Approved Premises (Substance Testing) Act 2022 (c. 27)](https://www.legislation.gov.uk/ukpga/2022/27), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2022/27/section/1/2), [2(2)](https://www.legislation.gov.uk/ukpga/2022/27/section/2/2); [S.I. 2022/1013](https://www.legislation.gov.uk/uksi/2022/1013), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1013/regulation/3)

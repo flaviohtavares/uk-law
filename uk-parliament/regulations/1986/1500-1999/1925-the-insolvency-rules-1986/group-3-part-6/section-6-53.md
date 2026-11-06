@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.53. Deposit[^key-ccaaae14415e4511ca49dbe0428ff899]
+## 6.53. Deposit[^c-ccaaae14415e4511ca49dbe0428ff899]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccaaae14415e4511ca49dbe0428ff899]: Commencement: [Rule 6.53](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.53) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-ccaaae14415e4511ca49dbe0428ff899]: Commencement: [Rule 6.53](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.53) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

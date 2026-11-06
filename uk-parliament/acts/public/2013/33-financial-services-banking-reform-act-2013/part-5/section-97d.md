@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97D. Application of section 104 of this Act and Part 9A of the Financial Services and Markets Act 2000[^key-dc6b3a1cfe6a5619652300e707df9abb]
+## 97D. Application of section 104 of this Act and Part 9A of the Financial Services and Markets Act 2000[^c-dc6b3a1cfe6a5619652300e707df9abb]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc6b3a1cfe6a5619652300e707df9abb]: Textual amendment: [Ss. 97A-97D](https://www.legislation.gov.uk/ukpga/2013/33/section/97A) and cross-heading inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/10/4)
+[^c-dc6b3a1cfe6a5619652300e707df9abb]: Textual amendment: [Ss. 97A-97D](https://www.legislation.gov.uk/ukpga/2013/33/section/97A) and cross-heading inserted (26.10.2018) by [The Financial Regulators Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115)](https://www.legislation.gov.uk/uksi/2018/1115), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/1/2), [10(4)](https://www.legislation.gov.uk/uksi/2018/1115/regulation/10/4)

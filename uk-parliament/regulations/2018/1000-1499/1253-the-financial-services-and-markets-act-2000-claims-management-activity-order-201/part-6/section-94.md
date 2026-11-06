@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 94. Tribunals, Courts and Enforcement Act 2007[^key-8d9ae7cb75c9499c621d7f1d680d12af][^key-4664cb89f102fb70cedd5e7aa3d04f7b]
+## 94. Tribunals, Courts and Enforcement Act 2007[^c-8d9ae7cb75c9499c621d7f1d680d12af][^c-4664cb89f102fb70cedd5e7aa3d04f7b]
 
 *Extent: E+W+S*
 
@@ -24,8 +24,8 @@ In Schedule 6 to the Tribunals, Courts and Enforcement Act 2007[^f00131], in Par
 
 ## Annotations
 
-[^key-8d9ae7cb75c9499c621d7f1d680d12af]: Commencement: Art. 94 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-8d9ae7cb75c9499c621d7f1d680d12af]: Commencement: Art. 94 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-4664cb89f102fb70cedd5e7aa3d04f7b]: Commencement: [Art. 94](https://www.legislation.gov.uk/uksi/2018/1253/article/94) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-4664cb89f102fb70cedd5e7aa3d04f7b]: Commencement: [Art. 94](https://www.legislation.gov.uk/uksi/2018/1253/article/94) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00131]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).

@@ -33,20 +33,20 @@ Insolvency Act 1986
 
 \[25th July 1986\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-959cdd74a2e1a3240445c3cfa7daafad][^key-6f46c29b77e05c0ef514614ab6c26946][^key-b0a8cd769007bc3dd1d94bc63519d599][^key-ac2c6617bbee789c4701efa6dbdb7a36][^key-c57455541b0e38d15bd4c8ddb4e81c3a][^key-f72b12924961b4a07a118b6b5e92d7a3][^key-fc9cefab6794a1b10e8d8bfdd785946d][^key-74ed618026c7132b6fc4d09ea17f318d][^key-63194a7a7695d4e7981411496deac81d][^M_C_a57a5486-92ec-4ca7-e996-7b000bf1c6cc][^key-e680cea6e5a1b36c4d1881f3bac9df9b][^key-2148906c64610cfbba78a98fe88aebd9][^key-51f2b04eb34478c3dd24ec0a8d672d25][^key-b023890e1b3cb7a66be9c06821299678][^key-7f31900b32cd6c1e3e94df6258881b16][^key-e4568cd692fbd75fb491c1a015bfde0d][^key-326cf7274293938f80ee8f0fca76013f][^key-32b4bccf510a3a70aeaba6519a068822][^key-393d32de4a57c8d57a398cd0db9c39e7][^key-275a343e34af0c2657ac4c5a62f45c4b][^key-973ad099123cc60456515f4618713826][^key-cc37fee843380e1d73f4490ad2fb53be][^key-22cb132ce762c9974624f29b2076de0b][^key-1ecc101c60feaf2bf9b03049bfe8654d][^key-a7a1dc7c488ab3525efafd572e84a783][^key-6a0ed31ba273797bfb83175a22e1fad4][^key-df81a4d790a79d05a5590eb9fabc4a7e]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-959cdd74a2e1a3240445c3cfa7daafad][^c-6f46c29b77e05c0ef514614ab6c26946][^c-b0a8cd769007bc3dd1d94bc63519d599][^c-ac2c6617bbee789c4701efa6dbdb7a36][^c-c57455541b0e38d15bd4c8ddb4e81c3a][^c-f72b12924961b4a07a118b6b5e92d7a3][^c-fc9cefab6794a1b10e8d8bfdd785946d][^c-74ed618026c7132b6fc4d09ea17f318d][^c-63194a7a7695d4e7981411496deac81d][^M_C_a57a5486-92ec-4ca7-e996-7b000bf1c6cc][^c-e680cea6e5a1b36c4d1881f3bac9df9b][^c-2148906c64610cfbba78a98fe88aebd9][^c-51f2b04eb34478c3dd24ec0a8d672d25][^c-b023890e1b3cb7a66be9c06821299678][^c-7f31900b32cd6c1e3e94df6258881b16][^c-e4568cd692fbd75fb491c1a015bfde0d][^c-326cf7274293938f80ee8f0fca76013f][^c-32b4bccf510a3a70aeaba6519a068822][^c-393d32de4a57c8d57a398cd0db9c39e7][^c-275a343e34af0c2657ac4c5a62f45c4b][^c-973ad099123cc60456515f4618713826][^c-cc37fee843380e1d73f4490ad2fb53be][^c-22cb132ce762c9974624f29b2076de0b][^c-1ecc101c60feaf2bf9b03049bfe8654d][^c-a7a1dc7c488ab3525efafd572e84a783][^c-6a0ed31ba273797bfb83175a22e1fad4][^c-df81a4d790a79d05a5590eb9fabc4a7e]
 
 ## Contents
 
-### Part A1 — Moratorium[^key-99220425e6bdb495d3dbda13978f23cb][^key-b168149832b87adac18625a11a94c790][^key-9cd9e3957c6f6972a71d665e29f2aacd][^key-ef42d53a7540b5e96a5b4f06f0f466a7][^key-2d593eae2f3cccb39a2961eef842bf2c]
+### Part A1 — Moratorium[^c-99220425e6bdb495d3dbda13978f23cb][^c-b168149832b87adac18625a11a94c790][^c-9cd9e3957c6f6972a71d665e29f2aacd][^c-ef42d53a7540b5e96a5b4f06f0f466a7][^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Introductory[^key-2d593eae2f3cccb39a2961eef842bf2c]
+#### Chapter 1 — Introductory[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A1 — Overview](part-a1/section-a1.md)
 - [Section A2 — Eligible companies](part-a1/section-a2.md)
 
-#### Chapter 2 — Obtaining a moratorium[^key-2d593eae2f3cccb39a2961eef842bf2c]
+#### Chapter 2 — Obtaining a moratorium[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A3 — Obtaining a moratorium by filing or lodging documents at court](part-a1/section-a3.md)
 - [Section A4 — Obtaining a moratorium for company subject to winding-up petition](part-a1/section-a4.md)
@@ -55,13 +55,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section A7 — Beginning of moratorium and appointment of monitor](part-a1/section-a7.md)
 - [Section A8 — Obligations to notify where moratorium comes into force](part-a1/section-a8.md)
 
-#### Chapter 3 — Length of moratorium[^key-2d593eae2f3cccb39a2961eef842bf2c]
+#### Chapter 3 — Length of moratorium[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
-##### Initial period[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Initial period[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A9 — End of the moratorium](part-a1/section-a9.md)
 
-##### Extension of moratorium[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Extension of moratorium[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A10 — Extension by directors without creditor consent](part-a1/section-a10.md)
 - [Section A11 — Extension by directors with creditor consent](part-a1/section-a11.md)
@@ -70,57 +70,57 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section A14 — Extension while proposal for CVA pending](part-a1/section-a14.md)
 - [Section A15 — Extension by court in the course of other proceedings](part-a1/section-a15.md)
 
-##### Early termination on certain grounds[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Early termination on certain grounds[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A16 — Company enters into insolvency procedure etc](part-a1/section-a16.md)
 
-##### Obligations to notify change in end of moratorium[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Obligations to notify change in end of moratorium[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A17 — Obligations to notify change in end of moratorium](part-a1/section-a17.md)
 
-#### Chapter 4 — Effects of moratorium[^key-2d593eae2f3cccb39a2961eef842bf2c]
+#### Chapter 4 — Effects of moratorium[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
-##### Introductory[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Introductory[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A18 — Overview and construction of references to payment holidays](part-a1/section-a18.md)
 
-##### Publicity about moratorium[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Publicity about moratorium[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A19 — Publicity about moratorium](part-a1/section-a19.md)
 
-##### Effect on creditors etc[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Effect on creditors etc[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A20 — Restrictions on insolvency proceedings etc](part-a1/section-a20.md)
 - [Section A21 — Restrictions on enforcement and legal proceedings](part-a1/section-a21.md)
 - [Section A22 — Floating charges](part-a1/section-a22.md)
 - [Section A23 — Enforcement of security granted during moratorium](part-a1/section-a23.md)
 
-##### Notification of insolvency proceedings[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Notification of insolvency proceedings[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A24 — Duty of directors to notify monitor of insolvency proceedings etc](part-a1/section-a24.md)
 
-##### Restrictions on transactions[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Restrictions on transactions[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A25 — Restrictions on obtaining credit](part-a1/section-a25.md)
 - [Section A26 — Restrictions on grant of security etc](part-a1/section-a26.md)
 - [Section A27 — Prohibition on entering into market contracts etc](part-a1/section-a27.md)
 
-##### Restrictions on payments and disposal of property[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Restrictions on payments and disposal of property[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A28 — Restrictions on payment of certain pre-moratorium debts](part-a1/section-a28.md)
 - [Section A29 — Restrictions on disposal of property](part-a1/section-a29.md)
 - [Section A30 — Restrictions on disposal of hire-purchase property](part-a1/section-a30.md)
 
-##### Disposals of property free from charges etc[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Disposals of property free from charges etc[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A31 — Disposal of charged property free from charge](part-a1/section-a31.md)
 - [Section A32 — Disposal of hire-purchase property](part-a1/section-a32.md)
 
-##### Effect of contravention of certain provisions of Chapter[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Effect of contravention of certain provisions of Chapter[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A33 — Contravention of certain requirements imposed under this Chapter](part-a1/section-a33.md)
 
-#### CHAPTER 5 — The monitor[^key-2d593eae2f3cccb39a2961eef842bf2c]
+#### CHAPTER 5 — The monitor[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A34 — Status of monitor](part-a1/section-a34.md)
 - [Section A35 — Monitoring](part-a1/section-a35.md)
@@ -131,41 +131,41 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section A40 — Application of Part where two or more persons act as monitor](part-a1/section-a40.md)
 - [Section A41 — Presumption of validity](part-a1/section-a41.md)
 
-#### Chapter 6 — Challenges[^key-2d593eae2f3cccb39a2961eef842bf2c]
+#### Chapter 6 — Challenges[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A42 — Challenge to monitor’s actions](part-a1/section-a42.md)
 - [Section A43 — Challenges to monitor remuneration in insolvency proceedings](part-a1/section-a43.md)
 - [Section A44 — Challenge to directors’ actions](part-a1/section-a44.md)
 - [Section A45 — Challenge brought by Board of the Pension Protection Fund](part-a1/section-a45.md)
 
-#### CHAPTER 7 — Offences: general[^key-2d593eae2f3cccb39a2961eef842bf2c]
+#### CHAPTER 7 — Offences: general[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A46 — Offence of fraud etc during or in anticipation of moratorium](part-a1/section-a46.md)
 - [Section A47 — Offence of false representation etc to obtain a moratorium](part-a1/section-a47.md)
 - [Section A48 — Prosecution of delinquent officers of company](part-a1/section-a48.md)
 
-#### Chapter 8 — Miscellaneous and general[^key-2d593eae2f3cccb39a2961eef842bf2c]
+#### Chapter 8 — Miscellaneous and general[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
-##### Special rules for certain kinds of company etc[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Special rules for certain kinds of company etc[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A49 — Regulated companies: modifications to this Part](part-a1/section-a49.md)
 - [Section A50 — Power to modify this Part etc in relation to certain companies](part-a1/section-a50.md)
 - [Section A51 — Power to make provision in connection with pension schemes](part-a1/section-a51.md)
 
-##### Floating charges[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Floating charges[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A52 — Void provisions in floating charge documents](part-a1/section-a52.md)
 
-##### Interpretation of this Part[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Interpretation of this Part[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A53 — Meaning of “pre-moratorium debt” and “moratorium debt”](part-a1/section-a53.md)
 - [Section A54 — Interpretation of this Part: general](part-a1/section-a54.md)
 
-##### Regulations[^key-2d593eae2f3cccb39a2961eef842bf2c]
+##### Regulations[^c-2d593eae2f3cccb39a2961eef842bf2c]
 
 - [Section A55 — Regulations](part-a1/section-a55.md)
 
-### Part I — Company Voluntary Arrangements[^key-d6b511ec96d2558b7e33ee715fe5b815][^c15568761][^c15568771][^c15568781][^M_C_6ed959b6-bb35-4f1d-b815-d032119cd6ee][^c22531331][^c20429221][^c22718261][^M_C_50fd04f8-8b81-4cd0-c79b-be5ca26da749][^M_C_ae03f829-7b0f-4bc2-d40e-01d4e876578e][^key-e6cd92f1d794843f01a1def744205011][^key-e6cd92f1d794843f01a1def744205011][^key-d42c95f368c806f53e80c7334bd5b6c3][^key-fbf551a7846957746fcd303028b358d6]
+### Part I — Company Voluntary Arrangements[^c-d6b511ec96d2558b7e33ee715fe5b815][^c15568761][^c15568771][^c15568781][^M_C_6ed959b6-bb35-4f1d-b815-d032119cd6ee][^c22531331][^c20429221][^c22718261][^M_C_50fd04f8-8b81-4cd0-c79b-be5ca26da749][^M_C_ae03f829-7b0f-4bc2-d40e-01d4e876578e][^c-e6cd92f1d794843f01a1def744205011][^c-e6cd92f1d794843f01a1def744205011][^c-d42c95f368c806f53e80c7334bd5b6c3][^c-fbf551a7846957746fcd303028b358d6]
 
 *Extent: E+W+S*
 
@@ -191,7 +191,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 7A — Prosecution of delinquent officers of company.](part-i/section-7a.md)
 - [Section 7B — Arrangements coming to an end prematurely.](part-i/section-7b.md)
 
-### Part II — Administration[^key-d1f6cd3e667c61161626d49e1528a740][^M_C_6ed959b6-bb35-4f1d-b815-d032119cd6ee][^key-d42c95f368c806f53e80c7334bd5b6c3][^c18985671][^M_C_ce005194-112c-4f9f-e651-2e7fdc61ffbf][^c18955671][^M_C_bf2c479c-f795-4eb8-c0e7-91da801d0a05][^M_C_af08348e-5511-4f1f-e28e-2f33993b36ac][^key-4c0afa2c806fb7e35b014f535b2b2b7c][^key-afa087edcc4f8e60277a886d45166814][^c18955611]
+### Part II — Administration[^c-d1f6cd3e667c61161626d49e1528a740][^M_C_6ed959b6-bb35-4f1d-b815-d032119cd6ee][^c-d42c95f368c806f53e80c7334bd5b6c3][^c18985671][^M_C_ce005194-112c-4f9f-e651-2e7fdc61ffbf][^c18955671][^M_C_bf2c479c-f795-4eb8-c0e7-91da801d0a05][^M_C_af08348e-5511-4f1f-e28e-2f33993b36ac][^c-4c0afa2c806fb7e35b014f535b2b2b7c][^c-afa087edcc4f8e60277a886d45166814][^c18955611]
 
 *Extent: E+W+S*
 
@@ -255,7 +255,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 26 — Creditors’ committee.](part-iin2/section-26.md)
 - [Section 27 — Protection of interests of creditors and members.](part-iin2/section-27.md)
 
-### Part III — Receivership[^c15570701][^M_C_6ed959b6-bb35-4f1d-b815-d032119cd6ee][^c15570711][^c22531351][^c15570721][^M_C_650ced0e-4d41-429c-b2c7-febea8ba9c23][^key-401abb0891a74a2a7ab21bb68783ee1a][^key-d42c95f368c806f53e80c7334bd5b6c3]
+### Part III — Receivership[^c15570701][^M_C_6ed959b6-bb35-4f1d-b815-d032119cd6ee][^c15570711][^c22531351][^c15570721][^M_C_650ced0e-4d41-429c-b2c7-febea8ba9c23][^c-401abb0891a74a2a7ab21bb68783ee1a][^c-d42c95f368c806f53e80c7334bd5b6c3]
 
 *Extent: E+W+S*
 
@@ -344,11 +344,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 72GA — Exception in relation to protected railway companies etc.](part-iii/section-72ga.md)
 - [Section 72H — Sections 72A to 72G: supplementary](part-iii/section-72h.md)
 
-### Part IV — Winding Up of Companies Registered under the Companies Acts[^c15571461][^M_C_6ed959b6-bb35-4f1d-b815-d032119cd6ee][^c15571471][^c15571481][^key-2113a5fcda6811205680f4755957dc8c][^c15571491][^c22531361][^c15571501][^c19737551][^M_C_32f5bf81-15ef-4533-d14d-1ef786a781b2][^key-03caff2bb12bf9923001b29c18763f48][^key-c39bff8b27ad7d97b0eadf50dee5dcba][^key-d42c95f368c806f53e80c7334bd5b6c3]
+### Part IV — Winding Up of Companies Registered under the Companies Acts[^c15571461][^M_C_6ed959b6-bb35-4f1d-b815-d032119cd6ee][^c15571471][^c15571481][^c-2113a5fcda6811205680f4755957dc8c][^c15571491][^c22531361][^c15571501][^c19737551][^M_C_32f5bf81-15ef-4533-d14d-1ef786a781b2][^c-03caff2bb12bf9923001b29c18763f48][^c-c39bff8b27ad7d97b0eadf50dee5dcba][^c-d42c95f368c806f53e80c7334bd5b6c3]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter I — Preliminary[^key-05141083f26d8823799fb33a4bcc129c][^key-03caff2bb12bf9923001b29c18763f48][^key-d42c95f368c806f53e80c7334bd5b6c3]
+#### Chapter I — Preliminary[^c-05141083f26d8823799fb33a4bcc129c][^c-03caff2bb12bf9923001b29c18763f48][^c-d42c95f368c806f53e80c7334bd5b6c3]
 
 *Extent: E+W+S*
 
@@ -391,7 +391,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 89 — Statutory declaration of solvency.](part-iv/section-89.md)
 - [Section 90 — Distinction between “members’” and “creditors’” voluntary winding up.](part-iv/section-90.md)
 
-#### Chapter III — Members’ Voluntary Winding Up[^key-b6ec65f3764ba6aa5363dc0805a1d678]
+#### Chapter III — Members’ Voluntary Winding Up[^c-b6ec65f3764ba6aa5363dc0805a1d678]
 
 *Extent: E+W+S*
 
@@ -434,7 +434,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 115 — Expenses of voluntary winding up.](part-iv/section-115.md)
 - [Section 116 — Saving for certain rights.](part-iv/section-116.md)
 
-#### Chapter VI — Winding Up by the Court[^key-03caff2bb12bf9923001b29c18763f48]
+#### Chapter VI — Winding Up by the Court[^c-03caff2bb12bf9923001b29c18763f48]
 
 *Extent: E+W+S*
 
@@ -536,7 +536,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 161 — Orders for calls on contributories (Scotland).](part-iv/section-161.md)
 - [Section 162 — Appeals from orders in Scotland.](part-iv/section-162.md)
 
-#### Chapter VII — Liquidators[^key-d42c95f368c806f53e80c7334bd5b6c3]
+#### Chapter VII — Liquidators[^c-d42c95f368c806f53e80c7334bd5b6c3]
 
 *Extent: E+W+S*
 
@@ -572,11 +572,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 173 — Release (voluntary winding up).](part-iv/section-173.md)
 - [Section 174 — Release (winding up by the court).](part-iv/section-174.md)
 
-#### Chapter VIII — Provisions of General Application in Winding Up[^key-d42c95f368c806f53e80c7334bd5b6c3]
+#### Chapter VIII — Provisions of General Application in Winding Up[^c-d42c95f368c806f53e80c7334bd5b6c3]
 
 *Extent: E+W+S+N.I.*
 
-##### Moratorium: order of priority of payment of debts[^key-5ace08d8b9b0e7d617b59018518fa938]
+##### Moratorium: order of priority of payment of debts[^c-5ace08d8b9b0e7d617b59018518fa938]
 
 *Extent: E+W+S*
 
@@ -591,7 +591,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 175 — Preferential debts (general provision).](part-iv/section-175.md)
 - [Section 176 — Preferential charge on goods distrained , etc.](part-iv/section-176.md)
 
-##### Non-preferential debts[^key-a358b79fc629fefb2eb80efda576d319]
+##### Non-preferential debts[^c-a358b79fc629fefb2eb80efda576d319]
 
 - [Section 176AZA — Non-preferential debts of financial institutions](part-iv/section-176aza.md)
 
@@ -657,7 +657,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 204 — Early dissolution (Scotland).](part-iv/section-204.md)
 - [Section 205 — Dissolution otherwise than under ss. 202-204.](part-iv/section-205.md)
 
-#### Chapter X — Malpractice before and during Liquidation; Penalisation of Companies and Company Officers; Investigations and Prosecutions[^key-03caff2bb12bf9923001b29c18763f48][^key-d42c95f368c806f53e80c7334bd5b6c3]
+#### Chapter X — Malpractice before and during Liquidation; Penalisation of Companies and Company Officers; Investigations and Prosecutions[^c-03caff2bb12bf9923001b29c18763f48][^c-d42c95f368c806f53e80c7334bd5b6c3]
 
 *Extent: E+W+S*
 
@@ -699,11 +699,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 228 — Actions stayed on winding-up order.](part-v/section-228.md)
 - [Section 229 — Provisions of this Part to be cumulative.](part-v/section-229.md)
 
-### Part VI — Miscellaneous Provisions Applying to Companies Which are Insolvent or in Liquidation[^c15574811][^M_C_6ed959b6-bb35-4f1d-b815-d032119cd6ee][^c15574821][^c15574831][^c22531381][^M_C_1dd2aa6a-8c0e-4059-b37e-6b7d86da0360][^M_C_90caaf35-8b13-40cc-e78e-09871a737088][^key-02f08ee12d62f45e8fc28e5e2eeee692][^key-71417d6eab03f1cf1d383a06efb730ed][^key-788371096f8da5425d0cd572175725cd]
+### Part VI — Miscellaneous Provisions Applying to Companies Which are Insolvent or in Liquidation[^c15574811][^M_C_6ed959b6-bb35-4f1d-b815-d032119cd6ee][^c15574821][^c15574831][^c22531381][^M_C_1dd2aa6a-8c0e-4059-b37e-6b7d86da0360][^M_C_90caaf35-8b13-40cc-e78e-09871a737088][^c-02f08ee12d62f45e8fc28e5e2eeee692][^c-71417d6eab03f1cf1d383a06efb730ed][^c-788371096f8da5425d0cd572175725cd]
 
 *Extent: E+W+S*
 
-#### Office-holders[^key-e9e7f71ebeed0323e65ad230fae8beb3]
+#### Office-holders[^c-e9e7f71ebeed0323e65ad230fae8beb3]
 
 - [Section 230 — Holders of office to be qualified insolvency practitioners.](part-vi/section-230.md)
 - [Section 231 — Appointment to office of two or more persons.](part-vi/section-231.md)
@@ -736,17 +736,17 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 245 — Avoidance of certain floating charges.](part-vi/section-245.md)
 - [Section 246 — Unenforceability of liens on books, etc.](part-vi/section-246.md)
 
-#### Administration: penalisation of directors etc[^key-e06d97917dfbc77360d0ca4913ed0ca5]
+#### Administration: penalisation of directors etc[^c-e06d97917dfbc77360d0ca4913ed0ca5]
 
 - [Section 246ZA — Fraudulent trading: administration](part-vi/section-246za.md)
 - [Section 246ZB — Wrongful trading: administration](part-vi/section-246zb.md)
 - [Section 246ZC — Proceedings under section 246ZA or 246ZB](part-vi/section-246zc.md)
 
-#### Power to assign certain causes of action[^key-53906134beb8ba8f11196eb3f9a76eff]
+#### Power to assign certain causes of action[^c-53906134beb8ba8f11196eb3f9a76eff]
 
 - [Section 246ZD — Power to assign](part-vi/section-246zd.md)
 
-#### Decisions by creditors and contributories[^key-37256fa3481a9e7af7c88bd213b9ae82]
+#### Decisions by creditors and contributories[^c-37256fa3481a9e7af7c88bd213b9ae82]
 
 *Extent: E+W+S*
 
@@ -762,12 +762,12 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W+S*
 
-##### Giving of notices etc by office-holders[^key-7703aded73b30926f863f6c3ea572cc0][^c21415971]
+##### Giving of notices etc by office-holders[^c-7703aded73b30926f863f6c3ea572cc0][^c21415971]
 
 - [Section 246B — Use of websites](part-vi/section-246b.md)
 - [Section 246C — Creditors' ability to opt out of receiving certain notices](part-vi/section-246c.md)
 
-### Part VII — Interpretation for First Group of Parts[^c15576141][^M_C_6ed959b6-bb35-4f1d-b815-d032119cd6ee][^c15576151][^c15576161][^c15576171][^c22531391][^M_C_742dfa43-9aa6-4d11-84e2-0378f194fe0f][^M_C_acf5e452-3170-426f-d553-51e4599e3215][^key-0db19e439973e128f06bfccbe627ec7d]
+### Part VII — Interpretation for First Group of Parts[^c15576141][^M_C_6ed959b6-bb35-4f1d-b815-d032119cd6ee][^c15576151][^c15576161][^c15576171][^c22531391][^M_C_742dfa43-9aa6-4d11-84e2-0378f194fe0f][^M_C_acf5e452-3170-426f-d553-51e4599e3215][^c-0db19e439973e128f06bfccbe627ec7d]
 
 *Extent: E+W+S*
 
@@ -846,7 +846,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 256A — Debtor’s proposal and nominee’s report.](part-viii/section-256a.md)
 
-#### Creditors’ decisions[^c15576531][^key-da95346e18737b6e0fb7cd7b329c4b57]
+#### Creditors’ decisions[^c15576531][^c-da95346e18737b6e0fb7cd7b329c4b57]
 
 *Extent: E+W*
 
@@ -866,7 +866,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 262C — Arrangements coming to an end prematurely.](part-viii/section-262c.md)
 - [Section 263 — Implementation and supervision of approved voluntary arrangement.](part-viii/section-263.md)
 
-#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-911319c8e422e2f8af20e7947bace390]
+#### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-911319c8e422e2f8af20e7947bace390]
 
 *Extent: E+W*
 
@@ -878,11 +878,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 263F — Revocation](part-viii/section-263f.md)
 - [Section 263G — Offences](part-viii/section-263g.md)
 
-### Part IX — Bankruptcy[^c15576971][^c15576981][^c15576991][^key-486830d04c33982c3637dd1855a6cb05][^c15577001][^c15577011][^c22531421]
+### Part IX — Bankruptcy[^c15576971][^c15576981][^c15576991][^c-486830d04c33982c3637dd1855a6cb05][^c15577001][^c15577011][^c22531421]
 
 *Extent: E+W*
 
-#### CHAPTER A1 — Adjudicators: bankruptcy applications by debtors and bankruptcy orders[^key-73e3d93eee3d37e67841e2c527526acb]
+#### CHAPTER A1 — Adjudicators: bankruptcy applications by debtors and bankruptcy orders[^c-73e3d93eee3d37e67841e2c527526acb]
 
 *Extent: E+W*
 
@@ -895,7 +895,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 263N — Refusal to make a bankruptcy order: review and appeal etc.](part-ix/section-263n.md)
 - [Section 263O — False representations and omissions](part-ix/section-263o.md)
 
-#### Chapter I — The court: bankruptcy petitions and bankruptcy orders[^key-6bdbd944267570612fbff9c059cc2861]
+#### Chapter I — The court: bankruptcy petitions and bankruptcy orders[^c-6bdbd944267570612fbff9c059cc2861]
 
 *Extent: E+W*
 
@@ -913,7 +913,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 270 — Expedited petition.](part-ix/section-270.md)
 - [Section 271 — Proceedings on creditor’s petition.](part-ix/section-271.md)
 
-##### ...[^key-b8fa83772a8129811898f35f265b6308]
+##### ...[^c-b8fa83772a8129811898f35f265b6308]
 
 *Extent: E+W*
 
@@ -928,7 +928,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 276 — Default in connection with voluntary arrangement.](part-ix/section-276.md)
 - [Section 277 — Petition based on criminal bankruptcy order.](part-ix/section-277.md)
 
-#### Chapter IA — Commencement and duration of bankruptcy[^key-025f0dffbf3dc01e596f4549bab8bf11]
+#### Chapter IA — Commencement and duration of bankruptcy[^c-025f0dffbf3dc01e596f4549bab8bf11]
 
 *Extent: E+W*
 
@@ -1130,7 +1130,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 378 — Exemption from stamp duty.](part-x/section-378.md)
 - [Section 379 — Annual report.](part-x/section-379.md)
 
-#### Creditors' decisions[^key-e0c2a2277f34cd895d7942903028b4be]
+#### Creditors' decisions[^c-e0c2a2277f34cd895d7942903028b4be]
 
 *Extent: E+W*
 
@@ -1140,7 +1140,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 *Extent: E+W*
 
-##### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-f8c897c55862a766bebd5a32fe43723d]
+##### . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-f8c897c55862a766bebd5a32fe43723d]
 
 - [Section 379A — Remote attendance at meetings](part-x/section-379a.md)
 
@@ -1163,7 +1163,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 384 — “Prescribed” and “the rules”.](part-xi/section-384.md)
 - [Section 385 — Miscellaneous definitions.](part-xi/section-385.md)
 
-### Part XII — Preferential and non-preferential debts in Company and Individual Insolvency[^c15581691][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_c3f7d199-1d4c-44b4-dd96-dcbc776c1c2e][^M_C_970de6c9-3bf1-40fb-9836-fd97c5062657][^M_C_c1989892-d4be-4172-dbde-8b0ea3648ea8][^key-898ef976a1d86a7718178fb3c18a03df][^key-14b176b10ab76f3891c935f9691b8dcd]
+### Part XII — Preferential and non-preferential debts in Company and Individual Insolvency[^c15581691][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_c3f7d199-1d4c-44b4-dd96-dcbc776c1c2e][^M_C_970de6c9-3bf1-40fb-9836-fd97c5062657][^M_C_c1989892-d4be-4172-dbde-8b0ea3648ea8][^c-898ef976a1d86a7718178fb3c18a03df][^c-14b176b10ab76f3891c935f9691b8dcd]
 
 *Extent: E+W+S*
 
@@ -1171,7 +1171,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 387 — “The relevant date”.](part-xii/section-387.md)
 - [Section 387A — Financial institutions and their non-preferential debts](part-xii/section-387a.md)
 
-### Part XIII — Insolvency Practitioners and their Qualification[^c15582661][^c18966801][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_b3987790-08a0-4672-9c2d-f1d256a5281e][^M_C_a3983fea-e91b-4e4b-dc43-48c8ee45a348][^key-27f6a4b363f4fc9f98dc9f53993285e5][^key-67e84b3fde1253471739882cade02486][^key-53e23e5032b55114129bfd4243322aef][^key-898ef976a1d86a7718178fb3c18a03df]
+### Part XIII — Insolvency Practitioners and their Qualification[^c15582661][^c18966801][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_b3987790-08a0-4672-9c2d-f1d256a5281e][^M_C_a3983fea-e91b-4e4b-dc43-48c8ee45a348][^c-27f6a4b363f4fc9f98dc9f53993285e5][^c-67e84b3fde1253471739882cade02486][^c-53e23e5032b55114129bfd4243322aef][^c-898ef976a1d86a7718178fb3c18a03df]
 
 *Extent: E+W+S*
 
@@ -1189,12 +1189,12 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 391 — Recognised professional bodies](part-xiii/section-391.md)
 - [Section 391A — Application for recognition as recognised professional body](part-xiii/section-391a.md)
 
-#### Regulatory objectives[^key-9047e00d22cb90485ed01619b37fdd4d]
+#### Regulatory objectives[^c-9047e00d22cb90485ed01619b37fdd4d]
 
 - [Section 391B — Application of regulatory objectives](part-xiii/section-391b.md)
 - [Section 391C — Meaning of “regulatory functions” and “regulatory objectives”](part-xiii/section-391c.md)
 
-#### Oversight of recognised professional bodies[^key-446c390a3968421d20751dbaa00208c7]
+#### Oversight of recognised professional bodies[^c-446c390a3968421d20751dbaa00208c7]
 
 - [Section 391D — Directions](part-xiii/section-391d.md)
 - [Section 391E — Directions: procedure](part-xiii/section-391e.md)
@@ -1205,7 +1205,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 391J — Reprimand](part-xiii/section-391j.md)
 - [Section 391K — Reprimand: procedure](part-xiii/section-391k.md)
 
-#### Revocation etc of recognition[^key-e58f86678a880d0792be82f0b2d1da4b]
+#### Revocation etc of recognition[^c-e58f86678a880d0792be82f0b2d1da4b]
 
 *Extent: E+W+S*
 
@@ -1213,14 +1213,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 391M — Orders under section 391L: procedure](part-xiii/section-391m.md)
 - [Section 391N — Revocation of recognition at request of body](part-xiii/section-391n.md)
 
-#### Court sanction of insolvency practitioners in public interest cases[^key-8365d3c5f66081496769b9bc76cac133]
+#### Court sanction of insolvency practitioners in public interest cases[^c-8365d3c5f66081496769b9bc76cac133]
 
 - [Section 391O — Direct sanctions orders](part-xiii/section-391o.md)
 - [Section 391P — Application for, and power to make, direct sanctions order](part-xiii/section-391p.md)
 - [Section 391Q — Direct sanctions order: conditions](part-xiii/section-391q.md)
 - [Section 391R — Direct sanctions direction instead of order](part-xiii/section-391r.md)
 
-#### General[^key-c3f2f053baa4edfea389a00eabe1acb6]
+#### General[^c-c3f2f053baa4edfea389a00eabe1acb6]
 
 - [Section 391S — Power for Secretary of State to obtain information](part-xiii/section-391s.md)
 - [Section 391T — Compliance orders](part-xiii/section-391t.md)
@@ -1237,11 +1237,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 397 — Action of Tribunal on reference.](part-xiii/section-397.md)
 - [Section 398 — Refusal or withdrawal without reference to Tribunal.](part-xiii/section-398.md)
 
-### Part XIV — Public Administration (England and Wales)[^c15583601][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_cb5db424-c5f9-4c6e-aee8-452a23363afe][^M_C_9f42009a-0329-43d7-8cbe-2ef8772ff4d5][^key-898ef976a1d86a7718178fb3c18a03df]
+### Part XIV — Public Administration (England and Wales)[^c15583601][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_cb5db424-c5f9-4c6e-aee8-452a23363afe][^M_C_9f42009a-0329-43d7-8cbe-2ef8772ff4d5][^c-898ef976a1d86a7718178fb3c18a03df]
 
 *Extent: E+W*
 
-#### Adjudicators[^key-dadbaf2482da3f5b0064711576f3b313]
+#### Adjudicators[^c-dadbaf2482da3f5b0064711576f3b313]
 
 - [Section 398A — Appointment etc of adjudicators and assistants](part-xiv/section-398a.md)
 
@@ -1269,7 +1269,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 410 — Extent of this Part.](part-xiv/section-410.md)
 
-### Part XV — Subordinate Legislation[^c15583901][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_1405cae2-81fc-44df-9aad-6378ac4f9a83][^M_C_238b8c33-be88-4a81-b278-40df0a2e531e][^key-898ef976a1d86a7718178fb3c18a03df]
+### Part XV — Subordinate Legislation[^c15583901][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_1405cae2-81fc-44df-9aad-6378ac4f9a83][^M_C_238b8c33-be88-4a81-b278-40df0a2e531e][^c-898ef976a1d86a7718178fb3c18a03df]
 
 *Extent: E+W+S*
 
@@ -1311,7 +1311,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 422 — Formerly authorised banks.](part-xv/section-422.md)
 - [Section 422A — Meaning of “relevant offence”](part-xv/section-422a.md)
 
-### Part XVI — Provisions Against Debt Avoidance (England and Wales only)[^c15584831][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_c30e992f-f498-442a-864d-8e6059dc718c][^M_C_3f296fb5-8dea-4a66-ab12-200e733d0060][^key-898ef976a1d86a7718178fb3c18a03df]
+### Part XVI — Provisions Against Debt Avoidance (England and Wales only)[^c15584831][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_c30e992f-f498-442a-864d-8e6059dc718c][^M_C_3f296fb5-8dea-4a66-ab12-200e733d0060][^c-898ef976a1d86a7718178fb3c18a03df]
 
 *Extent: E+W*
 
@@ -1319,7 +1319,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 424 — Those who may apply for an order under s. 423.](part-xvi/section-424.md)
 - [Section 425 — Provision which may be made by order under s. 423.](part-xvi/section-425.md)
 
-### Part XVII — Miscellaneous and General[^c15584951][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_f0676f45-0635-4efb-c947-a7fd1c9a3fc2][^M_C_21dd9d56-f685-4910-d5a5-6e158254b8e0][^key-898ef976a1d86a7718178fb3c18a03df]
+### Part XVII — Miscellaneous and General[^c15584951][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_f0676f45-0635-4efb-c947-a7fd1c9a3fc2][^M_C_21dd9d56-f685-4910-d5a5-6e158254b8e0][^c-898ef976a1d86a7718178fb3c18a03df]
 
 *Extent: E+W+S+N.I.*
 
@@ -1336,7 +1336,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 433 — Admissibility in evidence of statements of affairs, etc.](part-xvii/section-433.md)
 - [Section 434 — Crown application.](part-xvii/section-434.md)
 
-### PART 17A — SUPPLEMENTARY PROVISIONS[^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_1bb7361c-84cc-4342-86f0-9903e95d9403][^M_C_0d9ce151-8ca9-46e7-8541-137d0cce93c5][^key-898ef976a1d86a7718178fb3c18a03df][^c19935621]
+### PART 17A — SUPPLEMENTARY PROVISIONS[^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_1bb7361c-84cc-4342-86f0-9903e95d9403][^M_C_0d9ce151-8ca9-46e7-8541-137d0cce93c5][^c-898ef976a1d86a7718178fb3c18a03df][^c19935621]
 
 *Extent: E+W+S+N.I.*
 
@@ -1346,7 +1346,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 434D — Enforcement of company's filing obligations](part-17a/section-434d.md)
 - [Section 434E — Application of filing obligations to overseas companies](part-17a/section-434e.md)
 
-### Part XVIII — Interpretation[^c15586141][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_195ee3ee-7edb-4c7d-a9bb-2854eb4b4d99][^M_C_1edfc3ed-20ff-4a5b-9f27-4483e3b64dc0][^key-898ef976a1d86a7718178fb3c18a03df]
+### Part XVIII — Interpretation[^c15586141][^M_C_61b67db6-59c3-464c-89a4-9aaeb98be38e][^M_C_195ee3ee-7edb-4c7d-a9bb-2854eb4b4d99][^M_C_1edfc3ed-20ff-4a5b-9f27-4483e3b64dc0][^c-898ef976a1d86a7718178fb3c18a03df]
 
 *Extent: E+W+S*
 
@@ -1355,7 +1355,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 436A — Proceedings under EU Regulations: modified definition of property](part-xviii/section-436a.md)
 - [Section 436B — References to things in writing](part-xviii/section-436b.md)
 
-### Part XIX — Final Provisions[^c15586481][^M_C_481e6e5c-00bb-4f65-b7ac-cb39ea8a54e5][^M_C_4c79190d-ce17-4c9f-e16e-3ee832b84448][^M_C_93ef8fcc-486f-4d04-fdc5-5e4ac16cc3e1][^key-898ef976a1d86a7718178fb3c18a03df]
+### Part XIX — Final Provisions[^c15586481][^M_C_481e6e5c-00bb-4f65-b7ac-cb39ea8a54e5][^M_C_4c79190d-ce17-4c9f-e16e-3ee832b84448][^M_C_93ef8fcc-486f-4d04-fdc5-5e4ac16cc3e1][^c-898ef976a1d86a7718178fb3c18a03df]
 
 *Extent: E+W+S+N.I.*
 
@@ -1396,7 +1396,7 @@ SCHEDULES
 - [SCHEDULE 13](schedule-13.md)
 - [SCHEDULE 14](schedule-14.md)
 
-## The First Group of Parts — Company Insolvency; Companies Winding Up[^M_C_98302b8b-263a-46db-fd27-73a89fc6c6eb][^key-4d15c2dbcb9c2afbab220dee74e1123b]
+## The First Group of Parts — Company Insolvency; Companies Winding Up[^M_C_98302b8b-263a-46db-fd27-73a89fc6c6eb][^c-4d15c2dbcb9c2afbab220dee74e1123b]
 
 *Extent: E+W+S*
 
@@ -1404,7 +1404,7 @@ SCHEDULES
 
 *Extent: E+W*
 
-## The Third Group of Parts — Miscellaneous Matters Bearing on Both Company and Individual Insolvency; General Interpretation; Final Provisions[^key-898ef976a1d86a7718178fb3c18a03df]
+## The Third Group of Parts — Miscellaneous Matters Bearing on Both Company and Individual Insolvency; General Interpretation; Final Provisions[^c-898ef976a1d86a7718178fb3c18a03df]
 
 *Extent: E+W+S+N.I.*
 
@@ -1560,71 +1560,71 @@ SCHEDULES
 
 [^c21433701]: Modification: Act applied in part (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 8(1)](https://www.legislation.gov.uk/uksi/2011/2866/article/8/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
 
-[^key-959cdd74a2e1a3240445c3cfa7daafad]: Modification: Act excluded (S.) (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 106(7)(b)](https://www.legislation.gov.uk/asp/2010/17/section/106/7/b), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)
+[^c-959cdd74a2e1a3240445c3cfa7daafad]: Modification: Act excluded (S.) (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 106(7)(b)](https://www.legislation.gov.uk/asp/2010/17/section/106/7/b), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2)) (as amended (1.4.2012) by [S.S.I. 2012/91](https://www.legislation.gov.uk/ssi/2012/91), art. 4)
 
-[^key-6f46c29b77e05c0ef514614ab6c26946]: Modification: Act modified (7.6.2013) by [The Energy Supply Company Administration Rules 2013 (S.I. 2013/1046)](https://www.legislation.gov.uk/uksi/2013/1046), [rules 1](https://www.legislation.gov.uk/uksi/2013/1046/article/1), [205(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1046/rule/205/2) (with [rules 3](https://www.legislation.gov.uk/uksi/2013/1046/article/3), [208](https://www.legislation.gov.uk/uksi/2013/1046/article/208))
+[^c-6f46c29b77e05c0ef514614ab6c26946]: Modification: Act modified (7.6.2013) by [The Energy Supply Company Administration Rules 2013 (S.I. 2013/1046)](https://www.legislation.gov.uk/uksi/2013/1046), [rules 1](https://www.legislation.gov.uk/uksi/2013/1046/article/1), [205(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1046/rule/205/2) (with [rules 3](https://www.legislation.gov.uk/uksi/2013/1046/article/3), [208](https://www.legislation.gov.uk/uksi/2013/1046/article/208))
 
-[^key-b0a8cd769007bc3dd1d94bc63519d599]: Modification: Act modified (31.1.2014) by [The Postal Administration Rules 2013 (S.I. 2013/3208)](https://www.legislation.gov.uk/uksi/2013/3208), [rule 206](https://www.legislation.gov.uk/uksi/2013/3208/rule/206) (with [rules 3](https://www.legislation.gov.uk/uksi/2013/3208/article/3), [210](https://www.legislation.gov.uk/uksi/2013/3208/article/210))
+[^c-b0a8cd769007bc3dd1d94bc63519d599]: Modification: Act modified (31.1.2014) by [The Postal Administration Rules 2013 (S.I. 2013/3208)](https://www.legislation.gov.uk/uksi/2013/3208), [rule 206](https://www.legislation.gov.uk/uksi/2013/3208/rule/206) (with [rules 3](https://www.legislation.gov.uk/uksi/2013/3208/article/3), [210](https://www.legislation.gov.uk/uksi/2013/3208/article/210))
 
-[^key-ac2c6617bbee789c4701efa6dbdb7a36]: Modification: Act excluded (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 217](https://www.legislation.gov.uk/uksi/2014/3348/article/217)
+[^c-ac2c6617bbee789c4701efa6dbdb7a36]: Modification: Act excluded (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 217](https://www.legislation.gov.uk/uksi/2014/3348/article/217)
 
-[^key-c57455541b0e38d15bd4c8ddb4e81c3a]: Modification: Act applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/8/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
+[^c-c57455541b0e38d15bd4c8ddb4e81c3a]: Modification: Act applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/8/2) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
 
-[^key-f72b12924961b4a07a118b6b5e92d7a3]: Modification: Act: power to apply (with or without modifications) conferred by 2007 c. 27, s. 27A(7) (as inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/20); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f))
+[^c-f72b12924961b4a07a118b6b5e92d7a3]: Modification: Act: power to apply (with or without modifications) conferred by 2007 c. 27, s. 27A(7) (as inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/20); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f))
 
-[^key-fc9cefab6794a1b10e8d8bfdd785946d]: Modification: Act applied by 2007 c. 27, s. 27A(2) (as inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/20); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f))
+[^c-fc9cefab6794a1b10e8d8bfdd785946d]: Modification: Act applied by 2007 c. 27, s. 27A(2) (as inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/20); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f))
 
-[^key-74ed618026c7132b6fc4d09ea17f318d]: Modification: Act modified by The Insolvent Partnerships Order 1994 (S.I. 1994/2421), Sch. 4 (as amended (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)))
+[^c-74ed618026c7132b6fc4d09ea17f318d]: Modification: Act modified by The Insolvent Partnerships Order 1994 (S.I. 1994/2421), Sch. 4 (as amended (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)))
 
-[^key-63194a7a7695d4e7981411496deac81d]: Modification: Act modified by The Insolvent Partnerships Order 1994 (S.I. 1994/2421), Sch. 7 (as amended (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/9) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)))
+[^c-63194a7a7695d4e7981411496deac81d]: Modification: Act modified by The Insolvent Partnerships Order 1994 (S.I. 1994/2421), Sch. 7 (as amended (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/9) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)))
 
 [^M_C_a57a5486-92ec-4ca7-e996-7b000bf1c6cc]: Modification: Act applied (with modifications) (6.6.2013) by The Collective Investment in [Transferable Securities (Contractual Scheme) Regulations 2013 (S.I. 2013/1388)](https://www.legislation.gov.uk/uksi/2013/1388), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/245/schedule/2) (with [reg. 24](https://www.legislation.gov.uk/uksi/2011/245/regulation/24)) (as amended (7.4.2017) by The Deregulation Act 2015, the [Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [reg. 11(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/11/2); and (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [14](https://www.legislation.gov.uk/uksi/2018/208/regulation/14))
 
-[^key-e680cea6e5a1b36c4d1881f3bac9df9b]: Modification: Act modified by 1986 c. 46, s. 22H(4)(g) (as inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/3) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189)))
+[^c-e680cea6e5a1b36c4d1881f3bac9df9b]: Modification: Act modified by 1986 c. 46, s. 22H(4)(g) (as inserted (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [Sch. 4 para. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/4/paragraph/3) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189)))
 
-[^key-2148906c64610cfbba78a98fe88aebd9]: Modification: Act applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/166/2), [167(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/167/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/3) (with [regs. 168](https://www.legislation.gov.uk/uksi/2017/1212/regulation/168), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-2148906c64610cfbba78a98fe88aebd9]: Modification: Act applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [166(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/166/2), [167(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/167/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1212/schedule/2), [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1212/schedule/3) (with [regs. 168](https://www.legislation.gov.uk/uksi/2017/1212/regulation/168), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
-[^key-51f2b04eb34478c3dd24ec0a8d672d25]: Modification: Act modified by S.I. 2012/3013, Sch. 2 para. 34 (as inserted (4.7.2018) by [The Insolvency of Registered Providers of Social Housing Regulations 2018 (S.I. 2018/728)](https://www.legislation.gov.uk/uksi/2018/728), [regs. 1](https://www.legislation.gov.uk/uksi/2018/728/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2018/728/regulation/3/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/728/schedule/2))
+[^c-51f2b04eb34478c3dd24ec0a8d672d25]: Modification: Act modified by S.I. 2012/3013, Sch. 2 para. 34 (as inserted (4.7.2018) by [The Insolvency of Registered Providers of Social Housing Regulations 2018 (S.I. 2018/728)](https://www.legislation.gov.uk/uksi/2018/728), [regs. 1](https://www.legislation.gov.uk/uksi/2018/728/regulation/1), [3(6)](https://www.legislation.gov.uk/uksi/2018/728/regulation/3/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2018/728/schedule/2))
 
-[^key-b023890e1b3cb7a66be9c06821299678]: Modification: Act modified in part (5.7.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2016/22/schedule/5/paragraph/39) (with [Sch. 5 para. 40](https://www.legislation.gov.uk/ukpga/2016/22/schedule/5/paragraph/40)); [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/b)
+[^c-b023890e1b3cb7a66be9c06821299678]: Modification: Act modified in part (5.7.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 5 para. 39](https://www.legislation.gov.uk/ukpga/2016/22/schedule/5/paragraph/39) (with [Sch. 5 para. 40](https://www.legislation.gov.uk/ukpga/2016/22/schedule/5/paragraph/40)); [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/b)
 
-[^key-7f31900b32cd6c1e3e94df6258881b16]: Modification: Act: power to modify conferred (5.7.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 5 para. 45(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/5/paragraph/45/2); [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/b)
+[^c-7f31900b32cd6c1e3e94df6258881b16]: Modification: Act: power to modify conferred (5.7.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 5 para. 45(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/5/paragraph/45/2); [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/b)
 
-[^key-e4568cd692fbd75fb491c1a015bfde0d]: Modification: Act specified provisions applied (with modifications) (13.7.2018 for E.W.) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/5) (as amended by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), regs. 1(2), 6(a)(b) and [S.I. 2018/208](https://www.legislation.gov.uk/uksi/2018/208), regs. 1(3), 6(b)); [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
+[^c-e4568cd692fbd75fb491c1a015bfde0d]: Modification: Act specified provisions applied (with modifications) (13.7.2018 for E.W.) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/5) (as amended by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), regs. 1(2), 6(a)(b) and [S.I. 2018/208](https://www.legislation.gov.uk/uksi/2018/208), regs. 1(3), 6(b)); [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
 
-[^key-326cf7274293938f80ee8f0fca76013f]: Modification: Act power to modify or exclude conferred (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2017/19/section/6/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2017/19/section/6/3)[(4)](https://www.legislation.gov.uk/ukpga/2017/19/section/6/4), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-326cf7274293938f80ee8f0fca76013f]: Modification: Act power to modify or exclude conferred (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 6(2)(a)](https://www.legislation.gov.uk/ukpga/2017/19/section/6/2/a)[(3)](https://www.legislation.gov.uk/ukpga/2017/19/section/6/3)[(4)](https://www.legislation.gov.uk/ukpga/2017/19/section/6/4), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
 
-[^key-32b4bccf510a3a70aeaba6519a068822]: Modification: Act modified in part (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 4-6](https://www.legislation.gov.uk/uksi/2019/138/regulation/4) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/i))
+[^c-32b4bccf510a3a70aeaba6519a068822]: Modification: Act modified in part (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 4-6](https://www.legislation.gov.uk/uksi/2019/138/regulation/4) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(i)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/i))
 
-[^key-393d32de4a57c8d57a398cd0db9c39e7]: Modification: Act excluded (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.1), [4.10(2)](https://www.legislation.gov.uk/uksi/2018/1135/rule/4.10/2) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
+[^c-393d32de4a57c8d57a398cd0db9c39e7]: Modification: Act excluded (31.1.2019) by [The Education Administration Rules 2018 (S.I. 2018/1135)](https://www.legislation.gov.uk/uksi/2018/1135), [rules 1.1](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.1), [4.10(2)](https://www.legislation.gov.uk/uksi/2018/1135/rule/4.10/2) (with [rule 1.2](https://www.legislation.gov.uk/uksi/2018/1135/rule/1.2))
 
-[^key-275a343e34af0c2657ac4c5a62f45c4b]: Modification: Act applied in part (with modifications) (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2017/19/section/6/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2017/19/section/6/3), [9-12](https://www.legislation.gov.uk/ukpga/2017/19/section/9), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-275a343e34af0c2657ac4c5a62f45c4b]: Modification: Act applied in part (with modifications) (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 6(2)(b)](https://www.legislation.gov.uk/ukpga/2017/19/section/6/2/b)[(3)](https://www.legislation.gov.uk/ukpga/2017/19/section/6/3), [9-12](https://www.legislation.gov.uk/ukpga/2017/19/section/9), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
 
-[^key-973ad099123cc60456515f4618713826]: Modification: Act applied (with modifications) (23.7.2019) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2019 (S.I. 2019/1058)](https://www.legislation.gov.uk/uksi/2019/1058), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1058/regulation/1), [14](https://www.legislation.gov.uk/uksi/2019/1058/regulation/14)
+[^c-973ad099123cc60456515f4618713826]: Modification: Act applied (with modifications) (23.7.2019) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2019 (S.I. 2019/1058)](https://www.legislation.gov.uk/uksi/2019/1058), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1058/regulation/1), [14](https://www.legislation.gov.uk/uksi/2019/1058/regulation/14)
 
-[^key-cc37fee843380e1d73f4490ad2fb53be]: Modification: Act modified (1.8.2020) by [The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020 (S.I. 2020/629)](https://www.legislation.gov.uk/uksi/2020/629), [rules 1](https://www.legislation.gov.uk/uksi/2020/629/rule/1), [3(2)-(4)](https://www.legislation.gov.uk/uksi/2020/629/rule/3/2) (with [rule 4(1)](https://www.legislation.gov.uk/uksi/2020/629/rule/4/1))
+[^c-cc37fee843380e1d73f4490ad2fb53be]: Modification: Act modified (1.8.2020) by [The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020 (S.I. 2020/629)](https://www.legislation.gov.uk/uksi/2020/629), [rules 1](https://www.legislation.gov.uk/uksi/2020/629/rule/1), [3(2)-(4)](https://www.legislation.gov.uk/uksi/2020/629/rule/3/2) (with [rule 4(1)](https://www.legislation.gov.uk/uksi/2020/629/rule/4/1))
 
-[^key-22cb132ce762c9974624f29b2076de0b]: Modification: Act modified (12.11.2021) by [The Payment and Electronic Money Institution Insolvency (England and Wales) Rules 2021 (S.I. 2021/1178)](https://www.legislation.gov.uk/uksi/2021/1178), [rules 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2), [295](https://www.legislation.gov.uk/uksi/2021/1178/rule/295)
+[^c-22cb132ce762c9974624f29b2076de0b]: Modification: Act modified (12.11.2021) by [The Payment and Electronic Money Institution Insolvency (England and Wales) Rules 2021 (S.I. 2021/1178)](https://www.legislation.gov.uk/uksi/2021/1178), [rules 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2), [295](https://www.legislation.gov.uk/uksi/2021/1178/rule/295)
 
-[^key-1ecc101c60feaf2bf9b03049bfe8654d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/45) modified (S.) (19.12.2022) by [The Payment and Electronic Money Institution Insolvency (Scotland) Rules 2022 (S.I. 2022/1239)](https://www.legislation.gov.uk/uksi/2022/1239), [rules 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2), [206](https://www.legislation.gov.uk/uksi/2022/1239/rule/206)
+[^c-1ecc101c60feaf2bf9b03049bfe8654d]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/45) modified (S.) (19.12.2022) by [The Payment and Electronic Money Institution Insolvency (Scotland) Rules 2022 (S.I. 2022/1239)](https://www.legislation.gov.uk/uksi/2022/1239), [rules 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2), [206](https://www.legislation.gov.uk/uksi/2022/1239/rule/206)
 
-[^key-a7a1dc7c488ab3525efafd572e84a783]: Modification: Act: power to apply (with modifications) conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
+[^c-a7a1dc7c488ab3525efafd572e84a783]: Modification: Act: power to apply (with modifications) conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
 
-[^key-6a0ed31ba273797bfb83175a22e1fad4]: Modification: Act: power to apply and modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 48](https://www.legislation.gov.uk/ukpga/2023/52/section/48), [334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-6a0ed31ba273797bfb83175a22e1fad4]: Modification: Act: power to apply and modify conferred (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 48](https://www.legislation.gov.uk/ukpga/2023/52/section/48), [334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
 
-[^key-df81a4d790a79d05a5590eb9fabc4a7e]: Modification: Act: power to modify conferred (1.10.2010 for specified purposes, 12.1.2024 in so far as not already in force) by [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56), [s. 23(2E)-(2G)](https://www.legislation.gov.uk/ukpga/1991/56/section/23/2E) (as inserted by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/3) (with [s. 49(1)(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule); [S.I. 2024/35](https://www.legislation.gov.uk/uksi/2024/35), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/35/article/2/b))
+[^c-df81a4d790a79d05a5590eb9fabc4a7e]: Modification: Act: power to modify conferred (1.10.2010 for specified purposes, 12.1.2024 in so far as not already in force) by [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56), [s. 23(2E)-(2G)](https://www.legislation.gov.uk/ukpga/1991/56/section/23/2E) (as inserted by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/3) (with [s. 49(1)(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule); [S.I. 2024/35](https://www.legislation.gov.uk/uksi/2024/35), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/35/article/2/b))
 
-[^key-99220425e6bdb495d3dbda13978f23cb]: Modification: Pt. A1 excluded by S.I. 2012/3013, Sch. 1 para. 1(2A) (as inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 49(4)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/49/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)))
+[^c-99220425e6bdb495d3dbda13978f23cb]: Modification: Pt. A1 excluded by S.I. 2012/3013, Sch. 1 para. 1(2A) (as inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 49(4)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/49/4) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)))
 
-[^key-b168149832b87adac18625a11a94c790]: Modification: Pt. A1 power to apply (with modifications) conferred by 2011 c. 25, s. 247A (as inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 45](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/45) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)))
+[^c-b168149832b87adac18625a11a94c790]: Modification: Pt. A1 power to apply (with modifications) conferred by 2011 c. 25, s. 247A (as inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 45](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/45) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)))
 
-[^key-9cd9e3957c6f6972a71d665e29f2aacd]: Modification: Pt. A1 applied (with modifications) by S.I. 2014/229, art. 2(A1), Sch. 1 para. 1(2), Pt. 1A (as inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/7/b), [7(b)](https://www.legislation.gov.uk/uksi/2020/744/article/7/b), [11(b)(c)](https://www.legislation.gov.uk/uksi/2020/744/article/11/b))
+[^c-9cd9e3957c6f6972a71d665e29f2aacd]: Modification: Pt. A1 applied (with modifications) by S.I. 2014/229, art. 2(A1), Sch. 1 para. 1(2), Pt. 1A (as inserted (18.7.2020) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/7/b), [7(b)](https://www.legislation.gov.uk/uksi/2020/744/article/7/b), [11(b)(c)](https://www.legislation.gov.uk/uksi/2020/744/article/11/b))
 
-[^key-ef42d53a7540b5e96a5b4f06f0f466a7]: Modification: Pt. A1 applied (with modifications) (E.W.S.) (3.9.2020) by [The Insolvency (Moratorium) (Special Administration for Energy Licensees) Regulations 2020 (S.I. 2020/943)](https://www.legislation.gov.uk/uksi/2020/943), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/943/regulation/1/2), [2-10](https://www.legislation.gov.uk/uksi/2020/943/regulation/2)
+[^c-ef42d53a7540b5e96a5b4f06f0f466a7]: Modification: Pt. A1 applied (with modifications) (E.W.S.) (3.9.2020) by [The Insolvency (Moratorium) (Special Administration for Energy Licensees) Regulations 2020 (S.I. 2020/943)](https://www.legislation.gov.uk/uksi/2020/943), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/943/regulation/1/2), [2-10](https://www.legislation.gov.uk/uksi/2020/943/regulation/2)
 
-[^key-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-2d593eae2f3cccb39a2961eef842bf2c]: Textual amendment: Pt. A1 inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/1/1), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-d6b511ec96d2558b7e33ee715fe5b815]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1986/45/part/1) applied (with modifications) (1.12.1994) by [The Insolvent Partnerships Order 1994 (S.I. 1994/2421)](https://www.legislation.gov.uk/uksi/1994/2421), [arts. 4(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/4/1), [5(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/5/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/2421/schedule/1) (as amended (1.1.2003) by [S.I. 2002/2708](https://www.legislation.gov.uk/uksi/2002/2708), [arts. 4-6](https://www.legislation.gov.uk/uksi/2002/2708/article/4) (with transitional provisions in [art. 11](https://www.legislation.gov.uk/uksi/2002/2708/article/11)); (1.7.2005) by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516), [art. 6](https://www.legislation.gov.uk/uksi/2005/1516/article/6); (1.4.2013) by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/11/a); (1.1.2015) by [S.I. 2014/3486](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [12](https://www.legislation.gov.uk/uksi/2014/3486/article/12) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3)); (6.4.2017) by [S.I. 2017/540](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)); (19.12.2018) by [S.I. 2018/1244](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/18/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))); and (28.12.2020) (temp.) by [S.I. 2020/1350](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/4), [121(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/121/2))
+[^c-d6b511ec96d2558b7e33ee715fe5b815]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1986/45/part/1) applied (with modifications) (1.12.1994) by [The Insolvent Partnerships Order 1994 (S.I. 1994/2421)](https://www.legislation.gov.uk/uksi/1994/2421), [arts. 4(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/4/1), [5(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/5/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1994/2421/schedule/1) (as amended (1.1.2003) by [S.I. 2002/2708](https://www.legislation.gov.uk/uksi/2002/2708), [arts. 4-6](https://www.legislation.gov.uk/uksi/2002/2708/article/4) (with transitional provisions in [art. 11](https://www.legislation.gov.uk/uksi/2002/2708/article/11)); (1.7.2005) by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516), [art. 6](https://www.legislation.gov.uk/uksi/2005/1516/article/6); (1.4.2013) by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 11(a)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/11/a); (1.1.2015) by [S.I. 2014/3486](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [12](https://www.legislation.gov.uk/uksi/2014/3486/article/12) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3)); (6.4.2017) by [S.I. 2017/540](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)); (19.12.2018) by [S.I. 2018/1244](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [18(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/18/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))); and (28.12.2020) (temp.) by [S.I. 2020/1350](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/4), [121(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/121/2))
 
 [^c15568761]: Modification: Pt. 1 (ss. 1-7), Pt. 2 (ss. 8-27) modified by [Company Directors Disqualification Act 1986 (c. 46, SIF 27)](https://www.legislation.gov.uk/ukpga/1986/46), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/1986/46/section/21/2), [25](https://www.legislation.gov.uk/ukpga/1986/46/section/25)
 
@@ -1654,13 +1654,13 @@ SCHEDULES
 
 [^M_C_ae03f829-7b0f-4bc2-d40e-01d4e876578e]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1986/45/part/1) applied (with modifications) (6.4.2014) by The Co-operative and [Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 (S.I. 2014/229)](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(1)](https://www.legislation.gov.uk/uksi/2014/229/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/229/schedule/1) (as renamed (1.8.2014) by [S.I. 2014/1815](https://www.legislation.gov.uk/uksi/2014/1815), [Sch. para 33](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/33); and as amended (1.8.2014) by [S.I. 2014/1822](https://www.legislation.gov.uk/uksi/2014/1822), [art. 5](https://www.legislation.gov.uk/uksi/2014/1822/article/5); (13.3.2018) by [S.I. 2018/208](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [15(3)(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/15/3/a); and (18.7.2020) by [S.I. 2020/744](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [11](https://www.legislation.gov.uk/uksi/2020/744/article/11))
 
-[^key-e6cd92f1d794843f01a1def744205011]: Modification: Pt. 1 power to apply (with or without modifications) (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 118(1)](https://www.legislation.gov.uk/ukpga/2014/14/section/118/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/14/section/118/2), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-e6cd92f1d794843f01a1def744205011]: Modification: Pt. 1 power to apply (with or without modifications) (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 118(1)](https://www.legislation.gov.uk/ukpga/2014/14/section/118/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/14/section/118/2), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-d42c95f368c806f53e80c7334bd5b6c3]: Modification: [Pts. 1-4](https://www.legislation.gov.uk/ukpga/1986/45/part/1) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-d42c95f368c806f53e80c7334bd5b6c3]: Modification: [Pts. 1-4](https://www.legislation.gov.uk/ukpga/1986/45/part/1) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-fbf551a7846957746fcd303028b358d6]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1986/45/part/1) applied (with modifications) (E.W.S) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [regs. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [44](https://www.legislation.gov.uk/uksi/2021/716/regulation/44) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [18](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18))
+[^c-fbf551a7846957746fcd303028b358d6]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/1986/45/part/1) applied (with modifications) (E.W.S) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [regs. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [44](https://www.legislation.gov.uk/uksi/2021/716/regulation/44) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [18](https://www.legislation.gov.uk/uksi/2023/1399/regulation/18))
 
-[^key-d1f6cd3e667c61161626d49e1528a740]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1986/45/part/2) (including Sch. B1) applied (with modifications) (1.12.1994) by [The Insolvent Partnerships Order 1994 (S.I. 1994/2421)](https://www.legislation.gov.uk/uksi/1994/2421), [art. 6(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/6/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/2421/schedule/2) (as amended (1.7.2005) by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516), [art. 7](https://www.legislation.gov.uk/uksi/2005/1516/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1516/schedule/1); (1.4.2013) by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/11/b)); (1.1.2015) by [S.I. 2014/3486](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [13](https://www.legislation.gov.uk/uksi/2014/3486/article/13) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3)); (6.4.2017) by [S.I. 2017/540](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)); (19.12.2018) by [S.I. 2018/1244](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [19(2)(3)](https://www.legislation.gov.uk/uksi/2018/1244/article/19/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))); and (28.12.2020) (temp.) by [S.I. 2020/1350](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/4), [121(3)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/121/3))
+[^c-d1f6cd3e667c61161626d49e1528a740]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1986/45/part/2) (including Sch. B1) applied (with modifications) (1.12.1994) by [The Insolvent Partnerships Order 1994 (S.I. 1994/2421)](https://www.legislation.gov.uk/uksi/1994/2421), [art. 6(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/6/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1994/2421/schedule/2) (as amended (1.7.2005) by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516), [art. 7](https://www.legislation.gov.uk/uksi/2005/1516/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1516/schedule/1); (1.4.2013) by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 11(b)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/11/b)); (1.1.2015) by [S.I. 2014/3486](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [13](https://www.legislation.gov.uk/uksi/2014/3486/article/13) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3)); (6.4.2017) by [S.I. 2017/540](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/6) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4)); (19.12.2018) by [S.I. 2018/1244](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [19(2)(3)](https://www.legislation.gov.uk/uksi/2018/1244/article/19/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))); and (28.12.2020) (temp.) by [S.I. 2020/1350](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/4), [121(3)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/121/3))
 
 [^c18985671]: Modification: Pts. 1, 2 modified by [Company Directors Disqualification Act 1986 (c. 46)](https://www.legislation.gov.uk/ukpga/1986/46), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/1986/46/section/21/2), [25](https://www.legislation.gov.uk/ukpga/1986/46/section/25)
 
@@ -1674,9 +1674,9 @@ SCHEDULES
 
 [^M_C_af08348e-5511-4f1f-e28e-2f33993b36ac]: Modification: [Pts. 1-4](https://www.legislation.gov.uk/ukpga/1986/45/part/1) applied (with modifications) in part (E.W.) (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [Sch. para. 1(2)(a)(3)-(7)](https://www.legislation.gov.uk/uksi/2012/3013/schedule/paragraph/1/2/a/3) (as amended (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 49(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/49/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)); (7.7.2020) by [S.I. 2020/710](https://www.legislation.gov.uk/uksi/2020/710), [regs. 1](https://www.legislation.gov.uk/uksi/2020/710/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/710/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2020/710/regulation/6)) (which affecting legislation is revoked and this amendment reversed (13.8.2020) by [S.I. 2020/856](https://www.legislation.gov.uk/uksi/2020/856), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/856/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/856/regulation/2)); and (13.8.2020 immediately after the coming into force of [S.I. 2020/856](https://www.legislation.gov.uk/uksi/2020/856), [reg. 2](https://www.legislation.gov.uk/uksi/2020/856/regulation/2)) by [S.I. 2020/856](https://www.legislation.gov.uk/uksi/2020/856), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/856/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2020/856/regulation/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/856/regulation/7)))
 
-[^key-4c0afa2c806fb7e35b014f535b2b2b7c]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1986/45/part/2) (including Sch. B1) applied (with modifications) (6.4.2014) by The Co-operative and [Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 (S.I. 2014/229)](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/229/schedule/1) (as renamed (1.8.2014) by [S.I. 2014/1815](https://www.legislation.gov.uk/uksi/2014/1815), [Sch. para 33](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/33); and as amended (1.8.2014) by [S.I. 2014/1822](https://www.legislation.gov.uk/uksi/2014/1822), [art. 5](https://www.legislation.gov.uk/uksi/2014/1822/article/5); and (13.3.2018) by [S.I. 2018/208](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [15(3)(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/15/3/b))
+[^c-4c0afa2c806fb7e35b014f535b2b2b7c]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1986/45/part/2) (including Sch. B1) applied (with modifications) (6.4.2014) by The Co-operative and [Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 (S.I. 2014/229)](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(2)](https://www.legislation.gov.uk/uksi/2014/229/article/2/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2014/229/schedule/1) (as renamed (1.8.2014) by [S.I. 2014/1815](https://www.legislation.gov.uk/uksi/2014/1815), [Sch. para 33](https://www.legislation.gov.uk/uksi/2014/1815/schedule/paragraph/33); and as amended (1.8.2014) by [S.I. 2014/1822](https://www.legislation.gov.uk/uksi/2014/1822), [art. 5](https://www.legislation.gov.uk/uksi/2014/1822/article/5); and (13.3.2018) by [S.I. 2018/208](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [15(3)(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/15/3/b))
 
-[^key-afa087edcc4f8e60277a886d45166814]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1986/45/part/2): power to apply (with modifications) conferred (20.7.2001) by [Financial Services and Markets Act 2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8), [s. 360](https://www.legislation.gov.uk/ukpga/2000/8/section/360) (as amended (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/1/2)); [S.I. 2001/2632](https://www.legislation.gov.uk/uksi/2001/2632), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/2632/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2001/2632/schedule/part/1)
+[^c-afa087edcc4f8e60277a886d45166814]: Modification: [Pt. 2](https://www.legislation.gov.uk/ukpga/1986/45/part/2): power to apply (with modifications) conferred (20.7.2001) by [Financial Services and Markets Act 2000 (c. 8)](https://www.legislation.gov.uk/ukpga/2000/8), [s. 360](https://www.legislation.gov.uk/ukpga/2000/8/section/360) (as amended (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/e), [Sch. 12 para. 1(2)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/12/paragraph/1/2)); [S.I. 2001/2632](https://www.legislation.gov.uk/uksi/2001/2632), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/2632/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2001/2632/schedule/part/1)
 
 [^c18955611]: Textual amendment: Pt. 2 (s. 8) substituted (15.9.2003) for Pt. 2 (ss. 8-27) by [Enterprise Act 2002 (c. 40)](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 248(1)](https://www.legislation.gov.uk/ukpga/2002/40/section/248/1), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279) (with savings for special administration regimes in [s. 249(1)-(3)](https://www.legislation.gov.uk/ukpga/2002/40/section/249/1)([6](https://www.legislation.gov.uk/ukpga/2002/40/section/6)) and further savings in [S.I. 2003/2093, art. 3](https://www.legislation.gov.uk/uksi/2003/2093/article/3)); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (subject to [arts. 3-8](https://www.legislation.gov.uk/uksi/2003/2093/article/3) (as amended by [S.I. 2003/2332](https://www.legislation.gov.uk/uksi/2003/2332), [art. 2](https://www.legislation.gov.uk/uksi/2003/2332/article/2))).
 
@@ -1694,7 +1694,7 @@ SCHEDULES
 
 [^M_C_650ced0e-4d41-429c-b2c7-febea8ba9c23]: Modification: [Pts. 1-4](https://www.legislation.gov.uk/ukpga/1986/45/part/1) applied in part (with modifications) (E.W.) (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [Sch. para. 1(2)(a)(3)-(7)](https://www.legislation.gov.uk/uksi/2012/3013/schedule/paragraph/1/2/a/3) (as amended (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 49(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/49/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)); (7.7.2020) by [S.I. 2020/710](https://www.legislation.gov.uk/uksi/2020/710), [regs. 1](https://www.legislation.gov.uk/uksi/2020/710/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/710/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2020/710/regulation/6)) (which affecting legislation is revoked and this amendment reversed (13.8.2020) by [S.I. 2020/85](https://www.legislation.gov.uk/uksi/2020/85)), regs. 1(2), 2); and (13.8.2020 immediately after the coming into force of [S.I. 2020/856](https://www.legislation.gov.uk/uksi/2020/856), [reg. 2](https://www.legislation.gov.uk/uksi/2020/856/regulation/2)) by [S.I. 2020/856](https://www.legislation.gov.uk/uksi/2020/856), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/856/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2020/856/regulation/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/856/regulation/7)))
 
-[^key-401abb0891a74a2a7ab21bb68783ee1a]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1986/45/part/3) applied (with modifications) by [Building Societies Act 1986 (1986 c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15A Pt. 2](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15A/part/2) (as amended (28.6.2016) by [S.I. 2016/679](https://www.legislation.gov.uk/uksi/2016/679), [art. 1(1)(4)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1/4), [4(2)(3)](https://www.legislation.gov.uk/uksi/2016/679/article/4/2/3); and (13.3.2018) by [S.I. 2018/208](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/2/3))
+[^c-401abb0891a74a2a7ab21bb68783ee1a]: Modification: [Pt. 3](https://www.legislation.gov.uk/ukpga/1986/45/part/3) applied (with modifications) by [Building Societies Act 1986 (1986 c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15A Pt. 2](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15A/part/2) (as amended (28.6.2016) by [S.I. 2016/679](https://www.legislation.gov.uk/uksi/2016/679), [art. 1(1)(4)](https://www.legislation.gov.uk/uksi/2016/679/article/1/1/4), [4(2)(3)](https://www.legislation.gov.uk/uksi/2016/679/article/4/2/3); and (13.3.2018) by [S.I. 2018/208](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/2/3))
 
 [^c15570731]: Modification: Pt. III Chapter 1 (ss. 28-49) applied (with modifications) (1.12.1997) by [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15A](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15A) (as inserted by [1997 c. 32](https://www.legislation.gov.uk/ukpga/1997/32), [s. 39(2)](https://www.legislation.gov.uk/ukpga/1997/32/section/39/2), [Sch. 6 para. 1(2)(a)](https://www.legislation.gov.uk/ukpga/1997/32/schedule/6/paragraph/1/2/a); [S.I. 1997/2668](https://www.legislation.gov.uk/uksi/1997/2668), [art. 2](https://www.legislation.gov.uk/uksi/1997/2668/article/2), [Sch. Pt. I(i)](https://www.legislation.gov.uk/uksi/1997/2668/schedule/part/I/i))
 
@@ -1724,7 +1724,7 @@ SCHEDULES
 
     Pt. 4 applied (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [art. 10(2)(3)(6)](https://www.legislation.gov.uk/uksi/1994/2421/article/10/2/3/6), [Sch. 4 Pt. II](https://www.legislation.gov.uk/uksi/1994/2421/schedule/4/part/II), [Sch. 7](https://www.legislation.gov.uk/uksi/1994/2421/schedule/7) (as amended (1.7.2005) by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516), [art. 5](https://www.legislation.gov.uk/uksi/2005/1516/article/5))
 
-[^key-2113a5fcda6811205680f4755957dc8c]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1986/45/part/4) applied (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [art. 10(2)(3)(6)](https://www.legislation.gov.uk/uksi/1994/2421/article/10/2/3/6), [Sch. 4 Pt. II](https://www.legislation.gov.uk/uksi/1994/2421/schedule/4/part/II), [Sch. 7](https://www.legislation.gov.uk/uksi/1994/2421/schedule/7) (as amended (1.7.2005) by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516), [art. 5](https://www.legislation.gov.uk/uksi/2005/1516/article/5) and (1.1.2015) by [S.I. 2014/3486](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [14](https://www.legislation.gov.uk/uksi/2014/3486/article/14) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3)))
+[^c-2113a5fcda6811205680f4755957dc8c]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1986/45/part/4) applied (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [art. 10(2)(3)(6)](https://www.legislation.gov.uk/uksi/1994/2421/article/10/2/3/6), [Sch. 4 Pt. II](https://www.legislation.gov.uk/uksi/1994/2421/schedule/4/part/II), [Sch. 7](https://www.legislation.gov.uk/uksi/1994/2421/schedule/7) (as amended (1.7.2005) by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516), [art. 5](https://www.legislation.gov.uk/uksi/2005/1516/article/5) and (1.1.2015) by [S.I. 2014/3486](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [14](https://www.legislation.gov.uk/uksi/2014/3486/article/14) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3)))
 
 [^c15571491]: Modification: Pt. 4: power to apply or incorporate conferred (6.4.2001) by [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12), [s. 14(1)](https://www.legislation.gov.uk/ukpga/2000/12/section/14/1); [S.I. 2000/3316](https://www.legislation.gov.uk/uksi/2000/3316), [art. 2](https://www.legislation.gov.uk/uksi/2000/3316/article/2)
 
@@ -1740,19 +1740,19 @@ SCHEDULES
 
 [^M_C_32f5bf81-15ef-4533-d14d-1ef786a781b2]: Modification: [Pts. 1-4](https://www.legislation.gov.uk/ukpga/1986/45/part/1) applied (with modifications) in part (E.W.) (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2012/3013/schedule/paragraph/1) (as amended (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 49(3)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/49/3) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2)); (7.7.2020) by [S.I. 2020/710](https://www.legislation.gov.uk/uksi/2020/710), [regs. 1](https://www.legislation.gov.uk/uksi/2020/710/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/710/regulation/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2020/710/regulation/6)) (which affecting legislation is revoked and this amendment reversed (13.8.2020) by [S.I. 2020/856](https://www.legislation.gov.uk/uksi/2020/856), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/856/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/856/regulation/2)); and (13.8.2020 immediately after the coming into force of [S.I. 2020/856](https://www.legislation.gov.uk/uksi/2020/856), [reg. 2](https://www.legislation.gov.uk/uksi/2020/856/regulation/2)) by [S.I. 2020/856](https://www.legislation.gov.uk/uksi/2020/856), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/856/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2020/856/regulation/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/856/regulation/7)))
 
-[^key-03caff2bb12bf9923001b29c18763f48]: Modification: Pt. 4 applied (with modifications) (S.) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4](https://www.legislation.gov.uk/ssi/2001/128/regulation/4), [Schs. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2), [3](https://www.legislation.gov.uk/ssi/2001/128/schedule/3)) (as modified) (temp.) (retrospective to 27.4.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 10 paras. 8(1)(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/8/1/2), [14](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/14) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-03caff2bb12bf9923001b29c18763f48]: Modification: Pt. 4 applied (with modifications) (S.) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4](https://www.legislation.gov.uk/ssi/2001/128/regulation/4), [Schs. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2), [3](https://www.legislation.gov.uk/ssi/2001/128/schedule/3)) (as modified) (temp.) (retrospective to 27.4.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [Sch. 10 paras. 8(1)(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/8/1/2), [14](https://www.legislation.gov.uk/ukpga/2020/12/schedule/10/paragraph/14) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-c39bff8b27ad7d97b0eadf50dee5dcba]: Modification: Pt. 4 modified (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 12](https://www.legislation.gov.uk/ukpga/2020/12/section/12), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-c39bff8b27ad7d97b0eadf50dee5dcba]: Modification: Pt. 4 modified (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 12](https://www.legislation.gov.uk/ukpga/2020/12/section/12), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-05141083f26d8823799fb33a4bcc129c]: Modification: Pt. 4 Ch. 1 excluded (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2019/138/regulation/9) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))
+[^c-05141083f26d8823799fb33a4bcc129c]: Modification: Pt. 4 Ch. 1 excluded (E.W.) (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2019/138/regulation/9) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(a)(ii)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/a/ii))
 
 [^c20448291]: Textual amendment: S. 73 and cross-heading substituted (1.10.2009) by The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009, ([S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941)) arts. 2(1), 8, {Sch. 1 para. 75(2)} (with art. 10, Sch. 1 para. 84)
 
-[^key-b6ec65f3764ba6aa5363dc0805a1d678]: Modification: Pt. 4 Ch. 3 applied (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [169(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/169/2) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-b6ec65f3764ba6aa5363dc0805a1d678]: Modification: Pt. 4 Ch. 3 applied (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [169(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/169/2) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
-[^key-5ace08d8b9b0e7d617b59018518fa938]: Textual amendment: S. 174A and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/13) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-5ace08d8b9b0e7d617b59018518fa938]: Textual amendment: S. 174A and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2020/12/schedule/3/paragraph/13) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-a358b79fc629fefb2eb80efda576d319]: Textual amendment: S. 176AZA and cross-heading inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [6](https://www.legislation.gov.uk/uksi/2018/1244/article/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
+[^c-a358b79fc629fefb2eb80efda576d319]: Textual amendment: S. 176AZA and cross-heading inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [6](https://www.legislation.gov.uk/uksi/2018/1244/article/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
 
 [^c18371941]: Textual amendment: S. 176A and preceding cross-heading inserted (15.9.2003) by [2002 c. 40](https://www.legislation.gov.uk/ukpga/2002/40), [ss. 252](https://www.legislation.gov.uk/ukpga/2002/40/section/252), [279](https://www.legislation.gov.uk/ukpga/2002/40/section/279) (with [s. 249(6)](https://www.legislation.gov.uk/ukpga/2002/40/section/249/6)); [S.I. 2003/2093](https://www.legislation.gov.uk/uksi/2003/2093), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/2093/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2093/schedule/1) (subject to [arts. 3-8](https://www.legislation.gov.uk/uksi/2003/2093/article/3) (as amended by [S.I. 2002/2332](https://www.legislation.gov.uk/uksi/2002/2332), [art. 2](https://www.legislation.gov.uk/uksi/2002/2332/article/2)))
 
@@ -1816,23 +1816,23 @@ SCHEDULES
 
 [^M_C_90caaf35-8b13-40cc-e78e-09871a737088]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/1986/45/part/6) applied (with modifications) (6.4.2014) by [The Industrial and Provident Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 (S.I. 2014/229)](https://www.legislation.gov.uk/uksi/2014/229), [arts. 1](https://www.legislation.gov.uk/uksi/2014/229/article/1), [4(a)](https://www.legislation.gov.uk/uksi/2014/229/article/4/a), [Sch. 3](https://www.legislation.gov.uk/uksi/2014/229/schedule/3) (as amended (13.3.2018) by [S.I. 2018/208](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [15(4)(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/15/4/a); (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2020/12/schedule/12/paragraph/8) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [14(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/4)); and (18.7.2020) by [S.I. 2020/744](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [8](https://www.legislation.gov.uk/uksi/2020/744/article/8))
 
-[^key-02f08ee12d62f45e8fc28e5e2eeee692]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/1986/45/part/6) applied (with modifications) (S.) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4](https://www.legislation.gov.uk/ssi/2001/128/regulation/4), [Schs. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2), [3](https://www.legislation.gov.uk/ssi/2001/128/schedule/3) (as amended (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2020/12/schedule/12/paragraph/7) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [14(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/4)))
+[^c-02f08ee12d62f45e8fc28e5e2eeee692]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/1986/45/part/6) applied (with modifications) (S.) by [S.S.I. 2001/128](https://www.legislation.gov.uk/ssi/2001/128), [reg. 4](https://www.legislation.gov.uk/ssi/2001/128/regulation/4), [Schs. 2](https://www.legislation.gov.uk/ssi/2001/128/schedule/2), [3](https://www.legislation.gov.uk/ssi/2001/128/schedule/3) (as amended (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2020/12/schedule/12/paragraph/7) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2), [14(4)](https://www.legislation.gov.uk/ukpga/2020/12/section/14/4)))
 
-[^key-71417d6eab03f1cf1d383a06efb730ed]: Modification: Pt. 6 modified (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 12](https://www.legislation.gov.uk/ukpga/2020/12/section/12), [15](https://www.legislation.gov.uk/ukpga/2020/12/section/15), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-71417d6eab03f1cf1d383a06efb730ed]: Modification: Pt. 6 modified (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [ss. 12](https://www.legislation.gov.uk/ukpga/2020/12/section/12), [15](https://www.legislation.gov.uk/ukpga/2020/12/section/15), [49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-788371096f8da5425d0cd572175725cd]: Modification: Pt. 6 applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-788371096f8da5425d0cd572175725cd]: Modification: Pt. 6 applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-e9e7f71ebeed0323e65ad230fae8beb3]: Textual amendment: [Pt. VI](https://www.legislation.gov.uk/ukpga/1986/45/part/VI) amendment to earlier affecting provision S.I. 2021/716, reg. 5 (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)
+[^c-e9e7f71ebeed0323e65ad230fae8beb3]: Textual amendment: [Pt. VI](https://www.legislation.gov.uk/ukpga/1986/45/part/VI) amendment to earlier affecting provision S.I. 2021/716, reg. 5 (4.1.2024) by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)
 
-[^key-e06d97917dfbc77360d0ca4913ed0ca5]: Textual amendment: Ss. 246ZA-246ZC and cross-heading inserted (1.10.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/117/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/j) (with [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/15))
+[^c-e06d97917dfbc77360d0ca4913ed0ca5]: Textual amendment: Ss. 246ZA-246ZC and cross-heading inserted (1.10.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/117/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/j) (with [Sch. para. 15](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/15))
 
-[^key-53906134beb8ba8f11196eb3f9a76eff]: Textual amendment: S. 246ZD and cross-heading inserted (1.10.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 118](https://www.legislation.gov.uk/ukpga/2015/26/section/118), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/j) (with [Sch. para. 16](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/16))
+[^c-53906134beb8ba8f11196eb3f9a76eff]: Textual amendment: S. 246ZD and cross-heading inserted (1.10.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 118](https://www.legislation.gov.uk/ukpga/2015/26/section/118), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/2/j) (with [Sch. para. 16](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/16))
 
-[^key-37256fa3481a9e7af7c88bd213b9ae82]: Textual amendment: Ss. 246ZE-246ZG and cross-heading inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force, 6.4.2019 for S. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 122(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/122/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3); [S.I. 2019/816](https://www.legislation.gov.uk/uksi/2019/816), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2019/816/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/816/regulation/5))
+[^c-37256fa3481a9e7af7c88bd213b9ae82]: Textual amendment: Ss. 246ZE-246ZG and cross-heading inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force, 6.4.2019 for S. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 122(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/122/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3); [S.I. 2019/816](https://www.legislation.gov.uk/uksi/2019/816), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2019/816/regulation/4/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/816/regulation/5))
 
 [^c21415971]: Textual amendment: Ss. 246A, 246B and cross-headings inserted (6.4.2010) by [The Legislative Reform (Insolvency) (Miscellaneous Provisions) Order 2010 (S.I. 2010/18)](https://www.legislation.gov.uk/uksi/2010/18), [art. 3(1)](https://www.legislation.gov.uk/uksi/2010/18/article/3/1)
 
-[^key-7703aded73b30926f863f6c3ea572cc0]: Textual amendment: S. 246B cross-heading substituted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force, 6.4.2019 for S. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 124(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/124/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/c); [S.I. 2019/816](https://www.legislation.gov.uk/uksi/2019/816), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2019/816/regulation/4/b)
+[^c-7703aded73b30926f863f6c3ea572cc0]: Textual amendment: S. 246B cross-heading substituted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force, 6.4.2019 for S. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 124(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/124/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/c); [S.I. 2019/816](https://www.legislation.gov.uk/uksi/2019/816), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2019/816/regulation/4/b)
 
 [^c15576141]: Modification: Pts. 1–7 (ss. 1–251) applied (with modifications) by [S.I. 1989/1276](https://www.legislation.gov.uk/uksi/1989/1276), [arts. 2](https://www.legislation.gov.uk/uksi/1989/1276/article/2), [3](https://www.legislation.gov.uk/uksi/1989/1276/article/3)
 
@@ -1862,7 +1862,7 @@ SCHEDULES
 
 [^M_C_acf5e452-3170-426f-d553-51e4599e3215]: Modification: [Pt. 7](https://www.legislation.gov.uk/ukpga/1986/45/part/7) applied (with modifications) (6.4.2014) by [The Industrial and Provident Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 (S.I. 2014/229)](https://www.legislation.gov.uk/uksi/2014/229), [arts. 1](https://www.legislation.gov.uk/uksi/2014/229/article/1), [4(b)](https://www.legislation.gov.uk/uksi/2014/229/article/4/b), [Sch. 3](https://www.legislation.gov.uk/uksi/2014/229/schedule/3) (as amended (13.3.2018) by [S.I. 2018/208](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [15(4)(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/15/4/a); and (18.7.2020) by [S.I. 2020/744](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [8](https://www.legislation.gov.uk/uksi/2020/744/article/8))
 
-[^key-0db19e439973e128f06bfccbe627ec7d]: Modification: Pt. 7 applied (with modifications) (E.W.S.) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-0db19e439973e128f06bfccbe627ec7d]: Modification: Pt. 7 applied (with modifications) (E.W.S.) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
 [^c19737591]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/ukpga/1986/45/part/7A) inserted (24.2.2009 for certain purposes otherwise 6.4.2009) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 108(1)](https://www.legislation.gov.uk/ukpga/2007/15/section/108/1), [148(5)](https://www.legislation.gov.uk/ukpga/2007/15/section/148/5), [Sch. 17](https://www.legislation.gov.uk/ukpga/2007/15/schedule/17); [S.I. 2009/382](https://www.legislation.gov.uk/uksi/2009/382), [art. 2](https://www.legislation.gov.uk/uksi/2009/382/article/2)
 
@@ -1880,9 +1880,9 @@ SCHEDULES
 
 [^c15576531]: Textual amendment: Cross-heading preceding s. 256A, s. 256A and cross-heading before s. 257 inserted (1.1.2003) by [2000 c. 39](https://www.legislation.gov.uk/ukpga/2000/39), [s. 3](https://www.legislation.gov.uk/ukpga/2000/39/section/3), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2000/39/schedule/3/paragraph/7); [S.I. 2002/2711](https://www.legislation.gov.uk/uksi/2002/2711), [art. 2](https://www.legislation.gov.uk/uksi/2002/2711/article/2) (subject to transitional provisions in [arts. 3-5](https://www.legislation.gov.uk/uksi/2002/2711/article/3))
 
-[^key-da95346e18737b6e0fb7cd7b329c4b57]: Textual amendment: Word in s. 257 cross-heading substituted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 9 para. 63](https://www.legislation.gov.uk/ukpga/2015/26/schedule/9/paragraph/63); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3)
+[^c-da95346e18737b6e0fb7cd7b329c4b57]: Textual amendment: Word in s. 257 cross-heading substituted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 9 para. 63](https://www.legislation.gov.uk/ukpga/2015/26/schedule/9/paragraph/63); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3)
 
-[^key-911319c8e422e2f8af20e7947bace390]: Textual amendment: S. 263A-263G and crossheading omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/1), [164(3)(i)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/iv) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/4))
+[^c-911319c8e422e2f8af20e7947bace390]: Textual amendment: S. 263A-263G and crossheading omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/1), [164(3)(i)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/iv) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/4))
 
 [^c15576971]: Modification: Pt. IX (ss. 264-371) excluded by [Drug Trafficking Offences Act 1986 (c. 32, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1986/32), [s. 15(1)(7)](https://www.legislation.gov.uk/ukpga/1986/32/section/15/1/7)
 
@@ -1894,7 +1894,7 @@ SCHEDULES
 
     Pt. IX (except ss. 273, 274, 287, 297) applied (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [art. 10(4)(5)(a)](https://www.legislation.gov.uk/uksi/1994/2421/article/10/4/5/a)
 
-[^key-486830d04c33982c3637dd1855a6cb05]: Modification: Pt. IX (except ss. 273, 274, 287) applied (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [art. 11(1)(2)(a)](https://www.legislation.gov.uk/uksi/1994/2421/article/11/1/2/a), [Sch. 7](https://www.legislation.gov.uk/uksi/1994/2421/schedule/7) (as amended (1.7.2005) by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516), [art. 10](https://www.legislation.gov.uk/uksi/2005/1516/article/10) and S.I. 1994/2421, Sch. 7 para. 21 (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [15](https://www.legislation.gov.uk/uksi/2014/3486/article/15) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3)))
+[^c-486830d04c33982c3637dd1855a6cb05]: Modification: Pt. IX (except ss. 273, 274, 287) applied (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [art. 11(1)(2)(a)](https://www.legislation.gov.uk/uksi/1994/2421/article/11/1/2/a), [Sch. 7](https://www.legislation.gov.uk/uksi/1994/2421/schedule/7) (as amended (1.7.2005) by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516), [art. 10](https://www.legislation.gov.uk/uksi/2005/1516/article/10) and S.I. 1994/2421, Sch. 7 para. 21 (1.1.2015) by [The Banks and Building Societies (Depositor Preference and Priorities) Order 2014 (S.I. 2014/3486)](https://www.legislation.gov.uk/uksi/2014/3486), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3486/article/1/2), [15](https://www.legislation.gov.uk/uksi/2014/3486/article/15) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/3486/article/3)))
 
 [^c15577001]: Modification: Pt. IX (ss. 264-371) modified (3.2.1995) by [1994 c. 37](https://www.legislation.gov.uk/ukpga/1994/37), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/1994/37/section/32/1), [69(2)](https://www.legislation.gov.uk/ukpga/1994/37/section/69/2), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/1994/37/schedule/2/paragraph/5) (with [s. 66(2)](https://www.legislation.gov.uk/ukpga/1994/37/section/66/2))
 
@@ -1912,13 +1912,13 @@ SCHEDULES
 
     Second Group of Parts (Pts. 8-11) modified (11.11.1999 for specified purposes and 6.4.2002 otherwise) by [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30), [s. 12(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/12/1); [S.I. 2002/153](https://www.legislation.gov.uk/uksi/2002/153), [art. 2(b)](https://www.legislation.gov.uk/uksi/2002/153/article/2/b)
 
-[^key-73e3d93eee3d37e67841e2c527526acb]: Textual amendment: Pt. 9 Ch. A1 inserted (25.4.2013 for specified purposes, 6.4.2016 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 18](https://www.legislation.gov.uk/ukpga/2013/24/schedule/18); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2)
+[^c-73e3d93eee3d37e67841e2c527526acb]: Textual amendment: Pt. 9 Ch. A1 inserted (25.4.2013 for specified purposes, 6.4.2016 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)[(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 18](https://www.legislation.gov.uk/ukpga/2013/24/schedule/18); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2)
 
-[^key-6bdbd944267570612fbff9c059cc2861]: Textual amendment: Pt. 9 Ch. 1 heading substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/5); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-6bdbd944267570612fbff9c059cc2861]: Textual amendment: Pt. 9 Ch. 1 heading substituted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 5](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/5); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
-[^key-b8fa83772a8129811898f35f265b6308]: Textual amendment: Ss. 272-274A and crossheading repealed (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 9(1)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/9/1); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3), [4](https://www.legislation.gov.uk/uksi/2016/191/article/4))
+[^c-b8fa83772a8129811898f35f265b6308]: Textual amendment: Ss. 272-274A and crossheading repealed (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 9(1)](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/9/1); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3), [4](https://www.legislation.gov.uk/uksi/2016/191/article/4))
 
-[^key-025f0dffbf3dc01e596f4549bab8bf11]: Textual amendment: Pt. 9 Ch. 1A heading substituted for s. 278 cross-heading (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 10](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/10); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
+[^c-025f0dffbf3dc01e596f4549bab8bf11]: Textual amendment: Pt. 9 Ch. 1A heading substituted for s. 278 cross-heading (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 19 para. 10](https://www.legislation.gov.uk/ukpga/2013/24/schedule/19/paragraph/10); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2016/191/article/3))
 
 [^c15580201]: Textual amendment: S. 335A and preceding cross-heading inserted (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(1)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/1), [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/1996/47/schedule/3/paragraph/23) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
@@ -1926,9 +1926,9 @@ SCHEDULES
 
     Second Group of Parts (Pts. 8-11) modified (11.11.1999 for specified purposes and 6.4.2002 otherwise) by [1999 c. 30](https://www.legislation.gov.uk/ukpga/1999/30), [s. 12(1)](https://www.legislation.gov.uk/ukpga/1999/30/section/12/1); [S.I. 2002/153](https://www.legislation.gov.uk/uksi/2002/153), [art. 2(b)](https://www.legislation.gov.uk/uksi/2002/153/article/2/b)
 
-[^key-e0c2a2277f34cd895d7942903028b4be]: Textual amendment: Ss. 379ZA-379ZC and cross-heading inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 123(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/123/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3)
+[^c-e0c2a2277f34cd895d7942903028b4be]: Textual amendment: Ss. 379ZA-379ZC and cross-heading inserted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 123(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/123/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3)
 
-[^key-f8c897c55862a766bebd5a32fe43723d]: Textual amendment: S. 379A and cross-heading omitted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 9 para. 88](https://www.legislation.gov.uk/ukpga/2015/26/schedule/9/paragraph/88); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3)
+[^c-f8c897c55862a766bebd5a32fe43723d]: Textual amendment: S. 379A and cross-heading omitted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 9 para. 88](https://www.legislation.gov.uk/ukpga/2015/26/schedule/9/paragraph/88); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/e) (with [reg. 5](https://www.legislation.gov.uk/uksi/2016/1020/regulation/5)) (as amended by [S.I. 2017/363](https://www.legislation.gov.uk/uksi/2017/363), reg. 3)
 
 [^M_F_035d239a-397f-48cb-a9f2-12c9d5314ca5]: Textual amendment: S. 379B cross-heading substituted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 125(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/125/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2016/1020/regulation/4/d)
 
@@ -1956,9 +1956,9 @@ SCHEDULES
 
 [^M_C_c1989892-d4be-4172-dbde-8b0ea3648ea8]: Modification: Pt. 12 applied (with modifications) by [1986 c. 53](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15A](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15A) (as amended (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/2/3))
 
-[^key-898ef976a1d86a7718178fb3c18a03df]: Modification: Third Group of Parts (Pts. 12-19) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
+[^c-898ef976a1d86a7718178fb3c18a03df]: Modification: Third Group of Parts (Pts. 12-19) applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2021/716/schedule/1/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-14b176b10ab76f3891c935f9691b8dcd]: Textual amendment: Words in Pt. 12 heading inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [10](https://www.legislation.gov.uk/uksi/2018/1244/article/10) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
+[^c-14b176b10ab76f3891c935f9691b8dcd]: Textual amendment: Words in Pt. 12 heading inserted (19.12.2018) by [The Banks and Building Societies (Priorities on Insolvency) Order 2018 (S.I. 2018/1244)](https://www.legislation.gov.uk/uksi/2018/1244), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1244/article/1/2), [10](https://www.legislation.gov.uk/uksi/2018/1244/article/10) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/1244/article/3))
 
 [^c15582661]: Modification: Pt. 13 (ss. 388-398) modified by [S.I. 1990/1392](https://www.legislation.gov.uk/uksi/1990/1392), [art. 7](https://www.legislation.gov.uk/uksi/1990/1392/article/7)
 
@@ -1976,21 +1976,21 @@ SCHEDULES
 
 [^M_C_a3983fea-e91b-4e4b-dc43-48c8ee45a348]: Modification: Pts. 12-19 applied (with modifications) (6.4.2014) by [The Industrial and Provident Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 (S.I. 2014/229)](https://www.legislation.gov.uk/uksi/2014/229), [arts. 1](https://www.legislation.gov.uk/uksi/2014/229/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2014/229/article/4/c), [Sch. 3](https://www.legislation.gov.uk/uksi/2014/229/schedule/3) (as amended (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [15(4)(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/15/4/b); and (18.7.2020) by The Co-operative and [Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [8](https://www.legislation.gov.uk/uksi/2020/744/article/8))
 
-[^key-27f6a4b363f4fc9f98dc9f53993285e5]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/1986/45/part/13) applied (with modifications) (7.4.2017) by [Building Societies Act 1986 (1986 c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15A](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15A) (as amended by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2017/400/regulation/2/4))
+[^c-27f6a4b363f4fc9f98dc9f53993285e5]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/1986/45/part/13) applied (with modifications) (7.4.2017) by [Building Societies Act 1986 (1986 c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15A](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15A) (as amended by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2017/400/regulation/2/4))
 
-[^key-67e84b3fde1253471739882cade02486]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/1986/45/part/13) applied (with modifications) (7.4.2017) by [Friendly Societies Act 1992 (1992 c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), [Sch. 10](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10) (as amended by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/400/regulation/3))
+[^c-67e84b3fde1253471739882cade02486]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/1986/45/part/13) applied (with modifications) (7.4.2017) by [Friendly Societies Act 1992 (1992 c. 40)](https://www.legislation.gov.uk/ukpga/1992/40), [Sch. 10](https://www.legislation.gov.uk/ukpga/1992/40/schedule/10) (as amended by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/400/regulation/3))
 
-[^key-53e23e5032b55114129bfd4243322aef]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/1986/45/part/13) applied (with modifications) (7.4.2017) by [Building Societies Act 1986 (1986 c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15) (as amended by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/400/regulation/2/3))
+[^c-53e23e5032b55114129bfd4243322aef]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/1986/45/part/13) applied (with modifications) (7.4.2017) by [Building Societies Act 1986 (1986 c. 53)](https://www.legislation.gov.uk/ukpga/1986/53), [Sch. 15](https://www.legislation.gov.uk/ukpga/1986/53/schedule/15) (as amended by [S.I. 2017/400](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2017/400/regulation/2/3))
 
-[^key-9047e00d22cb90485ed01619b37fdd4d]: Textual amendment: Ss. 391B, 391C and cross-heading inserted (1.10.2015 immediately after 2015 c. 20, s. 17 comes into force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 138(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/138/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
+[^c-9047e00d22cb90485ed01619b37fdd4d]: Textual amendment: Ss. 391B, 391C and cross-heading inserted (1.10.2015 immediately after 2015 c. 20, s. 17 comes into force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 138(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/138/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
 
-[^key-446c390a3968421d20751dbaa00208c7]: Textual amendment: [Ss. 391D-391K](https://www.legislation.gov.uk/ukpga/1986/45/section/391D) and cross-heading inserted (1.10.2015 immediately after [2015 c. 20](https://www.legislation.gov.uk/ukpga/2015/20), [s. 17](https://www.legislation.gov.uk/ukpga/2015/20/section/17) comes into force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 139(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/139/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
+[^c-446c390a3968421d20751dbaa00208c7]: Textual amendment: [Ss. 391D-391K](https://www.legislation.gov.uk/ukpga/1986/45/section/391D) and cross-heading inserted (1.10.2015 immediately after [2015 c. 20](https://www.legislation.gov.uk/ukpga/2015/20), [s. 17](https://www.legislation.gov.uk/ukpga/2015/20/section/17) comes into force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 139(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/139/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
 
-[^key-e58f86678a880d0792be82f0b2d1da4b]: Textual amendment: Ss. 391L-391N and cross-heading inserted (1.10.2015 immediately after 2015 c. 20, s. 17 comes into force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 140(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/140/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
+[^c-e58f86678a880d0792be82f0b2d1da4b]: Textual amendment: Ss. 391L-391N and cross-heading inserted (1.10.2015 immediately after 2015 c. 20, s. 17 comes into force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 140(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/140/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
 
-[^key-8365d3c5f66081496769b9bc76cac133]: Textual amendment: Ss. 391O-391R and cross-heading inserted (1.10.2015 immediately after 2015 c. 20, s. 17 comes into force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 141](https://www.legislation.gov.uk/ukpga/2015/26/section/141), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a) (with [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/18))
+[^c-8365d3c5f66081496769b9bc76cac133]: Textual amendment: Ss. 391O-391R and cross-heading inserted (1.10.2015 immediately after 2015 c. 20, s. 17 comes into force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 141](https://www.legislation.gov.uk/ukpga/2015/26/section/141), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a) (with [Sch. para. 18](https://www.legislation.gov.uk/uksi/2015/1689/schedule/paragraph/18))
 
-[^key-c3f2f053baa4edfea389a00eabe1acb6]: Textual amendment: S. 391S and cross-heading inserted (1.10.2015 immediately after 2015 c. 20, s. 17 comes into force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 142](https://www.legislation.gov.uk/ukpga/2015/26/section/142), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
+[^c-c3f2f053baa4edfea389a00eabe1acb6]: Textual amendment: S. 391S and cross-heading inserted (1.10.2015 immediately after 2015 c. 20, s. 17 comes into force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 142](https://www.legislation.gov.uk/ukpga/2015/26/section/142), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
 
 [^c15583601]: Modification: Pt. 14 (ss. 399-410) applied (with modifications) (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [arts. 8(4)(5)(8)(9)](https://www.legislation.gov.uk/uksi/1994/2421/article/8/4/5/8/9), [10(2)(3)(6)](https://www.legislation.gov.uk/uksi/1994/2421/article/10/2/3/6), [Sch. 4 Pt. II](https://www.legislation.gov.uk/uksi/1994/2421/schedule/4/part/II), [Sch. 7](https://www.legislation.gov.uk/uksi/1994/2421/schedule/7)
 
@@ -1998,7 +1998,7 @@ SCHEDULES
 
 [^M_C_9f42009a-0329-43d7-8cbe-2ef8772ff4d5]: Modification: Pts. 12-19 applied (with modifications) (6.4.2014) by [The Industrial and Provident Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 (S.I. 2014/229)](https://www.legislation.gov.uk/uksi/2014/229), [arts. 1](https://www.legislation.gov.uk/uksi/2014/229/article/1), [4(c)](https://www.legislation.gov.uk/uksi/2014/229/article/4/c), [Sch. 3](https://www.legislation.gov.uk/uksi/2014/229/schedule/3) (as amended (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [15(4)(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/15/4/b); and (18.7.2020) by The Co-operative and [Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [8](https://www.legislation.gov.uk/uksi/2020/744/article/8))
 
-[^key-dadbaf2482da3f5b0064711576f3b313]: Textual amendment: S. 398A and crossheading inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 71(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/71/1), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2)
+[^c-dadbaf2482da3f5b0064711576f3b313]: Textual amendment: S. 398A and crossheading inserted (6.4.2016) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 71(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/71/1), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2016/191](https://www.legislation.gov.uk/uksi/2016/191), [art. 2](https://www.legislation.gov.uk/uksi/2016/191/article/2)
 
 [^c15583901]: Modification: Pt. 15 (ss. 411-422) applied (with modifications) (1.12.1994) by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), [arts. 8(4)(5)(8)(9)](https://www.legislation.gov.uk/uksi/1994/2421/article/8/4/5/8/9), [10(2)(3)(6)](https://www.legislation.gov.uk/uksi/1994/2421/article/10/2/3/6), [Sch. 4 Pt. II](https://www.legislation.gov.uk/uksi/1994/2421/schedule/4/part/II), [Sch. 7](https://www.legislation.gov.uk/uksi/1994/2421/schedule/7)
 
@@ -2050,4 +2050,4 @@ SCHEDULES
 
 [^M_C_98302b8b-263a-46db-fd27-73a89fc6c6eb]: Modification: First Group of Parts (Pts. 1-7) applied (with modifications) (15.12.2006) by [The Banks (Former Authorised Institutions) (Insolvency) Order 2006 (S.I. 2006/3107)](https://www.legislation.gov.uk/uksi/2006/3107), [art. 3](https://www.legislation.gov.uk/uksi/2006/3107/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2006/3107/schedule) (as amended (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 117](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/117); and (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [11](https://www.legislation.gov.uk/uksi/2018/208/regulation/11))
 
-[^key-4d15c2dbcb9c2afbab220dee74e1123b]: Modification: Pts. 1-4 applied (with modifications) in part (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [Sch. paras. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3013/schedule/paragraph/1/2/a)[(3)-(7)](https://www.legislation.gov.uk/uksi/2012/3013/schedule/paragraph/1/3)
+[^c-4d15c2dbcb9c2afbab220dee74e1123b]: Modification: Pts. 1-4 applied (with modifications) in part (2.1.2013) by [The Charitable Incorporated Organisations (Insolvency and Dissolution) Regulations 2012 (S.I. 2012/3013)](https://www.legislation.gov.uk/uksi/2012/3013), [reg. 1](https://www.legislation.gov.uk/uksi/2012/3013/regulation/1), [Sch. paras. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/3013/schedule/paragraph/1/2/a)[(3)-(7)](https://www.legislation.gov.uk/uksi/2012/3013/schedule/paragraph/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Use of information[^key-35284092359d403b3c5bff4d0a6f864f]
+## 224. Use of information[^c-35284092359d403b3c5bff4d0a6f864f]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35284092359d403b3c5bff4d0a6f864f]: Commencement: S. 224 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)
+[^c-35284092359d403b3c5bff4d0a6f864f]: Commencement: S. 224 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 426. Revocations[^key-5ce37af3d9294342d3b7b71d19cac439]
+## 426. Revocations[^c-5ce37af3d9294342d3b7b71d19cac439]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The direct EU legislation listed in Schedule 2 (revocations) is revoked.
 
 ## Annotations
 
-[^key-5ce37af3d9294342d3b7b71d19cac439]: Commencement: Reg. 426 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5ce37af3d9294342d3b7b71d19cac439]: Commencement: Reg. 426 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

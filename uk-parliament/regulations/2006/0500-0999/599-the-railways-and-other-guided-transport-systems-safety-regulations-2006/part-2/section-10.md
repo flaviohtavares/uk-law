@@ -22,7 +22,7 @@ summary: ''
 
 (1) An application for a first safety authorisation in respect of infrastructure shall—
 
-- (a) be made to the Office of Rail and Road[^key-ce5678589bdf32c1932e3bad9480d6ea];
+- (a) be made to the Office of Rail and Road[^c-ce5678589bdf32c1932e3bad9480d6ea];
 - (b) subject to regulation 17(1) and (2), set out particulars of—
   - (i) the infrastructure in question;
   - (ii) how the safety management system of the applicant meets the requirements in regulation 5(7) in relation to a mainline application or in regulation 6 in relation to a non-mainline application; and
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce5678589bdf32c1932e3bad9480d6ea]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/599/regulation/10) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(g)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/g)
+[^c-ce5678589bdf32c1932e3bad9480d6ea]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2006/599/regulation/10) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(g)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/g)

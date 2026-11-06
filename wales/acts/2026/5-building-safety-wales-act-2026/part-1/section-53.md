@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 53. Complaints to building safety authorities[^key-60331e28b1b7f818695e516ba8a07650]
+## 53. Complaints to building safety authorities[^c-60331e28b1b7f818695e516ba8a07650]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60331e28b1b7f818695e516ba8a07650]: Commencement: S. 53 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-60331e28b1b7f818695e516ba8a07650]: Commencement: S. 53 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^c2523761] This Act shall come into force on such day as the Secretary of State may by order made by statutory instrument appoint.
 
-(3)[^key-f3f8014e5f7f07a73aa5d20033b1643d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f3f8014e5f7f07a73aa5d20033b1643d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This Act does not extend to Northern Ireland.
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^c2523761]: Subordinate legislation: Power of appointment conferred by s. 89(2) fully exercised: 30.10.1981 appointed by [S.I. 1981/1387](https://www.legislation.gov.uk/uksi/1981/1387)
 
-[^key-f3f8014e5f7f07a73aa5d20033b1643d]: Textual amendment: S. 89(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-f3f8014e5f7f07a73aa5d20033b1643d]: Textual amendment: S. 89(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

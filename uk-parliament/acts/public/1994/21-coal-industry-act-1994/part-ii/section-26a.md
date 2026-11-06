@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26A. Licences for coal-mining operations in Wales: approval by Welsh Ministers[^key-e9f1623272f14301cb9da1ea71d2937f]
+## 26A. Licences for coal-mining operations in Wales: approval by Welsh Ministers[^c-e9f1623272f14301cb9da1ea71d2937f]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e9f1623272f14301cb9da1ea71d2937f]: Textual amendment: [S. 26A](https://www.legislation.gov.uk/ukpga/1994/21/section/26A) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 67](https://www.legislation.gov.uk/ukpga/2017/4/section/67), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)
+[^c-e9f1623272f14301cb9da1ea71d2937f]: Textual amendment: [S. 26A](https://www.legislation.gov.uk/ukpga/1994/21/section/26A) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 67](https://www.legislation.gov.uk/ukpga/2017/4/section/67), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/m)

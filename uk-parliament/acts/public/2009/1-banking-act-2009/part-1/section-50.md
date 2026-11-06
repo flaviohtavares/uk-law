@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Sale to private sector purchaser[^M_I_48ca3dba-c618-4563-9302-b4a02cb60981][^key-1adae584ffe90b8a9cb7ad18bc6b12cf]
+## 50. Sale to private sector purchaser[^M_I_48ca3dba-c618-4563-9302-b4a02cb60981][^c-1adae584ffe90b8a9cb7ad18bc6b12cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^M_I_48ca3dba-c618-4563-9302-b4a02cb60981]: Commencement: S. 50 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-1adae584ffe90b8a9cb7ad18bc6b12cf]: Commencement: S. 50 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-1adae584ffe90b8a9cb7ad18bc6b12cf]: Commencement: S. 50 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

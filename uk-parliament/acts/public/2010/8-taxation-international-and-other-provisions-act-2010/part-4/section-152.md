@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Arm's length provision where actual provision relates to securities[^key-41a5e4fc00ebdd0aee73071cd49b26b3]
+## 152. Arm's length provision where actual provision relates to securities[^c-41a5e4fc00ebdd0aee73071cd49b26b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41a5e4fc00ebdd0aee73071cd49b26b3]: Textual amendment: [S. 152](https://www.legislation.gov.uk/ukpga/2010/8/section/152) omitted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 4(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/4/1), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)
+[^c-41a5e4fc00ebdd0aee73071cd49b26b3]: Textual amendment: [S. 152](https://www.legislation.gov.uk/ukpga/2010/8/section/152) omitted (with effect in accordance with Sch. 6 para. 12 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 6 paras. 4(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/4/1), [12](https://www.legislation.gov.uk/ukpga/2026/11/schedule/6/paragraph/12)

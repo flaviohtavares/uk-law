@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 5 — Service Credit Figures[^key-5a5fb1a240228801acc19f9a585a07a1]
+## Schedule 5 — Service Credit Figures[^c-5a5fb1a240228801acc19f9a585a07a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,4 +97,4 @@ Table 1
 
 ## Annotations
 
-[^key-5a5fb1a240228801acc19f9a585a07a1]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2017/522/schedule/5) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/1358/schedule/2)
+[^c-5a5fb1a240228801acc19f9a585a07a1]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2017/522/schedule/5) inserted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/1358/schedule/2)

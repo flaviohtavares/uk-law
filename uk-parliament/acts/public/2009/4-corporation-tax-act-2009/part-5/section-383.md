@@ -51,10 +51,10 @@ as a result of one of them having control of the other at a time in the period f
 - (a) one controls the other, or
 - (b) both are under the control of the same person.
 
-(8) Section 472 (meaning of “control”) applies for the purposes of subsection (7) (but see[^key-a5c1a63da3ed1ef86898dc81ea42afd0] section 1124 of CTA 2010[^key-798ed855bc028ba355c9a620d3aa5dbf] for the meaning of “control” in subsection (3)).
+(8) Section 472 (meaning of “control”) applies for the purposes of subsection (7) (but see[^c-a5c1a63da3ed1ef86898dc81ea42afd0] section 1124 of CTA 2010[^c-798ed855bc028ba355c9a620d3aa5dbf] for the meaning of “control” in subsection (3)).
 
 ## Annotations
 
-[^key-a5c1a63da3ed1ef86898dc81ea42afd0]: Textual amendment: Words in s. 383(8) substituted (1.4.2009 retrospective) by [Corporation Tax Act 2009 (Amendment) Order 2009 (S.I. 2009/2860)](https://www.legislation.gov.uk/uksi/2009/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2860/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2009/2860/article/6/2)
+[^c-a5c1a63da3ed1ef86898dc81ea42afd0]: Textual amendment: Words in s. 383(8) substituted (1.4.2009 retrospective) by [Corporation Tax Act 2009 (Amendment) Order 2009 (S.I. 2009/2860)](https://www.legislation.gov.uk/uksi/2009/2860), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/2860/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2009/2860/article/6/2)
 
-[^key-798ed855bc028ba355c9a620d3aa5dbf]: Textual amendment: Words in s. 383(8) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 611](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/611) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-798ed855bc028ba355c9a620d3aa5dbf]: Textual amendment: Words in s. 383(8) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 611](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/611) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

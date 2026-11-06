@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Direction to offer to contract with eligible hydrogen transport provider[^key-8cfc634886fbc74c68a41135061d945e]
+## 62. Direction to offer to contract with eligible hydrogen transport provider[^c-8cfc634886fbc74c68a41135061d945e]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cfc634886fbc74c68a41135061d945e]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2023/52/section/62) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-8cfc634886fbc74c68a41135061d945e]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2023/52/section/62) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

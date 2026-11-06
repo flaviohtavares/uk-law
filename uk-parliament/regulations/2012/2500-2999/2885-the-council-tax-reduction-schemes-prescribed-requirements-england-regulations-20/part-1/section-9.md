@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Non-dependants[^key-7d13b6ca727842353a2a9c80d1f1444a]
+## 9. Non-dependants[^c-7d13b6ca727842353a2a9c80d1f1444a]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7d13b6ca727842353a2a9c80d1f1444a]: Commencement: Reg. 9 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-7d13b6ca727842353a2a9c80d1f1444a]: Commencement: Reg. 9 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
 [^f00077]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14); subsections (2) and (8) of section 6 were amended by article 2 of, and paragraph 8 of the Schedule to, [S.I.;1997/74](https://www.legislation.gov.uk/uksi/1997/74); subsection (4) was amended by section 74 of the Local Government Act [1973 (c. 26)](https://www.legislation.gov.uk/ukpga/1973/26).

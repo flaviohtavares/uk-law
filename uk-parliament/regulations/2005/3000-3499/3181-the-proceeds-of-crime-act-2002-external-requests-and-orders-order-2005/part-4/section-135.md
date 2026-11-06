@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Property[^key-5448b01219c477ba92cc3bee1137680c]
+## 135. Property[^c-5448b01219c477ba92cc3bee1137680c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5448b01219c477ba92cc3bee1137680c]: Commencement: [Art. 135](https://www.legislation.gov.uk/uksi/2005/3181/article/135) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-5448b01219c477ba92cc3bee1137680c]: Commencement: [Art. 135](https://www.legislation.gov.uk/uksi/2005/3181/article/135) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00081]: Footnote: Section 230(f) was amended by paragraph 7 of Schedule 6 to the Serious Organised Crime and Police Act 2005.

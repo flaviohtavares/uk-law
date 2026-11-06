@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 2. Interpretation[^key-4d06c1645b26d068eef3095cf7b19166]
+## 2. Interpretation[^c-4d06c1645b26d068eef3095cf7b19166]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d06c1645b26d068eef3095cf7b19166]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1999/859/article/2) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
+[^c-4d06c1645b26d068eef3095cf7b19166]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1999/859/article/2) in force at 2.12.1999, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1999/859/article/1/2)
 
 [^f00003]: Footnote: “the Belfast Agreement” is defined in section 98(1) of the Northern Ireland Act 1998.

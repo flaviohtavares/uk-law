@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 266. Award of costs against the administrator[^key-2d5c948c738325d0e0190e4f122cde36]
+## 266. Award of costs against the administrator[^c-2d5c948c738325d0e0190e4f122cde36]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Without prejudice to any provision of the Regulations or Rules by virtue of whic
 
 ## Annotations
 
-[^key-2d5c948c738325d0e0190e4f122cde36]: Commencement: [Rule 266](https://www.legislation.gov.uk/uksi/2011/1301/rule/266) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-2d5c948c738325d0e0190e4f122cde36]: Commencement: [Rule 266](https://www.legislation.gov.uk/uksi/2011/1301/rule/266) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

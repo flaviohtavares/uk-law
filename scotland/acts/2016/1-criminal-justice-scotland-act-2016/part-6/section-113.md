@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-4b0b21352300e70188accf2e91343da0][^key-7429c5172ceed496a9a9bdf12ecf50bf] After section 55 of the Police and Fire Reform (Scotland) Act 2012 there is inserted—
+(1)[^c-4b0b21352300e70188accf2e91343da0][^c-7429c5172ceed496a9a9bdf12ecf50bf] After section 55 of the Police and Fire Reform (Scotland) Act 2012 there is inserted—
 
 > **CHAPTER 8A — POLICE NEGOTIATING BOARD FOR SCOTLAND**
 >
@@ -91,25 +91,25 @@ summary: ''
 
 .
 
-(2)[^key-2e40bc5e0395a4c5e325a14a6f31c254] In section 54 (consultation on regulations) of the Police and Fire Reform (Scotland) Act 2012, in subsection (1)—
+(2)[^c-2e40bc5e0395a4c5e325a14a6f31c254] In section 54 (consultation on regulations) of the Police and Fire Reform (Scotland) Act 2012, in subsection (1)—
 
 - (a) for the words from “61(1)” to “pensions)” there is substituted “ 55B(4) ”,
 - (b) in paragraph (a), for the words “the United Kingdom” there is substituted “ Scotland ”.
 
-(3)[^key-6f1ca7b2e6f688c5a0eec77a913bee57] In section 125 (subordinate legislation) of the Police and Fire Reform (Scotland) Act 2012, after subsection (3) there is inserted—
+(3)[^c-6f1ca7b2e6f688c5a0eec77a913bee57] In section 125 (subordinate legislation) of the Police and Fire Reform (Scotland) Act 2012, after subsection (3) there is inserted—
 
 > (3A) Regulations under paragraph 5(7) of schedule 2A are subject to the affirmative procedure if they include provisions of the kind mentioned in paragraph 7(2) or 8(2) of that schedule.
 
 .
 
-(4)[^key-6f1ca7b2e6f688c5a0eec77a913bee57] After schedule 2 to the Police and Fire Reform (Scotland) Act 2012 there is inserted (as schedule 2A to that Act) the schedule set out in schedule 3.
+(4)[^c-6f1ca7b2e6f688c5a0eec77a913bee57] After schedule 2 to the Police and Fire Reform (Scotland) Act 2012 there is inserted (as schedule 2A to that Act) the schedule set out in schedule 3.
 
 ## Annotations
 
-[^key-4b0b21352300e70188accf2e91343da0]: Commencement: [S. 113(1)](https://www.legislation.gov.uk/asp/2016/1/section/113/1) in force at 9.3.2023 for specified purposes by [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(a)](https://www.legislation.gov.uk/ssi/2023/49/article/2/a)
+[^c-4b0b21352300e70188accf2e91343da0]: Commencement: [S. 113(1)](https://www.legislation.gov.uk/asp/2016/1/section/113/1) in force at 9.3.2023 for specified purposes by [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(a)](https://www.legislation.gov.uk/ssi/2023/49/article/2/a)
 
-[^key-7429c5172ceed496a9a9bdf12ecf50bf]: Commencement: [S. 113(1)](https://www.legislation.gov.uk/asp/2016/1/section/113/1) in force at 17.8.2023 in so far as not already in force by [S.S.I. 2023/139](https://www.legislation.gov.uk/ssi/2023/139), [art. 2(a)](https://www.legislation.gov.uk/ssi/2023/139/article/2/a)
+[^c-7429c5172ceed496a9a9bdf12ecf50bf]: Commencement: [S. 113(1)](https://www.legislation.gov.uk/asp/2016/1/section/113/1) in force at 17.8.2023 in so far as not already in force by [S.S.I. 2023/139](https://www.legislation.gov.uk/ssi/2023/139), [art. 2(a)](https://www.legislation.gov.uk/ssi/2023/139/article/2/a)
 
-[^key-2e40bc5e0395a4c5e325a14a6f31c254]: Commencement: [S. 113(2)](https://www.legislation.gov.uk/asp/2016/1/section/113/2) in force at 17.8.2023 by [S.S.I. 2023/139](https://www.legislation.gov.uk/ssi/2023/139), [art. 2(b)](https://www.legislation.gov.uk/ssi/2023/139/article/2/b)
+[^c-2e40bc5e0395a4c5e325a14a6f31c254]: Commencement: [S. 113(2)](https://www.legislation.gov.uk/asp/2016/1/section/113/2) in force at 17.8.2023 by [S.S.I. 2023/139](https://www.legislation.gov.uk/ssi/2023/139), [art. 2(b)](https://www.legislation.gov.uk/ssi/2023/139/article/2/b)
 
-[^key-6f1ca7b2e6f688c5a0eec77a913bee57]: Commencement: [S. 113(3)](https://www.legislation.gov.uk/asp/2016/1/section/113/3)[(4)](https://www.legislation.gov.uk/asp/2016/1/section/113/4) in force at 9.3.2023 by [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(b)](https://www.legislation.gov.uk/ssi/2023/49/article/2/b)
+[^c-6f1ca7b2e6f688c5a0eec77a913bee57]: Commencement: [S. 113(3)](https://www.legislation.gov.uk/asp/2016/1/section/113/3)[(4)](https://www.legislation.gov.uk/asp/2016/1/section/113/4) in force at 9.3.2023 by [S.S.I. 2023/49](https://www.legislation.gov.uk/ssi/2023/49), [art. 2(b)](https://www.legislation.gov.uk/ssi/2023/49/article/2/b)

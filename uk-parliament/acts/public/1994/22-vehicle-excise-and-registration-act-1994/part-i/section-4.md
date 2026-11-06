@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-b01608be89af2e0fc13da25fed5097eb] Where a vehicle licence for a vehicle of any description is taken out for a period of 12 months, vehicle excise duty is to be paid on the licence—
+(1)[^c-b01608be89af2e0fc13da25fed5097eb] Where a vehicle licence for a vehicle of any description is taken out for a period of 12 months, vehicle excise duty is to be paid on the licence—
 
 - (a) at the annual rate of duty applicable to vehicles of that description, or
 - (b) if the duty is to be paid by more than one instalment pursuant to an agreement under section 19B, at a rate equal to 105% of that annual rate.
@@ -49,7 +49,7 @@ shall be such as to bear to the annual rate of duty applicable to the vehicle no
 
 ## Annotations
 
-[^key-b01608be89af2e0fc13da25fed5097eb]: Textual amendment: S. 4(1)-(2A) substituted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/2)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
+[^c-b01608be89af2e0fc13da25fed5097eb]: Textual amendment: S. 4(1)-(2A) substituted (1.10.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 89(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/2)[(10)](https://www.legislation.gov.uk/ukpga/2014/26/section/89/10)
 
 [^c18069091]: Textual amendment: S. 4(3) repealed (7.4.2005 with effect as mentioned in [s. 7(13)](https://www.legislation.gov.uk/ukpga/2005/7/section/7/13) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2005/7/section/7/2/a), [Sch. 11 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/7/schedule/11/part/1)
 

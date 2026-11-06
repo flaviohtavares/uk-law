@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Revocations[^key-04cb6b68cf72e694bbc821bf79d7ee8a]
+## 38. Revocations[^c-04cb6b68cf72e694bbc821bf79d7ee8a]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The Regulations set out in Schedule 5 are revoked to the extent set out in that 
 
 ## Annotations
 
-[^key-04cb6b68cf72e694bbc821bf79d7ee8a]: Commencement: Reg. 38 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-04cb6b68cf72e694bbc821bf79d7ee8a]: Commencement: Reg. 38 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

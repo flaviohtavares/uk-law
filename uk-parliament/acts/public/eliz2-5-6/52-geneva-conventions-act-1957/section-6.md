@@ -26,7 +26,7 @@ summary: ''
 - (b) the emblem of a red crescent moon on, and completely surrounded by, a white ground, or the designation “Red Crescent";
 - (c) the following emblem in red on, and completely surrounded by, a white ground, that is to say, a lion passing from right to left of, and with its face turned towards, the observer, holding erect in its raised right forepaw a scimitar, with, appearing above the lion’s back, the upper half of the sun shooting forth rays, or the designation “Red Lion and Sun".
 - (d)[^c9660231] the sign of an equilateral blue triangle on, and completely surrounded by, an orange ground, being the international distinctive sign of civil defence;
-- (e) any of the distinctive signals specified in Chapter III of Annex I to the first protocol, being the signals of identification for medical units and transports. ;[^key-7a3596c80c11ba4ed91001f0fcdc545a]
+- (e) any of the distinctive signals specified in Chapter III of Annex I to the first protocol, being the signals of identification for medical units and transports. ;[^c-7a3596c80c11ba4ed91001f0fcdc545a]
 - (f) the emblem of a red frame in the shape of a square on edge on a white ground, conforming to the illustration in Article 1 of the Annex to the third protocol (and whether or not incorporating another emblem, or a combination of emblems, in accordance with Article 3 of the protocol), or the designation “Red Crystal” or “third Protocol emblem”
 
 (2)[^c9660241] Subject to the provisions of this section, it shall not be lawful for any person, without the authority of the Secretary of State[^c9660251], to use for any purpose whatsoever—
@@ -47,7 +47,7 @@ summary: ''
 
 For the purposes of this subsection references in subsection (4) of this section to the passing of this Act shall be construed as references to the passing of the [^c9660321] Geneva Conventions (Amendment) Act 1995.
 
-(4B)[^key-3685eb75301b0fe9956173ae86e95e99] Subsection (4) of this section shall apply in relation to a design or wording reproducing or resembling the emblem or a designation specified in paragraph (f) of subsection (1) of this section as it applies to designs or wording reproducing or resembling an emblem or designation specified in paragraph (b) or (c) of that subsection.
+(4B)[^c-3685eb75301b0fe9956173ae86e95e99] Subsection (4) of this section shall apply in relation to a design or wording reproducing or resembling the emblem or a designation specified in paragraph (f) of subsection (1) of this section as it applies to designs or wording reproducing or resembling an emblem or designation specified in paragraph (b) or (c) of that subsection.
 
 (4C) But subsection (4) of this section shall not apply by virtue of subsection (4B) of this section where the use of the design or wording concerned is such as would appear, in time of armed conflict, to confer the protection of the scheduled conventions and, where applicable, the first protocol and the second protocol.
 
@@ -76,7 +76,7 @@ For the purposes of this subsection references in subsection (4) of this section
 
 [^c9660231]: Textual amendment: S. 6(1)(d)(e) inserted (20.7.1998) by [1995 c. 27](https://www.legislation.gov.uk/ukpga/1995/27), [s. 2(2)(b)](https://www.legislation.gov.uk/ukpga/1995/27/section/2/2/b); [S.I. 1998/1505](https://www.legislation.gov.uk/uksi/1998/1505), [art. 2](https://www.legislation.gov.uk/uksi/1998/1505/article/2)
 
-[^key-7a3596c80c11ba4ed91001f0fcdc545a]: Textual amendment: S. 6(1)(f) and semi-colon inserted (5.4.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2009/6/section/1/4), [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1); [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
+[^c-7a3596c80c11ba4ed91001f0fcdc545a]: Textual amendment: S. 6(1)(f) and semi-colon inserted (5.4.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2009/6/section/1/4), [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1); [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
 
 [^c9660241]: Modification: Functions of Board of Trade now exercisable concurrently by Secretary of State: [S.I. 1970/1537](https://www.legislation.gov.uk/uksi/1970/1537), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1970/1537/article/2/1/a)
 
@@ -94,7 +94,7 @@ For the purposes of this subsection references in subsection (4) of this section
 
 [^c9660321]: Marginal citation: [1995 c. 27](https://www.legislation.gov.uk/ukpga/1995/27).
 
-[^key-3685eb75301b0fe9956173ae86e95e99]: Textual amendment: S. 6(4B)-(4D) inserted (5.4.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2009/6/section/1/5), [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1); [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
+[^c-3685eb75301b0fe9956173ae86e95e99]: Textual amendment: S. 6(4B)-(4D) inserted (5.4.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2009/6/section/1/5), [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1); [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
 
 [^c9660331]: Textual amendment: Words in s. 6(6) substituted (20.7.1998) by [1995 c. 27](https://www.legislation.gov.uk/ukpga/1995/27), [s. 2(6)(a)](https://www.legislation.gov.uk/ukpga/1995/27/section/2/6/a); [S.I. 1998/1505](https://www.legislation.gov.uk/uksi/1998/1505), [art. 2](https://www.legislation.gov.uk/uksi/1998/1505/article/2)
 

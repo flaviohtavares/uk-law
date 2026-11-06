@@ -44,8 +44,8 @@ Articles 5, 42 and 52.
 - (a) serve upon the club notice of his intention to object, briefly stating his grounds for so doing;
 - (b) serve a copy of the notice upon the chief clerk.
 
-**5.**[^key-9f05e62be7daa3c9327e4de9070f6911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-9f05e62be7daa3c9327e4de9070f6911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9f05e62be7daa3c9327e4de9070f6911]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisi/1996/3159/schedule/2/paragraph/5) repealed (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2021/7/schedule/1/paragraph/20), [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)
+[^c-9f05e62be7daa3c9327e4de9070f6911]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisi/1996/3159/schedule/2/paragraph/5) repealed (6.4.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [s. 47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2021/7/schedule/1/paragraph/20), [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2); [S.R. 2022/63](https://www.legislation.gov.uk/nisr/2022/63), [art. 2](https://www.legislation.gov.uk/nisr/2022/63/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/63/schedule)

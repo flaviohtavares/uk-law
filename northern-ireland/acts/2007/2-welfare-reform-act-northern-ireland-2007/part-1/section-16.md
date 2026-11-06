@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^M_F_d04536bd-0d9b-4010-b4aa-8bab14706c64] The following functions of the Department may be exercised by, or by employees of, such person (if any) as it may authorise for the purpose, namely— *(affected by repeal, see note)*[^M_F_d04536bd-0d9b-4010-b4aa-8bab14706c64]
 
-- (za (affected by repeal, see note))[^key-7cf36ac701dd310ea9406c601a8edcb7][^M_F_d04536bd-0d9b-4010-b4aa-8bab14706c64] any function under section 1C in relation to a claimant commitment; *(affected by repeal, see note)*[^M_F_d04536bd-0d9b-4010-b4aa-8bab14706c64]
+- (za (affected by repeal, see note))[^c-7cf36ac701dd310ea9406c601a8edcb7][^M_F_d04536bd-0d9b-4010-b4aa-8bab14706c64] any function under section 1C in relation to a claimant commitment; *(affected by repeal, see note)*[^M_F_d04536bd-0d9b-4010-b4aa-8bab14706c64]
 - (a) conducting interviews under section 12; *(affected by repeal, see note)*[^M_F_d04536bd-0d9b-4010-b4aa-8bab14706c64]
 - (b) providing documents under section 14; *(affected by repeal, see note)*[^M_F_d04536bd-0d9b-4010-b4aa-8bab14706c64]
 - (c) giving, varying or revoking directions under section 15. *(affected by repeal, see note)*[^M_F_d04536bd-0d9b-4010-b4aa-8bab14706c64]
@@ -85,7 +85,7 @@ the authorised person shall be entitled to treat the relevant contract as repudi
 
 include a reference to any function which the Department has by virtue of the application in relation to that provision of Article 9(1)(c) of that Order (decisions under certain statutory provisions to be made by the Department). *(affected by repeal, see note)*[^M_F_d04536bd-0d9b-4010-b4aa-8bab14706c64]
 
-(14)[^key-aa2200bb73b07ce2ed43e1fb971ed780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-aa2200bb73b07ce2ed43e1fb971ed780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -93,6 +93,6 @@ include a reference to any function which the Department has by virtue of the ap
 
 [^M_F_d04536bd-0d9b-4010-b4aa-8bab14706c64]: Textual amendment: Ss. 11-11L and cross-heading substituted for ss. 11-16 and cross-heading (2.5.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/uksi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/2/2), [63(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/63/2); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/b)
 
-[^key-7cf36ac701dd310ea9406c601a8edcb7]: Textual amendment: S. 16(1)(za) inserted (2.5.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [60(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/60/5); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/b)
+[^c-7cf36ac701dd310ea9406c601a8edcb7]: Textual amendment: S. 16(1)(za) inserted (2.5.2016 for specified purposes) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [arts. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [60(5)](https://www.legislation.gov.uk/nisi/2015/2006/article/60/5); [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(3)(b)](https://www.legislation.gov.uk/nisr/2016/215/article/2/3/b)
 
-[^key-aa2200bb73b07ce2ed43e1fb971ed780]: Textual amendment: S. 16(14) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 58](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/58) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-aa2200bb73b07ce2ed43e1fb971ed780]: Textual amendment: S. 16(14) omitted (8.5.2016) by virtue of [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 58](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/58) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))

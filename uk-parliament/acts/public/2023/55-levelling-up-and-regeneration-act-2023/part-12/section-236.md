@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Open access mapping[^key-f178975eac6af4724476c84446844201]
+## 236. Open access mapping[^c-f178975eac6af4724476c84446844201]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f178975eac6af4724476c84446844201]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2023/55/section/236) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)
+[^c-f178975eac6af4724476c84446844201]: Commencement: [S. 236](https://www.legislation.gov.uk/ukpga/2023/55/section/236) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)

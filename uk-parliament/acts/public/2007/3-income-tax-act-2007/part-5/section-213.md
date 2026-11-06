@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213. Value received by the investor[^key-01994b40354db717b6f42bac1a115fa8]
+## 213. Value received by the investor[^c-01994b40354db717b6f42bac1a115fa8]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) if it is greater than the amount given by the formula set out below, be reduced by that amount, and
 - (b) in any other case, be withdrawn.
 
-The formula is— [^key-691154714c4a4350d82e458a7b836dbd]
+The formula is— [^c-691154714c4a4350d82e458a7b836dbd]
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/2007/3)
 
@@ -35,7 +35,7 @@ where—
 
 R is the amount of the value received by the investor, and
 
-EISR is the[^key-60421ed7e2deb768fef460c1a30e220d] EIS[^key-bb5272eb7f7b88d143b200899bfcf868] original rate.
+EISR is the[^c-60421ed7e2deb768fef460c1a30e220d] EIS[^c-bb5272eb7f7b88d143b200899bfcf868] original rate.
 
 (3) This section is subject to the following sections—
 
@@ -54,10 +54,10 @@ Sections 218 to 220 are to be applied in the order in which they appear in this 
 
 ## Annotations
 
-[^key-01994b40354db717b6f42bac1a115fa8]: Modification: [S. 213](https://www.legislation.gov.uk/ukpga/2007/3/section/213) excluded (20.5.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/110/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/110/2)
+[^c-01994b40354db717b6f42bac1a115fa8]: Modification: [S. 213](https://www.legislation.gov.uk/ukpga/2007/3/section/213) excluded (20.5.2020) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2020/14/section/110/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/14/section/110/2)
 
-[^key-691154714c4a4350d82e458a7b836dbd]: Textual amendment: Formula in s. 213(2) amended (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/16/a)
+[^c-691154714c4a4350d82e458a7b836dbd]: Textual amendment: Formula in s. 213(2) amended (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 16(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/16/a)
 
-[^key-60421ed7e2deb768fef460c1a30e220d]: Textual amendment: Words in s. 213(2) substituted (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/16/b)
+[^c-60421ed7e2deb768fef460c1a30e220d]: Textual amendment: Words in s. 213(2) substituted (21.7.2008 with effect in accordance with Sch. 1 para. 65 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 1 para. 16(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/1/paragraph/16/b)
 
-[^key-bb5272eb7f7b88d143b200899bfcf868]: Textual amendment: Words in s. 213(2) substituted (13.10.2011) (with effect in accordance with s. 42(7)(8) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 42(3)(c)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/3/c)[(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/6); [S.I. 2011/2459](https://www.legislation.gov.uk/uksi/2011/2459), [art. 2](https://www.legislation.gov.uk/uksi/2011/2459/article/2)
+[^c-bb5272eb7f7b88d143b200899bfcf868]: Textual amendment: Words in s. 213(2) substituted (13.10.2011) (with effect in accordance with s. 42(7)(8) of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [s. 42(3)(c)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/3/c)[(6)](https://www.legislation.gov.uk/ukpga/2011/11/section/42/6); [S.I. 2011/2459](https://www.legislation.gov.uk/uksi/2011/2459), [art. 2](https://www.legislation.gov.uk/uksi/2011/2459/article/2)

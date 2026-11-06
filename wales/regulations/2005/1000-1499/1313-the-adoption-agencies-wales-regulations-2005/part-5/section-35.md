@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Function of the adoption agency in a section 83 case[^key-2a0a954faa9f725b6b059b50b04dfebc]
+## 35. Function of the adoption agency in a section 83 case[^c-2a0a954faa9f725b6b059b50b04dfebc]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a0a954faa9f725b6b059b50b04dfebc]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2005/1313/regulation/35) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-2a0a954faa9f725b6b059b50b04dfebc]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2005/1313/regulation/35) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

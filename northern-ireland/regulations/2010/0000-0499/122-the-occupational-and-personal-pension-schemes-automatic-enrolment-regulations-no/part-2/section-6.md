@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Arrangements to achieve active membership[^key-cd7040d9070759cd97a3fa0c2f993d24]
+## 6. Arrangements to achieve active membership[^c-cd7040d9070759cd97a3fa0c2f993d24]
 
 *Extent: N.I.*
 
 (1) The arrangements the employer must make in accordance with section 3(2) (automatic enrolment) are to enter into arrangements with—
 
-- (a) the trustees or managers of an automatic enrolment scheme which is an occupational pension scheme, so that before the end of a period of 6 weeks[^key-4c92a7eeec358dc09e6c4a9c1615e439] beginning with the automatic enrolment date the jobholder to whom section 3 applies becomes an active member of that scheme with effect from the automatic enrolment date, or
+- (a) the trustees or managers of an automatic enrolment scheme which is an occupational pension scheme, so that before the end of a period of 6 weeks[^c-4c92a7eeec358dc09e6c4a9c1615e439] beginning with the automatic enrolment date the jobholder to whom section 3 applies becomes an active member of that scheme with effect from the automatic enrolment date, or
 - (b) the provider of an automatic enrolment scheme which is a personal pension scheme, so that before the end of a period of 6 weeks beginning with the automatic enrolment date the jobholder to whom section 3 applies is given information about the terms and conditions of the agreement to be deemed to exist under paragraph (2).
 
 (2) Where the employer enters into arrangements with a personal pension scheme provider under paragraph (1)(b), the jobholder is deemed to have entered into an agreement to be an active member of that scheme with effect from the automatic enrolment date, on the later of—
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd7040d9070759cd97a3fa0c2f993d24]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/122/regulation/6) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
+[^c-cd7040d9070759cd97a3fa0c2f993d24]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2010/122/regulation/6) in operation at 1.7.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/1/1)
 
-[^key-4c92a7eeec358dc09e6c4a9c1615e439]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/6/1) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [4(4)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/4)
+[^c-4c92a7eeec358dc09e6c4a9c1615e439]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/nisr/2010/122/regulation/6/1) substituted (1.4.2014) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/243)](https://www.legislation.gov.uk/nisr/2013/243), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2013/243/regulation/1/1/b), [4(4)](https://www.legislation.gov.uk/nisr/2013/243/regulation/4/4)

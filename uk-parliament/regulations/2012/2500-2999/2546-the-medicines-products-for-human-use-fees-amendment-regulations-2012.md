@@ -34,7 +34,7 @@ Medicines
 
 Fees And Charges
 
-The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2012 (revoked)[^key-c588315f26883328a78bd5212fc3f405]
+The Medicines (Products for Human Use) (Fees) (Amendment) Regulations 2012 (revoked)[^c-c588315f26883328a78bd5212fc3f405]
 
 Made
 
@@ -48,24 +48,24 @@ Coming into force
 
 2nd November 2012
 
-[^key-c588315f26883328a78bd5212fc3f405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c588315f26883328a78bd5212fc3f405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c588315f26883328a78bd5212fc3f405]
+## 1. Citation and commencement[^c-c588315f26883328a78bd5212fc3f405]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Medicines (Products for Human Use) (Fees) Regulations 2012[^key-c588315f26883328a78bd5212fc3f405]
+## 2. Amendment of the Medicines (Products for Human Use) (Fees) Regulations 2012[^c-c588315f26883328a78bd5212fc3f405]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c588315f26883328a78bd5212fc3f405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c588315f26883328a78bd5212fc3f405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c588315f26883328a78bd5212fc3f405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c588315f26883328a78bd5212fc3f405]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c588315f26883328a78bd5212fc3f405]: Textual amendment: Regulations revoked (1.4.2013) by [The Medicines (Products for Human Use) (Fees) Regulations 2013 (S.I. 2013/532)](https://www.legislation.gov.uk/uksi/2013/532), [reg. 60(1)](https://www.legislation.gov.uk/uksi/2013/532/regulation/60/1) (with [reg. 60(2)](https://www.legislation.gov.uk/uksi/2013/532/regulation/60/2)[(3)](https://www.legislation.gov.uk/uksi/2013/532/regulation/60/3))
+[^c-c588315f26883328a78bd5212fc3f405]: Textual amendment: Regulations revoked (1.4.2013) by [The Medicines (Products for Human Use) (Fees) Regulations 2013 (S.I. 2013/532)](https://www.legislation.gov.uk/uksi/2013/532), [reg. 60(1)](https://www.legislation.gov.uk/uksi/2013/532/regulation/60/1) (with [reg. 60(2)](https://www.legislation.gov.uk/uksi/2013/532/regulation/60/2)[(3)](https://www.legislation.gov.uk/uksi/2013/532/regulation/60/3))

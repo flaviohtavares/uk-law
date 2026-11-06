@@ -22,7 +22,7 @@ summary: ''
 
 (1) There shall be three divisions of the High Court namely—
 
-- (a) the Business and Property Division[^key-c471d7fa4a2da68e0eac1cfa328d1d13], consisting of the President of the Business and Property Division[^key-05edd91a42f31205f1c8099c52955312] and such of the puisne judges as are for the time being attached thereto in accordance with this section;
+- (a) the Business and Property Division[^c-c471d7fa4a2da68e0eac1cfa328d1d13], consisting of the President of the Business and Property Division[^c-05edd91a42f31205f1c8099c52955312] and such of the puisne judges as are for the time being attached thereto in accordance with this section;
 - (b) the Queen’s Bench Division, consisting of the Lord Chief Justice, , the President of the Queen's Bench Division[^c20656821], the vice-president of the Queen’s Bench Division[^c12330501] and such of the puisne judges as are for the time being so attached thereto; and
 - (c) the Family Division, consisting of the President of the Family Division and such of the puisne judges as are for the time being so attached thereto.
 
@@ -43,9 +43,9 @@ summary: ''
 
 ## Annotations
 
-[^key-c471d7fa4a2da68e0eac1cfa328d1d13]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/ukpga/1981/54/section/5/1/a) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/723/article/2/2/a)
+[^c-c471d7fa4a2da68e0eac1cfa328d1d13]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/ukpga/1981/54/section/5/1/a) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/723/article/2/2/a)
 
-[^key-05edd91a42f31205f1c8099c52955312]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/ukpga/1981/54/section/5/1/a) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/723/article/2/2/b)
+[^c-05edd91a42f31205f1c8099c52955312]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/ukpga/1981/54/section/5/1/a) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/723/article/2/2/b)
 
 [^c20656821]: Textual amendment: Words in s. 5(1)(b) substituted (1.10.2005) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 118(3)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/118/3); [S.I. 2005/2505](https://www.legislation.gov.uk/uksi/2005/2505), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2505/article/2/c)
 

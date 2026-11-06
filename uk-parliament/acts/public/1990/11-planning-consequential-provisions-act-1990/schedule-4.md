@@ -48,14 +48,14 @@ TABLE
 
 then that paragraph shall have effect for those other purposes of that provision (in so far as it is capable of doing so) until the relevant appointed day.
 
-(3)[^c1048532][^key-384e0403474d2d36dca75655e71d3bde] In this paragraph—
+(3)[^c1048532][^c-384e0403474d2d36dca75655e71d3bde] In this paragraph—
 
 - “**the relevant commencement date**”, in relation to a paragraph of this Schedule, means the date on which the provision of the consolidating Acts referred to in that paragraph comes into force;
 - “**the appointed day**” means—
 - (a)[^c1048532] in the case mentioned in paragraph (a) of sub-paragraph (1), such day as may be appointed by the Secretary of State by order made by statutory instrument; and
 - (b) in the case mentioned in paragraph (b) of that sub-paragraph, the day appointed as the day on which the provision mentioned in column 1 of the Table is to come into force.
 
-(4)[^c1048532][^key-384e0403474d2d36dca75655e71d3bde] An order under sub-paragraph (3) (other than an order appointing a day until which paragraph 2 has effect) may—
+(4)[^c1048532][^c-384e0403474d2d36dca75655e71d3bde] An order under sub-paragraph (3) (other than an order appointing a day until which paragraph 2 has effect) may—
 
 - (a) appoint different days for different provisions and for different purposes, and
 - (b) make such transitional provision as the Secretary of State thinks appropriate;
@@ -139,7 +139,7 @@ shall be inserted at the appropriate places.
 
 [^c1048532]: Subordinate legislation: Sch. 4 para. 1(3)(4) power partly exercised (21.11.1991): 02.01.1992 appointed for specified provisions by [S.I. 1991/2698](https://www.legislation.gov.uk/uksi/1991/2698), [art. 3(1)(2)](https://www.legislation.gov.uk/uksi/1991/2698/article/3/1/2)
 
-[^key-384e0403474d2d36dca75655e71d3bde]: Commencement: Sch. 4 para. 1(3)(a): 6.4.2009 appointed (E.) for the purposes of Sch. 4 paras. 3-16 by [S.I. 2009/849](https://www.legislation.gov.uk/uksi/2009/849), art. 2 (with art. 3)
+[^c-384e0403474d2d36dca75655e71d3bde]: Commencement: Sch. 4 para. 1(3)(a): 6.4.2009 appointed (E.) for the purposes of Sch. 4 paras. 3-16 by [S.I. 2009/849](https://www.legislation.gov.uk/uksi/2009/849), art. 2 (with art. 3)
 
 [^c1048535]: Textual amendment: Sch. 4 para. 2 repealed (10.02.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [ss. 27](https://www.legislation.gov.uk/ukpga/1991/34/section/27), [84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 4 Pt. II para. 38(b)](https://www.legislation.gov.uk/ukpga/1991/34/schedule/4/part/II/paragraph/38/b), [Sch. 19 Pt.I](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/I); [S.I. 1991/2905](https://www.legislation.gov.uk/uksi/1991/2905), [art. 4](https://www.legislation.gov.uk/uksi/1991/2905/article/4), [Sch.3](https://www.legislation.gov.uk/uksi/1991/2905/schedule/3)
 

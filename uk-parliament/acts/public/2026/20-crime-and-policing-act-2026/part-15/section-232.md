@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 232. Prevention of terrorism and state threats: weapons etc[^key-bb7cec3670d7ffa2bf74c6b396d536eb]
+## 232. Prevention of terrorism and state threats: weapons etc[^c-bb7cec3670d7ffa2bf74c6b396d536eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bb7cec3670d7ffa2bf74c6b396d536eb]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2026/20/section/232) in force at 29.6.2026, see [s. 255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i)
+[^c-bb7cec3670d7ffa2bf74c6b396d536eb]: Commencement: [S. 232](https://www.legislation.gov.uk/ukpga/2026/20/section/232) in force at 29.6.2026, see [s. 255(3)(i)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/i)

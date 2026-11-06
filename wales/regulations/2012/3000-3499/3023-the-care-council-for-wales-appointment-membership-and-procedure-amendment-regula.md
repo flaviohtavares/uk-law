@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL CARE, WALES
 
-The Care Council for Wales (Appointment, Membership and Procedure) (Amendment) Regulations 2012 (revoked)[^key-083f77f43de6d3c0b645b042bcc67691]
+The Care Council for Wales (Appointment, Membership and Procedure) (Amendment) Regulations 2012 (revoked)[^c-083f77f43de6d3c0b645b042bcc67691]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 January 2013
 
-[^key-083f77f43de6d3c0b645b042bcc67691]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-083f77f43de6d3c0b645b042bcc67691]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-083f77f43de6d3c0b645b042bcc67691]
+## 1. Title, commencement, application and interpretation[^c-083f77f43de6d3c0b645b042bcc67691]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2001 Regulations[^key-083f77f43de6d3c0b645b042bcc67691]
+## 2. Amendment of the 2001 Regulations[^c-083f77f43de6d3c0b645b042bcc67691]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-083f77f43de6d3c0b645b042bcc67691]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-083f77f43de6d3c0b645b042bcc67691]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-083f77f43de6d3c0b645b042bcc67691]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-083f77f43de6d3c0b645b042bcc67691]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-083f77f43de6d3c0b645b042bcc67691]: Textual amendment: Regulations revoked (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/uksi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/52/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/52/schedule/2)
+[^c-083f77f43de6d3c0b645b042bcc67691]: Textual amendment: Regulations revoked (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/uksi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/52/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/52/schedule/2)

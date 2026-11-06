@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Debt in foreign currency[^key-ebc5161165b4cee54216c7528ad0b1f3]
+## 54. Debt in foreign currency[^c-ebc5161165b4cee54216c7528ad0b1f3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebc5161165b4cee54216c7528ad0b1f3]: Commencement: Rule 54 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-ebc5161165b4cee54216c7528ad0b1f3]: Commencement: Rule 54 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

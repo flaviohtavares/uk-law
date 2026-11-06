@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 136 (affected by repeal, see note). Decommitment (affected by repeal, see note)[^key-b676935048cfd925335e1c66c82fd0d4][^key-b676935048cfd925335e1c66c82fd0d4]
+## Article 136 (affected by repeal, see note). Decommitment (affected by repeal, see note)[^c-b676935048cfd925335e1c66c82fd0d4][^c-b676935048cfd925335e1c66c82fd0d4]
 
 *Extent: E+W+S+N.I.*
 
-1. The Commission shall decommit any part of the amount in an operational programme that has not been used for payment of the initial and annual pre-financing and interim payments by 31 December of the third financial year following the year of budget commitment under the operational programme or for which a payment application drawn up in accordance with Article 131 has not been submitted in accordance with Article 135. *(affected by repeal, see note)*[^key-b676935048cfd925335e1c66c82fd0d4]
+1. The Commission shall decommit any part of the amount in an operational programme that has not been used for payment of the initial and annual pre-financing and interim payments by 31 December of the third financial year following the year of budget commitment under the operational programme or for which a payment application drawn up in accordance with Article 131 has not been submitted in accordance with Article 135. *(affected by repeal, see note)*[^c-b676935048cfd925335e1c66c82fd0d4]
 
-2. That part of commitments still open on 31 December 2023 shall be decommitted if any of the documents required under Article 141(1) has not been submitted to the Commission by the deadline set out in Article 141(1). *(affected by repeal, see note)*[^key-b676935048cfd925335e1c66c82fd0d4]
+2. That part of commitments still open on 31 December 2023 shall be decommitted if any of the documents required under Article 141(1) has not been submitted to the Commission by the deadline set out in Article 141(1). *(affected by repeal, see note)*[^c-b676935048cfd925335e1c66c82fd0d4]
 
 ## Annotations
 
-[^key-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)
+[^c-b676935048cfd925335e1c66c82fd0d4]: Textual amendment: Regulation revoked in so far as relating to the European Maritime and Fisheries Fund (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/1542/schedule/part/2)

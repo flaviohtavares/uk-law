@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Recoverable overpayments[^key-2281300c0e9f1d1d7a7f55d0c0449efd]
+## 78. Recoverable overpayments[^c-2281300c0e9f1d1d7a7f55d0c0449efd]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ where the claimant, a person acting on his behalf or any other person to whom th
 
 ## Annotations
 
-[^key-2281300c0e9f1d1d7a7f55d0c0449efd]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2006/406/regulation/78) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-2281300c0e9f1d1d7a7f55d0c0449efd]: Commencement: [Reg. 78](https://www.legislation.gov.uk/nisr/2006/406/regulation/78) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

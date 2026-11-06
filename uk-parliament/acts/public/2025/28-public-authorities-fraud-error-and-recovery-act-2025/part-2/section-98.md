@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 98. Rights of audience[^key-f24b6e42ad25abdee9401150c9b5ebfc][^key-ec31f3008df03e4af6c9f6518ed771dd]
+## 98. Rights of audience[^c-f24b6e42ad25abdee9401150c9b5ebfc][^c-ec31f3008df03e4af6c9f6518ed771dd]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ In the Social Security Administration Act 1992, after section 80E (inserted by s
 
 ## Annotations
 
-[^key-f24b6e42ad25abdee9401150c9b5ebfc]: Commencement: S. 98 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-f24b6e42ad25abdee9401150c9b5ebfc]: Commencement: S. 98 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-ec31f3008df03e4af6c9f6518ed771dd]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2025/28/section/98) in force at 4.12.2025 by [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/1)
+[^c-ec31f3008df03e4af6c9f6518ed771dd]: Commencement: [S. 98](https://www.legislation.gov.uk/ukpga/2025/28/section/98) in force at 4.12.2025 by [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/1)

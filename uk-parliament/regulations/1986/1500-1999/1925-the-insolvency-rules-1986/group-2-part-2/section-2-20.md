@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.20. Notice of intention to appoint[^key-3cd429780944af0d9d340d0898769129]
+## 2.20. Notice of intention to appoint[^c-3cd429780944af0d9d340d0898769129]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) A copy of the notice of intention to appoint must, in addition to the persons specified in paragraph 26, be given to—
 
-- (a) any enforcement officer[^key-32da29028616f1e1ffb5e5deeff19127] who, to the knowledge of the person giving the notice, is charged with execution or other legal process against the company;
+- (a) any enforcement officer[^c-32da29028616f1e1ffb5e5deeff19127] who, to the knowledge of the person giving the notice, is charged with execution or other legal process against the company;
 - (b) any person who, to the knowledge of the person giving the notice, has distrained against the company or its property;
 - (c) any supervisor of a voluntary arrangement under Part I of the Act; and
 - (d) the company, if the company is not intending to make the appointment.
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
+[^c-3cd429780944af0d9d340d0898769129]: Textual amendment: Pt. 2 substituted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/rule/1/2), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/paragraph/9) (with [rule 5(2)-(4)](https://www.legislation.gov.uk/uksi/2003/1730/rule/5/2))
 
 [^m00008]: Marginal citation: \[FORM 2.3\]
 
-[^key-32da29028616f1e1ffb5e5deeff19127]: Textual amendment: Words in [rule 2.20(2)(a)](https://www.legislation.gov.uk/uksi/1986/1925/article/2.20/2/a) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [6](https://www.legislation.gov.uk/uksi/2005/527/rule/6)
+[^c-32da29028616f1e1ffb5e5deeff19127]: Textual amendment: Words in [rule 2.20(2)(a)](https://www.legislation.gov.uk/uksi/1986/1925/article/2.20/2/a) substituted (1.4.2005) by [The Insolvency (Amendment) Rules 2005 (S.I. 2005/527)](https://www.legislation.gov.uk/uksi/2005/527), [rules 1(2)](https://www.legislation.gov.uk/uksi/2005/527/article/1/2), [6](https://www.legislation.gov.uk/uksi/2005/527/rule/6)

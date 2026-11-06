@@ -24,7 +24,7 @@ summary: ''
 
 Articles 25(2) and 44(1)
 
-**1.**[^key-5578e8a556790a3006748fb1f32a2ad6] (1) Subject to paragraph 2, the amount of an ordinary pension is the greater of—
+**1.**[^c-5578e8a556790a3006748fb1f32a2ad6] (1) Subject to paragraph 2, the amount of an ordinary pension is the greater of—
 
 - (a) half the amount of the base pension described in sub-paragraph (2); and
 - (b) the amount of a requisite benefit pension calculated in accordance with Part V.
@@ -38,13 +38,13 @@ Articles 25(2) and 44(1)
 
 disregarding, in each case, the provisions for reduction contained in article 18(10) (commutation), article 20(9) (allocation) and Parts VI and VII of Schedule 2 (reduction of pension at state pensionable age and related to up-rating of widow’s pensions) but taking into account the provisions of Part IV of Schedule 2 (calculation of awards for part-time service).
 
-**2.**[^key-82d806c5f1db5ae65c0867faaa70adef] For any period in respect of which the surviving spouse or civil partner so elects, the amount of the ordinary pension shall be calculated in accordance not with paragraph 1 but with article 44 (flat-rate award).
+**2.**[^c-82d806c5f1db5ae65c0867faaa70adef] For any period in respect of which the surviving spouse or civil partner so elects, the amount of the ordinary pension shall be calculated in accordance not with paragraph 1 but with article 44 (flat-rate award).
 
 ### PART II — SPOUSE’S OR CIVIL PARTNER’S ACCRUED PENSION
 
 Article 26(3) and 44(1)
 
-**1.**[^key-2f6a0ae69fb9dd46b7cc11a94bb3a987] (1) For the purposes of this Part, half-rate service comprises—
+**1.**[^c-2f6a0ae69fb9dd46b7cc11a94bb3a987] (1) For the purposes of this Part, half-rate service comprises—
 
 - (a) pensionable service reckonable by virtue of service as a regular firefighter after 31st March 1972;
 - (b) pensionable service reckonable by virtue of article 53 (receipt of transfer value);
@@ -98,7 +98,7 @@ where—
 
 (8) The periods mentioned in sub-paragraphs (3) and (6)(*b*) are to be counted in complete years and months.
 
-**2.**[^key-cfae97ec2ad75e96b3c1c76a40c63ff6] (1) Subject to sub-paragraph (3), the amount of the surviving spouse’s or civil partner’s accrued pension is the total of—
+**2.**[^c-cfae97ec2ad75e96b3c1c76a40c63ff6] (1) Subject to sub-paragraph (3), the amount of the surviving spouse’s or civil partner’s accrued pension is the total of—
 
 - (a) 1/6th of the deceased’s deferred pension multiplied by the appropriate fraction of his half-rate service; and
 - (b) 1/3rd of his deferred pension multiplied by the appropriate fraction of his mixed-rate service.
@@ -117,7 +117,7 @@ where—
 - (a) article 16(5) (restriction on payment); or
 - (b) article 18(10) or 20(9) or Part VI or VII of Schedule 2 (reduction in various circumstances).
 
-**3.**[^key-9b89bdeeb68e2aa5e95523854b991242] (1) Subject to sub-paragraphs (2) and (3), for any period in respect of which a surviving spouse or civil partner so elects, the amount of the accrued pension shall be calculated in accordance not with paragraphs 1 and 2 but with article 44 (flat rate award).
+**3.**[^c-9b89bdeeb68e2aa5e95523854b991242] (1) Subject to sub-paragraphs (2) and (3), for any period in respect of which a surviving spouse or civil partner so elects, the amount of the accrued pension shall be calculated in accordance not with paragraphs 1 and 2 but with article 44 (flat rate award).
 
 (2) This paragraph does not apply where the pensionable service reckonable in calculating the deceased’s deferred pension was—
 
@@ -130,11 +130,11 @@ where—
 
 Article 27(2)
 
-**1.**[^key-09c4b352bedd8ef0bd9a463d21ff58bc] (1) Where the surviving spouse or civil partner would otherwise have been entitled to an ordinary pension under article 25 the amount of the pension under article 27 shall, subject to sub-paragraph (2), be calculated in accordance with paragraph 1 of Part I in the same way as that of an ordinary pension.
+**1.**[^c-09c4b352bedd8ef0bd9a463d21ff58bc] (1) Where the surviving spouse or civil partner would otherwise have been entitled to an ordinary pension under article 25 the amount of the pension under article 27 shall, subject to sub-paragraph (2), be calculated in accordance with paragraph 1 of Part I in the same way as that of an ordinary pension.
 
 (2) For the purposes of this paragraph, paragraph 1 of Part I has effect as if the reference in sub-paragraph (1)(a) to the base pension were a reference to the appropriate proportion of the base pension.
 
-**2.**[^key-1da9459b4f22b59d2fc61a394077910b] (1) Where the surviving spouse or civil partner would otherwise have been entitled to an accrued pension under article 26, the amount of the pension under article 27 shall, subject to sub-paragraph (2), be calculated in accordance with Part II in the same way as that of an accrued pension.
+**2.**[^c-1da9459b4f22b59d2fc61a394077910b] (1) Where the surviving spouse or civil partner would otherwise have been entitled to an accrued pension under article 26, the amount of the pension under article 27 shall, subject to sub-paragraph (2), be calculated in accordance with Part II in the same way as that of an accrued pension.
 
 (2) For the purposes of this paragraph, paragraph 2 of Part II has effect as if references to the deceased’s deferred pension were references to the greater of—
 
@@ -145,38 +145,38 @@ Article 27(2)
 
 (4) In making the calculation mentioned in sub-paragraph (3), for the value of A there shall be substituted “A is the amount calculated under paragraph 2(2)(b) of Part III of Schedule 3 if the average pensionable pay was the pay the deceased would have received had he been a whole-time member of the fire and rescue service” and in relation to B, C and D only pensionable service after 5<sup>th</sup> April 1978 shall be counted.
 
-**3.**[^key-ef009c3d05f1f6382a722e8bac5eb3cc] The appropriate proportion mentioned in paragraphs 1 and 2 is the proportion which the deceased’s relevant pensionable service bears to his total pensionable service.
+**3.**[^c-ef009c3d05f1f6382a722e8bac5eb3cc] The appropriate proportion mentioned in paragraphs 1 and 2 is the proportion which the deceased’s relevant pensionable service bears to his total pensionable service.
 
 ### PART IV — SPOUSE’S OR CIVIL PARTNER’S REQUISITE BENEFIT PENSION
 
 Articles 28(4) and 30(2)
 
-**1.**[^key-c10f64d6e161ea24de68dadd192f389a] Subject to paragraph 2, the amount of a requisite benefit pension is 1/160th of the deceased’s average pensionable pay multiplied by the period in years of so much of his pensionable service as is reckonable by virtue of service or employment after 5th April 1978.
+**1.**[^c-c10f64d6e161ea24de68dadd192f389a] Subject to paragraph 2, the amount of a requisite benefit pension is 1/160th of the deceased’s average pensionable pay multiplied by the period in years of so much of his pensionable service as is reckonable by virtue of service or employment after 5th April 1978.
 
-**2.**[^key-0248bea6fc00a88e6162353754430f1f] Where some or all of the deceased’s service , which is reckonable as pensionable service, was part-time service, the amount of a requisite benefit pension shall be calculated using the formula in paragraph 2 of Part IV of Schedule 2.
+**2.**[^c-0248bea6fc00a88e6162353754430f1f] Where some or all of the deceased’s service , which is reckonable as pensionable service, was part-time service, the amount of a requisite benefit pension shall be calculated using the formula in paragraph 2 of Part IV of Schedule 2.
 
-**3.**[^key-669a48e4f56e4d95d1d480cec095b5fc] In making the calculation mentioned in paragraph 2, for the value of A there shall be substituted “A is the amount calculated under paragraph 1 of Part IV of Schedule 3 if the average pensionable pay was the pay the deceased would have received had he been a whole-time member of the fire and rescue service” and in relation to B, C and D only pensionable service after 5<sup>th</sup> April 1978 shall be counted.
+**3.**[^c-669a48e4f56e4d95d1d480cec095b5fc] In making the calculation mentioned in paragraph 2, for the value of A there shall be substituted “A is the amount calculated under paragraph 1 of Part IV of Schedule 3 if the average pensionable pay was the pay the deceased would have received had he been a whole-time member of the fire and rescue service” and in relation to B, C and D only pensionable service after 5<sup>th</sup> April 1978 shall be counted.
 
 ## Annotations
 
-[^key-5578e8a556790a3006748fb1f32a2ad6]: Commencement: [Sch. 3 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/1/paragraph/1) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-5578e8a556790a3006748fb1f32a2ad6]: Commencement: [Sch. 3 Pt. 1 para. 1](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/1/paragraph/1) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-82d806c5f1db5ae65c0867faaa70adef]: Commencement: [Sch. 3 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/1/paragraph/2) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-82d806c5f1db5ae65c0867faaa70adef]: Commencement: [Sch. 3 Pt. 1 para. 2](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/1/paragraph/2) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-2f6a0ae69fb9dd46b7cc11a94bb3a987]: Commencement: [Sch. 3 Pt. 2 para. 1](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/2/paragraph/1) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-2f6a0ae69fb9dd46b7cc11a94bb3a987]: Commencement: [Sch. 3 Pt. 2 para. 1](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/2/paragraph/1) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-cfae97ec2ad75e96b3c1c76a40c63ff6]: Commencement: [Sch. 3 Pt. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/2/paragraph/2) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-cfae97ec2ad75e96b3c1c76a40c63ff6]: Commencement: [Sch. 3 Pt. 2 para. 2](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/2/paragraph/2) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-9b89bdeeb68e2aa5e95523854b991242]: Commencement: [Sch. 3 Pt. 2 para. 3](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/2/paragraph/3) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-9b89bdeeb68e2aa5e95523854b991242]: Commencement: [Sch. 3 Pt. 2 para. 3](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/2/paragraph/3) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-09c4b352bedd8ef0bd9a463d21ff58bc]: Commencement: [Sch. 3 Pt. 3 para. 1](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/3/paragraph/1) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-09c4b352bedd8ef0bd9a463d21ff58bc]: Commencement: [Sch. 3 Pt. 3 para. 1](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/3/paragraph/1) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-1da9459b4f22b59d2fc61a394077910b]: Commencement: [Sch. 3 Pt. 3 para. 2](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/3/paragraph/2) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-1da9459b4f22b59d2fc61a394077910b]: Commencement: [Sch. 3 Pt. 3 para. 2](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/3/paragraph/2) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-ef009c3d05f1f6382a722e8bac5eb3cc]: Commencement: [Sch. 3 Pt. 3 para. 3](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/3/paragraph/3) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-ef009c3d05f1f6382a722e8bac5eb3cc]: Commencement: [Sch. 3 Pt. 3 para. 3](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/3/paragraph/3) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-c10f64d6e161ea24de68dadd192f389a]: Commencement: [Sch. 3 Pt. 4 para. 1](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/4/paragraph/1) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-c10f64d6e161ea24de68dadd192f389a]: Commencement: [Sch. 3 Pt. 4 para. 1](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/4/paragraph/1) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-0248bea6fc00a88e6162353754430f1f]: Commencement: [Sch. 3 Pt. 4 para. 2](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/4/paragraph/2) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-0248bea6fc00a88e6162353754430f1f]: Commencement: [Sch. 3 Pt. 4 para. 2](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/4/paragraph/2) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
 
-[^key-669a48e4f56e4d95d1d480cec095b5fc]: Commencement: [Sch. 3 Pt. 4 para. 3](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/4/paragraph/3) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)
+[^c-669a48e4f56e4d95d1d480cec095b5fc]: Commencement: [Sch. 3 Pt. 4 para. 3](https://www.legislation.gov.uk/nisr/2007/144/schedule/3/part/4/paragraph/3) in operation at 1.4.2006, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2007/144/article/1/2)

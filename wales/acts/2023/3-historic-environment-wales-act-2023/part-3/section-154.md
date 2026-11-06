@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 154. Warrant to enter land[^key-4916a5ef6603acaa54b7a8b9e1595163][^key-e0d81eaa4cd1dd0b58f8507095194901]
+## 154. Warrant to enter land[^c-4916a5ef6603acaa54b7a8b9e1595163][^c-e0d81eaa4cd1dd0b58f8507095194901]
 
 *Extent: E+W*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4916a5ef6603acaa54b7a8b9e1595163]: Commencement: S. 154 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-4916a5ef6603acaa54b7a8b9e1595163]: Commencement: S. 154 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-e0d81eaa4cd1dd0b58f8507095194901]: Commencement: [S. 154](https://www.legislation.gov.uk/asc/2023/3/section/154) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-e0d81eaa4cd1dd0b58f8507095194901]: Commencement: [S. 154](https://www.legislation.gov.uk/asc/2023/3/section/154) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

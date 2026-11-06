@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 314. Notification relating to the administrator[^key-f7cf2a2047988440b53e8919bcd3e42b]
+## 314. Notification relating to the administrator[^c-f7cf2a2047988440b53e8919bcd3e42b]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In addition to the information required by rule 313, a notification relating to 
 
 ## Annotations
 
-[^key-f7cf2a2047988440b53e8919bcd3e42b]: Commencement: [Rule 314](https://www.legislation.gov.uk/uksi/2011/1301/rule/314) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-f7cf2a2047988440b53e8919bcd3e42b]: Commencement: [Rule 314](https://www.legislation.gov.uk/uksi/2011/1301/rule/314) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Power to require ships to be moved.[^key-940b0563f9b3f2acf1e4e4756cf7154f]
+## 10. Power to require ships to be moved.[^c-940b0563f9b3f2acf1e4e4756cf7154f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-940b0563f9b3f2acf1e4e4756cf7154f]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1997/28/section/10) repealed (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/16/schedule/3)
+[^c-940b0563f9b3f2acf1e4e4756cf7154f]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1997/28/section/10) repealed (10.9.2003) by [Marine Safety Act 2003 (c. 16)](https://www.legislation.gov.uk/ukpga/2003/16), [s. 4](https://www.legislation.gov.uk/ukpga/2003/16/section/4), [Sch. 3](https://www.legislation.gov.uk/ukpga/2003/16/schedule/3)

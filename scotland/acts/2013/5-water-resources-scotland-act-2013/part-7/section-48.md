@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Water saving measures[^key-91911acd21d000826556dd664f419c71]
+## 48. Water saving measures[^c-91911acd21d000826556dd664f419c71]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In this Part, “**water saving measures**” means measures listed in schedule 
 
 ## Annotations
 
-[^key-91911acd21d000826556dd664f419c71]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2013/5/section/48) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-91911acd21d000826556dd664f419c71]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2013/5/section/48) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

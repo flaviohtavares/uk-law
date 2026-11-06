@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Waiver and modification of civil penalties[^key-dd8d0d6072824d1c8ef3389347398090]
+## 96. Waiver and modification of civil penalties[^c-dd8d0d6072824d1c8ef3389347398090]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dd8d0d6072824d1c8ef3389347398090]: Commencement: Art. 96 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-dd8d0d6072824d1c8ef3389347398090]: Commencement: Art. 96 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
 [^f00020]: Footnote: See section 47 of the Climate Change Act 2008 for the meaning of “relevant national authorities”.

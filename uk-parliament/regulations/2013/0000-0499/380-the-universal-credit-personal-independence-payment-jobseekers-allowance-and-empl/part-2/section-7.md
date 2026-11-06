@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 7. Claims not required for entitlement to an employment and support allowance in certain cases[^key-389bbcc29070dd638e51afbaa5c741b1]
+## 7. Claims not required for entitlement to an employment and support allowance in certain cases[^c-389bbcc29070dd638e51afbaa5c741b1]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-389bbcc29070dd638e51afbaa5c741b1]: Textual amendment: Reg. 7 substituted (with application in accordance with reg. 2 of the commencing S.I.) by [The Employment and Support Allowance (Repeat Assessments and Pending Appeal Awards) (Amendment) Regulations 2015 (S.I. 2015/437)](https://www.legislation.gov.uk/uksi/2015/437), [regs. 1](https://www.legislation.gov.uk/uksi/2015/437/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/437/regulation/6/2)
+[^c-389bbcc29070dd638e51afbaa5c741b1]: Textual amendment: Reg. 7 substituted (with application in accordance with reg. 2 of the commencing S.I.) by [The Employment and Support Allowance (Repeat Assessments and Pending Appeal Awards) (Amendment) Regulations 2015 (S.I. 2015/437)](https://www.legislation.gov.uk/uksi/2015/437), [regs. 1](https://www.legislation.gov.uk/uksi/2015/437/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/437/regulation/6/2)

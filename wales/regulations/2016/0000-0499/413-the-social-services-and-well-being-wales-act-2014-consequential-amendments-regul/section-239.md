@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**239.**[^key-67e75da6346027c86f142a9f6ca3b1be] In section 14Z1[^f00200] (duty of clinical commissioning groups as to promoting integration), in subsection (3) in the definition of “social care services” after “1970” insert “or for the purposes of the Social Services and Well-being (Wales) Act 2014”.
+**239.**[^c-67e75da6346027c86f142a9f6ca3b1be] In section 14Z1[^f00200] (duty of clinical commissioning groups as to promoting integration), in subsection (3) in the definition of “social care services” after “1970” insert “or for the purposes of the Social Services and Well-being (Wales) Act 2014”.
 
 ## Annotations
 
-[^key-67e75da6346027c86f142a9f6ca3b1be]: Commencement: Reg. 239 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-67e75da6346027c86f142a9f6ca3b1be]: Commencement: Reg. 239 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00200]: Footnote: Section 14Z1 was inserted by the Health and Social Care Act 2012, section 26.

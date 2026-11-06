@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## SCHEDULE 3 — Prohibited imported material[^key-b2c9a477a8eb5c1beaf9e479ec59df22]
+## SCHEDULE 3 — Prohibited imported material[^c-b2c9a477a8eb5c1beaf9e479ec59df22]
 
 *Extent: E+W+N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 4(4)
 
-### PART A — Relevant material, originating in third countries, whose entry into the relevant UK territories is prohibited[^key-b2c9a477a8eb5c1beaf9e479ec59df22]
+### PART A — Relevant material, originating in third countries, whose entry into the relevant UK territories is prohibited[^c-b2c9a477a8eb5c1beaf9e479ec59df22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART B — Other relevant material which is subject to emergency control measures and whose entry into the relevant UK territories is prohibited[^key-b2c9a477a8eb5c1beaf9e479ec59df22]
+### PART B — Other relevant material which is subject to emergency control measures and whose entry into the relevant UK territories is prohibited[^c-b2c9a477a8eb5c1beaf9e479ec59df22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b2c9a477a8eb5c1beaf9e479ec59df22]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/a), [54(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/54/b)
+[^c-b2c9a477a8eb5c1beaf9e479ec59df22]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/a), [54(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/54/b)

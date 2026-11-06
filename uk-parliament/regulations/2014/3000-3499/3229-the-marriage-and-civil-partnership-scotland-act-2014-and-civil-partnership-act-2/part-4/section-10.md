@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Category B retirement pension for widowers[^key-7ba16a2382d49b6b786e8aaa49f8aa1a]
+## 10. Category B retirement pension for widowers[^c-7ba16a2382d49b6b786e8aaa49f8aa1a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ba16a2382d49b6b786e8aaa49f8aa1a]: Textual amendment: Art. 10 revoked (6.4.2016) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [44(c)](https://www.legislation.gov.uk/uksi/2015/1985/article/44/c)
+[^c-7ba16a2382d49b6b786e8aaa49f8aa1a]: Textual amendment: Art. 10 revoked (6.4.2016) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [44(c)](https://www.legislation.gov.uk/uksi/2015/1985/article/44/c)

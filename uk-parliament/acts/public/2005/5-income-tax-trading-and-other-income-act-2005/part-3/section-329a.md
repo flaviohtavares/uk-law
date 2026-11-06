@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 329A. Application of Chapter where cash basis used[^key-be02c1b33b74807375130d8f42681f18]
+## 329A. Application of Chapter where cash basis used[^c-be02c1b33b74807375130d8f42681f18]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ This Chapter applies if—
 
 ## Annotations
 
-[^key-be02c1b33b74807375130d8f42681f18]: Textual amendment: S. 329A inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/27)
+[^c-be02c1b33b74807375130d8f42681f18]: Textual amendment: S. 329A inserted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/27)

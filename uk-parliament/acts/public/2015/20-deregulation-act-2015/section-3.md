@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Apprenticeships: simplification[^c22547821][^key-1aed9d0d6f5c0ad07cd8589eefa6d7cf]
+## 3. Apprenticeships: simplification[^c22547821][^c-1aed9d0d6f5c0ad07cd8589eefa6d7cf]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c22547821]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2015/20/section/3) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-1aed9d0d6f5c0ad07cd8589eefa6d7cf]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2015/20/section/3) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))
+[^c-1aed9d0d6f5c0ad07cd8589eefa6d7cf]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2015/20/section/3) in force at 26.5.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(a)](https://www.legislation.gov.uk/uksi/2015/994/article/6/a) (with [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2015/994/schedule/part/2))

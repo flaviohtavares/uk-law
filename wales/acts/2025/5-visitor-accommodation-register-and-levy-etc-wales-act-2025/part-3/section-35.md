@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Application for repayment of amount equivalent to the levy[^key-4fb406e6876594d7d8cf5a44b551fac8]
+## 35. Application for repayment of amount equivalent to the levy[^c-4fb406e6876594d7d8cf5a44b551fac8]
 
 *Extent: E+W*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4fb406e6876594d7d8cf5a44b551fac8]: Commencement: S. 35 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-4fb406e6876594d7d8cf5a44b551fac8]: Commencement: S. 35 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

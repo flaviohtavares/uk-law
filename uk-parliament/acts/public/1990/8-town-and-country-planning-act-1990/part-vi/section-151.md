@@ -48,7 +48,7 @@ summary: ''
 
 (7A)[^c19905651] The grounds on which objection may be made in a counter-notice to a blight notice served by virtue of paragraph 25 of Schedule 13 do not include those mentioned in subsection (4)(b).
 
-(7B)[^key-30940bfa24254b9d45e7b0be492f4c2d] The grounds on which objection may be made in a counter-notice to a blight notice served by virtue of paragraph 26 of Schedule 13 do not include those mentioned in subsection (4)(b).
+(7B)[^c-30940bfa24254b9d45e7b0be492f4c2d] The grounds on which objection may be made in a counter-notice to a blight notice served by virtue of paragraph 26 of Schedule 13 do not include those mentioned in subsection (4)(b).
 
 (8) In this section “**relevant powers**”, in relation to blighted land falling within any paragraph of Schedule 13, means any powers under which the appropriate authority are or could be authorised—
 
@@ -61,4 +61,4 @@ and “**the relevant purposes**”, in relation to any such land, means the pur
 
 [^c19905651]: Textual amendment: S. 151(7A) inserted (6.4.2009 for certain purposes and otherwise 1.3.2010) by [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [ss. 175(4)](https://www.legislation.gov.uk/ukpga/2008/29/section/175/4), [241](https://www.legislation.gov.uk/ukpga/2008/29/section/241) (with [s. 226](https://www.legislation.gov.uk/ukpga/2008/29/section/226)); [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 3](https://www.legislation.gov.uk/uksi/2009/400/article/3); [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(f)](https://www.legislation.gov.uk/uksi/2010/101/article/4/f) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
 
-[^key-30940bfa24254b9d45e7b0be492f4c2d]: Textual amendment: [S. 151(7B)](https://www.legislation.gov.uk/ukpga/1990/8/section/151/7B) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 99(4)](https://www.legislation.gov.uk/asc/2024/3/section/99/4), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)
+[^c-30940bfa24254b9d45e7b0be492f4c2d]: Textual amendment: [S. 151(7B)](https://www.legislation.gov.uk/ukpga/1990/8/section/151/7B) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [ss. 99(4)](https://www.legislation.gov.uk/asc/2024/3/section/99/4), [147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2) (with [s. 84(5)](https://www.legislation.gov.uk/asc/2024/3/section/84/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(h)](https://www.legislation.gov.uk/wsi/2025/698/article/3/h)

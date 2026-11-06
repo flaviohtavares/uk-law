@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79A. Acquisition of the right to manage by a RTM company[^key-2844d25d3f9432251b97770ff899939d]
+## 79A. Acquisition of the right to manage by a RTM company[^c-2844d25d3f9432251b97770ff899939d]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2844d25d3f9432251b97770ff899939d]: Textual amendment: Rule 79A inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/27) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-2844d25d3f9432251b97770ff899939d]: Textual amendment: Rule 79A inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/27) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

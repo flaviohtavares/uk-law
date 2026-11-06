@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Amendment of regulation 45O (requirements for registration as an importer, manufacturer or distributor of an active substance)[^key-09569054129e9558a0becd967a266e07]
+## 44. Amendment of regulation 45O (requirements for registration as an importer, manufacturer or distributor of an active substance)[^c-09569054129e9558a0becd967a266e07]
 
 *Extent: E+W+S+N.I.*
 
 (1) Regulation 45O [^c23884681] is amended as follows.
 
-(2)[^key-deb4475b941d734adbcee4e362744885] For paragraph (1) substitute—
+(2)[^c-deb4475b941d734adbcee4e362744885] For paragraph (1) substitute—
 
 > (1) Where principles and guidelines of good manufacturing practice have been published under, or apply by virtue of, regulation C17, which apply to an active substance manufactured in Great Britain, a manufacturer in Great Britain must comply with the principles and guidelines of good manufacturing practice for active substances.
 >
@@ -30,7 +30,7 @@ summary: ''
 
 .
 
-(3)[^key-5f7f0c9981e6c9645ab85f5b8b2a1946] For paragraph (2) substitute—
+(3)[^c-5f7f0c9981e6c9645ab85f5b8b2a1946] For paragraph (2) substitute—
 
 > (2) Where principles and guidelines of good distribution practice have been published under, or apply by virtue of, regulation C17, which apply to an active substance distributed in Great Britain, a distributor in Great Britain must comply with the principles and guidelines of good distribution practice for active substances.
 >
@@ -38,14 +38,14 @@ summary: ''
 
 .
 
-(4)[^key-7d0380a2e8650afe6882d3e6677991b7] In paragraph (3)—
+(4)[^c-7d0380a2e8650afe6882d3e6677991b7] In paragraph (3)—
 
 - (a) for “the UK” substitute “Northern Ireland”;
 - (b) for “from a third country” substitute “into Northern Ireland from a country other than an EEA State”;
 - (c) for “exporting third country” in both places it occurs substitute “exporting country”;
 - (d) in sub-paragraph (c)(ii), for “the Union” substitute “Northern Ireland”.
 
-(4A)[^key-4325489101770f09312220b0ae5c0580] After paragraph (3) insert—
+(4A)[^c-4325489101770f09312220b0ae5c0580] After paragraph (3) insert—
 
 > (3A) Without prejudice to regulation 37(4) and paragraph 9A of Schedule 8, where principles and guidelines of good manufacturing practice have been published under, or apply by virtue of, regulation C17, which apply to an active substance imported into Great Britain other than from Northern Ireland and where an active substance is so imported—
 >
@@ -58,7 +58,7 @@ summary: ''
 
 .
 
-(5)[^key-f48e24cdc8d40ad2c85d6aaf4280e3e9] In paragraph (4)—
+(5)[^c-f48e24cdc8d40ad2c85d6aaf4280e3e9] In paragraph (4)—
 
 - (a) for “(3)(c) does” substitute “(3)(c) and (3A)(c) do”;
 - (b) in sub-paragraph (a), after “Article 111b of the 2001 Directive” insert “(in the case of an import into Northern Ireland) or paragraph (6) (in the case of an import into Great Britain)”;
@@ -66,7 +66,7 @@ summary: ''
 
 (6) At the end insert—
 
-> (6) The licensing authority may publish a list of countries which it is satisfied have a regulatory framework applicable to active substances exported to Great Britain[^key-359cf5f099c29800d51288682d86f39f] that is equivalent to the regulatory framework in Great Britain, in that the respective control and enforcement activities in those countries ensures an equivalent level of protection of public health.
+> (6) The licensing authority may publish a list of countries which it is satisfied have a regulatory framework applicable to active substances exported to Great Britain[^c-359cf5f099c29800d51288682d86f39f] that is equivalent to the regulatory framework in Great Britain, in that the respective control and enforcement activities in those countries ensures an equivalent level of protection of public health.
 >
 > (7) Before including a country in the list under paragraph (6), the licensing authority must assess the equivalence referred to in that paragraph by—
 >
@@ -91,18 +91,18 @@ summary: ''
 
 ## Annotations
 
-[^key-09569054129e9558a0becd967a266e07]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-09569054129e9558a0becd967a266e07]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23884681]: Marginal citation: Regulation 45O was inserted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855).
 
-[^key-deb4475b941d734adbcee4e362744885]: Textual amendment: Reg. 44(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 32(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/32/a)
+[^c-deb4475b941d734adbcee4e362744885]: Textual amendment: Reg. 44(2) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 32(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/32/a)
 
-[^key-5f7f0c9981e6c9645ab85f5b8b2a1946]: Textual amendment: Reg. 44(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 32(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/32/b)
+[^c-5f7f0c9981e6c9645ab85f5b8b2a1946]: Textual amendment: Reg. 44(3) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 32(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/32/b)
 
-[^key-7d0380a2e8650afe6882d3e6677991b7]: Textual amendment: Reg. 44(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 32(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/32/c)
+[^c-7d0380a2e8650afe6882d3e6677991b7]: Textual amendment: Reg. 44(4) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 32(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/32/c)
 
-[^key-4325489101770f09312220b0ae5c0580]: Textual amendment: Reg. 44(4A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 32(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/32/d)
+[^c-4325489101770f09312220b0ae5c0580]: Textual amendment: Reg. 44(4A) inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 32(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/32/d)
 
-[^key-f48e24cdc8d40ad2c85d6aaf4280e3e9]: Textual amendment: Reg. 44(5) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 32(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/32/e)
+[^c-f48e24cdc8d40ad2c85d6aaf4280e3e9]: Textual amendment: Reg. 44(5) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 32(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/32/e)
 
-[^key-359cf5f099c29800d51288682d86f39f]: Textual amendment: Words in reg. 44(6) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 32(f)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/32/f)
+[^c-359cf5f099c29800d51288682d86f39f]: Textual amendment: Words in reg. 44(6) substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 32(f)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/32/f)

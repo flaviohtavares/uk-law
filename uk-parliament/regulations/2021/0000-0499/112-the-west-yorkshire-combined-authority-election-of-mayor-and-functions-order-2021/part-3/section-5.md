@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Concurrent exercise of local authority functions[^key-46d3d108659706be532ede88aa5df40b]
+## 5. Concurrent exercise of local authority functions[^c-46d3d108659706be532ede88aa5df40b]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-46d3d108659706be532ede88aa5df40b]: Commencement: Art. 5 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
+[^c-46d3d108659706be532ede88aa5df40b]: Commencement: Art. 5 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
 
 [^c24433281]: Marginal citation: [Section 51A](https://www.legislation.gov.uk/uksi/2021/112/section/51A) was inserted by section 44 of the Apprenticeships, Skills, Children and Learning Act 2009 and was amended by [S.I. 2010/1158](https://www.legislation.gov.uk/uksi/2010/1158).
 

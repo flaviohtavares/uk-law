@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Interpretation, translation and communication through an intermediary[^key-e42014822d608c0767ae9bedff61e5e4]
+## 21. Interpretation, translation and communication through an intermediary[^c-e42014822d608c0767ae9bedff61e5e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ and references to interpretation shall be construed accordingly.
 
 ## Annotations
 
-[^key-e42014822d608c0767ae9bedff61e5e4]: Textual amendment: Art. 21 substituted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [20](https://www.legislation.gov.uk/uksi/2013/2527/article/20)
+[^c-e42014822d608c0767ae9bedff61e5e4]: Textual amendment: Art. 21 substituted (27.10.2013) by [The Armed Forces (Interpretation, Translation and Alcohol and Drug Tests) Rules 2013 (S.I. 2013/2527)](https://www.legislation.gov.uk/uksi/2013/2527), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2527/article/1/2), [20](https://www.legislation.gov.uk/uksi/2013/2527/article/20)

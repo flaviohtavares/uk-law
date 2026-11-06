@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**68.**[^key-c2ffc67468bd139efacf1f030fca3d93] In Schedule 1, Part 3, in paragraph 12(1)(c)(vi), for “ancient monuments” substitute “monuments of special historic interest”.
+**68.**[^c-c2ffc67468bd139efacf1f030fca3d93] In Schedule 1, Part 3, in paragraph 12(1)(c)(vi), for “ancient monuments” substitute “monuments of special historic interest”.
 
 ## Annotations
 
-[^key-c2ffc67468bd139efacf1f030fca3d93]: Commencement: [Reg. 68](https://www.legislation.gov.uk/wsi/2024/924/regulation/68) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-c2ffc67468bd139efacf1f030fca3d93]: Commencement: [Reg. 68](https://www.legislation.gov.uk/wsi/2024/924/regulation/68) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)

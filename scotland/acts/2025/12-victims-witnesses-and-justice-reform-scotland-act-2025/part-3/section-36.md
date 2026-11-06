@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Right of eligible persons to receive information in event of death or incapacity of victim[^key-9a354ef0532b56a5388cc24e4df8cd98]
+## 36. Right of eligible persons to receive information in event of death or incapacity of victim[^c-9a354ef0532b56a5388cc24e4df8cd98]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ Part 1 of schedule 3 modifies the Criminal Justice (Scotland) Act 2003 to make p
 
 ## Annotations
 
-[^key-9a354ef0532b56a5388cc24e4df8cd98]: Commencement: S. 36 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-9a354ef0532b56a5388cc24e4df8cd98]: Commencement: S. 36 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

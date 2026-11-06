@@ -25,7 +25,7 @@ summary: ''
 - (a) the relevant conformity assessment procedure has been carried out;
 - (b) the manufacturer has drawn up the technical documentation;
 - (c) the pressure equipment or assembly—
-  - (i) bears the UK[^key-f46ae427851e6c7dc4976b1a813d4555] marking; and
+  - (i) bears the UK[^c-f46ae427851e6c7dc4976b1a813d4555] marking; and
   - (ii) is accompanied by the required documents; and
 - (d) the manufacturer has complied with the requirements of regulation 13 (labelling).
 
@@ -72,6 +72,6 @@ summary: ''
 
 [^M_E_71c4f5ea-37d7-4d9a-a3d2-c432670e1893]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-f46ae427851e6c7dc4976b1a813d4555]: Textual amendment: Word in [reg. 21(1)(c)(i)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/21/1/c/i) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/14) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f46ae427851e6c7dc4976b1a813d4555]: Textual amendment: Word in [reg. 21(1)(c)(i)](https://www.legislation.gov.uk/uksi/2016/1105/regulation/21/1/c/i) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 24 para. 14](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/14) (with [Sch. 24 para. 41](https://www.legislation.gov.uk/uksi/2019/696/schedule/24/paragraph/41)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_a888c4d7-7fa9-460b-f753-838fbf05499d]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

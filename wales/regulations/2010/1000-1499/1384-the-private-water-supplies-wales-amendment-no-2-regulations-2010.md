@@ -27,7 +27,7 @@ summary: ''
 
 WATER, WALES
 
-The Private Water Supplies (Wales) (Amendment) (No. 2) Regulations 2010 (revoked)[^key-84b523ae478e5e86d2f10d8f5acb41d9]
+The Private Water Supplies (Wales) (Amendment) (No. 2) Regulations 2010 (revoked)[^c-84b523ae478e5e86d2f10d8f5acb41d9]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 26 May 2010
 
-[^key-84b523ae478e5e86d2f10d8f5acb41d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84b523ae478e5e86d2f10d8f5acb41d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-84b523ae478e5e86d2f10d8f5acb41d9]
+## 1. Title, commencement and application[^c-84b523ae478e5e86d2f10d8f5acb41d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments[^key-84b523ae478e5e86d2f10d8f5acb41d9]
+## 2. Amendments[^c-84b523ae478e5e86d2f10d8f5acb41d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-84b523ae478e5e86d2f10d8f5acb41d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84b523ae478e5e86d2f10d8f5acb41d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-84b523ae478e5e86d2f10d8f5acb41d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-84b523ae478e5e86d2f10d8f5acb41d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-84b523ae478e5e86d2f10d8f5acb41d9]: Textual amendment: Regulations revoked (20.11.2017) by [The Private Water Supplies (Wales) Regulations 2017 (S.I. 2017/1041)](https://www.legislation.gov.uk/wsi/2017/1041), [reg. 24(1)(c)](https://www.legislation.gov.uk/wsi/2017/1041/regulation/24/1/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2017/1041/regulation/3))
+[^c-84b523ae478e5e86d2f10d8f5acb41d9]: Textual amendment: Regulations revoked (20.11.2017) by [The Private Water Supplies (Wales) Regulations 2017 (S.I. 2017/1041)](https://www.legislation.gov.uk/wsi/2017/1041), [reg. 24(1)(c)](https://www.legislation.gov.uk/wsi/2017/1041/regulation/24/1/c) (with [reg. 3](https://www.legislation.gov.uk/wsi/2017/1041/regulation/3))

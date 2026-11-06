@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Duration of licences: prisoners serving indeterminate custodial sentences[^c21215271][^key-70fa6202fbf94cc5514df952fd814b4f]
+## 22. Duration of licences: prisoners serving indeterminate custodial sentences[^c21215271][^c-70fa6202fbf94cc5514df952fd814b4f]
 
 *Extent: N.I.*
 
@@ -49,7 +49,7 @@ the prisoner may make an application to the Parole Commissioners under this para
 
 [^c21215271]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisi/2008/1216/article/22) partly in operation; [art. 22](https://www.legislation.gov.uk/nisi/2008/1216/article/22) not in operation at date Order made see [art. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4); [art. 22](https://www.legislation.gov.uk/nisi/2008/1216/article/22) in operation for certain purposes at 15.5.2008 by [S.R. 2008/217](https://www.legislation.gov.uk/nisr/2008/217), [art. 2](https://www.legislation.gov.uk/nisr/2008/217/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/217/schedule) (with transitory provision in [art. 4](https://www.legislation.gov.uk/nisr/2008/217/article/4))
 
-[^key-70fa6202fbf94cc5514df952fd814b4f]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisi/2008/1216/article/22) in operation at 1.7.2015 in so far as not already in operation by [S.R. 2015/290](https://www.legislation.gov.uk/nisr/2015/290), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/290/article/2/a)
+[^c-70fa6202fbf94cc5514df952fd814b4f]: Commencement: [Art. 22](https://www.legislation.gov.uk/nisi/2008/1216/article/22) in operation at 1.7.2015 in so far as not already in operation by [S.R. 2015/290](https://www.legislation.gov.uk/nisr/2015/290), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/290/article/2/a)
 
 [^c22092031]: Textual amendment: Words in [art. 22(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/22/4) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2010/976/article/6/2), [Sch. 5 para. 17](https://www.legislation.gov.uk/uksi/2010/976/schedule/5/paragraph/17) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 

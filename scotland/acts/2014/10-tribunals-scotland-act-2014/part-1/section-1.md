@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Establishment of the Tribunals[^key-6dbca6a7a96ae336644bdab403822ae6]
+## 1. Establishment of the Tribunals[^c-6dbca6a7a96ae336644bdab403822ae6]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dbca6a7a96ae336644bdab403822ae6]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/10/section/1) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-6dbca6a7a96ae336644bdab403822ae6]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2014/10/section/1) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

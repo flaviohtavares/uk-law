@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Felling or lopping[^key-67b7a8904b069b09a229f477d33a0313]
+## 47. Felling or lopping[^c-67b7a8904b069b09a229f477d33a0313]
 
 *Extent: E+W*
 
@@ -35,12 +35,12 @@ summary: ''
 
 (6) Any application for consent under paragraph (4) must include a statement that the provisions of paragraph (5) apply to that application.
 
-(7) If an application for consent under paragraph (4) does not include the statement required under paragraph (6), then the provisions of paragraph (5)[^key-221dfc36d0083d7f61a2f83e0c7029cb] will not apply to that application.
+(7) If an application for consent under paragraph (4) does not include the statement required under paragraph (6), then the provisions of paragraph (5)[^c-221dfc36d0083d7f61a2f83e0c7029cb] will not apply to that application.
 
 (8) The consent of the relevant highway authority is not required under paragraph (4) where—
 
-- (a) the tree to be felled, lopped, pruned, cut, trimmed, coppiced, pollarded, or reduced in height or width is described or shown as ‘affected vegetation’ on the trees and hedgerows to be removed or managed plans[^key-b6de7462ff23443e42831574cc65412f]; and
-- (b) the undertaker has given 5 days notice[^key-0c32f6739912c3455d296d1e2d6d63d0] to the relevant highway authority of its intention to carry out any of the operations described in sub-paragraph (a).
+- (a) the tree to be felled, lopped, pruned, cut, trimmed, coppiced, pollarded, or reduced in height or width is described or shown as ‘affected vegetation’ on the trees and hedgerows to be removed or managed plans[^c-b6de7462ff23443e42831574cc65412f]; and
+- (b) the undertaker has given 5 days notice[^c-0c32f6739912c3455d296d1e2d6d63d0] to the relevant highway authority of its intention to carry out any of the operations described in sub-paragraph (a).
 
 (9) The power conferred by paragraph (1) removes any obligation upon the undertaker to secure any consent to remove hedgerows under the Hedgerows Regulations 1997[^f00044].
 
@@ -48,12 +48,12 @@ summary: ''
 
 ## Annotations
 
-[^key-67b7a8904b069b09a229f477d33a0313]: Commencement: Art. 47 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-67b7a8904b069b09a229f477d33a0313]: Commencement: Art. 47 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
 
-[^key-221dfc36d0083d7f61a2f83e0c7029cb]: Textual amendment: Words in [art. 47(7)](https://www.legislation.gov.uk/uksi/2024/958/article/47/7) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-221dfc36d0083d7f61a2f83e0c7029cb]: Textual amendment: Words in [art. 47(7)](https://www.legislation.gov.uk/uksi/2024/958/article/47/7) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-b6de7462ff23443e42831574cc65412f]: Textual amendment: Words in [art. 47(8)(a)](https://www.legislation.gov.uk/uksi/2024/958/article/47/8/a) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-b6de7462ff23443e42831574cc65412f]: Textual amendment: Words in [art. 47(8)(a)](https://www.legislation.gov.uk/uksi/2024/958/article/47/8/a) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
-[^key-0c32f6739912c3455d296d1e2d6d63d0]: Textual amendment: Words in [art. 47(8)(b)](https://www.legislation.gov.uk/uksi/2024/958/article/47/8/b) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
+[^c-0c32f6739912c3455d296d1e2d6d63d0]: Textual amendment: Words in [art. 47(8)(b)](https://www.legislation.gov.uk/uksi/2024/958/article/47/8/b) substituted (9.4.2025) by [The National Grid (Bramford to Twinstead Reinforcement) (Correction) Order 2025 (S.I. 2025/475)](https://www.legislation.gov.uk/uksi/2025/475), [art. 1](https://www.legislation.gov.uk/uksi/2025/475/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/475/schedule) Table 1
 
 [^f00044]: Footnote: [S.I. 1997/1160](https://www.legislation.gov.uk/uksi/1997/1160).

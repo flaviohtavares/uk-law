@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. Appeals from the Tribunal[^key-826d1d9520b4819df92ac16b5dda7570]
+## 67A. Appeals from the Tribunal[^c-826d1d9520b4819df92ac16b5dda7570]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-826d1d9520b4819df92ac16b5dda7570]: Textual amendment: S. 67A inserted (31.12.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 242(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/242/1), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/1379](https://www.legislation.gov.uk/uksi/2018/1379), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1379/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1379/regulation/3))
+[^c-826d1d9520b4819df92ac16b5dda7570]: Textual amendment: S. 67A inserted (31.12.2018) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [ss. 242(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/242/1), [272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2018/1379](https://www.legislation.gov.uk/uksi/2018/1379), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1379/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2018/1379/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Arbitration[^key-e9a79568c7ace8b5e1ec93ceb7a534c3]
+## 39. Arbitration[^c-e9a79568c7ace8b5e1ec93ceb7a534c3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Any difference under any provision of this Order, unless otherwise provided for,
 
 ## Annotations
 
-[^key-e9a79568c7ace8b5e1ec93ceb7a534c3]: Commencement: Art. 39 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)
+[^c-e9a79568c7ace8b5e1ec93ceb7a534c3]: Commencement: Art. 39 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1574/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Regulation [(EC) No 552/2004](https://www.legislation.gov.uk/eur/2004/552): introduction[^key-933a9bb26ae8dc786ed00b22ca9a02c5]
+## 56. Regulation [(EC) No 552/2004](https://www.legislation.gov.uk/eur/2004/552): introduction[^c-933a9bb26ae8dc786ed00b22ca9a02c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation [(EC) No 552/2004](https://www.legislation.gov.uk/eur/2004/552) of th
 
 ## Annotations
 
-[^key-933a9bb26ae8dc786ed00b22ca9a02c5]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-933a9bb26ae8dc786ed00b22ca9a02c5]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

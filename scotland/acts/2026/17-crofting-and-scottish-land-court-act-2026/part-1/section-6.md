@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Enforcement action against subtenants and tenants of short leases[^key-192ab579a77e2edfe97e630bb84585ff]
+## 6. Enforcement action against subtenants and tenants of short leases[^c-192ab579a77e2edfe97e630bb84585ff]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-192ab579a77e2edfe97e630bb84585ff]: Commencement: S. 6 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-192ab579a77e2edfe97e630bb84585ff]: Commencement: S. 6 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

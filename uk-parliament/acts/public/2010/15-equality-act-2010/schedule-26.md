@@ -519,7 +519,7 @@ Section 211
 (3) In subsection (2)—
 
 - (a) after “virtue of” insert “ any of the following provisions of the Equality Act 2010 ”, and
-- (b)[^key-e8c5801f37fec2d6c2c0c3eb52e77a8e] for paragraphs (a) to (c) substitute—
+- (b)[^c-e8c5801f37fec2d6c2c0c3eb52e77a8e] for paragraphs (a) to (c) substitute—
 
   > - (a) section 1 (public sector duty regarding socio-economic inequalities),
   > - (b) section 149, 153 or 154 (public sector equality duty),
@@ -693,7 +693,7 @@ Section 211
 
 [^c22525841]: Textual amendment: [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/21) renumbered (1.10.2010) as para. 76 by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/2279/article/12), [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/1/c)
 
-[^key-e8c5801f37fec2d6c2c0c3eb52e77a8e]: Commencement: Sch. 26 para. 76(3)(b) in force at 20.11.2021 for W.S. in so far as not already in force by [S.I. 2021/1322](https://www.legislation.gov.uk/uksi/2021/1322), [arts. 3](https://www.legislation.gov.uk/uksi/2021/1322/article/3), [4](https://www.legislation.gov.uk/uksi/2021/1322/article/4)
+[^c-e8c5801f37fec2d6c2c0c3eb52e77a8e]: Commencement: Sch. 26 para. 76(3)(b) in force at 20.11.2021 for W.S. in so far as not already in force by [S.I. 2021/1322](https://www.legislation.gov.uk/uksi/2021/1322), [arts. 3](https://www.legislation.gov.uk/uksi/2021/1322/article/3), [4](https://www.legislation.gov.uk/uksi/2021/1322/article/4)
 
 [^c22525851]: Textual amendment: [Sch. 26 para. 22](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/22) renumbered (1.10.2010) as para. 77 by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/2279/article/12), [Sch. 1 para. 1(c)](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/1/c)
 

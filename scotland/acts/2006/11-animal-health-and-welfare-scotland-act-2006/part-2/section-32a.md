@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32A. Powers of authorised person where animal taken into possession[^key-4bee562f12627eb74e4d0b2a07b6ecb1]
+## 32A. Powers of authorised person where animal taken into possession[^c-4bee562f12627eb74e4d0b2a07b6ecb1]
 
 *Extent: S*
 
@@ -78,4 +78,4 @@ take any of the steps mentioned in subsection (2) (in this section and in sectio
 
 ## Annotations
 
-[^key-4bee562f12627eb74e4d0b2a07b6ecb1]: Textual amendment: [Ss. 32A-32M](https://www.legislation.gov.uk/asp/2006/11/section/32A) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 19](https://www.legislation.gov.uk/asp/2020/14/section/19), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/c)
+[^c-4bee562f12627eb74e4d0b2a07b6ecb1]: Textual amendment: [Ss. 32A-32M](https://www.legislation.gov.uk/asp/2006/11/section/32A) inserted (30.9.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 19](https://www.legislation.gov.uk/asp/2020/14/section/19), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2021/303](https://www.legislation.gov.uk/ssi/2021/303), [reg. 2(c)](https://www.legislation.gov.uk/ssi/2021/303/regulation/2/c)

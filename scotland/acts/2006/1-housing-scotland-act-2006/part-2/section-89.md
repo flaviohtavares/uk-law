@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 89. Grant and loan applications: offences[^key-e5c54033ee9f7df73fa44660226fa4da]
+## 89. Grant and loan applications: offences[^c-e5c54033ee9f7df73fa44660226fa4da]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ is guilty of an offence.
 
 ## Annotations
 
-[^key-e5c54033ee9f7df73fa44660226fa4da]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2006/1/section/89) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-e5c54033ee9f7df73fa44660226fa4da]: Commencement: [S. 89](https://www.legislation.gov.uk/asp/2006/1/section/89) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

@@ -38,20 +38,20 @@ summary: ''
 
 (4) Scottish Water must maintain such records as are sufficient to enable it to establish, in relation to each sample taken for the purposes of this Part, that such of the appropriate requirements as are applicable to that sample have been satisfied.
 
-(5)[^key-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11)[^key-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-19486cc10c2c9d9bbf4a545cab08616a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-19486cc10c2c9d9bbf4a545cab08616a]: Textual amendment: [Reg. 15(5)-(11)](https://www.legislation.gov.uk/ssi/2014/364/regulation/15/5) omitted (27.10.2017) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [4(6)](https://www.legislation.gov.uk/ssi/2017/281/regulation/4/6)
+[^c-19486cc10c2c9d9bbf4a545cab08616a]: Textual amendment: [Reg. 15(5)-(11)](https://www.legislation.gov.uk/ssi/2014/364/regulation/15/5) omitted (27.10.2017) by virtue of [The Public Water Supplies (Scotland) Amendment Regulations 2017 (S.S.I. 2017/281)](https://www.legislation.gov.uk/ssi/2017/281), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2017/281/regulation/1/1), [4(6)](https://www.legislation.gov.uk/ssi/2017/281/regulation/4/6)

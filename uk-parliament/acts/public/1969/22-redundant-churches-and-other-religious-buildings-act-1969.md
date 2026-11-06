@@ -45,7 +45,7 @@ An Act to authorise the making of grants to the Redundant Churches Fund; to excl
 
 ## 2. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c690986]
 
-## 3. Substitution, in section 66 of Pastoral Measure 1968, of Minister ofHousing and Local Government for Minister of Public Building andWorks.[^key-c29e56f66203a9f82d71db91ba600b9e][^c690987]
+## 3. Substitution, in section 66 of Pastoral Measure 1968, of Minister ofHousing and Local Government for Minister of Public Building andWorks.[^c-c29e56f66203a9f82d71db91ba600b9e][^c690987]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -62,7 +62,7 @@ An Act to authorise the making of grants to the Redundant Churches Fund; to excl
 - (a) that those premises are no longer required (whether wholly or in part) for use as a place of public worship, and
 - (b) that one of the following, namely—
   - (i) the Secretary of State,
-  - (ia)[^key-ccda7c34b5dda49c8a3e271a1afe9190] the Welsh Ministers,
+  - (ia)[^c-ccda7c34b5dda49c8a3e271a1afe9190] the Welsh Ministers,
   - (ii) the Commission, or
   - (iii) a prescribed charity,
 
@@ -88,7 +88,7 @@ the court may, under its jurisdiction with respect to charities, establish a sch
   - (ii) for giving to the public reasonable access to those premises or to any such land, and
 - (b) so far as is necessary for the purpose of the discharge of such functions or the giving of such access, any rights of way enjoyed by persons attending services at those premises.
 
-(6)[^key-46ff51a9631702bdb1ae537180adae70] The Charity Commission may, on the application of the acquirer of the relevant premises, by order establish a scheme under section 69 of the Charities Act 2011 (Commission's concurrent jurisdiction with the High Court for certain purposes) making provision for the restoration of the relevant premises, or part of them, to use as a place of public worship.
+(6)[^c-46ff51a9631702bdb1ae537180adae70] The Charity Commission may, on the application of the acquirer of the relevant premises, by order establish a scheme under section 69 of the Charities Act 2011 (Commission's concurrent jurisdiction with the High Court for certain purposes) making provision for the restoration of the relevant premises, or part of them, to use as a place of public worship.
 
 (7) The Charity Commission may so establish any such scheme notwithstanding—
 
@@ -101,20 +101,20 @@ and if the relevant charity has ceased to exist, any such scheme may provide for
 
 (8A) Chapter 2 of Part 17 of, and Schedule 6 to, the Charities Act 2011 (appeals and applications to Tribunal) apply in relation to an order made by virtue of subsection (8) above as they apply in relation to an order made under section 69(1) of that Act.
 
-(9) In relation the Secretary of State and[^key-910443dad8bb8a7e46d0435b4bffb6bb] to the Commission—
+(9) In relation the Secretary of State and[^c-910443dad8bb8a7e46d0435b4bffb6bb] to the Commission—
 
 - (a) this section only applies to any premises falling within subsection (1) above if they are situated in England, and
 - (b) references in this section to land are references only to land situated in England.
 
-(9A)[^key-9a1ee9042ca2be8db8e18b570b4d8a06] In relation to the Welsh Ministers—
+(9A)[^c-9a1ee9042ca2be8db8e18b570b4d8a06] In relation to the Welsh Ministers—
 
 - (a) this section only applies to any premises falling within subsection (1) if they are situated in Wales, and
 - (b) references in this section to land are references only to land situated in Wales.
 
 (10) In relation to a prescribed charity, this section only applies to any premises falling within subsection (1) above if they constitute either—
 
-- (a) a listed building within the meaning of the Planning (Listed Buildings and Conservation Areas) Act 1990 or the Historic Environment (Wales) Act 2023[^key-3d84da4a6969070b003ed9a80aec861c], or
-- (b) a scheduled monument within the meaning of the Ancient Monuments and Archaeological Areas Act 1979 or the Historic Environment (Wales) Act 2023[^key-2b2193d87552f754931ffd5b4208f939].
+- (a) a listed building within the meaning of the Planning (Listed Buildings and Conservation Areas) Act 1990 or the Historic Environment (Wales) Act 2023[^c-3d84da4a6969070b003ed9a80aec861c], or
+- (b) a scheduled monument within the meaning of the Ancient Monuments and Archaeological Areas Act 1979 or the Historic Environment (Wales) Act 2023[^c-2b2193d87552f754931ffd5b4208f939].
 
 (11) The Secretary of State may direct that any charity specified in the direction shall be a prescribed charity for the purposes of this section; and any direction under this subsection may be varied or revoked by a further direction given by the Secretary of State.
 
@@ -122,17 +122,17 @@ and if the relevant charity has ceased to exist, any such scheme may provide for
 
 (13) In this section and section 5 below—
 
-- [^M_F_c7cfd13d-b5d4-455f-a79a-b8f56856ff8e]“[^key-44d3ca58c9bdf037b39985935f9b240b]**charity**” has the meaning given by section 10 of the Charities Act 2011
+- [^M_F_c7cfd13d-b5d4-455f-a79a-b8f56856ff8e]“[^c-44d3ca58c9bdf037b39985935f9b240b]**charity**” has the meaning given by section 10 of the Charities Act 2011
 - “ **the Commission** ” means the Historic Buildings and Monuments Commission for England;
-- [^M_F_deb80ef2-bb02-473f-f14b-3c0ad8b6d933]“[^key-f95a93885de56f38699616b5d8db3d7b]**the court**” has the same meaning as in the Charities Act 2011;
+- [^M_F_deb80ef2-bb02-473f-f14b-3c0ad8b6d933]“[^c-f95a93885de56f38699616b5d8db3d7b]**the court**” has the same meaning as in the Charities Act 2011;
 - “ **premises** ” includes a part of a building;
 - “ **prescribed charity** ” shall be construed by reference to subsection (11) above;
 
-[^key-11ae2021f67e003735e1cb4ad7823959] ...
+[^c-11ae2021f67e003735e1cb4ad7823959] ...
 
 ## 5. Trusts for repair etc. of premises to continue after transfer under section 4.[^c691017]
 
-(1) Where any premises to which section 4 of this Act applies are acquired by the Secretary of State, the Welsh Ministers,[^key-6f5b8216e3d7bb2480dea1423157b9e2] the Commission or a prescribed charity in pursuance of that section, any property of a charity whose purposes include—
+(1) Where any premises to which section 4 of this Act applies are acquired by the Secretary of State, the Welsh Ministers,[^c-6f5b8216e3d7bb2480dea1423157b9e2] the Commission or a prescribed charity in pursuance of that section, any property of a charity whose purposes include—
 
 - (a) the repair and maintenance of those premises, or
 - (b) the provision of objects for keeping on those premises, or
@@ -150,12 +150,12 @@ shall (subject to subsection (2) below) continue to be applicable for that purpo
 
 (1) This Act may be cited as the Redundant Churches and other Religious Buildings Act 1969.
 
-(2)[^key-2001fb4a3741cfbcbb1d32500e246a0b] Nothing in this Act affects—
+(2)[^c-2001fb4a3741cfbcbb1d32500e246a0b] Nothing in this Act affects—
 
 - (a) any power of the court (within the meaning of the Charities Act 2011) or the Charity Commission to establish a scheme for the administration of a charity, or
 - (b) the power of the Charity Commission under section 105 of that Act to authorise dealings with trust property.
 
-(3)[^key-47c86181261735414c593deffc0bc14b][^c691024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-47c86181261735414c593deffc0bc14b][^c691024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This Act does not extend to Scotland or Northern Ireland.
 
@@ -169,42 +169,42 @@ shall (subject to subsection (2) below) continue to be applicable for that purpo
 
 [^c690986]: Textual amendment: [S. 2](https://www.legislation.gov.uk/ukpga/1969/22/section/2) repealed by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123: 1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 3](https://www.legislation.gov.uk/ukpga/1990/11/section/3), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1990/11/schedule/1/part/I), [Sch. 3](https://www.legislation.gov.uk/ukpga/1990/11/schedule/3)
 
-[^key-c29e56f66203a9f82d71db91ba600b9e]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1969/22/section/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-c29e56f66203a9f82d71db91ba600b9e]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1969/22/section/3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
 [^c690987]: Modification: The text of ss. 3, 7(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
 [^c691002]: Textual amendment: S. 4 substituted (1.9.1992) by [Charities Act 1992 (c. 41)](https://www.legislation.gov.uk/ukpga/1992/41) , [s. 49](https://www.legislation.gov.uk/ukpga/1992/41/section/49) , [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/1992/41/schedule/5/paragraph/1) ; [S.I. 1992/1900](https://www.legislation.gov.uk/uksi/1992/1900) , [art. 2(1)](https://www.legislation.gov.uk/uksi/1992/1900/article/2/1) , [Sch. 1](https://www.legislation.gov.uk/uksi/1992/1900/schedule/1)
 
-[^key-ccda7c34b5dda49c8a3e271a1afe9190]: Textual amendment: S. 4(2)(b)(ia) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 14(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/14/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-ccda7c34b5dda49c8a3e271a1afe9190]: Textual amendment: S. 4(2)(b)(ia) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 14(a)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/14/a) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-46ff51a9631702bdb1ae537180adae70]: Textual amendment: S. 4(6)-(8A) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25) , [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355) , [Sch. 7 para. 17(1)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/17/1) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2) , [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8) )
+[^c-46ff51a9631702bdb1ae537180adae70]: Textual amendment: S. 4(6)-(8A) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25) , [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355) , [Sch. 7 para. 17(1)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/17/1) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2) , [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8) )
 
-[^key-910443dad8bb8a7e46d0435b4bffb6bb]: Textual amendment: Words in s. 4(9) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 14(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/14/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-910443dad8bb8a7e46d0435b4bffb6bb]: Textual amendment: Words in s. 4(9) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 14(b)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/14/b) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-9a1ee9042ca2be8db8e18b570b4d8a06]: Textual amendment: S. 4(9A) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 14(c)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/14/c) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-9a1ee9042ca2be8db8e18b570b4d8a06]: Textual amendment: S. 4(9A) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 14(c)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/14/c) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-3d84da4a6969070b003ed9a80aec861c]: Textual amendment: Words in s. 4(10)(a) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 14(d)(i)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/14/d/i) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-3d84da4a6969070b003ed9a80aec861c]: Textual amendment: Words in s. 4(10)(a) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 14(d)(i)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/14/d/i) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
-[^key-2b2193d87552f754931ffd5b4208f939]: Textual amendment: Words in s. 4(10)(b) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 14(d)(ii)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/14/d/ii) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-2b2193d87552f754931ffd5b4208f939]: Textual amendment: Words in s. 4(10)(b) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 14(d)(ii)](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/14/d/ii) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^M_F_c7cfd13d-b5d4-455f-a79a-b8f56856ff8e]: Textual amendment: Words in s. 4(13) inserted (14.3.2012 immediately before the Charities Act 2011 comes into force) by [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396) , [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1) , [Sch. para. 39(b)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/39/b)
 
-[^key-44d3ca58c9bdf037b39985935f9b240b]: Textual amendment: Words in s. 4(13) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 17(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/17/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-44d3ca58c9bdf037b39985935f9b240b]: Textual amendment: Words in s. 4(13) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 17(2)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/17/2) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
 [^M_F_deb80ef2-bb02-473f-f14b-3c0ad8b6d933]: Textual amendment: Words in s. 4(13) inserted (14.3.2012 immediately before the Charities Act 2011 comes into force) by [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396) , [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1) , [Sch. para. 39(c)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/39/c)
 
-[^key-f95a93885de56f38699616b5d8db3d7b]: Textual amendment: Words in s. 4(13) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 17(3)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/17/3) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-f95a93885de56f38699616b5d8db3d7b]: Textual amendment: Words in s. 4(13) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 17(3)](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/17/3) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-11ae2021f67e003735e1cb4ad7823959]: Textual amendment: Words in s. 4(13) omitted (14.3.2012 immediately before the Charities Act 2011 comes into force) by virtue of [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396) , [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1) , [Sch. para. 39(a)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/39/a)
+[^c-11ae2021f67e003735e1cb4ad7823959]: Textual amendment: Words in s. 4(13) omitted (14.3.2012 immediately before the Charities Act 2011 comes into force) by virtue of [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396) , [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1) , [Sch. para. 39(a)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/39/a)
 
 [^c691017]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1969/22/section/5) substituted (1.9.1992) by [Charities Act 1992 (c. 41)](https://www.legislation.gov.uk/ukpga/1992/41), [s. 49](https://www.legislation.gov.uk/ukpga/1992/41/section/49), [Sch. 5 para.2](https://www.legislation.gov.uk/ukpga/1992/41/schedule/5/paragraph/2); [S.I. 1992/1900](https://www.legislation.gov.uk/uksi/1992/1900), [art. 2(1)](https://www.legislation.gov.uk/uksi/1992/1900/article/2/1), [Sch.1](https://www.legislation.gov.uk/uksi/1992/1900/schedule/1)
 
-[^key-6f5b8216e3d7bb2480dea1423157b9e2]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1969/22/section/5/1) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 15](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/15) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
+[^c-6f5b8216e3d7bb2480dea1423157b9e2]: Textual amendment: Words in [s. 5(1)](https://www.legislation.gov.uk/ukpga/1969/22/section/5/1) inserted (W.) (4.11.2024) by [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 15](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/15) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/uksi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/uksi/2024/860/article/3/d)
 
 [^c691018]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/1969/22/section/6) repealed by [National Heritage Act 1980 (c. 17, SIF 3)](https://www.legislation.gov.uk/ukpga/1980/17), [s. 18(5)](https://www.legislation.gov.uk/ukpga/1980/17/section/18/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/1980/17/schedule/2)
 
-[^key-2001fb4a3741cfbcbb1d32500e246a0b]: Textual amendment: S. 7(2) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/18) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-2001fb4a3741cfbcbb1d32500e246a0b]: Textual amendment: S. 7(2) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 18](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/18) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-47c86181261735414c593deffc0bc14b]: Textual amendment: S. 7(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
+[^c-47c86181261735414c593deffc0bc14b]: Textual amendment: S. 7(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 2(2)
 
 [^c691024]: Modification: The text of ss. 3, 7(3) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.

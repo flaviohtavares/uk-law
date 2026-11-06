@@ -38,9 +38,9 @@ in respect of the same work.
 
 (4) In this section “**the agricultural wages legislation**” means—
 
-- (a) the *(Extent: E)* *(affected by repeal, see note)*[^key-6134312b8f161dd77ee6d873e9fecae7] [^c9532441]Agricultural Wages Act 1948; *(Extent: E)* *(affected by repeal, see note)*[^key-6134312b8f161dd77ee6d873e9fecae7]
-- (b) the [^c9532451]Agricultural Wages (Scotland) Act 1949; and *(Extent: W)* *(affected by repeal, see note)*[^key-ef27410529f061d492cd7b23102e0738]
-- (c) the Agricultural Wages (Regulation) (Northern Ireland) Order 1977 ; and *(Extent: W)*[^key-efc3a8fca02e9daefb6679ffdfc1e511]
+- (a) the *(Extent: E)* *(affected by repeal, see note)*[^c-6134312b8f161dd77ee6d873e9fecae7] [^c9532441]Agricultural Wages Act 1948; *(Extent: E)* *(affected by repeal, see note)*[^c-6134312b8f161dd77ee6d873e9fecae7]
+- (b) the [^c9532451]Agricultural Wages (Scotland) Act 1949; and *(Extent: W)* *(affected by repeal, see note)*[^c-ef27410529f061d492cd7b23102e0738]
+- (c) the Agricultural Wages (Regulation) (Northern Ireland) Order 1977 ; and *(Extent: W)*[^c-efc3a8fca02e9daefb6679ffdfc1e511]
 
 *Extent: W*
 
@@ -48,12 +48,12 @@ in respect of the same work.
 
 ## Annotations
 
-[^key-6134312b8f161dd77ee6d873e9fecae7]: Textual amendment: S. 46(4)(a) repealed (1.10.2013 for E.) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), art. 2)
+[^c-6134312b8f161dd77ee6d873e9fecae7]: Textual amendment: S. 46(4)(a) repealed (1.10.2013 for E.) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2013/24/schedule/20/paragraph/2); [S.I. 2013/1455](https://www.legislation.gov.uk/uksi/2013/1455), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/1455/article/3/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1455/schedule/2) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/2)[(4)](https://www.legislation.gov.uk/uksi/2013/1455/article/4/4)) (as amended (7.9.2013) by [S.I. 2013/2271](https://www.legislation.gov.uk/uksi/2013/2271), art. 2)
 
 [^c9532441]: Marginal citation: [1948 c. 47](https://www.legislation.gov.uk/ukpga/1948/47).
 
 [^c9532451]: Marginal citation: [1949 c. 30](https://www.legislation.gov.uk/ukpga/1949/30).
 
-[^key-ef27410529f061d492cd7b23102e0738]: Textual amendment: Word in s. 46(4)(b) omitted (W.) (9.12.2015) by virtue of [The Agricultural Sector (Wales) Act 2014 (Consequential Modification) Order 2015 (S.I. 2015/2001)](https://www.legislation.gov.uk/wsi/2015/2001), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/2001/article/1/1), [2(b)](https://www.legislation.gov.uk/wsi/2015/2001/article/2/b)
+[^c-ef27410529f061d492cd7b23102e0738]: Textual amendment: Word in s. 46(4)(b) omitted (W.) (9.12.2015) by virtue of [The Agricultural Sector (Wales) Act 2014 (Consequential Modification) Order 2015 (S.I. 2015/2001)](https://www.legislation.gov.uk/wsi/2015/2001), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/2001/article/1/1), [2(b)](https://www.legislation.gov.uk/wsi/2015/2001/article/2/b)
 
-[^key-efc3a8fca02e9daefb6679ffdfc1e511]: Textual amendment: S. 46(4)(d) and word inserted (W.) (9.12.2015) by [The Agricultural Sector (Wales) Act 2014 (Consequential Modification) Order 2015 (S.I. 2015/2001)](https://www.legislation.gov.uk/wsi/2015/2001), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/2001/article/1/1), [2(b)](https://www.legislation.gov.uk/wsi/2015/2001/article/2/b)
+[^c-efc3a8fca02e9daefb6679ffdfc1e511]: Textual amendment: S. 46(4)(d) and word inserted (W.) (9.12.2015) by [The Agricultural Sector (Wales) Act 2014 (Consequential Modification) Order 2015 (S.I. 2015/2001)](https://www.legislation.gov.uk/wsi/2015/2001), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/2001/article/1/1), [2(b)](https://www.legislation.gov.uk/wsi/2015/2001/article/2/b)

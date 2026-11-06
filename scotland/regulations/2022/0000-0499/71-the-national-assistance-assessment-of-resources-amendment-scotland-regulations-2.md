@@ -32,7 +32,7 @@ summary: ''
 
 National Assistance Services
 
-The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2022 (revoked)[^key-5677095ff52e4f1bc68424350c5b052a]
+The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2022 (revoked)[^c-5677095ff52e4f1bc68424350c5b052a]
 
 Made
 
@@ -46,34 +46,34 @@ Coming into force
 
 11th April 2022
 
-[^key-5677095ff52e4f1bc68424350c5b052a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5677095ff52e4f1bc68424350c5b052a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-5677095ff52e4f1bc68424350c5b052a]
+## 1. Citation, commencement, interpretation and extent[^c-5677095ff52e4f1bc68424350c5b052a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 20 of the principal Regulations[^key-5677095ff52e4f1bc68424350c5b052a]
+## 2. Amendment of regulation 20 of the principal Regulations[^c-5677095ff52e4f1bc68424350c5b052a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 28 of the principal Regulations[^key-5677095ff52e4f1bc68424350c5b052a]
+## 3. Amendment of regulation 28 of the principal Regulations[^c-5677095ff52e4f1bc68424350c5b052a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of schedule 3 of the principal Regulations[^key-5677095ff52e4f1bc68424350c5b052a]
+## 4. Amendment of schedule 3 of the principal Regulations[^c-5677095ff52e4f1bc68424350c5b052a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-5677095ff52e4f1bc68424350c5b052a]
+## 5. Revocations[^c-5677095ff52e4f1bc68424350c5b052a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5677095ff52e4f1bc68424350c5b052a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5677095ff52e4f1bc68424350c5b052a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5677095ff52e4f1bc68424350c5b052a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5677095ff52e4f1bc68424350c5b052a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5677095ff52e4f1bc68424350c5b052a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2022/71) revoked (10.4.2023) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2023 (S.S.I. 2023/19)](https://www.legislation.gov.uk/ssi/2023/19), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/19/regulation/1/1), [6(c)](https://www.legislation.gov.uk/ssi/2023/19/regulation/6/c)
+[^c-5677095ff52e4f1bc68424350c5b052a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2022/71) revoked (10.4.2023) by [The National Assistance (Assessment of Resources) Amendment (Scotland) Regulations 2023 (S.S.I. 2023/19)](https://www.legislation.gov.uk/ssi/2023/19), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/19/regulation/1/1), [6(c)](https://www.legislation.gov.uk/ssi/2023/19/regulation/6/c)

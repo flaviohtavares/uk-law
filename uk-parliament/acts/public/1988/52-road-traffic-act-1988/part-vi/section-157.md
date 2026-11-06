@@ -23,7 +23,7 @@ summary: ''
 (1) Subject to subsection (2) below, where—
 
 - (a) a payment, other than a payment under section 158 of this Act, is made (whether or not with an admission of liability) in respect of the death of, or bodily injury to, any person arising out of the use of a motor vehicle on a road or in a place to which the public have a right of access, and
-- (b)[^key-e4db127b4d7998933690ba19918bad61] the payment is made by an authorised insurer, the payment being made under or in consequence of a policy issued under section 145 of this Act, and
+- (b)[^c-e4db127b4d7998933690ba19918bad61] the payment is made by an authorised insurer, the payment being made under or in consequence of a policy issued under section 145 of this Act, and
 - (c) the person who has so died or been bodily injured has to the knowledge of the insurer or owner, as the case may be, received treatment at a hospital, whether as an in-patient or as an out-patient, in respect of the injury so arising,
 
 the insurer or owner must pay the expenses reasonably incurred by the hospital in affording the treatment, after deducting from the expenses any moneys actually received in payment of a specific charge for the treatment, not being moneys received under any contributory scheme.
@@ -60,7 +60,7 @@ the insurer or owner must pay the expenses reasonably incurred by the hospital i
 
 [^c13992531]: Modification: S. 157 excluded (23.6.1999) by [S.I. 1999/1736](https://www.legislation.gov.uk/uksi/1999/1736), [art. 8(1)(b)(2)(b)](https://www.legislation.gov.uk/uksi/1999/1736/article/8/1/b/2/b)
 
-[^key-e4db127b4d7998933690ba19918bad61]: Textual amendment: S. 157(1)(b) substituted (1.11.2019) by [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/20) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-e4db127b4d7998933690ba19918bad61]: Textual amendment: S. 157(1)(b) substituted (1.11.2019) by [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/20) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
 [^c13992541]: Textual amendment: Sum in s. 157(2) substituted (17.4.1995) by [S.I. 1995/889](https://www.legislation.gov.uk/uksi/1995/889), [art. 2](https://www.legislation.gov.uk/uksi/1995/889/article/2)
 

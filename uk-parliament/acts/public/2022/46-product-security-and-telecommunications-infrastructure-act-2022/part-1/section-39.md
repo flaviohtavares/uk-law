@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Penalty notices: further provision[^key-cb7616ff859d1a2696046c0f2b3ca074][^key-f2bbdb0bd8dce35d234345b0642bc07c]
+## 39. Penalty notices: further provision[^c-cb7616ff859d1a2696046c0f2b3ca074][^c-f2bbdb0bd8dce35d234345b0642bc07c]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cb7616ff859d1a2696046c0f2b3ca074]: Commencement: S. 39 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-cb7616ff859d1a2696046c0f2b3ca074]: Commencement: S. 39 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-f2bbdb0bd8dce35d234345b0642bc07c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/46/section/39) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-f2bbdb0bd8dce35d234345b0642bc07c]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2022/46/section/39) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

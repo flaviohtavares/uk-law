@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Alteration of street layout[^key-b26acd6f88de83f509f81f5a432ded90]
+## 11. Alteration of street layout[^c-b26acd6f88de83f509f81f5a432ded90]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may, for the purposes of constructing the authorised development,
 
 ## Annotations
 
-[^key-b26acd6f88de83f509f81f5a432ded90]: Commencement: Art. 11 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-b26acd6f88de83f509f81f5a432ded90]: Commencement: Art. 11 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 108. Loss of qualification as insolvency practitioner[^key-c6141648d7f4a531aa2fa7f72b30d07e]
+## 108. Loss of qualification as insolvency practitioner[^c-c6141648d7f4a531aa2fa7f72b30d07e]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6141648d7f4a531aa2fa7f72b30d07e]: Commencement: Rule 108 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-c6141648d7f4a531aa2fa7f72b30d07e]: Commencement: Rule 108 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

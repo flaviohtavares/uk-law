@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 136. Payment of grants for books, travel and other expenditure and disabled part-time students’ allowances[^key-d3c334b0af710bc30175f8d9ddb7affe]
+## 136. Payment of grants for books, travel and other expenditure and disabled part-time students’ allowances[^c-d3c334b0af710bc30175f8d9ddb7affe]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3c334b0af710bc30175f8d9ddb7affe]: Commencement: Reg. 136 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-d3c334b0af710bc30175f8d9ddb7affe]: Commencement: Reg. 136 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Air traffic service equipment records[^key-fbb346b1c9b632b5870b7bbec9fd6147]
+## 125. Air traffic service equipment records[^c-fbb346b1c9b632b5870b7bbec9fd6147]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbb346b1c9b632b5870b7bbec9fd6147]: Textual amendment: [Art. 125](https://www.legislation.gov.uk/uksi/2015/870/article/125) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [9](https://www.legislation.gov.uk/uksi/2020/1280/article/9)
+[^c-fbb346b1c9b632b5870b7bbec9fd6147]: Textual amendment: [Art. 125](https://www.legislation.gov.uk/uksi/2015/870/article/125) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [9](https://www.legislation.gov.uk/uksi/2020/1280/article/9)

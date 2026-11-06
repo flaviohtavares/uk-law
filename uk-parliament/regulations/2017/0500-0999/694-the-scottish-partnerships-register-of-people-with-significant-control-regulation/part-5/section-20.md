@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Duty to deliver information about a relevant change[^key-81599318c8e380b000364ca71609611a]
+## 20. Duty to deliver information about a relevant change[^c-81599318c8e380b000364ca71609611a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ within the period of 14 days beginning with the day on which the eligible Scotti
 
 ## Annotations
 
-[^key-81599318c8e380b000364ca71609611a]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2017/694/regulation/20) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [25](https://www.legislation.gov.uk/uksi/2020/645/regulation/25)
+[^c-81599318c8e380b000364ca71609611a]: Modification: [Reg. 20](https://www.legislation.gov.uk/uksi/2017/694/regulation/20) modified (temp.) (27.6.2020) by [The Companies etc. (Filing Requirements) (Temporary Modifications) Regulations 2020 (S.I. 2020/645)](https://www.legislation.gov.uk/uksi/2020/645), [regs. 2](https://www.legislation.gov.uk/uksi/2020/645/regulation/2), [25](https://www.legislation.gov.uk/uksi/2020/645/regulation/25)
 
 [^c23050761]: Marginal citation: See paragraphs (3) and (4) of regulation 11 for the meaning of a “relevant change”.

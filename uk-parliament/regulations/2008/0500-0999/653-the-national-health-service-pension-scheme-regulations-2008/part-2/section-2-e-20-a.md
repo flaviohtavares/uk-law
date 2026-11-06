@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.E.20 A. Pension payable when member dies on or after reaching age 75[^key-3b4fbd3acc16848e5dcc463a2100180e]
+## 2.E.20 A. Pension payable when member dies on or after reaching age 75[^c-3b4fbd3acc16848e5dcc463a2100180e]
 
 *Extent: E+W*
 
-(1) If , on or before 5th April 2011,[^key-46bcc9f175a2c53e9850fae0d518621f] a pensioner member or a pension credit member dies—
+(1) If , on or before 5th April 2011,[^c-46bcc9f175a2c53e9850fae0d518621f] a pensioner member or a pension credit member dies—
 
 - (a) on or after reaching age 75, and
 - (b) before the fifth anniversary of the date on which the member’s pension became payable,
@@ -38,6 +38,6 @@ an annual pension, calculated in accordance with paragraph (2), may be payable f
 
 ## Annotations
 
-[^key-3b4fbd3acc16848e5dcc463a2100180e]: Textual amendment: [Reg. 2.E.20A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.20A) inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [37](https://www.legislation.gov.uk/uksi/2008/2263/regulation/37) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
+[^c-3b4fbd3acc16848e5dcc463a2100180e]: Textual amendment: [Reg. 2.E.20A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.20A) inserted (1.10.2008) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2008 (S.I. 2008/2263)](https://www.legislation.gov.uk/uksi/2008/2263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2008/2263/regulation/1/3), [37](https://www.legislation.gov.uk/uksi/2008/2263/regulation/37) (with [reg. 93](https://www.legislation.gov.uk/uksi/2008/2263/regulation/93))
 
-[^key-46bcc9f175a2c53e9850fae0d518621f]: Textual amendment: Words in [reg. 2.E.20A(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.20A/1) inserted (with effect from 6.4.2011) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 (S.I. 2011/2586)](https://www.legislation.gov.uk/uksi/2011/2586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/5), [19](https://www.legislation.gov.uk/uksi/2011/2586/regulation/19)
+[^c-46bcc9f175a2c53e9850fae0d518621f]: Textual amendment: Words in [reg. 2.E.20A(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.E.20A/1) inserted (with effect from 6.4.2011) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2011 (S.I. 2011/2586)](https://www.legislation.gov.uk/uksi/2011/2586), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/2)[(5)](https://www.legislation.gov.uk/uksi/2011/2586/regulation/1/5), [19](https://www.legislation.gov.uk/uksi/2011/2586/regulation/19)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Definitions relating to the Crown[^key-befc186d5d177cb1adb04a0d52615ccb]
+## 89. Definitions relating to the Crown[^c-befc186d5d177cb1adb04a0d52615ccb]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-befc186d5d177cb1adb04a0d52615ccb]: Commencement: S. 89 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)
+[^c-befc186d5d177cb1adb04a0d52615ccb]: Commencement: S. 89 in force at 12.9.2025, see [s. 92(1)](https://www.legislation.gov.uk/asc/2025/4/section/92/1)

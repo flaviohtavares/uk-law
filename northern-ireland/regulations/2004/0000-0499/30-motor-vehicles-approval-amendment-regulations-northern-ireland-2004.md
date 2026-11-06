@@ -27,200 +27,200 @@ summary: ''
 
 2004 No. 30
 
-ROAD TRAFFIC AND VEHICLES *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+ROAD TRAFFIC AND VEHICLES *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-Motor Vehicles (Approval) (Amendment) Regulations (Northern Ireland) 2004 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+Motor Vehicles (Approval) (Amendment) Regulations (Northern Ireland) 2004 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-Made *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+Made *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-2nd February 2004 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+2nd February 2004 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-Coming into operation *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+Coming into operation *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-31st March 2004 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+31st March 2004 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-The Department of the Environment, in exercise of the powers conferred on it by Articles 31A(1), 31D(1) and (3) and 218(1) of the Road Traffic (Northern Ireland) Order 1981 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations: *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+The Department of the Environment, in exercise of the powers conferred on it by Articles 31A(1), 31D(1) and (3) and 218(1) of the Road Traffic (Northern Ireland) Order 1981 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^f00001] and of every other power enabling it in that behalf, hereby makes the following Regulations: *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-## 1. Citation, commencement and interpretation (affected by repeal, see note)[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+## 1. Citation, commencement and interpretation (affected by repeal, see note)[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-(1) These Regulations may be cited as the Motor Vehicles (Approval) (Amendment) Regulations (Northern Ireland) 2004 and shall come into operation on 31st March 2004. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(1) These Regulations may be cited as the Motor Vehicles (Approval) (Amendment) Regulations (Northern Ireland) 2004 and shall come into operation on 31st March 2004. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-(2) In these Regulations “the principal Regulations” means the Motor Vehicles (Approval) Regulations (Northern Ireland) 2001 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^f00002].
+(2) In these Regulations “the principal Regulations” means the Motor Vehicles (Approval) Regulations (Northern Ireland) 2001 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^f00002].
 
-## 2. Amendment to regulation 2 (interpretation) (affected by repeal, see note)[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+## 2. Amendment to regulation 2 (interpretation) (affected by repeal, see note)[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-In regulation 2(1) of the principal Regulations – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+In regulation 2(1) of the principal Regulations – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-- (a) at the beginning there shall be inserted – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+- (a) at the beginning there shall be inserted – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-  > - “the 1995 Order” means the Road Traffic (Northern Ireland) Order 1995 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^f00003];
-
-  ;
-- (b) after the definitions beginning “axle weight” there shall be inserted – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-
-  > - “bi-purpose vehicle” means a vehicle constructed or adapted for the carriage of both goods and not more than eight passengers, not being a vehicle to which the 1985 Regulations apply nor a motor caravan; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+  > - “the 1995 Order” means the Road Traffic (Northern Ireland) Order 1995 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^f00003];
 
   ;
-- (c) after the definition of “family of types” there shall be inserted – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+- (b) after the definitions beginning “axle weight” there shall be inserted – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-  > - “goods vehicle” means a vehicle of a kind specified in regulation 3A(1)(a); *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-  > - “hire agreement” means an agreement for the bailment of a vehicle which is not a hire-purchase agreement; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-  > - “hire-purchase agreement” has the same meaning as in the Consumer Credit Act 1974 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^f00004];
+  > - “bi-purpose vehicle” means a vehicle constructed or adapted for the carriage of both goods and not more than eight passengers, not being a vehicle to which the 1985 Regulations apply nor a motor caravan; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
   ;
-- (d) after the definition of “relevant vehicle” there shall be inserted – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+- (c) after the definition of “family of types” there shall be inserted – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-  > - “recovery vehicle” has the meaning given in paragraph 5(2) of Part V of Schedule 1 to the Vehicle Excise and Registration Act 1994 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^f00005];
+  > - “goods vehicle” means a vehicle of a kind specified in regulation 3A(1)(a); *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+  > - “hire agreement” means an agreement for the bailment of a vehicle which is not a hire-purchase agreement; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+  > - “hire-purchase agreement” has the same meaning as in the Consumer Credit Act 1974 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^f00004];
 
-  and *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-- (e) after the definition of “subject matter” there shall be added – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+  ;
+- (d) after the definition of “relevant vehicle” there shall be inserted – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-  > - “the Testing Regulations” means the Goods Vehicles (Testing) Regulations (Northern Ireland) 2003 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^f00006].
+  > - “recovery vehicle” has the meaning given in paragraph 5(2) of Part V of Schedule 1 to the Vehicle Excise and Registration Act 1994 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^f00005];
+
+  and *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+- (e) after the definition of “subject matter” there shall be added – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+
+  > - “the Testing Regulations” means the Goods Vehicles (Testing) Regulations (Northern Ireland) 2003 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^f00006].
 
   .
 
-## 3. New regulation 3A (application of Regulations) (affected by repeal, see note)[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+## 3. New regulation 3A (application of Regulations) (affected by repeal, see note)[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-After regulation 3 of the principal Regulations there shall be inserted – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+After regulation 3 of the principal Regulations there shall be inserted – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-> **3A.** (1) Subject to paragraph (3), these Regulations apply to – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> **3A.** (1) Subject to paragraph (3), these Regulations apply to – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 >
-> - (a) every motor vehicle manufactured on or after 31st March 2004 and which – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->   - (i) either has a design gross weight not exceeding 3,500 kg or complies with the requirements specified in paragraph (2), *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->   - (ii (affected by repeal, see note))[^key-f7d2f7c98fa526ce82e8e2a094c47a88] has three or more wheels, and *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->   - (iii (affected by repeal, see note))[^key-f7d2f7c98fa526ce82e8e2a094c47a88] is either a goods vehicle, the tractive unit of an articulated vehicle (as defined in regulation 2(1) of the Construction and Use Regulations) or a bi-purpose vehicle; and *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (b) parts of any such vehicles. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (a) every motor vehicle manufactured on or after 31st March 2004 and which – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>   - (i) either has a design gross weight not exceeding 3,500 kg or complies with the requirements specified in paragraph (2), *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>   - (ii (affected by repeal, see note))[^c-f7d2f7c98fa526ce82e8e2a094c47a88] has three or more wheels, and *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>   - (iii (affected by repeal, see note))[^c-f7d2f7c98fa526ce82e8e2a094c47a88] is either a goods vehicle, the tractive unit of an articulated vehicle (as defined in regulation 2(1) of the Construction and Use Regulations) or a bi-purpose vehicle; and *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (b) parts of any such vehicles. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 >
-> (2) The requirements referred to in paragraph (1)(a)(i) are that the vehicle in question – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> (2) The requirements referred to in paragraph (1)(a)(i) are that the vehicle in question – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 >
-> - (a) has a design gross weight exceeding 3,500 kg but not exceeding 5,500 kg; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (b) has a kerbside weight not exceeding 3,425 kg; and *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (c) belongs to the same family of types as at least one vehicle to which these Regulations apply by virtue of paragraph (1)(a) and which has been granted a Department’s approval certificate on the basis that it complies with the approval requirements by virtue of these Regulations. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (a) has a design gross weight exceeding 3,500 kg but not exceeding 5,500 kg; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (b) has a kerbside weight not exceeding 3,425 kg; and *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (c) belongs to the same family of types as at least one vehicle to which these Regulations apply by virtue of paragraph (1)(a) and which has been granted a Department’s approval certificate on the basis that it complies with the approval requirements by virtue of these Regulations. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 >
-> (3) These Regulations do not apply to, or to the parts of, any of the following vehicles, that is to say – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> (3) These Regulations do not apply to, or to the parts of, any of the following vehicles, that is to say – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 >
-> - (a) a vehicle brought temporarily into Northern Ireland and which – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->   - (i) displays a registration mark mentioned in regulation 2(1) of the Motor Vehicles (International Circulation) (Registration and Licensing) Regulations (Northern Ireland) 1963 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^f00007], and *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->   - (ii (affected by repeal, see note))[^key-f7d2f7c98fa526ce82e8e2a094c47a88] complies in every respect with the requirements relating to motor vehicles contained in – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->     - (A) Article 21 and paragraph (1) of Article 22 of the Convention on Road Traffic concluded at Geneva on 19th September 1949 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^f00008], and Part I, Part II (so far as it relates to direction indicators and stop lights) and Part III of Annex 6 to that Convention; or *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->     - (B) paragraphs I, III and VIII of Article 3 of the International Convention relative to Motor Traffic concluded at Paris on 24th April 1926 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^f00009];
-> - (b) a vehicle which is to be exported from Northern Ireland and which either – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->   - (i) has not been used on a road in Northern Ireland for any purpose except that of proceeding from the place where it was manufactured to the place from which it is to be taken out of Northern Ireland, or *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->   - (ii (affected by repeal, see note))[^key-f7d2f7c98fa526ce82e8e2a094c47a88] satisfies the criteria of being zero-rated under regulation 132 or 133 of the Value Added Tax (General) Regulations 1995 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^f00010];
-> - (c) a vehicle in the service of a visiting force or of a headquarters (as defined in Article 8(6) of the Visiting Forces and International Headquarters (Application of Law) Order 1965 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^f00011]);
-> - (d) a vehicle to which Articles 65 to 69 of the 1995 Order have become applicable after a period of use on roads during which, by virtue of Article 108(2) of that Order (which relates to vehicles in the public service of the Crown), those Articles did not apply to that vehicle; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (e) a motor vehicle which is of a new or improved type, or is fitted with equipment of a new or improved type, and which has been constructed to that type or fitted with that equipment, for the purpose of tests or trials or for use as a prototype, and – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->   - (i) is not intended for general use on roads, and *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->   - (ii (affected by repeal, see note))[^key-f7d2f7c98fa526ce82e8e2a094c47a88] in the case of a vehicle first used on a road on or after 31st March 2004, remains in the ownership and use of – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->     - (A) if the vehicle is of a new or improved type the manufacturer of the vehicle, or *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
->     - (B) if the vehicle is fitted with equipment of a new or improved type the manufacturer of the equipment or the manufacturer of the vehicle on which that equipment is used; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (f) a motor vehicle which is of a new or improved type provided that the conditions specified in paragraph (4) are satisfied; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (g) a light locomotive, a heavy locomotive and a motor tractor (all as defined in Article 3(1) of the 1995 Order); *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (h) an agricultural motor vehicle, engineering plant, a pedestrian-controlled vehicle, a straddle carrier, a works truck and a vehicle which is track-laying (all as defined in regulation 2(1) of the Construction and Use Regulations); *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (i) a vehicle the use of which on a road is authorised by Article 15, 17 or 19 of the Motor Vehicles (Authorisation of Special Types) Order 1997 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^f00012];
-> - (j) a tower wagon as defined in paragraph 6(a) of Schedule 2 to the Testing Regulations; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (k) a fire engine (including an air field crash tender); *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (l) a road roller; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (m) a vehicle propelled by steam; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (n) a vehicle constructed for the purpose of preventing or reducing the effect of snow or ice on roads, either by spreading grit or other material, by scooping or sweeping, or by other means; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (o) a two-wheeled motor cycle, with or without a sidecar; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (p) an electrically-propelled vehicle; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (q) a break-down vehicle (as defined in regulation 2(1) of the Testing Regulations); *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (r) an ambulance; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (s) a motor caravan; or *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (t) a recovery vehicle first used before 1st January 1988. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (a) a vehicle brought temporarily into Northern Ireland and which – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>   - (i) displays a registration mark mentioned in regulation 2(1) of the Motor Vehicles (International Circulation) (Registration and Licensing) Regulations (Northern Ireland) 1963 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^f00007], and *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>   - (ii (affected by repeal, see note))[^c-f7d2f7c98fa526ce82e8e2a094c47a88] complies in every respect with the requirements relating to motor vehicles contained in – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>     - (A) Article 21 and paragraph (1) of Article 22 of the Convention on Road Traffic concluded at Geneva on 19th September 1949 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^f00008], and Part I, Part II (so far as it relates to direction indicators and stop lights) and Part III of Annex 6 to that Convention; or *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>     - (B) paragraphs I, III and VIII of Article 3 of the International Convention relative to Motor Traffic concluded at Paris on 24th April 1926 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^f00009];
+> - (b) a vehicle which is to be exported from Northern Ireland and which either – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>   - (i) has not been used on a road in Northern Ireland for any purpose except that of proceeding from the place where it was manufactured to the place from which it is to be taken out of Northern Ireland, or *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>   - (ii (affected by repeal, see note))[^c-f7d2f7c98fa526ce82e8e2a094c47a88] satisfies the criteria of being zero-rated under regulation 132 or 133 of the Value Added Tax (General) Regulations 1995 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^f00010];
+> - (c) a vehicle in the service of a visiting force or of a headquarters (as defined in Article 8(6) of the Visiting Forces and International Headquarters (Application of Law) Order 1965 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^f00011]);
+> - (d) a vehicle to which Articles 65 to 69 of the 1995 Order have become applicable after a period of use on roads during which, by virtue of Article 108(2) of that Order (which relates to vehicles in the public service of the Crown), those Articles did not apply to that vehicle; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (e) a motor vehicle which is of a new or improved type, or is fitted with equipment of a new or improved type, and which has been constructed to that type or fitted with that equipment, for the purpose of tests or trials or for use as a prototype, and – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>   - (i) is not intended for general use on roads, and *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>   - (ii (affected by repeal, see note))[^c-f7d2f7c98fa526ce82e8e2a094c47a88] in the case of a vehicle first used on a road on or after 31st March 2004, remains in the ownership and use of – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>     - (A) if the vehicle is of a new or improved type the manufacturer of the vehicle, or *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+>     - (B) if the vehicle is fitted with equipment of a new or improved type the manufacturer of the equipment or the manufacturer of the vehicle on which that equipment is used; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (f) a motor vehicle which is of a new or improved type provided that the conditions specified in paragraph (4) are satisfied; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (g) a light locomotive, a heavy locomotive and a motor tractor (all as defined in Article 3(1) of the 1995 Order); *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (h) an agricultural motor vehicle, engineering plant, a pedestrian-controlled vehicle, a straddle carrier, a works truck and a vehicle which is track-laying (all as defined in regulation 2(1) of the Construction and Use Regulations); *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (i) a vehicle the use of which on a road is authorised by Article 15, 17 or 19 of the Motor Vehicles (Authorisation of Special Types) Order 1997 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^f00012];
+> - (j) a tower wagon as defined in paragraph 6(a) of Schedule 2 to the Testing Regulations; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (k) a fire engine (including an air field crash tender); *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (l) a road roller; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (m) a vehicle propelled by steam; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (n) a vehicle constructed for the purpose of preventing or reducing the effect of snow or ice on roads, either by spreading grit or other material, by scooping or sweeping, or by other means; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (o) a two-wheeled motor cycle, with or without a sidecar; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (p) an electrically-propelled vehicle; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (q) a break-down vehicle (as defined in regulation 2(1) of the Testing Regulations); *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (r) an ambulance; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (s) a motor caravan; or *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (t) a recovery vehicle first used before 1st January 1988. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 >
-> (4) The conditions referred to in paragraph (3)(f) are that the vehicle – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> (4) The conditions referred to in paragraph (3)(f) are that the vehicle – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 >
-> - (a) was at the date of manufacture owned by the manufacturer of the vehicle and has remained in his ownership; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (b) has not been offered for sale by him; *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (c) has not been let or offered for letting under a hire agreement or a hire-purchase agreement; and *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (d) has not been used on a road for any purpose other than for, or in connection with, publicity, demonstration or evaluation of vehicles of the new or improved type. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (a) was at the date of manufacture owned by the manufacturer of the vehicle and has remained in his ownership; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (b) has not been offered for sale by him; *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (c) has not been let or offered for letting under a hire agreement or a hire-purchase agreement; and *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (d) has not been used on a road for any purpose other than for, or in connection with, publicity, demonstration or evaluation of vehicles of the new or improved type. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
 .
 
-## 4. Amendment to regulation 4 (approval requirements for relevant vehicles) (affected by repeal, see note)[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+## 4. Amendment to regulation 4 (approval requirements for relevant vehicles) (affected by repeal, see note)[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-(1) Regulation 4 of the principal Regulations shall be amended in accordance with paragraphs (2) and (3). *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(1) Regulation 4 of the principal Regulations shall be amended in accordance with paragraphs (2) and (3). *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-(2) After paragraph (3) there shall be inserted – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(2) After paragraph (3) there shall be inserted – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-> (3A) The items in Schedule 2 numbered 1, 3, 6, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18, 19, 20, 21 and 23 and the items in Schedule 3 numbered 3, 8, 10, 11, 26, 27 and 28 shall not apply to goods vehicles. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> (3A) The items in Schedule 2 numbered 1, 3, 6, 7, 8, 9, 10, 11, 14, 15, 16, 17, 18, 19, 20, 21 and 23 and the items in Schedule 3 numbered 3, 8, 10, 11, 26, 27 and 28 shall not apply to goods vehicles. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
 .
 
-(3) For paragraph (6) there shall be substituted – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(3) For paragraph (6) there shall be substituted – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-> (6) Where a provision of any Community Instrument or ECE Regulation is applied by Schedule 3, that provision as so applied shall (except in so far as the contrary intention appears) have effect in relation to – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> (6) Where a provision of any Community Instrument or ECE Regulation is applied by Schedule 3, that provision as so applied shall (except in so far as the contrary intention appears) have effect in relation to – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 >
-> - (a) a vehicle to which the 1985 Regulations apply as it has effect in relation to a vehicle of category M1; and *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
-> - (b) a goods vehicle as it has effect in relation to a vehicle of category N1. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (a) a vehicle to which the 1985 Regulations apply as it has effect in relation to a vehicle of category M1; and *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
+> - (b) a goods vehicle as it has effect in relation to a vehicle of category N1. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
 .
 
-## 5. Amendment to regulation 12 (licences not to be issued for vehicles unless appropriate certificates are in force) (affected by repeal, see note)[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+## 5. Amendment to regulation 12 (licences not to be issued for vehicles unless appropriate certificates are in force) (affected by repeal, see note)[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-In regulation 12 of the principal Regulations, after the words “Article 31A of the Order” there shall be inserted “or any corresponding enactment having effect in Great Britain”. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+In regulation 12 of the principal Regulations, after the words “Article 31A of the Order” there shall be inserted “or any corresponding enactment having effect in Great Britain”. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-## 6. Amendment to Schedule 2 (approval requirements for relevant vehicles) (affected by repeal, see note)[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+## 6. Amendment to Schedule 2 (approval requirements for relevant vehicles) (affected by repeal, see note)[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-(1) Schedule 2 to the principal Regulations shall be amended in accordance with paragraphs (2) to (5). *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(1) Schedule 2 to the principal Regulations shall be amended in accordance with paragraphs (2) to (5). *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-(2) In column 4 of item 7, for the word “Appendix”, wherever it appears, there shall be substituted “Appendices 1 and 2”. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(2) In column 4 of item 7, for the word “Appendix”, wherever it appears, there shall be substituted “Appendices 1 and 2”. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-(3) After item 24 there shall be added the following item – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(3) After item 24 there shall be added the following item – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-> | Item *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88] | Subject matter *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88] | Requirement *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88] | Definitions and supplementary provisions *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88] | Exemptions and modifications *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88] |
+> | Item *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88] | Subject matter *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88] | Requirement *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88] | Definitions and supplementary provisions *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88] | Exemptions and modifications *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88] |
 > | --- | --- | --- | --- | --- |
-> | 25 | Plate for goods vehicles *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88] | Every goods vehicle shall comply with the requirements of paragraphs (2) and (3) of regulation 79 of the Construction and Use Regulations. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88] |  |  |
+> | 25 | Plate for goods vehicles *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88] | Every goods vehicle shall comply with the requirements of paragraphs (2) and (3) of regulation 79 of the Construction and Use Regulations. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88] |  |  |
 
 .
 
-(4) For the heading of the Appendix, there shall be substituted – *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(4) For the heading of the Appendix, there shall be substituted – *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-> APPENDIX 1 TO SCHEDULE 2 (Item 7, Rear-view mirrors) *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> APPENDIX 1 TO SCHEDULE 2 (Item 7, Rear-view mirrors) *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 >
-> (All passenger vehicles and goods vehicles having a maximum gross weight not exceeding 2 tonnes) *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+> (All passenger vehicles and goods vehicles having a maximum gross weight not exceeding 2 tonnes) *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
 .
 
-(5) After Appendix 1 there shall be added the Appendix set out in Schedule 1. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(5) After Appendix 1 there shall be added the Appendix set out in Schedule 1. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-## 7. Amendment to Schedule 3 (approval requirements for relevant vehicles except Schedule 1 vehicles) (affected by repeal, see note)[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+## 7. Amendment to Schedule 3 (approval requirements for relevant vehicles except Schedule 1 vehicles) (affected by repeal, see note)[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-For item 4 in Schedule 3 to the principal Regulations there shall be substituted the item set out in Schedule 2. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+For item 4 in Schedule 3 to the principal Regulations there shall be substituted the item set out in Schedule 2. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-## 8. Amendment to Schedule 4 (form of Department’s approval certificate) (affected by repeal, see note)[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+## 8. Amendment to Schedule 4 (form of Department’s approval certificate) (affected by repeal, see note)[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-(1) Schedule 4 to the principal Regulations shall be amended in accordance with paragraphs (2) to (4). *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(1) Schedule 4 to the principal Regulations shall be amended in accordance with paragraphs (2) to (4). *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-(2) For the words “NORTHERN IRELAND TYPE APPROVAL” there shall be substituted “NORTHERN IRELAND NATIONAL TYPE APPROVAL”. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(2) For the words “NORTHERN IRELAND TYPE APPROVAL” there shall be substituted “NORTHERN IRELAND NATIONAL TYPE APPROVAL”. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-(3) Under the box entitled “Design Weights” there shall be inserted “NOTE: In the case of a goods vehicle the design weights shown are also the plated weights.”. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(3) Under the box entitled “Design Weights” there shall be inserted “NOTE: In the case of a goods vehicle the design weights shown are also the plated weights.”. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-(4) For the word “Category” there shall be substituted “Category (passenger (M1)/goods (N1))”. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+(4) For the word “Category” there shall be substituted “Category (passenger (M1)/goods (N1))”. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-Sealed with the Official Seal of the Department of the Environment on 2nd February 2004. *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+Sealed with the Official Seal of the Department of the Environment on 2nd February 2004. *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-Wesley Shannon *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+Wesley Shannon *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-A senior officer of the *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+A senior officer of the *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-Department of the Environment *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+Department of the Environment *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-## SCHEDULE 1 (affected by repeal, see note)[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+## SCHEDULE 1 (affected by repeal, see note)[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-Regulation 6(5) *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+Regulation 6(5) *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-> **APPENDIX 2 TO SCHEDULE 2 (Item 7, Rear-view mirrors) (affected by repeal, see note)[^key-f7d2f7c98fa526ce82e8e2a094c47a88]**
+> **APPENDIX 2 TO SCHEDULE 2 (Item 7, Rear-view mirrors) (affected by repeal, see note)[^c-f7d2f7c98fa526ce82e8e2a094c47a88]**
 >
-> **(Goods vehicles having a maximum gross weight exceeding 2 tonnes) (affected by repeal, see note)[^key-f7d2f7c98fa526ce82e8e2a094c47a88]**
+> **(Goods vehicles having a maximum gross weight exceeding 2 tonnes) (affected by repeal, see note)[^c-f7d2f7c98fa526ce82e8e2a094c47a88]**
 >
 > [image: see source](https://www.legislation.gov.uk/nisr/2004/30/images/nisr_20040030_en_001)
 
-## SCHEDULE 2 (affected by repeal, see note)[^key-06d20eb7f8332d70170fec64697eacfb][^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+## SCHEDULE 2 (affected by repeal, see note)[^c-06d20eb7f8332d70170fec64697eacfb][^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
-Regulation 7 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+Regulation 7 *(affected by repeal, see note)*[^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
 <table>
 <thead>
@@ -244,7 +244,7 @@ Regulation 7 *(affected by repeal, see note)*[^key-f7d2f7c98fa526ce82e8e2a094c47
 </tbody>
 </table>
 
-[^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88][^key-f7d2f7c98fa526ce82e8e2a094c47a88]
+[^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88][^c-f7d2f7c98fa526ce82e8e2a094c47a88]
 
 (This note is not part of the Regulations.)
 
@@ -264,7 +264,7 @@ Copies of the EC Directives and ECE Regulations referred to in these Regulations
 
 ## Annotations
 
-[^key-f7d2f7c98fa526ce82e8e2a094c47a88]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/30) revoked (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 43](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/43) (with [reg. 30](https://www.legislation.gov.uk/uksi/2020/818/regulation/30), [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-f7d2f7c98fa526ce82e8e2a094c47a88]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/30) revoked (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 43](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/43) (with [reg. 30](https://www.legislation.gov.uk/uksi/2020/818/regulation/30), [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^f00001]: Footnote: [S.I. 1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2 (2) for the definition of “Department”; Articles 31A and 31D were inserted by [S.I. 1985/755 (N.I. 6)](https://www.legislation.gov.uk/nisi/1985/755), Article 3 and amended by [S.R. 1993 No. 246](https://www.legislation.gov.uk/nisr/1993/246), regulations 4 and 5 respectively
 
@@ -290,4 +290,4 @@ Copies of the EC Directives and ECE Regulations referred to in these Regulations
 
 [^f00012]: Footnote: [S.R. 1997 No. 109](https://www.legislation.gov.uk/nisr/1997/109)
 
-[^key-06d20eb7f8332d70170fec64697eacfb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2004/30/schedule/2) in operation at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/30/regulation/1/1)
+[^c-06d20eb7f8332d70170fec64697eacfb]: Commencement: [Sch. 2](https://www.legislation.gov.uk/nisr/2004/30/schedule/2) in operation at 31.3.2004, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2004/30/regulation/1/1)

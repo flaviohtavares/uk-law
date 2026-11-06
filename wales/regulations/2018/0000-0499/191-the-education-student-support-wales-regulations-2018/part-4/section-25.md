@@ -37,7 +37,7 @@ and the graduate is undertaking the present course so as to obtain an honours de
 
 The present course is a course for the initial training of teachers of no more than four years duration and the graduate is not a qualified teacher.
 
-*Case 3[^key-2b1a66c249afe91ac2442f962008e3ab]*
+*Case 3[^c-2b1a66c249afe91ac2442f962008e3ab]*
 
 The present course leads to an honours degree and is—
 
@@ -69,10 +69,10 @@ The present course leads to an honours degree and is—
 
 Regulation 26 applies.
 
-(3)[^key-247da0896f8c437ea0ac0998b668bbf4] In Case 3, the “Common Aggregation Hierarchy” means version 1.3.3 of the Common Aggregation Hierarchy approved by the Higher Education Statistics Agency Data Landscape Steering Group and “the Higher Education Classification of Subjects” means the Higher Education Classification of Subjects maintained by the Universities and Colleges Admissions Service and the Higher Education Statistics Agency.
+(3)[^c-247da0896f8c437ea0ac0998b668bbf4] In Case 3, the “Common Aggregation Hierarchy” means version 1.3.3 of the Common Aggregation Hierarchy approved by the Higher Education Statistics Agency Data Landscape Steering Group and “the Higher Education Classification of Subjects” means the Higher Education Classification of Subjects maintained by the Universities and Colleges Admissions Service and the Higher Education Statistics Agency.
 
 ## Annotations
 
-[^key-2b1a66c249afe91ac2442f962008e3ab]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/25/2) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/uksi/2021/73), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/73/regulation/1/2), [45(a)](https://www.legislation.gov.uk/uksi/2021/73/regulation/45/a)
+[^c-2b1a66c249afe91ac2442f962008e3ab]: Textual amendment: Words in [reg. 25(2)](https://www.legislation.gov.uk/wsi/2018/191/regulation/25/2) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/uksi/2021/73), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/73/regulation/1/2), [45(a)](https://www.legislation.gov.uk/uksi/2021/73/regulation/45/a)
 
-[^key-247da0896f8c437ea0ac0998b668bbf4]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/wsi/2018/191/regulation/25/3) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/uksi/2021/73), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/73/regulation/1/2), [45(b)](https://www.legislation.gov.uk/uksi/2021/73/regulation/45/b)
+[^c-247da0896f8c437ea0ac0998b668bbf4]: Textual amendment: [Reg. 25(3)](https://www.legislation.gov.uk/wsi/2018/191/regulation/25/3) substituted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Education (Student Support) (Miscellaneous Amendments) (Wales) Regulations 2021 (S.I. 2021/73)](https://www.legislation.gov.uk/uksi/2021/73), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/73/regulation/1/2), [45(b)](https://www.legislation.gov.uk/uksi/2021/73/regulation/45/b)

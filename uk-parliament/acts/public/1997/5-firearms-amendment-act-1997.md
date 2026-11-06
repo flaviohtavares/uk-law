@@ -63,7 +63,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) The general prohibition by section 5 of the 1968 Act of firearms falling within subsection (1)(aba) of that section is subject to the special exemptions in sections 2 to 8 below.
 
-(7A)[^key-897ce0c79411f780f486f5088bb3261d] In sections 2 to 7 below any reference to subsection (1)(aba) of section 5 of the 1968 Act shall include a reference to subsection (2A) of that section as it applies in relation to a firearm specified in subsection (1)(aba) of that section.
+(7A)[^c-897ce0c79411f780f486f5088bb3261d] In sections 2 to 7 below any reference to subsection (1)(aba) of section 5 of the 1968 Act shall include a reference to subsection (2A) of that section as it applies in relation to a firearm specified in subsection (1)(aba) of that section.
 
 (7B) In section 8 below the reference to subsection (1)(aba), (b) or (c) of section 5 of the 1968 Act shall include a reference to subsection (2A) of that section as it applies in relation to any weapon or ammunition specified in subsection (1)(aba), (b) or (c) of that section.
 
@@ -75,35 +75,35 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 #### 2. Slaughtering instruments.
 
-The authority of the Secretary of State or the Scottish Ministers[^key-2f5a47c9212325585ea053373714f538] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act—
+The authority of the Secretary of State or the Scottish Ministers[^c-2f5a47c9212325585ea053373714f538] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act—
 
 - (a) for a person to have in his possession, or to purchase or acquire, or to sell or transfer, a slaughtering instrument if he is authorised by a firearm certificate to have the instrument in his possession, or to purchase or acquire it;
 - (b) for a person to have a slaughtering instrument in his possession if he is entitled, under section 10 of the 1968 Act, to have it in his possession without a firearm certificate.
 
 #### 3. Firearms used for humane killing of animals.
 
-The authority of the Secretary of State or the Scottish Ministers[^key-cad4ef577cac5a15e2486821b7ed7cbc] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act for a person to have in his possession, or to purchase or acquire, or to sell or transfer, a firearm if he is authorised by a firearm certificate to have the firearm in his possession, or to purchase or acquire it, subject to a condition that it is only for use in connection with the humane killing of animals.
+The authority of the Secretary of State or the Scottish Ministers[^c-cad4ef577cac5a15e2486821b7ed7cbc] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act for a person to have in his possession, or to purchase or acquire, or to sell or transfer, a firearm if he is authorised by a firearm certificate to have the firearm in his possession, or to purchase or acquire it, subject to a condition that it is only for use in connection with the humane killing of animals.
 
 #### 4. Shot pistols used for shooting vermin.
 
-(1) The authority of the Secretary of State or the Scottish Ministers[^key-c81f4bebca5851233eb26cb52104d2ce] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act for a person to have in his possession, or to purchase or acquire, or to sell or transfer, a shot pistol if he is authorised by a firearm certificate to have the shot pistol in his possession, or to purchase or acquire it, subject to a condition that it is only for use in connection with the shooting of vermin.
+(1) The authority of the Secretary of State or the Scottish Ministers[^c-c81f4bebca5851233eb26cb52104d2ce] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act for a person to have in his possession, or to purchase or acquire, or to sell or transfer, a shot pistol if he is authorised by a firearm certificate to have the shot pistol in his possession, or to purchase or acquire it, subject to a condition that it is only for use in connection with the shooting of vermin.
 
 (2) For the purposes of this section, “**shot pistol**” means a smooth-bored gun which is chambered for .410 cartridges or 9mm rim-fire cartridges.
 
 #### 5. Races at athletic meetings.
 
-The authority of the Secretary of State or the Scottish Ministers[^key-d6d69474f1c57d4f02174fd4fba2b728] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act—
+The authority of the Secretary of State or the Scottish Ministers[^c-d6d69474f1c57d4f02174fd4fba2b728] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act—
 
 - (a) for a person to have a firearm in his possession at an athletic meeting for the purpose of starting races at that meeting; or
 - (b) for a person to have in his possession, or to purchase or acquire, or to sell or transfer, a firearm if he is authorised by a firearm certificate to have the firearm in his possession, or to purchase or acquire it, subject to a condition that it is only for use in connection with starting races at athletic meetings.
 
 #### 6. Trophies of war.
 
-The authority of the Secretary of State or the Scottish Ministers[^key-20fc4e601832b1922fd400f75cfab532] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act for a person to have in his possession a firearm which was acquired as a trophy of war before 1st January 1946 if he is authorised by a firearm certificate to have it in his possession.
+The authority of the Secretary of State or the Scottish Ministers[^c-20fc4e601832b1922fd400f75cfab532] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act for a person to have in his possession a firearm which was acquired as a trophy of war before 1st January 1946 if he is authorised by a firearm certificate to have it in his possession.
 
 #### 7. Firearms of historic interest.
 
-(1) The authority of the Secretary of State or the Scottish Ministers[^key-73780a46703b0536a02b914fc02c128d] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act for a person to have in his possession, or to purchase or acquire, or to sell or transfer, a firearm which—
+(1) The authority of the Secretary of State or the Scottish Ministers[^c-73780a46703b0536a02b914fc02c128d] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act for a person to have in his possession, or to purchase or acquire, or to sell or transfer, a firearm which—
 
 - (a) was manufactured before 1st January 1919; and
 - (b) is of a description specified under subsection (2) below,
@@ -115,7 +115,7 @@ if he is authorised by a firearm certificate to have the firearm in his possessi
 - (a) firearms of that description were manufactured before 1st January 1919; and
 - (b) ammunition for firearms of that type is not readily available.
 
-(3)[^c1228035] The authority of the Secretary of State or the Scottish Ministers[^key-ad236756720aed3ea15a01bf0cbc860b] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act for a person to have in his possession, or to purchase or acquire, or to sell or transfer, a firearm which—
+(3)[^c1228035] The authority of the Secretary of State or the Scottish Ministers[^c-ad236756720aed3ea15a01bf0cbc860b] is not required by virtue of subsection (1)(aba) of section 5 of the 1968 Act for a person to have in his possession, or to purchase or acquire, or to sell or transfer, a firearm which—
 
 - (a) is of particular rarity, aesthetic quality or technical interest, or
 - (b) is of historical importance,
@@ -128,11 +128,11 @@ if he is authorised by a firearm certificate to have the firearm in his possessi
 
 #### 8. Weapons and ammunition used for treating animals.
 
-The authority of the Secretary of State or the Scottish Ministers[^key-42a2c287a7d8a0cce27e29b23a228539] is not required by virtue of subsection (1)(aba), (b) or (c) of section 5 of the 1968 Act for a person to have in his possession, or to purchase or acquire, or to sell or transfer, any firearm, weapon or ammunition designed or adapted for the purpose of tranquillising or otherwise treating any animal, if he is authorised by a firearm certificate to possess, or to purchase or acquire, the firearm, weapon or ammunition subject to a condition restricting its use to use in connection with the treatment of animals.
+The authority of the Secretary of State or the Scottish Ministers[^c-42a2c287a7d8a0cce27e29b23a228539] is not required by virtue of subsection (1)(aba), (b) or (c) of section 5 of the 1968 Act for a person to have in his possession, or to purchase or acquire, or to sell or transfer, any firearm, weapon or ammunition designed or adapted for the purpose of tranquillising or otherwise treating any animal, if he is authorised by a firearm certificate to possess, or to purchase or acquire, the firearm, weapon or ammunition subject to a condition restricting its use to use in connection with the treatment of animals.
 
 ### Prohibited ammunition: expanding ammunition and missiles for expanding ammunition
 
-#### 9. General prohibition of expanding ammunition etc.[^key-bce8430a1b61c495e351e06259e04d3e]
+#### 9. General prohibition of expanding ammunition etc.[^c-bce8430a1b61c495e351e06259e04d3e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -317,9 +317,9 @@ to another person who is neither a registered firearms dealer nor a person who i
 - (a) contain a description of the firearm in question (giving its identification number if any); and
 - (b) state the nature of the transaction and the name and address of the other party;
 
-and any such notice shall be sent by permitted means[^key-d63e9cae33df7df071095df83a00e202].
+and any such notice shall be sent by permitted means[^c-d63e9cae33df7df071095df83a00e202].
 
-(3A)[^key-442f0b089cfc09b1197d204e967c0d39]  A notice is sent by permitted means for the purposes of subsection (3) if it is sent—
+(3A)[^c-442f0b089cfc09b1197d204e967c0d39]  A notice is sent by permitted means for the purposes of subsection (3) if it is sent—
 
 - (a) by registered post;
 - (b) by the recorded delivery service; or
@@ -343,9 +343,9 @@ is de-activated, destroyed or lost (whether by theft or otherwise), the certific
 - (a) describe the firearm or ammunition in question (giving the identification number of the firearm if any);
 - (b) state the nature of the event;
 
-and any such notice shall be sent by permitted means[^key-c0e45b4ea3ed01e2d5073ff5ce0e6867].
+and any such notice shall be sent by permitted means[^c-c0e45b4ea3ed01e2d5073ff5ce0e6867].
 
-(3A)[^key-95a7849d2a1c999e65008b12055e56cc]  A notice is sent by permitted means for the purposes of subsection (3) if it is sent—
+(3A)[^c-95a7849d2a1c999e65008b12055e56cc]  A notice is sent by permitted means for the purposes of subsection (3) if it is sent—
 
 - (a) by registered post;
 - (b) by the recorded delivery service; or
@@ -375,14 +375,14 @@ the certificate holder who was last in possession of the firearm or ammunition b
 - (a) contain a description of the firearm or ammunition in question (including any identification number); and
 - (b) state the nature of the event and, in the case of a disposal, the name and address of the other party.
 
-(6)[^key-2c0350f2babff70f56270516262896b7]  A notice required by this section must be sent within 14 days of the disposal or other event and must be sent—
+(6)[^c-2c0350f2babff70f56270516262896b7]  A notice required by this section must be sent within 14 days of the disposal or other event and must be sent—
 
 - (a) by registered post,
 - (b) by the recorded delivery service,
 - (c) in a case where it is sent from outside the United Kingdom otherwise than by electronic means, in such manner as most closely corresponds to that described in paragraph (a) or (b), or
 - (d) by permitted electronic means (see section 35A).
 
-#### 35A. Permitted electronic means[^key-9c6888c2ec1f5e0ff1af478a9b1e9943]
+#### 35A. Permitted electronic means[^c-9c6888c2ec1f5e0ff1af478a9b1e9943]
 
 (1)  A notice is sent by permitted electronic means for the purposes of section 33, 34 or 35 if—
 
@@ -393,8 +393,8 @@ the certificate holder who was last in possession of the firearm or ammunition b
 (2)  Before giving a direction under subsection (1)(a), the Secretary of State must consult—
 
 - (a) the Scottish Ministers,
-- (b) the National Police Chiefs’ Council[^key-b5c1c29d3b8358b3b9db8426ec6e3835] ,
-- (c)[^key-4477c61bc9dc10d4e116c3af6e26476c] the chief constable of the Police Service of Scotland, and
+- (b) the National Police Chiefs’ Council[^c-b5c1c29d3b8358b3b9db8426ec6e3835] ,
+- (c)[^c-4477c61bc9dc10d4e116c3af6e26476c] the chief constable of the Police Service of Scotland, and
 - (d) such other persons as the Secretary of State is satisfied should be consulted.
 
 (3)  The Secretary of State must publish directions given under subsection (1)(a).
@@ -454,14 +454,14 @@ For subsection (1) of section 27 of the 1968 Act (special provisions about the g
 > - (b) that he has a good reason for having in his possession, or for purchasing or acquiring, the firearm or ammunition in respect of which the application is made; and
 > - (c) that in all the circumstances the applicant can be permitted to have the firearm or ammunition in his possession without danger to the public safety or to the peace.
 
-#### 39. Computerised register of firearms and shot guns and their holders[^key-ff2dea848410c2fcefd95ab9b97ccedd]
+#### 39. Computerised register of firearms and shot guns and their holders[^c-ff2dea848410c2fcefd95ab9b97ccedd]
 
 (1) There shall be established a central register of
 
-- (a)[^key-94014e475ecce9a2ec45ec4b992697cb] all persons who have applied for a firearm or shot gun certificate or to whom a firearm or shot gun certificate has been granted or whose certificate has been renewed; and[^key-4330836216d159771a97dcb615b9d8c1]
+- (a)[^c-94014e475ecce9a2ec45ec4b992697cb] all persons who have applied for a firearm or shot gun certificate or to whom a firearm or shot gun certificate has been granted or whose certificate has been renewed; and[^c-4330836216d159771a97dcb615b9d8c1]
 - (b) each firearm to which a firearm certificate or a shot gun certificate relates
 
-(2)[^key-ad6459dc89e25489f051ba4c3f00d68a] The register shall—
+(2)[^c-ad6459dc89e25489f051ba4c3f00d68a] The register shall—
 
 - (a) record a suitable identifying number for each person to whom a certificate is issued;
 - (b) be kept by means of a computer which provides access on-line to all police forces;
@@ -906,33 +906,33 @@ Section 52.
 
 [^c1228026]: Modification: S. 1(3) excluded (10.6.1997) by [S.I. 1997/1535](https://www.legislation.gov.uk/uksi/1997/1535), [arts. 3(b)](https://www.legislation.gov.uk/uksi/1997/1535/article/3/b), [5](https://www.legislation.gov.uk/uksi/1997/1535/article/5), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/1535/schedule/part/I)
 
-[^key-897ce0c79411f780f486f5088bb3261d]: Textual amendment: [S. 1(7A)](https://www.legislation.gov.uk/ukpga/1997/5/section/1/7A)[(7B)](https://www.legislation.gov.uk/ukpga/1997/5/section/1/7B) inserted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 108(9)](https://www.legislation.gov.uk/ukpga/2014/12/section/108/9), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(a)](https://www.legislation.gov.uk/uksi/2014/949/article/6/a)
+[^c-897ce0c79411f780f486f5088bb3261d]: Textual amendment: [S. 1(7A)](https://www.legislation.gov.uk/ukpga/1997/5/section/1/7A)[(7B)](https://www.legislation.gov.uk/ukpga/1997/5/section/1/7B) inserted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 108(9)](https://www.legislation.gov.uk/ukpga/2014/12/section/108/9), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(a)](https://www.legislation.gov.uk/uksi/2014/949/article/6/a)
 
 [^c1228027]: Textual amendment: S. 1(9) repealed (1.2.1998) by [1997 c. 64](https://www.legislation.gov.uk/ukpga/1997/64), [s. 2(7)](https://www.legislation.gov.uk/ukpga/1997/64/section/2/7), [Sch.](https://www.legislation.gov.uk/ukpga/1997/64/schedule); [S.I.1997/3114](https://www.legislation.gov.uk/uksi/1997/3114), [arts. 4](https://www.legislation.gov.uk/uksi/1997/3114/article/4), [5](https://www.legislation.gov.uk/uksi/1997/3114/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/3114/schedule/part/II)
 
-[^key-2f5a47c9212325585ea053373714f538]: Textual amendment: Words in s. 2 substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
+[^c-2f5a47c9212325585ea053373714f538]: Textual amendment: Words in s. 2 substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
 
-[^key-cad4ef577cac5a15e2486821b7ed7cbc]: Textual amendment: Words in s. 3 substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
+[^c-cad4ef577cac5a15e2486821b7ed7cbc]: Textual amendment: Words in s. 3 substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
 
-[^key-c81f4bebca5851233eb26cb52104d2ce]: Textual amendment: Words in s. 4 substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
+[^c-c81f4bebca5851233eb26cb52104d2ce]: Textual amendment: Words in s. 4 substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
 
-[^key-d6d69474f1c57d4f02174fd4fba2b728]: Textual amendment: Words in s. 5 substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
+[^c-d6d69474f1c57d4f02174fd4fba2b728]: Textual amendment: Words in s. 5 substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
 
-[^key-20fc4e601832b1922fd400f75cfab532]: Textual amendment: Words in s. 6 substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
+[^c-20fc4e601832b1922fd400f75cfab532]: Textual amendment: Words in s. 6 substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
 
-[^key-73780a46703b0536a02b914fc02c128d]: Textual amendment: Words in s. 7(1) substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
+[^c-73780a46703b0536a02b914fc02c128d]: Textual amendment: Words in s. 7(1) substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
 
 [^c1228035]: Modification: S. 7(3) restricted (*temp*to 1.7.1997) by [S.I. 1997/1538](https://www.legislation.gov.uk/uksi/1997/1538), [reg. 2](https://www.legislation.gov.uk/uksi/1997/1538/regulation/2)
 
     S. 7(3): Transfer of functions (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-ad236756720aed3ea15a01bf0cbc860b]: Textual amendment: Words in s. 7(3) substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(b)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/b), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
+[^c-ad236756720aed3ea15a01bf0cbc860b]: Textual amendment: Words in s. 7(3) substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(b)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/b), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
 
 [^c1228034]: Textual amendment: Words in s. 7(1)(3) inserted (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [arts. 1(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/1/1), [6(1)](https://www.legislation.gov.uk/uksi/1999/1750/article/6/1), [Sch. 5 para. 18(7)](https://www.legislation.gov.uk/uksi/1999/1750/schedule/5/paragraph/18/7) (with [art. 7](https://www.legislation.gov.uk/uksi/1999/1750/article/7)); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 3](https://www.legislation.gov.uk/uksi/1998/3178/article/3)
 
-[^key-42a2c287a7d8a0cce27e29b23a228539]: Textual amendment: Words in s. 8 substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
+[^c-42a2c287a7d8a0cce27e29b23a228539]: Textual amendment: Words in s. 8 substituted (14.7.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 109(3)(a)](https://www.legislation.gov.uk/ukpga/2014/12/section/109/3/a), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 6(b)](https://www.legislation.gov.uk/uksi/2014/949/article/6/b)
 
-[^key-bce8430a1b61c495e351e06259e04d3e]: Textual amendment: S. 9 omitted (31.1.2017 for specified purposes, 2.5.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 129(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/129/4), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/e)
+[^c-bce8430a1b61c495e351e06259e04d3e]: Textual amendment: S. 9 omitted (31.1.2017 for specified purposes, 2.5.2017 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 129(4)](https://www.legislation.gov.uk/ukpga/2017/3/section/129/4), [183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/e)
 
 [^c1228040]: Textual amendment: [S. 11](https://www.legislation.gov.uk/ukpga/1997/5/section/11) repealed (17.12.1997) by [1997 c. 64](https://www.legislation.gov.uk/ukpga/1997/64), [s. 2(7)](https://www.legislation.gov.uk/ukpga/1997/64/section/2/7), [Sch.](https://www.legislation.gov.uk/ukpga/1997/64/schedule); [S.I. 1997/3114](https://www.legislation.gov.uk/uksi/1997/3114), [art. 3](https://www.legislation.gov.uk/uksi/1997/3114/article/3), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/3114/schedule/part/I)
 
@@ -982,29 +982,29 @@ Section 52.
 
 [^c1228067]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/1997/5/section/31) repealed (17.12.1997) by [1997 c. 64](https://www.legislation.gov.uk/ukpga/1997/64), [s. 2(7)](https://www.legislation.gov.uk/ukpga/1997/64/section/2/7), [Sch.](https://www.legislation.gov.uk/ukpga/1997/64/schedule); [S.I. 1997/3114](https://www.legislation.gov.uk/uksi/1997/3114), [art. 3](https://www.legislation.gov.uk/uksi/1997/3114/article/3), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1997/3114/schedule/part/I)
 
-[^key-d63e9cae33df7df071095df83a00e202]: Textual amendment: Words in s. 33(3) substituted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2011/713/article/4/2/a)
+[^c-d63e9cae33df7df071095df83a00e202]: Textual amendment: Words in s. 33(3) substituted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2011/713/article/4/2/a)
 
-[^key-442f0b089cfc09b1197d204e967c0d39]: Textual amendment: S. 33(3A) inserted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2011/713/article/4/2/b)
+[^c-442f0b089cfc09b1197d204e967c0d39]: Textual amendment: S. 33(3A) inserted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2011/713/article/4/2/b)
 
-[^key-c0e45b4ea3ed01e2d5073ff5ce0e6867]: Textual amendment: Words in [s. 34(3)](https://www.legislation.gov.uk/ukpga/1997/5/section/34/3) substituted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2011/713/article/4/3/a)
+[^c-c0e45b4ea3ed01e2d5073ff5ce0e6867]: Textual amendment: Words in [s. 34(3)](https://www.legislation.gov.uk/ukpga/1997/5/section/34/3) substituted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2011/713/article/4/3/a)
 
-[^key-95a7849d2a1c999e65008b12055e56cc]: Textual amendment: [S. 34(3A)](https://www.legislation.gov.uk/ukpga/1997/5/section/34/3A) inserted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2011/713/article/4/3/b)
+[^c-95a7849d2a1c999e65008b12055e56cc]: Textual amendment: [S. 34(3A)](https://www.legislation.gov.uk/ukpga/1997/5/section/34/3A) inserted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2011/713/article/4/3/b)
 
-[^key-2c0350f2babff70f56270516262896b7]: Textual amendment: [S. 35(6)](https://www.legislation.gov.uk/ukpga/1997/5/section/35/6) substituted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2011/713/article/4/4)
+[^c-2c0350f2babff70f56270516262896b7]: Textual amendment: [S. 35(6)](https://www.legislation.gov.uk/ukpga/1997/5/section/35/6) substituted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [4(4)](https://www.legislation.gov.uk/uksi/2011/713/article/4/4)
 
-[^key-9c6888c2ec1f5e0ff1af478a9b1e9943]: Textual amendment: S. 35A inserted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2011/713/article/4/5)
+[^c-9c6888c2ec1f5e0ff1af478a9b1e9943]: Textual amendment: S. 35A inserted (1.4.2011) by [Firearms (Electronic Communications) Order 2011 (S.I. 2011/713)](https://www.legislation.gov.uk/uksi/2011/713), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/713/article/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2011/713/article/4/5)
 
-[^key-b5c1c29d3b8358b3b9db8426ec6e3835]: Textual amendment: Words in s. 35A(2)(b) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 14 paras. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/6), [7(d)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/7/d); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/41)
+[^c-b5c1c29d3b8358b3b9db8426ec6e3835]: Textual amendment: Words in s. 35A(2)(b) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 14 paras. 6](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/6), [7(d)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/7/d); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/41)
 
-[^key-4477c61bc9dc10d4e116c3af6e26476c]: Textual amendment: S. 35A(2)(c) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/26)
+[^c-4477c61bc9dc10d4e116c3af6e26476c]: Textual amendment: S. 35A(2)(c) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [Sch. 2 para. 26](https://www.legislation.gov.uk/uksi/2013/602/schedule/2/paragraph/26)
 
-[^key-ff2dea848410c2fcefd95ab9b97ccedd]: Textual amendment: S. 39 heading substituted (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/860/regulation/2/2)
+[^c-ff2dea848410c2fcefd95ab9b97ccedd]: Textual amendment: S. 39 heading substituted (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/860/regulation/2/2)
 
-[^key-94014e475ecce9a2ec45ec4b992697cb]: Textual amendment: Words in s. 39(1) renumbered as s. 39(1)(a) (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/2/3)
+[^c-94014e475ecce9a2ec45ec4b992697cb]: Textual amendment: Words in s. 39(1) renumbered as s. 39(1)(a) (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/2/3)
 
-[^key-4330836216d159771a97dcb615b9d8c1]: Textual amendment: S. 39(1)(b) and preceding word inserted (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/2/3)
+[^c-4330836216d159771a97dcb615b9d8c1]: Textual amendment: S. 39(1)(b) and preceding word inserted (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/860/regulation/2/3)
 
-[^key-ad6459dc89e25489f051ba4c3f00d68a]: Textual amendment: S. 39(2)-(4) substituted for s. 39(2) (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/860/regulation/2/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2015/860/regulation/5))
+[^c-ad6459dc89e25489f051ba4c3f00d68a]: Textual amendment: S. 39(2)-(4) substituted for s. 39(2) (16.4.2015) by [The Firearms Regulations 2015 (S.I. 2015/860)](https://www.legislation.gov.uk/uksi/2015/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/860/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/860/regulation/2/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2015/860/regulation/5))
 
 [^c1228068]: Marginal citation: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Emergency financial assistance to combined fire authorities[^key-0d3e5779625c7fbb39f27e55486828cf][^key-f7a31ec135cb9b3e2bd3e8ed2ea29e91]
+## 37. Emergency financial assistance to combined fire authorities[^c-0d3e5779625c7fbb39f27e55486828cf][^c-f7a31ec135cb9b3e2bd3e8ed2ea29e91]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ In section 155 of the Local Government and Housing Act 1989 (c. 42) (emergency f
 
 ## Annotations
 
-[^key-0d3e5779625c7fbb39f27e55486828cf]: Commencement: S. 37 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-0d3e5779625c7fbb39f27e55486828cf]: Commencement: S. 37 in force at 27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1.4.2004 by [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
-[^key-f7a31ec135cb9b3e2bd3e8ed2ea29e91]: Commencement: S. 37 in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))
+[^c-f7a31ec135cb9b3e2bd3e8ed2ea29e91]: Commencement: S. 37 in force at 1.4.2004 for E. by [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(a)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/a) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8), [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule))

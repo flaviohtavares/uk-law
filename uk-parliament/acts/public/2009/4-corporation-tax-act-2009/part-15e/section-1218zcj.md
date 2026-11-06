@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1218ZCJ. Payment in respect of museums and galleries exhibition tax credit[^key-c435f0e4f1b39f56dfbe9f77bf1f7fc7][^key-0b4495e973fa04cf02f6947094fc4c11]
+## 1218ZCJ. Payment in respect of museums and galleries exhibition tax credit[^c-c435f0e4f1b39f56dfbe9f77bf1f7fc7][^c-0b4495e973fa04cf02f6947094fc4c11]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,7 +45,7 @@ In those circumstances the Commissioners may make a payment on a provisional bas
 - (a) under PAYE regulations, or
 - (b) in respect of Class 1 national insurance contributions under Part 1 of the Social Security Contributions and Benefits Act 1992 or Part 1 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
-(4A)[^key-5910aa907441fc8d823edc06cfa9295b] For the purposes of subsection (4), a “payment period” is—
+(4A)[^c-5910aa907441fc8d823edc06cfa9295b] For the purposes of subsection (4), a “payment period” is—
 
 - (a) in relation to PAYE regulations or Class 1 national insurance contributions, a period—
   - (i) which ends on the fifth day of a month, and
@@ -56,8 +56,8 @@ In those circumstances the Commissioners may make a payment on a provisional bas
 
 ## Annotations
 
-[^key-c435f0e4f1b39f56dfbe9f77bf1f7fc7]: Textual amendment: Pt. 15E inserted (for specified purposes and with effect in accordance with Sch. 6 paras. 20, 21(1)(a) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/1) (with [Sch. 6 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/21/3))
+[^c-c435f0e4f1b39f56dfbe9f77bf1f7fc7]: Textual amendment: Pt. 15E inserted (for specified purposes and with effect in accordance with Sch. 6 paras. 20, 21(1)(a) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/1) (with [Sch. 6 para. 21(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/6/paragraph/21/3))
 
-[^key-0b4495e973fa04cf02f6947094fc4c11]: Modification: Pt. 15E modified (temp.) (with application in accordance with [s. 21(1)(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/21/1/4) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 21(1)(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/21/1/4)
+[^c-0b4495e973fa04cf02f6947094fc4c11]: Modification: Pt. 15E modified (temp.) (with application in accordance with [s. 21(1)(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/21/1/4) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 21(1)(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/21/1/4)
 
-[^key-5910aa907441fc8d823edc06cfa9295b]: Textual amendment: [S. 1218ZCJ(4A)](https://www.legislation.gov.uk/ukpga/2009/4/section/1218ZCJ/4A) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2024/3/schedule/5/paragraph/8)
+[^c-5910aa907441fc8d823edc06cfa9295b]: Textual amendment: [S. 1218ZCJ(4A)](https://www.legislation.gov.uk/ukpga/2009/4/section/1218ZCJ/4A) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2024/3/schedule/5/paragraph/8)

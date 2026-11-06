@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Compliance notice[^key-25f9b25c02d8195e179cd38393e311ce][^M_C_ebccb8be-9aa8-42fe-f2d9-d3123ef2cc1e]
+## 43. Compliance notice[^c-25f9b25c02d8195e179cd38393e311ce][^M_C_ebccb8be-9aa8-42fe-f2d9-d3123ef2cc1e]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-25f9b25c02d8195e179cd38393e311ce]: Commencement: S. 43 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-25f9b25c02d8195e179cd38393e311ce]: Commencement: S. 43 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
 [^M_C_ebccb8be-9aa8-42fe-f2d9-d3123ef2cc1e]: Modification: Ss. 43-45 applied (9.11.2020) by [The Marine Licensing (Exempted Activities) (Scottish Inshore Region) Amendment Order 2020 (S.S.I. 2020/316)](https://www.legislation.gov.uk/ssi/2020/316), [arts. 1](https://www.legislation.gov.uk/ssi/2020/316/article/1), [13](https://www.legislation.gov.uk/ssi/2020/316/article/13)

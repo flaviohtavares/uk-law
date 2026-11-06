@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Airships[^key-23d468d2edce7f4f61d7f9eeeb5569e2]
+## 96. Airships[^c-23d468d2edce7f4f61d7f9eeeb5569e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23d468d2edce7f4f61d7f9eeeb5569e2]: Commencement: [Art. 96](https://www.legislation.gov.uk/uksi/2015/870/article/96) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-23d468d2edce7f4f61d7f9eeeb5569e2]: Commencement: [Art. 96](https://www.legislation.gov.uk/uksi/2015/870/article/96) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

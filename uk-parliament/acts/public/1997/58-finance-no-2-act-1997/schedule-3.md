@@ -24,7 +24,7 @@ Section 23.
 
 ### Section 76 of the Taxes Act 1988
 
-**1.**[^key-6f0789b13f6df87b83d37234dfc8c9f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6f0789b13f6df87b83d37234dfc8c9f9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Section 432E of the Taxes Act 1988
 
@@ -34,7 +34,7 @@ Section 23.
 
 ### Section 434 of the Taxes Act 1988
 
-**3.**[^key-a36f2dd25281ae38b6a7033f9ff75437] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a36f2dd25281ae38b6a7033f9ff75437] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Section 434A of the Taxes Act 1988
 
@@ -56,7 +56,7 @@ Section 23.
 
 (2) Subsections (3) and (3AA) (which fall as a result of new section 434(1) to (1B)) shall cease to have effect.
 
-(3)[^key-d60efb6dcca3215346d357387306aa39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d60efb6dcca3215346d357387306aa39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Subsection (5) (which falls with the substitution of subsection (4)) shall cease to have effect.
 
@@ -92,7 +92,7 @@ Section 23.
 
 **Not yet in force.**
 
-**9.**[^key-96e1df48eadb29d19db370cfd0a93ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-96e1df48eadb29d19db370cfd0a93ff0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Schedule 19AB to the Taxes Act 1988[^c4156631][^c4156631][^c4156631][^c4156631][^c4156641][^c4156641][^c4156641][^c4156641][^c4156621][^c4156621]
 
@@ -104,7 +104,7 @@ Section 23.
 
 ### Schedule 19AC to the Taxes Act 1988
 
-**13.**[^key-654f053ac8a3f56abd40c7a0a5f62f98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-654f053ac8a3f56abd40c7a0a5f62f98] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Section 89 of the Finance Act 1989
 
@@ -124,17 +124,17 @@ Section 23.
 
 ### Section 65 of the Finance (No.2) Act 1992
 
-**15.**[^key-3e96a916e6d10b5f32749901b79cccc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-3e96a916e6d10b5f32749901b79cccc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f0789b13f6df87b83d37234dfc8c9f9]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/1) repealed (22.7.2004) (with effect in accordance with s. 42 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/3)
+[^c-6f0789b13f6df87b83d37234dfc8c9f9]: Textual amendment: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/1) repealed (22.7.2004) (with effect in accordance with s. 42 of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 42 Pt. 2(3)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/42/part/2/3)
 
-[^key-a36f2dd25281ae38b6a7033f9ff75437]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/3) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
+[^c-a36f2dd25281ae38b6a7033f9ff75437]: Textual amendment: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/3) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
 
-[^key-d60efb6dcca3215346d357387306aa39]: Textual amendment: [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/6/3) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
+[^c-d60efb6dcca3215346d357387306aa39]: Textual amendment: [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/6/3) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
 
-[^key-96e1df48eadb29d19db370cfd0a93ff0]: Textual amendment: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/9) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-96e1df48eadb29d19db370cfd0a93ff0]: Textual amendment: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/9) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
 
 [^c4156631]: Textual amendment: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/11) repealed (11.5.2001 with effect in accordance with [s. 87](https://www.legislation.gov.uk/ukpga/2001/9/section/87) of the amending Act) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 110](https://www.legislation.gov.uk/ukpga/2001/9/section/110), [Sch. 33 Pt. 2(12)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/2/12)
 
@@ -142,8 +142,8 @@ Section 23.
 
 [^c4156621]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/10) repealed (11.5.2001 with effect in accordance with [s. 87](https://www.legislation.gov.uk/ukpga/2001/9/section/87) of the amending Act) by [2001 c. 9](https://www.legislation.gov.uk/ukpga/2001/9), [s. 110](https://www.legislation.gov.uk/ukpga/2001/9/section/110), [Sch. 33 Pt. 2(12)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/33/part/2/12)
 
-[^key-654f053ac8a3f56abd40c7a0a5f62f98]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/13) repealed (31.12.2006) (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)
+[^c-654f053ac8a3f56abd40c7a0a5f62f98]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/13) repealed (31.12.2006) (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)
 
 [^c4156691]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
 
-[^key-3e96a916e6d10b5f32749901b79cccc7]: Textual amendment: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/15) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/8)
+[^c-3e96a916e6d10b5f32749901b79cccc7]: Textual amendment: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/1997/58/schedule/3/paragraph/15) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/8)

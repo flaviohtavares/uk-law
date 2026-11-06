@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Warrant to enter and survey or investigate land[^key-3da3d3eb676c08daf794679622422190][^key-41083776b7611352c6457df2f79ad39f]
+## 84. Warrant to enter and survey or investigate land[^c-3da3d3eb676c08daf794679622422190][^c-41083776b7611352c6457df2f79ad39f]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3da3d3eb676c08daf794679622422190]: Commencement: S. 84 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-3da3d3eb676c08daf794679622422190]: Commencement: S. 84 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-41083776b7611352c6457df2f79ad39f]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2025/34/section/84) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-41083776b7611352c6457df2f79ad39f]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2025/34/section/84) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

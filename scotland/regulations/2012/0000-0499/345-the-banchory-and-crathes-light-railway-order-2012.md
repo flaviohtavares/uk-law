@@ -51,11 +51,11 @@ In accordance with section 7 of that Act, the Scottish Ministers are satisfied 
 
 Scottish Ministers have considered the Order in accordance with section 9 of that Act.
 
-## 1. Citation and Commencement[^key-2cbbd30bea32c3768f9a5a5d954c378d]
+## 1. Citation and Commencement[^c-2cbbd30bea32c3768f9a5a5d954c378d]
 
 This Order may be cited as the Banchory and Crathes Light Railway Order 2012 and comes into force on 28th December 2012.
 
-## 2. Interpretation[^key-2c91dcb3b0fbf6cf45ae2cbcb3295169]
+## 2. Interpretation[^c-2c91dcb3b0fbf6cf45ae2cbcb3295169]
 
 (1) In this Order—
 
@@ -72,13 +72,13 @@ This Order may be cited as the Banchory and Crathes Light Railway Order 2012 and
 
 (3) All distances, lengths, measurements and directions stated in any description of powers or lands shall be construed as if the words “or thereby” were inserted after each such distance, length, measurement and direction, and distances between points on a railway shall be taken to be measured along the railway.
 
-## 3. The railway[^key-5da7eac9276298b1d251fd14997787c3]
+## 3. The railway[^c-5da7eac9276298b1d251fd14997787c3]
 
 (1) Subject to the provisions of this Order, the Company may on lands owned by or leased to or licensed to the Company construct, make and maintain a railway as described in Schedule 1 to this Order with all necessary works and conveniences connected therewith and work the same as a light railway under the provisions of the Light Railways Act 1896 and in accordance with the provisions of this Order.
 
-(2) The Company shall obtain all additional certificates and authorisations required for the operation of the railway from the Office of Rail and Road[^key-99c7510f890f4ad302efed1fd0c10007] in terms of the Railways and Other Guided Transport Systems (Safety) Regulations 2006[^f00005].
+(2) The Company shall obtain all additional certificates and authorisations required for the operation of the railway from the Office of Rail and Road[^c-99c7510f890f4ad302efed1fd0c10007] in terms of the Railways and Other Guided Transport Systems (Safety) Regulations 2006[^f00005].
 
-## 4. Permitted deviation within limits[^key-9d3287364fe562219c59a38cb64a40a9]
+## 4. Permitted deviation within limits[^c-9d3287364fe562219c59a38cb64a40a9]
 
 In constructing or maintaining the railway the Company may—
 
@@ -87,7 +87,7 @@ In constructing or maintaining the railway the Company may—
   - (i) to any extent not exceeding 3 metres upwards; and
   - (ii) to any extent downwards as may be necessary or expedient.
 
-## 5. Application and incorporation of enactments[^key-5d67a674f76f3942d5d30359358fa563]
+## 5. Application and incorporation of enactments[^c-5d67a674f76f3942d5d30359358fa563]
 
 (1) The following provisions of the Railway Clauses Consolidation (Scotland) Act 1845[^f00006] so far as the same are applicable for the purposes of, and are not inconsistent with or varied by, the provisions of this Order, are incorporated with and form part of this Order:—
 
@@ -104,7 +104,7 @@ In constructing or maintaining the railway the Company may—
 
 (2) Section 5 (Penalty for avoiding payment of fare) of the Regulation of Railways Act 1889[^f00007] shall apply to the railway.
 
-## 6. Transfer of rights and obligations to Company, etc.[^key-93e6688aa2581b81010fc28a6a9dc1e4]
+## 6. Transfer of rights and obligations to Company, etc.[^c-93e6688aa2581b81010fc28a6a9dc1e4]
 
 Except as may be otherwise provided in this Order, as from the date of coming into force of this Order—
 
@@ -113,13 +113,13 @@ Except as may be otherwise provided in this Order, as from the date of coming in
   - (i) be entitled to the benefit of, and to exercise, all rights, powers and privileges relating to the former railway; and
   - (ii) be subject to all obligations, statutory or otherwise, relating to the former railway (in so far as they are still subsisting and capable of taking effect), to the intent that BRB (Residuary) Limited shall be released from all such obligations.
 
-## 7. As to footpath and accommodation level crossings[^key-60257762beb723a6b5d7285811973d57]
+## 7. As to footpath and accommodation level crossings[^c-60257762beb723a6b5d7285811973d57]
 
 (1) The Company may make and maintain the level crossings specified in Schedule 2 to this Order with all the necessary works and conveniences connected therewith.
 
 (2) The Company shall carry out and maintain such other works as may be necessary or expedient for the purposes of, in connection with, or in consequence of the construction of the said level crossings.
 
-## 8. Operation of railway, etc.[^key-e76f92d43cd1c03f550cdac3e2932dc9]
+## 8. Operation of railway, etc.[^c-e76f92d43cd1c03f550cdac3e2932dc9]
 
 (1) The Company may operate and use the railway as a system, or part of a system, of transport for the carriage of passengers and goods.
 
@@ -133,11 +133,11 @@ Except as may be otherwise provided in this Order, as from the date of coming in
 
 (6) The railway shall be operated on a gauge of 1.435 metres (four feet eight and one half inches).
 
-## 9. For protection of public gas suppliers[^key-aed9ddf5f7e5527dbce01eca0811cd4a]
+## 9. For protection of public gas suppliers[^c-aed9ddf5f7e5527dbce01eca0811cd4a]
 
 Nothing in this Order shall prejudice or affect the rights of any public gas supplier within the meaning of Part 1 of the Gas Act 1986[^f00009] in any apparatus belonging to them or for the maintenance of which they are responsible, or any structure for the lodging therein of apparatus, being any apparatus or structure situate under, over or upon lands in or upon which the railway or any part thereof is constructed.
 
-## 10. For protection of sewerage and water undertakers[^key-7a97a618a32c413382c67d526ce24d8a]
+## 10. For protection of sewerage and water undertakers[^c-7a97a618a32c413382c67d526ce24d8a]
 
 For the protection of sewerage and water undertakers (in this article referred to as “the undertakers”) the following provisions shall, unless otherwise agreed in writing between the Company and the undertaker concerned, apply and have effect:
 
@@ -159,11 +159,11 @@ Edinburgh
 
 12th December 2012
 
-## SCHEDULE 1 — THE RAILWAY[^key-98a602490b76572a9010eb91e86f05fa]
+## SCHEDULE 1 — THE RAILWAY[^c-98a602490b76572a9010eb91e86f05fa]
 
 Article 3
 
-[^key-98a602490b76572a9010eb91e86f05fa]
+[^c-98a602490b76572a9010eb91e86f05fa]
 
 A railway 3460 metres in length within the local government area of Aberdeenshire Council, partly on the same lines and levels as the former railway described in and authorised by the Deeside Railway Act 1852[^f00011], commencing at a point adjacent to the Inverey fishing hut, Banchory (OS grid reference point 370954/795793) and terminating at a point 30 metres west of the centre line of the access road leading to the Milton of Crathes (OS grid reference point 374128/796234).
 
@@ -171,13 +171,13 @@ A railway 3460 metres in length within the local government area of Aberdeenshi
 
 Article 7
 
-**1.**[^key-222dc47641d151476893667f0efee63c] Public footpath crossing located at a distance of 125 metres from the zero point giving access to a supermarket.
+**1.**[^c-222dc47641d151476893667f0efee63c] Public footpath crossing located at a distance of 125 metres from the zero point giving access to a supermarket.
 
-**2.**[^key-a245ff988f4f56aa5c13904743c543d5] Public footpath crossing located at a distance of 700 metres from the zero point giving access to Silverbank Caravan Park.
+**2.**[^c-a245ff988f4f56aa5c13904743c543d5] Public footpath crossing located at a distance of 700 metres from the zero point giving access to Silverbank Caravan Park.
 
-**3.**[^key-bc5f3930ca551e708eb7ff39f2ca56ba] Public footpath located at a distance of 1580 metres from the zero point giving access between West Lodge and the riverside path.
+**3.**[^c-bc5f3930ca551e708eb7ff39f2ca56ba] Public footpath located at a distance of 1580 metres from the zero point giving access between West Lodge and the riverside path.
 
-**4.**[^key-533f3b08d98a63b771e3aef67201ee16] Private vehicular crossing giving access to Birkenbaud Cottages at a distance of 2035 metres from the zero point.
+**4.**[^c-533f3b08d98a63b771e3aef67201ee16] Private vehicular crossing giving access to Birkenbaud Cottages at a distance of 2035 metres from the zero point.
 
 EXPLANATORY NOTE
 
@@ -209,9 +209,9 @@ Marine Scotland, 375 Victoria Road, Aberdeen, AB11 9DB.
 
 [^f00001]: Footnote: [1896 c.48](https://www.legislation.gov.uk/ukpga/1896/48) as amended by Section 68 of the Railways Act 1921. The functions of the Minister under that Act vested in the Secretary of State for Transport by virtue of [S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681), [1979/571](https://www.legislation.gov.uk/uksi/1979/571) and [1981/238](https://www.legislation.gov.uk/uksi/1981/238). The functions of the Secretary of State for Transport transferred to the Scottish Ministers in respect of the promotion and construction of railways in Scotland by virtue of the Scotland Act 1998 (Modification of Schedule 5) Order 2002 ([S.I. 2002/1629](https://www.legislation.gov.uk/uksi/2002/1629)). In terms of section 22 of the [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), no order under the 1896 Act is to be made by the Scottish Ministers on or after the day on which section 1 of the 2007 Act comes into force (28th December 2007). Article 4(1) of [S.S.I. 2007/517](https://www.legislation.gov.uk/ssi/2007/517) does, however, remove this restriction in a case where application for the order was made before that date.
 
-[^key-2cbbd30bea32c3768f9a5a5d954c378d]: Commencement: Art. 1 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-2cbbd30bea32c3768f9a5a5d954c378d]: Commencement: Art. 1 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
-[^key-2c91dcb3b0fbf6cf45ae2cbcb3295169]: Commencement: Art. 2 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-2c91dcb3b0fbf6cf45ae2cbcb3295169]: Commencement: Art. 2 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
 [^f00002]: Footnote: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6).
 
@@ -219,44 +219,44 @@ Marine Scotland, 375 Victoria Road, Aberdeen, AB11 9DB.
 
 [^f00004]: Footnote: [2003 c.21](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-5da7eac9276298b1d251fd14997787c3]: Commencement: Art. 3 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-5da7eac9276298b1d251fd14997787c3]: Commencement: Art. 3 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
-[^key-99c7510f890f4ad302efed1fd0c10007]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/ssi/2012/345/article/3/2) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 11(d)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/11/d) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
+[^c-99c7510f890f4ad302efed1fd0c10007]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/ssi/2012/345/article/3/2) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 11(d)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/11/d) (as extended to U.K. (29.7.2016) by virtue of by [S.I. 2016/645](https://www.legislation.gov.uk/uksi/2016/645), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/645/regulation/1/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2016/645/schedule/1/paragraph/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2016/645/regulation/4)))
 
 [^f00005]: Footnote: [S.I. 2006/599](https://www.legislation.gov.uk/uksi/2006/599).
 
-[^key-9d3287364fe562219c59a38cb64a40a9]: Commencement: Art. 4 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-9d3287364fe562219c59a38cb64a40a9]: Commencement: Art. 4 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
-[^key-5d67a674f76f3942d5d30359358fa563]: Commencement: Art. 5 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-5d67a674f76f3942d5d30359358fa563]: Commencement: Art. 5 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
 [^f00006]: Footnote: [1845 c.33](https://www.legislation.gov.uk/ukpga/1845/33).
 
 [^f00007]: Footnote: [1889 c.57](https://www.legislation.gov.uk/ukpga/1889/57).
 
-[^key-93e6688aa2581b81010fc28a6a9dc1e4]: Commencement: Art. 6 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-93e6688aa2581b81010fc28a6a9dc1e4]: Commencement: Art. 6 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
-[^key-60257762beb723a6b5d7285811973d57]: Commencement: Art. 7 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-60257762beb723a6b5d7285811973d57]: Commencement: Art. 7 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
-[^key-e76f92d43cd1c03f550cdac3e2932dc9]: Commencement: Art. 8 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-e76f92d43cd1c03f550cdac3e2932dc9]: Commencement: Art. 8 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
 [^f00008]: Footnote: [1993 c.43](https://www.legislation.gov.uk/ukpga/1993/43), as amended by the Transport Act [2000 (c. 38)](https://www.legislation.gov.uk/ukpga/2000/38) and the Railways Act [2005 (c.14)](https://www.legislation.gov.uk/ukpga/2005/14).
 
-[^key-aed9ddf5f7e5527dbce01eca0811cd4a]: Commencement: Art. 9 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-aed9ddf5f7e5527dbce01eca0811cd4a]: Commencement: Art. 9 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
 [^f00009]: Footnote: [1986 c.44](https://www.legislation.gov.uk/ukpga/1986/44).
 
-[^key-7a97a618a32c413382c67d526ce24d8a]: Commencement: Art. 10 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-7a97a618a32c413382c67d526ce24d8a]: Commencement: Art. 10 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
 [^f00010]: Footnote: [1894 c.13](https://www.legislation.gov.uk/ukpga/1894/13), which Act is prospectively repealed by the Arbitration (Scotland) Act 2010 but is currently in force for the purpose of statutory arbitration.
 
-[^key-98a602490b76572a9010eb91e86f05fa]: Commencement: Sch. 1 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-98a602490b76572a9010eb91e86f05fa]: Commencement: Sch. 1 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
 [^f00011]: Footnote: [1852 c.xi](https://www.legislation.gov.uk/ukla/1852/11).
 
-[^key-222dc47641d151476893667f0efee63c]: Commencement: Sch. 2 para. 1 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-222dc47641d151476893667f0efee63c]: Commencement: Sch. 2 para. 1 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
-[^key-a245ff988f4f56aa5c13904743c543d5]: Commencement: Sch. 2 para. 2 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-a245ff988f4f56aa5c13904743c543d5]: Commencement: Sch. 2 para. 2 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
-[^key-bc5f3930ca551e708eb7ff39f2ca56ba]: Commencement: Sch. 2 para. 3 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-bc5f3930ca551e708eb7ff39f2ca56ba]: Commencement: Sch. 2 para. 3 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
 
-[^key-533f3b08d98a63b771e3aef67201ee16]: Commencement: Sch. 2 para. 4 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)
+[^c-533f3b08d98a63b771e3aef67201ee16]: Commencement: Sch. 2 para. 4 in force at 28.12.2012, see [art. 1](https://www.legislation.gov.uk/ssi/2012/345/article/1)

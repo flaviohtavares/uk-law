@@ -47,7 +47,7 @@ summary: ''
 (7) Paragraph (6) does not apply—
 
 - (a) if the Secretary of State determines that paragraph (6) does not apply in the circumstances of the particular case
-  - (i)[^key-327096a99b46069d9eed544e483de479] to prevent cessation of a pension, or
+  - (i)[^c-327096a99b46069d9eed544e483de479] to prevent cessation of a pension, or
   - (ii) to reinstate a previously ceased pension;
 - (b) to so much of any pension as is payable in respect of section 9(2B) rights to a widow or widower whose entitlement arose from a death occurring before 5th December 2005 and who forms a civil partnership or lives with another person as if they were civil partners;
 - (c) where D dies in service, as a phased retirement pensioner or as a retirement pensioner, during the first 3 months after D's death.
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-327096a99b46069d9eed544e483de479]: Textual amendment: Words in [reg. 94(7)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/94/7/a) inserted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [17](https://www.legislation.gov.uk/uksi/2014/2651/regulation/17)
+[^c-327096a99b46069d9eed544e483de479]: Textual amendment: Words in [reg. 94(7)(a)](https://www.legislation.gov.uk/uksi/2010/990/regulation/94/7/a) inserted (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [17](https://www.legislation.gov.uk/uksi/2014/2651/regulation/17)

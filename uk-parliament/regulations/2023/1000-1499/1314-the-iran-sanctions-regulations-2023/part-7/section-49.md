@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Detention of ships[^key-61fd57517b77785fd0faa3d2bf8094ab]
+## 49. Detention of ships[^c-61fd57517b77785fd0faa3d2bf8094ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,7 +61,7 @@ summary: ''
 
 ## Annotations
 
-[^key-61fd57517b77785fd0faa3d2bf8094ab]: Commencement: Reg. 49 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-61fd57517b77785fd0faa3d2bf8094ab]: Commencement: Reg. 49 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00009]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Section 284(1), (2), (2A), (2B), (3) was inserted and amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), Schedule 1, paragraph 5 and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 

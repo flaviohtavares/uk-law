@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Levelling Up Fund Round 3[^key-ab77b342b93b0ea18fef8aa788089e01]
+## 7. Levelling Up Fund Round 3[^c-ab77b342b93b0ea18fef8aa788089e01]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab77b342b93b0ea18fef8aa788089e01]: Commencement: S. 7 in force at Royal Assent, see [s. 255(1)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/1/a)
+[^c-ab77b342b93b0ea18fef8aa788089e01]: Commencement: S. 7 in force at Royal Assent, see [s. 255(1)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/1/a)

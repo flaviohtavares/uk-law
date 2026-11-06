@@ -22,13 +22,13 @@ summary: ''
 
 (1) Section 2 of the Video Recordings Act 1984 (exempted video works) is amended as follows.
 
-(2)[^key-28383038cf1550845a64e7562de2019f] In subsection (1)—
+(2)[^c-28383038cf1550845a64e7562de2019f] In subsection (1)—
 
 - (a) after “video work” insert “ other than a video game ”,
 - (b) after paragraph (a) insert “ or ”, and
 - (c) omit paragraph (c) (and the word “or” before it).
 
-(3)[^key-28383038cf1550845a64e7562de2019f] After that subsection insert—
+(3)[^c-28383038cf1550845a64e7562de2019f] After that subsection insert—
 
 > (1A) Subject to subsection (2) or (3) below, a video game is for the purposes of this Act an exempted work if—
 >
@@ -43,7 +43,7 @@ summary: ''
 > - (a) by adding or removing a case in which a video work is not an exempted work, or
 > - (b) by amending a description of such a case.
 
-(5)[^key-28383038cf1550845a64e7562de2019f] After section 2 of that Act insert—
+(5)[^c-28383038cf1550845a64e7562de2019f] After section 2 of that Act insert—
 
 > **2A. Conditions relating to video games**
 >
@@ -76,7 +76,7 @@ summary: ''
 >
 > (6) Regulations under this section may make provision by reference to documents produced by the designated authority.
 
-(6)[^key-28383038cf1550845a64e7562de2019f] In section 3 of that Act (exempted supplies), after subsection (8) insert—
+(6)[^c-28383038cf1550845a64e7562de2019f] In section 3 of that Act (exempted supplies), after subsection (8) insert—
 
 > (8A) The supply of a video recording in the form of a machine of a type designed primarily for use in an amusement arcade is an exempted supply unless the video game (or, if more than one, any of the video games) that it contains—
 >
@@ -96,4 +96,4 @@ summary: ''
 
 [^c2030750]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2010/24/section/40) partly in force; [s. 40(1)(4)(7)](https://www.legislation.gov.uk/ukpga/2010/24/section/40/1/4/7) in force at 8.6.2010 see [s. 47(1)(3)(c)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1/3/c)
 
-[^key-28383038cf1550845a64e7562de2019f]: Commencement: [S. 40(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/40/2)[(3)](https://www.legislation.gov.uk/ukpga/2010/24/section/40/3)[(5)](https://www.legislation.gov.uk/ukpga/2010/24/section/40/5)[(6)](https://www.legislation.gov.uk/ukpga/2010/24/section/40/6) in force at 30.7.2012 by [S.I. 2012/1766](https://www.legislation.gov.uk/uksi/2012/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1766/article/2/a)
+[^c-28383038cf1550845a64e7562de2019f]: Commencement: [S. 40(2)](https://www.legislation.gov.uk/ukpga/2010/24/section/40/2)[(3)](https://www.legislation.gov.uk/ukpga/2010/24/section/40/3)[(5)](https://www.legislation.gov.uk/ukpga/2010/24/section/40/5)[(6)](https://www.legislation.gov.uk/ukpga/2010/24/section/40/6) in force at 30.7.2012 by [S.I. 2012/1766](https://www.legislation.gov.uk/uksi/2012/1766), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1766/article/2/a)

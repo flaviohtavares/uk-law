@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16B. Functions of the Panel[^key-0d29c8b71658bf07c764204b26fc118a][^key-0d29c8b71658bf07c764204b26fc118a]
+## 16B. Functions of the Panel[^c-0d29c8b71658bf07c764204b26fc118a][^c-0d29c8b71658bf07c764204b26fc118a]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d29c8b71658bf07c764204b26fc118a]: Textual amendment: S. 16B inserted (19.3.2018 for specified purposes, 29.6.2018 in so far as not already in force) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 13](https://www.legislation.gov.uk/ukpga/2017/16/section/13), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/a); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/b)
+[^c-0d29c8b71658bf07c764204b26fc118a]: Textual amendment: S. 16B inserted (19.3.2018 for specified purposes, 29.6.2018 in so far as not already in force) by [Children and Social Work Act 2017 (c. 16)](https://www.legislation.gov.uk/ukpga/2017/16), [ss. 13](https://www.legislation.gov.uk/ukpga/2017/16/section/13), [70(2)](https://www.legislation.gov.uk/ukpga/2017/16/section/70/2); [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/346/regulation/3/a); [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/b)

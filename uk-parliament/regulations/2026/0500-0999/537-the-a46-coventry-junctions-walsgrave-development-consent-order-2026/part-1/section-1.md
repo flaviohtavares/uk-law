@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-eb076b64e3b0f1017dd768ef242077b0]
+## 1. Citation and commencement[^c-eb076b64e3b0f1017dd768ef242077b0]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the A46 Coventry Junctions (Walsgrave) Development Co
 
 ## Annotations
 
-[^key-eb076b64e3b0f1017dd768ef242077b0]: Commencement: Art. 1 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-eb076b64e3b0f1017dd768ef242077b0]: Commencement: Art. 1 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)

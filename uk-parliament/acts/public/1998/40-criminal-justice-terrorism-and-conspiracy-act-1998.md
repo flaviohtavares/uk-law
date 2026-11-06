@@ -168,7 +168,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## General
 
-### 8. Report to Parliament.[^key-16820fdfd6ee429d09e6d6374d603984]
+### 8. Report to Parliament.[^c-16820fdfd6ee429d09e6d6374d603984]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -351,7 +351,7 @@ Section 9(2).
 
 [^c878202]: Marginal citation: [1995 c. 43](https://www.legislation.gov.uk/ukpga/1995/43).
 
-[^key-16820fdfd6ee429d09e6d6374d603984]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1998/40/section/8) repealed (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/62/1), [153(2)(a)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/a), [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4)
+[^c-16820fdfd6ee429d09e6d6374d603984]: Textual amendment: [S. 8](https://www.legislation.gov.uk/ukpga/1998/40/section/8) repealed (8.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/62/1), [153(2)(a)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/a), [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4)
 
 [^c878203]: Textual amendment: [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1998/40/schedule/1/part/I) repealed (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [s. 125](https://www.legislation.gov.uk/ukpga/2000/11/section/125), [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/11/schedule/16/part/I); [S.I. 2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2](https://www.legislation.gov.uk/uksi/2001/421/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2001/421/article/3))
 

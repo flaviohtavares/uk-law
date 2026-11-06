@@ -35,44 +35,44 @@ on certain aspects of railway safety and connectivity with regard to the cross-b
 
 (Text with EEA relevance) (revoked)
 
-[^key-ce79c548c99fec11ab53b59524dc24fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce79c548c99fec11ab53b59524dc24fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-ce79c548c99fec11ab53b59524dc24fb]
+## Article 1. Subject matter and scope[^c-ce79c548c99fec11ab53b59524dc24fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-ce79c548c99fec11ab53b59524dc24fb]
+## Article 2. Definitions[^c-ce79c548c99fec11ab53b59524dc24fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Validity of safety authorisations, safety certificates and licences[^key-ce79c548c99fec11ab53b59524dc24fb]
+## Article 3. Validity of safety authorisations, safety certificates and licences[^c-ce79c548c99fec11ab53b59524dc24fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Rules and obligations regarding safety authorisations, safety certificates and licences[^key-ce79c548c99fec11ab53b59524dc24fb]
+## Article 4. Rules and obligations regarding safety authorisations, safety certificates and licences[^c-ce79c548c99fec11ab53b59524dc24fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Monitoring compliance with Union law[^key-ce79c548c99fec11ab53b59524dc24fb]
+## Article 5. Monitoring compliance with Union law[^c-ce79c548c99fec11ab53b59524dc24fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Consultation and cooperation[^key-ce79c548c99fec11ab53b59524dc24fb]
+## Article 6. Consultation and cooperation[^c-ce79c548c99fec11ab53b59524dc24fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Committee[^key-ce79c548c99fec11ab53b59524dc24fb]
+## Article 7. Committee[^c-ce79c548c99fec11ab53b59524dc24fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Entry into force and application[^key-ce79c548c99fec11ab53b59524dc24fb]
+## Article 8. Entry into force and application[^c-ce79c548c99fec11ab53b59524dc24fb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce79c548c99fec11ab53b59524dc24fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce79c548c99fec11ab53b59524dc24fb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ce79c548c99fec11ab53b59524dc24fb]: Textual amendment: Regulation revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)
+[^c-ce79c548c99fec11ab53b59524dc24fb]: Textual amendment: Regulation revoked (6.2.2024) by [The Railways and Freight Transport etc. (Revocation) Regulations 2024 (S.I. 2024/8)](https://www.legislation.gov.uk/uksi/2024/8), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/8/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/8/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Inspection of premises and neighbourhood[^key-327cd49a546d78698560deca0e297001]
+## 23. Inspection of premises and neighbourhood[^c-327cd49a546d78698560deca0e297001]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-327cd49a546d78698560deca0e297001]: Commencement: Reg. 23 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-327cd49a546d78698560deca0e297001]: Commencement: Reg. 23 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

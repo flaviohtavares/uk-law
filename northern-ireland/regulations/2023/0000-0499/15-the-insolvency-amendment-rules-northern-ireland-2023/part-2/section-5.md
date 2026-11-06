@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Part A1[^key-0322ad758d5eceaca721c162796c041b]
+## 5. Part A1[^c-0322ad758d5eceaca721c162796c041b]
 
 *Extent: N.I.*
 
@@ -1160,7 +1160,7 @@ Immediately before Part 1 of the principal Rules (company voluntary arrangements
 
 ## Annotations
 
-[^key-0322ad758d5eceaca721c162796c041b]: Commencement: Rule 5 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
+[^c-0322ad758d5eceaca721c162796c041b]: Commencement: Rule 5 in operation at 13.3.2023, see [rule 1](https://www.legislation.gov.uk/nisr/2023/15/rule/1)
 
 [^f00009]: Footnote: “**the Monitor**” in relation to a moratorium is defined in Article 13HE.
 

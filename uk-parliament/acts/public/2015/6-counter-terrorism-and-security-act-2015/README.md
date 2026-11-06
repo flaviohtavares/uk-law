@@ -34,11 +34,11 @@ An Act to make provision in relation to terrorism; to make provision about reten
 
 \[12th February 2015\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-0aaac054cd38956ce8530e3bf9f6429f]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-0aaac054cd38956ce8530e3bf9f6429f]
 
 ## Contents
 
-### PART 1 — Temporary restrictions on travel[^key-ecd3b2aeee1eea95a6132af495acc41e]
+### PART 1 — Temporary restrictions on travel[^c-ecd3b2aeee1eea95a6132af495acc41e]
 
 #### CHAPTER 1 — Powers to seize travel documents
 
@@ -87,7 +87,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 21 — Retention of relevant internet data](part-3/section-21.md)
 
-### PART 4 — Aviation, shipping and rail[^key-5274814c1a2aede310161ba0c33bdfa5]
+### PART 4 — Aviation, shipping and rail[^c-5274814c1a2aede310161ba0c33bdfa5]
 
 - [Section 22 — Authority-to-carry schemes](part-4/section-22.md)
 - [Section 23 — Authority-to-carry schemes: entry into force etc](part-4/section-23.md)
@@ -156,8 +156,8 @@ SCHEDULES
 
 ## Annotations
 
-[^key-0aaac054cd38956ce8530e3bf9f6429f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2015/6) extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1), [13](https://www.legislation.gov.uk/uksi/2021/1281/article/13), [Sch. 11](https://www.legislation.gov.uk/uksi/2021/1281/schedule/11), [Sch. 11A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/11A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
+[^c-0aaac054cd38956ce8530e3bf9f6429f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2015/6) extended in part (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1), [13](https://www.legislation.gov.uk/uksi/2021/1281/article/13), [Sch. 11](https://www.legislation.gov.uk/uksi/2021/1281/schedule/11), [Sch. 11A](https://www.legislation.gov.uk/uksi/2021/1281/schedule/11A) (with [art. 16](https://www.legislation.gov.uk/uksi/2021/1281/article/16))
 
-[^key-ecd3b2aeee1eea95a6132af495acc41e]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2015/6/part/1) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/982/article/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/982/schedule/1)
+[^c-ecd3b2aeee1eea95a6132af495acc41e]: Modification: [Pt. 1](https://www.legislation.gov.uk/ukpga/2015/6/part/1) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(a)](https://www.legislation.gov.uk/uksi/2017/982/article/2/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/982/schedule/1)
 
-[^key-5274814c1a2aede310161ba0c33bdfa5]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2015/6/part/4) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/982/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/982/schedule/2)
+[^c-5274814c1a2aede310161ba0c33bdfa5]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/2015/6/part/4) extended (Jersey) (with modifications) (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Counter-Terrorism and Security (Jersey) Order 2017 (S.I. 2017/982)](https://www.legislation.gov.uk/uksi/2017/982), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/982/article/2/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/982/schedule/2)

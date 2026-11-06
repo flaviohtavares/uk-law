@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135.[^key-2ebe17b468318c6510deaba7bc8f0dc1]
+## 135.[^c-2ebe17b468318c6510deaba7bc8f0dc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation 98A(2) has effect as if sub-paragraph (b) were omitted.
 
 ## Annotations
 
-[^key-2ebe17b468318c6510deaba7bc8f0dc1]: Textual amendment: Regs. 134-137B substituted for regs. 134-137 (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/11/2)
+[^c-2ebe17b468318c6510deaba7bc8f0dc1]: Textual amendment: Regs. 134-137B substituted for regs. 134-137 (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [11(2)](https://www.legislation.gov.uk/uksi/2019/1076/regulation/11/2)

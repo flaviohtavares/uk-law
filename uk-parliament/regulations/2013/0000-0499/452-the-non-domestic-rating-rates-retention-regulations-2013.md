@@ -57,9 +57,9 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 - “**the 1988 Act**” means the Local Government Finance Act 1988;
 - “**authority**” means a billing authority or a major precepting authority;
 - “**billing authority**” means a billing authority in England;
-- “central share payment” means a payment made by a billing authority to the Secretary of State under paragraph 6(2) of Schedule 7B to the 1988 Act;[^key-73d347f04b36e1463458ff92abbbe902]
+- “central share payment” means a payment made by a billing authority to the Secretary of State under paragraph 6(2) of Schedule 7B to the 1988 Act;[^c-73d347f04b36e1463458ff92abbbe902]
 - “**certified non-domestic rating income**” has the meaning given by regulation 9(4);
-- “[^key-57866614c3b6667838c35dbc5fef4b34]**Hartlepool MDC Order**” means the Hartlepool Development Corporation (Functions) Order 2023;
+- “[^c-57866614c3b6667838c35dbc5fef4b34]**Hartlepool MDC Order**” means the Hartlepool Development Corporation (Functions) Order 2023;
 - “**Middlesbrough MDC Order**” means the Middlesbrough Development Corporation (Functions) Order 2023;
 - “**non-domestic rating income**” has the meaning given by regulation 3(3);
 - “**non-domestic rating multiplier**” in relation to a year means the non-domestic rating multiplier for the year calculated by the Secretary of State under Schedule 7 to the 1988 Act;
@@ -67,9 +67,9 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 - “**relevant precepting authority**” in relation to a billing authority means a major precepting authority other than a police and crime commissioner, having a power to issue a precept to that billing authority;
 - “**relevant year**” means the year for which a calculation of non-domestic rating income or of a payment is being made;
 - “**schedule of instalments**” has the meaning given by regulation 15;
-- “[^key-bc33a604b1794537f504d8e77d3a428a]**section 31 grant**” means a grant paid to an authority by a Minister of the Crown under section 31 of the Local Government Act 2003;
+- “[^c-bc33a604b1794537f504d8e77d3a428a]**section 31 grant**” means a grant paid to an authority by a Minister of the Crown under section 31 of the Local Government Act 2003;
 - “**small business hereditament**” means a hereditament for which on 1st April 2023 a rateable value of less than £51,000 is shown on a local non-domestic rating list;
-- “**small business non-domestic rating multiplier**” in relation to a year means the small business non-domestic rating multiplier for the year calculated by the Secretary of State under[^key-1f18241d563529d416c7c1d3a114432b] Schedule 7 to the 1988 Act [^c21673151].
+- “**small business non-domestic rating multiplier**” in relation to a year means the small business non-domestic rating multiplier for the year calculated by the Secretary of State under[^c-1f18241d563529d416c7c1d3a114432b] Schedule 7 to the 1988 Act [^c21673151].
 - “**standard hereditament**” means a hereditament for which on 1st April 2023 a rateable value greater than £50,999 is shown on a local non-domestic rating list.
 
 (2) In these Regulations any reference to a billing authority's general fund shall be construed in relation to the Common Council of the City of London as a reference to the City fund [^c21673161].
@@ -80,24 +80,24 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 
 ### 3. Calculation and notification of non-domestic rating income and other amounts
 
-(A1)[^key-73664eb313de2f8b8515bde41068e7fb] For—
+(A1)[^c-73664eb313de2f8b8515bde41068e7fb] For—
 
 - (a) a relevant year beginning on or after 1st April 2026, a billing authority must make the calculations under paragraph (1)(a), (b), (e), (h) and (i) to (l);
 - (b) any other relevant year, a billing authority must make the calculations under paragraph (1)(a) to (h).
 
-(1) The calculations are—[^key-e66d9bf7228be59cadf04c9a9552026e]
+(1) The calculations are—[^c-e66d9bf7228be59cadf04c9a9552026e]
 
 - (a) the amount of the central share of its non-domestic rating income;
 - (b) the amount of each relevant precepting authority's share of its non-domestic rating income in accordance with regulation 5;
 - (c) the amount (if any) to be deducted from the central share payment in accordance with regulation 4(1);
 - (d) the amount of each relevant precepting authority's share of any amount to be deducted from the central share payment in accordance with regulation 4(1);
-- (da)[^key-3f877bec090e61a7e9bab0b266164494] for a billing authority listed in Parts 2 to 6[^key-14b1d3a8fde05239567ede547ad4433d] of Schedule 5, the amount that is its estimate of the amount (if any) specified by paragraph 2 of Schedule 2 for that year;
-- (db) for a billing authority listed in Parts 2 to 6[^key-3ba6d6717993d4d1ac6eb0f6e368c4bd] of Schedule 5, the amount that is its estimate of the amount (if any) specified by paragraph 3 of Schedule 2 for that year;
+- (da)[^c-3f877bec090e61a7e9bab0b266164494] for a billing authority listed in Parts 2 to 6[^c-14b1d3a8fde05239567ede547ad4433d] of Schedule 5, the amount that is its estimate of the amount (if any) specified by paragraph 2 of Schedule 2 for that year;
+- (db) for a billing authority listed in Parts 2 to 6[^c-3ba6d6717993d4d1ac6eb0f6e368c4bd] of Schedule 5, the amount that is its estimate of the amount (if any) specified by paragraph 3 of Schedule 2 for that year;
 - (e) the amount (if any) specified by regulation 7(2);
-- (f)[^key-cb3572e6a8c3a12225b4e623e231d8f2] the amount (if any) specified by regulation 7A(2);
+- (f)[^c-cb3572e6a8c3a12225b4e623e231d8f2] the amount (if any) specified by regulation 7A(2);
 - (g) the amount of each relevant precepting authority’s share of any amount specified by regulation 7A.
-- (h)[^key-42c2ba521a3071d8301606797a185b42] the amount (if any) specified by regulation 7B(2).
-- (i)[^key-776b550b50ae0bd7fe0efd6be687e725] the amount (if any) specified by regulation 7B(2A);
+- (h)[^c-42c2ba521a3071d8301606797a185b42] the amount (if any) specified by regulation 7B(2).
+- (i)[^c-776b550b50ae0bd7fe0efd6be687e725] the amount (if any) specified by regulation 7B(2A);
 - (j) the amount that is its allowance for costs of collection and recovery for that year in accordance with paragraph 2 of Schedule 1;
 - (k) the amount that is its estimate of the amount (if any) specified by paragraph 2 of Schedule 2 for that year;
 - (l) the amount that is its estimate of the amount (if any) specified by paragraph 2 of Schedule 2B for that year.
@@ -105,12 +105,12 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 (2) The billing authority must notify the Secretary of State and any relevant precepting authorities of the amounts that have been calculated—
 
 - (a) for the year commencing on 1st April 2013 on or before 15th March 2013;
-- (b) subject to sub-paragraph (c),[^key-26700c05a51be7f58ec810c451f50c70] for a year commencing on or after 1st April 2014 on or before 31st January in the preceding year.
-- (c)[^key-49e7ccb549cf4c0f347e8cc0a47e8a4e] for the year commencing on 1st April 2026 on or before 15th April 2026.
+- (b) subject to sub-paragraph (c),[^c-26700c05a51be7f58ec810c451f50c70] for a year commencing on or after 1st April 2014 on or before 31st January in the preceding year.
+- (c)[^c-49e7ccb549cf4c0f347e8cc0a47e8a4e] for the year commencing on 1st April 2026 on or before 15th April 2026.
 
-(2A)[^key-c0342b8edc840df96b8b85c4c85b244b] In relation to the relevant year commencing on 1st April 2017, a billing authority listed in Parts 2 to 6 of Schedule 5 must on or before 30th April 2017 notify the Secretary of State and any relevant precepting authority of the amounts it has calculated under paragraph (1)(da) and (db) for that relevant year.
+(2A)[^c-c0342b8edc840df96b8b85c4c85b244b] In relation to the relevant year commencing on 1st April 2017, a billing authority listed in Parts 2 to 6 of Schedule 5 must on or before 30th April 2017 notify the Secretary of State and any relevant precepting authority of the amounts it has calculated under paragraph (1)(da) and (db) for that relevant year.
 
-(2B)[^key-bb41f40a3f390cc063e63b5c417ab61e] In relation to the relevant year commencing on 1st April 2018, a billing authority listed in Parts 1 and 7 to 22 of Schedule 5 must on or before 30th April 2018 notify the Secretary of State and any relevant precepting authority of the amounts it has calculated under paragraph (1)(da) and (db) for that relevant year.
+(2B)[^c-bb41f40a3f390cc063e63b5c417ab61e] In relation to the relevant year commencing on 1st April 2018, a billing authority listed in Parts 1 and 7 to 22 of Schedule 5 must on or before 30th April 2018 notify the Secretary of State and any relevant precepting authority of the amounts it has calculated under paragraph (1)(da) and (db) for that relevant year.
 
 (3) A billing authority's non-domestic rating income for the purposes of paragraph (1) is the billing authority's estimate for the relevant year of the amount specified by paragraph 1 of Schedule 1.
 
@@ -121,19 +121,19 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 
 ### 4. Payment to the Secretary of State in respect of the central share
 
-(1)[^key-2ee9eb45aa4f147d20c2c59b285eaaa0] In relation to a relevant year ending on or before 31st March 2026[^key-92cdb9ac4ba8c0a5ae3c7531e8ce0413], a billing authority must deduct from the central share payment the amount which is the total of the following—
+(1)[^c-2ee9eb45aa4f147d20c2c59b285eaaa0] In relation to a relevant year ending on or before 31st March 2026[^c-92cdb9ac4ba8c0a5ae3c7531e8ce0413], a billing authority must deduct from the central share payment the amount which is the total of the following—
 
 - (a) its estimate of the amount (if any) specified by paragraph 2 of Schedule 2 for that year;
 - (b) its estimate of the amount (if any) specified by paragraph 3 of Schedule 2 for that year;
-- (c)[^key-553f5d13750e2d11b7f00f8f32639616] for a relevant year beginning on 1st April 2017, its estimate of the amount specified by paragraph 2(1) of Schedule 2A for that year (if applicable);
+- (c)[^c-553f5d13750e2d11b7f00f8f32639616] for a relevant year beginning on 1st April 2017, its estimate of the amount specified by paragraph 2(1) of Schedule 2A for that year (if applicable);
 - (d) for a relevant year beginning on or after 1st April 2017, its estimate of the amount specified by paragraph 2 of Schedule 2B for that year (if applicable); and
 - (e) for a relevant year beginning on or after 1st April 2018, its estimate of the amount specified by paragraph 2(1) of Schedule 2C for that year (if applicable).
 
-(2) The central share payment[^key-0d0d4ec23b5eca793492cf5f7e0bb9b3] must be made in the course of the relevant year in accordance with the schedule of instalments.
+(2) The central share payment[^c-0d0d4ec23b5eca793492cf5f7e0bb9b3] must be made in the course of the relevant year in accordance with the schedule of instalments.
 
-(3)[^key-3e6db2cb07b7619428ad98e217a3ee60] In relation to a relevant year commencing on or after 1st April 2017, this regulation does not apply to a billing authority listed in Parts 2 to 6 of Schedule 5.
+(3)[^c-3e6db2cb07b7619428ad98e217a3ee60] In relation to a relevant year commencing on or after 1st April 2017, this regulation does not apply to a billing authority listed in Parts 2 to 6 of Schedule 5.
 
-(4)[^key-dc43444679c2e5f0778c9b7b10878eb2] In relation to the relevant year commencing on 1st April 2018, this regulation does not apply to a billing authority listed in Parts 1 and 7 to 22 of Schedule 5.
+(4)[^c-dc43444679c2e5f0778c9b7b10878eb2] In relation to the relevant year commencing on 1st April 2018, this regulation does not apply to a billing authority listed in Parts 1 and 7 to 22 of Schedule 5.
 
 ### 5. Payments by billing authorities to major precepting authorities in respect of share of income
 
@@ -141,21 +141,21 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 
 (2) Each billing authority must make a payment for the year to each of its relevant precepting authorities of the amount that is that authority's share of the billing authority's non-domestic rating income.
 
-(2A)[^key-39a311cf46fcd31b1aca50a43e23f7ce] Where a billing authority has received an MDC payment for the year, it must make a payment for the year to each of its relevant precepting authorities of the amount that is that authority’s share of the MDC payment.
+(2A)[^c-39a311cf46fcd31b1aca50a43e23f7ce] Where a billing authority has received an MDC payment for the year, it must make a payment for the year to each of its relevant precepting authorities of the amount that is that authority’s share of the MDC payment.
 
-(3) Unless paragraph (3A)[^key-43505e8e6e4bc5f70a2f208336ba550f] , (3B)[^key-2aa88e629277237ada129a7220722a26] , (3C) or (3D)[^key-4e8af1ce9e6d61caee8cb10045fd6cd1] applies, the relevant precepting authority shares are—
+(3) Unless paragraph (3A)[^c-43505e8e6e4bc5f70a2f208336ba550f] , (3B)[^c-2aa88e629277237ada129a7220722a26] , (3C) or (3D)[^c-4e8af1ce9e6d61caee8cb10045fd6cd1] applies, the relevant precepting authority shares are—
 
 - (a) 10% where the relevant precepting authority is a county council which is a fire and rescue authority;
 - (b) 9% where the relevant precepting authority is a county council which is not a fire and rescue authority;
 - (c) 20% where the relevant precepting authority is the Greater London Authority; and
 - (d) 1% where the relevant precepting authority is a fire and rescue authority not falling within sub-paragraph (a).
 
-(3A)[^key-96239d7fe795044223d1940b875dd106] For a relevant year commencing on or after 1st April 2017, the relevant precepting authority shares are—
+(3A)[^c-96239d7fe795044223d1940b875dd106] For a relevant year commencing on or after 1st April 2017, the relevant precepting authority shares are—
 
-- (a)[^key-f8a98d8b96124f66ce99394003770d6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f8a98d8b96124f66ce99394003770d6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) 5% where the relevant precepting authority is the West of England Combined Authority.
 
-(3B)[^key-34d8a516bb99d8c4d1e278d8d262970e] For the relevant year commencing on 1st April 2017 and a relevant year commencing on or after 1st April 2020[^key-a6fea4f33b2a1d8f7dda2453a1176c47], the relevant precepting authority share for the Greater London Authority is 37%.
+(3B)[^c-34d8a516bb99d8c4d1e278d8d262970e] For the relevant year commencing on 1st April 2017 and a relevant year commencing on or after 1st April 2020[^c-a6fea4f33b2a1d8f7dda2453a1176c47], the relevant precepting authority share for the Greater London Authority is 37%.
 
 (3C) For the relevant year commencing on 1st April 2018, the relevant precepting authority shares are—
 
@@ -168,7 +168,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 - (g) 20% where the relevant precepting authority is Suffolk County Council; and
 - (h) 70% where the relevant precepting authority is Surrey County Council.
 
-(3D)[^key-3edc498aeb4f5b69e5a4bfed49a8d16a] For the relevant year commencing on 1st April 2019, the relevant precepting authority shares are—
+(3D)[^c-3edc498aeb4f5b69e5a4bfed49a8d16a] For the relevant year commencing on 1st April 2019, the relevant precepting authority shares are—
 
 - (a) 27% where the relevant precepting authority is the Greater London Authority;
 - (b) 31.5% where the relevant precepting authority is Buckinghamshire County Council;
@@ -186,24 +186,24 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 - (n) 5% where the relevant precepting authority is East Sussex Combined Fire and Rescue Authority; and
 - (o) 1.5% where the relevant precepting authority is Lancashire Combined Fire and Rescue Authority.
 
-(4) The payments[^key-b9f9a74b8714de3478f461f1eeff1a98] must be made in the course of the relevant year in accordance with the schedule of instalments.
+(4) The payments[^c-b9f9a74b8714de3478f461f1eeff1a98] must be made in the course of the relevant year in accordance with the schedule of instalments.
 
-(5)[^key-b2616fd2ff1ca32ca3e558998467ab50] In this regulation, an “**MDC payment**” means a payment from a Mayoral development corporation made in accordance with Part 4 of the Middlesbrough MDC Order or Part 4 of the Hartlepool MDC Order.
+(5)[^c-b2616fd2ff1ca32ca3e558998467ab50] In this regulation, an “**MDC payment**” means a payment from a Mayoral development corporation made in accordance with Part 4 of the Middlesbrough MDC Order or Part 4 of the Hartlepool MDC Order.
 
 ### 6. Payments to major precepting authorities in respect of deductions from central share payments
 
-(1) This regulation applies where an amount has been deducted from the central share payment for a year under regulation 4(1) in respect of an amount specified by paragraph 3 of Schedule 2 (case B hereditaments) or paragraph 2(1) of Schedule 2A (special provision for deduction from the central share payment)[^key-2f888a73ed11899c94e9294ae76c3477].
+(1) This regulation applies where an amount has been deducted from the central share payment for a year under regulation 4(1) in respect of an amount specified by paragraph 3 of Schedule 2 (case B hereditaments) or paragraph 2(1) of Schedule 2A (special provision for deduction from the central share payment)[^c-2f888a73ed11899c94e9294ae76c3477].
 
-(2) The billing authority must pay to each relevant precepting authority that authority's share of each specified[^key-fe691abd2f4654dcb8bad3d46be62bc9] amount.
+(2) The billing authority must pay to each relevant precepting authority that authority's share of each specified[^c-fe691abd2f4654dcb8bad3d46be62bc9] amount.
 
-(3) Unless paragraph (3A) applies,[^key-b1b096a209c97dca24c5260d4ed7eea3] the relevant precepting authority shares are—
+(3) Unless paragraph (3A) applies,[^c-b1b096a209c97dca24c5260d4ed7eea3] the relevant precepting authority shares are—
 
 - (a) 20% where the relevant precepting authority is a county council which is a fire and rescue authority;
 - (b) 18% where the relevant precepting authority is a county council which is not a fire and rescue authority;
 - (c) 40% where the relevant precepting authority is the Greater London Authority; and
 - (d) 2% where the relevant precepting authority is a fire and rescue authority not falling within sub-paragraph (a).
 
-(3A)[^key-fed06c655124c2c7e0de46b9b132f608] For the relevant year commencing on 1st April 2019, the relevant precepting authority shares are—
+(3A)[^c-fed06c655124c2c7e0de46b9b132f608] For the relevant year commencing on 1st April 2019, the relevant precepting authority shares are—
 
 - (a) 36% where the relevant precepting authority is the Greater London Authority;
 - (b) 42% where the relevant precepting authority is Buckinghamshire County Council;
@@ -248,7 +248,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 
 (5) In this regulation, “**planning permission**” means permission under Part 3 of the Town and Country Planning Act 1990 [^c21673181].
 
-### 7A. Payments with respect to shale oil or gas hereditaments[^key-279871a3a777b3bab8e1735d8ef043a9]
+### 7A. Payments with respect to shale oil or gas hereditaments[^c-279871a3a777b3bab8e1735d8ef043a9]
 
 (1) This regulation applies where the area of a billing authority includes a hereditament within a class designated by Part 2 of the Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015.
 
@@ -265,17 +265,17 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 
 (5) The payment must be made in the course of the relevant year in accordance with the schedule of instalments.
 
-### 7B. Payments with respect to designated area[^key-1e2880a09aed2b8189df8c469d03b159]
+### 7B. Payments with respect to designated area[^c-1e2880a09aed2b8189df8c469d03b159]
 
-(1) The amount specified by this paragraph[^key-bcc6f3f56d61d71c7a06580f58717249] is the proportion of Redcar and Cleveland Borough Council’s non-domestic rating income calculated in accordance with Part 1 of Schedule 2 to the Non-Domestic Rating (Designated Area) Regulations 2021 (“[^key-830a6e8f82a8ec28eb52931a5b5914ad]**the 2021 Regulations**”).
+(1) The amount specified by this paragraph[^c-bcc6f3f56d61d71c7a06580f58717249] is the proportion of Redcar and Cleveland Borough Council’s non-domestic rating income calculated in accordance with Part 1 of Schedule 2 to the Non-Domestic Rating (Designated Area) Regulations 2021 (“[^c-830a6e8f82a8ec28eb52931a5b5914ad]**the 2021 Regulations**”).
 
-(1A)[^key-f2d8d64352a10f7c92579a06d8685fe9] The amount specified by this paragraph is the amount of any section 31 grant paid to Redcar and Cleveland Borough Council in respect of an area designated under regulation 3 of the 2021 Regulations.
+(1A)[^c-f2d8d64352a10f7c92579a06d8685fe9] The amount specified by this paragraph is the amount of any section 31 grant paid to Redcar and Cleveland Borough Council in respect of an area designated under regulation 3 of the 2021 Regulations.
 
-(2) For each year that the designation under the 2021 Regulations[^key-e153586429dacbf571e0807ed5708a3b] has effect Redcar and Cleveland Borough Council must make a payment to the Tees Valley Combined Authority equal to 50% of the amount (if any) estimated, in accordance with regulation 3, as the amount specified by paragraph (1)[^key-61864d3264e45e001fe07cb9a9a13575].
+(2) For each year that the designation under the 2021 Regulations[^c-e153586429dacbf571e0807ed5708a3b] has effect Redcar and Cleveland Borough Council must make a payment to the Tees Valley Combined Authority equal to 50% of the amount (if any) estimated, in accordance with regulation 3, as the amount specified by paragraph (1)[^c-61864d3264e45e001fe07cb9a9a13575].
 
-(2A)[^key-833b9d9048cdffd6cf7d2cdd1b19c55b] For each year beginning on or after 1st April 2026 that the designation under the 2021 Regulations has effect Redcar and Cleveland Borough Council must make a payment to the Tees Valley Combined Authority equal to 50% of the amount (if any) estimated, in accordance with regulation 3, as the amount specified by paragraph (1A).
+(2A)[^c-833b9d9048cdffd6cf7d2cdd1b19c55b] For each year beginning on or after 1st April 2026 that the designation under the 2021 Regulations has effect Redcar and Cleveland Borough Council must make a payment to the Tees Valley Combined Authority equal to 50% of the amount (if any) estimated, in accordance with regulation 3, as the amount specified by paragraph (1A).
 
-(3) A payment under this regulation[^key-c35eee08d6158b183e7e6719622c1166] must be made in the course of the relevant year in accordance with the schedule of instalments.
+(3) A payment under this regulation[^c-c35eee08d6158b183e7e6719622c1166] must be made in the course of the relevant year in accordance with the schedule of instalments.
 
 ### 8. Transfer from collection fund to general fund
 
@@ -287,18 +287,18 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 
 ### 9. End of year calculations
 
-(1) Subject to[^key-15ced2150420981adc909f48a15adcc7] paragraphs (1A) and (5) to (8)[^key-f5d4e36a50ede0f7462be31d7d0752bc], on or before 30 September in the year following the relevant year a billing authority must—
+(1) Subject to[^c-15ced2150420981adc909f48a15adcc7] paragraphs (1A) and (5) to (8)[^c-f5d4e36a50ede0f7462be31d7d0752bc], on or before 30 September in the year following the relevant year a billing authority must—
 
 - (a) calculate the amount specified by paragraph 1 of Schedule 1 for the relevant year;
-- (b)[^key-d5abd6d39c7f1619fa2ade5854934635] calculate the amount (if any) specified by paragraph 2 of Schedule 2 for the relevant year;
+- (b)[^c-d5abd6d39c7f1619fa2ade5854934635] calculate the amount (if any) specified by paragraph 2 of Schedule 2 for the relevant year;
 - (ba) calculate the amount (if any) specified by paragraph 3 of Schedule 2 for the relevant year;
 - (bb) calculate the amount specified by paragraph 2(1) of Schedule 2A for the relevant year (if applicable);
 - (bc) calculate the amount specified by paragraph 2 of Schedule 2B for the relevant year (if applicable);
-- (bd)[^key-31dacc24012f2182c075dc14f9504ae9] calculate the amount specified by paragraph 2(1) of Schedule 2C for the relevant year (if applicable);
-- (c) calculate the amount (if any) specified by regulation 7(2) , 7A(2)[^key-69462b46191eacde18fc3d739b52e762] , 7B(2)[^key-979ba078ffe3d48b1ed4e248499c0bb6] and the amount of each relevant precepting authority’s share of any amount specified by regulation 7A for the relevant year; and
+- (bd)[^c-31dacc24012f2182c075dc14f9504ae9] calculate the amount specified by paragraph 2(1) of Schedule 2C for the relevant year (if applicable);
+- (c) calculate the amount (if any) specified by regulation 7(2) , 7A(2)[^c-69462b46191eacde18fc3d739b52e762] , 7B(2)[^c-979ba078ffe3d48b1ed4e248499c0bb6] and the amount of each relevant precepting authority’s share of any amount specified by regulation 7A for the relevant year; and
 - (d) notify the Secretary of State and any relevant precepting authorities of the amounts calculated.
 
-(1A)[^key-054de6ba7b4761fd1ed9c5ee9b567c0b] In relation to a relevant year beginning on or after 1st April 2026, a billing authority must—
+(1A)[^c-054de6ba7b4761fd1ed9c5ee9b567c0b] In relation to a relevant year beginning on or after 1st April 2026, a billing authority must—
 
 - (a) make the calculations under paragraph (1)(a), (b) and (bc);
 - (b) calculate the amount (if any) specified by regulation 7(2), 7B(2) and 7B(2A) for the relevant year.
@@ -309,11 +309,11 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 
 (4) The amount specified by paragraph 1 of Schedule 1 to these Regulations and calculated and certified in accordance with this regulation is the authority's certified non-domestic rating income for the relevant year.
 
-(5)[^key-b05380aa2382e83cccf113b4d64cd50a] Paragraph (1) applies in relation to calculations for a relevant year beginning on 1st April 2019 or 1st April 2021 as if for “30 September” there were substituted “30 November”[^key-267863b96dff33b6bc1191be48fa052a].
+(5)[^c-b05380aa2382e83cccf113b4d64cd50a] Paragraph (1) applies in relation to calculations for a relevant year beginning on 1st April 2019 or 1st April 2021 as if for “30 September” there were substituted “30 November”[^c-267863b96dff33b6bc1191be48fa052a].
 
-(6)[^key-ee039ecbab3a2fc243a3cf5befcf1f09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ee039ecbab3a2fc243a3cf5befcf1f09] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-74594c6871a53a11c742bb9271459514] Subject to paragraph (8), paragraph (1) applies in relation to calculations for the relevant years listed in the first column of the following table as if for “30 September in the year following the relevant year” there were substituted the words in the second column—
+(7)[^c-74594c6871a53a11c742bb9271459514] Subject to paragraph (8), paragraph (1) applies in relation to calculations for the relevant years listed in the first column of the following table as if for “30 September in the year following the relevant year” there were substituted the words in the second column—
 
 | Relevant year beginning in— | Date |
 | --- | --- |
@@ -330,7 +330,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 
 (9) In this regulation, “accountability statements” and “last publication date” have the meanings given in regulation 9A of the Accounts and Audit Regulations 2015.
 
-### 9A. Special provision for end of year calculations for relevant year beginning on 1st April 2015[^key-1d8242f47916c5b770449331f75642c8]
+### 9A. Special provision for end of year calculations for relevant year beginning on 1st April 2015[^c-1d8242f47916c5b770449331f75642c8]
 
 (1) This regulation applies in relation to the relevant year beginning on 1st April 2015 to a billing authority to which Schedule 2A or 2B applies.
 
@@ -346,7 +346,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 
 (4) The person certifying the calculations and amounts must send the certification to the Secretary of State and notify the billing authority of the amounts so certified.
 
-### 9B. Special provision for end of year calculations for relevant year beginning on 1st April 2016[^key-76e5a69565c469bae780c55df637e625]
+### 9B. Special provision for end of year calculations for relevant year beginning on 1st April 2016[^c-76e5a69565c469bae780c55df637e625]
 
 (1) This regulation applies in relation to the relevant year beginning on 1st April 2016 to a billing authority to which Schedule 2C applies.
 
@@ -359,7 +359,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 
 (4) The person certifying the calculation and amount must send the certification to the Secretary of State and notify the billing authority of the amount so certified.
 
-### 10. Reconciliation of disregarded amounts[^key-3e7a5c1eb2aadc5d42c186effe7daa27]
+### 10. Reconciliation of disregarded amounts[^c-3e7a5c1eb2aadc5d42c186effe7daa27]
 
 (1) Where the amount included in the calculation of the certified non-domestic rating income as an amount to be disregarded in accordance with regulations made under paragraph 39 or 40 of Schedule 7B to the 1988 Act is different to the amount estimated for the purposes of regulation 3 (“the estimated amount”) paragraphs (2) to (4) apply.
 
@@ -377,7 +377,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
   - (i) the billing authority must pay an amount equal to the relevant precepting authority’s percentage share of the difference to each relevant precepting authority; and
   - (ii) the billing authority must transfer an amount equal to its percentage share of the difference from its collection fund to its general fund.
 
-(3A)[^key-13ca6c05508fd576b0afebfccceaee7d] Where the difference relates to a hereditament situated within the area designated by Schedule 1 to the Non-Domestic Rating (Designated Area) Regulations 2021—
+(3A)[^c-13ca6c05508fd576b0afebfccceaee7d] Where the difference relates to a hereditament situated within the area designated by Schedule 1 to the Non-Domestic Rating (Designated Area) Regulations 2021—
 
 - (a) if the certified amount is less than the estimated amount—
   - (i) the Tees Valley Combined Authority must pay an amount equal to 50% of the difference to Redcar and Cleveland Borough Council; and
@@ -404,7 +404,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 - (g) 20% where the relevant precepting authority is the Greater London Authority; and
 - (h) 1% where the relevant precepting authority is a fire and rescue authority not falling within sub-paragraph (e).
 
-### 10A. Reconciliation of grant payment amounts[^key-571196936905546fb44c0822e0fa6ebc]
+### 10A. Reconciliation of grant payment amounts[^c-571196936905546fb44c0822e0fa6ebc]
 
 (1) This regulation applies in relation to a relevant year beginning on or after 1st April 2026.
 
@@ -432,11 +432,11 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 - (a) if the certified amount is less than the estimated amount the billing authority must transfer an amount equal to the difference from its general fund to its collection fund;
 - (b) if the certified amount is more than the estimated amount the billing authority must transfer an amount equal to the difference from its collection fund to its general fund.
 
-### 11. Reconciliation of amount deducted from central share payment[^key-6c505bc1174f58427cfd8b315ab07afa]
+### 11. Reconciliation of amount deducted from central share payment[^c-6c505bc1174f58427cfd8b315ab07afa]
 
-(A1)[^key-3a9abb0d06bc17c38e1a0fd83c8be75f] This regulation applies in relation to a relevant year if a billing authority deducts an amount under regulation 4(1) from its central share payment for that year.
+(A1)[^c-3a9abb0d06bc17c38e1a0fd83c8be75f] This regulation applies in relation to a relevant year if a billing authority deducts an amount under regulation 4(1) from its central share payment for that year.
 
-(1) Where the amount certified under regulation 9 as the amount specified by paragraph 2 of Schedule 2 for a relevant year is different from the amount deducted under regulation 4(1)(a) from the central share payment for that year[^key-274ddde178c6f286cce3799f7d420f51]—
+(1) Where the amount certified under regulation 9 as the amount specified by paragraph 2 of Schedule 2 for a relevant year is different from the amount deducted under regulation 4(1)(a) from the central share payment for that year[^c-274ddde178c6f286cce3799f7d420f51]—
 
 - (a) if the certified amount is less than the deducted amount, the billing authority must—
   - (i) pay an amount equal to the difference to the Secretary of State; and
@@ -445,7 +445,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
   - (i) the Secretary of State must pay an amount equal to the difference to the billing authority; and
   - (ii) the billing authority must transfer an amount equal to the difference from its collection fund to its general fund.
 
-(2) Where the amount certified under regulation 9 as the amount specified by paragraph 3 of Schedule 2 for a relevant year is different from the amount deducted under regulation 4(1)(b) from the central share payment for that year[^key-b39dc98bf369db9b9472333a34e9ad40]—
+(2) Where the amount certified under regulation 9 as the amount specified by paragraph 3 of Schedule 2 for a relevant year is different from the amount deducted under regulation 4(1)(b) from the central share payment for that year[^c-b39dc98bf369db9b9472333a34e9ad40]—
 
 - (a) if the certified amount is less than the deducted amount—
   - (i) the billing authority must pay an amount equal to the difference to the Secretary of State;
@@ -456,7 +456,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
   - (ii) the billing authority must pay an amount equal to the relevant precepting authority’s percentage share of the difference to each relevant precepting authority; and
   - (iii) the billing authority must transfer an amount equal to its percentage share of the difference from its collection fund to its general fund.
 
-(2A)[^key-7c6d0c29f394454e77a4a5c7b706c84f] For the relevant year beginning on 1st April 2017[^key-3c178bb699b7f270a876c58eb6475667], where the amount certified under regulation 9 as the amount specified by paragraph 2(1) of Schedule 2A for that year is different from the amount deducted under regulation 4(1)(c)[^key-2731e020fdd67a82c01d9a2b718dd6cf] from the central share payment for that year—
+(2A)[^c-7c6d0c29f394454e77a4a5c7b706c84f] For the relevant year beginning on 1st April 2017[^c-3c178bb699b7f270a876c58eb6475667], where the amount certified under regulation 9 as the amount specified by paragraph 2(1) of Schedule 2A for that year is different from the amount deducted under regulation 4(1)(c)[^c-2731e020fdd67a82c01d9a2b718dd6cf] from the central share payment for that year—
 
 - (a) if the certified amount is less than the deducted amount—
   - (i) the billing authority must pay to the Secretary of State an amount equal to the difference; and
@@ -465,7 +465,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
   - (i) the Secretary of State must pay to the billing authority an amount equal to the difference; and
   - (ii) the billing authority must transfer from its collection fund to its general fund an amount equal to the difference.
 
-(2B) For a relevant year beginning on or after 1st April 2017, where the amount certified under regulation 9 as the amount specified by paragraph 2 of Schedule 2B for that year is different from the amount deducted under regulation 4(1)(d)[^key-40065262608a1373cf10dc942f403c92] from the central share payment for that year—
+(2B) For a relevant year beginning on or after 1st April 2017, where the amount certified under regulation 9 as the amount specified by paragraph 2 of Schedule 2B for that year is different from the amount deducted under regulation 4(1)(d)[^c-40065262608a1373cf10dc942f403c92] from the central share payment for that year—
 
 - (a) if the certified amount is less than the deducted amount—
   - (i) the billing authority must pay to the Secretary of State an amount equal to the difference; and
@@ -474,7 +474,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
   - (i) the Secretary of State must pay to the billing authority an amount equal to the difference; and
   - (ii) the billing authority must transfer from its collection fund to its general fund an amount equal to the difference.
 
-(2C)[^key-5a8c098b9fa46dbd36c37711b6e10687] For a relevant year beginning on or after 1st April 2018, where the amount certified under regulation 9 as the amount specified by paragraph 2(1) of Schedule 2C for that year is different from the amount deducted under regulation 4(1)(e) from the central share payment for that year—
+(2C)[^c-5a8c098b9fa46dbd36c37711b6e10687] For a relevant year beginning on or after 1st April 2018, where the amount certified under regulation 9 as the amount specified by paragraph 2(1) of Schedule 2C for that year is different from the amount deducted under regulation 4(1)(e) from the central share payment for that year—
 
 - (a) if the certified amount is less than the deducted amount—
   - (i) the billing authority must pay to the Secretary of State an amount equal to the difference; and
@@ -483,7 +483,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
   - (i) the Secretary of State must pay to the billing authority an amount equal to the difference; and
   - (ii) the billing authority must transfer from its collection fund to its general fund an amount equal to the difference.
 
-(3) Unless[^key-662ac4c4d15e0caf41fb2d7020e0672f] paragraph (4), (5) or (6)[^key-fa14a203b42d40927de7a81f24b6956b] applies, for the purposes of this regulation, the percentage shares are—
+(3) Unless[^c-662ac4c4d15e0caf41fb2d7020e0672f] paragraph (4), (5) or (6)[^c-fa14a203b42d40927de7a81f24b6956b] applies, for the purposes of this regulation, the percentage shares are—
 
 - (a) 100% where the billing authority is—
   - (i) a county council, or a district council in an area for which there is no county council, and the authority is a fire and rescue authority; or
@@ -496,12 +496,12 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 - (g) 40% where the relevant precepting authority is the Greater London Authority; and
 - (h) 2% where the relevant precepting authority is a fire and rescue authority not falling within sub-paragraph (e).
 
-(4)[^key-2910b159986d2e12d2e43d9232e4b5b7] In relation to the relevant year commencing on[^key-de4f17bf67154608fb3108fdeadd52b7] 1st April 2017, the percentage shares are—
+(4)[^c-2910b159986d2e12d2e43d9232e4b5b7] In relation to the relevant year commencing on[^c-de4f17bf67154608fb3108fdeadd52b7] 1st April 2017, the percentage shares are—
 
 - (a) 44.8% where the billing authority is listed in Part 1 of Schedule 5; and
 - (b) 55.2% where the relevant precepting authority is the Greater London Authority.
 
-(5)[^key-1f3fed1a46a8c300a86ee4e3bf2ba42c] For the relevant year commencing on 1st April 2018, the percentage shares are—
+(5)[^c-1f3fed1a46a8c300a86ee4e3bf2ba42c] For the relevant year commencing on 1st April 2018, the percentage shares are—
 
 - (a) 64% where the billing authority is listed in Part 1 of Schedule 5; and
 - (b) 36% where the relevant precepting authority is the Greater London Authority.
@@ -547,7 +547,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 - (z11) 1⅓% where the relevant precepting authority is Tyne and Wear Fire and Rescue Authority and the billing authority is listed in Part 33 of Schedule 5; and
 - (z12) 1⅓% where the relevant precepting authority is West Yorkshire Fire and Rescue Authority.
 
-### 11A. Special provision for end of year payments in respect of relevant year beginning on 1st April 2015[^key-88e1f0700ef519a37f27524374043745]
+### 11A. Special provision for end of year payments in respect of relevant year beginning on 1st April 2015[^c-88e1f0700ef519a37f27524374043745]
 
 (1) This regulation applies in relation to the relevant year beginning on 1st April 2015 to a billing authority to which Schedule 2A or 2B applies.
 
@@ -565,7 +565,7 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 
 ### 11B. Special provision for end of year payments in respect of relevant year beginning on 1st April 2016
 
-(1) This regulation applies in relation to the relevant year beginning on 1st April 2016 to a billing authority to which Schedule 2A, 2B or 2C[^key-7d35ea1548536ce81109fba45c6dee40] applies.
+(1) This regulation applies in relation to the relevant year beginning on 1st April 2016 to a billing authority to which Schedule 2A, 2B or 2C[^c-7d35ea1548536ce81109fba45c6dee40] applies.
 
 (2) Where an amount is certified under regulation 9 as the amount specified by paragraph 2(1) of Schedule 2A for that year (“the certified amount”)—
 
@@ -577,14 +577,14 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 - (a) the Secretary of State must pay to the billing authority an amount equal to the certified amount; and
 - (b) the billing authority must transfer from its collection fund to its general fund an amount equal to the certified amount.
 
-(3A)[^key-d613ce63c5a93b3d83a5ac3ef4915b54] Where an amount is certified under regulation 9B as the amount specified by paragraph 2(1) of Schedule 2C for that year (“the certified amount”)—
+(3A)[^c-d613ce63c5a93b3d83a5ac3ef4915b54] Where an amount is certified under regulation 9B as the amount specified by paragraph 2(1) of Schedule 2C for that year (“the certified amount”)—
 
 - (a) the Secretary of State must pay to the billing authority an amount equal to the certified amount;
 - (b) the billing authority must transfer from its collection fund to its general fund an amount equal to the certified amount.
 
 (4) An amount paid to an authority under this regulation is to be recognised by that authority in accordance with proper practices in a revenue account for that year.
 
-### 11C. Special provision for end of year payments in respect of relevant year beginning on 1st April 2017[^key-62e9a4655114b4db62c1f41cf8bb2657]
+### 11C. Special provision for end of year payments in respect of relevant year beginning on 1st April 2017[^c-62e9a4655114b4db62c1f41cf8bb2657]
 
 (1) This regulation applies in relation to the relevant year beginning on 1st April 2017 to a billing authority to which Schedule 2C applies.
 
@@ -597,9 +597,9 @@ These Regulations may be cited as the Non-Domestic Rating (Rates Retention) Regu
 
 ### 12. Reconciliation of amounts where authority has failed to act diligently
 
-Where an amount included in a calculation under regulation 9(1) or (1A)[^key-0587e222e61ba8561d6166fa5eb2a157] as a bad debt which should be written off or a doubtful debt for which provision should be made is disallowed on certification under regulation 9(2) on the grounds that the billing authority has failed to act diligently in relation to the collection of non-domestic rates, the authority must transfer such an amount as is disallowed from its general fund to its collection fund.
+Where an amount included in a calculation under regulation 9(1) or (1A)[^c-0587e222e61ba8561d6166fa5eb2a157] as a bad debt which should be written off or a doubtful debt for which provision should be made is disallowed on certification under regulation 9(2) on the grounds that the billing authority has failed to act diligently in relation to the collection of non-domestic rates, the authority must transfer such an amount as is disallowed from its general fund to its collection fund.
 
-### 12A. Reconciliation of MDC payments[^key-16cd41d8876decfad67c5735ca00c054]
+### 12A. Reconciliation of MDC payments[^c-16cd41d8876decfad67c5735ca00c054]
 
 (1) This regulation applies to an authority in relation to which there is a deficit or a surplus.
 
@@ -625,7 +625,7 @@ Where an amount included in a calculation under regulation 9(1) or (1A)[^key-058
 - (a) whether there is a surplus or deficit with respect to non-domestic rates in its collection fund for the preceding year; and
 - (b) if so, the amount of the surplus or deficit.
 
-(2) Subject to Schedule 4B,[^key-920720a55c78bf9c4da61d811b250dbf] any surplus or deficit estimated by an authority under paragraph (1) shall belong to or be borne by that authority, the Secretary of State and any relevant precepting authorities in accordance with the shares set out in paragraph 2 of Schedule 4.
+(2) Subject to Schedule 4B,[^c-920720a55c78bf9c4da61d811b250dbf] any surplus or deficit estimated by an authority under paragraph (1) shall belong to or be borne by that authority, the Secretary of State and any relevant precepting authorities in accordance with the shares set out in paragraph 2 of Schedule 4.
 
 ### 14. Payments and transfers with respect to surplus and deficit
 
@@ -639,14 +639,14 @@ Where an amount included in a calculation under regulation 9(1) or (1A)[^key-058
 
 ### 15. Schedule of instalments
 
-(1) Where a payment under these Regulations is to be paid according to the schedule of instalments , subject to[^key-d9719f28aa37cfe314d0d61959a39708] paragraphs (7) and (9),[^key-faacdd5e4c8ac741718b06a761427f35] it is to be paid in 12[^key-03f51071da3a6a97fd7fd9459bdc6f0f] instalments such that—
+(1) Where a payment under these Regulations is to be paid according to the schedule of instalments , subject to[^c-d9719f28aa37cfe314d0d61959a39708] paragraphs (7) and (9),[^c-faacdd5e4c8ac741718b06a761427f35] it is to be paid in 12[^c-03f51071da3a6a97fd7fd9459bdc6f0f] instalments such that—
 
 - (a) the first instalment is payable on 30th April; and
-- (b) the subsequent instalments are payable on the 19th day of each of the following 11[^key-50a7785654f95efed395a436026b82b8] months starting in May.
+- (b) the subsequent instalments are payable on the 19th day of each of the following 11[^c-50a7785654f95efed395a436026b82b8] months starting in May.
 
 (2) Where an instalment falls to be paid on a Friday or a day that is not a working day, it shall instead be payable on the first working day that is not a Friday following that day.
 
-(3)[^key-e520ce241c3294dcc1389a7ca2ad9e32] Subject to paragraph (8),[^key-4026b0fb4945447ba7c3237505b29636] the first four instalments are each to be of 9% of the amount payable and each other instalment is to be 8% of the amount payable.
+(3)[^c-e520ce241c3294dcc1389a7ca2ad9e32] Subject to paragraph (8),[^c-4026b0fb4945447ba7c3237505b29636] the first four instalments are each to be of 9% of the amount payable and each other instalment is to be 8% of the amount payable.
 
 (4) A billing authority and a major precepting authority may by agreement vary the schedule of instalments with regard to payments between them.
 
@@ -654,7 +654,7 @@ Where an amount included in a calculation under regulation 9(1) or (1A)[^key-058
 
 (6) For the purpose of this regulation “**working day**” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England under the Banking and Financial Dealings Act 1971 [^c21673191].
 
-(7)[^key-f7881d28312e0840dc7ac1f5c1756c63] A central share payment in relation to the relevant year beginning on 1st April 2020 is to be paid in 9 instalments, such that—
+(7)[^c-f7881d28312e0840dc7ac1f5c1756c63] A central share payment in relation to the relevant year beginning on 1st April 2020 is to be paid in 9 instalments, such that—
 
 - (a) the first instalment is payable on 19th July 2020; and
 - (b) the subsequent instalments are payable on the 19th day of each of the following 8 months.
@@ -665,7 +665,7 @@ Where an amount included in a calculation under regulation 9(1) or (1A)[^key-058
 - (b) the second and third instalments are each to be of 8% of the amount payable; and
 - (c) the final six instalments are each to be of 12.5% of the amount payable.
 
-(9)[^key-2f5a2733881168b1c4cd0e2137653941] Where a relevant precepting authority is required to make a payment to a billing authority under regulation 14(2) in relation to the relevant year beginning on 1st April 2021, such a payment is to be paid in instalments in accordance with paragraphs (10) to (12).
+(9)[^c-2f5a2733881168b1c4cd0e2137653941] Where a relevant precepting authority is required to make a payment to a billing authority under regulation 14(2) in relation to the relevant year beginning on 1st April 2021, such a payment is to be paid in instalments in accordance with paragraphs (10) to (12).
 
 (10) An instalment equal to the additional reliefs amount calculated in accordance with paragraph (11) is payable on 21st March 2022.
 
@@ -740,7 +740,7 @@ Regulation 3
 
 (1) Subject to sub-paragraph (2) the amount specified in this paragraph is the amount calculated in accordance with the formula—
 
-[formula: see source](https://www.legislation.gov.uk/uksi/2013/452)[^key-9d219933029cf9c0d9b020733a362960]
+[formula: see source](https://www.legislation.gov.uk/uksi/2013/452)[^c-9d219933029cf9c0d9b020733a362960]
 
 Where—
 
@@ -752,11 +752,11 @@ C is the amount of any transitional protection payments under paragraph 33(1) of
 
 D is the amount of any transitional protection payments under paragraph 33(1) of Schedule 7B to the 1988 Act made by the billing authority in the year;
 
-E is the billing authority's allowance for costs of collection and recovery for the year, calculated in accordance with paragraph 2; [^key-35810af1e10a4b2b6865b8b5b1f705ec]...
+E is the billing authority's allowance for costs of collection and recovery for the year, calculated in accordance with paragraph 2; [^c-35810af1e10a4b2b6865b8b5b1f705ec]...
 
 F is the total of amounts calculated in accordance with regulations made under paragraph 39 or 40 of Schedule 7B to the 1988 Act in respect of the billing authority as an amount to be disregarded for the purpose of a calculation of non-domestic rating income for the year.
 
-“[^key-f8ff35d1e78f9c72db12eaa482ef64f2]**G**” is—
+“[^c-f8ff35d1e78f9c72db12eaa482ef64f2]**G**” is—
 
 - (a) for a relevant year commencing on or after 1st April 2026, the amount calculated in accordance with sub-paragraph (1A);
 - (b) for any other relevant year, zero; and
@@ -766,20 +766,20 @@ F is the total of amounts calculated in accordance with regulations made under p
 - (a) for a relevant year commencing on or after 1st April 2026, the amount calculated in accordance with sub-paragraph (1B);
 - (b) for any other relevant year, zero.
 
-(1A)[^key-02cf9711558b69614230d83882ec46ce] The amount calculated in accordance with this paragraph is the total amount of any section 31 grants paid to the authority for the year towards expenditure incurred or to be incurred by the authority in relation to the retention, payment, transfer and reconciliation of the non-domestic rates payable to the authority under sections 43 and 45 of the 1988 Act.
+(1A)[^c-02cf9711558b69614230d83882ec46ce] The amount calculated in accordance with this paragraph is the total amount of any section 31 grants paid to the authority for the year towards expenditure incurred or to be incurred by the authority in relation to the retention, payment, transfer and reconciliation of the non-domestic rates payable to the authority under sections 43 and 45 of the 1988 Act.
 
 (1B) The amount calculated in accordance with this paragraph is the total amount of any section 31 grants paid to the authority for the year (included in the amount calculated under sub-paragraph (1A)) in relation to—
 
 - (a) areas designated under paragraph 39 of Schedule 7B to the 1988 Act; and
 - (b) Port of Bristol hereditaments satisfying the definition in paragraph 1(2) of Schedule 2B to these Regulations.
 
-(2) For a relevant year falling within the period beginning with 1st April 2013 and ending with 31st March 2027, where the authority is a special authority[^key-3dd99efe2f0e89f3b7388951052f9e2b] the amount specified by this paragraph shall be the amount calculated in accordance with sub-paragraph (1)—
+(2) For a relevant year falling within the period beginning with 1st April 2013 and ending with 31st March 2027, where the authority is a special authority[^c-3dd99efe2f0e89f3b7388951052f9e2b] the amount specified by this paragraph shall be the amount calculated in accordance with sub-paragraph (1)—
 
-- (a) as if the authority's non-domestic rating multipliers for a year were equal to the non-domestic rating multipliers for that year determined in accordance with Part A1[^key-6be4544f620a7be452a9cce6813500ec] of Schedule 7 to the 1988 Act; less
-- (b)[^key-68a4181d8fa588b6f9bb536e6180e52a] X, where the value of X—
+- (a) as if the authority's non-domestic rating multipliers for a year were equal to the non-domestic rating multipliers for that year determined in accordance with Part A1[^c-6be4544f620a7be452a9cce6813500ec] of Schedule 7 to the 1988 Act; less
+- (b)[^c-68a4181d8fa588b6f9bb536e6180e52a] X, where the value of X—
   - (i) for the financial year beginning on 1st April 2013 is £10,538,000;
   - (ii) for the financial year beginning on 1st April 2023 is £12,515,000;
-  - (iia)[^key-09e5a6bf112a2ac8fc7615ce4dc8a0fc] for a financial year beginning on 1st April 2024 or 1st April 2025[^key-2823835b89ef17bc0dd42a07ea3b334a] is determined by the formula—
+  - (iia)[^c-09e5a6bf112a2ac8fc7615ce4dc8a0fc] for a financial year beginning on 1st April 2024 or 1st April 2025[^c-2823835b89ef17bc0dd42a07ea3b334a] is determined by the formula—
 
     [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
@@ -794,7 +794,7 @@ F is the total of amounts calculated in accordance with regulations made under p
     - C1 is the non-domestic rating multiplier for the preceding year;
     - D is the sum of the total rateable value of all small business hereditaments shown in the authority’s list on 1st April 2023;
     - E is the sum of the total rateable value of standard hereditaments shown in the authority’s list on 1st April 2023;
-  - (iib)[^key-455552f0e56ff59a4a84d66fecb2f54b] for the financial year beginning on 1st April 2026 is £14,009,000;
+  - (iib)[^c-455552f0e56ff59a4a84d66fecb2f54b] for the financial year beginning on 1st April 2026 is £14,009,000;
   - (iii) for any other year is determined by the formula—
 
     [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
@@ -831,7 +831,7 @@ N is the total amount of the legal costs of the billing authority referred to in
 
 (2) For the purposes of sub-paragraph (1), where the year to which the relevant calculation relates is a year in which local non-domestic rating lists are compiled under section 41(1) of the 1988 Act, the hereditaments shown in an authority's local non-domestic rating list, and the rateable value of those hereditaments, shall be taken to be the hereditaments, and the rateable values, shown in the list which the valuation officer for the authority proposes to compile in that year and which has been sent to the authority under section 41(5) of the 1988 Act.
 
-(3)[^key-ac74221aa9bbe8d008fb4847702950db] The cost factor for a billing authority is—
+(3)[^c-ac74221aa9bbe8d008fb4847702950db] The cost factor for a billing authority is—
 
 - (a) for a relevant year ending on or before 31st March 2026, the cost factor shown for that authority in Part 2 of this Schedule;
 - (b) for a relevant year beginning on or after 1st April 2026 the cost factor shown for that authority in Part 3 of this Schedule.
@@ -855,7 +855,7 @@ N is the total amount of the legal costs of the billing authority referred to in
 
 | *Area* | *Name or description of authority* | *Cost factor* |
 | --- | --- | --- |
-|  | The Council of the Isles of Scilly[^key-7b13da3da520541be0fac7450fa8a69b] | 1.5000 |
+|  | The Council of the Isles of Scilly[^c-7b13da3da520541be0fac7450fa8a69b] | 1.5000 |
 |  | The Common Council of the City of London | 1.4059 |
 | Inner London | The councils of the boroughs of Camden, Greenwich, Hackney, Hammersmith and Fulham, Islington, Kensington and Chelsea, Lambeth, Lewisham, Southwark, Tower Hamlets, Wandsworth and Westminster | 1.2208 |
 | West outer London | The councils of the boroughs of Barnet, Brent, Ealing, Harrow, Hillingdon, Hounslow, Kingston upon Thames, Merton, Richmond upon Thames and Sutton | 1.1113 |
@@ -864,7 +864,7 @@ N is the total amount of the legal costs of the billing authority referred to in
 | Bedfordshire & Hertfordshire non-fringe | The councils of the boroughs of Bedford, Central Bedfordshire, Luton, North Hertfordshire and Stevenage | 1.0393 |
 | Berkshire non-fringe | The councils of the districts of Reading, West Berkshire and Wokingham | 1.0806 |
 | Berkshire, Surrey & West Sussex fringe | The councils of the districts of Bracknell Forest, Crawley, Elmbridge, Epsom and Ewell, Guildford, Mole Valley, Reigate and Banstead, Runneymede, Slough, Spelthorne, Surrey Heath, Tandridge, Waverley, Windsor and Maidenhead and Woking | 1.1039 |
-| Buckinghamshire[^key-1f3ea0dd9bca50caa33b33ecd6eb189a] | Buckinghamshire Council | 1.0719 |
+| Buckinghamshire[^c-1f3ea0dd9bca50caa33b33ecd6eb189a] | Buckinghamshire Council | 1.0719 |
 | Cambridgeshire | The councils of the districts of Cambridge, East Cambridgeshire, Fenland, Huntingdonshire, Peterborough and South Cambridgeshire | 1.0339 |
 | Cheshire | The councils of the districts of Cheshire East, Cheshire West and Chester, Halton and Warrington | 1.0130 |
 | East Sussex | The councils of the districts of Brighton and Hove, Eastbourne, Hastings, Lewes, Rother and Wealden | 1.0090 |
@@ -872,11 +872,11 @@ N is the total amount of the legal costs of the billing authority referred to in
 | Gloucestershire | The councils of the districts of Cheltenham, Cotswold, Forest of Dean, Gloucester, Stroud and Tewkesbury | 1.0197 |
 | Greater Manchester | The councils of the metropolitan districts of Bolton, Bury, Manchester, Oldham, Rochdale, Salford Stockport, Tameside, Trafford and Wigan | 1.0169 |
 | Hampshire & Isle of Wight | The councils of the districts of Basingstoke and Deane, East Hampshire, Eastleigh, Fareham, Gosport, Hart, Havant, New Forest, Portsmouth, Rushmoor, Southampton, Test Valley and Winchester and Isle of Wight Council | 1.0360 |
-| Hertfordshire fringe[^key-46faf3f82d984900dae0350a06f3810a] | The councils of the districts of Broxbourne, Dacorum, East Hertfordshire, Hertsmere, St Albans, Three Rivers, Watford and Welwyn Hatfield | 1.0816 |
+| Hertfordshire fringe[^c-46faf3f82d984900dae0350a06f3810a] | The councils of the districts of Broxbourne, Dacorum, East Hertfordshire, Hertsmere, St Albans, Three Rivers, Watford and Welwyn Hatfield | 1.0816 |
 | Kent & Essex fringe | The councils of the districts of Basildon, Brentwood, Dartford, Epping Forest, Harlow, Sevenoaks and Thurrock | 1.0618 |
 | Kent non-fringe | The councils of the districts of Ashford, Canterbury, Dover, Gravesham, Maidstone, Medway, Shepway, Swale, Thanet, Tonbridge and Malling and Tunbridge Wells | 1.0068 |
 | Merseyside | The councils of the metropolitan districts of Knowsely, Liverpool, Sefton, St Helens and Wirral | 1.0075 |
-| Milton Keynes[^key-ba28e28446a81bc586c1a0459236d4ad] | The council of the district of Milton Keynes | 1.0675 |
+| Milton Keynes[^c-ba28e28446a81bc586c1a0459236d4ad] | The council of the district of Milton Keynes | 1.0675 |
 | Northamptonshire | The councils of the districts of Corby, Daventry, East Northamptonshire, Kettering, Northampton, South Northamptonshire and Wellingborough | 1.0132 |
 | Nottinghamshire | The councils of the districts of Ashfield, Bassetlaw, Broxtowe, Gedling, Mansfield, Newark and Sherwood, Nottingham and Rushcliffe | 1.0121 |
 | Oxfordshire | The councils of the districts of Cherwell, Oxford, South Oxfordshire Vale of White Horse and West Oxfordshire | 1.0534 |
@@ -887,7 +887,7 @@ N is the total amount of the legal costs of the billing authority referred to in
 | Wiltshire | The councils of the district of Swindon and the County of Wiltshire | 1.0216 |
 | Other authorities | A billing authority not named or not falling within a description given above | 1.0000 |
 
-### Part 3 — Cost Factors: Relevant Years beginning on or after 1st April 2026[^key-dab727197565ffc8c774dbd4834c9651]
+### Part 3 — Cost Factors: Relevant Years beginning on or after 1st April 2026[^c-dab727197565ffc8c774dbd4834c9651]
 
 | Billing authority | Cost factor |
 | --- | --- |
@@ -1199,12 +1199,12 @@ Regulation 4(1)
 - “**case A hereditament**” means a hereditament which is situated in both a blue area and a red area and meets the conditions in sub-paragraph (2);
 - “**case B hereditament**” means a hereditament which is situated in a red area only and meets the conditions in sub-paragraph (2);
 - “**blue area**” means an area designated by regulations made under paragraph 39 of Schedule 7B to the 1988 Act;
-- “**red area**” means an area bounded externally by the outer edge of a red line on one of the maps numbered 1 to 86[^key-f4e2ba59a0cd035bd39d639b7a7fcf58] *(Extent: E)* *(affected by repeal, see note)*[^key-246288ee3d9803aad0dab839f9cdfed7] maps numbered 1 to 29, 31 to 46 and 48 to *(Extent: E)* 247[^key-92db524fba9f57930dd650e4275acaf5] *(Extent: E)* and entitled “Maps referred to in the Non-Domestic Rating (Rates Retention) Regulations 2013” of which prints, signed by a member of the Senior Civil Service in the Department for Communities and Local Government, are deposited and available for inspection at the offices of the Secretary of State and, in relation to each map, the billing authority concerned.
+- “**red area**” means an area bounded externally by the outer edge of a red line on one of the maps numbered 1 to 86[^c-f4e2ba59a0cd035bd39d639b7a7fcf58] *(Extent: E)* *(affected by repeal, see note)*[^c-246288ee3d9803aad0dab839f9cdfed7] maps numbered 1 to 29, 31 to 46 and 48 to *(Extent: E)* 247[^c-92db524fba9f57930dd650e4275acaf5] *(Extent: E)* and entitled “Maps referred to in the Non-Domestic Rating (Rates Retention) Regulations 2013” of which prints, signed by a member of the Senior Civil Service in the Department for Communities and Local Government, are deposited and available for inspection at the offices of the Secretary of State and, in relation to each map, the billing authority concerned.
 
 (2) The conditions are that—
 
 - (a) a determination under section 47(1)(a) of the 1988 Act has had effect in respect of the ratepayer in relation to the hereditament for 5 years or less, disregarding any period before 1st April 2012; and
-- (b)[^key-0f084479511616ace56a3085b3e0fd1e] the ratepayer in respect of the hereditament became the ratepayer on or before—
+- (b)[^c-0f084479511616ace56a3085b3e0fd1e] the ratepayer in respect of the hereditament became the ratepayer on or before—
   - (i) 31st March 2018 in the case of a hereditament situated in an area designated by regulation 3 of the Non-Domestic Rating (Designated Areas) Regulations 2013;
   - (ii) 31st March 2019 in the case of a hereditament situated in an area designated by regulation 3 of the Non-Domestic Rating (Designated Areas) Regulations 2014;
   - (iii) 31st March 2020 in the case of a hereditament situated in the area designated by regulation 3(1) of the Non-Domestic Rating (Designated Area) Regulations 2015;
@@ -1218,7 +1218,7 @@ Regulation 4(1)
 (1) The amount specified by this paragraph is the amount which is the total of the difference between—
 
 - (a) the amount calculated for the year in accordance with sub-paragraph (2); and
-- (b) the amount that would have been calculated in accordance with sub-paragraph (2) had a determination under section 47(1)(a) of the 1988 Act as regards a case A hereditament not been made [^key-0a47f04491ef7edf3a6684b3d09119c4]....
+- (b) the amount that would have been calculated in accordance with sub-paragraph (2) had a determination under section 47(1)(a) of the 1988 Act as regards a case A hereditament not been made [^c-0a47f04491ef7edf3a6684b3d09119c4]....
 
 (2) The amount calculated in accordance with this sub-paragraph is the amount which is the total of—
 
@@ -1227,30 +1227,30 @@ Regulation 4(1)
 
 ### 3. Case B hereditament: calculation of qualifying relief
 
-(1) Unless sub-paragraph (1A) applies,[^key-b71b2ac0ba37d8878b33a4af5a16ed94] the amount specified by this paragraph is the amount that is 50 per cent of the difference between—
+(1) Unless sub-paragraph (1A) applies,[^c-b71b2ac0ba37d8878b33a4af5a16ed94] the amount specified by this paragraph is the amount that is 50 per cent of the difference between—
 
 - (a) the amount calculated for the year in accordance with sub-paragraph (2); and
-- (b) the amount that would have been calculated in accordance with sub-paragraph (2) had a determination under section 47(1)(a) of the 1988 Act as regards a case B hereditament not been made [^key-436445a3d9d430de63b8c91676318d33]....
+- (b) the amount that would have been calculated in accordance with sub-paragraph (2) had a determination under section 47(1)(a) of the 1988 Act as regards a case B hereditament not been made [^c-436445a3d9d430de63b8c91676318d33]....
 
-(1A)[^key-d9dc30b834a4325b19f965180607d4f3] For the relevant year beginning on 1st April 2019, for a billing authority listed in Parts 1, 7, 15, 16, 19, 20 or 23 to 39 of Schedule 5, the amount specified by this paragraph is the amount that is 75% of the difference between—
+(1A)[^c-d9dc30b834a4325b19f965180607d4f3] For the relevant year beginning on 1st April 2019, for a billing authority listed in Parts 1, 7, 15, 16, 19, 20 or 23 to 39 of Schedule 5, the amount specified by this paragraph is the amount that is 75% of the difference between—
 
 - (a) the amount calculated for that year in accordance with sub-paragraph (2); and
-- (b) the amount that would have been calculated in accordance with sub-paragraph (2) had a determination under section 47(1)(a) of the 1988 Act as regards a case B hereditament not been made [^key-ad202d2a124e992f37d851d9b3d67301]....
+- (b) the amount that would have been calculated in accordance with sub-paragraph (2) had a determination under section 47(1)(a) of the 1988 Act as regards a case B hereditament not been made [^c-ad202d2a124e992f37d851d9b3d67301]....
 
 (2) The amount calculated in accordance with this sub-paragraph is the amount which is the total of—
 
 - (a) amounts credited to the authority's collection fund income and expenditure account in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in respect of a case B hereditament; less
 - (b) amounts charged to the authority's collection fund income and expenditure account in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in respect of that hereditament.
 
-## SCHEDULE 2A — Special provision for deduction from the central share payment[^key-3a759e736644d7899e638bff303990d6]
+## SCHEDULE 2A — Special provision for deduction from the central share payment[^c-3a759e736644d7899e638bff303990d6]
 
 Regulations 4(1),9(1), 9A, 11(2A), 11A and 11B
 
 ### 1. Application and interpretation
 
-(1) Subject to sub-paragraph (1A), this[^key-7130c794882f1db4e3f8dc42cd4a6a34] Schedule applies to the billing authorities listed in column 1 of the table set out below in relation to relevant years beginning on 1st April 2015, 1st April 2016 and 1st April 2017[^key-4d3cb4631d809f79b4dde5fd9aee1520].
+(1) Subject to sub-paragraph (1A), this[^c-7130c794882f1db4e3f8dc42cd4a6a34] Schedule applies to the billing authorities listed in column 1 of the table set out below in relation to relevant years beginning on 1st April 2015, 1st April 2016 and 1st April 2017[^c-4d3cb4631d809f79b4dde5fd9aee1520].
 
-(1A)[^key-e7959e54deba83b657e8f44fe69d6dc1] This Schedule does not apply to a billing authority listed in Part 2 of Schedule 5 for a relevant year beginning on or after 1st April 2017.
+(1A)[^c-e7959e54deba83b657e8f44fe69d6dc1] This Schedule does not apply to a billing authority listed in Part 2 of Schedule 5 for a relevant year beginning on or after 1st April 2017.
 
 (2) In this Schedule—
 
@@ -1371,17 +1371,17 @@ where—
   - (a) for the year beginning on 1st April 2015, 0.4203
   - (b) for a year beginning on or after 1st April 2016, 0.51.
 
-## SCHEDULE 2C — Further special provision for deduction from the central share payment[^key-cb3b08af301fa040099e77e536db2f09]
+## SCHEDULE 2C — Further special provision for deduction from the central share payment[^c-cb3b08af301fa040099e77e536db2f09]
 
 Regulations 4(1), 9(1), 9B, 11(2C), 11B and 11C
 
 ### 1. Application and interpretation
 
-(1) Subject to sub-paragraphs (2) and (2A),[^key-8bee08a28c582ceff964ca243673dcb8] this Schedule applies to the billing authorities listed in column 1 of the table set out below in relation to a relevant year beginning on or after 1st April 2016.
+(1) Subject to sub-paragraphs (2) and (2A),[^c-8bee08a28c582ceff964ca243673dcb8] this Schedule applies to the billing authorities listed in column 1 of the table set out below in relation to a relevant year beginning on or after 1st April 2016.
 
 (2) This Schedule does not apply to a billing authority listed in Part 4 of Schedule 5 for a relevant year beginning on or after 1st April 2017.
 
-(2A)[^key-954f381fdd8a7751bd49b48f464571f5] This Schedule does not apply in relation to a relevant year beginning on or after 1st April 2021.
+(2A)[^c-954f381fdd8a7751bd49b48f464571f5] This Schedule does not apply in relation to a relevant year beginning on or after 1st April 2021.
 
 (3) In this Schedule—
 
@@ -1470,17 +1470,17 @@ P is the billing authority's non-domestic rating income for the year
 
 Q is —
 
-- unless[^key-42cec7a987ad4255603195c21afe4305][^key-4140a43b5bade8b0cf1e04b9970937f1] paragraph (e), (f) or (g)[^key-5135e07163b8876d0107b8cd6c571a61] applies, 50% where the billing authority is—
+- unless[^c-42cec7a987ad4255603195c21afe4305][^c-4140a43b5bade8b0cf1e04b9970937f1] paragraph (e), (f) or (g)[^c-5135e07163b8876d0107b8cd6c571a61] applies, 50% where the billing authority is—
   - a county council, or a district council in an area for which there is no county council, and the authority is a fire and rescue authority; or
   - the Council of the Isles of Scilly;
-- unless[^key-3b150b0fcf08faf385b218bec3056392] paragraph (e), (f) or (g) applies, 49% where the billing authority is a county council, or is a district council in an area for which there is no county council, and the authority is not a fire and rescue authority;
-- unless[^key-982dcfcc75bf90b4caad30959295e3a3] paragraph (e), (f) or (g) applies, 40% where the billing authority is a district council in an area for which there is a county council; and
-- unless[^key-6c7b2d6d2929de2c270f90a641f251db] paragraph (e), (f) or (g) applies, 30% where the billing authority is a London borough council or the Common Council of the City of London;
-- for a relevant year beginning on or after 1st April 2017—[^key-37a378f815193f2b51d6b0735342b2c5]
+- unless[^c-3b150b0fcf08faf385b218bec3056392] paragraph (e), (f) or (g) applies, 49% where the billing authority is a county council, or is a district council in an area for which there is no county council, and the authority is not a fire and rescue authority;
+- unless[^c-982dcfcc75bf90b4caad30959295e3a3] paragraph (e), (f) or (g) applies, 40% where the billing authority is a district council in an area for which there is a county council; and
+- unless[^c-6c7b2d6d2929de2c270f90a641f251db] paragraph (e), (f) or (g) applies, 30% where the billing authority is a London borough council or the Common Council of the City of London;
+- for a relevant year beginning on or after 1st April 2017—[^c-37a378f815193f2b51d6b0735342b2c5]
   - for a billing authority listed in Parts 2 to 4 of Schedule 5, 99%;
   - for a billing authority listed in Part 5 of Schedule 5, 94%;
   - for a billing authority listed in Part 6 of Schedule 5, 100%;
-- for the relevant year beginning on 1st April 2018—[^key-80c5c1635f048b1796b954f0b9b6e143]
+- for the relevant year beginning on 1st April 2018—[^c-80c5c1635f048b1796b954f0b9b6e143]
   - or a billing authority listed in Part 1 of Schedule 5, 64%;
   - for a billing authority listed in Parts 7, 9, 11, 14, 16, 18 and 19 of Schedule 5, 99%;
   - for a billing authority listed in Parts 8 and 12 of Schedule 5, 50%;
@@ -1489,7 +1489,7 @@ Q is —
   - for a billing authority listed in Part 20 of Schedule 5, 100%;
   - for a billing authority listed in Part 21 of Schedule 5, 80%; and
   - for a billing authority listed in Part 22 of Schedule 5, 30%;
-- for the relevant year beginning on 1st April 2019—[^key-e8406f3b05b30b48dae51acd81b24d3d]
+- for the relevant year beginning on 1st April 2019—[^c-e8406f3b05b30b48dae51acd81b24d3d]
   - for a billing authority listed in Part 1 of Schedule 5, 48%;
   - for a billing authority listed in Parts 7, 16, 19, 28, 33 or 36 of Schedule 5, 74%;
   - for a billing authority listed in Parts 15 or 32 of Schedule 5, 52.5%;
@@ -1508,23 +1508,23 @@ R is the billing authority's allowance for costs of collection and recovery for 
 
 S is the total of amounts calculated in accordance with regulations made under paragraph 39 or 40 of Schedule 7B to the 1988 Act in respect of the billing authority as an amount to be disregarded for the purpose of a calculation of non-domestic rating income for the year;
 
-T is the amount of any payments made to—[^key-d32bab5abb78e15a2ae3953edfb5a3c6]
+T is the amount of any payments made to—[^c-d32bab5abb78e15a2ae3953edfb5a3c6]
 
-- (a) a county council in accordance with regulation 7 (payments with respect to county matters); [^key-3a77b65dfc45ea0a939b07e9adc049fd]...
-- (b) a relevant precepting authority in accordance with regulation 7A (payments with respect to shale oil or gas hereditaments); , and[^key-6708bf6cfea9704182828b8135c9cd12]
+- (a) a county council in accordance with regulation 7 (payments with respect to county matters); [^c-3a77b65dfc45ea0a939b07e9adc049fd]...
+- (b) a relevant precepting authority in accordance with regulation 7A (payments with respect to shale oil or gas hereditaments); , and[^c-6708bf6cfea9704182828b8135c9cd12]
 - (c) the Tees Valley Combined Authority in accordance with regulation 7B (payments with respect to designated area);
 
-“[^key-cd9c1cdb19a09c0136c4864dbe4ed8c9]**U**” is—
+“[^c-cd9c1cdb19a09c0136c4864dbe4ed8c9]**U**” is—
 
 - (a) for a relevant year ending on or before 31st March 2026, the amount of a deduction from the central share payment made in accordance with regulation 4(1);
 - (b) for a relevant year beginning on or after 1st April 2026, zero;
 
-“[^key-db28c69a071f951f7da04ba9b3c914df]**V**” is—
+“[^c-db28c69a071f951f7da04ba9b3c914df]**V**” is—
 
 - (a) for a relevant year ending on or before 31st March 2026, the total of any amounts paid to major precepting authorities in accordance with regulation 6;
 - (b) for a relevant year beginning on or after 1st April 2026, zero;
 
-“[^key-088b2d14212daba4ed12dd13e4084f00]**W**” is—
+“[^c-088b2d14212daba4ed12dd13e4084f00]**W**” is—
 
 - (a) for a relevant year ending on or before 31st March 2026, zero;
 - (b) for a relevant year beginning on or after 1st April 2026, the amount calculated in accordance with the formula—
@@ -1551,30 +1551,30 @@ Regulation 13
 - (b) less than the amount referred to in sub-paragraph (4), there is a deficit, the amount of which is the difference;
 - (c) the same as the amount referred to in sub-paragraph (4), there is no surplus or deficit.
 
-(3) Subject to paragraph 1B,[^key-9e58649b311bc91b8c0d518509cea8bf] the amount referred to in this sub-paragraph is the total of—
+(3) Subject to paragraph 1B,[^c-9e58649b311bc91b8c0d518509cea8bf] the amount referred to in this sub-paragraph is the total of—
 
 - (a) the amount of any opening surplus with respect to non-domestic rating on the billing authority's collection fund income and expenditure account which was brought forward from the relevant prior year and was shown in the billing authority's accounts for the relevant prior year as such a surplus.;
 - (b) the billing authority's estimate of the total of amounts credited or to be credited to the authority's collection fund income and expenditure account in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in the preceding year;
 - (c) transitional protection payments received or to be received by the billing authority under paragraph 33(1) of Schedule 7B to the 1988 Act;
 - (d) transfers to the billing authority's collection fund made or to be made under Part 3 of these Regulations (end of year reconciliations);
 - (e) transfers to the collection fund and any payments by relevant precepting authorities or the Secretary of State under regulation 14 made or to be made in respect of an estimated deficit with respect to non-domestic rating in the billing authority's collection fund for the relevant prior year.
-- (f)[^key-62cff002b8ff841d3e2064226cd80069] section 31 grants paid to the billing authority which, under the conditions to which the grants were subject, must be credited to the authority’s collection fund income and expenditure account.
+- (f)[^c-62cff002b8ff841d3e2064226cd80069] section 31 grants paid to the billing authority which, under the conditions to which the grants were subject, must be credited to the authority’s collection fund income and expenditure account.
 
 (4) The amount referred to in this sub-paragraph is the total of—
 
 - (a) the amount of any opening deficit with respect to non-domestic rating on the billing authority's collection fund income and expenditure account which was brought forward from the relevant prior year and was shown in the billing authority's accounts for the relevant prior year as such a deficit;
 - (b) the billing authority's estimate of the total of amounts charged or to be charged to the authority's collection fund income and expenditure account in accordance with proper practices in respect of non-domestic rates payable under sections 43 and 45 of the 1988 Act in the preceding year;
 - (c) transitional protection payments made or to be made by the billing authority under paragraph 33(1) of Schedule 7B to the 1988 Act;
-- (d) payments to the Secretary of State made or to be made under paragraph 6(2)[^key-9b5b3ce5ae544f10fa20ac7976b95fb4] of Schedule 7B to the 1988 Act;
+- (d) payments to the Secretary of State made or to be made under paragraph 6(2)[^c-9b5b3ce5ae544f10fa20ac7976b95fb4] of Schedule 7B to the 1988 Act;
 - (e) payments to relevant precepting authorities made or to be made under regulations made under paragraph 9 of Schedule 7B to the 1988 Act;
-- (f) transfers to the billing authority's general fund made or to be made under regulation 8 or[^key-e9153bb7d3892a5696569db6a9a7f00f] Part 3 of these Regulations;
+- (f) transfers to the billing authority's general fund made or to be made under regulation 8 or[^c-e9153bb7d3892a5696569db6a9a7f00f] Part 3 of these Regulations;
 - (g) transfers to the billing authority's general fund and payments to relevant precepting authorities and the Secretary of State under regulation 14 in respect of an estimated surplus with respect to non-domestic rating in the billing authority's collection fund for the relevant prior year.
 
 (5) For the relevant year beginning 1st April 2014 the amounts referred to in sub-paragraphs (3)(a) and (4)(a) are to be zero.
 
 (6) In this paragraph, a reference to the relevant prior year is a reference to the year beginning two years before the beginning of the relevant year.
 
-### 1A. Special provision for the relevant years beginning on 1st April 2014, 1st April 2015 and 1st April 2016[^key-bfe9fded45bf8f39ca288a7cf8d09c2a]
+### 1A. Special provision for the relevant years beginning on 1st April 2014, 1st April 2015 and 1st April 2016[^c-bfe9fded45bf8f39ca288a7cf8d09c2a]
 
 (1) This paragraph has effect in relation to a billing authority that, in its calculation under regulation 3 (calculation of non-domestic rating income) of the amount specified by paragraph 1 of Schedule 1 for the relevant year beginning on 1st April 2013, spread its provision for refunds in respect of previous years over a 5 year period.
 
@@ -1590,7 +1590,7 @@ Regulation 13
 
 (5) In this paragraph “refunds in respect of previous years” means amounts to be repaid to ratepayers as a consequence of an alteration to a list in accordance with regulations made under section 55 of the 1988 Act in respect of a day in a year prior to the year beginning on 1st April 2013.
 
-### 1B. Special provision for the relevant years beginning on 1st April 2021 and 1st April 2022[^key-384f03da9f08b78edeeee2dc050b3111]
+### 1B. Special provision for the relevant years beginning on 1st April 2021 and 1st April 2022[^c-384f03da9f08b78edeeee2dc050b3111]
 
 (1) This paragraph applies to a billing authority where, in the relevant year beginning on 1st April 2021, the exceptional balance the billing authority calculates in accordance with paragraph 1 of Schedule 4A is a negative amount.
 
@@ -1601,9 +1601,9 @@ Regulation 13
 
 ### 2. Apportionment of surplus and deficit
 
-(1) Unless sub-paragraph (1A), (1B), (1C)[^key-c06c9d7c7a21c79d9b29730355504dee] , (1D), (1E), (1F),[^key-4262194ce08d14eeede293ca9620c92f] (1FA), (1G), (1GA), (1H), (1I) or (1J)[^key-ce2523a95d074595dcc4354ddf5350d0] applies, the Secretary of State's share of any surplus or of any deficit for a relevant year is 50% of the surplus or deficit for that year.
+(1) Unless sub-paragraph (1A), (1B), (1C)[^c-c06c9d7c7a21c79d9b29730355504dee] , (1D), (1E), (1F),[^c-4262194ce08d14eeede293ca9620c92f] (1FA), (1G), (1GA), (1H), (1I) or (1J)[^c-ce2523a95d074595dcc4354ddf5350d0] applies, the Secretary of State's share of any surplus or of any deficit for a relevant year is 50% of the surplus or deficit for that year.
 
-(1A)[^key-08d912830155abb95233fa3f69fdc957] For the relevant year beginning on 1st April 2018, the Secretary of State’s share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Part 1 of Schedule 5 is calculated in accordance with the formula—
+(1A)[^c-08d912830155abb95233fa3f69fdc957] For the relevant year beginning on 1st April 2018, the Secretary of State’s share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Part 1 of Schedule 5 is calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
@@ -1611,57 +1611,57 @@ Regulation 13
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
-(1C)[^key-4216c7dedeb23bb8dd93eca71efdacec] For the relevant year beginning on 1st April 2019, the Secretary of State’s share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Part 1 of Schedule 5 is calculated in accordance with the formula—
+(1C)[^c-4216c7dedeb23bb8dd93eca71efdacec] For the relevant year beginning on 1st April 2019, the Secretary of State’s share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Part 1 of Schedule 5 is calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
 (1D) For a relevant year beginning on or after 1st April 2019, the Secretary of State’s share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Parts 2 to 6 of Schedule 5 is zero.
 
-(1E)[^key-76ff65c8fc7ff86a23b38024b8798843] For the relevant year beginning on 1st April 2019, the Secretary of State’s share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Parts 7 to 22 of Schedule 5 is calculated in accordance with the formula—
+(1E)[^c-76ff65c8fc7ff86a23b38024b8798843] For the relevant year beginning on 1st April 2019, the Secretary of State’s share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Parts 7 to 22 of Schedule 5 is calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
-(1F) For the relevant year beginning on 1st April 2020, the Secretary of State’s share of any surplus or deficit estimated for that year under paragraph 1 by a billing authority listed in Part 1 of Schedule 5 is calculated in accordance with the formula—[^key-7e4a9de3d78f4993856e38c39d26609f]
+(1F) For the relevant year beginning on 1st April 2020, the Secretary of State’s share of any surplus or deficit estimated for that year under paragraph 1 by a billing authority listed in Part 1 of Schedule 5 is calculated in accordance with the formula—[^c-7e4a9de3d78f4993856e38c39d26609f]
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
-(1FA)[^key-a5ebf9bcfebf3a75eb390eb6bc608b28] For the relevant year beginning on 1st April 2020, the Secretary of State's share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Parts 7, 15, 16, 19 and 20 of Schedule 5 is calculated in accordance with the formula—
+(1FA)[^c-a5ebf9bcfebf3a75eb390eb6bc608b28] For the relevant year beginning on 1st April 2020, the Secretary of State's share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Parts 7, 15, 16, 19 and 20 of Schedule 5 is calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
-(1G) For the relevant year beginning on 1st April 2020, the Secretary of State’s share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Parts 8 to 14, 17, 18, 21 and 22[^key-1d2c627e92a766b363904dfe8f1148cb] of Schedule 5 is calculated in accordance with the formula—
+(1G) For the relevant year beginning on 1st April 2020, the Secretary of State’s share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Parts 8 to 14, 17, 18, 21 and 22[^c-1d2c627e92a766b363904dfe8f1148cb] of Schedule 5 is calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
-(1GA)[^key-3a23ce8ab941a0690471c4c6c888b074] For the relevant year beginning on 1st April 2020, the Secretary of State's share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Parts 23 to 39 of Schedule 5 is calculated in accordance with the formula—
+(1GA)[^c-3a23ce8ab941a0690471c4c6c888b074] For the relevant year beginning on 1st April 2020, the Secretary of State's share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Parts 23 to 39 of Schedule 5 is calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
-(1H)[^key-db84e533d0a7820cac84657821ebc2f7] Unless Schedule 4B applies,[^key-62f4744511ce595068f59df9610465ae] for the relevant year beginning on 1st April 2021, the Secretary of State's share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Part 1 of Schedule 5 is calculated in accordance with the formula—
+(1H)[^c-db84e533d0a7820cac84657821ebc2f7] Unless Schedule 4B applies,[^c-62f4744511ce595068f59df9610465ae] for the relevant year beginning on 1st April 2021, the Secretary of State's share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Part 1 of Schedule 5 is calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
-(1I) Unless Schedule 4B applies,[^key-245435f5291bc323fcb67fc3e7f6b292] for the relevant year beginning on 1st April 2021, the Secretary of State's share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Parts 7, 15, 16, 19, 20, or 23 to 39 of Schedule 5 is calculated in accordance with the formula—
+(1I) Unless Schedule 4B applies,[^c-245435f5291bc323fcb67fc3e7f6b292] for the relevant year beginning on 1st April 2021, the Secretary of State's share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Parts 7, 15, 16, 19, 20, or 23 to 39 of Schedule 5 is calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
 (1J) For a relevant year beginning on or after 1st April 2022, the Secretary of State's share of any surplus or of any deficit estimated for that year under paragraph 1 by a billing authority listed in Part 1 of Schedule 5 is 33%.
 
-(2) Unless sub-paragraph (2A)[^key-8928a431b2d5804f1ba2e3fe37de55c3] , (2B)[^key-ecd7326fa709c9bea939fd976370c04e] , (2C) or (2E)[^key-81732eef6106d08da2471af21e8b4aa5] applies, a relevant precepting authority's share of any surplus or of any deficit for a relevant year is the amount of the surplus or deficit for that year multiplied by the relevant precepting authority share set out in regulation 5(3) , (3A), (3B) or (3C)[^key-8f7ff191a1e0a041108f7c9a716bb7c9].
+(2) Unless sub-paragraph (2A)[^c-8928a431b2d5804f1ba2e3fe37de55c3] , (2B)[^c-ecd7326fa709c9bea939fd976370c04e] , (2C) or (2E)[^c-81732eef6106d08da2471af21e8b4aa5] applies, a relevant precepting authority's share of any surplus or of any deficit for a relevant year is the amount of the surplus or deficit for that year multiplied by the relevant precepting authority share set out in regulation 5(3) , (3A), (3B) or (3C)[^c-8f7ff191a1e0a041108f7c9a716bb7c9].
 
-(2A)[^key-2bfbb76cabdda89160c9dbba4e61daa7] Where the relevant precepting authority is the Greater London Authority, its share of any surplus or of any deficit—
+(2A)[^c-2bfbb76cabdda89160c9dbba4e61daa7] Where the relevant precepting authority is the Greater London Authority, its share of any surplus or of any deficit—
 
 - (a) for the relevant year beginning on 1st April 2017, is 20%;
 - (b) for the relevant year beginning on 1st April 2018, is calculated in accordance with the formula—
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
-- (c)[^key-87e0425b10c0cbf7c2d2571aeb0ddc54] for the relevant year beginning on 1st April 2019, is calculated in accordance with the formula—
+- (c)[^c-87e0425b10c0cbf7c2d2571aeb0ddc54] for the relevant year beginning on 1st April 2019, is calculated in accordance with the formula—
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
-- (d) for the relevant year beginning on 1st April 2020, is calculated in accordance with the formula—[^key-548f403e717bc7259d107ef87484439f]
+- (d) for the relevant year beginning on 1st April 2020, is calculated in accordance with the formula—[^c-548f403e717bc7259d107ef87484439f]
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
-- (e)[^key-6027f3c7fa5bf2578e549d50b296af1d] for the relevant year beginning on 1st April 2021, unless Schedule 4B applies,[^key-639bfce8397884b253ec169d8ca2ef3b] is calculated in accordance with the formula—
+- (e)[^c-6027f3c7fa5bf2578e549d50b296af1d] for the relevant year beginning on 1st April 2021, unless Schedule 4B applies,[^c-639bfce8397884b253ec169d8ca2ef3b] is calculated in accordance with the formula—
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
@@ -1672,7 +1672,7 @@ Regulation 13
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
-(2C)[^key-900fd4b2e690e4d3d71729c822ffa8ae] For a relevant precepting authority listed in sub-paragraph (2D), its share of any surplus or of any deficit—
+(2C)[^c-900fd4b2e690e4d3d71729c822ffa8ae] For a relevant precepting authority listed in sub-paragraph (2D), its share of any surplus or of any deficit—
 
 - (a) for the relevant year beginning on 1st April 2019, is calculated in accordance with the formula—
 
@@ -1683,7 +1683,7 @@ Regulation 13
 
 (2D) The relevant precepting authorities are Derbyshire County Council, Devon County Council, Gloucestershire County Council, Kent County Council, Lincolnshire County Council, Suffolk County Council and Surrey County Council.
 
-(2E)[^key-04a9d85e843ed023e84b34b7fdab9241] Unless Schedule 4B applies,[^key-2e5a72528ef1b5c39fb26ff3b891f740] for a relevant authority listed in the table below, the share of any surplus or of any deficit for the relevant years beginning on 1st April 2020 and 1st April 2021 is calculated in accordance with the formula—
+(2E)[^c-04a9d85e843ed023e84b34b7fdab9241] Unless Schedule 4B applies,[^c-2e5a72528ef1b5c39fb26ff3b891f740] for a relevant authority listed in the table below, the share of any surplus or of any deficit for the relevant years beginning on 1st April 2020 and 1st April 2021 is calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
@@ -1712,16 +1712,16 @@ Table
 </tbody>
 </table>
 
-(3) Unless any of the following sub-paragraphs applies, the[^key-77622bc5b3c4a106b7224cf923a0e581] billing authority's share of any surplus or of any deficit for a relevant year is—
+(3) Unless any of the following sub-paragraphs applies, the[^c-77622bc5b3c4a106b7224cf923a0e581] billing authority's share of any surplus or of any deficit for a relevant year is—
 
-- (a)[^key-ce584d53d56688e096a9b144b673aa09] 50% where the billing authority—
+- (a)[^c-ce584d53d56688e096a9b144b673aa09] 50% where the billing authority—
   - (i) is a county council or a district council in an area for which there is no county council, and the authority is a fire and rescue authority; or
   - (ii) is the Council of the Isles of Scilly;
 - (b) 49% where the billing authority is a county council, or is a district council in an area for which there is no county council, and the authority is not a fire and rescue authority;
 - (c) 40% where the billing authority is a district council in an area for which there is a county council;
 - (d) 30% where the billing authority is a London borough council or the Common Council of the City of London.
 
-(4)[^key-8d067d82dff5d4674ece4af8a4b32ea0] For the relevant year beginning on 1st April 2018, for a billing authority listed in Parts 2 to 4 of Schedule 5, the billing authority’s share of any surplus or of any deficit for that year is calculated in accordance with the formula—
+(4)[^c-8d067d82dff5d4674ece4af8a4b32ea0] For the relevant year beginning on 1st April 2018, for a billing authority listed in Parts 2 to 4 of Schedule 5, the billing authority’s share of any surplus or of any deficit for that year is calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
@@ -1739,7 +1739,7 @@ Table
 - (b) for a billing authority listed in Part 5 of Schedule 5, 94%;
 - (c) for a billing authority listed in Part 6 of Schedule 5, 100%.
 
-(7A)[^key-fa90a0cda1a496fffa3058b297b5a1aa] For a billing authority listed in Parts 1, 7, 8, 9, 11, 12 and 14 to 22 of Schedule 5, its share of any surplus or of any deficit—
+(7A)[^c-fa90a0cda1a496fffa3058b297b5a1aa] For a billing authority listed in Parts 1, 7, 8, 9, 11, 12 and 14 to 22 of Schedule 5, its share of any surplus or of any deficit—
 
 - (a) for the relevant year beginning on 1st April 2019, is calculated in accordance with the formula—
 
@@ -1748,11 +1748,11 @@ Table
 
   [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
-(7B)[^key-f75e7246fc05be6b17aa035f9a5faf67] For a billing authority listed in Parts 23 to 39 of Schedule 5, its share of any surplus or of any deficit for the relevant year beginning on 1st April 2020 is calculated in accordance with the formula—
+(7B)[^c-f75e7246fc05be6b17aa035f9a5faf67] For a billing authority listed in Parts 23 to 39 of Schedule 5, its share of any surplus or of any deficit for the relevant year beginning on 1st April 2020 is calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
-(7C) Unless Schedule 4B applies,[^key-d2a5e20d69a1866cdcf7d81596077acc] for a billing authority listed in Parts 1, 7, 15, 16, 19, 20 or 23 to 39 of Schedule 5, its share of any surplus or of any deficit for the relevant year beginning on 1st April 2021 is calculated in accordance with the formula—
+(7C) Unless Schedule 4B applies,[^c-d2a5e20d69a1866cdcf7d81596077acc] for a billing authority listed in Parts 1, 7, 15, 16, 19, 20 or 23 to 39 of Schedule 5, its share of any surplus or of any deficit for the relevant year beginning on 1st April 2021 is calculated in accordance with the formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/2013/452)
 
@@ -1781,7 +1781,7 @@ Table
 - C is the amount mentioned in paragraph 1(3)(e);
 - D is the amount mentioned in paragraph 1(4)(a);
 - E is the amount mentioned in paragraph 1(4)(g).
-- F is—[^key-d6727f9fbdc0ab002c49c58fe5e9cfb3]
+- F is—[^c-d6727f9fbdc0ab002c49c58fe5e9cfb3]
   - (a) 49% where the relevant precepting authority is Derbyshire County Council;
   - (b) 59% where the relevant precepting authority is Devon County Council or Kent County Council;
   - (c) 50% where the relevant precepting authority is Gloucestershire County Council;
@@ -1816,19 +1816,19 @@ Table
   - (c) 40% for a billing authority listed in Parts 8, 12, 15, 17, 21 and 22 of Schedule 5;
   - (d) 50% for a billing authority listed in Part 20 of Schedule 5;
 - L is—
-  - (a) 48%[^key-9026bdd051083cc00254db0cfd54785c] for a billing authority listed in Part 1 of Schedule 5;
-  - (aa) 74% for a billing authority listed in Parts 7, 16, 19, 26, 28, 33 or 36 of Schedule 5;[^key-923f77669f31e32c391b66a0362dca2f]
-  - (b) 49% for a billing authority listed in Parts 9, 11, 14 and 18[^key-b95098981b6590ed45c88762b860d5c9] of Schedule 5;
-  - (c) 40% for a billing authority listed in Parts 8, 12, [^key-404e509b74f81a50dc9b052d56830d23]... 17, 21 and 22 of Schedule 5;
-  - (ca) 52.5% for a billing authority listed in Parts 15 or 32 of Schedule 5;[^key-3c03cad0a8856e2ab78edc2008ad1f67]
-  - (d) 75% for a billing authority listed in Parts 20 or 34 of Schedule 5;[^key-dc77d8f2c62fc6e31ae21ede953fe595]
-  - (e) 42.5% for a billing authority listed in Parts 23 or 30 of Schedule 5;[^key-cb0f9c805c1d5817d783835c04248920]
+  - (a) 48%[^c-9026bdd051083cc00254db0cfd54785c] for a billing authority listed in Part 1 of Schedule 5;
+  - (aa) 74% for a billing authority listed in Parts 7, 16, 19, 26, 28, 33 or 36 of Schedule 5;[^c-923f77669f31e32c391b66a0362dca2f]
+  - (b) 49% for a billing authority listed in Parts 9, 11, 14 and 18[^c-b95098981b6590ed45c88762b860d5c9] of Schedule 5;
+  - (c) 40% for a billing authority listed in Parts 8, 12, [^c-404e509b74f81a50dc9b052d56830d23]... 17, 21 and 22 of Schedule 5;
+  - (ca) 52.5% for a billing authority listed in Parts 15 or 32 of Schedule 5;[^c-3c03cad0a8856e2ab78edc2008ad1f67]
+  - (d) 75% for a billing authority listed in Parts 20 or 34 of Schedule 5;[^c-dc77d8f2c62fc6e31ae21ede953fe595]
+  - (e) 42.5% for a billing authority listed in Parts 23 or 30 of Schedule 5;[^c-cb0f9c805c1d5817d783835c04248920]
   - (f) 44% for a billing authority listed in Parts 24 or 35 of Schedule 5;
   - (g) 35% for a billing authority listed in Part 25 of Schedule 5;
   - (h) 56% for a billing authority listed in Part 27 of Schedule 5;
   - (i) 37.5% for a billing authority listed in Part 29 of Schedule 5;
   - (j) 20% for a billing authority listed in Part 38 of Schedule 5;
-  - (k) 0% for a billing authority listed in Part 39 of Schedule 5;[^key-8647063969f660b8efa517ffcaae393a]
+  - (k) 0% for a billing authority listed in Part 39 of Schedule 5;[^c-8647063969f660b8efa517ffcaae393a]
 - M is—
   - (a) 64% for a billing authority listed in Part 1 of Schedule 5;
   - (b) 99% for a billing authority listed in Parts 7, 9, 11, 14, 16, 18 and 19 of Schedule 5;
@@ -1839,7 +1839,7 @@ Table
   - (g) 80% for a billing authority listed in Part 21 of Schedule 5;
   - (h) 30% for a billing authority listed in Part 22 of Schedule 5.
 
-## SCHEDULE 4A — Calculation of the exceptional balance[^key-5015cb4e26c71171644fa484433ef7a2]
+## SCHEDULE 4A — Calculation of the exceptional balance[^c-5015cb4e26c71171644fa484433ef7a2]
 
 Regulation 13
 
@@ -1942,7 +1942,7 @@ Regulation 13 and Schedule 4B
 | Billing Authorities listed in Part 38 of Schedule 5 | 25% | 50% | 50% | 55% for West Sussex County Council | 10% for West Sussex County Council | 10% for West Sussex County Council | 20% | 40% | 40% |
 | Billing Authorities listed in Part 39 of Schedule 5 | 25% | 50% | 50% | 74% for Worcestershire County Council and 1% for a fire and rescue authority | 9% for Worcestershire County Council and 1% for a fire and rescue authority | 9% for Worcestershire County Council and 1% for a fire and rescue authority | 0% | 40% | 40% |
 
-## SCHEDULE 5 — List of billing authorities[^key-355ec5422580e538787487834ec3e90c]
+## SCHEDULE 5 — List of billing authorities[^c-355ec5422580e538787487834ec3e90c]
 
 Regulations 3, 4 and 11 and Schedules 2A, 3 and 4
 
@@ -2048,7 +2048,7 @@ Cornwall
 | --- |
 | Cornwall |
 
-### PART 7[^key-3d2819eceee039e7bdfd69e466ece3df]
+### PART 7[^c-3d2819eceee039e7bdfd69e466ece3df]
 
 Berkshire
 
@@ -2240,7 +2240,7 @@ Surrey
 | Waverley |
 | Woking |
 
-### PART 23[^key-6b4d1ff5c5368d522d0ee76c4d0056ae]
+### PART 23[^c-6b4d1ff5c5368d522d0ee76c4d0056ae]
 
 Buckinghamshire
 
@@ -2448,7 +2448,7 @@ Worcestershire
 | Wychavon |
 | Wyre Forest |
 
-## SCHEDULE 6 — Table of Authorities and Values for C[^key-9cdddf0240aaaf5e5bb90f692578e8e0]
+## SCHEDULE 6 — Table of Authorities and Values for C[^c-9cdddf0240aaaf5e5bb90f692578e8e0]
 
 Regulation 15
 
@@ -2802,396 +2802,396 @@ https://www.gov.uk/government/uploads/system/uploads/attachment\_data/file/8470/
 
 [^c21673141]: Marginal citation: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41). Sections 97(2A) and (2B) of the Local Government Finance Act 1988 (“**the 1988 Act**”) were inserted by paragraph 25(2) of Schedule 3 to the [Local Government Finance Act 2012 (c.17)](https://www.legislation.gov.uk/ukpga/2012/17) (“**the 2012 Act**”). Section 99 of the 1988 Act was substituted by paragraph 24 of Schedule 10 to the Local Government Finance Act 1992(c.14) and amended by section 70 of the [Local Government Act 2003 (c.26)](https://www.legislation.gov.uk/ukpga/2003/26) and paragraph 26 of Schedule 3 to the 2012 Act. Schedule 7B was inserted into the 1988 Act by section 1 of the 2012 Act.
 
-[^key-73d347f04b36e1463458ff92abbbe902]: Textual amendment: Words in reg. 2(1) inserted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2016/1268/regulation/3)
+[^c-73d347f04b36e1463458ff92abbbe902]: Textual amendment: Words in reg. 2(1) inserted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2016/1268/regulation/3)
 
-[^key-57866614c3b6667838c35dbc5fef4b34]: Textual amendment: Words in reg. 2(1) inserted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/2/b)
+[^c-57866614c3b6667838c35dbc5fef4b34]: Textual amendment: Words in reg. 2(1) inserted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/2/b)
 
-[^key-bc33a604b1794537f504d8e77d3a428a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/2/1) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/374/regulation/3)
+[^c-bc33a604b1794537f504d8e77d3a428a]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/2/1) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/374/regulation/3)
 
-[^key-1f18241d563529d416c7c1d3a114432b]: Textual amendment: Words in reg. 2(1) substituted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/2/a)
+[^c-1f18241d563529d416c7c1d3a114432b]: Textual amendment: Words in reg. 2(1) substituted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/2/a)
 
 [^c21673151]: Marginal citation: Relevant amendments were made to Schedule 7 by section 62 of the Local Government Act 2003.
 
 [^c21673161]: Marginal citation: See section 93 of the 1988 Act.
 
-[^key-73664eb313de2f8b8515bde41068e7fb]: Textual amendment: [Reg. 3(A1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/3/A1) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2026/374/regulation/4/a)
+[^c-73664eb313de2f8b8515bde41068e7fb]: Textual amendment: [Reg. 3(A1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/3/A1) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [4(a)](https://www.legislation.gov.uk/uksi/2026/374/regulation/4/a)
 
-[^key-e66d9bf7228be59cadf04c9a9552026e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/3/1) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2026/374/regulation/4/b/i)
+[^c-e66d9bf7228be59cadf04c9a9552026e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/3/1) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [4(b)(i)](https://www.legislation.gov.uk/uksi/2026/374/regulation/4/b/i)
 
-[^key-3f877bec090e61a7e9bab0b266164494]: Textual amendment: Reg. 3(1)(da)(db) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/3/a)
+[^c-3f877bec090e61a7e9bab0b266164494]: Textual amendment: Reg. 3(1)(da)(db) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/3/a)
 
-[^key-14b1d3a8fde05239567ede547ad4433d]: Textual amendment: Words in reg. 3(1)(da) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2019/709/regulation/3/a)
+[^c-14b1d3a8fde05239567ede547ad4433d]: Textual amendment: Words in reg. 3(1)(da) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2019/709/regulation/3/a)
 
-[^key-3ba6d6717993d4d1ac6eb0f6e368c4bd]: Textual amendment: Words in reg. 3(1)(db) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2019/709/regulation/3/b)
+[^c-3ba6d6717993d4d1ac6eb0f6e368c4bd]: Textual amendment: Words in reg. 3(1)(db) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2019/709/regulation/3/b)
 
-[^key-cb3572e6a8c3a12225b4e623e231d8f2]: Textual amendment: Reg. 3(1)(f)(g) inserted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [11(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/11/2)
+[^c-cb3572e6a8c3a12225b4e623e231d8f2]: Textual amendment: Reg. 3(1)(f)(g) inserted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [11(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/11/2)
 
-[^key-42c2ba521a3071d8301606797a185b42]: Textual amendment: [Reg. 3(1)(h)](https://www.legislation.gov.uk/uksi/2013/452/regulation/3/1/h) inserted (26.3.2021) by [The Non-Domestic Rating (Designated Area) Regulations 2021 (S.I. 2021/404)](https://www.legislation.gov.uk/uksi/2021/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/5/2)
+[^c-42c2ba521a3071d8301606797a185b42]: Textual amendment: [Reg. 3(1)(h)](https://www.legislation.gov.uk/uksi/2013/452/regulation/3/1/h) inserted (26.3.2021) by [The Non-Domestic Rating (Designated Area) Regulations 2021 (S.I. 2021/404)](https://www.legislation.gov.uk/uksi/2021/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/5/2)
 
-[^key-776b550b50ae0bd7fe0efd6be687e725]: Textual amendment: [Reg. 3(1)(i)-(l)](https://www.legislation.gov.uk/uksi/2013/452/regulation/3/1/i) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/4/b/ii)
+[^c-776b550b50ae0bd7fe0efd6be687e725]: Textual amendment: [Reg. 3(1)(i)-(l)](https://www.legislation.gov.uk/uksi/2013/452/regulation/3/1/i) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [4(b)(ii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/4/b/ii)
 
-[^key-26700c05a51be7f58ec810c451f50c70]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2013/452/regulation/3/2/b) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2026/374/regulation/4/c/i)
+[^c-26700c05a51be7f58ec810c451f50c70]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2013/452/regulation/3/2/b) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [4(c)(i)](https://www.legislation.gov.uk/uksi/2026/374/regulation/4/c/i)
 
-[^key-49e7ccb549cf4c0f347e8cc0a47e8a4e]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2013/452/regulation/3/2/c) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/4/c/ii)
+[^c-49e7ccb549cf4c0f347e8cc0a47e8a4e]: Textual amendment: [Reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2013/452/regulation/3/2/c) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [4(c)(ii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/4/c/ii)
 
-[^key-c0342b8edc840df96b8b85c4c85b244b]: Textual amendment: Reg. 3(2A) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2017/496/regulation/3/b)
+[^c-c0342b8edc840df96b8b85c4c85b244b]: Textual amendment: Reg. 3(2A) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2017/496/regulation/3/b)
 
-[^key-bb41f40a3f390cc063e63b5c417ab61e]: Textual amendment: Reg. 3(2B) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2018/463/regulation/3/c)
+[^c-bb41f40a3f390cc063e63b5c417ab61e]: Textual amendment: Reg. 3(2B) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2018/463/regulation/3/c)
 
-[^key-2ee9eb45aa4f147d20c2c59b285eaaa0]: Textual amendment: Reg. 4(1) substituted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/4/a)
+[^c-2ee9eb45aa4f147d20c2c59b285eaaa0]: Textual amendment: Reg. 4(1) substituted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/4/a)
 
-[^key-92cdb9ac4ba8c0a5ae3c7531e8ce0413]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/4/1) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/374/regulation/5)
+[^c-92cdb9ac4ba8c0a5ae3c7531e8ce0413]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/4/1) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2026/374/regulation/5)
 
-[^key-553f5d13750e2d11b7f00f8f32639616]: Textual amendment: Reg. 4(1)(c)-(e) substituted for reg. 4(1)(c) (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/1321/regulation/3)
+[^c-553f5d13750e2d11b7f00f8f32639616]: Textual amendment: Reg. 4(1)(c)-(e) substituted for reg. 4(1)(c) (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2017/1321/regulation/3)
 
-[^key-0d0d4ec23b5eca793492cf5f7e0bb9b3]: Textual amendment: Words in reg. 4(2) substituted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/4/b)
+[^c-0d0d4ec23b5eca793492cf5f7e0bb9b3]: Textual amendment: Words in reg. 4(2) substituted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/4/b)
 
-[^key-3e6db2cb07b7619428ad98e217a3ee60]: Textual amendment: Reg. 4(3) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2017/496/regulation/4)
+[^c-3e6db2cb07b7619428ad98e217a3ee60]: Textual amendment: Reg. 4(3) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2017/496/regulation/4)
 
-[^key-dc43444679c2e5f0778c9b7b10878eb2]: Textual amendment: Reg. 4(4) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/463/regulation/4)
+[^c-dc43444679c2e5f0778c9b7b10878eb2]: Textual amendment: Reg. 4(4) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2018/463/regulation/4)
 
-[^key-39a311cf46fcd31b1aca50a43e23f7ce]: Textual amendment: Reg. 5(2A) inserted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/3/a)
+[^c-39a311cf46fcd31b1aca50a43e23f7ce]: Textual amendment: Reg. 5(2A) inserted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/3/a)
 
-[^key-43505e8e6e4bc5f70a2f208336ba550f]: Textual amendment: Words in reg. 5(3) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/5/a)
+[^c-43505e8e6e4bc5f70a2f208336ba550f]: Textual amendment: Words in reg. 5(3) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/5/a)
 
-[^key-2aa88e629277237ada129a7220722a26]: Textual amendment: Words in reg. 5(3) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2018/463/regulation/5/a)
+[^c-2aa88e629277237ada129a7220722a26]: Textual amendment: Words in reg. 5(3) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2018/463/regulation/5/a)
 
-[^key-4e8af1ce9e6d61caee8cb10045fd6cd1]: Textual amendment: Words in reg. 5(3) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2019/709/regulation/4/a)
+[^c-4e8af1ce9e6d61caee8cb10045fd6cd1]: Textual amendment: Words in reg. 5(3) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2019/709/regulation/4/a)
 
-[^key-96239d7fe795044223d1940b875dd106]: Textual amendment: Reg. 5(3A) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2017/496/regulation/5/b)
+[^c-96239d7fe795044223d1940b875dd106]: Textual amendment: Reg. 5(3A) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2017/496/regulation/5/b)
 
-[^key-f8a98d8b96124f66ce99394003770d6e]: Textual amendment: Reg. 5(3A)(a) omitted (30.3.2018) by virtue of [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2018/463/regulation/5/b)
+[^c-f8a98d8b96124f66ce99394003770d6e]: Textual amendment: Reg. 5(3A)(a) omitted (30.3.2018) by virtue of [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2018/463/regulation/5/b)
 
-[^key-34d8a516bb99d8c4d1e278d8d262970e]: Textual amendment: Reg. 5(3B)(3C) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2018/463/regulation/5/c)
+[^c-34d8a516bb99d8c4d1e278d8d262970e]: Textual amendment: Reg. 5(3B)(3C) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [5(c)](https://www.legislation.gov.uk/uksi/2018/463/regulation/5/c)
 
-[^key-a6fea4f33b2a1d8f7dda2453a1176c47]: Textual amendment: Word in reg. 5(3B) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2019/709/regulation/4/b)
+[^c-a6fea4f33b2a1d8f7dda2453a1176c47]: Textual amendment: Word in reg. 5(3B) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2019/709/regulation/4/b)
 
-[^key-3edc498aeb4f5b69e5a4bfed49a8d16a]: Textual amendment: Reg. 5(3D) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2019/709/regulation/4/c)
+[^c-3edc498aeb4f5b69e5a4bfed49a8d16a]: Textual amendment: Reg. 5(3D) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2019/709/regulation/4/c)
 
-[^key-b9f9a74b8714de3478f461f1eeff1a98]: Textual amendment: Word in reg. 5(4) substituted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/3/b)
+[^c-b9f9a74b8714de3478f461f1eeff1a98]: Textual amendment: Word in reg. 5(4) substituted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/3/b)
 
-[^key-b2616fd2ff1ca32ca3e558998467ab50]: Textual amendment: Reg. 5(5) inserted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/3/c)
+[^c-b2616fd2ff1ca32ca3e558998467ab50]: Textual amendment: Reg. 5(5) inserted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(3)(c)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/3/c)
 
-[^key-2f888a73ed11899c94e9294ae76c3477]: Textual amendment: Words in reg. 6(1) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/6/a)
+[^c-2f888a73ed11899c94e9294ae76c3477]: Textual amendment: Words in reg. 6(1) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/6/a)
 
-[^key-fe691abd2f4654dcb8bad3d46be62bc9]: Textual amendment: Words in reg. 6(2) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2017/496/regulation/6/b)
+[^c-fe691abd2f4654dcb8bad3d46be62bc9]: Textual amendment: Words in reg. 6(2) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2017/496/regulation/6/b)
 
-[^key-b1b096a209c97dca24c5260d4ed7eea3]: Textual amendment: Words in reg. 6(3) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2019/709/regulation/5/a)
+[^c-b1b096a209c97dca24c5260d4ed7eea3]: Textual amendment: Words in reg. 6(3) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2019/709/regulation/5/a)
 
-[^key-fed06c655124c2c7e0de46b9b132f608]: Textual amendment: Reg. 6(3A) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2019/709/regulation/5/b)
+[^c-fed06c655124c2c7e0de46b9b132f608]: Textual amendment: Reg. 6(3A) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2019/709/regulation/5/b)
 
 [^c21673171]: Marginal citation: S.I. 2013/
 
 [^c21673181]: Marginal citation: [1990 c.8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-279871a3a777b3bab8e1735d8ef043a9]: Textual amendment: Reg. 7A inserted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [11(3)](https://www.legislation.gov.uk/uksi/2015/628/regulation/11/3)
+[^c-279871a3a777b3bab8e1735d8ef043a9]: Textual amendment: Reg. 7A inserted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [11(3)](https://www.legislation.gov.uk/uksi/2015/628/regulation/11/3)
 
-[^key-1e2880a09aed2b8189df8c469d03b159]: Textual amendment: [Reg. 7B](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B) inserted (26.3.2021) by [The Non-Domestic Rating (Designated Area) Regulations 2021 (S.I. 2021/404)](https://www.legislation.gov.uk/uksi/2021/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2021/404/regulation/5/3)
+[^c-1e2880a09aed2b8189df8c469d03b159]: Textual amendment: [Reg. 7B](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B) inserted (26.3.2021) by [The Non-Domestic Rating (Designated Area) Regulations 2021 (S.I. 2021/404)](https://www.legislation.gov.uk/uksi/2021/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2021/404/regulation/5/3)
 
-[^key-bcc6f3f56d61d71c7a06580f58717249]: Textual amendment: Words in [reg. 7B(1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/1) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/a/i)
+[^c-bcc6f3f56d61d71c7a06580f58717249]: Textual amendment: Words in [reg. 7B(1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/1) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(a)(i)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/a/i)
 
-[^key-830a6e8f82a8ec28eb52931a5b5914ad]: Textual amendment: Words in [reg. 7B(1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/1) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/a/ii)
+[^c-830a6e8f82a8ec28eb52931a5b5914ad]: Textual amendment: Words in [reg. 7B(1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/1) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(a)(ii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/a/ii)
 
-[^key-f2d8d64352a10f7c92579a06d8685fe9]: Textual amendment: [Reg. 7B(1A)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/1A) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/b)
+[^c-f2d8d64352a10f7c92579a06d8685fe9]: Textual amendment: [Reg. 7B(1A)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/1A) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(b)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/b)
 
-[^key-e153586429dacbf571e0807ed5708a3b]: Textual amendment: Words in [reg. 7B(2)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/2) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(c)(i)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/c/i)
+[^c-e153586429dacbf571e0807ed5708a3b]: Textual amendment: Words in [reg. 7B(2)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/2) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(c)(i)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/c/i)
 
-[^key-61864d3264e45e001fe07cb9a9a13575]: Textual amendment: Words in [reg. 7B(2)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/2) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(c)(ii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/c/ii)
+[^c-61864d3264e45e001fe07cb9a9a13575]: Textual amendment: Words in [reg. 7B(2)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/2) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(c)(ii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/c/ii)
 
-[^key-833b9d9048cdffd6cf7d2cdd1b19c55b]: Textual amendment: [Reg. 7B(2A)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/2A) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/d)
+[^c-833b9d9048cdffd6cf7d2cdd1b19c55b]: Textual amendment: [Reg. 7B(2A)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/2A) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(d)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/d)
 
-[^key-c35eee08d6158b183e7e6719622c1166]: Textual amendment: Words in [reg. 7B(3)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/3) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(e)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/e)
+[^c-c35eee08d6158b183e7e6719622c1166]: Textual amendment: Words in [reg. 7B(3)](https://www.legislation.gov.uk/uksi/2013/452/regulation/7B/3) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [6(e)](https://www.legislation.gov.uk/uksi/2026/374/regulation/6/e)
 
-[^key-15ced2150420981adc909f48a15adcc7]: Textual amendment: Words in reg. 9(1) substituted (3.8.2022) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Amendment) Regulations 2022 (S.I. 2022/784)](https://www.legislation.gov.uk/uksi/2022/784), [regs. 1](https://www.legislation.gov.uk/uksi/2022/784/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/784/regulation/4/a)
+[^c-15ced2150420981adc909f48a15adcc7]: Textual amendment: Words in reg. 9(1) substituted (3.8.2022) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Amendment) Regulations 2022 (S.I. 2022/784)](https://www.legislation.gov.uk/uksi/2022/784), [regs. 1](https://www.legislation.gov.uk/uksi/2022/784/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2022/784/regulation/4/a)
 
-[^key-f5d4e36a50ede0f7462be31d7d0752bc]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/9/1) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2026/374/regulation/7/a)
+[^c-f5d4e36a50ede0f7462be31d7d0752bc]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2013/452/regulation/9/1) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2026/374/regulation/7/a)
 
-[^key-d5abd6d39c7f1619fa2ade5854934635]: Textual amendment: Reg. 9(1)(b)-(bc) substituted for reg. 9(1)(b) (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2016/1268/regulation/5)
+[^c-d5abd6d39c7f1619fa2ade5854934635]: Textual amendment: Reg. 9(1)(b)-(bc) substituted for reg. 9(1)(b) (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2016/1268/regulation/5)
 
-[^key-31dacc24012f2182c075dc14f9504ae9]: Textual amendment: Reg. 9(1)(bd) inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2017/1321/regulation/4)
+[^c-31dacc24012f2182c075dc14f9504ae9]: Textual amendment: Reg. 9(1)(bd) inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2017/1321/regulation/4)
 
-[^key-69462b46191eacde18fc3d739b52e762]: Textual amendment: Words in reg. 9(1)(c) inserted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [11(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/11/4)
+[^c-69462b46191eacde18fc3d739b52e762]: Textual amendment: Words in reg. 9(1)(c) inserted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [11(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/11/4)
 
-[^key-979ba078ffe3d48b1ed4e248499c0bb6]: Textual amendment: Word in reg. 9(1)(c) inserted (26.3.2021) by [The Non-Domestic Rating (Designated Area) Regulations 2021 (S.I. 2021/404)](https://www.legislation.gov.uk/uksi/2021/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2021/404/regulation/5/4)
+[^c-979ba078ffe3d48b1ed4e248499c0bb6]: Textual amendment: Word in reg. 9(1)(c) inserted (26.3.2021) by [The Non-Domestic Rating (Designated Area) Regulations 2021 (S.I. 2021/404)](https://www.legislation.gov.uk/uksi/2021/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2021/404/regulation/5/4)
 
-[^key-054de6ba7b4761fd1ed9c5ee9b567c0b]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2013/452/regulation/9/1A) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2026/374/regulation/7/b)
+[^c-054de6ba7b4761fd1ed9c5ee9b567c0b]: Textual amendment: [Reg. 9(1A)](https://www.legislation.gov.uk/uksi/2013/452/regulation/9/1A) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2026/374/regulation/7/b)
 
-[^key-b05380aa2382e83cccf113b4d64cd50a]: Textual amendment: Reg. 9(5) inserted (15.5.2020) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/449)](https://www.legislation.gov.uk/uksi/2020/449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/449/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/449/regulation/3/2/b)
+[^c-b05380aa2382e83cccf113b4d64cd50a]: Textual amendment: Reg. 9(5) inserted (15.5.2020) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/449)](https://www.legislation.gov.uk/uksi/2020/449), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/449/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2020/449/regulation/3/2/b)
 
-[^key-267863b96dff33b6bc1191be48fa052a]: Textual amendment: Words in reg. 9(5) substituted (3.8.2022) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Amendment) Regulations 2022 (S.I. 2022/784)](https://www.legislation.gov.uk/uksi/2022/784), [regs. 1](https://www.legislation.gov.uk/uksi/2022/784/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/784/regulation/4/b)
+[^c-267863b96dff33b6bc1191be48fa052a]: Textual amendment: Words in reg. 9(5) substituted (3.8.2022) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Amendment) Regulations 2022 (S.I. 2022/784)](https://www.legislation.gov.uk/uksi/2022/784), [regs. 1](https://www.legislation.gov.uk/uksi/2022/784/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2022/784/regulation/4/b)
 
-[^key-ee039ecbab3a2fc243a3cf5befcf1f09]: Textual amendment: Reg. 9(6) omitted (3.8.2022) by virtue of [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Amendment) Regulations 2022 (S.I. 2022/784)](https://www.legislation.gov.uk/uksi/2022/784), [regs. 1](https://www.legislation.gov.uk/uksi/2022/784/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2022/784/regulation/4/c)
+[^c-ee039ecbab3a2fc243a3cf5befcf1f09]: Textual amendment: Reg. 9(6) omitted (3.8.2022) by virtue of [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Amendment) Regulations 2022 (S.I. 2022/784)](https://www.legislation.gov.uk/uksi/2022/784), [regs. 1](https://www.legislation.gov.uk/uksi/2022/784/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2022/784/regulation/4/c)
 
-[^key-74594c6871a53a11c742bb9271459514]: Textual amendment: Reg. 9(7)-(9) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2024/907/regulation/4/b)
+[^c-74594c6871a53a11c742bb9271459514]: Textual amendment: Reg. 9(7)-(9) inserted (30.9.2024) by [The Accounts and Audit (Amendment) Regulations 2024 (S.I. 2024/907)](https://www.legislation.gov.uk/uksi/2024/907), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/907/regulation/1/3), [4(b)](https://www.legislation.gov.uk/uksi/2024/907/regulation/4/b)
 
-[^key-1d8242f47916c5b770449331f75642c8]: Textual amendment: Reg. 9A inserted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2016/1268/regulation/6)
+[^c-1d8242f47916c5b770449331f75642c8]: Textual amendment: Reg. 9A inserted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2016/1268/regulation/6)
 
-[^key-76e5a69565c469bae780c55df637e625]: Textual amendment: Reg. 9B inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2017/1321/regulation/5)
+[^c-76e5a69565c469bae780c55df637e625]: Textual amendment: Reg. 9B inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2017/1321/regulation/5)
 
-[^key-3e7a5c1eb2aadc5d42c186effe7daa27]: Textual amendment: Reg. 10 substituted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [11(5)](https://www.legislation.gov.uk/uksi/2015/628/regulation/11/5)
+[^c-3e7a5c1eb2aadc5d42c186effe7daa27]: Textual amendment: Reg. 10 substituted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [11(5)](https://www.legislation.gov.uk/uksi/2015/628/regulation/11/5)
 
-[^key-13ca6c05508fd576b0afebfccceaee7d]: Textual amendment: [Reg. 10(3A)](https://www.legislation.gov.uk/uksi/2013/452/regulation/10/3A) inserted (26.3.2021) by [The Non-Domestic Rating (Designated Area) Regulations 2021 (S.I. 2021/404)](https://www.legislation.gov.uk/uksi/2021/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2021/404/regulation/5/5)
+[^c-13ca6c05508fd576b0afebfccceaee7d]: Textual amendment: [Reg. 10(3A)](https://www.legislation.gov.uk/uksi/2013/452/regulation/10/3A) inserted (26.3.2021) by [The Non-Domestic Rating (Designated Area) Regulations 2021 (S.I. 2021/404)](https://www.legislation.gov.uk/uksi/2021/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2021/404/regulation/5/5)
 
-[^key-571196936905546fb44c0822e0fa6ebc]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2013/452/regulation/10A) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2026/374/regulation/8)
+[^c-571196936905546fb44c0822e0fa6ebc]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2013/452/regulation/10A) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2026/374/regulation/8)
 
-[^key-6c505bc1174f58427cfd8b315ab07afa]: Textual amendment: Reg. 11 substituted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [12(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/2)
+[^c-6c505bc1174f58427cfd8b315ab07afa]: Textual amendment: Reg. 11 substituted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [12(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/2)
 
-[^key-3a9abb0d06bc17c38e1a0fd83c8be75f]: Textual amendment: Reg. 11(A1) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/7/a)
+[^c-3a9abb0d06bc17c38e1a0fd83c8be75f]: Textual amendment: Reg. 11(A1) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/7/a)
 
-[^key-274ddde178c6f286cce3799f7d420f51]: Textual amendment: Words in reg. 11(1) substituted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/7/a)
+[^c-274ddde178c6f286cce3799f7d420f51]: Textual amendment: Words in reg. 11(1) substituted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/7/a)
 
-[^key-b39dc98bf369db9b9472333a34e9ad40]: Textual amendment: Words in reg. 11(2) substituted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/7/b)
+[^c-b39dc98bf369db9b9472333a34e9ad40]: Textual amendment: Words in reg. 11(2) substituted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/7/b)
 
-[^key-7c6d0c29f394454e77a4a5c7b706c84f]: Textual amendment: Reg. 11(2A)(2B) inserted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/7/c)
+[^c-7c6d0c29f394454e77a4a5c7b706c84f]: Textual amendment: Reg. 11(2A)(2B) inserted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/7/c)
 
-[^key-3c178bb699b7f270a876c58eb6475667]: Textual amendment: Words in reg. 11(2A) substituted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/6/2/a)
+[^c-3c178bb699b7f270a876c58eb6475667]: Textual amendment: Words in reg. 11(2A) substituted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/6/2/a)
 
-[^key-2731e020fdd67a82c01d9a2b718dd6cf]: Textual amendment: Words in reg. 11(2A) substituted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/6/2/b)
+[^c-2731e020fdd67a82c01d9a2b718dd6cf]: Textual amendment: Words in reg. 11(2A) substituted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/6/2/b)
 
-[^key-40065262608a1373cf10dc942f403c92]: Textual amendment: Words in reg. 11(2B) substituted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/6/3)
+[^c-40065262608a1373cf10dc942f403c92]: Textual amendment: Words in reg. 11(2B) substituted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/6/3)
 
-[^key-5a8c098b9fa46dbd36c37711b6e10687]: Textual amendment: Reg. 11(2C) inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/6/4)
+[^c-5a8c098b9fa46dbd36c37711b6e10687]: Textual amendment: Reg. 11(2C) inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/6/4)
 
-[^key-662ac4c4d15e0caf41fb2d7020e0672f]: Textual amendment: Words in reg. 11(3) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2017/496/regulation/7/b)
+[^c-662ac4c4d15e0caf41fb2d7020e0672f]: Textual amendment: Words in reg. 11(3) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2017/496/regulation/7/b)
 
-[^key-fa14a203b42d40927de7a81f24b6956b]: Textual amendment: Words in reg. 11(3) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2019/709/regulation/6/a)
+[^c-fa14a203b42d40927de7a81f24b6956b]: Textual amendment: Words in reg. 11(3) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2019/709/regulation/6/a)
 
-[^key-2910b159986d2e12d2e43d9232e4b5b7]: Textual amendment: Reg. 11(4) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2017/496/regulation/7/c)
+[^c-2910b159986d2e12d2e43d9232e4b5b7]: Textual amendment: Reg. 11(4) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2017/496/regulation/7/c)
 
-[^key-de4f17bf67154608fb3108fdeadd52b7]: Textual amendment: Words in reg. 11(4) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2019/709/regulation/6/b)
+[^c-de4f17bf67154608fb3108fdeadd52b7]: Textual amendment: Words in reg. 11(4) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2019/709/regulation/6/b)
 
-[^key-1f3fed1a46a8c300a86ee4e3bf2ba42c]: Textual amendment: Reg. 11(5)(6) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2019/709/regulation/6/c)
+[^c-1f3fed1a46a8c300a86ee4e3bf2ba42c]: Textual amendment: Reg. 11(5)(6) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2019/709/regulation/6/c)
 
-[^key-88e1f0700ef519a37f27524374043745]: Textual amendment: Regs. 11A, 11B inserted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2016/1268/regulation/8)
+[^c-88e1f0700ef519a37f27524374043745]: Textual amendment: Regs. 11A, 11B inserted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2016/1268/regulation/8)
 
-[^key-7d35ea1548536ce81109fba45c6dee40]: Textual amendment: Words in reg. 11B(1) inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/7/2)
+[^c-7d35ea1548536ce81109fba45c6dee40]: Textual amendment: Words in reg. 11B(1) inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/7/2)
 
-[^key-d613ce63c5a93b3d83a5ac3ef4915b54]: Textual amendment: Reg. 11B(3A) inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/7/3)
+[^c-d613ce63c5a93b3d83a5ac3ef4915b54]: Textual amendment: Reg. 11B(3A) inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/7/3)
 
-[^key-62e9a4655114b4db62c1f41cf8bb2657]: Textual amendment: Reg. 11C inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/1321/regulation/8)
+[^c-62e9a4655114b4db62c1f41cf8bb2657]: Textual amendment: Reg. 11C inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/1321/regulation/8)
 
-[^key-0587e222e61ba8561d6166fa5eb2a157]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2013/452/regulation/12) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2026/374/regulation/9)
+[^c-0587e222e61ba8561d6166fa5eb2a157]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/uksi/2013/452/regulation/12) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2026/374/regulation/9)
 
-[^key-16cd41d8876decfad67c5735ca00c054]: Textual amendment: Reg. 12A inserted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/4)
+[^c-16cd41d8876decfad67c5735ca00c054]: Textual amendment: Reg. 12A inserted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/4)
 
-[^key-920720a55c78bf9c4da61d811b250dbf]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2013/452/regulation/13/2) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1202/regulation/4)
+[^c-920720a55c78bf9c4da61d811b250dbf]: Textual amendment: Words in [reg. 13(2)](https://www.legislation.gov.uk/uksi/2013/452/regulation/13/2) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1202/regulation/4)
 
-[^key-d9719f28aa37cfe314d0d61959a39708]: Textual amendment: Words in reg. 15(1) inserted (29.4.2020) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/449)](https://www.legislation.gov.uk/uksi/2020/449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/449/regulation/1/3), [3(3)(a)](https://www.legislation.gov.uk/uksi/2020/449/regulation/3/3/a)
+[^c-d9719f28aa37cfe314d0d61959a39708]: Textual amendment: Words in reg. 15(1) inserted (29.4.2020) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/449)](https://www.legislation.gov.uk/uksi/2020/449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/449/regulation/1/3), [3(3)(a)](https://www.legislation.gov.uk/uksi/2020/449/regulation/3/3/a)
 
-[^key-faacdd5e4c8ac741718b06a761427f35]: Textual amendment: Words in reg. 15(1) substituted (31.3.2021) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/262)](https://www.legislation.gov.uk/uksi/2021/262), [regs. 1](https://www.legislation.gov.uk/uksi/2021/262/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2021/262/regulation/3/3/a)
+[^c-faacdd5e4c8ac741718b06a761427f35]: Textual amendment: Words in reg. 15(1) substituted (31.3.2021) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/262)](https://www.legislation.gov.uk/uksi/2021/262), [regs. 1](https://www.legislation.gov.uk/uksi/2021/262/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2021/262/regulation/3/3/a)
 
-[^key-03f51071da3a6a97fd7fd9459bdc6f0f]: Textual amendment: Word in reg. 15(1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [12(3)(a)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/3/a)
+[^c-03f51071da3a6a97fd7fd9459bdc6f0f]: Textual amendment: Word in reg. 15(1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [12(3)(a)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/3/a)
 
-[^key-50a7785654f95efed395a436026b82b8]: Textual amendment: Word in reg. 15(1)(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [12(3)(b)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/3/b)
+[^c-50a7785654f95efed395a436026b82b8]: Textual amendment: Word in reg. 15(1)(b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [12(3)(b)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/3/b)
 
-[^key-e520ce241c3294dcc1389a7ca2ad9e32]: Textual amendment: Reg. 15(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [12(3)(c)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/3/c)
+[^c-e520ce241c3294dcc1389a7ca2ad9e32]: Textual amendment: Reg. 15(3) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [12(3)(c)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/3/c)
 
-[^key-4026b0fb4945447ba7c3237505b29636]: Textual amendment: Words in reg. 15(3) inserted (29.4.2020) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/449)](https://www.legislation.gov.uk/uksi/2020/449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/449/regulation/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/449/regulation/3/3/b)
+[^c-4026b0fb4945447ba7c3237505b29636]: Textual amendment: Words in reg. 15(3) inserted (29.4.2020) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/449)](https://www.legislation.gov.uk/uksi/2020/449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/449/regulation/1/3), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/449/regulation/3/3/b)
 
 [^c21673191]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-f7881d28312e0840dc7ac1f5c1756c63]: Textual amendment: Reg. 15(7)(8) inserted (29.4.2020) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/449)](https://www.legislation.gov.uk/uksi/2020/449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/449/regulation/1/3), [3(3)(c)](https://www.legislation.gov.uk/uksi/2020/449/regulation/3/3/c)
+[^c-f7881d28312e0840dc7ac1f5c1756c63]: Textual amendment: Reg. 15(7)(8) inserted (29.4.2020) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2020 (S.I. 2020/449)](https://www.legislation.gov.uk/uksi/2020/449), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/449/regulation/1/3), [3(3)(c)](https://www.legislation.gov.uk/uksi/2020/449/regulation/3/3/c)
 
-[^key-2f5a2733881168b1c4cd0e2137653941]: Textual amendment: Reg. 15(9)-(12) inserted (31.3.2021) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/262)](https://www.legislation.gov.uk/uksi/2021/262), [regs. 1](https://www.legislation.gov.uk/uksi/2021/262/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/262/regulation/3/3/b)
+[^c-2f5a2733881168b1c4cd0e2137653941]: Textual amendment: Reg. 15(9)-(12) inserted (31.3.2021) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/262)](https://www.legislation.gov.uk/uksi/2021/262), [regs. 1](https://www.legislation.gov.uk/uksi/2021/262/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2021/262/regulation/3/3/b)
 
 [^c21673201]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8)
 
 [^c21673211]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46)
 
-[^key-9d219933029cf9c0d9b020733a362960]: Textual amendment: Formula in Sch. 1 para. 1(1) substituted (27.3.2026) by The Non-[Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/a/i)
+[^c-9d219933029cf9c0d9b020733a362960]: Textual amendment: Formula in Sch. 1 para. 1(1) substituted (27.3.2026) by The Non-[Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(a)(i)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/a/i)
 
-[^key-35810af1e10a4b2b6865b8b5b1f705ec]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/1) omitted (27.3.2026) by virtue of [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/a/ii)
+[^c-35810af1e10a4b2b6865b8b5b1f705ec]: Textual amendment: Word in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/1) omitted (27.3.2026) by virtue of [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(a)(ii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/a/ii)
 
-[^key-f8ff35d1e78f9c72db12eaa482ef64f2]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/1) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(a)(iii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/a/iii)
+[^c-f8ff35d1e78f9c72db12eaa482ef64f2]: Textual amendment: Words in [Sch. 1 para. 1(1)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/1) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(a)(iii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/a/iii)
 
-[^key-02cf9711558b69614230d83882ec46ce]: Textual amendment: [Sch. 1 para. 1(1A)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/1A)[(1B)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/1B) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/b)
+[^c-02cf9711558b69614230d83882ec46ce]: Textual amendment: [Sch. 1 para. 1(1A)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/1A)[(1B)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/1B) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/b)
 
-[^key-3dd99efe2f0e89f3b7388951052f9e2b]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(c)(i)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/c/i)
+[^c-3dd99efe2f0e89f3b7388951052f9e2b]: Textual amendment: Words in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(c)(i)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/c/i)
 
-[^key-6be4544f620a7be452a9cce6813500ec]: Textual amendment: Words in [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2/a) substituted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/5/a)
+[^c-6be4544f620a7be452a9cce6813500ec]: Textual amendment: Words in [Sch. 1 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2/a) substituted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/5/a)
 
-[^key-68a4181d8fa588b6f9bb536e6180e52a]: Textual amendment: [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2/b) substituted (7.3.2023) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2023 (S.I. 2023/268)](https://www.legislation.gov.uk/uksi/2023/268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/268/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/268/regulation/3)
+[^c-68a4181d8fa588b6f9bb536e6180e52a]: Textual amendment: [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2/b) substituted (7.3.2023) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2023 (S.I. 2023/268)](https://www.legislation.gov.uk/uksi/2023/268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/268/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/268/regulation/3)
 
-[^key-09e5a6bf112a2ac8fc7615ce4dc8a0fc]: Textual amendment: [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2/b)[(iia)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2/iia) inserted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/5/b)
+[^c-09e5a6bf112a2ac8fc7615ce4dc8a0fc]: Textual amendment: [Sch. 1 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2/b)[(iia)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2/iia) inserted (8.3.2024) by [The Non-Domestic Rating (Rates Retention: Miscellaneous Amendments) Regulations 2024 (S.I. 2024/324)](https://www.legislation.gov.uk/uksi/2024/324), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/324/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2024/324/regulation/2/5/b)
 
-[^key-2823835b89ef17bc0dd42a07ea3b334a]: Textual amendment: Words in [Sch. 1 para. 1(2)(b)(iia)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2/iia) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(c)(ii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/c/ii)
+[^c-2823835b89ef17bc0dd42a07ea3b334a]: Textual amendment: Words in [Sch. 1 para. 1(2)(b)(iia)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2/iia) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(c)(ii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/c/ii)
 
-[^key-455552f0e56ff59a4a84d66fecb2f54b]: Textual amendment: [Sch. 1 para. 1(2)(iib)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2/iib) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(c)(iii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/c/iii)
+[^c-455552f0e56ff59a4a84d66fecb2f54b]: Textual amendment: [Sch. 1 para. 1(2)(iib)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/1/2/iib) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(c)(iii)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/c/iii)
 
-[^key-ac74221aa9bbe8d008fb4847702950db]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/2/3) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/d)
+[^c-ac74221aa9bbe8d008fb4847702950db]: Textual amendment: [Sch. 1 para. 2(3)](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/paragraph/2/3) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [10(d)](https://www.legislation.gov.uk/uksi/2026/374/regulation/10/d)
 
-[^key-7b13da3da520541be0fac7450fa8a69b]: Textual amendment: Sch. 1 Pt. 2 Table substituted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [12(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/4)
+[^c-7b13da3da520541be0fac7450fa8a69b]: Textual amendment: Sch. 1 Pt. 2 Table substituted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [12(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/4)
 
-[^key-1f3ea0dd9bca50caa33b33ecd6eb189a]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/part/2) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Rates Retention, Levy and Safety Net and Levy Account: Basis of Distribution) (Amendment) Regulations 2020 (S.I. 2020/1357)](https://www.legislation.gov.uk/uksi/2020/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/3/a)
+[^c-1f3ea0dd9bca50caa33b33ecd6eb189a]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/part/2) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Rates Retention, Levy and Safety Net and Levy Account: Basis of Distribution) (Amendment) Regulations 2020 (S.I. 2020/1357)](https://www.legislation.gov.uk/uksi/2020/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/3/a)
 
-[^key-46faf3f82d984900dae0350a06f3810a]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/part/2) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Rates Retention, Levy and Safety Net and Levy Account: Basis of Distribution) (Amendment) Regulations 2020 (S.I. 2020/1357)](https://www.legislation.gov.uk/uksi/2020/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/3/b)
+[^c-46faf3f82d984900dae0350a06f3810a]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/part/2) substituted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Rates Retention, Levy and Safety Net and Levy Account: Basis of Distribution) (Amendment) Regulations 2020 (S.I. 2020/1357)](https://www.legislation.gov.uk/uksi/2020/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/3/b)
 
-[^key-ba28e28446a81bc586c1a0459236d4ad]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/part/2) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Rates Retention, Levy and Safety Net and Levy Account: Basis of Distribution) (Amendment) Regulations 2020 (S.I. 2020/1357)](https://www.legislation.gov.uk/uksi/2020/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/3/c)
+[^c-ba28e28446a81bc586c1a0459236d4ad]: Textual amendment: Words in [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/part/2) inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Non-Domestic Rating (Rates Retention, Levy and Safety Net and Levy Account: Basis of Distribution) (Amendment) Regulations 2020 (S.I. 2020/1357)](https://www.legislation.gov.uk/uksi/2020/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/3/c)
 
-[^key-dab727197565ffc8c774dbd4834c9651]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/part/3) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/374/schedule/1)
+[^c-dab727197565ffc8c774dbd4834c9651]: Textual amendment: [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2013/452/schedule/1/part/3) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/374/schedule/1)
 
-[^key-f4e2ba59a0cd035bd39d639b7a7fcf58]: Textual amendment: Words in Sch. 2 para. 1(1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [12(5)(a)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/5/a)
+[^c-f4e2ba59a0cd035bd39d639b7a7fcf58]: Textual amendment: Words in Sch. 2 para. 1(1) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/2), [12(5)(a)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/5/a)
 
-[^key-246288ee3d9803aad0dab839f9cdfed7]: Textual amendment: Words in Sch. 2 para. 1(1) substituted (E.) (1.4.2016) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2016 (S.I. 2016/317)](https://www.legislation.gov.uk/uksi/2016/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/6/2)
+[^c-246288ee3d9803aad0dab839f9cdfed7]: Textual amendment: Words in Sch. 2 para. 1(1) substituted (E.) (1.4.2016) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2016 (S.I. 2016/317)](https://www.legislation.gov.uk/uksi/2016/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2016/317/regulation/6/2)
 
-[^key-92db524fba9f57930dd650e4275acaf5]: Textual amendment: Word in Sch. 2 para. 1(1) substituted (E.) (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/6/2)
+[^c-92db524fba9f57930dd650e4275acaf5]: Textual amendment: Word in Sch. 2 para. 1(1) substituted (E.) (1.4.2017) by [The Non-Domestic Rating (Designated Areas etc.) Regulations 2017 (S.I. 2017/318)](https://www.legislation.gov.uk/uksi/2017/318), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2017/318/regulation/6/2)
 
-[^key-0f084479511616ace56a3085b3e0fd1e]: Textual amendment: [Sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/452/schedule/2/paragraph/1/2/b) substituted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2018/463/regulation/7)
+[^c-0f084479511616ace56a3085b3e0fd1e]: Textual amendment: [Sch. 2 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2013/452/schedule/2/paragraph/1/2/b) substituted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2018/463/regulation/7)
 
-[^key-0a47f04491ef7edf3a6684b3d09119c4]: Textual amendment: Words in Sch. 2 para. 2(1)(b) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Rates Retention and Renewable Energy Projects) (Amendment) Regulations 2024 (S.I. 2024/184)](https://www.legislation.gov.uk/uksi/2024/184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/184/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/184/regulation/2)
+[^c-0a47f04491ef7edf3a6684b3d09119c4]: Textual amendment: Words in Sch. 2 para. 2(1)(b) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Rates Retention and Renewable Energy Projects) (Amendment) Regulations 2024 (S.I. 2024/184)](https://www.legislation.gov.uk/uksi/2024/184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/184/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/184/regulation/2)
 
-[^key-b71b2ac0ba37d8878b33a4af5a16ed94]: Textual amendment: Words in Sch. 2 para. 3(1) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2019/709/regulation/7/a)
+[^c-b71b2ac0ba37d8878b33a4af5a16ed94]: Textual amendment: Words in Sch. 2 para. 3(1) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2019/709/regulation/7/a)
 
-[^key-436445a3d9d430de63b8c91676318d33]: Textual amendment: Words in Sch. 2 para. 3(1)(b) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Rates Retention and Renewable Energy Projects) (Amendment) Regulations 2024 (S.I. 2024/184)](https://www.legislation.gov.uk/uksi/2024/184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/184/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/184/regulation/2)
+[^c-436445a3d9d430de63b8c91676318d33]: Textual amendment: Words in Sch. 2 para. 3(1)(b) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Rates Retention and Renewable Energy Projects) (Amendment) Regulations 2024 (S.I. 2024/184)](https://www.legislation.gov.uk/uksi/2024/184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/184/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/184/regulation/2)
 
-[^key-d9dc30b834a4325b19f965180607d4f3]: Textual amendment: Sch. 2 para. 3(1A) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2019/709/regulation/7/b)
+[^c-d9dc30b834a4325b19f965180607d4f3]: Textual amendment: Sch. 2 para. 3(1A) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2019/709/regulation/7/b)
 
-[^key-ad202d2a124e992f37d851d9b3d67301]: Textual amendment: Words in Sch. 2 para. 3(1A)(b) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Rates Retention and Renewable Energy Projects) (Amendment) Regulations 2024 (S.I. 2024/184)](https://www.legislation.gov.uk/uksi/2024/184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/184/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/184/regulation/2)
+[^c-ad202d2a124e992f37d851d9b3d67301]: Textual amendment: Words in Sch. 2 para. 3(1A)(b) omitted (1.4.2024) by virtue of [The Non-Domestic Rating (Rates Retention and Renewable Energy Projects) (Amendment) Regulations 2024 (S.I. 2024/184)](https://www.legislation.gov.uk/uksi/2024/184), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/184/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2024/184/regulation/2)
 
-[^key-3a759e736644d7899e638bff303990d6]: Textual amendment: Schs. 2A, 2B inserted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1268/schedule)
+[^c-3a759e736644d7899e638bff303990d6]: Textual amendment: Schs. 2A, 2B inserted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1268/schedule)
 
-[^key-7130c794882f1db4e3f8dc42cd4a6a34]: Textual amendment: Words in Sch. 2A para. 1(1) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/8/a)
+[^c-7130c794882f1db4e3f8dc42cd4a6a34]: Textual amendment: Words in Sch. 2A para. 1(1) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/8/a)
 
-[^key-4d3cb4631d809f79b4dde5fd9aee1520]: Textual amendment: Words in [Sch. 2A para. 1(1)](https://www.legislation.gov.uk/uksi/2013/452/schedule/2A/paragraph/1/1) substituted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2017/1321/regulation/9)
+[^c-4d3cb4631d809f79b4dde5fd9aee1520]: Textual amendment: Words in [Sch. 2A para. 1(1)](https://www.legislation.gov.uk/uksi/2013/452/schedule/2A/paragraph/1/1) substituted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2017/1321/regulation/9)
 
-[^key-e7959e54deba83b657e8f44fe69d6dc1]: Textual amendment: Sch. 2A para. 1(1A) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2017/496/regulation/8/b)
+[^c-e7959e54deba83b657e8f44fe69d6dc1]: Textual amendment: Sch. 2A para. 1(1A) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2017/496/regulation/8/b)
 
-[^key-cb3b08af301fa040099e77e536db2f09]: Textual amendment: [Sch. 2C](https://www.legislation.gov.uk/uksi/2013/452/schedule/2C) inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2017/1321/schedule)
+[^c-cb3b08af301fa040099e77e536db2f09]: Textual amendment: [Sch. 2C](https://www.legislation.gov.uk/uksi/2013/452/schedule/2C) inserted (19.1.2018) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2017 (S.I. 2017/1321)](https://www.legislation.gov.uk/uksi/2017/1321), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1321/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2017/1321/schedule)
 
-[^key-8bee08a28c582ceff964ca243673dcb8]: Textual amendment: Words in [Sch. 2C para. 1(1)](https://www.legislation.gov.uk/uksi/2013/452/schedule/2C/paragraph/1/1) substituted (31.3.2021) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/262)](https://www.legislation.gov.uk/uksi/2021/262), [regs. 1](https://www.legislation.gov.uk/uksi/2021/262/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2021/262/regulation/3/4/a)
+[^c-8bee08a28c582ceff964ca243673dcb8]: Textual amendment: Words in [Sch. 2C para. 1(1)](https://www.legislation.gov.uk/uksi/2013/452/schedule/2C/paragraph/1/1) substituted (31.3.2021) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/262)](https://www.legislation.gov.uk/uksi/2021/262), [regs. 1](https://www.legislation.gov.uk/uksi/2021/262/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2021/262/regulation/3/4/a)
 
-[^key-954f381fdd8a7751bd49b48f464571f5]: Textual amendment: [Sch. 2C para. 1(2A)](https://www.legislation.gov.uk/uksi/2013/452/schedule/2C/paragraph/1/2A) inserted (31.3.2021) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/262)](https://www.legislation.gov.uk/uksi/2021/262), [regs. 1](https://www.legislation.gov.uk/uksi/2021/262/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2021/262/regulation/3/4/b)
+[^c-954f381fdd8a7751bd49b48f464571f5]: Textual amendment: [Sch. 2C para. 1(2A)](https://www.legislation.gov.uk/uksi/2013/452/schedule/2C/paragraph/1/2A) inserted (31.3.2021) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/262)](https://www.legislation.gov.uk/uksi/2021/262), [regs. 1](https://www.legislation.gov.uk/uksi/2021/262/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2021/262/regulation/3/4/b)
 
 [^M_F_75e3f0b4-cf67-47a0-8c8d-1941a4e1e5d2]: Textual amendment: Formula in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/452/schedule/3) substituted (27.3.2026) by The Non-[Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2026/374/regulation/12/b)
 
-[^key-42cec7a987ad4255603195c21afe4305]: Textual amendment: Words in Sch. 3 substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/9/a)
+[^c-42cec7a987ad4255603195c21afe4305]: Textual amendment: Words in Sch. 3 substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/9/a)
 
-[^key-4140a43b5bade8b0cf1e04b9970937f1]: Textual amendment: Words in Sch. 3 substituted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [12(6)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/6)
+[^c-4140a43b5bade8b0cf1e04b9970937f1]: Textual amendment: Words in Sch. 3 substituted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [12(6)](https://www.legislation.gov.uk/uksi/2015/628/regulation/12/6)
 
-[^key-5135e07163b8876d0107b8cd6c571a61]: Textual amendment: Words in Sch. 3 substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2019/709/regulation/8/a)
+[^c-5135e07163b8876d0107b8cd6c571a61]: Textual amendment: Words in Sch. 3 substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2019/709/regulation/8/a)
 
-[^key-3b150b0fcf08faf385b218bec3056392]: Textual amendment: Words in Sch. 3 substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2017/496/regulation/9/b)
+[^c-3b150b0fcf08faf385b218bec3056392]: Textual amendment: Words in Sch. 3 substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2017/496/regulation/9/b)
 
-[^key-982dcfcc75bf90b4caad30959295e3a3]: Textual amendment: Words in Sch. 3 substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2017/496/regulation/9/c)
+[^c-982dcfcc75bf90b4caad30959295e3a3]: Textual amendment: Words in Sch. 3 substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2017/496/regulation/9/c)
 
-[^key-6c7b2d6d2929de2c270f90a641f251db]: Textual amendment: Words in Sch. 3 substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [9(d)](https://www.legislation.gov.uk/uksi/2017/496/regulation/9/d)
+[^c-6c7b2d6d2929de2c270f90a641f251db]: Textual amendment: Words in Sch. 3 substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [9(d)](https://www.legislation.gov.uk/uksi/2017/496/regulation/9/d)
 
-[^key-37a378f815193f2b51d6b0735342b2c5]: Textual amendment: Words in Sch. 3 inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [9(e)](https://www.legislation.gov.uk/uksi/2017/496/regulation/9/e)
+[^c-37a378f815193f2b51d6b0735342b2c5]: Textual amendment: Words in Sch. 3 inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [9(e)](https://www.legislation.gov.uk/uksi/2017/496/regulation/9/e)
 
-[^key-80c5c1635f048b1796b954f0b9b6e143]: Textual amendment: Words in Sch. 3 inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2018/463/regulation/8/b)
+[^c-80c5c1635f048b1796b954f0b9b6e143]: Textual amendment: Words in Sch. 3 inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2018/463/regulation/8/b)
 
-[^key-e8406f3b05b30b48dae51acd81b24d3d]: Textual amendment: Words in Sch. 3 inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2019/709/regulation/8/b)
+[^c-e8406f3b05b30b48dae51acd81b24d3d]: Textual amendment: Words in Sch. 3 inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [8(b)](https://www.legislation.gov.uk/uksi/2019/709/regulation/8/b)
 
-[^key-d32bab5abb78e15a2ae3953edfb5a3c6]: Textual amendment: Words in Sch. 3 substituted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [11(6)](https://www.legislation.gov.uk/uksi/2015/628/regulation/11/6)
+[^c-d32bab5abb78e15a2ae3953edfb5a3c6]: Textual amendment: Words in Sch. 3 substituted (10.3.2015) by [The Non-Domestic Rating (Shale Oil and Gas and Miscellaneous Amendments) Regulations 2015 (S.I. 2015/628)](https://www.legislation.gov.uk/uksi/2015/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2015/628/regulation/1/4), [11(6)](https://www.legislation.gov.uk/uksi/2015/628/regulation/11/6)
 
-[^key-3a77b65dfc45ea0a939b07e9adc049fd]: Textual amendment: Word in Sch. 3 omitted (26.3.2021) by virtue of [The Non-Domestic Rating (Designated Area) Regulations 2021 (S.I. 2021/404)](https://www.legislation.gov.uk/uksi/2021/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2021/404/regulation/5/6/a)
+[^c-3a77b65dfc45ea0a939b07e9adc049fd]: Textual amendment: Word in Sch. 3 omitted (26.3.2021) by virtue of [The Non-Domestic Rating (Designated Area) Regulations 2021 (S.I. 2021/404)](https://www.legislation.gov.uk/uksi/2021/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/1/2), [5(6)(a)](https://www.legislation.gov.uk/uksi/2021/404/regulation/5/6/a)
 
-[^key-6708bf6cfea9704182828b8135c9cd12]: Textual amendment: Words in Sch. 3 inserted (26.3.2021) by [The Non-Domestic Rating (Designated Area) Regulations 2021 (S.I. 2021/404)](https://www.legislation.gov.uk/uksi/2021/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2021/404/regulation/5/6/b)
+[^c-6708bf6cfea9704182828b8135c9cd12]: Textual amendment: Words in Sch. 3 inserted (26.3.2021) by [The Non-Domestic Rating (Designated Area) Regulations 2021 (S.I. 2021/404)](https://www.legislation.gov.uk/uksi/2021/404), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/404/regulation/1/2), [5(6)(b)](https://www.legislation.gov.uk/uksi/2021/404/regulation/5/6/b)
 
-[^key-cd9c1cdb19a09c0136c4864dbe4ed8c9]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/452/schedule/3) substituted (27.3.2026) by The Non-[Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2026/374/regulation/12/b)
+[^c-cd9c1cdb19a09c0136c4864dbe4ed8c9]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/452/schedule/3) substituted (27.3.2026) by The Non-[Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2026/374/regulation/12/b)
 
-[^key-db28c69a071f951f7da04ba9b3c914df]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/452/schedule/3) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2026/374/regulation/12/c)
+[^c-db28c69a071f951f7da04ba9b3c914df]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/452/schedule/3) substituted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [12(c)](https://www.legislation.gov.uk/uksi/2026/374/regulation/12/c)
 
-[^key-088b2d14212daba4ed12dd13e4084f00]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/452/schedule/3) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [12(d)](https://www.legislation.gov.uk/uksi/2026/374/regulation/12/d)
+[^c-088b2d14212daba4ed12dd13e4084f00]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2013/452/schedule/3) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [12(d)](https://www.legislation.gov.uk/uksi/2026/374/regulation/12/d)
 
-[^key-9e58649b311bc91b8c0d518509cea8bf]: Textual amendment: Words in [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/uksi/2013/452/schedule/4/paragraph/1/3) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/2)
+[^c-9e58649b311bc91b8c0d518509cea8bf]: Textual amendment: Words in [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/uksi/2013/452/schedule/4/paragraph/1/3) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/2)
 
-[^key-62cff002b8ff841d3e2064226cd80069]: Textual amendment: [Sch. 4 para. 1(3)(f)](https://www.legislation.gov.uk/uksi/2013/452/schedule/4/paragraph/1/3/f) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2026/374/regulation/13)
+[^c-62cff002b8ff841d3e2064226cd80069]: Textual amendment: [Sch. 4 para. 1(3)(f)](https://www.legislation.gov.uk/uksi/2013/452/schedule/4/paragraph/1/3/f) inserted (27.3.2026) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net: Miscellaneous Amendments) Regulations 2026 (S.I. 2026/374)](https://www.legislation.gov.uk/uksi/2026/374), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/374/regulation/1/1), [13](https://www.legislation.gov.uk/uksi/2026/374/regulation/13)
 
-[^key-9b5b3ce5ae544f10fa20ac7976b95fb4]: Textual amendment: Words in Sch. 4 para. 1(4)(d) substituted (30.1.2014) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2014 (S.I. 2014/96)](https://www.legislation.gov.uk/uksi/2014/96), [regs. 1](https://www.legislation.gov.uk/uksi/2014/96/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/96/regulation/2/2)
+[^c-9b5b3ce5ae544f10fa20ac7976b95fb4]: Textual amendment: Words in Sch. 4 para. 1(4)(d) substituted (30.1.2014) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2014 (S.I. 2014/96)](https://www.legislation.gov.uk/uksi/2014/96), [regs. 1](https://www.legislation.gov.uk/uksi/2014/96/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/96/regulation/2/2)
 
-[^key-e9153bb7d3892a5696569db6a9a7f00f]: Textual amendment: Words in Sch. 4 para. 1(4)(f) inserted (30.1.2014) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2014 (S.I. 2014/96)](https://www.legislation.gov.uk/uksi/2014/96), [regs. 1](https://www.legislation.gov.uk/uksi/2014/96/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/96/regulation/2/3)
+[^c-e9153bb7d3892a5696569db6a9a7f00f]: Textual amendment: Words in Sch. 4 para. 1(4)(f) inserted (30.1.2014) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2014 (S.I. 2014/96)](https://www.legislation.gov.uk/uksi/2014/96), [regs. 1](https://www.legislation.gov.uk/uksi/2014/96/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/96/regulation/2/3)
 
-[^key-bfe9fded45bf8f39ca288a7cf8d09c2a]: Textual amendment: Sch. 4 para. 1A inserted (30.1.2014) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2014 (S.I. 2014/96)](https://www.legislation.gov.uk/uksi/2014/96), [regs. 1](https://www.legislation.gov.uk/uksi/2014/96/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/96/regulation/2/4)
+[^c-bfe9fded45bf8f39ca288a7cf8d09c2a]: Textual amendment: Sch. 4 para. 1A inserted (30.1.2014) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2014 (S.I. 2014/96)](https://www.legislation.gov.uk/uksi/2014/96), [regs. 1](https://www.legislation.gov.uk/uksi/2014/96/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/96/regulation/2/4)
 
-[^key-384f03da9f08b78edeeee2dc050b3111]: Textual amendment: [Sch. 4 para. 1B](https://www.legislation.gov.uk/uksi/2013/452/schedule/4/paragraph/1B) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/3)
+[^c-384f03da9f08b78edeeee2dc050b3111]: Textual amendment: [Sch. 4 para. 1B](https://www.legislation.gov.uk/uksi/2013/452/schedule/4/paragraph/1B) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/3)
 
-[^key-c06c9d7c7a21c79d9b29730355504dee]: Textual amendment: Words in Sch. 4 para. 2(1) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/10/2)
+[^c-c06c9d7c7a21c79d9b29730355504dee]: Textual amendment: Words in Sch. 4 para. 2(1) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [10(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/10/2)
 
-[^key-4262194ce08d14eeede293ca9620c92f]: Textual amendment: Words in Sch. 4 para. 2(1) substituted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/2)
+[^c-4262194ce08d14eeede293ca9620c92f]: Textual amendment: Words in Sch. 4 para. 2(1) substituted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/2)
 
-[^key-ce2523a95d074595dcc4354ddf5350d0]: Textual amendment: Words in Sch. 4 para. 2(1) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/2)
+[^c-ce2523a95d074595dcc4354ddf5350d0]: Textual amendment: Words in Sch. 4 para. 2(1) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/2)
 
-[^key-08d912830155abb95233fa3f69fdc957]: Textual amendment: Sch. 4 para. 2(1A)-(1D) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2017/496/regulation/10/3)
+[^c-08d912830155abb95233fa3f69fdc957]: Textual amendment: Sch. 4 para. 2(1A)-(1D) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [10(3)](https://www.legislation.gov.uk/uksi/2017/496/regulation/10/3)
 
-[^key-4216c7dedeb23bb8dd93eca71efdacec]: Textual amendment: Sch. 4 para. 2(1C) substituted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/3)
+[^c-4216c7dedeb23bb8dd93eca71efdacec]: Textual amendment: Sch. 4 para. 2(1C) substituted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/3)
 
-[^key-76ff65c8fc7ff86a23b38024b8798843]: Textual amendment: Sch. 4 para. 2(1E)-(1H) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/4)
+[^c-76ff65c8fc7ff86a23b38024b8798843]: Textual amendment: Sch. 4 para. 2(1E)-(1H) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/4)
 
-[^key-7e4a9de3d78f4993856e38c39d26609f]: Textual amendment: Formula in Sch. 4 para. 2(1F) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/3)
+[^c-7e4a9de3d78f4993856e38c39d26609f]: Textual amendment: Formula in Sch. 4 para. 2(1F) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(3)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/3)
 
-[^key-a5ebf9bcfebf3a75eb390eb6bc608b28]: Textual amendment: Sch. 4 para. 2(1FA) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/4)
+[^c-a5ebf9bcfebf3a75eb390eb6bc608b28]: Textual amendment: Sch. 4 para. 2(1FA) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(4)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/4)
 
-[^key-1d2c627e92a766b363904dfe8f1148cb]: Textual amendment: Words in Sch. 4 para. 2(1G) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/5)
+[^c-1d2c627e92a766b363904dfe8f1148cb]: Textual amendment: Words in Sch. 4 para. 2(1G) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(5)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/5)
 
-[^key-3a23ce8ab941a0690471c4c6c888b074]: Textual amendment: Sch. 4 para. 2(1GA) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/6)
+[^c-3a23ce8ab941a0690471c4c6c888b074]: Textual amendment: Sch. 4 para. 2(1GA) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/6)
 
-[^key-db84e533d0a7820cac84657821ebc2f7]: Textual amendment: Sch. 4 para. 2(1H)-(1J) substituted for Sch. 4 para. 2(1H) (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/7)
+[^c-db84e533d0a7820cac84657821ebc2f7]: Textual amendment: Sch. 4 para. 2(1H)-(1J) substituted for Sch. 4 para. 2(1H) (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/7)
 
-[^key-62f4744511ce595068f59df9610465ae]: Textual amendment: Words in Sch. 4 para. 2(1H) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/4/a)
+[^c-62f4744511ce595068f59df9610465ae]: Textual amendment: Words in Sch. 4 para. 2(1H) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/4/a)
 
-[^key-245435f5291bc323fcb67fc3e7f6b292]: Textual amendment: Words in Sch. 4 para. 2(1I) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/4/a)
+[^c-245435f5291bc323fcb67fc3e7f6b292]: Textual amendment: Words in Sch. 4 para. 2(1I) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(4)(a)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/4/a)
 
-[^key-8928a431b2d5804f1ba2e3fe37de55c3]: Textual amendment: Words in Sch. 4 para. 2(2) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/10/4/a)
+[^c-8928a431b2d5804f1ba2e3fe37de55c3]: Textual amendment: Words in Sch. 4 para. 2(2) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [10(4)(a)](https://www.legislation.gov.uk/uksi/2017/496/regulation/10/4/a)
 
-[^key-ecd7326fa709c9bea939fd976370c04e]: Textual amendment: Words in Sch. 4 para. 2(2) substituted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/5/a)
+[^c-ecd7326fa709c9bea939fd976370c04e]: Textual amendment: Words in Sch. 4 para. 2(2) substituted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(5)(a)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/5/a)
 
-[^key-81732eef6106d08da2471af21e8b4aa5]: Textual amendment: Words in Sch. 4 para. 2(2) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/8)
+[^c-81732eef6106d08da2471af21e8b4aa5]: Textual amendment: Words in Sch. 4 para. 2(2) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/8)
 
-[^key-8f7ff191a1e0a041108f7c9a716bb7c9]: Textual amendment: Words in Sch. 4 para. 2(2) substituted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(5)(b)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/5/b)
+[^c-8f7ff191a1e0a041108f7c9a716bb7c9]: Textual amendment: Words in Sch. 4 para. 2(2) substituted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(5)(b)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/5/b)
 
-[^key-2bfbb76cabdda89160c9dbba4e61daa7]: Textual amendment: Sch. 4 para. 2(2A)(2B) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2017/496/regulation/10/5)
+[^c-2bfbb76cabdda89160c9dbba4e61daa7]: Textual amendment: Sch. 4 para. 2(2A)(2B) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [10(5)](https://www.legislation.gov.uk/uksi/2017/496/regulation/10/5)
 
-[^key-87e0425b10c0cbf7c2d2571aeb0ddc54]: Textual amendment: Sch. 4 para. 2(2A)(c)(d) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/6)
+[^c-87e0425b10c0cbf7c2d2571aeb0ddc54]: Textual amendment: Sch. 4 para. 2(2A)(c)(d) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(6)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/6)
 
-[^key-548f403e717bc7259d107ef87484439f]: Textual amendment: Formula in Sch. 4 para. 2(2A)(d) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(9)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/9)
+[^c-548f403e717bc7259d107ef87484439f]: Textual amendment: Formula in Sch. 4 para. 2(2A)(d) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(9)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/9)
 
-[^key-6027f3c7fa5bf2578e549d50b296af1d]: Textual amendment: Sch. 4 para. 2(2A)(e) inserted (28.3.2019) by The Non-[Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(10)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/10)
+[^c-6027f3c7fa5bf2578e549d50b296af1d]: Textual amendment: Sch. 4 para. 2(2A)(e) inserted (28.3.2019) by The Non-[Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(10)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/10)
 
-[^key-639bfce8397884b253ec169d8ca2ef3b]: Textual amendment: Words in Sch. 4 para. 2(2A)(e) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/4/b)
+[^c-639bfce8397884b253ec169d8ca2ef3b]: Textual amendment: Words in Sch. 4 para. 2(2A)(e) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(4)(b)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/4/b)
 
-[^key-900fd4b2e690e4d3d71729c822ffa8ae]: Textual amendment: Sch. 4 para. 2(2C)(2D) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/7)
+[^c-900fd4b2e690e4d3d71729c822ffa8ae]: Textual amendment: Sch. 4 para. 2(2C)(2D) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(7)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/7)
 
-[^key-04a9d85e843ed023e84b34b7fdab9241]: Textual amendment: Sch. 4 para. 2(2E) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(11)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/11)
+[^c-04a9d85e843ed023e84b34b7fdab9241]: Textual amendment: Sch. 4 para. 2(2E) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(11)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/11)
 
-[^key-2e5a72528ef1b5c39fb26ff3b891f740]: Textual amendment: Words in Sch. 4 para. 2(2E) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/4/c)
+[^c-2e5a72528ef1b5c39fb26ff3b891f740]: Textual amendment: Words in Sch. 4 para. 2(2E) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/4/c)
 
-[^key-77622bc5b3c4a106b7224cf923a0e581]: Textual amendment: Words in Sch. 4 para. 2(3) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2017/496/regulation/10/6)
+[^c-77622bc5b3c4a106b7224cf923a0e581]: Textual amendment: Words in Sch. 4 para. 2(3) substituted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [10(6)](https://www.legislation.gov.uk/uksi/2017/496/regulation/10/6)
 
-[^key-ce584d53d56688e096a9b144b673aa09]: Textual amendment: Sch. 4 para. 2(3)(a) substituted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2016/1268/regulation/11)
+[^c-ce584d53d56688e096a9b144b673aa09]: Textual amendment: Sch. 4 para. 2(3)(a) substituted (16.1.2017) by [The Non-Domestic Rating (Rates Retention) (Amendment) Regulations 2016 (S.I. 2016/1268)](https://www.legislation.gov.uk/uksi/2016/1268), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1268/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2016/1268/regulation/11)
 
-[^key-8d067d82dff5d4674ece4af8a4b32ea0]: Textual amendment: Sch. 4 para. 2(4)-(8) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [10(7)](https://www.legislation.gov.uk/uksi/2017/496/regulation/10/7)
+[^c-8d067d82dff5d4674ece4af8a4b32ea0]: Textual amendment: Sch. 4 para. 2(4)-(8) inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [10(7)](https://www.legislation.gov.uk/uksi/2017/496/regulation/10/7)
 
-[^key-fa90a0cda1a496fffa3058b297b5a1aa]: Textual amendment: Sch. 4 para. 2(7A) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/8)
+[^c-fa90a0cda1a496fffa3058b297b5a1aa]: Textual amendment: Sch. 4 para. 2(7A) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(8)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/8)
 
-[^key-f75e7246fc05be6b17aa035f9a5faf67]: Textual amendment: Sch. 4 para. 2(7B)(7C) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(12)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/12)
+[^c-f75e7246fc05be6b17aa035f9a5faf67]: Textual amendment: Sch. 4 para. 2(7B)(7C) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(12)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/12)
 
-[^key-d2a5e20d69a1866cdcf7d81596077acc]: Textual amendment: Words in Sch. 4 para. 2(7C) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/4/c)
+[^c-d2a5e20d69a1866cdcf7d81596077acc]: Textual amendment: Words in Sch. 4 para. 2(7C) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(4)(c)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/4/c)
 
-[^key-d6727f9fbdc0ab002c49c58fe5e9cfb3]: Textual amendment: Words in Sch. 4 para. 2(8) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(9)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/9)
+[^c-d6727f9fbdc0ab002c49c58fe5e9cfb3]: Textual amendment: Words in Sch. 4 para. 2(8) inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [9(9)](https://www.legislation.gov.uk/uksi/2018/463/regulation/9/9)
 
-[^key-9026bdd051083cc00254db0cfd54785c]: Textual amendment: Word in Sch. 4 para. 2(8) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(i)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/i)
+[^c-9026bdd051083cc00254db0cfd54785c]: Textual amendment: Word in Sch. 4 para. 2(8) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(i)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/i)
 
-[^key-923f77669f31e32c391b66a0362dca2f]: Textual amendment: Words in Sch. 4 para. 2(8) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/ii)
+[^c-923f77669f31e32c391b66a0362dca2f]: Textual amendment: Words in Sch. 4 para. 2(8) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/ii)
 
-[^key-b95098981b6590ed45c88762b860d5c9]: Textual amendment: Words in Sch. 4 para. 2(8) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/iii)
+[^c-b95098981b6590ed45c88762b860d5c9]: Textual amendment: Words in Sch. 4 para. 2(8) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/iii)
 
-[^key-404e509b74f81a50dc9b052d56830d23]: Textual amendment: Word in Sch. 4 para. 2(8) omitted (28.3.2019) by virtue of [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/iv)
+[^c-404e509b74f81a50dc9b052d56830d23]: Textual amendment: Word in Sch. 4 para. 2(8) omitted (28.3.2019) by virtue of [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(iv)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/iv)
 
-[^key-3c03cad0a8856e2ab78edc2008ad1f67]: Textual amendment: Words in Sch. 4 para. 2(8) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(v)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/v)
+[^c-3c03cad0a8856e2ab78edc2008ad1f67]: Textual amendment: Words in Sch. 4 para. 2(8) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(v)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/v)
 
-[^key-dc77d8f2c62fc6e31ae21ede953fe595]: Textual amendment: Words in Sch. 4 para. 2(8) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(vi)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/vi)
+[^c-dc77d8f2c62fc6e31ae21ede953fe595]: Textual amendment: Words in Sch. 4 para. 2(8) substituted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(vi)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/vi)
 
-[^key-cb0f9c805c1d5817d783835c04248920]: Textual amendment: Words in Sch. 4 para. 2(8) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(vii)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/vii)
+[^c-cb0f9c805c1d5817d783835c04248920]: Textual amendment: Words in Sch. 4 para. 2(8) inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [9(13)(a)(vii)](https://www.legislation.gov.uk/uksi/2019/709/regulation/9/13/a/vii)
 
-[^key-8647063969f660b8efa517ffcaae393a]: Textual amendment: Words in Sch. 4 para. 2(8)(k) inserted (27.11.2020) by [The Non-Domestic Rating (Rates Retention, Levy and Safety Net and Levy Account: Basis of Distribution) (Amendment) Regulations 2020 (S.I. 2020/1357)](https://www.legislation.gov.uk/uksi/2020/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1357/regulation/4)
+[^c-8647063969f660b8efa517ffcaae393a]: Textual amendment: Words in Sch. 4 para. 2(8)(k) inserted (27.11.2020) by [The Non-Domestic Rating (Rates Retention, Levy and Safety Net and Levy Account: Basis of Distribution) (Amendment) Regulations 2020 (S.I. 2020/1357)](https://www.legislation.gov.uk/uksi/2020/1357), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1357/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1357/regulation/4)
 
-[^key-5015cb4e26c71171644fa484433ef7a2]: Textual amendment: [Schs. 4A-4C](https://www.legislation.gov.uk/uksi/2013/452/schedule/4A) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/5)
+[^c-5015cb4e26c71171644fa484433ef7a2]: Textual amendment: [Schs. 4A-4C](https://www.legislation.gov.uk/uksi/2013/452/schedule/4A) inserted (1.12.2020) by [The Local Authorities (Collection Fund: Surplus and Deficit) (Coronavirus) (England) Regulations 2020 (S.I. 2020/1202)](https://www.legislation.gov.uk/uksi/2020/1202), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1202/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2020/1202/regulation/5/5)
 
-[^key-355ec5422580e538787487834ec3e90c]: Textual amendment: Sch. 5 inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/496/schedule/1)
+[^c-355ec5422580e538787487834ec3e90c]: Textual amendment: Sch. 5 inserted (30.3.2017) by [The Non-Domestic Rating (Rates Retention) and (Levy and Safety Net) (Amendment) Regulations 2017 (S.I. 2017/496)](https://www.legislation.gov.uk/uksi/2017/496), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/496/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/496/schedule/1)
 
-[^key-3d2819eceee039e7bdfd69e466ece3df]: Textual amendment: Sch. 5 Pts. 7-22 inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/463/schedule/1)
+[^c-3d2819eceee039e7bdfd69e466ece3df]: Textual amendment: Sch. 5 Pts. 7-22 inserted (30.3.2018) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) Regulations 2018 (S.I. 2018/463)](https://www.legislation.gov.uk/uksi/2018/463), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/463/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2018/463/schedule/1)
 
-[^key-6b4d1ff5c5368d522d0ee76c4d0056ae]: Textual amendment: Sch. 5 Pts. 23-39 inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/709/regulation/10), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/709/schedule/1)
+[^c-6b4d1ff5c5368d522d0ee76c4d0056ae]: Textual amendment: Sch. 5 Pts. 23-39 inserted (28.3.2019) by [The Non-Domestic Rating (Rates Retention and Levy and Safety Net) (Amendment) and (Levy Account: Basis of Distribution) Regulations 2019 (S.I. 2019/709)](https://www.legislation.gov.uk/uksi/2019/709), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/709/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2019/709/regulation/10), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/709/schedule/1)
 
-[^key-9cdddf0240aaaf5e5bb90f692578e8e0]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2013/452/schedule/6) inserted (31.3.2021) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/262)](https://www.legislation.gov.uk/uksi/2021/262), [regs. 1](https://www.legislation.gov.uk/uksi/2021/262/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2021/262/regulation/3/5)
+[^c-9cdddf0240aaaf5e5bb90f692578e8e0]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/uksi/2013/452/schedule/6) inserted (31.3.2021) by [The Non-Domestic Rating (Transitional Protection Payments and Rates Retention) (Coronavirus) (Amendment) Regulations 2021 (S.I. 2021/262)](https://www.legislation.gov.uk/uksi/2021/262), [regs. 1](https://www.legislation.gov.uk/uksi/2021/262/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2021/262/regulation/3/5)

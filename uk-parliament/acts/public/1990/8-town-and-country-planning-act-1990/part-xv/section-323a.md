@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 323A. Procedure for certain proceedings: Wales[^key-6224baedef653ba31ce247dc44efa2a8]
+## 323A. Procedure for certain proceedings: Wales[^c-6224baedef653ba31ce247dc44efa2a8]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ and may provide that such steps are to be treated as compliance, in whole or in 
 
 ## Annotations
 
-[^key-6224baedef653ba31ce247dc44efa2a8]: Textual amendment: S. 323A inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes, 5.5.2017 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 50](https://www.legislation.gov.uk/anaw/2015/4/section/50), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(c)](https://www.legislation.gov.uk/wsi/2016/52/article/3/c); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(c)](https://www.legislation.gov.uk/wsi/2017/546/article/3/c)
+[^c-6224baedef653ba31ce247dc44efa2a8]: Textual amendment: S. 323A inserted (6.9.2015 for specified purposes, 1.3.2016 for specified purposes, 5.5.2017 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 50](https://www.legislation.gov.uk/anaw/2015/4/section/50), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(c)](https://www.legislation.gov.uk/wsi/2016/52/article/3/c); [S.I. 2017/546](https://www.legislation.gov.uk/wsi/2017/546), [art. 3(c)](https://www.legislation.gov.uk/wsi/2017/546/article/3/c)

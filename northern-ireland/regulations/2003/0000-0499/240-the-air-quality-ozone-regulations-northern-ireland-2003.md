@@ -41,48 +41,48 @@ Coming into operation
 
 The Department of the Environment, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the control of pollution in ambient air, in exercise of the powers conferred on it by that section and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-aca05de99661229cfc6fae334b14624e]
+## 1. Citation, commencement and interpretation[^c-aca05de99661229cfc6fae334b14624e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Definitions[^key-aca05de99661229cfc6fae334b14624e]
+## 2. Definitions[^c-aca05de99661229cfc6fae334b14624e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Target values[^key-aca05de99661229cfc6fae334b14624e]
+## 3. Target values[^c-aca05de99661229cfc6fae334b14624e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Long-term objectives[^key-aca05de99661229cfc6fae334b14624e]
+## 4. Long-term objectives[^c-aca05de99661229cfc6fae334b14624e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Assessment of concentrations of ozone and ozone precursor substances in ambient air[^key-aca05de99661229cfc6fae334b14624e]
+## 5. Assessment of concentrations of ozone and ozone precursor substances in ambient air[^c-aca05de99661229cfc6fae334b14624e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Classification of zones[^key-47bf09a7c3b77dd9a279b1ebc9a567c8]
+## 6. Classification of zones[^c-47bf09a7c3b77dd9a279b1ebc9a567c8]
 
 (1) The Department shall classify each zone in relation to ozone according to whether ambient air quality for ozone is required to be assessed by –
 
 - (a) fixed continuous measurement; or
 - (b) a combination of measurement campaigns of short duration and results from emissions inventories and modelling.
 
-(2)[^key-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Method of assessment of ambient air quality[^key-dfb89f70e69e648d85e466840bed0cfb]
+## 7. Method of assessment of ambient air quality[^c-dfb89f70e69e648d85e466840bed0cfb]
 
 (1) The Department shall ensure that ambient air quality is assessed in each zone by following the appropriate method for ozone in accordance with its current classification.
 
@@ -115,37 +115,37 @@ The Department of the Environment, being a Department designated[^f00001] for th
 
 (11) For ozone, measurements of volume must be standardised at a temperature of 293K and a pressure of 101.3kPa.
 
-## 8. Programmes and measures to address ozone levels[^key-aca05de99661229cfc6fae334b14624e]
+## 8. Programmes and measures to address ozone levels[^c-aca05de99661229cfc6fae334b14624e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Public Information[^key-aca05de99661229cfc6fae334b14624e]
+## 9. Public Information[^c-aca05de99661229cfc6fae334b14624e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Action plans[^key-aca05de99661229cfc6fae334b14624e]
+## 10. Action plans[^c-aca05de99661229cfc6fae334b14624e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Transboundary pollution[^key-aca05de99661229cfc6fae334b14624e]
+## 11. Transboundary pollution[^c-aca05de99661229cfc6fae334b14624e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Information requirements[^key-aca05de99661229cfc6fae334b14624e]
+## 12. Information requirements[^c-aca05de99661229cfc6fae334b14624e]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Revocation of the Ozone Monitoring and Information Regulations 1994[^key-aca05de99661229cfc6fae334b14624e]
+## 13. Revocation of the Ozone Monitoring and Information Regulations 1994[^c-aca05de99661229cfc6fae334b14624e]
 
 **No longer in force.**
 
@@ -159,19 +159,19 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE 1 — TARGET VALUES AND LONG-TERM OBJECTIVES FOR OZONE CONCENTRATIONS IN AMBIENT AIR[^key-aca05de99661229cfc6fae334b14624e]
+## SCHEDULE 1 — TARGET VALUES AND LONG-TERM OBJECTIVES FOR OZONE CONCENTRATIONS IN AMBIENT AIR[^c-aca05de99661229cfc6fae334b14624e]
 
 **No longer in force.**
 
-### PART I — definitions and interpretation[^key-aca05de99661229cfc6fae334b14624e]
+### PART I — definitions and interpretation[^c-aca05de99661229cfc6fae334b14624e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — target values for ozone[^key-aca05de99661229cfc6fae334b14624e]
+### PART II — target values for ozone[^c-aca05de99661229cfc6fae334b14624e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — long-term objectives for ozone[^key-aca05de99661229cfc6fae334b14624e]
+### PART III — long-term objectives for ozone[^c-aca05de99661229cfc6fae334b14624e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -179,7 +179,7 @@ Department of the Environment
 
 The following considerations will apply to fixed measurements:
 
-### PART I — macroscale siting[^key-ae66305c9286882136274d842cb1814b]
+### PART I — macroscale siting[^c-ae66305c9286882136274d842cb1814b]
 
 <table>
 <thead>
@@ -204,13 +204,13 @@ For rural and rural background stations, consideration should be given, where ap
 
 The following guidelines should be followed, as far as practicable:
 
-**1.**[^key-5c335dba81f4a1acf89c58342a3d1fc7] the flow around the inlet sampling probe should be unrestricted (free in an arc of at least 2700) without any obstructions affecting the air flow in the vicinity of the sampler, i.e. away from buildings, balconies, trees and other obstacles by more than twice the height the obstacle protrudes above the sampler.
+**1.**[^c-5c335dba81f4a1acf89c58342a3d1fc7] the flow around the inlet sampling probe should be unrestricted (free in an arc of at least 2700) without any obstructions affecting the air flow in the vicinity of the sampler, i.e. away from buildings, balconies, trees and other obstacles by more than twice the height the obstacle protrudes above the sampler.
 
-**2.**[^key-42dc3a8cac3abec62e7b3d92667b1465] in general, the inlet sampling point should be between 1.5m (the breathing zone) and 4m above the ground. Higher positions are possible for urban stations in some circumstances and in wooded areas.
+**2.**[^c-42dc3a8cac3abec62e7b3d92667b1465] in general, the inlet sampling point should be between 1.5m (the breathing zone) and 4m above the ground. Higher positions are possible for urban stations in some circumstances and in wooded areas.
 
-**3.**[^key-897c676a212623c1c5bbd4d65986b85f] the inlet probe should be positioned well away from such sources as furnaces and incineration flues and more than 10m from the nearest road, with distance increasing as a function of traffic intensity.
+**3.**[^c-897c676a212623c1c5bbd4d65986b85f] the inlet probe should be positioned well away from such sources as furnaces and incineration flues and more than 10m from the nearest road, with distance increasing as a function of traffic intensity.
 
-**4.**[^key-a0389f0733c08310f9ade0507843c46c] the sampler’s exhaust outlet should be positioned so as to avoid recirculation of exhaust to the sampler inlet.
+**4.**[^c-a0389f0733c08310f9ade0507843c46c] the sampler’s exhaust outlet should be positioned so as to avoid recirculation of exhaust to the sampler inlet.
 
 The following factors may also be taken into account:
 
@@ -223,7 +223,7 @@ The following factors may also be taken into account:
 - (g) the desirability of co-locating sampling points for different pollutants; and
 - (h) planning requirements.
 
-### PART III — documentation and review of site selection[^key-fc51731fe147352ad097e75a054b110e]
+### PART III — documentation and review of site selection[^c-fc51731fe147352ad097e75a054b110e]
 
 Site selection procedures should be fully documented at the classification stage by such means as compass point photographs of the surroundings and a detailed map. Sites should be reviewed at regular intervals with repeated documentation to ensure that selection criteria are still being met.
 
@@ -231,7 +231,7 @@ This requires proper screening and interpretation of the monitoring data in the 
 
 ## SCHEDULE 3 — CRITERIA FOR DETERMINING MINIMUM NUMBERS OF SAMPLING POINTS FOR FIXED MEASUREMENTS OF CONCENTRATIONS OF OZONE
 
-### PART I — minimum number of sampling points for fixed continuous measurement to assess air quality in view of compliance with the target values, long-term objectives and information and alert thresholds where continuous measurement is the sole source of information[^key-23bf65a2687e5241591cf7493aa0dc02]
+### PART I — minimum number of sampling points for fixed continuous measurement to assess air quality in view of compliance with the target values, long-term objectives and information and alert thresholds where continuous measurement is the sole source of information[^c-23bf65a2687e5241591cf7493aa0dc02]
 
 <table>
 <thead>
@@ -255,15 +255,15 @@ This requires proper screening and interpretation of the monitoring data in the 
 
 [^f01004][^f01004][^f01005]
 
-### PART II — minimum number of sampling points for fixed measurements for zones attaining the long-term objectives[^key-77ef1307514dacea9b673bb470a437a7]
+### PART II — minimum number of sampling points for fixed measurements for zones attaining the long-term objectives[^c-77ef1307514dacea9b673bb470a437a7]
 
 The number of sampling points for ozone must, in combination with other means of supplementary assessment such as air quality modelling and co-located nitrogen dioxide measurements, be sufficient to examine the trend of ozone pollution and check compliance with the long-term objectives. The number of stations located in agglomerations and other zones may be reduced to one-third of the number specified in Part I. Where information from fixed measurement stations is the sole source of information, at least one monitoring station should be kept. If, in zones where there is supplementary assessment, the result of this is that a zone has no remaining station, co-ordination with the number of stations in neighbouring zones must ensure adequate assessment of ozone concentrations against long-term objectives. The number of rural background stations should be 1 per 100,000 km<sup>2</sup>.
 
-## SCHEDULE 4 — MEASUREMENTS OF OZONE PRECURSOR SUBSTANCES[^key-db8ac3b9dca223064a8efce8e37ff23a]
+## SCHEDULE 4 — MEASUREMENTS OF OZONE PRECURSOR SUBSTANCES[^c-db8ac3b9dca223064a8efce8e37ff23a]
 
 ### Objectives
 
-[^key-db8ac3b9dca223064a8efce8e37ff23a]
+[^c-db8ac3b9dca223064a8efce8e37ff23a]
 
 The main objectives of measurements of ozone precursor substances are to analyse any trend in ozone precursors, to check the efficiency of emission reduction strategies, to check the consistency of emissions inventories and to help attribute emission sources to pollution concentration.
 
@@ -271,7 +271,7 @@ An additional aim is to support the understanding of ozone formation and precurs
 
 ### Substances
 
-[^key-db8ac3b9dca223064a8efce8e37ff23a]
+[^c-db8ac3b9dca223064a8efce8e37ff23a]
 
 Measurements of ozone precursor substances must include at least nitrogen oxides, and appropriate volatile organic compounds (VOCs). A list of VOCs recommended for measurement is given below.
 
@@ -288,19 +288,19 @@ Measurements of ozone precursor substances must include at least nitrogen oxides
 
 ### Reference methods
 
-[^key-db8ac3b9dca223064a8efce8e37ff23a]
+[^c-db8ac3b9dca223064a8efce8e37ff23a]
 
 The reference method for the analysis of oxides of nitrogen shall be that specified in Part II of Schedule 6 to the Air Quality Limit Values Regulations (Northern Ireland) 2002, ([S.R.2002/94](https://www.legislation.gov.uk/nisr/2002/94)).
 
 ### Siting
 
-[^key-db8ac3b9dca223064a8efce8e37ff23a]
+[^c-db8ac3b9dca223064a8efce8e37ff23a]
 
 Measurements should be taken in particular in urban and suburban areas at any monitoring site set up in accordance with the requirements of the Air Quality Limit Values Regulations (Northern Ireland) 2002 and considered appropriate with regard to the monitoring objectives in this Schedule.
 
 ## SCHEDULE 5 — DATA QUALITY OBJECTIVES AND COMPILATION OF RESULTS OF AIR QUALITY ASSESSMENT
 
-### PART I — data quality objectives[^key-cd16dd72012dd4b886045b5ea05c6be9]
+### PART I — data quality objectives[^c-cd16dd72012dd4b886045b5ea05c6be9]
 
 The following data quality objectives, for allowed uncertainty of assessment methods, and of minimum time coverage and of data capture of measurement, are provided to guide quality-assurance programmes:
 
@@ -331,7 +331,7 @@ The following data quality objectives, for allowed uncertainty of assessment met
 
 [^f00006]
 
-### PART II — results of air quality assessment[^key-f6a48e4fc0eac9bf6f77a511d58376c4]
+### PART II — results of air quality assessment[^c-f6a48e4fc0eac9bf6f77a511d58376c4]
 
 The following information should be compiled for zones within which sources other than measurements are employed to supplement information from measurement:
 
@@ -343,19 +343,19 @@ The following information should be compiled for zones within which sources othe
 
 The Department shall ensure that maps are compiled showing concentration distributions within each zone.
 
-## SCHEDULE 6 — REFERENCE METHODS FOR ANALYSIS OF OZONE AND CALIBRATION OF OZONE INSTRUMENTS[^key-035d6478b0802dae94b2fe856ccf79c3]
+## SCHEDULE 6 — REFERENCE METHODS FOR ANALYSIS OF OZONE AND CALIBRATION OF OZONE INSTRUMENTS[^c-035d6478b0802dae94b2fe856ccf79c3]
 
-[^key-035d6478b0802dae94b2fe856ccf79c3]
+[^c-035d6478b0802dae94b2fe856ccf79c3]
 
 The reference method for analysis of ozone shall be the UV photometric method (ISO FDIS 13964).
 
-[^key-035d6478b0802dae94b2fe856ccf79c3]
+[^c-035d6478b0802dae94b2fe856ccf79c3]
 
 The reference method for calibration of ozone instruments shall be the Reference UV photometer method (ISO FDIS 13964, VDI 2468, B1.6).
 
 ## SCHEDULE 7 — INFORMATION AND ALERT THRESHOLDS
 
-### ...[^key-aca05de99661229cfc6fae334b14624e]
+### ...[^c-aca05de99661229cfc6fae334b14624e]
 
 <table>
 <thead>
@@ -370,19 +370,19 @@ The reference method for calibration of ozone instruments shall be the Reference
 </tbody>
 </table>
 
-[^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e]
+[^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e]
 
-[^key-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aca05de99661229cfc6fae334b14624e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 8 — INFORMATION TO BE OBTAINED AND COLLATED ON OZONE CONCENTRATIONS, AND CRITERIA FOR AGGREGATING DATA AND CALCULATING STATISTICAL PARAMETERS
 
-### ...[^key-aca05de99661229cfc6fae334b14624e]
+### ...[^c-aca05de99661229cfc6fae334b14624e]
 
 <table>
 <thead>
@@ -402,7 +402,7 @@ The reference method for calibration of ozone instruments shall be the Reference
 </tbody>
 </table>
 
-[^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e]
+[^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e]
 
 - (a) <sup></sup>
 - (b)
@@ -427,7 +427,7 @@ The reference method for calibration of ozone instruments shall be the Reference
 </tbody>
 </table>
 
-[^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e][^key-aca05de99661229cfc6fae334b14624e]
+[^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e][^c-aca05de99661229cfc6fae334b14624e]
 
 (This note is not part of the Regulations.)
 
@@ -461,13 +461,13 @@ Regulation 13 revokes the Ozone Monitoring and Information Regulations 1994.
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68)
 
-[^key-aca05de99661229cfc6fae334b14624e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/240) revoked (except regs. 6(1) 7) (28.5.2007) by [The Air Quality Standards Regulations (Northern Ireland) 2007 (S.R. 2007/265)](https://www.legislation.gov.uk/nisr/2007/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/265/regulation/1), [30(1)(b)](https://www.legislation.gov.uk/nisr/2007/265/regulation/30)
+[^c-aca05de99661229cfc6fae334b14624e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/240) revoked (except regs. 6(1) 7) (28.5.2007) by [The Air Quality Standards Regulations (Northern Ireland) 2007 (S.R. 2007/265)](https://www.legislation.gov.uk/nisr/2007/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/265/regulation/1), [30(1)(b)](https://www.legislation.gov.uk/nisr/2007/265/regulation/30)
 
-[^key-47bf09a7c3b77dd9a279b1ebc9a567c8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/240/regulation/6) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-47bf09a7c3b77dd9a279b1ebc9a567c8]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2003/240/regulation/6) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
-[^key-dfb89f70e69e648d85e466840bed0cfb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/240/regulation/7) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-dfb89f70e69e648d85e466840bed0cfb]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2003/240/regulation/7) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
-[^key-ae66305c9286882136274d842cb1814b]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/part/I) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-ae66305c9286882136274d842cb1814b]: Commencement: [Sch. 2 Pt. I](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/part/I) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
 [^f01003]: Footnote: (a)
 
@@ -475,17 +475,17 @@ Regulation 13 revokes the Ozone Monitoring and Information Regulations 1994.
 
 [^f00005]: Footnote: O.J.No. L125, 18.5.1994, p. 1
 
-[^key-5c335dba81f4a1acf89c58342a3d1fc7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/paragraph/1) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-5c335dba81f4a1acf89c58342a3d1fc7]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/paragraph/1) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
-[^key-42dc3a8cac3abec62e7b3d92667b1465]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/paragraph/2) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-42dc3a8cac3abec62e7b3d92667b1465]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/paragraph/2) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
-[^key-897c676a212623c1c5bbd4d65986b85f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/paragraph/3) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-897c676a212623c1c5bbd4d65986b85f]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/paragraph/3) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
-[^key-a0389f0733c08310f9ade0507843c46c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/paragraph/4) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-a0389f0733c08310f9ade0507843c46c]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/paragraph/4) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
-[^key-fc51731fe147352ad097e75a054b110e]: Commencement: [Sch. 2 Pt. III](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/part/III) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-fc51731fe147352ad097e75a054b110e]: Commencement: [Sch. 2 Pt. III](https://www.legislation.gov.uk/nisr/2003/240/schedule/2/part/III) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
-[^key-23bf65a2687e5241591cf7493aa0dc02]: Commencement: [Sch. 3 Pt. I](https://www.legislation.gov.uk/nisr/2003/240/schedule/3/part/I) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-23bf65a2687e5241591cf7493aa0dc02]: Commencement: [Sch. 3 Pt. I](https://www.legislation.gov.uk/nisr/2003/240/schedule/3/part/I) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
 [^f01004]: Footnote: (a)
 
@@ -495,16 +495,16 @@ Regulation 13 revokes the Ozone Monitoring and Information Regulations 1994.
 
     1 station per 25,000 km<sup>2</sup> for complex terrain is recommended.
 
-[^key-77ef1307514dacea9b673bb470a437a7]: Commencement: [Sch. 3 Pt. II](https://www.legislation.gov.uk/nisr/2003/240/schedule/3/part/II) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-77ef1307514dacea9b673bb470a437a7]: Commencement: [Sch. 3 Pt. II](https://www.legislation.gov.uk/nisr/2003/240/schedule/3/part/II) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
-[^key-db8ac3b9dca223064a8efce8e37ff23a]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2003/240/schedule/4) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-db8ac3b9dca223064a8efce8e37ff23a]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2003/240/schedule/4) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
-[^key-cd16dd72012dd4b886045b5ea05c6be9]: Commencement: [Sch. 5 Pt. I](https://www.legislation.gov.uk/nisr/2003/240/schedule/5/part/I) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-cd16dd72012dd4b886045b5ea05c6be9]: Commencement: [Sch. 5 Pt. I](https://www.legislation.gov.uk/nisr/2003/240/schedule/5/part/I) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
 [^f00006]: Footnote: Copies of these International Standards Organisation publications can be purchased from the British Standards Institution “BSI” sales department either by telephone on 020-8996-9001 or by post from the BSI, Standards House, 389 Chiswick High Road, London, W4 4AL
 
-[^key-f6a48e4fc0eac9bf6f77a511d58376c4]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisr/2003/240/schedule/5/part/II) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-f6a48e4fc0eac9bf6f77a511d58376c4]: Commencement: [Sch. 5 Pt. II](https://www.legislation.gov.uk/nisr/2003/240/schedule/5/part/II) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
-[^key-035d6478b0802dae94b2fe856ccf79c3]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2003/240/schedule/6) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
+[^c-035d6478b0802dae94b2fe856ccf79c3]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2003/240/schedule/6) in operation at 9.9.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/240/regulation/1/1)
 
 [^f00007]: Footnote: O.J. No. L35, 5.2.1997, p. 14

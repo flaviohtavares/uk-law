@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Involvement of educational, prison and youth custody authorities[^key-d4585bbfb0cbd866ed1e4938cf9a7c7e][^key-72bd6b85efef88a6244b400d7cbc7fef]
+## 15. Involvement of educational, prison and youth custody authorities[^c-d4585bbfb0cbd866ed1e4938cf9a7c7e][^c-72bd6b85efef88a6244b400d7cbc7fef]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d4585bbfb0cbd866ed1e4938cf9a7c7e]: Commencement: S. 15 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-d4585bbfb0cbd866ed1e4938cf9a7c7e]: Commencement: S. 15 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-72bd6b85efef88a6244b400d7cbc7fef]: Commencement: S. 15 in force at 31.1.2023 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/g)
+[^c-72bd6b85efef88a6244b400d7cbc7fef]: Commencement: S. 15 in force at 31.1.2023 by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/g)

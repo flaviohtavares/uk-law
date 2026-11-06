@@ -374,7 +374,7 @@ The Commissioners for Her Majesty's Revenue and Customs make the following Regul
 
 (10) In paragraph (3) of regulation 13 (relief that is not allowed) after “oil” (in both places) insert “ or bioblend ”.
 
-### 11. The Hydrocarbon Oil Duties (Sulphur-free Diesel) (Hydrogenation of Biomass) (Reliefs) Regulations 2006[^key-eaf5890400d62634c34662035ff3375c]
+### 11. The Hydrocarbon Oil Duties (Sulphur-free Diesel) (Hydrogenation of Biomass) (Reliefs) Regulations 2006[^c-eaf5890400d62634c34662035ff3375c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -490,7 +490,7 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c19182651]: Marginal citation: [S.I. 2005/3472](https://www.legislation.gov.uk/uksi/2005/3472).
 
-[^key-eaf5890400d62634c34662035ff3375c]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2008/753/regulation/11) revoked (1.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 12(11)(c)](https://www.legislation.gov.uk/ukpga/2010/13/section/12/11/c)[(12)](https://www.legislation.gov.uk/ukpga/2010/13/section/12/12)
+[^c-eaf5890400d62634c34662035ff3375c]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2008/753/regulation/11) revoked (1.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [s. 12(11)(c)](https://www.legislation.gov.uk/ukpga/2010/13/section/12/11/c)[(12)](https://www.legislation.gov.uk/ukpga/2010/13/section/12/12)
 
 [^c19182671]: Marginal citation: [S.I. 2007/314](https://www.legislation.gov.uk/uksi/2007/314).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Trustee vote[^key-2fdb061263809b08d566ca7cae4889bf]
+## 49. Trustee vote[^c-2fdb061263809b08d566ca7cae4889bf]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2fdb061263809b08d566ca7cae4889bf]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2016/21/section/49) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-2fdb061263809b08d566ca7cae4889bf]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2016/21/section/49) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

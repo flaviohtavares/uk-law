@@ -29,7 +29,7 @@ Section 53
 **1.** (1) The Welsh Ministers may prepare a code of practice containing guidance about the exercise of—
 
 - (a) powers of entry, or
-- (b)[^key-9d221299262569c65d73d7e4b616d659] associated powers.
+- (b)[^c-9d221299262569c65d73d7e4b616d659] associated powers.
 
 The code may only contain provision that would be within the legislative competence of the National Assembly for Wales if contained in an Act of the Assembly.
 
@@ -147,4 +147,4 @@ The code may only contain provision that would be within the legislative compete
 
 ## Annotations
 
-[^key-9d221299262569c65d73d7e4b616d659]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/3/paragraph/1/1) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 93](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/93) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)
+[^c-9d221299262569c65d73d7e4b616d659]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/3/paragraph/1/1) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 93](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/93) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(r)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/r)

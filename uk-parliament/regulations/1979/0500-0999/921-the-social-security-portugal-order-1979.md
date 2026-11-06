@@ -52,7 +52,7 @@ And Whereas the Convention has been ratified by the said Governments and the ins
 
 And Whereas by section 143(1) of the Social Security Act 1975 and section 15(1) of the Child Benefit Act 1975 it is provided that Her Majesty may by Order in Council make provision for modifying or adapting the said Social Security Act and for modifying the provisions of Part I of the said Child Benefit Act and regulations made under it in their application to cases affected by agreements with other governments providing for reciprocity in matters specified in those sections:
 
-Now, therefore Her Majesty Queen Elizabeth The Queen Mother and His Royal Highness The Prince Charles, Prince of Wales, being authorised thereto by the said Letters Patent, and in pursuance of the powers conferred by the said section 143(1), and the said section 15(1), and of all other powers enabling Her Majesty in that behalf, and by and with the advice of Her Privy Council, do on Her Majesty's behalf order, and it is hereby ordered, as follows:—[^M_C_09f988e0-323a-4821-c3cc-b83672765978][^key-8d2a320dddededac2eac372384123c6f][^key-684f37e793d75a6fe4dd6d03fe2d20f4][^key-3b2492ab8fdda16fc7fe38bbbfe71590][^key-62454829db6860855358853b5c5f2209][^key-f70a9122ad72b0e3a553fa9a0274186a][^key-35d67600fd4ffdc8473af073d612d946]
+Now, therefore Her Majesty Queen Elizabeth The Queen Mother and His Royal Highness The Prince Charles, Prince of Wales, being authorised thereto by the said Letters Patent, and in pursuance of the powers conferred by the said section 143(1), and the said section 15(1), and of all other powers enabling Her Majesty in that behalf, and by and with the advice of Her Privy Council, do on Her Majesty's behalf order, and it is hereby ordered, as follows:—[^M_C_09f988e0-323a-4821-c3cc-b83672765978][^c-8d2a320dddededac2eac372384123c6f][^c-684f37e793d75a6fe4dd6d03fe2d20f4][^c-3b2492ab8fdda16fc7fe38bbbfe71590][^c-62454829db6860855358853b5c5f2209][^c-f70a9122ad72b0e3a553fa9a0274186a][^c-35d67600fd4ffdc8473af073d612d946]
 
 ## 1. Citation and commencement
 
@@ -70,9 +70,9 @@ N. E. Leigh
 
 Clerk of the Privy Council
 
-## SCHEDULE[^key-b4e436cb6fe3b28cd0512b607cc3754b]
+## SCHEDULE[^c-b4e436cb6fe3b28cd0512b607cc3754b]
 
-[^key-b4e436cb6fe3b28cd0512b607cc3754b]
+[^c-b4e436cb6fe3b28cd0512b607cc3754b]
 
 > CONVENTION ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF PORTUGAL
 >
@@ -222,7 +222,7 @@ Clerk of the Privy Council
 >
 > **Article 11.** (1) Where a person has, since his last arrival in the territory of one Contracting Party, completed a contribution period under the legislation of that Party, then for the purpose of any claim for sickness benefit or maternity benefit made under the legislation of that Party, any insurance period, completed under the legislation of the other Party, shall, subject to the provisions of Article 10 of this Convention, be treated as if it were an insurance period completed under the legislation of the former Party.
 >
-> (1A)[^key-41b8f31936e12f50c7ba43a6aee505e8] where a woman is confined on or after 4 July 1982 in Great Britain, Northern Ireland or the Isle of Man (other than a woman who is treated as having been confined there by virtue of Article 12(1)), periods during which she was present in the territory of Portugal shall be treated for the purpose of a claim by her for maternity grant under the legislation of the Party in whose territory the confinement occurred as if they were periods during which she was present in that territory.
+> (1A)[^c-41b8f31936e12f50c7ba43a6aee505e8] where a woman is confined on or after 4 July 1982 in Great Britain, Northern Ireland or the Isle of Man (other than a woman who is treated as having been confined there by virtue of Article 12(1)), periods during which she was present in the territory of Portugal shall be treated for the purpose of a claim by her for maternity grant under the legislation of the Party in whose territory the confinement occurred as if they were periods during which she was present in that territory.
 >
 > (2) Subject to the provisions of paragraph (3) of this Article, where a person would be entitled to sickness benefit or maternity allowance under the legislation of one Party if he were in the territory of that Party he shall be entitled to that benefit or allowance while he is in the territory of the other Party if:
 >
@@ -234,9 +234,9 @@ Clerk of the Privy Council
 >
 > (3) Where a seasonal worker who is entitled to sickness benefit by virtue of the provisions of this Article in the territory of Portugal goes to Jersey or the Islands of Guernsey, Alderney, Herm or Jethou or where such a person is in the Island of Jersey or the Islands of Guernsey, Alderney, Herm or Jethou and goes to the territory of Portugal, he shall be entitled to continue to receive such benefit for a period of not more than thirteen weeks from the date of his departure from the territory of Portugal or the Island of Jersey or the Islands of Guernsey, Alderney, Herm or Jethou as the case may be.
 >
-> (4)[^key-08aa2a11f33131d5841755222187c334] Where a person is employed in the territory of one Party and the legislation of the other Party applies to him in accordance with any of the provisions of Articles 5 to 9 of this Convention, he shall be treated under that legislation for the purpose of any claim to sickness benefit or maternity allowance as if he were in the territory of the latter Party.
+> (4)[^c-08aa2a11f33131d5841755222187c334] Where a person is employed in the territory of one Party and the legislation of the other Party applies to him in accordance with any of the provisions of Articles 5 to 9 of this Convention, he shall be treated under that legislation for the purpose of any claim to sickness benefit or maternity allowance as if he were in the territory of the latter Party.
 >
-> (5)[^key-22e32a9b7474150956b30881e19dac8a] Where, but for the provisions of this paragraph, a person would be entitled to sickness benefit or maternity allowance under the legislation of both Parties for the same period whether by virtue of this Convention or otherwise, that benefit or allowance shall be granted only under the legislation under which the person was last insured before entitlement arose.
+> (5)[^c-22e32a9b7474150956b30881e19dac8a] Where, but for the provisions of this paragraph, a person would be entitled to sickness benefit or maternity allowance under the legislation of both Parties for the same period whether by virtue of this Convention or otherwise, that benefit or allowance shall be granted only under the legislation under which the person was last insured before entitlement arose.
 >
 > **Article 12.** (1) Where a woman who is insured under the legislation of one Contracting Party, or who is the wife of a person so insured, is confined in the territory of the other Party, she shall, for the purpose of any right to maternity grant under the legislation of the former Party, be treated as if she had been confined in the territory of the former Party.
 >
@@ -245,7 +245,7 @@ Clerk of the Privy Council
 > - (a) the grant shall be payable only under the legislation of the Party in whose territory the confinement occurs; or
 > - (b) if the confinement does not occur in the territory of either Party, the grant shall be payable only under the legislation of the Party under which the woman, or her husband, as the case may be, was last insured before the confinement.
 >
-> (3)[^key-9efa9ecf53a54194f88a4cdeb8819cc2] Where a woman is confined on or after 4 July 1982 in Great Britain, Northern Ireland or the Isle of Man (other than a woman who is treated as having been confined there by virtue of Article 12(1)), periods during which she was present in the territory of Portugal shall be treated for the purpose of a claim by her for maternity grant under the legislation of the Party in whose territory the confinement occurred as if they were periods during which she was present in that territory.
+> (3)[^c-9efa9ecf53a54194f88a4cdeb8819cc2] Where a woman is confined on or after 4 July 1982 in Great Britain, Northern Ireland or the Isle of Man (other than a woman who is treated as having been confined there by virtue of Article 12(1)), periods during which she was present in the territory of Portugal shall be treated for the purpose of a claim by her for maternity grant under the legislation of the Party in whose territory the confinement occurred as if they were periods during which she was present in that territory.
 >
 > **Section III — Unemployment Benefit**
 >
@@ -268,13 +268,13 @@ Clerk of the Privy Council
 >
 > (4) Where a person would be entitled to receive for the same incapacity and for the same period invalidity pension under the legislation of one Party and sickness benefit under the legislation of the other Party, whether by virtue of this Convention or otherwise, he shall be entitled to receive only the invalidity pension or sickness benefit, as the case may be, payable under the legislation of the Party in whose territory the incapacity began, in accordance with the provisions of paragraph (1) of this Article.
 >
-> (5) For the purposes of determining entitlement to additional pension[^key-5552e2d1422f112035ae3fd55bc44ea4] payable under the legislation of the United Kingdom, no account shall be taken of any contribution period completed under the legislation of Portugal.
+> (5) For the purposes of determining entitlement to additional pension[^c-5552e2d1422f112035ae3fd55bc44ea4] payable under the legislation of the United Kingdom, no account shall be taken of any contribution period completed under the legislation of Portugal.
 >
 > **Section V — Old Age Pension and Survivor's Benefit**
 >
 > **Article 15.** (1) Where a person is entitled to an old age pension under the legislation of a Contracting Party, or under the legislation of any one part of the territory of a Contracting Party, otherwise than by virtue of the provisions of this Convention, that pension shall be payable and the provisions of Article 16 of this Convention shall not apply under that legislation.
 >
-> (2) For the purposes of determining entitlement to additional pension[^key-257f129272b22f5f739dbbfb9b9eeb01] payable under the legislation of the United Kingdom, no account shall be taken of any contribution period completed under the legislation of Portugal; and for the purposes of this Article and Article 16 of this Convention additional component shall be treated as a separate benefit to which the provisions of that Article 16 do not apply.
+> (2) For the purposes of determining entitlement to additional pension[^c-257f129272b22f5f739dbbfb9b9eeb01] payable under the legislation of the United Kingdom, no account shall be taken of any contribution period completed under the legislation of Portugal; and for the purposes of this Article and Article 16 of this Convention additional component shall be treated as a separate benefit to which the provisions of that Article 16 do not apply.
 >
 > **Article 16.** (1) The provisions of this Article shall apply for the purpose of determining entitlement to old age pension in respect of a person under the legislation of a Contracting Party or the legislation of any one part of the territory of a Contracting Party under which there is no entitlement in respect of that person in accordance with the provisions of Article 15 of this Convention.
 >
@@ -366,7 +366,7 @@ Clerk of the Privy Council
 >
 > **Section IX — Family Allowance**
 >
-> **Article 26.**[^key-5e85125f638993fc6a04d5c8681ba245] (1) Subject to the provisions of paragraph (9) of this Article, where a person (other than a self-employed person) is employed in the territory of one Contracting Party and the legislation of the other Party applies to him in accordance with any of the provisions of Articles 5 to 9 of this Convention he shall be treated, for the purpose of any claim to receive family allowance under that legislation —
+> **Article 26.**[^c-5e85125f638993fc6a04d5c8681ba245] (1) Subject to the provisions of paragraph (9) of this Article, where a person (other than a self-employed person) is employed in the territory of one Contracting Party and the legislation of the other Party applies to him in accordance with any of the provisions of Articles 5 to 9 of this Convention he shall be treated, for the purpose of any claim to receive family allowance under that legislation —
 >
 > - (a) as if he were in the territory of the latter Party and employed in that territory;
 > - (b) as if his children or other dependants were in the territory of the latter Party, if they are in the territory of the former Party.
@@ -444,7 +444,7 @@ Clerk of the Privy Council
 >
 > (2) Paragraph (1) of this Article shall not confer any right to receive payment of benefit for any period before the date of the entry into force of this Convention.
 >
-> **Article 37.**[^key-73855cc6238f4cc4b585f1135087c0df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **Article 37.**[^c-73855cc6238f4cc4b585f1135087c0df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **Article 38.** This Convention shall be ratified and the instruments of ratification shall be exchanged at Lisbon as soon as possible. The Convention shall enter into force on the first day of the third month following the month in which the instruments of ratification are exchanged.
 >
@@ -472,32 +472,32 @@ This Order makes provision for modification of the Social Security Act 1975 and 
 
 [^M_C_09f988e0-323a-4821-c3cc-b83672765978]: Modification: Bilateral and multilateral reciprocal social security agreements between the United Kingdom and other Member States of the European Communities have generally been superseded, for nationals of those States, by the provisions of Council Regulations (EEC) Nos. 1408/71 and 574/72 to the extent provided by Article 6 of Regulation (EEC) No. 1408/71 subject to the exceptions prescribed by that Article and set out in Articles 7, 8 and 46(4) of that Regulation. The following Instrument, while largely superseded for the above reason, will still be of interest in its effect on persons or matters not covered by that Regulation, eg on persons who are not nationals of any of the Member States of the European Communities.
 
-[^key-8d2a320dddededac2eac372384123c6f]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1979/921) modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
+[^c-8d2a320dddededac2eac372384123c6f]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1979/921) modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
 
-[^key-684f37e793d75a6fe4dd6d03fe2d20f4]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1979/921) modified (13.4.1995) by [The Social Security (Reciprocal Agreements) Order 1995 (S.I. 1995/767)](https://www.legislation.gov.uk/uksi/1995/767), [art. 2](https://www.legislation.gov.uk/uksi/1995/767/article/2), [Schs. 1-3](https://www.legislation.gov.uk/uksi/1995/767/schedule/1)
+[^c-684f37e793d75a6fe4dd6d03fe2d20f4]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1979/921) modified (13.4.1995) by [The Social Security (Reciprocal Agreements) Order 1995 (S.I. 1995/767)](https://www.legislation.gov.uk/uksi/1995/767), [art. 2](https://www.legislation.gov.uk/uksi/1995/767/article/2), [Schs. 1-3](https://www.legislation.gov.uk/uksi/1995/767/schedule/1)
 
-[^key-3b2492ab8fdda16fc7fe38bbbfe71590]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1979/921) modified (7.10.1996) by [The Social Security (Reciprocal Agreements) Order 1996 (S.I. 1996/1928)](https://www.legislation.gov.uk/uksi/1996/1928), [art. 2](https://www.legislation.gov.uk/uksi/1996/1928/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/1928/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/1928/schedule/2)
+[^c-3b2492ab8fdda16fc7fe38bbbfe71590]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1979/921) modified (7.10.1996) by [The Social Security (Reciprocal Agreements) Order 1996 (S.I. 1996/1928)](https://www.legislation.gov.uk/uksi/1996/1928), [art. 2](https://www.legislation.gov.uk/uksi/1996/1928/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1996/1928/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/1928/schedule/2)
 
-[^key-62454829db6860855358853b5c5f2209]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1979/921) modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+[^c-62454829db6860855358853b5c5f2209]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1979/921) modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
 
-[^key-f70a9122ad72b0e3a553fa9a0274186a]: Modification: [Order](https://www.legislation.gov.uk/uksi/1979/921) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+[^c-f70a9122ad72b0e3a553fa9a0274186a]: Modification: [Order](https://www.legislation.gov.uk/uksi/1979/921) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
 
-[^key-35d67600fd4ffdc8473af073d612d946]: Modification: [Order](https://www.legislation.gov.uk/uksi/1979/921) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
+[^c-35d67600fd4ffdc8473af073d612d946]: Modification: [Order](https://www.legislation.gov.uk/uksi/1979/921) modified (6.4.2017) by [The Social Security (Reciprocal Agreements) Order 2017 (S.I. 2017/159)](https://www.legislation.gov.uk/uksi/2017/159), [art. 1](https://www.legislation.gov.uk/uksi/2017/159/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2017/159/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/159/schedule/2)
 
-[^key-b4e436cb6fe3b28cd0512b607cc3754b]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/1979/921/schedule) modified (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+[^c-b4e436cb6fe3b28cd0512b607cc3754b]: Modification: [Sch.](https://www.legislation.gov.uk/uksi/1979/921/schedule) modified (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
 
-[^key-41b8f31936e12f50c7ba43a6aee505e8]: Textual amendment: Sch. art. 11(1A) inserted (27.10.1982) by [The Social Security (Reciprocal Agreements) Order 1982 (S.I. 1982/1528)](https://www.legislation.gov.uk/uksi/1982/1528), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1528/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1982/1528/schedule/1/paragraph/3)
+[^c-41b8f31936e12f50c7ba43a6aee505e8]: Textual amendment: Sch. art. 11(1A) inserted (27.10.1982) by [The Social Security (Reciprocal Agreements) Order 1982 (S.I. 1982/1528)](https://www.legislation.gov.uk/uksi/1982/1528), [reg. 1](https://www.legislation.gov.uk/uksi/1982/1528/regulation/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1982/1528/schedule/1/paragraph/3)
 
-[^key-08aa2a11f33131d5841755222187c334]: Textual amendment: Sch. art. 11(4) inserted (22.10.1987) by [The Social Security (Portugal) Order 1987 (S.I. 1987/1831)](https://www.legislation.gov.uk/uksi/1987/1831), [reg. 1](https://www.legislation.gov.uk/uksi/1987/1831/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1987/1831/schedule)
+[^c-08aa2a11f33131d5841755222187c334]: Textual amendment: Sch. art. 11(4) inserted (22.10.1987) by [The Social Security (Portugal) Order 1987 (S.I. 1987/1831)](https://www.legislation.gov.uk/uksi/1987/1831), [reg. 1](https://www.legislation.gov.uk/uksi/1987/1831/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1987/1831/schedule)
 
-[^key-22e32a9b7474150956b30881e19dac8a]: Textual amendment: Sch. art. 11(5) : sch. art. 11(4) renumbered as sch. art. 11(5) (22.10.1987) by [The Social Security (Portugal) Order 1987 (S.I. 1987/1831)](https://www.legislation.gov.uk/uksi/1987/1831), [reg. 1](https://www.legislation.gov.uk/uksi/1987/1831/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1987/1831/schedule)
+[^c-22e32a9b7474150956b30881e19dac8a]: Textual amendment: Sch. art. 11(5) : sch. art. 11(4) renumbered as sch. art. 11(5) (22.10.1987) by [The Social Security (Portugal) Order 1987 (S.I. 1987/1831)](https://www.legislation.gov.uk/uksi/1987/1831), [reg. 1](https://www.legislation.gov.uk/uksi/1987/1831/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1987/1831/schedule)
 
-[^key-9efa9ecf53a54194f88a4cdeb8819cc2]: Textual amendment: Sch. art. 12(3) inserted (22.10.1987) by [The Social Security (Portugal) Order 1987 (S.I. 1987/1831)](https://www.legislation.gov.uk/uksi/1987/1831), [reg. 1](https://www.legislation.gov.uk/uksi/1987/1831/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1987/1831/schedule)
+[^c-9efa9ecf53a54194f88a4cdeb8819cc2]: Textual amendment: Sch. art. 12(3) inserted (22.10.1987) by [The Social Security (Portugal) Order 1987 (S.I. 1987/1831)](https://www.legislation.gov.uk/uksi/1987/1831), [reg. 1](https://www.legislation.gov.uk/uksi/1987/1831/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1987/1831/schedule)
 
-[^key-5552e2d1422f112035ae3fd55bc44ea4]: Textual amendment: Words in Sch. art. 14(5) substituted (6.4.1987) by [Social Security Act 1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), [reg. 1](https://www.legislation.gov.uk/ukpga/1986/50/regulation/1), [s. 18(1)(b)](https://www.legislation.gov.uk/ukpga/1986/50/section/18/1/b)
+[^c-5552e2d1422f112035ae3fd55bc44ea4]: Textual amendment: Words in Sch. art. 14(5) substituted (6.4.1987) by [Social Security Act 1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), [reg. 1](https://www.legislation.gov.uk/ukpga/1986/50/regulation/1), [s. 18(1)(b)](https://www.legislation.gov.uk/ukpga/1986/50/section/18/1/b)
 
-[^key-257f129272b22f5f739dbbfb9b9eeb01]: Textual amendment: Words in Sch. art. 15(2) substituted (6.4.1987) by [Social Security Act 1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), [reg. 1](https://www.legislation.gov.uk/ukpga/1986/50/regulation/1), [s. 18(1)(b)](https://www.legislation.gov.uk/ukpga/1986/50/section/18/1/b)
+[^c-257f129272b22f5f739dbbfb9b9eeb01]: Textual amendment: Words in Sch. art. 15(2) substituted (6.4.1987) by [Social Security Act 1986 (c. 50)](https://www.legislation.gov.uk/ukpga/1986/50), [reg. 1](https://www.legislation.gov.uk/ukpga/1986/50/regulation/1), [s. 18(1)(b)](https://www.legislation.gov.uk/ukpga/1986/50/section/18/1/b)
 
-[^key-5e85125f638993fc6a04d5c8681ba245]: Textual amendment: Sch. art. 26 substituted (22.10.1987) by [The Social Security (Portugal) Order 1987 (S.I. 1987/1831)](https://www.legislation.gov.uk/uksi/1987/1831), [reg. 1](https://www.legislation.gov.uk/uksi/1987/1831/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1987/1831/schedule)
+[^c-5e85125f638993fc6a04d5c8681ba245]: Textual amendment: Sch. art. 26 substituted (22.10.1987) by [The Social Security (Portugal) Order 1987 (S.I. 1987/1831)](https://www.legislation.gov.uk/uksi/1987/1831), [reg. 1](https://www.legislation.gov.uk/uksi/1987/1831/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1987/1831/schedule)
 
-[^key-73855cc6238f4cc4b585f1135087c0df]: Textual amendment: [Sch. art. 37](https://www.legislation.gov.uk/uksi/1979/921/article/37) revoked (22.10.1987) by [The Social Security (Portugal) Order 1987 (S.I. 1987/1831)](https://www.legislation.gov.uk/uksi/1987/1831), [reg. 1](https://www.legislation.gov.uk/uksi/1987/1831/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1987/1831/schedule)
+[^c-73855cc6238f4cc4b585f1135087c0df]: Textual amendment: [Sch. art. 37](https://www.legislation.gov.uk/uksi/1979/921/article/37) revoked (22.10.1987) by [The Social Security (Portugal) Order 1987 (S.I. 1987/1831)](https://www.legislation.gov.uk/uksi/1987/1831), [reg. 1](https://www.legislation.gov.uk/uksi/1987/1831/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1987/1831/schedule)

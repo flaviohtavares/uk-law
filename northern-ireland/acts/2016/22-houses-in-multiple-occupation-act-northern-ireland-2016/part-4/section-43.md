@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. The space standard[^key-ed1137e19276ac10ba5a54fb6878a44b]
+## 43. The space standard[^c-ed1137e19276ac10ba5a54fb6878a44b]
 
 *Extent: N.I.*
 
@@ -72,4 +72,4 @@ Table 3 - Rooms which are a bedroom, living room and kitchen
 
 ## Annotations
 
-[^key-ed1137e19276ac10ba5a54fb6878a44b]: Commencement: [S. 43](https://www.legislation.gov.uk/nia/2016/22/section/43) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-ed1137e19276ac10ba5a54fb6878a44b]: Commencement: [S. 43](https://www.legislation.gov.uk/nia/2016/22/section/43) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

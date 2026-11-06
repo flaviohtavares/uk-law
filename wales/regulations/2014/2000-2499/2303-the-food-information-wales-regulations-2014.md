@@ -101,8 +101,8 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 - “**means of distance communication**” (“***cyfrwng cyfathrebu o hirbell***”) has the meaning given in Article 2(2)(u);
 - “**offered for sale**” (“***a gynigir i'w werthu***”) has the same meaning as in Article 44 and “**offers for sale**” (“***cynnig gwerthu***”) is to be construed accordingly;
 - “**prepacked food**” (“***bwyd wedi ei ragbecynnu***”) has the meaning given in Article 2(2)(e);
-- “**prepacked for direct sale**” (“***wedi ei ragbecynnu i'w werthu'n uniongyrchol***”) has the same meaning as in Article 2(2)(e); [^key-e82aa04986a4c6e168018879b65294f1]...
-- “**ready for consumption**” (“***parod i'w fwyta***”) has the same meaning as in Article 2(2)(d) ; and[^key-de83f31267024d32229f454cfe121523]
+- “**prepacked for direct sale**” (“***wedi ei ragbecynnu i'w werthu'n uniongyrchol***”) has the same meaning as in Article 2(2)(e); [^c-e82aa04986a4c6e168018879b65294f1]...
+- “**ready for consumption**” (“***parod i'w fwyta***”) has the same meaning as in Article 2(2)(d) ; and[^c-de83f31267024d32229f454cfe121523]
 - “Regulation 828/2014” (“*Rheoliad 828/2014*”) means Commission Implementing Regulation (EU) No 828/2014 on the requirements for the provision of information to consumers on the absence or reduced presence of gluten in food.
 
 (2) Except as otherwise provided for—
@@ -110,7 +110,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 - (a) any reference in these Regulations to an Article is a reference to an Article of FIC, and
 - (b) any reference in these Regulations to an Annex is a reference to an Annex to FIC.
 
-(3) Any reference to FIC, or a provision of FIC (including a reference to an Article of, or Annex to, FIC to which paragraph (2) applies), or to Regulation 828/2014 or a provision of Regulation 828/2014,[^key-65f5f9e635d877db812ddc029dc90479] in a provision of these Regulations listed in Schedule 1 is a reference to that provision as amended from time to time.
+(3) Any reference to FIC, or a provision of FIC (including a reference to an Article of, or Annex to, FIC to which paragraph (2) applies), or to Regulation 828/2014 or a provision of Regulation 828/2014,[^c-65f5f9e635d877db812ddc029dc90479] in a provision of these Regulations listed in Schedule 1 is a reference to that provision as amended from time to time.
 
 ## 3. Derogation relating to milk and milk products
 
@@ -133,9 +133,9 @@ The requirements laid down in Articles 9(1) and 10(1) do not apply to milk or mi
 
 (2) This regulation applies to a relevant food that is offered for sale to a final consumer or to a mass caterer otherwise than by means of distance communication and is—
 
-- (a) not prepacked, or[^key-aa744fe9d21575e886898953a6587cee]
-- (b) packed on the sales premises at the consumer's request.[^key-e6e6f1dc223cf1d599a10ac807a5b7f2]
-- (c)[^key-f12ec9e9c4310091bc767db8a24a78dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) not prepacked, or[^c-aa744fe9d21575e886898953a6587cee]
+- (b) packed on the sales premises at the consumer's request.[^c-e6e6f1dc223cf1d599a10ac807a5b7f2]
+- (c)[^c-f12ec9e9c4310091bc767db8a24a78dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where a food business operator intends to make available the particulars specified in Article 9(1)(c) relating to a relevant food orally, and a substance or product listed in Annex II or derived from a substance or product listed in Annex II is used as an ingredient or processing aid in the manufacture or preparation of the food, the operator must indicate that details of that substance or product can be obtained by asking a member of staff.
 
@@ -151,7 +151,7 @@ The requirements laid down in Articles 9(1) and 10(1) do not apply to milk or mi
 
 (6) In this regulation “**relevant food**” (“***bwyd perthnasol***”) means a food in which an ingredient or processing aid listed in Annex II, or derived from a substance or product listed in Annex II, has been used in its manufacture or preparation and that is still present in the finished product (even if in an altered form).
 
-## 5A. Foods that are prepacked for direct sale – duty to list ingredients[^key-ffa887092d38fb2db8dd4228edd8824a]
+## 5A. Foods that are prepacked for direct sale – duty to list ingredients[^c-ffa887092d38fb2db8dd4228edd8824a]
 
 (1) A food business operator who offers for sale a food to which this regulation applies must provide directly on the package or on a label attached to the package the particulars required by the following—
 
@@ -183,9 +183,9 @@ The requirements laid down in Articles 9(1) and 10(1) do not apply to milk or mi
 
 (2) This regulation applies to a food that is offered for sale to a final consumer or a mass caterer and is—
 
-- (a) not prepacked, or[^key-e779feec4d2f69a371dca1dbf134927c]
-- (b) packed on the sales premises at the consumer's request.[^key-44fda8a68bad86dc3238226e663b62a7]
-- (c)[^key-4ecde3cc40de7d567226d6b99d6e8af4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) not prepacked, or[^c-e779feec4d2f69a371dca1dbf134927c]
+- (b) packed on the sales premises at the consumer's request.[^c-44fda8a68bad86dc3238226e663b62a7]
+- (c)[^c-4ecde3cc40de7d567226d6b99d6e8af4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This regulation does not apply to a food prepared to be ready for consumption by a final consumer that is offered for sale to a final consumer by a mass caterer (whether at a mass catering establishment where sales are made in person to a final consumer or by means of distance communication) as part of their business as a mass caterer.
 
@@ -196,7 +196,7 @@ The requirements laid down in Articles 9(1) and 10(1) do not apply to milk or mi
 
 (5) Paragraph (4) does not apply in the case of an offer for sale made by means of distance communication.
 
-## 6A. Foods that are prepacked for direct sale – general requirement to name them[^key-797108df1d85ea1633d9b97a025f9257]
+## 6A. Foods that are prepacked for direct sale – general requirement to name them[^c-797108df1d85ea1633d9b97a025f9257]
 
 (1) A food business operator who offers for sale a food to which this regulation applies must provide the particulars required by Article 9(1)(a) (the name of the food), as read with—
 
@@ -278,10 +278,10 @@ It is the duty of a food authority within its area and a port health authority w
 
 (1) A person is guilty of an offence if the person fails to comply with—
 
-- (a) any provision of FIC specified in paragraph (2), as read with Articles 1(3) and 6 and the first sub-paragraph of Article 54(1);[^key-959e38cb853b72b42627e758cfd826f7]
-- (b) regulation 5(5) ;[^key-1539a7e180dd49570b2135c018b5fb35] [^key-4d9430e1bfec61cf98a0e310463db36f]...
-- (ba)[^key-15c262ba86c8ce20ee155f6026411b87] regulation 5A(1)(b); or
-- (c)[^key-bce3fd0d1b262f5ec99fb78ddb60a02c] any provision of Regulation 828/2014 specified in paragraph (3).
+- (a) any provision of FIC specified in paragraph (2), as read with Articles 1(3) and 6 and the first sub-paragraph of Article 54(1);[^c-959e38cb853b72b42627e758cfd826f7]
+- (b) regulation 5(5) ;[^c-1539a7e180dd49570b2135c018b5fb35] [^c-4d9430e1bfec61cf98a0e310463db36f]...
+- (ba)[^c-15c262ba86c8ce20ee155f6026411b87] regulation 5A(1)(b); or
+- (c)[^c-bce3fd0d1b262f5ec99fb78ddb60a02c] any provision of Regulation 828/2014 specified in paragraph (3).
 
 (2) The provisions of FIC are—
 
@@ -290,7 +290,7 @@ It is the duty of a food authority within its area and a port health authority w
 - (c) the second sub-paragraph of Article 21(1), as also read with Articles 9(1)(c) and 19(1) and Annex II; and
 - (d) Article 44(1)(a), as also read with Article 9(1)(c) and regulation 5.
 
-(3)[^key-c9e0815d7b1ad051c7a4288a067edeb6] The provisions of Regulation 828/2014 are—
+(3)[^c-c9e0815d7b1ad051c7a4288a067edeb6] The provisions of Regulation 828/2014 are—
 
 - (a) Article 3(1) as read with Articles 1(3), 6, 7 and 36(1) and (2) of FIC and Articles 2 and 3(2) and (3) of and the Annex to Regulation 828/2014;
 - (b) Article 4 as read with Article 2.
@@ -304,18 +304,18 @@ A person guilty of an offence under regulation 10 is liable on summary convictio
 (1) Subsections (1) and (2) of section 10 of the Act (improvement notices) apply, with the modification (in the case of section 10(1)) specified in Part 1 of Schedule 4, for the purposes of—
 
 - (a) enabling an improvement notice to be served on a person requiring the person to comply with any of the following provisions—
-  - (i) a provision of FIC or Regulation 828/2014[^key-4f4390e75d43d4730efb91eae79df2a1] specified in Schedule 5, to the extent provided for in section 10 as applied by paragraph (1) and modified by Part 1 of Schedule 4;
+  - (i) a provision of FIC or Regulation 828/2014[^c-4f4390e75d43d4730efb91eae79df2a1] specified in Schedule 5, to the extent provided for in section 10 as applied by paragraph (1) and modified by Part 1 of Schedule 4;
   - (ii) regulation 5(3), (4) or (5);
-  - (iia)[^key-e651c582e866e65625ce25dc2c418696] regulation 5A(1);
+  - (iia)[^c-e651c582e866e65625ce25dc2c418696] regulation 5A(1);
   - (iii) regulation 6(1) or (4);
-  - (iiia)[^key-756c53a788ff50ab190225f31e9c1420] regulation 6A(1) or (3);
+  - (iiia)[^c-756c53a788ff50ab190225f31e9c1420] regulation 6A(1) or (3);
   - (iv) regulation 7(1), (4) or (5); or
   - (v) regulation 8(1) or (3); and
 - (b) making the failure to comply with a notice referred to in sub-paragraph (a) an offence.
 
 (2) Subsections (1) to (8) of section 32 [^c22221671] of the Act (powers of entry) apply, with the modifications (in the case of section 32(1)) specified in Part 2 of Schedule 4, for the purposes of enabling an authorised officer of a food authority or a port health authority—
 
-- (a) to exercise a power of entry to ascertain whether there is, or has been, any contravention of a provision of FIC or Regulation 828/2014[^key-087dbf7a4d734af8356d6011672ae317] specified in Schedule 5, to the extent provided for in section 32(1)(a) as applied by this paragraph and modified by Part 2 of Schedule 4;
+- (a) to exercise a power of entry to ascertain whether there is, or has been, any contravention of a provision of FIC or Regulation 828/2014[^c-087dbf7a4d734af8356d6011672ae317] specified in Schedule 5, to the extent provided for in section 32(1)(a) as applied by this paragraph and modified by Part 2 of Schedule 4;
 - (b) to exercise a power of entry to ascertain whether there is any evidence of any contravention of such a provision; and
 - (c) when exercising a power of entry under the provisions of section 32 as applied by this paragraph, to exercise the powers in subsections (5) and (6) relating to records.
 
@@ -335,11 +335,11 @@ The Regulations listed in Schedule 6 are revoked to the extent specified.
 
 Schedule 7 has effect.
 
-## 15. Transitional provisions: withdrawal from the EU[^key-4d04a3ef65d5d412cf99740b71d11ae3]
+## 15. Transitional provisions: withdrawal from the EU[^c-4d04a3ef65d5d412cf99740b71d11ae3]
 
 (1) An authorised officer of a food authority must not serve on a person an improvement notice relating to a failure to comply with Article 9(1)(h), and Article 9(1)(i) as read with Article 26(3), if—
 
-- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^key-97bb6103f74f75ca8615e4f9da7c0f5a], and
+- (a) the improvement notice would relate to a product that was placed on the market before 1 January 2024[^c-97bb6103f74f75ca8615e4f9da7c0f5a], and
 - (b) the matter would not have constituted a failure to comply with those provisions as they had effect immediately before IP completion day.
 
 (2) An authorised officer of a food authority must not serve on a person an improvement notice relating to a failure to comply with Article 7(1) or Article 36(2)(a) or (b) if—
@@ -364,7 +364,7 @@ Schedule 7 has effect.
 - “specified product” (“*cynnyrch penodedig*”) means an individually identifiable product, including a wine product, bearing an indication listed in point 5, 6 or 7 of Annex 10 to Commission Implementing [Regulation (EU) No 668/2014](https://www.legislation.gov.uk/european/regulation/2014/0668) laying down rules for the application of [Regulation (EU) No 1151/2012](https://www.legislation.gov.uk/european/regulation/2012/1151) of the European Parliament and of the Council on quality schemes for agricultural products and foodstuffsas that Regulation had effect immediately before IP completion day;
 - “wine product” (“*cynnyrch gwin*”) means a product to which Part 2 of Annex 7 to [Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council establishing a common organisation of the markets in agricultural productsas that Regulation had effect immediately before IP completion day applies.
 
-## 16. Transitional provision: the Trade and Cooperation Agreement[^key-de1d2cdacbf791e1e3445f41b97434be]
+## 16. Transitional provision: the Trade and Cooperation Agreement[^c-de1d2cdacbf791e1e3445f41b97434be]
 
 (1) An authorised officer of an enforcement authority must not serve an improvement notice, in respect of EU Annex 15 wine (including EU Annex 15 wine labelled on or after 1 May 2021) that is placed on the market in Wales—
 
@@ -384,11 +384,11 @@ Mark Drakeford
 
 Minister for Health and Social Services, one of the Welsh Ministers
 
-## SCHEDULE 1 — Provisions of these Regulations that contain ambulatory references to FIC or Regulation 828/2014 by virtue of regulation 2(3)[^key-c1f622694b2d8e0357fcd33e1d6a2855]
+## SCHEDULE 1 — Provisions of these Regulations that contain ambulatory references to FIC or Regulation 828/2014 by virtue of regulation 2(3)[^c-c1f622694b2d8e0357fcd33e1d6a2855]
 
 Regulation 2(3)
 
-Regulation 2(1) except for the definition of “FIC” and Regulation 828/2014[^key-ac4fb21288b788ec1c0205f2cbb242a2]
+Regulation 2(1) except for the definition of “FIC” and Regulation 828/2014[^c-ac4fb21288b788ec1c0205f2cbb242a2]
 
 Regulation 3
 
@@ -396,7 +396,7 @@ Regulation 4(1) and (3)
 
 Regulation 5(1), (3), (5) and (6)
 
-Regulation 5A(1)[^key-ad75e12f9909578887ff992d01f84800]
+Regulation 5A(1)[^c-ad75e12f9909578887ff992d01f84800]
 
 Regulation 6(1)
 
@@ -470,14 +470,14 @@ Regulation 12
 >
 > - (a) a provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers [^c22221701] specified in entry 1, 3, 5 to 11, 23 to 27, 29, 31 or 66 of the table in Part 2 of Schedule 5 to the Food Information (Wales) Regulations 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations), except to the extent that the provision applies to the mandatory particular relating to net quantity required by Article 9(1)(e) of Regulation (EU) No 1169/2011, as read with Article 23 of, and Annex IX to, that Regulation;
 > - (b) a provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council specified in entry 2, 67 or 68 of the table in Part 2 of Schedule 5 to the Food Information (Wales) Regulations 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations), except to the extent that the provision applies to food information relating to quantity;
-> - (c) any other provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council specified in Schedule 5 to the Food Information (Wales) Regulations 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations); [^key-c66ce8b1428a0ad0edf3e2606b013608]...
+> - (c) any other provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council specified in Schedule 5 to the Food Information (Wales) Regulations 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations); [^c-c66ce8b1428a0ad0edf3e2606b013608]...
 > - (d) any of the following provisions of the Food Information (Wales) Regulations 2014—
 >   - (i) regulation 5(3), (4) or (5);
->   - (ia)[^key-3f497f92993e00f9254313f69e6c88d2] regulation 5A(1);
+>   - (ia)[^c-3f497f92993e00f9254313f69e6c88d2] regulation 5A(1);
 >   - (ii) regulation 6(1) or (4);
->   - (iia)[^key-b75d6f62e220a88700c90374541ee782] regulation 6A(1) or (3);
->   - (iii) regulation 7(1), (4) or (5); [^key-1ddfc3d55d38f9142a1d29c359cc4f9a]...
->   - (iv) regulation 8(1) or (3); or[^key-3d5b75e619d24574a2c2ccf226227e65]
+>   - (iia)[^c-b75d6f62e220a88700c90374541ee782] regulation 6A(1) or (3);
+>   - (iii) regulation 7(1), (4) or (5); [^c-1ddfc3d55d38f9142a1d29c359cc4f9a]...
+>   - (iv) regulation 8(1) or (3); or[^c-3d5b75e619d24574a2c2ccf226227e65]
 > - (e) a provision of Commission Implementing Regulation (EU) No 828/2014 on the requirements for the provision of information to consumers on the absence or reduced presence of gluten in food specified in the table in Part 4 of Schedule 5 to the Food Information Regulations (Wales) 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations).
 
 ### PART 2 — Modification of section 32(1)
@@ -487,7 +487,7 @@ Regulation 12
 > - (a) to enter any premises within the authority's area for the purpose of ascertaining whether there is or has been on the premises any contravention of—
 >   - (i) a provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers specified in entry 1, 3, 5 to 11, 23 to 27, 29, 31 or 66 of the table in Part 2 of Schedule 5 to the Food Information (Wales) Regulations 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations), except to the extent that the provision applies to the mandatory particular relating to net quantity required by Article 9(1)(e) of Regulation (EU) No 1169/2011, as read with Article 23 of, and Annex IX to, that Regulation;
 >   - (ii) a provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council specified in entry 2, 67 or 68 of the table in Part 2 of Schedule 5 to the Food Information (Wales) Regulations 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations), except to the extent that the provision applies to food information relating to quantity; and
->   - (iii) any other provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council or Commission Implementing Regulation ([^key-18b47eab860d731cb3ac5cccd3fe241b]EU) No 828/2014 on the requirements for the provision of information to consumers on the absence or reduced presence of gluten in food specified in Schedule 5 to the Food Information (Wales) Regulations 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations); and
+>   - (iii) any other provision of Regulation (EU) No 1169/2011 of the European Parliament and of the Council or Commission Implementing Regulation ([^c-18b47eab860d731cb3ac5cccd3fe241b]EU) No 828/2014 on the requirements for the provision of information to consumers on the absence or reduced presence of gluten in food specified in Schedule 5 to the Food Information (Wales) Regulations 2014 (as read with regulation 2(3) of, and Schedule 1 to, those Regulations); and
 > - (b) to enter any business premises, whether within or outside of the authority's area, for the purpose of ascertaining whether there is on the premises any evidence of any contravention within that area of any such provisions;
 
 .
@@ -527,7 +527,7 @@ Regulation 12
 | Section 36A [^c22221731] (offences by Scottish partnerships) | For “this Act” substitute “ section 10(2), as applied by regulation 12(1) of the Food Information (Wales) Regulations 2014, or regulation 10 of those Regulations, ” |
 | Section 44 (protection of officers acting in good faith) | For “this Act” (in each place occurring) substitute “ the Food Information (Wales) Regulations 2014 ” |
 
-## SCHEDULE 5 — Improvement notices - specified ... provisions[^key-347885e1c7c22a59918ea68204bcc785]
+## SCHEDULE 5 — Improvement notices - specified ... provisions[^c-347885e1c7c22a59918ea68204bcc785]
 
 Regulation 12
 
@@ -566,15 +566,15 @@ Regulation 12
 | 23\. | Article 12(1) (availability and placement of mandatory food information) | Articles 1(3) and 6, the first sub-paragraph of Article 54(1) and Article 12(2) for pre-packed foods, Articles 12(5) and 44 for non-prepacked foods and Articles 14 and 44 for foods offered for sale by means of distance communication |
 | 24\. | Article 12(2) (general requirement for mandatory food information to appear directly on the package or on a label attached to prepacked food) | Articles 1(3) and 6, the first sub-paragraph of Article 54(1) |
 | 25\. | Article 13(1) (general requirement for the presentation of mandatory particulars) | Articles 1(3) and 6, the first sub-paragraph of Article 54(1) and, in the case of foods that are not prepacked etc. containing an allergenic substance or product etc., regulation 5 |
-| 26\. | Article 13(2) (requirement relating to the presentation of mandatory particulars referred to in Article 9(1)(a) to (l)) | Articles 1(3) and 6, the first sub-paragraph of Article 54(1) and Annex IV, and, in relation to Article 13(2) as it applies to the presentation of a mandatory nutrition declaration, the second sub-paragraph of Article 55 and, in relation to honey, point 4(b) of Article 2 of Council Directive[^key-2c9c055b394fd32c439e7afbd74f58b5] [2001/110/EC](https://www.legislation.gov.uk/eudr/2001/110) relating to honey |
-| 27\. | Article 13(3) (font size of mandatory particulars on smaller packages) | Articles 1(3) and 6 , the first subparagraph of Article 54(1) and, in relation to honey, point 4(b) of Article 2 of Council Directive[^key-b3c4ac4e77179507af5e0fd16ef964d5] [2001/110/EC](https://www.legislation.gov.uk/eudr/2001/110) |
+| 26\. | Article 13(2) (requirement relating to the presentation of mandatory particulars referred to in Article 9(1)(a) to (l)) | Articles 1(3) and 6, the first sub-paragraph of Article 54(1) and Annex IV, and, in relation to Article 13(2) as it applies to the presentation of a mandatory nutrition declaration, the second sub-paragraph of Article 55 and, in relation to honey, point 4(b) of Article 2 of Council Directive[^c-2c9c055b394fd32c439e7afbd74f58b5] [2001/110/EC](https://www.legislation.gov.uk/eudr/2001/110) relating to honey |
+| 27\. | Article 13(3) (font size of mandatory particulars on smaller packages) | Articles 1(3) and 6 , the first subparagraph of Article 54(1) and, in relation to honey, point 4(b) of Article 2 of Council Directive[^c-b3c4ac4e77179507af5e0fd16ef964d5] [2001/110/EC](https://www.legislation.gov.uk/eudr/2001/110) |
 | 28\. | Article 13(5) (field of vision requirements) | Articles 1(3), 6, 13(6) and 16(1) and (2) and the first sub-paragraph of Article 54(1) |
 | 29\. | Article 14(1) (distance selling of prepacked foods) | Articles 1(3), 6, 9 and 14(3) and the first sub-paragraph of Article 54(1) |
 | 30\. | Article 14(2) (distance selling of non-prepacked foods) | Articles 1(3), 6, 14(1) and 42 and the first sub-paragraph of Article 54(1) |
 | 31\. | Article 15(1) (language requirements) | Articles 1(3) and 6 and the first sub-paragraph of Article 54(1) |
 | 32\. | Article 17(1) (name of food) | Articles 1(3), 6 and 9(1), the first sub-paragraph of Article 54(1), regulation 4 and Schedule 2 |
-| 33\. | [^key-f061f06ce227548de82bf5487adbbe22]. . . | [^key-f061f06ce227548de82bf5487adbbe22]. . . |
-| 34\. | [^key-f061f06ce227548de82bf5487adbbe22]. . . | [^key-f061f06ce227548de82bf5487adbbe22]. . . |
+| 33\. | [^c-f061f06ce227548de82bf5487adbbe22]. . . | [^c-f061f06ce227548de82bf5487adbbe22]. . . |
+| 34\. | [^c-f061f06ce227548de82bf5487adbbe22]. . . | [^c-f061f06ce227548de82bf5487adbbe22]. . . |
 | 35\. | Article 17(4) (prohibition against replacing the name of a food with another name) | Articles 1(3) and 6 and the first sub-paragraph of Article 54(1) |
 | 36\. | Article 17(5) (requirements on the name of a food and particulars that must accompany it) except so far as it applies to the specific requirements in Part B of Annex VI concerning the designation “minced meat” | Articles 1(3) and 6, the first sub-paragraph of Article 54(1) and Annex VI |
 | 37\. | Article 18(1) (list of ingredient requirements) | Articles 1(3), 6, 18(4), 19(1) and 20, the first sub-paragraph of Article 54(1), Annex VII, regulation 8 and the first sub-paragraph of paragraph 5 of Article 3 of Council Directive [2001/112/EC](https://www.legislation.gov.uk/eudr/2001/112) relating to fruit juices and certain similar products intended for human consumption [^c22221741] |
@@ -620,14 +620,14 @@ Regulation 12
 | --- | --- |
 | Article 9(1)(l) (mandatory nutrition declaration) | Articles 1(3), 6, 9(2), 11 and 16, section 3 of Chapter IV, Article 40, the second sub-paragraph of Article 54(1), the second sub-paragraph of Article 55, Annex V and regulation 3 |
 
-### PART 4 — Regulation 828/2014 provisions in relation to which improvement notices may be served on and from 20 July 2016[^key-c59bc6c675faf4cd3db38ef784d062be]
+### PART 4 — Regulation 828/2014 provisions in relation to which improvement notices may be served on and from 20 July 2016[^c-c59bc6c675faf4cd3db38ef784d062be]
 
 | Provision of Regulation 828/2014 | Provision to be read with the provision of Regulation 828/2014 |
 | --- | --- |
 | Article 3(1) | Articles 1(3), 6, 7 and 36(1) and (2) of FIC and Articles 2 and 3(2) and (3) of and the Annex to Regulation 828/2014 |
 | Article 4 | Article 2 of Regulation 828/2014 |
 
-### PART 5 — FIC Provision in relation to which an Improvement Notice may be served on and from 1 April 2020.[^key-59e6bd4cf2d6183dbc591d5357f138ab]
+### PART 5 — FIC Provision in relation to which an Improvement Notice may be served on and from 1 April 2020.[^c-59e6bd4cf2d6183dbc591d5357f138ab]
 
 | Provision of FIC | Provisions to be read with the provision of FIC |
 | --- | --- |
@@ -653,7 +653,7 @@ Regulation 13
 | 10\. | The Colours in Food (Amendment) (Wales) Regulations 2001 | S.I. 2001/3909 (W. 321) | The whole Regulations |
 | 11\. | The Food Labelling (Amendment) (Wales) Regulations 2003 | S.I. 2003/832 (W. 104) | The whole Regulations |
 | 12\. | The Cocoa and Chocolate Products (Wales) Regulations 2003 | S.I. 2003/3037 (W. 285) [^c22221831] | Regulations 7(1) and 11(1) and (2)(f) |
-| 13\. | [^key-bb7c316e7c0e4c952d234bafb4e12204]. . . | [^key-bb7c316e7c0e4c952d234bafb4e12204]. . . | [^key-bb7c316e7c0e4c952d234bafb4e12204]. . . |
+| 13\. | [^c-bb7c316e7c0e4c952d234bafb4e12204]. . . | [^c-bb7c316e7c0e4c952d234bafb4e12204]. . . | [^c-bb7c316e7c0e4c952d234bafb4e12204]. . . |
 | 14\. | The Specified Sugar Products (Wales) Regulations 2003 | S.I. 2003/3047 (W. 290) [^c22221851] | Regulations 6 and 10(2) |
 | 15\. | The Food (Provisions relating to Labelling) (Wales) Regulations 2004 | S.I. 2004/249 (W. 26) [^c22221861] | The whole Regulations |
 | 16\. | The Food Labelling (Amendment) (Wales) Regulations 2004 | S.I. 2004/2558 (W. 229) | The whole Regulations |
@@ -882,13 +882,13 @@ The Cocoa and Chocolate Products (Wales) Regulations 2003 [^c22222161] are amend
 - (a) in paragraph (1), for “Part II of the 1996 Regulations” substitute “ Regulation (EU) No 1169/2011 ”; and
 - (b) in paragraph (2)(b), for “the 1996 Regulations” substitute “ Article 9(1)(b) of Regulation (EU) No 1169/2011 ”.
 
-#### 32. The Honey (Wales) Regulations 2003[^key-6e6efa5d11c9d7cab45962ba89391276]
+#### 32. The Honey (Wales) Regulations 2003[^c-6e6efa5d11c9d7cab45962ba89391276]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-6e6efa5d11c9d7cab45962ba89391276] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-6e6efa5d11c9d7cab45962ba89391276] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-6e6efa5d11c9d7cab45962ba89391276] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-6e6efa5d11c9d7cab45962ba89391276] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 35. The Specified Sugar Products (Wales) Regulations 2003
 
@@ -954,11 +954,11 @@ The Nutrition and Health Claims (Wales) Regulations 2007 [^c22222251] are amende
 
 .
 
-#### 49. The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) Regulations 2007[^key-85c5e32866a36924526223be95103e2b]
+#### 49. The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) Regulations 2007[^c-85c5e32866a36924526223be95103e2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**50.**[^key-85c5e32866a36924526223be95103e2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-85c5e32866a36924526223be95103e2b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 51. The Eggs and Chicks (Wales) Regulations 2010
 
@@ -1044,79 +1044,79 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22221651]: Marginal citation: OJ No L 66, 13.3.1999, p 16, last amended by Regulation (EC) No 1137/2008 of the European Parliament and of the Council (OJ No L 311, 21.11.2008, p 1).
 
-[^key-e82aa04986a4c6e168018879b65294f1]: Textual amendment: Word in reg. 2(1) omitted (20.7.2016) by virtue of [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/2/a/i)
+[^c-e82aa04986a4c6e168018879b65294f1]: Textual amendment: Word in reg. 2(1) omitted (20.7.2016) by virtue of [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(2)(a)(i)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/2/a/i)
 
-[^key-de83f31267024d32229f454cfe121523]: Textual amendment: Words in reg. 2(1) substituted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/2/a/i)
+[^c-de83f31267024d32229f454cfe121523]: Textual amendment: Words in reg. 2(1) substituted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/2/a/i)
 
-[^key-65f5f9e635d877db812ddc029dc90479]: Textual amendment: Words in reg. 2(3) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/2/b)
+[^c-65f5f9e635d877db812ddc029dc90479]: Textual amendment: Words in reg. 2(3) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(2)(b)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/2/b)
 
-[^key-aa744fe9d21575e886898953a6587cee]: Textual amendment: Word in [reg. 5(2)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/5/2/a) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/2/a)
+[^c-aa744fe9d21575e886898953a6587cee]: Textual amendment: Word in [reg. 5(2)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/5/2/a) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/2/a)
 
-[^key-e6e6f1dc223cf1d599a10ac807a5b7f2]: Textual amendment: [Reg. 5(2)(b)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/5/2/b): full stop substituted for word (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/2/b)
+[^c-e6e6f1dc223cf1d599a10ac807a5b7f2]: Textual amendment: [Reg. 5(2)(b)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/5/2/b): full stop substituted for word (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/2/b)
 
-[^key-f12ec9e9c4310091bc767db8a24a78dd]: Textual amendment: [Reg. 5(2)(c)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/5/2/c) omitted (1.10.2021) by virtue of [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/2/c)
+[^c-f12ec9e9c4310091bc767db8a24a78dd]: Textual amendment: [Reg. 5(2)(c)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/5/2/c) omitted (1.10.2021) by virtue of [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/2/c)
 
-[^key-ffa887092d38fb2db8dd4228edd8824a]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/wsi/2014/2303/regulation/5A) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/3)
+[^c-ffa887092d38fb2db8dd4228edd8824a]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/wsi/2014/2303/regulation/5A) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/3)
 
-[^key-e779feec4d2f69a371dca1dbf134927c]: Textual amendment: Word in [reg. 6(2)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/6/2/a) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/4/a)
+[^c-e779feec4d2f69a371dca1dbf134927c]: Textual amendment: Word in [reg. 6(2)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/6/2/a) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/4/a)
 
-[^key-44fda8a68bad86dc3238226e663b62a7]: Textual amendment: [Reg. 6(2)(b)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/6/2/b): full stop substituted for word (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/4/b)
+[^c-44fda8a68bad86dc3238226e663b62a7]: Textual amendment: [Reg. 6(2)(b)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/6/2/b): full stop substituted for word (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/4/b)
 
-[^key-4ecde3cc40de7d567226d6b99d6e8af4]: Textual amendment: [Reg. 6(2)(c)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/6/2/c) omitted (1.10.2021) by virtue of [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/4/c)
+[^c-4ecde3cc40de7d567226d6b99d6e8af4]: Textual amendment: [Reg. 6(2)(c)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/6/2/c) omitted (1.10.2021) by virtue of [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/4/c)
 
-[^key-797108df1d85ea1633d9b97a025f9257]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/wsi/2014/2303/regulation/6A) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/5)
+[^c-797108df1d85ea1633d9b97a025f9257]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/wsi/2014/2303/regulation/6A) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/5)
 
 [^c22221661]: Marginal citation: OJ No L 139, 30.4.2004, p 55, last amended by Commission Regulation (EU) No 633/2014 (OJ No L 175, 16.6.2014, p 6).
 
-[^key-959e38cb853b72b42627e758cfd826f7]: Textual amendment: [Semi-colon in reg. 10(1)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/10/1/a) substituted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/3/a)
+[^c-959e38cb853b72b42627e758cfd826f7]: Textual amendment: [Semi-colon in reg. 10(1)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/10/1/a) substituted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(3)(a)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/3/a)
 
-[^key-1539a7e180dd49570b2135c018b5fb35]: Textual amendment: Word in [reg. 10(1)(b)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/10/1/b) substituted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/3/b)
+[^c-1539a7e180dd49570b2135c018b5fb35]: Textual amendment: Word in [reg. 10(1)(b)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/10/1/b) substituted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(3)(b)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/3/b)
 
-[^key-4d9430e1bfec61cf98a0e310463db36f]: Textual amendment: Word in [reg. 10(1)(b)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/10/1/b) omitted (1.10.2021) by virtue of [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/6/a)
+[^c-4d9430e1bfec61cf98a0e310463db36f]: Textual amendment: Word in [reg. 10(1)(b)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/10/1/b) omitted (1.10.2021) by virtue of [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/6/a)
 
-[^key-15c262ba86c8ce20ee155f6026411b87]: Textual amendment: [Reg. 10(1)(ba)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/10/1/ba) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/6/b)
+[^c-15c262ba86c8ce20ee155f6026411b87]: Textual amendment: [Reg. 10(1)(ba)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/10/1/ba) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/6/b)
 
-[^key-bce3fd0d1b262f5ec99fb78ddb60a02c]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/10/1/c) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/3/c)
+[^c-bce3fd0d1b262f5ec99fb78ddb60a02c]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/10/1/c) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(3)(c)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/3/c)
 
-[^key-c9e0815d7b1ad051c7a4288a067edeb6]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/10/3) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(3)(d)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/3/d)
+[^c-c9e0815d7b1ad051c7a4288a067edeb6]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/10/3) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(3)(d)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/3/d)
 
-[^key-4f4390e75d43d4730efb91eae79df2a1]: Textual amendment: Words in [reg. 12(1)(a)(i)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/12/1/a/i) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/4/a)
+[^c-4f4390e75d43d4730efb91eae79df2a1]: Textual amendment: Words in [reg. 12(1)(a)(i)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/12/1/a/i) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(4)(a)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/4/a)
 
-[^key-e651c582e866e65625ce25dc2c418696]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/12/1/a)[(iia)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/12/1/iia) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/7/a)
+[^c-e651c582e866e65625ce25dc2c418696]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/12/1/a)[(iia)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/12/1/iia) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/7/a)
 
-[^key-756c53a788ff50ab190225f31e9c1420]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/12/1/a)[(iiia)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/12/1/iiia) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/7/b)
+[^c-756c53a788ff50ab190225f31e9c1420]: Textual amendment: [Reg. 12(1)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/12/1/a)[(iiia)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/12/1/iiia) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/7/b)
 
 [^c22221671]: Marginal citation: Subsections (5) and (6) of section 32 were amended by paragraph 18 of Schedule 2 to the [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16).
 
-[^key-087dbf7a4d734af8356d6011672ae317]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/12/2/a) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/4/b)
+[^c-087dbf7a4d734af8356d6011672ae317]: Textual amendment: Words in [reg. 12(2)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/12/2/a) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(4)(b)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/4/b)
 
-[^key-4d04a3ef65d5d412cf99740b71d11ae3]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/wsi/2014/2303/regulation/15) inserted (23.8.2021) by [The Food and Drink (Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/911)](https://www.legislation.gov.uk/wsi/2021/911), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/911/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2021/911/regulation/2)
+[^c-4d04a3ef65d5d412cf99740b71d11ae3]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/wsi/2014/2303/regulation/15) inserted (23.8.2021) by [The Food and Drink (Transitional Provisions) (Wales) (EU Exit) Regulations 2021 (S.I. 2021/911)](https://www.legislation.gov.uk/wsi/2021/911), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/911/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2021/911/regulation/2)
 
-[^key-97bb6103f74f75ca8615e4f9da7c0f5a]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/15/1/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2022/939/regulation/7)
+[^c-97bb6103f74f75ca8615e4f9da7c0f5a]: Textual amendment: Words in [reg. 15(1)(a)](https://www.legislation.gov.uk/wsi/2014/2303/regulation/15/1/a) substituted (30.9.2022) by [The Food Information (Amendment of Transitional Provisions) (Wales) Regulations 2022 (S.I. 2022/939)](https://www.legislation.gov.uk/wsi/2022/939), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/939/regulation/1/2), [7](https://www.legislation.gov.uk/wsi/2022/939/regulation/7)
 
-[^key-de1d2cdacbf791e1e3445f41b97434be]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/wsi/2014/2303/regulation/16) inserted (1.1.2022) by [The Food Information (Wales) (Amendment) Regulations 2021 (S.I. 2021/1383)](https://www.legislation.gov.uk/wsi/2021/1383), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1383/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2021/1383/regulation/2)
+[^c-de1d2cdacbf791e1e3445f41b97434be]: Textual amendment: [Reg. 16](https://www.legislation.gov.uk/wsi/2014/2303/regulation/16) inserted (1.1.2022) by [The Food Information (Wales) (Amendment) Regulations 2021 (S.I. 2021/1383)](https://www.legislation.gov.uk/wsi/2021/1383), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/1383/regulation/1/2), [2](https://www.legislation.gov.uk/wsi/2021/1383/regulation/2)
 
-[^key-c1f622694b2d8e0357fcd33e1d6a2855]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/1) heading inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/5/a)
+[^c-c1f622694b2d8e0357fcd33e1d6a2855]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/1) heading inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(5)(a)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/5/a)
 
-[^key-ac4fb21288b788ec1c0205f2cbb242a2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/1) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/5/b)
+[^c-ac4fb21288b788ec1c0205f2cbb242a2]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/1) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(5)(b)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/5/b)
 
-[^key-ad75e12f9909578887ff992d01f84800]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/1) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/8)
+[^c-ad75e12f9909578887ff992d01f84800]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/1) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(8)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/8)
 
 [^c22221691]: Marginal citation: OJ No L 157, 17.6.2008, p 46, last amended by Regulation (EU) No 1308/2013 of the European Parliament and of the Council (OJ No L 347, 20.12.2013, p 671).
 
 [^c22221701]: Marginal citation: OJ No L 304, 22.11.2011, p 18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.2014, p 7).
 
-[^key-c66ce8b1428a0ad0edf3e2606b013608]: Textual amendment: Word in Sch. 4 para. 1(1A)(c) omitted (20.7.2016) by virtue of [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(6)(a)(i)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/6/a/i)
+[^c-c66ce8b1428a0ad0edf3e2606b013608]: Textual amendment: Word in Sch. 4 para. 1(1A)(c) omitted (20.7.2016) by virtue of [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(6)(a)(i)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/6/a/i)
 
-[^key-3f497f92993e00f9254313f69e6c88d2]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/4/paragraph/1) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/9/a)
+[^c-3f497f92993e00f9254313f69e6c88d2]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/4/paragraph/1) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/9/a)
 
-[^key-b75d6f62e220a88700c90374541ee782]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/4/paragraph/1) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/9/b)
+[^c-b75d6f62e220a88700c90374541ee782]: Textual amendment: Words in [Sch. 4 para. 1](https://www.legislation.gov.uk/wsi/2014/2303/schedule/4/paragraph/1) inserted (1.10.2021) by [The Food Information (Wales) (Amendment) (No. 2) Regulations 2020 (S.I. 2020/295)](https://www.legislation.gov.uk/wsi/2020/295), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/295/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/wsi/2020/295/regulation/2/9/b)
 
-[^key-1ddfc3d55d38f9142a1d29c359cc4f9a]: Textual amendment: Word in Sch. 4 para. 1(1A)(d)(iii) omitted (20.7.2016) by virtue of [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(6)(a)(ii)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/6/a/ii)
+[^c-1ddfc3d55d38f9142a1d29c359cc4f9a]: Textual amendment: Word in Sch. 4 para. 1(1A)(d)(iii) omitted (20.7.2016) by virtue of [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(6)(a)(ii)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/6/a/ii)
 
-[^key-3d5b75e619d24574a2c2ccf226227e65]: Textual amendment: Sch. 4 para. 1(1A)(e) and word substituted for full stop in Sch. 4 Pt. 1 para. 1(1A)(d)(iv) (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(6)(a)(iii)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/6/a/iii)
+[^c-3d5b75e619d24574a2c2ccf226227e65]: Textual amendment: Sch. 4 para. 1(1A)(e) and word substituted for full stop in Sch. 4 Pt. 1 para. 1(1A)(d)(iv) (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(6)(a)(iii)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/6/a/iii)
 
-[^key-18b47eab860d731cb3ac5cccd3fe241b]: Textual amendment: Words in [Sch. 4 para. 2(a)(iii)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/4/paragraph/2/a/iii) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/6/b)
+[^c-18b47eab860d731cb3ac5cccd3fe241b]: Textual amendment: Words in [Sch. 4 para. 2(a)(iii)](https://www.legislation.gov.uk/wsi/2014/2303/schedule/4/paragraph/2/a/iii) inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(6)(b)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/6/b)
 
 [^c22221711]: Marginal citation: Section 21(2) was amended by [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279).
 
@@ -1124,19 +1124,19 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22221731]: Marginal citation: Section 36A was inserted by paragraph 16 of Schedule 5 to the [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28).
 
-[^key-347885e1c7c22a59918ea68204bcc785]: Textual amendment: Word in Sch. 5 heading omitted (20.7.2016) by virtue of [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(7)(a)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/7/a)
+[^c-347885e1c7c22a59918ea68204bcc785]: Textual amendment: Word in Sch. 5 heading omitted (20.7.2016) by virtue of [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(7)(a)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/7/a)
 
-[^key-2c9c055b394fd32c439e7afbd74f58b5]: Textual amendment: Words in Sch. 5 Pt. 2 inserted (3.8.2015) by [The Honey (Wales) Regulations 2015 (S.I. 2015/1507)](https://www.legislation.gov.uk/wsi/2015/1507), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/wsi/2015/1507/schedule/3/paragraph/2/a)
+[^c-2c9c055b394fd32c439e7afbd74f58b5]: Textual amendment: Words in Sch. 5 Pt. 2 inserted (3.8.2015) by [The Honey (Wales) Regulations 2015 (S.I. 2015/1507)](https://www.legislation.gov.uk/wsi/2015/1507), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2), [Sch. 3 para. 2(a)](https://www.legislation.gov.uk/wsi/2015/1507/schedule/3/paragraph/2/a)
 
-[^key-b3c4ac4e77179507af5e0fd16ef964d5]: Textual amendment: Words in Sch. 5 Pt. 2 substituted (3.8.2015) by [The Honey (Wales) Regulations 2015 (S.I. 2015/1507)](https://www.legislation.gov.uk/wsi/2015/1507), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/wsi/2015/1507/schedule/3/paragraph/2/b)
+[^c-b3c4ac4e77179507af5e0fd16ef964d5]: Textual amendment: Words in Sch. 5 Pt. 2 substituted (3.8.2015) by [The Honey (Wales) Regulations 2015 (S.I. 2015/1507)](https://www.legislation.gov.uk/wsi/2015/1507), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2), [Sch. 3 para. 2(b)](https://www.legislation.gov.uk/wsi/2015/1507/schedule/3/paragraph/2/b)
 
-[^key-f061f06ce227548de82bf5487adbbe22]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/wsi/2014/2303/schedule/5/part/2) omitted (31.12.2020) by virtue of [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [5](https://www.legislation.gov.uk/wsi/2019/435/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f061f06ce227548de82bf5487adbbe22]: Textual amendment: Words in [Sch. 5 Pt. 2](https://www.legislation.gov.uk/wsi/2014/2303/schedule/5/part/2) omitted (31.12.2020) by virtue of [The Food Standards and Labelling (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/435)](https://www.legislation.gov.uk/wsi/2019/435), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/435/regulation/1/3), [5](https://www.legislation.gov.uk/wsi/2019/435/regulation/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22221741]: Marginal citation: OJ No L 10, 12.1.2002, p 58, last amended by Directive 2012/12/EU of the European Parliament and of the Council (OJ No L 115, 27.4.2012, p 1).
 
-[^key-c59bc6c675faf4cd3db38ef784d062be]: Textual amendment: Sch. 5 Pt. 4 inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(7)(b)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/7/b)
+[^c-c59bc6c675faf4cd3db38ef784d062be]: Textual amendment: Sch. 5 Pt. 4 inserted (20.7.2016) by [The Food Information (Wales) (Amendment) Regulations 2016 (S.I. 2016/664)](https://www.legislation.gov.uk/wsi/2016/664), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/664/regulation/1/3), [2(7)(b)](https://www.legislation.gov.uk/wsi/2016/664/regulation/2/7/b)
 
-[^key-59e6bd4cf2d6183dbc591d5357f138ab]: Textual amendment: [Sch. 5 Pt. 5](https://www.legislation.gov.uk/wsi/2014/2303/schedule/5/part/5) inserted (1.4.2020) by [The Food Information (Wales) (Amendment) Regulations 2020 (S.I. 2020/220)](https://www.legislation.gov.uk/wsi/2020/220), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/220/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/220/regulation/2/2)
+[^c-59e6bd4cf2d6183dbc591d5357f138ab]: Textual amendment: [Sch. 5 Pt. 5](https://www.legislation.gov.uk/wsi/2014/2303/schedule/5/part/5) inserted (1.4.2020) by [The Food Information (Wales) (Amendment) Regulations 2020 (S.I. 2020/220)](https://www.legislation.gov.uk/wsi/2020/220), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/220/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2020/220/regulation/2/2)
 
 [^c22221751]: Marginal citation: Relevant amending instruments are [S.I. 1998/141](https://www.legislation.gov.uk/uksi/1998/141), 1398, 1999/747, 1136, 1483, 1603, 2000/1925 (W. 134), 2001/1232 (W. 66), 1440 (W. 102), 2003/832 (W. 104), 1635 (W. 177), 3037 (W. 285), 3044 (W. 288), 3047 (W. 290), 3053 (W. 291), 2004/249 (W. 26), 553 (W. 56), 1396 (W. 141), 2558 (W. 229), 2731 (W. 238), 3022 (W. 261), 2005/1309 (W. 91), 2006/31 (W. 5), 2007/2611 (W. 222), 2008/1268 (W. 128), 2009/2705 (W. 224), 3377 (W. 299), 2010/363 (W. 45), 1492 (W. 135), 2288 (W. 200), 2922 (W. 243), 2011/465 (W. 70), 1043, 2936, 2012/1809, 2705 (W. 291), 2013/545 (W. 58), 2750 (W. 267), 2591 (W. 255), 3235. [S.I. 1996/1499](https://www.legislation.gov.uk/uksi/1996/1499) is amended on 19 September 2014 by paragraphs 1 to 3 of Schedule 7 to these Regulations.
 
@@ -1156,7 +1156,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22221831]: Marginal citation: There are amendments to [S.I. 2003/3037](https://www.legislation.gov.uk/uksi/2003/3037) (W. 285) not relevant to these Regulations.
 
-[^key-bb7c316e7c0e4c952d234bafb4e12204]: Textual amendment: Words in Sch. 6 Pt. 1 omitted (3.8.2015) by virtue of [The Honey (Wales) Regulations 2015 (S.I. 2015/1507)](https://www.legislation.gov.uk/wsi/2015/1507), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/20/2/a)
+[^c-bb7c316e7c0e4c952d234bafb4e12204]: Textual amendment: Words in Sch. 6 Pt. 1 omitted (3.8.2015) by virtue of [The Honey (Wales) Regulations 2015 (S.I. 2015/1507)](https://www.legislation.gov.uk/wsi/2015/1507), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2), [20(2)(a)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/20/2/a)
 
 [^c22221851]: Marginal citation: There are amendments to [S.I. 2003/3047](https://www.legislation.gov.uk/uksi/2003/3047) (W. 290) not relevant to these Regulations.
 
@@ -1224,7 +1224,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22222171]: Marginal citation: OJ No L 304, 22.11.2011, p 18, last amended by Commission Delegated Regulation (EU) No 78/2014 (OJ No L 27, 30.1.2014, p 7).
 
-[^key-6e6efa5d11c9d7cab45962ba89391276]: Textual amendment: [Sch. 7 paras. 32-34](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/32) omitted (3.8.2015) by virtue of [The Honey (Wales) Regulations 2015 (S.I. 2015/1507)](https://www.legislation.gov.uk/wsi/2015/1507), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/20/2/b)
+[^c-6e6efa5d11c9d7cab45962ba89391276]: Textual amendment: [Sch. 7 paras. 32-34](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/32) omitted (3.8.2015) by virtue of [The Honey (Wales) Regulations 2015 (S.I. 2015/1507)](https://www.legislation.gov.uk/wsi/2015/1507), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/1/2), [20(2)(b)](https://www.legislation.gov.uk/wsi/2015/1507/regulation/20/2/b)
 
 [^c22222191]: Marginal citation: [S.I. 2003/3047](https://www.legislation.gov.uk/uksi/2003/3047) (W. 290), to which there are amendments not relevant to these Regulations.
 
@@ -1242,7 +1242,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c22222261]: Marginal citation: Article 7 of Regulation (EC) No 1924/2006 of the European Parliament and of the Council (OJ No L 404, 30.12.2006, p 9) was amended by Article 49 of Regulation (EU) No 1169/2011 of the European Parliament and of the Council; by virtue of the second sub-paragraph of Article 55 of Regulation (EU) No 1169/2011 that amendment applies from 13 December 2014.
 
-[^key-85c5e32866a36924526223be95103e2b]: Textual amendment: [Sch. 7 para. 50](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/50) omitted (28.11.2015) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) Regulations 2015 (S.I. 2015/1867)](https://www.legislation.gov.uk/wsi/2015/1867), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1867/regulation/1/2), [Sch. 13 para. 6](https://www.legislation.gov.uk/wsi/2015/1867/schedule/13/paragraph/6) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1867/regulation/3))
+[^c-85c5e32866a36924526223be95103e2b]: Textual amendment: [Sch. 7 para. 50](https://www.legislation.gov.uk/wsi/2014/2303/schedule/7/paragraph/50) omitted (28.11.2015) by virtue of [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Wales) Regulations 2015 (S.I. 2015/1867)](https://www.legislation.gov.uk/wsi/2015/1867), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1867/regulation/1/2), [Sch. 13 para. 6](https://www.legislation.gov.uk/wsi/2015/1867/schedule/13/paragraph/6) (with [reg. 3](https://www.legislation.gov.uk/wsi/2015/1867/regulation/3))
 
 [^c22222281]: Marginal citation: [S.I. 2010/1671](https://www.legislation.gov.uk/uksi/2010/1671) (W. 158), to which there are amendments not relevant to these Regulations.
 

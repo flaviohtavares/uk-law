@@ -35,7 +35,7 @@ An Act to make provision about the effect, during an appeal, of an order under s
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Deprivation of citizenship order to continue to have effect during appeal[^key-9c3a9713723a5d242a0c4dc5d535898b]
+## 1. Deprivation of citizenship order to continue to have effect during appeal[^c-9c3a9713723a5d242a0c4dc5d535898b]
 
 (1) In section 40A of the British Nationality Act 1981 (deprivation of citizenship: appeals), after subsection (2A) insert—
 
@@ -57,7 +57,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (2) The reference to an appeal in section 40A(2B)(b) of the British Nationality Act 1981 (as inserted by subsection (1)) includes an appeal brought (but not finally determined, withdrawn or abandoned) before the day on which this Act is passed.
 
-## 2. Extent, commencement and short title[^key-5c6ce1edd2dc708e1cf3e56d056b1ed6]
+## 2. Extent, commencement and short title[^c-5c6ce1edd2dc708e1cf3e56d056b1ed6]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -69,6 +69,6 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Annotations
 
-[^key-9c3a9713723a5d242a0c4dc5d535898b]: Commencement: S. 1 in force at Royal Assent, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/25/section/2/3)
+[^c-9c3a9713723a5d242a0c4dc5d535898b]: Commencement: S. 1 in force at Royal Assent, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/25/section/2/3)
 
-[^key-5c6ce1edd2dc708e1cf3e56d056b1ed6]: Commencement: S. 2 in force at Royal Assent, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/25/section/2/3)
+[^c-5c6ce1edd2dc708e1cf3e56d056b1ed6]: Commencement: S. 2 in force at Royal Assent, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/25/section/2/3)

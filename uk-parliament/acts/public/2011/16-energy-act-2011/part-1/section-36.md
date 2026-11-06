@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Funding for energy efficiency advice[^key-83a72c084eb901857dec989ae6187189]
+## 36. Funding for energy efficiency advice[^c-83a72c084eb901857dec989ae6187189]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-83a72c084eb901857dec989ae6187189]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2011/16/section/36) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(xii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/xii)
+[^c-83a72c084eb901857dec989ae6187189]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2011/16/section/36) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(xii)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/xii)

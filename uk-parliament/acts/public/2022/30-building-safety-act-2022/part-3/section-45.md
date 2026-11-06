@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Default powers of appropriate national authority[^key-d58caf63a1045d33b497ded1b50cf508][^key-7baac5da1f93ece7401e373d97ab3396][^key-7e5e425ffd56f837a0bd00bf8ea5be0b]
+## 45. Default powers of appropriate national authority[^c-d58caf63a1045d33b497ded1b50cf508][^c-7baac5da1f93ece7401e373d97ab3396][^c-7e5e425ffd56f837a0bd00bf8ea5be0b]
 
 *Extent: E+W*
 
@@ -87,8 +87,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d58caf63a1045d33b497ded1b50cf508]: Commencement: S. 45 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(vi)(c)
+[^c-d58caf63a1045d33b497ded1b50cf508]: Commencement: S. 45 not in force at Royal Assent, see [s. 170(4)(b)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/4/b)(vi)(c)
 
-[^key-7baac5da1f93ece7401e373d97ab3396]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/30/section/45) in force at 6.4.2024 except in relation to W. by [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3))
+[^c-7baac5da1f93ece7401e373d97ab3396]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/30/section/45) in force at 6.4.2024 except in relation to W. by [S.I. 2024/104](https://www.legislation.gov.uk/uksi/2024/104), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/104/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/104/regulation/3))
 
-[^key-7e5e425ffd56f837a0bd00bf8ea5be0b]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/30/section/45) in force at 1.7.2026 for W. by [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(f)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/f)
+[^c-7e5e425ffd56f837a0bd00bf8ea5be0b]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2022/30/section/45) in force at 1.7.2026 for W. by [S.I. 2025/1368](https://www.legislation.gov.uk/wsi/2025/1368), [reg. 2(f)](https://www.legislation.gov.uk/wsi/2025/1368/regulation/2/f)

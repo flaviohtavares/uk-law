@@ -24,11 +24,11 @@ Section 21
 
 ### Members of LTUC to represent users of services in London railway area
 
-**1.**[^key-9832ec880d819fdccce64cc56cdfcd26] In section 247(3)(b) of the Greater London Authority Act 1999 (c. 29) (members of LTUC appointed to represent railway users in particular area), for the words from “area for which” onwards substitute “ area for which the Committee fell, immediately before the repeal of section 2 of the Railways Act 1993 (Rail Passengers' Committees), to be treated as the Rail Passengers' Committee for the purposes specified in subsection (4) of that section ”.
+**1.**[^c-9832ec880d819fdccce64cc56cdfcd26] In section 247(3)(b) of the Greater London Authority Act 1999 (c. 29) (members of LTUC appointed to represent railway users in particular area), for the words from “area for which” onwards substitute “ area for which the Committee fell, immediately before the repeal of section 2 of the Railways Act 1993 (Rail Passengers' Committees), to be treated as the Rail Passengers' Committee for the purposes specified in subsection (4) of that section ”.
 
 ### General duty of LTUC to keep railway matters under review
 
-**2.**[^key-a3cd8c318e016a402c919434f7a252cc] Before section 253 of that Act insert—
+**2.**[^c-a3cd8c318e016a402c919434f7a252cc] Before section 253 of that Act insert—
 
 > **252A. Committee to keep railways matters under review**
 >
@@ -47,7 +47,7 @@ Section 21
 
 ### Duty of LTUC to investigate matters
 
-**3.**[^key-12ef5913e0f6cd36cf7f9b18c26d13e0] In that Act, after the section 252A inserted by paragraph 2 of this Schedule, insert—
+**3.**[^c-12ef5913e0f6cd36cf7f9b18c26d13e0] In that Act, after the section 252A inserted by paragraph 2 of this Schedule, insert—
 
 > **252B. References to Committee in relation to railways**
 >
@@ -155,7 +155,7 @@ Section 21
 
 ### Power of Secretary of State to exclude matters from duties of LTUC
 
-**4.**[^key-954bf9299ee3436306900783f703fe6e] (1) In that Act, after the section 252D inserted by paragraph 3 of this Schedule insert—
+**4.**[^c-954bf9299ee3436306900783f703fe6e] (1) In that Act, after the section 252D inserted by paragraph 3 of this Schedule insert—
 
 > **252E. Power to make exclusions from duties under sections 252A to 252D**
 >
@@ -181,7 +181,7 @@ Section 21
 
 ### Duty of Rail Passengers' Council to refer matters to the LTUC
 
-**5.**[^key-99ca336967e4a6c92c6b992d593f3ef1] In section 76 of the 1993 Act (duties of Rail Passengers' Council), after subsection (2) insert—
+**5.**[^c-99ca336967e4a6c92c6b992d593f3ef1] In section 76 of the 1993 Act (duties of Rail Passengers' Council), after subsection (2) insert—
 
 > (2A) If any matter falling within subsection (2)(a) appears to the Rail Passengers' Council to relate only to—
 >
@@ -192,12 +192,12 @@ Section 21
 
 ## Annotations
 
-[^key-9832ec880d819fdccce64cc56cdfcd26]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/1) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-9832ec880d819fdccce64cc56cdfcd26]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/1) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-a3cd8c318e016a402c919434f7a252cc]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/2) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-a3cd8c318e016a402c919434f7a252cc]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/2) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-12ef5913e0f6cd36cf7f9b18c26d13e0]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/3) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-12ef5913e0f6cd36cf7f9b18c26d13e0]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/3) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-954bf9299ee3436306900783f703fe6e]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/4) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-954bf9299ee3436306900783f703fe6e]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/4) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
-[^key-99ca336967e4a6c92c6b992d593f3ef1]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/5) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-99ca336967e4a6c92c6b992d593f3ef1]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2005/14/schedule/6/paragraph/5) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Duty to take ground control measures[^key-86abdca041b71034fe62c7bb9aa67e32]
+## 32. Duty to take ground control measures[^c-86abdca041b71034fe62c7bb9aa67e32]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86abdca041b71034fe62c7bb9aa67e32]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2016/427/regulation/32) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-86abdca041b71034fe62c7bb9aa67e32]: Commencement: [Reg. 32](https://www.legislation.gov.uk/nisr/2016/427/regulation/32) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

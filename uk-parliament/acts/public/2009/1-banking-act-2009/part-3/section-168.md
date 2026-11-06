@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 168. Consequential provision[^M_I_9fa2d102-c0e2-4038-93ec-4b102283b4eb][^key-fdd5d64736f28327a56b962bd7521764]
+## 168. Consequential provision[^M_I_9fa2d102-c0e2-4038-93ec-4b102283b4eb][^c-fdd5d64736f28327a56b962bd7521764]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 [^M_I_9fa2d102-c0e2-4038-93ec-4b102283b4eb]: Commencement: S. 168 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 3
 
-[^key-fdd5d64736f28327a56b962bd7521764]: Commencement: S. 168 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
+[^c-fdd5d64736f28327a56b962bd7521764]: Commencement: S. 168 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)

@@ -26,7 +26,7 @@ Section 34
 
 #### District Judges (Magistrates' Courts) Pensions Act (Northern Ireland) 1960 (c. 2 (N.I.))
 
-**1.**[^key-cccffc2af00e1694f7e726a685d267fb] (1) The District Judges (Magistrates' Courts) Pensions Act (Northern Ireland) 1960 is amended as follows.
+**1.**[^c-cccffc2af00e1694f7e726a685d267fb] (1) The District Judges (Magistrates' Courts) Pensions Act (Northern Ireland) 1960 is amended as follows.
 
 (2) Before section 9 (and after the heading “Contributions”) insert—
 
@@ -65,7 +65,7 @@ Section 34
 
 #### Judicial Pensions Act 1981 (c. 20)
 
-**2.**[^key-36a52a4257ed570d9364631998f331fa] (1) The Judicial Pensions Act 1981 is amended as follows.
+**2.**[^c-36a52a4257ed570d9364631998f331fa] (1) The Judicial Pensions Act 1981 is amended as follows.
 
 (2) In section 25(1)(a) (persons serving again after retirement) after “any contribution” insert “ by virtue of section 23 ”.
 
@@ -117,7 +117,7 @@ Section 34
 
 #### Constitutional Reform Act 2005 (c. 4)
 
-**3.**[^key-7c60bccc06f16ea06d981b7792675ddb] (1) Paragraph 4 of Schedule 7 to the Constitutional Reform Act 2005 (Lord Chancellor's protected functions) is amended as follows.
+**3.**[^c-7c60bccc06f16ea06d981b7792675ddb] (1) Paragraph 4 of Schedule 7 to the Constitutional Reform Act 2005 (Lord Chancellor's protected functions) is amended as follows.
 
 (2) In the entries relating to the Judicial Pensions Act 1981 at the appropriate place insert “ Section 33ZA. ”
 
@@ -129,7 +129,7 @@ Section 34
 
 #### Sheriffs' Pensions (Scotland) Act 1961 (c. 42)
 
-**4.**[^key-ebdec97e51f2a69c2a592c528cacdaa9] In section 9A of the Sheriffs' Pensions (Scotland) Act 1961 (appeals) after subsection (4) insert—
+**4.**[^c-ebdec97e51f2a69c2a592c528cacdaa9] In section 9A of the Sheriffs' Pensions (Scotland) Act 1961 (appeals) after subsection (4) insert—
 
 > (4A) Regulations under subsection (3) are to be made by statutory instrument.
 >
@@ -137,7 +137,7 @@ Section 34
 
 #### Judicial Pensions Act 1981 (c. 20)
 
-**5.**[^key-7ca8cfe36615f982f5c9b7491d4fa3bd] In section 32A of the Judicial Pensions Act 1981 (appeals) after subsection (5) insert—
+**5.**[^c-7ca8cfe36615f982f5c9b7491d4fa3bd] In section 32A of the Judicial Pensions Act 1981 (appeals) after subsection (5) insert—
 
 > (5A) Regulations under subsection (4) are to be made by statutory instrument.
 >
@@ -145,12 +145,12 @@ Section 34
 
 ## Annotations
 
-[^key-cccffc2af00e1694f7e726a685d267fb]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/1) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
+[^c-cccffc2af00e1694f7e726a685d267fb]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/1) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
 
-[^key-36a52a4257ed570d9364631998f331fa]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/2) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
+[^c-36a52a4257ed570d9364631998f331fa]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/2) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
 
-[^key-7c60bccc06f16ea06d981b7792675ddb]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/3) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
+[^c-7c60bccc06f16ea06d981b7792675ddb]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/3) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
 
-[^key-ebdec97e51f2a69c2a592c528cacdaa9]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/4) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
+[^c-ebdec97e51f2a69c2a592c528cacdaa9]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/4) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
 
-[^key-7ca8cfe36615f982f5c9b7491d4fa3bd]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/5) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)
+[^c-7ca8cfe36615f982f5c9b7491d4fa3bd]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2011/19/schedule/5/paragraph/5) in force at 3.1.2012 by [S.I. 2011/3034](https://www.legislation.gov.uk/uksi/2011/3034), [art. 3(j)](https://www.legislation.gov.uk/uksi/2011/3034/article/3/j)

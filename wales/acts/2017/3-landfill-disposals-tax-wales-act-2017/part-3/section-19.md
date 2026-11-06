@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Calculation of taxable weight of material by operator[^key-53e844f92bdd70cb52077d53c5e1cb2e]
+## 19. Calculation of taxable weight of material by operator[^c-53e844f92bdd70cb52077d53c5e1cb2e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-53e844f92bdd70cb52077d53c5e1cb2e]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2017/3/section/19) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-53e844f92bdd70cb52077d53c5e1cb2e]: Commencement: [S. 19](https://www.legislation.gov.uk/anaw/2017/3/section/19) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

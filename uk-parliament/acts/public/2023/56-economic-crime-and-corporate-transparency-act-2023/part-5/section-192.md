@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Meaning of “business relationship”[^key-0e972af36fce59c11f0937e3aa41028d][^key-ae4e839c0c715d35afed1b0d187ef6be]
+## 192. Meaning of “business relationship”[^c-0e972af36fce59c11f0937e3aa41028d][^c-ae4e839c0c715d35afed1b0d187ef6be]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e972af36fce59c11f0937e3aa41028d]: Commencement: S. 192 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-0e972af36fce59c11f0937e3aa41028d]: Commencement: S. 192 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-ae4e839c0c715d35afed1b0d187ef6be]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2023/56/section/192) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/h)
+[^c-ae4e839c0c715d35afed1b0d187ef6be]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2023/56/section/192) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/h)

@@ -24,8 +24,8 @@ summary: ''
 
 (2) Where proceedings are transferred under this Article to the county court, the county court judge may give such directions as to procedure and as to costs in the court of summary jurisdiction as he may deem proper and the parties shall comply with the directions.
 
-(3)[^key-84c054990548265ef00499e0b7978f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-84c054990548265ef00499e0b7978f44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-84c054990548265ef00499e0b7978f44]: Textual amendment: [Art. 75(3)](https://www.legislation.gov.uk/nisi/1981/1675/article/75/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(14)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/14), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-84c054990548265ef00499e0b7978f44]: Textual amendment: [Art. 75(3)](https://www.legislation.gov.uk/nisi/1981/1675/article/75/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(14)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/14), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))

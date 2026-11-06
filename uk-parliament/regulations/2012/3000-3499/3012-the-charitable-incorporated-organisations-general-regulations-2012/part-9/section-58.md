@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Replacement of document not properly delivered to Commission[^key-8f074cb2425cbee2f58cfa9cda755911]
+## 58. Replacement of document not properly delivered to Commission[^c-8f074cb2425cbee2f58cfa9cda755911]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ and that it complies with the requirements for proper delivery.
 
 ## Annotations
 
-[^key-8f074cb2425cbee2f58cfa9cda755911]: Commencement: Reg. 58 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)
+[^c-8f074cb2425cbee2f58cfa9cda755911]: Commencement: Reg. 58 in force at 2.1.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1)

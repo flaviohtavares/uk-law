@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Notification of disease or suspected disease[^key-85dc094ff42f9fd00f7456f47a1ccf16]
+## 8. Notification of disease or suspected disease[^c-85dc094ff42f9fd00f7456f47a1ccf16]
 
 *Extent: N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-85dc094ff42f9fd00f7456f47a1ccf16]: Commencement: Reg. 8 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-85dc094ff42f9fd00f7456f47a1ccf16]: Commencement: Reg. 8 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
 
 [^f00014]: Footnote: [S.R. 1999 No. 434](https://www.legislation.gov.uk/nisr/1999/434)

@@ -26,7 +26,7 @@ summary: ''
 
 (3) In these Rules:—
 
-- “administrative court division” means such division specified under section 2 of the Justice Act (Northern Ireland) 2015 for any purposes of a county court;[^key-71e99887bed3269eb28d8a109c7ab0a0]
+- “administrative court division” means such division specified under section 2 of the Justice Act (Northern Ireland) 2015 for any purposes of a county court;[^c-71e99887bed3269eb28d8a109c7ab0a0]
 - (a) “**a chief clerk**” has the meaning assigned to it by Article 2(2) of the County Courts (Northern Ireland) Order 1980[^f00032]; and
 - [(aa) [^f00033] “**criminal justice organisation**” means any one of the following organisations—
   - (i) Northern Ireland Courts and Tribunals Service;
@@ -43,7 +43,7 @@ summary: ''
 
 ## Annotations
 
-[^key-71e99887bed3269eb28d8a109c7ab0a0]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/1984/225/rule/2) inserted (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(1)](https://www.legislation.gov.uk/nisr/2016/304/article/3/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-71e99887bed3269eb28d8a109c7ab0a0]: Textual amendment: Words in [rule 2](https://www.legislation.gov.uk/nisr/1984/225/rule/2) inserted (31.10.2016) by [The Magistrates’ Courts (Amendment No. 2) Rules (Northern Ireland) 2016 (S.R. 2016/304)](https://www.legislation.gov.uk/nisr/2016/304), [rules 1](https://www.legislation.gov.uk/nisr/2016/304/rule/1), [3(1)](https://www.legislation.gov.uk/nisr/2016/304/article/3/1); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
 [^f00032]: Footnote: [S.I. 1980/397 (N.I. 3)](https://www.legislation.gov.uk/nisi/1980/397)
 

@@ -49,7 +49,7 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 1 — INTRODUCTORY
 
-### 1. Citation, commencement, extent and interpretation[^key-9f14f003f91f785c1abbdcc5e834c2a3]
+### 1. Citation, commencement, extent and interpretation[^c-9f14f003f91f785c1abbdcc5e834c2a3]
 
 (1) These Regulations may be cited as the Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) Regulations 2026.
 
@@ -66,13 +66,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 ## Part 2 — MODIFICATIONS TO PART 2 OF THE ACT: JOINT LOCAL PLANS AND JOINT SUPPLEMENTARY PLANS
 
-### 2. Modifications to Part 2 of the Act: joint local plans[^key-06300e1945ecfffb4caf5b457aafa95f]
+### 2. Modifications to Part 2 of the Act: joint local plans[^c-06300e1945ecfffb4caf5b457aafa95f]
 
 (1) Part 2 of the Act, as it applies in relation to a joint local plan in accordance with section 15IA(2) and (3) of the Act, is modified in accordance with regulations 3 and 6.
 
 (2) Paragraph (1) and regulations 3 and 6 do not have effect in relation to Part 2 of the Act as it applies in relation to a minerals and waste plan (including a joint minerals and waste plan document) in accordance with section 15CB(8) of the Act and Part 3 of these Regulations.
 
-### 3. Modification to section 15IA(3) (joint local plans: application of Part)[^key-a23e6f81964c62e767aa31029287673a]
+### 3. Modification to section 15IA(3) (joint local plans: application of Part)[^c-a23e6f81964c62e767aa31029287673a]
 
 Section 15IA of the Act is to be read as if, for subsection (3), there were substituted—
 
@@ -103,11 +103,11 @@ Section 15IA of the Act is to be read as if, for subsection (3), there were subs
 
 .
 
-### 4. Modifications to Part 2 of the Act: joint supplementary plans[^key-203d314df264060f26c3ca5a7d962b06]
+### 4. Modifications to Part 2 of the Act: joint supplementary plans[^c-203d314df264060f26c3ca5a7d962b06]
 
 Part 2 of the Act, as it applies in relation to a joint supplementary plan in accordance with section 15IC(3) and (4) of the Act, is modified in accordance with regulations 5 and 6.
 
-### 5. Modification to section 15IC (joint supplementary plans by agreement)[^key-b48b7c76d1cd7de4e7e5448bbaddb4de]
+### 5. Modification to section 15IC (joint supplementary plans by agreement)[^c-b48b7c76d1cd7de4e7e5448bbaddb4de]
 
 Section 15IC of the Act is to be read as if, for subsection (4), there were substituted—
 
@@ -131,7 +131,7 @@ Section 15IC of the Act is to be read as if, for subsection (4), there were subs
 
 .
 
-### 6. Modifications to section 15G (revocation of local plans and supplementary plans)[^key-d259158ced77b849a060b4547b00bc23]
+### 6. Modifications to section 15G (revocation of local plans and supplementary plans)[^c-d259158ced77b849a060b4547b00bc23]
 
 Section 15G of the Act is to be read as if—
 
@@ -160,7 +160,7 @@ Section 15G of the Act is to be read as if—
 
 ## Part 3 — MODIFICATIONS TO PART 2 OF THE ACT: MINERALS AND WASTE PLANS
 
-### 7. Modifications to Part 2 of the Act: minerals and waste plans[^key-304f5d0cff7753cd7eb96582017a235d]
+### 7. Modifications to Part 2 of the Act: minerals and waste plans[^c-304f5d0cff7753cd7eb96582017a235d]
 
 (1) Part 2 of the Act, as it applies in relation to a minerals and waste plan in accordance with section 15CB(8) of the Act, is modified in accordance with the following provisions.
 
@@ -203,7 +203,7 @@ Section 15G of the Act is to be read as if—
 
   .
 
-### 7A. Modifications to Part 2 of the Act: minerals and waste plans and joint minerals and waste plan documents[^key-ddbbbf7a62cefb3eec33cd1813cfad62]
+### 7A. Modifications to Part 2 of the Act: minerals and waste plans and joint minerals and waste plan documents[^c-ddbbbf7a62cefb3eec33cd1813cfad62]
 
 (1) Part 2 of the Act, as it applies in relation to a minerals and waste plan in accordance with section 15CB(8) of the Act and as it applies in relation to a joint minerals and waste plan document in accordance with section 15IA(2) and (3) of the Act, as applied by section 15CB(8) of the Act and modified by regulation 7, is modified in accordance with the following provisions.
 
@@ -263,7 +263,7 @@ Section 15G of the Act is to be read as if—
 
 ## Part 4 — CONSEQUENTIAL AMENDMENTS
 
-### 8. Amendment of the Planning (Listed Buildings and Conservation Areas) Regulations 1990[^key-62f9490612cd35dd953bb60858fa2df5]
+### 8. Amendment of the Planning (Listed Buildings and Conservation Areas) Regulations 1990[^c-62f9490612cd35dd953bb60858fa2df5]
 
 (1) The [Planning (Listed Buildings and Conservation Areas) Regulations 1990](https://www.legislation.gov.uk/uksi/1990/1519/contents)[^f00003] are amended as follows.
 
@@ -284,7 +284,7 @@ Section 15G of the Act is to be read as if—
 
 (3) In regulation 3A(3)(a), for “relevant local development documents” substitute “any relevant document which is to be or form part of a minerals and waste plan, local plan, or supplementary plan, prepared by local planning authorities, minerals and waste planning authorities or the Mayor of London,”.
 
-### 9. Amendment of the Local Authorities (Functions and Responsibilities) (England) Regulations 2000[^key-09250d1ac461a4cd43aed44f87d5b2aa]
+### 9. Amendment of the Local Authorities (Functions and Responsibilities) (England) Regulations 2000[^c-09250d1ac461a4cd43aed44f87d5b2aa]
 
 (1) The [Local Authorities (Functions and Responsibilities) (England) Regulations 2000](https://www.legislation.gov.uk/uksi/2000/2853/contents)[^f00004] are amended as follows.
 
@@ -313,7 +313,7 @@ Section 15G of the Act is to be read as if—
 - (c) in column (1), omit “Plans and alterations which together comprise the Development Plan”;
 - (d) in column (2), omit the entries relating to the words omitted by sub-paragraph (c).
 
-### 10. Amendment of the Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008[^key-b1bba74f655398a40fe5da4196f11602]
+### 10. Amendment of the Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008[^c-b1bba74f655398a40fe5da4196f11602]
 
 (1) The Local Government (Structural Changes) (Transitional Arrangements) (No.2) Regulations 2008[^f00005] are amended as follows.
 
@@ -360,7 +360,7 @@ Section 15G of the Act is to be read as if—
   - (iii) in sub-paragraph (a), for “subsection (5)” substitute “subsection (6)”;
   - (iv) in sub-paragraph (b), for “subsection (5)(a)” substitute “subsection (6)(a)”.
 
-### 11. Amendment of the Community Infrastructure Levy Regulations 2010[^key-6fd9a192edd55c29cc50395cdbd9f068]
+### 11. Amendment of the Community Infrastructure Levy Regulations 2010[^c-6fd9a192edd55c29cc50395cdbd9f068]
 
 In regulation 22 of the Community Infrastructure Levy Regulations 2010[^f00006]—
 
@@ -369,7 +369,7 @@ In regulation 22 of the Community Infrastructure Levy Regulations 2010[^f00006]�
   - (ii) for “section 20 of PCPA 2004 (independent examination)” substitute “section 15D or section 15DB of PCPA 2004”;
 - (b) in paragraph (7), for “one development plan document” substitute “one local plan, one supplementary plan”.
 
-### 12. Amendment of the Local Authorities (Committee System) (England) Regulations 2012[^key-7af97b20583793154fac79aa07df456a]
+### 12. Amendment of the Local Authorities (Committee System) (England) Regulations 2012[^c-7af97b20583793154fac79aa07df456a]
 
 (1) The [Local Authorities (Committee System) (England) Regulations 2012](https://www.legislation.gov.uk/uksi/2012/1020/contents)[^f00007] are amended as follows.
 
@@ -385,7 +385,7 @@ In regulation 22 of the Community Infrastructure Levy Regulations 2010[^f00006]�
 - (c) in column (1), omit “Plans and alterations which together comprise the Development Plan”;
 - (d) in column (2), omit the entry relating to the words omitted by sub-paragraph (c).
 
-### 13. Amendment of the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^key-b4602bc7cf41f7b966511d089435529b]
+### 13. Amendment of the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^c-b4602bc7cf41f7b966511d089435529b]
 
 (1) The [Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013](https://www.legislation.gov.uk/uksi/2013/2140/contents)[^f00008] is amended as follows.
 
@@ -411,7 +411,7 @@ In regulation 22 of the Community Infrastructure Levy Regulations 2010[^f00006]�
 
 (4) In article 31(2)(a), after “local development documents” insert “, documents which are to be or form part of minerals and waste plans, local plans or supplementary plans prepared by local planning authorities, minerals and waste planning authorities or the Mayor of London”.
 
-### 14. Amendment of the Town and Country Planning (Isles of Scilly) Order 2013[^key-10d492865fe81226dd5e098d1c10d470]
+### 14. Amendment of the Town and Country Planning (Isles of Scilly) Order 2013[^c-10d492865fe81226dd5e098d1c10d470]
 
 (1) The [Town and Country Planning (Isles of Scilly) Order 2013](https://www.legislation.gov.uk/uksi/2013/2148/contents)[^f00009] is amended as follows.
 
@@ -422,7 +422,7 @@ In regulation 22 of the Community Infrastructure Levy Regulations 2010[^f00006]�
 
 (3) In Schedule 2, in paragraphs 1 and 4, after “mineral planning authority” insert “or a minerals and waste planning authority”.
 
-### 15. Amendment of the Town and Country Planning (Development Management Procedure) (England) Order 2015[^key-5e988c1deba1a001d135d0b0af5f9a44]
+### 15. Amendment of the Town and Country Planning (Development Management Procedure) (England) Order 2015[^c-5e988c1deba1a001d135d0b0af5f9a44]
 
 (1) The [Town and Country Planning (Development Management Procedure) (England) Order 2015](https://www.legislation.gov.uk/uksi/2015/595/contents)[^f00010] is amended as follows.
 
@@ -446,7 +446,7 @@ In regulation 22 of the Community Infrastructure Levy Regulations 2010[^f00006]�
 
 (3) In article 9(3)(c), after “local development documents” insert “, documents which are to be or form part of minerals and waste plans, local plans or supplementary plans prepared by local planning authorities, minerals and waste planning authorities or the Mayor of London”.
 
-### 16. Amendment of the Greater Manchester Combined Authority (Functions and Amendment) Order 2016[^key-07d4bdfe826f291f9b73ce054eb209de]
+### 16. Amendment of the Greater Manchester Combined Authority (Functions and Amendment) Order 2016[^c-07d4bdfe826f291f9b73ce054eb209de]
 
 (1) The [Greater Manchester Combined Authority (Functions and Amendment) Order 2016](https://www.legislation.gov.uk/uksi/2016/1267/contents)[^f00011] is amended as follows.
 
@@ -454,7 +454,7 @@ In regulation 22 of the Community Infrastructure Levy Regulations 2010[^f00006]�
 
 (3) Omit Part 2 of Schedule 1.
 
-### 17. Amendment of the West of England Combined Authority Order 2017[^key-434ee552f61e206529351b1e5481637e]
+### 17. Amendment of the West of England Combined Authority Order 2017[^c-434ee552f61e206529351b1e5481637e]
 
 (1) The [West of England Combined Authority Order 2017](https://www.legislation.gov.uk/uksi/2017/126/contents)[^f00012] is amended as follows.
 
@@ -467,18 +467,18 @@ In regulation 22 of the Community Infrastructure Levy Regulations 2010[^f00006]�
 
 (4) Omit Part 2 of Schedule 2.
 
-### 18. Amendment of the Tees Valley Combined Authority (Functions) Order 2017[^key-45377e611523019bf8c91977c21a90dd]
+### 18. Amendment of the Tees Valley Combined Authority (Functions) Order 2017[^c-45377e611523019bf8c91977c21a90dd]
 
 In article 4(7) of the Tees Valley Combined Authority (Functions) Order 2017[^f00013]—
 
 - (a) after sub-paragraph (g), insert “and”;
 - (b) omit sub-paragraph (h) and the “and” after it.
 
-### 19. Amendment of the Town and Country Planning (Brownfield Land Register) Regulations 2017[^key-62b217e1dfc095d3e274660f9ae10683]
+### 19. Amendment of the Town and Country Planning (Brownfield Land Register) Regulations 2017[^c-62b217e1dfc095d3e274660f9ae10683]
 
 In regulation 4(2) of the Town and Country Planning (Brownfield Land Register) Regulations 2017[^f00014], in the definition of “suitable for residential development”, after “local development plan document” insert “, local plan or supplementary plan”.
 
-### 20. Amendment of the Liverpool City Region Combined Authority (Functions and Amendment) Order 2017[^key-ade952037fe401f7e0fb5d8e2f9c0c03]
+### 20. Amendment of the Liverpool City Region Combined Authority (Functions and Amendment) Order 2017[^c-ade952037fe401f7e0fb5d8e2f9c0c03]
 
 (1) The [Liverpool City Region Combined Authority (Functions and Amendment) Order 2017](https://www.legislation.gov.uk/uksi/2017/430/contents)[^f00015] is amended as follows.
 
@@ -491,21 +491,21 @@ In regulation 4(2) of the Town and Country Planning (Brownfield Land Register) R
 
 (4) Omit Part 2 of Schedule 1.
 
-### 21. Amendment of the West Midlands Combined Authority (Functions and Amendment) Order 2017[^key-50c1866db674fa44c8c5ae5d60baa354]
+### 21. Amendment of the West Midlands Combined Authority (Functions and Amendment) Order 2017[^c-50c1866db674fa44c8c5ae5d60baa354]
 
 In article 13(6) of the West Midlands Combined Authority (Functions and Amendment) Order 2017[^f00016]—
 
 - (a) after sub-paragraph (g), insert “and”;
 - (b) omit sub-paragraph (h) and the “and” after it.
 
-### 22. Amendment of the Greater Manchester Combined Authority (Functions and Amendment) Order 2017[^key-185a580b4129176ff41b715dc5042b13]
+### 22. Amendment of the Greater Manchester Combined Authority (Functions and Amendment) Order 2017[^c-185a580b4129176ff41b715dc5042b13]
 
 In article 4(6) of the Greater Manchester Combined Authority (Functions and Amendment) Order 2017[^f00017]—
 
 - (a) after sub-paragraph (g), insert “and”;
 - (b) omit sub-paragraph (h) and the “and” after it.
 
-### 23. Amendment of the New Towns Act 1981 (Local Authority Oversight) Regulations 2018[^key-71ed33c4c4725cb13e586c287df71108]
+### 23. Amendment of the New Towns Act 1981 (Local Authority Oversight) Regulations 2018[^c-71ed33c4c4725cb13e586c287df71108]
 
 In paragraph 4 of Schedule 1 of the New Towns Act 1981 (Local Authority Oversight) Regulations 2018[^f00018], for the text to be substituted for section 7(2)(a) substitute—
 
@@ -513,7 +513,7 @@ In paragraph 4 of Schedule 1 of the New Towns Act 1981 (Local Authority Oversigh
 
 .
 
-### 24. Amendment of the Local Government (Boundary Changes) Regulations 2018[^key-b6cac07a92e0a2e667efcce6341454db]
+### 24. Amendment of the Local Government (Boundary Changes) Regulations 2018[^c-b6cac07a92e0a2e667efcce6341454db]
 
 (1) The [Local Government (Boundary Changes) Regulations 2018](https://www.legislation.gov.uk/uksi/2018/1128/contents)[^f00019] are amended as follows.
 
@@ -559,21 +559,21 @@ In paragraph 4 of Schedule 1 of the New Towns Act 1981 (Local Authority Oversigh
   - (iii) in sub-paragraph (a), for “subsection (5)” substitute “subsection (6)”;
   - (iv) in sub-paragraph (b), for “subsection (5)(a)” substitute “subsection (6)(a)”.
 
-### 25. Amendment of the Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020[^key-215cc81af90b3e9a958c28a10d480fdc]
+### 25. Amendment of the Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020[^c-215cc81af90b3e9a958c28a10d480fdc]
 
 In article 12(6) of the Barnsley, Doncaster, Rotherham and Sheffield Combined Authority (Functions and Amendment) Order 2020[^f00020]—
 
 - (a) after sub-paragraph (h), insert “and”;
 - (b) omit sub-paragraph (i) and the “and” after it.
 
-### 26. Amendment of the West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021[^key-f6450e169c07e68c263bbcb2f895c668]
+### 26. Amendment of the West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021[^c-f6450e169c07e68c263bbcb2f895c668]
 
 In article 15(6) of the West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021[^f00021]—
 
 - (a) after sub-paragraph (h), insert “and”;
 - (b) omit sub-paragraph (i) and the “and” after it.
 
-### 27. Amendment of the North East Mayoral Combined Authority (Establishment and Functions) Order 2024[^key-78c5bfecd6ede9131a1b66455dfd7577]
+### 27. Amendment of the North East Mayoral Combined Authority (Establishment and Functions) Order 2024[^c-78c5bfecd6ede9131a1b66455dfd7577]
 
 (1) The [North East Mayoral Combined Authority (Establishment and Functions) Order 2024](https://www.legislation.gov.uk/uksi/2024/402/contents)[^f00022] is amended as follows.
 
@@ -642,100 +642,100 @@ A Regulatory Impact Assessment under the Better Regulation Framework has not bee
 
 [^f00001]: Footnote: [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5). Sections 15CB, 15IA and 15IC of the Planning and Compulsory Purchase Act 2004 (“**the Act**”) were inserted by Schedule 7 to the Levelling-up and Regeneration Act [2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55). Section 122(1) of the Act provides that a power to prescribe is a power to prescribe by regulations, exercisable by the Secretary of State in relation to England or the Welsh Ministers in relation to Wales. Section 15IA(4) of the Act is applied in relation to a minerals and waste plan by section 15CB(8) of the Act.
 
-[^key-9f14f003f91f785c1abbdcc5e834c2a3]: Commencement: Reg. 1 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-9f14f003f91f785c1abbdcc5e834c2a3]: Commencement: Reg. 1 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00002]: Footnote: *See* section 15LH(3) of the Planning and Compulsory Purchase Act 2004 for the definition of “minerals and waste plan”; section 15LH was inserted by Schedule 7 to the Levelling-up and Regeneration Act 2023.
 
-[^key-06300e1945ecfffb4caf5b457aafa95f]: Commencement: Reg. 2 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-06300e1945ecfffb4caf5b457aafa95f]: Commencement: Reg. 2 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
-[^key-a23e6f81964c62e767aa31029287673a]: Commencement: Reg. 3 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-a23e6f81964c62e767aa31029287673a]: Commencement: Reg. 3 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
-[^key-203d314df264060f26c3ca5a7d962b06]: Commencement: Reg. 4 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-203d314df264060f26c3ca5a7d962b06]: Commencement: Reg. 4 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
-[^key-b48b7c76d1cd7de4e7e5448bbaddb4de]: Commencement: Reg. 5 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-b48b7c76d1cd7de4e7e5448bbaddb4de]: Commencement: Reg. 5 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
-[^key-d259158ced77b849a060b4547b00bc23]: Commencement: Reg. 6 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-d259158ced77b849a060b4547b00bc23]: Commencement: Reg. 6 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
-[^key-304f5d0cff7753cd7eb96582017a235d]: Commencement: Reg. 7 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-304f5d0cff7753cd7eb96582017a235d]: Commencement: Reg. 7 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
-[^key-ddbbbf7a62cefb3eec33cd1813cfad62]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2026/170/regulation/7A) inserted (16.4.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) (Amendment) Regulations 2026 (S.I. 2026/350)](https://www.legislation.gov.uk/uksi/2026/350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/350/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/350/regulation/2)
+[^c-ddbbbf7a62cefb3eec33cd1813cfad62]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2026/170/regulation/7A) inserted (16.4.2026) by [The Planning and Compulsory Purchase Act 2004 (Local Planning) (Modification and Consequential Amendments) (England) (Amendment) Regulations 2026 (S.I. 2026/350)](https://www.legislation.gov.uk/uksi/2026/350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/350/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/350/regulation/2)
 
-[^key-62f9490612cd35dd953bb60858fa2df5]: Commencement: Reg. 8 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-62f9490612cd35dd953bb60858fa2df5]: Commencement: Reg. 8 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519/contents), relevant amending instruments are [S.I. 2006/1063](https://www.legislation.gov.uk/uksi/2006/1063) and [2018/119](https://www.legislation.gov.uk/uksi/2018/119); there are other amending instruments but none is relevant.
 
-[^key-09250d1ac461a4cd43aed44f87d5b2aa]: Commencement: Reg. 9 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-09250d1ac461a4cd43aed44f87d5b2aa]: Commencement: Reg. 9 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00004]: Footnote: [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853/contents), amended by [S.I. 2005/929](https://www.legislation.gov.uk/uksi/2005/929); there are other amending instruments but none is relevant.
 
-[^key-b1bba74f655398a40fe5da4196f11602]: Commencement: Reg. 10 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-b1bba74f655398a40fe5da4196f11602]: Commencement: Reg. 10 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00005]: Footnote: [S.I. 2008/2867](https://www.legislation.gov.uk/uksi/2008/2867), amended by [S.I. 2018/930](https://www.legislation.gov.uk/uksi/2018/930); there are other amending instruments but none is relevant.
 
-[^key-6fd9a192edd55c29cc50395cdbd9f068]: Commencement: Reg. 11 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-6fd9a192edd55c29cc50395cdbd9f068]: Commencement: Reg. 11 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2010/948](https://www.legislation.gov.uk/uksi/2010/948/contents), to which there are amendments not relevant to these Regulations.
 
-[^key-7af97b20583793154fac79aa07df456a]: Commencement: Reg. 12 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-7af97b20583793154fac79aa07df456a]: Commencement: Reg. 12 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2012/1020](https://www.legislation.gov.uk/uksi/2012/1020/contents), to which there are amendments not relevant to these Regulations.
 
-[^key-b4602bc7cf41f7b966511d089435529b]: Commencement: Reg. 13 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-b4602bc7cf41f7b966511d089435529b]: Commencement: Reg. 13 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00008]: Footnote: [S.I. 2013/2140](https://www.legislation.gov.uk/uksi/2013/2140/contents), relevant amending instrument is [S.I. 2014/1532](https://www.legislation.gov.uk/uksi/2014/1532); there are other amending instruments but none is relevant.
 
-[^key-10d492865fe81226dd5e098d1c10d470]: Commencement: Reg. 14 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-10d492865fe81226dd5e098d1c10d470]: Commencement: Reg. 14 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00009]: Footnote: [S.I. 2013/2148](https://www.legislation.gov.uk/uksi/2013/2148/contents).
 
-[^key-5e988c1deba1a001d135d0b0af5f9a44]: Commencement: Reg. 15 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-5e988c1deba1a001d135d0b0af5f9a44]: Commencement: Reg. 15 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595/contents); there are amending instruments but none is relevant.
 
-[^key-07d4bdfe826f291f9b73ce054eb209de]: Commencement: Reg. 16 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-07d4bdfe826f291f9b73ce054eb209de]: Commencement: Reg. 16 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2016/1267](https://www.legislation.gov.uk/uksi/2016/1267/contents).
 
-[^key-434ee552f61e206529351b1e5481637e]: Commencement: Reg. 17 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-434ee552f61e206529351b1e5481637e]: Commencement: Reg. 17 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2017/126](https://www.legislation.gov.uk/uksi/2017/126/contents), to which there are amendments not relevant to these Regulations.
 
-[^key-45377e611523019bf8c91977c21a90dd]: Commencement: Reg. 18 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-45377e611523019bf8c91977c21a90dd]: Commencement: Reg. 18 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2017/250](https://www.legislation.gov.uk/uksi/2017/250/contents).
 
-[^key-62b217e1dfc095d3e274660f9ae10683]: Commencement: Reg. 19 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-62b217e1dfc095d3e274660f9ae10683]: Commencement: Reg. 19 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00014]: Footnote: [S.I. 2017/403](https://www.legislation.gov.uk/uksi/2017/403), to which there are amendments not relevant to these Regulations.
 
-[^key-ade952037fe401f7e0fb5d8e2f9c0c03]: Commencement: Reg. 20 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-ade952037fe401f7e0fb5d8e2f9c0c03]: Commencement: Reg. 20 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2017/430](https://www.legislation.gov.uk/uksi/2017/430/contents), to which there are amendments not relevant to these Regulations.
 
-[^key-50c1866db674fa44c8c5ae5d60baa354]: Commencement: Reg. 21 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-50c1866db674fa44c8c5ae5d60baa354]: Commencement: Reg. 21 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00016]: Footnote: [S.I. 2017/510](https://www.legislation.gov.uk/uksi/2017/510/contents), to which there are amendments not relevant to these Regulations.
 
-[^key-185a580b4129176ff41b715dc5042b13]: Commencement: Reg. 22 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-185a580b4129176ff41b715dc5042b13]: Commencement: Reg. 22 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2017/612](https://www.legislation.gov.uk/uksi/2017/612/contents).
 
-[^key-71ed33c4c4725cb13e586c287df71108]: Commencement: Reg. 23 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-71ed33c4c4725cb13e586c287df71108]: Commencement: Reg. 23 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 2018/891](https://www.legislation.gov.uk/uksi/2018/891/contents).
 
-[^key-b6cac07a92e0a2e667efcce6341454db]: Commencement: Reg. 24 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-b6cac07a92e0a2e667efcce6341454db]: Commencement: Reg. 24 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 2018/1128](https://www.legislation.gov.uk/uksi/2018/1128/contents).
 
-[^key-215cc81af90b3e9a958c28a10d480fdc]: Commencement: Reg. 25 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-215cc81af90b3e9a958c28a10d480fdc]: Commencement: Reg. 25 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 2020/806](https://www.legislation.gov.uk/uksi/2020/806/contents), to which there are amendments not relevant to these Regulations.
 
-[^key-f6450e169c07e68c263bbcb2f895c668]: Commencement: Reg. 26 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-f6450e169c07e68c263bbcb2f895c668]: Commencement: Reg. 26 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00021]: Footnote: [S.I. 2021/112](https://www.legislation.gov.uk/uksi/2021/112/contents), to which there are amendments not relevant to these Regulations.
 
-[^key-78c5bfecd6ede9131a1b66455dfd7577]: Commencement: Reg. 27 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
+[^c-78c5bfecd6ede9131a1b66455dfd7577]: Commencement: Reg. 27 in force at 25.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/170/regulation/1/2)
 
 [^f00022]: Footnote: [S.I. 2024/402](https://www.legislation.gov.uk/uksi/2024/402/contents), to which there are amendments not relevant to these Regulations.

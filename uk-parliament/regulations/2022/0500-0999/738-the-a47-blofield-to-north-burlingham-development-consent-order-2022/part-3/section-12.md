@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Construction and maintenance of new, altered or diverted streets and other structures[^key-1c68856585d12f3786177d5c17096ad8]
+## 12. Construction and maintenance of new, altered or diverted streets and other structures[^c-1c68856585d12f3786177d5c17096ad8]
 
 *Extent: E+W+S*
 
@@ -49,6 +49,6 @@ but for the purposes of such a defence it is not relevant to prove that the unde
 
 ## Annotations
 
-[^key-1c68856585d12f3786177d5c17096ad8]: Commencement: Art. 12 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
+[^c-1c68856585d12f3786177d5c17096ad8]: Commencement: Art. 12 in force at 13.7.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/738/article/1)
 
 [^f00048]: Footnote: Section 265 was amended by section 146 of, and paragraph 45 of Schedule 3 to, the Road Traffic Regulation Act 1984; and section 57 of, and paragraph 52 of Schedule 1 to, the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).

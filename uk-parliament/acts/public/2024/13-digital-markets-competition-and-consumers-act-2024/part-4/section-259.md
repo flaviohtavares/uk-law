@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259. Content and timing etc of reminder notices[^key-47e8afd6bc6e0dd2229e8ad276f78222]
+## 259. Content and timing etc of reminder notices[^c-47e8afd6bc6e0dd2229e8ad276f78222]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ and that information must be given to the consumer all together.
 
 ## Annotations
 
-[^key-47e8afd6bc6e0dd2229e8ad276f78222]: Commencement: S. 259 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-47e8afd6bc6e0dd2229e8ad276f78222]: Commencement: S. 259 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)

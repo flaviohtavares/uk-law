@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Withdrawal from Scheme when under consideration for listing[^key-0b28cf0e507b79c11b7fd16c95a604dc]
+## 78. Withdrawal from Scheme when under consideration for listing[^c-0b28cf0e507b79c11b7fd16c95a604dc]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b28cf0e507b79c11b7fd16c95a604dc]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2020/13/section/78) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/380/regulation/3))
+[^c-0b28cf0e507b79c11b7fd16c95a604dc]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2020/13/section/78) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2021/380/regulation/3))

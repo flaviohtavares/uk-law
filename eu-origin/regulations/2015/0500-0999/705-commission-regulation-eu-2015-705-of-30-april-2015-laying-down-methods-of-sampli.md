@@ -69,7 +69,7 @@ References to the repealed Directive shall be construed as references to this Re
 
 **Article 3.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-e81617bb639aa3211ea2f96233205547]...
+[^c-e81617bb639aa3211ea2f96233205547]...
 
 Done at Brussels, 30 April 2015.
 
@@ -115,7 +115,7 @@ B.1.1.
 
 **Personnel**
 
-Sampling shall be performed by an authorised person [^key-f41b4a6bc0ad7f2d7cdd4d1bb2811e84]....
+Sampling shall be performed by an authorised person [^c-f41b4a6bc0ad7f2d7cdd4d1bb2811e84]....
 
 B.1.2.
 
@@ -145,7 +145,7 @@ B.1.6.
 
 **Samples for enforcement, defence and referee purposes**
 
-The samples for enforcement, defence and referee purposes shall be taken from the homogenised aggregate sample unless this conflicts with the rules applicable in each constituent territory of Great Britain[^key-74c1522e448cefaf303e281d054f61f6] as regards the rights of the food business operators.
+The samples for enforcement, defence and referee purposes shall be taken from the homogenised aggregate sample unless this conflicts with the rules applicable in each constituent territory of Great Britain[^c-74c1522e448cefaf303e281d054f61f6] as regards the rights of the food business operators.
 
 B.1.7.
 
@@ -157,7 +157,7 @@ B.1.8.
 
 **Sealing and labelling of samples**
 
-Each sample taken for official use shall be sealed at the place of sampling and identified in accordance with the rules applicable in each constituent territory of Great Britain[^key-f4f101596191583d2e3f4d8080593ba2].
+Each sample taken for official use shall be sealed at the place of sampling and identified in accordance with the rules applicable in each constituent territory of Great Britain[^c-f4f101596191583d2e3f4d8080593ba2].
 
 A record shall be kept of each sampling, permitting each lot or sublot from which the sample has been taken to be identified unambiguously. That record shall indicate all of the following:
 
@@ -341,7 +341,7 @@ C.3.3.1.
 
 Performance criteria
 
-Where no specific methods for the determination of contaminants in foodstuffs are prescribed [^key-5ef4d6823cb8b83c321611a470fdb160]..., laboratories may select any validated method of analysis for the respective matrix provided that the selected method meets the specific performance criteria set out in Table 5.
+Where no specific methods for the determination of contaminants in foodstuffs are prescribed [^c-5ef4d6823cb8b83c321611a470fdb160]..., laboratories may select any validated method of analysis for the respective matrix provided that the selected method meets the specific performance criteria set out in Table 5.
 
 It is recommended that fully validated methods (i.e. methods validated by collaborative trial for the respective matrix) are used where appropriate and available. Other suitable validated methods (e.g. in-house validated methods for the respective matrix) may also be used provided that they fulfil the performance criteria set out in Table 5.
 
@@ -470,13 +470,13 @@ The interpretation rules set out under points D.2.1 and D.2.2 shall apply for th
 
 [^f00003]: Footnote: Commission Directive 80/891/EEC of 25 July 1980 relating to the Community method of analysis for determining the erucic acid content in oils and fats intended to be used as such for human consumption and foodstuffs containing added oils or fats ([OJ L 254, 27.9.1980, p. 35](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1980.254.01.0035.01.ENG)).
 
-[^key-e81617bb639aa3211ea2f96233205547]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/705/signature) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [34](https://www.legislation.gov.uk/uksi/2019/639/regulation/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e81617bb639aa3211ea2f96233205547]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/705/signature) omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [34](https://www.legislation.gov.uk/uksi/2019/639/regulation/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f41b4a6bc0ad7f2d7cdd4d1bb2811e84]: Textual amendment: Words in Annex para. B omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [35(a)](https://www.legislation.gov.uk/uksi/2019/639/regulation/35/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(11)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f41b4a6bc0ad7f2d7cdd4d1bb2811e84]: Textual amendment: Words in Annex para. B omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [35(a)](https://www.legislation.gov.uk/uksi/2019/639/regulation/35/a) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(11)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74c1522e448cefaf303e281d054f61f6]: Textual amendment: Words in Annex para. B substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [35(b)](https://www.legislation.gov.uk/uksi/2019/639/regulation/35/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(11)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74c1522e448cefaf303e281d054f61f6]: Textual amendment: Words in Annex para. B substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [35(b)](https://www.legislation.gov.uk/uksi/2019/639/regulation/35/b) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(11)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f4f101596191583d2e3f4d8080593ba2]: Textual amendment: Words in Annex para. B substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [35(c)](https://www.legislation.gov.uk/uksi/2019/639/regulation/35/c) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(11)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f4f101596191583d2e3f4d8080593ba2]: Textual amendment: Words in Annex para. B substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [35(c)](https://www.legislation.gov.uk/uksi/2019/639/regulation/35/c) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(11)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00004]: Footnote: ‘The international harmonized protocol for the proficiency testing of analytical chemistry laboratories’ by M. Thompson, S.L.R. Ellison and R. Wood, Pure Appl. Chem., 2006, 78, 145-196.
 
@@ -484,7 +484,7 @@ The interpretation rules set out under points D.2.1 and D.2.2 shall apply for th
 
 [^f00006]: Footnote: International vocabulary of metrology — Basic and general concepts and associated terms (VIM), JCGM 200:2008.
 
-[^key-5ef4d6823cb8b83c321611a470fdb160]: Textual amendment: Words in Annex para. C omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [35(d)](https://www.legislation.gov.uk/uksi/2019/639/regulation/35/d) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(11)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ef4d6823cb8b83c321611a470fdb160]: Textual amendment: Words in Annex para. C omitted (31.12.2020) by virtue of [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [35(d)](https://www.legislation.gov.uk/uksi/2019/639/regulation/35/d) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(11)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00008]: Footnote: W. Horwitz, L.R. Kamps. K.W. Boyer, J.Assoc.Off.Analy.Chem.,1980, 63, 1344.
 

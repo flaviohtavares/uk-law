@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 21. Obstruction[^key-ea1f590351d5777119970b5130d2e605]
+## 21. Obstruction[^c-ea1f590351d5777119970b5130d2e605]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ A person is guilty of an offence if he—
 
 ## Annotations
 
-[^key-ea1f590351d5777119970b5130d2e605]: Commencement: Reg. 21 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-ea1f590351d5777119970b5130d2e605]: Commencement: Reg. 21 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

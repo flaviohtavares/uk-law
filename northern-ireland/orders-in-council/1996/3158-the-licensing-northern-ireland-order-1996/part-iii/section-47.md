@@ -25,7 +25,7 @@ summary: ''
 - (a) in such part or parts of the premises for which an order under Article 48 is in force, and
 - (b) during such hours, being the hours—
   - (i) on week-days between half past 11 in the morning and 1 in the morning of the day next following, or
-  - (ii)[^key-00b76d080223129e8c07f4340d2cb8f3] on Sundays, between half past 12 in the afternoon and 1 in the morning of the day next following,
+  - (ii)[^c-00b76d080223129e8c07f4340d2cb8f3] on Sundays, between half past 12 in the afternoon and 1 in the morning of the day next following,
 
 as may be specified in the extension licence; and those hours shall, so far as not otherwise comprised in them, be included in the permitted hours for the part or parts of the premises specified in the extension licence.
 
@@ -50,7 +50,7 @@ the clerk shall require the application to be made to the court and shall notify
 
 (6) Nothing in this Article shall permit an extension licence to authorise the sale of intoxicating liquor—
 
-- (a) on Christmas Day, [^key-58aecd91b1c7df1444a0e81346ee1286]... or
+- (a) on Christmas Day, [^c-58aecd91b1c7df1444a0e81346ee1286]... or
 - (b) to a person admitted to the premises after half past 12 in the morning or, where the function is due to end before 1 in the morning, less than 30 minutes before the function is due to end.
 
 (7) If the holder of an extension licence or any servant or agent of his sells intoxicating liquor in contravention of paragraph (4), the holder of the licence shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
@@ -59,6 +59,6 @@ the clerk shall require the application to be made to the court and shall notify
 
 ## Annotations
 
-[^key-00b76d080223129e8c07f4340d2cb8f3]: Textual amendment: [Art. 47(1)(b)(ii)](https://www.legislation.gov.uk/nisi/1996/3158/article/47/1/b/ii) substituted for [art. 47(1)(b)(ii)(iii)](https://www.legislation.gov.uk/nisi/1996/3158/article/47/1/b/ii) (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 2(6)](https://www.legislation.gov.uk/nia/2021/7/section/2/6), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-00b76d080223129e8c07f4340d2cb8f3]: Textual amendment: [Art. 47(1)(b)(ii)](https://www.legislation.gov.uk/nisi/1996/3158/article/47/1/b/ii) substituted for [art. 47(1)(b)(ii)(iii)](https://www.legislation.gov.uk/nisi/1996/3158/article/47/1/b/ii) (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 2(6)](https://www.legislation.gov.uk/nia/2021/7/section/2/6), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
 
-[^key-58aecd91b1c7df1444a0e81346ee1286]: Textual amendment: Words in [art. 47(6)(a)](https://www.legislation.gov.uk/nisi/1996/3158/article/47/6/a) repealed (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 1(7)](https://www.legislation.gov.uk/nia/2021/7/section/1/7), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)
+[^c-58aecd91b1c7df1444a0e81346ee1286]: Textual amendment: Words in [art. 47(6)(a)](https://www.legislation.gov.uk/nisi/1996/3158/article/47/6/a) repealed (1.10.2021) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 1(7)](https://www.legislation.gov.uk/nia/2021/7/section/1/7), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2), [Sch. 2](https://www.legislation.gov.uk/nia/2021/7/schedule/2); [S.R. 2021/247](https://www.legislation.gov.uk/nisr/2021/247), [art. 2](https://www.legislation.gov.uk/nisr/2021/247/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2021/247/schedule)

@@ -14,10 +14,10 @@ summary: ''
 
 > Text as at 2026-04-06.
 
-## 86D. Applicable amount for a joint-claim couple where a number is in residential care or a nursing home[^key-edd162584f2323084baaae6e618f4df5]
+## 86D. Applicable amount for a joint-claim couple where a number is in residential care or a nursing home[^c-edd162584f2323084baaae6e618f4df5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-edd162584f2323084baaae6e618f4df5]: Textual amendment: [Reg. 86D](https://www.legislation.gov.uk/uksi/1996/207/regulation/86D) omitted (8.4.2002) by virtue of [The Social Security Amendment (Residential Care and Nursing Homes) Regulations 2001 (S.I. 2001/3767)](https://www.legislation.gov.uk/uksi/2001/3767), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3767/regulation/1), [Sch. Pt. II para. 10](https://www.legislation.gov.uk/uksi/2001/3767/schedule/part/II/paragraph/10)
+[^c-edd162584f2323084baaae6e618f4df5]: Textual amendment: [Reg. 86D](https://www.legislation.gov.uk/uksi/1996/207/regulation/86D) omitted (8.4.2002) by virtue of [The Social Security Amendment (Residential Care and Nursing Homes) Regulations 2001 (S.I. 2001/3767)](https://www.legislation.gov.uk/uksi/2001/3767), [reg. 1](https://www.legislation.gov.uk/uksi/2001/3767/regulation/1), [Sch. Pt. II para. 10](https://www.legislation.gov.uk/uksi/2001/3767/schedule/part/II/paragraph/10)

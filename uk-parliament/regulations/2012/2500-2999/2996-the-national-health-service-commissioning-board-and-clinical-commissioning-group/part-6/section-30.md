@@ -22,7 +22,7 @@ summary: ''
 
 (1) Where, immediately before the relevant date, a Primary Care Trust was making a high band payment in respect of any person pursuant to direction 4 of the National Health Service (Nursing Care in Residential Accommodation) (England) Directions 2007, paragraphs (2) and (3) apply.
 
-(2) The relevant body which has responsibility for a person falling within paragraph (1) must [^key-a716b8b72f1b784ca9c559c657dba0f2]... pay the high band payment to a registered person for the relevant premises in respect of the person falling within paragraph (1) [^key-a716b8b72f1b784ca9c559c657dba0f2]... unless or until that person—
+(2) The relevant body which has responsibility for a person falling within paragraph (1) must [^c-a716b8b72f1b784ca9c559c657dba0f2]... pay the high band payment to a registered person for the relevant premises in respect of the person falling within paragraph (1) [^c-a716b8b72f1b784ca9c559c657dba0f2]... unless or until that person—
 
 - (a) has their need for nursing care assessed on or after the relevant date and it is determined that that person no longer has any need for nursing care;
 - (b) is no longer resident in the relevant premises;
@@ -47,4 +47,4 @@ written notice of the outcome of the assessment referred to in paragraph (3) and
 
 ## Annotations
 
-[^key-a716b8b72f1b784ca9c559c657dba0f2]: Textual amendment: Words in reg. 30(2) omitted (1.10.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/1611)](https://www.legislation.gov.uk/uksi/2014/1611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/3/4)
+[^c-a716b8b72f1b784ca9c559c657dba0f2]: Textual amendment: Words in reg. 30(2) omitted (1.10.2014) by [The National Health Service Commissioning Board and Clinical Commissioning Groups (Responsibilities and Standing Rules) (Amendment) (No. 3) Regulations 2014 (S.I. 2014/1611)](https://www.legislation.gov.uk/uksi/2014/1611), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2014/1611/regulation/3/4)

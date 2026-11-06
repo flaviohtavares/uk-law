@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.30. Order for joint or separate trials, or amendment of the indictment[^key-eadf4722bc43a89455b7e76a4679b874]
+## 3.30. Order for joint or separate trials, or amendment of the indictment[^c-eadf4722bc43a89455b7e76a4679b874]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eadf4722bc43a89455b7e76a4679b874]: Commencement: [Rule 3.30](https://www.legislation.gov.uk/uksi/2025/909/rule/3.30) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-eadf4722bc43a89455b7e76a4679b874]: Commencement: [Rule 3.30](https://www.legislation.gov.uk/uksi/2025/909/rule/3.30) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

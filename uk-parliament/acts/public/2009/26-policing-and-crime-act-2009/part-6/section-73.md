@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Return from category 2 territory[^key-3e508d8f520177b215ba557cc0eca939]
+## 73. Return from category 2 territory[^c-3e508d8f520177b215ba557cc0eca939]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ For section 132 of the Extradition Act 2003 substitute—
 
 ## Annotations
 
-[^key-3e508d8f520177b215ba557cc0eca939]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2009/26/section/73) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(p)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/p)
+[^c-3e508d8f520177b215ba557cc0eca939]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2009/26/section/73) in force at 25.1.2010 by [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(p)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/p)

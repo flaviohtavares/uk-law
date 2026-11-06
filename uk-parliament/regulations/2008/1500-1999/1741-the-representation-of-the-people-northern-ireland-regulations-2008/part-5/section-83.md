@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 83. Postal ballot boxes and receptacles[^key-bc23152a30d90b0c18992a9685f0d643]
+## 83. Postal ballot boxes and receptacles[^c-bc23152a30d90b0c18992a9685f0d643]
 
 *Extent: N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc23152a30d90b0c18992a9685f0d643]: Modification: [Reg. 83](https://www.legislation.gov.uk/uksi/2008/1741/regulation/83) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 95](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/95)
+[^c-bc23152a30d90b0c18992a9685f0d643]: Modification: [Reg. 83](https://www.legislation.gov.uk/uksi/2008/1741/regulation/83) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 95](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/95)

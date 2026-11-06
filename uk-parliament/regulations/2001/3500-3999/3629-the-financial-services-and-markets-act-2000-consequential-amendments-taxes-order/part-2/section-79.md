@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Interpretation[^key-3c1a7f0713fe60b561225c4f38ca6348]
+## 79. Interpretation[^c-3c1a7f0713fe60b561225c4f38ca6348]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In section 184(1) (interpretation) for the definition of â€œpremiums trust fundâ
 
 ## Annotations
 
-[^key-3c1a7f0713fe60b561225c4f38ca6348]: Commencement: Art. 79 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-3c1a7f0713fe60b561225c4f38ca6348]: Commencement: Art. 79 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00092]: Footnote: This sourcebook is part of the FSA Handbook. The FSA Handbook may be purchased on paper and on CD Rom from the Publications Department (Sales), Financial Services Authority, 25 The North Colonnade, Canary Wharf, London E14 5HS and is available on line at www.fsa.gov.uk.

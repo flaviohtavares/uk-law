@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Child trust funds: transfers[^c22547911][^key-f6735709b2e59154c4065c9e106c2ca4]
+## 62. Child trust funds: transfers[^c22547911][^c-f6735709b2e59154c4065c9e106c2ca4]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 [^c22547911]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2015/20/section/62) in force for certain purposes at Royal Assent, see [s. 115](https://www.legislation.gov.uk/ukpga/2015/20/section/115)
 
-[^key-f6735709b2e59154c4065c9e106c2ca4]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2015/20/section/62) in force at 6.4.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/994/article/3/a)
+[^c-f6735709b2e59154c4065c9e106c2ca4]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2015/20/section/62) in force at 6.4.2015 in so far as not already in force by [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/994/article/3/a)

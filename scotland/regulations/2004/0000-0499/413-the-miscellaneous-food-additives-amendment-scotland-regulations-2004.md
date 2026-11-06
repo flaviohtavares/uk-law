@@ -27,7 +27,7 @@ summary: ''
 
 FOOD
 
-The Miscellaneous Food Additives Amendment (Scotland) Regulations 2004 (revoked)[^key-4318ff41f6919bf3708ffac2c7a64045]
+The Miscellaneous Food Additives Amendment (Scotland) Regulations 2004 (revoked)[^c-4318ff41f6919bf3708ffac2c7a64045]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 1st November 2004
 
-[^key-4318ff41f6919bf3708ffac2c7a64045]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4318ff41f6919bf3708ffac2c7a64045]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-4318ff41f6919bf3708ffac2c7a64045]
+## 1. Citation, commencement and extent[^c-4318ff41f6919bf3708ffac2c7a64045]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Miscellaneous Food Additives Regulations 1995[^key-4318ff41f6919bf3708ffac2c7a64045]
+## 2. Amendment of the Miscellaneous Food Additives Regulations 1995[^c-4318ff41f6919bf3708ffac2c7a64045]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4318ff41f6919bf3708ffac2c7a64045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4318ff41f6919bf3708ffac2c7a64045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4318ff41f6919bf3708ffac2c7a64045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4318ff41f6919bf3708ffac2c7a64045] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4318ff41f6919bf3708ffac2c7a64045]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4318ff41f6919bf3708ffac2c7a64045]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4318ff41f6919bf3708ffac2c7a64045]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4318ff41f6919bf3708ffac2c7a64045]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4318ff41f6919bf3708ffac2c7a64045]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2004/413) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 (S.S.I. 2013/266)](https://www.legislation.gov.uk/ssi/2013/266), [reg. 1](https://www.legislation.gov.uk/ssi/2013/266/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/266/schedule/5)
+[^c-4318ff41f6919bf3708ffac2c7a64045]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2004/413) revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 (S.S.I. 2013/266)](https://www.legislation.gov.uk/ssi/2013/266), [reg. 1](https://www.legislation.gov.uk/ssi/2013/266/regulation/1), [sch. 5](https://www.legislation.gov.uk/ssi/2013/266/schedule/5)

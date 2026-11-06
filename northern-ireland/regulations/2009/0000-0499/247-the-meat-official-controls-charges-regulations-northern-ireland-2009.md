@@ -47,20 +47,20 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004] there has been open and transparent public consultation during the preparation and evaluation of the following Regulations.
 
-## 1. Citation, commencement and interpretation[^key-cee2868d5211657e3091e8fffb50d9c7]
+## 1. Citation, commencement and interpretation[^c-cee2868d5211657e3091e8fffb50d9c7]
 
 These Regulations may be cited as the Meat (Official Controls Charges) Regulations (Northern Ireland) 2009 and come into operation on 27<sup>th</sup> September 2009.
 
-## 2. Interpretation[^key-0768353dbe2254c2d56eedf1e8faa834]
+## 2. Interpretation[^c-0768353dbe2254c2d56eedf1e8faa834]
 
 (1) In these Regulations —
 
 - “accounting period” means a period of less than a year determined by the Agency;
 - “the Agency” means the Food Standards Agency;
-- “audit” has the meaning given to it in Article 3 (30) of Regulation 2017/625[^key-a0725e12aa70ced7fc9dd91d45a85aff] ;
+- “audit” has the meaning given to it in Article 3 (30) of Regulation 2017/625[^c-a0725e12aa70ced7fc9dd91d45a85aff] ;
 - “controls” means those official controls performed by the Agency—
-  - (a) pursuant to Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627[^key-60a930c79dc8d60b25bfdc3e871c48fa] , at slaughterhouses, game-handling establishments and cutting plants, for the verification of compliance with the provisions of Regulation 853/2004 in so far as they apply in relation to meat of domestic ungulates, meat from poultry and lagomorphs, meat of farmed game and meat of wild game;
-  - (b) pursuant to[^key-8058f4ac8c579da1e626c1d2fa4fb2ec] Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627[^key-ba99dc5e5ee24a3deca73bc27315d417] , at slaughterhouses, for the verification of compliance with the provisions of Council Regulation[^key-54cd4592d4385890d0ac00b8a55d515f] [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) and the Welfare of Animals at the Time of Killing Regulations (Northern Ireland) 2014 [^f00005] in so far as they apply in relation to animals slaughtered there for human consumption;
+  - (a) pursuant to Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627[^c-60a930c79dc8d60b25bfdc3e871c48fa] , at slaughterhouses, game-handling establishments and cutting plants, for the verification of compliance with the provisions of Regulation 853/2004 in so far as they apply in relation to meat of domestic ungulates, meat from poultry and lagomorphs, meat of farmed game and meat of wild game;
+  - (b) pursuant to[^c-8058f4ac8c579da1e626c1d2fa4fb2ec] Regulation 2017/625, Regulation 2019/624 and Regulation 2019/627[^c-ba99dc5e5ee24a3deca73bc27315d417] , at slaughterhouses, for the verification of compliance with the provisions of Council Regulation[^c-54cd4592d4385890d0ac00b8a55d515f] [(EC) No 1099/2009](https://www.legislation.gov.uk/european/regulation/2009/1099) and the Welfare of Animals at the Time of Killing Regulations (Northern Ireland) 2014 [^f00005] in so far as they apply in relation to animals slaughtered there for human consumption;
   - (c) in relation to domestic ungulates slaughtered outside the slaughterhouse, pursuant to Chapter VI of Section I of Annex III to Regulation 853/2004;
   - (d) in relation to poultry slaughtered on farm, pursuant to Chapter VI of Section II of Annex III to Regulation 853/2004; and
   - (e) in relation to—
@@ -69,30 +69,30 @@ These Regulations may be cited as the Meat (Official Controls Charges) Regulatio
     - (iii) bison,
 
     slaughtered at the place of origin, pursuant to Section III of Annex III to Regulation 853/2004;
-- “cutting plant” means an establishment which is used for boning and/or cutting up fresh meat for placing on the market and which is approved or conditionally approved under Article 148 of Regulation 2017/625;[^key-ef9996596c4b1a50c271006a2cd74ab3]
+- “cutting plant” means an establishment which is used for boning and/or cutting up fresh meat for placing on the market and which is approved or conditionally approved under Article 148 of Regulation 2017/625;[^c-ef9996596c4b1a50c271006a2cd74ab3]
 - “cutting up” has the meaning that it bears in Regulation 853/2004 and “cut up” shall be construed accordingly;
-- “Directive 2004/41”, “Regulation 178/2002”, “Regulation 852/2004”, “Regulation 853/2004”, “Regulation 1688/2005”, “Regulation 2073/2005”, “Regulation 2074/2005”, “Regulation 2015/1375”, “Regulation 2017/185”, “Regulation 2017/625”, “Regulation 2019/624” and “Regulation 2019/627” have the meanings respectively given to them in Schedule 1;[^key-c22a20cd33c73fb0b94ff73a52edf427]
+- “Directive 2004/41”, “Regulation 178/2002”, “Regulation 852/2004”, “Regulation 853/2004”, “Regulation 1688/2005”, “Regulation 2073/2005”, “Regulation 2074/2005”, “Regulation 2015/1375”, “Regulation 2017/185”, “Regulation 2017/625”, “Regulation 2019/624” and “Regulation 2019/627” have the meanings respectively given to them in Schedule 1;[^c-c22a20cd33c73fb0b94ff73a52edf427]
 - “domestic ungulates” has the meaning given to it in point 1.2 of Annex I to Regulation 853/2004;
 - “establishment” has the meaning given to it in Article 2.1(c) of Regulation 852/2004;
 - “farmed game” has the meaning given to it in point 1.6 of Annex I to Regulation 853/2004;
 - “food business operator” has the meaning given to it in Article 3.3 of Regulation 178/2002;
 - “fresh meat” has the meaning given to it in point 1.10 of Annex I to Regulation 853/2004;
 - “game” has the meaning that it bears in Regulation 853/2004;
-- “game-handling establishment” means any establishment in which game and game meat obtained after hunting are prepared for placing on the market and which is approved or conditionally approved under Article 148 of Regulation 2017/625;[^key-c49cc306edcb69e6579ffddcf5605338]
+- “game-handling establishment” means any establishment in which game and game meat obtained after hunting are prepared for placing on the market and which is approved or conditionally approved under Article 148 of Regulation 2017/625;[^c-c49cc306edcb69e6579ffddcf5605338]
 - “game meat” has the meaning that it bears in Regulation 853/2004;
 - “inspector” means an official veterinarian, an official auxiliary or any other person appointed by the Agency for the purpose of performing controls;
 - “lagomorphs” has the meaning given to it in point 1.4 of Annex I to Regulation 853/2004;
 - “meat” has the meaning given to it in point 1.1 of Annex I to Regulation 853/2004;
-- “official auxiliary” has the meaning given to it in Article 3 (49) of Regulation 2017/625[^key-ab17e170c2bdf45fcb6601aefbcfb617] ;
-- “official controls” shall be construed in accordance with the definition of “official control” in Article 2(1) of Regulation 2017/625[^key-1a0ca72a98dac36e7a052dbbf327b94d] ;
+- “official auxiliary” has the meaning given to it in Article 3 (49) of Regulation 2017/625[^c-ab17e170c2bdf45fcb6601aefbcfb617] ;
+- “official controls” shall be construed in accordance with the definition of “official control” in Article 2(1) of Regulation 2017/625[^c-1a0ca72a98dac36e7a052dbbf327b94d] ;
 - “official controls charge” means the charge calculated in accordance with Schedule 2 and notified in accordance with regulation 3(1), (2) or (3);
-- “official veterinarian” has the meaning given to it in Article 3 (32) of Regulation 2017/625[^key-a37f9386a76c4fbec31c43ff1e220583] ;
+- “official veterinarian” has the meaning given to it in Article 3 (32) of Regulation 2017/625[^c-a37f9386a76c4fbec31c43ff1e220583] ;
 - “operator” means a food business operator who is carrying on a food business at any premises, or his duly authorised representative;
 - “place of origin” has the meaning that it bears in point 3 of Section III of Annex III to Regulation 853/2004;
 - “placing on the market” has the meaning given to it in Article 3.8 of Regulation 178/2002;
 - “poultry” has the meaning given to it in point 1.3 of Annex I to Regulation 853/2004;
 - “premises” means any slaughterhouse, game–handling establishment, cutting plant, place that is outside the slaughterhouse for the purposes of Chapter VI of Section I of Annex III to Regulation 853/2004, farm or place of origin;
-- “slaughterhouse” means an establishment used for slaughtering and dressing animals, the meat of which is intended for human consumption and which is approved or conditionally approved under Article 148 of Regulation 2017/625;[^key-249ae142f977eb85131f5d2b9f9f06b3]
+- “slaughterhouse” means an establishment used for slaughtering and dressing animals, the meat of which is intended for human consumption and which is approved or conditionally approved under Article 148 of Regulation 2017/625;[^c-249ae142f977eb85131f5d2b9f9f06b3]
 - “time costs” means, in relation to any establishment for any accounting period, the costs calculated in accordance with paragraphs 7 to 9 of Schedule 2;
 - “verification” means checking, by examination and provision of objective evidence; and
 - “wild game” has the meaning given to it in point 1.5 of Annex I to Regulation 853/2004.
@@ -101,7 +101,7 @@ These Regulations may be cited as the Meat (Official Controls Charges) Regulatio
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Charges[^key-f32e7808ddaf2ed7b2c476967be1435a]
+## 3. Charges[^c-f32e7808ddaf2ed7b2c476967be1435a]
 
 (1) The Agency shall, subject to the following provisions of this regulation, notify each operator of any premises at which controls have been exercised in any accounting period of an official controls charge in respect of those controls as soon as practicable after the end of that period.
 
@@ -116,11 +116,11 @@ These Regulations may be cited as the Meat (Official Controls Charges) Regulatio
 
 (5) Where under paragraph (3)(b) a sum is to be credited to an operator, the Agency may if it so determines pay such sum to the operator concerned instead of crediting it to him.
 
-## 4. Withdrawal of controls[^key-ca2667908a4d16e58f7d8b9da7a52efd]
+## 4. Withdrawal of controls[^c-ca2667908a4d16e58f7d8b9da7a52efd]
 
 Where the Agency has had judgment entered against an operator of any premises for any sum which is payable to it under regulation 3(4) and the operator fails within a reasonable time thereafter to satisfy the judgment, the Agency may (regardless of any other legal remedy open to it) refuse to exercise any further controls at those premises until the judgment has been satisfied.
 
-## 5. Information[^key-ccddd056766e963c38172346af9bd96b]
+## 5. Information[^c-ccddd056766e963c38172346af9bd96b]
 
 (1) An operator shall, on demand being made by the Agency, supply —
 
@@ -151,7 +151,7 @@ Where the Agency has had judgment entered against an operator of any premises fo
 
 is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 6. Revocation[^key-1d81ffb616e7617703c1322fc0f05e16]
+## 6. Revocation[^c-1d81ffb616e7617703c1322fc0f05e16]
 
 The Meat (Official Controls Charges) Regulations (Northern Ireland) 2008[^f00010] are revoked.
 
@@ -161,7 +161,7 @@ Michael McGimpsey MLA
 
 Minister for Health, Social Services and Public Safety
 
-## SCHEDULE 1 — DEFINITIONS OF EU LEGISLATION[^key-81df6eea36c2bb66c14ed524e7225260]
+## SCHEDULE 1 — DEFINITIONS OF EU LEGISLATION[^c-81df6eea36c2bb66c14ed524e7225260]
 
 - “Directive 2004/41” means [Directive 2004/41/EC](https://www.legislation.gov.uk/european/directive/2004/0041) of the European Parliament and of the Council repealing certain Directives concerning food hygiene and health conditions for the production and placing on the market of certain products of animal origin intended for human consumption and amending Council Directives [89/662/EEC](https://www.legislation.gov.uk/european/directive/1989/0662) and [92/118/EEC](https://www.legislation.gov.uk/european/directive/1992/0118) and Council [Decision 95/408/EC](https://www.legislation.gov.uk/european/decision/1995/0408);
 - “Regulation 178/2002” means Regulation (EC) No.178/2002 of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety;
@@ -180,17 +180,17 @@ Minister for Health, Social Services and Public Safety
 
 Regulation 2(1)
 
-### 1. The official controls charge[^key-7defd30f91bdb462b8d50d5de83b6107]
+### 1. The official controls charge[^c-7defd30f91bdb462b8d50d5de83b6107]
 
 The official controls charge payable by the operator of any premises for any accounting period shall be the sum that is equal to such percentage of the time costs generated by those premises in that period as the Agency considers appropriate and the Agency may determine different percentages for different premises or different types of premises.
 
-**2.**[^key-513b08f81610aac2be4901661d4a5917] The Agency may vary any percentage determined pursuant to paragraph 1 where it appears to it to be appropriate to do so.
+**2.**[^c-513b08f81610aac2be4901661d4a5917] The Agency may vary any percentage determined pursuant to paragraph 1 where it appears to it to be appropriate to do so.
 
-### 3. Declarations by operators[^key-e2e3123aa66455c05f6e1bc923904c32]
+### 3. Declarations by operators[^c-e2e3123aa66455c05f6e1bc923904c32]
 
 The operator of any premises shall, on demand being made by the Agency, declare the working hours and working practices to be undertaken by the operator at the premises.
 
-### 4. Agreements between the Agency and operators concerning the performance of controls other than audit[^key-79a8c8a6edb2394dbde57636ab285ea9]
+### 4. Agreements between the Agency and operators concerning the performance of controls other than audit[^c-79a8c8a6edb2394dbde57636ab285ea9]
 
 (1) The Agency and the operator of any premises shall—
 
@@ -201,7 +201,7 @@ The operator of any premises shall, on demand being made by the Agency, declare 
 
 (3) Where any matters agreed pursuant to sub-paragraph (1)(a) have been varied pursuant to sub–paragraph (2) they shall be treated as having been agreed pursuant to sub–paragraph (1)(a).
 
-**5.**[^key-ebcdca87a5a6c227d8d806cb8ca7960f] (1) Where the Agency and the operator fail to agree as to a matter specified in sub- paragraph (1)(a) of paragraph 4, the Agency shall determine the matter and shall notify the operator of that determination.
+**5.**[^c-ebcdca87a5a6c227d8d806cb8ca7960f] (1) Where the Agency and the operator fail to agree as to a matter specified in sub- paragraph (1)(a) of paragraph 4, the Agency shall determine the matter and shall notify the operator of that determination.
 
 (2) An operator who does not agree with a determination made by the Agency pursuant to sub-paragraph (1) may, within 3 weeks of the Agency giving notification to him under that sub-paragraph, request that the determination be reviewed by the Agency.
 
@@ -231,18 +231,18 @@ the operator may request that the matter that is the subject of that decision be
 
 (9) Where, pursuant to sub-paragraph (7)(b)(ii), a person nominated pursuant to sub-paragraph (7)(a) determines that a decision made by the Agency pursuant to sub-paragraph (3) was incorrect, the Agency shall refund to the operator the payment made by him in accordance with sub-paragraph (3).
 
-**6.**[^key-97155f057846737d5441764a5905e26b] Nothing in paragraph 4 or 5 shall restrict the Agency in the performance of such controls as it considers necessary in order to ensure that the objectives of Regulation 2017/625[^M_F_0eb481e6-6da0-4dd1-facc-b78af408a97d] are achieved and that the obligation specified in Article 9(1)[^M_F_99c92dff-3889-487f-a6e4-cb3b2e026f26] of that Regulation is fulfilled.
+**6.**[^c-97155f057846737d5441764a5905e26b] Nothing in paragraph 4 or 5 shall restrict the Agency in the performance of such controls as it considers necessary in order to ensure that the objectives of Regulation 2017/625[^M_F_0eb481e6-6da0-4dd1-facc-b78af408a97d] are achieved and that the obligation specified in Article 9(1)[^M_F_99c92dff-3889-487f-a6e4-cb3b2e026f26] of that Regulation is fulfilled.
 
-### 7. Time costs[^key-99e1e50a5ad63d4977229e5cc754e60a]
+### 7. Time costs[^c-99e1e50a5ad63d4977229e5cc754e60a]
 
 The time costs generated by any premises in any accounting period shall (subject to paragraphs 8 and 9) be calculated by —
 
 - (a) multiplying the time (expressed in hours and fractions of an hour) spent by each inspector exercising controls at those premises in the period by the hourly rate applicable to that inspector determined in accordance with paragraph 10 or varied in accordance with paragraph 12; and
 - (b) adding the results together.
 
-**8.**[^key-a64ed4e5b8ce96a376bee25c9c93122b] The time costs in respect of any controls shall include any overtime payments or allowances made to the inspector concerned under his contract of employment or contract for services for exercising them.
+**8.**[^c-a64ed4e5b8ce96a376bee25c9c93122b] The time costs in respect of any controls shall include any overtime payments or allowances made to the inspector concerned under his contract of employment or contract for services for exercising them.
 
-**9.**[^key-1a6a213ea1692b406a2a37062029e1bb] (1) In determining the total time spent in exercising controls, any time spent by an inspector in travelling to or from premises at which he exercises controls and for which he is paid under a contract of employment or contract for services may be counted as if it were time when the inspector was exercising controls.
+**9.**[^c-1a6a213ea1692b406a2a37062029e1bb] (1) In determining the total time spent in exercising controls, any time spent by an inspector in travelling to or from premises at which he exercises controls and for which he is paid under a contract of employment or contract for services may be counted as if it were time when the inspector was exercising controls.
 
 (2) In determining the total time spent in exercising controls, any time spent by an inspector—
 
@@ -253,11 +253,11 @@ The time costs generated by any premises in any accounting period shall (subject
 
 shall be counted as if it were time when the inspector was exercising controls.
 
-**10.**[^key-864f70dd0890593bc1fe0d28d9504967] The Agency shall determine the hourly rate applicable to inspectors, and may determine different rates for different inspectors or different classes of inspector, having regard to the level of qualifications and experience of different inspectors or classes of inspector and to the cost of exercising controls by different inspectors or classes of inspector.
+**10.**[^c-864f70dd0890593bc1fe0d28d9504967] The Agency shall determine the hourly rate applicable to inspectors, and may determine different rates for different inspectors or different classes of inspector, having regard to the level of qualifications and experience of different inspectors or classes of inspector and to the cost of exercising controls by different inspectors or classes of inspector.
 
-**11.**[^key-877cbb64bf4247948428eaab94505bcd] The hourly rate for any inspector or class of inspector shall be calculated so as to reflect such proportion of the costs of the items listed in Articles 81 and 82 of Regulation 2017/625[^M_F_5f70688f-1c95-4c90-e3ba-22b35d0e60cd] incurred by that inspector or class of inspector in exercising controls (excluding any payments or allowances taken into account pursuant to paragraph 8) as the Agency considers it appropriate to apportion to that hourly rate.
+**11.**[^c-877cbb64bf4247948428eaab94505bcd] The hourly rate for any inspector or class of inspector shall be calculated so as to reflect such proportion of the costs of the items listed in Articles 81 and 82 of Regulation 2017/625[^M_F_5f70688f-1c95-4c90-e3ba-22b35d0e60cd] incurred by that inspector or class of inspector in exercising controls (excluding any payments or allowances taken into account pursuant to paragraph 8) as the Agency considers it appropriate to apportion to that hourly rate.
 
-**12.**[^key-89fe6f4e33759dd394d3b70d1a57dd95] The Agency may vary any rate determined pursuant to paragraph 10 where, having regard to variations in the costs referred to in paragraph 11, it appears to it to be necessary to do so.
+**12.**[^c-89fe6f4e33759dd394d3b70d1a57dd95] The Agency may vary any rate determined pursuant to paragraph 10 where, having regard to variations in the costs referred to in paragraph 11, it appears to it to be necessary to do so.
 
 EXPLANATORY NOTE
 
@@ -302,76 +302,76 @@ EXPLANATORY NOTE
 
 [^f00004]: Footnote: OJ No. L31, 1.2.2002, p.1, as amended by Commission Regulation (EC) No. 202/2008 amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council as regards the number and names of the permanent Scientific Panels of the European Food Safety Authority (OJ No. L60, 5.3.2008, p.17) (EC) No. 1642.2003 of the European Parliament and of the Council (OJ No. L245, 29.9.2003, P.4) and [Commission Regulation (EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) (OJ No. L100, 8.4.2006, P.3)
 
-[^key-cee2868d5211657e3091e8fffb50d9c7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-cee2868d5211657e3091e8fffb50d9c7]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-0768353dbe2254c2d56eedf1e8faa834]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/247/regulation/2) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-0768353dbe2254c2d56eedf1e8faa834]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/247/regulation/2) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-a0725e12aa70ced7fc9dd91d45a85aff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/a)
+[^c-a0725e12aa70ced7fc9dd91d45a85aff]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(a)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/a)
 
-[^key-60a930c79dc8d60b25bfdc3e871c48fa]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1/a) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(b)(i)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/b/i)
+[^c-60a930c79dc8d60b25bfdc3e871c48fa]: Textual amendment: Words in [reg. 2(1)(a)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1/a) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(b)(i)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/b/i)
 
-[^key-8058f4ac8c579da1e626c1d2fa4fb2ec]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1/b) inserted (21.5.2014) by [The Welfare of Animals at the Time of Killing Regulations (Northern Ireland) 2014 (S.R. 2014/107)](https://www.legislation.gov.uk/nisr/2014/107), [regs. 1](https://www.legislation.gov.uk/nisr/2014/107/regulation/1), [35](https://www.legislation.gov.uk/nisr/2014/107/regulation/35), [Sch. 6 para. 2(2)(a)](https://www.legislation.gov.uk/nisr/2014/107/schedule/6/paragraph/2/2/a)
+[^c-8058f4ac8c579da1e626c1d2fa4fb2ec]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1/b) inserted (21.5.2014) by [The Welfare of Animals at the Time of Killing Regulations (Northern Ireland) 2014 (S.R. 2014/107)](https://www.legislation.gov.uk/nisr/2014/107), [regs. 1](https://www.legislation.gov.uk/nisr/2014/107/regulation/1), [35](https://www.legislation.gov.uk/nisr/2014/107/regulation/35), [Sch. 6 para. 2(2)(a)](https://www.legislation.gov.uk/nisr/2014/107/schedule/6/paragraph/2/2/a)
 
-[^key-ba99dc5e5ee24a3deca73bc27315d417]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1/b) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(b)(ii)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/b/ii)
+[^c-ba99dc5e5ee24a3deca73bc27315d417]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1/b) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(b)(ii)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/b/ii)
 
-[^key-54cd4592d4385890d0ac00b8a55d515f]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1/b) substituted (21.5.2014) by [The Welfare of Animals at the Time of Killing Regulations (Northern Ireland) 2014 (S.R. 2014/107)](https://www.legislation.gov.uk/nisr/2014/107), [regs. 1](https://www.legislation.gov.uk/nisr/2014/107/regulation/1), [35](https://www.legislation.gov.uk/nisr/2014/107/regulation/35), [Sch. 6 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2014/107/schedule/6/paragraph/2/2/b)
+[^c-54cd4592d4385890d0ac00b8a55d515f]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1/b) substituted (21.5.2014) by [The Welfare of Animals at the Time of Killing Regulations (Northern Ireland) 2014 (S.R. 2014/107)](https://www.legislation.gov.uk/nisr/2014/107), [regs. 1](https://www.legislation.gov.uk/nisr/2014/107/regulation/1), [35](https://www.legislation.gov.uk/nisr/2014/107/regulation/35), [Sch. 6 para. 2(2)(b)](https://www.legislation.gov.uk/nisr/2014/107/schedule/6/paragraph/2/2/b)
 
 [^f00005]: Footnote: [S.R. 1996 No. 558](https://www.legislation.gov.uk/nisr/1996/558) as amended by [S.R. 2000 No. 76](https://www.legislation.gov.uk/nisr/2000/76), [S.R. 2001 No. 66](https://www.legislation.gov.uk/nisr/2001/66), [S.R. 2002 No. 304](https://www.legislation.gov.uk/nisr/2002/304), [S.R. 2004 No. 209](https://www.legislation.gov.uk/nisr/2004/209) and [S.R. 2008 No. 277](https://www.legislation.gov.uk/nisr/2008/277)
 
-[^key-ef9996596c4b1a50c271006a2cd74ab3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/c)
+[^c-ef9996596c4b1a50c271006a2cd74ab3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(c)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/c)
 
-[^key-c22a20cd33c73fb0b94ff73a52edf427]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(d)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/d)
+[^c-c22a20cd33c73fb0b94ff73a52edf427]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(d)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/d)
 
-[^key-c49cc306edcb69e6579ffddcf5605338]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(e)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/e)
+[^c-c49cc306edcb69e6579ffddcf5605338]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(e)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/e)
 
-[^key-ab17e170c2bdf45fcb6601aefbcfb617]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(f)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/f)
+[^c-ab17e170c2bdf45fcb6601aefbcfb617]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(f)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/f)
 
-[^key-1a0ca72a98dac36e7a052dbbf327b94d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(g)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/g)
+[^c-1a0ca72a98dac36e7a052dbbf327b94d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(g)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/g)
 
-[^key-a37f9386a76c4fbec31c43ff1e220583]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(h)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/h)
+[^c-a37f9386a76c4fbec31c43ff1e220583]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(h)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/h)
 
-[^key-249ae142f977eb85131f5d2b9f9f06b3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(i)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/i)
+[^c-249ae142f977eb85131f5d2b9f9f06b3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2009/247/regulation/2/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [3(i)](https://www.legislation.gov.uk/nisr/2019/219/regulation/3/i)
 
 [^f00009]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f32e7808ddaf2ed7b2c476967be1435a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/247/regulation/3) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-f32e7808ddaf2ed7b2c476967be1435a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/247/regulation/3) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-ca2667908a4d16e58f7d8b9da7a52efd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/247/regulation/4) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-ca2667908a4d16e58f7d8b9da7a52efd]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2009/247/regulation/4) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-ccddd056766e963c38172346af9bd96b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/247/regulation/5) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-ccddd056766e963c38172346af9bd96b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/247/regulation/5) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-1d81ffb616e7617703c1322fc0f05e16]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/247/regulation/6) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-1d81ffb616e7617703c1322fc0f05e16]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/247/regulation/6) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
 [^f00010]: Footnote: [S.R. 2008 No. 89](https://www.legislation.gov.uk/nisr/2008/89)
 
-[^key-81df6eea36c2bb66c14ed524e7225260]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/247/schedule/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [4](https://www.legislation.gov.uk/nisr/2019/219/regulation/4), [Sch. 1](https://www.legislation.gov.uk/nisr/2019/219/schedule/1)
+[^c-81df6eea36c2bb66c14ed524e7225260]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2009/247/schedule/1) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://www.legislation.gov.uk/nisr/2019/219), [regs. 1](https://www.legislation.gov.uk/nisr/2019/219/regulation/1), [4](https://www.legislation.gov.uk/nisr/2019/219/regulation/4), [Sch. 1](https://www.legislation.gov.uk/nisr/2019/219/schedule/1)
 
-[^key-7defd30f91bdb462b8d50d5de83b6107]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/1) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-7defd30f91bdb462b8d50d5de83b6107]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/1) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-513b08f81610aac2be4901661d4a5917]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/2) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-513b08f81610aac2be4901661d4a5917]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/2) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-e2e3123aa66455c05f6e1bc923904c32]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/3) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-e2e3123aa66455c05f6e1bc923904c32]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/3) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-79a8c8a6edb2394dbde57636ab285ea9]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/4) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-79a8c8a6edb2394dbde57636ab285ea9]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/4) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-ebcdca87a5a6c227d8d806cb8ca7960f]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/5) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-ebcdca87a5a6c227d8d806cb8ca7960f]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/5) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-97155f057846737d5441764a5905e26b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/6) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-97155f057846737d5441764a5905e26b]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/6) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
 [^M_F_0eb481e6-6da0-4dd1-facc-b78af408a97d]: Textual amendment: Words in [Sch. 2 para. 6](https://editorial.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/6) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://editorial.legislation.gov.uk/nisr/2019/219/contents/made), [regs. 1](https://editorial.legislation.gov.uk/nisr/2019/219/regulation/1/made), [5(a)(i)](https://editorial.legislation.gov.uk/nisr/2019/219/regulation/5/made)
 
 [^M_F_99c92dff-3889-487f-a6e4-cb3b2e026f26]: Textual amendment: Words in [Sch. 2 para. 6](https://editorial.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/6) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://editorial.legislation.gov.uk/nisr/2019/219/contents/made), [regs. 1](https://editorial.legislation.gov.uk/nisr/2019/219/regulation/1/made), [5(a)(ii)](https://editorial.legislation.gov.uk/nisr/2019/219/regulation/5/made)
 
-[^key-99e1e50a5ad63d4977229e5cc754e60a]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/7) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-99e1e50a5ad63d4977229e5cc754e60a]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/7) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-a64ed4e5b8ce96a376bee25c9c93122b]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/8) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-a64ed4e5b8ce96a376bee25c9c93122b]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/8) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-1a6a213ea1692b406a2a37062029e1bb]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/9) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-1a6a213ea1692b406a2a37062029e1bb]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/9) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-864f70dd0890593bc1fe0d28d9504967]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/10) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-864f70dd0890593bc1fe0d28d9504967]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/10) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
-[^key-877cbb64bf4247948428eaab94505bcd]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/11) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-877cbb64bf4247948428eaab94505bcd]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/11) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
 
 [^M_F_5f70688f-1c95-4c90-e3ba-22b35d0e60cd]: Textual amendment: Words in [Sch. 2 para. 11](https://editorial.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/11) substituted (14.12.2019) by [The Meat (Official Controls Charges) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/219)](https://editorial.legislation.gov.uk/nisr/2019/219/contents/made), [regs. 1](https://editorial.legislation.gov.uk/nisr/2019/219/regulation/1/made), [5(b)](https://editorial.legislation.gov.uk/nisr/2019/219/regulation/5/made)
 
-[^key-89fe6f4e33759dd394d3b70d1a57dd95]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/12) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)
+[^c-89fe6f4e33759dd394d3b70d1a57dd95]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/nisr/2009/247/schedule/2/paragraph/12) in operation at 27.9.2009, see [reg. 1](https://www.legislation.gov.uk/nisr/2009/247/regulation/1)

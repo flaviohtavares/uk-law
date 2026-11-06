@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. VRTS credits: car clubs (VRTS participants)[^key-8cc7804528913e6ff77762a7ef35a0e7]
+## 52. VRTS credits: car clubs (VRTS participants)[^c-8cc7804528913e6ff77762a7ef35a0e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cc7804528913e6ff77762a7ef35a0e7]: Commencement: Art. 52 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-8cc7804528913e6ff77762a7ef35a0e7]: Commencement: Art. 52 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

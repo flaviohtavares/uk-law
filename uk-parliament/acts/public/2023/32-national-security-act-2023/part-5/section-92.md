@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Amendments of the Terrorism Act 2000[^key-0f48e193da11176d3f5f0ab798536c66][^key-6daa181bb7ff91441d41c54fccd7f992]
+## 92. Amendments of the Terrorism Act 2000[^c-0f48e193da11176d3f5f0ab798536c66][^c-6daa181bb7ff91441d41c54fccd7f992]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 17 contains amendments of the Terrorism Act 2000.
 
 ## Annotations
 
-[^key-0f48e193da11176d3f5f0ab798536c66]: Commencement: S. 92 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-0f48e193da11176d3f5f0ab798536c66]: Commencement: S. 92 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-6daa181bb7ff91441d41c54fccd7f992]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/32/section/92) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/d)
+[^c-6daa181bb7ff91441d41c54fccd7f992]: Commencement: [S. 92](https://www.legislation.gov.uk/ukpga/2023/32/section/92) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/d)

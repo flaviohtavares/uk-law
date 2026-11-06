@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24AE. Aerodrome security plans[^key-60eb6c2fea269d569f8c613a4608a22d]
+## 24AE. Aerodrome security plans[^c-60eb6c2fea269d569f8c613a4608a22d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 - (c) any operator of an aircraft that takes off from, or lands at, the aerodrome,
 - (d) any person who is permitted to have access to the aerodrome for the purposes of a business carried on by the person,
 - (e) any person who occupies any land forming part of the aerodrome,
-- (f) the National Crime Agency[^key-75474aae9e01103aa0916f3f7a987e75] ,
+- (f) the National Crime Agency[^c-75474aae9e01103aa0916f3f7a987e75] ,
 - (g) the Commissioners for Her Majesty's Revenue and Customs, and
 - (h) the Secretary of State.
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-60eb6c2fea269d569f8c613a4608a22d]: Textual amendment: Pt. 2A inserted (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [ss. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) , [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(k)](https://www.legislation.gov.uk/uksi/2010/125/article/2/k)
+[^c-60eb6c2fea269d569f8c613a4608a22d]: Textual amendment: Pt. 2A inserted (29.1.2010 for E.W.S.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26) , [ss. 79](https://www.legislation.gov.uk/ukpga/2009/26/section/79) , [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1) ; [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125) , [art. 2(k)](https://www.legislation.gov.uk/uksi/2010/125/article/2/k)
 
-[^key-75474aae9e01103aa0916f3f7a987e75]: Textual amendment: Words in s. 24AE(4)(f) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 186](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/186); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-75474aae9e01103aa0916f3f7a987e75]: Textual amendment: Words in s. 24AE(4)(f) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 186](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/186); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

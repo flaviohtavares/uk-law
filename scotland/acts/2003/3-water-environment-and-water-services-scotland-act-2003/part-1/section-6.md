@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Bodies of water used for the abstraction of drinking water[^key-594cdee06ba0a7a6115474f4fbac759a]
+## 6. Bodies of water used for the abstraction of drinking water[^c-594cdee06ba0a7a6115474f4fbac759a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-594cdee06ba0a7a6115474f4fbac759a]: Commencement: S. 6 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/562/article/2/a)
+[^c-594cdee06ba0a7a6115474f4fbac759a]: Commencement: S. 6 in force at 15.12.2003 by [S.S.I. 2003/562](https://www.legislation.gov.uk/ssi/2003/562), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/562/article/2/a)

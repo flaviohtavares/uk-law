@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 104. Goods not regarded as domestic goods: animals[^key-1430d060e68829b0525ce241ab598a62]
+## 104. Goods not regarded as domestic goods: animals[^c-1430d060e68829b0525ce241ab598a62]
 
 *Extent: E+W+S+N.I.*
 
-(1) For the purposes of Part 1 of the Act, an animal born in Great Britain[^key-57d55f527911aa4268d6427380edbecf] is not to be regarded as a domestic good if—
+(1) For the purposes of Part 1 of the Act, an animal born in Great Britain[^c-57d55f527911aa4268d6427380edbecf] is not to be regarded as a domestic good if—
 
 - (a) the mother was part of a consignment of goods declared for a storage procedure [^c23522351], a temporary admission procedure [^c23522361] or an inward processing procedure [^c23522371]; and
 - (b) the animal was born before the procedure was discharged; and
@@ -35,9 +35,9 @@ summary: ''
 
 ## Annotations
 
-[^key-1430d060e68829b0525ce241ab598a62]: Commencement: Reg. 104 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-1430d060e68829b0525ce241ab598a62]: Commencement: Reg. 104 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-57d55f527911aa4268d6427380edbecf]: Textual amendment: Words in reg. 104(1) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [37(11)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/37/11); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-57d55f527911aa4268d6427380edbecf]: Textual amendment: Words in reg. 104(1) substituted (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [37(11)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/37/11); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522351]: Marginal citation: “A storage procedure” is defined in paragraph 2 of Schedule 2 to the Act.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Placement orders: prohibition on removal[^key-1c32911c41791a8beba62180b2b39099]
+## 34. Placement orders: prohibition on removal[^c-1c32911c41791a8beba62180b2b39099]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ a person (other than the local authority) may not remove the child from the pros
 
 (5) A person guilty of an offence under this section is liable on summary conviction to imprisonment for a term not exceeding three months, or a fine not exceeding level 5 on the standard scale, or both.
 
-(6) This section does not affect the exercise by any local authority or other person of a power conferred by any enactment, other than section 20(8) of the 1989 Act or section 76(5) of the[^key-fa688ee9d8b7c81fb27c7e71c26a2d3c] 2014 Act (removal of children from local authority accommodation).
+(6) This section does not affect the exercise by any local authority or other person of a power conferred by any enactment, other than section 20(8) of the 1989 Act or section 76(5) of the[^c-fa688ee9d8b7c81fb27c7e71c26a2d3c] 2014 Act (removal of children from local authority accommodation).
 
 (7) This section does not prevent the removal of a child who is arrested.
 
@@ -43,6 +43,6 @@ a person (other than the local authority) may not remove the child from the pros
 
 ## Annotations
 
-[^key-1c32911c41791a8beba62180b2b39099]: Commencement: S. 34 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-1c32911c41791a8beba62180b2b39099]: Commencement: S. 34 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/c) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
 
-[^key-fa688ee9d8b7c81fb27c7e71c26a2d3c]: Textual amendment: Words in [s. 34(6)](https://www.legislation.gov.uk/ukpga/2002/38/section/34/6) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [192](https://www.legislation.gov.uk/wsi/2016/413/regulation/192)
+[^c-fa688ee9d8b7c81fb27c7e71c26a2d3c]: Textual amendment: Words in [s. 34(6)](https://www.legislation.gov.uk/ukpga/2002/38/section/34/6) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [192](https://www.legislation.gov.uk/wsi/2016/413/regulation/192)

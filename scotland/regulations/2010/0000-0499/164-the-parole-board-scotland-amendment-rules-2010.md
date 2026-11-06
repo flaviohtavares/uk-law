@@ -32,7 +32,7 @@ summary: ''
 
 Prisons
 
-The Parole Board (Scotland) Amendment Rules 2010 (revoked)[^key-56ffddfe8e6a1bfb20b21199bfdc5051]
+The Parole Board (Scotland) Amendment Rules 2010 (revoked)[^c-56ffddfe8e6a1bfb20b21199bfdc5051]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 21st May 2010
 
-[^key-56ffddfe8e6a1bfb20b21199bfdc5051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56ffddfe8e6a1bfb20b21199bfdc5051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, Commencement, Application and Interpretation[^key-56ffddfe8e6a1bfb20b21199bfdc5051]
+## 1. Citation, Commencement, Application and Interpretation[^c-56ffddfe8e6a1bfb20b21199bfdc5051]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Parole Board (Scotland) Rules 2001[^key-56ffddfe8e6a1bfb20b21199bfdc5051]
+## 2. Amendment of the Parole Board (Scotland) Rules 2001[^c-56ffddfe8e6a1bfb20b21199bfdc5051]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-56ffddfe8e6a1bfb20b21199bfdc5051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56ffddfe8e6a1bfb20b21199bfdc5051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-56ffddfe8e6a1bfb20b21199bfdc5051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-56ffddfe8e6a1bfb20b21199bfdc5051]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-56ffddfe8e6a1bfb20b21199bfdc5051]: Textual amendment: [Rules](https://www.legislation.gov.uk/ssi/2010/164) revoked (1.4.2023) by [The Parole Board (Scotland) Rules 2022 (S.S.I. 2022/385)](https://www.legislation.gov.uk/ssi/2022/385), [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2022/385/schedule/2) (with [rules 1(2)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/2), [35](https://www.legislation.gov.uk/ssi/2022/385/rule/35))
+[^c-56ffddfe8e6a1bfb20b21199bfdc5051]: Textual amendment: [Rules](https://www.legislation.gov.uk/ssi/2010/164) revoked (1.4.2023) by [The Parole Board (Scotland) Rules 2022 (S.S.I. 2022/385)](https://www.legislation.gov.uk/ssi/2022/385), [rule 1(1)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/1), [sch. 2](https://www.legislation.gov.uk/ssi/2022/385/schedule/2) (with [rules 1(2)](https://www.legislation.gov.uk/ssi/2022/385/rule/1/2), [35](https://www.legislation.gov.uk/ssi/2022/385/rule/35))

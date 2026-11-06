@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Assaulting or impeding police[^key-769b497aae5abb9bfb7b5f8486db63cf][^key-20ace3001a1ac331905b9002c72c4dce][^key-5b858d2d5e4297bd5f315eaff68aa922]
+## 90. Assaulting or impeding police[^c-769b497aae5abb9bfb7b5f8486db63cf][^c-20ace3001a1ac331905b9002c72c4dce][^c-5b858d2d5e4297bd5f315eaff68aa922]
 
 *Extent: S*
 
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-769b497aae5abb9bfb7b5f8486db63cf]: Commencement: S. 90 in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-769b497aae5abb9bfb7b5f8486db63cf]: Commencement: S. 90 in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
 
-[^key-20ace3001a1ac331905b9002c72c4dce]: Modification: S. 90 applied (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [10(1)](https://www.legislation.gov.uk/uksi/2013/602/article/10/1)
+[^c-20ace3001a1ac331905b9002c72c4dce]: Modification: S. 90 applied (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Provisions and Modifications) Order 2013 (S.I. 2013/602)](https://www.legislation.gov.uk/uksi/2013/602), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2), [10(1)](https://www.legislation.gov.uk/uksi/2013/602/article/10/1)
 
-[^key-5b858d2d5e4297bd5f315eaff68aa922]: Modification: S. 90 modified (31.7.2017) by [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [34(7)(b)](https://www.legislation.gov.uk/uksi/2017/730/regulation/34/7/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3), [34(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/34/1))
+[^c-5b858d2d5e4297bd5f315eaff68aa922]: Modification: S. 90 modified (31.7.2017) by [The Criminal Justice (European Investigation Order) Regulations 2017 (S.I. 2017/730)](https://www.legislation.gov.uk/uksi/2017/730), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/1/1), [34(7)(b)](https://www.legislation.gov.uk/uksi/2017/730/regulation/34/7/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/730/regulation/3), [34(1)](https://www.legislation.gov.uk/uksi/2017/730/regulation/34/1))

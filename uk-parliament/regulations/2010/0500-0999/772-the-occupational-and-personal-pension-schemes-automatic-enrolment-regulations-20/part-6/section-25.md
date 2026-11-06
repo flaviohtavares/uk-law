@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Postponement of the automatic enrolment date[^key-673013b45814b08bb16d17c44c341a3f]
+## 25. Postponement of the automatic enrolment date[^c-673013b45814b08bb16d17c44c341a3f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-673013b45814b08bb16d17c44c341a3f]: Textual amendment: Regs. 25 26 revoked (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [27](https://www.legislation.gov.uk/uksi/2012/215/regulation/27)
+[^c-673013b45814b08bb16d17c44c341a3f]: Textual amendment: Regs. 25 26 revoked (1.7.2012) by [The Automatic Enrolment (Miscellaneous Amendments) Regulations 2012 (S.I. 2012/215)](https://www.legislation.gov.uk/uksi/2012/215), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2012/215/regulation/1/2/c), [27](https://www.legislation.gov.uk/uksi/2012/215/regulation/27)

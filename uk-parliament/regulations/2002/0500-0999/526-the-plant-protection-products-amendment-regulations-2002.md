@@ -31,7 +31,7 @@ summary: ''
 
 PESTICIDES, ENGLAND AND WALES
 
-The Plant Protection Products (Amendment) Regulations 2002 (revoked)[^key-b3c17598fa61e98bea96e4695f1356b1]
+The Plant Protection Products (Amendment) Regulations 2002 (revoked)[^c-b3c17598fa61e98bea96e4695f1356b1]
 
 Made
 
@@ -45,32 +45,32 @@ Coming into force
 
 31st March 2002
 
-[^key-b3c17598fa61e98bea96e4695f1356b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3c17598fa61e98bea96e4695f1356b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-b3c17598fa61e98bea96e4695f1356b1]
+## 1. Title, commencement and extent[^c-b3c17598fa61e98bea96e4695f1356b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Plant Protection Products Regulations 1995[^key-b3c17598fa61e98bea96e4695f1356b1]
+## 2. Amendment to the Plant Protection Products Regulations 1995[^c-b3c17598fa61e98bea96e4695f1356b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional arrangements for provisional approvals[^key-b3c17598fa61e98bea96e4695f1356b1]
+## 3. Transitional arrangements for provisional approvals[^c-b3c17598fa61e98bea96e4695f1356b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-b3c17598fa61e98bea96e4695f1356b1]
+## 4. Revocation[^c-b3c17598fa61e98bea96e4695f1356b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3c17598fa61e98bea96e4695f1356b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3c17598fa61e98bea96e4695f1356b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b3c17598fa61e98bea96e4695f1356b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3c17598fa61e98bea96e4695f1356b1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b3c17598fa61e98bea96e4695f1356b1]: Textual amendment: Regulations revoked (1.7.2002) by [The Plant Protection Products (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1460)](https://www.legislation.gov.uk/uksi/2002/1460), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1460/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/1460/regulation/4)
+[^c-b3c17598fa61e98bea96e4695f1356b1]: Textual amendment: Regulations revoked (1.7.2002) by [The Plant Protection Products (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1460)](https://www.legislation.gov.uk/uksi/2002/1460), [regs. 1](https://www.legislation.gov.uk/uksi/2002/1460/regulation/1), [4](https://www.legislation.gov.uk/uksi/2002/1460/regulation/4)

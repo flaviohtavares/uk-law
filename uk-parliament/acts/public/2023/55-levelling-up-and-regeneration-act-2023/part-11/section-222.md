@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. The national security purpose[^key-a627c2f30c298faab9bf28c6c434b6cd]
+## 222. The national security purpose[^c-a627c2f30c298faab9bf28c6c434b6cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a627c2f30c298faab9bf28c6c434b6cd]: Commencement: S. 222 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)
+[^c-a627c2f30c298faab9bf28c6c434b6cd]: Commencement: S. 222 in force at Royal Assent, see [s. 255(8)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/8)

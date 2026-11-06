@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration (Passenger Transit Visa)(Amendment)(No. 2) Order 2012 (revoked)[^key-9980a8c40443ab9e65f9dadfbf11f140]
+The Immigration (Passenger Transit Visa)(Amendment)(No. 2) Order 2012 (revoked)[^c-9980a8c40443ab9e65f9dadfbf11f140]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 3rd April 2012
 
-[^key-9980a8c40443ab9e65f9dadfbf11f140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9980a8c40443ab9e65f9dadfbf11f140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-9980a8c40443ab9e65f9dadfbf11f140]
+## 1. Citation and commencement[^c-9980a8c40443ab9e65f9dadfbf11f140]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Immigration (Passenger Transit Visa) Order 2003[^key-9980a8c40443ab9e65f9dadfbf11f140]
+## 2. Amendments to the Immigration (Passenger Transit Visa) Order 2003[^c-9980a8c40443ab9e65f9dadfbf11f140]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9980a8c40443ab9e65f9dadfbf11f140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9980a8c40443ab9e65f9dadfbf11f140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9980a8c40443ab9e65f9dadfbf11f140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9980a8c40443ab9e65f9dadfbf11f140]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9980a8c40443ab9e65f9dadfbf11f140]: Textual amendment: Order revoked (1.12.2014) by [The Immigration (Passenger Transit Visa) Order 2014 (S.I. 2014/2702)](https://www.legislation.gov.uk/uksi/2014/2702), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2702/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/2702/schedule/2)
+[^c-9980a8c40443ab9e65f9dadfbf11f140]: Textual amendment: Order revoked (1.12.2014) by [The Immigration (Passenger Transit Visa) Order 2014 (S.I. 2014/2702)](https://www.legislation.gov.uk/uksi/2014/2702), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/2702/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/2702/schedule/2)

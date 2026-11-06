@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Permanent lights on tidal works[^key-301d443457f1491d7b9e49d5064aa37c]
+## 30. Permanent lights on tidal works[^c-301d443457f1491d7b9e49d5064aa37c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-301d443457f1491d7b9e49d5064aa37c]: Commencement: Art. 30 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-301d443457f1491d7b9e49d5064aa37c]: Commencement: Art. 30 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Arbitration commenced by pub-owning businesses[^key-3e09cb3ff64416b4f46362f1ecbf0430]
+## 50. Arbitration commenced by pub-owning businesses[^c-3e09cb3ff64416b4f46362f1ecbf0430]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e09cb3ff64416b4f46362f1ecbf0430]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2015/26/section/50) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)
+[^c-3e09cb3ff64416b4f46362f1ecbf0430]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2015/26/section/50) in force at 21.7.2016 by [S.I. 2016/532](https://www.legislation.gov.uk/uksi/2016/532), [reg. 3](https://www.legislation.gov.uk/uksi/2016/532/regulation/3)

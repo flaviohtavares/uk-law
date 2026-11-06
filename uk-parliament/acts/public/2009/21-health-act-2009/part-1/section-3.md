@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Availability and review of NHS Constitution[^key-932e281adcd83bdcdd7ec35f96730faf]
+## 3. Availability and review of NHS Constitution[^c-932e281adcd83bdcdd7ec35f96730faf]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) patients and bodies or other persons representing patients,
 - (b) staff and bodies or other persons representing staff,
 - (c) carers,
-- (d)[^key-7a4a56fdd7ab4f5370e4279e51334484] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-7a4a56fdd7ab4f5370e4279e51334484] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) members of the public,
 - (f) the bodies and persons listed in section 2(2), (4) and (5), and
 - (g) such other persons as the Secretary of State considers appropriate.
@@ -42,7 +42,7 @@ summary: ''
 
 (7) In this Chapter—
 
-- “**carers**” means persons who, as relatives or friends, care for other persons to whom health services[^key-47888291e760ee0981bed7c54ceaed67] are being provided;
+- “**carers**” means persons who, as relatives or friends, care for other persons to whom health services[^c-47888291e760ee0981bed7c54ceaed67] are being provided;
 - “**the guiding principles**” means—
   - (a) the 7 principles described in the NHS Constitution published on 21 January 2009 as “the principles that guide the NHS”, or
   - (b) any revised version of those principles set out in the NHS Constitution published under this section or section 4;
@@ -51,14 +51,14 @@ summary: ''
   - (a) persons employed by a body listed in section 2(2) or otherwise working for such a body (whether as or on behalf of a contractor, as a volunteer or otherwise) in, or in connection with, the provision, commissioning or regulation of health services;
   - (b) persons employed by a person listed in subsection (4) or (5) of section 2 or otherwise working for such a person (whether as or on behalf of a contractor, as a volunteer or otherwise) in, or in connection with, the provision of health services or assistance or the making of arrangements as mentioned in the subsection in question.
 
-(8)[^key-768f714e4ded9a6b6b04245fa23d22e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-768f714e4ded9a6b6b04245fa23d22e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-932e281adcd83bdcdd7ec35f96730faf]: Commencement: S. 3 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/30/article/2/a)
+[^c-932e281adcd83bdcdd7ec35f96730faf]: Commencement: S. 3 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/30/article/2/a)
 
-[^key-7a4a56fdd7ab4f5370e4279e51334484]: Textual amendment: [S. 3(3)(d)](https://www.legislation.gov.uk/ukpga/2009/21/section/3/3/d) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 176(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/176/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-7a4a56fdd7ab4f5370e4279e51334484]: Textual amendment: [S. 3(3)(d)](https://www.legislation.gov.uk/ukpga/2009/21/section/3/3/d) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 176(2)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/176/2); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-47888291e760ee0981bed7c54ceaed67]: Textual amendment: Words in [s. 3(7)](https://www.legislation.gov.uk/ukpga/2009/21/section/3/7) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 174(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/174/c); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-47888291e760ee0981bed7c54ceaed67]: Textual amendment: Words in [s. 3(7)](https://www.legislation.gov.uk/ukpga/2009/21/section/3/7) substituted (1.4.2013) by [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 174(c)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/174/c); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
 
-[^key-768f714e4ded9a6b6b04245fa23d22e2]: Textual amendment: [S. 3(8)](https://www.legislation.gov.uk/ukpga/2009/21/section/3/8) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 176(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/176/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))
+[^c-768f714e4ded9a6b6b04245fa23d22e2]: Textual amendment: [S. 3(8)](https://www.legislation.gov.uk/ukpga/2009/21/section/3/8) omitted (1.4.2013) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [s. 306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4), [Sch. 5 para. 176(3)](https://www.legislation.gov.uk/ukpga/2012/7/schedule/5/paragraph/176/3); [S.I. 2013/160](https://www.legislation.gov.uk/uksi/2013/160), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/160/article/2/2) (with [arts. 7-9](https://www.legislation.gov.uk/uksi/2013/160/article/7))

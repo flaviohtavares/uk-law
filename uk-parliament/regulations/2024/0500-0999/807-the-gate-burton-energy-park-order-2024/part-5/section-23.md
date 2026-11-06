@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Acquisition of subsoil only[^key-95913f2b1007f714379ecee5f9603367]
+## 23. Acquisition of subsoil only[^c-95913f2b1007f714379ecee5f9603367]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The following do not apply in connection with the exercise of the power under paragraph ‎(1) in relation to subsoil only—
 
-- (a) Schedule 2A (counter-notice requiring purchase of land not in notice to treat) to the 1965 Act as modified by Schedule 10 (modification of compensation and compulsory purchase enactments for the creation of new rights and imposition of new restrictive covenants);[^key-04fb23c03c75fa6c9988216f0912bf1b]
+- (a) Schedule 2A (counter-notice requiring purchase of land not in notice to treat) to the 1965 Act as modified by Schedule 10 (modification of compensation and compulsory purchase enactments for the creation of new rights and imposition of new restrictive covenants);[^c-04fb23c03c75fa6c9988216f0912bf1b]
 - (b) Schedule A1 (counter-notice requiring purchase of land not in general vesting declaration) to the 1981 Act; and
 - (c) section 153(4A) (blighted land: proposed acquisition of part interest; material detriment test) of the 1990 Act.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95913f2b1007f714379ecee5f9603367]: Commencement: Art. 23 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-95913f2b1007f714379ecee5f9603367]: Commencement: Art. 23 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-04fb23c03c75fa6c9988216f0912bf1b]: Textual amendment: Words in [art. 23(3)(a)](https://www.legislation.gov.uk/uksi/2024/807/article/23/3/a) substituted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
+[^c-04fb23c03c75fa6c9988216f0912bf1b]: Textual amendment: Words in [art. 23(3)(a)](https://www.legislation.gov.uk/uksi/2024/807/article/23/3/a) substituted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)

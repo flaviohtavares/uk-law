@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Financial limit - capital[^key-f005ace5125931054e3d5d164136e0f4]
+## 12. Financial limit - capital[^c-f005ace5125931054e3d5d164136e0f4]
 
 *Extent: E+W*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-f005ace5125931054e3d5d164136e0f4]: Commencement: Reg. 12 in force at 1.4.2015 in accordance with reg. 1
+[^c-f005ace5125931054e3d5d164136e0f4]: Commencement: Reg. 12 in force at 1.4.2015 in accordance with reg. 1
 
 [^f00018]: Footnote: *See* section 17(8) of the Act as to the requirement for regulations to make provision as to cases or circumstances in which, if the financial resources of an adult exceed a specified level, a local authority is not permitted to, or may (but need not) pay towards the cost of the provision of care and support for the adult. Section 17(8) has been commenced in modified form for the purposes of making regulations by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473). *See* also section 17(10) of the Act as to the meaning of “the financial limit”.
 

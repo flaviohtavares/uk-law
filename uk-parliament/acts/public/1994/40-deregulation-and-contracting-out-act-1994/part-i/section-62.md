@@ -22,7 +22,7 @@ summary: ''
 
 (1) Section 17 of the 1981 Act (revocation, suspension etc. of licences) shall be amended as follows.
 
-(2)[^key-9f527e4db005db1b4bf359afc1339542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9f527e4db005db1b4bf359afc1339542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After subsection (5) there shall be inserted—
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f527e4db005db1b4bf359afc1339542]: Textual amendment: [S. 62(2)](https://www.legislation.gov.uk/ukpga/1994/40/section/62/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2
+[^c-9f527e4db005db1b4bf359afc1339542]: Textual amendment: [S. 62(2)](https://www.legislation.gov.uk/ukpga/1994/40/section/62/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 16](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/16) Group 2

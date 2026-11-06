@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Bank to act as Prudential Regulation Authority[^key-fe52657d04357b44851572a813491b6c]
+## 12. Bank to act as Prudential Regulation Authority[^c-fe52657d04357b44851572a813491b6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ In the Financial Services and Markets Act 2000, for section 2A substitute—
 
 ## Annotations
 
-[^key-fe52657d04357b44851572a813491b6c]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/14/section/12) in force at 1.3.2017 by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/c)
+[^c-fe52657d04357b44851572a813491b6c]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2016/14/section/12) in force at 1.3.2017 by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transfer of members of existing tribunals[^key-2420b8fede5b2d069acbec01e26ba1c0]
+## 5. Transfer of members of existing tribunals[^c-2420b8fede5b2d069acbec01e26ba1c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,7 +53,7 @@ Tribunal established under section 704 ITA 2007
 
 ## Annotations
 
-[^key-2420b8fede5b2d069acbec01e26ba1c0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/56/article/5) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
+[^c-2420b8fede5b2d069acbec01e26ba1c0]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2009/56/article/5) in force at 1.4.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2)
 
 [^f00007]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 

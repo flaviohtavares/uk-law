@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 186. Transfers in[^key-a99d62c3ef56bb0654ca5fd369e422e3]
+## 186. Transfers in[^c-a99d62c3ef56bb0654ca5fd369e422e3]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a99d62c3ef56bb0654ca5fd369e422e3]: Commencement: Reg. 186 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-a99d62c3ef56bb0654ca5fd369e422e3]: Commencement: Reg. 186 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 1. Duty to have regard to purpose of disciplinary system etc.[^key-c5ef33f7c9c99ca2302e87e1ab27e0d3]
+## 1. Duty to have regard to purpose of disciplinary system etc.[^c-c5ef33f7c9c99ca2302e87e1ab27e0d3]
 
 *Extent: E*
 
@@ -29,4 +29,4 @@ Every person exercising a function for the purposes of this Measure must have du
 
 ## Annotations
 
-[^key-c5ef33f7c9c99ca2302e87e1ab27e0d3]: Commencement: S. 1 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-c5ef33f7c9c99ca2302e87e1ab27e0d3]: Commencement: S. 1 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

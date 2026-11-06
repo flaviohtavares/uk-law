@@ -26,9 +26,9 @@ summary: ''
 
 (3) For the purposes of subsection (2), shares, stocks, debentures or other securities are marketed to the general public if they are—
 
-- (a) listed on a recognised stock exchange,[^key-edd2a7c083f1ff416dd5863476b0496b]
+- (a) listed on a recognised stock exchange,[^c-edd2a7c083f1ff416dd5863476b0496b]
 - (b) listed on a designated exchange in a country outside the United Kingdom, or
-- (c) dealt in [^key-2c497f3bb1fe53ba506a6cd7f536dd6b]... outside the United Kingdom by such means as may be designated.
+- (c) dealt in [^c-2c497f3bb1fe53ba506a6cd7f536dd6b]... outside the United Kingdom by such means as may be designated.
 
 (4) In subsection (3)(b) and (c) “**designated**” means designated by an order made by the Commissioners for Her Majesty's Revenue and Customs for the purposes of that provision.
 
@@ -43,6 +43,6 @@ the requirements of this section are to be treated, in relation to shares or sec
 
 ## Annotations
 
-[^key-edd2a7c083f1ff416dd5863476b0496b]: Textual amendment: Words in s. 295(3)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(7)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/7/a)
+[^c-edd2a7c083f1ff416dd5863476b0496b]: Textual amendment: Words in s. 295(3)(a) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(7)(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/7/a)
 
-[^key-2c497f3bb1fe53ba506a6cd7f536dd6b]: Textual amendment: Words in s. 295(3)(c) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(7)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/7/b), [Sch. 27 Pt. 6(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/5)
+[^c-2c497f3bb1fe53ba506a6cd7f536dd6b]: Textual amendment: Words in s. 295(3)(c) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(7)(b)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/7/b), [Sch. 27 Pt. 6(5)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/6/5)

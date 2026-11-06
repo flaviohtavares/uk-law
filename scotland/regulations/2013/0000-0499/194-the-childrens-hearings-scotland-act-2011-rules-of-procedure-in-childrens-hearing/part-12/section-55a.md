@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55A. Children’s hearings’ power to determine whether person to be afforded opportunity to participate where no referral made under section 79 of the Act[^key-67a06c2daa4c7dd8e01404a8e52888de]
+## 55A. Children’s hearings’ power to determine whether person to be afforded opportunity to participate where no referral made under section 79 of the Act[^c-67a06c2daa4c7dd8e01404a8e52888de]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67a06c2daa4c7dd8e01404a8e52888de]: Textual amendment: Rule 55A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(26)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/26)
+[^c-67a06c2daa4c7dd8e01404a8e52888de]: Textual amendment: Rule 55A inserted (26.7.2021) by [The Children’s Hearings (Scotland) Act 2011 (Rules of Procedure in Children’s Hearings) Amendment Rules 2021 (S.S.I. 2021/68)](https://www.legislation.gov.uk/ssi/2021/68), [rules 1](https://www.legislation.gov.uk/ssi/2021/68/rule/1), [2(26)](https://www.legislation.gov.uk/ssi/2021/68/rule/2/26)

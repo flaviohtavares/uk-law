@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Appeal against immediate withdrawal of approval of out of hours arrangements under general medical services and default contracts[^key-452c3106e514c8909e1448acb199cf47]
+## 67. Appeal against immediate withdrawal of approval of out of hours arrangements under general medical services and default contracts[^c-452c3106e514c8909e1448acb199cf47]
 
 *Extent: N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-452c3106e514c8909e1448acb199cf47]: Commencement: Art. 67 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-452c3106e514c8909e1448acb199cf47]: Commencement: Art. 67 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Building control prohibitions[^key-beb2327af2561f2a34da7d14e71ae8ba][^key-1ac37531424ca6a87760060709ab2abd]
+## 129. Building control prohibitions[^c-beb2327af2561f2a34da7d14e71ae8ba][^c-1ac37531424ca6a87760060709ab2abd]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ including securing that safety, or improving that standard, by securing that per
 
 ## Annotations
 
-[^key-beb2327af2561f2a34da7d14e71ae8ba]: Commencement: S. 129 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-beb2327af2561f2a34da7d14e71ae8ba]: Commencement: S. 129 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-1ac37531424ca6a87760060709ab2abd]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2022/30/section/129) in force at 1.9.2022 by [S.I. 2022/927](https://www.legislation.gov.uk/uksi/2022/927), [reg. 2](https://www.legislation.gov.uk/uksi/2022/927/regulation/2)
+[^c-1ac37531424ca6a87760060709ab2abd]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2022/30/section/129) in force at 1.9.2022 by [S.I. 2022/927](https://www.legislation.gov.uk/uksi/2022/927), [reg. 2](https://www.legislation.gov.uk/uksi/2022/927/regulation/2)

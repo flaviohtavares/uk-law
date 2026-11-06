@@ -43,7 +43,7 @@ Coming into force
 
 28th November 2003
 
-The Scottish Ministers, in exercise of the powers conferred by sections 6(4), 16(1)(e), 17(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990 [^c5134411] and of all other powers enabling them in that behalf, having had regard in accordance with section 48(4A) [^c5134421] of that Act to relevant advice given by the Food Standards Agency and after consultation in accordance with section 48(4) and (4B) [^c5134431] of that Act, hereby make the following Regulations:[^key-ebd32dae284cd95f0bb4b1422943fb42]
+The Scottish Ministers, in exercise of the powers conferred by sections 6(4), 16(1)(e), 17(1), 26(1) and (3) and 48(1) of the Food Safety Act 1990 [^c5134411] and of all other powers enabling them in that behalf, having had regard in accordance with section 48(4A) [^c5134421] of that Act to relevant advice given by the Food Standards Agency and after consultation in accordance with section 48(4) and (4B) [^c5134431] of that Act, hereby make the following Regulations:[^c-ebd32dae284cd95f0bb4b1422943fb42]
 
 ## 1. Citation, commencement and extent
 
@@ -62,7 +62,7 @@ In these Regulations–
 - “**EEA State**” means a State which is a Contracting Party to the EEA Agreement;
 - “**icing sugar**” means fine particles of white sugar or extra-white sugar or mixtures thereof;
 - “**preparation**” includes manufacture and any form of processing or treatment, and “**prepared**” shall be construed accordingly;
-- [^key-f62d47b3d3f5b1c07af068615afa77b7]...
+- [^c-f62d47b3d3f5b1c07af068615afa77b7]...
 - “**reserved description**”, as respects any specified sugar product, means any description specified in relation to that product in column 1 of Part I of Schedule 1 (as read with the notes relating to that Part) and the use of any such description in these Regulations shall be construed as meaning the product to which that description relates;
 - “**sell**” includes offer or expose for sale or have in possession for sale, and “**sale**” and “**sold**” shall be construed accordingly;
 - “**specified sugar product**” means any food specified in column 2 of Part I of Schedule 1 (as read with the notes relating to that Part) but does not include any such food in the form of icing sugar, candy sugar or sugar in loaf form;
@@ -87,12 +87,12 @@ No person shall sell any food with a label, whether or not attached to or printe
 
 ## 5. Labelling and description of specified sugar products
 
-Without prejudice to the generality of Regulation ([^key-87c1df168c46a8b3f7fedddfbfb733e7]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council, and repealing Commission [Directive 87/250/EEC](https://www.legislation.gov.uk/eudr/1987/0250), Council [Directive 90/496/EEC](https://www.legislation.gov.uk/eudr/1990/0496), Commission [Directive 1999/10/EC](https://www.legislation.gov.uk/eudr/1999/0010), [Directive 2000/13/EC](https://www.legislation.gov.uk/eudr/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67) and [2008/5/EC](https://www.legislation.gov.uk/eudr/2008/5) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/eur/2004/0608) , as last amended by Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods[^key-ff27fcc0f6e33b51bfe81070b6756d86], no person shall sell any specified sugar product unless it is marked or labelled with the following particulars:–
+Without prejudice to the generality of Regulation ([^c-87c1df168c46a8b3f7fedddfbfb733e7]EU) No 1169/2011 of the European Parliament and of the Council on the provision of food information to consumers, amending Regulations [(EC) No 1924/2006](https://www.legislation.gov.uk/eur/2006/1924) and [(EC) No 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council, and repealing Commission [Directive 87/250/EEC](https://www.legislation.gov.uk/eudr/1987/0250), Council [Directive 90/496/EEC](https://www.legislation.gov.uk/eudr/1990/0496), Commission [Directive 1999/10/EC](https://www.legislation.gov.uk/eudr/1999/0010), [Directive 2000/13/EC](https://www.legislation.gov.uk/eudr/2000/0013) of the European Parliament and of the Council, Commission Directives [2002/67/EC](https://www.legislation.gov.uk/eudr/2002/67) and [2008/5/EC](https://www.legislation.gov.uk/eudr/2008/5) and [Commission Regulation (EC) No 608/2004](https://www.legislation.gov.uk/eur/2004/0608) , as last amended by Regulation (EU) 2015/2283 of the European Parliament and of the Council on novel foods[^c-ff27fcc0f6e33b51bfe81070b6756d86], no person shall sell any specified sugar product unless it is marked or labelled with the following particulars:–
 
 - (a) a reserved description of the product; and
 - (b) in the case of sugar solution, invert sugar solution and invert sugar syrup, the dry matter and invert sugar content of the product.
 
-## 6. Manner of marking or labelling[^key-a5c45a504637f6455507ae30b5a34645]
+## 6. Manner of marking or labelling[^c-a5c45a504637f6455507ae30b5a34645]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -104,7 +104,7 @@ Without prejudice to the generality of Regulation ([^key-87c1df168c46a8b3f7feddd
 
 (3) Each food authority shall enforce and execute these Regulations in its area.
 
-## 8. Defence in relation to exports[^key-8b4472e9a0755b56b3451c3f0d28af30]
+## 8. Defence in relation to exports[^c-8b4472e9a0755b56b3451c3f0d28af30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -124,7 +124,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 - (j) section 36A [^c5134481] (offences by Scottish partnerships); and
 - (k) section 44 (protection of officers acting in good faith).
 
-## 10. Transitional provision[^key-496e567f36d6ca61da3ad7d3efc22170]
+## 10. Transitional provision[^c-496e567f36d6ca61da3ad7d3efc22170]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -139,7 +139,7 @@ The following provisions of the Act shall apply for the purposes of these Regula
 - (e) in the Food (Forces Exemptions) (Revocations) Regulations 1992 [^c5134541], in the Schedule, Part II;
 - (f) in the Colours in Food Regulations 1995 [^c5134551], in regulation 12(2);
 - (g) in the Miscellaneous Food Additives Regulations 1995 [^c5134561], in regulation 10(4) and in Schedule 9;
-- (h)[^key-6500fceeb9aeba277ac0aac914394c2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-6500fceeb9aeba277ac0aac914394c2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) in the Miscellaneous Food Additives (Amendment) Regulations 1999 [^c5134571], in regulation 14(1).
 
 (2) The Specified Sugar Products (Scotland) Regulations 1976 and the Specified Sugar Products (Scotland) (Amendment) Regulations 1982 [^c5134581] are hereby revoked.
@@ -189,7 +189,7 @@ Notes:
 
 **6.** The description “white” may be used in relation to any of the products described at items 5 and 6 above where the conductivity ash content does not exceed 0.1% and the colour in solution does not exceed 25 ICUMSA units determined as set out in paragraph 3 of Chapter A of the Annex to Commission Regulation [(EEC) No. 1265/69](https://www.legislation.gov.uk/eur/1969/1265).
 
-**7.**[^key-f3520440cd16fb0f2501f151b9c5d70d] Specified sugar products may contain—
+**7.**[^c-f3520440cd16fb0f2501f151b9c5d70d] Specified sugar products may contain—
 
 - (a) a permitted extraction solvent, as defined in regulation 9 of the Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013;
 - (b) any food additive authorised under Regulation [(EC) No 1333/2008](https://www.legislation.gov.uk/european/regulation/2008/1333) of the European Parliament and of the Council on food additives.
@@ -232,7 +232,7 @@ Regulation 11(4)
 | *Column 1* | *Column 2* |
 | --- | --- |
 | The Jam and Similar Products (Scotland) Regulations 1981 [^c5134661] | in Schedule 4 in each place that they appear, for “Specified Sugar Products (Scotland) Regulations 1976” substitute “ Specified Sugar Products (Scotland) Regulations 2003 ”<br>in Schedule 4, paragraph (c) for “item (2) of Schedule 2” substitute “ paragraph 3 of Schedule 1, Part II ”<br>in Schedule 4, paragraph (d) for “item (3) of Schedule 2” substitute “ paragraph 4 of Schedule 1, Part II ” |
-| [^key-121b2746f0e8a537243e59476c4c8f8c]. . . | [^key-121b2746f0e8a537243e59476c4c8f8c]. . . |
+| [^c-121b2746f0e8a537243e59476c4c8f8c]. . . | [^c-121b2746f0e8a537243e59476c4c8f8c]. . . |
 | The Coffee Extracts and Chicory Extracts (Scotland) Regulations 2001 [^c5134681] | in regulation 5(1)(c), for “the Specified Sugar Products (Scotland) Regulations 1976” substitute “ the Specified Sugar Products (Scotland) Regulations 2003 ” |
 
 *(This note is not part of the Regulations)*
@@ -270,25 +270,25 @@ A Regulatory Impact Assessment, which includes a compliance cost assessment of t
 
 [^c5134431]: Marginal citation: [Section 48(4B)](https://www.legislation.gov.uk/ssi/2003/527/section/48/4B) was inserted by paragraph 21 of Schedule 5 to the 1999 Act.
 
-[^key-ebd32dae284cd95f0bb4b1422943fb42]: Modification: Regulations applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-ebd32dae284cd95f0bb4b1422943fb42]: Modification: Regulations applied in part (with modifications) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^c5134441]: Marginal citation: O.J. No. L 1, 3.1.94, p.1.
 
 [^c5134451]: Marginal citation: O.J. No. L 1, 3.1.94, p.571.
 
-[^key-f62d47b3d3f5b1c07af068615afa77b7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2003/527/regulation/2) omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 8(a)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/8/a)
+[^c-f62d47b3d3f5b1c07af068615afa77b7]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2003/527/regulation/2) omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 8(a)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/8/a)
 
-[^key-87c1df168c46a8b3f7fedddfbfb733e7]: Textual amendment: Words in reg. 5 substituted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 8(b)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/8/b) (as amended (19.1.2016) by [The Food Information (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/410)](https://www.legislation.gov.uk/ssi/2015/410), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/410/regulation/1/2), [3(10)(a)](https://www.legislation.gov.uk/ssi/2015/410/regulation/3/10/a))
+[^c-87c1df168c46a8b3f7fedddfbfb733e7]: Textual amendment: Words in reg. 5 substituted (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 8(b)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/8/b) (as amended (19.1.2016) by [The Food Information (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/410)](https://www.legislation.gov.uk/ssi/2015/410), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/410/regulation/1/2), [3(10)(a)](https://www.legislation.gov.uk/ssi/2015/410/regulation/3/10/a))
 
-[^key-ff27fcc0f6e33b51bfe81070b6756d86]: Textual amendment: Words in reg. 5 inserted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2019/33/regulation/5/2)
+[^c-ff27fcc0f6e33b51bfe81070b6756d86]: Textual amendment: Words in reg. 5 inserted (28.3.2019) by [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2019/33/regulation/5/2)
 
-[^key-a5c45a504637f6455507ae30b5a34645]: Textual amendment: Reg. 6 omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 8(c)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/8/c)
+[^c-a5c45a504637f6455507ae30b5a34645]: Textual amendment: Reg. 6 omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 8(c)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/8/c)
 
-[^key-8b4472e9a0755b56b3451c3f0d28af30]: Textual amendment: Reg. 8 revoked (1.1.2006) by [The Official Feed and Food Controls (Scotland) Regulations 2005 (S.S.I. 2005/616)](https://www.legislation.gov.uk/ssi/2005/616), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/616/regulation/1/b), [sch. 6](https://www.legislation.gov.uk/ssi/2005/616/schedule/6)
+[^c-8b4472e9a0755b56b3451c3f0d28af30]: Textual amendment: Reg. 8 revoked (1.1.2006) by [The Official Feed and Food Controls (Scotland) Regulations 2005 (S.S.I. 2005/616)](https://www.legislation.gov.uk/ssi/2005/616), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2005/616/regulation/1/b), [sch. 6](https://www.legislation.gov.uk/ssi/2005/616/schedule/6)
 
 [^c5134481]: Marginal citation: Section 36A was inserted by paragraph 16 of Schedule 5 to the 1999 Act.
 
-[^key-496e567f36d6ca61da3ad7d3efc22170]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/ssi/2003/527/regulation/10) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2019/33/regulation/5/3)
+[^c-496e567f36d6ca61da3ad7d3efc22170]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/ssi/2003/527/regulation/10) omitted (28.3.2019) by virtue of [The Food Standards and Hygiene (Miscellaneous Amendments) (Scotland) Regulations 2019 (S.S.I. 2019/33)](https://www.legislation.gov.uk/ssi/2019/33), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2019/33/regulation/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2019/33/regulation/5/3)
 
 [^c5134501]: Marginal citation: [S.I. 1983/270](https://www.legislation.gov.uk/uksi/1983/270) to which there are amendments not relevant to these Regulations.
 
@@ -304,7 +304,7 @@ A Regulatory Impact Assessment, which includes a compliance cost assessment of t
 
 [^c5134561]: Marginal citation: [S.I. 1995/3187](https://www.legislation.gov.uk/uksi/1995/3187) to which there are amendments not relevant to these Regulations.
 
-[^key-6500fceeb9aeba277ac0aac914394c2f]: Textual amendment: [Reg. 11(h)](https://www.legislation.gov.uk/ssi/2003/527/regulation/11/h) revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
+[^c-6500fceeb9aeba277ac0aac914394c2f]: Textual amendment: [Reg. 11(h)](https://www.legislation.gov.uk/ssi/2003/527/regulation/11/h) revoked (13.12.2014) by [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 4 Pt. 1](https://www.legislation.gov.uk/ssi/2014/312/schedule/4/part/1)
 
 [^c5134571]: Marginal citation: [S.I. 1999/1136](https://www.legislation.gov.uk/uksi/1999/1136).
 
@@ -316,7 +316,7 @@ A Regulatory Impact Assessment, which includes a compliance cost assessment of t
 
 [^c5134611]: Marginal citation: O.J. No. L 163, 1.7.69, p.1.
 
-[^key-f3520440cd16fb0f2501f151b9c5d70d]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2003/527/schedule/1/part/1) Table Note 7 substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 2(2)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/2/2)
+[^c-f3520440cd16fb0f2501f151b9c5d70d]: Textual amendment: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ssi/2003/527/schedule/1/part/1) Table Note 7 substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 10 para. 2(2)](https://www.legislation.gov.uk/uksi/2025/361/schedule/10/paragraph/2/2)
 
 [^c5134641]: Marginal citation: O.J. No. L 163, 1.7.69, p.1.
 
@@ -324,6 +324,6 @@ A Regulatory Impact Assessment, which includes a compliance cost assessment of t
 
 [^c5134661]: Marginal citation: [S.I. 1981/1320](https://www.legislation.gov.uk/uksi/1981/1320), to which there are amendments not relevant to these Regulations.
 
-[^key-121b2746f0e8a537243e59476c4c8f8c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2003/527/schedule/2) entry omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 8(d)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/8/d)
+[^c-121b2746f0e8a537243e59476c4c8f8c]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ssi/2003/527/schedule/2) entry omitted (13.12.2014) by virtue of [The Food Information (Scotland) Regulations 2014 (S.S.I. 2014/312)](https://www.legislation.gov.uk/ssi/2014/312), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2014/312/regulation/1/2), [sch. 5 para. 8(d)](https://www.legislation.gov.uk/ssi/2014/312/schedule/5/paragraph/8/d)
 
 [^c5134681]: Marginal citation: [S.S.I. 2001/38](https://www.legislation.gov.uk/ssi/2001/38).

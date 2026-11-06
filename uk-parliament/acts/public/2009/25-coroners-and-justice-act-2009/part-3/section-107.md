@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Answering to live link bail[^key-55ddb58208ffd18678b4eb14b4ef543f][^key-7b8bd02d70216f09f8ea8ec4af20b246][^key-1708b514a2e47dbb522f0f72cb250153]
+## 107. Answering to live link bail[^c-55ddb58208ffd18678b4eb14b4ef543f][^c-7b8bd02d70216f09f8ea8ec4af20b246][^c-1708b514a2e47dbb522f0f72cb250153]
 
 *Extent: E+W*
 
@@ -35,8 +35,8 @@ summary: ''
 
 ## Annotations
 
-[^key-55ddb58208ffd18678b4eb14b4ef543f]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2009/25/section/107) in force at 14.12.2009 for specified purposes by [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2009/3253/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3253/article/4))
+[^c-55ddb58208ffd18678b4eb14b4ef543f]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2009/25/section/107) in force at 14.12.2009 for specified purposes by [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2009/3253/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3253/article/4))
 
-[^key-7b8bd02d70216f09f8ea8ec4af20b246]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2009/25/section/107) in force at 3.10.2011 for specified purposes by [S.I. 2011/2148](https://www.legislation.gov.uk/uksi/2011/2148), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2011/2148/article/2/1/b)
+[^c-7b8bd02d70216f09f8ea8ec4af20b246]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2009/25/section/107) in force at 3.10.2011 for specified purposes by [S.I. 2011/2148](https://www.legislation.gov.uk/uksi/2011/2148), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2011/2148/article/2/1/b)
 
-[^key-1708b514a2e47dbb522f0f72cb250153]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2009/25/section/107) in force at 8.10.2012 in so far as not already in force by [S.I. 2012/2374](https://www.legislation.gov.uk/uksi/2012/2374), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/2374/article/3/b)
+[^c-1708b514a2e47dbb522f0f72cb250153]: Commencement: [S. 107](https://www.legislation.gov.uk/ukpga/2009/25/section/107) in force at 8.10.2012 in so far as not already in force by [S.I. 2012/2374](https://www.legislation.gov.uk/uksi/2012/2374), [art. 3(b)](https://www.legislation.gov.uk/uksi/2012/2374/article/3/b)

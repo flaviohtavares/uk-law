@@ -25,7 +25,7 @@ summary: ''
 - (a) his revalidation; or
 - (b) the consideration of any application made by him for restoration of a licence to practise.
 
-(2)[^key-858558b3df59ffa1671b68bc9e9a74bc] Any sum payable by a medical practitioner under subsection (1) above—
+(2)[^c-858558b3df59ffa1671b68bc9e9a74bc] Any sum payable by a medical practitioner under subsection (1) above—
 
 - (a) may be recovered by the General Council; or
 - (b) where regulations by virtue of subsection (2B) below are in force, may instead be recovered by a prescribed person or body in such cases or circumstances, and to such extent, as may be prescribed.
@@ -51,14 +51,14 @@ summary: ''
 - (a) a medical practitioner holding, or continuing to hold, a licence to practise; or
 - (b) the making of any change to the General Practitioner Register or the Specialist Register in respect of a medical practitioner.
 
-(2E)[^key-7898528b919f1ba298f70a1cdd9b406d] Regulations under section 29A may make provision in connection with determining whether a medical practitioner has demonstrated the necessary knowledge of English; and the regulations may in particular—
+(2E)[^c-7898528b919f1ba298f70a1cdd9b406d] Regulations under section 29A may make provision in connection with determining whether a medical practitioner has demonstrated the necessary knowledge of English; and the regulations may in particular—
 
 - (a) provide for the licensing authority to require a person to undertake an assessment to demonstrate whether the person has the necessary knowledge of English;
 - (b) require a person to provide any evidence, information or document which the licensing authority may reasonably request for the purpose of demonstrating whether the person has the necessary knowledge of English but the regulations may not require, or enable the licensing authority to request, evidence or information demonstrating that the practitioner’s knowledge of English exceeds the necessary knowledge of English;
 - (c) provide for the powers of the licensing authority in section 29E(1)(a) and (b) to be exercisable in relation to a person in connection with any refusal or failure by the person to provide the licensing authority with such information;
 - (d) make provision equivalent to section 29E(5) to (9) as to the disclosure of such information to the licensing authority (with appropriate modifications).
 
-(3) Regulations under section 29A above may make different provision for different purposes, cases or circumstances or different areas[^key-a1cc3fb3e09808694b63e674067f16c2].
+(3) Regulations under section 29A above may make different provision for different purposes, cases or circumstances or different areas[^c-a1cc3fb3e09808694b63e674067f16c2].
 
 (4) Regulations under section 29A above shall not have effect until approved by order of the Privy Council.
 
@@ -66,8 +66,8 @@ summary: ''
 
 ## Annotations
 
-[^key-858558b3df59ffa1671b68bc9e9a74bc]: Textual amendment: S. 29J(2)-(2D) substituted for s. 29J(2) (9.9.2009 for specified purposes) by [The Medical Profession (Miscellaneous Amendments) Order 2008 (S.I. 2008/3131)](https://www.legislation.gov.uk/uksi/2008/3131), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4), [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/16/2); [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200), [art. 2](https://www.legislation.gov.uk/uksi/2009/2200/article/2)
+[^c-858558b3df59ffa1671b68bc9e9a74bc]: Textual amendment: S. 29J(2)-(2D) substituted for s. 29J(2) (9.9.2009 for specified purposes) by [The Medical Profession (Miscellaneous Amendments) Order 2008 (S.I. 2008/3131)](https://www.legislation.gov.uk/uksi/2008/3131), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4), [Sch. 1 para. 16(2)](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/16/2); [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200), [art. 2](https://www.legislation.gov.uk/uksi/2009/2200/article/2)
 
-[^key-7898528b919f1ba298f70a1cdd9b406d]: Textual amendment: [S. 29J(2E)](https://www.legislation.gov.uk/ukpga/1983/54/section/29J/2E) inserted (29.4.2014) by [The Medical Act 1983 (Amendment) (Knowledge of English) Order 2014 (S.I. 2014/1101)](https://www.legislation.gov.uk/uksi/2014/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1101/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/1101/article/5/2) (with [arts. 11](https://www.legislation.gov.uk/uksi/2014/1101/article/11), [12](https://www.legislation.gov.uk/uksi/2014/1101/article/12))
+[^c-7898528b919f1ba298f70a1cdd9b406d]: Textual amendment: [S. 29J(2E)](https://www.legislation.gov.uk/ukpga/1983/54/section/29J/2E) inserted (29.4.2014) by [The Medical Act 1983 (Amendment) (Knowledge of English) Order 2014 (S.I. 2014/1101)](https://www.legislation.gov.uk/uksi/2014/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/1101/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2014/1101/article/5/2) (with [arts. 11](https://www.legislation.gov.uk/uksi/2014/1101/article/11), [12](https://www.legislation.gov.uk/uksi/2014/1101/article/12))
 
-[^key-a1cc3fb3e09808694b63e674067f16c2]: Textual amendment: Words in s. 29J(3) inserted (9.9.2009) by [The Medical Profession (Miscellaneous Amendments) Order 2008 (S.I. 2008/3131)](https://www.legislation.gov.uk/uksi/2008/3131), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4), [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/16/3); [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200), [art. 2](https://www.legislation.gov.uk/uksi/2009/2200/article/2)
+[^c-a1cc3fb3e09808694b63e674067f16c2]: Textual amendment: Words in s. 29J(3) inserted (9.9.2009) by [The Medical Profession (Miscellaneous Amendments) Order 2008 (S.I. 2008/3131)](https://www.legislation.gov.uk/uksi/2008/3131), [art. 1(4)](https://www.legislation.gov.uk/uksi/2008/3131/article/1/4), [Sch. 1 para. 16(3)](https://www.legislation.gov.uk/uksi/2008/3131/schedule/1/paragraph/16/3); [S.I. 2009/2200](https://www.legislation.gov.uk/uksi/2009/2200), [art. 2](https://www.legislation.gov.uk/uksi/2009/2200/article/2)

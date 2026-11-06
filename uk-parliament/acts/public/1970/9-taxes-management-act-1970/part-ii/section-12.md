@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Information about chargeable gains.[^key-a4eb96e52964f2c3b618eaedf3a25eaf]
+## 12. Information about chargeable gains.[^c-a4eb96e52964f2c3b618eaedf3a25eaf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4eb96e52964f2c3b618eaedf3a25eaf]: Textual amendment: S. 12 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/2)
+[^c-a4eb96e52964f2c3b618eaedf3a25eaf]: Textual amendment: S. 12 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/2)

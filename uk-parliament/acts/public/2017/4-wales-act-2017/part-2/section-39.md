@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Development consent for generating stations with 350MW capacity or less[^c22717861][^key-f43f7fa704b30a2e3bee391a66afafd0][^key-b4392cc74279a171ffabf2c2308a7b6c]
+## 39. Development consent for generating stations with 350MW capacity or less[^c22717861][^c-f43f7fa704b30a2e3bee391a66afafd0][^c-b4392cc74279a171ffabf2c2308a7b6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,6 +109,6 @@ summary: ''
 
 [^c22717861]: Commencement: S. 39(4)(6) in force for specified purposes at 31.3.2017, see [s. 71(2)(e)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/e)
 
-[^key-f43f7fa704b30a2e3bee391a66afafd0]: Commencement: S. 39 in force at 1.4.2018 for specified purposes by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/h)
+[^c-f43f7fa704b30a2e3bee391a66afafd0]: Commencement: S. 39 in force at 1.4.2018 for specified purposes by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/h)
 
-[^key-b4392cc74279a171ffabf2c2308a7b6c]: Commencement: S. 39 in force at 1.4.2019 in so far as not already in force by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/5/a)
+[^c-b4392cc74279a171ffabf2c2308a7b6c]: Commencement: S. 39 in force at 1.4.2019 in so far as not already in force by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/5/a)

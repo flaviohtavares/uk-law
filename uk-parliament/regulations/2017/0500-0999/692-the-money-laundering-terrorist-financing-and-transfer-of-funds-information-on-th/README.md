@@ -46,7 +46,7 @@ Coming into force
 
 The Treasury are designated [^c23047331] for the purposes of section 2(2) of the European Communities Act 1972 [^c23047341] in relation to the prevention of money laundering and terrorist financing.
 
-The Treasury in exercise of the powers conferred by section 2(2) of that Act and by sections 168(4)(b), 402(1)(b), 417(1) and 428(3) of the Financial Services and Markets Act 2000 [^c23047351], make the following Regulations.[^key-576af5d74616cd822cba374072888afa][^key-789b6fbf508a364e569973c92a607332]
+The Treasury in exercise of the powers conferred by section 2(2) of that Act and by sections 168(4)(b), 402(1)(b), 417(1) and 428(3) of the Financial Services and Markets Act 2000 [^c23047351], make the following Regulations.[^c-576af5d74616cd822cba374072888afa][^c-789b6fbf508a364e569973c92a607332]
 
 ## Contents
 
@@ -140,7 +140,7 @@ The Treasury in exercise of the powers conferred by section 2(2) of that Act and
 - [Section 45ZA — Register of beneficial ownership: additional types of trust](part-5/section-45za.md)
 - [Section 45ZB — Access to information on the register](part-5/section-45zb.md)
 
-### PART 5A — Requests for information about accounts and safe-deposit boxes[^key-6b410f9c09b9016ec03394e81848bae3]
+### PART 5A — Requests for information about accounts and safe-deposit boxes[^c-6b410f9c09b9016ec03394e81848bae3]
 
 **No longer in force.**
 
@@ -188,7 +188,7 @@ The Treasury in exercise of the powers conferred by section 2(2) of that Act and
 - [Section 59 — Determination of applications for registration under regulations 54 and 55](part-6/section-59.md)
 - [Section 60 — Cancellation and suspension of registration in a register under regulation 54 or 55](part-6/section-60.md)
 
-#### CHAPTER 3 — Disclosure obligation[^key-a3f3623f7bd411e9273a8de9ca1576dc]
+#### CHAPTER 3 — Disclosure obligation[^c-a3f3623f7bd411e9273a8de9ca1576dc]
 
 - [Section 60A — Disclosure by cryptoasset businesses](part-6/section-60a.md)
 - [Section 60B — Changes in control of registered cryptoasset businesses](part-6/section-60b.md)
@@ -200,29 +200,29 @@ The Treasury in exercise of the powers conferred by section 2(2) of that Act and
 - [Section 63 — Duties of transfer of funds supervisory authorities](part-7/section-63.md)
 - [Section 64 — Obligations of payment service providers](part-7/section-64.md)
 
-### PART 7A — Cryptoasset Transfers[^key-925bf4af81ae826d96e80339ef17e366]
+### PART 7A — Cryptoasset Transfers[^c-925bf4af81ae826d96e80339ef17e366]
 
-#### Chapter 1 — Application and interpretation[^key-925bf4af81ae826d96e80339ef17e366]
+#### Chapter 1 — Application and interpretation[^c-925bf4af81ae826d96e80339ef17e366]
 
 - [Section 64A — Application of this Part](part-7a/section-64a.md)
 - [Section 64B — Interpretation](part-7a/section-64b.md)
 
-#### Chapter 2 — Inter-cryptoasset business transfers[^key-925bf4af81ae826d96e80339ef17e366]
+#### Chapter 2 — Inter-cryptoasset business transfers[^c-925bf4af81ae826d96e80339ef17e366]
 
 - [Section 64C — Information accompanying an inter-cryptoasset business transfer](part-7a/section-64c.md)
 - [Section 64D — Missing or non-corresponding information: the cryptoasset business of a beneficiary](part-7a/section-64d.md)
 - [Section 64E — Missing information: intermediaries](part-7a/section-64e.md)
 - [Section 64F — Retention of information with an inter-cryptoasset business transfer: intermediaries](part-7a/section-64f.md)
 
-#### Chapter 3 — Unhosted wallet transfers[^key-925bf4af81ae826d96e80339ef17e366]
+#### Chapter 3 — Unhosted wallet transfers[^c-925bf4af81ae826d96e80339ef17e366]
 
 - [Section 64G — Requesting information: unhosted wallet transfers and cryptoasset businesses](part-7a/section-64g.md)
 
-#### Chapter 4 — Provision of information to law enforcement authorities[^key-925bf4af81ae826d96e80339ef17e366]
+#### Chapter 4 — Provision of information to law enforcement authorities[^c-925bf4af81ae826d96e80339ef17e366]
 
 - [Section 64H — Provision of information](part-7a/section-64h.md)
 
-### PART 8 — Information, Investigation and Directions[^key-e28b6a40ca8abef318eab098dd889d7b]
+### PART 8 — Information, Investigation and Directions[^c-e28b6a40ca8abef318eab098dd889d7b]
 
 *Extent: E+W+S+N.I.*
 
@@ -364,14 +364,14 @@ A Transposition Note setting out how the fourth money laundering directive and t
 
 [^c23047351]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8); section 168(4)(b) was amended by the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), Schedule 12, Part 1; section 402(1) was amended by the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), Schedule 9, Parts 1 and 7; and section 417(1) was amended by section 48(1)(d) of the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21). There are other amendments to section 417(1) which are not relevant to these Regulations.
 
-[^key-576af5d74616cd822cba374072888afa]: Modification: Regulations: power to modify conferred (17.12.2024) by [2023 c. 29](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 13](https://www.legislation.gov.uk/ukpga/2023/29/section/13), [17](https://www.legislation.gov.uk/ukpga/2023/29/section/17) (as amended by [The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2024 (S.I. 2024/1347)](https://www.legislation.gov.uk/uksi/2024/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/2/2/b))
+[^c-576af5d74616cd822cba374072888afa]: Modification: Regulations: power to modify conferred (17.12.2024) by [2023 c. 29](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 13](https://www.legislation.gov.uk/ukpga/2023/29/section/13), [17](https://www.legislation.gov.uk/ukpga/2023/29/section/17) (as amended by [The Financial Services and Markets Act 2023 (Addition of Relevant Enactments) Regulations 2024 (S.I. 2024/1347)](https://www.legislation.gov.uk/uksi/2024/1347), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2024/1347/regulation/2/2/b))
 
-[^key-789b6fbf508a364e569973c92a607332]: Modification: Regulations applied (with modifications) (3.3.2025) by [S.I. 2023/1398](https://www.legislation.gov.uk/uksi/2023/1398), [reg. 6](https://www.legislation.gov.uk/uksi/2023/1398/regulation/6), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2023/1398/schedule/part/6) (as amended by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2025/93/regulation/7/1))
+[^c-789b6fbf508a364e569973c92a607332]: Modification: Regulations applied (with modifications) (3.3.2025) by [S.I. 2023/1398](https://www.legislation.gov.uk/uksi/2023/1398), [reg. 6](https://www.legislation.gov.uk/uksi/2023/1398/regulation/6), [Sch. Pt. 6](https://www.legislation.gov.uk/uksi/2023/1398/schedule/part/6) (as amended by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) (Amendment) Regulations 2025 (S.I. 2025/93)](https://www.legislation.gov.uk/uksi/2025/93), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/93/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2025/93/regulation/7/1))
 
-[^key-6b410f9c09b9016ec03394e81848bae3]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2017/692/part/5A) omitted (1.9.2022) by virtue of [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [10](https://www.legislation.gov.uk/uksi/2022/860/regulation/10)
+[^c-6b410f9c09b9016ec03394e81848bae3]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2017/692/part/5A) omitted (1.9.2022) by virtue of [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/5), [10](https://www.legislation.gov.uk/uksi/2022/860/regulation/10)
 
-[^key-a3f3623f7bd411e9273a8de9ca1576dc]: Textual amendment: Pt. 6 Ch. 3 inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(17)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/17)
+[^c-a3f3623f7bd411e9273a8de9ca1576dc]: Textual amendment: Pt. 6 Ch. 3 inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(17)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/17)
 
-[^key-925bf4af81ae826d96e80339ef17e366]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2017/692/part/7A) inserted (1.9.2023) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/5/5)
+[^c-925bf4af81ae826d96e80339ef17e366]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2017/692/part/7A) inserted (1.9.2023) by [The Money Laundering and Terrorist Financing (Amendment) (No. 2) Regulations 2022 (S.I. 2022/860)](https://www.legislation.gov.uk/uksi/2022/860), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/860/regulation/1/3), [5(5)](https://www.legislation.gov.uk/uksi/2022/860/regulation/5/5)
 
-[^key-e28b6a40ca8abef318eab098dd889d7b]: Textual amendment: Pt. 8 heading substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/1)
+[^c-e28b6a40ca8abef318eab098dd889d7b]: Textual amendment: Pt. 8 heading substituted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [8(1)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/8/1)

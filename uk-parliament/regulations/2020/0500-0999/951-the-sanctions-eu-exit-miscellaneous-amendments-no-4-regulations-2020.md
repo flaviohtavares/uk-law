@@ -46,13 +46,13 @@ Coming into force in accordance with regulation 1(2)
 
 The Secretary of State [^c24281671], in exercise of the powers conferred by sections 1 and 45 of the Sanctions and Anti-Money Laundering Act 2018 [^c24281681], considers that the requirements of section 45(2) of the Act are satisfied and, having decided upon consideration of the matters set out in section 56(1) of the Act that it is appropriate to do so, makes the following Regulations:
 
-## 1. Citation and commencement[^key-afa3f60dfee67e0d5905a9e014207a04][^key-30dc06fa3d04aa87436164075fccf238]
+## 1. Citation and commencement[^c-afa3f60dfee67e0d5905a9e014207a04][^c-30dc06fa3d04aa87436164075fccf238]
 
 (1) These Regulations may be cited as the Sanctions (EU Exit) (Miscellaneous Amendments) (No. 4) Regulations 2020.
 
 (2) These Regulations come into force in accordance with regulations made by the Secretary of State under section 56 of the Sanctions and Anti-Money Laundering Act 2018.
 
-## 2. Amendment of the Iran (Sanctions) (Human Rights) (EU Exit) Regulations 2019[^key-561bee6c5615fa25a0b59122aab66559][^key-e04d1cdb62ce102f1f36dc2fe4bee6e8]
+## 2. Amendment of the Iran (Sanctions) (Human Rights) (EU Exit) Regulations 2019[^c-561bee6c5615fa25a0b59122aab66559][^c-e04d1cdb62ce102f1f36dc2fe4bee6e8]
 
 (1) The Iran (Sanctions) (Human Rights) (EU Exit) Regulations 2019 [^c24281691] are amended as follows.
 
@@ -73,7 +73,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 > - (b) the Isle of Man, or
 > - (c) any British overseas territory.
 
-## 3. Amendment of the Venezuela (Sanctions) (EU Exit) Regulations 2019[^key-7bdf0ef6e889b50f5accb14a6e05e8f5][^key-c71b4f37d08dd8a9bd19732dd98c4b07]
+## 3. Amendment of the Venezuela (Sanctions) (EU Exit) Regulations 2019[^c-7bdf0ef6e889b50f5accb14a6e05e8f5][^c-c71b4f37d08dd8a9bd19732dd98c4b07]
 
 (1) The Venezuela (Sanctions) (EU Exit) Regulations 2019 [^c24281701] are amended as follows.
 
@@ -94,7 +94,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 > - (b) the Isle of Man, or
 > - (c) any British overseas territory.
 
-## 4. Amendment of the Burma (Sanctions) (EU Exit) Regulations 2019[^key-70cdc3b5fe0b5c5dbd48d1d830df3438][^key-4bdcd73e734556fef957f78ea4f970d2]
+## 4. Amendment of the Burma (Sanctions) (EU Exit) Regulations 2019[^c-70cdc3b5fe0b5c5dbd48d1d830df3438][^c-4bdcd73e734556fef957f78ea4f970d2]
 
 (1) The Burma (Sanctions) (EU Exit) Regulations 2019 [^c24281711] are amended as follows.
 
@@ -115,7 +115,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 > - (b) the Isle of Man, or
 > - (c) any British overseas territory.
 
-## 5. Amendment of the Republic of Guinea-Bissau (Sanctions) (EU Exit) Regulations 2019[^key-ce224135dc05ff8934fe036164695247][^key-28c4a37e20d2a2443dbf8821ea76e3a9]
+## 5. Amendment of the Republic of Guinea-Bissau (Sanctions) (EU Exit) Regulations 2019[^c-ce224135dc05ff8934fe036164695247][^c-28c4a37e20d2a2443dbf8821ea76e3a9]
 
 (1) The Republic of Guinea-Bissau (Sanctions) (EU Exit) Regulations 2019 [^c24281721] are amended as follows.
 
@@ -136,7 +136,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 > - (b) the Isle of Man, or
 > - (c) any British overseas territory.
 
-## 6. Amendment of the Republic of Belarus (Sanctions) (EU Exit) Regulations 2019[^key-305aeeeff45d45cb89412b3ecf98d4f1][^key-ae4e0b5d0a3cf413c38a64e954c46fb9]
+## 6. Amendment of the Republic of Belarus (Sanctions) (EU Exit) Regulations 2019[^c-305aeeeff45d45cb89412b3ecf98d4f1][^c-ae4e0b5d0a3cf413c38a64e954c46fb9]
 
 (1) The Republic of Belarus (Sanctions) (EU Exit) Regulations 2019 [^c24281731] are amended as follows.
 
@@ -157,7 +157,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 > - (b) the Isle of Man, or
 > - (c) any British overseas territory.
 
-## 7. Amendment of the Zimbabwe (Sanctions) (EU Exit) Regulations 2019[^key-e2f50dec17d9c3ebd077132972ae30a0][^key-ccccc734d0f9b1b728380815f9649788]
+## 7. Amendment of the Zimbabwe (Sanctions) (EU Exit) Regulations 2019[^c-e2f50dec17d9c3ebd077132972ae30a0][^c-ccccc734d0f9b1b728380815f9649788]
 
 (1) The Zimbabwe (Sanctions) (EU Exit) Regulations 2019 [^c24281741] are amended as follows.
 
@@ -178,7 +178,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 > - (b) the Isle of Man, or
 > - (c) any British overseas territory.
 
-## 8. Amendment of the Chemical Weapons (Sanctions) (EU Exit) Regulations 2019[^key-6c038f5c7dbd0ef5520528f11d30e3b8][^key-28ed54b4da13d5e5f345831716c2bf5c]
+## 8. Amendment of the Chemical Weapons (Sanctions) (EU Exit) Regulations 2019[^c-6c038f5c7dbd0ef5520528f11d30e3b8][^c-28ed54b4da13d5e5f345831716c2bf5c]
 
 (1) The Chemical Weapons (Sanctions) (EU Exit) Regulations 2019 [^c24281751] are amended as follows.
 
@@ -199,7 +199,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 > - (b) the Isle of Man, or
 > - (c) any British overseas territory.
 
-## 9. Amendment of the Syria (Sanctions) (EU Exit) Regulations 2019[^key-40c5f748929abb4c6e2563e4f885b237][^key-7e221187ea760c679c66e6223cf75515]
+## 9. Amendment of the Syria (Sanctions) (EU Exit) Regulations 2019[^c-40c5f748929abb4c6e2563e4f885b237][^c-7e221187ea760c679c66e6223cf75515]
 
 (1) The Syria (Sanctions) (EU Exit) Regulations 2019 [^c24281761] are amended as follows.
 
@@ -225,7 +225,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 >   - (d) Chapters 2 to 5 of Part 5 (Trade), or
 >   - (e) regulation 51(1) (movement of aircraft).
 
-## 10. Amendment of the Russia (Sanctions) (EU Exit) Regulations 2019[^key-de20ca8542facf18a96d337dc6faf100][^key-fc497181a2b11565ec9f0298eedc9477]
+## 10. Amendment of the Russia (Sanctions) (EU Exit) Regulations 2019[^c-de20ca8542facf18a96d337dc6faf100][^c-fc497181a2b11565ec9f0298eedc9477]
 
 (1) The Russia (Sanctions) (EU Exit) Regulations 2019 [^c24281771] are amended as follows.
 
@@ -246,7 +246,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 > - (b) the Isle of Man, or
 > - (c) any British overseas territory.
 
-## 11. Amendment of the Burundi (Sanctions) (EU Exit) Regulations 2019[^key-00497e0e95f401cf9ce0ae855960d3c5][^key-2d7b1b0f61c292d51afdbd8a273b7f31]
+## 11. Amendment of the Burundi (Sanctions) (EU Exit) Regulations 2019[^c-00497e0e95f401cf9ce0ae855960d3c5][^c-2d7b1b0f61c292d51afdbd8a273b7f31]
 
 (1) The Burundi (Sanctions) (EU Exit) Regulations 2019 [^c24281781] are amended as follows.
 
@@ -267,7 +267,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 > - (b) the Isle of Man, or
 > - (c) any British overseas territory.
 
-## 12. Amendment of the Guinea (Sanctions) (EU Exit) Regulations 2019[^key-45b670002f18d4f0c4cb28024e1378c7][^key-db8b1576b22d14f06fa71927b747aa1e]
+## 12. Amendment of the Guinea (Sanctions) (EU Exit) Regulations 2019[^c-45b670002f18d4f0c4cb28024e1378c7][^c-db8b1576b22d14f06fa71927b747aa1e]
 
 (1) The Guinea (Sanctions) (EU Exit) Regulations 2019 [^c24281791] are amended as follows.
 
@@ -288,7 +288,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 > - (b) the Isle of Man, or
 > - (c) any British overseas territory.
 
-## 13. Amendment of the Cyber (Sanctions) (EU Exit) Regulations 2020[^key-626678177ab0588ddcb4ae4ea4af8872][^key-36c51f911427f8bb65d068626052e1e2]
+## 13. Amendment of the Cyber (Sanctions) (EU Exit) Regulations 2020[^c-626678177ab0588ddcb4ae4ea4af8872][^c-36c51f911427f8bb65d068626052e1e2]
 
 (1) The Cyber (Sanctions) (EU Exit) Regulations 2020 [^c24281801] are amended as follows.
 
@@ -309,7 +309,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 > - (b) the Isle of Man, or
 > - (c) any British overseas territory.
 
-## 14. Amendment of the Bosnia and Herzegovina (Sanctions) (EU Exit) Regulations 2020[^key-0058ebe1a9c6254ed22ee6ac743d78b6][^key-5775194582f1f3db3770f1ded6f249fb]
+## 14. Amendment of the Bosnia and Herzegovina (Sanctions) (EU Exit) Regulations 2020[^c-0058ebe1a9c6254ed22ee6ac743d78b6][^c-5775194582f1f3db3770f1ded6f249fb]
 
 (1) The Bosnia and Herzegovina (Sanctions) (EU Exit) Regulations 2020 [^c24281811] are amended as follows.
 
@@ -330,7 +330,7 @@ The Secretary of State [^c24281671], in exercise of the powers conferred by sect
 > - (b) the Isle of Man, or
 > - (c) any British overseas territory.
 
-## 15. Amendment of the Nicaragua (Sanctions) (EU Exit) Regulations 2020[^key-9c3cb47591b4223ce37b8713991c9618][^key-3bc50174452732a155c50642153edbd7]
+## 15. Amendment of the Nicaragua (Sanctions) (EU Exit) Regulations 2020[^c-9c3cb47591b4223ce37b8713991c9618][^c-3bc50174452732a155c50642153edbd7]
 
 (1) The Nicaragua (Sanctions) (EU Exit) Regulations 2020 [^c24281821] are amended as follows.
 
@@ -375,90 +375,90 @@ https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attac
 
 [^c24281681]: Marginal citation: [2018 c.13](https://www.legislation.gov.uk/ukpga/2018/13).
 
-[^key-afa3f60dfee67e0d5905a9e014207a04]: Commencement: Reg. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-afa3f60dfee67e0d5905a9e014207a04]: Commencement: Reg. 1 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-30dc06fa3d04aa87436164075fccf238]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/951/regulation/1) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-30dc06fa3d04aa87436164075fccf238]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/951/regulation/1) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
-[^key-561bee6c5615fa25a0b59122aab66559]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-561bee6c5615fa25a0b59122aab66559]: Commencement: Reg. 2 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-e04d1cdb62ce102f1f36dc2fe4bee6e8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/951/regulation/2) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-e04d1cdb62ce102f1f36dc2fe4bee6e8]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/951/regulation/2) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281691]: Marginal citation: [S.I. 2019/134](https://www.legislation.gov.uk/uksi/2019/134), amended by [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590).
 
-[^key-7bdf0ef6e889b50f5accb14a6e05e8f5]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-7bdf0ef6e889b50f5accb14a6e05e8f5]: Commencement: Reg. 3 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-c71b4f37d08dd8a9bd19732dd98c4b07]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/951/regulation/3) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-c71b4f37d08dd8a9bd19732dd98c4b07]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/951/regulation/3) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281701]: Marginal citation: [S.I. 2019/135](https://www.legislation.gov.uk/uksi/2019/135), amended by [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590).
 
-[^key-70cdc3b5fe0b5c5dbd48d1d830df3438]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-70cdc3b5fe0b5c5dbd48d1d830df3438]: Commencement: Reg. 4 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-4bdcd73e734556fef957f78ea4f970d2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/951/regulation/4) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-4bdcd73e734556fef957f78ea4f970d2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/951/regulation/4) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281711]: Marginal citation: [S.I. 2019/136](https://www.legislation.gov.uk/uksi/2019/136), amended by [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590).
 
-[^key-ce224135dc05ff8934fe036164695247]: Commencement: Reg. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-ce224135dc05ff8934fe036164695247]: Commencement: Reg. 5 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-28c4a37e20d2a2443dbf8821ea76e3a9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/951/regulation/5) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-28c4a37e20d2a2443dbf8821ea76e3a9]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/951/regulation/5) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281721]: Marginal citation: [S.I. 2019/554](https://www.legislation.gov.uk/uksi/2019/554), amended by [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590).
 
-[^key-305aeeeff45d45cb89412b3ecf98d4f1]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-305aeeeff45d45cb89412b3ecf98d4f1]: Commencement: Reg. 6 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-ae4e0b5d0a3cf413c38a64e954c46fb9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/951/regulation/6) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-ae4e0b5d0a3cf413c38a64e954c46fb9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/951/regulation/6) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281731]: Marginal citation: [S.I. 2019/600](https://www.legislation.gov.uk/uksi/2019/600), amended by [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590).
 
-[^key-e2f50dec17d9c3ebd077132972ae30a0]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-e2f50dec17d9c3ebd077132972ae30a0]: Commencement: Reg. 7 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-ccccc734d0f9b1b728380815f9649788]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/951/regulation/7) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-ccccc734d0f9b1b728380815f9649788]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/951/regulation/7) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281741]: Marginal citation: [S.I. 2019/604](https://www.legislation.gov.uk/uksi/2019/604), amended by [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590).
 
-[^key-6c038f5c7dbd0ef5520528f11d30e3b8]: Commencement: Reg. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-6c038f5c7dbd0ef5520528f11d30e3b8]: Commencement: Reg. 8 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-28ed54b4da13d5e5f345831716c2bf5c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/951/regulation/8) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-28ed54b4da13d5e5f345831716c2bf5c]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/951/regulation/8) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281751]: Marginal citation: [S.I. 2019/618](https://www.legislation.gov.uk/uksi/2019/618), amended by [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590).
 
-[^key-40c5f748929abb4c6e2563e4f885b237]: Commencement: Reg. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-40c5f748929abb4c6e2563e4f885b237]: Commencement: Reg. 9 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-7e221187ea760c679c66e6223cf75515]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/951/regulation/9) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-7e221187ea760c679c66e6223cf75515]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/951/regulation/9) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281761]: Marginal citation: [S.I. 2019/792](https://www.legislation.gov.uk/uksi/2019/792), amended by [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590).
 
-[^key-de20ca8542facf18a96d337dc6faf100]: Commencement: Reg. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-de20ca8542facf18a96d337dc6faf100]: Commencement: Reg. 10 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-fc497181a2b11565ec9f0298eedc9477]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/951/regulation/10) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-fc497181a2b11565ec9f0298eedc9477]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/951/regulation/10) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281771]: Marginal citation: [S.I. 2019/855](https://www.legislation.gov.uk/uksi/2019/855), amended by [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590).
 
-[^key-00497e0e95f401cf9ce0ae855960d3c5]: Commencement: Reg. 11 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-00497e0e95f401cf9ce0ae855960d3c5]: Commencement: Reg. 11 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-2d7b1b0f61c292d51afdbd8a273b7f31]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/951/regulation/11) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-2d7b1b0f61c292d51afdbd8a273b7f31]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/951/regulation/11) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281781]: Marginal citation: [S.I. 2019/1142](https://www.legislation.gov.uk/uksi/2019/1142), amended by [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590).
 
-[^key-45b670002f18d4f0c4cb28024e1378c7]: Commencement: Reg. 12 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-45b670002f18d4f0c4cb28024e1378c7]: Commencement: Reg. 12 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-db8b1576b22d14f06fa71927b747aa1e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/951/regulation/12) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-db8b1576b22d14f06fa71927b747aa1e]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/951/regulation/12) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281791]: Marginal citation: [S.I. 2019/1145](https://www.legislation.gov.uk/uksi/2019/1145), amended by [S.I. 2020/590](https://www.legislation.gov.uk/uksi/2020/590).
 
-[^key-626678177ab0588ddcb4ae4ea4af8872]: Commencement: Reg. 13 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-626678177ab0588ddcb4ae4ea4af8872]: Commencement: Reg. 13 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-36c51f911427f8bb65d068626052e1e2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/951/regulation/13) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-36c51f911427f8bb65d068626052e1e2]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/951/regulation/13) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281801]: Marginal citation: [S.I. 2020/597](https://www.legislation.gov.uk/uksi/2020/597)
 
-[^key-0058ebe1a9c6254ed22ee6ac743d78b6]: Commencement: Reg. 14 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-0058ebe1a9c6254ed22ee6ac743d78b6]: Commencement: Reg. 14 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-5775194582f1f3db3770f1ded6f249fb]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/951/regulation/14) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-5775194582f1f3db3770f1ded6f249fb]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/951/regulation/14) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281811]: Marginal citation: [S.I. 2020/608](https://www.legislation.gov.uk/uksi/2020/608).
 
-[^key-9c3cb47591b4223ce37b8713991c9618]: Commencement: Reg. 15 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
+[^c-9c3cb47591b4223ce37b8713991c9618]: Commencement: Reg. 15 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/951/regulation/1/2)
 
-[^key-3bc50174452732a155c50642153edbd7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/951/regulation/15) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
+[^c-3bc50174452732a155c50642153edbd7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/951/regulation/15) in force at 31.12.2020 immediately after IP completion day by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 18](https://www.legislation.gov.uk/uksi/2020/1514/regulation/18)
 
 [^c24281821]: Marginal citation: [S.I. 2020/610](https://www.legislation.gov.uk/uksi/2020/610).

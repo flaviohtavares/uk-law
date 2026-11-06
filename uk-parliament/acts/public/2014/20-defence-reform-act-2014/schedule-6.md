@@ -22,9 +22,9 @@ summary: ''
 
 Section 45
 
-**1.**[^key-b77a92830780b30ad2c16ccd4243d2ca] The Reserve Forces Act 1996 is amended as follows.
+**1.**[^c-b77a92830780b30ad2c16ccd4243d2ca] The Reserve Forces Act 1996 is amended as follows.
 
-**2.**[^key-60407327a5722770f5876f295d7097dc] (1) Section 129 (application of Act to persons currently serving in the reserve forces or regular services) is amended as follows.
+**2.**[^c-60407327a5722770f5876f295d7097dc] (1) Section 129 (application of Act to persons currently serving in the reserve forces or regular services) is amended as follows.
 
 (2) In subsection (1), for “the transitional class” substitute
 
@@ -50,9 +50,9 @@ Section 45
 
   > “**the second transitional class**”, in relation to members of the reserve forces, shall be construed in accordance with Part 3 of Schedule 9.
 
-**3.**[^key-96f95d308a0c5827142284ca6ac534d9] In the heading of that section, for “persons currently serving in the reserve forces or regular services” substitute “ members of transitional classes ”.
+**3.**[^c-96f95d308a0c5827142284ca6ac534d9] In the heading of that section, for “persons currently serving in the reserve forces or regular services” substitute “ members of transitional classes ”.
 
-**4.**[^key-8b9e72ddca93e632e52216dfc649b193] (1) Schedule 9 (application of Act to transitional members) is amended as follows.
+**4.**[^c-8b9e72ddca93e632e52216dfc649b193] (1) Schedule 9 (application of Act to transitional members) is amended as follows.
 
 (2) In the heading of Part 1, for “transitional class” substitute “ original transitional class ”.
 
@@ -134,16 +134,16 @@ Section 45
 >
 > **33.** Section 57A(3) (agreement to alter limits in section 57) applies in relation to members of the second transitional class as if for “12 months” there were substituted “ 9 months ”.
 
-**5.**[^key-97a70b661e8aef6a3c31ea3b314d1828] In the heading of Schedule 9, for “transitional members” substitute “ members of transitional classes ”.
+**5.**[^c-97a70b661e8aef6a3c31ea3b314d1828] In the heading of Schedule 9, for “transitional members” substitute “ members of transitional classes ”.
 
 ## Annotations
 
-[^key-b77a92830780b30ad2c16ccd4243d2ca]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/1) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-b77a92830780b30ad2c16ccd4243d2ca]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/1) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-60407327a5722770f5876f295d7097dc]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/2) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-60407327a5722770f5876f295d7097dc]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/2) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-96f95d308a0c5827142284ca6ac534d9]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/3) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-96f95d308a0c5827142284ca6ac534d9]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/3) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-8b9e72ddca93e632e52216dfc649b193]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-8b9e72ddca93e632e52216dfc649b193]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/4) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
 
-[^key-97a70b661e8aef6a3c31ea3b314d1828]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/5) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)
+[^c-97a70b661e8aef6a3c31ea3b314d1828]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2014/20/schedule/6/paragraph/5) in force at 1.10.2014 by [S.I. 2014/2370](https://www.legislation.gov.uk/uksi/2014/2370), [art. 4(b)](https://www.legislation.gov.uk/uksi/2014/2370/article/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Benefit of the Order[^key-1d46baf07345b09d4a0d3c7a048fdbf2]
+## 7. Benefit of the Order[^c-1d46baf07345b09d4a0d3c7a048fdbf2]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ except where paragraph (7) applies, in which case the consent of the Secretary o
 
 ## Annotations
 
-[^key-1d46baf07345b09d4a0d3c7a048fdbf2]: Commencement: Art. 7 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)
+[^c-1d46baf07345b09d4a0d3c7a048fdbf2]: Commencement: Art. 7 in force at 8.1.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1376/article/1)

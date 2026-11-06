@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Investigatory powers of Revenue Scotland: overview[^key-6ebbef2dae7a25241adada1ffc36ec7c][^key-8582aee1c20bc942bc848dcc0f3ead7c][^key-8582aee1c20bc942bc848dcc0f3ead7c]
+## 119. Investigatory powers of Revenue Scotland: overview[^c-6ebbef2dae7a25241adada1ffc36ec7c][^c-8582aee1c20bc942bc848dcc0f3ead7c][^c-8582aee1c20bc942bc848dcc0f3ead7c]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ This Part is arranged as follows—
 
 ## Annotations
 
-[^key-6ebbef2dae7a25241adada1ffc36ec7c]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2014/16/section/119) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-6ebbef2dae7a25241adada1ffc36ec7c]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2014/16/section/119) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-8582aee1c20bc942bc848dcc0f3ead7c]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2014/16/part/7) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [6](https://www.legislation.gov.uk/ssi/2014/375/regulation/6)
+[^c-8582aee1c20bc942bc848dcc0f3ead7c]: Modification: [Pt. 7](https://www.legislation.gov.uk/asp/2014/16/part/7) applied (1.4.2015) by [The Land and Buildings Transaction Tax (Administration) (Scotland) Regulations 2014 (S.S.I. 2014/375)](https://www.legislation.gov.uk/ssi/2014/375), [regs. 1](https://www.legislation.gov.uk/ssi/2014/375/regulation/1), [6](https://www.legislation.gov.uk/ssi/2014/375/regulation/6)

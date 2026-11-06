@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Safety case for dismantling fixed installation[^key-ba1cb198e661a16f818d87e0f3cff8d5]
+## 11. Safety case for dismantling fixed installation[^c-ba1cb198e661a16f818d87e0f3cff8d5]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba1cb198e661a16f818d87e0f3cff8d5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/247/regulation/11) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)
+[^c-ba1cb198e661a16f818d87e0f3cff8d5]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2007/247/regulation/11) in operation at 21.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/247/regulation/1)

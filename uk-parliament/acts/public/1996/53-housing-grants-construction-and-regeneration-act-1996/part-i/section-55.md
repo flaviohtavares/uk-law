@@ -36,8 +36,8 @@ that grant condition and any other grant conditions shall cease to be in force w
 (4) The purposes authorised for the application of capital money by—
 
 - (a) section 73 of the [^c11253561]Settled Land Act 1925,
-- (b)[^c11253571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^key-ae2a9dc18ea2dde36a91f4bdaded0c73]...
-- (c)[^key-ae2a9dc18ea2dde36a91f4bdaded0c73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c11253571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c-ae2a9dc18ea2dde36a91f4bdaded0c73]...
+- (c)[^c-ae2a9dc18ea2dde36a91f4bdaded0c73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 include the making of payments under this section.
 
@@ -51,4 +51,4 @@ include the making of payments under this section.
 
 [^c11253571]: Textual amendment: S. 55(4)(b) repealed (1.1.1997) by [1996 c. 47](https://www.legislation.gov.uk/ukpga/1996/47), [s. 25(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1996/47/schedule/4) (with [ss. 24(2)](https://www.legislation.gov.uk/ukpga/1996/47/section/24/2), [25(4)(5)](https://www.legislation.gov.uk/ukpga/1996/47/section/25/4/5)); [S.I. 1996/2974](https://www.legislation.gov.uk/uksi/1996/2974), [art. 2](https://www.legislation.gov.uk/uksi/1996/2974/article/2)
 
-[^key-ae2a9dc18ea2dde36a91f4bdaded0c73]: Textual amendment: S. 55(4)(c) and word omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/20); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)
+[^c-ae2a9dc18ea2dde36a91f4bdaded0c73]: Textual amendment: S. 55(4)(c) and word omitted (19.5.2025) by virtue of [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4), [Sch. 1 para. 20](https://www.legislation.gov.uk/ukpga/2022/6/schedule/1/paragraph/20); [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 4](https://www.legislation.gov.uk/uksi/2024/265/regulation/4), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2024/265/schedule/2/paragraph/3)

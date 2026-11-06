@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 85. Entitlement to vote (creditors)[^key-8196248a229c4ca842107d9d82216c55]
+## 85. Entitlement to vote (creditors)[^c-8196248a229c4ca842107d9d82216c55]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ and there has been lodged with the administrator any proxy intended to be used o
 
 ## Annotations
 
-[^key-8196248a229c4ca842107d9d82216c55]: Commencement: [Rule 85](https://www.legislation.gov.uk/uksi/2011/1301/rule/85) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-8196248a229c4ca842107d9d82216c55]: Commencement: [Rule 85](https://www.legislation.gov.uk/uksi/2011/1301/rule/85) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

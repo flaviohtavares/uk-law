@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. General duties of the Mayor with respect to his strategies[^key-fcc1bf40d1268716f342d4c106ca8b82]
+## 41. General duties of the Mayor with respect to his strategies[^c-fcc1bf40d1268716f342d4c106ca8b82]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcc1bf40d1268716f342d4c106ca8b82]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2007/24/section/41) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)
+[^c-fcc1bf40d1268716f342d4c106ca8b82]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2007/24/section/41) in force at 21.1.2008 by [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(i)](https://www.legislation.gov.uk/uksi/2008/113/article/2/i)

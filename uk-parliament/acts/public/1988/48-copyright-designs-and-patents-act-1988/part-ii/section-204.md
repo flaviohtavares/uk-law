@@ -44,7 +44,7 @@ and an order shall not take effect until the end of the period within which noti
 
 - (a)[^c20325801] under this section or under section 114 or 231 of this Act;
 - (b) under section 24D of the Registered Designs Act 1949;
-- (c) under section 19 of Trade Marks Act 1994 [^key-7a5bef17308868f5c5d403f8b2f57d79]...; or
+- (c) under section 19 of Trade Marks Act 1994 [^c-7a5bef17308868f5c5d403f8b2f57d79]...; or
 - (d) under regulation 1C of the Community Design Regulations 2005 (SI 2005/2339).
 
 ## Annotations
@@ -57,4 +57,4 @@ and an order shall not take effect until the end of the period within which noti
 
 [^c20325801]: Textual amendment: Words in s. 204(6) substituted (29.4.2006) by [The Intellectual Property (Enforcement, etc.) Regulations 2006 (S.I. 2006/1028)](https://www.legislation.gov.uk/uksi/2006/1028), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2006/1028/regulation/2/2), [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/2006/1028/schedule/2/paragraph/11)
 
-[^key-7a5bef17308868f5c5d403f8b2f57d79]: Textual amendment: Words in [s. 204(6)(c)](https://www.legislation.gov.uk/ukpga/1988/48/section/204/6/c) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)
+[^c-7a5bef17308868f5c5d403f8b2f57d79]: Textual amendment: Words in [s. 204(6)(c)](https://www.legislation.gov.uk/ukpga/1988/48/section/204/6/c) omitted (31.12.2020) by virtue of [The Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/269)](https://www.legislation.gov.uk/uksi/2019/269), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/269/regulation/1/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2019/269/schedule/5/paragraph/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), Sch. 5 para. 1(1)

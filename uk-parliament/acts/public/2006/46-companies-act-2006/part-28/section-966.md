@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A company may by special resolution (an “opting-in resolution”) opt in for the purposes of this Chapter if the following five[^key-cacb39820989ae494d576c63e5bf3afd] conditions are met in relation to the company.
+(1) A company may by special resolution (an “opting-in resolution”) opt in for the purposes of this Chapter if the following five[^c-cacb39820989ae494d576c63e5bf3afd] conditions are met in relation to the company.
 
-(2) The first condition is that the company has voting shares admitted to trading on a UK[^key-afdd3f54464d7cfd5127714687b97078] regulated market.
+(2) The first condition is that the company has voting shares admitted to trading on a UK[^c-afdd3f54464d7cfd5127714687b97078] regulated market.
 
-(3)[^key-bc233284a346e841b5d9e706a97dde05] The second condition is that the company’s articles of association do not contain any restrictions on the transfer of shares or, if they do contain any such restrictions, provide that they are not to apply to—
+(3)[^c-bc233284a346e841b5d9e706a97dde05] The second condition is that the company’s articles of association do not contain any restrictions on the transfer of shares or, if they do contain any such restrictions, provide that they are not to apply to—
 
 - (a) transfers to the offeror, or at the offeror’s direction to another person, during the offer period, or
 - (b) transfers to any person at a time during the offer period when the offeror holds shares amounting to not less than 75% in value of all the voting shares in the company.
@@ -60,7 +60,7 @@ summary: ''
 
 (3G) In subsection (3C), “multiple-vote shares” means shares included in a distinct and separate class and carrying more than one vote each.
 
-(4) The fifth[^key-cf3bd27f063010ffa0f402cd6e5898be] condition is that—
+(4) The fifth[^c-cf3bd27f063010ffa0f402cd6e5898be] condition is that—
 
 - (a) no shares conferring special rights in the company are held by—
   - (i) a minister,
@@ -72,7 +72,7 @@ summary: ''
 
 (5) A company may revoke an opting-in resolution by a further special resolution (an “opting-out resolution”).
 
-(6)[^key-f358ae77a1965f1a23e2f16777bb81ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-f358ae77a1965f1a23e2f16777bb81ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In subsection (4) “**minister**” means—
 
@@ -93,15 +93,15 @@ and for the purposes of that subsection “minister” also includes the Treasur
 
 [^c20618411]: Modification: Ss. 966-973 applied (with modifications) (1.10.2009) by [The Unregistered Companies Regulations 2009 (S.I. 2009/2436)](https://www.legislation.gov.uk/uksi/2009/2436), [regs. 3-5](https://www.legislation.gov.uk/uksi/2009/2436/regulation/3), [Sch. 1 para. 14(1)](https://www.legislation.gov.uk/uksi/2009/2436/schedule/1/paragraph/14/1) (with transitional provisions and savings in [regs. 7](https://www.legislation.gov.uk/uksi/2009/2436/regulation/7), [9](https://www.legislation.gov.uk/uksi/2009/2436/regulation/9), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/2436/schedule/2))
 
-[^key-cacb39820989ae494d576c63e5bf3afd]: Textual amendment: Word in s. 966(1) substituted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/217/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cacb39820989ae494d576c63e5bf3afd]: Textual amendment: Word in s. 966(1) substituted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/217/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-afdd3f54464d7cfd5127714687b97078]: Textual amendment: Word in s. 966(2) inserted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/217/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-afdd3f54464d7cfd5127714687b97078]: Textual amendment: Word in s. 966(2) inserted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/217/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc233284a346e841b5d9e706a97dde05]: Textual amendment: S. 966(3)-(3G) substituted for s. 966(3) (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2019/217/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc233284a346e841b5d9e706a97dde05]: Textual amendment: S. 966(3)-(3G) substituted for s. 966(3) (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [7(4)](https://www.legislation.gov.uk/uksi/2019/217/regulation/7/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cf3bd27f063010ffa0f402cd6e5898be]: Textual amendment: Word in s. 966(4) substituted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2019/217/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cf3bd27f063010ffa0f402cd6e5898be]: Textual amendment: Word in s. 966(4) substituted (31.12.2020) by [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [7(5)](https://www.legislation.gov.uk/uksi/2019/217/regulation/7/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f358ae77a1965f1a23e2f16777bb81ce]: Textual amendment: S. 966(6) omitted (31.12.2020) by virtue of [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2019/217/regulation/7/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f358ae77a1965f1a23e2f16777bb81ce]: Textual amendment: S. 966(6) omitted (31.12.2020) by virtue of [The Takeovers (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/217)](https://www.legislation.gov.uk/uksi/2019/217), [regs. 1](https://www.legislation.gov.uk/uksi/2019/217/regulation/1), [7(6)](https://www.legislation.gov.uk/uksi/2019/217/regulation/7/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19708781]: Textual amendment: S. 966(7)(d) inserted (2.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 3](https://www.legislation.gov.uk/uksi/2007/1388/article/3), [Sch. 1 para. 142(2)](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/142/2)
 

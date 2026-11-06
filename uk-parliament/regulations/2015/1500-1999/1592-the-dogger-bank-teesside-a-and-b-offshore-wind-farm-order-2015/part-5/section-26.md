@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Private rights of way[^key-03b0b0abceac3627312bb2bc6c9fd584]
+## 26. Private rights of way[^c-03b0b0abceac3627312bb2bc6c9fd584]
 
 *Extent: E+W+S*
 
@@ -55,7 +55,7 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-03b0b0abceac3627312bb2bc6c9fd584]: Commencement: Art. 26 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
+[^c-03b0b0abceac3627312bb2bc6c9fd584]: Commencement: Art. 26 in force at 26.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1592/article/1)
 
 [^f00034]: Footnote: Section 11(1) was amended by paragraph 14 of Schedule 4 to the Acquisition of Land Act 1981 and paragraph 12 of Schedule 5 to the Church of England (Miscellaneous Provisions) Measure 2006 ([2006 No. 1](https://www.legislation.gov.uk/ukcm/2006/1)).
 

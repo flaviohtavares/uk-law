@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Amendments relating to Commissioner[^key-26f67719b61e4c469473486b4a734f2e]
+## 21. Amendments relating to Commissioner[^c-26f67719b61e4c469473486b4a734f2e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26f67719b61e4c469473486b4a734f2e]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/17/section/21) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-26f67719b61e4c469473486b4a734f2e]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2021/17/section/21) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

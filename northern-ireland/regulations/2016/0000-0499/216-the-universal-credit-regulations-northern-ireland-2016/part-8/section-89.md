@@ -41,7 +41,7 @@ converted to a monthly amount by multiplying by 52 and dividing by 12.
 - (a) 30 hours a week, or
 - (b) if less, the expected number of hours per week for that claimant,
 
-at the rate specified in regulation 4A(1)(d)[^key-b780251fad247cb6f6234fc1e8eaa930] of the National Minimum Wage Regulations, converted to a monthly amount by multiplying by 52 and dividing by 12.
+at the rate specified in regulation 4A(1)(d)[^c-b780251fad247cb6f6234fc1e8eaa930] of the National Minimum Wage Regulations, converted to a monthly amount by multiplying by 52 and dividing by 12.
 
 (5) A claimant falls within Article 24 of the Order if the claimant is treated as having earned income in accordance with regulation 63 (minimum income floor) .
 
@@ -56,4 +56,4 @@ and the Department may, in order to enable monthly earnings to be determined mor
 
 ## Annotations
 
-[^key-b780251fad247cb6f6234fc1e8eaa930]: Textual amendment: Words in [reg. 89(4)](https://www.legislation.gov.uk/nisr/2016/216/regulation/89/4) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/7)
+[^c-b780251fad247cb6f6234fc1e8eaa930]: Textual amendment: Words in [reg. 89(4)](https://www.legislation.gov.uk/nisr/2016/216/regulation/89/4) substituted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/116)](https://www.legislation.gov.uk/nisr/2017/116), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2017/116/regulation/1/3), [9(7)](https://www.legislation.gov.uk/nisr/2017/116/regulation/9/7)

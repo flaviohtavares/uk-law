@@ -37,7 +37,7 @@ Made
 
 The Secretary of State, in exercise of the powers conferred on him by section 181 of the Commonhold and Leasehold Reform Act 2002[^f00001], and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-## 1. Citation, interpretation and extent[^key-9103712a4b04bde8b6707e0fcd940648]
+## 1. Citation, interpretation and extent[^c-9103712a4b04bde8b6707e0fcd940648]
 
 (1) This Order may be cited as the Commonhold and Leasehold Reform Act 2002 (Commencement No. 1, Savings and Transitional Provisions) (England) Order 2002.
 
@@ -50,7 +50,7 @@ The Secretary of State, in exercise of the powers conferred on him by section 18
 
 (3) This Order extends to England only.
 
-## 2. Provisions coming into force on the commencement date[^key-3c9a12d56bbfa06bb1e7c13d1b89a43c]
+## 2. Provisions coming into force on the commencement date[^c-3c9a12d56bbfa06bb1e7c13d1b89a43c]
 
 The following provisions shall come into force on the commencement date—
 
@@ -74,21 +74,21 @@ Office of the Deputy Prime Minister
 
 Article 2(b)(ii)
 
-### PART 1[^key-0c16533c5eafb97c451e35a31823e91b]
+### PART 1[^c-0c16533c5eafb97c451e35a31823e91b]
 
 | Chapter | Short Title | Extent of Repeal |
 | --- | --- | --- |
 | [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28) | Leasehold Reform, Housing and Urban Development Act 1993 | In section 5—<br>in subsection (1), the words “which is at a low rent or for a particularly long term”, and in subsection (2)(c), the words “at a low rent or for a particularly long term”.<br>Section 6.<br>In section 7(3), the words “at a low rent”.<br>Section 8.<br>Section 8A.<br>In section 10—<br>subsections (2), (3) and (4A), and in subsection (6), the definition of “qualifying tenant”.<br>In section 13—<br>in subsection (2), sub-paragraph (i) of paragraph (b) and the words following that paragraph, and<br>in subsection (3)(e), the words “the following particulars”, the word “namely” and sub-paragraphs (ii) and (iii). |
 | [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52). | Housing Act 1996 | Section 105(3).<br>Section 111.<br>In Schedule 9, paragraph 3 and sub-paragraphs 5(2) and (3).<br>In Schedule 10, paragraph 4. |
 
-### PART 2[^key-e3989bdb624a146ecfab97ccb6d95f27]
+### PART 2[^c-e3989bdb624a146ecfab97ccb6d95f27]
 
 | Chapter | Short Title | Extent of Repeal |
 | --- | --- | --- |
 | [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28) | Leasehold Reform, Housing and Urban Development Act 1993 | In section 39—<br>in subsection (2), paragraph (b) and the word “and” before it,<br>subsections (2A) and (2B),<br>subsection (3)(c) and (d), and subsections (4A) and (5).<br>Section 42(3)(b)(iii) and (iv) and (4).<br>In section 45(5), the words “and (b)”.<br>Section 62(4).<br>In section 94—<br>in subsections (3) and (4), the words “which is at a low rent or for a particularly long term”,<br>in subsection (12), the words “which is at a low rent or for a particularly long term” and the words “, 8 and 8A”.<br>In Schedule 13, in paragraph 1, the definition of “the valuation date”. |
 | [1996 c. 52](https://www.legislation.gov.uk/ukpga/1996/52). | Housing Act 1996 | Section 112.<br>In Schedule 9, paragraph 4. |
 
-### PART 3[^key-cc040d87947fe040f0a5f453eacd2682]
+### PART 3[^c-cc040d87947fe040f0a5f453eacd2682]
 
 | Chapter | Short Title | Extent of Repeal |
 | --- | --- | --- |
@@ -100,7 +100,7 @@ Article 2(b)(ii)
 
 Article 2(b)(i)
 
-### 1. Collective enfranchisement by tenants of flats[^key-e840396f8128da912ef50779a54fca65]
+### 1. Collective enfranchisement by tenants of flats[^c-e840396f8128da912ef50779a54fca65]
 
 The amendments made to the 1993 Act by sections 115 to 120, 125 and 127 to 128 and the repeals in Part 1 of Schedule 1 to this Order shall not have effect in relation to an application for collective enfranchisement in respect of which—
 
@@ -109,11 +109,11 @@ The amendments made to the 1993 Act by sections 115 to 120, 125 and 127 to 128 a
 
 before the commencement date.
 
-**2.**[^key-383979ea445583bcf86e99575718a97f] Until the coming into force of sections 121 to 124, in a case where there are only two qualifying tenants of flats contained in the premises, section 13(2)(b) of the 1993 Act as amended by section 119, shall not be satisfied unless both tenants are participating tenants as defined in section 14 of that Act.
+**2.**[^c-383979ea445583bcf86e99575718a97f] Until the coming into force of sections 121 to 124, in a case where there are only two qualifying tenants of flats contained in the premises, section 13(2)(b) of the 1993 Act as amended by section 119, shall not be satisfied unless both tenants are participating tenants as defined in section 14 of that Act.
 
-**3.**[^key-9dbdcdf9c9dfdf3ec1c74006605b0404] Sub-paragraph (2A) of paragraph 4 of Schedule 6 to the 1993 Act inserted by section 128, shall, until the coming into force of sections 121 to 124, have effect as if the reference to participating members were a reference to participating tenants as defined in section 14 of that Act.
+**3.**[^c-9dbdcdf9c9dfdf3ec1c74006605b0404] Sub-paragraph (2A) of paragraph 4 of Schedule 6 to the 1993 Act inserted by section 128, shall, until the coming into force of sections 121 to 124, have effect as if the reference to participating members were a reference to participating tenants as defined in section 14 of that Act.
 
-### 4. New leases for tenants of flats[^key-c9890d2a1819a5f7a6f6f690028326ab]
+### 4. New leases for tenants of flats[^c-c9890d2a1819a5f7a6f6f690028326ab]
 
 The amendments made to the 1993 Act by sections 130, 131 and 134 to 136, the repeals to sections 5, 7, 8 and 8A of that Act in Part 1 of Schedule 1 to this Order and the repeals in Part 2 of that Schedule shall not have effect in relation to an application for a new lease of a flat in respect of which—
 
@@ -122,7 +122,7 @@ The amendments made to the 1993 Act by sections 130, 131 and 134 to 136, the rep
 
 before the commencement date.
 
-### 5. Enfranchisement and lease extensions for leasehold houses[^key-75ff368d09df74e1529449f99999d008]
+### 5. Enfranchisement and lease extensions for leasehold houses[^c-75ff368d09df74e1529449f99999d008]
 
 The amendments made to the 1967 Act by sections 138 to 141 and sections 143 to 147 and the repeals in Part 3 of Schedule 1 to this Order, shall not have effect in relation to an application for enfranchisement or an extended lease of a house in respect of which—
 
@@ -131,11 +131,11 @@ The amendments made to the 1967 Act by sections 138 to 141 and sections 143 to 1
 
 before the commencement date.
 
-### 6. Managers appointed by leasehold valuation tribunal[^key-fb7cd7dac72dd5708da6c300e6417631]
+### 6. Managers appointed by leasehold valuation tribunal[^c-fb7cd7dac72dd5708da6c300e6417631]
 
 Amendments made to the Landlord and Tenant Act 1987[^f00004] by sections 160 and 161 shall not have effect in relation to an application made under Part II of the Landlord and Tenant Act 1987 before the commencement date.
 
-### 7. Grounds for application to vary a lease[^key-a2a54ec5859299952d4fea5c5fe96a8c]
+### 7. Grounds for application to vary a lease[^c-a2a54ec5859299952d4fea5c5fe96a8c]
 
 The amendments made to the Landlord and Tenant Act 1987 by section 162 shall not have effect in respect of an application made under section 35 of the Landlord and Tenant Act 1987 before the commencement date.
 
@@ -157,32 +157,32 @@ The Order also brings into force consequential amendments and repeals in other A
 
 [^f00001]: Footnote: [2002 c. 15](https://www.legislation.gov.uk/ukpga/2002/15). The Secretary of State can exercise the power under this section only in relation to England—see section 181(4)(b) of the Commonhold and Leasehold Reform Act 2002.
 
-[^key-9103712a4b04bde8b6707e0fcd940648]: Commencement: Art. 1 in force at made date
+[^c-9103712a4b04bde8b6707e0fcd940648]: Commencement: Art. 1 in force at made date
 
 [^f00002]: Footnote: [1967 c. 88](https://www.legislation.gov.uk/ukpga/1967/88).
 
 [^f00003]: Footnote: [1993 c. 28](https://www.legislation.gov.uk/ukpga/1993/28).
 
-[^key-3c9a12d56bbfa06bb1e7c13d1b89a43c]: Commencement: Art. 2 in force at made date
+[^c-3c9a12d56bbfa06bb1e7c13d1b89a43c]: Commencement: Art. 2 in force at made date
 
-[^key-0c16533c5eafb97c451e35a31823e91b]: Commencement: Sch. 1 Pt. 1 in force at made date
+[^c-0c16533c5eafb97c451e35a31823e91b]: Commencement: Sch. 1 Pt. 1 in force at made date
 
-[^key-e3989bdb624a146ecfab97ccb6d95f27]: Commencement: Sch. 1 Pt. 2 in force at made date
+[^c-e3989bdb624a146ecfab97ccb6d95f27]: Commencement: Sch. 1 Pt. 2 in force at made date
 
-[^key-cc040d87947fe040f0a5f453eacd2682]: Commencement: Sch. 1 Pt. 3 in force at made date
+[^c-cc040d87947fe040f0a5f453eacd2682]: Commencement: Sch. 1 Pt. 3 in force at made date
 
-[^key-e840396f8128da912ef50779a54fca65]: Commencement: Sch. 2 para. 1 in force at made date
+[^c-e840396f8128da912ef50779a54fca65]: Commencement: Sch. 2 para. 1 in force at made date
 
-[^key-383979ea445583bcf86e99575718a97f]: Commencement: Sch. 2 para. 2 in force at made date
+[^c-383979ea445583bcf86e99575718a97f]: Commencement: Sch. 2 para. 2 in force at made date
 
-[^key-9dbdcdf9c9dfdf3ec1c74006605b0404]: Commencement: Sch. 2 para. 3 in force at made date
+[^c-9dbdcdf9c9dfdf3ec1c74006605b0404]: Commencement: Sch. 2 para. 3 in force at made date
 
-[^key-c9890d2a1819a5f7a6f6f690028326ab]: Commencement: Sch. 2 para. 4 in force at made date
+[^c-c9890d2a1819a5f7a6f6f690028326ab]: Commencement: Sch. 2 para. 4 in force at made date
 
-[^key-75ff368d09df74e1529449f99999d008]: Commencement: Sch. 2 para. 5 in force at made date
+[^c-75ff368d09df74e1529449f99999d008]: Commencement: Sch. 2 para. 5 in force at made date
 
-[^key-fb7cd7dac72dd5708da6c300e6417631]: Commencement: Sch. 2 para. 6 in force at made date
+[^c-fb7cd7dac72dd5708da6c300e6417631]: Commencement: Sch. 2 para. 6 in force at made date
 
 [^f00004]: Footnote: [1987 c. 31](https://www.legislation.gov.uk/ukpga/1987/31).
 
-[^key-a2a54ec5859299952d4fea5c5fe96a8c]: Commencement: Sch. 2 para. 7 in force at made date
+[^c-a2a54ec5859299952d4fea5c5fe96a8c]: Commencement: Sch. 2 para. 7 in force at made date

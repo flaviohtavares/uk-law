@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Electronic transmission of European arrest warrant etc[^key-bf9c9d566e835ed01738c3535d584917]
+## 170. Electronic transmission of European arrest warrant etc[^c-bf9c9d566e835ed01738c3535d584917]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ In section 204 of the Extradition Act 2003 (warrant issued by category 1 territo
 
 ## Annotations
 
-[^key-bf9c9d566e835ed01738c3535d584917]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2014/12/section/170) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(o)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/o)
+[^c-bf9c9d566e835ed01738c3535d584917]: Commencement: [S. 170](https://www.legislation.gov.uk/ukpga/2014/12/section/170) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(o)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/o)

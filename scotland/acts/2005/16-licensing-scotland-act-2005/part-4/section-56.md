@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Occasional licence[^key-ca4620b2fe5d6ad63f4be9739a834adc]
+## 56. Occasional licence[^c-ca4620b2fe5d6ad63f4be9739a834adc]
 
 *Extent: S*
 
@@ -41,7 +41,7 @@ summary: ''
 
 provided that, in any period of 12 months, the total number of days on which occasional licences issued in respect of the organisation have effect does not exceed 56.
 
-(6A)[^key-4e3a3f21233797794e98f642912b9dae] If the granting of an occasional licence application would result in the occasional licence limit being exceeded, the Board must refuse the application.
+(6A)[^c-4e3a3f21233797794e98f642912b9dae] If the granting of an occasional licence application would result in the occasional licence limit being exceeded, the Board must refuse the application.
 
 (6B) The “ **occasional licence limit** ” means—
 
@@ -88,14 +88,14 @@ provided that, in any period of 12 months, the total number of days on which occ
 - (a) the sale of alcohol for consumption on the premises, and
 - (b) the sale of alcohol for consumption off the premises.
 
-(10)[^key-598faab620e373c4d320fbdbdbab8be8] Where a Licensing Board issues an occasional licence under subsection (1), the Board must send a copy of the occasional licence to the chief constable[^key-d5edf0624fb3b3eda980805e350a29fa].
+(10)[^c-598faab620e373c4d320fbdbdbab8be8] Where a Licensing Board issues an occasional licence under subsection (1), the Board must send a copy of the occasional licence to the chief constable[^c-d5edf0624fb3b3eda980805e350a29fa].
 
 ## Annotations
 
-[^key-ca4620b2fe5d6ad63f4be9739a834adc]: Commencement: S. 56 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-ca4620b2fe5d6ad63f4be9739a834adc]: Commencement: S. 56 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-4e3a3f21233797794e98f642912b9dae]: Textual amendment: S. 56(6A)-(6C) inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 13(2)](https://www.legislation.gov.uk/asp/2010/18/section/13/2), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
+[^c-4e3a3f21233797794e98f642912b9dae]: Textual amendment: S. 56(6A)-(6C) inserted (1.10.2011) by [Alcohol etc. (Scotland) Act 2010 (asp 18)](https://www.legislation.gov.uk/asp/2010/18), [ss. 13(2)](https://www.legislation.gov.uk/asp/2010/18/section/13/2), [18(1)](https://www.legislation.gov.uk/asp/2010/18/section/18/1) (with [s. 16](https://www.legislation.gov.uk/asp/2010/18/section/16)); [S.S.I. 2011/149](https://www.legislation.gov.uk/ssi/2011/149), [art. 2](https://www.legislation.gov.uk/ssi/2011/149/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/149/schedule)
 
-[^key-598faab620e373c4d320fbdbdbab8be8]: Textual amendment: S. 56(10) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 187(5)](https://www.legislation.gov.uk/asp/2010/13/section/187/5), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-598faab620e373c4d320fbdbdbab8be8]: Textual amendment: S. 56(10) inserted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 187(5)](https://www.legislation.gov.uk/asp/2010/13/section/187/5), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-d5edf0624fb3b3eda980805e350a29fa]: Textual amendment: Words in s. 56(10) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-d5edf0624fb3b3eda980805e350a29fa]: Textual amendment: Words in s. 56(10) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 29(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/2), [(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/29/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

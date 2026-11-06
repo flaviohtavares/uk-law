@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Welsh zone[^c2007824][^key-a07239731baa007b6157adfc77e231bc]
+## 43. Welsh zone[^c2007824][^c-a07239731baa007b6157adfc77e231bc]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ as the Secretary of State considers appropriate in consequence of this section.
 
 [^c2007824]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2009/23/section/43) partly in force; [s. 43](https://www.legislation.gov.uk/ukpga/2009/23/section/43) in force for specified purposes at Royal Assent see [s. 324(1)(c)(d)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c/d)
 
-[^key-a07239731baa007b6157adfc77e231bc]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2009/23/section/43) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/7)
+[^c-a07239731baa007b6157adfc77e231bc]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2009/23/section/43) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/7)

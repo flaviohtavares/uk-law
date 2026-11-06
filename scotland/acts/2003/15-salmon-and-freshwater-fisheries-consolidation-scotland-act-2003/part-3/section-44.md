@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Financial powers and duties of district salmon fishery boards[^key-b1c82d2a597b70759c4dc3eb49e87bcc]
+## 44. Financial powers and duties of district salmon fishery boards[^c-b1c82d2a597b70759c4dc3eb49e87bcc]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 relating to the activities of the board; and the clerk of the board shall call an annual meeting of qualified proprietors in the district for the purposes of considering the report and the audited accounts.
 
-(1A)[^key-eb1fb86695a5cb3eb1febd98275131cc] As soon as practicable after the annual meeting held under subsection (1) above, the clerk of the board must—
+(1A)[^c-eb1fb86695a5cb3eb1febd98275131cc] As soon as practicable after the annual meeting held under subsection (1) above, the clerk of the board must—
 
 - (a) arrange for the final report and audited accounts to be published; and
 - (b) send a copy of the final report and audited accounts to the Scottish Ministers.
@@ -72,6 +72,6 @@ but they shall not pay to any member of that board any salary or fees for acting
 
 ## Annotations
 
-[^key-b1c82d2a597b70759c4dc3eb49e87bcc]: Commencement: S. 44 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-b1c82d2a597b70759c4dc3eb49e87bcc]: Commencement: S. 44 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
-[^key-eb1fb86695a5cb3eb1febd98275131cc]: Textual amendment: S. 44(1A)(1B) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 24(2)](https://www.legislation.gov.uk/asp/2013/7/section/24/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-eb1fb86695a5cb3eb1febd98275131cc]: Textual amendment: S. 44(1A)(1B) inserted (16.9.2013) by [Aquaculture and Fisheries (Scotland) Act 2013 (asp 7)](https://www.legislation.gov.uk/asp/2013/7), [ss. 24(2)](https://www.legislation.gov.uk/asp/2013/7/section/24/2), [66(2)](https://www.legislation.gov.uk/asp/2013/7/section/66/2) (with [s. 65](https://www.legislation.gov.uk/asp/2013/7/section/65)); [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

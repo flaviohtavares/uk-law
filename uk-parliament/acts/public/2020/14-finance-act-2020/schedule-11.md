@@ -24,11 +24,11 @@ Section 89
 
 ### Amendments of HODA 1979
 
-**1.**[^key-a1eef92cc3661b8df7764e94f951aac6] HODA 1979 is amended as follows.
+**1.**[^c-a1eef92cc3661b8df7764e94f951aac6] HODA 1979 is amended as follows.
 
-**2.**[^key-b5826aa8d4fde8674513e4fca98813ab] In section 6AB(4A) after “vehicles” insert “ etc ”.
+**2.**[^c-b5826aa8d4fde8674513e4fca98813ab] In section 6AB(4A) after “vehicles” insert “ etc ”.
 
-**3.**[^key-18df997f4a31550a1d3b6704591efd65] (1) Section 12 is amended as follows.
+**3.**[^c-18df997f4a31550a1d3b6704591efd65] (1) Section 12 is amended as follows.
 
 (2) In subsection (1) after “vehicle” insert “ or as fuel for propelling a private pleasure craft ”.
 
@@ -38,13 +38,13 @@ Section 89
 
 (4) In the heading at the end insert “ etc ”.
 
-**4.**[^key-0ed8e9656d7fe8ab17e5cd6b3983b593] In section 13ZB(5), in paragraph (b) of the definition of “prohibited use” after “vehicle” insert “ or as fuel for a private pleasure craft ”.
+**4.**[^c-0ed8e9656d7fe8ab17e5cd6b3983b593] In section 13ZB(5), in paragraph (b) of the definition of “prohibited use” after “vehicle” insert “ or as fuel for a private pleasure craft ”.
 
-**5.**[^key-ef9cb20d5a1089f43ad6b3678c3f518b] In section 14A for subsection (4) substitute—
+**5.**[^c-ef9cb20d5a1089f43ad6b3678c3f518b] In section 14A for subsection (4) substitute—
 
 > (4) For the meaning of “private pleasure craft”, see section 14E.
 
-**6.**[^key-9c90a393d1caa39945780ef7789c68a6] (1) Section 14B is amended as follows.
+**6.**[^c-9c90a393d1caa39945780ef7789c68a6] (1) Section 14B is amended as follows.
 
 (2) In subsection (1)(a)—
 
@@ -57,7 +57,7 @@ Section 89
 
 (3) In the heading at the end insert “ etc ”.
 
-**7.**[^key-37311f20197cd9377d6ec46a123fd4c1] (1) Section 14C is amended as follows.
+**7.**[^c-37311f20197cd9377d6ec46a123fd4c1] (1) Section 14C is amended as follows.
 
 (2) In subsection (1)—
 
@@ -67,7 +67,7 @@ Section 89
 
 (3) Omit subsection (4A).
 
-**8.**[^key-c08efaa2b42a544d659d3898ad975a88][^key-7eaebb5fce79019db589c29145956bcb] For section 14E substitute—
+**8.**[^c-c08efaa2b42a544d659d3898ad975a88][^c-7eaebb5fce79019db589c29145956bcb] For section 14E substitute—
 
 > **14E. Restrictions on use of certain fuel for private pleasure craft**
 >
@@ -92,7 +92,7 @@ Section 89
 >
 > (7) The Treasury may by regulations provide for cases in which a vessel is treated as not being a private pleasure craft for the purposes of this Act (which may include cases in which the vessel is used in accordance with instructions given by an officer of HMRC for the purposes of removing restricted fuel from the vessel).
 
-**9.**[^key-3ea31b84f2a909cfe561aaaf052d5e54] For section 14F substitute—
+**9.**[^c-3ea31b84f2a909cfe561aaaf052d5e54] For section 14F substitute—
 
 > **14F. Penalties for contravention of section 14E**
 >
@@ -125,7 +125,7 @@ Section 89
 > - (a) in England or Wales (subject to subsection (6)) or Scotland, 12 months;
 > - (b) in Northern Ireland, 6 months.
 >
-> (6) In relation to an offence committed before 2 May 2022[^key-95d83891508434c4488e9df4fd0e6e90], subsection (5)(a) has effect in England and Wales as if for “12 months” there were substituted “ 6 months ”.
+> (6) In relation to an offence committed before 2 May 2022[^c-95d83891508434c4488e9df4fd0e6e90], subsection (5)(a) has effect in England and Wales as if for “12 months” there were substituted “ 6 months ”.
 >
 > (7) Restricted fuel is liable to forfeiture if it is—
 >
@@ -146,19 +146,19 @@ Section 89
 > - “**rebated fuel**” has the meaning given by section 14E(3);
 > - “**restricted fuel**” has the meaning given by section 14E(2).
 
-**10.**[^key-a2afe68ef836b9a61a4f0a08e815cbaf] In section 20AAA(4)(a) after “vehicle” insert “ or as fuel for propelling a private pleasure craft ”.
+**10.**[^c-a2afe68ef836b9a61a4f0a08e815cbaf] In section 20AAA(4)(a) after “vehicle” insert “ or as fuel for propelling a private pleasure craft ”.
 
-**11.**[^key-c9964dbaa70a6bb540fbf38a0f37c0c2] In section 24 (control of use of duty-free and rebated oil) after subsection (3) insert—
+**11.**[^c-c9964dbaa70a6bb540fbf38a0f37c0c2] In section 24 (control of use of duty-free and rebated oil) after subsection (3) insert—
 
 > (3A) Subsection (3) does not apply to heavy oil, biodiesel or bioblend used for propelling a private pleasure craft if it is proved to the satisfaction of the Commissioners that the heavy oil, biodiesel or bioblend was taken into the vessel in accordance with the laws of the place where it was taken in.
 
-**12.**[^key-10ddc5a46ac9afb30750d258832cea8e] In section 27(1) at the appropriate place insert—
+**12.**[^c-10ddc5a46ac9afb30750d258832cea8e] In section 27(1) at the appropriate place insert—
 
 > “**private pleasure craft**” has the meaning given by section 14E;
 
 .
 
-**13.**[^key-a642e4e136aaf082199890e2d8797724][^key-63c397f6045dcead8e816d166f23c1bb] (1) Schedule 4 (regulations under section 24) is amended as follows.
+**13.**[^c-a642e4e136aaf082199890e2d8797724][^c-63c397f6045dcead8e816d166f23c1bb] (1) Schedule 4 (regulations under section 24) is amended as follows.
 
 (2) In paragraph 19 after “vehicle” insert “ or a vessel ”.
 
@@ -176,7 +176,7 @@ Section 89
   >
   > (3) Nothing in sub-paragraph (1) enables regulations to be made authorising the examination of the interior of part of a vessel if that part is used as a dwelling.
 
-**14.**[^key-c79847046a00cb7e36f81fe4fd3cb328] (1) Schedule 5 (sampling) is amended as follows.
+**14.**[^c-c79847046a00cb7e36f81fe4fd3cb328] (1) Schedule 5 (sampling) is amended as follows.
 
 (2) In paragraph 1—
 
@@ -195,9 +195,9 @@ Section 89
 
 ### Other amendments
 
-**15.**[^key-92fab45ffd5a05649d14f261f95aa1ae] In Schedule 7A to VATA 1994, in Group 1, in Note 1(3) omit paragraph (b) (and the “or” immediately before it).
+**15.**[^c-92fab45ffd5a05649d14f261f95aa1ae] In Schedule 7A to VATA 1994, in Group 1, in Note 1(3) omit paragraph (b) (and the “or” immediately before it).
 
-**16.**[^key-6d33bebac1d7d4e9b2abdefee579ec31] In Schedule 41 to FA 2008, in the table in paragraph 3(1) for the entry relating to section 14F(2) of HODA 1979 substitute—
+**16.**[^c-6d33bebac1d7d4e9b2abdefee579ec31] In Schedule 41 to FA 2008, in the table in paragraph 3(1) for the entry relating to section 14F(2) of HODA 1979 substitute—
 
 > |  |  |
 > | --- | --- |
@@ -205,7 +205,7 @@ Section 89
 
 .
 
-**17.**[^key-c6ddafc93fba6740e3a513df3058219c] In Schedule 9 to TCTA 2018, in paragraph 6 omit sub-paragraphs (3) and (4).
+**17.**[^c-c6ddafc93fba6740e3a513df3058219c] In Schedule 9 to TCTA 2018, in paragraph 6 omit sub-paragraphs (3) and (4).
 
 ### General
 
@@ -215,7 +215,7 @@ Section 89
 
 **20.** The Treasury may by regulations make such transitional, transitory or saving provision as they consider appropriate in connection with the coming into force of any of those paragraphs (including provision conferring functions on the Commissioners for Her Majesty's Revenue and Customs).
 
-**21.** The Treasury may by regulations make such amendments of any enactment , including Schedule 21 to FA 2021[^key-3080e45dc71d44662d910e29f616a0f6] and Schedule 11 to FA 2022,[^key-a261cc4a214d33ff100ae742e6551a62] as they consider appropriate in consequence of the coming into force of any of paragraphs 1 to 17.
+**21.** The Treasury may by regulations make such amendments of any enactment , including Schedule 21 to FA 2021[^c-3080e45dc71d44662d910e29f616a0f6] and Schedule 11 to FA 2022,[^c-a261cc4a214d33ff100ae742e6551a62] as they consider appropriate in consequence of the coming into force of any of paragraphs 1 to 17.
 
 **22.** A statutory instrument containing regulations under paragraph 21 is subject to annulment in pursuance of a resolution of the House of Commons.
 
@@ -223,46 +223,46 @@ Section 89
 
 ## Annotations
 
-[^key-a1eef92cc3661b8df7764e94f951aac6]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/1) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-a1eef92cc3661b8df7764e94f951aac6]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/1) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-b5826aa8d4fde8674513e4fca98813ab]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/2) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-b5826aa8d4fde8674513e4fca98813ab]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/2) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-18df997f4a31550a1d3b6704591efd65]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/3) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-18df997f4a31550a1d3b6704591efd65]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/3) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-0ed8e9656d7fe8ab17e5cd6b3983b593]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/4) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-0ed8e9656d7fe8ab17e5cd6b3983b593]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/4) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-ef9cb20d5a1089f43ad6b3678c3f518b]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/5) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-ef9cb20d5a1089f43ad6b3678c3f518b]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/5) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-9c90a393d1caa39945780ef7789c68a6]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/6) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-9c90a393d1caa39945780ef7789c68a6]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/6) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-37311f20197cd9377d6ec46a123fd4c1]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/7) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-37311f20197cd9377d6ec46a123fd4c1]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/7) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-c08efaa2b42a544d659d3898ad975a88]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/8) in force at 29.6.2021 for specified purposes for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 2](https://www.legislation.gov.uk/uksi/2021/740/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-c08efaa2b42a544d659d3898ad975a88]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/8) in force at 29.6.2021 for specified purposes for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 2](https://www.legislation.gov.uk/uksi/2021/740/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-7eaebb5fce79019db589c29145956bcb]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/8) in force at 1.10.2021 for N.I. in so far as not already in force by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-7eaebb5fce79019db589c29145956bcb]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/8) in force at 1.10.2021 for N.I. in so far as not already in force by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-3ea31b84f2a909cfe561aaaf052d5e54]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/9) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-3ea31b84f2a909cfe561aaaf052d5e54]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/9) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-95d83891508434c4488e9df4fd0e6e90]: Textual amendment: Words in Sch. 11 para. 9 substituted (28.4.2022) by virtue of [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-95d83891508434c4488e9df4fd0e6e90]: Textual amendment: Words in Sch. 11 para. 9 substituted (28.4.2022) by virtue of [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-a2afe68ef836b9a61a4f0a08e815cbaf]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/10) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-a2afe68ef836b9a61a4f0a08e815cbaf]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/10) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-c9964dbaa70a6bb540fbf38a0f37c0c2]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/11) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-c9964dbaa70a6bb540fbf38a0f37c0c2]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/11) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-10ddc5a46ac9afb30750d258832cea8e]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/12) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-10ddc5a46ac9afb30750d258832cea8e]: Commencement: [Sch. 11 para. 12](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/12) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-a642e4e136aaf082199890e2d8797724]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/13) in force at 29.6.2021 for specified purposes for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 2](https://www.legislation.gov.uk/uksi/2021/740/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-a642e4e136aaf082199890e2d8797724]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/13) in force at 29.6.2021 for specified purposes for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 2](https://www.legislation.gov.uk/uksi/2021/740/regulation/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-63c397f6045dcead8e816d166f23c1bb]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/13) in force at 1.10.2021 for N.I. in so far as not already in force by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-63c397f6045dcead8e816d166f23c1bb]: Commencement: [Sch. 11 para. 13](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/13) in force at 1.10.2021 for N.I. in so far as not already in force by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-c79847046a00cb7e36f81fe4fd3cb328]: Commencement: [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/14) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-c79847046a00cb7e36f81fe4fd3cb328]: Commencement: [Sch. 11 para. 14](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/14) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-92fab45ffd5a05649d14f261f95aa1ae]: Commencement: [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/15) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-92fab45ffd5a05649d14f261f95aa1ae]: Commencement: [Sch. 11 para. 15](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/15) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-6d33bebac1d7d4e9b2abdefee579ec31]: Commencement: [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/16) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-6d33bebac1d7d4e9b2abdefee579ec31]: Commencement: [Sch. 11 para. 16](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/16) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-c6ddafc93fba6740e3a513df3058219c]: Commencement: [Sch. 11 para. 17](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/17) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
+[^c-c6ddafc93fba6740e3a513df3058219c]: Commencement: [Sch. 11 para. 17](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/17) in force at 1.10.2021 for N.I. by [S.I. 2021/740](https://www.legislation.gov.uk/uksi/2021/740), [reg. 3](https://www.legislation.gov.uk/uksi/2021/740/regulation/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/740/regulation/1/2))
 
-[^key-3080e45dc71d44662d910e29f616a0f6]: Textual amendment: Words in [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/21) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 102(7)](https://www.legislation.gov.uk/ukpga/2021/26/section/102/7)
+[^c-3080e45dc71d44662d910e29f616a0f6]: Textual amendment: Words in [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/21) inserted (10.6.2021) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 102(7)](https://www.legislation.gov.uk/ukpga/2021/26/section/102/7)
 
-[^key-a261cc4a214d33ff100ae742e6551a62]: Textual amendment: Words in [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/21) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(7)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/7)
+[^c-a261cc4a214d33ff100ae742e6551a62]: Textual amendment: Words in [Sch. 11 para. 21](https://www.legislation.gov.uk/ukpga/2020/14/schedule/11/paragraph/21) inserted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 76(7)](https://www.legislation.gov.uk/ukpga/2022/3/section/76/7)

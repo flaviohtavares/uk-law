@@ -32,8 +32,8 @@ summary: ''
 
 *Extent: S*
 
-(6)[^key-531dbefca4ef76ad1dc0296098fdae65] The references in subsection (5) above to a Government department shall, for the purposes of the application of this section to sections 4D to 4F of, and Schedule 1C to, this Act, be treated as including the holder of an office in the Scottish Administration which is not a ministerial office.
+(6)[^c-531dbefca4ef76ad1dc0296098fdae65] The references in subsection (5) above to a Government department shall, for the purposes of the application of this section to sections 4D to 4F of, and Schedule 1C to, this Act, be treated as including the holder of an office in the Scottish Administration which is not a ministerial office.
 
 ## Annotations
 
-[^key-531dbefca4ef76ad1dc0296098fdae65]: Textual amendment: S. 66(6) added (S.) (20.6.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 30(2)](https://www.legislation.gov.uk/asp/2005/3/section/30/2), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)
+[^c-531dbefca4ef76ad1dc0296098fdae65]: Textual amendment: S. 66(6) added (S.) (20.6.2005) by [Water Services etc. (Scotland) Act 2005 (asp 3)](https://www.legislation.gov.uk/asp/2005/3), [ss. 30(2)](https://www.legislation.gov.uk/asp/2005/3/section/30/2), [37(2)](https://www.legislation.gov.uk/asp/2005/3/section/37/2) (with [s. 36](https://www.legislation.gov.uk/asp/2005/3/section/36)); [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2005/351/schedule/1)

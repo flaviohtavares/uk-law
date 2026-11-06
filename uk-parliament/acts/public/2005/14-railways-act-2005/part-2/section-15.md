@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Duty of Secretary of State and Transport for London to co-operate[^key-24e36481c76e6c8d0be0a135a0500d18]
+## 15. Duty of Secretary of State and Transport for London to co-operate[^c-24e36481c76e6c8d0be0a135a0500d18]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24e36481c76e6c8d0be0a135a0500d18]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/14/section/15) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-24e36481c76e6c8d0be0a135a0500d18]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2005/14/section/15) in force at 24.7.2005 by [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)

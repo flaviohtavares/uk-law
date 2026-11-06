@@ -32,7 +32,7 @@ summary: ''
 
 Tonnage Tax
 
-The Tonnage Tax (Training Requirement) (Amendment etc.) Regulations 2017 (revoked)[^key-10a9f85e16a098158cf73756af1cbec1]
+The Tonnage Tax (Training Requirement) (Amendment etc.) Regulations 2017 (revoked)[^c-10a9f85e16a098158cf73756af1cbec1]
 
 Made
 
@@ -46,32 +46,32 @@ Coming into force
 
 1st October 2017
 
-[^key-10a9f85e16a098158cf73756af1cbec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10a9f85e16a098158cf73756af1cbec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-10a9f85e16a098158cf73756af1cbec1]
+## 1. Citation and commencement[^c-10a9f85e16a098158cf73756af1cbec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Application[^key-10a9f85e16a098158cf73756af1cbec1]
+## 2. Application[^c-10a9f85e16a098158cf73756af1cbec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Regulations[^key-10a9f85e16a098158cf73756af1cbec1]
+## 3. Amendment of Regulations[^c-10a9f85e16a098158cf73756af1cbec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-10a9f85e16a098158cf73756af1cbec1]
+## 4. Revocation[^c-10a9f85e16a098158cf73756af1cbec1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-10a9f85e16a098158cf73756af1cbec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10a9f85e16a098158cf73756af1cbec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-10a9f85e16a098158cf73756af1cbec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-10a9f85e16a098158cf73756af1cbec1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-10a9f85e16a098158cf73756af1cbec1]: Textual amendment: Regulations revoked (1.10.2018) by [The Tonnage Tax (Training Requirement) (Amendment etc.) Regulations 2018 (S.I. 2018/971)](https://www.legislation.gov.uk/uksi/2018/971), [regs. 1](https://www.legislation.gov.uk/uksi/2018/971/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/971/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/971/regulation/2))
+[^c-10a9f85e16a098158cf73756af1cbec1]: Textual amendment: Regulations revoked (1.10.2018) by [The Tonnage Tax (Training Requirement) (Amendment etc.) Regulations 2018 (S.I. 2018/971)](https://www.legislation.gov.uk/uksi/2018/971), [regs. 1](https://www.legislation.gov.uk/uksi/2018/971/regulation/1), [4](https://www.legislation.gov.uk/uksi/2018/971/regulation/4) (with [reg. 2](https://www.legislation.gov.uk/uksi/2018/971/regulation/2))

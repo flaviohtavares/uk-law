@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Purchase of vaping or nicotine products on behalf of under 18s[^key-92baca74adf92ed0f8109402dc857d19]
+## 81. Purchase of vaping or nicotine products on behalf of under 18s[^c-92baca74adf92ed0f8109402dc857d19]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92baca74adf92ed0f8109402dc857d19]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2026/18/section/81) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-92baca74adf92ed0f8109402dc857d19]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2026/18/section/81) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

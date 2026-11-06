@@ -35,7 +35,7 @@ An Act to authorise the use of resources for the year ending with 31 March 2012;
 
 Whereas the Commons of the United Kingdom in Parliament assembled have resolved to authorise the use of resources and the issue of sums out of the Consolidated Fund towards making good the supply which they have granted to Her Majesty in this Session of Parliament:—
 
-Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-de7b014dbd7714db3dabdecc6ce7a85f][^key-d71d2ef76140fddd223157c56faf19f7]
+Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-de7b014dbd7714db3dabdecc6ce7a85f][^c-d71d2ef76140fddd223157c56faf19f7]
 
 ## 1. Main authorisation for use of resources for 2011-12
 
@@ -1001,6 +1001,6 @@ The Local Government Boundary Commission for England, 2011-12
 
 ## Annotations
 
-[^key-de7b014dbd7714db3dabdecc6ce7a85f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2011/10) modified (26.3.2013 with effect in accordance with s. 5(9)) by [Supply and Appropriation (Anticipation and Adjustments) Act 2013 (c. 12)](https://www.legislation.gov.uk/ukpga/2013/12), [s. 5](https://www.legislation.gov.uk/ukpga/2013/12/section/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2013/12/schedule/2)
+[^c-de7b014dbd7714db3dabdecc6ce7a85f]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2011/10) modified (26.3.2013 with effect in accordance with s. 5(9)) by [Supply and Appropriation (Anticipation and Adjustments) Act 2013 (c. 12)](https://www.legislation.gov.uk/ukpga/2013/12), [s. 5](https://www.legislation.gov.uk/ukpga/2013/12/section/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2013/12/schedule/2)
 
-[^key-d71d2ef76140fddd223157c56faf19f7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2011/10) modified (13.3.2014) by [Supply and Appropriation (Anticipation and Adjustments) Act 2014 (c. 5)](https://www.legislation.gov.uk/ukpga/2014/5), [s. 7](https://www.legislation.gov.uk/ukpga/2014/5/section/7), [Sch. 3](https://www.legislation.gov.uk/ukpga/2014/5/schedule/3)
+[^c-d71d2ef76140fddd223157c56faf19f7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2011/10) modified (13.3.2014) by [Supply and Appropriation (Anticipation and Adjustments) Act 2014 (c. 5)](https://www.legislation.gov.uk/ukpga/2014/5), [s. 7](https://www.legislation.gov.uk/ukpga/2014/5/section/7), [Sch. 3](https://www.legislation.gov.uk/ukpga/2014/5/schedule/3)

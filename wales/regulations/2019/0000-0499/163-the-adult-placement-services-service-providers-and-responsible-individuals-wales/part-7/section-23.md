@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Supporting individuals to manage their money[^key-e52025267216b90d0f519e2fe7ed8db9]
+## 23. Supporting individuals to manage their money[^c-e52025267216b90d0f519e2fe7ed8db9]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e52025267216b90d0f519e2fe7ed8db9]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2019/163/regulation/23) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)
+[^c-e52025267216b90d0f519e2fe7ed8db9]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2019/163/regulation/23) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/163/regulation/1/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 248A. Emergency vehicles[^key-e10b09f4183ca5010f663e02a4671f55]
+## 248A. Emergency vehicles[^c-e10b09f4183ca5010f663e02a4671f55]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies where—
 
-- (a) an emergency vehicle is made available to a person employed in an emergency service mainly for use for the person's business travel[^key-2ddf602a111ff8450319a3d03e189fcd] ,
+- (a) an emergency vehicle is made available to a person employed in an emergency service mainly for use for the person's business travel[^c-2ddf602a111ff8450319a3d03e189fcd] ,
 - (b) the terms on which it is made available prohibit its private use otherwise than when the person is on call or ... commuting, and
 - (c) the person does not make private use of it otherwise than in such circumstances.
 
@@ -47,13 +47,13 @@ summary: ''
 
 (8) A person to whom an emergency vehicle is made available is ... commuting when the person—
 
-- (a) is using the vehicle[^key-8ce968b1692aadb28ac8cdc1fc680cd5] for ordinary commuting or for travel between two places that is for practical purposes substantially ordinary commuting, and
+- (a) is using the vehicle[^c-8ce968b1692aadb28ac8cdc1fc680cd5] for ordinary commuting or for travel between two places that is for practical purposes substantially ordinary commuting, and
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e10b09f4183ca5010f663e02a4671f55]: Textual amendment: S. 248A inserted (with effect in accordance with s. 81(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 81(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/81/1)
+[^c-e10b09f4183ca5010f663e02a4671f55]: Textual amendment: S. 248A inserted (with effect in accordance with s. 81(3) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 81(1)](https://www.legislation.gov.uk/ukpga/2004/12/section/81/1)
 
-[^key-2ddf602a111ff8450319a3d03e189fcd]: Textual amendment: Words in s. 248A(1)(a) substituted (with effect in accordance with s. 9(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/9/2/a)
+[^c-2ddf602a111ff8450319a3d03e189fcd]: Textual amendment: Words in s. 248A(1)(a) substituted (with effect in accordance with s. 9(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 9(2)(a)](https://www.legislation.gov.uk/ukpga/2019/1/section/9/2/a)
 
-[^key-8ce968b1692aadb28ac8cdc1fc680cd5]: Textual amendment: Words in s. 248A(8)(a) substituted (with effect in accordance with s. 9(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/9/3/b)
+[^c-8ce968b1692aadb28ac8cdc1fc680cd5]: Textual amendment: Words in s. 248A(8)(a) substituted (with effect in accordance with s. 9(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 9(3)(b)](https://www.legislation.gov.uk/ukpga/2019/1/section/9/3/b)

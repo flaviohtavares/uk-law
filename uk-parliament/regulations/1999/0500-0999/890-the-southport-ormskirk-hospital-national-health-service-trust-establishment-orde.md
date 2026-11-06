@@ -31,7 +31,7 @@ summary: ''
 
 NATIONAL HEALTH SERVICE, ENGLAND AND WALES
 
-The Southport & Ormskirk Hospital National Health Service Trust (Establishment) Order 1999 (revoked)[^key-39a6bb8b0b3ad8570735d944811d0a3f]
+The Southport & Ormskirk Hospital National Health Service Trust (Establishment) Order 1999 (revoked)[^c-39a6bb8b0b3ad8570735d944811d0a3f]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into force
 
 1st April 1999
 
-[^key-39a6bb8b0b3ad8570735d944811d0a3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39a6bb8b0b3ad8570735d944811d0a3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-39a6bb8b0b3ad8570735d944811d0a3f]
+## 1. Citation, commencement and interpretation[^c-39a6bb8b0b3ad8570735d944811d0a3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Establishment of the trust[^key-39a6bb8b0b3ad8570735d944811d0a3f]
+## 2. Establishment of the trust[^c-39a6bb8b0b3ad8570735d944811d0a3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Nature and functions of the trust[^key-39a6bb8b0b3ad8570735d944811d0a3f]
+## 3. Nature and functions of the trust[^c-39a6bb8b0b3ad8570735d944811d0a3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Directors of the trust[^key-39a6bb8b0b3ad8570735d944811d0a3f]
+## 4. Directors of the trust[^c-39a6bb8b0b3ad8570735d944811d0a3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Operational date and accounting date of the trust[^key-39a6bb8b0b3ad8570735d944811d0a3f]
+## 5. Operational date and accounting date of the trust[^c-39a6bb8b0b3ad8570735d944811d0a3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Restriction on disposal of assets[^key-39a6bb8b0b3ad8570735d944811d0a3f]
+## 6. Restriction on disposal of assets[^c-39a6bb8b0b3ad8570735d944811d0a3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-39a6bb8b0b3ad8570735d944811d0a3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39a6bb8b0b3ad8570735d944811d0a3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-39a6bb8b0b3ad8570735d944811d0a3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-39a6bb8b0b3ad8570735d944811d0a3f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-39a6bb8b0b3ad8570735d944811d0a3f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/890) revoked (1.7.2023) by [The Southport and Ormskirk Hospital National Health Service Trust (Dissolution) Order 2023 (S.I. 2023/699)](https://www.legislation.gov.uk/uksi/2023/699), [arts. 1](https://www.legislation.gov.uk/uksi/2023/699/article/1), [3](https://www.legislation.gov.uk/uksi/2023/699/article/3)
+[^c-39a6bb8b0b3ad8570735d944811d0a3f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1999/890) revoked (1.7.2023) by [The Southport and Ormskirk Hospital National Health Service Trust (Dissolution) Order 2023 (S.I. 2023/699)](https://www.legislation.gov.uk/uksi/2023/699), [arts. 1](https://www.legislation.gov.uk/uksi/2023/699/article/1), [3](https://www.legislation.gov.uk/uksi/2023/699/article/3)

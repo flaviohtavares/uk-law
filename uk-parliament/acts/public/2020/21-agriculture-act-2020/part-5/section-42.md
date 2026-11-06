@@ -54,11 +54,11 @@ summary: ''
   - (b) Annex 1 to [Regulation (EU) No 510/2014](https://www.legislation.gov.uk/european/regulation/2014/0510) of the European Parliament and of the Council of 16 April 2013 laying down the trade arrangements applicable to certain goods resulting from the processing of agricultural products and repealing Council Regulations [(EC) No 1216/2009](https://www.legislation.gov.uk/european/regulation/2009/1216) and [(EC) No 614/2009](https://www.legislation.gov.uk/european/regulation/2009/0614);
   - (c) the first two columns of Annex 2 to that Regulation;
 - “**free trade agreement**” means an agreement that is or was notifiable under paragraph 7(a) of Article XXIV of the General Agreement on Tariffs and Trade, part of Annex 1A of the WTO Agreement (as modified from time to time);
-- “**legislation**” means primary legislation, subordinate legislation or assimilated direct[^key-c8711714cfc89d745f3a6012b58de13c] legislation;
+- “**legislation**” means primary legislation, subordinate legislation or assimilated direct[^c-c8711714cfc89d745f3a6012b58de13c] legislation;
 - “**the WTO Agreement**” means the Agreement establishing the World Trade Organisation signed at Marrakesh on 15 April 1994.
 
 ## Annotations
 
 [^c24383291]: Commencement: S. 42 in force at Royal Assent for specified purposes and otherwise at 11.1.2021, see [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1)
 
-[^key-c8711714cfc89d745f3a6012b58de13c]: Textual amendment: Words in s. 42(7) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(i)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/i)
+[^c-c8711714cfc89d745f3a6012b58de13c]: Textual amendment: Words in s. 42(7) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 93(2)(i)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/93/2/i)

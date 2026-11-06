@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — LAND IN WHICH ONLY NEW RIGHTS ETC., MAY BE ACQUIRED[^key-c0d40b6d21f47524dd6f81e1add2bbb7]
+## SCHEDULE 4 — LAND IN WHICH ONLY NEW RIGHTS ETC., MAY BE ACQUIRED[^c-c0d40b6d21f47524dd6f81e1add2bbb7]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ Article 22
 
 ## Annotations
 
-[^key-c0d40b6d21f47524dd6f81e1add2bbb7]: Commencement: Sch. 4 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-c0d40b6d21f47524dd6f81e1add2bbb7]: Commencement: Sch. 4 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. National Trust land[^key-0849508e6ee979a97cbe0a65e76e0bf7][^key-b35103e37bb3e5d09e00a9cbbbcbbb4f]
+## 69. National Trust land[^c-0849508e6ee979a97cbe0a65e76e0bf7][^c-b35103e37bb3e5d09e00a9cbbbcbbb4f]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0849508e6ee979a97cbe0a65e76e0bf7]: Commencement: S. 69 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
+[^c-0849508e6ee979a97cbe0a65e76e0bf7]: Commencement: S. 69 not in force at Royal Assent, see [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2)
 
-[^key-b35103e37bb3e5d09e00a9cbbbcbbb4f]: Commencement: [S. 69](https://www.legislation.gov.uk/asc/2024/3/section/69) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-b35103e37bb3e5d09e00a9cbbbcbbb4f]: Commencement: [S. 69](https://www.legislation.gov.uk/asc/2024/3/section/69) in force at 15.12.2025 by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 95. Enforcement notification for contravention of conditions[^key-40cbd66949c9312f95c9bb38c5457a1a][^key-fe1159f89d3dbc31e825d8fff5eaf480][^key-7b7578750f89882757090c55b6c3c5ba]
+## 95. Enforcement notification for contravention of conditions[^c-40cbd66949c9312f95c9bb38c5457a1a][^c-fe1159f89d3dbc31e825d8fff5eaf480][^c-7b7578750f89882757090c55b6c3c5ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-40cbd66949c9312f95c9bb38c5457a1a]: Commencement: S. 95 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-40cbd66949c9312f95c9bb38c5457a1a]: Commencement: S. 95 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-fe1159f89d3dbc31e825d8fff5eaf480]: Modification: Ss. 94-97 applied (with modifications) by S.I. 2000/730, reg. 18(5) (as inserted (25.7.2003) by [Radio Equipment and Telecommunications Terminal Equipment (Amendment) Regulations 2003 (S.I. 2003/1903)](https://www.legislation.gov.uk/uksi/2003/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1903/regulation/1/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2003/1903/regulation/2/12/b))
+[^c-fe1159f89d3dbc31e825d8fff5eaf480]: Modification: Ss. 94-97 applied (with modifications) by S.I. 2000/730, reg. 18(5) (as inserted (25.7.2003) by [Radio Equipment and Telecommunications Terminal Equipment (Amendment) Regulations 2003 (S.I. 2003/1903)](https://www.legislation.gov.uk/uksi/2003/1903), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/1903/regulation/1/1), [2(12)(b)](https://www.legislation.gov.uk/uksi/2003/1903/regulation/2/12/b))
 
-[^key-7b7578750f89882757090c55b6c3c5ba]: Commencement: S. 95 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-7b7578750f89882757090c55b6c3c5ba]: Commencement: S. 95 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

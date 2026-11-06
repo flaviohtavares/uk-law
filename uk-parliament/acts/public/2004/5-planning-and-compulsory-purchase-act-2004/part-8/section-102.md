@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 102. Confirmation by acquiring authority[^key-a8563e06c0c059bf674a54e9367c1494]
+## 102. Confirmation by acquiring authority[^c-a8563e06c0c059bf674a54e9367c1494]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8563e06c0c059bf674a54e9367c1494]: Commencement: S. 102 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-a8563e06c0c059bf674a54e9367c1494]: Commencement: S. 102 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

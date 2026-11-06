@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Relationship with existing licensing legislation[^key-3a22a7533a6b1c49707804a4e6f7f98f]
+## 84. Relationship with existing licensing legislation[^c-3a22a7533a6b1c49707804a4e6f7f98f]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ a regulated licence in a way that is consistent with provision made by or under 
 
 ## Annotations
 
-[^key-3a22a7533a6b1c49707804a4e6f7f98f]: Commencement: S. 84 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-3a22a7533a6b1c49707804a4e6f7f98f]: Commencement: S. 84 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

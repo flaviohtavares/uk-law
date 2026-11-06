@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163B. Registered society: receipt of transfer of engagements from another registered society[^key-561736f4a232bbb348cae06ab99f7c77]
+## 163B. Registered society: receipt of transfer of engagements from another registered society[^c-561736f4a232bbb348cae06ab99f7c77]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-561736f4a232bbb348cae06ab99f7c77]: Textual amendment: [S. 163B](https://www.legislation.gov.uk/ukpga/2008/17/section/163B) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/18/3), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/k)
+[^c-561736f4a232bbb348cae06ab99f7c77]: Textual amendment: [S. 163B](https://www.legislation.gov.uk/ukpga/2008/17/section/163B) inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 18(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/18/3), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/k)

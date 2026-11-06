@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Patient records[^key-a763ac327b366b90f43b66bc7f93afef]
+## 18. Patient records[^c-a763ac327b366b90f43b66bc7f93afef]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ the records requested shall be sent by the succeeding contractor to the Board as
 
 ## Annotations
 
-[^key-a763ac327b366b90f43b66bc7f93afef]: Commencement: Art. 18 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-a763ac327b366b90f43b66bc7f93afef]: Commencement: Art. 18 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 144. New build home warranties[^key-542846ae623bb3425c842f10417741ce][^key-5d33206d35df108456a27431e97b5b78]
+## 144. New build home warranties[^c-542846ae623bb3425c842f10417741ce][^c-5d33206d35df108456a27431e97b5b78]
 
 *Extent: E+W*
 
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-542846ae623bb3425c842f10417741ce]: Commencement: S. 144 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
+[^c-542846ae623bb3425c842f10417741ce]: Commencement: S. 144 not in force at Royal Assent, see [s. 170(5)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/5)
 
-[^key-5d33206d35df108456a27431e97b5b78]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2022/30/section/144) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z12)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z12)
+[^c-5d33206d35df108456a27431e97b5b78]: Commencement: [S. 144](https://www.legislation.gov.uk/ukpga/2022/30/section/144) in force at 6.4.2023 for specified purposes by [S.I. 2023/362](https://www.legislation.gov.uk/uksi/2023/362), [reg. 3(1)(z12)](https://www.legislation.gov.uk/uksi/2023/362/regulation/3/1/z12)

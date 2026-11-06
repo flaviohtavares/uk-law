@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Capital and special purpose grants for grant-maintained integrated schools[^key-1398952d0c6c41d185bd870d0caece20]
+## 69. Capital and special purpose grants for grant-maintained integrated schools[^c-1398952d0c6c41d185bd870d0caece20]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1398952d0c6c41d185bd870d0caece20]: Commencement: [Art. 69](https://www.legislation.gov.uk/nisi/1998/1759/article/69) in operation at 14.4.2016 by [S.R. 2016/211](https://www.legislation.gov.uk/nisr/2016/211), [art. 2](https://www.legislation.gov.uk/nisr/2016/211/article/2)
+[^c-1398952d0c6c41d185bd870d0caece20]: Commencement: [Art. 69](https://www.legislation.gov.uk/nisi/1998/1759/article/69) in operation at 14.4.2016 by [S.R. 2016/211](https://www.legislation.gov.uk/nisr/2016/211), [art. 2](https://www.legislation.gov.uk/nisr/2016/211/article/2)

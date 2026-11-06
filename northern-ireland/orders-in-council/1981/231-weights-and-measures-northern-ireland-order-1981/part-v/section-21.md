@@ -49,7 +49,7 @@ summary: ''
 - (g) a sale by means of a vending machine; or
 - (h) goods delivered at premises of the buyer by means of an installation providing a connection of a permanent nature between those premises and premises of the seller.
 
-(7)[^key-07c11b2aaed3fee964354da204a73a9b] There shall be exempt from the requirements of this Article goods that are subject to the FIC Regulation.
+(7)[^c-07c11b2aaed3fee964354da204a73a9b] There shall be exempt from the requirements of this Article goods that are subject to the FIC Regulation.
 
 ## Annotations
 
@@ -59,4 +59,4 @@ summary: ''
 
 [^m00011]: Marginal citation: SR 1980/33
 
-[^key-07c11b2aaed3fee964354da204a73a9b]: Textual amendment: Art. 21(7) inserted (18.4.2016) by [The Weights and Measures (Food) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/187)](https://www.legislation.gov.uk/nisr/2016/187), [regs. 1](https://www.legislation.gov.uk/nisr/2016/187/regulation/1), [5](https://www.legislation.gov.uk/nisr/2016/187/regulation/5)
+[^c-07c11b2aaed3fee964354da204a73a9b]: Textual amendment: Art. 21(7) inserted (18.4.2016) by [The Weights and Measures (Food) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/187)](https://www.legislation.gov.uk/nisr/2016/187), [regs. 1](https://www.legislation.gov.uk/nisr/2016/187/regulation/1), [5](https://www.legislation.gov.uk/nisr/2016/187/regulation/5)

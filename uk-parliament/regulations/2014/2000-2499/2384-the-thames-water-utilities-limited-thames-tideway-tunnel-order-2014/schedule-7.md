@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — PUBLIC RIGHTS OF WAY AND PERMISSIVE PATHS TO BE EXTINGUISHED[^key-67a49abba5384c9522e2286164a24211]
+## SCHEDULE 7 — PUBLIC RIGHTS OF WAY AND PERMISSIVE PATHS TO BE EXTINGUISHED[^c-67a49abba5384c9522e2286164a24211]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ Article 14
 
 ## Annotations
 
-[^key-67a49abba5384c9522e2286164a24211]: Commencement: Sch. 7 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-67a49abba5384c9522e2286164a24211]: Commencement: Sch. 7 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

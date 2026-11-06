@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Provisions about imprisonment or detention[^key-72a1b90703e2d0eb296c9d09afa938e9][^key-e3634034bab4be7cd4cb838ceea63874][^key-8f36befb1a0a729f39ff83a5746a9374][^key-546686d0e8b28ec8bf3c4ec52ec89cc0][^key-c17adb1df6d097eff0772533ee9e24f5][^key-e3634034bab4be7cd4cb838ceea63874][^key-8f36befb1a0a729f39ff83a5746a9374][^key-c17adb1df6d097eff0772533ee9e24f5]
+## 187. Provisions about imprisonment or detention[^c-72a1b90703e2d0eb296c9d09afa938e9][^c-e3634034bab4be7cd4cb838ceea63874][^c-8f36befb1a0a729f39ff83a5746a9374][^c-546686d0e8b28ec8bf3c4ec52ec89cc0][^c-c17adb1df6d097eff0772533ee9e24f5][^c-e3634034bab4be7cd4cb838ceea63874][^c-8f36befb1a0a729f39ff83a5746a9374][^c-c17adb1df6d097eff0772533ee9e24f5]
 
 *Extent: N.I.*
 
@@ -38,12 +38,12 @@ summary: ''
 
 ## Annotations
 
-[^key-72a1b90703e2d0eb296c9d09afa938e9]: Commencement: S. 187 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-72a1b90703e2d0eb296c9d09afa938e9]: Commencement: S. 187 in force at 24.3.2003 by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
+[^c-e3634034bab4be7cd4cb838ceea63874]: Modification: Pt. 4 applied by [S.I. 1989/1341 (N.I. 12)](https://www.legislation.gov.uk/nisi/1989/1341), [arts. 57(5B)](https://www.legislation.gov.uk/nisi/1989/1341/article/57/5B), [59(8B)](https://www.legislation.gov.uk/nisi/1989/1341/article/59/8B) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), Supreme Court s. 458(1), Sch. 11 para. 19(2)(3); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule))
 
-[^key-8f36befb1a0a729f39ff83a5746a9374]: Modification: Pt. 4 applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [Sch. 2 para. 11(5)](https://www.legislation.gov.uk/uksi/2014/3141/schedule/2/paragraph/11/5)
+[^c-8f36befb1a0a729f39ff83a5746a9374]: Modification: Pt. 4 applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [Sch. 2 para. 11(5)](https://www.legislation.gov.uk/uksi/2014/3141/schedule/2/paragraph/11/5)
 
-[^key-546686d0e8b28ec8bf3c4ec52ec89cc0]: Modification: S. 187 excluded (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [Sch. 2 para. 11(6)](https://www.legislation.gov.uk/uksi/2014/3141/schedule/2/paragraph/11/6)
+[^c-546686d0e8b28ec8bf3c4ec52ec89cc0]: Modification: S. 187 excluded (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [Sch. 2 para. 11(6)](https://www.legislation.gov.uk/uksi/2014/3141/schedule/2/paragraph/11/6)
 
-[^key-c17adb1df6d097eff0772533ee9e24f5]: Modification: Pt. 4 applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [Sch. 2 para. 6(5)](https://www.legislation.gov.uk/uksi/2014/3141/schedule/2/paragraph/6/5)
+[^c-c17adb1df6d097eff0772533ee9e24f5]: Modification: Pt. 4 applied (3.12.2014) by [The Criminal Justice and Data Protection (Protocol No. 36) Regulations 2014 (S.I. 2014/3141)](https://www.legislation.gov.uk/uksi/2014/3141), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2014/3141/regulation/1/b), [Sch. 2 para. 6(5)](https://www.legislation.gov.uk/uksi/2014/3141/schedule/2/paragraph/6/5)

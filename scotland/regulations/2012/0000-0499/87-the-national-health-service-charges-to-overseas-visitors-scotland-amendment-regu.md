@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service
 
-The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2012 (revoked)[^key-fa35da5f3b0d1e77e353290318efaf48]
+The National Health Service (Charges to Overseas Visitors) (Scotland) Amendment Regulations 2012 (revoked)[^c-fa35da5f3b0d1e77e353290318efaf48]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st May 2012
 
-[^key-fa35da5f3b0d1e77e353290318efaf48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa35da5f3b0d1e77e353290318efaf48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fa35da5f3b0d1e77e353290318efaf48]
+## 1. Citation and commencement[^c-fa35da5f3b0d1e77e353290318efaf48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Health Service (Charges to Overseas Visitors) (Scotland) Regulations 1989[^key-fa35da5f3b0d1e77e353290318efaf48]
+## 2. Amendment of the National Health Service (Charges to Overseas Visitors) (Scotland) Regulations 1989[^c-fa35da5f3b0d1e77e353290318efaf48]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa35da5f3b0d1e77e353290318efaf48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa35da5f3b0d1e77e353290318efaf48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fa35da5f3b0d1e77e353290318efaf48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa35da5f3b0d1e77e353290318efaf48]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fa35da5f3b0d1e77e353290318efaf48]: Textual amendment: Regulations revoked (1.5.2014) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) Regulations 2014 (S.S.I. 2014/70)](https://www.legislation.gov.uk/ssi/2014/70), [regs. 1](https://www.legislation.gov.uk/ssi/2014/70/regulation/1), [3](https://www.legislation.gov.uk/ssi/2014/70/regulation/3)
+[^c-fa35da5f3b0d1e77e353290318efaf48]: Textual amendment: Regulations revoked (1.5.2014) by [The National Health Service (Charges to Overseas Visitors) (Scotland) (Amendment) Regulations 2014 (S.S.I. 2014/70)](https://www.legislation.gov.uk/ssi/2014/70), [regs. 1](https://www.legislation.gov.uk/ssi/2014/70/regulation/1), [3](https://www.legislation.gov.uk/ssi/2014/70/regulation/3)

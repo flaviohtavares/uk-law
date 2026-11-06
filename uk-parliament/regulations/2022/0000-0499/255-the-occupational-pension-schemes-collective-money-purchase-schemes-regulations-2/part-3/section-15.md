@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Continuity strategy: contents[^key-3035c6b36be1bde51c16a8e2e47cc875]
+## 15. Continuity strategy: contents[^c-3035c6b36be1bde51c16a8e2e47cc875]
 
 *Extent: E+W+S*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3035c6b36be1bde51c16a8e2e47cc875]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2022/255/regulation/15) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)
+[^c-3035c6b36be1bde51c16a8e2e47cc875]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2022/255/regulation/15) in force at 1.8.2022, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/255/regulation/1/3)

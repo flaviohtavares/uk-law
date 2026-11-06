@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Adjournment of poll in case of riot[^key-e71e8441822b34e3f98e9fadca9a03d5]
+## 43. Adjournment of poll in case of riot[^c-e71e8441822b34e3f98e9fadca9a03d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e71e8441822b34e3f98e9fadca9a03d5]: Commencement: Reg. 43 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-e71e8441822b34e3f98e9fadca9a03d5]: Commencement: Reg. 43 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

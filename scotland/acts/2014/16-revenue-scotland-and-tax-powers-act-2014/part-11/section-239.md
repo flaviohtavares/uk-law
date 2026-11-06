@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 239. Notification of conclusions of review[^key-95c5a20cb84b19bea91fd74238391006][^key-284ada2ffb764c11b3100c58f5f30a2b]
+## 239. Notification of conclusions of review[^c-95c5a20cb84b19bea91fd74238391006][^c-284ada2ffb764c11b3100c58f5f30a2b]
 
 *Extent: S*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95c5a20cb84b19bea91fd74238391006]: Commencement: [S. 239](https://www.legislation.gov.uk/asp/2014/16/section/239) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
+[^c-95c5a20cb84b19bea91fd74238391006]: Commencement: [S. 239](https://www.legislation.gov.uk/asp/2014/16/section/239) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
 
-[^key-284ada2ffb764c11b3100c58f5f30a2b]: Commencement: [S. 239](https://www.legislation.gov.uk/asp/2014/16/section/239) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-284ada2ffb764c11b3100c58f5f30a2b]: Commencement: [S. 239](https://www.legislation.gov.uk/asp/2014/16/section/239) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 137. Disregard of contribution[^key-d5d6ec560c2b5d6a28f5d1c25628ba68]
+## 137. Disregard of contribution[^c-d5d6ec560c2b5d6a28f5d1c25628ba68]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Where the claimant or his partner is a student and, for the purposes of assessin
 
 ## Annotations
 
-[^key-d5d6ec560c2b5d6a28f5d1c25628ba68]: Commencement: Reg. 137 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-d5d6ec560c2b5d6a28f5d1c25628ba68]: Commencement: Reg. 137 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

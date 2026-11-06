@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — CONSEQUENTIAL REPEALS[^key-5e2e5382edc2b3bed2b7f5d2fca2bed2]
+## SCHEDULE 5 — CONSEQUENTIAL REPEALS[^c-5e2e5382edc2b3bed2b7f5d2fca2bed2]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ Article 10(3)
 
 ## Annotations
 
-[^key-5e2e5382edc2b3bed2b7f5d2fca2bed2]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2007/2194/schedule/5) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)
+[^c-5e2e5382edc2b3bed2b7f5d2fca2bed2]: Commencement: [Sch. 5](https://www.legislation.gov.uk/uksi/2007/2194/schedule/5) in force at 1.10.2007, see [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a)

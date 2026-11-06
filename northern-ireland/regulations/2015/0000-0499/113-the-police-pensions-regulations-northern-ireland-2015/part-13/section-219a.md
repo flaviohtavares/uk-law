@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 219A. Voluntary scheme pays arrangement[^key-063815a0ef10b1580d6223190d6145b0]
+## 219A. Voluntary scheme pays arrangement[^c-063815a0ef10b1580d6223190d6145b0]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-063815a0ef10b1580d6223190d6145b0]: Textual amendment: [Reg. 219A](https://www.legislation.gov.uk/nisr/2015/113/regulation/219A) inserted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [5(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/5/2)
+[^c-063815a0ef10b1580d6223190d6145b0]: Textual amendment: [Reg. 219A](https://www.legislation.gov.uk/nisr/2015/113/regulation/219A) inserted (30.3.2022) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/148)](https://www.legislation.gov.uk/nisr/2022/148), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/1/2), [5(2)](https://www.legislation.gov.uk/nisr/2022/148/regulation/5/2)

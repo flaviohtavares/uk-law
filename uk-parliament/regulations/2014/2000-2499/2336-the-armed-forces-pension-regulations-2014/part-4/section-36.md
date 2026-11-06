@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Adjustment of provisional amount of deferred pension on retirement[^key-fb058660af384fccd553aaf84d35b7ee]
+## 36. Adjustment of provisional amount of deferred pension on retirement[^c-fb058660af384fccd553aaf84d35b7ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ When a deferred member becomes entitled under regulation 44 (retirement before r
 
 ## Annotations
 
-[^key-fb058660af384fccd553aaf84d35b7ee]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2014/2336/regulation/36) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-fb058660af384fccd553aaf84d35b7ee]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2014/2336/regulation/36) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

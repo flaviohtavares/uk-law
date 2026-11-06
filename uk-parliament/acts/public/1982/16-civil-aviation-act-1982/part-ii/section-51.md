@@ -26,7 +26,7 @@ summary: ''
 - (b) in respect of the creation, by virtue of an order made under this Part of this Act, otherwise than under section 30 above, of any easement or servitude over any such land or of any other right in or in relation to any such land,
 - (c) in respect of any direction under section 46 above which affects any building, structure or apparatus held or used by him for the purposes of his undertaking, or which affects any of his rights to install or maintain apparatus for those purposes or which affects any right of way enjoyed by him for those purposes,
 
-shall, in default of agreement, be assessed by the appropriate tribunal[^key-430a9b61b64e800bd884643f6e148272]; but this subsection shall not apply to any compensation payable by virtue of section 42 above.
+shall, in default of agreement, be assessed by the appropriate tribunal[^c-430a9b61b64e800bd884643f6e148272]; but this subsection shall not apply to any compensation payable by virtue of section 42 above.
 
 (2) Subject to those provisions, the amount of any compensation payable as mentioned in subsection (1) above shall be an amount calculated in accordance with the following enactments, that is to say—
 
@@ -62,7 +62,7 @@ shall, in default of agreement, be assessed by the appropriate tribunal[^key-430
 
 [^c2539521]: Modification: Ss. 49, 51 extended by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(1)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/1), [Sch. 16 para. 2(2)(h)(9)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/16/paragraph/2/2/h/9)
 
-[^key-430a9b61b64e800bd884643f6e148272]: Textual amendment: Words in s. 51(1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 155](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/155) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-430a9b61b64e800bd884643f6e148272]: Textual amendment: Words in s. 51(1) substituted (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 1 para. 155](https://www.legislation.gov.uk/uksi/2009/1307/schedule/1/paragraph/155) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
 [^c2539531]: Textual amendment: Words substituted by [Planning (Consequential Provisions) Act 1990 (c. 11, SIF 123:1, 2)](https://www.legislation.gov.uk/ukpga/1990/11), [s. 4](https://www.legislation.gov.uk/ukpga/1990/11/section/4), [Sch. 2 para. 55(2)(a)](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2/paragraph/55/2/a)
 

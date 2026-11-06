@@ -22,11 +22,11 @@ summary: ''
 
 Section 78
 
-### 1. Introductory[^key-b9698887491f40998deb94ef4e63b658][^key-134537d0dfd884baf84f7eaeebb0fdc7]
+### 1. Introductory[^c-b9698887491f40998deb94ef4e63b658][^c-134537d0dfd884baf84f7eaeebb0fdc7]
 
 This Schedule provides for the application of this Act in the case of subsidies provided by means of primary legislation.
 
-**2.**[^key-a40646ae408ab8ab90c1284d4c970f6e][^key-e964439d8cc60becf54dbaf02c21085d] (1) In this Schedule—
+**2.**[^c-a40646ae408ab8ab90c1284d4c970f6e][^c-e964439d8cc60becf54dbaf02c21085d] (1) In this Schedule—
 
 - “**appropriate authority**” means—
   - (a) in relation to a subsidy provided by means of an Act of Parliament, a Minister of the Crown or the Commissioners for Her Majesty’s Revenue and Customs;
@@ -62,7 +62,7 @@ This Schedule provides for the application of this Act in the case of subsidies 
 
 (2) Where a subsidy provided by means of primary legislation resulted from an amendment to the proposed primary legislation concerned, the “promoter” of the proposed primary legislation for the purposes of this Schedule, so far as relating to that subsidy, is the member who tabled or lodged the amendment.
 
-**3.**[^key-5571176d4169fdfbccdadd562e84466e][^key-38041f5a24d3ca08d9ef2dd39755c4f2] (1) The definition of “subsidy” in section 2 applies for the purposes of this Schedule (so far as the context requires) as if the reference in subsection (1)(a) of that section to financial assistance given by a public authority were a reference to financial assistance provided by means of primary legislation.
+**3.**[^c-5571176d4169fdfbccdadd562e84466e][^c-38041f5a24d3ca08d9ef2dd39755c4f2] (1) The definition of “subsidy” in section 2 applies for the purposes of this Schedule (so far as the context requires) as if the reference in subsection (1)(a) of that section to financial assistance given by a public authority were a reference to financial assistance provided by means of primary legislation.
 
 (2) Section 4 applies for the purposes of this Schedule as if—
 
@@ -71,17 +71,17 @@ This Schedule provides for the application of this Act in the case of subsidies 
 
 (3) The definition of “subsidy scheme” in section 10 applies for the purposes of this Schedule as if the reference in subsection (1) of that section to a scheme made by a public authority were a reference to a scheme made by primary legislation.
 
-**4.**[^key-30eb218a1047ec94da35b824a499bc4d][^key-e7361cee19e3230da1b2c8eebfde7673] In this Schedule references to a subsidy provided by means of primary legislation—
+**4.**[^c-30eb218a1047ec94da35b824a499bc4d][^c-e7361cee19e3230da1b2c8eebfde7673] In this Schedule references to a subsidy provided by means of primary legislation—
 
 - (a) include references to a subsidy given by a public authority under a duty imposed by that legislation;
 - (b) do not include references to a subsidy given by a public authority under a power conferred by that legislation (but see section 1(7)).
 
-**5.**[^key-c2627c7ce68a49791754323f37689ad5][^key-18a934f3b6c4aeb77f8d4753405c836a] In this Schedule—
+**5.**[^c-c2627c7ce68a49791754323f37689ad5][^c-18a934f3b6c4aeb77f8d4753405c836a] In this Schedule—
 
 - (a) references to a subsidy provided by means of primary legislation include references to a subsidy scheme made by that legislation;
 - (b) references to a subsidy given by a public authority include references to a subsidy scheme made by the authority.
 
-### 6. Application of principles[^key-b30114bc1821c08925d55522d647881e][^key-bc883fd518f6e9b8937cd5e9ef9acbff]
+### 6. Application of principles[^c-b30114bc1821c08925d55522d647881e][^c-bc883fd518f6e9b8937cd5e9ef9acbff]
 
 (1) Chapter 1 of Part 2 (application of principles) applies to subsidies provided by means of devolved primary legislation as it applies to subsidies given by public authorities.
 
@@ -90,7 +90,7 @@ This Schedule provides for the application of this Act in the case of subsidies 
 - (a) references in that Chapter to a public authority are to be taken as references to the devolved legislature in relation to the devolved primary legislation concerned;
 - (b) in subsidy proceedings before the appropriate court in connection with this paragraph, the requirements imposed by that Chapter on public authorities to consider and form a view are to be assessed by reference to the considerations and views of the promoter of the proposed devolved primary legislation.
 
-### 7. Prohibitions etc and exemptions[^key-6a9d83907b01fb4aac84385259ef2612][^key-54c351cf9f6ea2ee036cdf46eae07a50]
+### 7. Prohibitions etc and exemptions[^c-6a9d83907b01fb4aac84385259ef2612][^c-54c351cf9f6ea2ee036cdf46eae07a50]
 
 (1) Chapter 2 of Part 2 (prohibitions and other requirements), and Part 3 (exemptions), applies to subsidies provided by means of devolved primary legislation as they apply to subsidies given by public authorities.
 
@@ -113,7 +113,7 @@ This Schedule provides for the application of this Act in the case of subsidies 
   ;
 - (e) sections 37 and 39 are to be ignored.
 
-### 8. Transparency[^key-ee82738d8869cc052aea0693f31cbb90][^key-2999590f4a1c4a4f6aa7e8a49674f673]
+### 8. Transparency[^c-ee82738d8869cc052aea0693f31cbb90][^c-2999590f4a1c4a4f6aa7e8a49674f673]
 
 (1) Chapter 3 of Part 2 (which provides for the subsidy database) applies to subsidies provided by means of primary legislation as it applies to subsidies given by public authorities.
 
@@ -122,7 +122,7 @@ This Schedule provides for the application of this Act in the case of subsidies 
 - (a) references in that Chapter to a public authority are to be taken as references to the appropriate authority;
 - (b) the references in section 33 to a subsidy given, or a subsidy scheme made, by the authority are to be taken as references to a subsidy or scheme provided by means of primary legislation.
 
-### 9. CMA referrals[^key-049c0506b867d1798ac2b8cd51f34df2][^key-d31867a5bce5d59cdf470e5e46d742c2]
+### 9. CMA referrals[^c-049c0506b867d1798ac2b8cd51f34df2][^c-d31867a5bce5d59cdf470e5e46d742c2]
 
 (1) Sections 56, 57 and 59 (voluntary referrals to the CMA) apply to subsidies in proposed primary legislation as they apply to subsidies to be given by public authorities.
 
@@ -146,7 +146,7 @@ This Schedule provides for the application of this Act in the case of subsidies 
   - (iv) in subsection (3), after “subsection (2)(a)” there were inserted “or (2A)(a)”;
   - (v) in subsection (5), after “subsection (2)(a)” there were inserted “or (2A)(a)”.
 
-### 10. Recovery orders[^key-12bf497f6990f46e119f4afd2f528c9e][^key-47704a817ebe3cb89a8efd8c67a6cab3]
+### 10. Recovery orders[^c-12bf497f6990f46e119f4afd2f528c9e][^c-47704a817ebe3cb89a8efd8c67a6cab3]
 
 (1) Section 74 applies in subsidy proceedings before the appropriate court as it applies to proceedings under Part 5 before the Competition Appeal Tribunal.
 
@@ -164,7 +164,7 @@ This Schedule provides for the application of this Act in the case of subsidies 
 - (c) subsection (2)(b) of that section is to be read as if the reference to the public authority were a reference to the appropriate authority;
 - (d) subsection (4) of that section is to be ignored.
 
-### 11. Pre-action information[^key-c6541a63e68e72278b767ff39750bda5][^key-e419a98ceebfa517eba0bfe04ad4ba84]
+### 11. Pre-action information[^c-c6541a63e68e72278b767ff39750bda5][^c-e419a98ceebfa517eba0bfe04ad4ba84]
 
 (1) Section 76 (duty to provide pre-action information) applies to subsidies provided by means of devolved primary legislation as it applies to subsidies given by public authorities.
 
@@ -176,56 +176,56 @@ This Schedule provides for the application of this Act in the case of subsidies 
   - (i) for the words “a review of a subsidy decision under section 70” there were substituted “relief in subsidy proceedings before the appropriate court”;
   - (ii) for “the decision” there were substituted “the subsidy or scheme in question”.
 
-### 12. Time limits[^key-c675dadae244e658780b657560937703][^key-315970e9840766f0b3de1b67d588ff6c]
+### 12. Time limits[^c-c675dadae244e658780b657560937703][^c-315970e9840766f0b3de1b67d588ff6c]
 
 The power under section 86 to make consequential provision includes power to make provision, in relation to subsidy proceedings before the appropriate court, corresponding or similar to provision made by section 71 in relation to proceedings under Part 5 before the Competition Appeal Tribunal.
 
 ## Annotations
 
-[^key-b9698887491f40998deb94ef4e63b658]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-b9698887491f40998deb94ef4e63b658]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-134537d0dfd884baf84f7eaeebb0fdc7]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/1) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-134537d0dfd884baf84f7eaeebb0fdc7]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/1) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-a40646ae408ab8ab90c1284d4c970f6e]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-a40646ae408ab8ab90c1284d4c970f6e]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-e964439d8cc60becf54dbaf02c21085d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/2) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-e964439d8cc60becf54dbaf02c21085d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/2) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-5571176d4169fdfbccdadd562e84466e]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-5571176d4169fdfbccdadd562e84466e]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-38041f5a24d3ca08d9ef2dd39755c4f2]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/3) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-38041f5a24d3ca08d9ef2dd39755c4f2]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/3) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-30eb218a1047ec94da35b824a499bc4d]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-30eb218a1047ec94da35b824a499bc4d]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-e7361cee19e3230da1b2c8eebfde7673]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/4) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-e7361cee19e3230da1b2c8eebfde7673]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/4) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-c2627c7ce68a49791754323f37689ad5]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-c2627c7ce68a49791754323f37689ad5]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-18a934f3b6c4aeb77f8d4753405c836a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/5) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-18a934f3b6c4aeb77f8d4753405c836a]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/5) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-b30114bc1821c08925d55522d647881e]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-b30114bc1821c08925d55522d647881e]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-bc883fd518f6e9b8937cd5e9ef9acbff]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/6) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-bc883fd518f6e9b8937cd5e9ef9acbff]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/6) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-6a9d83907b01fb4aac84385259ef2612]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-6a9d83907b01fb4aac84385259ef2612]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-54c351cf9f6ea2ee036cdf46eae07a50]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/7) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-54c351cf9f6ea2ee036cdf46eae07a50]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/7) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-ee82738d8869cc052aea0693f31cbb90]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-ee82738d8869cc052aea0693f31cbb90]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-2999590f4a1c4a4f6aa7e8a49674f673]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/8) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-2999590f4a1c4a4f6aa7e8a49674f673]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/8) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-049c0506b867d1798ac2b8cd51f34df2]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-049c0506b867d1798ac2b8cd51f34df2]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-d31867a5bce5d59cdf470e5e46d742c2]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/9) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-d31867a5bce5d59cdf470e5e46d742c2]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/9) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-12bf497f6990f46e119f4afd2f528c9e]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-12bf497f6990f46e119f4afd2f528c9e]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-47704a817ebe3cb89a8efd8c67a6cab3]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/10) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-47704a817ebe3cb89a8efd8c67a6cab3]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/10) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-c6541a63e68e72278b767ff39750bda5]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-c6541a63e68e72278b767ff39750bda5]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-e419a98ceebfa517eba0bfe04ad4ba84]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/11) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-e419a98ceebfa517eba0bfe04ad4ba84]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/11) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
 
-[^key-c675dadae244e658780b657560937703]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-c675dadae244e658780b657560937703]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-315970e9840766f0b3de1b67d588ff6c]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/12) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-315970e9840766f0b3de1b67d588ff6c]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2022/23/schedule/3/paragraph/12) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

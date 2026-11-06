@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Private rights[^key-896d043850dc90be4a8f622aa5287d79]
+## 20. Private rights[^c-896d043850dc90be4a8f622aa5287d79]
 
 *Extent: E+W+S*
 
@@ -48,7 +48,7 @@ whichever is the earliest.
   - (iv) the undertaker’s taking temporary possession of the land, that any or all of those paragraphs do not apply to any right specified in the notice; or
 - (b) any agreement made at any time between the undertaker and the person in or to whom the right in question is vested or belongs.
 
-(7) If an agreement referred to in sub-paragraph (6)(b)[^key-58fc4f9516b847b9bed0554eb3bf7459]—
+(7) If an agreement referred to in sub-paragraph (6)(b)[^c-58fc4f9516b847b9bed0554eb3bf7459]—
 
 - (a) is made with a person in or to whom the right is vested or belongs; and
 - (b) is expressed to have effect also for the benefit of those deriving title from or under that person,
@@ -59,6 +59,6 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-896d043850dc90be4a8f622aa5287d79]: Commencement: Art. 20 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-896d043850dc90be4a8f622aa5287d79]: Commencement: Art. 20 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-58fc4f9516b847b9bed0554eb3bf7459]: Textual amendment: Words in [art. 20(7)](https://www.legislation.gov.uk/uksi/2025/85/article/20/7) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)
+[^c-58fc4f9516b847b9bed0554eb3bf7459]: Textual amendment: Words in [art. 20(7)](https://www.legislation.gov.uk/uksi/2025/85/article/20/7) substituted (14.4.2025) by [The Heckington Fen Solar Park (Correction) Order 2025 (S.I. 2025/482)](https://www.legislation.gov.uk/uksi/2025/482), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/482/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/482/schedule)

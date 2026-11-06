@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Apparatus and rights of statutory undertakers in stopped up streets[^key-1999a15611373c1e1199ea189b9be251]
+## 36. Apparatus and rights of statutory undertakers in stopped up streets[^c-1999a15611373c1e1199ea189b9be251]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ and the placing of that new apparatus involves additional costs which would not 
 
 ## Annotations
 
-[^key-1999a15611373c1e1199ea189b9be251]: Commencement: Art. 36 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-1999a15611373c1e1199ea189b9be251]: Commencement: Art. 36 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

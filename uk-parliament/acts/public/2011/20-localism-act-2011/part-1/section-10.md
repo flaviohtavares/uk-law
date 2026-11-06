@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-86952b780e09b80d545ba72adcb3d6fd][^key-4fcb3587b03127af6a691c748c392ca2] The Fire and Rescue Services Act 2004 is amended as follows.
+(1)[^c-86952b780e09b80d545ba72adcb3d6fd][^c-4fcb3587b03127af6a691c748c392ca2] The Fire and Rescue Services Act 2004 is amended as follows.
 
-(2)[^key-86952b780e09b80d545ba72adcb3d6fd][^key-4fcb3587b03127af6a691c748c392ca2] After section 18 insert—
+(2)[^c-86952b780e09b80d545ba72adcb3d6fd][^c-4fcb3587b03127af6a691c748c392ca2] After section 18 insert—
 
 > **18A. Charging by authorities**
 >
@@ -106,18 +106,18 @@ summary: ''
 >   - (a) detecting fire, or
 >   - (b) raising the alarm, or enabling the alarm to be raised, in the event of fire.
 
-(3)[^key-86952b780e09b80d545ba72adcb3d6fd][^key-4fcb3587b03127af6a691c748c392ca2] Omit section 19 (charging).
+(3)[^c-86952b780e09b80d545ba72adcb3d6fd][^c-4fcb3587b03127af6a691c748c392ca2] Omit section 19 (charging).
 
-(4)[^key-b146d5c40fd73342212d5f9e56237b94] In section 62 (application of Act in Wales) before subsection (2) insert—
+(4)[^c-b146d5c40fd73342212d5f9e56237b94] In section 62 (application of Act in Wales) before subsection (2) insert—
 
 > (1B) The reference in subsection (1)(a) to Parts 1 to 6 does not include sections 18A to 18C.
 
-(5)[^key-86952b780e09b80d545ba72adcb3d6fd][^key-4fcb3587b03127af6a691c748c392ca2] Where immediately before the coming into force of subsections (1) to (3) in relation to England or Wales an order under section 19(1) of the Fire and Rescue Services Act 2004 authorises a fire and rescue authority in England or (as the case may be) Wales to charge for action of a specified description taken by the authority, section 18A(3) of that Act does not apply in relation to action of that description.
+(5)[^c-86952b780e09b80d545ba72adcb3d6fd][^c-4fcb3587b03127af6a691c748c392ca2] Where immediately before the coming into force of subsections (1) to (3) in relation to England or Wales an order under section 19(1) of the Fire and Rescue Services Act 2004 authorises a fire and rescue authority in England or (as the case may be) Wales to charge for action of a specified description taken by the authority, section 18A(3) of that Act does not apply in relation to action of that description.
 
 ## Annotations
 
-[^key-86952b780e09b80d545ba72adcb3d6fd]: Commencement: [S. 10(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/1) [(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/5) in force at 18.2.2012 for specified purposes by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/411/article/2/d)
+[^c-86952b780e09b80d545ba72adcb3d6fd]: Commencement: [S. 10(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/1) [(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/5) in force at 18.2.2012 for specified purposes by [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/411/article/2/d)
 
-[^key-4fcb3587b03127af6a691c748c392ca2]: Commencement: [S. 10(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/1) [(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/5) in force at 1.4.2012 for specified purposes by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/887/article/2/f)
+[^c-4fcb3587b03127af6a691c748c392ca2]: Commencement: [S. 10(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/1) [(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/5) in force at 1.4.2012 for specified purposes by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/887/article/2/f)
 
-[^key-b146d5c40fd73342212d5f9e56237b94]: Commencement: [S. 10(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/4) in force at 1.4.2012 by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(g)](https://www.legislation.gov.uk/wsi/2012/887/article/2/g)
+[^c-b146d5c40fd73342212d5f9e56237b94]: Commencement: [S. 10(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/4) in force at 1.4.2012 by [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(g)](https://www.legislation.gov.uk/wsi/2012/887/article/2/g)

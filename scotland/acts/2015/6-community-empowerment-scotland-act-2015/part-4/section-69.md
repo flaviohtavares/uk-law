@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Valuation: views on representations and time limit[^key-c474fdb91d7b6e98c319cb9f524968fa]
+## 69. Valuation: views on representations and time limit[^c-c474fdb91d7b6e98c319cb9f524968fa]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ In section 88 of the 2003 Act (assessment of value of croft land etc.)—
 
 ## Annotations
 
-[^key-c474fdb91d7b6e98c319cb9f524968fa]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2015/6/section/69) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-c474fdb91d7b6e98c319cb9f524968fa]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2015/6/section/69) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

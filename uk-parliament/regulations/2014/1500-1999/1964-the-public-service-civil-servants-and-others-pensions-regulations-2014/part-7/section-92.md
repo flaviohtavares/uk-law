@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Claim for early payment[^key-78e606756d29163056e3e955ffe86a4d]
+## 92. Claim for early payment[^c-78e606756d29163056e3e955ffe86a4d]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78e606756d29163056e3e955ffe86a4d]: Commencement: [Reg. 92](https://www.legislation.gov.uk/uksi/2014/1964/regulation/92) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-78e606756d29163056e3e955ffe86a4d]: Commencement: [Reg. 92](https://www.legislation.gov.uk/uksi/2014/1964/regulation/92) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00061]: Footnote: [S.I. 2000/1054](https://www.legislation.gov.uk/uksi/2000/1054).

@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — The Crofters Commission
 
-### 1. Discharge of functions[^key-3c4f125b32e119978c1becf79bfcbeff]
+### 1. Discharge of functions[^c-3c4f125b32e119978c1becf79bfcbeff]
 
 In section 1 of the 1993 Act (constitution and general functions of Crofters Commission), for subsection (3) there is substituted—
 
@@ -44,7 +44,7 @@ In section 1 of the 1993 Act (constitution and general functions of Crofters Com
 
 .
 
-### 2. Equal opportunities[^key-fc78d1ed76634779a06c19b31343fe44]
+### 2. Equal opportunities[^c-fc78d1ed76634779a06c19b31343fe44]
 
 After section 59 of the 1993 Act, there is inserted—
 
@@ -56,7 +56,7 @@ After section 59 of the 1993 Act, there is inserted—
 
 .
 
-### 3. Obtaining Commission approval or consent[^key-f1a09aa9a0560ebff12c2fef5ef9ca8e]
+### 3. Obtaining Commission approval or consent[^c-f1a09aa9a0560ebff12c2fef5ef9ca8e]
 
 After section 3 of the 1993 Act, there is inserted—
 
@@ -154,7 +154,7 @@ After section 3 of the 1993 Act, there is inserted—
 
 .
 
-### 4. Obtaining of information by Commission[^key-2ca8d7cf383942e7e60140b9ef0cf551]
+### 4. Obtaining of information by Commission[^c-2ca8d7cf383942e7e60140b9ef0cf551]
 
 In section 40 of the 1993 Act (obtaining of information by the Commission)—
 
@@ -172,7 +172,7 @@ In section 40 of the 1993 Act (obtaining of information by the Commission)—
 
   .
 
-### 5. Maintenance of and provision of information from the Register of Crofts[^key-64c1367c7ec5b0d347bcda0c435bc114]
+### 5. Maintenance of and provision of information from the Register of Crofts[^c-64c1367c7ec5b0d347bcda0c435bc114]
 
 In section 41 of the 1993 Act (Register of Crofts)—
 
@@ -214,7 +214,7 @@ In section 41 of the 1993 Act (Register of Crofts)—
 
 ## Part 2 — Crofts
 
-### 6. New crofts[^key-783bbd5f7c131af4dd4c4bd656262a73]
+### 6. New crofts[^c-783bbd5f7c131af4dd4c4bd656262a73]
 
 After section 3 of the 1993 Act, there is inserted—
 
@@ -354,12 +354,12 @@ After section 3 of the 1993 Act, there is inserted—
 
 (1) In section 5 of the 1993 Act (the statutory conditions)—
 
-- (a)[^key-4f09bacf8caa9ecc5359cac23a7cf60a] after subsection (1) there is inserted—
+- (a)[^c-4f09bacf8caa9ecc5359cac23a7cf60a] after subsection (1) there is inserted—
 
   > (1A) If the landlord considers that the crofter is failing to comply with the condition set out in paragraph 3A of that Schedule he may serve notice to that effect on the crofter.
 
   ;
-- (b)[^key-4f09bacf8caa9ecc5359cac23a7cf60a] after subsection (2) there is inserted—
+- (b)[^c-4f09bacf8caa9ecc5359cac23a7cf60a] after subsection (2) there is inserted—
 
   > (2A) But where the crofter, for the purpose of conserving—
   >
@@ -371,7 +371,7 @@ After section 3 of the 1993 Act, there is inserted—
   > (2B) If, immediately before the coming into force of section 7 of the Crofting Reform etc. Act 2007 (asp 7), the croft was being used for a subsidiary or auxiliary occupation by virtue of the right conferred by paragraph 3 of Schedule 2 to this Act (as that paragraph then applied), any continuation of use for that occupation is not to be treated as a breach of the statutory conditions as respects the croft.
 
   ; and
-- (c)[^key-9628456eb09c9cccb0b2d65ff662f936][^key-e1fef026a872dfa77e9c9b2f6dc4e896] for subsection (3) there is substituted—
+- (c)[^c-9628456eb09c9cccb0b2d65ff662f936][^c-e1fef026a872dfa77e9c9b2f6dc4e896] for subsection (3) there is substituted—
 
   > (3) Any contract or agreement made by a crofter by virtue of which he is deprived of any right conferred on him by—
   >
@@ -443,16 +443,16 @@ After section 3 of the 1993 Act, there is inserted—
   > In sub-paragraphs (b) and (c) of paragraph 5 above, “**relevant notice**” means notice given by the landlord to the crofter not to do, or not to allow, a particular thing or not to engage in a particular course of conduct (being a thing or course of conduct specified in the notice and relevant to the deterioration or prejudice in question).
 
   ;
-- (e)[^key-6b726a4a5e7e9ed302636441660d9bb4] after paragraph 6 there is inserted—
+- (e)[^c-6b726a4a5e7e9ed302636441660d9bb4] after paragraph 6 there is inserted—
 
   > **6A.**
   >
   > The crofter shall be responsible for ensuring, where the croft is sublet, that the subtenant adheres to the statutory conditions.
 
   ;
-- (f)[^key-6b726a4a5e7e9ed302636441660d9bb4] in paragraph 7, for the word “subdivide” there is substituted “ divide ”;
-- (g)[^key-6b726a4a5e7e9ed302636441660d9bb4] in paragraph 9, the word “persistently” is repealed;
-- (h)[^key-6b726a4a5e7e9ed302636441660d9bb4] after paragraph 11 there is inserted—
+- (f)[^c-6b726a4a5e7e9ed302636441660d9bb4] in paragraph 7, for the word “subdivide” there is substituted “ divide ”;
+- (g)[^c-6b726a4a5e7e9ed302636441660d9bb4] in paragraph 9, the word “persistently” is repealed;
+- (h)[^c-6b726a4a5e7e9ed302636441660d9bb4] after paragraph 11 there is inserted—
 
   > **11A.**
   >
@@ -465,9 +465,9 @@ After section 3 of the 1993 Act, there is inserted—
 
   .
 
-(3)[^key-4f09bacf8caa9ecc5359cac23a7cf60a] The amendment made by subsection (2)(a) above does not affect the right conferred by paragraph 3 of Schedule 2 to that Act, as originally enacted, in relation to a use for subsidiary or auxiliary occupations provided that such use subsists (having subsisted from before the coming into force of that subsection).
+(3)[^c-4f09bacf8caa9ecc5359cac23a7cf60a] The amendment made by subsection (2)(a) above does not affect the right conferred by paragraph 3 of Schedule 2 to that Act, as originally enacted, in relation to a use for subsidiary or auxiliary occupations provided that such use subsists (having subsisted from before the coming into force of that subsection).
 
-### 8. Complaint as respects breach of the statutory conditions[^key-9dccd760fa4ff95e5da9624cfe0969a2]
+### 8. Complaint as respects breach of the statutory conditions[^c-9dccd760fa4ff95e5da9624cfe0969a2]
 
 After section 5 of the 1993 Act, there is inserted—
 
@@ -560,7 +560,7 @@ After section 5 of the 1993 Act, there is inserted—
 
 .
 
-### 9. Exchange of crofts or parts of crofts[^key-3b0e7bd524af72a95c628bfae9b28117]
+### 9. Exchange of crofts or parts of crofts[^c-3b0e7bd524af72a95c628bfae9b28117]
 
 After section 4 of the 1993 Act, there is inserted—
 
@@ -584,7 +584,7 @@ After section 4 of the 1993 Act, there is inserted—
 
 .
 
-### 10. Division of croft[^key-14dba24cda73889a7351e2f5c75c34cb]
+### 10. Division of croft[^c-14dba24cda73889a7351e2f5c75c34cb]
 
 For section 9 of the 1993 Act (sub-division of croft), there is substituted—
 
@@ -613,7 +613,7 @@ For section 9 of the 1993 Act (sub-division of croft), there is substituted—
 
 ### 11. Subletting
 
-(1)[^key-45b6387a93fb0e056c09f6b1b7cdec25] In section 27 of the 1993 Act (provisions as to right to sublet)—
+(1)[^c-45b6387a93fb0e056c09f6b1b7cdec25] In section 27 of the 1993 Act (provisions as to right to sublet)—
 
 - (a) in subsection (1), after the words “his croft” there is inserted “ , for a period not exceeding 10 years, ”; and
 - (b) for subsections (3) and (4) there is substituted—
@@ -625,9 +625,9 @@ For section 9 of the 1993 Act (sub-division of croft), there is substituted—
 
   .
 
-(2)[^key-634c31d490ee4788aad3c0af68354b80] Section 28 of that Act (special provisions regarding subletting of crofts not adequately used) is repealed.
+(2)[^c-634c31d490ee4788aad3c0af68354b80] Section 28 of that Act (special provisions regarding subletting of crofts not adequately used) is repealed.
 
-(3)[^key-634c31d490ee4788aad3c0af68354b80] In section 29 of that Act (miscellaneous provisions regarding subleases of crofts)—
+(3)[^c-634c31d490ee4788aad3c0af68354b80] In section 29 of that Act (miscellaneous provisions regarding subleases of crofts)—
 
 - (a) after subsection (2) there is inserted—
 
@@ -645,7 +645,7 @@ For section 9 of the 1993 Act (sub-division of croft), there is substituted—
 
   .
 
-### 12. Assignation[^key-9c02949305e2d4a34a463197e461b956]
+### 12. Assignation[^c-9c02949305e2d4a34a463197e461b956]
 
 In section 8 of the 1993 Act (assignation of croft)—
 
@@ -665,7 +665,7 @@ In section 8 of the 1993 Act (assignation of croft)—
 - (c) in subsection (5), for the words from “in writing” to “above” there is substituted “ of the Commission ”; and
 - (d) in subsection (6), for the words from “at the term” to “may be,” there is substituted “ on such date as the Commission shall specify in the consent (being a date not less than two months after that on which the consent was intimated to the crofter) unless before that date ”.
 
-### 13. Bequest of tenancy of croft[^key-2b2a73431f494416e052835377e18d02]
+### 13. Bequest of tenancy of croft[^c-2b2a73431f494416e052835377e18d02]
 
 (1) Section 10 of the 1993 Act (bequest of croft) is amended as follows.
 
@@ -752,7 +752,7 @@ In section 8 of the 1993 Act (assignation of croft)—
 
 .
 
-### 14. Prior rights, on intestacy, in relation to tenancy of croft[^key-6a91a19f9ce89f9ae7439edade27d544]
+### 14. Prior rights, on intestacy, in relation to tenancy of croft[^c-6a91a19f9ce89f9ae7439edade27d544]
 
 (1) Section 8 of the Succession (Scotland) Act 1964 (c. 41) (prior rights, on intestacy, in dwelling house and furniture) is amended as follows.
 
@@ -800,7 +800,7 @@ In section 8 of the 1993 Act (assignation of croft)—
 
 .
 
-### 15. Transfer of tenancy of croft by executor: amendment of section 16 of the Succession (Scotland) Act 1964[^key-afbca6e39c7315d544958e34a02cd085]
+### 15. Transfer of tenancy of croft by executor: amendment of section 16 of the Succession (Scotland) Act 1964[^c-afbca6e39c7315d544958e34a02cd085]
 
 (1) Section 16 of the Succession (Scotland) Act 1964 (powers of executor to assign lease which prohibits assignation) is amended as follows.
 
@@ -817,7 +817,7 @@ In section 8 of the 1993 Act (assignation of croft)—
 
 (4) In subsection (9), in the definition of “agricultural lease”, for the words “Act of 1955” there is substituted “ Crofters (Scotland) Act 1993 (or of any part of a croft if it is a part consisting of a right mentioned in section 3(4)(a) of that Act) ”.
 
-### 16. Transfer of tenancy of croft by executor: special provision relating to the 1993 Act[^key-6f5f2a6ad3fa26aef2cf05528400dbc7]
+### 16. Transfer of tenancy of croft by executor: special provision relating to the 1993 Act[^c-6f5f2a6ad3fa26aef2cf05528400dbc7]
 
 After section 16 of the Succession (Scotland) Act 1964, there is inserted—
 
@@ -851,7 +851,7 @@ After section 16 of the Succession (Scotland) Act 1964, there is inserted—
 
 .
 
-### 17. Amendment of section 11 of the 1993 Act[^key-39b13cdc029a751bfe7f779d8b5c0d8e]
+### 17. Amendment of section 11 of the 1993 Act[^c-39b13cdc029a751bfe7f779d8b5c0d8e]
 
 (1) Section 11 of the 1993 Act (intestacy) is amended as follows.
 
@@ -907,7 +907,7 @@ After section 16 of the Succession (Scotland) Act 1964, there is inserted—
 
 (6) In subsection (11)(a), for the words “subsection (8) above” there is substituted “ this section ”.
 
-### 18. Determination of the Land Court as to croft boundaries[^key-e7bc19500d18a0b385f680bf35a0afb7]
+### 18. Determination of the Land Court as to croft boundaries[^c-e7bc19500d18a0b385f680bf35a0afb7]
 
 After section 53 of the 1993 Act, there is inserted—
 
@@ -917,7 +917,7 @@ After section 53 of the 1993 Act, there is inserted—
 
 .
 
-### 19. Access to croft[^key-ffb700a4cdec017ca0f6badd6796518e]
+### 19. Access to croft[^c-ffb700a4cdec017ca0f6badd6796518e]
 
 After section 53A of the 1993 Act (inserted into that Act by section 18 of this Act), there is inserted—
 
@@ -944,7 +944,7 @@ After section 53A of the 1993 Act (inserted into that Act by section 18 of this 
 
 .
 
-### 20. Reorganisation schemes[^key-da0feb887ba4e9e138ebb9a70cc76dc4]
+### 20. Reorganisation schemes[^c-da0feb887ba4e9e138ebb9a70cc76dc4]
 
 (1) The 1993 Act is amended as follows.
 
@@ -1068,7 +1068,7 @@ After section 53A of the 1993 Act (inserted into that Act by section 18 of this 
 
 (5) Schedule 4 (confirmation of schemes by Scottish Ministers etc.) is repealed.
 
-### 21. Meaning of croft[^key-67c41d1b91397da4a38adc36dde59ccc]
+### 21. Meaning of croft[^c-67c41d1b91397da4a38adc36dde59ccc]
 
 In section 3 of the 1993 Act (meaning of “**croft**” and “**crofter**”)—
 
@@ -1102,7 +1102,7 @@ In section 3 of the 1993 Act (meaning of “**croft**” and “**crofter**”)�
 
 ## Part 3 — Termination of tenancy, decrofting, etc.
 
-### 22. Resumption and reversion[^key-04ea4f9e3e9701ea2f908d8375457993]
+### 22. Resumption and reversion[^c-04ea4f9e3e9701ea2f908d8375457993]
 
 (1) In section 20 of the 1993 Act (resumption of croft or part of croft by landlord)—
 
@@ -1174,7 +1174,7 @@ In section 3 of the 1993 Act (meaning of “**croft**” and “**crofter**”)�
 
 .
 
-### 23. Decrofting[^key-2b9f3af8078f6ba33058347cdf8304fa]
+### 23. Decrofting[^c-2b9f3af8078f6ba33058347cdf8304fa]
 
 In the 1993 Act—
 
@@ -1262,7 +1262,7 @@ In the 1993 Act—
 
     .
 
-### 24. Re-letting[^key-fabcd02bdd3e277617c9d060f2b6c9ff]
+### 24. Re-letting[^c-fabcd02bdd3e277617c9d060f2b6c9ff]
 
 In section 23 of the 1993 Act (vacant crofts)—
 
@@ -1297,7 +1297,7 @@ In section 23 of the 1993 Act (vacant crofts)—
 
     .
 
-### 25. Compensation for improvements for purposes other than cultivation or grazing etc.[^key-988ca0c5ebe2459904e2f7d9bef8478c]
+### 25. Compensation for improvements for purposes other than cultivation or grazing etc.[^c-988ca0c5ebe2459904e2f7d9bef8478c]
 
 In section 30 of the 1993 Act (compensation to crofter for improvements), after subsection (6) there is inserted—
 
@@ -1319,10 +1319,10 @@ In section 30 of the 1993 Act (compensation to crofter for improvements), after 
 
 (1) In section 50 of the 1993 Act (use of common grazings for forestry purposes)—
 
-- (a)[^key-f49ac67067c453bf2c60218f2f739d47] in subsection (1)—
+- (a)[^c-f49ac67067c453bf2c60218f2f739d47] in subsection (1)—
   - (i) for the word “interested” there is substituted “ who holds a right ”; and
   - (ii) in paragraph (b), for the word “landlord” there is substituted “ owner ”;
-- (b)[^key-f49ac67067c453bf2c60218f2f739d47] in subsection (2)—
+- (b)[^c-f49ac67067c453bf2c60218f2f739d47] in subsection (2)—
   - (i) for the words “A landlord's” there is substituted “ An owner's ”;
   - (ii) after paragraph (b) there is inserted—
 
@@ -1331,7 +1331,7 @@ In section 30 of the 1993 Act (compensation to crofter for improvements), after 
     ;
   - (iii) in paragraph (c), for the word “landlord” there is substituted “ owner ”; and
   - (iv) in paragraph (e), for the word “landlord's” there is substituted “ owner's ”;
-- (c)[^key-f49ac67067c453bf2c60218f2f739d47] after subsection (2) there is inserted—
+- (c)[^c-f49ac67067c453bf2c60218f2f739d47] after subsection (2) there is inserted—
 
   > (2A) An owner may refuse consent on (and only on) the grounds that implementation of the proposal would—
   >
@@ -1356,8 +1356,8 @@ In section 30 of the 1993 Act (compensation to crofter for improvements), after 
   >   - (ii) subject instead to a condition specified in the determination.
 
   ;
-- (d)[^key-f49ac67067c453bf2c60218f2f739d47] in subsection (3), for the words “A landlord's” there is substituted “ An owner's ”;
-- (e)[^key-b3c5996c330b9025b4f7c14c1f41830a] after subsection (3) there is inserted—
+- (d)[^c-f49ac67067c453bf2c60218f2f739d47] in subsection (3), for the words “A landlord's” there is substituted “ An owner's ”;
+- (e)[^c-b3c5996c330b9025b4f7c14c1f41830a] after subsection (3) there is inserted—
 
   > (3A) The Commission shall, on receipt of any application under subsection (1)(a) above, consult as regards the proposal the owner, the crofters who share in the common grazing and such other persons as appear to the Commission to have an interest.
   >
@@ -1376,18 +1376,18 @@ In section 30 of the 1993 Act (compensation to crofter for improvements), after 
   > - (b) in any other case, jointly and severally by the crofters sharing in the common grazing.
 
   ;
-- (f)[^key-f49ac67067c453bf2c60218f2f739d47] for subsection (4) there is substituted—
+- (f)[^c-f49ac67067c453bf2c60218f2f739d47] for subsection (4) there is substituted—
 
   > (4) In this section, “**owner's consent**” means the consent of the owner referred to in subsection (1)(b) above (or a deemed such consent);
 
   ; and
-- (g)[^key-f49ac67067c453bf2c60218f2f739d47] at the end there is added—
+- (g)[^c-f49ac67067c453bf2c60218f2f739d47] at the end there is added—
 
   > (5) This section is without prejudice to section 50A of this Act and is subject to the terms of any agreement under that section.
 
   .
 
-(2)[^key-9069ad86ef392d87485bec336b903484][^key-434cbd18c2230fa7fbfe573e977ec06a] After section 50 of the 1993 Act, there is inserted—
+(2)[^c-9069ad86ef392d87485bec336b903484][^c-434cbd18c2230fa7fbfe573e977ec06a] After section 50 of the 1993 Act, there is inserted—
 
 > **50A. Joint forestry ventures etc.**
 >
@@ -1502,7 +1502,7 @@ In section 30 of the 1993 Act (compensation to crofter for improvements), after 
 
 .
 
-### 27. New common grazing[^key-53027ea35d34a302b8b83eafd37bf1f6]
+### 27. New common grazing[^c-53027ea35d34a302b8b83eafd37bf1f6]
 
 After section 51 of the 1993 Act, there is inserted—
 
@@ -1559,7 +1559,7 @@ After section 51 of the 1993 Act, there is inserted—
 
 .
 
-### 28. Contravention of, or failure to comply with, common grazings regulations[^key-9e872651f239c638d2bcc59b7b2f2dbe]
+### 28. Contravention of, or failure to comply with, common grazings regulations[^c-9e872651f239c638d2bcc59b7b2f2dbe]
 
 In section 52 of the 1993 Act (miscellaneous provisions as to common grazings etc.), for subsection (1) there is substituted—
 
@@ -1595,7 +1595,7 @@ In section 52 of the 1993 Act (miscellaneous provisions as to common grazings et
 
 .
 
-### 29. Further amendment of section 52: apportionment[^key-c25998decba3e10477cad89845ad29d6]
+### 29. Further amendment of section 52: apportionment[^c-c25998decba3e10477cad89845ad29d6]
 
 (1) Section 52 of the 1993 Act is amended as follows.
 
@@ -1635,7 +1635,7 @@ In section 52 of the 1993 Act (miscellaneous provisions as to common grazings et
 
 ## Part 5 — Schemes for development
 
-### 30. Schemes for development[^key-6fff21556658368fc0ac1a687ac6be83]
+### 30. Schemes for development[^c-6fff21556658368fc0ac1a687ac6be83]
 
 (1) After section 19 of the 1993 Act, there is inserted—
 
@@ -1727,7 +1727,7 @@ In section 52 of the 1993 Act (miscellaneous provisions as to common grazings et
 
 ## Part 6 — Crofting community right to buy
 
-### 31. Crofting community right to buy[^key-d34caba36420d69f059da252a1adb844]
+### 31. Crofting community right to buy[^c-d34caba36420d69f059da252a1adb844]
 
 (1) The Land Reform (Scotland) Act 2003 (asp 2) is amended as follows.
 
@@ -1787,7 +1787,7 @@ In section 52 of the 1993 Act (miscellaneous provisions as to common grazings et
 
 ### General
 
-#### 32. Regulations concerning loans[^key-fabbc7e8324fc2434acae6e342b3633c]
+#### 32. Regulations concerning loans[^c-fabbc7e8324fc2434acae6e342b3633c]
 
 After section 46 of the 1993 Act, there is inserted—
 
@@ -1811,7 +1811,7 @@ After section 46 of the 1993 Act, there is inserted—
 
 .
 
-#### 33. Appeal to Land Court and jurisdiction of that court[^key-13d8b90b4edc9df17b330df592fc92b8]
+#### 33. Appeal to Land Court and jurisdiction of that court[^c-13d8b90b4edc9df17b330df592fc92b8]
 
 (1) Before section 53 of the 1993 Act there is inserted—
 
@@ -1884,7 +1884,7 @@ After section 46 of the 1993 Act, there is inserted—
 
 .
 
-#### 34. Further amendments in relation to the Land Court[^key-e4330c53f54291930b756c68b32350ae]
+#### 34. Further amendments in relation to the Land Court[^c-e4330c53f54291930b756c68b32350ae]
 
 (1) Schedule 1 to the Scottish Land Court Act 1993 (c. 45) (incorporation etc. of the Scottish Land Court) is amended as follows.
 
@@ -1936,7 +1936,7 @@ After section 46 of the 1993 Act, there is inserted—
 
 (8) In paragraph 18 (payments to persons appointed etc.), for the words “or employed under paragraph 7” there is substituted “ , employed or as the case may be nominated under paragraph 7, 7A ”.
 
-#### 35. Public notification[^key-e786de4815be1b3fcf4c7ddbd621262e]
+#### 35. Public notification[^c-e786de4815be1b3fcf4c7ddbd621262e]
 
 After section 55 of the 1993 Act, there is inserted—
 
@@ -1956,7 +1956,7 @@ After section 55 of the 1993 Act, there is inserted—
 
 .
 
-#### 36. “Members of a family”[^key-2be3849e83fbb8e8490988040b22928c]
+#### 36. “Members of a family”[^c-2be3849e83fbb8e8490988040b22928c]
 
 In section 61 of the 1993 Act (interpretation)—
 
@@ -1996,7 +1996,7 @@ In section 61 of the 1993 Act (interpretation)—
 
   .
 
-#### 37. “Crofting community”[^key-26f587dbfea92e728a6859a22e335378]
+#### 37. “Crofting community”[^c-26f587dbfea92e728a6859a22e335378]
 
 In section 61(1) of the 1993 Act (interpretation), at the appropriate place there is inserted—
 
@@ -2013,7 +2013,7 @@ In this Act “**the 1993 Act**” means the Crofters (Scotland) Act 1993 (c. 44
 
 ### Miscellaneous
 
-#### 39. Minor and consequential amendments[^key-e949c5775cf3d67e74d7af7ff42d15a2]
+#### 39. Minor and consequential amendments[^c-e949c5775cf3d67e74d7af7ff42d15a2]
 
 Schedule 1 to this Act, which contains minor amendments and amendments consequential on the provisions of this Act, has effect.
 
@@ -2038,7 +2038,7 @@ Schedule 1 to this Act, which contains minor amendments and amendments consequen
 
 the Scottish Parliament.
 
-#### 42. Repeals[^key-1a2bb1a65dc6bfb9f2d6c3b409ffe3a4][^key-ee5759aa6e865ddea05c52dc52004b3f]
+#### 42. Repeals[^c-1a2bb1a65dc6bfb9f2d6c3b409ffe3a4][^c-ee5759aa6e865ddea05c52dc52004b3f]
 
 The enactments mentioned in schedule 2 to this Act are repealed to the extent mentioned in the second column of that schedule.
 
@@ -2058,11 +2058,11 @@ The enactments mentioned in schedule 2 to this Act are repealed to the extent me
 
 ### Crofters Holdings (Scotland) Act 1886 (c. 29)
 
-**1.**[^key-6b4377c0cfb1a4dffcf49e1153747aab] In section 1(4) of the Crofters Holdings (Scotland) Act 1886 (crofter not to be removed except for breach of statutory conditions), for the words “subdivide his holding or sublet the same” there is substituted “ sublet his holding ”.
+**1.**[^c-6b4377c0cfb1a4dffcf49e1153747aab] In section 1(4) of the Crofters Holdings (Scotland) Act 1886 (crofter not to be removed except for breach of statutory conditions), for the words “subdivide his holding or sublet the same” there is substituted “ sublet his holding ”.
 
 ### Crofters (Scotland) Act 1993 (c. 44)
 
-**2.**[^key-a0252cf9e265d5cfad27b73a4b35c544] (1) The 1993 Act is amended in accordance with this paragraph.
+**2.**[^c-a0252cf9e265d5cfad27b73a4b35c544] (1) The 1993 Act is amended in accordance with this paragraph.
 
 (2) In section 1(4) (constitution and general functions of the Crofters Commission), for the word “chairman” there is substituted “ convener ”.
 
@@ -2261,18 +2261,18 @@ The enactments mentioned in schedule 2 to this Act are repealed to the extent me
 
 ### Scottish Land Court Act 1993 (c. 45)
 
-**3.**[^key-af6bbd9bdfd239925213f5fcf78e9e36] In section 1(6) of the Scottish Land Court Act 1993 (jurisdiction of the Court), for the words “the Agricultural Holdings (Scotland) Act 2003 (asp 11)” there is substituted “ or by virtue of an Act of the Scottish Parliament ”.
+**3.**[^c-af6bbd9bdfd239925213f5fcf78e9e36] In section 1(6) of the Scottish Land Court Act 1993 (jurisdiction of the Court), for the words “the Agricultural Holdings (Scotland) Act 2003 (asp 11)” there is substituted “ or by virtue of an Act of the Scottish Parliament ”.
 
 ### Deer (Scotland) Act 1996 (c. 58)
 
-**4.**[^key-0fe91eab0fa3de4579aa5d427c0841f4] In section 26 of the Deer (Scotland) Act 1996 (right of occupier in respect of deer causing serious damage to crops etc.)—
+**4.**[^c-0fe91eab0fa3de4579aa5d427c0841f4] In section 26 of the Deer (Scotland) Act 1996 (right of occupier in respect of deer causing serious damage to crops etc.)—
 
 - (a) in subsection (2), at the end there is added “ and in relation to enclosed land (other than moorland) which is part of a common grazing, the subsection also applies to a person who for the purposes of the subsection is both duly authorised in writing by the grazings committee (provided the grazings committee have such reasonable ground as is mentioned in that subsection) and approved as is mentioned in paragraph (d) above ”; and
 - (b) in subsection (4), in each of paragraphs (a) and (d), after the word “occupier” there is inserted “ , or as the case may be the committee, ”.
 
 ### Land Reform (Scotland) Act 2003 (asp 2)
 
-**5.**[^key-256e9e2df10646dbae0706672743382e] (1) The Land Reform (Scotland) Act 2003 is amended in accordance with this paragraph.
+**5.**[^c-256e9e2df10646dbae0706672743382e] (1) The Land Reform (Scotland) Act 2003 is amended in accordance with this paragraph.
 
 (2) In section 68 (land which may be bought: eligible croft land), after subsection (1) there is inserted—
 
@@ -2471,7 +2471,7 @@ The enactments mentioned in schedule 2 to this Act are repealed to the extent me
 
 (18) In section 96(b) (limitation on effect of Part 3 of Land Reform (Scotland) Act 2003), after the word “land” there is inserted “ (or an interest created over land) ”.
 
-## SCHEDULE 2 — Repeals[^key-174182cd95074f5d05192e28980cad80][^key-29aa5e4dedfec1c0029c0de64c4d3f9e]
+## SCHEDULE 2 — Repeals[^c-174182cd95074f5d05192e28980cad80][^c-29aa5e4dedfec1c0029c0de64c4d3f9e]
 
 (introduced by section 42)
 
@@ -2482,110 +2482,110 @@ The enactments mentioned in schedule 2 to this Act are repealed to the extent me
 
 ## Annotations
 
-[^key-3c4f125b32e119978c1becf79bfcbeff]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2007/7/section/1) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-3c4f125b32e119978c1becf79bfcbeff]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2007/7/section/1) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-fc78d1ed76634779a06c19b31343fe44]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2007/7/section/2) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-fc78d1ed76634779a06c19b31343fe44]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2007/7/section/2) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-f1a09aa9a0560ebff12c2fef5ef9ca8e]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2007/7/section/3) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-f1a09aa9a0560ebff12c2fef5ef9ca8e]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2007/7/section/3) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-2ca8d7cf383942e7e60140b9ef0cf551]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2007/7/section/4) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-2ca8d7cf383942e7e60140b9ef0cf551]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2007/7/section/4) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-64c1367c7ec5b0d347bcda0c435bc114]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2007/7/section/5) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-64c1367c7ec5b0d347bcda0c435bc114]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2007/7/section/5) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-783bbd5f7c131af4dd4c4bd656262a73]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2007/7/section/6) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-783bbd5f7c131af4dd4c4bd656262a73]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2007/7/section/6) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-4f09bacf8caa9ecc5359cac23a7cf60a]: Commencement: S. 7(1)(a)(b)(2)(a)-(d)(i)(3) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-4f09bacf8caa9ecc5359cac23a7cf60a]: Commencement: S. 7(1)(a)(b)(2)(a)-(d)(i)(3) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-9628456eb09c9cccb0b2d65ff662f936]: Commencement: S. 7(1)(c) in force for specified purposes at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-9628456eb09c9cccb0b2d65ff662f936]: Commencement: S. 7(1)(c) in force for specified purposes at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-e1fef026a872dfa77e9c9b2f6dc4e896]: Commencement: S. 7(1)(c) in force in so far as not already in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-e1fef026a872dfa77e9c9b2f6dc4e896]: Commencement: S. 7(1)(c) in force in so far as not already in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-6b726a4a5e7e9ed302636441660d9bb4]: Commencement: S. 7(2)(e)-(h) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-6b726a4a5e7e9ed302636441660d9bb4]: Commencement: S. 7(2)(e)-(h) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-9dccd760fa4ff95e5da9624cfe0969a2]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2007/7/section/8) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-9dccd760fa4ff95e5da9624cfe0969a2]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2007/7/section/8) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-3b0e7bd524af72a95c628bfae9b28117]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2007/7/section/9) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-3b0e7bd524af72a95c628bfae9b28117]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2007/7/section/9) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-14dba24cda73889a7351e2f5c75c34cb]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2007/7/section/10) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-14dba24cda73889a7351e2f5c75c34cb]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2007/7/section/10) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-45b6387a93fb0e056c09f6b1b7cdec25]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/asp/2007/7/section/11/1) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-45b6387a93fb0e056c09f6b1b7cdec25]: Commencement: [S. 11(1)](https://www.legislation.gov.uk/asp/2007/7/section/11/1) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-634c31d490ee4788aad3c0af68354b80]: Commencement: [S. 11(2)](https://www.legislation.gov.uk/asp/2007/7/section/11/2)[(3)](https://www.legislation.gov.uk/asp/2007/7/section/11/3) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-634c31d490ee4788aad3c0af68354b80]: Commencement: [S. 11(2)](https://www.legislation.gov.uk/asp/2007/7/section/11/2)[(3)](https://www.legislation.gov.uk/asp/2007/7/section/11/3) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-9c02949305e2d4a34a463197e461b956]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2007/7/section/12) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-9c02949305e2d4a34a463197e461b956]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2007/7/section/12) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-2b2a73431f494416e052835377e18d02]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2007/7/section/13) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-2b2a73431f494416e052835377e18d02]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2007/7/section/13) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-6a91a19f9ce89f9ae7439edade27d544]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2007/7/section/14) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-6a91a19f9ce89f9ae7439edade27d544]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2007/7/section/14) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-afbca6e39c7315d544958e34a02cd085]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2007/7/section/15) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-afbca6e39c7315d544958e34a02cd085]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2007/7/section/15) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-6f5f2a6ad3fa26aef2cf05528400dbc7]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2007/7/section/16) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-6f5f2a6ad3fa26aef2cf05528400dbc7]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2007/7/section/16) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-39b13cdc029a751bfe7f779d8b5c0d8e]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2007/7/section/17) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-39b13cdc029a751bfe7f779d8b5c0d8e]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2007/7/section/17) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-e7bc19500d18a0b385f680bf35a0afb7]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2007/7/section/18) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-e7bc19500d18a0b385f680bf35a0afb7]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2007/7/section/18) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-ffb700a4cdec017ca0f6badd6796518e]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2007/7/section/19) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-ffb700a4cdec017ca0f6badd6796518e]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2007/7/section/19) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-da0feb887ba4e9e138ebb9a70cc76dc4]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2007/7/section/20) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-da0feb887ba4e9e138ebb9a70cc76dc4]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2007/7/section/20) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-67c41d1b91397da4a38adc36dde59ccc]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2007/7/section/21) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-67c41d1b91397da4a38adc36dde59ccc]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2007/7/section/21) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-04ea4f9e3e9701ea2f908d8375457993]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2007/7/section/22) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-04ea4f9e3e9701ea2f908d8375457993]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2007/7/section/22) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-2b9f3af8078f6ba33058347cdf8304fa]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2007/7/section/23) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-2b9f3af8078f6ba33058347cdf8304fa]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2007/7/section/23) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-fabcd02bdd3e277617c9d060f2b6c9ff]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2007/7/section/24) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-fabcd02bdd3e277617c9d060f2b6c9ff]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2007/7/section/24) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-988ca0c5ebe2459904e2f7d9bef8478c]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2007/7/section/25) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-988ca0c5ebe2459904e2f7d9bef8478c]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2007/7/section/25) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-f49ac67067c453bf2c60218f2f739d47]: Commencement: S. 26(1)(a)-(d)(f)(g) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-f49ac67067c453bf2c60218f2f739d47]: Commencement: S. 26(1)(a)-(d)(f)(g) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-b3c5996c330b9025b4f7c14c1f41830a]: Commencement: S. 26(1)(e) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-b3c5996c330b9025b4f7c14c1f41830a]: Commencement: S. 26(1)(e) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-9069ad86ef392d87485bec336b903484]: Commencement: S. 26(2) in force for specified purposes at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-9069ad86ef392d87485bec336b903484]: Commencement: S. 26(2) in force for specified purposes at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-434cbd18c2230fa7fbfe573e977ec06a]: Commencement: S. 26(2) in force in so far as not already in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-434cbd18c2230fa7fbfe573e977ec06a]: Commencement: S. 26(2) in force in so far as not already in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-53027ea35d34a302b8b83eafd37bf1f6]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2007/7/section/27) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-53027ea35d34a302b8b83eafd37bf1f6]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2007/7/section/27) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-9e872651f239c638d2bcc59b7b2f2dbe]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2007/7/section/28) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-9e872651f239c638d2bcc59b7b2f2dbe]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2007/7/section/28) in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-c25998decba3e10477cad89845ad29d6]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2007/7/section/29) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-c25998decba3e10477cad89845ad29d6]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2007/7/section/29) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-6fff21556658368fc0ac1a687ac6be83]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2007/7/section/30) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-6fff21556658368fc0ac1a687ac6be83]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2007/7/section/30) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-d34caba36420d69f059da252a1adb844]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2007/7/section/31) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-d34caba36420d69f059da252a1adb844]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2007/7/section/31) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-fabbc7e8324fc2434acae6e342b3633c]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2007/7/section/32) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-fabbc7e8324fc2434acae6e342b3633c]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2007/7/section/32) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-13d8b90b4edc9df17b330df592fc92b8]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2007/7/section/33) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-13d8b90b4edc9df17b330df592fc92b8]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2007/7/section/33) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-e4330c53f54291930b756c68b32350ae]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2007/7/section/34) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-e4330c53f54291930b756c68b32350ae]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2007/7/section/34) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-e786de4815be1b3fcf4c7ddbd621262e]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2007/7/section/35) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-e786de4815be1b3fcf4c7ddbd621262e]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2007/7/section/35) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-2be3849e83fbb8e8490988040b22928c]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2007/7/section/36) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-2be3849e83fbb8e8490988040b22928c]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2007/7/section/36) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-26f587dbfea92e728a6859a22e335378]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2007/7/section/37) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-26f587dbfea92e728a6859a22e335378]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2007/7/section/37) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-e949c5775cf3d67e74d7af7ff42d15a2]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2007/7/section/39) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-e949c5775cf3d67e74d7af7ff42d15a2]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2007/7/section/39) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-1a2bb1a65dc6bfb9f2d6c3b409ffe3a4]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2007/7/section/42) in force for specified purposes at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-1a2bb1a65dc6bfb9f2d6c3b409ffe3a4]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2007/7/section/42) in force for specified purposes at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-ee5759aa6e865ddea05c52dc52004b3f]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2007/7/section/42) in force in so far as not already in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-ee5759aa6e865ddea05c52dc52004b3f]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2007/7/section/42) in force in so far as not already in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
 
-[^key-6b4377c0cfb1a4dffcf49e1153747aab]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/1) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-6b4377c0cfb1a4dffcf49e1153747aab]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/1) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-a0252cf9e265d5cfad27b73a4b35c544]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/2) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-a0252cf9e265d5cfad27b73a4b35c544]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/2) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-af6bbd9bdfd239925213f5fcf78e9e36]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/3) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-af6bbd9bdfd239925213f5fcf78e9e36]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/3) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-0fe91eab0fa3de4579aa5d427c0841f4]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/4) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-0fe91eab0fa3de4579aa5d427c0841f4]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/4) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-256e9e2df10646dbae0706672743382e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/5) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-256e9e2df10646dbae0706672743382e]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2007/7/schedule/1/paragraph/5) in force at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-174182cd95074f5d05192e28980cad80]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2007/7/schedule/2) in force for specified purposes at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
+[^c-174182cd95074f5d05192e28980cad80]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2007/7/schedule/2) in force for specified purposes at 25.6.2007 by [S.S.I. 2007/269](https://www.legislation.gov.uk/ssi/2007/269), [art. 2](https://www.legislation.gov.uk/ssi/2007/269/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/269/schedule)
 
-[^key-29aa5e4dedfec1c0029c0de64c4d3f9e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2007/7/schedule/2) in force in so far as not already in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)
+[^c-29aa5e4dedfec1c0029c0de64c4d3f9e]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2007/7/schedule/2) in force in so far as not already in force at 28.1.2008 by [S.S.I. 2007/568](https://www.legislation.gov.uk/ssi/2007/568), [art. 2](https://www.legislation.gov.uk/ssi/2007/568/article/2)

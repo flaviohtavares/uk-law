@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 277. Amendments relating to the Pensions Compensation Board[^key-61f68d2b5f36d4fe57ef0f04117dad76]
+## 277. Amendments relating to the Pensions Compensation Board[^c-61f68d2b5f36d4fe57ef0f04117dad76]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61f68d2b5f36d4fe57ef0f04117dad76]: Commencement: S. 277 in force at 17.12.2004 by [S.I. 2004/3350](https://www.legislation.gov.uk/uksi/2004/3350), [art. 2](https://www.legislation.gov.uk/uksi/2004/3350/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3350/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3350/article/4))
+[^c-61f68d2b5f36d4fe57ef0f04117dad76]: Commencement: S. 277 in force at 17.12.2004 by [S.I. 2004/3350](https://www.legislation.gov.uk/uksi/2004/3350), [art. 2](https://www.legislation.gov.uk/uksi/2004/3350/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/3350/schedule) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3350/article/4))

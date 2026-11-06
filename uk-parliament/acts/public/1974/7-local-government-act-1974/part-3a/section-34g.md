@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34G. Investigations: further provisions[^key-3be642587f35d5597f082e2a19a13cd9]
+## 34G. Investigations: further provisions[^c-3be642587f35d5597f082e2a19a13cd9]
 
 *Extent: E+W*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the adult social care provider concerned;
 - (b) any other person who in the Local Commissioner's opinion is able to furnish any such information or produce any such documents.
 
-(2) Nothing in subsection (1) affects the restriction imposed by section 34X[^key-277564a872a2464913bab227179aafcb] of the PSOWA 2005.
+(2) Nothing in subsection (1) affects the restriction imposed by section 34X[^c-277564a872a2464913bab227179aafcb] of the PSOWA 2005.
 
 (3) For the purposes of an investigation under this Part a Local Commissioner has the same powers as the High Court in respect of—
 
@@ -54,6 +54,6 @@ the Local Commissioner may certify the offence to the High Court.
 
 ## Annotations
 
-[^key-3be642587f35d5597f082e2a19a13cd9]: Textual amendment: Pt. 3A inserted (1.10.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/2); [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
+[^c-3be642587f35d5597f082e2a19a13cd9]: Textual amendment: Pt. 3A inserted (1.10.2010) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [s. 40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2009/21/schedule/5/paragraph/2); [S.I. 2010/1863](https://www.legislation.gov.uk/uksi/2010/1863), [art. 2](https://www.legislation.gov.uk/uksi/2010/1863/article/2)
 
-[^key-277564a872a2464913bab227179aafcb]: Textual amendment: Word in s. 34G(2) substituted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/8); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)
+[^c-277564a872a2464913bab227179aafcb]: Textual amendment: Word in s. 34G(2) substituted (1.11.2014) by [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4), [s. 199(2)](https://www.legislation.gov.uk/anaw/2014/4/section/199/2), [Sch. 3 para. 8](https://www.legislation.gov.uk/anaw/2014/4/schedule/3/paragraph/8); [S.I. 2014/2718](https://www.legislation.gov.uk/wsi/2014/2718), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/2718/article/2/b)

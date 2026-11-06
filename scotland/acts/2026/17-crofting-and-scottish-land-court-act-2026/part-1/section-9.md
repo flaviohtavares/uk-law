@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Statutory conditions: entitlement to fixed equipment[^key-4e3acdda6dd9c0ed5e1dc8a477bf804c]
+## 9. Statutory conditions: entitlement to fixed equipment[^c-4e3acdda6dd9c0ed5e1dc8a477bf804c]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e3acdda6dd9c0ed5e1dc8a477bf804c]: Commencement: S. 9 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-4e3acdda6dd9c0ed5e1dc8a477bf804c]: Commencement: S. 9 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

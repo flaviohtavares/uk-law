@@ -30,7 +30,7 @@ summary: ''
 
 PENSIONS
 
-The Occupational Pension Schemes (Validation of Rule Alterations) Regulations (Northern Ireland) 1998 (revoked)[^key-daa594f02e028ee1871f02944d6cf324]
+The Occupational Pension Schemes (Validation of Rule Alterations) Regulations (Northern Ireland) 1998 (revoked)[^c-daa594f02e028ee1871f02944d6cf324]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 26th August 1998
 
-[^key-daa594f02e028ee1871f02944d6cf324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-daa594f02e028ee1871f02944d6cf324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-daa594f02e028ee1871f02944d6cf324]
+## 1. Citation, commencement and interpretation[^c-daa594f02e028ee1871f02944d6cf324]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Validation of rule alterations made before 6th April 1997[^key-daa594f02e028ee1871f02944d6cf324]
+## 2. Validation of rule alterations made before 6th April 1997[^c-daa594f02e028ee1871f02944d6cf324]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-daa594f02e028ee1871f02944d6cf324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-daa594f02e028ee1871f02944d6cf324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-daa594f02e028ee1871f02944d6cf324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-daa594f02e028ee1871f02944d6cf324]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-daa594f02e028ee1871f02944d6cf324]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/267) revoked (6.4.2019) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [art. 31](https://www.legislation.gov.uk/nisr/2016/158/article/31)
+[^c-daa594f02e028ee1871f02944d6cf324]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/267) revoked (6.4.2019) by [The Pensions (2015 Act) (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order (Northern Ireland) 2016 (S.R. 2016/158)](https://www.legislation.gov.uk/nisr/2016/158), [art. 31](https://www.legislation.gov.uk/nisr/2016/158/article/31)

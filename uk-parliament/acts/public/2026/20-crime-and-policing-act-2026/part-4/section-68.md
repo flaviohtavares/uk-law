@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Causing internal concealment of item for criminal purpose[^key-e0ec76786926ae013bf349787b5ab46b]
+## 68. Causing internal concealment of item for criminal purpose[^c-e0ec76786926ae013bf349787b5ab46b]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0ec76786926ae013bf349787b5ab46b]: Commencement: S. 68 in force at Royal Assent for specified purposes, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/a)
+[^c-e0ec76786926ae013bf349787b5ab46b]: Commencement: S. 68 in force at Royal Assent for specified purposes, see [s. 255(2)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c4113571][^c4113581][^c4113591][^key-e582a9d18b12108ff92d246c2b7bc81b]
+## 33. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c4113571][^c4113581][^c4113591][^c-e582a9d18b12108ff92d246c2b7bc81b]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c4113591]: Modification: S. 33 applied (2.10.2001) by [S.I. 1990/266](https://www.legislation.gov.uk/uksi/1990/266), [reg. 2(1)](https://www.legislation.gov.uk/uksi/1990/266/regulation/2/1) (as inserted (2.10.2001) by [S.I. 2001/3286](https://www.legislation.gov.uk/uksi/2001/3286), [reg. 3(4)](https://www.legislation.gov.uk/uksi/2001/3286/regulation/3/4))
 
-[^key-e582a9d18b12108ff92d246c2b7bc81b]: Modification: S. 33 as saved modified (S.) (30.11.2005) by [The Electricity from Non-Fossil Fuel Sources (Scotland) Saving Arrangements Order 2005 (S.S.I. 2005/549)](https://www.legislation.gov.uk/ssi/2005/549), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/549/article/1/1), [10](https://www.legislation.gov.uk/ssi/2005/549/article/10)
+[^c-e582a9d18b12108ff92d246c2b7bc81b]: Modification: S. 33 as saved modified (S.) (30.11.2005) by [The Electricity from Non-Fossil Fuel Sources (Scotland) Saving Arrangements Order 2005 (S.S.I. 2005/549)](https://www.legislation.gov.uk/ssi/2005/549), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2005/549/article/1/1), [10](https://www.legislation.gov.uk/ssi/2005/549/article/10)

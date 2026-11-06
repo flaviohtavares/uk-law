@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Changes to conditions for registration[^key-8f263707c5f74e7c2cec5984dbf03060]
+## 18. Changes to conditions for registration[^c-8f263707c5f74e7c2cec5984dbf03060]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A securitisation repository must, without undue delay, notify the FCA of any mat
 
 ## Annotations
 
-[^key-8f263707c5f74e7c2cec5984dbf03060]: Commencement: Reg. 18 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)
+[^c-8f263707c5f74e7c2cec5984dbf03060]: Commencement: Reg. 18 in force at 30.1.2024 for specified purposes and 1.11.2024 (the main commencement day) in so far as not already in force, see [reg. 2(1)(e)](https://www.legislation.gov.uk/uksi/2024/102/regulation/2/1/e)(2)

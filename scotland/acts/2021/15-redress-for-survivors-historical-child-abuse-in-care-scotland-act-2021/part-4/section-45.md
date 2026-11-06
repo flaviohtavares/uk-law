@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Information about previous payments: further provision[^key-6522228e925426e9dbff1435e831bd34]
+## 45. Information about previous payments: further provision[^c-6522228e925426e9dbff1435e831bd34]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6522228e925426e9dbff1435e831bd34]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2021/15/section/45) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-6522228e925426e9dbff1435e831bd34]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2021/15/section/45) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Admissible evidence[^key-75d57a98576f7e41a38ca2a56af7efa6]
+## 49. Admissible evidence[^c-75d57a98576f7e41a38ca2a56af7efa6]
 
 *Extent: E+W+S+N.I.*
 
 (1) An answer given by a person in compliance with article 47(1)(c)(ii) is admissible in evidence—
 
-- (a) in England, Wales and Northern Ireland, against that person in any proceedings,[^key-86b6e49b476918624f1e5067ec303ec5]
+- (a) in England, Wales and Northern Ireland, against that person in any proceedings,[^c-86b6e49b476918624f1e5067ec303ec5]
 - (b) in Scotland, against that person in criminal proceedings.
 
 (2) In criminal proceedings in which the person referred to in paragraph (1) is charged with an offence, no evidence relating to the person’s answer may be adduced and no question relating to it may be asked by, or on behalf of, the prosecution unless evidence relating to it has been adduced by, or on behalf of, the person.
@@ -35,9 +35,9 @@ summary: ''
 
 ## Annotations
 
-[^key-75d57a98576f7e41a38ca2a56af7efa6]: Commencement: Art. 49 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-75d57a98576f7e41a38ca2a56af7efa6]: Commencement: Art. 49 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-86b6e49b476918624f1e5067ec303ec5]: Textual amendment: [Art. 49](https://www.legislation.gov.uk/uksi/2021/534/article/49): comma substituted for semicolon (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [4](https://www.legislation.gov.uk/uksi/2022/1050/article/4)
+[^c-86b6e49b476918624f1e5067ec303ec5]: Textual amendment: [Art. 49](https://www.legislation.gov.uk/uksi/2021/534/article/49): comma substituted for semicolon (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [4](https://www.legislation.gov.uk/uksi/2022/1050/article/4)
 
 [^f00043]: Footnote: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6).
 

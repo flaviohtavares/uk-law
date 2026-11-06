@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Regulatory committee: lay and legal members[^key-0f6241a7ef151aca67971e849d6d543f][^key-2a97e97055bf789e11a18b11fad868cd]
+## 10. Regulatory committee: lay and legal members[^c-0f6241a7ef151aca67971e849d6d543f][^c-2a97e97055bf789e11a18b11fad868cd]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f6241a7ef151aca67971e849d6d543f]: Commencement: S. 10 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-0f6241a7ef151aca67971e849d6d543f]: Commencement: S. 10 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
 
-[^key-2a97e97055bf789e11a18b11fad868cd]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2025/8/section/10) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)
+[^c-2a97e97055bf789e11a18b11fad868cd]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2025/8/section/10) in force at 5.3.2026 for specified purposes by [S.S.I. 2026/96](https://www.legislation.gov.uk/ssi/2026/96), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2026/96/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2026/96/schedule/1)

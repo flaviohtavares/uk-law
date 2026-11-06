@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section applies to any qualifying investments comprised in a person’s estate immediately before his death in respect of which listing[^c13613061] on a recognised stock exchange [^key-1e7e90a3d2c62548f3826a9392376bba]... is suspended at the end of the period of twelve months immediately following the date of the death (“**the relevant period**”).
+(1) This section applies to any qualifying investments comprised in a person’s estate immediately before his death in respect of which listing[^c13613061] on a recognised stock exchange [^c-1e7e90a3d2c62548f3826a9392376bba]... is suspended at the end of the period of twelve months immediately following the date of the death (“**the relevant period**”).
 
 (2) Where—
 
@@ -37,4 +37,4 @@ they shall be treated for the purposes of this Chapter as having been sold by th
 
 [^c13613061]: Textual amendment: Word in [s. 186B(1)](https://www.legislation.gov.uk/ukpga/1984/51/section/186B/1) substituted (29.4.1996 with effect in relation to investments sold, or treated as sold, on or after 1.4.1996) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 199](https://www.legislation.gov.uk/ukpga/1996/8/section/199), [Sch. 38 para. 4(2)(3)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/38/paragraph/4/2/3)
 
-[^key-1e7e90a3d2c62548f3826a9392376bba]: Textual amendment: Words in [s. 186B(1)](https://www.legislation.gov.uk/ukpga/1984/51/section/186B/1) omitted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 12(5)(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/12/5/c), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)
+[^c-1e7e90a3d2c62548f3826a9392376bba]: Textual amendment: Words in [s. 186B(1)](https://www.legislation.gov.uk/ukpga/1984/51/section/186B/1) omitted (with effect in accordance with Sch. 12 para. 17 of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 12(5)(c)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/12/5/c), [17](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/17)

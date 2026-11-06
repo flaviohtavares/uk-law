@@ -127,7 +127,7 @@ In regulation 4 of the Health and Safety (Enforcing Authority) Regulations 1998 
 
 .
 
-### 8. The Care Homes Regulations 2001[^key-29a9d25d4a1d93ba93106a84b3806168]
+### 8. The Care Homes Regulations 2001[^c-29a9d25d4a1d93ba93106a84b3806168]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -145,7 +145,7 @@ Regulation 32 of the Children's Homes Regulations 2001 [^c12251071] (fire precau
 
   .
 
-### 10. The Private and Voluntary Care (England) Regulations 2001[^key-612934d76c6139d863342554124b97be]
+### 10. The Private and Voluntary Care (England) Regulations 2001[^c-612934d76c6139d863342554124b97be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -294,11 +294,11 @@ Regulation 22 of the Residential Family Centres (Wales) Regulations 2003 [^c1225
 
 [^c12251051]: Marginal citation: [S.I. 2000/2532](https://www.legislation.gov.uk/uksi/2000/2532); relevant amendments were made by [S.I. 2004/3168](https://www.legislation.gov.uk/uksi/2004/3168).
 
-[^key-29a9d25d4a1d93ba93106a84b3806168]: Textual amendment: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2005/1541/schedule/3/paragraph/8) revoked (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
+[^c-29a9d25d4a1d93ba93106a84b3806168]: Textual amendment: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/2005/1541/schedule/3/paragraph/8) revoked (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
 
 [^c12251071]: Marginal citation: [S.I. 2001/3967](https://www.legislation.gov.uk/uksi/2001/3967); relevant amendments were made by [S.I. 2004/3168](https://www.legislation.gov.uk/uksi/2004/3168).
 
-[^key-612934d76c6139d863342554124b97be]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2005/1541/schedule/3/paragraph/10) revoked (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
+[^c-612934d76c6139d863342554124b97be]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2005/1541/schedule/3/paragraph/10) revoked (1.10.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/807/schedule/2)
 
 [^c12251091]: Marginal citation: [S.I. 2002/324](https://www.legislation.gov.uk/uksi/2002/324) (W. 37) to which there are amendments not relevant to this Order.
 

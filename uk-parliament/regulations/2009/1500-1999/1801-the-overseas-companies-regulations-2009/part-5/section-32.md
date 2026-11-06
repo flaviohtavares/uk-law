@@ -20,7 +20,7 @@ summary: ''
 
 (2) Where the company's parent law permits it to discharge its obligation with respect to the disclosure of accounting documents by disclosing documents in a modified form, the directors may discharge their obligation under paragraph (1) by delivering a copy of documents modified as permitted by that law.
 
-(3)[^key-9b434496d0b1a6c5c57e2ae383c01dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9b434496d0b1a6c5c57e2ae383c01dd9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) This regulation does not apply in relation to copies of accounting documents disclosed under the company's parent law before—
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b434496d0b1a6c5c57e2ae383c01dd9]: Textual amendment: [Reg. 32(3)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/32/3) omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b434496d0b1a6c5c57e2ae383c01dd9]: Textual amendment: [Reg. 32(3)](https://www.legislation.gov.uk/uksi/2009/1801/regulation/32/3) omitted (31.12.2020) by virtue of [The Accounts and Reports (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/145)](https://www.legislation.gov.uk/uksi/2019/145), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/145/regulation/1/2/c), [Sch. 3 para. 25](https://www.legislation.gov.uk/uksi/2019/145/schedule/3/paragraph/25); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

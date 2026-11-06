@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 73. Exclusion of certain representations[^key-622a5be81de077cfc56285d873154a6e]
+## 73. Exclusion of certain representations[^c-622a5be81de077cfc56285d873154a6e]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-622a5be81de077cfc56285d873154a6e]: Commencement: S. 73 in force at 30.4.2005 by [S.I. 2005/1229](https://www.legislation.gov.uk/uksi/2005/1229), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/1229/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/1229/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/1229/schedule)) (which transitional provisions in art. 4 are revoked (15.10.2005) by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), art. 4)
+[^c-622a5be81de077cfc56285d873154a6e]: Commencement: S. 73 in force at 30.4.2005 by [S.I. 2005/1229](https://www.legislation.gov.uk/uksi/2005/1229), [art. 2(d)](https://www.legislation.gov.uk/uksi/2005/1229/article/2/d) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/1229/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/1229/schedule)) (which transitional provisions in art. 4 are revoked (15.10.2005) by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), art. 4)

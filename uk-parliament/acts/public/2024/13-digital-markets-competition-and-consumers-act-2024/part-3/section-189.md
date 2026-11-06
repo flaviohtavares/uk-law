@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Final breach of undertakings enforcement notice[^key-a50771385aff82170ea35dde0ed07cef][^key-86c6d60ff7ecf405c93463d5f27e9102]
+## 189. Final breach of undertakings enforcement notice[^c-a50771385aff82170ea35dde0ed07cef][^c-86c6d60ff7ecf405c93463d5f27e9102]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a50771385aff82170ea35dde0ed07cef]: Commencement: S. 189 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a50771385aff82170ea35dde0ed07cef]: Commencement: S. 189 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-86c6d60ff7ecf405c93463d5f27e9102]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2024/13/section/189) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-86c6d60ff7ecf405c93463d5f27e9102]: Commencement: [S. 189](https://www.legislation.gov.uk/ukpga/2024/13/section/189) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

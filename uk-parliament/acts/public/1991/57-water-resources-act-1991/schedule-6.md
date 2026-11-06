@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — Orders relating to abstraction of small quantities and compulsory registration of protected rights[^key-bb96764fdc5e2c2ba46f3223ae54c1b7]
+## SCHEDULE 6 — Orders relating to abstraction of small quantities and compulsory registration of protected rights[^c-bb96764fdc5e2c2ba46f3223ae54c1b7]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ Sections 27A(4) and 39B(7)
 
 **1.** (1) An application to the Secretary of State for an order under section 27A(1) or 39B(3) of this Act (an “order”) shall be accompanied by a draft of the proposed order.
 
-(2) Before submitting a draft order to the Secretary of State, the appropriate agency[^key-45adb7e1d622e2a5cb0fee66ceb89e34] shall publish a notice—
+(2) Before submitting a draft order to the Secretary of State, the appropriate agency[^c-45adb7e1d622e2a5cb0fee66ceb89e34] shall publish a notice—
 
 - (a) stating the general effect of the draft order;
 - (b) specifying the place where a copy of the draft order, and of any relevant map or plan, may be inspected by any person free of charge at all reasonable times during the period of twenty-eight days beginning with the date of first publication of the notice; and
@@ -37,9 +37,9 @@ Sections 27A(4) and 39B(7)
 - (a) at least once in each of two successive weeks, in one or more newspapers circulating in the area to which the draft order relates; or
 - (b) in any other manner which, in any particular case, may be certified by the Secretary of State to be expedient in that case.
 
-(4) Not later than the date on which the notice is first published in pursuance of sub-paragraph (2) above, the appropriate agency[^key-e4ddb8f1bdfeebe9031047c3307c5527] shall serve a copy of the notice on—
+(4) Not later than the date on which the notice is first published in pursuance of sub-paragraph (2) above, the appropriate agency[^c-e4ddb8f1bdfeebe9031047c3307c5527] shall serve a copy of the notice on—
 
-- (a) every local authority (in its capacity as the local planning authority), joint planning board , National Park authority or[^key-5c45926cd229faea25f4f82215cc768a] corporate joint committee[^key-fc5259ee9e90849e64210ff277f4ac31] whose area consists of, includes or is included in the area to which the draft order relates;
+- (a) every local authority (in its capacity as the local planning authority), joint planning board , National Park authority or[^c-5c45926cd229faea25f4f82215cc768a] corporate joint committee[^c-fc5259ee9e90849e64210ff277f4ac31] whose area consists of, includes or is included in the area to which the draft order relates;
 - (b) any relevant water undertaker;
 - (c) any internal drainage board—
   - (i) whose district consists of, includes or is included in the area to which the draft order relates;
@@ -52,11 +52,11 @@ Sections 27A(4) and 39B(7)
 - (f) any person authorised by a licence under Part 1 of the Electricity Act 1989 to generate electricity who is (in that capacity) the holder of a licence to abstract water under Chapter 2 of Part 2 of this Act from—
   - (i) any relevant source of supply; or
   - (ii) any related inland waters;
-- (g) Natural England[^key-9962a441270f006e81f1d25812fef698], if the area to which the order relates is or includes England, or part of it; and[^key-a442c62e1eacf20da12fb322e985ee60]
-- (h)[^key-52dd1db3a52918e877590a44bf567a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) Natural England[^c-9962a441270f006e81f1d25812fef698], if the area to which the order relates is or includes England, or part of it; and[^c-a442c62e1eacf20da12fb322e985ee60]
+- (h)[^c-52dd1db3a52918e877590a44bf567a17] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) the Broads Authority (established under the Norfolk and Suffolk Broads Act 1988), if the area to which the order relates is or includes the Broads (as defined in that Act), or part of it.
 
-(5) Where an application for an order is made, the appropriate agency[^key-2dcddfeed41bf64710c26017573631a8] shall also publish a notice in the London Gazette—
+(5) Where an application for an order is made, the appropriate agency[^c-2dcddfeed41bf64710c26017573631a8] shall also publish a notice in the London Gazette—
 
 - (a) stating that the draft order has been submitted to the Secretary of State;
 - (b) naming the areas of each of the authorities or boards in respect of which a copy of the notice is required to be served under sub-paragraph (4)(a) above;
@@ -67,19 +67,19 @@ Sections 27A(4) and 39B(7)
 
 - (a) where a draft order makes provision generally (rather than for a specified geographical area), references to the area to which the order relates are to the whole area (whether England, Wales or both of them) in relation to which the order is applied;
 - (b) references to a National Park authority are to a National Park authority established under Part 3 of the 1995 Act;
-- (ba)[^key-d4da858a21138b0a6de6c930f280a81b] references to a corporate joint committee are to a corporate joint committee to which Part 6 of the Planning and Compulsory Purchase Act 2004 applies by virtue of regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;
+- (ba)[^c-d4da858a21138b0a6de6c930f280a81b] references to a corporate joint committee are to a corporate joint committee to which Part 6 of the Planning and Compulsory Purchase Act 2004 applies by virtue of regulations under Part 5 of the Local Government and Elections (Wales) Act 2021;
 - (c) a “**relevant source of supply**”, in relation to a draft order, means—
   - (i) if the draft order relates only to particular sources of supply (or a class of them) in an area, any of those sources of supply (or any source of supply in that class) in that area;
   - (ii) otherwise, any source of supply in the area to which the draft order relates;
 - (d) a “**relevant water undertaker**”, in relation to a draft order, means a water undertaker which is the holder of a licence to abstract water under Chapter 2 of Part 2 of this Act from—
   - (i) a relevant source of supply; or
   - (ii) a source of supply which is related to a relevant source of supply;
-- (e) for the purposes of paragraph (d) above, a source of supply (the “related source”) is related to a relevant source of supply if it appears to the appropriate agency[^key-a982e591f1a75719e041cf51359aac3d] that, having regard to the extent to which the level or flow of water in the related source depends on the level or flow of the waters in the relevant source of supply, the ability of the water undertaker to abstract water from the related source in accordance with its licence may be substantially affected as a result of the draft order;
+- (e) for the purposes of paragraph (d) above, a source of supply (the “related source”) is related to a relevant source of supply if it appears to the appropriate agency[^c-a982e591f1a75719e041cf51359aac3d] that, having regard to the extent to which the level or flow of water in the related source depends on the level or flow of the waters in the relevant source of supply, the ability of the water undertaker to abstract water from the related source in accordance with its licence may be substantially affected as a result of the draft order;
 - (f) “related inland waters” are inland waters the level or flow of which may, in the appropriate agency's opinion, be affected by changes in the level or flow of the waters in a relevant source of supply.
 
 ### Duty to provide copy of draft order
 
-**2.** Where an application for an order is made, the appropriate agency[^key-9a1812bed5abb031d7df3b12afc5b91a] shall, at the request of any person, furnish him with a copy of the draft order on payment of such charge as the appropriate agency thinks reasonable.
+**2.** Where an application for an order is made, the appropriate agency[^c-9a1812bed5abb031d7df3b12afc5b91a] shall, at the request of any person, furnish him with a copy of the draft order on payment of such charge as the appropriate agency thinks reasonable.
 
 ### Making of order
 
@@ -125,26 +125,26 @@ and the appropriate agency shall forthwith publish the notice.
 
 ## Annotations
 
-[^key-bb96764fdc5e2c2ba46f3223ae54c1b7]: Textual amendment: Sch. 6 substituted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/14); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
+[^c-bb96764fdc5e2c2ba46f3223ae54c1b7]: Textual amendment: Sch. 6 substituted (1.4.2004) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/14); [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [art. 3(y)](https://www.legislation.gov.uk/uksi/2004/641/article/3/y), [Sch. 2](https://www.legislation.gov.uk/uksi/2004/641/schedule/2) (with [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2004/641/schedule/3/paragraph/7))
 
-[^key-45adb7e1d622e2a5cb0fee66ceb89e34]: Textual amendment: Words in Sch. 6 para. 1(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-45adb7e1d622e2a5cb0fee66ceb89e34]: Textual amendment: Words in Sch. 6 para. 1(2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/2/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-e4ddb8f1bdfeebe9031047c3307c5527]: Textual amendment: Words in Sch. 6 para. 1(4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(2)(b)(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/2/b/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-e4ddb8f1bdfeebe9031047c3307c5527]: Textual amendment: Words in Sch. 6 para. 1(4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(2)(b)(i)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/2/b/i) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-5c45926cd229faea25f4f82215cc768a]: Textual amendment: Words in Sch. 6 para. 1(4)(a) substituted (6.9.2015 for specified purposes, 7.1.2021 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/anaw/2015/4/schedule/2/paragraph/16/a); [S.I. 2021/7](https://www.legislation.gov.uk/wsi/2021/7), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/7/regulation/2/c)
+[^c-5c45926cd229faea25f4f82215cc768a]: Textual amendment: Words in Sch. 6 para. 1(4)(a) substituted (6.9.2015 for specified purposes, 7.1.2021 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/anaw/2015/4/schedule/2/paragraph/16/a); [S.I. 2021/7](https://www.legislation.gov.uk/wsi/2021/7), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/7/regulation/2/c)
 
-[^key-fc5259ee9e90849e64210ff277f4ac31]: Textual amendment: Words in Sch. 6 para. 1(4)(a) substituted (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 30(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/30/a)
+[^c-fc5259ee9e90849e64210ff277f4ac31]: Textual amendment: Words in Sch. 6 para. 1(4)(a) substituted (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 30(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/30/a)
 
-[^key-9962a441270f006e81f1d25812fef698]: Textual amendment: Words in Sch. 6 para. 1(4)(g) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 133](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/133); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-9962a441270f006e81f1d25812fef698]: Textual amendment: Words in Sch. 6 para. 1(4)(g) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 133](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/133); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-a442c62e1eacf20da12fb322e985ee60]: Textual amendment: Word in Sch. 6 para. 1(4)(g) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/2/b/ii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a442c62e1eacf20da12fb322e985ee60]: Textual amendment: Word in Sch. 6 para. 1(4)(g) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/2/b/ii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-52dd1db3a52918e877590a44bf567a17]: Textual amendment: Sch. 6 para. 1(4)(h) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/2/b/iii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-52dd1db3a52918e877590a44bf567a17]: Textual amendment: Sch. 6 para. 1(4)(h) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(2)(b)(iii)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/2/b/iii) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-2dcddfeed41bf64710c26017573631a8]: Textual amendment: Words in Sch. 6 para. 1(5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(2)(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/2/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-2dcddfeed41bf64710c26017573631a8]: Textual amendment: Words in Sch. 6 para. 1(5) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(2)(c)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/2/c) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-d4da858a21138b0a6de6c930f280a81b]: Textual amendment: Sch. 6 para. 1(6)(ba) substituted (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 30(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/30/b)
+[^c-d4da858a21138b0a6de6c930f280a81b]: Textual amendment: Sch. 6 para. 1(6)(ba) substituted (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 30(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/30/b)
 
-[^key-a982e591f1a75719e041cf51359aac3d]: Textual amendment: Words in Sch. 6 para. 1(6) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(2)(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/2/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a982e591f1a75719e041cf51359aac3d]: Textual amendment: Words in Sch. 6 para. 1(6) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(2)(d)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/2/d) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-9a1812bed5abb031d7df3b12afc5b91a]: Textual amendment: Words in [Sch. 6 paras. 2-4](https://www.legislation.gov.uk/ukpga/1991/57/schedule/6/paragraph/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-9a1812bed5abb031d7df3b12afc5b91a]: Textual amendment: Words in [Sch. 6 paras. 2-4](https://www.legislation.gov.uk/ukpga/1991/57/schedule/6/paragraph/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 308(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/308/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

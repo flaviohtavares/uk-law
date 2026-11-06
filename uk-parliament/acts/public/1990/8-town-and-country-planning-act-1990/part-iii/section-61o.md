@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61O. Guidance[^key-085bd6d7b9124e0e88168558f5368a7b][^key-99c58ceb70d9a80231e26e93f5bf37c9]
+## 61O. Guidance[^c-085bd6d7b9124e0e88168558f5368a7b][^c-99c58ceb70d9a80231e26e93f5bf37c9]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Local planning authorities must have regard to any guidance issued by the Secret
 
 ## Annotations
 
-[^key-085bd6d7b9124e0e88168558f5368a7b]: Modification: S. 61O applied by 2004 c. 5, s. 38C(2)(e) (as inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/7); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4))
+[^c-085bd6d7b9124e0e88168558f5368a7b]: Modification: S. 61O applied by 2004 c. 5, s. 38C(2)(e) (as inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/7); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4))
 
-[^key-99c58ceb70d9a80231e26e93f5bf37c9]: Textual amendment: Ss. 61E-61Q and cross-heading inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/2); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)
+[^c-99c58ceb70d9a80231e26e93f5bf37c9]: Textual amendment: Ss. 61E-61Q and cross-heading inserted (15.11.2011 for specified purposes, 6.4.2012 for specified purposes) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)(5)(j)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/5/j), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2011/20/schedule/9/paragraph/2); S.I. 2012/628, art. 8(a) (with arts. 9, 12, 13, 16, 18-20) (as amended (3.8.2012) by S.I. 2012/2029, arts. 2, 4)

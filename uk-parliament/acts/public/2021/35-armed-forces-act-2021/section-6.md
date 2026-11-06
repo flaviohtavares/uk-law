@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. The Service Civilian Court: power to rectify mistakes[^key-57955885ffede96985b768aecaf30ea3][^key-fb24433e5c6c34ba3019f387b8d94290][^key-5ca2c36202c1f103e36421faa2d15644]
+## 6. The Service Civilian Court: power to rectify mistakes[^c-57955885ffede96985b768aecaf30ea3][^c-fb24433e5c6c34ba3019f387b8d94290][^c-5ca2c36202c1f103e36421faa2d15644]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,8 +33,8 @@ In section 288 of AFA 2006 (SCC rules)—
 
 ## Annotations
 
-[^key-57955885ffede96985b768aecaf30ea3]: Commencement: S. 6 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-57955885ffede96985b768aecaf30ea3]: Commencement: S. 6 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-fb24433e5c6c34ba3019f387b8d94290]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/35/section/6) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/b)
+[^c-fb24433e5c6c34ba3019f387b8d94290]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/35/section/6) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/b)
 
-[^key-5ca2c36202c1f103e36421faa2d15644]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/35/section/6) in force at 13.11.2023 in so far as not already in force by [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)
+[^c-5ca2c36202c1f103e36421faa2d15644]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/35/section/6) in force at 13.11.2023 in so far as not already in force by [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)

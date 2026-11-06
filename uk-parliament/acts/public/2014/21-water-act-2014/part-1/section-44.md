@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Eligible licensees[^key-89bfc3d0d4ec3126daf66084c63dfea6]
+## 44. Eligible licensees[^c-89bfc3d0d4ec3126daf66084c63dfea6]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-89bfc3d0d4ec3126daf66084c63dfea6]: Commencement: S. 44 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/iii) (with art. 5)
+[^c-89bfc3d0d4ec3126daf66084c63dfea6]: Commencement: S. 44 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/iii) (with art. 5)

@@ -70,13 +70,13 @@ These Regulations may be cited as the Electronic Commerce Directive (Terrorism A
 - “**service provider**” means a person providing an information society service;
 - “**statement**” is to be construed in accordance with section 20(6) of the Act.
 
-(2)[^key-992c96a26db49aa39f5aac6aea6c2323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-992c96a26db49aa39f5aac6aea6c2323] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Internal market: UK service providers[^key-25c6a71c64f2870a95b5d60f4bc02f0d]
+## 3. Internal market: UK service providers[^c-25c6a71c64f2870a95b5d60f4bc02f0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Internal market: non-UK service providers[^key-910a531b35ca0c26b64e8f4d484062f9]
+## 4. Internal market: non-UK service providers[^c-910a531b35ca0c26b64e8f4d484062f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -165,8 +165,8 @@ A Transposition Note has been prepared for these Regulations and a Regulatory Im
 
 [^c18699621]: Marginal citation: O.J. No. L 204, 21.7.1998, p.37, as amended by Directive 98/48/EC (O.J. L 217, 5.8.1998, p.18); there are other amendments but none are relevant.
 
-[^key-992c96a26db49aa39f5aac6aea6c2323]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/1550/regulation/2/2) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/3/2)
+[^c-992c96a26db49aa39f5aac6aea6c2323]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/1550/regulation/2/2) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/3/2)
 
-[^key-25c6a71c64f2870a95b5d60f4bc02f0d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/1550/regulation/3) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-25c6a71c64f2870a95b5d60f4bc02f0d]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2007/1550/regulation/3) omitted (31.12.2020) by virtue of [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/742/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-910a531b35ca0c26b64e8f4d484062f9]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/1550/regulation/4) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/407/regulation/3/3)
+[^c-910a531b35ca0c26b64e8f4d484062f9]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2007/1550/regulation/4) omitted (7.5.2026) by virtue of [The Electronic Commerce (Amendment and Consequential Provision) Regulations 2026 (S.I. 2026/407)](https://www.legislation.gov.uk/uksi/2026/407), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/407/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/407/regulation/3/3)

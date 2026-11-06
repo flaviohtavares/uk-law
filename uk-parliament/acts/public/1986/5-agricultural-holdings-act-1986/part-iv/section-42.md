@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Procedure where deceased held more than one holding.[^key-b5c01d822be315b8fe43f35294dabeac]
+## 42. Procedure where deceased held more than one holding.[^c-b5c01d822be315b8fe43f35294dabeac]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5c01d822be315b8fe43f35294dabeac]: Textual amendment: S. 42 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 206](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/206) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-b5c01d822be315b8fe43f35294dabeac]: Textual amendment: S. 42 substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 206](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/206) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

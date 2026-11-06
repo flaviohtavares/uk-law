@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Administration of poisons etc.[^key-56809ed0bf17edf43b2cd09111dc308e][^key-64e652463e26ade0f868c8f0526a528a]
+## 7. Administration of poisons etc.[^c-56809ed0bf17edf43b2cd09111dc308e][^c-64e652463e26ade0f868c8f0526a528a]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56809ed0bf17edf43b2cd09111dc308e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2006/45/section/7) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/a)
+[^c-56809ed0bf17edf43b2cd09111dc308e]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2006/45/section/7) in force at 27.3.2007 for W. by [S.I. 2007/1030](https://www.legislation.gov.uk/wsi/2007/1030), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2007/1030/article/2/1/a)
 
-[^key-64e652463e26ade0f868c8f0526a528a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2006/45/section/7) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/c)
+[^c-64e652463e26ade0f868c8f0526a528a]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2006/45/section/7) in force at 6.4.2007 for E. by [S.I. 2007/499](https://www.legislation.gov.uk/uksi/2007/499), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2007/499/article/2/2/c)

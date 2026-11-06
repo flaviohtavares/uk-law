@@ -37,8 +37,8 @@ summary: ''
 - (i) in addition to any power exercisable under the said subsection (1)(f), managing, developing, or carrying out works on, land, or assisting in such management or development or in the carrying out of such works, and maintaining or assisting in the maintenance of such works;
 - (j) making land, plant, machinery, equipment and other property available for use by other persons;
 - (k) acting directly or through an agent (who, without prejudice to the generality of this paragraph, may be the Secretary of State), or itself acting as agent for another person;
-- (l) forming, promoting, or joining with any other person in forming or promoting, companies under the Companies Act 2006[^key-8f198e70d78a5bfb1fa0e0b30c132628];
-- (m) forming and registering societies, or joining with any other person in forming and registering societies, under the Co-operative and Community Benefit Societies Act 2014[^key-29eb80286698457b058de041b58f0db9];
+- (l) forming, promoting, or joining with any other person in forming or promoting, companies under the Companies Act 2006[^c-8f198e70d78a5bfb1fa0e0b30c132628];
+- (m) forming and registering societies, or joining with any other person in forming and registering societies, under the Co-operative and Community Benefit Societies Act 2014[^c-29eb80286698457b058de041b58f0db9];
 - (n) forming partnerships with other persons;
 - (o) carrying out, or commissioning the carrying out of, such enquiries, investigations or researches as it may deem necessary or expedient and disseminating, or assisting in the dissemination of, information derived from those enquiries, investigations or researches;
 - (p) promoting, or assisting in the promotion of, publicity;
@@ -55,7 +55,7 @@ summary: ''
 
 (5) Without prejudice to subsection (2) above, Highlands and Islands Enterprise may for the purposes of its general functions carry on, or establish and carry on, (whether by itself or jointly with another person) a business or industrial undertaking which in the opinion of the body contributes or will contribute to the economic and social development, or the improvement of the environment, of the Highlands and Islands.
 
-(6) Without prejudice to subsection (1)(f) above and to section 9 of this Act, the powers and duties conferred on Scottish Enterprise and Highlands and Islands Enterprise by this Act shall, subject to section 32[^key-5e8d03fbae2cc18ea60a077bdfbcb30c] of this Act, be exercisable, in relation to land not belonging to them, on such terms and conditions as may be arranged by agreement with all persons having an interest in the land.
+(6) Without prejudice to subsection (1)(f) above and to section 9 of this Act, the powers and duties conferred on Scottish Enterprise and Highlands and Islands Enterprise by this Act shall, subject to section 32[^c-5e8d03fbae2cc18ea60a077bdfbcb30c] of this Act, be exercisable, in relation to land not belonging to them, on such terms and conditions as may be arranged by agreement with all persons having an interest in the land.
 
 (7) Any power conferred by subsection (1) above to transfer securities or other property includes, without prejudice to the generality of that subsection, the power to transfer the securities or property (or where the securities or property are held by a subsidiary of the body in question to procure transfer) to the Scottish Ministers or a nominee of theirs[^c1031037].
 
@@ -91,11 +91,11 @@ shall be incorporated with this section; and, in construing those Acts for the p
 
 ## Annotations
 
-[^key-8f198e70d78a5bfb1fa0e0b30c132628]: Textual amendment: Words in s. 8(1)(l) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 117(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/117/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-8f198e70d78a5bfb1fa0e0b30c132628]: Textual amendment: Words in s. 8(1)(l) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 117(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/117/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-29eb80286698457b058de041b58f0db9]: Textual amendment: Words in [s. 8(1)(m)](https://www.legislation.gov.uk/ukpga/1990/35/section/8/1/m) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 45](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/45) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-29eb80286698457b058de041b58f0db9]: Textual amendment: Words in [s. 8(1)(m)](https://www.legislation.gov.uk/ukpga/1990/35/section/8/1/m) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 45](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/45) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-5e8d03fbae2cc18ea60a077bdfbcb30c]: Textual amendment: Words in s. 8(6) substituted (4.4.2003) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 113(2)](https://www.legislation.gov.uk/asp/2003/9/section/113/2), [129(3)](https://www.legislation.gov.uk/asp/2003/9/section/129/3) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121))
+[^c-5e8d03fbae2cc18ea60a077bdfbcb30c]: Textual amendment: Words in s. 8(6) substituted (4.4.2003) by [Title Conditions (Scotland) Act 2003 (asp 9)](https://www.legislation.gov.uk/asp/2003/9), [ss. 113(2)](https://www.legislation.gov.uk/asp/2003/9/section/113/2), [129(3)](https://www.legislation.gov.uk/asp/2003/9/section/129/3) (with [ss. 119](https://www.legislation.gov.uk/asp/2003/9/section/119), [121](https://www.legislation.gov.uk/asp/2003/9/section/121))
 
 [^c1031037]: Textual amendment: Words in s. 8(7) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [100(4)](https://www.legislation.gov.uk/uksi/1999/1820/article/100/4)
 

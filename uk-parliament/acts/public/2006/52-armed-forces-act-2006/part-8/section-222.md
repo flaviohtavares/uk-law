@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 222. Offenders aged under 18: certain violent or sexual offences[^key-0b0dd2e653e1abb7b93fdf99e800b395]
+## 222. Offenders aged under 18: certain violent or sexual offences[^c-0b0dd2e653e1abb7b93fdf99e800b395]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b0dd2e653e1abb7b93fdf99e800b395]: Textual amendment: S. 222 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2012/10/schedule/22/paragraph/10); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(t)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/t) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2906/article/6))
+[^c-0b0dd2e653e1abb7b93fdf99e800b395]: Textual amendment: S. 222 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 22 para. 10](https://www.legislation.gov.uk/ukpga/2012/10/schedule/22/paragraph/10); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(t)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/t) (with [art. 6](https://www.legislation.gov.uk/uksi/2012/2906/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Extent[^key-b3b34f35a1ea5184dc8a17f7e7dd762b]
+## 2. Extent[^c-b3b34f35a1ea5184dc8a17f7e7dd762b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The extent of any amendment made by these Regulations is the same as that of the
 
 ## Annotations
 
-[^key-b3b34f35a1ea5184dc8a17f7e7dd762b]: Commencement: Reg. 2 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-b3b34f35a1ea5184dc8a17f7e7dd762b]: Commencement: Reg. 2 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

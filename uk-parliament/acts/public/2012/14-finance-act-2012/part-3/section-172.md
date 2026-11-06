@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Minor definitions[^key-47593ff75b337af813a72fb908841da1]
+## 172. Minor definitions[^c-47593ff75b337af813a72fb908841da1]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ or, if the amalgamation took place before 19 March 1985, the society was treated
 
 ## Annotations
 
-[^key-47593ff75b337af813a72fb908841da1]: Modification: [S. 172](https://www.legislation.gov.uk/ukpga/2012/14/section/172) modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2012/3008/regulation/14) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))
+[^c-47593ff75b337af813a72fb908841da1]: Modification: [S. 172](https://www.legislation.gov.uk/ukpga/2012/14/section/172) modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2012/3008/regulation/14) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Destination of fines, forfeitures and fixed penalties[^key-3d3656c1bb6334122905f305817f0bab]
+## 67. Destination of fines, forfeitures and fixed penalties[^c-3d3656c1bb6334122905f305817f0bab]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d3656c1bb6334122905f305817f0bab]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2016/11/section/67) in force at 1.4.2017 by [S.I. 2016/1178](https://www.legislation.gov.uk/uksi/2016/1178), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1178/regulation/2/c)
+[^c-3d3656c1bb6334122905f305817f0bab]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2016/11/section/67) in force at 1.4.2017 by [S.I. 2016/1178](https://www.legislation.gov.uk/uksi/2016/1178), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2016/1178/regulation/2/c)

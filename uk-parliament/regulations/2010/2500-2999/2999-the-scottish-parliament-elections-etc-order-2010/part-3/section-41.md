@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Prohibition of expenses not authorised by election agent: constituency and individual regional candidates[^key-4b2aa355d1efbb5be9eb6f61c17f1522]
+## 41. Prohibition of expenses not authorised by election agent: constituency and individual regional candidates[^c-4b2aa355d1efbb5be9eb6f61c17f1522]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,7 +75,7 @@ that person shall be guilty of a corrupt practice.
 
 ## Annotations
 
-[^key-4b2aa355d1efbb5be9eb6f61c17f1522]: Commencement: Art. 41 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-4b2aa355d1efbb5be9eb6f61c17f1522]: Commencement: Art. 41 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00036]: Footnote: [1990 c.42](https://www.legislation.gov.uk/ukpga/1990/42).
 

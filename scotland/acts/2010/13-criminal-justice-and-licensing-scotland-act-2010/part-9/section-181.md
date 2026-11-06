@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 181. Premises licence applications: modification of layout plans[^key-651d162b2199e1cdf7cd62974eccd1ae]
+## 181. Premises licence applications: modification of layout plans[^c-651d162b2199e1cdf7cd62974eccd1ae]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In section 23 of the 2005 Act (determination of premises licence application), i
 
 ## Annotations
 
-[^key-651d162b2199e1cdf7cd62974eccd1ae]: Commencement: [S. 181](https://www.legislation.gov.uk/asp/2010/13/section/181) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))
+[^c-651d162b2199e1cdf7cd62974eccd1ae]: Commencement: [S. 181](https://www.legislation.gov.uk/asp/2010/13/section/181) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule))

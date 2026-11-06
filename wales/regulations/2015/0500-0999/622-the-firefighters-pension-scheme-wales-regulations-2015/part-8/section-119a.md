@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119A. Member contributions from 1 September 2025[^key-26a78ef87f09c881d497f72672e8954c]
+## 119A. Member contributions from 1 September 2025[^c-26a78ef87f09c881d497f72672e8954c]
 
 *Extent: E+W*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26a78ef87f09c881d497f72672e8954c]: Textual amendment: [Reg. 119A](https://www.legislation.gov.uk/wsi/2015/622/regulation/119A) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2025/930/regulation/6)
+[^c-26a78ef87f09c881d497f72672e8954c]: Textual amendment: [Reg. 119A](https://www.legislation.gov.uk/wsi/2015/622/regulation/119A) inserted (1.9.2025) by [The Firefighters’ Pension Scheme (Wales) (Amendment) Regulations 2025 (S.I. 2025/930)](https://www.legislation.gov.uk/wsi/2025/930), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2025/930/regulation/1/2), [6](https://www.legislation.gov.uk/wsi/2025/930/regulation/6)

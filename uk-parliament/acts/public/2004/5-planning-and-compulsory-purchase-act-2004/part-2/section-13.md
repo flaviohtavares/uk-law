@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Survey of area[^key-fdad732a67e292ced51d55e722b6a0cc][^key-f726010f71c085606a8a0f7986e6edd7]
+## 13. Survey of area[^c-fdad732a67e292ced51d55e722b6a0cc][^c-f726010f71c085606a8a0f7986e6edd7]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fdad732a67e292ced51d55e722b6a0cc]: Commencement: S. 13 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
+[^c-fdad732a67e292ced51d55e722b6a0cc]: Commencement: S. 13 in force at 6.8.2004 for specified purposes by [S.I. 2004/2097](https://www.legislation.gov.uk/uksi/2004/2097), [art. 2](https://www.legislation.gov.uk/uksi/2004/2097/article/2)
 
-[^key-f726010f71c085606a8a0f7986e6edd7]: Commencement: S. 13 in force at 28.9.2004 for E. so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/b)
+[^c-f726010f71c085606a8a0f7986e6edd7]: Commencement: S. 13 in force at 28.9.2004 for E. so far as not already in force by [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/b)

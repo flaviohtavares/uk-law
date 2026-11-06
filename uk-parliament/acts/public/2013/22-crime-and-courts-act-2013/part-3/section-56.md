@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Drugs and driving[^key-751f4f90abbca780020c9ae6f7102c83][^key-4a9c64ecf238e6b15d74c3a44462aa45][^key-f21af95daea5866c4fb7fdadf7d1e540]
+## 56. Drugs and driving[^c-751f4f90abbca780020c9ae6f7102c83][^c-4a9c64ecf238e6b15d74c3a44462aa45][^c-f21af95daea5866c4fb7fdadf7d1e540]
 
 *Extent: E+W+S+N.I.*
 
@@ -89,8 +89,8 @@ summary: ''
 
 ## Annotations
 
-[^key-751f4f90abbca780020c9ae6f7102c83]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2013/22/section/56) in force at 2.3.2015 for E.W. by [S.I. 2014/3268](https://www.legislation.gov.uk/uksi/2014/3268), [art. 2](https://www.legislation.gov.uk/uksi/2014/3268/article/2)
+[^c-751f4f90abbca780020c9ae6f7102c83]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2013/22/section/56) in force at 2.3.2015 for E.W. by [S.I. 2014/3268](https://www.legislation.gov.uk/uksi/2014/3268), [art. 2](https://www.legislation.gov.uk/uksi/2014/3268/article/2)
 
-[^key-4a9c64ecf238e6b15d74c3a44462aa45]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2013/22/section/56) in force at 1.3.2018 for N.I. by [S.I. 2018/162](https://www.legislation.gov.uk/uksi/2018/162), [art. 2](https://www.legislation.gov.uk/uksi/2018/162/article/2)
+[^c-4a9c64ecf238e6b15d74c3a44462aa45]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2013/22/section/56) in force at 1.3.2018 for N.I. by [S.I. 2018/162](https://www.legislation.gov.uk/uksi/2018/162), [art. 2](https://www.legislation.gov.uk/uksi/2018/162/article/2)
 
-[^key-f21af95daea5866c4fb7fdadf7d1e540]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2013/22/section/56) in force at 1.3.2018 for S. by [S.I. 2018/161](https://www.legislation.gov.uk/uksi/2018/161), [art. 2](https://www.legislation.gov.uk/uksi/2018/161/article/2)
+[^c-f21af95daea5866c4fb7fdadf7d1e540]: Commencement: [S. 56](https://www.legislation.gov.uk/ukpga/2013/22/section/56) in force at 1.3.2018 for S. by [S.I. 2018/161](https://www.legislation.gov.uk/uksi/2018/161), [art. 2](https://www.legislation.gov.uk/uksi/2018/161/article/2)

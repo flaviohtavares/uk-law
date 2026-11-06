@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39D. Ships: exceptions from prohibitions on port entry[^key-d20cca4efc8a8e16ee7b680685cbc2c4]
+## 39D. Ships: exceptions from prohibitions on port entry[^c-d20cca4efc8a8e16ee7b680685cbc2c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d20cca4efc8a8e16ee7b680685cbc2c4]: Textual amendment: [Regs. 39A-39E](https://www.legislation.gov.uk/uksi/2019/461/regulation/39A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [9(d)](https://www.legislation.gov.uk/uksi/2026/983/regulation/9/d)
+[^c-d20cca4efc8a8e16ee7b680685cbc2c4]: Textual amendment: [Regs. 39A-39E](https://www.legislation.gov.uk/uksi/2019/461/regulation/39A) inserted (29.9.2026) by [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [9(d)](https://www.legislation.gov.uk/uksi/2026/983/regulation/9/d)

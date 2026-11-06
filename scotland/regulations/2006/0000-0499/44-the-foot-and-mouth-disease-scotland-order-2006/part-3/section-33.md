@@ -29,7 +29,7 @@ summary: ''
 - (a) necessary to prevent the spread of disease; and
 - (b) a proportionate method of preventing such spread, taking into account the epidemiological, animal husbandry, commercial and social conditions in the protection zone or surveillance zone.
 
-(4) If the Scottish Ministers restrict the movement of horses in a surveillance zone by a declaration under paragraph (2), they shall take into account the recommended measures in paragraph 2.2 of Annex VI to the Directive, reading that paragraph as if—[^key-98d6b3f9c87e0fa5d6e4853955b229e3]
+(4) If the Scottish Ministers restrict the movement of horses in a surveillance zone by a declaration under paragraph (2), they shall take into account the recommended measures in paragraph 2.2 of Annex VI to the Directive, reading that paragraph as if—[^c-98d6b3f9c87e0fa5d6e4853955b229e3]
 
 - (a) in point 2.2.2, the words “established in accordance with Article 21” were omitted,
 - (b) in point 2.2.4, the reference to “Articles 4 and 10” of the Directive was a reference to provision in this Order implementing those Articles
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98d6b3f9c87e0fa5d6e4853955b229e3]: Textual amendment: [Art. 33(4)(a)](https://www.legislation.gov.uk/ssi/2006/44/article/33/4/a)[(b)](https://www.legislation.gov.uk/ssi/2006/44/article/33/4/b) and words inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [14(5)](https://www.legislation.gov.uk/ssi/2019/71/regulation/14/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-98d6b3f9c87e0fa5d6e4853955b229e3]: Textual amendment: [Art. 33(4)(a)](https://www.legislation.gov.uk/ssi/2006/44/article/33/4/a)[(b)](https://www.legislation.gov.uk/ssi/2006/44/article/33/4/b) and words inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [14(5)](https://www.legislation.gov.uk/ssi/2019/71/regulation/14/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

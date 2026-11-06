@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Meaning of references to States Parties and related expressions in the UNCRC requirements[^key-e600a6af69d98ef659caa9ba6baf4308]
+## 2. Meaning of references to States Parties and related expressions in the UNCRC requirements[^c-e600a6af69d98ef659caa9ba6baf4308]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e600a6af69d98ef659caa9ba6baf4308]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2024/1/section/2) in force at 31.1.2024, see [s. 47(2)(b)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/b) and [S.S.I. 2024/13](https://www.legislation.gov.uk/ssi/2024/13), [reg. 2](https://www.legislation.gov.uk/ssi/2024/13/regulation/2)
+[^c-e600a6af69d98ef659caa9ba6baf4308]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2024/1/section/2) in force at 31.1.2024, see [s. 47(2)(b)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/b) and [S.S.I. 2024/13](https://www.legislation.gov.uk/ssi/2024/13), [reg. 2](https://www.legislation.gov.uk/ssi/2024/13/regulation/2)

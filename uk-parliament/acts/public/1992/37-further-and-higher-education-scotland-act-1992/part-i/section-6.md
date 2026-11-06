@@ -24,7 +24,7 @@ summary: ''
 
 - (a) prepares a person for a vocational qualification;
 - (b) prepares a person for—
-  - (i) a qualification awarded by[^c1309644] Qualifications Scotland[^key-3e7b908f97a7f3d8d9e2591559c74f1f]; or
+  - (i) a qualification awarded by[^c1309644] Qualifications Scotland[^c-3e7b908f97a7f3d8d9e2591559c74f1f]; or
   - (ii) a General Certificate of Education qualification of England and Wales or Northern Ireland;
 - (c) provides instruction for persons who are participating in a programme of learning which falls within this section and who have a learning difficulty;
 - (d) prepares a person for access to higher education;
@@ -46,4 +46,4 @@ as appear to him to be appropriate as to the amendments proposed to be made by t
 
 [^c1309644]: Textual amendment: Words in [s. 6(1)(b)(i)](https://www.legislation.gov.uk/ukpga/1992/37/section/6/1/b/i) substituted (1.4.1997) by [1996 c. 43](https://www.legislation.gov.uk/ukpga/1996/43), [s. 36](https://www.legislation.gov.uk/ukpga/1996/43/section/36), [Sch. 5](https://www.legislation.gov.uk/ukpga/1996/43/schedule/5), [para. 8](https://www.legislation.gov.uk/ukpga/1996/43/paragraph/8); [S.I. 1997/365](https://www.legislation.gov.uk/uksi/1997/365), [art. 2](https://www.legislation.gov.uk/uksi/1997/365/article/2)
 
-[^key-3e7b908f97a7f3d8d9e2591559c74f1f]: Textual amendment: Words in [s. 6(1)(b)(i)](https://www.legislation.gov.uk/ukpga/1992/37/section/6/1/b/i) substituted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 10(2)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/10/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)
+[^c-3e7b908f97a7f3d8d9e2591559c74f1f]: Textual amendment: Words in [s. 6(1)(b)(i)](https://www.legislation.gov.uk/ukpga/1992/37/section/6/1/b/i) substituted (1.2.2026) by [Education (Scotland) Act 2025 (asp 11)](https://www.legislation.gov.uk/asp/2025/11), [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2), [sch. 4 para. 10(2)](https://www.legislation.gov.uk/asp/2025/11/schedule/4/paragraph/10/2); [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/1)

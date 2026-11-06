@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Interim continuation of tenancies pending determination by court.[^key-137d715a8ce736ba8d6b02c094b6eb1f]
+## 64. Interim continuation of tenancies pending determination by court.[^c-137d715a8ce736ba8d6b02c094b6eb1f]
 
 *Extent: E+W*
 
 (1) In any case where—
 
 - (a) a notice to terminate a tenancy has been given under Part I or Part II of this Act or a request for a new tenancy has been made under Part II thereof, and
-- (b) an application to the court has been made under the said Part I or under section 24(1) or 29(2) of this Act[^key-e9249db6ec5cf24478f2a5554242cf5f], as the case may be, and
+- (b) an application to the court has been made under the said Part I or under section 24(1) or 29(2) of this Act[^c-e9249db6ec5cf24478f2a5554242cf5f], as the case may be, and
 - (c) apart from this section the effect of the notice or request would be to terminate the tenancy before the expiration of the period of three months beginning with the date on which the application is finally disposed of,
 
 the effect of the notice or request shall be to terminate the tenancy at the expiration of the said period of three months and not at any other time.
@@ -32,6 +32,6 @@ the effect of the notice or request shall be to terminate the tenancy at the exp
 
 ## Annotations
 
-[^key-137d715a8ce736ba8d6b02c094b6eb1f]: Modification: S. 64 excluded by 1967 c. 88, Sch. 3 para. 2A(2) (as inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/12))
+[^c-137d715a8ce736ba8d6b02c094b6eb1f]: Modification: S. 64 excluded by 1967 c. 88, Sch. 3 para. 2A(2) (as inserted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 12](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/12))
 
-[^key-e9249db6ec5cf24478f2a5554242cf5f]: Textual amendment: Words in s. 64(1)(b) substituted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/9)
+[^c-e9249db6ec5cf24478f2a5554242cf5f]: Textual amendment: Words in s. 64(1)(b) substituted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [art. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [Sch. 5 para. 9](https://www.legislation.gov.uk/uksi/2003/3096/schedule/5/paragraph/9)

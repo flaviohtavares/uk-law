@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12A. Guidance about collaboration between Welsh improvement authorities[^key-3ec9fafc99c473b20a5a76d79b94429b]
+## 12A. Guidance about collaboration between Welsh improvement authorities[^c-3ec9fafc99c473b20a5a76d79b94429b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In deciding whether and how to exercise its functions under sections 9(1) and 12
 
 ## Annotations
 
-[^key-3ec9fafc99c473b20a5a76d79b94429b]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/mwa/2009/2/section/12A) inserted (W.) (31.8.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 161](https://www.legislation.gov.uk/mwa/2011/4/section/161), [178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3); [S.I. 2011/2011](https://www.legislation.gov.uk/wsi/2011/2011), [art. 2(r)](https://www.legislation.gov.uk/wsi/2011/2011/article/2/r)
+[^c-3ec9fafc99c473b20a5a76d79b94429b]: Textual amendment: [S. 12A](https://www.legislation.gov.uk/mwa/2009/2/section/12A) inserted (W.) (31.8.2011) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 161](https://www.legislation.gov.uk/mwa/2011/4/section/161), [178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3); [S.I. 2011/2011](https://www.legislation.gov.uk/wsi/2011/2011), [art. 2(r)](https://www.legislation.gov.uk/wsi/2011/2011/article/2/r)

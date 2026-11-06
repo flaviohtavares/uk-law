@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Alterations of supplemental provisions of Public Health Acts.[^key-c99ecb68c6e4520feb794b4efcfddf40][^key-e7f22a2611d6109b106264480eb70d82]
+## 27. Alterations of supplemental provisions of Public Health Acts.[^c-c99ecb68c6e4520feb794b4efcfddf40][^c-e7f22a2611d6109b106264480eb70d82]
 
 *Extent: E+W*
 
@@ -36,9 +36,9 @@ summary: ''
 
 ## Annotations
 
-[^key-c99ecb68c6e4520feb794b4efcfddf40]: Modification: [S. 27](https://www.legislation.gov.uk/ukpga/1976/57/section/27) modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
+[^c-c99ecb68c6e4520feb794b4efcfddf40]: Modification: [S. 27](https://www.legislation.gov.uk/ukpga/1976/57/section/27) modified (E.) (6.4.2010) by [The Portsmouth Port Health Authority Order 2010 (S.I. 2010/1217)](https://www.legislation.gov.uk/uksi/2010/1217), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1217/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1217/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1217/schedule)
 
-[^key-e7f22a2611d6109b106264480eb70d82]: Modification: [S. 27](https://www.legislation.gov.uk/ukpga/1976/57/section/27) modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
+[^c-e7f22a2611d6109b106264480eb70d82]: Modification: [S. 27](https://www.legislation.gov.uk/ukpga/1976/57/section/27) modified (E.) (6.4.2010) by [The Cowes Port Health Authority Order 2010 (S.I. 2010/1216)](https://www.legislation.gov.uk/uksi/2010/1216), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1216/article/1/1), [4](https://www.legislation.gov.uk/uksi/2010/1216/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/1216/schedule)
 
 [^c19151851]: Textual amendment: [S. 27(1)](https://www.legislation.gov.uk/ukpga/1976/57/section/27/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 

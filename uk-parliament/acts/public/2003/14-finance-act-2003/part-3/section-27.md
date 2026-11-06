@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Exceptions from section 26[^key-e8f5a35769b223b033c91ef043ad05d6][^key-c91652412412c4d3a22d85b00f2dfef3]
+## 27. Exceptions from section 26[^c-e8f5a35769b223b033c91ef043ad05d6][^c-c91652412412c4d3a22d85b00f2dfef3]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ that conduct does not also give rise to liability to a penalty under section 26 
 
 ## Annotations
 
-[^key-e8f5a35769b223b033c91ef043ad05d6]: Commencement: S. 27 in force at 27.11.2003 by [S.I. 2003/2985](https://www.legislation.gov.uk/uksi/2003/2985), [art. 2](https://www.legislation.gov.uk/uksi/2003/2985/article/2)
+[^c-e8f5a35769b223b033c91ef043ad05d6]: Commencement: S. 27 in force at 27.11.2003 by [S.I. 2003/2985](https://www.legislation.gov.uk/uksi/2003/2985), [art. 2](https://www.legislation.gov.uk/uksi/2003/2985/article/2)
 
-[^key-c91652412412c4d3a22d85b00f2dfef3]: Modification: Ss. 26, 27 applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/102/2)
+[^c-c91652412412c4d3a22d85b00f2dfef3]: Modification: Ss. 26, 27 applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/102/2)

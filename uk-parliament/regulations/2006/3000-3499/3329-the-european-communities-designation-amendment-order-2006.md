@@ -32,7 +32,7 @@ summary: ''
 
 european communities
 
-The European Communities (Designation) (Amendment) Order 2006 (revoked)[^key-80ed7aa03fb951ae43f9d1edc937fa2f]
+The European Communities (Designation) (Amendment) Order 2006 (revoked)[^c-80ed7aa03fb951ae43f9d1edc937fa2f]
 
 Made
 
@@ -52,30 +52,30 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-80ed7aa03fb951ae43f9d1edc937fa2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80ed7aa03fb951ae43f9d1edc937fa2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-80ed7aa03fb951ae43f9d1edc937fa2f]
+## 1. Citation and commencement[^c-80ed7aa03fb951ae43f9d1edc937fa2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to existing Designation Orders[^key-80ed7aa03fb951ae43f9d1edc937fa2f]
+## 2. Amendments to existing Designation Orders[^c-80ed7aa03fb951ae43f9d1edc937fa2f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-80ed7aa03fb951ae43f9d1edc937fa2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-80ed7aa03fb951ae43f9d1edc937fa2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-80ed7aa03fb951ae43f9d1edc937fa2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-80ed7aa03fb951ae43f9d1edc937fa2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-80ed7aa03fb951ae43f9d1edc937fa2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-80ed7aa03fb951ae43f9d1edc937fa2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-80ed7aa03fb951ae43f9d1edc937fa2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-80ed7aa03fb951ae43f9d1edc937fa2f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80ed7aa03fb951ae43f9d1edc937fa2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80ed7aa03fb951ae43f9d1edc937fa2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80ed7aa03fb951ae43f9d1edc937fa2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80ed7aa03fb951ae43f9d1edc937fa2f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80ed7aa03fb951ae43f9d1edc937fa2f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/3329) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-80ed7aa03fb951ae43f9d1edc937fa2f]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2006/3329) revoked (31.12.2020) by [The European Communities (Designation Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1011)](https://www.legislation.gov.uk/uksi/2018/1011), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1011/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1011/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

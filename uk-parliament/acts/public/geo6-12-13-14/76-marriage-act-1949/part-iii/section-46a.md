@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-2ce8b536763f3b0e69fe8c6dc6a10516] The Secretary of State[^key-8e919c001b2c87c4617392e2438db449] may by regulations make provision for and in connection with the approval by local authorities of premises for the solemnization of marriages in pursuance of section 26(1)(bb) of this Act.
+(1)[^c-2ce8b536763f3b0e69fe8c6dc6a10516] The Secretary of State[^c-8e919c001b2c87c4617392e2438db449] may by regulations make provision for and in connection with the approval by local authorities of premises for the solemnization of marriages in pursuance of section 26(1)(bb) of this Act.
 
 (2) The matters dealt with by the regulations may include—
 
@@ -52,8 +52,8 @@ summary: ''
 
 [^c6283261]: Textual amendment: Ss. 46A, 46B and cross-heading inserted (24.2.1995) by [1994 c. 34](https://www.legislation.gov.uk/ukpga/1994/34), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/1994/34/section/1/2), [3(2)](https://www.legislation.gov.uk/ukpga/1994/34/section/3/2); [S.I. 1995/424](https://www.legislation.gov.uk/uksi/1995/424), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/1995/424/article/2/1/a)
 
-[^key-2ce8b536763f3b0e69fe8c6dc6a10516]: Modification: S. 46A(1): transfer of functions (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/5/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-2ce8b536763f3b0e69fe8c6dc6a10516]: Modification: S. 46A(1): transfer of functions (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/5/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
-[^key-8e919c001b2c87c4617392e2438db449]: Textual amendment: Words in s. 46A(1) substituted (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/5/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-8e919c001b2c87c4617392e2438db449]: Textual amendment: Words in s. 46A(1) substituted (3.4.2008) by [The Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 5(2)(a)](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/5/2/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
 [^c6283341]: Textual amendment: Words in s. 46A(3) substituted (18.7.1996) by [1996 c. iv](https://www.legislation.gov.uk/ukla/1996/4), [s. 3(2)](https://www.legislation.gov.uk/ukla/1996/4/section/3/2) (with [s. 5](https://www.legislation.gov.uk/ukla/1996/4/section/5))

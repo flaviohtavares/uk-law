@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Revocations and supplementary provisions[^key-b29c30dbd82fc70ec43a4ab35c4f8035]
+## 28. Revocations and supplementary provisions[^c-b29c30dbd82fc70ec43a4ab35c4f8035]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b29c30dbd82fc70ec43a4ab35c4f8035]: Commencement: Reg. 28 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-b29c30dbd82fc70ec43a4ab35c4f8035]: Commencement: Reg. 28 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. How the regulator considers the application[^key-7288caf257e7bfa99d67f9bcb2655ae2]
+## 19. How the regulator considers the application[^c-7288caf257e7bfa99d67f9bcb2655ae2]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7288caf257e7bfa99d67f9bcb2655ae2]: Commencement: Reg. 19 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-7288caf257e7bfa99d67f9bcb2655ae2]: Commencement: Reg. 19 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00029]: Footnote: Section 13(6) (conditions of licences) of the Space Industry Act 2018 requires the regulator, in deciding what conditions to include in a licence under that Act, to consult a list of persons specified in paragraphs (a) to (e) of that subsection and whatever other persons the regulator thinks appropriate if the proposed licence gives rise to any issues regarding trade controls or national security.

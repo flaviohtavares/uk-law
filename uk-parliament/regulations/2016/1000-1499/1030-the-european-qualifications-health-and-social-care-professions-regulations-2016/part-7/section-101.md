@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Amendment of section 56[^key-96c7fa15f8c0ebbf681c470f0e883699]
+## 101. Amendment of section 56[^c-96c7fa15f8c0ebbf681c470f0e883699]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96c7fa15f8c0ebbf681c470f0e883699]: Commencement: Reg. 101 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-96c7fa15f8c0ebbf681c470f0e883699]: Commencement: Reg. 101 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00082]: Footnote: Section 56 was amended by section 230 of, and Schedule 15 to, the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) and by [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).

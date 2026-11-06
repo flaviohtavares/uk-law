@@ -22,11 +22,11 @@ summary: ''
 
 Articles 152 and 168
 
-### 1. Seizure[^key-1781dc809a577ed7c950ec353696f873]
+### 1. Seizure[^c-1781dc809a577ed7c950ec353696f873]
 
 Power to seize property to which the order applies.
 
-### 2. Information[^key-f7e065196d6cd05b14edcb743f3c3ee3]
+### 2. Information[^c-f7e065196d6cd05b14edcb743f3c3ee3]
 
 (1) Power to obtain information or to require a person to answer any question.
 
@@ -46,7 +46,7 @@ Power to seize property to which the order applies.
 
 by him or on his behalf in the proceedings arising out of the prosecution.
 
-### 3. Entry, search, etc.[^key-d9a63c87e269ee3e71e9197f4f927320]
+### 3. Entry, search, etc.[^c-d9a63c87e269ee3e71e9197f4f927320]
 
 (1) Power to—
 
@@ -61,7 +61,7 @@ by him or on his behalf in the proceedings arising out of the prosecution.
 
 (3) The order may describe anything generally, whether by reference to a class or otherwise.
 
-### 4. Supplementary[^key-d25db20d525844176716eeee3c89e5bb]
+### 4. Supplementary[^c-d25db20d525844176716eeee3c89e5bb]
 
 (1) An order making any provision under paragraph 2 or 3 must make provision in respect of legal professional privilege (in Scotland, legal privilege within the meaning of Chapter 3 of Part 8 of the Act).
 
@@ -70,7 +70,7 @@ by him or on his behalf in the proceedings arising out of the prosecution.
 - (a) to give the interim receiver or administrator access to any premises which he may enter in pursuance of paragraph 3,
 - (b) to give the interim receiver or administrator any assistance he may require for taking the steps mentioned in that paragraph.
 
-### 5. Management[^key-bffc93150073b578881f802ac2535f55]
+### 5. Management[^c-bffc93150073b578881f802ac2535f55]
 
 (1) Power to manage any property to which the order applies.
 
@@ -82,9 +82,9 @@ by him or on his behalf in the proceedings arising out of the prosecution.
 
 ## Annotations
 
-[^key-1781dc809a577ed7c950ec353696f873]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/3181/schedule/2/paragraph/1) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-1781dc809a577ed7c950ec353696f873]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2005/3181/schedule/2/paragraph/1) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-f7e065196d6cd05b14edcb743f3c3ee3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/3181/schedule/2/paragraph/2) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-f7e065196d6cd05b14edcb743f3c3ee3]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/3181/schedule/2/paragraph/2) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
 [^f00125]: Footnote: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6).
 
@@ -92,8 +92,8 @@ by him or on his behalf in the proceedings arising out of the prosecution.
 
 [^f00127]: Footnote: [S.I. 1979/1714 (N.I. 19)](https://www.legislation.gov.uk/nisi/1979/1714).
 
-[^key-d9a63c87e269ee3e71e9197f4f927320]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3181/schedule/2/paragraph/3) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-d9a63c87e269ee3e71e9197f4f927320]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2005/3181/schedule/2/paragraph/3) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-d25db20d525844176716eeee3c89e5bb]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2005/3181/schedule/2/paragraph/4) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-d25db20d525844176716eeee3c89e5bb]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2005/3181/schedule/2/paragraph/4) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-bffc93150073b578881f802ac2535f55]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2005/3181/schedule/2/paragraph/5) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-bffc93150073b578881f802ac2535f55]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2005/3181/schedule/2/paragraph/5) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

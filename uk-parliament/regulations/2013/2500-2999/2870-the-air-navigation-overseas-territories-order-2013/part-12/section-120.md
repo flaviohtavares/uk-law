@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Provision of information in respect of cargo[^key-337a383fc510b6aaef77b24defaddc1e]
+## 120. Provision of information in respect of cargo[^c-337a383fc510b6aaef77b24defaddc1e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The operator of an aircraft in which cargo is to be carried and any agent of the
 
 ## Annotations
 
-[^key-337a383fc510b6aaef77b24defaddc1e]: Commencement: [Art. 120](https://www.legislation.gov.uk/uksi/2013/2870/article/120) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-337a383fc510b6aaef77b24defaddc1e]: Commencement: [Art. 120](https://www.legislation.gov.uk/uksi/2013/2870/article/120) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

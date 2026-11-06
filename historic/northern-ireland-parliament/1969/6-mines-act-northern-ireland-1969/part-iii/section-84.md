@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Air, gas and steam containers.[^key-b4f32035da5c5e12777303e648dc91e3]
+## 84. Air, gas and steam containers.[^c-b4f32035da5c5e12777303e648dc91e3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4f32035da5c5e12777303e648dc91e3]: Textual amendment: [S. 84](https://www.legislation.gov.uk/apni/1969/6/section/84) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-b4f32035da5c5e12777303e648dc91e3]: Textual amendment: [S. 84](https://www.legislation.gov.uk/apni/1969/6/section/84) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

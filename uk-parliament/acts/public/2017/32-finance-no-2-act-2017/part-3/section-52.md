@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Disclosure of information by HMRC[^c22795971][^key-30ae4db1a3f7ac22bc8e69060cfcc039]
+## 52. Disclosure of information by HMRC[^c22795971][^c-30ae4db1a3f7ac22bc8e69060cfcc039]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^c22795971]: Commencement: [Pt. 3](https://www.legislation.gov.uk/ukpga/2017/32/part/3): s. 52 in force at Royal Assent for specified purposes, see [s. 59(1)(a)](https://www.legislation.gov.uk/ukpga/2017/32/section/59/1/a)
 
-[^key-30ae4db1a3f7ac22bc8e69060cfcc039]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2017/32/section/52) in force at 1.4.2019 in so far as not already in force by [S.I. 2018/298](https://www.legislation.gov.uk/uksi/2018/298), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/298/regulation/2/1)
+[^c-30ae4db1a3f7ac22bc8e69060cfcc039]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2017/32/section/52) in force at 1.4.2019 in so far as not already in force by [S.I. 2018/298](https://www.legislation.gov.uk/uksi/2018/298), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2018/298/regulation/2/1)

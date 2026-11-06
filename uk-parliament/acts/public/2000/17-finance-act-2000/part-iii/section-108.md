@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Overseas life assurance business.[^key-f6ff81e79a9cfdad6e990b6c974c3cc7]
+## 108. Overseas life assurance business.[^c-f6ff81e79a9cfdad6e990b6c974c3cc7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6ff81e79a9cfdad6e990b6c974c3cc7]: Textual amendment: [S. 108](https://www.legislation.gov.uk/ukpga/2000/17/section/108) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(j)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/j)
+[^c-f6ff81e79a9cfdad6e990b6c974c3cc7]: Textual amendment: [S. 108](https://www.legislation.gov.uk/ukpga/2000/17/section/108) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 247(j)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/247/j)

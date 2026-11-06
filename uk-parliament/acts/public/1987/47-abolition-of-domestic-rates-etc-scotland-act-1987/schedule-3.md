@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 3 — Reduction of Community Charges[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+## SCHEDULE 3 — Reduction of Community Charges[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
 *Extent: S*
 
@@ -24,34 +24,34 @@ summary: ''
 
 Section 22.
 
-### Parliamentary proceedings for reduction of personal community charges[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+### Parliamentary proceedings for reduction of personal community charges[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**1.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Procedure prior to Parliamentary proceedings[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+### Procedure prior to Parliamentary proceedings[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**2.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Effect of approval of report[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+### Effect of approval of report[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**3.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Provisions supplementary to paragraphs 1 to 3[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+### Provisions supplementary to paragraphs 1 to 3[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**4.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Redetermination of personal community charge[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+### Redetermination of personal community charge[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**5.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Supplementary[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+### Supplementary[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**6.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Prohibition of using loans fund to offset reduced personal community charge[^key-478cbdd5c1010dfdd0f6f4ec80511334]
+### Prohibition of using loans fund to offset reduced personal community charge[^c-478cbdd5c1010dfdd0f6f4ec80511334]
 
-**7.**[^key-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-478cbdd5c1010dfdd0f6f4ec80511334] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-478cbdd5c1010dfdd0f6f4ec80511334]: Textual amendment: Act repealed (26.3.2015 in so far as not already in force) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118](https://www.legislation.gov.uk/ukpga/1992/14/section/118) and S.I. 1993/1780, [art. 2](https://www.legislation.gov.uk/ukpga/1992/14/article/2)); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)
+[^c-478cbdd5c1010dfdd0f6f4ec80511334]: Textual amendment: Act repealed (26.3.2015 in so far as not already in force) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 119(2)](https://www.legislation.gov.uk/ukpga/1992/14/section/119/2), [Sch. 14](https://www.legislation.gov.uk/ukpga/1992/14/schedule/14) (with [s. 118](https://www.legislation.gov.uk/ukpga/1992/14/section/118) and S.I. 1993/1780, [art. 2](https://www.legislation.gov.uk/ukpga/1992/14/article/2)); [S.S.I. 2015/59](https://www.legislation.gov.uk/ssi/2015/59), [art. 2](https://www.legislation.gov.uk/ssi/2015/59/article/2)

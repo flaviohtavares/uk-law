@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Notice of intention to give a direction under section 50 of the Building Societies Act[^key-cea49d188d3903b9a87936c489ac7ee9]
+## 34. Notice of intention to give a direction under section 50 of the Building Societies Act[^c-cea49d188d3903b9a87936c489ac7ee9]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ the notice has effect after commencement as if it were a notice given by the Aut
 
 ## Annotations
 
-[^key-cea49d188d3903b9a87936c489ac7ee9]: Commencement: Art. 34 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-cea49d188d3903b9a87936c489ac7ee9]: Commencement: Art. 34 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

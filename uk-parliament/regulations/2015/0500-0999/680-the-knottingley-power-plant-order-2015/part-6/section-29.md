@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Protective provisions for specified undertakers[^key-c2654fc21e1cad786977e01086259fac]
+## 29. Protective provisions for specified undertakers[^c-c2654fc21e1cad786977e01086259fac]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 8 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-c2654fc21e1cad786977e01086259fac]: Commencement: Art. 29 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)
+[^c-c2654fc21e1cad786977e01086259fac]: Commencement: Art. 29 in force at 1.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/680/article/1)

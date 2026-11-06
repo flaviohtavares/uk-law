@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22DA. Payment of state pension under Part 1 of the Pensions Act 2014 at a daily rate[^key-5c655eaccac3a025438d297389808070]
+## 22DA. Payment of state pension under Part 1 of the Pensions Act 2014 at a daily rate[^c-5c655eaccac3a025438d297389808070]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c655eaccac3a025438d297389808070]: Textual amendment: [Reg. 22DA](https://www.legislation.gov.uk/uksi/1987/1968/regulation/22DA) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [9(12)](https://www.legislation.gov.uk/uksi/2015/1985/article/9/12)
+[^c-5c655eaccac3a025438d297389808070]: Textual amendment: [Reg. 22DA](https://www.legislation.gov.uk/uksi/1987/1968/regulation/22DA) inserted (coming into force in accordance with art. 1(2)(b) of the amending S.I.) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [9(12)](https://www.legislation.gov.uk/uksi/2015/1985/article/9/12)

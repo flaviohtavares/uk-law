@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.17. Service on defender in Hague Convention Country[^key-2d04fdbaff020d44e73e9fd65936e4ee]
+## 5.17. Service on defender in Hague Convention Country[^c-2d04fdbaff020d44e73e9fd65936e4ee]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ For the purposes of section 4(4) of the 1972 Act as applied in respect of a defe
 
 ## Annotations
 
-[^key-2d04fdbaff020d44e73e9fd65936e4ee]: Commencement: Rule 5.17 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-2d04fdbaff020d44e73e9fd65936e4ee]: Commencement: Rule 5.17 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
 [^f00044]: Footnote: *See* [S.I. 1993/593](https://www.legislation.gov.uk/uksi/1993/593).

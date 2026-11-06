@@ -52,12 +52,12 @@ These Regulations apply to English higher education providers [^c23363001].
 
 ## 3. Interpretation
 
-(1)[^key-3ff37b15e976af8801c92fffb5576354] In these Regulations—
+(1)[^c-3ff37b15e976af8801c92fffb5576354] In these Regulations—
 
 - “**academic year**” means the period of twelve months beginning on 1st January, 1st April, 1st July or 1st September of the calendar year in which the academic year of the course in question begins, according to whether that academic year begins on or after 1st January and before 1st April, on or after 1st April and before 1st July, on or after 1st July and before 1st August or on or after 1st August and on or before 31st December, respectively;
 - “**the Act**” means the Higher Education and Research Act 2017;
-- “AY 2020/21” means an academic year commencing on or after 1st August 2020 and before 1st August 2021;[^key-e96a534356dc8fc07d2570c51ec63934]
-- “[^key-57eed82bd52da715016a0a27fdd8598a]**CAH3 code**” means a Common Aggregated Hierarchy 3 code associated with a subject, as referred to in version 1.3.4 of the Higher Education Classification of Subjects coding system;
+- “AY 2020/21” means an academic year commencing on or after 1st August 2020 and before 1st August 2021;[^c-e96a534356dc8fc07d2570c51ec63934]
+- “[^c-57eed82bd52da715016a0a27fdd8598a]**CAH3 code**” means a Common Aggregated Hierarchy 3 code associated with a subject, as referred to in version 1.3.4 of the Higher Education Classification of Subjects coding system;
 - “**Erasmus year**” has the same meaning as in regulation 2(1) of the Student Support Regulations;
 - “**foundation year**” means a period of study that—
   - (a) is of one academic year’s duration if undertaken full time, or equivalent to that duration if undertaken part-time,
@@ -70,34 +70,34 @@ These Regulations apply to English higher education providers [^c23363001].
 - “**sandwich course**” has the same meaning as in regulation 2(10) of the Student Support Regulations;
 - “**the Student Support Regulations**” means the Education (Student Support) Regulations 2011 [^c23363011].
 
-(2)[^key-635912b3a9c2eaf9997eec7c31653b34] A foundation year is a “lower-fee foundation year” if more than 50% of the CAH3 codes associated with the subjects studied as part of the foundation year (for student loan purposes) are listed in the Schedule.
+(2)[^c-635912b3a9c2eaf9997eec7c31653b34] A foundation year is a “lower-fee foundation year” if more than 50% of the CAH3 codes associated with the subjects studied as part of the foundation year (for student loan purposes) are listed in the Schedule.
 
 ## 4. Higher, basic and floor amounts: general
 
 (1) In these Regulations—
 
-- (a) regulations 5 to 7A[^key-b50b3b42b6752e7d57f22bd2a63e47b4] , 11 and 11A[^key-cea975b30500e950dc9fc759e81e654d] prescribe higher amounts for the purposes of paragraph 2(2)(a) of Schedule 2 to the Act;
-- (b) regulations 8 to 11A[^key-c79d40a172529fad84e7db47f7fac03c] prescribe basic amounts for the purposes of paragraph 3(2)(a) of that Schedule;
-- (c) regulations 5 to 11A[^key-e9111ab566b07b821e6f4a4b1ae2cc0f] prescribe floor amounts, in respect of the higher or basic amounts to which they relate, for the purposes of paragraphs 2 and 3 of that Schedule;
-- (d) the amounts prescribed by regulations 5 to 10 do not apply in a case to which regulations 11 and 11A apply[^key-2cf99ec808691955243c41e82ae54bb8].
+- (a) regulations 5 to 7A[^c-b50b3b42b6752e7d57f22bd2a63e47b4] , 11 and 11A[^c-cea975b30500e950dc9fc759e81e654d] prescribe higher amounts for the purposes of paragraph 2(2)(a) of Schedule 2 to the Act;
+- (b) regulations 8 to 11A[^c-c79d40a172529fad84e7db47f7fac03c] prescribe basic amounts for the purposes of paragraph 3(2)(a) of that Schedule;
+- (c) regulations 5 to 11A[^c-e9111ab566b07b821e6f4a4b1ae2cc0f] prescribe floor amounts, in respect of the higher or basic amounts to which they relate, for the purposes of paragraphs 2 and 3 of that Schedule;
+- (d) the amounts prescribed by regulations 5 to 10 do not apply in a case to which regulations 11 and 11A apply[^c-2cf99ec808691955243c41e82ae54bb8].
 
 (2) The amounts prescribed by these Regulations apply in respect of an academic year of a course where that academic year begins on or after 1st August 2019, whether or not the course began before that date.
 
-(3)[^key-d1f61911decea670e77e1abb1c8e750e] The amounts prescribed by these Regulations apply in respect of courses which begin on or before 31 December 2026.
+(3)[^c-d1f61911decea670e77e1abb1c8e750e] The amounts prescribed by these Regulations apply in respect of courses which begin on or before 31 December 2026.
 
-## 5. Higher and floor amounts from 1st August 2019, 1st August 2025, 1st August 2026 or 1st August 2027: general[^key-e09be683b6f52dcdf0498f2a2070f8e7]
+## 5. Higher and floor amounts from 1st August 2019, 1st August 2025, 1st August 2026 or 1st August 2027: general[^c-e09be683b6f52dcdf0498f2a2070f8e7]
 
-(1)[^key-5f149ad6a4e479aea076f5d53a2fa422] Except as otherwise provided in regulations 6, 6A, 7, 11 and 11A[^key-ebc5b43ebc6f08d408dfc993dafa0de8] , where the academic year of the course begins on or after 1st August 2019, but before 1st August 2025[^key-adbc87450781a0e0619b4ca7d064851b]—
+(1)[^c-5f149ad6a4e479aea076f5d53a2fa422] Except as otherwise provided in regulations 6, 6A, 7, 11 and 11A[^c-ebc5b43ebc6f08d408dfc993dafa0de8] , where the academic year of the course begins on or after 1st August 2019, but before 1st August 2025[^c-adbc87450781a0e0619b4ca7d064851b]—
 
 - (a) the higher amount is £9,250;
 - (b) the floor amount in respect of that higher amount is £9,000.
 
-(2)[^key-51fe080eb70d06ad0d7be2dbc9bf1584] Except as otherwise provided in regulations 6, 6B, 7, 7A and 11, where the academic year of the course begins on or after 1st August 2025 but before 1st August 2026[^key-59acfe073a0de8022c30c26990f4578c]—
+(2)[^c-51fe080eb70d06ad0d7be2dbc9bf1584] Except as otherwise provided in regulations 6, 6B, 7, 7A and 11, where the academic year of the course begins on or after 1st August 2025 but before 1st August 2026[^c-59acfe073a0de8022c30c26990f4578c]—
 
 - (a) the higher amount is £9,535;
 - (b) the floor amount in respect of that higher amount is £9,275.
 
-(3)[^key-68f8514a88ff404dc888a287b0cb1a39] Except as otherwise provided in regulations 6, 6B, 7, 7A and 11, where the academic year of the course begins on or after 1st August 2026 but before 1st August 2027—
+(3)[^c-68f8514a88ff404dc888a287b0cb1a39] Except as otherwise provided in regulations 6, 6B, 7, 7A and 11, where the academic year of the course begins on or after 1st August 2026 but before 1st August 2027—
 
 - (a) the higher amount is £9,790;
 - (b) the floor amount in respect of that higher amount is £9,525.
@@ -107,71 +107,71 @@ These Regulations apply to English higher education providers [^c23363001].
 - (a) the higher amount is £10,050;
 - (b) the floor amount in respect of that higher amount is £9,780.
 
-## 6. Higher and floor amounts for specified cases from 1st August 2019, 1st August 2025, 1st August 2026 or 1st August 2027[^key-cb827f487f7718211cb94d8b8895773d]
+## 6. Higher and floor amounts for specified cases from 1st August 2019, 1st August 2025, 1st August 2026 or 1st August 2027[^c-cb827f487f7718211cb94d8b8895773d]
 
 (1) In respect of the final academic year of any course, if that academic year is normally required to be completed after less than 15 weeks' attendance—
 
-- (a) the higher amount is —[^key-745e5e0597d3d895467d1fba2bf49d3b]
+- (a) the higher amount is —[^c-745e5e0597d3d895467d1fba2bf49d3b]
   - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, £4,625;
-  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^key-556548f8e5611a049a19f742921ed630] £4,765 ;[^key-f07a601c859b4b82e8b465397a7a0fcf]
+  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^c-556548f8e5611a049a19f742921ed630] £4,765 ;[^c-f07a601c859b4b82e8b465397a7a0fcf]
   - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £4,895;
   - (iv) where the academic year begins on or after 1st August 2027, £5,025.
-- (b) the floor amount in respect of that higher amount is —[^key-4f2b2a84ada6b12ce7ddaa7ea50107f5]
+- (b) the floor amount in respect of that higher amount is —[^c-4f2b2a84ada6b12ce7ddaa7ea50107f5]
   - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, £4,500;
-  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^key-d7fb6134b72ff96c8f2601009b33d75e] £4,635 ;[^key-c701f785c2663bb16ee09d14fa4c455c]
+  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^c-d7fb6134b72ff96c8f2601009b33d75e] £4,635 ;[^c-c701f785c2663bb16ee09d14fa4c455c]
   - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £4,760;
   - (iv) where the academic year begins on or after 1st August 2027, £4,890.
 
-(2) The higher amounts[^key-0a23abe8f69baa7bec634db2b11823d3] and the floor amounts in paragraph (3) are prescribed in respect of an academic year of a sandwich course—
+(2) The higher amounts[^c-0a23abe8f69baa7bec634db2b11823d3] and the floor amounts in paragraph (3) are prescribed in respect of an academic year of a sandwich course—
 
 - (a) during which any periods of full-time study are in aggregate less than 10 weeks; or
 - (b) if in respect of that academic year and any previous academic years of the course the aggregate of any one or more periods of attendance which are not periods of full-time study at the provider (disregarding intervening vacations) exceeds 30 weeks.
 
 (3) Further to paragraph (2)—
 
-- (a) the higher amount is —[^key-3e4db6ca7eeb7b6274314ea3d3fece7c]
+- (a) the higher amount is —[^c-3e4db6ca7eeb7b6274314ea3d3fece7c]
   - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, £1,850;
-  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^key-799f5dad5e5dea08b6da7ebc88a6fe21] £1,905 ;[^key-40b6d18b6812e426ef11e85eef1eef25]
+  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^c-799f5dad5e5dea08b6da7ebc88a6fe21] £1,905 ;[^c-40b6d18b6812e426ef11e85eef1eef25]
   - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £1,955;
   - (iv) where the academic year begins on or after 1st August 2027, £2,010.
-- (b) the floor amount in respect of that higher amount is —[^key-8ac4b4c1acdae3755f0f7f9ccab6a69b]
-  - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, but before 1st August 2026,[^key-ce11209f1ff605027b7df881027f9e29] £1,800;
-  - (ii) where the academic year begins on or after 1st August 2025, £1,855 ;[^key-a027a956dfcaeb36b3555dc80ef7d93d]
+- (b) the floor amount in respect of that higher amount is —[^c-8ac4b4c1acdae3755f0f7f9ccab6a69b]
+  - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, but before 1st August 2026,[^c-ce11209f1ff605027b7df881027f9e29] £1,800;
+  - (ii) where the academic year begins on or after 1st August 2025, £1,855 ;[^c-a027a956dfcaeb36b3555dc80ef7d93d]
   - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £1,905;
   - (iv) where the academic year begins on or after 1st August 2027, £1,955.
 
 (4) In respect of an Erasmus year—
 
-- (a) the higher amount is —[^key-a4e8f8f880c4538dcfbccb7ded492b29]
+- (a) the higher amount is —[^c-a4e8f8f880c4538dcfbccb7ded492b29]
   - (i) where the academic year of the course begins on or after 1st August 2019, but before 1st August 2025, £1,385;
-  - (ii) where the academic year of the course begins on or after 1st August 2025, but before 1st August 2026[^key-9a4fd48362b16ba74c98b093672ad065] £1,430 ;[^key-354f19dcd5734fdb716824e109f7524c]
+  - (ii) where the academic year of the course begins on or after 1st August 2025, but before 1st August 2026[^c-9a4fd48362b16ba74c98b093672ad065] £1,430 ;[^c-354f19dcd5734fdb716824e109f7524c]
   - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £1,465;
   - (iv) where the academic year begins on or after 1st August 2027, £1,505.
-- (b) the floor amount in respect of that higher amount is —[^key-0e1f78c4fefae0c4d5a659953cba407a]
-  - (i) where the academic year of the course begins on or after 1st August 2019, but before 1st August 2025, but before 1st August 2026[^key-0cc97eb270dfe7deb32c3fc7dde79796] £1,350;
-  - (ii) where the academic year of the course begins on or after 1st August 2025, £1,390 ;[^key-9ce0e7ada048757c5cbe24589f85193e]
+- (b) the floor amount in respect of that higher amount is —[^c-0e1f78c4fefae0c4d5a659953cba407a]
+  - (i) where the academic year of the course begins on or after 1st August 2019, but before 1st August 2025, but before 1st August 2026[^c-0cc97eb270dfe7deb32c3fc7dde79796] £1,350;
+  - (ii) where the academic year of the course begins on or after 1st August 2025, £1,390 ;[^c-9ce0e7ada048757c5cbe24589f85193e]
 - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £1,425;
 - (iv) where the academic year begins on or after 1st August 2027, £1,465.
 
-(5) The higher amounts[^key-5e6d5c9688725fe5a76108e2e70152d0] and the floor amounts in paragraph (6) are prescribed in respect of an academic year of a course (which is not an Erasmus year) provided in conjunction with an overseas provider—
+(5) The higher amounts[^c-5e6d5c9688725fe5a76108e2e70152d0] and the floor amounts in paragraph (6) are prescribed in respect of an academic year of a course (which is not an Erasmus year) provided in conjunction with an overseas provider—
 
 - (a) during which any periods of full-time study at the provider in the United Kingdom are in aggregate less than 10 weeks; or
 - (b) if in respect of that academic year and any previous academic years of the course the aggregate of any one or more periods of attendance which are not periods of full-time study at the provider in the United Kingdom (disregarding intervening vacations) exceeds 30 weeks.
 
 (6) Further to paragraph (5)—
 
-- (a) the higher amount is —[^key-f6f2a8908382a643ea18804fda92679b]
+- (a) the higher amount is —[^c-f6f2a8908382a643ea18804fda92679b]
   - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, £1,385;
-  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^key-fc1e95457e2a5519a217f809c2e337e1] £1,430 ;[^key-73c8c60b1a05832b7ef47fd545b5a61b]
+  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^c-fc1e95457e2a5519a217f809c2e337e1] £1,430 ;[^c-73c8c60b1a05832b7ef47fd545b5a61b]
   - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £1,465;
   - (iv) where the academic year begins on or after 1st August 2027, £1,505.
-- (b) the floor amount in respect of that higher amount is —[^key-3dc9cde6e9e856d307d3731d5aa4b8e1]
-  - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, but before 1st August 2026,[^key-913a82608324d81a9904ea183ef946ba] £1,350;
-  - (ii) where the academic year begins on or after 1st August 2025, £1,390 ;[^key-556dd211ffcc5ec01b619bed23d3f99f]
+- (b) the floor amount in respect of that higher amount is —[^c-3dc9cde6e9e856d307d3731d5aa4b8e1]
+  - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, but before 1st August 2026,[^c-913a82608324d81a9904ea183ef946ba] £1,350;
+  - (ii) where the academic year begins on or after 1st August 2025, £1,390 ;[^c-556dd211ffcc5ec01b619bed23d3f99f]
   - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £1,425;
   - (iv) where the academic year begins on or after 1st August 2027, £1,465.
 
-## 6A. Reduced higher and floor amounts in the academic year commencing on or after 1st August 2021 and before 1st August 2022[^key-e18df7ee6890a6f0926212e65bc7ec33]
+## 6A. Reduced higher and floor amounts in the academic year commencing on or after 1st August 2021 and before 1st August 2022[^c-e18df7ee6890a6f0926212e65bc7ec33]
 
 (1) The higher and floor amounts set out in regulations 5 and 6 are reduced in relation to a higher education provider in accordance with paragraph (2) in respect of an academic year which commences on or after 1st August 2021 and before 1st August 2022 where—
 
@@ -184,26 +184,26 @@ These Regulations apply to English higher education providers [^c23363001].
 - (b) 9% where the level is exceeded by more than 6% but not more than 12%;
 - (c) 15% where the level is exceeded by more than 12%.
 
-## 6B. Higher and floor amounts for full-time lower-fee foundation years from 1st August 2025[^key-5d4e80ec821698f23bd60cb4949ca6d7]
+## 6B. Higher and floor amounts for full-time lower-fee foundation years from 1st August 2025[^c-5d4e80ec821698f23bd60cb4949ca6d7]
 
 In respect of a lower-fee foundation year that begins on or after 1st August 2025—
 
 - (a) the higher amount is £5,760;
 - (b) the floor amount in respect of that higher amount is £5,605.
 
-## 7. Higher and floor amounts for part-time courses from 1st August 2019, 1st August 2025, 1st August 2026 or 1st August 2027[^key-bea5f47d09b04fde447071f86beff54c]
+## 7. Higher and floor amounts for part-time courses from 1st August 2019, 1st August 2025, 1st August 2026 or 1st August 2027[^c-bea5f47d09b04fde447071f86beff54c]
 
-(1)[^key-18978f06b3e6bfd4d2f49e1402672d43] For any part-time course where the academic year begins on or after 1st August 2019, but before 1st August 2025[^key-8b5bb7c307c45deff2238baf50d346e8]—
+(1)[^c-18978f06b3e6bfd4d2f49e1402672d43] For any part-time course where the academic year begins on or after 1st August 2019, but before 1st August 2025[^c-8b5bb7c307c45deff2238baf50d346e8]—
 
 - (a) the higher amount is £6,935;
 - (b) the floor amount in respect of that higher amount is £6,750.
 
-(2)[^key-3b35af2d65521c35c189f23d25e0896f] For any part-time course where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^key-e5c1ce305c32680b3cbeef21273dc82a] with the exception of any part of that course to which regulation 7A applies—
+(2)[^c-3b35af2d65521c35c189f23d25e0896f] For any part-time course where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^c-e5c1ce305c32680b3cbeef21273dc82a] with the exception of any part of that course to which regulation 7A applies—
 
 - (a) the higher amount is £7,145;
 - (b) the floor amount in respect of that higher amount is £6,955.
 
-(3)[^key-1c6021aa04de27c50583f3419934be9c] For any part-time course where the academic year begins on or after 1st August 2026, but before 1st August 2027, with the exception of any part of that course to which regulation 7A applies—
+(3)[^c-1c6021aa04de27c50583f3419934be9c] For any part-time course where the academic year begins on or after 1st August 2026, but before 1st August 2027, with the exception of any part of that course to which regulation 7A applies—
 
 - (a) the higher amount is £7,335;
 - (b) the floor amount in respect of that higher amount is £7,140.
@@ -213,26 +213,26 @@ In respect of a lower-fee foundation year that begins on or after 1st August 202
 - (a) the higher amount is £7,530;
 - (b) the floor amount in respect of that higher amount is £7,330.
 
-## 7A. Higher and floor amounts for part-time lower-fee foundation years from 1st August 2025[^key-d4a8c294d9bfba55567ebeedf47194e9]
+## 7A. Higher and floor amounts for part-time lower-fee foundation years from 1st August 2025[^c-d4a8c294d9bfba55567ebeedf47194e9]
 
 For a lower-fee foundation year that is undertaken part-time and begins on or after 1st August 2025—
 
 - (a) the higher amount is £4,315;
 - (b) the floor amount in respect of that higher amount is £4,200.
 
-## 8. Basic and floor amounts from 1st August 2019, 1st August 2025, 1st August 2026 or 1st August 2027[^key-644f3a99b10d966140e1707c7ab0cf66]
+## 8. Basic and floor amounts from 1st August 2019, 1st August 2025, 1st August 2026 or 1st August 2027[^c-644f3a99b10d966140e1707c7ab0cf66]
 
-(1)[^key-8f9365a66613e6d8dcc9c6ed29bd862d] Except as otherwise provided in regulations 9, 9A, 10, 11 and 11A, where the academic year of the course begins on or after 1st August 2019, but before 1st August 2025[^key-68b9cd9793b70458b556743944c3975d]—
+(1)[^c-8f9365a66613e6d8dcc9c6ed29bd862d] Except as otherwise provided in regulations 9, 9A, 10, 11 and 11A, where the academic year of the course begins on or after 1st August 2019, but before 1st August 2025[^c-68b9cd9793b70458b556743944c3975d]—
 
 - (a) the basic amount is £6,165;
 - (b) the floor amount in respect of that basic amount is £6,000.
 
-(2)[^key-4f58db3e68a3d789bf1048d7cb9e9fa4] Except as otherwise provided in regulations 9, 9B, 10, 10A and 11, where the academic year of the course begins on or after 1st August 2025, but before 1st August 2026[^key-7704eb728c55446be0918cf233934054] —
+(2)[^c-4f58db3e68a3d789bf1048d7cb9e9fa4] Except as otherwise provided in regulations 9, 9B, 10, 10A and 11, where the academic year of the course begins on or after 1st August 2025, but before 1st August 2026[^c-7704eb728c55446be0918cf233934054] —
 
 - (a) the basic amount is £6,355;
 - (b) the floor amount in respect of that basic amount is £6,185.
 
-(3)[^key-c70ad26b255bd91aa470427d5393db00] Except as otherwise provided in regulations 9, 9B, 10, 10A and 11, where the academic year of the course begins on or after 1st August 2026, but before 1st August 2027—
+(3)[^c-c70ad26b255bd91aa470427d5393db00] Except as otherwise provided in regulations 9, 9B, 10, 10A and 11, where the academic year of the course begins on or after 1st August 2026, but before 1st August 2027—
 
 - (a) the basic amount is £6,525;
 - (b) the floor amount in respect of that basic amount is £6,350.
@@ -242,71 +242,71 @@ For a lower-fee foundation year that is undertaken part-time and begins on or af
 - (a) the basic amount is £6,695;
 - (b) the floor amount in respect of that basic amount is £6,520.
 
-## 9. Basic and floor amounts for specified cases from 1st August 2019, 1st August 2025, 1st August 2026 or 1st August 2027[^key-4087cdeece597c2c55784431c687fc49]
+## 9. Basic and floor amounts for specified cases from 1st August 2019, 1st August 2025, 1st August 2026 or 1st August 2027[^c-4087cdeece597c2c55784431c687fc49]
 
 (1) In respect of the final academic year of any course, if that academic year is normally required to be completed after less than 15 weeks' attendance—
 
-- (a) the basic amount is —[^key-bc89aac1b0571987d8fd440cda134bee]
+- (a) the basic amount is —[^c-bc89aac1b0571987d8fd440cda134bee]
   - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, £3,080;
-  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^key-00eeb6a5986b75f47c1220311a0d5f7b] £3,175 ;[^key-62b7e97ba1e7276824146cfebf8fd92b]
+  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^c-00eeb6a5986b75f47c1220311a0d5f7b] £3,175 ;[^c-62b7e97ba1e7276824146cfebf8fd92b]
   - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £3,260;
   - (iv) where the academic year begins on or after 1st August 2027, £3,345.
-- (b) the floor amount in respect of that basic amount is —[^key-f283a8429f184fc0327bae20bc498620]
+- (b) the floor amount in respect of that basic amount is —[^c-f283a8429f184fc0327bae20bc498620]
 - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, £3,000;
-- (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^key-38bc0b8e563b6ff4e6c0a8e86664b1d9] £3,090 ;[^key-718c2a648f1a222857437b2c28f15e70]
+- (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^c-38bc0b8e563b6ff4e6c0a8e86664b1d9] £3,090 ;[^c-718c2a648f1a222857437b2c28f15e70]
 - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £3,175;
 - (iv) where the academic year begins on or after 1st August 2027, £3,260.
 
-(2) The basic amounts[^key-72f4907319fa06a339925541c4bbc023] and the floor amounts in paragraph (3) are prescribed in respect of an academic year of a sandwich course—
+(2) The basic amounts[^c-72f4907319fa06a339925541c4bbc023] and the floor amounts in paragraph (3) are prescribed in respect of an academic year of a sandwich course—
 
 - (a) during which any periods of full-time study are in aggregate less than 10 weeks; or
 - (b) if in respect of that academic year and any previous academic years of the course the aggregate of any one or more periods of attendance which are not periods of full-time study at the provider (disregarding intervening vacations) exceeds 30 weeks.
 
 (3) Further to paragraph (2)—
 
-- (a) the basic amount is —[^key-593ca955b30f725181f6d142cc252939]
+- (a) the basic amount is —[^c-593ca955b30f725181f6d142cc252939]
 - (i) where the academic year of the course begins on or after 1st August 2019, but before 1st August 2025, £1,230;
-- (ii) where the academic year of the course begins on or after 1st August 2025, but before 1st August 2026,[^key-f42f8fd2c5b814127bc0d5d6432d8b47] £1,270 ;[^key-019488a06b912bfad58b0c4943caf286]
+- (ii) where the academic year of the course begins on or after 1st August 2025, but before 1st August 2026,[^c-f42f8fd2c5b814127bc0d5d6432d8b47] £1,270 ;[^c-019488a06b912bfad58b0c4943caf286]
 - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £1,305;
 - (iv) where the academic year begins on or after 1st August 2027, £1,335.
-- (b) the floor amount in respect of that basic amount is —[^key-c386ad7e6a040c120e98d3e06a8dd0d3]
+- (b) the floor amount in respect of that basic amount is —[^c-c386ad7e6a040c120e98d3e06a8dd0d3]
 - (i) where the academic year of the course begins on or after 1st August 2019, but before 1st August 2025, £1,200;
-- (ii) where the academic year of the course begins on or after 1st August 2025, but before 1st August 2026,[^key-0eead51e6f6f307ef4d01f725cd300fe] £1,235 ;[^key-088cd4affd923e569d31540f18968ad2]
+- (ii) where the academic year of the course begins on or after 1st August 2025, but before 1st August 2026,[^c-0eead51e6f6f307ef4d01f725cd300fe] £1,235 ;[^c-088cd4affd923e569d31540f18968ad2]
 - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £1,270;
 - (iv) where the academic year begins on or after 1st August 2027, £1,300.
 
 (4) In respect of an Erasmus year—
 
-- (a) the basic amount is —[^key-996063165a054793c1ac19d5850dc2a5]
+- (a) the basic amount is —[^c-996063165a054793c1ac19d5850dc2a5]
   - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, £920;
-  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^key-5735f3d93877e3546f4ad6247b0c8891] £950 ;[^key-683ac56bfc196996672de0a27d672c42]
+  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^c-5735f3d93877e3546f4ad6247b0c8891] £950 ;[^c-683ac56bfc196996672de0a27d672c42]
   - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £975;
   - (iv) where the academic year begins on or after 1st August 2027, £1,000.
-- (b) the floor amount in respect of that basic amount is —[^key-14ef6f54348f1719ddd55249bdfe1e6b]
+- (b) the floor amount in respect of that basic amount is —[^c-14ef6f54348f1719ddd55249bdfe1e6b]
   - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, £900;
-  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026[^key-14577593a2312fbe6c5d45a72b1cf789] £925 ;[^key-9f7951f6bf28d56477f4f98757bc088c]
+  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026[^c-14577593a2312fbe6c5d45a72b1cf789] £925 ;[^c-9f7951f6bf28d56477f4f98757bc088c]
   - (iii) where the academic year begins on or after 1st August 2026, but before 1st August 2027, £950;
   - (iv) where the academic year begins on or after 1st August 2027, £975.
 
-(5) The basic amounts[^key-63521c06ec1493b5b340d584440c0d73] and the floor amounts in paragraph (6) are prescribed in respect of an academic year of a course (which is not an Erasmus year) provided in conjunction with an overseas provider—
+(5) The basic amounts[^c-63521c06ec1493b5b340d584440c0d73] and the floor amounts in paragraph (6) are prescribed in respect of an academic year of a course (which is not an Erasmus year) provided in conjunction with an overseas provider—
 
 - (a) during which any periods of full-time study at the provider in the United Kingdom are in aggregate less than 10 weeks; or
 - (b) if in respect of that academic year and any previous academic years of the course the aggregate of any one or more periods of attendance which are not periods of full-time study at the provider in the United Kingdom (disregarding intervening vacations) exceeds 30 weeks.
 
 (6) Further to paragraph (5)—
 
-- (a) the basic amount is —[^key-f5da29a8d7ba5de84bfdfa7850985925]
+- (a) the basic amount is —[^c-f5da29a8d7ba5de84bfdfa7850985925]
   - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, £920;
-  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^key-97c27f749dc03bcf358735554e52c4ea] £950 ;[^key-d14089c7c1f55ced8ad66dbe2fec7cfb]
+  - (ii) where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^c-97c27f749dc03bcf358735554e52c4ea] £950 ;[^c-d14089c7c1f55ced8ad66dbe2fec7cfb]
   - (iii) where the academic year begins on or after 1st August 2026 but before 1st August 2027, £975;
   - (iv) where the academic year begins on or after 1st August 2027, £1,000.
-- (b) the floor amount in respect of that basic amount is —[^key-181ee6beb8f14fec995f3ff551a2330a]
+- (b) the floor amount in respect of that basic amount is —[^c-181ee6beb8f14fec995f3ff551a2330a]
   - (i) where the academic year begins on or after 1st August 2019, but before 1st August 2025, £900;
-  - (ii) where the academic year begins on or after 1st August 2025 but before 1st August 2026[^key-d05ad17f8379831772c22b40905fee60], £925 ;[^key-18a24226b086073a8dbac0fa3ba7e2ca]
+  - (ii) where the academic year begins on or after 1st August 2025 but before 1st August 2026[^c-d05ad17f8379831772c22b40905fee60], £925 ;[^c-18a24226b086073a8dbac0fa3ba7e2ca]
   - (iii) where the academic year begins on or after 1st August 2026 but before 1st August 2027, £950;
   - (iv) where the academic year begins on or after 1st August 2027, £975.
 
-## 9A. Reduced basic and floor amounts in the academic year commencing on or after 1st August 2021 and before 1st August 2022[^key-bf07f9160fdc0e3fb34731a77838c012]
+## 9A. Reduced basic and floor amounts in the academic year commencing on or after 1st August 2021 and before 1st August 2022[^c-bf07f9160fdc0e3fb34731a77838c012]
 
 (1) The basic and floor amounts set out in regulations 8 and 9 are reduced in relation to a higher education provider in accordance with paragraph (2) in respect of an academic year which commences on or after 1st August 2021 and before 1st August 2022 where—
 
@@ -319,26 +319,26 @@ For a lower-fee foundation year that is undertaken part-time and begins on or af
 - (b) 9% where the level is exceeded by more than 6% but not more than 12%;
 - (c) 15% where the level is exceeded by more than 12%.
 
-## 9B. Basic and floor amounts for full-time lower-fee foundation years from 1st August 2025[^key-014e77a365970b6fa58d94bac87df7ed]
+## 9B. Basic and floor amounts for full-time lower-fee foundation years from 1st August 2025[^c-014e77a365970b6fa58d94bac87df7ed]
 
 In respect of a lower-fee foundation year that begins on or after 1st August 2025—
 
 - (a) the basic amount is £3,835;
 - (b) the floor amount in respect of that basic amount is £3,735.
 
-## 10. Basic and floor amounts for part-time courses from 1st August 2019, 1st August 2025, 1st August 2026 or 1st August 2027[^key-bf02e34e14acceee3125d546c043ca12]
+## 10. Basic and floor amounts for part-time courses from 1st August 2019, 1st August 2025, 1st August 2026 or 1st August 2027[^c-bf02e34e14acceee3125d546c043ca12]
 
-(1)[^key-74b3f4cf07c1911d7f1cef8b7630779c] For any part-time course where the academic year begins on or after 1st August 2019, but before 1st August 2025[^key-8f0926110f2fc9c4bc5d391458c63819]—
+(1)[^c-74b3f4cf07c1911d7f1cef8b7630779c] For any part-time course where the academic year begins on or after 1st August 2019, but before 1st August 2025[^c-8f0926110f2fc9c4bc5d391458c63819]—
 
 - (a) the basic amount is £4,625;
 - (b) the floor amount in respect of that basic amount is £4,500.
 
-(2)[^key-0de8f1a688ece932a93ea80e8b23a37a] For any part-time course where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^key-f60ed056cfce10040c64c6511e839dfb] with the exception of any part of that course to which regulation 10A applies—
+(2)[^c-0de8f1a688ece932a93ea80e8b23a37a] For any part-time course where the academic year begins on or after 1st August 2025, but before 1st August 2026,[^c-f60ed056cfce10040c64c6511e839dfb] with the exception of any part of that course to which regulation 10A applies—
 
 - (a) the basic amount is £4,765;
 - (b) the floor amount in respect of that basic amount is £4,635.
 
-(3)[^key-0344df72aca76756c7335816f7301fda] For any part-time course where the academic year begins on or after 1st August 2026, but before 1st August 2027, with the exception of any part of that course to which regulation 10A applies—
+(3)[^c-0344df72aca76756c7335816f7301fda] For any part-time course where the academic year begins on or after 1st August 2026, but before 1st August 2027, with the exception of any part of that course to which regulation 10A applies—
 
 - (a) the basic amount is £4,890;
 - (b) the floor amount in respect of that basic amount is £4,760.
@@ -348,7 +348,7 @@ In respect of a lower-fee foundation year that begins on or after 1st August 202
 - (a) the basic amount is £5,020;
 - (b) the floor amount in respect of that basic amount is £4,885.
 
-## 10A. Basic and floor amounts for part-time lower-fee foundation years from 1st August 2025[^key-d1a4a223dc3488946ed3e613336ebde0]
+## 10A. Basic and floor amounts for part-time lower-fee foundation years from 1st August 2025[^c-d1a4a223dc3488946ed3e613336ebde0]
 
 For a lower-fee foundation year that is undertaken part-time and begins on or after 1st August 2025—
 
@@ -385,7 +385,7 @@ For a lower-fee foundation year that is undertaken part-time and begins on or af
     - (i) during which any periods of full-time study at the provider in the United Kingdom are in aggregate less than 10 weeks; or
     - (ii) if in respect of that academic year and any previous academic years of the course the aggregate of any one or more periods of attendance which are not periods of full-time study at the provider in the United Kingdom (disregarding intervening vacations) exceeds 30 weeks.
 
-## 11A. Reduced higher, basic and floor amounts in the academic year commencing on or after 1st August 2021 and before 1st August 2022[^key-2a631ed86021afebe569c525de2e0938]
+## 11A. Reduced higher, basic and floor amounts in the academic year commencing on or after 1st August 2021 and before 1st August 2022[^c-2a631ed86021afebe569c525de2e0938]
 
 (1) The higher, basic and floor amounts set out in regulation 11 are reduced in relation to a higher education provider in accordance with paragraph (2) in respect of an academic year which commences on or after 1st August 2021 and before 1st August 2022 where—
 
@@ -506,7 +506,7 @@ Minister of State
 
 Department for Education
 
-## SCHEDULE — Subjects for lower-fee foundation year with associated CAH3 codes[^key-7d7908ccbb71a25dd9a9b91894d09be9]
+## SCHEDULE — Subjects for lower-fee foundation year with associated CAH3 codes[^c-7d7908ccbb71a25dd9a9b91894d09be9]
 
 Regulation 3(2)
 
@@ -586,202 +586,202 @@ An Explanatory Memorandum is published alongside the Regulations on www.legislat
 
 [^c23363001]: Marginal citation: See the definition of “English higher education provider” in section 83(1) of the Act.
 
-[^key-3ff37b15e976af8801c92fffb5576354]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/2/a)
+[^c-3ff37b15e976af8801c92fffb5576354]: Textual amendment: Reg. 3 renumbered as reg. 3(1) (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/2/a)
 
-[^key-e96a534356dc8fc07d2570c51ec63934]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/903/regulation/3) inserted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/2)
+[^c-e96a534356dc8fc07d2570c51ec63934]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2018/903/regulation/3) inserted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/2)
 
-[^key-57eed82bd52da715016a0a27fdd8598a]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/903/regulation/3/1) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/2/b)
+[^c-57eed82bd52da715016a0a27fdd8598a]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2018/903/regulation/3/1) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/2/b)
 
 [^c23363011]: Marginal citation: [S.I. 2011/1986](https://www.legislation.gov.uk/uksi/2011/1986), as amended by [S.I. 2012/1653](https://www.legislation.gov.uk/uksi/2012/1653), 2013/235, 2013/630, 2013/1728, 2013/3106, 2014/1766, 2014/2103, 2014/2765, 2015/1951, 2016/211, 2016/270, 2016/584, 2017/52, 2017/114, 2017/204, 2018/136, 2018/137, 2018/434, 2018/443, 2018/472 and 2018/559.
 
-[^key-635912b3a9c2eaf9997eec7c31653b34]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/3/2) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/2/c)
+[^c-635912b3a9c2eaf9997eec7c31653b34]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/3/2) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/2/c)
 
-[^key-b50b3b42b6752e7d57f22bd2a63e47b4]: Textual amendment: Word in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2018/903/regulation/4/1/a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/3)
+[^c-b50b3b42b6752e7d57f22bd2a63e47b4]: Textual amendment: Word in [reg. 4(1)(a)](https://www.legislation.gov.uk/uksi/2018/903/regulation/4/1/a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/3)
 
-[^key-cea975b30500e950dc9fc759e81e654d]: Textual amendment: Words in reg. 4(1)(a) substituted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/3/a)
+[^c-cea975b30500e950dc9fc759e81e654d]: Textual amendment: Words in reg. 4(1)(a) substituted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/3/a)
 
-[^key-c79d40a172529fad84e7db47f7fac03c]: Textual amendment: Word in reg. 4(1)(b) substituted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/3/b)
+[^c-c79d40a172529fad84e7db47f7fac03c]: Textual amendment: Word in reg. 4(1)(b) substituted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/3/b)
 
-[^key-e9111ab566b07b821e6f4a4b1ae2cc0f]: Textual amendment: Word in reg. 4(1)(c) substituted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/3/b)
+[^c-e9111ab566b07b821e6f4a4b1ae2cc0f]: Textual amendment: Word in reg. 4(1)(c) substituted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/3/b)
 
-[^key-2cf99ec808691955243c41e82ae54bb8]: Textual amendment: Words in reg. 4(1)(d) substituted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/3/c)
+[^c-2cf99ec808691955243c41e82ae54bb8]: Textual amendment: Words in reg. 4(1)(d) substituted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/3/c)
 
-[^key-d1f61911decea670e77e1abb1c8e750e]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2018/903/regulation/4/3) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/329/regulation/3)
+[^c-d1f61911decea670e77e1abb1c8e750e]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2018/903/regulation/4/3) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2026/329/regulation/3)
 
-[^key-e09be683b6f52dcdf0498f2a2070f8e7]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/903/regulation/5) heading substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/329/regulation/4/a)
+[^c-e09be683b6f52dcdf0498f2a2070f8e7]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/903/regulation/5) heading substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2026/329/regulation/4/a)
 
-[^key-5f149ad6a4e479aea076f5d53a2fa422]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/903/regulation/5) renumbered as reg. 5(1) (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/4/b)
+[^c-5f149ad6a4e479aea076f5d53a2fa422]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2018/903/regulation/5) renumbered as reg. 5(1) (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/4/b)
 
-[^key-ebc5b43ebc6f08d408dfc993dafa0de8]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/903/regulation/5) substituted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/4)
+[^c-ebc5b43ebc6f08d408dfc993dafa0de8]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2018/903/regulation/5) substituted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/4)
 
-[^key-adbc87450781a0e0619b4ca7d064851b]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2018/903/regulation/5/1) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/4/c)
+[^c-adbc87450781a0e0619b4ca7d064851b]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/uksi/2018/903/regulation/5/1) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/4/c)
 
-[^key-51fe080eb70d06ad0d7be2dbc9bf1584]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/5/2) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/4/d)
+[^c-51fe080eb70d06ad0d7be2dbc9bf1584]: Textual amendment: [Reg. 5(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/5/2) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(4)(d)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/4/d)
 
-[^key-59acfe073a0de8022c30c26990f4578c]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/5/2) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/329/regulation/4/b)
+[^c-59acfe073a0de8022c30c26990f4578c]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/5/2) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2026/329/regulation/4/b)
 
-[^key-68f8514a88ff404dc888a287b0cb1a39]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2018/903/regulation/5/3)[(4)](https://www.legislation.gov.uk/uksi/2018/903/regulation/5/4) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2026/329/regulation/4/c)
+[^c-68f8514a88ff404dc888a287b0cb1a39]: Textual amendment: [Reg. 5(3)](https://www.legislation.gov.uk/uksi/2018/903/regulation/5/3)[(4)](https://www.legislation.gov.uk/uksi/2018/903/regulation/5/4) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [4(c)](https://www.legislation.gov.uk/uksi/2026/329/regulation/4/c)
 
-[^key-cb827f487f7718211cb94d8b8895773d]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2018/903/regulation/6) heading substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/a)
+[^c-cb827f487f7718211cb94d8b8895773d]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2018/903/regulation/6) heading substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/a)
 
-[^key-745e5e0597d3d895467d1fba2bf49d3b]: Textual amendment: Words in reg. 6(1)(a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/b)
+[^c-745e5e0597d3d895467d1fba2bf49d3b]: Textual amendment: Words in reg. 6(1)(a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/b)
 
-[^key-556548f8e5611a049a19f742921ed630]: Textual amendment: Words in [reg. 6(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/1/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(b)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/b/i)
+[^c-556548f8e5611a049a19f742921ed630]: Textual amendment: Words in [reg. 6(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/1/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(b)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/b/i)
 
-[^key-f07a601c859b4b82e8b465397a7a0fcf]: Textual amendment: [Reg. 6(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/1/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/1/a/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/b/ii)
+[^c-f07a601c859b4b82e8b465397a7a0fcf]: Textual amendment: [Reg. 6(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/1/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/1/a/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(b)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/b/ii)
 
-[^key-4f2b2a84ada6b12ce7ddaa7ea50107f5]: Textual amendment: Words in reg. 6(1)(b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/c)
+[^c-4f2b2a84ada6b12ce7ddaa7ea50107f5]: Textual amendment: Words in reg. 6(1)(b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/c)
 
-[^key-d7fb6134b72ff96c8f2601009b33d75e]: Textual amendment: Words in [reg. 6(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/1/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(c)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/c/i)
+[^c-d7fb6134b72ff96c8f2601009b33d75e]: Textual amendment: Words in [reg. 6(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/1/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(c)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/c/i)
 
-[^key-c701f785c2663bb16ee09d14fa4c455c]: Textual amendment: [Reg. 6(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/1/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/1/b/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/c/ii)
+[^c-c701f785c2663bb16ee09d14fa4c455c]: Textual amendment: [Reg. 6(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/1/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/1/b/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(c)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/c/ii)
 
-[^key-0a23abe8f69baa7bec634db2b11823d3]: Textual amendment: Word in reg. 6(2) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(d)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/d)
+[^c-0a23abe8f69baa7bec634db2b11823d3]: Textual amendment: Word in reg. 6(2) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(d)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/d)
 
-[^key-3e4db6ca7eeb7b6274314ea3d3fece7c]: Textual amendment: Words in reg. 6(3)(a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(e)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/e)
+[^c-3e4db6ca7eeb7b6274314ea3d3fece7c]: Textual amendment: Words in reg. 6(3)(a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(e)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/e)
 
-[^key-799f5dad5e5dea08b6da7ebc88a6fe21]: Textual amendment: Words in [reg. 6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/3/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(d)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/d/i)
+[^c-799f5dad5e5dea08b6da7ebc88a6fe21]: Textual amendment: Words in [reg. 6(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/3/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(d)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/d/i)
 
-[^key-40b6d18b6812e426ef11e85eef1eef25]: Textual amendment: [Reg. 6(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/3/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/3/a/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(d)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/d/ii)
+[^c-40b6d18b6812e426ef11e85eef1eef25]: Textual amendment: [Reg. 6(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/3/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/3/a/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(d)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/d/ii)
 
-[^key-8ac4b4c1acdae3755f0f7f9ccab6a69b]: Textual amendment: Words in reg. 6(3)(b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(f)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/f)
+[^c-8ac4b4c1acdae3755f0f7f9ccab6a69b]: Textual amendment: Words in reg. 6(3)(b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(f)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/f)
 
-[^key-ce11209f1ff605027b7df881027f9e29]: Textual amendment: Words in [reg. 6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/3/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(e)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/e/i)
+[^c-ce11209f1ff605027b7df881027f9e29]: Textual amendment: Words in [reg. 6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/3/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(e)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/e/i)
 
-[^key-a027a956dfcaeb36b3555dc80ef7d93d]: Textual amendment: [Reg. 6(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/3/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/3/b/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(e)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/e/ii)
+[^c-a027a956dfcaeb36b3555dc80ef7d93d]: Textual amendment: [Reg. 6(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/3/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/3/b/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(e)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/e/ii)
 
-[^key-a4e8f8f880c4538dcfbccb7ded492b29]: Textual amendment: Words in reg. 6(4)(a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(g)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/g)
+[^c-a4e8f8f880c4538dcfbccb7ded492b29]: Textual amendment: Words in reg. 6(4)(a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(g)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/g)
 
-[^key-9a4fd48362b16ba74c98b093672ad065]: Textual amendment: Words in [reg. 6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/4/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(f)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/f/i)
+[^c-9a4fd48362b16ba74c98b093672ad065]: Textual amendment: Words in [reg. 6(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/4/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(f)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/f/i)
 
-[^key-354f19dcd5734fdb716824e109f7524c]: Textual amendment: [Reg. 6(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/4/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/4/a/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(f)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/f/ii)
+[^c-354f19dcd5734fdb716824e109f7524c]: Textual amendment: [Reg. 6(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/4/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/4/a/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(f)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/f/ii)
 
-[^key-0e1f78c4fefae0c4d5a659953cba407a]: Textual amendment: Words in reg. 6(4)(b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(h)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/h)
+[^c-0e1f78c4fefae0c4d5a659953cba407a]: Textual amendment: Words in reg. 6(4)(b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(h)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/h)
 
-[^key-0cc97eb270dfe7deb32c3fc7dde79796]: Textual amendment: Words in [reg. 6(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/4/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(g)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/g/i)
+[^c-0cc97eb270dfe7deb32c3fc7dde79796]: Textual amendment: Words in [reg. 6(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/4/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(g)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/g/i)
 
-[^key-9ce0e7ada048757c5cbe24589f85193e]: Textual amendment: [Reg. 6(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/4/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/4/b/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(g)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/g/ii)
+[^c-9ce0e7ada048757c5cbe24589f85193e]: Textual amendment: [Reg. 6(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/4/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/4/b/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(g)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/g/ii)
 
-[^key-5e6d5c9688725fe5a76108e2e70152d0]: Textual amendment: Word in reg. 6(5) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(i)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/i)
+[^c-5e6d5c9688725fe5a76108e2e70152d0]: Textual amendment: Word in reg. 6(5) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(i)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/i)
 
-[^key-f6f2a8908382a643ea18804fda92679b]: Textual amendment: Words in reg. 6(6)(a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(j)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/j)
+[^c-f6f2a8908382a643ea18804fda92679b]: Textual amendment: Words in reg. 6(6)(a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(j)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/j)
 
-[^key-fc1e95457e2a5519a217f809c2e337e1]: Textual amendment: Words in [reg. 6(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/6/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(h)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/h/i)
+[^c-fc1e95457e2a5519a217f809c2e337e1]: Textual amendment: Words in [reg. 6(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/6/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(h)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/h/i)
 
-[^key-73c8c60b1a05832b7ef47fd545b5a61b]: Textual amendment: [Reg. 6(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/6/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/6/a/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(h)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/h/ii)
+[^c-73c8c60b1a05832b7ef47fd545b5a61b]: Textual amendment: [Reg. 6(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/6/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/6/a/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(h)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/h/ii)
 
-[^key-3dc9cde6e9e856d307d3731d5aa4b8e1]: Textual amendment: Words in reg. 6(6)(b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(k)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/k)
+[^c-3dc9cde6e9e856d307d3731d5aa4b8e1]: Textual amendment: Words in reg. 6(6)(b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(5)(k)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/5/k)
 
-[^key-913a82608324d81a9904ea183ef946ba]: Textual amendment: Words in [reg. 6(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/6/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(i)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/i/i)
+[^c-913a82608324d81a9904ea183ef946ba]: Textual amendment: Words in [reg. 6(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/6/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(i)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/i/i)
 
-[^key-556dd211ffcc5ec01b619bed23d3f99f]: Textual amendment: [Reg. 6(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/6/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/6/b/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/i)[(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/ii)
+[^c-556dd211ffcc5ec01b619bed23d3f99f]: Textual amendment: [Reg. 6(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/6/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/6/6/b/iv) and semi-colon inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [5(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/i)[(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/5/ii)
 
-[^key-e18df7ee6890a6f0926212e65bc7ec33]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2018/903/regulation/6A) inserted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/5)
+[^c-e18df7ee6890a6f0926212e65bc7ec33]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/uksi/2018/903/regulation/6A) inserted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/5)
 
-[^key-5d4e80ec821698f23bd60cb4949ca6d7]: Textual amendment: [Reg. 6B](https://www.legislation.gov.uk/uksi/2018/903/regulation/6B) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/6)
+[^c-5d4e80ec821698f23bd60cb4949ca6d7]: Textual amendment: [Reg. 6B](https://www.legislation.gov.uk/uksi/2018/903/regulation/6B) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/6)
 
-[^key-bea5f47d09b04fde447071f86beff54c]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2018/903/regulation/7) heading substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2026/329/regulation/6/a)
+[^c-bea5f47d09b04fde447071f86beff54c]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2018/903/regulation/7) heading substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2026/329/regulation/6/a)
 
-[^key-18978f06b3e6bfd4d2f49e1402672d43]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/903/regulation/7) renumbered as reg. 7(1) (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/7/b)
+[^c-18978f06b3e6bfd4d2f49e1402672d43]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2018/903/regulation/7) renumbered as reg. 7(1) (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/7/b)
 
-[^key-8b5bb7c307c45deff2238baf50d346e8]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2018/903/regulation/7/1) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(7)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/7/c)
+[^c-8b5bb7c307c45deff2238baf50d346e8]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2018/903/regulation/7/1) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(7)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/7/c)
 
-[^key-3b35af2d65521c35c189f23d25e0896f]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/7/2) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(7)(d)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/7/d)
+[^c-3b35af2d65521c35c189f23d25e0896f]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/7/2) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(7)(d)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/7/d)
 
-[^key-e5c1ce305c32680b3cbeef21273dc82a]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/7/2) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2026/329/regulation/6/b)
+[^c-e5c1ce305c32680b3cbeef21273dc82a]: Textual amendment: Words in [reg. 7(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/7/2) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2026/329/regulation/6/b)
 
-[^key-1c6021aa04de27c50583f3419934be9c]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2018/903/regulation/7/3)[(4)](https://www.legislation.gov.uk/uksi/2018/903/regulation/7/4) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2026/329/regulation/6/c)
+[^c-1c6021aa04de27c50583f3419934be9c]: Textual amendment: [Reg. 7(3)](https://www.legislation.gov.uk/uksi/2018/903/regulation/7/3)[(4)](https://www.legislation.gov.uk/uksi/2018/903/regulation/7/4) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [6(c)](https://www.legislation.gov.uk/uksi/2026/329/regulation/6/c)
 
-[^key-d4a8c294d9bfba55567ebeedf47194e9]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2018/903/regulation/7A) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/8)
+[^c-d4a8c294d9bfba55567ebeedf47194e9]: Textual amendment: [Reg. 7A](https://www.legislation.gov.uk/uksi/2018/903/regulation/7A) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/8)
 
-[^key-644f3a99b10d966140e1707c7ab0cf66]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2018/903/regulation/8) heading substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2026/329/regulation/7/a)
+[^c-644f3a99b10d966140e1707c7ab0cf66]: Textual amendment: Words in [reg. 8](https://www.legislation.gov.uk/uksi/2018/903/regulation/8) heading substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2026/329/regulation/7/a)
 
-[^key-8f9365a66613e6d8dcc9c6ed29bd862d]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/903/regulation/8) renumbered as reg. 8(1) (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/9/b)
+[^c-8f9365a66613e6d8dcc9c6ed29bd862d]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2018/903/regulation/8) renumbered as reg. 8(1) (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/9/b)
 
-[^key-68b9cd9793b70458b556743944c3975d]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2018/903/regulation/8/1) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(9)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/9/c)
+[^c-68b9cd9793b70458b556743944c3975d]: Textual amendment: Words in [reg. 8(1)](https://www.legislation.gov.uk/uksi/2018/903/regulation/8/1) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(9)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/9/c)
 
-[^key-4f58db3e68a3d789bf1048d7cb9e9fa4]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/8/2) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(9)(d)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/9/d)
+[^c-4f58db3e68a3d789bf1048d7cb9e9fa4]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/8/2) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(9)(d)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/9/d)
 
-[^key-7704eb728c55446be0918cf233934054]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/8/2) substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2026/329/regulation/7/b)
+[^c-7704eb728c55446be0918cf233934054]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/8/2) substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [7(b)](https://www.legislation.gov.uk/uksi/2026/329/regulation/7/b)
 
-[^key-c70ad26b255bd91aa470427d5393db00]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2018/903/regulation/8/3)[(4)](https://www.legislation.gov.uk/uksi/2018/903/regulation/8/4) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2026/329/regulation/7/c)
+[^c-c70ad26b255bd91aa470427d5393db00]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2018/903/regulation/8/3)[(4)](https://www.legislation.gov.uk/uksi/2018/903/regulation/8/4) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [7(c)](https://www.legislation.gov.uk/uksi/2026/329/regulation/7/c)
 
-[^key-4087cdeece597c2c55784431c687fc49]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2018/903/regulation/9) heading substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/a)
+[^c-4087cdeece597c2c55784431c687fc49]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2018/903/regulation/9) heading substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(a)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/a)
 
-[^key-bc89aac1b0571987d8fd440cda134bee]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/a)
+[^c-bc89aac1b0571987d8fd440cda134bee]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/a)
 
-[^key-00eeb6a5986b75f47c1220311a0d5f7b]: Textual amendment: Words in [reg. 9(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(b)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/b/i)
+[^c-00eeb6a5986b75f47c1220311a0d5f7b]: Textual amendment: Words in [reg. 9(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(b)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/b/i)
 
-[^key-62b7e97ba1e7276824146cfebf8fd92b]: Textual amendment: [Reg. 9(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/a/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/b/ii)
+[^c-62b7e97ba1e7276824146cfebf8fd92b]: Textual amendment: [Reg. 9(1)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/a/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(b)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/b/ii)
 
-[^key-f283a8429f184fc0327bae20bc498620]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/b)
+[^c-f283a8429f184fc0327bae20bc498620]: Textual amendment: Words in [reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/b)
 
-[^key-38bc0b8e563b6ff4e6c0a8e86664b1d9]: Textual amendment: Words in [reg. 9(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(c)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/c/i)
+[^c-38bc0b8e563b6ff4e6c0a8e86664b1d9]: Textual amendment: Words in [reg. 9(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(c)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/c/i)
 
-[^key-718c2a648f1a222857437b2c28f15e70]: Textual amendment: [Reg. 9(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/b/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/c/ii)
+[^c-718c2a648f1a222857437b2c28f15e70]: Textual amendment: [Reg. 9(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/1/b/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(c)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/c/ii)
 
-[^key-72f4907319fa06a339925541c4bbc023]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/2) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/c)
+[^c-72f4907319fa06a339925541c4bbc023]: Textual amendment: Word in [reg. 9(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/2) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/c)
 
-[^key-593ca955b30f725181f6d142cc252939]: Textual amendment: Words in [reg. 9(3)(a)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(d)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/d)
+[^c-593ca955b30f725181f6d142cc252939]: Textual amendment: Words in [reg. 9(3)(a)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(d)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/d)
 
-[^key-f42f8fd2c5b814127bc0d5d6432d8b47]: Textual amendment: Words in [reg. 9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(d)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/d/i)
+[^c-f42f8fd2c5b814127bc0d5d6432d8b47]: Textual amendment: Words in [reg. 9(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(d)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/d/i)
 
-[^key-019488a06b912bfad58b0c4943caf286]: Textual amendment: [Reg. 9(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/a/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(d)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/d/ii)
+[^c-019488a06b912bfad58b0c4943caf286]: Textual amendment: [Reg. 9(3)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/a/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(d)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/d/ii)
 
-[^key-c386ad7e6a040c120e98d3e06a8dd0d3]: Textual amendment: Words in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(e)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/e)
+[^c-c386ad7e6a040c120e98d3e06a8dd0d3]: Textual amendment: Words in [reg. 9(3)(b)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(e)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/e)
 
-[^key-0eead51e6f6f307ef4d01f725cd300fe]: Textual amendment: Words in [reg. 9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(e)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/e/i)
+[^c-0eead51e6f6f307ef4d01f725cd300fe]: Textual amendment: Words in [reg. 9(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(e)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/e/i)
 
-[^key-088cd4affd923e569d31540f18968ad2]: Textual amendment: [Reg. 9(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/b/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(e)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/e/ii)
+[^c-088cd4affd923e569d31540f18968ad2]: Textual amendment: [Reg. 9(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/3/b/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(e)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/e/ii)
 
-[^key-996063165a054793c1ac19d5850dc2a5]: Textual amendment: Words in [reg. 9(4)(a)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(f)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/f)
+[^c-996063165a054793c1ac19d5850dc2a5]: Textual amendment: Words in [reg. 9(4)(a)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(f)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/f)
 
-[^key-5735f3d93877e3546f4ad6247b0c8891]: Textual amendment: Words in [reg. 9(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(f)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/f/i)
+[^c-5735f3d93877e3546f4ad6247b0c8891]: Textual amendment: Words in [reg. 9(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(f)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/f/i)
 
-[^key-683ac56bfc196996672de0a27d672c42]: Textual amendment: [Reg. 9(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/a/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(f)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/f/ii)
+[^c-683ac56bfc196996672de0a27d672c42]: Textual amendment: [Reg. 9(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/a/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(f)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/f/ii)
 
-[^key-14ef6f54348f1719ddd55249bdfe1e6b]: Textual amendment: Words in [reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(g)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/g)
+[^c-14ef6f54348f1719ddd55249bdfe1e6b]: Textual amendment: Words in [reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(g)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/g)
 
-[^key-14577593a2312fbe6c5d45a72b1cf789]: Textual amendment: Words in [reg. 9(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(g)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/g/i)
+[^c-14577593a2312fbe6c5d45a72b1cf789]: Textual amendment: Words in [reg. 9(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(g)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/g/i)
 
-[^key-9f7951f6bf28d56477f4f98757bc088c]: Textual amendment: [Reg. 9(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/b/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(g)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/g/ii)
+[^c-9f7951f6bf28d56477f4f98757bc088c]: Textual amendment: [Reg. 9(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/4/b/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(g)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/g/ii)
 
-[^key-63521c06ec1493b5b340d584440c0d73]: Textual amendment: Word in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/5) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(h)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/h)
+[^c-63521c06ec1493b5b340d584440c0d73]: Textual amendment: Word in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/5) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(h)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/h)
 
-[^key-f5da29a8d7ba5de84bfdfa7850985925]: Textual amendment: Words in [reg. 9(6)(a)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(i)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/i)
+[^c-f5da29a8d7ba5de84bfdfa7850985925]: Textual amendment: Words in [reg. 9(6)(a)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/a) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(i)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/i)
 
-[^key-97c27f749dc03bcf358735554e52c4ea]: Textual amendment: Words in [reg. 9(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(h)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/h/i)
+[^c-97c27f749dc03bcf358735554e52c4ea]: Textual amendment: Words in [reg. 9(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/a/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(h)(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/h/i)
 
-[^key-d14089c7c1f55ced8ad66dbe2fec7cfb]: Textual amendment: [Reg. 9(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/a/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(h)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/h/ii)
+[^c-d14089c7c1f55ced8ad66dbe2fec7cfb]: Textual amendment: [Reg. 9(6)(a)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/a/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/a/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(h)(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/h/ii)
 
-[^key-181ee6beb8f14fec995f3ff551a2330a]: Textual amendment: Words in [reg. 9(6)(b)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(j)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/j)
+[^c-181ee6beb8f14fec995f3ff551a2330a]: Textual amendment: Words in [reg. 9(6)(b)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/b) substituted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(10)(j)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/10/j)
 
-[^key-d05ad17f8379831772c22b40905fee60]: Textual amendment: Words in [reg. 9(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/i)
+[^c-d05ad17f8379831772c22b40905fee60]: Textual amendment: Words in [reg. 9(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/b/ii) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/i)
 
-[^key-18a24226b086073a8dbac0fa3ba7e2ca]: Textual amendment: [Reg. 9(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/b/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/i)[(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/ii)
+[^c-18a24226b086073a8dbac0fa3ba7e2ca]: Textual amendment: [Reg. 9(6)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/b/iii)[(iv)](https://www.legislation.gov.uk/uksi/2018/903/regulation/9/6/b/iv) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [8(i)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/i)[(ii)](https://www.legislation.gov.uk/uksi/2026/329/regulation/8/ii)
 
-[^key-bf07f9160fdc0e3fb34731a77838c012]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2018/903/regulation/9A) inserted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/7)
+[^c-bf07f9160fdc0e3fb34731a77838c012]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2018/903/regulation/9A) inserted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/7)
 
-[^key-014e77a365970b6fa58d94bac87df7ed]: Textual amendment: [Reg. 9B](https://www.legislation.gov.uk/uksi/2018/903/regulation/9B) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/11)
+[^c-014e77a365970b6fa58d94bac87df7ed]: Textual amendment: [Reg. 9B](https://www.legislation.gov.uk/uksi/2018/903/regulation/9B) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/11)
 
-[^key-bf02e34e14acceee3125d546c043ca12]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2018/903/regulation/10) heading substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2026/329/regulation/9/a)
+[^c-bf02e34e14acceee3125d546c043ca12]: Textual amendment: Words in [reg. 10](https://www.legislation.gov.uk/uksi/2018/903/regulation/10) heading substituted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2026/329/regulation/9/a)
 
-[^key-74b3f4cf07c1911d7f1cef8b7630779c]: Textual amendment: Reg. 10 renumbered as reg. 10(1) (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/12/b)
+[^c-74b3f4cf07c1911d7f1cef8b7630779c]: Textual amendment: Reg. 10 renumbered as reg. 10(1) (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/12/b)
 
-[^key-8f0926110f2fc9c4bc5d391458c63819]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2018/903/regulation/10/1) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(12)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/12/c)
+[^c-8f0926110f2fc9c4bc5d391458c63819]: Textual amendment: Words in [reg. 10(1)](https://www.legislation.gov.uk/uksi/2018/903/regulation/10/1) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(12)(c)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/12/c)
 
-[^key-0de8f1a688ece932a93ea80e8b23a37a]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/10/2) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(12)(d)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/12/d)
+[^c-0de8f1a688ece932a93ea80e8b23a37a]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/10/2) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(12)(d)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/12/d)
 
-[^key-f60ed056cfce10040c64c6511e839dfb]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/10/2) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2026/329/regulation/9/b)
+[^c-f60ed056cfce10040c64c6511e839dfb]: Textual amendment: Words in [reg. 10(2)](https://www.legislation.gov.uk/uksi/2018/903/regulation/10/2) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2026/329/regulation/9/b)
 
-[^key-0344df72aca76756c7335816f7301fda]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2018/903/regulation/10/3)[(4)](https://www.legislation.gov.uk/uksi/2018/903/regulation/10/4) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2026/329/regulation/9/c)
+[^c-0344df72aca76756c7335816f7301fda]: Textual amendment: [Reg. 10(3)](https://www.legislation.gov.uk/uksi/2018/903/regulation/10/3)[(4)](https://www.legislation.gov.uk/uksi/2018/903/regulation/10/4) inserted (21.3.2026) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2026 (S.I. 2026/329)](https://www.legislation.gov.uk/uksi/2026/329), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/329/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2026/329/regulation/9/c)
 
-[^key-d1a4a223dc3488946ed3e613336ebde0]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2018/903/regulation/10A) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/13)
+[^c-d1a4a223dc3488946ed3e613336ebde0]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2018/903/regulation/10A) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2025/263/regulation/2/13)
 
 [^c23363021]: Marginal citation: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30).
 
-[^key-2a631ed86021afebe569c525de2e0938]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2018/903/regulation/11A) inserted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/8)
+[^c-2a631ed86021afebe569c525de2e0938]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2018/903/regulation/11A) inserted (13.8.2020) by [The Higher Education (Fee Limits and Student Support) (England) (Coronavirus) Regulations 2020 (S.I. 2020/853)](https://www.legislation.gov.uk/uksi/2020/853), [regs. 1](https://www.legislation.gov.uk/uksi/2020/853/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/2020/853/regulation/2/8)
 
 [^c23363031]: Marginal citation: [S.I. 2017/1189](https://www.legislation.gov.uk/uksi/2017/1189).
 
-[^key-7d7908ccbb71a25dd9a9b91894d09be9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2018/903/schedule) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/263/schedule)
+[^c-7d7908ccbb71a25dd9a9b91894d09be9]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2018/903/schedule) inserted (6.3.2025) by [The Higher Education (Fee Limits and Fee Limit Condition) (England) (Amendment) Regulations 2025 (S.I. 2025/263)](https://www.legislation.gov.uk/uksi/2025/263), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/263/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/263/schedule)

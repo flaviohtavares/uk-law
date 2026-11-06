@@ -22,9 +22,9 @@ summary: ''
 
 Article 54
 
-**1.**[^key-09693cdc99c63b730571f8677a1a1a5b] The following provisions of this Schedule have effect unless otherwise agreed in writing between the Agency and the Harbour Authority.
+**1.**[^c-09693cdc99c63b730571f8677a1a1a5b] The following provisions of this Schedule have effect unless otherwise agreed in writing between the Agency and the Harbour Authority.
 
-**2.**[^key-2eb18c4ab82a12f8b903e484970a6a54] In this Schedule—
+**2.**[^c-2eb18c4ab82a12f8b903e484970a6a54] In this Schedule—
 
 - “accumulation” means any accumulation of silt or other material which constitutes an impediment to navigation;
 - “construction” includes execution and placing, maintenance, extension, enlargement, alteration, replacement, relaying, and removal, and “construct” and “constructed” are to be construed accordingly;
@@ -35,11 +35,11 @@ Article 54
   - (a) the surface of land below the level of mean high water springs forming part of the river; or
   - (b) any other harbour property.
 
-**3.**[^key-51238c080061f435cc998fec5b268ad6] (1) The Agency must not exercise the powers conferred by this Order to acquire or take temporary possession of or acquire new rights over any land held by the Harbour Authority as part of its statutory undertaking except with the consent of the Harbour Authority.
+**3.**[^c-51238c080061f435cc998fec5b268ad6] (1) The Agency must not exercise the powers conferred by this Order to acquire or take temporary possession of or acquire new rights over any land held by the Harbour Authority as part of its statutory undertaking except with the consent of the Harbour Authority.
 
 (2) The consent of the Harbour Authority under this paragraph must not be unreasonably withheld but may be given subject to such reasonable requirements as the Harbour Authority may make for the purpose of performing its statutory functions.
 
-**4.**[^key-d602bd8aa291048615196771b882e8d4] (1) Before beginning any operations for the construction of any specified work (but this requirement does not apply to minor works of maintenance or repair), the Agency must submit to the Harbour Authority plans of the work and such further particulars available to it as the Harbour Authority may within 14 days of the submission of the plans reasonably require.
+**4.**[^c-d602bd8aa291048615196771b882e8d4] (1) Before beginning any operations for the construction of any specified work (but this requirement does not apply to minor works of maintenance or repair), the Agency must submit to the Harbour Authority plans of the work and such further particulars available to it as the Harbour Authority may within 14 days of the submission of the plans reasonably require.
 
 (2) Any specified work must not be constructed except in accordance with such plans as may be approved in writing by the Harbour Authority or determined to be in accordance with article 67 (arbitration) of this Order.
 
@@ -50,13 +50,13 @@ Article 54
   - (i) navigation in, or the flow or regime of, the river; or
   - (ii) the use of its land other than such parts as are required for the specified works for the purposes of performing its statutory functions.
 
-**5.**[^key-9da568a9b32069b91bcbbfbaba3aaa01] The Agency must give to the Harbour Authority not less than 14 days’ written notice of its intention to commence the construction of a specified work (but this requirement does not apply to minor works of maintenance or repair) and, not more than 14 days after completion of such construction, must give to the Harbour Authority written notice of such completion.
+**5.**[^c-9da568a9b32069b91bcbbfbaba3aaa01] The Agency must give to the Harbour Authority not less than 14 days’ written notice of its intention to commence the construction of a specified work (but this requirement does not apply to minor works of maintenance or repair) and, not more than 14 days after completion of such construction, must give to the Harbour Authority written notice of such completion.
 
-**6.**[^key-8d32682275e56ec573c6a619a6468ef6] The Agency must carry out all operations for the construction of any specified works with all reasonable dispatch to the reasonable satisfaction of the Harbour Authority so that navigation in, or the flow or regime of, the river and the exercise of the Harbour Authority’s statutory functions do not suffer more interference than is reasonably practicable and the Harbour Authority shall be entitled by its officer at all reasonable times, on giving such notice as may be reasonable in the circumstances, to inspect and survey such operations.
+**6.**[^c-8d32682275e56ec573c6a619a6468ef6] The Agency must carry out all operations for the construction of any specified works with all reasonable dispatch to the reasonable satisfaction of the Harbour Authority so that navigation in, or the flow or regime of, the river and the exercise of the Harbour Authority’s statutory functions do not suffer more interference than is reasonably practicable and the Harbour Authority shall be entitled by its officer at all reasonable times, on giving such notice as may be reasonable in the circumstances, to inspect and survey such operations.
 
-**7.**[^key-6397ba763f23703cd56b67b7886b0757] After the purpose of any temporary works has been accomplished the Agency must with all reasonable dispatch, or after a reasonable period of notice in writing from the Harbour Authority requiring the Agency so to do, remove any such temporary works or any materials relating thereto which may have been placed below the level of high water by or on behalf of the Agency; and, on failing to so do within a reasonable period after receiving such notice, the Harbour Authority may remove the same and may recover the reasonable costs of so doing from the Agency.
+**7.**[^c-6397ba763f23703cd56b67b7886b0757] After the purpose of any temporary works has been accomplished the Agency must with all reasonable dispatch, or after a reasonable period of notice in writing from the Harbour Authority requiring the Agency so to do, remove any such temporary works or any materials relating thereto which may have been placed below the level of high water by or on behalf of the Agency; and, on failing to so do within a reasonable period after receiving such notice, the Harbour Authority may remove the same and may recover the reasonable costs of so doing from the Agency.
 
-**8.**[^key-39f361869d9a284425459e7acf6ef5bd] (1) If—
+**8.**[^c-39f361869d9a284425459e7acf6ef5bd] (1) If—
 
 - (a) during the construction of a tidal work or within 10 years after the completion of that work and wholly or partly in consequence of its construction; or
 - (b) during the exercise of the powers conferred by article 6 (power to dredge etc.) of this Order or within 10 years after and wholly or partly in consequence of the exercise of those powers,
@@ -74,45 +74,45 @@ there is caused or created an accumulation or erosion which results or is likely
 
 (5) For the purposes of sub-paragraph (1) the date of completion of a work is the date on which it is brought into use.
 
-**9.**[^key-a9427a2f76e37af0413769d3266b7abf] The Agency must pay to the Harbour Authority the reasonable costs of such alterations to the marking and lighting of the navigational channel of the river as may be necessary during or within five years of the completion of and in consequence of the construction of a tidal work and afford to the Harbour Authority such facilities as it may reasonably require for the placing and maintenance on any tidal work of signals, tide-boards, tide-gauges or other apparatus for the safety or benefit of navigation.
+**9.**[^c-a9427a2f76e37af0413769d3266b7abf] The Agency must pay to the Harbour Authority the reasonable costs of such alterations to the marking and lighting of the navigational channel of the river as may be necessary during or within five years of the completion of and in consequence of the construction of a tidal work and afford to the Harbour Authority such facilities as it may reasonably require for the placing and maintenance on any tidal work of signals, tide-boards, tide-gauges or other apparatus for the safety or benefit of navigation.
 
-**10.**[^key-a1b9ca32dd39b5d976c8195094acb608] Without affecting the other provisions of this Schedule, the Agency must be responsible for, and make good to the Harbour Authority, all costs which may reasonably be incurred by or occasioned to the Harbour Authority by reason of or arising from or in connection with—
+**10.**[^c-a1b9ca32dd39b5d976c8195094acb608] Without affecting the other provisions of this Schedule, the Agency must be responsible for, and make good to the Harbour Authority, all costs which may reasonably be incurred by or occasioned to the Harbour Authority by reason of or arising from or in connection with—
 
 - (a) the carrying out of surveys, inspections, tests and sampling within and of the river (including the bed and banks of the river) where the Harbour Authority has reasonable cause to believe that the construction of any of the tidal works or the exercise of the powers conferred by article 6 (power to dredge etc.) of this Order is causing or has caused any such accumulation or erosion;
 - (b) the surveillance, co-ordination and regulation of traffic within the Port of Boston which becomes reasonably necessary by reason of the exercise or the prospective exercise by the Agency of its powers to close the river or any part of the river to navigation under article 17 (temporary closing of the river in connection with works) of this Order.
 
-**11.**[^key-27e28be9dcb0499b3ee81db05d303a5c] (1) The Agency must indemnify the Harbour Authority from all claims, demands, proceedings or damages, which may be made or given against, or recovered from the Harbour Authority and any costs or expense reasonably incurred by the Harbour Authority by reason of any damage to the bed or banks of the river or other harbour property which is caused by the construction, maintenance or failure of any specified work or any act or omission of the Agency, its contractors, agents or employees whilst engaged upon the work.
+**11.**[^c-27e28be9dcb0499b3ee81db05d303a5c] (1) The Agency must indemnify the Harbour Authority from all claims, demands, proceedings or damages, which may be made or given against, or recovered from the Harbour Authority and any costs or expense reasonably incurred by the Harbour Authority by reason of any damage to the bed or banks of the river or other harbour property which is caused by the construction, maintenance or failure of any specified work or any act or omission of the Agency, its contractors, agents or employees whilst engaged upon the work.
 
 (2) The Harbour Authority must give to the Agency reasonable notice of any such claim or demand and no settlement or compromise of any such claim or demand must be made without the consent of the Agency, which, if it notifies the Harbour Authority that it desires to do so, shall have the sole conduct of any settlement or compromise or of any proceedings necessary to resist the claim or demand.
 
-**12.**[^key-572f1773a7364e0abf1b2a4159266082] Nothing in paragraph 11 imposes any liability on the Agency with respect to any damage to the extent that it is attributable to any prior defect, want of maintenance or want of repair to the beds or banks of the river or other harbour property or to the act, neglect or default of the Harbour Authority, its officers, servants, contractors or agents but the fact that any work or thing has been executed or done in accordance with a plan approved or deemed to be approved by the Harbour Authority, or to its satisfaction, or in accordance with a determination under article 67 (arbitration) of the Order, does not (in the absence of negligence on the part of the Harbour Authority, its officers, servants, contractors or agents) relieve the Agency from any liability under the provisions of this Schedule.
+**12.**[^c-572f1773a7364e0abf1b2a4159266082] Nothing in paragraph 11 imposes any liability on the Agency with respect to any damage to the extent that it is attributable to any prior defect, want of maintenance or want of repair to the beds or banks of the river or other harbour property or to the act, neglect or default of the Harbour Authority, its officers, servants, contractors or agents but the fact that any work or thing has been executed or done in accordance with a plan approved or deemed to be approved by the Harbour Authority, or to its satisfaction, or in accordance with a determination under article 67 (arbitration) of the Order, does not (in the absence of negligence on the part of the Harbour Authority, its officers, servants, contractors or agents) relieve the Agency from any liability under the provisions of this Schedule.
 
-**13.**[^key-124a688369a0301800b3931ba2ef6401] Save to the extent expressly provided for nothing in this Order affects prejudicially any statutory or other rights, powers or privileges vested in, or enjoyed by, the Harbour Authority at the commencement of this Order.
+**13.**[^c-124a688369a0301800b3931ba2ef6401] Save to the extent expressly provided for nothing in this Order affects prejudicially any statutory or other rights, powers or privileges vested in, or enjoyed by, the Harbour Authority at the commencement of this Order.
 
 ## Annotations
 
-[^key-09693cdc99c63b730571f8677a1a1a5b]: Commencement: Sch. 8 para. 1 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-09693cdc99c63b730571f8677a1a1a5b]: Commencement: Sch. 8 para. 1 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-2eb18c4ab82a12f8b903e484970a6a54]: Commencement: Sch. 8 para. 2 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-2eb18c4ab82a12f8b903e484970a6a54]: Commencement: Sch. 8 para. 2 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-51238c080061f435cc998fec5b268ad6]: Commencement: Sch. 8 para. 3 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-51238c080061f435cc998fec5b268ad6]: Commencement: Sch. 8 para. 3 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-d602bd8aa291048615196771b882e8d4]: Commencement: Sch. 8 para. 4 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-d602bd8aa291048615196771b882e8d4]: Commencement: Sch. 8 para. 4 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-9da568a9b32069b91bcbbfbaba3aaa01]: Commencement: Sch. 8 para. 5 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-9da568a9b32069b91bcbbfbaba3aaa01]: Commencement: Sch. 8 para. 5 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-8d32682275e56ec573c6a619a6468ef6]: Commencement: Sch. 8 para. 6 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-8d32682275e56ec573c6a619a6468ef6]: Commencement: Sch. 8 para. 6 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-6397ba763f23703cd56b67b7886b0757]: Commencement: Sch. 8 para. 7 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-6397ba763f23703cd56b67b7886b0757]: Commencement: Sch. 8 para. 7 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-39f361869d9a284425459e7acf6ef5bd]: Commencement: Sch. 8 para. 8 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-39f361869d9a284425459e7acf6ef5bd]: Commencement: Sch. 8 para. 8 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-a9427a2f76e37af0413769d3266b7abf]: Commencement: Sch. 8 para. 9 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-a9427a2f76e37af0413769d3266b7abf]: Commencement: Sch. 8 para. 9 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-a1b9ca32dd39b5d976c8195094acb608]: Commencement: Sch. 8 para. 10 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-a1b9ca32dd39b5d976c8195094acb608]: Commencement: Sch. 8 para. 10 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-27e28be9dcb0499b3ee81db05d303a5c]: Commencement: Sch. 8 para. 11 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-27e28be9dcb0499b3ee81db05d303a5c]: Commencement: Sch. 8 para. 11 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-572f1773a7364e0abf1b2a4159266082]: Commencement: Sch. 8 para. 12 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-572f1773a7364e0abf1b2a4159266082]: Commencement: Sch. 8 para. 12 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
 
-[^key-124a688369a0301800b3931ba2ef6401]: Commencement: Sch. 8 para. 13 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-124a688369a0301800b3931ba2ef6401]: Commencement: Sch. 8 para. 13 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

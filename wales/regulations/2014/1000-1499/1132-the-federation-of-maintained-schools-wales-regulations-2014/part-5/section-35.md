@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Qualifications and disqualifications[^key-6126f75db0c7160d116b63df715b0ea2]
+## 35. Qualifications and disqualifications[^c-6126f75db0c7160d116b63df715b0ea2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 7 sets out the circumstances in which a person is qualified for or disq
 
 ## Annotations
 
-[^key-6126f75db0c7160d116b63df715b0ea2]: Commencement: Reg. 35 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-6126f75db0c7160d116b63df715b0ea2]: Commencement: Reg. 35 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 180A. Procedure in connection with subject access requests[^key-02257d73d63a015dfbb50ba43425dda5]
+## 180A. Procedure in connection with subject access requests[^c-02257d73d63a015dfbb50ba43425dda5]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02257d73d63a015dfbb50ba43425dda5]: Textual amendment: [S. 180A](https://www.legislation.gov.uk/ukpga/2018/12/section/180A) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 104(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/104/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/j)
+[^c-02257d73d63a015dfbb50ba43425dda5]: Textual amendment: [S. 180A](https://www.legislation.gov.uk/ukpga/2018/12/section/180A) inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 104(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/104/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Quorum[^key-41653c364ccd0dbbcd7d44aedc85ebbd]
+## 122. Quorum[^c-41653c364ccd0dbbcd7d44aedc85ebbd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Subject to rule 4.171(6A) of the 1986 Rules as inserted by rule 134(3) of these 
 
 ## Annotations
 
-[^key-41653c364ccd0dbbcd7d44aedc85ebbd]: Commencement: Rule 122 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-41653c364ccd0dbbcd7d44aedc85ebbd]: Commencement: Rule 122 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

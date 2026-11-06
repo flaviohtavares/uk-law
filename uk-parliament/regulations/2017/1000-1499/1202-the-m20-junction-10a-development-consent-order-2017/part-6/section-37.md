@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Existing powers and duties of the undertaker[^key-3c37e851f6c2b10bf6a67f88f5010bb5]
+## 37. Existing powers and duties of the undertaker[^c-3c37e851f6c2b10bf6a67f88f5010bb5]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ Except as expressly provided, nothing in this Order is to prejudice the operatio
 
 ## Annotations
 
-[^key-3c37e851f6c2b10bf6a67f88f5010bb5]: Commencement: Art. 37 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-3c37e851f6c2b10bf6a67f88f5010bb5]: Commencement: Art. 37 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
 
 [^f00054]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596).

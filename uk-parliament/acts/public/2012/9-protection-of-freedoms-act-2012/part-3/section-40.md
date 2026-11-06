@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Adding safeguards to powers of entry[^key-54d4109659224bc701bbf32b89932dc6]
+## 40. Adding safeguards to powers of entry[^c-54d4109659224bc701bbf32b89932dc6]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54d4109659224bc701bbf32b89932dc6]: Commencement: S. 40 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(j)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/j)
+[^c-54d4109659224bc701bbf32b89932dc6]: Commencement: S. 40 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(j)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/j)

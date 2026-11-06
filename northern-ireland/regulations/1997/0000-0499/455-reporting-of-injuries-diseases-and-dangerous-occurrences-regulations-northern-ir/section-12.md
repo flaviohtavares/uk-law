@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Application to territorial waters[^key-b882388563b457f065a8e0dec9be81fe]
+## 12. Application to territorial waters[^c-b882388563b457f065a8e0dec9be81fe]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations shall apply within territorial waters to and in relation to of
 
 ## Annotations
 
-[^key-b882388563b457f065a8e0dec9be81fe]: Commencement: Reg. 12 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)
+[^c-b882388563b457f065a8e0dec9be81fe]: Commencement: Reg. 12 in operation at 1.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1997/455/regulation/1/1)

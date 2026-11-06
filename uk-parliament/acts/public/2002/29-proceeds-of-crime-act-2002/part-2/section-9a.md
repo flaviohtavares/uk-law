@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9A. Hidden property[^key-a83727dedc10cacf1e7baa94c9d703e1]
+## 9A. Hidden property[^c-a83727dedc10cacf1e7baa94c9d703e1]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a83727dedc10cacf1e7baa94c9d703e1]: Textual amendment: S. 9A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 7(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/7/3); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)
+[^c-a83727dedc10cacf1e7baa94c9d703e1]: Textual amendment: S. 9A inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 21 para. 7(3)](https://www.legislation.gov.uk/ukpga/2026/20/schedule/21/paragraph/7/3); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z12)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z12)

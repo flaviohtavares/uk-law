@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Amendments to the Large and Medium-sized Limited Liability Partnerships (Accounts) Regulations 2008[^key-dc8abfa15e4648e24d886d315e024bc0]
+## 47. Amendments to the Large and Medium-sized Limited Liability Partnerships (Accounts) Regulations 2008[^c-dc8abfa15e4648e24d886d315e024bc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Large and Medium-sized Limited Liability Partnerships (Accounts) Regulations
 
 ## Annotations
 
-[^key-dc8abfa15e4648e24d886d315e024bc0]: Commencement: Reg. 47 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-dc8abfa15e4648e24d886d315e024bc0]: Commencement: Reg. 47 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
 
 [^f00045]: Footnote: [S.I. 2008/1913](https://www.legislation.gov.uk/uksi/2008/1913).

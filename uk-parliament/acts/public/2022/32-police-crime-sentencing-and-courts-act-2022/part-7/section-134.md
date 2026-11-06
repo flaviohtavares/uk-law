@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Responsibility for setting licence conditions for fixed-term prisoners[^key-96f514a8e7b5fe799ca8a939d7237a20][^key-6420352c89b6116c24ccf0a59b6d18b3]
+## 134. Responsibility for setting licence conditions for fixed-term prisoners[^c-96f514a8e7b5fe799ca8a939d7237a20][^c-6420352c89b6116c24ccf0a59b6d18b3]
 
 *Extent: E+W*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-96f514a8e7b5fe799ca8a939d7237a20]: Commencement: S. 134 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-96f514a8e7b5fe799ca8a939d7237a20]: Commencement: S. 134 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-6420352c89b6116c24ccf0a59b6d18b3]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2022/32/section/134) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)
+[^c-6420352c89b6116c24ccf0a59b6d18b3]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2022/32/section/134) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(o)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/o)

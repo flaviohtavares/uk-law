@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Refuges.[^key-3c70f6e8a0b8fb661584dc33b1a441e7]
+## 68. Refuges.[^c-3c70f6e8a0b8fb661584dc33b1a441e7]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c70f6e8a0b8fb661584dc33b1a441e7]: Modification: S. 68 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(f)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/f)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-3c70f6e8a0b8fb661584dc33b1a441e7]: Modification: S. 68 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(f)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/f)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)

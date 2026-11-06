@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 202. Recoverable property: property or sum of money specified in the external order[^key-146554a189380b1a629cf86816f6642f]
+## 202. Recoverable property: property or sum of money specified in the external order[^c-146554a189380b1a629cf86816f6642f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-146554a189380b1a629cf86816f6642f]: Commencement: [Art. 202](https://www.legislation.gov.uk/uksi/2005/3181/article/202) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-146554a189380b1a629cf86816f6642f]: Commencement: [Art. 202](https://www.legislation.gov.uk/uksi/2005/3181/article/202) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

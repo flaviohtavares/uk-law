@@ -32,7 +32,7 @@ summary: ''
 
 Seeds, England
 
-The Seed Marketing Regulations 2010 (revoked)[^key-52d08869fdca1936737a2ba066a52cba]
+The Seed Marketing Regulations 2010 (revoked)[^c-52d08869fdca1936737a2ba066a52cba]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 22nd November 2010
 
-[^key-52d08869fdca1936737a2ba066a52cba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52d08869fdca1936737a2ba066a52cba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-52d08869fdca1936737a2ba066a52cba]
+### PART 1 — Introduction[^c-52d08869fdca1936737a2ba066a52cba]
 
 **No longer in force.**
 
@@ -58,7 +58,7 @@ Coming into force
 - [Section 2 — Meaning of “marketing”](part-1/section-2.md)
 - [Section 3 — Interpretation of other terms](part-1/section-3.md)
 
-### PART 2 — Categories of seed[^key-52d08869fdca1936737a2ba066a52cba]
+### PART 2 — Categories of seed[^c-52d08869fdca1936737a2ba066a52cba]
 
 **No longer in force.**
 
@@ -67,7 +67,7 @@ Coming into force
 - [Section 6 — Breeder's seed](part-2/section-6.md)
 - [Section 7 — Maintainers for pre-basic and basic seed](part-2/section-7.md)
 
-### PART 3 — Marketing seed[^key-52d08869fdca1936737a2ba066a52cba]
+### PART 3 — Marketing seed[^c-52d08869fdca1936737a2ba066a52cba]
 
 **No longer in force.**
 
@@ -84,7 +84,7 @@ Coming into force
 - [Section 18 — Mixtures of seed](part-3/section-18.md)
 - [Section 19 — Records](part-3/section-19.md)
 
-### PART 4 — Licensing[^key-52d08869fdca1936737a2ba066a52cba]
+### PART 4 — Licensing[^c-52d08869fdca1936737a2ba066a52cba]
 
 **No longer in force.**
 
@@ -92,7 +92,7 @@ Coming into force
 - [Section 21 — Licensing crop inspectors, seed samplers and seed testing stations](part-4/section-21.md)
 - [Section 22 — General provisions relating to licences](part-4/section-22.md)
 
-### PART 5 — Administration and revocations[^key-52d08869fdca1936737a2ba066a52cba]
+### PART 5 — Administration and revocations[^c-52d08869fdca1936737a2ba066a52cba]
 
 **No longer in force.**
 
@@ -118,14 +118,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-52d08869fdca1936737a2ba066a52cba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52d08869fdca1936737a2ba066a52cba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-52d08869fdca1936737a2ba066a52cba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-52d08869fdca1936737a2ba066a52cba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52d08869fdca1936737a2ba066a52cba]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), regs. 1, [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)
+[^c-52d08869fdca1936737a2ba066a52cba]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), regs. 1, [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)

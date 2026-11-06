@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 194G. Costs[^key-cf3c0ed1305ad95d78741e12edc385df]
+## 194G. Costs[^c-cf3c0ed1305ad95d78741e12edc385df]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf3c0ed1305ad95d78741e12edc385df]: Textual amendment: Rules 194A-194G inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 61](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/61) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-cf3c0ed1305ad95d78741e12edc385df]: Textual amendment: Rules 194A-194G inserted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 61](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/61) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

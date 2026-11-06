@@ -54,11 +54,11 @@ In accordance with section 114(4) of the Reservoirs (Scotland) Act 2011 and sect
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation and commencement[^key-68dcf5b06a39d8509d161adeac6fe609]
+### 1. Citation and commencement[^c-68dcf5b06a39d8509d161adeac6fe609]
 
 This Order may be cited as the Reservoirs (Enforcement etc.) (Scotland) Order 2016 and comes into force on 1st April 2016.
 
-### 2. Interpretation[^key-5ab79a474d6269d1d9a1c506609a5c2c]
+### 2. Interpretation[^c-5ab79a474d6269d1d9a1c506609a5c2c]
 
 (1) In this Order—
 
@@ -79,32 +79,32 @@ This Order may be cited as the Reservoirs (Enforcement etc.) (Scotland) Order 20
 
 ## PART 2 — ENFORCEMENT MEASURES
 
-### 3. Stop notices[^key-d2559795cb5668bc5d568daf0fd079a9]
+### 3. Stop notices[^c-d2559795cb5668bc5d568daf0fd079a9]
 
 Schedule 1 makes provision as to the giving by SEPA of stop notices to reservoir managers of controlled reservoirs.
 
-### 4. Further enforcement measures[^key-1c86433e59007325c26df6ed534a1797]
+### 4. Further enforcement measures[^c-1c86433e59007325c26df6ed534a1797]
 
 Schedule 2 makes provision about the imposition by SEPA on reservoir managers of controlled reservoirs of one or more further enforcement measures.
 
-### 5. Recovery of expenses[^key-2a5b510143c3c3c7437ce56333638efc]
+### 5. Recovery of expenses[^c-2a5b510143c3c3c7437ce56333638efc]
 
 Schedule 3 makes provision for the recovery of expenses reasonably incurred by SEPA in relation to the giving of a stop notice or the imposition of further enforcement measures.
 
-### 6. Monetary penalties and undertakings[^key-49af3b109a647fea7f726420f23946f7]
+### 6. Monetary penalties and undertakings[^c-49af3b109a647fea7f726420f23946f7]
 
 Schedule 4 makes provision which amends the 2015 Order so that the powers conferred by that Order to impose fixed and variable monetary penalties and to accept enforcement undertakings may be exercised in relation to the offence created by paragraph 6 of Schedule 1.
 
 ## PART 3 — REVIEWS AND APPEALS
 
-### 7. Enforcement notices: reviews and appeals[^key-d2797de0a75217f2deb6c3ff1e868e27]
+### 7. Enforcement notices: reviews and appeals[^c-d2797de0a75217f2deb6c3ff1e868e27]
 
 Schedule 5 makes provision allowing a reservoir manager to whom notice is given under section 69(2) of the Act (enforcement notice: safety and other measures)—
 
 - (a) to apply to SEPA for a review of its decision to give the notice; and
 - (b) to appeal to the Scottish Ministers against the decision to give the notice.
 
-### 8. Appeals: further provision[^key-137b2a0c99ee643df2ce31fad92edd5e]
+### 8. Appeals: further provision[^c-137b2a0c99ee643df2ce31fad92edd5e]
 
 Schedule 6 makes further provision in relation to appeals in connection with the following provisions of the Act—
 
@@ -117,7 +117,7 @@ Schedule 6 makes further provision in relation to appeals in connection with the
 
 ## PART 4 — MISCELLANEOUS
 
-### 9. Notices: supplementary provision[^key-07e0b7b3efb1bdb938fce1ca3b915108]
+### 9. Notices: supplementary provision[^c-07e0b7b3efb1bdb938fce1ca3b915108]
 
 (1) SEPA may, at any time, by notice given to the reservoir manager—
 
@@ -139,18 +139,18 @@ Schedule 6 makes further provision in relation to appeals in connection with the
 
 (2) In paragraph (1), “the reservoir manager” means a reservoir manager who was given the stop notice, restraint notice, restoration notice, non-compliance penalty notice or expenses recovery notice in question.
 
-### 10. Guidance about the use of powers[^key-088445e9d334488fa0b2ec1c2a59cbf8]
+### 10. Guidance about the use of powers[^c-088445e9d334488fa0b2ec1c2a59cbf8]
 
 SEPA must publish guidance about the use of the powers conferred on it by this Order.
 
-### 11. Recovery of payments[^key-8c0748690876fd6a2553db11245ac284]
+### 11. Recovery of payments[^c-8c0748690876fd6a2553db11245ac284]
 
 SEPA may recover as a civil debt any—
 
 - (a) non-compliance penalty; or
 - (b) expenses required to be paid under an expenses recovery notice.
 
-### 12. Payment of penalties[^key-3595bd30c7a0d3b645c3fdbf7d7bec3d]
+### 12. Payment of penalties[^c-3595bd30c7a0d3b645c3fdbf7d7bec3d]
 
 Where, by virtue of this Order, SEPA receives any sum in respect of a non-compliance penalty, SEPA must pay it to the Scottish Ministers.
 
@@ -168,7 +168,7 @@ Edinburgh
 
 Article 3
 
-### 1. Stop notices[^key-b19d6c1bb026f34d0baa4d4300e8aef3]
+### 1. Stop notices[^c-b19d6c1bb026f34d0baa4d4300e8aef3]
 
 (1) SEPA may by notice (a “stop notice”) prohibit a reservoir manager of a controlled reservoir from carrying on an activity specified in the notice until the reservoir manager has taken the steps specified in the notice.
 
@@ -184,7 +184,7 @@ Article 3
   - (iv) section 42(1)(e) (failure to comply with preliminary certificate or final certificate); or
   - (v) section 52(1)(c) (failure to comply with direction as to taking of measure in inspection report).
 
-### 2. Information to be included[^key-af7732b03602c821b22ce7a266c2798e]
+### 2. Information to be included[^c-af7732b03602c821b22ce7a266c2798e]
 
 A stop notice must include information as to—
 
@@ -192,7 +192,7 @@ A stop notice must include information as to—
 - (b) rights of appeal; and
 - (c) the consequences of non-compliance.
 
-### 3. Appeals[^key-32b32e1959887d66e19f2551ee51ae71]
+### 3. Appeals[^c-32b32e1959887d66e19f2551ee51ae71]
 
 (1) A reservoir manager to whom a stop notice is given may appeal to the Scottish Ministers against the decision of SEPA to issue it.
 
@@ -209,7 +209,7 @@ A stop notice must include information as to—
 
 (4) An appeal under this paragraph does not suspend the stop notice to which it relates.
 
-### 4. Completion certificates[^key-8adf152afd26551fef7378576e57e6a8]
+### 4. Completion certificates[^c-8adf152afd26551fef7378576e57e6a8]
 
 (1) Where, after giving a stop notice to a reservoir manager, SEPA is satisfied that the reservoir manager has taken the steps specified in the notice, SEPA must give a certificate to that effect (a “completion certificate”).
 
@@ -245,7 +245,7 @@ is to be treated as a decision not to give the completion certificate in questio
 - (a) in a case where sub-paragraph (10) applies, is the first day on which the failure in question is treated as a decision not to give the completion certificate; and
 - (b) in other cases, is the day on which the reservoir manager is, in accordance with sub-paragraph (6), given notice of the decision not to give a completion certificate.
 
-### 5. Compensation[^key-0b18273dde004de9b159e3bb4037bda7]
+### 5. Compensation[^c-0b18273dde004de9b159e3bb4037bda7]
 
 (1) Subject to sub-paragraph (2), where a reservoir manager suffers loss as the result of the issue of a stop notice, the reservoir manager may make a claim for compensation.
 
@@ -305,7 +305,7 @@ is to be treated as a decision of SEPA not to award compensation.
 - (a) in a case where sub-paragraph (10) applies, is the first day on which the failure in question is treated as a decision of SEPA not to award compensation; and
 - (b) in other cases, is the day on which SEPA, in accordance with sub-paragraph (5), gives the reservoir manager notice of the decision in question.
 
-### 6. Offence and penalties[^key-a1e64d7f05104e1d04b25866e8bbe73b]
+### 6. Offence and penalties[^c-a1e64d7f05104e1d04b25866e8bbe73b]
 
 Where a reservoir manager to whom a stop notice is given does not comply with it, the reservoir manager commits an offence and is liable on summary conviction—
 
@@ -314,7 +314,7 @@ Where a reservoir manager to whom a stop notice is given does not comply with it
   - (i) for a first such offence, to imprisonment for a term not exceeding 3 months, or to a fine not exceeding the prescribed sum (within the meaning of section 225(8) of the Criminal Procedure (Scotland) Act 1995[^f00006]), or to both; and
   - (ii) for any subsequent such offence, to imprisonment for a term not exceeding 6 months, or to the fine mentioned in sub-head (i), or to both.
 
-### 7. Defence[^key-284c68385648cfa3e35854a4fcc81f1a]
+### 7. Defence[^c-284c68385648cfa3e35854a4fcc81f1a]
 
 It is a defence to a charge in proceedings for an offence under paragraph 6 for the reservoir manager to show both—
 
@@ -328,7 +328,7 @@ It is a defence to a charge in proceedings for an offence under paragraph 6 for 
 
 Article 4
 
-### 1. Power to impose further enforcement measures[^key-7261227100f87c86a5bd601c3aa11573]
+### 1. Power to impose further enforcement measures[^c-7261227100f87c86a5bd601c3aa11573]
 
 (1) SEPA may by notice impose on a reservoir manager of a controlled reservoir one or more further enforcement measures in relation to an offence under section 42(1)(e) (failure to comply with preliminary certificate or final certificate) of the Act.
 
@@ -350,7 +350,7 @@ Article 4
 - “restoration notice” means a notice under sub-paragraph (1) which imposes a requirement to take such steps as SEPA may specify, within such period as it may specify, to secure (whether in whole or in part) that the position is so far as possible restored to what it would have been if the offence had not been committed; and
 - “restraint notice” means a notice under sub-paragraph (1) which imposes a requirement to take such steps as SEPA may specify, within such period as it may specify, to secure (whether in whole or in part) that the offence does not continue or recur.
 
-### 2. Notice of intent[^key-4a6e72cb962783f955d988ce12a474c7]
+### 2. Notice of intent[^c-4a6e72cb962783f955d988ce12a474c7]
 
 (1) Where SEPA proposes to impose a further enforcement measure on a reservoir manager, it must give the reservoir manager a notice in writing of what is proposed (a “notice of intent”).
 
@@ -361,17 +361,17 @@ Article 4
 - (c) the circumstances in which SEPA may not impose the further enforcement measure; and
 - (d) the period within which representations and objections may be made, which must not exceed the period of 28 days beginning with the day on which the notice of intent is given.
 
-### 3. Representations and objections[^key-9caff6bdca7c0c8622b6bf0d3e8dee12]
+### 3. Representations and objections[^c-9caff6bdca7c0c8622b6bf0d3e8dee12]
 
 A reservoir manager to whom a notice of intent is given may, within the period mentioned in the notice within which representations and objections may be made, make written representations and objections to SEPA in relation to the proposed imposition of the further enforcement measure.
 
-### 4. Undertakings[^key-afa65bcd9f6ecc3073eb0b0695b32121]
+### 4. Undertakings[^c-afa65bcd9f6ecc3073eb0b0695b32121]
 
 (1) A reservoir manager to whom a notice of intent (in relation to a proposal to impose a further enforcement measure) is given under paragraph 2 may offer an undertaking (an “FEM undertaking”) as to action to be taken by the reservoir manager (including the payment of a sum of money) to benefit any person affected by the offence to which the proposal relates.
 
 (2) SEPA may accept or reject an FEM undertaking.
 
-### 5. Decision to impose a further enforcement measure[^key-eb369fa22f7a5d3dd1e6a71cf8725d0e]
+### 5. Decision to impose a further enforcement measure[^c-eb369fa22f7a5d3dd1e6a71cf8725d0e]
 
 (1) After the end of the period for making representations and objections under paragraph 3, SEPA must, having had regard to any such representations or objections, decide whether to impose—
 
@@ -384,7 +384,7 @@ A reservoir manager to whom a notice of intent is given may, within the period m
 
 (4) Where SEPA proposes, pursuant to sub-paragraph (1)(b), to impose any other further enforcement measure, the provisions of this Schedule (including paragraphs 2 and 3) apply in relation to that further enforcement measure as they apply in relation to any other such measure.
 
-### 6. Final notice[^key-f294057df5b00175dbedbb4c97064227]
+### 6. Final notice[^c-f294057df5b00175dbedbb4c97064227]
 
 (1) Where SEPA decides, pursuant to paragraph 5(1)(a), to impose a further enforcement measure on a reservoir manager (by notice under paragraph 1), the restoration notice or restraint notice (the “final notice”) which is to impose that further enforcement measure must—
 
@@ -400,7 +400,7 @@ A reservoir manager to whom a notice of intent is given may, within the period m
 
 (4) The permitted period may be extended by agreement in writing between SEPA and the reservoir manager to whom the notice of intent was given.
 
-### 7. Appeals[^key-62014d072cf6223d67cf2fd40c7b4ec8]
+### 7. Appeals[^c-62014d072cf6223d67cf2fd40c7b4ec8]
 
 (1) A reservoir manager on whom a further enforcement measure is imposed may appeal to the Scottish Ministers against the decision to impose it.
 
@@ -415,7 +415,7 @@ A reservoir manager to whom a notice of intent is given may, within the period m
 
 (4) Where an appeal is made under this paragraph in relation to a decision to impose a further enforcement measure, the further enforcement measure is suspended from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
 
-### 8. Criminal proceedings and conviction[^key-a58df43e68e798e1a6d3062da2425342]
+### 8. Criminal proceedings and conviction[^c-a58df43e68e798e1a6d3062da2425342]
 
 (1) Sub-paragraph (2) applies where—
 
@@ -431,7 +431,7 @@ A reservoir manager to whom a notice of intent is given may, within the period m
 
 (4) For the purposes of the case referred to in sub-paragraph (3), where SEPA by notice (a “non-compliance notice”) informs the reservoir manager that the reservoir manager has failed to comply with the restraint notice, the restoration notice or the FEM undertaking referred to in sub-paragraph (3)(b), the period within which criminal proceedings may be instituted against the reservoir manager (for an offence in respect of the act or omission giving rise to the further enforcement measure or FEM undertaking) is extended by a period of 6 months beginning with the day on which SEPA gave the non-compliance notice to the reservoir manager.
 
-### 9. Non-compliance penalties[^key-53868f591e97f2eb496fec6408b75248]
+### 9. Non-compliance penalties[^c-53868f591e97f2eb496fec6408b75248]
 
 (1) SEPA may impose a non-compliance penalty on a reservoir manager of a controlled reservoir (“the reservoir”) if the reservoir manager fails to comply with—
 
@@ -458,7 +458,7 @@ A reservoir manager to whom a notice of intent is given may, within the period m
 
 (6) Where a reservoir manager on whom a non-compliance penalty is imposed does not pay the penalty, the penalty is recoverable as if it were payable under an extract decree arbitral bearing a warrant for execution by the sheriff for any sheriffdom.
 
-### 10. Appeals against non-compliance penalties[^key-1e7534a9e74dde91597bc20b37fa7139]
+### 10. Appeals against non-compliance penalties[^c-1e7534a9e74dde91597bc20b37fa7139]
 
 (1) A reservoir manager on whom a non-compliance penalty is imposed by notice (under paragraph 9) may appeal to the Scottish Ministers against the notice.
 
@@ -472,7 +472,7 @@ A reservoir manager to whom a notice of intent is given may, within the period m
 
 (4) Where an appeal is made under this paragraph, the non-compliance penalty is suspended from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
 
-### 11. Payment requirements for non-compliance penalties[^key-41708df058aface577a1e7f6644e11c1]
+### 11. Payment requirements for non-compliance penalties[^c-41708df058aface577a1e7f6644e11c1]
 
 (1) Subject to sub-paragraph (2), a reservoir manager on whom a non-compliance penalty is imposed by notice, must pay to SEPA the amount of the penalty specified in the notice within a period of 56 days beginning with the day on which the notice was given to the reservoir manager or such longer period as SEPA may specify in the notice.
 
@@ -486,7 +486,7 @@ A reservoir manager to whom a notice of intent is given may, within the period m
 
 Article 5
 
-### 1. Expenses recovery notices[^key-d30eae201d3e6927cf0ef6c261e5a413]
+### 1. Expenses recovery notices[^c-d30eae201d3e6927cf0ef6c261e5a413]
 
 (1) SEPA may by notice (an “expenses recovery notice”) require a reservoir manager to whom a stop notice is given or on whom a further enforcement measure is imposed, to pay the amount of any expenses reasonably incurred by SEPA in relation to (and up to the time of) the giving of the notice or (as the case may be) imposition of the measure.
 
@@ -510,7 +510,7 @@ Article 5
 
 (5) Where a reservoir manager requests SEPA to provide a detailed breakdown of the amount to be paid (and no such a breakdown was previously given by SEPA to the reservoir manager), SEPA must take such steps as are reasonable to ensure that a detailed breakdown of the amount to be paid is given to the reservoir manager within a period of 21 days beginning with the day on which SEPA received the request.
 
-### 2. Appeals against expenses recovery notices[^key-087a36490650622d922ccb02eca31091]
+### 2. Appeals against expenses recovery notices[^c-087a36490650622d922ccb02eca31091]
 
 (1) A reservoir manager who is required (by virtue of an expenses recovery notice) to pay expenses under paragraph 1 may appeal to the Scottish Ministers against—
 
@@ -524,7 +524,7 @@ Article 5
 
 (3) Where an appeal is made under this paragraph, the expenses recovery notice is suspended from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
 
-### 3. Payment requirements for expenses recovery notices[^key-d70e4802706d875bc7ad97a6510b0ab2]
+### 3. Payment requirements for expenses recovery notices[^c-d70e4802706d875bc7ad97a6510b0ab2]
 
 (1) The amount to be paid by a reservoir manager under an expenses recovery notice must, unless sub-paragraph (3) applies, be paid to SEPA within a period of 56 days beginning with the day the notice was given to the reservoir manager, or such longer period as SEPA may specify in the notice.
 
@@ -544,7 +544,7 @@ Article 5
   and the Scottish Ministers, in determining the appeal, uphold the decision; or
 - (b) an appeal is made under paragraph 2 and the appeal is withdrawn.
 
-## SCHEDULE 4 — MONETARY PENALTIES AND UNDERTAKINGS[^key-017fe5643d1eb1949e3b1eb82062435a]
+## SCHEDULE 4 — MONETARY PENALTIES AND UNDERTAKINGS[^c-017fe5643d1eb1949e3b1eb82062435a]
 
 Article 6
 
@@ -567,7 +567,7 @@ In the table in Schedule 4 (relevant offences and fixed penalty amounts) to the 
 
 Article 7
 
-### 1. Reviews of decisions to give notice under section 69(2) of the Act[^key-608f1039cf4dc174116281d31d6a04fe]
+### 1. Reviews of decisions to give notice under section 69(2) of the Act[^c-608f1039cf4dc174116281d31d6a04fe]
 
 (1) A reservoir manager to whom a notice (“the notice”) is given under section 69(2) of the Act, may apply to SEPA for a review of its decision to give the notice.
 
@@ -594,7 +594,7 @@ Article 7
 
 (6) Where, under sub-paragraph (1), a reservoir manager applies to SEPA for a review of its decision to give a notice under section 69(2) of the Act, the notice is suspended from the day on which the application is made until the day on which the applicant is, under sub-paragraph (4), informed of SEPA’s decision (in respect of the application).
 
-### 2. Appeals against decisions to give notice under section 69(2) of the Act[^key-3997185aa81317d972c9dc15b7083cf1]
+### 2. Appeals against decisions to give notice under section 69(2) of the Act[^c-3997185aa81317d972c9dc15b7083cf1]
 
 (1) A reservoir manager to whom a notice (“the notice”) is given under section 69(2) of the Act may, subject to sub-paragraph (2), appeal to the Scottish Ministers against the decision of SEPA to give the notice.
 
@@ -624,7 +624,7 @@ Article 7
 
 Article 8
 
-### 1. Notice of appeal[^key-f8049e59e39ad761bc1e9818c6b13eee]
+### 1. Notice of appeal[^c-f8049e59e39ad761bc1e9818c6b13eee]
 
 (1) An appeal under any the following provisions (“the appeal”) must be made by notice (“notice of appeal”) to the Scottish Ministers—
 
@@ -647,7 +647,7 @@ Article 8
 
 (5) The appellant must, at the same time as sending any such withdrawal notice to the Scottish Ministers, send a copy of the notice to SEPA.
 
-### 2. Representations by SEPA[^key-846db1e515f86c2ca052ae62f3274623]
+### 2. Representations by SEPA[^c-846db1e515f86c2ca052ae62f3274623]
 
 (1) SEPA must, within a period of 21 days beginning with the day on which it receives a copy of the notice of appeal, make representations in writing to the Scottish Ministers.
 
@@ -658,7 +658,7 @@ Article 8
 
 (3) SEPA must, at the same time as making representations under sub-paragraph (1), send a copy of those representations to the appellant.
 
-### 3. Representations by the appellant[^key-e6a9e69537d3dfb9cfa8b4aaa1efd44c]
+### 3. Representations by the appellant[^c-e6a9e69537d3dfb9cfa8b4aaa1efd44c]
 
 (1) The appellant may, within a period of 14 days beginning with the day on which the appellant receives a copy of any representations made by SEPA under paragraph 2, make representations in writing to the Scottish Ministers in respect of SEPA’s representations.
 
@@ -669,7 +669,7 @@ Article 8
 
 (3) The appellant must, at the same time as making any such representations to the Scottish Ministers, send a copy of those representations to SEPA.
 
-### 4. Appointment of reporter[^key-fc3d46cc988a4b969ed506581969149a]
+### 4. Appointment of reporter[^c-fc3d46cc988a4b969ed506581969149a]
 
 (1) The Scottish Ministers may, in relation to an appeal to the Scottish Ministers under any of the provisions referred to in paragraph 1(1), appoint a person (“a reporter”) to—
 
@@ -678,7 +678,7 @@ Article 8
 
 (2) If the Scottish Ministers appoint a reporter in relation to the appeal, they must notify the appellant and SEPA of the name of the reporter and the functions to be performed by the reporter.
 
-### 5. Appointment of advisor[^key-0d1f8b31347c21695b2584d969f50c6c]
+### 5. Appointment of advisor[^c-0d1f8b31347c21695b2584d969f50c6c]
 
 (1) The Scottish Ministers may appoint a person (“an advisor”) to advise a reporter on such matters (in relation to the appeal) as the Scottish Ministers may specify.
 
@@ -686,13 +686,13 @@ Article 8
 
 (3) If the Scottish Ministers appoint an advisor in relation to the appeal, they must notify the appellant and SEPA of the name of the advisor and the matters on which the advisor is to advise the reporter.
 
-### 6. Determination of appeal without further representation or information[^key-3bca34d61451bbadaddea0ca744ef645]
+### 6. Determination of appeal without further representation or information[^c-3bca34d61451bbadaddea0ca744ef645]
 
 (1) If the Scottish Ministers consider that no further representation or information is required to enable the appeal to be determined, they may determine the appeal without further procedure.
 
 (2) If the Scottish Ministers consider that further procedure is necessary to determine the appeal, they may determine the manner in which that further procedure is to be conducted.
 
-### 7. Further representations or information[^key-4494d6d4ddeb9c5d5057eee61e3f07eb]
+### 7. Further representations or information[^c-4494d6d4ddeb9c5d5057eee61e3f07eb]
 
 (1) If the Scottish Ministers consider that further representations should be made or further information should be provided by means of written submissions, the Scottish Ministers may request further representations or information by notice to the reservoir manager and SEPA.
 
@@ -710,7 +710,7 @@ Article 8
   - (i) SEPA must give a copy of the further information to the reservoir manager; and
   - (ii) the reservoir manager may, within a period of 14 days beginning with the day on which the reservoir manager is given a copy of the further information, give to the Scottish Ministers comments on the further information.
 
-### 8. Hearings[^key-d2453648e5a7c32629be9ec035a3865f]
+### 8. Hearings[^c-d2453648e5a7c32629be9ec035a3865f]
 
 (1) In determining the appeal, the Scottish Ministers may afford the appellant and SEPA an opportunity of appearing before and being heard by them (or, as the case may be, a reporter).
 
@@ -736,7 +736,7 @@ Article 8
 - (b) an evaluation of those representations by the reporter; and
 - (c) the advice (including any conclusions and recommendations) of the reporter as to how the appeal ought to be determined, or the reasons for not making any such recommendations.
 
-### 9. Determination of appeal[^key-c92a12c959be8c436dc11b37b86665e7]
+### 9. Determination of appeal[^c-c92a12c959be8c436dc11b37b86665e7]
 
 (1) The Scottish Ministers must give to the reservoir manager—
 
@@ -803,100 +803,100 @@ Part 3 and Schedules 5 and 6 make further provision in relation to reviews and a
 
 [^f00003]: Footnote: The powers to make this Order are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). This Order is subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-68dcf5b06a39d8509d161adeac6fe609]: Commencement: Art. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-68dcf5b06a39d8509d161adeac6fe609]: Commencement: Art. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-5ab79a474d6269d1d9a1c506609a5c2c]: Commencement: Art. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-5ab79a474d6269d1d9a1c506609a5c2c]: Commencement: Art. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
 [^f00004]: Footnote: [S.S.I. 2015/383](https://www.legislation.gov.uk/ssi/2015/383).
 
 [^f00005]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-d2559795cb5668bc5d568daf0fd079a9]: Commencement: Art. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-d2559795cb5668bc5d568daf0fd079a9]: Commencement: Art. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-1c86433e59007325c26df6ed534a1797]: Commencement: Art. 4 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-1c86433e59007325c26df6ed534a1797]: Commencement: Art. 4 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-2a5b510143c3c3c7437ce56333638efc]: Commencement: Art. 5 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-2a5b510143c3c3c7437ce56333638efc]: Commencement: Art. 5 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-49af3b109a647fea7f726420f23946f7]: Commencement: Art. 6 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-49af3b109a647fea7f726420f23946f7]: Commencement: Art. 6 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-d2797de0a75217f2deb6c3ff1e868e27]: Commencement: Art. 7 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-d2797de0a75217f2deb6c3ff1e868e27]: Commencement: Art. 7 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-137b2a0c99ee643df2ce31fad92edd5e]: Commencement: Art. 8 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-137b2a0c99ee643df2ce31fad92edd5e]: Commencement: Art. 8 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-07e0b7b3efb1bdb938fce1ca3b915108]: Commencement: Art. 9 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-07e0b7b3efb1bdb938fce1ca3b915108]: Commencement: Art. 9 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-088445e9d334488fa0b2ec1c2a59cbf8]: Commencement: Art. 10 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-088445e9d334488fa0b2ec1c2a59cbf8]: Commencement: Art. 10 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-8c0748690876fd6a2553db11245ac284]: Commencement: Art. 11 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-8c0748690876fd6a2553db11245ac284]: Commencement: Art. 11 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-3595bd30c7a0d3b645c3fdbf7d7bec3d]: Commencement: Art. 12 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-3595bd30c7a0d3b645c3fdbf7d7bec3d]: Commencement: Art. 12 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-b19d6c1bb026f34d0baa4d4300e8aef3]: Commencement: Sch. 1 para. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-b19d6c1bb026f34d0baa4d4300e8aef3]: Commencement: Sch. 1 para. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-af7732b03602c821b22ce7a266c2798e]: Commencement: Sch. 1 para. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-af7732b03602c821b22ce7a266c2798e]: Commencement: Sch. 1 para. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-32b32e1959887d66e19f2551ee51ae71]: Commencement: Sch. 1 para. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-32b32e1959887d66e19f2551ee51ae71]: Commencement: Sch. 1 para. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-8adf152afd26551fef7378576e57e6a8]: Commencement: Sch. 1 para. 4 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-8adf152afd26551fef7378576e57e6a8]: Commencement: Sch. 1 para. 4 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-0b18273dde004de9b159e3bb4037bda7]: Commencement: Sch. 1 para. 5 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-0b18273dde004de9b159e3bb4037bda7]: Commencement: Sch. 1 para. 5 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-a1e64d7f05104e1d04b25866e8bbe73b]: Commencement: Sch. 1 para. 6 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-a1e64d7f05104e1d04b25866e8bbe73b]: Commencement: Sch. 1 para. 6 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
 [^f00006]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46).
 
-[^key-284c68385648cfa3e35854a4fcc81f1a]: Commencement: Sch. 1 para. 7 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-284c68385648cfa3e35854a4fcc81f1a]: Commencement: Sch. 1 para. 7 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-7261227100f87c86a5bd601c3aa11573]: Commencement: Sch. 2 para. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-7261227100f87c86a5bd601c3aa11573]: Commencement: Sch. 2 para. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-4a6e72cb962783f955d988ce12a474c7]: Commencement: Sch. 2 para. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-4a6e72cb962783f955d988ce12a474c7]: Commencement: Sch. 2 para. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-9caff6bdca7c0c8622b6bf0d3e8dee12]: Commencement: Sch. 2 para. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-9caff6bdca7c0c8622b6bf0d3e8dee12]: Commencement: Sch. 2 para. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-afa65bcd9f6ecc3073eb0b0695b32121]: Commencement: Sch. 2 para. 4 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-afa65bcd9f6ecc3073eb0b0695b32121]: Commencement: Sch. 2 para. 4 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-eb369fa22f7a5d3dd1e6a71cf8725d0e]: Commencement: Sch. 2 para. 5 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-eb369fa22f7a5d3dd1e6a71cf8725d0e]: Commencement: Sch. 2 para. 5 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-f294057df5b00175dbedbb4c97064227]: Commencement: Sch. 2 para. 6 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-f294057df5b00175dbedbb4c97064227]: Commencement: Sch. 2 para. 6 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-62014d072cf6223d67cf2fd40c7b4ec8]: Commencement: Sch. 2 para. 7 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-62014d072cf6223d67cf2fd40c7b4ec8]: Commencement: Sch. 2 para. 7 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-a58df43e68e798e1a6d3062da2425342]: Commencement: Sch. 2 para. 8 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-a58df43e68e798e1a6d3062da2425342]: Commencement: Sch. 2 para. 8 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-53868f591e97f2eb496fec6408b75248]: Commencement: Sch. 2 para. 9 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-53868f591e97f2eb496fec6408b75248]: Commencement: Sch. 2 para. 9 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-1e7534a9e74dde91597bc20b37fa7139]: Commencement: Sch. 2 para. 10 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-1e7534a9e74dde91597bc20b37fa7139]: Commencement: Sch. 2 para. 10 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-41708df058aface577a1e7f6644e11c1]: Commencement: Sch. 2 para. 11 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-41708df058aface577a1e7f6644e11c1]: Commencement: Sch. 2 para. 11 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-d30eae201d3e6927cf0ef6c261e5a413]: Commencement: Sch. 3 para. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-d30eae201d3e6927cf0ef6c261e5a413]: Commencement: Sch. 3 para. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-087a36490650622d922ccb02eca31091]: Commencement: Sch. 3 para. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-087a36490650622d922ccb02eca31091]: Commencement: Sch. 3 para. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-d70e4802706d875bc7ad97a6510b0ab2]: Commencement: Sch. 3 para. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-d70e4802706d875bc7ad97a6510b0ab2]: Commencement: Sch. 3 para. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-017fe5643d1eb1949e3b1eb82062435a]: Commencement: Sch. 4 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-017fe5643d1eb1949e3b1eb82062435a]: Commencement: Sch. 4 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
 [^f00007]: Footnote: [S.S.I. 2016/161](https://www.legislation.gov.uk/ssi/2016/161).
 
-[^key-608f1039cf4dc174116281d31d6a04fe]: Commencement: Sch. 5 para. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-608f1039cf4dc174116281d31d6a04fe]: Commencement: Sch. 5 para. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-3997185aa81317d972c9dc15b7083cf1]: Commencement: Sch. 5 para. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-3997185aa81317d972c9dc15b7083cf1]: Commencement: Sch. 5 para. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-f8049e59e39ad761bc1e9818c6b13eee]: Commencement: Sch. 6 para. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-f8049e59e39ad761bc1e9818c6b13eee]: Commencement: Sch. 6 para. 1 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-846db1e515f86c2ca052ae62f3274623]: Commencement: Sch. 6 para. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-846db1e515f86c2ca052ae62f3274623]: Commencement: Sch. 6 para. 2 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-e6a9e69537d3dfb9cfa8b4aaa1efd44c]: Commencement: Sch. 6 para. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-e6a9e69537d3dfb9cfa8b4aaa1efd44c]: Commencement: Sch. 6 para. 3 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-fc3d46cc988a4b969ed506581969149a]: Commencement: Sch. 6 para. 4 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-fc3d46cc988a4b969ed506581969149a]: Commencement: Sch. 6 para. 4 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-0d1f8b31347c21695b2584d969f50c6c]: Commencement: Sch. 6 para. 5 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-0d1f8b31347c21695b2584d969f50c6c]: Commencement: Sch. 6 para. 5 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-3bca34d61451bbadaddea0ca744ef645]: Commencement: Sch. 6 para. 6 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-3bca34d61451bbadaddea0ca744ef645]: Commencement: Sch. 6 para. 6 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-4494d6d4ddeb9c5d5057eee61e3f07eb]: Commencement: Sch. 6 para. 7 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-4494d6d4ddeb9c5d5057eee61e3f07eb]: Commencement: Sch. 6 para. 7 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-d2453648e5a7c32629be9ec035a3865f]: Commencement: Sch. 6 para. 8 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-d2453648e5a7c32629be9ec035a3865f]: Commencement: Sch. 6 para. 8 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
 
-[^key-c92a12c959be8c436dc11b37b86665e7]: Commencement: Sch. 6 para. 9 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)
+[^c-c92a12c959be8c436dc11b37b86665e7]: Commencement: Sch. 6 para. 9 in force at 1.4.2016, see [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1)

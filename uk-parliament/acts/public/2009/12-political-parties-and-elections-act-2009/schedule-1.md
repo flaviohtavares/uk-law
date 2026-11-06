@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1 — Investigatory powers of Commission: Schedule to be inserted into the 2000 Act[^key-da7456d7f9691d6f776c0809bcbd962b]
+## SCHEDULE 1 — Investigatory powers of Commission: Schedule to be inserted into the 2000 Act[^c-da7456d7f9691d6f776c0809bcbd962b]
 
 *Extent: E+W+S+N.I.*
 
@@ -294,4 +294,4 @@ Section 2
 
 ## Annotations
 
-[^key-da7456d7f9691d6f776c0809bcbd962b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2009/12/schedule/1) in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/e) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2866/article/5))
+[^c-da7456d7f9691d6f776c0809bcbd962b]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ukpga/2009/12/schedule/1) in force at 1.12.2010 by [S.I. 2010/2866](https://www.legislation.gov.uk/uksi/2010/2866), [art. 3(e)](https://www.legislation.gov.uk/uksi/2010/2866/article/3/e) (with [art. 5](https://www.legislation.gov.uk/uksi/2010/2866/article/5))

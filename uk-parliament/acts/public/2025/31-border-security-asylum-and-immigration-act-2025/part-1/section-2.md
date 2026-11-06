@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Terms and conditions of designation etc[^key-9144cb59e4212965589af3ac1f633c09][^key-032fea3f8a1d9dcc7435133a043ea345]
+## 2. Terms and conditions of designation etc[^c-9144cb59e4212965589af3ac1f633c09][^c-032fea3f8a1d9dcc7435133a043ea345]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9144cb59e4212965589af3ac1f633c09]: Commencement: S. 2 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-9144cb59e4212965589af3ac1f633c09]: Commencement: S. 2 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-032fea3f8a1d9dcc7435133a043ea345]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/31/section/2) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)
+[^c-032fea3f8a1d9dcc7435133a043ea345]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/31/section/2) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/a)

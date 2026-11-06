@@ -32,7 +32,7 @@ Section 59.
 (2) In this Schedule—
 
 - “**the court**”, in the case of any protected railway company, means the court having jurisdiction to wind up the company;
-- “**other appointee**” means any company, other than the existing appointee or the new appointee, which is the holder of a licence under section 8 of this Act or of a[^c18987521] railway undertaking[^key-63b5655036e403c787cef6494d4d0bfe] licence and which may be affected by the proposal mentioned in sub-paragraph (1)(b) above;
+- “**other appointee**” means any company, other than the existing appointee or the new appointee, which is the holder of a licence under section 8 of this Act or of a[^c18987521] railway undertaking[^c-63b5655036e403c787cef6494d4d0bfe] licence and which may be affected by the proposal mentioned in sub-paragraph (1)(b) above;
 - “**the relevant date**” means such day, being a day before the discharge of the railway administration order takes effect, as the court may appoint for the purposes of this Schedule; and
 - “**special railway administrator**”, in relation to a company in relation to which a railway administration order has been made, means the person for the time being holding office for the purposes of section 59(1) of this Act.
 
@@ -58,7 +58,7 @@ Section 59.
 
 (9)[^c19362031] A statutory instrument containing an order under this paragraph by the Scottish Ministers is subject to annulment in pursuance of a resolution of the Scottish Parliament.
 
-(10)[^key-c5ed7c945b95d8b91a235da561998285] A statutory instrument containing an order under this paragraph made by the Welsh Ministers is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
+(10)[^c-c5ed7c945b95d8b91a235da561998285] A statutory instrument containing an order under this paragraph made by the Welsh Ministers is subject to annulment in pursuance of a resolution of the National Assembly for Wales.
 
 ### Transfers by scheme
 
@@ -91,7 +91,7 @@ Section 59.
 
 (2) Different schemes under this Schedule may provide for a licence held by the same existing appointee to have effect as if it had been granted as a separate licence to each of the new appointees under those schemes.
 
-(3)[^c18987431] Sub-paragraphs (1) and (2) have effect in relation to a railway undertaking[^key-d7c3db3db295e9e20b14dfc50e040d67] licence as they have effect in relation to a licence.
+(3)[^c18987431] Sub-paragraphs (1) and (2) have effect in relation to a railway undertaking[^c-d7c3db3db295e9e20b14dfc50e040d67] licence as they have effect in relation to a licence.
 
 ### Supplemental provisions of schemes
 
@@ -163,7 +163,7 @@ and different schemes under this Schedule may provide for any such functions of 
 
 [^c18987521]: Textual amendment: Words in Sch. 7 para. 1(2) inserted (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 3](https://www.legislation.gov.uk/uksi/2005/3050/regulation/3), [Sch. 1 para. 3(10)(a)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/1/paragraph/3/10/a)
 
-[^key-63b5655036e403c787cef6494d4d0bfe]: Textual amendment: Words in [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/ukpga/1993/43/schedule/7/paragraph/1/2) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [22(8)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/22/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63b5655036e403c787cef6494d4d0bfe]: Textual amendment: Words in [Sch. 7 para. 1(2)](https://www.legislation.gov.uk/ukpga/1993/43/schedule/7/paragraph/1/2) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [22(8)(a)](https://www.legislation.gov.uk/uksi/2019/700/regulation/22/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c14118801]: Modification: Sch. 7 para. 2 modified (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 19(6)](https://www.legislation.gov.uk/ukpga/1996/61/section/19/6)
 
@@ -177,7 +177,7 @@ and different schemes under this Schedule may provide for any such functions of 
 
 [^c19362031]: Textual amendment: Sch. 7 para. 2(9) inserted (26.10.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 49(9)](https://www.legislation.gov.uk/ukpga/2005/14/section/49/9), [60](https://www.legislation.gov.uk/ukpga/2005/14/section/60); [S.I. 2005/2812](https://www.legislation.gov.uk/uksi/2005/2812), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2812/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2812/schedule/1)
 
-[^key-c5ed7c945b95d8b91a235da561998285]: Textual amendment: [Sch. 7 para. 2(10)](https://www.legislation.gov.uk/ukpga/1993/43/schedule/7/paragraph/2/10) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/33)
+[^c-c5ed7c945b95d8b91a235da561998285]: Textual amendment: [Sch. 7 para. 2(10)](https://www.legislation.gov.uk/ukpga/1993/43/schedule/7/paragraph/2/10) inserted (14.10.2018 at 2.00 a.m.) by [The Welsh Ministers (Transfer of Functions) (Railways) Order 2018 (S.I. 2018/631)](https://www.legislation.gov.uk/uksi/2018/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/631/article/1/3), [Sch. para. 33](https://www.legislation.gov.uk/uksi/2018/631/schedule/paragraph/33)
 
 [^c14118881]: Marginal citation: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
@@ -185,7 +185,7 @@ and different schemes under this Schedule may provide for any such functions of 
 
 [^c18987431]: Textual amendment: Sch. 7 para. 4(3) added (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 3](https://www.legislation.gov.uk/uksi/2005/3050/regulation/3), [Sch. 1 para. 3(10)(b)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/1/paragraph/3/10/b)
 
-[^key-d7c3db3db295e9e20b14dfc50e040d67]: Textual amendment: Words in [Sch. 7 para. 4(3)](https://www.legislation.gov.uk/ukpga/1993/43/schedule/7/paragraph/4/3) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [22(8)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/22/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d7c3db3db295e9e20b14dfc50e040d67]: Textual amendment: Words in [Sch. 7 para. 4(3)](https://www.legislation.gov.uk/ukpga/1993/43/schedule/7/paragraph/4/3) substituted (31.12.2020) by [The Railway (Licensing of Railway Undertakings) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/700)](https://www.legislation.gov.uk/uksi/2019/700), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/700/regulation/1/2), [22(8)(b)](https://www.legislation.gov.uk/uksi/2019/700/regulation/22/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c14118901]: Marginal citation: [1962 c. 46](https://www.legislation.gov.uk/ukpga/1962/46).
 

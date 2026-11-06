@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England.
 
-## 13. Registrar extends time for sending the written report[^key-66a019c6e327d077cc73c0abf99e9176]
+## 13. Registrar extends time for sending the written report[^c-66a019c6e327d077cc73c0abf99e9176]
 
 *Extent: E*
 
-(1) Where the registrar proposes under section 11(2) of the Measure to extend the period of 28 days for the submission of the written report to the bishop, the registrar shall, not later than 21 days after receipt of the allegation of misconduct[^key-a2036371aaceb4982efe9f7f2d5565e4], notify the complainant and the respondent of the reasons why an extension is required and the period of extension proposed, and shall invite their views about whether there should be an extension.
+(1) Where the registrar proposes under section 11(2) of the Measure to extend the period of 28 days for the submission of the written report to the bishop, the registrar shall, not later than 21 days after receipt of the allegation of misconduct[^c-a2036371aaceb4982efe9f7f2d5565e4], notify the complainant and the respondent of the reasons why an extension is required and the period of extension proposed, and shall invite their views about whether there should be an extension.
 
 (2) Any comments by the complainant and the respondent shall be made within 7 days of notification by the registrar.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66a019c6e327d077cc73c0abf99e9176]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2005/2022/rule/13) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-66a019c6e327d077cc73c0abf99e9176]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2005/2022/rule/13) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
 
-[^key-a2036371aaceb4982efe9f7f2d5565e4]: Textual amendment: Words in [rule 13(1)](https://www.legislation.gov.uk/uksi/2005/2022/rule/13/1) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)
+[^c-a2036371aaceb4982efe9f7f2d5565e4]: Textual amendment: Words in [rule 13(1)](https://www.legislation.gov.uk/uksi/2005/2022/rule/13/1) substituted (13.7.2021) by [The Clergy Discipline (Amendment) Rules 2021 (S.I. 2021/557)](https://www.legislation.gov.uk/uksi/2021/557), [rule 1(2)](https://www.legislation.gov.uk/uksi/2021/557/rule/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2021/557/schedule/2)

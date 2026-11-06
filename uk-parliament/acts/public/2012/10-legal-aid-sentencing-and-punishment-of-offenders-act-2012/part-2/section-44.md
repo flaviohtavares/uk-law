@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Conditional fee agreements: success fees[^c22555471][^key-438cc4b60a1ac767f233d77cd773ab89][^key-a0a959ba1237769d273f66e4e537869c]
+## 44. Conditional fee agreements: success fees[^c22555471][^c-438cc4b60a1ac767f233d77cd773ab89][^c-a0a959ba1237769d273f66e4e537869c]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 [^c22555471]: Commencement: S. 44 partly in force; s. 44 not in force at Royal Assent, see s. 151(1); s. 44 in force at 19.1.2013 for specified purposes and at 1.4.2013 except in relation to specified proceedings by [S.I. 2013/77](https://www.legislation.gov.uk/uksi/2013/77), [arts. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/77/article/2/1/a), [3(a)](https://www.legislation.gov.uk/uksi/2013/77/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2013/77/article/4))
 
-[^key-438cc4b60a1ac767f233d77cd773ab89]: Commencement: S. 44 in force at 6.4.2016 in so far as not already in force except in relation to proceedings relating to a claim for damages in respect of diffuse mesothelioma and publication and privacy proceedings by [S.I. 2016/345](https://www.legislation.gov.uk/uksi/2016/345), [art. 2](https://www.legislation.gov.uk/uksi/2016/345/article/2)
+[^c-438cc4b60a1ac767f233d77cd773ab89]: Commencement: S. 44 in force at 6.4.2016 in so far as not already in force except in relation to proceedings relating to a claim for damages in respect of diffuse mesothelioma and publication and privacy proceedings by [S.I. 2016/345](https://www.legislation.gov.uk/uksi/2016/345), [art. 2](https://www.legislation.gov.uk/uksi/2016/345/article/2)
 
-[^key-a0a959ba1237769d273f66e4e537869c]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2012/10/section/44) in force at 6.4.2019 in relation to publication and privacy proceedings by [S.I. 2018/1287](https://www.legislation.gov.uk/uksi/2018/1287), [art. 2](https://www.legislation.gov.uk/uksi/2018/1287/article/2)
+[^c-a0a959ba1237769d273f66e4e537869c]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2012/10/section/44) in force at 6.4.2019 in relation to publication and privacy proceedings by [S.I. 2018/1287](https://www.legislation.gov.uk/uksi/2018/1287), [art. 2](https://www.legislation.gov.uk/uksi/2018/1287/article/2)

@@ -46,28 +46,28 @@ The Secretary of State, in exercise of the powers conferred by section 8(1) of t
 
 ## PART 1 — INTRODUCTORY
 
-### 1.[^key-e8932021000bba99d8f97ff36e181e3b]
+### 1.[^c-e8932021000bba99d8f97ff36e181e3b]
 
 These Regulations may be cited as the Patents (Amendment) (EU Exit) Regulations 2019 and come into force on exit day.
 
 ## PART 2 — AMENDMENTS TO THE PATENTS ACT 1977
 
-### 2.[^key-1fbdd56df08c722cc28ff75262760522]
+### 2.[^c-1fbdd56df08c722cc28ff75262760522]
 
 The Patents Act 1977 is amended follows.
 
-### 3.[^key-0649737d0bedf52930e3c5c6596b96ba]
+### 3.[^c-0649737d0bedf52930e3c5c6596b96ba]
 
 In section 128A (EU compulsory licences)—
 
-- (a)[^key-a0b136118edfd2d68f726476c4035f54] in the heading for “EU compulsory”, substitute “Compulsory pharmaceutical”;
+- (a)[^c-a0b136118edfd2d68f726476c4035f54] in the heading for “EU compulsory”, substitute “Compulsory pharmaceutical”;
 - (b) in subsection (1), for “an “EU compulsory”, substitute “a “compulsory pharmaceutical”;
 - (c) in subsection (2)—
   - (i) for “EU compulsory”, substitute “ compulsory pharmaceutical ”;
   - (ii) “an EU compulsory”, substitute “a compulsory pharmaceutical”;
 - (d) in subsection (5), for “an EU compulsory”, substitute “ a compulsory pharmaceutical ”.
 
-### 4.[^key-e04cdfd7b947f41c34a4b1d06ad6db09]
+### 4.[^c-e04cdfd7b947f41c34a4b1d06ad6db09]
 
 **Not yet in force.**
 
@@ -75,7 +75,7 @@ In section 128A (EU compulsory licences)—
 
 ## PART 3 — AMENDMENT TO THE COPYRIGHT, DESIGNS AND PATENTS ACT 1988
 
-### 5.[^key-63c20fae17ca35dd940d1f2e426455d9]
+### 5.[^c-63c20fae17ca35dd940d1f2e426455d9]
 
 (1) Section 281 (power of comptroller to refuse to deal with certain agents) of the Copyright, Designs and Patents Act 1988 [^c23704671] is amended as follows.
 
@@ -83,11 +83,11 @@ In section 128A (EU compulsory licences)—
 
 ## PART 4 — AMENDMENTS TO THE PATENTS AND PLANT VARIETY RIGHTS (COMPULSORY LICENSING) REGULATIONS 2002
 
-### 6.[^key-1cb2a38117d212f3db6f1a00b176c9af]
+### 6.[^c-1cb2a38117d212f3db6f1a00b176c9af]
 
 The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 [^c23704691] are amended as set out in this Part.
 
-### 7.[^key-4b3234f743d4422946abd3a39b9a18e8]
+### 7.[^c-4b3234f743d4422946abd3a39b9a18e8]
 
 (1) Regulation 2 (interpretation) is amended as follows.
 
@@ -97,31 +97,31 @@ The Patents and Plant Variety Rights (Compulsory Licensing) Regulations 2002 [^c
 - (b) omit the definition of “Council Regulation”;
 - (c) for the definition of “plant breeders' rights”, substitute—
 
-  > - “plant breeders’ right” means—[^key-a35fe7717c3e437f92c7b9d1b0acb745]
+  > - “plant breeders’ right” means—[^c-a35fe7717c3e437f92c7b9d1b0acb745]
   >   - (a) any right granted under, or having effect as if granted under, section 3 of the 1997 Act (including existing rights as defined by section 40(4) of that Act); and
   >   - (b) any right which by virtue of regulation 3 of the Plant Breeders’ Rights (Amendment etc.) (EU Exit) Regulations 2019 is treated as if it were a plant breeders’ right granted in accordance with the 1997 Act and as if the variety were registered in accordance with regulations under section 18(1)(c) of the 1997 Act;
 
   .
 
-### 8.[^key-1066c1e5161d787c211049f67e110970]
+### 8.[^c-1066c1e5161d787c211049f67e110970]
 
 (1) Regulations 3 (applications) and 6 (grant) are amended as follows.
 
 (2) Omit “or a Community plant variety right” and “or Community plant variety right” wherever they occur.
 
-### 9.[^key-a46fe3912b3e9037b26aacb0ede3d8d6]
+### 9.[^c-a46fe3912b3e9037b26aacb0ede3d8d6]
 
 In regulation 7 (conditions), omit paragraphs (4) and (5).
 
-### 10.[^key-78c6e1c845e920164e3bec3a861072b1]
+### 10.[^c-78c6e1c845e920164e3bec3a861072b1]
 
 Omit regulation 15 (Community plant variety rights.).
 
-### 11.[^key-0a26f929ddaf2419978c0cfdc4c41f94]
+### 11.[^c-0a26f929ddaf2419978c0cfdc4c41f94]
 
 In regulation 16 (variation and revocation), omit paragraphs (4) to (7).
 
-### 12.[^key-bddafc83a91d8f335200132b030f17da]
+### 12.[^c-bddafc83a91d8f335200132b030f17da]
 
 In regulation 17, for paragraph (2), substitute—
 
@@ -129,7 +129,7 @@ In regulation 17, for paragraph (2), substitute—
 
 .
 
-### 13.[^key-a7237ea19efa13e09ba60c2d9eb4f874]
+### 13.[^c-a7237ea19efa13e09ba60c2d9eb4f874]
 
 (1) Regulation 20 (extension of powers to make rules and regulations) is amended as follows.
 
@@ -140,7 +140,7 @@ In regulation 17, for paragraph (2), substitute—
 - (a) for “regulations 8 and 16(4)” substitute “ regulation 8 ”; and
 - (b) for “regulations 9 and 16(5)”, substitute “ regulation 9 ”.
 
-### 14.[^key-26b57997e7246e7837ca419d28d12fed]
+### 14.[^c-26b57997e7246e7837ca419d28d12fed]
 
 (1) Regulation 22 (application of existing rules and regulations) is amended as follows.
 
@@ -148,11 +148,11 @@ In regulation 17, for paragraph (2), substitute—
 
 (3) In paragraph (2), for “other than in relation to an application under regulation 15(1), and with any other necessary modifications”, substitute “ with any necessary modifications ”.
 
-### 15.[^key-6f56a8d1622672385754be84671b59c7]
+### 15.[^c-6f56a8d1622672385754be84671b59c7]
 
 In regulation 24, omit “or 15(1)”.
 
-### 16.[^key-72dd88ef3f449a9c876d77e76ad0587e]
+### 16.[^c-72dd88ef3f449a9c876d77e76ad0587e]
 
 (1) Regulation 26 (application of 1977 and 1997 Acts) is amended as follows.
 
@@ -160,7 +160,7 @@ In regulation 24, omit “or 15(1)”.
 
 (3) In paragraph (3), for “regulations 15(1), 16(3) and 16(4)” substitute “ regulation 16(3) ”.
 
-### 17. Transitional provision[^key-448014963f2d80a6c411c5ba6e7a58e0]
+### 17. Transitional provision[^c-448014963f2d80a6c411c5ba6e7a58e0]
 
 **Not yet in force.**
 
@@ -168,7 +168,7 @@ In regulation 24, omit “or 15(1)”.
 
 ## PART 5 — AMENDMENTS TO THE PATENTS RULES 2007
 
-### 18.[^key-da3c3433d6a2832dbe051b33812faf63]
+### 18.[^c-da3c3433d6a2832dbe051b33812faf63]
 
 (1) The Patents Rules 2007 [^c23704701] are amended as follows.
 
@@ -183,11 +183,11 @@ In regulation 24, omit “or 15(1)”.
 
 ## PART 6 — SUPPLEMENTARY PROTECTION CERTIFICATES FOR PLANT PROTECTION PRODUCTS – AMENDMENTS TO REGULATION [(EC) No 1610/96](https://www.legislation.gov.uk/eur/1996/1610)
 
-### 19.[^key-d7c8d6b1b46009f4a8d003e4210e9791]
+### 19.[^c-d7c8d6b1b46009f4a8d003e4210e9791]
 
 Regulation [(EC) No 1610/96](https://www.legislation.gov.uk/eur/1996/1610) of the European Parliament and of the Council of 23 July 1996 concerning the creation of a supplementary protection certificate for plant protection products is amended as set out in this Part.
 
-### 20.[^key-9f9b232a1e2ca3fa3017437a94ac3bc6]
+### 20.[^c-9f9b232a1e2ca3fa3017437a94ac3bc6]
 
 (1) Article 1 (definitions) is amended as follows.
 
@@ -199,7 +199,7 @@ Regulation [(EC) No 1610/96](https://www.legislation.gov.uk/eur/1996/1610) of th
 >
 > ‘comptroller’ means the Comptroller-General of Patents, Designs and Trade Marks;
 >
-> **12.[^key-558bd55a80cc3b5b8d0d34fb95468df2]**
+> **12.[^c-558bd55a80cc3b5b8d0d34fb95468df2]**
 >
 > ‘court’ means—
 >
@@ -215,19 +215,19 @@ Regulation [(EC) No 1610/96](https://www.legislation.gov.uk/eur/1996/1610) of th
 >
 > ‘patent’ means a patent which has effect in the United Kingdom;
 >
-> **15.[^key-ddd26c48e4132d77a235bd5276a0cac7]**
+> **15.[^c-ddd26c48e4132d77a235bd5276a0cac7]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
-### 21.[^key-a24fd43299fb1f42ac6c3de8afd016f2]
+### 21.[^c-a24fd43299fb1f42ac6c3de8afd016f2]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22.[^key-19e9b61f2cd7e5cae545893d9de3986f]
+### 22.[^c-19e9b61f2cd7e5cae545893d9de3986f]
 
 For Article 2, substitute—
 
@@ -236,11 +236,11 @@ For Article 2, substitute—
 > A plant protection product may, under the terms and conditions provided for in this Regulation, be the subject of a certificate if it is—
 >
 > - (a) protected by a patent; and
-> - (b) the subject of a GB or NI[^key-6dcfaa3b741c5b7e5a15f0b22a5a04c0] authorization prior to being placed on the market as a plant protection product.
+> - (b) the subject of a GB or NI[^c-6dcfaa3b741c5b7e5a15f0b22a5a04c0] authorization prior to being placed on the market as a plant protection product.
 
 .
 
-### 23.[^key-d5c16d7247198341039d1ac21289c4fb]
+### 23.[^c-d5c16d7247198341039d1ac21289c4fb]
 
 For Article 3(1), substitute—
 
@@ -249,27 +249,27 @@ For Article 3(1), substitute—
 > Where an application is submitted under Article 7, a certificate shall be granted if at the date of submission of the application—
 >
 > - (a) the product is protected by a basic patent in force;
-> - (b) there is a valid GB or NI[^key-bf83863a872a8ee0ba91604b5749bc79] authorization to place the product on the market;
+> - (b) there is a valid GB or NI[^c-bf83863a872a8ee0ba91604b5749bc79] authorization to place the product on the market;
 > - (c) the product has not already been the subject of a certificate;
-> - (d) the authorization referred to in (b) is the first [^key-d882f2e28c6fff2ca4c3113acb2fb28a]... authorization to place the product on the market as a plant protection product in the territory of England and Wales and Scotland or the territory of Northern Ireland as the case may be[^key-f7ca08ea6d4c807244b2b5c3185f7fd2].
+> - (d) the authorization referred to in (b) is the first [^c-d882f2e28c6fff2ca4c3113acb2fb28a]... authorization to place the product on the market as a plant protection product in the territory of England and Wales and Scotland or the territory of Northern Ireland as the case may be[^c-f7ca08ea6d4c807244b2b5c3185f7fd2].
 
 .
 
-### 24.[^key-202c479e0caab1d4838d22b755cd51be]
+### 24.[^c-202c479e0caab1d4838d22b755cd51be]
 
 (1) Article 8 (contents of the application for a certificate) is amended as follows.
 
 (2) For paragraph 1(a)(iv), substitute—
 
-> - (iv) the number and date of the GB or NI authorisation or both GB and NI authorisations[^key-7f4a5efc23a6fb9e391114723124d80c] as referred to in Article 3(1)(b) and (d)[^key-1f58e6b3def8892bf73302aa63389815]; and
-> - (v) the number and date of the earliest EEA authorization, the granting of which predates the granting of the GB or NI[^key-455b25189cd7319dbb4246bf27706f30] authorization as referred to in Article 3(1)(b) and (d)[^key-804f0954643c84f77db59b07bd43d5ae];
+> - (iv) the number and date of the GB or NI authorisation or both GB and NI authorisations[^c-7f4a5efc23a6fb9e391114723124d80c] as referred to in Article 3(1)(b) and (d)[^c-1f58e6b3def8892bf73302aa63389815]; and
+> - (v) the number and date of the earliest EEA authorization, the granting of which predates the granting of the GB or NI[^c-455b25189cd7319dbb4246bf27706f30] authorization as referred to in Article 3(1)(b) and (d)[^c-804f0954643c84f77db59b07bd43d5ae];
 
 .
 
 (3) For paragraph 8(1)(b) and (c), substitute—
 
-> - (b) a copy of the GB or NI authorisation or both GB and NI authorisations[^key-63f2b2aeb48cd04afbf3bf078fa9e1b3] to place the product on the market, as referred to in Article 3(1)(b) and (d)[^key-85e5d402c76ab33cb30af467b19740cc], in which the product is identified, containing in particular the number and date of the authorization and the summary of the product characteristics listed in Commission Regulation 283/2013, Part A section 1, points 1.1 to 1.7 or Part B, Section 1 points 1.1 to 1.4.3[^key-6569418b82348cda81aabc3594072170];
-> - (c) where the product is the subject of one or more EEA authorizations granted prior to the GB or NI[^key-e32ae2df29add8d8629f770f8f1a2c64] authorization referred to in Article 3(1)(b) and (d)[^key-9bc67c25fca3af0def5810aa3ee0d9e5], the applicant must provide in relation to the earliest of any such EEA authorizations—
+> - (b) a copy of the GB or NI authorisation or both GB and NI authorisations[^c-63f2b2aeb48cd04afbf3bf078fa9e1b3] to place the product on the market, as referred to in Article 3(1)(b) and (d)[^c-85e5d402c76ab33cb30af467b19740cc], in which the product is identified, containing in particular the number and date of the authorization and the summary of the product characteristics listed in Commission Regulation 283/2013, Part A section 1, points 1.1 to 1.7 or Part B, Section 1 points 1.1 to 1.4.3[^c-6569418b82348cda81aabc3594072170];
+> - (c) where the product is the subject of one or more EEA authorizations granted prior to the GB or NI[^c-e32ae2df29add8d8629f770f8f1a2c64] authorization referred to in Article 3(1)(b) and (d)[^c-9bc67c25fca3af0def5810aa3ee0d9e5], the applicant must provide in relation to the earliest of any such EEA authorizations—
 >   - (i) information regarding the identity of the product thus authorised;
 >   - (ii) information regarding the legal provision under which the authorization procedure took place; and
 >   - (iii) a copy of the notice publishing the authorization in the appropriate official publication or, failing such a notice, any other document proving that the authorization has been issued, the date on which it was issued and the identity of the product authorized.
@@ -278,7 +278,7 @@ For Article 3(1), substitute—
 
 (4) Omit paragraph 2.
 
-### 25.[^key-2e8a8a0a0f1154dc909ee57410129ca8]
+### 25.[^c-2e8a8a0a0f1154dc909ee57410129ca8]
 
 (1) Article 9 (lodging of an application for a certificate) is amended as follows.
 
@@ -292,12 +292,12 @@ For Article 3(1), substitute—
 
 (4) For sub-paragraphs (d) and (e) of paragraph 2, substitute—
 
-> - (d)[^key-9746bd5047e90bf2a9aa437eb6836a42] the number and date of the GB or NI authorisation or both a GB and a NI authorisation provided under Article 8(1)(b), the product identified in the authorisation and the territory in respect of which the authorisation has been granted or has effect as if granted;
-> - (e) where there are EEA authorizations granted before any GB or NI authorisation provided under Article 8(1)(b)[^key-d5536825f27cb81e9e2bd920436e8fdb], the number and date of the earliest EEA authorization;
+> - (d)[^c-9746bd5047e90bf2a9aa437eb6836a42] the number and date of the GB or NI authorisation or both a GB and a NI authorisation provided under Article 8(1)(b), the product identified in the authorisation and the territory in respect of which the authorisation has been granted or has effect as if granted;
+> - (e) where there are EEA authorizations granted before any GB or NI authorisation provided under Article 8(1)(b)[^c-d5536825f27cb81e9e2bd920436e8fdb], the number and date of the earliest EEA authorization;
 
 .
 
-### 26.[^key-13e656e6b8db737dac88969b8720450b]
+### 26.[^c-13e656e6b8db737dac88969b8720450b]
 
 (1) Article 10 (grant of the certificate or rejection of the application) is amended as follows.
 
@@ -311,13 +311,13 @@ For Article 3(1), substitute—
 
 (6) At the end of the Article, insert—
 
-> **6.[^key-22c556634329603e3ec3e9b965d32103]**
+> **6.[^c-22c556634329603e3ec3e9b965d32103]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
-### 27.[^key-cd3669a28379203616de045f14694412]
+### 27.[^c-cd3669a28379203616de045f14694412]
 
 (1) Article 11 (publication) is amended as follows.
 
@@ -325,22 +325,22 @@ For Article 3(1), substitute—
 
 (3) In paragraph 1—
 
-- (a)[^key-8cdd4e908c15b652e673f97e17b53b31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-8cdd4e908c15b652e673f97e17b53b31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for sub-paragraph (e), substitute—
 
-  > - (e) where there are EEA authorizations granted before any authorisation provided under Article 8(1)(b)[^key-5d534d14d06a31334cd22e26daa7c7dd], the number and date of the earliest EEA authorization;
+  > - (e) where there are EEA authorizations granted before any authorisation provided under Article 8(1)(b)[^c-5d534d14d06a31334cd22e26daa7c7dd], the number and date of the earliest EEA authorization;
 
   .
 
-### 28.[^key-7c6324f05594698b48412e8237a2de9d]
+### 28.[^c-7c6324f05594698b48412e8237a2de9d]
 
 Omit Article 12 (annual fees).
 
-### 29.[^key-7533d4722826945c1743a2ba758caa11]
+### 29.[^c-7533d4722826945c1743a2ba758caa11]
 
 In paragraph 1 of Article 13 (duration of the certificate), for “the Community”, substitute “ the area comprising the European Economic Area and the United Kingdom ”.
 
-### 30.[^key-f1cc23a7363ebe3cd378926f860ce590]
+### 30.[^c-f1cc23a7363ebe3cd378926f860ce590]
 
 (1) Article 14 (expiry of the certificate) is amended as follows.
 
@@ -348,26 +348,26 @@ In paragraph 1 of Article 13 (duration of the certificate), for “the Community
 
 (3) For sub-paragraphs (c) and (d) of the renumbered paragraph 1, substitute—
 
-> - (c) if the prescribed annual fee is not paid in time; or[^key-dcb18d7d6e8fd1b2ea8faf33f90ce727]
-> - (d) if and as long as the product covered by the certificate may no longer be placed on the market following the withdrawal of all[^key-436c3fcce166bad15157de28b5dc3970] authorizations to place on the market in accordance with Article 28 of Regulation 1107/2009. The comptroller may decide on the lapse of the certificate either of the comptroller's own motion or at the request of a third party.
+> - (c) if the prescribed annual fee is not paid in time; or[^c-dcb18d7d6e8fd1b2ea8faf33f90ce727]
+> - (d) if and as long as the product covered by the certificate may no longer be placed on the market following the withdrawal of all[^c-436c3fcce166bad15157de28b5dc3970] authorizations to place on the market in accordance with Article 28 of Regulation 1107/2009. The comptroller may decide on the lapse of the certificate either of the comptroller's own motion or at the request of a third party.
 
 .
 
-(4)[^key-119d41a6300c9953c3ab21212f4ea84f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-119d41a6300c9953c3ab21212f4ea84f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31.[^key-3d3fa90b1412cd39d14a7f50d52d77e3]
+### 31.[^c-3d3fa90b1412cd39d14a7f50d52d77e3]
 
 In paragraph (2) of Article 15 (invalidity of certificate), for “the body responsible under national law for the revocation of the corresponding basic patent” substitute “ the comptroller or the court ”.
 
-### 32.[^key-116935846344217e713fe9b1c2157bfa]
+### 32.[^c-116935846344217e713fe9b1c2157bfa]
 
 In Article 16 (notification of lapse or invalidity), for “the authority referred to in Article 9(1)”, substitute “ the comptroller ”.
 
-### 33.[^key-e8a3340c95c30194ef8b395903a57812]
+### 33.[^c-e8a3340c95c30194ef8b395903a57812]
 
 In Article 17 (appeals), omit paragraph 1.
 
-### 34.[^key-4db8b1a7101a52b64cc27516cc02c1ac]
+### 34.[^c-4db8b1a7101a52b64cc27516cc02c1ac]
 
 In Article 18 (procedure), for paragraph 1 substitute—
 
@@ -377,27 +377,27 @@ In Article 18 (procedure), for paragraph 1 substitute—
 
 .
 
-### 35.[^key-5c380217061e5d5d7e415f6d582d9913]
+### 35.[^c-5c380217061e5d5d7e415f6d582d9913]
 
 Omit Articles 19 and 20 (transitional provisions).
 
-### 36.[^key-51a97d2640ba3acb86137a05bf40f176]
+### 36.[^c-51a97d2640ba3acb86137a05bf40f176]
 
 After Article 21 (entry into force), omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”.
 
 ## PART 7 — COMPULSORY LICENSING OF PHARMACEUTICAL PATENTS - AMENDMENTS TO REGULATION (EC) NO 816/2006
 
-### 37.[^key-cb8adedd266506eb4cb73359a77bbd61]
+### 37.[^c-cb8adedd266506eb4cb73359a77bbd61]
 
 Regulation [(EC) No 816/2006](https://www.legislation.gov.uk/eur/2006/816) of the European Parliament and of the Council of 17 May 2006 on compulsory licensing of patents relating to the manufacture of pharmaceutical products for export to countries with public health problems is amended as set out in this Part.
 
-### 38.[^key-0a2127fe0d3bfb3cd5deb24c52b73fb8]
+### 38.[^c-0a2127fe0d3bfb3cd5deb24c52b73fb8]
 
 (1) Article 1 (scope) is amended as follows.
 
 (2) For “Member States”, substitute “ The competent authority ”.
 
-### 39.[^key-64c2d7fd72746bd7d6cb24c031d8615a]
+### 39.[^c-64c2d7fd72746bd7d6cb24c031d8615a]
 
 (1) Article 2 (definitions) is amended as follows.
 
@@ -417,11 +417,11 @@ Regulation [(EC) No 816/2006](https://www.legislation.gov.uk/eur/2006/816) of th
 
 (4) Omit Article 3 (competent authority).
 
-### 40.[^key-3902e78be7e73aed106a1b7579112bd4]
+### 40.[^c-3902e78be7e73aed106a1b7579112bd4]
 
 In Article 4 (eligible importing countries), for “Commission”, substitute “ United Kingdom ”.
 
-### 41.[^key-42e2954066a3c618242561122c3a4d32]
+### 41.[^c-42e2954066a3c618242561122c3a4d32]
 
 (1) Article 5 (extension to least-developed and developing countries which are not members of the WTO) is amended as follows.
 
@@ -429,7 +429,7 @@ In Article 4 (eligible importing countries), for “Commission”, substitute �
 
 (3) In paragraph (c), omit “or on its own initiative if national law allows the competent authority to act on its own initiative,”.
 
-### 42.[^key-08f91b46291970edf57a2c47510fb3ff]
+### 42.[^c-08f91b46291970edf57a2c47510fb3ff]
 
 (1) Article 6 (application for a compulsory licence) is amended as follows.
 
@@ -445,11 +445,11 @@ In Article 4 (eligible importing countries), for “Commission”, substitute �
 
 (4) Omit paragraph 4.
 
-### 43.[^key-8297c5295f79d2b6a7f2c843f430fbad]
+### 43.[^c-8297c5295f79d2b6a7f2c843f430fbad]
 
 In Article 8 (verification), for “Commission”, wherever it occurs, substitute “ United Kingdom ”.
 
-### 44.[^key-49b400ca1fddb9defcf2fec0200af840]
+### 44.[^c-49b400ca1fddb9defcf2fec0200af840]
 
 (1) Article 10 (compulsory licence conditions) is amended as follows.
 
@@ -457,7 +457,7 @@ In Article 8 (verification), for “Commission”, wherever it occurs, substitut
 
 (3) In paragraph 8, omit “or on its own initiative, if national law allows the competent authority to act on its own initiative.”.
 
-### 45.[^key-70af0259b6a17dbdff46482a80dc2d1f]
+### 45.[^c-70af0259b6a17dbdff46482a80dc2d1f]
 
 (1) Article 12 (notification) is amended as follows.
 
@@ -465,11 +465,11 @@ In Article 8 (verification), for “Commission”, wherever it occurs, substitut
 
 (3) Omit “through the intermediary of the Commission”.
 
-### 46.[^key-47c659d483edcbbde412729dda217652]
+### 46.[^c-47c659d483edcbbde412729dda217652]
 
 In Article 13 (prohibition of importation), in paragraph 1, for “Community”, substitute “ United Kingdom ”.
 
-### 47.[^key-f137858e55af3b23a08cf3c1eda4edba]
+### 47.[^c-f137858e55af3b23a08cf3c1eda4edba]
 
 (1) Article 14 (action by customs authorities) is amended as follows.
 
@@ -486,7 +486,7 @@ In Article 13 (prohibition of importation), in paragraph 1, for “Community”,
 
 (6) Omit paragraph 6.
 
-### 48.[^key-b8c79137b2eb5ec9c56099061bca42f7]
+### 48.[^c-b8c79137b2eb5ec9c56099061bca42f7]
 
 (1) Article 16 (termination or review of the licence) is amended as follows.
 
@@ -497,21 +497,21 @@ In Article 13 (prohibition of importation), in paragraph 1, for “Community”,
 - (a) “or any other body appointed by the Member State”; and
 - (b) “or by another body appointed by the Member State,”.
 
-### 49.[^key-96a41662ac5c43f0de0142b2598b83a9]
+### 49.[^c-96a41662ac5c43f0de0142b2598b83a9]
 
 Omit Articles 17 to 19. (appeals, safety and efficacy of medicinal products and review)
 
-### 50.[^key-3b47a47355991ac460d1658f1c3b1024]
+### 50.[^c-3b47a47355991ac460d1658f1c3b1024]
 
 After Article 20 (entry into force), omit “This Regulation shall be binding in its entirety and directly applicable in all Member States”.
 
 ## PART 8 — SUPPLEMENTARY PROTECTION CERTIFICATES FOR MEDICINAL PRODUCTS – AMENDMENTS TO REGULATION [(EC) No 469/2009](https://www.legislation.gov.uk/eur/2009/469)
 
-### 51.[^key-e9cf433c392a6d338bc7cffeb5a4e991]
+### 51.[^c-e9cf433c392a6d338bc7cffeb5a4e991]
 
 Regulation [(EC) No 469/2009](https://www.legislation.gov.uk/eur/2009/469) of the European Parliament and of the Council of 6 May 2009 concerning the supplementary protection certificate for medicinal products is amended as follows.
 
-### 52.[^key-522c771340d5b71409a22c75949f4ea9]
+### 52.[^c-522c771340d5b71409a22c75949f4ea9]
 
 (1) Article 1 (interpretation) is amended as follows.
 
@@ -520,25 +520,25 @@ Regulation [(EC) No 469/2009](https://www.legislation.gov.uk/eur/2009/469) of th
 (3) After paragraph (e) insert—
 
 > - (f) ‘comptroller’ means the Comptroller-General of Patents, Designs and Trade Marks;
-> - (g)[^key-cdd1e3caa03b65966771d9c612ef86e3] ‘court’ means—
+> - (g)[^c-cdd1e3caa03b65966771d9c612ef86e3] ‘court’ means—
 >   - (i) as respects England and Wales, the High Court;
 >   - (ii) as respects Scotland, the Court of Session;
 >   - (iii) as respects Northern Ireland, the High Court in Northern Ireland;
 > - (h) “**EEA authorisation**” means an authorisation to place a medicinal product on the market which has effect in an EEA state in accordance with Directive [2001/83/EC](https://www.legislation.gov.uk/eudr/2001/83) or Directive [2001/82/EC](https://www.legislation.gov.uk/eudr/2001/82);
 > - (i) ‘patent’ means a patent which has effect in the United Kingdom;
-> - (j) ‘UK authorisation’ means, in relation to a product, an authorisation to place that product on the market in the United Kingdom[^key-6faf2daa6ef05f096748646fbab46a15] as a medicinal product granted or having effect as if granted[^key-7aa968e12088c463b4c778974902d6fa] in accordance with—
+> - (j) ‘UK authorisation’ means, in relation to a product, an authorisation to place that product on the market in the United Kingdom[^c-6faf2daa6ef05f096748646fbab46a15] as a medicinal product granted or having effect as if granted[^c-7aa968e12088c463b4c778974902d6fa] in accordance with—
 >   - (i) Part 5 of the Human Medicines Regulations 2012; or
 >   - (ii) regulation 4(3) of, and Schedule 1 to, the Veterinary Medicines Regulations 2013 [^c23704721].
 
 .
 
-### 53.[^key-eebdbe6c02d441b74fb95b1fdce1612b]
+### 53.[^c-eebdbe6c02d441b74fb95b1fdce1612b]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 54.[^key-1261aa8faa46dcb2fcacc305b403d122]
+### 54.[^c-1261aa8faa46dcb2fcacc305b403d122]
 
 For Articles 2 (scope) and 3 (conditions for obtaining a certificate), substitute—
 
@@ -547,34 +547,34 @@ For Articles 2 (scope) and 3 (conditions for obtaining a certificate), substitut
 > A product may, under the terms and conditions provided for in this Regulation, be the subject of a certificate if it is—
 >
 > - (a) protected by a patent; and
-> - (b) the subject of a UK , GB or NI[^key-03d1e05e5dc5d929d101dc3483b29d11] authorisation prior to being placed on the market as a medicinal product.
+> - (b) the subject of a UK , GB or NI[^c-03d1e05e5dc5d929d101dc3483b29d11] authorisation prior to being placed on the market as a medicinal product.
 >
 > **Article 3 — Conditions for obtaining a certificate**
 >
 > Where an application is submitted under Article 7, a certificate shall be granted if, at the date of submission of that application—
 >
 > - (a) the product is protected by a basic patent in force;
-> - (b) there is a valid UK , GB or NI[^key-68f9c5940829cf678587673be95a82ba] authorisation to place the product on the market;
+> - (b) there is a valid UK , GB or NI[^c-68f9c5940829cf678587673be95a82ba] authorisation to place the product on the market;
 > - (c) the product has not already been the subject of a certificate;
-> - (d) the authorisation referred to in point (b) is the first UK , GB or NI[^key-5d0b5b4b1dfcd8cffe9f613b44d3642b] authorisation to place the product on the market as a medicinal product in the territory of the United Kingdom, the territory of England and Wales and Scotland or the territory of Northern Ireland as the case may be[^key-df832f92ee237c9d3a4840fd750292b7].
+> - (d) the authorisation referred to in point (b) is the first UK , GB or NI[^c-5d0b5b4b1dfcd8cffe9f613b44d3642b] authorisation to place the product on the market as a medicinal product in the territory of the United Kingdom, the territory of England and Wales and Scotland or the territory of Northern Ireland as the case may be[^c-df832f92ee237c9d3a4840fd750292b7].
 
 .
 
-### 55.[^key-1731aae2e81b9d83991a79d52ba64e3d]
+### 55.[^c-1731aae2e81b9d83991a79d52ba64e3d]
 
 (1) Article 8 (content of application for a certificate) is amended as follows.
 
 (2) For paragraph 1(a)(iv), substitute—
 
-> - (iv)[^key-d7aabcb7d4d90b251d71ab42e6110e5b] the number and date of the UK, GB or NI authorisation, or where there is more than one such authorisation, of each authorisation as referred to in Article 3(b) and (d);
-> - (v) the number and date of the earliest of any EEA authorisation, the granting of which predates the granting of the UK , GB or NI[^key-97d65b4f9c8c93cc488b93fce5f15273] authorisation as referred to in Article 3(b) and (d)[^key-b0f59a6173ab8377d6ff3780c68c77f7];
+> - (iv)[^c-d7aabcb7d4d90b251d71ab42e6110e5b] the number and date of the UK, GB or NI authorisation, or where there is more than one such authorisation, of each authorisation as referred to in Article 3(b) and (d);
+> - (v) the number and date of the earliest of any EEA authorisation, the granting of which predates the granting of the UK , GB or NI[^c-97d65b4f9c8c93cc488b93fce5f15273] authorisation as referred to in Article 3(b) and (d)[^c-b0f59a6173ab8377d6ff3780c68c77f7];
 
 .
 
 (3) For paragraph 1(b) and (c), substitute—
 
-> - (b) a copy of the UK , GB or NI authorisation or, where there is more than one such authorisation, of each[^key-c73e33b008f4cbc47be6219d11bd723d] authorisation to place the product on the market, as referred to in Article 3(b) and (d)[^key-d6d6cc0762f9ec290b3c575293b52ff0], in which the product is identified, containing in particular the number and date of the authorisation and the summary of the product characteristics listed in Article 11 of Directive [2001/83/EC](https://www.legislation.gov.uk/eudr/2001/83), Article 14 of Directive [2001/82/EC](https://www.legislation.gov.uk/eudr/2001/82), Part 2 to Schedule 8 of the Human Medicines Regulations 2012 or Part 1 of Schedule 1 to the Veterinary Medicines Regulations 2013;
-> - (c) where the product is the subject of one or more EEA authorisations granted prior to the UK , GB or NI[^key-36545fc2cdb302908475001ca30904c4] authorisation referred to in Article 3(b) and (d)[^key-77eaa68d71256c68eb658b01e100a62b], the applicant must provide in relation to the earliest of any such EEA authorisations—
+> - (b) a copy of the UK , GB or NI authorisation or, where there is more than one such authorisation, of each[^c-c73e33b008f4cbc47be6219d11bd723d] authorisation to place the product on the market, as referred to in Article 3(b) and (d)[^c-d6d6cc0762f9ec290b3c575293b52ff0], in which the product is identified, containing in particular the number and date of the authorisation and the summary of the product characteristics listed in Article 11 of Directive [2001/83/EC](https://www.legislation.gov.uk/eudr/2001/83), Article 14 of Directive [2001/82/EC](https://www.legislation.gov.uk/eudr/2001/82), Part 2 to Schedule 8 of the Human Medicines Regulations 2012 or Part 1 of Schedule 1 to the Veterinary Medicines Regulations 2013;
+> - (c) where the product is the subject of one or more EEA authorisations granted prior to the UK , GB or NI[^c-36545fc2cdb302908475001ca30904c4] authorisation referred to in Article 3(b) and (d)[^c-77eaa68d71256c68eb658b01e100a62b], the applicant must provide in relation to the earliest of any such EEA authorisations—
 >   - (i) information regarding the identity of the product thus authorised;
 >   - (ii) information regarding the legal provision under which the authorisation procedure took place; and
 >   - (iii) a copy of the notice publishing the authorisation in the appropriate official publication;
@@ -588,7 +588,7 @@ For Articles 2 (scope) and 3 (conditions for obtaining a certificate), substitut
 
 (5) Omit paragraph (4).
 
-### 56.[^key-cf40011358999e494f64b2b7c7c2a3c4]
+### 56.[^c-cf40011358999e494f64b2b7c7c2a3c4]
 
 (1) Article 9 (lodging of an application for a certificate) is amended as follows.
 
@@ -604,12 +604,12 @@ For Articles 2 (scope) and 3 (conditions for obtaining a certificate), substitut
 
 (4) For sub-paragraphs (d) and (e) of paragraph 2, substitute—
 
-> - (d)[^key-2cb4e1419446b4764b9e52040fbb37e1] the number and date of the UK, GB or NI authorisation or, where there is more than one such authorisation, each authorisation provided under Article 8(1)(b), the product identified in the authorisation or each authorisation and the territory in respect of which the authorisation has been granted or has effect as if granted;
-> - (e) where there are authorisations granted in the EEA before any UK, GB or NI authorisation provided under Article 8(1)(b)[^key-e9ba1e9831aabdc6483862721830ba87], the number and date of the earliest EEA authorisation;
+> - (d)[^c-2cb4e1419446b4764b9e52040fbb37e1] the number and date of the UK, GB or NI authorisation or, where there is more than one such authorisation, each authorisation provided under Article 8(1)(b), the product identified in the authorisation or each authorisation and the territory in respect of which the authorisation has been granted or has effect as if granted;
+> - (e) where there are authorisations granted in the EEA before any UK, GB or NI authorisation provided under Article 8(1)(b)[^c-e9ba1e9831aabdc6483862721830ba87], the number and date of the earliest EEA authorisation;
 
 .
 
-### 57.[^key-4da8560fb5430f5a9752467b221f5583]
+### 57.[^c-4da8560fb5430f5a9752467b221f5583]
 
 (1) Article 10 (grant of the certificate or rejection of the application for a certificate) is amended as follows.
 
@@ -625,13 +625,13 @@ For Articles 2 (scope) and 3 (conditions for obtaining a certificate), substitut
 
 (7) After paragraph 6, insert—
 
-> **7.[^key-72739b5a8c12036a836f3b9d50ba60b8]**
+> **7.[^c-72739b5a8c12036a836f3b9d50ba60b8]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
-### 58.[^key-0515816e6065a0f5d33a7bdec21ce0ff]
+### 58.[^c-0515816e6065a0f5d33a7bdec21ce0ff]
 
 (1) Article 11 (publication) is amended as follows.
 
@@ -639,22 +639,22 @@ For Articles 2 (scope) and 3 (conditions for obtaining a certificate), substitut
 
 (3) In paragraph 1—
 
-- (a) for paragraph (d), insert—[^key-5eae762fcaa3c52b4b14263699f9fde1]
+- (a) for paragraph (d), insert—[^c-5eae762fcaa3c52b4b14263699f9fde1]
 
   > - (d) the number and date of the UK, GB or NI authorisation or, where there is more than one such authorisation, of each authorisation provided under Article 8(1)(b) or Article 13A(1), the product identified in the authorisation and the territory in respect of which the authorisation has been granted or has effect as if granted;
 
   ;
 - (b) for sub-paragraph (e), substitute—
 
-  > - (e) where there are EEA authorisations granted before any UK, GB or NI authorisation provided under Article 8(1)(b)[^key-a6a6a9dc75b0c52c18f09c1e474a972b], the number and date of the earliest EEA authorisation;
+  > - (e) where there are EEA authorisations granted before any UK, GB or NI authorisation provided under Article 8(1)(b)[^c-a6a6a9dc75b0c52c18f09c1e474a972b], the number and date of the earliest EEA authorisation;
 
   .
 
-### 59.[^key-d2af3004ce12e9bd0ddb6041fbb6f241]
+### 59.[^c-d2af3004ce12e9bd0ddb6041fbb6f241]
 
 Omit Article 12 (annual fees).
 
-### 60.[^key-83981ee1681212cb28c7fec4143f98a0]
+### 60.[^c-83981ee1681212cb28c7fec4143f98a0]
 
 (1) Article 13 (duration of the certificate) is amended as follows.
 
@@ -662,7 +662,7 @@ Omit Article 12 (annual fees).
 
 (3) In paragraph 3, for “Article 36 of Regulation [(EC) No 1901/2006](https://www.legislation.gov.uk/eur/2006/1901)”, substitute “ regulation 58A of the Human Medicines Regulations 2012 ”.
 
-### 61.[^key-add6c62f2bd15e586918e52e8a2de32e]
+### 61.[^c-add6c62f2bd15e586918e52e8a2de32e]
 
 (1) Article 14 (expiry of the certificate) is amended as follows.
 
@@ -670,18 +670,18 @@ Omit Article 12 (annual fees).
 
 (3) For sub-paragraphs (c) and (d) of the renumbered paragraph 1, substitute—
 
-> - (c) if the prescribed annual fee is not paid in time; or[^key-42bc0ca1128e0d62e4842acd4792637a]
-> - (d) if and as long as the product covered by the certificate may no longer be placed on the market following the withdrawal of all UK, GB and NI[^key-2c6ae356a23564733c597afa084656d7] authorisations to place on the market. The comptroller may decide on the lapse of the certificate either of the comptroller's own motion or at the request of a third party.
+> - (c) if the prescribed annual fee is not paid in time; or[^c-42bc0ca1128e0d62e4842acd4792637a]
+> - (d) if and as long as the product covered by the certificate may no longer be placed on the market following the withdrawal of all UK, GB and NI[^c-2c6ae356a23564733c597afa084656d7] authorisations to place on the market. The comptroller may decide on the lapse of the certificate either of the comptroller's own motion or at the request of a third party.
 
 .
 
-(4)[^key-860065c4d2de30129eb59c2bd4745261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-860065c4d2de30129eb59c2bd4745261] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 62.[^key-30a9bfa95f48c37fc8f92c50e477b1fe]
+### 62.[^c-30a9bfa95f48c37fc8f92c50e477b1fe]
 
-In paragraph 2 of Article 15 (invalidity of the certificate), for “[^key-1f904f1bb06d6fd2ac90b67c7d6d39ae]... the body responsible under national law for the revocation of the corresponding basic patent” substitute “ the comptroller or the court ”.
+In paragraph 2 of Article 15 (invalidity of the certificate), for “[^c-1f904f1bb06d6fd2ac90b67c7d6d39ae]... the body responsible under national law for the revocation of the corresponding basic patent” substitute “ the comptroller or the court ”.
 
-### 63.[^key-85b226bf090d7dc06500c3dbd7806579]
+### 63.[^c-85b226bf090d7dc06500c3dbd7806579]
 
 (1) Article 16 (revocation of an extension of the duration) is amended as follows.
 
@@ -689,15 +689,15 @@ In paragraph 2 of Article 15 (invalidity of the certificate), for “[^key-1f904
 
 (3) In paragraph 2, for “the body responsible under national law for the revocation of the corresponding basic patent”, substitute “ the comptroller or the court ”.
 
-### 64.[^key-c85fdced685264268fbcfd6ca412fbad]
+### 64.[^c-c85fdced685264268fbcfd6ca412fbad]
 
 For references in Article 17 (notification of lapse or invalidity) to “the authority referred to in Article 9(1)”, substitute “ the comptroller ”.
 
-### 65.[^key-28910a179ebc867303d67afa118d8afd]
+### 65.[^c-28910a179ebc867303d67afa118d8afd]
 
 Omit Article 18 (appeals).
 
-### 66.[^key-5ee588d692d00c229b9c46ce40845f03]
+### 66.[^c-5ee588d692d00c229b9c46ce40845f03]
 
 For paragraph 1 of Article 19 (procedure), substitute—
 
@@ -707,19 +707,19 @@ For paragraph 1 of Article 19 (procedure), substitute—
 
 .
 
-### 67.[^key-0e2fb2f4091d3d9a31a12a680c05ce2c]
+### 67.[^c-0e2fb2f4091d3d9a31a12a680c05ce2c]
 
 Omit Articles 20 (enlargement of the Community) and 21 (transitional provisions).
 
-### 68.[^key-7eae47889b8e6e786b6790b4adee3f6b]
+### 68.[^c-7eae47889b8e6e786b6790b4adee3f6b]
 
 After Article 23 (entry into force), omit “This Regulation shall be binding in its entirety and directly applicable in all Member States.”
 
-### 69. Transitional provision[^key-3ed38c346aad241c7fd2596866ac5398]
+### 69. Transitional provision[^c-3ed38c346aad241c7fd2596866ac5398]
 
 (1) This regulation applies to—
 
-- (a) An application for an extension of the duration of a certificate, filed in accordance with Article 7 but not determined before IP completion day[^key-fac2221189ce162e20bec05a88e20d19]; and
+- (a) An application for an extension of the duration of a certificate, filed in accordance with Article 7 but not determined before IP completion day[^c-fac2221189ce162e20bec05a88e20d19]; and
 - (b) An extension of the duration of a certificate granted—
   - (i) before IP completion day; or
   - (ii) after IP completion day, pursuant to an application falling within sub-paragraph (a);
@@ -763,250 +763,250 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23704661]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-e8932021000bba99d8f97ff36e181e3b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-e8932021000bba99d8f97ff36e181e3b]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-1fbdd56df08c722cc28ff75262760522]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-1fbdd56df08c722cc28ff75262760522]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-0649737d0bedf52930e3c5c6596b96ba]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-0649737d0bedf52930e3c5c6596b96ba]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-a0b136118edfd2d68f726476c4035f54]: Textual amendment: [Reg. 3(a)(b)](https://www.legislation.gov.uk/uksi/2019/801/regulation/3/a/b) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2020/1050/regulation/27)
+[^c-a0b136118edfd2d68f726476c4035f54]: Textual amendment: [Reg. 3(a)(b)](https://www.legislation.gov.uk/uksi/2019/801/regulation/3/a/b) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [27](https://www.legislation.gov.uk/uksi/2020/1050/regulation/27)
 
-[^key-e04cdfd7b947f41c34a4b1d06ad6db09]: Textual amendment: Reg. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2020/1050/regulation/28)
+[^c-e04cdfd7b947f41c34a4b1d06ad6db09]: Textual amendment: Reg. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2020/1050/regulation/28)
 
-[^key-63c20fae17ca35dd940d1f2e426455d9]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-63c20fae17ca35dd940d1f2e426455d9]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23704671]: Marginal citation: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
 [^c23704681]: Marginal citation: Article 4 of [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) provided that references to the European Union are substituted for references to the European Communities.
 
-[^key-1cb2a38117d212f3db6f1a00b176c9af]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-1cb2a38117d212f3db6f1a00b176c9af]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23704691]: Marginal citation: [S.I. 2002/247](https://www.legislation.gov.uk/uksi/2002/247)
 
-[^key-4b3234f743d4422946abd3a39b9a18e8]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-4b3234f743d4422946abd3a39b9a18e8]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-a35fe7717c3e437f92c7b9d1b0acb745]: Textual amendment: Words in reg. 7(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2020/1050/regulation/29)
+[^c-a35fe7717c3e437f92c7b9d1b0acb745]: Textual amendment: Words in reg. 7(2)(c) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [29](https://www.legislation.gov.uk/uksi/2020/1050/regulation/29)
 
-[^key-1066c1e5161d787c211049f67e110970]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-1066c1e5161d787c211049f67e110970]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-a46fe3912b3e9037b26aacb0ede3d8d6]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-a46fe3912b3e9037b26aacb0ede3d8d6]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-78c6e1c845e920164e3bec3a861072b1]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-78c6e1c845e920164e3bec3a861072b1]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-0a26f929ddaf2419978c0cfdc4c41f94]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-0a26f929ddaf2419978c0cfdc4c41f94]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-bddafc83a91d8f335200132b030f17da]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-bddafc83a91d8f335200132b030f17da]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-a7237ea19efa13e09ba60c2d9eb4f874]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-a7237ea19efa13e09ba60c2d9eb4f874]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-26b57997e7246e7837ca419d28d12fed]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-26b57997e7246e7837ca419d28d12fed]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-6f56a8d1622672385754be84671b59c7]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-6f56a8d1622672385754be84671b59c7]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-72dd88ef3f449a9c876d77e76ad0587e]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-72dd88ef3f449a9c876d77e76ad0587e]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-448014963f2d80a6c411c5ba6e7a58e0]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/801/regulation/17) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)
+[^c-448014963f2d80a6c411c5ba6e7a58e0]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/801/regulation/17) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [30](https://www.legislation.gov.uk/uksi/2020/1050/regulation/30)
 
-[^key-da3c3433d6a2832dbe051b33812faf63]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-da3c3433d6a2832dbe051b33812faf63]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23704701]: Marginal citation: [S.I. 2007/3291](https://www.legislation.gov.uk/uksi/2007/3291). [S.I. 2007/3291](https://www.legislation.gov.uk/uksi/2007/3291) has been amended on a number of occasions but only the amendments made by [S.I. 2009/546](https://www.legislation.gov.uk/uksi/2009/546), [regulations 8](https://www.legislation.gov.uk/uksi/2009/546/regulation/8) and 9 are relevant.
 
-[^key-d7c8d6b1b46009f4a8d003e4210e9791]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-d7c8d6b1b46009f4a8d003e4210e9791]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-9f9b232a1e2ca3fa3017437a94ac3bc6]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-9f9b232a1e2ca3fa3017437a94ac3bc6]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-558bd55a80cc3b5b8d0d34fb95468df2]: Textual amendment: Words in reg. 20(3) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2020/1050/regulation/31)
+[^c-558bd55a80cc3b5b8d0d34fb95468df2]: Textual amendment: Words in reg. 20(3) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [31](https://www.legislation.gov.uk/uksi/2020/1050/regulation/31)
 
-[^key-ddd26c48e4132d77a235bd5276a0cac7]: Textual amendment: Words in reg. 20(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-ddd26c48e4132d77a235bd5276a0cac7]: Textual amendment: Words in reg. 20(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-a24fd43299fb1f42ac6c3de8afd016f2]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/801/regulation/21) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2020/1050/regulation/32)
+[^c-a24fd43299fb1f42ac6c3de8afd016f2]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2019/801/regulation/21) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [32](https://www.legislation.gov.uk/uksi/2020/1050/regulation/32)
 
-[^key-19e9b61f2cd7e5cae545893d9de3986f]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-19e9b61f2cd7e5cae545893d9de3986f]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-6dcfaa3b741c5b7e5a15f0b22a5a04c0]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2019/801/regulation/22) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-6dcfaa3b741c5b7e5a15f0b22a5a04c0]: Textual amendment: Words in [reg. 22](https://www.legislation.gov.uk/uksi/2019/801/regulation/22) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-d5c16d7247198341039d1ac21289c4fb]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-d5c16d7247198341039d1ac21289c4fb]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-bf83863a872a8ee0ba91604b5749bc79]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2019/801/regulation/23) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/5/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-bf83863a872a8ee0ba91604b5749bc79]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2019/801/regulation/23) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/5/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-d882f2e28c6fff2ca4c3113acb2fb28a]: Textual amendment: Word in [reg. 23](https://www.legislation.gov.uk/uksi/2019/801/regulation/23) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/5/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-d882f2e28c6fff2ca4c3113acb2fb28a]: Textual amendment: Word in [reg. 23](https://www.legislation.gov.uk/uksi/2019/801/regulation/23) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/5/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-f7ca08ea6d4c807244b2b5c3185f7fd2]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2019/801/regulation/23) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/5/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-f7ca08ea6d4c807244b2b5c3185f7fd2]: Textual amendment: Words in [reg. 23](https://www.legislation.gov.uk/uksi/2019/801/regulation/23) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/5/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-202c479e0caab1d4838d22b755cd51be]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-202c479e0caab1d4838d22b755cd51be]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-7f4a5efc23a6fb9e391114723124d80c]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/2) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/6/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-7f4a5efc23a6fb9e391114723124d80c]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/2) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(6)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/6/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-1f58e6b3def8892bf73302aa63389815]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/2) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/6/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-1f58e6b3def8892bf73302aa63389815]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/2) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/6/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-455b25189cd7319dbb4246bf27706f30]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/2) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/6/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-455b25189cd7319dbb4246bf27706f30]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/2) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/6/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-804f0954643c84f77db59b07bd43d5ae]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/2) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/6/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-804f0954643c84f77db59b07bd43d5ae]: Textual amendment: Words in [reg. 24(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/2) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/6/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-63f2b2aeb48cd04afbf3bf078fa9e1b3]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/3) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(7)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/7/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-63f2b2aeb48cd04afbf3bf078fa9e1b3]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/3) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(7)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/7/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-85e5d402c76ab33cb30af467b19740cc]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/7/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-85e5d402c76ab33cb30af467b19740cc]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/7/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-6569418b82348cda81aabc3594072170]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/3) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2020/1050/regulation/33)
+[^c-6569418b82348cda81aabc3594072170]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/3) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2020/1050/regulation/33)
 
-[^key-e32ae2df29add8d8629f770f8f1a2c64]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/3) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(7)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/7/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-e32ae2df29add8d8629f770f8f1a2c64]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/3) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(7)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/7/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-9bc67c25fca3af0def5810aa3ee0d9e5]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/7/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-9bc67c25fca3af0def5810aa3ee0d9e5]: Textual amendment: Words in [reg. 24(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/24/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/7/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-2e8a8a0a0f1154dc909ee57410129ca8]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-2e8a8a0a0f1154dc909ee57410129ca8]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-9746bd5047e90bf2a9aa437eb6836a42]: Textual amendment: Words in reg. 25(4) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/8/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-9746bd5047e90bf2a9aa437eb6836a42]: Textual amendment: Words in reg. 25(4) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(8)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/8/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-d5536825f27cb81e9e2bd920436e8fdb]: Textual amendment: Words in reg. 25(4) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/8/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-d5536825f27cb81e9e2bd920436e8fdb]: Textual amendment: Words in reg. 25(4) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(8)(b)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/8/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-13e656e6b8db737dac88969b8720450b]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-13e656e6b8db737dac88969b8720450b]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-22c556634329603e3ec3e9b965d32103]: Textual amendment: Words in [reg. 26(6)](https://www.legislation.gov.uk/uksi/2019/801/regulation/26/6) omitted (31.12.2020) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/9) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-22c556634329603e3ec3e9b965d32103]: Textual amendment: Words in [reg. 26(6)](https://www.legislation.gov.uk/uksi/2019/801/regulation/26/6) omitted (31.12.2020) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/9) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-cd3669a28379203616de045f14694412]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-cd3669a28379203616de045f14694412]: Commencement: Reg. 27 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-8cdd4e908c15b652e673f97e17b53b31]: Textual amendment: [Reg. 27(3)(a)](https://www.legislation.gov.uk/uksi/2019/801/regulation/27/3/a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/10) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-8cdd4e908c15b652e673f97e17b53b31]: Textual amendment: [Reg. 27(3)(a)](https://www.legislation.gov.uk/uksi/2019/801/regulation/27/3/a) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/10) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-5d534d14d06a31334cd22e26daa7c7dd]: Textual amendment: Words in [reg. 27(3)(b)](https://www.legislation.gov.uk/uksi/2019/801/regulation/27/3/b) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/11) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-5d534d14d06a31334cd22e26daa7c7dd]: Textual amendment: Words in [reg. 27(3)(b)](https://www.legislation.gov.uk/uksi/2019/801/regulation/27/3/b) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/11) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-7c6324f05594698b48412e8237a2de9d]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-7c6324f05594698b48412e8237a2de9d]: Commencement: Reg. 28 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-7533d4722826945c1743a2ba758caa11]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-7533d4722826945c1743a2ba758caa11]: Commencement: Reg. 29 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-f1cc23a7363ebe3cd378926f860ce590]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-f1cc23a7363ebe3cd378926f860ce590]: Commencement: Reg. 30 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-dcb18d7d6e8fd1b2ea8faf33f90ce727]: Textual amendment: Word in [reg. 30(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/30/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/12/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-dcb18d7d6e8fd1b2ea8faf33f90ce727]: Textual amendment: Word in [reg. 30(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/30/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(12)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/12/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-436c3fcce166bad15157de28b5dc3970]: Textual amendment: Word in [reg. 30(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/30/3) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/12/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-436c3fcce166bad15157de28b5dc3970]: Textual amendment: Word in [reg. 30(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/30/3) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(12)(b)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/12/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-119d41a6300c9953c3ab21212f4ea84f]: Textual amendment: [Reg. 30(4)](https://www.legislation.gov.uk/uksi/2019/801/regulation/30/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/13) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-119d41a6300c9953c3ab21212f4ea84f]: Textual amendment: [Reg. 30(4)](https://www.legislation.gov.uk/uksi/2019/801/regulation/30/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [2(13)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/2/13) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-3d3fa90b1412cd39d14a7f50d52d77e3]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-3d3fa90b1412cd39d14a7f50d52d77e3]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-116935846344217e713fe9b1c2157bfa]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-116935846344217e713fe9b1c2157bfa]: Commencement: Reg. 32 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-e8a3340c95c30194ef8b395903a57812]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-e8a3340c95c30194ef8b395903a57812]: Commencement: Reg. 33 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-4db8b1a7101a52b64cc27516cc02c1ac]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-4db8b1a7101a52b64cc27516cc02c1ac]: Commencement: Reg. 34 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-5c380217061e5d5d7e415f6d582d9913]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-5c380217061e5d5d7e415f6d582d9913]: Commencement: Reg. 35 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-51a97d2640ba3acb86137a05bf40f176]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-51a97d2640ba3acb86137a05bf40f176]: Commencement: Reg. 36 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-cb8adedd266506eb4cb73359a77bbd61]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-cb8adedd266506eb4cb73359a77bbd61]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-0a2127fe0d3bfb3cd5deb24c52b73fb8]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-0a2127fe0d3bfb3cd5deb24c52b73fb8]: Commencement: Reg. 38 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-64c2d7fd72746bd7d6cb24c031d8615a]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-64c2d7fd72746bd7d6cb24c031d8615a]: Commencement: Reg. 39 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-3902e78be7e73aed106a1b7579112bd4]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-3902e78be7e73aed106a1b7579112bd4]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-42e2954066a3c618242561122c3a4d32]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-42e2954066a3c618242561122c3a4d32]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-08f91b46291970edf57a2c47510fb3ff]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-08f91b46291970edf57a2c47510fb3ff]: Commencement: Reg. 42 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-8297c5295f79d2b6a7f2c843f430fbad]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-8297c5295f79d2b6a7f2c843f430fbad]: Commencement: Reg. 43 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-49b400ca1fddb9defcf2fec0200af840]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-49b400ca1fddb9defcf2fec0200af840]: Commencement: Reg. 44 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-70af0259b6a17dbdff46482a80dc2d1f]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-70af0259b6a17dbdff46482a80dc2d1f]: Commencement: Reg. 45 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-47c659d483edcbbde412729dda217652]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-47c659d483edcbbde412729dda217652]: Commencement: Reg. 46 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-f137858e55af3b23a08cf3c1eda4edba]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-f137858e55af3b23a08cf3c1eda4edba]: Commencement: Reg. 47 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-b8c79137b2eb5ec9c56099061bca42f7]: Commencement: Reg. 48 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-b8c79137b2eb5ec9c56099061bca42f7]: Commencement: Reg. 48 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-96a41662ac5c43f0de0142b2598b83a9]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-96a41662ac5c43f0de0142b2598b83a9]: Commencement: Reg. 49 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-3b47a47355991ac460d1658f1c3b1024]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-3b47a47355991ac460d1658f1c3b1024]: Commencement: Reg. 50 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-e9cf433c392a6d338bc7cffeb5a4e991]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-e9cf433c392a6d338bc7cffeb5a4e991]: Commencement: Reg. 51 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-522c771340d5b71409a22c75949f4ea9]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-522c771340d5b71409a22c75949f4ea9]: Commencement: Reg. 52 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
 [^c23704711]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916). Regulation 58A is inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 64](https://www.legislation.gov.uk/uksi/2019/775/regulation/64).
 
-[^key-cdd1e3caa03b65966771d9c612ef86e3]: Textual amendment: Words in [reg. 52(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/52/3) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [34(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/34/a)
+[^c-cdd1e3caa03b65966771d9c612ef86e3]: Textual amendment: Words in [reg. 52(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/52/3) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [34(a)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/34/a)
 
-[^key-6faf2daa6ef05f096748646fbab46a15]: Textual amendment: Words in [reg. 52(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/52/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-6faf2daa6ef05f096748646fbab46a15]: Textual amendment: Words in [reg. 52(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/52/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-7aa968e12088c463b4c778974902d6fa]: Textual amendment: Words in [reg. 52(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/52/3) inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [34(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/34/b)
+[^c-7aa968e12088c463b4c778974902d6fa]: Textual amendment: Words in [reg. 52(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/52/3) inserted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [34(b)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/34/b)
 
 [^c23704721]: Marginal citation: [S.I. 2013/2033](https://www.legislation.gov.uk/uksi/2013/2033).
 
-[^key-eebdbe6c02d441b74fb95b1fdce1612b]: Textual amendment: Reg. 53 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2020/1050/regulation/35)
+[^c-eebdbe6c02d441b74fb95b1fdce1612b]: Textual amendment: Reg. 53 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [35](https://www.legislation.gov.uk/uksi/2020/1050/regulation/35)
 
-[^key-1261aa8faa46dcb2fcacc305b403d122]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-1261aa8faa46dcb2fcacc305b403d122]: Commencement: Reg. 54 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-03d1e05e5dc5d929d101dc3483b29d11]: Textual amendment: Words in [reg. 54](https://www.legislation.gov.uk/uksi/2019/801/regulation/54) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-03d1e05e5dc5d929d101dc3483b29d11]: Textual amendment: Words in [reg. 54](https://www.legislation.gov.uk/uksi/2019/801/regulation/54) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-68f9c5940829cf678587673be95a82ba]: Textual amendment: Words in [reg. 54](https://www.legislation.gov.uk/uksi/2019/801/regulation/54) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/5/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-68f9c5940829cf678587673be95a82ba]: Textual amendment: Words in [reg. 54](https://www.legislation.gov.uk/uksi/2019/801/regulation/54) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(5)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/5/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-5d0b5b4b1dfcd8cffe9f613b44d3642b]: Textual amendment: Words in [reg. 54](https://www.legislation.gov.uk/uksi/2019/801/regulation/54) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/5/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-5d0b5b4b1dfcd8cffe9f613b44d3642b]: Textual amendment: Words in [reg. 54](https://www.legislation.gov.uk/uksi/2019/801/regulation/54) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(5)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/5/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-df832f92ee237c9d3a4840fd750292b7]: Textual amendment: Words in [reg. 54](https://www.legislation.gov.uk/uksi/2019/801/regulation/54) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/5/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-df832f92ee237c9d3a4840fd750292b7]: Textual amendment: Words in [reg. 54](https://www.legislation.gov.uk/uksi/2019/801/regulation/54) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/5/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-1731aae2e81b9d83991a79d52ba64e3d]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-1731aae2e81b9d83991a79d52ba64e3d]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-d7aabcb7d4d90b251d71ab42e6110e5b]: Textual amendment: Words in [reg. 55(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/2) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/6/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-d7aabcb7d4d90b251d71ab42e6110e5b]: Textual amendment: Words in [reg. 55(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/2) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/6/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-97d65b4f9c8c93cc488b93fce5f15273]: Textual amendment: Words in [reg. 55(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/2) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/6/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-97d65b4f9c8c93cc488b93fce5f15273]: Textual amendment: Words in [reg. 55(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/2) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(6)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/6/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-b0f59a6173ab8377d6ff3780c68c77f7]: Textual amendment: Words in [reg. 55(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/2) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/6/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-b0f59a6173ab8377d6ff3780c68c77f7]: Textual amendment: Words in [reg. 55(2)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/2) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/6/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-c73e33b008f4cbc47be6219d11bd723d]: Textual amendment: Words in [reg. 55(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(7)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/7/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-c73e33b008f4cbc47be6219d11bd723d]: Textual amendment: Words in [reg. 55(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(7)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/7/a/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-d6d6cc0762f9ec290b3c575293b52ff0]: Textual amendment: Words in [reg. 55(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/7/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-d6d6cc0762f9ec290b3c575293b52ff0]: Textual amendment: Words in [reg. 55(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(7)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/7/a/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-36545fc2cdb302908475001ca30904c4]: Textual amendment: Words in [reg. 55(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(7)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/7/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-36545fc2cdb302908475001ca30904c4]: Textual amendment: Words in [reg. 55(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(7)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/7/b/i) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-77eaa68d71256c68eb658b01e100a62b]: Textual amendment: Words in [reg. 55(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/7/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-77eaa68d71256c68eb658b01e100a62b]: Textual amendment: Words in [reg. 55(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/55/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(7)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/7/b/ii) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-cf40011358999e494f64b2b7c7c2a3c4]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-cf40011358999e494f64b2b7c7c2a3c4]: Commencement: Reg. 56 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-2cb4e1419446b4764b9e52040fbb37e1]: Textual amendment: Words in reg. 56(4) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/8/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-2cb4e1419446b4764b9e52040fbb37e1]: Textual amendment: Words in reg. 56(4) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(8)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/8/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-e9ba1e9831aabdc6483862721830ba87]: Textual amendment: Words in reg. 56(4) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/8/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-e9ba1e9831aabdc6483862721830ba87]: Textual amendment: Words in reg. 56(4) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/8/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-4da8560fb5430f5a9752467b221f5583]: Commencement: Reg. 57 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-4da8560fb5430f5a9752467b221f5583]: Commencement: Reg. 57 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-72739b5a8c12036a836f3b9d50ba60b8]: Textual amendment: Words in [reg. 57(7)](https://www.legislation.gov.uk/uksi/2019/801/regulation/57/7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/9) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-72739b5a8c12036a836f3b9d50ba60b8]: Textual amendment: Words in [reg. 57(7)](https://www.legislation.gov.uk/uksi/2019/801/regulation/57/7) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/9) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-0515816e6065a0f5d33a7bdec21ce0ff]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-0515816e6065a0f5d33a7bdec21ce0ff]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-5eae762fcaa3c52b4b14263699f9fde1]: Textual amendment: Words in reg. 58(3)(a) substituted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(10)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/10/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-5eae762fcaa3c52b4b14263699f9fde1]: Textual amendment: Words in reg. 58(3)(a) substituted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(10)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/10/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-a6a6a9dc75b0c52c18f09c1e474a972b]: Textual amendment: Words in reg. 58(3)(b) substituted (31.12.2020) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(10)(b)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/10/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-a6a6a9dc75b0c52c18f09c1e474a972b]: Textual amendment: Words in reg. 58(3)(b) substituted (31.12.2020) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(10)(b)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/10/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-d2af3004ce12e9bd0ddb6041fbb6f241]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-d2af3004ce12e9bd0ddb6041fbb6f241]: Commencement: Reg. 59 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-83981ee1681212cb28c7fec4143f98a0]: Commencement: Reg. 60 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-83981ee1681212cb28c7fec4143f98a0]: Commencement: Reg. 60 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-add6c62f2bd15e586918e52e8a2de32e]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-add6c62f2bd15e586918e52e8a2de32e]: Commencement: Reg. 61 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-42bc0ca1128e0d62e4842acd4792637a]: Textual amendment: Word in [reg. 61(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/61/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(11)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/11/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-42bc0ca1128e0d62e4842acd4792637a]: Textual amendment: Word in [reg. 61(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/61/3) inserted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(11)(a)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/11/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-2c6ae356a23564733c597afa084656d7]: Textual amendment: Words in [reg. 61(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/61/3) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(11)(b)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/11/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-2c6ae356a23564733c597afa084656d7]: Textual amendment: Words in [reg. 61(3)](https://www.legislation.gov.uk/uksi/2019/801/regulation/61/3) substituted (31.12.2020 immediately before IP completion day) by [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(11)(b)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/11/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-860065c4d2de30129eb59c2bd4745261]: Textual amendment: [Reg. 61(4)](https://www.legislation.gov.uk/uksi/2019/801/regulation/61/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(12)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/12) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
+[^c-860065c4d2de30129eb59c2bd4745261]: Textual amendment: [Reg. 61(4)](https://www.legislation.gov.uk/uksi/2019/801/regulation/61/4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Supplementary Protection Certificates (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1471)](https://www.legislation.gov.uk/uksi/2020/1471), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/1/2), [3(12)](https://www.legislation.gov.uk/uksi/2020/1471/regulation/3/12) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1471/regulation/7))
 
-[^key-30a9bfa95f48c37fc8f92c50e477b1fe]: Commencement: Reg. 62 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-30a9bfa95f48c37fc8f92c50e477b1fe]: Commencement: Reg. 62 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-1f904f1bb06d6fd2ac90b67c7d6d39ae]: Textual amendment: Word in [reg. 62](https://www.legislation.gov.uk/uksi/2019/801/regulation/62) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2020/1050/regulation/36)
+[^c-1f904f1bb06d6fd2ac90b67c7d6d39ae]: Textual amendment: Word in [reg. 62](https://www.legislation.gov.uk/uksi/2019/801/regulation/62) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [36](https://www.legislation.gov.uk/uksi/2020/1050/regulation/36)
 
-[^key-85b226bf090d7dc06500c3dbd7806579]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-85b226bf090d7dc06500c3dbd7806579]: Commencement: Reg. 63 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-c85fdced685264268fbcfd6ca412fbad]: Commencement: Reg. 64 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-c85fdced685264268fbcfd6ca412fbad]: Commencement: Reg. 64 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-28910a179ebc867303d67afa118d8afd]: Commencement: Reg. 65 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-28910a179ebc867303d67afa118d8afd]: Commencement: Reg. 65 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-5ee588d692d00c229b9c46ce40845f03]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-5ee588d692d00c229b9c46ce40845f03]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-0e2fb2f4091d3d9a31a12a680c05ce2c]: Commencement: Reg. 67 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-0e2fb2f4091d3d9a31a12a680c05ce2c]: Commencement: Reg. 67 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-7eae47889b8e6e786b6790b4adee3f6b]: Commencement: Reg. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-7eae47889b8e6e786b6790b4adee3f6b]: Commencement: Reg. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-3ed38c346aad241c7fd2596866ac5398]: Commencement: Reg. 69 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-3ed38c346aad241c7fd2596866ac5398]: Commencement: Reg. 69 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-fac2221189ce162e20bec05a88e20d19]: Textual amendment: Words in [reg. 69](https://www.legislation.gov.uk/uksi/2019/801/regulation/69) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2020/1050/regulation/37)
+[^c-fac2221189ce162e20bec05a88e20d19]: Textual amendment: Words in [reg. 69](https://www.legislation.gov.uk/uksi/2019/801/regulation/69) substituted (31.12.2020 immediately before IP completion day) by [The Intellectual Property (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1050)](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2020/1050/regulation/37)

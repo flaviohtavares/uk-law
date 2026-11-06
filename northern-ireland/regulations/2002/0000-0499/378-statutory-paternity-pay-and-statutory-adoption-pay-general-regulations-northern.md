@@ -43,11 +43,11 @@ The Department for Employment and Learning[^f00001] in exercise of the powers co
 
 ## PART I — INTRODUCTION
 
-### 1. Citation and commencement[^key-23e27c642389af942ddfb9c529a811e0]
+### 1. Citation and commencement[^c-23e27c642389af942ddfb9c529a811e0]
 
 These Regulations may be cited as the Statutory Paternity Pay and Statutory Adoption Pay (General) Regulations (Northern Ireland) 2002 and shall come into operation on 8th December 2002.
 
-### 2. Interpretation[^key-d00dac852fa520cc46ca92ab99604c84]
+### 2. Interpretation[^c-d00dac852fa520cc46ca92ab99604c84]
 
 (1) In these Regulations–
 
@@ -65,7 +65,7 @@ These Regulations may be cited as the Statutory Paternity Pay and Statutory Adop
 - (a) a person is matched with a child for adoption when an adoption agency decides that that person would be a suitable adoptive parent for the child, either individually or jointly with another person, and
 - (b) a person is notified of having been matched with a child for adoption on the date on which he receives notification of the adoption agency’s decision, under regulation 11(2) of the Adoption Agencies Regulations (Northern Ireland) 1989[^f00011] or regulation 11(2) of the Adoption Agencies Regulations 1983[^f00012] or regulation 12(3) of the Adoption Agencies (Scotland) Regulations 1996[^f00013].
 
-### 3. Application[^key-134a514f86dc3575a4c58ba087f79802]
+### 3. Application[^c-134a514f86dc3575a4c58ba087f79802]
 
 (1) Subject to the provisions of Part XIIZA of the Act (statutory paternity pay) and of these Regulations, there is entitlement to–
 
@@ -83,18 +83,18 @@ These Regulations may be cited as the Statutory Paternity Pay and Statutory Adop
 
 ## PART II — STATUTORY PATERNITY PAY (BIRTH)
 
-### 4. Conditions of entitlement to statutory paternity pay (birth): relationship with newborn child and child’s mother[^key-524a296f5c4b6fa5b1a545bd93f835c4]
+### 4. Conditions of entitlement to statutory paternity pay (birth): relationship with newborn child and child’s mother[^c-524a296f5c4b6fa5b1a545bd93f835c4]
 
 The conditions prescribed under section 167ZA(2)(a) of the Act are those prescribed in regulation 4(2)(b) and (c) of the Paternity and Adoption Leave Regulations (Northern Ireland) 2002[^f00014].
 
-### 5. Modification of entitlement conditions: early birth[^key-d370fa90956c358e1200ff34fc71b115]
+### 5. Modification of entitlement conditions: early birth[^c-d370fa90956c358e1200ff34fc71b115]
 
 Where a person does not meet the conditions specified in section 167ZA(2)(b) to (d) of the Act because the child’s birth occurred earlier than the 14th week before the expected week of the birth, it shall have effect as if for the conditions there set out, there was substituted the conditions that–
 
 - (a) the person would, but for the date on which the birth occurred, have been in employed earner’s employment with an employer for a continuous period of at least 26 weeks ending with the week immediately preceding the 14th week before the expected week of the child’s birth;
 - (b) his normal weekly earnings for the period of 8 weeks ending with the week immediately preceding the week in which the child is born are not less than the lower earnings limit in force under section 5(1)(a) of the Act immediately before the commencement of the week in which the child is born.
 
-### 6. Period of payment of statutory paternity pay (birth)[^key-9481d6546493890f79b3e6530e754105]
+### 6. Period of payment of statutory paternity pay (birth)[^c-9481d6546493890f79b3e6530e754105]
 
 (1) Subject to paragraph (2) and regulation 8, a person entitled to statutory paternity pay (birth) may choose the statutory paternity pay period to begin on–
 
@@ -108,7 +108,7 @@ Where a person does not meet the conditions specified in section 167ZA(2)(b) to 
 
 (4) A choice made in accordance with paragraph (1) or (2) is not irrevocable, but where a person subsequently makes a different choice in relation to the beginning of the statutory pay period, section 167ZC(1) of the Act shall apply to it.
 
-### 7. Additional notice requirements for statutory paternity pay (birth)[^key-30b30658a77737c63ef42b3a7644771d]
+### 7. Additional notice requirements for statutory paternity pay (birth)[^c-30b30658a77737c63ef42b3a7644771d]
 
 (1) Where the choice made by a person in accordance with paragraph (1) of regulation 6 and notified in accordance with section 167ZC(1) of the Act is that mentioned in sub-paragraph (a) or (b) of that paragraph, the person shall give further notice to the person liable to pay him statutory paternity pay, as soon as is reasonably practicable after the child’s birth, of the date the child was born.
 
@@ -116,14 +116,14 @@ Where a person does not meet the conditions specified in section 167ZA(2)(b) to 
 
 (3) That date may be any date chosen in accordance with paragraph (1) of regulation 6.
 
-### 8. Qualifying period for statutory paternity pay (birth)[^key-3d8a49e17bd03e4a749925018bfcadcf]
+### 8. Qualifying period for statutory paternity pay (birth)[^c-3d8a49e17bd03e4a749925018bfcadcf]
 
 The qualifying period for the purposes of section 167ZE(2) of the Act (period within which the statutory paternity pay period must occur) is a period which begins on the date of the child’s birth and ends–
 
 - (a) except in the case referred to in paragraph (b), 56 days after that date;
 - (b) in a case where the child is born before the first day of the expected week of its birth, 56 days after that day.
 
-### 9. Evidence of entitlement to statutory paternity pay (birth)[^key-2e1588df28286028c128911014b1c05c]
+### 9. Evidence of entitlement to statutory paternity pay (birth)[^c-2e1588df28286028c128911014b1c05c]
 
 (1) A person shall provide evidence of his entitlement to statutory paternity pay (birth) by providing in writing to the person who will be liable to pay him statutory paternity pay (birth)–
 
@@ -141,7 +141,7 @@ The qualifying period for the purposes of section 167ZE(2) of the Act (period wi
 
 (4) Where the person who will be liable to pay statutory paternity pay (birth) so requests, the person entitled to it shall inform him of the date of the child’s birth within 28 days, or as soon as is reasonably practicable thereafter.
 
-### 10. Entitlement to statutory paternity pay (birth) where there is more than one employer[^key-dbab3e21d7dbf6ecb85042dbf22ac00b]
+### 10. Entitlement to statutory paternity pay (birth) where there is more than one employer[^c-dbab3e21d7dbf6ecb85042dbf22ac00b]
 
 Statutory paternity pay (birth) shall be payable to a person in respect of a statutory pay week during any part of which he works only for an employer–
 
@@ -150,7 +150,7 @@ Statutory paternity pay (birth) shall be payable to a person in respect of a sta
 
 ## PART III — STATUTORY PATERNITY PAY (ADOPTION)
 
-### 11. Conditions of entitlement to statutory paternity pay (adoption): relationship with child and with person with whom the child is placed for adoption[^key-e42c000379fadc96ab28fd5fc31b9680]
+### 11. Conditions of entitlement to statutory paternity pay (adoption): relationship with child and with person with whom the child is placed for adoption[^c-e42c000379fadc96ab28fd5fc31b9680]
 
 (1) The conditions prescribed under section 167ZB(2)(a) of the Act are that a person–
 
@@ -164,7 +164,7 @@ Statutory paternity pay (birth) shall be payable to a person in respect of a sta
 - (a) are to relationships of the full blood or half blood, or, in the case of an adopted person, such of those relationships as would exist but for the adoption, and
 - (b) include the relationship of a child with his adoptive, or former adoptive parents but do not include any other adoptive relationships.
 
-### 12. Period of payment of statutory paternity pay (adoption)[^key-873f9a3f347e6fe4d6f521d9f3f09f25]
+### 12. Period of payment of statutory paternity pay (adoption)[^c-873f9a3f347e6fe4d6f521d9f3f09f25]
 
 (1) Subject to paragraph (2) and regulation 14, a person entitled to statutory paternity pay (adoption) may choose the statutory paternity pay period to begin on–
 
@@ -178,7 +178,7 @@ Statutory paternity pay (birth) shall be payable to a person in respect of a sta
 
 (4) A choice made in accordance with paragraph (1) is not irrevocable, but where a person subsequently makes a different choice in relation to the beginning of the statutory paternity pay period, section 167ZC(1) of the Act shall apply to it.
 
-### 13. Additional notice requirements for statutory paternity pay (adoption)[^key-3a75fc3ddbf5a58a162455af71c87560]
+### 13. Additional notice requirements for statutory paternity pay (adoption)[^c-3a75fc3ddbf5a58a162455af71c87560]
 
 (1) Where the choice made by a person in accordance with paragraph (1) of regulation 12 and notified in accordance with section 167ZC(1) of the Act is that mentioned in sub-paragraph (a) or (b) of that paragraph, the person shall give further notice to the person liable to pay him statutory paternity pay as soon as is reasonably practicable of the date on which the placement occurred.
 
@@ -186,11 +186,11 @@ Statutory paternity pay (birth) shall be payable to a person in respect of a sta
 
 (3) That date may be any date chosen in accordance with paragraph (1) of regulation 12.
 
-### 14. Qualifying period for statutory paternity pay (adoption)[^key-6418d78e0505d5b9b2ab172c2c561410]
+### 14. Qualifying period for statutory paternity pay (adoption)[^c-6418d78e0505d5b9b2ab172c2c561410]
 
 The qualifying period for the purposes of section 167ZE(2) of the Act (period within which the statutory pay period must occur) is a period of 56 days beginning with the date of the child’s placement for adoption.
 
-### 15. Evidence of entitlement for statutory paternity pay (adoption)[^key-87d089a62b4dafd2f8ab1ff0bde0661e]
+### 15. Evidence of entitlement for statutory paternity pay (adoption)[^c-87d089a62b4dafd2f8ab1ff0bde0661e]
 
 (1) A person shall provide evidence of his entitlement to statutory paternity pay (adoption) by providing in writing to the person who will be liable to pay him statutory paternity pay (adoption)–
 
@@ -210,7 +210,7 @@ The qualifying period for the purposes of section 167ZE(2) of the Act (period wi
 
 (4) Where the person who will be liable to pay statutory paternity pay (adoption) so requests, the person entitled to it shall inform him of the date of the child’s placement within 28 days, or as soon as is reasonably practicable thereafter.
 
-### 16. Entitlement to statutory paternity pay (adoption) where there is more than one employer[^key-a6d9e06830532e13c06d54f3ddda8cf1]
+### 16. Entitlement to statutory paternity pay (adoption) where there is more than one employer[^c-a6d9e06830532e13c06d54f3ddda8cf1]
 
 Statutory paternity pay (adoption) shall be payable to a person in respect of a statutory pay week during any part of which he works only for an employer–
 
@@ -219,7 +219,7 @@ Statutory paternity pay (adoption) shall be payable to a person in respect of a 
 
 ## PART IV — STATUTORY PATERNITY PAY: PROVISIONS APPLICABLE TO BOTH STATUTORY PATERNITY PAY (BIRTH) AND STATUTORY PATERNITY PAY (ADOPTION)
 
-### 17. Work during a statutory paternity pay period[^key-098ef163e296d2c7b1ef392e88ebbf62]
+### 17. Work during a statutory paternity pay period[^c-098ef163e296d2c7b1ef392e88ebbf62]
 
 (1) Where, in a case where statutory paternity pay is being paid to a person who works during the statutory paternity pay period for an employer who is not liable to pay him statutory paternity pay and who does not fall within paragraph (b) of regulation 10 or, as the case may be, paragraph (b) of regulation 16, there shall be no liability to pay statutory paternity pay in respect of any remaining part of the statutory paternity pay period.
 
@@ -227,7 +227,7 @@ Statutory paternity pay (adoption) shall be payable to a person in respect of a 
 
 (3) The notification mentioned in paragraph (2) shall be in writing, if the person who has been liable to pay statutory paternity pay so requests.
 
-### 18. Cases where there is no liability to pay statutory paternity pay[^key-b144d17de6325b9abacbd78116164c05]
+### 18. Cases where there is no liability to pay statutory paternity pay[^c-b144d17de6325b9abacbd78116164c05]
 
 (1) There shall be no liability to pay statutory paternity pay in respect of any week–
 
@@ -235,7 +235,7 @@ Statutory paternity pay (adoption) shall be payable to a person in respect of a 
 - (b) following that in which the person claiming it has died; or
 - (c) during any part of which the person entitled to it is detained in legal custody or sentenced to a term of imprisonment (except where the sentence is suspended), or which is a subsequent week within the same statutory paternity pay period.
 
-### 19. Statutory paternity pay and contractual remuneration[^key-cc684d77f3a053523b4a6a8e4a72d383]
+### 19. Statutory paternity pay and contractual remuneration[^c-cc684d77f3a053523b4a6a8e4a72d383]
 
 For the purposes of section 167ZG(1) and (2) of the Act, the payments which are to be treated as contractual remuneration are sums payable under a contract of service–
 
@@ -243,7 +243,7 @@ For the purposes of section 167ZG(1) and (2) of the Act, the payments which are 
 - (b) for incapacity for work due to sickness or injury;
 - (c) by reason of the birth or adoption of a child.
 
-### 20. Avoidance of liability for statutory paternity pay[^key-eeee9e15a4b580995d3a73693c8540d8]
+### 20. Avoidance of liability for statutory paternity pay[^c-eeee9e15a4b580995d3a73693c8540d8]
 
 (1) A former employer shall be liable to make payments of statutory paternity pay to a former employee in any case where the employee had been employed for a continuous period of at least 8 weeks and his contract of service was brought to an end by the former employer solely, or mainly, for the purpose of avoiding liability for statutory paternity pay.
 
@@ -254,7 +254,7 @@ For the purposes of section 167ZG(1) and (2) of the Act, the payments which are 
 
 ## PART V — STATUTORY ADOPTION PAY
 
-### 21. Adoption pay period[^key-5807ce27d9b6dafa7951d6b0d158f858]
+### 21. Adoption pay period[^c-5807ce27d9b6dafa7951d6b0d158f858]
 
 (1) Subject to paragraph (2), a person entitled to statutory adoption pay may choose the adoption pay period to begin–
 
@@ -274,7 +274,7 @@ For the purposes of section 167ZG(1) and (2) of the Act, the payments which are 
 
 (6) A choice made under paragraph (1), or a date specified under paragraph (2), is not irrevocable, but where a person subsequently makes a different choice, section 167ZL(6) of the Act shall apply to it.
 
-### 22. Adoption pay period in cases where adoption is disrupted[^key-cd6955fd0d20ecc31480c1db4e08f216]
+### 22. Adoption pay period in cases where adoption is disrupted[^c-cd6955fd0d20ecc31480c1db4e08f216]
 
 (1) Where–
 
@@ -295,13 +295,13 @@ the adoption pay period shall terminate in accordance with the provisions of par
 
 (4) For the purposes of paragraph (3), “week” means a period of seven days beginning with Sunday.
 
-### 23. Additional notice requirements for statutory adoption pay[^key-16792f6ce016fcbee156d574ed0cde45]
+### 23. Additional notice requirements for statutory adoption pay[^c-16792f6ce016fcbee156d574ed0cde45]
 
 (1) Where a person gives notice under section 167ZL(6) of the Act he shall at the same time give notice of the date on which the child is expected to be placed for adoption.
 
 (2) Where the choice made in accordance with paragraph (1) of regulation 21 and notified in accordance with section 167ZL(6) of the Act is that mentioned in sub-paragraph (a) of that paragraph, the person shall give further notice to the person liable to pay him statutory adoption pay as soon as is reasonably practicable of the date the child is placed for adoption.
 
-### 24. Evidence of entitlement to statutory adoption pay[^key-834f21c6c200c75a1d69fa40e2be02cb]
+### 24. Evidence of entitlement to statutory adoption pay[^c-834f21c6c200c75a1d69fa40e2be02cb]
 
 (1) A person shall provide evidence of his entitlement to statutory adoption pay by providing to the person who will be liable to pay it–
 
@@ -316,14 +316,14 @@ the adoption pay period shall terminate in accordance with the provisions of par
 
 (3) The information and declaration referred to in paragraph (1) shall be provided to the person liable to pay statutory adoption pay at least 28 days before the date chosen as the beginning of the adoption pay period in accordance with paragraph (1) of regulation 21, or, if that is not reasonably practicable, as soon as is reasonably practicable thereafter.
 
-### 25. Entitlement to statutory adoption pay where there is more than one employer[^key-ddefdb4c7c9c8e505a5cf51eb201c7a7]
+### 25. Entitlement to statutory adoption pay where there is more than one employer[^c-ddefdb4c7c9c8e505a5cf51eb201c7a7]
 
 Statutory adoption pay shall be payable to a person in respect of a week during any part of which he works only for an employer–
 
 - (a) who is not liable to pay him statutory adoption pay; and
 - (b) for whom he has worked in the week in which he is notified of being matched with the child.
 
-### 26. Work during an adoption pay period[^key-c396f57398ee2fe58dd6b4bdbd55bda8]
+### 26. Work during an adoption pay period[^c-c396f57398ee2fe58dd6b4bdbd55bda8]
 
 (1) Where, in a case where statutory adoption pay is being paid to a person who works during the adoption pay period for an employer who is not liable to pay him statutory adoption pay and who does not fall within paragraph (b) of regulation 25, there shall be no liability to pay statutory adoption pay in respect of any remaining part of the adoption pay period.
 
@@ -331,7 +331,7 @@ Statutory adoption pay shall be payable to a person in respect of a week during 
 
 (3) The notification contained in paragraph (2) shall be in writing if the person who has been liable to pay statutory adoption pay so requests.
 
-### 27. Cases where there is no liability to pay statutory adoption pay[^key-8cbc226ccd3aa5b1f2041ad50c45402a]
+### 27. Cases where there is no liability to pay statutory adoption pay[^c-8cbc226ccd3aa5b1f2041ad50c45402a]
 
 (1) There shall be no liability to pay statutory adoption pay in respect of any week–
 
@@ -345,7 +345,7 @@ Statutory adoption pay shall be payable to a person in respect of a week during 
 - (b) is subsequently found not guilty of any offence and is released; or
 - (c) is convicted of an offence but does not receive a custodial sentence.
 
-### 28. Statutory adoption pay and contractual remuneration[^key-942bec2df51d665c8f0912f86d12042c]
+### 28. Statutory adoption pay and contractual remuneration[^c-942bec2df51d665c8f0912f86d12042c]
 
 For the purposes of section 167ZP(4) and (5) of the Act, the payments which are to be treated as contractual remuneration are sums payable under a contract of service–
 
@@ -353,13 +353,13 @@ For the purposes of section 167ZP(4) and (5) of the Act, the payments which are 
 - (b) for incapacity for work due to sickness or injury;
 - (c) by reason of the adoption of a child.
 
-### 29. Termination of employment before start of adoption pay period[^key-9b2c83528b1cae602fbd0128e1668dab]
+### 29. Termination of employment before start of adoption pay period[^c-9b2c83528b1cae602fbd0128e1668dab]
 
 (1) Where the employment of a person who satisfies the conditions of entitlement to statutory adoption pay terminates for whatever reason (including dismissal) before the adoption pay period chosen in accordance with regulation 21 has begun, the period shall begin 14 days before the expected date of placement or, where the termination occurs on, or within 14 days before, the expected date of placement, on the day immediately following the last day of his employment.
 
 (2) In a case falling within paragraph (1), the notice requirements set out in section 167ZL(6) of the Act and these Regulations shall not apply.
 
-### 30. Avoidance of liability for statutory adoption pay[^key-6659593d42a70e127df7dde884afc2de]
+### 30. Avoidance of liability for statutory adoption pay[^c-6659593d42a70e127df7dde884afc2de]
 
 (1) A former employer shall be liable to make payments of statutory adoption pay to a former employee in any case where the employee had been employed for a continuous period of at least 8 weeks and his contract of service was brought to an end by the former employer solely, or mainly, for the purpose of avoiding liability for statutory adoption pay.
 
@@ -370,13 +370,13 @@ For the purposes of section 167ZP(4) and (5) of the Act, the payments which are 
 
 ## PART VI — STATUTORY PATERNITY PAY AND STATUTORY ADOPTION PAY: PROVISIONS APPLICABLE TO BOTH STATUTORY PATERNITY PAY AND STATUTORY ADOPTION PAY
 
-### 31. Introductory[^key-8dc7c17e39e39ea21a069010cff28f28]
+### 31. Introductory[^c-8dc7c17e39e39ea21a069010cff28f28]
 
 (1) Subject to paragraph (2), the provisions of regulations 32 to 47 below apply to statutory paternity pay payable under Part XIIZA of the Act and to statutory adoption pay payable under XIIZB of the Act.
 
 (2) The provisions of regulation 44 only apply to statutory adoption pay.
 
-### 32. Treatment of persons as employees[^key-2e2b3c9b65ec18bc153c4c82823a2057]
+### 32. Treatment of persons as employees[^c-2e2b3c9b65ec18bc153c4c82823a2057]
 
 (1) In a case where, and in so far as, a person over the age of 16 is treated as an employed earner by virtue of the Social Security (Categorisation of Earners) Regulations (Northern Ireland) 1978[^f00015] he shall be treated as an employee for the purposes of Parts XIIZA and XIIZB of the Act and in a case where, and in so far as, such a person is treated otherwise than as an employed earner by virtue of those regulations, he shall not be treated as an employee for the purposes of Parts XIIZA and XIIZB of the Act.
 
@@ -391,7 +391,7 @@ For the purposes of section 167ZP(4) and (5) of the Act, the payments which are 
 
   shall not be treated as an employee for the purposes of Parts XIIZA and XIIZB of the Act.
 
-### 33. Continuous employment[^key-ad01f8c4f2a0563eeb60ba8f0a5d0f63]
+### 33. Continuous employment[^c-ad01f8c4f2a0563eeb60ba8f0a5d0f63]
 
 (1) Subject to the following provisions of this regulation, where in any week a person is, for the whole or part of the week–
 
@@ -415,7 +415,7 @@ then in that case paragraph (1) shall apply as if the words “and returns to wo
 
 (4) Where a person is employed under a contract of service for part only of the relevant week within the meaning of subsection 3 of section 167ZL of the Act (entitlement to statutory adoption pay), the whole of that week shall count in computing a period of continuous employment for the purposes of that section.
 
-### 34. Continuous employment and unfair dismissal[^key-a6a675f838a0dca0fc8f76aaeab5cb5a]
+### 34. Continuous employment and unfair dismissal[^c-a6a675f838a0dca0fc8f76aaeab5cb5a]
 
 (1) This regulation applies to a person in relation to whose dismissal an action is commenced which consists–
 
@@ -430,7 +430,7 @@ then in that case paragraph (1) shall apply as if the words “and returns to wo
 - “successor” and “dismissal procedures agreement” have the same meanings as in Article 2 of the Employment Rights (Northern Ireland) Order 1996; and
 - “associated employer” shall be construed in accordance with Article 4 of the Employment Rights (Northern Ireland) Order 1996.
 
-### 35. Continuous employment and stoppages of work[^key-34cc26be92132d452b4d3b28d5484ca0]
+### 35. Continuous employment and stoppages of work[^c-34cc26be92132d452b4d3b28d5484ca0]
 
 (1) Where, for any week or part of a week a person does not work because there is a stoppage of work due to a trade dispute within the meaning of Article 2(2) of the Jobseekers (Northern Ireland) Order 1995[^f00018] at his place of employment, the continuity of his employment shall, subject to paragraph (2), be treated as continuing throughout the stoppage but, subject to paragraph (3), no such week shall count in the computation of his period of employment.
 
@@ -438,7 +438,7 @@ then in that case paragraph (1) shall apply as if the words “and returns to wo
 
 (3) The provisions of paragraph (1), to the extent that they provide that a week in which the stoppage of work occurred, shall not count in the computation of a period of employment, and paragraph (2) shall not apply to a person who proves that at no time did he have a direct interest in the trade dispute in question.
 
-### 36. Change of employer[^key-26cd452788a2993e06dcdbbe1df0bf3f]
+### 36. Change of employer[^c-26cd452788a2993e06dcdbbe1df0bf3f]
 
 A person’s employment shall, notwithstanding a change of employer, be treated as continuous employment with the second employer where–
 
@@ -448,11 +448,11 @@ A person’s employment shall, notwithstanding a change of employer, be treated 
 - (d) the person is employed by partners, personal representatives or trustees and there is a change in the partners, or, as the case may be, personal representatives or trustees;
 - (e) the person is taken into the employment of an employer who is, at the time he entered his employment, an associated employer of his previous employer, and for this purpose “associated employer” shall be construed in accordance with Article 4 of the Employment Rights (Northern Ireland) Order 1996.
 
-### 37. Reinstatement after service with the armed forces etc.[^key-cd79ac493d73dcd6aef462f0a9ad84db]
+### 37. Reinstatement after service with the armed forces etc.[^c-cd79ac493d73dcd6aef462f0a9ad84db]
 
 If a person who is entitled to apply to his employer under the Reserve Forces (Safeguard of Employment) Act 1985[^f00019] enters the employment of that employer within the 6-month period mentioned in section 1(4)(b) of that Act, his previous period of employment with that employer (or if there was more than one such period, the last of those periods) and the period of employment beginning in that 6-month period shall be treated as continuous.
 
-### 38. Treatment of two or more employers or two or more contracts of service as one[^key-f77a9f9aad3fe36b2cad5158cd26a581]
+### 38. Treatment of two or more employers or two or more contracts of service as one[^c-f77a9f9aad3fe36b2cad5158cd26a581]
 
 (1) In a case where the earnings paid to a person in respect of two or more employments are aggregated and treated as a single payment of earnings under regulation 15(1) of the Contributions Regulations, the employers of that person in respect of those employments shall be treated as one for the purposes of Part XIIZA or, as the case may be, Part XIIZB of the Act.
 
@@ -460,7 +460,7 @@ If a person who is entitled to apply to his employer under the Reserve Forces (S
 
 (3) Where two or more contracts of service exist concurrently between one employer and one employee, they shall be treated as one for the purposes of Part XIIZA or, as the case may be, Part XIIZB of the Act, except where, by virtue of regulation 14 of the Contributions Regulations, the earnings from those contracts of service are not aggregated for the purposes of earnings-related contributions.
 
-### 39. Meaning of “earnings”[^key-d9aa799e718d74bb58ff1ae15f862c8c]
+### 39. Meaning of “earnings”[^c-d9aa799e718d74bb58ff1ae15f862c8c]
 
 (1) For the purposes of section 167ZJ(6) (normal weekly earnings for the purposes of Part XIIZA of the Act) and of section 167ZS(6) of the Act (normal weekly earnings for the purposes of Part XIIZB of the Act), the expression “earnings” shall be construed in accordance with the following provisions of this regulation.
 
@@ -479,7 +479,7 @@ If a person who is entitled to apply to his employer under the Reserve Forces (S
 - (f) any sum payable by way of statutory paternity pay;
 - (g) any sum payable by way of statutory adoption pay.
 
-### 40. Normal weekly earnings[^key-41a240023068281f8c4cd7b2cec97d85]
+### 40. Normal weekly earnings[^c-41a240023068281f8c4cd7b2cec97d85]
 
 (1) For the purposes of Part XIIZA and Part XIIZB of the Act, a person’s normal weekly earnings shall be calculated in accordance with the following provisions of this regulation.
 
@@ -506,11 +506,11 @@ including the normal pay day mentioned in sub-paragraph (a) but excluding that f
 
 (7) In any case where a person receives a back-dated pay increase which includes a sum in respect of a relevant period, normal weekly earnings shall be calculated as if such a sum was paid in that relevant period even though received after that period.
 
-### 41. Payment of statutory paternity pay and statutory adoption pay[^key-9706b8ad9af590ffc35bfd9812e9cf6d]
+### 41. Payment of statutory paternity pay and statutory adoption pay[^c-9706b8ad9af590ffc35bfd9812e9cf6d]
 
 Payments of statutory paternity pay and statutory adoption pay may be made in a like manner to payments of remuneration but shall not include payment in kind or by way of the provision of board or lodgings or of services or other facilities.
 
-### 42. Time when statutory paternity pay and statutory adoption pay are to be paid[^key-c6f1c1f088b65aa94f5fdfdce53eb358]
+### 42. Time when statutory paternity pay and statutory adoption pay are to be paid[^c-c6f1c1f088b65aa94f5fdfdce53eb358]
 
 (1) In this regulation, “pay day” means a day on which it has been agreed, or it is the normal practice between an employer or former employer and a person who is or was an employee of his, that payments by way of remuneration are to be made, or, where there is no such agreement or normal practice, the last day of a calendar month.
 
@@ -533,7 +533,7 @@ Payments of statutory paternity pay and statutory adoption pay may be made in a 
 
 (5) Where the employer or former employer would not have remunerated the employee for his work in the week in question as early as the pay day specified in paragraph (3) or (if it applies) paragraph (4), the requirement of payment shall be met on the first day on which the employee would have been remunerated for his work in that week.
 
-### 43. Liability of the Board to pay statutory paternity pay or statutory adoption pay[^key-7b503d58d3d632da65e7fc2577b85a2b]
+### 43. Liability of the Board to pay statutory paternity pay or statutory adoption pay[^c-7b503d58d3d632da65e7fc2577b85a2b]
 
 (1) Where–
 
@@ -551,7 +551,7 @@ then for any week in respect of which the employer was liable to make payments o
 - (b) he had died and his estate falls to be administered in accordance with an order made under Article 365 of the Insolvency (Northern Ireland) Order 1989[^f00022]; or
 - (c) where an employer is a company or a limited liability partnership, a winding-up order or an administration order is made or a resolution for a voluntary winding-up is passed (or, in the case of a limited liability partnership, a determination for a voluntary winding-up has been made) with respect to it, or a receiver or a manager of its undertaking is duly appointed, or possession is taken by or on behalf of the holders of any debentures secured by a floating charge, of any property of the company or limited liability partnership comprised in or subject to the charge or a voluntary arrangement proposed for the purposes of Part II of the Insolvency (Northern Ireland) Order 1989 is approved under that Part.
 
-### 44. Liability of the Board to pay statutory adoption pay in cases of legal custody or imprisonment[^key-07c96c9546a99d66c1d23c74bcc30aba]
+### 44. Liability of the Board to pay statutory adoption pay in cases of legal custody or imprisonment[^c-07c96c9546a99d66c1d23c74bcc30aba]
 
 Where–
 
@@ -560,11 +560,11 @@ Where–
 
 that liability shall, notwithstanding section 167ZM of the Act, be that of the Board and not the employer.
 
-### 45. Payments by the Board[^key-901cb2a08dbf6dbfed174fa42a7eacb3]
+### 45. Payments by the Board[^c-901cb2a08dbf6dbfed174fa42a7eacb3]
 
 Where the Board become liable in accordance with regulation 43 or 44 to make payments of statutory paternity pay or, as the case may be, statutory adoption pay to a person, the first payment shall be made as soon as reasonably practicable after they become so liable, and payments thereafter shall be made at weekly intervals, by means of an instrument of payment or by such other means as appears to the Board to be appropriate in the circumstance of any particular case.
 
-### 46. Persons unable to act[^key-8f2d7dc287e63bf096d5055978640efa]
+### 46. Persons unable to act[^c-8f2d7dc287e63bf096d5055978640efa]
 
 (1) Where in the case of any person–
 
@@ -587,7 +587,7 @@ the Board may, upon written application to them by a person who, if a natural pe
 - (a) a judge of the High Court in Northern Ireland exercising jurisdiction in matters relating to patients; or
 - (b) a Master or other statutory officer of the Office of Care and Protection in the High Court in Northern Ireland.
 
-### 47. Service of notices by post[^key-09f3c584ea13c9817ac212fe56568de5]
+### 47. Service of notices by post[^c-09f3c584ea13c9817ac212fe56568de5]
 
 A notice given in accordance with the provisions of these Regulations in writing contained in an envelope which is properly addressed and sent by prepaid post shall be treated as having been given on the day on which it is posted.
 
@@ -674,9 +674,9 @@ Part VI of the Regulations contains, apart from two provisions relating only to 
 
 [^f00005]: Footnote: *See* section 150(5)(b) of the social Security Administration (Northern Ireland) Act 1992
 
-[^key-23e27c642389af942ddfb9c529a811e0]: Commencement: Reg. 1 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-23e27c642389af942ddfb9c529a811e0]: Commencement: Reg. 1 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-d00dac852fa520cc46ca92ab99604c84]: Commencement: Reg. 2 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-d00dac852fa520cc46ca92ab99604c84]: Commencement: Reg. 2 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
 [^f00006]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7)
 
@@ -694,110 +694,110 @@ Part VI of the Regulations contains, apart from two provisions relating only to 
 
 [^f00013]: Footnote: [S.I. 1996/3266](https://www.legislation.gov.uk/uksi/1996/3266)
 
-[^key-134a514f86dc3575a4c58ba087f79802]: Commencement: Reg. 3 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-134a514f86dc3575a4c58ba087f79802]: Commencement: Reg. 3 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-524a296f5c4b6fa5b1a545bd93f835c4]: Commencement: Reg. 4 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-524a296f5c4b6fa5b1a545bd93f835c4]: Commencement: Reg. 4 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
 [^f00014]: Footnote: [S.R. 2002 No. 377](https://www.legislation.gov.uk/nisr/2002/377)
 
-[^key-d370fa90956c358e1200ff34fc71b115]: Commencement: Reg. 5 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-d370fa90956c358e1200ff34fc71b115]: Commencement: Reg. 5 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-9481d6546493890f79b3e6530e754105]: Commencement: Reg. 6 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-9481d6546493890f79b3e6530e754105]: Commencement: Reg. 6 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-30b30658a77737c63ef42b3a7644771d]: Commencement: Reg. 7 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-30b30658a77737c63ef42b3a7644771d]: Commencement: Reg. 7 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-3d8a49e17bd03e4a749925018bfcadcf]: Commencement: Reg. 8 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-3d8a49e17bd03e4a749925018bfcadcf]: Commencement: Reg. 8 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-2e1588df28286028c128911014b1c05c]: Commencement: Reg. 9 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-2e1588df28286028c128911014b1c05c]: Commencement: Reg. 9 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-dbab3e21d7dbf6ecb85042dbf22ac00b]: Commencement: Reg. 10 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-dbab3e21d7dbf6ecb85042dbf22ac00b]: Commencement: Reg. 10 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-e42c000379fadc96ab28fd5fc31b9680]: Commencement: Reg. 11 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-e42c000379fadc96ab28fd5fc31b9680]: Commencement: Reg. 11 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-873f9a3f347e6fe4d6f521d9f3f09f25]: Commencement: Reg. 12 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-873f9a3f347e6fe4d6f521d9f3f09f25]: Commencement: Reg. 12 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-3a75fc3ddbf5a58a162455af71c87560]: Commencement: Reg. 13 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-3a75fc3ddbf5a58a162455af71c87560]: Commencement: Reg. 13 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-6418d78e0505d5b9b2ab172c2c561410]: Commencement: Reg. 14 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-6418d78e0505d5b9b2ab172c2c561410]: Commencement: Reg. 14 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-87d089a62b4dafd2f8ab1ff0bde0661e]: Commencement: Reg. 15 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-87d089a62b4dafd2f8ab1ff0bde0661e]: Commencement: Reg. 15 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-a6d9e06830532e13c06d54f3ddda8cf1]: Commencement: Reg. 16 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-a6d9e06830532e13c06d54f3ddda8cf1]: Commencement: Reg. 16 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-098ef163e296d2c7b1ef392e88ebbf62]: Commencement: Reg. 17 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-098ef163e296d2c7b1ef392e88ebbf62]: Commencement: Reg. 17 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-b144d17de6325b9abacbd78116164c05]: Commencement: Reg. 18 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-b144d17de6325b9abacbd78116164c05]: Commencement: Reg. 18 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-cc684d77f3a053523b4a6a8e4a72d383]: Commencement: Reg. 19 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-cc684d77f3a053523b4a6a8e4a72d383]: Commencement: Reg. 19 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-eeee9e15a4b580995d3a73693c8540d8]: Commencement: Reg. 20 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-eeee9e15a4b580995d3a73693c8540d8]: Commencement: Reg. 20 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-5807ce27d9b6dafa7951d6b0d158f858]: Commencement: Reg. 21 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-5807ce27d9b6dafa7951d6b0d158f858]: Commencement: Reg. 21 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-cd6955fd0d20ecc31480c1db4e08f216]: Commencement: Reg. 22 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-cd6955fd0d20ecc31480c1db4e08f216]: Commencement: Reg. 22 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-16792f6ce016fcbee156d574ed0cde45]: Commencement: Reg. 23 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-16792f6ce016fcbee156d574ed0cde45]: Commencement: Reg. 23 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-834f21c6c200c75a1d69fa40e2be02cb]: Commencement: Reg. 24 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-834f21c6c200c75a1d69fa40e2be02cb]: Commencement: Reg. 24 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-ddefdb4c7c9c8e505a5cf51eb201c7a7]: Commencement: Reg. 25 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-ddefdb4c7c9c8e505a5cf51eb201c7a7]: Commencement: Reg. 25 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-c396f57398ee2fe58dd6b4bdbd55bda8]: Commencement: Reg. 26 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-c396f57398ee2fe58dd6b4bdbd55bda8]: Commencement: Reg. 26 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-8cbc226ccd3aa5b1f2041ad50c45402a]: Commencement: Reg. 27 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-8cbc226ccd3aa5b1f2041ad50c45402a]: Commencement: Reg. 27 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-942bec2df51d665c8f0912f86d12042c]: Commencement: Reg. 28 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-942bec2df51d665c8f0912f86d12042c]: Commencement: Reg. 28 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-9b2c83528b1cae602fbd0128e1668dab]: Commencement: Reg. 29 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-9b2c83528b1cae602fbd0128e1668dab]: Commencement: Reg. 29 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-6659593d42a70e127df7dde884afc2de]: Commencement: Reg. 30 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-6659593d42a70e127df7dde884afc2de]: Commencement: Reg. 30 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-8dc7c17e39e39ea21a069010cff28f28]: Commencement: Reg. 31 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-8dc7c17e39e39ea21a069010cff28f28]: Commencement: Reg. 31 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-2e2b3c9b65ec18bc153c4c82823a2057]: Commencement: Reg. 32 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-2e2b3c9b65ec18bc153c4c82823a2057]: Commencement: Reg. 32 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
 [^f00015]: Footnote: [S.R. 1978 No. 401](https://www.legislation.gov.uk/nisr/1978/401); amended by [S.R. 1980 No. 405](https://www.legislation.gov.uk/nisr/1980/405), [S.R. 1984 No. 81](https://www.legislation.gov.uk/nisr/1984/81), [S.R. 1990 No. 339](https://www.legislation.gov.uk/nisr/1990/339), [S.R. 1994 No. 92](https://www.legislation.gov.uk/nisr/1994/92), [S.R. 1998 No. 250](https://www.legislation.gov.uk/nisr/1998/250)
 
-[^key-ad01f8c4f2a0563eeb60ba8f0a5d0f63]: Commencement: Reg. 33 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-ad01f8c4f2a0563eeb60ba8f0a5d0f63]: Commencement: Reg. 33 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-a6a675f838a0dca0fc8f76aaeab5cb5a]: Commencement: Reg. 34 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-a6a675f838a0dca0fc8f76aaeab5cb5a]: Commencement: Reg. 34 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
 [^f00016]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919)
 
 [^f00017]: Footnote: [S.I. 1996/1921 (N.I. 18)](https://www.legislation.gov.uk/nisi/1996/1921)
 
-[^key-34cc26be92132d452b4d3b28d5484ca0]: Commencement: Reg. 35 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-34cc26be92132d452b4d3b28d5484ca0]: Commencement: Reg. 35 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
 [^f00018]: Footnote: [S.I. 1995/2705 (N.I. 15)](https://www.legislation.gov.uk/nisi/1995/2705)
 
-[^key-26cd452788a2993e06dcdbbe1df0bf3f]: Commencement: Reg. 36 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-26cd452788a2993e06dcdbbe1df0bf3f]: Commencement: Reg. 36 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-cd79ac493d73dcd6aef462f0a9ad84db]: Commencement: Reg. 37 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-cd79ac493d73dcd6aef462f0a9ad84db]: Commencement: Reg. 37 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
 [^f00019]: Footnote: [1985 c. 17](https://www.legislation.gov.uk/ukpga/1985/17)
 
-[^key-f77a9f9aad3fe36b2cad5158cd26a581]: Commencement: Reg. 38 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-f77a9f9aad3fe36b2cad5158cd26a581]: Commencement: Reg. 38 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-d9aa799e718d74bb58ff1ae15f862c8c]: Commencement: Reg. 39 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-d9aa799e718d74bb58ff1ae15f862c8c]: Commencement: Reg. 39 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
 [^f00020]: Footnote: [S.I. 1996/1919 (N.I. 16)](https://www.legislation.gov.uk/nisi/1996/1919); Article 217 was amended by Regulation 10 of the Collective Redundancies and Transfer of Undertakings (Protection of Employment) (Amendment) Regulations (Northern Ireland) 1999, [S.R. 1999 No. 432](https://www.legislation.gov.uk/nisr/1999/432)
 
-[^key-41a240023068281f8c4cd7b2cec97d85]: Commencement: Reg. 40 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-41a240023068281f8c4cd7b2cec97d85]: Commencement: Reg. 40 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-9706b8ad9af590ffc35bfd9812e9cf6d]: Commencement: Reg. 41 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-9706b8ad9af590ffc35bfd9812e9cf6d]: Commencement: Reg. 41 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-c6f1c1f088b65aa94f5fdfdce53eb358]: Commencement: Reg. 42 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-c6f1c1f088b65aa94f5fdfdce53eb358]: Commencement: Reg. 42 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
 [^f00021]: Footnote: [S.I. 1999/671](https://www.legislation.gov.uk/uksi/1999/671)
 
-[^key-7b503d58d3d632da65e7fc2577b85a2b]: Commencement: Reg. 43 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-7b503d58d3d632da65e7fc2577b85a2b]: Commencement: Reg. 43 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
 [^f00022]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-07c96c9546a99d66c1d23c74bcc30aba]: Commencement: Reg. 44 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-07c96c9546a99d66c1d23c74bcc30aba]: Commencement: Reg. 44 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-901cb2a08dbf6dbfed174fa42a7eacb3]: Commencement: Reg. 45 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-901cb2a08dbf6dbfed174fa42a7eacb3]: Commencement: Reg. 45 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-8f2d7dc287e63bf096d5055978640efa]: Commencement: Reg. 46 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-8f2d7dc287e63bf096d5055978640efa]: Commencement: Reg. 46 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
 
-[^key-09f3c584ea13c9817ac212fe56568de5]: Commencement: Reg. 47 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)
+[^c-09f3c584ea13c9817ac212fe56568de5]: Commencement: Reg. 47 in operation at 8.12.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2002/378/regulation/1)

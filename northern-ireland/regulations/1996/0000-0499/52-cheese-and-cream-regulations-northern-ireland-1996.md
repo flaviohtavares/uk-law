@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-Cheese and Cream Regulations (Northern Ireland) 1996 (revoked)[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+Cheese and Cream Regulations (Northern Ireland) 1996 (revoked)[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 Made
 
@@ -40,59 +40,59 @@ Coming into operation
 
 22nd April 1996
 
-[^key-e53f6f92ac8fbab899e0dcf640158fd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e53f6f92ac8fbab899e0dcf640158fd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+## 1. Citation and commencement[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation and application[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+## 2. Interpretation and application[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Exemption[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+## 3. Exemption[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Cheese containing enzymes[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+## 4. Cheese containing enzymes[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Restrictions on the use of certain names of cheese[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+## 5. Restrictions on the use of certain names of cheese[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Restrictions on the use of certain names of cream[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+## 6. Restrictions on the use of certain names of cream[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Defence[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+## 7. Defence[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Offences, penalty and enforcement[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+## 8. Offences, penalty and enforcement[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Transitional provisions[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+## 9. Transitional provisions[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Application of various provisions of the Order[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+## 10. Application of various provisions of the Order[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocations[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+## 11. Revocations[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e53f6f92ac8fbab899e0dcf640158fd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e53f6f92ac8fbab899e0dcf640158fd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Regulations Revoked[^key-e53f6f92ac8fbab899e0dcf640158fd5]
+## SCHEDULE — Regulations Revoked[^c-e53f6f92ac8fbab899e0dcf640158fd5]
 
 Regulation 11
 
@@ -100,8 +100,8 @@ Regulation 11
 
 **May not be in force at this date. Check the source.**
 
-[^key-e53f6f92ac8fbab899e0dcf640158fd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e53f6f92ac8fbab899e0dcf640158fd5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e53f6f92ac8fbab899e0dcf640158fd5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/52) revoked (1.10.1996) by [Food Labelling Regulations (Northern Ireland) 1996 (S.R. 1996/383)](https://www.legislation.gov.uk/nisr/1996/383), [reg. 1](https://www.legislation.gov.uk/nisr/1996/383/regulation/1), [Sch. 9](https://www.legislation.gov.uk/nisr/1996/383/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/nisr/1996/383/regulation/3))
+[^c-e53f6f92ac8fbab899e0dcf640158fd5]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1996/52) revoked (1.10.1996) by [Food Labelling Regulations (Northern Ireland) 1996 (S.R. 1996/383)](https://www.legislation.gov.uk/nisr/1996/383), [reg. 1](https://www.legislation.gov.uk/nisr/1996/383/regulation/1), [Sch. 9](https://www.legislation.gov.uk/nisr/1996/383/schedule/9) (with [reg. 3](https://www.legislation.gov.uk/nisr/1996/383/regulation/3))

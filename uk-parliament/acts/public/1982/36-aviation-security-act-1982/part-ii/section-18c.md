@@ -25,7 +25,7 @@ summary: ''
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to a fine.
 
-(2) Where a person is convicted of an offence under subsection (1) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he shall be guilty of a further offence and liable on summary conviction to a fine not exceeding £100[^key-ca34e3082fe2a5cff246d2045763486a] for each day on which the failure continues.
+(2) Where a person is convicted of an offence under subsection (1) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he shall be guilty of a further offence and liable on summary conviction to a fine not exceeding £100[^c-ca34e3082fe2a5cff246d2045763486a] for each day on which the failure continues.
 
 (3) Any person who intentionally interferes with any building constructed or works executed on any land in compliance with an enforcement notice or with anything installed on, under, over or across any land in compliance with such notice shall be guilty of an offence and liable—
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c794612]: Textual amendment: Ss. 18A–18E inserted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 4](https://www.legislation.gov.uk/ukpga/1990/31/section/4)
 
-[^key-ca34e3082fe2a5cff246d2045763486a]: Textual amendment: Word in s. 18C(2) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [7(e)](https://www.legislation.gov.uk/uksi/2010/902/regulation/7/e)
+[^c-ca34e3082fe2a5cff246d2045763486a]: Textual amendment: Word in s. 18C(2) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [7(e)](https://www.legislation.gov.uk/uksi/2010/902/regulation/7/e)

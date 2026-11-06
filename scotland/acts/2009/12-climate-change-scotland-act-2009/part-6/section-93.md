@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 93. Equal opportunities[^key-765687b9d9ba5b9a2fcf93971c9aebeb]
+## 93. Equal opportunities[^c-765687b9d9ba5b9a2fcf93971c9aebeb]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-765687b9d9ba5b9a2fcf93971c9aebeb]: Commencement: S. 93 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)
+[^c-765687b9d9ba5b9a2fcf93971c9aebeb]: Commencement: S. 93 in force at 31.10.2009 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2009/341/article/2/2/a)

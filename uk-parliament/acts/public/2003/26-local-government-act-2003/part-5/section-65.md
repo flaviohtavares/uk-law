@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Transitional relief[^key-b3b6fc356f9cc9c9b6809e8a6178c02c]
+## 65. Transitional relief[^c-b3b6fc356f9cc9c9b6809e8a6178c02c]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3b6fc356f9cc9c9b6809e8a6178c02c]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2003/26/section/65) in force at 25.11.2004 for E. by [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2004/3132/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3132/article/4))
+[^c-b3b6fc356f9cc9c9b6809e8a6178c02c]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2003/26/section/65) in force at 25.11.2004 for E. by [S.I. 2004/3132](https://www.legislation.gov.uk/uksi/2004/3132), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2004/3132/article/3/1/c) (with [art. 4](https://www.legislation.gov.uk/uksi/2004/3132/article/4))

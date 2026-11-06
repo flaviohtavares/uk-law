@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Article 20 of the Export Control Order 2008[^key-41c2f152baea519c991e450146ebf092][^key-506805a656fae3e9831a10c3f9bb8439]
+## 72. Article 20 of the Export Control Order 2008[^c-41c2f152baea519c991e450146ebf092][^c-506805a656fae3e9831a10c3f9bb8439]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Article 20 of the Export Control Order 2008 (embargoed destinations) is not to b
 
 ## Annotations
 
-[^key-41c2f152baea519c991e450146ebf092]: Commencement: Reg. 72 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-41c2f152baea519c991e450146ebf092]: Commencement: Reg. 72 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-506805a656fae3e9831a10c3f9bb8439]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2019/461/regulation/72) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-506805a656fae3e9831a10c3f9bb8439]: Commencement: [Reg. 72](https://www.legislation.gov.uk/uksi/2019/461/regulation/72) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

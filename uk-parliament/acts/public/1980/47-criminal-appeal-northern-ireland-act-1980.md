@@ -31,13 +31,13 @@ Criminal Appeal (Northern Ireland) Act 1980
 
 An Act to consolidate the Criminal Appeal (Northern Ireland) Act l968 and related enactments.
 
-\[lst August l980\] [^c8082411][^c20857441][^key-76fe480571e633710553efda44351cca]
+\[lst August l980\] [^c8082411][^c20857441][^c-76fe480571e633710553efda44351cca]
 
 ## Part I — Appeal to Court of Appeal from Crown Court[^c8082421]
 
 ### Appeal against conviction on indictment
 
-#### 1. Right of appeal against conviction on indictment.[^c8082451][^c8082441][^c19638081][^c19718861][^key-7c217256e1cab677aed89e44f056e60d][^key-f5c6d37ee2bb407c9ddc90beedd3d789][^key-7970220e7f2dd751233f9713ff3967b7]
+#### 1. Right of appeal against conviction on indictment.[^c8082451][^c8082441][^c19638081][^c19718861][^c-7c217256e1cab677aed89e44f056e60d][^c-f5c6d37ee2bb407c9ddc90beedd3d789][^c-7970220e7f2dd751233f9713ff3967b7]
 
 A person convicted on indictment may appeal to the Court of Appeal against his conviction—[^c8082461]
 
@@ -131,7 +131,7 @@ all the sentences are to be treated as related for the purposes of subsection (1
 - (b) any order made by the Court of Appeal under this section for his custody or admission to bail shall have effect subject to the order or direction under the said Part III.
 - (3A)[^c8082501] Where a retrial is ordered under section 6 of this Act in the case of a person who, immediately before the determination of his appeal, was liable to be detained in pursuance of a remand under Article 43 of the Mental Health Order or an interim hospital order under Article 45 of that Order, the Court of Appeal may, if it thinks fit, order that he shall continue to be detained in hospital, and in that event Part III of the Mental Health Order shall apply as if he had been ordered under this section to be kept in custody pending his retrial and were detained in pursuance of a transfer direction together with a restriction direction.
 
-(4) Schedule 1 to this Act has effect with respect to [^key-231e0bbda5370cf89d657fc356bbe884]... a person ordered under section 6 of this Act to be retried, his retrial, and the sentence which may be passed if the retrial results in his conviction.
+(4) Schedule 1 to this Act has effect with respect to [^c-231e0bbda5370cf89d657fc356bbe884]... a person ordered under section 6 of this Act to be retried, his retrial, and the sentence which may be passed if the retrial results in his conviction.
 
 ### Appeal against sentence
 
@@ -163,7 +163,7 @@ shall have the like right of appeal to the Court of Appeal against that order, [
 
 (3B) A person may appeal to the Court of Appeal against the dismissal of an application to the Crown Court under paragraph 5 of Schedule 1A to the Criminal Justice (Children) (Northern Ireland) Order 1998 (S.I. 1998/1504 (N.I. 9)) to make an order under sub-paragraph (1) of that paragraph.
 
-(3C)[^key-922d0dad0215ae732c3731a175c6152f] A person who—
+(3C)[^c-922d0dad0215ae732c3731a175c6152f] A person who—
 
 - (a) is convicted of any offence by a magistrates' court, and
 - (b) is committed by that court to the Crown Court under section 218 of the Proceeds of Crime Act 2002 in respect of that offence,
@@ -336,7 +336,7 @@ the Court would not think it appropriate to grant the application by exercising 
 
 #### 16. Notice of appeal or application for leave.[^c8083431]
 
-(1)[^c8083441][^key-37517261712802fb12404d992be14719] Subject to subsection (2) below, a person who wishes to appeal under this Part of this Act to the Court of Appeal, or to obtain the Court’s leave to appeal, shall give notice of appeal, or of his application for leave to appeal, in the prescribed manner within twenty-eight days from the date of the conviction, verdict or finding appealed against or, in the case of an [^c8083451]. . . application for leave to appeal against sentence, from the date on which sentence was passed or, in the case of an order made or treated as made on conviction, from the date of the making of the order.
+(1)[^c8083441][^c-37517261712802fb12404d992be14719] Subject to subsection (2) below, a person who wishes to appeal under this Part of this Act to the Court of Appeal, or to obtain the Court’s leave to appeal, shall give notice of appeal, or of his application for leave to appeal, in the prescribed manner within twenty-eight days from the date of the conviction, verdict or finding appealed against or, in the case of an [^c8083451]. . . application for leave to appeal against sentence, from the date on which sentence was passed or, in the case of an order made or treated as made on conviction, from the date of the making of the order.
 
 (2) The time for giving notice of appeal or of application for leave to appeal may be extended at any time by the Court.
 
@@ -368,7 +368,7 @@ the Court would not think it appropriate to grant the application by exercising 
 
 If it appears to the Master that a notice of appeal or of application for leave to appeal under this Part of this Act does not show any substantial ground of appeal, he may refer the appeal or application for leave to the Court of Appeal for summary determination; and the Court may then, if it considers that the appeal or application for leave is frivolous or vexatious, and can be determined without adjourning the proceedings for a full hearing, dismiss the appeal or application for leave summarily without calling on any one to attend the hearing or to appear for the Crown thereon.
 
-#### 19. Legal aid.[^key-bb3b4729bebc7c26851f8f1576db4a34]
+#### 19. Legal aid.[^c-bb3b4729bebc7c26851f8f1576db4a34]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -520,33 +520,33 @@ unless rules of court provide that he is to be so entitled or the Court of Appea
 - (a) an order made under section 27 of the [^c8083611]Theft Act (Northern Ireland) 1969; and
 - (b) a compensation order made under Article 14 of the Criminal Justice (Northern Ireland) Order 1994[^c8083621].
 
-#### 28. Costs.[^key-07d1980099fd6068df53aa45d7265a29]
+#### 28. Costs.[^c-07d1980099fd6068df53aa45d7265a29]
 
 (1) Except as provided by the [^c8083671]Costs in Criminal Cases Act (Northern Ireland) 1968 or any other Northern Ireland legislation, no costs shall be allowed on the hearing and determination of an appeal under this Part of this Act, or of proceedings preliminary or incidental to such an appeal.
 
 (2)[^c8083681] The following expenses, that is to say—[^c8083691]
 
-- (a)[^key-af5414817feae3fc84fc4a2558ca45d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-af5414817feae3fc84fc4a2558ca45d1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the expenses of any witnesses attending on the order of the Court of Appeal, or examined in any proceedings incidental to the appeal;
 - (c) the expenses of the appearance of an appellant on the hearing of his appeal, or in proceedings preliminary or incidental thereto;
 - (d) all expenses of or incidental to any examination of witnesses conducted by a person appointed by the Court for the purpose; and
-- (e) all expenses of or incidental to any reference of a question to a special commissioner appointed by the Court, or of any person appointed as assessor to the Court shall, up to an amount allowed by the Master (Taxing Office) be defrayed,[^c8083701] [^key-dcaa6f186f1d1c0750f464ad1e7a13d4]... by the Director of Public Prosecutions[^c20858191].
+- (e) all expenses of or incidental to any reference of a question to a special commissioner appointed by the Court, or of any person appointed as assessor to the Court shall, up to an amount allowed by the Master (Taxing Office) be defrayed,[^c8083701] [^c-dcaa6f186f1d1c0750f464ad1e7a13d4]... by the Director of Public Prosecutions[^c20858191].
 
 (2AA)[^c19592831] The expenses of any solicitor or counsel assigned to a person pursuant to a grant of legal aid under section 19(1A) or (1B) of this Act shall, up to an amount allowed by the Master (Taxing Office), be defrayed by the Lord Chancellor.
 
-(2A)[^key-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2A)[^c-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2B)[^key-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2B)[^c-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2C)[^key-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2C)[^c-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2D)[^key-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2D)[^c-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2E)[^key-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2E)[^c-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2F)[^key-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2F)[^c-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2G)[^key-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2G)[^c-a6e859af7f03d4d1b9fd4f58e7620622] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where in any proceedings on an appeal to the Court under this Part of this Act or preliminary or incidental to such an appeal an interpreter is required because of an appellant’s lack of English, the expenses properly incurred on his employment shall be defrayed by the Department of Justice[^c20858231] up to an amount allowed by the Court.
 
@@ -582,7 +582,7 @@ unless rules of court provide that he is to be so entitled or the Court of Appea
 - “**appellant**” includes a person who has given notice of application for leave to appeal;
 - “**the court of trial**” means, in relation to an appeal, the court from which the appeal lies;
 - “**insane person**” has the meaning given to it by section 1 of the [^c8083881]Criminal Justice Act (Northern Ireland) 1966, and “**insanity**” shall be construed accordingly; and
-- “**sentence**” includes any order of the court of trial made on conviction with reference to the person convicted or his wife or children, and any recommendation of that court as to the making of a deportation order in the case of a person convicted , but does not include any order under Article 31 of the Access to Justice (Northern Ireland) Order 2003[^key-9352906575a71f5264ecba8e54fa758f] ;
+- “**sentence**” includes any order of the court of trial made on conviction with reference to the person convicted or his wife or children, and any recommendation of that court as to the making of a deportation order in the case of a person convicted , but does not include any order under Article 31 of the Access to Justice (Northern Ireland) Order 2003[^c-9352906575a71f5264ecba8e54fa758f] ;
 
 and a power of the Court of Appeal to pass sentence includes power to make any such order or recommendation which could lawfully have been made by the court of trial.
 
@@ -593,7 +593,7 @@ and a power of the Court of Appeal to pass sentence includes power to make any s
 - (a) a confiscation order made by the Crown Court under the Proceeds of Crime (Northern Ireland) Order 1996;
 - (b) an order varying such an order;[^c19313191]. . .
 - (c) an order made by the Crown Court varying a confiscation order which was made by the High Court by virtue of Article 24 of the Order of 1996.
-- (d)[^c8083921] a confiscation order under Part 4 of the Proceeds of Crime Act 2002; (but not a determination under section 160A of that Act)[^key-835377453e2f5014c8551f9bf81c895e]
+- (d)[^c8083921] a confiscation order under Part 4 of the Proceeds of Crime Act 2002; (but not a determination under section 160A of that Act)[^c-835377453e2f5014c8551f9bf81c895e]
 - (e) an order which varies a confiscation order made under Part 4 of the Proceeds of Crime Act 2002 if the varying order is made under section 171, 172 or 179 of that Act (but not otherwise).
 
 (4)[^c8083931] Article 6 of the Criminal Justice (Northern Ireland) Order 1996 (under which a conviction of an offence for which an order for conditional or absolute discharge is made is deemed not to be a conviction for certain purposes) shall not prevent an appeal under this Act, whether against conviction or otherwise.
@@ -685,7 +685,7 @@ The Court of Appeal may, if it thinks fit, on the application of an appellant un
 - (a) the Court of Appeal has made an order under subsection (1)(b), or
 - (b) the Court has made an order under subsection (1)(a) but the order has ceased to have effect by virtue of subsection (2) or the defendant has been released or discharged by virtue of subsection (3) or (3A).
 
-#### 37. Legal aid.[^key-a69d0461f7aa9dd3fcd7efaec7223e46]
+#### 37. Legal aid.[^c-a69d0461f7aa9dd3fcd7efaec7223e46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -730,7 +730,7 @@ A defendant who has been convicted of an offence, or in whose case an order unde
 (2) Where an appeal to the Supreme Court from the Court under this Part of this Act is determined in favour of the defendant, the Supreme Court may, if it thinks fit, order the payment by the Secretary of State of such sums as appear to the Supreme Court reasonably sufficient to compensate the defendant for any expenses properly incurred by him—
 
 - (a) in the appeal to the Supreme Court or in the proceedings before the Court, as the case may be (including the cost of any application for leave to appeal); or
-- (b) in carrying on his defence before the Crown Court, at the [^key-2d3471c6247e420482dbb2887486387c]... preliminary enquiry and before any other court before which proceedings for the offence in respect of which he was committed for trial were begun but not concluded.
+- (b) in carrying on his defence before the Crown Court, at the [^c-2d3471c6247e420482dbb2887486387c]... preliminary enquiry and before any other court before which proceedings for the offence in respect of which he was committed for trial were begun but not concluded.
 
 (3) Where in any proceedings on an appeal or application for leave to appeal to the Supreme Court under this Part of this Act, an interpreter is required because of a defendant’s lack of English, the expenses properly incurred on his employment shall be defrayed by the Secretary of State up to an amount allowed by the Supreme Court .
 
@@ -777,9 +777,9 @@ A defendant who has been convicted of an offence, or in whose case an order unde
 - (b) to make orders under section 7(2) of this Act and discharge or vary such orders;
 - (c) to extend the time for giving notice of appeal or of application for leave to appeal;
 - (d)[^c8084181] to exercise the powers conferred by section 17 of the Act;
-- (e)[^key-0b735beecf1d5488ff12ef73637fc6e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-0b735beecf1d5488ff12ef73637fc6e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) to give leave for an appellant to be present at any proceedings;
-- (fa)[^c20837031] to give a live link direction under section 24(2A); or under section 18 of the Justice Act (Northern Ireland) 2011[^key-6b5150ebda4f0fa12e95200c6d636526]
+- (fa)[^c20837031] to give a live link direction under section 24(2A); or under section 18 of the Justice Act (Northern Ireland) 2011[^c-6b5150ebda4f0fa12e95200c6d636526]
 - (g) to order a witness to attend for examination;
 - (h) to give directions under section 29(2) of this Act;
 - (i) to hear and determine such other matters preliminary or incidental to an appeal as may be prescribed.
@@ -788,7 +788,7 @@ A defendant who has been convicted of an offence, or in whose case an order unde
 
 - (a) to extend the time for applying for leave to appeal;
 - (b) to make an order for or in relation to bail;
-- (c)[^key-9bde7f817c93853a6358def92aa0f2a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-9bde7f817c93853a6358def92aa0f2a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) to give leave for a defendant to be present at the hearing of any proceedings preliminary or incidental to an appeal;
 - (e) to make an order under section 41(1) of this Act.
 
@@ -889,7 +889,7 @@ Section 7(4).
 
 ### Legal Aid
 
-**1.**[^key-0335b249c61ec7b8ab753876aa454b1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-0335b249c61ec7b8ab753876aa454b1b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Evidence[^c19307931]
 
@@ -1037,7 +1037,7 @@ Section 51(2)
 
 [^c20857441]: Modification: Act: functions transferred (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(1)](https://www.legislation.gov.uk/uksi/2010/976/article/15/1), [Sch. 17 para. 7](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/7) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
-[^key-76fe480571e633710553efda44351cca]: Modification: Act: power to amend conferred (N.I.) (1.9.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 90(2)(a)](https://www.legislation.gov.uk/nia/2011/24/section/90/2/a), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 4](https://www.legislation.gov.uk/nisr/2012/214/article/4)
+[^c-76fe480571e633710553efda44351cca]: Modification: Act: power to amend conferred (N.I.) (1.9.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 90(2)(a)](https://www.legislation.gov.uk/nia/2011/24/section/90/2/a), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 4](https://www.legislation.gov.uk/nisr/2012/214/article/4)
 
 [^c8082421]: Modification: Ss. 1-30 (Pt. I) extended (N.I.) (25.8.1996) by [1996 c. 22](https://www.legislation.gov.uk/ukpga/1996/22), [ss. 11(6)](https://www.legislation.gov.uk/ukpga/1996/22/section/11/6), [62(1)](https://www.legislation.gov.uk/ukpga/1996/22/section/62/1) (with [s. 62(2)](https://www.legislation.gov.uk/ukpga/1996/22/section/62/2))
 
@@ -1051,11 +1051,11 @@ Section 51(2)
 
 [^c19718861]: Modification: S. 1 excluded (N.I.) (1.8.2007) by [Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6), [ss. 5(7)](https://www.legislation.gov.uk/ukpga/2007/6/section/5/7), [53(4)](https://www.legislation.gov.uk/ukpga/2007/6/section/53/4) (with [s. 8(1)(3)](https://www.legislation.gov.uk/ukpga/2007/6/section/8/1/3)); [S.I. 2007/2045](https://www.legislation.gov.uk/uksi/2007/2045), [art. 2(2)(3)](https://www.legislation.gov.uk/uksi/2007/2045/article/2/2/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/2045/article/3))
 
-[^key-7c217256e1cab677aed89e44f056e60d]: Modification: S. 1 extended (15.12.2011) by [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 3 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/3/paragraph/4/2/c) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
+[^c-7c217256e1cab677aed89e44f056e60d]: Modification: S. 1 extended (15.12.2011) by [Terrorism Prevention and Investigation Measures Act 2011 (c. 23)](https://www.legislation.gov.uk/ukpga/2011/23), [s. 31(2)](https://www.legislation.gov.uk/ukpga/2011/23/section/31/2), [Sch. 3 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2011/23/schedule/3/paragraph/4/2/c) (with [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/23/schedule/8))
 
-[^key-f5c6d37ee2bb407c9ddc90beedd3d789]: Modification: S. 1 applied (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 4 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/4/paragraph/4/2/c)
+[^c-f5c6d37ee2bb407c9ddc90beedd3d789]: Modification: S. 1 applied (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 4 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/4/paragraph/4/2/c)
 
-[^key-7970220e7f2dd751233f9713ff3967b7]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1980/47/section/1) applied (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 9 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/4/2/c) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-7970220e7f2dd751233f9713ff3967b7]: Modification: [S. 1](https://www.legislation.gov.uk/ukpga/1980/47/section/1) applied (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1), [Sch. 9 para. 4(2)(c)](https://www.legislation.gov.uk/ukpga/2023/32/schedule/9/paragraph/4/2/c) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
 
 [^c8082461]: Textual amendment: Words in s. 1 substituted (1.1.1996) by [1995 c. 35](https://www.legislation.gov.uk/ukpga/1995/35), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1995/35/section/1/2); [S.I. 1995/3061](https://www.legislation.gov.uk/uksi/1995/3061), [art. 3(a)](https://www.legislation.gov.uk/uksi/1995/3061/article/3/a)
 
@@ -1081,7 +1081,7 @@ Section 51(2)
 
 [^c8082501]: Textual amendment: S. 7(3A) inserted by [S.I. 1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595), [arts. 51(6)](https://www.legislation.gov.uk/nisi/1986/595/article/51/6), [136(1)](https://www.legislation.gov.uk/nisi/1986/595/article/136/1), [Sch. 5 Pt. I](https://www.legislation.gov.uk/nisi/1986/595/schedule/5/part/I)
 
-[^key-231e0bbda5370cf89d657fc356bbe884]: Textual amendment: Words in s. 7(4) repealed (N.I.) (24.3.2016) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2016/199](https://www.legislation.gov.uk/nisr/2016/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/199/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/199/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/199/article/2/2))
+[^c-231e0bbda5370cf89d657fc356bbe884]: Textual amendment: Words in s. 7(4) repealed (N.I.) (24.3.2016) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2016/199](https://www.legislation.gov.uk/nisr/2016/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/199/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/199/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/199/article/2/2))
 
 [^c8082511]: Modification: S. 8 amended by [S.I.1986/595 (N.I. 4)](https://www.legislation.gov.uk/nisi/1986/595), [art.51(4)](https://www.legislation.gov.uk/nisi/1986/595/article/51/4)(*a*)
 
@@ -1113,7 +1113,7 @@ Section 51(2)
 
 [^c8082931]: Textual amendment: S. 9(3A)(3B) inserted (1.12.2003) by [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 85](https://www.legislation.gov.uk/ukpga/2002/26/section/85), [87](https://www.legislation.gov.uk/ukpga/2002/26/section/87), [Sch. 12 para. 15(4)](https://www.legislation.gov.uk/ukpga/2002/26/schedule/12/paragraph/15/4); [S.R. 2003/488](https://www.legislation.gov.uk/nisr/2003/488), [art. 2](https://www.legislation.gov.uk/nisr/2003/488/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2003/488/schedule)
 
-[^key-922d0dad0215ae732c3731a175c6152f]: Textual amendment: S. 9(3C) inserted (N.I.) (5.7.2011) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 99](https://www.legislation.gov.uk/nia/2011/24/section/99), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2011/224](https://www.legislation.gov.uk/nisr/2011/224), [art. 2](https://www.legislation.gov.uk/nisr/2011/224/article/2)
+[^c-922d0dad0215ae732c3731a175c6152f]: Textual amendment: S. 9(3C) inserted (N.I.) (5.7.2011) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 99](https://www.legislation.gov.uk/nia/2011/24/section/99), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2011/224](https://www.legislation.gov.uk/nisr/2011/224), [art. 2](https://www.legislation.gov.uk/nisr/2011/224/article/2)
 
 [^c8082971]: Modification: S. 10(1) excluded (27.8.1991) by [Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/24), [ss. 10(6)](https://www.legislation.gov.uk/ukpga/1991/24/section/10/6), [69(1)](https://www.legislation.gov.uk/ukpga/1991/24/section/69/1)
 
@@ -1207,7 +1207,7 @@ Section 51(2)
 
 [^c8083441]: Modification: S. 16(1) modified (27.8.1991) by [Northern Ireland (Emergency Provisions) Act 1991 (c. 24, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1991/24), [ss. 10(7)](https://www.legislation.gov.uk/ukpga/1991/24/section/10/7), [69(1)](https://www.legislation.gov.uk/ukpga/1991/24/section/69/1)
 
-[^key-37517261712802fb12404d992be14719]: Modification: S. 16(1) modified (N.I.) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/nia/2015/2/schedule/2/paragraph/3/2/a)
+[^c-37517261712802fb12404d992be14719]: Modification: S. 16(1) modified (N.I.) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 2 para. 3(2)(a)](https://www.legislation.gov.uk/nia/2015/2/schedule/2/paragraph/3/2/a)
 
 [^c8083451]: Textual amendment: Words in s. 16(1) repealed (1.1.1996) by [1995 c. 35](https://www.legislation.gov.uk/ukpga/1995/35), [s. 29(1)(2)](https://www.legislation.gov.uk/ukpga/1995/35/section/29/1/2), [Sch. 2 para. 12(2)](https://www.legislation.gov.uk/ukpga/1995/35/schedule/2/paragraph/12/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/1995/35/schedule/3); [S.I. 1995/3061](https://www.legislation.gov.uk/uksi/1995/3061), [art. 3(h)](https://www.legislation.gov.uk/uksi/1995/3061/article/3/h)
 
@@ -1219,7 +1219,7 @@ Section 51(2)
 
 [^c8083491]: Textual amendment: S. 18 substituted by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [s. 170](https://www.legislation.gov.uk/ukpga/1988/33/section/170), [Sch. 15 para. 75](https://www.legislation.gov.uk/ukpga/1988/33/schedule/15/paragraph/75)
 
-[^key-bb3b4729bebc7c26851f8f1576db4a34]: Textual amendment: S. 19 repealed (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/5/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3)); S.R. 2015/237, art. 2, Sch. 1
+[^c-bb3b4729bebc7c26851f8f1576db4a34]: Textual amendment: S. 19 repealed (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/5/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3)); S.R. 2015/237, art. 2, Sch. 1
 
 [^c20857741]: Textual amendment: Words in s. 21(1)(b) substituted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 15(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/15/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
@@ -1281,7 +1281,7 @@ Section 51(2)
 
 [^c8083621]: Textual amendment: Words in s. 27(6)(b) substituted (9.1.1995) by [S.I. 1994/2795 (N.I. 15)](https://www.legislation.gov.uk/nisi/1994/2795) art. 26(1), Sch. 2, para. 7; [S.R. 1994/446](https://www.legislation.gov.uk/nisr/1994/446), [art. 2](https://www.legislation.gov.uk/nisr/1994/446/article/2)
 
-[^key-07d1980099fd6068df53aa45d7265a29]: Modification: S. 28 applied (N.I.) (15.4.2016) by [The Criminal Defence Services (Remuneration) Order (Northern Ireland) 2016 (S.R. 2016/198)](https://www.legislation.gov.uk/nisr/2016/198), [arts. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1), [3(2)](https://www.legislation.gov.uk/nisr/2016/198/article/3/2)
+[^c-07d1980099fd6068df53aa45d7265a29]: Modification: S. 28 applied (N.I.) (15.4.2016) by [The Criminal Defence Services (Remuneration) Order (Northern Ireland) 2016 (S.R. 2016/198)](https://www.legislation.gov.uk/nisr/2016/198), [arts. 1](https://www.legislation.gov.uk/nisr/2016/198/article/1), [3(2)](https://www.legislation.gov.uk/nisr/2016/198/article/3/2)
 
 [^c8083671]: Marginal citation: [1968 c. 10 (N.I.)](https://www.legislation.gov.uk/apni/1968/10)
 
@@ -1289,17 +1289,17 @@ Section 51(2)
 
 [^c8083691]: Textual amendment: Words substituted by [S.I. 1982/159](https://www.legislation.gov.uk/uksi/1982/159), [art. 4](https://www.legislation.gov.uk/uksi/1982/159/article/4), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1982/159/schedule/paragraph/4)
 
-[^key-af5414817feae3fc84fc4a2558ca45d1]: Textual amendment: S. 28(2)(a) repealed (N.I.) (24.3.2016) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2016/199](https://www.legislation.gov.uk/nisr/2016/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/199/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/199/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/199/article/2/2))
+[^c-af5414817feae3fc84fc4a2558ca45d1]: Textual amendment: S. 28(2)(a) repealed (N.I.) (24.3.2016) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2016/199](https://www.legislation.gov.uk/nisr/2016/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/199/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/199/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/199/article/2/2))
 
 [^c8083701]: Textual amendment: Words inserted by [S.I. 1982/159](https://www.legislation.gov.uk/uksi/1982/159), [art. 4](https://www.legislation.gov.uk/uksi/1982/159/article/4), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1982/159/schedule/paragraph/4)
 
-[^key-dcaa6f186f1d1c0750f464ad1e7a13d4]: Textual amendment: Words in s. 28(2) repealed (N.I.) (24.3.2016) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2016/199](https://www.legislation.gov.uk/nisr/2016/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/199/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/199/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/199/article/2/2))
+[^c-dcaa6f186f1d1c0750f464ad1e7a13d4]: Textual amendment: Words in s. 28(2) repealed (N.I.) (24.3.2016) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2016/199](https://www.legislation.gov.uk/nisr/2016/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/199/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/199/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/199/article/2/2))
 
 [^c20858191]: Textual amendment: Words in s. 28(2) substituted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/16/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c19592831]: Textual amendment: S. 28(2AA) inserted (8.1.2007) by [Criminal Justice Act 2003 (2003 c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 331](https://www.legislation.gov.uk/ukpga/2003/44/section/331), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 36 Pt. 6 para. 93(3)](https://www.legislation.gov.uk/ukpga/2003/44/schedule/36/part/6/paragraph/93/3); [S.I. 2006/3422](https://www.legislation.gov.uk/uksi/2006/3422), [art. 2(c)](https://www.legislation.gov.uk/uksi/2006/3422/article/2/c)
 
-[^key-a6e859af7f03d4d1b9fd4f58e7620622]: Textual amendment: S. 28(2A)-(2G) repealed (N.I.) (24.3.2016) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2016/199](https://www.legislation.gov.uk/nisr/2016/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/199/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/199/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/199/article/2/2))
+[^c-a6e859af7f03d4d1b9fd4f58e7620622]: Textual amendment: S. 28(2A)-(2G) repealed (N.I.) (24.3.2016) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2016/199](https://www.legislation.gov.uk/nisr/2016/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/199/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/199/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/199/article/2/2))
 
 [^c20858231]: Textual amendment: Words in s. 28(3) substituted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/16/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
@@ -1313,7 +1313,7 @@ Section 51(2)
 
 [^c8083881]: Marginal citation: [1966 c. 20](https://www.legislation.gov.uk/ukpga/1966/20)
 
-[^key-9352906575a71f5264ecba8e54fa758f]: Textual amendment: Words in s. 30(1) inserted (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/5/3) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-9352906575a71f5264ecba8e54fa758f]: Textual amendment: Words in s. 30(1) inserted (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/5/3) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
 [^c8083891]: Textual amendment: S. 30(2) repealed (25.8.1996) by virtue of [1996 c. 22](https://www.legislation.gov.uk/ukpga/1996/22), [ss. 62(1)](https://www.legislation.gov.uk/ukpga/1996/22/section/62/1), [63(7)](https://www.legislation.gov.uk/ukpga/1996/22/section/63/7), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/1996/22/schedule/7/part/1) (with [s. 62(2)](https://www.legislation.gov.uk/ukpga/1996/22/section/62/2))
 
@@ -1323,7 +1323,7 @@ Section 51(2)
 
 [^c8083921]: Textual amendment: S. 30(3)(d)(e) inserted (24.3.2003) by [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 456](https://www.legislation.gov.uk/ukpga/2002/29/section/456), [458(1)(3)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1/3), [Sch. 11 para. 9(2)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/9/2); [S. I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2) Sch. (subject to arts. 3-10 (as amended by [S.I. 2003/531](https://www.legislation.gov.uk/uksi/2003/531), [arts. 3](https://www.legislation.gov.uk/uksi/2003/531/article/3), [4](https://www.legislation.gov.uk/uksi/2003/531/article/4)))
 
-[^key-835377453e2f5014c8551f9bf81c895e]: Textual amendment: Words in s. 30(3)(d) inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(3)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/3/b), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/4); [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/2/a)
+[^c-835377453e2f5014c8551f9bf81c895e]: Textual amendment: Words in s. 30(3)(d) inserted (1.6.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(3)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/3/b), [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/4); [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 3(2)(a)](https://www.legislation.gov.uk/nisr/2015/190/regulation/3/2/a)
 
 [^c8083931]: Textual amendment: S. 30(4) inserted (1.1.1998) by [S.I. 1996/3160](https://www.legislation.gov.uk/uksi/1996/3160) (NI 24) art. 58(1), Sch. 5 para. 8; [S.R. 1997/523](https://www.legislation.gov.uk/nisr/1997/523) art. 2(i)
 
@@ -1401,7 +1401,7 @@ Section 51(2)
 
 [^c20833581]: Textual amendment: S. 36(4) substituted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 47](https://www.legislation.gov.uk/ukpga/2008/4/section/47), [153(7)(8)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7/8), [Sch. 8 para. 24(7)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/8/paragraph/24/7); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1)(3), Sch. 1 para. 26 (subject to Sch. 2)
 
-[^key-a69d0461f7aa9dd3fcd7efaec7223e46]: Textual amendment: S. 37 repealed (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 5(4)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/5/4), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3)); S.R. 2015/237, art. 2, Sch. 1
+[^c-a69d0461f7aa9dd3fcd7efaec7223e46]: Textual amendment: S. 37 repealed (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 5(4)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/5/4), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3)); S.R. 2015/237, art. 2, Sch. 1
 
 [^M_F_11474a9b-571d-44c5-ab04-62a89ce0b312]: Textual amendment: Words in s. 38 substituted (18.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 81(5)](https://www.legislation.gov.uk/ukpga/2003/44/section/81/5), [336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3) (with [s. 96(5)](https://www.legislation.gov.uk/ukpga/2003/44/section/96/5)); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 3](https://www.legislation.gov.uk/uksi/2005/950/article/3)
 
@@ -1419,7 +1419,7 @@ Section 51(2)
 
 [^c19306881]: Textual amendment: Words in s. 41 substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 33(11)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/33/11); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-2d3471c6247e420482dbb2887486387c]: Textual amendment: Words in [s. 41(2)(b)](https://www.legislation.gov.uk/ukpga/1980/47/section/41/2/b) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 6](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/6); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-2d3471c6247e420482dbb2887486387c]: Textual amendment: Words in [s. 41(2)(b)](https://www.legislation.gov.uk/ukpga/1980/47/section/41/2/b) repealed (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 6](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/6); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^c19306971]: Textual amendment: Words in s. 42(2) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 40](https://www.legislation.gov.uk/ukpga/2005/4/section/40), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 9 para. 33(12)(a)(i)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/33/12/a/i); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
@@ -1435,13 +1435,13 @@ Section 51(2)
 
 [^c8084181]: Textual amendment: S. 45(2)(*d*) substituted by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [s. 170](https://www.legislation.gov.uk/ukpga/1988/33/section/170), [Sch. 15 para. 77](https://www.legislation.gov.uk/ukpga/1988/33/schedule/15/paragraph/77)
 
-[^key-0b735beecf1d5488ff12ef73637fc6e6]: Textual amendment: S. 45(2)(e) repealed (N.I.) (24.3.2016) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2016/199](https://www.legislation.gov.uk/nisr/2016/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/199/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/199/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/199/article/2/2))
+[^c-0b735beecf1d5488ff12ef73637fc6e6]: Textual amendment: S. 45(2)(e) repealed (N.I.) (24.3.2016) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2016/199](https://www.legislation.gov.uk/nisr/2016/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/199/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/199/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/199/article/2/2))
 
 [^c20837031]: Textual amendment: S. 45(2)(fa) inserted (N.I.) (2.2.2009) by [The Criminal Justice (Northern Ireland) Order 2008 (S.I. 2008/1216 (N.I. 1))](https://www.legislation.gov.uk/nisi/2008/1216), [arts. 1](https://www.legislation.gov.uk/nisi/2008/1216/article/1), [83(3)](https://www.legislation.gov.uk/nisi/2008/1216/article/83/3); [S.R. 2008/472](https://www.legislation.gov.uk/nisr/2008/472), [art. 2(4)](https://www.legislation.gov.uk/nisr/2008/472/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/nisr/2008/472/schedule/part/4)
 
-[^key-6b5150ebda4f0fa12e95200c6d636526]: Textual amendment: Words in s. 45(2)(fa) inserted (N.I.) (5.7.2011) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 18(7)](https://www.legislation.gov.uk/nia/2011/24/section/18/7), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2011/224](https://www.legislation.gov.uk/nisr/2011/224), [art. 2](https://www.legislation.gov.uk/nisr/2011/224/article/2)
+[^c-6b5150ebda4f0fa12e95200c6d636526]: Textual amendment: Words in s. 45(2)(fa) inserted (N.I.) (5.7.2011) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [ss. 18(7)](https://www.legislation.gov.uk/nia/2011/24/section/18/7), [111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3); [S.R. 2011/224](https://www.legislation.gov.uk/nisr/2011/224), [art. 2](https://www.legislation.gov.uk/nisr/2011/224/article/2)
 
-[^key-9bde7f817c93853a6358def92aa0f2a7]: Textual amendment: S. 45(3)(c) repealed (N.I.) (24.3.2016) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2016/199](https://www.legislation.gov.uk/nisr/2016/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/199/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/199/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/199/article/2/2))
+[^c-9bde7f817c93853a6358def92aa0f2a7]: Textual amendment: S. 45(3)(c) repealed (N.I.) (24.3.2016) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2016/199](https://www.legislation.gov.uk/nisr/2016/199), [art. 2(1)](https://www.legislation.gov.uk/nisr/2016/199/article/2/1), [Sch.](https://www.legislation.gov.uk/nisr/2016/199/schedule) (with [art. 2(2)](https://www.legislation.gov.uk/nisr/2016/199/article/2/2))
 
 [^c20837011]: Textual amendment: S. 45(3ZA) inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 47](https://www.legislation.gov.uk/ukpga/2008/4/section/47), [153(7)(8)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7/8), [Sch. 8 para. 21](https://www.legislation.gov.uk/ukpga/2008/4/schedule/8/paragraph/21); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1)(3), Sch. 1 para. 26 (subject to Sch. 2)
 
@@ -1467,7 +1467,7 @@ Section 51(2)
 
 [^c8084251]: Modification: The text of s. 51(1)(2) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-0335b249c61ec7b8ab753876aa454b1b]: Textual amendment: Sch. 1 para. 1 repealed (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 5(5)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/5/5), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3)); S.R. 2015/237, art. 2, Sch. 1
+[^c-0335b249c61ec7b8ab753876aa454b1b]: Textual amendment: Sch. 1 para. 1 repealed (N.I.) (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435 (N.I. 10))](https://www.legislation.gov.uk/nisi/2003/435), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/435/article/1/2), [Sch. 4 para. 5(5)](https://www.legislation.gov.uk/nisi/2003/435/schedule/4/paragraph/5/5), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5) (with [art. 45](https://www.legislation.gov.uk/nisi/2003/435/article/45)); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3)); S.R. 2015/237, art. 2, Sch. 1
 
 [^c19307931]: Textual amendment: [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1980/47/schedule/1/paragraph/2) and preceding cross-heading substituted (N.I) (18.4.2005) for Sch. 1 para. 2, 2A and preceding cross-heading by [The Criminal Justice (Evidence) (Northern Ireland) Order 2004 (S.I. 2004/1501 (N.I. 10))](https://www.legislation.gov.uk/nisi/2004/1501), [arts. 1](https://www.legislation.gov.uk/nisi/2004/1501/article/1), [34](https://www.legislation.gov.uk/nisi/2004/1501/article/34) (with savings in [art. 43](https://www.legislation.gov.uk/nisi/2004/1501/article/43)); [S.R. 2005/242](https://www.legislation.gov.uk/nisr/2005/242), [art. 2](https://www.legislation.gov.uk/nisr/2005/242/article/2)
 

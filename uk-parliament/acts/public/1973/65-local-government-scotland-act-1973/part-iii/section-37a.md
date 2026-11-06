@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37A. Power of returning officer to postpone election for casual vacancy[^key-45084de4d3a7369eabc397be957a859f]
+## 37A. Power of returning officer to postpone election for casual vacancy[^c-45084de4d3a7369eabc397be957a859f]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-45084de4d3a7369eabc397be957a859f]: Textual amendment: [Ss. 37A-37C](https://www.legislation.gov.uk/ukpga/1973/65/section/37A) inserted (14.4.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 34(2)](https://www.legislation.gov.uk/asp/2025/4/section/34/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-45084de4d3a7369eabc397be957a859f]: Textual amendment: [Ss. 37A-37C](https://www.legislation.gov.uk/ukpga/1973/65/section/37A) inserted (14.4.2025) by [Scottish Elections (Representation and Reform) Act 2025 (asp 4)](https://www.legislation.gov.uk/asp/2025/4), [ss. 34(2)](https://www.legislation.gov.uk/asp/2025/4/section/34/2), [73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2); [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

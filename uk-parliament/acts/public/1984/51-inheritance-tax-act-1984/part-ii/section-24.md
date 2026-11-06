@@ -34,7 +34,7 @@ summary: ''
 
 (4) For the purposes of section 23(2) to (5) as they apply by virtue of subsection (3) above property is given to any person or body if it becomes the property of or is held on trust for that person or body, and “**donor**” shall be construed accordingly.
 
-(5)[^key-42acb5134c405686d49d3670001860b5] To the extent that the value transferred by a transfer of value made on the death of a member of a pension scheme is attributable to the member’s notional pension property—
+(5)[^c-42acb5134c405686d49d3670001860b5] To the extent that the value transferred by a transfer of value made on the death of a member of a pension scheme is attributable to the member’s notional pension property—
 
 - (a) the value transferred is treated for the purposes of this section as also attributable to any property that on the death of the member is given under the scheme to a political party qualifying for exemption under this section, and
 - (b) section 23(2) does not (despite subsection (3)) apply in relation to subsection (1).
@@ -45,4 +45,4 @@ summary: ''
 
 [^c13607481]: Textual amendment: *Repealed by* Finance Act 1988 s. 137*and* Sch.14, Part X*in relation to transfers of value made on or after* 15*March* 1988.
 
-[^key-42acb5134c405686d49d3670001860b5]: Textual amendment: [S. 24(5)](https://www.legislation.gov.uk/ukpga/1984/51/section/24/5) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/5), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-42acb5134c405686d49d3670001860b5]: Textual amendment: [S. 24(5)](https://www.legislation.gov.uk/ukpga/1984/51/section/24/5) inserted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 69(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/69/5), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

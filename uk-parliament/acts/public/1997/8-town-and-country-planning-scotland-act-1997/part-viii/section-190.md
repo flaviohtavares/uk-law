@@ -29,7 +29,7 @@ summary: ''
 
   otherwise than for the public service.
 
-(1A)[^key-ecdcee85bcfee07080f5cc12cb9871d3] But subsection (1) does not permit the acquisition of any interest in Crown land unless—
+(1A)[^c-ecdcee85bcfee07080f5cc12cb9871d3] But subsection (1) does not permit the acquisition of any interest in Crown land unless—
 
 - (a) it is an interest which is for the time being held otherwise than by or on behalf of the Crown, and
 - (b) the appropriate authority consents to the acquisition.
@@ -56,14 +56,14 @@ he may compulsorily acquire that land.
 
 (7) For the purpose of subsection (6)(b), “**treaty**” includes any international agreement, and any protocol or annex to a treaty or international agreement.
 
-(8)[^key-0f0299c1d54807b69d43e4a3895dc43f] Crown land must be construed in accordance with Part 12.
+(8)[^c-0f0299c1d54807b69d43e4a3895dc43f] Crown land must be construed in accordance with Part 12.
 
 ## Annotations
 
-[^key-ecdcee85bcfee07080f5cc12cb9871d3]: Textual amendment: S. 190(1A) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/4/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-ecdcee85bcfee07080f5cc12cb9871d3]: Textual amendment: S. 190(1A) inserted (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 4(2)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/4/2) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
 
 [^c950188]: Marginal citation: [1980 c. 65](https://www.legislation.gov.uk/ukpga/1980/65).
 
 [^c950189]: Marginal citation: [1947 c. 42](https://www.legislation.gov.uk/ukpga/1947/42).
 
-[^key-0f0299c1d54807b69d43e4a3895dc43f]: Textual amendment: S. 190(8) added (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/4/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)
+[^c-0f0299c1d54807b69d43e4a3895dc43f]: Textual amendment: S. 190(8) added (12.6.2006) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 121(4)](https://www.legislation.gov.uk/ukpga/2004/5/section/121/4), [Sch. 5 para. 4(3)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/5/paragraph/4/3) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(f)](https://www.legislation.gov.uk/ssi/2006/268/article/3/f)

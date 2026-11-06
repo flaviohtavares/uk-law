@@ -35,7 +35,7 @@ Finance Act 1953
 
 ## Part IV — Miscellaneous and General
 
-### 31. Stamp duties.[^key-08416d72a00afa43cafcf585c8211b5b]
+### 31. Stamp duties.[^c-08416d72a00afa43cafcf585c8211b5b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -53,4 +53,4 @@ Finance Act 1953
 
 [^c6032071]: Commencement: Act partly in force at Royal Assent, partly retrospective, see individual sections; all provisions so far as unrepealed wholly in force at 1.2.1991.
 
-[^key-08416d72a00afa43cafcf585c8211b5b]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/34/section/31) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 6](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/6)
+[^c-08416d72a00afa43cafcf585c8211b5b]: Textual amendment: [S. 31](https://www.legislation.gov.uk/ukpga/Eliz2/1-2/34/section/31) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 6](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/6)

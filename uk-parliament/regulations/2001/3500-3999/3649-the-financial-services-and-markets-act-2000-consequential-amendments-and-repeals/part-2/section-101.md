@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Definitions for purposes of Part 5[^key-b32c03bb51131b91969227296bd543e9]
+## 101. Definitions for purposes of Part 5[^c-b32c03bb51131b91969227296bd543e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b32c03bb51131b91969227296bd543e9]: Commencement: Art. 101 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b32c03bb51131b91969227296bd543e9]: Commencement: Art. 101 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

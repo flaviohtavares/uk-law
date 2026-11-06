@@ -25,7 +25,7 @@ summary: ''
 - (a)[^c11859061][^c11859071] in section 48 of the [^c11859081]Finance (No. 2) Act 1915 (procedure on death of a person entitled to government stock), for the words “the Postmaster General” there shall be substituted the words “the Director of Savings” ;
 - (b)[^c11859071] in sections 66 (transfer of government stock on authority of order of a court) and 67 (indemnity on transfer of government stock) of the [^c11859101]Finance Act 1916, for the words “the Postmaster General” there shall be substituted the words “the Director of Savings” ;
 - (c) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11859111]
-- (d)[^key-f1d9dbc6c5df8fa6c45ed26583c04fad][^c11859071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-f1d9dbc6c5df8fa6c45ed26583c04fad][^c11859071] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c11859151]
 - (f)[^c11859071] in section 1(4)(c) of the [^c11859171]Stock Transfer Act 1963 (simplified transfer of securities), for the words “the Post Office register” there shall be substituted the words “the National Savings Stock Register”; and
 - (g) any reference to the Postmaster General in a nomination executed under regulations made, or having effect as if made, under section 2 of the [^c11859181]National Debt Act 1958 shall be construed as referring to the Director of Savings.
@@ -44,7 +44,7 @@ summary: ''
 
 [^c11859111]: Textual amendment: S. 108(1)(c) repealed by [Finance Act 1981 (c. 26, SIF 96)](https://www.legislation.gov.uk/ukpga/1981/26), [s. 187](https://www.legislation.gov.uk/ukpga/1981/26/section/187), [Sch. 17 Pt. XII](https://www.legislation.gov.uk/ukpga/1981/26/schedule/17/part/XII) and expressed to be repealed (20.7.1998) by [S.I. 1998/1446](https://www.legislation.gov.uk/uksi/1998/1446), 30(2), Sch. 2 Pt. I
 
-[^key-f1d9dbc6c5df8fa6c45ed26583c04fad]: Textual amendment: [S. 108(1)(d)](https://www.legislation.gov.uk/ukpga/1969/48/section/108/1/d) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
+[^c-f1d9dbc6c5df8fa6c45ed26583c04fad]: Textual amendment: [S. 108(1)(d)](https://www.legislation.gov.uk/ukpga/1969/48/section/108/1/d) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 6
 
 [^c11859151]: Textual amendment: S. 108 (1)(*e*) repealed by [National Debt Act 1972 (c. 65)](https://www.legislation.gov.uk/ukpga/1972/65), [s. 17](https://www.legislation.gov.uk/ukpga/1972/65/section/17), [Sch.](https://www.legislation.gov.uk/ukpga/1972/65/schedule)
 

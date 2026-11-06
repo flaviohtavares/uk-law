@@ -250,7 +250,7 @@ In this Part of this Schedule, “**measuring system**” means a measuring syst
 
 *Extent: E+W+S*
 
-In this Part references to an automatic catchweigher are to accuracy classes Y(I), Y(II), Y(a) and Y(b) as defined in Schedule 1G[^key-845e5f88dbac212678d9520bc024411b].
+In this Part references to an automatic catchweigher are to accuracy classes Y(I), Y(II), Y(a) and Y(b) as defined in Schedule 1G[^c-845e5f88dbac212678d9520bc024411b].
 
 #### 15. Requirements for use for trade of automatic catchweighers
 
@@ -601,6 +601,6 @@ No person shall use for trade a capacity serving measure for the measurement of 
 
 ## Annotations
 
-[^key-845e5f88dbac212678d9520bc024411b]: Textual amendment: Words in Sch. 6 para. 14 substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 53](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/53) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-845e5f88dbac212678d9520bc024411b]: Textual amendment: Words in Sch. 6 para. 14 substituted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 53](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/53) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23163531]: Marginal citation: [1996 c.8](https://www.legislation.gov.uk/ukpga/1996/8).

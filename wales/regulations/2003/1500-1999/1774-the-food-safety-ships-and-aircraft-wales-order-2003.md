@@ -57,7 +57,7 @@ This Order which may be cited as the Food Safety (Ships and Aircraft) (Wales) Or
 - “**innocent passage**” (“***tramwyo'n ddiniwed***”) has the same meaning as it has for the purposes of Part II Section 3A of the United Nations Convention on the Law of the Sea;
 - “**internal waters**” (“***dyfroedd mewnol***”) has the same meaning as it has for the purposes of Article 8(1) of the United Nations Convention on the Law of the Sea;
 - “**the principal Hygiene and Temperature Control provisions**” (“***y prif ddarpariaeth Rheoli Hylendid a Thymheredd***”) means —
-  - (a) [^key-20c47e50b4f32207319ac8e6bcc26765]...
+  - (a) [^c-20c47e50b4f32207319ac8e6bcc26765]...
   - (b) the Food Safety (Temperature Control) Regulations 1995 [^c5185411] except regulations 4 — 9 and 12 and Part III of those Regulations.
 - “**sovereign immune ship or aircraft**” (“***llong neu awyren freintrydd sofran***”) means a ship or aircraft belonging to a State other than the United Kingdom and which is not in use for commercial purposes;
 - “**territorial sea**” (“***môr tiriogaethol***”) has the same meaning as it has for the purposes of the Territorial Sea Act 1987 [^c5185421];
@@ -82,7 +82,7 @@ Article 3
 **2.** Any other ship or any aircraft, which is not an exempt ship or aircraft —
 
 - (a) for the purpose of ascertaining whether there is in the ship or aircraft any food imported as part of the cargo in contravention of the provisions of regulations made under Part II of the Act;
-- (b) [^key-2c1b6049438066f6dac232e1868d95b4]... and
+- (b) [^c-2c1b6049438066f6dac232e1868d95b4]... and
 - (c) for the purpose of applying sections 11 and 12 of the Act:
 
 and references to “premises” in sections 2, 3, 29, 32 and 50 of the Act shall include any ship or aircraft of a description specified in this paragraph both in relation to any purposes specified in this paragraph and in relation to sections 8 to 10 of the Act.
@@ -103,7 +103,7 @@ A Regulatory Appraisal for these Regulations has been prepared pursuant to secti
 
 [^c5185391]: Marginal citation: [1990 c. 16](https://www.legislation.gov.uk/ukpga/1990/16). Functions of Secretary of State so far as exercisable in relation to Wales were transferred to the National Assembly for Wales by the [National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. 1999/672)](https://www.legislation.gov.uk/uksi/1999/672) as read with section 40(3) of the Food Standards Act 1999.
 
-[^key-20c47e50b4f32207319ac8e6bcc26765]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/wsi/2003/1774/article/2/1) revoked (1.1.2006) by [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7)
+[^c-20c47e50b4f32207319ac8e6bcc26765]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/wsi/2003/1774/article/2/1) revoked (1.1.2006) by [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7)
 
 [^c5185411]: Marginal citation: [S.I. 1995/2200](https://www.legislation.gov.uk/uksi/1995/2200) as amended by [S.I. 1995/3205](https://www.legislation.gov.uk/uksi/1995/3205), 1996/1499, 1998/994, 1998/1398 and 2000/656.
 
@@ -111,7 +111,7 @@ A Regulatory Appraisal for these Regulations has been prepared pursuant to secti
 
 [^c5185431]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-2c1b6049438066f6dac232e1868d95b4]: Textual amendment: [Sch. para. 2(b)](https://www.legislation.gov.uk/wsi/2003/1774/schedule/paragraph/2/b) revoked (1.1.2006) by [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7)
+[^c-2c1b6049438066f6dac232e1868d95b4]: Textual amendment: [Sch. para. 2(b)](https://www.legislation.gov.uk/wsi/2003/1774/schedule/paragraph/2/b) revoked (1.1.2006) by [The Food Hygiene (Wales) Regulations 2005 (S.I. 2005/3292)](https://www.legislation.gov.uk/wsi/2005/3292), [reg. 1](https://www.legislation.gov.uk/wsi/2005/3292/regulation/1), [Sch. 7](https://www.legislation.gov.uk/wsi/2005/3292/schedule/7)
 
 [^c5185441]: Marginal citation: OJ No. L175, 19.7.93, p.1, as amended by Directive 96/3 (OJ No. L21, 27.1.96, p.42) and Directive 98/28 (OJ No.L140, 12.5.98, p.10).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Financial provisions[^key-6d3c05066a4d744f7792a86cbdc3489a]
+## 61. Financial provisions[^c-6d3c05066a4d744f7792a86cbdc3489a]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The following are to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-6d3c05066a4d744f7792a86cbdc3489a]: Commencement: S. 61 in force at Royal Assent, see [s. 65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)
+[^c-6d3c05066a4d744f7792a86cbdc3489a]: Commencement: S. 61 in force at Royal Assent, see [s. 65(3)(d)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/d)

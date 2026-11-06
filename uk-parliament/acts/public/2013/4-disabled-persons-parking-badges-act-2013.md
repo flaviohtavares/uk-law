@@ -36,7 +36,7 @@ An Act to amend section 21 of the Chronically Sick and Disabled Persons Act 1970
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Form of parking badges[^key-455efa04c3efaadbedd5e73b20bc683b]
+## 1. Form of parking badges[^c-455efa04c3efaadbedd5e73b20bc683b]
 
 (1) In the Chronically Sick and Disabled Persons Act 1970 (“**the 1970 Act**”), section 21 (badges for display on motor vehicles used by disabled persons) is amended as set out in subsections (2) to (6).
 
@@ -59,7 +59,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (8) Any provision of regulations in force on the commencement of this section that prescribes the form of a badge issued by a local authority in England and Wales continues to have effect (until revoked) as if the reference to specifying a form in subsection (1A) of section 21 of the 1970 Act (inserted by subsection (3) above) included a reference to prescribing a form.
 
-## 2. Cancellation of parking badges[^key-77950b6cec88b0abcd9570e387c4ead7]
+## 2. Cancellation of parking badges[^c-77950b6cec88b0abcd9570e387c4ead7]
 
 (1) Section 21 of the 1970 Act is further amended as follows.
 
@@ -76,7 +76,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) In subsection (7D), after “which is required to be returned to the issuing authority by virtue of subsection (6) above” there is inserted “ , or which is cancelled under subsection (7AB) above, ”.
 
-## 3. Use of parking badges that are no longer valid[^key-4bf9f65811d044b73339b4ba5492aa67]
+## 3. Use of parking badges that are no longer valid[^c-4bf9f65811d044b73339b4ba5492aa67]
 
 (1) Section 21 of the 1970 Act is further amended as set out in subsections (2) and (3).
 
@@ -96,7 +96,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 > - (a) should have been returned to the issuing authority in compliance with regulations under subsection (6) of that section or a notice under subsection (7A)(b) of that section, or
 > - (b) has been cancelled under subsection (7AB) of that section.
 
-## 4. Enforcement[^key-cd26b3aa2019d9903262cb96bea13ade]
+## 4. Enforcement[^c-cd26b3aa2019d9903262cb96bea13ade]
 
 (1) Section 21 of the 1970 Act is further amended as follows.
 
@@ -122,7 +122,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 >
 > (4E) Regulations may prescribe what is to be done with a badge retained under subsection (4D) above.
 
-## 5. Appeal against refusal to issue badge or requirement to return badge[^key-e4103c00b5e5545aacfe2f5d42344f69]
+## 5. Appeal against refusal to issue badge or requirement to return badge[^c-e4103c00b5e5545aacfe2f5d42344f69]
 
 (1) Section 21 of the 1970 Act is further amended as set out in subsections (2) and (3).
 
@@ -139,7 +139,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 (4) Subsection (2) does not affect any appeal under section 21(7C) of the 1970 Act initiated before the commencement of this section; and subsection (3) does not apply to a badge, issued by a local authority in England, to which any such appeal relates.
 
-## 6. Parking badges for disabled service personnel etc overseas[^key-e74a834683b8602585f404c58779771f]
+## 6. Parking badges for disabled service personnel etc overseas[^c-e74a834683b8602585f404c58779771f]
 
 Before subsection (9) of section 21 of the 1970 Act there is inserted—
 
@@ -155,7 +155,7 @@ Before subsection (9) of section 21 of the 1970 Act there is inserted—
 >
 > (8D) Subsections (1)(a), (2) and (4) have effect in relation to disabled persons within subsection (8B) as if “a place prescribed under subsection (8B)” were substituted for “the area of the issuing authority”.
 
-## 7. Extent, commencement and short title[^key-2023da99db77caf27a03749da2a648f3]
+## 7. Extent, commencement and short title[^c-2023da99db77caf27a03749da2a648f3]
 
 (1) This Act extends to England and Wales and Scotland.
 
@@ -165,16 +165,16 @@ Before subsection (9) of section 21 of the 1970 Act there is inserted—
 
 ## Annotations
 
-[^key-455efa04c3efaadbedd5e73b20bc683b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/4/section/1) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+[^c-455efa04c3efaadbedd5e73b20bc683b]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2013/4/section/1) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
 
-[^key-77950b6cec88b0abcd9570e387c4ead7]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/4/section/2) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+[^c-77950b6cec88b0abcd9570e387c4ead7]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/4/section/2) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
 
-[^key-4bf9f65811d044b73339b4ba5492aa67]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/4/section/3) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+[^c-4bf9f65811d044b73339b4ba5492aa67]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2013/4/section/3) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
 
-[^key-cd26b3aa2019d9903262cb96bea13ade]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/4/section/4) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+[^c-cd26b3aa2019d9903262cb96bea13ade]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2013/4/section/4) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
 
-[^key-e4103c00b5e5545aacfe2f5d42344f69]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/4/section/5) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+[^c-e4103c00b5e5545aacfe2f5d42344f69]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2013/4/section/5) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
 
-[^key-e74a834683b8602585f404c58779771f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/4/section/6) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+[^c-e74a834683b8602585f404c58779771f]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2013/4/section/6) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
 
-[^key-2023da99db77caf27a03749da2a648f3]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/4/section/7) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)
+[^c-2023da99db77caf27a03749da2a648f3]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2013/4/section/7) in force at 8.10.2013 by [S.I. 2013/2202](https://www.legislation.gov.uk/uksi/2013/2202), [art. 2](https://www.legislation.gov.uk/uksi/2013/2202/article/2)

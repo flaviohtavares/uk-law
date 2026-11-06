@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 91. Transitory modification of Article 21 of the 1991 Order[^key-89d879859cfcbf297cdf0bb93898096b]
+## 91. Transitory modification of Article 21 of the 1991 Order[^c-89d879859cfcbf297cdf0bb93898096b]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ For as long as default contracts entered into pursuant to Article 5 of the 2004 
 
 ## Annotations
 
-[^key-89d879859cfcbf297cdf0bb93898096b]: Commencement: Art. 91 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-89d879859cfcbf297cdf0bb93898096b]: Commencement: Art. 91 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

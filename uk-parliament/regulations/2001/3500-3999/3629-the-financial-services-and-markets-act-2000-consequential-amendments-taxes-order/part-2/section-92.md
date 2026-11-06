@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Introduction[^key-76c3056c1f505dcfe656093da0c3e914]
+## 92. Introduction[^c-76c3056c1f505dcfe656093da0c3e914]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Finance Act 1996 in accordance with Articles 93 to 96.
 
 ## Annotations
 
-[^key-76c3056c1f505dcfe656093da0c3e914]: Commencement: Art. 92 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-76c3056c1f505dcfe656093da0c3e914]: Commencement: Art. 92 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004[^key-6b0ba97c1233930d117936ef8fbdcd83]
+## 30. The Town and Country Planning (Electronic Communications) (Wales) (No. 1) Order 2004[^c-6b0ba97c1233930d117936ef8fbdcd83]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ In the Town and Country Planning (Electronic Communications) (Wales) (No. 1) Ord
 
 ## Annotations
 
-[^key-6b0ba97c1233930d117936ef8fbdcd83]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2024/924/regulation/30) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-6b0ba97c1233930d117936ef8fbdcd83]: Commencement: [Reg. 30](https://www.legislation.gov.uk/wsi/2024/924/regulation/30) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00022]: Footnote: [S.I. 2004/3156 (W. 273)](https://www.legislation.gov.uk/wsi/2004/3156), to which there is an amendment not relevant to these Regulations.

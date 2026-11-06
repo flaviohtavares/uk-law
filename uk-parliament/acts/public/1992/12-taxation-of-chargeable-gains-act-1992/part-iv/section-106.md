@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Disposal of shares and securities by company within prescribed period of acquisition.[^key-c13e6a6e0768b3ca9f358a762e1a0df4]
+## 106. Disposal of shares and securities by company within prescribed period of acquisition.[^c-c13e6a6e0768b3ca9f358a762e1a0df4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c13e6a6e0768b3ca9f358a762e1a0df4]: Textual amendment: S. 106 repealed (with effect in accordance with s. 72(3) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 72(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/72/1), [Sch. 26 Pt. 3(9)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/9)
+[^c-c13e6a6e0768b3ca9f358a762e1a0df4]: Textual amendment: S. 106 repealed (with effect in accordance with s. 72(3) of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 72(1)](https://www.legislation.gov.uk/ukpga/2006/25/section/72/1), [Sch. 26 Pt. 3(9)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/3/9)

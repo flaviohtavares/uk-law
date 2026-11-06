@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12D. Duty to cooperate with independent expert[^key-8271dae0e9d2f73712d54d17f64b52ad]
+## 12D. Duty to cooperate with independent expert[^c-8271dae0e9d2f73712d54d17f64b52ad]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8271dae0e9d2f73712d54d17f64b52ad]: Textual amendment: [Ss. 12A-12D](https://www.legislation.gov.uk/ukpga/2003/26/section/12A) and cross-heading inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 78(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/78/2), [255(2)(p)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/p) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/a)
+[^c-8271dae0e9d2f73712d54d17f64b52ad]: Textual amendment: [Ss. 12A-12D](https://www.legislation.gov.uk/ukpga/2003/26/section/12A) and cross-heading inserted (31.1.2024) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 78(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/78/2), [255(2)(p)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/p) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/92/regulation/2/a)

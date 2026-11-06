@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 78. Regulations and orders[^key-a391cc41e4cb5b074021e611259abb4e]
+## 78. Regulations and orders[^c-a391cc41e4cb5b074021e611259abb4e]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a391cc41e4cb5b074021e611259abb4e]: Textual amendment: Art. 78 omitted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/22) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-a391cc41e4cb5b074021e611259abb4e]: Textual amendment: Art. 78 omitted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 22](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/22) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

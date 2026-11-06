@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40A. Recovery of arrears from deceased's estate[^key-21842df610620e2d0a5017fd99e323ac]
+## 40A. Recovery of arrears from deceased's estate[^c-21842df610620e2d0a5017fd99e323ac]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21842df610620e2d0a5017fd99e323ac]: Textual amendment: [Art. 40A](https://www.legislation.gov.uk/nisi/1991/2628/article/40A) inserted (26.11.2009) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 29](https://www.legislation.gov.uk/nia/2008/10/section/29), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)); [S.R. 2009/380](https://www.legislation.gov.uk/nisr/2009/380), [art. 2(2)](https://www.legislation.gov.uk/nisr/2009/380/article/2/2)
+[^c-21842df610620e2d0a5017fd99e323ac]: Textual amendment: [Art. 40A](https://www.legislation.gov.uk/nisi/1991/2628/article/40A) inserted (26.11.2009) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 29](https://www.legislation.gov.uk/nia/2008/10/section/29), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)); [S.R. 2009/380](https://www.legislation.gov.uk/nisr/2009/380), [art. 2(2)](https://www.legislation.gov.uk/nisr/2009/380/article/2/2)

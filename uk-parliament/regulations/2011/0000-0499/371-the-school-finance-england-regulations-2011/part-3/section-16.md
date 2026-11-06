@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Special arrangements for pupils in maintained nursery schools and nursery classes and for children receiving relevant early years provision[^key-e838dba9e2c160d292b592e26812a967]
+## 16. Special arrangements for pupils in maintained nursery schools and nursery classes and for children receiving relevant early years provision[^c-e838dba9e2c160d292b592e26812a967]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ a local authority may take into account in their formula the number of places th
 
 ## Annotations
 
-[^key-e838dba9e2c160d292b592e26812a967]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2011/371/regulation/16) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-e838dba9e2c160d292b592e26812a967]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2011/371/regulation/16) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

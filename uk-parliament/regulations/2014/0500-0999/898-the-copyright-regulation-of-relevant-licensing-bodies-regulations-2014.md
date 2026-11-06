@@ -32,7 +32,7 @@ summary: ''
 
 Copyright
 
-The Copyright (Regulation of Relevant Licensing Bodies) Regulations 2014 (revoked)[^key-127c026e7c663a09e9e998b449305a30]
+The Copyright (Regulation of Relevant Licensing Bodies) Regulations 2014 (revoked)[^c-127c026e7c663a09e9e998b449305a30]
 
 Made
 
@@ -42,112 +42,112 @@ Coming into force
 
 6th April 2014
 
-[^key-127c026e7c663a09e9e998b449305a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-127c026e7c663a09e9e998b449305a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Preliminary[^key-127c026e7c663a09e9e998b449305a30]
+## PART 1 — Preliminary[^c-127c026e7c663a09e9e998b449305a30]
 
-### 1. Citation and commencement[^key-127c026e7c663a09e9e998b449305a30]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-127c026e7c663a09e9e998b449305a30]
+### 1. Citation and commencement[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Regulation of relevant licensing bodies[^key-127c026e7c663a09e9e998b449305a30]
-
-### 3. Notice of non-compliance and direction to adopt a code of practice[^key-127c026e7c663a09e9e998b449305a30]
+### 2. Interpretation[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Effect of a direction[^key-127c026e7c663a09e9e998b449305a30]
+## PART 2 — Regulation of relevant licensing bodies[^c-127c026e7c663a09e9e998b449305a30]
+
+### 3. Notice of non-compliance and direction to adopt a code of practice[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Imposition of code of practice[^key-127c026e7c663a09e9e998b449305a30]
+### 4. Effect of a direction[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Code reviewer[^key-127c026e7c663a09e9e998b449305a30]
+### 5. Imposition of code of practice[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Licensing code ombudsman[^key-127c026e7c663a09e9e998b449305a30]
+### 6. Code reviewer[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Recovery of fees by the Secretary of State[^key-127c026e7c663a09e9e998b449305a30]
+### 7. Licensing code ombudsman[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Information and financial penalties[^key-127c026e7c663a09e9e998b449305a30]
-
-### 9. Secretary of State’s powers to request information[^key-127c026e7c663a09e9e998b449305a30]
+### 8. Recovery of fees by the Secretary of State[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Financial penalties[^key-127c026e7c663a09e9e998b449305a30]
+## PART 3 — Information and financial penalties[^c-127c026e7c663a09e9e998b449305a30]
+
+### 9. Secretary of State’s powers to request information[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Imposition of a financial penalty: main procedural requirements[^key-127c026e7c663a09e9e998b449305a30]
+### 10. Financial penalties[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Appeals[^key-127c026e7c663a09e9e998b449305a30]
+### 11. Imposition of a financial penalty: main procedural requirements[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Calculating time[^key-127c026e7c663a09e9e998b449305a30]
+### 12. Appeals[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-127c026e7c663a09e9e998b449305a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 13. Calculating time[^c-127c026e7c663a09e9e998b449305a30]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-127c026e7c663a09e9e998b449305a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SPECIFIED CRITERIA[^key-127c026e7c663a09e9e998b449305a30]
+## SCHEDULE — SPECIFIED CRITERIA[^c-127c026e7c663a09e9e998b449305a30]
 
 Regulation 2
 
-**1.**[^key-127c026e7c663a09e9e998b449305a30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-127c026e7c663a09e9e998b449305a30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Obligations to rights holders, members and licensees[^key-127c026e7c663a09e9e998b449305a30]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 3. Requirements imposed on licensees[^key-127c026e7c663a09e9e998b449305a30]
+### 2. Obligations to rights holders, members and licensees[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Conduct of employees, agents and representatives[^key-127c026e7c663a09e9e998b449305a30]
+### 3. Requirements imposed on licensees[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Information and transparency – monitoring and reporting requirements[^key-127c026e7c663a09e9e998b449305a30]
+### 4. Conduct of employees, agents and representatives[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Reporting requirements[^key-127c026e7c663a09e9e998b449305a30]
+### 5. Information and transparency – monitoring and reporting requirements[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Resolution of complaints and disputes[^key-127c026e7c663a09e9e998b449305a30]
+### 6. Reporting requirements[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-127c026e7c663a09e9e998b449305a30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 7. Resolution of complaints and disputes[^c-127c026e7c663a09e9e998b449305a30]
 
-### 9. Ombudsman Scheme[^key-127c026e7c663a09e9e998b449305a30]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**8.**[^c-127c026e7c663a09e9e998b449305a30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Ombudsman Scheme[^c-127c026e7c663a09e9e998b449305a30]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-127c026e7c663a09e9e998b449305a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-127c026e7c663a09e9e998b449305a30]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-127c026e7c663a09e9e998b449305a30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/898) revoked (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [reg. 45](https://www.legislation.gov.uk/uksi/2016/221/regulation/45) (with [reg. 47](https://www.legislation.gov.uk/uksi/2016/221/regulation/47))
+[^c-127c026e7c663a09e9e998b449305a30]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/898) revoked (10.4.2016) by [The Collective Management of Copyright (EU Directive) Regulations 2016 (S.I. 2016/221)](https://www.legislation.gov.uk/uksi/2016/221), [reg. 45](https://www.legislation.gov.uk/uksi/2016/221/regulation/45) (with [reg. 47](https://www.legislation.gov.uk/uksi/2016/221/regulation/47))

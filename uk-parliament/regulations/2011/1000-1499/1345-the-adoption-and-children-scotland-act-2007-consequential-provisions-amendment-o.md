@@ -36,7 +36,7 @@ Devolution, Scotland
 
 Children And Young Persons
 
-The Adoption and Children (Scotland) Act 2007 (Consequential Provisions) (Amendment) Order 2011 (revoked)[^key-4875f47160897407f16589a8b22e6df3]
+The Adoption and Children (Scotland) Act 2007 (Consequential Provisions) (Amendment) Order 2011 (revoked)[^c-4875f47160897407f16589a8b22e6df3]
 
 Made
 
@@ -50,26 +50,26 @@ Coming into force
 
 30th June 2011
 
-[^key-4875f47160897407f16589a8b22e6df3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4875f47160897407f16589a8b22e6df3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4875f47160897407f16589a8b22e6df3]
+## 1. Citation and commencement[^c-4875f47160897407f16589a8b22e6df3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Adoption and Children (Scotland) Act 2007 (Consequential Provisions) Order 2010[^key-4875f47160897407f16589a8b22e6df3]
+## 2. Amendment of the Adoption and Children (Scotland) Act 2007 (Consequential Provisions) Order 2010[^c-4875f47160897407f16589a8b22e6df3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4875f47160897407f16589a8b22e6df3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4875f47160897407f16589a8b22e6df3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4875f47160897407f16589a8b22e6df3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4875f47160897407f16589a8b22e6df3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4875f47160897407f16589a8b22e6df3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4875f47160897407f16589a8b22e6df3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4875f47160897407f16589a8b22e6df3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1345) revoked (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)
+[^c-4875f47160897407f16589a8b22e6df3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/1345) revoked (15.7.2011) by [The Adoption and Children (Scotland) Act 2007 (Consequential Modifications) Order 2011 (S.I. 2011/1740)](https://www.legislation.gov.uk/uksi/2011/1740), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/1740/article/1/2), [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1740/schedule/2/part/3)

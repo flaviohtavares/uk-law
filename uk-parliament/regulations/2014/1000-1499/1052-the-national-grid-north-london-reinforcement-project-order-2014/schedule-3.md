@@ -22,7 +22,7 @@ summary: ''
 
 Article 45
 
-### 1. Applications made under requirements[^key-28f5310d68b8b7af6c4480356c887aba]
+### 1. Applications made under requirements[^c-28f5310d68b8b7af6c4480356c887aba]
 
 (1) Where an application has been made to a relevant authority for any consent, agreement or approval required by a requirement included in Schedule 2, the relevant authority must give notice to the undertaker of its decision on the application within a period of 28 days beginning with—
 
@@ -40,7 +40,7 @@ Article 45
 
 (5) If the relevant authority does not give the notification mentioned in sub-paragraph (3) it is deemed to have sufficient information to consider the application and is not thereafter entitled to request further information without the prior agreement of the undertaker.
 
-### 2. Fees[^key-05679c190cf082594f8c787f28481e11]
+### 2. Fees[^c-05679c190cf082594f8c787f28481e11]
 
 (1) Where an application is made to a relevant planning authority for any consent, agreement or approval in respect of one or more requirements included in Schedule 2 to this Order, a fee of £97 or such other fee as may be prescribed (under sections 303 and 333(2A) of the 1990 Act for the discharge of conditions attached to a planning permission) shall be paid to the relevant planning authority.
 
@@ -51,7 +51,7 @@ Article 45
 
 unless within that period the undertaker agrees in writing that the fee may be retained by the relevant planning authority and credited in respect of a future application.
 
-### 3. Appeals[^key-d315e0b26a940b8c7a031ad4354600e6]
+### 3. Appeals[^c-d315e0b26a940b8c7a031ad4354600e6]
 
 (1) The undertaker may appeal if—
 
@@ -73,7 +73,7 @@ unless within that period the undertaker agrees in writing that the fee may be r
 
 (4) Any further information required pursuant to sub-paragraph (3) must be provided by the party from whom the information is sought to the appointed person and to other appeal parties by the date specified by the appointed person. Any written representations concerning matters contained in the further information may be submitted to the appointed person within a period of 10 business days beginning with the first day immediately following that date and any person submitting any such written representation must ensure that a copy of it is sent to all other appeal parties on the day on which it is submitted to the appointed person.
 
-### 4. Outcome of appeals[^key-68b7d1c9e5d9e2bebd1fda0d445f4afd]
+### 4. Outcome of appeals[^c-68b7d1c9e5d9e2bebd1fda0d445f4afd]
 
 (1) On an appeal under paragraph 3, the appointed person may—
 
@@ -94,7 +94,7 @@ and may deal with the application as if it had been made to the appointed person
 
 (7) On application by the relevant authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is made, the appointed person must have regard to such guidance (if any) as issued by the Secretary of State as guidance to decision-makers on applications for costs in appeals made under the 1990 Act.
 
-### 5. Interpretation of Schedule 3[^key-ddac829387fb9430ddb1e2f10e39eb10]
+### 5. Interpretation of Schedule 3[^c-ddac829387fb9430ddb1e2f10e39eb10]
 
 In this Schedule—
 
@@ -105,14 +105,14 @@ In this Schedule—
 
 ## Annotations
 
-[^key-28f5310d68b8b7af6c4480356c887aba]: Commencement: Sch. 3 para. 1 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-28f5310d68b8b7af6c4480356c887aba]: Commencement: Sch. 3 para. 1 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
 
-[^key-05679c190cf082594f8c787f28481e11]: Commencement: Sch. 3 para. 2 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-05679c190cf082594f8c787f28481e11]: Commencement: Sch. 3 para. 2 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
 
-[^key-d315e0b26a940b8c7a031ad4354600e6]: Commencement: Sch. 3 para. 3 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-d315e0b26a940b8c7a031ad4354600e6]: Commencement: Sch. 3 para. 3 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
 
-[^key-68b7d1c9e5d9e2bebd1fda0d445f4afd]: Commencement: Sch. 3 para. 4 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-68b7d1c9e5d9e2bebd1fda0d445f4afd]: Commencement: Sch. 3 para. 4 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
 
-[^key-ddac829387fb9430ddb1e2f10e39eb10]: Commencement: Sch. 3 para. 5 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
+[^c-ddac829387fb9430ddb1e2f10e39eb10]: Commencement: Sch. 3 para. 5 in force at 7.5.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1052/article/1)
 
 [^f00025]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80). There are amendments to this Act not relevant to this Order.

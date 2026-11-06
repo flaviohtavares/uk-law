@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9A. Annual functions report[^key-20a94f4d8bb65dc407d8d57ecfd11058]
+## 9A. Annual functions report[^c-20a94f4d8bb65dc407d8d57ecfd11058]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20a94f4d8bb65dc407d8d57ecfd11058]: Textual amendment: Ss. 9A, 9B inserted (1.12.2015 for specified purposes, 15.5.2017 for the insertion of s. 9B in so far as not already in force, 20.12.2017 in so far as not already in force) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 56(2)](https://www.legislation.gov.uk/asp/2015/10/section/56/2), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule); [S.S.I. 2017/424](https://www.legislation.gov.uk/ssi/2017/424), [art. 2(a)](https://www.legislation.gov.uk/ssi/2017/424/article/2/a)
+[^c-20a94f4d8bb65dc407d8d57ecfd11058]: Textual amendment: Ss. 9A, 9B inserted (1.12.2015 for specified purposes, 15.5.2017 for the insertion of s. 9B in so far as not already in force, 20.12.2017 in so far as not already in force) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 56(2)](https://www.legislation.gov.uk/asp/2015/10/section/56/2), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2015/382](https://www.legislation.gov.uk/ssi/2015/382), [art. 2](https://www.legislation.gov.uk/ssi/2015/382/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/382/schedule); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule); [S.S.I. 2017/424](https://www.legislation.gov.uk/ssi/2017/424), [art. 2(a)](https://www.legislation.gov.uk/ssi/2017/424/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Transfer ... of vehicle licences.[^key-e8c71f115343ac243b089e29ba9bf09b][^M_F_0a132e08-11ff-43fc-83fb-0d80ad5030cf]
+## 10. Transfer ... of vehicle licences.[^c-e8c71f115343ac243b089e29ba9bf09b][^M_F_0a132e08-11ff-43fc-83fb-0d80ad5030cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e8c71f115343ac243b089e29ba9bf09b]: Textual amendment: S. 10 omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/4), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-e8c71f115343ac243b089e29ba9bf09b]: Textual amendment: S. 10 omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 4](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/4), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
 
 [^M_F_0a132e08-11ff-43fc-83fb-0d80ad5030cf]: Textual amendment: Words in s. 10 heading omitted (1.1.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 144(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/144/2)(7)

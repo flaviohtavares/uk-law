@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Regulation (EU) No 1380/2013 of the European Parliament and of the Council on the Common Fisheries Policy[^key-32172801f9907ff6758b67ff042cde9a]
+## 26. Regulation (EU) No 1380/2013 of the European Parliament and of the Council on the Common Fisheries Policy[^c-32172801f9907ff6758b67ff042cde9a]
 
 *Extent: E+W+S+N.I.*
 
 (1) Regulation (EU) No 1380/2013 of the European Parliament and of the Council on the Common Fisheries Policy is amended as follows.
 
-(2)[^key-d89b1673d5b8c508fab43c920f9e80e6] In Article 15 for paragraph 6 substitute—
+(2)[^c-d89b1673d5b8c508fab43c920f9e80e6] In Article 15 for paragraph 6 substitute—
 
 > **6.** A fisheries administration may make regulations laying down a specific discard plan for a particular fishery containing the specifications referred to in points (a) to (e) of paragraph 5 of this Article.
 >
@@ -99,9 +99,9 @@ summary: ''
 
 ## Annotations
 
-[^key-32172801f9907ff6758b67ff042cde9a]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-32172801f9907ff6758b67ff042cde9a]: Commencement: Reg. 26 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
 
-[^key-d89b1673d5b8c508fab43c920f9e80e6]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/26/2) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/15/2)
+[^c-d89b1673d5b8c508fab43c920f9e80e6]: Textual amendment: [Reg. 26(2)](https://www.legislation.gov.uk/uksi/2019/753/regulation/26/2) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/15/2)
 
 [^c24328031]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 

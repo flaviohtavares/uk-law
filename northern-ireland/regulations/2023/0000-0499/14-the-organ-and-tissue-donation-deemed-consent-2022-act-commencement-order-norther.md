@@ -37,11 +37,11 @@ Made
 
 The Department of Health[^f00001], in exercise of the powers conferred by section 2(2) of the Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2022[^f00002], makes the following Order.
 
-## 1. Citation[^key-9b85378cbfd669e0571cc7024b8ebdaf]
+## 1. Citation[^c-9b85378cbfd669e0571cc7024b8ebdaf]
 
 This Order may be cited as the Organ and Tissue Donation (Deemed Consent) (2022 Act) (Commencement) Order (Northern Ireland) 2023.
 
-## 2. Provisions coming into operation on 13th February 2023[^key-b75da8dc490485eddf91db2d6cb01681]
+## 2. Provisions coming into operation on 13th February 2023[^c-b75da8dc490485eddf91db2d6cb01681]
 
 The 13th February 2023 is the appointed day for the coming into operation of section 1 (“Appropriate Consent” to adult transplant activities). of the Organ and Tissue Donation (Deemed Consent) Act (Northern Ireland) 2022.
 
@@ -69,6 +69,6 @@ The section also amends section 15 of the Health (Miscellaneous Provisions) Act 
 
 [^f00002]: Footnote: [2022 c. 10 (N.I.)](https://www.legislation.gov.uk/nia/2022/10)
 
-[^key-9b85378cbfd669e0571cc7024b8ebdaf]: Commencement: Art. 1 in operation at made date
+[^c-9b85378cbfd669e0571cc7024b8ebdaf]: Commencement: Art. 1 in operation at made date
 
-[^key-b75da8dc490485eddf91db2d6cb01681]: Commencement: Art. 2 in operation at made date
+[^c-b75da8dc490485eddf91db2d6cb01681]: Commencement: Art. 2 in operation at made date

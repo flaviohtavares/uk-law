@@ -46,17 +46,17 @@ The Department of Finance makes the following Regulations in exercise of the pow
 
 In accordance with section 15 of the 2022 Act, the Department of Finance has consulted such regulators of regulated professions as the Department of Finance considers are likely to be affected by these Regulations or it is otherwise appropriate to consult.
 
-## 1. Citation and commencement[^key-b135c163eefa40d5220cea7171f5bb3b]
+## 1. Citation and commencement[^c-b135c163eefa40d5220cea7171f5bb3b]
 
 These Regulations may be cited as the Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025, and shall come into operation on 1<sup>st</sup> April 2025.
 
-## 2. Extent and application[^key-826154b9da29d48d74b823a3c5c51e59]
+## 2. Extent and application[^c-826154b9da29d48d74b823a3c5c51e59]
 
 These Regulations extend to Northern Ireland.
 
-**3.**[^key-57886ec3bc79abbe8907f3f9ec1645e5] Any modification made by these Regulations has the same extent and application as the provision modified.
+**3.**[^c-57886ec3bc79abbe8907f3f9ec1645e5] Any modification made by these Regulations has the same extent and application as the provision modified.
 
-## 4. Interpretation[^key-2c3c8962fba6c9c1ceabbdc8a7917d5f]
+## 4. Interpretation[^c-2c3c8962fba6c9c1ceabbdc8a7917d5f]
 
 In these regulations –
 
@@ -67,7 +67,7 @@ In these regulations –
 - “**Society**” means the Law Society of Northern Ireland;
 - “**Swiss qualified lawyer**” has the same meaning as in regulation 3(1) of the 2023 Regulations.
 
-## 5. Modifications to the Solicitors (Northern Ireland) Order 1976[^key-73ba140838a969bdb86090561308a829]
+## 5. Modifications to the Solicitors (Northern Ireland) Order 1976[^c-73ba140838a969bdb86090561308a829]
 
 (1) The Solicitors (Northern Ireland) Order 1976 is modified as follows:
 
@@ -162,16 +162,16 @@ An impact assessment of the Professional Qualifications Act 2022 was undertaken 
 
 [^f00001]: Footnote: [2022 c.20](https://www.legislation.gov.uk/ukpga/2022/20)
 
-[^key-b135c163eefa40d5220cea7171f5bb3b]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1)
+[^c-b135c163eefa40d5220cea7171f5bb3b]: Commencement: Reg. 1 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1)
 
-[^key-826154b9da29d48d74b823a3c5c51e59]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1)
+[^c-826154b9da29d48d74b823a3c5c51e59]: Commencement: Reg. 2 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1)
 
-[^key-57886ec3bc79abbe8907f3f9ec1645e5]: Commencement: Reg. 3 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1)
+[^c-57886ec3bc79abbe8907f3f9ec1645e5]: Commencement: Reg. 3 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1)
 
-[^key-2c3c8962fba6c9c1ceabbdc8a7917d5f]: Commencement: Reg. 4 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1)
+[^c-2c3c8962fba6c9c1ceabbdc8a7917d5f]: Commencement: Reg. 4 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1)
 
 [^f00002]: Footnote: [1976 No. 582 (N.I. 12)](https://www.legislation.gov.uk/nisi/1976/582)
 
 [^f00003]: Footnote: [S.I. 2023/1286](https://www.legislation.gov.uk/uksi/2023/1286), as amended by [S.I. 2023/1294 (W.230)](https://www.legislation.gov.uk/wsi/2023/1294) and [S.I. 2024/1379](https://www.legislation.gov.uk/uksi/2024/1379)
 
-[^key-73ba140838a969bdb86090561308a829]: Commencement: Reg. 5 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1)
+[^c-73ba140838a969bdb86090561308a829]: Commencement: Reg. 5 in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1)

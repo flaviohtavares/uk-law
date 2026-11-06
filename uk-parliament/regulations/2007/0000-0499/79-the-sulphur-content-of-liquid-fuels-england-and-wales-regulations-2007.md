@@ -52,7 +52,7 @@ The Secretary of State has been designated[^f00001] for the purposes of section 
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Interpretation[^key-4a500c3d94df5a36b7fe8db2d876d975]
+## 2. Interpretation[^c-4a500c3d94df5a36b7fe8db2d876d975]
 
 (1) In these Regulations—
 
@@ -87,7 +87,7 @@ These Regulations do not apply to heavy fuel oil or gas oil intended for—
 - (b) processing prior to final combustion; or
 - (c) processing in the refining industry.
 
-## 4. Maximum sulphur content of heavy fuel oil[^key-97527c411abe88ad19180d28f20dadeb]
+## 4. Maximum sulphur content of heavy fuel oil[^c-97527c411abe88ad19180d28f20dadeb]
 
 (1) No person shall use any heavy fuel oil that has a sulphur content exceeding 1 per cent by mass.
 
@@ -137,11 +137,11 @@ These Regulations do not apply to heavy fuel oil or gas oil intended for—
 
 (6) The Schedule (sulphur content of liquid fuels permits) has effect.
 
-## 5. Maximum sulphur content in gas oil[^key-8644059031ee48fb03e0998ef793044c]
+## 5. Maximum sulphur content in gas oil[^c-8644059031ee48fb03e0998ef793044c]
 
 No person shall use any gas oil that has a sulphur content exceeding 0.1 per cent by mass.
 
-## 6. Sampling and analysis[^key-39fb720777267026e37c52005daeeabb]
+## 6. Sampling and analysis[^c-39fb720777267026e37c52005daeeabb]
 
 (1) The Secretary of State shall take all necessary measures to ensure that periodic sampling is carried out of heavy fuel oil and gas oil and that the samples are analysed to check that the use of those fuels complies with regulations 4(1) and 5.
 
@@ -179,7 +179,7 @@ the officer as well as the body corporate is guilty of that offence and liable t
 
 the application shall continue to be determined under those Regulations.
 
-## 9. Review[^key-33c35b629c037b8886344f5a0107b0a7]
+## 9. Review[^c-33c35b629c037b8886344f5a0107b0a7]
 
 The Secretary of State must from time to time—
 
@@ -205,11 +205,11 @@ Minister of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE ... — Sulphur content of liquid fuel permits[^key-8819ee589851e4243038443ddc8690ff]
+## SCHEDULE ... — Sulphur content of liquid fuel permits[^c-8819ee589851e4243038443ddc8690ff]
 
-Regulation 4(6)[^key-ec3ad4fe89a162d9af2a6e4a7e19da35]
+Regulation 4(6)[^c-ec3ad4fe89a162d9af2a6e4a7e19da35]
 
-**1.** An operator of a combustion plant[^key-1b278e48b90aed4ace74a3d1eac1fb04] who wishes to operate that plant under an exception in regulation 4(2) or (3)[^key-ddc363703a84ce284c3e85eb33d93a91] may apply to the local authority in whose area that plant is situated for a sulphur content of liquid fuels permit if the operation of that plant does not require—
+**1.** An operator of a combustion plant[^c-1b278e48b90aed4ace74a3d1eac1fb04] who wishes to operate that plant under an exception in regulation 4(2) or (3)[^c-ddc363703a84ce284c3e85eb33d93a91] may apply to the local authority in whose area that plant is situated for a sulphur content of liquid fuels permit if the operation of that plant does not require—
 
 - (a) an authorisation under Part I of the Environmental Protection Act 1990; or
 - (b) a permit under regulations made under section 2 of the Pollution Prevention and Control Act 1999.
@@ -218,7 +218,7 @@ Regulation 4(6)[^key-ec3ad4fe89a162d9af2a6e4a7e19da35]
 
 - (a) the name and address of the applicant and any other address to which correspondence should be sent and the applicant’s telephone number;
 - (b) the address of the site of the combustion plant, the rated thermal input (in megawatts) and the fuel used in the plant; and
-- (c) the condition which the applicant wishes to be included in the permit, being a condition referred to in regulation 4(2) or (3).[^key-00ed3a7935dafd5074184303f0209819]
+- (c) the condition which the applicant wishes to be included in the permit, being a condition referred to in regulation 4(2) or (3).[^c-00ed3a7935dafd5074184303f0209819]
 
 **3.** An applicant may withdraw his application at any time before it is determined.
 
@@ -244,17 +244,17 @@ Regulation 4(6)[^key-ec3ad4fe89a162d9af2a6e4a7e19da35]
 
 **9.** Section 8 of the Environmental Protection Act 1990 shall apply for the purpose of prescribing a fee in respect of an application under paragraph 1 as it applies for the purpose of prescribing a fee in respect of an application for an authorisation under Part I of that Act.
 
-## SCHEDULE 2 — Technical requirements for analysis samples[^key-88420d774af62d3b1d8a7712cd11d187]
+## SCHEDULE 2 — Technical requirements for analysis samples[^c-88420d774af62d3b1d8a7712cd11d187]
 
 **No longer in force.**
 
 Regulation 6(4)
 
-**1.**[^key-88420d774af62d3b1d8a7712cd11d187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-88420d774af62d3b1d8a7712cd11d187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-88420d774af62d3b1d8a7712cd11d187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-88420d774af62d3b1d8a7712cd11d187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-88420d774af62d3b1d8a7712cd11d187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-88420d774af62d3b1d8a7712cd11d187] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -288,24 +288,24 @@ Copies of the British Standards publications referred to in these Regulations ma
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-4a500c3d94df5a36b7fe8db2d876d975]: Textual amendment: Reg. 2 substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/1975/regulation/3)
+[^c-4a500c3d94df5a36b7fe8db2d876d975]: Textual amendment: Reg. 2 substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2014/1975/regulation/3)
 
-[^key-97527c411abe88ad19180d28f20dadeb]: Textual amendment: Reg. 4 substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1975/regulation/4)
+[^c-97527c411abe88ad19180d28f20dadeb]: Textual amendment: Reg. 4 substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2014/1975/regulation/4)
 
-[^key-8644059031ee48fb03e0998ef793044c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/79/regulation/5) substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2014/1975/regulation/5)
+[^c-8644059031ee48fb03e0998ef793044c]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2007/79/regulation/5) substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2014/1975/regulation/5)
 
-[^key-39fb720777267026e37c52005daeeabb]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/79/regulation/6) substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2014/1975/regulation/6)
+[^c-39fb720777267026e37c52005daeeabb]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2007/79/regulation/6) substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2014/1975/regulation/6)
 
-[^key-33c35b629c037b8886344f5a0107b0a7]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/79/regulation/9) inserted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2014/1975/regulation/7)
+[^c-33c35b629c037b8886344f5a0107b0a7]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2007/79/regulation/9) inserted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2014/1975/regulation/7)
 
-[^key-8819ee589851e4243038443ddc8690ff]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/79/schedule/1) omitted (29.8.2014) by virtue of [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/2/a)
+[^c-8819ee589851e4243038443ddc8690ff]: Textual amendment: Word in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/79/schedule/1) omitted (29.8.2014) by virtue of [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(2)(a)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/2/a)
 
-[^key-ec3ad4fe89a162d9af2a6e4a7e19da35]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/79/schedule/1) substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/2/b)
+[^c-ec3ad4fe89a162d9af2a6e4a7e19da35]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2007/79/schedule/1) substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(2)(b)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/2/b)
 
-[^key-1b278e48b90aed4ace74a3d1eac1fb04]: Textual amendment: Words in Sch. 1 para. 1 substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/3)
+[^c-1b278e48b90aed4ace74a3d1eac1fb04]: Textual amendment: Words in Sch. 1 para. 1 substituted (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/3)
 
-[^key-ddc363703a84ce284c3e85eb33d93a91]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2007/79/schedule/1/paragraph/1) added (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/3)
+[^c-ddc363703a84ce284c3e85eb33d93a91]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2007/79/schedule/1/paragraph/1) added (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/3)
 
-[^key-00ed3a7935dafd5074184303f0209819]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2007/79/schedule/1/paragraph/2) added (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/4)
+[^c-00ed3a7935dafd5074184303f0209819]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2007/79/schedule/1/paragraph/2) added (29.8.2014) by [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [8(4)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/8/4)
 
-[^key-88420d774af62d3b1d8a7712cd11d187]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2007/79/schedule/2) omitted (29.8.2014) by virtue of [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2014/1975/regulation/9)
+[^c-88420d774af62d3b1d8a7712cd11d187]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2007/79/schedule/2) omitted (29.8.2014) by virtue of [The Sulphur Content of Liquid Fuels (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/1975)](https://www.legislation.gov.uk/uksi/2014/1975), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1975/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2014/1975/regulation/9)

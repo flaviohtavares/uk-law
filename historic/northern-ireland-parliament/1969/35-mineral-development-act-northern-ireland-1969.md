@@ -985,7 +985,7 @@ and a document containing the substance and effect of every such notice shall be
 (4) In this paragraph—
 
 - “water authority”[^c5450091] means a water undertaker[^c20205681];
-- “fishery authority” in relation to land any part of which is situated in the Londonderry Area (as defined by the Foyle Fisheries Act (Northern Ireland) 1952 [^m00016]) means the Foyle Fisheries Commission and in relation to land any part of which is situated outside that Area means, or, as the case requires, also includes, the Department of Agriculture, Environment and Rural Affairs[^key-7e08497ff0093c2d8ed3e97c158b083e] .
+- “fishery authority” in relation to land any part of which is situated in the Londonderry Area (as defined by the Foyle Fisheries Act (Northern Ireland) 1952 [^m00016]) means the Foyle Fisheries Commission and in relation to land any part of which is situated outside that Area means, or, as the case requires, also includes, the Department of Agriculture, Environment and Rural Affairs[^c-7e08497ff0093c2d8ed3e97c158b083e] .
 
 **2.** (1) On the expiration of one month after the last publication of the notice mentioned in paragraph 1, the Ministry, after considering—
 
@@ -1226,7 +1226,7 @@ and if any such compensation or the aggregate of any instalments thereof is less
 
 [^m00016]: Marginal citation: 1952 c.5
 
-[^key-7e08497ff0093c2d8ed3e97c158b083e]: Textual amendment: Words in Sch. 2 para. 1(4) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 20](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/20) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-7e08497ff0093c2d8ed3e97c158b083e]: Textual amendment: Words in Sch. 2 para. 1(4) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 20](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/20) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^m00017]: Marginal citation: 1891 c.66
 

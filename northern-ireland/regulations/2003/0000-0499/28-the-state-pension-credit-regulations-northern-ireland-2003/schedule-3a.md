@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3A — Date on which certain fixed length assessed income periods end[^key-85de20bfc7128e1bc5e1fdf78599a71f]
+## SCHEDULE 3A — Date on which certain fixed length assessed income periods end[^c-85de20bfc7128e1bc5e1fdf78599a71f]
 
 *Extent: N.I.*
 
@@ -77,4 +77,4 @@ Table
 
 ## Annotations
 
-[^key-85de20bfc7128e1bc5e1fdf78599a71f]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/nisr/2003/28/schedule/3A) inserted (6.4.2016) by [The State Pension Credit (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/331)](https://www.legislation.gov.uk/nisr/2015/331), [regs. 1](https://www.legislation.gov.uk/nisr/2015/331/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2015/331/regulation/2/4)
+[^c-85de20bfc7128e1bc5e1fdf78599a71f]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/nisr/2003/28/schedule/3A) inserted (6.4.2016) by [The State Pension Credit (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/331)](https://www.legislation.gov.uk/nisr/2015/331), [regs. 1](https://www.legislation.gov.uk/nisr/2015/331/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2015/331/regulation/2/4)

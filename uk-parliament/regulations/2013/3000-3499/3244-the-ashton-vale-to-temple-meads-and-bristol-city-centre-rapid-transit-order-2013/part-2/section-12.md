@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Access to works[^key-5e361ca0c6f926e5a6f511940679e781]
+## 12. Access to works[^c-5e361ca0c6f926e5a6f511940679e781]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The promoter may, for the purposes of the construction, operation or maintenance
 
 ## Annotations
 
-[^key-5e361ca0c6f926e5a6f511940679e781]: Commencement: Art. 12 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-5e361ca0c6f926e5a6f511940679e781]: Commencement: Art. 12 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)

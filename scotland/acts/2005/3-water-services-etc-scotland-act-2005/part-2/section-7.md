@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Granting of licences[^key-cbac8ec012771a07e8d87beb95b7a8d1][^key-c75aa09ae7b3a9ff7a172585f05c1c78]
+## 7. Granting of licences[^c-cbac8ec012771a07e8d87beb95b7a8d1][^c-c75aa09ae7b3a9ff7a172585f05c1c78]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ and such other matters as the Scottish Ministers may by order specify.
 
 ## Annotations
 
-[^key-cbac8ec012771a07e8d87beb95b7a8d1]: Commencement: S. 7 in force at 7.9.2006 for specified purposes by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-cbac8ec012771a07e8d87beb95b7a8d1]: Commencement: S. 7 in force at 7.9.2006 for specified purposes by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-c75aa09ae7b3a9ff7a172585f05c1c78]: Commencement: S. 7 in force at 8.1.2007 in so far as not already in force by [S.S.I. 2006/599](https://www.legislation.gov.uk/ssi/2006/599), [art. 2](https://www.legislation.gov.uk/ssi/2006/599/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/599/schedule)
+[^c-c75aa09ae7b3a9ff7a172585f05c1c78]: Commencement: S. 7 in force at 8.1.2007 in so far as not already in force by [S.S.I. 2006/599](https://www.legislation.gov.uk/ssi/2006/599), [art. 2](https://www.legislation.gov.uk/ssi/2006/599/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/599/schedule)

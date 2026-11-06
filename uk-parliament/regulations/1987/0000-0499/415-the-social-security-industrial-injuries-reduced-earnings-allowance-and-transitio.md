@@ -81,15 +81,15 @@ The Secretary of State for Social Services, in exercise of the powers conferred 
 
 the probable standard of remuneration in any employed earner's employment which is suitable in his case and which he is likely to be capable of following shall be determined in accordance with paragraph (6).
 
-(6) For the purposes of paragraphs (4) and (5) a person's probable standard of remuneration shall be determined by reference to the standard determined for the purposes of the last previous award of reduced earnings allowance adjusted by a percentage equal to any percentage change[^key-76ee8162327fdc17a288a399721f92c8] in the level of earnings for the relevant occupational groups.
+(6) For the purposes of paragraphs (4) and (5) a person's probable standard of remuneration shall be determined by reference to the standard determined for the purposes of the last previous award of reduced earnings allowance adjusted by a percentage equal to any percentage change[^c-76ee8162327fdc17a288a399721f92c8] in the level of earnings for the relevant occupational groups.
 
 (7) For the purposes of paragraph (6) and regulation 3(1)—
 
 - (a) the relevant occupational group is the numbered group specified in data relating to earnings published from time to time by the Department of Employment which is the nearest to, respectively,
   - (i) the person's regular occupation,
   - (ii) any employed earner's employments which are suitable in his case and which he is likely to be capable of following; and
-- (b) the percentage change[^key-afcb7fa1e7d879777eb6dd5584c01326] in the level of earnings shall be determined by reference to the movement in average gross weekly earnings of full-time employees on adult rates in the relevant occupational group where pay was not affected by absence; and
-- (c) a percentage change[^key-8a013e4a2b9d6d42cf12364110ffd967] for any year shall be applied to a determination of the probable standard of remuneration on an award made for a period commencing on or after the first Wednesday in the February of the year following the year to which the change relates.
+- (b) the percentage change[^c-afcb7fa1e7d879777eb6dd5584c01326] in the level of earnings shall be determined by reference to the movement in average gross weekly earnings of full-time employees on adult rates in the relevant occupational group where pay was not affected by absence; and
+- (c) a percentage change[^c-8a013e4a2b9d6d42cf12364110ffd967] for any year shall be applied to a determination of the probable standard of remuneration on an award made for a period commencing on or after the first Wednesday in the February of the year following the year to which the change relates.
 
 (8) For the purposes of paragraph (4), a person's regular occupation has ceased to exist where—
 
@@ -174,11 +174,11 @@ Regulation 9 provides for the continuance in force of regulation 85 of the Socia
 
 [^c2180625]: Marginal citation: [1986 c. 50](https://www.legislation.gov.uk/ukpga/1986/50); [section 84(1)](https://www.legislation.gov.uk/uksi/1987/415/section/84/1) is cited because of the meaning ascribed to the word “regulations”.
 
-[^key-76ee8162327fdc17a288a399721f92c8]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/1987/415/regulation/2/6) substituted (11.4.1988) by [The Social Security (Industrial Injuries) (Miscellaneous Amendments) Regulations 1988 (S.I. 1988/553)](https://www.legislation.gov.uk/uksi/1988/553), [regs. 1](https://www.legislation.gov.uk/uksi/1988/553/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1988/553/regulation/4/2)
+[^c-76ee8162327fdc17a288a399721f92c8]: Textual amendment: Words in [reg. 2(6)](https://www.legislation.gov.uk/uksi/1987/415/regulation/2/6) substituted (11.4.1988) by [The Social Security (Industrial Injuries) (Miscellaneous Amendments) Regulations 1988 (S.I. 1988/553)](https://www.legislation.gov.uk/uksi/1988/553), [regs. 1](https://www.legislation.gov.uk/uksi/1988/553/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/1988/553/regulation/4/2)
 
-[^key-afcb7fa1e7d879777eb6dd5584c01326]: Textual amendment: Words in [reg. 2(7)(b)](https://www.legislation.gov.uk/uksi/1987/415/regulation/2/7/b) substituted (11.4.1988) by [The Social Security (Industrial Injuries) (Miscellaneous Amendments) Regulations 1988 (S.I. 1988/553)](https://www.legislation.gov.uk/uksi/1988/553), [regs. 1](https://www.legislation.gov.uk/uksi/1988/553/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1988/553/regulation/4/3)
+[^c-afcb7fa1e7d879777eb6dd5584c01326]: Textual amendment: Words in [reg. 2(7)(b)](https://www.legislation.gov.uk/uksi/1987/415/regulation/2/7/b) substituted (11.4.1988) by [The Social Security (Industrial Injuries) (Miscellaneous Amendments) Regulations 1988 (S.I. 1988/553)](https://www.legislation.gov.uk/uksi/1988/553), [regs. 1](https://www.legislation.gov.uk/uksi/1988/553/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/1988/553/regulation/4/3)
 
-[^key-8a013e4a2b9d6d42cf12364110ffd967]: Textual amendment: Words in [reg. 2(7)(c)](https://www.legislation.gov.uk/uksi/1987/415/regulation/2/7/c) substituted (11.4.1988) by [The Social Security (Industrial Injuries) (Miscellaneous Amendments) Regulations 1988 (S.I. 1988/553)](https://www.legislation.gov.uk/uksi/1988/553), [regs. 1](https://www.legislation.gov.uk/uksi/1988/553/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/1988/553/regulation/4/4)
+[^c-8a013e4a2b9d6d42cf12364110ffd967]: Textual amendment: Words in [reg. 2(7)(c)](https://www.legislation.gov.uk/uksi/1987/415/regulation/2/7/c) substituted (11.4.1988) by [The Social Security (Industrial Injuries) (Miscellaneous Amendments) Regulations 1988 (S.I. 1988/553)](https://www.legislation.gov.uk/uksi/1988/553), [regs. 1](https://www.legislation.gov.uk/uksi/1988/553/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/1988/553/regulation/4/4)
 
 [^c2180626]: Marginal citation: The gratuities with which regulation 85 is concerned are those in respect of industrial injury, disease or death under sections 57, 67, 71 and 72 of the Social Security Act 1975.
 

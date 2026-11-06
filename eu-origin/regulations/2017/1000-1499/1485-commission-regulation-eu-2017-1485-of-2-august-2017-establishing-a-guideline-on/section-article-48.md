@@ -23,7 +23,7 @@ summary: ''
 1. Unless otherwise provided by the TSO, each power generating facility owner of a power generating module which is a SGU pursuant to Article 2(1)(a) and by aggregation of the SGUs pursuant to Article 2(1)(e) connected to the distribution system shall provide at least the following data to the TSO and to the DSO to which it has a connection point:
 
 - (a) general data of the power generating module, including installed capacity and primary energy source or fuel type;
-- (b) FCR data [^key-0cff4c9a1a50fa2b62437a7436cb0bc5]... for power generating facilities offering or providing the FCR service;
+- (b) FCR data [^c-0cff4c9a1a50fa2b62437a7436cb0bc5]... for power generating facilities offering or providing the FCR service;
 - (c) FRR data for power generating facilities offering or providing the FRR service;
 - (d) RR data for power generating modules offering or providing the RR service;
 - (e) protection data;
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0cff4c9a1a50fa2b62437a7436cb0bc5]: Textual amendment: Words in [Art. 48(1)(b)](https://www.legislation.gov.uk/eur/2017/1485/article/48/1/b) omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/41) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0cff4c9a1a50fa2b62437a7436cb0bc5]: Textual amendment: Words in [Art. 48(1)(b)](https://www.legislation.gov.uk/eur/2017/1485/article/48/1/b) omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 41](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/41) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

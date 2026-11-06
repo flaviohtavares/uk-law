@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Agriculture, Environment and Rural Affairs[^f00001] makes the following Regulations in exercise of the powers conferred on it by section 124(1) and (2) of the Fisheries Act (Northern Ireland) 1966[^f00002].
 
-## 1. Citation and commencement[^key-9544bee571fda1397d180757f00b0994]
+## 1. Citation and commencement[^c-9544bee571fda1397d180757f00b0994]
 
 These Regulations may be cited as the Edible Crabs (Conservation) (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 10th February 2023.
 
-## 2. Amendment of the Edible Crabs (Conservation) Regulations (Northern Ireland) 2020[^key-719f400487f9cce8901387371c1fffcc]
+## 2. Amendment of the Edible Crabs (Conservation) Regulations (Northern Ireland) 2020[^c-719f400487f9cce8901387371c1fffcc]
 
 (1) The Edible Crabs (Conservation) Regulations (Northern Ireland) 2020[^f00003] are amended as follows.
 
@@ -93,8 +93,8 @@ The Regulations also amend regulation 3 of the Principal Regulations as a conseq
 
 [^f00002]: Footnote: [1966 c.17](https://www.legislation.gov.uk/ukpga/1966/17), section 124 was substituted by [S.I. 1981/227 (N.I.7)](https://www.legislation.gov.uk/nisi/1981/227), Article 6, and was amended by [2001 c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2001/4), section 1 and [S.I. 2002/790](https://www.legislation.gov.uk/uksi/2002/790), Article 6.
 
-[^key-9544bee571fda1397d180757f00b0994]: Commencement: Reg. 1 in operation at 10.2.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/5/regulation/1)
+[^c-9544bee571fda1397d180757f00b0994]: Commencement: Reg. 1 in operation at 10.2.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/5/regulation/1)
 
-[^key-719f400487f9cce8901387371c1fffcc]: Commencement: Reg. 2 in operation at 10.2.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/5/regulation/1)
+[^c-719f400487f9cce8901387371c1fffcc]: Commencement: Reg. 2 in operation at 10.2.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/5/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2020 No. 152](https://www.legislation.gov.uk/nisr/2020/152), as amended by [S.R. 2021 No. 336](https://www.legislation.gov.uk/nisr/2021/336).

@@ -14,13 +14,13 @@ summary: ''
 
 > This provision is no longer in force.
 
-## SCHEDULE 5 — EUROPEAN PROTECTED SPECIES OF PLANTS[^key-b42b9f71bb042dece572c04a2dd93b31]
+## SCHEDULE 5 — EUROPEAN PROTECTED SPECIES OF PLANTS[^c-b42b9f71bb042dece572c04a2dd93b31]
 
 **No longer in force.**
 
 Regulation 44(1)
 
-[^key-b42b9f71bb042dece572c04a2dd93b31]
+[^c-b42b9f71bb042dece572c04a2dd93b31]
 
 | *Common name* | *Scientific name* |
 | --- | --- |
@@ -38,4 +38,4 @@ Regulation 44(1)
 
 ## Annotations
 
-[^key-b42b9f71bb042dece572c04a2dd93b31]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2010/490/schedule/5) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
+[^c-b42b9f71bb042dece572c04a2dd93b31]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2010/490/schedule/5) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)

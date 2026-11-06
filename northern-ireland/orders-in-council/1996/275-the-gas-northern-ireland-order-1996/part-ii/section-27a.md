@@ -29,7 +29,7 @@ summary: ''
   - (iv) the holder of an exemption from Article 6(1)(a);
   - (v) the holder of an exemption from Article 6(1)(b); or
   - (vi) the holder of an exemption from Article 6(1)(d);
-- (b) it is wholly or mainly a complaint against that holder regarding an obligation which satisfies the requirement in paragraph (1A)[^key-102a31b617b3eb9d4a2e8a98ae2d9bad]; and
+- (b) it is wholly or mainly a complaint against that holder regarding an obligation which satisfies the requirement in paragraph (1A)[^c-102a31b617b3eb9d4a2e8a98ae2d9bad]; and
 - (c) the subject matter of the complaint is not capable of being determined pursuant to any other Article of this Order or any condition of the licence held by the holder.
 
 (1A)[^M_F_12ce0d1f-f3df-4bf3-ec87-fe4dc7f689b6] The requirement in this paragraph is that either—
@@ -68,7 +68,7 @@ and in this paragraph “**the holder**” means the holder mentioned in paragra
 
 [^c21880991]: Textual amendment: [Art. 27A(1)(a)](https://www.legislation.gov.uk/nisi/1996/275/article/27A/1/a) substituted (12.4.2013) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2013 (S.R. 2013/92)](https://www.legislation.gov.uk/nisr/2013/92), [reg. 28(1)](https://www.legislation.gov.uk/nisr/2013/92/regulation/28/1)
 
-[^key-102a31b617b3eb9d4a2e8a98ae2d9bad]: Textual amendment: Words in [art. 27A(1)(b)](https://www.legislation.gov.uk/nisi/1996/275/article/27A/1/b) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [122(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/122/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-102a31b617b3eb9d4a2e8a98ae2d9bad]: Textual amendment: Words in [art. 27A(1)(b)](https://www.legislation.gov.uk/nisi/1996/275/article/27A/1/b) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [122(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/122/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_12ce0d1f-f3df-4bf3-ec87-fe4dc7f689b6]: Textual amendment: Art. 27A(1A) inserted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [122(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/122/3) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(39)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 

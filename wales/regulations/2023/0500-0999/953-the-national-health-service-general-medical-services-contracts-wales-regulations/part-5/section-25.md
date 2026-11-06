@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Contract assurance[^key-1c2bc9d651461676ed681ca0269b3699]
+## 25. Contract assurance[^c-1c2bc9d651461676ed681ca0269b3699]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c2bc9d651461676ed681ca0269b3699]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2023/953/regulation/25) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)
+[^c-1c2bc9d651461676ed681ca0269b3699]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2023/953/regulation/25) in force at 1.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/953/regulation/1/2)

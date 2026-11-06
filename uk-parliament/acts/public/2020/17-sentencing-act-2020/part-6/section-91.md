@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Establishment of youth offender panels[^key-80f9620d1f32ac8fcd1d09cc7e003c58]
+## 91. Establishment of youth offender panels[^c-80f9620d1f32ac8fcd1d09cc7e003c58]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ in accordance with guidance issued from time to time by the Secretary of State.
 
 ## Annotations
 
-[^key-80f9620d1f32ac8fcd1d09cc7e003c58]: Commencement: S. 91 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-80f9620d1f32ac8fcd1d09cc7e003c58]: Commencement: S. 91 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

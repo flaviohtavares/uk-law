@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The Department may make regulations prescribing (by reference to shape, construction or any other quality) types of helmet recommended as affording protection to persons on or in motor cycles or other motor vehicles[^key-b465b15eae99920a186f51a75e6f3f78] , or motor cycles or other motor vehicles of different classes, from injury in the event of accident.
+(1) The Department may make regulations prescribing (by reference to shape, construction or any other quality) types of helmet recommended as affording protection to persons on or in motor cycles or other motor vehicles[^c-b465b15eae99920a186f51a75e6f3f78] , or motor cycles or other motor vehicles of different classes, from injury in the event of accident.
 
 (2) If a person sells, or offers or exposes for sale, a helmet as a helmet for affording such protection and the helmet is neither—
 
@@ -37,4 +37,4 @@ subject to paragraph (3), he is guilty of an offence.
 
 ## Annotations
 
-[^key-b465b15eae99920a186f51a75e6f3f78]: Textual amendment: Words in [art. 28(1)](https://www.legislation.gov.uk/nisi/1995/2994/article/28/1) inserted (25.11.2016) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 21(2)](https://www.legislation.gov.uk/nia/2016/11/section/21/2), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)
+[^c-b465b15eae99920a186f51a75e6f3f78]: Textual amendment: Words in [art. 28(1)](https://www.legislation.gov.uk/nisi/1995/2994/article/28/1) inserted (25.11.2016) by [Road Traffic (Amendment) Act (Northern Ireland) 2016 (c. 11)](https://www.legislation.gov.uk/nia/2016/11), [ss. 21(2)](https://www.legislation.gov.uk/nia/2016/11/section/21/2), [26(1)](https://www.legislation.gov.uk/nia/2016/11/section/26/1); [S.R. 2016/399](https://www.legislation.gov.uk/nisr/2016/399), [art. 2](https://www.legislation.gov.uk/nisr/2016/399/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2016/399/schedule)

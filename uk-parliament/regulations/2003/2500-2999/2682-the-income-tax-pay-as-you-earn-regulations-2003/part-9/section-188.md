@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Assessments other than self-assessments[^key-2b8a3e9a93dba4907571afe88e362cfc]
+## 188. Assessments other than self-assessments[^c-2b8a3e9a93dba4907571afe88e362cfc]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,13 +48,13 @@ summary: ''
 
 (7) In this regulation—
 
-- “direction” means a direction made under regulation 72(5), regulation 72F[^M_F_59119f59-d49a-4860-dfe8-3734e859a6f5] , or regulation 72GB[^key-1d83d175f73a376f44ae8d028633fd97] or 81(4) in relation to the employee in respect of one or more tax periods falling within the tax year in question;
+- “direction” means a direction made under regulation 72(5), regulation 72F[^M_F_59119f59-d49a-4860-dfe8-3734e859a6f5] , or regulation 72GB[^c-1d83d175f73a376f44ae8d028633fd97] or 81(4) in relation to the employee in respect of one or more tax periods falling within the tax year in question;
 - “direction tax” means any amount of tax which is the subject of a direction;
 - “tax payable under the assessment” means the amount of tax shown in the assessment as payable without regard to any amount shown in the notice of assessment as a deduction from, or a credit against, the amount of tax payable.
 
 ## Annotations
 
-[^key-2b8a3e9a93dba4907571afe88e362cfc]: Commencement: [Reg. 188](https://www.legislation.gov.uk/uksi/2003/2682/regulation/188) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
+[^c-2b8a3e9a93dba4907571afe88e362cfc]: Commencement: [Reg. 188](https://www.legislation.gov.uk/uksi/2003/2682/regulation/188) in force at 6.4.2004, see [reg. 1](https://www.legislation.gov.uk/uksi/2003/2682/regulation/1)
 
 [^f00081]: Footnote: Section 9 was substituted by section 179 of the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9), and amended by sections 121(4) and 122(1) of the Finance Act [1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), section 98(2) of the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36), paragraphs 1 and 2(1) of Schedule 29 to the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9) and paragraph 125 of Schedule 6 to ITEPA.
 
@@ -66,4 +66,4 @@ summary: ''
 
 [^M_F_59119f59-d49a-4860-dfe8-3734e859a6f5]: Textual amendment: Words in reg. 188(7) substituted (6.4.2008) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2008 (S.I. 2008/782)](https://www.legislation.gov.uk/uksi/2008/782), [regs. 1](https://www.legislation.gov.uk/uksi/2008/782/regulation/1), [15(c)](https://www.legislation.gov.uk/uksi/2008/782/regulation/15/c)
 
-[^key-1d83d175f73a376f44ae8d028633fd97]: Textual amendment: Words in [reg. 188(7)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/188/7) inserted (6.4.2024) by [The Income Tax (Pay As You Earn) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/355)](https://www.legislation.gov.uk/uksi/2024/355), [regs. 1](https://www.legislation.gov.uk/uksi/2024/355/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/355/regulation/2/3/b)
+[^c-1d83d175f73a376f44ae8d028633fd97]: Textual amendment: Words in [reg. 188(7)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/188/7) inserted (6.4.2024) by [The Income Tax (Pay As You Earn) (Amendment) (No. 2) Regulations 2024 (S.I. 2024/355)](https://www.legislation.gov.uk/uksi/2024/355), [regs. 1](https://www.legislation.gov.uk/uksi/2024/355/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2024/355/regulation/2/3/b)

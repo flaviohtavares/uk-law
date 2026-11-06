@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 101. Provision as to notices and other documents[^key-d8854d4b8450f3e7e3ef20dc6821aae0]
+## 101. Provision as to notices and other documents[^c-d8854d4b8450f3e7e3ef20dc6821aae0]
 
 *Extent: E*
 
@@ -34,10 +34,10 @@ Provided that, where the person on or to whom the notice or other document is to
 
 (6) If any question arises as to the person on or to whom, or the manner in which, any notice or other document is to be served, sent or given, the Commissioners may decide the question and their decision shall be conclusive.
 
-(7)[^key-3ecc20d0e53e301ff1d5039fd87f923b] Any reference in this section to serving, sending or giving a notice or other document includes a reference to sending it by electronic means.
+(7)[^c-3ecc20d0e53e301ff1d5039fd87f923b] Any reference in this section to serving, sending or giving a notice or other document includes a reference to sending it by electronic means.
 
 ## Annotations
 
-[^key-d8854d4b8450f3e7e3ef20dc6821aae0]: Commencement: S. 101 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-d8854d4b8450f3e7e3ef20dc6821aae0]: Commencement: S. 101 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
 
-[^key-3ecc20d0e53e301ff1d5039fd87f923b]: Textual amendment: S. 101(7) added (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 19(11)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/19/11); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)
+[^c-3ecc20d0e53e301ff1d5039fd87f923b]: Textual amendment: S. 101(7) added (19.5.2014) by [Church of England (Miscellaneous Provisions) Measure 2014 (No. 1)](https://www.legislation.gov.uk/ukcm/2014/1), [s. 21(2)](https://www.legislation.gov.uk/ukcm/2014/1/section/21/2), [Sch. 2 para. 19(11)](https://www.legislation.gov.uk/ukcm/2014/1/schedule/2/paragraph/19/11); [S.I. 2014/1369](https://www.legislation.gov.uk/uksi/2014/1369), [art. 2](https://www.legislation.gov.uk/uksi/2014/1369/article/2)

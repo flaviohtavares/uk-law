@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Punishment for destroying etc documents of an authorised insurance company[^key-025e0a88938e74527964bd41741811a0]
+## 23. Punishment for destroying etc documents of an authorised insurance company[^c-025e0a88938e74527964bd41741811a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-025e0a88938e74527964bd41741811a0]: Commencement: Art. 23 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-025e0a88938e74527964bd41741811a0]: Commencement: Art. 23 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00029]: Footnote: Subsection (1) was amended by the Companies Act [1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40), section 66(1).

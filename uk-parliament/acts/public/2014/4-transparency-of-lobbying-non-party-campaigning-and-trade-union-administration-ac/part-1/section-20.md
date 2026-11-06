@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Further provision about civil penalties[^c2201948][^key-6e88be4bb0c09c95f046554222c1f6aa]
+## 20. Further provision about civil penalties[^c2201948][^c-6e88be4bb0c09c95f046554222c1f6aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ Regulations may make further provision about civil penalties; and in particular 
 
 [^c2201948]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/4/section/20) partly in force; [s. 20](https://www.legislation.gov.uk/ukpga/2014/4/section/20) in force for certain purposes at Royal Assent, see [s. 45(3)(a)](https://www.legislation.gov.uk/ukpga/2014/4/section/45/3/a)
 
-[^key-6e88be4bb0c09c95f046554222c1f6aa]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/4/section/20) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)
+[^c-6e88be4bb0c09c95f046554222c1f6aa]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2014/4/section/20) in force at 1.4.2015 in so far as not already in force by [S.I. 2015/954](https://www.legislation.gov.uk/uksi/2015/954), [art. 2](https://www.legislation.gov.uk/uksi/2015/954/article/2)

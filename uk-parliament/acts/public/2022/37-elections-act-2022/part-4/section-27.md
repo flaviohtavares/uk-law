@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Third parties capable of giving notification for purposes of Part 6 of PPERA[^key-effd779746f2c45ab9491d78d1a931da][^key-3085a4945b9d43fa764b1ec3a932d5a0]
+## 27. Third parties capable of giving notification for purposes of Part 6 of PPERA[^c-effd779746f2c45ab9491d78d1a931da][^c-3085a4945b9d43fa764b1ec3a932d5a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-effd779746f2c45ab9491d78d1a931da]: Commencement: S. 27 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-effd779746f2c45ab9491d78d1a931da]: Commencement: S. 27 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-3085a4945b9d43fa764b1ec3a932d5a0]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/37/section/27) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-3085a4945b9d43fa764b1ec3a932d5a0]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2022/37/section/27) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)

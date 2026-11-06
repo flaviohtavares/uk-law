@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Payment of fees[^key-29277b7f10e1a51754083fa4dbe5962d]
+## 14. Payment of fees[^c-29277b7f10e1a51754083fa4dbe5962d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a fee which is payable under Part 3 of these Regulations is not paid withi
 
 ## Annotations
 
-[^key-29277b7f10e1a51754083fa4dbe5962d]: Commencement: Reg. 14 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-29277b7f10e1a51754083fa4dbe5962d]: Commencement: Reg. 14 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

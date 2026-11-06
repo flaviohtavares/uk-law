@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Duties to protect news publisher content[^key-f3729e844fd14363aa9768e13097ffb9]
+## 18. Duties to protect news publisher content[^c-f3729e844fd14363aa9768e13097ffb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -90,4 +90,4 @@ and also include references to taking any other action in relation to content on
 
 ## Annotations
 
-[^key-f3729e844fd14363aa9768e13097ffb9]: Commencement: S. 18 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-f3729e844fd14363aa9768e13097ffb9]: Commencement: S. 18 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)

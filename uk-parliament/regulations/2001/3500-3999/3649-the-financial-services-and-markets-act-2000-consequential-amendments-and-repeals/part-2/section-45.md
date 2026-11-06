@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Repeal of unnecessary provisions[^key-52054c080a38d7e17a8d0d3504febbe4]
+## 45. Repeal of unnecessary provisions[^c-52054c080a38d7e17a8d0d3504febbe4]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Articles 69 and 70 of the 1986 Order (so far as those Articles continue to have 
 
 ## Annotations
 
-[^key-52054c080a38d7e17a8d0d3504febbe4]: Commencement: Art. 45 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-52054c080a38d7e17a8d0d3504febbe4]: Commencement: Art. 45 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

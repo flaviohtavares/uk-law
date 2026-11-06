@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Award of expenses[^key-3b55d967bef4b76821e10e81c45707dc]
+## 64. Award of expenses[^c-3b55d967bef4b76821e10e81c45707dc]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b55d967bef4b76821e10e81c45707dc]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/10/section/64) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-3b55d967bef4b76821e10e81c45707dc]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2014/10/section/64) in force at 1.4.2015 by [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

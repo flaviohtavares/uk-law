@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. The Horses (Free Access to Competitions) Regulations 1992[^key-dcb8cc9a5e95c7a9c3186ba139fa269c]
+## 37. The Horses (Free Access to Competitions) Regulations 1992[^c-dcb8cc9a5e95c7a9c3186ba139fa269c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dcb8cc9a5e95c7a9c3186ba139fa269c]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2020/1388/regulation/37) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-dcb8cc9a5e95c7a9c3186ba139fa269c]: Commencement: [Reg. 37](https://www.legislation.gov.uk/uksi/2020/1388/regulation/37) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00072]: Footnote: [S.I. 1992/3044](https://www.legislation.gov.uk/uksi/1992/3044).

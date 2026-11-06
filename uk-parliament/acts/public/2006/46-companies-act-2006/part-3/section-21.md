@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Amendment of articles[^key-3c72aed7fdf19273583cd5c60c13a29f][^key-62936763279c9f75c16a46cda6c15a9c]
+## 21. Amendment of articles[^c-3c72aed7fdf19273583cd5c60c13a29f][^c-62936763279c9f75c16a46cda6c15a9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,9 +34,9 @@ summary: ''
 
 ## Annotations
 
-[^key-3c72aed7fdf19273583cd5c60c13a29f]: Modification: S. 21 excluded (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 85(2)(a)](https://www.legislation.gov.uk/ukpga/2015/26/section/85/2/a), [164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii)
+[^c-3c72aed7fdf19273583cd5c60c13a29f]: Modification: S. 21 excluded (26.5.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 85(2)(a)](https://www.legislation.gov.uk/ukpga/2015/26/section/85/2/a), [164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii)
 
-[^key-62936763279c9f75c16a46cda6c15a9c]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/2006/46/section/21) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
+[^c-62936763279c9f75c16a46cda6c15a9c]: Modification: [S. 21](https://www.legislation.gov.uk/ukpga/2006/46/section/21) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
 
 [^c21229301]: Textual amendment: Words in s. 21(2)(a) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [ss. 354](https://www.legislation.gov.uk/ukpga/2011/25/section/354), [355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 113](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/113) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 

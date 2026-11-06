@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 23. Content and effect of direct deduction orders[^key-64648f1d8afaa0d9f6870306ea90476c][^key-902c871486f55427804b782dc7a05e2e]
+## 23. Content and effect of direct deduction orders[^c-64648f1d8afaa0d9f6870306ea90476c][^c-902c871486f55427804b782dc7a05e2e]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64648f1d8afaa0d9f6870306ea90476c]: Commencement: S. 23 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-64648f1d8afaa0d9f6870306ea90476c]: Commencement: S. 23 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-902c871486f55427804b782dc7a05e2e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2025/28/section/23) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-902c871486f55427804b782dc7a05e2e]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2025/28/section/23) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

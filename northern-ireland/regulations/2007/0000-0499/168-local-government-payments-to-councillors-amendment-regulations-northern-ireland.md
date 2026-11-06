@@ -31,7 +31,7 @@ summary: ''
 
 local government
 
-Local Government (Payments to Councillors) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^key-b3ad935693faf4bb0f1cd3bb8f1d3664]
+Local Government (Payments to Councillors) (Amendment) Regulations (Northern Ireland) 2007 (revoked)[^c-b3ad935693faf4bb0f1cd3bb8f1d3664]
 
 Made
 
@@ -41,34 +41,34 @@ Coming into operation
 
 6th April 2007
 
-[^key-b3ad935693faf4bb0f1cd3bb8f1d3664]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3ad935693faf4bb0f1cd3bb8f1d3664]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b3ad935693faf4bb0f1cd3bb8f1d3664]
+## 1. Citation and commencement[^c-b3ad935693faf4bb0f1cd3bb8f1d3664]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Local Government (Payments to Councillors) Regulations (Northern Ireland) 1999[^key-b3ad935693faf4bb0f1cd3bb8f1d3664]
+## 2. Amendment of the Local Government (Payments to Councillors) Regulations (Northern Ireland) 1999[^c-b3ad935693faf4bb0f1cd3bb8f1d3664]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b3ad935693faf4bb0f1cd3bb8f1d3664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b3ad935693faf4bb0f1cd3bb8f1d3664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b3ad935693faf4bb0f1cd3bb8f1d3664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b3ad935693faf4bb0f1cd3bb8f1d3664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b3ad935693faf4bb0f1cd3bb8f1d3664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b3ad935693faf4bb0f1cd3bb8f1d3664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-b3ad935693faf4bb0f1cd3bb8f1d3664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b3ad935693faf4bb0f1cd3bb8f1d3664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-b3ad935693faf4bb0f1cd3bb8f1d3664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b3ad935693faf4bb0f1cd3bb8f1d3664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b3ad935693faf4bb0f1cd3bb8f1d3664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b3ad935693faf4bb0f1cd3bb8f1d3664] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3ad935693faf4bb0f1cd3bb8f1d3664]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3ad935693faf4bb0f1cd3bb8f1d3664]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b3ad935693faf4bb0f1cd3bb8f1d3664]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b3ad935693faf4bb0f1cd3bb8f1d3664]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b3ad935693faf4bb0f1cd3bb8f1d3664]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/168) repealed (1.4.2012) by [Local Government (Payments to Councillors) Regulations (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/85)](https://www.legislation.gov.uk/nisr/2012/85), [Sch. 3](https://www.legislation.gov.uk/nisr/2012/85/schedule/3)
+[^c-b3ad935693faf4bb0f1cd3bb8f1d3664]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2007/168) repealed (1.4.2012) by [Local Government (Payments to Councillors) Regulations (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/85)](https://www.legislation.gov.uk/nisr/2012/85), [Sch. 3](https://www.legislation.gov.uk/nisr/2012/85/schedule/3)

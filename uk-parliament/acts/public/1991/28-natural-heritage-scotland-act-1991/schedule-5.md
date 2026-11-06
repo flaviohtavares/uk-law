@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — Provisions as to applications for, making, coming into operation, and validity of, control orders[^key-c2138c8c4a57e16ca6367cb8eeab964f]
+## SCHEDULE 5 — Provisions as to applications for, making, coming into operation, and validity of, control orders[^c-c2138c8c4a57e16ca6367cb8eeab964f]
 
 *Extent: S*
 
@@ -24,48 +24,48 @@ Section 15.
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**2.**[^key-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**4.**[^key-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**8.**[^key-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**9.**[^key-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**10.**[^key-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**11.**[^key-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c2138c8c4a57e16ca6367cb8eeab964f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c2138c8c4a57e16ca6367cb8eeab964f]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/1991/28/schedule/5) repealed (1.4.2006) by [Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [Sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))
+[^c-c2138c8c4a57e16ca6367cb8eeab964f]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/1991/28/schedule/5) repealed (1.4.2006) by [Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [Sch. Pt. I](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [Sch. Pt. III](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))

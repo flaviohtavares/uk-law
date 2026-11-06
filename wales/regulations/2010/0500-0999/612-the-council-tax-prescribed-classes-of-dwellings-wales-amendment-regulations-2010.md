@@ -31,7 +31,7 @@ summary: ''
 
 COUNCIL TAX, WALES
 
-The Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2010 (revoked)[^key-6f7fab8c5832bc2cf12ae4d80a848752]
+The Council Tax (Prescribed Classes of Dwellings) (Wales) (Amendment) Regulations 2010 (revoked)[^c-6f7fab8c5832bc2cf12ae4d80a848752]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 April 2010
 
-[^key-6f7fab8c5832bc2cf12ae4d80a848752]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f7fab8c5832bc2cf12ae4d80a848752]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-6f7fab8c5832bc2cf12ae4d80a848752]
+## 1. Title, application and commencement[^c-6f7fab8c5832bc2cf12ae4d80a848752]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-6f7fab8c5832bc2cf12ae4d80a848752]
+## 2. Amendment of Regulations[^c-6f7fab8c5832bc2cf12ae4d80a848752]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f7fab8c5832bc2cf12ae4d80a848752]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f7fab8c5832bc2cf12ae4d80a848752]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6f7fab8c5832bc2cf12ae4d80a848752]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f7fab8c5832bc2cf12ae4d80a848752]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f7fab8c5832bc2cf12ae4d80a848752]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/612) revoked (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 16(g)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/16/g)
+[^c-6f7fab8c5832bc2cf12ae4d80a848752]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/612) revoked (1.4.2026) by [The Council Tax (Discounts, Disregards and Exemptions) (Wales) Regulations 2026 (W.S.I. 2026/8)](https://www.legislation.gov.uk/wsi/2026/8), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/8/regulation/1/2), [Sch. 4 para. 16(g)](https://www.legislation.gov.uk/wsi/2026/8/schedule/4/paragraph/16/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. The supplementary panel of the Supreme Court[^key-56c079e6ac0a3a18d4e0677f0be222db]
+## 82. The supplementary panel of the Supreme Court[^c-56c079e6ac0a3a18d4e0677f0be222db]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 39(4) of the Constitutional Reform Act 2005 (circumstances in which a
 
 ## Annotations
 
-[^key-56c079e6ac0a3a18d4e0677f0be222db]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2015/2/section/82) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/67)
+[^c-56c079e6ac0a3a18d4e0677f0be222db]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2015/2/section/82) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 67](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/67)

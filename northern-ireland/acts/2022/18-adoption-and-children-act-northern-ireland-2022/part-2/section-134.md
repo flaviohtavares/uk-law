@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 134. Care plans[^key-cce99833128d95825600dbe1a14724a5]
+## 134. Care plans[^c-cce99833128d95825600dbe1a14724a5]
 
 *Extent: N.I.*
 
@@ -49,4 +49,4 @@ the plan is to have effect as if made under Article 50A of the Children Order.
 
 ## Annotations
 
-[^key-cce99833128d95825600dbe1a14724a5]: Commencement: S. 134 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-cce99833128d95825600dbe1a14724a5]: Commencement: S. 134 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

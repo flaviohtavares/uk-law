@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 217. Duty of local authorities to offer loans to meet expenses of improvement of houses in housing action areas.[^key-4635f909e9db86dbe53e83fffde6372a]
+## 217. Duty of local authorities to offer loans to meet expenses of improvement of houses in housing action areas.[^c-4635f909e9db86dbe53e83fffde6372a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4635f909e9db86dbe53e83fffde6372a]: Textual amendment: [S. 217](https://www.legislation.gov.uk/ukpga/1987/26/section/217) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-4635f909e9db86dbe53e83fffde6372a]: Textual amendment: [S. 217](https://www.legislation.gov.uk/ukpga/1987/26/section/217) repealed (1.4.2010) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

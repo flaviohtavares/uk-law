@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41ZA. Basis of apportionment[^key-2159b7de1cc7f8bbdc3a79434fc2d2cc]
+## 41ZA. Basis of apportionment[^c-2159b7de1cc7f8bbdc3a79434fc2d2cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The extent to which general earnings are in respect of duties performed in the U
 
 ## Annotations
 
-[^key-2159b7de1cc7f8bbdc3a79434fc2d2cc]: Textual amendment: S. 41ZA and cross-heading inserted (with effect in accordance with Sch. 6 para. 7 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/6/paragraph/3)
+[^c-2159b7de1cc7f8bbdc3a79434fc2d2cc]: Textual amendment: S. 41ZA and cross-heading inserted (with effect in accordance with Sch. 6 para. 7 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2013/29/schedule/6/paragraph/3)

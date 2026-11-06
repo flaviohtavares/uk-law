@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 113. Amendment of the Agricultural Holdings (Scotland) Acts[^key-b4b7349efc36ff1380c67fc9d2bfeef6]
+## 113. Amendment of the Agricultural Holdings (Scotland) Acts[^c-b4b7349efc36ff1380c67fc9d2bfeef6]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4b7349efc36ff1380c67fc9d2bfeef6]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2016/18/section/113) in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2017/20/regulation/4))
+[^c-b4b7349efc36ff1380c67fc9d2bfeef6]: Commencement: [S. 113](https://www.legislation.gov.uk/asp/2016/18/section/113) in force at 13.6.2017 by [S.S.I. 2017/20](https://www.legislation.gov.uk/ssi/2017/20), [reg. 2](https://www.legislation.gov.uk/ssi/2017/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/20/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2017/20/regulation/4))

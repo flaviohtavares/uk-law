@@ -88,7 +88,7 @@ sub-paragraph (2) below shall apply in computing any chargeable gain accruing on
 
 **7.** (1) For the purposes of ascertaining the market value of an asset before 25th March 1973 section 272(3) and (4) shall have effect subject to the following modifications—
 
-- (a) for “quoted[^key-39f20c9a2d8c938665a87d805de2cea9] in The Stock Exchange Daily Official List” and “quoted in that List” there shall be substituted respectively “ quoted on the London Stock Exchange ”and “ so quoted ”;
+- (a) for “quoted[^c-39f20c9a2d8c938665a87d805de2cea9] in The Stock Exchange Daily Official List” and “quoted in that List” there shall be substituted respectively “ quoted on the London Stock Exchange ”and “ so quoted ”;
 - (b) for “The Stock Exchange Daily Official List” there shall be substituted “ the Stock Exchange Official Daily List ”;
 - (c) for “The Stock Exchange provides a more active market elsewhere than on the London trading floor” there shall be substituted “ some other stock exchange in the United Kingdom affords a more active market ”; and
 - (d) for “if the London trading floor is closed” there shall be substituted “ if the London Stock Exchange is closed ”.
@@ -305,7 +305,7 @@ and the amount of the excess shall be treated as an amount allowable under secti
 
 [^m00007]: Marginal citation: 1965 c. 25.
 
-[^key-39f20c9a2d8c938665a87d805de2cea9]: Textual amendment: Word in Sch. 11 para. 7(1)(a) substituted (with effect in accordance with Sch. 38 para. 12(3) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 38 para. 12(2)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/38/paragraph/12/2)
+[^c-39f20c9a2d8c938665a87d805de2cea9]: Textual amendment: Word in Sch. 11 para. 7(1)(a) substituted (with effect in accordance with Sch. 38 para. 12(3) of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 38 para. 12(2)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/38/paragraph/12/2)
 
 [^m00008]: Marginal citation: 1947 c. 14.
 

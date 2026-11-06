@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Members of the European Parliament[^key-3f0064d773bba6368704c73cbfcf5d1d]
+## 35. Members of the European Parliament[^c-3f0064d773bba6368704c73cbfcf5d1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ In section 4 of the European Parliament (Pay and Pensions) Act 1979 (pensions of
 
 ## Annotations
 
-[^key-3f0064d773bba6368704c73cbfcf5d1d]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2013/25/section/35) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/2/1/d)
+[^c-3f0064d773bba6368704c73cbfcf5d1d]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2013/25/section/35) in force at 1.11.2013 by [S.I. 2013/2818](https://www.legislation.gov.uk/uksi/2013/2818), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2013/2818/article/2/1/d)

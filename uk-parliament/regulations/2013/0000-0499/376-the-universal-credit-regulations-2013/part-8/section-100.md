@@ -22,7 +22,7 @@ summary: ''
 
 (1) This Chapter contains provisions about the reduction in the amount of an award of universal credit in the event of a failure by a claimant which is sanctionable under section 26 or 27 of the Act (“a sanctionable failure”).
 
-(1A)[^key-e00fd4c8ff0009c8d314f7054de555ca] In this Chapter references to a “current sanctionable failure” are to a sanctionable failure in relation to which the Secretary of State has not yet determined whether the amount of an award of universal credit is to be reduced under section 26 or 27 of the Act.
+(1A)[^c-e00fd4c8ff0009c8d314f7054de555ca] In this Chapter references to a “current sanctionable failure” are to a sanctionable failure in relation to which the Secretary of State has not yet determined whether the amount of an award of universal credit is to be reduced under section 26 or 27 of the Act.
 
 (2) How the period of the reduction for each sanctionable failure is to be determined is dealt with in regulations 101 to 105.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e00fd4c8ff0009c8d314f7054de555ca]: Textual amendment: [Reg. 100(1A)](https://www.legislation.gov.uk/uksi/2013/376/regulation/100/1A) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker's Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2016/678/regulation/5/5)
+[^c-e00fd4c8ff0009c8d314f7054de555ca]: Textual amendment: [Reg. 100(1A)](https://www.legislation.gov.uk/uksi/2013/376/regulation/100/1A) inserted (with application in accordance with reg. 2 of the amending S.I.) by [The Social Security (Jobseeker's Allowance, Employment and Support Allowance and Universal Credit) (Amendment) Regulations 2016 (S.I. 2016/678)](https://www.legislation.gov.uk/uksi/2016/678), [regs. 1](https://www.legislation.gov.uk/uksi/2016/678/regulation/1), [5(5)](https://www.legislation.gov.uk/uksi/2016/678/regulation/5/5)

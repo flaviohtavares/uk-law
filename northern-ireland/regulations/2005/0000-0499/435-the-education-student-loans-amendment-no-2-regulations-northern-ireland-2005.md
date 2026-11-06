@@ -41,17 +41,17 @@ Coming into operation
 
 The Department for Employment and Learning[^f00001], in exercise of the powers conferred by Article 3(5) of and paragraph 1(1) of Schedule 2 to the Education (Student Loans) (Northern Ireland) Order 1990[^f00002] and now vested in it[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-53688ccf0aa2e670e92ae5f3fc59f085]
+## 1. Citation, commencement and interpretation[^c-53688ccf0aa2e670e92ae5f3fc59f085]
 
 These Regulations may be cited as the Education (Student Loans) (Amendment) (No.2) Regulations (Northern Ireland) 2005 and shall come into operation on 24th October 2005.
 
-**2.**[^key-aa854362497372aea1deed610809fbec] In these Regulations “the Principal Regulations” means the Education (Student Loans) Regulations (Northern Ireland) 1998[^f00004].
+**2.**[^c-aa854362497372aea1deed610809fbec] In these Regulations “the Principal Regulations” means the Education (Student Loans) Regulations (Northern Ireland) 1998[^f00004].
 
-## 3. Amendment of the Principal Regulations[^key-8de88b40c7c8962217273c75b3a9580a]
+## 3. Amendment of the Principal Regulations[^c-8de88b40c7c8962217273c75b3a9580a]
 
 The Principal Regulations shall be amended as provided by regulations 4 to 8.
 
-## 4.[^key-3b7f1b866a302926f4f8d2455ad72bf8]
+## 4.[^c-3b7f1b866a302926f4f8d2455ad72bf8]
 
 In regulation 3 (Interpretation) in paragraph (1) after the definition of “metropolitan police district”, there shall be inserted—
 
@@ -61,7 +61,7 @@ In regulation 3 (Interpretation) in paragraph (1) after the definition of “met
 
 .
 
-## 5.[^key-6cd08b3ec795a3ea7d840e7684453040]
+## 5.[^c-6cd08b3ec795a3ea7d840e7684453040]
 
 (1) Regulation 4 (Conditions of eligibility) shall be amended as provided by paragraph (2).
 
@@ -84,23 +84,23 @@ In regulation 3 (Interpretation) in paragraph (1) after the definition of “met
 
 .
 
-## 6.[^key-75331bac0eb241ad12aabaccd49bf199]
+## 6.[^c-75331bac0eb241ad12aabaccd49bf199]
 
 (1) Regulation 6[^f00006] (Amounts of loans) shall be amended as provided by paragraph (2).
 
 (2) In paragraphs (1) to (4) for the figure “1,1575” in each place where it appears there shall be substituted “1,575”.
 
-## 7.[^key-52401f2649f7539e5a2a8554db59e533]
+## 7.[^c-52401f2649f7539e5a2a8554db59e533]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8.[^key-1f692e3b32ef51295061690d256ac7c8]
+## 8.[^c-1f692e3b32ef51295061690d256ac7c8]
 
 (1) Schedule 2 (Terms of Loans) shall be amended as provided by paragraphs (2) to (5).
 
-(2)[^key-1a6a330d519eabe9dc41337d8cc00aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1a6a330d519eabe9dc41337d8cc00aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-1a6a330d519eabe9dc41337d8cc00aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1a6a330d519eabe9dc41337d8cc00aba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After paragraph 4, there shall be inserted—
 
@@ -142,26 +142,26 @@ Regulation 6 corrects a drafting error.
 
 [^f00003]: Footnote: [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481), Article 5(b) and Schedule 3 Part II
 
-[^key-53688ccf0aa2e670e92ae5f3fc59f085]: Commencement: Reg. 1 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
+[^c-53688ccf0aa2e670e92ae5f3fc59f085]: Commencement: Reg. 1 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
 
-[^key-aa854362497372aea1deed610809fbec]: Commencement: Reg. 2 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
+[^c-aa854362497372aea1deed610809fbec]: Commencement: Reg. 2 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
 
 [^f00004]: Footnote: [S.R. 1998 No. 58](https://www.legislation.gov.uk/nisr/1998/58) as amended by [S.R. 1998 No.262](https://www.legislation.gov.uk/nisr/1998/262), [S.R. 1998 No.303](https://www.legislation.gov.uk/nisr/1998/303), [S.R. 1999 No.343](https://www.legislation.gov.uk/nisr/1999/343), [S.R. 2000 No. 244](https://www.legislation.gov.uk/nisr/2000/244), [S.R. 2001 No. 276](https://www.legislation.gov.uk/nisr/2001/276), [S.R. 2002 No. 241](https://www.legislation.gov.uk/nisr/2002/241), [S.R. 2004 No. 305](https://www.legislation.gov.uk/nisr/2004/305) and [S.R. 2005 No. 351](https://www.legislation.gov.uk/nisr/2005/351)
 
-[^key-8de88b40c7c8962217273c75b3a9580a]: Commencement: Reg. 3 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
+[^c-8de88b40c7c8962217273c75b3a9580a]: Commencement: Reg. 3 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
 
-[^key-3b7f1b866a302926f4f8d2455ad72bf8]: Commencement: Reg. 4 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
+[^c-3b7f1b866a302926f4f8d2455ad72bf8]: Commencement: Reg. 4 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2005 No. 351](https://www.legislation.gov.uk/nisr/2005/351)
 
-[^key-6cd08b3ec795a3ea7d840e7684453040]: Commencement: Reg. 5 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
+[^c-6cd08b3ec795a3ea7d840e7684453040]: Commencement: Reg. 5 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
 
-[^key-75331bac0eb241ad12aabaccd49bf199]: Commencement: Reg. 6 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
+[^c-75331bac0eb241ad12aabaccd49bf199]: Commencement: Reg. 6 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
 
 [^f00006]: Footnote: Regulation 6 was amended by [S.R. 2005 No. 351](https://www.legislation.gov.uk/nisr/2005/351) regulation 4
 
-[^key-52401f2649f7539e5a2a8554db59e533]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/435/regulation/7) revoked (1.8.2006) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/307)](https://www.legislation.gov.uk/nisr/2006/307), [regs. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2006/307/regulation/4/a)
+[^c-52401f2649f7539e5a2a8554db59e533]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/435/regulation/7) revoked (1.8.2006) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/307)](https://www.legislation.gov.uk/nisr/2006/307), [regs. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1), [4(a)](https://www.legislation.gov.uk/nisr/2006/307/regulation/4/a)
 
-[^key-1f692e3b32ef51295061690d256ac7c8]: Commencement: Reg. 8 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
+[^c-1f692e3b32ef51295061690d256ac7c8]: Commencement: Reg. 8 in operation at 24.10.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/435/regulation/1)
 
-[^key-1a6a330d519eabe9dc41337d8cc00aba]: Textual amendment: [Reg. 8(2)-(3)](https://www.legislation.gov.uk/nisr/2005/435/regulation/8/2) revoked (1.8.2006) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/307)](https://www.legislation.gov.uk/nisr/2006/307), [regs. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2006/307/regulation/4/b)
+[^c-1a6a330d519eabe9dc41337d8cc00aba]: Textual amendment: [Reg. 8(2)-(3)](https://www.legislation.gov.uk/nisr/2005/435/regulation/8/2) revoked (1.8.2006) by [The Education (Student Loans) (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/307)](https://www.legislation.gov.uk/nisr/2006/307), [regs. 1](https://www.legislation.gov.uk/nisr/2006/307/regulation/1), [4(b)](https://www.legislation.gov.uk/nisr/2006/307/regulation/4/b)

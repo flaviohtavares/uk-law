@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Sanctions for non-compliance with obligations under sections 12 to 15[^key-4ba87b41d54301b5c618b397763a0130]
+## 16. Sanctions for non-compliance with obligations under sections 12 to 15[^c-4ba87b41d54301b5c618b397763a0130]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ba87b41d54301b5c618b397763a0130]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2011/16/section/16) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/iv)
+[^c-4ba87b41d54301b5c618b397763a0130]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2011/16/section/16) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/iv)

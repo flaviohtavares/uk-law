@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12.20. The Gazette[^key-4e7fb80fdfcfb6395776ce90a8c57bd0]
+## 12.20. The Gazette[^c-4e7fb80fdfcfb6395776ce90a8c57bd0]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e7fb80fdfcfb6395776ce90a8c57bd0]: Commencement: [Rule 12.20](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.20) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-4e7fb80fdfcfb6395776ce90a8c57bd0]: Commencement: [Rule 12.20](https://www.legislation.gov.uk/uksi/1986/1925/rule/12.20) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

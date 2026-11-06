@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — STREETS SUBJECT TO STREET WORKS[^key-9b6b782b2dc05e04f4b738c8397dd769]
+## SCHEDULE 3 — STREETS SUBJECT TO STREET WORKS[^c-9b6b782b2dc05e04f4b738c8397dd769]
 
 *Extent: E+W+S*
 
@@ -56,10 +56,10 @@ Article 12
 </tbody>
 </table>
 
-[^key-8892f982cb1dc11cbf546faa08f73b5a]
+[^c-8892f982cb1dc11cbf546faa08f73b5a]
 
 ## Annotations
 
-[^key-9b6b782b2dc05e04f4b738c8397dd769]: Commencement: Sch. 3 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-9b6b782b2dc05e04f4b738c8397dd769]: Commencement: Sch. 3 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-8892f982cb1dc11cbf546faa08f73b5a]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2025/362/schedule/3) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)
+[^c-8892f982cb1dc11cbf546faa08f73b5a]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/uksi/2025/362/schedule/3) substituted (15.5.2026) by [The North Lincolnshire Green Energy Park (Correction) Order 2026 (S.I. 2026/533)](https://www.legislation.gov.uk/uksi/2026/533), [arts. 1](https://www.legislation.gov.uk/uksi/2026/533/article/1), [2](https://www.legislation.gov.uk/uksi/2026/533/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2026/533/schedule)

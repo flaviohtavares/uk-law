@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-86261202793d23eded91300ee852bdcc] PACE is amended as follows.
+(1)[^c-86261202793d23eded91300ee852bdcc] PACE is amended as follows.
 
-(2)[^key-86261202793d23eded91300ee852bdcc] In section 8 (power to authorise entry and search of premises), after the subsection (1B) inserted by section 113(4) of this Act insert—
+(2)[^c-86261202793d23eded91300ee852bdcc] In section 8 (power to authorise entry and search of premises), after the subsection (1B) inserted by section 113(4) of this Act insert—
 
 > (1C) The warrant may authorise entry to and search of premises on more than one occasion if, on the application, the justice of the peace is satisfied that it is necessary to authorise multiple entries in order to achieve the purpose for which he issues the warrant.
 >
 > (1D) If it authorises multiple entries, the number of entries authorised may be unlimited, or limited to a maximum.
 
-(3)[^key-86261202793d23eded91300ee852bdcc] Section 15 (search warrants—safeguards) is amended as provided in subsections (4) to (7).
+(3)[^c-86261202793d23eded91300ee852bdcc] Section 15 (search warrants—safeguards) is amended as provided in subsections (4) to (7).
 
-(4)[^key-86261202793d23eded91300ee852bdcc] In subsection (2)(a)—
+(4)[^c-86261202793d23eded91300ee852bdcc] In subsection (2)(a)—
 
 - (a) omit “and” at the end of sub-paragraph (i),
 - (b) at the end of sub-paragraph (ii) insert “ and ”,
@@ -40,17 +40,17 @@ summary: ''
 
   .
 
-(5)[^key-86261202793d23eded91300ee852bdcc] In subsection (5), at the end add “ unless it specifies that it authorises multiple entries ”.
+(5)[^c-86261202793d23eded91300ee852bdcc] In subsection (5), at the end add “ unless it specifies that it authorises multiple entries ”.
 
-(6)[^key-86261202793d23eded91300ee852bdcc] After subsection (5) insert—
+(6)[^c-86261202793d23eded91300ee852bdcc] After subsection (5) insert—
 
 > (5A) If it specifies that it authorises multiple entries, it must also specify whether the number of entries authorised is unlimited, or limited to a specified maximum.
 
-(7)[^key-86261202793d23eded91300ee852bdcc] For subsection (7) substitute—
+(7)[^c-86261202793d23eded91300ee852bdcc] For subsection (7) substitute—
 
 > (7) Two copies shall be made of a specific premises warrant (see section 8(1A)(a) above) which specifies only one set of premises and does not authorise multiple entries; and as many copies as are reasonably required may be made of any other kind of warrant.
 
-(8)[^key-86261202793d23eded91300ee852bdcc] In section 16 (execution of warrants)—
+(8)[^c-86261202793d23eded91300ee852bdcc] In section 16 (execution of warrants)—
 
 - (a) in subsection (3), for “one month” substitute “ three months ”,
 - (b) after the subsection (3A) inserted by section 113(9)(a) of this Act, insert—
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86261202793d23eded91300ee852bdcc]: Commencement: [S. 114(1)-(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/114/1) in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/n)
+[^c-86261202793d23eded91300ee852bdcc]: Commencement: [S. 114(1)-(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/114/1) in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(n)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/n)

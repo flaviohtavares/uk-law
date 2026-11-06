@@ -43,8 +43,8 @@ is not liable in damages for anything done or omitted in the exercise or purport
 
 the Secretary of State must publish a statement of the reasons why no such provision is in force.
 
-(5) In this section “**national system operator**” means the person designated as the Independent System Operator and Planner under section 162 of the Energy Act 2023.[^key-14c8a92cc3894bcd928d65f7382d7d46]
+(5) In this section “**national system operator**” means the person designated as the Independent System Operator and Planner under section 162 of the Energy Act 2023.[^c-14c8a92cc3894bcd928d65f7382d7d46]
 
 ## Annotations
 
-[^key-14c8a92cc3894bcd928d65f7382d7d46]: Textual amendment: Words in s. 63(5) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(9)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/9); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-14c8a92cc3894bcd928d65f7382d7d46]: Textual amendment: Words in s. 63(5) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [9(9)](https://www.legislation.gov.uk/uksi/2024/706/regulation/9/9); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)

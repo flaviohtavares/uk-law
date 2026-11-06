@@ -91,7 +91,7 @@ HAS ADOPTED THIS REGULATION:
 
 2. This Regulation shall not apply to a simple detoxification process through which the contamination by an undesirable substance is reduced or eliminated by a usual refining process, cleaning, sorting or mechanical removal of contaminants or certain parts of the contaminated feed.
 
-(3.)[^key-9131205bfcb441e8bb96c8569e694d37] The following definitions apply for the purpose of this Regulation—
+(3.)[^c-9131205bfcb441e8bb96c8569e694d37] The following definitions apply for the purpose of this Regulation—
 
 - (a) “**appropriate authority**” means—
   - (i) in relation to England; the Secretary of State;
@@ -106,21 +106,21 @@ HAS ADOPTED THIS REGULATION:
 A detoxification process shall only be applied if:
 
 - the process is exclusively intended for the detoxification of feed in which the non-compliance as regards Directive 2002/32/EC does not result from an on purpose non-compliance to the requirements set out in articles 4 and 5 of Regulation (EC) No 183/2005,
-- the Food Safety Authority has performed, on request of the appropriate authority, a scientific assessment of the detoxification process, and concluded that the detoxification process complies with the acceptability criteria, as set out in Articles 3, 4 and 5.[^key-bc70b3b2599fd4cc4ee1bf799b0392a9]
+- the Food Safety Authority has performed, on request of the appropriate authority, a scientific assessment of the detoxification process, and concluded that the detoxification process complies with the acceptability criteria, as set out in Articles 3, 4 and 5.[^c-bc70b3b2599fd4cc4ee1bf799b0392a9]
 
 ## Article 3. Acceptability criteria for a physical detoxification process
 
-1. A scientific assessment shall be performed by the Food Safety Authority[^key-eb455641b8f860aa5cda2f7ce4cfff97] on a physical detoxification process assessing if the following criteria are met:
+1. A scientific assessment shall be performed by the Food Safety Authority[^c-eb455641b8f860aa5cda2f7ce4cfff97] on a physical detoxification process assessing if the following criteria are met:
 
 - (a) the process is effective;
 - (b) the process does not adversely affect the characteristics and the nature of the feed; and
 - (c) a safe disposal of the removed part of the feed is guaranteed.
 
-2. The information which the feed business operator shall provide to the appropriate authority[^key-819d273a4b2ce6dae449736ebaa9f9cc] for the purpose of the assessment of such a process is listed in point 1 of the Annex.
+2. The information which the feed business operator shall provide to the appropriate authority[^c-819d273a4b2ce6dae449736ebaa9f9cc] for the purpose of the assessment of such a process is listed in point 1 of the Annex.
 
 ## Article 4. Acceptability criteria for a chemical detoxification process
 
-1. A scientific assessment shall be performed by the Food Safety Authority[^key-3ea3e3d9b2291250531f4be81dac67f5] on a chemical detoxification process assessing if the following criteria are met:
+1. A scientific assessment shall be performed by the Food Safety Authority[^c-3ea3e3d9b2291250531f4be81dac67f5] on a chemical detoxification process assessing if the following criteria are met:
 
 - (a) the process is performed with a fully characterised and acceptable chemical substance;
 - (b) the process is effective and irreversible;
@@ -128,11 +128,11 @@ A detoxification process shall only be applied if:
 - (d) the process does not result in reaction products of the contaminant that endanger animal and public health and the environment; and
 - (e) the process does not adversely affect the characteristics and the nature of the feed.
 
-2. The information which the feed business operator shall provide to the appropriate authority[^key-cda4af9c9a4572a44492ce5d7497fb81] for the purpose of assessment of such a process is listed in point 2 of the Annex.
+2. The information which the feed business operator shall provide to the appropriate authority[^c-cda4af9c9a4572a44492ce5d7497fb81] for the purpose of assessment of such a process is listed in point 2 of the Annex.
 
 ## Article 5. Acceptability criteria for a (micro)biological detoxification process
 
-1. A scientific assessment shall be performed by the Food Safety Authority[^key-440d81f9a193f4f3f424d02dd50fc3de] on a (micro)biological detoxification process assessing if the following criteria are met:
+1. A scientific assessment shall be performed by the Food Safety Authority[^c-440d81f9a193f4f3f424d02dd50fc3de] on a (micro)biological detoxification process assessing if the following criteria are met:
 
 - (a) the process is performed with a fully characterised and acceptable (micro)biological agent;
 - (b) the process is effective and irreversible;
@@ -140,7 +140,7 @@ A detoxification process shall only be applied if:
 - (d) the process does not result in metabolites of the contaminant that endanger animal and public health and the environment; and
 - (e) the process does not adversely affect the characteristics and the nature of the feed.
 
-2. The information which the feed business operator shall provide to the appropriate authority[^key-7b62976b2b7eb8686d6a34945a731871] for the purpose of assessment of such a process is listed in point 3 of the Annex.
+2. The information which the feed business operator shall provide to the appropriate authority[^c-7b62976b2b7eb8686d6a34945a731871] for the purpose of assessment of such a process is listed in point 3 of the Annex.
 
 ## Article 6. Establishments where the detoxification process is carried out
 
@@ -148,11 +148,11 @@ A detoxification process shall only be applied if:
 
 2. The competent authority, referred to in point 1, may require that the feed business operator provides independent expert advice in order to decide on the acceptability of the application of the detoxification process in the relevant establishment, ensuring a correct and effective application of the detoxification process in the establishment.
 
-3. The national list of approved establishments, as defined in Article 19(2) of Regulation (EC) No 183/2005, shall mention for the establishments, approved for carrying out a detoxification process, the accepted detoxification process. [^key-179c26676a2c6680f12d25aad3c8d2c5]...
+3. The national list of approved establishments, as defined in Article 19(2) of Regulation (EC) No 183/2005, shall mention for the establishments, approved for carrying out a detoxification process, the accepted detoxification process. [^c-179c26676a2c6680f12d25aad3c8d2c5]...
 
 ## Article 7. Emergency situations
 
-In case of an urgent need to decontaminate a large amount of feed with a detoxification process not yet assessed by the Food Safety Authority[^key-65f73e8156efaf9381c1b0d681cecf06], the appropriate authority[^key-81e5d2a52b0c712efec6608e16cfc025] may request to the Food Safety Authority on request of a competent authority to provide within a short period of time for an assessment of the detoxification process to enable, in case of a favourable outcome, for a defined short period of time, the detoxification of specifically identified contaminated consignments. The use of this detoxification process on a wider scale for an undetermined period of time is only allowed after the Food Safety Authority has performed a comprehensive scientific assessment with favourable outcome.
+In case of an urgent need to decontaminate a large amount of feed with a detoxification process not yet assessed by the Food Safety Authority[^c-65f73e8156efaf9381c1b0d681cecf06], the appropriate authority[^c-81e5d2a52b0c712efec6608e16cfc025] may request to the Food Safety Authority on request of a competent authority to provide within a short period of time for an assessment of the detoxification process to enable, in case of a favourable outcome, for a defined short period of time, the detoxification of specifically identified contaminated consignments. The use of this detoxification process on a wider scale for an undetermined period of time is only allowed after the Food Safety Authority has performed a comprehensive scientific assessment with favourable outcome.
 
 ## Article 8. Transitional measures
 
@@ -164,7 +164,7 @@ This Regulation shall enter into force on the twentieth day following that of it
 
 It shall apply from 1 July 2017.
 
-[^key-0dced9ee57dd321df714aad76abfb35b]...
+[^c-0dced9ee57dd321df714aad76abfb35b]...
 
 Done at Brussels, 19 May 2015.
 
@@ -180,7 +180,7 @@ Jean-Claude Juncker
 
 **Information to be provided for the purposes of the acceptance of a physical detoxification process, as referred to in Article 3(2)**
 
-The following elements shall be provided to the appropriate authority[^key-bacb1bf066e1060f3bfcabe427f30b75] per matrix (feed material, compound feed, any other product intended for animal feeding):
+The following elements shall be provided to the appropriate authority[^c-bacb1bf066e1060f3bfcabe427f30b75] per matrix (feed material, compound feed, any other product intended for animal feeding):
 
 - ((a)) data on the efficiency of the physical detoxification process to remove the contamination from the batch of feed, so that the batch of feed complies with the requirements of Directive 2002/32/EC;
 - ((b)) evidence that the physical detoxification process does not adversely affect the characteristics and the nature of the feed; and
@@ -221,28 +221,28 @@ The following elements shall be provided to the appropriate authority per matrix
 
 [^f00004]: Footnote: Regulation (EC) No 1831/2003 of the European Parliament and of the Council of 22 September 2003 on additives for use in animal nutrition ([OJ L 268, 18.10.2003, p. 29](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2003.268.01.0029.01.ENG)).
 
-[^key-9131205bfcb441e8bb96c8569e694d37]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eur/2015/786/article/1/3) inserted by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [137](https://www.legislation.gov.uk/uksi/2019/654/regulation/137) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(22)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9131205bfcb441e8bb96c8569e694d37]: Textual amendment: [Art. 1(3)](https://www.legislation.gov.uk/eur/2015/786/article/1/3) inserted by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [137](https://www.legislation.gov.uk/uksi/2019/654/regulation/137) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [12(22)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/12/22)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bc70b3b2599fd4cc4ee1bf799b0392a9]: Textual amendment: Words in Art. 2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [138](https://www.legislation.gov.uk/uksi/2019/654/regulation/138); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc70b3b2599fd4cc4ee1bf799b0392a9]: Textual amendment: Words in Art. 2 substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [138](https://www.legislation.gov.uk/uksi/2019/654/regulation/138); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eb455641b8f860aa5cda2f7ce4cfff97]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2015/786/article/3/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [139(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/139/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eb455641b8f860aa5cda2f7ce4cfff97]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2015/786/article/3/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [139(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/139/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-819d273a4b2ce6dae449736ebaa9f9cc]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2015/786/article/3/2) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [139(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/139/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-819d273a4b2ce6dae449736ebaa9f9cc]: Textual amendment: Words in [Art. 3(2)](https://www.legislation.gov.uk/eur/2015/786/article/3/2) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [139(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/139/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3ea3e3d9b2291250531f4be81dac67f5]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2015/786/article/4/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [140(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/140/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ea3e3d9b2291250531f4be81dac67f5]: Textual amendment: Words in [Art. 4(1)](https://www.legislation.gov.uk/eur/2015/786/article/4/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [140(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/140/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cda4af9c9a4572a44492ce5d7497fb81]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2015/786/article/4/2) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [140(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/140/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cda4af9c9a4572a44492ce5d7497fb81]: Textual amendment: Words in [Art. 4(2)](https://www.legislation.gov.uk/eur/2015/786/article/4/2) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [140(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/140/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-440d81f9a193f4f3f424d02dd50fc3de]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2015/786/article/5/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [141(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/141/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-440d81f9a193f4f3f424d02dd50fc3de]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2015/786/article/5/1) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [141(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/141/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7b62976b2b7eb8686d6a34945a731871]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2015/786/article/5/2) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [141(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/141/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b62976b2b7eb8686d6a34945a731871]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2015/786/article/5/2) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [141(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/141/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-179c26676a2c6680f12d25aad3c8d2c5]: Textual amendment: Words in [Art. 6(3)](https://www.legislation.gov.uk/eur/2015/786/article/6/3) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [142](https://www.legislation.gov.uk/uksi/2019/654/regulation/142); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-179c26676a2c6680f12d25aad3c8d2c5]: Textual amendment: Words in [Art. 6(3)](https://www.legislation.gov.uk/eur/2015/786/article/6/3) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [142](https://www.legislation.gov.uk/uksi/2019/654/regulation/142); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-65f73e8156efaf9381c1b0d681cecf06]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2015/786/article/7) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [143(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/143/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-65f73e8156efaf9381c1b0d681cecf06]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2015/786/article/7) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [143(a)](https://www.legislation.gov.uk/uksi/2019/654/regulation/143/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-81e5d2a52b0c712efec6608e16cfc025]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2015/786/article/7) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [143(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/143/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-81e5d2a52b0c712efec6608e16cfc025]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2015/786/article/7) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [143(b)](https://www.legislation.gov.uk/uksi/2019/654/regulation/143/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0dced9ee57dd321df714aad76abfb35b]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/786/signature) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [144](https://www.legislation.gov.uk/uksi/2019/654/regulation/144); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0dced9ee57dd321df714aad76abfb35b]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2015/786/signature) omitted (31.12.2020) by virtue of [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [144](https://www.legislation.gov.uk/uksi/2019/654/regulation/144); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bacb1bf066e1060f3bfcabe427f30b75]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2015/786/annex) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [145](https://www.legislation.gov.uk/uksi/2019/654/regulation/145); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bacb1bf066e1060f3bfcabe427f30b75]: Textual amendment: Word in [Annex](https://www.legislation.gov.uk/eur/2015/786/annex) substituted (31.12.2020) by [The Animal Feed (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/654)](https://www.legislation.gov.uk/uksi/2019/654), [regs. 1](https://www.legislation.gov.uk/uksi/2019/654/regulation/1), [145](https://www.legislation.gov.uk/uksi/2019/654/regulation/145); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

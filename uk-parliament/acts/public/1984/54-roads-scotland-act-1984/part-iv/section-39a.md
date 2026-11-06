@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39A. Powers to carry out traffic calming works.[^c1610689][^key-0d453a36efa7aa7510935f7979c23607]
+## 39A. Powers to carry out traffic calming works.[^c1610689][^c-0d453a36efa7aa7510935f7979c23607]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ and may remove such works (whenever constructed).
 
 [^c1610689]: Textual amendment: S. 39A inserted (16. 5. 1992) by [Traffic Calming Act 1992 (c. 30)](https://www.legislation.gov.uk/ukpga/1992/30), [ss. 2(1)](https://www.legislation.gov.uk/ukpga/1992/30/section/2/1), [3](https://www.legislation.gov.uk/ukpga/1992/30/section/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/1992/30/schedule/2)
 
-[^key-0d453a36efa7aa7510935f7979c23607]: Modification: S. 39A: transfer of functions (23.3.2005) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-0d453a36efa7aa7510935f7979c23607]: Modification: S. 39A: transfer of functions (23.3.2005) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))

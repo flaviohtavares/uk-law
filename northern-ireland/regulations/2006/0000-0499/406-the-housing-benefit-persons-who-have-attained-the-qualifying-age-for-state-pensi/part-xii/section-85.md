@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Restrictions on recovery of rent and consequent modifications[^key-b4a9d687b99f8b65d5f152ea27ecd139]
+## 85. Restrictions on recovery of rent and consequent modifications[^c-b4a9d687b99f8b65d5f152ea27ecd139]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b4a9d687b99f8b65d5f152ea27ecd139]: Commencement: [Reg. 85](https://www.legislation.gov.uk/nisr/2006/406/regulation/85) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-b4a9d687b99f8b65d5f152ea27ecd139]: Commencement: [Reg. 85](https://www.legislation.gov.uk/nisr/2006/406/regulation/85) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)

@@ -53,15 +53,15 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred on Her by section 66 of the Civil Aviation Act 1949[^f00001], section 66 of the Civil Aviation Act 1971[^f00002] and section 108 of the Civil Aviation Act 1982[^f00003] and all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered as follows:
 
-## 1. Citation and commencement[^key-cab54679c03e67b1f2a10218a9677b1c]
+## 1. Citation and commencement[^c-cab54679c03e67b1f2a10218a9677b1c]
 
 This Order may be cited as the Civil Aviation Act 1982 (Overseas Territories) Order 2001 and shall come into force on 16th May 2001.
 
-## 2. Revocation[^key-fc1831de29c73983adeb311ed2054f43]
+## 2. Revocation[^c-fc1831de29c73983adeb311ed2054f43]
 
 The Civil Aviation Act 1971 (Overseas Territories) Order 1976[^f00004] is hereby revoked, except insofar as it applies to Gibraltar.
 
-## 3. Amendment of the Civil Aviation Act 1949 (Overseas Territories) Order 1969[^key-21bce87f85a43eea28fa3355c5f4b994]
+## 3. Amendment of the Civil Aviation Act 1949 (Overseas Territories) Order 1969[^c-21bce87f85a43eea28fa3355c5f4b994]
 
 The Civil Aviation Act 1949 (Overseas Territories) Order 1969[^f00005] is hereby amended as follows:
 
@@ -71,15 +71,15 @@ The Civil Aviation Act 1949 (Overseas Territories) Order 1969[^f00005] is hereby
 
 (3) Paragraph 3 of Schedule 2 shall be deleted.
 
-## 4. Extension of sections 61 and 75 of the Civil Aviation Act 1982[^key-63fcf913a7f957ee12aa09080546def6]
+## 4. Extension of sections 61 and 75 of the Civil Aviation Act 1982[^c-63fcf913a7f957ee12aa09080546def6]
 
 Sections 61 and 75 of the Civil Aviation Act 1982 modified as in Schedule 1 to this Order shall extend to the Territories specified in Schedule 2.
 
-## 5. Savings[^key-3d777b98103c37349fb99434a1983dac]
+## 5. Savings[^c-3d777b98103c37349fb99434a1983dac]
 
 Nothing in this Order shall affect any Order in Council made under section 8 of the Civil Aviation Act 1949, as extended to the Territory by the Civil Aviation Act 1949 (Overseas Territories) Order 1969 or any regulations made under section 10 of the said Act as so extended, being an Order in Council or regulations in force immediately before the coming into force of this Order.
 
-## 6. Interpretation[^key-9f3f257c26dff0e5657fcb5c7c905e53]
+## 6. Interpretation[^c-9f3f257c26dff0e5657fcb5c7c905e53]
 
 In this Order—
 
@@ -95,7 +95,7 @@ Clerk of the Privy Council
 
 Article 4
 
-**1.**[^key-3932b05f72b77ea7a70b4036341bc852] Section 61.
+**1.**[^c-3932b05f72b77ea7a70b4036341bc852] Section 61.
 
 (1) An Order made pursuant to section 8 of the Civil Aviation Act 1949, as extended to the Territory by the Civil Aviation Act 1949 (Overseas Territories) Order 1969, may, for the purpose of securing compliance with its provisions, provide—
 
@@ -108,7 +108,7 @@ Article 4
 - (b) to authorise the imposition, on summary conviction of any offence, of any term of imprisonment or of a fine exceeding the statutory maximum;
 - (c) to authorise the imposition, on conviction on indictment of an offence, of a term of imprisonment exceeding two years.
 
-**2.**[^key-c9e3d905dc46d99a66c0cdecbc6cc0d6] Section 75. (1) The Governor may by regulations under this section make such provision as appears to him to be requisite or expedient—
+**2.**[^c-c9e3d905dc46d99a66c0cdecbc6cc0d6] Section 75. (1) The Governor may by regulations under this section make such provision as appears to him to be requisite or expedient—
 
 - (a) for the investigation of any accident arising out of or in the course of air navigation and either occurring in or over the Territory or occurring elsewhere to aircraft registered in the Territory; and
 - (b) for carrying out any Annex to the Chicago Convention (being an Annex adopted in accordance with the Convention and relating to the investigation of accidents involving aircraft) as it has effect from time to time with any amendment made in accordance with the Convention (hereafter in this section referred to as “the Annex”).
@@ -134,7 +134,7 @@ Article 4
 
 (7) Part VI of the Civil Aviation Act 1949, as extended to the Territory by the Civil Aviation Act 1949 (Overseas Territories) Order 1969 applies to this section.
 
-## SCHEDULE 2 — Territories to which this Order applies[^key-88f8e9e3c565d0acbe36834e4ea2894e]
+## SCHEDULE 2 — Territories to which this Order applies[^c-88f8e9e3c565d0acbe36834e4ea2894e]
 
 Article 4
 
@@ -176,26 +176,26 @@ This Order extends to the territories listed in Schedule 2 to the Order, with mo
 
 [^f00003]: Footnote: [1982 c. 16](https://www.legislation.gov.uk/ukpga/1982/16).
 
-[^key-cab54679c03e67b1f2a10218a9677b1c]: Commencement: Art. 1 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
+[^c-cab54679c03e67b1f2a10218a9677b1c]: Commencement: Art. 1 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
 
-[^key-fc1831de29c73983adeb311ed2054f43]: Commencement: Art. 2 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
+[^c-fc1831de29c73983adeb311ed2054f43]: Commencement: Art. 2 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
 
 [^f00004]: Footnote: S.I. [1976/1912](https://www.legislation.gov.uk/uksi/1976/1912).
 
-[^key-21bce87f85a43eea28fa3355c5f4b994]: Commencement: Art. 3 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
+[^c-21bce87f85a43eea28fa3355c5f4b994]: Commencement: Art. 3 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
 
 [^f00005]: Footnote: S.I. [1969/592](https://www.legislation.gov.uk/uksi/1969/592).
 
-[^key-63fcf913a7f957ee12aa09080546def6]: Commencement: Art. 4 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
+[^c-63fcf913a7f957ee12aa09080546def6]: Commencement: Art. 4 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
 
-[^key-3d777b98103c37349fb99434a1983dac]: Commencement: Art. 5 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
+[^c-3d777b98103c37349fb99434a1983dac]: Commencement: Art. 5 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
 
-[^key-9f3f257c26dff0e5657fcb5c7c905e53]: Commencement: Art. 6 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
+[^c-9f3f257c26dff0e5657fcb5c7c905e53]: Commencement: Art. 6 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
 
-[^key-3932b05f72b77ea7a70b4036341bc852]: Commencement: Sch. 1 para. 1 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
+[^c-3932b05f72b77ea7a70b4036341bc852]: Commencement: Sch. 1 para. 1 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
 
-[^key-c9e3d905dc46d99a66c0cdecbc6cc0d6]: Commencement: Sch. 1 para. 2 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
+[^c-c9e3d905dc46d99a66c0cdecbc6cc0d6]: Commencement: Sch. 1 para. 2 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
 
 [^f00006]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-88f8e9e3c565d0acbe36834e4ea2894e]: Commencement: Sch. 2 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)
+[^c-88f8e9e3c565d0acbe36834e4ea2894e]: Commencement: Sch. 2 in force at 16.5.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/1452/article/1)

@@ -35,36 +35,36 @@ laying down implementing technical standards on the procedures for assessing ext
 
 (Text with EEA relevance) (revoked)
 
-[^key-ee26c87ede05874d8a4ed9206eacd0d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee26c87ede05874d8a4ed9206eacd0d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Policy on risk management[^key-ee26c87ede05874d8a4ed9206eacd0d0]
+## Article 1. Policy on risk management[^c-ee26c87ede05874d8a4ed9206eacd0d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Tasks of the risk-management function[^key-ee26c87ede05874d8a4ed9206eacd0d0]
+## Article 2. Tasks of the risk-management function[^c-ee26c87ede05874d8a4ed9206eacd0d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Information used for the additional assessments[^key-ee26c87ede05874d8a4ed9206eacd0d0]
+## Article 3. Information used for the additional assessments[^c-ee26c87ede05874d8a4ed9206eacd0d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Review of additional assessments[^key-ee26c87ede05874d8a4ed9206eacd0d0]
+## Article 4. Review of additional assessments[^c-ee26c87ede05874d8a4ed9206eacd0d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Documentation[^key-ee26c87ede05874d8a4ed9206eacd0d0]
+## Article 5. Documentation[^c-ee26c87ede05874d8a4ed9206eacd0d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Entry into force[^key-ee26c87ede05874d8a4ed9206eacd0d0]
+## Article 6. Entry into force[^c-ee26c87ede05874d8a4ed9206eacd0d0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ee26c87ede05874d8a4ed9206eacd0d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee26c87ede05874d8a4ed9206eacd0d0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee26c87ede05874d8a4ed9206eacd0d0]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))
+[^c-ee26c87ede05874d8a4ed9206eacd0d0]: Textual amendment: Regulation revoked (31.12.2024) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2024/620](https://www.legislation.gov.uk/uksi/2024/620), [Sch.](https://www.legislation.gov.uk/uksi/2024/620/schedule) (with savings in relation to a Gibraltar group or a Gibraltar undertaking in [S.I. 2024/1083](https://www.legislation.gov.uk/uksi/2024/1083), [reg. 3](https://www.legislation.gov.uk/uksi/2024/1083/regulation/3))

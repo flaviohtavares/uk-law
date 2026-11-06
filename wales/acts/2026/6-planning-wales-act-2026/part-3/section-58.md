@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Notice of application for planning permission or approval of reserved matters[^key-71c82afc83101e57c54eef5ba0daf029]
+## 58. Notice of application for planning permission or approval of reserved matters[^c-71c82afc83101e57c54eef5ba0daf029]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71c82afc83101e57c54eef5ba0daf029]: Commencement: S. 58 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-71c82afc83101e57c54eef5ba0daf029]: Commencement: S. 58 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

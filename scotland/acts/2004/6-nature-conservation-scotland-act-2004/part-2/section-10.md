@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Notifications relating to sites of special scientific interest: procedure[^key-6cca06dfd12f952853ad8072a7726e80]
+## 10. Notifications relating to sites of special scientific interest: procedure[^c-6cca06dfd12f952853ad8072a7726e80]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 1 sets out procedure relating to notifications given under sections 3(1
 
 ## Annotations
 
-[^key-6cca06dfd12f952853ad8072a7726e80]: Commencement: S. 10 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-6cca06dfd12f952853ad8072a7726e80]: Commencement: S. 10 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

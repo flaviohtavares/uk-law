@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 81A. Determination that deeming of person as relevant person to end[^key-97e9ee28a6caeccc1c88530e8d9352e0]
+## 81A. Determination that deeming of person as relevant person to end[^c-97e9ee28a6caeccc1c88530e8d9352e0]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97e9ee28a6caeccc1c88530e8d9352e0]: Textual amendment: S. 81A inserted (26.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 84(3)](https://www.legislation.gov.uk/asp/2014/8/section/84/3), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)
+[^c-97e9ee28a6caeccc1c88530e8d9352e0]: Textual amendment: S. 81A inserted (26.1.2015) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 84(3)](https://www.legislation.gov.uk/asp/2014/8/section/84/3), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/353](https://www.legislation.gov.uk/ssi/2014/353), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/353/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/353/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/353/schedule)

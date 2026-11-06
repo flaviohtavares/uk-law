@@ -26,7 +26,7 @@ summary: ''
   - (i) has been eligible to be an active member of an occupational pension scheme under the [^c2136392]Superannuation Act 1972, but
   - (ii) has instead made contributions to a personal pension scheme,
 
-  has suffered loss as a result of a contravention which is actionable under section 62 of the [^c2136393]Financial Services Act 1986 or under[^key-2886899f32096ecf89a76dd5373c17d1] section 138D[^key-e493d1ef79321dd1673e72bb8cfa7dfa] of the Financial Services and Markets Act 2000 (actions for damages in respect of contravention of rules etc. made under the Act), and
+  has suffered loss as a result of a contravention which is actionable under section 62 of the [^c2136393]Financial Services Act 1986 or under[^c-2886899f32096ecf89a76dd5373c17d1] section 138D[^c-e493d1ef79321dd1673e72bb8cfa7dfa] of the Financial Services and Markets Act 2000 (actions for damages in respect of contravention of rules etc. made under the Act), and
 - (b) if so, what payment would need to be made to the occupational scheme in respect of the individual to restore the position to what it would have been if the individual had been an active member of the occupational scheme throughout the period in question,
 
 and may impose on that person reasonable fees in respect of administrative expenses incurred in providing that information.
@@ -55,8 +55,8 @@ the Secretary of State may impose on any prescribed person reasonable fees in re
 
 [^c2136393]: Marginal citation: [1986 c. 60](https://www.legislation.gov.uk/ukpga/1986/60).
 
-[^key-2886899f32096ecf89a76dd5373c17d1]: Textual amendment: Words in s. 172(1)(a) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [148](https://www.legislation.gov.uk/uksi/2001/3649/article/148)
+[^c-2886899f32096ecf89a76dd5373c17d1]: Textual amendment: Words in s. 172(1)(a) inserted (1.12.2001) by [The Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001 (S.I. 2001/3649)](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [148](https://www.legislation.gov.uk/uksi/2001/3649/article/148)
 
-[^key-e493d1ef79321dd1673e72bb8cfa7dfa]: Textual amendment: Words in [s. 172(1)(a)](https://www.legislation.gov.uk/ukpga/1995/26/section/172/1/a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 82(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/82/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e493d1ef79321dd1673e72bb8cfa7dfa]: Textual amendment: Words in [s. 172(1)(a)](https://www.legislation.gov.uk/ukpga/1995/26/section/172/1/a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 82(3)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/82/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
 [^c2136394]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Space site security programme[^key-df278a8729c23a679db67b93562b60ad]
+## 170. Space site security programme[^c-df278a8729c23a679db67b93562b60ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,7 +67,7 @@ summary: ''
 
 ## Annotations
 
-[^key-df278a8729c23a679db67b93562b60ad]: Commencement: Reg. 170 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-df278a8729c23a679db67b93562b60ad]: Commencement: Reg. 170 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00052]: Footnote: “space site” is defined in paragraph 5(3) of Schedule 4 to the Space Industry Act 2018. Regulation 2(2) makes provision for references to “space site” to be treated as if they include references to a ship from which a launch vehicle is launched or is to be launched, on which a launch vehicle or carrier aircraft is landed or is to be landing, spaceflight activities are controlled or are to be controlled, range control services are provided or are to be provided or from or on which one or more of these activities are carried out or are to be carried out.
 

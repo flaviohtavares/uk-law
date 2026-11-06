@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Intervention measure not stayed before commencement[^key-adcd99278486e769d8b5c3a17f9f17fc]
+## 83. Intervention measure not stayed before commencement[^c-adcd99278486e769d8b5c3a17f9f17fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adcd99278486e769d8b5c3a17f9f17fc]: Commencement: Art. 83 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-adcd99278486e769d8b5c3a17f9f17fc]: Commencement: Art. 83 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

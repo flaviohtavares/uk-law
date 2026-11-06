@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Amendments to procedure for security of special lists[^key-93ac27c7eeb1ca5fdbd07d0d74bb743c]
+## 50. Amendments to procedure for security of special lists[^c-93ac27c7eeb1ca5fdbd07d0d74bb743c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93ac27c7eeb1ca5fdbd07d0d74bb743c]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2006/2910/regulation/50) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-93ac27c7eeb1ca5fdbd07d0d74bb743c]: Commencement: [Reg. 50](https://www.legislation.gov.uk/uksi/2006/2910/regulation/50) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)

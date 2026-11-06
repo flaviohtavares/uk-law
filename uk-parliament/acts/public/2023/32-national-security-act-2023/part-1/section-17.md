@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Obtaining etc material benefits from a foreign intelligence service[^key-da4f773c46393a7fd7187f20543a4d87][^key-a13a4dae33bb737954e4f9a26b10555e]
+## 17. Obtaining etc material benefits from a foreign intelligence service[^c-da4f773c46393a7fd7187f20543a4d87][^c-a13a4dae33bb737954e4f9a26b10555e]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da4f773c46393a7fd7187f20543a4d87]: Commencement: S. 17 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-da4f773c46393a7fd7187f20543a4d87]: Commencement: S. 17 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-a13a4dae33bb737954e4f9a26b10555e]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/32/section/17) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-a13a4dae33bb737954e4f9a26b10555e]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2023/32/section/17) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Decision 2014/768/EU establishing the type, format and frequency of information to be made available by the Member States on integrated emissions management techniques applied in mineral oil and gas refineries, pursuant to Directive 2010/75/EU of the European Parliament and of the Council[^key-be6fd78acb290a7550f1a45765771f34]
+## 14. Decision 2014/768/EU establishing the type, format and frequency of information to be made available by the Member States on integrated emissions management techniques applied in mineral oil and gas refineries, pursuant to Directive 2010/75/EU of the European Parliament and of the Council[^c-be6fd78acb290a7550f1a45765771f34]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be6fd78acb290a7550f1a45765771f34]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-be6fd78acb290a7550f1a45765771f34]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

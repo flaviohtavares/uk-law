@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Mutual agreements to extend time-limits: public interest cases[^key-4a20aac2b85de47bcae662229688a2a9][^key-8eb9a867ab26da0c9cd96e5c46f735b6]
+## 132. Mutual agreements to extend time-limits: public interest cases[^c-4a20aac2b85de47bcae662229688a2a9][^c-8eb9a867ab26da0c9cd96e5c46f735b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a20aac2b85de47bcae662229688a2a9]: Commencement: S. 132 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-4a20aac2b85de47bcae662229688a2a9]: Commencement: S. 132 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-8eb9a867ab26da0c9cd96e5c46f735b6]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2024/13/section/132) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 5(4)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-8eb9a867ab26da0c9cd96e5c46f735b6]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2024/13/section/132) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2) (with [Sch. paras. 5(4)](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/5/4), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

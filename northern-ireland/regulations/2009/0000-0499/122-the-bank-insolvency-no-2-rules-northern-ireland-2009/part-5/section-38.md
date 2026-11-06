@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. General rule as to reporting[^key-c4fa1b974b4040b60a23d8bf3f651621]
+## 38. General rule as to reporting[^c-c4fa1b974b4040b60a23d8bf3f651621]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4fa1b974b4040b60a23d8bf3f651621]: Commencement: Rule 38 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-c4fa1b974b4040b60a23d8bf3f651621]: Commencement: Rule 38 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

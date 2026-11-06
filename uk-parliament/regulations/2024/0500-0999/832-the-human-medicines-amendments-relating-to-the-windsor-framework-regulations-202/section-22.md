@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Amendment to regulation 45E[^key-1fd8854753657bb05316f3c94f15008c]
+## 22. Amendment to regulation 45E[^c-1fd8854753657bb05316f3c94f15008c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 45E (criteria of broker’s registration)[^f00029], omit paragraph
 
 ## Annotations
 
-[^key-1fd8854753657bb05316f3c94f15008c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2024/832/regulation/22) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-1fd8854753657bb05316f3c94f15008c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2024/832/regulation/22) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00029]: Footnote: Regulation 45E was inserted by [S.I. 2013/1855](https://www.legislation.gov.uk/uksi/2013/1855) and was amended by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

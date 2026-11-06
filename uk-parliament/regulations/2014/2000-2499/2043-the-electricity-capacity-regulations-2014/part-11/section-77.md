@@ -29,8 +29,8 @@ summary: ''
 
 (3) But the Authority must not—
 
-- (a) make any provision in capacity market rules which is inconsistent with these Regulations or the[^key-b1bfb1de888ef5d4633e5f3597a223b1] Supplier Payment Regulations; or
-- (b) except with the approval of the Secretary of State, make, amend or revoke any provision in capacity market rules which confers functions on—[^key-1dacf457bdd1aaf617aa771ac41a6cd1]
+- (a) make any provision in capacity market rules which is inconsistent with these Regulations or the[^c-b1bfb1de888ef5d4633e5f3597a223b1] Supplier Payment Regulations; or
+- (b) except with the approval of the Secretary of State, make, amend or revoke any provision in capacity market rules which confers functions on—[^c-1dacf457bdd1aaf617aa771ac41a6cd1]
   - (i) the Secretary of State; or
   - (ii) the Authority.
 
@@ -38,6 +38,6 @@ summary: ''
 
 [^M_I_accc0edf-e2f5-43dc-f5cd-d2e7ecbbbbcb]: Commencement: Reg. 77 coming into force in accordance with reg. 1(3)
 
-[^key-b1bfb1de888ef5d4633e5f3597a223b1]: Textual amendment: Words in [reg. 77(3)(a)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/77/3/a) inserted (18.12.2014) by [The Electricity Capacity (Supplier Payment etc.) Regulations 2014 (S.I. 2014/3354)](https://www.legislation.gov.uk/uksi/2014/3354), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2014/3354/schedule/2/paragraph/10)
+[^c-b1bfb1de888ef5d4633e5f3597a223b1]: Textual amendment: Words in [reg. 77(3)(a)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/77/3/a) inserted (18.12.2014) by [The Electricity Capacity (Supplier Payment etc.) Regulations 2014 (S.I. 2014/3354)](https://www.legislation.gov.uk/uksi/2014/3354), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3354/regulation/1/2), [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2014/3354/schedule/2/paragraph/10)
 
-[^key-1dacf457bdd1aaf617aa771ac41a6cd1]: Textual amendment: Words in [reg. 77(3)(b)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/77/3/b) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/59)
+[^c-1dacf457bdd1aaf617aa771ac41a6cd1]: Textual amendment: Words in [reg. 77(3)(b)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/77/3/b) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 59](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/59)

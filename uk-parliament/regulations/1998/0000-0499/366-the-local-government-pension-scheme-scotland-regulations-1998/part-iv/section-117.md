@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 117. Rights to payment out of fund authority’s pension fund[^key-7924283abd711af5a238e0ecee46ec35]
+## 117. Rights to payment out of fund authority’s pension fund[^c-7924283abd711af5a238e0ecee46ec35]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7924283abd711af5a238e0ecee46ec35]: Commencement: Reg. 117 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-7924283abd711af5a238e0ecee46ec35]: Commencement: Reg. 117 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

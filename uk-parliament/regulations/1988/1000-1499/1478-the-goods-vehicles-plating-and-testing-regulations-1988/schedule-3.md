@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — THE PRESCRIBED CONSTRUCTION AND USE REQUIREMENTS[^key-b97571568b19d7603ee065a831f6826c]
+## SCHEDULE 3 — THE PRESCRIBED CONSTRUCTION AND USE REQUIREMENTS[^c-b97571568b19d7603ee065a831f6826c]
 
 *Extent: E+W+S*
 
@@ -53,7 +53,7 @@ Regulations 3 and 16
 </tbody>
 </table>
 
-[^key-b0a288ff0de45bb6ceb511503f4de86e][^key-7a0268ac53759aa8195e914a1976e934]
+[^c-b0a288ff0de45bb6ceb511503f4de86e][^c-7a0268ac53759aa8195e914a1976e934]
 
 **2.** The requirements contained in the provisions of the Road Vehicles Lighting Regulations 1989 set out in column (2) of Table II below to the extent shown in column (4) of that Table (expressions used in that Table having the same meanings as they have in those Regulations).
 
@@ -72,15 +72,15 @@ Regulations 3 and 16
 </tbody>
 </table>
 
-[^key-ea2f195718eafcaebf59153953bc3784][^key-7b7598fda97c875a01ff432cf3500048][^key-a7908cdf3d191289ea3b183cec27fe06][^key-076ad2a8996feab2fffa83075a4afdf2]
+[^c-ea2f195718eafcaebf59153953bc3784][^c-7b7598fda97c875a01ff432cf3500048][^c-a7908cdf3d191289ea3b183cec27fe06][^c-076ad2a8996feab2fffa83075a4afdf2]
 
 **3.** The requirements, in so far as they relate to the installation of recording equipment in Article 3 and the seals to be affixed to such equipment in Article 12 and paragraph 4 of Section V of Annex 1 of the Community Recording Equipment Regulation (as defined in section 85 of the 1988 Act).
 
-**3A.**[^key-1d9130de7b211551ca4b8fbb3d30d9c7] The requirements contained in regulations 5, 6, 7, 9 to 11, and 13 to 15 of the Road Vehicles (Display of Registration Marks) Regulations 2001.
+**3A.**[^c-1d9130de7b211551ca4b8fbb3d30d9c7] The requirements contained in regulations 5, 6, 7, 9 to 11, and 13 to 15 of the Road Vehicles (Display of Registration Marks) Regulations 2001.
 
 **3B.** The registration mark displayed on the vehicle is in accordance with the records held for that vehicle by the Secretary of State.
 
-**3C.**[^key-8058f3bc7591cf00873a72971c0a8c88] For the purposes of this Part, a category T tractor is deemed to be driven at more than 40 kilometres per hour if its design speed exceeds 40 kilometres per hour.
+**3C.**[^c-8058f3bc7591cf00873a72971c0a8c88] For the purposes of this Part, a category T tractor is deemed to be driven at more than 40 kilometres per hour if its design speed exceeds 40 kilometres per hour.
 
 ### PART II
 
@@ -96,7 +96,7 @@ Regulations 3 and 16
 - fuel tanks and system;
 - transmission shafts and associated equipment;
 - exhaust system;
-- battery, including its ventilation and any connected switches or fuses[^key-a93a7237d656387abf17a6e35a8c5e55];
+- battery, including its ventilation and any connected switches or fuses[^c-a93a7237d656387abf17a6e35a8c5e55];
 - wheels and hubs;
 - suspension system;
 - axles and steering gear;
@@ -109,37 +109,37 @@ Regulations 3 and 16
 - driver’s controls;
 - cab step or step rings;
 - glass or other transparent material in windscreen or windows.
-- loading devices;[^key-017902c915b50839c76bca08badc859e]
-- load securing devices ;[^key-3addb79676e1b06b9cec2bb66f1ac08d]
+- loading devices;[^c-017902c915b50839c76bca08badc859e]
+- load securing devices ;[^c-3addb79676e1b06b9cec2bb66f1ac08d]
 - electrical connections between a vehicle and its trailer;
 - the supplementary restraint system, including safety belt pre-tensioners, safety belt load limiters and air bags;
-- the electronic stability control;[^key-5453ef6a7a98bdf5dbe62a7322f59695]
+- the electronic stability control;[^c-5453ef6a7a98bdf5dbe62a7322f59695]
 - steering lock
 
 ## Annotations
 
-[^key-b97571568b19d7603ee065a831f6826c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3) substituted (1.10.1993) by [The Goods Vehicles (Plating and Testing) (Amendment) Regulations 1993 (S.I. 1993/2048)](https://www.legislation.gov.uk/uksi/1993/2048), [reg. 1](https://www.legislation.gov.uk/uksi/1993/2048/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1993/2048/schedule)
+[^c-b97571568b19d7603ee065a831f6826c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3) substituted (1.10.1993) by [The Goods Vehicles (Plating and Testing) (Amendment) Regulations 1993 (S.I. 1993/2048)](https://www.legislation.gov.uk/uksi/1993/2048), [reg. 1](https://www.legislation.gov.uk/uksi/1993/2048/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/1993/2048/schedule)
 
-[^key-b0a288ff0de45bb6ceb511503f4de86e]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/1) Table inserted (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(1)(a)(i)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/1/a/i)
+[^c-b0a288ff0de45bb6ceb511503f4de86e]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/1) Table inserted (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(1)(a)(i)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/1/a/i)
 
-[^key-7a0268ac53759aa8195e914a1976e934]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/1) Table inserted (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/1/a/ii)
+[^c-7a0268ac53759aa8195e914a1976e934]: Textual amendment: Words in [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/1) Table inserted (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/1/a/ii)
 
-[^key-ea2f195718eafcaebf59153953bc3784]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/2) Table omitted (20.5.2018) by virtue of [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(1)(b)(i)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/1/b/i)
+[^c-ea2f195718eafcaebf59153953bc3784]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/2) Table omitted (20.5.2018) by virtue of [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(1)(b)(i)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/1/b/i)
 
-[^key-7b7598fda97c875a01ff432cf3500048]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/2) Table inserted (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/1/b/ii)
+[^c-7b7598fda97c875a01ff432cf3500048]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/2) Table inserted (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/1/b/ii)
 
-[^key-a7908cdf3d191289ea3b183cec27fe06]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/2) Table inserted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/17/3)
+[^c-a7908cdf3d191289ea3b183cec27fe06]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/2) Table inserted (4.1.2010) by [The Road Vehicles Lighting and Goods Vehicles (Plating and Testing) (Amendment) Regulations 2009 (S.I. 2009/3220)](https://www.legislation.gov.uk/uksi/2009/3220), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3220/regulation/1), [17(3)](https://www.legislation.gov.uk/uksi/2009/3220/regulation/17/3)
 
-[^key-076ad2a8996feab2fffa83075a4afdf2]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/2) Table omitted (20.5.2018) by virtue of [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/1/b/iii)
+[^c-076ad2a8996feab2fffa83075a4afdf2]: Textual amendment: Words in [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/2) Table omitted (20.5.2018) by virtue of [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/1/b/iii)
 
-[^key-1d9130de7b211551ca4b8fbb3d30d9c7]: Textual amendment: [Sch. 3 paras. 3A](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/3A), [3B](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/3B) inserted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2013/271/regulation/7)
+[^c-1d9130de7b211551ca4b8fbb3d30d9c7]: Textual amendment: [Sch. 3 paras. 3A](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/3A), [3B](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/3B) inserted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2013/271/regulation/7)
 
-[^key-8058f3bc7591cf00873a72971c0a8c88]: Textual amendment: [Sch. 3 para. 3C](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/3C) inserted (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(1)(c)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/1/c)
+[^c-8058f3bc7591cf00873a72971c0a8c88]: Textual amendment: [Sch. 3 para. 3C](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/3C) inserted (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(1)(c)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/1/c)
 
-[^key-a93a7237d656387abf17a6e35a8c5e55]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/4) substituted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2013/271/regulation/8/1/a)
+[^c-a93a7237d656387abf17a6e35a8c5e55]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/4) substituted (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [8(1)(a)](https://www.legislation.gov.uk/uksi/2013/271/regulation/8/1/a)
 
-[^key-017902c915b50839c76bca08badc859e]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/4) added (30.8.2004) by [The Goods Vehicles (Plating and Testing) (Amendment) Regulations 2004 (S.I. 2004/1873)](https://www.legislation.gov.uk/uksi/2004/1873), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1873/regulation/1), [6](https://www.legislation.gov.uk/uksi/2004/1873/regulation/6)
+[^c-017902c915b50839c76bca08badc859e]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/4) added (30.8.2004) by [The Goods Vehicles (Plating and Testing) (Amendment) Regulations 2004 (S.I. 2004/1873)](https://www.legislation.gov.uk/uksi/2004/1873), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1873/regulation/1), [6](https://www.legislation.gov.uk/uksi/2004/1873/regulation/6)
 
-[^key-3addb79676e1b06b9cec2bb66f1ac08d]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/4) added (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [8(1)(b)](https://www.legislation.gov.uk/uksi/2013/271/regulation/8/1/b)
+[^c-3addb79676e1b06b9cec2bb66f1ac08d]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/4) added (20.3.2013) by [The Road Vehicles (Testing) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/271)](https://www.legislation.gov.uk/uksi/2013/271), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/271/regulation/1/2), [8(1)(b)](https://www.legislation.gov.uk/uksi/2013/271/regulation/8/1/b)
 
-[^key-5453ef6a7a98bdf5dbe62a7322f59695]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/4) added (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/2)
+[^c-5453ef6a7a98bdf5dbe62a7322f59695]: Textual amendment: Words in [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1988/1478/schedule/3/paragraph/4) added (20.5.2018) by [The Goods Vehicles (Plating and Testing) (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/849)](https://www.legislation.gov.uk/uksi/2017/849), [regs. 1](https://www.legislation.gov.uk/uksi/2017/849/regulation/1), [16(2)](https://www.legislation.gov.uk/uksi/2017/849/regulation/16/2)

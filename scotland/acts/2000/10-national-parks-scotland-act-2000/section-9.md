@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. General purpose and functions[^key-db22cb38b031870970c4d076e0514deb]
+## 9. General purpose and functions[^c-db22cb38b031870970c4d076e0514deb]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-db22cb38b031870970c4d076e0514deb]: Modification: S. 9 modified by 1997 c. 8, s. 26(6J) (as inserted (6.2.2007 for specified purposes, 1.4.2007 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 3(1)(e)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/e), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule))
+[^c-db22cb38b031870970c4d076e0514deb]: Modification: S. 9 modified by 1997 c. 8, s. 26(6J) (as inserted (6.2.2007 for specified purposes, 1.4.2007 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 3(1)(e)](https://www.legislation.gov.uk/asp/2006/17/section/3/1/e), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2007/49](https://www.legislation.gov.uk/ssi/2007/49), [art. 2](https://www.legislation.gov.uk/ssi/2007/49/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/49/schedule); [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule))

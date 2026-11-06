@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Consultation in relation to transfers[^key-4b92bc84e2fd305eb4bf882f5ba77d8e]
+## 51. Consultation in relation to transfers[^c-4b92bc84e2fd305eb4bf882f5ba77d8e]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4b92bc84e2fd305eb4bf882f5ba77d8e]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/52/section/51) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-4b92bc84e2fd305eb4bf882f5ba77d8e]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2023/52/section/51) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

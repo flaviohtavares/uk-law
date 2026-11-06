@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Forfeiture: application of proceeds to compensate victims[^key-bcf491613a6a27ca7ab928842fea96cb]
+## 37. Forfeiture: application of proceeds to compensate victims[^c-bcf491613a6a27ca7ab928842fea96cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bcf491613a6a27ca7ab928842fea96cb]: Commencement: S. 37 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)
+[^c-bcf491613a6a27ca7ab928842fea96cb]: Commencement: S. 37 in force at 18.6.2009 by [S.I. 2009/1256](https://www.legislation.gov.uk/uksi/2009/1256), [art. 2(c)](https://www.legislation.gov.uk/uksi/2009/1256/article/2/c)

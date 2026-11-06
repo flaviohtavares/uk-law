@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State has been designated [^c23016241] for the purposes of section 2(2) of the European Communities Act 1972 [^c23016251] in relation to measures relating to the environment.
 
-The Secretary of State in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and sections 71A(1) and (2) and 298A(2) of the Town and Country Planning Act 1990 [^c23016261], and having taken into account the selection criteria in Annex III to Council Directive 2011/92/EU [^c23016271], makes the following Regulations:[^key-863b280a8cdeafa66c76297f362475fc][^key-09fb73a06d564e0addd3bd839f13059a][^key-21dd870537eb69e76d94244a5976502e][^M_C_f089985b-7180-4674-de23-cac73b7e0f1f]
+The Secretary of State in exercise of the powers conferred by section 2(2) of the European Communities Act 1972 and sections 71A(1) and (2) and 298A(2) of the Town and Country Planning Act 1990 [^c23016261], and having taken into account the selection criteria in Annex III to Council Directive 2011/92/EU [^c23016271], makes the following Regulations:[^c-863b280a8cdeafa66c76297f362475fc][^c-09fb73a06d564e0addd3bd839f13059a][^c-21dd870537eb69e76d94244a5976502e][^M_C_f089985b-7180-4674-de23-cac73b7e0f1f]
 
 ## Contents
 
@@ -241,11 +241,11 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c23016271]: Marginal citation: OJ No. L 26, 28.1.2012, p.1.
 
-[^key-863b280a8cdeafa66c76297f362475fc]: Modification: Regulations applied (with modifications) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 5B(2)-(4)](https://www.legislation.gov.uk/uksi/2017/402/article/5B/2) (as inserted (1.6.2018) by [S.I. 2017/1309](https://www.legislation.gov.uk/uksi/2017/1309), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [4](https://www.legislation.gov.uk/uksi/2017/1309/article/4))
+[^c-863b280a8cdeafa66c76297f362475fc]: Modification: Regulations applied (with modifications) by [The Town and Country Planning (Permission in Principle) Order 2017 (S.I. 2017/402)](https://www.legislation.gov.uk/uksi/2017/402), [art. 5B(2)-(4)](https://www.legislation.gov.uk/uksi/2017/402/article/5B/2) (as inserted (1.6.2018) by [S.I. 2017/1309](https://www.legislation.gov.uk/uksi/2017/1309), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [4](https://www.legislation.gov.uk/uksi/2017/1309/article/4))
 
-[^key-09fb73a06d564e0addd3bd839f13059a]: Modification: Regulations modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/55/1)
+[^c-09fb73a06d564e0addd3bd839f13059a]: Modification: Regulations modified (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/55/1)
 
-[^key-21dd870537eb69e76d94244a5976502e]: Modification: Regulations power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-21dd870537eb69e76d94244a5976502e]: Modification: Regulations power to amend or revoke conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 164(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/164/3), [255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5), [Sch. 14 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/55/schedule/14/part/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^M_C_f089985b-7180-4674-de23-cac73b7e0f1f]: Modification: Regulations power to modify (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 108(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/108), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Penalties for failure to have appropriate licence or comply with conditions[^key-c1b965fb0d5ad13c2f3b5a9a49df4e34]
+## 66. Penalties for failure to have appropriate licence or comply with conditions[^c-c1b965fb0d5ad13c2f3b5a9a49df4e34]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ In section 7 of the 1982 Act (offences etc.)—
 
 ## Annotations
 
-[^key-c1b965fb0d5ad13c2f3b5a9a49df4e34]: Commencement: S. 66 in force at 1.9.2016 by [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/85/article/3))
+[^c-c1b965fb0d5ad13c2f3b5a9a49df4e34]: Commencement: S. 66 in force at 1.9.2016 by [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/85/article/3))

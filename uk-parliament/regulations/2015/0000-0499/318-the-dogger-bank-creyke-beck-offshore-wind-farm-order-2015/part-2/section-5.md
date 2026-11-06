@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Operation of generating stations[^key-76e1e0c1152d56bb6aaa89456a3c9d7d]
+## 5. Operation of generating stations[^c-76e1e0c1152d56bb6aaa89456a3c9d7d]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-76e1e0c1152d56bb6aaa89456a3c9d7d]: Commencement: Art. 5 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
+[^c-76e1e0c1152d56bb6aaa89456a3c9d7d]: Commencement: Art. 5 in force at 11.3.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/318/article/1)
 
 [^f00018]: Footnote: “Generating station” is defined in section 235(1) of the Planning Act 2008.

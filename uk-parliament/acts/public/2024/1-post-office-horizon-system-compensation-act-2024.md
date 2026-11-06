@@ -36,7 +36,7 @@ An Act to provide for the payment out of money provided by Parliament of expendi
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Expenditure in connection with compensation schemes relating to Post Office Horizon system etc.[^key-104f0b6be4f8fdf3a58836d8a28bc07c]
+## 1. Expenditure in connection with compensation schemes relating to Post Office Horizon system etc.[^c-104f0b6be4f8fdf3a58836d8a28bc07c]
 
 (1) There may be paid out of money provided by Parliament expenditure incurred by the Secretary of State under, or in connection with, schemes or other arrangements—
 
@@ -45,12 +45,12 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (2) “**The Horizon system**” means previous versions of the computer system known as Horizon (and sometimes referred to as Legacy Horizon, Horizon Online or HNG-X) used by Post Office Limited.
 
-## 2. Short title[^key-f685497b2e513a863e9c98bff85189bf]
+## 2. Short title[^c-f685497b2e513a863e9c98bff85189bf]
 
 This Act may be cited as the Post Office (Horizon System) Compensation Act 2024.
 
 ## Annotations
 
-[^key-104f0b6be4f8fdf3a58836d8a28bc07c]: Commencement: S. 1 in force at Royal Assent
+[^c-104f0b6be4f8fdf3a58836d8a28bc07c]: Commencement: S. 1 in force at Royal Assent
 
-[^key-f685497b2e513a863e9c98bff85189bf]: Commencement: S. 2 in force at Royal Assent
+[^c-f685497b2e513a863e9c98bff85189bf]: Commencement: S. 2 in force at Royal Assent

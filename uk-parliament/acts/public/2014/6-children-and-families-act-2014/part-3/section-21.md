@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Special educational provision, health care provision and social care provision[^key-320d6032a91c159febe8b024d2dcc16e]
+## 21. Special educational provision, health care provision and social care provision[^c-320d6032a91c159febe8b024d2dcc16e]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-320d6032a91c159febe8b024d2dcc16e]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/6/section/21) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)
+[^c-320d6032a91c159febe8b024d2dcc16e]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2014/6/section/21) in force at 1.9.2014 by [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in S.I. 2014/2270 (as amended (1.4.2015) by S.I. 2015/505 and (1.9.2015) by S.I. 2015/1619)

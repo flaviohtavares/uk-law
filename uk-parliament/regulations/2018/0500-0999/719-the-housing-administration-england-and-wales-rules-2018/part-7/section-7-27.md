@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.27. Electronic delivery of documents[^key-a130e15a3480eb60fcb4c6a98f43b252]
+## 7.27. Electronic delivery of documents[^c-a130e15a3480eb60fcb4c6a98f43b252]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a130e15a3480eb60fcb4c6a98f43b252]: Commencement: Rule 7.27 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-a130e15a3480eb60fcb4c6a98f43b252]: Commencement: Rule 7.27 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

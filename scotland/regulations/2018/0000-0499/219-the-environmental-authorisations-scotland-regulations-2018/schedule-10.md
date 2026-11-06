@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 10 — WATER ACTIVITIES[^key-2bd1e8151d54d0b187154a037f7e5caa]
+## SCHEDULE 10 — WATER ACTIVITIES[^c-2bd1e8151d54d0b187154a037f7e5caa]
 
 *Extent: S*
 
@@ -51,9 +51,9 @@ Regulation 6(1)
 
 #### 3. Authorisation conditions: protection of the water environment
 
-(1) SEPA must ensure that an authorisation for a water activity includes such conditions as it considers necessary or expedient for the purposes of protection of the water environment or, where the authorisation relates to a water activity carried on in the course of the operation of a fish farm outside of the water environment, for the purposes of protection of the water environment or protection of the Scottish marine area[^key-f5c71bb16cd1a841c6f05ecc5d2b2a27].
+(1) SEPA must ensure that an authorisation for a water activity includes such conditions as it considers necessary or expedient for the purposes of protection of the water environment or, where the authorisation relates to a water activity carried on in the course of the operation of a fish farm outside of the water environment, for the purposes of protection of the water environment or protection of the Scottish marine area[^c-f5c71bb16cd1a841c6f05ecc5d2b2a27].
 
-(2) In this paragraph, “**protection of the water environment**” or “protection of the Scottish marine area”[^key-26198fe6e5c768ced1105c1f2a7f025b] includes, in particular—
+(2) In this paragraph, “**protection of the water environment**” or “protection of the Scottish marine area”[^c-26198fe6e5c768ced1105c1f2a7f025b] includes, in particular—
 
 - (a) preventing further deterioration of, and protecting and enhancing, the status of aquatic ecosystems and, with regard to their water needs, terrestrial ecosystems and wetlands directly depending on those aquatic ecosystems,
 - (b) promoting sustainable water use based on the long-term protection of available resources,
@@ -142,11 +142,11 @@ Regulation 6(1)
 
 (1) Before carrying out a function mentioned in sub-paragraph (2) in respect of a water activity, SEPA must—
 
-- (a) if it considers that the activity has or is likely to have a significant adverse impact on the water environment or, where the functions relate to operation of a fish farm, any part of the water environment or the Scottish marine area[^key-11f4acd80906616d5488f93b2137321d]—
+- (a) if it considers that the activity has or is likely to have a significant adverse impact on the water environment or, where the functions relate to operation of a fish farm, any part of the water environment or the Scottish marine area[^c-11f4acd80906616d5488f93b2137321d]—
   - (i) assess the indirect effects of that impact on any other aspects of the environment likely to be significantly affected,
   - (ii) consider any likely adverse social and economic effects of that impact and of any indirect environmental effects identified in accordance with sub-paragraph (i),
   - (iii) consider the likely environmental, social and economic benefits of the activity,
-- (b) assess the impact of the activity on the interests of other users of the water environment or, where the functions relate to operation of a fish farm, other users of any part of the water environment or the Scottish marine area[^key-52cc80180da4cbfffd24f47173ff94d6],
+- (b) assess the impact of the activity on the interests of other users of the water environment or, where the functions relate to operation of a fish farm, other users of any part of the water environment or the Scottish marine area[^c-52cc80180da4cbfffd24f47173ff94d6],
 - (c) have regard to other water activities being carried on or likely to be carried on in the area.
 
 (2) The functions mentioned are—
@@ -175,12 +175,12 @@ Regulation 6(1)
 
 ## Annotations
 
-[^key-2bd1e8151d54d0b187154a037f7e5caa]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ssi/2018/219/schedule/10) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-2bd1e8151d54d0b187154a037f7e5caa]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/ssi/2018/219/schedule/10) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-f5c71bb16cd1a841c6f05ecc5d2b2a27]: Textual amendment: Words in [sch. 10 para. 3(1)](https://www.legislation.gov.uk/ssi/2018/219/schedule/10/paragraph/3/1) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/ssi/2026/55/regulation/10/a/i)
+[^c-f5c71bb16cd1a841c6f05ecc5d2b2a27]: Textual amendment: Words in [sch. 10 para. 3(1)](https://www.legislation.gov.uk/ssi/2018/219/schedule/10/paragraph/3/1) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [10(a)(i)](https://www.legislation.gov.uk/ssi/2026/55/regulation/10/a/i)
 
-[^key-26198fe6e5c768ced1105c1f2a7f025b]: Textual amendment: Words in [sch. 10 para. 3(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/10/paragraph/3/2) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [10(a)(ii)](https://www.legislation.gov.uk/ssi/2026/55/regulation/10/a/ii)
+[^c-26198fe6e5c768ced1105c1f2a7f025b]: Textual amendment: Words in [sch. 10 para. 3(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/10/paragraph/3/2) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [10(a)(ii)](https://www.legislation.gov.uk/ssi/2026/55/regulation/10/a/ii)
 
-[^key-11f4acd80906616d5488f93b2137321d]: Textual amendment: Words in [sch. 10 para. 5(1)(a)](https://www.legislation.gov.uk/ssi/2018/219/schedule/10/paragraph/5/1/a) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [10(b)(i)](https://www.legislation.gov.uk/ssi/2026/55/regulation/10/b/i)
+[^c-11f4acd80906616d5488f93b2137321d]: Textual amendment: Words in [sch. 10 para. 5(1)(a)](https://www.legislation.gov.uk/ssi/2018/219/schedule/10/paragraph/5/1/a) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [10(b)(i)](https://www.legislation.gov.uk/ssi/2026/55/regulation/10/b/i)
 
-[^key-52cc80180da4cbfffd24f47173ff94d6]: Textual amendment: Words in [sch. 10 para. 5(1)(b)](https://www.legislation.gov.uk/ssi/2018/219/schedule/10/paragraph/5/1/b) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [10(b)(ii)](https://www.legislation.gov.uk/ssi/2026/55/regulation/10/b/ii)
+[^c-52cc80180da4cbfffd24f47173ff94d6]: Textual amendment: Words in [sch. 10 para. 5(1)(b)](https://www.legislation.gov.uk/ssi/2018/219/schedule/10/paragraph/5/1/b) inserted (26.3.2026) by [The Environmental Authorisations (Scotland) Amendment Regulations 2026 (S.S.I. 2026/55)](https://www.legislation.gov.uk/ssi/2026/55), [regs. 1](https://www.legislation.gov.uk/ssi/2026/55/regulation/1), [10(b)(ii)](https://www.legislation.gov.uk/ssi/2026/55/regulation/10/b/ii)

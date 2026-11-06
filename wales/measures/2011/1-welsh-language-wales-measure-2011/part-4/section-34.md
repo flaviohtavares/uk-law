@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Persons who are within Schedules 5, 6, 7 and 8[^key-a7cfb3004ad00a76a8d7d9c4a1103144]
+## 34. Persons who are within Schedules 5, 6, 7 and 8[^c-a7cfb3004ad00a76a8d7d9c4a1103144]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7cfb3004ad00a76a8d7d9c4a1103144]: Commencement: [S. 34](https://www.legislation.gov.uk/mwa/2011/1/section/34) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)
+[^c-a7cfb3004ad00a76a8d7d9c4a1103144]: Commencement: [S. 34](https://www.legislation.gov.uk/mwa/2011/1/section/34) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(i)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/i)

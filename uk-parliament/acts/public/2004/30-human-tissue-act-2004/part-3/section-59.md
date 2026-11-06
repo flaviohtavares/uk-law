@@ -26,7 +26,7 @@ summary: ''
 
 (3) Sections 51(1) to (3), 58(6) and 60(4) extend to Northern Ireland only.
 
-(4)[^key-1dbd3b672dc304cf1e949ebb3a680d3d][^key-a6027c19b08db27485318c377bfb743d] The following provisions also extend to Scotland—
+(4)[^c-1dbd3b672dc304cf1e949ebb3a680d3d][^c-a6027c19b08db27485318c377bfb743d] The following provisions also extend to Scotland—
 
 - (za) section 13,
 - (a) sections 45(1) to (3) and (5) and 47,
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1dbd3b672dc304cf1e949ebb3a680d3d]: Textual amendment: S. 59(4)(fa) inserted (12.7.2012 for specified purposes, otherwise 27.8.2012) by [The Quality and Safety of Organs Intended for Transplantation Regulations 2012 (S.I. 2012/1501)](https://www.legislation.gov.uk/uksi/2012/1501), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/1/3), [25(5)(b)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/25/5/b)
+[^c-1dbd3b672dc304cf1e949ebb3a680d3d]: Textual amendment: S. 59(4)(fa) inserted (12.7.2012 for specified purposes, otherwise 27.8.2012) by [The Quality and Safety of Organs Intended for Transplantation Regulations 2012 (S.I. 2012/1501)](https://www.legislation.gov.uk/uksi/2012/1501), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/1/3), [25(5)(b)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/25/5/b)
 
-[^key-a6027c19b08db27485318c377bfb743d]: Textual amendment: S. 59(4)(za) inserted (12.7.2012 for specified purposes, otherwise 27.8.2012) by [The Quality and Safety of Organs Intended for Transplantation Regulations 2012 (S.I. 2012/1501)](https://www.legislation.gov.uk/uksi/2012/1501), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/1/3), [25(5)(a)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/25/5/a)
+[^c-a6027c19b08db27485318c377bfb743d]: Textual amendment: S. 59(4)(za) inserted (12.7.2012 for specified purposes, otherwise 27.8.2012) by [The Quality and Safety of Organs Intended for Transplantation Regulations 2012 (S.I. 2012/1501)](https://www.legislation.gov.uk/uksi/2012/1501), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/1/3), [25(5)(a)](https://www.legislation.gov.uk/uksi/2012/1501/regulation/25/5/a)

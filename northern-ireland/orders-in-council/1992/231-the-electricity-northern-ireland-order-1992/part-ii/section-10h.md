@@ -25,7 +25,7 @@ summary: ''
 - (a) holds a transmission licence in relation to which the duty under Article 10B(1) or (2) applies; and
 - (b) is certified.
 
-(2) If the person is certified on the first or second certification ground in Article 10F, the Department shall designate that person as an electricity transmission system operator for the purposes of Article 52(2)[^key-493a9dc245d43ecded0eef35010961bb] of the Directive (designation of transmission system operators).
+(2) If the person is certified on the first or second certification ground in Article 10F, the Department shall designate that person as an electricity transmission system operator for the purposes of Article 52(2)[^c-493a9dc245d43ecded0eef35010961bb] of the Directive (designation of transmission system operators).
 
 (3) If the person is certified on the third certification ground in Article 10F, the Department shall designate the independent system operator nominated in the application for certification as an electricity transmission system operator for the purposes of that Article.
 
@@ -42,4 +42,4 @@ summary: ''
 
 [^c21262041]: Textual amendment: Arts. 10B-10L inserted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 10](https://www.legislation.gov.uk/nisr/2011/155/regulation/10)
 
-[^key-493a9dc245d43ecded0eef35010961bb]: Textual amendment: Words in [art. 10H(2)](https://www.legislation.gov.uk/nisi/1992/231/article/10H/2) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [6](https://www.legislation.gov.uk/nisr/2020/307/regulation/6)
+[^c-493a9dc245d43ecded0eef35010961bb]: Textual amendment: Words in [art. 10H(2)](https://www.legislation.gov.uk/nisi/1992/231/article/10H/2) substituted (31.12.2020) by [The Electricity (Internal Markets) Regulations (Northern Ireland) 2020 (S.R. 2020/307)](https://www.legislation.gov.uk/nisr/2020/307), [regs. 1](https://www.legislation.gov.uk/nisr/2020/307/regulation/1), [6](https://www.legislation.gov.uk/nisr/2020/307/regulation/6)

@@ -30,7 +30,7 @@ Charities Act (Northern Ireland) 1964 [^c5443781]
 
 An Act to replace, with new provisions, certain existing enactments relating to charities; to make further provision with respect to gifts to charity and gifts for mixed charitable and non-charitable purposes; and for purposes connected with those matters.
 
-\[20th October 1964\] [^key-756dd5824acc733bf2ed9fc8f1ee6e29]
+\[20th October 1964\] [^c-756dd5824acc733bf2ed9fc8f1ee6e29]
 
 WHEREAS, pursuant to section 12(2)( *b*) of the Northern Ireland Act 1962 [^c16668811], the consent of the Lord Chief Justice has been obtained to the provisions of this Act which confer powers on the taxing master of the Supreme Court in relation to the taxation of expenses deducted by the Ministry of Finance from the funds of a charity:
 
@@ -40,7 +40,7 @@ And Whereas the Clerk of the Parliaments has certified accordingly pursuant to s
 
 ### General powers of Ministry
 
-#### 1. Applications for opinion etc. of Ministry.[^key-756dd5824acc733bf2ed9fc8f1ee6e29]
+#### 1. Applications for opinion etc. of Ministry.[^c-756dd5824acc733bf2ed9fc8f1ee6e29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -77,7 +77,7 @@ the Ministry may keep the document or deliver it to the trustees of the charity 
 
 (2) If any person fails to comply with any requirement made under subsection (1) he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale[^c5443791].
 
-#### 5. Compromises of claims by or against charities.[^key-756dd5824acc733bf2ed9fc8f1ee6e29]
+#### 5. Compromises of claims by or against charities.[^c-756dd5824acc733bf2ed9fc8f1ee6e29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -223,7 +223,7 @@ as if he had been originally appointed by the instrument, if any, creating the t
 
 ### Cy-près jurisdiction of Ministry, etc.
 
-#### 13. Cy-près powers of Ministry.[^key-756dd5824acc733bf2ed9fc8f1ee6e29][^key-17a47f8f7e08f085456e498ac2fe317d]
+#### 13. Cy-près powers of Ministry.[^c-756dd5824acc733bf2ed9fc8f1ee6e29][^c-17a47f8f7e08f085456e498ac2fe317d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -322,17 +322,17 @@ the Ministry may confer power, subject to such terms and conditions as it may sp
 
 ### Extension of cy-près powers
 
-#### 22. Occasions for applying property cy-près.[^key-756dd5824acc733bf2ed9fc8f1ee6e29][^key-2009a0f0316f1e723a248bbc99f15e0e]
+#### 22. Occasions for applying property cy-près.[^c-756dd5824acc733bf2ed9fc8f1ee6e29][^c-2009a0f0316f1e723a248bbc99f15e0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 23. Application cy-près of gifts of donors unknown or disclaiming.[^key-756dd5824acc733bf2ed9fc8f1ee6e29][^key-2009a0f0316f1e723a248bbc99f15e0e]
+#### 23. Application cy-près of gifts of donors unknown or disclaiming.[^c-756dd5824acc733bf2ed9fc8f1ee6e29][^c-2009a0f0316f1e723a248bbc99f15e0e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Imperfect trusts
 
-#### 24. Gifts for mixed purposes.[^key-756dd5824acc733bf2ed9fc8f1ee6e29]
+#### 24. Gifts for mixed purposes.[^c-756dd5824acc733bf2ed9fc8f1ee6e29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -349,7 +349,7 @@ the Ministry may confer power, subject to such terms and conditions as it may sp
 
 (3) A common investment scheme may be made in terms admitting any charity to participate or may restrict the right to participate in any manner.
 
-(3A)[^key-c880a691e9e695d87cf7c53dd070f144] A common investment scheme may provide for appropriate bodies to be admitted to participate in the scheme (in addition to the participating charities) to such extent as the trustees appointed to manage the fund may determine.
+(3A)[^c-c880a691e9e695d87cf7c53dd070f144] A common investment scheme may provide for appropriate bodies to be admitted to participate in the scheme (in addition to the participating charities) to such extent as the trustees appointed to manage the fund may determine.
 
 (3B) In this section “appropriate body” means—
 
@@ -552,7 +552,7 @@ Nothing in this Act or the Charities (Northern Ireland) Order 1987[^c5444091] sh
 
 [^c5443781]: Textual amendment: Functions transf., SR 1999/481
 
-[^key-756dd5824acc733bf2ed9fc8f1ee6e29]: Textual amendment: Act repealed (24.6.2013 for the repeal of ss. 1, 5, 13, 22-24, 1.1.2016 for the repeal of s. 14) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [s. 185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1), [Sch. 9](https://www.legislation.gov.uk/nia/2008/12/schedule/9); [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule); [S.R. 2015/383](https://www.legislation.gov.uk/nisr/2015/383), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/383/article/2/3), [Sch.](https://www.legislation.gov.uk/nisr/2015/383/schedule)
+[^c-756dd5824acc733bf2ed9fc8f1ee6e29]: Textual amendment: Act repealed (24.6.2013 for the repeal of ss. 1, 5, 13, 22-24, 1.1.2016 for the repeal of s. 14) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [s. 185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1), [Sch. 9](https://www.legislation.gov.uk/nia/2008/12/schedule/9); [S.R. 2013/145](https://www.legislation.gov.uk/nisr/2013/145), [art. 2](https://www.legislation.gov.uk/nisr/2013/145/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2013/145/schedule); [S.R. 2015/383](https://www.legislation.gov.uk/nisr/2015/383), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/383/article/2/3), [Sch.](https://www.legislation.gov.uk/nisr/2015/383/schedule)
 
 [^c16668811]: Marginal citation: [1962 c. 30](https://www.legislation.gov.uk/ukpga/1962/30)
 
@@ -564,7 +564,7 @@ Nothing in this Act or the Charities (Northern Ireland) Order 1987[^c5444091] sh
 
 [^c16668851]: Marginal citation: [1954 c. 33](https://www.legislation.gov.uk/ukpga/1954/33)
 
-[^key-17a47f8f7e08f085456e498ac2fe317d]: Modification: S. 13 saving for effect of 2008 c. 12 (N.I.) Sch. 9; S.R. 2013/145 Sch. (24.6.2013) by [The Charities Act 2008 (Consequential Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/146)](https://www.legislation.gov.uk/nisr/2013/146), [arts. 1](https://www.legislation.gov.uk/nisr/2013/146/article/1), [3](https://www.legislation.gov.uk/nisr/2013/146/article/3)
+[^c-17a47f8f7e08f085456e498ac2fe317d]: Modification: S. 13 saving for effect of 2008 c. 12 (N.I.) Sch. 9; S.R. 2013/145 Sch. (24.6.2013) by [The Charities Act 2008 (Consequential Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/146)](https://www.legislation.gov.uk/nisr/2013/146), [arts. 1](https://www.legislation.gov.uk/nisr/2013/146/article/1), [3](https://www.legislation.gov.uk/nisr/2013/146/article/3)
 
 [^M_F_ab068d34-3651-46bb-f76d-46ed6ed37456]: Textual amendment: Act repealed (1.1.2016 for the repeal of s. 14) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12), [s. 185(1)](https://www.legislation.gov.uk/nia/2008/12/section/185/1), [Sch. 9](https://www.legislation.gov.uk/nia/2008/12/schedule/9); [S.R. 2015/383](https://www.legislation.gov.uk/nisr/2015/383), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/383/article/2/3), [Sch.](https://www.legislation.gov.uk/nisr/2015/383/schedule)
 
@@ -572,9 +572,9 @@ Nothing in this Act or the Charities (Northern Ireland) Order 1987[^c5444091] sh
 
 [^c5443901]: Textual amendment: [1966 c.31 (NI)](https://www.legislation.gov.uk/apni/1966/31)
 
-[^key-2009a0f0316f1e723a248bbc99f15e0e]: Modification: Ss. 22, 23 savings for effect of 2008 c. 12 (N.I.) Sch. 9; S.R. 2013/145, Sch. (24.6.2013) by [The Charities Act 2008 (Consequential Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/146)](https://www.legislation.gov.uk/nisr/2013/146), [arts. 1](https://www.legislation.gov.uk/nisr/2013/146/article/1), [3](https://www.legislation.gov.uk/nisr/2013/146/article/3)
+[^c-2009a0f0316f1e723a248bbc99f15e0e]: Modification: Ss. 22, 23 savings for effect of 2008 c. 12 (N.I.) Sch. 9; S.R. 2013/145, Sch. (24.6.2013) by [The Charities Act 2008 (Consequential Provision and Savings) Order (Northern Ireland) 2013 (S.R. 2013/146)](https://www.legislation.gov.uk/nisr/2013/146), [arts. 1](https://www.legislation.gov.uk/nisr/2013/146/article/1), [3](https://www.legislation.gov.uk/nisr/2013/146/article/3)
 
-[^key-c880a691e9e695d87cf7c53dd070f144]: Textual amendment: S. 25(3A)-(3E) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773) , [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1) , [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/37)
+[^c-c880a691e9e695d87cf7c53dd070f144]: Textual amendment: S. 25(3A)-(3E) inserted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773) , [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1) , [Sch. 1 para. 37](https://www.legislation.gov.uk/uksi/2013/1773/schedule/1/paragraph/37)
 
 [^c5443931]: Textual amendment: [1986 c.60](https://www.legislation.gov.uk/ukpga/1986/60)
 

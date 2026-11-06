@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 206. Forfeiture: appeals to sheriff[^key-f15b401befae698ef1d862f30496a5fc]
+## 206. Forfeiture: appeals to sheriff[^c-f15b401befae698ef1d862f30496a5fc]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f15b401befae698ef1d862f30496a5fc]: Commencement: Reg. 206 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-f15b401befae698ef1d862f30496a5fc]: Commencement: Reg. 206 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

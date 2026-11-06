@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8.4. Consequence of not filing an acknowledgment of service[^key-7a50c300a8b1b976cedb56daf760689a]
+## 8.4. Consequence of not filing an acknowledgment of service[^c-7a50c300a8b1b976cedb56daf760689a]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a50c300a8b1b976cedb56daf760689a]: Commencement: [Rule 8.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-7a50c300a8b1b976cedb56daf760689a]: Commencement: [Rule 8.4](https://www.legislation.gov.uk/uksi/1998/3132/rule/8.4) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

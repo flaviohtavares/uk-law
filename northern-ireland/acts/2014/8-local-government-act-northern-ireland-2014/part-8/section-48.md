@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Additional rights of access to documents for members of councils[^key-2d8b3cc6ee911c7cb2b473bb3bc99409]
+## 48. Additional rights of access to documents for members of councils[^c-2d8b3cc6ee911c7cb2b473bb3bc99409]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d8b3cc6ee911c7cb2b473bb3bc99409]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2014/8/section/48) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-2d8b3cc6ee911c7cb2b473bb3bc99409]: Commencement: [S. 48](https://www.legislation.gov.uk/nia/2014/8/section/48) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

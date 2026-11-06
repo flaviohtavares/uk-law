@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Payments in respect of rights under pension schemes[^key-224fce8ab64546c4025fa7c072a07ffe]
+## 184. Payments in respect of rights under pension schemes[^c-224fce8ab64546c4025fa7c072a07ffe]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 (4) A recovery order made by virtue of paragraph (2) may provide for the recovery by the trustees or managers of the scheme (whether by deduction from any amount which they are required to pay to the trustee for civil recovery or otherwise) of costs incurred by them in—
 
 - (a) complying with the recovery order, or
-- (b) providing information, before the order was made, to the enforcement authority, receiver appointed under article 150A,[^key-d2b09bc707ce63cba8315e5c0b627674] interim receiver or interim administrator.
+- (b) providing information, before the order was made, to the enforcement authority, receiver appointed under article 150A,[^c-d2b09bc707ce63cba8315e5c0b627674] interim receiver or interim administrator.
 
 (5) None of the following provisions applies to a court making a recovery order by virtue of paragraph (2)—
 
@@ -44,9 +44,9 @@ summary: ''
 
 ## Annotations
 
-[^key-224fce8ab64546c4025fa7c072a07ffe]: Commencement: [Art. 184](https://www.legislation.gov.uk/uksi/2005/3181/article/184) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-224fce8ab64546c4025fa7c072a07ffe]: Commencement: [Art. 184](https://www.legislation.gov.uk/uksi/2005/3181/article/184) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-d2b09bc707ce63cba8315e5c0b627674]: Textual amendment: Words in [art. 184(4)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/184/4/b) inserted (6.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/302/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2008/302/article/3/2)
+[^c-d2b09bc707ce63cba8315e5c0b627674]: Textual amendment: Words in [art. 184(4)(b)](https://www.legislation.gov.uk/uksi/2005/3181/article/184/4/b) inserted (6.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/302/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2008/302/article/3/2)
 
 [^f00094]: Footnote: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48)
 

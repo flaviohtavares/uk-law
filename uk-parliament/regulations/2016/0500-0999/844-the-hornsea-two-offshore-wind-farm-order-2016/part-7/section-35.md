@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 35. Transfer of benefit of Order[^key-16b216f91ddcc2aca8dfd8e1e03f3014]
+## 35. Transfer of benefit of Order[^c-16b216f91ddcc2aca8dfd8e1e03f3014]
 
 *Extent: E+W+S*
 
@@ -37,7 +37,7 @@ summary: ''
 (5) Where there is a transfer or grant under paragraph (2)—
 
 - (a) the exercise by the transferee or, as the case may be, by the lessee of any benefit or right conferred by the transfer or grant (the “transferred benefit”) is subject to the same restrictions, liabilities and obligations as would apply under this Order if the benefit or right were exercised by the undertaker; and
-- (b) the transferred benefit resides exclusively with the transferee or lessee, and any breach of a restriction or an obligation with respect to the transferred benefit is not [^key-400e2b5d0456717e5a1d35f5aa912be2]... enforceable against the person making the transfer or grant, except for a breach occurring before the date of transfer.
+- (b) the transferred benefit resides exclusively with the transferee or lessee, and any breach of a restriction or an obligation with respect to the transferred benefit is not [^c-400e2b5d0456717e5a1d35f5aa912be2]... enforceable against the person making the transfer or grant, except for a breach occurring before the date of transfer.
 
 (6) At least 5 days before a transfer or grant under paragraph (2) takes effect, the undertaker must give notice in writing—
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-16b216f91ddcc2aca8dfd8e1e03f3014]: Commencement: Art. 35 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-16b216f91ddcc2aca8dfd8e1e03f3014]: Commencement: Art. 35 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
 
-[^key-400e2b5d0456717e5a1d35f5aa912be2]: Textual amendment: Word in [art. 35(5)(b)](https://www.legislation.gov.uk/uksi/2016/844/article/35/5/b) omitted (17.11.2016) by virtue of [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)
+[^c-400e2b5d0456717e5a1d35f5aa912be2]: Textual amendment: Word in [art. 35(5)(b)](https://www.legislation.gov.uk/uksi/2016/844/article/35/5/b) omitted (17.11.2016) by virtue of [The Hornsea Two Offshore Wind Farm (Correction) Order 2016 (S.I. 2016/1104)](https://www.legislation.gov.uk/uksi/2016/1104), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/1104/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/1104/schedule)

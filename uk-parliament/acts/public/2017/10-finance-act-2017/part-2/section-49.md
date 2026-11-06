@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Applications, notifications etc[^key-ecbdf391e2624f55946216c31b66b71f][^key-5bf4cb6cdc3ab6dd161de8ac319c06a1]
+## 49. Applications, notifications etc[^c-ecbdf391e2624f55946216c31b66b71f][^c-5bf4cb6cdc3ab6dd161de8ac319c06a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ The Commissioners may by or under regulations make provision—
 
 ## Annotations
 
-[^key-ecbdf391e2624f55946216c31b66b71f]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2017/10/section/49) in force at 13.1.2018 for specified purposes by [S.I. 2018/32](https://www.legislation.gov.uk/uksi/2018/32), [reg. 2](https://www.legislation.gov.uk/uksi/2018/32/regulation/2)
+[^c-ecbdf391e2624f55946216c31b66b71f]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2017/10/section/49) in force at 13.1.2018 for specified purposes by [S.I. 2018/32](https://www.legislation.gov.uk/uksi/2018/32), [reg. 2](https://www.legislation.gov.uk/uksi/2018/32/regulation/2)
 
-[^key-5bf4cb6cdc3ab6dd161de8ac319c06a1]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2017/10/section/49) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-5bf4cb6cdc3ab6dd161de8ac319c06a1]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2017/10/section/49) in force at 6.4.2018 in so far as not already in force by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6 — CONFORMITY ASSESSMENT PROCEDURES (Annex II to Decision No [768/2008/EC](https://www.legislation.gov.uk/eudn/19768/2008))[^key-ba5d96504e6e6e33be830a43d095f45d]
+## SCHEDULE 6 — CONFORMITY ASSESSMENT PROCEDURES (Annex II to Decision No [768/2008/EC](https://www.legislation.gov.uk/eudn/19768/2008))[^c-ba5d96504e6e6e33be830a43d095f45d]
 
 *Extent: E+W+S*
 
@@ -139,4 +139,4 @@ The manufacturer's obligations set out in point 3 may be fulfilled by the manufa
 
 ## Annotations
 
-[^key-ba5d96504e6e6e33be830a43d095f45d]: Textual amendment: [Schs. 1-7](https://www.legislation.gov.uk/uksi/2011/1881/schedule/1) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 43](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/43) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/9/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ba5d96504e6e6e33be830a43d095f45d]: Textual amendment: [Schs. 1-7](https://www.legislation.gov.uk/uksi/2011/1881/schedule/1) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 43](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/43) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 9(5)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/9/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

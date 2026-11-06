@@ -73,7 +73,7 @@ The Secretary of State, being a Minister designated[^c9603571] for the purposes 
 >
 > (3) The obligation to pay an additional fixed sum under this section in respect of a qualifying debt shall be treated as part of the term implied by section 1(1) in the contract creating the debt.
 
-## 3. Proceedings restraining grossly unfair terms or practices[^key-f5d7acee0188dfafed3f6787dccb03ea]
+## 3. Proceedings restraining grossly unfair terms or practices[^c-f5d7acee0188dfafed3f6787dccb03ea]
 
 (1) In this regulation, “representative body” means an organisation established to represent the collective interests of any enterprise, either in general or in a particular sector or area.
 
@@ -95,7 +95,7 @@ The Late Payment of Commercial Debts (Interest) (Legal Aid Exceptions) Order 199
 
 These Regulations do not affect contracts made before 7th August 2002.
 
-## 6. Review[^key-524b772e103e09e83ff5c2edc90bbd3f]
+## 6. Review[^c-524b772e103e09e83ff5c2edc90bbd3f]
 
 (1) Before 26th February 2022, and subsequently at intervals not exceeding five years, the Secretary of State must—
 
@@ -153,12 +153,12 @@ A Transposition Note is available at www.dti.gov.uk, or from the Small Business 
 
 [^c9603601]: Marginal citation: [1998 c. 20](https://www.legislation.gov.uk/ukpga/1998/20).
 
-[^key-f5d7acee0188dfafed3f6787dccb03ea]: Textual amendment: Reg. 3 substituted (26.2.2018) by [The Late Payment of Commercial Debts (Amendment) Regulations 2018 (S.I. 2018/117)](https://www.legislation.gov.uk/uksi/2018/117), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/117/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/117/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/117/regulation/5))
+[^c-f5d7acee0188dfafed3f6787dccb03ea]: Textual amendment: Reg. 3 substituted (26.2.2018) by [The Late Payment of Commercial Debts (Amendment) Regulations 2018 (S.I. 2018/117)](https://www.legislation.gov.uk/uksi/2018/117), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/117/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2018/117/regulation/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/117/regulation/5))
 
 [^c9603631]: Marginal citation: [S.I. 1998/2482](https://www.legislation.gov.uk/uksi/1998/2482).
 
 [^c9603621]: Marginal citation: [S.I. 1998/2482](https://www.legislation.gov.uk/uksi/1998/2482).
 
-[^key-524b772e103e09e83ff5c2edc90bbd3f]: Textual amendment: Reg. 6 inserted (26.2.2018) by [The Late Payment of Commercial Debts (Amendment) Regulations 2018 (S.I. 2018/117)](https://www.legislation.gov.uk/uksi/2018/117), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/117/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2018/117/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/117/regulation/5))
+[^c-524b772e103e09e83ff5c2edc90bbd3f]: Textual amendment: Reg. 6 inserted (26.2.2018) by [The Late Payment of Commercial Debts (Amendment) Regulations 2018 (S.I. 2018/117)](https://www.legislation.gov.uk/uksi/2018/117), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/117/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2018/117/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/117/regulation/5))
 
 [^c9603641]: Marginal citation: OJ No L 48, 23.2.2011, p.1.

@@ -57,7 +57,7 @@ of 7 June 2011
 
 laying down detailed rules for the application of Council Regulation (EC) No 1234/2007 in respect of the fruit and vegetables and processed fruit and vegetables sectors
 
-[^key-c32c5387632e8da92007626b84d2637a]
+[^c-c32c5387632e8da92007626b84d2637a]
 
 THE EUROPEAN COMMISSION,
 
@@ -328,7 +328,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 9 — Coordinating authorities and inspection bodies](section-article-9.md)
 - [Section Article 10 — Trader database](section-article-10.md)
 
-##### Section 2 — Conformity checks ...[^key-1aef89706c5e177d6d343fd230ade080]
+##### Section 2 — Conformity checks ...[^c-1aef89706c5e177d6d343fd230ade080]
 
 *Extent: E+W+S+N.I.*
 
@@ -403,7 +403,7 @@ HAS ADOPTED THIS REGULATION:
 - [Section Article 34 — Members of associations of producer organisations which are not producer organisations](section-article-34.md)
 - [Section Article 35 — Transnational association of producer organisations](section-article-35.md)
 
-##### Section 4 — Producer groups[^key-4fa0167475b4e9cad39ce437fbc51339]
+##### Section 4 — Producer groups[^c-4fa0167475b4e9cad39ce437fbc51339]
 
 *Extent: E+W+S+N.I.*
 
@@ -721,11 +721,11 @@ HAS ADOPTED THIS REGULATION:
 
 *Extent: E+W+S+N.I.*
 
-[^key-3808e6729e53b2515316144853288594]...
+[^c-3808e6729e53b2515316144853288594]...
 
 ## Annotations
 
-[^key-c32c5387632e8da92007626b84d2637a]: Modification: Regulation applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-c32c5387632e8da92007626b84d2637a]: Modification: Regulation applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00001]: Footnote: [OJ L 299, 16.11.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.299.01.0001.01.ENG).
 
@@ -739,10 +739,10 @@ HAS ADOPTED THIS REGULATION:
 
 [^f00006]: Footnote: [OJ L 273, 17.10.2007, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2007.273.01.0001.01.ENG).
 
-[^key-1aef89706c5e177d6d343fd230ade080]: Textual amendment: Words in [Title 2 Ch. 2 Section 2](https://www.legislation.gov.uk/eur/2011/543/title/II/chapter/II/section/2) heading omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [8(27)](https://www.legislation.gov.uk/uksi/2019/822/regulation/8/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1aef89706c5e177d6d343fd230ade080]: Textual amendment: Words in [Title 2 Ch. 2 Section 2](https://www.legislation.gov.uk/eur/2011/543/title/II/chapter/II/section/2) heading omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [8(27)](https://www.legislation.gov.uk/uksi/2019/822/regulation/8/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Deleted by [Commission Delegated Regulation (EU) 2017/891 of 13 March 2017 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council with regard to the fruit and vegetables and processed fruit and vegetables sectors and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to penalties to be applied in those sectors and amending Commission Implementing Regulation (EU) No 543/2011](https://www.legislation.gov.uk/eur/2017/891).
 
-[^key-4fa0167475b4e9cad39ce437fbc51339]: Textual amendment: [Title 3 Ch. 1 Section 4](https://www.legislation.gov.uk/eur/2011/543/title/III/chapter/I/section/4) omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/756/regulation/2)
+[^c-4fa0167475b4e9cad39ce437fbc51339]: Textual amendment: [Title 3 Ch. 1 Section 4](https://www.legislation.gov.uk/eur/2011/543/title/III/chapter/I/section/4) omitted (25.6.2021) by virtue of [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/756/regulation/2)
 
-[^key-3808e6729e53b2515316144853288594]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2011/543/signature) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [8(41)](https://www.legislation.gov.uk/uksi/2019/822/regulation/8/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3808e6729e53b2515316144853288594]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2011/543/signature) omitted (31.12.2020) by virtue of [The Market Measures (Marketing Standards) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/822)](https://www.legislation.gov.uk/uksi/2019/822), [regs. 1](https://www.legislation.gov.uk/uksi/2019/822/regulation/1), [8(41)](https://www.legislation.gov.uk/uksi/2019/822/regulation/8/41); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

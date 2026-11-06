@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Application of certain provisions of the Energy Act 2004[^key-c6b69b9a0f6325c078258788f3c5c8fa]
+## 44. Application of certain provisions of the Energy Act 2004[^c-c6b69b9a0f6325c078258788f3c5c8fa]
 
 *Extent: E+W+S*
 
@@ -108,4 +108,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6b69b9a0f6325c078258788f3c5c8fa]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/52/section/44) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-c6b69b9a0f6325c078258788f3c5c8fa]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2023/52/section/44) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

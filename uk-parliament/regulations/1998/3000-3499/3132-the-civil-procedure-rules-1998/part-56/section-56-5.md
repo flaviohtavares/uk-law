@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56.5. Scope and interpretation[^key-fa6a0240c7c1bc7b1c4b04d637b2ee82][^key-083d3acaff142ff50b3490b86b713816]
+## 56.5. Scope and interpretation[^c-fa6a0240c7c1bc7b1c4b04d637b2ee82][^c-083d3acaff142ff50b3490b86b713816]
 
 *Extent: E+W*
 
@@ -27,15 +27,15 @@ summary: ''
   - (i) for possession;
   - (ii) for a prohibited conduct standard contract order under section 116 of the 2016 Act;
   - (iii) to which the Pre-Action Protocol for Housing Disrepair Cases applies; or
-  - (iv) brought in the same proceedings as a claim referred to in paragraphs (i) to (iii)[^key-5446e432ade5af421ef2d6f05ed4a95d];
+  - (iv) brought in the same proceedings as a claim referred to in paragraphs (i) to (iii)[^c-5446e432ade5af421ef2d6f05ed4a95d];
 
   and includes an appeal under section 78 of the 2016 Act;
 - (c) “**the claimant**” means the person making the Renting Homes (Wales) claim, irrespective of whether it is a claim or application under the 2016 Act.
 
 ## Annotations
 
-[^key-fa6a0240c7c1bc7b1c4b04d637b2ee82]: Textual amendment: [Pt. 56](https://www.legislation.gov.uk/uksi/1998/3132/part/56) Section 3 inserted (1.12.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2022/783/rule/23/3)
+[^c-fa6a0240c7c1bc7b1c4b04d637b2ee82]: Textual amendment: [Pt. 56](https://www.legislation.gov.uk/uksi/1998/3132/part/56) Section 3 inserted (1.12.2022) by [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2022/783/rule/23/3)
 
-[^key-083d3acaff142ff50b3490b86b713816]: Textual amendment: Pt. 56 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/256/schedule/2) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-083d3acaff142ff50b3490b86b713816]: Textual amendment: Pt. 56 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/256/schedule/2) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
 
-[^key-5446e432ade5af421ef2d6f05ed4a95d]: Textual amendment: Words in [rule 56.5(1)(b)(iv)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.5/1/b/iv) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [29](https://www.legislation.gov.uk/uksi/2023/105/rule/29)
+[^c-5446e432ade5af421ef2d6f05ed4a95d]: Textual amendment: Words in [rule 56.5(1)(b)(iv)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.5/1/b/iv) substituted (6.4.2023) by [The Civil Procedure (Amendment) Rules 2023 (S.I. 2023/105)](https://www.legislation.gov.uk/uksi/2023/105), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/105/rule/1/1), [29](https://www.legislation.gov.uk/uksi/2023/105/rule/29)

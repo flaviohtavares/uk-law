@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation, commencement and revocation[^key-602fd730aa0d5d55ec7717f2a3a35242]
+## 1. Citation, commencement and revocation[^c-602fd730aa0d5d55ec7717f2a3a35242]
 
 *Extent: N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-602fd730aa0d5d55ec7717f2a3a35242]: Commencement: Reg. 1 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-602fd730aa0d5d55ec7717f2a3a35242]: Commencement: Reg. 1 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00004]: Footnote: S.R. (N.I) [2007 No. 476](https://www.legislation.gov.uk/nisr/2007/476)

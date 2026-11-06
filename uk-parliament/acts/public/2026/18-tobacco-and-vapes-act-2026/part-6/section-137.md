@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Power of ministers etc to take over proceedings[^key-683a3162f865d317842da06d1fb48ca1]
+## 137. Power of ministers etc to take over proceedings[^c-683a3162f865d317842da06d1fb48ca1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-683a3162f865d317842da06d1fb48ca1]: Commencement: S. 137 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)
+[^c-683a3162f865d317842da06d1fb48ca1]: Commencement: S. 137 not in force at Royal Assent, see [s. 176(2)(c)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Allocation of long-life asset expenditure to pool[^key-20264b40d1b395071bfac3bb93430a4e]
+## 101. Allocation of long-life asset expenditure to pool[^c-20264b40d1b395071bfac3bb93430a4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Chapter 10A (special rate expenditure and the special rate pool) provides for lo
 
 ## Annotations
 
-[^key-20264b40d1b395071bfac3bb93430a4e]: Textual amendment: S. 101 substituted (with effect in accordance with Sch. 26 para. 14 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 26 para. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/26/paragraph/9)
+[^c-20264b40d1b395071bfac3bb93430a4e]: Textual amendment: S. 101 substituted (with effect in accordance with Sch. 26 para. 14 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 26 para. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/26/paragraph/9)

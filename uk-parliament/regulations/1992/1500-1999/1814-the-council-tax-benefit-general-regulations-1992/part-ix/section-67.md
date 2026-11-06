@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Notification of determinations[^key-f87f21920c111c565763adfcde13df2e]
+## 67. Notification of determinations[^c-f87f21920c111c565763adfcde13df2e]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ and every notification shall include a statement as to the matters set out in Sc
 
 ## Annotations
 
-[^key-f87f21920c111c565763adfcde13df2e]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/1992/1814/regulation/67) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-f87f21920c111c565763adfcde13df2e]: Commencement: [Reg. 67](https://www.legislation.gov.uk/uksi/1992/1814/regulation/67) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

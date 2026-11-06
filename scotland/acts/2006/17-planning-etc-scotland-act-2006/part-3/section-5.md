@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Hierarchy of developments for purposes of development management etc.[^key-1a7774fea0c9b760da91bb675d77fda9][^key-1630cf61ec3c3c15d72770605bdf466a]
+## 5. Hierarchy of developments for purposes of development management etc.[^c-1a7774fea0c9b760da91bb675d77fda9][^c-1630cf61ec3c3c15d72770605bdf466a]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ After section 26AA of the principal Act (inserted into that Act by section 4 of 
 
 ## Annotations
 
-[^key-1a7774fea0c9b760da91bb675d77fda9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2006/17/section/5) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
+[^c-1a7774fea0c9b760da91bb675d77fda9]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2006/17/section/5) in force at 12.12.2008 for specified purposes by [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a)
 
-[^key-1630cf61ec3c3c15d72770605bdf466a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2006/17/section/5) in force at 6.4.2009 in so far as not already in force by [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)
+[^c-1630cf61ec3c3c15d72770605bdf466a]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2006/17/section/5) in force at 6.4.2009 in so far as not already in force by [S.S.I. 2009/100](https://www.legislation.gov.uk/ssi/2009/100), [art. 2](https://www.legislation.gov.uk/ssi/2009/100/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/100/schedule)

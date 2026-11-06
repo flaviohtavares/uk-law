@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Performance of Office's functions[^key-f29b3527136d2d9f597020889d58e0af]
+## 117. Performance of Office's functions[^c-f29b3527136d2d9f597020889d58e0af]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 (2) In performing its functions the Office is to have regard to—
 
 - (a) the need to safeguard and promote the rights and welfare of children;
-- (aa)[^key-7d321afcf260a712122e23a0ed525da9] any matters raised by the Children's Commissioner with the Office or the Chief Inspector;
+- (aa)[^c-7d321afcf260a712122e23a0ed525da9] any matters raised by the Children's Commissioner with the Office or the Chief Inspector;
 - (b) views expressed by relevant persons about activities within the Chief Inspector's remit;
 - (c) levels of satisfaction with such activities on the part of relevant persons;
 - (d) the need to promote the efficient and effective use of resources in the carrying on of such activities;
@@ -65,6 +65,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f29b3527136d2d9f597020889d58e0af]: Commencement: S. 117 in force at 12.12.2006 by [S.I. 2006/2990](https://www.legislation.gov.uk/uksi/2006/2990), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/2990/article/2/e)
+[^c-f29b3527136d2d9f597020889d58e0af]: Commencement: S. 117 in force at 12.12.2006 by [S.I. 2006/2990](https://www.legislation.gov.uk/uksi/2006/2990), [art. 2(e)](https://www.legislation.gov.uk/uksi/2006/2990/article/2/e)
 
-[^key-7d321afcf260a712122e23a0ed525da9]: Textual amendment: [S. 117(2)(aa)](https://www.legislation.gov.uk/ukpga/2006/40/section/117/2/aa) inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 116(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/116/2/a), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)
+[^c-7d321afcf260a712122e23a0ed525da9]: Textual amendment: [S. 117(2)(aa)](https://www.legislation.gov.uk/ukpga/2006/40/section/117/2/aa) inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 116(2)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/116/2/a), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)

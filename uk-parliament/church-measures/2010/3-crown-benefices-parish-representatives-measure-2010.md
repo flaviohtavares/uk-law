@@ -33,7 +33,7 @@ A Measure to make provision for the appointment of lay parish representatives to
 
 \[18th March 2010\]
 
-## 1. Amendment of Section 35 of the Patronage (Benefices) Measure 1986[^key-4552335635a40ff5def0ac835ada9239]
+## 1. Amendment of Section 35 of the Patronage (Benefices) Measure 1986[^c-4552335635a40ff5def0ac835ada9239]
 
 (1) After section 35(1) of the Patronage (Benefices) Measure 1986 (1986 No. 3) there shall be inserted the following subsections—
 
@@ -50,7 +50,7 @@ A Measure to make provision for the appointment of lay parish representatives to
 
 (2) This section does not apply in relation to a benefice in respect of which the notice required to be sent to the secretary of the parochial church council under section 7(4) of the Patronage (Benefices) Measure 1986 was sent before the date of the coming into force of this Measure.
 
-## 2. Citation, commencement and extent[^key-50972d69c7ffe055b1dffa1f21ad9b76]
+## 2. Citation, commencement and extent[^c-50972d69c7ffe055b1dffa1f21ad9b76]
 
 (1) This Measure may be cited as the Crown Benefices (Parish Representatives) Measure 2010.
 
@@ -63,6 +63,6 @@ A Measure to make provision for the appointment of lay parish representatives to
 
 ## Annotations
 
-[^key-4552335635a40ff5def0ac835ada9239]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2010/3/section/1) in force at 1.1.2011 by [S.I. 2010/7](https://www.legislation.gov.uk/ukci/2010/7), [art. 2](https://www.legislation.gov.uk/ukci/2010/7/article/2)
+[^c-4552335635a40ff5def0ac835ada9239]: Commencement: [S. 1](https://www.legislation.gov.uk/ukcm/2010/3/section/1) in force at 1.1.2011 by [S.I. 2010/7](https://www.legislation.gov.uk/ukci/2010/7), [art. 2](https://www.legislation.gov.uk/ukci/2010/7/article/2)
 
-[^key-50972d69c7ffe055b1dffa1f21ad9b76]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2010/3/section/2) in force at 1.1.2011 by [S.I. 2010/7](https://www.legislation.gov.uk/ukci/2010/7), [art. 2](https://www.legislation.gov.uk/ukci/2010/7/article/2)
+[^c-50972d69c7ffe055b1dffa1f21ad9b76]: Commencement: [S. 2](https://www.legislation.gov.uk/ukcm/2010/3/section/2) in force at 1.1.2011 by [S.I. 2010/7](https://www.legislation.gov.uk/ukci/2010/7), [art. 2](https://www.legislation.gov.uk/ukci/2010/7/article/2)

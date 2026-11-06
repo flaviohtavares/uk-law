@@ -34,10 +34,10 @@ summary: ''
 - (e) section 50(2),
 - (f) section 52(2),
 - (g) section 53(1),
-- (h)[^key-ab7e6068f15ee95629f6278a626e36ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (h)[^c-ab7e6068f15ee95629f6278a626e36ed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) section 59(9),
 - (j) paragraph 8 of schedule 1,
-- (ja)[^key-818fe4788e6e4024c3aa707a4a096c5b] paragraph 19(3), (3A), (3B)[^key-bc45b1a36438e9d67cb8edb30475ba51] or (4) of schedule 2A,
+- (ja)[^c-818fe4788e6e4024c3aa707a4a096c5b] paragraph 19(3), (3A), (3B)[^c-bc45b1a36438e9d67cb8edb30475ba51] or (4) of schedule 2A,
 - (k) paragraph 3 of schedule 19 (but only the first order),
 - (l) paragraph 7(1) of that schedule.
 
@@ -45,7 +45,7 @@ summary: ''
 
 - (a) section 17(2),
 - (b) section 47(1),
-- (c)[^key-576095c9bf5ac81ad5bb9dafa8f13bb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-576095c9bf5ac81ad5bb9dafa8f13bb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) section 67(1).
 
 (4) An order mentioned in subsection (5)—
@@ -53,7 +53,7 @@ summary: ''
 - (a) must be laid before the Scottish Parliament, and
 - (b) ceases to have effect on the expiry of the period of 28 days beginning with the date on which it is made unless, before the expiry of that period, it is approved by resolution of the Parliament.
 
-(5)[^key-65297f63393c7e7a652e3d52ae612238] The order is an order under—
+(5)[^c-65297f63393c7e7a652e3d52ae612238] The order is an order under—
 
 - (a) section 24(1),
 - (b) paragraph 19(1) or (2) of schedule 2A, or
@@ -64,7 +64,7 @@ summary: ''
 - (a) dissolved, or
 - (b) in recess for more than 4 days.
 
-(6A)[^key-80f6c32e1bdc54eabd40c62192892d85] Subsection (4)(b) is without prejudice to—
+(6A)[^c-80f6c32e1bdc54eabd40c62192892d85] Subsection (4)(b) is without prejudice to—
 
 - (a) anything previously done by reference to an order mentioned in subsection (5), or
 - (b) the making of a new order.
@@ -75,14 +75,14 @@ summary: ''
 
 ## Annotations
 
-[^key-ab7e6068f15ee95629f6278a626e36ed]: Textual amendment: S. 68(2)(h) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(16)(a)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/16/a) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-ab7e6068f15ee95629f6278a626e36ed]: Textual amendment: S. 68(2)(h) repealed (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(16)(a)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/16/a) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
 
-[^key-818fe4788e6e4024c3aa707a4a096c5b]: Textual amendment: S. 68(2)(ja) inserted (1.4.2016) by [Land and Buildings Transaction Tax (Amendment) (Scotland) Act 2016 (asp 11)](https://www.legislation.gov.uk/asp/2016/11), [ss. 2(1)(c)(i)](https://www.legislation.gov.uk/asp/2016/11/section/2/1/c/i), [5(2)](https://www.legislation.gov.uk/asp/2016/11/section/5/2) (with [s. 3](https://www.legislation.gov.uk/asp/2016/11/section/3))
+[^c-818fe4788e6e4024c3aa707a4a096c5b]: Textual amendment: S. 68(2)(ja) inserted (1.4.2016) by [Land and Buildings Transaction Tax (Amendment) (Scotland) Act 2016 (asp 11)](https://www.legislation.gov.uk/asp/2016/11), [ss. 2(1)(c)(i)](https://www.legislation.gov.uk/asp/2016/11/section/2/1/c/i), [5(2)](https://www.legislation.gov.uk/asp/2016/11/section/5/2) (with [s. 3](https://www.legislation.gov.uk/asp/2016/11/section/3))
 
-[^key-bc45b1a36438e9d67cb8edb30475ba51]: Textual amendment: Words in s. 68(2)(ja) inserted (27.5.2020) by [Coronavirus (Scotland) (No.2) Act 2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [s. 16(1)](https://www.legislation.gov.uk/asp/2020/10/section/16/1), [sch. 4 para. 6(2)](https://www.legislation.gov.uk/asp/2020/10/schedule/4/paragraph/6/2) (with [s. 9](https://www.legislation.gov.uk/asp/2020/10/section/9))
+[^c-bc45b1a36438e9d67cb8edb30475ba51]: Textual amendment: Words in s. 68(2)(ja) inserted (27.5.2020) by [Coronavirus (Scotland) (No.2) Act 2020 (asp 10)](https://www.legislation.gov.uk/asp/2020/10), [s. 16(1)](https://www.legislation.gov.uk/asp/2020/10/section/16/1), [sch. 4 para. 6(2)](https://www.legislation.gov.uk/asp/2020/10/schedule/4/paragraph/6/2) (with [s. 9](https://www.legislation.gov.uk/asp/2020/10/section/9))
 
-[^key-576095c9bf5ac81ad5bb9dafa8f13bb5]: Textual amendment: S. 68(3)(c) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(16)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/16/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-576095c9bf5ac81ad5bb9dafa8f13bb5]: Textual amendment: S. 68(3)(c) repealed (1.4.2015) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(16)(b)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/16/b) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
 
-[^key-65297f63393c7e7a652e3d52ae612238]: Textual amendment: S. 68(5) substituted (1.4.2016) by [Land and Buildings Transaction Tax (Amendment) (Scotland) Act 2016 (asp 11)](https://www.legislation.gov.uk/asp/2016/11), [ss. 2(1)(c)(ii)](https://www.legislation.gov.uk/asp/2016/11/section/2/1/c/ii), [5(2)](https://www.legislation.gov.uk/asp/2016/11/section/5/2) (with [s. 3](https://www.legislation.gov.uk/asp/2016/11/section/3))
+[^c-65297f63393c7e7a652e3d52ae612238]: Textual amendment: S. 68(5) substituted (1.4.2016) by [Land and Buildings Transaction Tax (Amendment) (Scotland) Act 2016 (asp 11)](https://www.legislation.gov.uk/asp/2016/11), [ss. 2(1)(c)(ii)](https://www.legislation.gov.uk/asp/2016/11/section/2/1/c/ii), [5(2)](https://www.legislation.gov.uk/asp/2016/11/section/5/2) (with [s. 3](https://www.legislation.gov.uk/asp/2016/11/section/3))
 
-[^key-80f6c32e1bdc54eabd40c62192892d85]: Textual amendment: S. 68(6A) inserted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(16)(c)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/16/c) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-80f6c32e1bdc54eabd40c62192892d85]: Textual amendment: S. 68(6A) inserted (7.11.2014) by [Revenue Scotland and Tax Powers Act 2014 (asp 16)](https://www.legislation.gov.uk/asp/2014/16), [s. 260(2)](https://www.legislation.gov.uk/asp/2014/16/section/260/2), [Sch. 4 para. 9(16)(c)](https://www.legislation.gov.uk/asp/2014/16/schedule/4/paragraph/9/16/c) (with [ss. 257-259](https://www.legislation.gov.uk/asp/2014/16/section/257)); [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)

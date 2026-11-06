@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Bank of England levy: consequential amendments[^key-0142b332fca2d908b0388432ccdae4d1][^key-383164111a66c901da2d2ede74297220]
+## 71. Bank of England levy: consequential amendments[^c-0142b332fca2d908b0388432ccdae4d1][^c-383164111a66c901da2d2ede74297220]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0142b332fca2d908b0388432ccdae4d1]: Commencement: S. 71 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-0142b332fca2d908b0388432ccdae4d1]: Commencement: S. 71 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-383164111a66c901da2d2ede74297220]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2023/29/section/71) in force at 1.3.2024 by [S.I. 2024/250](https://www.legislation.gov.uk/uksi/2024/250), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/250/regulation/2/c)
+[^c-383164111a66c901da2d2ede74297220]: Commencement: [S. 71](https://www.legislation.gov.uk/ukpga/2023/29/section/71) in force at 1.3.2024 by [S.I. 2024/250](https://www.legislation.gov.uk/uksi/2024/250), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/250/regulation/2/c)

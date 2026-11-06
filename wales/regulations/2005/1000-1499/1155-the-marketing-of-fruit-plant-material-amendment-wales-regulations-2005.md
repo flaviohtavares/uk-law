@@ -33,7 +33,7 @@ PLANT HEALTH, WALES
 
 SEEDS, WALES
 
-The Marketing of Fruit Plant Material (Amendment) (Wales) Regulations 2005 (revoked)[^key-1479bb8a1ba39b77cd13d7167257efbc]
+The Marketing of Fruit Plant Material (Amendment) (Wales) Regulations 2005 (revoked)[^c-1479bb8a1ba39b77cd13d7167257efbc]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into force
 
 30 April 2005
 
-[^key-1479bb8a1ba39b77cd13d7167257efbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1479bb8a1ba39b77cd13d7167257efbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-1479bb8a1ba39b77cd13d7167257efbc]
+## 1. Title, commencement and application[^c-1479bb8a1ba39b77cd13d7167257efbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulations[^key-1479bb8a1ba39b77cd13d7167257efbc]
+## 2. Amendment of Regulations[^c-1479bb8a1ba39b77cd13d7167257efbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1479bb8a1ba39b77cd13d7167257efbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1479bb8a1ba39b77cd13d7167257efbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1479bb8a1ba39b77cd13d7167257efbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1479bb8a1ba39b77cd13d7167257efbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1479bb8a1ba39b77cd13d7167257efbc]: Textual amendment: Regulations revoked (17.9.2010) by [The Marketing of Fruit Plant Material Regulations 2010 (S.I. 2010/2079)](https://www.legislation.gov.uk/uksi/2010/2079), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2079/regulation/1), [24(d)](https://www.legislation.gov.uk/uksi/2010/2079/regulation/24/d) (with [regs. 3(3)](https://www.legislation.gov.uk/uksi/2010/2079/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2010/2079/regulation/3/4), [4](https://www.legislation.gov.uk/uksi/2010/2079/regulation/4))
+[^c-1479bb8a1ba39b77cd13d7167257efbc]: Textual amendment: Regulations revoked (17.9.2010) by [The Marketing of Fruit Plant Material Regulations 2010 (S.I. 2010/2079)](https://www.legislation.gov.uk/uksi/2010/2079), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2079/regulation/1), [24(d)](https://www.legislation.gov.uk/uksi/2010/2079/regulation/24/d) (with [regs. 3(3)](https://www.legislation.gov.uk/uksi/2010/2079/regulation/3/3)[(4)](https://www.legislation.gov.uk/uksi/2010/2079/regulation/3/4), [4](https://www.legislation.gov.uk/uksi/2010/2079/regulation/4))

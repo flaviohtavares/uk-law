@@ -118,18 +118,18 @@ A MEASURE of the National Assembly for Wales to make provision about arrangement
 - [Section 35 — Part 1: interpretation](part-1/section-35.md)
 - [Section 36 — Finance](part-1/section-36.md)
 
-### PART 2 — COMMUNITY STRATEGIES AND PLANNING[^key-a65877c8fc9023715a1a3cd7318dd941]
+### PART 2 — COMMUNITY STRATEGIES AND PLANNING[^c-a65877c8fc9023715a1a3cd7318dd941]
 
 *Extent: E+W*
 
-#### Community planning[^key-a65877c8fc9023715a1a3cd7318dd941]
+#### Community planning[^c-a65877c8fc9023715a1a3cd7318dd941]
 
 **No longer in force.**
 
 - [Section 37 — Community planning](part-2/section-37.md)
 - [Section 38 — Meaning of “community planning partners”](part-2/section-38.md)
 
-#### Community strategies[^key-a65877c8fc9023715a1a3cd7318dd941]
+#### Community strategies[^c-a65877c8fc9023715a1a3cd7318dd941]
 
 **No longer in force.**
 
@@ -139,20 +139,20 @@ A MEASURE of the National Assembly for Wales to make provision about arrangement
 - [Section 42 — Community strategies: monitoring](part-2/section-42.md)
 - [Section 43 — Community strategies: implementation](part-2/section-43.md)
 
-#### Community involvement[^key-a65877c8fc9023715a1a3cd7318dd941]
+#### Community involvement[^c-a65877c8fc9023715a1a3cd7318dd941]
 
 **No longer in force.**
 
 - [Section 44 — Community planning etc: community involvement](part-2/section-44.md)
 
-#### The Welsh Ministers[^key-a65877c8fc9023715a1a3cd7318dd941]
+#### The Welsh Ministers[^c-a65877c8fc9023715a1a3cd7318dd941]
 
 **No longer in force.**
 
 - [Section 45 — Community planning etc: guidance](part-2/section-45.md)
 - [Section 46 — Community planning etc: role of Welsh Ministers](part-2/section-46.md)
 
-#### Interpretation[^key-a65877c8fc9023715a1a3cd7318dd941]
+#### Interpretation[^c-a65877c8fc9023715a1a3cd7318dd941]
 
 **No longer in force.**
 
@@ -175,4 +175,4 @@ A MEASURE of the National Assembly for Wales to make provision about arrangement
 
 ## Annotations
 
-[^key-a65877c8fc9023715a1a3cd7318dd941]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/mwa/2009/2/part/2) repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/21); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-a65877c8fc9023715a1a3cd7318dd941]: Textual amendment: [Pt. 2](https://www.legislation.gov.uk/mwa/2009/2/part/2) repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 21](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/21); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

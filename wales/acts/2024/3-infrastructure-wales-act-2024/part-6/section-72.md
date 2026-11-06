@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 72. Notice of authorisation of compulsory acquisition[^key-8222db66fa117745660d363bed4bdd9c][^key-d3981c9b481ee55a7b6b935e266e1a96]
+## 72. Notice of authorisation of compulsory acquisition[^c-8222db66fa117745660d363bed4bdd9c][^c-d3981c9b481ee55a7b6b935e266e1a96]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8222db66fa117745660d363bed4bdd9c]: Commencement: S. 72 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-8222db66fa117745660d363bed4bdd9c]: Commencement: S. 72 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-d3981c9b481ee55a7b6b935e266e1a96]: Commencement: [S. 72](https://www.legislation.gov.uk/asc/2024/3/section/72) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)
+[^c-d3981c9b481ee55a7b6b935e266e1a96]: Commencement: [S. 72](https://www.legislation.gov.uk/asc/2024/3/section/72) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(d)](https://www.legislation.gov.uk/wsi/2025/698/article/3/d)

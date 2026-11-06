@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Requirements for making of account monitoring order[^key-5796cf5e19c5b85feb2083397dcbef2a]
+## 30. Requirements for making of account monitoring order[^c-5796cf5e19c5b85feb2083397dcbef2a]
 
 *Extent: E+W+N.I.*
 
 (1) These are the requirements for the making of an account monitoring order.
 
-(2)[^key-057b21658b24584af8aba919d28f5b7d] There must be reasonable grounds for suspecting that the person specified in the application for the order holds property obtained as a result of or in connection with criminal conduct.
+(2)[^c-057b21658b24584af8aba919d28f5b7d] There must be reasonable grounds for suspecting that the person specified in the application for the order holds property obtained as a result of or in connection with criminal conduct.
 
 (3) There must be reasonable grounds for believing that account information which may be provided in compliance with the order is likely to be of substantial value (whether or not by itself) to the external investigation.
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5796cf5e19c5b85feb2083397dcbef2a]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2013/2605/article/30) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-5796cf5e19c5b85feb2083397dcbef2a]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2013/2605/article/30) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
 
-[^key-057b21658b24584af8aba919d28f5b7d]: Textual amendment: [Art. 30(2)](https://www.legislation.gov.uk/uksi/2013/2605/article/30/2) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [13](https://www.legislation.gov.uk/uksi/2015/1751/article/13)
+[^c-057b21658b24584af8aba919d28f5b7d]: Textual amendment: [Art. 30(2)](https://www.legislation.gov.uk/uksi/2013/2605/article/30/2) substituted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Investigations) (Amendment) Order 2015 (S.I. 2015/1751)](https://www.legislation.gov.uk/uksi/2015/1751), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1751/article/1/2), [13](https://www.legislation.gov.uk/uksi/2015/1751/article/13)

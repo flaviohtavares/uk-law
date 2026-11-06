@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Powers in relation to relevant navigations or watercourses[^key-def658da69e9b21af366b9c9c1f88163]
+## 16. Powers in relation to relevant navigations or watercourses[^c-def658da69e9b21af366b9c9c1f88163]
 
 *Extent: E+W+S*
 
@@ -48,12 +48,12 @@ in such manner and to such extent as may appear to it to be necessary or conveni
 
 as the context requires.
 
-(6) Nothing in this article overrides the requirement to obtain necessary consents under the Water Resources Act 1991[^f00023], the Environmental Permitting (England and Wales) Regulations 2016[^key-f192f3d7f93362ae98927ec70d493ec2] or the Thames Water Authority Land Drainage Byelaws 1981.
+(6) Nothing in this article overrides the requirement to obtain necessary consents under the Water Resources Act 1991[^f00023], the Environmental Permitting (England and Wales) Regulations 2016[^c-f192f3d7f93362ae98927ec70d493ec2] or the Thames Water Authority Land Drainage Byelaws 1981.
 
 ## Annotations
 
-[^key-def658da69e9b21af366b9c9c1f88163]: Commencement: Art. 16 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-def658da69e9b21af366b9c9c1f88163]: Commencement: Art. 16 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
 
 [^f00023]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-f192f3d7f93362ae98927ec70d493ec2]: Textual amendment: Words in [art. 16(6)](https://www.legislation.gov.uk/uksi/2016/863/article/16/6) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 120(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/120/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-f192f3d7f93362ae98927ec70d493ec2]: Textual amendment: Words in [art. 16(6)](https://www.legislation.gov.uk/uksi/2016/863/article/16/6) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 120(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/120/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))

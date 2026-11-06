@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Liability of senior manager[^key-54ab3f8631db448ddf303f162e2d2eba]
+## 27. Liability of senior manager[^c-54ab3f8631db448ddf303f162e2d2eba]
 
 *Extent: E+W+S*
 
@@ -47,4 +47,4 @@ are managed or organised.
 
 ## Annotations
 
-[^key-54ab3f8631db448ddf303f162e2d2eba]: Commencement: S. 27 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-54ab3f8631db448ddf303f162e2d2eba]: Commencement: S. 27 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

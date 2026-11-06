@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. The Welsh certifying authority[^key-f155c41512591d3320370e03468b741b][^key-86e3546cc5697f54eb7036d249310bac]
+## 10. The Welsh certifying authority[^c-f155c41512591d3320370e03468b741b][^c-86e3546cc5697f54eb7036d249310bac]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f155c41512591d3320370e03468b741b]: Commencement: S. 10 in force at 10.5.2013 by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/1/e)
+[^c-f155c41512591d3320370e03468b741b]: Commencement: S. 10 in force at 10.5.2013 by [S.I. 2013/1100](https://www.legislation.gov.uk/wsi/2013/1100), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2013/1100/article/2/1/e)
 
-[^key-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)
+[^c-86e3546cc5697f54eb7036d249310bac]: Textual amendment: Ss. A9, A10 inserted (4.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2016/12/section/24/1), [44(2)(c)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/2/c)

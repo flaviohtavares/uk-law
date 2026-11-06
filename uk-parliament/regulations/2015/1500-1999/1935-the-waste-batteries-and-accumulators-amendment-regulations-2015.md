@@ -49,13 +49,13 @@ The Secretary of State makes these Regulations under the powers conferred by sec
 
 The Secretary of State is designated[^f00002] for the purposes of the Act in relation to batteries and accumulators.
 
-## 1. Citation, commencement and amendment[^key-fd93655f345f08321ab90bd65c10ba27]
+## 1. Citation, commencement and amendment[^c-fd93655f345f08321ab90bd65c10ba27]
 
 (1) These Regulations may be cited as the Waste Batteries and Accumulators (Amendment) Regulations 2015 and come into force on 1st January 2016.
 
 (2) The Waste Batteries and Accumulators Regulations 2009[^f00003] are amended in accordance with regulations 2 to 10.
 
-## 2. New regulation 5A[^key-be2036b208b2b200e1778abd89d756a3]
+## 2. New regulation 5A[^c-be2036b208b2b200e1778abd89d756a3]
 
 After regulation 5 (signature of documents: meaning of appropriate person), insert—
 
@@ -94,11 +94,11 @@ After regulation 5 (signature of documents: meaning of appropriate person), inse
 
 .
 
-## 3. Regulation 19[^key-229a4e55bcd5d513df410e9fe3cbcbce]
+## 3. Regulation 19[^c-229a4e55bcd5d513df410e9fe3cbcbce]
 
 In regulation 19 (financing: portable batteries), in paragraph (2), for “paragraph 10”, substitute “paragraph 15(2)”.
 
-## 4. Regulation 47[^key-33edec7f1c08a22b75a070ae305dc3f2]
+## 4. Regulation 47[^c-33edec7f1c08a22b75a070ae305dc3f2]
 
 In regulation 47 (application for approval of a proposed battery compliance scheme), for paragraph (5)(b), substitute—
 
@@ -106,27 +106,27 @@ In regulation 47 (application for approval of a proposed battery compliance sche
 
 .
 
-## 5. Regulation 49[^key-868bf7d749e05689471160d0069ef059]
+## 5. Regulation 49[^c-868bf7d749e05689471160d0069ef059]
 
 In regulation 49 (approval of proposed schemes), in paragraph (1)(c), for “and operational plan provided in accordance with regulation 47 demonstrate”, substitute “provided in accordance with regulation 47 demonstrates”.
 
-## 6. Regulation 52[^key-64e974f4fbc856027ec6a6b97ebc9dfa]
+## 6. Regulation 52[^c-64e974f4fbc856027ec6a6b97ebc9dfa]
 
 In regulation 52 (conditions of approval), omit paragraph (2)(b), (e)(ii)(bb) and (g).
 
-## 7. Regulation 53[^key-c1f8a9ec3af8f052694584d25fb610dd]
+## 7. Regulation 53[^c-c1f8a9ec3af8f052694584d25fb610dd]
 
 Omit regulation 53 (annual confirmation of approval of a battery compliance scheme).
 
-## 8. Regulation 66[^key-b95cadbb6de235f4f82955108210eeba]
+## 8. Regulation 66[^c-b95cadbb6de235f4f82955108210eeba]
 
 In regulation 66 (reporting), omit paragraphs (4) and (5).
 
-## 9. Regulation 67[^key-b97542942f9930befd548dfe2be1885d]
+## 9. Regulation 67[^c-b97542942f9930befd548dfe2be1885d]
 
 In regulation 67 (record keeping), in paragraph (1), omit “and (4)”.
 
-## 10. Schedule 3[^key-b8f4c6b06233d8481b7c805104079d56]
+## 10. Schedule 3[^c-b8f4c6b06233d8481b7c805104079d56]
 
 In Schedule 3 (approval of proposed schemes)—
 
@@ -173,24 +173,24 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [S.I. 2007/3471](https://www.legislation.gov.uk/uksi/2007/3471).
 
-[^key-fd93655f345f08321ab90bd65c10ba27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
+[^c-fd93655f345f08321ab90bd65c10ba27]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 2009/890](https://www.legislation.gov.uk/uksi/2009/890), to which there are amendments not relevant to these Regulations.
 
-[^key-be2036b208b2b200e1778abd89d756a3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1935/regulation/2) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
+[^c-be2036b208b2b200e1778abd89d756a3]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1935/regulation/2) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
 
-[^key-229a4e55bcd5d513df410e9fe3cbcbce]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1935/regulation/3) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
+[^c-229a4e55bcd5d513df410e9fe3cbcbce]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/1935/regulation/3) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
 
-[^key-33edec7f1c08a22b75a070ae305dc3f2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1935/regulation/4) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
+[^c-33edec7f1c08a22b75a070ae305dc3f2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2015/1935/regulation/4) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
 
-[^key-868bf7d749e05689471160d0069ef059]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1935/regulation/5) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
+[^c-868bf7d749e05689471160d0069ef059]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2015/1935/regulation/5) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
 
-[^key-64e974f4fbc856027ec6a6b97ebc9dfa]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1935/regulation/6) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
+[^c-64e974f4fbc856027ec6a6b97ebc9dfa]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2015/1935/regulation/6) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
 
-[^key-c1f8a9ec3af8f052694584d25fb610dd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1935/regulation/7) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
+[^c-c1f8a9ec3af8f052694584d25fb610dd]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2015/1935/regulation/7) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
 
-[^key-b95cadbb6de235f4f82955108210eeba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1935/regulation/8) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
+[^c-b95cadbb6de235f4f82955108210eeba]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2015/1935/regulation/8) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
 
-[^key-b97542942f9930befd548dfe2be1885d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1935/regulation/9) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
+[^c-b97542942f9930befd548dfe2be1885d]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2015/1935/regulation/9) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
 
-[^key-b8f4c6b06233d8481b7c805104079d56]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1935/regulation/10) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)
+[^c-b8f4c6b06233d8481b7c805104079d56]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2015/1935/regulation/10) in force at 1.1.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1935/regulation/1/1)

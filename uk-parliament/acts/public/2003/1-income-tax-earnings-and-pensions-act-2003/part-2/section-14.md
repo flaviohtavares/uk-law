@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This Chapter sets out for the purposes of this Part what are taxable earnings from an employment in a tax year in cases where section 15 (earnings for year when employee UK[^key-cdad05803c2a80919eafea070fdbd8d2] resident) applies to general earnings for a tax year.
+(1) This Chapter sets out for the purposes of this Part what are taxable earnings from an employment in a tax year in cases where section 15 (earnings for year when employee UK[^c-cdad05803c2a80919eafea070fdbd8d2] resident) applies to general earnings for a tax year.
 
 (2) In this Chapter—
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdad05803c2a80919eafea070fdbd8d2]: Textual amendment: Words in s. 14(1) substituted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/7)
+[^c-cdad05803c2a80919eafea070fdbd8d2]: Textual amendment: Words in s. 14(1) substituted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Qualified investor condition in regulation 15(2)(a)[^key-f3af32e39b2526a9b48a460bbcc56db7]
+## 16. Qualified investor condition in regulation 15(2)(a)[^c-f3af32e39b2526a9b48a460bbcc56db7]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ trading on the primary MTF by or on behalf of the qualified investor is not to b
 
 ## Annotations
 
-[^key-f3af32e39b2526a9b48a460bbcc56db7]: Commencement: Reg. 16 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
+[^c-f3af32e39b2526a9b48a460bbcc56db7]: Commencement: Reg. 16 in force at 30.1.2024 for specified purposes and otherwise in accordance with reg. 2(3), see [reg. 2(2)(3)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/2/3)
 
 [^f00027]: Footnote: Schedule 1 was inserted by [S.I. 2018/1403](https://www.legislation.gov.uk/uksi/2018/1403).

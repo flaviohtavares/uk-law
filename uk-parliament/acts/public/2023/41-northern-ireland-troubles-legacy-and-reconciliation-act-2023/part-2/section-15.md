@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Production of reports on the findings of reviews[^key-32fb655e3b0e153bbe58067efb1130d3][^key-cf9ed51dc532f9ddd1ac0b7dbaa23076]
+## 15. Production of reports on the findings of reviews[^c-32fb655e3b0e153bbe58067efb1130d3][^c-cf9ed51dc532f9ddd1ac0b7dbaa23076]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ has been carried out.
 
 ## Annotations
 
-[^key-32fb655e3b0e153bbe58067efb1130d3]: Commencement: S. 15 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-32fb655e3b0e153bbe58067efb1130d3]: Commencement: S. 15 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-cf9ed51dc532f9ddd1ac0b7dbaa23076]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/41/section/15) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/k) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-cf9ed51dc532f9ddd1ac0b7dbaa23076]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2023/41/section/15) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/k) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256. Appointment of inspectors and surveyors.[^key-1603ec64168eee06c12f44a1a1fd882a][^key-40e17ece69db4ee106394ec15ad0b53d][^key-bc72b051afa7c2e0ae494afa79fed4de][^key-26726f6202b716065d69dc2bcbc96135]
+## 256. Appointment of inspectors and surveyors.[^c-1603ec64168eee06c12f44a1a1fd882a][^c-40e17ece69db4ee106394ec15ad0b53d][^c-bc72b051afa7c2e0ae494afa79fed4de][^c-26726f6202b716065d69dc2bcbc96135]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,13 +51,13 @@ and the reference to requirements, restrictions or prohibitions under this Act i
 
 ## Annotations
 
-[^key-1603ec64168eee06c12f44a1a1fd882a]: Modification: S. 256 applied (with modifications) (E.W.S.) (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [regs. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [36(10)](https://www.legislation.gov.uk/uksi/2015/398/regulation/36/10) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-1603ec64168eee06c12f44a1a1fd882a]: Modification: S. 256 applied (with modifications) (E.W.S.) (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [regs. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [36(10)](https://www.legislation.gov.uk/uksi/2015/398/regulation/36/10) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-40e17ece69db4ee106394ec15ad0b53d]: Modification: S. 256 applied (with modifications) (E.W.S.) (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [regs. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [36(4)(a)](https://www.legislation.gov.uk/uksi/2015/398/regulation/36/4/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
+[^c-40e17ece69db4ee106394ec15ad0b53d]: Modification: S. 256 applied (with modifications) (E.W.S.) (19.7.2015) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015 (S.I. 2015/398)](https://www.legislation.gov.uk/uksi/2015/398), [regs. 1](https://www.legislation.gov.uk/uksi/2015/398/regulation/1), [36(4)(a)](https://www.legislation.gov.uk/uksi/2015/398/regulation/36/4/a) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2015/398/regulation/4/2), [Sch. 14](https://www.legislation.gov.uk/uksi/2015/398/schedule/14))
 
-[^key-bc72b051afa7c2e0ae494afa79fed4de]: Modification: S. 256 applied (with modifications) (N.I.) (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [regs. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [36(4)(a)](https://www.legislation.gov.uk/nisr/2016/406/regulation/36/4/a) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
+[^c-bc72b051afa7c2e0ae494afa79fed4de]: Modification: S. 256 applied (with modifications) (N.I.) (19.12.2016) by [The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations (Northern Ireland) 2016 (S.R. 2016/406)](https://www.legislation.gov.uk/nisr/2016/406), [regs. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1), [36(4)(a)](https://www.legislation.gov.uk/nisr/2016/406/regulation/36/4/a) (with [reg. 4(2)](https://www.legislation.gov.uk/nisr/2016/406/regulation/4/2), [Sch. 15](https://www.legislation.gov.uk/nisr/2016/406/schedule/15))
 
-[^key-26726f6202b716065d69dc2bcbc96135]: Modification: S. 256 applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [12](https://www.legislation.gov.uk/uksi/2023/35/article/12)
+[^c-26726f6202b716065d69dc2bcbc96135]: Modification: S. 256 applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [12](https://www.legislation.gov.uk/uksi/2023/35/article/12)
 
 [^c14528171]: Modification: S. 256(1) extended (1.1.1996) by [1995 c. 22](https://www.legislation.gov.uk/ukpga/1995/22), [ss. 5(6)](https://www.legislation.gov.uk/ukpga/1995/22/section/5/6), [9(4)](https://www.legislation.gov.uk/ukpga/1995/22/section/9/4)
 

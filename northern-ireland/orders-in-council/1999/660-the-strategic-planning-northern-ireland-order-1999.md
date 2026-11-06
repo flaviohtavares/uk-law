@@ -42,7 +42,7 @@ The Strategic Planning (Northern Ireland) Order 1999
 
 (2) In this Order “the Department” means the Department for Regional Development.
 
-(3) This Order shall be construed as one with the Planning Act (Northern Ireland) 2011[^key-8a1731215ad9b8d51e1acc7de5fe02f1]
+(3) This Order shall be construed as one with the Planning Act (Northern Ireland) 2011[^c-8a1731215ad9b8d51e1acc7de5fe02f1]
 
 ## 3. Regional development strategy
 
@@ -107,6 +107,6 @@ Schedule—Amendments
 
 [^m00002]: Marginal citation: 1954 c. 33 (N.I.).
 
-[^key-8a1731215ad9b8d51e1acc7de5fe02f1]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisi/1999/660/article/2/3) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 90](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/90) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
+[^c-8a1731215ad9b8d51e1acc7de5fe02f1]: Textual amendment: Words in [art. 2(3)](https://www.legislation.gov.uk/nisi/1999/660/article/2/3) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern-Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 90](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/90) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2))
 
 [^m00004]: Marginal citation: 1954 c. 33 (N.I.).

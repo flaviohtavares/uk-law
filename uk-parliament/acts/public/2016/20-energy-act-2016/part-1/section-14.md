@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. The licensing levy: regulations[^key-d167765c49966a557d68ede711f8c0ca]
+## 14. The licensing levy: regulations[^c-d167765c49966a557d68ede711f8c0ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d167765c49966a557d68ede711f8c0ca]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2016/20/section/14) in force at 12.7.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/f) (as substituted by S.I. 2016/710, reg. 2)
+[^c-d167765c49966a557d68ede711f8c0ca]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2016/20/section/14) in force at 12.7.2016 by [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/f) (as substituted by S.I. 2016/710, reg. 2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74J. Temporary registration with regard to emergencies involving loss of human life or human illness etc.[^key-2dd7ea2ea1f70633852975d97935774e]
+## 74J. Temporary registration with regard to emergencies involving loss of human life or human illness etc.[^c-2dd7ea2ea1f70633852975d97935774e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ with regard to the emergency.
 
 (3) The registrar may enter in Part 3 of the register by virtue of subsection (2)(b) all of the premises in a specified group of premises without first identifying each set of premises in the group.
 
-(4) The registrar may make the entry of premises entered in Part 3 of the register under this section subject to such conditions as the registrar considers necessary to impose for the purpose of securing the safe and effective practice of pharmacy in the course of the business carried on at or from[^key-b8b9aed8a58063bae4e678e9269e6484] those premises.
+(4) The registrar may make the entry of premises entered in Part 3 of the register under this section subject to such conditions as the registrar considers necessary to impose for the purpose of securing the safe and effective practice of pharmacy in the course of the business carried on at or from[^c-b8b9aed8a58063bae4e678e9269e6484] those premises.
 
 (5) The power in subsection (4)—
 
@@ -47,7 +47,7 @@ with regard to the emergency.
 - (a) impose a new condition in respect of the entry of premises already entered in Part 3 of the register; or
 - (b) vary or revoke any conditions to which the entry of premises entered in Part 3 of the register is subject,
 
-unless the registrar has given reasonable notice in writing of the condition to be imposed or, as the case may be, of the variation or revocation of an existing condition, to the person carrying on a retail pharmacy business at or from[^key-4140b995a7d107b22e242081b0d68d8e] the premises and of the date from which that condition, variation or revocation is to have effect.
+unless the registrar has given reasonable notice in writing of the condition to be imposed or, as the case may be, of the variation or revocation of an existing condition, to the person carrying on a retail pharmacy business at or from[^c-4140b995a7d107b22e242081b0d68d8e] the premises and of the date from which that condition, variation or revocation is to have effect.
 
 (9) The entry of premises entered in Part 3 of the register under this section may be removed by the registrar, which—
 
@@ -60,8 +60,8 @@ unless the registrar has given reasonable notice in writing of the condition to 
 
 ## Annotations
 
-[^key-2dd7ea2ea1f70633852975d97935774e]: Textual amendment: Ss. 74A-74L inserted (10.2.2010 for specified purposes, 27.9.2010 in so far as not already in force) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3), [Sch. 4 para. 1(8)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/8) (with [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2010/231/schedule/5/paragraph/10)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-2dd7ea2ea1f70633852975d97935774e]: Textual amendment: Ss. 74A-74L inserted (10.2.2010 for specified purposes, 27.9.2010 in so far as not already in force) by [The Pharmacy Order 2010 (S.I. 2010/231)](https://www.legislation.gov.uk/uksi/2010/231), [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3), [Sch. 4 para. 1(8)](https://www.legislation.gov.uk/uksi/2010/231/schedule/4/paragraph/1/8) (with [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2010/231/schedule/5/paragraph/10)); [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
 
-[^key-b8b9aed8a58063bae4e678e9269e6484]: Textual amendment: Words in [s. 74J(4)](https://www.legislation.gov.uk/ukpga/1968/67/section/74J/4) substituted (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/16/a); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+[^c-b8b9aed8a58063bae4e678e9269e6484]: Textual amendment: Words in [s. 74J(4)](https://www.legislation.gov.uk/ukpga/1968/67/section/74J/4) substituted (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/16/a); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
 
-[^key-4140b995a7d107b22e242081b0d68d8e]: Textual amendment: Words in [s. 74J(8)](https://www.legislation.gov.uk/ukpga/1968/67/section/74J/8) inserted (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 2 para. 16(b)](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/16/b); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+[^c-4140b995a7d107b22e242081b0d68d8e]: Textual amendment: Words in [s. 74J(8)](https://www.legislation.gov.uk/ukpga/1968/67/section/74J/8) inserted (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 2 para. 16(b)](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/16/b); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)

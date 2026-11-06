@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Amendment of Social Work (Scotland) Act 1968: direct payments to children for care services[^key-2e6e2afd18d7af017608d169a3169ac6]
+## 70. Amendment of Social Work (Scotland) Act 1968: direct payments to children for care services[^c-2e6e2afd18d7af017608d169a3169ac6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e6e2afd18d7af017608d169a3169ac6]: Textual amendment: [S. 70](https://www.legislation.gov.uk/asp/2001/8/section/70) repealed (1.4.2014) by [The Social Care (Self-directed Support) (Scotland) Act 2013 (Consequential and Saving Provisions) Order 2014 (S.S.I. 2014/90)](https://www.legislation.gov.uk/ssi/2014/90), [art. 1](https://www.legislation.gov.uk/ssi/2014/90/article/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/90/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/90/article/3))
+[^c-2e6e2afd18d7af017608d169a3169ac6]: Textual amendment: [S. 70](https://www.legislation.gov.uk/asp/2001/8/section/70) repealed (1.4.2014) by [The Social Care (Self-directed Support) (Scotland) Act 2013 (Consequential and Saving Provisions) Order 2014 (S.S.I. 2014/90)](https://www.legislation.gov.uk/ssi/2014/90), [art. 1](https://www.legislation.gov.uk/ssi/2014/90/article/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/90/schedule/part/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/90/article/3))

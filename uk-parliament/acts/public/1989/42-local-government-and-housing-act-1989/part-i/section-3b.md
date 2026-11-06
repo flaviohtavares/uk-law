@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3B. General advice as to politically restricted posts: England[^key-2f4d4572f4dc100769bef85f2066b4c2][^key-5f6f1cce943f89380cd502934432040e]
+## 3B. General advice as to politically restricted posts: England[^c-2f4d4572f4dc100769bef85f2066b4c2][^c-5f6f1cce943f89380cd502934432040e]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2f4d4572f4dc100769bef85f2066b4c2]: Textual amendment: Ss. 3A, 3B inserted (E.W.) (31.1.2008 for specified purposes, 1.4.2008 so far as not already in force) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 202(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/202/2), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 9(2)](https://www.legislation.gov.uk/uksi/2008/172/article/9/2); S.I. 2008/172, art. 9(3)
+[^c-2f4d4572f4dc100769bef85f2066b4c2]: Textual amendment: Ss. 3A, 3B inserted (E.W.) (31.1.2008 for specified purposes, 1.4.2008 so far as not already in force) by [Local Government and Public Involvement in Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 202(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/202/2), [245(5)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/5); [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 9(2)](https://www.legislation.gov.uk/uksi/2008/172/article/9/2); S.I. 2008/172, art. 9(3)
 
-[^key-5f6f1cce943f89380cd502934432040e]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1989/42/part/I) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/5/4)
+[^c-5f6f1cce943f89380cd502934432040e]: Modification: [Pt. I](https://www.legislation.gov.uk/ukpga/1989/42/part/I) modified (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [5(4)](https://www.legislation.gov.uk/uksi/2023/1432/article/5/4)

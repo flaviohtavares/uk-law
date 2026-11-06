@@ -35,48 +35,48 @@ on the harmonisation of gross national income at market prices and repealing Cou
 
 (Text with EEA relevance) (revoked)
 
-[^key-9d759a1aab19c5f9b51c31321912bee8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d759a1aab19c5f9b51c31321912bee8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — DEFINITION AND CALCULATION OF GROSS NATIONAL INCOME AT MARKET PRICES[^key-9d759a1aab19c5f9b51c31321912bee8]
+## CHAPTER I — DEFINITION AND CALCULATION OF GROSS NATIONAL INCOME AT MARKET PRICES[^c-9d759a1aab19c5f9b51c31321912bee8]
 
-**Article 1.**[^key-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — TRANSMISSION OF GNI DATA AND ADDITIONAL INFORMATION[^key-9d759a1aab19c5f9b51c31321912bee8]
+## CHAPTER II — TRANSMISSION OF GNI DATA AND ADDITIONAL INFORMATION[^c-9d759a1aab19c5f9b51c31321912bee8]
 
-**Article 2.**[^key-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — PROCEDURES AND CHECKS ON THE CALCULATION OF GNI[^key-9d759a1aab19c5f9b51c31321912bee8]
+## CHAPTER III — PROCEDURES AND CHECKS ON THE CALCULATION OF GNI[^c-9d759a1aab19c5f9b51c31321912bee8]
 
-**Article 4.**[^key-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — FINAL PROVISIONS[^key-9d759a1aab19c5f9b51c31321912bee8]
+## CHAPTER IV — FINAL PROVISIONS[^c-9d759a1aab19c5f9b51c31321912bee8]
 
-**Article 9.**[^key-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-9d759a1aab19c5f9b51c31321912bee8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9d759a1aab19c5f9b51c31321912bee8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9d759a1aab19c5f9b51c31321912bee8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Correlation tables[^key-9d759a1aab19c5f9b51c31321912bee8]
+## ANNEX — Correlation tables[^c-9d759a1aab19c5f9b51c31321912bee8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9d759a1aab19c5f9b51c31321912bee8]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 106](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/106)
+[^c-9d759a1aab19c5f9b51c31321912bee8]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 106](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/106)

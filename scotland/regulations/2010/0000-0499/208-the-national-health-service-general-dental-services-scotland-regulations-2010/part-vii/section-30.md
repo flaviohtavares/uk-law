@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 30. Publication of particulars[^key-798672caf2d62d230a1038180713464e]
+## 30. Publication of particulars[^c-798672caf2d62d230a1038180713464e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Copies of the dental list, the local directory of dentists (as defined in regula
 
 ## Annotations
 
-[^key-798672caf2d62d230a1038180713464e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2010/208/regulation/30) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)
+[^c-798672caf2d62d230a1038180713464e]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2010/208/regulation/30) in force at 2.7.2010, see [reg. 1](https://www.legislation.gov.uk/ssi/2010/208/regulation/1)

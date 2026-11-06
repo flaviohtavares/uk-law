@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2018-04-11.
 
-## 98. Supply of benefit administration information between authorities[^key-fb97eadcb9f504336d014c1ed1fb73aa]
+## 98. Supply of benefit administration information between authorities[^c-fb97eadcb9f504336d014c1ed1fb73aa]
 
 (1) For the purpose of section 122E(3) of the Administration Act (supply of information between authorities administering benefit) the circumstances in which information is to be supplied and the information to be supplied are set out in paragraph (2).
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb97eadcb9f504336d014c1ed1fb73aa]: Textual amendment: Heading and reg. 98 inserted (1.10.2008) by [The Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [4(9)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/4/9)
+[^c-fb97eadcb9f504336d014c1ed1fb73aa]: Textual amendment: Heading and reg. 98 inserted (1.10.2008) by [The Housing Benefit and Council Tax Benefit (Amendment) Regulations 2008 (S.I. 2008/2299)](https://www.legislation.gov.uk/uksi/2008/2299), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2299/regulation/1), [4(9)](https://www.legislation.gov.uk/uksi/2008/2299/regulation/4/9)

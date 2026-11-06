@@ -32,7 +32,7 @@ summary: ''
 
 United Nations
 
-The Terrorism (United Nations Measures) Order 2009 (revoked)[^key-adad57740ed0232055d2f13cda04651d]
+The Terrorism (United Nations Measures) Order 2009 (revoked)[^c-adad57740ed0232055d2f13cda04651d]
 
 Made
 
@@ -52,162 +52,162 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-adad57740ed0232055d2f13cda04651d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-adad57740ed0232055d2f13cda04651d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Preliminary and general[^key-adad57740ed0232055d2f13cda04651d]
+## PART 1 — Preliminary and general[^c-adad57740ed0232055d2f13cda04651d]
 
-### 1. Citation, commencement and application[^key-adad57740ed0232055d2f13cda04651d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-adad57740ed0232055d2f13cda04651d]
+### 1. Citation, commencement and application[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Designated persons and directions[^key-adad57740ed0232055d2f13cda04651d]
-
-### 3. Designated persons[^key-adad57740ed0232055d2f13cda04651d]
+### 2. Interpretation[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Treasury’s power to designate persons[^key-adad57740ed0232055d2f13cda04651d]
+## PART 2 — Designated persons and directions[^c-adad57740ed0232055d2f13cda04651d]
+
+### 3. Designated persons[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Duration of directions[^key-adad57740ed0232055d2f13cda04651d]
+### 4. Treasury’s power to designate persons[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Directions: notification of a direction[^key-adad57740ed0232055d2f13cda04651d]
+### 5. Duration of directions[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Directions: variation, revocation or expiry of direction[^key-adad57740ed0232055d2f13cda04651d]
+### 6. Directions: notification of a direction[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Confidential information[^key-adad57740ed0232055d2f13cda04651d]
+### 7. Directions: variation, revocation or expiry of direction[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Prohibitions and licences[^key-adad57740ed0232055d2f13cda04651d]
-
-### 9. Application of prohibitions[^key-adad57740ed0232055d2f13cda04651d]
+### 8. Confidential information[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Freezing funds and economic resources of a restricted person[^key-adad57740ed0232055d2f13cda04651d]
+## PART 3 — Prohibitions and licences[^c-adad57740ed0232055d2f13cda04651d]
+
+### 9. Application of prohibitions[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Making funds or financial services available to a restricted person[^key-adad57740ed0232055d2f13cda04651d]
+### 10. Freezing funds and economic resources of a restricted person[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Making funds or financial services available for the benefit of a restricted person[^key-adad57740ed0232055d2f13cda04651d]
+### 11. Making funds or financial services available to a restricted person[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Making economic resources available to a restricted person[^key-adad57740ed0232055d2f13cda04651d]
+### 12. Making funds or financial services available for the benefit of a restricted person[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Making economic resources available for the benefit of a restricted person[^key-adad57740ed0232055d2f13cda04651d]
+### 13. Making economic resources available to a restricted person[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Exceptions[^key-adad57740ed0232055d2f13cda04651d]
+### 14. Making economic resources available for the benefit of a restricted person[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Circumventing prohibitions etc.[^key-adad57740ed0232055d2f13cda04651d]
+### 15. Exceptions[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Licences[^key-adad57740ed0232055d2f13cda04651d]
+### 16. Circumventing prohibitions etc.[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Information provisions[^key-adad57740ed0232055d2f13cda04651d]
-
-### 18. Information from relevant institutions[^key-adad57740ed0232055d2f13cda04651d]
+### 17. Licences[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Information gathering and information disclosure[^key-adad57740ed0232055d2f13cda04651d]
+## PART 4 — Information provisions[^c-adad57740ed0232055d2f13cda04651d]
+
+### 18. Information from relevant institutions[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Miscellaneous[^key-adad57740ed0232055d2f13cda04651d]
-
-### 20. Officers of a body corporate etc.[^key-adad57740ed0232055d2f13cda04651d]
+### 19. Information gathering and information disclosure[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Penalties[^key-adad57740ed0232055d2f13cda04651d]
+## PART 5 — Miscellaneous[^c-adad57740ed0232055d2f13cda04651d]
+
+### 20. Officers of a body corporate etc.[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Proceedings[^key-adad57740ed0232055d2f13cda04651d]
+### 21. Penalties[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Notices[^key-adad57740ed0232055d2f13cda04651d]
+### 22. Proceedings[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Postponement etc. of the operation of the Security Council Resolutions[^key-adad57740ed0232055d2f13cda04651d]
+### 23. Notices[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. The Crown[^key-adad57740ed0232055d2f13cda04651d]
+### 24. Postponement etc. of the operation of the Security Council Resolutions[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Transitional, revocation and saving provision[^key-adad57740ed0232055d2f13cda04651d]
+### 25. The Crown[^c-adad57740ed0232055d2f13cda04651d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-adad57740ed0232055d2f13cda04651d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 26. Transitional, revocation and saving provision[^c-adad57740ed0232055d2f13cda04651d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-adad57740ed0232055d2f13cda04651d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-adad57740ed0232055d2f13cda04651d]
+## SCHEDULE[^c-adad57740ed0232055d2f13cda04651d]
 
 Article 19
 
-### PART 1 — Information Gathering[^key-adad57740ed0232055d2f13cda04651d]
+### PART 1 — Information Gathering[^c-adad57740ed0232055d2f13cda04651d]
 
-**1.**[^key-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Information Disclosure[^key-adad57740ed0232055d2f13cda04651d]
+### PART 2 — Information Disclosure[^c-adad57740ed0232055d2f13cda04651d]
 
-**8.**[^key-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — General provisions[^key-adad57740ed0232055d2f13cda04651d]
+### PART 3 — General provisions[^c-adad57740ed0232055d2f13cda04651d]
 
-**10.**[^key-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-adad57740ed0232055d2f13cda04651d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-adad57740ed0232055d2f13cda04651d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-adad57740ed0232055d2f13cda04651d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-adad57740ed0232055d2f13cda04651d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1747) revoked (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/1)
+[^c-adad57740ed0232055d2f13cda04651d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1747) revoked (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/1)

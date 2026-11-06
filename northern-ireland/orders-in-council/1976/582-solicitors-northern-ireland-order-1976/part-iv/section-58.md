@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 58. Provisions as to grants in case of loss or hardship[^key-238c50acfbd3272fc8cd3ad8427573b7]
+## 58. Provisions as to grants in case of loss or hardship[^c-238c50acfbd3272fc8cd3ad8427573b7]
 
 *Extent: N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-238c50acfbd3272fc8cd3ad8427573b7]: Modification: [Art. 58](https://www.legislation.gov.uk/nisi/1976/582/article/58) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(ll)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/ll)
+[^c-238c50acfbd3272fc8cd3ad8427573b7]: Modification: [Art. 58](https://www.legislation.gov.uk/nisi/1976/582/article/58) applied (1.4.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations (Northern Ireland) 2025 (S.R. 2025/70)](https://www.legislation.gov.uk/nisr/2025/70), [regs. 1](https://www.legislation.gov.uk/nisr/2025/70/regulation/1), [5(2)(ll)](https://www.legislation.gov.uk/nisr/2025/70/regulation/5/2/ll)
 
 [^c17115101]: Textual amendment: [1989 NI 14](https://www.legislation.gov.uk/1989/ni14)

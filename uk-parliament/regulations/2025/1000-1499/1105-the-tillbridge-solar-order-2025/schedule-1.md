@@ -22,7 +22,7 @@ summary: ''
 
 Article 3
 
-### 1. Interpretation[^key-bad6b78f3553f7b06b3500e3f0f7d835]
+### 1. Interpretation[^c-bad6b78f3553f7b06b3500e3f0f7d835]
 
 In this Schedule—
 
@@ -35,7 +35,7 @@ In this Schedule—
 - “**electrical cables**” means—
   - (a) cables of differing types and voltages installed for the purposes of conducting electricity, auxiliary cables, cables connecting to direct current (DC) boxes, earthing cables and optical fibre cables; and
   - (b) works associated with cable laying including jointing pits, hardstanding adjoining the jointing pits, link boxes, combiner boxes, fibre bays, cable ducts, cable protection, joint protection, manholes, kiosks, marker posts, underground cable marker, tiles and tape, send and receive pits for horizontal directional drilling, trenching, lighting, and a pit or container to capture fluids associated with drilling;
-- “**equipment storage**” means a total area of 1,200m[^key-2307fcf0c09e08df951505c427ff602e] <sup>2</sup> for either—
+- “**equipment storage**” means a total area of 1,200m[^c-2307fcf0c09e08df951505c427ff602e] <sup>2</sup> for either—
   - (a) open storage covered by a canopy for weather protection;
   - (b) the use of storage containers; and/or
   - (c) the provision of parking areas and associated infrastructure;
@@ -52,7 +52,7 @@ In this Schedule—
 - “**switchgear**” means a combination of electrical disconnect switches, fuses or circuit breakers used to control, protect and isolate electrical equipment; and
 - “**transformer**” means a structure containing an electrical device to transform electricity to a different voltage.
 
-### 2. Authorised Development[^key-f041c75948d6fef607e42d4535d86ed1]
+### 2. Authorised Development[^c-f041c75948d6fef607e42d4535d86ed1]
 
 (1) In the Districts of West Lindsey and Bassetlaw and in the Counties of Lincolnshire and Nottinghamshire a nationally significant infrastructure project as defined in sections 14 and 15 of the 2008 Act and associated development under section 115(1)(b) of the 2008 Act.
 
@@ -178,12 +178,12 @@ and associated development within the meaning of section 115(2) of the 2008 Act 
 - (c) habitat creation and management including earthworks and landscaping;
 - (d) construction of drainage infrastructure and means of access;
 - (e) laying down of internal access tracks, means of access and crossing of watercourses; and
-- (f) fencing, gates, boundary[^key-32315d66e48ec51fcd545234334a395c] treatment and other means of enclosure.
+- (f) fencing, gates, boundary[^c-32315d66e48ec51fcd545234334a395c] treatment and other means of enclosure.
 
 **Work No. 10 – works to facilitate access to Work No. 1 to 9 including—**
 
 - (a) **Work No. 10A** – works to facilitate permanent access to Work Nos. 1 to 9 including—
-  - (i) alteration[^key-0598bddb41131310d995ae1dac4bcba8] and improvement of existing road layout;
+  - (i) alteration[^c-0598bddb41131310d995ae1dac4bcba8] and improvement of existing road layout;
   - (ii) creation of visibility splays; and
   - (iii) street works to facilitate the construction of proposed accesses.
 - (b) **Work No. 10B** – works to facilitate temporary construction and decommissioning access to Work Nos. 1 to 9 including—
@@ -224,12 +224,12 @@ and further associated development comprising such other works or operations as 
 
 ## Annotations
 
-[^key-bad6b78f3553f7b06b3500e3f0f7d835]: Commencement: Sch. 1 para. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-bad6b78f3553f7b06b3500e3f0f7d835]: Commencement: Sch. 1 para. 1 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
-[^key-2307fcf0c09e08df951505c427ff602e]: Textual amendment: Words in Sch. 1 para. 1 substituted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
+[^c-2307fcf0c09e08df951505c427ff602e]: Textual amendment: Words in Sch. 1 para. 1 substituted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
 
-[^key-f041c75948d6fef607e42d4535d86ed1]: Commencement: Sch. 1 para. 2 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
+[^c-f041c75948d6fef607e42d4535d86ed1]: Commencement: Sch. 1 para. 2 in force at 5.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1105/article/1)
 
-[^key-32315d66e48ec51fcd545234334a395c]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
+[^c-32315d66e48ec51fcd545234334a395c]: Textual amendment: Words in Sch. 1 para. 2(2) substituted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
 
-[^key-0598bddb41131310d995ae1dac4bcba8]: Textual amendment: Word in Sch. 1 para. 2(2) substituted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)
+[^c-0598bddb41131310d995ae1dac4bcba8]: Textual amendment: Word in Sch. 1 para. 2(2) substituted (30.4.2026) by [The Tillbridge Solar (Correction) Order 2026 (S.I. 2026/487)](https://www.legislation.gov.uk/uksi/2026/487), [art. 1](https://www.legislation.gov.uk/uksi/2026/487/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/487/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Recognition by the HRA[^key-49066373dd49c70b78aad9bc5b61272e]
+## 114. Recognition by the HRA[^c-49066373dd49c70b78aad9bc5b61272e]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-49066373dd49c70b78aad9bc5b61272e]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2014/23/section/114) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(f)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/f)
+[^c-49066373dd49c70b78aad9bc5b61272e]: Commencement: [S. 114](https://www.legislation.gov.uk/ukpga/2014/23/section/114) in force at 1.1.2015 by [S.I. 2014/2473](https://www.legislation.gov.uk/uksi/2014/2473), [art. 5(f)](https://www.legislation.gov.uk/uksi/2014/2473/article/5/f)

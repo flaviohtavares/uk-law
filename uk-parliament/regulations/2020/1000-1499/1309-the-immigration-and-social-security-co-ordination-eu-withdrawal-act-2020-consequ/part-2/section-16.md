@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Amendment of the Civil Partnership Act 2004[^key-6fd92b9e8e968dfc962a4b0033a9fb50]
+## 16. Amendment of the Civil Partnership Act 2004[^c-6fd92b9e8e968dfc962a4b0033a9fb50]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,7 +76,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6fd92b9e8e968dfc962a4b0033a9fb50]: Commencement: Reg. 16 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-6fd92b9e8e968dfc962a4b0033a9fb50]: Commencement: Reg. 16 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24398611]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33).
 

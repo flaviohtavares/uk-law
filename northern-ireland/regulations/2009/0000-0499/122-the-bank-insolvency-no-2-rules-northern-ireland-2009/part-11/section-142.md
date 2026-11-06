@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 142. General powers of the liquidator[^key-d2847924c57d2181423b0fa84e65e4fd]
+## 142. General powers of the liquidator[^c-d2847924c57d2181423b0fa84e65e4fd]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2847924c57d2181423b0fa84e65e4fd]: Commencement: Rule 142 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-d2847924c57d2181423b0fa84e65e4fd]: Commencement: Rule 142 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

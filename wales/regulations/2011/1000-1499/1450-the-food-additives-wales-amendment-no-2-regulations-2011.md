@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Food Additives (Wales) (Amendment) (No. 2) Regulations 2011 (revoked)[^key-d132590cd0c60a2cc5ec173287ab7e29]
+The Food Additives (Wales) (Amendment) (No. 2) Regulations 2011 (revoked)[^c-d132590cd0c60a2cc5ec173287ab7e29]
 
 Made
 
@@ -43,28 +43,28 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with regulation 3
 
-[^key-d132590cd0c60a2cc5ec173287ab7e29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d132590cd0c60a2cc5ec173287ab7e29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title[^key-d132590cd0c60a2cc5ec173287ab7e29]
+## 1. Title[^c-d132590cd0c60a2cc5ec173287ab7e29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Food Additives (Wales) Regulations 2009[^key-d132590cd0c60a2cc5ec173287ab7e29]
+## 2. Amendment of the Food Additives (Wales) Regulations 2009[^c-d132590cd0c60a2cc5ec173287ab7e29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Commencement[^key-d132590cd0c60a2cc5ec173287ab7e29]
+## 3. Commencement[^c-d132590cd0c60a2cc5ec173287ab7e29]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d132590cd0c60a2cc5ec173287ab7e29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d132590cd0c60a2cc5ec173287ab7e29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d132590cd0c60a2cc5ec173287ab7e29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d132590cd0c60a2cc5ec173287ab7e29]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d132590cd0c60a2cc5ec173287ab7e29]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013 (S.I. 2013/2591)](https://www.legislation.gov.uk/wsi/2013/2591), [reg. 1](https://www.legislation.gov.uk/wsi/2013/2591/regulation/1), [Sch. 5](https://www.legislation.gov.uk/wsi/2013/2591/schedule/5)
+[^c-d132590cd0c60a2cc5ec173287ab7e29]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Wales) Regulations 2013 (S.I. 2013/2591)](https://www.legislation.gov.uk/wsi/2013/2591), [reg. 1](https://www.legislation.gov.uk/wsi/2013/2591/regulation/1), [Sch. 5](https://www.legislation.gov.uk/wsi/2013/2591/schedule/5)

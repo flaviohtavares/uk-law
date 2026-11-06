@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Proceedings before order made final: protection for respondent ...[^key-8e73062316ddcc32c411e6c53479381b]
+## 48. Proceedings before order made final: protection for respondent ...[^c-8e73062316ddcc32c411e6c53479381b]
 
 *Extent: E+W*
 
-(1)[^key-4e491ba31bd5c93ac5ae66d0f8ae3b8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4e491ba31bd5c93ac5ae66d0f8ae3b8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-e09b94385cab874fcb921a26ec97d936] Subsections (3) to (5) apply if—
+(2)[^c-e09b94385cab874fcb921a26ec97d936] Subsections (3) to (5) apply if—
 
 - (a) on an application for a dissolution order a conditional order has been made and—
   - (i) the conditional order is in favour of one civil partner only, or
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8e73062316ddcc32c411e6c53479381b]: Textual amendment: Words in s. 48 heading omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 41(a)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/41/a) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-8e73062316ddcc32c411e6c53479381b]: Textual amendment: Words in s. 48 heading omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 41(a)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/41/a) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-4e491ba31bd5c93ac5ae66d0f8ae3b8e]: Textual amendment: [S. 48(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/48/1) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 41(b)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/41/b) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-4e491ba31bd5c93ac5ae66d0f8ae3b8e]: Textual amendment: [S. 48(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/48/1) omitted (6.4.2022) by virtue of [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 41(b)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/41/b) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
 
-[^key-e09b94385cab874fcb921a26ec97d936]: Textual amendment: [S. 48(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/48/2) substituted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 41(c)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/41/c) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)
+[^c-e09b94385cab874fcb921a26ec97d936]: Textual amendment: [S. 48(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/48/2) substituted (6.4.2022) by [Divorce, Dissolution and Separation Act 2020 (c. 11)](https://www.legislation.gov.uk/ukpga/2020/11), [s. 8(1)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/1)[(8)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/8), [Sch. para. 41(c)](https://www.legislation.gov.uk/ukpga/2020/11/schedule/paragraph/41/c) (with [s. 8(7)](https://www.legislation.gov.uk/ukpga/2020/11/section/8/7)); [S.I. 2022/283](https://www.legislation.gov.uk/uksi/2022/283), [reg. 2](https://www.legislation.gov.uk/uksi/2022/283/regulation/2)

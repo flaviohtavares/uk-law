@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Duty to dismiss ordinary administration application[^key-2f06d0c02484bb7962b074f63d95236d]
+## 22. Duty to dismiss ordinary administration application[^c-2f06d0c02484bb7962b074f63d95236d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f06d0c02484bb7962b074f63d95236d]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/19/section/22) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-2f06d0c02484bb7962b074f63d95236d]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2017/19/section/22) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

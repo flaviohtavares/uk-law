@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 283. Income payments orders[^key-ce2e6e3b80c80aa8284a7ddaa6887f24]
+## 283. Income payments orders[^c-ce2e6e3b80c80aa8284a7ddaa6887f24]
 
 *Extent: N.I.*
 
@@ -51,14 +51,14 @@ summary: ''
 
 (8) This paragraph applies to—
 
-- (a) payments by way of guaranteed minimum pension; [^key-15707778f2112e9554d009bf44360533] ...
-- (b)[^key-fda57de5d2f1bb1ab4acff6cfcf39215] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) payments by way of guaranteed minimum pension; [^c-15707778f2112e9554d009bf44360533] ...
+- (b)[^c-fda57de5d2f1bb1ab4acff6cfcf39215] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9) In this Article, “guaranteed minimum pension” has[^key-3b490224a1f28b2a060b562148b0336b] the same meaning as in the Pension Schemes (Northern Ireland) Act 1993.
+(9) In this Article, “guaranteed minimum pension” has[^c-3b490224a1f28b2a060b562148b0336b] the same meaning as in the Pension Schemes (Northern Ireland) Act 1993.
 
 ## Annotations
 
-[^key-ce2e6e3b80c80aa8284a7ddaa6887f24]: Modification: [Art. 283](https://www.legislation.gov.uk/nisi/1989/2405/article/283) excluded (with application in accordance with reg. 1 of the amending S.I.) by [The Education (Postgraduate Master's Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [97(2)(a)](https://www.legislation.gov.uk/uksi/2016/606/regulation/97/2/a)
+[^c-ce2e6e3b80c80aa8284a7ddaa6887f24]: Modification: [Art. 283](https://www.legislation.gov.uk/nisi/1989/2405/article/283) excluded (with application in accordance with reg. 1 of the amending S.I.) by [The Education (Postgraduate Master's Degree Loans) Regulations 2016 (S.I. 2016/606)](https://www.legislation.gov.uk/uksi/2016/606), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/606/regulation/1/1), [97(2)(a)](https://www.legislation.gov.uk/uksi/2016/606/regulation/97/2/a)
 
 [^c20144571]: Textual amendment: Words in art. 283(1) repealed (27.3.2006) by [Insolvency (Northern Ireland) Order 2005 (S.I. 2005/1455 (N.I. 10))](https://www.legislation.gov.uk/nisi/2005/1455), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2005/1455/article/1/3), [15(2)](https://www.legislation.gov.uk/nisi/2005/1455/article/15/2), [31](https://www.legislation.gov.uk/nisi/2005/1455/article/31), [Sch. 9](https://www.legislation.gov.uk/nisi/2005/1455/schedule/9) (with [art. 4](https://www.legislation.gov.uk/nisi/2005/1455/article/4)); [S.R. 2006/21](https://www.legislation.gov.uk/nisr/2006/21), [art. 2](https://www.legislation.gov.uk/nisr/2006/21/article/2) (with [S.R. 2006/22](https://www.legislation.gov.uk/nisr/2006/22), [arts. 2](https://www.legislation.gov.uk/nisr/2006/22/article/2) - 7)
 
@@ -72,8 +72,8 @@ summary: ''
 
 [^c17601391]: Textual amendment: [1999 NI 11](https://www.legislation.gov.uk/nisi/1999)
 
-[^key-15707778f2112e9554d009bf44360533]: Textual amendment: Word in art. 283(8)(a) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [2(a)](https://www.legislation.gov.uk/nisr/2012/124/article/2/a)
+[^c-15707778f2112e9554d009bf44360533]: Textual amendment: Word in art. 283(8)(a) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [2(a)](https://www.legislation.gov.uk/nisr/2012/124/article/2/a)
 
-[^key-fda57de5d2f1bb1ab4acff6cfcf39215]: Textual amendment: Art. 283(8)(b) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [2(b)](https://www.legislation.gov.uk/nisr/2012/124/article/2/b)
+[^c-fda57de5d2f1bb1ab4acff6cfcf39215]: Textual amendment: Art. 283(8)(b) omitted (6.4.2012) by virtue of [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [2(b)](https://www.legislation.gov.uk/nisr/2012/124/article/2/b)
 
-[^key-3b490224a1f28b2a060b562148b0336b]: Textual amendment: Word in [art. 283(9)](https://www.legislation.gov.uk/nisi/1989/2405/article/283/9) substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [2(c)](https://www.legislation.gov.uk/nisr/2012/124/article/2/c)
+[^c-3b490224a1f28b2a060b562148b0336b]: Textual amendment: Word in [art. 283(9)](https://www.legislation.gov.uk/nisi/1989/2405/article/283/9) substituted (6.4.2012) by [The Pensions (2008 No. 2 Act) (Abolition of Protected Rights) (Consequential Provisions) Order (Northern Ireland) 2012 (S.R. 2012/124)](https://www.legislation.gov.uk/nisr/2012/124), [arts. 1(b)](https://www.legislation.gov.uk/nisr/2012/124/article/1/b), [2(c)](https://www.legislation.gov.uk/nisr/2012/124/article/2/c)

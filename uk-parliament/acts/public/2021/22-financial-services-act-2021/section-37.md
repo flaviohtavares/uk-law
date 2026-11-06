@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Regulated activities and application of Consumer Credit Act 1974[^key-7a0d937102e22b180c7ec84e51b8d75c]
+## 37. Regulated activities and application of Consumer Credit Act 1974[^c-7a0d937102e22b180c7ec84e51b8d75c]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ so far as the activity is not a transferred activity (as defined in section 107(
 
 ## Annotations
 
-[^key-7a0d937102e22b180c7ec84e51b8d75c]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2021/22/section/37) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/s)
+[^c-7a0d937102e22b180c7ec84e51b8d75c]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2021/22/section/37) in force at 1.7.2021 by [S.I. 2021/739](https://www.legislation.gov.uk/uksi/2021/739), [reg. 3(s)](https://www.legislation.gov.uk/uksi/2021/739/regulation/3/s)

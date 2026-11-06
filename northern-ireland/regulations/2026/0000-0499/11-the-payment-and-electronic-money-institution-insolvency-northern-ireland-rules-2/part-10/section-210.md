@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 210. Notice of an order under Article 150A(5)[^key-58f5703312202bbf2f0e51b8fe75c896]
+## 210. Notice of an order under Article 150A(5)[^c-58f5703312202bbf2f0e51b8fe75c896]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58f5703312202bbf2f0e51b8fe75c896]: Commencement: [Rule 210](https://www.legislation.gov.uk/nisr/2026/11/rule/210) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-58f5703312202bbf2f0e51b8fe75c896]: Commencement: [Rule 210](https://www.legislation.gov.uk/nisr/2026/11/rule/210) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

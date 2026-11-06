@@ -39,7 +39,7 @@ summary: ''
 - (a) is a person carrying on a business which consists of or includes the management of trusts; and
 - (b) is to hold the estate or interest as trustee acting in the course of that business.
 
-(7) Case 6 is where (in a case not falling within subsection (3) above) A is to hold the estate or interest as trustee and, apart from section 1122(6) of the Corporation Tax Act 2010[^key-a59ad4d680d440ce35a4d91c4ea432f7] (trustees as connected persons), would not be connected with B.
+(7) Case 6 is where (in a case not falling within subsection (3) above) A is to hold the estate or interest as trustee and, apart from section 1122(6) of the Corporation Tax Act 2010[^c-a59ad4d680d440ce35a4d91c4ea432f7] (trustees as connected persons), would not be connected with B.
 
 (8) Case 7 is where—
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a59ad4d680d440ce35a4d91c4ea432f7]: Textual amendment: Words in [s. 120(7)](https://www.legislation.gov.uk/ukpga/2000/17/section/120/7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 312](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/312) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-a59ad4d680d440ce35a4d91c4ea432f7]: Textual amendment: Words in [s. 120(7)](https://www.legislation.gov.uk/ukpga/2000/17/section/120/7) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 312](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/312) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
 [^c14054651]: Marginal citation: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39).

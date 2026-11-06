@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Guidance and interpretation[^key-3cd57aa14f7e2994063a9420ac0bb986]
+## 28. Guidance and interpretation[^c-3cd57aa14f7e2994063a9420ac0bb986]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ After section 16P of the Children Act 2004 (inserted by section 27 of this Act) 
 
 ## Annotations
 
-[^key-3cd57aa14f7e2994063a9420ac0bb986]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/16/section/28) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/q)
+[^c-3cd57aa14f7e2994063a9420ac0bb986]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2017/16/section/28) in force at 29.6.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2018/497/regulation/3/q)

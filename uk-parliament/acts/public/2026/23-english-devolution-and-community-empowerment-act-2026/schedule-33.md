@@ -22,15 +22,15 @@ summary: ''
 
 Section 88
 
-### 1. Introduction[^key-f3439fb1e9c584fe9a900ddc4206cdfa]
+### 1. Introduction[^c-f3439fb1e9c584fe9a900ddc4206cdfa]
 
 The Localism Act 2011 is amended in accordance with this Schedule.
 
-### 2. Amendment of section 1[^key-6cef72c59394feb855bd40f392237338]
+### 2. Amendment of section 1[^c-6cef72c59394feb855bd40f392237338]
 
 In section 1 (local authority’s general power of competence), in subsection (1), after “**CCA**” (inserted by Schedule 6) insert “, or English National Park authority, and the Broads Authority,”.
 
-### 3. Amendment of section 2[^key-e0dcc350ad95d1d53bfa818178a2b4c3]
+### 3. Amendment of section 2[^c-e0dcc350ad95d1d53bfa818178a2b4c3]
 
 (1) Section 2 (boundaries of the general power) is amended as follows.
 
@@ -62,17 +62,17 @@ In section 1 (local authority’s general power of competence), in subsection (1
 >   - (a) is contained in this Act, or in any other Act passed no later than the end of the Session in which the English Devolution and Community Empowerment Act 2026 is passed, or
 >   - (b) is contained in an instrument made under an Act and comes into force before the commencement of section 88 of the English Devolution and Community Empowerment Act 2026.
 
-### 4. Amendment of section 3[^key-28b886e21aba06ff89ccf177bf2384a5]
+### 4. Amendment of section 3[^c-28b886e21aba06ff89ccf177bf2384a5]
 
 In section 3 (limits on charging in exercise of general power), in subsection (1)(a), after “**CCA**” (inserted by Schedule 6) insert “, or English National Park authority, or the Broads Authority,”.
 
-### 5. Amendment of section 4[^key-5bcd89afcd984f109698615eed30ce70]
+### 5. Amendment of section 4[^c-5bcd89afcd984f109698615eed30ce70]
 
 (1) Section 4 (limits on doing things for commercial purpose in exercise of general power) is amended in accordance with this paragraph.
 
 (2) In subsections (1), (2) and (3), after “**CCA**” (inserted by Schedule 6) insert “, or English National Park authority, or the Broads Authority,”.
 
-### 6. Amendment of section 5[^key-76c9019589ef43ac79d1cac851a2b209]
+### 6. Amendment of section 5[^c-76c9019589ef43ac79d1cac851a2b209]
 
 (1) Section 5 (powers to make supplemental provision) is amended in accordance with this paragraph.
 
@@ -86,7 +86,7 @@ In section 3 (limits on charging in exercise of general power), in subsection (1
 
 > (7A) Before making an order under subsection (1), (2), (3) or (4) in relation to the Broads Authority, the Secretary of State must consult the Authority if the Secretary of State considers it appropriate.
 
-### 7. Amendment of section 8[^key-1d85ef96261bf728185675e8604dc1bb]
+### 7. Amendment of section 8[^c-1d85ef96261bf728185675e8604dc1bb]
 
 In section 8 (interpretation), after the definition of “**combined authority**” (inserted by Schedule 6) insert—
 
@@ -96,16 +96,16 @@ In section 8 (interpretation), after the definition of “**combined authority**
 
 ## Annotations
 
-[^key-f3439fb1e9c584fe9a900ddc4206cdfa]: Commencement: [Sch. 33 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/1) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-f3439fb1e9c584fe9a900ddc4206cdfa]: Commencement: [Sch. 33 para. 1](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/1) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-6cef72c59394feb855bd40f392237338]: Commencement: [Sch. 33 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/2) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-6cef72c59394feb855bd40f392237338]: Commencement: [Sch. 33 para. 2](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/2) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-e0dcc350ad95d1d53bfa818178a2b4c3]: Commencement: [Sch. 33 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/3) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-e0dcc350ad95d1d53bfa818178a2b4c3]: Commencement: [Sch. 33 para. 3](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/3) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-28b886e21aba06ff89ccf177bf2384a5]: Commencement: [Sch. 33 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/4) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-28b886e21aba06ff89ccf177bf2384a5]: Commencement: [Sch. 33 para. 4](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/4) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-5bcd89afcd984f109698615eed30ce70]: Commencement: [Sch. 33 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/5) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-5bcd89afcd984f109698615eed30ce70]: Commencement: [Sch. 33 para. 5](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/5) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-76c9019589ef43ac79d1cac851a2b209]: Commencement: [Sch. 33 para. 6](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/6) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-76c9019589ef43ac79d1cac851a2b209]: Commencement: [Sch. 33 para. 6](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/6) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
 
-[^key-1d85ef96261bf728185675e8604dc1bb]: Commencement: [Sch. 33 para. 7](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/7) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)
+[^c-1d85ef96261bf728185675e8604dc1bb]: Commencement: [Sch. 33 para. 7](https://www.legislation.gov.uk/ukpga/2026/23/schedule/33/paragraph/7) in force at 29.6.2026, see [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5)

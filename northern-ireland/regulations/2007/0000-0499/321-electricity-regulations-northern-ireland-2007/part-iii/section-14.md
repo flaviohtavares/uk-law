@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Property Arrangements Schemes[^key-01dd5f78ea0c9931725b913b2602fc53]
+## 14. Property Arrangements Schemes[^c-01dd5f78ea0c9931725b913b2602fc53]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ the scheme may contain provision for apportionment or division so that one part 
 
 ## Annotations
 
-[^key-01dd5f78ea0c9931725b913b2602fc53]: Commencement: Reg. 14 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-01dd5f78ea0c9931725b913b2602fc53]: Commencement: Reg. 14 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

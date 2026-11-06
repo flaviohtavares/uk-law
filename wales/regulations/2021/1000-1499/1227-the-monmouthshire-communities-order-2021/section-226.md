@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 226. Skenfrith, Llangattock Vibon Avel and Llantilio Crosseny — change in community boundary and consequential changes to electoral arrangements[^key-ebefde937ed3906ece318e28e1bfcc94][^key-09f62c168e530460d3815c3252e34a86]
+## 226. Skenfrith, Llangattock Vibon Avel and Llantilio Crosseny — change in community boundary and consequential changes to electoral arrangements[^c-ebefde937ed3906ece318e28e1bfcc94][^c-09f62c168e530460d3815c3252e34a86]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ The part of the community of Llantilio Crossenny shown hatched on Map 150—
 
 ## Annotations
 
-[^key-ebefde937ed3906ece318e28e1bfcc94]: Commencement: Art. 226 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-ebefde937ed3906ece318e28e1bfcc94]: Commencement: Art. 226 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-09f62c168e530460d3815c3252e34a86]: Commencement: [Art. 226](https://www.legislation.gov.uk/wsi/2021/1227/article/226) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-09f62c168e530460d3815c3252e34a86]: Commencement: [Art. 226](https://www.legislation.gov.uk/wsi/2021/1227/article/226) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

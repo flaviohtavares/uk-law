@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Power to make youth diversion orders[^key-c6d5b816b5fb376276eda255d8dd90d2]
+## 215. Power to make youth diversion orders[^c-c6d5b816b5fb376276eda255d8dd90d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6d5b816b5fb376276eda255d8dd90d2]: Commencement: S. 215 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c6d5b816b5fb376276eda255d8dd90d2]: Commencement: S. 215 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

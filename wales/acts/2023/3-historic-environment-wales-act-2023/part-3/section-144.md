@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Urgent works to preserve listed building[^key-e7a1cfef15c546df35751e1872adf292][^key-3d33633254ee7201dba3a8738d2e0e70]
+## 144. Urgent works to preserve listed building[^c-e7a1cfef15c546df35751e1872adf292][^c-3d33633254ee7201dba3a8738d2e0e70]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e7a1cfef15c546df35751e1872adf292]: Commencement: S. 144 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-e7a1cfef15c546df35751e1872adf292]: Commencement: S. 144 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-3d33633254ee7201dba3a8738d2e0e70]: Commencement: [S. 144](https://www.legislation.gov.uk/asc/2023/3/section/144) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-3d33633254ee7201dba3a8738d2e0e70]: Commencement: [S. 144](https://www.legislation.gov.uk/asc/2023/3/section/144) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

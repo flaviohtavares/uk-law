@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Further provisions about elections under regulation 31[^key-a90cd0a7d68fc3fad2a93e28f1e5396d]
+## 32. Further provisions about elections under regulation 31[^c-a90cd0a7d68fc3fad2a93e28f1e5396d]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a90cd0a7d68fc3fad2a93e28f1e5396d]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/nisr/2002/352/regulation/32) revoked (1.6.2005) by [Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/274)](https://www.legislation.gov.uk/nisr/2005/274), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2005/274/regulation/1), [27(e)](https://www.legislation.gov.uk/nisr/2005/274/regulation/27), (with [regs. 28](https://www.legislation.gov.uk/nisr/2005/274/regulation/28), [29](https://www.legislation.gov.uk/nisr/2005/274/regulation/29))
+[^c-a90cd0a7d68fc3fad2a93e28f1e5396d]: Textual amendment: [Reg. 32](https://www.legislation.gov.uk/nisr/2002/352/regulation/32) revoked (1.6.2005) by [Local Government Pension Scheme (Amendment No. 2) Regulations (Northern Ireland) 2005 (S.R. 2005/274)](https://www.legislation.gov.uk/nisr/2005/274), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2005/274/regulation/1), [27(e)](https://www.legislation.gov.uk/nisr/2005/274/regulation/27), (with [regs. 28](https://www.legislation.gov.uk/nisr/2005/274/regulation/28), [29](https://www.legislation.gov.uk/nisr/2005/274/regulation/29))

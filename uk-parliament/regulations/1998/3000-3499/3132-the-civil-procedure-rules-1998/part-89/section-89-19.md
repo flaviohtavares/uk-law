@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89.19. Application for consolidated attachment order[^key-e1ad94f86f9129c74f4791752491e406]
+## 89.19. Application for consolidated attachment order[^c-e1ad94f86f9129c74f4791752491e406]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (4) Where an attachment of earnings order has been made—
 
-- (a) at the Civil National Business Centre[^key-566be11bd83e55653afee13d6b96a675] an application under paragraph (2) must be made to the debtor’s home court;
+- (a) at the Civil National Business Centre[^c-566be11bd83e55653afee13d6b96a675] an application under paragraph (2) must be made to the debtor’s home court;
 - (b) at a County Court hearing centre, an application under paragraph (2) must be made to that hearing centre.
 
 (5) An application under paragraph (2)(b) must—
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1ad94f86f9129c74f4791752491e406]: Textual amendment: [Pt. 89](https://www.legislation.gov.uk/uksi/1998/3132/part/89) inserted (6.4.2016) by [The Civil Procedure (Amendment) Rules 2016 (S.I. 2016/234)](https://www.legislation.gov.uk/uksi/2016/234), [rules 2](https://www.legislation.gov.uk/uksi/2016/234/rule/2), [20](https://www.legislation.gov.uk/uksi/2016/234/rule/20), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/234/schedule/2) (with [rule 25](https://www.legislation.gov.uk/uksi/2016/234/rule/25))
+[^c-e1ad94f86f9129c74f4791752491e406]: Textual amendment: [Pt. 89](https://www.legislation.gov.uk/uksi/1998/3132/part/89) inserted (6.4.2016) by [The Civil Procedure (Amendment) Rules 2016 (S.I. 2016/234)](https://www.legislation.gov.uk/uksi/2016/234), [rules 2](https://www.legislation.gov.uk/uksi/2016/234/rule/2), [20](https://www.legislation.gov.uk/uksi/2016/234/rule/20), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/234/schedule/2) (with [rule 25](https://www.legislation.gov.uk/uksi/2016/234/rule/25))
 
-[^key-566be11bd83e55653afee13d6b96a675]: Textual amendment: Words in [rule 89.19(4)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/89.19/4/a) substituted (14.8.2023) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/2), [34(c)](https://www.legislation.gov.uk/uksi/2023/788/rule/34/c)
+[^c-566be11bd83e55653afee13d6b96a675]: Textual amendment: Words in [rule 89.19(4)(a)](https://www.legislation.gov.uk/uksi/1998/3132/rule/89.19/4/a) substituted (14.8.2023) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(2)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/2), [34(c)](https://www.legislation.gov.uk/uksi/2023/788/rule/34/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 13D — Disclosures about members of the committee of management and employees[^key-ac2bfde162de9c5d37241e6bb672954d]
+## SCHEDULE 13D — Disclosures about members of the committee of management and employees[^c-ac2bfde162de9c5d37241e6bb672954d]
 
 *Extent: E+W+S+N.I.*
 
@@ -189,7 +189,7 @@ those sums must, to the extent to which the liability is released or not enforce
 
 #### Disclosure of auditors' remuneration
 
-**12.**[^key-1b2cab6af97c40287bf90570347585ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1b2cab6af97c40287bf90570347585ad] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### PART 2 — Information about employees
 
@@ -223,6 +223,6 @@ This does not apply in so far as those amounts, or any of them, are stated elsew
 
 ## Annotations
 
-[^key-ac2bfde162de9c5d37241e6bb672954d]: Textual amendment: [Sch. 13D](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13D) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Friendly Societies Act 1992 (International Accounting Standards and Other Accounting Amendments) Order 2005 (S.I. 2005/2211)](https://www.legislation.gov.uk/uksi/2005/2211), [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/2211/article/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2005/2211/schedule/paragraph/6)
+[^c-ac2bfde162de9c5d37241e6bb672954d]: Textual amendment: [Sch. 13D](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13D) inserted (with effect in accordance with art. 1(2) of the amending S.I.) by [The Friendly Societies Act 1992 (International Accounting Standards and Other Accounting Amendments) Order 2005 (S.I. 2005/2211)](https://www.legislation.gov.uk/uksi/2005/2211), [art. 1(2)](https://www.legislation.gov.uk/uksi/2005/2211/article/1/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2005/2211/schedule/paragraph/6)
 
-[^key-1b2cab6af97c40287bf90570347585ad]: Textual amendment: [Sch. 13D para. 12](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13D/paragraph/12) omitted (29.6.2008 with effect in accordance with art. 1(3) of the amending S.I.) by virtue of [The Friendly Societies Act 1992 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1140)](https://www.legislation.gov.uk/uksi/2008/1140), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1140/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2008/1140/article/4/3)
+[^c-1b2cab6af97c40287bf90570347585ad]: Textual amendment: [Sch. 13D para. 12](https://www.legislation.gov.uk/ukpga/1992/40/schedule/13D/paragraph/12) omitted (29.6.2008 with effect in accordance with art. 1(3) of the amending S.I.) by virtue of [The Friendly Societies Act 1992 (Accounts, Audit and EEA State Amendments) Order 2008 (S.I. 2008/1140)](https://www.legislation.gov.uk/uksi/2008/1140), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2008/1140/article/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2008/1140/article/4/3)

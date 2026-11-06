@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 218. Application of Chapter 8[^key-a840ed367e0e1c9afc1fd7bec7eb85bc]
+## 218. Application of Chapter 8[^c-a840ed367e0e1c9afc1fd7bec7eb85bc]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a840ed367e0e1c9afc1fd7bec7eb85bc]: Commencement: Rule 218 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-a840ed367e0e1c9afc1fd7bec7eb85bc]: Commencement: Rule 218 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00023]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).

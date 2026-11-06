@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 98. Referral of employees etc to appropriate regulator[^key-e6bb5f071dc754885d579a2613dae82a]
+## 98. Referral of employees etc to appropriate regulator[^c-e6bb5f071dc754885d579a2613dae82a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6bb5f071dc754885d579a2613dae82a]: Commencement: S. 98 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)
+[^c-e6bb5f071dc754885d579a2613dae82a]: Commencement: S. 98 in force at 1.10.2011 by [S.I. 2011/2196](https://www.legislation.gov.uk/uksi/2011/2196), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2011/2196/article/2/1/c)

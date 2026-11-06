@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155.[^key-7b78190f4dda602d13d891bfd274a8e0]
+## 155.[^c-7b78190f4dda602d13d891bfd274a8e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 4 omit “This Regulation shall be binding in its entirety and dir
 
 ## Annotations
 
-[^key-7b78190f4dda602d13d891bfd274a8e0]: Commencement: Reg. 155 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-7b78190f4dda602d13d891bfd274a8e0]: Commencement: Reg. 155 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

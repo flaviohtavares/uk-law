@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-2af5b17c2c3a955fd33e1999998663e8] The Housing Act 1996 is amended as follows.
+(1)[^c-2af5b17c2c3a955fd33e1999998663e8] The Housing Act 1996 is amended as follows.
 
-(2)[^key-252a311d70ce330e652f9b832f5925aa][^key-190e309269ea1532a4a560c4eda17a84] In section 166 (applications for housing accommodation)—
+(2)[^c-252a311d70ce330e652f9b832f5925aa][^c-190e309269ea1532a4a560c4eda17a84] In section 166 (applications for housing accommodation)—
 
 - (a) after subsection (1) insert—
 
   > (1A) A local housing authority in England shall secure that an applicant for an allocation of housing accommodation is informed that he has the rights mentioned in section 166A(9).”, and
 - (b) in subsection (2) after “authority” insert “ in Wales ”.
 
-(3)[^key-252a311d70ce330e652f9b832f5925aa][^key-190e309269ea1532a4a560c4eda17a84] For the heading before section 167 substitute “ Allocation schemes ”.
+(3)[^c-252a311d70ce330e652f9b832f5925aa][^c-190e309269ea1532a4a560c4eda17a84] For the heading before section 167 substitute “ Allocation schemes ”.
 
-(4)[^key-252a311d70ce330e652f9b832f5925aa][^key-190e309269ea1532a4a560c4eda17a84] Before section 167 insert—
+(4)[^c-252a311d70ce330e652f9b832f5925aa][^c-190e309269ea1532a4a560c4eda17a84] Before section 167 insert—
 
 > **166A. Allocation in accordance with allocation scheme: England**
 >
@@ -99,7 +99,7 @@ summary: ''
 >
 > (14) A local housing authority in England shall not allocate housing accommodation except in accordance with their allocation scheme.
 
-(5)[^key-252a311d70ce330e652f9b832f5925aa][^key-190e309269ea1532a4a560c4eda17a84] Section 167 (allocation in accordance with allocation scheme) is amended as follows—
+(5)[^c-252a311d70ce330e652f9b832f5925aa][^c-190e309269ea1532a4a560c4eda17a84] Section 167 (allocation in accordance with allocation scheme) is amended as follows—
 
 - (a) in the heading after “scheme” insert “ : Wales ”,
 - (b) in subsection (1) after “authority” insert “ in Wales ”,
@@ -107,16 +107,16 @@ summary: ''
 - (d) in subsection (7) after “authority” insert “ in Wales ”, and
 - (e) in subsection (8) after “authority” insert “ in Wales ”.
 
-(6)[^key-2af5b17c2c3a955fd33e1999998663e8] In section 172(2) (regulations) before “167(3)” insert “ 166A(7) or ”.
+(6)[^c-2af5b17c2c3a955fd33e1999998663e8] In section 172(2) (regulations) before “167(3)” insert “ 166A(7) or ”.
 
-(7)[^key-cf9d20f486cb7a97d753aef1bac67f6c] In section 174 (index of defined expressions: Part VI) in the entry for “allocation scheme” before “167” insert “ 166A and ”.
+(7)[^c-cf9d20f486cb7a97d753aef1bac67f6c] In section 174 (index of defined expressions: Part VI) in the entry for “allocation scheme” before “167” insert “ 166A and ”.
 
 ## Annotations
 
-[^key-2af5b17c2c3a955fd33e1999998663e8]: Commencement: [S. 147(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/1)[(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/6) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(l)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/l) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-2af5b17c2c3a955fd33e1999998663e8]: Commencement: [S. 147(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/1)[(6)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/6) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(l)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/l) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-252a311d70ce330e652f9b832f5925aa]: Commencement: [S. 147(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/4)[(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/5) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(k)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/k) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-252a311d70ce330e652f9b832f5925aa]: Commencement: [S. 147(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/3)[(4)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/4)[(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/5) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(k)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/k) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-190e309269ea1532a4a560c4eda17a84]: Commencement: [S. 147(2)-(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/2) in force at 18.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 3](https://www.legislation.gov.uk/uksi/2012/1463/article/3)
+[^c-190e309269ea1532a4a560c4eda17a84]: Commencement: [S. 147(2)-(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/2) in force at 18.6.2012 in so far as not already in force by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 3](https://www.legislation.gov.uk/uksi/2012/1463/article/3)
 
-[^key-cf9d20f486cb7a97d753aef1bac67f6c]: Commencement: [S. 147(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/7) in force at 18.6.2012 by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 3](https://www.legislation.gov.uk/uksi/2012/1463/article/3)
+[^c-cf9d20f486cb7a97d753aef1bac67f6c]: Commencement: [S. 147(7)](https://www.legislation.gov.uk/ukpga/2011/20/section/147/7) in force at 18.6.2012 by [S.I. 2012/1463](https://www.legislation.gov.uk/uksi/2012/1463), [art. 3](https://www.legislation.gov.uk/uksi/2012/1463/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — TRAFFIC REGULATION MEASURES[^key-42fc687c92d69f071ce1dcdaf5c2b40c]
+## SCHEDULE 8 — TRAFFIC REGULATION MEASURES[^c-42fc687c92d69f071ce1dcdaf5c2b40c]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ Article 14
 
 ## Annotations
 
-[^key-42fc687c92d69f071ce1dcdaf5c2b40c]: Commencement: Sch. 8 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-42fc687c92d69f071ce1dcdaf5c2b40c]: Commencement: Sch. 8 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)

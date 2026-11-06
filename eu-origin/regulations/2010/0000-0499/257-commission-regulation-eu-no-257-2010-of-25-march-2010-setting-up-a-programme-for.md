@@ -35,64 +35,64 @@ setting up a programme for the re-evaluation of approved food additives in accor
 
 (Text with EEA relevance) (revoked)
 
-[^key-32c4e34eae8d7f2c1930528265b346a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32c4e34eae8d7f2c1930528265b346a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Subject matter and scope[^key-32c4e34eae8d7f2c1930528265b346a8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Definitions[^key-32c4e34eae8d7f2c1930528265b346a8]
+## Article 1. Subject matter and scope[^c-32c4e34eae8d7f2c1930528265b346a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Priorities for the re-evaluation of approved food additives[^key-32c4e34eae8d7f2c1930528265b346a8]
+## Article 2. Definitions[^c-32c4e34eae8d7f2c1930528265b346a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Re-evaluation procedure[^key-32c4e34eae8d7f2c1930528265b346a8]
+## Article 3. Priorities for the re-evaluation of approved food additives[^c-32c4e34eae8d7f2c1930528265b346a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Call for data[^key-32c4e34eae8d7f2c1930528265b346a8]
+## Article 4. Re-evaluation procedure[^c-32c4e34eae8d7f2c1930528265b346a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Submission of data[^key-32c4e34eae8d7f2c1930528265b346a8]
+## Article 5. Call for data[^c-32c4e34eae8d7f2c1930528265b346a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Other information[^key-32c4e34eae8d7f2c1930528265b346a8]
+## Article 6. Submission of data[^c-32c4e34eae8d7f2c1930528265b346a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Confidentiality[^key-32c4e34eae8d7f2c1930528265b346a8]
+## Article 7. Other information[^c-32c4e34eae8d7f2c1930528265b346a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Monitoring progress[^key-32c4e34eae8d7f2c1930528265b346a8]
+## Article 8. Confidentiality[^c-32c4e34eae8d7f2c1930528265b346a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force[^key-32c4e34eae8d7f2c1930528265b346a8]
+## Article 9. Monitoring progress[^c-32c4e34eae8d7f2c1930528265b346a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-32c4e34eae8d7f2c1930528265b346a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-32c4e34eae8d7f2c1930528265b346a8]
+## Article 10. Entry into force[^c-32c4e34eae8d7f2c1930528265b346a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Specific priorities for certain food additives within the functional classes of food additives as referred to in Article 3(1) and (2)[^key-32c4e34eae8d7f2c1930528265b346a8]
+[^c-32c4e34eae8d7f2c1930528265b346a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART I: — FOOD COLOURS[^key-32c4e34eae8d7f2c1930528265b346a8]
+## ANNEX I[^c-32c4e34eae8d7f2c1930528265b346a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II: — FOOD ADDITIVES OTHER THAN COLOURS AND SWEETENERS[^key-32c4e34eae8d7f2c1930528265b346a8]
+## ANNEX II — Specific priorities for certain food additives within the functional classes of food additives as referred to in Article 3(1) and (2)[^c-32c4e34eae8d7f2c1930528265b346a8]
+
+### PART I: — FOOD COLOURS[^c-32c4e34eae8d7f2c1930528265b346a8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART II: — FOOD ADDITIVES OTHER THAN COLOURS AND SWEETENERS[^c-32c4e34eae8d7f2c1930528265b346a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-32c4e34eae8d7f2c1930528265b346a8]: Textual amendment: Regulation revoked (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [170](https://www.legislation.gov.uk/uksi/2019/860/regulation/170); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32c4e34eae8d7f2c1930528265b346a8]: Textual amendment: Regulation revoked (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [170](https://www.legislation.gov.uk/uksi/2019/860/regulation/170); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

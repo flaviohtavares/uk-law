@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Provision of immediately necessary treatment[^key-27382cce1c614e6a8379eb3a7fbf92db]
+## 44. Provision of immediately necessary treatment[^c-27382cce1c614e6a8379eb3a7fbf92db]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where, on the date on which the default contract ceases to have effect, a defaul
 
 ## Annotations
 
-[^key-27382cce1c614e6a8379eb3a7fbf92db]: Commencement: Art. 44 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-27382cce1c614e6a8379eb3a7fbf92db]: Commencement: Art. 44 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

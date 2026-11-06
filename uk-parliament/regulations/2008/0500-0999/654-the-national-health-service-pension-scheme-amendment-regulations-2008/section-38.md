@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Amendment of regulation L1[^key-c4e6d610a53d2ed4ed18af8a58efce51]
+## 38. Amendment of regulation L1[^c-c4e6d610a53d2ed4ed18af8a58efce51]
 
 *Extent: E+W*
 
@@ -102,7 +102,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c4e6d610a53d2ed4ed18af8a58efce51]: Commencement: Reg. 38 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-c4e6d610a53d2ed4ed18af8a58efce51]: Commencement: Reg. 38 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^f00020]: Footnote: Paragraph (2) was amended by [S.I.2000/605](https://www.legislation.gov.uk/uksi/2000/605).
 

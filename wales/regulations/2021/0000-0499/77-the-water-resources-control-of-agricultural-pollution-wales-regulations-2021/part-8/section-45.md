@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Alternative measures[^key-80cbf13bb8d0a74767a9fd0bd9c108ab]
+## 45. Alternative measures[^c-80cbf13bb8d0a74767a9fd0bd9c108ab]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80cbf13bb8d0a74767a9fd0bd9c108ab]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2021/77/regulation/45) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-80cbf13bb8d0a74767a9fd0bd9c108ab]: Commencement: [Reg. 45](https://www.legislation.gov.uk/wsi/2021/77/regulation/45) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

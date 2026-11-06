@@ -46,11 +46,11 @@ Whereas it appears necessary to the Treasury that the relief from value added ta
 
 Now therefore the Treasury, by virtue of the powers conferred on them by section 19(1) of the Value Added Tax Act 1983[^f00003] and of all other powers enabling them in that behalf, hereby make the following Order:
 
-**1.**[^key-d71406658c98653831a7f147d446af56] This Order may be cited as the Value Added Tax (Imported Gold) Relief Order 1992 and shall come into force on 1st January 1993.
+**1.**[^c-d71406658c98653831a7f147d446af56] This Order may be cited as the Value Added Tax (Imported Gold) Relief Order 1992 and shall come into force on 1st January 1993.
 
-**2.**[^key-630672dc7189587393db64059b45dfd1] The tax chargeable upon the importation of gold (including gold coins) [^key-a8ece7527797ff11a18b85b2f7a7007f]... shall not be payable where the importation is by a Central Bank.
+**2.**[^c-630672dc7189587393db64059b45dfd1] The tax chargeable upon the importation of gold (including gold coins) [^c-a8ece7527797ff11a18b85b2f7a7007f]... shall not be payable where the importation is by a Central Bank.
 
-**3.**[^key-159072680301116abfeeb8dc783f6ddd] The Value Added Tax (Imported Goods) Relief Order 1977[^f00004] is hereby revoked.
+**3.**[^c-159072680301116abfeeb8dc783f6ddd] The Value Added Tax (Imported Goods) Relief Order 1977[^f00004] is hereby revoked.
 
 Irvine Patnick
 
@@ -70,12 +70,12 @@ This Order relieves Central Banks from any liability to pay value added tax in r
 
 [^f00003]: Footnote: [1983 c. 55](https://www.legislation.gov.uk/ukpga/1983/55); section 19(1) was amended by the Finance (No. 2) Act [1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48), section 14(2) and Schedule 3, paragraph 20(1).
 
-[^key-d71406658c98653831a7f147d446af56]: Commencement: Art. 1 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3124/article/1)
+[^c-d71406658c98653831a7f147d446af56]: Commencement: Art. 1 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3124/article/1)
 
-[^key-630672dc7189587393db64059b45dfd1]: Commencement: Art. 2 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3124/article/1)
+[^c-630672dc7189587393db64059b45dfd1]: Commencement: Art. 2 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3124/article/1)
 
-[^key-a8ece7527797ff11a18b85b2f7a7007f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1992/3124/article/2) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/6/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-a8ece7527797ff11a18b85b2f7a7007f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/1992/3124/article/2) omitted (31.12.2020) by virtue of [The Value Added Tax (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2019 (S.I. 2019/59)](https://www.legislation.gov.uk/uksi/2019/59), [regs. 1](https://www.legislation.gov.uk/uksi/2019/59/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/59/regulation/6/2); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-159072680301116abfeeb8dc783f6ddd]: Commencement: Art. 3 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3124/article/1)
+[^c-159072680301116abfeeb8dc783f6ddd]: Commencement: Art. 3 in force at 1.1.1993, see [art. 1](https://www.legislation.gov.uk/uksi/1992/3124/article/1)
 
 [^f00004]: Footnote: S.I. [1977/1790](https://www.legislation.gov.uk/uksi/1977/1790).

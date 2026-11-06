@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Power to enter and inspect canal boats.[^key-fb87b3241d0c2d041881dbfcf8db4c4d]
+## 50. Power to enter and inspect canal boats.[^c-fb87b3241d0c2d041881dbfcf8db4c4d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fb87b3241d0c2d041881dbfcf8db4c4d]: Textual amendment: S. 50 repealed (1.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/2/paragraph/1/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97))
+[^c-fb87b3241d0c2d041881dbfcf8db4c4d]: Textual amendment: S. 50 repealed (1.7.2012) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/9/schedule/2/paragraph/1/1), [Sch. 10 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/2) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97))

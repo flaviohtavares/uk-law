@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Conditional inclusion on fitness grounds[^key-94eb0d340298eaa1c75b44fc9c61da4c]
+## 38. Conditional inclusion on fitness grounds[^c-94eb0d340298eaa1c75b44fc9c61da4c]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ unless it is impracticable for the person to do so in which case the person must
 
 ## Annotations
 
-[^key-94eb0d340298eaa1c75b44fc9c61da4c]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2020/1073/regulation/38) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-94eb0d340298eaa1c75b44fc9c61da4c]: Commencement: [Reg. 38](https://www.legislation.gov.uk/wsi/2020/1073/regulation/38) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

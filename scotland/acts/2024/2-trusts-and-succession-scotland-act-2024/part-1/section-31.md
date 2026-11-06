@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 31. Trustees’ duty of care etc.[^key-fec8babd057b7c1ea5981907075fd60d]
+## 31. Trustees’ duty of care etc.[^c-fec8babd057b7c1ea5981907075fd60d]
 
 *Extent: S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fec8babd057b7c1ea5981907075fd60d]: Commencement: S. 31 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-fec8babd057b7c1ea5981907075fd60d]: Commencement: S. 31 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

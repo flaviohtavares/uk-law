@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**31.**[^key-5a13ef951398c5b10b16099c9fb93927] A coarse fishing rod licence shall be valid only on waters listed in Schedule 2.
+**31.**[^c-5a13ef951398c5b10b16099c9fb93927] A coarse fishing rod licence shall be valid only on waters listed in Schedule 2.
 
 ## Annotations
 
-[^key-5a13ef951398c5b10b16099c9fb93927]: Commencement: S. 31 in operation at 1.11.1997, see byelaw 1
+[^c-5a13ef951398c5b10b16099c9fb93927]: Commencement: S. 31 in operation at 1.11.1997, see byelaw 1

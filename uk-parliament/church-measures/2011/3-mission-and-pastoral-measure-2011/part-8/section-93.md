@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 93. Diocesan pastoral accounts[^key-4314b3cdf3c4a7db65b4b7124f948ea7]
+## 93. Diocesan pastoral accounts[^c-4314b3cdf3c4a7db65b4b7124f948ea7]
 
 *Extent: E*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4314b3cdf3c4a7db65b4b7124f948ea7]: Commencement: S. 93 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-4314b3cdf3c4a7db65b4b7124f948ea7]: Commencement: S. 93 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

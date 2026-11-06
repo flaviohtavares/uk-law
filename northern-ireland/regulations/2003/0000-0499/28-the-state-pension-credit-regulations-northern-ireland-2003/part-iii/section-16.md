@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Retirement pension income[^key-166237fc474b499d055a5ee83fbe5168]
+## 16. Retirement pension income[^c-166237fc474b499d055a5ee83fbe5168]
 
 *Extent: N.I.*
 
@@ -27,14 +27,14 @@ There shall be added to the descriptions of income listed in section 16(1) of th
 ;
 
 > - (l) any payment, other than a payment ordered by a court or made in settlement of a claim, made by or on behalf of a former employer of a person on account of the early retirement of that person on grounds of ill-health or disability
-> - (m)[^key-d13c9f68b8112c32758051924d2c02c3] any payment made at regular intervals under an equity release scheme.
-> - (n)[^key-0c7d6465fce5712ef86916d54b5ed75f] any payment made under the Financial Assistance Scheme Regulations 2005.
+> - (m)[^c-d13c9f68b8112c32758051924d2c02c3] any payment made at regular intervals under an equity release scheme.
+> - (n)[^c-0c7d6465fce5712ef86916d54b5ed75f] any payment made under the Financial Assistance Scheme Regulations 2005.
 
 .
 
 ## Annotations
 
-[^key-166237fc474b499d055a5ee83fbe5168]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2003/28/regulation/16) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
+[^c-166237fc474b499d055a5ee83fbe5168]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2003/28/regulation/16) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
 
 [^f00039]: Footnote: [1837 c. 2](https://www.legislation.gov.uk/ukpga/1837/2)
 
@@ -46,6 +46,6 @@ There shall be added to the descriptions of income listed in section 16(1) of th
 
 [^f00043]: Footnote: [1975 c. 82](https://www.legislation.gov.uk/ukpga/1975/82)
 
-[^key-d13c9f68b8112c32758051924d2c02c3]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2003/28/regulation/16) added (4.10.2004) by [The Social Security (Housing Benefit, State Pension Credit and Miscellaneous Amendments) Regulations (Northern Ireland) 2004 (S.R. 2004/394)](https://www.legislation.gov.uk/nisr/2004/394), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/a), [6(4)](https://www.legislation.gov.uk/nisr/2004/394/regulation/6/4)
+[^c-d13c9f68b8112c32758051924d2c02c3]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2003/28/regulation/16) added (4.10.2004) by [The Social Security (Housing Benefit, State Pension Credit and Miscellaneous Amendments) Regulations (Northern Ireland) 2004 (S.R. 2004/394)](https://www.legislation.gov.uk/nisr/2004/394), [regs. 1(1)(a)](https://www.legislation.gov.uk/nisr/2004/394/regulation/1/1/a), [6(4)](https://www.legislation.gov.uk/nisr/2004/394/regulation/6/4)
 
-[^key-0c7d6465fce5712ef86916d54b5ed75f]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2003/28/regulation/16) added (18.12.2005) by [The State Pension Credit (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/513)](https://www.legislation.gov.uk/nisr/2005/513), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/513/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2005/513/regulation/2/3)
+[^c-0c7d6465fce5712ef86916d54b5ed75f]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/nisr/2003/28/regulation/16) added (18.12.2005) by [The State Pension Credit (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/513)](https://www.legislation.gov.uk/nisr/2005/513), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2005/513/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2005/513/regulation/2/3)

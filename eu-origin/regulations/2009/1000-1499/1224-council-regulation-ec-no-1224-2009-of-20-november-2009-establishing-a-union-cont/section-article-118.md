@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 118. Reporting obligations[^key-5064618fc2118aed0e81fdcd5384bb4a]
+## Article 118. Reporting obligations[^c-5064618fc2118aed0e81fdcd5384bb4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5064618fc2118aed0e81fdcd5384bb4a]: Textual amendment: [Art. 118](https://www.legislation.gov.uk/eur/2009/1224/article/118) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(89)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/89); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5064618fc2118aed0e81fdcd5384bb4a]: Textual amendment: [Art. 118](https://www.legislation.gov.uk/eur/2009/1224/article/118) omitted (31.12.2020) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(89)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/89); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

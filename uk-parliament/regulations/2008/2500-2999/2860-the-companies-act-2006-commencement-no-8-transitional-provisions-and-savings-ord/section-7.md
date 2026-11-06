@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Prosecution of offences in transitional cases[^key-ac61d7a0f188ddd32bf13982ee724eec]
+## 7. Prosecution of offences in transitional cases[^c-ac61d7a0f188ddd32bf13982ee724eec]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac61d7a0f188ddd32bf13982ee724eec]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)
+[^c-ac61d7a0f188ddd32bf13982ee724eec]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2008/2860/article/7) in force at 1.10.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/2860/article/1/2)

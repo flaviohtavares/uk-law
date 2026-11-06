@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47B. Statements of Policy[^key-fe3ba27d5f5f7a3cf23fcd4ace85513f]
+## 47B. Statements of Policy[^c-fe3ba27d5f5f7a3cf23fcd4ace85513f]
 
 *Extent: E+W+S+N.I.*
 
 (1) The FCA must prepare and issue a statement of its policy in relation to the exercise of—
 
 - (a) the following functions in the markets in financial instruments regulation—
-  - (i)[^key-20a739bb371a55082749ef78d86396f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-20a739bb371a55082749ef78d86396f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) withdrawing a waiver under Article 9(3);
   - (iii) suspending the obligations referred to in Article 8 under Article 9(4A);
   - (iv) suspending the obligations referred to in Article 10 under Article 11(2A);
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe3ba27d5f5f7a3cf23fcd4ace85513f]: Textual amendment: [Reg. 47B](https://www.legislation.gov.uk/uksi/2017/701/regulation/47B) inserted (20.12.2018) by [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/15/5) (as amended by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [16(6)(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/16/6/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe3ba27d5f5f7a3cf23fcd4ace85513f]: Textual amendment: [Reg. 47B](https://www.legislation.gov.uk/uksi/2017/701/regulation/47B) inserted (20.12.2018) by [The Markets in Financial Instruments (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1403)](https://www.legislation.gov.uk/uksi/2018/1403), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2018/1403/regulation/15/5) (as amended by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/2), [16(6)(b)](https://www.legislation.gov.uk/uksi/2019/710/regulation/16/6/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-20a739bb371a55082749ef78d86396f5]: Textual amendment: [Reg. 47B(1)(a)(i)](https://www.legislation.gov.uk/uksi/2017/701/regulation/47B/1/a/i) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1410/regulation/12)
+[^c-20a739bb371a55082749ef78d86396f5]: Textual amendment: [Reg. 47B(1)(a)(i)](https://www.legislation.gov.uk/uksi/2017/701/regulation/47B/1/a/i) omitted (1.1.2024) by virtue of [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2023 (S.I. 2023/1410)](https://www.legislation.gov.uk/uksi/2023/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1410/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1410/regulation/12)

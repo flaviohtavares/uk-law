@@ -53,7 +53,7 @@ he may make an application for the purpose to the planning authority specifying 
 
 - (a) section 3(3) of the [^c950164]Caravan Sites and Control of Development Act 1960,
 - (b) section 5(2) of the [^c950165]Control of Pollution Act 1974, and
-- (c)[^key-f8eef9e77613c6050f7e4b9fa305f3cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-f8eef9e77613c6050f7e4b9fa305f3cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -63,4 +63,4 @@ he may make an application for the purpose to the planning authority specifying 
 
 [^c950165]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-f8eef9e77613c6050f7e4b9fa305f3cb]: Textual amendment: S. 150(7)(c) repealed (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-f8eef9e77613c6050f7e4b9fa305f3cb]: Textual amendment: S. 150(7)(c) repealed (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))

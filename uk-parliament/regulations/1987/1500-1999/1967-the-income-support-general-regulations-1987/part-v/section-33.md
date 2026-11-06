@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33. Weekly amount of charitable or voluntary payment[^key-38bea1f59d91063ac06b49738e7081d5][^key-2b3645f04fa1b65ed0ed217910fb26b0]
+## 33. Weekly amount of charitable or voluntary payment[^c-38bea1f59d91063ac06b49738e7081d5][^c-2b3645f04fa1b65ed0ed217910fb26b0]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-38bea1f59d91063ac06b49738e7081d5]: Textual amendment: Reg. 33 omitted (12.12.1988) by virtue of [The Income Support (General) Amendment No. 5 Regulations 1988 (S.I. 1988/2022)](https://www.legislation.gov.uk/uksi/1988/2022), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1988/2022/regulation/1/1/a), [8](https://www.legislation.gov.uk/uksi/1988/2022/regulation/8)
+[^c-38bea1f59d91063ac06b49738e7081d5]: Textual amendment: Reg. 33 omitted (12.12.1988) by virtue of [The Income Support (General) Amendment No. 5 Regulations 1988 (S.I. 1988/2022)](https://www.legislation.gov.uk/uksi/1988/2022), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/1988/2022/regulation/1/1/a), [8](https://www.legislation.gov.uk/uksi/1988/2022/regulation/8)
 
-[^key-2b3645f04fa1b65ed0ed217910fb26b0]: Commencement: Reg. 33 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)
+[^c-2b3645f04fa1b65ed0ed217910fb26b0]: Commencement: Reg. 33 in force at 11.4.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1987/1967/regulation/1)

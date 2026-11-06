@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Provision of information[^key-28904c35634384f501430b0626466535]
+## 6. Provision of information[^c-28904c35634384f501430b0626466535]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ In section 84 of the Civil Aviation Act 1982 (provision by others of information
 
 ## Annotations
 
-[^key-28904c35634384f501430b0626466535]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/12/section/6) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/f)
+[^c-28904c35634384f501430b0626466535]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2021/12/section/6) in force at 18.2.2022 by [S.I. 2022/119](https://www.legislation.gov.uk/uksi/2022/119), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2022/119/regulation/2/f)

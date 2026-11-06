@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Renewable energy incentive schemes[^key-97fc2844777067bc9c16a5d181c24a7c]
+## 55. Renewable energy incentive schemes[^c-97fc2844777067bc9c16a5d181c24a7c]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97fc2844777067bc9c16a5d181c24a7c]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2017/4/section/55) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)
+[^c-97fc2844777067bc9c16a5d181c24a7c]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2017/4/section/55) in force at 1.4.2018 by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(l)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/l)

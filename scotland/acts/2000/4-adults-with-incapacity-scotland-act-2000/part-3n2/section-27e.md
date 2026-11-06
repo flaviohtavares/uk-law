@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27E. Determination of applications: opportunity to make representations[^key-f6eab5fdc625cd488bea4e06b1f37ba3]
+## 27E. Determination of applications: opportunity to make representations[^c-f6eab5fdc625cd488bea4e06b1f37ba3]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6eab5fdc625cd488bea4e06b1f37ba3]: Textual amendment: Pt. 3 substituted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 58](https://www.legislation.gov.uk/asp/2007/10/section/58), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1) (with [arts. 3](https://www.legislation.gov.uk/ssi/2008/49/article/3) [4](https://www.legislation.gov.uk/ssi/2008/49/article/4))
+[^c-f6eab5fdc625cd488bea4e06b1f37ba3]: Textual amendment: Pt. 3 substituted (1.4.2008) by [Adult Support and Protection (Scotland) Act 2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), [ss. 58](https://www.legislation.gov.uk/asp/2007/10/section/58), [79(3)](https://www.legislation.gov.uk/asp/2007/10/section/79/3); [S.S.I. 2008/49](https://www.legislation.gov.uk/ssi/2008/49), [art. 2(1)](https://www.legislation.gov.uk/ssi/2008/49/article/2/1) (with [arts. 3](https://www.legislation.gov.uk/ssi/2008/49/article/3) [4](https://www.legislation.gov.uk/ssi/2008/49/article/4))

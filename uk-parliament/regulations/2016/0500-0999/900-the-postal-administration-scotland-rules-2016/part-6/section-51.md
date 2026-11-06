@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 51. Determination of outlays and remuneration[^key-b29b9bfdafb5547442a90acfcc652573]
+## 51. Determination of outlays and remuneration[^c-b29b9bfdafb5547442a90acfcc652573]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b29b9bfdafb5547442a90acfcc652573]: Commencement: Rule 51 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-b29b9bfdafb5547442a90acfcc652573]: Commencement: Rule 51 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

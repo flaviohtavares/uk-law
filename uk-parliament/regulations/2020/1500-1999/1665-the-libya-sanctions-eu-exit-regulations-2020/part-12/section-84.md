@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Amendment of the United Nations and European Union Financial Sanctions (Linking) Regulations 2017[^key-6809ebe31a917210197b0f470706c23c]
+## 84. Amendment of the United Nations and European Union Financial Sanctions (Linking) Regulations 2017[^c-6809ebe31a917210197b0f470706c23c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ In the Schedule to the United Nations and European Union Financial Sanctions (Li
 
 ## Annotations
 
-[^key-6809ebe31a917210197b0f470706c23c]: Commencement: Reg. 84 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-6809ebe31a917210197b0f470706c23c]: Commencement: Reg. 84 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
 
 [^c24412181]: Marginal citation: [S.I. 2017/478](https://www.legislation.gov.uk/uksi/2017/478), to which there are amendments not relevant to these Regulations.

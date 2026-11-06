@@ -22,33 +22,33 @@ summary: ''
 
 Section 12
 
-**1.**[^key-8d52eeeebd4e2e2b72f8b2104f8ea945] This Schedule—
+**1.**[^c-8d52eeeebd4e2e2b72f8b2104f8ea945] This Schedule—
 
 - (a) sets out the circumstances in which a woman is entitled to a basic amount for the purpose of section 12, and
 - (b) determines that basic amount.
 
-**2.**[^key-efcaaa3aa482c2a416552fdf758121ad] (1) A woman is entitled to a basic amount under this paragraph if she has reached pensionable age and—
+**2.**[^c-efcaaa3aa482c2a416552fdf758121ad] (1) A woman is entitled to a basic amount under this paragraph if she has reached pensionable age and—
 
 - (a) she is married to a person who has reached pensionable age, or
 - (b) she is in a civil partnership with a person who has reached that age.
 
 (2) The basic amount is the amount specified in paragraph 5 of Part 1 of Schedule 4 to the Contributions and Benefits Act on the day on which the woman became entitled under this paragraph.
 
-**3.**[^key-97ff0c8b0ffc05f22f96d2006ca476e0] (1) A woman is entitled to a basic amount under this paragraph if—
+**3.**[^c-97ff0c8b0ffc05f22f96d2006ca476e0] (1) A woman is entitled to a basic amount under this paragraph if—
 
 - (a) on reaching pensionable age she is not married or in a civil partnership but she has been married or in a civil partnership before, or
 - (b) on reaching pensionable age she was married or in a civil partnership and the marriage or civil partnership has come to an end (because of the death of her spouse or civil partner or otherwise).
 
 (2) The basic amount is the amount of the basic pension specified in section 44(4) of the Contributions and Benefits Act on the day on which the woman became entitled under this paragraph.
 
-**4.**[^key-e2febf820ca898ea2a110c49a271a42e] A woman who is entitled to a basic amount under paragraph 3 is not entitled to a basic amount under paragraph 2.
+**4.**[^c-e2febf820ca898ea2a110c49a271a42e] A woman who is entitled to a basic amount under paragraph 3 is not entitled to a basic amount under paragraph 2.
 
 ## Annotations
 
-[^key-8d52eeeebd4e2e2b72f8b2104f8ea945]: Commencement: Sch. 7 para. 1 in force at 6.4.2016, see s. 56(1)(4)
+[^c-8d52eeeebd4e2e2b72f8b2104f8ea945]: Commencement: Sch. 7 para. 1 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-efcaaa3aa482c2a416552fdf758121ad]: Commencement: Sch. 7 para. 2 in force at 6.4.2016, see s. 56(1)(4)
+[^c-efcaaa3aa482c2a416552fdf758121ad]: Commencement: Sch. 7 para. 2 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-97ff0c8b0ffc05f22f96d2006ca476e0]: Commencement: Sch. 7 para. 3 in force at 6.4.2016, see s. 56(1)(4)
+[^c-97ff0c8b0ffc05f22f96d2006ca476e0]: Commencement: Sch. 7 para. 3 in force at 6.4.2016, see s. 56(1)(4)
 
-[^key-e2febf820ca898ea2a110c49a271a42e]: Commencement: Sch. 7 para. 4 in force at 6.4.2016, see s. 56(1)(4)
+[^c-e2febf820ca898ea2a110c49a271a42e]: Commencement: Sch. 7 para. 4 in force at 6.4.2016, see s. 56(1)(4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Restriction on winding-up orders and voluntary winding up[^key-0dd71d073ea3671aed57d5c45c115c8f]
+## 122. Restriction on winding-up orders and voluntary winding up[^c-0dd71d073ea3671aed57d5c45c115c8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dd71d073ea3671aed57d5c45c115c8f]: Commencement: S. 122 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)
+[^c-0dd71d073ea3671aed57d5c45c115c8f]: Commencement: S. 122 in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(c)](https://www.legislation.gov.uk/uksi/2018/848/article/2/c)

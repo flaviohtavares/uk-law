@@ -49,7 +49,7 @@ Section 80
 
 (2) The difference is permitted if, in prescribed circumstances, it is attributable only to differences between men and women in the retirement benefits to which, in prescribed circumstances, the man and woman are or would be entitled.
 
-(3) “Retirement benefits” are benefits under sections 43 to 55 of the Social Security Contributions and Benefits Act 1992 (state retirement pensions)or sections 2 to 12 of the Pensions Act 2014 (state pension)[^key-3e9e74dc9ae77540790a642dbcf6519c].
+(3) “Retirement benefits” are benefits under sections 43 to 55 of the Social Security Contributions and Benefits Act 1992 (state retirement pensions)or sections 2 to 12 of the Pensions Act 2014 (state pension)[^c-3e9e74dc9ae77540790a642dbcf6519c].
 
 #### Actuarial factors
 
@@ -70,7 +70,7 @@ Section 80
 
 [^c21153951]: Commencement: Sch. 7 para. 4 wholly in force; para. 4 not in force at Royal Assent see s. 216; para. 4 in force for certain purposes at 6.7.2010 by [S.I. 2010/1736](https://www.legislation.gov.uk/uksi/2010/1736), [art. 2](https://www.legislation.gov.uk/uksi/2010/1736/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/1736/schedule); Sch. 7 in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(5)(g)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/5/g) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15))
 
-[^key-3e9e74dc9ae77540790a642dbcf6519c]: Textual amendment: Words in [Sch. 7 para. 4(3)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/7/paragraph/4/3) inserted (6.4.2016 art. 1(2)) by [The Pensions Act 2014 (Consequential and Supplementary Amendments) Order 2016 (S.I. 2016/224)](https://www.legislation.gov.uk/uksi/2016/224), [art. 8](https://www.legislation.gov.uk/uksi/2016/224/article/8)
+[^c-3e9e74dc9ae77540790a642dbcf6519c]: Textual amendment: Words in [Sch. 7 para. 4(3)](https://www.legislation.gov.uk/ukpga/2010/15/schedule/7/paragraph/4/3) inserted (6.4.2016 art. 1(2)) by [The Pensions Act 2014 (Consequential and Supplementary Amendments) Order 2016 (S.I. 2016/224)](https://www.legislation.gov.uk/uksi/2016/224), [art. 8](https://www.legislation.gov.uk/uksi/2016/224/article/8)
 
 [^c21153981]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2010/15/schedule/7/paragraph/5) wholly in force; [para. 5](https://www.legislation.gov.uk/ukpga/2010/15/paragraph/5) not in force at Royal Assent see [s. 216](https://www.legislation.gov.uk/ukpga/2010/15/section/216); [para. 5](https://www.legislation.gov.uk/ukpga/2010/15/paragraph/5) in force for certain purposes at 6.7.2010 by [S.I. 2010/1736](https://www.legislation.gov.uk/uksi/2010/1736), [art. 2](https://www.legislation.gov.uk/uksi/2010/1736/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2010/1736/schedule); [Sch. 7](https://www.legislation.gov.uk/ukpga/2010/15/schedule/7) in force at 1.10.2010 in so far as not already in force by [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(1)(5)(g)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/1/5/g) (with [art. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Appeals relating to regulation of the Bar[^key-53e2fbb5dd83cdd765490e0b07c7f24f]
+## 24. Appeals relating to regulation of the Bar[^c-53e2fbb5dd83cdd765490e0b07c7f24f]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ and in this subsection any reference to a member of an Inn includes a reference 
 
 ## Annotations
 
-[^key-53e2fbb5dd83cdd765490e0b07c7f24f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2013/22/section/24) in force at 7.1.2014 by [S.I. 2013/3176](https://www.legislation.gov.uk/uksi/2013/3176), [art. 2](https://www.legislation.gov.uk/uksi/2013/3176/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/3176/article/3))
+[^c-53e2fbb5dd83cdd765490e0b07c7f24f]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2013/22/section/24) in force at 7.1.2014 by [S.I. 2013/3176](https://www.legislation.gov.uk/uksi/2013/3176), [art. 2](https://www.legislation.gov.uk/uksi/2013/3176/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2013/3176/article/3))

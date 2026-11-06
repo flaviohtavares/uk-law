@@ -33,7 +33,7 @@ An Act to consolidate certain enactments relating to the powers of courts to dea
 
 \[25th May 2000\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-e922b38d55c6c1e9cd129c8425ea63f5][^key-118e187207e309ac4093878ee858bfeb][^key-d087e9f6bfc1004cbf5b2e1bddc43025][^key-e3a72bb310afff37df67ecb9c856bceb]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-e922b38d55c6c1e9cd129c8425ea63f5][^c-118e187207e309ac4093878ee858bfeb][^c-d087e9f6bfc1004cbf5b2e1bddc43025][^c-e3a72bb310afff37df67ecb9c856bceb]
 
 ## Contents
 
@@ -141,11 +141,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 31 — Rules of court.](part-iii/section-31.md)
 - [Section 32 — Definitions for purposes of Part III.](part-iii/section-32.md)
 
-### Part IV — Youth community orders and reparation orders[^c12953231][^key-57c0117d33ae3277e10960ab76ba4fb6]
+### Part IV — Youth community orders and reparation orders[^c12953231][^c-57c0117d33ae3277e10960ab76ba4fb6]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter I — Youth community orders: general provisions[^key-2a3290d30930cbe750ff846f9586a457][^key-f222bf45cc8258fe5c6b1940b17345aa]
+#### Chapter I — Youth community orders: general provisions[^c-2a3290d30930cbe750ff846f9586a457][^c-f222bf45cc8258fe5c6b1940b17345aa]
 
 *Extent: E+W*
 
@@ -156,13 +156,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 36A — Pre-sentence drug testing.](part-iv/section-36a.md)
 - [Section 36B — Electronic monitoring of requirements in youth community orders.](part-iv/section-36b.md)
 
-#### Chapter II — Community orders available for offenders of any age[^key-2718b1f7cffd34a53cd373e48de3175f]
+#### Chapter II — Community orders available for offenders of any age[^c-2718b1f7cffd34a53cd373e48de3175f]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-##### Curfew orders[^key-2718b1f7cffd34a53cd373e48de3175f]
+##### Curfew orders[^c-2718b1f7cffd34a53cd373e48de3175f]
 
 **No longer in force.**
 
@@ -171,7 +171,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 39 — Breach, revocation and amendment of curfew orders.](part-iv/section-39.md)
 - [Section 40 — Curfew orders: supplementary.](part-iv/section-40.md)
 
-##### Exclusion orders[^key-2718b1f7cffd34a53cd373e48de3175f]
+##### Exclusion orders[^c-2718b1f7cffd34a53cd373e48de3175f]
 
 **No longer in force.**
 
@@ -232,7 +232,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 - [Section 59 — Curfew orders and community punishment orders for persistent petty offenders.](part-iv/section-59.md)
 
-#### Chapter IV — Attendance centre orders: offenders under 21 and defaulters[^key-cff423f11f2794936b2a61204756106b]
+#### Chapter IV — Attendance centre orders: offenders under 21 and defaulters[^c-cff423f11f2794936b2a61204756106b]
 
 *Extent: E+W*
 
@@ -240,11 +240,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 61 — Breach, revocation and amendment of attendance centre orders.](part-iv/section-61.md)
 - [Section 62 — Provision, regulation and management of attendance centres.](part-iv/section-62.md)
 
-#### Chapter V — Community orders available only where offender aged under 18[^key-93db78df548a28a1742f412c112c0a15]
+#### Chapter V — Community orders available only where offender aged under 18[^c-93db78df548a28a1742f412c112c0a15]
 
 *Extent: E+W*
 
-##### Supervision orders[^key-93db78df548a28a1742f412c112c0a15]
+##### Supervision orders[^c-93db78df548a28a1742f412c112c0a15]
 
 *Extent: E+W*
 
@@ -258,7 +258,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 67 — Meaning of “local authority”, “reside” and “parent”.](part-iv/section-67.md)
 - [Section 68 — Isles of Scilly.](part-iv/section-68.md)
 
-##### Action plan orders[^key-93db78df548a28a1742f412c112c0a15]
+##### Action plan orders[^c-93db78df548a28a1742f412c112c0a15]
 
 **No longer in force.**
 
@@ -336,7 +336,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 87 — Crediting of periods of remand in custody: terms of imprisonment and detention.](part-v/section-87.md)
 - [Section 88 — Meaning of “remand in custody”.](part-v/section-88.md)
 
-#### Chapter II — Detention and custody of young offenders[^key-9f80196ea7a990b5ae450f56286a5efa]
+#### Chapter II — Detention and custody of young offenders[^c-9f80196ea7a990b5ae450f56286a5efa]
 
 *Extent: E+W*
 
@@ -411,7 +411,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 114 — Offences under service law.](part-v/section-114.md)
 - [Section 115 — Determination of day when offence committed.](part-v/section-115.md)
 
-#### Chapter IV — Return to prison etc. where offence committed during original sentence[^key-dbbd903556ef20ff60be077e39a7e098]
+#### Chapter IV — Return to prison etc. where offence committed during original sentence[^c-dbbd903556ef20ff60be077e39a7e098]
 
 - [Section 116 — Power to order return to prison etc. where offence committed during original sentence.](part-v/section-116.md)
 - [Section 117 — Treatment for purposes of section 116(1) of person serving two or more sentences or extended sentence.](part-v/section-117.md)
@@ -470,7 +470,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 137 — Power to order parent or guardian to pay fine, costs , compensation or surcharge.](part-vi/section-137.md)
 - [Section 138 — Fixing of fine , compensation or surcharge to be paid by parent or guardian.](part-vi/section-138.md)
 
-#### Miscellaneous powers and duties of Crown Court in relation to recognizances etc.[^key-3cdea8fc4c228f6072fd8e13b3a0a33e]
+#### Miscellaneous powers and duties of Crown Court in relation to recognizances etc.[^c-3cdea8fc4c228f6072fd8e13b3a0a33e]
 
 *Extent: E+W*
 
@@ -580,32 +580,32 @@ SCHEDULES
 
 ## Annotations
 
-[^key-e922b38d55c6c1e9cd129c8425ea63f5]: Modification: Act modified (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [s. 8(8)](https://www.legislation.gov.uk/ukla/2007/2/section/8/8)
+[^c-e922b38d55c6c1e9cd129c8425ea63f5]: Modification: Act modified (19.9.2007) by [London Local Authorities Act 2007 (c. ii)](https://www.legislation.gov.uk/ukla/2007/2), [s. 8(8)](https://www.legislation.gov.uk/ukla/2007/2/section/8/8)
 
-[^key-118e187207e309ac4093878ee858bfeb]: Modification: Act: power to amend conferred (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [ss. 7](https://www.legislation.gov.uk/ukpga/2014/11/section/7), [22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/40/article/2/g)
+[^c-118e187207e309ac4093878ee858bfeb]: Modification: Act: power to amend conferred (1.2.2015) by [Offender Rehabilitation Act 2014 (c. 11)](https://www.legislation.gov.uk/ukpga/2014/11), [ss. 7](https://www.legislation.gov.uk/ukpga/2014/11/section/7), [22(1)](https://www.legislation.gov.uk/ukpga/2014/11/section/22/1) (with [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2014/11/schedule/7/paragraph/2)); [S.I. 2015/40](https://www.legislation.gov.uk/uksi/2015/40), [art. 2(g)](https://www.legislation.gov.uk/uksi/2015/40/article/2/g)
 
-[^key-d087e9f6bfc1004cbf5b2e1bddc43025]: Modification: Act modified in part (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3) (with [Sch. 1 paras. 9-11](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/9), [13](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/14), [17](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/17), [24](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/24), [25](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/25), [37-39](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/37)); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-d087e9f6bfc1004cbf5b2e1bddc43025]: Modification: Act modified in part (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3) (with [Sch. 1 paras. 9-11](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/9), [13](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/13), [14](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/14), [17](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/17), [24](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/24), [25](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/25), [37-39](https://www.legislation.gov.uk/ukpga/2020/9/schedule/1/paragraph/37)); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
 
-[^key-e3a72bb310afff37df67ecb9c856bceb]: Modification: Act: power to amend conferred by 2003 c. 44, s. 256AB(4) (as extended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 247(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/247/5), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-e3a72bb310afff37df67ecb9c856bceb]: Modification: Act: power to amend conferred by 2003 c. 44, s. 256AB(4) (as extended (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 247(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/247/5), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
 [^c12953231]: Modification: Pt. IV applied (with modifications) (25.8.2000) by [1997 c. 43](https://www.legislation.gov.uk/ukpga/1997/43), [s. 35(4)(b)(5)](https://www.legislation.gov.uk/ukpga/1997/43/section/35/4/b/5) (as substituted (25.8.2000) by [2000 c. 6](https://www.legislation.gov.uk/ukpga/2000/6), [ss. 165](https://www.legislation.gov.uk/ukpga/2000/6/section/165), [168(1)](https://www.legislation.gov.uk/ukpga/2000/6/section/168/1), [Sch. 9 para. 184(3)](https://www.legislation.gov.uk/ukpga/2000/6/schedule/9/paragraph/184/3))
 
-[^key-57c0117d33ae3277e10960ab76ba4fb6]: Textual amendment: Words in Pt. IV heading substituted (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 32 para. 94](https://www.legislation.gov.uk/ukpga/2003/44/schedule/32/paragraph/94); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(34)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/34) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-57c0117d33ae3277e10960ab76ba4fb6]: Textual amendment: Words in Pt. IV heading substituted (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 32 para. 94](https://www.legislation.gov.uk/ukpga/2003/44/schedule/32/paragraph/94); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(34)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/34) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-2a3290d30930cbe750ff846f9586a457]: Textual amendment: Pt. IV Ch. I repealed (30.11.2009 except for the repeal of ss. 33(1)(c), 36B) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/6/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f/u) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
+[^c-2a3290d30930cbe750ff846f9586a457]: Textual amendment: Pt. IV Ch. I repealed (30.11.2009 except for the repeal of ss. 33(1)(c), 36B) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/6/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f/u) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
 
-[^key-f222bf45cc8258fe5c6b1940b17345aa]: Textual amendment: Words in Pt. IV Ch. I heading substituted (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 32 para. 94](https://www.legislation.gov.uk/ukpga/2003/44/schedule/32/paragraph/94); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(34)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/34) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
+[^c-f222bf45cc8258fe5c6b1940b17345aa]: Textual amendment: Words in Pt. IV Ch. I heading substituted (4.4.2005) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 32 para. 94](https://www.legislation.gov.uk/ukpga/2003/44/schedule/32/paragraph/94); [S.I. 2005/950](https://www.legislation.gov.uk/uksi/2005/950), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/950/article/2/1), [Sch. 1 para. 42(34)](https://www.legislation.gov.uk/uksi/2005/950/schedule/1/paragraph/42/34) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/950/schedule/2)) (as explained (29.7.2005) by [S.I. 2005/2122](https://www.legislation.gov.uk/uksi/2005/2122), art. 2; and as amended: (14.7.2008) by [2008 c. 4](https://www.legislation.gov.uk/ukpga/2008/4), Sch. 26 para. 78, Sch. 28 Pt. 2; [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), Sch. 1 paras. 48(s), 50(2)(d); (30.11.2009) by [S.I. 2009/3111](https://www.legislation.gov.uk/uksi/2009/3111), art. 2; (3.12.2012) by [S.I. 2012/2905](https://www.legislation.gov.uk/uksi/2012/2905), art. 4; (3.12.2012) by [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10), Sch. 14 para. 17; [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), art. 2(l))
 
-[^key-2718b1f7cffd34a53cd373e48de3175f]: Textual amendment: Pt. IV Ch. II repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/6/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f/u) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
+[^c-2718b1f7cffd34a53cd373e48de3175f]: Textual amendment: Pt. IV Ch. II repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/6/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f/u) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
 
-[^key-cff423f11f2794936b2a61204756106b]: Textual amendment: Pt. IV Ch. IV repealed (30.11.2009 for the repeal of s. 60(1)(a)) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/6/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f/u) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
+[^c-cff423f11f2794936b2a61204756106b]: Textual amendment: Pt. IV Ch. IV repealed (30.11.2009 for the repeal of s. 60(1)(a)) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/6/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f/u) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
 
-[^key-93db78df548a28a1742f412c112c0a15]: Textual amendment: Pt. IV Ch. V repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/6/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f/u) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
+[^c-93db78df548a28a1742f412c112c0a15]: Textual amendment: Pt. IV Ch. V repealed (30.11.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/6/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) (with [Sch. 27 paras. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/1)[5](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/5)); [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(f)(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/f/u) (with [art. 4](https://www.legislation.gov.uk/uksi/2009/3074/article/4))
 
 [^c12955271]: Textual amendment: S. 82A and cross-heading inserted (30.11.2000) by [2000 c. 43](https://www.legislation.gov.uk/ukpga/2000/43), [ss. 60(1)](https://www.legislation.gov.uk/ukpga/2000/43/section/60/1), [80(3)](https://www.legislation.gov.uk/ukpga/2000/43/section/80/3)
 
-[^key-9f80196ea7a990b5ae450f56286a5efa]: Modification: Pt. 5 Ch. 2 power to modify, amend or repeal conferred (30.9.2003) by [Armed Forces Act 2001 (c. 19)](https://www.legislation.gov.uk/ukpga/2001/19), [ss. 31(1)(a)](https://www.legislation.gov.uk/ukpga/2001/19/section/31/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2001/19/section/31/3)[(6)](https://www.legislation.gov.uk/ukpga/2001/19/section/31/6)[(7)](https://www.legislation.gov.uk/ukpga/2001/19/section/31/7), [39(2)](https://www.legislation.gov.uk/ukpga/2001/19/section/39/2); [S.I. 2003/2268](https://www.legislation.gov.uk/uksi/2003/2268), [art. 2](https://www.legislation.gov.uk/uksi/2003/2268/article/2)
+[^c-9f80196ea7a990b5ae450f56286a5efa]: Modification: Pt. 5 Ch. 2 power to modify, amend or repeal conferred (30.9.2003) by [Armed Forces Act 2001 (c. 19)](https://www.legislation.gov.uk/ukpga/2001/19), [ss. 31(1)(a)](https://www.legislation.gov.uk/ukpga/2001/19/section/31/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2001/19/section/31/3)[(6)](https://www.legislation.gov.uk/ukpga/2001/19/section/31/6)[(7)](https://www.legislation.gov.uk/ukpga/2001/19/section/31/7), [39(2)](https://www.legislation.gov.uk/ukpga/2001/19/section/39/2); [S.I. 2003/2268](https://www.legislation.gov.uk/uksi/2003/2268), [art. 2](https://www.legislation.gov.uk/uksi/2003/2268/article/2)
 
-[^key-dbbd903556ef20ff60be077e39a7e098]: Modification: Pt. 5 Ch. 4 modified (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 244(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/2)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/5), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [244(3)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/3), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-dbbd903556ef20ff60be077e39a7e098]: Modification: Pt. 5 Ch. 4 modified (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [ss. 244(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/1)[(2)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/2)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/5), [416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1) (with [ss. 2](https://www.legislation.gov.uk/ukpga/2020/17/section/2), [244(3)](https://www.legislation.gov.uk/ukpga/2020/17/section/244/3), [398(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/398/1), [406](https://www.legislation.gov.uk/ukpga/2020/17/section/406), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-3cdea8fc4c228f6072fd8e13b3a0a33e]: Textual amendment: Word in s. 139 cross-heading substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 164](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/164) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3cdea8fc4c228f6072fd8e13b3a0a33e]: Textual amendment: Word in s. 139 cross-heading substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 164](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/164) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

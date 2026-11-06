@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Non-commercial air transport aircraft – aerodrome operating minima[^key-3604ddb85a5c0b4ad95b29a7547848ad]
+## 75. Non-commercial air transport aircraft – aerodrome operating minima[^c-3604ddb85a5c0b4ad95b29a7547848ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ unless in either case from such height the specified visual reference for landin
 
 ## Annotations
 
-[^key-3604ddb85a5c0b4ad95b29a7547848ad]: Commencement: [Art. 75](https://www.legislation.gov.uk/uksi/2013/2870/article/75) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-3604ddb85a5c0b4ad95b29a7547848ad]: Commencement: [Art. 75](https://www.legislation.gov.uk/uksi/2013/2870/article/75) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

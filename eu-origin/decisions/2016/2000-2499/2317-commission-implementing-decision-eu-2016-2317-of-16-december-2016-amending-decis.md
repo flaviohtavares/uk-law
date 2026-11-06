@@ -37,49 +37,49 @@ amending Decision 2008/294/EC and Implementing Decision 2013/654/EU, in order to
 
 (Text with EEA relevance) (revoked)
 
-[^key-508575198d7f906e8aa8cc2b87ac7b4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-508575198d7f906e8aa8cc2b87ac7b4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-508575198d7f906e8aa8cc2b87ac7b4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-508575198d7f906e8aa8cc2b87ac7b4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-508575198d7f906e8aa8cc2b87ac7b4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-508575198d7f906e8aa8cc2b87ac7b4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-508575198d7f906e8aa8cc2b87ac7b4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-508575198d7f906e8aa8cc2b87ac7b4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-508575198d7f906e8aa8cc2b87ac7b4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-508575198d7f906e8aa8cc2b87ac7b4a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-508575198d7f906e8aa8cc2b87ac7b4a]
+## ANNEX[^c-508575198d7f906e8aa8cc2b87ac7b4a]
 
-[^key-508575198d7f906e8aa8cc2b87ac7b4a]1.
+[^c-508575198d7f906e8aa8cc2b87ac7b4a]1.
 
 **Frequency bands and systems allowed for MCA Services**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-508575198d7f906e8aa8cc2b87ac7b4a]2.
+[^c-508575198d7f906e8aa8cc2b87ac7b4a]2.
 
 **Prevention of connection of mobile terminals to ground networks**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-508575198d7f906e8aa8cc2b87ac7b4a]3.
+[^c-508575198d7f906e8aa8cc2b87ac7b4a]3.
 
 **Technical parameters**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-508575198d7f906e8aa8cc2b87ac7b4a](a)
+[^c-508575198d7f906e8aa8cc2b87ac7b4a](a)
 
 **Equivalent isotropic radiated power (e.i.r.p.), outside the aircraft, from the NCU/aircraft BTS/aircraft Node B**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-508575198d7f906e8aa8cc2b87ac7b4a](b)
+[^c-508575198d7f906e8aa8cc2b87ac7b4a](b)
 
 **Equivalent isotropic radiated power (e.i.r.p.), outside the aircraft, from the on-board terminal**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-508575198d7f906e8aa8cc2b87ac7b4a](c)
+[^c-508575198d7f906e8aa8cc2b87ac7b4a](c)
 
 **Operational requirements**
 
@@ -87,4 +87,4 @@ amending Decision 2008/294/EC and Implementing Decision 2013/654/EU, in order to
 
 ## Annotations
 
-[^key-508575198d7f906e8aa8cc2b87ac7b4a]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/38); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-508575198d7f906e8aa8cc2b87ac7b4a]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/38); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

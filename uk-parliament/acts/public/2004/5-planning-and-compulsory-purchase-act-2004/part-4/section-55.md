@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Time in which Secretary of State to take decisions[^key-887b637d778201a33b20ecd2ef383295]
+## 55. Time in which Secretary of State to take decisions[^c-887b637d778201a33b20ecd2ef383295]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-887b637d778201a33b20ecd2ef383295]: Commencement: S. 55 in force at 1.4.2005 for E. so far as not already in force by [S.I. 2005/204](https://www.legislation.gov.uk/uksi/2005/204), [art. 3](https://www.legislation.gov.uk/uksi/2005/204/article/3)
+[^c-887b637d778201a33b20ecd2ef383295]: Commencement: S. 55 in force at 1.4.2005 for E. so far as not already in force by [S.I. 2005/204](https://www.legislation.gov.uk/uksi/2005/204), [art. 3](https://www.legislation.gov.uk/uksi/2005/204/article/3)

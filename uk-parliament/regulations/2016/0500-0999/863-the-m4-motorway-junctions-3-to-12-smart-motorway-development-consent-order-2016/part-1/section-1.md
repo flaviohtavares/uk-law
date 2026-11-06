@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-a8cc2dd85af4e4f16c2d07f8ff4c379d]
+## 1. Citation and commencement[^c-a8cc2dd85af4e4f16c2d07f8ff4c379d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the M4 Motorway (Junctions 3 to 12) (Smart Motorway) 
 
 ## Annotations
 
-[^key-a8cc2dd85af4e4f16c2d07f8ff4c379d]: Commencement: Art. 1 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-a8cc2dd85af4e4f16c2d07f8ff4c379d]: Commencement: Art. 1 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)

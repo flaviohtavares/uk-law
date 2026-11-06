@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Corresponding number lists[^key-8538702e16987d7587724b7ffc0416a2]
+## 11. Corresponding number lists[^c-8538702e16987d7587724b7ffc0416a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8538702e16987d7587724b7ffc0416a2]: Commencement: Reg. 11 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-8538702e16987d7587724b7ffc0416a2]: Commencement: Reg. 11 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

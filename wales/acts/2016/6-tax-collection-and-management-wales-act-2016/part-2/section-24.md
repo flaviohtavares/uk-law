@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Rewards[^key-a55232e097e6c976e97b7631bc106940]
+## 24. Rewards[^c-a55232e097e6c976e97b7631bc106940]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ WRA may pay a reward to a person in return for a service which relates to any of
 
 ## Annotations
 
-[^key-a55232e097e6c976e97b7631bc106940]: Commencement: S. 24 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-a55232e097e6c976e97b7631bc106940]: Commencement: S. 24 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)

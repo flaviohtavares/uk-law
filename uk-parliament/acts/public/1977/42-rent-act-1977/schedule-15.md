@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 15 — Grounds for Possession of Dwelling-Houses Let on or Subject to Protected or Statutory Tenancies[^key-86d9765fb219fc2f3f5b67605c6036f1]
+## SCHEDULE 15 — Grounds for Possession of Dwelling-Houses Let on or Subject to Protected or Statutory Tenancies[^c-86d9765fb219fc2f3f5b67605c6036f1]
 
 *Extent: E+W*
 
@@ -76,7 +76,7 @@ Where the dwelling-house is reasonably required by the landlord for occupation a
 - (a) himself, or
 - (b) any son or daughter of his over 18 years of age, or
 - (c) his father or mother, or
-- (d) if the dwelling-house is let on or subject to a regulated tenancy, the father or mother of his spouse or civil partner[^key-ed6baf7e730c83d74e151cafde642d1b],
+- (d) if the dwelling-house is let on or subject to a regulated tenancy, the father or mother of his spouse or civil partner[^c-ed6baf7e730c83d74e151cafde642d1b],
 
 and the landlord did not become landlord by purchasing the dwelling-house or any interest therein after—
 
@@ -92,7 +92,7 @@ Where the court is satisfied that the rent charged by the tenant—
 - (a) for any sublet part of the dwelling-house which is a dwelling-house let on a protected tenancy or subject to a statutory tenancy is or was in excess of the maximum rent for the time being recoverable for that part, having regard to . . . [^c16043141] Part III of this Act, or
 - (b) for any sublet part of the dwelling-house which is subject to a restricted contract is or was in excess of the maximum (if any) which it is lawful for the lessor, within the meaning of Part V of this Act to require or receive having regard to the provisions of that Part.
 
-#### Case 10A[^key-96bc8c4f640a52ac35d4ef885f1e8acc]
+#### Case 10A[^c-96bc8c4f640a52ac35d4ef885f1e8acc]
 
 Both of the following conditions are met in relation to a dwelling-house in England.
 
@@ -123,10 +123,10 @@ But P is to be treated as having a right to rent in relation to a dwelling-house
 In this case “**relevant national**” means—
 
 - (a) a British citizen,
-- (aa)[^key-88792c16b7f4923c005237b3d90eeda7] an Irish citizen, or
+- (aa)[^c-88792c16b7f4923c005237b3d90eeda7] an Irish citizen, or
 - (ab) a person who is not an Irish citizen and who has leave to enter or remain in the United Kingdom which was granted by virtue of residence scheme immigration rules within the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020.
-- (b)[^key-4a9d0661d400dfdc31b4af28817b14fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-4a9d0661d400dfdc31b4af28817b14fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-4a9d0661d400dfdc31b4af28817b14fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-4a9d0661d400dfdc31b4af28817b14fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Cases in Which Court Must Order Possession Where Dwelling-House Subject to Regulated Tenancy
 
@@ -328,7 +328,7 @@ shall be conclusive evidence of the facts so stated.
 
 ## Annotations
 
-[^key-86d9765fb219fc2f3f5b67605c6036f1]: Modification: [Sch. 15](https://www.legislation.gov.uk/ukpga/1977/42/schedule/15) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(d)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/d)
+[^c-86d9765fb219fc2f3f5b67605c6036f1]: Modification: [Sch. 15](https://www.legislation.gov.uk/ukpga/1977/42/schedule/15) applied (with modifications) (31.12.2020) by [The Citizens' Rights (Application Deadline and Temporary Protection) (EU Exit) Regulations 2020 (S.I. 2020/1209)](https://www.legislation.gov.uk/uksi/2020/1209), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/1/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/3/4), [4(5)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/4/5), [12(1)(d)](https://www.legislation.gov.uk/uksi/2020/1209/regulation/12/1/d)
 
 [^c16043081]: Textual amendment: Case 6 para. (*a*) repealed by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 26](https://www.legislation.gov.uk/ukpga/1980/51/schedule/26)
 
@@ -338,7 +338,7 @@ shall be conclusive evidence of the facts so stated.
 
 [^c16043111]: Textual amendment: Case 7 repealed by [Housing Act 1980 (c. 51, SIF61)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 26](https://www.legislation.gov.uk/ukpga/1980/51/schedule/26)
 
-[^key-ed6baf7e730c83d74e151cafde642d1b]: Textual amendment: Words in Sch. 15 Pt. I substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/14); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
+[^c-ed6baf7e730c83d74e151cafde642d1b]: Textual amendment: Words in Sch. 15 Pt. I substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 14](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/14); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
 [^c16043121]: Textual amendment: Words substituted by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 25 Pt. I para. 57](https://www.legislation.gov.uk/ukpga/1980/51/schedule/25/part/I/paragraph/57) in relation to any tenancy which was a controlled tenancy on 7.11.1956 notwithstanding that it ceased to be a controlled tenancy before 28.11.1980
 
@@ -346,11 +346,11 @@ shall be conclusive evidence of the facts so stated.
 
 [^c16043141]: Textual amendment: Words repealed by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 26](https://www.legislation.gov.uk/ukpga/1980/51/schedule/26)
 
-[^key-96bc8c4f640a52ac35d4ef885f1e8acc]: Textual amendment: Sch. 15 Pt. I Case 10A inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 41(6)](https://www.legislation.gov.uk/ukpga/2016/19/section/41/6), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1) (with [s. 41(7)](https://www.legislation.gov.uk/ukpga/2016/19/section/41/7)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(e)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/e)
+[^c-96bc8c4f640a52ac35d4ef885f1e8acc]: Textual amendment: Sch. 15 Pt. I Case 10A inserted (1.12.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 41(6)](https://www.legislation.gov.uk/ukpga/2016/19/section/41/6), [94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1) (with [s. 41(7)](https://www.legislation.gov.uk/ukpga/2016/19/section/41/7)); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(e)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/e)
 
-[^key-88792c16b7f4923c005237b3d90eeda7]: Textual amendment: Words in Sch. 15 Pt. I Case 10A inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/6/2/a)
+[^c-88792c16b7f4923c005237b3d90eeda7]: Textual amendment: Words in Sch. 15 Pt. I Case 10A inserted (31.12.2020) by [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/6/2/a)
 
-[^key-4a9d0661d400dfdc31b4af28817b14fd]: Textual amendment: Words in Sch. 15 Pt. I Case 10A omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/6/2/b)
+[^c-4a9d0661d400dfdc31b4af28817b14fd]: Textual amendment: Words in Sch. 15 Pt. I Case 10A omitted (31.12.2020) by virtue of [The Immigration and Social Security Co-ordination (EU Withdrawal) Act 2020 (Consequential, Saving, Transitional and Transitory Provisions) (EU Exit) Regulations 2020 (S.I. 2020/1309)](https://www.legislation.gov.uk/uksi/2020/1309), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/6/2/b)
 
 [^c16043151]: Textual amendment: Sch. 15 Pt.II*Case 11*: Words from “Where” to “residence” substituted for words from the beginning to “tenancy” by [Rent (Amendment) Act 1985 (c. 24, SIF 75:3, 4)](https://www.legislation.gov.uk/ukpga/1985/24), [s. 1(1)(4)](https://www.legislation.gov.uk/ukpga/1985/24/section/1/1/4)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Pilot scheme[^key-60e772747da6d8271bd72782d88c0074]
+## 34. Pilot scheme[^c-60e772747da6d8271bd72782d88c0074]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-60e772747da6d8271bd72782d88c0074]: Commencement: S. 34 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-60e772747da6d8271bd72782d88c0074]: Commencement: S. 34 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

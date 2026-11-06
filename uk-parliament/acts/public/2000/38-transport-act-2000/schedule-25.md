@@ -83,7 +83,7 @@ Section 240.
 - (a) for the purposes of Part XI of the [^c14889871]Employment Rights Act 1996, he shall not be regarded as having been dismissed by virtue of the transfer, and
 - (b) for the purposes of that Act, his period of employment with the Board counts as a period of employment in the civil service of the state and the change of employment does not break the continuity of the period of employment.
 
-### Duties in relation to foreign property[^key-5559dd01ebc4d1bec8f6237e9477244b]
+### Duties in relation to foreign property[^c-5559dd01ebc4d1bec8f6237e9477244b]
 
 **12A.** (1) Where there is a transfer in accordance with a transfer scheme of—
 
@@ -123,7 +123,7 @@ the Board and the Secretary of State must take all requisite steps to secure tha
 
 *Extent: E+W+S*
 
-**15.** Before making a transfer scheme, or an order modifying such a scheme, the Secretary of State shall consult the Board [^key-45915b95d2bb0115a2d5516f9d7befcb]... .
+**15.** Before making a transfer scheme, or an order modifying such a scheme, the Secretary of State shall consult the Board [^c-45915b95d2bb0115a2d5516f9d7befcb]... .
 
 ## Annotations
 
@@ -155,10 +155,10 @@ the Board and the Secretary of State must take all requisite steps to secure tha
 
 [^c14889871]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-5559dd01ebc4d1bec8f6237e9477244b]: Textual amendment: Sch. 25 para. 12A and cross-heading inserted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 17(8)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/17/8); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
+[^c-5559dd01ebc4d1bec8f6237e9477244b]: Textual amendment: Sch. 25 para. 12A and cross-heading inserted (24.7.2005) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 12 para. 17(8)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/12/paragraph/17/8); [S.I. 2005/1909](https://www.legislation.gov.uk/uksi/2005/1909), [art. 2](https://www.legislation.gov.uk/uksi/2005/1909/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2005/1909/schedule)
 
 [^c14889881]: Commencement: Sch. 25 para. 13 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
 [^c14889891]: Commencement: Sch. 25 para. 14 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-45915b95d2bb0115a2d5516f9d7befcb]: Textual amendment: Words in Sch. 25 para. 15 repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-45915b95d2bb0115a2d5516f9d7befcb]: Textual amendment: Words in Sch. 25 para. 15 repealed (1.12.2006) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [s. 60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2), [Sch. 13 Pt. 1](https://www.legislation.gov.uk/ukpga/2005/14/schedule/13/part/1) (with [s. 14(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/4)[(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/14/5), [Sch. 11 para. 11(2)](https://www.legislation.gov.uk/ukpga/2005/14/schedule/11/paragraph/11/2)); [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)

@@ -24,7 +24,7 @@ summary: ''
 
 (2) The statutory reserve may only be applied by the successor company in paying up unissued shares of the company to be allotted to members of the company as fully paid bonus shares.
 
-(3) Notwithstanding subsection (2) above, the statutory reserve shall not count as an undistributable reserve of the successor company for the purposes of section 831(4)(d) of the Companies Act 2006[^key-4363300829b3a80f30d01a26b3761ff8]; but for the purpose of determining under that section whether the successor company may make a distribution at any time any amount for the time being standing to the credit of the statutory reserve shall be treated for the purposes of section 831(4)(c)[^key-bcc83a7be56f9400f0adf09f676303ec] as if it were unrealised profits of the company.
+(3) Notwithstanding subsection (2) above, the statutory reserve shall not count as an undistributable reserve of the successor company for the purposes of section 831(4)(d) of the Companies Act 2006[^c-4363300829b3a80f30d01a26b3761ff8]; but for the purpose of determining under that section whether the successor company may make a distribution at any time any amount for the time being standing to the credit of the statutory reserve shall be treated for the purposes of section 831(4)(c)[^c-bcc83a7be56f9400f0adf09f676303ec] as if it were unrealised profits of the company.
 
 (4) For the purposes of any statutory accounts of the successor company—
 
@@ -39,8 +39,8 @@ Accordingly (but without prejudice to the generality of the preceding provision)
 
 ## Annotations
 
-[^key-4363300829b3a80f30d01a26b3761ff8]: Textual amendment: Words in s. 55(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 70(5)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/70/5/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-4363300829b3a80f30d01a26b3761ff8]: Textual amendment: Words in s. 55(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 70(5)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/70/5/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-bcc83a7be56f9400f0adf09f676303ec]: Textual amendment: Words in s. 55(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 70(5)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/70/5/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-bcc83a7be56f9400f0adf09f676303ec]: Textual amendment: Words in s. 55(3) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 70(5)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/70/5/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c14435981]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).

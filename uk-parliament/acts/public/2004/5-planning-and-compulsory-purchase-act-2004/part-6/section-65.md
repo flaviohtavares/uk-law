@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 65. Intervention by Assembly[^key-39cc158e16bfa28e63b1dd986b8c3adb]
+## 65. Intervention by Assembly[^c-39cc158e16bfa28e63b1dd986b8c3adb]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39cc158e16bfa28e63b1dd986b8c3adb]: Commencement: S. 65 in force at 5.10.2005 for specified purposes and 15.10.2005 in so far as not already in force by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2722/article/2/c)
+[^c-39cc158e16bfa28e63b1dd986b8c3adb]: Commencement: S. 65 in force at 5.10.2005 for specified purposes and 15.10.2005 in so far as not already in force by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), [art. 2(c)](https://www.legislation.gov.uk/uksi/2005/2722/article/2/c)

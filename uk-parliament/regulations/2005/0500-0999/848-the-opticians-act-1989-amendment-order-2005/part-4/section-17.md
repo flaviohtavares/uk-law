@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Proceedings and appeals[^key-41f7af6d5c1fd0bb7daee069972740e2]
+## 17. Proceedings and appeals[^c-41f7af6d5c1fd0bb7daee069972740e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -245,4 +245,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41f7af6d5c1fd0bb7daee069972740e2]: Commencement: Art. 17 comes into force in accordance with art. 1(3)-(6)
+[^c-41f7af6d5c1fd0bb7daee069972740e2]: Commencement: Art. 17 comes into force in accordance with art. 1(3)-(6)

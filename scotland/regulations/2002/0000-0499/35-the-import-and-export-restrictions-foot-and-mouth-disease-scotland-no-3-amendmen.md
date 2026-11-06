@@ -51,9 +51,9 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (1) These Regulations may be cited as the Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Amendment (No. 2) Regulations 2002 and shall come into force at 12 noon on 1st February 2002.
 
-(2)[^key-5ba09526b8dc47fdde8884f5228437c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-5ba09526b8dc47fdde8884f5228437c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Regulations 2001[^key-b75cfa2d23b9804b354e060a72a8ef38]
+## 2. Amendment to the Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Regulations 2001[^c-b75cfa2d23b9804b354e060a72a8ef38]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -133,11 +133,11 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 (3) Regulations 4, 5, 6(4) and 7 of the Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 2) Amendment (No. 4) Regulations 2001 [^c9798771] are omitted.
 
-(4)[^key-1d0fe1a7699a49271fa117407ce25224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1d0fe1a7699a49271fa117407ce25224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-1d0fe1a7699a49271fa117407ce25224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-1d0fe1a7699a49271fa117407ce25224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-1d0fe1a7699a49271fa117407ce25224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-1d0fe1a7699a49271fa117407ce25224] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 DAVID DICKSON
 
@@ -181,9 +181,9 @@ A Regulatory Impact Assessment has not been prepared for these Regulations.
 
 [^c9798561]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46), [Schedule 8](https://www.legislation.gov.uk/ukpga/1998/46/schedule/8), [paragraph 15(3)](https://www.legislation.gov.uk/ukpga/1998/46/paragraph/15/3). The functions conferred upon the Minister of the Crown under section 2(2) of the 1972 Act, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-5ba09526b8dc47fdde8884f5228437c7]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/ssi/2002/35/regulation/1/2) omitted (29.3.2002) by virtue of [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Amendment (No. 2) Amendment Regulations 2002 (S.S.I. 2002/169)](https://www.legislation.gov.uk/ssi/2002/169), [regs. 1](https://www.legislation.gov.uk/ssi/2002/169/regulation/1), [2](https://www.legislation.gov.uk/ssi/2002/169/regulation/2)
+[^c-5ba09526b8dc47fdde8884f5228437c7]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/ssi/2002/35/regulation/1/2) omitted (29.3.2002) by virtue of [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Amendment (No. 2) Amendment Regulations 2002 (S.S.I. 2002/169)](https://www.legislation.gov.uk/ssi/2002/169), [regs. 1](https://www.legislation.gov.uk/ssi/2002/169/regulation/1), [2](https://www.legislation.gov.uk/ssi/2002/169/regulation/2)
 
-[^key-b75cfa2d23b9804b354e060a72a8ef38]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2002/35/regulation/2) revoked (7.3.2002) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Revocation Regulations 2002 (S.S.I. 2002/109)](https://www.legislation.gov.uk/ssi/2002/109), [reg. 1](https://www.legislation.gov.uk/ssi/2002/109/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2002/109/schedule)
+[^c-b75cfa2d23b9804b354e060a72a8ef38]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/ssi/2002/35/regulation/2) revoked (7.3.2002) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Revocation Regulations 2002 (S.S.I. 2002/109)](https://www.legislation.gov.uk/ssi/2002/109), [reg. 1](https://www.legislation.gov.uk/ssi/2002/109/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2002/109/schedule)
 
 [^c9798721]: Marginal citation: [S. I. 1994/3082](https://www.legislation.gov.uk/uksi/1994/3082) as relevantly amended by [S.S.I. 2001/160](https://www.legislation.gov.uk/ssi/2001/160), 358, 394 and 429.
 
@@ -197,4 +197,4 @@ A Regulatory Impact Assessment has not been prepared for these Regulations.
 
 [^c9798771]: Marginal citation: [S.S.I. 2001/394](https://www.legislation.gov.uk/ssi/2001/394), amended by [S.S.I. 2001/415](https://www.legislation.gov.uk/ssi/2001/415) and revoked in part by [S.S.I. 2001/429](https://www.legislation.gov.uk/ssi/2001/429).
 
-[^key-1d0fe1a7699a49271fa117407ce25224]: Textual amendment: [Reg. 6(4)-(6)](https://www.legislation.gov.uk/ssi/2002/35/regulation/6/4) revoked (7.3.2002) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Revocation Regulations 2002 (S.S.I. 2002/109)](https://www.legislation.gov.uk/ssi/2002/109), [reg. 1](https://www.legislation.gov.uk/ssi/2002/109/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2002/109/schedule)
+[^c-1d0fe1a7699a49271fa117407ce25224]: Textual amendment: [Reg. 6(4)-(6)](https://www.legislation.gov.uk/ssi/2002/35/regulation/6/4) revoked (7.3.2002) by [The Import and Export Restrictions (Foot-and-Mouth Disease) (Scotland) (No. 3) Revocation Regulations 2002 (S.S.I. 2002/109)](https://www.legislation.gov.uk/ssi/2002/109), [reg. 1](https://www.legislation.gov.uk/ssi/2002/109/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2002/109/schedule)

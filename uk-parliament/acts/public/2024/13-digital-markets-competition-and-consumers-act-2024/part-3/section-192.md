@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192. Final breach of directions enforcement notice[^key-b02a58cc10cd6c7e58feb1d330bed30c][^key-6a8a5720bf24af1287cd298c25bee7ca][^key-5614070694a9dda26fe3e066da5da053]
+## 192. Final breach of directions enforcement notice[^c-b02a58cc10cd6c7e58feb1d330bed30c][^c-6a8a5720bf24af1287cd298c25bee7ca][^c-5614070694a9dda26fe3e066da5da053]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b02a58cc10cd6c7e58feb1d330bed30c]: Commencement: S. 192 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-b02a58cc10cd6c7e58feb1d330bed30c]: Commencement: S. 192 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-6a8a5720bf24af1287cd298c25bee7ca]: Modification: [Ss. 191-196](https://www.legislation.gov.uk/ukpga/2024/13/section/191) applied (24.5.2024 for specified purposes, 6.4.2025 in so far as not already in force) by 2015 c. 15, Sch. 5 para. 16C(11) (as inserted by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c), [Sch. 17 para. 2(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/2/3) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8))
+[^c-6a8a5720bf24af1287cd298c25bee7ca]: Modification: [Ss. 191-196](https://www.legislation.gov.uk/ukpga/2024/13/section/191) applied (24.5.2024 for specified purposes, 6.4.2025 in so far as not already in force) by 2015 c. 15, Sch. 5 para. 16C(11) (as inserted by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c), [Sch. 17 para. 2(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/17/paragraph/2/3) (with [Sch. 19](https://www.legislation.gov.uk/ukpga/2024/13/schedule/19)); [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(8)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/8))
 
-[^key-5614070694a9dda26fe3e066da5da053]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2024/13/section/192) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-5614070694a9dda26fe3e066da5da053]: Commencement: [S. 192](https://www.legislation.gov.uk/ukpga/2024/13/section/192) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

@@ -44,7 +44,7 @@ summary: ''
 - [^c19743361]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - “**tax avoidance purpose**” means any purpose that consists in securing a tax advantage (whether for the holder of the policy or any other person).
 
-(7)[^c19743391] In this section “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^key-14f0320cf776211b77dee8e4883ce067].
+(7)[^c19743391] In this section “**tax advantage**” has the meaning given by section 1139 of CTA 2010[^c-14f0320cf776211b77dee8e4883ce067].
 
 ## Annotations
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c19743391]: Textual amendment: S. 482(7) inserted (6.4.2007 with effect as stated in [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [ss. 1027](https://www.legislation.gov.uk/ukpga/2007/3/section/1027), [1034](https://www.legislation.gov.uk/ukpga/2007/3/section/1034), [Sch. 1 para. 533(b)](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/533/b), (with transitional provisions and savings in Sch. 2)
 
-[^key-14f0320cf776211b77dee8e4883ce067]: Textual amendment: Words in s. 482(7) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 468](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/468) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-14f0320cf776211b77dee8e4883ce067]: Textual amendment: Words in s. 482(7) substituted (1.4.2010) (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 468](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/468) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

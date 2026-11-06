@@ -48,13 +48,13 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 ## Introductory
 
-### 1. Citation and commencement[^key-63d09fe01bbcc7ecc151c0ccd3cc78a9]
+### 1. Citation and commencement[^c-63d09fe01bbcc7ecc151c0ccd3cc78a9]
 
 (1) These Regulations may be cited as the International Tax Compliance (Crown Dependencies and Gibraltar) Regulations 2014.
 
 (2) These Regulations come into force on 31st March 2014.
 
-### 2. Implementation of the agreements etc[^key-ed798d50e6a62fb54b3831f8fecaaba6]
+### 2. Implementation of the agreements etc[^c-ed798d50e6a62fb54b3831f8fecaaba6]
 
 (1) These Regulations have effect for and in connection with the implementation of obligations arising under each of the Isle of Man agreement, the Guernsey agreement, the Jersey agreement and the Gibraltar agreement and apply separately in relation to each of those agreements.
 
@@ -80,7 +80,7 @@ as the context may require.
 
 ## Scope
 
-### 3. Scope: definition of “reporting financial institution”[^key-3cb0406d3ddd177049aa2069f309fd0a]
+### 3. Scope: definition of “reporting financial institution”[^c-3cb0406d3ddd177049aa2069f309fd0a]
 
 (1) In these Regulations “reporting financial institution” means a person who carries on business in the United Kingdom as—
 
@@ -99,7 +99,7 @@ as the context may require.
 (4) For the purposes of these Regulations a person (person A) carries on business in the United Kingdom as an investment entity if—
 
 - (a) person A undertakes any of the activities referred to in sub-paragraph 1.j(1) to (3) of Article 1 of the relevant agreement in the course of carrying on business in the United Kingdom, and the gross amount of person A’s income of that business for the applicable period wholly or mainly derives from those activities, or
-- (b) on behalf of person A, a financial institution (person B) undertakes any of the activities referred to in sub-paragraph 1.j(1) to (3) of Article 1 of the relevant agreement in the course of carrying on business in the United Kingdom, and the gross amount of person A’s income [^key-76b8043c34e7d728f3417a89c3bbc392]... for the applicable period wholly or mainly derives from investing or dealing in financial assets.
+- (b) on behalf of person A, a financial institution (person B) undertakes any of the activities referred to in sub-paragraph 1.j(1) to (3) of Article 1 of the relevant agreement in the course of carrying on business in the United Kingdom, and the gross amount of person A’s income [^c-76b8043c34e7d728f3417a89c3bbc392]... for the applicable period wholly or mainly derives from investing or dealing in financial assets.
 
 (5) For the purposes of these Regulations—
 
@@ -117,11 +117,11 @@ as the context may require.
 - (a) more than 20% of the gross amount of the income of that business as is carried on in the United Kingdom for the applicable period derives from any of—
   - (i) holding financial assets for the account of another person, and
   - (ii) performing related financial services, or
-- (b) the person holds financial[^key-4ea19f631af7680860f16f54bccfc326] assets in the United Kingdom as a nominee for another person who is a connected person within the meaning of section 1122 of CTA 2010[^f00012].
+- (b) the person holds financial[^c-4ea19f631af7680860f16f54bccfc326] assets in the United Kingdom as a nominee for another person who is a connected person within the meaning of section 1122 of CTA 2010[^f00012].
 
 (8) In paragraph (7)(a)(ii) “related financial services” means financial services provided by the person that directly relate to that person holding financial assets on behalf of the other person.
 
-(9) In paragraphs (7)[^key-2c7deedc87afff85da6a7fa888559c8a]... and (8) “financial assets” means—
+(9) In paragraphs (7)[^c-2c7deedc87afff85da6a7fa888559c8a]... and (8) “financial assets” means—
 
 - (a) assets capable of being the subject-matter of a transaction that is an “investment transaction” within the meaning of regulation 14F of Part 2B of the Authorised Investment Funds (Tax) Regulations 2006[^f00013],
 - (b) insurance or annuity contracts,
@@ -139,7 +139,7 @@ as the context may require.
 
   and “accounting date” here has the same meaning as is given to it by section 1119 CTA 2010.
 
-### 4. Scope: definition of “reportable account”[^key-83f28664f771eed48eb8228f76063e79]
+### 4. Scope: definition of “reportable account”[^c-83f28664f771eed48eb8228f76063e79]
 
 (1) In these Regulations a “reportable account” means—
 
@@ -175,7 +175,7 @@ the institution must apply the account balance aggregation and currency translat
 
 But, in determining the balance or value of an account denominated in a currency other than US dollars, instead of applying the currency translation rule in sub-paragraph VI.C.4 of Annex I, the institution may translate the relevant dollar threshold amounts referred to in Annex 1 and regulation 6(4) into the other currency by reference to the spot rate of exchange on the date for which the institution is determining the threshold amounts.
 
-### 5. Scope: non-resident reporting financial institution’s UK representative[^key-d6d2b8a71f4ee6665a95e059abe8da15]
+### 5. Scope: non-resident reporting financial institution’s UK representative[^c-d6d2b8a71f4ee6665a95e059abe8da15]
 
 (1) If a reporting financial institution is not resident in the United Kingdom, the obligations of the institution under these Regulations are to be treated as if they were also the obligations of any UK representative of the institution.
 
@@ -191,7 +191,7 @@ But, in determining the balance or value of an account denominated in a currency
 
 ## Obligations in relation to financial accounts
 
-### 6. Identification obligations[^key-e5c82089f8dabe2561b8412ecb03d9c9]
+### 6. Identification obligations[^c-e5c82089f8dabe2561b8412ecb03d9c9]
 
 (1) A reporting financial institution must establish and maintain arrangements that are designed to identify reportable accounts.
 
@@ -266,7 +266,7 @@ the due diligence requirements in the case of that account do not include the re
 
 (9) For the purposes of this regulation references to the documentary evidence set out in paragraph VI.D of Annex I are to be treated as if the words “other than a Form W-8 or W-9” were omitted.
 
-### 7. Modification of due diligence requirements[^key-c6139e4bb43b5eace1a8a0ec1bc85bf9]
+### 7. Modification of due diligence requirements[^c-c6139e4bb43b5eace1a8a0ec1bc85bf9]
 
 (1) This regulation modifies the due diligence requirements set out in regulation 6 in the case of a reporting financial institution but only if it makes an election applying those modifications.
 
@@ -292,16 +292,16 @@ the due diligence requirements in the case of that account do not include the re
 - (b) must be made in the return required under regulation 8, and
 - (c) has effect in relation to the calendar year in respect of which the return is made and all later calendar years (unless subsequently withdrawn).
 
-### 8. Reporting obligations[^key-c2a033f5fd626c4231a4102a623296b3]
+### 8. Reporting obligations[^c-c2a033f5fd626c4231a4102a623296b3]
 
 (1) A reporting financial institution must, in respect of 2014 and every following calendar year, prepare a return setting out—
 
 - (a) the required information in relation to every reportable account of that category that is maintained by the institution at any time during the calendar year in question, and
 - (b) the institution’s Global Intermediary Identification Number (or, if it has not been allocated such a number, the Unique Taxpayer Reference number allocated to the institution by HMRC).
 
-(2)[^key-faa82b62948638f0608ff3d61ddcc90b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-faa82b62948638f0608ff3d61ddcc90b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) The return must be submitted electronically in accordance with regulation 8A[^key-6d1445fdfa5a2818cd32aa348a3d7854] on or before 31st May of the year following the calendar year to which the return relates (“the reporting date”).
+(3) The return must be submitted electronically in accordance with regulation 8A[^c-6d1445fdfa5a2818cd32aa348a3d7854] on or before 31st May of the year following the calendar year to which the return relates (“the reporting date”).
 
 (4) The required information is—
 
@@ -337,7 +337,7 @@ and “interest” here includes any amount that is chargeable as interest under
 
 (8) If a reporting financial institution does not hold the information that it is required to report under paragraph (4)(b), (f) and (g), the institution must obtain that information from the account holder.
 
-### 8A. Electronic return system[^key-48a2eed1fa5eefe2ad385b0e90e8abfc]
+### 8A. Electronic return system[^c-48a2eed1fa5eefe2ad385b0e90e8abfc]
 
 (1) The return must be made electronically using an electronic return system.
 
@@ -355,7 +355,7 @@ and “interest” here includes any amount that is chargeable as interest under
 
 (6) A return made using an electronic return system on behalf of a reporting financial institution is taken to have been made by that institution, unless the institution proves that the return was made without the institution’s authority.
 
-### 9. Modifications for calendar years 2014 to 2016[^key-9cc38a8287916b4d72c62e2f9b0fdeba]
+### 9. Modifications for calendar years 2014 to 2016[^c-9cc38a8287916b4d72c62e2f9b0fdeba]
 
 (1) In relation to any reportable account—
 
@@ -368,11 +368,11 @@ and “interest” here includes any amount that is chargeable as interest under
 
 ## Penalties for breach of obligations
 
-### 10. Penalties for failure to comply[^key-4585864b9213933f9c6626ede1eaed90]
+### 10. Penalties for failure to comply[^c-4585864b9213933f9c6626ede1eaed90]
 
 A person is liable to a penalty of £300 if the person fails to comply with any obligation under these Regulations.
 
-### 10A. Daily default penalty[^key-7656a2a0bb81c6ebac1367c10e3df8d1]
+### 10A. Daily default penalty[^c-7656a2a0bb81c6ebac1367c10e3df8d1]
 
 If—
 
@@ -381,7 +381,7 @@ If—
 
 the person is liable to a further penalty, for each subsequent day on which the failure continues, of an amount not exceeding £60 for each such day.
 
-### 11. Penalties for inaccurate information[^key-82358a79d98631c089369e3944f8286a]
+### 11. Penalties for inaccurate information[^c-82358a79d98631c089369e3944f8286a]
 
 (1) A person is liable to a penalty not exceeding £3,000 if—
 
@@ -400,9 +400,9 @@ the person is liable to a further penalty, for each subsequent day on which the 
 - (a) discovers the inaccuracy some time later, and
 - (b) fails to take reasonable steps to inform HMRC.
 
-### 12. Matters to be disregarded in relation to liability to penalties[^key-93402c402b01a11b871aa8e81a1ad653]
+### 12. Matters to be disregarded in relation to liability to penalties[^c-93402c402b01a11b871aa8e81a1ad653]
 
-(1) Liability to a penalty under regulation 10 , 10A[^key-3eeda12ee448d748452f6a5bd50da624] or 11 does not arise if the person satisfies HMRC or (on an appeal notified to the tribunal) the tribunal that there is a reasonable excuse for the failure.
+(1) Liability to a penalty under regulation 10 , 10A[^c-3eeda12ee448d748452f6a5bd50da624] or 11 does not arise if the person satisfies HMRC or (on an appeal notified to the tribunal) the tribunal that there is a reasonable excuse for the failure.
 
 (2) For the purposes of this regulation neither of the following is a reasonable excuse—
 
@@ -411,27 +411,27 @@ the person is liable to a further penalty, for each subsequent day on which the 
 
 (3) If a person had a reasonable excuse for a failure but the excuse has ceased, the person is to be treated as having continued to have the excuse if the failure is remedied without unreasonable delay after the excuse ceased.
 
-### 13. Assessment of penalties[^key-3148dd9d1e2a87b069e227028d5d2436]
+### 13. Assessment of penalties[^c-3148dd9d1e2a87b069e227028d5d2436]
 
-(1) If the reporting financial institution becomes liable to a penalty under regulation 10 , 10A[^key-67ac02034cdd6ffc12f806f657b8580a] or 11, an officer of Revenue and Customs may assess the penalty.
+(1) If the reporting financial institution becomes liable to a penalty under regulation 10 , 10A[^c-67ac02034cdd6ffc12f806f657b8580a] or 11, an officer of Revenue and Customs may assess the penalty.
 
 (2) If an officer does so, the officer must notify the institution.
 
-(3) An assessment of a penalty under regulation 10 or 10A[^key-4fbabd24fe51d8703aa40cc41a6086b7] must be made within the period of 12 months beginning with the date on which the person became liable to the penalty.
+(3) An assessment of a penalty under regulation 10 or 10A[^c-4fbabd24fe51d8703aa40cc41a6086b7] must be made within the period of 12 months beginning with the date on which the person became liable to the penalty.
 
 (4) An assessment of a penalty under regulation 11 must be made—
 
 - (a) within the period of 12 months beginning with the date on which the inaccuracy first came to the attention of an officer of Revenue and Customs, and
 - (b) within the period of 6 years beginning with the date on which the person became liable to the penalty.
 
-### 14. Right to appeal against penalty[^key-ffd79adb715aba57107e2c697f9f6c89]
+### 14. Right to appeal against penalty[^c-ffd79adb715aba57107e2c697f9f6c89]
 
 A person may appeal against a decision by an officer of Revenue and Customs—
 
-- (a) that a penalty is payable under regulation 10 , 10A[^key-f3f56a31f2a4a5de7538e06422adf179] or 11, or
+- (a) that a penalty is payable under regulation 10 , 10A[^c-f3f56a31f2a4a5de7538e06422adf179] or 11, or
 - (b) as to the amount of such a penalty.
 
-### 15. Procedure on appeal against penalty[^key-d63f19ddcd9fc3319b4dbd71ca529135]
+### 15. Procedure on appeal against penalty[^c-d63f19ddcd9fc3319b4dbd71ca529135]
 
 (1) Notice of an appeal under regulation 14 must be given—
 
@@ -450,7 +450,7 @@ A person may appeal against a decision by an officer of Revenue and Customs—
 
 (5) Subject to this regulation and regulation 16, the provisions of Part 5 of TMA 1970[^f00017] relating to appeals have effect in relation to appeals under regulation 14 as they have effect in relation to an appeal against an assessment to income tax.
 
-### 15A. Increased daily default penalty[^key-9bf3ba0b05e7323cc1802e3b22c5ea42]
+### 15A. Increased daily default penalty[^c-9bf3ba0b05e7323cc1802e3b22c5ea42]
 
 (1) This paragraph applies if—
 
@@ -473,7 +473,7 @@ A person may appeal against a decision by an officer of Revenue and Customs—
 
 (7) That day and any subsequent day is an “applicable day” for the purposes of this regulation.
 
-### 16. Enforcement of penalties[^key-95e719c8e01bc543180093665b303064]
+### 16. Enforcement of penalties[^c-95e719c8e01bc543180093665b303064]
 
 (1) A penalty under these Regulations must be paid before the end of the period of 30 days beginning with the date mentioned in paragraph (2).
 
@@ -486,17 +486,17 @@ A person may appeal against a decision by an officer of Revenue and Customs—
 
 ## Miscellaneous
 
-### 17. Accounts with a negative value[^key-926865785ef1ee921294d458af3cc450]
+### 17. Accounts with a negative value[^c-926865785ef1ee921294d458af3cc450]
 
 For the purpose of applying paragraph VI.C of Annex I as required by these Regulations, an account balance that has a negative value is treated as having a nil value.
 
-### 18. Anti-avoidance[^key-d54fb488753c3a4247055e333b7ffe2d]
+### 18. Anti-avoidance[^c-d54fb488753c3a4247055e333b7ffe2d]
 
 If a person does things wholly or mainly for the purpose of avoiding any obligation under these Regulations, these Regulations are to have effect as if those things had not been done.
 
 ## Supplementary
 
-### 19. Definitions[^key-555bd099857b68f7e0a9fa27eeaffef9]
+### 19. Definitions[^c-555bd099857b68f7e0a9fa27eeaffef9]
 
 (1) In these Regulations—
 
@@ -620,9 +620,9 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [2013 c. 29](https://www.legislation.gov.uk/ukpga/2013/29).
 
-[^key-63d09fe01bbcc7ecc151c0ccd3cc78a9]: Commencement: Reg. 1 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-63d09fe01bbcc7ecc151c0ccd3cc78a9]: Commencement: Reg. 1 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-ed798d50e6a62fb54b3831f8fecaaba6]: Commencement: Reg. 2 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-ed798d50e6a62fb54b3831f8fecaaba6]: Commencement: Reg. 2 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
 [^f00002]: Footnote: That agreement, as signed on that date, was deposited in the House of Commons library by Her Majesty’s Treasury on 14th October 2013 under deposit reference DEP2013-1630, and is available from the House of Commons Information Office and on the Parliament UK website at http://www.parliament.uk/business/publications/business-papers/commons/deposited-papers/.
 
@@ -632,7 +632,7 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00005]: Footnote: That agreement, as signed on that date, was deposited in the House of Commons library by Her Majesty’s Treasury on 22nd November 2013 under deposit reference DEP2013-1856, and is available from the House of Commons Information Office and on the Parliament UK website at http://www.parliament.uk/business/publications/business-papers/commons/deposited-papers/.
 
-[^key-3cb0406d3ddd177049aa2069f309fd0a]: Commencement: Reg. 3 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-3cb0406d3ddd177049aa2069f309fd0a]: Commencement: Reg. 3 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
 [^f00006]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -640,7 +640,7 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00008]: Footnote: [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99).
 
-[^key-76b8043c34e7d728f3417a89c3bbc392]: Textual amendment: Words in [reg. 3(4)(b)](https://www.legislation.gov.uk/uksi/2014/520/regulation/3/4/b) omitted (15.4.2015) by virtue of [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/2/a)
+[^c-76b8043c34e7d728f3417a89c3bbc392]: Textual amendment: Words in [reg. 3(4)(b)](https://www.legislation.gov.uk/uksi/2014/520/regulation/3/4/b) omitted (15.4.2015) by virtue of [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/2/a)
 
 [^f00009]: Footnote: The meaning of “investment trust” in the Corporation Tax Acts is provided at section 1158 of the Corporation Tax Act [2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4). Section 1158 was substituted by section 49(2) of the Finance Act [2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11).
 
@@ -648,70 +648,70 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00011]: Footnote: The meaning of “collective investment scheme” is provided at section 235 of that Act. The power under section 235(5) to provide that arrangements do not amount to a collective investment scheme has been exercised by the Treasury by the following instruments: [S.I. 2001/1062](https://www.legislation.gov.uk/uksi/2001/1062), [2001/3650](https://www.legislation.gov.uk/uksi/2001/3650), [2005/57](https://www.legislation.gov.uk/uksi/2005/57), [2007/800](https://www.legislation.gov.uk/uksi/2007/800), [2008/1641](https://www.legislation.gov.uk/uksi/2008/1641) and [2008/1813](https://www.legislation.gov.uk/uksi/2008/1813).
 
-[^key-4ea19f631af7680860f16f54bccfc326]: Textual amendment: Word in [reg. 3(7)(b)](https://www.legislation.gov.uk/uksi/2014/520/regulation/3/7/b) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/2/b)
+[^c-4ea19f631af7680860f16f54bccfc326]: Textual amendment: Word in [reg. 3(7)(b)](https://www.legislation.gov.uk/uksi/2014/520/regulation/3/7/b) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/2/b)
 
 [^f00012]: Footnote: [2010 c. 4](https://www.legislation.gov.uk/ukpga/2010/4).
 
-[^key-2c7deedc87afff85da6a7fa888559c8a]: Textual amendment: Word in [reg. 3(9)](https://www.legislation.gov.uk/uksi/2014/520/regulation/3/9) omitted (15.4.2015) by virtue of [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/2/c)
+[^c-2c7deedc87afff85da6a7fa888559c8a]: Textual amendment: Word in [reg. 3(9)](https://www.legislation.gov.uk/uksi/2014/520/regulation/3/9) omitted (15.4.2015) by virtue of [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/2/c)
 
 [^f00013]: Footnote: [S.I. 2006/964](https://www.legislation.gov.uk/uksi/2006/964). Part 2B was inserted by [S.I. 2009/2036](https://www.legislation.gov.uk/uksi/2009/2036).
 
 [^f00014]: Footnote: [2009 c. 4](https://www.legislation.gov.uk/ukpga/2009/4). The meaning of “derivative contract” in Part 7 of that Act is provided at section 576.
 
-[^key-83f28664f771eed48eb8228f76063e79]: Commencement: Reg. 4 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-83f28664f771eed48eb8228f76063e79]: Commencement: Reg. 4 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-d6d2b8a71f4ee6665a95e059abe8da15]: Commencement: Reg. 5 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-d6d2b8a71f4ee6665a95e059abe8da15]: Commencement: Reg. 5 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
 [^f00015]: Footnote: Chapter 2C was inserted by paragraphs 18 to 23 of Schedule 6 to the Taxation (International and Other Provisions) Act [2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8).
 
-[^key-e5c82089f8dabe2561b8412ecb03d9c9]: Commencement: Reg. 6 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-e5c82089f8dabe2561b8412ecb03d9c9]: Commencement: Reg. 6 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-c6139e4bb43b5eace1a8a0ec1bc85bf9]: Commencement: Reg. 7 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-c6139e4bb43b5eace1a8a0ec1bc85bf9]: Commencement: Reg. 7 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-c2a033f5fd626c4231a4102a623296b3]: Commencement: Reg. 8 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-c2a033f5fd626c4231a4102a623296b3]: Commencement: Reg. 8 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-faa82b62948638f0608ff3d61ddcc90b]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/8/2) omitted (15.4.2015) by virtue of [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/3/a)
+[^c-faa82b62948638f0608ff3d61ddcc90b]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/8/2) omitted (15.4.2015) by virtue of [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(3)(a)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/3/a)
 
-[^key-6d1445fdfa5a2818cd32aa348a3d7854]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2014/520/regulation/8/3) substituted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/3/b)
+[^c-6d1445fdfa5a2818cd32aa348a3d7854]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/2014/520/regulation/8/3) substituted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(3)(b)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/3/b)
 
 [^f00016]: Footnote: [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5).
 
-[^key-48a2eed1fa5eefe2ad385b0e90e8abfc]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2014/520/regulation/8A) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/4)
+[^c-48a2eed1fa5eefe2ad385b0e90e8abfc]: Textual amendment: [Reg. 8A](https://www.legislation.gov.uk/uksi/2014/520/regulation/8A) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/4)
 
-[^key-9cc38a8287916b4d72c62e2f9b0fdeba]: Commencement: Reg. 9 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-9cc38a8287916b4d72c62e2f9b0fdeba]: Commencement: Reg. 9 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-4585864b9213933f9c6626ede1eaed90]: Commencement: Reg. 10 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-4585864b9213933f9c6626ede1eaed90]: Commencement: Reg. 10 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-7656a2a0bb81c6ebac1367c10e3df8d1]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2014/520/regulation/10A) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/5)
+[^c-7656a2a0bb81c6ebac1367c10e3df8d1]: Textual amendment: [Reg. 10A](https://www.legislation.gov.uk/uksi/2014/520/regulation/10A) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/5)
 
-[^key-82358a79d98631c089369e3944f8286a]: Commencement: Reg. 11 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-82358a79d98631c089369e3944f8286a]: Commencement: Reg. 11 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-93402c402b01a11b871aa8e81a1ad653]: Commencement: Reg. 12 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-93402c402b01a11b871aa8e81a1ad653]: Commencement: Reg. 12 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-3eeda12ee448d748452f6a5bd50da624]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2014/520/regulation/12/1) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/6)
+[^c-3eeda12ee448d748452f6a5bd50da624]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2014/520/regulation/12/1) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/6)
 
-[^key-3148dd9d1e2a87b069e227028d5d2436]: Commencement: Reg. 13 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-3148dd9d1e2a87b069e227028d5d2436]: Commencement: Reg. 13 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-67ac02034cdd6ffc12f806f657b8580a]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2014/520/regulation/13/1) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/7/a)
+[^c-67ac02034cdd6ffc12f806f657b8580a]: Textual amendment: Word in [reg. 13(1)](https://www.legislation.gov.uk/uksi/2014/520/regulation/13/1) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/7/a)
 
-[^key-4fbabd24fe51d8703aa40cc41a6086b7]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2014/520/regulation/13/3) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/7/b)
+[^c-4fbabd24fe51d8703aa40cc41a6086b7]: Textual amendment: Words in [reg. 13(3)](https://www.legislation.gov.uk/uksi/2014/520/regulation/13/3) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/7/b)
 
-[^key-ffd79adb715aba57107e2c697f9f6c89]: Commencement: Reg. 14 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-ffd79adb715aba57107e2c697f9f6c89]: Commencement: Reg. 14 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-f3f56a31f2a4a5de7538e06422adf179]: Textual amendment: Word in [reg. 14(a)](https://www.legislation.gov.uk/uksi/2014/520/regulation/14/a) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/8)
+[^c-f3f56a31f2a4a5de7538e06422adf179]: Textual amendment: Word in [reg. 14(a)](https://www.legislation.gov.uk/uksi/2014/520/regulation/14/a) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/8)
 
-[^key-d63f19ddcd9fc3319b4dbd71ca529135]: Commencement: Reg. 15 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-d63f19ddcd9fc3319b4dbd71ca529135]: Commencement: Reg. 15 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
 [^f00017]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). The Taxes Management Act 1970 was relevantly amended by sections 45(1) and 67(2) of the Finance (No. 2) Act [1975 (c. 45)](https://www.legislation.gov.uk/ukpga/1975/45); section 68 of the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39); section 156(2) and (4) of the Finance Act [1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26); section 199 of and paragraphs 18 (1) and (2) of Schedule 19 to the Finance Act [1994 (c. 9)](https://www.legislation.gov.uk/ukpga/1994/9); paragraph 28 of Schedule 19 to the Finance Act [1998 (c. 36)](https://www.legislation.gov.uk/ukpga/1998/36) section 88 of and paragraph 31 of Schedule 29 to the Finance Act [2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9); paragraph 21 of Schedule 1 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4); paragraph 257(a) and (b) of Schedule 1 to and Part 1 of Schedule 3 to the Income Tax Act [2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3); section 119(12)(a) of the Finance Act [2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9); paragraph 31 of Schedule 7 to the Taxation (International and Other Provisions) Act [2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8); [S.I. 1994/1813](https://www.legislation.gov.uk/uksi/1994/1813) and [2009/56](https://www.legislation.gov.uk/uksi/2009/56).
 
-[^key-9bf3ba0b05e7323cc1802e3b22c5ea42]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2014/520/regulation/15A) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/9)
+[^c-9bf3ba0b05e7323cc1802e3b22c5ea42]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2014/520/regulation/15A) inserted (15.4.2015) by [The International Tax Compliance (Crown Dependencies and Gibraltar) (Amendment) Regulations 2015 (S.I. 2015/873)](https://www.legislation.gov.uk/uksi/2015/873), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/873/regulation/1/2), [2(9)](https://www.legislation.gov.uk/uksi/2015/873/regulation/2/9)
 
-[^key-95e719c8e01bc543180093665b303064]: Commencement: Reg. 16 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-95e719c8e01bc543180093665b303064]: Commencement: Reg. 16 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-926865785ef1ee921294d458af3cc450]: Commencement: Reg. 17 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-926865785ef1ee921294d458af3cc450]: Commencement: Reg. 17 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-d54fb488753c3a4247055e333b7ffe2d]: Commencement: Reg. 18 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-d54fb488753c3a4247055e333b7ffe2d]: Commencement: Reg. 18 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
-[^key-555bd099857b68f7e0a9fa27eeaffef9]: Commencement: Reg. 19 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
+[^c-555bd099857b68f7e0a9fa27eeaffef9]: Commencement: Reg. 19 in force at 31.3.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/520/regulation/1/2)
 
 [^f00018]: Footnote: [2013 c. 29](https://www.legislation.gov.uk/ukpga/2013/29).

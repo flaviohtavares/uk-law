@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 29. Private rights over land[^key-d930bc120ebe2d68df4f82331a10c3b7]
+## 29. Private rights over land[^c-d930bc120ebe2d68df4f82331a10c3b7]
 
 *Extent: E+W+S*
 
@@ -64,7 +64,7 @@ it is effective in respect of the persons so deriving title, whether the title w
 
 ## Annotations
 
-[^key-d930bc120ebe2d68df4f82331a10c3b7]: Commencement: Art. 29 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-d930bc120ebe2d68df4f82331a10c3b7]: Commencement: Art. 29 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
 
 [^f00059]: Footnote: Section 11(1) was amended by section 34(1) of, and Schedule 4 to, the Acquisition of Land Act [1981 (c. 67)](https://www.legislation.gov.uk/ukpga/1981/67); section 14 of, and paragraph 12(1) of Schedule 5 to, the Church of England (Miscellaneous Provisions) Measure [2006 (No. 1)](https://www.legislation.gov.uk/ukcm/2006/1); and sections 186(1) and (2), 187 and 188 of the Housing and Planning Act 2016.
 

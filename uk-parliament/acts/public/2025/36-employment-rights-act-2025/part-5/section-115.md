@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Enforcement of requirement to pay penalty[^key-3b9610f6ee49d5606e4841a0ffa423f9][^key-92a5ec342cdc33fe28ee52cdc566c9d6]
+## 115. Enforcement of requirement to pay penalty[^c-3b9610f6ee49d5606e4841a0ffa423f9][^c-92a5ec342cdc33fe28ee52cdc566c9d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3b9610f6ee49d5606e4841a0ffa423f9]: Commencement: S. 115 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-3b9610f6ee49d5606e4841a0ffa423f9]: Commencement: S. 115 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-92a5ec342cdc33fe28ee52cdc566c9d6]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2025/36/section/115) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(20)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/20)
+[^c-92a5ec342cdc33fe28ee52cdc566c9d6]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2025/36/section/115) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(20)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/20)

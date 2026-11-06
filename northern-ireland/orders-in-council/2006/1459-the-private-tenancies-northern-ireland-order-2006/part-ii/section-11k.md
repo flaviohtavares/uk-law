@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11K. Electrical safety standards regulations: other enforcement[^key-7d34ae370256d94e4a820a246b44cc1b]
+## 11K. Electrical safety standards regulations: other enforcement[^c-7d34ae370256d94e4a820a246b44cc1b]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d34ae370256d94e4a820a246b44cc1b]: Textual amendment: [Arts. 11I-11K](https://www.legislation.gov.uk/nisi/2006/1459/article/11I) and cross-heading inserted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f), [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2022/20/schedule/3/paragraph/2)
+[^c-7d34ae370256d94e4a820a246b44cc1b]: Textual amendment: [Arts. 11I-11K](https://www.legislation.gov.uk/nisi/2006/1459/article/11I) and cross-heading inserted (28.4.2022 for specified purposes) by [Private Tenancies Act (Northern Ireland) 2022 (c. 20)](https://www.legislation.gov.uk/nia/2022/20), [s. 14(2)(f)](https://www.legislation.gov.uk/nia/2022/20/section/14/2/f), [Sch. 3 para. 2](https://www.legislation.gov.uk/nia/2022/20/schedule/3/paragraph/2)

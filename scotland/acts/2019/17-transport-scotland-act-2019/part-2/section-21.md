@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Approved devices[^key-47f4db6bab986e1b51ed994edd298e8f]
+## 21. Approved devices[^c-47f4db6bab986e1b51ed994edd298e8f]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47f4db6bab986e1b51ed994edd298e8f]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2019/17/section/21) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-47f4db6bab986e1b51ed994edd298e8f]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2019/17/section/21) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

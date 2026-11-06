@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57ZA. Restrictions on off-sales drinks promotions in supermarkets etc.[^key-ac82b2db9f686305072fa022dd3c2372]
+## 57ZA. Restrictions on off-sales drinks promotions in supermarkets etc.[^c-ac82b2db9f686305072fa022dd3c2372]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac82b2db9f686305072fa022dd3c2372]: Textual amendment: [Art. 57ZA](https://www.legislation.gov.uk/nisi/1996/3158/article/57ZA) inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 19(1)](https://www.legislation.gov.uk/nia/2021/7/section/19/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)
+[^c-ac82b2db9f686305072fa022dd3c2372]: Textual amendment: [Art. 57ZA](https://www.legislation.gov.uk/nisi/1996/3158/article/57ZA) inserted (1.10.2022) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 19(1)](https://www.legislation.gov.uk/nia/2021/7/section/19/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [2](https://www.legislation.gov.uk/nisr/2022/180/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2022/180/schedule)

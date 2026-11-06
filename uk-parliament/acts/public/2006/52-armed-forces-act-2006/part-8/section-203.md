@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Review of order with community requirements[^key-2e02d3b46fc34c20d0a557f1483f0a85]
+## 203. Review of order with community requirements[^c-2e02d3b46fc34c20d0a557f1483f0a85]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 > (4) In this paragraph “**the responsible court**”, in relation to a suspended sentence order made by a relevant service court imposing a drug rehabilitation requirement, means the Crown Court.
 
-(4)[^key-883a7b6834b9b76e797869f5c144b421] Paragraph 22 (periodic review of drug rehabilitation requirement) has effect as if after sub-paragraph (5) there were inserted—
+(4)[^c-883a7b6834b9b76e797869f5c144b421] Paragraph 22 (periodic review of drug rehabilitation requirement) has effect as if after sub-paragraph (5) there were inserted—
 
 > (5A) In a case where the order was made by the Service Civilian Court, a term of imprisonment or detention in a young offender institution or fine imposed under sub-paragraph (4)(b) must not exceed—
 >
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e02d3b46fc34c20d0a557f1483f0a85]: Textual amendment: S. 203 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 21](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/21) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-2e02d3b46fc34c20d0a557f1483f0a85]: Textual amendment: S. 203 substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 25 para. 21](https://www.legislation.gov.uk/ukpga/2020/17/schedule/25/paragraph/21) (with [s. 416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-883a7b6834b9b76e797869f5c144b421]: Modification: [S. 203(4)](https://www.legislation.gov.uk/ukpga/2006/52/section/203/4) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3) (with [s. 5(9)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/9)); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)
+[^c-883a7b6834b9b76e797869f5c144b421]: Modification: [S. 203(4)](https://www.legislation.gov.uk/ukpga/2006/52/section/203/4) modified (1.12.2020 immediately before the consolidation date (see 2020 c. 9, ss. 3, 5(2)(3) and 2020 c. 17, ss. 2, 416)) by [Sentencing (Pre-consolidation Amendments) Act 2020 (c. 9)](https://www.legislation.gov.uk/ukpga/2020/9), [ss. 1](https://www.legislation.gov.uk/ukpga/2020/9/section/1), [5(2)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/2)[(3)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/3) (with [s. 5(9)](https://www.legislation.gov.uk/ukpga/2020/9/section/5/9)); [S.I. 2012/1236](https://www.legislation.gov.uk/uksi/2012/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2012/1236/regulation/2)

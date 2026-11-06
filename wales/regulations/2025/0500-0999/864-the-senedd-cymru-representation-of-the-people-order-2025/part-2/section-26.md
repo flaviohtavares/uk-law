@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Effect of registers[^key-29ad7a0e44533326138549a69369408f]
+## 26. Effect of registers[^c-29ad7a0e44533326138549a69369408f]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-29ad7a0e44533326138549a69369408f]: Commencement: Art. 26 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-29ad7a0e44533326138549a69369408f]: Commencement: Art. 26 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00043]: Footnote: Section 4 was amended by section 1(2) of the Representation of the People Act [2000 (c. 2)](https://www.legislation.gov.uk/ukpga/2000/2); section 12(1)(a) of the Senedd and Elections (Wales) Act [2020 (anaw 1)](https://www.legislation.gov.uk/anaw/2020/1); section 2(3) of the Local Government and Elections (Wales) Act [2021 (asc 1)](https://www.legislation.gov.uk/asc/2020/1); and paragraph 2 of Schedule 7 and paragraph 1(2) of Schedule 8 to the Elections Act [2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37). There are other amendments to section 4 which are not relevant to this Order.

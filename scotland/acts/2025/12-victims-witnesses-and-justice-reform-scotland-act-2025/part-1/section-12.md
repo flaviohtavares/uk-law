@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Initiation and conduct of investigation[^key-837f514c8cff38fb671cec720b612295]
+## 12. Initiation and conduct of investigation[^c-837f514c8cff38fb671cec720b612295]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-837f514c8cff38fb671cec720b612295]: Commencement: S. 12 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-837f514c8cff38fb671cec720b612295]: Commencement: S. 12 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

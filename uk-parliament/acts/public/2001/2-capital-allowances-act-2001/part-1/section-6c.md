@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6C. “NI rate activity”[^key-8affe371a4c0f1618fd4056236544418]
+## 6C. “NI rate activity”[^c-8affe371a4c0f1618fd4056236544418]
 
 *Extent: E+W+S+N.I.*
 
 (1) In this Act “**NI rate activity**” means—
 
-- (a) a qualifying trade carried on by an SME (Northern Ireland employer) company[^key-96eb668b96262128df71d878180cb10d], except to the extent that it is an excluded activity,
+- (a) a qualifying trade carried on by an SME (Northern Ireland employer) company[^c-96eb668b96262128df71d878180cb10d], except to the extent that it is an excluded activity,
 - (b) a qualifying trade, other than an excluded financial trade, carried on by a NIRE company, to the extent that the trade—
   - (i) is carried on through a Northern Ireland regional establishment of the company, and
   - (ii) does not consist of an excluded activity,
-- (c) the back-office activities of an excluded financial trade carried on by an[^key-3ac0d8ce12e8078764087e581c011338] SME (Northern Ireland employer) company which has made an election for the purposes of section 357KB(2) of CTA 2010,
+- (c) the back-office activities of an excluded financial trade carried on by an[^c-3ac0d8ce12e8078764087e581c011338] SME (Northern Ireland employer) company which has made an election for the purposes of section 357KB(2) of CTA 2010,
 - (d) the back-office activities of an excluded financial trade carried on by a NIRE company which has made an election for the purposes of section 357KB(2) of CTA 2010, to the extent that those activities are carried on through the Northern Ireland regional establishment of the company,
 - (e) a qualifying partnership trade carried on by a Northern Ireland Chapter 6 firm, except to the extent that it is an excluded activity,
 - (f) a qualifying partnership trade, other than an excluded financial trade, carried on by a Northern Ireland Chapter 7 firm, to the extent that the trade—
@@ -48,8 +48,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8affe371a4c0f1618fd4056236544418]: Textual amendment: Pt. 1 Ch. 1A inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/2)
+[^c-8affe371a4c0f1618fd4056236544418]: Textual amendment: Pt. 1 Ch. 1A inserted (with effect in accordance with s. 5 of the amending Act) by [Corporation Tax (Northern Ireland) Act 2015 (c. 21)](https://www.legislation.gov.uk/ukpga/2015/21), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/2015/21/schedule/1/paragraph/2)
 
-[^key-96eb668b96262128df71d878180cb10d]: Textual amendment: Words in s. 6C(1)(a) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 24(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/24/a)
+[^c-96eb668b96262128df71d878180cb10d]: Textual amendment: Words in s. 6C(1)(a) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 24(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/24/a)
 
-[^key-3ac0d8ce12e8078764087e581c011338]: Textual amendment: Words in s. 6C(1)(c) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 24(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/24/a)
+[^c-3ac0d8ce12e8078764087e581c011338]: Textual amendment: Words in s. 6C(1)(c) substituted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 7 para. 24(a)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/7/paragraph/24/a)

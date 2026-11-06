@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809ZMA. Clawback of income tax relief where donation becomes tainted in later tax year[^key-466e88fbc89f2a4bd656876462f0f2fb][^key-a137542f054243a0afcb3e80db0cece6]
+## 809ZMA. Clawback of income tax relief where donation becomes tainted in later tax year[^c-466e88fbc89f2a4bd656876462f0f2fb][^c-a137542f054243a0afcb3e80db0cece6]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-466e88fbc89f2a4bd656876462f0f2fb]: Textual amendment: Ss. 809ZMA, 809ZMB inserted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/8) (with [s. 56(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/9)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/10))
+[^c-466e88fbc89f2a4bd656876462f0f2fb]: Textual amendment: Ss. 809ZMA, 809ZMB inserted (with effect in accordance with s. 56(8) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 56(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/8), [Sch. 9 para. 8](https://www.legislation.gov.uk/ukpga/2026/11/schedule/9/paragraph/8) (with [s. 56(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/9)[(10)](https://www.legislation.gov.uk/ukpga/2026/11/section/56/10))
 
-[^key-a137542f054243a0afcb3e80db0cece6]: Textual amendment: Pt. 13 Ch. 8 inserted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 28 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/1)
+[^c-a137542f054243a0afcb3e80db0cece6]: Textual amendment: Pt. 13 Ch. 8 inserted (19.7.2011) (with effect in accordance with Sch. 3 para. 27 28 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/11/schedule/3/paragraph/1)

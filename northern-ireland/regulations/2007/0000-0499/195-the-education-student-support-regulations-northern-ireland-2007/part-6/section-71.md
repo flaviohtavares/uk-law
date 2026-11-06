@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 71. Students falling into more than one category[^key-19325e871877921494369eeccd8adff3]
+## 71. Students falling into more than one category[^c-19325e871877921494369eeccd8adff3]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-19325e871877921494369eeccd8adff3]: Commencement: [Reg. 71](https://www.legislation.gov.uk/nisr/2007/195/regulation/71) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-19325e871877921494369eeccd8adff3]: Commencement: [Reg. 71](https://www.legislation.gov.uk/nisr/2007/195/regulation/71) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

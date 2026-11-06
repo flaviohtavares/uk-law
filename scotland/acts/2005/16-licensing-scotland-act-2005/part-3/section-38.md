@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Review hearing[^key-675935b089465a569e0b36f3f5608325]
+## 38. Review hearing[^c-675935b089465a569e0b36f3f5608325]
 
 *Extent: S*
 
@@ -29,7 +29,7 @@ the Board must hold a hearing for the purposes of considering and determining th
 
 (2) A hearing under subsection (1) is referred to in this Act as a “**review hearing**”.
 
-(3)[^key-1198dda25cf7e52dd97d334324c30e32] Where a review hearing is to be held, the Licensing Board must—
+(3)[^c-1198dda25cf7e52dd97d334324c30e32] Where a review hearing is to be held, the Licensing Board must—
 
 - (a) in the case of a premises licence review application, give notice of the hearing to the applicant, and
 - (b) give notice of the hearing and a copy of the premises licence review proposal or application to—
@@ -55,6 +55,6 @@ the Board must hold a hearing for the purposes of considering and determining th
 
 ## Annotations
 
-[^key-675935b089465a569e0b36f3f5608325]: Commencement: S. 38 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-675935b089465a569e0b36f3f5608325]: Commencement: S. 38 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
 
-[^key-1198dda25cf7e52dd97d334324c30e32]: Modification: S. 38(3)-(6) applied (with modifications) (1.1.2008) by [Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (S.S.I. 2007/454)](https://www.legislation.gov.uk/ssi/2007/454), [arts. 1](https://www.legislation.gov.uk/ssi/2007/454/article/1), [17(9)](https://www.legislation.gov.uk/ssi/2007/454/article/17/9)
+[^c-1198dda25cf7e52dd97d334324c30e32]: Modification: S. 38(3)-(6) applied (with modifications) (1.1.2008) by [Licensing (Transitional and Saving Provisions) (Scotland) Order 2007 (S.S.I. 2007/454)](https://www.legislation.gov.uk/ssi/2007/454), [arts. 1](https://www.legislation.gov.uk/ssi/2007/454/article/1), [17(9)](https://www.legislation.gov.uk/ssi/2007/454/article/17/9)

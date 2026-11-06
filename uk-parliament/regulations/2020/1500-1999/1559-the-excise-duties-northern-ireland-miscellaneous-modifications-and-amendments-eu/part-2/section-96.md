@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Amendment to the Excise Duties (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-5e70c0e2312521a2b9bcc3e8bbff4169]
+## 96. Amendment to the Excise Duties (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-5e70c0e2312521a2b9bcc3e8bbff4169]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-5e70c0e2312521a2b9bcc3e8bbff4169]: Commencement: Reg. 96 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
+[^c-5e70c0e2312521a2b9bcc3e8bbff4169]: Commencement: Reg. 96 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 1995/1046](https://www.legislation.gov.uk/uksi/1995/1046); as amended by [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593).
 

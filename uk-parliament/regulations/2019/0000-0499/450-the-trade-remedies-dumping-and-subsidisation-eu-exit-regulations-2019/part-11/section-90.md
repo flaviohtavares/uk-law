@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Extension of the period of a provisional remedy in a dumping investigation[^key-2fc1f27282fdd0aa97a5304c479d3d7a]
+## 90. Extension of the period of a provisional remedy in a dumping investigation[^c-2fc1f27282fdd0aa97a5304c479d3d7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) The TRA may only make an extension recommendation where—
 
-- (a) paragraph (3) or (4) applies; [^key-9e19811a532fa0d4b76e324d1126b17b]...
-- (b)[^key-9e19811a532fa0d4b76e324d1126b17b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) paragraph (3) or (4) applies; [^c-9e19811a532fa0d4b76e324d1126b17b]...
+- (b)[^c-9e19811a532fa0d4b76e324d1126b17b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-dd72e024ede79d05b99330580096ed3a] Where the TRA makes an extension recommendation in accordance with paragraph (1), it must advise the Secretary of State whether and why it considers that the extension of the application of the provisional remedy in accordance with its recommendation would meet the economic interest test (see paragraph 25 of Schedule 4 to the Act).
+(2A)[^c-dd72e024ede79d05b99330580096ed3a] Where the TRA makes an extension recommendation in accordance with paragraph (1), it must advise the Secretary of State whether and why it considers that the extension of the application of the provisional remedy in accordance with its recommendation would meet the economic interest test (see paragraph 25 of Schedule 4 to the Act).
 
 (3) This paragraph applies where the TRA receives a request to extend the period of the provisional remedy from or on behalf of overseas exporters representing a significant volume of the dumped goods.
 
@@ -48,14 +48,14 @@ summary: ''
 
 (7) The Secretary of State may only reject the TRA's recommendation where the Secretary of State is satisfied that it is not in the public interest to accept it.
 
-(8) In making a decision under paragraph (6), the Secretary of State must have regard to the TRA’s advice on whether the extension recommendation would meet the economic interest test[^key-8373435da7ef1d5f2ac2b040e62c918d].
+(8) In making a decision under paragraph (6), the Secretary of State must have regard to the TRA’s advice on whether the extension recommendation would meet the economic interest test[^c-8373435da7ef1d5f2ac2b040e62c918d].
 
 (9) Where the Secretary of State accepts an extension recommendation, the Secretary of State must—
 
 - (a) publish a notice containing the information set out in paragraph 1 of Schedule 6; and
 - (b) notify interested parties.
 
-(10) Where the Secretary of State and does not make a decision under regulation 90A[^key-109eb7b7d4867e8009f0edfbc8aa2864], the Secretary of State must—
+(10) Where the Secretary of State and does not make a decision under regulation 90A[^c-109eb7b7d4867e8009f0edfbc8aa2864], the Secretary of State must—
 
 - (a) publish a notice containing the information set out in paragraph 1 of Schedule 6;
 - (b) notify interested parties; and
@@ -63,12 +63,12 @@ summary: ''
 
 ## Annotations
 
-[^key-2fc1f27282fdd0aa97a5304c479d3d7a]: Commencement: Reg. 90 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-2fc1f27282fdd0aa97a5304c479d3d7a]: Commencement: Reg. 90 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
 
-[^key-9e19811a532fa0d4b76e324d1126b17b]: Textual amendment: [Reg. 90(2)(b)](https://www.legislation.gov.uk/uksi/2019/450/regulation/90/2/b) and word omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [29(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/29/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-9e19811a532fa0d4b76e324d1126b17b]: Textual amendment: [Reg. 90(2)(b)](https://www.legislation.gov.uk/uksi/2019/450/regulation/90/2/b) and word omitted (23.5.2024) by virtue of [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [29(a)](https://www.legislation.gov.uk/uksi/2024/545/regulation/29/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-dd72e024ede79d05b99330580096ed3a]: Textual amendment: [Reg. 90(2A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/90/2A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [29(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/29/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-dd72e024ede79d05b99330580096ed3a]: Textual amendment: [Reg. 90(2A)](https://www.legislation.gov.uk/uksi/2019/450/regulation/90/2A) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [29(b)](https://www.legislation.gov.uk/uksi/2024/545/regulation/29/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-8373435da7ef1d5f2ac2b040e62c918d]: Textual amendment: Words in [reg. 90(8)](https://www.legislation.gov.uk/uksi/2019/450/regulation/90/8) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [29(c)](https://www.legislation.gov.uk/uksi/2024/545/regulation/29/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-8373435da7ef1d5f2ac2b040e62c918d]: Textual amendment: Words in [reg. 90(8)](https://www.legislation.gov.uk/uksi/2019/450/regulation/90/8) substituted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [29(c)](https://www.legislation.gov.uk/uksi/2024/545/regulation/29/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
 
-[^key-109eb7b7d4867e8009f0edfbc8aa2864]: Textual amendment: Words in [reg. 90(10)](https://www.legislation.gov.uk/uksi/2019/450/regulation/90/10) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [29(d)](https://www.legislation.gov.uk/uksi/2024/545/regulation/29/d) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))
+[^c-109eb7b7d4867e8009f0edfbc8aa2864]: Textual amendment: Words in [reg. 90(10)](https://www.legislation.gov.uk/uksi/2019/450/regulation/90/10) inserted (23.5.2024) by [The Trade Remedies (Amendment) Regulations 2024 (S.I. 2024/545)](https://www.legislation.gov.uk/uksi/2024/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/545/regulation/1/2), [29(d)](https://www.legislation.gov.uk/uksi/2024/545/regulation/29/d) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/545/regulation/2))

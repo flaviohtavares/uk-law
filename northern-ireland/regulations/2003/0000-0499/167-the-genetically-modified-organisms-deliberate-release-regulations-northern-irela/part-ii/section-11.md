@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Information to be contained in applications for consent to release[^key-1db41cdaeddda02544530f9d245761bb]
+## 11. Information to be contained in applications for consent to release[^c-1db41cdaeddda02544530f9d245761bb]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1db41cdaeddda02544530f9d245761bb]: Commencement: Reg. 11 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-1db41cdaeddda02544530f9d245761bb]: Commencement: Reg. 11 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

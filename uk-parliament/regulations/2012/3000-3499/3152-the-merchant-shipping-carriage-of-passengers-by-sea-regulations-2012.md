@@ -46,13 +46,13 @@ The Secretary of State is a Minister designated [^f00001] in relation to measure
 
 Accordingly, the Secretary of State, in exercise of the powers conferred on him by that section, makes the following Regulations:
 
-## 1. Citation and commencement[^key-d0611efea5161fde35b695ab3ba99114]
+## 1. Citation and commencement[^c-d0611efea5161fde35b695ab3ba99114]
 
 (1) These Regulations may be cited as the Merchant Shipping (Carriage of Passengers by Sea) Regulations 2012.
 
 (2) Regulations 2 and 4 come into force on 31st December 2012 the remaining regulations come into force on 12th January 2013.
 
-## 2. Interpretation[^key-9f6eb3ccb29b6560a5a33747af4c45e1][^key-9f6eb3ccb29b6560a5a33747af4c45e1]
+## 2. Interpretation[^c-9f6eb3ccb29b6560a5a33747af4c45e1][^c-9f6eb3ccb29b6560a5a33747af4c45e1]
 
 (1) In these Regulations—
 
@@ -65,20 +65,20 @@ Accordingly, the Secretary of State, in exercise of the powers conferred on him 
 
 (2) For the purposes of these Regulations expressions used in the 2009 Regulation and in these Regulations have the same meaning as in the 2009 Regulation.
 
-## 3. Application[^key-5a53239c812a62883285069841d8538c]
+## 3. Application[^c-5a53239c812a62883285069841d8538c]
 
 (1) Subject to regulation 4, these Regulations apply to ships and persons engaged in the carriage of passengers by sea to which the 2009 Regulation applies.
 
 (2) These Regulations do not apply to warships, auxiliary warships or other State owned or operated ships used for a non commercial public service.
 
-## 4. Disapplication of the 2009 Regulation in respect of carriage by sea within the United Kingdom[^key-c01445cbdbbdaf3c28f81aaf4005c868][^key-c01445cbdbbdaf3c28f81aaf4005c868]
+## 4. Disapplication of the 2009 Regulation in respect of carriage by sea within the United Kingdom[^c-c01445cbdbbdaf3c28f81aaf4005c868][^c-c01445cbdbbdaf3c28f81aaf4005c868]
 
 The 2009 Regulation does not apply to any ship engaged in the carriage of passengers by sea solely within the United Kingdom unless—
 
 - (a) the ship is a Class A ship[^f00005] and the carriage takes place after 30th December 2016; or
 - (b) the ship is a Class B ship and the carriage takes place after 30th December 2018.
 
-## 5. Requirement to have Insurance[^key-593f0a44d8cf3414cc1b0cdc5120ecef]
+## 5. Requirement to have Insurance[^c-593f0a44d8cf3414cc1b0cdc5120ecef]
 
 (1) A ship may not enter or leave a port in the United Kingdom, nor if the ship is a United Kingdom ship a port in any other country, unless there is insurance in force, in respect of that ship and a certificate complying with the provisions of regulation 6.
 
@@ -87,7 +87,7 @@ The 2009 Regulation does not apply to any ship engaged in the carriage of passen
 - (a) which is not licensed to carry more that 12 passengers; or
 - (b) to which the 2009 Regulation does not apply by virtue of regulation 4 or Article 2.2 of the Athens Convention.
 
-## 6. Insurance certificates[^key-9e8aa0786f54f89f1546d175cad35235]
+## 6. Insurance certificates[^c-9e8aa0786f54f89f1546d175cad35235]
 
 (1) The existence of the insurance required under regulation 5 is to be proved by a certificate in the form prescribed in—
 
@@ -101,7 +101,7 @@ showing that there is in force in respect of the ship insurance satisfying those
 - (a) if the ship is a United Kingdom ship, a certificate issued by the Secretary of State;
 - (b) if the ship is registered in a State Party (other than the United Kingdom), a certificate issued by or under the authority of the government of that State Party;
 - (c) if the ship is registered in a country which is not a State Party, a certificate issued by the Secretary of State or under the authority of any State Party;
-- (d)[^key-76bad7aa5341253e1e56fd62f97b5452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-76bad7aa5341253e1e56fd62f97b5452] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The certificate must—
 
@@ -110,7 +110,7 @@ showing that there is in force in respect of the ship insurance satisfying those
   - (i) the Secretary of State or to any proper officer where the ship is a United Kingdom ship; or
   - (ii) the Secretary of State in the case of any other ship.
 
-## 7. Issue of certificates by the Secretary of State[^key-031a0d995fbd3a904c6b4d75e3de752f]
+## 7. Issue of certificates by the Secretary of State[^c-031a0d995fbd3a904c6b4d75e3de752f]
 
 (1) Subject to paragraph (2), if the Secretary of State is satisfied on the application for such a certificate as is mentioned in regulation 6 in respect of —
 
@@ -134,7 +134,7 @@ the Secretary of State may, after taking into account any other matters which ap
 
 (6) The Secretary of State shall send a copy of any certificate issued under this regulation in respect of a United Kingdom ship to the Registrar General of Shipping and Seamen and the Registrar shall make the copy available for public inspection.
 
-## 8. Penalties[^key-81e1b83bc796f82172e104a19cb2416c]
+## 8. Penalties[^c-81e1b83bc796f82172e104a19cb2416c]
 
 (1) A carrier or performing carrier is guilty of an offence if—
 
@@ -154,7 +154,7 @@ the Secretary of State may, after taking into account any other matters which ap
 
 (6) In this regulation foreign company means a company or body which is not one to which section 1139 of the Companies Act 2006[^f00006] applies so as to authorise the service of the document in question.
 
-## 9. Power to detain[^key-449fe8e526ad86904151f160f44b3f30]
+## 9. Power to detain[^c-449fe8e526ad86904151f160f44b3f30]
 
 (1) A ship may be detained if anyone attempts to navigate it out of port in contravention of regulation 5.
 
@@ -185,7 +185,7 @@ responsible for the issue of classification certificates.
 
 (7) In this regulation “competent authority” means any officer mentioned in section 284(1) of the Act.
 
-## 10. Arbitration[^key-3318907a46f05da26aaaa43a28ec8c25]
+## 10. Arbitration[^c-3318907a46f05da26aaaa43a28ec8c25]
 
 (1) Any question as to whether the matters specified in relation to a ship in a detention notice constituted a valid basis for the officer’s opinion must, if the master of the ship or the carrier or performing carrier so requires by notice given to the officer within 21 days from the service of the detention notice, be referred to a single arbitrator appointed by agreement between the parties for that question to be decided by the arbitrator.
 
@@ -217,7 +217,7 @@ responsible for the issue of classification certificates.
 
 (9) In the application of this regulation to Scotland any reference to an arbitrator is to be construed as a reference to an arbiter, and the reference in paragraph (1) to a single arbitrator appointed by agreement between the parties is to be construed as a reference to a single arbiter so appointed, or, in default of agreement, appointed by the sheriff.
 
-## 11. Compensation for unjustified detention[^key-de39fa73a8a699c3e15708a8157f66c8]
+## 11. Compensation for unjustified detention[^c-de39fa73a8a699c3e15708a8157f66c8]
 
 (1) If, on a reference under regulation 10 relating to a detention notice, the arbitrator decides that the person making the reference has proved—
 
@@ -230,15 +230,15 @@ the arbitrator must award the owner of the ship such compensation in respect of 
 
 (3) In the application of this regulation to Scotland any reference to an arbitrator is to be construed as a reference to an arbiter.
 
-## 12. Provision of information to passengers[^key-6843f5e4833cb28e2eab49fb2441a23e]
+## 12. Provision of information to passengers[^c-6843f5e4833cb28e2eab49fb2441a23e]
 
 A carrier or performing carrier which fails to supply a passenger with the information specified in article 7 of the 2009 Regulation is guilty of an offence and is liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-## 13. Fees[^key-4ebda30ca6059537c6db480d43dbbb45]
+## 13. Fees[^c-4ebda30ca6059537c6db480d43dbbb45]
 
 The Secretary of State may charge a fee of £31.00 for the issue of a certificate mentioned in regulation 6(1).
 
-## 14. Disapplication of section 183 of the Merchant Shipping Act 1995[^key-83c017a00d7b79a355a2d8d7ec7cf930]
+## 14. Disapplication of section 183 of the Merchant Shipping Act 1995[^c-83c017a00d7b79a355a2d8d7ec7cf930]
 
 (1) Section 183 of the Act (scheduled convention to have force of law) is amended as follows.
 
@@ -262,7 +262,7 @@ The Secretary of State may charge a fee of £31.00 for the issue of a certificat
 
 .
 
-## 15. Review[^key-80eb02b18210a59f5b20d934c1a089a5]
+## 15. Review[^c-80eb02b18210a59f5b20d934c1a089a5]
 
 (1) The Secretary of State must from time to time —
 
@@ -270,7 +270,7 @@ The Secretary of State may charge a fee of £31.00 for the issue of a certificat
 - (b) set out the conclusions of the review in the a report; and
 - (c) publish the report.
 
-(2)[^key-cde5e2c6b335817db23b545475a158df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cde5e2c6b335817db23b545475a158df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -318,48 +318,48 @@ An impact assessment of the effect these Regulations will have on the costs of t
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the Legislative and Regulatory Reform Act [2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and Part 1 of the Schedule to, the European Union (Amendment) Act [2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) of the European Communities Act 1972 by section 1 of the European Economic Area Act [1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1972 (Cm 2073) and the Protocol adjusting the Agreement signed at Brussels on 17th March 1993 (Cm 2183).
 
-[^key-d0611efea5161fde35b695ab3ba99114]: Commencement: Reg. 1 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-d0611efea5161fde35b695ab3ba99114]: Commencement: Reg. 1 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
-[^key-9f6eb3ccb29b6560a5a33747af4c45e1]: Commencement: Reg. 2 in force at 31.12.2012 in force in accordance with reg. 1(2)
+[^c-9f6eb3ccb29b6560a5a33747af4c45e1]: Commencement: Reg. 2 in force at 31.12.2012 in force in accordance with reg. 1(2)
 
 [^f00003]: Footnote: O.J. L.131, 28.5.2009, P.24.
 
 [^f00004]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-5a53239c812a62883285069841d8538c]: Commencement: Reg. 3 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-5a53239c812a62883285069841d8538c]: Commencement: Reg. 3 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
-[^key-c01445cbdbbdaf3c28f81aaf4005c868]: Commencement: Reg. 4 in force at 31.12.2012 in force in accordance with reg. 1(2)
+[^c-c01445cbdbbdaf3c28f81aaf4005c868]: Commencement: Reg. 4 in force at 31.12.2012 in force in accordance with reg. 1(2)
 
 [^f00005]: Footnote: The 2009 Regulation refers to the ship classifications set out article 4 of Council Directive [98/18/EC](https://www.legislation.gov.uk/european/directive/1998/0018) on safety rules and standards for passenger ships (O.J. L 144, 15.5.1998, p.1). This operates as a reference to article 4(1) of Directive [2009/45/EC](https://www.legislation.gov.uk/european/directive/2009/0045) of the European Parliament and of the Council on safety rules and standards for passenger ships (O.J. L 163, 25.6.2009, p.1) by virtue of article 17 of that Directive. Under the Directive ships are classified by reference to the sea areas in which they operate.
 
-[^key-593f0a44d8cf3414cc1b0cdc5120ecef]: Commencement: Reg. 5 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-593f0a44d8cf3414cc1b0cdc5120ecef]: Commencement: Reg. 5 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
-[^key-9e8aa0786f54f89f1546d175cad35235]: Commencement: Reg. 6 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-9e8aa0786f54f89f1546d175cad35235]: Commencement: Reg. 6 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
-[^key-76bad7aa5341253e1e56fd62f97b5452]: Textual amendment: [Reg. 6(2)(d)](https://www.legislation.gov.uk/uksi/2012/3152/regulation/6/2/d) omitted (31.12.2020) by virtue of [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/649/regulation/3/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/649/regulation/9)) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1000/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76bad7aa5341253e1e56fd62f97b5452]: Textual amendment: [Reg. 6(2)(d)](https://www.legislation.gov.uk/uksi/2012/3152/regulation/6/2/d) omitted (31.12.2020) by virtue of [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2019/649/regulation/3/2) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/649/regulation/9)) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1000/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-031a0d995fbd3a904c6b4d75e3de752f]: Commencement: Reg. 7 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-031a0d995fbd3a904c6b4d75e3de752f]: Commencement: Reg. 7 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
-[^key-81e1b83bc796f82172e104a19cb2416c]: Commencement: Reg. 8 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-81e1b83bc796f82172e104a19cb2416c]: Commencement: Reg. 8 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
 [^f00006]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-449fe8e526ad86904151f160f44b3f30]: Commencement: Reg. 9 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-449fe8e526ad86904151f160f44b3f30]: Commencement: Reg. 9 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
 [^f00007]: Footnote: Section 284 was amended by the Merchant Shipping and Maritime Security Act [1997 (c.28)](https://www.legislation.gov.uk/ukpga/1997/28) Schedule 1.
 
-[^key-3318907a46f05da26aaaa43a28ec8c25]: Commencement: Reg. 10 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-3318907a46f05da26aaaa43a28ec8c25]: Commencement: Reg. 10 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
 [^f00008]: Footnote: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-de39fa73a8a699c3e15708a8157f66c8]: Commencement: Reg. 11 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-de39fa73a8a699c3e15708a8157f66c8]: Commencement: Reg. 11 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
-[^key-6843f5e4833cb28e2eab49fb2441a23e]: Commencement: Reg. 12 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-6843f5e4833cb28e2eab49fb2441a23e]: Commencement: Reg. 12 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
-[^key-4ebda30ca6059537c6db480d43dbbb45]: Commencement: Reg. 13 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-4ebda30ca6059537c6db480d43dbbb45]: Commencement: Reg. 13 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
-[^key-83c017a00d7b79a355a2d8d7ec7cf930]: Commencement: Reg. 14 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-83c017a00d7b79a355a2d8d7ec7cf930]: Commencement: Reg. 14 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
-[^key-80eb02b18210a59f5b20d934c1a089a5]: Commencement: Reg. 15 in force at 12.1.2013 in force in accordance with reg. 1(2)
+[^c-80eb02b18210a59f5b20d934c1a089a5]: Commencement: Reg. 15 in force at 12.1.2013 in force in accordance with reg. 1(2)
 
-[^key-cde5e2c6b335817db23b545475a158df]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2012/3152/regulation/15/2) omitted (31.12.2020) by virtue of [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/649/regulation/3/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/649/regulation/9)) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1000/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cde5e2c6b335817db23b545475a158df]: Textual amendment: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2012/3152/regulation/15/2) omitted (31.12.2020) by virtue of [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2019/649/regulation/3/3) (with [reg. 9](https://www.legislation.gov.uk/uksi/2019/649/regulation/9)) (as amended by [S.I. 2020/1000](https://www.legislation.gov.uk/uksi/2020/1000), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1000/regulation/1), [9](https://www.legislation.gov.uk/uksi/2020/1000/regulation/9)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

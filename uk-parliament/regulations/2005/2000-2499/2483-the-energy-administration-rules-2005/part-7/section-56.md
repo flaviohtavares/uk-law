@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Interest[^key-3c9d55832d5652ae18cf2000ef5c2054]
+## 56. Interest[^c-3c9d55832d5652ae18cf2000ef5c2054]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c9d55832d5652ae18cf2000ef5c2054]: Commencement: Rule 56 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-3c9d55832d5652ae18cf2000ef5c2054]: Commencement: Rule 56 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

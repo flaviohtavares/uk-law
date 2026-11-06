@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) In the case of an institutional arrangement, section 702(1) (exemption of interest payable under certified SAYE savings arrangements) only applies if, at the time the contract under the arrangement is made, the provider is authorised by the Commissioners[^key-722c2e745449df62dc5e4ed0725a83c2] to enter into contracts under it.
+(1) In the case of an institutional arrangement, section 702(1) (exemption of interest payable under certified SAYE savings arrangements) only applies if, at the time the contract under the arrangement is made, the provider is authorised by the Commissioners[^c-722c2e745449df62dc5e4ed0725a83c2] to enter into contracts under it.
 
 (2) If the authorisation is conditional, the conditions must be met at that time.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-722c2e745449df62dc5e4ed0725a83c2]: Textual amendment: Word in [s. 707(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/707/1) substituted (retrospective to 29.4.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 50(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/50/2), [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/26/paragraph/4)
+[^c-722c2e745449df62dc5e4ed0725a83c2]: Textual amendment: Word in [s. 707(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/707/1) substituted (retrospective to 29.4.2009) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 50(2)](https://www.legislation.gov.uk/ukpga/2009/10/section/50/2), [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2009/10/schedule/26/paragraph/4)

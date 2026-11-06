@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Notification by postal administrator of court order[^key-36bc4ab3dbb9c77bba96e178a02f7f29]
+## 57. Notification by postal administrator of court order[^c-36bc4ab3dbb9c77bba96e178a02f7f29]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36bc4ab3dbb9c77bba96e178a02f7f29]: Commencement: Rule 57 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-36bc4ab3dbb9c77bba96e178a02f7f29]: Commencement: Rule 57 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

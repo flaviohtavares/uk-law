@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 50. National Scenic Areas[^key-e3a03e2b7acb8090d27db5b8e600115f][^key-3e0fa835c93d985a6572ceca0b282180]
+## 50. National Scenic Areas[^c-e3a03e2b7acb8090d27db5b8e600115f][^c-3e0fa835c93d985a6572ceca0b282180]
 
 *Extent: S*
 
@@ -64,6 +64,6 @@ After section 263 of the principal Act insert—
 
 ## Annotations
 
-[^key-e3a03e2b7acb8090d27db5b8e600115f]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2006/17/section/50) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
+[^c-e3a03e2b7acb8090d27db5b8e600115f]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2006/17/section/50) in force at 1.4.2007 for specified purposes by [S.S.I. 2007/130](https://www.legislation.gov.uk/ssi/2007/130), [art. 2(2)](https://www.legislation.gov.uk/ssi/2007/130/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2007/130/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/130/schedule)
 
-[^key-3e0fa835c93d985a6572ceca0b282180]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2006/17/section/50) in force at 26.11.2010 in so far as not already in force by [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/400/article/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2010/400/article/2/2/b)
+[^c-3e0fa835c93d985a6572ceca0b282180]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2006/17/section/50) in force at 26.11.2010 in so far as not already in force by [S.S.I. 2010/400](https://www.legislation.gov.uk/ssi/2010/400), [art. 2(1)](https://www.legislation.gov.uk/ssi/2010/400/article/2/1)[(2)(b)](https://www.legislation.gov.uk/ssi/2010/400/article/2/2/b)

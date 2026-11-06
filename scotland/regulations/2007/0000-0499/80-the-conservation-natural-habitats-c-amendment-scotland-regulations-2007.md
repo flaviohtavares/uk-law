@@ -73,7 +73,7 @@ In regulation 2(1) (interpretation and application)–
   ; and
 - (b) omit the definition of “occupier”.
 
-### 6.[^key-882294dc4617cb00c905a8ded2ff257b]
+### 6.[^c-882294dc4617cb00c905a8ded2ff257b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -679,7 +679,7 @@ A Regulatory Impact Assessment has been prepared and placed in the library of th
 
 [^c18083421]: Marginal citation: O.J. No. L 206, 22.7.1992, p.7.
 
-[^key-882294dc4617cb00c905a8ded2ff257b]: Textual amendment: Reg. 6 revoked (16.8.2012) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2012 (S.S.I. 2012/228)](https://www.legislation.gov.uk/ssi/2012/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/228/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2012/228/schedule)
+[^c-882294dc4617cb00c905a8ded2ff257b]: Textual amendment: Reg. 6 revoked (16.8.2012) by [The Conservation (Natural Habitats, &c.) Amendment (Scotland) Regulations 2012 (S.S.I. 2012/228)](https://www.legislation.gov.uk/ssi/2012/228), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2012/228/regulation/1/1), [sch.](https://www.legislation.gov.uk/ssi/2012/228/schedule)
 
 [^c18083461]: Marginal citation: There are amendments to regulation 5 not relevant to these Regulations.
 

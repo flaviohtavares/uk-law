@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Account closed after break not exceeding 5 years or after service under another public service scheme[^key-c94ea2fa2fec2aec89e2cb3fd6506036]
+## 62. Account closed after break not exceeding 5 years or after service under another public service scheme[^c-c94ea2fa2fec2aec89e2cb3fd6506036]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c94ea2fa2fec2aec89e2cb3fd6506036]: Commencement: [Reg. 62](https://www.legislation.gov.uk/ssi/2014/292/regulation/62) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-c94ea2fa2fec2aec89e2cb3fd6506036]: Commencement: [Reg. 62](https://www.legislation.gov.uk/ssi/2014/292/regulation/62) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

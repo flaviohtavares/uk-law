@@ -35,7 +35,7 @@ In this Schedule “**applicant**” means—
 
 (2) The applicant's full name (and any alias or any former name), date of birth, address and telephone number.
 
-(3) Details of the applicant's professional or technical qualifications and experience, so far as such qualifications and experience are relevant to looking after children under the age of twelve[^key-cb57791c5448c2c7645d981adec8b7cd].
+(3) Details of the applicant's professional or technical qualifications and experience, so far as such qualifications and experience are relevant to looking after children under the age of twelve[^c-cb57791c5448c2c7645d981adec8b7cd].
 
 (4) Details of the applicant's employment history, including—
 
@@ -88,7 +88,7 @@ In respect of any person, other than the applicant, who looks after or is to loo
 - (g) a statement by the applicant as to—
   - (i) the suitability as to the person's qualifications for the work that the person is to perform,
   - (ii) whether the person has the skills necessary for such work, and
-  - (iii) the person's fitness to work and have regular contact with children under the age of twelve[^key-028bdffd39459a715402f2d938af10b3];
+  - (iii) the person's fitness to work and have regular contact with children under the age of twelve[^c-028bdffd39459a715402f2d938af10b3];
 - (h) a statement by the person as to the state of his or her physical and mental health;
 - (i) a statement by the applicant that the person is physically and mentally fit for the purposes of the work which that person is to perform;
 - (j) a statement by the applicant as to whether he or she is satisfied as the person's identity, the means by which the applicant has satisfied himself or herself and whether the applicant has obtained a copy of the person's birth certificate;
@@ -114,7 +114,7 @@ The applicant's birth certificate.
 
 **16.** Proof of the applicant's identity, including a recent photograph.
 
-**17.** Certificates or other suitable evidence relating to the applicant's professional or technical qualifications, so far as such qualifications are relevant to looking after children under the age of twelve[^key-e9de95dcfc969d384f9bc0f80c23177a].
+**17.** Certificates or other suitable evidence relating to the applicant's professional or technical qualifications, so far as such qualifications are relevant to looking after children under the age of twelve[^c-e9de95dcfc969d384f9bc0f80c23177a].
 
 **18.** A certificate of insurance of the applicant in respect of liability which may be incurred by that person in respect of death, injury, public liability, damage or other loss occurring in relation to the proposed child minding.
 
@@ -134,7 +134,7 @@ The applicant's birth certificate.
 
 (3) Where regulation 20(5) applies and the applicant has no authority to obtain such information or document, a written statement by the applicant that those persons mentioned in paragraphs 12 to 14 will be appropriately supervised at all times when any such person is in contact with a relevant child or children.
 
-**20.** (1) Subject to sub-paragraph (2), a report by a registered medical practitioner as to whether the applicant is physically and mentally fit to look after children under the age of twelve[^key-64b81ece294dabd2e62d36db2cf4bd4b].
+**20.** (1) Subject to sub-paragraph (2), a report by a registered medical practitioner as to whether the applicant is physically and mentally fit to look after children under the age of twelve[^c-64b81ece294dabd2e62d36db2cf4bd4b].
 
 (2) Where the applicant is unable to obtain the report referred to in sub-paragraph (1), a statement by the applicant as to the state of his or her physical and mental health.
 
@@ -149,7 +149,7 @@ In this Part—
 - (a) the person's spouse or civil partner;
 - (b) any parent, grandparent, child, grandchild, brother, sister, uncle, aunt, nephew or niece of the person or the person's spouse or civil partner;
 - (c) the spouse or civil partner of any relative referred to in sub-paragraph (b),
-- (d) and for the purposes of determining any such relationship a person's step-child is to be treated as the person's child, references to a “spouse or civil partner” in relation to any person include a former spouse or civil partner and a person who is living with the person as if they were a married couple or civil partners[^key-c47e6bd9db140c2fea35b9c81ce1fc20].
+- (d) and for the purposes of determining any such relationship a person's step-child is to be treated as the person's child, references to a “spouse or civil partner” in relation to any person include a former spouse or civil partner and a person who is living with the person as if they were a married couple or civil partners[^c-c47e6bd9db140c2fea35b9c81ce1fc20].
 
 #### 22. Information about the applicant: an individual
 
@@ -157,7 +157,7 @@ In this Part—
 
 (2) The applicant's full name (and any alias and former name), date of birth, address and telephone number.
 
-(3) Details of the applicant's professional or technical qualifications and experience, in so far as such qualifications and experience are relevant to the provision of day care for children under the age of twelve[^key-8accf4a0c89380506f2e007110373976].
+(3) Details of the applicant's professional or technical qualifications and experience, in so far as such qualifications and experience are relevant to the provision of day care for children under the age of twelve[^c-8accf4a0c89380506f2e007110373976].
 
 (4) Details of any business the applicant carries on or has carried on.
 
@@ -168,7 +168,7 @@ In this Part—
 - (c) the name and address of any present employer and, where relevant, of any previous employers;
 - (d) the name and address of two referees—
   - (i) who are not relatives of the applicant,
-  - (ii) each of whom is able to provide a reference as to the applicant's competence to look after children under the age of twelve[^key-062b44ee92cd712fa6b03efe44e579e1], and
+  - (ii) each of whom is able to provide a reference as to the applicant's competence to look after children under the age of twelve[^c-062b44ee92cd712fa6b03efe44e579e1], and
   - (iii) where possible, one of whom is the applicant's most recent employer.
 
 #### 23. Information about the applicant: an organisation
@@ -191,8 +191,8 @@ In this Part—
 
 (3) Details of the professional or technical qualifications of the responsible individual and their experience, so far as such qualifications are relevant to—
 
-- (a) the provision of day care for children under the age of twelve[^key-3e1dce10ec60ef3a68b323e03620bc53], or
-- (b) where paragraph 25 applies, the supervision of the provision of day care for children under the age of twelve[^key-c206d23552881c1c4fad787cce139e0b].
+- (a) the provision of day care for children under the age of twelve[^c-3e1dce10ec60ef3a68b323e03620bc53], or
+- (b) where paragraph 25 applies, the supervision of the provision of day care for children under the age of twelve[^c-c206d23552881c1c4fad787cce139e0b].
 
 (4) Except where paragraph 25 applies, details of the responsible individual's employment history, including—
 
@@ -201,7 +201,7 @@ In this Part—
 - (c) the name and address of any present employer and, where relevant, of any previous employers;
 - (d) the name and address of two referees—
   - (i) who are not relatives of the responsible individual,
-  - (ii) each of whom is able to provide a reference as to the responsible individual's competence to look after children under the age of twelve[^key-b4d9e02e9abbe8e90d5bd06bd7cb7ba1], and
+  - (ii) each of whom is able to provide a reference as to the responsible individual's competence to look after children under the age of twelve[^c-b4d9e02e9abbe8e90d5bd06bd7cb7ba1], and
   - (iii) where possible, one of whom is the responsible individual's most recent employer.
 
 #### 25. Information about the person in charge
@@ -210,7 +210,7 @@ In this Part—
 
 (2) The full name (and any alias and former name) of the person in charge and, except where that person is also either the applicant or the responsible individual, their date of birth, address and telephone number.
 
-(3) Details of the person's professional or technical qualifications and experience, in so far as such qualifications and experience are relevant to the provision of day care for children under the age of twelve[^key-6f1b37194103b40b4dae8feca5ef8882].
+(3) Details of the person's professional or technical qualifications and experience, in so far as such qualifications and experience are relevant to the provision of day care for children under the age of twelve[^c-6f1b37194103b40b4dae8feca5ef8882].
 
 (4) Details of the person's employment history, including—
 
@@ -219,7 +219,7 @@ In this Part—
 - (c) the name and address of any present employer and, where relevant, of any previous employers;
 - (d) the name and address of two referees—
   - (i) who are not relatives of the person,
-  - (ii) each of whom is able to provide a reference as to the person's competence to look after children under the age of twelve[^key-486759fa3e47ffad6a1caec344b45d4e], and
+  - (ii) each of whom is able to provide a reference as to the person's competence to look after children under the age of twelve[^c-486759fa3e47ffad6a1caec344b45d4e], and
   - (iii) where possible, one of whom is the person's most recent employer.
 
 #### 26. Information about the care provided
@@ -259,7 +259,7 @@ In respect of any person, other than the responsible individual or, where releva
 - (g) a statement by the applicant as to—
   - (i) the suitability as to the person's qualifications for the work that the person is to perform,
   - (ii) whether the person has the skills necessary for such work,
-  - (iii) the person's fitness to work and have regular contact with children under the age of twelve[^key-424a5b207cba78b078e261351fc1b4bc];
+  - (iii) the person's fitness to work and have regular contact with children under the age of twelve[^c-424a5b207cba78b078e261351fc1b4bc];
 - (h) a statement by the person as to the state of his or her physical and mental health;
 - (i) a statement by the applicant that the person is physically and mentally fit for the purposes of the work which that person is to perform;
 - (j) a statement by the applicant as to whether he or she is satisfied as the person's identity, the means by which the applicant has satisfied himself or herself and whether the applicant has obtained a copy of the person's birth certificate;
@@ -283,7 +283,7 @@ The birth certificate of the applicant and, where appropriate, that of the respo
 
 **39.** Proof of the identity of the applicant and, where appropriate, the responsible individual and the person in charge, including a recent photograph.
 
-**40.** Certificates or other suitable evidence relating to the professional or technical qualifications of the applicant and, where appropriate, the responsible individual and the person in charge, so far as such qualifications are relevant to looking after children under the age of twelve[^key-865c1c85703866df8469a81b9079c270].
+**40.** Certificates or other suitable evidence relating to the professional or technical qualifications of the applicant and, where appropriate, the responsible individual and the person in charge, so far as such qualifications are relevant to looking after children under the age of twelve[^c-865c1c85703866df8469a81b9079c270].
 
 **41.** A certificate of insurance of the applicant in respect of liability which may be incurred by that person in respect of death, injury, public liability, damage or other loss occurring in relation to the proposed provision of day care.
 
@@ -309,44 +309,44 @@ The birth certificate of the applicant and, where appropriate, that of the respo
 
 **45.** The last annual accounts of the organisation, if any.
 
-**46.** (1) Subject to sub-paragraph (2), a report by a registered medical practitioner as to whether the applicant and, where appropriate, the responsible individual and the person in charge, is physically and mentally fit to look after children under the age of twelve[^key-141f3f4eb6430588808d483b48b63b08].
+**46.** (1) Subject to sub-paragraph (2), a report by a registered medical practitioner as to whether the applicant and, where appropriate, the responsible individual and the person in charge, is physically and mentally fit to look after children under the age of twelve[^c-141f3f4eb6430588808d483b48b63b08].
 
 (2) Where a person mentioned in sub-paragraph (1) is unable to obtain the report referred to in that sub-paragraph, a statement by that person as to the state of his or her physical and mental health.
 
 ## Annotations
 
-[^key-cb57791c5448c2c7645d981adec8b7cd]: Textual amendment: Words in Sch. 2 para. 2(3) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [11(a)](https://www.legislation.gov.uk/wsi/2016/87/regulation/11/a)
+[^c-cb57791c5448c2c7645d981adec8b7cd]: Textual amendment: Words in Sch. 2 para. 2(3) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [11(a)](https://www.legislation.gov.uk/wsi/2016/87/regulation/11/a)
 
 [^M_F_0c821c05-a961-4fdb-fabb-fa078913b622]: Textual amendment: Words in Sch. 2 para. 2(5)(b) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [11(a)](https://www.legislation.gov.uk/wsi/2016/87/regulation/11/a)
 
-[^key-028bdffd39459a715402f2d938af10b3]: Textual amendment: Words in [Sch. 2 para. 11(g)(iii)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/11/g/iii) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [11(b)](https://www.legislation.gov.uk/wsi/2016/87/regulation/11/b)
+[^c-028bdffd39459a715402f2d938af10b3]: Textual amendment: Words in [Sch. 2 para. 11(g)(iii)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/11/g/iii) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [11(b)](https://www.legislation.gov.uk/wsi/2016/87/regulation/11/b)
 
-[^key-e9de95dcfc969d384f9bc0f80c23177a]: Textual amendment: Words in [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/17) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [11(c)](https://www.legislation.gov.uk/wsi/2016/87/regulation/11/c)
+[^c-e9de95dcfc969d384f9bc0f80c23177a]: Textual amendment: Words in [Sch. 2 para. 17](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/17) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [11(c)](https://www.legislation.gov.uk/wsi/2016/87/regulation/11/c)
 
 [^c20612721]: Marginal citation: The requirement for persons undertaking regulated activity in child care settings to register with the ISA under the Vetting and Barring Scheme is being introduced incrementally in accordance with Regulations made under the [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47). In this respect the term “where appropriate” is to be interpreted in accordance with a person's requirement to register with the ISA explained in the *Vetting and Barring Scheme Guidance* issued by the Home Office in March 2010 (ISBN - 978 - 1 - 84987 - 2020 7).
 
-[^key-64b81ece294dabd2e62d36db2cf4bd4b]: Textual amendment: Words in [Sch. 2 para. 20(1)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/20/1) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [11(c)](https://www.legislation.gov.uk/wsi/2016/87/regulation/11/c)
+[^c-64b81ece294dabd2e62d36db2cf4bd4b]: Textual amendment: Words in [Sch. 2 para. 20(1)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/20/1) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [11(c)](https://www.legislation.gov.uk/wsi/2016/87/regulation/11/c)
 
-[^key-c47e6bd9db140c2fea35b9c81ce1fc20]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/21) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 92(1)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/92/1)
+[^c-c47e6bd9db140c2fea35b9c81ce1fc20]: Textual amendment: Words in [Sch. 2 para. 21](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/21) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 92(1)](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/92/1)
 
-[^key-8accf4a0c89380506f2e007110373976]: Textual amendment: Words in Sch. 2 para. 22(3) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/a)
+[^c-8accf4a0c89380506f2e007110373976]: Textual amendment: Words in Sch. 2 para. 22(3) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/a)
 
-[^key-062b44ee92cd712fa6b03efe44e579e1]: Textual amendment: Words in [Sch. 2 para. 22(5)(d)(ii)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/22/5/d/ii) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/a)
+[^c-062b44ee92cd712fa6b03efe44e579e1]: Textual amendment: Words in [Sch. 2 para. 22(5)(d)(ii)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/22/5/d/ii) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/a)
 
 [^c20612731]: Marginal citation: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-3e1dce10ec60ef3a68b323e03620bc53]: Textual amendment: Words in [Sch. 2 para. 24(3)(a)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/24/3/a) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/b)
+[^c-3e1dce10ec60ef3a68b323e03620bc53]: Textual amendment: Words in [Sch. 2 para. 24(3)(a)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/24/3/a) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/b)
 
-[^key-c206d23552881c1c4fad787cce139e0b]: Textual amendment: Words in [Sch. 2 para. 24(3)(b)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/24/3/b) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/b)
+[^c-c206d23552881c1c4fad787cce139e0b]: Textual amendment: Words in [Sch. 2 para. 24(3)(b)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/24/3/b) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/b)
 
-[^key-b4d9e02e9abbe8e90d5bd06bd7cb7ba1]: Textual amendment: Words in [Sch. 2 para. 24(4)(d)(ii)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/24/4/d/ii) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/b)
+[^c-b4d9e02e9abbe8e90d5bd06bd7cb7ba1]: Textual amendment: Words in [Sch. 2 para. 24(4)(d)(ii)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/24/4/d/ii) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/b)
 
-[^key-6f1b37194103b40b4dae8feca5ef8882]: Textual amendment: Words in [Sch. 2 para. 25(3)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/25/3) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(c)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/c)
+[^c-6f1b37194103b40b4dae8feca5ef8882]: Textual amendment: Words in [Sch. 2 para. 25(3)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/25/3) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(c)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/c)
 
-[^key-486759fa3e47ffad6a1caec344b45d4e]: Textual amendment: Words in [Sch. 2 para. 25(4)(d)(ii)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/25/4/d/ii) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(c)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/c)
+[^c-486759fa3e47ffad6a1caec344b45d4e]: Textual amendment: Words in [Sch. 2 para. 25(4)(d)(ii)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/25/4/d/ii) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(c)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/c)
 
-[^key-424a5b207cba78b078e261351fc1b4bc]: Textual amendment: Words in [Sch. 2 para. 34(g)(iii)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/34/g/iii) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(d)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/d)
+[^c-424a5b207cba78b078e261351fc1b4bc]: Textual amendment: Words in [Sch. 2 para. 34(g)(iii)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/34/g/iii) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(d)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/d)
 
-[^key-865c1c85703866df8469a81b9079c270]: Textual amendment: Words in [Sch. 2 para. 40](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/40) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(e)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/e)
+[^c-865c1c85703866df8469a81b9079c270]: Textual amendment: Words in [Sch. 2 para. 40](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/40) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(e)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/e)
 
-[^key-141f3f4eb6430588808d483b48b63b08]: Textual amendment: Words in [Sch. 2 para. 46(1)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/46/1) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(e)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/e)
+[^c-141f3f4eb6430588808d483b48b63b08]: Textual amendment: Words in [Sch. 2 para. 46(1)](https://www.legislation.gov.uk/wsi/2010/2574/schedule/2/paragraph/46/1) substituted (1.4.2016) by [The Child Minding and Day Care (Wales) (Amendment) Regulations 2016 (S.I. 2016/87)](https://www.legislation.gov.uk/wsi/2016/87), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2016/87/regulation/1/2), [12(e)](https://www.legislation.gov.uk/wsi/2016/87/regulation/12/e)

@@ -41,148 +41,148 @@ declaring a concentration compatible with the common market and the functioning 
 
 (2007/193/EC) (revoked)
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 On 26 April 2006 the Commission adopted a Decision in a merger case under Council Regulation (EC) No 139/2004 of 20 January 2004 on the control of concentrations between undertakings, and in particular Article 8(2) of that Regulation. A non-confidential version of the full Decision can be found in the authentic language of the case and in the working languages of the Commission on the website of the Directorate-General for Competition, at the following address: http://ec.europa.eu/comm/competition/index\_en.html
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0]SUMMARY OF THE DECISION
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0]SUMMARY OF THE DECISION
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](1)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](1)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](2)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](3)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](3)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](4)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](4)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0]1.
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0]1.
 
 The relevant product markets
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](5)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](6)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](6)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](7)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](7)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0]2.
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0]2.
 
 The relevant geographic markets
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](8)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](8)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0]3.
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0]3.
 
 Affected markets and competition analysis
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](9)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](9)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](10)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](10)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](11)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](11)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](12)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](12)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](13)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](13)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](14)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](14)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](15)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](15)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](16)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](16)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](17)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](17)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](18)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](18)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](19)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](19)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0]Conclusion
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0]Conclusion
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](20)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](20)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0]4.
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0]4.
 
 Commitments offered by the Parties
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](21)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](21)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](22)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](22)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](23)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](23)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0]5.
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0]5.
 
 Assessment of the commitments submitted
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](24)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](24)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0](25)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0](25)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51e3d38a8d64da6e4f8a119c65ad50f0]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51e3d38a8d64da6e4f8a119c65ad50f0]: Textual amendment: Decision revoked (31.12.2020) by [The Competition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/93)](https://www.legislation.gov.uk/uksi/2019/93), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/93/regulation/1/1), [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2019/93/schedule/3/paragraph/2) (as amended by [S.I. 2020/1343](https://www.legislation.gov.uk/uksi/2020/1343), [reg. 34(3)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/34/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

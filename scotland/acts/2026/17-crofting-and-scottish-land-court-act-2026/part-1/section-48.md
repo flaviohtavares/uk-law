@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Service of notices[^key-f9abb7246e7e017a28c5143887f57c15]
+## 48. Service of notices[^c-f9abb7246e7e017a28c5143887f57c15]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9abb7246e7e017a28c5143887f57c15]: Commencement: S. 48 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-f9abb7246e7e017a28c5143887f57c15]: Commencement: S. 48 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

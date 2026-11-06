@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. [Commission Regulation (EC) No 1251/2008](https://www.legislation.gov.uk/european/regulation/2008/1251)[^key-23409e1f13aa5d31e52cccb6a0087a76]
+## 5. [Commission Regulation (EC) No 1251/2008](https://www.legislation.gov.uk/european/regulation/2008/1251)[^c-23409e1f13aa5d31e52cccb6a0087a76]
 
 *Extent: E+W+S*
 
@@ -220,7 +220,7 @@ summary: ''
 
 ## Annotations
 
-[^key-23409e1f13aa5d31e52cccb6a0087a76]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1388/regulation/5) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-23409e1f13aa5d31e52cccb6a0087a76]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1388/regulation/5) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00011]: Footnote: [S.I. 2009/463](https://www.legislation.gov.uk/uksi/2009/463); amended by [S.I. 2011/981](https://www.legislation.gov.uk/uksi/2011/981) and [2019/1488](https://www.legislation.gov.uk/uksi/2019/1488).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Power to make provision in relation to appointments made by a Minister of the Crown[^key-b12166b2a8e0cf2f7dcba2e7f0422246]
+## 15. Power to make provision in relation to appointments made by a Minister of the Crown[^c-b12166b2a8e0cf2f7dcba2e7f0422246]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b12166b2a8e0cf2f7dcba2e7f0422246]: Commencement: S. 15 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-b12166b2a8e0cf2f7dcba2e7f0422246]: Commencement: S. 15 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

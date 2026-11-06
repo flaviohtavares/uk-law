@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Dissolution by local authority of local authority federations[^key-f762fab05e66034a5b5f4013395b3577]
+## 87. Dissolution by local authority of local authority federations[^c-f762fab05e66034a5b5f4013395b3577]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ the local authority must give notice of the fact and the propose date of dissolu
 
 ## Annotations
 
-[^key-f762fab05e66034a5b5f4013395b3577]: Commencement: Reg. 87 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-f762fab05e66034a5b5f4013395b3577]: Commencement: Reg. 87 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

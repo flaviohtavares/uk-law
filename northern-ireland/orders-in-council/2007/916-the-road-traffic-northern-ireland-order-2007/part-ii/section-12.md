@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 12. Financial penalty deposits[^key-1d010f56738381a931f16ea4847f7a1c]
+## 12. Financial penalty deposits[^c-1d010f56738381a931f16ea4847f7a1c]
 
 *Extent: N.I.*
 
@@ -169,4 +169,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d010f56738381a931f16ea4847f7a1c]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisi/2007/916/article/12) in operation at 23.4.2012 by [S.R. 2012/16](https://www.legislation.gov.uk/nisr/2012/16), [art. 2](https://www.legislation.gov.uk/nisr/2012/16/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/16/schedule)
+[^c-1d010f56738381a931f16ea4847f7a1c]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisi/2007/916/article/12) in operation at 23.4.2012 by [S.R. 2012/16](https://www.legislation.gov.uk/nisr/2012/16), [art. 2](https://www.legislation.gov.uk/nisr/2012/16/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/16/schedule)

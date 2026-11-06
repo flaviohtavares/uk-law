@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Duty to encourage availability of easily usable apparatus[^key-e672ada70930c4f2d159223dbf369623]
+## 10. Duty to encourage availability of easily usable apparatus[^c-e672ada70930c4f2d159223dbf369623]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 (2) It shall be the duty of OFCOM from time to time to review whether they need to take further steps, or to enter into further arrangements, for the purpose of performing their duty under this section.
 
-(3) OFCOM must not do anything under this section that would be inconsistent with the [^key-1c3b1c9e636efb08694c82d90ded6b5e]... requirements set out in section 4.
+(3) OFCOM must not do anything under this section that would be inconsistent with the [^c-1c3b1c9e636efb08694c82d90ded6b5e]... requirements set out in section 4.
 
 (4) In this section “**electronic communications apparatus**” means apparatus that is designed or adapted for a use which consists of or includes the sending or receiving of communications or other signals that are transmitted by means of an electronic communications network.
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e672ada70930c4f2d159223dbf369623]: Commencement: S. 10 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e672ada70930c4f2d159223dbf369623]: Commencement: S. 10 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-1c3b1c9e636efb08694c82d90ded6b5e]: Textual amendment: Word in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/10/3) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1c3b1c9e636efb08694c82d90ded6b5e]: Textual amendment: Word in [s. 10(3)](https://www.legislation.gov.uk/ukpga/2003/21/section/10/3) omitted (31.12.2020) by virtue of [The Electronic Communications and Wireless Telegraphy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/246)](https://www.legislation.gov.uk/uksi/2019/246), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/246/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2019/246/schedule/1/paragraph/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

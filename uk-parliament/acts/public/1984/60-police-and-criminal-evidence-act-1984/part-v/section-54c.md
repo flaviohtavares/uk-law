@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54C. Power to retain articles seized[^key-ea697283387de04a0b3cee50a758a86c]
+## 54C. Power to retain articles seized[^c-ea697283387de04a0b3cee50a758a86c]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea697283387de04a0b3cee50a758a86c]: Textual amendment: Ss. 54B, 54C inserted (14.12.2009 for specified purposes, 3.10.2011 for specified purposes, 8.10.2012 in so far as not already in force) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 108(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/108/1), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2009/3253/article/3/1/c); [S.I. 2011/2148](https://www.legislation.gov.uk/uksi/2011/2148), [art. 2](https://www.legislation.gov.uk/uksi/2011/2148/article/2); [S.I. 2012/2374](https://www.legislation.gov.uk/uksi/2012/2374), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/2374/article/3/c)
+[^c-ea697283387de04a0b3cee50a758a86c]: Textual amendment: Ss. 54B, 54C inserted (14.12.2009 for specified purposes, 3.10.2011 for specified purposes, 8.10.2012 in so far as not already in force) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 108(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/108/1), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180)); [S.I. 2009/3253](https://www.legislation.gov.uk/uksi/2009/3253), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2009/3253/article/3/1/c); [S.I. 2011/2148](https://www.legislation.gov.uk/uksi/2011/2148), [art. 2](https://www.legislation.gov.uk/uksi/2011/2148/article/2); [S.I. 2012/2374](https://www.legislation.gov.uk/uksi/2012/2374), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/2374/article/3/c)

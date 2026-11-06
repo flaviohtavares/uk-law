@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. The chair at meetings[^key-9d7060d5a100a1027bfc5f3574e2c71a]
+## 70. The chair at meetings[^c-9d7060d5a100a1027bfc5f3574e2c71a]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d7060d5a100a1027bfc5f3574e2c71a]: Commencement: Rule 70 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-9d7060d5a100a1027bfc5f3574e2c71a]: Commencement: Rule 70 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

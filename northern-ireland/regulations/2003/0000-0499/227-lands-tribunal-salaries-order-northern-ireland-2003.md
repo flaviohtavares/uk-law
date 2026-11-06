@@ -31,7 +31,7 @@ summary: ''
 
 LANDS TRIBUNAL
 
-Lands Tribunal (Salaries) Order (Northern Ireland) 2003 (revoked)[^key-6fcb0ad8c76820ae63eda0b3804ca83d]
+Lands Tribunal (Salaries) Order (Northern Ireland) 2003 (revoked)[^c-6fcb0ad8c76820ae63eda0b3804ca83d]
 
 Made
 
@@ -43,26 +43,26 @@ Coming into operation
 
 1st June 2003
 
-[^key-6fcb0ad8c76820ae63eda0b3804ca83d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6fcb0ad8c76820ae63eda0b3804ca83d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-6fcb0ad8c76820ae63eda0b3804ca83d]
+## 1. Title and commencement[^c-6fcb0ad8c76820ae63eda0b3804ca83d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-6fcb0ad8c76820ae63eda0b3804ca83d]
+## 2. Revocation[^c-6fcb0ad8c76820ae63eda0b3804ca83d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increases in salaries[^key-6fcb0ad8c76820ae63eda0b3804ca83d]
+## 3. Increases in salaries[^c-6fcb0ad8c76820ae63eda0b3804ca83d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6fcb0ad8c76820ae63eda0b3804ca83d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6fcb0ad8c76820ae63eda0b3804ca83d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6fcb0ad8c76820ae63eda0b3804ca83d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6fcb0ad8c76820ae63eda0b3804ca83d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6fcb0ad8c76820ae63eda0b3804ca83d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/227) revoked (1.7.2004) by [Lands Tribunal (Salaries) Order (Northern Ireland) 2004 (S.R. 2004/194)](https://www.legislation.gov.uk/nisr/2004/194), [arts. 1](https://www.legislation.gov.uk/nisr/2004/194/article/1), [2](https://www.legislation.gov.uk/nisr/2004/194/article/2)
+[^c-6fcb0ad8c76820ae63eda0b3804ca83d]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2003/227) revoked (1.7.2004) by [Lands Tribunal (Salaries) Order (Northern Ireland) 2004 (S.R. 2004/194)](https://www.legislation.gov.uk/nisr/2004/194), [arts. 1](https://www.legislation.gov.uk/nisr/2004/194/article/1), [2](https://www.legislation.gov.uk/nisr/2004/194/article/2)

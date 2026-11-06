@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Generic promotions[^key-c358e0ccd54b73af440c30095a33982c]
+## 17. Generic promotions[^c-c358e0ccd54b73af440c30095a33982c]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c358e0ccd54b73af440c30095a33982c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/1335) revoked (1.7.2005) by [The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (S.I. 2005/1529)](https://www.legislation.gov.uk/uksi/2005/1529), [art. 1](https://www.legislation.gov.uk/uksi/2005/1529/article/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1529/schedule/6)
+[^c-c358e0ccd54b73af440c30095a33982c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2001/1335) revoked (1.7.2005) by [The Financial Services and Markets Act 2000 (Financial Promotion) Order 2005 (S.I. 2005/1529)](https://www.legislation.gov.uk/uksi/2005/1529), [art. 1](https://www.legislation.gov.uk/uksi/2005/1529/article/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1529/schedule/6)
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

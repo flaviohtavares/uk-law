@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Provision of services[^key-906d4ae57de097686dd51d01cc48ec23]
+## 10. Provision of services[^c-906d4ae57de097686dd51d01cc48ec23]
 
 *Extent: S*
 
-(1) On the request of a person mentioned in subsection (3) of section 1, a local authority must provide [^key-9bd95f93bbd9175342738062ffdab556]... services of a type mentioned in paragraph (d) of subsection (4) of that section to the person.
+(1) On the request of a person mentioned in subsection (3) of section 1, a local authority must provide [^c-9bd95f93bbd9175342738062ffdab556]... services of a type mentioned in paragraph (d) of subsection (4) of that section to the person.
 
 (2) On the request of a person mentioned in paragraph (a), (c) or (g) of subsection (3) of section 1, a local authority—
 
-- (a) must provide [^key-63ef7e96c8125294f20602f134bc12f1]... services of a type mentioned in paragraphs (a) to (c) of subsection (4) of that section to the person, and
+- (a) must provide [^c-63ef7e96c8125294f20602f134bc12f1]... services of a type mentioned in paragraphs (a) to (c) of subsection (4) of that section to the person, and
 - (b) may, without prejudice to subsection (4)(a), provide adoption support services to the person.
 
 (3) For the purposes of subsection (2), it is immaterial whether the local authority has made an assessment of the needs of the person under section 9(1)(a).
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-906d4ae57de097686dd51d01cc48ec23]: Commencement: S. 10 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-906d4ae57de097686dd51d01cc48ec23]: Commencement: S. 10 in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-9bd95f93bbd9175342738062ffdab556]: Textual amendment: Word in s. 10(1) repealed (27.1.2010) by [Adoption and Children (Scotland) Act 2007 (Modification of Enactments) Order 2010 (S.S.I. 2010/21)](https://www.legislation.gov.uk/ssi/2010/21), [art. 1](https://www.legislation.gov.uk/ssi/2010/21/article/1), [Sch. para. 8(2)](https://www.legislation.gov.uk/ssi/2010/21/schedule/paragraph/8/2)
+[^c-9bd95f93bbd9175342738062ffdab556]: Textual amendment: Word in s. 10(1) repealed (27.1.2010) by [Adoption and Children (Scotland) Act 2007 (Modification of Enactments) Order 2010 (S.S.I. 2010/21)](https://www.legislation.gov.uk/ssi/2010/21), [art. 1](https://www.legislation.gov.uk/ssi/2010/21/article/1), [Sch. para. 8(2)](https://www.legislation.gov.uk/ssi/2010/21/schedule/paragraph/8/2)
 
-[^key-63ef7e96c8125294f20602f134bc12f1]: Textual amendment: Word in s. 10(2)(a) repealed (27.1.2010) by [Adoption and Children (Scotland) Act 2007 (Modification of Enactments) Order 2010 (S.S.I. 2010/21)](https://www.legislation.gov.uk/ssi/2010/21), [art. 1](https://www.legislation.gov.uk/ssi/2010/21/article/1), [Sch. para. 8(2)](https://www.legislation.gov.uk/ssi/2010/21/schedule/paragraph/8/2)
+[^c-63ef7e96c8125294f20602f134bc12f1]: Textual amendment: Word in s. 10(2)(a) repealed (27.1.2010) by [Adoption and Children (Scotland) Act 2007 (Modification of Enactments) Order 2010 (S.S.I. 2010/21)](https://www.legislation.gov.uk/ssi/2010/21), [art. 1](https://www.legislation.gov.uk/ssi/2010/21/article/1), [Sch. para. 8(2)](https://www.legislation.gov.uk/ssi/2010/21/schedule/paragraph/8/2)

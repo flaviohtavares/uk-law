@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 313. Requirements with respect to policies of insurance[^key-b308155ee126e171f62fd57cb9bad3d3]
+## 313. Requirements with respect to policies of insurance[^c-b308155ee126e171f62fd57cb9bad3d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ For section 145(5) of the Road Traffic Act 1988 (requirements with respect to po
 
 ## Annotations
 
-[^key-b308155ee126e171f62fd57cb9bad3d3]: Commencement: Art. 313 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b308155ee126e171f62fd57cb9bad3d3]: Commencement: Art. 313 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

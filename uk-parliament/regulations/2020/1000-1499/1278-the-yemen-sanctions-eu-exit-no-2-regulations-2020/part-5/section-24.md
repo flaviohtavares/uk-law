@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Technical assistance relating to military goods and military technology[^key-4cdbb172282f36f0a63c862112d0e285][^key-bc35dbff34668c18a50a43c440ad3aed]
+## 24. Technical assistance relating to military goods and military technology[^c-4cdbb172282f36f0a63c862112d0e285][^c-bc35dbff34668c18a50a43c440ad3aed]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4cdbb172282f36f0a63c862112d0e285]: Commencement: Reg. 24 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
+[^c-4cdbb172282f36f0a63c862112d0e285]: Commencement: Reg. 24 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1278/regulation/1/2)
 
-[^key-bc35dbff34668c18a50a43c440ad3aed]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/1278/regulation/24) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)
+[^c-bc35dbff34668c18a50a43c440ad3aed]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2020/1278/regulation/24) in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 20(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/20/2)

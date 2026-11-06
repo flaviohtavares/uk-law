@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Conditions: General[^key-84f90c071c6252ab61a062c04bea4fdf]
+## 3. Conditions: General[^c-84f90c071c6252ab61a062c04bea4fdf]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Subject to the provisions of any order made by the Department under Article 5 of
 
 ## Annotations
 
-[^key-84f90c071c6252ab61a062c04bea4fdf]: Commencement: Reg. 3 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-84f90c071c6252ab61a062c04bea4fdf]: Commencement: Reg. 3 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00034]: Footnote: [S.I. 2004/311 (N.I. 2)](https://www.legislation.gov.uk/nisi/2004/311)

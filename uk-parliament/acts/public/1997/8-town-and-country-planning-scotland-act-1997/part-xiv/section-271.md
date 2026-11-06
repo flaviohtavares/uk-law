@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 271. Service of notices.[^c950397][^key-d6ffa0e4d9d3d0a1d661af3c57e18f9b][^key-1c4a8f2066f857bff13a761d9a0a9cab][^key-62b7cd314b8b73ad92205fd7676d009b]
+## 271. Service of notices.[^c950397][^c-d6ffa0e4d9d3d0a1d661af3c57e18f9b][^c-1c4a8f2066f857bff13a761d9a0a9cab][^c-62b7cd314b8b73ad92205fd7676d009b]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) by delivering it to the person on whom it is to be served or to whom it is to be given,
 - (b) by leaving it at the usual or last known place of abode of that person or, in a case where an address for service has been given by that person, at that address,
 - (c) by sending it in a prepaid registered letter, or by the recorded delivery service, addressed to that person at his usual or last known place of abode, or, in a case where an address for service has been given by that person, at that address,
-- (cc)[^key-137d423d59447e0699678ff21950d062] in a case where an address for service using electronic communications has been given by that person, by sending it using electronic communications, in accordance with the condition set out in subsection (4), to that person at that address (subject to subsection (5)); or
+- (cc)[^c-137d423d59447e0699678ff21950d062] in a case where an address for service using electronic communications has been given by that person, by sending it using electronic communications, in accordance with the condition set out in subsection (4), to that person at that address (subject to subsection (5)); or
 - (d) in the case of a person on whom the notice is required to be served as being a person appearing from the valuation roll to have an interest in land, by sending it in a prepaid registered letter, or by the recorded delivery service, addressed to that person at his address as entered in the valuation roll, or
 - (e) in the case of an incorporated company or body, by delivering it to the secretary or clerk of the company or body at their registered or principal office, or sending it in a prepaid registered letter, or by the recorded delivery service, addressed to the secretary or clerk of the company or body at that office.
 
@@ -43,7 +43,7 @@ summary: ''
 
 the notice or document shall be taken to be duly served on all persons having interests in, and on any occupiers of, premises comprised in that part of the land (other than a person who has given to that authority an address for the service of the notice or document on him) if it is addressed to “**the owners and any lessees and occupiers**” of that part of the land (describing it) and is affixed conspicuously to some object on the land.
 
-(4)[^key-ac418b2f5ddf861144f891baceccf1b0] The condition mentioned in subsection (1)(cc) is that the notice or other document shall be–
+(4)[^c-ac418b2f5ddf861144f891baceccf1b0] The condition mentioned in subsection (1)(cc) is that the notice or other document shall be–
 
 - (a) capable of being accessed by the person mentioned in that provision;
 - (b) legible in all material respects; and
@@ -81,12 +81,12 @@ and for this purpose “legible in all material respects” means that the infor
 
     S. 271 applied (27.5.1997) by [1997 c. 10](https://www.legislation.gov.uk/ukpga/1997/10), [ss. 36](https://www.legislation.gov.uk/ukpga/1997/10/section/36), [40(2)](https://www.legislation.gov.uk/ukpga/1997/10/section/40/2) (with [ss. 9(3)](https://www.legislation.gov.uk/ukpga/1997/10/section/9/3), [10(5)](https://www.legislation.gov.uk/ukpga/1997/10/section/10/5), [38(6)](https://www.legislation.gov.uk/ukpga/1997/10/section/38/6))
 
-[^key-d6ffa0e4d9d3d0a1d661af3c57e18f9b]: Modification: S. 271 applied (with application in accordance with reg. 2 of the amending S.S.I.) by [Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008 (S.S.I. 2008/432)](https://www.legislation.gov.uk/ssi/2008/432), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2008/432/regulation/1/2), [44](https://www.legislation.gov.uk/ssi/2008/432/regulation/44)
+[^c-d6ffa0e4d9d3d0a1d661af3c57e18f9b]: Modification: S. 271 applied (with application in accordance with reg. 2 of the amending S.S.I.) by [Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2008 (S.S.I. 2008/432)](https://www.legislation.gov.uk/ssi/2008/432), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2008/432/regulation/1/2), [44](https://www.legislation.gov.uk/ssi/2008/432/regulation/44)
 
-[^key-1c4a8f2066f857bff13a761d9a0a9cab]: Modification: S. 271 applied (30.6.2013) by [The Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 (S.S.I. 2013/155)](https://www.legislation.gov.uk/ssi/2013/155), [regs. 1](https://www.legislation.gov.uk/ssi/2013/155/regulation/1), [48](https://www.legislation.gov.uk/ssi/2013/155/regulation/48) (with [reg. 2](https://www.legislation.gov.uk/ssi/2013/155/regulation/2))
+[^c-1c4a8f2066f857bff13a761d9a0a9cab]: Modification: S. 271 applied (30.6.2013) by [The Town and Country Planning (Development Management Procedure) (Scotland) Regulations 2013 (S.S.I. 2013/155)](https://www.legislation.gov.uk/ssi/2013/155), [regs. 1](https://www.legislation.gov.uk/ssi/2013/155/regulation/1), [48](https://www.legislation.gov.uk/ssi/2013/155/regulation/48) (with [reg. 2](https://www.legislation.gov.uk/ssi/2013/155/regulation/2))
 
-[^key-62b7cd314b8b73ad92205fd7676d009b]: Modification: S. 271 applied (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [59](https://www.legislation.gov.uk/ssi/2015/181/regulation/59)
+[^c-62b7cd314b8b73ad92205fd7676d009b]: Modification: S. 271 applied (1.6.2015) by [The Town and Country Planning (Hazardous Substances) (Scotland) Regulations 2015 (S.S.I. 2015/181)](https://www.legislation.gov.uk/ssi/2015/181), [regs. 1](https://www.legislation.gov.uk/ssi/2015/181/regulation/1), [59](https://www.legislation.gov.uk/ssi/2015/181/regulation/59)
 
-[^key-137d423d59447e0699678ff21950d062]: Textual amendment: S. 271(1)(cc) inserted (28.7.2004) by [Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [4(1)](https://www.legislation.gov.uk/ssi/2004/332/article/4/1)[(2)](https://www.legislation.gov.uk/ssi/2004/332/article/4/2)
+[^c-137d423d59447e0699678ff21950d062]: Textual amendment: S. 271(1)(cc) inserted (28.7.2004) by [Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [4(1)](https://www.legislation.gov.uk/ssi/2004/332/article/4/1)[(2)](https://www.legislation.gov.uk/ssi/2004/332/article/4/2)
 
-[^key-ac418b2f5ddf861144f891baceccf1b0]: Textual amendment: S. 271(4)(5) inserted (28.7.2004) by [Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [4(1)](https://www.legislation.gov.uk/ssi/2004/332/article/4/1)[(3)](https://www.legislation.gov.uk/ssi/2004/332/article/4/3)
+[^c-ac418b2f5ddf861144f891baceccf1b0]: Textual amendment: S. 271(4)(5) inserted (28.7.2004) by [Town and Country Planning (Electronic Communications) (Scotland) Order 2004 (S.S.I. 2004/332)](https://www.legislation.gov.uk/ssi/2004/332), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2004/332/article/1/1), [4(1)](https://www.legislation.gov.uk/ssi/2004/332/article/4/1)[(3)](https://www.legislation.gov.uk/ssi/2004/332/article/4/3)

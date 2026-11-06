@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Duties of Authority and relevant public authorities to share information[^key-3875ea192f561a0b881081ffffd5491f]
+## 60. Duties of Authority and relevant public authorities to share information[^c-3875ea192f561a0b881081ffffd5491f]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ the public authority must give the Authority the information as soon as practica
 
 ## Annotations
 
-[^key-3875ea192f561a0b881081ffffd5491f]: Commencement: S. 60 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-3875ea192f561a0b881081ffffd5491f]: Commencement: S. 60 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

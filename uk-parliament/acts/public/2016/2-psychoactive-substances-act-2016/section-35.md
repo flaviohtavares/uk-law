@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Transfer of proceedings from youth court[^c22562511][^key-260951798d40d2c0084b0ca1b03953a1]
+## 35. Transfer of proceedings from youth court[^c22562511][^c-260951798d40d2c0084b0ca1b03953a1]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c22562511]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2016/2/section/35) in force at Royal Assent for specified purposes, see [s. 63(1)(b)](https://www.legislation.gov.uk/ukpga/2016/2/section/63/1/b)
 
-[^key-260951798d40d2c0084b0ca1b03953a1]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2016/2/section/35) in force at 26.5.2016 in so far as not already in force by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)
+[^c-260951798d40d2c0084b0ca1b03953a1]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2016/2/section/35) in force at 26.5.2016 in so far as not already in force by [S.I. 2016/553](https://www.legislation.gov.uk/uksi/2016/553), [reg. 2](https://www.legislation.gov.uk/uksi/2016/553/regulation/2)

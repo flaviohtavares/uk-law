@@ -38,66 +38,66 @@ on monitoring and reporting of data on the registration of new passenger cars pu
 
 (Text with EEA relevance) (revoked)
 
-[^key-2a09fe139444b7d2152971fa3b8a0739]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a09fe139444b7d2152971fa3b8a0739]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Definitions[^key-2a09fe139444b7d2152971fa3b8a0739]
+## Article 1. Definitions[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Data transmission[^key-2a09fe139444b7d2152971fa3b8a0739]
+## Article 2. Data transmission[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Data sources[^key-2a09fe139444b7d2152971fa3b8a0739]
+## Article 3. Data sources[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Data maintenance and control[^key-2a09fe139444b7d2152971fa3b8a0739]
+## Article 4. Data maintenance and control[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Preparation of data by Secretary of State[^key-2a09fe139444b7d2152971fa3b8a0739]
+## Article 5. Preparation of data by Secretary of State[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Reporting of filling stations supplying ethanol (E85) fuel[^key-2a09fe139444b7d2152971fa3b8a0739]
+## Article 6. Reporting of filling stations supplying ethanol (E85) fuel[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Vehicles not covered by ... UK (NI) or EU type-approval[^key-2a09fe139444b7d2152971fa3b8a0739]
+## Article 7. Vehicles not covered by ... UK (NI) or EU type-approval[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. List of manufacturers[^key-2a09fe139444b7d2152971fa3b8a0739]
+## Article 8. List of manufacturers[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Additional information to be provided by manufacturers[^key-2a09fe139444b7d2152971fa3b8a0739]
+## Article 9. Additional information to be provided by manufacturers[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9a. Preparation of the provisional dataset[^key-2a09fe139444b7d2152971fa3b8a0739]
+## Article 9a. Preparation of the provisional dataset[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force[^key-2a09fe139444b7d2152971fa3b8a0739]
+## Article 10. Entry into force[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2a09fe139444b7d2152971fa3b8a0739]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2a09fe139444b7d2152971fa3b8a0739]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-2a09fe139444b7d2152971fa3b8a0739]
+## ANNEX I[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Table of data precision[^key-2a09fe139444b7d2152971fa3b8a0739]
+## ANNEX II — Table of data precision[^c-2a09fe139444b7d2152971fa3b8a0739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2a09fe139444b7d2152971fa3b8a0739]: Textual amendment: Regulation revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [113(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/113/1) (with [art. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116)); and revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [20](https://www.legislation.gov.uk/uksi/2024/1130/article/20) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))
+[^c-2a09fe139444b7d2152971fa3b8a0739]: Textual amendment: Regulation revoked (E.W.S.) (3.1.2024) by [The Vehicle Emissions Trading Schemes Order 2023 (S.I. 2023/1394)](https://www.legislation.gov.uk/uksi/2023/1394), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b), [113(1)](https://www.legislation.gov.uk/uksi/2023/1394/article/113/1) (with [art. 116](https://www.legislation.gov.uk/uksi/2023/1394/article/116)); and revoked (N.I.) (1.1.2025) by [The Vehicle Emissions Trading Schemes (Amendment) Order 2024 (S.I. 2024/1130)](https://www.legislation.gov.uk/uksi/2024/1130), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2024/1130/article/1/3), [20](https://www.legislation.gov.uk/uksi/2024/1130/article/20) (with [art. 25](https://www.legislation.gov.uk/uksi/2024/1130/article/25))

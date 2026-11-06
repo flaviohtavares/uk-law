@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Arrangements for the protection of children[^key-65476631fb074c2f332af8099108e3b6]
+## 14. Arrangements for the protection of children[^c-65476631fb074c2f332af8099108e3b6]
 
 *Extent: N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 - (a) liaison and co-operation with any HSS trust which is making child protection enquiries in relation to any child accommodated in the residential family centre;
 - (b) the prompt referral to the HSS trust in whose area the residential family centre is situated, of any allegations of abuse or neglect affecting any child accommodated in the residential family centre;
-- (c) notification (in accordance with regulation 30) of the instigation and outcome of any child protection enquiries involving any child accommodated in the residential family centre, to the RQIA[^key-1ab6982513a93aea57feba0c8096e8f0] and the child’s HSS trust ;
+- (c) notification (in accordance with regulation 30) of the instigation and outcome of any child protection enquiries involving any child accommodated in the residential family centre, to the RQIA[^c-1ab6982513a93aea57feba0c8096e8f0] and the child’s HSS trust ;
 - (d) written records to be kept of any allegation of abuse or neglect, and of the action taken in response;
 - (e) consideration to be given in each case to the measures which may be necessary to protect children in the residential family centre following an allegation of abuse or neglect;
 - (f) a requirement for persons working at the residential family centre to report any concerns about the welfare or safety of any child accommodated in the residential family centre to one of the following—
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-65476631fb074c2f332af8099108e3b6]: Commencement: Reg. 14 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-65476631fb074c2f332af8099108e3b6]: Commencement: Reg. 14 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
 
-[^key-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-1ab6982513a93aea57feba0c8096e8f0]: Textual amendment: Words in Regulations substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

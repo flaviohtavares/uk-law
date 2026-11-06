@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Prohibition on keeping certain animals[^key-e4cf5108f9f02c18ea5d7d3f10a43f1c]
+## 28. Prohibition on keeping certain animals[^c-e4cf5108f9f02c18ea5d7d3f10a43f1c]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ as they consider appropriate.
 
 ## Annotations
 
-[^key-e4cf5108f9f02c18ea5d7d3f10a43f1c]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2006/11/section/28) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-e4cf5108f9f02c18ea5d7d3f10a43f1c]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2006/11/section/28) in force at 6.10.2006 by [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

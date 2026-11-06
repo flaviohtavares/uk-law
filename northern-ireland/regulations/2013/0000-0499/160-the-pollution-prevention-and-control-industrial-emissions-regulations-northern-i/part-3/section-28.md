@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Suspension notices[^key-bfa62d7b55cb5c132c51a14c5bc809d5]
+## 28. Suspension notices[^c-bfa62d7b55cb5c132c51a14c5bc809d5]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfa62d7b55cb5c132c51a14c5bc809d5]: Commencement: Reg. 28 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-bfa62d7b55cb5c132c51a14c5bc809d5]: Commencement: Reg. 28 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23HA. Decisions about efficiency or effectiveness[^key-8a507589c695766a0ee91074c470d896][^key-0d80583ecb11921312f235e3b9a88fc9]
+## 23HA. Decisions about efficiency or effectiveness[^c-8a507589c695766a0ee91074c470d896][^c-0d80583ecb11921312f235e3b9a88fc9]
 
 *Extent: E+W+S*
 
@@ -28,6 +28,6 @@ In reaching a conclusion about whether or not a collaboration agreement is, or w
 
 ## Annotations
 
-[^key-8a507589c695766a0ee91074c470d896]: Textual amendment: S. 23HA inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/10); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-8a507589c695766a0ee91074c470d896]: Textual amendment: S. 23HA inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2011/13/schedule/12/paragraph/10); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-0d80583ecb11921312f235e3b9a88fc9]: Textual amendment: Ss. 23-23I substituted for s. 23 (12.3.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 5](https://www.legislation.gov.uk/ukpga/2009/26/section/5), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/507/article/4/a)
+[^c-0d80583ecb11921312f235e3b9a88fc9]: Textual amendment: Ss. 23-23I substituted for s. 23 (12.3.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 5](https://www.legislation.gov.uk/ukpga/2009/26/section/5), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2010/507](https://www.legislation.gov.uk/uksi/2010/507), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/507/article/4/a)

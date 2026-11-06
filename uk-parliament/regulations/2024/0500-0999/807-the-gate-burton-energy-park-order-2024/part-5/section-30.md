@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Apparatus and rights of statutory undertakers in temporarily closed streets[^key-78fd550fd0d5090ee22671a05ba9ee06]
+## 30. Apparatus and rights of statutory undertakers in temporarily closed streets[^c-78fd550fd0d5090ee22671a05ba9ee06]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a street is altered or diverted or its use is temporarily prohibited or re
 
 ## Annotations
 
-[^key-78fd550fd0d5090ee22671a05ba9ee06]: Commencement: Art. 30 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-78fd550fd0d5090ee22671a05ba9ee06]: Commencement: Art. 30 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

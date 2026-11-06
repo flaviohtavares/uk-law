@@ -24,7 +24,7 @@ Article 43(4)
 
 ### PART 1 — General
 
-#### 1. Interpretation[^key-8bd608f5f5ec25453f819f1687d10ce4]
+#### 1. Interpretation[^c-8bd608f5f5ec25453f819f1687d10ce4]
 
 (1) This Schedule has effect for controlling donations to individual candidates at a Senedd election and in the following provisions of this Schedule, references to “candidate” are to be construed accordingly.
 
@@ -38,7 +38,7 @@ Article 43(4)
 
 (4) In relation to a donation received by a candidate at a Senedd election, references to a “permissible donor falling within section 54(2) of the 2000 Political Parties Act”[^f00124] are to be read as if section 54(2) did not include a party registered in the Northern Ireland register maintained by the Electoral Commission under Part 2 of that Act.
 
-#### 2. Donations: general rules[^key-97da4f82fa7464e81a5c7da122a03a46]
+#### 2. Donations: general rules[^c-97da4f82fa7464e81a5c7da122a03a46]
 
 (1) ”Donation”, in relation to a candidate at a Senedd election, means, subject to paragraph 4—
 
@@ -73,7 +73,7 @@ regard must be had to the total value in monetary terms of the consideration pro
 - (a) any reference to anything being transferred or provided to a candidate or the candidate’s election agent includes a reference to it being given or transferred either directly or indirectly through any third person, and
 - (b) “**gift**” includes a bequest or any other form of testamentary disposition.
 
-#### 3. Sponsorship[^key-12a949130436a653df4c956819b97f2c]
+#### 3. Sponsorship[^c-12a949130436a653df4c956819b97f2c]
 
 (1) For the purposes of this Schedule, sponsorship is provided in relation to a candidate if—
 
@@ -97,7 +97,7 @@ regard must be had to the total value in monetary terms of the consideration pro
 
 (4) In this paragraph “**publication**” means a publication made available in whatever form and by whatever means, whether or not to the public at large or any section of the public.
 
-#### 4. Payments etc. not to be regarded as donations[^key-8f7db607ca088ac0b9c4ff2fa6aed1c3]
+#### 4. Payments etc. not to be regarded as donations[^c-8f7db607ca088ac0b9c4ff2fa6aed1c3]
 
 (1) None of the following are to be regarded as a donation—
 
@@ -107,7 +107,7 @@ regard must be had to the total value in monetary terms of the consideration pro
 
 (2) Any donation the value of which, determined in accordance with paragraph 5, is not more than £500 is also to be disregarded.
 
-#### 5. Value of donations[^key-93ac11d43842037907353b64af25f30c]
+#### 5. Value of donations[^c-93ac11d43842037907353b64af25f30c]
 
 (1) The value of any donation falling within paragraph 2(1)(a), other than money, is to be taken to be the market value of the property in question.
 
@@ -134,7 +134,7 @@ regard must be had to the total value in monetary terms of the consideration pro
 
 ### PART 2 — Controls on donations
 
-#### 6. Prohibition on accepting donations from impermissible donors[^key-e7f028b4547ae4407e022af6b8426972]
+#### 6. Prohibition on accepting donations from impermissible donors[^c-e7f028b4547ae4407e022af6b8426972]
 
 (1) A relevant donation received by a candidate or a candidate’s election agent must not be accepted if—
 
@@ -155,7 +155,7 @@ regard must be had to the total value in monetary terms of the consideration pro
 - (a) on behalf of the principal donor and one or more other persons, or
 - (b) on behalf of two or more other persons.
 
-(5) For the purposes of this Part, each individual contribution by a person falling within sub-paragraph (4)(a) or (b) of more than £500[^key-a92d922eab0dce21f5de72636b3109f4] is to be treated as if it were a separate donation received from that person.
+(5) For the purposes of this Part, each individual contribution by a person falling within sub-paragraph (4)(a) or (b) of more than £500[^c-a92d922eab0dce21f5de72636b3109f4] is to be treated as if it were a separate donation received from that person.
 
 (6) In relation to each separate donation, the principal donor must ensure that, at the time when the principal donation is received by the candidate or the candidate’s election agent, the candidate or the candidate’s election agent is given—
 
@@ -165,7 +165,7 @@ regard must be had to the total value in monetary terms of the consideration pro
 (7) Sub-paragraph (8) applies where—
 
 - (a) any person (“**the agent**”) causes an amount to be received by a candidate or the candidate’s election agent by way of a donation on behalf of another person (“**the donor**”), and
-- (b) the amount of the donation is more than £500[^key-b04d7b58de6cc6d406dc0a780d3d3a33].
+- (b) the amount of the donation is more than £500[^c-b04d7b58de6cc6d406dc0a780d3d3a33].
 
 (8) The agent must ensure that, at the time when the donation is received by the candidate or the candidate’s election agent, the candidate or the candidate’s election agent is given all the details in respect of the donor as are required by virtue of paragraph 11(c).
 
@@ -178,7 +178,7 @@ regard must be had to the total value in monetary terms of the consideration pro
 
 (11) In relation to an offence committed after the commencement of section 281(5) of the Criminal Justice Act 2003[^f00127], the reference in sub-paragraph (10)(a) to 6 months must be taken to be a reference to 51 weeks.
 
-#### 7. Acceptance or return of donations[^key-d571ef68baae32dfb9decf86b871995b]
+#### 7. Acceptance or return of donations[^c-d571ef68baae32dfb9decf86b871995b]
 
 (1) Sections 56 to 60 of the 2000 Political Parties Act[^f00128] are to apply for the purposes of this Schedule, as they apply in relation to a registered party and to a donation received by a registered party, in relation to—
 
@@ -191,7 +191,7 @@ regard must be had to the total value in monetary terms of the consideration pro
 - (b) section 56(3) and (3A) is to have effect as if the reference to the party were omitted and the reference to the treasurer of the party were construed as a reference to the candidate or the candidate’s election agent;
 - (c) section 56(4) is to have effect as if the reference to the treasurer of the party were construed as a reference to the candidate or the candidate’s election agent.
 
-#### 8. Transfer of donations received by candidate to election agent[^key-8cf46442b0918a653911c8e697d0f7f2]
+#### 8. Transfer of donations received by candidate to election agent[^c-8cf46442b0918a653911c8e697d0f7f2]
 
 (1) Sub-paragraph (2) applies in relation to any relevant donation received by a candidate after the deadline for appointing an election agent, unless the candidate is, or is deemed to be, the candidate’s own election agent at the time of receipt of the donation.
 
@@ -239,7 +239,7 @@ regard must be had to the total value in monetary terms of the consideration pro
 - (a) any reference to the deadline for appointing an election agent is a reference to the latest time by which an election agent may in accordance with article 39 (appointment of election agent) be named as election agent by the candidate;
 - (b) any reference to any provision of section 56 of the 2000 Political Parties Act is a reference to that provision as applied by paragraph 7.
 
-#### 9. Evasion of restrictions on donations[^key-e7ea6a874f43044be3e289b538399438]
+#### 9. Evasion of restrictions on donations[^c-e7ea6a874f43044be3e289b538399438]
 
 Section 61 of the 2000 Political Parties Act (offences concerned with evasion of restrictions on donations) applies for the purposes of this Schedule as if—
 
@@ -249,7 +249,7 @@ Section 61 of the 2000 Political Parties Act (offences concerned with evasion of
 
 ### PART 3 — Reporting of donations
 
-#### 10. Statement of relevant donations[^key-76e7e5d8ec53cb62b240edfcbe12a572]
+#### 10. Statement of relevant donations[^c-76e7e5d8ec53cb62b240edfcbe12a572]
 
 (1) The candidate’s election agent must include in any return to be delivered under article 54, a statement of relevant donations (“**the statement**”) which complies with paragraphs 11 and 12.
 
@@ -257,7 +257,7 @@ Section 61 of the 2000 Political Parties Act (offences concerned with evasion of
 
 (3) For the purpose of sub-paragraph (2), “**certificate of anonymous registration**” means a certificate issued in pursuance of regulation 45G of the 2001 Regulations[^f00130].
 
-#### 11. Donations from permissible donors[^key-25f3e9df267dec1e93bea3dab3cf4dab]
+#### 11. Donations from permissible donors[^c-25f3e9df267dec1e93bea3dab3cf4dab]
 
 The statement must record, in relation to each relevant donation accepted by the candidate or the candidate’s election agent—
 
@@ -266,7 +266,7 @@ The statement must record, in relation to each relevant donation accepted by the
 - (c) the information about the donor which is, in connection with recordable donations to registered political parties, required to be recorded in donation reports by virtue of paragraph 2 of Schedule 6 to the 2000 Political Parties Act;
 - (d) any other information as may be required by regulations made by the Electoral Commission.
 
-#### 12. Donations from impermissible donors[^key-c132e7220d8fade875004e4b54bd0bf7]
+#### 12. Donations from impermissible donors[^c-c132e7220d8fade875004e4b54bd0bf7]
 
 (1) This paragraph applies to relevant donations falling within paragraph 6(1)(a) or (b).
 
@@ -288,44 +288,44 @@ The statement must record, in relation to each relevant donation accepted by the
 
 ## Annotations
 
-[^key-8bd608f5f5ec25453f819f1687d10ce4]: Commencement: Sch. 6 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8bd608f5f5ec25453f819f1687d10ce4]: Commencement: Sch. 6 para. 1 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00124]: Footnote: [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41). Section 54(2) was amended by paragraph 76 of Schedule 4 to the Co-operative and Community Benefit Societies Act [2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14); paragraph 37 of Schedule 1 to the Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) [2016 (c. 16)](https://www.legislation.gov.uk/ukpga/2016/16); [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941); and [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310).
 
-[^key-97da4f82fa7464e81a5c7da122a03a46]: Commencement: Sch. 6 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-97da4f82fa7464e81a5c7da122a03a46]: Commencement: Sch. 6 para. 2 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-12a949130436a653df4c956819b97f2c]: Commencement: Sch. 6 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-12a949130436a653df4c956819b97f2c]: Commencement: Sch. 6 para. 3 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-8f7db607ca088ac0b9c4ff2fa6aed1c3]: Commencement: Sch. 6 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8f7db607ca088ac0b9c4ff2fa6aed1c3]: Commencement: Sch. 6 para. 4 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00125]: Footnote: Amendments have been made to section 56 which are not relevant here.
 
-[^key-93ac11d43842037907353b64af25f30c]: Commencement: Sch. 6 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-93ac11d43842037907353b64af25f30c]: Commencement: Sch. 6 para. 5 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-e7f028b4547ae4407e022af6b8426972]: Commencement: Sch. 6 para. 6 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e7f028b4547ae4407e022af6b8426972]: Commencement: Sch. 6 para. 6 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00126]: Footnote: Section 162 was amended by [S.I. 2004/366](https://www.legislation.gov.uk/uksi/2004/366) and [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310).
 
-[^key-a92d922eab0dce21f5de72636b3109f4]: Textual amendment: Sum in [Sch. 6 para. 6(5)](https://www.legislation.gov.uk/wsi/2025/864/schedule/6/paragraph/6/5) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [44(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/44/a)
+[^c-a92d922eab0dce21f5de72636b3109f4]: Textual amendment: Sum in [Sch. 6 para. 6(5)](https://www.legislation.gov.uk/wsi/2025/864/schedule/6/paragraph/6/5) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [44(a)](https://www.legislation.gov.uk/wsi/2026/91/regulation/44/a)
 
-[^key-b04d7b58de6cc6d406dc0a780d3d3a33]: Textual amendment: Sum in [Sch. 6 para. 6(7)(b)](https://www.legislation.gov.uk/wsi/2025/864/schedule/6/paragraph/6/7/b) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [44(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/44/b)
+[^c-b04d7b58de6cc6d406dc0a780d3d3a33]: Textual amendment: Sum in [Sch. 6 para. 6(7)(b)](https://www.legislation.gov.uk/wsi/2025/864/schedule/6/paragraph/6/7/b) substituted (24.3.2026) by [The Representation of the People (Absent Voting and Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/91)](https://www.legislation.gov.uk/wsi/2026/91), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/91/regulation/1/2), [44(b)](https://www.legislation.gov.uk/wsi/2026/91/regulation/44/b)
 
 [^f00127]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44). Section 281 is yet to be commenced.
 
-[^key-d571ef68baae32dfb9decf86b871995b]: Commencement: Sch. 6 para. 7 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d571ef68baae32dfb9decf86b871995b]: Commencement: Sch. 6 para. 7 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00128]: Footnote: Sections 56 to 60 were amended by section 12 of the Political Parties and Elections Act [2009 (c. 12)](https://www.legislation.gov.uk/ukpga/2009/12); [S.I. 2004/366](https://www.legislation.gov.uk/uksi/2004/366); [S.I. 2009/185](https://www.legislation.gov.uk/uksi/2009/185) and [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310).
 
 [^f00129]: Footnote: Paragraph 2 was amended by paragraph 26 of Schedule 1 to the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22); [S.I. 2015/1982](https://www.legislation.gov.uk/uksi/2015/1982): and [S.I. 2018/1310](https://www.legislation.gov.uk/uksi/2018/1310). There are other amendments to paragraph 2, but these are not relevant here.
 
-[^key-8cf46442b0918a653911c8e697d0f7f2]: Commencement: Sch. 6 para. 8 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8cf46442b0918a653911c8e697d0f7f2]: Commencement: Sch. 6 para. 8 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-e7ea6a874f43044be3e289b538399438]: Commencement: Sch. 6 para. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-e7ea6a874f43044be3e289b538399438]: Commencement: Sch. 6 para. 9 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-76e7e5d8ec53cb62b240edfcbe12a572]: Commencement: Sch. 6 para. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-76e7e5d8ec53cb62b240edfcbe12a572]: Commencement: Sch. 6 para. 10 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00130]: Footnote: Regulation 45G was inserted by regulation 18 of [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910).
 
-[^key-25f3e9df267dec1e93bea3dab3cf4dab]: Commencement: Sch. 6 para. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-25f3e9df267dec1e93bea3dab3cf4dab]: Commencement: Sch. 6 para. 11 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
-[^key-c132e7220d8fade875004e4b54bd0bf7]: Commencement: Sch. 6 para. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-c132e7220d8fade875004e4b54bd0bf7]: Commencement: Sch. 6 para. 12 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

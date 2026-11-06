@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33. Order relieving trustee of consequences of actings which are ultra vires[^key-14cdeb702a9b0d327fa330c70fbc423f]
+## 33. Order relieving trustee of consequences of actings which are ultra vires[^c-14cdeb702a9b0d327fa330c70fbc423f]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14cdeb702a9b0d327fa330c70fbc423f]: Commencement: S. 33 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-14cdeb702a9b0d327fa330c70fbc423f]: Commencement: S. 33 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

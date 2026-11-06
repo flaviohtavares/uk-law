@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 208. Church of England land[^key-0082687837f73b6fca6cf5825a87cc9a][^key-7df231bb929b0abf770b1fbb94543f01]
+## 208. Church of England land[^c-0082687837f73b6fca6cf5825a87cc9a][^c-7df231bb929b0abf770b1fbb94543f01]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0082687837f73b6fca6cf5825a87cc9a]: Commencement: S. 208 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
+[^c-0082687837f73b6fca6cf5825a87cc9a]: Commencement: S. 208 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
 
-[^key-7df231bb929b0abf770b1fbb94543f01]: Commencement: [S. 208](https://www.legislation.gov.uk/asc/2023/3/section/208) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-7df231bb929b0abf770b1fbb94543f01]: Commencement: [S. 208](https://www.legislation.gov.uk/asc/2023/3/section/208) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

@@ -113,11 +113,11 @@ if the claimant otherwise derives no remuneration or profit from the employment 
 
 **39.** Personal Independence Payments under Part 5 of the Welfare Reform (Northern Ireland) Order 2015 [^c22847831].
 
-**40.**[^key-3e8e945c256c61ca799f0e3462d6b9ed] Any payment arising as a result of the Housing Benefit (Welfare Supplementary Payment) Regulations (Northern Ireland) 2017.
+**40.**[^c-3e8e945c256c61ca799f0e3462d6b9ed] Any payment arising as a result of the Housing Benefit (Welfare Supplementary Payment) Regulations (Northern Ireland) 2017.
 
-**41.**[^key-49101c8ac6f81a17faeb179bad32cf46] Any payment arising as a result of the Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025.
+**41.**[^c-49101c8ac6f81a17faeb179bad32cf46] Any payment arising as a result of the Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025.
 
-**42.**[^key-76b28728a4576a06bd63813541aaa085] Any payment arising as a result of the Welfare Supplementary Payment (Universal Credit) (Social Sector Size Criteria) Regulations (Northern Ireland) 2025.
+**42.**[^c-76b28728a4576a06bd63813541aaa085] Any payment arising as a result of the Welfare Supplementary Payment (Universal Credit) (Social Sector Size Criteria) Regulations (Northern Ireland) 2025.
 
 ## Annotations
 
@@ -141,8 +141,8 @@ if the claimant otherwise derives no remuneration or profit from the employment 
 
 [^c22847831]: Marginal citation: S.I. [2015 No. 2006](https://www.legislation.gov.uk/ukcm/2015/2006) (N.I. 1); S.R. [2016 No. 217](https://www.legislation.gov.uk/ukcm/2016/217) and S.R. [2016 No. 228](https://www.legislation.gov.uk/ukcm/2016/228)
 
-[^key-3e8e945c256c61ca799f0e3462d6b9ed]: Textual amendment: [Sch. 3 para. 40](https://www.legislation.gov.uk/nisr/2016/270/schedule/3/paragraph/40) inserted (20.2.2017) by [The Housing Benefit (Welfare Supplementary Payment) Regulations (Northern Ireland) 2017 (S.R. 2017/35)](https://www.legislation.gov.uk/nisr/2017/35), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/nisr/2017/35/regulation/2/6/a)
+[^c-3e8e945c256c61ca799f0e3462d6b9ed]: Textual amendment: [Sch. 3 para. 40](https://www.legislation.gov.uk/nisr/2016/270/schedule/3/paragraph/40) inserted (20.2.2017) by [The Housing Benefit (Welfare Supplementary Payment) Regulations (Northern Ireland) 2017 (S.R. 2017/35)](https://www.legislation.gov.uk/nisr/2017/35), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2017/35/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/nisr/2017/35/regulation/2/6/a)
 
-[^key-49101c8ac6f81a17faeb179bad32cf46]: Textual amendment: [Sch. 3 para. 41](https://www.legislation.gov.uk/nisr/2016/270/schedule/3/paragraph/41) inserted (temp until 31.3.2028) (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025 (S.R. 2025/60)](https://www.legislation.gov.uk/nisr/2025/60), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2), [46(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/46/2)
+[^c-49101c8ac6f81a17faeb179bad32cf46]: Textual amendment: [Sch. 3 para. 41](https://www.legislation.gov.uk/nisr/2016/270/schedule/3/paragraph/41) inserted (temp until 31.3.2028) (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) Regulations (Northern Ireland) 2025 (S.R. 2025/60)](https://www.legislation.gov.uk/nisr/2025/60), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/1/2), [46(2)](https://www.legislation.gov.uk/nisr/2025/60/regulation/46/2)
 
-[^key-76b28728a4576a06bd63813541aaa085]: Textual amendment: [Sch. 3 para. 42](https://www.legislation.gov.uk/nisr/2016/270/schedule/3/paragraph/42) inserted (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) (Social Sector Size Criteria) Regulations (Northern Ireland) 2025 (S.R. 2025/58)](https://www.legislation.gov.uk/nisr/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2), [13(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/13/2)
+[^c-76b28728a4576a06bd63813541aaa085]: Textual amendment: [Sch. 3 para. 42](https://www.legislation.gov.uk/nisr/2016/270/schedule/3/paragraph/42) inserted (20.3.2025) by [The Welfare Supplementary Payment (Universal Credit) (Social Sector Size Criteria) Regulations (Northern Ireland) 2025 (S.R. 2025/58)](https://www.legislation.gov.uk/nisr/2025/58), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/1/2), [13(2)](https://www.legislation.gov.uk/nisr/2025/58/regulation/13/2)

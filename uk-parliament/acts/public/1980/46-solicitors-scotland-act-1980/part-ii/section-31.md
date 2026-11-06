@@ -29,7 +29,7 @@ summary: ''
 
 shall be guilty of an offence.
 
-- [^key-4822495ef82c7ae5055c2e9a2fe6c08f]...
+- [^c-4822495ef82c7ae5055c2e9a2fe6c08f]...
 
 (2)[^c8120541] Any person (including a body corporate) who either by himself or together with others, wilfully and falsely—
 
@@ -38,7 +38,7 @@ shall be guilty of an offence.
 
 shall be guilty of an offence.
 
-(2A)[^key-c624ced596948291e51454ad4a85c930] This section does not apply to an incorporated practice.
+(2A)[^c-c624ced596948291e51454ad4a85c930] This section does not apply to an incorporated practice.
 
 (2B) This section does not apply in relation to the taking or using by a licensed legal services provider of a name, title, addition or description if the licensed provider has the Society's written authority for using it.
 
@@ -69,10 +69,10 @@ shall be guilty of an offence.
 
 [^c8120511]: Textual amendment: Words in s. 31(1)(b) inserted (22.5.2000) by [S.S.I. 2000/121](https://www.legislation.gov.uk/ssi/2000/121), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2000/121/regulation/1/1), [37(1)](https://www.legislation.gov.uk/ssi/2000/121/regulation/37/1), [Sch. 1 para. 1(8)(d)](https://www.legislation.gov.uk/ssi/2000/121/schedule/1/paragraph/1/8/d)
 
-[^key-4822495ef82c7ae5055c2e9a2fe6c08f]: Textual amendment: Words in s. 31 repealed (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 123(3)(a)](https://www.legislation.gov.uk/asp/2010/16/section/123/3/a), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-4822495ef82c7ae5055c2e9a2fe6c08f]: Textual amendment: Words in s. 31 repealed (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 123(3)(a)](https://www.legislation.gov.uk/asp/2010/16/section/123/3/a), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
 [^c8120541]: Textual amendment: S. 31(2)(3) inserted by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c. 73, SIF 76:2)](https://www.legislation.gov.uk/ukpga/1985/73), [s. 56](https://www.legislation.gov.uk/ukpga/1985/73/section/56), [Sch. 1 Pt. I para. 8](https://www.legislation.gov.uk/ukpga/1985/73/schedule/1/part/I/paragraph/8)(*b*)
 
-[^key-c624ced596948291e51454ad4a85c930]: Textual amendment: S. 31(2A)-(2C) inserted (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 123(3)(b)](https://www.legislation.gov.uk/asp/2010/16/section/123/3/b), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-c624ced596948291e51454ad4a85c930]: Textual amendment: S. 31(2A)-(2C) inserted (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 123(3)(b)](https://www.legislation.gov.uk/asp/2010/16/section/123/3/b), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
 
 [^c22550171]: Textual amendment: S. 31(3) repealed (3.6.1991) by [Law Reform (Miscellaneous Provisions) (Scotland) Act 1990 (c. 40, SIF 76:2)](https://www.legislation.gov.uk/ukpga/1990/40), [s. 74](https://www.legislation.gov.uk/ukpga/1990/40/section/74), [Sch. 9](https://www.legislation.gov.uk/ukpga/1990/40/schedule/9); [S.I. 1991/1252](https://www.legislation.gov.uk/uksi/1991/1252), [art. 3](https://www.legislation.gov.uk/uksi/1991/1252/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/1252/schedule/1)

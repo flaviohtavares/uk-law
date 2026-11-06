@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.51A. Priority of moratorium debts in subsequent administration[^key-35e77d7a0a18dcae7def282bf5984bd9]
+## 3.51A. Priority of moratorium debts in subsequent administration[^c-35e77d7a0a18dcae7def282bf5984bd9]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ Where paragraph 64A(1) of Schedule B1 applies, the moratorium debts and priority
 
 ## Annotations
 
-[^key-35e77d7a0a18dcae7def282bf5984bd9]: Textual amendment: [Rule 3.51A](https://www.legislation.gov.uk/uksi/2018/1082/rule/3.51A) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [26](https://www.legislation.gov.uk/uksi/2021/1026/rule/26) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))
+[^c-35e77d7a0a18dcae7def282bf5984bd9]: Textual amendment: [Rule 3.51A](https://www.legislation.gov.uk/uksi/2018/1082/rule/3.51A) inserted (1.10.2021) by [The Insolvency (Scotland) (Company Voluntary Arrangements and Administration) (Amendment) Rules 2021 (S.I. 2021/1026)](https://www.legislation.gov.uk/uksi/2021/1026), [rules 1](https://www.legislation.gov.uk/uksi/2021/1026/rule/1), [26](https://www.legislation.gov.uk/uksi/2021/1026/rule/26) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1026/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1026/rule/5))

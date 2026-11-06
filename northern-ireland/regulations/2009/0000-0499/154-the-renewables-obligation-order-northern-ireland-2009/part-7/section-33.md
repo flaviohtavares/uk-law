@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Issue of NIROCs to agents[^key-cf813c911b51a32ab247ead52e170aa7]
+## 33. Issue of NIROCs to agents[^c-cf813c911b51a32ab247ead52e170aa7]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf813c911b51a32ab247ead52e170aa7]: Commencement: Art. 33 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-cf813c911b51a32ab247ead52e170aa7]: Commencement: Art. 33 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

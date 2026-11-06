@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Qualifying leases under the Building Safety Act 2022[^key-223cc14e2c3db978bf2faea92df17cc8]
+## 243. Qualifying leases under the Building Safety Act 2022[^c-223cc14e2c3db978bf2faea92df17cc8]
 
 *Extent: E+W*
 
@@ -112,4 +112,4 @@ summary: ''
 
 ## Annotations
 
-[^key-223cc14e2c3db978bf2faea92df17cc8]: Commencement: [S. 243](https://www.legislation.gov.uk/ukpga/2023/55/section/243) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)
+[^c-223cc14e2c3db978bf2faea92df17cc8]: Commencement: [S. 243](https://www.legislation.gov.uk/ukpga/2023/55/section/243) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)

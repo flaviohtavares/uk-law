@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Establishment of active member’s account[^key-c9b923355ceea6b50a96baa96365d3ca]
+## 40. Establishment of active member’s account[^c-c9b923355ceea6b50a96baa96365d3ca]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9b923355ceea6b50a96baa96365d3ca]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2014/290/regulation/40) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-c9b923355ceea6b50a96baa96365d3ca]: Commencement: [Reg. 40](https://www.legislation.gov.uk/nisr/2014/290/regulation/40) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

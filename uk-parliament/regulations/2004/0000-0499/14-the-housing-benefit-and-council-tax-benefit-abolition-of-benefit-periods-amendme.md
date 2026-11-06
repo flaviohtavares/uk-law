@@ -59,147 +59,147 @@ The Secretary of State for Work and Pensions, in exercise of the powers conferre
 
 ## PART 2 — Amendment of Housing Benefit Regulations and Council Tax Benefit Regulations
 
-### 2. Amendment of regulation 2 of the Housing Benefit Regulations and regulation 2 of the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 2. Amendment of regulation 2 of the Housing Benefit Regulations and regulation 2 of the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of regulation 7 of the Housing Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 3. Amendment of regulation 7 of the Housing Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of regulation 11 of the Housing Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 4. Amendment of regulation 11 of the Housing Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of regulation 12A of the Housing Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 5. Amendment of regulation 12A of the Housing Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of regulation 21 of the Housing Benefit Regulations and regulation 13 of the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 6. Amendment of regulation 21 of the Housing Benefit Regulations and regulation 13 of the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of regulation 21A of the Housing Benefit Regulations and regulation 13A of the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 7. Amendment of regulation 21A of the Housing Benefit Regulations and regulation 13A of the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Amendment of regulation 22 of the Housing Benefit Regulations and regulation 14 of the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 8. Amendment of regulation 22 of the Housing Benefit Regulations and regulation 14 of the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of regulation 23 of the Housing Benefit Regulations and regulation 15 of the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 9. Amendment of regulation 23 of the Housing Benefit Regulations and regulation 15 of the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of regulation 24 of the Housing Benefit Regulations and regulation 16 of the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 10. Amendment of regulation 24 of the Housing Benefit Regulations and regulation 16 of the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Extended payments[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 11. Extended payments[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Date on which an award of benefit is to end[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 12. Date on which an award of benefit is to end[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Benefit period[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 13. Benefit period[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Change of circumstances[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 14. Change of circumstances[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Time claims are made or treated as made[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 15. Time claims are made or treated as made[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendment of regulation 70 of the Housing Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 16. Amendment of regulation 70 of the Housing Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Amendment of regulation 76 of the Housing Benefit Regulations and regulation 66 of the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 17. Amendment of regulation 76 of the Housing Benefit Regulations and regulation 66 of the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Amendment of regulation 104 of the Housing Benefit Regulations and regulation 90 of the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 18. Amendment of regulation 104 of the Housing Benefit Regulations and regulation 90 of the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Amendment of regulation 95 of the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 19. Amendment of regulation 95 of the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Amendment of Schedule 1A to the Housing Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 20. Amendment of Schedule 1A to the Housing Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Amendment of Schedule 2 to the Housing Benefit Regulations and Schedule 1 to the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 21. Amendment of Schedule 2 to the Housing Benefit Regulations and Schedule 1 to the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Amendment of Schedule 5 to the Housing Benefit Regulations and Schedule 5 to the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 22. Amendment of Schedule 5 to the Housing Benefit Regulations and Schedule 5 to the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Amendment of Schedule 5A to the Housing Benefit Regulations and Schedule 5A to the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 23. Amendment of Schedule 5A to the Housing Benefit Regulations and Schedule 5A to the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Amendment of Schedule 6 to the Housing Benefit Regulations and Schedule 6 to the Council Tax Benefit Regulations[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 24. Amendment of Schedule 6 to the Housing Benefit Regulations and Schedule 6 to the Council Tax Benefit Regulations[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Minor and consequential amendments[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 25. Minor and consequential amendments[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Transitional and Saving Provisions
 
-### 26. Transitional provision[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 26. Transitional provision[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Transitional provision for rent officer referrals[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 27. Transitional provision for rent officer referrals[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Saving provision for extended payments[^key-0c5d17aeeb8de6cdb05981ae99851413]
+### 28. Saving provision for extended payments[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Amendment of Other Provisions
 
-### ...[^key-0c5d17aeeb8de6cdb05981ae99851413][^key-0c5d17aeeb8de6cdb05981ae99851413]
+### ...[^c-0c5d17aeeb8de6cdb05981ae99851413][^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c5d17aeeb8de6cdb05981ae99851413]
+[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c5d17aeeb8de6cdb05981ae99851413]
+[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c5d17aeeb8de6cdb05981ae99851413]
+[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c5d17aeeb8de6cdb05981ae99851413]
+[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c5d17aeeb8de6cdb05981ae99851413]
+[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c5d17aeeb8de6cdb05981ae99851413]
+[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0c5d17aeeb8de6cdb05981ae99851413]
+[^c-0c5d17aeeb8de6cdb05981ae99851413]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -263,7 +263,7 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^c522752]: Marginal citation: [S.I.1987/1971](https://www.legislation.gov.uk/uksi/1987/1971).
 
-[^key-0c5d17aeeb8de6cdb05981ae99851413]: Textual amendment: [Regs. 2-33](https://www.legislation.gov.uk/uksi/2004/14/regulation/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-0c5d17aeeb8de6cdb05981ae99851413]: Textual amendment: [Regs. 2-33](https://www.legislation.gov.uk/uksi/2004/14/regulation/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
 [^c522805]: Marginal citation: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4); [section 137(1)](https://www.legislation.gov.uk/uksi/2004/14/section/137/1) is cited because of the meaning ascribed to the word “prescribed”.
 

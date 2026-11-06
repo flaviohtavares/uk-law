@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-Where on an application under this Part of this Act the court makes an order for the grant of a new tenancy, the new tenancy shall be such tenancy as may be agreed between the landlord and the tenant, or, in default of such an agreement, shall be such a tenancy as may be determined by the court to be reasonable in all the circumstances, being, if it is a tenancy for a term of years certain, a tenancy for a term not exceeding fifteen[^key-5f4c259dc0fcb0431e1de5b705f43b3a] years, and shall begin on the coming to an end of the current tenancy.
+Where on an application under this Part of this Act the court makes an order for the grant of a new tenancy, the new tenancy shall be such tenancy as may be agreed between the landlord and the tenant, or, in default of such an agreement, shall be such a tenancy as may be determined by the court to be reasonable in all the circumstances, being, if it is a tenancy for a term of years certain, a tenancy for a term not exceeding fifteen[^c-5f4c259dc0fcb0431e1de5b705f43b3a] years, and shall begin on the coming to an end of the current tenancy.
 
 ## Annotations
 
-[^key-5f4c259dc0fcb0431e1de5b705f43b3a]: Textual amendment: Word in s. 33 substituted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [26](https://www.legislation.gov.uk/uksi/2003/3096/article/26)
+[^c-5f4c259dc0fcb0431e1de5b705f43b3a]: Textual amendment: Word in s. 33 substituted (1.6.2004) by [Regulatory Reform (Business Tenancies) (England and Wales) Order 2003 (S.I. 2003/3096)](https://www.legislation.gov.uk/uksi/2003/3096), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2003/3096/article/1/3), [26](https://www.legislation.gov.uk/uksi/2003/3096/article/26)

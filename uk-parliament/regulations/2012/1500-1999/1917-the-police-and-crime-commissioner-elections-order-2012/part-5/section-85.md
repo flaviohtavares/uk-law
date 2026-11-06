@@ -38,11 +38,11 @@ summary: ''
 
 (5) The local returning officer at a PCC election must cause to be displayed at every polling station in the election an enlarged sample copy of the ballot paper.
 
-(6)[^key-86ca6698d824c994751d8785b30c25b1] The sample copy mentioned in paragraph (5)—
+(6)[^c-86ca6698d824c994751d8785b30c25b1] The sample copy mentioned in paragraph (5)—
 
 - (a) must have printed at the top of the list of candidates the words “Vote (X) for one candidate only”, and
 - (b) may include a translation of those words into such other languages as the local returning officer thinks appropriate.
 
 ## Annotations
 
-[^key-86ca6698d824c994751d8785b30c25b1]: Textual amendment: [Art. 85(6)](https://www.legislation.gov.uk/uksi/2012/1917/article/85/6) substituted (21.12.2022) (with application in accordance with art. 1(2) of the amending S.I.) by [The Police and Crime Commissioner Elections and Welsh Forms (Amendment) Order 2022 (S.I. 2022/1354)](https://www.legislation.gov.uk/uksi/2022/1354), [art. 3](https://www.legislation.gov.uk/uksi/2022/1354/article/3)
+[^c-86ca6698d824c994751d8785b30c25b1]: Textual amendment: [Art. 85(6)](https://www.legislation.gov.uk/uksi/2012/1917/article/85/6) substituted (21.12.2022) (with application in accordance with art. 1(2) of the amending S.I.) by [The Police and Crime Commissioner Elections and Welsh Forms (Amendment) Order 2022 (S.I. 2022/1354)](https://www.legislation.gov.uk/uksi/2022/1354), [art. 3](https://www.legislation.gov.uk/uksi/2022/1354/article/3)

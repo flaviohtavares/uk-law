@@ -34,7 +34,7 @@ Exiting The European Union
 
 Sanctions
 
-The Misappropriation (Sanctions) (EU Exit) Regulations 2020 (revoked)[^key-d257dfd6f88613d444ca64c53f0395e8]
+The Misappropriation (Sanctions) (EU Exit) Regulations 2020 (revoked)[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 Made
 
@@ -46,294 +46,294 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-d257dfd6f88613d444ca64c53f0395e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d257dfd6f88613d444ca64c53f0395e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-d257dfd6f88613d444ca64c53f0395e8]
+## PART 1 — General[^c-d257dfd6f88613d444ca64c53f0395e8]
 
-### 1. Citation and commencement[^key-d257dfd6f88613d444ca64c53f0395e8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Interpretation[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 1. Citation and commencement[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Application of prohibitions and requirements outside the United Kingdom[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 2. Interpretation[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Purpose[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 3. Application of prohibitions and requirements outside the United Kingdom[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 2 — Designation of persons[^key-d257dfd6f88613d444ca64c53f0395e8]
-
-### 5. Power to designate persons[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 4. Purpose[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Designation criteria[^key-d257dfd6f88613d444ca64c53f0395e8]
+## PART 2 — Designation of persons[^c-d257dfd6f88613d444ca64c53f0395e8]
+
+### 5. Power to designate persons[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Meaning of “owned or controlled directly or indirectly”[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 6. Designation criteria[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Notification and publicity where designation power used[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 7. Meaning of “owned or controlled directly or indirectly”[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Confidential information in certain cases where designation power used[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 8. Notification and publicity where designation power used[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Finance[^key-d257dfd6f88613d444ca64c53f0395e8]
-
-### 10. Meaning of “designated person” in Part 3[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 9. Confidential information in certain cases where designation power used[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Asset-freeze in relation to designated persons[^key-d257dfd6f88613d444ca64c53f0395e8]
+## PART 3 — Finance[^c-d257dfd6f88613d444ca64c53f0395e8]
+
+### 10. Meaning of “designated person” in Part 3[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Making funds available to designated persons[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 11. Asset-freeze in relation to designated persons[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Making funds available for benefit of designated persons[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 12. Making funds available to designated persons[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Making economic resources available to designated persons[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 13. Making funds available for benefit of designated persons[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Making economic resources available for benefit of designated persons[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 14. Making economic resources available to designated persons[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Circumventing etc. prohibitions[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 15. Making economic resources available for benefit of designated persons[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Immigration[^key-d257dfd6f88613d444ca64c53f0395e8]
-
-### 17. Immigration[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 16. Circumventing etc. prohibitions[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 5 — Exceptions and licences[^key-d257dfd6f88613d444ca64c53f0395e8]
+## PART 4 — Immigration[^c-d257dfd6f88613d444ca64c53f0395e8]
 
-### 18. Finance: exceptions from prohibitions[^key-d257dfd6f88613d444ca64c53f0395e8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 19. Finance: exception for authorised conduct in a relevant country[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 17. Immigration[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Exception for acts done for purposes of national security or prevention of serious crime[^key-d257dfd6f88613d444ca64c53f0395e8]
+## PART 5 — Exceptions and licences[^c-d257dfd6f88613d444ca64c53f0395e8]
+
+### 18. Finance: exceptions from prohibitions[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Treasury licences[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 19. Finance: exception for authorised conduct in a relevant country[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Finance: licensing offences[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 20. Exception for acts done for purposes of national security or prevention of serious crime[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Section 8B(1) to (3) of the Immigration Act 1971: directions[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 21. Treasury licences[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — Information and records[^key-d257dfd6f88613d444ca64c53f0395e8]
-
-### 24. Finance: reporting obligations[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 22. Finance: licensing offences[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. “Relevant firm”[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 23. Section 8B(1) to (3) of the Immigration Act 1971: directions[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Finance: powers to request information[^key-d257dfd6f88613d444ca64c53f0395e8]
+## PART 6 — Information and records[^c-d257dfd6f88613d444ca64c53f0395e8]
+
+### 24. Finance: reporting obligations[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Finance: production of documents[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 25. “Relevant firm”[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Finance: information offences[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 26. Finance: powers to request information[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Disclosure of information[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 27. Finance: production of documents[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Part 6: supplementary[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 28. Finance: information offences[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 7 — Enforcement[^key-d257dfd6f88613d444ca64c53f0395e8]
-
-### 31. Penalties for offences[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 29. Disclosure of information[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 32. Liability of officers of bodies corporate etc.[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 30. Part 6: supplementary[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 33. Jurisdiction to try offences[^key-d257dfd6f88613d444ca64c53f0395e8]
+## PART 7 — Enforcement[^c-d257dfd6f88613d444ca64c53f0395e8]
+
+### 31. Penalties for offences[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 34. Procedure for offences by unincorporated bodies[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 32. Liability of officers of bodies corporate etc.[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 35. Time limit for proceedings for summary offences[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 33. Jurisdiction to try offences[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 36. Application of Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 34. Procedure for offences by unincorporated bodies[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 8 — Supplementary and final provision[^key-d257dfd6f88613d444ca64c53f0395e8]
-
-### 37. Notices[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 35. Time limit for proceedings for summary offences[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 38. Revocations[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 36. Application of Chapter 1 of Part 2 of the Serious Organised Crime and Police Act 2005[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 39. Transitional provision: Treasury licences[^key-d257dfd6f88613d444ca64c53f0395e8]
+## PART 8 — Supplementary and final provision[^c-d257dfd6f88613d444ca64c53f0395e8]
+
+### 37. Notices[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 40. Transitional provision: prior obligations etc.[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 38. Revocations[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d257dfd6f88613d444ca64c53f0395e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 39. Transitional provision: Treasury licences[^c-d257dfd6f88613d444ca64c53f0395e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 40. Transitional provision: prior obligations etc.[^c-d257dfd6f88613d444ca64c53f0395e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d257dfd6f88613d444ca64c53f0395e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-d257dfd6f88613d444ca64c53f0395e8]SCHEDULES
+[^c-d257dfd6f88613d444ca64c53f0395e8]SCHEDULES
 
-## SCHEDULE 1 — Rules for interpretation of regulation 7(2)[^key-d257dfd6f88613d444ca64c53f0395e8]
+## SCHEDULE 1 — Rules for interpretation of regulation 7(2)[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 Regulation 7(3)
 
-### 1. Application of Schedule[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 1. Application of Schedule[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Joint interests[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 2. Joint interests[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Joint arrangements[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 3. Joint arrangements[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Calculating shareholdings[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 4. Calculating shareholdings[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Voting rights[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 5. Voting rights[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-d257dfd6f88613d444ca64c53f0395e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d257dfd6f88613d444ca64c53f0395e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Rights to appoint or remove members of the board[^key-d257dfd6f88613d444ca64c53f0395e8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-d257dfd6f88613d444ca64c53f0395e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 9. Shares or rights held “indirectly”[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 7. Rights to appoint or remove members of the board[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Shares held by nominees[^key-d257dfd6f88613d444ca64c53f0395e8]
+**8.**[^c-d257dfd6f88613d444ca64c53f0395e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Shares or rights held “indirectly”[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Rights treated as held by person who controls their exercise[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 10. Shares held by nominees[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-d257dfd6f88613d444ca64c53f0395e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 13. Rights exercisable only in certain circumstances etc.[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 11. Rights treated as held by person who controls their exercise[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Rights attached to shares held by way of security[^key-d257dfd6f88613d444ca64c53f0395e8]
+**12.**[^c-d257dfd6f88613d444ca64c53f0395e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 13. Rights exercisable only in certain circumstances etc.[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Treasury licences: purposes[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 14. Rights attached to shares held by way of security[^c-d257dfd6f88613d444ca64c53f0395e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE 2 — Treasury licences: purposes[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 Regulation 21(2)
 
-### 1. Interpretation[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 1. Interpretation[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Basic needs[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 2. Basic needs[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Legal services[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 3. Legal services[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Maintenance of frozen funds and economic resources[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 4. Maintenance of frozen funds and economic resources[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Extraordinary expenses[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 5. Extraordinary expenses[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Pre-existing judicial decisions etc.[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 6. Pre-existing judicial decisions etc.[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Diplomatic missions etc.[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 7. Diplomatic missions etc.[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Humanitarian assistance activities[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 8. Humanitarian assistance activities[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Extraordinary situation[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 9. Extraordinary situation[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Prior obligations[^key-d257dfd6f88613d444ca64c53f0395e8]
+### 10. Prior obligations[^c-d257dfd6f88613d444ca64c53f0395e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d257dfd6f88613d444ca64c53f0395e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d257dfd6f88613d444ca64c53f0395e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d257dfd6f88613d444ca64c53f0395e8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1468) revoked (26.4.2021 at noon) by [The Global Anti-Corruption Sanctions Regulations 2021 (S.I. 2021/488)](https://www.legislation.gov.uk/uksi/2021/488), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/488/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2021/488/regulation/38)
+[^c-d257dfd6f88613d444ca64c53f0395e8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2020/1468) revoked (26.4.2021 at noon) by [The Global Anti-Corruption Sanctions Regulations 2021 (S.I. 2021/488)](https://www.legislation.gov.uk/uksi/2021/488), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/488/regulation/1/2), [38](https://www.legislation.gov.uk/uksi/2021/488/regulation/38)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 243. Decision to declare dividend[^key-51516fdad98854b7f3f1ecf37feea6ab]
+## 243. Decision to declare dividend[^c-51516fdad98854b7f3f1ecf37feea6ab]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.5 of the 1986 Rules.
 
 ## Annotations
 
-[^key-51516fdad98854b7f3f1ecf37feea6ab]: Commencement: Rule 243 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-51516fdad98854b7f3f1ecf37feea6ab]: Commencement: Rule 243 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

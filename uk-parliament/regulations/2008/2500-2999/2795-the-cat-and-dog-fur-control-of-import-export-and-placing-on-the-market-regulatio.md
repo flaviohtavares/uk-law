@@ -62,7 +62,7 @@ The Secretary of State, being a designated [^c19458201] Minister under section 2
 - “**officer**” means a person authorised by an enforcement authority to enforce these Regulations; and
 - “**records**” includes any books or documents and any records in electronic form.
 
-## 2. Penalty for breach of Regulation [(EC) No 1523/2007](https://www.legislation.gov.uk/european/regulation/2007/1523)[^M_E_963b296f-47b7-4bbc-9203-7c1cbbe975b9][^key-640ba17de1c78657b8c9cc73230abdae]
+## 2. Penalty for breach of Regulation [(EC) No 1523/2007](https://www.legislation.gov.uk/european/regulation/2007/1523)[^M_E_963b296f-47b7-4bbc-9203-7c1cbbe975b9][^c-640ba17de1c78657b8c9cc73230abdae]
 
 *Extent: E+W+S*
 
@@ -78,7 +78,7 @@ The Secretary of State, being a designated [^c19458201] Minister under section 2
 - (a) on conviction on indictment, to a fine not exceeding £75,000; or
 - (b) on summary conviction, to a fine not exceeding the statutory maximum
 
-## 2. Penalty for breach of Regulation [(EC) No 1523/2007](https://www.legislation.gov.uk/european/regulation/2007/1523)– Northern Ireland[^M_E_3c3d1550-6d02-4ac5-a7e0-ef3d1eec1718][^key-87df9c0acae3dfd6ef80e460839086b5]
+## 2. Penalty for breach of Regulation [(EC) No 1523/2007](https://www.legislation.gov.uk/european/regulation/2007/1523)– Northern Ireland[^M_E_3c3d1550-6d02-4ac5-a7e0-ef3d1eec1718][^c-87df9c0acae3dfd6ef80e460839086b5]
 
 *Extent: N.I.*
 
@@ -100,7 +100,7 @@ The Secretary of State, being a designated [^c19458201] Minister under section 2
 
 to enforce these Regulations within their area.
 
-(2)[^key-cd444fe4f5a9f8aad2a0b9e178e0e43e] These Regulations must be enforced in Great Britain by Her Majesty’s Revenue and Customs by an HMRC officer defined in section 37(1) of the Taxation (Cross-border Trade) Act 2018 and not by an enforcement authority at any place where the goods are under the control of an HMRC officer.
+(2)[^c-cd444fe4f5a9f8aad2a0b9e178e0e43e] These Regulations must be enforced in Great Britain by Her Majesty’s Revenue and Customs by an HMRC officer defined in section 37(1) of the Taxation (Cross-border Trade) Act 2018 and not by an enforcement authority at any place where the goods are under the control of an HMRC officer.
 
 (3) For the purposes of enforcing these Regulations, an officer may at any reasonable hour and on production, if required, of evidence that he is an officer—
 
@@ -111,7 +111,7 @@ to enforce these Regulations within their area.
 - (e) require any person carrying on a business, or employed in connection with a business, to produce any records relating to the business;
 - (f) seize and detain any goods or records where there are reasonable grounds for believing that they may be—
   - (i) required as evidence in proceedings for an offence under regulation 2; or
-  - (ii) (in relation to goods only) liable to be forfeited [^key-45028bcddd6b3002c2006b613cd823ee]...;
+  - (ii) (in relation to goods only) liable to be forfeited [^c-45028bcddd6b3002c2006b613cd823ee]...;
 - (g) take copies of, or of any entry in, any records produced by virtue of sub-paragraph (e) or seized by way of sub-paragraph (f) ;
 - (h) require any person having authority to do so to open any container; and
 - (i) where a requirement made under sub-paragraph (h) has not been complied with, open or break open any container.
@@ -127,7 +127,7 @@ to enforce these Regulations within their area.
 
 to enforce these Regulations within their area.
 
-(2)[^key-1a203b7169dd9f3b875d55803de1ecd0] These Regulations must be enforced in Northern Ireland by Her Majesty’s Revenue and Customs and not by the enforcement authorities at any place where the goods are under customs supervision within the meaning of Regulation (EU) No. 952/2013 laying down the Union Customs Code, as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
+(2)[^c-1a203b7169dd9f3b875d55803de1ecd0] These Regulations must be enforced in Northern Ireland by Her Majesty’s Revenue and Customs and not by the enforcement authorities at any place where the goods are under customs supervision within the meaning of Regulation (EU) No. 952/2013 laying down the Union Customs Code, as it has effect by virtue of the Protocol on Ireland/Northern Ireland in the EU withdrawal agreement.
 
 (3) For the purposes of enforcing these Regulations, an officer may at any reasonable hour and on production, if required, of evidence that he is an officer—
 
@@ -143,9 +143,9 @@ to enforce these Regulations within their area.
 - (h) require any person having authority to do so to open any container; and
 - (i) where a requirement made under sub-paragraph (h) has not been complied with, open or break open any container.
 
-## 4. Forfeiture and destruction of goods : England, Wales and Northern Ireland[^key-c2f7ddb0b69453791fa1debc47625e88]
+## 4. Forfeiture and destruction of goods : England, Wales and Northern Ireland[^c-c2f7ddb0b69453791fa1debc47625e88]
 
-(1) An enforcement authority in England, Wales or Northern Ireland[^key-730def0e90991b715497230b7f2c9475] may apply under this regulation for an order for the forfeiture of any goods on the grounds that there has been an offence under regulation 2 in relation to the goods.
+(1) An enforcement authority in England, Wales or Northern Ireland[^c-730def0e90991b715497230b7f2c9475] may apply under this regulation for an order for the forfeiture of any goods on the grounds that there has been an offence under regulation 2 in relation to the goods.
 
 (2) An application under this regulation may be made—
 
@@ -158,9 +158,9 @@ to enforce these Regulations within their area.
 
 (5) Any person aggrieved by an order made under this regulation by a magistrates' court, or by a decision of such a court not to make such an order, may appeal against that order or decision—
 
-- (a) in England and Wales, to the Crown Court; and[^key-3a19b3852d637b06795c5e35bf62abf7]
-- (b) in Northern Ireland, to the County court; [^key-989ce8da8f5ca601b30a58e9e0daf307]...
-- (c)[^key-989ce8da8f5ca601b30a58e9e0daf307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in England and Wales, to the Crown Court; and[^c-3a19b3852d637b06795c5e35bf62abf7]
+- (b) in Northern Ireland, to the County court; [^c-989ce8da8f5ca601b30a58e9e0daf307]...
+- (c)[^c-989ce8da8f5ca601b30a58e9e0daf307] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 and an order made under this regulation by a magistrates' court may contain such provision as appears to the court to be appropriate for delaying the coming into force of the order pending the making and determination of any appeal (including any application under section 111 of the Magistrates' Courts Act 1980 [^c19458241] or Article 146 of the Magistrates' Courts (Northern Ireland) Order 1981 [^c19458251] (statement of case)).
 
@@ -177,7 +177,7 @@ and an order made under this regulation by a magistrates' court may contain such
 
 (2) A person who is guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-(3) Nothing in this regulation[^key-49440effa8bef6df3a72e6114e6a29ef] is to be taken to require any person to answer any question put to that person by an officer, or to give any information to such an officer, if to do so might incriminate that person.
+(3) Nothing in this regulation[^c-49440effa8bef6df3a72e6114e6a29ef] is to be taken to require any person to answer any question put to that person by an officer, or to give any information to such an officer, if to do so might incriminate that person.
 
 Gareth Thomas
 
@@ -215,34 +215,34 @@ A full Impact Assessment has been carried out and a copy has been placed in the 
 
 [^M_E_963b296f-47b7-4bbc-9203-7c1cbbe975b9]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-640ba17de1c78657b8c9cc73230abdae]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2795/regulation/2) substituted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/4/2)
+[^c-640ba17de1c78657b8c9cc73230abdae]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2795/regulation/2) substituted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/4/2)
 
 [^M_E_3c3d1550-6d02-4ac5-a7e0-ef3d1eec1718]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-87df9c0acae3dfd6ef80e460839086b5]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2795/regulation/2) substituted (N.I.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/5/2)
+[^c-87df9c0acae3dfd6ef80e460839086b5]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/uksi/2008/2795/regulation/2) substituted (N.I.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/5/2)
 
 [^M_E_7408c4a5-7bf2-4f71-bee4-e0f2456ebc91]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-cd444fe4f5a9f8aad2a0b9e178e0e43e]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2008/2795/regulation/3/2) substituted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/4/3)
+[^c-cd444fe4f5a9f8aad2a0b9e178e0e43e]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2008/2795/regulation/3/2) substituted (E.W.S.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/4/3)
 
-[^key-45028bcddd6b3002c2006b613cd823ee]: Textual amendment: Words in reg. 3(3)(f)(ii) revoked (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/2)
+[^c-45028bcddd6b3002c2006b613cd823ee]: Textual amendment: Words in reg. 3(3)(f)(ii) revoked (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/2)
 
 [^M_E_9dd3c0b7-5978-45f7-cf7b-28a5a3bc6502]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only
 
-[^key-1a203b7169dd9f3b875d55803de1ecd0]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2008/2795/regulation/3/2) substituted (N.I.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/5/3)
+[^c-1a203b7169dd9f3b875d55803de1ecd0]: Textual amendment: [Reg. 3(2)](https://www.legislation.gov.uk/uksi/2008/2795/regulation/3/2) substituted (N.I.) (28.9.2022) by [The Cat and Dog Fur (Control of Movement etc.) (EU Exit) Regulations 2022 (S.I. 2022/1005)](https://www.legislation.gov.uk/uksi/2022/1005), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2022/1005/regulation/5/3)
 
 [^V_NI_ad55acf4-6c65-0390-187c-cedd170a5fc7]: Textual amendment: Words in reg. 3(3)(f)(ii) revoked (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/2)
 
-[^key-c2f7ddb0b69453791fa1debc47625e88]: Textual amendment: Words in reg. 4 heading inserted (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/3)
+[^c-c2f7ddb0b69453791fa1debc47625e88]: Textual amendment: Words in reg. 4 heading inserted (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/3)
 
-[^key-730def0e90991b715497230b7f2c9475]: Textual amendment: Words in reg. 4(1) inserted (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/4)
+[^c-730def0e90991b715497230b7f2c9475]: Textual amendment: Words in reg. 4(1) inserted (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/4)
 
-[^key-3a19b3852d637b06795c5e35bf62abf7]: Textual amendment: Word in reg. 4(5)(a) inserted (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/5/a)
+[^c-3a19b3852d637b06795c5e35bf62abf7]: Textual amendment: Word in reg. 4(5)(a) inserted (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/5/a)
 
-[^key-989ce8da8f5ca601b30a58e9e0daf307]: Textual amendment: Reg. 4(5)(c) and word revoked (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/5/b)
+[^c-989ce8da8f5ca601b30a58e9e0daf307]: Textual amendment: Reg. 4(5)(c) and word revoked (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/5/b)
 
 [^c19458241]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
 [^c19458251]: Marginal citation: No. 1675 (N.I. 26).
 
-[^key-49440effa8bef6df3a72e6114e6a29ef]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2008/2795/regulation/5/3) substituted (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/6)
+[^c-49440effa8bef6df3a72e6114e6a29ef]: Textual amendment: Word in [reg. 5(3)](https://www.legislation.gov.uk/uksi/2008/2795/regulation/5/3) substituted (31.5.2009) by [The Cat and Dog Fur (Control of Import, Export and Placing on the Market) (Amendment) Regulations 2009 (S.I. 2009/1056)](https://www.legislation.gov.uk/uksi/2009/1056), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1056/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2009/1056/regulation/2/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 155. Recovery of overpayment of benefits[^key-831233386b1aa75f967b596995a592ab]
+## 155. Recovery of overpayment of benefits[^c-831233386b1aa75f967b596995a592ab]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-831233386b1aa75f967b596995a592ab]: Commencement: [Reg. 155](https://www.legislation.gov.uk/ssi/2015/19/regulation/155) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-831233386b1aa75f967b596995a592ab]: Commencement: [Reg. 155](https://www.legislation.gov.uk/ssi/2015/19/regulation/155) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
 [^f00052]: Footnote: Under section 9 of the 2013 Act, the change in earnings to be applied in a period is the percentage increase or decrease as a Treasury order under that section may specify in relation to the period.

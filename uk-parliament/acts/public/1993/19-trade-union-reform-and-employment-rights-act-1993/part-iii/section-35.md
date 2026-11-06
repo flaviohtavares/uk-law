@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Repeal of Part II of Wages Act 1986.[^key-a232647bbcfa52795846704f04ca810d]
+## 35. Repeal of Part II of Wages Act 1986.[^c-a232647bbcfa52795846704f04ca810d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a232647bbcfa52795846704f04ca810d]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/1993/19/section/35) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)
+[^c-a232647bbcfa52795846704f04ca810d]: Textual amendment: [S. 35](https://www.legislation.gov.uk/ukpga/1993/19/section/35) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 8](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/8)

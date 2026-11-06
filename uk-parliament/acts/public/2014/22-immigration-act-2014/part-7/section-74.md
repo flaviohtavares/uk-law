@@ -26,7 +26,7 @@ summary: ''
 
 - (a) an order under section 20(7), 23(6) or 25(5);
 - (b) an order under section 38;
-- (ba)[^key-aafb3e1b37b23fb122ce4d1fb2bc67db] regulations under section 40A(4);
+- (ba)[^c-aafb3e1b37b23fb122ce4d1fb2bc67db] regulations under section 40A(4);
 - (bb) regulations under section 40B;
 - (c) regulations under section 41;
 - (d) an order under section 43, or under a section amended by such an order;
@@ -36,7 +36,7 @@ summary: ''
 - (h) the first regulations under section 51(4);
 - (i) an order under section 53 or 54(4) or (6);
 - (j) a fees order (within the meaning of section 68);
-- (ja)[^key-9dab75a83fd343695f9139f85074fcba] regulations under section 70A;
+- (ja)[^c-9dab75a83fd343695f9139f85074fcba] regulations under section 70A;
 - (k) an order under section 73(2) which amends or repeals primary legislation;
 - (l) an order under paragraph 2(3)(e) of Schedule 6.
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aafb3e1b37b23fb122ce4d1fb2bc67db]: Textual amendment: [S. 74(2)(ba)](https://www.legislation.gov.uk/ukpga/2014/22/section/74/2/ba)[(bb)](https://www.legislation.gov.uk/ukpga/2014/22/section/74/2/bb) inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/6); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d); [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
+[^c-aafb3e1b37b23fb122ce4d1fb2bc67db]: Textual amendment: [S. 74(2)(ba)](https://www.legislation.gov.uk/ukpga/2014/22/section/74/2/ba)[(bb)](https://www.legislation.gov.uk/ukpga/2014/22/section/74/2/bb) inserted (1.11.2016 for specified purposes, 30.10.2017 in so far as not already in force) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2016/19/schedule/7/paragraph/6); [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/d); [S.I. 2017/929](https://www.legislation.gov.uk/uksi/2017/929), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/929/regulation/2/b)
 
-[^key-9dab75a83fd343695f9139f85074fcba]: Textual amendment: S. 74(2)(ja) inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 85(3)](https://www.legislation.gov.uk/ukpga/2016/19/section/85/3), [94(4)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/4)
+[^c-9dab75a83fd343695f9139f85074fcba]: Textual amendment: S. 74(2)(ja) inserted (12.7.2016) by [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [ss. 85(3)](https://www.legislation.gov.uk/ukpga/2016/19/section/85/3), [94(4)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/4)

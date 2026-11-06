@@ -40,24 +40,24 @@ Coming into force
 
 28th January 2015
 
-[^key-36dbcc787897fe992147e6e16579fa64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36dbcc787897fe992147e6e16579fa64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-36dbcc787897fe992147e6e16579fa64]
+## 1. Citation, commencement and interpretation[^c-36dbcc787897fe992147e6e16579fa64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the 2006 Regulations[^key-36dbcc787897fe992147e6e16579fa64]
+## 2. Amendments to the 2006 Regulations[^c-36dbcc787897fe992147e6e16579fa64]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-36dbcc787897fe992147e6e16579fa64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36dbcc787897fe992147e6e16579fa64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-36dbcc787897fe992147e6e16579fa64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-36dbcc787897fe992147e6e16579fa64]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-36dbcc787897fe992147e6e16579fa64]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/42) revoked (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [art. 105(i)](https://www.legislation.gov.uk/uksi/2018/1253/article/105/i)
+[^c-36dbcc787897fe992147e6e16579fa64]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2015/42) revoked (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [art. 105(i)](https://www.legislation.gov.uk/uksi/2018/1253/article/105/i)

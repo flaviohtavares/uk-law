@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — MINIMUM FUNDING GUARANTEE[^key-2f097a279293b84ab1c270ba84bf3015]
+## SCHEDULE 4 — MINIMUM FUNDING GUARANTEE[^c-2f097a279293b84ab1c270ba84bf3015]
 
 *Extent: E+W*
 
@@ -24,14 +24,14 @@ summary: ''
 
 Regulation 19
 
-**1.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2f097a279293b84ab1c270ba84bf3015] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f097a279293b84ab1c270ba84bf3015]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3352) revoked (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2017 (revoked) 2017 (S.I. 2017/44)](https://www.legislation.gov.uk/uksi/2017/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/44/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2017/44/regulation/2)
+[^c-2f097a279293b84ab1c270ba84bf3015]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2014/3352) revoked (with application in accordance with reg. 1(2) of the amending S.I.) by [The School and Early Years Finance (England) Regulations 2017 (revoked) 2017 (S.I. 2017/44)](https://www.legislation.gov.uk/uksi/2017/44), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/44/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2017/44/regulation/2)

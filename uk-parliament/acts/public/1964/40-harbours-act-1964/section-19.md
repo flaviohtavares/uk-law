@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Compensation for loss of office, &c., in consequence of orders and schemes under foregoing provisions.[^key-5ed1001b13427c6971a9883882805a65][^c7738081]
+## 19. Compensation for loss of office, &c., in consequence of orders and schemes under foregoing provisions.[^c-5ed1001b13427c6971a9883882805a65][^c7738081]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ed1001b13427c6971a9883882805a65]: Modification: [S. 19](https://www.legislation.gov.uk/ukpga/1964/40/section/19): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(b)(iv)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/b/iv), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), [reg. 2](https://www.legislation.gov.uk/uksi/2018/278/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/278/schedule))
+[^c-5ed1001b13427c6971a9883882805a65]: Modification: [S. 19](https://www.legislation.gov.uk/ukpga/1964/40/section/19): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(b)(iv)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/b/iv), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), [reg. 2](https://www.legislation.gov.uk/uksi/2018/278/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2018/278/schedule))
 
 [^c7738081]: Modification: S. 19 amended by [Docks and Harbours Act 1966 (c. 28, SIF 58)](https://www.legislation.gov.uk/ukpga/1966/28), [s. 43(2)](https://www.legislation.gov.uk/ukpga/1966/28/section/43/2)

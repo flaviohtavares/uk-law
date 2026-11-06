@@ -24,11 +24,11 @@ Section 169(1).
 
 ### The Marriages (Ireland) Act 1844 (c.81)
 
-**1.**[^key-b99e6421a104555825a150b9582721e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b99e6421a104555825a150b9582721e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Marriage Law (Ireland) Amendment Act 1863 (c.27)
 
-**2.**[^key-b8382abe96732b4ab52f4bb01d46756b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b8382abe96732b4ab52f4bb01d46756b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Marriage Act 1949 (c.76)
 
@@ -259,7 +259,7 @@ Section 169(1).
 
 **46.**[^c11436221] In section 7(1) (exemption of certain residents from deportation)—
 
-- (a)[^key-c888b1ab7da747b017896e87ed465569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c888b1ab7da747b017896e87ed465569] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in paragraph (b), for “, (b) or (c)” substitute “or (b) or 10 of the Immigration and Asylum Act 1999”.
 
 **Not yet in force.**
@@ -289,7 +289,7 @@ Section 169(1).
 
 **50.** In section 24 (illegal entry and similar offences), omit subsections (1)(aa) and (2).
 
-**51.**[^key-49cb1dc7671e7c2918f662a3965e046f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-49cb1dc7671e7c2918f662a3965e046f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **52.**[^c11436241] (1) Section 27 (offences by persons connected with ships or aircraft) is amended as follows.
 
@@ -306,7 +306,7 @@ Section 169(1).
 
   .
 
-**53.**[^key-2ec85c7ad0576979c9eb13ae2749b57e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-2ec85c7ad0576979c9eb13ae2749b57e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **54.** (1) Section 32 (proof of documents) is amended as follows.
 
@@ -456,7 +456,7 @@ Section 169(1).
 
 **65.**[^c11436271] In Schedule 2, omit paragraph 28.
 
-**66.**[^key-bafededf23cb9d74f2c516a9af935a12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**66.**[^c-bafededf23cb9d74f2c516a9af935a12] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **67.** In Schedule 2, in paragraph 34 (grant of bail pending removal), in sub-paragraph (1), after “examination” insert “ , detained under paragraph 16(1A) above pending completion of his examination or a decision on whether to cancel his leave to enter ”.
 
@@ -496,7 +496,7 @@ Section 169(1).
 - (a) omit—
 
   “Adjudicator appointed for the purposes of the Immigration Act 1971”; and
-- (b)[^key-3b7ce385c0163169fc406720ac4da8e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-3b7ce385c0163169fc406720ac4da8e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Northern Ireland Assembly Disqualification Act 1975 (c. 25)
 
@@ -505,7 +505,7 @@ Section 169(1).
 - (a) omit—
 
   “Adjudicator appointed for the purposes of the Immigration Act 1971”; and
-- (b)[^key-95a734dc0b92dc32fd90ea6d614df42d] ...
+- (b)[^c-95a734dc0b92dc32fd90ea6d614df42d] ...
 
 ### The Protection from Eviction Act 1977 (c.43)
 
@@ -607,7 +607,7 @@ Section 169(1).
 
 ### The Immigration Act 1988 (c.14)
 
-**83.**[^c11436371][^key-c07f1b926966edc6c5d06f83e06316c0] The Immigration Act 1988 is amended as follows.
+**83.**[^c11436371][^c-c07f1b926966edc6c5d06f83e06316c0] The Immigration Act 1988 is amended as follows.
 
 **84.**[^c11436381] Omit section 5 (restricted right of appeal against deportation in cases of breach of limited leave).
 
@@ -615,7 +615,7 @@ Section 169(1).
 
 **85.** Omit section 8 (examination of passengers before arrival).
 
-**86.**[^key-28d8c3b04048164c11d485591ec137d7] Omit section 9 (charges).
+**86.**[^c-28d8c3b04048164c11d485591ec137d7] Omit section 9 (charges).
 
 ### The Housing (Scotland) Act 1988 (c.43)
 
@@ -677,21 +677,21 @@ Section 169(1).
 
 **94.**[^c11436451] The Tribunals and Inquiries Act 1992 is amended as follows.
 
-**95.**[^key-58cb91e19243b3eb5761f93728ee7194] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**95.**[^c-58cb91e19243b3eb5761f93728ee7194] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**96.**[^key-bec90ef0ef7773e88dd755e11fc9cdb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**96.**[^c-bec90ef0ef7773e88dd755e11fc9cdb9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **Not yet in force.**
 
-**97.**[^key-f58372d79e78f4e5de606fc4075ad267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**97.**[^c-f58372d79e78f4e5de606fc4075ad267] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Judicial Pensions and Retirement Act 1993 (c.8)
 
 **98.**[^c11436461] (1) The Judicial Pensions and Retirement Act 1993 is amended as follows.
 
-(2)[^key-2327bb99604ea517a4dfc33623e9712c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-2327bb99604ea517a4dfc33623e9712c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-2327bb99604ea517a4dfc33623e9712c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2327bb99604ea517a4dfc33623e9712c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In Schedule 6 (retirement date for certain judicial offices), omit paragraphs 37 and 38.
 
@@ -751,7 +751,7 @@ Section 169(1).
 
 ### The Education Act 1996 (c. 56)
 
-**117.**[^key-07c640d10dca774ae81b32d8e7b2e82c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**117.**[^c-07c640d10dca774ae81b32d8e7b2e82c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Special Immigration Appeals Commission Act 1997 (c.68)
 
@@ -759,9 +759,9 @@ Section 169(1).
 
 **119.**[^c11436561] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**120.**[^key-fe669c3f9da48b957502bc94dc7ed119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**120.**[^c-fe669c3f9da48b957502bc94dc7ed119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**121.**[^key-fe669c3f9da48b957502bc94dc7ed119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**121.**[^c-fe669c3f9da48b957502bc94dc7ed119] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **122.**[^c11436621] In section 4 (determination of appeals), after subsection (1) insert—
 
@@ -792,19 +792,19 @@ Section 169(1).
 - (a) in sub-paragraph (i), for “paragraph 1 of Schedule 5 to the Immigration Act 1971” substitute “section 57(2) of the Immigration and Asylum Act 1999”; and
 - (b) in sub-paragraph (ii), for “paragraph 7 of that Schedule” substitute “paragraph 1(3) of Schedule 2 to that Act”.
 
-**126.**[^key-fd506abe9c3f29db2d6036f2e587d0e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**126.**[^c-fd506abe9c3f29db2d6036f2e587d0e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**127.**[^key-fd506abe9c3f29db2d6036f2e587d0e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**127.**[^c-fd506abe9c3f29db2d6036f2e587d0e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**128.**[^key-fd506abe9c3f29db2d6036f2e587d0e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**128.**[^c-fd506abe9c3f29db2d6036f2e587d0e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**129.**[^key-fd506abe9c3f29db2d6036f2e587d0e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**129.**[^c-fd506abe9c3f29db2d6036f2e587d0e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b99e6421a104555825a150b9582721e6]: Textual amendment: Sch. 14 para. 1 repealed (N.I.) (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
+[^c-b99e6421a104555825a150b9582721e6]: Textual amendment: Sch. 14 para. 1 repealed (N.I.) (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
 
-[^key-b8382abe96732b4ab52f4bb01d46756b]: Textual amendment: Sch. 14 para. 2 repealed (N.I.) (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
+[^c-b8382abe96732b4ab52f4bb01d46756b]: Textual amendment: Sch. 14 para. 2 repealed (N.I.) (1.1.2004) by [The Marriage (Northern Ireland) Order 2003 (S.I. 2003/413)](https://www.legislation.gov.uk/nisi/2003/413), [art. 1(2)](https://www.legislation.gov.uk/nisi/2003/413/article/1/2), [Sch.](https://www.legislation.gov.uk/nisi/2003/413/schedule); [S.R. 2003/466](https://www.legislation.gov.uk/nisr/2003/466), [art. 2(b)](https://www.legislation.gov.uk/nisr/2003/466/article/2/b)
 
 [^c11435841]: Commencement: Sch. 14 paras. 1-32, 37-42 and 77 wholly in force at 1.1.2001, see s. 170(4) and [S.I. 2000/2698](https://www.legislation.gov.uk/uksi/2000/2698), [art. 2](https://www.legislation.gov.uk/uksi/2000/2698/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/2698/schedule) (as amended by [S.I. 2000/3099](https://www.legislation.gov.uk/uksi/2000/3099), [art. 4](https://www.legislation.gov.uk/uksi/2000/3099/article/4)) subject to the transitional provision in art. 3 (as also inserted by art. 4 of the said [S.I. 2000/3099](https://www.legislation.gov.uk/uksi/2000/3099))
 
@@ -884,15 +884,15 @@ Section 169(1).
 
 [^c11436221]: Commencement: Sch. 14 para. 46 wholly in force at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to the transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
-[^key-c888b1ab7da747b017896e87ed465569]: Textual amendment: Sch. 14 para. 46(a) repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
+[^c-c888b1ab7da747b017896e87ed465569]: Textual amendment: Sch. 14 para. 46(a) repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
 
 [^c11436231]: Commencement: Sch. 14 para. 49 partly in force; Sch. 14 para. 49 not in force at Royal Assent see s. 170(4); Sch. 14 para. 49 in force for certain purposes at 14.2.2000 by [S.I. 2000/168](https://www.legislation.gov.uk/uksi/2000/168), [art. 2](https://www.legislation.gov.uk/uksi/2000/168/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/168/schedule) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2000/168/article/3)); Sch. 14 para. 49 in force for certain purposes at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
-[^key-49cb1dc7671e7c2918f662a3965e046f]: Textual amendment: Sch. 14 para. 51 repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
+[^c-49cb1dc7671e7c2918f662a3965e046f]: Textual amendment: Sch. 14 para. 51 repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
 
 [^c11436241]: Commencement: Sch. 14 para. 52 wholly in force at 2.10.2000; Sch. 14 para. 52 not in force at Royal Assent see s. 170(4); Sch. 14 para. 52(1) in force for certain purposes at 1.3.2000 and for certain further purposes at 3.4.2000 by [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch](https://www.legislation.gov.uk/uksi/2000/464/schedule); Sch. 14 para. 52(3)(a) in force at 1.3.2000 and para. 52(3)(b) in force at 3.4.2000 by [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/464/schedule); Sch. 14 para. 52 in force so far as not already in force at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
-[^key-2ec85c7ad0576979c9eb13ae2749b57e]: Textual amendment: Sch. 14 para. 53 repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
+[^c-2ec85c7ad0576979c9eb13ae2749b57e]: Textual amendment: Sch. 14 para. 53 repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
 
 [^c11436251]: Commencement: Sch. 14 paras. 55, 65, 66, 69, 70, 84, 103-106, 114, 115, 120, 122-128 wholly in force at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to the transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
@@ -900,7 +900,7 @@ Section 169(1).
 
 [^c11436271]: Commencement: Sch. 14 paras. 55, 65, 66, 69, 70, 84, 103-106, 114, 115, 120, 122-128 wholly in force at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to the transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
-[^key-bafededf23cb9d74f2c516a9af935a12]: Textual amendment: Sch. 14 para. 66 repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
+[^c-bafededf23cb9d74f2c516a9af935a12]: Textual amendment: Sch. 14 para. 66 repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
 
 [^c11436291]: Commencement: Sch. 14 para. 69 wholly in force at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to the transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
@@ -908,11 +908,11 @@ Section 169(1).
 
 [^c11436311]: Modification: Sch. 14 para. 71 modified (14.2.2000) by [S.I. 2000/168](https://www.legislation.gov.uk/uksi/2000/168), [art. 3](https://www.legislation.gov.uk/uksi/2000/168/article/3)
 
-[^key-3b7ce385c0163169fc406720ac4da8e6]: Textual amendment: Sch. 14 para. 71(b) repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(f)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/f)
+[^c-3b7ce385c0163169fc406720ac4da8e6]: Textual amendment: Sch. 14 para. 71(b) repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(f)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/f)
 
 [^c11436321]: Modification: Sch.14 para. 72 modified (14.2.2000) by [S.I. 2000/168](https://www.legislation.gov.uk/uksi/2000/168), [art. 3](https://www.legislation.gov.uk/uksi/2000/168/article/3)
 
-[^key-95a734dc0b92dc32fd90ea6d614df42d]: Textual amendment: Sch. 14 para. 72(b) repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(f)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/f)
+[^c-95a734dc0b92dc32fd90ea6d614df42d]: Textual amendment: Sch. 14 para. 72(b) repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(f)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/f)
 
 [^c11436331]: Marginal citation: [1995 c. 18](https://www.legislation.gov.uk/ukpga/1995/18).
 
@@ -924,11 +924,11 @@ Section 169(1).
 
 [^c11436371]: Commencement: Sch. 14 para. 83 partly in force: Sch. 14 para. 83 in force for certain purposes at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
-[^key-c07f1b926966edc6c5d06f83e06316c0]: Commencement: Sch. 14 para. 83 in force at 30.6.2003 for specified purposes by [S.I. 2003/1469](https://www.legislation.gov.uk/uksi/2003/1469), [art. 2](https://www.legislation.gov.uk/uksi/2003/1469/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1469/schedule)
+[^c-c07f1b926966edc6c5d06f83e06316c0]: Commencement: Sch. 14 para. 83 in force at 30.6.2003 for specified purposes by [S.I. 2003/1469](https://www.legislation.gov.uk/uksi/2003/1469), [art. 2](https://www.legislation.gov.uk/uksi/2003/1469/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1469/schedule)
 
 [^c11436381]: Commencement: Sch. 14 paras. 55, 65, 66, 69, 70, 84, 103-106, 114, 115, 120, 122-128 wholly in force at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to the transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
-[^key-28d8c3b04048164c11d485591ec137d7]: Commencement: Sch. 14 para. 86 in force at 30.6.2003 by [S.I. 2003/1469](https://www.legislation.gov.uk/uksi/2003/1469), [art. 2](https://www.legislation.gov.uk/uksi/2003/1469/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1469/schedule)
+[^c-28d8c3b04048164c11d485591ec137d7]: Commencement: Sch. 14 para. 86 in force at 30.6.2003 by [S.I. 2003/1469](https://www.legislation.gov.uk/uksi/2003/1469), [art. 2](https://www.legislation.gov.uk/uksi/2003/1469/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/1469/schedule)
 
 [^c11436391]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
@@ -942,15 +942,15 @@ Section 169(1).
 
 [^c11436451]: Commencement: Sch. 14 para. 94 partly in force; Sch. 14 para. 94 not in force at Royal Assent see s. 170(4); Sch. 14 para. 94 in force for certain purposes at 14.2.2000 by [S.I. 2000/168](https://www.legislation.gov.uk/uksi/2000/168), [art. 2](https://www.legislation.gov.uk/uksi/2000/168/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/168/schedule) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2000/168/article/3))
 
-[^key-58cb91e19243b3eb5761f93728ee7194]: Textual amendment: Sch. 14 para. 95 repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(f)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/f)
+[^c-58cb91e19243b3eb5761f93728ee7194]: Textual amendment: Sch. 14 para. 95 repealed (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 228(f)](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/228/f)
 
-[^key-bec90ef0ef7773e88dd755e11fc9cdb9]: Textual amendment: Sch. 14 para. 96 repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
+[^c-bec90ef0ef7773e88dd755e11fc9cdb9]: Textual amendment: Sch. 14 para. 96 repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
 
-[^key-f58372d79e78f4e5de606fc4075ad267]: Textual amendment: Sch. 14 para. 97 repealed (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-f58372d79e78f4e5de606fc4075ad267]: Textual amendment: Sch. 14 para. 97 repealed (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
 
 [^c11436461]: Modification: Sch. 14 para. 98 modified (14.2.2000) by [S.I. 2000/168](https://www.legislation.gov.uk/uksi/2000/168), [art. 3](https://www.legislation.gov.uk/uksi/2000/168/article/3)
 
-[^key-2327bb99604ea517a4dfc33623e9712c]: Textual amendment: Sch. 14 para. 98(2)(3) repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
+[^c-2327bb99604ea517a4dfc33623e9712c]: Textual amendment: Sch. 14 para. 98(2)(3) repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
 
 [^c11436471]: Commencement: Sch. 14 para. 99 partly in force; Sch. 14 para. 99 not in force at Royal Assent see s. 170(4); Sch. 14 para. 99 in force for certain purposes at 3.4.2000 by [S.I. 2000/464](https://www.legislation.gov.uk/uksi/2000/464), [art. 2](https://www.legislation.gov.uk/uksi/2000/464/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/464/schedule) and in force for certain purposes at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
@@ -968,13 +968,13 @@ Section 169(1).
 
 [^c11436541]: Commencement: Sch. 14 paras. 55, 65, 66, 69, 70, 84, 103-106, 114, 115, 120, 122-128 wholly in force at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to the transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
-[^key-07c640d10dca774ae81b32d8e7b2e82c]: Textual amendment: Sch. 14 para. 117 repealed (31.3.2003 for W., 1.4.2003 for E.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4)
+[^c-07c640d10dca774ae81b32d8e7b2e82c]: Textual amendment: Sch. 14 para. 117 repealed (31.3.2003 for W., 1.4.2003 for E.) by [Education Act 2002 (c. 32)](https://www.legislation.gov.uk/ukpga/2002/32), [s. 216(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/216/4), [Sch. 22 Pt. 3](https://www.legislation.gov.uk/ukpga/2002/32/schedule/22/part/3) (with [ss. 210(8)](https://www.legislation.gov.uk/ukpga/2002/32/section/210/8), [214(4)](https://www.legislation.gov.uk/ukpga/2002/32/section/214/4)); [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II); [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4)
 
 [^c11436551]: Commencement: Sch. 14 para. 118 partly in force; Sch. 14 para. 118 not in force at Royal Assent see s. 170(4); Sch. 14 para. 118 in force for certain purposes at 14.2.2000 by [S.I. 2000/168](https://www.legislation.gov.uk/uksi/2000/168), [art. 2](https://www.legislation.gov.uk/uksi/2000/168/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/168/schedule) (with transitional provisions in [art. 3](https://www.legislation.gov.uk/uksi/2000/168/article/3)); Sch. 14 para. 118 in force for certain purposes at 1.8.2000 by [S.I. 2000/1985](https://www.legislation.gov.uk/uksi/2000/1985), [art. 2](https://www.legislation.gov.uk/uksi/2000/1985/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2000/1985/schedule) and in force for certain purposes at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
 [^c11436561]: Textual amendment: Sch. 14 para. 119 repealed (2.10.2000) by [S.I. 2000/2326](https://www.legislation.gov.uk/uksi/2000/2326), [art. 32(4)(a)](https://www.legislation.gov.uk/uksi/2000/2326/article/32/4/a) (with application as mentioned in regs. 9, 28 and 36 of the said S.I.)
 
-[^key-fe669c3f9da48b957502bc94dc7ed119]: Textual amendment: Sch. 14 paras. 120-121 repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
+[^c-fe669c3f9da48b957502bc94dc7ed119]: Textual amendment: Sch. 14 paras. 120-121 repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
 
 [^c11436621]: Commencement: Sch. 14 paras. 55, 65, 66, 69, 70, 84, 103-106, 114, 115, 120, 122-124, 126-128 wholly in force at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to the transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
@@ -982,4 +982,4 @@ Section 169(1).
 
 [^c11436641]: Commencement: Sch. 14 paras. 55, 65, 66, 69, 70, 84, 103-106, 114, 115, 120, 122-124, 126-128 wholly in force at 2.10.2000 by [S.I. 2000/2444](https://www.legislation.gov.uk/uksi/2000/2444), [art. 2](https://www.legislation.gov.uk/uksi/2000/2444/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2444/schedule/1) (subject to the transitional provisions in [arts. 3](https://www.legislation.gov.uk/uksi/2000/2444/article/3), [4](https://www.legislation.gov.uk/uksi/2000/2444/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2000/2444/schedule/2))
 
-[^key-fd506abe9c3f29db2d6036f2e587d0e1]: Textual amendment: Sch. 14 paras. 126-129 repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))
+[^c-fd506abe9c3f29db2d6036f2e587d0e1]: Textual amendment: Sch. 14 paras. 126-129 repealed (1.4.2003) by [Nationality, Immigration and Asylum Act 2002 (c. 41)](https://www.legislation.gov.uk/ukpga/2002/41), [s. 162(1)](https://www.legislation.gov.uk/ukpga/2002/41/section/162/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/41/schedule/9) (with [s. 159](https://www.legislation.gov.uk/ukpga/2002/41/section/159)); [S.I. 2003/754](https://www.legislation.gov.uk/uksi/2003/754), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/754/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/754/schedule/1) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/754/article/3), [4](https://www.legislation.gov.uk/uksi/2003/754/article/4))

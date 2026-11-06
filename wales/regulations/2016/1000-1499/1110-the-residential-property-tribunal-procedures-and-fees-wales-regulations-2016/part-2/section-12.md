@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Request by a person to be treated as an applicant or respondent[^key-e26ece5076c41bc82388ec06e492fd22]
+## 12. Request by a person to be treated as an applicant or respondent[^c-e26ece5076c41bc82388ec06e492fd22]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e26ece5076c41bc82388ec06e492fd22]: Commencement: Reg. 12 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-e26ece5076c41bc82388ec06e492fd22]: Commencement: Reg. 12 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

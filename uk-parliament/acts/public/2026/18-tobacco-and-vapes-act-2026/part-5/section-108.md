@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Enforcement[^key-7243a6e290da263c5cbace7a80208ed9]
+## 108. Enforcement[^c-7243a6e290da263c5cbace7a80208ed9]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7243a6e290da263c5cbace7a80208ed9]: Commencement: S. 108 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-7243a6e290da263c5cbace7a80208ed9]: Commencement: S. 108 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

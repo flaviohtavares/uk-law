@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Individual candidates: payment of expenses by or through election agent[^key-d330a306da22f00e806bcb1a35052c5e]
+## 44. Individual candidates: payment of expenses by or through election agent[^c-d330a306da22f00e806bcb1a35052c5e]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ in respect of election expenses incurred by or on behalf of the candidate unless
 
 ## Annotations
 
-[^key-d330a306da22f00e806bcb1a35052c5e]: Commencement: Art. 44 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d330a306da22f00e806bcb1a35052c5e]: Commencement: Art. 44 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

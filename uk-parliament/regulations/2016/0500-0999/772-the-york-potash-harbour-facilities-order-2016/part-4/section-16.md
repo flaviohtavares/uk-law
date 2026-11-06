@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Authority to survey and investigate the land[^key-c44a5ca107cbb2bb41162a50f4fcc54c]
+## 16. Authority to survey and investigate the land[^c-c44a5ca107cbb2bb41162a50f4fcc54c]
 
 *Extent: E+W*
 
@@ -43,12 +43,12 @@ but such consent must not be unreasonably withheld.
 
 (5) The undertaker must compensate the owners and occupiers of the land for any loss or damage arising by reason of the exercise of the authority conferred by this article, such compensation to be determined, in case of dispute, under Part 1 (determination of questions of disputed compensation) of the 1961 Act.
 
-(6) Nothing in this article overrides any requirement to obtain permits or consents under the Conservation of Habitats and Species Regulations 2017[^key-3f46203f92f12f8de3789bae463e7d5f] or the Wildlife and Countryside Act 1981[^f00023].
+(6) Nothing in this article overrides any requirement to obtain permits or consents under the Conservation of Habitats and Species Regulations 2017[^c-3f46203f92f12f8de3789bae463e7d5f] or the Wildlife and Countryside Act 1981[^f00023].
 
 ## Annotations
 
-[^key-c44a5ca107cbb2bb41162a50f4fcc54c]: Commencement: Art. 16 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-c44a5ca107cbb2bb41162a50f4fcc54c]: Commencement: Art. 16 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
 
-[^key-3f46203f92f12f8de3789bae463e7d5f]: Textual amendment: Words in [art. 16(6)](https://www.legislation.gov.uk/uksi/2016/772/article/16/6) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 69](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/69)
+[^c-3f46203f92f12f8de3789bae463e7d5f]: Textual amendment: Words in [art. 16(6)](https://www.legislation.gov.uk/uksi/2016/772/article/16/6) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 69](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/69)
 
 [^f00023]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).

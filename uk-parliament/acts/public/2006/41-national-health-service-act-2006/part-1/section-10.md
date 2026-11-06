@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subsection (2) applies where the Regional Agency for Public Health and Social Well-being[^key-6e9551ad99ef7bd0d251343f48c17393] or a body mentioned in paragraph (o), (p), (q) or (r) of section 9(4) is a party or prospective party to an arrangement or proposed arrangement which—
+(1) Subsection (2) applies where the Regional Agency for Public Health and Social Well-being[^c-6e9551ad99ef7bd0d251343f48c17393] or a body mentioned in paragraph (o), (p), (q) or (r) of section 9(4) is a party or prospective party to an arrangement or proposed arrangement which—
 
 - (a) falls within the definition of NHS contract in section 9(1), and
 - (b) also falls within the definition of HSS contract in Article 8 of the Health and Personal Social Services (Northern Ireland) Order 1991 (S.I. 1991/194 (N.I.1)).
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e9551ad99ef7bd0d251343f48c17393]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/10/1) substituted (30.11.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174)](https://www.legislation.gov.uk/uksi/2022/1174), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1174/article/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2022/1174/article/23/3)
+[^c-6e9551ad99ef7bd0d251343f48c17393]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/ukpga/2006/41/section/10/1) substituted (30.11.2022) by [The Health and Social Care Act (Northern Ireland) 2022 (Consequential Amendments) Order 2022 (S.I. 2022/1174)](https://www.legislation.gov.uk/uksi/2022/1174), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1174/article/1/2), [23(3)](https://www.legislation.gov.uk/uksi/2022/1174/article/23/3)

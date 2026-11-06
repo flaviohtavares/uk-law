@@ -44,11 +44,11 @@ Coming into operation
 
 The Department of Finance[^f00001], in exercise of the powers conferred by section 5 and section 6 of the Legal Complaints and Regulation Act (Northern Ireland) 2016[^f00002], and being satisfied the apportionment of the levy as between each professional body will be in accordance with fair principles, makes the following Regulations.
 
-## 1. Citation and commencement[^key-d673f60f80c716024c508ac90801c0b5]
+## 1. Citation and commencement[^c-d673f60f80c716024c508ac90801c0b5]
 
 These regulations may be cited as the Legal Complaints and Regulation Act (Northern Ireland) 2016 (Levy) Regulations 2025 and shall come into operation on 1<sup>st</sup> September 2025.
 
-## 2. Interpretation[^key-68f1b581263b7148d17fc52094033d0d]
+## 2. Interpretation[^c-68f1b581263b7148d17fc52094033d0d]
 
 In these regulations:
 
@@ -57,7 +57,7 @@ In these regulations:
   - (b) The Law Society of Northern Ireland;
 - “**the 2016 Act**” means the Legal Complaints and Regulation Act (Northern Ireland) 2016.
 
-## 3. Annual Levy[^key-25922d71fad5a470b3dea15ff4756d21]
+## 3. Annual Levy[^c-25922d71fad5a470b3dea15ff4756d21]
 
 (1)  A levy is to be imposed on each professional body in respect of the financial year ending March 2026, and in respect of each subsequent financial year.
 
@@ -65,7 +65,7 @@ In these regulations:
 
 (3) The expenditure referred to in paragraph (2) may include such amount as is necessary to make good any discrepancy between the amount to be raised by way of the levy under these Regulations and the amount actually received by the Legal Services Oversight Commissioner in a financial year.
 
-## 4. Amount payable by each professional body[^key-6133d431411022ea88ce9005c5d046d2]
+## 4. Amount payable by each professional body[^c-6133d431411022ea88ce9005c5d046d2]
 
 (1) The amount that each professional body must pay to the Legal Services Oversight Commissioner in respect of any financial year is to be calculated by the Department for that body under regulation 5.
 
@@ -78,7 +78,7 @@ In these regulations:
 
 (4) The professional body must pay to the Legal Services Oversight Commissioner the amount stated in such a notice.
 
-## 5. Apportionment of leviable Legal Services Oversight Commissioner expenditure[^key-c213a9c817623646bc498a229593a9c1]
+## 5. Apportionment of leviable Legal Services Oversight Commissioner expenditure[^c-c213a9c817623646bc498a229593a9c1]
 
 (1)  This regulation determines the amount to be paid by each professional body in relation to the expenditure referred to in regulation 3(2).
 
@@ -88,7 +88,7 @@ In these regulations:
 
 (4) The specified date is 1<sup>st</sup> April of the financial year in respect of which the levy is imposed.
 
-## 6. Making payment[^key-323b776de25ddeb11c5db0862d0eba9f]
+## 6. Making payment[^c-323b776de25ddeb11c5db0862d0eba9f]
 
 (1)  The amount of the levy that a professional body is required to pay to the Legal Services Oversight Commissioner under regulation 4 must be paid in full by the professional body before the end of –
 
@@ -97,7 +97,7 @@ In these regulations:
 
 whichever is later.
 
-## 7. Interest payable on late payment[^key-15e4cf248212b47a3ae3f20c612f588e]
+## 7. Interest payable on late payment[^c-15e4cf248212b47a3ae3f20c612f588e]
 
 If payment is not made by the professional body in accordance with regulation 6, the Legal Services Oversight Commissioner may charge interest on any amount unpaid at the rate of statutory interest prescribed under section 6 of the Late Payment of Commercial Debts (Interest) Act 1998[^f00003].
 
@@ -129,18 +129,18 @@ Regulation 6 requires that, except in certain specified cases, the levy must be 
 
 [^f00002]: Footnote: [2016 c.14 (N.I.)](https://www.legislation.gov.uk/nia/2016/14)
 
-[^key-d673f60f80c716024c508ac90801c0b5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
+[^c-d673f60f80c716024c508ac90801c0b5]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
 
-[^key-68f1b581263b7148d17fc52094033d0d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/120/regulation/2) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
+[^c-68f1b581263b7148d17fc52094033d0d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/120/regulation/2) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
 
-[^key-25922d71fad5a470b3dea15ff4756d21]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/120/regulation/3) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
+[^c-25922d71fad5a470b3dea15ff4756d21]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/120/regulation/3) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
 
-[^key-6133d431411022ea88ce9005c5d046d2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2025/120/regulation/4) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
+[^c-6133d431411022ea88ce9005c5d046d2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2025/120/regulation/4) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
 
-[^key-c213a9c817623646bc498a229593a9c1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2025/120/regulation/5) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
+[^c-c213a9c817623646bc498a229593a9c1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2025/120/regulation/5) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
 
-[^key-323b776de25ddeb11c5db0862d0eba9f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2025/120/regulation/6) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
+[^c-323b776de25ddeb11c5db0862d0eba9f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2025/120/regulation/6) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
 
-[^key-15e4cf248212b47a3ae3f20c612f588e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2025/120/regulation/7) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
+[^c-15e4cf248212b47a3ae3f20c612f588e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2025/120/regulation/7) in operation at 1.9.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/120/regulation/1)
 
 [^f00003]: Footnote: [1998 c.20](https://www.legislation.gov.uk/ukpga/1998/20)

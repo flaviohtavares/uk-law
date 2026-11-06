@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Policy statement[^key-9bd8f376e68bbf541d66c215f21ef77e]
+## 78. Policy statement[^c-9bd8f376e68bbf541d66c215f21ef77e]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9bd8f376e68bbf541d66c215f21ef77e]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2010/16/section/78) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-9bd8f376e68bbf541d66c215f21ef77e]: Commencement: [S. 78](https://www.legislation.gov.uk/asp/2010/16/section/78) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

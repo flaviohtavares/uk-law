@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Publication and disclosure of information[^key-451ca31b5b9fc3a698f97b84af507aef][^key-8b6b5863e5dbf4b2d4ad30383fb6c861]
+## 79. Publication and disclosure of information[^c-451ca31b5b9fc3a698f97b84af507aef][^c-8b6b5863e5dbf4b2d4ad30383fb6c861]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-451ca31b5b9fc3a698f97b84af507aef]: Commencement: S. 79 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-451ca31b5b9fc3a698f97b84af507aef]: Commencement: S. 79 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-8b6b5863e5dbf4b2d4ad30383fb6c861]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2023/32/section/79) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)
+[^c-8b6b5863e5dbf4b2d4ad30383fb6c861]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2023/32/section/79) in force at 1.7.2025 by [S.I. 2025/674](https://www.legislation.gov.uk/uksi/2025/674), [reg. 2](https://www.legislation.gov.uk/uksi/2025/674/regulation/2)

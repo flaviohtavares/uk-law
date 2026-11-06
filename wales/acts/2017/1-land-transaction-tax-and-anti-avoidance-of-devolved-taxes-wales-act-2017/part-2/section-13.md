@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Pre-completion transactions[^key-5bc36c2346455d71fe3e02a776b69c27]
+## 13. Pre-completion transactions[^c-5bc36c2346455d71fe3e02a776b69c27]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Schedule 2 makes—
 
 ## Annotations
 
-[^key-5bc36c2346455d71fe3e02a776b69c27]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2017/1/section/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-5bc36c2346455d71fe3e02a776b69c27]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2017/1/section/13) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

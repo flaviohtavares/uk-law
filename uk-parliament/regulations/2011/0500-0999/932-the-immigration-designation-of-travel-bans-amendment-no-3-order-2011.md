@@ -32,7 +32,7 @@ summary: ''
 
 Immigration
 
-The Immigration (Designation of Travel Bans) (Amendment No.3) Order 2011 (revoked)[^key-f68843919471bf2a5e2d1df41bc11d6b]
+The Immigration (Designation of Travel Bans) (Amendment No.3) Order 2011 (revoked)[^c-f68843919471bf2a5e2d1df41bc11d6b]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 26th March 2011
 
-[^key-f68843919471bf2a5e2d1df41bc11d6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f68843919471bf2a5e2d1df41bc11d6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-f68843919471bf2a5e2d1df41bc11d6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f68843919471bf2a5e2d1df41bc11d6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f68843919471bf2a5e2d1df41bc11d6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f68843919471bf2a5e2d1df41bc11d6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f68843919471bf2a5e2d1df41bc11d6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f68843919471bf2a5e2d1df41bc11d6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f68843919471bf2a5e2d1df41bc11d6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f68843919471bf2a5e2d1df41bc11d6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f68843919471bf2a5e2d1df41bc11d6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f68843919471bf2a5e2d1df41bc11d6b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f68843919471bf2a5e2d1df41bc11d6b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/932) revoked (9.11.2011) by [The Immigration (Designation of Travel Bans) (Amendment No.6) Order 2011 (S.I. 2011/2489)](https://www.legislation.gov.uk/uksi/2011/2489), [art. 1](https://www.legislation.gov.uk/uksi/2011/2489/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2489/schedule/2)
+[^c-f68843919471bf2a5e2d1df41bc11d6b]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2011/932) revoked (9.11.2011) by [The Immigration (Designation of Travel Bans) (Amendment No.6) Order 2011 (S.I. 2011/2489)](https://www.legislation.gov.uk/uksi/2011/2489), [art. 1](https://www.legislation.gov.uk/uksi/2011/2489/article/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2489/schedule/2)

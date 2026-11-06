@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 284. Power to require production of certain equipment[^key-917a5c1880bf3f2a79e2a2ac9cc508c5]
+## 284. Power to require production of certain equipment[^c-917a5c1880bf3f2a79e2a2ac9cc508c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,12 +24,12 @@ summary: ''
 
 (2) The equipment referred to in subsection (1) is—
 
-- (a) any automatic recording equipment or transmitting equipment used in accordance with a condition included in a licence by virtue of paragraph 1 of Schedule 3 to the Fisheries Act 2020 or section[^key-a452c13824658740656b5d0ac1e624ea] 4A(6) of the Sea Fish (Conservation) Act 1967 (c. 84);
+- (a) any automatic recording equipment or transmitting equipment used in accordance with a condition included in a licence by virtue of paragraph 1 of Schedule 3 to the Fisheries Act 2020 or section[^c-a452c13824658740656b5d0ac1e624ea] 4A(6) of the Sea Fish (Conservation) Act 1967 (c. 84);
 - (b) any equipment which is required to be carried on board a vessel by virtue of a byelaw made by an inshore fisheries and conservation authority under section 155;
 - (c) any equipment which is required to be carried on board a vessel by virtue of an order made by the Welsh Ministers under section 189.
 
 ## Annotations
 
-[^key-917a5c1880bf3f2a79e2a2ac9cc508c5]: Commencement: S. 284 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-917a5c1880bf3f2a79e2a2ac9cc508c5]: Commencement: S. 284 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
 
-[^key-a452c13824658740656b5d0ac1e624ea]: Textual amendment: Words in s. 284(2)(a) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 11(6)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/11/6) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-a452c13824658740656b5d0ac1e624ea]: Textual amendment: Words in s. 284(2)(a) substituted (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(3)(b)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/3/b), [Sch. 4 para. 11(6)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/11/6) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

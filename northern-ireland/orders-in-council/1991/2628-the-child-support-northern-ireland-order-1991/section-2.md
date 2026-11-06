@@ -34,7 +34,7 @@ summary: ''
 - *Definitions rep. by S.I. 1998/1506 (N.I. 10)*
 - “Child Support Commissioner” means a Child Support Commissioner for Northern Ireland appointed under section 23 of the Child Support Act 1991[^c16849521];
 - “child support maintenance” has the meaning given in Article 4(6);
-- “[^key-a74c92b0456ecf24d98786486d9428bb]**curfew order**” has the meaning given in Article 36G(1);
+- “[^c-a74c92b0456ecf24d98786486d9428bb]**curfew order**” has the meaning given in Article 36G(1);
 - *Definition rep. by S.I. 1998/1506 (N.I. 10)*
 - [^c20426781]...
 - “deduction from earnings order” has the meaning given in Article 31(2);
@@ -46,7 +46,7 @@ summary: ''
 - *Definition rep. by 2002 c. 21*
 - “income support” has the same meaning as in the benefit Acts;
 - “income-based jobseeker's allowance” has the same meaning as in the Jobseekers (Northern Ireland) Order 1995;[^c16849611]
-- “[^key-90da7f1742d8d62235cbabb9c527d44e]**income-related employment and support allowance**” means an income-related allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 (employment and support allowance);
+- “[^c-90da7f1742d8d62235cbabb9c527d44e]**income-related employment and support allowance**” means an income-related allowance under Part 1 of the Welfare Reform Act (Northern Ireland) 2007 (employment and support allowance);
 - “interim maintenance decision[^c20427051]” has the meaning given in Article 14;
 - “liability order” has the meaning given in Article 33(2);
 - “maintenance agreement” has the meaning given in Article 11(1);
@@ -62,7 +62,7 @@ summary: ''
 - “statutory provision” has the meaning assigned to it by section 1(f) of the Interpretation Act (Northern Ireland) 1954[^c16849701].
 - “voluntary payment” has the meaning given in Article 28J.[^c20427141]
 
-(3)[^key-082dbf82524b4c05046d999c7016ffa3] The definition of “deposit-taker” in paragraph (2) is to be read with—
+(3)[^c-082dbf82524b4c05046d999c7016ffa3] The definition of “deposit-taker” in paragraph (2) is to be read with—
 
 - (a) section 22 of the Financial Services and Markets Act 2000;
 - (b) any relevant order under that section; and
@@ -88,7 +88,7 @@ summary: ''
 
 [^c16849521]: Marginal citation: [1991 c. 48](https://www.legislation.gov.uk/ukpga/1991/48)
 
-[^key-a74c92b0456ecf24d98786486d9428bb]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1991/2628/article/2/2) inserted (1.6.2009 for specified purposes) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/1/2/a) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2009/216/article/2/2/b/ii)
+[^c-a74c92b0456ecf24d98786486d9428bb]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/nisi/1991/2628/article/2/2) inserted (1.6.2009 for specified purposes) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 4 para. 1(2)(a)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/1/2/a) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2009/216/article/2/2/b/ii)
 
 [^c20426781]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/nisi/1991/2628/article/2/2): definition of "current assessment" repealed (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4), [ss. 25](https://www.legislation.gov.uk/nia/2000/4/section/25), [67](https://www.legislation.gov.uk/nia/2000/4/section/67), [68(2)](https://www.legislation.gov.uk/nia/2000/4/section/68/2), [Sch. 3 para. 12(b)](https://www.legislation.gov.uk/nia/2000/4/schedule/3/paragraph/12/b), [Sch. 9 Pt. I](https://www.legislation.gov.uk/nia/2000/4/schedule/9/part/I); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 3(1)](https://www.legislation.gov.uk/nisr/2003/53/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2003/53/schedule)
 
@@ -100,7 +100,7 @@ summary: ''
 
 [^c16849611]: Textual amendment: [1995 NI 15](https://www.legislation.gov.uk/1995/ni15)
 
-[^key-90da7f1742d8d62235cbabb9c527d44e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisi/1991/2628/article/2) inserted (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/2/2); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
+[^c-90da7f1742d8d62235cbabb9c527d44e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/nisi/1991/2628/article/2) inserted (27.10.2008) by [Welfare Reform Act (Northern Ireland) 2007 (c. 2)](https://www.legislation.gov.uk/nia/2007/2), [s. 60(1)](https://www.legislation.gov.uk/nia/2007/2/section/60/1), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/nia/2007/2/schedule/3/paragraph/2/2); [S.R. 2008/276](https://www.legislation.gov.uk/nisr/2008/276), [art. 2(2)(d)](https://www.legislation.gov.uk/nisr/2008/276/article/2/2/d), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2008/276/schedule/part/2)
 
 [^c20427051]: Textual amendment: Word in [art. 2(2)](https://www.legislation.gov.uk/nisi/1991/2628/article/2/2) in definition of "interim maintenance assessment" substituted (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4), [ss. 25](https://www.legislation.gov.uk/nia/2000/4/section/25), [68(2)](https://www.legislation.gov.uk/nia/2000/4/section/68/2), [Sch. 3 para. 12(d)](https://www.legislation.gov.uk/nia/2000/4/schedule/3/paragraph/12/d); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 3(1)](https://www.legislation.gov.uk/nisr/2003/53/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2003/53/schedule)
 
@@ -114,4 +114,4 @@ summary: ''
 
 [^c20427141]: Textual amendment: [Art. 2(2)](https://www.legislation.gov.uk/nisi/1991/2628/article/2/2): definition of "voluntary payment" added (3.3.2003 for specified purposes) by [Child Support, Pensions and Social Security Act (Northern Ireland) 2000 (c. 4)](https://www.legislation.gov.uk/nia/2000/4), [ss. 25](https://www.legislation.gov.uk/nia/2000/4/section/25), [68(2)](https://www.legislation.gov.uk/nia/2000/4/section/68/2), [Sch. 3 para. 12(f)](https://www.legislation.gov.uk/nia/2000/4/schedule/3/paragraph/12/f); [S.R. 2003/53](https://www.legislation.gov.uk/nisr/2003/53), [art. 3(1)](https://www.legislation.gov.uk/nisr/2003/53/article/3/1), [Sch.](https://www.legislation.gov.uk/nisr/2003/53/schedule)
 
-[^key-082dbf82524b4c05046d999c7016ffa3]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/nisi/1991/2628/article/2/3) added (1.6.2009) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/1/3) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/nisr/2009/216/article/2/2/b/i)
+[^c-082dbf82524b4c05046d999c7016ffa3]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/nisi/1991/2628/article/2/3) added (1.6.2009) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [s. 41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1), [Sch. 4 para. 1(3)](https://www.legislation.gov.uk/nia/2008/10/schedule/4/paragraph/1/3) (with [s. 37](https://www.legislation.gov.uk/nia/2008/10/section/37)); [S.R. 2009/216](https://www.legislation.gov.uk/nisr/2009/216), [art. 2(2)(b)(i)](https://www.legislation.gov.uk/nisr/2009/216/article/2/2/b/i)

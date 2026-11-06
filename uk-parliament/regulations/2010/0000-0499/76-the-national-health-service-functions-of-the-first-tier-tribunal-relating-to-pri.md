@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 169(3), 272(7) and 273(4) of the National Health Service Act 2006[^f00001].
 
-## 1. Citation, commencement and application[^key-bd5f53df07ebf15c68a530ff4f5a4d32]
+## 1. Citation, commencement and application[^c-bd5f53df07ebf15c68a530ff4f5a4d32]
 
 (1) These Regulations may be cited as the National Health Service (Functions of the First-tier Tribunal relating to Primary Medical, Dental and Ophthalmic Services) Regulations 2010 and come into force on 11th February 2010.
 
 (2) These Regulations apply in relation to England.
 
-## 2. Interpretation[^key-6dd3493bae633c0bccb3be67d02e01a1]
+## 2. Interpretation[^c-6dd3493bae633c0bccb3be67d02e01a1]
 
 In these Regulations—
 
@@ -74,7 +74,7 @@ In these Regulations—
   - (a) between a Primary Care Trust and any person other than a Strategic Health Authority, means the Primary Care Trust; or
   - (b) between a Primary Care Trust and a Strategic Health Authority, means the Strategic Health Authority.
 
-## 3. Directions in respect of GMS contract disputes[^key-4da9dfcdb76ed0b6f082d4d53800f483]
+## 3. Directions in respect of GMS contract disputes[^c-4da9dfcdb76ed0b6f082d4d53800f483]
 
 (1) The Secretary of State directs the First-tier Tribunal to exercise the functions of the Secretary of State under paragraphs 101 and 102 of Schedule 6 to the GMS Contracts Regulations (dispute resolution) referred to in paragraph (2).
 
@@ -89,7 +89,7 @@ In these Regulations—
   - (i) whether any of the persons specified in paragraph 113(1) falls within paragraph 113(2) during the existence of the contract, or
   - (ii) any dispute relating to a decision taken by a Primary Care Trust in accordance with paragraph 113(3) to (5).
 
-## 4. Directions in respect of PMS agreement disputes[^key-6712c03f2f458d30a838b91e0f69035d]
+## 4. Directions in respect of PMS agreement disputes[^c-6712c03f2f458d30a838b91e0f69035d]
 
 (1) The Secretary of State directs the First-tier Tribunal to exercise the functions of the Secretary of State under paragraphs 95 and 96 of Schedule 5 to the PMS Agreements Regulations (dispute resolution) referred to in paragraph (2).
 
@@ -100,7 +100,7 @@ In these Regulations—
   - (i) whether any of the persons specified in paragraph 105(1) or (2) falls within paragraph 105(3) during the existence of the agreement, or
   - (ii) any dispute relating to a decision taken by a relevant body in accordance with paragraph 105(4) to (6).
 
-## 5. Directions in respect of GDS contract disputes[^key-3a940fd41ea01c13b88dd5b25850df6d]
+## 5. Directions in respect of GDS contract disputes[^c-3a940fd41ea01c13b88dd5b25850df6d]
 
 (1) The Secretary of State directs the First-tier Tribunal to exercise the functions of the Secretary of State under paragraphs 55 and 56 of Schedule 3 to the GDS Contracts Regulations (dispute resolution) referred to in paragraph (2).
 
@@ -117,7 +117,7 @@ In these Regulations—
   - (i) whether any of the persons specified in paragraph 71(1) falls within paragraph 71(2) during the existence of the contract, or
   - (ii) any issue arising or a decision taken by a Primary Care Trust in respect of the term of the contract that gives effect to paragraph 71(3) to (5).
 
-## 6. Directions in respect of PDS agreement disputes[^key-cde99b4fcd5c8376a4ec74b2735a8dcc]
+## 6. Directions in respect of PDS agreement disputes[^c-cde99b4fcd5c8376a4ec74b2735a8dcc]
 
 (1) The Secretary of State directs the First-tier Tribunal to exercise the functions of the Secretary of State under paragraphs 55 and 56 of Schedule 3 to the PDS Agreements Regulations (dispute resolution) referred to in paragraph (2).
 
@@ -128,7 +128,7 @@ In these Regulations—
   - (i) whether any person specified in paragraph 69(1) falls within paragraph 69(2) during the existence of the agreement, or
   - (ii) any issue arising or decision made in respect of the term that gives effect to paragraph 69(3) to (5).
 
-## 7. Directions in respect of GOS contract disputes[^key-a26fdb0f9dddcf02abd4fc4277fe478f]
+## 7. Directions in respect of GOS contract disputes[^c-a26fdb0f9dddcf02abd4fc4277fe478f]
 
 (1) The Secretary of State directs the First-tier Tribunal to exercise the functions of the Secretary of State under paragraphs 30 and 31 of Schedule 1 to the GOS Contracts Regulations (dispute resolution) referred to in paragraph (2).
 
@@ -162,9 +162,9 @@ Regulations 3 and 4 direct the First-Tier Tribunal to exercise the Secretary of 
 
 [^f00001]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41). Section 169 is amended by paragraph 121 of Schedule 2 to the Transfer of Tribunal Functions Order 2010 ([S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22)). Section 273(4) is amended by paragraph 126 of Schedule 2 to that Order. S*ee* section 275(1) of the Act, as amended by paragraph 127 of Schedule 2 to that Order, for the definition of “regulations” which is relevant to the powers being exercised.
 
-[^key-bd5f53df07ebf15c68a530ff4f5a4d32]: Commencement: Reg. 1 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
+[^c-bd5f53df07ebf15c68a530ff4f5a4d32]: Commencement: Reg. 1 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
 
-[^key-6dd3493bae633c0bccb3be67d02e01a1]: Commencement: Reg. 2 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
+[^c-6dd3493bae633c0bccb3be67d02e01a1]: Commencement: Reg. 2 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2005/3361](https://www.legislation.gov.uk/uksi/2005/3361).
 
@@ -176,12 +176,12 @@ Regulations 3 and 4 direct the First-Tier Tribunal to exercise the Secretary of 
 
 [^f00006]: Footnote: [S.I. 2004/627](https://www.legislation.gov.uk/uksi/2004/627). Relevant amendments were made by [S.I. 2004/2694](https://www.legislation.gov.uk/uksi/2004/2694), [2005/893](https://www.legislation.gov.uk/uksi/2005/893) and [2007/3491](https://www.legislation.gov.uk/uksi/2007/3491).
 
-[^key-4da9dfcdb76ed0b6f082d4d53800f483]: Commencement: Reg. 3 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
+[^c-4da9dfcdb76ed0b6f082d4d53800f483]: Commencement: Reg. 3 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
 
-[^key-6712c03f2f458d30a838b91e0f69035d]: Commencement: Reg. 4 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
+[^c-6712c03f2f458d30a838b91e0f69035d]: Commencement: Reg. 4 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
 
-[^key-3a940fd41ea01c13b88dd5b25850df6d]: Commencement: Reg. 5 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
+[^c-3a940fd41ea01c13b88dd5b25850df6d]: Commencement: Reg. 5 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
 
-[^key-cde99b4fcd5c8376a4ec74b2735a8dcc]: Commencement: Reg. 6 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
+[^c-cde99b4fcd5c8376a4ec74b2735a8dcc]: Commencement: Reg. 6 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
 
-[^key-a26fdb0f9dddcf02abd4fc4277fe478f]: Commencement: Reg. 7 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)
+[^c-a26fdb0f9dddcf02abd4fc4277fe478f]: Commencement: Reg. 7 in force at 11.2.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/76/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Exclusion of certain representations relating to highways and new towns[^key-4a561742237877d27437c4940c2a1335]
+## 30. Exclusion of certain representations relating to highways and new towns[^c-4a561742237877d27437c4940c2a1335]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a561742237877d27437c4940c2a1335]: Commencement: S. 30 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-4a561742237877d27437c4940c2a1335]: Commencement: S. 30 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

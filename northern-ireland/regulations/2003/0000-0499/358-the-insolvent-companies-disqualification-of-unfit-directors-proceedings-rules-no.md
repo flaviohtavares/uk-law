@@ -41,9 +41,9 @@ Coming into operation
 
 5th September 2003
 
-[^M_C_f7356ee6-896c-4986-d2d9-d61bfef11eb6][^M_C_34b1d071-cb6c-4e75-ce6b-6bb9bb977181]The Lord Chancellor, in exercise of the powers conferred on him by Article 359 of the Insolvency (Northern Ireland) Order 1989[^f00001] and Article 24(1) of the Company Directors Disqualification (Northern Ireland) Order 2002[^f00002], and of all other powers enabling him in that behalf, with the concurrence of the Department of Enterprise, Trade and Investment[^f00003], and after consulting the committee existing for that purpose under Article 360 of the Insolvency (Northern Ireland) Order 1989, hereby makes the following Rules:[^key-97938a4fe8b1745a3035e74ba80e108b][^key-65c86973ff4dc9160ec75b037a776661]
+[^M_C_f7356ee6-896c-4986-d2d9-d61bfef11eb6][^M_C_34b1d071-cb6c-4e75-ce6b-6bb9bb977181]The Lord Chancellor, in exercise of the powers conferred on him by Article 359 of the Insolvency (Northern Ireland) Order 1989[^f00001] and Article 24(1) of the Company Directors Disqualification (Northern Ireland) Order 2002[^f00002], and of all other powers enabling him in that behalf, with the concurrence of the Department of Enterprise, Trade and Investment[^f00003], and after consulting the committee existing for that purpose under Article 360 of the Insolvency (Northern Ireland) Order 1989, hereby makes the following Rules:[^c-97938a4fe8b1745a3035e74ba80e108b][^c-65c86973ff4dc9160ec75b037a776661]
 
-## 1. Citation, commencement and interpretation[^key-1fc5dd80482d2e425b0058841438d38e]
+## 1. Citation, commencement and interpretation[^c-1fc5dd80482d2e425b0058841438d38e]
 
 (1) These Rules may be cited as the Insolvent Companies (Disqualification of Unfit Directors) Proceedings Rules (Northern Ireland) 2003 and shall come into operation on 5th September 2003.
 
@@ -62,21 +62,21 @@ Coming into operation
 (3) These Rules apply with respect to an application for a disqualification order against any person (“the respondent”), where made –
 
 - (a) by the Department or the official receiver under Article 10(1) of the Company Directors Disqualification Order (on the grounds of the person’s unfitness to be concerned in the management of a company), or
-- (b)[^key-2d89ae665c37540c1a819bcf3c2f7285] by the Department under Article 11 of that Order (alleged to be expedient in the public interest, following investigation of company),
+- (b)[^c-2d89ae665c37540c1a819bcf3c2f7285] by the Department under Article 11 of that Order (alleged to be expedient in the public interest, following investigation of company),
 
-or[^key-7bd8553d431b3f4f43805cd697fd26a6]
+or[^c-7bd8553d431b3f4f43805cd697fd26a6]
 
-- (c) by the Competition and Markets Authority[^key-5324bedda2109ba3a026df7a9be43eb9] or (as the case may be) a specified regulator under Article 13A of that Order (breach of competition law by undertaking and unfitness to be concerned in the management of a company),
+- (c) by the Competition and Markets Authority[^c-5324bedda2109ba3a026df7a9be43eb9] or (as the case may be) a specified regulator under Article 13A of that Order (breach of competition law by undertaking and unfitness to be concerned in the management of a company),
 
 on or after the date on which these Rules come into operation.
 
-## 2. Form of application[^key-af6fcc9a46aeaaa46c07711a6666d3fc]
+## 2. Form of application[^c-af6fcc9a46aeaaa46c07711a6666d3fc]
 
 (1) An application to which these Rules apply shall be made by originating summons (Form 7 in Appendix A to the Supreme Court Rules, with such adaptation as may be appropriate), and the Supreme Court Rules apply accordingly, except where these Rules make provision to inconsistent effect.
 
 (2) The summons shall be issued out of the Bankruptcy and the Companies Office.
 
-## 3. The case against the respondent[^key-e2b44c3f9e80068af52a4a03a9bd2205]
+## 3. The case against the respondent[^c-e2b44c3f9e80068af52a4a03a9bd2205]
 
 (1) There shall, at the time when the summons is issued, be filed in court evidence in support of the application for a disqualification order; and copies of the evidence shall be served with the summons on the respondent.
 
@@ -84,26 +84,26 @@ on or after the date on which these Rules come into operation.
 
 (3) There shall in the affidavits or (as the case may be) the official receiver’s report be included a statement of the matters by reference to which the respondent is alleged to be unfit to be concerned in the management of a company.
 
-## 4. Endorsement on summons[^key-26fd7c4476d89ef306750262c9553bb3]
+## 4. Endorsement on summons[^c-26fd7c4476d89ef306750262c9553bb3]
 
 There shall on the summons be endorsed information to the respondent as follows –
 
 - (a) that the application is made in accordance with these Rules;
 - (b) that, in accordance with the relevant enactments, the court has power to impose disqualifications as follows –
-  - (i) where the application is under Article 10 or 11B[^key-bce4388e98f549a1df1858e6e6abc11e] of the Company Directors Disqualification Order, for a period of not less than 2, and up to 15, years; and
-  - (ii) where the application is under Article[^key-863a2025860fd1847e0d742df6aa6b1e] 8A, 11, 11D[^key-d5eea5b0d34ae5fd3cc8bc2306bc6db6] or 13A of that Order , for a period of up to 15 years;
+  - (i) where the application is under Article 10 or 11B[^c-bce4388e98f549a1df1858e6e6abc11e] of the Company Directors Disqualification Order, for a period of not less than 2, and up to 15, years; and
+  - (ii) where the application is under Article[^c-863a2025860fd1847e0d742df6aa6b1e] 8A, 11, 11D[^c-d5eea5b0d34ae5fd3cc8bc2306bc6db6] or 13A of that Order , for a period of up to 15 years;
 - (c) that the application for a disqualification order may, in accordance with these Rules, be heard and determined summarily, without further or other notice to the respondent, and that, if it is so heard and determined, the court may impose disqualification for a period of up to 5 years;
 - (d) that if at the hearing of the application the court, on the evidence then before it, is minded to impose, in the respondent’s case, disqualification for any period longer than 5 years, it will not make a disqualification order on that occasion but will adjourn the application to be heard (with further evidence, if any) at a later date to be notified;
 - (e) that the respondent must file in court the statement required by Rule 6 within the time limit imposed under that Rule (the provisions of which shall be endorsed on the summons); and
 - (f) that any evidence which the respondent wishes to be taken into consideration by the court must be filed in court in accordance with the time limits imposed under Rule 7 (the provisions of which shall be set out on the summons).
 
-## 5. Service[^key-02fa1fddfff8695132d970ea7d183da5]
+## 5. Service[^c-02fa1fddfff8695132d970ea7d183da5]
 
 (1) The summons shall be served on the respondent forthwith after it is issued by sending it by first class post to his last known address; and the date of service shall, unless the contrary is shown, be deemed to be the 7th day next following that on which the summons was posted.
 
 (2) Where any process or order of the court or other documents is required under proceedings subject to these Rules to be served on any person who is not in Northern Ireland, the court may order service on him of that process or order or other document to be effected within such time and in such manner as it thinks fit, and may also require such proof of service as it thinks fit.
 
-## 6. Statement by respondent[^key-caa809bdb75a1a97650e82de7a0a2abc]
+## 6. Statement by respondent[^c-caa809bdb75a1a97650e82de7a0a2abc]
 
 (1) The respondent shall within 14 days from the date of service of the summons file in court a statement indicating –
 
@@ -115,13 +115,13 @@ There shall on the summons be endorsed information to the respondent as follows 
 
 (2) The respondent shall forthwith after filing such statement serve a copy upon the applicant.
 
-## 7. Evidence[^key-67ac2bc7ca65d87158b837c29ed4b044]
+## 7. Evidence[^c-67ac2bc7ca65d87158b837c29ed4b044]
 
 (1) The respondent shall, within 28 days from the date of service of the summons, file in court any affidavit evidence in opposition to the application he wishes the court to take into consideration and shall forthwith serve upon the applicant a copy of such evidence.
 
 (2) The applicant shall, within 14 days from receiving the copy of the respondent’s evidence, file in court any further evidence in reply he wishes the court to take into consideration and shall forthwith serve a copy of that evidence upon the respondent.
 
-## 8. The hearing of the application[^key-a32b00fb33baa1483a4d290f94364770]
+## 8. The hearing of the application[^c-a32b00fb33baa1483a4d290f94364770]
 
 (1) The date fixed for the hearing of the application shall be not less than 8 weeks from the date of issue of the summons.
 
@@ -144,21 +144,21 @@ There shall on the summons be endorsed information to the respondent as follows 
   - (iii) such other matters as the Master thinks necessary or expedient with a view to an expeditious disposal of the application, and
   - (iv) the time and place of the adjourned hearing.
 
-## 9. Making and setting aside of disqualification order[^key-e4ea1620ce03b75cd076cfe2fe035159]
+## 9. Making and setting aside of disqualification order[^c-e4ea1620ce03b75cd076cfe2fe035159]
 
 (1) The court may make a disqualification order against the respondent, whether or not the latter appears, and whether or not he has filed the statement required by Rule 6 or filed evidence in accordance with Rule 7.
 
 (2) Any disqualification order made in the absence of the respondent may be set aside or varied by the court on such terms as it thinks just.
 
-## 10. Appeal from order or decision of Master[^key-666c36ae9775192bd59808a91d75516c]
+## 10. Appeal from order or decision of Master[^c-666c36ae9775192bd59808a91d75516c]
 
 Order 58, rule 1(2) to (4) of the Supreme Court Rules applies to an appeal from an order or decision of the Master on an application to which these Rules apply, with the substitution in paragraph (3) of the words “28 days” for the words “5 days” and of the words “7 days” for the words “2 clear days”.
 
-## 11. Right of Audience[^key-1ee022cde1441bdddf1ab2ebc5b47b32]
+## 11. Right of Audience[^c-1ee022cde1441bdddf1ab2ebc5b47b32]
 
 Official receivers and deputy official receivers have right of audience in any proceedings to which these Rules apply, whether the application is made by the Department or by an official receiver at its direction.
 
-## 12. Revocation and saving[^key-c3e78c75d9e38b9808839cf64eb73b6f]
+## 12. Revocation and saving[^c-c3e78c75d9e38b9808839cf64eb73b6f]
 
 (1) Subject to paragraph (2), the former Rules are hereby revoked.
 
@@ -205,11 +205,11 @@ These Rules provide for: –
 
 [^f00003]: Footnote: Formerly the Department of Economic Development; *see* S.I. [1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283)
 
-[^key-97938a4fe8b1745a3035e74ba80e108b]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2003/358) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1A para. 5 (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
+[^c-97938a4fe8b1745a3035e74ba80e108b]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2003/358) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 1A para. 5 (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/1399/schedule/1))
 
-[^key-65c86973ff4dc9160ec75b037a776661]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2003/358) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(g)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/g)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
+[^c-65c86973ff4dc9160ec75b037a776661]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2003/358) applied (with modifications) (4.1.2024) by S.I. 2021/716, Sch. 3 paras. 2, 3 (as amended by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [21(3)(g)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/3/g)[(4)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/4))
 
-[^key-1fc5dd80482d2e425b0058841438d38e]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2003/358/article/1) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
+[^c-1fc5dd80482d2e425b0058841438d38e]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2003/358/article/1) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
 
 [^f00004]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032)
 
@@ -217,36 +217,36 @@ These Rules provide for: –
 
 [^f00006]: Footnote: [S.I. 1980 No. 346](https://www.legislation.gov.uk/uksi/1980/346); the relevant amending instruments are [S.R. 1981 No. 224](https://www.legislation.gov.uk/nisr/1981/224), [S.R. 1983 No. 5](https://www.legislation.gov.uk/nisr/1983/5), [S.R. 1983 No. 114](https://www.legislation.gov.uk/nisr/1983/114), [S.R. 1991 No. 232](https://www.legislation.gov.uk/nisr/1991/232) and [S.R. 1993 No. 143](https://www.legislation.gov.uk/nisr/1993/143)
 
-[^key-2d89ae665c37540c1a819bcf3c2f7285]: Textual amendment: [Rule 1(3)(b)](https://www.legislation.gov.uk/nisr/2003/358/rule/1/3/b) substituted (1.10.2015) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Insolvency and Company Directors Disqualification) Regulations 2015 (S.I. 2015/1651)](https://www.legislation.gov.uk/uksi/2015/1651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1651/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2015/1651/regulation/3/2)
+[^c-2d89ae665c37540c1a819bcf3c2f7285]: Textual amendment: [Rule 1(3)(b)](https://www.legislation.gov.uk/nisr/2003/358/rule/1/3/b) substituted (1.10.2015) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Insolvency and Company Directors Disqualification) Regulations 2015 (S.I. 2015/1651)](https://www.legislation.gov.uk/uksi/2015/1651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1651/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2015/1651/regulation/3/2)
 
-[^key-7bd8553d431b3f4f43805cd697fd26a6]: Textual amendment: [Art. 1(3)(c)](https://www.legislation.gov.uk/nisr/2003/358/article/1/3/c) and word inserted (19.12.2005) by [The Insolvent Companies (Disqualification of Unfit Directors) Proceedings (Amendment) Rules (Northern Ireland) 2005 (S.R. 2005/517)](https://www.legislation.gov.uk/nisr/2005/517), [art. 1](https://www.legislation.gov.uk/nisr/2005/517/article/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2005/517/schedule/paragraph/1/2)
+[^c-7bd8553d431b3f4f43805cd697fd26a6]: Textual amendment: [Art. 1(3)(c)](https://www.legislation.gov.uk/nisr/2003/358/article/1/3/c) and word inserted (19.12.2005) by [The Insolvent Companies (Disqualification of Unfit Directors) Proceedings (Amendment) Rules (Northern Ireland) 2005 (S.R. 2005/517)](https://www.legislation.gov.uk/nisr/2005/517), [art. 1](https://www.legislation.gov.uk/nisr/2005/517/article/1), [Sch. para. 1(2)](https://www.legislation.gov.uk/nisr/2005/517/schedule/paragraph/1/2)
 
-[^key-5324bedda2109ba3a026df7a9be43eb9]: Textual amendment: Words in [art. 1(3)(c)](https://www.legislation.gov.uk/nisr/2003/358/article/1/3/c) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/51) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
+[^c-5324bedda2109ba3a026df7a9be43eb9]: Textual amendment: Words in [art. 1(3)(c)](https://www.legislation.gov.uk/nisr/2003/358/article/1/3/c) substituted (1.4.2014) by [The Enterprise and Regulatory Reform Act 2013 (Competition) (Consequential, Transitional and Saving Provisions) (No. 2) Order 2014 (S.I. 2014/549)](https://www.legislation.gov.uk/uksi/2014/549), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/549/article/1/1), [Sch. 1 para. 51](https://www.legislation.gov.uk/uksi/2014/549/schedule/1/paragraph/51) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/549/article/3))
 
-[^key-af6fcc9a46aeaaa46c07711a6666d3fc]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2003/358/article/2) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
+[^c-af6fcc9a46aeaaa46c07711a6666d3fc]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2003/358/article/2) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
 
-[^key-e2b44c3f9e80068af52a4a03a9bd2205]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2003/358/article/3) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
+[^c-e2b44c3f9e80068af52a4a03a9bd2205]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2003/358/article/3) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
 
-[^key-26fd7c4476d89ef306750262c9553bb3]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2003/358/article/4) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
+[^c-26fd7c4476d89ef306750262c9553bb3]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2003/358/article/4) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
 
-[^key-bce4388e98f549a1df1858e6e6abc11e]: Textual amendment: Words in [rule 4(b)(i)](https://www.legislation.gov.uk/nisr/2003/358/rule/4/b/i) inserted (1.10.2015) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Insolvency and Company Directors Disqualification) Regulations 2015 (S.I. 2015/1651)](https://www.legislation.gov.uk/uksi/2015/1651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1651/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2015/1651/regulation/3/3)
+[^c-bce4388e98f549a1df1858e6e6abc11e]: Textual amendment: Words in [rule 4(b)(i)](https://www.legislation.gov.uk/nisr/2003/358/rule/4/b/i) inserted (1.10.2015) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Insolvency and Company Directors Disqualification) Regulations 2015 (S.I. 2015/1651)](https://www.legislation.gov.uk/uksi/2015/1651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1651/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2015/1651/regulation/3/3)
 
-[^key-863a2025860fd1847e0d742df6aa6b1e]: Textual amendment: Words in [art. 4(b)(ii)](https://www.legislation.gov.uk/nisr/2003/358/article/4/b/ii) substituted (19.12.2005) by [The Insolvent Companies (Disqualification of Unfit Directors) Proceedings (Amendment) Rules (Northern Ireland) 2005 (S.R. 2005/517)](https://www.legislation.gov.uk/nisr/2005/517), [art. 1](https://www.legislation.gov.uk/nisr/2005/517/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/nisr/2005/517/schedule/paragraph/2/2)
+[^c-863a2025860fd1847e0d742df6aa6b1e]: Textual amendment: Words in [art. 4(b)(ii)](https://www.legislation.gov.uk/nisr/2003/358/article/4/b/ii) substituted (19.12.2005) by [The Insolvent Companies (Disqualification of Unfit Directors) Proceedings (Amendment) Rules (Northern Ireland) 2005 (S.R. 2005/517)](https://www.legislation.gov.uk/nisr/2005/517), [art. 1](https://www.legislation.gov.uk/nisr/2005/517/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/nisr/2005/517/schedule/paragraph/2/2)
 
-[^key-d5eea5b0d34ae5fd3cc8bc2306bc6db6]: Textual amendment: Words in [rule 4(b)(ii)](https://www.legislation.gov.uk/nisr/2003/358/rule/4/b/ii) substituted (1.10.2015) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Insolvency and Company Directors Disqualification) Regulations 2015 (S.I. 2015/1651)](https://www.legislation.gov.uk/uksi/2015/1651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1651/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2015/1651/regulation/3/4)
+[^c-d5eea5b0d34ae5fd3cc8bc2306bc6db6]: Textual amendment: Words in [rule 4(b)(ii)](https://www.legislation.gov.uk/nisr/2003/358/rule/4/b/ii) substituted (1.10.2015) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Insolvency and Company Directors Disqualification) Regulations 2015 (S.I. 2015/1651)](https://www.legislation.gov.uk/uksi/2015/1651), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1651/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2015/1651/regulation/3/4)
 
-[^key-02fa1fddfff8695132d970ea7d183da5]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2003/358/article/5) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
+[^c-02fa1fddfff8695132d970ea7d183da5]: Commencement: [Art. 5](https://www.legislation.gov.uk/nisr/2003/358/article/5) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
 
-[^key-caa809bdb75a1a97650e82de7a0a2abc]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2003/358/article/6) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
+[^c-caa809bdb75a1a97650e82de7a0a2abc]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2003/358/article/6) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
 
-[^key-67ac2bc7ca65d87158b837c29ed4b044]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2003/358/article/7) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
+[^c-67ac2bc7ca65d87158b837c29ed4b044]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2003/358/article/7) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
 
-[^key-a32b00fb33baa1483a4d290f94364770]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2003/358/article/8) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
+[^c-a32b00fb33baa1483a4d290f94364770]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2003/358/article/8) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
 
-[^key-e4ea1620ce03b75cd076cfe2fe035159]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2003/358/article/9) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
+[^c-e4ea1620ce03b75cd076cfe2fe035159]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisr/2003/358/article/9) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
 
-[^key-666c36ae9775192bd59808a91d75516c]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2003/358/article/10) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
+[^c-666c36ae9775192bd59808a91d75516c]: Commencement: [Art. 10](https://www.legislation.gov.uk/nisr/2003/358/article/10) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
 
-[^key-1ee022cde1441bdddf1ab2ebc5b47b32]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2003/358/article/11) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
+[^c-1ee022cde1441bdddf1ab2ebc5b47b32]: Commencement: [Art. 11](https://www.legislation.gov.uk/nisr/2003/358/article/11) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
 
-[^key-c3e78c75d9e38b9808839cf64eb73b6f]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2003/358/article/12) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)
+[^c-c3e78c75d9e38b9808839cf64eb73b6f]: Commencement: [Art. 12](https://www.legislation.gov.uk/nisr/2003/358/article/12) in operation at 5.9.2003, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2003/358/article/1/1)

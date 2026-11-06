@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 4 — THE POULTRY HEALTH SCHEME[^key-f7c4c69da4435d8edf96bfa8d8631b14]
+## SCHEDULE 4 — THE POULTRY HEALTH SCHEME[^c-f7c4c69da4435d8edf96bfa8d8631b14]
 
 *Extent: E+W*
 
@@ -24,54 +24,54 @@ summary: ''
 
 Regulations 5(5), 9(4) and 33(1)
 
-### PART I — membership[^key-f7c4c69da4435d8edf96bfa8d8631b14]
+### PART I — membership[^c-f7c4c69da4435d8edf96bfa8d8631b14]
 
-**1.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — registration fee[^key-f7c4c69da4435d8edf96bfa8d8631b14]
+### PART II — registration fee[^c-f7c4c69da4435d8edf96bfa8d8631b14]
 
-**1.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — annual membership fee[^key-f7c4c69da4435d8edf96bfa8d8631b14]
+### PART III — annual membership fee[^c-f7c4c69da4435d8edf96bfa8d8631b14]
 
-**1.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — re-inspection fee[^key-f7c4c69da4435d8edf96bfa8d8631b14]
+### PART IV — re-inspection fee[^c-f7c4c69da4435d8edf96bfa8d8631b14]
 
-**1.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f7c4c69da4435d8edf96bfa8d8631b14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f7c4c69da4435d8edf96bfa8d8631b14]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/2002) revoked (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (revoked) 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2006/1471/regulation/36)
+[^c-f7c4c69da4435d8edf96bfa8d8631b14]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/2002) revoked (29.6.2006) by [The Animals and Animal Products (Import and Export) (England) Regulations 2006 (revoked) 2006 (S.I. 2006/1471)](https://www.legislation.gov.uk/uksi/2006/1471), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1471/regulation/1/1), [36](https://www.legislation.gov.uk/uksi/2006/1471/regulation/36)

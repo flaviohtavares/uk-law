@@ -39,26 +39,26 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the power conferred on him by Article 1(2) of the Access to Justice (Northern Ireland) Order 2003 [^f00001], hereby makes the following Order: –
 
-## 1. Citation[^key-63937fef170cd4637f330d72730ebfbc]
+## 1. Citation[^c-63937fef170cd4637f330d72730ebfbc]
 
 This Order may be cited as the Access to Justice (Northern Ireland) Order 2003 (Commencement No. 1) Order (Northern Ireland) 2003.
 
-## 2. Commencement[^key-2160d81b0cafc8a772ea8b625e8340d1]
+## 2. Commencement[^c-2160d81b0cafc8a772ea8b625e8340d1]
 
 The day appointed for the coming into operation of Article 3(1) of the Access to Justice (Northern Ireland) Order 2003:
 
 - (a) for the purposes set out in Schedule 1 to this Order shall be 28 July 2003; and
 - (b) for the purpose of the meaning of the phrase “the first appointed day” in paragraph 1 of Schedule 3 to the Access to Justice (Northern Ireland) Order 2003 shall be 1 November 2003.
 
-**3.**[^key-a7351c1fd7f2f1f324ef425413555571] The provisions of the Access to Justice (Northern Ireland) Order 2003 specified in Schedule 1 to this Order shall come into operation on 28 July 2003.
+**3.**[^c-a7351c1fd7f2f1f324ef425413555571] The provisions of the Access to Justice (Northern Ireland) Order 2003 specified in Schedule 1 to this Order shall come into operation on 28 July 2003.
 
-**4.**[^key-b69accb628f20b056f99c954289a59d0] The provisions of the Access to Justice (Northern Ireland) Order 2003 specified in Schedule 2 to this Order shall come into operation on 1 November 2003.
+**4.**[^c-b69accb628f20b056f99c954289a59d0] The provisions of the Access to Justice (Northern Ireland) Order 2003 specified in Schedule 2 to this Order shall come into operation on 1 November 2003.
 
 Falconer of Thoroton, *C.*
 
 Dated 15th July 2003
 
-## SCHEDULE 1 — PROVISIONS OF THE ACCESS TO JUSTICE (NORTHERN IRELAND) ORDER 2003 COMING INTO OPERATION ON 28th JULY 2003[^key-665b6d90a5994f24ebac74bbd099094b]
+## SCHEDULE 1 — PROVISIONS OF THE ACCESS TO JUSTICE (NORTHERN IRELAND) ORDER 2003 COMING INTO OPERATION ON 28th JULY 2003[^c-665b6d90a5994f24ebac74bbd099094b]
 
 | Provisions of the Access to Justice (Northern Ireland) Order 2003 | Subject matter of provision |
 | --- | --- |
@@ -68,14 +68,14 @@ Dated 15th July 2003
 | Schedule 1, paragraphs 1 to 11, 13 and 14 | Northern Ireland Legal Services Commission |
 | Schedule 3, paragraphs 8 to 11 | Transitional Provisions and Savings |
 
-## SCHEDULE 2 — PROVISIONS OF THE ACCESS TO JUSTICE (NORTHERN IRELAND) ORDER 2003 COMING INTO OPERATION ON 1st NOVEMBER 2003[^key-69b021aefd0768915a5973f3dfe68a82]
+## SCHEDULE 2 — PROVISIONS OF THE ACCESS TO JUSTICE (NORTHERN IRELAND) ORDER 2003 COMING INTO OPERATION ON 1st NOVEMBER 2003[^c-69b021aefd0768915a5973f3dfe68a82]
 
 | Provisions of the Access to Justice (Northern Ireland) Order 2003 | Subject matter of provision |
 | --- | --- |
 | Article 3(2), (3) and (4) | Functions of the Commission |
 | Article 7(1) to (5) | Powers of Commission |
 | Article 8 | Guidance |
-| Article 46(1) and (3)[^key-fc40c8f4040500beaecb7748812ae6b8] | Orders, regulations and directions |
+| Article 46(1) and (3)[^c-fc40c8f4040500beaecb7748812ae6b8] | Orders, regulations and directions |
 | Article 48 (2) and (3) | Transitional Provisions and Savings |
 | Article 49(1) and (2) to the extent necessary to bring into operation the provisions of Schedules 4 and 5 specified in this Schedule | Minor and Consequential Amendments and Repeals |
 | Schedule 1, paragraphs 12(1)(b) and (2) and paragraphs 15 to 18 | Northern Ireland Legal Services Commission |
@@ -91,16 +91,16 @@ This Order brings into operation on 28th July 2003 certain provisions of the Acc
 
 [^f00001]: Footnote: S.I. [2003/435 (N.I. 10)](https://www.legislation.gov.uk/nisi/2003/435)
 
-[^key-63937fef170cd4637f330d72730ebfbc]: Commencement: Art. 1 in operation at made date
+[^c-63937fef170cd4637f330d72730ebfbc]: Commencement: Art. 1 in operation at made date
 
-[^key-2160d81b0cafc8a772ea8b625e8340d1]: Commencement: Art. 2 in operation at made date
+[^c-2160d81b0cafc8a772ea8b625e8340d1]: Commencement: Art. 2 in operation at made date
 
-[^key-a7351c1fd7f2f1f324ef425413555571]: Commencement: Art. 3 in operation at made date
+[^c-a7351c1fd7f2f1f324ef425413555571]: Commencement: Art. 3 in operation at made date
 
-[^key-b69accb628f20b056f99c954289a59d0]: Commencement: Art. 4 in operation at made date
+[^c-b69accb628f20b056f99c954289a59d0]: Commencement: Art. 4 in operation at made date
 
-[^key-665b6d90a5994f24ebac74bbd099094b]: Commencement: Sch. 1 in operation at made date
+[^c-665b6d90a5994f24ebac74bbd099094b]: Commencement: Sch. 1 in operation at made date
 
-[^key-69b021aefd0768915a5973f3dfe68a82]: Commencement: Sch. 2 in operation at made date
+[^c-69b021aefd0768915a5973f3dfe68a82]: Commencement: Sch. 2 in operation at made date
 
-[^key-fc40c8f4040500beaecb7748812ae6b8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2003/344/schedule/2) substituted (29.10.2003) by [The Access to Justice (Northern Ireland) Order 2003 (Commencement No. 1) (Amendment) Order (Northern Ireland) 2003 (revoked) 2003 (S.R. 2003/439)](https://www.legislation.gov.uk/nisr/2003/439), [arts. 1](https://www.legislation.gov.uk/nisr/2003/439/article/1), [2](https://www.legislation.gov.uk/nisr/2003/439/article/2)
+[^c-fc40c8f4040500beaecb7748812ae6b8]: Textual amendment: Words in [Sch. 2](https://www.legislation.gov.uk/nisr/2003/344/schedule/2) substituted (29.10.2003) by [The Access to Justice (Northern Ireland) Order 2003 (Commencement No. 1) (Amendment) Order (Northern Ireland) 2003 (revoked) 2003 (S.R. 2003/439)](https://www.legislation.gov.uk/nisr/2003/439), [arts. 1](https://www.legislation.gov.uk/nisr/2003/439/article/1), [2](https://www.legislation.gov.uk/nisr/2003/439/article/2)

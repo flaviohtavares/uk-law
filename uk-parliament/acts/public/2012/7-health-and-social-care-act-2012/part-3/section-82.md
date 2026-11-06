@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Deemed breach of requirement to be licensed[^key-dbb1f5e3e2462f2cbcd6e98528bc10f6]
+## 82. Deemed breach of requirement to be licensed[^c-dbb1f5e3e2462f2cbcd6e98528bc10f6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbb1f5e3e2462f2cbcd6e98528bc10f6]: Commencement: S. 82 in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)
+[^c-dbb1f5e3e2462f2cbcd6e98528bc10f6]: Commencement: S. 82 in force at 1.4.2013 by [S.I. 2013/671](https://www.legislation.gov.uk/uksi/2013/671), [art. 2(3)](https://www.legislation.gov.uk/uksi/2013/671/article/2/3)

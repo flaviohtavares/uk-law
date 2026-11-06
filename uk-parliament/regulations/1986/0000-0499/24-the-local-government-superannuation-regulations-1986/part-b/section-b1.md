@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## B1. Pensionable employees[^key-9e4e22bdd1a7853ee7014b74d3ca6e13]
+## B1. Pensionable employees[^c-9e4e22bdd1a7853ee7014b74d3ca6e13]
 
 *Extent: E+W+S*
 
@@ -114,7 +114,7 @@ is a pensionable employee.
 
 ## Annotations
 
-[^key-9e4e22bdd1a7853ee7014b74d3ca6e13]: Commencement: [Reg. B1](https://www.legislation.gov.uk/uksi/1986/24/regulation/B1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-9e4e22bdd1a7853ee7014b74d3ca6e13]: Commencement: [Reg. B1](https://www.legislation.gov.uk/uksi/1986/24/regulation/B1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00004]: Footnote: [1944. c.31](https://www.legislation.gov.uk/ukpga/1944/31).
 

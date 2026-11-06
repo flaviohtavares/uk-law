@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Powers relating to appointments of trustees[^key-789040784b20074364aaf750a017810c][^key-a512bf9ca3ace9d3eb684a1f88faa718]
+## 29. Powers relating to appointments of trustees[^c-789040784b20074364aaf750a017810c][^c-a512bf9ca3ace9d3eb684a1f88faa718]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ After section 184A of the Charities Act 2011 insert—
 
 ## Annotations
 
-[^key-789040784b20074364aaf750a017810c]: Commencement: S. 29 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-789040784b20074364aaf750a017810c]: Commencement: S. 29 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-a512bf9ca3ace9d3eb684a1f88faa718]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/6/section/29) in force at 7.3.2024 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/6)
+[^c-a512bf9ca3ace9d3eb684a1f88faa718]: Commencement: [S. 29](https://www.legislation.gov.uk/ukpga/2022/6/section/29) in force at 7.3.2024 by [S.I. 2024/265](https://www.legislation.gov.uk/uksi/2024/265), [reg. 3](https://www.legislation.gov.uk/uksi/2024/265/regulation/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2024/265/schedule/1/paragraph/6)

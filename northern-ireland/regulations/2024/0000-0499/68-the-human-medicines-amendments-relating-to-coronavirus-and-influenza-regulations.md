@@ -48,7 +48,7 @@ In accordance with section 2(2) to (4) of that Act, the Department of Health’s
 
 In accordance with section 47(2), (3) and (6)(b) of that Act, a draft of these Regulations has been laid before, and approved by resolution of the Assembly.
 
-## 1. Citation, commencement and extent[^key-bbdc0865efe74f6d6ba0f6215d7d0b9d]
+## 1. Citation, commencement and extent[^c-bbdc0865efe74f6d6ba0f6215d7d0b9d]
 
 (1) These Regulations may be cited as the Human Medicines (Amendments Relating to Coronavirus and Influenza) Regulations (Northern Ireland) 2024.
 
@@ -56,19 +56,19 @@ In accordance with section 47(2), (3) and (6)(b) of that Act, a draft of these R
 
 (3) These Regulations extend to Northern Ireland.
 
-## 2. Amendment of the Human Medicines Regulations 2012[^key-194eeb1f0b79449f218a406a6755acb5]
+## 2. Amendment of the Human Medicines Regulations 2012[^c-194eeb1f0b79449f218a406a6755acb5]
 
 The Human Medicines Regulations 2012[^f00002] are amended in accordance with Regulations 3 to 5.
 
-## 3. Amendment of regulation 3A[^key-3983cc77039befdc7c2576b28dafb622]
+## 3. Amendment of regulation 3A[^c-3983cc77039befdc7c2576b28dafb622]
 
 In regulation 3A[^f00003](preparation and assembly of medicinal products used for vaccination or immunisation against coronavirus or in the reformulation of such products), in paragraph (6), for “2024” substitute “2026”.
 
-## 4. Amendment of regulation 19[^key-3deef991780466f130544cb6dfa60cf5]
+## 4. Amendment of regulation 19[^c-3deef991780466f130544cb6dfa60cf5]
 
 In regulation 19[^f00004](exemptions from requirement for wholesale dealer’s licence), in paragraph (4D), for “2024” substitute “2026”.
 
-## 5. Amendment of regulation 247A[^key-fba26f580873b1181fa05de89e85efb1]
+## 5. Amendment of regulation 247A[^c-fba26f580873b1181fa05de89e85efb1]
 
 (1) Regulation 247A[^f00005](protocols relating to coronavirus and influenza vaccinations and immunisations) is amended as follows.
 
@@ -104,20 +104,20 @@ Regulation 247A exempts from the requirements relating to the supply of medicine
 
 [^f00001]: Footnote: [2021 c. 3](https://www.legislation.gov.uk/ukpga/2021/3). The powers in section 2(1) of the Medicines and Medical Devices Act 2021, and in the provisions that relate to it, are exercisable by the “appropriate authority”. *See* section 2(6) of that Act, which contains the definition of “appropriate authority” that is relevant to the powers being exercised.
 
-[^key-bbdc0865efe74f6d6ba0f6215d7d0b9d]: Commencement: Reg. 1 in operation at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/68/regulation/1/2)
+[^c-bbdc0865efe74f6d6ba0f6215d7d0b9d]: Commencement: Reg. 1 in operation at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/68/regulation/1/2)
 
-[^key-194eeb1f0b79449f218a406a6755acb5]: Commencement: Reg. 2 in operation at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/68/regulation/1/2)
+[^c-194eeb1f0b79449f218a406a6755acb5]: Commencement: Reg. 2 in operation at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/68/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), as amended.
 
-[^key-3983cc77039befdc7c2576b28dafb622]: Commencement: Reg. 3 in operation at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/68/regulation/1/2)
+[^c-3983cc77039befdc7c2576b28dafb622]: Commencement: Reg. 3 in operation at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/68/regulation/1/2)
 
 [^f00003]: Footnote: Regulation 3A was inserted by [S.I. 2020/1594](https://www.legislation.gov.uk/uksi/2020/1594) and has been amended by [S.I. 2022/350](https://www.legislation.gov.uk/uksi/2022/350).
 
-[^key-3deef991780466f130544cb6dfa60cf5]: Commencement: Reg. 4 in operation at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/68/regulation/1/2)
+[^c-3deef991780466f130544cb6dfa60cf5]: Commencement: Reg. 4 in operation at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/68/regulation/1/2)
 
 [^f00004]: Footnote: Regulation 19(4D) was inserted by [S.I. 2020/1125](https://www.legislation.gov.uk/uksi/2020/1125) and has been amended by [S.I. 2022/350](https://www.legislation.gov.uk/uksi/2022/350).
 
-[^key-fba26f580873b1181fa05de89e85efb1]: Commencement: Reg. 5 in operation at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/68/regulation/1/2)
+[^c-fba26f580873b1181fa05de89e85efb1]: Commencement: Reg. 5 in operation at 31.3.2024, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2024/68/regulation/1/2)
 
 [^f00005]: Footnote: Regulation 247A was inserted by [S.I. 2020/1125](https://www.legislation.gov.uk/uksi/2020/1125). There have been no relevant amending instruments.

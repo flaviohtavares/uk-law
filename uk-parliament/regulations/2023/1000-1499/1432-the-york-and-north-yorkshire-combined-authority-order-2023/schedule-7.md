@@ -24,11 +24,11 @@ Article 46(2)
 
 ### PART 1 — Primary legislation
 
-#### 1. Local Government Act 1972[^key-def00d8676df80b556340eab731dcf56]
+#### 1. Local Government Act 1972[^c-def00d8676df80b556340eab731dcf56]
 
 In section 138(5) of the Local Government Act 1972 (powers of principal councils with respect to emergencies or disasters)[^f00229], the reference to “metropolitan county fire and rescue authority” is to apply as if it included the Combined Authority as a fire and rescue authority.
 
-#### 2. Local Government Finance Act 1988[^key-0ff9cbc46db917dc381dfd92daeb7ab5]
+#### 2. Local Government Finance Act 1988[^c-0ff9cbc46db917dc381dfd92daeb7ab5]
 
 (1) The Local Government Finance Act 1988[^f00230] is modified as follows.
 
@@ -36,7 +36,7 @@ In section 138(5) of the Local Government Act 1972 (powers of principal councils
 
 (3) Section 115 (authority’s duties as regards reports)[^f00232] applies, in any case where a report prepared by the Mayor under subsection (1E) of that section relates to the fire and rescue functions of the Combined Authority, as if it included a requirement to provide a copy of the report to each member of the Police, Fire and Crime Panel.
 
-#### 3. Local Government and Housing Act 1989[^key-67b890d31d01968a98b3c283d6f023fd]
+#### 3. Local Government and Housing Act 1989[^c-67b890d31d01968a98b3c283d6f023fd]
 
 (1) The Local Government and Housing Act 1989[^f00233] is modified as follows.
 
@@ -48,7 +48,7 @@ In section 138(5) of the Local Government Act 1972 (powers of principal councils
 
 (5) In section 155 (emergency financial assistance to local authorities) subsection (4)(g)[^f00237] applies as if the reference to a joint authority established by Part IV of the Local Government Act 1985” included a reference to “the Combined Authority as a fire and rescue authority”.
 
-#### 4. Crime and Disorder Act 1998[^key-8f0d1c15325b3c2cbd300dd6c4ea9557]
+#### 4. Crime and Disorder Act 1998[^c-8f0d1c15325b3c2cbd300dd6c4ea9557]
 
 (1) The Crime and Disorder Act 1998[^f00238] is modified as follows.
 
@@ -56,11 +56,11 @@ In section 138(5) of the Local Government Act 1972 (powers of principal councils
 
 (3) In the definition of “relevant authority” in section 115(2) (disclosure of information)[^f00240], the reference in paragraph (j) to “a metropolitan county fire and rescue authority” is to apply as if it included a reference to “the Combined Authority as a fire and rescue authority”.
 
-#### 5. Local Government Act 2003[^key-571d14c182539bbe845c27cae9f3f633]
+#### 5. Local Government Act 2003[^c-571d14c182539bbe845c27cae9f3f633]
 
 In section 23(1) of the Local Government Act 2003 (meaning of “local authority” for purposes of Part 1)[^f00241] the reference in paragraph (k) to “a joint authority established by Part IV of that Act” is to apply as if it included a reference to “the Combined Authority as a fire and rescue authority”.
 
-#### 6. Fire and Rescue Services Act 2004[^key-8ffc7125170a324a6cb28512f1795ac0]
+#### 6. Fire and Rescue Services Act 2004[^c-8ffc7125170a324a6cb28512f1795ac0]
 
 (1) The 2004 Act is modified as follows.
 
@@ -88,11 +88,11 @@ In section 23(1) of the Local Government Act 2003 (meaning of “local authority
 
 .
 
-#### 7. Local Democracy, Economic Development and Construction Act 2009[^key-fb5eb4d21bc05c35e441a9a579ea58cd]
+#### 7. Local Democracy, Economic Development and Construction Act 2009[^c-fb5eb4d21bc05c35e441a9a579ea58cd]
 
 Paragraph 1(3) of Schedule 5A (combined authorities: overview and scrutiny committees and audit committees)[^f00245] to the 2009 Act applies as if, at the end of each of paragraphs (a) and (b), there were inserted “other than fire and rescue functions of the Combined Authority in respect of which the Police, Fire and Crime Panel has oversight functions”.
 
-#### 8. Police Reform and Social Responsibility Act 2011[^key-588c4c2138279661b9f3910a4e1065a8]
+#### 8. Police Reform and Social Responsibility Act 2011[^c-588c4c2138279661b9f3910a4e1065a8]
 
 (1) The PRSR Act is modified as follows.
 
@@ -219,19 +219,19 @@ Paragraph 1(3) of Schedule 5A (combined authorities: overview and scrutiny commi
 
 ### PART 2 — Secondary legislation
 
-#### 9. Pipelines Safety Regulations 1996[^key-08a60c554499a9284a12830d8ac30025]
+#### 9. Pipelines Safety Regulations 1996[^c-08a60c554499a9284a12830d8ac30025]
 
 In the Pipelines Safety Regulations 1996[^f00250], in paragraph (a) of the definition of “local authority” in regulation 2(1) (interpretation) the reference to a “metropolitan county fire and rescue authority” is to apply as if it included a reference to “the Combined Authority as a fire and rescue authority”.
 
-#### 10. Local Government (Best Value Authorities) (Power to Trade) (England) Order 2009[^key-6636fb5c3c67c857e12bd38e49778db8]
+#### 10. Local Government (Best Value Authorities) (Power to Trade) (England) Order 2009[^c-6636fb5c3c67c857e12bd38e49778db8]
 
 In the Local Government (Best Value Authorities) (Power to Trade) (England) Order 2009[^f00251], in article 1(2) the reference in paragraph (c) to “a metropolitan county fire and rescue authority” is to apply as if it included a reference to “the Combined Authority as a fire and rescue authority”.
 
-#### 11. Community Right to Challenge (Fire and Rescue Authorities and Rejection of Expressions of Interest) (England) Regulations 2012[^key-003336f96f9a08826ad8cf5dff94d793]
+#### 11. Community Right to Challenge (Fire and Rescue Authorities and Rejection of Expressions of Interest) (England) Regulations 2012[^c-003336f96f9a08826ad8cf5dff94d793]
 
 In the Community Right to Challenge (Fire and Rescue Authorities and Rejection of Expressions of Interest) (England) Regulations 2012[^f00252], in regulation 3 (relevant authorities) the reference in paragraph (a) to “a metropolitan county fire and rescue authority established under section 26 of the Local Government Act 1985” is to apply as if it included a reference to “the Combined Authority as a fire and rescue authority”.
 
-#### 12. Local Government Pension Scheme Regulations 2013[^key-84f986515aceb7c910264dcb51907ec7]
+#### 12. Local Government Pension Scheme Regulations 2013[^c-84f986515aceb7c910264dcb51907ec7]
 
 The Local Government Pension Scheme Regulations 2013[^f00253] have effect as if, after paragraph (8) of regulation 64, there were inserted—
 
@@ -241,11 +241,11 @@ The Local Government Pension Scheme Regulations 2013[^f00253] have effect as if,
 
 .
 
-#### 13. Explosives Regulations 2014[^key-1381c92156b27229c2e222509a4ba4cc]
+#### 13. Explosives Regulations 2014[^c-1381c92156b27229c2e222509a4ba4cc]
 
 In regulation 2(1) of the Explosives Regulations 2014 (interpretation)[^f00254], in the definition of “local authority” the reference in paragraph (c) to “a metropolitan county fire and rescue authority” is to apply as if it included a reference to “the Combined Authority as a fire and rescue authority”.
 
-#### 14. Control of Major Accident Hazards Regulations 2015[^key-d0255665b90a8fb4cfbdab62e771fed2]
+#### 14. Control of Major Accident Hazards Regulations 2015[^c-d0255665b90a8fb4cfbdab62e771fed2]
 
 In regulation 2(1) of the Control of Major Accident Hazards Regulations 2015[^f00255], paragraph (b) of the definition of “local authority” is to apply as if for sub-paragraph (ii) there were substituted—
 
@@ -253,7 +253,7 @@ In regulation 2(1) of the Control of Major Accident Hazards Regulations 2015[^f0
 
 .
 
-#### 15. Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017[^key-a844a1774dc8e137162994658b1a7f09]
+#### 15. Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017[^c-a844a1774dc8e137162994658b1a7f09]
 
 In the Fire and Rescue Authority (Police and Crime Commissioner) (Application of Local Policing Provisions, Inspection, Powers to Trade and Consequential Amendments) Order 2017[^f00256], articles 3 to 23 apply as if—
 
@@ -268,11 +268,11 @@ In the Fire and Rescue Authority (Police and Crime Commissioner) (Application of
 
 ## Annotations
 
-[^key-def00d8676df80b556340eab731dcf56]: Commencement: Sch. 7 para. 1 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-def00d8676df80b556340eab731dcf56]: Commencement: Sch. 7 para. 1 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00229]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70). Section 138 was amended by Part 1 of Schedule 34 to the Local Government, Planning and Land Act [1980 (c. 65)](https://www.legislation.gov.uk/ukpga/1980/65), section 156 of the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42), paragraph 22(2) of Schedule 1 to the Water Consolidation (Consequential Provisions) Act [1991 (c. 60)](https://www.legislation.gov.uk/ukpga/1991/60), paragraphs 7 and 10 of Schedule 2 to the Civil Contingencies Act [2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36) and paragraph 40 of Schedule 2 to the Policing and Crime Act 2017.
 
-[^key-0ff9cbc46db917dc381dfd92daeb7ab5]: Commencement: Sch. 7 para. 2 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-0ff9cbc46db917dc381dfd92daeb7ab5]: Commencement: Sch. 7 para. 2 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00230]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41).
 
@@ -280,7 +280,7 @@ In the Fire and Rescue Authority (Police and Crime Commissioner) (Application of
 
 [^f00232]: Footnote: Section 115 was amended by section 131 of the Greater London Authority Act 1999, section 30 of the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), paragraph 189 of Schedule 16 to the Police Reform and Social Responsibility Act 2011, paragraph 2 of Schedule 20 and paragraph 1 of Schedule 25 to the Localism Act 2011, and by [S.I. 2018/226](https://www.legislation.gov.uk/uksi/2018/226) and [2021/1349](https://www.legislation.gov.uk/uksi/2021/1349).
 
-[^key-67b890d31d01968a98b3c283d6f023fd]: Commencement: Sch. 7 para. 3 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-67b890d31d01968a98b3c283d6f023fd]: Commencement: Sch. 7 para. 3 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00233]: Footnote: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
@@ -292,7 +292,7 @@ In the Fire and Rescue Authority (Police and Crime Commissioner) (Application of
 
 [^f00237]: Footnote: Subsection (4)(g) was amended by paragraph 457(2) of Schedule 4 to the Local Transport Act [2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), and by Schedule 12 to the Natural Environment and Rural Communities Act [2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16).
 
-[^key-8f0d1c15325b3c2cbd300dd6c4ea9557]: Commencement: Sch. 7 para. 4 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-8f0d1c15325b3c2cbd300dd6c4ea9557]: Commencement: Sch. 7 para. 4 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00238]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 
@@ -300,11 +300,11 @@ In the Fire and Rescue Authority (Police and Crime Commissioner) (Application of
 
 [^f00240]: Footnote: Section 115(2) was amended by paragraph 7(2) of Schedule 9 to the Police and Justice Act [2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48). There are other amendments not relevant to this instrument.
 
-[^key-571d14c182539bbe845c27cae9f3f633]: Commencement: Sch. 7 para. 5 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-571d14c182539bbe845c27cae9f3f633]: Commencement: Sch. 7 para. 5 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00241]: Footnote: [2003 c. 26](https://www.legislation.gov.uk/ukpga/2003/26). Paragraph (k) was amended by paragraph 10(3)(e) of Schedule 2 to the Civil Contingencies Act 2004. There are other amendments to section 23 not relevant to this instrument.
 
-[^key-8ffc7125170a324a6cb28512f1795ac0]: Commencement: Sch. 7 para. 6 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-8ffc7125170a324a6cb28512f1795ac0]: Commencement: Sch. 7 para. 6 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00242]: Footnote: Sections 4A to 4M were inserted by paragraph 5 of Schedule 1 to the Policing and Crime Act 2017.
 
@@ -312,11 +312,11 @@ In the Fire and Rescue Authority (Police and Crime Commissioner) (Application of
 
 [^f00244]: Footnote: [S.I. 2017/863](https://www.legislation.gov.uk/uksi/2017/863).
 
-[^key-fb5eb4d21bc05c35e441a9a579ea58cd]: Commencement: Sch. 7 para. 7 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-fb5eb4d21bc05c35e441a9a579ea58cd]: Commencement: Sch. 7 para. 7 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00245]: Footnote: Schedule 5A was inserted by section 8 of and Schedule 3 to the Cities and Local Government Devolution Act [2016 (c. 1)](https://www.legislation.gov.uk/ukpga/2016/1).
 
-[^key-588c4c2138279661b9f3910a4e1065a8]: Commencement: Sch. 7 para. 8 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-588c4c2138279661b9f3910a4e1065a8]: Commencement: Sch. 7 para. 8 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00246]: Footnote: Subsections (1A) and (1B) were inserted by paragraph 89 of Schedule 1 to the Policing and Crime Act 2017.
 
@@ -326,30 +326,30 @@ In the Fire and Rescue Authority (Police and Crime Commissioner) (Application of
 
 [^f00249]: Footnote: Paragraph 32A was inserted by paragraph 92(5) of Schedule 1 to the Policing and Crime Act 2017.
 
-[^key-08a60c554499a9284a12830d8ac30025]: Commencement: Sch. 7 para. 9 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-08a60c554499a9284a12830d8ac30025]: Commencement: Sch. 7 para. 9 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00250]: Footnote: [S.I. 1996/825](https://www.legislation.gov.uk/uksi/1996/825). Regulation 2 was amended by paragraph 10(1) and (2) of Schedule 2 of the Civil Contingencies Act 2004 and by [S.I. 2018/269](https://www.legislation.gov.uk/uksi/2018/269).
 
-[^key-6636fb5c3c67c857e12bd38e49778db8]: Commencement: Sch. 7 para. 10 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-6636fb5c3c67c857e12bd38e49778db8]: Commencement: Sch. 7 para. 10 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00251]: Footnote: [S.I. 2009/2393](https://www.legislation.gov.uk/uksi/2009/2393).
 
-[^key-003336f96f9a08826ad8cf5dff94d793]: Commencement: Sch. 7 para. 11 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-003336f96f9a08826ad8cf5dff94d793]: Commencement: Sch. 7 para. 11 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00252]: Footnote: [S.I. 2012/1647](https://www.legislation.gov.uk/uksi/2012/1647). There are amendments to regulation 3 not relevant to this instrument.
 
-[^key-84f986515aceb7c910264dcb51907ec7]: Commencement: Sch. 7 para. 12 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-84f986515aceb7c910264dcb51907ec7]: Commencement: Sch. 7 para. 12 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00253]: Footnote: [S.I. 2013/2356](https://www.legislation.gov.uk/uksi/2013/2356), amended by [S.I. 2014/1012](https://www.legislation.gov.uk/uksi/2014/1012), [2014/1146](https://www.legislation.gov.uk/uksi/2014/1146), [2015/755](https://www.legislation.gov.uk/uksi/2015/755), [2016/449](https://www.legislation.gov.uk/uksi/2016/449), [2016/653](https://www.legislation.gov.uk/uksi/2016/653), [2017/126](https://www.legislation.gov.uk/uksi/2017/126), [2017/251](https://www.legislation.gov.uk/uksi/2017/251), [2017/612](https://www.legislation.gov.uk/uksi/2017/612), [2018/103](https://www.legislation.gov.uk/uksi/2018/103), [2018/269](https://www.legislation.gov.uk/uksi/2018/269), [2018/493](https://www.legislation.gov.uk/uksi/2018/493), [2018/1133](https://www.legislation.gov.uk/uksi/2018/1133), [2019/615](https://www.legislation.gov.uk/uksi/2019/615), [2020/123](https://www.legislation.gov.uk/uksi/2020/123), [2020/179](https://www.legislation.gov.uk/uksi/2020/179), [2020/893](https://www.legislation.gov.uk/uksi/2020/893), [2021/272](https://www.legislation.gov.uk/uksi/2021/272), and [2023/187](https://www.legislation.gov.uk/uksi/2023/187).
 
-[^key-1381c92156b27229c2e222509a4ba4cc]: Commencement: Sch. 7 para. 13 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-1381c92156b27229c2e222509a4ba4cc]: Commencement: Sch. 7 para. 13 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00254]: Footnote: [S.I. 2014/1638](https://www.legislation.gov.uk/uksi/2014/1638). There are amendments to regulation 2 not relevant to this instrument.
 
-[^key-d0255665b90a8fb4cfbdab62e771fed2]: Commencement: Sch. 7 para. 14 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-d0255665b90a8fb4cfbdab62e771fed2]: Commencement: Sch. 7 para. 14 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00255]: Footnote: [S.I. 2015/483](https://www.legislation.gov.uk/uksi/2015/483). There are amendments to regulation 2 not relevant to this instrument.
 
-[^key-a844a1774dc8e137162994658b1a7f09]: Commencement: Sch. 7 para. 15 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
+[^c-a844a1774dc8e137162994658b1a7f09]: Commencement: Sch. 7 para. 15 in force at 20.12.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2)
 
 [^f00256]: Footnote: [S.I. 2017/863](https://www.legislation.gov.uk/uksi/2017/863).

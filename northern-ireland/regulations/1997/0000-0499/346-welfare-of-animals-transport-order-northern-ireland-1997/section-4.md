@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. General provisions on the protection of animals during transport[^key-7c3aede210d72699fa94a85e27bcf2d0]
+## 4. General provisions on the protection of animals during transport[^c-7c3aede210d72699fa94a85e27bcf2d0]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c3aede210d72699fa94a85e27bcf2d0]: Commencement: Art. 4 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-7c3aede210d72699fa94a85e27bcf2d0]: Commencement: Art. 4 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)

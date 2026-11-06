@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88A. Applications for registration: specified state applicants – supplementary provisions[^key-0d59205c79acdb7fc6dca9cc7c99ac66]
+## 88A. Applications for registration: specified state applicants – supplementary provisions[^c-0d59205c79acdb7fc6dca9cc7c99ac66]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d59205c79acdb7fc6dca9cc7c99ac66]: Textual amendment: S. 88A inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [11](https://www.legislation.gov.uk/wsi/2026/24/regulation/11)
+[^c-0d59205c79acdb7fc6dca9cc7c99ac66]: Textual amendment: S. 88A inserted (1.4.2026) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Regulation and Inspection of Social Care) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/24)](https://www.legislation.gov.uk/wsi/2026/24), [regs. 1](https://www.legislation.gov.uk/wsi/2026/24/regulation/1), [11](https://www.legislation.gov.uk/wsi/2026/24/regulation/11)

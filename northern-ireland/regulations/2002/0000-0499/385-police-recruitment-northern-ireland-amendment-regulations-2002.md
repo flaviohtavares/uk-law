@@ -43,7 +43,7 @@ Coming into operation
 
 The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northern Ireland) Act 1998[^f00001] and sections 41, 43 and 44 of the Police (Northern Ireland) Act 2000[^f00002], and after consulting the Northern Ireland Policing Board, the Chief Constable, the Equality Commission for Northern Ireland and the Police Association for Northern Ireland, hereby makes the following regulations:
 
-## 1. Citation, commencement and interpretation[^key-c76694a9b2eb6305c8885381249d7147]
+## 1. Citation, commencement and interpretation[^c-c76694a9b2eb6305c8885381249d7147]
 
 (1) These regulations may be cited as the Police (Recruitment) (Northern Ireland) (Amendment) Regulations 2002.
 
@@ -51,19 +51,19 @@ The Secretary of State, in pursuance of sections 25 and 26 of the Police (Northe
 
 (3) In these regulations “the recruitment regulations” means the Police (Recruitment) (Northern Ireland) Regulations 2001[^f00003].
 
-## 2. Qualified candidate[^key-7d9fdbe674dade9df87578b36217e016]
+## 2. Qualified candidate[^c-7d9fdbe674dade9df87578b36217e016]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Appointment of qualified candidate[^key-fa9b4c446285d6f097c04e461a21fa87]
+## 3. Appointment of qualified candidate[^c-fa9b4c446285d6f097c04e461a21fa87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Police recruitment agent[^key-d7b67e14d1aa81d68e0f3d5aa7bdfa6a]
+## 4. Police recruitment agent[^c-d7b67e14d1aa81d68e0f3d5aa7bdfa6a]
 
 In regulation 5 of the recruitment regulations (police recruitment agent) in paragraph (4) (Chief Constable to determine terms and conditions, with the approval of the Board) the words “with the approval of the Policing Board” shall be omitted.
 
-## 5. Advertising of vacancies[^key-3b3680cd1e78c0b0a135d011f14daef4]
+## 5. Advertising of vacancies[^c-3b3680cd1e78c0b0a135d011f14daef4]
 
 (1) Regulation 6 of the recruitment regulations (advertising of vacancies) shall be amended as follows.
 
@@ -76,7 +76,7 @@ In regulation 5 of the recruitment regulations (police recruitment agent) in par
 
 .
 
-## 6. Independent community observers[^key-367fa20a72411403d99d7e5ed99fd6b3]
+## 6. Independent community observers[^c-367fa20a72411403d99d7e5ed99fd6b3]
 
 In regulation 10(3) of the recruitment regulations (reports by independent community observers)–
 
@@ -87,7 +87,7 @@ In regulation 10(3) of the recruitment regulations (reports by independent commu
 
   .
 
-## 7. Vetting panel[^key-119ae441f836b7402150f2d962f1d039]
+## 7. Vetting panel[^c-119ae441f836b7402150f2d962f1d039]
 
 (1) Regulation 12 of the recruitment regulations (vetting panel) shall be amended as follows.
 
@@ -102,7 +102,7 @@ In regulation 10(3) of the recruitment regulations (reports by independent commu
 
 .
 
-(4)[^key-bcd7639218c31c5712dbb0aecbf16af9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bcd7639218c31c5712dbb0aecbf16af9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Paul Murphy
 
@@ -134,20 +134,20 @@ Regulation 7 amends regulation 12 of the recruitment regulations as it applies t
 
 [^f00002]: Footnote: [2000 c. 32](https://www.legislation.gov.uk/ukpga/2000/32)
 
-[^key-c76694a9b2eb6305c8885381249d7147]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/385/regulation/1) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
+[^c-c76694a9b2eb6305c8885381249d7147]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2002/385/regulation/1) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
 
 [^f00003]: Footnote: [S.R. 2001 No. 140](https://www.legislation.gov.uk/nisr/2001/140)
 
-[^key-7d9fdbe674dade9df87578b36217e016]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/385/regulation/2) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/1/a)
+[^c-7d9fdbe674dade9df87578b36217e016]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2002/385/regulation/2) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(1)(a)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/1/a)
 
-[^key-fa9b4c446285d6f097c04e461a21fa87]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/385/regulation/3) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(1)(b)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/1/b)
+[^c-fa9b4c446285d6f097c04e461a21fa87]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2002/385/regulation/3) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(1)(b)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/1/b)
 
-[^key-d7b67e14d1aa81d68e0f3d5aa7bdfa6a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/385/regulation/4) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
+[^c-d7b67e14d1aa81d68e0f3d5aa7bdfa6a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2002/385/regulation/4) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
 
-[^key-3b3680cd1e78c0b0a135d011f14daef4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/385/regulation/5) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
+[^c-3b3680cd1e78c0b0a135d011f14daef4]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2002/385/regulation/5) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
 
-[^key-367fa20a72411403d99d7e5ed99fd6b3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/385/regulation/6) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
+[^c-367fa20a72411403d99d7e5ed99fd6b3]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2002/385/regulation/6) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
 
-[^key-119ae441f836b7402150f2d962f1d039]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/385/regulation/7) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
+[^c-119ae441f836b7402150f2d962f1d039]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2002/385/regulation/7) in operation at 17.1.2003, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2002/385/regulation/1/2)
 
-[^key-bcd7639218c31c5712dbb0aecbf16af9]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/nisr/2002/385/regulation/7/4) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(1)(c)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/1/c)
+[^c-bcd7639218c31c5712dbb0aecbf16af9]: Textual amendment: [Reg. 7(4)](https://www.legislation.gov.uk/nisr/2002/385/regulation/7/4) revoked (31.12.2009) by [Police Reserve Trainee (Amendment) Regulations (Northern Ireland) 2009 (S.R. 2009/391)](https://www.legislation.gov.uk/nisr/2009/391), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/391/regulation/1/2), [7(1)(c)](https://www.legislation.gov.uk/nisr/2009/391/regulation/7/1/c)

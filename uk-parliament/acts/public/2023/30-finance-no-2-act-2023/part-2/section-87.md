@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Post-duty point dilution of alcoholic products[^M_I_036029b0-51a5-4980-dc02-908a20581931][^key-933d68ba5380d4caf322ea07b49aaaad]
+## 87. Post-duty point dilution of alcoholic products[^M_I_036029b0-51a5-4980-dc02-908a20581931][^c-933d68ba5380d4caf322ea07b49aaaad]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^M_I_036029b0-51a5-4980-dc02-908a20581931]: Commencement: S. 87 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-933d68ba5380d4caf322ea07b49aaaad]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2023/30/section/87) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/c) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-933d68ba5380d4caf322ea07b49aaaad]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2023/30/section/87) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/c) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

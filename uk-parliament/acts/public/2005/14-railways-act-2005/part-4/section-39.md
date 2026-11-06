@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Quality contracts schemes in connection with service modifications[^key-239e6dde6c9f0e753fe109f450a88843]
+## 39. Quality contracts schemes in connection with service modifications[^c-239e6dde6c9f0e753fe109f450a88843]
 
 *Extent: E+W*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-239e6dde6c9f0e753fe109f450a88843]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2005/14/section/39) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)
+[^c-239e6dde6c9f0e753fe109f450a88843]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2005/14/section/39) in force at 1.12.2006 by [S.I. 2006/2911](https://www.legislation.gov.uk/uksi/2006/2911), [art. 2](https://www.legislation.gov.uk/uksi/2006/2911/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/2911/schedule)

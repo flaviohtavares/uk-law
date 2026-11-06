@@ -32,7 +32,7 @@ summary: ''
 
 Education, England
 
-The School Teachers’ Pay and Conditions (England) (Coronavirus) (Amendment) Order 2021 (revoked)[^key-00a2016caf06c126940b6daaafa1642c]
+The School Teachers’ Pay and Conditions (England) (Coronavirus) (Amendment) Order 2021 (revoked)[^c-00a2016caf06c126940b6daaafa1642c]
 
 Made
 
@@ -46,30 +46,30 @@ Coming into force
 
 30th July 2021
 
-[^key-00a2016caf06c126940b6daaafa1642c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00a2016caf06c126940b6daaafa1642c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and application[^key-00a2016caf06c126940b6daaafa1642c]
+## 1. Citation, commencement, extent and application[^c-00a2016caf06c126940b6daaafa1642c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-00a2016caf06c126940b6daaafa1642c]
+## 2.[^c-00a2016caf06c126940b6daaafa1642c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-00a2016caf06c126940b6daaafa1642c]
+## 3.[^c-00a2016caf06c126940b6daaafa1642c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the School Teachers’ Pay and Conditions (England) Order 2020[^key-00a2016caf06c126940b6daaafa1642c]
+## 4. Amendment of the School Teachers’ Pay and Conditions (England) Order 2020[^c-00a2016caf06c126940b6daaafa1642c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-00a2016caf06c126940b6daaafa1642c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00a2016caf06c126940b6daaafa1642c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-00a2016caf06c126940b6daaafa1642c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00a2016caf06c126940b6daaafa1642c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-00a2016caf06c126940b6daaafa1642c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/806) revoked (22.10.2021) by [The School Teachers’ Pay and Conditions (England) Order 2021 (S.I. 2021/1101)](https://www.legislation.gov.uk/uksi/2021/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1101/article/1/1), [3](https://www.legislation.gov.uk/uksi/2021/1101/article/3)
+[^c-00a2016caf06c126940b6daaafa1642c]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2021/806) revoked (22.10.2021) by [The School Teachers’ Pay and Conditions (England) Order 2021 (S.I. 2021/1101)](https://www.legislation.gov.uk/uksi/2021/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1101/article/1/1), [3](https://www.legislation.gov.uk/uksi/2021/1101/article/3)

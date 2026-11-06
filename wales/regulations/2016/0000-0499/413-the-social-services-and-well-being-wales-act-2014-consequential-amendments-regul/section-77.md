@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**77.**[^key-bed04e51ebec94e9cd584d0a646ea5ea] In section 23CZA(1)[^f00089] (arrangements for certain former relevant children to continue to live with former foster parents) omit “in England”.
+**77.**[^c-bed04e51ebec94e9cd584d0a646ea5ea] In section 23CZA(1)[^f00089] (arrangements for certain former relevant children to continue to live with former foster parents) omit “in England”.
 
 ## Annotations
 
-[^key-bed04e51ebec94e9cd584d0a646ea5ea]: Commencement: Reg. 77 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-bed04e51ebec94e9cd584d0a646ea5ea]: Commencement: Reg. 77 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00089]: Footnote: Section 23CZA was inserted by the Children and Families Act [2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), section 98(1) and (2).

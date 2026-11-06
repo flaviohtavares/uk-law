@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Procedural matters[^key-50dd5afbf62c2160c86db76e701b4255]
+## 5. Procedural matters[^c-50dd5afbf62c2160c86db76e701b4255]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 2 (which makes provision about procedural matters in connection with th
 
 ## Annotations
 
-[^key-50dd5afbf62c2160c86db76e701b4255]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/115/regulation/5) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)
+[^c-50dd5afbf62c2160c86db76e701b4255]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/115/regulation/5) in operation at 12.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/115/regulation/1)

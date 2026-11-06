@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Commission Implementing Decision (EU) 2015/1554[^key-1d3dc40b5bd65c9fefbd32228da7a4c2]
+## 11. Commission Implementing Decision (EU) 2015/1554[^c-1d3dc40b5bd65c9fefbd32228da7a4c2]
 
 *Extent: E+W+S*
 
@@ -579,4 +579,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d3dc40b5bd65c9fefbd32228da7a4c2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1388/regulation/11) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-1d3dc40b5bd65c9fefbd32228da7a4c2]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1388/regulation/11) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 162. Voluntary trust deeds for creditors[^key-0584738965bffc04c49c0205a1e193b8]
+## 162. Voluntary trust deeds for creditors[^c-0584738965bffc04c49c0205a1e193b8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Sections 163 to 193 and schedule 4 have effect in relation to voluntary trust de
 
 ## Annotations
 
-[^key-0584738965bffc04c49c0205a1e193b8]: Commencement: [S. 162](https://www.legislation.gov.uk/asp/2016/21/section/162) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-0584738965bffc04c49c0205a1e193b8]: Commencement: [S. 162](https://www.legislation.gov.uk/asp/2016/21/section/162) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -38,7 +38,7 @@ summary: ''
 
 (4) A tenancy which ceases to be a secure tenancy by virtue of this section cannot subsequently become a secure tenancy.
 
-(5)[^key-b89cbaa7c197f32168993e66221696a5] The following provisions apply where a tenancy that was a secure tenancy of a dwelling-house in England—
+(5)[^c-b89cbaa7c197f32168993e66221696a5] The following provisions apply where a tenancy that was a secure tenancy of a dwelling-house in England—
 
 - (a) has been vested or otherwise disposed of in the course of the administration of the secure tenant's estate, and
 - (b) has ceased to be a secure tenancy by virtue of this section.
@@ -68,4 +68,4 @@ summary: ''
 
 [^c19065091]: Textual amendment: S. 90(3)(a)(iv) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 81](https://www.legislation.gov.uk/ukpga/2004/33/section/81), [263(2)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/2), [Sch. 8 para. 23](https://www.legislation.gov.uk/ukpga/2004/33/schedule/8/paragraph/23); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/3175/schedule/1)
 
-[^key-b89cbaa7c197f32168993e66221696a5]: Textual amendment: S. 90(5)-(10) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 162(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/162/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(b)](https://www.legislation.gov.uk/uksi/2012/628/article/6/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-b89cbaa7c197f32168993e66221696a5]: Textual amendment: S. 90(5)-(10) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 162(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/162/1), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(b)](https://www.legislation.gov.uk/uksi/2012/628/article/6/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

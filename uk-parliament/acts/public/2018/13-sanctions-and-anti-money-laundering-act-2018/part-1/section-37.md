@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Rights of UN-named person on EU sanctions list[^key-d48788670f2df342b193f0176df63c42]
+## 37. Rights of UN-named person on EU sanctions list[^c-d48788670f2df342b193f0176df63c42]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d48788670f2df342b193f0176df63c42]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2018/13/section/37) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)
+[^c-d48788670f2df342b193f0176df63c42]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2018/13/section/37) in force at 22.11.2018 by [S.I. 2018/1213](https://www.legislation.gov.uk/uksi/2018/1213), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2018/1213/regulation/2/b)

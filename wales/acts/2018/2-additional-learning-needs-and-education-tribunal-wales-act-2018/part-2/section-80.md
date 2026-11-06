@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 80. Allowances for attendance at the Education Tribunal for Wales[^key-15431ad836cb2e62c51d4190aff1b6cf]
+## 80. Allowances for attendance at the Education Tribunal for Wales[^c-15431ad836cb2e62c51d4190aff1b6cf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Welsh Ministers may pay allowances for the purpose of or in connection with 
 
 ## Annotations
 
-[^key-15431ad836cb2e62c51d4190aff1b6cf]: Commencement: S. 80 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)
+[^c-15431ad836cb2e62c51d4190aff1b6cf]: Commencement: S. 80 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)

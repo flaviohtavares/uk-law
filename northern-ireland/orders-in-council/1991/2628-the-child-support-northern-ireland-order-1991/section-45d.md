@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45D. Disclosure of information to credit reference agencies[^key-70a1e3d975dad948face58cd1a7c9ef9]
+## 45D. Disclosure of information to credit reference agencies[^c-70a1e3d975dad948face58cd1a7c9ef9]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70a1e3d975dad948face58cd1a7c9ef9]: Textual amendment: [Art. 45D](https://www.legislation.gov.uk/nisi/1991/2628/article/45D) inserted (14.2.2015 for specified purposes, 23.3.2015 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 31](https://www.legislation.gov.uk/nia/2008/10/section/31), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)[(4)](https://www.legislation.gov.uk/nia/2008/10/section/40/4)); [S.R. 2015/57](https://www.legislation.gov.uk/nisr/2015/57), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/57/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2015/57/article/2/b)
+[^c-70a1e3d975dad948face58cd1a7c9ef9]: Textual amendment: [Art. 45D](https://www.legislation.gov.uk/nisi/1991/2628/article/45D) inserted (14.2.2015 for specified purposes, 23.3.2015 in so far as not already in operation) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 31](https://www.legislation.gov.uk/nia/2008/10/section/31), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1) (with [s. 40(2)](https://www.legislation.gov.uk/nia/2008/10/section/40/2)[(4)](https://www.legislation.gov.uk/nia/2008/10/section/40/4)); [S.R. 2015/57](https://www.legislation.gov.uk/nisr/2015/57), [art. 2(a)](https://www.legislation.gov.uk/nisr/2015/57/article/2/a)[(b)](https://www.legislation.gov.uk/nisr/2015/57/article/2/b)

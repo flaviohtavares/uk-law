@@ -28,13 +28,13 @@ summary: ''
 
 (4) Any reference in subsections (1) to (3) above to a registered society does not include a benevolent society, a working men’s club or an old people’s home society.
 
-(5) a person nominated under this section must not at the date of the nomination be an officer or servant of the society or branch, unless that officer or servant is the spouse, civil partner,[^key-37a0096da3d578e3eb20a5deac2e3aa8] father, mother, child, brother, sister, nephew or niece of the nominator.
+(5) a person nominated under this section must not at the date of the nomination be an officer or servant of the society or branch, unless that officer or servant is the spouse, civil partner,[^c-37a0096da3d578e3eb20a5deac2e3aa8] father, mother, child, brother, sister, nephew or niece of the nominator.
 
 (6) A nomination so made may be revoked or varied by any similar document under the hand of the nominator delivered, sent or made as mentioned in subsection (1) above.
 
 (7) The marriage of a member of the society or branch shall operate as a revocation of any nomination previously made by that member under this section.
 
-(7A)[^key-dc80a2538410afe5afc9744f532cebb7] The formation of a civil partnership by a member of the society or branch revokes any nomination previously made by that member under this section.
+(7A)[^c-dc80a2538410afe5afc9744f532cebb7] The formation of a civil partnership by a member of the society or branch revokes any nomination previously made by that member under this section.
 
 (8) A nomination, or a variation or revocation of a nomination, by writing under the hand of a member of a registered branch and delivered at or sent to the registered office of that branch, or made in a book kept at that office, shall be effectual notwithstanding that the money to which the nomination relates, or some part thereof, is not payable by that branch but is payable by the society or some other branch.
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c1073297]: Textual amendment: “£5,000” substituted by virtue of [Administration of Estates (Small Payments) Act 1965 (c. 32, SIF 116:1)](https://www.legislation.gov.uk/ukpga/1965/32), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/1965/32/section/1/1), [6](https://www.legislation.gov.uk/ukpga/1965/32/section/6), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/1965/32/schedule/1/part/1) and [S.I. 1984/539](https://www.legislation.gov.uk/uksi/1984/539), [art. 2(1)](https://www.legislation.gov.uk/uksi/1984/539/article/2/1)
 
-[^key-37a0096da3d578e3eb20a5deac2e3aa8]: Textual amendment: Words in s. 66(5) substituted (5.12.2005) by virtue of [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 52(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/52/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-37a0096da3d578e3eb20a5deac2e3aa8]: Textual amendment: Words in s. 66(5) substituted (5.12.2005) by virtue of [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 52(2)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/52/2); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
 
-[^key-dc80a2538410afe5afc9744f532cebb7]: Textual amendment: S. 66(7A) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 52(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/52/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)
+[^c-dc80a2538410afe5afc9744f532cebb7]: Textual amendment: S. 66(7A) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(b)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/b), [Sch. 27 para. 52(3)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/52/3); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2)

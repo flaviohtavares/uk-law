@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Fees for inspections by Chief Inspector under this Chapter[^key-906130e94f8758055884c7a3d2537614][^key-70ba9d355de2836b9dec2634dfa55143]
+## 111. Fees for inspections by Chief Inspector under this Chapter[^c-906130e94f8758055884c7a3d2537614][^c-70ba9d355de2836b9dec2634dfa55143]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ summary: ''
 - (a) for inspections of different descriptions of institution, or
 - (b) for inspections carried out for different purposes or in different circumstances.
 
-(6) This section applies to any independent educational institution that is registered, or is the subject of an application to be registered, other than[^key-74bf794830ead0dea7c7b6ae9cc0e5f6] —
+(6) This section applies to any independent educational institution that is registered, or is the subject of an application to be registered, other than[^c-74bf794830ead0dea7c7b6ae9cc0e5f6] —
 
 - (a) an Academy,
 - (b) a city technology college, or
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-906130e94f8758055884c7a3d2537614]: Commencement: S. 111 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2) (with [art. 2A](https://www.legislation.gov.uk/uksi/2009/1513/article/2A)) (which transitory provision was inserted (1.7.2009) by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), art. 7)
+[^c-906130e94f8758055884c7a3d2537614]: Commencement: S. 111 in force at 19.6.2009 for specified purposes by [S.I. 2009/1513](https://www.legislation.gov.uk/uksi/2009/1513), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/1513/article/2/2) (with [art. 2A](https://www.legislation.gov.uk/uksi/2009/1513/article/2A)) (which transitory provision was inserted (1.7.2009) by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), art. 7)
 
-[^key-70ba9d355de2836b9dec2634dfa55143]: Commencement: S. 111 in force at 1.9.2009 in so far as not already in force by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 3](https://www.legislation.gov.uk/uksi/2009/1606/article/3)
+[^c-70ba9d355de2836b9dec2634dfa55143]: Commencement: S. 111 in force at 1.9.2009 in so far as not already in force by [S.I. 2009/1606](https://www.legislation.gov.uk/uksi/2009/1606), [art. 3](https://www.legislation.gov.uk/uksi/2009/1606/article/3)
 
-[^key-74bf794830ead0dea7c7b6ae9cc0e5f6]: Textual amendment: Words in s. 111(6) substituted (8.6.2010) by [Children, Schools and Families Act 2010 (c. 26)](https://www.legislation.gov.uk/ukpga/2010/26), [ss. 23](https://www.legislation.gov.uk/ukpga/2010/26/section/23), [29(2)](https://www.legislation.gov.uk/ukpga/2010/26/section/29/2) (with [s. 27](https://www.legislation.gov.uk/ukpga/2010/26/section/27))
+[^c-74bf794830ead0dea7c7b6ae9cc0e5f6]: Textual amendment: Words in s. 111(6) substituted (8.6.2010) by [Children, Schools and Families Act 2010 (c. 26)](https://www.legislation.gov.uk/ukpga/2010/26), [ss. 23](https://www.legislation.gov.uk/ukpga/2010/26/section/23), [29(2)](https://www.legislation.gov.uk/ukpga/2010/26/section/29/2) (with [s. 27](https://www.legislation.gov.uk/ukpga/2010/26/section/27))

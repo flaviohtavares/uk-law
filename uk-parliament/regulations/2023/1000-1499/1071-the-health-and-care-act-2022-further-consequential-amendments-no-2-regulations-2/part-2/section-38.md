@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Amendment of the Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009 (Welsh language text)[^key-e3f7fcc21815d8c0fcb3b77630f94e01]
+## 38. Amendment of the Public Health Wales National Health Service Trust (Membership and Procedure) Regulations 2009 (Welsh language text)[^c-e3f7fcc21815d8c0fcb3b77630f94e01]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3f7fcc21815d8c0fcb3b77630f94e01]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2023/1071/regulation/38) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-e3f7fcc21815d8c0fcb3b77630f94e01]: Commencement: [Reg. 38](https://www.legislation.gov.uk/uksi/2023/1071/regulation/38) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)

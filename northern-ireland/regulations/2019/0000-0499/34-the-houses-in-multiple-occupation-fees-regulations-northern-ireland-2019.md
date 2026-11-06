@@ -42,24 +42,24 @@ Coming into operation
 
 The Department for Communities [^f00001], in exercise of the powers conferred by section 84 of the Houses in Multiple Occupation Act (Northern Ireland) 2016[^f00002], makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-f23a375b0552cc0271f513bc39a65c6b]
+## 1. Citation, commencement and interpretation[^c-f23a375b0552cc0271f513bc39a65c6b]
 
 (1) These Regulations may be cited as the Houses in Multiple Occupation (Fees) Regulations (Northern Ireland) 2019 and come into operation on 1st April 2019.
 
 (2) In these Regulations “the Act” means the Houses in Multiple Occupation Act (Northern Ireland) 2016.
 
-## 2. Maximum HMO licence application fee[^key-aadd1bc37a7a524c97791c099d3b0089]
+## 2. Maximum HMO licence application fee[^c-aadd1bc37a7a524c97791c099d3b0089]
 
-The maximum amount of fee the council may charge for an application for an HMO licence is £75[^key-5cfccf086eac7ff4fa78279c78180f09] per person per annum.
+The maximum amount of fee the council may charge for an application for an HMO licence is £75[^c-5cfccf086eac7ff4fa78279c78180f09] per person per annum.
 
-## 3. Maximum fee for copy of HMO register[^key-dcf675fc25bd67451883fbcf15d29d7c]
+## 3. Maximum fee for copy of HMO register[^c-dcf675fc25bd67451883fbcf15d29d7c]
 
 The maximum amount of fee the council may charge for supplying:—
 
 - (a) a certified copy of an entry relating to an HMO to any person who falls within section 62(9) of the Act is £15;
 - (b) a certified copy of its register, or of an extract from it, to any statutory authority is £15 per item.
 
-## 4. How fees are determined[^key-e4bc0519b9505e1df963870615b059e8]
+## 4. How fees are determined[^c-e4bc0519b9505e1df963870615b059e8]
 
 When determining fees the council shall take into account relevant costs incurred by that council in carrying out its functions under the Act.
 
@@ -86,12 +86,12 @@ These Regulations set the maximum fee per person the council may charge for an a
 
 [^f00002]: Footnote: [2016 c.22 (N.I.)](https://www.legislation.gov.uk/nia/2016/22)
 
-[^key-f23a375b0552cc0271f513bc39a65c6b]: Commencement: Reg. 1 in operation at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/34/regulation/1/1)
+[^c-f23a375b0552cc0271f513bc39a65c6b]: Commencement: Reg. 1 in operation at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/34/regulation/1/1)
 
-[^key-aadd1bc37a7a524c97791c099d3b0089]: Commencement: Reg. 2 in operation at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/34/regulation/1/1)
+[^c-aadd1bc37a7a524c97791c099d3b0089]: Commencement: Reg. 2 in operation at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/34/regulation/1/1)
 
-[^key-5cfccf086eac7ff4fa78279c78180f09]: Textual amendment: Sum in [reg. 2](https://www.legislation.gov.uk/nisr/2019/34/regulation/2) substituted (1.8.2025) by [The Houses in Multiple Occupation (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/124)](https://www.legislation.gov.uk/nisr/2025/124), [regs. 1](https://www.legislation.gov.uk/nisr/2025/124/regulation/1), [2](https://www.legislation.gov.uk/nisr/2025/124/regulation/2)
+[^c-5cfccf086eac7ff4fa78279c78180f09]: Textual amendment: Sum in [reg. 2](https://www.legislation.gov.uk/nisr/2019/34/regulation/2) substituted (1.8.2025) by [The Houses in Multiple Occupation (Fees) (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/124)](https://www.legislation.gov.uk/nisr/2025/124), [regs. 1](https://www.legislation.gov.uk/nisr/2025/124/regulation/1), [2](https://www.legislation.gov.uk/nisr/2025/124/regulation/2)
 
-[^key-dcf675fc25bd67451883fbcf15d29d7c]: Commencement: Reg. 3 in operation at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/34/regulation/1/1)
+[^c-dcf675fc25bd67451883fbcf15d29d7c]: Commencement: Reg. 3 in operation at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/34/regulation/1/1)
 
-[^key-e4bc0519b9505e1df963870615b059e8]: Commencement: Reg. 4 in operation at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/34/regulation/1/1)
+[^c-e4bc0519b9505e1df963870615b059e8]: Commencement: Reg. 4 in operation at 1.4.2019, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/34/regulation/1/1)

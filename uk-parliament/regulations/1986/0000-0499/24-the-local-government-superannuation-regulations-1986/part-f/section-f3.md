@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## F3. Election as to war service[^key-b19018ede575df9a0bce5ba018a786e6]
+## F3. Election as to war service[^c-b19018ede575df9a0bce5ba018a786e6]
 
 *Extent: E+W+S*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b19018ede575df9a0bce5ba018a786e6]: Commencement: [Reg. F3](https://www.legislation.gov.uk/uksi/1986/24/regulation/F3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-b19018ede575df9a0bce5ba018a786e6]: Commencement: [Reg. F3](https://www.legislation.gov.uk/uksi/1986/24/regulation/F3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00046]: Footnote: [S.I. 1974/812](https://www.legislation.gov.uk/uksi/1974/812); relevant amending instruments are [S.I. 1975/638](https://www.legislation.gov.uk/uksi/1975/638), [1978/425](https://www.legislation.gov.uk/uksi/1978/425).

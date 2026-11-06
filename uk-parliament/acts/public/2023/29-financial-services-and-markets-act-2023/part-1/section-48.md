@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Exercise of FMI regulatory powers[^key-04778a767f32cab0682b0657400b3b82][^key-d576f84ff1b5fbcde84877d4180a6de3][^key-6643c9e1369d48ceafa36242b1660e84][^key-9ab21e3e731a24f2a9c94f516811c1a4]
+## 48. Exercise of FMI regulatory powers[^c-04778a767f32cab0682b0657400b3b82][^c-d576f84ff1b5fbcde84877d4180a6de3][^c-6643c9e1369d48ceafa36242b1660e84][^c-9ab21e3e731a24f2a9c94f516811c1a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -165,10 +165,10 @@ After section 30C of the Bank of England Act 1998 insert—
 
 ## Annotations
 
-[^key-04778a767f32cab0682b0657400b3b82]: Commencement: S. 48 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
+[^c-04778a767f32cab0682b0657400b3b82]: Commencement: S. 48 not in force at Royal Assent, see [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3)
 
-[^key-d576f84ff1b5fbcde84877d4180a6de3]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/29/section/48) in force at 1.1.2024 at 1.00 a.m. for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/d)
+[^c-d576f84ff1b5fbcde84877d4180a6de3]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/29/section/48) in force at 1.1.2024 at 1.00 a.m. for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 10(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/d)
 
-[^key-6643c9e1369d48ceafa36242b1660e84]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/29/section/48) in force at 1.1.2025 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 12(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/12/b) (with [reg. 16(1)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/16/1))
+[^c-6643c9e1369d48ceafa36242b1660e84]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/29/section/48) in force at 1.1.2025 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 12(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/12/b) (with [reg. 16(1)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/16/1))
 
-[^key-9ab21e3e731a24f2a9c94f516811c1a4]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/29/section/48) in force at 1.2.2025 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 13](https://www.legislation.gov.uk/uksi/2023/1382/regulation/13)
+[^c-9ab21e3e731a24f2a9c94f516811c1a4]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2023/29/section/48) in force at 1.2.2025 for specified purposes by [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 13](https://www.legislation.gov.uk/uksi/2023/1382/regulation/13)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Information about changes in beneficiaries under trusts[^key-05f8337347cb1cd2aa76078bc0e5ecb6]
+## 163. Information about changes in beneficiaries under trusts[^c-05f8337347cb1cd2aa76078bc0e5ecb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05f8337347cb1cd2aa76078bc0e5ecb6]: Commencement: S. 163 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-05f8337347cb1cd2aa76078bc0e5ecb6]: Commencement: S. 163 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

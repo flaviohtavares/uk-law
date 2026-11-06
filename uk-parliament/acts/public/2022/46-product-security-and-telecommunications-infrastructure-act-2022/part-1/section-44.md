@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Appeals against decisions under section 42[^key-824d7638c0998276e27ac7b77313b89c][^key-0ea9fcdd244e8509dc32131d3578c37e]
+## 44. Appeals against decisions under section 42[^c-824d7638c0998276e27ac7b77313b89c][^c-0ea9fcdd244e8509dc32131d3578c37e]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ the Secretary of State must make reasonable efforts to give notice of the appeal
 
 ## Annotations
 
-[^key-824d7638c0998276e27ac7b77313b89c]: Commencement: S. 44 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-824d7638c0998276e27ac7b77313b89c]: Commencement: S. 44 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-0ea9fcdd244e8509dc32131d3578c37e]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2022/46/section/44) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-0ea9fcdd244e8509dc32131d3578c37e]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2022/46/section/44) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

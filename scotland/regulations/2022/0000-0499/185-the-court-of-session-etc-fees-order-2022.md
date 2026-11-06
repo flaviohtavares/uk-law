@@ -32,7 +32,7 @@ summary: ''
 
 Court Of Session
 
-The Court of Session etc. Fees Order 2022 (revoked)[^key-de772a976b5a4414d72bbdc291b2f369]
+The Court of Session etc. Fees Order 2022 (revoked)[^c-de772a976b5a4414d72bbdc291b2f369]
 
 Made
 
@@ -44,67 +44,67 @@ Laid before the Scottish Parliament
 
 Coming into force in accordance with article 1
 
-[^key-de772a976b5a4414d72bbdc291b2f369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de772a976b5a4414d72bbdc291b2f369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-de772a976b5a4414d72bbdc291b2f369]
+## 1. Citation, commencement and effect[^c-de772a976b5a4414d72bbdc291b2f369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-de772a976b5a4414d72bbdc291b2f369]
+## 2. Interpretation[^c-de772a976b5a4414d72bbdc291b2f369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees payable in the Court of Session etc.[^key-de772a976b5a4414d72bbdc291b2f369]
+## 3. Fees payable in the Court of Session etc.[^c-de772a976b5a4414d72bbdc291b2f369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Exemption of certain persons from fees: legal aid[^key-de772a976b5a4414d72bbdc291b2f369]
+## 4. Exemption of certain persons from fees: legal aid[^c-de772a976b5a4414d72bbdc291b2f369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exemption of certain persons from fees: social security[^key-de772a976b5a4414d72bbdc291b2f369]
+## 5. Exemption of certain persons from fees: social security[^c-de772a976b5a4414d72bbdc291b2f369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemptions for applicants for certain interdicts and orders[^key-de772a976b5a4414d72bbdc291b2f369]
+## 6. Exemptions for applicants for certain interdicts and orders[^c-de772a976b5a4414d72bbdc291b2f369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Exemptions for certain proceedings relating to the environment[^key-de772a976b5a4414d72bbdc291b2f369]
+## 7. Exemptions for certain proceedings relating to the environment[^c-de772a976b5a4414d72bbdc291b2f369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Exemption of certain motions from fees[^key-de772a976b5a4414d72bbdc291b2f369]
+## 8. Exemption of certain motions from fees[^c-de772a976b5a4414d72bbdc291b2f369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Calculation of certain fees payable[^key-de772a976b5a4414d72bbdc291b2f369]
+## 9. Calculation of certain fees payable[^c-de772a976b5a4414d72bbdc291b2f369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Revocation[^key-de772a976b5a4414d72bbdc291b2f369]
+## 10. Revocation[^c-de772a976b5a4414d72bbdc291b2f369]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de772a976b5a4414d72bbdc291b2f369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de772a976b5a4414d72bbdc291b2f369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — TABLE OF FEES[^key-de772a976b5a4414d72bbdc291b2f369]
+## SCHEDULE 1 — TABLE OF FEES[^c-de772a976b5a4414d72bbdc291b2f369]
 
 Article 3(2)(a)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — TABLE OF FEES[^key-de772a976b5a4414d72bbdc291b2f369]
+## SCHEDULE 2 — TABLE OF FEES[^c-de772a976b5a4414d72bbdc291b2f369]
 
 Article 3(2)(b)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — TABLE OF FEES[^key-de772a976b5a4414d72bbdc291b2f369]
+## SCHEDULE 3 — TABLE OF FEES[^c-de772a976b5a4414d72bbdc291b2f369]
 
 Article 3(2)(c)
 
@@ -112,8 +112,8 @@ Article 3(2)(c)
 
 **May not be in force at this date. Check the source.**
 
-[^key-de772a976b5a4414d72bbdc291b2f369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de772a976b5a4414d72bbdc291b2f369]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de772a976b5a4414d72bbdc291b2f369]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/185) revoked (1.11.2024) by [The Court of Session etc. Fees Order 2024 (S.S.I. 2024/238)](https://www.legislation.gov.uk/ssi/2024/238), [arts. 1](https://www.legislation.gov.uk/ssi/2024/238/article/1), [10](https://www.legislation.gov.uk/ssi/2024/238/article/10)
+[^c-de772a976b5a4414d72bbdc291b2f369]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2022/185) revoked (1.11.2024) by [The Court of Session etc. Fees Order 2024 (S.S.I. 2024/238)](https://www.legislation.gov.uk/ssi/2024/238), [arts. 1](https://www.legislation.gov.uk/ssi/2024/238/article/1), [10](https://www.legislation.gov.uk/ssi/2024/238/article/10)

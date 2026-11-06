@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.3. Order for examination, etc[^key-f963e6fc37c48b09e97cf631c36c2f39]
+## 9.3. Order for examination, etc[^c-f963e6fc37c48b09e97cf631c36c2f39]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f963e6fc37c48b09e97cf631c36c2f39]: Commencement: [Rule 9.3](https://www.legislation.gov.uk/uksi/1986/1925/rule/9.3) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f963e6fc37c48b09e97cf631c36c2f39]: Commencement: [Rule 9.3](https://www.legislation.gov.uk/uksi/1986/1925/rule/9.3) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54ZA. Application of this Chapter to Real Time Information pension payers[^key-75e354f82eb559fc604fa6a8f65db51b]
+## 54ZA. Application of this Chapter to Real Time Information pension payers[^c-75e354f82eb559fc604fa6a8f65db51b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75e354f82eb559fc604fa6a8f65db51b]: Textual amendment: [Reg. 54ZA](https://www.legislation.gov.uk/uksi/2003/2682/regulation/54ZA) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2012/822/regulation/22)
+[^c-75e354f82eb559fc604fa6a8f65db51b]: Textual amendment: [Reg. 54ZA](https://www.legislation.gov.uk/uksi/2003/2682/regulation/54ZA) inserted (6.4.2012) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2012 (S.I. 2012/822)](https://www.legislation.gov.uk/uksi/2012/822), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1), [22](https://www.legislation.gov.uk/uksi/2012/822/regulation/22)

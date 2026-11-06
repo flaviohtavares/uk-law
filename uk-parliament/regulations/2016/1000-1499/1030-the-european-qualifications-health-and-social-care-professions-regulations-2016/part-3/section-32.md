@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Amendment of article 23[^key-c6a09569a44568f3c7c7eb2e19e11734]
+## 32. Amendment of article 23[^c-c6a09569a44568f3c7c7eb2e19e11734]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6a09569a44568f3c7c7eb2e19e11734]: Commencement: Reg. 32 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-c6a09569a44568f3c7c7eb2e19e11734]: Commencement: Reg. 32 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

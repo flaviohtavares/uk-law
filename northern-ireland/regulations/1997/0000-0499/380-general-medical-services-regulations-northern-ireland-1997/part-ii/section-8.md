@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Filling or dispersal of medical practice vacancies[^key-8bc8c09d082b6a3197f3b4655c157746]
+## 8. Filling or dispersal of medical practice vacancies[^c-8bc8c09d082b6a3197f3b4655c157746]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ the Board for the area in which the vacancy occurs shall, after consultation wit
 
 ## Annotations
 
-[^key-8bc8c09d082b6a3197f3b4655c157746]: Commencement: Reg. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-8bc8c09d082b6a3197f3b4655c157746]: Commencement: Reg. 8 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

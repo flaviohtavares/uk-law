@@ -33,7 +33,7 @@ This statutory instrument revokes and replaces an earlier instrument with the sa
 
 SOCIAL SECURITY
 
-The Social Fund Maternity and Funeral Expenses (General) Regulations 1987 (revoked)[^key-40dda14cb4310d92eb0533ae58c97912]
+The Social Fund Maternity and Funeral Expenses (General) Regulations 1987 (revoked)[^c-40dda14cb4310d92eb0533ae58c97912]
 
 Made
 
@@ -47,96 +47,96 @@ Coming into force
 
 6th April 1987
 
-[^key-40dda14cb4310d92eb0533ae58c97912]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40dda14cb4310d92eb0533ae58c97912]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART I — GENERAL[^key-40dda14cb4310d92eb0533ae58c97912]
+## PART I — GENERAL[^c-40dda14cb4310d92eb0533ae58c97912]
 
-### 1. Citation and commencement[^key-40dda14cb4310d92eb0533ae58c97912]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 2. Revocation[^key-40dda14cb4310d92eb0533ae58c97912]
+### 1. Citation and commencement[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Interpretation[^key-40dda14cb4310d92eb0533ae58c97912]
+### 2. Revocation[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Provision against double payment[^key-40dda14cb4310d92eb0533ae58c97912]
+### 3. Interpretation[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART II — PAYMENTS FOR MATERNITY EXPENSES[^key-40dda14cb4310d92eb0533ae58c97912]
-
-### 5. Entitlement[^key-40dda14cb4310d92eb0533ae58c97912]
+### 4. Provision against double payment[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Persons affected by a trade dispute[^key-40dda14cb4310d92eb0533ae58c97912]
+## PART II — PAYMENTS FOR MATERNITY EXPENSES[^c-40dda14cb4310d92eb0533ae58c97912]
+
+### 5. Entitlement[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART III — PAYMENTS FOR FUNERAL EXPENSES[^key-40dda14cb4310d92eb0533ae58c97912]
-
-### 7. Entitlement[^key-40dda14cb4310d92eb0533ae58c97912]
+### 6. Persons affected by a trade dispute[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7A. Amount of funeral payment[^key-40dda14cb4310d92eb0533ae58c97912]
+## PART III — PAYMENTS FOR FUNERAL EXPENSES[^c-40dda14cb4310d92eb0533ae58c97912]
+
+### 7. Entitlement[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Deductions from an award of a funeral payment[^key-40dda14cb4310d92eb0533ae58c97912]
+### 7A. Amount of funeral payment[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART IV — EFFECT OF CAPITAL[^key-40dda14cb4310d92eb0533ae58c97912]
-
-### 9. Effect of capital[^key-40dda14cb4310d92eb0533ae58c97912]
+### 8. Deductions from an award of a funeral payment[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Assessment of capital[^key-40dda14cb4310d92eb0533ae58c97912]
+## PART IV — EFFECT OF CAPITAL[^c-40dda14cb4310d92eb0533ae58c97912]
+
+### 9. Effect of capital[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART V — TRANSITIONAL PROVISIONS[^key-40dda14cb4310d92eb0533ae58c97912]
-
-### 11. Interpretation of Parts V and VI[^key-40dda14cb4310d92eb0533ae58c97912]
+### 10. Assessment of capital[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Transitional arrangements—maternity payments[^key-40dda14cb4310d92eb0533ae58c97912]
+## PART V — TRANSITIONAL PROVISIONS[^c-40dda14cb4310d92eb0533ae58c97912]
+
+### 11. Interpretation of Parts V and VI[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Transitional arrangements—funeral payments[^key-40dda14cb4310d92eb0533ae58c97912]
+### 12. Transitional arrangements—maternity payments[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART VI — CONSEQUENTIAL AMENDMENTS[^key-40dda14cb4310d92eb0533ae58c97912]
-
-### 14. Amendment of the Single Payments Regulations[^key-40dda14cb4310d92eb0533ae58c97912]
+### 13. Transitional arrangements—funeral payments[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendment of the Trade Disputes Regulations[^key-40dda14cb4310d92eb0533ae58c97912]
+## PART VI — CONSEQUENTIAL AMENDMENTS[^c-40dda14cb4310d92eb0533ae58c97912]
+
+### 14. Amendment of the Single Payments Regulations[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendment of the Urgent Cases Regulations[^key-40dda14cb4310d92eb0533ae58c97912]
+### 15. Amendment of the Trade Disputes Regulations[^c-40dda14cb4310d92eb0533ae58c97912]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-40dda14cb4310d92eb0533ae58c97912]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 16. Amendment of the Urgent Cases Regulations[^c-40dda14cb4310d92eb0533ae58c97912]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-40dda14cb4310d92eb0533ae58c97912]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-40dda14cb4310d92eb0533ae58c97912]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40dda14cb4310d92eb0533ae58c97912]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-40dda14cb4310d92eb0533ae58c97912]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1987/481) revoked (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)
+[^c-40dda14cb4310d92eb0533ae58c97912]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1987/481) revoked (5.12.2005) by [The Social Fund Maternity and Funeral Expenses (General) Regulations 2005 (S.I. 2005/3061)](https://www.legislation.gov.uk/uksi/2005/3061), [reg. 1](https://www.legislation.gov.uk/uksi/2005/3061/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/3061/schedule)

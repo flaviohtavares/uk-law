@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Disclosure of information to Compensation Board[^key-bd872368da23a113e6df265cc8484d69]
+## 147. Disclosure of information to Compensation Board[^c-bd872368da23a113e6df265cc8484d69]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ In section 114(7) of the Pensions Act 1995 (bodies which may disclose informatio
 
 ## Annotations
 
-[^key-bd872368da23a113e6df265cc8484d69]: Commencement: Art. 147 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-bd872368da23a113e6df265cc8484d69]: Commencement: Art. 147 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

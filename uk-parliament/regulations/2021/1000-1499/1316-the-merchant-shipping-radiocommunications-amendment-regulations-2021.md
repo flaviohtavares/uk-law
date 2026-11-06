@@ -50,17 +50,17 @@ The Secretary of State, after consulting the persons referred to in section 86(4
 
 ## PART 1 — General
 
-### 1. Citation, commencement and extent[^key-ccc0af4db9b28d2ca11f09ecc78228a7]
+### 1. Citation, commencement and extent[^c-ccc0af4db9b28d2ca11f09ecc78228a7]
 
 (1) These Regulations may be cited as the Merchant Shipping (Radiocommunications) (Amendment) Regulations 2021 and come into force on 24th December 2021.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Amendments[^key-ce4947bab8a0830c2d6e2a4006e7106f]
+### 2. Amendments[^c-ce4947bab8a0830c2d6e2a4006e7106f]
 
 The amendments listed in Schedule 1 have effect.
 
-### 3. Interpretation[^key-f512eac9da6e975a7ff0b5e8fcc99a29]
+### 3. Interpretation[^c-f512eac9da6e975a7ff0b5e8fcc99a29]
 
 In these Regulations—
 
@@ -92,13 +92,13 @@ In these Regulations—
   where, in the case of any vessel referred to in paragraphs (a) or (b), no other payments are made by or on behalf of users of the vessel, other than by the owner; and in this definition “immediate family” means, in relation to an individual, the spouse or civil partner of the individual, and a relative of the individual or the individual’s spouse or civil partner; and “relative” means brother, sister, ancestor or lineal descendant;
 - “radio installation” means any radio installation provided on board a ship in compliance with Chapter IV, including its associated antennas, interconnecting circuits and, where appropriate, sources of electrical energy;
 - “Radio Regulations” means the Radio Regulations[^f00005] annexed to, or regarded as being annexed to, the Constitution and Convention of the International Telecommunication Union, 1992[^f00006];
-- “[^key-b541aaf7dda9da6b655bb47e8aac01ce]**remote operation centre**” means any location from which a remotely operated vessel is operated except that vessel;
+- “[^c-b541aaf7dda9da6b655bb47e8aac01ce]**remote operation centre**” means any location from which a remotely operated vessel is operated except that vessel;
 - “**remotely operated unmanned vessel**” means a vessel that—
   - (a) is operated from a remote operation centre, and
   - (b) is not carrying any person at the time that it is operated;
 - “sea area A2”, “sea area A3”, and “sea area A4” have the same meaning as in regulation 2.1 of Chapter IV.
 
-### 4. Application[^key-88e5a4bb32dd24039187010203ed4339]
+### 4. Application[^c-88e5a4bb32dd24039187010203ed4339]
 
 (1) Subject to paragraph (2), these Regulations apply to—
 
@@ -114,10 +114,10 @@ In these Regulations—
 - (e) wooden ships of primitive build;
 - (f) pleasure vessels;
 - (g) fishing vessels;
-- (ga)[^key-68a45ead1167180ec588696964ebe4c4] remotely operated unmanned vessels;
+- (ga)[^c-68a45ead1167180ec588696964ebe4c4] remotely operated unmanned vessels;
 - (h) ships to which the Merchant Shipping (Radio Installations) Regulations 1998[^f00007] apply;
 - (i) ships to which the Merchant Shipping (Passenger Ships on Domestic Voyages) Regulations 2000[^f00008] apply;
-- (j) ships to which the Merchant Shipping (High Speed Craft) Regulations 2022[^key-ad918b5a855ee7f396c9602405012ce2] apply;
+- (j) ships to which the Merchant Shipping (High Speed Craft) Regulations 2022[^c-ad918b5a855ee7f396c9602405012ce2] apply;
 - (k) ships while being navigated within the Great Lakes of North America and their connecting and tributary waters as far east as the lower exit of St. Lambert Lock in Montreal in the Province of Quebec, Canada.
 
 (3) A non-United Kingdom ship flying the flag of a State which is not a party to the Convention is not subject to these Regulations if it would not have been in United Kingdom waters but for stress of weather or any other circumstances which neither the master nor the owner or the charterer could have prevented.
@@ -131,7 +131,7 @@ those persons are not to be taken into account for the purpose of determining th
 
 (5) Nothing in these Regulations prohibits any ship, survival craft or person in distress from using any means at their disposal to attract attention, make known their position or obtain help.
 
-### 5. Exemptions[^key-778e5f138ab1b6f930b7f6f826961a9f]
+### 5. Exemptions[^c-778e5f138ab1b6f930b7f6f826961a9f]
 
 (1) The Secretary of State may grant an exemption from any provision of Chapter IV in respect of—
 
@@ -177,7 +177,7 @@ provided that the ship maintains, when practicable, a continuous listening watch
 
 (11) No exemption may be granted under paragraph (2) after 31st December 2023.
 
-### 6. Equivalents[^key-244732564f818c22c88e14cfd43c451a]
+### 6. Equivalents[^c-244732564f818c22c88e14cfd43c451a]
 
 (1) Where a provision of Chapter IV requires that—
 
@@ -201,7 +201,7 @@ the Secretary of State may approve any other radiocommunications appliance, radi
 - (b) received in legible form; and
 - (c) capable of being used for subsequent reference.
 
-### 7. Ambulatory reference[^key-dba0d35ed2ece580fdd80cda005817fb]
+### 7. Ambulatory reference[^c-dba0d35ed2ece580fdd80cda005817fb]
 
 (1) In these Regulations, any reference to Chapter IV, or Article 47 of the Radio Regulations, is to be construed—
 
@@ -220,31 +220,31 @@ the Secretary of State may approve any other radiocommunications appliance, radi
 
 ## PART 2 — Ship Requirements
 
-### 8. Functional requirements[^key-2d24866d21c4786007174f209a2cd2b5]
+### 8. Functional requirements[^c-2d24866d21c4786007174f209a2cd2b5]
 
 A ship, while at sea, must comply with each requirement in regulation 4 of Chapter IV.
 
 ## PART 3 — Requirements relating to Radio Installations, Equipment etc.
 
-### 9. Performance standards[^key-75a110e114f6812e577fbca438c0488d]
+### 9. Performance standards[^c-75a110e114f6812e577fbca438c0488d]
 
 All radio equipment fitted on or carried in a ship must—
 
-- (a) in relation to a United Kingdom ship, unless approved in accordance with the Merchant Shipping (Marine Equipment) Regulations 2025[^key-f81bf42a658736ae97083473b22c7193], be of a type approved by the Secretary of State or any person authorised by the Secretary of State; or
+- (a) in relation to a United Kingdom ship, unless approved in accordance with the Merchant Shipping (Marine Equipment) Regulations 2025[^c-f81bf42a658736ae97083473b22c7193], be of a type approved by the Secretary of State or any person authorised by the Secretary of State; or
 - (b) in relation to a non-United Kingdom ship, must conform to standards not inferior to those set out in Section 5 of Annex 1 to Merchant Shipping Notice 1874 (M+F) Amendment 4[^f00012].
 
-### 10. Radio installations and equipment[^key-e6716691c133af1937820b5fd4671248]
+### 10. Radio installations and equipment[^c-e6716691c133af1937820b5fd4671248]
 
 A ship must comply with each of the requirements in the following provisions of Chapter IV applicable to that ship—
 
 - (a) regulation 6 (radio installations);
 - (b) regulation 7 (radio equipment: general);
 - (c) regulation 8 (radio equipment: sea area A1);
-- (d)[^key-2290c03495b8f17e2a6e186c25ce5463] regulation 9 (radio equipment: sea area A2);
+- (d)[^c-2290c03495b8f17e2a6e186c25ce5463] regulation 9 (radio equipment: sea area A2);
 - (e) regulation 10 (radio equipment: sea area A3);
 - (f) regulation 11 (radio equipment: sea area A4).
 
-### 11. Watches, maintenance requirements, radio personnel and records etc.[^key-51e3a4ceea5d8da2c90981f06d2c5696]
+### 11. Watches, maintenance requirements, radio personnel and records etc.[^c-51e3a4ceea5d8da2c90981f06d2c5696]
 
 (1) A ship must comply with each of the requirements in the following provisions of Chapter IV applicable to that ship—
 
@@ -265,7 +265,7 @@ A ship must comply with each of the requirements in the following provisions of 
 - (b) important incidents connected with the radio service and the time such incidents occurred;
 - (c) the position of the ship at least once a day and the time at which the ship was in that position.
 
-### 12. Testing of equipment[^key-5a72f15491a02119e6b6b4b790d5f779]
+### 12. Testing of equipment[^c-5a72f15491a02119e6b6b4b790d5f779]
 
 (1) This regulation applies to a person who—
 
@@ -284,7 +284,7 @@ A ship must comply with each of the requirements in the following provisions of 
 
 ## PART 4 — Control and enforcement
 
-### 13. Offences and penalties[^key-3b7a9be1cedf64ebdd4a14f1aba7374f]
+### 13. Offences and penalties[^c-3b7a9be1cedf64ebdd4a14f1aba7374f]
 
 (1) If a ship proceeds or attempts to proceed to sea or on any voyage, or arrives within United Kingdom waters, in breach of any of the requirements of these Regulations, the owner and the master are each guilty of an offence in respect of each case of non-compliance.
 
@@ -304,7 +304,7 @@ is guilty of an offence in respect of each case of non-compliance.
 
 (4) It is a defence for a person charged with an offence under this regulation to prove that the person charged took all reasonable steps to avoid the commission of the offence.
 
-### 14. Detention[^key-2e94229cc74823349533c30453aad6dd]
+### 14. Detention[^c-2e94229cc74823349533c30453aad6dd]
 
 (1) For the purposes of this regulation, any reference to “the Act” is a reference to the Merchant Shipping Act 1995.
 
@@ -338,7 +338,7 @@ is guilty of an offence in respect of each case of non-compliance.
 
 (10) A ship must not be detained in a port where repair facilities are not readily available by reason of malfunction of the equipment for providing general radiocommunications referred to in regulation 4.1.8 of Chapter IV if the ship is capable of performing all other distress and safety functions as required by that regulation.
 
-### 15. Review of the Regulations[^key-46d246260737a4589295b939e2203b63]
+### 15. Review of the Regulations[^c-46d246260737a4589295b939e2203b63]
 
 (1) The Secretary of State must from time to time—
 
@@ -382,9 +382,9 @@ Regulation 2
 
 ### Part 1 — Amendments to the Merchant Shipping (Radio Installations) Regulations 1998
 
-**1.**[^key-a6f82aae5c17735ca2980034c474be8a] The Merchant Shipping (Radio Installations) Regulations 1998[^f00017] are amended as follows.
+**1.**[^c-a6f82aae5c17735ca2980034c474be8a] The Merchant Shipping (Radio Installations) Regulations 1998[^f00017] are amended as follows.
 
-**2.**[^key-7c28a7f3288749587627087cb7bc8a02] In regulation 2 (interpretation)—
+**2.**[^c-7c28a7f3288749587627087cb7bc8a02] In regulation 2 (interpretation)—
 
 - (a) omit the definition of “1984 Regulations”;
 - (b) after the definition of “cargo ship”, insert—
@@ -430,7 +430,7 @@ Regulation 2
 - (m) in the definition of “Radio Regulations”, for “International Telecommunication Convention” to the end substitute “Constitution and Convention of the International Telecommunication Union, 1992;”;
 - (n) omit the definitions of “similar stage of construction” and “tons”.
 
-**3.**[^key-eced2641132802769f0d6172d52aba41] For regulation 3 (application) substitute—
+**3.**[^c-eced2641132802769f0d6172d52aba41] For regulation 3 (application) substitute—
 
 > **3.** (1) Subject to paragraph (2), these Regulations apply to—
 >
@@ -454,7 +454,7 @@ Regulation 2
 
 .
 
-**4.**[^key-84ba06fff559c10bcb0256079be54b9d] In regulation 5 (equivalents and exemptions)—
+**4.**[^c-84ba06fff559c10bcb0256079be54b9d] In regulation 5 (equivalents and exemptions)—
 
 - (a) in paragraph (2), for “the bodies and laboratories of any EEA State” substitute “bodies and laboratories”;
 - (b) for paragraph (3) substitute—
@@ -489,12 +489,12 @@ Regulation 2
 
   .
 
-**5.**[^key-76330cbe9c02b85af1f5473df2533b38] In regulation 6 (performance standards), in paragraph (1)—
+**5.**[^c-76330cbe9c02b85af1f5473df2533b38] In regulation 6 (performance standards), in paragraph (1)—
 
 - (a) omit sub-paragraphs (a) and (c);
 - (b) omit “and those standards” to the end.
 
-**6.**[^key-ebeb243a6a2b26dc79543d8e86499428] In regulation 7 (interpretation of Part II)—
+**6.**[^c-ebeb243a6a2b26dc79543d8e86499428] In regulation 7 (interpretation of Part II)—
 
 - (a) in the definition of “DSC”, for “a Merchant Shipping Notice” substitute “Section 5 of Annex 1 to Merchant Shipping Notice 1874 (M+F) Amendment 4”;
 - (b) omit the definition of “EPIRB”;
@@ -506,20 +506,20 @@ Regulation 2
 
   .
 
-**7.**[^key-9a2fa1e6f703a86dc426f8164af6243e] For regulation 8, substitute—
+**7.**[^c-9a2fa1e6f703a86dc426f8164af6243e] For regulation 8, substitute—
 
 > **8.** A ship must comply with each requirement applicable to that ship prescribed by Merchant Shipping Notice 1903 (M).
 
 .
 
-**8.**[^key-fa6a13fc7d516cae1763949c630d4cea] Regulations 11 to 15 are omitted.
+**8.**[^c-fa6a13fc7d516cae1763949c630d4cea] Regulations 11 to 15 are omitted.
 
-**9.**[^key-b4bb940e94fa2f50c74c3786f902e550] In regulation 16 (radio watches)—
+**9.**[^c-b4bb940e94fa2f50c74c3786f902e550] In regulation 16 (radio watches)—
 
 - (a) in paragraph (1), in sub-paragraph (d), for “an INMARSAT” substitute “a recognised mobile satellite service”;
 - (b) omit paragraphs (3) and (4).
 
-**10.**[^key-32853445338de363c9209e5e44bb8627] In regulation 17 (sources of energy)—
+**10.**[^c-32853445338de363c9209e5e44bb8627] In regulation 17 (sources of energy)—
 
 - (a) in paragraph (2)—
   - (i) omit “INMARSAT”;
@@ -527,16 +527,16 @@ Regulation 2
   - (iii) after “the Merchant Shipping (Cargo Ship Construction) Regulations 1997[^f00023]” insert “or the Merchant Shipping (Passenger Ship Construction: Ships of Classes I, II or II(A)) Regulations 1998[^f00024]”.
 - (b) in paragraph (10), in sub-paragraphs (e) and (f), for “an INMARSAT” substitute “a”.
 
-**11.**[^key-3ae0158648b62da06be7b49e2a7d9170] In regulation 18 (serviceability and maintenance requirements), in paragraph (6), for “Merchant Shipping Notice No M 1475” substitute “Merchant Shipping Notice 1690 (M) Amendment 1[^f00025]”.
+**11.**[^c-3ae0158648b62da06be7b49e2a7d9170] In regulation 18 (serviceability and maintenance requirements), in paragraph (6), for “Merchant Shipping Notice No M 1475” substitute “Merchant Shipping Notice 1690 (M) Amendment 1[^f00025]”.
 
-**12.**[^key-444ef954797f586423f0dc25fa0442a4] In regulation 19 (radio personnel)—
+**12.**[^c-444ef954797f586423f0dc25fa0442a4] In regulation 19 (radio personnel)—
 
 - (a) in paragraph (3), for “subsection D of Section IIIA of Article 55 of the Radio Regulations” substitute “Section III of Article 47 of the Radio Regulations”; and
 - (b) in paragraph (4), for “sub-section C of Section IIIA of Article 55 of the Radio Regulations” substitute “Section III of Article 47 of the Radio Regulations”.
 
-**13.**[^key-b4720313d40a50f31fb0c44a788ade3e] Omit regulations 21 to 48.
+**13.**[^c-b4720313d40a50f31fb0c44a788ade3e] Omit regulations 21 to 48.
 
-**14.**[^key-090e53c2a372f32c8196032ae8355b6e] For regulation 49 (power to detain) substitute—
+**14.**[^c-090e53c2a372f32c8196032ae8355b6e] For regulation 49 (power to detain) substitute—
 
 > **49. Power to detain**
 >
@@ -574,9 +574,9 @@ Regulation 2
 
 .
 
-**15.**[^key-da000b906bc0752a4a8f9574580030c4] In regulation 50 (penalties), in paragraph (1), omit “radiotelephone operator or radio officer or a”.
+**15.**[^c-da000b906bc0752a4a8f9574580030c4] In regulation 50 (penalties), in paragraph (1), omit “radiotelephone operator or radio officer or a”.
 
-**16.**[^key-9703865f405b9e763e07a2477097dde1] After regulation 51 insert—
+**16.**[^c-9703865f405b9e763e07a2477097dde1] After regulation 51 insert—
 
 > **52. Review of Regulations**
 >
@@ -600,39 +600,39 @@ Regulation 2
 
 .
 
-**17.**[^key-6e5311bac248128f4c3bc4a2250bb31f] Omit Schedules 1 and 4 to 7.
+**17.**[^c-6e5311bac248128f4c3bc4a2250bb31f] Omit Schedules 1 and 4 to 7.
 
 ### Part 2 — Amendments to other instruments
 
-#### 18. The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^key-74153b087b115ba344311a9ff2d3aeca]
+#### 18. The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 1998[^c-74153b087b115ba344311a9ff2d3aeca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-74153b087b115ba344311a9ff2d3aeca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-74153b087b115ba344311a9ff2d3aeca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. The Merchant Shipping (Fees) Regulations 2018[^key-4220f9857db381bd0200d685ff86f5df]
+#### 20. The Merchant Shipping (Fees) Regulations 2018[^c-4220f9857db381bd0200d685ff86f5df]
 
 The Merchant Shipping (Fees) Regulations 2018[^f00027] are amended as follows.
 
-**21.**[^key-cbf9af86a16e4ebc8bc995504d5dfe07][^key-4220f9857db381bd0200d685ff86f5df] In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc) of Part 1 (surveys, inspections and applications for exemption), in Section H (radio and navigational equipment), in respect of the entry for the Merchant Shipping (Radio Installations) Regulations 1998, in the third column, at the end insert “2021/1316”.
+**21.**[^c-cbf9af86a16e4ebc8bc995504d5dfe07][^c-4220f9857db381bd0200d685ff86f5df] In Schedule 1 (fees under the Merchant Shipping Act 1995), in the table in paragraph 5 (fees for inspections, etc) of Part 1 (surveys, inspections and applications for exemption), in Section H (radio and navigational equipment), in respect of the entry for the Merchant Shipping (Radio Installations) Regulations 1998, in the third column, at the end insert “2021/1316”.
 
 ## SCHEDULE 2 — Equipment tests and reserve power checks
 
 Regulation 12
 
-**1.**[^key-ae1def9a006e60b86a4f9d582ac8b4b1] At least once every day—
+**1.**[^c-ae1def9a006e60b86a4f9d582ac8b4b1] At least once every day—
 
 - (a) the proper functioning of the DSC facilities must be tested, without radiation of signals, by use of the means provided on the equipment;
 - (b) batteries providing a source of energy for any part of the radio installations must be tested and, where necessary, brought up to the fully charged condition.
 
-**2.**[^key-b476b25dffb44119fe7e1e1d4c6734d7] At least once every week—
+**2.**[^c-b476b25dffb44119fe7e1e1d4c6734d7] At least once every week—
 
 - (a) subject to paragraph 3, the proper operation of the DSC facilities must be tested by means of a test call, when within communication range of a coast station fitted with DSC equipment;
 - (b) where the reserve source of energy is not a battery (for example, a motor generator), the reserve source of energy must be tested.
 
-**3.**[^key-cc68b19c2040c462d77f8092c38f5c70] Where a ship has been out of communication range of a coast station fitted with DSC equipment for a period of longer than one week, a test call must be made on the first opportunity that the ship is within communication range of such a coast station.
+**3.**[^c-cc68b19c2040c462d77f8092c38f5c70] Where a ship has been out of communication range of a coast station fitted with DSC equipment for a period of longer than one week, a test call must be made on the first opportunity that the ship is within communication range of such a coast station.
 
-**4.**[^key-fd85caee332bb196c4dab17edad030d0] At least once every month—
+**4.**[^c-fd85caee332bb196c4dab17edad030d0] At least once every month—
 
 - (a) each satellite EPIRB must be examined to determine its capability to operate properly, particularly its ability to float free (where required to do so) in the event of the ship sinking, its security and for signs of damage;
 - (b) each search and rescue locating device (radio or AIS) must be checked for security and signs of damage;
@@ -641,11 +641,11 @@ Regulation 12
   - (i) the security and condition of all batteries providing a source of energy for any part of a radio installation; and
   - (ii) the battery connections and compartment.
 
-**5.**[^key-fd5be3ae3631eb2b48de1af3ed62232d] In this Schedule—
+**5.**[^c-fd5be3ae3631eb2b48de1af3ed62232d] In this Schedule—
 
 - “AIS” means automatic identification system;
 - “DSC” means Digital Selective Calling being a technique using digital codes which enables a radio station to establish contact with, and transfer information to, another station or group of stations, and complying with the relevant recommendations as specified in Section 5 of Annex 1 to Merchant Shipping Notice 1874 (M+F) Amendment 4[^f00028];
-- “EPIRB” means an emergency position indicating radio beacon capable of transmitting a distress alert [^key-68613309d234a601a489cc41cccdeef6]... through the COSPAS/SARSAT polar orbiting satellite service operating in the 406 MHz band;
+- “EPIRB” means an emergency position indicating radio beacon capable of transmitting a distress alert [^c-68613309d234a601a489cc41cccdeef6]... through the COSPAS/SARSAT polar orbiting satellite service operating in the 406 MHz band;
 - “mobile-satellite service” means a radiocommunication service between—
   - (a) mobile earth stations and one or more space stations, or between space stations used by this service; or
   - (b) mobile earth stations by means of one or more space stations,
@@ -691,11 +691,11 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00001]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21). Sections 85 and 86 were amended by the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), sections 8 and 29(2) and Schedule 7. Section 85 was amended by the British Overseas Territories Act [2002 (c. 8)](https://www.legislation.gov.uk/ukpga/2002/8), section 2(3). Section 306A was inserted by the Deregulation Act [2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), section 106. There are other amendments but none is relevant.
 
-[^key-ccc0af4db9b28d2ca11f09ecc78228a7]: Commencement: Reg. 1 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-ccc0af4db9b28d2ca11f09ecc78228a7]: Commencement: Reg. 1 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-ce4947bab8a0830c2d6e2a4006e7106f]: Commencement: Reg. 2 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-ce4947bab8a0830c2d6e2a4006e7106f]: Commencement: Reg. 2 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-f512eac9da6e975a7ff0b5e8fcc99a29]: Commencement: Reg. 3 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-f512eac9da6e975a7ff0b5e8fcc99a29]: Commencement: Reg. 3 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
 [^f00002]: Footnote: Chapter IV in the Annex to the Convention (see footnote (c)) has been amended by International Maritime Organization (IMO) Resolutions MSC.1(45), MSC.6(48) (Cm 3927), MSC.13(57), MSC.27(61), MSC.69(69) (Cm 5771), MSC.123(75) (Cm 6587), MSC.152(78) (Cm 7205), MSC.201(81), MSC.256(84) and MSC.436(99). The amendments to Chapter IV are available from the International Maritime Organization of 4 Albert Embankment, London SE1 7SR or found on the Foreign and Commonwealth Office treaties database (https://treaties.fco.gov.uk/responsive/app/consolidatedSearch/).
 
@@ -707,61 +707,61 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00006]: Footnote: Cm 3145. The Constitution and Convention and their amendments may be found on the International Telecommunications Union website at https://www.itu.int/en/history/Pages/ConstitutionAndConvention.aspx. or found on the Foreign and Commonwealth Office treaties database (https://treaties.fco.gov.uk/awweb/pdfopener?md=1&did=71971). The Constitution and Convention were amended in 1994 (Cm 3779) (http://foto.archivalware.co.uk/data/Library2/pdf/1997-TS0065.pdf), 1998 (Cm 9512), 2002 (Cm 9513), 2006 (Cm 9514) and 2010 (Cm 9515).
 
-[^key-b541aaf7dda9da6b655bb47e8aac01ce]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2021/1316/regulation/3) inserted (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2023/1216/schedule/2/paragraph/4/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+[^c-b541aaf7dda9da6b655bb47e8aac01ce]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2021/1316/regulation/3) inserted (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/uksi/2023/1216/schedule/2/paragraph/4/2) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
 
-[^key-88e5a4bb32dd24039187010203ed4339]: Commencement: Reg. 4 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-88e5a4bb32dd24039187010203ed4339]: Commencement: Reg. 4 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-68a45ead1167180ec588696964ebe4c4]: Textual amendment: [Reg. 4(2)(ga)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4/2/ga) inserted (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2023/1216/schedule/2/paragraph/4/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
+[^c-68a45ead1167180ec588696964ebe4c4]: Textual amendment: [Reg. 4(2)(ga)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4/2/ga) inserted (13.12.2023) by [The Merchant Shipping (Small Workboats and Pilot Boats) Regulations 2023 (S.I. 2023/1216)](https://www.legislation.gov.uk/uksi/2023/1216), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1216/regulation/1/1), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/uksi/2023/1216/schedule/2/paragraph/4/3) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/1216/regulation/4), [6](https://www.legislation.gov.uk/uksi/2023/1216/regulation/6))
 
 [^f00007]: Footnote: [S.I. 1998/2070](https://www.legislation.gov.uk/uksi/1998/2070), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), [2004/302](https://www.legislation.gov.uk/uksi/2004/302), [2016/1025](https://www.legislation.gov.uk/uksi/2016/1025) and this instrument; there are other amending instruments but none is relevant.
 
 [^f00008]: Footnote: [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302), [2010/680](https://www.legislation.gov.uk/uksi/2010/680), [2010/1075](https://www.legislation.gov.uk/uksi/2010/1075), [2012/2636](https://www.legislation.gov.uk/uksi/2012/2636), [2018/1221](https://www.legislation.gov.uk/uksi/2018/1221) and [2020/1222](https://www.legislation.gov.uk/uksi/2020/1222); there are other amending instruments but none is relevant.
 
-[^key-ad918b5a855ee7f396c9602405012ce2]: Textual amendment: Words in [reg. 4(2)(j)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4/2/j) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/28) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
+[^c-ad918b5a855ee7f396c9602405012ce2]: Textual amendment: Words in [reg. 4(2)(j)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/4/2/j) substituted (19.12.2022) by [The Merchant Shipping (High Speed Craft) Regulations 2022 (S.I. 2022/1219)](https://www.legislation.gov.uk/uksi/2022/1219), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/1/1), [Sch. para. 28](https://www.legislation.gov.uk/uksi/2022/1219/schedule/paragraph/28) (with [reg. 4(2)-(4)](https://www.legislation.gov.uk/uksi/2022/1219/regulation/4/2))
 
 [^f00010]: Footnote: Regulation 33 in Chapter V of the Convention (safety of navigation) places an obligation on the master to provide assistance to persons in distress at sea and this obligation is implemented in the Merchant Shipping (Safety of Navigation) Regulations 2020 ([S.I. 2020/673](https://www.legislation.gov.uk/uksi/2020/673)).
 
-[^key-778e5f138ab1b6f930b7f6f826961a9f]: Commencement: Reg. 5 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-778e5f138ab1b6f930b7f6f826961a9f]: Commencement: Reg. 5 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-244732564f818c22c88e14cfd43c451a]: Commencement: Reg. 6 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-244732564f818c22c88e14cfd43c451a]: Commencement: Reg. 6 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-dba0d35ed2ece580fdd80cda005817fb]: Commencement: Reg. 7 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-dba0d35ed2ece580fdd80cda005817fb]: Commencement: Reg. 7 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-2d24866d21c4786007174f209a2cd2b5]: Commencement: Reg. 8 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-2d24866d21c4786007174f209a2cd2b5]: Commencement: Reg. 8 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-75a110e114f6812e577fbca438c0488d]: Commencement: Reg. 9 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-75a110e114f6812e577fbca438c0488d]: Commencement: Reg. 9 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-f81bf42a658736ae97083473b22c7193]: Textual amendment: Word in [reg. 9(a)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/9/a) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/17) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-f81bf42a658736ae97083473b22c7193]: Textual amendment: Word in [reg. 9(a)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/9/a) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/17) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
 [^f00012]: Footnote: The standards are set out in column 2 of section 5 of Annex 1 of Merchant Shipping Notice 1874 (M+F) Amendment 4, which is available on https://www.gov.uk/government/publications/msn-1874mf-amendment-4-marine-directive-other-approval-and-standards and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-e6716691c133af1937820b5fd4671248]: Commencement: Reg. 10 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-e6716691c133af1937820b5fd4671248]: Commencement: Reg. 10 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-2290c03495b8f17e2a6e186c25ce5463]: Textual amendment: [Regs. 10(d)-(f)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/10/d) substituted (15.4.2026) by [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [Sch. Pt. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/1/paragraph/3/2)
+[^c-2290c03495b8f17e2a6e186c25ce5463]: Textual amendment: [Regs. 10(d)-(f)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/10/d) substituted (15.4.2026) by [The Merchant Shipping (EPIRB and PLB Registration and Radiocommunications) (Amendment) Regulations 2026 (S.I. 2026/306)](https://www.legislation.gov.uk/uksi/2026/306), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/306/regulation/1/1), [Sch. Pt. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2026/306/schedule/part/1/paragraph/3/2)
 
-[^key-51e3a4ceea5d8da2c90981f06d2c5696]: Commencement: Reg. 11 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-51e3a4ceea5d8da2c90981f06d2c5696]: Commencement: Reg. 11 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
 [^f00013]: Footnote: Marine Guidance Note (MGN) 641(M) is available on https://www.gov.uk/government/collections/marine-guidance-notices-mgns and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-5a72f15491a02119e6b6b4b790d5f779]: Commencement: Reg. 12 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-5a72f15491a02119e6b6b4b790d5f779]: Commencement: Reg. 12 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-3b7a9be1cedf64ebdd4a14f1aba7374f]: Commencement: Reg. 13 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-3b7a9be1cedf64ebdd4a14f1aba7374f]: Commencement: Reg. 13 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-2e94229cc74823349533c30453aad6dd]: Commencement: Reg. 14 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-2e94229cc74823349533c30453aad6dd]: Commencement: Reg. 14 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
 [^f00014]: Footnote: Section 284 was amended by Schedule 1 to the Merchant Shipping and Maritime Security Act [1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28) and [S.I. 2015/664](https://www.legislation.gov.uk/uksi/2015/664).
 
 [^f00015]: Footnote: Section 96(7) was amended by Part 1 of Schedule 10 to the Tribunals, Courts and Enforcement Act [2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15) and by Schedule 11 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4). Section 96(10) was repealed by Schedule 4 to the Arbitration Act [1996 (c. 23)](https://www.legislation.gov.uk/ukpga/1996/23).
 
-[^key-46d246260737a4589295b939e2203b63]: Commencement: Reg. 15 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-46d246260737a4589295b939e2203b63]: Commencement: Reg. 15 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
 [^f00016]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by the Enterprise Act [2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), section 19 and the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16), Schedule 8.
 
-[^key-a6f82aae5c17735ca2980034c474be8a]: Commencement: Sch. 1 para. 1 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-a6f82aae5c17735ca2980034c474be8a]: Commencement: Sch. 1 para. 1 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
 [^f00017]: Footnote: [S.I. 1998/2070](https://www.legislation.gov.uk/uksi/1998/2070), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687); there are other amending instruments but none is relevant.
 
-[^key-7c28a7f3288749587627087cb7bc8a02]: Commencement: Sch. 1 para. 2 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-7c28a7f3288749587627087cb7bc8a02]: Commencement: Sch. 1 para. 2 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
 [^f00018]: Footnote: Merchant Shipping Notice 1837(M) Amendment 2 is available on https://www.gov.uk/government/publications/msn-1837-m-amendment-2-categorisation-of-waters and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
@@ -769,64 +769,64 @@ An Explanatory Memorandum is published alongside the instrument on www.legislati
 
 [^f00020]: Footnote: [2006 c. 36](https://www.legislation.gov.uk/ukpga/2006/36).
 
-[^key-eced2641132802769f0d6172d52aba41]: Commencement: Sch. 1 para. 3 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-eced2641132802769f0d6172d52aba41]: Commencement: Sch. 1 para. 3 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
 [^f00021]: Footnote: [S.I. 2021/1316](https://www.legislation.gov.uk/uksi/2021/1316).
 
-[^key-84ba06fff559c10bcb0256079be54b9d]: Commencement: Sch. 1 para. 4 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-84ba06fff559c10bcb0256079be54b9d]: Commencement: Sch. 1 para. 4 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
 [^f00022]: Footnote: Merchant Shipping Notice 1903 (M) is available on https://www.gov.uk/government/collections/merchant-shipping-notices-msns and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-76330cbe9c02b85af1f5473df2533b38]: Commencement: Sch. 1 para. 5 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-76330cbe9c02b85af1f5473df2533b38]: Commencement: Sch. 1 para. 5 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-ebeb243a6a2b26dc79543d8e86499428]: Commencement: Sch. 1 para. 6 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-ebeb243a6a2b26dc79543d8e86499428]: Commencement: Sch. 1 para. 6 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-9a2fa1e6f703a86dc426f8164af6243e]: Commencement: Sch. 1 para. 7 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-9a2fa1e6f703a86dc426f8164af6243e]: Commencement: Sch. 1 para. 7 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-fa6a13fc7d516cae1763949c630d4cea]: Commencement: Sch. 1 para. 8 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-fa6a13fc7d516cae1763949c630d4cea]: Commencement: Sch. 1 para. 8 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-b4bb940e94fa2f50c74c3786f902e550]: Commencement: Sch. 1 para. 9 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-b4bb940e94fa2f50c74c3786f902e550]: Commencement: Sch. 1 para. 9 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-32853445338de363c9209e5e44bb8627]: Commencement: Sch. 1 para. 10 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-32853445338de363c9209e5e44bb8627]: Commencement: Sch. 1 para. 10 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
 [^f00023]: Footnote: [S.I. 1997/1509](https://www.legislation.gov.uk/uksi/1997/1509), amended by [S.I. 1999/643](https://www.legislation.gov.uk/uksi/1999/643); there are other amending instruments but none is relevant.
 
 [^f00024]: Footnote: [S.I. 1998/2514](https://www.legislation.gov.uk/uksi/1998/2514), amended by [S.I. 2000/2687](https://www.legislation.gov.uk/uksi/2000/2687); there are other amending instruments but none is relevant.
 
-[^key-3ae0158648b62da06be7b49e2a7d9170]: Commencement: Sch. 1 para. 11 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-3ae0158648b62da06be7b49e2a7d9170]: Commencement: Sch. 1 para. 11 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
 [^f00025]: Footnote: Merchant Shipping Notice 1690 (M) is available on https://www.gov.uk/government/collections/merchant-shipping-notices-msns and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-444ef954797f586423f0dc25fa0442a4]: Commencement: Sch. 1 para. 12 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-444ef954797f586423f0dc25fa0442a4]: Commencement: Sch. 1 para. 12 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-b4720313d40a50f31fb0c44a788ade3e]: Commencement: Sch. 1 para. 13 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-b4720313d40a50f31fb0c44a788ade3e]: Commencement: Sch. 1 para. 13 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-090e53c2a372f32c8196032ae8355b6e]: Commencement: Sch. 1 para. 14 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-090e53c2a372f32c8196032ae8355b6e]: Commencement: Sch. 1 para. 14 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-da000b906bc0752a4a8f9574580030c4]: Commencement: Sch. 1 para. 15 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-da000b906bc0752a4a8f9574580030c4]: Commencement: Sch. 1 para. 15 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-9703865f405b9e763e07a2477097dde1]: Commencement: Sch. 1 para. 16 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-9703865f405b9e763e07a2477097dde1]: Commencement: Sch. 1 para. 16 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-6e5311bac248128f4c3bc4a2250bb31f]: Commencement: Sch. 1 para. 17 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-6e5311bac248128f4c3bc4a2250bb31f]: Commencement: Sch. 1 para. 17 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-74153b087b115ba344311a9ff2d3aeca]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/19) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
+[^c-74153b087b115ba344311a9ff2d3aeca]: Textual amendment: [Sch. 1 para. 18](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/18), [19](https://www.legislation.gov.uk/uksi/2021/1316/schedule/1/paragraph/19) revoked (12.12.2025) by [The Merchant Shipping (Vessels in Commercial Use for Sport or Pleasure) Regulations 2025 (S.I. 2025/1195)](https://www.legislation.gov.uk/uksi/2025/1195), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1195/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/1195/schedule/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1195/regulation/4))
 
-[^key-4220f9857db381bd0200d685ff86f5df]: Commencement: Sch. 1 para. 20 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-4220f9857db381bd0200d685ff86f5df]: Commencement: Sch. 1 para. 20 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
 [^f00027]: Footnote: [S.I. 2018/1104](https://www.legislation.gov.uk/uksi/2018/1104), to which there are amendments not relevant to these Regulations.
 
-[^key-cbf9af86a16e4ebc8bc995504d5dfe07]: Commencement: Sch. 1 para. 21 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-cbf9af86a16e4ebc8bc995504d5dfe07]: Commencement: Sch. 1 para. 21 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-ae1def9a006e60b86a4f9d582ac8b4b1]: Commencement: Sch. 2 para. 1 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-ae1def9a006e60b86a4f9d582ac8b4b1]: Commencement: Sch. 2 para. 1 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-b476b25dffb44119fe7e1e1d4c6734d7]: Commencement: Sch. 2 para. 2 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-b476b25dffb44119fe7e1e1d4c6734d7]: Commencement: Sch. 2 para. 2 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-cc68b19c2040c462d77f8092c38f5c70]: Commencement: Sch. 2 para. 3 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-cc68b19c2040c462d77f8092c38f5c70]: Commencement: Sch. 2 para. 3 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-fd85caee332bb196c4dab17edad030d0]: Commencement: Sch. 2 para. 4 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-fd85caee332bb196c4dab17edad030d0]: Commencement: Sch. 2 para. 4 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
-[^key-fd5be3ae3631eb2b48de1af3ed62232d]: Commencement: Sch. 2 para. 5 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
+[^c-fd5be3ae3631eb2b48de1af3ed62232d]: Commencement: Sch. 2 para. 5 in force at 24.12.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/1316/regulation/1/1)
 
 [^f00028]: Footnote: Merchant Shipping Notice 1874 (M+F) Amendment 4 is available on https://www.gov.uk/government/publications/msn-1874mf-amendment-4-marine-directive-other-approval-and-standards and in hard copy from the Maritime and Coastguard Agency (MCA) of Spring Place, 105 Commercial Road, Southampton SO15 1EG (telephone 020 3817 2000 and email infoline@mcga.gov.uk).
 
-[^key-68613309d234a601a489cc41cccdeef6]: Textual amendment: Word in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2021/1316/schedule/2/paragraph/5) omitted (29.3.2023) by virtue of [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2023/246/regulation/20)
+[^c-68613309d234a601a489cc41cccdeef6]: Textual amendment: Word in [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/2021/1316/schedule/2/paragraph/5) omitted (29.3.2023) by virtue of [The Merchant Shipping (Cargo and Passenger Ship Construction and Miscellaneous Amendments) Regulations 2023 (S.I. 2023/246)](https://www.legislation.gov.uk/uksi/2023/246), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/246/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/2023/246/regulation/20)

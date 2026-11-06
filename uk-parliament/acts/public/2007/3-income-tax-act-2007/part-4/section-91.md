@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. How relief works[^key-74fa2ee1448c55e4933518c93ca0759e]
+## 91. How relief works[^c-74fa2ee1448c55e4933518c93ca0759e]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ If the relievable loss has not been deducted in full at Steps 1 to 4, the person
 
 ## Annotations
 
-[^key-74fa2ee1448c55e4933518c93ca0759e]: Modification: [Ss. 89-91](https://www.legislation.gov.uk/ukpga/2007/3/section/89) applied (with application in accordance with Sch. 1 para. 64 of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 para. 71(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/71/2)
+[^c-74fa2ee1448c55e4933518c93ca0759e]: Modification: [Ss. 89-91](https://www.legislation.gov.uk/ukpga/2007/3/section/89) applied (with application in accordance with Sch. 1 para. 64 of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 1 para. 71(2)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/1/paragraph/71/2)

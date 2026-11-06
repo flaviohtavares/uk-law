@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 49. Implementation strategy: approval[^key-9a9fe287f4b5ec9eede6020d4221e50e]
+## 49. Implementation strategy: approval[^c-9a9fe287f4b5ec9eede6020d4221e50e]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where the trustees of an unconnected multiple employer scheme are required to su
 
 ## Annotations
 
-[^key-9a9fe287f4b5ec9eede6020d4221e50e]: Commencement: Reg. 49 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-9a9fe287f4b5ec9eede6020d4221e50e]: Commencement: Reg. 49 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

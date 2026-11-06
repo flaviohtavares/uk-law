@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 191. Legal aid and advice[^key-8661eb99baab1e0c23c79fbb5695b05a][^M_I_67130d5a-62c7-4d7a-f5fb-80b10c3fa67a][^key-ba4271652c9b2abac4b0e973f30c025e]
+## 191. Legal aid and advice[^c-8661eb99baab1e0c23c79fbb5695b05a][^M_I_67130d5a-62c7-4d7a-f5fb-80b10c3fa67a][^c-ba4271652c9b2abac4b0e973f30c025e]
 
 *Extent: S*
 
@@ -278,8 +278,8 @@ After section 28A of the Legal Aid (Scotland) Act 1986 (c.47) insert—
 
 ## Annotations
 
-[^key-8661eb99baab1e0c23c79fbb5695b05a]: Commencement: S. 191 in force at 31.1.2012 for specified purposes by [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), art. 2(1), Sch.
+[^c-8661eb99baab1e0c23c79fbb5695b05a]: Commencement: S. 191 in force at 31.1.2012 for specified purposes by [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), art. 2(1), Sch.
 
 [^M_I_67130d5a-62c7-4d7a-f5fb-80b10c3fa67a]: Commencement: S. 191 in force at 26.3.2012 for specified purposes by [S.S.I. 2012/1](https://www.legislation.gov.uk/ssi/2012/1), art. 2(1), Sch.
 
-[^key-ba4271652c9b2abac4b0e973f30c025e]: Commencement: S. 191 in force at 24.6.2013 in so far as not already in force by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-ba4271652c9b2abac4b0e973f30c025e]: Commencement: S. 191 in force at 24.6.2013 in so far as not already in force by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

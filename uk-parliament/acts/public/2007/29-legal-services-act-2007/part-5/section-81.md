@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 81. Procedural requirements relating to recommendations under section 80[^key-e944c20cc9a64ce5b21daa1d89292f25]
+## 81. Procedural requirements relating to recommendations under section 80[^c-e944c20cc9a64ce5b21daa1d89292f25]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e944c20cc9a64ce5b21daa1d89292f25]: Commencement: S. 81 in force at 30.11.2010 by [S.I. 2010/2842](https://www.legislation.gov.uk/uksi/2010/2842), [art. 2](https://www.legislation.gov.uk/uksi/2010/2842/article/2)
+[^c-e944c20cc9a64ce5b21daa1d89292f25]: Commencement: S. 81 in force at 30.11.2010 by [S.I. 2010/2842](https://www.legislation.gov.uk/uksi/2010/2842), [art. 2](https://www.legislation.gov.uk/uksi/2010/2842/article/2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 132. Reduction in pensions in cases of wide age disparity[^key-42b673ae5a2423b53ee43699da2a0757]
+## 132. Reduction in pensions in cases of wide age disparity[^c-42b673ae5a2423b53ee43699da2a0757]
 
 *Extent: S*
 
-(1) This regulation applies if, on the death of a member of this scheme, a surviving adult’s pension[^key-863d17d44756956ee18200c272f1af94] becomes payable to a surviving adult who is more than 12 years younger than the member.
+(1) This regulation applies if, on the death of a member of this scheme, a surviving adult’s pension[^c-863d17d44756956ee18200c272f1af94] becomes payable to a surviving adult who is more than 12 years younger than the member.
 
 (2) The annual rate of the surviving adult’s pension is reduced by the lower of—
 
@@ -31,6 +31,6 @@ where N is the number of whole years by which the surviving adult is younger tha
 
 ## Annotations
 
-[^key-42b673ae5a2423b53ee43699da2a0757]: Commencement: Reg. 132 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-42b673ae5a2423b53ee43699da2a0757]: Commencement: Reg. 132 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-863d17d44756956ee18200c272f1af94]: Textual amendment: Word in [reg. 132(1)](https://www.legislation.gov.uk/ssi/2015/142/regulation/132/1) inserted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2015/325/regulation/5)
+[^c-863d17d44756956ee18200c272f1af94]: Textual amendment: Word in [reg. 132(1)](https://www.legislation.gov.uk/ssi/2015/142/regulation/132/1) inserted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2015/325/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Notice requiring owner of land to carry out operations[^key-73acc80e23a4951c21d5b8ee7cbbc469]
+## 35. Notice requiring owner of land to carry out operations[^c-73acc80e23a4951c21d5b8ee7cbbc469]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ so as to avoid or reduce threats to human welfare.
 
 ## Annotations
 
-[^key-73acc80e23a4951c21d5b8ee7cbbc469]: Commencement: S. 35 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-73acc80e23a4951c21d5b8ee7cbbc469]: Commencement: S. 35 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 51. Annual review meeting[^key-0528987f784a597ca1849a84e3fd4f94]
+## Article 51. Annual review meeting[^c-0528987f784a597ca1849a84e3fd4f94]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0528987f784a597ca1849a84e3fd4f94]: Textual amendment: [Art. 51](https://www.legislation.gov.uk/eur/2013/1303/article/51) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2019/785/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0528987f784a597ca1849a84e3fd4f94]: Textual amendment: [Art. 51](https://www.legislation.gov.uk/eur/2013/1303/article/51) omitted (31.12.2020) by virtue of [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [9(5)](https://www.legislation.gov.uk/uksi/2019/785/regulation/9/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 144. Suspension of rent etc.[^key-1f14396c47d9b2a7b1715b388165d6de]
+## 144. Suspension of rent etc.[^c-1f14396c47d9b2a7b1715b388165d6de]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ does not invalidate the order or, as the case may be, the revocation concerned.
 
 ## Annotations
 
-[^key-1f14396c47d9b2a7b1715b388165d6de]: Commencement: [S. 144](https://www.legislation.gov.uk/asp/2006/1/section/144) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-1f14396c47d9b2a7b1715b388165d6de]: Commencement: [S. 144](https://www.legislation.gov.uk/asp/2006/1/section/144) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

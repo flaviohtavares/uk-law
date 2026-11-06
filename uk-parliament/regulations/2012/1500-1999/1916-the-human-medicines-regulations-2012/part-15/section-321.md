@@ -38,14 +38,14 @@ summary: ''
 
 - (a) a manufacturer's licence;
 - (b) a wholesale dealer's licence;
-- (c) a UK[^key-5584f2e2274bf5b2a551d035c98fc41a] marketing authorisation;
-- (ca)[^key-c1f52ba2e7fd55d17899bba39fc638c6] ...
+- (c) a UK[^c-5584f2e2274bf5b2a551d035c98fc41a] marketing authorisation;
+- (ca)[^c-c1f52ba2e7fd55d17899bba39fc638c6] ...
 - (d) an Article 126a authorisation;
 - (e) a certificate of registration; or
 - (f) a traditional herbal registration.
 
 ## Annotations
 
-[^key-5584f2e2274bf5b2a551d035c98fc41a]: Textual amendment: Word in reg. 321(5)(c) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [218(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/218/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5584f2e2274bf5b2a551d035c98fc41a]: Textual amendment: Word in reg. 321(5)(c) inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [218(a)](https://www.legislation.gov.uk/uksi/2019/775/regulation/218/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c1f52ba2e7fd55d17899bba39fc638c6]: Textual amendment: Reg. 321(5)(ca) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2024/832/regulation/127)
+[^c-c1f52ba2e7fd55d17899bba39fc638c6]: Textual amendment: Reg. 321(5)(ca) omitted (1.1.2025) by virtue of [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [127](https://www.legislation.gov.uk/uksi/2024/832/regulation/127)

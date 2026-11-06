@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 146. Interpretation: pecuniary interests.[^c21333791][^c21333801][^key-66f18b4c8fc34c900604715f48b96d36][^key-43c54e8cc7996f7b518eba2519996e36]
+## 146. Interpretation: pecuniary interests.[^c21333791][^c21333801][^c-66f18b4c8fc34c900604715f48b96d36][^c-43c54e8cc7996f7b518eba2519996e36]
 
 *Extent: N.I.*
 
@@ -47,9 +47,9 @@ but shall not be so treated—
 
 [^c21333801]: Modification: S. 146 applied (with modifications) (1.4.2009) by [Health and Social Care (Reform) Act (Northern Ireland) 2009 (c. 1)](https://www.legislation.gov.uk/nia/2009/1), [ss. 7(2)](https://www.legislation.gov.uk/nia/2009/1/section/7/2), [34(3)](https://www.legislation.gov.uk/nia/2009/1/section/34/3), [Sch. 2 para. 11(1)](https://www.legislation.gov.uk/nia/2009/1/schedule/2/paragraph/11/1) (with [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/nia/2009/1/schedule/2/paragraph/11/2)); [S.R. 2009/114](https://www.legislation.gov.uk/nisr/2009/114), [art. 2](https://www.legislation.gov.uk/nisr/2009/114/article/2)
 
-[^key-66f18b4c8fc34c900604715f48b96d36]: Modification: S. 146 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 2 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/20) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-66f18b4c8fc34c900604715f48b96d36]: Modification: S. 146 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 2 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/2/paragraph/20) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
-[^key-43c54e8cc7996f7b518eba2519996e36]: Modification: S. 146 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/1/paragraph/20) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
+[^c-43c54e8cc7996f7b518eba2519996e36]: Modification: S. 146 applied (with modifications) (1.4.2012) by [Justice Act (Northern Ireland) 2011 (c. 24)](https://www.legislation.gov.uk/nia/2011/24), [s. 111(3)](https://www.legislation.gov.uk/nia/2011/24/section/111/3), [Sch. 1 para. 20](https://www.legislation.gov.uk/nia/2011/24/schedule/1/paragraph/20) (with s. 106(4)); [S.R. 2012/142](https://www.legislation.gov.uk/nisr/2012/142), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/142/article/2/a)
 
 [^c16964901]: Textual amendment: [1965 c.13 (NI)](https://www.legislation.gov.uk/apni/1965/13), [1970 c.9 (NI)](https://www.legislation.gov.uk/apni/1970/9), [1972 NI 14](https://www.legislation.gov.uk/nisi/1972), [1981 NI 3](https://www.legislation.gov.uk/nisi/1981)
 

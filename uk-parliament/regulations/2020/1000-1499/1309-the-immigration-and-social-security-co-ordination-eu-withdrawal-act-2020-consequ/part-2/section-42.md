@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Amendment of the Registration of Marriages Regulations 2015[^key-70c25e9f335e9b6164078da7733b35e0]
+## 42. Amendment of the Registration of Marriages Regulations 2015[^c-70c25e9f335e9b6164078da7733b35e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-70c25e9f335e9b6164078da7733b35e0]: Commencement: Reg. 42 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
+[^c-70c25e9f335e9b6164078da7733b35e0]: Commencement: Reg. 42 in force at 1.7.2021, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1/2/c)
 
 [^c24399001]: Marginal citation: [S.I. 2015/207](https://www.legislation.gov.uk/uksi/2015/207).
 

@@ -50,15 +50,15 @@ The Treasury make these Regulations in exercise of the powers conferred by secti
 
 In accordance with section 51(1) of that Act, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU, to make the following provision in relation to value added tax. In accordance with section 52(2) of that Act, the Treasury consider it appropriate in consequence of, or otherwise in connection with, the withdrawal of the United Kingdom from the EU, for these Regulations to come into force on such day or days as the Treasury may by regulations under section 52 of that Act appoint.
 
-## 1. Citation and commencement[^key-2c8834e6a0e03688134007f7bd34950f]
+## 1. Citation and commencement[^c-2c8834e6a0e03688134007f7bd34950f]
 
  These Regulations may be cited as the Value Added Tax (Miscellaneous Amendments to the Value Added Tax Act 1994 and Revocation) (EU Exit) Regulations 2020 and come into force on such day or days as the Treasury may by regulations under section 52 of the Taxation (Cross-border Trade) Act 2018 appoint.
 
-## 2. Amendment of the Value Added Tax Act 1994[^key-2b0d9b1adc2d96b494d3b488aaf4cd31]
+## 2. Amendment of the Value Added Tax Act 1994[^c-2b0d9b1adc2d96b494d3b488aaf4cd31]
 
 The Value Added Tax Act 1994 [^c24443521] is amended by regulations 3 to 7 as follows.
 
-## 3. Refund of NI acquisition VAT to persons constructing certain buildings[^key-e7cf43967ae352b5185289b592f3ac86]
+## 3. Refund of NI acquisition VAT to persons constructing certain buildings[^c-e7cf43967ae352b5185289b592f3ac86]
 
 (1) Schedule 9ZA [^c24443531] (VAT on acquisitions in Northern Ireland from member States) is amended as follows.
 
@@ -112,7 +112,7 @@ The Value Added Tax Act 1994 [^c24443521] is amended by regulations 3 to 7 as fo
 
 (5) In paragraph 36(3), after “paragraph” insert “ 18A or ”.
 
-## 4. Taxation under the laws of member States[^key-e1a9fcdddbdc3c7b7c7ee869bb4a308f]
+## 4. Taxation under the laws of member States[^c-e1a9fcdddbdc3c7b7c7ee869bb4a308f]
 
  In paragraph 81 of Schedule 9ZA, after subsection (5) insert—
 
@@ -128,7 +128,7 @@ The Value Added Tax Act 1994 [^c24443521] is amended by regulations 3 to 7 as fo
 
 .
 
-## 5. Amendment of Schedule 9ZB[^key-31599628c754db7a77f09a2c0ca6fa7e]
+## 5. Amendment of Schedule 9ZB[^c-31599628c754db7a77f09a2c0ca6fa7e]
 
 In Schedule 9ZB [^c24443551] (goods removed to or from Northern Ireland and supply rules), in paragraph 6 (relief for qualifying Northern Ireland goods)—
 
@@ -141,7 +141,7 @@ In Schedule 9ZB [^c24443551] (goods removed to or from Northern Ireland and supp
   ;
 - (d) in sub-paragraph (3), for “(2)” substitute “ (2)(a) ”.
 
-## 6.[^key-5a6006035f0fa500a7e628aa2950d9c5]
+## 6.[^c-5a6006035f0fa500a7e628aa2950d9c5]
 
 In that Schedule, after paragraph 31 insert—
 
@@ -174,11 +174,11 @@ In that Schedule, after paragraph 31 insert—
 
 .
 
-## 7.[^key-bb0b44755894d5c34ef926267455d354]
+## 7.[^c-bb0b44755894d5c34ef926267455d354]
 
 In paragraph 12 of that Schedule, in sub-paragraph (2), after “3(1)” insert “ or 31A(3) ”.
 
-## 8. Revocation of the Finance Act 2011, Schedule 23 (Data-gathering Powers) (Amendment) (EU Exit) Regulations 2019[^key-bfcae27df4726cf471a8eb367cbc6892]
+## 8. Revocation of the Finance Act 2011, Schedule 23 (Data-gathering Powers) (Amendment) (EU Exit) Regulations 2019[^c-bfcae27df4726cf471a8eb367cbc6892]
 
 The Finance Act 2011, Schedule 23 (Data-gathering Powers) (Amendment) (EU Exit) Regulations 2019 [^c24443571] are revoked.
 
@@ -210,30 +210,30 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^c24443511]: Marginal citation: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22). Section 51(1)(a) of that Act permits “the appropriate Minister” to make provision relating to value added tax. For the purposes of these Regulations, “the appropriate Minister” is the Treasury (see [section 51(4)(b)](https://www.legislation.gov.uk/ukpga/2018/22/section/51/4/b) of that Act).
 
-[^key-2c8834e6a0e03688134007f7bd34950f]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-2c8834e6a0e03688134007f7bd34950f]: Commencement: Reg. 1 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-2b0d9b1adc2d96b494d3b488aaf4cd31]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-2b0d9b1adc2d96b494d3b488aaf4cd31]: Commencement: Reg. 2 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24443521]: Marginal citation: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-e7cf43967ae352b5185289b592f3ac86]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-e7cf43967ae352b5185289b592f3ac86]: Commencement: Reg. 3 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24443531]: Marginal citation: Schedule 9ZA was inserted by paragraph 2 of Schedule 2 to the [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26).
 
 [^c24443541]: Marginal citation: Section 35 of the Value Added Tax Act 1994 was amended by section 32 of the [Finance Act 1995 (c. 4)](https://www.legislation.gov.uk/ukpga/1995/4), [section 30](https://www.legislation.gov.uk/ukpga/1995/4/section/30) of the [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [S.I](https://www.legislation.gov.uk/ukpga/1996/8/section/I). 2001/2305, paragraph 4 of Schedule 29 to the [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14) and paragraph 37 of Schedule 8 to the Taxation (Cross-border Trade) Act 2018. The amendments made by the last-named Act are not yet in force. Sub-section 4A was added by [S.I. 2001/2305](https://www.legislation.gov.uk/uksi/2001/2305).
 
-[^key-e1a9fcdddbdc3c7b7c7ee869bb4a308f]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-e1a9fcdddbdc3c7b7c7ee869bb4a308f]: Commencement: Reg. 4 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-31599628c754db7a77f09a2c0ca6fa7e]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-31599628c754db7a77f09a2c0ca6fa7e]: Commencement: Reg. 5 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24443551]: Marginal citation: Schedule 9ZB was inserted by paragraph 2 of Schedule 2 to the [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26).
 
 [^c24443561]: Marginal citation: Section 30C of the Taxation (Cross-border Trade) Act 2018 was inserted by section 2 of the [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26).
 
-[^key-5a6006035f0fa500a7e628aa2950d9c5]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-5a6006035f0fa500a7e628aa2950d9c5]: Commencement: Reg. 6 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-bb0b44755894d5c34ef926267455d354]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-bb0b44755894d5c34ef926267455d354]: Commencement: Reg. 7 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
-[^key-bfcae27df4726cf471a8eb367cbc6892]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-bfcae27df4726cf471a8eb367cbc6892]: Commencement: Reg. 8 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24443571]: Marginal citation: [S.I. 2019/397](https://www.legislation.gov.uk/uksi/2019/397).

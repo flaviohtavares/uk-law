@@ -32,11 +32,11 @@ Section 154.
 
 ### Membership of Transport for London
 
-**2.** (1) Subject to sub-paragraph (2), Transport for London shall consist of not less than eight nor more than seventeen[^key-286831d88e6d0336a666805a5bca70d6] members, all of whom shall be appointed by the Mayor.
+**2.** (1) Subject to sub-paragraph (2), Transport for London shall consist of not less than eight nor more than seventeen[^c-286831d88e6d0336a666805a5bca70d6] members, all of whom shall be appointed by the Mayor.
 
-(2) The Mayor may choose to be a member of Transport for London and where he does so he shall appoint not less than seven nor more than sixteen[^key-b729739591ec9b1801d7dc14af45cba6] other members under sub-paragraph (1) above.
+(2) The Mayor may choose to be a member of Transport for London and where he does so he shall appoint not less than seven nor more than sixteen[^c-b729739591ec9b1801d7dc14af45cba6] other members under sub-paragraph (1) above.
 
-(2A)[^key-53bdfa3e6c7aa42966bbdba0d233f190] The Mayor must exercise his powers under this paragraph so as to secure that at least two members of Transport for London are able to represent the interests of the persons living, working and studying in areas outside Greater London that are served by railway passenger services in respect of which Transport for London carries out functions, or is likely to do so.
+(2A)[^c-53bdfa3e6c7aa42966bbdba0d233f190] The Mayor must exercise his powers under this paragraph so as to secure that at least two members of Transport for London are able to represent the interests of the persons living, working and studying in areas outside Greater London that are served by railway passenger services in respect of which Transport for London carries out functions, or is likely to do so.
 
 (3) In appointing a person under sub-paragraph (1) above, the Mayor shall have regard to the desirability of ensuring that the members of Transport for London between them have experience in—
 
@@ -48,19 +48,19 @@ Section 154.
 
 and that the membership of Transport for London represents the interests in relation to transport of women and of persons who require transport which is accessible to persons with mobility problems.
 
-(3A)[^key-356260558cc923a76aa9c27a97a9e16f] Before making an appointment for the purposes of sub-paragraph (2A) above, the Mayor must consult the responsible regional authorities (within the meaning of Part 5 of the Local Democracy, Economic Development and Construction Act 2009)[^key-2bbf10f89211c7015229fcce5ca60013] for each of the regions where the areas served by the services mentioned in that sub-paragraph are situated.
+(3A)[^c-356260558cc923a76aa9c27a97a9e16f] Before making an appointment for the purposes of sub-paragraph (2A) above, the Mayor must consult the responsible regional authorities (within the meaning of Part 5 of the Local Democracy, Economic Development and Construction Act 2009)[^c-2bbf10f89211c7015229fcce5ca60013] for each of the regions where the areas served by the services mentioned in that sub-paragraph are situated.
 
-(4)[^key-612b0618d9ed9e49d2946867bc65ea95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-612b0618d9ed9e49d2946867bc65ea95] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-740a98d545863df90aa7e10ecfff698d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-740a98d545863df90aa7e10ecfff698d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5A)[^key-131f786d994c5f1ba0dbafff83bdf2a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5A)[^c-131f786d994c5f1ba0dbafff83bdf2a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) The terms and conditions of appointment of a member of Transport for London (including conditions as to remuneration and allowances *(Extent: E+W)*[^key-3454ea2753cd50e241887838ab945d69] ) shall be such as the Mayor may determine (but this is subject to paragraph 3A below) *(Extent: E+W)*[^key-850c787dd826dc10741cc9c14a69256e].
+(6) The terms and conditions of appointment of a member of Transport for London (including conditions as to remuneration and allowances *(Extent: E+W)*[^c-3454ea2753cd50e241887838ab945d69] ) shall be such as the Mayor may determine (but this is subject to paragraph 3A below) *(Extent: E+W)*[^c-850c787dd826dc10741cc9c14a69256e].
 
 (7) The Mayor may by notice to a member of Transport for London remove that member from office.
 
-(8)[^key-40b06581fb2b71f4efd354f7e5ce3bde] In this paragraph—
+(8)[^c-40b06581fb2b71f4efd354f7e5ce3bde] In this paragraph—
 
 “**railway passenger service**” has the same meaning as in Part 1 of the Railways Act 1993; and
 
@@ -75,7 +75,7 @@ and that the membership of Transport for London represents the interests in rela
 
 (2) Where the Mayor is a member of Transport for London, he shall be the chairman.
 
-### Remuneration etc not to be paid to members who are also Assembly members (Extent: E+W)[^key-9c533a603c8b031d525a9b87be92fb55]
+### Remuneration etc not to be paid to members who are also Assembly members (Extent: E+W)[^c-9c533a603c8b031d525a9b87be92fb55]
 
 **3A (Extent: E+W).** (1 (Extent: E+W)) Payments by way of remuneration or allowances, other than allowances in respect of travel or subsistence, shall not be made to members of Transport for London who are also Assembly members. *(Extent: E+W)*
 
@@ -108,7 +108,7 @@ and that the membership of Transport for London represents the interests in rela
 
 - (a) any committee of Transport for London,
 - (b) any sub-committee of such a committee,
-- (c) any wholly owned subsidiary (as defined in section 1159 of the Companies Act 2006[^key-3dbbf5227a1be4f05109b14b30e29526]) of Transport for London,
+- (c) any wholly owned subsidiary (as defined in section 1159 of the Companies Act 2006[^c-3dbbf5227a1be4f05109b14b30e29526]) of Transport for London,
 - (d) any member or officer of Transport for London, or
 - (e) any body of members or officers, or members and officers, of Transport for London.
 
@@ -218,31 +218,31 @@ the sub-committee may (subject to any conditions imposed by Transport for London
 
 ## Annotations
 
-[^key-286831d88e6d0336a666805a5bca70d6]: Textual amendment: Word in Sch. 10 para. 2(1) substituted (8.8.2007) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/17/2), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2007/1993](https://www.legislation.gov.uk/uksi/2007/1993), [art. 2](https://www.legislation.gov.uk/uksi/2007/1993/article/2)
+[^c-286831d88e6d0336a666805a5bca70d6]: Textual amendment: Word in Sch. 10 para. 2(1) substituted (8.8.2007) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/17/2), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2007/1993](https://www.legislation.gov.uk/uksi/2007/1993), [art. 2](https://www.legislation.gov.uk/uksi/2007/1993/article/2)
 
-[^key-b729739591ec9b1801d7dc14af45cba6]: Textual amendment: Word in Sch. 10 para. 2(2) substituted (8.8.2007) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/2005/14/section/17/3), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2007/1993](https://www.legislation.gov.uk/uksi/2007/1993), [art. 2](https://www.legislation.gov.uk/uksi/2007/1993/article/2)
+[^c-b729739591ec9b1801d7dc14af45cba6]: Textual amendment: Word in Sch. 10 para. 2(2) substituted (8.8.2007) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/2005/14/section/17/3), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2007/1993](https://www.legislation.gov.uk/uksi/2007/1993), [art. 2](https://www.legislation.gov.uk/uksi/2007/1993/article/2)
 
-[^key-53bdfa3e6c7aa42966bbdba0d233f190]: Textual amendment: Sch. 10 para. 2(2A) inserted (8.8.2007) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/17/4), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2007/1993](https://www.legislation.gov.uk/uksi/2007/1993), [art. 2](https://www.legislation.gov.uk/uksi/2007/1993/article/2)
+[^c-53bdfa3e6c7aa42966bbdba0d233f190]: Textual amendment: Sch. 10 para. 2(2A) inserted (8.8.2007) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 17(4)](https://www.legislation.gov.uk/ukpga/2005/14/section/17/4), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2007/1993](https://www.legislation.gov.uk/uksi/2007/1993), [art. 2](https://www.legislation.gov.uk/uksi/2007/1993/article/2)
 
-[^key-356260558cc923a76aa9c27a97a9e16f]: Textual amendment: Sch. 10 para. 2(3A) inserted (8.8.2007) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/17/5), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2007/1993](https://www.legislation.gov.uk/uksi/2007/1993), [art. 2](https://www.legislation.gov.uk/uksi/2007/1993/article/2)
+[^c-356260558cc923a76aa9c27a97a9e16f]: Textual amendment: Sch. 10 para. 2(3A) inserted (8.8.2007) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 17(5)](https://www.legislation.gov.uk/ukpga/2005/14/section/17/5), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2007/1993](https://www.legislation.gov.uk/uksi/2007/1993), [art. 2](https://www.legislation.gov.uk/uksi/2007/1993/article/2)
 
-[^key-2bbf10f89211c7015229fcce5ca60013]: Textual amendment: Words in Sch. 10 para. 2(3A) substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5/paragraph/11); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
+[^c-2bbf10f89211c7015229fcce5ca60013]: Textual amendment: Words in Sch. 10 para. 2(3A) substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/5), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2009/20/schedule/5/paragraph/11); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(gg)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/gg)
 
-[^key-612b0618d9ed9e49d2946867bc65ea95]: Textual amendment: Sch. 10 para. 2(4) repealed (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2007/24/section/18/2/a), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)(m)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b/m)
+[^c-612b0618d9ed9e49d2946867bc65ea95]: Textual amendment: Sch. 10 para. 2(4) repealed (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 18(2)(a)](https://www.legislation.gov.uk/ukpga/2007/24/section/18/2/a), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)(m)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b/m)
 
-[^key-740a98d545863df90aa7e10ecfff698d]: Textual amendment: Sch. 10 para. 2(5) repealed (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 18(2)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/18/2/b), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)(m)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b/m)
+[^c-740a98d545863df90aa7e10ecfff698d]: Textual amendment: Sch. 10 para. 2(5) repealed (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 18(2)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/18/2/b), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)(m)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b/m)
 
-[^key-131f786d994c5f1ba0dbafff83bdf2a0]: Textual amendment: Sch. 10 para. 2(5A) repealed (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 18(2)(c)](https://www.legislation.gov.uk/ukpga/2007/24/section/18/2/c), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)(m)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b/m)
+[^c-131f786d994c5f1ba0dbafff83bdf2a0]: Textual amendment: Sch. 10 para. 2(5A) repealed (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 18(2)(c)](https://www.legislation.gov.uk/ukpga/2007/24/section/18/2/c), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7), [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/24/schedule/2); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)(m)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b/m)
 
-[^key-3454ea2753cd50e241887838ab945d69]: Textual amendment: Words in Sch. 10 para. 2(6) inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 19(2)(a)](https://www.legislation.gov.uk/ukpga/2007/24/section/19/2/a), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b)
+[^c-3454ea2753cd50e241887838ab945d69]: Textual amendment: Words in Sch. 10 para. 2(6) inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 19(2)(a)](https://www.legislation.gov.uk/ukpga/2007/24/section/19/2/a), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b)
 
-[^key-850c787dd826dc10741cc9c14a69256e]: Textual amendment: Words in Sch. 10 para. 2(6) inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/19/2/b), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b)
+[^c-850c787dd826dc10741cc9c14a69256e]: Textual amendment: Words in Sch. 10 para. 2(6) inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/19/2/b), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b)
 
-[^key-40b06581fb2b71f4efd354f7e5ce3bde]: Textual amendment: Sch. 10 para. 2(8) inserted (8.8.2007) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 17(7)](https://www.legislation.gov.uk/ukpga/2005/14/section/17/7), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2007/1993](https://www.legislation.gov.uk/uksi/2007/1993), [art. 2](https://www.legislation.gov.uk/uksi/2007/1993/article/2)
+[^c-40b06581fb2b71f4efd354f7e5ce3bde]: Textual amendment: Sch. 10 para. 2(8) inserted (8.8.2007) by [Railways Act 2005 (c. 14)](https://www.legislation.gov.uk/ukpga/2005/14), [ss. 17(7)](https://www.legislation.gov.uk/ukpga/2005/14/section/17/7), [60(2)](https://www.legislation.gov.uk/ukpga/2005/14/section/60/2); [S.I. 2007/1993](https://www.legislation.gov.uk/uksi/2007/1993), [art. 2](https://www.legislation.gov.uk/uksi/2007/1993/article/2)
 
-[^key-9c533a603c8b031d525a9b87be92fb55]: Textual amendment: Sch. 10 para. 3A inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/19/3), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b)
+[^c-9c533a603c8b031d525a9b87be92fb55]: Textual amendment: Sch. 10 para. 3A inserted (E.W.) (21.1.2008) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2007/24/section/19/3), [59(7)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/7); [S.I. 2008/113](https://www.legislation.gov.uk/uksi/2008/113), [art. 2(b)](https://www.legislation.gov.uk/uksi/2008/113/article/2/b)
 
-[^key-3dbbf5227a1be4f05109b14b30e29526]: Textual amendment: Words in Sch. 10 para. 7(1)(c) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 178(7)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/178/7) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-3dbbf5227a1be4f05109b14b30e29526]: Textual amendment: Words in Sch. 10 para. 7(1)(c) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 178(7)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/178/7) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c12809921]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 

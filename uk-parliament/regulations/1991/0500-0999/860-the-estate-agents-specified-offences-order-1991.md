@@ -32,7 +32,7 @@ Order made by the Secretary of State, laid before Parliament under section 3(6) 
 
 ESTATE AGENTS
 
-The Estate Agents (Specified Offences) Order 1991 (revoked)[^key-3cb3d4ee9448de19b0d6672ce0b2d6bd]
+The Estate Agents (Specified Offences) Order 1991 (revoked)[^c-3cb3d4ee9448de19b0d6672ce0b2d6bd]
 
 Made
 
@@ -46,19 +46,19 @@ Coming into force
 
 13th May 1991
 
-[^key-3cb3d4ee9448de19b0d6672ce0b2d6bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cb3d4ee9448de19b0d6672ce0b2d6bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-3cb3d4ee9448de19b0d6672ce0b2d6bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-3cb3d4ee9448de19b0d6672ce0b2d6bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-3cb3d4ee9448de19b0d6672ce0b2d6bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-3cb3d4ee9448de19b0d6672ce0b2d6bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3cb3d4ee9448de19b0d6672ce0b2d6bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cb3d4ee9448de19b0d6672ce0b2d6bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SPECIFIED OFFENCES[^key-3cb3d4ee9448de19b0d6672ce0b2d6bd]
+## SCHEDULE — SPECIFIED OFFENCES[^c-3cb3d4ee9448de19b0d6672ce0b2d6bd]
 
 Article 2
 
@@ -66,8 +66,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-3cb3d4ee9448de19b0d6672ce0b2d6bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cb3d4ee9448de19b0d6672ce0b2d6bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3cb3d4ee9448de19b0d6672ce0b2d6bd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1991/860) revoked (1.6.1991) by [The Estate Agents (Specified Offences) (No. 2) Order 1991 (S.I. 1991/1091)](https://www.legislation.gov.uk/uksi/1991/1091), [arts. 1](https://www.legislation.gov.uk/uksi/1991/1091/article/1), [3](https://www.legislation.gov.uk/uksi/1991/1091/article/3)
+[^c-3cb3d4ee9448de19b0d6672ce0b2d6bd]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1991/860) revoked (1.6.1991) by [The Estate Agents (Specified Offences) (No. 2) Order 1991 (S.I. 1991/1091)](https://www.legislation.gov.uk/uksi/1991/1091), [arts. 1](https://www.legislation.gov.uk/uksi/1991/1091/article/1), [3](https://www.legislation.gov.uk/uksi/1991/1091/article/3)

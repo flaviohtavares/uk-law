@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Hot pursuit of ships in Scotland waters[^c22719221][^key-07d1f24d3b4780175d82a151b2d7e36b]
+## 86. Hot pursuit of ships in Scotland waters[^c22719221][^c-07d1f24d3b4780175d82a151b2d7e36b]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ changes during the course of the pursuit.
 
 [^c22719221]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2017/3/section/86) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-07d1f24d3b4780175d82a151b2d7e36b]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2017/3/section/86) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)
+[^c-07d1f24d3b4780175d82a151b2d7e36b]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2017/3/section/86) in force at 1.3.2018 in so far as not already in force by [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2018/227/article/2/d)

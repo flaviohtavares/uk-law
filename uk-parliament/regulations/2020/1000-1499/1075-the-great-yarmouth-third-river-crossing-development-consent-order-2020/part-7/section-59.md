@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 59. Planning permission[^key-aa5d3012c6cf1429c9c4b0241d558c57]
+## 59. Planning permission[^c-aa5d3012c6cf1429c9c4b0241d558c57]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ then the construction, use or operation of such development under the terms of t
 
 ## Annotations
 
-[^key-aa5d3012c6cf1429c9c4b0241d558c57]: Commencement: Art. 59 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-aa5d3012c6cf1429c9c4b0241d558c57]: Commencement: Art. 59 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

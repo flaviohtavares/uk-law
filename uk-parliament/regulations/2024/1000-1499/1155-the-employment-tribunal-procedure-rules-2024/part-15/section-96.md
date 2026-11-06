@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 96. Collective agreements[^key-4dc3f702845378fbf3323a24d037a26b]
+## 96. Collective agreements[^c-4dc3f702845378fbf3323a24d037a26b]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4dc3f702845378fbf3323a24d037a26b]: Commencement: [Rule 96](https://www.legislation.gov.uk/uksi/2024/1155/rule/96) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-4dc3f702845378fbf3323a24d037a26b]: Commencement: [Rule 96](https://www.legislation.gov.uk/uksi/2024/1155/rule/96) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00037]: Footnote: Section 148(4) of the Equality Act [2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15) defines “collective agreement” by reference to the meaning given in section 178 of the Trade Union and Labour Relations (Consolidation) Act [1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52).

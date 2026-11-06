@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3 — DEEMED APPROVAL OF MATTERS REFERRED TO IN REQUIREMENTS[^key-b7eafae54e8a402ddec6e37f122d8616]
+## SCHEDULE 3 — DEEMED APPROVAL OF MATTERS REFERRED TO IN REQUIREMENTS[^c-b7eafae54e8a402ddec6e37f122d8616]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ Article 5
 
 ## Annotations
 
-[^key-b7eafae54e8a402ddec6e37f122d8616]: Commencement: Sch. 3 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)
+[^c-b7eafae54e8a402ddec6e37f122d8616]: Commencement: Sch. 3 in force at 2.12.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1259/article/1)

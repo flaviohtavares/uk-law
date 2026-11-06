@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Review of own performance[^key-41cf52e6348f63e13d2396bf18c897ff]
+## 36. Review of own performance[^c-41cf52e6348f63e13d2396bf18c897ff]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41cf52e6348f63e13d2396bf18c897ff]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2010/16/section/36) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-41cf52e6348f63e13d2396bf18c897ff]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2010/16/section/36) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

@@ -48,7 +48,7 @@ The Secretary of State is a Minister designated[^f00001] for the purposes of sec
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by section 2(2) of the 1972 Act.
 
-## 1. Citation, commencement, application and interpretation[^key-b78aac0f9d0990056374c33647a6ee3c]
+## 1. Citation, commencement, application and interpretation[^c-b78aac0f9d0990056374c33647a6ee3c]
 
 (1) These Regulations may be cited as the Network and Information Systems (Amendment and Transitional Provision etc.) Regulations 2020 and come into force on 31st December 2020.
 
@@ -60,11 +60,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (3) In these Regulations, “the 2018 Regulations” means the Network and Information Systems Regulations 2018[^f00004].
 
-## 2. Amendment of the 2018 Regulations[^key-01010d32508b2c3bb90cae5807ec7b47]
+## 2. Amendment of the 2018 Regulations[^c-01010d32508b2c3bb90cae5807ec7b47]
 
 The 2018 Regulations are amended in accordance with regulations 3 to 20.
 
-## 3. Amendments to regulation 1 (citation, commencement, interpretation and application)[^key-fed798f302f315925622271b7160fa8b]
+## 3. Amendments to regulation 1 (citation, commencement, interpretation and application)[^c-fed798f302f315925622271b7160fa8b]
 
 In regulation 1—
 
@@ -83,7 +83,7 @@ In regulation 1—
   - (i) for “an operator of an essential service” substitute “an OES”;
   - (ii) for “that operator” substitute “that OES”.
 
-## 4. Amendments to regulation 6 (information sharing - enforcement authorities)[^key-cfd34ef52115653470a0c46c7b791f4a]
+## 4. Amendments to regulation 6 (information sharing - enforcement authorities)[^c-cfd34ef52115653470a0c46c7b791f4a]
 
 In regulation 6—
 
@@ -103,7 +103,7 @@ In regulation 6—
 
   .
 
-## 5. Amendments to regulation 8 (identification of operators of essential services)[^key-da6ecc296675fb1cd63ed39ed94ea3f1]
+## 5. Amendments to regulation 8 (identification of operators of essential services)[^c-da6ecc296675fb1cd63ed39ed94ea3f1]
 
 In regulation 8—
 
@@ -122,7 +122,7 @@ In regulation 8—
 
   .
 
-## 6. Insertion of regulation 8A[^key-4db0dbc72e647f17911447e28ed3d413]
+## 6. Insertion of regulation 8A[^c-4db0dbc72e647f17911447e28ed3d413]
 
 After regulation 8, insert—
 
@@ -158,7 +158,7 @@ After regulation 8, insert—
 
 .
 
-## 7. Amendments to regulation 9 (revocation)[^key-945682f2a1516b47836b82673b4dbcb6]
+## 7. Amendments to regulation 9 (revocation)[^c-945682f2a1516b47836b82673b4dbcb6]
 
 In regulation 9—
 
@@ -170,11 +170,11 @@ In regulation 9—
   - (ii) after “notice” insert “in writing”;
 - (c) in paragraph (3), in the opening text, after “a person”, in both places those words occur, insert “as an OES”.
 
-## 8. Amendment to regulation 11 (duty to notify incidents)[^key-efd5b8d73d2a6214b9cda3a8ac2651f4]
+## 8. Amendment to regulation 11 (duty to notify incidents)[^c-efd5b8d73d2a6214b9cda3a8ac2651f4]
 
 In regulation 11(1), after “authority” insert “for the OES in writing”.
 
-## 9. Amendments to regulation 12 (relevant digital service providers)[^key-938b779d6dfb92ff539369d53993454e]
+## 9. Amendments to regulation 12 (relevant digital service providers)[^c-938b779d6dfb92ff539369d53993454e]
 
 In regulation 12—
 
@@ -193,11 +193,11 @@ In regulation 12—
   - (ii) for “as soon as it occurs” substitute “without undue delay”;
 - (e) in paragraph (12), in the closing text, after “incident or” insert “the Commissioner may”.
 
-## 10. Amendment to regulation 14 (registration with the Information Commissioner)[^key-9512c11aa1e48a19e65186534daf3a16]
+## 10. Amendment to regulation 14 (registration with the Information Commissioner)[^c-9512c11aa1e48a19e65186534daf3a16]
 
 In regulation 14(3), after “Commissioner” insert “in writing”.
 
-## 11. Amendments to regulation 15 (information notices)[^key-1e6686c1077916aa583d60a64411fb90]
+## 11. Amendments to regulation 15 (information notices)[^c-1e6686c1077916aa583d60a64411fb90]
 
 In regulation 15—
 
@@ -238,7 +238,7 @@ In regulation 15—
 
   .
 
-## 12. Amendments to regulation 16 (power of inspection)[^key-508371deb74b3c228b6f19af07d3e42d]
+## 12. Amendments to regulation 16 (power of inspection)[^c-508371deb74b3c228b6f19af07d3e42d]
 
 In regulation 16—
 
@@ -316,7 +316,7 @@ In regulation 16—
 
   .
 
-## 13. Amendments to regulation 17 (enforcement for breach of duties)[^key-a78d6330e0c89ac2344e72d73d00a4be]
+## 13. Amendments to regulation 17 (enforcement for breach of duties)[^c-a78d6330e0c89ac2344e72d73d00a4be]
 
 In regulation 17—
 
@@ -364,7 +364,7 @@ In regulation 17—
   - (i) for “the” substitute “any,”;
   - (ii) for “(3)(d)” substitute “(2A)”.
 
-## 14. Amendments to regulation 18 (penalties)[^key-c59ebea10720c7e60845c120f702ec93]
+## 14. Amendments to regulation 18 (penalties)[^c-c59ebea10720c7e60845c120f702ec93]
 
 In regulation 18—
 
@@ -434,11 +434,11 @@ In regulation 18—
     ;
   - (ii) omit sub-paragraph (b).
 
-## 15. Omission of regulation 19 (independent review of designation decisions and penalty decisions)[^key-49fde7a23d37057e495ac10c3cd6eed6]
+## 15. Omission of regulation 19 (independent review of designation decisions and penalty decisions)[^c-49fde7a23d37057e495ac10c3cd6eed6]
 
 Omit regulation 19.
 
-## 16. Insertion of new regulations 19A, 19B and A20[^key-17c02b690cb91630e3e963d2c988627a]
+## 16. Insertion of new regulations 19A, 19B and A20[^c-17c02b690cb91630e3e963d2c988627a]
 
 Before regulation 20 insert—
 
@@ -516,15 +516,15 @@ Before regulation 20 insert—
 
 .
 
-## 17. Amendment to regulation 20 (enforcement of penalty notices)[^key-aaa645903c040412c72c2197518f4594]
+## 17. Amendment to regulation 20 (enforcement of penalty notices)[^c-aaa645903c040412c72c2197518f4594]
 
 In regulation 20(6), for the words from “a review” to “the review” substitute “an appeal has been brought under regulation 19A and the appeal”.
 
-## 18. Amendment to regulation 23 (enforcement action – general considerations)[^key-a0b8b367c2cc10daa605ee1131943f3c]
+## 18. Amendment to regulation 23 (enforcement action – general considerations)[^c-a0b8b367c2cc10daa605ee1131943f3c]
 
 In regulation 23(1), for “17 or 18” substitute “17(1) or (2), 18(3A) or (3B) or A20,”.
 
-## 19. Amendments to regulation 25 (review and report)[^key-41cdfa4f0fab26107857b2858d2a2c83]
+## 19. Amendments to regulation 25 (review and report)[^c-41cdfa4f0fab26107857b2858d2a2c83]
 
 In regulation 25—
 
@@ -533,7 +533,7 @@ In regulation 25—
   - (ii) for “biennial intervals” substitute “intervals not exceeding five years”;
 - (b) in paragraph (4), in the opening text, for “that Act” substitute “the Small Business, Enterprise and Employment Act 2015[^f00011]”.
 
-## 20. Amendments to Schedule 2 (essential services and threshold requirements)[^key-c9aed2db597566cb7e531a65b9cc24a9]
+## 20. Amendments to Schedule 2 (essential services and threshold requirements)[^c-c9aed2db597566cb7e531a65b9cc24a9]
 
 In Schedule 2—
 
@@ -649,7 +649,7 @@ In Schedule 2—
 
       .
 
-## 21. Transitional and saving provisions[^key-71f920893ecba11c41fe879ac91ed9b0]
+## 21. Transitional and saving provisions[^c-71f920893ecba11c41fe879ac91ed9b0]
 
 (1) The 2018 Regulations as they were in force immediately before 31st December 2020 (“the pre-amendment Regulations”) continue to apply in respect of a request under regulation 19(1) or (2) of the 2018 Regulations where—
 
@@ -669,7 +669,7 @@ In Schedule 2—
 
 (3) Where the pre-amendment Regulations continue to apply in accordance with paragraph (1) of this regulation and the reviewer upholds a penalty decision in relation to a RDSP under regulation 19(9) of those Regulations—
 
-- (a) the Information Commission[^key-ede5cb1ad095331485e9e47a674d3e89] must—
+- (a) the Information Commission[^c-ede5cb1ad095331485e9e47a674d3e89] must—
   - (i) notify the RDSP that the RDSP may appeal to the First-tier Tribunal against the penalty decision; and
   - (ii) explain to the RDSP the permitted grounds and procedure (including time limit) for bringing such an appeal; and
 - (b) the RDSP may appeal to the First-tier Tribunal against the penalty decision on one or more of the following grounds—
@@ -695,11 +695,11 @@ In Schedule 2—
 - (a) confirm one or, as the case may be, both of the decisions to which the appeal relates; or
 - (b) quash the whole or part of one or, as the case may be, both of the decisions to which the appeal relates.
 
-(8) Where the Tribunal quashes the whole or part of a decision to which the appeal relates, it must remit the matter back to the relevant competent authority or, as the case may be, the Information Commission[^key-fd9d74b08174a30ebb44f37acc2441b2], with a direction to that authority or the Information Commission[^key-ab5eac6a5151d495f06634ee84725ee2] to reconsider the matter and make a new decision having regard to the ruling of the Tribunal.
+(8) Where the Tribunal quashes the whole or part of a decision to which the appeal relates, it must remit the matter back to the relevant competent authority or, as the case may be, the Information Commission[^c-fd9d74b08174a30ebb44f37acc2441b2], with a direction to that authority or the Information Commission[^c-ab5eac6a5151d495f06634ee84725ee2] to reconsider the matter and make a new decision having regard to the ruling of the Tribunal.
 
-(9) The relevant competent authority or, as the case may be, the Information Commission[^key-43c284cd2e7470a420014e9599efb8f1], must have regard to a direction under paragraph (8).
+(9) The relevant competent authority or, as the case may be, the Information Commission[^c-43c284cd2e7470a420014e9599efb8f1], must have regard to a direction under paragraph (8).
 
-(10) Where the relevant competent authority or, as the case may be, the Information Commission[^key-953394ee591db4b6a3b3e3f84542b1a7], makes a new decision in accordance with a direction under paragraph (8), this decision is to be considered final.
+(10) Where the relevant competent authority or, as the case may be, the Information Commission[^c-953394ee591db4b6a3b3e3f84542b1a7], makes a new decision in accordance with a direction under paragraph (8), this decision is to be considered final.
 
 (11) Words and expressions used but not defined in this regulation that are also used in the pre-amendment Regulations have the same meanings as in the pre-amendment Regulations.
 
@@ -747,63 +747,63 @@ The Directive referred to above is published at http://eur-lex.europa.eu.
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). The European Communities Act 1972 (“the 1972 Act”) was repealed by section 1 of the European Union (Withdrawal) Act [2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) with effect from exit day, but saved with modifications until IP completion day by section 1A of that Act (as inserted by section 1 of the European Union (Withdrawal Agreement) Ac [2020 (c. 1)](https://www.legislation.gov.uk/ukpga/2020/1). Section 2(2) of the 1972 Act was amended by section 27(1)(a) of the Legislative and Regulatory Reform Act [2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by Part 1 of the Schedule to the European Union (Amendment) Act [2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). In so far as these Regulations deal with matters that are within the devolved competence of Scottish Ministers, the power of the Secretary of State to make regulations in relation to those matters in or as regards Scotland is preserved by section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-b78aac0f9d0990056374c33647a6ee3c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-b78aac0f9d0990056374c33647a6ee3c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
 [^f00003]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29). Section 1(7) of the Continental Shelf Act 1964 was amended by section 37 of, and paragraph 1 of Schedule 3 to, the Oil and Gas (Enterprise) Act [1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), and section 103 of the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16).
 
 [^f00004]: Footnote: [S.I. 2018/506](https://www.legislation.gov.uk/uksi/2018/506), amended by [S.I. 2018/629](https://www.legislation.gov.uk/uksi/2018/629).
 
-[^key-01010d32508b2c3bb90cae5807ec7b47]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1245/regulation/2) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-01010d32508b2c3bb90cae5807ec7b47]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2020/1245/regulation/2) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
-[^key-fed798f302f315925622271b7160fa8b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1245/regulation/3) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-fed798f302f315925622271b7160fa8b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2020/1245/regulation/3) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
 [^f00005]: Footnote: [2007 c. 15](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-cfd34ef52115653470a0c46c7b791f4a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1245/regulation/4) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-cfd34ef52115653470a0c46c7b791f4a]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2020/1245/regulation/4) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
-[^key-da6ecc296675fb1cd63ed39ed94ea3f1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1245/regulation/5) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-da6ecc296675fb1cd63ed39ed94ea3f1]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1245/regulation/5) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
 [^f00006]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Sections 105A to 105C were inserted by paragraph 65 of Schedule 1 to [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
-[^key-4db0dbc72e647f17911447e28ed3d413]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1245/regulation/6) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-4db0dbc72e647f17911447e28ed3d413]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1245/regulation/6) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
 [^f00007]: Footnote: An OES is an operator of an essential service as defined in regulation 1(2) of the 2018 Regulations.
 
-[^key-945682f2a1516b47836b82673b4dbcb6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1245/regulation/7) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-945682f2a1516b47836b82673b4dbcb6]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1245/regulation/7) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
-[^key-efd5b8d73d2a6214b9cda3a8ac2651f4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1245/regulation/8) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-efd5b8d73d2a6214b9cda3a8ac2651f4]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1245/regulation/8) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
-[^key-938b779d6dfb92ff539369d53993454e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1245/regulation/9) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-938b779d6dfb92ff539369d53993454e]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1245/regulation/9) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
 [^f00008]: Footnote: A RDSP is a relevant digital service provider as defined in regulation 1(3)(e) of the 2018 Regulations.
 
-[^key-9512c11aa1e48a19e65186534daf3a16]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1245/regulation/10) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-9512c11aa1e48a19e65186534daf3a16]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2020/1245/regulation/10) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
-[^key-1e6686c1077916aa583d60a64411fb90]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-1e6686c1077916aa583d60a64411fb90]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2020/1245/regulation/11) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
-[^key-508371deb74b3c228b6f19af07d3e42d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-508371deb74b3c228b6f19af07d3e42d]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2020/1245/regulation/12) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
-[^key-a78d6330e0c89ac2344e72d73d00a4be]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-a78d6330e0c89ac2344e72d73d00a4be]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1245/regulation/13) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
 [^f00009]: Footnote: Regulation 14A and the related definition of “representative” are inserted into the 2018 Regulations by regulation 2 of [S.I. 2019/1444](https://www.legislation.gov.uk/uksi/2019/1444) which comes into force on 20th January 2021.
 
-[^key-c59ebea10720c7e60845c120f702ec93]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-c59ebea10720c7e60845c120f702ec93]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2020/1245/regulation/14) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
-[^key-49fde7a23d37057e495ac10c3cd6eed6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1245/regulation/15) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-49fde7a23d37057e495ac10c3cd6eed6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2020/1245/regulation/15) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
-[^key-17c02b690cb91630e3e963d2c988627a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1245/regulation/16) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-17c02b690cb91630e3e963d2c988627a]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2020/1245/regulation/16) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
 [^f00010]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-aaa645903c040412c72c2197518f4594]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1245/regulation/17) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-aaa645903c040412c72c2197518f4594]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2020/1245/regulation/17) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
-[^key-a0b8b367c2cc10daa605ee1131943f3c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1245/regulation/18) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-a0b8b367c2cc10daa605ee1131943f3c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2020/1245/regulation/18) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
-[^key-41cdfa4f0fab26107857b2858d2a2c83]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1245/regulation/19) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-41cdfa4f0fab26107857b2858d2a2c83]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2020/1245/regulation/19) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
 [^f00011]: Footnote: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-c9aed2db597566cb7e531a65b9cc24a9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-c9aed2db597566cb7e531a65b9cc24a9]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2020/1245/regulation/20) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
 [^f00012]: Footnote: [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45). Section 12(6) was amended by section 76(7) of the Utilities Act 2000 ([2000 c. 27](https://www.legislation.gov.uk/ukpga/2000/27)) and section 92(1) and (11)(a) of the Energy Act 2011 ([2011 c. 16](https://www.legislation.gov.uk/ukpga/2011/16)).
 
@@ -813,16 +813,16 @@ The Directive referred to above is published at http://eur-lex.europa.eu.
 
 [^f00015]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29). There are no amendments relevant to this instrument.
 
-[^key-71f920893ecba11c41fe879ac91ed9b0]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
+[^c-71f920893ecba11c41fe879ac91ed9b0]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21) in force at 31.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/1/1)
 
-[^key-ede5cb1ad095331485e9e47a674d3e89]: Textual amendment: Words in [reg. 21(3)(a)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21/3/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/26/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-ede5cb1ad095331485e9e47a674d3e89]: Textual amendment: Words in [reg. 21(3)(a)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21/3/a) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/26/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
 [^f00016]: Footnote: [S.I. 2009/1976 (L. 20)](https://www.legislation.gov.uk/uksi/2009/1976), amended by [S.I. 2018/1053 (L. 10)](https://www.legislation.gov.uk/uksi/2018/1053); there are other amending instruments but none is relevant.
 
-[^key-fd9d74b08174a30ebb44f37acc2441b2]: Textual amendment: Words in [reg. 21(8)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21/8) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/26/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-fd9d74b08174a30ebb44f37acc2441b2]: Textual amendment: Words in [reg. 21(8)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21/8) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/26/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-ab5eac6a5151d495f06634ee84725ee2]: Textual amendment: Words in [reg. 21(8)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21/8) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 26(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/26/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-ab5eac6a5151d495f06634ee84725ee2]: Textual amendment: Words in [reg. 21(8)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21/8) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 26(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/26/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-43c284cd2e7470a420014e9599efb8f1]: Textual amendment: Words in [reg. 21(9)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21/9) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/26/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-43c284cd2e7470a420014e9599efb8f1]: Textual amendment: Words in [reg. 21(9)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21/9) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/26/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-953394ee591db4b6a3b3e3f84542b1a7]: Textual amendment: Words in [reg. 21(10)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21/10) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/26/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-953394ee591db4b6a3b3e3f84542b1a7]: Textual amendment: Words in [reg. 21(10)](https://www.legislation.gov.uk/uksi/2020/1245/regulation/21/10) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 26(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/26/2); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)

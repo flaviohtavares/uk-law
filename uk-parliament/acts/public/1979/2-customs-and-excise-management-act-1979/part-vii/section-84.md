@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Penalty for signalling to smugglers.[^key-6f23fce0e9d2e378d6a5e53c012b51ff]
+## 84. Penalty for signalling to smugglers.[^c-6f23fce0e9d2e378d6a5e53c012b51ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f23fce0e9d2e378d6a5e53c012b51ff]: Textual amendment: S. 84 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 52(1)(a)(iv)](https://www.legislation.gov.uk/ukpga/2005/11/section/52/1/a/iv), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/i)
+[^c-6f23fce0e9d2e378d6a5e53c012b51ff]: Textual amendment: S. 84 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 52(1)(a)(iv)](https://www.legislation.gov.uk/ukpga/2005/11/section/52/1/a/iv), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/i)

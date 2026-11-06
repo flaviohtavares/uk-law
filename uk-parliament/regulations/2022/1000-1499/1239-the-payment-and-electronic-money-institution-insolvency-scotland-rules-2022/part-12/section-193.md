@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 193. Right to have list of creditors[^key-5860bea95df6e97e4e970229d342e912]
+## 193. Right to have list of creditors[^c-5860bea95df6e97e4e970229d342e912]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ the list furnished under paragraph (2) shall state the number of employees or fo
 
 ## Annotations
 
-[^key-5860bea95df6e97e4e970229d342e912]: Commencement: Rule 193 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-5860bea95df6e97e4e970229d342e912]: Commencement: Rule 193 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

@@ -24,7 +24,7 @@ Section 67
 
 ### Part 1 — Community right to buy and sporting assets of community value (England)
 
-**1.**[^key-3e7719bf404f07ae67aa0f509c95a2ea] In Part 5 of the Localism Act 2011 (community empowerment), after Chapter 2 insert—
+**1.**[^c-3e7719bf404f07ae67aa0f509c95a2ea] In Part 5 of the Localism Act 2011 (community empowerment), after Chapter 2 insert—
 
 > **Chapter 2A — Assets of community value (England)**
 >
@@ -715,7 +715,7 @@ Section 67
 
 **Not yet in force.**
 
-**2.**[^key-18f0496696012fec4b19a14e150a06f1] (1) A list of land of community value maintained immediately before the relevant day by a local authority in England under section 87(1) of the Localism Act 2011 (“the original asset list”) is to have effect on and after that day as a list of land of community value maintained by that authority under section 86A(1) of that Act (“the new asset list”).
+**2.**[^c-18f0496696012fec4b19a14e150a06f1] (1) A list of land of community value maintained immediately before the relevant day by a local authority in England under section 87(1) of the Localism Act 2011 (“the original asset list”) is to have effect on and after that day as a list of land of community value maintained by that authority under section 86A(1) of that Act (“the new asset list”).
 
 (2) Any land that is included in the new asset list by virtue of sub paragraph (1) is to be treated as entered in that list on the date on which the land was entered in the original asset list.
 
@@ -731,29 +731,29 @@ Section 67
 
 **Not yet in force.**
 
-**3.**[^key-70c1721ca8535256fc42e6b4959f17e5] The Localism Act 2011 is amended as follows.
+**3.**[^c-70c1721ca8535256fc42e6b4959f17e5] The Localism Act 2011 is amended as follows.
 
 **Not yet in force.**
 
-**4.**[^key-c1f3e5c9d3473fe02003fbc129698420] In Part 5 (community empowerment), at the end of the heading for Chapter 3, insert “(Wales)”.
+**4.**[^c-c1f3e5c9d3473fe02003fbc129698420] In Part 5 (community empowerment), at the end of the heading for Chapter 3, insert “(Wales)”.
 
 **Not yet in force.**
 
-**5.**[^key-22d387351bb88b2a78dc26d99ae478d6] In section 87 (list of assets of community value)—
+**5.**[^c-22d387351bb88b2a78dc26d99ae478d6] In section 87 (list of assets of community value)—
 
 - (a) in subsection (4), for “appropriate authority” substitute “Welsh Ministers”;
 - (b) in subsection (5), for “appropriate authority” substitute “Welsh Ministers”.
 
 **Not yet in force.**
 
-**6.**[^key-ac3e659b5b15e3f2cc07e2dd1dd7cf64] In section 88 (land of community value)—
+**6.**[^c-ac3e659b5b15e3f2cc07e2dd1dd7cf64] In section 88 (land of community value)—
 
 - (a) in subsection (3), for “appropriate authority” substitute “Welsh Ministers”;
 - (b) in subsection (4), for “appropriate authority considers” substitute “Welsh Ministers consider”.
 
 **Not yet in force.**
 
-**7.**[^key-4913402d3cb67cb95fbb6106fc3f2971] In section 89 (Procedure for including land in list)—
+**7.**[^c-4913402d3cb67cb95fbb6106fc3f2971] In section 89 (Procedure for including land in list)—
 
 - (a) in subsection (1)(b), for “appropriate authority” substitute “Welsh Ministers”;
 - (b) in subsection (2)(b)—
@@ -764,15 +764,15 @@ Section 67
 
 **Not yet in force.**
 
-**8.**[^key-1a1911ef2a3fd8ab0416a1b5c714069b] In section 91 (notice of inclusion or removal), in subsection (2)(d) for “appropriate authority” substitute “Welsh Ministers”.
+**8.**[^c-1a1911ef2a3fd8ab0416a1b5c714069b] In section 91 (notice of inclusion or removal), in subsection (2)(d) for “appropriate authority” substitute “Welsh Ministers”.
 
 **Not yet in force.**
 
-**9.**[^key-c1912391051ad490dcb9d081e2c5ceab] In section 92 (review of decision to include land in list), in subsection (5), for “appropriate authority” substitute “Welsh Ministers”.
+**9.**[^c-c1912391051ad490dcb9d081e2c5ceab] In section 92 (review of decision to include land in list), in subsection (5), for “appropriate authority” substitute “Welsh Ministers”.
 
 **Not yet in force.**
 
-**10.**[^key-70d8856424d486e425098f691a2f8df1] In section 95 (moratorium)—
+**10.**[^c-70d8856424d486e425098f691a2f8df1] In section 95 (moratorium)—
 
 - (a) in subsection (5)—
   - (i) in paragraph (e), for “appropriate authority” substitute “Welsh Ministers”;
@@ -781,19 +781,19 @@ Section 67
 
 **Not yet in force.**
 
-**11.**[^key-e056bb59e4a354e17241b92096abb1f3] In section 96 (meaning of “relevant disposal” etc in section 95), in subsection (7), for “appropriate authority” substitute “Welsh Ministers”.
+**11.**[^c-e056bb59e4a354e17241b92096abb1f3] In section 96 (meaning of “relevant disposal” etc in section 95), in subsection (7), for “appropriate authority” substitute “Welsh Ministers”.
 
 **Not yet in force.**
 
-**12.**[^key-c5d9a3fbca39bc8e5832c116ed90430d] In section 98 (informing owner of request to be treated as bidder), in subsection (3), for “appropriate authority” substitute “Welsh Ministers”.
+**12.**[^c-c5d9a3fbca39bc8e5832c116ed90430d] In section 98 (informing owner of request to be treated as bidder), in subsection (3), for “appropriate authority” substitute “Welsh Ministers”.
 
 **Not yet in force.**
 
-**13.**[^key-39c0954bcace49214b7b519835f6eaeb] In section 99 (compensation), in subsection (1), for “appropriate authority” substitute “Welsh Ministers”.
+**13.**[^c-39c0954bcace49214b7b519835f6eaeb] In section 99 (compensation), in subsection (1), for “appropriate authority” substitute “Welsh Ministers”.
 
 **Not yet in force.**
 
-**14.**[^key-5a46295b903ca033813e2259f48cdf8a] In section 101 (enforcement)—
+**14.**[^c-5a46295b903ca033813e2259f48cdf8a] In section 101 (enforcement)—
 
 - (a) in subsection (1), for “appropriate authority” substitute “Welsh Ministers”;
 - (b) in subsection (3), for paragraphs (a) and (b) substitute—
@@ -806,11 +806,11 @@ Section 67
 
 **Not yet in force.**
 
-**15.**[^key-6e25d0427c724516e122893e6c8bec04] Omit section 103.
+**15.**[^c-6e25d0427c724516e122893e6c8bec04] Omit section 103.
 
 **Not yet in force.**
 
-**16.**[^key-d3bcacdc401ab67d09301251ab7fd778] In section 104 (Advice and assistance in relation to land of community value in Wales)—
+**16.**[^c-d3bcacdc401ab67d09301251ab7fd778] In section 104 (Advice and assistance in relation to land of community value in Wales)—
 
 - (a) in the heading, omit “in Wales”;
 - (b) in subsection (1)(a), omit “so far as applying to Wales”;
@@ -818,7 +818,7 @@ Section 67
 
 **Not yet in force.**
 
-**17.**[^key-0a03b6c5358e55a12c53e8d5edca45d6] In section 106 (meaning of “**local authority**”)—
+**17.**[^c-0a03b6c5358e55a12c53e8d5edca45d6] In section 106 (meaning of “**local authority**”)—
 
 - (a) omit subsections (1) and (2);
 - (b) in subsection (3)—
@@ -827,13 +827,13 @@ Section 67
 
 **Not yet in force.**
 
-**18.**[^key-d7581248854d5636ab9b3eb71610ca25] In section 107 (meaning of “**owner**”), in subsection (6), for “appropriate authority” substitute “Welsh Ministers”.
+**18.**[^c-d7581248854d5636ab9b3eb71610ca25] In section 107 (meaning of “**owner**”), in subsection (6), for “appropriate authority” substitute “Welsh Ministers”.
 
 **Not yet in force.**
 
-**19.**[^key-49792c80c7f999d6dec5a2e0b941c79d] In section 108 (interpretation), omit the definition of “appropriate authority”.
+**19.**[^c-49792c80c7f999d6dec5a2e0b941c79d] In section 108 (interpretation), omit the definition of “appropriate authority”.
 
-**20.**[^key-13b9bf921787ddffee2438ee114ecaa4] In section 235 (orders and regulations), after subsection (7)(g) insert—
+**20.**[^c-13b9bf921787ddffee2438ee114ecaa4] In section 235 (orders and regulations), after subsection (7)(g) insert—
 
 > - (ga) regulations under section 86A(5), section 86L(7), 86Z, 86Z4(2) or 86Z5(6);
 
@@ -841,42 +841,42 @@ Section 67
 
 ## Annotations
 
-[^key-3e7719bf404f07ae67aa0f509c95a2ea]: Commencement: Sch. 31 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-3e7719bf404f07ae67aa0f509c95a2ea]: Commencement: Sch. 31 para. 1 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
 
-[^key-18f0496696012fec4b19a14e150a06f1]: Commencement: Sch. 31 para. 2 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-18f0496696012fec4b19a14e150a06f1]: Commencement: Sch. 31 para. 2 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-70c1721ca8535256fc42e6b4959f17e5]: Commencement: Sch. 31 para. 3 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-70c1721ca8535256fc42e6b4959f17e5]: Commencement: Sch. 31 para. 3 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-c1f3e5c9d3473fe02003fbc129698420]: Commencement: Sch. 31 para. 4 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-c1f3e5c9d3473fe02003fbc129698420]: Commencement: Sch. 31 para. 4 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-22d387351bb88b2a78dc26d99ae478d6]: Commencement: Sch. 31 para. 5 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-22d387351bb88b2a78dc26d99ae478d6]: Commencement: Sch. 31 para. 5 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-ac3e659b5b15e3f2cc07e2dd1dd7cf64]: Commencement: Sch. 31 para. 6 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-ac3e659b5b15e3f2cc07e2dd1dd7cf64]: Commencement: Sch. 31 para. 6 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-4913402d3cb67cb95fbb6106fc3f2971]: Commencement: Sch. 31 para. 7 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-4913402d3cb67cb95fbb6106fc3f2971]: Commencement: Sch. 31 para. 7 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-1a1911ef2a3fd8ab0416a1b5c714069b]: Commencement: Sch. 31 para. 8 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-1a1911ef2a3fd8ab0416a1b5c714069b]: Commencement: Sch. 31 para. 8 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-c1912391051ad490dcb9d081e2c5ceab]: Commencement: Sch. 31 para. 9 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-c1912391051ad490dcb9d081e2c5ceab]: Commencement: Sch. 31 para. 9 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-70d8856424d486e425098f691a2f8df1]: Commencement: Sch. 31 para. 10 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-70d8856424d486e425098f691a2f8df1]: Commencement: Sch. 31 para. 10 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-e056bb59e4a354e17241b92096abb1f3]: Commencement: Sch. 31 para. 11 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-e056bb59e4a354e17241b92096abb1f3]: Commencement: Sch. 31 para. 11 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-c5d9a3fbca39bc8e5832c116ed90430d]: Commencement: Sch. 31 para. 12 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-c5d9a3fbca39bc8e5832c116ed90430d]: Commencement: Sch. 31 para. 12 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-39c0954bcace49214b7b519835f6eaeb]: Commencement: Sch. 31 para. 13 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-39c0954bcace49214b7b519835f6eaeb]: Commencement: Sch. 31 para. 13 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-5a46295b903ca033813e2259f48cdf8a]: Commencement: Sch. 31 para. 14 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-5a46295b903ca033813e2259f48cdf8a]: Commencement: Sch. 31 para. 14 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-6e25d0427c724516e122893e6c8bec04]: Commencement: Sch. 31 para. 15 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-6e25d0427c724516e122893e6c8bec04]: Commencement: Sch. 31 para. 15 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-d3bcacdc401ab67d09301251ab7fd778]: Commencement: Sch. 31 para. 16 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-d3bcacdc401ab67d09301251ab7fd778]: Commencement: Sch. 31 para. 16 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-0a03b6c5358e55a12c53e8d5edca45d6]: Commencement: Sch. 31 para. 17 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-0a03b6c5358e55a12c53e8d5edca45d6]: Commencement: Sch. 31 para. 17 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-d7581248854d5636ab9b3eb71610ca25]: Commencement: Sch. 31 para. 18 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-d7581248854d5636ab9b3eb71610ca25]: Commencement: Sch. 31 para. 18 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-49792c80c7f999d6dec5a2e0b941c79d]: Commencement: Sch. 31 para. 19 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
+[^c-49792c80c7f999d6dec5a2e0b941c79d]: Commencement: Sch. 31 para. 19 not in force at Royal Assent, see [s. 108(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/6)
 
-[^key-13b9bf921787ddffee2438ee114ecaa4]: Commencement: Sch. 31 para. 20 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)
+[^c-13b9bf921787ddffee2438ee114ecaa4]: Commencement: Sch. 31 para. 20 in force at Royal Assent for specified purposes, see [s. 108(1)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Interpretation of Part 6[^key-4102806dfb2cc62abc4d256251906f3c]
+## 41. Interpretation of Part 6[^c-4102806dfb2cc62abc4d256251906f3c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4102806dfb2cc62abc4d256251906f3c]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-4102806dfb2cc62abc4d256251906f3c]: Commencement: Reg. 41 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

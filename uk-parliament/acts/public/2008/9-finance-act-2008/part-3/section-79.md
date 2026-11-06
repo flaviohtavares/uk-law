@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. First-year tax credits[^key-cb5f5375c051cd68d679fbff01f64e83]
+## 79. First-year tax credits[^c-cb5f5375c051cd68d679fbff01f64e83]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cb5f5375c051cd68d679fbff01f64e83]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukpga/2008/9/section/79) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(iv)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/iv)
+[^c-cb5f5375c051cd68d679fbff01f64e83]: Textual amendment: [S. 79](https://www.legislation.gov.uk/ukpga/2008/9/section/79) repealed (with effect in accordance with s. 33(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(2)(c)(iv)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/2/c/iv)

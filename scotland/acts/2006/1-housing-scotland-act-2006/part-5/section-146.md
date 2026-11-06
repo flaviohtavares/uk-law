@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 146. HMO amenity notices[^key-6f61e6bffe952cae09b7beacc3beb030]
+## 146. HMO amenity notices[^c-6f61e6bffe952cae09b7beacc3beb030]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f61e6bffe952cae09b7beacc3beb030]: Commencement: [S. 146](https://www.legislation.gov.uk/asp/2006/1/section/146) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-6f61e6bffe952cae09b7beacc3beb030]: Commencement: [S. 146](https://www.legislation.gov.uk/asp/2006/1/section/146) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

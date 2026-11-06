@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 195. Meaning of “surviving scheme partner”[^key-da72f3c2fa6b6a6777e867c82dc13911]
+## 195. Meaning of “surviving scheme partner”[^c-da72f3c2fa6b6a6777e867c82dc13911]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-da72f3c2fa6b6a6777e867c82dc13911]: Textual amendment: [Reg. 195](https://www.legislation.gov.uk/nisr/2008/256/regulation/195) substituted (16.8.2022) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [50](https://www.legislation.gov.uk/nisr/2022/196/regulation/50)
+[^c-da72f3c2fa6b6a6777e867c82dc13911]: Textual amendment: [Reg. 195](https://www.legislation.gov.uk/nisr/2008/256/regulation/195) substituted (16.8.2022) by [The Health and Social Care Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/196)](https://www.legislation.gov.uk/nisr/2022/196), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/196/regulation/1/2), [50](https://www.legislation.gov.uk/nisr/2022/196/regulation/50)

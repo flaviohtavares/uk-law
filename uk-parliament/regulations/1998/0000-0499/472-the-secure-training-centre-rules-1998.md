@@ -53,8 +53,8 @@ These Rules may be cited as the Secure Training Centre Rules 1998 and shall come
 In these Rules unless the contrary intention appears the expression:
 
 - “centre" means a secure training centre;
-- “compulsory school age" has the meaning assigned to it in section 8[^key-13e3edef84f3f23c309727635e1fffbb] of the Education Act 1996 [^c16659361];
-- “convicted trainee” means a trainee who has been ordered to be detained in consequence of his conviction for an offence, and the expression “unconvicted trainee” shall be construed accordingly[^key-e69f3bb37bacfec8f4de0df7cc96f7cb].
+- “compulsory school age" has the meaning assigned to it in section 8[^c-13e3edef84f3f23c309727635e1fffbb] of the Education Act 1996 [^c16659361];
+- “convicted trainee” means a trainee who has been ordered to be detained in consequence of his conviction for an offence, and the expression “unconvicted trainee” shall be construed accordingly[^c-e69f3bb37bacfec8f4de0df7cc96f7cb].
 - “governor" includes an officer for the time being in charge of a centre;
 - “independent person" means a person appointed under rule 44 to visit centres and to whom representations may be made by trainees;
 - “legal adviser" means, in relation to a trainee, his counsel or solicitor, and includes a clerk acting on behalf of his solicitor;
@@ -71,9 +71,9 @@ In these Rules unless the contrary intention appears the expression:
 (2) The aim mentioned in paragraph (1)(b) above shall be achieved, in particular, by—
 
 - (a) providing a positive regime offering high standards of education and training;
-- (b) in the case of convicted trainees,[^key-0bb1b6e7d93777b626aa43cc45374c51] establishing a programme designed to tackle the offending behaviour of each trainee and to assist in his development;
+- (b) in the case of convicted trainees,[^c-0bb1b6e7d93777b626aa43cc45374c51] establishing a programme designed to tackle the offending behaviour of each trainee and to assist in his development;
 - (c) fostering links between the trainee and the outside community; and
-- (d) in the case of convicted trainees,[^key-283654fe4d5fdd22809117d75eae03a5] co-operating with the services responsible for the trainee’s supervision after release.
+- (d) in the case of convicted trainees,[^c-283654fe4d5fdd22809117d75eae03a5] co-operating with the services responsible for the trainee’s supervision after release.
 
 (3) A statement of the aims mentioned in paragraph (1) above and how they are to be achieved shall be prepared and displayed in each centre and shall be made available on request—
 
@@ -134,7 +134,7 @@ Provided that such directions shall be designed to secure that supervision is no
 
 (1) The Secretary of State may, with a view to securing discipline and good order or the prevention of crime or in the interests of any persons, impose restrictions, either generally or in a particular case, upon the communications to be permitted between a trainee and other persons.
 
-(2) Except as provided by [^key-1008c7e33f7701cde5f8e54719b764c3]... these Rules, a trainee shall not be permitted to communicate with any outside person, or that person with him, without the leave of the Secretary of State.
+(2) Except as provided by [^c-1008c7e33f7701cde5f8e54719b764c3]... these Rules, a trainee shall not be permitted to communicate with any outside person, or that person with him, without the leave of the Secretary of State.
 
 (3) Except as provided by these Rules, every letter or communication to or from a trainee may be read or examined by the governor or any officer deputed by him and the governor may, at his discretion, stop any communication on the ground that its contents are objectionable or of inordinate length.
 
@@ -267,19 +267,19 @@ The governor shall ensure that each trainee is enabled to receive instruction in
 
 ## 27. Regime activities
 
-(1) A trainee shall be occupied in education, training, physical education and , in the case of a convicted trainee,[^key-6d18ee4863f919ee4803b07131cdecc9] programmes designed to tackle offending behaviour provided in accordance with rule 3 of these Rules.
+(1) A trainee shall be occupied in education, training, physical education and , in the case of a convicted trainee,[^c-6d18ee4863f919ee4803b07131cdecc9] programmes designed to tackle offending behaviour provided in accordance with rule 3 of these Rules.
 
 (2) For the purpose of determining the appropriate activities under this rule for individual trainees, each trainee shall be assessed as soon as practicable after the date of his reception into the centre and, within 2 weeks of that date, a training plan shall be prepared.
 
 (3) The training plan for each trainee shall be reviewed—
 
-- (a) in the case of a trainee who is ordered to be detained for a period of 6 months or less or an unconvicted trainee[^key-288efbde5383f820084bc2f9284969fc], every two months; and
+- (a) in the case of a trainee who is ordered to be detained for a period of 6 months or less or an unconvicted trainee[^c-288efbde5383f820084bc2f9284969fc], every two months; and
 - (b) in the case of a trainee who is ordered to be detained for a period of more than 6 months, every three months.
 
 (4) The preparation and reviewing of a trainee’s training plan shall be undertaken in consultation with—
 
-- (a)[^key-3347ff9dff4f416aba52959da91528cc] in the case of a convicted trainee, the services responsible for the trainee’s supervision after release;
-- (b) in the case of an unconvicted trainee, an officer of the local authority which is looking after the trainee (within the meaning of section 22(1) of the Children Act 1989 or, as the case may be, section 74(1) of the Social Services and Well-being (Wales) Act 2014[^key-5161ac208e6652ffad7b817a2edd8052]); and
+- (a)[^c-3347ff9dff4f416aba52959da91528cc] in the case of a convicted trainee, the services responsible for the trainee’s supervision after release;
+- (b) in the case of an unconvicted trainee, an officer of the local authority which is looking after the trainee (within the meaning of section 22(1) of the Children Act 1989 or, as the case may be, section 74(1) of the Social Services and Well-being (Wales) Act 2014[^c-5161ac208e6652ffad7b817a2edd8052]); and
 - (c) in all cases, the trainee’s parent or guardian.
 
 (5) An officer of the centre shall be nominated by the governor for the purposes of preparing, supervising and reviewing the training plan of each trainee and carrying out the consultation referred to in paragraph (4) above.
@@ -308,9 +308,9 @@ The governor shall ensure that each trainee is enabled to receive instruction in
 
 ## 30. After care
 
-(1)[^key-dc24595fd23c646bbc4828edcff523ab] From the beginning of his period of detention, consideration shall be given to a trainee’s future and the help to be given to him in preparation for and after his return to the community, in consultation with the appropriate supervising service, in the case of a convicted trainee, or an officer of the local authority which is looking after the trainee (within the meaning of section 22(1) of the Children Act 1989 or, as the case may be, section 74(1) of the Social Services and Well-being (Wales) Act 2014[^key-56765f25ab7df3898e712822421a63a6]), in the case of an unconvicted trainee.
+(1)[^c-dc24595fd23c646bbc4828edcff523ab] From the beginning of his period of detention, consideration shall be given to a trainee’s future and the help to be given to him in preparation for and after his return to the community, in consultation with the appropriate supervising service, in the case of a convicted trainee, or an officer of the local authority which is looking after the trainee (within the meaning of section 22(1) of the Children Act 1989 or, as the case may be, section 74(1) of the Social Services and Well-being (Wales) Act 2014[^c-56765f25ab7df3898e712822421a63a6]), in the case of an unconvicted trainee.
 
-(2) Every convicted trainee[^key-59f04010a9009f7c50bede74f4ad959b] shall be given a careful explanation of his liability to supervision after release and the requirements to which he will be subject while under supervision.
+(2) Every convicted trainee[^c-59f04010a9009f7c50bede74f4ad959b] shall be given a careful explanation of his liability to supervision after release and the requirements to which he will be subject while under supervision.
 
 (3) The training plan prepared for a trainee under rule 27 of these Rules shall have regard to the need to help the trainee in preparation for and after his return to the community and, in the case of a trainee who will be of compulsory school age at the date of that return, to education in the community.
 
@@ -438,9 +438,9 @@ and then only where no alternative method of preventing the event specified in a
 
 ## 42. Viewing of secure training centres
 
-(1) No outside person shall be permitted to view a centre unless authorised by [^key-74bd308361fb3c137635484014422b0f]... the Secretary of State.
+(1) No outside person shall be permitted to view a centre unless authorised by [^c-74bd308361fb3c137635484014422b0f]... the Secretary of State.
 
-(2) No person viewing a centre shall be permitted to take a photograph, make a sketch or communicate with a trainee unless authorised by [^key-78b3f779769e1628bc70ead7cfaeece4]... the Secretary of State.
+(2) No person viewing a centre shall be permitted to take a photograph, make a sketch or communicate with a trainee unless authorised by [^c-78b3f779769e1628bc70ead7cfaeece4]... the Secretary of State.
 
 ## 43. Inspection of centres
 
@@ -537,7 +537,7 @@ The governor of a centre may, with the leave of the Secretary of State, delegate
 > - (b) the following additional functions, namely—
 >   - (i) to promote and safeguard the welfare of the trainees detained in that centre;
 >   - (ii) to co-operate with the monotor appointed in relation to that centre and to facilitate the discharge by him of his duties and functions; and
->   - (iii) to issue a notice to each convicted trainee[^key-2b0b5f3848de1b458ec352b6753eb1e2] prior to his release from the centre which specifies the requirements with which he must comply following his release.
+>   - (iii) to issue a notice to each convicted trainee[^c-2b0b5f3848de1b458ec352b6753eb1e2] prior to his release from the centre which specifies the requirements with which he must comply following his release.
 
 .
 
@@ -561,36 +561,36 @@ By virtue of rule 46, these Rules apply to contracted-out secure training centre
 
 [^c16659351]: Marginal citation: [1994 c.33](https://www.legislation.gov.uk/ukpga/1994/33).
 
-[^key-13e3edef84f3f23c309727635e1fffbb]: Textual amendment: Words in rule 2 substituted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/2)
+[^c-13e3edef84f3f23c309727635e1fffbb]: Textual amendment: Words in rule 2 substituted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/2)
 
 [^c16659361]: Marginal citation: [1996 c.56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-e69f3bb37bacfec8f4de0df7cc96f7cb]: Textual amendment: Words in rule 2 inserted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/3)
+[^c-e69f3bb37bacfec8f4de0df7cc96f7cb]: Textual amendment: Words in rule 2 inserted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/3)
 
-[^key-0bb1b6e7d93777b626aa43cc45374c51]: Textual amendment: Words in rule 3(2)(b) inserted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/4)
+[^c-0bb1b6e7d93777b626aa43cc45374c51]: Textual amendment: Words in rule 3(2)(b) inserted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/4)
 
-[^key-283654fe4d5fdd22809117d75eae03a5]: Textual amendment: Words in rule 3(2)(d) inserted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/4)
+[^c-283654fe4d5fdd22809117d75eae03a5]: Textual amendment: Words in rule 3(2)(d) inserted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/4)
 
-[^key-1008c7e33f7701cde5f8e54719b764c3]: Textual amendment: Words in rule 10(2) omitted (29.12.2003) by virtue of [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/5)
+[^c-1008c7e33f7701cde5f8e54719b764c3]: Textual amendment: Words in rule 10(2) omitted (29.12.2003) by virtue of [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/5)
 
-[^key-6d18ee4863f919ee4803b07131cdecc9]: Textual amendment: Words in rule27(1) inserted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/6)
+[^c-6d18ee4863f919ee4803b07131cdecc9]: Textual amendment: Words in rule27(1) inserted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(6)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/6)
 
-[^key-288efbde5383f820084bc2f9284969fc]: Textual amendment: Words in rule 27(3)(a) inserted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/7)
+[^c-288efbde5383f820084bc2f9284969fc]: Textual amendment: Words in rule 27(3)(a) inserted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(7)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/7)
 
-[^key-3347ff9dff4f416aba52959da91528cc]: Textual amendment: Rule 27(4)(a)-(c) substituted for rule 274)(a)(b) (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules. 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/8)
+[^c-3347ff9dff4f416aba52959da91528cc]: Textual amendment: Rule 27(4)(a)-(c) substituted for rule 274)(a)(b) (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules. 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(8)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/8)
 
-[^key-5161ac208e6652ffad7b817a2edd8052]: Textual amendment: Words in rule 27(4)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 26](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/26)
+[^c-5161ac208e6652ffad7b817a2edd8052]: Textual amendment: Words in rule 27(4)(b) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 26](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/26)
 
-[^key-dc24595fd23c646bbc4828edcff523ab]: Textual amendment: Rule 30(1) substituted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(9)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/9)
+[^c-dc24595fd23c646bbc4828edcff523ab]: Textual amendment: Rule 30(1) substituted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(9)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/9)
 
-[^key-56765f25ab7df3898e712822421a63a6]: Textual amendment: Words in rule 30(1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 27](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/27)
+[^c-56765f25ab7df3898e712822421a63a6]: Textual amendment: Words in rule 30(1) inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) (Secondary Legislation) Regulations 2016 (S.I. 2016/211)](https://www.legislation.gov.uk/wsi/2016/211), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2016/211/regulation/1/2), [Sch. 3 para. 27](https://www.legislation.gov.uk/wsi/2016/211/schedule/3/paragraph/27)
 
-[^key-59f04010a9009f7c50bede74f4ad959b]: Textual amendment: Words in rule 30(2) substituted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(10)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/10)
+[^c-59f04010a9009f7c50bede74f4ad959b]: Textual amendment: Words in rule 30(2) substituted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(10)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/10)
 
-[^key-74bd308361fb3c137635484014422b0f]: Textual amendment: Words in rule 42(1) omitted (29.12.2003) by virtue of [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/5)
+[^c-74bd308361fb3c137635484014422b0f]: Textual amendment: Words in rule 42(1) omitted (29.12.2003) by virtue of [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/5)
 
-[^key-78b3f779769e1628bc70ead7cfaeece4]: Textual amendment: Words in rule 42(2) omitted (29.12.2003) by virtue of [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/5)
+[^c-78b3f779769e1628bc70ead7cfaeece4]: Textual amendment: Words in rule 42(2) omitted (29.12.2003) by virtue of [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/5)
 
 [^c16659371]: Marginal citation: [1989 c.41](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-2b0b5f3848de1b458ec352b6753eb1e2]: Textual amendment: Words in rule 46(14) substituted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(11)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/11)
+[^c-2b0b5f3848de1b458ec352b6753eb1e2]: Textual amendment: Words in rule 46(14) substituted (29.12.2003) by [The Secure Training Centre (Amendment) Rules 2003 (S.I. 2003/3005)](https://www.legislation.gov.uk/uksi/2003/3005), [rules 1](https://www.legislation.gov.uk/uksi/2003/3005/article/1), [2(11)](https://www.legislation.gov.uk/uksi/2003/3005/article/2/11)

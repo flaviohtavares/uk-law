@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Recourse of building society liquidator to meeting of creditors[^key-4bbe3cb5cb99b7eee6669680ac365490]
+## 103. Recourse of building society liquidator to meeting of creditors[^c-4bbe3cb5cb99b7eee6669680ac365490]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.129 of the 1986 Rules.
 
 ## Annotations
 
-[^key-4bbe3cb5cb99b7eee6669680ac365490]: Commencement: Rule 103 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-4bbe3cb5cb99b7eee6669680ac365490]: Commencement: Rule 103 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

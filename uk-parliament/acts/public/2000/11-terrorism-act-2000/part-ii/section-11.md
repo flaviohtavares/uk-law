@@ -29,7 +29,7 @@ summary: ''
 
 (3) A person guilty of an offence under this section shall be liable—
 
-- (a) on conviction on indictment, to imprisonment for a term not exceeding 14[^key-2dca1d1a34e378a5514b162bcceec376] years, to a fine or to both, or
+- (a) on conviction on indictment, to imprisonment for a term not exceeding 14[^c-2dca1d1a34e378a5514b162bcceec376] years, to a fine or to both, or
 - (b) on summary conviction, to imprisonment for a term not exceeding six months, to a fine not exceeding the statutory maximum or to both.
 
 (4) In subsection (2) “**proscribed**” means proscribed for the purposes of any of the following—
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2dca1d1a34e378a5514b162bcceec376]: Textual amendment: Word in [s. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2000/11/section/11/3/a) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 26(1)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/1/a), [50(2)(m)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/m) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/3))
+[^c-2dca1d1a34e378a5514b162bcceec376]: Textual amendment: Word in [s. 11(3)(a)](https://www.legislation.gov.uk/ukpga/2000/11/section/11/3/a) substituted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [ss. 26(1)(a)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/1/a), [50(2)(m)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/m) (with [s. 26(3)](https://www.legislation.gov.uk/ukpga/2021/11/section/26/3))
 
 [^c11204711]: Marginal citation: [1996 c. 22](https://www.legislation.gov.uk/ukpga/1996/22).
 

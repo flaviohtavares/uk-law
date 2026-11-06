@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**35.**[^key-4300de0beab5aa50e796424439b1a5e0] (1) Section 4 (power to grant widows' and children’s pensions) is amended as follows.
+**35.**[^c-4300de0beab5aa50e796424439b1a5e0] (1) Section 4 (power to grant widows' and children’s pensions) is amended as follows.
 
 (2) For the heading substitute “Power to grant widows', surviving civil partners' and children’s pensions”.
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4300de0beab5aa50e796424439b1a5e0]: Commencement: Art. 35 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-4300de0beab5aa50e796424439b1a5e0]: Commencement: Art. 35 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
 
 [^f00012]: Footnote: [S.I. 1995/755 (N.I. 2)](https://www.legislation.gov.uk/nisi/1995/755)

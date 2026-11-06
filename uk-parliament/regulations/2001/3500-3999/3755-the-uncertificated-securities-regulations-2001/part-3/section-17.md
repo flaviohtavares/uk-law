@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17.[^key-0dab9479424637573a9ff47689be90f5]
+## 17.[^c-0dab9479424637573a9ff47689be90f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ shall be taken to be a class of shares in relation to which regulation 15 of the
 
 ## Annotations
 
-[^key-0dab9479424637573a9ff47689be90f5]: Commencement: Reg. 17 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-0dab9479424637573a9ff47689be90f5]: Commencement: Reg. 17 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

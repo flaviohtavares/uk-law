@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46B. Retention of entries on the register following a canvass[^key-e25cc409f5be4aa3b45b13ef3f6d3d8f]
+## 46B. Retention of entries on the register following a canvass[^c-e25cc409f5be4aa3b45b13ef3f6d3d8f]
 
 *Extent: N.I.*
 
@@ -48,11 +48,11 @@ section 10A(6) of the 1983 Act does not apply for the duration of the relevant p
 
 (6) In this regulation—
 
-- “[^key-7d8e74d43e9e966c6c49628507952594]**relevant period**” means the period beginning with the conclusion of the canvass mentioned in paragraph (2) and expiring with the publication of a revised version of the register under section 13(1) of the 1983 Act in the sixth calendar year following that in which the canvass was conducted; and
+- “[^c-7d8e74d43e9e966c6c49628507952594]**relevant period**” means the period beginning with the conclusion of the canvass mentioned in paragraph (2) and expiring with the publication of a revised version of the register under section 13(1) of the 1983 Act in the sixth calendar year following that in which the canvass was conducted; and
 - “required information” has the meaning given in section 10ZB of the 1983 Act.
 
 ## Annotations
 
-[^key-e25cc409f5be4aa3b45b13ef3f6d3d8f]: Textual amendment: [Regs. 46A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/46A), [46B](https://www.legislation.gov.uk/uksi/2008/1741/regulation/46B) inserted (18.7.2013) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2013 (S.I. 2013/1846)](https://www.legislation.gov.uk/uksi/2013/1846), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1846/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/1846/regulation/3/1)
+[^c-e25cc409f5be4aa3b45b13ef3f6d3d8f]: Textual amendment: [Regs. 46A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/46A), [46B](https://www.legislation.gov.uk/uksi/2008/1741/regulation/46B) inserted (18.7.2013) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2013 (S.I. 2013/1846)](https://www.legislation.gov.uk/uksi/2013/1846), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1846/regulation/1/1), [3(1)](https://www.legislation.gov.uk/uksi/2013/1846/regulation/3/1)
 
-[^key-7d8e74d43e9e966c6c49628507952594]: Textual amendment: Words in [reg. 46B(6)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/46B/6) substituted (24.1.2025) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2025 (S.I. 2025/71)](https://www.legislation.gov.uk/uksi/2025/71), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/71/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/71/regulation/5)
+[^c-7d8e74d43e9e966c6c49628507952594]: Textual amendment: Words in [reg. 46B(6)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/46B/6) substituted (24.1.2025) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2025 (S.I. 2025/71)](https://www.legislation.gov.uk/uksi/2025/71), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/71/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2025/71/regulation/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Transitional period for defined benefits and hybrid schemes to be optional[^c21291391][^key-e67779aa8f464485aca920391048c6a4]
+## 15. Transitional period for defined benefits and hybrid schemes to be optional[^c21291391][^c-e67779aa8f464485aca920391048c6a4]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^c21291391]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2012/3/section/15) partly in operation; [s. 15](https://www.legislation.gov.uk/nia/2012/3/section/15) in operation for certain purposes at 2.6.2012 see [s. 34(1)](https://www.legislation.gov.uk/nia/2012/3/section/34/1)
 
-[^key-e67779aa8f464485aca920391048c6a4]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2012/3/section/15) in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/d)
+[^c-e67779aa8f464485aca920391048c6a4]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2012/3/section/15) in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(1)(d)](https://www.legislation.gov.uk/nisr/2012/265/article/2/1/d)

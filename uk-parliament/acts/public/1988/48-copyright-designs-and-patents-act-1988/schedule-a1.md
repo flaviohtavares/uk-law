@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE A1 — Regulation of licensing bodies[^key-ede5c393e0201d8cc6a0d221a8c70331]
+## SCHEDULE A1 — Regulation of licensing bodies[^c-ede5c393e0201d8cc6a0d221a8c70331]
 
 *Extent: E+W+S+N.I.*
 
@@ -121,4 +121,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ede5c393e0201d8cc6a0d221a8c70331]: Textual amendment: Sch. A1 inserted (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1), [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/22/paragraph/1)
+[^c-ede5c393e0201d8cc6a0d221a8c70331]: Textual amendment: Sch. A1 inserted (25.4.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(1)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1), [Sch. 22 para. 1](https://www.legislation.gov.uk/ukpga/2013/24/schedule/22/paragraph/1)

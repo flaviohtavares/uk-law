@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75ZA. Power of the court and the Commission to make schemes[^key-0dc01b9891fb1bcb224636ce294a4b0f]
+## 75ZA. Power of the court and the Commission to make schemes[^c-0dc01b9891fb1bcb224636ce294a4b0f]
 
 *Extent: E+W+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0dc01b9891fb1bcb224636ce294a4b0f]: Textual amendment: [S. 75ZA](https://www.legislation.gov.uk/ukpga/2011/25/section/75ZA) and cross-heading inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 8](https://www.legislation.gov.uk/ukpga/2022/6/section/8), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/5)
+[^c-0dc01b9891fb1bcb224636ce294a4b0f]: Textual amendment: [S. 75ZA](https://www.legislation.gov.uk/ukpga/2011/25/section/75ZA) and cross-heading inserted (31.10.2022) by [Charities Act 2022 (c. 6)](https://www.legislation.gov.uk/ukpga/2022/6), [ss. 8](https://www.legislation.gov.uk/ukpga/2022/6/section/8), [41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4); [S.I. 2022/1109](https://www.legislation.gov.uk/uksi/2022/1109), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2022/1109/schedule/paragraph/5)

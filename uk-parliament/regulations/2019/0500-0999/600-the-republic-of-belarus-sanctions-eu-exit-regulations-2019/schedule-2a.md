@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Interception and monitoring goods and interception and monitoring technology[^key-6cfa4d1b96ed9f544cd515df35252a10]
+## SCHEDULE 2A — Interception and monitoring goods and interception and monitoring technology[^c-6cfa4d1b96ed9f544cd515df35252a10]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,11 +81,11 @@ The acronyms and abbreviations used in this Schedule have the following meaning�
 | WEP | Wired Equivalent Privacy |  |
 | WPA | Wi-Fi Protected Access |  |
 | VoIP | Voice over Internet Protocol |  |
-| WCDMA[^key-104077688d9277c4e6528d1b6210ebda] | Wideband Code Division Multiple Access |  |
+| WCDMA[^c-104077688d9277c4e6528d1b6210ebda] | Wideband Code Division Multiple Access |  |
 | IDEN | Integrated Digital Enhanced Network |  |
 
 ## Annotations
 
-[^key-6cfa4d1b96ed9f544cd515df35252a10]: Textual amendment: Schs. 2A, 2B inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2021/1146/regulation/37)
+[^c-6cfa4d1b96ed9f544cd515df35252a10]: Textual amendment: Schs. 2A, 2B inserted (14.10.2021 at noon) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/1146)](https://www.legislation.gov.uk/uksi/2021/1146), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1146/regulation/1/2), [37](https://www.legislation.gov.uk/uksi/2021/1146/regulation/37)
 
-[^key-104077688d9277c4e6528d1b6210ebda]: Textual amendment: Words in [Sch. 2A para. 5](https://www.legislation.gov.uk/uksi/2019/600/schedule/2A/paragraph/5) substituted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2022 (S.I. 2022/818)](https://www.legislation.gov.uk/uksi/2022/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/818/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2022/818/regulation/5/5)
+[^c-104077688d9277c4e6528d1b6210ebda]: Textual amendment: Words in [Sch. 2A para. 5](https://www.legislation.gov.uk/uksi/2019/600/schedule/2A/paragraph/5) substituted (9.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2022 (S.I. 2022/818)](https://www.legislation.gov.uk/uksi/2022/818), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/818/regulation/1/2), [5(5)](https://www.legislation.gov.uk/uksi/2022/818/regulation/5/5)

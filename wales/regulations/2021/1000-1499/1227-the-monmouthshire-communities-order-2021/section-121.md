@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**121.**[^key-0047202bfe75b221163ae15bb152f6d2][^key-700fdc6aad260fd5265b692608324a22] The part of the community of Llanarth shown hatched on Map 92—
+**121.**[^c-0047202bfe75b221163ae15bb152f6d2][^c-700fdc6aad260fd5265b692608324a22] The part of the community of Llanarth shown hatched on Map 92—
 
 - (a) is transferred to the community of Raglan;
 - (b) forms part of the community ward of Raglan;
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0047202bfe75b221163ae15bb152f6d2]: Commencement: Art. 121 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-0047202bfe75b221163ae15bb152f6d2]: Commencement: Art. 121 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-700fdc6aad260fd5265b692608324a22]: Commencement: [Art. 121](https://www.legislation.gov.uk/wsi/2021/1227/article/121) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-700fdc6aad260fd5265b692608324a22]: Commencement: [Art. 121](https://www.legislation.gov.uk/wsi/2021/1227/article/121) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

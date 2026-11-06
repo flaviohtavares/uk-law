@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Quality requirement: UK defined benefits schemes[^key-057271bc22a825264ea6b754bac11cc3]
+## 21. Quality requirement: UK defined benefits schemes[^c-057271bc22a825264ea6b754bac11cc3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A defined benefits scheme that has its main administration in the United Kingdom
 
 ## Annotations
 
-[^key-057271bc22a825264ea6b754bac11cc3]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/2008/30/section/21) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 82](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/82)
+[^c-057271bc22a825264ea6b754bac11cc3]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/2008/30/section/21) substituted (6.4.2016 unless brought into force earlier by an order under s. 56(1) of the amending Act) by [Pensions Act 2014 (c. 19)](https://www.legislation.gov.uk/ukpga/2014/19), [s. 56(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/4), [Sch. 13 para. 82](https://www.legislation.gov.uk/ukpga/2014/19/schedule/13/paragraph/82)

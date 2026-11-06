@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Fire and rescue authorities: powers of delegation[^key-0bc16831e6e03a31d7c10571d0cf15ef]
+## 10. Fire and rescue authorities: powers of delegation[^c-0bc16831e6e03a31d7c10571d0cf15ef]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bc16831e6e03a31d7c10571d0cf15ef]: Commencement: S. 10 in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2)
+[^c-0bc16831e6e03a31d7c10571d0cf15ef]: Commencement: S. 10 in force at 1.4.2010 by [S.I. 2009/3272](https://www.legislation.gov.uk/uksi/2009/3272), [art. 3(1)](https://www.legislation.gov.uk/uksi/2009/3272/article/3/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/3272/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 334. Financial provision[^key-0786f2d2d388d17cdbd6c17c5d3b946e]
+## 334. Financial provision[^c-0786f2d2d388d17cdbd6c17c5d3b946e]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ There is to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-0786f2d2d388d17cdbd6c17c5d3b946e]: Commencement: S. 334 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)
+[^c-0786f2d2d388d17cdbd6c17c5d3b946e]: Commencement: S. 334 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)

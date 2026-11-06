@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 59. Buildings licensed for public worship before 1 March 1993[^key-03855bf2a1a17cdf71b08584bce59fd6]
+## 59. Buildings licensed for public worship before 1 March 1993[^c-03855bf2a1a17cdf71b08584bce59fd6]
 
 *Extent: E*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03855bf2a1a17cdf71b08584bce59fd6]: Commencement: [S. 59](https://www.legislation.gov.uk/ukcm/2018/3/section/59) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-03855bf2a1a17cdf71b08584bce59fd6]: Commencement: [S. 59](https://www.legislation.gov.uk/ukcm/2018/3/section/59) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

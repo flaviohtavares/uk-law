@@ -31,7 +31,7 @@ summary: ''
 
 Housing, Wales
 
-The Residential Property Tribunal Procedures and Fees (Wales) (Amendment) Regulations 2015 (revoked)[^key-5f1fe43f7a5954a6d8e0769dfd2a479f]
+The Residential Property Tribunal Procedures and Fees (Wales) (Amendment) Regulations 2015 (revoked)[^c-5f1fe43f7a5954a6d8e0769dfd2a479f]
 
 Made
 
@@ -45,48 +45,48 @@ Coming into force
 
 23 November 2015
 
-[^key-5f1fe43f7a5954a6d8e0769dfd2a479f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f1fe43f7a5954a6d8e0769dfd2a479f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-5f1fe43f7a5954a6d8e0769dfd2a479f]
+## 1. Title, commencement and application[^c-5f1fe43f7a5954a6d8e0769dfd2a479f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^key-5f1fe43f7a5954a6d8e0769dfd2a479f]
+## 2. Amendment of the Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^c-5f1fe43f7a5954a6d8e0769dfd2a479f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5f1fe43f7a5954a6d8e0769dfd2a479f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f1fe43f7a5954a6d8e0769dfd2a479f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Amendment of the Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^key-5f1fe43f7a5954a6d8e0769dfd2a479f]
+## SCHEDULE — Amendment of the Residential Property Tribunal Procedures and Fees (Wales) Regulations 2012[^c-5f1fe43f7a5954a6d8e0769dfd2a479f]
 
 Regulation 2
 
-**1.**[^key-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-5f1fe43f7a5954a6d8e0769dfd2a479f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5f1fe43f7a5954a6d8e0769dfd2a479f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5f1fe43f7a5954a6d8e0769dfd2a479f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5f1fe43f7a5954a6d8e0769dfd2a479f]: Textual amendment: Regulations revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/uksi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/1), [52(d)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/52/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/2))
+[^c-5f1fe43f7a5954a6d8e0769dfd2a479f]: Textual amendment: Regulations revoked (23.11.2016) by [The Residential Property Tribunal Procedures and Fees (Wales) Regulations 2016 (S.I. 2016/1110)](https://www.legislation.gov.uk/uksi/2016/1110), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/1), [52(d)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/52/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/1110/regulation/1/2))

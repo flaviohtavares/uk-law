@@ -24,7 +24,7 @@ Section 49
 
 ### Witnesses and evidence
 
-**1.**[^key-802d7e115c03b9bde35eea4679cd5fbd] In the Coroners Act (Northern Ireland) 1959 (c. 15), for section 17 (witnesses to be summoned) substitute—
+**1.**[^c-802d7e115c03b9bde35eea4679cd5fbd] In the Coroners Act (Northern Ireland) 1959 (c. 15), for section 17 (witnesses to be summoned) substitute—
 
 > **17A. Power to require evidence to be given or produced**
 >
@@ -102,10 +102,10 @@ Section 49
 >
 > (6) A person guilty of an offence under subsection (1) or (2) is liable on summary conviction to a fine not exceeding level 3 on the standard scale, or to imprisonment for a term not exceeding 6 months, or to both.
 
-**2.**[^key-50ffebe372d89b934e036287b0c99b28] Omit sections 19 (service of summonses) and 20 (provisions as to witnesses) of that Act.
+**2.**[^c-50ffebe372d89b934e036287b0c99b28] Omit sections 19 (service of summonses) and 20 (provisions as to witnesses) of that Act.
 
 ## Annotations
 
-[^key-802d7e115c03b9bde35eea4679cd5fbd]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/11/paragraph/1) in force at 29.2.2016 by [S.R. 2016/23](https://www.legislation.gov.uk/nisr/2016/23), [art. 2](https://www.legislation.gov.uk/nisr/2016/23/article/2)
+[^c-802d7e115c03b9bde35eea4679cd5fbd]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/11/paragraph/1) in force at 29.2.2016 by [S.R. 2016/23](https://www.legislation.gov.uk/nisr/2016/23), [art. 2](https://www.legislation.gov.uk/nisr/2016/23/article/2)
 
-[^key-50ffebe372d89b934e036287b0c99b28]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/11/paragraph/2) in force at 29.2.2016 by [S.R. 2016/23](https://www.legislation.gov.uk/nisr/2016/23), [art. 2](https://www.legislation.gov.uk/nisr/2016/23/article/2)
+[^c-50ffebe372d89b934e036287b0c99b28]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2009/25/schedule/11/paragraph/2) in force at 29.2.2016 by [S.R. 2016/23](https://www.legislation.gov.uk/nisr/2016/23), [art. 2](https://www.legislation.gov.uk/nisr/2016/23/article/2)

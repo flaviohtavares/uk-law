@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Survey of corporate joint committee’s area[^key-985bd7b9db0782fa261cd388f96c4598]
+## 16. Survey of corporate joint committee’s area[^c-985bd7b9db0782fa261cd388f96c4598]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-985bd7b9db0782fa261cd388f96c4598]: Commencement: S. 16 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-985bd7b9db0782fa261cd388f96c4598]: Commencement: S. 16 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

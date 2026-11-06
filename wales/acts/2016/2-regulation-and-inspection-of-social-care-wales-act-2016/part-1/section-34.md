@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Powers of inspector to enter ... premises[^key-b3d6d2c643e1c822e58206c8602da853][^key-9ca06037793a5f94223de4c3667889e2]
+## 34. Powers of inspector to enter ... premises[^c-b3d6d2c643e1c822e58206c8602da853][^c-9ca06037793a5f94223de4c3667889e2]
 
 *Extent: E+W*
 
-(1) For the purposes of carrying out an inspection or an investigation[^key-a518a7b7199e98441ffe94e0c11a5693], an inspector may enter [^key-132732f02035c09af0ebf445b6f76f7f]... any premises which the inspector has reasonable grounds to believe is (or has been) used—
+(1) For the purposes of carrying out an inspection or an investigation[^c-a518a7b7199e98441ffe94e0c11a5693], an inspector may enter [^c-132732f02035c09af0ebf445b6f76f7f]... any premises which the inspector has reasonable grounds to believe is (or has been) used—
 
 - (a) as a place at or from which a regulated service is (or has been) provided, or
 - (b) in connection with the provision of a regulated service.
 
-(2) But an inspector may not enter [^key-367fddbbd448ae74b3a32206b049f6a8]... premises used wholly or mainly as a private dwelling unless the occupier consents.
+(2) But an inspector may not enter [^c-367fddbbd448ae74b3a32206b049f6a8]... premises used wholly or mainly as a private dwelling unless the occupier consents.
 
-(3) Where an inspector enters premises for the purposes of carrying out an inspection or an investigation[^key-c0fc1e95a60381ed9a3c2c56c541fc63], the inspector must, if requested to do so by any person at the premises, produce a document showing the inspector's authorisation under section 33.
+(3) Where an inspector enters premises for the purposes of carrying out an inspection or an investigation[^c-c0fc1e95a60381ed9a3c2c56c541fc63], the inspector must, if requested to do so by any person at the premises, produce a document showing the inspector's authorisation under section 33.
 
-(4) When carrying out an inspection or an investigation,[^key-22a76c5d6e46c77c72fb6a5108c5470c] the inspector may—
+(4) When carrying out an inspection or an investigation,[^c-22a76c5d6e46c77c72fb6a5108c5470c] the inspector may—
 
 - (a) examine the state and management of the premises and assess the well-being of any persons accommodated or receiving care and support there;
 - (b) require—
@@ -55,16 +55,16 @@ summary: ''
 
 ## Annotations
 
-[^key-b3d6d2c643e1c822e58206c8602da853]: Commencement: S. 34 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)
+[^c-b3d6d2c643e1c822e58206c8602da853]: Commencement: S. 34 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(e)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/e)
 
-[^key-9ca06037793a5f94223de4c3667889e2]: Textual amendment: Words in s. 34 heading omitted (1.1.2026) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 7(7)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/7); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/c)
+[^c-9ca06037793a5f94223de4c3667889e2]: Textual amendment: Words in s. 34 heading omitted (1.1.2026) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2), [Sch. 1 para. 7(7)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/7/7); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/c)
 
-[^key-a518a7b7199e98441ffe94e0c11a5693]: Textual amendment: Words in s. 34(1) inserted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 17(5)(a)(i)](https://www.legislation.gov.uk/asc/2025/1/section/17/5/a/i), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-a518a7b7199e98441ffe94e0c11a5693]: Textual amendment: Words in s. 34(1) inserted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 17(5)(a)(i)](https://www.legislation.gov.uk/asc/2025/1/section/17/5/a/i), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
 
-[^key-132732f02035c09af0ebf445b6f76f7f]: Textual amendment: Words in s. 34(1) omitted (1.4.2026) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 17(5)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/17/5/a/ii), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-132732f02035c09af0ebf445b6f76f7f]: Textual amendment: Words in s. 34(1) omitted (1.4.2026) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 17(5)(a)(ii)](https://www.legislation.gov.uk/asc/2025/1/section/17/5/a/ii), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
 
-[^key-367fddbbd448ae74b3a32206b049f6a8]: Textual amendment: Words in s. 34(2) omitted (1.4.2026) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 17(5)(b)](https://www.legislation.gov.uk/asc/2025/1/section/17/5/b), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-367fddbbd448ae74b3a32206b049f6a8]: Textual amendment: Words in s. 34(2) omitted (1.4.2026) by virtue of [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 17(5)(b)](https://www.legislation.gov.uk/asc/2025/1/section/17/5/b), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
 
-[^key-c0fc1e95a60381ed9a3c2c56c541fc63]: Textual amendment: Words in s. 34(3) inserted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 17(5)(c)](https://www.legislation.gov.uk/asc/2025/1/section/17/5/c), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-c0fc1e95a60381ed9a3c2c56c541fc63]: Textual amendment: Words in s. 34(3) inserted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 17(5)(c)](https://www.legislation.gov.uk/asc/2025/1/section/17/5/c), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
 
-[^key-22a76c5d6e46c77c72fb6a5108c5470c]: Textual amendment: Words in s. 34(4) inserted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 17(5)(d)](https://www.legislation.gov.uk/asc/2025/1/section/17/5/d), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-22a76c5d6e46c77c72fb6a5108c5470c]: Textual amendment: Words in s. 34(4) inserted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 17(5)(d)](https://www.legislation.gov.uk/asc/2025/1/section/17/5/d), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)

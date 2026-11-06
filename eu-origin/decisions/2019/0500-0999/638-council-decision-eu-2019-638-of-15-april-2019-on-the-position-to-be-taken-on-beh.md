@@ -33,18 +33,18 @@ of 15 April 2019
 
 on the position to be taken on behalf of the European Union at the fourteenth meeting of the Conference of the Parties with regard to certain amendments to Annexes II, VIII and IX to the Basel Convention on the Control of Transboundary Movements of Hazardous Wastes and their Disposal (revoked)
 
-[^key-6f61de6bd7a95bdb6532d81061466542]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f61de6bd7a95bdb6532d81061466542]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-6f61de6bd7a95bdb6532d81061466542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-6f61de6bd7a95bdb6532d81061466542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-6f61de6bd7a95bdb6532d81061466542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-6f61de6bd7a95bdb6532d81061466542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-6f61de6bd7a95bdb6532d81061466542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-6f61de6bd7a95bdb6532d81061466542] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f61de6bd7a95bdb6532d81061466542]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f61de6bd7a95bdb6532d81061466542]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f61de6bd7a95bdb6532d81061466542]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-6f61de6bd7a95bdb6532d81061466542]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

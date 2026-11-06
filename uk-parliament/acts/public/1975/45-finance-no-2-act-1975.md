@@ -279,7 +279,7 @@ Section 50 of the [^c7098651]Finance Act 1973 (temporary statutory effect of Hou
 
 ### 73. Government stock held by minors.[^c7098721]
 
-(1) Where the holder of any of the joint holders of Government stock is a minor the Registrar of Government Stock[^key-0a2359a4eb291aa579d075dbe0ff5180] may, if he thinks fit[^key-1ba99fc84583f114d4d31ee756ebfaca], but subject to subsection (2) below—
+(1) Where the holder of any of the joint holders of Government stock is a minor the Registrar of Government Stock[^c-0a2359a4eb291aa579d075dbe0ff5180] may, if he thinks fit[^c-1ba99fc84583f114d4d31ee756ebfaca], but subject to subsection (2) below—
 
 - (a) pay the dividends accruing on the stock in accordance with the written instructions of a parent or guardian of the minor or minors;
 - (b) pay any redemption money becoming payable in respect of the stock in accordance with the written instructions of the minor or minors and a parent or guardian of his or each of them;
@@ -287,11 +287,11 @@ Section 50 of the [^c7098651]Finance Act 1973 (temporary statutory effect of Hou
 
 (and, in each case, of every other joint holder who is not a minor).
 
-(2) The Registrar of Government Stock shall not exercise any power conferred on him[^key-38aff294355fc14a71d83f28547c0cb7] by paragraph (b) or (c) of subsection (1) above unless the Registrar of Government Stock is satisfied that the minor has attained the age of seven years.
+(2) The Registrar of Government Stock shall not exercise any power conferred on him[^c-38aff294355fc14a71d83f28547c0cb7] by paragraph (b) or (c) of subsection (1) above unless the Registrar of Government Stock is satisfied that the minor has attained the age of seven years.
 
 (3) Where the Registrar of Government Stock makes a payment or effects a transfer in accordance with this section and the instructions given under it, then—
 
-- (a) in the case of a payment, the payment shall discharge the Registrar of Government Stock of his[^key-918b6fa2d1c1df8119003af67a08714f] liabilities in respect of the dividend which has accrued or redemption money which has become payable on the stock;
+- (a) in the case of a payment, the payment shall discharge the Registrar of Government Stock of his[^c-918b6fa2d1c1df8119003af67a08714f] liabilities in respect of the dividend which has accrued or redemption money which has become payable on the stock;
 - (b) in the case of a transfer, the transfer shall not be revocable at the instance of the minor (except in circumstances in which it would be revocable at the instance of a person who was not a minor);
 
 and no other liability arising out of the payment or transfer shall be incurred by the Registrar of Government Stock to any person.
@@ -299,7 +299,7 @@ and no other liability arising out of the payment or transfer shall be incurred 
 (4) In this section—
 
 - “**Government stock**” means securities of any description issued by the Government of the United Kingdom and registered by the Registrar of Government Stock; and
-- [^key-92780e5910665f488a666756bac0c928]...
+- [^c-92780e5910665f488a666756bac0c928]...
 
 and references in subsection (1) above to the instructions of a guardian are, in a case where there are joint guardians, references to the joint instructions of those guardians.
 
@@ -575,15 +575,15 @@ These repeals do not have effect in relation to tax charged by assessments notic
 
 [^c7098721]: Modification: S. 73 excluded (3.7.1998) by [S.I. 1998/1446](https://www.legislation.gov.uk/uksi/1998/1446), [art. 16(2)(a)(i)](https://www.legislation.gov.uk/uksi/1998/1446/article/16/2/a/i)
 
-[^key-0a2359a4eb291aa579d075dbe0ff5180]: Textual amendment: Words in s. 73 substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [19(2)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/19/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-0a2359a4eb291aa579d075dbe0ff5180]: Textual amendment: Words in s. 73 substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [19(2)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/19/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
-[^key-1ba99fc84583f114d4d31ee756ebfaca]: Textual amendment: Words in s. 73(1) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [19(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/19/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-1ba99fc84583f114d4d31ee756ebfaca]: Textual amendment: Words in s. 73(1) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [19(3)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/19/3) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
-[^key-38aff294355fc14a71d83f28547c0cb7]: Textual amendment: Word in s. 73(2) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [19(4)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/19/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-38aff294355fc14a71d83f28547c0cb7]: Textual amendment: Word in s. 73(2) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [19(4)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/19/4) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
-[^key-918b6fa2d1c1df8119003af67a08714f]: Textual amendment: Word in s. 73(3)(a) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [19(5)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/19/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-918b6fa2d1c1df8119003af67a08714f]: Textual amendment: Word in s. 73(3)(a) substituted (1.7.2004) by [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [19(5)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/19/5) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
-[^key-92780e5910665f488a666756bac0c928]: Textual amendment: Words in s. 73(4) omitted (1.7.2004) by virtue of [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [19(6)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/19/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
+[^c-92780e5910665f488a666756bac0c928]: Textual amendment: Words in s. 73(4) omitted (1.7.2004) by virtue of [The Government Stock (Consequential and Transitional Provision) (No. 2) Order 2004 (S.I. 2004/1662)](https://www.legislation.gov.uk/uksi/2004/1662), [art. 1](https://www.legislation.gov.uk/uksi/2004/1662/article/1), [Sch. paras. 1](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/1), [19(6)](https://www.legislation.gov.uk/uksi/2004/1662/schedule/paragraph/19/6) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/1662/article/3))
 
 [^c7098751]: Textual amendment: S. 73(4A) added (26.11.2001) by [S.I. 2001/3755](https://www.legislation.gov.uk/uksi/2001/3755), [reg. 51](https://www.legislation.gov.uk/uksi/2001/3755/regulation/51), [Sch. 7 Pt. I para. 6(b)](https://www.legislation.gov.uk/uksi/2001/3755/schedule/7/part/I/paragraph/6/b) (with [regs. 39](https://www.legislation.gov.uk/uksi/2001/3755/regulation/39), [45](https://www.legislation.gov.uk/uksi/2001/3755/regulation/45))
 

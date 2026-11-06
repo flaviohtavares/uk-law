@@ -37,22 +37,22 @@ amending Decision 97/80/EC laying down provisions for the implementation of Coun
 
 (2011/142/EU) (revoked)
 
-[^key-8d47faad609cbea4d18b03ef21baec39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d47faad609cbea4d18b03ef21baec39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-8d47faad609cbea4d18b03ef21baec39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-8d47faad609cbea4d18b03ef21baec39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-8d47faad609cbea4d18b03ef21baec39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-8d47faad609cbea4d18b03ef21baec39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d47faad609cbea4d18b03ef21baec39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d47faad609cbea4d18b03ef21baec39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-8d47faad609cbea4d18b03ef21baec39]
+## ANNEX[^c-8d47faad609cbea4d18b03ef21baec39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d47faad609cbea4d18b03ef21baec39]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/65)
+[^c-8d47faad609cbea4d18b03ef21baec39]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/65)

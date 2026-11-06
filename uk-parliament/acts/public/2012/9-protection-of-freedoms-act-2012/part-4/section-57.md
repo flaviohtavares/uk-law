@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Maximum detention period of 14 days[^key-7f893101256b6555fbd0bd86d566da5f]
+## 57. Maximum detention period of 14 days[^c-7f893101256b6555fbd0bd86d566da5f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7f893101256b6555fbd0bd86d566da5f]: Commencement: S. 57 in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/a)
+[^c-7f893101256b6555fbd0bd86d566da5f]: Commencement: S. 57 in force at 10.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 4(a)](https://www.legislation.gov.uk/uksi/2012/1205/article/4/a)

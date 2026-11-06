@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Compliance periods and timeline[^key-7fdb1c03ea7dad5d89420045940aa14b]
+## 13. Compliance periods and timeline[^c-7fdb1c03ea7dad5d89420045940aa14b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Secretary of State, and each Regulator and aeroplane operator must comply wi
 
 ## Annotations
 
-[^key-7fdb1c03ea7dad5d89420045940aa14b]: Commencement: Art. 13 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-7fdb1c03ea7dad5d89420045940aa14b]: Commencement: Art. 13 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

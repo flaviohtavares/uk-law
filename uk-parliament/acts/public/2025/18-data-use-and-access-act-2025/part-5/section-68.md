@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Consent to processing for the purposes of scientific research[^key-77213ce281bead3a87ea5dc7a7bc62f5][^key-76aef634d296f11e25446616650f1be0]
+## 68. Consent to processing for the purposes of scientific research[^c-77213ce281bead3a87ea5dc7a7bc62f5][^c-76aef634d296f11e25446616650f1be0]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-77213ce281bead3a87ea5dc7a7bc62f5]: Commencement: S. 68 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-77213ce281bead3a87ea5dc7a7bc62f5]: Commencement: S. 68 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-76aef634d296f11e25446616650f1be0]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2025/18/section/68) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/b)
+[^c-76aef634d296f11e25446616650f1be0]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2025/18/section/68) in force at 5.2.2026 by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Attribution of surpluses and deficits.[^key-714494af05d134d4daa2c2309900adb1]
+## 37. Attribution of surpluses and deficits.[^c-714494af05d134d4daa2c2309900adb1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-714494af05d134d4daa2c2309900adb1]: Textual amendment: S. 37 repealed (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/b), [Sch. 1 para. 92](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/92), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1080/schedule/2/part/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))
+[^c-714494af05d134d4daa2c2309900adb1]: Textual amendment: S. 37 repealed (1.4.2010) by [The Apprenticeships, Skills, Children and Learning Act 2009 (Consequential Amendments) (England and Wales) Order 2010 (S.I. 2010/1080)](https://www.legislation.gov.uk/uksi/2010/1080), [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/a)[(b)](https://www.legislation.gov.uk/uksi/2010/1080/article/1/2/b), [Sch. 1 para. 92](https://www.legislation.gov.uk/uksi/2010/1080/schedule/1/paragraph/92), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2010/1080/schedule/2/part/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2010/1080/article/2/3))

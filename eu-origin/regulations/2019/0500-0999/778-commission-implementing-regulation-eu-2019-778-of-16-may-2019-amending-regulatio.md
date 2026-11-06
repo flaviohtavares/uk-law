@@ -35,24 +35,24 @@ amending Regulation (EU) No 1305/2014 as regards Change Control Management
 
 (Text with EEA relevance) (revoked)
 
-[^key-a537eb2c47258ee0dd0e8a3f7e1f540b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a537eb2c47258ee0dd0e8a3f7e1f540b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a537eb2c47258ee0dd0e8a3f7e1f540b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a537eb2c47258ee0dd0e8a3f7e1f540b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a537eb2c47258ee0dd0e8a3f7e1f540b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a537eb2c47258ee0dd0e8a3f7e1f540b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-a537eb2c47258ee0dd0e8a3f7e1f540b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-a537eb2c47258ee0dd0e8a3f7e1f540b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a537eb2c47258ee0dd0e8a3f7e1f540b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a537eb2c47258ee0dd0e8a3f7e1f540b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-a537eb2c47258ee0dd0e8a3f7e1f540b]
+## ANNEX I[^c-a537eb2c47258ee0dd0e8a3f7e1f540b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-a537eb2c47258ee0dd0e8a3f7e1f540b]
+## ANNEX II[^c-a537eb2c47258ee0dd0e8a3f7e1f540b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a537eb2c47258ee0dd0e8a3f7e1f540b]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-a537eb2c47258ee0dd0e8a3f7e1f540b]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

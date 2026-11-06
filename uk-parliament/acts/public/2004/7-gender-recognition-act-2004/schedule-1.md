@@ -79,11 +79,11 @@ Section 1
 
 *Extent: E+W+S*
 
-(3)[^key-ee4f1f145140cc7ba5f2d7519a441c53][^key-dd7234a883d74a7daf2e17733f98e779] But a Panel need not include a medical member when determining an application under section 1(1)(a) for a certificate to be granted in accordance with section 3A.
+(3)[^c-ee4f1f145140cc7ba5f2d7519a441c53][^c-dd7234a883d74a7daf2e17733f98e779] But a Panel need not include a medical member when determining an application under section 1(1)(a) for a certificate to be granted in accordance with section 3A.
 
 *Extent: S*
 
-(4)[^key-90667a03117c1d685f852055728bb258] But a Panel need not include a medical member when determining an application under section 1(1)(a) for a certificate to be granted in accordance with section 3C.
+(4)[^c-90667a03117c1d685f852055728bb258] But a Panel need not include a medical member when determining an application under section 1(1)(a) for a certificate to be granted in accordance with section 3C.
 
 **5.** The arrangements must ensure that a Panel determining an application under section 1(1)(b), 5(2) , 5A(2)[^c2033440] or 6(1) includes at least one legal member.
 
@@ -97,7 +97,7 @@ Section 1
 
 (4) A Panel must determine an application without a hearing unless the Panel considers that a hearing is necessary.
 
-(5) The President may[^key-e746f0978114c5272f72442aa20ad668]... give directions about the practice and procedure of Panels.
+(5) The President may[^c-e746f0978114c5272f72442aa20ad668]... give directions about the practice and procedure of Panels.
 
 (6) Panels must give reasons for their decisions.
 
@@ -124,9 +124,9 @@ Section 1
 - (a) the holder of one of the offices listed in Schedule 1 to the Justice (Northern Ireland) Act 2002;
 - (b) a Lord Justice of Appeal (as defined in section 88 of that Act).
 
-### Tribunals and Inquiries Act 1992[^key-a72b82b89c331062f34ff92a570896ee]
+### Tribunals and Inquiries Act 1992[^c-a72b82b89c331062f34ff92a570896ee]
 
-**9.** In Schedule 1 to the Tribunals and Inquiries Act 1992 (c. 53) (tribunals to which that Act applies[^key-fab7301667f1871f2afcb6fb9ff114ae]), before paragraph 22 insert—
+**9.** In Schedule 1 to the Tribunals and Inquiries Act 1992 (c. 53) (tribunals to which that Act applies[^c-fab7301667f1871f2afcb6fb9ff114ae]), before paragraph 22 insert—
 
 > |  |  |
 > | --- | --- |
@@ -152,18 +152,18 @@ Section 1
 
 [^c2033581]: Textual amendment: Sch. 1 para. 2(1A) inserted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.2) Order 2006 (S.I. 2006/1016)](https://www.legislation.gov.uk/uksi/2006/1016), [art. 2](https://www.legislation.gov.uk/uksi/2006/1016/article/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2006/1016/schedule/1/paragraph/16)
 
-[^key-ee4f1f145140cc7ba5f2d7519a441c53]: Modification: Sch. 1 para. 4(3) extended to Northern Ireland (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [42(1)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/42/1) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-ee4f1f145140cc7ba5f2d7519a441c53]: Modification: Sch. 1 para. 4(3) extended to Northern Ireland (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [42(1)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/42/1) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-dd7234a883d74a7daf2e17733f98e779]: Textual amendment: Sch. 1 para. 4(3) inserted (E.W.S.) (10.12.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/20); [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
+[^c-dd7234a883d74a7daf2e17733f98e779]: Textual amendment: Sch. 1 para. 4(3) inserted (E.W.S.) (10.12.2014) by [Marriage (Same Sex Couples) Act 2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30), [s. 21(3)](https://www.legislation.gov.uk/ukpga/2013/30/section/21/3), [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2013/30/schedule/5/paragraph/20); [S.I. 2014/3169](https://www.legislation.gov.uk/uksi/2014/3169), [art. 2](https://www.legislation.gov.uk/uksi/2014/3169/article/2)
 
-[^key-90667a03117c1d685f852055728bb258]: Textual amendment: Sch. 1 para. 4(4) inserted (S.) (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [s. 36](https://www.legislation.gov.uk/asp/2014/5/section/36), [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/18); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-90667a03117c1d685f852055728bb258]: Textual amendment: Sch. 1 para. 4(4) inserted (S.) (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [s. 36](https://www.legislation.gov.uk/asp/2014/5/section/36), [Sch. 2 para. 18](https://www.legislation.gov.uk/asp/2014/5/schedule/2/paragraph/18); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
 [^c2033440]: Textual amendment: Words in Sch. 1 para. 5 inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 250(8)](https://www.legislation.gov.uk/ukpga/2004/33/section/250/8), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 3](https://www.legislation.gov.uk/uksi/2005/3175/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/3175/schedule/2)
 
-[^key-e746f0978114c5272f72442aa20ad668]: Textual amendment: Words in Sch. 1 para. 6(5) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 28(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/28/a)
+[^c-e746f0978114c5272f72442aa20ad668]: Textual amendment: Words in Sch. 1 para. 6(5) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 28(a)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/28/a)
 
 [^c2033736]: Textual amendment: Sch. 1 para. 8A inserted (3.4.2006) by T he [Lord Chancellor (Transfer of Functions and Supplementary Provisions) (No.2) Order 2006 (S.I. 2006/1016)](https://www.legislation.gov.uk/uksi/2006/1016), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2006/1016/schedule/1/paragraph/17)
 
-[^key-a72b82b89c331062f34ff92a570896ee]: Textual amendment: Sch. 1 cross-heading substituted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/28/b)
+[^c-a72b82b89c331062f34ff92a570896ee]: Textual amendment: Sch. 1 cross-heading substituted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/28/b)
 
-[^key-fab7301667f1871f2afcb6fb9ff114ae]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2004/7/schedule/1/paragraph/9) substituted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 28(c)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/28/c)
+[^c-fab7301667f1871f2afcb6fb9ff114ae]: Textual amendment: Words in [Sch. 1 para. 9](https://www.legislation.gov.uk/ukpga/2004/7/schedule/1/paragraph/9) substituted (19.9.2013) by [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 28(c)](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/28/c)

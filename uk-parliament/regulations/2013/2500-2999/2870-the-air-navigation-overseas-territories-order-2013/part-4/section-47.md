@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Flight crew licence requirements – exception for solo flying training[^key-18cd2d31ab5a146da60822674cd56cd7]
+## 47. Flight crew licence requirements – exception for solo flying training[^c-18cd2d31ab5a146da60822674cd56cd7]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18cd2d31ab5a146da60822674cd56cd7]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2013/2870/article/47) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-18cd2d31ab5a146da60822674cd56cd7]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2013/2870/article/47) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

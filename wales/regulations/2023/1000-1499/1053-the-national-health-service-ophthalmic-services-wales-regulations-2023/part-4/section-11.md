@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Publication of the combined list[^key-190ea075e3f7bda89d2cc85758fafa2e]
+## 11. Publication of the combined list[^c-190ea075e3f7bda89d2cc85758fafa2e]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-190ea075e3f7bda89d2cc85758fafa2e]: Commencement: Reg. 11 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-190ea075e3f7bda89d2cc85758fafa2e]: Commencement: Reg. 11 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

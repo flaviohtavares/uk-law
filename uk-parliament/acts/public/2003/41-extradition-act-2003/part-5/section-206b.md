@@ -39,14 +39,14 @@ summary: ''
 (6) A hearing is a qualifying hearing—
 
 - (a) in relation to proceedings under Part 1, if it is a hearing by virtue of which section 4(3) would be complied with;
-- (b) in relation to proceedings under Part 2, if it is a hearing by virtue of which section 72(3) , 74(3) or 74A(3)[^key-adfdc3af92be23bdc945dbbe3bb35022] would be complied with.
+- (b) in relation to proceedings under Part 2, if it is a hearing by virtue of which section 72(3) , 74(3) or 74A(3)[^c-adfdc3af92be23bdc945dbbe3bb35022] would be complied with.
 
-(7) The requirement in section 4(3), 72(3) , 74(3) or 74A(3)[^key-5cf3110b719d1fa7f81e2ac351ac1ec7] (as the case requires) to bring the person as soon as practicable before the appropriate judge is to be read as a requirement to bring the person before that judge as soon as practicable after the application is refused or the direction is rescinded.
+(7) The requirement in section 4(3), 72(3) , 74(3) or 74A(3)[^c-5cf3110b719d1fa7f81e2ac351ac1ec7] (as the case requires) to bring the person as soon as practicable before the appropriate judge is to be read as a requirement to bring the person before that judge as soon as practicable after the application is refused or the direction is rescinded.
 
 ## Annotations
 
 [^c2088211]: Textual amendment: Ss. 206A-206C inserted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 78](https://www.legislation.gov.uk/ukpga/2009/26/section/78), [116](https://www.legislation.gov.uk/ukpga/2009/26/section/116); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(u)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/u)
 
-[^key-adfdc3af92be23bdc945dbbe3bb35022]: Textual amendment: Words in s. 206B(6)(b) substituted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 22(2)](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/22/2); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-adfdc3af92be23bdc945dbbe3bb35022]: Textual amendment: Words in s. 206B(6)(b) substituted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 22(2)](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/22/2); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
 
-[^key-5cf3110b719d1fa7f81e2ac351ac1ec7]: Textual amendment: Words in s. 206B(7) substituted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 22(3)](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/22/3); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)
+[^c-5cf3110b719d1fa7f81e2ac351ac1ec7]: Textual amendment: Words in s. 206B(7) substituted (31.12.2020) by [Extradition (Provisional Arrest) Act 2020 (c. 18)](https://www.legislation.gov.uk/ukpga/2020/18), [s. 2(4)](https://www.legislation.gov.uk/ukpga/2020/18/section/2/4), [Sch. para. 22(3)](https://www.legislation.gov.uk/ukpga/2020/18/schedule/paragraph/22/3); [S.I. 2020/1652](https://www.legislation.gov.uk/uksi/2020/1652), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1652/regulation/2/1/b)

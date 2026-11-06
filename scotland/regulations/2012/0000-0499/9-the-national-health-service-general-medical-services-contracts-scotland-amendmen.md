@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service
 
-The National Health Service (General Medical Services Contracts) (Scotland) Amendment Regulations 2012 (revoked)[^key-c6c23c6d8e64b8047fae54af9b71ff35]
+The National Health Service (General Medical Services Contracts) (Scotland) Amendment Regulations 2012 (revoked)[^c-c6c23c6d8e64b8047fae54af9b71ff35]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 26th February 2012
 
-[^key-c6c23c6d8e64b8047fae54af9b71ff35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6c23c6d8e64b8047fae54af9b71ff35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c6c23c6d8e64b8047fae54af9b71ff35]
+## 1. Citation and commencement[^c-c6c23c6d8e64b8047fae54af9b71ff35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2004 Regulations[^key-c6c23c6d8e64b8047fae54af9b71ff35]
+## 2. Amendment of the 2004 Regulations[^c-c6c23c6d8e64b8047fae54af9b71ff35]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c6c23c6d8e64b8047fae54af9b71ff35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6c23c6d8e64b8047fae54af9b71ff35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c6c23c6d8e64b8047fae54af9b71ff35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c6c23c6d8e64b8047fae54af9b71ff35]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c6c23c6d8e64b8047fae54af9b71ff35]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/9) revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-c6c23c6d8e64b8047fae54af9b71ff35]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/9) revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1](https://www.legislation.gov.uk/ssi/2018/66/regulation/1), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))

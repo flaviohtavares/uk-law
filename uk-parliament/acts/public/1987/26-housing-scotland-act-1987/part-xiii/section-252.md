@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 252. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-0848da685d3aba4e37151f481cd0e3a6]
+## 252. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-0848da685d3aba4e37151f481cd0e3a6]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0848da685d3aba4e37151f481cd0e3a6]: Textual amendment: Pt. 13 repealed (1.4.2009 for specified purposes, 1.4.2010 in so far as not already in force) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 6](https://www.legislation.gov.uk/ssi/2009/122/article/6))
+[^c-0848da685d3aba4e37151f481cd0e3a6]: Textual amendment: Pt. 13 repealed (1.4.2009 for specified purposes, 1.4.2010 in so far as not already in force) by [Housing (Scotland) Act 2006 (asp 1)](https://www.legislation.gov.uk/asp/2006/1), [s. 195(3)](https://www.legislation.gov.uk/asp/2006/1/section/195/3), [sch. 7](https://www.legislation.gov.uk/asp/2006/1/schedule/7) (with [s. 193](https://www.legislation.gov.uk/asp/2006/1/section/193)); [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3) (with [art. 6](https://www.legislation.gov.uk/ssi/2009/122/article/6))

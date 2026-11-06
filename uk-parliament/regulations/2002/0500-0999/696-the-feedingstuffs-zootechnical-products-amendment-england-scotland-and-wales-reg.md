@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Feedingstuffs (Zootechnical Products) (Amendment) (England, Scotland and Wales) Regulations 2002 (revoked)[^key-4974d7f940a186dd3f096ffb5b988006]
+The Feedingstuffs (Zootechnical Products) (Amendment) (England, Scotland and Wales) Regulations 2002 (revoked)[^c-4974d7f940a186dd3f096ffb5b988006]
 
 Made
 
@@ -45,56 +45,56 @@ Coming into force
 
 31st March 2002
 
-[^key-4974d7f940a186dd3f096ffb5b988006]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4974d7f940a186dd3f096ffb5b988006]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-4974d7f940a186dd3f096ffb5b988006]
+## 1. Title, commencement and extent[^c-4974d7f940a186dd3f096ffb5b988006]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999[^key-4974d7f940a186dd3f096ffb5b988006]
+## 2. Amendment of the Feedingstuffs (Zootechnical Products) Regulations 1999[^c-4974d7f940a186dd3f096ffb5b988006]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment and substitution of regulations[^key-4974d7f940a186dd3f096ffb5b988006]
+## 3. Amendment and substitution of regulations[^c-4974d7f940a186dd3f096ffb5b988006]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4974d7f940a186dd3f096ffb5b988006] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4974d7f940a186dd3f096ffb5b988006] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Substitution for Schedule 3[^key-4974d7f940a186dd3f096ffb5b988006]
+## 5. Substitution for Schedule 3[^c-4974d7f940a186dd3f096ffb5b988006]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4974d7f940a186dd3f096ffb5b988006]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4974d7f940a186dd3f096ffb5b988006]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SUBSTITUTED SCHEDULE 3[^key-4974d7f940a186dd3f096ffb5b988006]
+## SCHEDULE — SUBSTITUTED SCHEDULE 3[^c-4974d7f940a186dd3f096ffb5b988006]
 
 Regulation 5
 
-> **SCHEDULE 3 — FEES[^key-4974d7f940a186dd3f096ffb5b988006]**
+> **SCHEDULE 3 — FEES[^c-4974d7f940a186dd3f096ffb5b988006]**
 >
 > Regulations 6(8)(b), 9(1),15(1), 23(1) and 75
 >
-> **Part I — Fees payable in relation to dossiers[^key-4974d7f940a186dd3f096ffb5b988006]**
+> **Part I — Fees payable in relation to dossiers[^c-4974d7f940a186dd3f096ffb5b988006]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Part II — Fees payable in relation to the approval and official checks of establishments[^key-4974d7f940a186dd3f096ffb5b988006]**
+> **Part II — Fees payable in relation to the approval and official checks of establishments[^c-4974d7f940a186dd3f096ffb5b988006]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **Part III — Fees payable in relation to the approval and official checks of intermediaries[^key-4974d7f940a186dd3f096ffb5b988006]**
+> **Part III — Fees payable in relation to the approval and official checks of intermediaries[^c-4974d7f940a186dd3f096ffb5b988006]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4974d7f940a186dd3f096ffb5b988006]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4974d7f940a186dd3f096ffb5b988006]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4974d7f940a186dd3f096ffb5b988006]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), reg. 44(5), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))
+[^c-4974d7f940a186dd3f096ffb5b988006]: Textual amendment: Regulations revoked (1.1.2006) by [The Veterinary Medicines Regulations 2005 (S.I. 2005/2745)](https://www.legislation.gov.uk/uksi/2005/2745), reg. 44(5), [Sch. 8 Pt. 2](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/2) (with [Sch. 8 Pt. 4](https://www.legislation.gov.uk/uksi/2005/2745/schedule/8/part/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Alternative mayoral titles[^key-dbd77a5fd02614cdd70132fc2aa4b99b]
+## 42. Alternative mayoral titles[^c-dbd77a5fd02614cdd70132fc2aa4b99b]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbd77a5fd02614cdd70132fc2aa4b99b]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/55/section/42) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-dbd77a5fd02614cdd70132fc2aa4b99b]: Commencement: [S. 42](https://www.legislation.gov.uk/ukpga/2023/55/section/42) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)

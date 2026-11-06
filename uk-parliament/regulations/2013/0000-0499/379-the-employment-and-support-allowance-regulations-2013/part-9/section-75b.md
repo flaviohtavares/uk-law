@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75B. Effect of statutory neonatal care pay on an employment and support allowance[^key-bf102eb925a474085a3b791258e71e08]
+## 75B. Effect of statutory neonatal care pay on an employment and support allowance[^c-bf102eb925a474085a3b791258e71e08]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf102eb925a474085a3b791258e71e08]: Textual amendment: [Reg. 75B](https://www.legislation.gov.uk/uksi/2013/379/regulation/75B) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/21/2)
+[^c-bf102eb925a474085a3b791258e71e08]: Textual amendment: [Reg. 75B](https://www.legislation.gov.uk/uksi/2013/379/regulation/75B) inserted (6.4.2025) by [The Neonatal Care Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2025 (S.I. 2025/201)](https://www.legislation.gov.uk/uksi/2025/201), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2025/201/regulation/21/2)

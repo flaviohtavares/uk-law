@@ -91,10 +91,10 @@ Section 103
 
 **7.** The following provisions (under which a court convicting a person of an offence has power to deprive him of property used etc for purposes of crime) do not apply where a person is convicted of an offence under Part 2, 3 or 5—
 
-- (a)[^key-742c0e28c0982406dcae2fd6b75ffa08] section 153 of the Sentencing Code;
+- (a)[^c-742c0e28c0982406dcae2fd6b75ffa08] section 153 of the Sentencing Code;
 - (b) Part 2 of the Proceeds of Crime (Scotland) Act 1995 (c. 43);
 - (c) Article 11 of the Criminal Justice (Northern Ireland) Order 1994 (S.I. 1994/2795 (N.I. 15)).
 
 ## Annotations
 
-[^key-742c0e28c0982406dcae2fd6b75ffa08]: Textual amendment: [Sch. 5 para. 7(a)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/5/paragraph/7/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 257](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/257) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-742c0e28c0982406dcae2fd6b75ffa08]: Textual amendment: [Sch. 5 para. 7(a)](https://www.legislation.gov.uk/ukpga/2006/36/schedule/5/paragraph/7/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 257](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/257) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -31,13 +31,13 @@ Section 212
 
 (2) A “**custodial scheme**”is a scheme under which—
 
-- (a) tenancy deposits in connection with shorthold tenancies *(affected by repeal, see note)*[^key-682dacafbbdeb26121532b0c602826f2] assured tenancies are paid to the landlords under the tenancies,
+- (a) tenancy deposits in connection with shorthold tenancies *(affected by repeal, see note)*[^c-682dacafbbdeb26121532b0c602826f2] assured tenancies are paid to the landlords under the tenancies,
 - (b) amounts representing the deposits are then paid by the landlords into a designated account held by the scheme administrator, and
 - (c) those amounts are kept by the scheme administrator in that account until such time as, in accordance with the scheme, they fall to be paid (wholly or in part) to the landlords or tenants under the tenancies.
 
 (3) An “**insurance scheme**”is a scheme under which—
 
-- (a) tenancy deposits in connection with shorthold tenancies *(affected by repeal, see note)*[^key-682dacafbbdeb26121532b0c602826f2] assured tenancies are paid to the landlords under the tenancies,
+- (a) tenancy deposits in connection with shorthold tenancies *(affected by repeal, see note)*[^c-682dacafbbdeb26121532b0c602826f2] assured tenancies are paid to the landlords under the tenancies,
 - (b) such deposits are retained by the landlords on the basis that, at the end of the tenancies—
   - (i) such amounts in respect of the deposits as are agreed between the tenants and the landlords will be repaid to the tenants, and
   - (ii) such amounts as the tenants request to be repaid to them and which are not so repaid will, in accordance with directions given by the scheme administrator, be paid into a designated account held by the scheme administrator,
@@ -61,7 +61,7 @@ Section 212
 
 **3.**[^c699217] (1) This paragraph applies to a custodial scheme.
 
-(2) The scheme must provide for any landlord who receives a tenancy deposit in connection with a shorthold tenancy *(affected by repeal, see note)*[^key-aa90998c2708e75a1d594fa9c1cca5a0] an assured tenancy to pay an amount equal to the deposit into a designated account held by the scheme administrator.
+(2) The scheme must provide for any landlord who receives a tenancy deposit in connection with a shorthold tenancy *(affected by repeal, see note)*[^c-aa90998c2708e75a1d594fa9c1cca5a0] an assured tenancy to pay an amount equal to the deposit into a designated account held by the scheme administrator.
 
 (3) The designated account must not contain anything other than amounts paid into it as mentioned in sub-paragraph (2) and any interest accruing on such amounts.
 
@@ -70,7 +70,7 @@ Section 212
 (5) The relevant arrangements under section 212(1) may provide for any amount paid in accordance with paragraph 4 or 4C[^c2057527] to be paid with interest -
 
 - (a) in respect of the period during which the relevant amount has remained in the designated account, and
-- (b) at such rate as the Secretary of State *(Extent: W)*[^key-3ff7ffc622d90094212a554932d15d13] may specify by order.
+- (b) at such rate as the Secretary of State *(Extent: W)*[^c-3ff7ffc622d90094212a554932d15d13] may specify by order.
 
 (6) With the exception of any interest retained in accordance with subparagaph (4), nothing contained in the designated account may be used to fund the administration of the scheme.
 
@@ -80,7 +80,7 @@ Section 212
 
 **4.**[^c2052686] (1) A custodial scheme must make provision—
 
-- (a) for enabling the tenant and the landlord under a shorthold tenancy *(affected by repeal, see note)*[^key-aa90998c2708e75a1d594fa9c1cca5a0] an assured tenancy in connection with which a tenancy deposit is held in accordance with the scheme to apply, at any time after the tenancy has ended, for the whole or part of the relevant amount to be paid to him, and
+- (a) for enabling the tenant and the landlord under a shorthold tenancy *(affected by repeal, see note)*[^c-aa90998c2708e75a1d594fa9c1cca5a0] an assured tenancy in connection with which a tenancy deposit is held in accordance with the scheme to apply, at any time after the tenancy has ended, for the whole or part of the relevant amount to be paid to him, and
 - (b) for such an application to be dealt with by the scheme administrator in accordance with the following provisions of this paragraph.
 
 (2) Sub-paragraph (3) applies where the tenant and the landlord notify the scheme administrator that they have agreed that the relevant amount should be paid—
@@ -312,7 +312,7 @@ given in accordance with an insurance scheme.
 (9) In the application of section 213 to a tenancy deposit which ceases to be retained under an insurance scheme (“the old scheme”) by virtue of a determination mentioned in this paragraph—
 
 - (a) references to receiving the deposit include a reference to ceasing to retain it under the terms of the old scheme;
-- (b) subsection (3) has effect as if for the words “within the period of 30[^key-eda6e6ef28dee5335c031694ba6ec21e] days beginning with the date on which it is received” there were substituted before the deposit ceases to be retained under the old scheme; and
+- (b) subsection (3) has effect as if for the words “within the period of 30[^c-eda6e6ef28dee5335c031694ba6ec21e] days beginning with the date on which it is received” there were substituted before the deposit ceases to be retained under the old scheme; and
 - (c) subsection (6)(b) has effect as if the reference to the date on which the landlord receives the deposit were a reference to the date on which the deposit ceases to be retained under the old scheme.
 
 ### Insurance schemes: termination of tenancies
@@ -407,7 +407,7 @@ given in accordance with an insurance scheme.
 
 ### Notifications to tenants
 
-**9.**[^c2052699] (1) Every custodial scheme or insurance scheme must provide for the scheme administrator to respond as soon as is practicable to any request within sub-paragraph (2) made by the tenant under a shorthold tenancy *(affected by repeal, see note)*[^key-aa90998c2708e75a1d594fa9c1cca5a0] an assured tenancy.
+**9.**[^c2052699] (1) Every custodial scheme or insurance scheme must provide for the scheme administrator to respond as soon as is practicable to any request within sub-paragraph (2) made by the tenant under a shorthold tenancy *(affected by repeal, see note)*[^c-aa90998c2708e75a1d594fa9c1cca5a0] an assured tenancy.
 
 (2) A request is within this sub-paragraph if it is a request by the tenant to receive confirmation that a deposit paid in connection with the tenancy is being held in accordance with the scheme.
 
@@ -462,13 +462,13 @@ before sending a document which is to be treated as having been received as ment
 
 ### Interpretation
 
-**12.**[^c2052701] In this Schedule references to tenants under shorthold tenancies *(affected by repeal, see note)*[^key-682dacafbbdeb26121532b0c602826f2] assured tenancies include references to persons who, in accordance with arrangements made with such tenants, have paid tenancy deposits on behalf of the tenants.
+**12.**[^c2052701] In this Schedule references to tenants under shorthold tenancies *(affected by repeal, see note)*[^c-682dacafbbdeb26121532b0c602826f2] assured tenancies include references to persons who, in accordance with arrangements made with such tenants, have paid tenancy deposits on behalf of the tenants.
 
 ## Annotations
 
 [^c2052675]: Commencement: Sch. 10 para. 1 wholly in force at 6.4.2007; Sch. 10 para. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 10 para. 1 in force for W. at 6.4.2007 by [S.I. 2007/305](https://www.legislation.gov.uk/uksi/2007/305), [art. 2](https://www.legislation.gov.uk/uksi/2007/305/article/2); Sch. 10 para. 1 in force for E. at 6.4.2007 by [S.I. 2007/1068](https://www.legislation.gov.uk/uksi/2007/1068), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1068/article/2/a)
 
-[^key-682dacafbbdeb26121532b0c602826f2]: Textual amendment: Words in Sch. 10 substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 26(9)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/26/9/a), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [11](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/11), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-682dacafbbdeb26121532b0c602826f2]: Textual amendment: Words in Sch. 10 substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 26(9)(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/26/9/a), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [11](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/11), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
 [^c2052677]: Commencement: Sch. 10 para. 2 wholly in force at 6.4.2007; Sch. 10 para. 2 not in force at Royal Assent see s. 270(4)(5); Sch. 10 para. 2 in force for W. at 6.4.2007 by [S.I. 2007/305](https://www.legislation.gov.uk/uksi/2007/305), [art. 2](https://www.legislation.gov.uk/uksi/2007/305/article/2); Sch. 10 para. 2 in force for E. at 6.4.2007 by [S.I. 2007/1068](https://www.legislation.gov.uk/uksi/2007/1068), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1068/article/2/a)
 
@@ -480,11 +480,11 @@ before sending a document which is to be treated as having been received as ment
 
 [^c699217]: Commencement: Sch. 10 para. 3. wholly in force at 6.4.2007; Sch. 10 para. 3. in force for certain purposes at Royal Assent see s. 270(2)(b); Sch. 10 para. 3. in force for W. at 6.4.2007 by [S.I. 2007/305](https://www.legislation.gov.uk/uksi/2007/305), [art. 2](https://www.legislation.gov.uk/uksi/2007/305/article/2); Sch. 10 para. 3. in force for E. at 6.4.2007 by [S.I. 2007/1068](https://www.legislation.gov.uk/uksi/2007/1068), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1068/article/2/a)
 
-[^key-aa90998c2708e75a1d594fa9c1cca5a0]: Textual amendment: Words in Sch. 10 substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 26(9)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/26/9/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [11](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/11), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-aa90998c2708e75a1d594fa9c1cca5a0]: Textual amendment: Words in Sch. 10 substituted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 26(9)(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/26/9/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [11](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/11), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
 
 [^c2057527]: Textual amendment: Words in Sch. 10 para. 3(5) inserted (6.4.2007) by [The Housing (Tenancy Deposit Schemes) Order 2007 (S.I. 2007/796)](https://www.legislation.gov.uk/uksi/2007/796), [art. 11](https://www.legislation.gov.uk/uksi/2007/796/article/11)
 
-[^key-3ff7ffc622d90094212a554932d15d13]: Textual amendment: Words in [Sch. 10](https://www.legislation.gov.uk/ukpga/2004/34/schedule/10) substituted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(9)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/9) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 9](https://www.legislation.gov.uk/uksi/2022/1172/regulation/9), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
+[^c-3ff7ffc622d90094212a554932d15d13]: Textual amendment: Words in [Sch. 10](https://www.legislation.gov.uk/ukpga/2004/34/schedule/10) substituted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [28(9)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/28/9) (with savings and transitional provisions in [S.I. 2022/1172](https://www.legislation.gov.uk/uksi/2022/1172), [regs. 9](https://www.legislation.gov.uk/uksi/2022/1172/regulation/9), [19](https://www.legislation.gov.uk/uksi/2022/1172/regulation/19))
 
 [^c2052686]: Commencement: Sch. 10 para. 4 wholly in force at 6.4.2007; Sch. 10 para. 4 not in force at Royal Assent see s. 270(4)(5); Sch. 10 para. 4 in force for W. at 6.4.2007 by [S.I. 2007/305](https://www.legislation.gov.uk/uksi/2007/305), [art. 2](https://www.legislation.gov.uk/uksi/2007/305/article/2); Sch. 10 para. 4 in force for E. at 6.4.2007 by [S.I. 2007/1068](https://www.legislation.gov.uk/uksi/2007/1068), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1068/article/2/a)
 
@@ -514,7 +514,7 @@ before sending a document which is to be treated as having been received as ment
 
 [^c2057575]: Textual amendment: Sch. 10 para. 5A and preceding cross-heading inserted (6.4.2007) by [The Housing (Tenancy Deposit Schemes) Order 2007 (S.I. 2007/796)](https://www.legislation.gov.uk/uksi/2007/796) , [art. 5](https://www.legislation.gov.uk/uksi/2007/796/article/5)
 
-[^key-eda6e6ef28dee5335c031694ba6ec21e]: Textual amendment: Word in Sch. 10 para. 5A(9)(b) substituted (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 184(14)](https://www.legislation.gov.uk/ukpga/2011/20/section/184/14), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(c)](https://www.legislation.gov.uk/uksi/2012/628/article/8/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-eda6e6ef28dee5335c031694ba6ec21e]: Textual amendment: Word in Sch. 10 para. 5A(9)(b) substituted (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 184(14)](https://www.legislation.gov.uk/ukpga/2011/20/section/184/14), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(c)](https://www.legislation.gov.uk/uksi/2012/628/article/8/c) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
 [^c2052691]: Commencement: Sch. 10 para. 6 wholly in force at 6.4.2007; Sch. 10 para. 6 not in force at Royal Assent see s. 270(4)(5); Sch. 10 para. 6 in force for W. at 6.4.2007 by [S.I. 2007/305](https://www.legislation.gov.uk/uksi/2007/305), [art. 2](https://www.legislation.gov.uk/uksi/2007/305/article/2); Sch. 10 para. 6 in force for E. at 6.4.2007 by [S.I. 2007/1068](https://www.legislation.gov.uk/uksi/2007/1068), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1068/article/2/a)
 

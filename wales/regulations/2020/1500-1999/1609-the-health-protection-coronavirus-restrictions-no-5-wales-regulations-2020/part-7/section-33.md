@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Enforcement: children[^key-e25be72ad32848af3b3adffa286e7fda]
+## 33. Enforcement: children[^c-e25be72ad32848af3b3adffa286e7fda]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e25be72ad32848af3b3adffa286e7fda]: Commencement: Reg. 33 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-e25be72ad32848af3b3adffa286e7fda]: Commencement: Reg. 33 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)

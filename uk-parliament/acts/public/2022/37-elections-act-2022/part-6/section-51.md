@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Notice to take down electronic material in breach of section 41[^key-6edfd5d60677b4169e548a0c274f401f][^key-2e83c454219ef285b0ddae6aec5a37be]
+## 51. Notice to take down electronic material in breach of section 41[^c-6edfd5d60677b4169e548a0c274f401f][^c-2e83c454219ef285b0ddae6aec5a37be]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6edfd5d60677b4169e548a0c274f401f]: Commencement: S. 51 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-6edfd5d60677b4169e548a0c274f401f]: Commencement: S. 51 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-2e83c454219ef285b0ddae6aec5a37be]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/37/section/51) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))
+[^c-2e83c454219ef285b0ddae6aec5a37be]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2022/37/section/51) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/f) (with [Sch. para. 10](https://www.legislation.gov.uk/uksi/2023/1145/schedule/paragraph/10))

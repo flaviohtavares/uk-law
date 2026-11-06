@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4B. Assured tenancy: prohibition of rent in advance (except initial rent)[^key-385cfcd29f6ead3a3df97c395ec8f55e]
+## 4B. Assured tenancy: prohibition of rent in advance (except initial rent)[^c-385cfcd29f6ead3a3df97c395ec8f55e]
 
 *Extent: E+W*
 
@@ -82,4 +82,4 @@ the regular rent day which falls during a rent period is the “substitute rent 
 
 ## Annotations
 
-[^key-385cfcd29f6ead3a3df97c395ec8f55e]: Textual amendment: S. 4B inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 8](https://www.legislation.gov.uk/ukpga/2025/26/section/8), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [147(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/2), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-385cfcd29f6ead3a3df97c395ec8f55e]: Textual amendment: S. 4B inserted (1.5.2026 for specified purposes) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 8](https://www.legislation.gov.uk/ukpga/2025/26/section/8), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/8) (with [ss. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138), [146(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/146/1), [147(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/26/section/147/2), [Sch. 6 paras. 1](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/1), [3](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/3), [4](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/4), [16](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/16), [17](https://www.legislation.gov.uk/ukpga/2025/26/schedule/6/paragraph/17)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

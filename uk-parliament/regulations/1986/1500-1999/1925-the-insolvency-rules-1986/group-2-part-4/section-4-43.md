@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.43. Reports by official receiver[^key-61031a58f51556fcef978b842e953db5]
+## 4.43. Reports by official receiver[^c-61031a58f51556fcef978b842e953db5]
 
 *Extent: E+W*
 
-(1)[^key-90fdc7991a72af699380227a75b7fd38] (NO CVL APPLICATION)
+(1)[^c-90fdc7991a72af699380227a75b7fd38] (NO CVL APPLICATION)
 
 The official receiver shall, at least once after the making of the winding-up order, send a report to creditors and contributories with respect to the proceedings in the winding up, and the state of the company's affairs.
 
-(1A)[^key-ac2012565d98fd3937e907e3908fae53] The official receiver shall also include in the report under paragraph (1)—
+(1A)[^c-ac2012565d98fd3937e907e3908fae53] The official receiver shall also include in the report under paragraph (1)—
 
 - (a) to the best of his knowledge and belief—
   - (i) an estimate of the value of the prescribed part (whether or not he proposes to make an application to the court under section 176A(5) or section 176A(3) applies);
@@ -33,14 +33,14 @@ The official receiver shall, at least once after the making of the winding-up or
 
 (1B) Nothing in this Rule is to be taken as requiring any such estimate to include any information, the disclosure of which could seriously prejudice the commercial interests of the company. If such information is excluded from the calculation the estimate shall be accompanied by a statement to that effect.
 
-(2)[^key-e6c451aad4faf08840f81681dc100dc5] The official receiver shall file in court a copy of any report sent under this Chapter.
+(2)[^c-e6c451aad4faf08840f81681dc100dc5] The official receiver shall file in court a copy of any report sent under this Chapter.
 
 ## Annotations
 
-[^key-61031a58f51556fcef978b842e953db5]: Commencement: Rule 4.43 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-61031a58f51556fcef978b842e953db5]: Commencement: Rule 4.43 in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-90fdc7991a72af699380227a75b7fd38]: Textual amendment: Rule 4.43 renumbered as rule 4.43(1) (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 47](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/47)
+[^c-90fdc7991a72af699380227a75b7fd38]: Textual amendment: Rule 4.43 renumbered as rule 4.43(1) (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 47](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/47)
 
-[^key-ac2012565d98fd3937e907e3908fae53]: Textual amendment: Rule 4.43(1A)(1B) inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/4/paragraph/15)
+[^c-ac2012565d98fd3937e907e3908fae53]: Textual amendment: Rule 4.43(1A)(1B) inserted (15.9.2003) by [The Insolvency (Amendment) Rules 2003 (S.I. 2003/1730)](https://www.legislation.gov.uk/uksi/2003/1730), [rule 1(2)](https://www.legislation.gov.uk/uksi/2003/1730/article/1/2), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2003/1730/schedule/1/part/4/paragraph/15)
 
-[^key-e6c451aad4faf08840f81681dc100dc5]: Textual amendment: Rule 4.43(2) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 47](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/47)
+[^c-e6c451aad4faf08840f81681dc100dc5]: Textual amendment: Rule 4.43(2) added (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 47](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/47)

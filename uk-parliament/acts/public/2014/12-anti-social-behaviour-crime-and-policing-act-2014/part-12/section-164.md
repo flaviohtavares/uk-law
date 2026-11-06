@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Definition of “extradition offence”[^key-c03efcc6b05caa2d47836d8f39065bad]
+## 164. Definition of “extradition offence”[^c-c03efcc6b05caa2d47836d8f39065bad]
 
 *Extent: E+W+S+N.I.*
 
@@ -162,4 +162,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c03efcc6b05caa2d47836d8f39065bad]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2014/12/section/164) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(j)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2014/1916/article/6))
+[^c-c03efcc6b05caa2d47836d8f39065bad]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2014/12/section/164) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(j)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2014/1916/article/6))

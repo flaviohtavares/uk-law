@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Sentence and Parole Board release for offenders of particular concern[^key-32e561160f31efb7476894e68eccd6f4]
+## 6. Sentence and Parole Board release for offenders of particular concern[^c-32e561160f31efb7476894e68eccd6f4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32e561160f31efb7476894e68eccd6f4]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2015/2/section/6) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/6)
+[^c-32e561160f31efb7476894e68eccd6f4]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2015/2/section/6) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/6)

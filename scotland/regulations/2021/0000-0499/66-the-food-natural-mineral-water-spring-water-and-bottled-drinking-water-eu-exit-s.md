@@ -50,7 +50,7 @@ In accordance with paragraph 4(a) of schedule 2 of that Act [^c24443311], the Sc
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c24443321].
 
-## 1. Citation and commencement[^key-28d245bf15ee2220159d1ea1c09a8eeb]
+## 1. Citation and commencement[^c-28d245bf15ee2220159d1ea1c09a8eeb]
 
 (1) These Regulations may be cited as the Food, Natural Mineral Water, Spring Water and Bottled Drinking Water (EU Exit) (Scotland) (Amendment) Regulations 2021 and come into force in accordance with paragraphs (2) to (4).
 
@@ -58,13 +58,13 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) Regulation 2(4)(a)(ii) to (6) come into force on 1 July 2021.
 
-(4) Regulations 3 and 4 come into force on 27 May 2021[^key-1c7405e2c4d72215581451b5b9107fb7].
+(4) Regulations 3 and 4 come into force on 27 May 2021[^c-1c7405e2c4d72215581451b5b9107fb7].
 
-## 2. Amendment of the Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) (No. 2) Regulations 2007[^key-568f6f2aa6248e2b408b33939dd7aa4f][^key-da5b1900cd4bf5cafc330a735a3f7442]
+## 2. Amendment of the Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) (No. 2) Regulations 2007[^c-568f6f2aa6248e2b408b33939dd7aa4f][^c-da5b1900cd4bf5cafc330a735a3f7442]
 
-(1)[^key-568f6f2aa6248e2b408b33939dd7aa4f] The Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) (No. 2) Regulations 2007 [^c24443331] are amended as follows.
+(1)[^c-568f6f2aa6248e2b408b33939dd7aa4f] The Natural Mineral Water, Spring Water and Bottled Drinking Water (Scotland) (No. 2) Regulations 2007 [^c24443331] are amended as follows.
 
-(2)[^key-568f6f2aa6248e2b408b33939dd7aa4f] In regulation 2 (interpretation)—
+(2)[^c-568f6f2aa6248e2b408b33939dd7aa4f] In regulation 2 (interpretation)—
 
 - (a) in paragraph (1)—
   - (i) in the definition of “authorised activated alumina treatment”—
@@ -102,7 +102,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
     ;
 - (b) in paragraph (2) omit “2003/40,”.
 
-(3)[^key-568f6f2aa6248e2b408b33939dd7aa4f] In regulation 3 (exemptions), for paragraph (1)(d) substitute—
+(3)[^c-568f6f2aa6248e2b408b33939dd7aa4f] In regulation 3 (exemptions), for paragraph (1)(d) substitute—
 
 > - (d) is a natural mineral water intended for—
 >   - (i) movement into Northern Ireland;
@@ -113,9 +113,9 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 (4) In regulation 4 (recognition as natural mineral water)—
 
 - (a) in paragraph (1)—
-  - (i)[^key-568f6f2aa6248e2b408b33939dd7aa4f] in sub-paragraph (b), for “Directive 2009/54;” substitute “ relevant bottled water legislation; and ”,
-  - (ii)[^key-da5b1900cd4bf5cafc330a735a3f7442] omit sub-paragraph (c),
-  - (iii)[^key-da5b1900cd4bf5cafc330a735a3f7442] for sub-paragraph (d) substitute—
+  - (i)[^c-568f6f2aa6248e2b408b33939dd7aa4f] in sub-paragraph (b), for “Directive 2009/54;” substitute “ relevant bottled water legislation; and ”,
+  - (ii)[^c-da5b1900cd4bf5cafc330a735a3f7442] omit sub-paragraph (c),
+  - (iii)[^c-da5b1900cd4bf5cafc330a735a3f7442] for sub-paragraph (d) substitute—
 
     > - (d) in the case of water extracted from the ground in a third country—
     >   - (i) by the Agency, in accordance with Part 2 of schedule 3;
@@ -127,17 +127,17 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - (b) in paragraph (7)(b), for “country other than an EEA State” substitute “ third country ”,
 - (c) omit paragraph (8).
 
-(5)[^key-da5b1900cd4bf5cafc330a735a3f7442] In regulation 21 (defences)—
+(5)[^c-da5b1900cd4bf5cafc330a735a3f7442] In regulation 21 (defences)—
 
 - (a) in paragraph 21(2)(a) for “an EEA State” substitute “ a third country ”,
 - (b) in paragraph 21(2)(b) for “EEA State” substitute “ third country ”.
 
-(6)[^key-da5b1900cd4bf5cafc330a735a3f7442] In schedule 3 (recognition of natural mineral waters), in Part 2—
+(6)[^c-da5b1900cd4bf5cafc330a735a3f7442] In schedule 3 (recognition of natural mineral waters), in Part 2—
 
 - (a) in the heading, for “country other than an EEA State” substitute “ third country ”,
 - (b) in paragraph 1, for “country other than an EEA State” substitute “ third country ”.
 
-## 3. Amendment of the Food Information (Scotland) Regulations 2014[^key-fff2fe4e56b466b31b3c316f5fbecc90]
+## 3. Amendment of the Food Information (Scotland) Regulations 2014[^c-fff2fe4e56b466b31b3c316f5fbecc90]
 
 (1) The Food Information (Scotland) Regulations 2014 [^c24443391] are amended as follows.
 
@@ -147,14 +147,14 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 >
 > (1) A person is not considered to have failed to comply with Articles 7(1), 8(1), 9(1)(h) or 36(2)(a) or (b) of FIC if—
 >
-> - (a) the alleged failure relates to a product that was placed on the market before the last day of the period beginning on 27 May 2021[^key-f23bc880d891dfda90c5ce1015de52e7] and ending on 30 September 2022, and
+> - (a) the alleged failure relates to a product that was placed on the market before the last day of the period beginning on 27 May 2021[^c-f23bc880d891dfda90c5ce1015de52e7] and ending on 30 September 2022, and
 > - (b) the matter constituting the alleged failure to comply would not have constituted a failure to comply with FIC as that Regulation had effect immediately before this regulation comes into force.
 >
 > (2) Products to which paragraph (1) applies may continue to be marketed until stocks are exhausted.
 
 .
 
-## 4. Amendment of the Country of Origin of Certain Meats (Scotland) Regulations 2016[^key-f1274b9e0b6e22eda3883e6ec8e8f9af]
+## 4. Amendment of the Country of Origin of Certain Meats (Scotland) Regulations 2016[^c-f1274b9e0b6e22eda3883e6ec8e8f9af]
 
 (1) The Country of Origin of Certain Meats (Scotland) Regulations 2016 [^c24443411] are amended as follows.
 
@@ -164,7 +164,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 >
 > (1) A person is not considered to have failed to comply with the second sub-paragraph of Article 5(1), Article 6 or Article 7 of the Commission Regulation if—
 >
-> - (a) the alleged failure relates to a product that was placed on the market before the last day of the period beginning on 27 May 2021[^key-2690bf3fd0f97be54b4625c1704bbd97] and ending on 30 September 2022, and
+> - (a) the alleged failure relates to a product that was placed on the market before the last day of the period beginning on 27 May 2021[^c-2690bf3fd0f97be54b4625c1704bbd97] and ending on 30 September 2022, and
 > - (b) the matter constituting the alleged failure to comply would not have constituted a failure to comply with the Commission Regulation as that Regulation had effect immediately before this regulation comes into force.
 >
 > (2) Products to which paragraph (1) applies may continue to be marketed until stocks are exhausted.
@@ -199,13 +199,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24443321]: Marginal citation: EUR 178/2002.
 
-[^key-28d245bf15ee2220159d1ea1c09a8eeb]: Commencement: Reg. 1 in force at 22.3.2021, see reg. 1
+[^c-28d245bf15ee2220159d1ea1c09a8eeb]: Commencement: Reg. 1 in force at 22.3.2021, see reg. 1
 
-[^key-1c7405e2c4d72215581451b5b9107fb7]: Textual amendment: Words in reg. 1(4) substituted (21.3.2021) by [The Food, Natural Mineral Water, Spring Water and Bottled Drinking Water (EU Exit) (Scotland) (Amendment) Amendment Regulations 2021 (S.S.I. 2021/109)](https://www.legislation.gov.uk/ssi/2021/109), [regs. 1](https://www.legislation.gov.uk/ssi/2021/109/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/109/regulation/2/2)
+[^c-1c7405e2c4d72215581451b5b9107fb7]: Textual amendment: Words in reg. 1(4) substituted (21.3.2021) by [The Food, Natural Mineral Water, Spring Water and Bottled Drinking Water (EU Exit) (Scotland) (Amendment) Amendment Regulations 2021 (S.S.I. 2021/109)](https://www.legislation.gov.uk/ssi/2021/109), [regs. 1](https://www.legislation.gov.uk/ssi/2021/109/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/109/regulation/2/2)
 
-[^key-568f6f2aa6248e2b408b33939dd7aa4f]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/ssi/2021/66/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2021/66/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2021/66/regulation/2/3)[(4)(a)(i)](https://www.legislation.gov.uk/ssi/2021/66/regulation/2/4/a/i) in force at 22.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/66/regulation/1/2)
+[^c-568f6f2aa6248e2b408b33939dd7aa4f]: Commencement: [Reg. 2(1)](https://www.legislation.gov.uk/ssi/2021/66/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2021/66/regulation/2/2)[(3)](https://www.legislation.gov.uk/ssi/2021/66/regulation/2/3)[(4)(a)(i)](https://www.legislation.gov.uk/ssi/2021/66/regulation/2/4/a/i) in force at 22.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/66/regulation/1/2)
 
-[^key-da5b1900cd4bf5cafc330a735a3f7442]: Commencement: [Reg. 2(4)(a)(ii)-(6)](https://www.legislation.gov.uk/ssi/2021/66/regulation/2/4/a/ii) in force at 1.7.2021, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2021/66/regulation/1/3)
+[^c-da5b1900cd4bf5cafc330a735a3f7442]: Commencement: [Reg. 2(4)(a)(ii)-(6)](https://www.legislation.gov.uk/ssi/2021/66/regulation/2/4/a/ii) in force at 1.7.2021, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2021/66/regulation/1/3)
 
 [^c24443331]: Marginal citation: [S.S.I. 2007/483](https://www.legislation.gov.uk/ssi/2007/483) as relevantly amended by [S.S.I. 2010/89](https://www.legislation.gov.uk/ssi/2010/89), [S.I](https://www.legislation.gov.uk/ssi/2010/89/section/I). 2011/1043, and [S.S.I. 2014/312](https://www.legislation.gov.uk/ssi/2014/312).
 
@@ -219,16 +219,16 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24443381]: Marginal citation: [S.I. 2015/1867](https://www.legislation.gov.uk/uksi/2015/1867), amended by [S.I. 2017/935](https://www.legislation.gov.uk/uksi/2017/935), and [S.I. 2019/1046](https://www.legislation.gov.uk/uksi/2019/1046).
 
-[^key-fff2fe4e56b466b31b3c316f5fbecc90]: Commencement: Reg. 3 in force at 27.5.2021, see reg. 1(4)
+[^c-fff2fe4e56b466b31b3c316f5fbecc90]: Commencement: Reg. 3 in force at 27.5.2021, see reg. 1(4)
 
 [^c24443391]: Marginal citation: [S.S.I. 2014/312](https://www.legislation.gov.uk/ssi/2014/312), to which there are amendments not relevant to these Regulations.
 
 [^c24443401]: Marginal citation: Regulation 10A was inserted by [S.S.I. 2020/156](https://www.legislation.gov.uk/ssi/2020/156).
 
-[^key-f23bc880d891dfda90c5ce1015de52e7]: Textual amendment: Words in reg. 3(2) substituted (21.3.2021) by [The Food, Natural Mineral Water, Spring Water and Bottled Drinking Water (EU Exit) (Scotland) (Amendment) Amendment Regulations 2021 (S.S.I. 2021/109)](https://www.legislation.gov.uk/ssi/2021/109), [regs. 1](https://www.legislation.gov.uk/ssi/2021/109/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/109/regulation/2/3)
+[^c-f23bc880d891dfda90c5ce1015de52e7]: Textual amendment: Words in reg. 3(2) substituted (21.3.2021) by [The Food, Natural Mineral Water, Spring Water and Bottled Drinking Water (EU Exit) (Scotland) (Amendment) Amendment Regulations 2021 (S.S.I. 2021/109)](https://www.legislation.gov.uk/ssi/2021/109), [regs. 1](https://www.legislation.gov.uk/ssi/2021/109/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2021/109/regulation/2/3)
 
-[^key-f1274b9e0b6e22eda3883e6ec8e8f9af]: Commencement: Reg. 4 in force at 27.5.2021, see reg. 1(4)
+[^c-f1274b9e0b6e22eda3883e6ec8e8f9af]: Commencement: Reg. 4 in force at 27.5.2021, see reg. 1(4)
 
 [^c24443411]: Marginal citation: [S.S.I. 2016/84](https://www.legislation.gov.uk/ssi/2016/84), to which there are amendments not relevant to these Regulations.
 
-[^key-2690bf3fd0f97be54b4625c1704bbd97]: Textual amendment: Words in reg. 4(2) substituted (21.3.2021) by [The Food, Natural Mineral Water, Spring Water and Bottled Drinking Water (EU Exit) (Scotland) (Amendment) Amendment Regulations 2021 (S.S.I. 2021/109)](https://www.legislation.gov.uk/ssi/2021/109), [regs. 1](https://www.legislation.gov.uk/ssi/2021/109/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/109/regulation/2/4)
+[^c-2690bf3fd0f97be54b4625c1704bbd97]: Textual amendment: Words in reg. 4(2) substituted (21.3.2021) by [The Food, Natural Mineral Water, Spring Water and Bottled Drinking Water (EU Exit) (Scotland) (Amendment) Amendment Regulations 2021 (S.S.I. 2021/109)](https://www.legislation.gov.uk/ssi/2021/109), [regs. 1](https://www.legislation.gov.uk/ssi/2021/109/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2021/109/regulation/2/4)

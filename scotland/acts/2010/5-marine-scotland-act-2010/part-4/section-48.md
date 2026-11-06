@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Variable monetary penalties[^key-e0f69b65eb60056a6fdc9cb12c087fe6][^M_C_6f63e9b3-8439-423b-ab0d-4b6d1c3baad2]
+## 48. Variable monetary penalties[^c-e0f69b65eb60056a6fdc9cb12c087fe6][^M_C_6f63e9b3-8439-423b-ab0d-4b6d1c3baad2]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0f69b65eb60056a6fdc9cb12c087fe6]: Commencement: S. 48 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
+[^c-e0f69b65eb60056a6fdc9cb12c087fe6]: Commencement: S. 48 in force at 6.4.2011 by [S.S.I. 2011/58](https://www.legislation.gov.uk/ssi/2011/58), [art. 3(a)](https://www.legislation.gov.uk/ssi/2011/58/article/3/a)
 
 [^M_C_6f63e9b3-8439-423b-ab0d-4b6d1c3baad2]: Modification: Ss. 46-50 applied (9.11.2020) by [The Marine Licensing (Exempted Activities) (Scottish Inshore Region) Amendment Order 2020 (S.S.I. 2020/316)](https://www.legislation.gov.uk/ssi/2020/316), [arts. 1](https://www.legislation.gov.uk/ssi/2020/316/article/1), [14](https://www.legislation.gov.uk/ssi/2020/316/article/14)

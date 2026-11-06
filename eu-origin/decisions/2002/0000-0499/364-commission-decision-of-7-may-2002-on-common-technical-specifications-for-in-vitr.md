@@ -74,9 +74,9 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article 1.** The technical specifications set out in the Annex to this Decision are adopted as common technical specifications for *in vitro* diagnostic medical devices in list A of Annex II to Directive 98/79/EC as that Annex applied before IP completion day and as modified by Schedule 2A to the Medical Devices Regulations 2002[^key-95750e8341f6b67d37f6c41136c1e7b9].
+**Article 1.** The technical specifications set out in the Annex to this Decision are adopted as common technical specifications for *in vitro* diagnostic medical devices in list A of Annex II to Directive 98/79/EC as that Annex applied before IP completion day and as modified by Schedule 2A to the Medical Devices Regulations 2002[^c-95750e8341f6b67d37f6c41136c1e7b9].
 
-**Article 2.**[^key-43f4000c23e4861619fd8d7ded65f6d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-43f4000c23e4861619fd8d7ded65f6d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX — COMMON TECHNICAL SPECIFICATIONS (CTS) FOR IN VITRO DIAGNOSTIC MEDICAL DEVICES[^c000001]
 
@@ -186,7 +186,7 @@ Devices intended by the manufacturer for self-test, i.e. home use, shall meet th
 
 3.1.4.
 
-All performance evaluations shall be carried out in direct comparison with an established state-of-the-art device. The device used for comparison shall be one bearing UK or CE marking[^key-01bfa4572f2487187d3026c369aa7742], if on the market at the time of the performance evaluation.
+All performance evaluations shall be carried out in direct comparison with an established state-of-the-art device. The device used for comparison shall be one bearing UK or CE marking[^c-01bfa4572f2487187d3026c369aa7742], if on the market at the time of the performance evaluation.
 
 3.1.5.
 
@@ -209,8 +209,8 @@ Positive specimens used in the performance evaluation shall be selected to refle
 
 Sensitivity with true positives and sero-conversion samples shall be evaluated as follows:
 
-- Diagnostic test sensitivity during sero-conversion has to represent the state of the art. Whether further testing of the same or additional sero-conversion panels is conducted by the approved body[^key-c93df4f47769b693d677fd05586636e7] or by the manufacturer the results shall confirm the initial performance evaluation data (see Table 1). Sero-conversion panels should start with a negative bleed(s) and should have narrow bleeding intervals.
-- For blood screening devices (with the exception of HBsAg and anti-HBc tests), all true positive samples shall be identified as positive by the device to be UK or CE marked,[^key-fa7b60c7f25db2193025a24770856e9e] (Table 1). For HBsAg and anti-HBc tests the new device shall have an overall performance at least equivalent to that of the established device (see 3.1.4).
+- Diagnostic test sensitivity during sero-conversion has to represent the state of the art. Whether further testing of the same or additional sero-conversion panels is conducted by the approved body[^c-c93df4f47769b693d677fd05586636e7] or by the manufacturer the results shall confirm the initial performance evaluation data (see Table 1). Sero-conversion panels should start with a negative bleed(s) and should have narrow bleeding intervals.
+- For blood screening devices (with the exception of HBsAg and anti-HBc tests), all true positive samples shall be identified as positive by the device to be UK or CE marked,[^c-fa7b60c7f25db2193025a24770856e9e] (Table 1). For HBsAg and anti-HBc tests the new device shall have an overall performance at least equivalent to that of the established device (see 3.1.4).
 - Regarding HIV tests:
   - all sero-conversion HIV samples shall be identified as positive, and
   - at least 40 early sero-conversion HIV samples shall be tested. Results should conform to the state of the art.
@@ -388,7 +388,7 @@ CTS for Variant Creutzfeldt-Jakob disease (vCJD) assays for blood screening are 
 </tbody>
 </table>
 
-[^key-a94d16e9fe4bc9c6a12049c22352ab99]
+[^c-a94d16e9fe4bc9c6a12049c22352ab99]
 
 *Table 2*
 
@@ -632,25 +632,25 @@ The phenotype of red cells used in the control of blood typing reagents listed a
 
 [^f00002]: Footnote: [OJ L 189, 20.7.1990, p. 17](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1990.189.01.0017.01.ENG).
 
-[^key-95750e8341f6b67d37f6c41136c1e7b9]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2002/364/article/1) inserted (E.W.S.) (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/1)
+[^c-95750e8341f6b67d37f6c41136c1e7b9]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2002/364/article/1) inserted (E.W.S.) (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/1)
 
-[^key-43f4000c23e4861619fd8d7ded65f6d0]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2002/364/article/2) omitted (E.W.S.) (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/2)
+[^c-43f4000c23e4861619fd8d7ded65f6d0]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/eudn/2002/364/article/2) omitted (E.W.S.) (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/2)
 
 [^c000001]: Textual amendment: Substituted by [Commission Decision of 27 November 2009 amending Decision 2002/364/EC on common technical specifications for in vitro diagnostic medical devices (notified under document C(2009) 9464) (Text with EEA relevance) (2009/886/EC)](https://www.legislation.gov.uk/eudn/2009/886).
 
 [^c000002]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2019/1244 of 1 July 2019 amending Decision 2002/364/EC as regards requirements for HIV and HCV antigen and antibody combined tests and as regards requirements for nucleic acid amplification techniques with respect to reference materials and qualitative HIV assays (notified under document C(2019) 4632) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2019/1244).
 
-[^key-01bfa4572f2487187d3026c369aa7742]: Textual amendment: Words in [Annex point 3.1.4](https://www.legislation.gov.uk/eudn/2002/364/annex) substituted (E.W.S.) (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/3/a/i)
+[^c-01bfa4572f2487187d3026c369aa7742]: Textual amendment: Words in [Annex point 3.1.4](https://www.legislation.gov.uk/eudn/2002/364/annex) substituted (E.W.S.) (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 3(a)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/3/a/i)
 
-[^key-c93df4f47769b693d677fd05586636e7]: Textual amendment: Words in [Annex point 3.1.8](https://www.legislation.gov.uk/eudn/2002/364/annex) substituted (E.W.S.) (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/3/b/ii)
+[^c-c93df4f47769b693d677fd05586636e7]: Textual amendment: Words in [Annex point 3.1.8](https://www.legislation.gov.uk/eudn/2002/364/annex) substituted (E.W.S.) (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 3(b)(ii)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/3/b/ii)
 
-[^key-fa7b60c7f25db2193025a24770856e9e]: Textual amendment: Words in [Annex point 3.1.8](https://www.legislation.gov.uk/eudn/2002/364/annex) substituted (E.W.S.) (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 3(b)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/3/b/i)
+[^c-fa7b60c7f25db2193025a24770856e9e]: Textual amendment: Words in [Annex point 3.1.8](https://www.legislation.gov.uk/eudn/2002/364/annex) substituted (E.W.S.) (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 3(b)(i)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/3/b/i)
 
 [^c000003]: Textual amendment: Inserted by [Commission Implementing Decision (EU) 2019/1244 of 1 July 2019 amending Decision 2002/364/EC as regards requirements for HIV and HCV antigen and antibody combined tests and as regards requirements for nucleic acid amplification techniques with respect to reference materials and qualitative HIV assays (notified under document C(2019) 4632) (Text with EEA relevance)](https://www.legislation.gov.uk/eudn/2019/1244).
 
 [^c000004]: Textual amendment: Inserted by [Commission Decision of 20 December 2011 amending Decision 2002/364/EC on common technical specifications for in vitro diagnostic medical devices (notified under document C(2011) 9398) (Text with EEA relevance) (2011/869/EU)](https://www.legislation.gov.uk/eudn/2011/869).
 
-[^key-a94d16e9fe4bc9c6a12049c22352ab99]: Textual amendment: Words in [Annex Table 1](https://www.legislation.gov.uk/eudn/2002/364/annex) substituted (E.W.S.) (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 3(d)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/3/d)
+[^c-a94d16e9fe4bc9c6a12049c22352ab99]: Textual amendment: Words in [Annex Table 1](https://www.legislation.gov.uk/eudn/2002/364/annex) substituted (E.W.S.) (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 3(d)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/3/d)
 
 [^f00003]: Footnote: European Pharmacopoeia guideline.[^c000001]
 

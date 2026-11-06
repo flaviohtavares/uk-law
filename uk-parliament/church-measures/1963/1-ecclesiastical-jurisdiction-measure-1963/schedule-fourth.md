@@ -24,9 +24,9 @@ Section 86
 
 . . . [^c1021423]
 
-### ...[^key-4180c830505838123844cf84ece4bf7c]
+### ...[^c-4180c830505838123844cf84ece4bf7c]
 
-[^key-4180c830505838123844cf84ece4bf7c]...
+[^c-4180c830505838123844cf84ece4bf7c]...
 
 ### The Clerical Disabilities Act, 1870.
 
@@ -36,9 +36,9 @@ In section four, in paragraph (3), the reference to the enactmentsmentioned in t
 
 In sub-section (5) of section one for the words “under section two ofthe Clergy Discipline Act, 1892”, there shall be substituted “ undersection eighteen and Part IV of the Ecclesiastical JurisdictionMeasure, 1963 ”.
 
-### ...[^key-4180c830505838123844cf84ece4bf7c]
+### ...[^c-4180c830505838123844cf84ece4bf7c]
 
-[^key-4180c830505838123844cf84ece4bf7c]...
+[^c-4180c830505838123844cf84ece4bf7c]...
 
 ## Annotations
 
@@ -46,4 +46,4 @@ In sub-section (5) of section one for the words “under section two ofthe Clerg
 
 [^c1021423]: Textual amendment: Entry repealed by [Statute Law (Repeals) Act 1977 (c. 18)](https://www.legislation.gov.uk/ukpga/1977/18), [Sch. 1 Pt. V](https://www.legislation.gov.uk/ukpga/1977/18/schedule/1/part/V)
 
-[^key-4180c830505838123844cf84ece4bf7c]: Textual amendment: Sch. 4 entries repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 1
+[^c-4180c830505838123844cf84ece4bf7c]: Textual amendment: Sch. 4 entries repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 1

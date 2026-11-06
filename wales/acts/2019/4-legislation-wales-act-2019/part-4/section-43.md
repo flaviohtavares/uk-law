@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Regulations made under this Act[^key-35ba2cf71c42adef0eb3f6dad6caeb32]
+## 43. Regulations made under this Act[^c-35ba2cf71c42adef0eb3f6dad6caeb32]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35ba2cf71c42adef0eb3f6dad6caeb32]: Textual amendment: [S. 43](https://www.legislation.gov.uk/anaw/2019/4/section/43) substituted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4), [Sch. 3 para. 15](https://www.legislation.gov.uk/asc/2025/3/schedule/3/paragraph/15); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/e)
+[^c-35ba2cf71c42adef0eb3f6dad6caeb32]: Textual amendment: [S. 43](https://www.legislation.gov.uk/anaw/2019/4/section/43) substituted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4), [Sch. 3 para. 15](https://www.legislation.gov.uk/asc/2025/3/schedule/3/paragraph/15); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(e)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/e)

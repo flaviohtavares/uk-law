@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70ZA. Finance: reporting obligations for required payments[^key-c07a92ef0657af2bad4c3da2ed7ec299]
+## 70ZA. Finance: reporting obligations for required payments[^c-c07a92ef0657af2bad4c3da2ed7ec299]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c07a92ef0657af2bad4c3da2ed7ec299]: Textual amendment: [Reg. 70ZA](https://www.legislation.gov.uk/uksi/2019/855/regulation/70ZA) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(11)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/11)
+[^c-c07a92ef0657af2bad4c3da2ed7ec299]: Textual amendment: [Reg. 70ZA](https://www.legislation.gov.uk/uksi/2019/855/regulation/70ZA) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [15(11)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/15/11)

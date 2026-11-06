@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 238. Revocation of television licensable content service licence[^key-33e4ed49420f00f73113a40d53724de9]
+## 238. Revocation of television licensable content service licence[^c-33e4ed49420f00f73113a40d53724de9]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ they must send a copy of the notice or representations to the Secretary of State
 
 ## Annotations
 
-[^key-33e4ed49420f00f73113a40d53724de9]: Commencement: S. 238 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-33e4ed49420f00f73113a40d53724de9]: Commencement: S. 238 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))

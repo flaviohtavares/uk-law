@@ -22,12 +22,12 @@ summary: ''
 
 Section 147
 
-In this Act, the expressions listed in the left-hand column below have the meaning given by, or are to be interpreted in accordance with, the provisions of this Act or (where stated) of the 1989 Act or the[^key-6f43212187fc83e3e2d16d36a42692e5] 2014 Act listed in the right-hand column.
+In this Act, the expressions listed in the left-hand column below have the meaning given by, or are to be interpreted in accordance with, the provisions of this Act or (where stated) of the 1989 Act or the[^c-6f43212187fc83e3e2d16d36a42692e5] 2014 Act listed in the right-hand column.
 
 | *Expression* | *Provision* |
 | --- | --- |
 | the 1989 Act | section 2(5) |
-| the[^key-489b9e5cae414d415c227f61bb4d67d8] 2014 Act | section 2(5) |
+| the[^c-489b9e5cae414d415c227f61bb4d67d8] 2014 Act | section 2(5) |
 | Adopted Children Register | section 77 |
 | Adoption and Children Act Register | section 125 |
 | adoption (in relation to Chapter 4 of Part 1) | section 66 |
@@ -46,10 +46,10 @@ In this Act, the expressions listed in the left-hand column below have the meani
 | by virtue of | section 144 |
 | care order | section 105(1) of the 1989 Act |
 | child | sections 49(5) and 144 |
-| child arrangements order[^key-c1b32a0cfae5db20b3896ff1cfab3902] | section 8(1) of the 1989 Act |
+| child arrangements order[^c-c1b32a0cfae5db20b3896ff1cfab3902] | section 8(1) of the 1989 Act |
 | child assessment order | section 43(2) of the 1989 Act |
 | child in the care of a local authority | section 105(1) of the 1989 Act |
-| child looked after by a local authority (in relation to a local authority in England)[^key-c49211f0de8394c57a894508d7868ab3] | section 22 of the 1989 Act |
+| child looked after by a local authority (in relation to a local authority in England)[^c-c49211f0de8394c57a894508d7868ab3] | section 22 of the 1989 Act |
 | child looked after by a local authority (in relation to a local authority in Wales) | section 74 of the 2014 Act |
 | child placed for adoption by an adoption agency | section 18(5) |
 | child to be adopted, adopted child | section 49(5) |
@@ -67,7 +67,7 @@ In this Act, the expressions listed in the left-hand column below have the meani
 | information | section 144 |
 | interim care order | section 38 of the 1989 Act |
 | local authority | section 144 |
-| local authority foster parent[^key-17504acbb5d874dbf7a5f3b5b2a82420] | section 105(1) of the 1989 Act |
+| local authority foster parent[^c-17504acbb5d874dbf7a5f3b5b2a82420] | section 105(1) of the 1989 Act |
 | Northern Irish adoption agency | section 144 |
 | Northern Irish adoption order | section 144 |
 | notice | section 144 |
@@ -84,7 +84,7 @@ In this Act, the expressions listed in the left-hand column below have the meani
 | registration authority (in Part 1) | section 144 |
 | regulations | section 144 |
 | relative | section 144, read with section 1(8) |
-| [^key-2701875d6d815d27823eaf28b8a8a292]. . . | [^key-2701875d6d815d27823eaf28b8a8a292]. . . |
+| [^c-2701875d6d815d27823eaf28b8a8a292]. . . | [^c-2701875d6d815d27823eaf28b8a8a292]. . . |
 | rules | section 144 |
 | Scottish adoption agency | section 144(3) |
 | Scottish adoption order | section 144 |
@@ -96,14 +96,14 @@ In this Act, the expressions listed in the left-hand column below have the meani
 
 ## Annotations
 
-[^key-6f43212187fc83e3e2d16d36a42692e5]: Textual amendment: Words in Sch. 6 inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [198(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/198/a)
+[^c-6f43212187fc83e3e2d16d36a42692e5]: Textual amendment: Words in Sch. 6 inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [198(a)](https://www.legislation.gov.uk/wsi/2016/413/regulation/198/a)
 
-[^key-489b9e5cae414d415c227f61bb4d67d8]: Textual amendment: Words in Sch. 6 inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [198(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/198/b)
+[^c-489b9e5cae414d415c227f61bb4d67d8]: Textual amendment: Words in Sch. 6 inserted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [198(b)](https://www.legislation.gov.uk/wsi/2016/413/regulation/198/b)
 
-[^key-c1b32a0cfae5db20b3896ff1cfab3902]: Textual amendment: Words in Sch. 6 inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 65(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/65/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-c1b32a0cfae5db20b3896ff1cfab3902]: Textual amendment: Words in Sch. 6 inserted (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 65(2)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/65/2); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
 
-[^key-c49211f0de8394c57a894508d7868ab3]: Textual amendment: Words in Sch. 6 substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [198(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/198/c)
+[^c-c49211f0de8394c57a894508d7868ab3]: Textual amendment: Words in Sch. 6 substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [198(c)](https://www.legislation.gov.uk/wsi/2016/413/regulation/198/c)
 
-[^key-17504acbb5d874dbf7a5f3b5b2a82420]: Textual amendment: Words in Sch. 6 substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [198(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/198/d)
+[^c-17504acbb5d874dbf7a5f3b5b2a82420]: Textual amendment: Words in Sch. 6 substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [198(d)](https://www.legislation.gov.uk/wsi/2016/413/regulation/198/d)
 
-[^key-2701875d6d815d27823eaf28b8a8a292]: Textual amendment: Words in Sch. 6 omitted (22.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 65(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/65/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)
+[^c-2701875d6d815d27823eaf28b8a8a292]: Textual amendment: Words in Sch. 6 omitted (22.4.2014) by virtue of [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 2 para. 65(3)](https://www.legislation.gov.uk/ukpga/2014/6/schedule/2/paragraph/65/3); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 4(f)](https://www.legislation.gov.uk/uksi/2014/889/article/4/f) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 3, 4, 6-10)

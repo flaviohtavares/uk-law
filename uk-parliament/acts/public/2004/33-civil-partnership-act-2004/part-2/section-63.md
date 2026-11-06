@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Restrictions on making of orders affecting children[^key-d5665110603eed83b3cfb846cbde4060]
+## 63. Restrictions on making of orders affecting children[^c-d5665110603eed83b3cfb846cbde4060]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5665110603eed83b3cfb846cbde4060]: Textual amendment: S. 63 repealed (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 17(1)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/17/1/b), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/793](https://www.legislation.gov.uk/uksi/2014/793), [art. 2](https://www.legislation.gov.uk/uksi/2014/793/article/2) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 5, 11)
+[^c-d5665110603eed83b3cfb846cbde4060]: Textual amendment: S. 63 repealed (22.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 17(1)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/17/1/b), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/793](https://www.legislation.gov.uk/uksi/2014/793), [art. 2](https://www.legislation.gov.uk/uksi/2014/793/article/2) (with transitional provisions in [S.I. 2014/1042](https://www.legislation.gov.uk/uksi/2014/1042), arts. 5, 11)

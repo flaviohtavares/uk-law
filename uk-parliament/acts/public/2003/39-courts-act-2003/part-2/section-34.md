@@ -22,14 +22,14 @@ summary: ''
 
 (1) A court may not order a justice of the peace to pay costs in any proceedings in respect of what he does or omits to do in the execution (or purported execution) of his duty as a justice of the peace.
 
-(2)[^key-ae8d398c77ef3147312c70e39a637342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ae8d398c77ef3147312c70e39a637342] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) But subsection (1) does[^key-8e4e6374d312fd51ec25a8c227da8554] not apply in relation to any proceedings in which a justice of the peace [^key-08e67ed5396d626ee3b71e844eb51ccd]...—
+(3) But subsection (1) does[^c-8e4e6374d312fd51ec25a8c227da8554] not apply in relation to any proceedings in which a justice of the peace [^c-08e67ed5396d626ee3b71e844eb51ccd]...—
 
 - (a) is being tried for an offence or is appealing against a conviction, or
 - (b) is proved to have acted in bad faith in respect of the matters giving rise to the proceedings.
 
-(4) A court which is prevented by subsection (1) from ordering a justice of the peace[^key-f6df43c1f2f78ca12288685eb30f6cce] to pay costs in any proceedings may instead order the Lord Chancellor to make a payment in respect of the costs of a person in the proceedings.
+(4) A court which is prevented by subsection (1) from ordering a justice of the peace[^c-f6df43c1f2f78ca12288685eb30f6cce] to pay costs in any proceedings may instead order the Lord Chancellor to make a payment in respect of the costs of a person in the proceedings.
 
 (5) The Lord Chancellor may , after consulting the Lord Chief Justice,[^c19142451] make regulations specifying—
 
@@ -40,13 +40,13 @@ summary: ''
 
 ## Annotations
 
-[^key-ae8d398c77ef3147312c70e39a637342]: Textual amendment: S. 34(2) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 29(2)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/29/2); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-ae8d398c77ef3147312c70e39a637342]: Textual amendment: S. 34(2) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 29(2)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/29/2); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-8e4e6374d312fd51ec25a8c227da8554]: Textual amendment: Words in s. 34(3) substituted (6.4.2020) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 29(3)(a)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/29/3/a); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-8e4e6374d312fd51ec25a8c227da8554]: Textual amendment: Words in s. 34(3) substituted (6.4.2020) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 29(3)(a)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/29/3/a); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-08e67ed5396d626ee3b71e844eb51ccd]: Textual amendment: Words in s. 34(3) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 29(3)(b)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/29/3/b); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-08e67ed5396d626ee3b71e844eb51ccd]: Textual amendment: Words in s. 34(3) omitted (6.4.2020) by virtue of [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 29(3)(b)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/29/3/b); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
-[^key-f6df43c1f2f78ca12288685eb30f6cce]: Textual amendment: Words in s. 34(4) substituted (6.4.2020) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 29(4)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/29/4); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
+[^c-f6df43c1f2f78ca12288685eb30f6cce]: Textual amendment: Words in s. 34(4) substituted (6.4.2020) by [Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (c. 33)](https://www.legislation.gov.uk/ukpga/2018/33), [s. 4(3)](https://www.legislation.gov.uk/ukpga/2018/33/section/4/3), [Sch. para. 29(4)](https://www.legislation.gov.uk/ukpga/2018/33/schedule/paragraph/29/4); [S.I. 2020/24](https://www.legislation.gov.uk/uksi/2020/24), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2020/24/regulation/3/b)
 
 [^c19142451]: Textual amendment: Words in s. 34(5) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [Sch. 4 para. 329(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/329/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(y)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/y)
 

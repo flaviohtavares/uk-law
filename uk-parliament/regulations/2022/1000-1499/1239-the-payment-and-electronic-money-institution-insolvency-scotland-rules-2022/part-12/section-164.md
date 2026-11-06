@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 164. Notice etc to authorised recipients[^key-8d9abbc9809f651fb25e7adeba2e9d92]
+## 164. Notice etc to authorised recipients[^c-8d9abbc9809f651fb25e7adeba2e9d92]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where a notice or other document is to be given, delivered or sent to a person u
 
 ## Annotations
 
-[^key-8d9abbc9809f651fb25e7adeba2e9d92]: Commencement: Rule 164 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-8d9abbc9809f651fb25e7adeba2e9d92]: Commencement: Rule 164 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

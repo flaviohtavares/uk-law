@@ -50,15 +50,15 @@ The Lord Chancellor, with the consent of the Treasury, makes the following Order
 
 In accordance with section 92(5) and (6) of that Act the Lord Chancellor has consulted the Lord Chief Justice, the Master of the Rolls, the President of the Queen’s Bench Division, the President of the Family Division, the Chancellor of the High Court, the Head of Civil Justice, the Deputy Head of Civil Justice and the Civil Justice Council.
 
-## 1. Citation and commencement[^key-67a4fd047fff49452f2970f13c2f9384]
+## 1. Citation and commencement[^c-67a4fd047fff49452f2970f13c2f9384]
 
 This Order may be cited as the Non-Contentious Probate Fees (Amendment) Order 2009 and comes into force on 13th July 2009.
 
-## 2. Amendment of the Non-Contentious Probate Fees Order 2004[^key-7001c0fa8b0e1e4072789d8c1659399a]
+## 2. Amendment of the Non-Contentious Probate Fees Order 2004[^c-7001c0fa8b0e1e4072789d8c1659399a]
 
 The Non-Contentious Probate Fees Order 2004[^f00002] is amended as follows.
 
-**3.**[^key-a59295ea1721e40b8881cd0113c558c1] For Schedule 1A[^f00003] (which specifies the remission of fees), substitute Schedule 1A (Remissions and part-remissions) set out in the Schedule to this Order.
+**3.**[^c-a59295ea1721e40b8881cd0113c558c1] For Schedule 1A[^f00003] (which specifies the remission of fees), substitute Schedule 1A (Remissions and part-remissions) set out in the Schedule to this Order.
 
 Signed by authority of the Lord Chancellor
 
@@ -80,7 +80,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 10th June 2009
 
-## SCHEDULE[^key-1fe6781f35ca4852a99692af3b8bc727]
+## SCHEDULE[^c-1fe6781f35ca4852a99692af3b8bc727]
 
 Article 3
 
@@ -236,17 +236,17 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39); section 92 was amended by paragraphs 308 and 345 of Schedule 4 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) from 1 October 2005.
 
-[^key-67a4fd047fff49452f2970f13c2f9384]: Commencement: Art. 1 in force at 13.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1497/article/1)
+[^c-67a4fd047fff49452f2970f13c2f9384]: Commencement: Art. 1 in force at 13.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1497/article/1)
 
-[^key-7001c0fa8b0e1e4072789d8c1659399a]: Commencement: Art. 2 in force at 13.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1497/article/1)
+[^c-7001c0fa8b0e1e4072789d8c1659399a]: Commencement: Art. 2 in force at 13.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1497/article/1)
 
 [^f00002]: Footnote: [S.I. 2004/3120 (L.22)](https://www.legislation.gov.uk/uksi/2004/3120), amended by [S.I. 2007/2174 (L.14)](https://www.legislation.gov.uk/uksi/2007/2174), [2008/2854 (L.20)](https://www.legislation.gov.uk/uksi/2008/2854) and by paragraph 1(2) of Schedule 11 to the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4) from a date to be appointed.
 
-[^key-a59295ea1721e40b8881cd0113c558c1]: Commencement: Art. 3 in force at 13.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1497/article/1)
+[^c-a59295ea1721e40b8881cd0113c558c1]: Commencement: Art. 3 in force at 13.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1497/article/1)
 
 [^f00003]: Footnote: Schedule 1A was inserted by [S.I. 2007/2174](https://www.legislation.gov.uk/uksi/2007/2174) and amended by [S.I. 2008/2854](https://www.legislation.gov.uk/uksi/2008/2854).
 
-[^key-1fe6781f35ca4852a99692af3b8bc727]: Commencement: Sch. in force at 13.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1497/article/1)
+[^c-1fe6781f35ca4852a99692af3b8bc727]: Commencement: Sch. in force at 13.7.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1497/article/1)
 
 [^f00004]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4); sections 141 and 142 were amended by sections 1(1)(a), 1(1)(b) and 1(2) of the Child Benefit Act [2005 (c.6)](https://www.legislation.gov.uk/ukpga/2005/6).
 

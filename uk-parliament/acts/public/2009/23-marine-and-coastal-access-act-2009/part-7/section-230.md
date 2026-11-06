@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Duties of the Environment Agency[^key-21009bebe56127a73a00301b983a7f23]
+## 230. Duties of the Environment Agency[^c-21009bebe56127a73a00301b983a7f23]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-21009bebe56127a73a00301b983a7f23]: Commencement: [S. 230](https://www.legislation.gov.uk/ukpga/2009/23/section/230) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)
+[^c-21009bebe56127a73a00301b983a7f23]: Commencement: [S. 230](https://www.legislation.gov.uk/ukpga/2009/23/section/230) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)

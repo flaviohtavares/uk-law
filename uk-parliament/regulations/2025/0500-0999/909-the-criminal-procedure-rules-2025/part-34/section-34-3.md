@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.3. Form of appeal and respondent’s notices[^key-a8ab54c955d61f97866c3c7b04798144]
+## 34.3. Form of appeal and respondent’s notices[^c-a8ab54c955d61f97866c3c7b04798144]
 
 *Extent: E+W*
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a8ab54c955d61f97866c3c7b04798144]: Commencement: [Rule 34.3](https://www.legislation.gov.uk/uksi/2025/909/rule/34.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-a8ab54c955d61f97866c3c7b04798144]: Commencement: [Rule 34.3](https://www.legislation.gov.uk/uksi/2025/909/rule/34.3) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00887]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 142 was amended by sections 26 and 29 of, and Schedule 3 to, the Criminal Appeal Act [1995 (c. 35)](https://www.legislation.gov.uk/ukpga/1995/35).

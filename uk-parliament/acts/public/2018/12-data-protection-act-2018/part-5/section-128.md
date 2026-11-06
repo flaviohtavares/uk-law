@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Other codes of practice[^key-30fb2804b001c6b0ad13a62b29019b1d]
+## 128. Other codes of practice[^c-30fb2804b001c6b0ad13a62b29019b1d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30fb2804b001c6b0ad13a62b29019b1d]: Textual amendment: S. 128 omitted (20.8.2025) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 92(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/92/5), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/f)
+[^c-30fb2804b001c6b0ad13a62b29019b1d]: Textual amendment: S. 128 omitted (20.8.2025) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 92(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/92/5), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/f)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Frivolous and vexatious etc. applications[^key-1686a661b8c6f122d1e9dc0f234c1783]
+## 41. Frivolous and vexatious etc. applications[^c-1686a661b8c6f122d1e9dc0f234c1783]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ the tribunal may dismiss the application in whole or in part.
 
 ## Annotations
 
-[^key-1686a661b8c6f122d1e9dc0f234c1783]: Commencement: Reg. 41 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-1686a661b8c6f122d1e9dc0f234c1783]: Commencement: Reg. 41 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

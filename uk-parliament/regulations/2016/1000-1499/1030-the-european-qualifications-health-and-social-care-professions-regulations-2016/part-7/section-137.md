@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Insertion of section 90A (Welsh text)[^key-8798852bbcfde4da882d793546d1a7ee]
+## 137. Insertion of section 90A (Welsh text)[^c-8798852bbcfde4da882d793546d1a7ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ In the Welsh language text, after section 90, insert—
 
 ## Annotations
 
-[^key-8798852bbcfde4da882d793546d1a7ee]: Commencement: Reg. 137 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-8798852bbcfde4da882d793546d1a7ee]: Commencement: Reg. 137 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

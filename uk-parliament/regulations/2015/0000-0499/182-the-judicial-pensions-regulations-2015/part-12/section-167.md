@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Modifying provisions and amendments[^key-cc8d143b5e164622b5b382b3478ba164]
+## 167. Modifying provisions and amendments[^c-cc8d143b5e164622b5b382b3478ba164]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 has effect.
 
 ## Annotations
 
-[^key-cc8d143b5e164622b5b382b3478ba164]: Commencement: [Reg. 167](https://www.legislation.gov.uk/uksi/2015/182/regulation/167) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-cc8d143b5e164622b5b382b3478ba164]: Commencement: [Reg. 167](https://www.legislation.gov.uk/uksi/2015/182/regulation/167) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -24,7 +24,7 @@ summary: ''
 
 - (a) any premises are being used by P in connection with P's business or professional activities; and
 - (b) P may have contravened the requirements of—
-  - (i)[^key-7401095a46e6aa56e92bd3c11d509fef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-7401095a46e6aa56e92bd3c11d509fef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) the funds transfer regulation, or
   - (iii) these Regulations.
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7401095a46e6aa56e92bd3c11d509fef]: Textual amendment: [Reg. 69(1)(b)(i)](https://www.legislation.gov.uk/uksi/2017/692/regulation/69/1/b/i) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/11/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7401095a46e6aa56e92bd3c11d509fef]: Textual amendment: [Reg. 69(1)(b)(i)](https://www.legislation.gov.uk/uksi/2017/692/regulation/69/1/b/i) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [11(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/11/2) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

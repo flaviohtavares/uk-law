@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation, commencement and application[^key-0c66f5da9433d798c704f77376a1aaf4]
+## 1. Citation, commencement and application[^c-0c66f5da9433d798c704f77376a1aaf4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c66f5da9433d798c704f77376a1aaf4]: Commencement: Reg. 1 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)
+[^c-0c66f5da9433d798c704f77376a1aaf4]: Commencement: Reg. 1 in force at 25.5.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/1289/regulation/1/1)

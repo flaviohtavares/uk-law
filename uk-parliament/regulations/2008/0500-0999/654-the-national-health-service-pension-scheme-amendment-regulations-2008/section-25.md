@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Amendment of regulation G9[^key-24626084ee490535565648a91e9e5662]
+## 25. Amendment of regulation G9[^c-24626084ee490535565648a91e9e5662]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24626084ee490535565648a91e9e5662]: Commencement: Reg. 25 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-24626084ee490535565648a91e9e5662]: Commencement: Reg. 25 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

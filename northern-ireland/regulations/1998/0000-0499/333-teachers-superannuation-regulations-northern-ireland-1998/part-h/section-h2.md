@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## H2. Records and information[^key-0ba367ebbb149d28c7c9976814821f41]
+## H2. Records and information[^c-0ba367ebbb149d28c7c9976814821f41]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ba367ebbb149d28c7c9976814821f41]: Commencement: Reg. H2 in operation at 2.11.1998, see reg. A1
+[^c-0ba367ebbb149d28c7c9976814821f41]: Commencement: Reg. H2 in operation at 2.11.1998, see reg. A1

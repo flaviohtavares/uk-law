@@ -48,9 +48,9 @@ Section 12(2).
 
 (3) A previous appointment as a member of the Tribunal does not affect a person's eligibility for re-appointment as a member of the Tribunal.
 
-**4.** (1) A person shall not hold office as a member of the Tribunal after reaching the age of 75[^key-74bcd62bb70d692e8bbc71ea86a0236a] .
+**4.** (1) A person shall not hold office as a member of the Tribunal after reaching the age of 75[^c-74bcd62bb70d692e8bbc71ea86a0236a] .
 
-(2)[^key-00283af4ba6436e7c1272aef43127911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-00283af4ba6436e7c1272aef43127911] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Remuneration, etc.
 
@@ -113,9 +113,9 @@ Section 12(2).
 
 [^c21479461]: Textual amendment: Words in [Sch. 2 para. 3(2)](https://www.legislation.gov.uk/nia/2008/12/schedule/2/paragraph/3/2) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2009/3/section/2/3), [5(7)(a)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7/a), [Sch. 4 para. 47(5)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/47/5) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 
-[^key-74bcd62bb70d692e8bbc71ea86a0236a]: Textual amendment: Word in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/nia/2008/12/schedule/2/paragraph/4/1) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 37(a)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/37/a) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-74bcd62bb70d692e8bbc71ea86a0236a]: Textual amendment: Word in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/nia/2008/12/schedule/2/paragraph/4/1) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 37(a)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/37/a) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
-[^key-00283af4ba6436e7c1272aef43127911]: Textual amendment: [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nia/2008/12/schedule/2/paragraph/4/2) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 37(b)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/37/b) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-00283af4ba6436e7c1272aef43127911]: Textual amendment: [Sch. 2 para. 4(2)](https://www.legislation.gov.uk/nia/2008/12/schedule/2/paragraph/4/2) omitted (10.3.2022) by virtue of [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 37(b)](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/37/b) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c21870001]: Textual amendment: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2008/12/schedule/2/paragraph/5) substituted (12.4.2010) by [Northern Ireland Act 2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2009/3/section/2/3), [5(7)(a)](https://www.legislation.gov.uk/ukpga/2009/3/section/5/7/a), [Sch. 4 para. 47(6)](https://www.legislation.gov.uk/ukpga/2009/3/schedule/4/paragraph/47/6) (with [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2009/3/schedule/5/paragraph/16)); [S.I. 2010/812](https://www.legislation.gov.uk/uksi/2010/812), [art. 2](https://www.legislation.gov.uk/uksi/2010/812/article/2)
 

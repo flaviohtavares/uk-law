@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Annual rate of surviving adult’s pensions payable on death of deferred member[^key-ac522f2c635198fcc7c4b3c1eb82f7c2]
+## 83. Annual rate of surviving adult’s pensions payable on death of deferred member[^c-ac522f2c635198fcc7c4b3c1eb82f7c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac522f2c635198fcc7c4b3c1eb82f7c2]: Commencement: Reg. 83 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-ac522f2c635198fcc7c4b3c1eb82f7c2]: Commencement: Reg. 83 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

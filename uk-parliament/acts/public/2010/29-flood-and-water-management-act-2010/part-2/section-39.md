@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Incidental flooding or coastal erosion: local authorities[^key-26139131ee7bd162fec85b4203be86b6][^key-3757af58dc6d5e8db64e978271a7d172]
+## 39. Incidental flooding or coastal erosion: local authorities[^c-26139131ee7bd162fec85b4203be86b6][^c-3757af58dc6d5e8db64e978271a7d172]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 (4) Condition 3 is that—
 
-- (a) the authority has consulted the appropriate agency[^key-cb7533d62795c2b1787de71350391a39], and
+- (a) the authority has consulted the appropriate agency[^c-cb7533d62795c2b1787de71350391a39], and
 - (b) if the work affects a main river, the appropriate agency has consented to it.
 
 (5) Condition 4 is that the authority has consulted—
@@ -59,7 +59,7 @@ summary: ''
 
 (8) An authority may arrange for work to be carried out in reliance on this section on its behalf by—
 
-- (a) the appropriate agency[^key-7f3fcf6d019b35176b6f2fe2a2b3538e], or
+- (a) the appropriate agency[^c-7f3fcf6d019b35176b6f2fe2a2b3538e], or
 - (b) another local authority.
 
 (9) Subsection (1) may be relied on to carry out work whether or not it forms part of the exercise of other powers; but nothing in subsection (1) restricts the powers of an authority under another enactment.
@@ -84,7 +84,7 @@ summary: ''
 - (a) the Secretary of State in relation to England, and
 - (b) the Welsh Ministers in relation to Wales.
 
-(14A)[^key-244046397e3b3ababaaec79f7ef0b269] In this section, “the appropriate agency” means—
+(14A)[^c-244046397e3b3ababaaec79f7ef0b269] In this section, “the appropriate agency” means—
 
 - (a) the Environment Agency, in relation to work in England, and
 - (b) the Natural Resources Body for Wales in relation to work in Wales.
@@ -93,12 +93,12 @@ summary: ''
 
 ## Annotations
 
-[^key-26139131ee7bd162fec85b4203be86b6]: Commencement: S. 39 in force at 18.1.2011 for specified purposes by [S.I. 2011/95](https://www.legislation.gov.uk/uksi/2011/95), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/95/article/2/c)
+[^c-26139131ee7bd162fec85b4203be86b6]: Commencement: S. 39 in force at 18.1.2011 for specified purposes by [S.I. 2011/95](https://www.legislation.gov.uk/uksi/2011/95), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/95/article/2/c)
 
-[^key-3757af58dc6d5e8db64e978271a7d172]: Commencement: S. 39 in force at 1.12.2011 in so far as not already in force by [S.I. 2011/2856](https://www.legislation.gov.uk/uksi/2011/2856), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/2856/article/3/b) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2011/2856/article/4/2))
+[^c-3757af58dc6d5e8db64e978271a7d172]: Commencement: S. 39 in force at 1.12.2011 in so far as not already in force by [S.I. 2011/2856](https://www.legislation.gov.uk/uksi/2011/2856), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/2856/article/3/b) (with [art. 4(2)](https://www.legislation.gov.uk/uksi/2011/2856/article/4/2))
 
-[^key-cb7533d62795c2b1787de71350391a39]: Textual amendment: Words in [s. 39(4)](https://www.legislation.gov.uk/ukpga/2010/29/section/39/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 465(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/465/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-cb7533d62795c2b1787de71350391a39]: Textual amendment: Words in [s. 39(4)](https://www.legislation.gov.uk/ukpga/2010/29/section/39/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 465(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/465/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-7f3fcf6d019b35176b6f2fe2a2b3538e]: Textual amendment: Words in [s. 39(8)](https://www.legislation.gov.uk/ukpga/2010/29/section/39/8) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 465(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/465/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-7f3fcf6d019b35176b6f2fe2a2b3538e]: Textual amendment: Words in [s. 39(8)](https://www.legislation.gov.uk/ukpga/2010/29/section/39/8) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 465(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/465/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-244046397e3b3ababaaec79f7ef0b269]: Textual amendment: [S. 39(14A)](https://www.legislation.gov.uk/ukpga/2010/29/section/39/14A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 465(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/465/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-244046397e3b3ababaaec79f7ef0b269]: Textual amendment: [S. 39(14A)](https://www.legislation.gov.uk/ukpga/2010/29/section/39/14A) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 465(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/465/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

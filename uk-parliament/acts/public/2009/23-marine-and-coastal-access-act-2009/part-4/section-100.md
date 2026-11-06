@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Directions to persons as regards performance of delegated functions[^key-6406c7004b0032ab97d5d4b959823786]
+## 100. Directions to persons as regards performance of delegated functions[^c-6406c7004b0032ab97d5d4b959823786]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6406c7004b0032ab97d5d4b959823786]: Commencement: S. 100 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)
+[^c-6406c7004b0032ab97d5d4b959823786]: Commencement: S. 100 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/a)

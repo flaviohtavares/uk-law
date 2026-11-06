@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.34. Applications for costs[^key-cc15d8e62ca77f8682e76dea06e677b2]
+## 4.34. Applications for costs[^c-cc15d8e62ca77f8682e76dea06e677b2]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc15d8e62ca77f8682e76dea06e677b2]: Commencement: Rule 4.34 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-cc15d8e62ca77f8682e76dea06e677b2]: Commencement: Rule 4.34 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

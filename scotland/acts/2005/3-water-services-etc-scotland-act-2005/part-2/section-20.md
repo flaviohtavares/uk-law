@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Continuation and discontinuation of sewerage services[^key-79cd991323bc614aa075bed3d4ef4a6e]
+## 20. Continuation and discontinuation of sewerage services[^c-79cd991323bc614aa075bed3d4ef4a6e]
 
 *Extent: S*
 
@@ -75,4 +75,4 @@ the duty of Scottish Water under subsection (5) of section 16 to provide trade e
 
 ## Annotations
 
-[^key-79cd991323bc614aa075bed3d4ef4a6e]: Commencement: S. 20 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-79cd991323bc614aa075bed3d4ef4a6e]: Commencement: S. 20 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)

@@ -34,7 +34,7 @@ CIVIL AVIATION
 
 DISABLED PERSONS
 
-The Civil Aviation (Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) Regulations 2007 (revoked)[^key-cb3ae0e6b1cc74603a4d45792f31dcad]
+The Civil Aviation (Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) Regulations 2007 (revoked)[^c-cb3ae0e6b1cc74603a4d45792f31dcad]
 
 Made
 
@@ -46,56 +46,56 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-cb3ae0e6b1cc74603a4d45792f31dcad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb3ae0e6b1cc74603a4d45792f31dcad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-cb3ae0e6b1cc74603a4d45792f31dcad]
+## 1. Citation and commencement[^c-cb3ae0e6b1cc74603a4d45792f31dcad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-cb3ae0e6b1cc74603a4d45792f31dcad]
+## 2. Interpretation[^c-cb3ae0e6b1cc74603a4d45792f31dcad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences[^key-cb3ae0e6b1cc74603a4d45792f31dcad]
+## 3. Offences[^c-cb3ae0e6b1cc74603a4d45792f31dcad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Penalties[^key-cb3ae0e6b1cc74603a4d45792f31dcad]
+## 4. Penalties[^c-cb3ae0e6b1cc74603a4d45792f31dcad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Defence[^key-cb3ae0e6b1cc74603a4d45792f31dcad]
+## 5. Defence[^c-cb3ae0e6b1cc74603a4d45792f31dcad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences by corporate or unincorporated bodies[^key-cb3ae0e6b1cc74603a4d45792f31dcad]
+## 6. Offences by corporate or unincorporated bodies[^c-cb3ae0e6b1cc74603a4d45792f31dcad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement and complaints[^key-cb3ae0e6b1cc74603a4d45792f31dcad]
+## 7. Enforcement and complaints[^c-cb3ae0e6b1cc74603a4d45792f31dcad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of section 19 of the Disability Discrimination Act 1995[^key-cb3ae0e6b1cc74603a4d45792f31dcad]
+## 8. Amendment of section 19 of the Disability Discrimination Act 1995[^c-cb3ae0e6b1cc74603a4d45792f31dcad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Compensation claims by disabled persons etc.[^key-cb3ae0e6b1cc74603a4d45792f31dcad]
+## 9. Compensation claims by disabled persons etc.[^c-cb3ae0e6b1cc74603a4d45792f31dcad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of section 27 of the Equality Act 2006[^key-cb3ae0e6b1cc74603a4d45792f31dcad]
+## 10. Amendment of section 27 of the Equality Act 2006[^c-cb3ae0e6b1cc74603a4d45792f31dcad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cb3ae0e6b1cc74603a4d45792f31dcad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb3ae0e6b1cc74603a4d45792f31dcad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-cb3ae0e6b1cc74603a4d45792f31dcad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cb3ae0e6b1cc74603a4d45792f31dcad]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cb3ae0e6b1cc74603a4d45792f31dcad]: Textual amendment: Regulations revoked (1.12.2014) by [The Civil Aviation (Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) Regulations 2014 (S.I. 2014/2833)](https://www.legislation.gov.uk/uksi/2014/2833), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2833/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/2833/regulation/2)
+[^c-cb3ae0e6b1cc74603a4d45792f31dcad]: Textual amendment: Regulations revoked (1.12.2014) by [The Civil Aviation (Access to Air Travel for Disabled Persons and Persons with Reduced Mobility) Regulations 2014 (S.I. 2014/2833)](https://www.legislation.gov.uk/uksi/2014/2833), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2833/regulation/1), [2](https://www.legislation.gov.uk/uksi/2014/2833/regulation/2)

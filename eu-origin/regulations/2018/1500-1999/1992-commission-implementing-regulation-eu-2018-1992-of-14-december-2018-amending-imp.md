@@ -33,22 +33,22 @@ of 14 December 2018
 
 amending Implementing Regulation (EU) No 1191/2014 as regards the reporting of data referred to in Article 19 of Regulation (EU) No 517/2014 in respect of hydrofluorocarbons placed on the market in the United Kingdom and in the Union of 27 Member States (revoked)
 
-[^key-bd6ccfd5a8bc5df2ebb2dafbede9c2fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd6ccfd5a8bc5df2ebb2dafbede9c2fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-bd6ccfd5a8bc5df2ebb2dafbede9c2fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-bd6ccfd5a8bc5df2ebb2dafbede9c2fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-bd6ccfd5a8bc5df2ebb2dafbede9c2fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-bd6ccfd5a8bc5df2ebb2dafbede9c2fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bd6ccfd5a8bc5df2ebb2dafbede9c2fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd6ccfd5a8bc5df2ebb2dafbede9c2fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-bd6ccfd5a8bc5df2ebb2dafbede9c2fd]
+## ANNEX[^c-bd6ccfd5a8bc5df2ebb2dafbede9c2fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd6ccfd5a8bc5df2ebb2dafbede9c2fd]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-bd6ccfd5a8bc5df2ebb2dafbede9c2fd]: Textual amendment: Regulation revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

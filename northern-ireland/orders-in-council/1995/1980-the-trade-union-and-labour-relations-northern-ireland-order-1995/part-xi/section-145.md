@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 145. Police service[^key-e710f34a3d190314a3a43f50222ffe9e]
+## 145. Police service[^c-e710f34a3d190314a3a43f50222ffe9e]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e710f34a3d190314a3a43f50222ffe9e]: Modification: [Art. 145](https://www.legislation.gov.uk/nisi/1995/1980/article/145) restricted (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 1 paras. 15](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/21) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
+[^c-e710f34a3d190314a3a43f50222ffe9e]: Modification: [Art. 145](https://www.legislation.gov.uk/nisi/1995/1980/article/145) restricted (1.12.2023) by [Northern Ireland Troubles (Legacy and Reconciliation) Act 2023 (c. 41)](https://www.legislation.gov.uk/ukpga/2023/41), [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4), [Sch. 1 paras. 15](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/15), [21](https://www.legislation.gov.uk/ukpga/2023/41/schedule/1/paragraph/21) (with [s. 61](https://www.legislation.gov.uk/ukpga/2023/41/section/61))
 
 [^c17262431]: Textual amendment: [1994 NI 1](https://www.legislation.gov.uk/nisi/1994)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Liability of young persons to arrest for breaking conditions of remand.[^key-9acb05261ac00aaf9b417c1011052dc3][^c13100781]
+## 23. Liability of young persons to arrest for breaking conditions of remand.[^c-9acb05261ac00aaf9b417c1011052dc3][^c13100781]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9acb05261ac00aaf9b417c1011052dc3]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/1994/33/section/23) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/34); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
+[^c-9acb05261ac00aaf9b417c1011052dc3]: Textual amendment: [S. 23](https://www.legislation.gov.uk/ukpga/1994/33/section/23) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 34](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/34); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
 
 [^c13100781]: Commencement: S. 23 wholly in force at 3.2.1995; s. 23 not in force at Royal Assent see s. 172; s. 23 in force at 3.2.1995 by [S.I. 1995/127](https://www.legislation.gov.uk/uksi/1995/127), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/127/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/1995/127/schedule/1) (with savings in [art. 2(2)(3)](https://www.legislation.gov.uk/uksi/1995/127/article/2/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/1995/127/schedule/2))

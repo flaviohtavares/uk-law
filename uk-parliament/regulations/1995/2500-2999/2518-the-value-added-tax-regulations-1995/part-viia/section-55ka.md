@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55KA. Appropriate percentage for limited-cost traders[^key-70cb9bd66a020c1ae45762fc5e3881ae][^key-ee82af7d77e229b34afc5529565091a3]
+## 55KA. Appropriate percentage for limited-cost traders[^c-70cb9bd66a020c1ae45762fc5e3881ae][^c-ee82af7d77e229b34afc5529565091a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-70cb9bd66a020c1ae45762fc5e3881ae]: Textual amendment: [Reg. 55KA](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55KA) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Value Added Tax (Amendment) Regulations 2017 (S.I. 2017/295)](https://www.legislation.gov.uk/uksi/2017/295), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/295/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2017/295/regulation/7)
+[^c-70cb9bd66a020c1ae45762fc5e3881ae]: Textual amendment: [Reg. 55KA](https://www.legislation.gov.uk/uksi/1995/2518/regulation/55KA) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Value Added Tax (Amendment) Regulations 2017 (S.I. 2017/295)](https://www.legislation.gov.uk/uksi/2017/295), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/295/regulation/1/1), [7](https://www.legislation.gov.uk/uksi/2017/295/regulation/7)
 
-[^key-ee82af7d77e229b34afc5529565091a3]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/1995/2518/part/7A) inserted (25.4.2002) by [The Value Added Tax (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1142)](https://www.legislation.gov.uk/uksi/2002/1142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1142/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2002/1142/regulation/7)
+[^c-ee82af7d77e229b34afc5529565091a3]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/1995/2518/part/7A) inserted (25.4.2002) by [The Value Added Tax (Amendment) (No. 2) Regulations 2002 (S.I. 2002/1142)](https://www.legislation.gov.uk/uksi/2002/1142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2002/1142/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2002/1142/regulation/7)

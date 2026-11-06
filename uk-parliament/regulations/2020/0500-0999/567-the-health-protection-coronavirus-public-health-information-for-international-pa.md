@@ -34,7 +34,7 @@ Public Health, England
 
 Transport
 
-The Health Protection (Coronavirus, Public Health Information for International Passengers) (England) Regulations 2020 (revoked)[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+The Health Protection (Coronavirus, Public Health Information for International Passengers) (England) Regulations 2020 (revoked)[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 Made
 
@@ -48,78 +48,78 @@ Coming into force
 
 8th June 2020
 
-[^key-9fb350c6fdc8ceecab7ca1258fed611d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9fb350c6fdc8ceecab7ca1258fed611d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and application[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+## 1. Citation, commencement and application[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+## 2. Interpretation[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Information requirement[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+## 3. Information requirement[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Required information and manner[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+## 4. Required information and manner[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exemption period[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+## 5. Exemption period[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Records and information[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+## 6. Records and information[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Fixed penalty notices[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+## 7. Fixed penalty notices[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Prosecutions[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+## 8. Prosecutions[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Review of need for requirements[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+## 9. Review of need for requirements[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Expiry[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+## 10. Expiry[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9fb350c6fdc8ceecab7ca1258fed611d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9fb350c6fdc8ceecab7ca1258fed611d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+## SCHEDULE[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 Regulation 4
 
-### PART 1[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+### PART 1[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+### PART 2[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+### PART 3[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4[^key-9fb350c6fdc8ceecab7ca1258fed611d]
+### PART 4[^c-9fb350c6fdc8ceecab7ca1258fed611d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9fb350c6fdc8ceecab7ca1258fed611d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9fb350c6fdc8ceecab7ca1258fed611d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9fb350c6fdc8ceecab7ca1258fed611d]: Textual amendment: Regulations revoked (17.5.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) Regulations 2021 (S.I. 2021/582)](https://www.legislation.gov.uk/uksi/2021/582), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/582/regulation/1/2), [26(1)(a)](https://www.legislation.gov.uk/uksi/2021/582/regulation/26/1/a) (with [regs. 25](https://www.legislation.gov.uk/uksi/2021/582/regulation/25), [26(4)](https://www.legislation.gov.uk/uksi/2021/582/regulation/26/4))
+[^c-9fb350c6fdc8ceecab7ca1258fed611d]: Textual amendment: Regulations revoked (17.5.2021 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (England) Regulations 2021 (S.I. 2021/582)](https://www.legislation.gov.uk/uksi/2021/582), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/582/regulation/1/2), [26(1)(a)](https://www.legislation.gov.uk/uksi/2021/582/regulation/26/1/a) (with [regs. 25](https://www.legislation.gov.uk/uksi/2021/582/regulation/25), [26(4)](https://www.legislation.gov.uk/uksi/2021/582/regulation/26/4))

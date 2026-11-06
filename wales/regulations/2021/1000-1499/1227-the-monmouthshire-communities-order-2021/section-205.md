@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 205. Creation of the new community ward of Kingcoed[^key-025d0256e9bf6c87e7f2c5a786f93a7b][^key-8eb17262c7615c20cbd323a9ec1219b2]
+## 205. Creation of the new community ward of Kingcoed[^c-025d0256e9bf6c87e7f2c5a786f93a7b][^c-8eb17262c7615c20cbd323a9ec1219b2]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The new ward of Kingcoed of the community of Raglan is created which—
 
 ## Annotations
 
-[^key-025d0256e9bf6c87e7f2c5a786f93a7b]: Commencement: Art. 205 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-025d0256e9bf6c87e7f2c5a786f93a7b]: Commencement: Art. 205 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-8eb17262c7615c20cbd323a9ec1219b2]: Commencement: [Art. 205](https://www.legislation.gov.uk/wsi/2021/1227/article/205) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-8eb17262c7615c20cbd323a9ec1219b2]: Commencement: [Art. 205](https://www.legislation.gov.uk/wsi/2021/1227/article/205) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

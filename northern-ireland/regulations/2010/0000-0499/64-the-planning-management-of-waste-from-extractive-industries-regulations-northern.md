@@ -28,623 +28,623 @@ summary: ''
 
 2010 No. 64
 
-Planning *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Planning *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-The Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2010 *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+The Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2010 *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Made *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Made *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-5th March 2010 *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+5th March 2010 *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Coming into operation- *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Coming into operation- *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-1st April 2010 *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+1st April 2010 *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-The Department of the Environment, being a Department designated *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473][^f00001] for the purposes of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473][^f00002] in relation to the environment, makes the following Regulations in exercise of the powers conferred by that section. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473][^key-5d47e5a1676e83188b59838e6d71e7b5]
+The Department of the Environment, being a Department designated *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473][^f00001] for the purposes of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473][^f00002] in relation to the environment, makes the following Regulations in exercise of the powers conferred by that section. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473][^c-5d47e5a1676e83188b59838e6d71e7b5]
 
-## PART 1 (affected by repeal, see note) — INTRODUCTORY PROVISIONS (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473][^key-c22e05d1d500b1fba2988732839e1473]
+## PART 1 (affected by repeal, see note) — INTRODUCTORY PROVISIONS (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473][^c-c22e05d1d500b1fba2988732839e1473]
 
-### 1. Citation and commencement (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 1. Citation and commencement (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-These Regulations may be cited as the Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2010 and shall come into operation on 1st April 2010. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+These Regulations may be cited as the Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2010 and shall come into operation on 1st April 2010. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 2. Interpretation (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 2. Interpretation (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473][^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473][^f00003] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) In these Regulations— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(2) In these Regulations— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- “best available techniques” has the same meaning as in Article 2(11) of Council Directive *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [96/61/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1996/0061)[^key-c22e05d1d500b1fba2988732839e1473][^f00004] of 24th September 1996 concerning integrated pollution prevention and control; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “Category A waste facility” means a facility so classified in Schedule 3; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “competent person” means a person with sufficient training, experience, knowledge and other qualities to enable that person to undertake the duties assigned to them relative to these Regulations; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “dam” means an engineered structure designed to retain or confine either water or waste or both within a pond; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “dangerous substance” means a substance, mixture or preparation which is dangerous within the meaning of Directive 67/548/EEC *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473][^f00005]or Directive 99/45/EC *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473][^f00006];
-- “the Department” means the Department of the Environment; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “the Directive” means Council Directive *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [2006/21/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0021)[^key-c22e05d1d500b1fba2988732839e1473][^f00007] of 15th March 2006 on the management of waste from extractive industries and amending Directive *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [2004/35/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2004/0035)[^key-c22e05d1d500b1fba2988732839e1473][^f00008];
-- “Directive 91/689/EEC” *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473][^f00009] means Council Directive *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [91/689/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1991/0689)[^key-c22e05d1d500b1fba2988732839e1473] of 12th December 1991 on hazardous waste; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “Directive 67/548/EEC” means Council Directive *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [67/548/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1967/0548)[^key-c22e05d1d500b1fba2988732839e1473] of 27th June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “Directive 99/45/EC” means Directive *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [99/45/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1999/0045)[^key-c22e05d1d500b1fba2988732839e1473] of the European Parliament and of the Council of 31st May 1999 concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “Directive 2000/60/EC” *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473][^f00010] means Directive *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [2000/60/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2000/0060)[^key-c22e05d1d500b1fba2988732839e1473] of the European Parliament and of the Council of 23rd October 2000 establishing a framework for Community action in the field of water policy; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “extractive waste” means waste produced from an extractive industry and resulting from the winning, working, treatment and storage of minerals but does not include the following— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (a) waste which is generated by the winning, working and treatment of minerals but which does not directly result from those operations; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (b) waste resulting from the offshore winning, working and treatment of minerals; or *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (c) the injection of water and re‑injection of pumped groundwater as defined in the first and second indents of Article 11(3)(j) of Directive 2000/60/EC, to the extent authorised by that Article; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “extractive waste site” means any area designated for the accumulation or deposit of extractive waste, whether in a solid or liquid state or in solution or suspension, for the following time periods— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (a) a period of six months or less for sites for hazardous waste generated unexpectedly; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (b) a period of one year or less for sites for non-hazardous, non-inert waste; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (c) a period of three years or less for sites for unpolluted soil, non‑hazardous waste resulting from the winning of minerals, waste resulting from the working, treatment and storage of peat and inert waste; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- “best available techniques” has the same meaning as in Article 2(11) of Council Directive *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [96/61/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1996/0061)[^c-c22e05d1d500b1fba2988732839e1473][^f00004] of 24th September 1996 concerning integrated pollution prevention and control; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “Category A waste facility” means a facility so classified in Schedule 3; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “competent person” means a person with sufficient training, experience, knowledge and other qualities to enable that person to undertake the duties assigned to them relative to these Regulations; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “dam” means an engineered structure designed to retain or confine either water or waste or both within a pond; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “dangerous substance” means a substance, mixture or preparation which is dangerous within the meaning of Directive 67/548/EEC *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473][^f00005]or Directive 99/45/EC *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473][^f00006];
+- “the Department” means the Department of the Environment; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “the Directive” means Council Directive *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [2006/21/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0021)[^c-c22e05d1d500b1fba2988732839e1473][^f00007] of 15th March 2006 on the management of waste from extractive industries and amending Directive *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [2004/35/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2004/0035)[^c-c22e05d1d500b1fba2988732839e1473][^f00008];
+- “Directive 91/689/EEC” *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473][^f00009] means Council Directive *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [91/689/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1991/0689)[^c-c22e05d1d500b1fba2988732839e1473] of 12th December 1991 on hazardous waste; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “Directive 67/548/EEC” means Council Directive *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [67/548/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1967/0548)[^c-c22e05d1d500b1fba2988732839e1473] of 27th June 1967 on the approximation of laws, regulations and administrative provisions relating to the classification, packaging and labelling of dangerous substances; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “Directive 99/45/EC” means Directive *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [99/45/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1999/0045)[^c-c22e05d1d500b1fba2988732839e1473] of the European Parliament and of the Council of 31st May 1999 concerning the approximation of the laws, regulations and administrative provisions of the Member States relating to the classification, packaging and labelling of dangerous preparations; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “Directive 2000/60/EC” *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473][^f00010] means Directive *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [2000/60/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2000/0060)[^c-c22e05d1d500b1fba2988732839e1473] of the European Parliament and of the Council of 23rd October 2000 establishing a framework for Community action in the field of water policy; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “extractive waste” means waste produced from an extractive industry and resulting from the winning, working, treatment and storage of minerals but does not include the following— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (a) waste which is generated by the winning, working and treatment of minerals but which does not directly result from those operations; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (b) waste resulting from the offshore winning, working and treatment of minerals; or *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (c) the injection of water and re‑injection of pumped groundwater as defined in the first and second indents of Article 11(3)(j) of Directive 2000/60/EC, to the extent authorised by that Article; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “extractive waste site” means any area designated for the accumulation or deposit of extractive waste, whether in a solid or liquid state or in solution or suspension, for the following time periods— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (a) a period of six months or less for sites for hazardous waste generated unexpectedly; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (b) a period of one year or less for sites for non-hazardous, non-inert waste; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (c) a period of three years or less for sites for unpolluted soil, non‑hazardous waste resulting from the winning of minerals, waste resulting from the working, treatment and storage of peat and inert waste; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-  but does not include any area which falls within a waste facility; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+  but does not include any area which falls within a waste facility; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-  and such a site is deemed to include— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+  and such a site is deemed to include— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-  - (i) any dam or other structure serving to contain, retain, confine or otherwise support the extractive waste site; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (ii) (but not to be limited to), heaps and ponds, *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+  - (i) any dam or other structure serving to contain, retain, confine or otherwise support the extractive waste site; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (ii) (but not to be limited to), heaps and ponds, *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-  but excludes excavation voids into which waste is replaced, after extraction of the mineral, for rehabilitation and construction purposes; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “financial guarantee” means the guarantee required by regulation 8; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “hazardous waste” has the meaning given to it in Article 1(4) of Council Directive 91/689/EEC; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “heap” means an engineered facility for the deposit of solid waste on the surface; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “inert waste” means waste which satisfies the following requirements— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (a) it does not undergo any significant physical, chemical or biological transformations; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (b) it does not dissolve, burn or otherwise physically or chemically react, biodegrade or adversely affect other matter with which it comes into contact in a way likely to give rise to environmental pollution or harm human health; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (c) the total leachability and pollutant content of the waste is insignificant, in particular not such as to endanger the quality of either surface water or groundwater or both; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (d) the ecotoxicity of the leachate is insignificant, in particular not such as to endanger the quality of either surface water or groundwater or both; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “leachate” means any liquid percolating through the deposited waste and emitted from or contained within an extractive waste site or waste facility, including polluted drainage, which may adversely affect the environment if not appropriately treated; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “major accident” means an occurrence on-site in the course of an operation involving the management of extractive waste in any establishment covered by these Regulations, leading to a serious danger to either human health or the environment or both, whether immediately or over time, on-site or off-site; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “minerals” includes all minerals and substances in or under land of a kind ordinarily worked for removal by underground or surface working, except that it does not include turf cut for purposes other than sale; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “offshore” means that area of the sea and seabed extending from the low water mark of ordinary or medium tides outwards; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “operator” means the person who is or will be responsible for the management of extractive waste, including in respect of temporary storage of extractive waste as well as the operational and after-closure phases; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “planning permission” means permission under Part IV of the 1991 Order; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “pond” means a natural or engineered facility for disposing of fine grained waste, normally tailings, along with varying amounts of free water, resulting from the treatment of minerals and from the clearing and recycling of process water; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “the public” means one or more natural or legal persons and associations, organisations or groups made up of such persons; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “the public concerned” means the public affected or likely to be affected by, or having an interest in, the environmental decision-making under Parts 3 or 5 and non-governmental organisations promoting environmental protection and meeting any requirements under national legislation are deemed to have such an interest; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “receiving body of water” means surface waters, groundwater, transitional waters and coastal water as defined in Article 2(1), (2), (6) and (7) of Directive 2000/60/EC; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “rehabilitation” means the treatment of the land affected by a waste facility in such a way as to restore the land to a satisfactory state, with particular regard to soil quality, wildlife, natural habitats, freshwater systems, landscape and appropriate beneficial uses; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “relevant development” means development comprising mining operations involving the management of extractive waste; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “substantial change” means a change in the structure or operation of a waste facility that, in the opinion of the Department, may have significant negative effects on human health or the environment or both; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “tailings” means the waste solids or slurries that remain after the treatment of minerals by separation processes (e.g. crushing, grinding, size-sorting, flotation and other physico-chemical techniques) to remove the valuable minerals from the less valuable rock; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “the 1991 Order” means the Planning (Northern Ireland) Order 1991 *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473][^f00011];
-- “treatment” means the mechanical, physical, biological, thermal or chemical process, or combination of processes, carried out on extracted material, with a view to extracting the mineral, including size change, classification, separation and leaching, and the re-processing of previously discarded waste, but excluding smelting, thermal manufacturing processes (other than the burning of limestone) and metallurgical processes; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “unpolluted soil” means soil that is removed from the upper layer of the ground during extractive activities and that is not “deemed to be polluted under national or community law”; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “waste” means anything that is waste for the purposes of Directive[^key-599948b7007e9133b3e10b6a010e7229] *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [2008/98/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2008/0098)[^key-c22e05d1d500b1fba2988732839e1473] of the European Parliament and of the Council on waste. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “waste facility” means any area designated for the accumulation or deposit of extractive waste, whether in a solid or liquid state or in solution or suspension, for the following time periods— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (a) no time period for Category A waste facilities and facilities for waste characterised as hazardous in the waste management plan; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (b) six months for facilities for hazardous waste generated unexpectedly; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (c) one year for facilities for non‑hazardous, non‑inert waste; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (d) three years for facilities for unpolluted soil, non‑hazardous waste resulting from the winning of minerals, waste resulting from the working, treatment and storage of peat and inert waste; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+  but excludes excavation voids into which waste is replaced, after extraction of the mineral, for rehabilitation and construction purposes; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “financial guarantee” means the guarantee required by regulation 8; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “hazardous waste” has the meaning given to it in Article 1(4) of Council Directive 91/689/EEC; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “heap” means an engineered facility for the deposit of solid waste on the surface; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “inert waste” means waste which satisfies the following requirements— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (a) it does not undergo any significant physical, chemical or biological transformations; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (b) it does not dissolve, burn or otherwise physically or chemically react, biodegrade or adversely affect other matter with which it comes into contact in a way likely to give rise to environmental pollution or harm human health; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (c) the total leachability and pollutant content of the waste is insignificant, in particular not such as to endanger the quality of either surface water or groundwater or both; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (d) the ecotoxicity of the leachate is insignificant, in particular not such as to endanger the quality of either surface water or groundwater or both; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “leachate” means any liquid percolating through the deposited waste and emitted from or contained within an extractive waste site or waste facility, including polluted drainage, which may adversely affect the environment if not appropriately treated; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “major accident” means an occurrence on-site in the course of an operation involving the management of extractive waste in any establishment covered by these Regulations, leading to a serious danger to either human health or the environment or both, whether immediately or over time, on-site or off-site; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “minerals” includes all minerals and substances in or under land of a kind ordinarily worked for removal by underground or surface working, except that it does not include turf cut for purposes other than sale; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “offshore” means that area of the sea and seabed extending from the low water mark of ordinary or medium tides outwards; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “operator” means the person who is or will be responsible for the management of extractive waste, including in respect of temporary storage of extractive waste as well as the operational and after-closure phases; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “planning permission” means permission under Part IV of the 1991 Order; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “pond” means a natural or engineered facility for disposing of fine grained waste, normally tailings, along with varying amounts of free water, resulting from the treatment of minerals and from the clearing and recycling of process water; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “the public” means one or more natural or legal persons and associations, organisations or groups made up of such persons; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “the public concerned” means the public affected or likely to be affected by, or having an interest in, the environmental decision-making under Parts 3 or 5 and non-governmental organisations promoting environmental protection and meeting any requirements under national legislation are deemed to have such an interest; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “receiving body of water” means surface waters, groundwater, transitional waters and coastal water as defined in Article 2(1), (2), (6) and (7) of Directive 2000/60/EC; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “rehabilitation” means the treatment of the land affected by a waste facility in such a way as to restore the land to a satisfactory state, with particular regard to soil quality, wildlife, natural habitats, freshwater systems, landscape and appropriate beneficial uses; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “relevant development” means development comprising mining operations involving the management of extractive waste; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “substantial change” means a change in the structure or operation of a waste facility that, in the opinion of the Department, may have significant negative effects on human health or the environment or both; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “tailings” means the waste solids or slurries that remain after the treatment of minerals by separation processes (e.g. crushing, grinding, size-sorting, flotation and other physico-chemical techniques) to remove the valuable minerals from the less valuable rock; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “the 1991 Order” means the Planning (Northern Ireland) Order 1991 *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473][^f00011];
+- “treatment” means the mechanical, physical, biological, thermal or chemical process, or combination of processes, carried out on extracted material, with a view to extracting the mineral, including size change, classification, separation and leaching, and the re-processing of previously discarded waste, but excluding smelting, thermal manufacturing processes (other than the burning of limestone) and metallurgical processes; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “unpolluted soil” means soil that is removed from the upper layer of the ground during extractive activities and that is not “deemed to be polluted under national or community law”; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “waste” means anything that is waste for the purposes of Directive[^c-599948b7007e9133b3e10b6a010e7229] *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [2008/98/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2008/0098)[^c-c22e05d1d500b1fba2988732839e1473] of the European Parliament and of the Council on waste. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “waste facility” means any area designated for the accumulation or deposit of extractive waste, whether in a solid or liquid state or in solution or suspension, for the following time periods— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (a) no time period for Category A waste facilities and facilities for waste characterised as hazardous in the waste management plan; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (b) six months for facilities for hazardous waste generated unexpectedly; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (c) one year for facilities for non‑hazardous, non‑inert waste; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (d) three years for facilities for unpolluted soil, non‑hazardous waste resulting from the winning of minerals, waste resulting from the working, treatment and storage of peat and inert waste; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-  and such a facility is deemed to include any dam or other structure serving to contain, retain, confine or otherwise support the facility but not to be limited to, heaps and ponds, but excludes excavation voids into which waste is replaced, after extraction of the mineral, for rehabilitation and construction purposes; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “waste management plan” has the meaning given by regulation 6; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- “weak acid dissociable cyanide” means cyanide and cyanide compounds that are dissociated with a weak acid at a defined pH; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+  and such a facility is deemed to include any dam or other structure serving to contain, retain, confine or otherwise support the facility but not to be limited to, heaps and ponds, but excludes excavation voids into which waste is replaced, after extraction of the mineral, for rehabilitation and construction purposes; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “waste management plan” has the meaning given by regulation 6; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- “weak acid dissociable cyanide” means cyanide and cyanide compounds that are dissociated with a weak acid at a defined pH; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(3) Notwithstanding paragraph (2), expressions used in these Regulations and in the Directive and not otherwise defined in these Regulations shall, unless the context otherwise requires, have the same meaning for the purposes of these Regulations as they have for the purposes of the Directive. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(3) Notwithstanding paragraph (2), expressions used in these Regulations and in the Directive and not otherwise defined in these Regulations shall, unless the context otherwise requires, have the same meaning for the purposes of these Regulations as they have for the purposes of the Directive. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 3. Amendment to the 1991 Order (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 3. Amendment to the 1991 Order (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-In Article 2(2) of the 1991 Order for the definition of “mining operations” substitute— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+In Article 2(2) of the 1991 Order for the definition of “mining operations” substitute— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-> - “mining operations” means— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
->   - (a) the winning and working of minerals in, on or under land whether by surface or underground working; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
->   - (b) the management of waste resulting from the winning, working, treatment and storage of minerals *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+> - “mining operations” means— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+>   - (a) the winning and working of minerals in, on or under land whether by surface or underground working; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+>   - (b) the management of waste resulting from the winning, working, treatment and storage of minerals *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 >
->   and, for the purposes of paragraph (b), “treatment” does not include smelting, thermal manufacturing processes (other than the burning of limestone) and metallurgical processes;. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+>   and, for the purposes of paragraph (b), “treatment” does not include smelting, thermal manufacturing processes (other than the burning of limestone) and metallurgical processes;. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 .
 
-## PART 2 (affected by repeal, see note) — GENERAL PROVISIONS (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473][^key-c22e05d1d500b1fba2988732839e1473]
+## PART 2 (affected by repeal, see note) — GENERAL PROVISIONS (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473][^c-c22e05d1d500b1fba2988732839e1473]
 
-### 4. Prohibition on the grant of planning permission or deemed grant of planning permission for relevant development without prior approval of a waste management plan and conditions on such permission (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 4. Prohibition on the grant of planning permission or deemed grant of planning permission for relevant development without prior approval of a waste management plan and conditions on such permission (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) Subject to regulation 5— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) Subject to regulation 5— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) planning permission for relevant development shall not be granted on or after the date of coming into operation of these Regulations unless a waste management plan has been submitted to and approved by the Department in accordance with regulations 6 and 7; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) every planning permission granted for relevant development in respect of a waste facility on or after the date of coming into operation of these Regulations shall be subject to the conditions in regulations 8, 9, 10, 11, and 12; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) every planning permission for development comprising mining operations granted prior to the date of coming into operation of these Regulations shall be deemed, subject to the prior submission to and approval by the Department of a waste management plan in accordance with regulations 6 and 7, to include planning permission for relevant development and such permission, if it relates to relevant development in respect of a waste facility, shall be subject to the conditions in regulations 8, 9, 10, 11 and 12; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (d) every planning permission to which sub-paragraph (b) or (c) applies and which involves a Category A waste facility shall be subject to the conditions referred to in those respective sub-paragraphs, as applicable, and shall also be subject to the conditions in regulation 13; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (e) every application for planning permission to which sub-paragraph (d) applies shall be accompanied by such information as is necessary to enable the Department to draw up an external emergency plan in accordance with regulation 18. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) planning permission for relevant development shall not be granted on or after the date of coming into operation of these Regulations unless a waste management plan has been submitted to and approved by the Department in accordance with regulations 6 and 7; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) every planning permission granted for relevant development in respect of a waste facility on or after the date of coming into operation of these Regulations shall be subject to the conditions in regulations 8, 9, 10, 11, and 12; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) every planning permission for development comprising mining operations granted prior to the date of coming into operation of these Regulations shall be deemed, subject to the prior submission to and approval by the Department of a waste management plan in accordance with regulations 6 and 7, to include planning permission for relevant development and such permission, if it relates to relevant development in respect of a waste facility, shall be subject to the conditions in regulations 8, 9, 10, 11 and 12; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (d) every planning permission to which sub-paragraph (b) or (c) applies and which involves a Category A waste facility shall be subject to the conditions referred to in those respective sub-paragraphs, as applicable, and shall also be subject to the conditions in regulation 13; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (e) every application for planning permission to which sub-paragraph (d) applies shall be accompanied by such information as is necessary to enable the Department to draw up an external emergency plan in accordance with regulation 18. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) If planning permission for relevant development is granted without the conditions required by these Regulations, as appropriate, it shall be deemed to have been granted subject to such conditions. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(2) If planning permission for relevant development is granted without the conditions required by these Regulations, as appropriate, it shall be deemed to have been granted subject to such conditions. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 5. Exemptions, reductions and waiver (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 5. Exemptions, reductions and waiver (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) Nothing in these Regulations shall apply to relevant development carried out in extractive waste sites or in waste facilities which closed on or before 1st May 2008 and which remain closed. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) Nothing in these Regulations shall apply to relevant development carried out in extractive waste sites or in waste facilities which closed on or before 1st May 2008 and which remain closed. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) Regulation 4(d) shall not apply to those waste facilities falling within the scope of Directive *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [96/82/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1996/0082)[^key-c22e05d1d500b1fba2988732839e1473][^f00013].
+(2) Regulation 4(d) shall not apply to those waste facilities falling within the scope of Directive *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [96/82/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1996/0082)[^c-c22e05d1d500b1fba2988732839e1473][^f00013].
 
-(3) The requirement of regulation 6 and the conditions in regulations 8, 11, 12, 13, and 18 shall not apply to mining operations in facilities which— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(3) The requirement of regulation 6 and the conditions in regulations 8, 11, 12, 13, and 18 shall not apply to mining operations in facilities which— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) stopped accepting waste before 1st May 2006; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) are completing closure procedures approved by the Department; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) will be effectively closed by 31st December 2010. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) stopped accepting waste before 1st May 2006; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) are completing closure procedures approved by the Department; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) will be effectively closed by 31st December 2010. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(4) The requirement in regulation 6 and the conditions in regulations 8, 9(1)(d)(ii) and (iii), 9(1)(g) and (h), 9(3), 10(4) and (5), 11, 12, and 19(1) shall not apply to relevant development where the extractive waste is— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(4) The requirement in regulation 6 and the conditions in regulations 8, 9(1)(d)(ii) and (iii), 9(1)(g) and (h), 9(3), 10(4) and (5), 11, 12, and 19(1) shall not apply to relevant development where the extractive waste is— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) inert waste or unpolluted soil resulting from the winning, working, treatment and storage of minerals and the working of quarries; or *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) where the extractive waste is waste resulting from the working, treatment and storage of peat; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) inert waste or unpolluted soil resulting from the winning, working, treatment and storage of minerals and the working of quarries; or *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) where the extractive waste is waste resulting from the working, treatment and storage of peat; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-unless deposited in a Category A waste facility. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+unless deposited in a Category A waste facility. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(5) For non-hazardous, non-inert extractive waste the Department may reduce or waive the conditions in regulations 8, 9(1)(d)(ii) and (iii), 9(3), 10(4) and (5), 12(b), (e) and (f), and 19(1), unless deposited in a Category A waste facility. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(5) For non-hazardous, non-inert extractive waste the Department may reduce or waive the conditions in regulations 8, 9(1)(d)(ii) and (iii), 9(3), 10(4) and (5), 12(b), (e) and (f), and 19(1), unless deposited in a Category A waste facility. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(6) The Department may reduce or waive the requirement of regulation 6 and the conditions in these Regulations where the extractive waste is— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(6) The Department may reduce or waive the requirement of regulation 6 and the conditions in these Regulations where the extractive waste is— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) non-hazardous waste generated from the winning of minerals, except oil and evaporates other than gypsum and anhydrite; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) unpolluted soil; or *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) other waste resulting from the working, treatment and storage of peat; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) non-hazardous waste generated from the winning of minerals, except oil and evaporates other than gypsum and anhydrite; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) unpolluted soil; or *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) other waste resulting from the working, treatment and storage of peat; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-and it is satisfied that such extractive waste will be managed using best available techniques without endangering human health and without using processes or methods which could harm the environment, and in particular without— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+and it is satisfied that such extractive waste will be managed using best available techniques without endangering human health and without using processes or methods which could harm the environment, and in particular without— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (i) risk to water, air, soil and fauna and flora; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (ii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] causing a nuisance through noise or odours; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (iii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] adversely affecting the landscape or places of special interest; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (iv (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] resulting in the abandonment, dumping or uncontrolled depositing of extractive waste. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (i) risk to water, air, soil and fauna and flora; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (ii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] causing a nuisance through noise or odours; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (iii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] adversely affecting the landscape or places of special interest; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (iv (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] resulting in the abandonment, dumping or uncontrolled depositing of extractive waste. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(7) In the application of the condition in regulation 8(1) to planning permission to which regulation 4(c) applies, the financial guarantee shall be provided to the Department by 1st May 2014. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(7) In the application of the condition in regulation 8(1) to planning permission to which regulation 4(c) applies, the financial guarantee shall be provided to the Department by 1st May 2014. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(8) In the application of the condition in regulation 10(4)(b) to planning permission to which regulation 4(c) applies, for “does not exceed 10 parts per million” there shall be substituted “will not exceed 50 parts per million prior to 1 May 2013, will not exceed 25 parts per million from 1st May 2013 to 30th April 2018, and thereafter will not exceed 10 parts per million.”. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(8) In the application of the condition in regulation 10(4)(b) to planning permission to which regulation 4(c) applies, for “does not exceed 10 parts per million” there shall be substituted “will not exceed 50 parts per million prior to 1 May 2013, will not exceed 25 parts per million from 1st May 2013 to 30th April 2018, and thereafter will not exceed 10 parts per million.”. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(9) The conditions in regulation 10(1)(b) and (c) may be reduced or waived by the Department where it is satisfied, having assessed the environmental risks, taking into account in particular and as applicable Directives *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [76/464/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1976/0464)[^key-c22e05d1d500b1fba2988732839e1473][^f00014], [80/68/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1980/0068)[^key-c22e05d1d500b1fba2988732839e1473][^f00015] or *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [2000/60/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2000/0060)[^key-c22e05d1d500b1fba2988732839e1473], that— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(9) The conditions in regulation 10(1)(b) and (c) may be reduced or waived by the Department where it is satisfied, having assessed the environmental risks, taking into account in particular and as applicable Directives *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [76/464/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1976/0464)[^c-c22e05d1d500b1fba2988732839e1473][^f00014], [80/68/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1980/0068)[^c-c22e05d1d500b1fba2988732839e1473][^f00015] or *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [2000/60/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2000/0060)[^c-c22e05d1d500b1fba2988732839e1473], that— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) the collection and treatment of leachate is not necessary; or *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) it has established that the waste facility poses no potential hazard to soil, groundwater or surface water. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) the collection and treatment of leachate is not necessary; or *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) it has established that the waste facility poses no potential hazard to soil, groundwater or surface water. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-## PART 3 (affected by repeal, see note) — WASTE MANAGEMENT PLAN (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473][^key-c22e05d1d500b1fba2988732839e1473]
+## PART 3 (affected by repeal, see note) — WASTE MANAGEMENT PLAN (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473][^c-c22e05d1d500b1fba2988732839e1473]
 
-### 6. Preparation and submission of a waste management plan (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 6. Preparation and submission of a waste management plan (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) A plan for the minimisation, treatment, recovery and disposal of extractive waste which takes account of the principle of sustainable development (a “waste management plan”) shall be submitted to the Department. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) A plan for the minimisation, treatment, recovery and disposal of extractive waste which takes account of the principle of sustainable development (a “waste management plan”) shall be submitted to the Department. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) The waste management plan shall satisfy the objectives in Schedule 1 and shall include the following information— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(2) The waste management plan shall satisfy the objectives in Schedule 1 and shall include the following information— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) the identity of the operator; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) the actual, or proposed location of the extractive waste site or the waste facility, including in respect of a waste facility any possible alternative locations; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) sufficient information and identification to enable the Department to evaluate the operator’s ability to meet the objectives of the waste management plan, as detailed in Schedule 1, and explaining in particular how the option and method chosen as detailed in paragraph 1(a) of Schedule 1 will fulfil those objectives; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (d) the class, in accordance with paragraph (3), into which the operator considers the site or facility falls, with appropriate assessment to allow the Department to consider whether it agrees with that classification, including an identification of possible accident hazards; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (e) waste characterisation in accordance with Schedule 2 and a statement of the estimated total quantities of extractive waste to be produced during the operational phase; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (f) a description of the operation generating such waste and of any subsequent treatment to which it is subject; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (g) a description of how the environment and human health may be adversely affected by the deposit of such waste and the preventative measures to be taken in order to minimise environmental impact during operation and after-closure, including the aspects referred to in regulation 9(1)(a), (b), (c), (d)(i), (e) and (f) and 9(2); *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (h) whether or not the operator intends to place extractive waste into excavation voids for rehabilitation and construction purposes (whether the voids were created through surface or underground extraction) and, if such placing is intended, details of the proposed control and monitoring procedures— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (i) to secure the stability of the extractive waste in accordance with regulation 9(1)(a), (b), (c), (d)(i), (e) and (f) and 9(2); and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (ii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] to prevent the pollution of soil, surface water and groundwater in accordance with regulations 10(1)(a), (b) and (c) and 10(3); *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (i) the proposed plan for closure, including rehabilitation, after-closure procedures and monitoring as provided for in regulations 11 and 12; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (j) measures for prevention of water status deterioration in accordance with Directive *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [2006/60/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0060)[^key-c22e05d1d500b1fba2988732839e1473] and for the prevention or minimisation of air and soil pollution in accordance with regulation 10; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (k) if classified as a waste facility, a survey of the condition of the land affected or to be affected by it. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) the identity of the operator; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) the actual, or proposed location of the extractive waste site or the waste facility, including in respect of a waste facility any possible alternative locations; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) sufficient information and identification to enable the Department to evaluate the operator’s ability to meet the objectives of the waste management plan, as detailed in Schedule 1, and explaining in particular how the option and method chosen as detailed in paragraph 1(a) of Schedule 1 will fulfil those objectives; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (d) the class, in accordance with paragraph (3), into which the operator considers the site or facility falls, with appropriate assessment to allow the Department to consider whether it agrees with that classification, including an identification of possible accident hazards; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (e) waste characterisation in accordance with Schedule 2 and a statement of the estimated total quantities of extractive waste to be produced during the operational phase; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (f) a description of the operation generating such waste and of any subsequent treatment to which it is subject; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (g) a description of how the environment and human health may be adversely affected by the deposit of such waste and the preventative measures to be taken in order to minimise environmental impact during operation and after-closure, including the aspects referred to in regulation 9(1)(a), (b), (c), (d)(i), (e) and (f) and 9(2); *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (h) whether or not the operator intends to place extractive waste into excavation voids for rehabilitation and construction purposes (whether the voids were created through surface or underground extraction) and, if such placing is intended, details of the proposed control and monitoring procedures— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (i) to secure the stability of the extractive waste in accordance with regulation 9(1)(a), (b), (c), (d)(i), (e) and (f) and 9(2); and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (ii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] to prevent the pollution of soil, surface water and groundwater in accordance with regulations 10(1)(a), (b) and (c) and 10(3); *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (i) the proposed plan for closure, including rehabilitation, after-closure procedures and monitoring as provided for in regulations 11 and 12; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (j) measures for prevention of water status deterioration in accordance with Directive *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [2006/60/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0060)[^c-c22e05d1d500b1fba2988732839e1473] and for the prevention or minimisation of air and soil pollution in accordance with regulation 10; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (k) if classified as a waste facility, a survey of the condition of the land affected or to be affected by it. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(3) The options for the proposed classification are— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(3) The options for the proposed classification are— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) an extractive waste site; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) a waste facility; or *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) a Category A waste facility (in accordance with Schedule 3). *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) an extractive waste site; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) a waste facility; or *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) a Category A waste facility (in accordance with Schedule 3). *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(4) Where the facility is classified as a Category A waste facility, the waste management plan shall include a document demonstrating that a major accident prevention policy, a safety management system for implementing that policy and an internal emergency plan, all as described in regulation 13, are in effect or will be put into effect in accordance with that regulation prior to the commencement of operations. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(4) Where the facility is classified as a Category A waste facility, the waste management plan shall include a document demonstrating that a major accident prevention policy, a safety management system for implementing that policy and an internal emergency plan, all as described in regulation 13, are in effect or will be put into effect in accordance with that regulation prior to the commencement of operations. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(5) A waste management plan in respect of a planning permission to which regulation 4(c) applies shall be submitted to the Department on or before 1st November 2011. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(5) A waste management plan in respect of a planning permission to which regulation 4(c) applies shall be submitted to the Department on or before 1st November 2011. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(6) The waste management plan shall be reviewed and amended as appropriate and submitted to the Department no later than the fifth year after the date on which the planning permission was granted or the plan was approved, as the case may be, and thereafter no later than every fifth year following the date of the last review. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(6) The waste management plan shall be reviewed and amended as appropriate and submitted to the Department no later than the fifth year after the date on which the planning permission was granted or the plan was approved, as the case may be, and thereafter no later than every fifth year following the date of the last review. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(7) The waste management plan shall, in the event of substantial changes to the operation of the waste facility or to the waste deposited, be amended as appropriate and any such amendments shall be submitted to the Department. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(7) The waste management plan shall, in the event of substantial changes to the operation of the waste facility or to the waste deposited, be amended as appropriate and any such amendments shall be submitted to the Department. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 7. Consideration and approval of a waste management plan (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 7. Consideration and approval of a waste management plan (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) Where a waste management plan is submitted to the Department in respect of a planning permission to which regulation 4(c) applies, the Department shall— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) Where a waste management plan is submitted to the Department in respect of a planning permission to which regulation 4(c) applies, the Department shall— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) publish notice of the waste management plan in at least one newspaper circulating in the locality in which the land to which the plan relates is situated; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) where it maintains a website for the purpose of advertisement of applications for planning permission, publish the notice on that website; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) await the expiration of 14 days from the date on which the notice is first published in a newspaper in pursuance of sub-paragraph (a) or is first published on the website in pursuance of sub-paragraph (b), whichever is the later, before it considers whether or not to approve the waste management plan; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (d) consult the public concerned and, in considering whether or not to approve the waste management plan, shall take into account any comments made by the public concerned. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) publish notice of the waste management plan in at least one newspaper circulating in the locality in which the land to which the plan relates is situated; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) where it maintains a website for the purpose of advertisement of applications for planning permission, publish the notice on that website; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) await the expiration of 14 days from the date on which the notice is first published in a newspaper in pursuance of sub-paragraph (a) or is first published on the website in pursuance of sub-paragraph (b), whichever is the later, before it considers whether or not to approve the waste management plan; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (d) consult the public concerned and, in considering whether or not to approve the waste management plan, shall take into account any comments made by the public concerned. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) The Department may— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(2) The Department may— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) refuse to approve a waste management plan; or *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) approve a waste management plan; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) refuse to approve a waste management plan; or *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) approve a waste management plan; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-but it may not approve a waste management plan unless it is satisfied that— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+but it may not approve a waste management plan unless it is satisfied that— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (i) the objectives of the waste management plan will be met, taking account of the extent to which compliance will be secured through other national or Community legislation; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (ii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] the conditions of the planning permission set out in these Regulations can be expected to be complied with, as appropriate; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (iii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] the waste management plan is appropriate to the category into which it considers the site or facility falls; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (iv (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] where the plan relates to a Category A waste facility, major accident hazards are identified and the necessary features are incorporated into the design, construction, operation and maintenance, closure and after-closure of the waste facility in order to prevent such accidents and to limit their adverse consequences for human health and the environment including any transboundary impacts. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (i) the objectives of the waste management plan will be met, taking account of the extent to which compliance will be secured through other national or Community legislation; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (ii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] the conditions of the planning permission set out in these Regulations can be expected to be complied with, as appropriate; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (iii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] the waste management plan is appropriate to the category into which it considers the site or facility falls; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (iv (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] where the plan relates to a Category A waste facility, major accident hazards are identified and the necessary features are incorporated into the design, construction, operation and maintenance, closure and after-closure of the waste facility in order to prevent such accidents and to limit their adverse consequences for human health and the environment including any transboundary impacts. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-## PART 4 (affected by repeal, see note) — CONDITIONS FOR WASTE FACILITIES (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473][^key-c22e05d1d500b1fba2988732839e1473]
+## PART 4 (affected by repeal, see note) — CONDITIONS FOR WASTE FACILITIES (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473][^c-c22e05d1d500b1fba2988732839e1473]
 
-### 8. Financial guarantee (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 8. Financial guarantee (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) No operations involving the management of extractive waste shall commence until a financial guarantee is provided by the operator to the Department. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) No operations involving the management of extractive waste shall commence until a financial guarantee is provided by the operator to the Department. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) The purpose of the financial guarantee shall be to ensure that— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(2) The purpose of the financial guarantee shall be to ensure that— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) all conditions on the planning permission pertaining to the management of extractive waste, including after-closure conditions, are met; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) there are funds readily available at any given time for the rehabilitation of the land affected by the waste facility, as described in the waste management plan. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) all conditions on the planning permission pertaining to the management of extractive waste, including after-closure conditions, are met; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) there are funds readily available at any given time for the rehabilitation of the land affected by the waste facility, as described in the waste management plan. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 9. Construction and management (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 9. Construction and management (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) In the construction and management of a new waste facility or the modification of an existing waste facility, it shall be ensured that— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) In the construction and management of a new waste facility or the modification of an existing waste facility, it shall be ensured that— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) the facility is suitably located taking into account in particular European Community or national obligations relating to protected areas, and geological, hydrological, hydrogeological, seismic and geotechnical factors; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) the facility is designed so as to meet the necessary requirements for, in the short and long term perspectives, preventing pollution of the soil, air, groundwater or surface water in accordance with Directives *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [76/464/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1976/0464)[^key-c22e05d1d500b1fba2988732839e1473], [80/68/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1980/0068)[^key-c22e05d1d500b1fba2988732839e1473] and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [2000/60/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2000/0060)[^key-c22e05d1d500b1fba2988732839e1473] and ensuring efficient collection of contaminated water and leachate and reducing erosion, caused by water or wind, as far as it is technically possible and economically viable; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) the facility is suitably constructed, managed and maintained to ensure its physical stability and to prevent pollution or contamination of soil, air, surface water or groundwater in the short and long term perspectives as well as to minimise as far as possible damage to landscape; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (d) there are suitable plans and arrangements for regular monitoring and inspection of the facility by competent persons and for taking action in the event of results indicating instability or water or soil contamination and that in relation to such monitoring and inspections— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (i) reports of the monitoring and inspections are kept in order to ensure the appropriate hand-over of information, particularly in the event of a change of operator; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (ii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] reports are made to the Department, at a frequency to be determined by it, but in any event no less than once a year, of all monitoring results on the basis of aggregated data; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (iii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] where the Department decides that such reports need to be validated by an independent expert, such expert shall be allowed access to the facility to conduct appropriate monitoring and all reasonable requirements of the expert shall be complied with; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (e) suitable arrangements are made for the rehabilitation of the land and the closure of the facility; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (f) suitable arrangements are made for the after-closure phase of the facility; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (g) the management of the facility is undertaken by a competent person; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (h) technical development and training of staff involved in the management of the facility is provided; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (i) up-to-date records are kept of all waste management operations, which are made available for inspection by the Department on request. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) the facility is suitably located taking into account in particular European Community or national obligations relating to protected areas, and geological, hydrological, hydrogeological, seismic and geotechnical factors; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) the facility is designed so as to meet the necessary requirements for, in the short and long term perspectives, preventing pollution of the soil, air, groundwater or surface water in accordance with Directives *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [76/464/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1976/0464)[^c-c22e05d1d500b1fba2988732839e1473], [80/68/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1980/0068)[^c-c22e05d1d500b1fba2988732839e1473] and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [2000/60/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2000/0060)[^c-c22e05d1d500b1fba2988732839e1473] and ensuring efficient collection of contaminated water and leachate and reducing erosion, caused by water or wind, as far as it is technically possible and economically viable; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) the facility is suitably constructed, managed and maintained to ensure its physical stability and to prevent pollution or contamination of soil, air, surface water or groundwater in the short and long term perspectives as well as to minimise as far as possible damage to landscape; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (d) there are suitable plans and arrangements for regular monitoring and inspection of the facility by competent persons and for taking action in the event of results indicating instability or water or soil contamination and that in relation to such monitoring and inspections— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (i) reports of the monitoring and inspections are kept in order to ensure the appropriate hand-over of information, particularly in the event of a change of operator; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (ii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] reports are made to the Department, at a frequency to be determined by it, but in any event no less than once a year, of all monitoring results on the basis of aggregated data; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (iii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] where the Department decides that such reports need to be validated by an independent expert, such expert shall be allowed access to the facility to conduct appropriate monitoring and all reasonable requirements of the expert shall be complied with; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (e) suitable arrangements are made for the rehabilitation of the land and the closure of the facility; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (f) suitable arrangements are made for the after-closure phase of the facility; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (g) the management of the facility is undertaken by a competent person; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (h) technical development and training of staff involved in the management of the facility is provided; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (i) up-to-date records are kept of all waste management operations, which are made available for inspection by the Department on request. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) In the event of a change of operator during the management of the waste facility it shall be ensured that there is a transfer of relevant up-to-date information and records relating to the waste facility. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(2) In the event of a change of operator during the management of the waste facility it shall be ensured that there is a transfer of relevant up-to-date information and records relating to the waste facility. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(3) Where any events likely to affect the stability of the waste facility or any significant adverse environmental effects revealed by the control and monitoring procedures are identified— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(3) Where any events likely to affect the stability of the waste facility or any significant adverse environmental effects revealed by the control and monitoring procedures are identified— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) the Department shall be notified without undue delay and no later than 48 hours after those events or effects; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) the internal emergency plan shall be implemented, where applicable; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) any instruction from the Department as to the corrective measures to be taken shall be followed; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (d) the operator shall be liable for the costs of the measures undertaken. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) the Department shall be notified without undue delay and no later than 48 hours after those events or effects; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) the internal emergency plan shall be implemented, where applicable; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) any instruction from the Department as to the corrective measures to be taken shall be followed; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (d) the operator shall be liable for the costs of the measures undertaken. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 10. Prevention of water status deterioration, air and soil pollution (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 10. Prevention of water status deterioration, air and soil pollution (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) Documentary evidence shall be provided to the Department, both prior to the commencement of operations involving the management of extractive waste and during such operations, demonstrating, where applicable, compliance with Directive 2000/60/EC *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473][^f00016] through, *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] *inter alia *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]*—
+(1) Documentary evidence shall be provided to the Department, both prior to the commencement of operations involving the management of extractive waste and during such operations, demonstrating, where applicable, compliance with Directive 2000/60/EC *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473][^f00016] through, *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] *inter alia *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]*—
 
-- (a) the evaluation of the leachate generation potential, including contaminant content of the leachate, of the deposited waste during the operational phase of the waste facility and determining the water balance of that facility; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) prevention or minimisation of leachate generation and surface water or groundwater and soil from being contaminated by the waste; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) collection and treatment of contaminated water and leachate from the waste facility to the appropriate standard required for their discharge; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (d) the taking of adequate measures, based on best available techniques, to prevent or reduce dust and gas emissions. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) the evaluation of the leachate generation potential, including contaminant content of the leachate, of the deposited waste during the operational phase of the waste facility and determining the water balance of that facility; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) prevention or minimisation of leachate generation and surface water or groundwater and soil from being contaminated by the waste; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) collection and treatment of contaminated water and leachate from the waste facility to the appropriate standard required for their discharge; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (d) the taking of adequate measures, based on best available techniques, to prevent or reduce dust and gas emissions. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) Where extractive waste is to be disposed of, whether in solid, slurry or liquid form, into any receiving body of water other than one constructed for the purpose of disposing of extractive waste, documentary evidence shall be submitted to the Department to demonstrate compliance with Directives *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [76/464/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1976/0464)[^key-c22e05d1d500b1fba2988732839e1473], [80/68/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1980/0068)[^key-c22e05d1d500b1fba2988732839e1473] and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [2000/60/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2000/0060)[^key-c22e05d1d500b1fba2988732839e1473].
+(2) Where extractive waste is to be disposed of, whether in solid, slurry or liquid form, into any receiving body of water other than one constructed for the purpose of disposing of extractive waste, documentary evidence shall be submitted to the Department to demonstrate compliance with Directives *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [76/464/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1976/0464)[^c-c22e05d1d500b1fba2988732839e1473], [80/68/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1980/0068)[^c-c22e05d1d500b1fba2988732839e1473] and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [2000/60/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2000/0060)[^c-c22e05d1d500b1fba2988732839e1473].
 
-(3) Where extractive waste is to be placed back into excavation voids, whether created through surface or underground extraction, which will be allowed to flood after-closure, documentary evidence shall be submitted to the Department to demonstrate— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(3) Where extractive waste is to be placed back into excavation voids, whether created through surface or underground extraction, which will be allowed to flood after-closure, documentary evidence shall be submitted to the Department to demonstrate— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) that when the extractive waste is so placed, the necessary measures shall be taken to prevent or minimise water status deterioration and soil pollution in accordance with paragraphs (1)(a), (b) and (c), insofar as applicable; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) compliance with Community environmental obligations, in particular those in Directive 2000/60/EC; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) that when the extractive waste is so placed, the necessary measures shall be taken to prevent or minimise water status deterioration and soil pollution in accordance with paragraphs (1)(a), (b) and (c), insofar as applicable; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) compliance with Community environmental obligations, in particular those in Directive 2000/60/EC; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(4) Where a pond involving the presence of cyanide is to be managed, documentary evidence to demonstrate— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(4) Where a pond involving the presence of cyanide is to be managed, documentary evidence to demonstrate— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) that the concentration of weak acid dissociable cyanide in the pond is or will be reduced to the lowest possible level using best available techniques; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) that the concentration of weak acid dissociable cyanide at the point of discharge of the tailings from the processing plant into the pond does not exceed 10 parts per million; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) that the concentration of weak acid dissociable cyanide in the pond is or will be reduced to the lowest possible level using best available techniques; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) that the concentration of weak acid dissociable cyanide at the point of discharge of the tailings from the processing plant into the pond does not exceed 10 parts per million; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-shall be submitted to the Department. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+shall be submitted to the Department. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(5) Upon request in writing by the Department it shall be demonstrated, through a risk assessment that takes site-specific conditions into account, that the concentration limits need not be lowered below 10 parts per million. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(5) Upon request in writing by the Department it shall be demonstrated, through a risk assessment that takes site-specific conditions into account, that the concentration limits need not be lowered below 10 parts per million. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 11. Closure (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 11. Closure (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) Closure of the waste facility shall not commence until the following requirements are satisfied— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) Closure of the waste facility shall not commence until the following requirements are satisfied— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) the conditions relating to the management of extractive waste are met; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) an authorisation for closure notice is issued by the Department. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) the conditions relating to the management of extractive waste are met; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) an authorisation for closure notice is issued by the Department. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) The waste facility shall not be regarded as closed until the Department has issued a final closure notice. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(2) The waste facility shall not be regarded as closed until the Department has issued a final closure notice. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 12. After-closure (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 12. After-closure (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-Following closure of the waste facility, where the Department considers it necessary, and for as long as may be specified in a final closure notice— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Following closure of the waste facility, where the Department considers it necessary, and for as long as may be specified in a final closure notice— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) maintenance, monitoring, control and corrective measures shall be undertaken; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) the physical and chemical stability of the facility shall be controlled and any negative environmental effects shall be minimised in order to fulfil relevant environmental requirements as set out in Directives *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [76/464/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1976/0464)[^key-c22e05d1d500b1fba2988732839e1473], [80/68/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1980/0068)[^key-c22e05d1d500b1fba2988732839e1473] and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [2000/60/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2000/0060)[^key-c22e05d1d500b1fba2988732839e1473], in particular with respect to surface and groundwater, by ensuring that— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (i) all the structures pertaining to the facility are monitored and conserved, with control and measuring apparatus always ready for use; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (ii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] where applicable, overflow channels and spillways are kept clean and free; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) the leachate generation potential, including contaminant content of the leachate, of the deposited waste shall be evaluated, and the water balance of the waste facility shall be determined; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (d) measures shall be taken to ensure— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (i) the prevention or minimisation of leachate generation and surface water or groundwater and soil from being contaminated by the waste; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (ii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] contaminated water and leachate from the waste facility shall be collected and treated to the appropriate standard required for their discharge; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (e) the Department shall be notified of any events or developments likely to affect the stability of the waste facility and of any significant adverse environmental effects revealed by the after-closure and monitoring procedures and where applicable— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (i) the internal emergency plan shall be implemented; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (ii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] any instructions from the Department as to the corrective measures to be taken shall be followed; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (iii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] liability for the costs of implementing the internal emergency plan and taking the corrective measures shall rest with the operator; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (f) all monitoring results shall be reported to the Department on the basis of aggregated data, at a frequency to be determined by it. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) maintenance, monitoring, control and corrective measures shall be undertaken; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) the physical and chemical stability of the facility shall be controlled and any negative environmental effects shall be minimised in order to fulfil relevant environmental requirements as set out in Directives *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [76/464/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1976/0464)[^c-c22e05d1d500b1fba2988732839e1473], [80/68/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1980/0068)[^c-c22e05d1d500b1fba2988732839e1473] and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [2000/60/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2000/0060)[^c-c22e05d1d500b1fba2988732839e1473], in particular with respect to surface and groundwater, by ensuring that— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (i) all the structures pertaining to the facility are monitored and conserved, with control and measuring apparatus always ready for use; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (ii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] where applicable, overflow channels and spillways are kept clean and free; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) the leachate generation potential, including contaminant content of the leachate, of the deposited waste shall be evaluated, and the water balance of the waste facility shall be determined; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (d) measures shall be taken to ensure— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (i) the prevention or minimisation of leachate generation and surface water or groundwater and soil from being contaminated by the waste; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (ii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] contaminated water and leachate from the waste facility shall be collected and treated to the appropriate standard required for their discharge; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (e) the Department shall be notified of any events or developments likely to affect the stability of the waste facility and of any significant adverse environmental effects revealed by the after-closure and monitoring procedures and where applicable— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (i) the internal emergency plan shall be implemented; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (ii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] any instructions from the Department as to the corrective measures to be taken shall be followed; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (iii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] liability for the costs of implementing the internal emergency plan and taking the corrective measures shall rest with the operator; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (f) all monitoring results shall be reported to the Department on the basis of aggregated data, at a frequency to be determined by it. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-## PART 5 (affected by repeal, see note) — ADDITIONAL CONDITIONS FOR CATEGORY A WASTE FACILITIES (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473][^key-c22e05d1d500b1fba2988732839e1473]
+## PART 5 (affected by repeal, see note) — ADDITIONAL CONDITIONS FOR CATEGORY A WASTE FACILITIES (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473][^c-c22e05d1d500b1fba2988732839e1473]
 
-### 13. Major accident prevention policy, safety management system and internal emergency plan (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 13. Major accident prevention policy, safety management system and internal emergency plan (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) No operations involving the management of extractive waste shall commence unless a major accident prevention policy is drawn up, a safety management system to implement that policy is put into effect, and an internal emergency plan, specifying the measures to be taken on-site in the event of an emergency is put into effect. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) No operations involving the management of extractive waste shall commence unless a major accident prevention policy is drawn up, a safety management system to implement that policy is put into effect, and an internal emergency plan, specifying the measures to be taken on-site in the event of an emergency is put into effect. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) A safety manager shall be appointed to ensure the implementation and periodic supervision of the major accident prevention policy. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(2) A safety manager shall be appointed to ensure the implementation and periodic supervision of the major accident prevention policy. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(3) The major accident prevention policy and safety management system shall be proportionate to the major accident hazards presented by the waste facility and account shall be taken of the following factors— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(3) The major accident prevention policy and safety management system shall be proportionate to the major accident hazards presented by the waste facility and account shall be taken of the following factors— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) the major accident prevention policy shall include the overall aims and principles of action with respect to the control of major accident hazards; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) the safety management system shall include the part of the general management system which includes the organisational structure, responsibilities, practices, procedures, processes and resources for determining and implementing the major accident prevention policy; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) the safety management system shall address the following issues— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (i) organisation and personnel, including their roles and responsibilities in the management of major accident hazards at all levels in the organisation, identification of training needs of such personnel and the provision of the training so identified and involvement of employees and, where appropriate, subcontractors; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (ii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] identification and evaluation of major accident hazards, including the adoption and implementation of procedures for systematically identifying major accident hazards arising from normal and abnormal operations and assessment of their likelihood and severity; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (iii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] operational control, including the adoption and implementation of procedures and instructions for safe operation, including maintenance of plant, processes, equipment and temporary stoppages; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (iv (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] management of change, including the adoption and implementation of procedures for planning modifications to, or the design of, new waste facilities; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (v) planning for emergencies, including the adoption and implementation of procedures to identify foreseeable emergencies by systematic analysis and to prepare, test and review emergency plans to respond to such emergencies; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (vi (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] monitoring performance, including the adoption and implementation of procedures for the ongoing assessment of compliance with the objectives set by the major accident prevention policy and safety management system and the mechanisms for investigation and taking corrective action in case of non-compliance and such procedures shall cover the system for reporting major accidents or near misses, particularly those involving failure of protective measures, and their investigation and follow up on the basis of lessons learnt; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (vii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] audit and review, including the adoption and implementation of procedures for periodic systematic assessment of the major accident prevention policy and the effectiveness and suitability of the safety management system and the documented review of performance of the policy and safety management system and its updating by senior management. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) the major accident prevention policy shall include the overall aims and principles of action with respect to the control of major accident hazards; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) the safety management system shall include the part of the general management system which includes the organisational structure, responsibilities, practices, procedures, processes and resources for determining and implementing the major accident prevention policy; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) the safety management system shall address the following issues— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (i) organisation and personnel, including their roles and responsibilities in the management of major accident hazards at all levels in the organisation, identification of training needs of such personnel and the provision of the training so identified and involvement of employees and, where appropriate, subcontractors; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (ii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] identification and evaluation of major accident hazards, including the adoption and implementation of procedures for systematically identifying major accident hazards arising from normal and abnormal operations and assessment of their likelihood and severity; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (iii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] operational control, including the adoption and implementation of procedures and instructions for safe operation, including maintenance of plant, processes, equipment and temporary stoppages; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (iv (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] management of change, including the adoption and implementation of procedures for planning modifications to, or the design of, new waste facilities; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (v) planning for emergencies, including the adoption and implementation of procedures to identify foreseeable emergencies by systematic analysis and to prepare, test and review emergency plans to respond to such emergencies; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (vi (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] monitoring performance, including the adoption and implementation of procedures for the ongoing assessment of compliance with the objectives set by the major accident prevention policy and safety management system and the mechanisms for investigation and taking corrective action in case of non-compliance and such procedures shall cover the system for reporting major accidents or near misses, particularly those involving failure of protective measures, and their investigation and follow up on the basis of lessons learnt; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (vii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] audit and review, including the adoption and implementation of procedures for periodic systematic assessment of the major accident prevention policy and the effectiveness and suitability of the safety management system and the documented review of performance of the policy and safety management system and its updating by senior management. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(4) The internal emergency plan shall include the following information— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(4) The internal emergency plan shall include the following information— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) names or positions of persons authorised to set emergency procedures in motion and the person in charge of and co-ordinating the on-site mitigatory action; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) for foreseeable conditions or events which could be significant in bringing about an accident, a description of the action which should be taken to control the conditions or events and to limit their consequences, including a description of the safety equipment and the resources available; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) arrangements for limiting the risks to persons on-site including how warnings are to be given and the actions persons are expected to take on receipt of a warning; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (d) arrangements for providing early warning of the incident to the Department, the type of information which should be contained in an initial warning and the arrangements for the provision of more detailed information as it becomes available; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (e) arrangements for training staff in the duties they will be expected to perform, and where necessary, co-ordination with the emergency services; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (f) arrangements for providing assistance with off-site mitigatory action; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (g) arrangements, where appropriate, to communicate the necessary information to the public concerned and to the relevant services or authorities in the area. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) names or positions of persons authorised to set emergency procedures in motion and the person in charge of and co-ordinating the on-site mitigatory action; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) for foreseeable conditions or events which could be significant in bringing about an accident, a description of the action which should be taken to control the conditions or events and to limit their consequences, including a description of the safety equipment and the resources available; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) arrangements for limiting the risks to persons on-site including how warnings are to be given and the actions persons are expected to take on receipt of a warning; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (d) arrangements for providing early warning of the incident to the Department, the type of information which should be contained in an initial warning and the arrangements for the provision of more detailed information as it becomes available; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (e) arrangements for training staff in the duties they will be expected to perform, and where necessary, co-ordination with the emergency services; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (f) arrangements for providing assistance with off-site mitigatory action; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (g) arrangements, where appropriate, to communicate the necessary information to the public concerned and to the relevant services or authorities in the area. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(5) Copies of the major accident prevention policy, the safety management system and the internal emergency plan shall be provided to the Department. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(5) Copies of the major accident prevention policy, the safety management system and the internal emergency plan shall be provided to the Department. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(6) In the event of a major accident, the Department shall be immediately provided with all information required to help minimise the consequences of the accident for human health and to allow the assessment and minimisation of the actual and potential extent of the environmental damage. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(6) In the event of a major accident, the Department shall be immediately provided with all information required to help minimise the consequences of the accident for human health and to allow the assessment and minimisation of the actual and potential extent of the environmental damage. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(7) The Department shall be provided with such further information as it requires to draw up an external emergency plan. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(7) The Department shall be provided with such further information as it requires to draw up an external emergency plan. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-## PART 6 (affected by repeal, see note) — DUTIES OF THE DEPARTMENT (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473][^key-c22e05d1d500b1fba2988732839e1473]
+## PART 6 (affected by repeal, see note) — DUTIES OF THE DEPARTMENT (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473][^c-c22e05d1d500b1fba2988732839e1473]
 
-### 14. Inspections by the Department (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 14. Inspections by the Department (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) The Department shall, prior to the commencement of operations involving the management of extractive waste and thereafter at regular intervals, inspect each waste facility for which permission for relevant development has been granted to ensure that the operator is complying with the conditions imposed on that permission pursuant to these Regulations and implementing the waste management plan approved by it. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) The Department shall, prior to the commencement of operations involving the management of extractive waste and thereafter at regular intervals, inspect each waste facility for which permission for relevant development has been granted to ensure that the operator is complying with the conditions imposed on that permission pursuant to these Regulations and implementing the waste management plan approved by it. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 15. Financial guarantee (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 15. Financial guarantee (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-Where planning permission for relevant development is subject to the condition in regulation 8(1) the Department shall— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Where planning permission for relevant development is subject to the condition in regulation 8(1) the Department shall— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) calculate the financial guarantee on the basis of— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (i) the likely environmental impact of the waste facility, taking into account in particular the classification of the waste facility, the characteristics of the waste and the future use of the rehabilitated land; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-  - (ii (affected by repeal, see note))[^key-c22e05d1d500b1fba2988732839e1473] the assumption that independent and suitably qualified third parties will assess and perform any rehabilitation work needed; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) determine the form of the financial guarantee and may accept the provision of a guarantee from an industry-sponsored mutual guarantee fund or equivalent; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) periodically review the size of the guarantee and adjust as necessary, in accordance with any rehabilitation work which it may deem necessary on the land affected by the extractive waste, as described in the approved waste management plan prepared in accordance with regulation 6. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) calculate the financial guarantee on the basis of— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (i) the likely environmental impact of the waste facility, taking into account in particular the classification of the waste facility, the characteristics of the waste and the future use of the rehabilitated land; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+  - (ii (affected by repeal, see note))[^c-c22e05d1d500b1fba2988732839e1473] the assumption that independent and suitably qualified third parties will assess and perform any rehabilitation work needed; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) determine the form of the financial guarantee and may accept the provision of a guarantee from an industry-sponsored mutual guarantee fund or equivalent; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) periodically review the size of the guarantee and adjust as necessary, in accordance with any rehabilitation work which it may deem necessary on the land affected by the extractive waste, as described in the approved waste management plan prepared in accordance with regulation 6. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 16. Construction and management (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 16. Construction and management (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-Where planning permission for relevant development is subject to the condition in regulation 9(1)(d)(ii), the Department shall consider whether the monitoring report submitted to it should be validated by an independent expert. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Where planning permission for relevant development is subject to the condition in regulation 9(1)(d)(ii), the Department shall consider whether the monitoring report submitted to it should be validated by an independent expert. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 17. Closure (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 17. Closure (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) Where the Department receives a request for authorisation for closure of a waste facility, it shall issue an authorisation for closure notice. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) Where the Department receives a request for authorisation for closure of a waste facility, it shall issue an authorisation for closure notice. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) The Department shall not issue an authorisation for closure notice unless it is satisfied that all conditions of the planning permission relating to the waste facility in question have been met. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(2) The Department shall not issue an authorisation for closure notice unless it is satisfied that all conditions of the planning permission relating to the waste facility in question have been met. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(3) Prior to the issue of a final closure notice in accordance with paragraph (4), the Department shall, without undue delay— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(3) Prior to the issue of a final closure notice in accordance with paragraph (4), the Department shall, without undue delay— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) carry out a final on-site inspection of the waste facility in question; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) certify that the land affected by the waste facility has been rehabilitated. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) carry out a final on-site inspection of the waste facility in question; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) certify that the land affected by the waste facility has been rehabilitated. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(4) Where the Department is satisfied, following its inspection and assessment pursuant to paragraph (3), that the closure procedures have been appropriately carried out, it shall issue a final closure notice in writing which— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(4) Where the Department is satisfied, following its inspection and assessment pursuant to paragraph (3), that the closure procedures have been appropriately carried out, it shall issue a final closure notice in writing which— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) certifies that the land affected by the waste facility has been rehabilitated; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) releases the operator from obligations in respect of any financial guarantee condition to which the planning permission is subject pursuant to regulation 8, except insofar as they relate to any after-closure conditions to which the permission is subject pursuant to regulation 12. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) certifies that the land affected by the waste facility has been rehabilitated; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) releases the operator from obligations in respect of any financial guarantee condition to which the planning permission is subject pursuant to regulation 8, except insofar as they relate to any after-closure conditions to which the permission is subject pursuant to regulation 12. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(5) The Department may, if it considers it appropriate to do so, take over responsibility for the obligations relating to a condition to which a planning permission is subject pursuant to regulation 12(a). *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(5) The Department may, if it considers it appropriate to do so, take over responsibility for the obligations relating to a condition to which a planning permission is subject pursuant to regulation 12(a). *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 18. External emergency plan (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 18. External emergency plan (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) Where planning permission has been granted or deemed to be granted for relevant development in respect of a Category A waste facility, the Department shall draw up an external emergency plan specifying the measures to be taken off-site in the event of an accident. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) Where planning permission has been granted or deemed to be granted for relevant development in respect of a Category A waste facility, the Department shall draw up an external emergency plan specifying the measures to be taken off-site in the event of an accident. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) The external emergency plan shall have the following objectives— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(2) The external emergency plan shall have the following objectives— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) to contain and control major accidents and other incidents so as to minimise their effects, and in particular to limit damage to human health and the environment; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) to implement the measures necessary to protect human health and the environment from the effects of major accidents and other incidents; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) to communicate the necessary information to the public and to the relevant services or authorities in the area; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (d) to provide for the rehabilitation, restoration and clean-up of the environment following a major accident. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) to contain and control major accidents and other incidents so as to minimise their effects, and in particular to limit damage to human health and the environment; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) to implement the measures necessary to protect human health and the environment from the effects of major accidents and other incidents; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) to communicate the necessary information to the public and to the relevant services or authorities in the area; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (d) to provide for the rehabilitation, restoration and clean-up of the environment following a major accident. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(3) The public concerned will be provided with early and effective opportunities to participate in the preparation and review of the external emergency plan referred to in paragraph (1) and the Department shall make arrangements to inform the public concerned of proposals to prepare and review the plan, including information about the right to participate in that process and how to do so. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(3) The public concerned will be provided with early and effective opportunities to participate in the preparation and review of the external emergency plan referred to in paragraph (1) and the Department shall make arrangements to inform the public concerned of proposals to prepare and review the plan, including information about the right to participate in that process and how to do so. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(4) The Department shall afford the public concerned a reasonable timescale to express comments and shall have due account to the comments received in reaching its decision on the preparation or review of the plan. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(4) The Department shall afford the public concerned a reasonable timescale to express comments and shall have due account to the comments received in reaching its decision on the preparation or review of the plan. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(5) Information on safety measures and the action required in the event of an accident at the site shall be provided by the Department to the public concerned, free of charge. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(5) Information on safety measures and the action required in the event of an accident at the site shall be provided by the Department to the public concerned, free of charge. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(6) The information referred to in paragraph (5) shall contain at least all matters specified in Schedule 4. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(6) The information referred to in paragraph (5) shall contain at least all matters specified in Schedule 4. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(7) The information referred to in paragraph (5) shall be reviewed by the Department at least every three years and updated as necessary. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(7) The information referred to in paragraph (5) shall be reviewed by the Department at least every three years and updated as necessary. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(8) Where the Department becomes aware of an accident involving a Category A waste facility which is likely to have significant adverse effects on the environment of, and any resultant risks to human health in, another Member State, the Department shall forward the information provided to it pursuant to a condition imposed by virtue of paragraph regulation 13(6) to the other Member State concerned. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(8) Where the Department becomes aware of an accident involving a Category A waste facility which is likely to have significant adverse effects on the environment of, and any resultant risks to human health in, another Member State, the Department shall forward the information provided to it pursuant to a condition imposed by virtue of paragraph regulation 13(6) to the other Member State concerned. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 19. Co operation with other Member States (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 19. Co operation with other Member States (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) Where it appears to the Department that proposed relevant development which is the subject of an application for planning permission or a waste management plan, as the case may be, is likely to have significant adverse effects on the environment of, and any resultant risks to human health in, another Member State or where another Member State likely to be thus affected so requests, the Department shall— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) Where it appears to the Department that proposed relevant development which is the subject of an application for planning permission or a waste management plan, as the case may be, is likely to have significant adverse effects on the environment of, and any resultant risks to human health in, another Member State or where another Member State likely to be thus affected so requests, the Department shall— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) forward a copy of the application or waste management plan, as the case may be, and all related material to the other Member State at the same time as it makes such documents available to the public in Northern Ireland; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) give the Member State a reasonable time in which to consult its own nationals and allow them to submit representations before the Department decides whether or not to grant the application or approve the waste management plan, as the case may be. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) forward a copy of the application or waste management plan, as the case may be, and all related material to the other Member State at the same time as it makes such documents available to the public in Northern Ireland; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) give the Member State a reasonable time in which to consult its own nationals and allow them to submit representations before the Department decides whether or not to grant the application or approve the waste management plan, as the case may be. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) This regulation shall not apply to those applications or waste management plans, as the case may be, in respect of planning permission for relevant development which constitutes “EIA development” within the meaning of the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999 *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473][^f00017].
+(2) This regulation shall not apply to those applications or waste management plans, as the case may be, in respect of planning permission for relevant development which constitutes “EIA development” within the meaning of the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999 *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473][^f00017].
 
-### 20. Inventory of closed waste facilities (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 20. Inventory of closed waste facilities (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) The Department shall prepare and maintain an inventory of closed waste facilities, including abandoned waste facilities, which cause serious negative environmental impacts or have the potential of becoming, in the short or medium term, a serious threat to human health or the environment. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) The Department shall prepare and maintain an inventory of closed waste facilities, including abandoned waste facilities, which cause serious negative environmental impacts or have the potential of becoming, in the short or medium term, a serious threat to human health or the environment. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) The inventory shall be available for inspection by the public at all reasonable hours. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(2) The inventory shall be available for inspection by the public at all reasonable hours. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(3) On request by any member of the public and on payment of a reasonable fee, the Department shall provide a copy of any item entered in the inventory. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(3) On request by any member of the public and on payment of a reasonable fee, the Department shall provide a copy of any item entered in the inventory. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(4) The inventory shall be prepared by 1st May 2012 and shall take into account the methodologies referred to in Article 21 of the Directive, where available. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(4) The inventory shall be prepared by 1st May 2012 and shall take into account the methodologies referred to in Article 21 of the Directive, where available. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-### 21. Review (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473]
+### 21. Review (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473]
 
-(1) The Department shall review the conditions imposed pursuant to these Regulations on a planning permission for relevant development— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(1) The Department shall review the conditions imposed pursuant to these Regulations on a planning permission for relevant development— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) where there are substantial changes in the operation of the waste facility or the waste deposited; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) on the basis of monitoring results reported by the operator pursuant to regulation 9(3) or inspections carried out pursuant to regulation 9(1)(d) or 14(1); or *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) in the light of substantial changes in best available techniques. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) where there are substantial changes in the operation of the waste facility or the waste deposited; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) on the basis of monitoring results reported by the operator pursuant to regulation 9(3) or inspections carried out pursuant to regulation 9(1)(d) or 14(1); or *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) in the light of substantial changes in best available techniques. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(2) Where the Department undertakes a review in accordance with paragraph (1), it shall inform the public concerned and give them an opportunity to make comment before the Department completes its review. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(2) Where the Department undertakes a review in accordance with paragraph (1), it shall inform the public concerned and give them an opportunity to make comment before the Department completes its review. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-(3) A review undertaken in consequence of paragraph (1) may add to, reduce or update the conditions attached to that permission in pursuance of these Regulations. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(3) A review undertaken in consequence of paragraph (1) may add to, reduce or update the conditions attached to that permission in pursuance of these Regulations. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Sealed with the Official Seal of the Department of Environment on 5th March 2010 *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Sealed with the Official Seal of the Department of Environment on 5th March 2010 *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Marianne Fleming *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Marianne Fleming *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-A senior officer of the *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+A senior officer of the *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Department of Environment *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Department of Environment *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-## SCHEDULE 1 (affected by repeal, see note) — WASTE MANAGEMENT PLAN: OBJECTIVES (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473][^key-c22e05d1d500b1fba2988732839e1473]
+## SCHEDULE 1 (affected by repeal, see note) — WASTE MANAGEMENT PLAN: OBJECTIVES (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473][^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 6(2) *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 6(2) *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-The objectives of the waste management plan are— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+The objectives of the waste management plan are— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**1.** To prevent or reduce waste production and its harmfulness, in particular by the consideration of— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**1.** To prevent or reduce waste production and its harmfulness, in particular by the consideration of— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-- (a) waste management in the design phase and in the choice of the method used for mineral extraction and treatment; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) the changes that the extractive waste may undergo in relation to an increase in surface area and exposure to conditions above ground; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) placing extractive waste back into the excavation void after extraction of the mineral, as far as is technically and economically feasible and environmentally sound in accordance with existing environmental standards at Community level and with the requirements of these Regulations where relevant; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (d) where the site is a waste facility, putting topsoil back in place after its closure or, if this is not practically feasible, reusing topsoil elsewhere; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (e) using less dangerous substances for the treatment of minerals. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-
-*Extent: E+W+S+N.I.*
-
-**2.** To encourage the recovery of extractive waste by means of recycling, reusing or reclaiming such waste, where this is environmentally sound in accordance with existing environmental standards at Community level and with the requirements of these Regulations where relevant. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+- (a) waste management in the design phase and in the choice of the method used for mineral extraction and treatment; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) the changes that the extractive waste may undergo in relation to an increase in surface area and exposure to conditions above ground; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) placing extractive waste back into the excavation void after extraction of the mineral, as far as is technically and economically feasible and environmentally sound in accordance with existing environmental standards at Community level and with the requirements of these Regulations where relevant; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (d) where the site is a waste facility, putting topsoil back in place after its closure or, if this is not practically feasible, reusing topsoil elsewhere; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (e) using less dangerous substances for the treatment of minerals. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**3.** To ensure short and long-term safe disposal of the extractive waste, in particular where the site is a waste facility by considering, during the design phase, management during the operation and after-closure of the facility and by choosing a design which— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-
-- (a) requires minimal and, if possible, ultimately no monitoring, control and management of the closed waste facility; *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (b) prevents or at least minimises any long-term negative effects, for example attributable to migration of airborne or aquatic pollutants from the waste facility; and *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-- (c) ensures the long-term geotechnical stability of any dams or heaps rising above the pre-existing ground surface. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-
-## SCHEDULE 2 (affected by repeal, see note) — WASTE CHARACTERISATION (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473][^key-c22e05d1d500b1fba2988732839e1473]
-
-Regulation 6(2)(e) *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-
-The waste to be deposited in an extractive waste site or facility shall be characterised in such a way as to guarantee the long-term physical and chemical stability of the structure of the facility and to prevent major accidents. The waste characterisation shall include, where appropriate and in accordance with the classification of the site or facility, the following aspects— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**2.** To encourage the recovery of extractive waste by means of recycling, reusing or reclaiming such waste, where this is environmentally sound in accordance with existing environmental standards at Community level and with the requirements of these Regulations where relevant. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**1.** A description of the expected physical and chemical characteristics of the waste to be deposited in the short and long term, with particular reference to its stability under surface atmospheric/meteorological conditions, taking account of the type of mineral to be extracted and the nature of any overburden and/or gangue minerals that will be displaced in the course of the extractive operations. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**3.** To ensure short and long-term safe disposal of the extractive waste, in particular where the site is a waste facility by considering, during the design phase, management during the operation and after-closure of the facility and by choosing a design which— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+
+- (a) requires minimal and, if possible, ultimately no monitoring, control and management of the closed waste facility; *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (b) prevents or at least minimises any long-term negative effects, for example attributable to migration of airborne or aquatic pollutants from the waste facility; and *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+- (c) ensures the long-term geotechnical stability of any dams or heaps rising above the pre-existing ground surface. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+
+## SCHEDULE 2 (affected by repeal, see note) — WASTE CHARACTERISATION (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473][^c-c22e05d1d500b1fba2988732839e1473]
+
+Regulation 6(2)(e) *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+
+The waste to be deposited in an extractive waste site or facility shall be characterised in such a way as to guarantee the long-term physical and chemical stability of the structure of the facility and to prevent major accidents. The waste characterisation shall include, where appropriate and in accordance with the classification of the site or facility, the following aspects— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**2.** Characterisation of the waste according to the relevant entry in Decision *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [2000/532/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/decision/2000/0532)[^key-c22e05d1d500b1fba2988732839e1473][^f00018] with particular regard to its hazardous characteristics. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**1.** A description of the expected physical and chemical characteristics of the waste to be deposited in the short and long term, with particular reference to its stability under surface atmospheric/meteorological conditions, taking account of the type of mineral to be extracted and the nature of any overburden and/or gangue minerals that will be displaced in the course of the extractive operations. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**3.** A description of the chemical substances to be used during treatment of the extracted material and their stability. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**2.** Characterisation of the waste according to the relevant entry in Decision *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [2000/532/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/decision/2000/0532)[^c-c22e05d1d500b1fba2988732839e1473][^f00018] with particular regard to its hazardous characteristics. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**4.** A description of the method of deposition. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**3.** A description of the chemical substances to be used during treatment of the extracted material and their stability. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**5.** The waste transport system to be employed. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-
-## SCHEDULE 3 (affected by repeal, see note) — CRITERIA FOR CLASSIFICATION OF CATEGORY A WASTE FACILITIES (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473][^key-c22e05d1d500b1fba2988732839e1473]
-
-Regulation 6(3)(c) *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-
-A waste facility shall be classified as Category A if— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**4.** A description of the method of deposition. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**1.** A failure or incorrect operation, e.g. the collapse of a heap or the bursting of a dam, could give rise to a major accident, on the basis of a risk assessment taking into account factors such as the present or future size, the location and the environmental impact of the waste facility; or *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**5.** The waste transport system to be employed. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+
+## SCHEDULE 3 (affected by repeal, see note) — CRITERIA FOR CLASSIFICATION OF CATEGORY A WASTE FACILITIES (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473][^c-c22e05d1d500b1fba2988732839e1473]
+
+Regulation 6(3)(c) *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+
+A waste facility shall be classified as Category A if— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**2.** It contains waste classified as hazardous under Directive 91/689/EEC *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473][^f00019] above a certain threshold; or *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**1.** A failure or incorrect operation, e.g. the collapse of a heap or the bursting of a dam, could give rise to a major accident, on the basis of a risk assessment taking into account factors such as the present or future size, the location and the environmental impact of the waste facility; or *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**3.** It contains substances or preparations classified as dangerous under Directives *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [67/548/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1967/0548)[^key-c22e05d1d500b1fba2988732839e1473][^f00020] or *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [99/45/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1999/0045)[^key-c22e05d1d500b1fba2988732839e1473][^f00021] above a certain threshold. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-
-## SCHEDULE 4 (affected by repeal, see note) — INFORMATION TO BE COMUNICATED TO THE PUBLIC CONCERNED IN THE EVENT OF AN ACCIDENT (affected by repeal, see note)[^key-c22e05d1d500b1fba2988732839e1473][^key-c22e05d1d500b1fba2988732839e1473]
-
-Regulation 18(6) *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
-
-The information to be communicated to the public concerned in the event of an accident includes the following— *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**2.** It contains waste classified as hazardous under Directive 91/689/EEC *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473][^f00019] above a certain threshold; or *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**1.** Name of operator and address of the waste facility. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**3.** It contains substances or preparations classified as dangerous under Directives *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [67/548/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1967/0548)[^c-c22e05d1d500b1fba2988732839e1473][^f00020] or *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [99/45/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1999/0045)[^c-c22e05d1d500b1fba2988732839e1473][^f00021] above a certain threshold. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+
+## SCHEDULE 4 (affected by repeal, see note) — INFORMATION TO BE COMUNICATED TO THE PUBLIC CONCERNED IN THE EVENT OF AN ACCIDENT (affected by repeal, see note)[^c-c22e05d1d500b1fba2988732839e1473][^c-c22e05d1d500b1fba2988732839e1473]
+
+Regulation 18(6) *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+
+The information to be communicated to the public concerned in the event of an accident includes the following— *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**2.** Identification, by position held, of the person providing the information. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**1.** Name of operator and address of the waste facility. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**3.** Confirmation that the waste facility is subject to planning controls and to these Regulations and, where applicable, that the information relevant to the elements referred to in regulation 7(2)(iv) has been approved by the Department. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**2.** Identification, by position held, of the person providing the information. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**4.** An explanation in clear and simple terms of the activity or activities undertaken at the site. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**3.** Confirmation that the waste facility is subject to planning controls and to these Regulations and, where applicable, that the information relevant to the elements referred to in regulation 7(2)(iv) has been approved by the Department. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**5.** The common names or the generic names or the general danger classification of the substances and preparations involved at the waste facility as well as waste which could give rise to a major accident, with an indication of their principal dangerous characteristics. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**4.** An explanation in clear and simple terms of the activity or activities undertaken at the site. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**6.** General information relating to the nature of the major accident hazards, including their potential effects on the surrounding population and environment. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**5.** The common names or the generic names or the general danger classification of the substances and preparations involved at the waste facility as well as waste which could give rise to a major accident, with an indication of their principal dangerous characteristics. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**7.** Adequate information on how the surrounding population concerned are to be warned and kept informed in the event of a major accident. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**6.** General information relating to the nature of the major accident hazards, including their potential effects on the surrounding population and environment. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**8.** Adequate information on the actions the surrounding population concerned should take, and on the behaviour they should adopt, in the event of a major accident. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**7.** Adequate information on how the surrounding population concerned are to be warned and kept informed in the event of a major accident. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**9.** Confirmation that the operator is required to make adequate arrangements on-site, in particular liaison with the emergency services, to deal with major accidents and to minimise their effects. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**8.** Adequate information on the actions the surrounding population concerned should take, and on the behaviour they should adopt, in the event of a major accident. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**10.** A reference to the external emergency plan drawn up to cope with any off-site effects from an accident, including advice to co-operate with any instructions or requests from the emergency services at the time of an accident. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**9.** Confirmation that the operator is required to make adequate arrangements on-site, in particular liaison with the emergency services, to deal with major accidents and to minimise their effects. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 *Extent: E+W+S+N.I.*
 
-**11.** Details of where further relevant information can be obtained. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**10.** A reference to the external emergency plan drawn up to cope with any off-site effects from an accident, including advice to co-operate with any instructions or requests from the emergency services at the time of an accident. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-EXPLANATORY NOTE *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+*Extent: E+W+S+N.I.*
 
-(This note is not part of the Regulations) *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+**11.** Details of where further relevant information can be obtained. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-These Regulations implement Directive *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [2006/21/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0021)[^key-c22e05d1d500b1fba2988732839e1473] (O.J. No. L102, 11.4.2006, p.15-34) (“the Mining Waste Directive”) of the European Parliament and of the Council of 15th March 2006 on the management of waste from extractive industries and amending Directive *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473] [2004/35/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2004/0035)[^key-c22e05d1d500b1fba2988732839e1473] (O.J. No. L143, 30.4.2004, p.56-75) (“the Waste Framework Directive”). *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+EXPLANATORY NOTE *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 2 provides definitions, most of which are derived from the Directive. Two types of areas are defined for the application of the Directive, an “extractive waste site” and a “waste facility”. For the latter, a definition of a “Category A waste facility” is also provided in the Regulations, this type of waste facility being subject to the additional controls in Part 5. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+(This note is not part of the Regulations) *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 3 extends the definition of ‘mining operations’ in the Planning (Northern Ireland) Order 1991 to include the management of extractive waste so that planning permission will be required for this new type of operation in order to integrate these Regulations into the existing Planning system. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+These Regulations implement Directive *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [2006/21/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2006/0021)[^c-c22e05d1d500b1fba2988732839e1473] (O.J. No. L102, 11.4.2006, p.15-34) (“the Mining Waste Directive”) of the European Parliament and of the Council of 15th March 2006 on the management of waste from extractive industries and amending Directive *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473] [2004/35/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2004/0035)[^c-c22e05d1d500b1fba2988732839e1473] (O.J. No. L143, 30.4.2004, p.56-75) (“the Waste Framework Directive”). *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 4 provides that planning permission for the management of extractive waste cannot be granted unless a waste management plan is approved by the Department under these Regulations and provides that such permissions which involve waste facilities will be subject to conditions as set out in these Regulations. It also makes provision for the deemed grant of planning permission for the management of extractive waste for existing sites and similarly subjects such permissions in respect of waste facilities to the conditions set out in these Regulations. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 2 provides definitions, most of which are derived from the Directive. Two types of areas are defined for the application of the Directive, an “extractive waste site” and a “waste facility”. For the latter, a definition of a “Category A waste facility” is also provided in the Regulations, this type of waste facility being subject to the additional controls in Part 5. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 5 details exemptions from the controls in regulation 4 and reduces what the Regulations would otherwise require in relation to particular types of waste considered to be of low risk to the environment or human health. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 3 extends the definition of ‘mining operations’ in the Planning (Northern Ireland) Order 1991 to include the management of extractive waste so that planning permission will be required for this new type of operation in order to integrate these Regulations into the existing Planning system. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 6 (and Schedules 1, 2 and 3) sets out what a waste management plan must include. This plan is central to the system the Directive requires and includes the classification into which the site or facility falls. Schedule 1 gives the objectives of the plan, Schedule 2 provides for how waste is to be characterised and Schedule 3 provides the criteria for the classification of a Category A waste facility. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 4 provides that planning permission for the management of extractive waste cannot be granted unless a waste management plan is approved by the Department under these Regulations and provides that such permissions which involve waste facilities will be subject to conditions as set out in these Regulations. It also makes provision for the deemed grant of planning permission for the management of extractive waste for existing sites and similarly subjects such permissions in respect of waste facilities to the conditions set out in these Regulations. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 7 details the obligations placed on the Department for consultation, consideration and subsequent decision to approve, or otherwise, the waste management plan submitted to it pursuant to regulation 6. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 5 details exemptions from the controls in regulation 4 and reduces what the Regulations would otherwise require in relation to particular types of waste considered to be of low risk to the environment or human health. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 8 provides the condition for a financial guarantee and its purpose. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 6 (and Schedules 1, 2 and 3) sets out what a waste management plan must include. This plan is central to the system the Directive requires and includes the classification into which the site or facility falls. Schedule 1 gives the objectives of the plan, Schedule 2 provides for how waste is to be characterised and Schedule 3 provides the criteria for the classification of a Category A waste facility. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 9 details the conditions for the construction and management of waste facilities. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 7 details the obligations placed on the Department for consultation, consideration and subsequent decision to approve, or otherwise, the waste management plan submitted to it pursuant to regulation 6. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 10 details the conditions associated with the prevention of water status deterioration, air and soil pollution. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 8 provides the condition for a financial guarantee and its purpose. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 11 details the conditions associated with the authorisation for the commencement of and final closure procedures for waste facilities. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 9 details the conditions for the construction and management of waste facilities. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 12 details the conditions for after-closure and the ongoing obligations of the operator. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 10 details the conditions associated with the prevention of water status deterioration, air and soil pollution. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 13 details the additional conditions which apply to Category A waste facilities. These conditions seek to minimise the risk of accidents that arise from operation of this particular type of waste facility and to guarantee a high level of protection for the environment and human health. Such a facility requires to have a major accident prevention policy drawn up, a safety management system to implement that policy put in place and an internal emergency plan specifying the measures to be taken on-site in the event of an emergency. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 11 details the conditions associated with the authorisation for the commencement of and final closure procedures for waste facilities. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulations 14 to 17 detail the duties of the Department in relation to inspections, the financial guarantee, the validation of a monitoring report submitted by an operator and closure procedures. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 12 details the conditions for after-closure and the ongoing obligations of the operator. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 18 details the requirement for the Department to draw up an external emergency plan for a Category A waste facility specifying the measures to be taken off-site in the event of an accident, and to make this available to, and consult with, the public concerned. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 13 details the additional conditions which apply to Category A waste facilities. These conditions seek to minimise the risk of accidents that arise from operation of this particular type of waste facility and to guarantee a high level of protection for the environment and human health. Such a facility requires to have a major accident prevention policy drawn up, a safety management system to implement that policy put in place and an internal emergency plan specifying the measures to be taken on-site in the event of an emergency. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 19 details the measures to be undertaken by the Department to ensure co-operation with other Member States, including time for consultation with nationals of those States. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulations 14 to 17 detail the duties of the Department in relation to inspections, the financial guarantee, the validation of a monitoring report submitted by an operator and closure procedures. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 20 details the obligation on the Department to prepare and maintain an inventory of closed waste facilities. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 18 details the requirement for the Department to draw up an external emergency plan for a Category A waste facility specifying the measures to be taken off-site in the event of an accident, and to make this available to, and consult with, the public concerned. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-Regulation 21 details the requirement on the Department to review any conditions imposed pursuant to these Regulations on a planning permission for relevant development. *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 19 details the measures to be undertaken by the Department to ensure co-operation with other Member States, including time for consultation with nationals of those States. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
-A Regulatory Impact Assessment has been prepared in relation to these Regulations. A copy may be obtained from the Department of the Environment, Planning Service Headquarters, Millenium House, 17-25 Great Victoria Street, Belfast, BT2 7BN (Tel: 028 90416967) or accessed at *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]http://www.planningni.gov.uk/ *(affected by repeal, see note)*[^key-c22e05d1d500b1fba2988732839e1473]
+Regulation 20 details the obligation on the Department to prepare and maintain an inventory of closed waste facilities. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+
+Regulation 21 details the requirement on the Department to review any conditions imposed pursuant to these Regulations on a planning permission for relevant development. *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
+
+A Regulatory Impact Assessment has been prepared in relation to these Regulations. A copy may be obtained from the Department of the Environment, Planning Service Headquarters, Millenium House, 17-25 Great Victoria Street, Belfast, BT2 7BN (Tel: 028 90416967) or accessed at *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]http://www.planningni.gov.uk/ *(affected by repeal, see note)*[^c-c22e05d1d500b1fba2988732839e1473]
 
 ## Annotations
 
-[^key-c22e05d1d500b1fba2988732839e1473]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/64) revoked (with savings) (1.4.2015) by [The Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2015 (S.R. 2015/85)](https://www.legislation.gov.uk/nisr/2015/85), [reg. 24(1)](https://www.legislation.gov.uk/nisr/2015/85/regulation/24/1) (with [regs. 5(1)](https://www.legislation.gov.uk/nisr/2015/85/regulation/5/1), [24(2)](https://www.legislation.gov.uk/nisr/2015/85/regulation/24/2)[(5)](https://www.legislation.gov.uk/nisr/2015/85/regulation/24/5))
+[^c-c22e05d1d500b1fba2988732839e1473]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/64) revoked (with savings) (1.4.2015) by [The Planning (Management of Waste from Extractive Industries) Regulations (Northern Ireland) 2015 (S.R. 2015/85)](https://www.legislation.gov.uk/nisr/2015/85), [reg. 24(1)](https://www.legislation.gov.uk/nisr/2015/85/regulation/24/1) (with [regs. 5(1)](https://www.legislation.gov.uk/nisr/2015/85/regulation/5/1), [24(2)](https://www.legislation.gov.uk/nisr/2015/85/regulation/24/2)[(5)](https://www.legislation.gov.uk/nisr/2015/85/regulation/24/5))
 
 [^f00001]: Footnote: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301)
 
 [^f00002]: Footnote: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68). The enabling powers of section 2(2) were extended by virtue of the amendment of section 1(2) by section 1 of the European Economic Area Act [1993 (c.51)](https://www.legislation.gov.uk/ukpga/1993/51)
 
-[^key-5d47e5a1676e83188b59838e6d71e7b5]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2010/64) amendment to earlier revoking SR 2012/85, reg. 24 (27.3.2019) by [The Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/24)](https://www.legislation.gov.uk/nisr/2019/24), [reg. 7](https://www.legislation.gov.uk/nisr/2019/24/regulation/7)
+[^c-5d47e5a1676e83188b59838e6d71e7b5]: Modification: [Rules](https://www.legislation.gov.uk/nisr/2010/64) amendment to earlier revoking SR 2012/85, reg. 24 (27.3.2019) by [The Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2019 (S.R. 2019/24)](https://www.legislation.gov.uk/nisr/2019/24), [reg. 7](https://www.legislation.gov.uk/nisr/2019/24/regulation/7)
 
 [^f00003]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -664,7 +664,7 @@ A Regulatory Impact Assessment has been prepared in relation to these Regulation
 
 [^f00011]: Footnote: [S.I. 1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220) as amended by [S.I. 2003/430 (N.I. 8)](https://www.legislation.gov.uk/nisi/2003/430) and [S.I. 2006/1252 (N.I. 7)](https://www.legislation.gov.uk/nisi/2006/1252)
 
-[^key-599948b7007e9133b3e10b6a010e7229]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2010/64/regulation/2/2) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [71(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/71/2) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
+[^c-599948b7007e9133b3e10b6a010e7229]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/nisr/2010/64/regulation/2/2) substituted (8.4.2011) by [The Waste Regulations (Northern Ireland) 2011 (S.R. 2011/127)](https://www.legislation.gov.uk/nisr/2011/127), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1), [71(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/71/2) (with [reg. 9(2)](https://www.legislation.gov.uk/nisr/2011/127/regulation/9/2))
 
 [^f00013]: Footnote: O.J. No. L010, 14.1.1997, p.13-33
 

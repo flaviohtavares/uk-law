@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Approval of warrants issued in urgent cases[^key-cc07fd4b89e64d5032474ca240272441]
+## 24. Approval of warrants issued in urgent cases[^c-cc07fd4b89e64d5032474ca240272441]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ and section 23(5) does not apply in relation to the refusal to approve the decis
 
 ## Annotations
 
-[^key-cc07fd4b89e64d5032474ca240272441]: Commencement: S. 24 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/b)
+[^c-cc07fd4b89e64d5032474ca240272441]: Commencement: S. 24 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/b)

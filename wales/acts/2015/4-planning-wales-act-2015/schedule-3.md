@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by section 26(2))
 
-**1.**[^c22543561][^key-e0c2252dfd95ccc7603fab4b43da8f12] In TCPA 1990, after Schedule 4C insert—
+**1.**[^c22543561][^c-e0c2252dfd95ccc7603fab4b43da8f12] In TCPA 1990, after Schedule 4C insert—
 
 > **SCHEDULE 4D — EXERCISE OF FUNCTIONS BY APPOINTED PERSON IN CONNECTION WITH DEVELOPMENTS OF NATIONAL SIGNIFICANCE AND APPLICATIONS MADE TO THE WELSH MINISTERS**
 >
@@ -115,7 +115,7 @@ summary: ''
 >
 > **14.** Where an appointed person holds a hearing or inquiry in relation to a relevant application or consent, the Welsh Ministers may appoint an assessor to assist the appointed person at the hearing or inquiry.
 
-**2.**[^c22543571][^key-bac61feae383e3abf78459aebbcaa0f2] In section 59 of PCPA 2004 (correction of errors: supplementary), after subsection (2) insert—
+**2.**[^c22543571][^c-bac61feae383e3abf78459aebbcaa0f2] In section 59 of PCPA 2004 (correction of errors: supplementary), after subsection (2) insert—
 
 > (2A) An inspector is also a person appointed under Schedule 4D of the principal Act to determine an application instead of the Welsh Ministers.
 
@@ -123,8 +123,8 @@ summary: ''
 
 [^c22543561]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2015/4/schedule/3/paragraph/1) partly in force; [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2015/4/schedule/3/paragraph/1) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-e0c2252dfd95ccc7603fab4b43da8f12]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2015/4/schedule/3/paragraph/1) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(d)](https://www.legislation.gov.uk/wsi/2016/52/article/3/d)
+[^c-e0c2252dfd95ccc7603fab4b43da8f12]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/anaw/2015/4/schedule/3/paragraph/1) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(d)](https://www.legislation.gov.uk/wsi/2016/52/article/3/d)
 
 [^c22543571]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2015/4/schedule/3/paragraph/2) partly in force; [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2015/4/schedule/3/paragraph/2) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-bac61feae383e3abf78459aebbcaa0f2]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2015/4/schedule/3/paragraph/2) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(d)](https://www.legislation.gov.uk/wsi/2016/52/article/3/d)
+[^c-bac61feae383e3abf78459aebbcaa0f2]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/anaw/2015/4/schedule/3/paragraph/2) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(d)](https://www.legislation.gov.uk/wsi/2016/52/article/3/d)

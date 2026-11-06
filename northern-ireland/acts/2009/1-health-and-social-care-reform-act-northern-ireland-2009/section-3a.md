@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3A. Provision of health care outside Northern Ireland[^key-d8abe2e070061e9543b8a7c1ceea6ba3]
+## 3A. Provision of health care outside Northern Ireland[^c-d8abe2e070061e9543b8a7c1ceea6ba3]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The Department may provide or secure the provision of health care mentioned in A
 
 ## Annotations
 
-[^key-d8abe2e070061e9543b8a7c1ceea6ba3]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/nia/2009/1/section/3A) inserted (10.5.2012) by [The Health Care (Reimbursement of the Cost of EEA Services etc.) Regulations (Northern Ireland) 2012 (S.R. 2012/167)](https://www.legislation.gov.uk/nisr/2012/167), [regs. 1](https://www.legislation.gov.uk/nisr/2012/167/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2012/167/regulation/3/1)
+[^c-d8abe2e070061e9543b8a7c1ceea6ba3]: Textual amendment: [S. 3A](https://www.legislation.gov.uk/nia/2009/1/section/3A) inserted (10.5.2012) by [The Health Care (Reimbursement of the Cost of EEA Services etc.) Regulations (Northern Ireland) 2012 (S.R. 2012/167)](https://www.legislation.gov.uk/nisr/2012/167), [regs. 1](https://www.legislation.gov.uk/nisr/2012/167/regulation/1), [3(1)](https://www.legislation.gov.uk/nisr/2012/167/regulation/3/1)

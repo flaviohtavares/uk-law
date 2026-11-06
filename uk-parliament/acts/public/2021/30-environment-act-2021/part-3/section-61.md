@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Hazardous waste: Northern Ireland[^key-0e2d121c92983a64a2233aa8b65e7e8a][^key-271b9a0a303d50c2bc3c3d171d3d2484]
+## 61. Hazardous waste: Northern Ireland[^c-0e2d121c92983a64a2233aa8b65e7e8a][^c-271b9a0a303d50c2bc3c3d171d3d2484]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0e2d121c92983a64a2233aa8b65e7e8a]: Commencement: S. 61 not in force at Royal Assent, see [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)
+[^c-0e2d121c92983a64a2233aa8b65e7e8a]: Commencement: S. 61 not in force at Royal Assent, see [s. 147(6)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/6)
 
-[^key-271b9a0a303d50c2bc3c3d171d3d2484]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2021/30/section/61) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(j)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/j)
+[^c-271b9a0a303d50c2bc3c3d171d3d2484]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2021/30/section/61) in force at 28.2.2022 by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(j)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/j)

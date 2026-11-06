@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Annexes[^key-64fbc296af938afc7db2bb246c7402d9]
+## 14. Annexes[^c-64fbc296af938afc7db2bb246c7402d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ summary: ''
   - (i) after “synergists” insert “ in relation to the relevant constituent territory ”;
   - (ii) omit “, reviewed by the Authority”;
 - (l) in point 3.6.5—
-  - (i)[^key-9fdc67b47909866db9183636b064f656] in the first paragraph—
+  - (i)[^c-9fdc67b47909866db9183636b064f656] in the first paragraph—
     - (aa) for “Community” substitute “nationally”;
     - (bb) for “Authority” substitute “competent authority”;
   - (ia) omit the third and fourth paragraphs;
@@ -57,7 +57,7 @@ summary: ''
     - (bb) in point (b), for the words from “which is” to “products” substitute “ issued ”;
 - (m) in point 3.8.1, for “Article 29(6)” substitute “ Article 29(6)(a) in relation to the relevant constituent territory ”;
 - (n) in point 3.8.2—
-  - (i)[^key-3e7ef61d7c1e3308225af11a2fd5c049] in the first paragraph, for “Community” substitute “nationally;”
+  - (i)[^c-3e7ef61d7c1e3308225af11a2fd5c049] in the first paragraph, for “Community” substitute “nationally;”
   - (ii) in the third paragraph, in point (1)(a) and (b), for the words from “the Commission” to “products,” substitute “ guidance issued ”;
 - (o) in point 3.8.3, for “Community” substitute “ nationally ”;
 - (p) in point 3.10, for “Article 29(6)” substitute “ Article 29(6)(a) in relation to the relevant constituent territory ”;
@@ -70,8 +70,8 @@ summary: ''
 
 ## Annotations
 
-[^key-64fbc296af938afc7db2bb246c7402d9]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-64fbc296af938afc7db2bb246c7402d9]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-9fdc67b47909866db9183636b064f656]: Textual amendment: Reg. 14(3(i)(ia) substituted for reg. 14(3)(l)(i) (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/6/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9fdc67b47909866db9183636b064f656]: Textual amendment: Reg. 14(3(i)(ia) substituted for reg. 14(3)(l)(i) (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/6/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3e7ef61d7c1e3308225af11a2fd5c049]: Textual amendment: Reg. 14(3)(n)(i) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/6/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e7ef61d7c1e3308225af11a2fd5c049]: Textual amendment: Reg. 14(3)(n)(i) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/6/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

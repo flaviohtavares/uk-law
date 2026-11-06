@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Transfers to and from special hospitals.[^key-f06b1e20a83f88c78b8857fd8803ee75]
+## 123. Transfers to and from special hospitals.[^c-f06b1e20a83f88c78b8857fd8803ee75]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f06b1e20a83f88c78b8857fd8803ee75]: Textual amendment: [S. 123](https://www.legislation.gov.uk/ukpga/1983/20/section/123) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 42(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/42/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [s. 42(5)](https://www.legislation.gov.uk/ukpga/2012/7/section/42/5)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)
+[^c-f06b1e20a83f88c78b8857fd8803ee75]: Textual amendment: [S. 123](https://www.legislation.gov.uk/ukpga/1983/20/section/123) omitted (1.7.2012) by virtue of [Health and Social Care Act 2012 (c. 7)](https://www.legislation.gov.uk/ukpga/2012/7), [ss. 42(1)](https://www.legislation.gov.uk/ukpga/2012/7/section/42/1), [306(4)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/4) (with [s. 42(5)](https://www.legislation.gov.uk/ukpga/2012/7/section/42/5)); [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(3)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/3)

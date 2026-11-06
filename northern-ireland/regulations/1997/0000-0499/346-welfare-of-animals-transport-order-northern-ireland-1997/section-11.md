@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. International standards and guidelines[^key-c18e8a7ea23bb0c648a9fc487518c9b7]
+## 11. International standards and guidelines[^c-c18e8a7ea23bb0c648a9fc487518c9b7]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c18e8a7ea23bb0c648a9fc487518c9b7]: Commencement: Art. 11 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
+[^c-c18e8a7ea23bb0c648a9fc487518c9b7]: Commencement: Art. 11 in operation at 1.9.1997, see [art. 1](https://www.legislation.gov.uk/nisr/1997/346/article/1)
 
 [^f00009]: Footnote: Published by the International Air Transport Association, 2000 Peel Street, Montreal, Quebec, Canada H3A 2R4
 

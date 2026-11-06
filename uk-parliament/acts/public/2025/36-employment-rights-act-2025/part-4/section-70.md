@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Industrial action ballots: information to be included in notices to employers[^key-70046bfc30471ae06663bb9bf222bcab]
+## 70. Industrial action ballots: information to be included in notices to employers[^c-70046bfc30471ae06663bb9bf222bcab]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ In section 226A of the Trade Union and Labour Relations (Consolidation) Act 1992
 
 ## Annotations
 
-[^key-70046bfc30471ae06663bb9bf222bcab]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/36/section/70) in force at 18.2.2026, see [s. 159(2)(g)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/g)
+[^c-70046bfc30471ae06663bb9bf222bcab]: Commencement: [S. 70](https://www.legislation.gov.uk/ukpga/2025/36/section/70) in force at 18.2.2026, see [s. 159(2)(g)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/g)

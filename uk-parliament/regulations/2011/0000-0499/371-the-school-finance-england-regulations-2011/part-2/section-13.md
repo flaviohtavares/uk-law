@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Applications to the schools forum and the Secretary of State[^key-486a7f93e4a3bab9debd42e238ff89d0]
+## 13. Applications to the schools forum and the Secretary of State[^c-486a7f93e4a3bab9debd42e238ff89d0]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ the authority may make an application to the Secretary of State for such authori
 
 ## Annotations
 
-[^key-486a7f93e4a3bab9debd42e238ff89d0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2011/371/regulation/13) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-486a7f93e4a3bab9debd42e238ff89d0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2011/371/regulation/13) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

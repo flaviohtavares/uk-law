@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 162. Fixing of remuneration[^key-280d56de4f93f04732fbd0b464bb98c1]
+## 162. Fixing of remuneration[^c-280d56de4f93f04732fbd0b464bb98c1]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-280d56de4f93f04732fbd0b464bb98c1]: Commencement: [Rule 162](https://www.legislation.gov.uk/nisr/2026/11/rule/162) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-280d56de4f93f04732fbd0b464bb98c1]: Commencement: [Rule 162](https://www.legislation.gov.uk/nisr/2026/11/rule/162) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

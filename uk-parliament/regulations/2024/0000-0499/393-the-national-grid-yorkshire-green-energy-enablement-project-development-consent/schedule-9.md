@@ -22,7 +22,7 @@ summary: ''
 
 Article 16
 
-### PART 1 — CITY OF YORK COUNCIL[^key-cef862f7b452d12fc63d721ba24e1cbf]
+### PART 1 — CITY OF YORK COUNCIL[^c-cef862f7b452d12fc63d721ba24e1cbf]
 
 | (1) Street name | (2) Access reference as shown on the access, rights of way and public rights of navigation plan | (3) Plan Reference for the access, rights of way and public rights of navigation plan |
 | --- | --- | --- |
@@ -32,13 +32,13 @@ Article 16
 | Plainville Lane | AP101, AP102 | Section B, Sheet 1 |
 | Murton Way | AP103, AP104 | Section A, Sheet 1 |
 
-### PART 2 — LEEDS CITY COUNCIL[^key-4b995e39da8d6c42ff27292c38893c68]
+### PART 2 — LEEDS CITY COUNCIL[^c-4b995e39da8d6c42ff27292c38893c68]
 
 | (1) Street name | (2) Access reference as shown on the access, rights of way and public rights of navigation plan | (3) Plan Reference for the access, rights of way and public rights of navigation plan |
 | --- | --- | --- |
 | Warren Lane | AP36, AP37, AP38 | Section D, Sheet 2 of the Access and Rights of Way plans |
 
-### PART 3 — NORTH YORKSHIRE COUNCIL[^key-c5c9de935a7de38d9c824d308c317d17]
+### PART 3 — NORTH YORKSHIRE COUNCIL[^c-c5c9de935a7de38d9c824d308c317d17]
 
 | (1) Street name | (2) Access reference as shown on the access, rights of way and public rights of navigation plan | (3) Plan Reference for the access, rights of way and public rights of navigation plan |
 | --- | --- | --- |
@@ -83,8 +83,8 @@ Article 16
 
 ## Annotations
 
-[^key-cef862f7b452d12fc63d721ba24e1cbf]: Commencement: Sch. 9 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-cef862f7b452d12fc63d721ba24e1cbf]: Commencement: Sch. 9 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-4b995e39da8d6c42ff27292c38893c68]: Commencement: Sch. 9 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-4b995e39da8d6c42ff27292c38893c68]: Commencement: Sch. 9 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-c5c9de935a7de38d9c824d308c317d17]: Commencement: Sch. 9 Pt. 3 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-c5c9de935a7de38d9c824d308c317d17]: Commencement: Sch. 9 Pt. 3 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

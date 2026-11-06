@@ -38,7 +38,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Engaging in course of abusive behaviour
 
-#### 1. Abusive behaviour towards partner or ex-partner[^key-25992f3b870d285af3a9db4048e8855c]
+#### 1. Abusive behaviour towards partner or ex-partner[^c-25992f3b870d285af3a9db4048e8855c]
 
 (1) A person commits an offence if—
 
@@ -54,7 +54,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) In the further conditions, the references to psychological harm include fear, alarm and distress.
 
-#### 2. What constitutes abusive behaviour[^key-571952b6b1be55b6ebca1088507ec63d]
+#### 2. What constitutes abusive behaviour[^c-571952b6b1be55b6ebca1088507ec63d]
 
 (1) Subsections (2) to (4) elaborate on section 1(1) as to A's behaviour.
 
@@ -78,7 +78,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) in paragraph (a), the reference to violent behaviour includes sexual violence as well as physical violence,
 - (b) in paragraph (b), the reference to a child is to a person who is under 18 years of age.
 
-#### 3. Extra-territorial jurisdiction[^key-6fe1ba22395d5e8ca2692354911a10a8]
+#### 3. Extra-territorial jurisdiction[^c-6fe1ba22395d5e8ca2692354911a10a8]
 
 (1) An offence under section 1(1) can be constituted by a course of behaviour engaged in by A even if the course of behaviour occurs wholly or partly outside the United Kingdom.
 
@@ -104,7 +104,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Evidence, aggravation and defence
 
-#### 4. Evidence of impact on victim[^key-0ffa417edc5e652eaa32644da87055ab]
+#### 4. Evidence of impact on victim[^c-0ffa417edc5e652eaa32644da87055ab]
 
 (1) The commission of an offence under section 1(1) does not depend on the course of behaviour actually causing B to suffer harm of the sort mentioned in section 1(2).
 
@@ -115,7 +115,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) harm actually suffered by B as a result of the course of behaviour, or
 - (b) effects actually had on B of behaviour directed at someone.
 
-#### 5. Aggravation in relation to a child[^key-2b3ae3878050aeeafdd736ab2a2b00bc]
+#### 5. Aggravation in relation to a child[^c-2b3ae3878050aeeafdd736ab2a2b00bc]
 
 (1) This subsection applies where it is, in proceedings for an offence under section 1(1)—
 
@@ -163,7 +163,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) is not A or B, and
 - (b) is under 18 years of age.
 
-#### 6. Defence on grounds of reasonableness[^key-f6e44b74b8c211a0e903e903a5f892b4]
+#### 6. Defence on grounds of reasonableness[^c-f6e44b74b8c211a0e903e903a5f892b4]
 
 (1) In proceedings for an offence under section 1(1), it is a defence for A to show that the course of behaviour was reasonable in the particular circumstances.
 
@@ -174,7 +174,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Presumption, alternative and penalty
 
-#### 7. Presumption as to the relationship[^key-4d493352d7e2ef62359c60c33c436478]
+#### 7. Presumption as to the relationship[^c-4d493352d7e2ef62359c60c33c436478]
 
 (1) In proceedings for an offence under section 1(1), the matter of B being A's partner or ex-partner is to be taken as established—
 
@@ -188,7 +188,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (ii) later objection as the court allows in special circumstances,
 - (b) in proceedings on indictment, by giving notice of a preliminary objection in accordance with section 71(2) or 72(6)(b)(i) of the Criminal Procedure (Scotland) Act 1995.
 
-#### 8. Alternative available for conviction[^key-25f9d54a92d0589e441b4e804aa0af3b]
+#### 8. Alternative available for conviction[^c-25f9d54a92d0589e441b4e804aa0af3b]
 
 (1) In proceedings for an offence under section 1(1), A may be convicted of an alternative offence if the facts proved against A—
 
@@ -200,7 +200,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) an offence under section 38(1) (threatening or abusive behaviour) of the Criminal Justice and Licensing (Scotland) Act 2010,
 - (b) an offence under section 39 (offence of stalking) of that Act.
 
-#### 9. Penalty for offence under section 1(1)[^key-f0c41e1f21321c768d33fb43eb402888]
+#### 9. Penalty for offence under section 1(1)[^c-f0c41e1f21321c768d33fb43eb402888]
 
 A person who commits an offence under section 1(1) is liable—
 
@@ -209,7 +209,7 @@ A person who commits an offence under section 1(1) is liable—
 
 ### Meaning given to key expressions
 
-#### 10. Meaning of references to behaviour[^key-46302268d8cf0dddecaa308083ef5bcb]
+#### 10. Meaning of references to behaviour[^c-46302268d8cf0dddecaa308083ef5bcb]
 
 (1) Subsections (2) to (4) explain what is meant by the references to behaviour in this Part.
 
@@ -229,7 +229,7 @@ as well as behaviour in a personal or direct manner.
 
 (4) A course of behaviour involves behaviour on at least two occasions.
 
-#### 11. Meaning of partner and ex-partner[^key-041fc90aa89b1c17bbb48e24d1c6bb4f]
+#### 11. Meaning of partner and ex-partner[^c-041fc90aa89b1c17bbb48e24d1c6bb4f]
 
 (1) Subsections (2) and (3) describe who is a person's partner or ex-partner as referred to in this Part.
 
@@ -245,7 +245,7 @@ as well as behaviour in a personal or direct manner.
 
 ### Schedule, regulations and reporting
 
-#### 12. The 1995 Act etc.[^key-b8f5ae4c88c027b3a4d6f8e997a5c4a7]
+#### 12. The 1995 Act etc.[^c-b8f5ae4c88c027b3a4d6f8e997a5c4a7]
 
 (1) The schedule modifies the 1995 Act and some other enactments in various respects, including under several headings as to rules of criminal procedure—
 
@@ -273,7 +273,7 @@ as well as behaviour in a personal or direct manner.
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) otherwise, are subject to the negative procedure.
 
-#### 14. Reporting requirement[^key-c601b33cc97fa0d7c48e7d2b52a3f07e]
+#### 14. Reporting requirement[^c-c601b33cc97fa0d7c48e7d2b52a3f07e]
 
 (1) The Scottish Ministers must prepare a report on the use of, during the reporting period—
 
@@ -337,7 +337,7 @@ This short title of this Act is the Domestic Abuse (Scotland) Act 2018.
 
 #### CHAPTER 1 — RESTRICTION ON BAIL IN SOLEMN CASES
 
-**1.**[^key-76f7bbdd26ece6230b0ec1fb891da078] (1) The 1995 Act is amended as follows.
+**1.**[^c-76f7bbdd26ece6230b0ec1fb891da078] (1) The 1995 Act is amended as follows.
 
 (2) In section 23D—
 
@@ -367,7 +367,7 @@ This short title of this Act is the Domestic Abuse (Scotland) Act 2018.
 
 ##### Bail condition concerning precognition
 
-**2.**[^key-9406e0284b798f10c6b62119389c9ff3] (1) The 1995 Act is amended as follows.
+**2.**[^c-9406e0284b798f10c6b62119389c9ff3] (1) The 1995 Act is amended as follows.
 
 (2) In section 24—
 
@@ -385,11 +385,11 @@ This short title of this Act is the Domestic Abuse (Scotland) Act 2018.
 
 ##### Prohibition on conduct of own defence
 
-**3.**[^key-157d35dd516dea9fc5e71e9221020e77] (1) The Legal Aid (Scotland) Act 1986 is amended as follows.
+**3.**[^c-157d35dd516dea9fc5e71e9221020e77] (1) The Legal Aid (Scotland) Act 1986 is amended as follows.
 
 (2) In section 22, in subsection (1)(dd), for the words “sexual offence” there is substituted “ certain offences ”.
 
-**4.**[^key-e7b71021ca09baf52559078866ba2b83] (1) The 1995 Act is amended as follows.
+**4.**[^c-e7b71021ca09baf52559078866ba2b83] (1) The 1995 Act is amended as follows.
 
 (2) In section 35—
 
@@ -538,7 +538,7 @@ after the words “section 288C” there is inserted “ or 288DC ”.
 
 .
 
-**5.**[^key-64ce85e2c15ab6bfaed1c93527d88299] (1) The Criminal Justice (Scotland) Act 2016 is amended as follows.
+**5.**[^c-64ce85e2c15ab6bfaed1c93527d88299] (1) The Criminal Justice (Scotland) Act 2016 is amended as follows.
 
 (2) In section 20—
 
@@ -561,7 +561,7 @@ after the words “section 288C” there is inserted “ or 288DC ”.
 
 ##### Special measures for vulnerable witnesses
 
-**6.**[^key-5b5be0f31c3277866e1541487b2dc3ad] (1) The 1995 Act is amended as follows.
+**6.**[^c-5b5be0f31c3277866e1541487b2dc3ad] (1) The 1995 Act is amended as follows.
 
 (2) In section 271B, in subsection (2)—
 
@@ -576,7 +576,7 @@ after the words “section 288C” there is inserted “ or 288DC ”.
 
 ##### Presentation of certain expert evidence
 
-**7.**[^key-3dcbfbd9ad9b958b69b46a3ff1fd484b] (1) The 1995 Act is amended as follows.
+**7.**[^c-3dcbfbd9ad9b958b69b46a3ff1fd484b] (1) The 1995 Act is amended as follows.
 
 (2) In section 275C—
 
@@ -598,7 +598,7 @@ after the words “section 288C” there is inserted “ or 288DC ”.
 
 ##### Victim safety in relation to sentencing
 
-**8.**[^key-b9b967cb6bc11753b73a486d7bde02ab] (1) The 1995 Act is amended as follows.
+**8.**[^c-b9b967cb6bc11753b73a486d7bde02ab] (1) The 1995 Act is amended as follows.
 
 (2) After section 210AA there is inserted—
 
@@ -619,7 +619,7 @@ after the words “section 288C” there is inserted “ or 288DC ”.
 
 ##### Consideration of non-harassment order
 
-**9.**[^key-1bcb797fd8fc48d4476927821813eec5] (1) The 1995 Act is amended as follows.
+**9.**[^c-1bcb797fd8fc48d4476927821813eec5] (1) The 1995 Act is amended as follows.
 
 (2) After section 234A there is inserted—
 
@@ -669,7 +669,7 @@ after the words “section 288C” there is inserted “ or 288DC ”.
 
 ### PART 2 — MINOR AND CONSEQUENTIAL AMENDMENTS
 
-**10.**[^key-e9437469be8bdf83417331c6750ad0c2] (1) The 1995 Act is amended as follows.
+**10.**[^c-e9437469be8bdf83417331c6750ad0c2] (1) The 1995 Act is amended as follows.
 
 (2) In section 79 (preliminary pleas and preliminary issues), after paragraph (c) of subsection (3A) there is inserted—
 
@@ -677,7 +677,7 @@ after the words “section 288C” there is inserted “ or 288DC ”.
 
 .
 
-**11.**[^key-2caa2f136b18944418e93f32af37e6e6] (1) The Abusive Behaviour and Sexual Harm (Scotland) Act 2016 is amended as follows.
+**11.**[^c-2caa2f136b18944418e93f32af37e6e6] (1) The Abusive Behaviour and Sexual Harm (Scotland) Act 2016 is amended as follows.
 
 (2) In section 1 (aggravation of offence where abuse of partner or ex-partner), in subsection (6)(b), the words “or civil partners” are repealed.
 
@@ -701,50 +701,50 @@ after the words “section 288C” there is inserted “ or 288DC ”.
 
 ## Annotations
 
-[^key-25992f3b870d285af3a9db4048e8855c]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/5/section/1) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
+[^c-25992f3b870d285af3a9db4048e8855c]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/5/section/1) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
 
-[^key-571952b6b1be55b6ebca1088507ec63d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/5/section/2) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
+[^c-571952b6b1be55b6ebca1088507ec63d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/5/section/2) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
 
-[^key-6fe1ba22395d5e8ca2692354911a10a8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/5/section/3) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
+[^c-6fe1ba22395d5e8ca2692354911a10a8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/5/section/3) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
 
-[^key-0ffa417edc5e652eaa32644da87055ab]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/5/section/4) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
+[^c-0ffa417edc5e652eaa32644da87055ab]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/5/section/4) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
 
-[^key-2b3ae3878050aeeafdd736ab2a2b00bc]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/5/section/5) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
+[^c-2b3ae3878050aeeafdd736ab2a2b00bc]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/5/section/5) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
 
-[^key-f6e44b74b8c211a0e903e903a5f892b4]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/5/section/6) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
+[^c-f6e44b74b8c211a0e903e903a5f892b4]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/5/section/6) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
 
-[^key-4d493352d7e2ef62359c60c33c436478]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/5/section/7) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
+[^c-4d493352d7e2ef62359c60c33c436478]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/5/section/7) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
 
-[^key-25f9d54a92d0589e441b4e804aa0af3b]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/5/section/8) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
+[^c-25f9d54a92d0589e441b4e804aa0af3b]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/5/section/8) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
 
-[^key-f0c41e1f21321c768d33fb43eb402888]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/5/section/9) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
+[^c-f0c41e1f21321c768d33fb43eb402888]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/5/section/9) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
 
-[^key-46302268d8cf0dddecaa308083ef5bcb]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/5/section/10) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
+[^c-46302268d8cf0dddecaa308083ef5bcb]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/5/section/10) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
 
-[^key-041fc90aa89b1c17bbb48e24d1c6bb4f]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2018/5/section/11) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
+[^c-041fc90aa89b1c17bbb48e24d1c6bb4f]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2018/5/section/11) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/387/regulation/4))
 
-[^key-b8f5ae4c88c027b3a4d6f8e997a5c4a7]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2018/5/section/12) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2)
+[^c-b8f5ae4c88c027b3a4d6f8e997a5c4a7]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2018/5/section/12) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2)
 
-[^key-c601b33cc97fa0d7c48e7d2b52a3f07e]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/5/section/14) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2018/387/regulation/5))
+[^c-c601b33cc97fa0d7c48e7d2b52a3f07e]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/5/section/14) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 5](https://www.legislation.gov.uk/ssi/2018/387/regulation/5))
 
-[^key-76f7bbdd26ece6230b0ec1fb891da078]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/1) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 6](https://www.legislation.gov.uk/ssi/2018/387/regulation/6))
+[^c-76f7bbdd26ece6230b0ec1fb891da078]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/1) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 6](https://www.legislation.gov.uk/ssi/2018/387/regulation/6))
 
-[^key-9406e0284b798f10c6b62119389c9ff3]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/2) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 6](https://www.legislation.gov.uk/ssi/2018/387/regulation/6))
+[^c-9406e0284b798f10c6b62119389c9ff3]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/2) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 6](https://www.legislation.gov.uk/ssi/2018/387/regulation/6))
 
-[^key-157d35dd516dea9fc5e71e9221020e77]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/3) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-157d35dd516dea9fc5e71e9221020e77]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/3) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
 
-[^key-e7b71021ca09baf52559078866ba2b83]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/4) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-e7b71021ca09baf52559078866ba2b83]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/4) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
 
-[^key-64ce85e2c15ab6bfaed1c93527d88299]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/5) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-64ce85e2c15ab6bfaed1c93527d88299]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/5) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
 
-[^key-5b5be0f31c3277866e1541487b2dc3ad]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/6) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-5b5be0f31c3277866e1541487b2dc3ad]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/6) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
 
-[^key-3dcbfbd9ad9b958b69b46a3ff1fd484b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/7) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-3dcbfbd9ad9b958b69b46a3ff1fd484b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/7) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
 
-[^key-b9b967cb6bc11753b73a486d7bde02ab]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/8) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-b9b967cb6bc11753b73a486d7bde02ab]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/8) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
 
-[^key-1bcb797fd8fc48d4476927821813eec5]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/9) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-1bcb797fd8fc48d4476927821813eec5]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/9) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
 
-[^key-e9437469be8bdf83417331c6750ad0c2]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/10) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-e9437469be8bdf83417331c6750ad0c2]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/10) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
 
-[^key-2caa2f136b18944418e93f32af37e6e6]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/11) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))
+[^c-2caa2f136b18944418e93f32af37e6e6]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/asp/2018/5/schedule/paragraph/11) in force at 1.4.2019 by [S.S.I. 2018/387](https://www.legislation.gov.uk/ssi/2018/387), [reg. 2](https://www.legislation.gov.uk/ssi/2018/387/regulation/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/387/regulation/7))

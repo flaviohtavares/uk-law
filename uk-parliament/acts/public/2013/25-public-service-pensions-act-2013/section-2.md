@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Responsible authority for schemes[^key-c21c08a97077fd0b069f04afbec549fd]
+## 2. Responsible authority for schemes[^c-c21c08a97077fd0b069f04afbec549fd]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c21c08a97077fd0b069f04afbec549fd]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/25/section/2) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/433/article/2/b)
+[^c-c21c08a97077fd0b069f04afbec549fd]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2013/25/section/2) in force at 28.2.2014 by [S.I. 2014/433](https://www.legislation.gov.uk/uksi/2014/433), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/433/article/2/b)

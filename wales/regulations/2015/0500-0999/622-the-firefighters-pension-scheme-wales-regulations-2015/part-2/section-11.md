@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Scheme advisory board: membership[^key-baeba5cad9415e259d37ad72de06e5c5]
+## 11. Scheme advisory board: membership[^c-baeba5cad9415e259d37ad72de06e5c5]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baeba5cad9415e259d37ad72de06e5c5]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-baeba5cad9415e259d37ad72de06e5c5]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

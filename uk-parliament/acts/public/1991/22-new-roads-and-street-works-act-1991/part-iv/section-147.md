@@ -38,10 +38,10 @@ References in this Part to apparatus in the road include apparatus so placed or 
 - (a) to give the bridge authority reasonable facilities for monitoring the execution of the works, and
 - (b) to comply with any requirement made by them which is reasonably necesssary for the protection of the bridge or for securing access to it.
 
-(6) An undertaker who fails to comply with any requirement of subsection (4) or (5) commits an offence in respect of each failure and is liable on summary conviction to a fine not exceeding level 5[^key-643a3466262c9b26753e49d603b29897] on the standard scale.
+(6) An undertaker who fails to comply with any requirement of subsection (4) or (5) commits an offence in respect of each failure and is liable on summary conviction to a fine not exceeding level 5[^c-643a3466262c9b26753e49d603b29897] on the standard scale.
 
 (7) Subsections (4) to (6) do not apply to works in relation to which Schedule 6 applies (works in roads with special engineering difficulties).
 
 ## Annotations
 
-[^key-643a3466262c9b26753e49d603b29897]: Textual amendment: Words in [s. 147(6)](https://www.legislation.gov.uk/ukpga/1991/22/section/147/6) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)
+[^c-643a3466262c9b26753e49d603b29897]: Textual amendment: Words in [s. 147(6)](https://www.legislation.gov.uk/ukpga/1991/22/section/147/6) substituted (1.4.2008) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [s. 54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2), [sch. 3](https://www.legislation.gov.uk/asp/2005/12/schedule/3); [S.S.I. 2008/15](https://www.legislation.gov.uk/ssi/2008/15), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/15/article/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2008/15/schedule/1)

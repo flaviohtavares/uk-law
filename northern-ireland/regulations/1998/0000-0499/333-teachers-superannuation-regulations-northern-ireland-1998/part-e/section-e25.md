@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E25. Amount and duration of short-term family benefits[^key-7ccbb6d9a088426eec6bd8118b713202]
+## E25. Amount and duration of short-term family benefits[^c-7ccbb6d9a088426eec6bd8118b713202]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ the annual rate of the short-term pension is the same as that of the long-term p
 
 ## Annotations
 
-[^key-7ccbb6d9a088426eec6bd8118b713202]: Commencement: Reg. E25 in operation at 2.11.1998, see reg. A1
+[^c-7ccbb6d9a088426eec6bd8118b713202]: Commencement: Reg. E25 in operation at 2.11.1998, see reg. A1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147L. Assessment of unpaid apprenticeship levy[^key-937f54e360ea7aaf085cc7de2b061d0b]
+## 147L. Assessment of unpaid apprenticeship levy[^c-937f54e360ea7aaf085cc7de2b061d0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,12 +34,12 @@ summary: ''
   - (i) a class or classes of employees specified in the notice of assessment (without naming the individual employees), or
   - (ii) one or more named employees specified in the notice.
 
-(4) Section 30A of TMA[^key-c9fc7e0c8b9ae12bb2a9e44797a445be] (assessing procedure) applies in relation to an assessment under this regulation as it applies in relation to an assessment to income tax.
+(4) Section 30A of TMA[^c-c9fc7e0c8b9ae12bb2a9e44797a445be] (assessing procedure) applies in relation to an assessment under this regulation as it applies in relation to an assessment to income tax.
 
 (5) Any amount of apprenticeship levy which is payable by virtue of an assessment made under this regulation shall be payable on the day following the end of the period of 30 days beginning with the day on which the notice of assessment is served.
 
 ## Annotations
 
-[^key-937f54e360ea7aaf085cc7de2b061d0b]: Textual amendment: Pt. 7A inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/414/regulation/3)
+[^c-937f54e360ea7aaf085cc7de2b061d0b]: Textual amendment: Pt. 7A inserted (6.4.2017) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2017 (S.I. 2017/414)](https://www.legislation.gov.uk/uksi/2017/414), [regs. 1](https://www.legislation.gov.uk/uksi/2017/414/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/414/regulation/3)
 
-[^key-c9fc7e0c8b9ae12bb2a9e44797a445be]: Textual amendment: Word in [reg. 147L(4)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/147L/4) substituted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2018 (S.I. 2018/267)](https://www.legislation.gov.uk/uksi/2018/267), [regs. 1](https://www.legislation.gov.uk/uksi/2018/267/regulation/1), [23](https://www.legislation.gov.uk/uksi/2018/267/regulation/23)
+[^c-c9fc7e0c8b9ae12bb2a9e44797a445be]: Textual amendment: Word in [reg. 147L(4)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/147L/4) substituted (6.4.2018) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2018 (S.I. 2018/267)](https://www.legislation.gov.uk/uksi/2018/267), [regs. 1](https://www.legislation.gov.uk/uksi/2018/267/regulation/1), [23](https://www.legislation.gov.uk/uksi/2018/267/regulation/23)

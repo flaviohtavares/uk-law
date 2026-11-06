@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Maximum sentence for certain offences to be life imprisonment[^key-2d427649e7df2f3f594b549b2d447b07]
+## 1. Maximum sentence for certain offences to be life imprisonment[^c-2d427649e7df2f3f594b549b2d447b07]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d427649e7df2f3f594b549b2d447b07]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/2/section/1) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/1)
+[^c-2d427649e7df2f3f594b549b2d447b07]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/2/section/1) in force at 13.4.2015 by [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/1)

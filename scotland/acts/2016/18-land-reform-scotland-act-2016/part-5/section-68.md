@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 68. Grants towards liabilities to pay compensation[^key-33c39d2e887d1eea6e3adce947dd7d5a]
+## 68. Grants towards liabilities to pay compensation[^c-33c39d2e887d1eea6e3adce947dd7d5a]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33c39d2e887d1eea6e3adce947dd7d5a]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2016/18/section/68) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)
+[^c-33c39d2e887d1eea6e3adce947dd7d5a]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2016/18/section/68) in force at 26.4.2020 by [S.S.I. 2020/20](https://www.legislation.gov.uk/ssi/2020/20), [reg. 2](https://www.legislation.gov.uk/ssi/2020/20/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/20/schedule)

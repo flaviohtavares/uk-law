@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Aircraft operator: change in regulator[^key-dbccfba9c22dca50011b401cd4ca6bc3]
+## 12. Aircraft operator: change in regulator[^c-dbccfba9c22dca50011b401cd4ca6bc3]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 - (b) B; and
 - (c) the UK ETS authority,
 
-that C is the regulator of A from 1st January 2026[^key-1c637cda9f0fb0aec45386034e2f8b92].
+that C is the regulator of A from 1st January 2026[^c-1c637cda9f0fb0aec45386034e2f8b92].
 
 (3) A notice under paragraph (2) must be accompanied by evidence demonstrating that the highest percentage of aviation emissions of A in the 2023 and 2024 scheme years is attributable to flights departing from aerodromes situated in the area of C.
 
@@ -45,6 +45,6 @@ that C is the regulator of A from 1st January 2026[^key-1c637cda9f0fb0aec4538603
 
 ## Annotations
 
-[^key-dbccfba9c22dca50011b401cd4ca6bc3]: Commencement: Art. 12 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-dbccfba9c22dca50011b401cd4ca6bc3]: Commencement: Art. 12 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
 
-[^key-1c637cda9f0fb0aec45386034e2f8b92]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2020/1265/article/12/2) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [14(2)](https://www.legislation.gov.uk/uksi/2025/124/article/14/2)
+[^c-1c637cda9f0fb0aec45386034e2f8b92]: Textual amendment: Words in [art. 12(2)](https://www.legislation.gov.uk/uksi/2020/1265/article/12/2) substituted (31.3.2025) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2025 (S.I. 2025/124)](https://www.legislation.gov.uk/uksi/2025/124), [arts. 2](https://www.legislation.gov.uk/uksi/2025/124/article/2), [14(2)](https://www.legislation.gov.uk/uksi/2025/124/article/14/2)

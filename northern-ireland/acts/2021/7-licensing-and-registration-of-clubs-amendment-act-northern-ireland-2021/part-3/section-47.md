@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47. Commencement and short title[^key-388dc2f7e38783ac9bb0cb022b3101bc]
+## 47. Commencement and short title[^c-388dc2f7e38783ac9bb0cb022b3101bc]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-388dc2f7e38783ac9bb0cb022b3101bc]: Commencement: S. 47 in operation at 27.8.2021, see [s. 47(1)(c)](https://www.legislation.gov.uk/nia/2021/7/section/47/1/c)
+[^c-388dc2f7e38783ac9bb0cb022b3101bc]: Commencement: S. 47 in operation at 27.8.2021, see [s. 47(1)(c)](https://www.legislation.gov.uk/nia/2021/7/section/47/1/c)

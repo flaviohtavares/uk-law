@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Qualifications in information technology: payment of tuition fees[^key-bd09225141fbc905e966f29f3ea8e389]
+## 114. Qualifications in information technology: payment of tuition fees[^c-bd09225141fbc905e966f29f3ea8e389]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd09225141fbc905e966f29f3ea8e389]: Commencement: S. 114 in force at 1.8.2020 by [S.I. 2020/70](https://www.legislation.gov.uk/uksi/2020/70), [reg. 2](https://www.legislation.gov.uk/uksi/2020/70/regulation/2)
+[^c-bd09225141fbc905e966f29f3ea8e389]: Commencement: S. 114 in force at 1.8.2020 by [S.I. 2020/70](https://www.legislation.gov.uk/uksi/2020/70), [reg. 2](https://www.legislation.gov.uk/uksi/2020/70/regulation/2)

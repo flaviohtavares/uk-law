@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. For the protection of operators of electronic communications apparatus[^key-db84896e665a6a2df138caf0e63314b7]
+## 45. For the protection of operators of electronic communications apparatus[^c-db84896e665a6a2df138caf0e63314b7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The provisions of Schedule 13 (for the protection of operators of electronic com
 
 ## Annotations
 
-[^key-db84896e665a6a2df138caf0e63314b7]: Commencement: Art. 45 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)
+[^c-db84896e665a6a2df138caf0e63314b7]: Commencement: Art. 45 in force at 12.1.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1)

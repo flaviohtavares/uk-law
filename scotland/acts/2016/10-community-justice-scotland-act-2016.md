@@ -123,13 +123,13 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Community Justice Scotland
 
-### 3. Establishment[^key-95b1937fbb5947458e35d5b8e24f2028][^key-41c56b47ddc72addb1881f7be7202215]
+### 3. Establishment[^c-95b1937fbb5947458e35d5b8e24f2028][^c-41c56b47ddc72addb1881f7be7202215]
 
 (1) Community Justice Scotland (in Gaelic, Ceartas Coimhearsnachd Alba) is established.
 
 (2) Schedule 1 makes further provision about the constitution of Community Justice Scotland.
 
-### 4. Functions[^key-c7655ff74174de48b330874e288aa902]
+### 4. Functions[^c-c7655ff74174de48b330874e288aa902]
 
 (1) Community Justice Scotland's main functions are—
 
@@ -169,18 +169,18 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (8) Regulations under subsection (5) are subject to the affirmative procedure.
 
-### 5. General powers[^key-bc916975338e7b5ff3af8e35ced9a0c8]
+### 5. General powers[^c-bc916975338e7b5ff3af8e35ced9a0c8]
 
 Community Justice Scotland may do anything which appears to it—
 
 - (a) to be necessary or expedient for the purposes of, or in connection with, the exercise of its functions,
 - (b) to be otherwise conducive to the exercise of its functions.
 
-### 6. Provision of information, advice and assistance[^key-29b219e6fccd109ce82fc194dd63a9d1]
+### 6. Provision of information, advice and assistance[^c-29b219e6fccd109ce82fc194dd63a9d1]
 
 A community justice partner (other than the Scottish Ministers) must comply with any reasonable request from Community Justice Scotland to provide information, advice or assistance to it for the purposes of, or in any connection with, any of its functions.
 
-### 7. Funding[^key-13f3e66f1a8d539267171e244f2bad6d]
+### 7. Funding[^c-13f3e66f1a8d539267171e244f2bad6d]
 
 (1) The Scottish Ministers may make grants to Community Justice Scotland.
 
@@ -191,7 +191,7 @@ A community justice partner (other than the Scottish Ministers) must comply with
 
 (3) A grant under this section is subject to such conditions (including as to repayment) as the Scottish Ministers may determine.
 
-### 8. Directions and guidance[^key-55a6ab948fe2e1a6a0f55ecc9993973b]
+### 8. Directions and guidance[^c-55a6ab948fe2e1a6a0f55ecc9993973b]
 
 (1) Community Justice Scotland must—
 
@@ -207,14 +207,14 @@ A community justice partner (other than the Scottish Ministers) must comply with
 
 (4) Subsections (1) to (3) apply to a direction or guidance which has been varied under subsection (3) as they apply to the original direction or guidance.
 
-### 9. Governance and accountability[^key-b85cdc2ad83746381fbb12987b95b96a]
+### 9. Governance and accountability[^c-b85cdc2ad83746381fbb12987b95b96a]
 
 Community Justice Scotland must, so far as reasonably practicable, operate in a way which—
 
 - (a) is proportionate, transparent and accountable, and
 - (b) is consistent with any other principle of good governance which appears to it to constitute best practice.
 
-### 10. Corporate plan[^key-f28349d4ee33c0da9ed242c7bb90f77e]
+### 10. Corporate plan[^c-f28349d4ee33c0da9ed242c7bb90f77e]
 
 (1) Community Justice Scotland must prepare for approval by the Scottish Ministers a plan setting out how it intends to exercise its functions.
 
@@ -250,7 +250,7 @@ Community Justice Scotland must, so far as reasonably practicable, operate in a 
 
 (11) Subsections (2), (3) and (5) to (10) apply to a revised plan as they apply to the original plan.
 
-### 11. Annual reports on exercise of functions[^key-ededeb1b746827ee0f9b85372c5804ba]
+### 11. Annual reports on exercise of functions[^c-ededeb1b746827ee0f9b85372c5804ba]
 
 (1) Community Justice Scotland must, as soon as reasonably practicable after the end of each financial year—
 
@@ -269,7 +269,7 @@ Community Justice Scotland must, so far as reasonably practicable, operate in a 
 
 (5) As soon as practicable after a copy of a report has been laid before the Scottish Parliament under subsection (4), Community Justice Scotland must publish the report.
 
-### 12. Accounts[^key-c77c367dd3b9dfa33ee0a16f313f03ca]
+### 12. Accounts[^c-c77c367dd3b9dfa33ee0a16f313f03ca]
 
 (1) Community Justice Scotland must—
 
@@ -297,7 +297,7 @@ Community Justice Scotland must, so far as reasonably practicable, operate in a 
 - (g) the Scottish Courts and Tribunals Service, and
 - (h) the Scottish Ministers.
 
-(2)[^key-d02cdb42880db740438c39977d0b5263] References in this Act to the community justice partners for the area of a local authority are references to the following persons, acting jointly—
+(2)[^c-d02cdb42880db740438c39977d0b5263] References in this Act to the community justice partners for the area of a local authority are references to the following persons, acting jointly—
 
 - (a) the local authority for the area,
 - (b) the health board for the area, or within whose area the area of the local authority falls,
@@ -308,9 +308,9 @@ Community Justice Scotland must, so far as reasonably practicable, operate in a 
 - (g) the Scottish Courts and Tribunals Service, and
 - (h) the Scottish Ministers.
 
-(3)[^key-d02cdb42880db740438c39977d0b5263] The Scottish Ministers may by regulations modify subsection (1) or (2).
+(3)[^c-d02cdb42880db740438c39977d0b5263] The Scottish Ministers may by regulations modify subsection (1) or (2).
 
-(4)[^key-d02cdb42880db740438c39977d0b5263] Regulations under subsection (3) are subject to the affirmative procedure.
+(4)[^c-d02cdb42880db740438c39977d0b5263] Regulations under subsection (3) are subject to the affirmative procedure.
 
 ## Third sector bodies involved in community justice
 
@@ -342,7 +342,7 @@ Community Justice Scotland must, so far as reasonably practicable, operate in a 
 
 (6) In subsection (5)(b), “**victims**” means persons who are, or appear to be, victims of offences or alleged offences.
 
-(7)[^key-245138ab97feb096b8cedcf172fb7a25] A third sector body is involved in community justice in relation to the area of a local authority for the purposes of this Act if it does a thing mentioned in subsection (1) in, or in relation to, the area.
+(7)[^c-245138ab97feb096b8cedcf172fb7a25] A third sector body is involved in community justice in relation to the area of a local authority for the purposes of this Act if it does a thing mentioned in subsection (1) in, or in relation to, the area.
 
 ## National strategy and performance framework
 
@@ -368,7 +368,7 @@ Community Justice Scotland must, so far as reasonably practicable, operate in a 
 
 (6) As soon as reasonably practicable after the strategy has been published under subsection (1), the Scottish Ministers must lay a copy of it before the Scottish Parliament.
 
-### 16. Review of national strategy[^key-0cb29eb25bf45205d9dde1fc23b088e3]
+### 16. Review of national strategy[^c-0cb29eb25bf45205d9dde1fc23b088e3]
 
 (1) The Scottish Ministers must review the strategy published under section 15(1)—
 
@@ -422,7 +422,7 @@ Community Justice Scotland must, so far as reasonably practicable, operate in a 
 
 (6) Subsection (5) is complied with even if the consultation has been undertaken, or initiated, before this section comes into force.
 
-### 18. Review of national performance framework[^key-7dbf5f8867bab8674bb6b379bfbe19f4]
+### 18. Review of national performance framework[^c-7dbf5f8867bab8674bb6b379bfbe19f4]
 
 (1) Community Justice Scotland must review the framework published under section 17(1)—
 
@@ -461,7 +461,7 @@ Community Justice Scotland must, so far as reasonably practicable, operate in a 
 
 ## Community justice outcomes improvement planning and reporting
 
-### 19. Community justice outcomes improvement plan[^key-26b03a38ed2743dab5031c9ce9d8c90b]
+### 19. Community justice outcomes improvement plan[^c-26b03a38ed2743dab5031c9ce9d8c90b]
 
 (1) The community justice partners for the area of a local authority must, in accordance with such provision as to timing as the Scottish Ministers make by regulations, publish a plan in relation to community justice for the area.
 
@@ -488,7 +488,7 @@ Community Justice Scotland must, so far as reasonably practicable, operate in a 
 
 (8) Regulations under subsection (1) are subject to the negative procedure.
 
-### 20. Preparation of community justice outcomes improvement plan[^key-3faad6ca046f90f2ef59b606f9e5dde5]
+### 20. Preparation of community justice outcomes improvement plan[^c-3faad6ca046f90f2ef59b606f9e5dde5]
 
 (1) This section applies in relation to preparing the plan for the area of a local authority under section 19.
 
@@ -520,7 +520,7 @@ Community Justice Scotland must, so far as reasonably practicable, operate in a 
 - (b) each body falling within subsection (5) which is not participating in the preparation of the plan by virtue of subsection (4), and
 - (c) such other persons as they consider appropriate.
 
-### 21. Community justice outcomes improvement plan: participation statement[^key-20cf7b466b5232c63355b85a5808042c]
+### 21. Community justice outcomes improvement plan: participation statement[^c-20cf7b466b5232c63355b85a5808042c]
 
 (1) The community justice partners for the area of a local authority must prepare a statement setting out, in relation to their plan under section 19—
 
@@ -531,7 +531,7 @@ Community Justice Scotland must, so far as reasonably practicable, operate in a 
 
 (3) If the statement is not so incorporated, the community justice partners for the area must, as soon as reasonably practicable after the plan under section 19 to which it relates is published, publish the statement and then send a copy to Community Justice Scotland.
 
-### 22. Review of community justice outcomes improvement plan[^key-843bfbd883c67b00b7b4884b14072fa1]
+### 22. Review of community justice outcomes improvement plan[^c-843bfbd883c67b00b7b4884b14072fa1]
 
 (1) The community justice partners for the area of a local authority must review the plan for that area published under section 19(1)—
 
@@ -560,7 +560,7 @@ Community Justice Scotland must, so far as reasonably practicable, operate in a 
 - (a) ceases to apply in relation to the previous plan, and
 - (b) applies instead in relation to the revised plan (as it applied in relation to the plan published under section 19(1)).
 
-### 23. Reports on performance in relation to community justice outcomes[^key-28530ce40c2f8567e054ed926fdb7df2]
+### 23. Reports on performance in relation to community justice outcomes[^c-28530ce40c2f8567e054ed926fdb7df2]
 
 (1) The community justice partners for the area of a local authority must, as soon as reasonably practicable after—
 
@@ -593,7 +593,7 @@ publish a report setting out, in relation to each nationally determined outcome 
 
 (7) Regulations under subsection (1)(a) are subject to the negative procedure.
 
-### 24. Guidance in relation to exercise of functions in sections 19 to 23[^key-5165c819b05c694520978a219e63a40c]
+### 24. Guidance in relation to exercise of functions in sections 19 to 23[^c-5165c819b05c694520978a219e63a40c]
 
 (1) The community justice partners for the area of a local authority must have regard to any guidance issued by the Scottish Ministers about the exercise of the functions conferred on them by sections 19 to 23.
 
@@ -611,13 +611,13 @@ publish a report setting out, in relation to each nationally determined outcome 
 
 (5) The Scottish Ministers must publish any such guidance (or revised guidance).
 
-### 25. Duty to have regard to community justice outcomes improvement plan[^key-4ceaf3bcb0cdcd52aed879b911d55fed]
+### 25. Duty to have regard to community justice outcomes improvement plan[^c-4ceaf3bcb0cdcd52aed879b911d55fed]
 
 A community justice partner must, in exercising the partner's functions in relation to community justice in relation to the area of a particular local authority, have regard to the community justice outcomes improvement plan for the area.
 
 ## Performance in relation to community justice outcomes
 
-### 26. Monitoring of performance in relation to community justice outcomes[^key-6e4c2d8269a27a7f290733dc9ded3579]
+### 26. Monitoring of performance in relation to community justice outcomes[^c-6e4c2d8269a27a7f290733dc9ded3579]
 
 (1) In pursuance of section 4(1)(b), Community Justice Scotland must in relation to the area of each local authority—
 
@@ -642,7 +642,7 @@ A community justice partner must, in exercising the partner's functions in relat
 - “**relevant indicators**” has the same meaning as in section 23,
 - “**specified**” means specified in the direction.
 
-### 27. Annual report on performance in relation to community justice outcomes[^key-039b53e92d4ce40e5163be0d5ea8a0f6]
+### 27. Annual report on performance in relation to community justice outcomes[^c-039b53e92d4ce40e5163be0d5ea8a0f6]
 
 (1) In pursuance of section 4(1)(b), Community Justice Scotland must, as soon as reasonably practicable after 31 March in each year, publish a report setting out its assessment of performance in Scotland as a whole in relation to the achievement of the nationally determined outcomes.
 
@@ -656,7 +656,7 @@ A community justice partner must, in exercising the partner's functions in relat
 
 (4) As soon as reasonably practicable after a report has been published under subsection (1), Community Justice Scotland must lay a copy of it before the Scottish Parliament.
 
-### 28. Performance improvement activity[^key-1409bb4283d4ccbc315521747ff55442]
+### 28. Performance improvement activity[^c-1409bb4283d4ccbc315521747ff55442]
 
 (1) The powers conferred on Community Justice Scotland by section 5 include, in particular, power to do any of the things mentioned in subsection (2) in pursuance of section 4(1)(b).
 
@@ -671,7 +671,7 @@ A community justice partner must, in exercising the partner's functions in relat
 
 (3) In subsection (2), “**community justice outcomes improvement planning and reporting**” means the exercise of the functions conferred on the community justice partners for the areas of local authorities by sections 19 to 23.
 
-### 29. Local improvement recommendations[^key-c83f180ea0309c26bc39b113d382b8a9]
+### 29. Local improvement recommendations[^c-c83f180ea0309c26bc39b113d382b8a9]
 
 (1) A local improvement recommendation is a recommendation addressed to the community justice partners for the area of a local authority which sets out action which Community Justice Scotland considers—
 
@@ -689,7 +689,7 @@ A community justice partner must, in exercising the partner's functions in relat
 
 (3) In subsection (2), “**specified**” means specified in the direction.
 
-### 30. National improvement recommendations[^key-5721d93ace0a84f52ccedf4a14dec60f]
+### 30. National improvement recommendations[^c-5721d93ace0a84f52ccedf4a14dec60f]
 
 (1) A national improvement recommendation is a recommendation addressed to the Scottish Ministers which sets out action which Community Justice Scotland considers—
 
@@ -700,7 +700,7 @@ A community justice partner must, in exercising the partner's functions in relat
 
 ## Community Justice Scotland: developing and arranging services
 
-### 31. Ability of Community Justice Scotland to develop and arrange services[^key-81e41e65e71f000a0c53996403b639c0]
+### 31. Ability of Community Justice Scotland to develop and arrange services[^c-81e41e65e71f000a0c53996403b639c0]
 
 (1) The powers conferred on Community Justice Scotland by section 5 include, in particular, power to do any of the things mentioned in subsection (2) in pursuance of section 4(1)(c).
 
@@ -752,7 +752,7 @@ A community justice partner must, in exercising the partner's functions in relat
 
 ## Innovation, learning and development
 
-### 32. Strategy for innovation, learning and development[^key-9d6905947a940d4d0d88a24379585c18]
+### 32. Strategy for innovation, learning and development[^c-9d6905947a940d4d0d88a24379585c18]
 
 (1) In pursuance of section 4(1)(c), Community Justice Scotland must, no later than one year after this section comes into force, publish a strategy for innovation, learning and development in relation to community justice.
 
@@ -768,7 +768,7 @@ A community justice partner must, in exercising the partner's functions in relat
   - (ii) such third sector bodies involved in community justice as it considers appropriate, and
   - (iii) such other persons as it considers appropriate.
 
-### 33. Review of strategy for innovation, learning and development[^key-3777e7e9af430ceb9625a22ddb715570]
+### 33. Review of strategy for innovation, learning and development[^c-3777e7e9af430ceb9625a22ddb715570]
 
 (1) Community Justice Scotland must review the strategy published under section 32(1)—
 
@@ -797,7 +797,7 @@ A community justice partner must, in exercising the partner's functions in relat
 - (a) ceases to apply in relation to the previous strategy, and
 - (b) applies instead in relation to the revised strategy (as it applied in relation to the strategy published under section 32(1)).
 
-### 34. Innovation, learning and development activity[^key-47851e7f00a38c1f1bff174ac36a149b]
+### 34. Innovation, learning and development activity[^c-47851e7f00a38c1f1bff174ac36a149b]
 
 (1) The powers conferred on Community Justice Scotland by section 5 include, in particular, power to do any of the things mentioned in subsection (2)—
 
@@ -834,7 +834,7 @@ A community justice partner must, in exercising the partner's functions in relat
 - (d) the references to education include educational materials,
 - (e) the references to training include training materials.
 
-## Throughcare support[^key-eec7da42136235af92b996286590c11b]
+## Throughcare support[^c-eec7da42136235af92b996286590c11b]
 
 ### 34C. Throughcare support standards
 
@@ -932,7 +932,7 @@ A community justice partner must, in exercising the partner's functions in relat
 
 ## Co-operation in relation to community justice functions
 
-### 35. Duty of co-operation[^key-6893198144c6f8704ba61173565fcb10]
+### 35. Duty of co-operation[^c-6893198144c6f8704ba61173565fcb10]
 
 (1) Each person or group of persons falling within subsection (2) must so far as reasonably practicable co-operate, in the exercise of their respective functions in relation to community justice, with each other person or group of persons falling within that subsection.
 
@@ -953,7 +953,7 @@ A community justice partner must, in exercising the partner's functions in relat
 
 ## Abolition of community justice authorities
 
-### 36. Abolition of community justice authorities[^key-903bedc0f533b681988102b839375e40]
+### 36. Abolition of community justice authorities[^c-903bedc0f533b681988102b839375e40]
 
 (1) The community justice authorities established by article 2(1) of the Community Justice Authorities (Establishment, Constitution and Proceedings) (Scotland) Order 2006 (S.S.I. 2006/182) are dissolved.
 
@@ -984,7 +984,7 @@ A community justice partner must, in exercising the partner's functions in relat
   - (b) if a revised strategy has been published under section 16(2)(a), the revised strategy (or most recent revised strategy, as the case may be),
 - “**penal institution**” means any—
   - (a) prison (including a legalised police cell within the meaning of section 14(1) of the Prisons (Scotland) Act 1989) other than a naval, military or air force prison,
-  - (b) [^key-772f85e4e2817a879c371ee10cda4f1f]...
+  - (b) [^c-772f85e4e2817a879c371ee10cda4f1f]...
   - (c) young offenders institution, within the meaning of section 19(1)(b) of that Act,
 - “**publish**” means make available to the public—
   - (a) on a website or by other electronic means, and
@@ -996,7 +996,7 @@ A community justice partner must, in exercising the partner's functions in relat
 
 ## Supporting provisions
 
-### 38. Consequential and minor modifications[^key-c8a39a06501ff3d7a52625721de15fab][^key-9d33f0d04c141565c4faf518e2e3fc09]
+### 38. Consequential and minor modifications[^c-c8a39a06501ff3d7a52625721de15fab][^c-9d33f0d04c141565c4faf518e2e3fc09]
 
 Schedule 2 makes—
 
@@ -1044,11 +1044,11 @@ The short title of this Act is the Community Justice (Scotland) Act 2016.
 
 ### Corporate status
 
-**1.**[^key-b057038cc49b259e6b69c689d10a9550][^key-fb8c56240eab5f75b61c96e42fd9a8ae] Community Justice Scotland is a body corporate.
+**1.**[^c-b057038cc49b259e6b69c689d10a9550][^c-fb8c56240eab5f75b61c96e42fd9a8ae] Community Justice Scotland is a body corporate.
 
 ### Exclusion of Crown status
 
-**2.**[^key-9b2ff4feba3385c0e15699b06238583d][^key-9bd171fcefe49a804e4e9792f3bc7889] (1) Community Justice Scotland—
+**2.**[^c-9b2ff4feba3385c0e15699b06238583d][^c-9bd171fcefe49a804e4e9792f3bc7889] (1) Community Justice Scotland—
 
 - (a) is not a servant or agent of the Crown, and
 - (b) does not enjoy any status, immunity or privilege of the Crown.
@@ -1057,7 +1057,7 @@ The short title of this Act is the Community Justice (Scotland) Act 2016.
 
 ### Membership
 
-**3.**[^key-a0cad10db0e9cdc531b25049caf5100c][^key-09bc44a15aa907a8ae6777e3db62da4d] (1) Community Justice Scotland is to consist of—
+**3.**[^c-a0cad10db0e9cdc531b25049caf5100c][^c-09bc44a15aa907a8ae6777e3db62da4d] (1) Community Justice Scotland is to consist of—
 
 - (a) a member appointed by the Scottish Ministers to chair Community Justice Scotland, and
 - (b) at least 5 but no more than 8 other members appointed by the Scottish Ministers.
@@ -1084,7 +1084,7 @@ The short title of this Act is the Community Justice (Scotland) Act 2016.
 
 ### Tenure etc.
 
-**4.**[^key-053bacce85fbf9a470569b31621749e7][^key-b93619eadbf319aeba9c9fbca75d7348] (1) A member is appointed for such period not exceeding 3 years as the Scottish Ministers determine.
+**4.**[^c-053bacce85fbf9a470569b31621749e7][^c-b93619eadbf319aeba9c9fbca75d7348] (1) A member is appointed for such period not exceeding 3 years as the Scottish Ministers determine.
 
 (2) A person who has been a member may be reappointed.
 
@@ -1096,7 +1096,7 @@ The short title of this Act is the Community Justice (Scotland) Act 2016.
 
 ### Events which automatically end membership
 
-**5.**[^key-ea43ec71b6245fe1df753913c1e842fe][^key-3ac9e2d5a3cb13132db9ad6c9045a026] A person's membership of Community Justice Scotland ends if the person becomes—
+**5.**[^c-ea43ec71b6245fe1df753913c1e842fe][^c-3ac9e2d5a3cb13132db9ad6c9045a026] A person's membership of Community Justice Scotland ends if the person becomes—
 
 - (a) a member of the Scottish Parliament,
 - (b) a member of the House of Commons,
@@ -1105,7 +1105,7 @@ The short title of this Act is the Community Justice (Scotland) Act 2016.
 
 ### Power to end membership
 
-**6.**[^key-b8e4d5e77b0078c8b8b143eef3ecae5c][^key-4514430ab11697688afb343cb42fb243] (1) The Scottish Ministers may end a person's membership of Community Justice Scotland if—
+**6.**[^c-b8e4d5e77b0078c8b8b143eef3ecae5c][^c-4514430ab11697688afb343cb42fb243] (1) The Scottish Ministers may end a person's membership of Community Justice Scotland if—
 
 - (a) the person becomes an undischarged bankrupt, or
 - (b) the Scottish Ministers are satisfied that the person—
@@ -1124,11 +1124,11 @@ The short title of this Act is the Community Justice (Scotland) Act 2016.
 
 ### Remuneration and allowances of members
 
-**7.**[^key-cd8cedc6e634a4e92e35ffbc721f11e3][^key-262105bab8f9262db43b13d870fb2351] Community Justice Scotland must pay each member such remuneration and allowances as the Scottish Ministers may determine.
+**7.**[^c-cd8cedc6e634a4e92e35ffbc721f11e3][^c-262105bab8f9262db43b13d870fb2351] Community Justice Scotland must pay each member such remuneration and allowances as the Scottish Ministers may determine.
 
 ### Chief executive and other staff
 
-**8.**[^key-9a5ddafdd495c99dc9a303d9a8f56c3b][^key-3c269ac08fbf94bf90cd428906916144] (1) Community Justice Scotland is to have, as a member of staff, a chief executive.
+**8.**[^c-9a5ddafdd495c99dc9a303d9a8f56c3b][^c-3c269ac08fbf94bf90cd428906916144] (1) Community Justice Scotland is to have, as a member of staff, a chief executive.
 
 (2) The Scottish Ministers are to appoint the first chief executive on such terms and conditions as they determine.
 
@@ -1140,7 +1140,7 @@ The short title of this Act is the Community Justice (Scotland) Act 2016.
 
 ### Pensions, allowances and gratuities
 
-**9.**[^key-46a691b58ec1520464c71d7e470e4e14][^key-18771a9995e4b5fd76da7798f64e6b6d] (1) Community Justice Scotland may, with the approval of the Scottish Ministers, make provision for such pensions, allowances or gratuities in respect of any person who is or has been a member of staff of Community Justice Scotland as it may determine.
+**9.**[^c-46a691b58ec1520464c71d7e470e4e14][^c-18771a9995e4b5fd76da7798f64e6b6d] (1) Community Justice Scotland may, with the approval of the Scottish Ministers, make provision for such pensions, allowances or gratuities in respect of any person who is or has been a member of staff of Community Justice Scotland as it may determine.
 
 (2) That provision may take the form of—
 
@@ -1154,11 +1154,11 @@ such pensions, allowances or gratuities.
 
 ### Procedure
 
-**10.**[^key-544d12bca6059af0f62e4e39cb13ae4c][^key-a6f9bd8773a5671b22ec1e2f942e2ba1] Community Justice Scotland may regulate its own procedure (including quorum).
+**10.**[^c-544d12bca6059af0f62e4e39cb13ae4c][^c-a6f9bd8773a5671b22ec1e2f942e2ba1] Community Justice Scotland may regulate its own procedure (including quorum).
 
 ### Committees
 
-**11.**[^key-5306fba612c1072b375514321b3057eb][^key-e6e5524828cb37ff98b9745c953708e8] (1) Community Justice Scotland may establish committees and sub-committees.
+**11.**[^c-5306fba612c1072b375514321b3057eb][^c-e6e5524828cb37ff98b9745c953708e8] (1) Community Justice Scotland may establish committees and sub-committees.
 
 (2) The membership of a committee or sub-committee may include (but may not consist entirely of) persons who are not members of Community Justice Scotland, but those persons are not entitled to vote at meetings.
 
@@ -1170,7 +1170,7 @@ such pensions, allowances or gratuities.
 
 ### Validity of things done
 
-**12.**[^key-56b32ad58f8f0f174449384a6f058d4f][^key-1e7e9a35a2c4e4328c8ec1afadcd452b] The validity of anything done by Community Justice Scotland, or its committees or sub-committees, is not affected by—
+**12.**[^c-56b32ad58f8f0f174449384a6f058d4f][^c-1e7e9a35a2c4e4328c8ec1afadcd452b] The validity of anything done by Community Justice Scotland, or its committees or sub-committees, is not affected by—
 
 - (a) a vacancy in membership,
 - (b) a defect in the appointment of a member,
@@ -1178,7 +1178,7 @@ such pensions, allowances or gratuities.
 
 ### Authority to exercise functions
 
-**13.**[^key-fdb8ecde84f68689a2430a9589e5734d][^key-f2be68e30c314dbeac407d83e6437926] (1) Community Justice Scotland may authorise the exercise of any of its functions by—
+**13.**[^c-fdb8ecde84f68689a2430a9589e5734d][^c-f2be68e30c314dbeac407d83e6437926] (1) Community Justice Scotland may authorise the exercise of any of its functions by—
 
 - (a) one (or some) of its members,
 - (b) a member of its staff, or
@@ -1190,7 +1190,7 @@ such pensions, allowances or gratuities.
 
 ### Legislation relating to public bodies
 
-**14.**[^key-53fba4743718cc5cd06a9ce8c6fe3369] (1) In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3, before the entry for Creative Scotland insert— “ Community Justice Scotland ”.
+**14.**[^c-53fba4743718cc5cd06a9ce8c6fe3369] (1) In the Ethical Standards in Public Life etc. (Scotland) Act 2000, in schedule 3, before the entry for Creative Scotland insert— “ Community Justice Scotland ”.
 
 (2) In the Scottish Public Services Ombudsman Act 2002, in schedule 2, before paragraph 21ZC insert—
 
@@ -1224,7 +1224,7 @@ such pensions, allowances or gratuities.
 
 #### The Social Work (Scotland) Act 1968
 
-**1.**[^key-a4c91a7d9d347b497123779473865395] (1) The Social Work (Scotland) Act 1968 is modified as follows.
+**1.**[^c-a4c91a7d9d347b497123779473865395] (1) The Social Work (Scotland) Act 1968 is modified as follows.
 
 (2) In section 27(1), for “Subject to any order or determination under section 8 of the Management of Offenders etc. (Scotland) Act 2005 (asp 14), it” substitute “ It ”.
 
@@ -1251,7 +1251,7 @@ such pensions, allowances or gratuities.
 
 #### The Criminal Procedure (Scotland) Act 1995
 
-**2.**[^key-f99fbe525e81e01f7d26917d20701032] In section 227ZM of the Criminal Procedure (Scotland) Act 1995—
+**2.**[^c-f99fbe525e81e01f7d26917d20701032] In section 227ZM of the Criminal Procedure (Scotland) Act 1995—
 
 - (a) in subsection (1), for “the Scottish Ministers” substitute “ Community Justice Scotland ”,
 - (b) in subsection (3)—
@@ -1272,15 +1272,15 @@ such pensions, allowances or gratuities.
 
 #### The Ethical Standards in Public Life etc. (Scotland) Act 2000
 
-**3.**[^key-19300575c33e9a9acbf4cf2e51a4ddce] In schedule 3 to the Ethical Standards in Public Life etc. (Scotland) Act 2000, the entry for a community justice authority is repealed.
+**3.**[^c-19300575c33e9a9acbf4cf2e51a4ddce] In schedule 3 to the Ethical Standards in Public Life etc. (Scotland) Act 2000, the entry for a community justice authority is repealed.
 
 #### The Freedom of Information (Scotland) Act 2002
 
-**4.**[^key-6c4b5b1c18ffc1668c157afb7448f858] In schedule 1 to the Freedom of Information (Scotland) Act 2002, paragraph 62A is repealed.
+**4.**[^c-6c4b5b1c18ffc1668c157afb7448f858] In schedule 1 to the Freedom of Information (Scotland) Act 2002, paragraph 62A is repealed.
 
 #### The Management of Offenders etc. (Scotland) Act 2005
 
-**5.**[^key-ffd055de710dba31c75fbfde358ed361] (1) The Management of Offenders etc. (Scotland) Act 2005 is modified as follows.
+**5.**[^c-ffd055de710dba31c75fbfde358ed361] (1) The Management of Offenders etc. (Scotland) Act 2005 is modified as follows.
 
 (2) In section 1—
 
@@ -1313,7 +1313,7 @@ such pensions, allowances or gratuities.
 
 #### Orders to do with community justice authorities
 
-**6.**[^key-8532d857f6364b5ebbdb6287ae6f19a8] The following orders are revoked—
+**6.**[^c-8532d857f6364b5ebbdb6287ae6f19a8] The following orders are revoked—
 
 - (a) the Management of Offenders etc. (Scotland) Act 2005 (Designation of Partner Bodies) Order 2006 (S.S.I. 2006/63),
 - (b) the Management of Offenders etc. (Scotland) Act 2005 (Supplementary Provisions) Order 2006 (S.S.I. 2006/389),
@@ -1321,146 +1321,146 @@ such pensions, allowances or gratuities.
 
 ## Annotations
 
-[^key-95b1937fbb5947458e35d5b8e24f2028]: Commencement: S. 3 in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-95b1937fbb5947458e35d5b8e24f2028]: Commencement: S. 3 in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-41c56b47ddc72addb1881f7be7202215]: Commencement: S. 3 in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-41c56b47ddc72addb1881f7be7202215]: Commencement: S. 3 in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-c7655ff74174de48b330874e288aa902]: Commencement: S. 4 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-c7655ff74174de48b330874e288aa902]: Commencement: S. 4 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-bc916975338e7b5ff3af8e35ced9a0c8]: Commencement: S. 5 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-bc916975338e7b5ff3af8e35ced9a0c8]: Commencement: S. 5 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-29b219e6fccd109ce82fc194dd63a9d1]: Commencement: S. 6 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-29b219e6fccd109ce82fc194dd63a9d1]: Commencement: S. 6 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-13f3e66f1a8d539267171e244f2bad6d]: Commencement: S. 7 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-13f3e66f1a8d539267171e244f2bad6d]: Commencement: S. 7 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-55a6ab948fe2e1a6a0f55ecc9993973b]: Commencement: S. 8 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-55a6ab948fe2e1a6a0f55ecc9993973b]: Commencement: S. 8 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-b85cdc2ad83746381fbb12987b95b96a]: Commencement: S. 9 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-b85cdc2ad83746381fbb12987b95b96a]: Commencement: S. 9 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-f28349d4ee33c0da9ed242c7bb90f77e]: Commencement: S. 10 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-f28349d4ee33c0da9ed242c7bb90f77e]: Commencement: S. 10 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-ededeb1b746827ee0f9b85372c5804ba]: Commencement: S. 11 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-ededeb1b746827ee0f9b85372c5804ba]: Commencement: S. 11 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-c77c367dd3b9dfa33ee0a16f313f03ca]: Commencement: S. 12 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-c77c367dd3b9dfa33ee0a16f313f03ca]: Commencement: S. 12 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
 [^c22564491]: Commencement: S. 13(1) in force at Royal Assent, see [s. 41(1)](https://www.legislation.gov.uk/asp/2016/10/section/41/1)
 
-[^key-d02cdb42880db740438c39977d0b5263]: Commencement: S. 13(2)-(4) in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-d02cdb42880db740438c39977d0b5263]: Commencement: S. 13(2)-(4) in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
 [^c22564501]: Commencement: S. 14(1)-(6) in force at Royal Assent, see [s. 41(1)](https://www.legislation.gov.uk/asp/2016/10/section/41/1)
 
-[^key-245138ab97feb096b8cedcf172fb7a25]: Commencement: S. 14(7) in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-245138ab97feb096b8cedcf172fb7a25]: Commencement: S. 14(7) in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-0cb29eb25bf45205d9dde1fc23b088e3]: Commencement: S. 16 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-0cb29eb25bf45205d9dde1fc23b088e3]: Commencement: S. 16 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-7dbf5f8867bab8674bb6b379bfbe19f4]: Commencement: S. 18 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-7dbf5f8867bab8674bb6b379bfbe19f4]: Commencement: S. 18 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-26b03a38ed2743dab5031c9ce9d8c90b]: Commencement: S. 19 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-26b03a38ed2743dab5031c9ce9d8c90b]: Commencement: S. 19 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-3faad6ca046f90f2ef59b606f9e5dde5]: Commencement: S. 20 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-3faad6ca046f90f2ef59b606f9e5dde5]: Commencement: S. 20 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-20cf7b466b5232c63355b85a5808042c]: Commencement: S. 21 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-20cf7b466b5232c63355b85a5808042c]: Commencement: S. 21 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-843bfbd883c67b00b7b4884b14072fa1]: Commencement: S. 22 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-843bfbd883c67b00b7b4884b14072fa1]: Commencement: S. 22 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-28530ce40c2f8567e054ed926fdb7df2]: Commencement: S. 23 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-28530ce40c2f8567e054ed926fdb7df2]: Commencement: S. 23 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-5165c819b05c694520978a219e63a40c]: Commencement: S. 24 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-5165c819b05c694520978a219e63a40c]: Commencement: S. 24 in force at 1.10.2016 by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-4ceaf3bcb0cdcd52aed879b911d55fed]: Commencement: S. 25 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-4ceaf3bcb0cdcd52aed879b911d55fed]: Commencement: S. 25 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-6e4c2d8269a27a7f290733dc9ded3579]: Commencement: S. 26 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-6e4c2d8269a27a7f290733dc9ded3579]: Commencement: S. 26 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-039b53e92d4ce40e5163be0d5ea8a0f6]: Commencement: S. 27 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-039b53e92d4ce40e5163be0d5ea8a0f6]: Commencement: S. 27 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-1409bb4283d4ccbc315521747ff55442]: Commencement: S. 28 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-1409bb4283d4ccbc315521747ff55442]: Commencement: S. 28 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-c83f180ea0309c26bc39b113d382b8a9]: Commencement: S. 29 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-c83f180ea0309c26bc39b113d382b8a9]: Commencement: S. 29 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-5721d93ace0a84f52ccedf4a14dec60f]: Commencement: S. 30 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-5721d93ace0a84f52ccedf4a14dec60f]: Commencement: S. 30 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-81e41e65e71f000a0c53996403b639c0]: Commencement: S. 31 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-81e41e65e71f000a0c53996403b639c0]: Commencement: S. 31 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-9d6905947a940d4d0d88a24379585c18]: Commencement: S. 32 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-9d6905947a940d4d0d88a24379585c18]: Commencement: S. 32 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-3777e7e9af430ceb9625a22ddb715570]: Commencement: S. 33 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-3777e7e9af430ceb9625a22ddb715570]: Commencement: S. 33 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-47851e7f00a38c1f1bff174ac36a149b]: Commencement: S. 34 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-47851e7f00a38c1f1bff174ac36a149b]: Commencement: S. 34 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-eec7da42136235af92b996286590c11b]: Textual amendment: Ss. 34C, 34D and cross-heading inserted (9.2.2026) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 13(2)](https://www.legislation.gov.uk/asp/2023/4/section/13/2), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2026/24](https://www.legislation.gov.uk/ssi/2026/24), [reg. 2](https://www.legislation.gov.uk/ssi/2026/24/regulation/2)
+[^c-eec7da42136235af92b996286590c11b]: Textual amendment: Ss. 34C, 34D and cross-heading inserted (9.2.2026) by [Bail and Release from Custody (Scotland) Act 2023 (asp 4)](https://www.legislation.gov.uk/asp/2023/4), [ss. 13(2)](https://www.legislation.gov.uk/asp/2023/4/section/13/2), [18(2)](https://www.legislation.gov.uk/asp/2023/4/section/18/2); [S.S.I. 2026/24](https://www.legislation.gov.uk/ssi/2026/24), [reg. 2](https://www.legislation.gov.uk/ssi/2026/24/regulation/2)
 
-[^key-6893198144c6f8704ba61173565fcb10]: Commencement: S. 35 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-6893198144c6f8704ba61173565fcb10]: Commencement: S. 35 in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-903bedc0f533b681988102b839375e40]: Commencement: S. 36 in force at 31.3.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-903bedc0f533b681988102b839375e40]: Commencement: S. 36 in force at 31.3.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
-[^key-772f85e4e2817a879c371ee10cda4f1f]: Textual amendment: Words in s. 37(1) repealed (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 20(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/20/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
+[^c-772f85e4e2817a879c371ee10cda4f1f]: Textual amendment: Words in s. 37(1) repealed (28.8.2024) by [Children (Care and Justice) (Scotland) Act 2024 (asp 5)](https://www.legislation.gov.uk/asp/2024/5), [s. 38(3)](https://www.legislation.gov.uk/asp/2024/5/section/38/3), [sch. para. 20(2)](https://www.legislation.gov.uk/asp/2024/5/schedule/paragraph/20/2); [S.S.I. 2024/211](https://www.legislation.gov.uk/ssi/2024/211), [reg. 2(j)(ii)](https://www.legislation.gov.uk/ssi/2024/211/regulation/2/j/ii) (with [reg. 3](https://www.legislation.gov.uk/ssi/2024/211/regulation/3))
 
-[^key-c8a39a06501ff3d7a52625721de15fab]: Commencement: S. 38 in force at 31.3.2017 for specified purposes by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-c8a39a06501ff3d7a52625721de15fab]: Commencement: S. 38 in force at 31.3.2017 for specified purposes by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
-[^key-9d33f0d04c141565c4faf518e2e3fc09]: Commencement: S. 38 in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-9d33f0d04c141565c4faf518e2e3fc09]: Commencement: S. 38 in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-b057038cc49b259e6b69c689d10a9550]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/1) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-b057038cc49b259e6b69c689d10a9550]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/1) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-fb8c56240eab5f75b61c96e42fd9a8ae]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/1) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-fb8c56240eab5f75b61c96e42fd9a8ae]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/1) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-9b2ff4feba3385c0e15699b06238583d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/2) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-9b2ff4feba3385c0e15699b06238583d]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/2) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-9bd171fcefe49a804e4e9792f3bc7889]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/2) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-9bd171fcefe49a804e4e9792f3bc7889]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/2) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-a0cad10db0e9cdc531b25049caf5100c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/3) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-a0cad10db0e9cdc531b25049caf5100c]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/3) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-09bc44a15aa907a8ae6777e3db62da4d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/3) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-09bc44a15aa907a8ae6777e3db62da4d]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/3) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-053bacce85fbf9a470569b31621749e7]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/4) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-053bacce85fbf9a470569b31621749e7]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/4) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-b93619eadbf319aeba9c9fbca75d7348]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/4) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-b93619eadbf319aeba9c9fbca75d7348]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/4) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-ea43ec71b6245fe1df753913c1e842fe]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/5) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-ea43ec71b6245fe1df753913c1e842fe]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/5) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-3ac9e2d5a3cb13132db9ad6c9045a026]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/5) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-3ac9e2d5a3cb13132db9ad6c9045a026]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/5) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-b8e4d5e77b0078c8b8b143eef3ecae5c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/6) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-b8e4d5e77b0078c8b8b143eef3ecae5c]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/6) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-4514430ab11697688afb343cb42fb243]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/6) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-4514430ab11697688afb343cb42fb243]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/6) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-cd8cedc6e634a4e92e35ffbc721f11e3]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/7) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-cd8cedc6e634a4e92e35ffbc721f11e3]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/7) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-262105bab8f9262db43b13d870fb2351]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/7) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-262105bab8f9262db43b13d870fb2351]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/7) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-9a5ddafdd495c99dc9a303d9a8f56c3b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/8) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-9a5ddafdd495c99dc9a303d9a8f56c3b]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/8) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-3c269ac08fbf94bf90cd428906916144]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/8) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-3c269ac08fbf94bf90cd428906916144]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/8) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-46a691b58ec1520464c71d7e470e4e14]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/9) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-46a691b58ec1520464c71d7e470e4e14]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/9) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-18771a9995e4b5fd76da7798f64e6b6d]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/9) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-18771a9995e4b5fd76da7798f64e6b6d]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/9) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-544d12bca6059af0f62e4e39cb13ae4c]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/10) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-544d12bca6059af0f62e4e39cb13ae4c]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/10) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-a6f9bd8773a5671b22ec1e2f942e2ba1]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/10) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-a6f9bd8773a5671b22ec1e2f942e2ba1]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/10) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-5306fba612c1072b375514321b3057eb]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/11) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-5306fba612c1072b375514321b3057eb]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/11) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-e6e5524828cb37ff98b9745c953708e8]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/11) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-e6e5524828cb37ff98b9745c953708e8]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/11) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-56b32ad58f8f0f174449384a6f058d4f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/12) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/262/regulation/3))
+[^c-56b32ad58f8f0f174449384a6f058d4f]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/12) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2016/262/regulation/3))
 
-[^key-1e7e9a35a2c4e4328c8ec1afadcd452b]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/12) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-1e7e9a35a2c4e4328c8ec1afadcd452b]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/12) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-fdb8ecde84f68689a2430a9589e5734d]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/13) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
+[^c-fdb8ecde84f68689a2430a9589e5734d]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/13) in force at 1.10.2016 for specified purposes by [S.S.I. 2016/262](https://www.legislation.gov.uk/ssi/2016/262), [reg. 2](https://www.legislation.gov.uk/ssi/2016/262/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/262/schedule)
 
-[^key-f2be68e30c314dbeac407d83e6437926]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/13) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-f2be68e30c314dbeac407d83e6437926]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/13) in force at 1.4.2017 in so far as not already in force by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-53fba4743718cc5cd06a9ce8c6fe3369]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/14) in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-53fba4743718cc5cd06a9ce8c6fe3369]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/asp/2016/10/schedule/1/paragraph/14) in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-a4c91a7d9d347b497123779473865395]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/1) in force at 31.3.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-a4c91a7d9d347b497123779473865395]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/1) in force at 31.3.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
-[^key-f99fbe525e81e01f7d26917d20701032]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/2) in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
+[^c-f99fbe525e81e01f7d26917d20701032]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/2) in force at 1.4.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/3)
 
-[^key-19300575c33e9a9acbf4cf2e51a4ddce]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/3) in force at 31.3.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-19300575c33e9a9acbf4cf2e51a4ddce]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/3) in force at 31.3.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
-[^key-6c4b5b1c18ffc1668c157afb7448f858]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/4) in force at 31.3.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-6c4b5b1c18ffc1668c157afb7448f858]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/4) in force at 31.3.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
-[^key-ffd055de710dba31c75fbfde358ed361]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5) in force at 31.3.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-ffd055de710dba31c75fbfde358ed361]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/5) in force at 31.3.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
 
-[^key-8532d857f6364b5ebbdb6287ae6f19a8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/6) in force at 31.3.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)
+[^c-8532d857f6364b5ebbdb6287ae6f19a8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asp/2016/10/schedule/2/paragraph/6) in force at 31.3.2017 by [S.S.I. 2017/33](https://www.legislation.gov.uk/ssi/2017/33), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/1)[(2)](https://www.legislation.gov.uk/ssi/2017/33/regulation/2/2), [sch.](https://www.legislation.gov.uk/ssi/2017/33/schedule)

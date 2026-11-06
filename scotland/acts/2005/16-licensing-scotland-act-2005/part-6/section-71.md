@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Personal licence[^key-ceaf892f4563d37ed7ad572ef8896570]
+## 71. Personal licence[^c-ceaf892f4563d37ed7ad572ef8896570]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Act, “**personal licence**”, in relation to an individual, means a l
 
 ## Annotations
 
-[^key-ceaf892f4563d37ed7ad572ef8896570]: Commencement: S. 71 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-ceaf892f4563d37ed7ad572ef8896570]: Commencement: S. 71 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

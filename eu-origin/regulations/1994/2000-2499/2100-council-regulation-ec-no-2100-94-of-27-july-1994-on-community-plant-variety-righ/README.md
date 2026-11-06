@@ -38,11 +38,11 @@ of 27 July 1994
 
 on Community plant variety rights (revoked)
 
-[^key-32f9ac12f4f43a85f42cf9d6c71af259]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32f9ac12f4f43a85f42cf9d6c71af259]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART ONE — GENERAL PROVISIONS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+### PART ONE — GENERAL PROVISIONS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,13 +53,13 @@ on Community plant variety rights (revoked)
 - [Section Article 3 — National property rights for plant varieties](section-article-3.md)
 - [Section Article 4 — Community Office](section-article-4.md)
 
-### PART TWO — SUBSTANTIVE LAW[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+### PART TWO — SUBSTANTIVE LAW[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — CONDITIONS GOVERNING THE GRANT OF COMMUNITY PLANT VARIETY RIGHTS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER I — CONDITIONS GOVERNING THE GRANT OF COMMUNITY PLANT VARIETY RIGHTS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,7 +72,7 @@ on Community plant variety rights (revoked)
 - [Section Article 9 — Stability](section-article-9.md)
 - [Section Article 10 — Novelty](section-article-10.md)
 
-#### CHAPTER II — PERSONS ENTITLED[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER II — PERSONS ENTITLED[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,7 +81,7 @@ on Community plant variety rights (revoked)
 - [Section Article 11 — Entitlement to Community plant variety rights](section-article-11.md)
 - [Section Article 12 — Entitlement to file an application for a Community plant variety right](section-article-12.md)
 
-#### CHAPTER III — EFFECTS OF COMMUNITY PLANT VARIETY RIGHTS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER III — EFFECTS OF COMMUNITY PLANT VARIETY RIGHTS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -94,7 +94,7 @@ on Community plant variety rights (revoked)
 - [Section Article 17 — Use of variety denominations](section-article-17.md)
 - [Section Article 18 — Limitation of the use of variety denominations](section-article-18.md)
 
-#### CHAPTER IV — DURATION AND TERMINATION OF COMMUNITY PLANT VARIETY RIGHTS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER IV — DURATION AND TERMINATION OF COMMUNITY PLANT VARIETY RIGHTS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -104,7 +104,7 @@ on Community plant variety rights (revoked)
 - [Section Article 20 — Nullity of Community plant variety rights](section-article-20.md)
 - [Section Article 21 — Cancellation of Community plant variety rights](section-article-21.md)
 
-#### CHAPTER V — COMMUNITY PLANT VARIETY RIGHTS AS OBJECTS OF PROPERTY[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER V — COMMUNITY PLANT VARIETY RIGHTS AS OBJECTS OF PROPERTY[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -119,13 +119,13 @@ on Community plant variety rights (revoked)
 - [Section Article 28 — Joint holdership](section-article-28.md)
 - [Section Article 29 — Compulsory licensing](section-article-29.md)
 
-### PART THREE — THE COMMUNITY PLANT VARIETY OFFICE[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+### PART THREE — THE COMMUNITY PLANT VARIETY OFFICE[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — GENERAL PROVISIONS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER I — GENERAL PROVISIONS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -139,7 +139,7 @@ on Community plant variety rights (revoked)
 - [Section Article 34 — Languages](section-article-34.md)
 - [Section Article 35 — Decisions of the Office](section-article-35.md)
 
-#### CHAPTER II — THE ADMINISTRATIVE COUNCIL[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER II — THE ADMINISTRATIVE COUNCIL[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -152,7 +152,7 @@ on Community plant variety rights (revoked)
 - [Section Article 40 — Place of meetings](section-article-40.md)
 - [Section Article 41 — Voting](section-article-41.md)
 
-#### CHAPTER III — MANAGEMENT OF THE OFFICE[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER III — MANAGEMENT OF THE OFFICE[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -162,7 +162,7 @@ on Community plant variety rights (revoked)
 - [Section Article 43 — Appointment of senior officials](section-article-43.md)
 - [Section Article 44 — Control of legality](section-article-44.md)
 
-#### CHAPTER IV — THE BOARDS OF APPEAL[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER IV — THE BOARDS OF APPEAL[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -173,13 +173,13 @@ on Community plant variety rights (revoked)
 - [Section Article 47 — Independence of the members of the Boards of Appeal](section-article-47.md)
 - [Section Article 48 — Exclusion and objection](section-article-48.md)
 
-### PART FOUR — PROCEEDINGS BEFORE THE OFFICE[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+### PART FOUR — PROCEEDINGS BEFORE THE OFFICE[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### CHAPTER I — APPLICATIONS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER I — APPLICATIONS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -190,7 +190,7 @@ on Community plant variety rights (revoked)
 - [Section Article 51 — Date of application](section-article-51.md)
 - [Section Article 52 — The right of priority](section-article-52.md)
 
-#### CHAPTER II — EXAMINATION[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER II — EXAMINATION[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -205,7 +205,7 @@ on Community plant variety rights (revoked)
 - [Section Article 59 — Objections to grant of right](section-article-59.md)
 - [Section Article 60 — Priority of a new application in the case of objections](section-article-60.md)
 
-#### CHAPTER III — DECISIONS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER III — DECISIONS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -215,7 +215,7 @@ on Community plant variety rights (revoked)
 - [Section Article 62 — Grant](section-article-62.md)
 - [Section Article 63 — Variety denomination](section-article-63.md)
 
-#### CHAPTER IV — THE MAINTENANCE OF COMMUNITY PLANT VARIETY RIGHTS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER IV — THE MAINTENANCE OF COMMUNITY PLANT VARIETY RIGHTS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -225,7 +225,7 @@ on Community plant variety rights (revoked)
 - [Section Article 65 — Report on the technical verification](section-article-65.md)
 - [Section Article 66 — Amendment of the variety denomination](section-article-66.md)
 
-#### CHAPTER V — APPEALS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER V — APPEALS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -240,7 +240,7 @@ on Community plant variety rights (revoked)
 - [Section Article 73 — Actions against decisions of the Boards of Appeal](section-article-73.md)
 - [Section Article 74 — Direct action](section-article-74.md)
 
-#### CHAPTER VI — MISCELLANEOUS CONDITIONS GOVERNING PROCEEDINGS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER VI — MISCELLANEOUS CONDITIONS GOVERNING PROCEEDINGS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -255,7 +255,7 @@ on Community plant variety rights (revoked)
 - [Section Article 81 — General principles](section-article-81.md)
 - [Section Article 82 — Procedural representative](section-article-82.md)
 
-#### CHAPTER VII — FEES, SETTLEMENT OF COSTS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER VII — FEES, SETTLEMENT OF COSTS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -266,7 +266,7 @@ on Community plant variety rights (revoked)
 - [Section Article 85 — Apportionment of costs](section-article-85.md)
 - [Section Article 86 — Enforcement of decisions which determine the amount of costs](section-article-86.md)
 
-#### CHAPTER VIII — REGISTERS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+#### CHAPTER VIII — REGISTERS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -278,7 +278,7 @@ on Community plant variety rights (revoked)
 - [Section Article 90 — Exchange of information and of publications](section-article-90.md)
 - [Section Article 91 — Administrative and legal cooperation](section-article-91.md)
 
-### PART FIVE — IMPACT ON OTHER LAWS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+### PART FIVE — IMPACT ON OTHER LAWS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -287,7 +287,7 @@ on Community plant variety rights (revoked)
 - [Section Article 92 — Cumulative protection prohibited](section-article-92.md)
 - [Section Article 93 — Application of national law](section-article-93.md)
 
-### PART SIX — CIVIL LAW CLAIMS, INFRINGEMENTS, JURISDICTION[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+### PART SIX — CIVIL LAW CLAIMS, INFRINGEMENTS, JURISDICTION[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -308,7 +308,7 @@ on Community plant variety rights (revoked)
 - [Section Article 106 — Stay of proceedings](section-article-106.md)
 - [Section Article 107 — Penalties for infringement of Community plant variety rights](section-article-107.md)
 
-### PART SEVEN — BUDGET, FINANCIAL CONTROL, COMMUNITY IMPLEMENTING RULES[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+### PART SEVEN — BUDGET, FINANCIAL CONTROL, COMMUNITY IMPLEMENTING RULES[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -323,7 +323,7 @@ on Community plant variety rights (revoked)
 - [Section Article 114 — Other implementing rules](section-article-114.md)
 - [Section Article 115 — Procedure](section-article-115.md)
 
-### PART EIGHT — TRANSITIONAL AND FINAL PROVISIONS[^key-32f9ac12f4f43a85f42cf9d6c71af259]
+### PART EIGHT — TRANSITIONAL AND FINAL PROVISIONS[^c-32f9ac12f4f43a85f42cf9d6c71af259]
 
 *Extent: E+W+S+N.I.*
 
@@ -337,8 +337,8 @@ on Community plant variety rights (revoked)
 
 **No longer in force.**
 
-[^key-32f9ac12f4f43a85f42cf9d6c71af259]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-32f9ac12f4f43a85f42cf9d6c71af259]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-32f9ac12f4f43a85f42cf9d6c71af259]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32f9ac12f4f43a85f42cf9d6c71af259]: Textual amendment: Regulation revoked (31.12.2020) by The Plant Breeders’ [Rights (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/204)](https://www.legislation.gov.uk/uksi/2019/204), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/204/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2019/204/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

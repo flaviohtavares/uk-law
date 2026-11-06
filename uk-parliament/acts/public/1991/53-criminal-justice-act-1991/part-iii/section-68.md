@@ -24,7 +24,7 @@ The following enactments, namely—
 
 - (a) the Children and Young Persons Acts 1933 to 1969;
 - (b) section 43(3) of the 1952 Act (remand centres, young offender institutions etc.);
-- (c)[^key-38dfb45e8056fe56ea9ba6efcbf72bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
+- (c)[^c-38dfb45e8056fe56ea9ba6efcbf72bb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . and
 - (d) the 1980 Act,
 
 shall have effect subject to the amendments specified in Schedule 8 to this Act, being amendments which, for certain purposes of those enactments, have the effect of substituting the age of 18 years for the age of 17 years.
@@ -33,4 +33,4 @@ shall have effect subject to the amendments specified in Schedule 8 to this Act,
 
 [^c13774301]: Commencement: S. 68 wholly in force (except for specified purposes, see S.I. 1992/333, art. 2(4)) at 1.10.1992 see s. 102(2)(3) and [S.I. 1992/333](https://www.legislation.gov.uk/uksi/1992/333), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/333/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/333/schedule/2)
 
-[^key-38dfb45e8056fe56ea9ba6efcbf72bb8]: Textual amendment: S. 68(c) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-38dfb45e8056fe56ea9ba6efcbf72bb8]: Textual amendment: S. 68(c) repealed (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))

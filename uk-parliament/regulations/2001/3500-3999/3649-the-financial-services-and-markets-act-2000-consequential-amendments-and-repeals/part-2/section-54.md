@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Cases where exemptions not available[^key-429a73747a9edebafdeb61d6861193bb]
+## 54. Cases where exemptions not available[^c-429a73747a9edebafdeb61d6861193bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-429a73747a9edebafdeb61d6861193bb]: Commencement: Art. 54 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-429a73747a9edebafdeb61d6861193bb]: Commencement: Art. 54 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00059]: Footnote: Article 257B was inserted by [SR (N.I.) 1995/128](https://www.legislation.gov.uk/nisr/1995/128).

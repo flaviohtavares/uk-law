@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Authorisation to make payments on basis that an event has or has not occurred or will or will not occur[^key-92e06d0b112cb6c7a32f5b425d0b3082]
+## 72. Authorisation to make payments on basis that an event has or has not occurred or will or will not occur[^c-92e06d0b112cb6c7a32f5b425d0b3082]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92e06d0b112cb6c7a32f5b425d0b3082]: Commencement: S. 72 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-92e06d0b112cb6c7a32f5b425d0b3082]: Commencement: S. 72 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

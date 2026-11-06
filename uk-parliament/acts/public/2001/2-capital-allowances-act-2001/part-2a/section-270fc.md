@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270FC. Cases where highway concession is to be treated as extended[^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+## 270FC. Cases where highway concession is to be treated as extended[^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
+[^c-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G11. Dependent surviving civil partner’s pension[^key-8329f06e11b306ec48ce42e34ef80aac]
+## G11. Dependent surviving civil partner’s pension[^c-8329f06e11b306ec48ce42e34ef80aac]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8329f06e11b306ec48ce42e34ef80aac]: Textual amendment: [Reg. G11](https://www.legislation.gov.uk/uksi/1995/300/regulation/G11) omitted (with effect from 5.12.2005) by virtue of [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(10)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/10), [15](https://www.legislation.gov.uk/uksi/2019/418/regulation/15)
+[^c-8329f06e11b306ec48ce42e34ef80aac]: Textual amendment: [Reg. G11](https://www.legislation.gov.uk/uksi/1995/300/regulation/G11) omitted (with effect from 5.12.2005) by virtue of [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2)[(10)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/10), [15](https://www.legislation.gov.uk/uksi/2019/418/regulation/15)

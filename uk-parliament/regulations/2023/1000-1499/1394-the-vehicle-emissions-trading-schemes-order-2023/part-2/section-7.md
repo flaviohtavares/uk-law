@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Allowances and credits: general[^key-6bf19e6b35f881c3621f1e9a6e41c930]
+## 7. Allowances and credits: general[^c-6bf19e6b35f881c3621f1e9a6e41c930]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Allowances allocated, and credits acquired, for the purposes of the Trading Sche
 
 ## Annotations
 
-[^key-6bf19e6b35f881c3621f1e9a6e41c930]: Commencement: Art. 7 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-6bf19e6b35f881c3621f1e9a6e41c930]: Commencement: Art. 7 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)

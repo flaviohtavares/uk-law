@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Opening balance, index adjustment and age addition[^key-e60df357632015581660c2493c4b1568]
+## 40. Opening balance, index adjustment and age addition[^c-e60df357632015581660c2493c4b1568]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e60df357632015581660c2493c4b1568]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2015/182/regulation/40) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-e60df357632015581660c2493c4b1568]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2015/182/regulation/40) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

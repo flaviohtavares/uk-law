@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Property in custody of others[^key-13841f3bdc5eb096f48bc01f9a652a4a]
+## 26. Property in custody of others[^c-13841f3bdc5eb096f48bc01f9a652a4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13841f3bdc5eb096f48bc01f9a652a4a]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/6/section/26) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)
+[^c-13841f3bdc5eb096f48bc01f9a652a4a]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2017/6/section/26) in force at 12.12.2017 by [S.I. 2017/1087](https://www.legislation.gov.uk/uksi/2017/1087), [reg. 2](https://www.legislation.gov.uk/uksi/2017/1087/regulation/2)

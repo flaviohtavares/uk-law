@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Radioactive medicinal products[^key-33bd2dc0bb8522efd696af362048b6a5]
+## 240. Radioactive medicinal products[^c-33bd2dc0bb8522efd696af362048b6a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ if Conditions A to E are met.
 
 ## Annotations
 
-[^key-33bd2dc0bb8522efd696af362048b6a5]: Textual amendment: Reg. 240 substituted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/2/3) (as substituted (6.2.2018) by [S.I. 2018/121](https://www.legislation.gov.uk/uksi/2018/121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/121/regulation/1/2), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/121/regulation/2/4/b/ii))
+[^c-33bd2dc0bb8522efd696af362048b6a5]: Textual amendment: Reg. 240 substituted (6.2.2018) by [The Ionising Radiation (Medical Exposure) Regulations 2017 (S.I. 2017/1322)](https://www.legislation.gov.uk/uksi/2017/1322), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1322/regulation/1), [Sch. 4 para. 2(3)](https://www.legislation.gov.uk/uksi/2017/1322/schedule/4/paragraph/2/3) (as substituted (6.2.2018) by [S.I. 2018/121](https://www.legislation.gov.uk/uksi/2018/121), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/121/regulation/1/2), [2(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/121/regulation/2/4/b/ii))

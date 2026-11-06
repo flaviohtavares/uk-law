@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 148. Initial procedure for restructuring regulations[^key-92b06ae18ee7c6d936caf62241b040a7]
+## 148. Initial procedure for restructuring regulations[^c-92b06ae18ee7c6d936caf62241b040a7]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92b06ae18ee7c6d936caf62241b040a7]: Commencement: S. 148 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)
+[^c-92b06ae18ee7c6d936caf62241b040a7]: Commencement: S. 148 in force at 1.4.2021 by [S.I. 2021/297](https://www.legislation.gov.uk/uksi/2021/297), [art. 2(d)](https://www.legislation.gov.uk/uksi/2021/297/article/2/d)

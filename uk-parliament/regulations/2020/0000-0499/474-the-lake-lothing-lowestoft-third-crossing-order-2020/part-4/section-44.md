@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Subsidiary works and operations in Lake Lothing[^key-81a25110f8a4fd2b02d48e28cac7302e]
+## 44. Subsidiary works and operations in Lake Lothing[^c-81a25110f8a4fd2b02d48e28cac7302e]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81a25110f8a4fd2b02d48e28cac7302e]: Commencement: Art. 44 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)
+[^c-81a25110f8a4fd2b02d48e28cac7302e]: Commencement: Art. 44 in force at 21.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/474/article/1)

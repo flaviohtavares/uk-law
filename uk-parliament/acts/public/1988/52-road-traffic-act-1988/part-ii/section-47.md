@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-a1d5604f4a452752d7b2e787c4b2895f] A person who uses on a road at any time, or causes or permits to be so used, a motor vehicle to which this section applies, and as respects which no test certificate has been issued within the appropriate period before that time, is guilty of an offence.
+(1)[^c-a1d5604f4a452752d7b2e787c4b2895f] A person who uses on a road at any time, or causes or permits to be so used, a motor vehicle to which this section applies, and as respects which no test certificate has been issued within the appropriate period before that time, is guilty of an offence.
 
 In this section and section 48 of this Act, the “**appropriate period**” means a period of twelve months or such shorter period as may be prescribed.
 
@@ -60,7 +60,7 @@ An order under this subsection shall not have effect unless approved by resoluti
 
 [^c13974261]: Subordinate legislation: S. 47 for previous exercises of power see Index to Government Orders
 
-[^key-a1d5604f4a452752d7b2e787c4b2895f]: Modification: S. 47(1) excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
+[^c-a1d5604f4a452752d7b2e787c4b2895f]: Modification: S. 47(1) excluded (17.4.2019) by [The Motor Sport on Public Roads (Scotland) Regulations 2019 (S.S.I. 2019/138)](https://www.legislation.gov.uk/ssi/2019/138), [regs. 1](https://www.legislation.gov.uk/ssi/2019/138/regulation/1), [6](https://www.legislation.gov.uk/ssi/2019/138/regulation/6), [sch. 2](https://www.legislation.gov.uk/ssi/2019/138/schedule/2)
 
 [^c13974271]: Textual amendment: Words in s. 47(2)(a) substituted (1.9.1994) by [1994 c. 22](https://www.legislation.gov.uk/ukpga/1994/22), [ss. 63](https://www.legislation.gov.uk/ukpga/1994/22/section/63), [66(1)](https://www.legislation.gov.uk/ukpga/1994/22/section/66/1), [Sch. 3 para. 24(2)(a)](https://www.legislation.gov.uk/ukpga/1994/22/schedule/3/paragraph/24/2/a) (with [s. 57(4)](https://www.legislation.gov.uk/ukpga/1994/22/section/57/4))
 

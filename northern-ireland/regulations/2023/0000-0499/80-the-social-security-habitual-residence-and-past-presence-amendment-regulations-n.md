@@ -44,11 +44,11 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
 
 Regulation 2 is made with the consent of the Department of Finance[^f00008], in so far as it relates to the provisions referred to in paragraph (2)(d) and (e) of that regulation.
 
-## 1. Citation and commencement[^key-c193a33d57087eb1c1396a64f2d082ed]
+## 1. Citation and commencement[^c-c193a33d57087eb1c1396a64f2d082ed]
 
 These Regulations may be cited as the Social Security (Habitual Residence and Past Presence) (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 18th May 2023.
 
-## 2. Amendment of income-related benefit legislation[^key-4b8b6cc95836ef404d15a4ba625eadb7]
+## 2. Amendment of income-related benefit legislation[^c-4b8b6cc95836ef404d15a4ba625eadb7]
 
 (1) In the provisions specified in paragraph (2) after sub-paragraph (zzc)[^f00009] insert—
 
@@ -68,7 +68,7 @@ These Regulations may be cited as the Social Security (Habitual Residence and Pa
 - (e) regulation 10(5) of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006[^f00017] (persons from abroad);
 - (f) regulation 70(4) of the Employment and Support Allowance Regulations (Northern Ireland) 2008[^f00018] (special cases: supplemental – persons from abroad).
 
-## 3. Amendment of the Universal Credit Regulations[^key-5e3badecf0ec23ca33c22111676e35b0]
+## 3. Amendment of the Universal Credit Regulations[^c-5e3badecf0ec23ca33c22111676e35b0]
 
 In regulation 9(4) of the Universal Credit Regulations (Northern Ireland) 2016[^f00019] (persons treated as not being in Northern Ireland) after sub-paragraph (zc)[^f00020] insert—
 
@@ -79,7 +79,7 @@ In regulation 9(4) of the Universal Credit Regulations (Northern Ireland) 2016[^
 
 .
 
-## 4. Amendment of disability and carer’s benefit legislation[^key-660a28a05d0f675f5def793561407e1c]
+## 4. Amendment of disability and carer’s benefit legislation[^c-660a28a05d0f675f5def793561407e1c]
 
 (1) In the provisions specified in paragraph (2)—
 
@@ -100,7 +100,7 @@ In regulation 9(4) of the Universal Credit Regulations (Northern Ireland) 2016[^
 - (b) regulation 2C(1) of the Social Security (Attendance Allowance) Regulations (Northern Ireland) 1992[^f00025] (refugees and certain persons with leave to enter or remain in the United Kingdom);
 - (c) regulation 2C(1) of the Social Security (Disability Living Allowance) Regulations (Northern Ireland) 1992[^f00026] (refugees and certain persons with leave to enter or remain in the United Kingdom).
 
-## 5. Amendment of the Personal Independence Payment Regulations[^key-9ebc72d56f17fd13e75ffbce59d56633]
+## 5. Amendment of the Personal Independence Payment Regulations[^c-9ebc72d56f17fd13e75ffbce59d56633]
 
 In regulation 23A(1) of the Personal Independence Payment Regulations (Northern Ireland) 2016[^f00027] (refugees and certain persons with leave to enter or remain in the United Kingdom[^f00028])—
 
@@ -175,9 +175,9 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00008]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8))](https://www.legislation.gov.uk/nisi/1993/1579); *see also* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(4) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-c193a33d57087eb1c1396a64f2d082ed]: Commencement: Reg. 1 in operation at 18.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/80/regulation/1)
+[^c-c193a33d57087eb1c1396a64f2d082ed]: Commencement: Reg. 1 in operation at 18.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/80/regulation/1)
 
-[^key-4b8b6cc95836ef404d15a4ba625eadb7]: Commencement: Reg. 2 in operation at 18.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/80/regulation/1)
+[^c-4b8b6cc95836ef404d15a4ba625eadb7]: Commencement: Reg. 2 in operation at 18.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/80/regulation/1)
 
 [^f00009]: Footnote: Sub-paragraph (zzc) was inserted by regulation 2(3) of [S.R. 2022 No. 149](https://www.legislation.gov.uk/nisr/2022/149) and amended by regulation 2(1) of [S.R. 2022 No. 230](https://www.legislation.gov.uk/nisr/2022/230)
 
@@ -199,13 +199,13 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00018]: Footnote: [S.R. 2008 No. 280](https://www.legislation.gov.uk/nisr/2008/280); relevant amending Regulations are [S.R. 2021 No. 269](https://www.legislation.gov.uk/nisr/2021/269) and S.R. 2022 Nos. [149](https://www.legislation.gov.uk/nisr/2022/149) and [230](https://www.legislation.gov.uk/nisr/2022/230)
 
-[^key-5e3badecf0ec23ca33c22111676e35b0]: Commencement: Reg. 3 in operation at 18.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/80/regulation/1)
+[^c-5e3badecf0ec23ca33c22111676e35b0]: Commencement: Reg. 3 in operation at 18.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/80/regulation/1)
 
 [^f00019]: Footnote: [S.R. 2016 No. 216](https://www.legislation.gov.uk/nisr/2016/216); relevant amending Regulations are [S.R. 2021 No. 269](https://www.legislation.gov.uk/nisr/2021/269) and S.R. 2022 Nos. [149](https://www.legislation.gov.uk/nisr/2022/149) and [230](https://www.legislation.gov.uk/nisr/2022/230)
 
 [^f00020]: Footnote: Sub-paragraph (zc) was inserted by regulation 3(3) of [S.R. 2022 No. 149](https://www.legislation.gov.uk/nisr/2022/149) and amended by regulation 2(1) of [S.R. 2022 No. 230](https://www.legislation.gov.uk/nisr/2022/230)
 
-[^key-660a28a05d0f675f5def793561407e1c]: Commencement: Reg. 4 in operation at 18.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/80/regulation/1)
+[^c-660a28a05d0f675f5def793561407e1c]: Commencement: Reg. 4 in operation at 18.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/80/regulation/1)
 
 [^f00021]: Footnote: Sub-paragraphs (c) to (e) were added by regulation 4(3)(b) of [S.R. 2021 No. 269](https://www.legislation.gov.uk/nisr/2021/269) and amended by regulation 4(2) of [S.R. 2022 No. 149](https://www.legislation.gov.uk/nisr/2022/149)
 
@@ -219,7 +219,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00026]: Footnote: [S.R. 1992 No. 32](https://www.legislation.gov.uk/nisr/1992/32); regulation 2C was inserted by regulation 8(3) of [S.R. 2017 No. 218](https://www.legislation.gov.uk/nisr/2017/218); relevant amending Regulations are [S.R. 2021 No. 269](https://www.legislation.gov.uk/nisr/2021/269) and S.R. 2022 Nos. [149](https://www.legislation.gov.uk/nisr/2022/149) and [230](https://www.legislation.gov.uk/nisr/2022/230)
 
-[^key-9ebc72d56f17fd13e75ffbce59d56633]: Commencement: Reg. 5 in operation at 18.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/80/regulation/1)
+[^c-9ebc72d56f17fd13e75ffbce59d56633]: Commencement: Reg. 5 in operation at 18.5.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/80/regulation/1)
 
 [^f00027]: Footnote: [S.R. 2016 No. 217](https://www.legislation.gov.uk/nisr/2016/217); regulation 23A was inserted by regulation 15 of [S.R. 2017 No. 218](https://www.legislation.gov.uk/nisr/2017/218); relevant amending Regulations are [S.R. 2021 No. 269](https://www.legislation.gov.uk/nisr/2021/269) and S.R. 2022 Nos. [149](https://www.legislation.gov.uk/nisr/2022/149) and [230](https://www.legislation.gov.uk/nisr/2022/230)
 

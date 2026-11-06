@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Power to alter layout, etc., of streets[^key-c7aa4111515214f610febd9450646b4f]
+## 9. Power to alter layout, etc., of streets[^c-c7aa4111515214f610febd9450646b4f]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Regardless of the specific powers conferred by paragraph (1), but subject to paragraphs (3) and (4), the undertaker may, for the purposes of constructing and maintaining the authorised development alter the layout of any street within the Order limits and, without limitation on the scope of this paragraph, the undertaker may—
 
-- (a) permanently or temporarily alter[^key-fa372aa91f07193df8ce90532eaa6e8f] the layout of any street or junction;
+- (a) permanently or temporarily alter[^c-fa372aa91f07193df8ce90532eaa6e8f] the layout of any street or junction;
 - (b) increase the width of the carriageway of the street by reducing the width of any kerb, footpath, footway, cycle tract or verge within the street;
 - (c) alter the level or increase the width of any kerb, footpath, footway, cycle track or verge;
 - (d) reduce the width of the carriageway of the street;
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7aa4111515214f610febd9450646b4f]: Commencement: Art. 9 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-c7aa4111515214f610febd9450646b4f]: Commencement: Art. 9 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
 
-[^key-fa372aa91f07193df8ce90532eaa6e8f]: Textual amendment: Word in art. 9(2)(a) substituted (31.3.2017) by [The North Wales Wind Farms Connection (Correction) Order 2017 (S.I. 2017/501)](https://www.legislation.gov.uk/uksi/2017/501), [art. 1](https://www.legislation.gov.uk/uksi/2017/501/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/501/schedule)
+[^c-fa372aa91f07193df8ce90532eaa6e8f]: Textual amendment: Word in art. 9(2)(a) substituted (31.3.2017) by [The North Wales Wind Farms Connection (Correction) Order 2017 (S.I. 2017/501)](https://www.legislation.gov.uk/uksi/2017/501), [art. 1](https://www.legislation.gov.uk/uksi/2017/501/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/501/schedule)

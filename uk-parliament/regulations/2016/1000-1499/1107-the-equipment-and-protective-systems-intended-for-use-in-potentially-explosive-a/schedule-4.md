@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 53(1)
 
-### 1. Enforcement powers under the 1974[^key-8c022dccb2c9c7fbcb2cced6f4035f83]
+### 1. Enforcement powers under the 1974[^c-8c022dccb2c9c7fbcb2cced6f4035f83]
 
 For the purposes of enforcing these Regulations, the following sections of the 1974 Act apply subject to the modifications in paragraph 2—
 
@@ -45,7 +45,7 @@ For the purposes of enforcing these Regulations, the following sections of the 1
 - (q) section 41 (evidence); and
 - (r) section 42 (power of court to order cause of offence to be remedied or, in certain cases, forfeiture).
 
-### 2. Modifications to the 1974 Act[^key-6bdb2efe702d5708ca25986c1c72100e]
+### 2. Modifications to the 1974 Act[^c-6bdb2efe702d5708ca25986c1c72100e]
 
 The sections of the 1974 Act referred to in paragraph 1 are to apply as if—
 
@@ -135,6 +135,6 @@ The sections of the 1974 Act referred to in paragraph 1 are to apply as if—
 
 ## Annotations
 
-[^key-8c022dccb2c9c7fbcb2cced6f4035f83]: Commencement: Sch. 4 para. 1 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-8c022dccb2c9c7fbcb2cced6f4035f83]: Commencement: Sch. 4 para. 1 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
 
-[^key-6bdb2efe702d5708ca25986c1c72100e]: Commencement: Sch. 4 para. 2 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-6bdb2efe702d5708ca25986c1c72100e]: Commencement: Sch. 4 para. 2 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Notices under section 60 of the Insurance Companies Act[^key-29f04824256246c8317405dc9a2ac4b0]
+## 50. Notices under section 60 of the Insurance Companies Act[^c-29f04824256246c8317405dc9a2ac4b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ the notice is to be treated as an application made by the authorised person unde
 
 ## Annotations
 
-[^key-29f04824256246c8317405dc9a2ac4b0]: Commencement: Art. 50 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-29f04824256246c8317405dc9a2ac4b0]: Commencement: Art. 50 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
 
 [^f00028]: Footnote: Section 60 has been amended by the 3ID Regulations and by the Transfer of Functions (Insurance) Order 1997 (S.I. [1997/2781](https://www.legislation.gov.uk/uksi/1997/2781)).
 

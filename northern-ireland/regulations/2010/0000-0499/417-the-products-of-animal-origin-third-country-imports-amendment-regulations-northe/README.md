@@ -32,7 +32,7 @@ summary: ''
 
 Agriculture
 
-The Products of Animal Origin (Third Country Imports) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^key-d43356bc98190fd540fc97d5c78878b0]
+The Products of Animal Origin (Third Country Imports) (Amendment) Regulations (Northern Ireland) 2010 (revoked)[^c-d43356bc98190fd540fc97d5c78878b0]
 
 Made
 
@@ -42,7 +42,7 @@ Coming into operation
 
 10th January 2011
 
-[^key-d43356bc98190fd540fc97d5c78878b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d43356bc98190fd540fc97d5c78878b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -56,12 +56,12 @@ Coming into operation
 
 **No longer in force.**
 
-[^key-d43356bc98190fd540fc97d5c78878b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d43356bc98190fd540fc97d5c78878b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: N.I.*
 
-[^key-d43356bc98190fd540fc97d5c78878b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d43356bc98190fd540fc97d5c78878b0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d43356bc98190fd540fc97d5c78878b0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/417) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(j)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/j)
+[^c-d43356bc98190fd540fc97d5c78878b0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2010/417) revoked (1.1.2012) by [The Trade in Animals and Related Products Regulations (Northern Ireland) 2011 (S.R. 2011/438)](https://www.legislation.gov.uk/nisr/2011/438), [regs. 1](https://www.legislation.gov.uk/nisr/2011/438/regulation/1), [42(1)(j)](https://www.legislation.gov.uk/nisr/2011/438/regulation/42/1/j)

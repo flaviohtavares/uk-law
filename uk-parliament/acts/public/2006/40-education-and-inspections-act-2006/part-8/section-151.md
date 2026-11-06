@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151. Publication of inspection reports[^key-e8d92181bd1e7c800463bd1fab8b89e2][^key-27a8173b05d8a19a64bcc0b5de4de32f]
+## 151. Publication of inspection reports[^c-e8d92181bd1e7c800463bd1fab8b89e2][^c-27a8173b05d8a19a64bcc0b5de4de32f]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ is privileged unless its publication is shown to have been made with malice.
 
 ## Annotations
 
-[^key-e8d92181bd1e7c800463bd1fab8b89e2]: Commencement: S. 151 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-e8d92181bd1e7c800463bd1fab8b89e2]: Commencement: S. 151 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
 
-[^key-27a8173b05d8a19a64bcc0b5de4de32f]: Modification: S. 151 applied by 2005 c. 18, s. 10A(4) (as inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 225(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/225/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule))
+[^c-27a8173b05d8a19a64bcc0b5de4de32f]: Modification: S. 151 applied by 2005 c. 18, s. 10A(4) (as inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), [ss. 225(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/225/2), [269(4)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/4); [S.I. 2009/3317](https://www.legislation.gov.uk/uksi/2009/3317), [art. 2](https://www.legislation.gov.uk/uksi/2009/3317/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/3317/schedule))

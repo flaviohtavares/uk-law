@@ -31,7 +31,7 @@ summary: ''
 
 (4) The Tribunals and Inquiries Act 1992 [^c21139551] applies to a hearing held by a person appointed in pursuance of paragraph (2) to determine an appeal as it applies to a statutory inquiry held by the Secretary of State, but as if in section 10(1) of that Act (statement of reasons for decisions) the reference to any decision taken by the Secretary of State included a reference to a decision taken on the Secretary of State's behalf by that person.
 
-(5)[^key-d907121173deaf00c6d4f1ef52aa4578] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-d907121173deaf00c6d4f1ef52aa4578] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Without prejudice to the right of any person to make an application for judicial review—
 
@@ -45,16 +45,16 @@ summary: ''
 
 (9) Where an appeal is made under this regulation, the decision in question is suspended pending the final determination of the appeal.
 
-(10) This regulation does not apply to a decision of DFI[^key-44b53c8cf28a123efdb42a255ed0cb71] under regulations 5 to 11.
+(10) This regulation does not apply to a decision of DFI[^c-44b53c8cf28a123efdb42a255ed0cb71] under regulations 5 to 11.
 
 ## Annotations
 
 [^c21139551]: Marginal citation: [1992 c.53](https://www.legislation.gov.uk/ukpga/1992/53).
 
-[^key-d907121173deaf00c6d4f1ef52aa4578]: Textual amendment: [Reg. 37(5)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/37/5) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 92](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/92)
+[^c-d907121173deaf00c6d4f1ef52aa4578]: Textual amendment: [Reg. 37(5)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/37/5) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 92](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/92)
 
 [^c21139571]: Marginal citation: [S.I. 1974/2040](https://www.legislation.gov.uk/uksi/1974/2040).
 
 [^c21139581]: Marginal citation: [S.I. 1974/2068](https://www.legislation.gov.uk/uksi/1974/2068).
 
-[^key-44b53c8cf28a123efdb42a255ed0cb71]: Textual amendment: Word in [reg. 37(10)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/37/10) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(43)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44b53c8cf28a123efdb42a255ed0cb71]: Textual amendment: Word in [reg. 37(10)](https://www.legislation.gov.uk/uksi/2011/3066/regulation/37/10) substituted (31.12.2020) by [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(43)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

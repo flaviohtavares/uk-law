@@ -52,17 +52,17 @@ In accordance with section 51(1)(a) and (c) of the Taxation (Cross-border Trade)
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-2aa46426967abc5b6250693af5bd4108]
+### 1. Citation and commencement[^c-2aa46426967abc5b6250693af5bd4108]
 
 These Regulations may be cited as the Travellers’ Allowances and Miscellaneous Provisions (EU Exit) Regulations 2020 and come into force on IP completion day.
 
 ## PART 2 — Travellers’ allowances and simplified computation
 
-### 2. Amendment of the Travellers’ Allowances Order 1994[^key-5cd29a904ebce16c46758235b4096c6f]
+### 2. Amendment of the Travellers’ Allowances Order 1994[^c-5cd29a904ebce16c46758235b4096c6f]
 
 The Travellers’ Allowances Order 1994[^f00002] is amended as follows.
 
-**3.**[^key-f709ad6d3b7bc369966da00fffd81f8d] After article 1 insert—
+**3.**[^c-f709ad6d3b7bc369966da00fffd81f8d] After article 1 insert—
 
 > **1A. Interpretation**
 >
@@ -77,7 +77,7 @@ The Travellers’ Allowances Order 1994[^f00002] is amended as follows.
 
 .
 
-**4.**[^key-381e237e01bf7b7084e172acc2bd21a7] In article 2—
+**4.**[^c-381e237e01bf7b7084e172acc2bd21a7] In article 2—
 
 - (a) in paragraph (1)—
   - (i) omit “who has travelled from a third country”;
@@ -85,9 +85,9 @@ The Travellers’ Allowances Order 1994[^f00002] is amended as follows.
   - (iii) for “the Schedule” substitute “Schedule 1”;
 - (b) omit paragraphs (2) and (3).
 
-**5.**[^key-e3ef25afaafd4154d0876e10648d572c] In article 3 omit the words from “That condition” to the end.
+**5.**[^c-e3ef25afaafd4154d0876e10648d572c] In article 3 omit the words from “That condition” to the end.
 
-**6.**[^key-6a9882728ba6a609619d914bb0951558] After article 5 insert—
+**6.**[^c-6a9882728ba6a609619d914bb0951558] After article 5 insert—
 
 > **6. Simplified calculation of excise duty**
 >
@@ -99,7 +99,7 @@ The Travellers’ Allowances Order 1994[^f00002] is amended as follows.
 
 .
 
-**7.**[^key-a43cd7ca11b746445e5d6d5ffd70544e] (1) The Schedule is amended as follows.
+**7.**[^c-a43cd7ca11b746445e5d6d5ffd70544e] (1) The Schedule is amended as follows.
 
 (2) Renumber the Schedule as Schedule 1.
 
@@ -115,7 +115,7 @@ The Travellers’ Allowances Order 1994[^f00002] is amended as follows.
 - (f) in the entry for “still wine” for “4 litres” substitute “18 litres”;
 - (g) in the entry for “tobacco products” after “smoking tobacco” insert “, or 200 sticks of tobacco for heating”.
 
-**8.**[^key-4a7162184976430ec1dd8fd7cf59a4fc] After the Schedule insert—
+**8.**[^c-4a7162184976430ec1dd8fd7cf59a4fc] After the Schedule insert—
 
 > **SCHEDULE 2 — SIMPLIFIED CALCULATION OF EXCISE DUTY (GREAT BRITAIN)**
 >
@@ -146,11 +146,11 @@ The Travellers’ Allowances Order 1994[^f00002] is amended as follows.
 
 ### CHAPTER 1 — Consequential provisions
 
-#### 9. References to section 13 of the Customs and Excise (General Reliefs) Act 1979[^key-ff5a472e8c9c24d77fa7cde7130449ed]
+#### 9. References to section 13 of the Customs and Excise (General Reliefs) Act 1979[^c-ff5a472e8c9c24d77fa7cde7130449ed]
 
 Any reference in any provision made by or under any enactment to orders made under section 13(1) of the Customs and Excise Duties (General Reliefs) Act 1979[^f00005] is to be read as including a reference to any regulations made under section 51 of the Taxation (Cross-border Trade) Act 2018 that grant relief from VAT or excise duty to persons entering the United Kingdom.
 
-#### 10. References to a person entering the United Kingdom[^key-ca4eca3da29c74b211608bd8b525522a]
+#### 10. References to a person entering the United Kingdom[^c-ca4eca3da29c74b211608bd8b525522a]
 
 (1) Where provision is made by or under any enactment to the effect that, on entering the United Kingdom, a person—
 
@@ -163,7 +163,7 @@ the reference to the United Kingdom is to be interpreted as including a control 
 
 ### CHAPTER 2 — Miscellaneous amendments
 
-#### 11. Amendment of the Value Added Tax Regulations 1995[^key-6dde15eae0bf95d750ad1ac068714c67]
+#### 11. Amendment of the Value Added Tax Regulations 1995[^c-6dde15eae0bf95d750ad1ac068714c67]
 
 (1) Part 16 (importations, exportations and removals) of the Value Added Tax Regulations 1995[^f00007] is amended as follows.
 
@@ -183,7 +183,7 @@ the reference to the United Kingdom is to be interpreted as including a control 
 
 (5) Omit regulation 131.
 
-#### 12. Amendment of the Tobacco Products Regulations 2001[^key-35d205c58ff4be853c2342129b1aa868]
+#### 12. Amendment of the Tobacco Products Regulations 2001[^c-35d205c58ff4be853c2342129b1aa868]
 
 (1) The Tobacco Products Regulations 2001[^f00009] are amended as follows.
 
@@ -196,31 +196,31 @@ the reference to the United Kingdom is to be interpreted as including a control 
 
 > (2A) A person afforded relief from duty under section 3 of the Taxation (Cross-border Trade) Act 2018 is not guilty of an offence contrary to section 8G(4) of the Act unless his conduct occasioned the excise duty point prescribed by regulation 12(4) above.
 
-#### 13. Amendment of the Duty Stamps Regulations 2006[^key-f359fdbe39534a864ad6b78beed32d1d]
+#### 13. Amendment of the Duty Stamps Regulations 2006[^c-f359fdbe39534a864ad6b78beed32d1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### CHAPTER 3 — Sales on board ships, aircraft and trains
 
-#### 14. Revocation of the Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999[^key-fe1e91872a9b7e8e62bf6fa7b23e684b]
+#### 14. Revocation of the Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999[^c-fe1e91872a9b7e8e62bf6fa7b23e684b]
 
 The Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999[^f00011] are revoked.
 
-#### 15. Consequential amendments and revocation[^key-c04574b0ebba0c83fb36cefa2d33cfcb]
+#### 15. Consequential amendments and revocation[^c-c04574b0ebba0c83fb36cefa2d33cfcb]
 
 Omit regulation 7(2)(d) (interpretation of other regulations relating to excise goods) of the Excise Duty Points (Etc.) (New Member States) Regulations 2004[^f00012].
 
-**16.**[^key-954c4ec5f827ce856d320addcfa38bb2] Omit regulation 16(2) (other regulations) of the Hydrocarbon Oil (Registered Remote Markers) Regulations 2005[^f00013].
+**16.**[^c-954c4ec5f827ce856d320addcfa38bb2] Omit regulation 16(2) (other regulations) of the Hydrocarbon Oil (Registered Remote Markers) Regulations 2005[^f00013].
 
 **17.**[^M_F_307e272b-dd2c-430c-e094-e2023fa5fc8d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-8c74b88eefd982eaf1d92190224c3dd5] The Excise Goods (Sales on Board Ships and Aircraft) (Amendment) Regulations 2010[^f00014] are revoked.
+**18.**[^c-8c74b88eefd982eaf1d92190224c3dd5] The Excise Goods (Sales on Board Ships and Aircraft) (Amendment) Regulations 2010[^f00014] are revoked.
 
-**19.**[^key-3d495820d117701c47503c806ff4727a] Omit regulations 17 to 20 (amendments to the Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999) of the Excise Goods (Aircraft and Ship’s Stores) Regulations 2015[^f00015].
+**19.**[^c-3d495820d117701c47503c806ff4727a] Omit regulations 17 to 20 (amendments to the Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999) of the Excise Goods (Aircraft and Ship’s Stores) Regulations 2015[^f00015].
 
 ### CHAPTER 4 — Export shops and stores
 
-#### 20. Amendment of the Excise Goods (Export Shops) Regulations 2000[^key-0998def2074d3f28513881262b8145b8]
+#### 20. Amendment of the Excise Goods (Export Shops) Regulations 2000[^c-0998def2074d3f28513881262b8145b8]
 
 (1) The Excise Goods (Export Shops) Regulations 2000[^f00016] are amended as follows.
 
@@ -264,7 +264,7 @@ Omit regulation 7(2)(d) (interpretation of other regulations relating to excise 
 - (b) in paragraph 4 for “port or airport” substitute “port, airport or international railway station or terminal”;
 - (c) in paragraph 5(b) for “port or airport” substitute “port, airport or international railway station or terminal”.
 
-#### 21. Amendment of the Excise Goods (Aircraft and Ship’s Stores) Regulations 2015[^key-cb318f7b91f06f8092d78c0740504cbf]
+#### 21. Amendment of the Excise Goods (Aircraft and Ship’s Stores) Regulations 2015[^c-cb318f7b91f06f8092d78c0740504cbf]
 
 (1) The Excise Goods (Aircraft and Ship’s Stores) Regulations 2015[^f00019] are amended as follows.
 
@@ -302,19 +302,19 @@ Omit regulation 7(2)(d) (interpretation of other regulations relating to excise 
 
 ## PART 4 — Transitional and savings provisions
 
-### 22. The Travellers’ Allowances Order 1994[^key-477c3593d227e951cd559fc283682db3]
+### 22. The Travellers’ Allowances Order 1994[^c-477c3593d227e951cd559fc283682db3]
 
 The Travellers’ Allowances Order 1994[^f00020] as it had effect immediately before IP completion day continues to have effect in relation to persons who are travelling on a voyage, flight or railway journey to the United Kingdom that is scheduled to depart before IP completion day.
 
-### 23. The Value Added Tax Regulations 1995[^key-4af1622cd829983e88c3bef3997a9870]
+### 23. The Value Added Tax Regulations 1995[^c-4af1622cd829983e88c3bef3997a9870]
 
 The amendments made by regulation 11(2) and (5) do not have effect in relation to goods that were purchased before IP completion day.
 
-### 24. The Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999[^key-8cd3c9e1f1ff72ed308569f5475ed548]
+### 24. The Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999[^c-8cd3c9e1f1ff72ed308569f5475ed548]
 
 The Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999[^f00021] continue to have effect in relation to persons and excise goods on board any ship or aircraft that is scheduled to depart before IP completion day.
 
-### 25. The Tobacco Products Regulations 2001[^key-14608e5c8fe642b24fdaa9db023ec08c]
+### 25. The Tobacco Products Regulations 2001[^c-14608e5c8fe642b24fdaa9db023ec08c]
 
 (1) The Tobacco Products Regulations 2001[^f00022] as they had effect immediately before IP completion day continue to have effect in relation to specified tobacco products that are in the course of a movement on IP completion day.
 
@@ -323,7 +323,7 @@ The Excise Goods (Sales on Board Ships and Aircraft) Regulations 1999[^f00021] c
 - (a) “**specified tobacco products**” has the meaning given in regulation 3 of the Tobacco Products Regulations 2001;
 - (b) goods are “in the course of a movement on IP completion day” where those goods have been dispatched before IP completion day.
 
-### 26. The Duty Stamps Regulations 2006[^key-bf506ee8f3e65a11b6cedf70c08c5e0c]
+### 26. The Duty Stamps Regulations 2006[^c-bf506ee8f3e65a11b6cedf70c08c5e0c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -371,71 +371,71 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00001]: Footnote: [2018 c. 22](https://www.legislation.gov.uk/ukpga/2018/22); section 51(1)(a) and (c) permits “the appropriate Minister” to make provision relating to value added tax and any excise duty. Under section 51(4)(b) “**the appropriate Minister**” means the Treasury. “**Excise duty**” has the meaning given in section 53 of the Taxation (Cross-border Trade) Act 2018.
 
-[^key-2aa46426967abc5b6250693af5bd4108]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-2aa46426967abc5b6250693af5bd4108]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
-[^key-5cd29a904ebce16c46758235b4096c6f]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-5cd29a904ebce16c46758235b4096c6f]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1994/955](https://www.legislation.gov.uk/uksi/1994/955); amended by [S.I. 2008/3058](https://www.legislation.gov.uk/uksi/2008/3058), [2009/3172](https://www.legislation.gov.uk/uksi/2009/3172) and [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and modified by [S.I. 2010/594](https://www.legislation.gov.uk/uksi/2010/594), as amended by [S.I. 2019/474](https://www.legislation.gov.uk/uksi/2019/474).
 
-[^key-f709ad6d3b7bc369966da00fffd81f8d]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-f709ad6d3b7bc369966da00fffd81f8d]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00003]: Footnote: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4).
 
 [^f00004]: Footnote: [1979 c. 7](https://www.legislation.gov.uk/ukpga/1979/7).
 
-[^key-381e237e01bf7b7084e172acc2bd21a7]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-381e237e01bf7b7084e172acc2bd21a7]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
-[^key-e3ef25afaafd4154d0876e10648d572c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-e3ef25afaafd4154d0876e10648d572c]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
-[^key-6a9882728ba6a609619d914bb0951558]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-6a9882728ba6a609619d914bb0951558]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
-[^key-a43cd7ca11b746445e5d6d5ffd70544e]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-a43cd7ca11b746445e5d6d5ffd70544e]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
-[^key-4a7162184976430ec1dd8fd7cf59a4fc]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-4a7162184976430ec1dd8fd7cf59a4fc]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
-[^key-ff5a472e8c9c24d77fa7cde7130449ed]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-ff5a472e8c9c24d77fa7cde7130449ed]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00005]: Footnote: Section 13(1) was amended by the Taxation (Cross-border Trade) Act [2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), section 29 and paragraphs 118 and 131(1) and (2)(a) to (c) of Schedule 7.
 
-[^key-ca4eca3da29c74b211608bd8b525522a]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-ca4eca3da29c74b211608bd8b525522a]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00006]: Footnote: [S.I. 1990/2167](https://www.legislation.gov.uk/uksi/1990/2167); amended by [S.I. 1993/1813](https://www.legislation.gov.uk/uksi/1993/1813), [1994/1405](https://www.legislation.gov.uk/uksi/1994/1405) and [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043). Further amendments are made by [S.I. 2018/1247](https://www.legislation.gov.uk/uksi/2018/1247) but these have not been brought into force.
 
-[^key-6dde15eae0bf95d750ad1ac068714c67]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-6dde15eae0bf95d750ad1ac068714c67]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00007]: Footnote: [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518); amended by [S.I. 1995/3147](https://www.legislation.gov.uk/uksi/1995/3147), [1996/210](https://www.legislation.gov.uk/uksi/1996/210), [1999/438](https://www.legislation.gov.uk/uksi/1999/438), [2003/1485](https://www.legislation.gov.uk/uksi/2003/1485), [2006/3292](https://www.legislation.gov.uk/uksi/2006/3292), [2013/2241](https://www.legislation.gov.uk/uksi/2013/2241) and [2019/513](https://www.legislation.gov.uk/uksi/2019/513). The amendments made by [S.I. 2019/513](https://www.legislation.gov.uk/uksi/2019/513) are not yet in force. There are other amending instruments, but none is relevant.
 
 [^f00008]: Footnote: [S.I. 2019/108](https://www.legislation.gov.uk/uksi/2019/108); the definition of personal gifts on export is inserted by [S.I. 2019/1346](https://www.legislation.gov.uk/uksi/2019/1346). There are other amending instruments, but none is relevant.
 
-[^key-35d205c58ff4be853c2342129b1aa868]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-35d205c58ff4be853c2342129b1aa868]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00009]: Footnote: [S.I. 2001/1712](https://www.legislation.gov.uk/uksi/2001/1712); regulation 23 is amended by [S.I. 2002/2692](https://www.legislation.gov.uk/uksi/2002/2692) and [2006/1787](https://www.legislation.gov.uk/uksi/2006/1787). There is another amending instrument, but it is not relevant.
 
-[^key-f359fdbe39534a864ad6b78beed32d1d]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1412/regulation/13) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(g)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/g)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-f359fdbe39534a864ad6b78beed32d1d]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2020/1412/regulation/13) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(g)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/g)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
 
-[^key-fe1e91872a9b7e8e62bf6fa7b23e684b]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-fe1e91872a9b7e8e62bf6fa7b23e684b]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00011]: Footnote: [S.I. 1999/1565](https://www.legislation.gov.uk/uksi/1999/1565); amended by [S.I. 2005/3472](https://www.legislation.gov.uk/uksi/2005/3472), [2010/592](https://www.legislation.gov.uk/uksi/2010/592), [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and [2015/368](https://www.legislation.gov.uk/uksi/2015/368), and modified by [S.I. 2004/1003](https://www.legislation.gov.uk/uksi/2004/1003).
 
-[^key-c04574b0ebba0c83fb36cefa2d33cfcb]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-c04574b0ebba0c83fb36cefa2d33cfcb]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00012]: Footnote: [S.I. 2004/1003](https://www.legislation.gov.uk/uksi/2004/1003); to which there are amendments not relevant to these Regulations.
 
-[^key-954c4ec5f827ce856d320addcfa38bb2]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-954c4ec5f827ce856d320addcfa38bb2]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00013]: Footnote: [S.I. 2005/3472](https://www.legislation.gov.uk/uksi/2005/3472); to which there are amendments not relevant to these Regulations.
 
 [^M_F_307e272b-dd2c-430c-e094-e2023fa5fc8d]: Textual amendment: Reg. 17 revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(g)(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/g/4) (with [s. 64(5)(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5/6))
 
-[^key-8c74b88eefd982eaf1d92190224c3dd5]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-8c74b88eefd982eaf1d92190224c3dd5]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00014]: Footnote: [S.I. 2010/592](https://www.legislation.gov.uk/uksi/2010/592).
 
-[^key-3d495820d117701c47503c806ff4727a]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-3d495820d117701c47503c806ff4727a]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00015]: Footnote: [S.I. 2015/368](https://www.legislation.gov.uk/uksi/2015/368).
 
-[^key-0998def2074d3f28513881262b8145b8]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-0998def2074d3f28513881262b8145b8]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00016]: Footnote: [S.I. 2000/645](https://www.legislation.gov.uk/uksi/2000/645); amended by [S.I. 2010/593](https://www.legislation.gov.uk/uksi/2010/593) and modified by [S.I. 2004/1003](https://www.legislation.gov.uk/uksi/2004/1003).
 
@@ -443,22 +443,22 @@ A Tax Information and Impact Note covering this instrument will be published on 
 
 [^f00018]: Footnote: OJ L 9, 14.1.2009, p.12.
 
-[^key-cb318f7b91f06f8092d78c0740504cbf]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-cb318f7b91f06f8092d78c0740504cbf]: Commencement: Reg. 21 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00019]: Footnote: [S.I. 2015/368](https://www.legislation.gov.uk/uksi/2015/368).
 
-[^key-477c3593d227e951cd559fc283682db3]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-477c3593d227e951cd559fc283682db3]: Commencement: Reg. 22 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00020]: Footnote: [S.I. 1994/955](https://www.legislation.gov.uk/uksi/1994/955); amended by [S.I. 2009/3058](https://www.legislation.gov.uk/uksi/2009/3058), [2009/3172](https://www.legislation.gov.uk/uksi/2009/3172) and [2011/1043](https://www.legislation.gov.uk/uksi/2011/1043) and modified by [S.I. 2019/594](https://www.legislation.gov.uk/uksi/2019/594).
 
-[^key-4af1622cd829983e88c3bef3997a9870]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-4af1622cd829983e88c3bef3997a9870]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
-[^key-8cd3c9e1f1ff72ed308569f5475ed548]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-8cd3c9e1f1ff72ed308569f5475ed548]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00021]: Footnote: [S.I. 1999/1565](https://www.legislation.gov.uk/uksi/1999/1565); amended by [S.I 2010/592](https://www.legislation.gov.uk/uksi/2010/592).
 
-[^key-14608e5c8fe642b24fdaa9db023ec08c]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
+[^c-14608e5c8fe642b24fdaa9db023ec08c]: Commencement: Reg. 25 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1412/regulation/1)
 
 [^f00022]: Footnote: [S.I. 2001/1712](https://www.legislation.gov.uk/uksi/2001/1712); relevant amending instruments are [S.I 2002/2692](https://www.legislation.gov.uk/uksi/2002/2692), [2006/1787](https://www.legislation.gov.uk/uksi/2006/1787) and [2019/13](https://www.legislation.gov.uk/uksi/2019/13).
 
-[^key-bf506ee8f3e65a11b6cedf70c08c5e0c]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1412/regulation/26) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(g)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/g)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))
+[^c-bf506ee8f3e65a11b6cedf70c08c5e0c]: Textual amendment: [Reg. 26](https://www.legislation.gov.uk/uksi/2020/1412/regulation/26) revoked (1.5.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 64(3)(g)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/3/g)[(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/4) (with [s. 64(5)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2025/8/section/64/6))

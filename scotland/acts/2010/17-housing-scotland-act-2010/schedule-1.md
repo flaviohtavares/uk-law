@@ -24,7 +24,7 @@ summary: ''
 
 ### Transfer of staff
 
-**1.**[^key-245fc2b4d3af982371e322e9fa317ed1] (1) All staff, other than excepted staff, employed immediately before the coming into force of this paragraph in the Executive Agency of Ministers known as the Scottish Housing Regulator are transferred to, and become members of staff of, the Regulator. Accordingly—
+**1.**[^c-245fc2b4d3af982371e322e9fa317ed1] (1) All staff, other than excepted staff, employed immediately before the coming into force of this paragraph in the Executive Agency of Ministers known as the Scottish Housing Regulator are transferred to, and become members of staff of, the Regulator. Accordingly—
 
 - (a) the contract of employment of a transferred person—
   - (i) is not terminated by the transfer, and
@@ -40,7 +40,7 @@ summary: ''
 
 ### Transfer of assets and liabilities
 
-**2.**[^key-86aed02903e21933795e1a69f5964af8] (1) Ministers may by order provide for the transfer to the Regulator of—
+**2.**[^c-86aed02903e21933795e1a69f5964af8] (1) Ministers may by order provide for the transfer to the Regulator of—
 
 - (a) any assets held or used by them for or in connection with the purposes of the Executive Agency of Ministers known as the Scottish Housing Regulator,
 - (b) any liabilities of Ministers incurred for or in connection with those purposes.
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-245fc2b4d3af982371e322e9fa317ed1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2010/17/schedule/1/paragraph/1) in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-245fc2b4d3af982371e322e9fa317ed1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2010/17/schedule/1/paragraph/1) in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
 
-[^key-86aed02903e21933795e1a69f5964af8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2010/17/schedule/1/paragraph/2) in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-86aed02903e21933795e1a69f5964af8]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2010/17/schedule/1/paragraph/2) in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

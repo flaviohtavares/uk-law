@@ -28,7 +28,7 @@ summary: ''
   - (b) is such that any goods in the bulk are interchangeable with any other goods therein of the same number or quantity;
 - “**business**” includes a profession and the activities of any government department (including a Northern Ireland department) or local or public authority;
 - “**buyer**” means a person who buys or agrees to buy goods;
-- [^key-815e79a106dbab8ac641cf527f1d200e]...
+- [^c-815e79a106dbab8ac641cf527f1d200e]...
 - “**contract of sale**” includes an agreement to sell as well as a sale;
 - “**credit-broker**” means a person acting in the course of a business of credit brokerage carried on by him, that is a business of effecting introductions of individuals desiring to obtain credit—
   - (a) to persons carrying on any business so far as it relates to the provision of credit, or
@@ -41,9 +41,9 @@ summary: ''
 - “**future goods**” means goods to be manufactured or acquired by the seller after the making of the contract of sale;
 - “**goods**” includes all personal chattels other than things in action and money, and in Scotland all corporeal moveables except money; and in particular “**goods**” includes emblements, industrial growing crops, and things attached to or forming part of the land which are agreed to be severed before sale or under the contract of sale; and includes an undivided share in goods;[^c1108978]
 - “**plaintiff**” includes pursuer, complainer, claimant in a multiplepoinding and defendant or defender counter-claiming;
-- [^key-9155c5b9380bde0e622ecd5160b4894e]...
+- [^c-9155c5b9380bde0e622ecd5160b4894e]...
 - “**property**” means the general property in goods, and not merely a special property;
-- [^key-89c723fed4b7837af75628626185e2bd]...
+- [^c-89c723fed4b7837af75628626185e2bd]...
 - [^c1108981]...
 - “**sale**” includes a bargain and sale as well as a sale and delivery;
 - “**seller**” means a person who sells or agrees to sell goods;
@@ -58,7 +58,7 @@ summary: ''
 
 (5) Goods are in a deliverable state within the meaning of this Act when they are in such a state that the buyer would under the contract be bound to take delivery of them.
 
-(5A)[^key-551d0ddb829787036b8c0d6e68e5d901] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5A)[^c-551d0ddb829787036b8c0d6e68e5d901] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) As regards the definition of “**business**” in subsection (1) above, paragraph 14 of Schedule 1 below applies in relation to a contract made on or after 18 May 1973 and before 1 February 1978, and paragraph 15 in relation to one made before 18 May 1973.
 
@@ -66,7 +66,7 @@ summary: ''
 
 [^c1108973]: Textual amendment: Definition of "bulk" in s. 61(1) inserted (19.9.1995) by [1995 c. 28](https://www.legislation.gov.uk/ukpga/1995/28), [ss. 2(a)](https://www.legislation.gov.uk/ukpga/1995/28/section/2/a), [3(2)](https://www.legislation.gov.uk/ukpga/1995/28/section/3/2).
 
-[^key-815e79a106dbab8ac641cf527f1d200e]: Textual amendment: Words in s. 61(1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 35(2)(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/35/2/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-815e79a106dbab8ac641cf527f1d200e]: Textual amendment: Words in s. 61(1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 35(2)(a)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/35/2/a); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c1108975]: Textual amendment: Words in the definition of "delivery" in s. 61(1) added (19.9.1995) by [1995 c. 28](https://www.legislation.gov.uk/ukpga/1995/28), [ss. 2(b)](https://www.legislation.gov.uk/ukpga/1995/28/section/2/b), [3(2)](https://www.legislation.gov.uk/ukpga/1995/28/section/3/2).
 
@@ -76,9 +76,9 @@ summary: ''
 
 [^c1108978]: Textual amendment: Words in the definition of "goods" in s. 61(1) added (19.9.1995) by [1995 c. 28](https://www.legislation.gov.uk/ukpga/1995/28), [s. 2(c)](https://www.legislation.gov.uk/ukpga/1995/28/section/2/c), [3(2)](https://www.legislation.gov.uk/ukpga/1995/28/section/3/2).
 
-[^key-9155c5b9380bde0e622ecd5160b4894e]: Textual amendment: Word in s. 61(1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 35(2)(b)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/35/2/b); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-9155c5b9380bde0e622ecd5160b4894e]: Textual amendment: Word in s. 61(1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 35(2)(b)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/35/2/b); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
-[^key-89c723fed4b7837af75628626185e2bd]: Textual amendment: Word in s. 61(1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 35(2)(c)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/35/2/c); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-89c723fed4b7837af75628626185e2bd]: Textual amendment: Word in s. 61(1) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 35(2)(c)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/35/2/c); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
 
 [^c1108981]: Textual amendment: Definition of "quality" in s. 61(1) repealed (3.1.1995) by [1994 c. 35](https://www.legislation.gov.uk/ukpga/1994/35), [ss. 7](https://www.legislation.gov.uk/ukpga/1994/35/section/7), [8(2)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/2), [Sch. 2 para. 5(9)(a)(ii)](https://www.legislation.gov.uk/ukpga/1994/35/schedule/2/paragraph/5/9/a/ii), [Sch. 3](https://www.legislation.gov.uk/ukpga/1994/35/schedule/3) (with [s. 8(3)](https://www.legislation.gov.uk/ukpga/1994/35/section/8/3)).
 
@@ -90,4 +90,4 @@ summary: ''
 
 [^c1108985]: Textual amendment: Words repealed (S.) by [Bankruptcy (Scotland) Act 1985 (c. 66, SIF 66)](https://www.legislation.gov.uk/ukpga/1985/66), [s. 75(2)](https://www.legislation.gov.uk/ukpga/1985/66/section/75/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/1985/66/schedule/8)
 
-[^key-551d0ddb829787036b8c0d6e68e5d901]: Textual amendment: S. 61(5A) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 35(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/35/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))
+[^c-551d0ddb829787036b8c0d6e68e5d901]: Textual amendment: S. 61(5A) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 1 para. 35(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/1/paragraph/35/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(g)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/g) (with [art. 6(1)](https://www.legislation.gov.uk/uksi/2015/1630/article/6/1))

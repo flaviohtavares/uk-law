@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Procedure in relation to certain approvals etc.[^key-4782bca621070b1ed28e47e8f4ad228c]
+## 43. Procedure in relation to certain approvals etc.[^c-4782bca621070b1ed28e47e8f4ad228c]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4782bca621070b1ed28e47e8f4ad228c]: Commencement: Art. 43 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-4782bca621070b1ed28e47e8f4ad228c]: Commencement: Art. 43 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)

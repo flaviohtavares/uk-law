@@ -137,13 +137,13 @@ Where an initial notice for building work that is not higher-risk building work,
 
 ## 11. Transitional provision: new higher-risk building work
 
-(1) Any new higher-risk building work must be overseen by the building control authority[^key-e0e0b5791c075736dddc338960fedddd] on or after 6 April 2024.
+(1) Any new higher-risk building work must be overseen by the building control authority[^c-e0e0b5791c075736dddc338960fedddd] on or after 6 April 2024.
 
 (2) Initial notices for higher-risk building work must not be submitted to a local authority by an approved inspector or a registered building control authority on or after 6 April 2024.
 
-(3) For the purposes of paragraph (1), new higher-risk building work means higher-risk building work which is not already detailed in an initial notice only relating to building work[^key-762c2f1662e224aab9e29bc0640ccbf6] submitted and accepted, or deemed to be accepted, before 6 April 2024.
+(3) For the purposes of paragraph (1), new higher-risk building work means higher-risk building work which is not already detailed in an initial notice only relating to building work[^c-762c2f1662e224aab9e29bc0640ccbf6] submitted and accepted, or deemed to be accepted, before 6 April 2024.
 
-(4)[^key-2ea5fa4f13321ae20aeea97b598679ee] In paragraph (1), “**building control authority**” means the local authority as stated in section 121A of the Building Act 1984.
+(4)[^c-2ea5fa4f13321ae20aeea97b598679ee] In paragraph (1), “**building control authority**” means the local authority as stated in section 121A of the Building Act 1984.
 
 ## 12. Transitional provision: registered building inspector
 
@@ -320,11 +320,11 @@ The following provisions of the 2022 Act have been brought into force in relatio
 
 [^f00011]: Footnote: See the definition of “amendment notice” in section 51A of the Building Act 1984.
 
-[^key-e0e0b5791c075736dddc338960fedddd]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/wsi/2024/207/regulation/11/1) substituted (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/wsi/2026/55/regulation/11/2/a) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
+[^c-e0e0b5791c075736dddc338960fedddd]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/wsi/2024/207/regulation/11/1) substituted (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [11(2)(a)](https://www.legislation.gov.uk/wsi/2026/55/regulation/11/2/a) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
 
-[^key-762c2f1662e224aab9e29bc0640ccbf6]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/wsi/2024/207/regulation/11/3) inserted (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(4)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/4)
+[^c-762c2f1662e224aab9e29bc0640ccbf6]: Textual amendment: Words in [reg. 11(3)](https://www.legislation.gov.uk/wsi/2024/207/regulation/11/3) inserted (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(4)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/4)
 
-[^key-2ea5fa4f13321ae20aeea97b598679ee]: Textual amendment: [Reg. 11(4)](https://www.legislation.gov.uk/wsi/2024/207/regulation/11/4) inserted (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/wsi/2026/55/regulation/11/2/b) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
+[^c-2ea5fa4f13321ae20aeea97b598679ee]: Textual amendment: [Reg. 11(4)](https://www.legislation.gov.uk/wsi/2024/207/regulation/11/4) inserted (1.7.2026) by [The Building Safety Act 2022 (Consequential Amendments) (Wales) Regulations 2026 (W.S.I. 2026/55)](https://www.legislation.gov.uk/wsi/2026/55), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/55/regulation/1/2), [11(2)(b)](https://www.legislation.gov.uk/wsi/2026/55/regulation/11/2/b) (with [reg. 13](https://www.legislation.gov.uk/wsi/2026/55/regulation/13))
 
 [^f00012]: Footnote: See the definition of “registered building inspector” in section 58B of the Building Act 1984.
 

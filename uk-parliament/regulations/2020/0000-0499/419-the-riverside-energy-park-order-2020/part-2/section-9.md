@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Consent to transfer benefit of the Order[^key-91915e3ee810dc2b70d1d571848e447f]
+## 9. Consent to transfer benefit of the Order[^c-91915e3ee810dc2b70d1d571848e447f]
 
 *Extent: E+W*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) The consent of the Secretary of State is required for the exercise of the powers under paragraph (1) except where—
 
-- (a) the transfer or grant is made to Riverside Energy Park Limited (and in circumstances where Riverside Energy Park Limited is a Cory group company)[^key-e13edebfd06c436edcc2457436c19e89]; or
+- (a) the transfer or grant is made to Riverside Energy Park Limited (and in circumstances where Riverside Energy Park Limited is a Cory group company)[^c-e13edebfd06c436edcc2457436c19e89]; or
 - (b) the transferee or lessee holds a licence under section 6 (licences authorising supply, etc.) of the Electricity Act 1989; or
 - (c) the time limits for all claims for compensation in respect of the acquisition of land or effects upon land under this Order have elapsed and—
   - (i) no such claims have been made;
@@ -56,6 +56,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91915e3ee810dc2b70d1d571848e447f]: Commencement: Art. 9 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-91915e3ee810dc2b70d1d571848e447f]: Commencement: Art. 9 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
-[^key-e13edebfd06c436edcc2457436c19e89]: Textual amendment: Words in [art. 9(4)(a)](https://www.legislation.gov.uk/uksi/2020/419/article/9/4/a) substituted (10.3.2021) by [The Riverside Energy Park (Correction) Order 2021 (S.I. 2021/273)](https://www.legislation.gov.uk/uksi/2021/273), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/273/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/273/schedule)
+[^c-e13edebfd06c436edcc2457436c19e89]: Textual amendment: Words in [art. 9(4)(a)](https://www.legislation.gov.uk/uksi/2020/419/article/9/4/a) substituted (10.3.2021) by [The Riverside Energy Park (Correction) Order 2021 (S.I. 2021/273)](https://www.legislation.gov.uk/uksi/2021/273), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/273/article/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2021/273/schedule)

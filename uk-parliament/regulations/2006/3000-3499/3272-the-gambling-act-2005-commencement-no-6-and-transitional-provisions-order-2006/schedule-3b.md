@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3B — Provisions excluded from coming into force on 1st September 2007[^key-ff03ff720cdaad04c9bd4b9dc5807251]
+## SCHEDULE 3B — Provisions excluded from coming into force on 1st September 2007[^c-ff03ff720cdaad04c9bd4b9dc5807251]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ Article 2(4) and (5)
 
 ## Annotations
 
-[^key-ff03ff720cdaad04c9bd4b9dc5807251]: Textual amendment: [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [6](https://www.legislation.gov.uk/uksi/2007/2169/article/6), [Sch.](https://www.legislation.gov.uk/uksi/2007/2169/schedule)
+[^c-ff03ff720cdaad04c9bd4b9dc5807251]: Textual amendment: [Sch. 3B](https://www.legislation.gov.uk/uksi/2006/3272/schedule/3B) inserted (16.8.2007) by [The Gambling Act 2005 (Commencement No. 6 and Transitional Provisions) (Amendment) (No. 2) Order 2007 (S.I. 2007/2169)](https://www.legislation.gov.uk/uksi/2007/2169), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/2169/article/1/1), [6](https://www.legislation.gov.uk/uksi/2007/2169/article/6), [Sch.](https://www.legislation.gov.uk/uksi/2007/2169/schedule)

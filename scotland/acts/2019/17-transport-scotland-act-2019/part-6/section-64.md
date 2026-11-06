@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 64. Arrangements in connection with enforcement[^key-ba870e36eada7258ae0344f7f9836155]
+## 64. Arrangements in connection with enforcement[^c-ba870e36eada7258ae0344f7f9836155]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A local authority may enter into arrangements with any person for the exercise b
 
 ## Annotations
 
-[^key-ba870e36eada7258ae0344f7f9836155]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2019/17/section/64) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)
+[^c-ba870e36eada7258ae0344f7f9836155]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2019/17/section/64) in force at 11.12.2023 by [S.S.I. 2023/250](https://www.legislation.gov.uk/ssi/2023/250), [sch.](https://www.legislation.gov.uk/ssi/2023/250/schedule)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where there is a substantial change to any of the relevant statutory provisions which make provision in relation to the safety of the transport system in question, then the Office of Rail and Road[^key-396916a0fc75dd492e4d8cc4ff4f379d] may direct the holder of a safety certificate or a safety authorisation to apply to the Office of Rail and Road for an amendment to its safety certificate or safety authorisation.
+(1) Where there is a substantial change to any of the relevant statutory provisions which make provision in relation to the safety of the transport system in question, then the Office of Rail and Road[^c-396916a0fc75dd492e4d8cc4ff4f379d] may direct the holder of a safety certificate or a safety authorisation to apply to the Office of Rail and Road for an amendment to its safety certificate or safety authorisation.
 
 (2) A direction issued under paragraph (1) shall—
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-396916a0fc75dd492e4d8cc4ff4f379d]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2006/599/regulation/14) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(k)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/k)
+[^c-396916a0fc75dd492e4d8cc4ff4f379d]: Textual amendment: Words in [reg. 14](https://www.legislation.gov.uk/uksi/2006/599/regulation/14) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 6(k)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/6/k)

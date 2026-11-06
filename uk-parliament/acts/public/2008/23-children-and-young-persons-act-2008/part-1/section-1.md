@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Power to enter into arrangements for discharge of care functions[^key-ede4efde82218128f7dc735a7e5c594d][^key-5e300b086aaafcda1ed66581fe5ad3d3][^key-c7571e8fb7ef4bb3996d3aa8fc06cf17][^key-a22a70f6d8329f63b0b74e5cc77133c3]
+## 1. Power to enter into arrangements for discharge of care functions[^c-ede4efde82218128f7dc735a7e5c594d][^c-5e300b086aaafcda1ed66581fe5ad3d3][^c-c7571e8fb7ef4bb3996d3aa8fc06cf17][^c-a22a70f6d8329f63b0b74e5cc77133c3]
 
 *Extent: E+W*
 
@@ -67,10 +67,10 @@ summary: ''
 
 ## Annotations
 
-[^key-ede4efde82218128f7dc735a7e5c594d]: Commencement: S. 1 in force at 16.2.2009 for specified purposes for E. by [S.I. 2009/323](https://www.legislation.gov.uk/uksi/2009/323), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/323/article/2/a)
+[^c-ede4efde82218128f7dc735a7e5c594d]: Commencement: S. 1 in force at 16.2.2009 for specified purposes for E. by [S.I. 2009/323](https://www.legislation.gov.uk/uksi/2009/323), [art. 2(a)](https://www.legislation.gov.uk/uksi/2009/323/article/2/a)
 
-[^key-5e300b086aaafcda1ed66581fe5ad3d3]: Commencement: S. 1 in force at 16.12.2010 for specified purposes for E. by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 3](https://www.legislation.gov.uk/uksi/2010/2981/article/3)
+[^c-5e300b086aaafcda1ed66581fe5ad3d3]: Commencement: S. 1 in force at 16.12.2010 for specified purposes for E. by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 3](https://www.legislation.gov.uk/uksi/2010/2981/article/3)
 
-[^key-c7571e8fb7ef4bb3996d3aa8fc06cf17]: Commencement: S. 1 in force at 14.11.2011 for specified purposes for E. by [S.I. 2011/2703](https://www.legislation.gov.uk/uksi/2011/2703), [art. 2](https://www.legislation.gov.uk/uksi/2011/2703/article/2)
+[^c-c7571e8fb7ef4bb3996d3aa8fc06cf17]: Commencement: S. 1 in force at 14.11.2011 for specified purposes for E. by [S.I. 2011/2703](https://www.legislation.gov.uk/uksi/2011/2703), [art. 2](https://www.legislation.gov.uk/uksi/2011/2703/article/2)
 
-[^key-a22a70f6d8329f63b0b74e5cc77133c3]: Commencement: S. 1 in force at 12.11.2013 for E. so far as not already in force by [S.I. 2013/2606](https://www.legislation.gov.uk/uksi/2013/2606), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2606/article/2/a)
+[^c-a22a70f6d8329f63b0b74e5cc77133c3]: Commencement: S. 1 in force at 12.11.2013 for E. so far as not already in force by [S.I. 2013/2606](https://www.legislation.gov.uk/uksi/2013/2606), [art. 2(a)](https://www.legislation.gov.uk/uksi/2013/2606/article/2/a)

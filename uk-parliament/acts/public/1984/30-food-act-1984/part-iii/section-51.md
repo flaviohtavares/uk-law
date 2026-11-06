@@ -24,7 +24,7 @@ summary: ''
 
 (2) A sale by a [^c1022419]. . . company under this section must be authorised—
 
-- (a) if the company is a company within the meaning of the Companies Act 1985[^c1022420], by special resolution[^key-241faacca97ff8991b61e9603b223e9e];
+- (a) if the company is a company within the meaning of the Companies Act 1985[^c1022420], by special resolution[^c-241faacca97ff8991b61e9603b223e9e];
 - (b) if the company is not such a company, by a resolution passed by three-fourths in number and value of the members present, either personally or by proxy, at a meeting specially convened for the purpose with notice of the business to be transacted.
 
 ## Annotations
@@ -33,4 +33,4 @@ summary: ''
 
 [^c1022420]: Textual amendment: Figure substituted by the [Companies Consolidation (Consequential Provisions) Act 1985 (c. 9, SIF 27)](https://www.legislation.gov.uk/ukpga/1985/9), [s. 30](https://www.legislation.gov.uk/ukpga/1985/9/section/30), [Sch. 2](https://www.legislation.gov.uk/ukpga/1985/9/schedule/2)
 
-[^key-241faacca97ff8991b61e9603b223e9e]: Textual amendment: Words in s. 51(2)(a) substituted (1.10.2007) by [Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 37](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/37) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))
+[^c-241faacca97ff8991b61e9603b223e9e]: Textual amendment: Words in s. 51(2)(a) substituted (1.10.2007) by [Companies Act 2006 (Commencement No. 3, Consequential Amendments, Transitional Provisions and Savings) Order 2007 (S.I. 2007/2194)](https://www.legislation.gov.uk/uksi/2007/2194), [art. 1(3)(a)](https://www.legislation.gov.uk/uksi/2007/2194/article/1/3/a), [Sch. 4 para. 37](https://www.legislation.gov.uk/uksi/2007/2194/schedule/4/paragraph/37) (with [art. 12](https://www.legislation.gov.uk/uksi/2007/2194/article/12))

@@ -37,16 +37,16 @@ summary: ''
 - (c) must give the group or entity a copy of the independent reviewer's report, and
 - (d) must otherwise follow the Governance Protocol but only so far as it is relevant to the independent reviewer's functions.
 
-(4) The Governance Protocol may provide that, in the case of any conduct of a group or entity to which subsection (5) or (5A)[^key-e8d8753a15aa4ccd2214fa655b503e0f] applies, the independent reviewer is to assume that the conduct constitutes a breach of the Code and, accordingly, is to report only on the matter mentioned in subsection (2)(b).
+(4) The Governance Protocol may provide that, in the case of any conduct of a group or entity to which subsection (5) or (5A)[^c-e8d8753a15aa4ccd2214fa655b503e0f] applies, the independent reviewer is to assume that the conduct constitutes a breach of the Code and, accordingly, is to report only on the matter mentioned in subsection (2)(b).
 
 (5) This subsection applies to any conduct—
 
 - (a) in relation to which there has been given—
   - (i) an opinion notice under paragraph 11(3)(b) of Schedule 43 to FA 2013 (GAAR advisory panel: opinion that conduct unreasonable) stating the joint opinion of all the members of a sub-panel arranged under paragraph 10 of that Schedule, or
   - (ii) one or more such notices stating the opinions of at least two members of such a sub-panel, and
-- (b) in relation to which there has been given a notice under paragraph 12 of that Schedule or paragraph 8 or 9 of Schedule 43A to that Act[^key-0078ad4ddd3906e55f0145a7f2db2375] (HMRC final decision on tax advantage) stating that a tax advantage is to be counteracted.
+- (b) in relation to which there has been given a notice under paragraph 12 of that Schedule or paragraph 8 or 9 of Schedule 43A to that Act[^c-0078ad4ddd3906e55f0145a7f2db2375] (HMRC final decision on tax advantage) stating that a tax advantage is to be counteracted.
 
-(5A)[^key-e3b98a488cb7177d59378be4708d459d] This subsection applies to any conduct—
+(5A)[^c-e3b98a488cb7177d59378be4708d459d] This subsection applies to any conduct—
 
 - (a) in relation to which there has been given—
   - (i) an opinion notice under paragraph 6(4)(b) of Schedule 43B to FA 2013 (GAAR advisory panel: opinion that such conduct unreasonable) stating the joint opinion of all the members of a sub-panel arranged under that paragraph, or
@@ -111,8 +111,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e8d8753a15aa4ccd2214fa655b503e0f]: Textual amendment: Words in s. 287(4) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(23)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/23)
+[^c-e8d8753a15aa4ccd2214fa655b503e0f]: Textual amendment: Words in s. 287(4) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(23)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/23)
 
-[^key-0078ad4ddd3906e55f0145a7f2db2375]: Textual amendment: Words in s. 287(5)(b) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(24)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/24)
+[^c-0078ad4ddd3906e55f0145a7f2db2375]: Textual amendment: Words in s. 287(5)(b) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(24)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/24)
 
-[^key-e3b98a488cb7177d59378be4708d459d]: Textual amendment: Words in s. 287(5A)(5B) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(25)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/25)
+[^c-e3b98a488cb7177d59378be4708d459d]: Textual amendment: Words in s. 287(5A)(5B) inserted (with effect in accordance with s. 157(30) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 157(25)](https://www.legislation.gov.uk/ukpga/2016/24/section/157/25)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Substitution of Schedule B1 to the 2013 Order[^key-a31d80d5ae46b25ea7c4392771be27fb]
+## 5. Substitution of Schedule B1 to the 2013 Order[^c-a31d80d5ae46b25ea7c4392771be27fb]
 
 *Extent: S*
 
@@ -548,7 +548,7 @@ For Schedule B1 to the 2013 Order (offences which are to be disclosed subject to
 
 ## Annotations
 
-[^key-a31d80d5ae46b25ea7c4392771be27fb]: Commencement: Art. 5 in force at 8.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/91/article/1/1)
+[^c-a31d80d5ae46b25ea7c4392771be27fb]: Commencement: Art. 5 in force at 8.2.2016, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2016/91/article/1/1)
 
 [^f00081]: Footnote: [2007 asp 10](https://www.legislation.gov.uk/asp/2007/10).
 

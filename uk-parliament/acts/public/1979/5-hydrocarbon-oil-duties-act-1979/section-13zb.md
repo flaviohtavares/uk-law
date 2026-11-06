@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13ZB. Restrictions on supply of certain heavy oil for heating etc[^key-5933b7fb7dd33577c38f02b427208021]
+## 13ZB. Restrictions on supply of certain heavy oil for heating etc[^c-5933b7fb7dd33577c38f02b427208021]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ RRFO is the rate for rebated fuel oil at the time of payment.
 
 - “**prohibited use**” means—
   - (a) use for heating, or
-  - (b) use as fuel for an engine (except where such use would amount to use as fuel other than for an excepted machine[^key-cd63eddba9a75fd0f8e52076a6eac796]),
+  - (b) use as fuel for an engine (except where such use would amount to use as fuel other than for an excepted machine[^c-cd63eddba9a75fd0f8e52076a6eac796]),
 - “**regulations**” means regulations under section 24(1) made for the purposes of this section, and
 - “**relevant heavy oil**” means heavy oil, other than kerosene, upon which rebate at the rate mentioned in section 11(1)(c) has been allowed.
 
@@ -54,6 +54,6 @@ RRFO is the rate for rebated fuel oil at the time of payment.
 
 ## Annotations
 
-[^key-5933b7fb7dd33577c38f02b427208021]: Textual amendment: Ss. 13ZA, 13ZB inserted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 28](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/28), [37](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/37)
+[^c-5933b7fb7dd33577c38f02b427208021]: Textual amendment: Ss. 13ZA, 13ZB inserted (1.11.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 6 paras. 28](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/28), [37](https://www.legislation.gov.uk/ukpga/2008/9/schedule/6/paragraph/37)
 
-[^key-cd63eddba9a75fd0f8e52076a6eac796]: Textual amendment: Words in [s. 13ZB(5)](https://www.legislation.gov.uk/ukpga/1979/5/section/13ZB/5) substituted (1.4.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/102/2), [Sch. 21 para. 7(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/7/2)
+[^c-cd63eddba9a75fd0f8e52076a6eac796]: Textual amendment: Words in [s. 13ZB(5)](https://www.legislation.gov.uk/ukpga/1979/5/section/13ZB/5) substituted (1.4.2022) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2021/26/section/102/2), [Sch. 21 para. 7(1)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/7/1)[(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/21/paragraph/7/2)

@@ -25,9 +25,9 @@ summary: ''
 - (a) Chapter 3 (the profits of a UK property business or an overseas property business),
 - (b) Chapter 7 (amounts treated as adjustment income under section 330),
 - (c) Chapter 8 (rent receivable in connection with a UK section 12(4) concern),
-- (d) Chapter 9 (rent receivable for UK electric-line wayleaves), and[^key-dc4cc00682918ba4bc4415c157857ec7]
-- (e) Chapter 10 (post-cessation receipts arising from a UK property business)[^key-aae1652b8aa3f1e8575044024bd1f4a0]...
-- (f)[^key-aae1652b8aa3f1e8575044024bd1f4a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d) Chapter 9 (rent receivable for UK electric-line wayleaves), and[^c-dc4cc00682918ba4bc4415c157857ec7]
+- (e) Chapter 10 (post-cessation receipts arising from a UK property business)[^c-aae1652b8aa3f1e8575044024bd1f4a0]...
+- (f)[^c-aae1652b8aa3f1e8575044024bd1f4a0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Part 6 deals with exemptions from the charges under this Part.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc4cc00682918ba4bc4415c157857ec7]: Textual amendment: Word in s. 260(1)(d) inserted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 47(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/47/a)
+[^c-dc4cc00682918ba4bc4415c157857ec7]: Textual amendment: Word in s. 260(1)(d) inserted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 47(a)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/47/a)
 
-[^key-aae1652b8aa3f1e8575044024bd1f4a0]: Textual amendment: S. 260(1)(f) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 47(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/47/b)
+[^c-aae1652b8aa3f1e8575044024bd1f4a0]: Textual amendment: S. 260(1)(f) omitted (with effect in accordance with Sch. 7 para. 81 of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 7 para. 47(b)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/7/paragraph/47/b)

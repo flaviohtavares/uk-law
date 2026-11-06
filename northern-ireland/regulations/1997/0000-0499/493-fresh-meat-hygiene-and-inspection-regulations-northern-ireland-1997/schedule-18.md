@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 18 — Model Declaration to accompany an animal for slaughter known or suspected to be diseased or injured[^key-f93380997a0126f9b6e85316010b067b]
+## SCHEDULE 18 — Model Declaration to accompany an animal for slaughter known or suspected to be diseased or injured[^c-f93380997a0126f9b6e85316010b067b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ Regulation 16(2)(*a*)
 
 ## Annotations
 
-[^key-f93380997a0126f9b6e85316010b067b]: Commencement: Sch. 18 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-f93380997a0126f9b6e85316010b067b]: Commencement: Sch. 18 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

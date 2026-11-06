@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Application and modification of legislative provisions[^key-872d2043bf31ca34c942f0a8ba4db190]
+## 8. Application and modification of legislative provisions[^c-872d2043bf31ca34c942f0a8ba4db190]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Nothing in the following legislative provisions, including any requirements for 
 
 ## Annotations
 
-[^key-872d2043bf31ca34c942f0a8ba4db190]: Commencement: Art. 8 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
+[^c-872d2043bf31ca34c942f0a8ba4db190]: Commencement: Art. 8 in force at 25.2.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/129/article/1)
 
 [^f00016]: Footnote: [1904 c. lxxxv](https://www.legislation.gov.uk/ukla/1904/85).

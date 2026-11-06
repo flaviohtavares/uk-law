@@ -50,7 +50,7 @@ In accordance with section 13(2) of the Social Security Act 1988, the Scottish M
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-6d4d4f6e5204247c6abb519e514b7d62]
+### 1. Citation, commencement and extent[^c-6d4d4f6e5204247c6abb519e514b7d62]
 
 (1) These Regulations may be cited as the Milk and Healthy Snack Scheme (Scotland) Regulations 2021.
 
@@ -60,14 +60,14 @@ In accordance with section 13(2) of the Social Security Act 1988, the Scottish M
 
 ## PART 2 — General Interpretation
 
-### 2. Interpretation[^key-03201bfb6aeb44ee57caed60ab5d7281]
+### 2. Interpretation[^c-03201bfb6aeb44ee57caed60ab5d7281]
 
 In these Regulations—
 
 - “the 1992 Act” means the Social Security Administration Act 1992[^f00003],
 - “the 2010 Act” means the Public Services Reform (Scotland) Act 2010[^f00004],
 - “benefit” is the food benefit prescribed in regulation 5,
-- “childcare provider” has the same meaning as given in regulation 4,[^key-68089b0509c24492c7d14ad02f648866]
+- “childcare provider” has the same meaning as given in regulation 4,[^c-68089b0509c24492c7d14ad02f648866]
 - “child minding” has the same meaning as in paragraph 12(1) of schedule 12 of the 2010 Act[^f00005],
 - “day care of children” has the same meaning as in paragraph 13 of schedule 12 of the 2010 Act,
 - “eligible child” means a person prescribed in regulation 3,
@@ -84,14 +84,14 @@ In these Regulations—
 
 ## PART 3 — Meaning of Certain Expressions
 
-### 3. Meaning of eligible child[^key-9f32554e4227c6eba6045c4eacba119e]
+### 3. Meaning of eligible child[^c-9f32554e4227c6eba6045c4eacba119e]
 
 For the purposes of these Regulations, an eligible child is one who—
 
 - (a) is a pre-school child, and
-- (b) receives a service from a registered childcare provider[^key-9f9f042be53600d0804e1316a7df4a3b].
+- (b) receives a service from a registered childcare provider[^c-9f9f042be53600d0804e1316a7df4a3b].
 
-### 4. Meaning of childcare provider[^key-61bc1870c62fbdf528379536fbc3f403]
+### 4. Meaning of childcare provider[^c-61bc1870c62fbdf528379536fbc3f403]
 
 (1) For the purposes of these Regulations, a childcare provider is a provider of a childcare service where that service appears on the register of care services maintained by SCSWIS by virtue of regulation 5 of the Social Care and Social Work Improvement Scotland (Registration) Regulations 2011[^f00008].
 
@@ -102,11 +102,11 @@ For the purposes of these Regulations, an eligible child is one who—
 
 ## PART 4 — Entitlement
 
-### 5. Entitlement of an eligible child[^key-1cdcd1e18f0dde847eefebb692fbe44b]
+### 5. Entitlement of an eligible child[^c-1cdcd1e18f0dde847eefebb692fbe44b]
 
 (1) The Scheme entitles an eligible child, on each day that the requirement in paragraph (2) is met, to the benefit prescribed in paragraph (3).
 
-(2) The requirement is that the child receives a service from a registered childcare provider[^key-ab66c7fa26bd4e0369e993e3a30b33b0] for a total of 2 or more hours per day.
+(2) The requirement is that the child receives a service from a registered childcare provider[^c-ab66c7fa26bd4e0369e993e3a30b33b0] for a total of 2 or more hours per day.
 
 (3) The benefit prescribed for an eligible child is—
 
@@ -118,61 +118,61 @@ For the purposes of these Regulations, an eligible child is one who—
 - (a) “the relevant row of column 2” means the row in that column that corresponds to the age of the eligible child specified in column 1 of the table in schedule 1, and
 - (b) “the relevant row of column 3” is the row in that column that corresponds to the age of the eligible child specified in column 1 of the table in schedule 1 and adjusted by reference to any condition specified in column 4 of that table which applies in respect of that child.
 
-(5)[^key-2cf9afddad06e6b5d7d16b55cc7ce98a] No entitlement to the benefit arises prior to 1 August 2021.
+(5)[^c-2cf9afddad06e6b5d7d16b55cc7ce98a] No entitlement to the benefit arises prior to 1 August 2021.
 
-### 6. Provision of benefit[^key-39a5080a18eb7152dcbd574603077fab]
+### 6. Provision of benefit[^c-39a5080a18eb7152dcbd574603077fab]
 
-Subject to regulation 6A, the[^key-efbf8fc0c59da672d435b526f071f9f3] benefit to which an eligible child is entitled must be provided to that child by a registered childcare provider[^key-4905cb212acb37f235d8a9c6deb32a9e] on each day and during the hours which that child is in receipt of the service from that registered childcare provider.
+Subject to regulation 6A, the[^c-efbf8fc0c59da672d435b526f071f9f3] benefit to which an eligible child is entitled must be provided to that child by a registered childcare provider[^c-4905cb212acb37f235d8a9c6deb32a9e] on each day and during the hours which that child is in receipt of the service from that registered childcare provider.
 
-### 6A. Provision of benefit: once a day[^key-f43d8cb08c62252b106aa65159e485ff]
+### 6A. Provision of benefit: once a day[^c-f43d8cb08c62252b106aa65159e485ff]
 
 A registered childcare provider is not to provide the benefit if the eligible child has received the benefit from another childcare provider that day.
 
 ## PART 5 — Administration of the Scheme
 
-### 7. Payment under the Scheme[^key-bb254d4d82fe2c7aed7afd9a87dde3f0]
+### 7. Payment under the Scheme[^c-bb254d4d82fe2c7aed7afd9a87dde3f0]
 
 (1) The Scottish Ministers are to make a payment to a registered childcare provider on the first day of each payment period in respect of that period.
 
 (2) Where a childcare provider registers for the Scheme after the first day of a payment period, the Scottish Ministers are to make a payment in respect of that period within 4 weeks of the date of registration.
 
-### 8. Registration[^key-38cf682ebffe34e36227504a5320e336]
+### 8. Registration[^c-38cf682ebffe34e36227504a5320e336]
 
 In order to register under the Scheme, a childcare provider must provide the registration information specified in schedule 2 to the Scottish Ministers.
 
-### 9. Determining the amount payable[^key-081cc52dfc35998c63adfbc15b597e7c]
+### 9. Determining the amount payable[^c-081cc52dfc35998c63adfbc15b597e7c]
 
 (1) The payment made by the Scottish Ministers to a childcare provider in accordance with regulation 7, in respect of a payment period, is to be determined by reference to—
 
-- (a) the number of eligible children enrolled with that childcare provider [^key-5b28a84ab371994a2f62cc7eadeeb44d]...,
+- (a) the number of eligible children enrolled with that childcare provider [^c-5b28a84ab371994a2f62cc7eadeeb44d]...,
 - (b) the benefits provided (or reasonably expected to be provided) by that childcare provider under regulation 6,
-- (c)[^key-91636763c0361e68463f47236173e1dd] the local serving rate specified in the row of column 2 of schedule 3 which corresponds to the local authority area in which the registered childcare provider provides the benefit,
+- (c)[^c-91636763c0361e68463f47236173e1dd] the local serving rate specified in the row of column 2 of schedule 3 which corresponds to the local authority area in which the registered childcare provider provides the benefit,
 - (d) any adjustment made under regulation 10.
 
-(2)[^key-32d19cabaf78c30042abddcdb8f0236a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-32d19cabaf78c30042abddcdb8f0236a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Adjustment to the amount payable[^key-be47f10bcf538be3af911704580e0eb4]
+### 10. Adjustment to the amount payable[^c-be47f10bcf538be3af911704580e0eb4]
 
 (1) The Scottish Ministers may make an adjustment to the amount payable under regulation 9 in respect of a payment period as a result of a significant change, in that period, to—
 
 - (a) the number of eligible children enrolled with that childcare provider,
 - (b) the benefits provided by that childcare provider under regulation 6, and
-- (c) the cost[^key-29c5afc0e998454a2ff74f88f9873aa2] of the benefit provided by that childcare provider under regulation 6.
+- (c) the cost[^c-29c5afc0e998454a2ff74f88f9873aa2] of the benefit provided by that childcare provider under regulation 6.
 
 (2) The Scottish Ministers must make any adjustment to the amount payable in respect of a payment period by the end of the immediately following payment period.
 
-### 11. Provision of information in respect of significant change[^key-3b860c3285905dda1d4fb502cf734ac4]
+### 11. Provision of information in respect of significant change[^c-3b860c3285905dda1d4fb502cf734ac4]
 
 In relation to a payment period, a childcare provider must inform the Scottish Ministers of any significant change to—
 
 - (a) the number of eligible children enrolled with that childcare provider, and
 - (b) the benefits provided by that childcare provider under regulation 6.
 
-### 12. Change of circumstances affecting eligibility for the Scheme[^key-b96a3e5e49dabc96d2793d74113a2e22]
+### 12. Change of circumstances affecting eligibility for the Scheme[^c-b96a3e5e49dabc96d2793d74113a2e22]
 
 A childcare provider that is no longer entitled to a payment under the Scheme due to a change in circumstances must inform the Scottish Ministers of that change as soon as reasonably practicable.
 
-### 13. Provision of information for monitoring purposes[^key-2da5e77838613a48be594c2e639ce7a8]
+### 13. Provision of information for monitoring purposes[^c-2da5e77838613a48be594c2e639ce7a8]
 
 A childcare provider must provide to the Scottish Ministers, on request, the following information—
 
@@ -184,33 +184,33 @@ A childcare provider must provide to the Scottish Ministers, on request, the fol
 - (f) the benefit provided or expected to be provided to a child under regulation 6, and
 - (g) any other relevant information which the Scottish Ministers reasonably require in order to administer the Scheme.
 
-### 14. Failure to provide benefit[^key-7f3f5345ab8afc5d248fd82b1f5b33f2]
+### 14. Failure to provide benefit[^c-7f3f5345ab8afc5d248fd82b1f5b33f2]
 
 In the event that the Scottish Ministers consider that a childcare provider has failed to provide a benefit under the Scheme, the Scottish Ministers may—
 
 - (a) reduce the amount payable in forthcoming payment periods,
 - (b) take any other action, which they consider reasonable, in all the circumstances.
 
-### 15. Delegation[^key-6bd15104e378791bd23458dfea277328]
+### 15. Delegation[^c-6bd15104e378791bd23458dfea277328]
 
 The following functions of the Scottish Ministers are delegated to the local authority for its area—
 
 - (a) the function of determining a payment period shorter than 12 months under regulation 2, and
 - (b) the functions under regulations 7 to 14.
 
-### 16. Direction: local authority[^key-b8a0ed026734cd60ba029cee22db04e8]
+### 16. Direction: local authority[^c-b8a0ed026734cd60ba029cee22db04e8]
 
 A local authority must follow any direction issued by the Scottish Ministers when exercising any function under the Scheme.
 
-### 17. Guidance: local authority[^key-9a09baddc7ae1e928e0021f439309f9e]
+### 17. Guidance: local authority[^c-9a09baddc7ae1e928e0021f439309f9e]
 
 A local authority must have regard to any guidance issued by the Scottish Ministers when exercising any function under the Scheme.
 
-### 18. Guidance: childcare provider[^key-ce74ffd60f2f23bd83f5d9a7c471a0d1]
+### 18. Guidance: childcare provider[^c-ce74ffd60f2f23bd83f5d9a7c471a0d1]
 
 A childcare provider must have regard to any guidance issued by the Scottish Ministers with respect to the operation of the Scheme.
 
-### 19. Information Sharing[^key-dd9caf85143708aabfea61be889661b2]
+### 19. Information Sharing[^c-dd9caf85143708aabfea61be889661b2]
 
 (1) A local authority must, on request, disclose the information specified in paragraph (2) to—
 
@@ -234,11 +234,11 @@ in connection with the Scheme.
 - (c) the number of meals a childcare provider provides, and
 - (d) the types of day care a childcare provider provides.
 
-### 20. Reporting requirement[^key-365124a56b83e22ba3357e5786c1f0ad]
+### 20. Reporting requirement[^c-365124a56b83e22ba3357e5786c1f0ad]
 
 A local authority must report to the Scottish Ministers annually, by such date as the Scottish Ministers may direct, on the following matters—
 
-- (a) the number of childcare providers registered under the Scheme on 15 July 2021, and thereafter at a date one month prior to the date by which the local authority is directed to report[^key-32f4f57c7c23ff15aa3fc5abf5aaef4a],
+- (a) the number of childcare providers registered under the Scheme on 15 July 2021, and thereafter at a date one month prior to the date by which the local authority is directed to report[^c-32f4f57c7c23ff15aa3fc5abf5aaef4a],
 - (b) the amount paid to each childcare provider under the Scheme in the immediately preceding financial year,
 - (c) the number of eligible children enrolled with each childcare provider at the end of the immediately preceding financial year,
 - (d) the expenditure incurred by the authority in the administration of the Scheme in the immediately preceding financial year, and
@@ -246,7 +246,7 @@ A local authority must report to the Scottish Ministers annually, by such date a
 
 ## PART 6 — Application of enactments and offences
 
-### 21. Application of section 112 of the 1992 Act[^key-229298423e8ac6f3f21daa327d5c56e8]
+### 21. Application of section 112 of the 1992 Act[^c-229298423e8ac6f3f21daa327d5c56e8]
 
 (1) Section 112 (false representations for obtaining benefit etc.) of the 1992 Act[^f00009] has effect, for the purposes of the administration of the Scheme, subject to the modifications in paragraph (2).
 
@@ -258,7 +258,7 @@ A local authority must report to the Scottish Ministers annually, by such date a
   - (iii) “that legislation” were a reference to “such a scheme”, and
 - (b) subsections (1A) to (1F) were omitted.
 
-### 22. Application of section 113 of the 1992 Act[^key-ea9e5f87c62d25bd3dd7ee5d223d84e0]
+### 22. Application of section 113 of the 1992 Act[^c-ea9e5f87c62d25bd3dd7ee5d223d84e0]
 
 (1) Section 113 (breach of regulations) of the 1992 Act[^f00010] has effect, for the purposes of the administration of the Scheme, as if paragraph (2) had been made under it, and subject to the modifications in paragraph (3).
 
@@ -275,11 +275,11 @@ A local authority must report to the Scottish Ministers annually, by such date a
 
 ## PART 7 — Amendments and transitional arrangements
 
-### 23. Amendment to the Healthy Start Scheme and Welfare Food (Amendment) Regulations[^key-5f79bf2db49998f63cf6e0c8d73c463a]
+### 23. Amendment to the Healthy Start Scheme and Welfare Food (Amendment) Regulations[^c-5f79bf2db49998f63cf6e0c8d73c463a]
 
 In subparagraph b(i) and (ii) of the definition of “Healthy Start food” in regulation 2(1) (interpretation) of the Healthy Start Scheme and Welfare Food Amendment Regulations 2005[^f00011], after “vitamins” insert “the food benefit prescribed in regulation 5 of the Milk and Healthy Snack Scheme (Scotland) Regulations 2021”.
 
-### 24. Amendment to the Welfare Food Regulations 1996[^key-be5bdeef2c73916a4a88c37f8a5acd53]
+### 24. Amendment to the Welfare Food Regulations 1996[^c-be5bdeef2c73916a4a88c37f8a5acd53]
 
 (1) The Welfare Food Regulations 1996[^f00012] are amended as follows—
 
@@ -332,16 +332,16 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE 1 — SPECIFIED MILK AND NON-DAIRY ALTERNATIVE[^key-93c3b1bf8f03fd116d8433a4e5b40d06]
+## SCHEDULE 1 — SPECIFIED MILK AND NON-DAIRY ALTERNATIVE[^c-93c3b1bf8f03fd116d8433a4e5b40d06]
 
 Regulation 5
 
-[^key-93c3b1bf8f03fd116d8433a4e5b40d06]In this schedule—
+[^c-93c3b1bf8f03fd116d8433a4e5b40d06]In this schedule—
 
 - “cow’s milk” means plain, unsweetened, fresh liquid cow’s milk, but not milk to or from which chemicals, vitamins, flavours or colours have been added or removed,
 - “goat’s milk” means plain, unsweetened, fresh liquid goat’s milk, but not milk to or from which chemicals, vitamins, flavours or colours have been added or removed,
 - “infant formula” means a liquid or a non-liquid which, where a non-liquid can be prepared to form a liquid, based on cow’s milk, sheep’s milk or goat’s milk, intended for particular nutritional use from birth by infants in good health,
-- “non-dairy alternative” means a drink which is an unsweetened, calcium enriched liquid and is commonly used as a substitute for dairy milk[^key-895b4a4773edf57105aedea527fa6099], and
+- “non-dairy alternative” means a drink which is an unsweetened, calcium enriched liquid and is commonly used as a substitute for dairy milk[^c-895b4a4773edf57105aedea527fa6099], and
 - “sheep’s milk” means plain, unsweetened, fresh liquid sheep’s milk, but not milk to or from which chemicals, vitamins, flavours or colours have been added or removed.
 
   <table>
@@ -365,22 +365,22 @@ Regulation 5
 
 Regulation 8
 
-**1.**[^key-2b4ec38e0058ff8d1845a9dbb9e938d5] For the purposes of regulation 8, registration information is—
+**1.**[^c-2b4ec38e0058ff8d1845a9dbb9e938d5] For the purposes of regulation 8, registration information is—
 
 - (a) the full name and address of the childcare provider,
 - (b) the category of childcare provision (“day care of children” or “childminding”),
 - (c) the address where eligible children are to be cared for by the childcare provider,
 - (d) whether the childcare provider keeps attendance records,
-- (e)[^key-2e144669a313404603a9348b17531820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-ec204c831ce89ac6c6f00a82d6c0872c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-2e144669a313404603a9348b17531820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-ec204c831ce89ac6c6f00a82d6c0872c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) the number of eligible children enrolled with the childcare provider at the beginning of the financial year,
 - (h) the number of eligible children enrolled with the childcare provider at the date of application for registration,
 - (i) the banking details of the childcare provider
-- (j) a copy of the childcare provider’s certificate of registration issued by SCSWIS[^key-4cd52d2784261ceceb0b12b648d4a890],
-- (k) the anticipated benefit to be provided by the childcare provider to eligible children under the Scheme in the period to the end of the Scheme Year (a year ending with 31[^key-9743653e72e7575c6ff91d3e7a8f9d7d] July), and
+- (j) a copy of the childcare provider’s certificate of registration issued by SCSWIS[^c-4cd52d2784261ceceb0b12b648d4a890],
+- (k) the anticipated benefit to be provided by the childcare provider to eligible children under the Scheme in the period to the end of the Scheme Year (a year ending with 31[^c-9743653e72e7575c6ff91d3e7a8f9d7d] July), and
 - (l) any other relevant information which the Scottish Ministers reasonably require in order to register the childcare provider.
 
-## SCHEDULE 3 — Local Serving Rate[^key-7b751176e63ea37cc2fe4189718f543c]
+## SCHEDULE 3 — Local Serving Rate[^c-7b751176e63ea37cc2fe4189718f543c]
 
 Regulation 9(1)(c)
 
@@ -449,15 +449,15 @@ Part 7 makes amendments to certain subordinate legislation. Regulation 22 provid
 
 [^f00002]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 175(4) and (5) is applied by section 15A(1) of the Social Security Act [1988 (c.7)](https://www.legislation.gov.uk/ukpga/1988/7). Section 15A was inserted by paragraph 8(10) of schedule 6 of the Social Security Act 1990 (s.27) and amended by paragraph 96 of schedule 2 of the Social Security (Consequential Provisions) Act [1992 (c.6)](https://www.legislation.gov.uk/ukpga/1992/6) and section 185(2) and paragraph 1 of schedule 14(5) of the Health and Social Care (Community Health and Standards) Act [2003 (c.43)](https://www.legislation.gov.uk/ukpga/2003/43). Section 175(4) was amended by paragraph 29(4) of schedule 3 of the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2). Section 175(5) was amended by paragraph 36 of schedule 1(1) of the Social Security (Incapacity for Work) Act [1994 (c.18)](https://www.legislation.gov.uk/ukpga/1994/18).
 
-[^key-6d4d4f6e5204247c6abb519e514b7d62]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/82/regulation/1) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-6d4d4f6e5204247c6abb519e514b7d62]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2021/82/regulation/1) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-03201bfb6aeb44ee57caed60ab5d7281]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/82/regulation/2) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-03201bfb6aeb44ee57caed60ab5d7281]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2021/82/regulation/2) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
 [^f00003]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5).
 
 [^f00004]: Footnote: [2010 asp 8](https://www.legislation.gov.uk/asp/2010/8).
 
-[^key-68089b0509c24492c7d14ad02f648866]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2021/82/regulation/2) inserted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/2)
+[^c-68089b0509c24492c7d14ad02f648866]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2021/82/regulation/2) inserted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/2)
 
 [^f00005]: Footnote: Paragraph 12 was amended by [S.S.I. 2013/211](https://www.legislation.gov.uk/ssi/2013/211).
 
@@ -465,94 +465,94 @@ Part 7 makes amendments to certain subordinate legislation. Regulation 22 provid
 
 [^f00007]: Footnote: [1980 c.44](https://www.legislation.gov.uk/ukpga/1980/44), amended by section 32(5) of the Scotland’s Schools etc. Act [2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6).
 
-[^key-9f32554e4227c6eba6045c4eacba119e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/82/regulation/3) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-9f32554e4227c6eba6045c4eacba119e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2021/82/regulation/3) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-9f9f042be53600d0804e1316a7df4a3b]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2021/82/regulation/3) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/3)
+[^c-9f9f042be53600d0804e1316a7df4a3b]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/ssi/2021/82/regulation/3) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/3)
 
-[^key-61bc1870c62fbdf528379536fbc3f403]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/82/regulation/4) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-61bc1870c62fbdf528379536fbc3f403]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2021/82/regulation/4) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
 [^f00008]: Footnote: [S.S.I. 2011/28](https://www.legislation.gov.uk/ssi/2011/28).
 
-[^key-1cdcd1e18f0dde847eefebb692fbe44b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/82/regulation/5) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-1cdcd1e18f0dde847eefebb692fbe44b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/82/regulation/5) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-ab66c7fa26bd4e0369e993e3a30b33b0]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/5/2) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/4/a)
+[^c-ab66c7fa26bd4e0369e993e3a30b33b0]: Textual amendment: Words in [reg. 5(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/5/2) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/4/a)
 
-[^key-2cf9afddad06e6b5d7d16b55cc7ce98a]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/ssi/2021/82/regulation/5/5) inserted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/4/b)
+[^c-2cf9afddad06e6b5d7d16b55cc7ce98a]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/ssi/2021/82/regulation/5/5) inserted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/4/b)
 
-[^key-39a5080a18eb7152dcbd574603077fab]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/82/regulation/6) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-39a5080a18eb7152dcbd574603077fab]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2021/82/regulation/6) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-efbf8fc0c59da672d435b526f071f9f3]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/ssi/2021/82/regulation/6) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/5/a)
+[^c-efbf8fc0c59da672d435b526f071f9f3]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/ssi/2021/82/regulation/6) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/5/a)
 
-[^key-4905cb212acb37f235d8a9c6deb32a9e]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/ssi/2021/82/regulation/6) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/5/b)
+[^c-4905cb212acb37f235d8a9c6deb32a9e]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/ssi/2021/82/regulation/6) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(5)(b)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/5/b)
 
-[^key-f43d8cb08c62252b106aa65159e485ff]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/ssi/2021/82/regulation/6A) inserted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/6)
+[^c-f43d8cb08c62252b106aa65159e485ff]: Textual amendment: [Reg. 6A](https://www.legislation.gov.uk/ssi/2021/82/regulation/6A) inserted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(6)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/6)
 
-[^key-bb254d4d82fe2c7aed7afd9a87dde3f0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/82/regulation/7) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-bb254d4d82fe2c7aed7afd9a87dde3f0]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2021/82/regulation/7) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-38cf682ebffe34e36227504a5320e336]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/82/regulation/8) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-38cf682ebffe34e36227504a5320e336]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2021/82/regulation/8) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-081cc52dfc35998c63adfbc15b597e7c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/82/regulation/9) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-081cc52dfc35998c63adfbc15b597e7c]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2021/82/regulation/9) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-5b28a84ab371994a2f62cc7eadeeb44d]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/ssi/2021/82/regulation/9/1/a) omitted (17.5.2021) by virtue of [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(7)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/7)
+[^c-5b28a84ab371994a2f62cc7eadeeb44d]: Textual amendment: Words in [reg. 9(1)(a)](https://www.legislation.gov.uk/ssi/2021/82/regulation/9/1/a) omitted (17.5.2021) by virtue of [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(7)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/7)
 
-[^key-91636763c0361e68463f47236173e1dd]: Textual amendment: [Reg. 9(1)(c)](https://www.legislation.gov.uk/ssi/2021/82/regulation/9/1/c) substituted (29.7.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment (No. 2) Regulations 2021 (S.S.I. 2021/274)](https://www.legislation.gov.uk/ssi/2021/274), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/274/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2021/274/regulation/2/2/a)
+[^c-91636763c0361e68463f47236173e1dd]: Textual amendment: [Reg. 9(1)(c)](https://www.legislation.gov.uk/ssi/2021/82/regulation/9/1/c) substituted (29.7.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment (No. 2) Regulations 2021 (S.S.I. 2021/274)](https://www.legislation.gov.uk/ssi/2021/274), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/274/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/ssi/2021/274/regulation/2/2/a)
 
-[^key-32d19cabaf78c30042abddcdb8f0236a]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/9/2) omitted (29.7.2021) by virtue of [The Milk and Healthy Snack Scheme (Scotland) Amendment (No. 2) Regulations 2021 (S.S.I. 2021/274)](https://www.legislation.gov.uk/ssi/2021/274), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/274/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2021/274/regulation/2/2/b)
+[^c-32d19cabaf78c30042abddcdb8f0236a]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/9/2) omitted (29.7.2021) by virtue of [The Milk and Healthy Snack Scheme (Scotland) Amendment (No. 2) Regulations 2021 (S.S.I. 2021/274)](https://www.legislation.gov.uk/ssi/2021/274), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/274/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/ssi/2021/274/regulation/2/2/b)
 
-[^key-be47f10bcf538be3af911704580e0eb4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/82/regulation/10) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-be47f10bcf538be3af911704580e0eb4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2021/82/regulation/10) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-29c5afc0e998454a2ff74f88f9873aa2]: Textual amendment: Word in [reg. 10(1)(c)](https://www.legislation.gov.uk/ssi/2021/82/regulation/10/1/c) substituted (29.7.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment (No. 2) Regulations 2021 (S.S.I. 2021/274)](https://www.legislation.gov.uk/ssi/2021/274), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/274/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2021/274/regulation/2/3)
+[^c-29c5afc0e998454a2ff74f88f9873aa2]: Textual amendment: Word in [reg. 10(1)(c)](https://www.legislation.gov.uk/ssi/2021/82/regulation/10/1/c) substituted (29.7.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment (No. 2) Regulations 2021 (S.S.I. 2021/274)](https://www.legislation.gov.uk/ssi/2021/274), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/274/regulation/1/2), [2(3)](https://www.legislation.gov.uk/ssi/2021/274/regulation/2/3)
 
-[^key-3b860c3285905dda1d4fb502cf734ac4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/82/regulation/11) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-3b860c3285905dda1d4fb502cf734ac4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2021/82/regulation/11) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-b96a3e5e49dabc96d2793d74113a2e22]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2021/82/regulation/12) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-b96a3e5e49dabc96d2793d74113a2e22]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2021/82/regulation/12) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-2da5e77838613a48be594c2e639ce7a8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2021/82/regulation/13) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-2da5e77838613a48be594c2e639ce7a8]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2021/82/regulation/13) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-7f3f5345ab8afc5d248fd82b1f5b33f2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2021/82/regulation/14) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-7f3f5345ab8afc5d248fd82b1f5b33f2]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2021/82/regulation/14) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-6bd15104e378791bd23458dfea277328]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2021/82/regulation/15) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-6bd15104e378791bd23458dfea277328]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2021/82/regulation/15) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-b8a0ed026734cd60ba029cee22db04e8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2021/82/regulation/16) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-b8a0ed026734cd60ba029cee22db04e8]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2021/82/regulation/16) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-9a09baddc7ae1e928e0021f439309f9e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2021/82/regulation/17) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-9a09baddc7ae1e928e0021f439309f9e]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2021/82/regulation/17) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-ce74ffd60f2f23bd83f5d9a7c471a0d1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2021/82/regulation/18) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-ce74ffd60f2f23bd83f5d9a7c471a0d1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2021/82/regulation/18) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-dd9caf85143708aabfea61be889661b2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2021/82/regulation/19) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-dd9caf85143708aabfea61be889661b2]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2021/82/regulation/19) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-365124a56b83e22ba3357e5786c1f0ad]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2021/82/regulation/20) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-365124a56b83e22ba3357e5786c1f0ad]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2021/82/regulation/20) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-32f4f57c7c23ff15aa3fc5abf5aaef4a]: Textual amendment: Words in [reg. 20(a)](https://www.legislation.gov.uk/ssi/2021/82/regulation/20/a) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/8)
+[^c-32f4f57c7c23ff15aa3fc5abf5aaef4a]: Textual amendment: Words in [reg. 20(a)](https://www.legislation.gov.uk/ssi/2021/82/regulation/20/a) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(8)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/8)
 
-[^key-229298423e8ac6f3f21daa327d5c56e8]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2021/82/regulation/21) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-229298423e8ac6f3f21daa327d5c56e8]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2021/82/regulation/21) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
 [^f00009]: Footnote: [1992 c.5](https://www.legislation.gov.uk/ukpga/1992/5). Section 112 was relevantly amended by paragraph 4(2) of schedule 1 of the Social Security Administration (Fraud) Act [1997 (c.47)](https://www.legislation.gov.uk/ukpga/1997/47), paragraph 6 of schedule 6 of the Child Support, Pensions and Social Security Act [2000 (c.19)](https://www.legislation.gov.uk/ukpga/2000/19) (“the 2002 Act”) and section 16(3) of the Social Security Fraud Act [2001 (c.11)](https://www.legislation.gov.uk/ukpga/2001/11).
 
-[^key-ea9e5f87c62d25bd3dd7ee5d223d84e0]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2021/82/regulation/22) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-ea9e5f87c62d25bd3dd7ee5d223d84e0]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2021/82/regulation/22) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
 [^f00010]: Footnote: Section 113 was relevantly amended by paragraph 7(2) of schedule 6 of the 2000 Act and paragraph 1 of schedule 2 of the National Insurance Contributions and Statutory Payments Act [2004 (c.3)](https://www.legislation.gov.uk/ukpga/2004/3).
 
-[^key-5f79bf2db49998f63cf6e0c8d73c463a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2021/82/regulation/23) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-5f79bf2db49998f63cf6e0c8d73c463a]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2021/82/regulation/23) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2005/3262](https://www.legislation.gov.uk/uksi/2005/3262).
 
-[^key-be5bdeef2c73916a4a88c37f8a5acd53]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2021/82/regulation/24) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-be5bdeef2c73916a4a88c37f8a5acd53]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2021/82/regulation/24) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 1996/1434](https://www.legislation.gov.uk/uksi/1996/1434), relevant amending instruments are [S.I. 2003/702](https://www.legislation.gov.uk/uksi/2003/702), [2005/3262](https://www.legislation.gov.uk/uksi/2005/3262), [S.I. 2006/2818](https://www.legislation.gov.uk/uksi/2006/2818), [S.I. 2015/280](https://www.legislation.gov.uk/uksi/2015/280), [2017/1032](https://www.legislation.gov.uk/uksi/2017/1032) and [S.I. 2020/267](https://www.legislation.gov.uk/uksi/2020/267).
 
-[^key-93c3b1bf8f03fd116d8433a4e5b40d06]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2021/82/schedule/1) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-93c3b1bf8f03fd116d8433a4e5b40d06]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2021/82/schedule/1) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-895b4a4773edf57105aedea527fa6099]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2021/82/schedule/1) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(9)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/9)
+[^c-895b4a4773edf57105aedea527fa6099]: Textual amendment: Words in [sch. 1](https://www.legislation.gov.uk/ssi/2021/82/schedule/1) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(9)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/9)
 
-[^key-2b4ec38e0058ff8d1845a9dbb9e938d5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2021/82/schedule/2/paragraph/1) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
+[^c-2b4ec38e0058ff8d1845a9dbb9e938d5]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2021/82/schedule/2/paragraph/1) in force at 21.3.2021, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/82/regulation/1/2)
 
-[^key-2e144669a313404603a9348b17531820]: Textual amendment: [Sch. 2 para. 1(e)](https://www.legislation.gov.uk/ssi/2021/82/schedule/2/paragraph/1/e) omitted (17.5.2021) by virtue of [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/10/a)
+[^c-2e144669a313404603a9348b17531820]: Textual amendment: [Sch. 2 para. 1(e)](https://www.legislation.gov.uk/ssi/2021/82/schedule/2/paragraph/1/e) omitted (17.5.2021) by virtue of [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/10/a)
 
-[^key-ec204c831ce89ac6c6f00a82d6c0872c]: Textual amendment: [Sch. 2 para. 1(f)](https://www.legislation.gov.uk/ssi/2021/82/schedule/2/paragraph/1/f) omitted (17.5.2021) by virtue of [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/10/a)
+[^c-ec204c831ce89ac6c6f00a82d6c0872c]: Textual amendment: [Sch. 2 para. 1(f)](https://www.legislation.gov.uk/ssi/2021/82/schedule/2/paragraph/1/f) omitted (17.5.2021) by virtue of [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/10/a)
 
-[^key-4cd52d2784261ceceb0b12b648d4a890]: Textual amendment: Word in [sch. 2 para. 1(j)](https://www.legislation.gov.uk/ssi/2021/82/schedule/2/paragraph/1/j) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/10/b)
+[^c-4cd52d2784261ceceb0b12b648d4a890]: Textual amendment: Word in [sch. 2 para. 1(j)](https://www.legislation.gov.uk/ssi/2021/82/schedule/2/paragraph/1/j) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/10/b)
 
-[^key-9743653e72e7575c6ff91d3e7a8f9d7d]: Textual amendment: Words in [sch. 2 para. 1(k)](https://www.legislation.gov.uk/ssi/2021/82/schedule/2/paragraph/1/k) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(10)(c)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/10/c)
+[^c-9743653e72e7575c6ff91d3e7a8f9d7d]: Textual amendment: Words in [sch. 2 para. 1(k)](https://www.legislation.gov.uk/ssi/2021/82/schedule/2/paragraph/1/k) substituted (17.5.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/206)](https://www.legislation.gov.uk/ssi/2021/206), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/206/regulation/1/2), [2(10)(c)](https://www.legislation.gov.uk/ssi/2021/206/regulation/2/10/c)
 
-[^key-7b751176e63ea37cc2fe4189718f543c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2021/82/schedule/3) inserted (29.7.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment (No. 2) Regulations 2021 (S.S.I. 2021/274)](https://www.legislation.gov.uk/ssi/2021/274), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/274/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2021/274/regulation/2/4)
+[^c-7b751176e63ea37cc2fe4189718f543c]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/ssi/2021/82/schedule/3) inserted (29.7.2021) by [The Milk and Healthy Snack Scheme (Scotland) Amendment (No. 2) Regulations 2021 (S.S.I. 2021/274)](https://www.legislation.gov.uk/ssi/2021/274), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2021/274/regulation/1/2), [2(4)](https://www.legislation.gov.uk/ssi/2021/274/regulation/2/4)

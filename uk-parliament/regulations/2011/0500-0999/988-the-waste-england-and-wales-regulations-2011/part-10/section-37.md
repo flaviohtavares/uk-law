@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The appropriate body[^key-66c136c6cebd91280b7a4ea96e1a0c99] enforces Part 5 and regulation 25.
+The appropriate body[^c-66c136c6cebd91280b7a4ea96e1a0c99] enforces Part 5 and regulation 25.
 
 ## Annotations
 
-[^key-66c136c6cebd91280b7a4ea96e1a0c99]: Textual amendment: Words in regs. 37-40 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 409](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/409) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-66c136c6cebd91280b7a4ea96e1a0c99]: Textual amendment: Words in regs. 37-40 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 409](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/409) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

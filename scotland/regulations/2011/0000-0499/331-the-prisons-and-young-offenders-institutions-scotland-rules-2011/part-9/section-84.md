@@ -30,8 +30,8 @@ summary: ''
 - (a) work;
 - (b) education of any kind, including physical education;
 - (c) counselling and other rehabilitative programmes;
-- (d) vocational training; [^key-91ba33d2628dddd6d8d2d1ffeac60a70]...
-- (e) work placements outside the prison; and[^key-f6065ed7860a7dc8dcd24363bc56c9a3]
+- (d) vocational training; [^c-91ba33d2628dddd6d8d2d1ffeac60a70]...
+- (e) work placements outside the prison; and[^c-f6065ed7860a7dc8dcd24363bc56c9a3]
 - (f) any activity which is intended to assist the prisoner’s reintegration into the community following release.
 
 (3) The Scottish Ministers may, in relation to work placements outside the prison provided under paragraph (2)(e), specify in a direction—
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-91ba33d2628dddd6d8d2d1ffeac60a70]: Textual amendment: Word in rule 84(2) omitted (24.3.2016) by virtue of [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(12)(a)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/12/a)
+[^c-91ba33d2628dddd6d8d2d1ffeac60a70]: Textual amendment: Word in rule 84(2) omitted (24.3.2016) by virtue of [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(12)(a)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/12/a)
 
-[^key-f6065ed7860a7dc8dcd24363bc56c9a3]: Textual amendment: Rule 84(2)(f) and word inserted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(12)(b)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/12/b)
+[^c-f6065ed7860a7dc8dcd24363bc56c9a3]: Textual amendment: Rule 84(2)(f) and word inserted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(12)(b)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/12/b)

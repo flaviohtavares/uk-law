@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Calculation of benefits[^key-43804fd4399883973e738dce5c5b6dbe]
+## 40. Calculation of benefits[^c-43804fd4399883973e738dce5c5b6dbe]
 
 *Extent: N.I.*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43804fd4399883973e738dce5c5b6dbe]: Commencement: Reg. 40 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-43804fd4399883973e738dce5c5b6dbe]: Commencement: Reg. 40 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)

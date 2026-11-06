@@ -22,7 +22,7 @@ summary: ''
 
 (1) A direction under subsection (1) of section 12 or under section 13 or 13A[^c794587]of this Act may specify the minimum number of persons by whom any search to which the direction relates is to be carried out, the qualifications which persons carrying out any such search are to have, the manner in which any such search is to be carried out, and any apparatus, equipment or other aids to be used for the purpose of carrying out any such search.
 
-(2)[^c794588] A direction under subsection (2) of section 12 of this Act must require all the persons carrying out any modifications or alterations, or the installation of any additional apparatus or equipment, to be persons approved by the[^key-47cbc2c2baaa40cc00ce50d9e8c7f06f] CAA .
+(2)[^c794588] A direction under subsection (2) of section 12 of this Act must require all the persons carrying out any modifications or alterations, or the installation of any additional apparatus or equipment, to be persons approved by the[^c-47cbc2c2baaa40cc00ce50d9e8c7f06f] CAA .
 
 (3) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c794589]
 
@@ -51,7 +51,7 @@ summary: ''
 
 [^c794588]: Textual amendment: S. 15(2) substituted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1) , [Sch. 1 para. 7(3)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/7/3)
 
-[^key-47cbc2c2baaa40cc00ce50d9e8c7f06f]: Textual amendment: Words in s. 15(2) substituted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/11) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
+[^c-47cbc2c2baaa40cc00ce50d9e8c7f06f]: Textual amendment: Words in s. 15(2) substituted (1.4.2014) by [Civil Aviation Act 2012 (c. 19)](https://www.legislation.gov.uk/ukpga/2012/19), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2012/19/section/110/1), [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2012/19/schedule/11/paragraph/11) (with [Sch. 10 paras. 12](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/12), [17](https://www.legislation.gov.uk/ukpga/2012/19/schedule/10/paragraph/17)); [S.I. 2014/262](https://www.legislation.gov.uk/uksi/2014/262), [art. 3(a)](https://www.legislation.gov.uk/uksi/2014/262/article/3/a)
 
 [^c794589]: Textual amendment: S. 15(3) repealed by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31) , [ss. 8(1)](https://www.legislation.gov.uk/ukpga/1990/31/section/8/1) , [53(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/53/2) , [Sch. 1 para. 7(4)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/7/4) , [Sch. 4](https://www.legislation.gov.uk/ukpga/1990/31/schedule/4)
 

@@ -27,7 +27,7 @@ summary: ''
 
 (2) The scheme manager may periodically review whether P's medical unfitness has ceased.
 
-(3)[^key-cb35b8d47cae790e3957ef370716fa13] A review may be carried out at intervals of no less than 5 years as the scheme manager in its discretion determines.
+(3)[^c-cb35b8d47cae790e3957ef370716fa13] A review may be carried out at intervals of no less than 5 years as the scheme manager in its discretion determines.
 
 (4) The scheme manager must refer the questions in regulation 115(4) (referral of medical questions for purpose of a review-full retirement pension) to a selected medical practitioner for decision.
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^c22512191]: Marginal citation: See regulation 89(3) (early payment of full retirement pension) for when a full retirement pension comes into payment early on the grounds of permanent medical unfitness.
 
-[^key-cb35b8d47cae790e3957ef370716fa13]: Textual amendment: [Reg. 114(3)](https://www.legislation.gov.uk/nisr/2015/113/regulation/114/3) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [31](https://www.legislation.gov.uk/nisr/2024/38/regulation/31)
+[^c-cb35b8d47cae790e3957ef370716fa13]: Textual amendment: [Reg. 114(3)](https://www.legislation.gov.uk/nisr/2015/113/regulation/114/3) substituted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [31](https://www.legislation.gov.uk/nisr/2024/38/regulation/31)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Sale of freehold or long leasehold[^key-459d5d1428a67c6b9066e7f9d800c860]
+## 49. Sale of freehold or long leasehold[^c-459d5d1428a67c6b9066e7f9d800c860]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ the pub-owning business must comply with paragraph (2) as soon as reasonably pra
 
 ## Annotations
 
-[^key-459d5d1428a67c6b9066e7f9d800c860]: Commencement: Reg. 49 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-459d5d1428a67c6b9066e7f9d800c860]: Commencement: Reg. 49 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

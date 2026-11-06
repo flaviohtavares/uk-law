@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 95. Tree preservation orders: Scotland[^key-d128a2e16ebcc8fdd16e788b65c6644f]
+## 95. Tree preservation orders: Scotland[^c-d128a2e16ebcc8fdd16e788b65c6644f]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ For section 162 of the Town and Country Planning (Scotland) Act 1997 (Orders aff
 
 ## Annotations
 
-[^key-d128a2e16ebcc8fdd16e788b65c6644f]: Commencement: S. 95 in force at 12.6.2006 by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)
+[^c-d128a2e16ebcc8fdd16e788b65c6644f]: Commencement: S. 95 in force at 12.6.2006 by [S.S.I. 2006/268](https://www.legislation.gov.uk/ssi/2006/268), [art. 3(b)](https://www.legislation.gov.uk/ssi/2006/268/article/3/b)

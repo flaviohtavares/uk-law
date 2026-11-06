@@ -39,7 +39,7 @@ An Act to make provision for the reorganization, development and regulation of t
 
 ## Part II — Miscellaneous Amendments of Previous Acts
 
-### 21. Fishery harbours.[^c6012811][^c6012821][^c6012831][^c6012841][^key-0f337e2dd2a0c6a702beba12f1263de8][^c6012801]
+### 21. Fishery harbours.[^c6012811][^c6012821][^c6012831][^c6012841][^c-0f337e2dd2a0c6a702beba12f1263de8][^c6012801]
 
 (1) Where, under or by virtue of any such Act or order relating to the construction, improvement, management or maintenance of any harbour as is hereafter mentioned in this section, anything is required or authorized to be done by, to or before the Minister of Transport, or by, to or before the Minister of Agriculture and Fisheries, then subject to this section that Act or order shall be taken as requiring or authorizing it to be done by, to or before whichever of those Ministers is the appropriate Minister for the time being in the case of that harbour, and any provision of the Act or order which refers or is to be taken as referring to either of those Ministers or to the Ministry of Transport or of Agriculture and Fisheries shall be construed accordingly.
 
@@ -190,7 +190,7 @@ Section 21.
 
 [^c6012841]: Modification: By [S.I. 1955/554](https://www.legislation.gov.uk/uksi/1955/554), [art. 3(1)](https://www.legislation.gov.uk/uksi/1955/554/article/3/1) it is provided that the style and title of the Minister of Agriculture and Fisheries be changed to “the Minister of Agriculture, Fisheries and Food” and his department known as the Ministry of Agriculture, Fisheries and Food
 
-[^key-0f337e2dd2a0c6a702beba12f1263de8]: Modification: S. 21: transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), reg. 2, Sch.)
+[^c-0f337e2dd2a0c6a702beba12f1263de8]: Modification: S. 21: transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), reg. 2, Sch.)
 
 [^c6012801]: Modification: Functions of Minister of Transport now exercisable by Secretary of State: [S.I. 1953/1204](https://www.legislation.gov.uk/uksi/1953/1204) (1953 I, p. 1225), art. 3, 1959/1768 (1959 I, p. 1793), art. 3(2) and 1970/1681, art. 2(1)
 

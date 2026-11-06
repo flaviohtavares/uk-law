@@ -32,7 +32,7 @@ summary: ''
 
 Police, England And Wales
 
-The Police Federation (Amendment) Regulations 2011 (revoked)[^key-2ff2f06c42d66fb9de30997d69c48e62]
+The Police Federation (Amendment) Regulations 2011 (revoked)[^c-2ff2f06c42d66fb9de30997d69c48e62]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st March 2011
 
-[^key-2ff2f06c42d66fb9de30997d69c48e62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ff2f06c42d66fb9de30997d69c48e62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-2ff2f06c42d66fb9de30997d69c48e62]
+## 1. Citation, commencement and extent[^c-2ff2f06c42d66fb9de30997d69c48e62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Police Federation Regulations 1969[^key-2ff2f06c42d66fb9de30997d69c48e62]
+## 2. Amendment to the Police Federation Regulations 1969[^c-2ff2f06c42d66fb9de30997d69c48e62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2ff2f06c42d66fb9de30997d69c48e62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ff2f06c42d66fb9de30997d69c48e62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2ff2f06c42d66fb9de30997d69c48e62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2ff2f06c42d66fb9de30997d69c48e62]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2ff2f06c42d66fb9de30997d69c48e62]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/230) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))
+[^c-2ff2f06c42d66fb9de30997d69c48e62]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2011/230) revoked (31.12.2017) by [The Police Federation (England and Wales) Regulations 2017 (S.I. 2017/1140)](https://www.legislation.gov.uk/uksi/2017/1140), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1140/regulation/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1140/schedule/2) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2017/1140/schedule/3))

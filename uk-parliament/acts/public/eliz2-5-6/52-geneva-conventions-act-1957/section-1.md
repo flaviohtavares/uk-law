@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Any person, whatever his nationality, who, whether in or outside the United Kingdom, commits, or aids, abets or procures the commission by any other person of a grave breach of any of the scheduled conventions[^c9659841] , the first protocol or the third protocol[^key-a60883180cd665d88b3eae73a9ee9782] shall be guilty of an offence. . .
+(1) Any person, whatever his nationality, who, whether in or outside the United Kingdom, commits, or aids, abets or procures the commission by any other person of a grave breach of any of the scheduled conventions[^c9659841] , the first protocol or the third protocol[^c-a60883180cd665d88b3eae73a9ee9782] shall be guilty of an offence. . .
 
 (1A)[^c9659861] For the purposes of subsection (1) of this section—
 
@@ -31,7 +31,7 @@ summary: ''
   - (iv) in the case of the convention set out in the Fourth Schedule to this Act, Article 147; and
 - (b) a grave breach of the first protocol is anything referred to as a grave breach of the protocol in paragraph 4 of Article 11, or paragraph 2, 3 or 4 of Article 85, of the protocol.
 
-; and[^key-37663445f28e201b70ef876e07ff68a9]
+; and[^c-37663445f28e201b70ef876e07ff68a9]
 
 - (c) a grave breach of the third protocol is anything which for the purposes of Article 6 of the protocol constitutes the perfidious use of the emblem specified in section 6(1)(f) of this Act
 
@@ -47,11 +47,11 @@ summary: ''
 
 [^c9659841]: Textual amendment: Words in s. 1(1) substituted (20.7.1998) by [1995 c. 27](https://www.legislation.gov.uk/ukpga/1995/27), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1995/27/section/1/2); [S.I. 1998/1505](https://www.legislation.gov.uk/uksi/1998/1505), [art. 2](https://www.legislation.gov.uk/uksi/1998/1505/article/2)
 
-[^key-a60883180cd665d88b3eae73a9ee9782]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/52/section/1/1) substituted (5.4.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2009/6/section/1/2), [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1); [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
+[^c-a60883180cd665d88b3eae73a9ee9782]: Textual amendment: Words in [s. 1(1)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/52/section/1/1) substituted (5.4.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2009/6/section/1/2), [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1); [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
 
 [^c9659861]: Textual amendment: S. 1(1A) inserted (20.7.1998) by [1995 c. 27](https://www.legislation.gov.uk/ukpga/1995/27), [s. 1(3)](https://www.legislation.gov.uk/ukpga/1995/27/section/1/3); S.I 1998/1505, art. 2
 
-[^key-37663445f28e201b70ef876e07ff68a9]: Textual amendment: [S. 1(1A)(c)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/52/section/1/1A/c) and word inserted (5.4.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2009/6/section/1/3), [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1); [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
+[^c-37663445f28e201b70ef876e07ff68a9]: Textual amendment: [S. 1(1A)(c)](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/52/section/1/1A/c) and word inserted (5.4.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2009/6/section/1/3), [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1); [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
 
 [^c9659871]: Textual amendment: S. 1(2) repealed (E.W.) by [Criminal Law Act 1967 (c. 58)](https://www.legislation.gov.uk/ukpga/1967/58), [Sch. 3 Pt. III](https://www.legislation.gov.uk/ukpga/1967/58/schedule/3/part/III) and (N.I.) by [Criminal Law Act (Northern Ireland) 1967 (c. 18)](https://www.legislation.gov.uk/apni/1967/18), [s. 15(2)](https://www.legislation.gov.uk/apni/1967/18/section/15/2), [Sch. 2 Pt. II](https://www.legislation.gov.uk/apni/1967/18/schedule/2/part/II)
 

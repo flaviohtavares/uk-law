@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Annual reports by the Welsh Ministers[^key-419fb17998cd0a01df4aff06b4f34e7a]
+## 12. Annual reports by the Welsh Ministers[^c-419fb17998cd0a01df4aff06b4f34e7a]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-419fb17998cd0a01df4aff06b4f34e7a]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2015/2/section/12) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-419fb17998cd0a01df4aff06b4f34e7a]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2015/2/section/12) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

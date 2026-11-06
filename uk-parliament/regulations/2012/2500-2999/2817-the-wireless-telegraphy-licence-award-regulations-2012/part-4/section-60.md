@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Notice to be given to bidders before supplementary bids round[^key-99e09d1f91a41347c016e843a373a127]
+## 60. Notice to be given to bidders before supplementary bids round[^c-99e09d1f91a41347c016e843a373a127]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Before the start of the supplementary bids round, OFCOM shall notify each bidder
 
 ## Annotations
 
-[^key-99e09d1f91a41347c016e843a373a127]: Commencement: Reg. 60 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-99e09d1f91a41347c016e843a373a127]: Commencement: Reg. 60 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

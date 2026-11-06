@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21G. Designated persons[^key-ba1e108876db744977f2885ee8ea81ba][^key-1205f30550af1233063afe27fb5fac80]
+## 21G. Designated persons[^c-ba1e108876db744977f2885ee8ea81ba][^c-1205f30550af1233063afe27fb5fac80]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba1e108876db744977f2885ee8ea81ba]: Textual amendment: S. 21G inserted (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 61](https://www.legislation.gov.uk/mwa/2011/4/section/61), [178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/e)
+[^c-ba1e108876db744977f2885ee8ea81ba]: Textual amendment: S. 21G inserted (30.4.2012) by [Local Government (Wales) Measure 2011 (nawm 4)](https://www.legislation.gov.uk/mwa/2011/4), [ss. 61](https://www.legislation.gov.uk/mwa/2011/4/section/61), [178(3)](https://www.legislation.gov.uk/mwa/2011/4/section/178/3); [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/e)
 
-[^key-1205f30550af1233063afe27fb5fac80]: Textual amendment: Word in [s. 21G](https://www.legislation.gov.uk/ukpga/2000/22/section/21G) heading substituted (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/27); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
+[^c-1205f30550af1233063afe27fb5fac80]: Textual amendment: Word in [s. 21G](https://www.legislation.gov.uk/ukpga/2000/22/section/21G) heading substituted (4.5.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2011/20/schedule/3/paragraph/27); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)

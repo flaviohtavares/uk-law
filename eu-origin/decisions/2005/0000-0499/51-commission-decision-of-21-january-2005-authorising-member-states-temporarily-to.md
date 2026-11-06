@@ -78,34 +78,34 @@ The measures provided for in this Decision are in accordance with the opinion of
 
 HAS ADOPTED THIS DECISION:
 
-**Article A1.**[^key-f032a723de79919789c802425ff00fb1] In this Decision:
+**Article A1.**[^c-f032a723de79919789c802425ff00fb1] In this Decision:
 
 - ‘contaminated soil’ means:
   - (a) soil contaminated by pesticides governed by the programme of the Food and Agriculture Organization of the United Nations on the prevention and disposal of obsolete and unwanted pesticides or any other similar multilateral programme; or
   - (b) soil contaminated with persistent organic pollutants listed in the Stockholm Convention on persistent organic pollutants or in the 1998 Protocol to the 1979 Convention on long-range trans-boundary air pollution on persistent organic pollutants ;
-- ‘dedicated hazardous waste incinerator’ means an incinerator in Great Britain which is officially authorised to treat contaminated soil under assimilated[^key-aec4a5b691103260764f93a5b0d00f2b] law relating to industrial emissions;
+- ‘dedicated hazardous waste incinerator’ means an incinerator in Great Britain which is officially authorised to treat contaminated soil under assimilated[^c-aec4a5b691103260764f93a5b0d00f2b] law relating to industrial emissions;
 - ‘Plant Health Regulation’ means Regulation (EU) 2016/2031 on protective measures against pests of plants.
 
-**Article 1.** (1.)[^key-a8b916e440a8904a1b7502f1d1b37ae8] The competent authorities may authorise the introduction into Great Britain of contaminated soil originating in third countries by way of derogation from:
+**Article 1.** (1.)[^c-a8b916e440a8904a1b7502f1d1b37ae8] The competent authorities may authorise the introduction into Great Britain of contaminated soil originating in third countries by way of derogation from:
 
 - (a) any prohibition that would otherwise apply to its introduction by virtue of Article 40(1) of the Plant Health Regulation; or
 - (b) any requirements that would otherwise apply to its introduction by virtue of Article 41(1) of the Plant Health Regulation.
 
-(2.)[^key-ec8ed12e6a84605499b1e2565ad57d95] The authorisation to provide for derogations, as mentioned in paragraph 1 shall be subject to the specific conditions provided for in the Annex, and shall only apply to soil that is introduced into Great Britain[^key-d6ec4b7c3b70f6e96bd8e61a2ce2590b] between 1 March 2005 and 31 December 2024[^c000001] and is[^key-9c11e410d3be43c901e0f012de44e377] destined for treatment in dedicated hazardous waste incinerators.
+(2.)[^c-ec8ed12e6a84605499b1e2565ad57d95] The authorisation to provide for derogations, as mentioned in paragraph 1 shall be subject to the specific conditions provided for in the Annex, and shall only apply to soil that is introduced into Great Britain[^c-d6ec4b7c3b70f6e96bd8e61a2ce2590b] between 1 March 2005 and 31 December 2024[^c000001] and is[^c-9c11e410d3be43c901e0f012de44e377] destined for treatment in dedicated hazardous waste incinerators.
 
-(3.)[^key-6d8b7c42c4db25205f52aaadc64d7492] The authorisation is without prejudice to any further authorisation or procedures which may be required under other legislation.
+(3.)[^c-6d8b7c42c4db25205f52aaadc64d7492] The authorisation is without prejudice to any further authorisation or procedures which may be required under other legislation.
 
-**Article 2.**[^key-680f97dc3c17ad5311008dddd55cf208] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-680f97dc3c17ad5311008dddd55cf208] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-680f97dc3c17ad5311008dddd55cf208] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-680f97dc3c17ad5311008dddd55cf208] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-680f97dc3c17ad5311008dddd55cf208] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-680f97dc3c17ad5311008dddd55cf208] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-680f97dc3c17ad5311008dddd55cf208] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-680f97dc3c17ad5311008dddd55cf208] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## ANNEX — Specific conditions applying to soil originating in third countries benefiting from the derogation provided for in Article 1 of this Decision
 
-1.[^key-da79a2a733c8a6769d29318e33a03275]
+1.[^c-da79a2a733c8a6769d29318e33a03275]
 
 In this Annex, IMDG Code' means the 2018 edition of the International Maritime Dangerous Goods Code.
 
@@ -119,23 +119,23 @@ The specific conditions are:
 - (d) the soil is introduced through a point of entry in Great Britain approved by the competent authority;
 - (e) the soil is transported directly from its point of entry in Great Britain to the dedicated hazardous waste incinerator where it is to be treated.
 
-[^key-da79a2a733c8a6769d29318e33a03275]3.
+[^c-da79a2a733c8a6769d29318e33a03275]3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da79a2a733c8a6769d29318e33a03275]4.
+[^c-da79a2a733c8a6769d29318e33a03275]4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da79a2a733c8a6769d29318e33a03275]5.
+[^c-da79a2a733c8a6769d29318e33a03275]5.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-da79a2a733c8a6769d29318e33a03275]6.
+[^c-da79a2a733c8a6769d29318e33a03275]6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c90ee301c54b0a463f44ef9b94396f2b]7.
+[^c-c90ee301c54b0a463f44ef9b94396f2b]7.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -147,24 +147,24 @@ The specific conditions are:
 
 [^f00003]: Footnote: [OJ L 332, 28.12.2000, p. 91](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.332.01.0091.01.ENG).
 
-[^key-f032a723de79919789c802425ff00fb1]: Textual amendment: [Art. A1](https://www.legislation.gov.uk/eudn/2005/51/article/A1) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/2)
+[^c-f032a723de79919789c802425ff00fb1]: Textual amendment: [Art. A1](https://www.legislation.gov.uk/eudn/2005/51/article/A1) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(2)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/2)
 
-[^key-aec4a5b691103260764f93a5b0d00f2b]: Textual amendment: Word in [Art. A1](https://www.legislation.gov.uk/eudn/2005/51/article/A1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 71](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/71)
+[^c-aec4a5b691103260764f93a5b0d00f2b]: Textual amendment: Word in [Art. A1](https://www.legislation.gov.uk/eudn/2005/51/article/A1) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 71](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/71)
 
-[^key-a8b916e440a8904a1b7502f1d1b37ae8]: Textual amendment: [Art. 1(1)](https://www.legislation.gov.uk/eudn/2005/51/article/1/1) substituted for words (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(3)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/3/a)
+[^c-a8b916e440a8904a1b7502f1d1b37ae8]: Textual amendment: [Art. 1(1)](https://www.legislation.gov.uk/eudn/2005/51/article/1/1) substituted for words (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(3)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/3/a)
 
-[^key-ec8ed12e6a84605499b1e2565ad57d95]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2005/51/article/1) renumbered as Art. 1(2) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(3)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/3/b)
+[^c-ec8ed12e6a84605499b1e2565ad57d95]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2005/51/article/1) renumbered as Art. 1(2) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(3)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/3/b)
 
-[^key-d6ec4b7c3b70f6e96bd8e61a2ce2590b]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eudn/2005/51/article/1/2) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/3/b/i)
+[^c-d6ec4b7c3b70f6e96bd8e61a2ce2590b]: Textual amendment: Words in [Art. 1(2)](https://www.legislation.gov.uk/eudn/2005/51/article/1/2) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/3/b/i)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Decision (EU) 2019/1999 of 28 November 2019 amending Decision 2005/51/EC as regards the period during which soil contaminated by pesticides or persistent organic pollutants may be introduced into the Union for decontamination purposes (notified under document C(2019) 8555)](https://www.legislation.gov.uk/eudn/2019/1999).
 
-[^key-9c11e410d3be43c901e0f012de44e377]: Textual amendment: Word in [Art. 1(2)](https://www.legislation.gov.uk/eudn/2005/51/article/1/2) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/3/b/ii)
+[^c-9c11e410d3be43c901e0f012de44e377]: Textual amendment: Word in [Art. 1(2)](https://www.legislation.gov.uk/eudn/2005/51/article/1/2) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/3/b/ii)
 
-[^key-6d8b7c42c4db25205f52aaadc64d7492]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2005/51/article/1) renumbered as Art. 1(3) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(3)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/3/c)
+[^c-6d8b7c42c4db25205f52aaadc64d7492]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eudn/2005/51/article/1) renumbered as Art. 1(3) (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(3)(c)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/3/c)
 
-[^key-680f97dc3c17ad5311008dddd55cf208]: Textual amendment: [Arts. 2-5](https://www.legislation.gov.uk/eudn/2005/51/article/2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(3)(d)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/3/d)
+[^c-680f97dc3c17ad5311008dddd55cf208]: Textual amendment: [Arts. 2-5](https://www.legislation.gov.uk/eudn/2005/51/article/2) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(3)(d)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/3/d)
 
-[^key-da79a2a733c8a6769d29318e33a03275]: Textual amendment: Annex paras. 1, 2 substituted for Annex paras. 1-6 (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(4)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/4/a)
+[^c-da79a2a733c8a6769d29318e33a03275]: Textual amendment: Annex paras. 1, 2 substituted for Annex paras. 1-6 (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(4)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/4/a)
 
-[^key-c90ee301c54b0a463f44ef9b94396f2b]: Textual amendment: Annex para. 7 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(4)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/4/b)
+[^c-c90ee301c54b0a463f44ef9b94396f2b]: Textual amendment: Annex para. 7 omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [44(4)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/44/4/b)

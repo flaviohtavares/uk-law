@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Directions to the appropriate agency to consider minimum acceptable flow.[^key-ec6f448e11e508d8a0f5032cf79ee25e]
+## 22. Directions to the appropriate agency to consider minimum acceptable flow.[^c-ec6f448e11e508d8a0f5032cf79ee25e]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ and subsections (6) and (7) of that section shall apply in relation to a draft s
 
 ## Annotations
 
-[^key-ec6f448e11e508d8a0f5032cf79ee25e]: Textual amendment: Words in [s. 22](https://www.legislation.gov.uk/ukpga/1991/57/section/22) and heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ec6f448e11e508d8a0f5032cf79ee25e]: Textual amendment: Words in [s. 22](https://www.legislation.gov.uk/ukpga/1991/57/section/22) and heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 270(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/270/a) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

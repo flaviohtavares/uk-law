@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Revocation of the Immigration (European Economic Area) (Amendment) Regulations 2018[^key-002988a892681a598f73e17ff924a8f7][^M_I_ec865d9f-7d6b-4075-a693-f6db0751e919]
+## 52. Revocation of the Immigration (European Economic Area) (Amendment) Regulations 2018[^c-002988a892681a598f73e17ff924a8f7][^M_I_ec865d9f-7d6b-4075-a693-f6db0751e919]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ The Immigration (European Economic Area) (Amendment) Regulations 2018 [^c2439912
 
 ## Annotations
 
-[^key-002988a892681a598f73e17ff924a8f7]: Commencement: Reg. 52 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-002988a892681a598f73e17ff924a8f7]: Commencement: Reg. 52 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_ec865d9f-7d6b-4075-a693-f6db0751e919]: Commencement: Reg. 52 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

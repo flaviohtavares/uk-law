@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 22. Acquisition of part of certain properties[^key-b5026dfc8032e3efda2501ca4669f5ea]
+## 22. Acquisition of part of certain properties[^c-b5026dfc8032e3efda2501ca4669f5ea]
 
 *Extent: E+W+S*
 
@@ -65,4 +65,4 @@ the notice to treat is deemed to be a notice to treat for the land subject to th
 
 ## Annotations
 
-[^key-b5026dfc8032e3efda2501ca4669f5ea]: Commencement: Art. 22 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)
+[^c-b5026dfc8032e3efda2501ca4669f5ea]: Commencement: Art. 22 in force at 26.9.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2284/article/1)

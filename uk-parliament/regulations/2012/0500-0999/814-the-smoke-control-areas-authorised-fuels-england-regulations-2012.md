@@ -32,7 +32,7 @@ summary: ''
 
 Clean Air, England
 
-The Smoke Control Areas (Authorised Fuels) (England) Regulations 2012 (revoked)[^key-4bceb4c2f8dc8384becfa7025c79cb75]
+The Smoke Control Areas (Authorised Fuels) (England) Regulations 2012 (revoked)[^c-4bceb4c2f8dc8384becfa7025c79cb75]
 
 Made
 
@@ -46,143 +46,143 @@ Coming into force
 
 6th April 2012
 
-[^key-4bceb4c2f8dc8384becfa7025c79cb75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bceb4c2f8dc8384becfa7025c79cb75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, application and commencement[^key-4bceb4c2f8dc8384becfa7025c79cb75]
+## 1. Citation, application and commencement[^c-4bceb4c2f8dc8384becfa7025c79cb75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Authorised fuels for the purposes of Part III of the Clean Air Act 1993[^key-4bceb4c2f8dc8384becfa7025c79cb75]
+## 2. Authorised fuels for the purposes of Part III of the Clean Air Act 1993[^c-4bceb4c2f8dc8384becfa7025c79cb75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-4bceb4c2f8dc8384becfa7025c79cb75]
+## 3. Revocations[^c-4bceb4c2f8dc8384becfa7025c79cb75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4bceb4c2f8dc8384becfa7025c79cb75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bceb4c2f8dc8384becfa7025c79cb75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Authorised fuels[^key-4bceb4c2f8dc8384becfa7025c79cb75]
+## SCHEDULE 1 — Authorised fuels[^c-4bceb4c2f8dc8384becfa7025c79cb75]
 
 Regulation 2(f)
 
-**1.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**28.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**29.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**30.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**31.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**32.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**32.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**41.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**42.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**43.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**43.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**45.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**46.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**46.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**47.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**48.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**49.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**50.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**51.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**52.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**52.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**53.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**53.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**54.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**54.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**55.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**55.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**56.**[^key-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-4bceb4c2f8dc8384becfa7025c79cb75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Revocations[^key-4bceb4c2f8dc8384becfa7025c79cb75]
+## SCHEDULE 2 — Revocations[^c-4bceb4c2f8dc8384becfa7025c79cb75]
 
 Regulation 3
 
@@ -190,8 +190,8 @@ Regulation 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-4bceb4c2f8dc8384becfa7025c79cb75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bceb4c2f8dc8384becfa7025c79cb75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4bceb4c2f8dc8384becfa7025c79cb75]: Textual amendment: Regulations revoked (1.10.2012) by [The Smoke Control Areas (Authorised Fuels) (England) (No. 2) Regulations 2012 (S.I. 2012/2281)](https://www.legislation.gov.uk/uksi/2012/2281), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2012/2281/regulation/1/c), [3](https://www.legislation.gov.uk/uksi/2012/2281/regulation/3)
+[^c-4bceb4c2f8dc8384becfa7025c79cb75]: Textual amendment: Regulations revoked (1.10.2012) by [The Smoke Control Areas (Authorised Fuels) (England) (No. 2) Regulations 2012 (S.I. 2012/2281)](https://www.legislation.gov.uk/uksi/2012/2281), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2012/2281/regulation/1/c), [3](https://www.legislation.gov.uk/uksi/2012/2281/regulation/3)

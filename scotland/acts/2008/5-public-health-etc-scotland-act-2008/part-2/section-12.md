@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Lists of notifiable diseases and notifiable organisms[^key-9a2f2107594ec64a2d1d74c80a407ad8]
+## 12. Lists of notifiable diseases and notifiable organisms[^c-9a2f2107594ec64a2d1d74c80a407ad8]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a2f2107594ec64a2d1d74c80a407ad8]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2008/5/section/12) in force at 1.1.2010 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)
+[^c-9a2f2107594ec64a2d1d74c80a407ad8]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2008/5/section/12) in force at 1.1.2010 by [S.S.I. 2009/404](https://www.legislation.gov.uk/ssi/2009/404), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/404/article/2/3), [Sch. 3](https://www.legislation.gov.uk/ssi/2009/404/schedule/3)

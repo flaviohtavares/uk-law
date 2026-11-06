@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97Z1. Mediation[^key-41211267e2de4a4e00fe8e71bf1a964a]
+## 97Z1. Mediation[^c-41211267e2de4a4e00fe8e71bf1a964a]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41211267e2de4a4e00fe8e71bf1a964a]: Textual amendment: [S. 97Z1](https://www.legislation.gov.uk/asp/2003/2/section/97Z1) inserted (15.4.2016 for specified purposes, 27.6.2018 ) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 75](https://www.legislation.gov.uk/asp/2015/6/section/75), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3)); [S.S.I. 2018/139](https://www.legislation.gov.uk/ssi/2018/139), [art. 2(b)](https://www.legislation.gov.uk/ssi/2018/139/article/2/b)
+[^c-41211267e2de4a4e00fe8e71bf1a964a]: Textual amendment: [S. 97Z1](https://www.legislation.gov.uk/asp/2003/2/section/97Z1) inserted (15.4.2016 for specified purposes, 27.6.2018 ) by [Community Empowerment (Scotland) Act 2015 (asp 6)](https://www.legislation.gov.uk/asp/2015/6), [ss. 75](https://www.legislation.gov.uk/asp/2015/6/section/75), [142(1)](https://www.legislation.gov.uk/asp/2015/6/section/142/1); [S.S.I. 2015/399](https://www.legislation.gov.uk/ssi/2015/399), [art. 2](https://www.legislation.gov.uk/ssi/2015/399/article/2), [sch.](https://www.legislation.gov.uk/ssi/2015/399/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/399/article/3)); [S.S.I. 2018/139](https://www.legislation.gov.uk/ssi/2018/139), [art. 2(b)](https://www.legislation.gov.uk/ssi/2018/139/article/2/b)

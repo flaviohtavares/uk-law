@@ -36,7 +36,7 @@ An Act to make provision in relation to the right of employees and other workers
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Flexible working[^key-942323f5b286ccfaea7cfaced3662285][^key-565d33469aa1bbb5e5a436649028e921]
+## 1. Flexible working[^c-942323f5b286ccfaea7cfaced3662285][^c-565d33469aa1bbb5e5a436649028e921]
 
 (1) Section 80F of the Employment Rights Act 1996 (flexible working: right to request contract variation) is amended as follows.
 
@@ -88,7 +88,7 @@ regardless of when the employment, contract or other arrangement (as the case ma
 
 (8) On or after the coming into force of this section, in any determination of the number of applications made under section 80F of the Employment Rights Act 1996 by an employee during a period of 12 months, any such application made before that coming into force (and during that period) is to be included.
 
-## 2. Extent, commencement and short title[^key-2ad5c49fb95fc7709dcb1403686d4578]
+## 2. Extent, commencement and short title[^c-2ad5c49fb95fc7709dcb1403686d4578]
 
 (1) This Act extends to England and Wales and Scotland.
 
@@ -100,8 +100,8 @@ regardless of when the employment, contract or other arrangement (as the case ma
 
 ## Annotations
 
-[^key-942323f5b286ccfaea7cfaced3662285]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2023/33/section/2/2)
+[^c-942323f5b286ccfaea7cfaced3662285]: Commencement: S. 1 not in force at Royal Assent, see [s. 2(2)](https://www.legislation.gov.uk/ukpga/2023/33/section/2/2)
 
-[^key-565d33469aa1bbb5e5a436649028e921]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/33/section/1) in force at 6.4.2024 by [S.I. 2024/438](https://www.legislation.gov.uk/uksi/2024/438), [reg. 2](https://www.legislation.gov.uk/uksi/2024/438/regulation/2)
+[^c-565d33469aa1bbb5e5a436649028e921]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/33/section/1) in force at 6.4.2024 by [S.I. 2024/438](https://www.legislation.gov.uk/uksi/2024/438), [reg. 2](https://www.legislation.gov.uk/uksi/2024/438/regulation/2)
 
-[^key-2ad5c49fb95fc7709dcb1403686d4578]: Commencement: S. 2 in force at Royal Assent, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/33/section/2/3)
+[^c-2ad5c49fb95fc7709dcb1403686d4578]: Commencement: S. 2 in force at Royal Assent, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2023/33/section/2/3)

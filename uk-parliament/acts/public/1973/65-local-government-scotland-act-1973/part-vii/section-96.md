@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Accounts and audit.[^key-8d9d8ed73a454973c3145f4094b55f8e]
+## 96. Accounts and audit.[^c-8d9d8ed73a454973c3145f4094b55f8e]
 
 *Extent: S*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
+[^c-8d9d8ed73a454973c3145f4094b55f8e]: Modification: Ss. 96-102 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [7](https://www.legislation.gov.uk/ssi/2013/121/article/7), [sch.](https://www.legislation.gov.uk/ssi/2013/121/schedule)
 
 [^c9674571]: Modification: [S. 96(1)(2)-(4)](https://www.legislation.gov.uk/ukpga/1973/65/section/96/1/2) applied (6.3.1992) by [Local Government Finance Act 1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), [s. 107](https://www.legislation.gov.uk/ukpga/1992/14/section/107), [Sch. 11 Pt. III para. 25](https://www.legislation.gov.uk/ukpga/1992/14/schedule/11/part/III/paragraph/25).
 

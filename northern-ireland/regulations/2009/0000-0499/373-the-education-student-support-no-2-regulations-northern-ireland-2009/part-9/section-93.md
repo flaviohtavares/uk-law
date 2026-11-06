@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Interpretation[^key-a05abd40d93fb063485a0cfed5ea3fef]
+## 93. Interpretation[^c-a05abd40d93fb063485a0cfed5ea3fef]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ In this Part—
 
 ## Annotations
 
-[^key-a05abd40d93fb063485a0cfed5ea3fef]: Commencement: Reg. 93 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-a05abd40d93fb063485a0cfed5ea3fef]: Commencement: Reg. 93 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Administrative co-operation on VAT and mutual assistance on tax debts[^key-a8edc739fdb5896b29fd5757945791d7]
+## 22. Administrative co-operation on VAT and mutual assistance on tax debts[^c-a8edc739fdb5896b29fd5757945791d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a8edc739fdb5896b29fd5757945791d7]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2020/29/section/22) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/t)
+[^c-a8edc739fdb5896b29fd5757945791d7]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2020/29/section/22) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/t)

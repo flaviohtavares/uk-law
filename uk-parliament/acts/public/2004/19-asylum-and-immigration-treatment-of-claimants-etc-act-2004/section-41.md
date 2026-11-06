@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Professional bodies[^key-28ecb5725a317ad80a7a109d8d8413a7]
+## 41. Professional bodies[^c-28ecb5725a317ad80a7a109d8d8413a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28ecb5725a317ad80a7a109d8d8413a7]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2004/19/section/41) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)
+[^c-28ecb5725a317ad80a7a109d8d8413a7]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2004/19/section/41) in force at 1.10.2004 by [S.I. 2004/2523](https://www.legislation.gov.uk/uksi/2004/2523), [art. 2](https://www.legislation.gov.uk/uksi/2004/2523/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/2523/schedule)

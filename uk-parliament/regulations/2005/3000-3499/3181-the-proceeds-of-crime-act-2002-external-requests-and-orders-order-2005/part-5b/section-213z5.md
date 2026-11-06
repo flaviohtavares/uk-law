@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213Z5. Exclusions[^key-9c617700803fb83acc47c3b52cf46ec6]
+## 213Z5. Exclusions[^c-9c617700803fb83acc47c3b52cf46ec6]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 (6) A magistrates’ court, in deciding whether to make an exclusion for the purpose of enabling a person to meet legal expenses in respect of proceedings under this Part—
 
 - (a) must have regard to the desirability of the person being represented in any proceedings under this Part in which the person is a participant, and
-- (b) must disregard the possibility that legal representation of the person in any such proceedings might, were an exclusion not made —[^key-d40faaf0840a60b0ffdd20327bdd0f8e]
+- (b) must disregard the possibility that legal representation of the person in any such proceedings might, were an exclusion not made —[^c-d40faaf0840a60b0ffdd20327bdd0f8e]
   - (i) be made available under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, or
   - (ii) be funded by the Legal Services Agency Northern Ireland.
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9c617700803fb83acc47c3b52cf46ec6]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2005/3181/part/5B) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [31](https://www.legislation.gov.uk/uksi/2018/1078/article/31)
+[^c-9c617700803fb83acc47c3b52cf46ec6]: Textual amendment: [Pt. 5B](https://www.legislation.gov.uk/uksi/2005/3181/part/5B) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [31](https://www.legislation.gov.uk/uksi/2018/1078/article/31)
 
-[^key-d40faaf0840a60b0ffdd20327bdd0f8e]: Textual amendment: [Art. 213Z5(6)(b)(i)](https://www.legislation.gov.uk/uksi/2005/3181/article/213Z5/6/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2005/3181/article/213Z5/6/b/ii) substituted for words (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [25](https://www.legislation.gov.uk/uksi/2021/638/article/25)
+[^c-d40faaf0840a60b0ffdd20327bdd0f8e]: Textual amendment: [Art. 213Z5(6)(b)(i)](https://www.legislation.gov.uk/uksi/2005/3181/article/213Z5/6/b/i)[(ii)](https://www.legislation.gov.uk/uksi/2005/3181/article/213Z5/6/b/ii) substituted for words (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [25](https://www.legislation.gov.uk/uksi/2021/638/article/25)

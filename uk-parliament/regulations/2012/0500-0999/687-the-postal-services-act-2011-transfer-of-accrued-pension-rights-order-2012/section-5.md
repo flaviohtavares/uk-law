@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transfer of qualifying accrued rights from RMPP to RMSPS[^key-d9aa245e7ba5fdbe68ac242abf19e7d6][^key-2284c830d9a0e50840f966afb02ee4c3]
+## 5. Transfer of qualifying accrued rights from RMPP to RMSPS[^c-d9aa245e7ba5fdbe68ac242abf19e7d6][^c-2284c830d9a0e50840f966afb02ee4c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,8 +27,8 @@ The following are transferred from the RMPP to the RMSPS—
 
 ## Annotations
 
-[^key-d9aa245e7ba5fdbe68ac242abf19e7d6]: Commencement: Art. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
+[^c-d9aa245e7ba5fdbe68ac242abf19e7d6]: Commencement: Art. 5 not in force at made date, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2012/687/article/1/3)
 
-[^key-2284c830d9a0e50840f966afb02ee4c3]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/687/article/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
+[^c-2284c830d9a0e50840f966afb02ee4c3]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2012/687/article/5) in force at 1.4.2012 by [S.I. 2012/966](https://www.legislation.gov.uk/uksi/2012/966), [arts. 2](https://www.legislation.gov.uk/uksi/2012/966/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2012/966/article/3/a)
 
 [^f00005]: Footnote: Qualifying accrued rights are defined at section 16(1) of the Postal Services Act 2011.

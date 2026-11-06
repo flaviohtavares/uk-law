@@ -221,11 +221,11 @@ Section 108.
 
 .
 
-**50.** In section 6(1)(b), after sub-paragraph (ii) there is inserted the following sub-paragraph— *(Extent: S)* *(affected by repeal, see note)*[^key-351222b660065ba370b81bc583f81720]
+**50.** In section 6(1)(b), after sub-paragraph (ii) there is inserted the following sub-paragraph— *(Extent: S)* *(affected by repeal, see note)*[^c-351222b660065ba370b81bc583f81720]
 
-> - (iii (Extent: S) (affected by repeal, see note))[^key-351222b660065ba370b81bc583f81720] a child who has been placed for adoption by an adoption agency (within the meaning of section 1 of the Children Act 1975) ; *(Extent: S)* *(affected by repeal, see note)*[^key-351222b660065ba370b81bc583f81720]
+> - (iii (Extent: S) (affected by repeal, see note))[^c-351222b660065ba370b81bc583f81720] a child who has been placed for adoption by an adoption agency (within the meaning of section 1 of the Children Act 1975) ; *(Extent: S)* *(affected by repeal, see note)*[^c-351222b660065ba370b81bc583f81720]
 
-. *(Extent: S)* *(affected by repeal, see note)*[^key-351222b660065ba370b81bc583f81720]
+. *(Extent: S)* *(affected by repeal, see note)*[^c-351222b660065ba370b81bc583f81720]
 
 **51.** In section 10—
 
@@ -488,7 +488,7 @@ Section 108.
 
 [^c1078414]: Textual amendment: [Sch. 3 paras. 21–40](https://www.legislation.gov.uk/ukpga/1975/72/schedule/3/paragraph/21), [44](https://www.legislation.gov.uk/ukpga/1975/72/schedule/3/paragraph/44), [45](https://www.legislation.gov.uk/ukpga/1975/72/schedule/3/paragraph/45), and 61–65 repealed (S.) by [Adoption (Scotland) Act 1978 (c. 28, SIF 49:11)](https://www.legislation.gov.uk/ukpga/1978/28), [Sch. 2](https://www.legislation.gov.uk/ukpga/1978/28/schedule/2), [para. 3](https://www.legislation.gov.uk/ukpga/1978/28/paragraph/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1978/28/schedule/4) and (E.W.) by [Adoption Act 1976 (c. 36, SIF 49:11)](https://www.legislation.gov.uk/ukpga/1976/36), [Sch. 4](https://www.legislation.gov.uk/ukpga/1976/36/schedule/4)
 
-[^key-351222b660065ba370b81bc583f81720]: Textual amendment: [Sch. 3 para. 50](https://www.legislation.gov.uk/ukpga/1975/72/schedule/3/paragraph/50) repealed (S.) (23.2.2006) by [Joint Inspection of Childrens Services and Inspection of Social Work Services (Scotland) Act 2006 (asp 3)](https://www.legislation.gov.uk/asp/2006/3), [ss. 8(4)(b)](https://www.legislation.gov.uk/asp/2006/3/section/8/4/b), [10(2)](https://www.legislation.gov.uk/asp/2006/3/section/10/2)
+[^c-351222b660065ba370b81bc583f81720]: Textual amendment: [Sch. 3 para. 50](https://www.legislation.gov.uk/ukpga/1975/72/schedule/3/paragraph/50) repealed (S.) (23.2.2006) by [Joint Inspection of Childrens Services and Inspection of Social Work Services (Scotland) Act 2006 (asp 3)](https://www.legislation.gov.uk/asp/2006/3), [ss. 8(4)(b)](https://www.legislation.gov.uk/asp/2006/3/section/8/4/b), [10(2)](https://www.legislation.gov.uk/asp/2006/3/section/10/2)
 
 [^c1078415]: Textual amendment: [Sch. 3 para. 52](https://www.legislation.gov.uk/ukpga/1975/72/schedule/3/paragraph/52) repealed (1.4.1997) by [1995 c. 36](https://www.legislation.gov.uk/ukpga/1995/36), [s. 105(4)(5)](https://www.legislation.gov.uk/ukpga/1995/36/section/105/4/5), [Sch. 4 para. 26(10)](https://www.legislation.gov.uk/ukpga/1995/36/schedule/4/paragraph/26/10), [Sch. 5](https://www.legislation.gov.uk/ukpga/1995/36/schedule/5) (with [s. 103(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/103/1)); [S.I. 1996/3201](https://www.legislation.gov.uk/uksi/1996/3201), [art. 3(7)](https://www.legislation.gov.uk/uksi/1996/3201/article/3/7)
 

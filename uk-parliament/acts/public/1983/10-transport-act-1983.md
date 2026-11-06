@@ -46,9 +46,9 @@ In this Part of this Act—
 - “**the Act of 1968**” means the [^c795413]Transport Act 1968;
 - . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c795414]
 - “**Executive**” means—
-- (a) the Passenger Transport Executive for any[^c795415] integrated transport area[^key-e8cbb6754f17649ef9c3910f7a2b2495] (within the meaning of Part II of the Act of 1968); . . . [^c795416]
+- (a) the Passenger Transport Executive for any[^c795415] integrated transport area[^c-e8cbb6754f17649ef9c3910f7a2b2495] (within the meaning of Part II of the Act of 1968); . . . [^c795416]
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c795416]
-  - “[^c795418] **Authority** ” means, in relation to any such Passenger Transport Executive, the Integrated Transport Authority[^key-dd4894c03ca9d6615ef52b0a6463c3af].
+  - “[^c795418] **Authority** ” means, in relation to any such Passenger Transport Executive, the Integrated Transport Authority[^c-dd4894c03ca9d6615ef52b0a6463c3af].
   - “**revenue grants**” means grants under section 13 of the Act of 1968 . . . [^c795419] in aid of the revenues of an Executive (including grants made under that section[^c795420] in respect of reductions in fares for children) and accordingly references to the revenues of an Executive include references to sums received by way of revenue grants;
   - “**year**” means a period of twelve months beginning with 1st April.
 
@@ -122,7 +122,7 @@ In this Part of this Act—
 
 (4)(5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c795495]
 
-#### 10. Commencement of Part I and transitional provisions.[^key-76df63501e3385e6b9526947681075cf]
+#### 10. Commencement of Part I and transitional provisions.[^c-76df63501e3385e6b9526947681075cf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -158,13 +158,13 @@ In this Part of this Act—
 
 [^c795415]: Textual amendment: Words substituted by [Transport Act 1985 (c. 67, SIF 126)](https://www.legislation.gov.uk/ukpga/1985/67), [s. 57(6)](https://www.legislation.gov.uk/ukpga/1985/67/section/57/6), [Sch. 3 para. 30](https://www.legislation.gov.uk/ukpga/1985/67/schedule/3/paragraph/30)
 
-[^key-e8cbb6754f17649ef9c3910f7a2b2495]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/1983/10/section/1) substituted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 50(2)(a)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/50/2/a); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-e8cbb6754f17649ef9c3910f7a2b2495]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/1983/10/section/1) substituted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 50(2)(a)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/50/2/a); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c795416]: Textual amendment: Paragraph (*b*) and the word “and” immediately preceding it repealed by [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 71(3)](https://www.legislation.gov.uk/ukpga/1984/32/section/71/3)(*a*), Sch. 6 para. 28(*a*)(ii)
 
 [^c795418]: Textual amendment: Definition substituted by [Local Government Act 1985 (c. 51, SIF 81:1)](https://www.legislation.gov.uk/ukpga/1985/51), [s. 39](https://www.legislation.gov.uk/ukpga/1985/51/section/39), [Sch. 12 para. 5(2)(5)](https://www.legislation.gov.uk/ukpga/1985/51/schedule/12/paragraph/5/2/5)
 
-[^key-dd4894c03ca9d6615ef52b0a6463c3af]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/1983/10/section/1) substituted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 50(2)(b)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/50/2/b); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-dd4894c03ca9d6615ef52b0a6463c3af]: Textual amendment: Words in [s. 1](https://www.legislation.gov.uk/ukpga/1983/10/section/1) substituted (9.2.2009) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [s. 134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4), [Sch. 4 para. 50(2)(b)](https://www.legislation.gov.uk/ukpga/2008/26/schedule/4/paragraph/50/2/b); [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
 
 [^c795419]: Textual amendment: Words repealed by [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 71(3)](https://www.legislation.gov.uk/ukpga/1984/32/section/71/3)(*a*), Sch. 6 para. 28(*a*)(iii)(*b*)
 
@@ -204,7 +204,7 @@ In this Part of this Act—
 
 [^c795495]: Textual amendment: [S. 9(4)(5)](https://www.legislation.gov.uk/ukpga/1983/10/section/9/4/5) repealed by [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 71(3)](https://www.legislation.gov.uk/ukpga/1984/32/section/71/3)(*b*), Sch. 7
 
-[^key-76df63501e3385e6b9526947681075cf]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1983/10/section/10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-76df63501e3385e6b9526947681075cf]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/1983/10/section/10) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c795510]: Marginal citation: [1981 c. 21](https://www.legislation.gov.uk/ukpga/1981/21).
 

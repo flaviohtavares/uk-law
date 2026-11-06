@@ -22,7 +22,7 @@ summary: ''
 
 Regulation E3(12)
 
-**1.**[^key-92e8b725b7abab6a0bebd8a16fdfc928] (1) This Schedule applies for the calculation of the additional period which a person is to be treated as being entitled to reckon as reckonable service where regulation E3(12) applies.
+**1.**[^c-92e8b725b7abab6a0bebd8a16fdfc928] (1) This Schedule applies for the calculation of the additional period which a person is to be treated as being entitled to reckon as reckonable service where regulation E3(12) applies.
 
 (2) For the purposes of this Schedule—
 
@@ -33,7 +33,7 @@ Regulation E3(12)
   - (i) any relevant service which became reckonable service by virtue of regulation D1 of the 1974 regulations, and
   - (ii) any subsequent reckonable service except additional periods purchased by lump sum or additional contributions.
 
-**2.**[^key-45b47e6d6557b913294b8dd6485f0904] (1) Subject to sub-paragraph (2) and paragraphs 3 and 4, the additional period is the period specified in column (2) of the Table below appropriate to the length of the person's relevant reckonable service.
+**2.**[^c-45b47e6d6557b913294b8dd6485f0904] (1) Subject to sub-paragraph (2) and paragraphs 3 and 4, the additional period is the period specified in column (2) of the Table below appropriate to the length of the person's relevant reckonable service.
 
 TABLE
 
@@ -56,7 +56,7 @@ TABLE
 
 whichever would have occurred first.
 
-**3.**[^key-43d5f3daabec5181d3943ab4bae5e27d] (1) Subject to paragraph 4, this paragraph applies where before entering the employment which he has ceased to hold the person had, on ceasing to hold a previous employment, become entitled to benefits under regulation E2(1)(b)(i) or under regulation 5(1)(a) of the Benefits regulations.
+**3.**[^c-43d5f3daabec5181d3943ab4bae5e27d] (1) Subject to paragraph 4, this paragraph applies where before entering the employment which he has ceased to hold the person had, on ceasing to hold a previous employment, become entitled to benefits under regulation E2(1)(b)(i) or under regulation 5(1)(a) of the Benefits regulations.
 
 (2) Where this paragraph applies, the person's relevant reckonable service is to be treated for the purposes of paragraph 2 as having included (A - B), where—
 
@@ -68,7 +68,7 @@ whichever would have occurred first.
 - (a) where the person's retirement pension in respect of the previous employment was calculated under regulation 5(3)(a) of the Benefits regulations, his relevant service shall be deemed to have been increased by the period by which its length fell short of 20 years, and
 - (b) where that pension was calculated under regulation 5(3)(b) of the Benefits regulations, his relevant service shall be deemed to have been increased by the period by which it would have been increased if he had continued in the previous employment until he reached the age of 65 years.
 
-**4.**[^key-821f13be58cd410bf373e5f08a60dc31] (1) This paragraph applies where—
+**4.**[^c-821f13be58cd410bf373e5f08a60dc31] (1) This paragraph applies where—
 
 - (a) the person either—
   - (i) was a contributory employee immediately before 1st April 1974 and became a pensionable employee on that day, or
@@ -93,10 +93,10 @@ within 6 months after the date of the person's death, or such longer period as t
 
 ## Annotations
 
-[^key-92e8b725b7abab6a0bebd8a16fdfc928]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/9/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-92e8b725b7abab6a0bebd8a16fdfc928]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/9/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-45b47e6d6557b913294b8dd6485f0904]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/9/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-45b47e6d6557b913294b8dd6485f0904]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/9/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-43d5f3daabec5181d3943ab4bae5e27d]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/9/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-43d5f3daabec5181d3943ab4bae5e27d]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/9/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-821f13be58cd410bf373e5f08a60dc31]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/9/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-821f13be58cd410bf373e5f08a60dc31]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/9/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

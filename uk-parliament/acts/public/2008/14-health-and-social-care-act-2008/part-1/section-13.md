@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Condition requiring registered manager[^c1942171][^key-5fd73670a50cb01bc1176deb364a007c][^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81][^key-1e28ec148890d74561a7d1afd4597ac8][^key-34d30c48fe83376a82b39dfc49e02f81]
+## 13. Condition requiring registered manager[^c1942171][^c-5fd73670a50cb01bc1176deb364a007c][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81][^c-1e28ec148890d74561a7d1afd4597ac8][^c-34d30c48fe83376a82b39dfc49e02f81]
 
 *Extent: E+W*
 
@@ -30,8 +30,8 @@ summary: ''
 
 [^c1942171]: Commencement: S. 13 partly in force; S. 13 in force for specified purposes at Royal Assent, see [s. 170](https://www.legislation.gov.uk/ukpga/2008/14/section/170)
 
-[^key-5fd73670a50cb01bc1176deb364a007c]: Commencement: S. 13 in force at 6.4.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/4) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
+[^c-5fd73670a50cb01bc1176deb364a007c]: Commencement: S. 13 in force at 6.4.2010 in so far as not already in force by [S.I. 2010/807](https://www.legislation.gov.uk/uksi/2010/807), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/807/article/2/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2010/807/schedule/1/paragraph/4) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2010/807/part/3))
 
-[^key-1e28ec148890d74561a7d1afd4597ac8]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [17(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/17/4/c) [(5)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/17/5/b)
+[^c-1e28ec148890d74561a7d1afd4597ac8]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [17(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/17/4/c) [(5)(b)](https://www.legislation.gov.uk/uksi/2010/807/article/17/5/b)
 
-[^key-34d30c48fe83376a82b39dfc49e02f81]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [14(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/14/4/c)
+[^c-34d30c48fe83376a82b39dfc49e02f81]: Modification: Pt. 1 excluded (6.4.2010) by [The Health and Social Care Act 2008 (Commencement No.16, Transitory and Transitional Provisions) Order 2010 (S.I. 2010/807)](https://www.legislation.gov.uk/uksi/2010/807), [arts. 1(1)(a)](https://www.legislation.gov.uk/uksi/2010/807/article/1/1/a), [14(4)(c)](https://www.legislation.gov.uk/uksi/2010/807/article/14/4/c)

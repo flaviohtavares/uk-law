@@ -24,13 +24,13 @@ Section 29
 
 ### Definition of “service policeman” in Armed Forces Act 1991
 
-**1.**[^key-e7b5929d3429f7033ee3c2976c1601f0] In section 22A of the Armed Forces Act 1991 (removal and accommodation of children by service police in emergency), in subsection (8) for the definition of “service policeman” substitute—
+**1.**[^c-e7b5929d3429f7033ee3c2976c1601f0] In section 22A of the Armed Forces Act 1991 (removal and accommodation of children by service police in emergency), in subsection (8) for the definition of “service policeman” substitute—
 
 > “**service policeman**” has the meaning given by section 375(1) of the Armed Forces Act 2006.
 
 ### Powers of arrest of an officer acting on behalf of provost officer
 
-**2.**[^key-8f0a78dfebed58a9390d3cac6c67317b] In section 67(2) of AFA 2006 (persons who may arrest an officer), for paragraph (c) substitute—
+**2.**[^c-8f0a78dfebed58a9390d3cac6c67317b] In section 67(2) of AFA 2006 (persons who may arrest an officer), for paragraph (c) substitute—
 
 > - (c) by a person who is lawfully exercising authority on behalf of a provost officer, and who—
 >   - (i) is an officer; or
@@ -38,11 +38,11 @@ Section 29
 
 ### Entry for purposes of arrest by service policeman
 
-**3.**[^key-e7f29c7b4f7c994374f82a9d8968783d] In section 90(6) of AFA 2006 (powers of arrest to which section applies), for “or 111,” substitute “ , 111 or 303, ”.
+**3.**[^c-e7f29c7b4f7c994374f82a9d8968783d] In section 90(6) of AFA 2006 (powers of arrest to which section applies), for “or 111,” substitute “ , 111 or 303, ”.
 
 ### Definition of “service living accommodation”
 
-**4.**[^key-b844ff5e86e9b61f29c61fd50fdf10d5] (1) Section 96 of AFA 2006 (definition of “service living accommodation” etc for purposes of Part 3) is amended as follows.
+**4.**[^c-b844ff5e86e9b61f29c61fd50fdf10d5] (1) Section 96 of AFA 2006 (definition of “service living accommodation” etc for purposes of Part 3) is amended as follows.
 
 (2) In subsection (1), in each of paragraphs (a), (b) and (c) for “subject to service law” substitute “ within subsection (1A) ”.
 
@@ -55,7 +55,7 @@ Section 29
 
 ### Consultation of DSP before decision by service police on referral of case
 
-**5.**[^key-1b4954ceec78428cc8ba6cc8572b6fb2] (1) In section 116 of AFA 2006 (referral of case following investigation by service or civilian police), for subsection (4) substitute—
+**5.**[^c-1b4954ceec78428cc8ba6cc8572b6fb2] (1) In section 116 of AFA 2006 (referral of case following investigation by service or civilian police), for subsection (4) substitute—
 
 > (4) Subsection (4A) applies if—
 >
@@ -66,11 +66,11 @@ Section 29
 >
 > (4A) If this subsection applies, the service policeman must consult the Director as soon as is reasonably practicable (and before any referral of the case under subsection (3)).
 
-(2)[^key-c3f1be9227241bab6b0758ed9e464b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c3f1be9227241bab6b0758ed9e464b39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Powers of DSP in respect of charge allocated for Court Martial trial
 
-**6.**[^key-ec9406aa237fc6a12e729149469bf4a4] (1) Section 125 of AFA 2006 (powers of Director of Service Prosecutions in respect of charge allocated for Court Martial trial) is amended as follows.
+**6.**[^c-ec9406aa237fc6a12e729149469bf4a4] (1) Section 125 of AFA 2006 (powers of Director of Service Prosecutions in respect of charge allocated for Court Martial trial) is amended as follows.
 
 (2) In subsection (3)—
 
@@ -81,7 +81,7 @@ Section 29
 
 ### Right to elect Court Martial trial
 
-**7.**[^key-a34c4060575422f1cba3069a87c2e563] In section 129 of AFA 2006 (right to elect Court Martial trial), for subsection (4) substitute—
+**7.**[^c-a34c4060575422f1cba3069a87c2e563] In section 129 of AFA 2006 (right to elect Court Martial trial), for subsection (4) substitute—
 
 > (4) Subsection (5) applies if an opportunity to elect Court Martial trial of a charge (“**the original charge**”) has been given under subsection (1) and subsequently—
 >
@@ -105,7 +105,7 @@ Section 29
 >
 > (8) The provisions of this section requiring the giving of an opportunity to elect Court Martial trial of the charge shall apply again.
 
-**8.**[^key-ebcec53c608868bcbc2c0bc2619956e6] In section 130(3) of AFA 2006 (consequences of election for Court Martial trial), for “if the charge is amended after referral.” substitute
+**8.**[^c-ebcec53c608868bcbc2c0bc2619956e6] In section 130(3) of AFA 2006 (consequences of election for Court Martial trial), for “if the charge is amended after referral.” substitute
 
 > —
 >
@@ -113,7 +113,7 @@ Section 29
 > - (b) to any charge substituted for or added to the charge after referral; or
 > - (c) where extended powers for the purposes of any provision of section 133, 134, 135 or 194 are obtained after referral.
 
-**9.**[^key-0c9d21b02ad5162dba339120f3a4a745] After section 130 of AFA 2006 insert—
+**9.**[^c-0c9d21b02ad5162dba339120f3a4a745] After section 130 of AFA 2006 insert—
 
 > **130A. Restrictions on DSP's powers to substitute or add charges after election**
 >
@@ -138,9 +138,9 @@ Section 29
 
 ### Summary hearing
 
-**10.**[^key-b5827844ade3b2c3c1d08dda524a1782] In each of sections 133(3), 134(2) and 135(5) of AFA 2006 (obtaining extended powers of punishment), for “before the summary hearing of the charge or charges” substitute “ within the relevant time (defined by section 135A) ”.
+**10.**[^c-b5827844ade3b2c3c1d08dda524a1782] In each of sections 133(3), 134(2) and 135(5) of AFA 2006 (obtaining extended powers of punishment), for “before the summary hearing of the charge or charges” substitute “ within the relevant time (defined by section 135A) ”.
 
-**11.**[^key-fdd2d6b37c7bf447c6f43eed17929741] After section 135 of AFA 2006 insert—
+**11.**[^c-fdd2d6b37c7bf447c6f43eed17929741] After section 135 of AFA 2006 insert—
 
 > **135A. Extended powers: time for obtaining**
 >
@@ -159,23 +159,23 @@ Section 29
 >
 > is to be treated for the purposes of sections 133(3), 134(2) and 135(5) as made within the relevant time.
 
-**12.**[^key-75a44b816f70d4ea1611c98040f53270] In section 136 of AFA 2006 (maximum amount of fine), for subsections (1) to (3) substitute—
+**12.**[^c-75a44b816f70d4ea1611c98040f53270] In section 136 of AFA 2006 (maximum amount of fine), for subsections (1) to (3) substitute—
 
 > (1) The maximum amount of a fine that a commanding officer may award is 28 days' pay.
 
-**13.**[^key-5ee51239cc96ac9993d5b786c02c328d] In section 153(2) of AFA 2006 (powers to make rules relating to summary hearings etc), in each of paragraphs (d) and (e) after “applications for” insert “ , and grants of, ”.
+**13.**[^c-5ee51239cc96ac9993d5b786c02c328d] In section 153(2) of AFA 2006 (powers to make rules relating to summary hearings etc), in each of paragraphs (d) and (e) after “applications for” insert “ , and grants of, ”.
 
 ### Activation of suspended sentence of service detention
 
-**14.**[^key-0f3dc762e3a300b8c2428d44f3b5c726] In each of sections 190(1)(a), 191(2)(b) and 193(2)(b) of AFA 2006 (circumstances where suspended sentence may be activated), for “an offence in the British Islands” substitute “ an offence under the law of any part of the British Islands ”.
+**14.**[^c-0f3dc762e3a300b8c2428d44f3b5c726] In each of sections 190(1)(a), 191(2)(b) and 193(2)(b) of AFA 2006 (circumstances where suspended sentence may be activated), for “an offence in the British Islands” substitute “ an offence under the law of any part of the British Islands ”.
 
-**15.**[^key-b9af9ab6c8625dd92e41e057ab955d9e] (1) Section 194 of AFA 2006 (limits on commanding officer's powers to activate suspended sentence) is amended as follows.
+**15.**[^c-b9af9ab6c8625dd92e41e057ab955d9e] (1) Section 194 of AFA 2006 (limits on commanding officer's powers to activate suspended sentence) is amended as follows.
 
 (2) In subsection (4) for “before the relevant time” substitute “ within the relevant time (defined by section 194A) ”.
 
 (3) Omit subsection (6).
 
-**16.**[^key-ab361dd21e487a1989f03340f93a06ed] After section 194 of AFA 2006 insert—
+**16.**[^c-ab361dd21e487a1989f03340f93a06ed] After section 194 of AFA 2006 insert—
 
 > **194A. Extended powers of activation: time for obtaining**
 >
@@ -199,20 +199,20 @@ Section 29
 
 ### Suspended sentences of imprisonment
 
-**17.**[^key-7dbf442173ebc8d75ad7b7ccf5c99ce9] In section 200(5) of AFA 2006 (suspended sentences of imprisonment), in paragraph (b) of the words treated as substituted, for “ in the British Islands ” substitute “under the law of any part of the British Islands”.
+**17.**[^c-7dbf442173ebc8d75ad7b7ccf5c99ce9] In section 200(5) of AFA 2006 (suspended sentences of imprisonment), in paragraph (b) of the words treated as substituted, for “ in the British Islands ” substitute “under the law of any part of the British Islands”.
 
 ### Detention and training orders
 
-**18.**[^key-43e9c226fd7ad1e9181c211513d141db] In section 213 of AFA 2006 (application to service detention and training orders of provisions relating to civilian orders)—
+**18.**[^c-43e9c226fd7ad1e9181c211513d141db] In section 213 of AFA 2006 (application to service detention and training orders of provisions relating to civilian orders)—
 
 - (a) in the second paragraph of subsection (1), after “105,” insert “ 106(4) to (6), ”;
 - (b) in subsection (2), after “(13)” insert “ , 106(6) ”.
 
-**19.**[^key-1386d3232d833a0722d01c2f87d85281] In section 214(2)(b) of AFA 2006 (offences during currency of detention and training order), for “an offence in the British Islands” substitute “ an offence under the law of any part of the British Islands ”.
+**19.**[^c-1386d3232d833a0722d01c2f87d85281] In section 214(2)(b) of AFA 2006 (offences during currency of detention and training order), for “an offence in the British Islands” substitute “ an offence under the law of any part of the British Islands ”.
 
 ### Restrictions on community punishments
 
-**20.**[^key-8d91f129e2ac1e8c60685d8843b5022c] (1) In section 270 of AFA 2006 (general restrictions on community punishments), for subsections (7) and (8) substitute—
+**20.**[^c-8d91f129e2ac1e8c60685d8843b5022c] (1) In section 270 of AFA 2006 (general restrictions on community punishments), for subsections (7) and (8) substitute—
 
 > (7) Subsections (1) and (2)(b) are subject to section 270A.
 
@@ -269,7 +269,7 @@ Section 29
 
 ### Definition of “period when unlawfully at large”
 
-**21.**[^key-32b1b0dae56b763e50682d9e28d6f566] In section 301(5) of AFA 2006 (duration of sentences: persons unlawfully at large), for the definition of “period when the person is unlawfully at large” substitute—
+**21.**[^c-32b1b0dae56b763e50682d9e28d6f566] In section 301(5) of AFA 2006 (duration of sentences: persons unlawfully at large), for the definition of “period when the person is unlawfully at large” substitute—
 
 > period when the person is unlawfully at large” means (subject to any rules made by virtue of section 300(2)(g))—
 >
@@ -280,17 +280,17 @@ Section 29
 
 ### Persons treated as members of service police force
 
-**22.**[^key-e2294088c363ecf9c7ad419f10e74cf9] Omit section 375(5) of AFA 2006 (Provost Marshal and other officers to be taken to be members of appropriate service police force).
+**22.**[^c-e2294088c363ecf9c7ad419f10e74cf9] Omit section 375(5) of AFA 2006 (Provost Marshal and other officers to be taken to be members of appropriate service police force).
 
 ### Power to make transitional provision under AFA 2006
 
-**23.**[^key-7fad29261ebb4719ae846312316bf848] In section 380 of AFA 2006 (power to make transitional provision in connection with the coming into force of that Act), after subsection (8) insert—
+**23.**[^c-7fad29261ebb4719ae846312316bf848] In section 380 of AFA 2006 (power to make transitional provision in connection with the coming into force of that Act), after subsection (8) insert—
 
 > (8A) The power under subsection (1) to make transitional provision in connection with the coming into force of any provision made by or under this Act includes power, where this Act or any provision made under it is amended, to amend any earlier order under this section.
 
 ### Activation of suspended sentence of imprisonment
 
-**24.**[^key-cb12be4a7d735bae7abf42975e9570c4] (1) Schedule 7 to AFA 2006 (suspended prison sentence: further conviction etc) is amended as follows.
+**24.**[^c-cb12be4a7d735bae7abf42975e9570c4] (1) Schedule 7 to AFA 2006 (suspended prison sentence: further conviction etc) is amended as follows.
 
 (2) Paragraph 6 becomes sub-paragraph (1) of that paragraph.
 
@@ -302,52 +302,52 @@ Section 29
 
 ## Annotations
 
-[^key-e7b5929d3429f7033ee3c2976c1601f0]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/1) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-e7b5929d3429f7033ee3c2976c1601f0]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/1) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-8f0a78dfebed58a9390d3cac6c67317b]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/2) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-8f0a78dfebed58a9390d3cac6c67317b]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/2) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-e7f29c7b4f7c994374f82a9d8968783d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/3) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-e7f29c7b4f7c994374f82a9d8968783d]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/3) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-b844ff5e86e9b61f29c61fd50fdf10d5]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/4) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-b844ff5e86e9b61f29c61fd50fdf10d5]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/4) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-1b4954ceec78428cc8ba6cc8572b6fb2]: Commencement: Sch. 3 para. 5 in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-1b4954ceec78428cc8ba6cc8572b6fb2]: Commencement: Sch. 3 para. 5 in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-c3f1be9227241bab6b0758ed9e464b39]: Textual amendment: Sch. 3 para. 5(2) omitted (22.5.2019 for specified purposes, 1.7.2019 in so far as not already in force) by virtue of [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 3(9)](https://www.legislation.gov.uk/ukpga/2016/21/section/3/9), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
+[^c-c3f1be9227241bab6b0758ed9e464b39]: Textual amendment: Sch. 3 para. 5(2) omitted (22.5.2019 for specified purposes, 1.7.2019 in so far as not already in force) by virtue of [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [ss. 3(9)](https://www.legislation.gov.uk/ukpga/2016/21/section/3/9), [19(1)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/1); [S.I. 2019/961](https://www.legislation.gov.uk/uksi/2019/961), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/a)[(b)](https://www.legislation.gov.uk/uksi/2019/961/regulation/2/1/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2019/961/regulation/3))
 
-[^key-ec9406aa237fc6a12e729149469bf4a4]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/6) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-ec9406aa237fc6a12e729149469bf4a4]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/6) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-a34c4060575422f1cba3069a87c2e563]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/7) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-a34c4060575422f1cba3069a87c2e563]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/7) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-ebcec53c608868bcbc2c0bc2619956e6]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/8) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-ebcec53c608868bcbc2c0bc2619956e6]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/8) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-0c9d21b02ad5162dba339120f3a4a745]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/9) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2012/669/article/9))
+[^c-0c9d21b02ad5162dba339120f3a4a745]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/9) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d) (with [art. 9](https://www.legislation.gov.uk/uksi/2012/669/article/9))
 
-[^key-b5827844ade3b2c3c1d08dda524a1782]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/10) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-b5827844ade3b2c3c1d08dda524a1782]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/10) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-fdd2d6b37c7bf447c6f43eed17929741]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/11) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-fdd2d6b37c7bf447c6f43eed17929741]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/11) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-75a44b816f70d4ea1611c98040f53270]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/12) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/669/article/7))
+[^c-75a44b816f70d4ea1611c98040f53270]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/12) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d) (with [art. 7](https://www.legislation.gov.uk/uksi/2012/669/article/7))
 
-[^key-5ee51239cc96ac9993d5b786c02c328d]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/13) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-5ee51239cc96ac9993d5b786c02c328d]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/13) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-0f3dc762e3a300b8c2428d44f3b5c726]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/14) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-0f3dc762e3a300b8c2428d44f3b5c726]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/14) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-b9af9ab6c8625dd92e41e057ab955d9e]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/15) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-b9af9ab6c8625dd92e41e057ab955d9e]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/15) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-ab361dd21e487a1989f03340f93a06ed]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/16) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-ab361dd21e487a1989f03340f93a06ed]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/16) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-7dbf442173ebc8d75ad7b7ccf5c99ce9]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/17) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-7dbf442173ebc8d75ad7b7ccf5c99ce9]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/17) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-43e9c226fd7ad1e9181c211513d141db]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/18) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-43e9c226fd7ad1e9181c211513d141db]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/18) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-1386d3232d833a0722d01c2f87d85281]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/19) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-1386d3232d833a0722d01c2f87d85281]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/19) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-8d91f129e2ac1e8c60685d8843b5022c]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/20) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d) (with [art. 13](https://www.legislation.gov.uk/uksi/2012/669/article/13))
+[^c-8d91f129e2ac1e8c60685d8843b5022c]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/20) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d) (with [art. 13](https://www.legislation.gov.uk/uksi/2012/669/article/13))
 
-[^key-32b1b0dae56b763e50682d9e28d6f566]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/21) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-32b1b0dae56b763e50682d9e28d6f566]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/21) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-e2294088c363ecf9c7ad419f10e74cf9]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/22) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-e2294088c363ecf9c7ad419f10e74cf9]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/22) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
 
-[^key-7fad29261ebb4719ae846312316bf848]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/23) in force at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/669/article/3/e)
+[^c-7fad29261ebb4719ae846312316bf848]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/23) in force at 8.3.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 3(e)](https://www.legislation.gov.uk/uksi/2012/669/article/3/e)
 
-[^key-cb12be4a7d735bae7abf42975e9570c4]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/24) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)
+[^c-cb12be4a7d735bae7abf42975e9570c4]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2011/18/schedule/3/paragraph/24) in force at 2.4.2012 by [S.I. 2012/669](https://www.legislation.gov.uk/uksi/2012/669), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/669/article/4/d)

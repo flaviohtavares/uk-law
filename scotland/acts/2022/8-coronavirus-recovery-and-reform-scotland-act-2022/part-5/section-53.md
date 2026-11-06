@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Power to bring expiry forward[^key-b323424cfacfe257b13aaf852ef29c16]
+## 53. Power to bring expiry forward[^c-b323424cfacfe257b13aaf852ef29c16]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The Scottish Ministers may by regulations provide that any provision in the sche
 
 ## Annotations
 
-[^key-b323424cfacfe257b13aaf852ef29c16]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2022/8/section/53) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-b323424cfacfe257b13aaf852ef29c16]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2022/8/section/53) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

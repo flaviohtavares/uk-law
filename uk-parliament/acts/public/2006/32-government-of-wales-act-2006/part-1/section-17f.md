@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17F. Exception from disqualification by virtue of being a councillor: general election of Members of the Senedd within 372 days[^key-9737a0518a52ac8b3dd944a1c0d63835]
+## 17F. Exception from disqualification by virtue of being a councillor: general election of Members of the Senedd within 372 days[^c-9737a0518a52ac8b3dd944a1c0d63835]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9737a0518a52ac8b3dd944a1c0d63835]: Textual amendment: [S. 17F](https://www.legislation.gov.uk/ukpga/2006/32/section/17F) omitted (with effect in accordance with [s. 61(7)](https://www.legislation.gov.uk/asc/2024/5/section/61/7) of the amending Act) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 61(6)](https://www.legislation.gov.uk/asc/2024/5/section/61/6), [72(1)(b)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/b)
+[^c-9737a0518a52ac8b3dd944a1c0d63835]: Textual amendment: [S. 17F](https://www.legislation.gov.uk/ukpga/2006/32/section/17F) omitted (with effect in accordance with [s. 61(7)](https://www.legislation.gov.uk/asc/2024/5/section/61/7) of the amending Act) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 61(6)](https://www.legislation.gov.uk/asc/2024/5/section/61/6), [72(1)(b)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/b)

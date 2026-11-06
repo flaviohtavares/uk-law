@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 166. Appeals[^key-2a0ad2481da534af195035242377ea2c][^M_I_3b206dd2-ac99-4584-c3a9-9c13f855d878]
+## 166. Appeals[^c-2a0ad2481da534af195035242377ea2c][^M_I_3b206dd2-ac99-4584-c3a9-9c13f855d878]
 
 *Extent: E+W*
 
-(1) The proprietor of a registered school may appeal to the First-tier Tribunal[^key-fe867055b571554b7153a39a6f8d80c5] against—
+(1) The proprietor of a registered school may appeal to the First-tier Tribunal[^c-fe867055b571554b7153a39a6f8d80c5] against—
 
 - (a) a refusal under section 162 to approve a material change,
 - (b) a determination under section 165 to remove the school from the register,
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2a0ad2481da534af195035242377ea2c]: Commencement: S. 166 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
+[^c-2a0ad2481da534af195035242377ea2c]: Commencement: S. 166 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
 
 [^M_I_3b206dd2-ac99-4584-c3a9-9c13f855d878]: Commencement: S. 166 in force at 1.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)
 
-[^key-fe867055b571554b7153a39a6f8d80c5]: Textual amendment: Words in s. 166(1) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 194](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/194)
+[^c-fe867055b571554b7153a39a6f8d80c5]: Textual amendment: Words in s. 166(1) substituted (3.11.2008) by [The Transfer of Tribunal Functions Order 2008 (S.I. 2008/2833)](https://www.legislation.gov.uk/uksi/2008/2833), [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1), [Sch. 3 para. 194](https://www.legislation.gov.uk/uksi/2008/2833/schedule/3/paragraph/194)

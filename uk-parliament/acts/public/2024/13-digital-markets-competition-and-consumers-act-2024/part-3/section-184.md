@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Online interface notices[^key-78487375e1403884d757d11d2c01a7d3][^key-8e205674a59471f599eca47e735fb56b]
+## 184. Online interface notices[^c-78487375e1403884d757d11d2c01a7d3][^c-8e205674a59471f599eca47e735fb56b]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78487375e1403884d757d11d2c01a7d3]: Commencement: S. 184 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-78487375e1403884d757d11d2c01a7d3]: Commencement: S. 184 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-8e205674a59471f599eca47e735fb56b]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2024/13/section/184) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-8e205674a59471f599eca47e735fb56b]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2024/13/section/184) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

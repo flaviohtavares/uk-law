@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Sections 169 to 171: supplementary[^c22720081][^key-81d457b39b6c8b62c4138eaab83e5963]
+## 172. Sections 169 to 171: supplementary[^c22720081][^c-81d457b39b6c8b62c4138eaab83e5963]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^c22720081]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2017/3/section/172) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-81d457b39b6c8b62c4138eaab83e5963]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2017/3/section/172) in force at 28.6.2018 by [S.R. 2018/128](https://www.legislation.gov.uk/nisr/2018/128), [art. 2(d)](https://www.legislation.gov.uk/nisr/2018/128/article/2/d)
+[^c-81d457b39b6c8b62c4138eaab83e5963]: Commencement: [S. 172](https://www.legislation.gov.uk/ukpga/2017/3/section/172) in force at 28.6.2018 by [S.R. 2018/128](https://www.legislation.gov.uk/nisr/2018/128), [art. 2(d)](https://www.legislation.gov.uk/nisr/2018/128/article/2/d)

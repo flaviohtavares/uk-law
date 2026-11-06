@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Training and appraisal of justices of the peace[^key-b0926eb35fbfb80a8146db7caecc9391]
+## 42. Training and appraisal of justices of the peace[^c-b0926eb35fbfb80a8146db7caecc9391]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0926eb35fbfb80a8146db7caecc9391]: Commencement: S. 42 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2010/39/article/5))
+[^c-b0926eb35fbfb80a8146db7caecc9391]: Commencement: S. 42 in force at 1.4.2010 by [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2(b)](https://www.legislation.gov.uk/ssi/2010/39/article/2/b), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2010/39/article/5))

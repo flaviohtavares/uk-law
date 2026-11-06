@@ -44,7 +44,7 @@ The Department of Economic Development, in exercise of the powers conferred by A
 
 ## Part I — General
 
-### 1. Citation, commencement, interpretation and revocation[^key-f25d9783216175c539264d7c2d4f94bf]
+### 1. Citation, commencement, interpretation and revocation[^c-f25d9783216175c539264d7c2d4f94bf]
 
 (1) These Regulations may be cited as the Measuring Equipment (Liquid Fuel and Lubricants) Regulations (Northern Ireland) 1998 and shall come into operation on 20th April 1998.
 
@@ -72,7 +72,7 @@ The Department of Economic Development, in exercise of the powers conferred by A
 
 (4) The Measuring Equipment (Liquid Fuel and Lubricants) Regulations (Northern Ireland) 1989[^f00004] are hereby revoked.
 
-### 2. Application of Regulations and prescription of equipment[^key-b47ce3b85b98230f7cb54d7c1076db9d]
+### 2. Application of Regulations and prescription of equipment[^c-b47ce3b85b98230f7cb54d7c1076db9d]
 
 (1) Subject to paragraph (2), these Regulations shall apply to all measuring equipment for use for trade in the making of any measurement of liquid fuel in a quantity not exceeding 100 L, other than equipment for use for trade in the making of any measurement of liquefied petroleum gas; and measuring equipment to which these Regulations apply is hereby prescribed for the purposes of Article 9(1) of the Order.
 
@@ -80,11 +80,11 @@ The Department of Economic Development, in exercise of the powers conferred by A
 
 ## Part II — Principles of Construction and Manner of Use of Measuring Equipment for Liquid Fuel
 
-### 3. Construction of certain equipment[^key-70d830856ece3a7dc6b4c118c8d19cee]
+### 3. Construction of certain equipment[^c-70d830856ece3a7dc6b4c118c8d19cee]
 
 All measuring equipment fitted with a price to pay indicating device in digital form shall be so constructed that it cannot indicate during a measuring operation a part of a penny in the amount of the price to be paid by the buyer.
 
-### 4. Approved patterns of construction and identification marks[^key-cb047a800e14ec068196abd87a9fe5df]
+### 4. Approved patterns of construction and identification marks[^c-cb047a800e14ec068196abd87a9fe5df]
 
 (1) All measuring equipment shall be made in accordance with a pattern in respect of which a certificate of approval is in force.
 
@@ -92,14 +92,14 @@ All measuring equipment fitted with a price to pay indicating device in digital 
 
 (3) Paragraph (2) shall not apply to any measuring equipment which was first submitted for testing before 1st May 1982.
 
-### 5. Arrangement of sales indicator[^key-d9e769744e143b6a13edb1cf5295fd5a]
+### 5. Arrangement of sales indicator[^c-d9e769744e143b6a13edb1cf5295fd5a]
 
 Every individual sales indicator fitted to measuring equipment shall be so arranged that—
 
 - (a) the indicator reading is capable of being set to zero before a delivery commences; and
 - (b) the indicator reading cannot be advanced by any means other than by the proper operation of the equipment.
 
-### 6. Display of information to the buyer[^key-3eeb0d89a38e14b2786e193a64180185]
+### 6. Display of information to the buyer[^c-3eeb0d89a38e14b2786e193a64180185]
 
 (1) Subject to paragraphs (2) and (3), all measuring equipment which forms part of a fixed installation shall be so positioned that a buyer may readily obtain a clear unobstructed view—
 
@@ -115,7 +115,7 @@ Every individual sales indicator fitted to measuring equipment shall be so arran
 
 (4) Any indication on measuring equipment referring in metric units of measurement to the quantity of liquid fuel supplied may be accompanied by a supplementary indication.
 
-### 7. Manner of use for trade[^key-a9d5bc22460bb3ed0af92d3885bb3c8f]
+### 7. Manner of use for trade[^c-a9d5bc22460bb3ed0af92d3885bb3c8f]
 
 All measuring equipment shall be used for trade in such a manner that—
 
@@ -124,7 +124,7 @@ All measuring equipment shall be used for trade in such a manner that—
 
 ## Part III — Testing
 
-### 8. Testing under practical working conditions[^key-e1f3a1667c91e92903b683c3ca66d1db]
+### 8. Testing under practical working conditions[^c-e1f3a1667c91e92903b683c3ca66d1db]
 
 All measuring equipment shall be tested by an inspector under practical working conditions with a test liquid, that is to say,—
 
@@ -133,11 +133,11 @@ All measuring equipment shall be tested by an inspector under practical working 
 
 and in the following provisions of these Regulations “test liquid” shall be construed accordingly.
 
-### 9. Testing dependent on completeness of equipment[^key-2a1de46b1baddd1d68020ad3cc80c4ff]
+### 9. Testing dependent on completeness of equipment[^c-2a1de46b1baddd1d68020ad3cc80c4ff]
 
 Measuring equipment shall not be tested unless it is complete with all its parts as described in any certificate of approval relating to it and which is in force or in any notice of examination.
 
-### 10. Testing of measuring equipment[^key-c74a905c8fe5c12549c67ce76be60ed8]
+### 10. Testing of measuring equipment[^c-c74a905c8fe5c12549c67ce76be60ed8]
 
 (1) All measuring equipment which is to be permanently fixed in the position in which it is to be used shall be tested, passed as fit for use for trade and stamped only when—
 
@@ -154,7 +154,7 @@ Measuring equipment shall not be tested unless it is complete with all its parts
 - (a) it has subsequently been dismantled before completion of its installation at the place where it is to be used; and
 - (b) any such dismantling is likely to have affected its performance.
 
-### 11. Pre-testing requirements for measuring equipment with discharge hoses[^key-a886906f437d8542b42d6d87d3abac7c]
+### 11. Pre-testing requirements for measuring equipment with discharge hoses[^c-a886906f437d8542b42d6d87d3abac7c]
 
 (1) Subject to paragraph (2), before testing any measuring equipment fitted with a discharge hose, the inspector shall ensure that test liquid has first been passed through the equipment.
 
@@ -162,11 +162,11 @@ Measuring equipment shall not be tested unless it is complete with all its parts
 
 (3) In this regulation “hose” includes rigid pipe work.
 
-### 12. Power of inspector to request provision of test liquid and other equipment[^key-2c85f53aa5569bc98f33174a80051aba]
+### 12. Power of inspector to request provision of test liquid and other equipment[^c-2c85f53aa5569bc98f33174a80051aba]
 
 For the purposes of the performance by an inspector of his functions under the Order or these Regulations relating to inspection, testing, passing as fit for use for trade and stamping of any measuring equipment, a person submitting such equipment to an inspector or who an inspector has reasonable cause to believe has possession of such equipment for use for trade shall, if requested, make available for the inspector’s use such test liquid and other equipment in his possession as the inspector may reasonably require; and any test liquid so made available shall be returned to the person in question or be placed in a suitable receptacle reasonably convenient for the purpose and nominated and provided by the proprietor or person in charge of the equipment.
 
-### 13. Power of inspector to open tanks and containers[^key-0f9a5aa0f8933fc6973d199f626b5589]
+### 13. Power of inspector to open tanks and containers[^c-0f9a5aa0f8933fc6973d199f626b5589]
 
 (1) An inspector may open any locked or sealed tank or container for the purpose of testing any measuring equipment or for the return of test liquid withdrawn during testing.
 
@@ -177,11 +177,11 @@ For the purposes of the performance by an inspector of his functions under the O
 
 (3) The inspector, if requested, shall give to the proprietor or person in charge of the equipment a signed and dated statement of the quantity of such test liquid withdrawn from the tank or container and returned or placed as aforesaid.
 
-### 14. Duty of inspector to reseal tanks and containers[^key-19a01781cfb805b256827647c1896b02]
+### 14. Duty of inspector to reseal tanks and containers[^c-19a01781cfb805b256827647c1896b02]
 
 An inspector shall securely re-fasten any tank or container opened under regulation 13(1) immediately after the conclusion of the test and the return of any test liquid withdrawn during testing or the placing of it in another receptacle; and for this purpose he shall replace any seal or link broken by him in opening the tank or container with a seal upon which he shall affix the stamp.
 
-### 15. Prescribed limits of error[^key-ddd958a639cedb029bed66d6878acce1]
+### 15. Prescribed limits of error[^c-ddd958a639cedb029bed66d6878acce1]
 
 (1) Subject to paragraphs (2) to (5), the prescribed limits of error relating to any measuring equipment shall be those set out in Table 1 in the Schedule as may be appropriate having regard to the dynamic viscosity of the test liquid employed.
 
@@ -210,7 +210,7 @@ the prescribed limits of error shall be the amounts set out in Table 1 or 2 as a
 
   and in this paragraph “analogue” means capable of assigning any value or position within a continuous range.
 
-### 16. Measuring equipment imported from another member State or an EEA State[^key-95aaf1162d9f7847f0ed40933308a53c]
+### 16. Measuring equipment imported from another member State or an EEA State[^c-95aaf1162d9f7847f0ed40933308a53c]
 
 (1) In relation to measuring equipment imported into Northern Ireland from another member State or from an EEA State whether directly or indirectly through Great Britain, subject to paragraph (4), an inspector shall not carry out any test in accordance with the foregoing provisions of this Part if, together with the measuring equipment being imported, he is presented with the requisite documentation.
 
@@ -231,7 +231,7 @@ the prescribed limits of error shall be the amounts set out in Table 1 or 2 as a
   - (i) that the measuring equipment being imported has not been dismantled after the tests to which the test report relates were carried out, or
   - (ii) where the measuring equipment being imported has been dismantled after those tests were carried out, that any such dismantling is not likely to have affected its performance.
 
-### 17. Passing as fit for use for trade[^key-33bc3013086df6893b733c488a09afed]
+### 17. Passing as fit for use for trade[^c-33bc3013086df6893b733c488a09afed]
 
 (1) Measuring equipment shall not be passed as fit for use for trade—
 
@@ -246,21 +246,21 @@ the prescribed limits of error shall be the amounts set out in Table 1 or 2 as a
 
 ## Part IV — Stamping
 
-### 18. Provision of stamping and sealing devices on equipment[^key-9c7793442b1ef9273549e531692a7239]
+### 18. Provision of stamping and sealing devices on equipment[^c-9c7793442b1ef9273549e531692a7239]
 
 All measuring equipment shall be provided with one or more plugs, seals or sealing devices in order to protect all stops or other adjustable parts effecting the quantity delivered, such plugs, seals or sealing devices to be as described in any certificate of approval relating to it and which is in force or in any notice of examination; and the stamp shall be placed on all such plugs, seals or sealing devices.
 
-### 19. Restriction on stamping[^key-c1e41da5d2753ce924df754972506fbf]
+### 19. Restriction on stamping[^c-c1e41da5d2753ce924df754972506fbf]
 
 Measuring equipment shall not be stamped in accordance with regulation 18 if it bears any mark which might reasonably be mistaken for the stamp.
 
-### 20. Obliteration of stamps[^key-2b8e41a25e0dedfeb336a34e324cf602]
+### 20. Obliteration of stamps[^c-2b8e41a25e0dedfeb336a34e324cf602]
 
 Stamps shall be obliterated by an inspector, in accordance with the requirements of these Regulations, by means of punches or pincers of suitable sizes of a six-pointed star design as shown in the following illustration:
 
 [image: see source](https://www.legislation.gov.uk/nisr/1998/113/images/nisr_19980113_en_001)
 
-### 21. Powers and duties of inspector regarding obliteration of stamps[^key-72fc258a99816ea427e36d3263572797]
+### 21. Powers and duties of inspector regarding obliteration of stamps[^c-72fc258a99816ea427e36d3263572797]
 
 (1) Subject to paragraph (2), an inspector shall obliterate the stamp on any measuring equipment which—
 
@@ -285,7 +285,7 @@ Stamps shall be obliterated by an inspector, in accordance with the requirements
 
 (6) In the case of any measuring equipment passed as fit for use for trade and stamped pursuant to paragraphs (1)(*b*) or (2)(*b*) of regulation 10, an inspector shall not obliterate the stamp under paragraph (3) or (4) by reason only that an addition has been made to it solely for the purposes of installation of the equipment at the place at which it is used.
 
-### 22. Consequence of the destruction, obliteration or defacement of a stamp[^key-824391fdb4691e01766054460531d434]
+### 22. Consequence of the destruction, obliteration or defacement of a stamp[^c-824391fdb4691e01766054460531d434]
 
 (1) For the purposes of these Regulations, the destruction, obliteration or defacement of any one stamp on any measuring equipment shall be deemed to be the obliteration of all other stamps on that equipment, except—
 
@@ -296,7 +296,7 @@ Stamps shall be obliterated by an inspector, in accordance with the requirements
 
 (2) Where the inspector has obliterated a stamp on any measuring equipment, he may attach to the equipment a notice indicating that the equipment or, in a case to which paragraph (1)(*a*) applies, the part of it in question is out of order.
 
-### 23. Lawful use for trade of equipment where stamps destroyed, obliterated or defaced for purposes of price adjustment[^key-1eb26c1e013454e5d612b3eab2e061a2]
+### 23. Lawful use for trade of equipment where stamps destroyed, obliterated or defaced for purposes of price adjustment[^c-1eb26c1e013454e5d612b3eab2e061a2]
 
 (1) It shall be lawful to destroy, obliterate or deface a stamp on any measuring equipment, and it shall not be a contravention of Article 9(2) of the Order to use such equipment for trade during the relevant period by reason only that a stamp on it has been lawfully destroyed, obliterated or defaced (such destruction, obliteration or defacement being in this regulation referred to as “the occurrence”) if—
 
@@ -314,7 +314,7 @@ Stamps shall be obliterated by an inspector, in accordance with the requirements
 
 (3) In paragraph (1) “relevant period” means a period of 28 days beginning with the day on which the notification referred to in that paragraph is given in accordance with that paragraph.
 
-### 24. Lawful use for trade of equipment where stamps destroyed, obliterated or defaced for purposes of metrication of equipment[^key-42ea1ae0f711c114da3ab5bba15a0bc5]
+### 24. Lawful use for trade of equipment where stamps destroyed, obliterated or defaced for purposes of metrication of equipment[^c-42ea1ae0f711c114da3ab5bba15a0bc5]
 
 (1) It shall be lawful to destroy, obliterate or deface a stamp on any measuring equipment, and it shall not be a contravention of Article 9(2) of the Order to use such equipment for trade during the relevant period by reason only that a stamp on it has been lawfully destroyed, obliterated or defaced (such destruction, obliteration or defacement being in this regulation referred to as “the occurrence”) if—
 
@@ -344,7 +344,7 @@ Assistant Secretary
 
 on 19th March 1998.
 
-## SCHEDULE — Prescribed Limits of Error[^key-e6fe7ead220e4d4c500f410716ab671e]
+## SCHEDULE — Prescribed Limits of Error[^c-e6fe7ead220e4d4c500f410716ab671e]
 
 regulations 15 and 21
 
@@ -429,58 +429,58 @@ These Regulations have been notified to the European Commission pursuant to Coun
 
 [^f00002]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846) Art. 4
 
-[^key-f25d9783216175c539264d7c2d4f94bf]: Commencement: Reg. 1 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-f25d9783216175c539264d7c2d4f94bf]: Commencement: Reg. 1 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. & O. (N.I.) 1969 No. 11](https://www.legislation.gov.uk/nisro/1969/11)
 
 [^f00004]: Footnote: [S.R. 1989 No. 169](https://www.legislation.gov.uk/nisr/1989/169) as amended by [S.R. 1995 No. 228](https://www.legislation.gov.uk/nisr/1995/228)
 
-[^key-b47ce3b85b98230f7cb54d7c1076db9d]: Commencement: Reg. 2 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-b47ce3b85b98230f7cb54d7c1076db9d]: Commencement: Reg. 2 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-70d830856ece3a7dc6b4c118c8d19cee]: Commencement: Reg. 3 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-70d830856ece3a7dc6b4c118c8d19cee]: Commencement: Reg. 3 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-cb047a800e14ec068196abd87a9fe5df]: Commencement: Reg. 4 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-cb047a800e14ec068196abd87a9fe5df]: Commencement: Reg. 4 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-d9e769744e143b6a13edb1cf5295fd5a]: Commencement: Reg. 5 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-d9e769744e143b6a13edb1cf5295fd5a]: Commencement: Reg. 5 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-3eeb0d89a38e14b2786e193a64180185]: Commencement: Reg. 6 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-3eeb0d89a38e14b2786e193a64180185]: Commencement: Reg. 6 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-a9d5bc22460bb3ed0af92d3885bb3c8f]: Commencement: Reg. 7 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-a9d5bc22460bb3ed0af92d3885bb3c8f]: Commencement: Reg. 7 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-e1f3a1667c91e92903b683c3ca66d1db]: Commencement: Reg. 8 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-e1f3a1667c91e92903b683c3ca66d1db]: Commencement: Reg. 8 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-2a1de46b1baddd1d68020ad3cc80c4ff]: Commencement: Reg. 9 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-2a1de46b1baddd1d68020ad3cc80c4ff]: Commencement: Reg. 9 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-c74a905c8fe5c12549c67ce76be60ed8]: Commencement: Reg. 10 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-c74a905c8fe5c12549c67ce76be60ed8]: Commencement: Reg. 10 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-a886906f437d8542b42d6d87d3abac7c]: Commencement: Reg. 11 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-a886906f437d8542b42d6d87d3abac7c]: Commencement: Reg. 11 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-2c85f53aa5569bc98f33174a80051aba]: Commencement: Reg. 12 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-2c85f53aa5569bc98f33174a80051aba]: Commencement: Reg. 12 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-0f9a5aa0f8933fc6973d199f626b5589]: Commencement: Reg. 13 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-0f9a5aa0f8933fc6973d199f626b5589]: Commencement: Reg. 13 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-19a01781cfb805b256827647c1896b02]: Commencement: Reg. 14 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-19a01781cfb805b256827647c1896b02]: Commencement: Reg. 14 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-ddd958a639cedb029bed66d6878acce1]: Commencement: Reg. 15 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-ddd958a639cedb029bed66d6878acce1]: Commencement: Reg. 15 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-95aaf1162d9f7847f0ed40933308a53c]: Commencement: Reg. 16 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-95aaf1162d9f7847f0ed40933308a53c]: Commencement: Reg. 16 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
 [^f00005]: Footnote: EN 45001 is a European Standard which has the status of a British Standard; it is identical with BS 7501 (ISBN 0 580 17939 7), “General criteria for the operation of testing laboratories”.
 
-[^key-33bc3013086df6893b733c488a09afed]: Commencement: Reg. 17 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-33bc3013086df6893b733c488a09afed]: Commencement: Reg. 17 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-9c7793442b1ef9273549e531692a7239]: Commencement: Reg. 18 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-9c7793442b1ef9273549e531692a7239]: Commencement: Reg. 18 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-c1e41da5d2753ce924df754972506fbf]: Commencement: Reg. 19 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-c1e41da5d2753ce924df754972506fbf]: Commencement: Reg. 19 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-2b8e41a25e0dedfeb336a34e324cf602]: Commencement: Reg. 20 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-2b8e41a25e0dedfeb336a34e324cf602]: Commencement: Reg. 20 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-72fc258a99816ea427e36d3263572797]: Commencement: Reg. 21 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-72fc258a99816ea427e36d3263572797]: Commencement: Reg. 21 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-824391fdb4691e01766054460531d434]: Commencement: Reg. 22 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-824391fdb4691e01766054460531d434]: Commencement: Reg. 22 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-1eb26c1e013454e5d612b3eab2e061a2]: Commencement: Reg. 23 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-1eb26c1e013454e5d612b3eab2e061a2]: Commencement: Reg. 23 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-42ea1ae0f711c114da3ab5bba15a0bc5]: Commencement: Reg. 24 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-42ea1ae0f711c114da3ab5bba15a0bc5]: Commencement: Reg. 24 in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
 
-[^key-e6fe7ead220e4d4c500f410716ab671e]: Commencement: Sch. in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)
+[^c-e6fe7ead220e4d4c500f410716ab671e]: Commencement: Sch. in operation at 20.4.1998, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1998/113/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 69. Deductions for councillor’s allowance[^key-541d4ae443df3bf1161fd99111dc4558]
+## 69. Deductions for councillor’s allowance[^c-541d4ae443df3bf1161fd99111dc4558]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-541d4ae443df3bf1161fd99111dc4558]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2016/219/regulation/69) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-541d4ae443df3bf1161fd99111dc4558]: Commencement: [Reg. 69](https://www.legislation.gov.uk/nisr/2016/219/regulation/69) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

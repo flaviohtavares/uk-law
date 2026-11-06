@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Restriction on establishment, alteration and discontinuance of maintained schools[^key-b752abe55132b680b57689f0737c226d]
+## 40. Restriction on establishment, alteration and discontinuance of maintained schools[^c-b752abe55132b680b57689f0737c226d]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b752abe55132b680b57689f0737c226d]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2013/1/section/40) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))
+[^c-b752abe55132b680b57689f0737c226d]: Commencement: [S. 40](https://www.legislation.gov.uk/anaw/2013/1/section/40) in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(a)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/a) (with [art. 4](https://www.legislation.gov.uk/wsi/2013/1800/article/4))

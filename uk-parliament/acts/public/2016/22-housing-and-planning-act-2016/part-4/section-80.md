@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Mandatory rents for high income local authority tenants[^key-7add44dfbb63d8cca973b07c896e1f5a]
+## 80. Mandatory rents for high income local authority tenants[^c-7add44dfbb63d8cca973b07c896e1f5a]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7add44dfbb63d8cca973b07c896e1f5a]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2016/22/section/80) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)
+[^c-7add44dfbb63d8cca973b07c896e1f5a]: Commencement: [S. 80](https://www.legislation.gov.uk/ukpga/2016/22/section/80) in force at 1.10.2016 by [S.I. 2016/956](https://www.legislation.gov.uk/uksi/2016/956), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/956/regulation/2/a)

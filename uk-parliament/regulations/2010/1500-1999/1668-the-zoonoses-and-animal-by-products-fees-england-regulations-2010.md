@@ -34,7 +34,7 @@ Animals, England
 
 Animal Health
 
-The Zoonoses and Animal By-Products (Fees) (England) Regulations 2010 (revoked)[^key-0a764d57ba4edea7d4950391b5e77e1b]
+The Zoonoses and Animal By-Products (Fees) (England) Regulations 2010 (revoked)[^c-0a764d57ba4edea7d4950391b5e77e1b]
 
 Made
 
@@ -48,31 +48,31 @@ Coming into force
 
 20th July 2010
 
-[^key-0a764d57ba4edea7d4950391b5e77e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a764d57ba4edea7d4950391b5e77e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-0a764d57ba4edea7d4950391b5e77e1b]
+## 1. Title, application and commencement[^c-0a764d57ba4edea7d4950391b5e77e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0a764d57ba4edea7d4950391b5e77e1b]
+## 2. Interpretation[^c-0a764d57ba4edea7d4950391b5e77e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Fees[^key-0a764d57ba4edea7d4950391b5e77e1b]
+## 3. Fees[^c-0a764d57ba4edea7d4950391b5e77e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-0a764d57ba4edea7d4950391b5e77e1b]
+## 4. Revocation[^c-0a764d57ba4edea7d4950391b5e77e1b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0a764d57ba4edea7d4950391b5e77e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0a764d57ba4edea7d4950391b5e77e1b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-0a764d57ba4edea7d4950391b5e77e1b]
+## SCHEDULE[^c-0a764d57ba4edea7d4950391b5e77e1b]
 
 Regulation 3
 
@@ -80,7 +80,7 @@ Regulation 3
 
 **No longer in force.**
 
-[^key-0a764d57ba4edea7d4950391b5e77e1b]EXPLANATORY NOTE
+[^c-0a764d57ba4edea7d4950391b5e77e1b]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -90,4 +90,4 @@ The Regulations make provision for the Secretary of State to charge fees for act
 
 ## Annotations
 
-[^key-0a764d57ba4edea7d4950391b5e77e1b]: Textual amendment: Regulations revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), regs. 1(4), [11(d)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/11/d)
+[^c-0a764d57ba4edea7d4950391b5e77e1b]: Textual amendment: Regulations revoked (24.6.2013) by [The Animal Health (Miscellaneous Fees) Regulations 2013 (S.I. 2013/1240)](https://www.legislation.gov.uk/uksi/2013/1240), regs. 1(4), [11(d)](https://www.legislation.gov.uk/uksi/2013/1240/regulation/11/d)

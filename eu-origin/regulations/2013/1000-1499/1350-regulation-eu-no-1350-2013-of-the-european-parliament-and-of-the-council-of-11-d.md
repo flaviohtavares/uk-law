@@ -33,24 +33,24 @@ of 11 December 2013
 
 amending certain legislative acts in the field of agricultural and fishery statistics (revoked)
 
-[^key-4e3c7bb1ea962e03efdefd96b083adc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e3c7bb1ea962e03efdefd96b083adc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-4e3c7bb1ea962e03efdefd96b083adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4e3c7bb1ea962e03efdefd96b083adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4e3c7bb1ea962e03efdefd96b083adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4e3c7bb1ea962e03efdefd96b083adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-4e3c7bb1ea962e03efdefd96b083adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4e3c7bb1ea962e03efdefd96b083adc7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4e3c7bb1ea962e03efdefd96b083adc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4e3c7bb1ea962e03efdefd96b083adc7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-4e3c7bb1ea962e03efdefd96b083adc7]
+## ANNEX[^c-4e3c7bb1ea962e03efdefd96b083adc7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e3c7bb1ea962e03efdefd96b083adc7]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 73](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/73)
+[^c-4e3c7bb1ea962e03efdefd96b083adc7]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 73](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/73)

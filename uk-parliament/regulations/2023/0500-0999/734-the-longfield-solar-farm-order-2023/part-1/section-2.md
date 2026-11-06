@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-e25865ab529c57a4b703274a774428da]
+## 2. Interpretation[^c-e25865ab529c57a4b703274a774428da]
 
 *Extent: E+W+S*
 
@@ -55,7 +55,7 @@ summary: ''
 - “**holding company**” has the same meaning as in section 1159 of the Companies Act 2006[^f00022];
 - “**land plans**” means sheets 1 – 9 of the plans of that name identified in the table in Schedule 13 (documents and plans to be certified) and which are certified by the Secretary of State as the land plans for the purposes of this Order;
 - “**limits of deviation**” means the limits of deviation shown for each numbered work on the works plans;
-- “[^key-77c4deede765b97f464ecf5ec9c657d8]**main site construction works**” means that part of the authorised development identified in work numbers 1, 2, 3, 7, 8 and 10;
+- “[^c-77c4deede765b97f464ecf5ec9c657d8]**main site construction works**” means that part of the authorised development identified in work numbers 1, 2, 3, 7, 8 and 10;
 - “**maintain**” includes inspect, repair, adjust, alter, remove, refurbish, reconstruct, replace and improve any part of, but not remove, reconstruct or replace the whole of, the authorised development and “maintenance” and “maintaining” are to be construed accordingly;
 - “**NGET**” means National Grid Electricity Transmission Plc (company number 2366977) whose registered office is at 1 to 3 Strand, London WC2N 5EH;
 - “**Order land**” means the land shown coloured pink, green, blue and brown on the land plans which is within the limits of land to be acquired or used and described in the book of reference;
@@ -72,7 +72,7 @@ summary: ''
 - “**outline soils resource management plan**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the outline soils resource management plan for the purposes of this Order;
 - “**overarching written scheme of investigation**” means the document of that name identified in the table at Schedule 13 (documents and plans to be certified) and which is certified by the Secretary of State as the overarching written scheme of investigation for the purposes of this Order;
 - “**owner**”, in relation to land, has the same meaning as in section 7 (interpretation) of the Acquisition of Land Act 1981[^f00023];
-- “[^key-668a07a681f09c8fa20fe20af6e780c2]**Park Farm planning permission**” means planning permission CHL 1890/87 granted by Essex County Council on 15 June 1990 (as amended) and/or planning permission CHL 1019/87 granted by Essex County Council on 15 June 1990 (as amended);
+- “[^c-668a07a681f09c8fa20fe20af6e780c2]**Park Farm planning permission**” means planning permission CHL 1890/87 granted by Essex County Council on 15 June 1990 (as amended) and/or planning permission CHL 1019/87 granted by Essex County Council on 15 June 1990 (as amended);
 - “**permissive paths plans**” means the plans of that name identified in the table at Schedule 13 (documents and plans to be certified) and which are certified by the Secretary of State as the permissive paths plans for the purposes of this Order;
 - “**permitted preliminary works**” means all or any of—
   - (a) environmental surveys, geotechnical surveys, intrusive archaeological surveys and other investigations for the purpose of assessing ground conditions and removal of plant and machinery;
@@ -114,7 +114,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e25865ab529c57a4b703274a774428da]: Commencement: Art. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
+[^c-e25865ab529c57a4b703274a774428da]: Commencement: Art. 2 in force at 18.7.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/734/article/1)
 
 [^f00013]: Footnote: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 
@@ -136,11 +136,11 @@ summary: ''
 
 [^f00022]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-77c4deede765b97f464ecf5ec9c657d8]: Textual amendment: Words in art. 2 inserted (25.2.2026) by [The Longfield Solar Farm (Amendment) Order 2026 (S.I. 2026/397)](https://www.legislation.gov.uk/uksi/2026/397), [arts. 1](https://www.legislation.gov.uk/uksi/2026/397/article/1), [3](https://www.legislation.gov.uk/uksi/2026/397/article/3)
+[^c-77c4deede765b97f464ecf5ec9c657d8]: Textual amendment: Words in art. 2 inserted (25.2.2026) by [The Longfield Solar Farm (Amendment) Order 2026 (S.I. 2026/397)](https://www.legislation.gov.uk/uksi/2026/397), [arts. 1](https://www.legislation.gov.uk/uksi/2026/397/article/1), [3](https://www.legislation.gov.uk/uksi/2026/397/article/3)
 
 [^f00023]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-668a07a681f09c8fa20fe20af6e780c2]: Textual amendment: Words in art. 2 substituted (25.2.2026) by [The Longfield Solar Farm (Amendment) Order 2026 (S.I. 2026/397)](https://www.legislation.gov.uk/uksi/2026/397), [arts. 1](https://www.legislation.gov.uk/uksi/2026/397/article/1), [4](https://www.legislation.gov.uk/uksi/2026/397/article/4)
+[^c-668a07a681f09c8fa20fe20af6e780c2]: Textual amendment: Words in art. 2 substituted (25.2.2026) by [The Longfield Solar Farm (Amendment) Order 2026 (S.I. 2026/397)](https://www.legislation.gov.uk/uksi/2026/397), [arts. 1](https://www.legislation.gov.uk/uksi/2026/397/article/1), [4](https://www.legislation.gov.uk/uksi/2026/397/article/4)
 
 [^f00024]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21).
 

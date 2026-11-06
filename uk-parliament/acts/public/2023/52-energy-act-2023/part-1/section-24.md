@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Time limits for CMA to determine an appeal[^key-ead549869ebdb92a568acc8d6343226a]
+## 24. Time limits for CMA to determine an appeal[^c-ead549869ebdb92a568acc8d6343226a]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ead549869ebdb92a568acc8d6343226a]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2023/52/section/24) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-ead549869ebdb92a568acc8d6343226a]: Commencement: [S. 24](https://www.legislation.gov.uk/ukpga/2023/52/section/24) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

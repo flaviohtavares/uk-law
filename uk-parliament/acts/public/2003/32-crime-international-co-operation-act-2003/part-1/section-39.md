@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Offences[^key-0078b65fac0f0e74fa413112ad843b8a]
+## 39. Offences[^c-0078b65fac0f0e74fa413112ad843b8a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0078b65fac0f0e74fa413112ad843b8a]: Commencement: S. 39 in force at 11.6.2006 by [S.S.I. 2006/281](https://www.legislation.gov.uk/ssi/2006/281), [art. 2](https://www.legislation.gov.uk/ssi/2006/281/article/2)
+[^c-0078b65fac0f0e74fa413112ad843b8a]: Commencement: S. 39 in force at 11.6.2006 by [S.S.I. 2006/281](https://www.legislation.gov.uk/ssi/2006/281), [art. 2](https://www.legislation.gov.uk/ssi/2006/281/article/2)

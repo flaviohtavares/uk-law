@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 148. Introductory[^key-1368b8e6f74a2aa9898217f607a1f961]
+## 148. Introductory[^c-1368b8e6f74a2aa9898217f607a1f961]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ This Part contains miscellaneous amendments of the Housing (Scotland) Act 2006 (
 
 ## Annotations
 
-[^key-1368b8e6f74a2aa9898217f607a1f961]: Commencement: S. 148 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-1368b8e6f74a2aa9898217f607a1f961]: Commencement: S. 148 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

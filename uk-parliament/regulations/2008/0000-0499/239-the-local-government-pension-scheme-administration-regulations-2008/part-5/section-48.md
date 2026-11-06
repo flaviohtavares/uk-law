@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Pension increases under the Pension Schemes Act 1993[^key-bfaeee5f7822936308f1fb109c0cdcb3]
+## 48. Pension increases under the Pension Schemes Act 1993[^c-bfaeee5f7822936308f1fb109c0cdcb3]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ Any increase in a pension required by reason of Chapter 3 of Part 4 of the Pensi
 
 ## Annotations
 
-[^key-bfaeee5f7822936308f1fb109c0cdcb3]: Commencement: Reg. 48 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-bfaeee5f7822936308f1fb109c0cdcb3]: Commencement: Reg. 48 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00041]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).

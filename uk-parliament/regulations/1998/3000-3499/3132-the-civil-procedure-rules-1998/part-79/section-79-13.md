@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79.13. Modification of Part 52 (appeals)[^key-a1accc8b3c27de745fb74740b9e24225]
+## 79.13. Modification of Part 52 (appeals)[^c-a1accc8b3c27de745fb74740b9e24225]
 
 *Extent: E+W*
 
-Part 52 (appeals) applies to an appeal to the Court of Appeal against an order of the High Court in financial restrictions proceedings and sanctions proceedings[^key-8e86e9d8ef1bf1ad451b031662f19795], subject to—
+Part 52 (appeals) applies to an appeal to the Court of Appeal against an order of the High Court in financial restrictions proceedings and sanctions proceedings[^c-8e86e9d8ef1bf1ad451b031662f19795], subject to—
 
 - (a) rule 79.2; and
 - (b) Section 4 of this Part.
 
 ## Annotations
 
-[^key-a1accc8b3c27de745fb74740b9e24225]: Textual amendment: [Pt. 79](https://www.legislation.gov.uk/uksi/1998/3132/part/79) inserted (4.12.2008) by [The Civil Procedure (Amendment No.2) Rules 2008 (S.I. 2008/3085)](https://www.legislation.gov.uk/uksi/2008/3085), [rule 1](https://www.legislation.gov.uk/uksi/2008/3085/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2008/3085/schedule)
+[^c-a1accc8b3c27de745fb74740b9e24225]: Textual amendment: [Pt. 79](https://www.legislation.gov.uk/uksi/1998/3132/part/79) inserted (4.12.2008) by [The Civil Procedure (Amendment No.2) Rules 2008 (S.I. 2008/3085)](https://www.legislation.gov.uk/uksi/2008/3085), [rule 1](https://www.legislation.gov.uk/uksi/2008/3085/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2008/3085/schedule)
 
-[^key-8e86e9d8ef1bf1ad451b031662f19795]: Textual amendment: Words in [rule 79.13](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.13) inserted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(11)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/11)
+[^c-8e86e9d8ef1bf1ad451b031662f19795]: Textual amendment: Words in [rule 79.13](https://www.legislation.gov.uk/uksi/1998/3132/rule/79.13) inserted (1.3.2019) by [The Civil Procedure (Amendment) (EU Exit) Rules 2019 (S.I. 2019/147)](https://www.legislation.gov.uk/uksi/2019/147), [rules 1](https://www.legislation.gov.uk/uksi/2019/147/rule/1), [3(11)](https://www.legislation.gov.uk/uksi/2019/147/rule/3/11)

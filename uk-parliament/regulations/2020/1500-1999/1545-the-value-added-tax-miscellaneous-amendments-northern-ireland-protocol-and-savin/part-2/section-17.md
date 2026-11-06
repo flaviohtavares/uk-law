@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Amendment of the Customs and Excise (Personal Reliefs for Special Visitors) Order 1992[^key-4e44e85ae4836ad6d93f78382fab59d6]
+## 17. Amendment of the Customs and Excise (Personal Reliefs for Special Visitors) Order 1992[^c-4e44e85ae4836ad6d93f78382fab59d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ summary: ''
 
 ## Annotations
 
-[^key-4e44e85ae4836ad6d93f78382fab59d6]: Commencement: Reg. 17 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-4e44e85ae4836ad6d93f78382fab59d6]: Commencement: Reg. 17 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24394881]: Marginal citation: [S.I. 1992/3156](https://www.legislation.gov.uk/uksi/1992/3156); relevantly amended by [S.I. 2005/2114](https://www.legislation.gov.uk/uksi/2005/2114) and [S.I. 2019/91](https://www.legislation.gov.uk/uksi/2019/91). The amendment made by [S.I. 2019/91](https://www.legislation.gov.uk/uksi/2019/91) is not yet in force and some of its provisions are omitted by this instrument.
 

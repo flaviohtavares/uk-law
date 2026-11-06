@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Llanarth — community electoral arrangements[^key-cd4c610d3d4217f4de07010f0043db6b][^key-4966cf3adef5c8e214ef2325dbcf66f2]
+## 124. Llanarth — community electoral arrangements[^c-cd4c610d3d4217f4de07010f0043db6b][^c-4966cf3adef5c8e214ef2325dbcf66f2]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In the community of Llanarth the number of councillors to be elected for the—
 
 ## Annotations
 
-[^key-cd4c610d3d4217f4de07010f0043db6b]: Commencement: Art. 124 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-cd4c610d3d4217f4de07010f0043db6b]: Commencement: Art. 124 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-4966cf3adef5c8e214ef2325dbcf66f2]: Commencement: [Art. 124](https://www.legislation.gov.uk/wsi/2021/1227/article/124) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-4966cf3adef5c8e214ef2325dbcf66f2]: Commencement: [Art. 124](https://www.legislation.gov.uk/wsi/2021/1227/article/124) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

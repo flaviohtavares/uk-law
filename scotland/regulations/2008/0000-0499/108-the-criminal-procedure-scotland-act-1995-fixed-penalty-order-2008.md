@@ -66,7 +66,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE — The scale of fixed penalties[^key-da0cc542e647467a100296e1cd11db36]
+## SCHEDULE — The scale of fixed penalties[^c-da0cc542e647467a100296e1cd11db36]
 
 Article 2
 
@@ -98,4 +98,4 @@ Article 3 of this Order revokes the previous Order prescribing a scale of fixed 
 
 [^c19156411]: Marginal citation: [S.I. 1996/617](https://www.legislation.gov.uk/uksi/1996/617). The Criminal Justice (Scotland) Act 1987 Fixed Penalty Order 1996 was made under the powers given to the Secretary of State by section 56(7) and 7(A) of the [Criminal Justice (Scotland) Act 1987 (c. 41)](https://www.legislation.gov.uk/ukpga/1987/41). Section 56 was repealed by section 6 of and Schedule 5 to the [Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 (c. 40)](https://www.legislation.gov.uk/ukpga/1995/40); however, the power was re-enacted in section 302(7) and (8) of the Criminal Procedure (Scotland) Act 1995. Section 2(2) of the Criminal Procedure (Consequential Provisions) (Scotland) Act 1995 operates so that the Criminal Justice (Scotland) Act 1987 Fixed Penalty Order 1996 continues to have effect as if made under section 302 of the Criminal Procedure (Scotland) Act 1995.
 
-[^key-da0cc542e647467a100296e1cd11db36]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2008/108/schedule) substituted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 8(2)](https://www.legislation.gov.uk/asp/2025/14/section/8/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(d)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/d)
+[^c-da0cc542e647467a100296e1cd11db36]: Textual amendment: [Sch.](https://www.legislation.gov.uk/ssi/2008/108/schedule) substituted (1.12.2025) by [Criminal Justice Modernisation and Abusive Domestic Behaviour Reviews (Scotland) Act 2025 (asp 14)](https://www.legislation.gov.uk/asp/2025/14), [ss. 8(2)](https://www.legislation.gov.uk/asp/2025/14/section/8/2), [34(2)](https://www.legislation.gov.uk/asp/2025/14/section/34/2)[(3)(d)](https://www.legislation.gov.uk/asp/2025/14/section/34/3/d)

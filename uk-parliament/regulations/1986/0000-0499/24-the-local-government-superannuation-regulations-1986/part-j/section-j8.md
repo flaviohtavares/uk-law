@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J8. Inward transfers[^key-780ae90610f2d55f7c9518fcd66d14f0]
+## J8. Inward transfers[^c-780ae90610f2d55f7c9518fcd66d14f0]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ where—
 
 ## Annotations
 
-[^key-780ae90610f2d55f7c9518fcd66d14f0]: Commencement: [Reg. J8](https://www.legislation.gov.uk/uksi/1986/24/regulation/J8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-780ae90610f2d55f7c9518fcd66d14f0]: Commencement: [Reg. J8](https://www.legislation.gov.uk/uksi/1986/24/regulation/J8) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

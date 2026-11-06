@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Protection of interests[^key-bf206627c5c616ab3c2d24fac8d4d3dc]
+## 41. Protection of interests[^c-bf206627c5c616ab3c2d24fac8d4d3dc]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-bf206627c5c616ab3c2d24fac8d4d3dc]: Commencement: Art. 41 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)
+[^c-bf206627c5c616ab3c2d24fac8d4d3dc]: Commencement: Art. 41 in force at 25.3.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/297/article/1)

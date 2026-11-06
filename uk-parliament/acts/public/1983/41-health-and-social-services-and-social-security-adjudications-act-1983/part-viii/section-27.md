@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Abolition of advisory bodies.[^key-ce662810516ec1defb18ecae6ec076cc]
+## 27. Abolition of advisory bodies.[^c-ce662810516ec1defb18ecae6ec076cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce662810516ec1defb18ecae6ec076cc]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/1983/41/section/27) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 2
+[^c-ce662810516ec1defb18ecae6ec076cc]: Textual amendment: [S. 27](https://www.legislation.gov.uk/ukpga/1983/41/section/27) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 2

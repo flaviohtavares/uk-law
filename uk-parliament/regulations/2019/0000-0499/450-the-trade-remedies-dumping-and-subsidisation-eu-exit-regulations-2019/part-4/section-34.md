@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Cumulation[^key-d88e3ac8e36e0d06d8e3877e368c9aa2]
+## 34. Cumulation[^c-d88e3ac8e36e0d06d8e3877e368c9aa2]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d88e3ac8e36e0d06d8e3877e368c9aa2]: Commencement: Reg. 34 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-d88e3ac8e36e0d06d8e3877e368c9aa2]: Commencement: Reg. 34 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Sexual offences cases: anonymity and restriction on publications[^key-79228b6f005ac85e373605460386c7d3]
+## 104. Sexual offences cases: anonymity and restriction on publications[^c-79228b6f005ac85e373605460386c7d3]
 
 *Extent: S*
 
@@ -248,4 +248,4 @@ summary: ''
 
 ## Annotations
 
-[^key-79228b6f005ac85e373605460386c7d3]: Commencement: S. 104 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-79228b6f005ac85e373605460386c7d3]: Commencement: S. 104 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

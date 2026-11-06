@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Fostering services to be charities[^key-efeefaf6412aa500e41fc1299d09dd2c]
+## 28. Fostering services to be charities[^c-efeefaf6412aa500e41fc1299d09dd2c]
 
 *Extent: S*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efeefaf6412aa500e41fc1299d09dd2c]: Commencement: S. 28 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-efeefaf6412aa500e41fc1299d09dd2c]: Commencement: S. 28 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

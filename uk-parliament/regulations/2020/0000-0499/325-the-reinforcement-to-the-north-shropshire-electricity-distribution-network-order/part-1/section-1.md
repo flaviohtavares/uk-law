@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-8d1c0a0a035af8adcf51be2bab767b5b]
+## 1. Citation and commencement[^c-8d1c0a0a035af8adcf51be2bab767b5b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as The Reinforcement to the North Shropshire Electricity
 
 ## Annotations
 
-[^key-8d1c0a0a035af8adcf51be2bab767b5b]: Commencement: Art. 1 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-8d1c0a0a035af8adcf51be2bab767b5b]: Commencement: Art. 1 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Education (Fees, Awards and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2009 (revoked)[^key-585fe760aa7fad97782d4141d64c7e8c]
+The Education (Fees, Awards and Student Support) (Miscellaneous Amendments) (Scotland) Regulations 2009 (revoked)[^c-585fe760aa7fad97782d4141d64c7e8c]
 
 Made
 
@@ -46,68 +46,68 @@ Coming into force
 
 30th September 2009
 
-[^key-585fe760aa7fad97782d4141d64c7e8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-585fe760aa7fad97782d4141d64c7e8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-585fe760aa7fad97782d4141d64c7e8c]
+## 1. Citation and commencement[^c-585fe760aa7fad97782d4141d64c7e8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006[^key-585fe760aa7fad97782d4141d64c7e8c]
+## 2. Amendment of the Education (Student Loans for Tuition Fees) (Scotland) Regulations 2006[^c-585fe760aa7fad97782d4141d64c7e8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Education Authority Bursaries (Scotland) Regulations 2007[^key-585fe760aa7fad97782d4141d64c7e8c]
+## 3. Amendment of the Education Authority Bursaries (Scotland) Regulations 2007[^c-585fe760aa7fad97782d4141d64c7e8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Nursing and Midwifery Student Allowances (Scotland) Regulations 2007[^key-585fe760aa7fad97782d4141d64c7e8c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**7.**[^key-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**8.**[^key-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Amendment of the Education (Fees and Awards) (Scotland) Regulations 2007[^key-585fe760aa7fad97782d4141d64c7e8c]
+## 6. Amendment of the Nursing and Midwifery Student Allowances (Scotland) Regulations 2007[^c-585fe760aa7fad97782d4141d64c7e8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**13.**[^key-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 14. Amendment of the Students’ Allowances (Scotland) Regulations 2007[^key-585fe760aa7fad97782d4141d64c7e8c]
+## 9. Amendment of the Education (Fees and Awards) (Scotland) Regulations 2007[^c-585fe760aa7fad97782d4141d64c7e8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Amendment of the Education (Student Loans) (Scotland) Regulations 2007[^key-585fe760aa7fad97782d4141d64c7e8c]
+**12.**[^c-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 14. Amendment of the Students’ Allowances (Scotland) Regulations 2007[^c-585fe760aa7fad97782d4141d64c7e8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Amendment of the Education Maintenance Allowances (Scotland) Regulations 2007[^key-585fe760aa7fad97782d4141d64c7e8c]
+**15.**[^c-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**16.**[^c-585fe760aa7fad97782d4141d64c7e8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 17. Amendment of the Education (Student Loans) (Scotland) Regulations 2007[^c-585fe760aa7fad97782d4141d64c7e8c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-585fe760aa7fad97782d4141d64c7e8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 18. Amendment of the Education Maintenance Allowances (Scotland) Regulations 2007[^c-585fe760aa7fad97782d4141d64c7e8c]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-585fe760aa7fad97782d4141d64c7e8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-585fe760aa7fad97782d4141d64c7e8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-585fe760aa7fad97782d4141d64c7e8c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-585fe760aa7fad97782d4141d64c7e8c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/309) revoked (1.8.2025) by [The Education (Fees and Student Support) (Miscellaneous Amendment and Revocation) (Scotland) Regulations 2025 (S.S.I. 2025/136)](https://www.legislation.gov.uk/ssi/2025/136), [reg. 1](https://www.legislation.gov.uk/ssi/2025/136/regulation/1), [sch. para. 4](https://www.legislation.gov.uk/ssi/2025/136/schedule/paragraph/4)
+[^c-585fe760aa7fad97782d4141d64c7e8c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2009/309) revoked (1.8.2025) by [The Education (Fees and Student Support) (Miscellaneous Amendment and Revocation) (Scotland) Regulations 2025 (S.S.I. 2025/136)](https://www.legislation.gov.uk/ssi/2025/136), [reg. 1](https://www.legislation.gov.uk/ssi/2025/136/regulation/1), [sch. para. 4](https://www.legislation.gov.uk/ssi/2025/136/schedule/paragraph/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164. Places of worship: restriction on protests[^key-ba3bf12cc745abb2e38391b3b6794274]
+## 164. Places of worship: restriction on protests[^c-ba3bf12cc745abb2e38391b3b6794274]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba3bf12cc745abb2e38391b3b6794274]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2026/20/section/164) in force at 29.6.2026, see [s. 255(3)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/d)
+[^c-ba3bf12cc745abb2e38391b3b6794274]: Commencement: [S. 164](https://www.legislation.gov.uk/ukpga/2026/20/section/164) in force at 29.6.2026, see [s. 255(3)(d)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Remote attendance at meetings conducted in accordance with section 246A[^key-efda6f53c2fb43b223c4e6779b6cedd5]
+## 63. Remote attendance at meetings conducted in accordance with section 246A[^c-efda6f53c2fb43b223c4e6779b6cedd5]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ and the notices required by sub-paragraphs (a) and (c) may be given at the same 
 
 ## Annotations
 
-[^key-efda6f53c2fb43b223c4e6779b6cedd5]: Commencement: Rule 63 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-efda6f53c2fb43b223c4e6779b6cedd5]: Commencement: Rule 63 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
 
 [^f00014]: Footnote: Section 246A was inserted by [S.I. 2010/18](https://www.legislation.gov.uk/uksi/2010/18).

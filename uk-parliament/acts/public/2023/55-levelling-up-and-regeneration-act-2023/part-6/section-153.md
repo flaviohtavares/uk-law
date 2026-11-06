@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Environmental outcomes reports for relevant consents and relevant plans[^key-c3021059a530c818d23a6eb9579f6d01]
+## 153. Environmental outcomes reports for relevant consents and relevant plans[^c-c3021059a530c818d23a6eb9579f6d01]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c3021059a530c818d23a6eb9579f6d01]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2023/55/section/153) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)
+[^c-c3021059a530c818d23a6eb9579f6d01]: Commencement: [S. 153](https://www.legislation.gov.uk/ukpga/2023/55/section/153) in force at 26.12.2023, see [s. 255(5)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/5)

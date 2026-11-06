@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Integrated Transport Authority and Passenger Transport Executive[^key-2747537f3409541c85ec116121efabcb]
+## 21. Integrated Transport Authority and Passenger Transport Executive[^c-2747537f3409541c85ec116121efabcb]
 
 *Extent: E+W*
 
@@ -33,19 +33,19 @@ summary: ''
 
 to be exercisable by a CCA in relation to the CCA’s area.
 
-(5) Regulations under this section may be made in relation to an existing CCA[^key-b279f3b95e7613d30846a929d47f13e6] only with the consent of—
+(5) Regulations under this section may be made in relation to an existing CCA[^c-b279f3b95e7613d30846a929d47f13e6] only with the consent of—
 
 - (a) the constituent councils, and
-- (b) [^key-1b4f006300f1c5bb7011b53e97d9846f]... the CCA.
+- (b) [^c-1b4f006300f1c5bb7011b53e97d9846f]... the CCA.
 
-(5A)[^key-f6750971b8c894dd87f1c2d1e42b79fa] Subsection (5) does not apply where a proposal to make the regulations has been submitted to the Secretary of State in accordance with section 47 (proposal for changes to existing arrangements relating to CCA - locally led).
+(5A)[^c-f6750971b8c894dd87f1c2d1e42b79fa] Subsection (5) does not apply where a proposal to make the regulations has been submitted to the Secretary of State in accordance with section 47 (proposal for changes to existing arrangements relating to CCA - locally led).
 
 ## Annotations
 
-[^key-2747537f3409541c85ec116121efabcb]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/55/section/21) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
+[^c-2747537f3409541c85ec116121efabcb]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/55/section/21) in force at 26.12.2023, see [s. 255(2)(c)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/c)
 
-[^key-b279f3b95e7613d30846a929d47f13e6]: Textual amendment: Words in s. 21(5) substituted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 27(a)(i)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/27/a/i) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-b279f3b95e7613d30846a929d47f13e6]: Textual amendment: Words in s. 21(5) substituted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 27(a)(i)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/27/a/i) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
 
-[^key-1b4f006300f1c5bb7011b53e97d9846f]: Textual amendment: Words in s. 21(5)(b) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 27(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/27/a/ii) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-1b4f006300f1c5bb7011b53e97d9846f]: Textual amendment: Words in s. 21(5)(b) omitted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 27(a)(ii)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/27/a/ii) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
 
-[^key-f6750971b8c894dd87f1c2d1e42b79fa]: Textual amendment: S. 21(5A) inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/27/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))
+[^c-f6750971b8c894dd87f1c2d1e42b79fa]: Textual amendment: S. 21(5A) inserted (29.4.2026 except so far as it relates to Sch. 1 paras. 18, 39 of the amending Act) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 1 para. 27(b)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/1/paragraph/27/b) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102)) (with saving and transitional provision in [S.I. 2026/482](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/482/regulation/2))

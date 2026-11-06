@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Amount of the disabled students’ allowance[^key-8e541029595ff1ec08f8ee4b7ebba048]
+## 42. Amount of the disabled students’ allowance[^c-8e541029595ff1ec08f8ee4b7ebba048]
 
 *Extent: N.I.*
 
@@ -35,11 +35,11 @@ summary: ''
 
 (4) The maximum amount under paragraphs (2)(a) and (2)(d) is £9,315 and £1,230, respectively where—
 
-- (a) an eligible student attends[^key-d1320866baad334b788438d05e2ed817] a course for the initial training of teachers; and
+- (a) an eligible student attends[^c-d1320866baad334b788438d05e2ed817] a course for the initial training of teachers; and
 - (b) in any academic year of that course, the periods of full-time study and full-time teaching practice are in aggregate less than 6 weeks.
 
 ## Annotations
 
-[^key-8e541029595ff1ec08f8ee4b7ebba048]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2007/195/regulation/42) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-8e541029595ff1ec08f8ee4b7ebba048]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2007/195/regulation/42) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
 
-[^key-d1320866baad334b788438d05e2ed817]: Textual amendment: Word in [reg. 42(4)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/42/4/a) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [13](https://www.legislation.gov.uk/nisr/2007/363/regulation/13)
+[^c-d1320866baad334b788438d05e2ed817]: Textual amendment: Word in [reg. 42(4)(a)](https://www.legislation.gov.uk/nisr/2007/195/regulation/42/4/a) substituted (21.9.2007) by [The Education (Student Support) (Amendment) (No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/363)](https://www.legislation.gov.uk/nisr/2007/363), [regs. 1](https://www.legislation.gov.uk/nisr/2007/363/regulation/1), [13](https://www.legislation.gov.uk/nisr/2007/363/regulation/13)

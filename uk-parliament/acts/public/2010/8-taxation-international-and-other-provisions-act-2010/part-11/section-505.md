@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 505. Extent[^key-f74e22bed68af966312961deea8d4edf]
+## 505. Extent[^c-f74e22bed68af966312961deea8d4edf]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f74e22bed68af966312961deea8d4edf]: Textual amendment: S. 380 renumbered as s. 505 (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 10(3)(g)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/3/g)
+[^c-f74e22bed68af966312961deea8d4edf]: Textual amendment: S. 380 renumbered as s. 505 (with effect in accordance with Sch. 5 para. 25(1)(2) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 10(3)(g)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/3/g)

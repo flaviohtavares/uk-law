@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Modification of Part 1 of the Compulsory Purchase Act 1965[^key-f39c49245ceccc6f626c51a2c727fa0b]
+## 25. Modification of Part 1 of the Compulsory Purchase Act 1965[^c-f39c49245ceccc6f626c51a2c727fa0b]
 
 *Extent: E+W*
 
@@ -42,12 +42,12 @@ summary: ''
 
   > **PART 4 — INTERPRETATION**
   >
-  > **30.** In this Schedule, references to entering on and taking possession of land do not include doing so under article ‎16 (protective works to buildings), article 27[^key-bfea7ad7b794896e8bdb626298cf0aa0] (temporary use of land for constructing the authorised development) or article ‎28 (temporary use of land for maintaining the authorised development) of the Gate Burton Energy Park Order 2024.
+  > **30.** In this Schedule, references to entering on and taking possession of land do not include doing so under article ‎16 (protective works to buildings), article 27[^c-bfea7ad7b794896e8bdb626298cf0aa0] (temporary use of land for constructing the authorised development) or article ‎28 (temporary use of land for maintaining the authorised development) of the Gate Burton Energy Park Order 2024.
 
   .
 
 ## Annotations
 
-[^key-f39c49245ceccc6f626c51a2c727fa0b]: Commencement: Art. 25 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
+[^c-f39c49245ceccc6f626c51a2c727fa0b]: Commencement: Art. 25 in force at 3.8.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/807/article/1)
 
-[^key-bfea7ad7b794896e8bdb626298cf0aa0]: Textual amendment: Word in [art. 25(5)(b)](https://www.legislation.gov.uk/uksi/2024/807/article/25/5/b) substituted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)
+[^c-bfea7ad7b794896e8bdb626298cf0aa0]: Textual amendment: Word in [art. 25(5)(b)](https://www.legislation.gov.uk/uksi/2024/807/article/25/5/b) substituted (28.11.2024) by [The Gate Burton Energy Park (Correction) Order 2024 (S.I. 2024/1249)](https://www.legislation.gov.uk/uksi/2024/1249), [art. 1](https://www.legislation.gov.uk/uksi/2024/1249/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/1249/schedule)

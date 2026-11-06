@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Regulations and orders[^key-a59d45db876ca5682f6d477df2aff6d9]
+## 41. Regulations and orders[^c-a59d45db876ca5682f6d477df2aff6d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a59d45db876ca5682f6d477df2aff6d9]: Modification: Ss. 29-41 applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/102/2)
+[^c-a59d45db876ca5682f6d477df2aff6d9]: Modification: Ss. 29-41 applied (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 102(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/102/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## SCHEDULE 5 — Repeals and revocations[^key-e7644bafbeadebfe0747da60b88b2cd5]
+## SCHEDULE 5 — Repeals and revocations[^c-e7644bafbeadebfe0747da60b88b2cd5]
 
 *Extent: E*
 
@@ -77,4 +77,4 @@ Section 60
 
 ## Annotations
 
-[^key-e7644bafbeadebfe0747da60b88b2cd5]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2019/98/article/3))
+[^c-e7644bafbeadebfe0747da60b88b2cd5]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ukcm/2018/9/schedule/5) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2019/98/article/3))

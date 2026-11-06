@@ -29,7 +29,7 @@ summary: ''
 
 CONSUMER CREDIT
 
-[^key-1a166ede2fdd9955f4eb586a5ab56dcb]The Consumer Credit (Exempt Advertisements) Order 1985 (revoked)
+[^c-1a166ede2fdd9955f4eb586a5ab56dcb]The Consumer Credit (Exempt Advertisements) Order 1985 (revoked)
 
 Made
 
@@ -43,20 +43,20 @@ Coming into Operation
 
 20th May 1985
 
-[^key-1a166ede2fdd9955f4eb586a5ab56dcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a166ede2fdd9955f4eb586a5ab56dcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-1a166ede2fdd9955f4eb586a5ab56dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1a166ede2fdd9955f4eb586a5ab56dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1a166ede2fdd9955f4eb586a5ab56dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1a166ede2fdd9955f4eb586a5ab56dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a166ede2fdd9955f4eb586a5ab56dcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a166ede2fdd9955f4eb586a5ab56dcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1a166ede2fdd9955f4eb586a5ab56dcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a166ede2fdd9955f4eb586a5ab56dcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a166ede2fdd9955f4eb586a5ab56dcb]: Textual amendment: Order revoked (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1), [21(g)](https://www.legislation.gov.uk/uksi/2013/1881/article/21/g)
+[^c-1a166ede2fdd9955f4eb586a5ab56dcb]: Textual amendment: Order revoked (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1), [21(g)](https://www.legislation.gov.uk/uksi/2013/1881/article/21/g)

@@ -27,7 +27,7 @@ summary: ''
 
 (2) Any power of the Secretary of State[^c21245221] to make an order under this Act is exercisable by statutory instrument.
 
-(3) A statutory instrument containing an order under section 8A(8)[^key-44999679673a950355f83838bb2f91f9] or 33(7) is subject to annulment in pursuance of a resolution of either House of Parliament.
+(3) A statutory instrument containing an order under section 8A(8)[^c-44999679673a950355f83838bb2f91f9] or 33(7) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
 (4) No order may be made under section 14(5), 53(4) or 54(4) unless a draft of the order has been laid before Parliament and approved by a resolution of each House.
 
@@ -39,7 +39,7 @@ summary: ''
 
 [^c21245221]: Textual amendment: Words in [s. 61(2)](https://www.legislation.gov.uk/ukpga/2004/28/section/61/2) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 88(2)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/88/2) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 
-[^key-44999679673a950355f83838bb2f91f9]: Textual amendment: Word in [s. 61(3)](https://www.legislation.gov.uk/ukpga/2004/28/section/61/3) substituted (15.9.2026) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 19(4)](https://www.legislation.gov.uk/ukpga/2024/21/section/19/4), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2026/1009](https://www.legislation.gov.uk/uksi/2026/1009), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1009/regulation/2)
+[^c-44999679673a950355f83838bb2f91f9]: Textual amendment: Word in [s. 61(3)](https://www.legislation.gov.uk/ukpga/2004/28/section/61/3) substituted (15.9.2026) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 19(4)](https://www.legislation.gov.uk/ukpga/2024/21/section/19/4), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2026/1009](https://www.legislation.gov.uk/uksi/2026/1009), [reg. 2](https://www.legislation.gov.uk/uksi/2026/1009/regulation/2)
 
 [^c21245241]: Textual amendment: [S. 61(5)(6)](https://www.legislation.gov.uk/ukpga/2004/28/section/61/5/6) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [12](https://www.legislation.gov.uk/uksi/2010/976/article/12), [Sch. 14 para. 88(3)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/88/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2)
 

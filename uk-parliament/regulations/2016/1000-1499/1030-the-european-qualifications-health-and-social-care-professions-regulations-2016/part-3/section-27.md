@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Amendment of regulation 2[^key-8eab60d6659a54d570f1ef3a1079a34f]
+## 27. Amendment of regulation 2[^c-8eab60d6659a54d570f1ef3a1079a34f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8eab60d6659a54d570f1ef3a1079a34f]: Commencement: Reg. 27 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-8eab60d6659a54d570f1ef3a1079a34f]: Commencement: Reg. 27 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

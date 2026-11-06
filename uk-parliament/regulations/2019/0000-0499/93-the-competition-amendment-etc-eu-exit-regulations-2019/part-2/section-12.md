@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12.[^key-a6297f5117ad4972381854a222a0857d]
+## 12.[^c-a6297f5117ad4972381854a222a0857d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ In section 36 [^c23882751]—
 
 ## Annotations
 
-[^key-a6297f5117ad4972381854a222a0857d]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-a6297f5117ad4972381854a222a0857d]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
 [^c23882751]: Marginal citation: Section 36 was amended by paragraph 38(1) and (28) of Schedule 25 to the Enterprise Act 2002, section 44 of, and paragraphs 1 and 20 of Schedule 5 to, the Enterprise and Regulatory Reform Act 2013, [S.I. 2004/1261](https://www.legislation.gov.uk/uksi/2004/1261) and [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Community reviews and implementation[^key-a53a9139517cbdea86e4b4a44c25ed97]
+## 51. Community reviews and implementation[^c-a53a9139517cbdea86e4b4a44c25ed97]
 
 *Extent: E+W*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a53a9139517cbdea86e4b4a44c25ed97]: Commencement: [S. 51](https://www.legislation.gov.uk/asc/2024/5/section/51) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)
+[^c-a53a9139517cbdea86e4b4a44c25ed97]: Commencement: [S. 51](https://www.legislation.gov.uk/asc/2024/5/section/51) in force at 9.11.2024, see [s. 72(2)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/2/a)

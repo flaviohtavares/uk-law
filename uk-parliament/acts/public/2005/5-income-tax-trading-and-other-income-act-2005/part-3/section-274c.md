@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 274C. Reduction for accumulated or discretionary trust income: calculation[^key-7f8c0459e816b628d7ea77ab90a69b19]
+## 274C. Reduction for accumulated or discretionary trust income: calculation[^c-7f8c0459e816b628d7ea77ab90a69b19]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 
 where—
 
-PBR[^key-5e1384794ed6105a2fceb8551caa33a2] is the property basic rate[^key-4354aa57e419c7657282e56366fdacba] of income tax for the year, and
+PBR[^c-5e1384794ed6105a2fceb8551caa33a2] is the property basic rate[^c-4354aa57e419c7657282e56366fdacba] of income tax for the year, and
 
 L is the lower of—
 
@@ -41,10 +41,10 @@ L is the lower of—
 
 ## Annotations
 
-[^key-7f8c0459e816b628d7ea77ab90a69b19]: Textual amendment: Ss. 274A-274C substituted for s. 274A (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 26(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/26/1)
+[^c-7f8c0459e816b628d7ea77ab90a69b19]: Textual amendment: Ss. 274A-274C substituted for s. 274A (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 26(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/26/1)
 
 [^M_F_152be58c-f089-4cd6-deed-a63c9dd6a77e]: Textual amendment: [S. 274C(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/274C/2) formula: "PBR" substituted for "BR" (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 40(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/40/a)
 
-[^key-5e1384794ed6105a2fceb8551caa33a2]: Textual amendment: Word in [s. 274C(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/274C/2) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 40(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/40/a)
+[^c-5e1384794ed6105a2fceb8551caa33a2]: Textual amendment: Word in [s. 274C(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/274C/2) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 40(a)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/40/a)
 
-[^key-4354aa57e419c7657282e56366fdacba]: Textual amendment: Words in [s. 274C(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/274C/2) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 40(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/40/b)
+[^c-4354aa57e419c7657282e56366fdacba]: Textual amendment: Words in [s. 274C(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/274C/2) substituted (for the tax year 2027-28 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 6(8)](https://www.legislation.gov.uk/ukpga/2026/11/section/6/8), [Sch. 1 para. 40(b)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/1/paragraph/40/b)

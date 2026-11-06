@@ -22,9 +22,9 @@ summary: ''
 
 (1) A company is entitled to relief for an accounting period if conditions A, B and C are met.
 
-(2) Condition A is that a major interest in[^key-897c2b5132feb50a5a505ee823bf3aee] land in the United Kingdom is, or has been, acquired by the company for the purposes of a UK property business or a trade carried on by it.
+(2) Condition A is that a major interest in[^c-897c2b5132feb50a5a505ee823bf3aee] land in the United Kingdom is, or has been, acquired by the company for the purposes of a UK property business or a trade carried on by it.
 
-(3)[^key-90711b3abee4038607fbf636f49b2041] Condition B is that—
+(3)[^c-90711b3abee4038607fbf636f49b2041] Condition B is that—
 
 - (a) in the case of land in a contaminated state, the land was in a contaminated state at the time of the acquisition, and
 - (b) in the case of land in a derelict state, the land was in a derelict state throughout the period beginning with the earlier of—
@@ -44,19 +44,19 @@ summary: ''
 
 (6) The relief is that for corporation tax purposes the capital expenditure is allowed as a deduction in calculating the profits of the UK property business or the trade for the period in which the expenditure is incurred.
 
-(7)[^key-009379904ecb04b726891b72373029c9] For the purposes of this section capital expenditure incurred for the purposes of a UK property business or a trade by a company about to carry on the business or trade is to be treated as incurred by the company—
+(7)[^c-009379904ecb04b726891b72373029c9] For the purposes of this section capital expenditure incurred for the purposes of a UK property business or a trade by a company about to carry on the business or trade is to be treated as incurred by the company—
 
 - (a) on the first day on which it does carry it on, and
 - (b) in the course of doing so.
 
-(8) Relief is not available under this section in relation to so much of the qualifying land remediation expenditure as represents capital expenditure in respect of which an allowance, other than an allowance under Part 2A of CAA 2001 (structures and buildings allowances),[^key-ad8ebba9cc20dd091a782d807f70c0e9] has been, or may be, made under the enactments relating to capital allowances.
+(8) Relief is not available under this section in relation to so much of the qualifying land remediation expenditure as represents capital expenditure in respect of which an allowance, other than an allowance under Part 2A of CAA 2001 (structures and buildings allowances),[^c-ad8ebba9cc20dd091a782d807f70c0e9] has been, or may be, made under the enactments relating to capital allowances.
 
 ## Annotations
 
-[^key-897c2b5132feb50a5a505ee823bf3aee]: Textual amendment: Words in s. 1147(2) inserted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/9/2)
+[^c-897c2b5132feb50a5a505ee823bf3aee]: Textual amendment: Words in s. 1147(2) inserted (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 9(2)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/9/2)
 
-[^key-90711b3abee4038607fbf636f49b2041]: Textual amendment: S. 1147(3)-(3B) substituted for s. 1147(3) (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 9(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/9/3)
+[^c-90711b3abee4038607fbf636f49b2041]: Textual amendment: S. 1147(3)-(3B) substituted for s. 1147(3) (with effect in accordance with Sch. 7 paras. 27, 28 of the amending Act) by [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [Sch. 7 para. 9(3)](https://www.legislation.gov.uk/ukpga/2009/10/schedule/7/paragraph/9/3)
 
-[^key-009379904ecb04b726891b72373029c9]: Modification: S. 1147(7) excluded (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35), [47(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/47/2) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))
+[^c-009379904ecb04b726891b72373029c9]: Modification: S. 1147(7) excluded (6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 5 paras. 35](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/35), [47(2)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/47/2) (with [Sch. 5 para. 36](https://www.legislation.gov.uk/ukpga/2019/1/schedule/5/paragraph/36))
 
-[^key-ad8ebba9cc20dd091a782d807f70c0e9]: Textual amendment: Words in s. 1147(8) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/7/2)
+[^c-ad8ebba9cc20dd091a782d807f70c0e9]: Textual amendment: Words in s. 1147(8) inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/1087/regulation/7/2)

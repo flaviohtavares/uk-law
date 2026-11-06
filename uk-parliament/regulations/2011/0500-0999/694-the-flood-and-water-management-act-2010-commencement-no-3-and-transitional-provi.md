@@ -58,15 +58,15 @@ This Order is made—
 
 The Secretary of State and the Welsh Ministers make the following Order.
 
-## 1. Citation[^key-45ee7981070eb5b0cbbc9ff279aa97a0]
+## 1. Citation[^c-45ee7981070eb5b0cbbc9ff279aa97a0]
 
 This Order may be cited as the Flood and Water Management Act 2010 (Commencement No. 3 and Transitional Provisions) Order 2011.
 
-## 2. Interpretation[^key-a46189385984f4ad6846ab20f6a9f336]
+## 2. Interpretation[^c-a46189385984f4ad6846ab20f6a9f336]
 
 In this Order, “the 2010 Act” means the Flood and Water Management Act 2010.
 
-## 3. Provisions coming into force on 1st April 2011[^key-4332984490ec35604247379a07393760]
+## 3. Provisions coming into force on 1st April 2011[^c-4332984490ec35604247379a07393760]
 
 The following provisions of the 2010 Act come into force on 1st April 2011—
 
@@ -81,7 +81,7 @@ The following provisions of the 2010 Act come into force on 1st April 2011—
 - (i) paragraphs 51, 52 and 53 of Schedule 2 (amendment of the Environment Act 1995[^f00007]);
 - (j) paragraphs 1, 2, 4 and 7 of Schedule 5 (amendment of the Water Industry Act 1991).
 
-## 4. Provisions coming into force on 6th April 2011[^key-ac223dddbfb0d5c3e6bf68b40028137a]
+## 4. Provisions coming into force on 6th April 2011[^c-ac223dddbfb0d5c3e6bf68b40028137a]
 
 (1) The following provisions of the 2010 Act come into force on 6th April 2011—
 
@@ -98,13 +98,13 @@ The following provisions of the 2010 Act come into force on 1st April 2011—
 
 (2) Section 15 of the 2010 Act (civil sanctions), so far as not already commenced, comes into force on 6th April 2011 in relation to Wales only.
 
-## 5. Transitional provisions[^key-645814d593fabfdf29fc132b5596e18e]
+## 5. Transitional provisions[^c-645814d593fabfdf29fc132b5596e18e]
 
 (1) Despite the repeal of section 133 of the Water Resources Act 1991 by paragraph 44 of Schedule 2 to the 2010 Act, the provisions of that section continue to have effect so far as they authorise the Environment Agency to issue a levy for the purpose of its flood defence functions under regulations made under section 74 of the Local Government Finance Act 1988[^f00010] for the financial year beginning with 1st April 2011.
 
 (2) Despite the repeal of Schedule 5 to the Environment Act 1995 (“the 1995 Act”) by paragraph 53 of Schedule 2 to the 2010 Act, the following continue to have effect—
 
-- (a) any payment, or arrangement for payment, under paragraph 10 of Schedule 5 to the 1995 Act of a pension by the Agency in relation to English Committees or the Natural Resources Body for Wales in relation to Welsh Committees[^key-1381436d9a893a388c9f0c3f54c7df45] to a person who has been or, on 31st March 2011, is the chairman of a regional flood defence committee; and
+- (a) any payment, or arrangement for payment, under paragraph 10 of Schedule 5 to the 1995 Act of a pension by the Agency in relation to English Committees or the Natural Resources Body for Wales in relation to Welsh Committees[^c-1381436d9a893a388c9f0c3f54c7df45] to a person who has been or, on 31st March 2011, is the chairman of a regional flood defence committee; and
 - (b) any requirement under that paragraph for the Agency in relation to English Committees or the Natural Resources Body for Wales in relation to Welsh Committees to pay compensation to a person who has ceased to be the chairman of a regional flood defence committee.
 
 (3) The amendments made by paragraphs 1 and 2 of Schedule 5 to the 2010 Act do not apply in relation to any scheme made under paragraph 2(1) of Schedule 2 to the Water Industry Act 1991 before 1st April 2011.
@@ -193,11 +193,11 @@ The following provisions of the Flood and Water Management Act 2010 were brought
 
 [^f00004]: Footnote: See section 22(1)(c) of the Flood and Water Management Act 2010 for the meaning of a “Welsh Committee”.
 
-[^key-45ee7981070eb5b0cbbc9ff279aa97a0]: Commencement: Art. 1 in force at made date
+[^c-45ee7981070eb5b0cbbc9ff279aa97a0]: Commencement: Art. 1 in force at made date
 
-[^key-a46189385984f4ad6846ab20f6a9f336]: Commencement: Art. 2 in force at made date
+[^c-a46189385984f4ad6846ab20f6a9f336]: Commencement: Art. 2 in force at made date
 
-[^key-4332984490ec35604247379a07393760]: Commencement: Art. 3 in force at made date
+[^c-4332984490ec35604247379a07393760]: Commencement: Art. 3 in force at made date
 
 [^f00005]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
@@ -205,14 +205,14 @@ The following provisions of the Flood and Water Management Act 2010 were brought
 
 [^f00007]: Footnote: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
-[^key-ac223dddbfb0d5c3e6bf68b40028137a]: Commencement: Art. 4 in force at made date
+[^c-ac223dddbfb0d5c3e6bf68b40028137a]: Commencement: Art. 4 in force at made date
 
 [^f00008]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 
 [^f00009]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).
 
-[^key-645814d593fabfdf29fc132b5596e18e]: Commencement: Art. 5 in force at made date
+[^c-645814d593fabfdf29fc132b5596e18e]: Commencement: Art. 5 in force at made date
 
 [^f00010]: Footnote: [1988 c. 41](https://www.legislation.gov.uk/ukpga/1988/41). See the Environment Agency (Levies) Regulations 1993 ([S.I. 1993/61](https://www.legislation.gov.uk/uksi/1993/61)).
 
-[^key-1381436d9a893a388c9f0c3f54c7df45]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2011/694/article/5/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 391](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/391) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1381436d9a893a388c9f0c3f54c7df45]: Textual amendment: Words in [art. 5(2)](https://www.legislation.gov.uk/uksi/2011/694/article/5/2) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 391](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/391) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

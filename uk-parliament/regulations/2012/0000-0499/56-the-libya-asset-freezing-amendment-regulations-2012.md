@@ -32,7 +32,7 @@ summary: ''
 
 Criminal Law
 
-The Libya (Asset-Freezing) (Amendment) Regulations 2012 (revoked)[^key-4f22d54a3ecb158bd02d7b64fd423aa1]
+The Libya (Asset-Freezing) (Amendment) Regulations 2012 (revoked)[^c-4f22d54a3ecb158bd02d7b64fd423aa1]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 at 4.30 p.m. on 11th January 2012
 
-[^key-4f22d54a3ecb158bd02d7b64fd423aa1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f22d54a3ecb158bd02d7b64fd423aa1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-4f22d54a3ecb158bd02d7b64fd423aa1]
+## 1. Citation and commencement[^c-4f22d54a3ecb158bd02d7b64fd423aa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Libya (Asset-Freezing) Regulations 2011[^key-4f22d54a3ecb158bd02d7b64fd423aa1]
+## 2. Amendment of the Libya (Asset-Freezing) Regulations 2011[^c-4f22d54a3ecb158bd02d7b64fd423aa1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4f22d54a3ecb158bd02d7b64fd423aa1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f22d54a3ecb158bd02d7b64fd423aa1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4f22d54a3ecb158bd02d7b64fd423aa1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4f22d54a3ecb158bd02d7b64fd423aa1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4f22d54a3ecb158bd02d7b64fd423aa1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/56) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-4f22d54a3ecb158bd02d7b64fd423aa1]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/56) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19.2. Expert’s duty to the court[^key-f547762e3afa237ceed8ff5cc6bd114d]
+## 19.2. Expert’s duty to the court[^c-f547762e3afa237ceed8ff5cc6bd114d]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f547762e3afa237ceed8ff5cc6bd114d]: Commencement: [Rule 19.2](https://www.legislation.gov.uk/uksi/2025/909/rule/19.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f547762e3afa237ceed8ff5cc6bd114d]: Commencement: [Rule 19.2](https://www.legislation.gov.uk/uksi/2025/909/rule/19.2) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

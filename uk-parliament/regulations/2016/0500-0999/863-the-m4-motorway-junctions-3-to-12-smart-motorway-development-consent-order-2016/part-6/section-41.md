@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Service of notices[^key-fd5c5c175c2293623e25cf906a665bfb]
+## 41. Service of notices[^c-fd5c5c175c2293623e25cf906a665bfb]
 
 *Extent: E+W+S*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd5c5c175c2293623e25cf906a665bfb]: Commencement: Art. 41 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
+[^c-fd5c5c175c2293623e25cf906a665bfb]: Commencement: Art. 41 in force at 23.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/863/article/1)
 
 [^f00033]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

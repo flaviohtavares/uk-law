@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Disclosure of information to the Welsh Ministers.[^c13148971][^key-056e78dee416c01b82be7c499a9de4ee]
+## 32. Disclosure of information to the Welsh Ministers.[^c13148971][^c-056e78dee416c01b82be7c499a9de4ee]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c13148971]: Modification: S. 32 extended (16.9.1996) by [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/1996/2402/schedule/paragraph/1)
 
-[^key-056e78dee416c01b82be7c499a9de4ee]: Textual amendment: Words in Pt. I substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(7)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/7), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-056e78dee416c01b82be7c499a9de4ee]: Textual amendment: Words in Pt. I substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(7)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/7), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 18. Temporary national measures[^key-87ec17c7cd384e42b4134be35c44b2a1]
+## 18. Temporary national measures[^c-87ec17c7cd384e42b4134be35c44b2a1]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-87ec17c7cd384e42b4134be35c44b2a1]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/ssi/2019/421/part/5) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [16](https://www.legislation.gov.uk/ssi/2020/466/regulation/16) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))
+[^c-87ec17c7cd384e42b4134be35c44b2a1]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/ssi/2019/421/part/5) omitted (31.12.2020) by virtue of [The Plant Health (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/466)](https://www.legislation.gov.uk/ssi/2020/466), [regs. 1(1)(c)](https://www.legislation.gov.uk/ssi/2020/466/regulation/1/1/c), [16](https://www.legislation.gov.uk/ssi/2020/466/regulation/16) (with [reg. 32](https://www.legislation.gov.uk/ssi/2020/466/regulation/32))

@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by section 12B(5) and (6) of the Local Government Finance Act 1992[^f00001].
 
-## 1. Title and commencement[^key-40acf1bf569f4233060b9267fe77d44d]
+## 1. Title and commencement[^c-40acf1bf569f4233060b9267fe77d44d]
 
 (1) The title of these Regulations is the Council Tax (Exceptions to Higher Amounts) (Wales) (Amendment) Regulations 2023.
 
 (2) These Regulations come into force on 1 April 2023.
 
-## 2. Amendments to the Council Tax (Exceptions to Higher Amounts) (Wales) Regulations 2015[^key-6a9d2679a6449cf3d23d86570dc96a5c]
+## 2. Amendments to the Council Tax (Exceptions to Higher Amounts) (Wales) Regulations 2015[^c-6a9d2679a6449cf3d23d86570dc96a5c]
 
 (1) The Council Tax (Exceptions to Higher Amounts) (Wales) Regulations 2015[^f00002] are amended as follows.
 
@@ -83,8 +83,8 @@ The Welsh Ministers’ Code of Practice on the carrying out of regulatory impact
 
 [^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Section 12B of the Act was inserted by section 139 of the Housing (Wales) Act [2014 (anaw 7)](https://www.legislation.gov.uk/anaw/2014/7).
 
-[^key-40acf1bf569f4233060b9267fe77d44d]: Commencement: Reg. 1 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/253/regulation/1/2)
+[^c-40acf1bf569f4233060b9267fe77d44d]: Commencement: Reg. 1 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/253/regulation/1/2)
 
-[^key-6a9d2679a6449cf3d23d86570dc96a5c]: Commencement: Reg. 2 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/253/regulation/1/2)
+[^c-6a9d2679a6449cf3d23d86570dc96a5c]: Commencement: Reg. 2 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/253/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2015/2068](https://www.legislation.gov.uk/uksi/2015/2068), amended by the Civil Partnership (Opposite-sex Couples) Regulations ([S.I. 2019/1458](https://www.legislation.gov.uk/uksi/2019/1458)) Schedule 3, paragraph 102(1).

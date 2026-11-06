@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Execution of works required by notice of unauthorised development[^c19535521][^key-992d05441aae3c152ad70a29ccd74b43]
+## 170. Execution of works required by notice of unauthorised development[^c19535521][^c-992d05441aae3c152ad70a29ccd74b43]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ are to be deemed to be incurred or paid for the use and at the request of the pe
 
 [^c19535521]: Commencement: S. 170 partly in force; s. 170 in force for certain purposes at Royal Assent see s. 241
 
-[^key-992d05441aae3c152ad70a29ccd74b43]: Commencement: S. 170 in force at 1.3.2010 in so far as not already in force by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-992d05441aae3c152ad70a29ccd74b43]: Commencement: S. 170 in force at 1.3.2010 in so far as not already in force by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(j)](https://www.legislation.gov.uk/uksi/2010/101/article/3/j) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Discharging functions[^key-d34766ce560226279fc27b1098210916]
+## 16. Discharging functions[^c-d34766ce560226279fc27b1098210916]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d34766ce560226279fc27b1098210916]: Commencement: S. 16 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)
+[^c-d34766ce560226279fc27b1098210916]: Commencement: S. 16 in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(b)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/b)

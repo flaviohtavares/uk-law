@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Where a child's father and mother were not married to , or civil partners of,[^key-fc448fd62a27ccb36ae59ed1b99f2b71] each other at the time of his birth\[[^c17269041], the father shall acquire parental responsibility for the child if—
+(1) Where a child's father and mother were not married to , or civil partners of,[^c-fc448fd62a27ccb36ae59ed1b99f2b71] each other at the time of his birth\[[^c17269041], the father shall acquire parental responsibility for the child if—
 
 - (a) he becomes registered as the child's father;
 - (b) he and the child's mother make an agreement[^c21145511]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . providing for him to have parental responsibility for the child; or
@@ -32,11 +32,11 @@ summary: ''
 - (b) she and the child's mother make an agreement providing for her to have parental responsibility for the child; or
 - (c) the court, on her application, orders that she shall have parental responsibility for the child.
 
-(1ZB) An agreement under paragraph (1)(b) , (1ZA)(b) or (1A)(b)[^key-97a9f294173c7bef87f46716bb4f0598] is known as a “parental responsibility agreement”.
+(1ZB) An agreement under paragraph (1)(b) , (1ZA)(b) or (1A)(b)[^c-97a9f294173c7bef87f46716bb4f0598] is known as a “parental responsibility agreement”.
 
-(1A) A child's step-parent shall acquire parental responsibility for the child if—[^key-c0bdec4b79524401188dd29c3f0d914f]
+(1A) A child's step-parent shall acquire parental responsibility for the child if—[^c-c0bdec4b79524401188dd29c3f0d914f]
 
-- (a) the court, on the application of the step-parent, orders that he shall have parental responsibility for the child; or[^key-069f7dbc451130f022078ae4d0c01ba7]
+- (a) the court, on the application of the step-parent, orders that he shall have parental responsibility for the child; or[^c-069f7dbc451130f022078ae4d0c01ba7]
 - (b) the step-parent, and—
   - (i) the parent of the child who is the spouse or civil partner of the step-parent, or
   - (ii) if the other parent of the child also has parental responsibility for the child, both parents,
@@ -85,7 +85,7 @@ subject, in the case of parental responsibility acquired by a parent[^c21145721]
 
 ## Annotations
 
-[^key-fc448fd62a27ccb36ae59ed1b99f2b71]: Textual amendment: Words in art. 7(1) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-fc448fd62a27ccb36ae59ed1b99f2b71]: Textual amendment: Words in art. 7(1) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/4) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17269041]: Textual amendment: [2001 c. 12 (NI)](https://www.legislation.gov.uk/nia/2001/12)
 
@@ -93,11 +93,11 @@ subject, in the case of parental responsibility acquired by a parent[^c21145721]
 
 [^c21145571]: Textual amendment: Art. 7(1ZA)(1ZB) inserted (6.4.2009 for certain purposes otherwise 1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [ss. 56](https://www.legislation.gov.uk/ukpga/2008/22/section/56), [68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 6 para. 72(3)](https://www.legislation.gov.uk/ukpga/2008/22/schedule/6/paragraph/72/3); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(1)(e)(f)(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/1/e/f/2) (with transitional provisions in [art.7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/479/schedule/1))
 
-[^key-97a9f294173c7bef87f46716bb4f0598]: Textual amendment: Words in art. 7(1ZB) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(5)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/5) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-97a9f294173c7bef87f46716bb4f0598]: Textual amendment: Words in art. 7(1ZB) substituted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(5)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/5) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-c0bdec4b79524401188dd29c3f0d914f]: Textual amendment: Word in art. 7(1A)(a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(6)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/6/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-c0bdec4b79524401188dd29c3f0d914f]: Textual amendment: Word in art. 7(1A)(a) inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(6)(a)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/6/a) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
-[^key-069f7dbc451130f022078ae4d0c01ba7]: Textual amendment: [Art. 7(1A)(b)](https://www.legislation.gov.uk/nisi/1995/755/article/7/1A/b) and word inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(6)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/6/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-069f7dbc451130f022078ae4d0c01ba7]: Textual amendment: [Art. 7(1A)(b)](https://www.legislation.gov.uk/nisi/1995/755/article/7/1A/b) and word inserted (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [27(6)(b)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/27/6/b) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
 
 [^c17269061]: Textual amendment: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 

@@ -22,8 +22,8 @@ summary: ''
 
 Section 83(2)(c) of FA 1996 (carrying back of non-trading deficit on loan relationships) shall not have effect in relation to the loan relationships of an authorised investment fund (so that, accordingly, if for any accounting period there is a deficit on the loan relationships of the authorised investment fund, the deficit may not be carried back to be set off against profits for earlier accounting periods).
 
-This is subject to regulation 14B (tax treatment of qualified investor schemes).[^key-036af8c0c7a2bbbff4900da9b2a9ed6c]
+This is subject to regulation 14B (tax treatment of qualified investor schemes).[^c-036af8c0c7a2bbbff4900da9b2a9ed6c]
 
 ## Annotations
 
-[^key-036af8c0c7a2bbbff4900da9b2a9ed6c]: Textual amendment: Words in reg. 14 inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2008/3159/regulation/9)
+[^c-036af8c0c7a2bbbff4900da9b2a9ed6c]: Textual amendment: Words in reg. 14 inserted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2008/3159/regulation/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Disposal of recently improved land[^key-6c08293c212b6bf73311e793a11c6ca3]
+## 98. Disposal of recently improved land[^c-6c08293c212b6bf73311e793a11c6ca3]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c08293c212b6bf73311e793a11c6ca3]: Commencement: Reg. 98 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-6c08293c212b6bf73311e793a11c6ca3]: Commencement: Reg. 98 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

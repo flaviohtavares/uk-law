@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Gifts of money for relief in poor countries.[^key-737137bdb6de9bff270e6309db8cc10e]
+## 48. Gifts of money for relief in poor countries.[^c-737137bdb6de9bff270e6309db8cc10e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-737137bdb6de9bff270e6309db8cc10e]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/1998/36/section/48) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 2(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/2/1)
+[^c-737137bdb6de9bff270e6309db8cc10e]: Textual amendment: [S. 48](https://www.legislation.gov.uk/ukpga/1998/36/section/48) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 2(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/2/1)

@@ -37,12 +37,12 @@ An Act to implement the Convention on the Prevention and Punishment of Crimes ag
 
 (1)[^c908892] If a person, whether a citizen of the United Kingdom and Colonies or not, does outside the United Kingdom—
 
-- (a) any act to or in relation to a protected person which, if he had done it in any part of the United Kingdom, would have made him guilty of the offence of murder, manslaughter, culpable homicide, [^key-efaf6cc3ea084da37d11c366d3dc00ff]... assault occasioning actual bodily harm or causing injury, kidnapping, abduction, false imprisonment or plagium or an offence under section 18, 20, 21, 22, 23, 24, 28, 29, 30 or 56 of the Offences against the [^c908893]Person Act 1861 or section 2 of the [^c908894]Explosive Substances Act 1883 or an offence listed in subsection (1A)[^key-f4c743a1f6bbcf9c9ebd3ebf7dfe9329]; or
+- (a) any act to or in relation to a protected person which, if he had done it in any part of the United Kingdom, would have made him guilty of the offence of murder, manslaughter, culpable homicide, [^c-efaf6cc3ea084da37d11c366d3dc00ff]... assault occasioning actual bodily harm or causing injury, kidnapping, abduction, false imprisonment or plagium or an offence under section 18, 20, 21, 22, 23, 24, 28, 29, 30 or 56 of the Offences against the [^c908893]Person Act 1861 or section 2 of the [^c908894]Explosive Substances Act 1883 or an offence listed in subsection (1A)[^c-f4c743a1f6bbcf9c9ebd3ebf7dfe9329]; or
 - (b) in connection with an attack on any relevant premises or on any vehicle ordinarily used by a protected person which is made when a protected person is on or in the premises or vehicle, any act which, if he had done it in any part of the United Kingdom, would have made him guilty of an offence under section 2 of the [^c908895]Explosive Substances Act 1883, section 1 of the [^c908896]Criminal Damage Act 1971 or article 3 of the [^c908897]Criminal Damage (Northern Ireland) Order 1977 or the offence of wilful fire-raising,
 
 he shall in any part of the United Kingdom be guilty of the offences aforesaid of which the act would have made him guilty if he had done it there.
 
-(1A)[^key-05c9eab1bc0b5a151290ae4525afe3b9] The offences mentioned in subsection (1)(a) are—
+(1A)[^c-05c9eab1bc0b5a151290ae4525afe3b9] The offences mentioned in subsection (1)(a) are—
 
 - (a) in Scotland or Northern Ireland, rape;
 - (b) an offence under section 1 or 2 of the Sexual Offences Act 2003;
@@ -85,14 +85,14 @@ and if in any proceedings a question arises as to whether a person is or was a p
 
 ## 2. Provisions supplementary to s. 1.
 
-(1) Proceedings for an offence which (disregarding the provisions of the [^c908906]Suppression of Terrorism Act 1978 , the Nuclear Material (Offences) Act 1983[^c908907] , the United Nations Personnel Act 1997 and the Terrorism Act 2000[^key-a4bde5b5ac87bb99bd84f56f8b458653]) would not be an offence apart from the preceding section shall not be begun—
+(1) Proceedings for an offence which (disregarding the provisions of the [^c908906]Suppression of Terrorism Act 1978 , the Nuclear Material (Offences) Act 1983[^c908907] , the United Nations Personnel Act 1997 and the Terrorism Act 2000[^c-a4bde5b5ac87bb99bd84f56f8b458653]) would not be an offence apart from the preceding section shall not be begun—
 
-- (a) in Northern Ireland, except by or with the consent of the Advocate General for Northern Ireland[^key-97facb538f76d72e4b4882a3aba28f30];
+- (a) in Northern Ireland, except by or with the consent of the Advocate General for Northern Ireland[^c-97facb538f76d72e4b4882a3aba28f30];
 - (b) in England and Wales, except by or with the consent of the Attorney General;
 
-[^key-212e86638efbd8429f25ba10c51ae62c]...
+[^c-212e86638efbd8429f25ba10c51ae62c]...
 
-(2) Without prejudice to any jurisdiction exercisable apart from this subsection, every sheriff court in Scotland shall have jurisdiction to entertain proceedings for an offence which (disregarding the provisions of the [^c908909]Suppression of Terrorism Act 1978 , the Nuclear Material (Offences) Act 1983 , the United Nations Personnel Act 1997 and the Terrorism Act 2000[^key-dc9dea715dedb41eaa198f2e8da197b9]) would not be an offence in Scotland apart from the preceding section.
+(2) Without prejudice to any jurisdiction exercisable apart from this subsection, every sheriff court in Scotland shall have jurisdiction to entertain proceedings for an offence which (disregarding the provisions of the [^c908909]Suppression of Terrorism Act 1978 , the Nuclear Material (Offences) Act 1983 , the United Nations Personnel Act 1997 and the Terrorism Act 2000[^c-dc9dea715dedb41eaa198f2e8da197b9]) would not be an offence in Scotland apart from the preceding section.
 
 (3) Nothing in the preceding section shall prejudice the operation of any rule of law relating to attempts to commit offences, section 8 of the [^c908911]Accessories and Abettors Act 1861 or any rule of law in Scotland relating to art and part guilt.
 
@@ -148,13 +148,13 @@ and if in any proceedings a question arises as to whether a person is or was a p
 
 [^c908892]: Modification: S. 1(1) restricted by [Child Abduction Act 1984 (c. 37, SIF 39:4)](https://www.legislation.gov.uk/ukpga/1984/37), [s. 11(3)](https://www.legislation.gov.uk/ukpga/1984/37/section/11/3)
 
-[^key-efaf6cc3ea084da37d11c366d3dc00ff]: Textual amendment: Word in [s. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1978/17/section/1/1/a) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 22(a)(i)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/22/a/i), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-efaf6cc3ea084da37d11c366d3dc00ff]: Textual amendment: Word in [s. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1978/17/section/1/1/a) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 22(a)(i)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/22/a/i), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c908893]: Marginal citation: [1861 c. 100](https://www.legislation.gov.uk/ukpga/1861/100).
 
 [^c908894]: Marginal citation: [1883 c. 3](https://www.legislation.gov.uk/ukpga/1883/3).
 
-[^key-f4c743a1f6bbcf9c9ebd3ebf7dfe9329]: Textual amendment: Words in [s. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1978/17/section/1/1/a) inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 22(a)(ii)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/22/a/ii); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-f4c743a1f6bbcf9c9ebd3ebf7dfe9329]: Textual amendment: Words in [s. 1(1)(a)](https://www.legislation.gov.uk/ukpga/1978/17/section/1/1/a) inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 22(a)(ii)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/22/a/ii); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c908895]: Marginal citation: [1883 c. 3](https://www.legislation.gov.uk/ukpga/1883/3).
 
@@ -162,21 +162,21 @@ and if in any proceedings a question arises as to whether a person is or was a p
 
 [^c908897]: Marginal citation: S.I. [1977 No. 426](https://www.legislation.gov.uk/ukcm/1977/426) (N.I. 1)
 
-[^key-05c9eab1bc0b5a151290ae4525afe3b9]: Textual amendment: [S. 1(1A)](https://www.legislation.gov.uk/ukpga/1978/17/section/1/1A) inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 22(b)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/22/b); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-05c9eab1bc0b5a151290ae4525afe3b9]: Textual amendment: [S. 1(1A)](https://www.legislation.gov.uk/ukpga/1978/17/section/1/1A) inserted (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 6 para. 22(b)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/22/b); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c908906]: Marginal citation: [1978 c. 26](https://www.legislation.gov.uk/ukpga/1978/26).
 
 [^c908907]: Textual amendment: Words in s. 2(1)(2) substituted (27.4.1997) by [1997 c. 13](https://www.legislation.gov.uk/ukpga/1997/13), [ss. 7](https://www.legislation.gov.uk/ukpga/1997/13/section/7), [10(2)](https://www.legislation.gov.uk/ukpga/1997/13/section/10/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/1997/13/schedule/paragraph/2)
 
-[^key-a4bde5b5ac87bb99bd84f56f8b458653]: Textual amendment: Words in s. 2(1) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/2); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/786/article/3/2)
+[^c-a4bde5b5ac87bb99bd84f56f8b458653]: Textual amendment: Words in s. 2(1) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/2); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/786/article/3/2)
 
-[^key-97facb538f76d72e4b4882a3aba28f30]: Textual amendment: Words in s. 2(1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/29); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/e)
+[^c-97facb538f76d72e4b4882a3aba28f30]: Textual amendment: Words in s. 2(1) substituted (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2002/26/schedule/7/paragraph/29); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 19(e)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/19/e)
 
-[^key-212e86638efbd8429f25ba10c51ae62c]: Textual amendment: Words in s. 2(1) repealed (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 21(h)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/21/h)
+[^c-212e86638efbd8429f25ba10c51ae62c]: Textual amendment: Words in s. 2(1) repealed (12.4.2010) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [s. 87(1)](https://www.legislation.gov.uk/ukpga/2002/26/section/87/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2010/113](https://www.legislation.gov.uk/nisr/2010/113), [art. 2](https://www.legislation.gov.uk/nisr/2010/113/article/2), [Sch. para. 21(h)](https://www.legislation.gov.uk/nisr/2010/113/schedule/paragraph/21/h)
 
 [^c908909]: Marginal citation: [1978 c. 26](https://www.legislation.gov.uk/ukpga/1978/26).
 
-[^key-dc9dea715dedb41eaa198f2e8da197b9]: Textual amendment: Words in s. 2(2) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/2); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/786/article/3/2)
+[^c-dc9dea715dedb41eaa198f2e8da197b9]: Textual amendment: Words in s. 2(2) substituted (26.4.2004) by [Crime (International Co-operation) Act 2003 (c. 32)](https://www.legislation.gov.uk/ukpga/2003/32), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2003/32/section/94/1), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2003/32/schedule/5/paragraph/2); [S.I. 2004/786](https://www.legislation.gov.uk/uksi/2004/786), [art. 3(1)](https://www.legislation.gov.uk/uksi/2004/786/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2004/786/article/3/2)
 
 [^c908911]: Marginal citation: [1861 c. 94](https://www.legislation.gov.uk/ukpga/1861/94).
 

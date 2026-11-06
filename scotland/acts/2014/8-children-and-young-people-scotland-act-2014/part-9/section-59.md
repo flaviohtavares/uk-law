@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 59. Planning by corporate parents[^key-9367d19ac26a8b2ba2cba1c4584edfd6]
+## 59. Planning by corporate parents[^c-9367d19ac26a8b2ba2cba1c4584edfd6]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9367d19ac26a8b2ba2cba1c4584edfd6]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2014/8/section/59) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)
+[^c-9367d19ac26a8b2ba2cba1c4584edfd6]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2014/8/section/59) in force at 1.4.2015 by [S.S.I. 2015/61](https://www.legislation.gov.uk/ssi/2015/61), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/61/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2015/61/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/61/schedule)

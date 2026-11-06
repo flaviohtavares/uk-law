@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 12 — TREES SUBJECT TO TREE PRESERVATION ORDERS AND WITHIN CONSERVATION AREAS[^key-67537946433073f6595d574a1872f48a]
+## SCHEDULE 12 — TREES SUBJECT TO TREE PRESERVATION ORDERS AND WITHIN CONSERVATION AREAS[^c-67537946433073f6595d574a1872f48a]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Article 54(1)
 
 ## Annotations
 
-[^key-67537946433073f6595d574a1872f48a]: Commencement: Sch. 12 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-67537946433073f6595d574a1872f48a]: Commencement: Sch. 12 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

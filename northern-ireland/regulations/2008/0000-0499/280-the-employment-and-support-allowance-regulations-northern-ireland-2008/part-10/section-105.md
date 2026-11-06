@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Capital treated as income[^key-aa1bdc42b8dc661eb20eec45dca2c62c]
+## 105. Capital treated as income[^c-aa1bdc42b8dc661eb20eec45dca2c62c]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ is to be treated as income if the aggregate of the instalments outstanding and t
 
 ## Annotations
 
-[^key-aa1bdc42b8dc661eb20eec45dca2c62c]: Commencement: [Reg. 105](https://www.legislation.gov.uk/nisr/2008/280/regulation/105) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-aa1bdc42b8dc661eb20eec45dca2c62c]: Commencement: [Reg. 105](https://www.legislation.gov.uk/nisr/2008/280/regulation/105) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)

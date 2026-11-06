@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 135. Debt payable at a future time[^key-4d83a24edf522de7d54d82ab8b47abb6]
+## 135. Debt payable at a future time[^c-4d83a24edf522de7d54d82ab8b47abb6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Subject to rule 152 of these Rules, a creditor may prove for a debt of which pay
 
 ## Annotations
 
-[^key-4d83a24edf522de7d54d82ab8b47abb6]: Commencement: [Rule 135](https://www.legislation.gov.uk/nisr/2026/11/rule/135) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-4d83a24edf522de7d54d82ab8b47abb6]: Commencement: [Rule 135](https://www.legislation.gov.uk/nisr/2026/11/rule/135) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29.3. Case management conference and pre-trial review[^key-e1853a92daab08c2f6d27e362fda897a]
+## 29.3. Case management conference and pre-trial review[^c-e1853a92daab08c2f6d27e362fda897a]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ at any time after the claim has been allocated.
 
 ## Annotations
 
-[^key-e1853a92daab08c2f6d27e362fda897a]: Commencement: [Rule 29.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/29.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-e1853a92daab08c2f6d27e362fda897a]: Commencement: [Rule 29.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/29.3) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

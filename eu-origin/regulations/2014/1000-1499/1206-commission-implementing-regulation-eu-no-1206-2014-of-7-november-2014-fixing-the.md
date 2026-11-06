@@ -33,31 +33,31 @@ of 7 November 2014
 
 fixing the import duties in the cereals sector applicable from 8 November 2014 (revoked)
 
-[^key-1c31b40459098ea4c5fdb768ca25f9bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1c31b40459098ea4c5fdb768ca25f9bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-1c31b40459098ea4c5fdb768ca25f9bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1c31b40459098ea4c5fdb768ca25f9bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1c31b40459098ea4c5fdb768ca25f9bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1c31b40459098ea4c5fdb768ca25f9bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1c31b40459098ea4c5fdb768ca25f9bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1c31b40459098ea4c5fdb768ca25f9bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Import duties on the products referred to in Article 1(1) of Regulation (EU) No 642/2010 applicable from 8 November 2014[^key-1c31b40459098ea4c5fdb768ca25f9bd]
+## ANNEX I — Import duties on the products referred to in Article 1(1) of Regulation (EU) No 642/2010 applicable from 8 November 2014[^c-1c31b40459098ea4c5fdb768ca25f9bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Factors for calculating the duties laid down in Annex I[^key-1c31b40459098ea4c5fdb768ca25f9bd]
+## ANNEX II — Factors for calculating the duties laid down in Annex I[^c-1c31b40459098ea4c5fdb768ca25f9bd]
 
-[^key-1c31b40459098ea4c5fdb768ca25f9bd]1.
+[^c-1c31b40459098ea4c5fdb768ca25f9bd]1.
 
 Averages over the reference period referred to in Article 2(2) of Regulation (EU) No 642/2010:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1c31b40459098ea4c5fdb768ca25f9bd]2.
+[^c-1c31b40459098ea4c5fdb768ca25f9bd]2.
 
 Averages over the reference period referred to in Article 2(2) of Regulation (EU) No 642/2010:
 
@@ -65,4 +65,4 @@ Averages over the reference period referred to in Article 2(2) of Regulation (EU
 
 ## Annotations
 
-[^key-1c31b40459098ea4c5fdb768ca25f9bd]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-1c31b40459098ea4c5fdb768ca25f9bd]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

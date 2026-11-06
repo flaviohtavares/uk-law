@@ -24,7 +24,7 @@ Article 2(1) and 44
 
 ### PART 1 — REQUIREMENTS
 
-#### 1. Interpretation[^key-22246cc90c4e10bee20997e6845b886d]
+#### 1. Interpretation[^c-22246cc90c4e10bee20997e6845b886d]
 
 In this Schedule unless the context requires otherwise—
 
@@ -68,11 +68,11 @@ In this Schedule unless the context requires otherwise—
 - “sustainable transport working group” means the group membership, duties and protocol of which is set out in Schedule 15; and
 - “water framework directive assessment” means the document of that description (document number NGW-BWB-EWE-XX-RP-YE-0004\_S2\_P2) contained in the statement of common ground dated 2nd November 2018 made between the Environment Agency and Roxhill (Junction 15) Ltd (examination library reference \[REP1-015\]).
 
-#### 2. Time limit[^key-093a9ea925a89089d552cc0a25cd57bb]
+#### 2. Time limit[^c-093a9ea925a89089d552cc0a25cd57bb]
 
 The authorised development must commence within 5 years of the date on which this Order comes into force.
 
-#### 3. Components of development and phasing[^key-0b9342d24b0c21ae8bb0f40e07704906]
+#### 3. Components of development and phasing[^c-0b9342d24b0c21ae8bb0f40e07704906]
 
 (1) No component of the authorised development on the main site is to commence until details of the phasing of that component have been submitted to and approved in writing by the relevant planning authority (following consultation with Northampton Borough Council or any successor authority). The components for the purposes of this schedule are—
 
@@ -89,11 +89,11 @@ The authorised development must commence within 5 years of the date on which thi
 
 (2) The authorised development must be carried out in accordance with the approach to phasing set out on the main site phasing plan and the main site built development and landscape surrounds proposed components and sequence plan unless otherwise agreed in writing with the relevant planning authority.
 
-(3)[^key-16b636489a34f55f78086308cd507d94] There is to be no occupation of any of the warehousing until the undertaker has completed the rail infrastructure within the area coloured pink on the rail infrastructure plan. On completion of the rail infrastructure, no more than 232,260 square metres of the warehousing is to be occupied (including any warehouse erected pursuant to the planning permission reference WNS/2021/1860/MAF, as amended) until both of the connections to the West Coast Main Line railway have been constructed and commissioned sufficient for the rail terminal to be operational.
+(3)[^c-16b636489a34f55f78086308cd507d94] There is to be no occupation of any of the warehousing until the undertaker has completed the rail infrastructure within the area coloured pink on the rail infrastructure plan. On completion of the rail infrastructure, no more than 232,260 square metres of the warehousing is to be occupied (including any warehouse erected pursuant to the planning permission reference WNS/2021/1860/MAF, as amended) until both of the connections to the West Coast Main Line railway have been constructed and commissioned sufficient for the rail terminal to be operational.
 
 (4) Following the provision of the rail infrastructure, no rail infrastructure must be removed which would impede the ability of the rail terminal to handle four intermodal trains per day unless otherwise agreed in writing by the relevant planning authority.
 
-#### 4. Sustainable transport[^key-6688d47e7833b3dcf9ddac787b508f46]
+#### 4. Sustainable transport[^c-6688d47e7833b3dcf9ddac787b508f46]
 
 (1) The provisions of the framework travel plan or any variation of such plan agreed by the transport working group must be complied with at all times following the commencement of the authorised development unless otherwise agreed in writing by the relevant planning authority.
 
@@ -116,13 +116,13 @@ The authorised development must commence within 5 years of the date on which thi
 
 (9) Prior to the occupation of any warehouse, the HGV monitoring scheme (including the HGV monitoring system) must be approved in writing by the local highway authority. The monitoring system must be installed in accordance with the approved HGV monitoring scheme and must be operative prior to the occupation of any warehouse. Thereafter the HGV monitoring system must be kept in operation and in good working order at all times and any deficiencies in the operation of the system must be remedied as expeditiously as possible.
 
-#### 5. Design and phasing of highway works[^key-2af492836e2a56575134f53b9e555f6c]
+#### 5. Design and phasing of highway works[^c-2af492836e2a56575134f53b9e555f6c]
 
 (1) The highway works must be carried out in accordance with details first submitted to and approved by the relevant body in accordance with the provisions of Parts 2 and 3 of Schedule 13 (protective provisions).
 
 (2) The height of fencing along the Roade bypass (Works No. 13) is to be in accordance with Figure 8.6 of Chapter 8 of the environmental statement.
 
-**6.**[^key-90cf366d27a6253ad77eb7cab06d0604] The undertaker must complete the highway works identified in column (1) of the table below by no later than the stage of the authorised development set out in column (3) of the table below or such alternative later stage or event as agreed by the relevant body identified in column (4).
+**6.**[^c-90cf366d27a6253ad77eb7cab06d0604] The undertaker must complete the highway works identified in column (1) of the table below by no later than the stage of the authorised development set out in column (3) of the table below or such alternative later stage or event as agreed by the relevant body identified in column (4).
 
 | *(1)*<br>*Works as described in Schedule 1* | *(2)*<br>*Description* | *(3)*<br>*Stage of Development* | *(4)*<br>*Relevant Body* |
 | --- | --- | --- | --- |
@@ -138,14 +138,14 @@ The authorised development must commence within 5 years of the date on which thi
 | Works No. 16(1) and (2) | Knock Lane/Blisworth Road (Parish of Roade) improvements | To be completed prior to the opening to traffic of the A508 Roade Bypass (Works No. 13) | Local highway authority |
 | Works No. 17 | A508 Grafton Regis improvements | To be completed prior to the opening to traffic of the A508 Roade Bypass (Works No. 13) | Local highway authority |
 
-#### 7. Highway alternatives[^key-fa776aaf74cdd86b52d7c72c78f96ac7]
+#### 7. Highway alternatives[^c-fa776aaf74cdd86b52d7c72c78f96ac7]
 
 The works described in Works No. 8(2)(b) and shown on Documents 2.4T and 2.4U are only to be constructed as an alternative to those described in Works No. 8(2)(a) and shown on Documents 2.4A and 2.4B in the event that—
 
 - (a) the construction of that part of the M1 J13-16 Smart Motorway Project to be carried out within 1.5 kilometres of J15 (in a northerly and southerly direction) has not commenced and is not programmed to be commenced by Highways England by the expiry of a period of six months from the date upon which the undertaker wishes to commence Works No. 8; and
 - (b) the undertaker so elects and serves notice of such election on Highways England, the local highway authority and the relevant planning authority.
 
-#### 8. Detailed design approval[^key-cf5fece65a1663b7ab2b6bd4654dd183]
+#### 8. Detailed design approval[^c-cf5fece65a1663b7ab2b6bd4654dd183]
 
 (1) The details of each component of the authorised development on the main site referred to in requirement 3 (components of development and phasing) must be in accordance with the parameters plan and the principles set out in the design and access statement. The design and access statement can be reviewed and updated by the undertaker in agreement, and in writing, with the relevant planning authority.
 
@@ -173,9 +173,9 @@ The works described in Works No. 8(2)(b) and shown on Documents 2.4T and 2.4U ar
 - (t) substations; and
 - (u) telecommunication masts.
 
-**9.**[^key-a2bc96142bcdb74c0ef5c2b5cc5b3722] The details in requirement 8(2)(a) to (u) can be subject to alteration by approval in writing from the relevant planning authority. The authorised development must be carried out in accordance with the details as approved in writing by the relevant planning authority from time to time.
+**9.**[^c-a2bc96142bcdb74c0ef5c2b5cc5b3722] The details in requirement 8(2)(a) to (u) can be subject to alteration by approval in writing from the relevant planning authority. The authorised development must be carried out in accordance with the details as approved in writing by the relevant planning authority from time to time.
 
-#### 10. Provision of landscaping[^key-3b7fabfea5e682b6dbce7b99e3ccf057]
+#### 10. Provision of landscaping[^c-3b7fabfea5e682b6dbce7b99e3ccf057]
 
 (1) No component of the authorised development on the main site which includes landscaping (excluding archaeological investigation, ecological mitigation works and geotechnical or ground contamination investigation) is to commence until a landscaping scheme for that component has been submitted to and approved in writing by the relevant planning authority (following consultation with Northampton Borough Council or any successor authority). The landscaping scheme must be carried out in accordance with the parameters plan and the landscape and ecological management plan and in accordance with the principles established in the illustrative landscape plan (main site) and must include details of all proposed soft landscaping works, including—
 
@@ -185,7 +185,7 @@ The works described in Works No. 8(2)(b) and shown on Documents 2.4T and 2.4U ar
 - (d) details of ecological mitigation; and
 - (e) implementation timetable.
 
-#### 11. Landscape and ecological management plan[^key-a17e5ac77c8b6d2f1283c45bf99b03d9]
+#### 11. Landscape and ecological management plan[^c-a17e5ac77c8b6d2f1283c45bf99b03d9]
 
 (1) The authorised development must be carried out in accordance with the landscape and ecological management plan. The management plan may be subject to alteration by agreement in writing by the relevant planning authority.
 
@@ -193,13 +193,13 @@ The works described in Works No. 8(2)(b) and shown on Documents 2.4T and 2.4U ar
 
 (3) Any ecological works carried out under the landscape and ecological management plan must be supervised by a suitably qualified person or body.
 
-#### 12. Construction environmental management plan[^key-6a8b676867d52ddaa3ed4e1c1c9480ea]
+#### 12. Construction environmental management plan[^c-6a8b676867d52ddaa3ed4e1c1c9480ea]
 
 (1) No part of the authorised development is to commence, including any preparatory earthworks or site levelling but excluding archaeological investigation, ecological mitigation works and geotechnical or ground contamination investigation, until a phase-specific construction environmental management plan (“P-CEMP”) for that part of the authorised development, drafted in accordance with the principles set out in the construction environmental management plan, and, insofar as on-site construction plant are concerned, having regard to the principles in “The Institute of Air Quality Management guidance on assessing dust emissions”, current from time to time, has been submitted to and approved in writing by the relevant planning authority (following consultation with Northampton Borough Council or any successor authority) or the relevant highway authority where the P-CEMP relates to the highway works.
 
 (2) Each P-CEMP is to be reviewed and updated if necessary to address unacceptable impacts arising from construction works. Each P-CEMP (and revision) must be submitted by the undertaker for approval in writing by the relevant planning authority or the relevant highway authority where the P-CEMP (or revision) relates to the highway works. All construction works must be carried out in accordance with the relevant P-CEMP (as revised) as approved.
 
-#### 13. Earthworks[^key-dc21efa0094864dec50cec6e9f55e11e]
+#### 13. Earthworks[^c-dc21efa0094864dec50cec6e9f55e11e]
 
 No component of the authorised development on the main site (excluding archaeological investigation, ecological mitigation works and geotechnical or ground contamination investigation) is to commence until details of—
 
@@ -211,7 +211,7 @@ No component of the authorised development on the main site (excluding archaeolo
 
 have been approved in advance and in writing by the relevant planning authority. The details can be subject to alteration with the approval in writing of the relevant planning authority. All earthworks must be carried out in accordance with the details as approved.
 
-#### 14. Archaeology and built heritage[^key-aafdca70aa8f2dbc80bf9347e39e74db]
+#### 14. Archaeology and built heritage[^c-aafdca70aa8f2dbc80bf9347e39e74db]
 
 (1) No part of the authorised development is to commence (with the exception of Works No. 8(2)(a) and (b)) until the undertaker has commissioned a programme of further exploratory archaeological investigation to identify areas which should be excavated and archaeological remains recorded which has been submitted to and approved in writing by the relevant planning authority. The exploratory investigation must be carried out in accordance with the approved programme and must be timed so that the results can inform the scope of the further archaeological mitigation measures, referred to in sub-paragraph (2).
 
@@ -226,7 +226,7 @@ have been approved in advance and in writing by the relevant planning authority.
 
 (4) No part of the authorised development on the main site (including demolition works) is to commence until a full Level 2 record of the buildings on the main site to be demolished has been undertaken. The record must be carried out in accordance with a written specification first agreed with the relevant planning authority and prepared by a competent building recorder in accordance with Historic England Understanding Historic Buildings, A Guide to Good Recording Practice, 2016 (as amended from time to time) and must be submitted to the relevant planning authority prior to the commencement of any part of the authorised development on the main site.
 
-#### 15. Lighting details[^key-1f5ecc9701fe9da86935367b42e34825]
+#### 15. Lighting details[^c-1f5ecc9701fe9da86935367b42e34825]
 
 (1) Prior to the commencement of each component of the authorised development on the main site which includes permanent lighting, details of the proposed permanent external lighting in that component must be submitted to and approved in writing by the relevant planning authority (following consultation with Northampton Borough Council or any successor authority). The lighting details must accord with the principles established in the lighting strategy.
 
@@ -234,7 +234,7 @@ have been approved in advance and in writing by the relevant planning authority.
 
 (3) The details submitted under this requirement must include details of any lighting on any gantry cranes included in the component concerned.
 
-#### 16. Building sustainability[^key-491622a71b84f6c329d566a0037c642f]
+#### 16. Building sustainability[^c-491622a71b84f6c329d566a0037c642f]
 
 (1) No construction of a warehouse must start until a BREEAM Pre-Assessment Report based upon the BREEAM 2018 method (or equivalent) has been submitted to and approved in writing by the relevant planning authority demonstrating that the warehouse concerned is expected to achieve at least a BREEAM 2018 “Very Good” rating (BREEAM Industrial 2008 “Excellent”).
 
@@ -242,25 +242,25 @@ have been approved in advance and in writing by the relevant planning authority.
 
 (3) The authorised development must comply with the principles set out in the sustainability statement.
 
-#### 17. Flood risk and surface water drainage[^key-6032090d3f4c5f17bfe87b91517e588d]
+#### 17. Flood risk and surface water drainage[^c-6032090d3f4c5f17bfe87b91517e588d]
 
 The authorised development must be carried out in accordance with the mitigation measures detailed within the flood risk assessment and the water framework directive assessment, or be carried out in accordance with any variation to these measures agreed in writing with the Environment Agency, the lead local flood authority or the approving body under Schedule 3 (sustainable drainage) to the Flood and Water Management Act 2010[^f00075], whichever of these is the body having jurisdiction over the watercourse in question.
 
-**18.**[^key-01646be7aa72b80080f0126048931bd8] (1) No component of the authorised development on the main site (excluding archaeological investigation, ecological mitigation works and geotechnical or ground contamination investigation) must commence until a surface water drainage scheme for that component based on sustainable drainage principles has been submitted to and approved in writing by the lead local flood authority. The scheme must be in accordance with the sustainable drainage statement and must be informed by additional infiltration testing in accordance with BRE standard 365 “Soakaway design”, the extent of which is to be approved in advance by the lead local flood authority, the aim of which is to identify the maximum extent of reliance upon infiltration in accordance with the drainage hierarchy set out in the sustainable drainage strategy.
+**18.**[^c-01646be7aa72b80080f0126048931bd8] (1) No component of the authorised development on the main site (excluding archaeological investigation, ecological mitigation works and geotechnical or ground contamination investigation) must commence until a surface water drainage scheme for that component based on sustainable drainage principles has been submitted to and approved in writing by the lead local flood authority. The scheme must be in accordance with the sustainable drainage statement and must be informed by additional infiltration testing in accordance with BRE standard 365 “Soakaway design”, the extent of which is to be approved in advance by the lead local flood authority, the aim of which is to identify the maximum extent of reliance upon infiltration in accordance with the drainage hierarchy set out in the sustainable drainage strategy.
 
 (2) The surface water drainage scheme must be implemented in accordance with the details approved by the lead local flood authority or in accordance with any variations to those details agreed in writing by the lead local flood authority.
 
-#### 19. Flood Risk[^key-4272f369a2571aa33c35eb0505b8f05c]
+#### 19. Flood Risk[^c-4272f369a2571aa33c35eb0505b8f05c]
 
 Any element of the authorised development which directly affects any floodplain must not be commenced until such time as a floodplain compensation scheme has been submitted to and approved in writing by the relevant planning authority. The scheme must accord with the principles established in the flood compensation measures set out in the flood risk assessment. Except for the floodplain compensation scheme itself, no above-ground part of the authorised development in any floodplain may be commenced until the relevant compensation scheme has been implemented in full. The scheme must be fully implemented and subsequently maintained in accordance with the timing and phasing arrangements embodied within the scheme or within any other period as may subsequently be agreed in writing by the relevant planning authority.
 
-#### 20. Foul water drainage[^key-14827443499f24cd1baabf3f2d69214a]
+#### 20. Foul water drainage[^c-14827443499f24cd1baabf3f2d69214a]
 
 (1) Prior to the commencement of the authorised development on the main site, excluding earthworks, archaeological investigation or ecological mitigation works, a foul water drainage strategy must be submitted to and approved in writing by the relevant planning authority. Except where it is constructed in accordance with the approved foul water drainage strategy, no component of the authorised development is to commence until written details of the foul water drainage system for that component have been submitted to and approved in writing by the relevant planning authority. Such details must be implemented as approved by the relevant planning authority.
 
 (2) Works No. 10 must be completed prior to the occupation of the first warehouse to be occupied.
 
-#### 21. Construction hours[^key-0e0e9cb70b2d184a39c329eca457b359]
+#### 21. Construction hours[^c-0e0e9cb70b2d184a39c329eca457b359]
 
 (1) Subject to sub-paragraph (2), construction and demolition works on the main site (which for the purposes of this requirement excludes archaeological investigations and any non-intrusive internal fit-out works but does include start up and shut down and deliveries) must not take place other than between 07:00 and 19:00 hours on weekdays and 07:00 and 16:00 hours on Saturdays and not at all on Sundays nor on public holidays, unless otherwise agreed in writing by the relevant planning authority. Outside the above periods the following working is permitted—
 
@@ -272,11 +272,11 @@ Any element of the authorised development which directly affects any floodplain 
 
 (3) Any emergency works carried out under sub-paragraph (1)(b) must be notified to the relevant planning authority within 72 hours of their commencement.
 
-#### 22. Construction noise[^key-074586d3c312f542ef5f8b7f83dd70ce]
+#### 22. Construction noise[^c-074586d3c312f542ef5f8b7f83dd70ce]
 
 The management of construction noise must be carried out in accordance with the relevant phase-specific construction environmental management plan. If required by the relevant planning authority, consents under section 61 of the Control of Pollution Act 1974[^f00076] are to be sought for the works or specific phases of the works.
 
-#### 23. Noise during the operational phase[^key-d73ffe2cadfbd8ec58b420996f6e74f9]
+#### 23. Noise during the operational phase[^c-d73ffe2cadfbd8ec58b420996f6e74f9]
 
 (1) Prior to installation, details of all mechanical and ventilation plant and any other noise-making machinery, or mobile plant (including HGV chiller units) that is intended to be used on any of the warehouses or other buildings within the main site, must be submitted to and approved in writing by the relevant planning authority. This will include an assessment of the expected noise impact at relevant receptors using a methodology first approved in writing by the relevant planning authority. The assessment will consider noise from the proposed plant and machinery to demonstrate compliance with government and local policy on noise. Any fixed plant or ventilation equipment must be installed and operated in accordance with manufacturers’ instructions at all times.
 
@@ -284,11 +284,11 @@ The management of construction noise must be carried out in accordance with the 
 
 (3) In the event that between 2032 and 2042 there is an increase in the number of train movements at night arising from the use of the authorised development the undertaker must during the course of 2042 carry out a scheme of monitoring of the operational railway noise arising from the use of the authorised development. The scheme of monitoring must first be approved by the relevant planning authority and be designed to establish whether there is a significant adverse effect (as defined in paragraph 8.3.32 of chapter 8 of the environmental statement) at any residential property arising from night-time maximum levels. In the event of there being significant adverse effects as a result of the use of the authorised development the undertaker must agree with the relevant planning authority a noise insulation scheme for the properties concerned, based on the principles of the 1996 Regulations, and must implement the agreed scheme in accordance with a timetable agreed with the relevant planning authority.
 
-#### 24. Monitoring of complaints[^key-3b3ec3c418297dca4c4f5d58bc422f80]
+#### 24. Monitoring of complaints[^c-3b3ec3c418297dca4c4f5d58bc422f80]
 
 In the event that complaints regarding alleged noise nuisance are received by the relevant planning authority during the construction and operational phase, the undertaker must, unless otherwise agreed in writing with the relevant planning authority, at its own expense, employ a consultant approved by the relevant planning authority to carry out an assessment of the noise which is the subject of the complaint. The assessment must be carried out according to an appropriate methodology agreed with the relevant planning authority and the results of the assessment must be submitted to the relevant planning authority within 28 days of the assessment being completed. If it is found that the effect of noise from the authorised development is greater than was anticipated, recommendations for appropriate remedial measures must be made.
 
-#### 25. Contamination risk[^key-ad602fe789b567234659c79a92952f54]
+#### 25. Contamination risk[^c-ad602fe789b567234659c79a92952f54]
 
 (1) None of the authorised development is to commence on any specifically identified localised areas of land within the Order limits potentially affected by contamination as identified within the desk study contained within chapter 6 of the environmental statement until further investigations and a risk based land contamination assessment (geo-environmental interpretative report) has been undertaken in line with the recommendations made within the desk study for that localised area of the Order limits and this has been submitted to and approved in writing by the relevant planning authority. The risk based land contamination assessment must be carried out in accordance with the Environment Agency’s Land Contamination: Risk Management manual (“the LCRM”).
 
@@ -299,7 +299,7 @@ In the event that complaints regarding alleged noise nuisance are received by th
 
 (3) If, during the course of construction, previously unidentified contamination is discovered, construction must cease on that localised area of land within the Order limits and the contamination must be reported in writing to the relevant planning authority within 10 working days. Prior to the recommencement of construction on that localised area of land within the Order limits, suitable investigation and risk based land contamination assessment for the discovered contamination (to include any required amendments to the remedial scheme and verification plan) must be submitted to and approved in writing by the relevant planning authority. The authorised development must then be implemented in accordance with the details approved by the relevant planning authority and, unless otherwise agreed in writing by the relevant planning authority, retained as such in perpetuity.
 
-**26.**[^key-79cec3f05a5e37c197c96cb9f0088904] (1) Prior to the use of any part of the completed authorised development—
+**26.**[^c-79cec3f05a5e37c197c96cb9f0088904] (1) Prior to the use of any part of the completed authorised development—
 
 - (a) if no remediation scheme or verification was required under requirement 25 (contamination risk) a statement from the undertaker, or their approved agent, must be provided to the relevant planning authority, stating that no previously unidentified contamination was discovered during the course of construction of that part of the completed authorised development; or
 - (b) if a remediation scheme and verification plan were agreed under requirement 25 for the relevant part of the completed authorised development, a verification investigation must be undertaken in line with the agreed verification plan for any works outlined in the remedial scheme and a report showing the findings of the verification investigation relevant to that part of the authorised development must be submitted to and approved in writing by the relevant planning authority.
@@ -313,11 +313,11 @@ In the event that complaints regarding alleged noise nuisance are received by th
 - (e) demonstrate the effectiveness of the approved remedial scheme; and
 - (f) include a statement signed by the undertaker, or the approved agent, confirming that all the works specified in the remedial scheme have been completed.
 
-#### 27. Waste management during the operational phase[^key-612d98e4369a444c5ee17cd0038f8373]
+#### 27. Waste management during the operational phase[^c-612d98e4369a444c5ee17cd0038f8373]
 
 No component of the authorised development on the main site may be brought into use until a scheme for waste management for that component has been submitted to and approved in writing by the relevant planning authority. The scheme, which must be in accordance with the framework site waste management strategy, may be amended by agreement with the relevant planning authority. The approved schemes must be implemented and maintained for the duration of the operation of that component of the authorised development.
 
-#### 28. Employment[^key-1ce228b93ab047ecd9158443cb9d3b41]
+#### 28. Employment[^c-1ce228b93ab047ecd9158443cb9d3b41]
 
 (1) Prior to the commencement of the construction of any part of the authorised development an employment scheme in respect of employees to be involved in the construction of that part of the authorised development must be submitted to and approved in writing by the relevant planning authority.
 
@@ -325,7 +325,7 @@ No component of the authorised development on the main site may be brought into 
 
 (3) The approved employment schemes in respect of employees to be involved in construction of the authorised development and in each warehouse must be implemented and complied with at all times.
 
-#### 29. Community liaison group[^key-ce91f4104c8f1455b90e5ffade04e0da]
+#### 29. Community liaison group[^c-ce91f4104c8f1455b90e5ffade04e0da]
 
 (1) Prior to the commencement of the authorised development the undertaker must establish a community liaison group to facilitate liaison between various bodies in relation to the construction and operation of the authorised development.
 
@@ -341,19 +341,19 @@ No component of the authorised development on the main site may be brought into 
 
 (4) The community liaison group is to continue to meet until the expiry of five years from full occupation of the authorised development unless otherwise agreed with the relevant planning authorities.
 
-#### 30. Rail Central[^key-4b9e828a9f5c4e21f5a28bf01ec6d6e8]
+#### 30. Rail Central[^c-4b9e828a9f5c4e21f5a28bf01ec6d6e8]
 
 Upon the coming into force of the Rail Central Order, the undertaker must allow the Rail Central footpath connections to be made by the Rail Central undertaker in conjunction with the carrying out of the Rail Central development in accordance with a timetable agreed with the relevant planning authority in consultation with the Rail Central undertaker, the objective of such timetable to be to allow the timely provision of the Rail Central footpath connections consistent with the minimisation of any disruption to the construction or operation of the authorised development or development authorised by the Rail Central Order.
 
-**31.**[^key-52d04a28afb261c833d4e53f6431ce5b] The undertaker must give Highways England and the local highway authority nine months’ prior notice in writing of the commencement of Works No. 11 and if within the period of three months following the service of that notice Highways England and the local highway authority both notify the undertaker that Works No. 11 is not to be carried out due to the works authorised by the Rail Central Order being considered sufficient by Highways England and the local highway authority to mitigate the impacts of both the Rail Central development and the authorised development then there will thereafter be no requirement to carry out the works comprising Works No. 11 and the entries in respect of Works No. 11 in the table in requirement 6 (design and phasing of highway works) will no longer have effect.
+**31.**[^c-52d04a28afb261c833d4e53f6431ce5b] The undertaker must give Highways England and the local highway authority nine months’ prior notice in writing of the commencement of Works No. 11 and if within the period of three months following the service of that notice Highways England and the local highway authority both notify the undertaker that Works No. 11 is not to be carried out due to the works authorised by the Rail Central Order being considered sufficient by Highways England and the local highway authority to mitigate the impacts of both the Rail Central development and the authorised development then there will thereafter be no requirement to carry out the works comprising Works No. 11 and the entries in respect of Works No. 11 in the table in requirement 6 (design and phasing of highway works) will no longer have effect.
 
-**32.**[^key-6515e2e0d95f522d7d45fa710b8a6c64] If the Rail Central Order comes into force prior to the approval of the details of works comprised in Works No. 1(1)(d) under requirement 8 (detailed design approval), the relevant planning authority, after consultation with Network Rail, will only approve the details if satisfied that the works are compatible with the Rail Central development (meaning that the works do not prevent the construction of a new railway line from the Rail Central development to connect with the existing Northampton Loop railway line).
+**32.**[^c-6515e2e0d95f522d7d45fa710b8a6c64] If the Rail Central Order comes into force prior to the approval of the details of works comprised in Works No. 1(1)(d) under requirement 8 (detailed design approval), the relevant planning authority, after consultation with Network Rail, will only approve the details if satisfied that the works are compatible with the Rail Central development (meaning that the works do not prevent the construction of a new railway line from the Rail Central development to connect with the existing Northampton Loop railway line).
 
 ### PART 2 — PROCEDURE FOR APPROVALS ETC. UNDER REQUIREMENTS
 
 Article 44
 
-#### 1. Applications made for certain approvals[^key-c4c596e6aba92ceb8ef52adaae83a3ca]
+#### 1. Applications made for certain approvals[^c-c4c596e6aba92ceb8ef52adaae83a3ca]
 
 (1) Where an application has been made to a discharging authority for any consent, agreement or approval required or contemplated under the requirements the discharging authority must give notice to the undertaker of its decision on the application before the end of the decision period.
 
@@ -363,7 +363,7 @@ Article 44
 - (b) where further information is requested under paragraph 2 of this Part of this Schedule, eight weeks from the day immediately following that on which the further information has been supplied by the undertaker under paragraph 2; or
 - (c) such longer period as may be agreed by the undertaker and the discharging authority in writing before the end of the period in paragraph (a) or (b).
 
-#### 2. Further information[^key-014d13b1fdaa3d549fef7d25da5deab4]
+#### 2. Further information[^c-014d13b1fdaa3d549fef7d25da5deab4]
 
 (1) In relation to any application to which this Schedule applies, the discharging authority has the right to request such further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -371,7 +371,7 @@ Article 44
 
 (3) If the discharging authority does not give such notification as specified in sub-paragraph (2) it is to be deemed to have sufficient information to consider the application and is not subsequently entitled to request further information without the prior agreement of the undertaker.
 
-#### 3. Fees[^key-efc93ded2b0dae9b4812ea9bfbd1138d]
+#### 3. Fees[^c-efc93ded2b0dae9b4812ea9bfbd1138d]
 
 (1) Where an application is made to the discharging authority for written consent, agreement or approval in respect of a requirement, a fee calculated in accordance with the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (England) Regulations 2012[^f00077], as though the application were a reserved matter application, is to be paid to that authority.
 
@@ -380,7 +380,7 @@ Article 44
 - (a) the application being rejected as invalidly made; or
 - (b) the discharging authority failing to determine the application within the decision period as determined under paragraph 1 of this Part of this Schedule, unless within that period the undertaker agrees, in writing, that the fee is to be retained by the discharging authority and credited in respect of a future application.
 
-#### 4. Appeals[^key-a9f452581315f5c941147ddf604da661]
+#### 4. Appeals[^c-a9f452581315f5c941147ddf604da661]
 
 (1) The undertaker may appeal in the event that—
 
@@ -424,7 +424,7 @@ and may deal with the application as if it had been made to the appointed person
 
 (13) On application by the discharging authority or the undertaker, the appointed person may give directions as to the costs of the appeal parties and as to the parties by whom the costs of the appeal are to be paid. In considering whether to make any such direction and the terms on which it is to be made, the appointed person must have regard to the Planning Practice Guidance published by the Department for Communities and Local Government on 6th March 2014 or any circular or guidance which may from time to time replace it.
 
-#### 5. Interpretation of Part 2 of Schedule 2[^key-fd52258ee296b5cbfa9f1082aca05409]
+#### 5. Interpretation of Part 2 of Schedule 2[^c-fd52258ee296b5cbfa9f1082aca05409]
 
 In this Part of this Schedule—
 
@@ -436,94 +436,94 @@ In this Part of this Schedule—
 
 ## Annotations
 
-[^key-22246cc90c4e10bee20997e6845b886d]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-22246cc90c4e10bee20997e6845b886d]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00073]: Footnote: OJ No. L 188, 18.7.2009, p. 1.
 
 [^f00074]: Footnote: Section 114 was amended by paragraph 55 of Schedule 13 to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20).
 
-[^key-093a9ea925a89089d552cc0a25cd57bb]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-093a9ea925a89089d552cc0a25cd57bb]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-0b9342d24b0c21ae8bb0f40e07704906]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-0b9342d24b0c21ae8bb0f40e07704906]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-16b636489a34f55f78086308cd507d94]: Textual amendment: [Sch. 2 Pt. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2019/1358/schedule/2/part/1/paragraph/3/3) substituted (7.4.2023) by [The Northampton Gateway Rail Freight Interchange (Amendment) Order 2023 (S.I. 2023/418)](https://www.legislation.gov.uk/uksi/2023/418), [arts. 1](https://www.legislation.gov.uk/uksi/2023/418/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/418/article/2/3)
+[^c-16b636489a34f55f78086308cd507d94]: Textual amendment: [Sch. 2 Pt. 1 para. 3(3)](https://www.legislation.gov.uk/uksi/2019/1358/schedule/2/part/1/paragraph/3/3) substituted (7.4.2023) by [The Northampton Gateway Rail Freight Interchange (Amendment) Order 2023 (S.I. 2023/418)](https://www.legislation.gov.uk/uksi/2023/418), [arts. 1](https://www.legislation.gov.uk/uksi/2023/418/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2023/418/article/2/3)
 
-[^key-6688d47e7833b3dcf9ddac787b508f46]: Commencement: Sch. 2 Pt. 1 para. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-6688d47e7833b3dcf9ddac787b508f46]: Commencement: Sch. 2 Pt. 1 para. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-2af492836e2a56575134f53b9e555f6c]: Commencement: Sch. 2 Pt. 1 para. 5 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-2af492836e2a56575134f53b9e555f6c]: Commencement: Sch. 2 Pt. 1 para. 5 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-90cf366d27a6253ad77eb7cab06d0604]: Commencement: Sch. 2 Pt. 1 para. 6 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-90cf366d27a6253ad77eb7cab06d0604]: Commencement: Sch. 2 Pt. 1 para. 6 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-fa776aaf74cdd86b52d7c72c78f96ac7]: Commencement: Sch. 2 Pt. 1 para. 7 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-fa776aaf74cdd86b52d7c72c78f96ac7]: Commencement: Sch. 2 Pt. 1 para. 7 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-cf5fece65a1663b7ab2b6bd4654dd183]: Commencement: Sch. 2 Pt. 1 para. 8 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-cf5fece65a1663b7ab2b6bd4654dd183]: Commencement: Sch. 2 Pt. 1 para. 8 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-a2bc96142bcdb74c0ef5c2b5cc5b3722]: Commencement: Sch. 2 Pt. 1 para. 9 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-a2bc96142bcdb74c0ef5c2b5cc5b3722]: Commencement: Sch. 2 Pt. 1 para. 9 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-3b7fabfea5e682b6dbce7b99e3ccf057]: Commencement: Sch. 2 Pt. 1 para. 10 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-3b7fabfea5e682b6dbce7b99e3ccf057]: Commencement: Sch. 2 Pt. 1 para. 10 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-a17e5ac77c8b6d2f1283c45bf99b03d9]: Commencement: Sch. 2 Pt. 1 para. 11 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-a17e5ac77c8b6d2f1283c45bf99b03d9]: Commencement: Sch. 2 Pt. 1 para. 11 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-6a8b676867d52ddaa3ed4e1c1c9480ea]: Commencement: Sch. 2 Pt. 1 para. 12 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-6a8b676867d52ddaa3ed4e1c1c9480ea]: Commencement: Sch. 2 Pt. 1 para. 12 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-dc21efa0094864dec50cec6e9f55e11e]: Commencement: Sch. 2 Pt. 1 para. 13 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-dc21efa0094864dec50cec6e9f55e11e]: Commencement: Sch. 2 Pt. 1 para. 13 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-aafdca70aa8f2dbc80bf9347e39e74db]: Commencement: Sch. 2 Pt. 1 para. 14 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-aafdca70aa8f2dbc80bf9347e39e74db]: Commencement: Sch. 2 Pt. 1 para. 14 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-1f5ecc9701fe9da86935367b42e34825]: Commencement: Sch. 2 Pt. 1 para. 15 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-1f5ecc9701fe9da86935367b42e34825]: Commencement: Sch. 2 Pt. 1 para. 15 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-491622a71b84f6c329d566a0037c642f]: Commencement: Sch. 2 Pt. 1 para. 16 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-491622a71b84f6c329d566a0037c642f]: Commencement: Sch. 2 Pt. 1 para. 16 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-6032090d3f4c5f17bfe87b91517e588d]: Commencement: Sch. 2 Pt. 1 para. 17 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-6032090d3f4c5f17bfe87b91517e588d]: Commencement: Sch. 2 Pt. 1 para. 17 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00075]: Footnote: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-01646be7aa72b80080f0126048931bd8]: Commencement: Sch. 2 Pt. 1 para. 18 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-01646be7aa72b80080f0126048931bd8]: Commencement: Sch. 2 Pt. 1 para. 18 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-4272f369a2571aa33c35eb0505b8f05c]: Commencement: Sch. 2 Pt. 1 para. 19 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-4272f369a2571aa33c35eb0505b8f05c]: Commencement: Sch. 2 Pt. 1 para. 19 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-14827443499f24cd1baabf3f2d69214a]: Commencement: Sch. 2 Pt. 1 para. 20 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-14827443499f24cd1baabf3f2d69214a]: Commencement: Sch. 2 Pt. 1 para. 20 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-0e0e9cb70b2d184a39c329eca457b359]: Commencement: Sch. 2 Pt. 1 para. 21 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-0e0e9cb70b2d184a39c329eca457b359]: Commencement: Sch. 2 Pt. 1 para. 21 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-074586d3c312f542ef5f8b7f83dd70ce]: Commencement: Sch. 2 Pt. 1 para. 22 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-074586d3c312f542ef5f8b7f83dd70ce]: Commencement: Sch. 2 Pt. 1 para. 22 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00076]: Footnote: [1974 c 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-d73ffe2cadfbd8ec58b420996f6e74f9]: Commencement: Sch. 2 Pt. 1 para. 23 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-d73ffe2cadfbd8ec58b420996f6e74f9]: Commencement: Sch. 2 Pt. 1 para. 23 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-3b3ec3c418297dca4c4f5d58bc422f80]: Commencement: Sch. 2 Pt. 1 para. 24 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-3b3ec3c418297dca4c4f5d58bc422f80]: Commencement: Sch. 2 Pt. 1 para. 24 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-ad602fe789b567234659c79a92952f54]: Commencement: Sch. 2 Pt. 1 para. 25 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-ad602fe789b567234659c79a92952f54]: Commencement: Sch. 2 Pt. 1 para. 25 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-79cec3f05a5e37c197c96cb9f0088904]: Commencement: Sch. 2 Pt. 1 para. 26 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-79cec3f05a5e37c197c96cb9f0088904]: Commencement: Sch. 2 Pt. 1 para. 26 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-612d98e4369a444c5ee17cd0038f8373]: Commencement: Sch. 2 Pt. 1 para. 27 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-612d98e4369a444c5ee17cd0038f8373]: Commencement: Sch. 2 Pt. 1 para. 27 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-1ce228b93ab047ecd9158443cb9d3b41]: Commencement: Sch. 2 Pt. 1 para. 28 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-1ce228b93ab047ecd9158443cb9d3b41]: Commencement: Sch. 2 Pt. 1 para. 28 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-ce91f4104c8f1455b90e5ffade04e0da]: Commencement: Sch. 2 Pt. 1 para. 29 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-ce91f4104c8f1455b90e5ffade04e0da]: Commencement: Sch. 2 Pt. 1 para. 29 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-4b9e828a9f5c4e21f5a28bf01ec6d6e8]: Commencement: Sch. 2 Pt. 1 para. 30 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-4b9e828a9f5c4e21f5a28bf01ec6d6e8]: Commencement: Sch. 2 Pt. 1 para. 30 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-52d04a28afb261c833d4e53f6431ce5b]: Commencement: Sch. 2 Pt. 1 para. 31 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-52d04a28afb261c833d4e53f6431ce5b]: Commencement: Sch. 2 Pt. 1 para. 31 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-6515e2e0d95f522d7d45fa710b8a6c64]: Commencement: Sch. 2 Pt. 1 para. 32 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-6515e2e0d95f522d7d45fa710b8a6c64]: Commencement: Sch. 2 Pt. 1 para. 32 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-c4c596e6aba92ceb8ef52adaae83a3ca]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-c4c596e6aba92ceb8ef52adaae83a3ca]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-014d13b1fdaa3d549fef7d25da5deab4]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-014d13b1fdaa3d549fef7d25da5deab4]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
-[^key-efc93ded2b0dae9b4812ea9bfbd1138d]: Commencement: Sch. 2 Pt. 2 para. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-efc93ded2b0dae9b4812ea9bfbd1138d]: Commencement: Sch. 2 Pt. 2 para. 3 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00077]: Footnote: [S.I. 2012/2920](https://www.legislation.gov.uk/uksi/2012/2920), as amended by [S.I. 2013/2153](https://www.legislation.gov.uk/uksi/2013/2153), [S.I. 2014/357](https://www.legislation.gov.uk/uksi/2014/357), [S.I. 2014/2026](https://www.legislation.gov.uk/uksi/2014/2026), [S.I. 2015/643](https://www.legislation.gov.uk/uksi/2015/643) and [S.I. 2017/1314](https://www.legislation.gov.uk/uksi/2017/1314).
 
-[^key-a9f452581315f5c941147ddf604da661]: Commencement: Sch. 2 Pt. 2 para. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-a9f452581315f5c941147ddf604da661]: Commencement: Sch. 2 Pt. 2 para. 4 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00078]: Footnote: The appointment is made at the discretion of the Secretary of State, and such appointment may be made by the Planning Inspectorate on behalf of the Secretary of State.
 
 [^f00079]: Footnote: The costs of the appointed person are calculated based on the applicable day rate for a Single Inspector as if he or she were appointed under sections 78 and 79 of the 2008 Act. See the National Infrastructure Planning website for more information: https://infrastructure.planninginspectorate.gov.uk/application-process/application-fees/
 
-[^key-fd52258ee296b5cbfa9f1082aca05409]: Commencement: Sch. 2 Pt. 2 para. 5 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-fd52258ee296b5cbfa9f1082aca05409]: Commencement: Sch. 2 Pt. 2 para. 5 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
 
 [^f00080]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

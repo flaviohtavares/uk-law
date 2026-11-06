@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 147. Relation with Regulation (EC) No 882/2004[^key-a22484facf0c8d4a1f072be70423413a]
+## Article 147. Relation with Regulation (EC) No 882/2004[^c-a22484facf0c8d4a1f072be70423413a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a22484facf0c8d4a1f072be70423413a]: Textual amendment: [Art. 147](https://www.legislation.gov.uk/eur/2017/625/article/147) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [28(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/28/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-a22484facf0c8d4a1f072be70423413a]: Textual amendment: [Art. 147](https://www.legislation.gov.uk/eur/2017/625/article/147) omitted (31.12.2020) by virtue of [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [28(1)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/28/1) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

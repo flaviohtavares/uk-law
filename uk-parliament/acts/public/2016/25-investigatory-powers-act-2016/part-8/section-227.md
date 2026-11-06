@@ -46,13 +46,13 @@ summary: ''
 
 (6) The Prime Minister must have regard to a memorandum of understanding agreed between the Prime Minister and the Scottish Ministers when exercising functions under subsection (1) or (5).
 
-(6A)[^key-810772955d8574d604e7d1fa24fce4e6] The Investigatory Powers Commissioner may appoint up to two persons who are Judicial Commissioners to be Deputy Investigatory Powers Commissioners.
+(6A)[^c-810772955d8574d604e7d1fa24fce4e6] The Investigatory Powers Commissioner may appoint up to two persons who are Judicial Commissioners to be Deputy Investigatory Powers Commissioners.
 
 (6B) A person appointed as a Deputy Investigatory Powers Commissioner continues to be a Judicial Commissioner.
 
 (7) The Investigatory Powers Commissioner is a Judicial Commissioner and the Investigatory Powers Commissioner and the other Judicial Commissioners are to be known, collectively, as the Judicial Commissioners.
 
-(8)[^key-83e691fbb07b59e63c59a873a6390e60] The Investigatory Powers Commissioner may, to such extent as the Investigatory Powers Commissioner may decide, delegate the exercise of functions of the Investigatory Powers Commissioner to—
+(8)[^c-83e691fbb07b59e63c59a873a6390e60] The Investigatory Powers Commissioner may, to such extent as the Investigatory Powers Commissioner may decide, delegate the exercise of functions of the Investigatory Powers Commissioner to—
 
 - (a) a Deputy Investigatory Powers Commissioner, or
 - (b) any other Judicial Commissioner.
@@ -77,11 +77,11 @@ only where the Investigatory Powers Commissioner is unable or unavailable to exe
 - (a) an appeal against, or a review of, a decision made by the other Deputy Investigatory Powers Commissioner, and
 - (b) any action to take as a result.
 
-(9A)[^key-257211d4bc99149058fd5a9af5eefb90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9A)[^c-257211d4bc99149058fd5a9af5eefb90] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (10) The delegation under subsection (8) to any extent of functions by the Investigatory Powers Commissioner does not prevent the exercise of the functions to that extent by that Commissioner.
 
-(10A)[^key-edbd5101c7dcebcbcd2dbd06f15e562d] Where—
+(10A)[^c-edbd5101c7dcebcbcd2dbd06f15e562d] Where—
 
 - (a) the exercise of a function of the Investigatory Powers Commissioner mentioned in subsection (8A)(d) is delegated to a Deputy Investigatory Powers Commissioner in accordance with subsection (8)(a), and
 - (b) the Deputy Investigatory Powers Commissioner decides the appeal or review (and any action to take as a result),
@@ -98,22 +98,22 @@ no further appeal, or request for a further review, may be made to the Investiga
 (13) References in any enactment—
 
 - (a) to a Judicial Commissioner are to be read as including the Investigatory Powers Commissioner, and
-- (b)[^key-b62575947f58746fede28bd89165eb87] to the Investigatory Powers Commissioner are to be read—
+- (b)[^c-b62575947f58746fede28bd89165eb87] to the Investigatory Powers Commissioner are to be read—
   - (i) so far as necessary for the purposes of subsection (8)(a), as references to the Investigatory Powers Commissioner or any Deputy Investigatory Powers Commissioner, and
   - (ii) so far as necessary for the purposes of subsection (8)(b), as references to the Investigatory Powers Commissioner or any other Judicial Commissioner.
 
-(14)[^key-98003b9352f0dec1a79276893544449e] In this section a reference to deciding an appeal against, or a review of, a decision made by a Judicial Commissioner includes a reference to deciding whether to approve a decision that the Judicial Commissioner has refused to approve.
+(14)[^c-98003b9352f0dec1a79276893544449e] In this section a reference to deciding an appeal against, or a review of, a decision made by a Judicial Commissioner includes a reference to deciding whether to approve a decision that the Judicial Commissioner has refused to approve.
 
 ## Annotations
 
-[^key-810772955d8574d604e7d1fa24fce4e6]: Textual amendment: [S. 227(6A)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/6B) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/7/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/g)
+[^c-810772955d8574d604e7d1fa24fce4e6]: Textual amendment: [S. 227(6A)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/6A)[(6B)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/6B) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/7/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/g)
 
-[^key-83e691fbb07b59e63c59a873a6390e60]: Textual amendment: [S. 227(8)-(8D)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/8) substituted for s. 227(8)(9) (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/8/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/h)
+[^c-83e691fbb07b59e63c59a873a6390e60]: Textual amendment: [S. 227(8)-(8D)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/8) substituted for s. 227(8)(9) (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/8/2), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/h)
 
-[^key-257211d4bc99149058fd5a9af5eefb90]: Textual amendment: [S. 227(9A)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/9A) omitted (14.10.2024) by virtue of [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/8/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/h)
+[^c-257211d4bc99149058fd5a9af5eefb90]: Textual amendment: [S. 227(9A)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/9A) omitted (14.10.2024) by virtue of [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 8(3)](https://www.legislation.gov.uk/ukpga/2024/9/section/8/3), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/h)
 
-[^key-edbd5101c7dcebcbcd2dbd06f15e562d]: Textual amendment: [S. 227(10A)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/10A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 8(4)](https://www.legislation.gov.uk/ukpga/2024/9/section/8/4), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/h)
+[^c-edbd5101c7dcebcbcd2dbd06f15e562d]: Textual amendment: [S. 227(10A)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/10A) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 8(4)](https://www.legislation.gov.uk/ukpga/2024/9/section/8/4), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/h)
 
-[^key-b62575947f58746fede28bd89165eb87]: Textual amendment: [S. 227(13)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/13/b) substituted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 8(5)](https://www.legislation.gov.uk/ukpga/2024/9/section/8/5), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/h)
+[^c-b62575947f58746fede28bd89165eb87]: Textual amendment: [S. 227(13)(b)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/13/b) substituted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 8(5)](https://www.legislation.gov.uk/ukpga/2024/9/section/8/5), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/h)
 
-[^key-98003b9352f0dec1a79276893544449e]: Textual amendment: [S. 227(14)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/14) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 8(6)](https://www.legislation.gov.uk/ukpga/2024/9/section/8/6), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/h)
+[^c-98003b9352f0dec1a79276893544449e]: Textual amendment: [S. 227(14)](https://www.legislation.gov.uk/ukpga/2016/25/section/227/14) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 8(6)](https://www.legislation.gov.uk/ukpga/2024/9/section/8/6), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/h)

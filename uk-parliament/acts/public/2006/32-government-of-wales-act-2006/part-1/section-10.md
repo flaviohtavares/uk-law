@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Constituency vacancies[^key-c42cd568f9d406985dc62a68696da8b1]
+## 10. Constituency vacancies[^c-c42cd568f9d406985dc62a68696da8b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c42cd568f9d406985dc62a68696da8b1]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/2006/32/section/10) omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 9(2)](https://www.legislation.gov.uk/asc/2024/4/section/9/2), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))
+[^c-c42cd568f9d406985dc62a68696da8b1]: Textual amendment: [S. 10](https://www.legislation.gov.uk/ukpga/2006/32/section/10) omitted (24.8.2024) by virtue of [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [ss. 9(2)](https://www.legislation.gov.uk/asc/2024/4/section/9/2), [25(2)(b)](https://www.legislation.gov.uk/asc/2024/4/section/25/2/b) (with [s. 24(1)](https://www.legislation.gov.uk/asc/2024/4/section/24/1))

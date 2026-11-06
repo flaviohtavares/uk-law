@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 110. Nomination and appointment of shorthand writers[^key-b1f20b0e9b731bf73d2f6c04a6af58b1]
+## 110. Nomination and appointment of shorthand writers[^c-b1f20b0e9b731bf73d2f6c04a6af58b1]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b1f20b0e9b731bf73d2f6c04a6af58b1]: Commencement: [Rule 110](https://www.legislation.gov.uk/uksi/2013/3208/rule/110) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-b1f20b0e9b731bf73d2f6c04a6af58b1]: Commencement: [Rule 110](https://www.legislation.gov.uk/uksi/2013/3208/rule/110) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

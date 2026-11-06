@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Power to modify schedule 1[^key-732c45e75dbc4aaa3a7cb62aeb7c7f60]
+## 7. Power to modify schedule 1[^c-732c45e75dbc4aaa3a7cb62aeb7c7f60]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-732c45e75dbc4aaa3a7cb62aeb7c7f60]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/3/section/7) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-732c45e75dbc4aaa3a7cb62aeb7c7f60]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/3/section/7) in force at 30.6.2014 by [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

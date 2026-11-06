@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 112. Transitional rate relief in consequence of changes in local government districts[^key-34a015a94112b18367c57bb0e1296f16]
+## 112. Transitional rate relief in consequence of changes in local government districts[^c-34a015a94112b18367c57bb0e1296f16]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34a015a94112b18367c57bb0e1296f16]: Commencement: [S. 112](https://www.legislation.gov.uk/nia/2014/8/section/112) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-34a015a94112b18367c57bb0e1296f16]: Commencement: [S. 112](https://www.legislation.gov.uk/nia/2014/8/section/112) in operation at 2.6.2014 by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)

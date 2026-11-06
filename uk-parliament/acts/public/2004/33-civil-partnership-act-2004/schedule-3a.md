@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Modifications if proposed civil partnership referred under section 12A[^key-1aa403821d53605aded848ba4b03d571]
+## SCHEDULE 3A — Modifications if proposed civil partnership referred under section 12A[^c-1aa403821d53605aded848ba4b03d571]
 
 *Extent: E+W*
 
@@ -107,4 +107,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1aa403821d53605aded848ba4b03d571]: Textual amendment: Sch. 3A inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/25) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)
+[^c-1aa403821d53605aded848ba4b03d571]: Textual amendment: Sch. 3A inserted (1.3.2015) by [Immigration Act 2014 (c. 22)](https://www.legislation.gov.uk/ukpga/2014/22), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2014/22/section/75/3), [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2014/22/schedule/4/paragraph/25) (with [Sch. 9 para. 66](https://www.legislation.gov.uk/ukpga/2014/22/schedule/9/paragraph/66)); [S.I. 2015/371](https://www.legislation.gov.uk/uksi/2015/371), [art. 2(1)(f)](https://www.legislation.gov.uk/uksi/2015/371/article/2/1/f)

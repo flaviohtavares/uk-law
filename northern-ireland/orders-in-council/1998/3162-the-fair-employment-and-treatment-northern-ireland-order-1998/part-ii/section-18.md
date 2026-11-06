@@ -34,12 +34,12 @@ summary: ''
 
 (3) Paragraph (4) applies to any information supplied to the Commission—
 
-- (a) in the course of an investigation under Article 11 [^key-2b3fb1da7574bac8dc2dce7d678052ae]...; or
+- (a) in the course of an investigation under Article 11 [^c-2b3fb1da7574bac8dc2dce7d678052ae]...; or
 - (b) in pursuance of a requirement under Article 67.
 
 (4) No information to which this paragraph applies shall be disclosed by a person who is, or has been, a member or officer of the Commission to a person who is not a member or officer of the Commission, except so far as such disclosure—
 
-- (a) is relevant for the purposes of Article 8(1) or [^key-a48a09273516d5546e0238106b361f38]... of this Order or paragraph 5 of Schedule 8 to the [^m00007] Northern Ireland Act 1998 and is not prohibited by paragraph (1);
+- (a) is relevant for the purposes of Article 8(1) or [^c-a48a09273516d5546e0238106b361f38]... of this Order or paragraph 5 of Schedule 8 to the [^m00007] Northern Ireland Act 1998 and is not prohibited by paragraph (1);
 - (b) is made as mentioned in paragraph (1)(b); or
 - (c) is permitted by paragraph (5) or required by paragraph (6).
 
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2b3fb1da7574bac8dc2dce7d678052ae]: Textual amendment: Words in [art. 18(3)(a)](https://www.legislation.gov.uk/nisi/1998/3162/article/18/3/a) omitted (12.5.2022) by virtue of [Fair Employment (School Teachers) Act (Northern Ireland) 2022 (c. 23)](https://www.legislation.gov.uk/nia/2022/23), [s. 3(1)](https://www.legislation.gov.uk/nia/2022/23/section/3/1)[(2)](https://www.legislation.gov.uk/nia/2022/23/section/3/2), [Sch. para. 2](https://www.legislation.gov.uk/nia/2022/23/schedule/paragraph/2)
+[^c-2b3fb1da7574bac8dc2dce7d678052ae]: Textual amendment: Words in [art. 18(3)(a)](https://www.legislation.gov.uk/nisi/1998/3162/article/18/3/a) omitted (12.5.2022) by virtue of [Fair Employment (School Teachers) Act (Northern Ireland) 2022 (c. 23)](https://www.legislation.gov.uk/nia/2022/23), [s. 3(1)](https://www.legislation.gov.uk/nia/2022/23/section/3/1)[(2)](https://www.legislation.gov.uk/nia/2022/23/section/3/2), [Sch. para. 2](https://www.legislation.gov.uk/nia/2022/23/schedule/paragraph/2)
 
-[^key-a48a09273516d5546e0238106b361f38]: Textual amendment: Words in [art. 18(4)(a)](https://www.legislation.gov.uk/nisi/1998/3162/article/18/4/a) omitted (12.5.2022) by virtue of [Fair Employment (School Teachers) Act (Northern Ireland) 2022 (c. 23)](https://www.legislation.gov.uk/nia/2022/23), [s. 3(1)](https://www.legislation.gov.uk/nia/2022/23/section/3/1)[(2)](https://www.legislation.gov.uk/nia/2022/23/section/3/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/nia/2022/23/schedule/paragraph/2/b)
+[^c-a48a09273516d5546e0238106b361f38]: Textual amendment: Words in [art. 18(4)(a)](https://www.legislation.gov.uk/nisi/1998/3162/article/18/4/a) omitted (12.5.2022) by virtue of [Fair Employment (School Teachers) Act (Northern Ireland) 2022 (c. 23)](https://www.legislation.gov.uk/nia/2022/23), [s. 3(1)](https://www.legislation.gov.uk/nia/2022/23/section/3/1)[(2)](https://www.legislation.gov.uk/nia/2022/23/section/3/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/nia/2022/23/schedule/paragraph/2/b)
 
 [^m00007]: Marginal citation: 1998 c. 47.

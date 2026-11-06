@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Food (Peanuts from China) (Emergency Control) Regulations (Northern Ireland) 2002 (revoked)[^key-f1b5b04a304c81ef2b97e72c5c6a72db]
+Food (Peanuts from China) (Emergency Control) Regulations (Northern Ireland) 2002 (revoked)[^c-f1b5b04a304c81ef2b97e72c5c6a72db]
 
 Made
 
@@ -41,38 +41,38 @@ Coming into operation
 
 23rd September 2002
 
-[^key-f1b5b04a304c81ef2b97e72c5c6a72db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1b5b04a304c81ef2b97e72c5c6a72db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f1b5b04a304c81ef2b97e72c5c6a72db]
+## 1. Citation and commencement[^c-f1b5b04a304c81ef2b97e72c5c6a72db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-f1b5b04a304c81ef2b97e72c5c6a72db]
+## 2. Interpretation[^c-f1b5b04a304c81ef2b97e72c5c6a72db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on import[^key-f1b5b04a304c81ef2b97e72c5c6a72db]
+## 3. Prohibition on import[^c-f1b5b04a304c81ef2b97e72c5c6a72db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-f1b5b04a304c81ef2b97e72c5c6a72db]
+## 4. Enforcement[^c-f1b5b04a304c81ef2b97e72c5c6a72db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Order[^key-f1b5b04a304c81ef2b97e72c5c6a72db]
+## 5. Application of various provisions of the Order[^c-f1b5b04a304c81ef2b97e72c5c6a72db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Re-dispatch or destruction of illegal imports[^key-f1b5b04a304c81ef2b97e72c5c6a72db]
+## 6. Re-dispatch or destruction of illegal imports[^c-f1b5b04a304c81ef2b97e72c5c6a72db]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1b5b04a304c81ef2b97e72c5c6a72db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1b5b04a304c81ef2b97e72c5c6a72db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1b5b04a304c81ef2b97e72c5c6a72db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1b5b04a304c81ef2b97e72c5c6a72db]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1b5b04a304c81ef2b97e72c5c6a72db]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/293) revoked (1.10.2006) by [The Food (Emergency Control) (Revocation) Regulations (Northern Ireland) 2006 (S.R. 2006/351)](https://www.legislation.gov.uk/nisr/2006/351), [regs. 1](https://www.legislation.gov.uk/nisr/2006/351/regulation/1), [2](https://www.legislation.gov.uk/nisr/2006/351/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/351/schedule)
+[^c-f1b5b04a304c81ef2b97e72c5c6a72db]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/293) revoked (1.10.2006) by [The Food (Emergency Control) (Revocation) Regulations (Northern Ireland) 2006 (S.R. 2006/351)](https://www.legislation.gov.uk/nisr/2006/351), [regs. 1](https://www.legislation.gov.uk/nisr/2006/351/regulation/1), [2](https://www.legislation.gov.uk/nisr/2006/351/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2006/351/schedule)

@@ -40,15 +40,15 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ### 1. The Commissioner for Older People for Northern Ireland
 
-(1)[^key-4f2f9fe492a07ce91083c2ec28cd96fd] There is to be an officer known as the Commissioner for Older People for Northern Ireland.
+(1)[^c-4f2f9fe492a07ce91083c2ec28cd96fd] There is to be an officer known as the Commissioner for Older People for Northern Ireland.
 
-(2)[^key-4f2f9fe492a07ce91083c2ec28cd96fd] The Commissioner is to be appointed by the First Minister and deputy First Minister acting jointly.
+(2)[^c-4f2f9fe492a07ce91083c2ec28cd96fd] The Commissioner is to be appointed by the First Minister and deputy First Minister acting jointly.
 
-(3) The appointment of the Commissioner under subsection (2) may be made only after taking account of the views of persons aged 60 or over in accordance with arrangements made by the Executive Office[^key-d8a44c8e062f9838034bd63b6d5d7919] .
+(3) The appointment of the Commissioner under subsection (2) may be made only after taking account of the views of persons aged 60 or over in accordance with arrangements made by the Executive Office[^c-d8a44c8e062f9838034bd63b6d5d7919] .
 
-(4)[^key-bc371aaf1dcc62f10445a311d6ce8470] Schedule 1 has effect in relation to the Commissioner.
+(4)[^c-bc371aaf1dcc62f10445a311d6ce8470] Schedule 1 has effect in relation to the Commissioner.
 
-### 2. Principal aim of the Commissioner[^key-29a589940893ee7e273fa892d284cbd8][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 2. Principal aim of the Commissioner[^c-29a589940893ee7e273fa892d284cbd8][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) The principal aim of the Commissioner in exercising the functions of the Commissioner under this Act is to safeguard and promote the interests of older persons.
 
@@ -63,7 +63,7 @@ the Commissioner must have regard to the United Nations Principles for Older Per
 
 ## Functions of the Commissioner
 
-### 3. Duties of the Commissioner[^key-93b7177550029a68243624254f72f60a][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 3. Duties of the Commissioner[^c-93b7177550029a68243624254f72f60a][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) The Commissioner must promote an awareness of matters relating to the interests of older persons and of the need to safeguard those interests.
 
@@ -92,7 +92,7 @@ the Commissioner must have regard to the United Nations Principles for Older Per
 - (c) the views of older persons are sought concerning the exercise by the Commissioner of the Commissioner's functions;
 - (d) the services of the Commissioner are, so far as practicable, made available to older persons in the locality in which they live.
 
-### 4. General powers of the Commissioner[^key-c1bc514c961cea687a9d03d3fff1dc02][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 4. General powers of the Commissioner[^c-c1bc514c961cea687a9d03d3fff1dc02][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) The Commissioner may undertake, commission or provide financial or other assistance for research or educational activities concerning the interests of older persons or the exercise of the Commissioner's functions.
 
@@ -113,7 +113,7 @@ the Commissioner must have regard to the United Nations Principles for Older Per
 
 (6) The Commissioner may make representations or recommendations to any body or person about any matter concerning the interests of older persons.
 
-### 5. General review of advocacy, complaint, inspection and whistle-blowing arrangements of relevant authorities[^key-d973ed884b22e377d43853014ab9acb1][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 5. General review of advocacy, complaint, inspection and whistle-blowing arrangements of relevant authorities[^c-d973ed884b22e377d43853014ab9acb1][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) This section and section 6 apply to the following arrangements of a relevant authority—
 
@@ -149,7 +149,7 @@ the Commissioner must have regard to the United Nations Principles for Older Per
 
 (6) The power conferred by this section to review the operation of any arrangements includes power to review the failure of any such arrangements to operate.
 
-### 6. Review of advocacy, complaint, inspection and whistle-blowing arrangements of relevant authorities in individual cases[^key-28c37a0cca02b078601f453ffc4a8f6c][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 6. Review of advocacy, complaint, inspection and whistle-blowing arrangements of relevant authorities in individual cases[^c-28c37a0cca02b078601f453ffc4a8f6c][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) Subject to subsections (2) and (3), the Commissioner may review the operation of any arrangements to which this section applies in the case of a particular older person (or, as regards inspection arrangements, in the case of any particular premises).
 
@@ -164,7 +164,7 @@ the Commissioner must have regard to the United Nations Principles for Older Per
 
 (5) Where a relevant authority has failed to make any arrangements of a kind mentioned in subsection (1), the Commissioner may assess the effect of that failure on any particular older person.
 
-### 7. Assistance with complaints to relevant authorities[^key-baa6b4796ccd5fde4ee8d4d0ad392b81][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 7. Assistance with complaints to relevant authorities[^c-baa6b4796ccd5fde4ee8d4d0ad392b81][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) The Commissioner may provide assistance (including financial assistance) to an older person in making a complaint to a relevant authority that the interests of the older person have been adversely affected by any action taken by that or another relevant authority.
 
@@ -179,9 +179,9 @@ the Commissioner must have regard to the United Nations Principles for Older Per
 
 (5) Where the making of a complaint to a relevant authority is regulated by a statutory provision, nothing in this section authorises a complaint to be made to that authority otherwise than in accordance with that provision.
 
-(6) For the purposes of this section, “relevant authority” also includes the Northern Ireland Public Services Ombudsman[^key-bccf08371c829fc573771a5956107ca1], the Information Commission[^key-8a78d40898f5a806f7e0edffd4c2bf72], the Pensions Ombudsman and the Northern Ireland Office.
+(6) For the purposes of this section, “relevant authority” also includes the Northern Ireland Public Services Ombudsman[^c-bccf08371c829fc573771a5956107ca1], the Information Commission[^c-8a78d40898f5a806f7e0edffd4c2bf72], the Pensions Ombudsman and the Northern Ireland Office.
 
-### 8. Investigation of complaints against relevant authorities[^key-1df5782c0cd413101675f86c4c6b0740][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 8. Investigation of complaints against relevant authorities[^c-1df5782c0cd413101675f86c4c6b0740][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) Subject to subsection (2) and section 9, the Commissioner may conduct an investigation into a complaint made by an older person that the interests of the older person have been adversely affected by any action taken by a relevant authority.
 
@@ -200,7 +200,7 @@ the Commissioner must have regard to the United Nations Principles for Older Per
 - (a) the complainant; and
 - (b) such other persons (if any) as the Commissioner considers appropriate.
 
-### 9. Actions which may be investigated: restrictions and exclusions[^key-c0ac0d3166f78a1881e701920bc6013c][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 9. Actions which may be investigated: restrictions and exclusions[^c-c0ac0d3166f78a1881e701920bc6013c][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) The Commissioner may not conduct an investigation in respect of any action in respect of which the complainant has or had—
 
@@ -221,7 +221,7 @@ unless the Commissioner is satisfied that, in the particular circumstances, it i
 
 (4) The Commissioner may not conduct an investigation into a complaint if it appears to the Commissioner that there has been an unreasonable delay in making the complaint to the Commissioner.
 
-### 10. Power to bring, intervene in or assist in legal proceedings[^key-b238d79d3affdf7d6a457ff430bae72a][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 10. Power to bring, intervene in or assist in legal proceedings[^c-b238d79d3affdf7d6a457ff430bae72a][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) Subject to the following provisions of this section, the Commissioner may in any court or tribunal—
 
@@ -239,7 +239,7 @@ unless the Commissioner is satisfied that, in the particular circumstances, it i
 - (a) the case raises a question of principle; or
 - (b) there are other special circumstances which make it appropriate for the Commissioner to do so.
 
-### 11. Assistance in relation to legal proceedings[^key-00d32794a6aff38c45a69d1a8f750a4e][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 11. Assistance in relation to legal proceedings[^c-00d32794a6aff38c45a69d1a8f750a4e][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) This section applies to—
 
@@ -258,7 +258,7 @@ unless the Commissioner is satisfied that, in the particular circumstances, it i
 
 (5) Arrangements made by the Commissioner for the provision of assistance to an older person may, if the Commissioner thinks it reasonable in the circumstances, include provision for recovery of expenses from the older person.
 
-### 12. Conciliation of disputes[^key-bb63bacc56484ecda3a2945b5b75f6e7][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 12. Conciliation of disputes[^c-bb63bacc56484ecda3a2945b5b75f6e7][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) The Commissioner may make arrangements with any other person for the provision of conciliation services by, or by persons appointed by, that person in relation to disputes which may lead to proceedings involving law or practice concerning the interests of older persons.
 
@@ -283,7 +283,7 @@ unless the Commissioner is satisfied that, in the particular circumstances, it i
 
 ## Formal investigations
 
-### 13. Formal investigations[^key-cd79ebc5c1b8cbec33d50c530d526cc9][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 13. Formal investigations[^c-cd79ebc5c1b8cbec33d50c530d526cc9][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) Subject to section 14, the Commissioner may determine to conduct an investigation under this section (“a formal investigation”)—
 
@@ -340,7 +340,7 @@ in accordance with such scales and subject to such conditions as the Office may 
 - (a) any action taken by a relevant authority or by any department or Minister with respect to that authority; or
 - (b) any power or duty of that authority, department or Minister to take further action with respect to any matters subject to the investigation.
 
-### 14. Formal investigations: exclusions[^key-add6fecb2b903bd7bb03a00e113fd8aa][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 14. Formal investigations: exclusions[^c-add6fecb2b903bd7bb03a00e113fd8aa][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) The Commissioner may not conduct a formal investigation for the purposes of the Commissioner's functions under section 6 in relation to the operation of the advocacy, complaint, inspection or whistle-blowing arrangements of a relevant authority in the case of any older person if the Commissioner has under section 10 or 11 brought or intervened in, or provided assistance in relation to, any proceedings—
 
@@ -352,7 +352,7 @@ in accordance with such scales and subject to such conditions as the Office may 
 - (a) against the relevant authority in respect of that action; or
 - (b) in which the correctness in law of that action is called into question.
 
-### 15. Report on formal investigation[^key-d375bd00aa6e61fe508b836b029f9b3d][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 15. Report on formal investigation[^c-d375bd00aa6e61fe508b836b029f9b3d][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) Where the Commissioner conducts a formal investigation for the purposes of the Commissioner's functions under section 5 or 6, the Commissioner must prepare a report on the outcome of that investigation and send it to—
 
@@ -382,7 +382,7 @@ unless the Commissioner determines that it is necessary to do so (whether for th
 - (a) consider the recommendation; and
 - (b) determine what action (if any) to take in response to the recommendation.
 
-### 16. Further action following report on formal investigation[^key-24417d5bc66667acd0075a2020a0b636][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 16. Further action following report on formal investigation[^c-24417d5bc66667acd0075a2020a0b636][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) Where the Commissioner has made a report under section 15 which contains a recommendation as to action to be taken by a relevant authority, the Commissioner may by notice require that authority to provide the Commissioner within 3 months of the date of the notice with—
 
@@ -415,7 +415,7 @@ may be published in such manner as the Commissioner considers appropriate.
 
 (7) The Commissioner must publish those arrangements in such a way as to bring them to the attention of persons likely to be interested.
 
-### 17. Evidence in formal investigations[^key-7d31bf9b7b7175537c860c226836101b][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 17. Evidence in formal investigations[^c-7d31bf9b7b7175537c860c226836101b][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) For the purposes of a formal investigation the Commissioner may require any person who in the Commissioner's opinion is able to supply information or produce documents relevant to the investigation to supply any such information or produce any such documents.
 
@@ -428,7 +428,7 @@ may be published in such manner as the Commissioner considers appropriate.
 
 (4) Where any information required to be supplied under this section consists of, or includes, information held by means of a computer or in any other form, the Commissioner may require any person having charge of, or otherwise connected with the operation of, the computer or other device holding that information to make the information available, or produce the information, in legible form.
 
-### 18. Powers of entry and inspection for purposes of formal investigation[^key-476d2f3f0ce0c849941625597186b675][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 18. Powers of entry and inspection for purposes of formal investigation[^c-476d2f3f0ce0c849941625597186b675][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) Where the Commissioner considers it necessary to do so for the proper conduct of a formal investigation, the Commissioner may, at any reasonable time, enter any premises managed by a relevant authority in which—
 
@@ -454,7 +454,7 @@ may be published in such manner as the Commissioner considers appropriate.
 
 (6) Nothing in this section authorises the Commissioner to enter any premises (or any part of any premises) used wholly or mainly as a private dwelling.
 
-### 19. Obstruction and contempt in relation to formal investigation[^key-f9074ffe3fc48e9a1c38cdf45d2f5f25][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 19. Obstruction and contempt in relation to formal investigation[^c-f9074ffe3fc48e9a1c38cdf45d2f5f25][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) If any person without lawful excuse—
 
@@ -472,7 +472,7 @@ may deal with the person charged with the offence in any manner in which the cou
 
 (3) This section does not apply to the taking in good faith of any action mentioned in section 13(12).
 
-### 20. Disclosure of information by Commissioner[^key-f7154629ae666d87782cd5fafb7e6ae5][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 20. Disclosure of information by Commissioner[^c-f7154629ae666d87782cd5fafb7e6ae5][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) Information obtained by the Commissioner or the Commissioner's officers in the course of, or for the purposes of, a formal investigation must not be disclosed except as permitted by subsection (2) or for the purposes of—
 
@@ -492,12 +492,12 @@ may deal with the person charged with the offence in any manner in which the cou
 
 ## Review of this Act
 
-### 21. Review of this Act[^key-c61d8b20ed1b40b9b1114d24bccb7967][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 21. Review of this Act[^c-c61d8b20ed1b40b9b1114d24bccb7967][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) The Commissioner must—
 
 - (a) keep under review the working of this Act;
-- (b)[^key-da0320b3b1182be66cdbbe0eee32f97a] make reports on it to the Department for Communities[^key-85b059bb7b9fbc7417fd249cd2f18a33] in accordance with the following provisions of this section.
+- (b)[^c-da0320b3b1182be66cdbbe0eee32f97a] make reports on it to the Department for Communities[^c-85b059bb7b9fbc7417fd249cd2f18a33] in accordance with the following provisions of this section.
 
 (2) The first report under this section must be made as soon as practicable after the third anniversary of this Act receiving Royal Assent.
 
@@ -508,15 +508,15 @@ may deal with the person charged with the offence in any manner in which the cou
 - (a) must include the views of the Commissioner on the adequacy and effectiveness of this Act; and
 - (b) may contain recommendations as to amendments to this Act which in the opinion of the Commissioner are necessary or desirable.
 
-(5)[^key-244676171538344485dbe3615d930522] The Department for Communities[^key-158cefe52de555b895861b7fc2d828f8] must lay a copy of every report sent to them under this section before the Assembly.
+(5)[^c-244676171538344485dbe3615d930522] The Department for Communities[^c-158cefe52de555b895861b7fc2d828f8] must lay a copy of every report sent to them under this section before the Assembly.
 
 ## Supplementary provisions
 
-### 22. Privilege for certain publications[^key-af4ad03b43fbfb19722808d76ec8faed][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 22. Privilege for certain publications[^c-af4ad03b43fbfb19722808d76ec8faed][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 For the purposes of the law of defamation, publication by the Commissioner of any matter which the Commissioner is required or authorised to publish under this Act is absolutely privileged.
 
-### 23. Application of this Act: relevant authorities with mixed functions[^key-54a562cef2ab83efd320a2df6b7765f3][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 23. Application of this Act: relevant authorities with mixed functions[^c-54a562cef2ab83efd320a2df6b7765f3][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) In relation to a general health care provider, the relevant authority provisions of this Act apply only in relation to matters arising in connection with any general health care provided by that provider.
 
@@ -534,13 +534,13 @@ For the purposes of the law of defamation, publication by the Commissioner of an
   - (d) sections 13 to 20; and
   - (e) Schedule 2.
 
-### 24. Application of this Act: matters arising before commencement[^key-359475041697982c141f8cd0f6ddba36][^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 24. Application of this Act: matters arising before commencement[^c-359475041697982c141f8cd0f6ddba36][^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 This Act applies in relation to matters arising before as well as after it comes into operation.
 
 ## Interpretation
 
-### 25. Interpretation: “older person”[^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 25. Interpretation: “older person”[^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) Subject to subsections (2) to (4), for the purposes of this Act “**older person**” means a person aged 60 or over.
 
@@ -568,11 +568,11 @@ be done by the older person's personal representative or by a member of the olde
 
 (9) An order under subsection (6) may contain such transitional provisions as the Office thinks appropriate.
 
-### 26. Interpretation: “relevant authority”[^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 26. Interpretation: “relevant authority”[^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) In this Act “**relevant authority**” means—
 
-- (a)[^key-cefeb0e3172b2080163c0e71112858d9] any authority (other than the Office of the Commissioner, the board of governors of a grant-aided school or the Comptroller and Auditor General) listed in Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities).
+- (a)[^c-cefeb0e3172b2080163c0e71112858d9] any authority (other than the Office of the Commissioner, the board of governors of a grant-aided school or the Comptroller and Auditor General) listed in Schedule 3 to the Public Services Ombudsman Act (Northern Ireland) 2016 (listed authorities).
 - (c) any body or person listed in Schedule 3.
 
 (2) The Office may by order amend Schedule 3 so as to—
@@ -600,7 +600,7 @@ be done by the older person's personal representative or by a member of the olde
 - (c) any person acting on behalf of the authority;
 - (d) any person to whom the authority has delegated functions.
 
-### 27. Interpretation: general[^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 27. Interpretation: general[^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 In this Act—
 
@@ -611,7 +611,7 @@ In this Act—
 - “**formal investigation**” means an investigation under section 13;
 - “**general health care provider**” has the meaning given in paragraph 1 of Schedule 3 and references to general health care are to any of the services mentioned in that paragraph;
 - “**health and social care body**” means any of the following bodies—
-  - (a) [^key-ba1e6a9ac5a511750223435c0c40b31b]...
+  - (a) [^c-ba1e6a9ac5a511750223435c0c40b31b]...
   - (b) the Regional Agency for Public Health and Social Well-being;
   - (c) the Regional Support Services Organisation;
   - (d) a Health and Social Care trust;
@@ -626,7 +626,7 @@ In this Act—
 
 ## General
 
-### 28. Commencement[^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 28. Commencement[^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 (1) The following provisions of this Act come into operation two weeks after the day on which this Act receives Royal Assent—
 
@@ -638,13 +638,13 @@ In this Act—
 
 (3) An order under subsection (2) may contain such transitional provisions as appear to the Office to be appropriate.
 
-### 29. Short title[^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
+### 29. Short title[^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]
 
 This Act may be cited as the Commissioner for Older People Act (Northern Ireland) 2011.
 
 SCHEDULES
 
-## SCHEDULE 1 — The Commissioner for Older People for Northern Ireland[^key-0429d5f97dc97bcdedc33167c4285dfa]
+## SCHEDULE 1 — The Commissioner for Older People for Northern Ireland[^c-0429d5f97dc97bcdedc33167c4285dfa]
 
 Section 1(4).
 
@@ -687,7 +687,7 @@ the exercise of the Commissioner's functions.
 (5) The First Minister and deputy First Minister acting jointly may remove a person from office as the Commissioner if satisfied that that person has—
 
 - (a) been convicted of a criminal offence;
-- (b) become bankrupt or is the subject of a bankruptcy restrictions order[^key-b85900773e3c3c0a3f9363ad03c77354] or had a debt relief order made in respect of him or is the subject of a debt relief restrictions order[^key-34ca1b849e56eb06745bf2b547a422fd] or made an arrangement or composition with that person's creditors;
+- (b) become bankrupt or is the subject of a bankruptcy restrictions order[^c-b85900773e3c3c0a3f9363ad03c77354] or had a debt relief order made in respect of him or is the subject of a debt relief restrictions order[^c-34ca1b849e56eb06745bf2b547a422fd] or made an arrangement or composition with that person's creditors;
 - (c) without reasonable excuse, failed to discharge the functions of the Commissioner for a continuous period of 3 months; or
 - (d) become unfit or unable to exercise the functions of the Commissioner.
 
@@ -795,13 +795,13 @@ as the Office may, with the approval of the Department of Finance and Personnel,
 
 ### The Commissioner for Complaints (Northern Ireland) Order 1996 (NI 7)
 
-**14.**[^key-e55ddca81b6aac898b3e8530b2d8a0f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-e55ddca81b6aac898b3e8530b2d8a0f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Freedom of Information Act 2000 (c. 36)
 
 **15.** In Part 7 of Schedule 1 to the Freedom of Information Act 2000 (offices and bodies which are public authorities for the purposes of the Act) insert, at the appropriate place— “ The Commissioner for Older People for Northern Ireland ”.
 
-## SCHEDULE 2 — Investigation under section 4(4)[^key-049309aace46bd240b5bc7edc0a24fec][^key-0429d5f97dc97bcdedc33167c4285dfa]
+## SCHEDULE 2 — Investigation under section 4(4)[^c-049309aace46bd240b5bc7edc0a24fec][^c-0429d5f97dc97bcdedc33167c4285dfa]
 
 Section 4(4).
 
@@ -894,19 +894,19 @@ may be published in such manner as the Commissioner considers appropriate.
 - (b) action taken by the Commissioner under sub-paragraphs (1) and (3); and
 - (c) the results of any such action.
 
-## SCHEDULE 3 — Relevant authorities[^key-0429d5f97dc97bcdedc33167c4285dfa]
+## SCHEDULE 3 — Relevant authorities[^c-0429d5f97dc97bcdedc33167c4285dfa]
 
 Section 26(1).
 
-[^key-0429d5f97dc97bcdedc33167c4285dfa]
+[^c-0429d5f97dc97bcdedc33167c4285dfa]
 
 The following bodies and persons are relevant authorities by virtue of section 26(1)(c)—
 
 ### Health and social care
 
-**1.**[^key-06f68b7a8ad7dc9e31487a13e5754cc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-06f68b7a8ad7dc9e31487a13e5754cc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-414c5cf66f36472f569e751ce0833df7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-414c5cf66f36472f569e751ce0833df7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** Any person carrying on or managing any of the following within the meaning of the Health and Personal Social Services (Quality, Improvement and Regulation) (Northern Ireland) Order 2003 (NI 9)—
 
@@ -917,7 +917,7 @@ The following bodies and persons are relevant authorities by virtue of section 2
 
 ### Education
 
-**4.**[^key-3df35bfe4f4e007061d7922b09e8659a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-3df35bfe4f4e007061d7922b09e8659a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Others
 
@@ -933,85 +933,85 @@ The following bodies and persons are relevant authorities by virtue of section 2
 
 ## Annotations
 
-[^key-4f2f9fe492a07ce91083c2ec28cd96fd]: Modification: S. 1(1)-(2): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-4f2f9fe492a07ce91083c2ec28cd96fd]: Modification: S. 1(1)-(2): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-d8a44c8e062f9838034bd63b6d5d7919]: Textual amendment: Words in s. 1(3) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 12](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/12) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-d8a44c8e062f9838034bd63b6d5d7919]: Textual amendment: Words in s. 1(3) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 12](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/12) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-bc371aaf1dcc62f10445a311d6ce8470]: Modification: S. 1(4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-bc371aaf1dcc62f10445a311d6ce8470]: Modification: S. 1(4): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-29a589940893ee7e273fa892d284cbd8]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/1/section/2) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/388/article/2/a)
+[^c-29a589940893ee7e273fa892d284cbd8]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2011/1/section/2) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(a)](https://www.legislation.gov.uk/nisr/2012/388/article/2/a)
 
-[^key-5c4f85fa7c9fb7e4ef94d70a0ec5632f]: Modification: Ss. 2-29: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-5c4f85fa7c9fb7e4ef94d70a0ec5632f]: Modification: Ss. 2-29: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-93b7177550029a68243624254f72f60a]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/1/section/3) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/388/article/2/b)
+[^c-93b7177550029a68243624254f72f60a]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2011/1/section/3) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/388/article/2/b)
 
-[^key-c1bc514c961cea687a9d03d3fff1dc02]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/1/section/4) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/388/article/2/c)
+[^c-c1bc514c961cea687a9d03d3fff1dc02]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2011/1/section/4) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(c)](https://www.legislation.gov.uk/nisr/2012/388/article/2/c)
 
-[^key-d973ed884b22e377d43853014ab9acb1]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/1/section/5) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/388/article/2/d)
+[^c-d973ed884b22e377d43853014ab9acb1]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2011/1/section/5) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(d)](https://www.legislation.gov.uk/nisr/2012/388/article/2/d)
 
-[^key-28c37a0cca02b078601f453ffc4a8f6c]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2011/1/section/6) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/388/article/2/e)
+[^c-28c37a0cca02b078601f453ffc4a8f6c]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2011/1/section/6) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(e)](https://www.legislation.gov.uk/nisr/2012/388/article/2/e)
 
-[^key-baa6b4796ccd5fde4ee8d4d0ad392b81]: Commencement: S. 7 in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(f)](https://www.legislation.gov.uk/nisr/2012/388/article/2/f)
+[^c-baa6b4796ccd5fde4ee8d4d0ad392b81]: Commencement: S. 7 in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(f)](https://www.legislation.gov.uk/nisr/2012/388/article/2/f)
 
-[^key-bccf08371c829fc573771a5956107ca1]: Textual amendment: Words in [s. 7(6)](https://www.legislation.gov.uk/nia/2011/1/section/7/6) substituted (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 11](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/11) (with s. 23, 50(3))
+[^c-bccf08371c829fc573771a5956107ca1]: Textual amendment: Words in [s. 7(6)](https://www.legislation.gov.uk/nia/2011/1/section/7/6) substituted (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 11](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/11) (with s. 23, 50(3))
 
-[^key-8a78d40898f5a806f7e0edffd4c2bf72]: Textual amendment: Words in [s. 7(6)](https://www.legislation.gov.uk/nia/2011/1/section/7/6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/38); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-8a78d40898f5a806f7e0edffd4c2bf72]: Textual amendment: Words in [s. 7(6)](https://www.legislation.gov.uk/nia/2011/1/section/7/6) substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 38](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/38); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-1df5782c0cd413101675f86c4c6b0740]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/1/section/8) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(g)](https://www.legislation.gov.uk/nisr/2012/388/article/2/g)
+[^c-1df5782c0cd413101675f86c4c6b0740]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2011/1/section/8) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(g)](https://www.legislation.gov.uk/nisr/2012/388/article/2/g)
 
-[^key-c0ac0d3166f78a1881e701920bc6013c]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/1/section/9) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(h)](https://www.legislation.gov.uk/nisr/2012/388/article/2/h)
+[^c-c0ac0d3166f78a1881e701920bc6013c]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2011/1/section/9) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(h)](https://www.legislation.gov.uk/nisr/2012/388/article/2/h)
 
-[^key-b238d79d3affdf7d6a457ff430bae72a]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/1/section/10) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(i)](https://www.legislation.gov.uk/nisr/2012/388/article/2/i)
+[^c-b238d79d3affdf7d6a457ff430bae72a]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2011/1/section/10) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(i)](https://www.legislation.gov.uk/nisr/2012/388/article/2/i)
 
-[^key-00d32794a6aff38c45a69d1a8f750a4e]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/1/section/11) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(j)](https://www.legislation.gov.uk/nisr/2012/388/article/2/j)
+[^c-00d32794a6aff38c45a69d1a8f750a4e]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2011/1/section/11) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(j)](https://www.legislation.gov.uk/nisr/2012/388/article/2/j)
 
-[^key-bb63bacc56484ecda3a2945b5b75f6e7]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2011/1/section/12) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(k)](https://www.legislation.gov.uk/nisr/2012/388/article/2/k)
+[^c-bb63bacc56484ecda3a2945b5b75f6e7]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2011/1/section/12) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(k)](https://www.legislation.gov.uk/nisr/2012/388/article/2/k)
 
-[^key-cd79ebc5c1b8cbec33d50c530d526cc9]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2011/1/section/13) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(l)](https://www.legislation.gov.uk/nisr/2012/388/article/2/l)
+[^c-cd79ebc5c1b8cbec33d50c530d526cc9]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2011/1/section/13) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(l)](https://www.legislation.gov.uk/nisr/2012/388/article/2/l)
 
-[^key-add6fecb2b903bd7bb03a00e113fd8aa]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/1/section/14) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/388/article/2/m)
+[^c-add6fecb2b903bd7bb03a00e113fd8aa]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2011/1/section/14) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/388/article/2/m)
 
-[^key-d375bd00aa6e61fe508b836b029f9b3d]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2011/1/section/15) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(n)](https://www.legislation.gov.uk/nisr/2012/388/article/2/n)
+[^c-d375bd00aa6e61fe508b836b029f9b3d]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2011/1/section/15) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(n)](https://www.legislation.gov.uk/nisr/2012/388/article/2/n)
 
-[^key-24417d5bc66667acd0075a2020a0b636]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2011/1/section/16) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(o)](https://www.legislation.gov.uk/nisr/2012/388/article/2/o)
+[^c-24417d5bc66667acd0075a2020a0b636]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2011/1/section/16) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(o)](https://www.legislation.gov.uk/nisr/2012/388/article/2/o)
 
-[^key-7d31bf9b7b7175537c860c226836101b]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2011/1/section/17) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(p)](https://www.legislation.gov.uk/nisr/2012/388/article/2/p)
+[^c-7d31bf9b7b7175537c860c226836101b]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2011/1/section/17) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(p)](https://www.legislation.gov.uk/nisr/2012/388/article/2/p)
 
-[^key-476d2f3f0ce0c849941625597186b675]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2011/1/section/18) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(q)](https://www.legislation.gov.uk/nisr/2012/388/article/2/q)
+[^c-476d2f3f0ce0c849941625597186b675]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2011/1/section/18) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(q)](https://www.legislation.gov.uk/nisr/2012/388/article/2/q)
 
-[^key-f9074ffe3fc48e9a1c38cdf45d2f5f25]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2011/1/section/19) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(r)](https://www.legislation.gov.uk/nisr/2012/388/article/2/r)
+[^c-f9074ffe3fc48e9a1c38cdf45d2f5f25]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2011/1/section/19) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(r)](https://www.legislation.gov.uk/nisr/2012/388/article/2/r)
 
-[^key-f7154629ae666d87782cd5fafb7e6ae5]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2011/1/section/20) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(s)](https://www.legislation.gov.uk/nisr/2012/388/article/2/s)
+[^c-f7154629ae666d87782cd5fafb7e6ae5]: Commencement: [S. 20](https://www.legislation.gov.uk/nia/2011/1/section/20) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(s)](https://www.legislation.gov.uk/nisr/2012/388/article/2/s)
 
-[^key-c61d8b20ed1b40b9b1114d24bccb7967]: Commencement: S. 21 in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(t)](https://www.legislation.gov.uk/nisr/2012/388/article/2/t)
+[^c-c61d8b20ed1b40b9b1114d24bccb7967]: Commencement: S. 21 in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(t)](https://www.legislation.gov.uk/nisr/2012/388/article/2/t)
 
-[^key-da0320b3b1182be66cdbbe0eee32f97a]: Modification: S. 21(1)(b): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/nisr/2016/76/article/3/2/c) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-da0320b3b1182be66cdbbe0eee32f97a]: Modification: S. 21(1)(b): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/nisr/2016/76/article/3/2/c) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-85b059bb7b9fbc7417fd249cd2f18a33]: Textual amendment: Words in [s. 21(1)(b)](https://www.legislation.gov.uk/nia/2011/1/section/21/1/b) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 13(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/13/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-85b059bb7b9fbc7417fd249cd2f18a33]: Textual amendment: Words in [s. 21(1)(b)](https://www.legislation.gov.uk/nia/2011/1/section/21/1/b) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 13(a)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/13/a) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-244676171538344485dbe3615d930522]: Modification: S. 21(5): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/nisr/2016/76/article/3/2/c) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-244676171538344485dbe3615d930522]: Modification: S. 21(5): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [3(2)(c)](https://www.legislation.gov.uk/nisr/2016/76/article/3/2/c) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-158cefe52de555b895861b7fc2d828f8]: Textual amendment: Words in [s. 21(5)](https://www.legislation.gov.uk/nia/2011/1/section/21/5) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 13(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/13/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-158cefe52de555b895861b7fc2d828f8]: Textual amendment: Words in [s. 21(5)](https://www.legislation.gov.uk/nia/2011/1/section/21/5) substituted (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 6 para. 13(b)](https://www.legislation.gov.uk/nisr/2016/76/schedule/6/paragraph/13/b) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-af4ad03b43fbfb19722808d76ec8faed]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2011/1/section/22) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(u)](https://www.legislation.gov.uk/nisr/2012/388/article/2/u)
+[^c-af4ad03b43fbfb19722808d76ec8faed]: Commencement: [S. 22](https://www.legislation.gov.uk/nia/2011/1/section/22) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(u)](https://www.legislation.gov.uk/nisr/2012/388/article/2/u)
 
-[^key-54a562cef2ab83efd320a2df6b7765f3]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2011/1/section/23) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(v)](https://www.legislation.gov.uk/nisr/2012/388/article/2/v)
+[^c-54a562cef2ab83efd320a2df6b7765f3]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2011/1/section/23) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(v)](https://www.legislation.gov.uk/nisr/2012/388/article/2/v)
 
-[^key-359475041697982c141f8cd0f6ddba36]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2011/1/section/24) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(w)](https://www.legislation.gov.uk/nisr/2012/388/article/2/w)
+[^c-359475041697982c141f8cd0f6ddba36]: Commencement: [S. 24](https://www.legislation.gov.uk/nia/2011/1/section/24) in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(w)](https://www.legislation.gov.uk/nisr/2012/388/article/2/w)
 
-[^key-cefeb0e3172b2080163c0e71112858d9]: Textual amendment: [S. 26(1)(a)](https://www.legislation.gov.uk/nia/2011/1/section/26/1/a) substituted for [s. 26(1)(a)(b)](https://www.legislation.gov.uk/nia/2011/1/section/26/1/a) (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 12](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/12) (with s. 23, 50(3))
+[^c-cefeb0e3172b2080163c0e71112858d9]: Textual amendment: [S. 26(1)(a)](https://www.legislation.gov.uk/nia/2011/1/section/26/1/a) substituted for [s. 26(1)(a)(b)](https://www.legislation.gov.uk/nia/2011/1/section/26/1/a) (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 8 para. 12](https://www.legislation.gov.uk/nia/2016/4/schedule/8/paragraph/12) (with s. 23, 50(3))
 
-[^key-ba1e6a9ac5a511750223435c0c40b31b]: Textual amendment: Words in [s. 27](https://www.legislation.gov.uk/nia/2011/1/section/27) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 243](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/243); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-ba1e6a9ac5a511750223435c0c40b31b]: Textual amendment: Words in [s. 27](https://www.legislation.gov.uk/nia/2011/1/section/27) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 243](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/243); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
 
-[^key-0429d5f97dc97bcdedc33167c4285dfa]: Modification: Schs. 1-3: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-0429d5f97dc97bcdedc33167c4285dfa]: Modification: Schs. 1-3: transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/1/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-b85900773e3c3c0a3f9363ad03c77354]: Textual amendment: Words in Sch. 1 para. 3(5)(b) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 18](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/18)
+[^c-b85900773e3c3c0a3f9363ad03c77354]: Textual amendment: Words in Sch. 1 para. 3(5)(b) inserted (21.4.2015) by [The Insolvency (Northern Ireland) Order 2005 (Consequential Amendments) Order (Northern Ireland) 2015 (S.R. 2015/159)](https://www.legislation.gov.uk/nisr/2015/159), [art. 1](https://www.legislation.gov.uk/nisr/2015/159/article/1), [Sch. para. 18](https://www.legislation.gov.uk/nisr/2015/159/schedule/paragraph/18)
 
-[^key-34ca1b849e56eb06745bf2b547a422fd]: Textual amendment: Words in [Sch. 1 para. 3(5)(b)](https://www.legislation.gov.uk/nia/2011/1/schedule/1/paragraph/3/5/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 24](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/24)
+[^c-34ca1b849e56eb06745bf2b547a422fd]: Textual amendment: Words in [Sch. 1 para. 3(5)(b)](https://www.legislation.gov.uk/nia/2011/1/schedule/1/paragraph/3/5/b) inserted (7.3.2016) by [The Debt Relief Act (Northern Ireland) 2010 (Consequential Amendments) Order (Northern Ireland) 2016 (S.R. 2016/108)](https://www.legislation.gov.uk/nisr/2016/108), [art. 1](https://www.legislation.gov.uk/nisr/2016/108/article/1), [Sch. para. 24](https://www.legislation.gov.uk/nisr/2016/108/schedule/paragraph/24)
 
-[^key-e55ddca81b6aac898b3e8530b2d8a0f5]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/nia/2011/1/schedule/1/paragraph/14) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-e55ddca81b6aac898b3e8530b2d8a0f5]: Textual amendment: [Sch. 1 para. 14](https://www.legislation.gov.uk/nia/2011/1/schedule/1/paragraph/14) repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
 
-[^key-049309aace46bd240b5bc7edc0a24fec]: Commencement: Sch. 2 in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(x)](https://www.legislation.gov.uk/nisr/2012/388/article/2/x)
+[^c-049309aace46bd240b5bc7edc0a24fec]: Commencement: Sch. 2 in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), [art. 2(x)](https://www.legislation.gov.uk/nisr/2012/388/article/2/x)
 
 [^M_I_1d1cc96d-39fd-4116-d4d3-dde527e55724]: Commencement: Sch. 2 para. 1 in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), art. 2(x)
 
@@ -1021,8 +1021,8 @@ The following bodies and persons are relevant authorities by virtue of section 2
 
 [^M_I_425729de-5548-4ca8-a3e5-3483e0efc745]: Commencement: Sch. 2 para. 4 in operation at 1.12.2012 by [S.R. 2012/388](https://www.legislation.gov.uk/nisr/2012/388), art. 2(x)
 
-[^key-06f68b7a8ad7dc9e31487a13e5754cc3]: Textual amendment: Sch. 3 para. 1 repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-06f68b7a8ad7dc9e31487a13e5754cc3]: Textual amendment: Sch. 3 para. 1 repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
 
-[^key-414c5cf66f36472f569e751ce0833df7]: Textual amendment: Sch. 3 para. 2 repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-414c5cf66f36472f569e751ce0833df7]: Textual amendment: Sch. 3 para. 2 repealed (1.4.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
 
-[^key-3df35bfe4f4e007061d7922b09e8659a]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2011/1/schedule/3/paragraph/4) repealed (1.10.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))
+[^c-3df35bfe4f4e007061d7922b09e8659a]: Textual amendment: [Sch. 3 para. 4](https://www.legislation.gov.uk/nia/2011/1/schedule/3/paragraph/4) repealed (1.10.2016) by [Public Services Ombudsman Act (NorthernIreland) 2016 (c. 4)](https://www.legislation.gov.uk/nia/2016/4), [s. 64](https://www.legislation.gov.uk/nia/2016/4/section/64), [Sch. 9](https://www.legislation.gov.uk/nia/2016/4/schedule/9) (with s. 23, 50(3))

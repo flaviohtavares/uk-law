@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Status pending appeal[^key-ef93cc9c103ad83aaa3f64e5e3fb52e9]
+## 107. Status pending appeal[^c-ef93cc9c103ad83aaa3f64e5e3fb52e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ which is the subject of an appeal is suspended until the appeal is determined or
 
 ## Annotations
 
-[^key-ef93cc9c103ad83aaa3f64e5e3fb52e9]: Commencement: Reg. 107 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-ef93cc9c103ad83aaa3f64e5e3fb52e9]: Commencement: Reg. 107 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

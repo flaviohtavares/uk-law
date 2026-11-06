@@ -28,7 +28,7 @@ summary: ''
 
 (2) A closure notice is a notice which—
 
-- (a) proposes a prohibition, for the period specified in the notice,[^key-a149fc0d0282f73ab022e5849e4f2ab0] on sales of alcohol on the premises in question; and
+- (a) proposes a prohibition, for the period specified in the notice,[^c-a149fc0d0282f73ab022e5849e4f2ab0] on sales of alcohol on the premises in question; and
 - (b) offers the opportunity to discharge all criminal liability in respect of the alleged offence by the acceptance of the prohibition proposed by the notice.
 
 (3) A closure notice must—
@@ -42,7 +42,7 @@ summary: ''
 - (g) explain the right of every person who, at the time of the alleged offence, held or was one of the holders of a premises licence in respect of those premises to be tried for that offence; and
 - (h) explain how that right may be exercised and how (where it is not exercised) the proposed prohibition may be accepted.
 
-(4) The period specified for the purposes of subsection (3)(d) must be at least 48 hours but not more than 336 hours[^key-fe2414d6da75e6c722f2139f78791eee]; and the time specified as the time from which that period would begin must be not less than 14 days after the date of the service of the closure notice in accordance with subsection (6).
+(4) The period specified for the purposes of subsection (3)(d) must be at least 48 hours but not more than 336 hours[^c-fe2414d6da75e6c722f2139f78791eee]; and the time specified as the time from which that period would begin must be not less than 14 days after the date of the service of the closure notice in accordance with subsection (6).
 
 (5) The provision included in the notice by virtue of subsection (3)(h) must—
 
@@ -73,6 +73,6 @@ summary: ''
 
 [^c21937181]: Textual amendment: Ss. 169A, 169B and preceding cross-heading inserted (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2006/38/section/24/1), [66(2)(3)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2/3); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/858/article/2/a)
 
-[^key-a149fc0d0282f73ab022e5849e4f2ab0]: Textual amendment: Words in s. 169A(2)(a) substituted (22.3.2012 for specified purposes, 25.4.2012 in so far as not aleady in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 118(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/118/3/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 118(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/118/5)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/896/article/2/h); S.I. 2012/1129, art. 2(d)
+[^c-a149fc0d0282f73ab022e5849e4f2ab0]: Textual amendment: Words in s. 169A(2)(a) substituted (22.3.2012 for specified purposes, 25.4.2012 in so far as not aleady in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 118(3)(a)](https://www.legislation.gov.uk/ukpga/2011/13/section/118/3/a), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 118(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/118/5)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/896/article/2/h); S.I. 2012/1129, art. 2(d)
 
-[^key-fe2414d6da75e6c722f2139f78791eee]: Textual amendment: Words in s. 169A(4) substituted (22.3.2012 for specified purposes, 25.4.2012 in so far as not aleady in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 118(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/118/3/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 118(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/118/5)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/896/article/2/h); S.I. 2012/1129, art. 2(d)
+[^c-fe2414d6da75e6c722f2139f78791eee]: Textual amendment: Words in s. 169A(4) substituted (22.3.2012 for specified purposes, 25.4.2012 in so far as not aleady in force) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 118(3)(b)](https://www.legislation.gov.uk/ukpga/2011/13/section/118/3/b), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 118(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/118/5)); [S.I. 2012/896](https://www.legislation.gov.uk/uksi/2012/896), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/896/article/2/h); S.I. 2012/1129, art. 2(d)

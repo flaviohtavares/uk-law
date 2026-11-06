@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 41. Application: requirements for consent etc.[^key-38e491ca1e146a7ffcbd8ecdfe118ef1]
+## 41. Application: requirements for consent etc.[^c-38e491ca1e146a7ffcbd8ecdfe118ef1]
 
 *Extent: E*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38e491ca1e146a7ffcbd8ecdfe118ef1]: Commencement: [S. 41](https://www.legislation.gov.uk/ukcm/2018/3/section/41) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-38e491ca1e146a7ffcbd8ecdfe118ef1]: Commencement: [S. 41](https://www.legislation.gov.uk/ukcm/2018/3/section/41) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Diminishing notional capital rule[^key-f9788ea60748a2a38d0021f41c0fc072]
+## 23. Diminishing notional capital rule[^c-f9788ea60748a2a38d0021f41c0fc072]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9788ea60748a2a38d0021f41c0fc072]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2015/1844/regulation/23) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)
+[^c-f9788ea60748a2a38d0021f41c0fc072]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2015/1844/regulation/23) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1844/regulation/1/2)

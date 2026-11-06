@@ -35,74 +35,74 @@ on procedures and criteria concerning framework agreements for the allocation of
 
 (Text with EEA relevance) (revoked)
 
-[^key-983ccc09e17c60b4a300a6edec5f393d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-983ccc09e17c60b4a300a6edec5f393d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 1. Subject matter[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 2. Definitions[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Framework capacity statement[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 3. Framework capacity statement[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Alignment of network statements[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 4. Alignment of network statements[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Allocation of framework capacity[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 5. Allocation of framework capacity[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Conclusion of framework agreements[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 6. Conclusion of framework agreements[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Agreement on a time frame[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 7. Agreement on a time frame[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Ceilings for the allocation of framework capacity[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 8. Ceilings for the allocation of framework capacity[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Coordination in case of conflicting requests for framework agreements for any time after the end of the next timetable period[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 9. Coordination in case of conflicting requests for framework agreements for any time after the end of the next timetable period[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Coordination of conflicting requests for train paths under framework agreements during scheduling procedure[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 10. Coordination of conflicting requests for train paths under framework agreements during scheduling procedure[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Adjustment of framework capacity in the framework agreement[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 11. Adjustment of framework capacity in the framework agreement[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Cooperation in the allocation of framework capacity on more than one network[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 12. Cooperation in the allocation of framework capacity on more than one network[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Penalties[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 13. Penalties[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Derogation[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 14. Derogation[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Non-application of certain provisions[^key-983ccc09e17c60b4a300a6edec5f393d]
+## Article 15. Non-application of certain provisions[^c-983ccc09e17c60b4a300a6edec5f393d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 16.**[^key-983ccc09e17c60b4a300a6edec5f393d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.**[^c-983ccc09e17c60b4a300a6edec5f393d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-983ccc09e17c60b4a300a6edec5f393d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-983ccc09e17c60b4a300a6edec5f393d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-983ccc09e17c60b4a300a6edec5f393d]: Textual amendment: Regulation revoked (E.W.S.) (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/127/schedule)
+[^c-983ccc09e17c60b4a300a6edec5f393d]: Textual amendment: Regulation revoked (E.W.S.) (4.3.2024) by virtue of [The Railways (Revocation and Consequential Provision) Regulations 2024 (S.I. 2024/127)](https://www.legislation.gov.uk/uksi/2024/127), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/127/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2024/127/schedule)

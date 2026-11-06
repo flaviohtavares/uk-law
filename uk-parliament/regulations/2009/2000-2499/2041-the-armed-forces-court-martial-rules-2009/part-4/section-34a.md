@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34A. Gender representation on boards[^key-1e87095df5ea6bac687b87ccc8c9191c]
+## 34A. Gender representation on boards[^c-1e87095df5ea6bac687b87ccc8c9191c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1e87095df5ea6bac687b87ccc8c9191c]: Textual amendment: [Rule 34A](https://www.legislation.gov.uk/uksi/2009/2041/rule/34A) inserted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2022/1263/rule/5)
+[^c-1e87095df5ea6bac687b87ccc8c9191c]: Textual amendment: [Rule 34A](https://www.legislation.gov.uk/uksi/2009/2041/rule/34A) inserted (1.1.2023) by [The Armed Forces (Service Court Rules) (Amendment) (No. 2) Rules 2022 (S.I. 2022/1263)](https://www.legislation.gov.uk/uksi/2022/1263), [rules 1(2)](https://www.legislation.gov.uk/uksi/2022/1263/rule/1/2), [5](https://www.legislation.gov.uk/uksi/2022/1263/rule/5)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 142. Administrator’s duties on vacating office[^key-80da52eea0dd34911ec6a021636cd89b]
+## 142. Administrator’s duties on vacating office[^c-80da52eea0dd34911ec6a021636cd89b]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80da52eea0dd34911ec6a021636cd89b]: Commencement: Rule 142 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-80da52eea0dd34911ec6a021636cd89b]: Commencement: Rule 142 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

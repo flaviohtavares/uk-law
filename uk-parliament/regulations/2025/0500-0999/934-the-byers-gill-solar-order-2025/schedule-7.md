@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — REMOVAL OF HEDGEROWS[^key-889fb19fedb50bc0e000d5dfa33da488]
+## SCHEDULE 7 — REMOVAL OF HEDGEROWS[^c-889fb19fedb50bc0e000d5dfa33da488]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ Article 39
 
 ## Annotations
 
-[^key-889fb19fedb50bc0e000d5dfa33da488]: Commencement: Sch. 7 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)
+[^c-889fb19fedb50bc0e000d5dfa33da488]: Commencement: Sch. 7 in force at 14.8.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/934/article/1)

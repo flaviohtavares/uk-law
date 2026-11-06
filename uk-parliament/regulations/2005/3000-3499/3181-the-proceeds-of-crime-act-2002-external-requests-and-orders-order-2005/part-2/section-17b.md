@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17B. Power to seize property[^key-32be29f38ac892446022db40ea081599]
+## 17B. Power to seize property[^c-32be29f38ac892446022db40ea081599]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the property may otherwise be made unavailable for satisfying any external order that has been or may be made against the defendant; or
 - (b) the value of the property may otherwise be diminished as a result of conduct by the defendant or any other person.
 
-(2) But the officer may not under paragraph (1)[^key-7db6630f7e9b5d9dbf17aa3c1066bed6] seize exempt property.
+(2) But the officer may not under paragraph (1)[^c-7db6630f7e9b5d9dbf17aa3c1066bed6] seize exempt property.
 
 (3) “Exempt property” means—
 
@@ -34,7 +34,7 @@ summary: ''
 
 (4) In relation to realisable property which is free property held by the recipient of a tainted gift, references in paragraph (3) to the defendant are to be read as references to the recipient of that gift.
 
-(4A)[^key-256b04e9447bfddf48ec05dec7ac9068] On being satisfied as mentioned in article 17A(1) an appropriate officer may seize any free property if the officer has reasonable grounds for suspecting that it is a cryptoasset-related item.
+(4A)[^c-256b04e9447bfddf48ec05dec7ac9068] On being satisfied as mentioned in article 17A(1) an appropriate officer may seize any free property if the officer has reasonable grounds for suspecting that it is a cryptoasset-related item.
 
 (4B) A “cryptoasset-related item” is an item of property that is, or that contains or gives access to information that is, likely to assist in the seizure under paragraph (1) of any cryptoasset.
 
@@ -62,8 +62,8 @@ require any information which is stored in any electronic form and accessible fr
 
 ## Annotations
 
-[^key-32be29f38ac892446022db40ea081599]: Textual amendment: [Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/1A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [11](https://www.legislation.gov.uk/uksi/2015/1750/article/11)
+[^c-32be29f38ac892446022db40ea081599]: Textual amendment: [Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/1A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [11](https://www.legislation.gov.uk/uksi/2015/1750/article/11)
 
-[^key-7db6630f7e9b5d9dbf17aa3c1066bed6]: Textual amendment: Words in [art. 17B(2)](https://www.legislation.gov.uk/uksi/2005/3181/article/17B/2) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2024/1127/article/6/2/a)
+[^c-7db6630f7e9b5d9dbf17aa3c1066bed6]: Textual amendment: Words in [art. 17B(2)](https://www.legislation.gov.uk/uksi/2005/3181/article/17B/2) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [6(2)(a)](https://www.legislation.gov.uk/uksi/2024/1127/article/6/2/a)
 
-[^key-256b04e9447bfddf48ec05dec7ac9068]: Textual amendment: [Art. 17B(4A)-(4F)](https://www.legislation.gov.uk/uksi/2005/3181/article/17B/4A) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2024/1127/article/6/2/b)
+[^c-256b04e9447bfddf48ec05dec7ac9068]: Textual amendment: [Art. 17B(4A)-(4F)](https://www.legislation.gov.uk/uksi/2005/3181/article/17B/4A) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [6(2)(b)](https://www.legislation.gov.uk/uksi/2024/1127/article/6/2/b)

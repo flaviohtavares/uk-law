@@ -36,51 +36,51 @@ concerning questionnaires for Member States reports on the implementation of cer
 
 (94/741/EC) (revoked)
 
-[^key-ac79c05f7a13f2a2d818484dcf85b73d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ac79c05f7a13f2a2d818484dcf85b73d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ac79c05f7a13f2a2d818484dcf85b73d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ac79c05f7a13f2a2d818484dcf85b73d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ac79c05f7a13f2a2d818484dcf85b73d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ac79c05f7a13f2a2d818484dcf85b73d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-ac79c05f7a13f2a2d818484dcf85b73d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-ac79c05f7a13f2a2d818484dcf85b73d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — LIST OF QUESTIONNAIRES[^key-ac79c05f7a13f2a2d818484dcf85b73d]
+## ANNEX — LIST OF QUESTIONNAIRES[^c-ac79c05f7a13f2a2d818484dcf85b73d]
 
-[^key-ac79c05f7a13f2a2d818484dcf85b73d]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-ac79c05f7a13f2a2d818484dcf85b73d]2.
+[^c-ac79c05f7a13f2a2d818484dcf85b73d]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac79c05f7a13f2a2d818484dcf85b73d]3.
+[^c-ac79c05f7a13f2a2d818484dcf85b73d]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac79c05f7a13f2a2d818484dcf85b73d]Application of Directive 91/692/EEC on harmonizing and rationalizing reports on the implementation of certain Directives relating to the environment
+[^c-ac79c05f7a13f2a2d818484dcf85b73d]3.
 
-[^key-ac79c05f7a13f2a2d818484dcf85b73d]QUESTIONNAIRE
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-ac79c05f7a13f2a2d818484dcf85b73d]Application of Directive 91/692/EEC on harmonizing and rationalizing reports on the implementation of certain Directives relating to the environment
+
+[^c-ac79c05f7a13f2a2d818484dcf85b73d]QUESTIONNAIRE
 
 for the report of the Member States on the transposition and implementation of Directive 75/439/EEC on the disposal of waste oils as last amended by Directive 91/692/EEC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac79c05f7a13f2a2d818484dcf85b73d]Application of Directive 91/692/EEC on harmonizing and rationalizing reports on the implementation of certain Directives relating to the environment
+[^c-ac79c05f7a13f2a2d818484dcf85b73d]Application of Directive 91/692/EEC on harmonizing and rationalizing reports on the implementation of certain Directives relating to the environment
 
-[^key-ac79c05f7a13f2a2d818484dcf85b73d]QUESTIONNAIRE
+[^c-ac79c05f7a13f2a2d818484dcf85b73d]QUESTIONNAIRE
 
 for the report of the Member States on the transposition and implementation of Directive 2006/12/EC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ac79c05f7a13f2a2d818484dcf85b73d]Application of Directive 91/692/EEC on harmonizing and rationalizing reports on the implementation of certain-Directives relating to the environment
+[^c-ac79c05f7a13f2a2d818484dcf85b73d]Application of Directive 91/692/EEC on harmonizing and rationalizing reports on the implementation of certain-Directives relating to the environment
 
-[^key-ac79c05f7a13f2a2d818484dcf85b73d]QUESTIONNAIRE
+[^c-ac79c05f7a13f2a2d818484dcf85b73d]QUESTIONNAIRE
 
 for the report of the Member States on the transposition and implementation of Directive 86/278/EEC on the protection of the environment, and in particular of the soil, when sewage sludge is used in agriculture, amended by Directive 91/692/EEC
 
@@ -88,4 +88,4 @@ for the report of the Member States on the transposition and implementation of D
 
 ## Annotations
 
-[^key-ac79c05f7a13f2a2d818484dcf85b73d]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ac79c05f7a13f2a2d818484dcf85b73d]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

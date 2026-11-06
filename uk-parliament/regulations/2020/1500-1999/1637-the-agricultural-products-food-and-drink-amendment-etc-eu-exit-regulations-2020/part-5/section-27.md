@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Commission Implementing Regulation (EU) 2019/34[^key-7b968920ad8114cb2e33e8d0da9d0e64]
+## 27. Commission Implementing Regulation (EU) 2019/34[^c-7b968920ad8114cb2e33e8d0da9d0e64]
 
 *Extent: E+W+S+N.I.*
 
@@ -587,6 +587,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7b968920ad8114cb2e33e8d0da9d0e64]: Commencement: Reg. 27 in force at 31.12.2020, see reg. 1(7)
+[^c-7b968920ad8114cb2e33e8d0da9d0e64]: Commencement: Reg. 27 in force at 31.12.2020, see reg. 1(7)
 
 [^c24414561]: Marginal citation: EUR 2019/34; prospective amendments were included in [S.I. 2019/759](https://www.legislation.gov.uk/uksi/2019/759). They would have come into force on IP completion day. They are omitted by regulation 4 of this instrument and are replaced, in relation to Great Britain, on IP completion day with the amendments in regulation 27 of, and Schedule 9 to, this instrument.

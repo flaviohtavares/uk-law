@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 382. Mis-sold pensions[^key-b3cd601e369ffef145989886deb5c73e]
+## 382. Mis-sold pensions[^c-b3cd601e369ffef145989886deb5c73e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation F11[^f00277] of the Police Pensions Regulations 1987 (mis-sold pen
 
 ## Annotations
 
-[^key-b3cd601e369ffef145989886deb5c73e]: Commencement: Art. 382 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-b3cd601e369ffef145989886deb5c73e]: Commencement: Art. 382 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00277]: Footnote: Paragraph F11 was inserted by [S.I. 1997/2852](https://www.legislation.gov.uk/uksi/1997/2852), regulation 3.

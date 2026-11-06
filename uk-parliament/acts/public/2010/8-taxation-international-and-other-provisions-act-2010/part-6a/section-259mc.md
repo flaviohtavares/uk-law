@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 259MC. Application of Chapter 9[^key-a213cd3bc1378593df9c7c0f9a25c610][^key-e6cb61b3ef4cc5200df455650e5d69a3]
+## 259MC. Application of Chapter 9[^c-a213cd3bc1378593df9c7c0f9a25c610][^c-e6cb61b3ef4cc5200df455650e5d69a3]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ the relevant amount is to be ignored for the purposes of determining the extent 
 
 ## Annotations
 
-[^key-a213cd3bc1378593df9c7c0f9a25c610]: Textual amendment: [Pt. 6A Ch. 13A](https://www.legislation.gov.uk/ukpga/2010/8/part/6A/chapter/13A) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 35(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/35/3)
+[^c-a213cd3bc1378593df9c7c0f9a25c610]: Textual amendment: [Pt. 6A Ch. 13A](https://www.legislation.gov.uk/ukpga/2010/8/part/6A/chapter/13A) inserted (with effect in accordance with Sch. 7 paras. 37-39 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 7 para. 35(3)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/7/paragraph/35/3)
 
-[^key-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)
+[^c-e6cb61b3ef4cc5200df455650e5d69a3]: Textual amendment: Pt. 6A inserted (with effect in accordance with Sch. 10 paras. 18-21 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/10/paragraph/1)

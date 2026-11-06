@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Table of defined expressions[^key-2cfc05c096850140a85b1fbeff9b018b]
+## 41. Table of defined expressions[^c-2cfc05c096850140a85b1fbeff9b018b]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ In the Table in Article 2A of the 1986 Order (index of defined expressions)[^f00
 
 ## Annotations
 
-[^key-2cfc05c096850140a85b1fbeff9b018b]: Commencement: Art. 41 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-2cfc05c096850140a85b1fbeff9b018b]: Commencement: Art. 41 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00045]: Footnote: Inserted by the Companies (No.2) (Northern Ireland) Order 1990 ([S.I. 1990/1504 (N.I. 10)](https://www.legislation.gov.uk/nisi/1990/1504)), Article 78, Schedule 5, paragraph 1.

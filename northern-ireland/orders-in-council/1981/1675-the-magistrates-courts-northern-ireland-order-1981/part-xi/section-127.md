@@ -28,7 +28,7 @@ summary: ''
 
 (2) The period during which a person may be ordered to be bound by a recognizance under paragraph (1) shall not exceed two years.
 
-(3) A complaint under paragraph (1)(a) may be laid before a justice of the peace [^key-3abf4d96f6981f4cc35fcf76fbe5b3c8]....
+(3) A complaint under paragraph (1)(a) may be laid before a justice of the peace [^c-3abf4d96f6981f4cc35fcf76fbe5b3c8]....
 
 (4) Subject to paragraph (3), a summons to the person against whom such complaint is made or a warrant for his arrest (whether in the first instance or in default of appearance) may in all respects be issued as if the complaint were one alleging the commission of a summary offence.
 
@@ -47,6 +47,6 @@ in the same manner as in proceedings for a summary offence and the court may rem
 
 ## Annotations
 
-[^key-3abf4d96f6981f4cc35fcf76fbe5b3c8]: Textual amendment: Words in [art. 127(3)](https://www.legislation.gov.uk/nisi/1981/1675/article/127/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(25)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/25), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-3abf4d96f6981f4cc35fcf76fbe5b3c8]: Textual amendment: Words in [art. 127(3)](https://www.legislation.gov.uk/nisi/1981/1675/article/127/3) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 86(25)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/86/25), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/l) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
 [^c16971221]: Textual amendment: [1998 NI 9](https://www.legislation.gov.uk/nisi/1998)

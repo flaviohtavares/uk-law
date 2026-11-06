@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Use of proceeds of the levy for destination management and improvement[^key-ee2c75bfe31d04e0c4cccf3553ccdf67]
+## 44. Use of proceeds of the levy for destination management and improvement[^c-ee2c75bfe31d04e0c4cccf3553ccdf67]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee2c75bfe31d04e0c4cccf3553ccdf67]: Commencement: S. 44 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-ee2c75bfe31d04e0c4cccf3553ccdf67]: Commencement: S. 44 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

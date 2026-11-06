@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. National Park authority leases[^key-e750a44751f35a2b7d62175b869983c6]
+## 34. National Park authority leases[^c-e750a44751f35a2b7d62175b869983c6]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e750a44751f35a2b7d62175b869983c6]: Commencement: Reg. 34 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-e750a44751f35a2b7d62175b869983c6]: Commencement: Reg. 34 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00035]: Footnote: [S.I. 1996/1243](https://www.legislation.gov.uk/uksi/1996/1243). There are amendments which are not relevant to these Regulations.
 

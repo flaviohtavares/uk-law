@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: S*
 
-(1) A person shall comply with subsections (1A) and (1D)[^key-0789d5ff15b8214dacc7ad7694795461], in reaching any major decision which involves—
+(1) A person shall comply with subsections (1A) and (1D)[^c-0789d5ff15b8214dacc7ad7694795461], in reaching any major decision which involves—
 
 - (a) his fulfilling a parental responsibility or the responsibility mentioned in section 5(1) of this Act; or
 - (b) his exercising a parental right or giving consent by virtue of that section
 
-[^key-c950b5785606b7dbba545b9db40b475b]....
+[^c-c950b5785606b7dbba545b9db40b475b]....
 
-(1A)[^key-b1e2315be18073e1772d3a57eaceb1db] The person must—
+(1A)[^c-b1e2315be18073e1772d3a57eaceb1db] The person must—
 
 - (a) give the child an opportunity to express the child's views in—
   - (i) the manner that the child prefers, or
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0789d5ff15b8214dacc7ad7694795461]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/6/1) inserted (21.9.2025) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 1(2)(a)(i)](https://www.legislation.gov.uk/asp/2020/16/section/1/2/a/i), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2025/157](https://www.legislation.gov.uk/ssi/2025/157), [reg. 3](https://www.legislation.gov.uk/ssi/2025/157/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/157/regulation/4))
+[^c-0789d5ff15b8214dacc7ad7694795461]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/6/1) inserted (21.9.2025) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 1(2)(a)(i)](https://www.legislation.gov.uk/asp/2020/16/section/1/2/a/i), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2025/157](https://www.legislation.gov.uk/ssi/2025/157), [reg. 3](https://www.legislation.gov.uk/ssi/2025/157/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/157/regulation/4))
 
-[^key-c950b5785606b7dbba545b9db40b475b]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/6/1) repealed (21.9.2025) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 1(2)(a)(ii)](https://www.legislation.gov.uk/asp/2020/16/section/1/2/a/ii), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2025/157](https://www.legislation.gov.uk/ssi/2025/157), [reg. 3](https://www.legislation.gov.uk/ssi/2025/157/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/157/regulation/4))
+[^c-c950b5785606b7dbba545b9db40b475b]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/ukpga/1995/36/section/6/1) repealed (21.9.2025) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 1(2)(a)(ii)](https://www.legislation.gov.uk/asp/2020/16/section/1/2/a/ii), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2025/157](https://www.legislation.gov.uk/ssi/2025/157), [reg. 3](https://www.legislation.gov.uk/ssi/2025/157/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/157/regulation/4))
 
-[^key-b1e2315be18073e1772d3a57eaceb1db]: Textual amendment: [S. 6(1A)-(1D)](https://www.legislation.gov.uk/ukpga/1995/36/section/6/1A) inserted (21.9.2025) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 1(2)(b)](https://www.legislation.gov.uk/asp/2020/16/section/1/2/b), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2025/157](https://www.legislation.gov.uk/ssi/2025/157), [reg. 3](https://www.legislation.gov.uk/ssi/2025/157/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/157/regulation/4))
+[^c-b1e2315be18073e1772d3a57eaceb1db]: Textual amendment: [S. 6(1A)-(1D)](https://www.legislation.gov.uk/ukpga/1995/36/section/6/1A) inserted (21.9.2025) by [Children (Scotland) Act 2020 (asp 16)](https://www.legislation.gov.uk/asp/2020/16), [ss. 1(2)(b)](https://www.legislation.gov.uk/asp/2020/16/section/1/2/b), [34(2)](https://www.legislation.gov.uk/asp/2020/16/section/34/2); [S.S.I. 2025/157](https://www.legislation.gov.uk/ssi/2025/157), [reg. 3](https://www.legislation.gov.uk/ssi/2025/157/regulation/3) (with [reg. 4](https://www.legislation.gov.uk/ssi/2025/157/regulation/4))

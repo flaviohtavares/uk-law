@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Overview of Parts 10 and 11: general provision[^key-efc7d01791563d37f80d825124280378]
+## 6. Overview of Parts 10 and 11: general provision[^c-efc7d01791563d37f80d825124280378]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-efc7d01791563d37f80d825124280378]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2016/1/section/6) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-efc7d01791563d37f80d825124280378]: Commencement: [S. 6](https://www.legislation.gov.uk/anaw/2016/1/section/6) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

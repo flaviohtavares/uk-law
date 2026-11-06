@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 206. Raglan — community electoral arrangements[^key-fa6409764d9a1d7a92172a3ff4334a3d][^key-c44737c4ae411366696935d460812357]
+## 206. Raglan — community electoral arrangements[^c-fa6409764d9a1d7a92172a3ff4334a3d][^c-c44737c4ae411366696935d460812357]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ In the community of Raglan the number of councillors to be elected for the—
 
 ## Annotations
 
-[^key-fa6409764d9a1d7a92172a3ff4334a3d]: Commencement: Art. 206 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-fa6409764d9a1d7a92172a3ff4334a3d]: Commencement: Art. 206 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-c44737c4ae411366696935d460812357]: Commencement: [Art. 206](https://www.legislation.gov.uk/wsi/2021/1227/article/206) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-c44737c4ae411366696935d460812357]: Commencement: [Art. 206](https://www.legislation.gov.uk/wsi/2021/1227/article/206) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

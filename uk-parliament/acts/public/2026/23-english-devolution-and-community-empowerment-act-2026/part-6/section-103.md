@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 103. Power to make consequential provision[^key-22cb39eb2b98d20a18c454d10e87cc7e][^key-8ee7773f54640fcb037ba9df8b927c82]
+## 103. Power to make consequential provision[^c-22cb39eb2b98d20a18c454d10e87cc7e][^c-8ee7773f54640fcb037ba9df8b927c82]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-22cb39eb2b98d20a18c454d10e87cc7e]: Commencement: S. 103 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)
+[^c-22cb39eb2b98d20a18c454d10e87cc7e]: Commencement: S. 103 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)
 
-[^key-8ee7773f54640fcb037ba9df8b927c82]: Modification: [S. 103](https://www.legislation.gov.uk/ukpga/2026/23/section/103) applied (30.4.2026) by [The English Devolution and Community Empowerment Act 2026 (Transitional and Saving Provisions) (England) Regulations 2026 (S.I. 2026/482)](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/482/regulation/2/3)
+[^c-8ee7773f54640fcb037ba9df8b927c82]: Modification: [S. 103](https://www.legislation.gov.uk/ukpga/2026/23/section/103) applied (30.4.2026) by [The English Devolution and Community Empowerment Act 2026 (Transitional and Saving Provisions) (England) Regulations 2026 (S.I. 2026/482)](https://www.legislation.gov.uk/uksi/2026/482), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/482/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2026/482/regulation/2/3)

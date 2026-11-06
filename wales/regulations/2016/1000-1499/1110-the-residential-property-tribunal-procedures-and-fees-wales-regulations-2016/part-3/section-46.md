@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46. Fees for applications made under the 2013 Act[^key-38437e9126161f8376a9b786720ebc20]
+## 46. Fees for applications made under the 2013 Act[^c-38437e9126161f8376a9b786720ebc20]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38437e9126161f8376a9b786720ebc20]: Commencement: Reg. 46 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-38437e9126161f8376a9b786720ebc20]: Commencement: Reg. 46 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

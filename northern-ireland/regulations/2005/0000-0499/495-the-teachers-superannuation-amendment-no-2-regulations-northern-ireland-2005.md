@@ -41,15 +41,15 @@ Coming into operation
 
 The Department of Education, in exercise of the powers conferred on it by Article 11(1)[^f00001], (2), (3), (3A)[^f00002] and paragraphs 1, 3, 4, 5, 6, 8, 11 and 13 of Schedule 3 to the Superannuation (Northern Ireland) Order 1972[^f00003] and of every other power enabling it in that behalf, and after consultation with representatives of local education authorities, and of teachers and with such representatives of other persons likely to be affected as required by Article 11(5) of that Order, and with the consent of the Department of Finance and Personnel[^f00004], hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-3da018235c769acd42bd6dd6cf551c6e]
+## 1. Citation and commencement[^c-3da018235c769acd42bd6dd6cf551c6e]
 
 These Regulations may be cited as the Teachers' Superannuation (Amendment) (No. 2) Regulations (Northern Ireland) 2005 and shall come into operation on 5th December 2005.
 
-## 2. Amendment of the Teachers' Superannuation (Additional Voluntary Contributions) Regulations (Northern Ireland) 1996[^key-8cdf96c4513eeed83a7b4f8c60379266]
+## 2. Amendment of the Teachers' Superannuation (Additional Voluntary Contributions) Regulations (Northern Ireland) 1996[^c-8cdf96c4513eeed83a7b4f8c60379266]
 
 The Teachers' Superannuation (Additional Voluntary Contributions) Regulations (Northern Ireland) 1996[^f00005] shall be amended as provided by regulations 3 and 4.
 
-**3.**[^key-e7f5ac50c2c1db10c6e95bffd716473a] (1) Regulation 2 shall be amended as provided by paragraphs (2) and (3).
+**3.**[^c-e7f5ac50c2c1db10c6e95bffd716473a] (1) Regulation 2 shall be amended as provided by paragraphs (2) and (3).
 
 (2) In paragraph (1), after the definition of “child”, there shall be inserted—
 
@@ -59,25 +59,25 @@ The Teachers' Superannuation (Additional Voluntary Contributions) Regulations (N
 
 (3) In paragraph (3), in the definition of “dependent” after “any surviving spouse”, there shall be inserted “or surviving civil partner”.
 
-**4.**[^key-8405860874043f772e4a7eca01217190] In regulation 11(2) for “regulation 75 of the Principal Regulations.” there shall be substituted “regulation F1 or F1A of the Principal Regulations.”
+**4.**[^c-8405860874043f772e4a7eca01217190] In regulation 11(2) for “regulation 75 of the Principal Regulations.” there shall be substituted “regulation F1 or F1A of the Principal Regulations.”
 
-## 5. Amendment of the Teachers' (Compensation for Redundancy and Premature Retirement) Regulations (Northern Ireland) 1991[^key-6402a232948d6291de4372b25bf5ec72]
+## 5. Amendment of the Teachers' (Compensation for Redundancy and Premature Retirement) Regulations (Northern Ireland) 1991[^c-6402a232948d6291de4372b25bf5ec72]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-6402a232948d6291de4372b25bf5ec72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-6402a232948d6291de4372b25bf5ec72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-6402a232948d6291de4372b25bf5ec72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-6402a232948d6291de4372b25bf5ec72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Teachers' Superannuation Regulations (Northern Ireland) 1998[^key-4e36b0bc17912fee62046db96b617b9d]
+## 8. Amendment of the Teachers' Superannuation Regulations (Northern Ireland) 1998[^c-4e36b0bc17912fee62046db96b617b9d]
 
 The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amended in accordance with regulations 9 to 47.
 
-**9.**[^key-39aaf81368818795f02f6df5c97c903b] In regulation B3 in paragraph (1)(b), after “maternity” in each case there shall be inserted “, paternity or adoption”.
+**9.**[^c-39aaf81368818795f02f6df5c97c903b] In regulation B3 in paragraph (1)(b), after “maternity” in each case there shall be inserted “, paternity or adoption”.
 
-**10.**[^key-369216fc0c958d61253dce485ea51562] (1) Regulation C1 shall be amended as provided by paragraphs (2) to (5).
+**10.**[^c-369216fc0c958d61253dce485ea51562] (1) Regulation C1 shall be amended as provided by paragraphs (2) to (5).
 
 (2) In paragraph (1)(a)(ii) after “maternity;” there shall be inserted “, paternity or adoption,”.
 
@@ -87,23 +87,23 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (5) In paragraph (11) after “adoption leave” there shall be inserted “, paternity leave”.
 
-**11.**[^key-b37e6e552b30d18ffcb1dff94fa0fef0] In regulation C5, in paragraph (1), for “\[date of commencement\]” there shall be substituted “2nd November 1998”.
+**11.**[^c-b37e6e552b30d18ffcb1dff94fa0fef0] In regulation C5, in paragraph (1), for “\[date of commencement\]” there shall be substituted “2nd November 1998”.
 
-**12.**[^key-0e57c86e93bf03852a75ccb5f10de990] In regulation C8, after paragraph (2), there shall be added—
+**12.**[^c-0e57c86e93bf03852a75ccb5f10de990] In regulation C8, after paragraph (2), there shall be added—
 
 > (3) Parts IIA and III of Schedule 6 have effect for enabling family benefit contributions in respect of a civil partner’s reckonable service before 6th April 1988 to be paid.
 
 .
 
-**13.**[^key-e839e6b6734f49fd7a1bf67f56d21c81] (1) Regulation D1 shall be amended as provided by paragraphs (2) and (3).
+**13.**[^c-e839e6b6734f49fd7a1bf67f56d21c81] (1) Regulation D1 shall be amended as provided by paragraphs (2) and (3).
 
 (2) In paragraph (1)(b) for “or F4(8) (receipt of transfer value),” there shall be substituted “, F4(8) (acceptance of transfer value) or F4A(3) (acceptance of transfer values as part of a bulk transfer),”.
 
 (3) In paragraph (3)(b) after “maternity” there shall be inserted “, paternity or adoption”.
 
-**14.**[^key-579c00043e4a1fdcfa475576c1ae9afe] In regulation D2, in paragraph (b), after “regulation F1 or” there shall be inserted “F1A or in respect of which”.
+**14.**[^c-579c00043e4a1fdcfa475576c1ae9afe] In regulation D2, in paragraph (b), after “regulation F1 or” there shall be inserted “F1A or in respect of which”.
 
-**15.**[^key-cd66b4bf02451bd0e6e7268c6f333ffc] (1) Regulation E1 shall be amended as provided by paragraphs (2) to (5).
+**15.**[^c-cd66b4bf02451bd0e6e7268c6f333ffc] (1) Regulation E1 shall be amended as provided by paragraphs (2) to (5).
 
 (2) In paragraph (3)(c) after “his guaranteed minimum,” the word “and” shall be omitted.
 
@@ -117,7 +117,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (5) In paragraph (4) for “a widower’s pension payable under paragraph (3)(d)” substitute “a widower’s or surviving civil partner’s pension payable under paragraph (3)(d or (e)”.
 
-**16.**[^key-482d0f33a181a92b0d5751ca966d79a7] After regulation E1 there shall be inserted the following regulation—
+**16.**[^c-482d0f33a181a92b0d5751ca966d79a7] After regulation E1 there shall be inserted the following regulation—
 
 > **E1A. Residual liability for guaranteed minimum pensions and for section 5(2B) rights**
 >
@@ -136,7 +136,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 .
 
-**17.**[^key-a7086684d1e4f827a39147728395e70f] (1) Regulation E4 shall be amended as provided by paragraphs (2) to (5).
+**17.**[^c-a7086684d1e4f827a39147728395e70f] (1) Regulation E4 shall be amended as provided by paragraphs (2) to (5).
 
 (2) In paragraph (3) in the first line, after “Case B”, the word “female” shall be omitted.
 
@@ -146,7 +146,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (5) Regulation E4(3) shall cease to have effect as from 31st August 2006.
 
-**18.**[^key-41b2c776267baaa9e1de5f18d26b9360] In regulation E8(1), for sub-paragraph (a), there shall be substituted
+**18.**[^c-41b2c776267baaa9e1de5f18d26b9360] In regulation E8(1), for sub-paragraph (a), there shall be substituted
 
 > - (a)
 >   - (i) where his pensionable employment terminates before 5th December 2005, he had completed periods of the kinds described in Schedule 8 totalling at least 5 years, excluding any contributions refund period, or
@@ -154,7 +154,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 .
 
-**19.**[^key-1740800c0cbd10cd3e62dd35a2b4018e] (1) Regulation E11 shall be amended as provided by paragraphs (2) to (4).
+**19.**[^c-1740800c0cbd10cd3e62dd35a2b4018e] (1) Regulation E11 shall be amended as provided by paragraphs (2) to (4).
 
 (2) In paragraph (2)(a) after “a surviving spouse” there shall be inserted “, surviving civil partner”.
 
@@ -162,9 +162,9 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (4) In paragraph (4) after “spouse” there shall be inserted “civil partner”.
 
-**20.**[^key-2cd4048cf5b87c9834ec686a56184e57] In regulation E19(1) for “E4(4)” there shall be substituted “E4(2), (4)”.
+**20.**[^c-2cd4048cf5b87c9834ec686a56184e57] In regulation E19(1) for “E4(4)” there shall be substituted “E4(2), (4)”.
 
-**21.**[^key-d5b6f749db0ee4fe97dd449d84cc55f9] After regulation E19 there shall be inserted the following regulation—
+**21.**[^c-d5b6f749db0ee4fe97dd449d84cc55f9] After regulation E19 there shall be inserted the following regulation—
 
 > **E19A. Commutation: trivial pensions**
 >
@@ -182,7 +182,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 .
 
-**22.**[^key-0b619fd1dd29843c267b472707cb3d6b] (1) Regulation E20 shall be amended as provided by paragraphs (2) to (8).
+**22.**[^c-0b619fd1dd29843c267b472707cb3d6b] (1) Regulation E20 shall be amended as provided by paragraphs (2) to (8).
 
 (2) In paragraph (1) for “paragraph (6)” there shall be substituted “paragraphs (1A) and (6)”.
 
@@ -210,7 +210,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (8) In paragraph (7)(c) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner,”.
 
-**23.**[^key-7c4dd4cd4a1ef92bd44c511b9b95a614] (1) Regulation E21 shall be amended as provided by paragraphs (2) and (3).
+**23.**[^c-7c4dd4cd4a1ef92bd44c511b9b95a614] (1) Regulation E21 shall be amended as provided by paragraphs (2) and (3).
 
 (2) In paragraph (6) for sub-paragraph (a) there shall be substituted—
 
@@ -220,7 +220,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (3) In paragraph (6)(c) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-**24.**[^key-59e930d4bd30844865a0e0a50c709d23] (1) Regulation E22 shall be amended as provided by paragraphs (2) to (4).
+**24.**[^c-59e930d4bd30844865a0e0a50c709d23] (1) Regulation E22 shall be amended as provided by paragraphs (2) to (4).
 
 (2) In paragraph (1) after “widowers,” there shall be inserted “surviving civil partners,”.
 
@@ -232,7 +232,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (4) In paragraph (6) after “while he is unmarried” there shall be inserted “or not a civil partner”.
 
-**25.**[^key-45b7425c24905cf13eb56f2998991d0d] (1) Regulation E23 shall be amended as provided by paragraphs (2) to (4).
+**25.**[^c-45b7425c24905cf13eb56f2998991d0d] (1) Regulation E23 shall be amended as provided by paragraphs (2) to (4).
 
 (2) In paragraph (1) for “an unmarried person” there shall be substituted “a person who is not married or is not a civil partner”.
 
@@ -252,7 +252,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 .
 
-**26.**[^key-d1bbf331e40038a068839c5b806f9a09] (1) Regulation E24 shall be amended as provided by paragraphs (2) to (4).
+**26.**[^c-d1bbf331e40038a068839c5b806f9a09] (1) Regulation E24 shall be amended as provided by paragraphs (2) to (4).
 
 (2) In paragraph (2)(a) after “surviving spouse” there shall be inserted “or surviving civil partner”.
 
@@ -264,7 +264,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (4) In paragraph (4)(c) after “surviving spouse” there shall be inserted “, surviving civil partner”.
 
-**27.**[^key-87c59ec04c19839663e631c1a0872c86] (1) Regulation E25 shall be amended as provided by paragraphs (2) to (4).
+**27.**[^c-87c59ec04c19839663e631c1a0872c86] (1) Regulation E25 shall be amended as provided by paragraphs (2) to (4).
 
 (2) In paragraph (1)(a) after “maternity” there shall be inserted “, paternity or adoption”.
 
@@ -272,7 +272,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (4) In paragraph (3) and the Table after “spouse” in both places where those words occur there shall be inserted “, civil partner”.
 
-**28.**[^key-7615922825c677c8387ee620c3767aa7] For regulation E26 there shall be substituted the following regulation—
+**28.**[^c-7615922825c677c8387ee620c3767aa7] For regulation E26 there shall be substituted the following regulation—
 
 > **E26. Entitlement to long-term family benefits**
 >
@@ -303,7 +303,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 .
 
-**29.**[^key-04595b227d2119ae22bf5e6ccbd570cf] (1) Regulation E27 shall be amended as provided by paragraphs (2) to (5).
+**29.**[^c-04595b227d2119ae22bf5e6ccbd570cf] (1) Regulation E27 shall be amended as provided by paragraphs (2) to (5).
 
 (2) In paragraph (1) for “In the case of a man, and in the case of a woman in relation to a nominated beneficiary or a widower on whose marriage to her a nomination ceased to have effect,” there shall be substituted “Where the deceased is a man who is survived by a widow or by a nominated beneficiary in respect of whom the conditions in regulation E26(5) are satisfied, and where the deceased is a woman who is survived by a nominated beneficiary in respect of whom the conditions in regulation E 26(5) are satisfied or by a widower for whose benefit the deceased revoked a nomination which would otherwise have had effect or on whose marriage to her a nomination ceased to have effect, the deceased's”.
 
@@ -324,7 +324,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (5) In paragraph (3) at the end the full stop shall be omitted and there shall be added “or any period in respect of which a transfer value or cash equivalent has been paid by the Department under these Regulations”.
 
-**30.**[^key-fed27c02f241f6e2bf28f0b8d03454dd] (1) Regulation E28[^f00009] shall have a new heading “Amount of surviving spouse's, surviving civil partner’s or nominated beneficiary’s long-term pension” and that regulation shall be amended as provided by paragraphs (2) to (8).
+**30.**[^c-fed27c02f241f6e2bf28f0b8d03454dd] (1) Regulation E28[^f00009] shall have a new heading “Amount of surviving spouse's, surviving civil partner’s or nominated beneficiary’s long-term pension” and that regulation shall be amended as provided by paragraphs (2) to (8).
 
 (2) In paragraph (1) after “surviving spouse” there shall be inserted “, surviving civil partner”.
 
@@ -346,7 +346,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (8) In paragraph (9) for “paragraphs (3) to (7)” in both places where those words occur there shall be substituted “paragraphs (3) to (5), (7) and (7A)”.
 
-**31.**[^key-ad0c5b54dac1e4e33515339059e5ffce] (1) Regulation E29 shall be amended as provided by paragraphs (2) to (8).
+**31.**[^c-ad0c5b54dac1e4e33515339059e5ffce] (1) Regulation E29 shall be amended as provided by paragraphs (2) to (8).
 
 (2) In paragraph (1) for “paragraphs (3) to (6)” there shall be substituted “paragraphs (1A) and (3) to (5)”.
 
@@ -377,7 +377,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 .
 
-**32.**[^key-722358940dcf2f46c6b680210f9e509d] (1) Regulation E30 shall be amended as provided by paragraphs (2) to (5).
+**32.**[^c-722358940dcf2f46c6b680210f9e509d] (1) Regulation E30 shall be amended as provided by paragraphs (2) to (5).
 
 (2) In paragraph (1) after “surviving spouse” there shall be inserted “, surviving civil partner”.
 
@@ -400,13 +400,13 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (5) In paragraph (4)(a) after “surviving spouse” there shall be inserted “, surviving civil partner”.
 
-**33.**[^key-2fc85a898a6df7ea7ebd4c5bb321759b] (1) Regulation E31 shall be amended as provided by paragraphs (2) and (3).
+**33.**[^c-2fc85a898a6df7ea7ebd4c5bb321759b] (1) Regulation E31 shall be amended as provided by paragraphs (2) and (3).
 
 (2) In paragraph (3)(c) for “a transfer value has been received” there shall be substituted “a transfer value has not been paid”.
 
 (3) In paragraph (7)(a) after “maternity” there shall be inserted “, paternity or adoption”.
 
-**34.**[^key-c1846eb99438b5d0a88ec7977170a664] (1) Regulation E33 shall be amended as provided by paragraphs (2) and (3).
+**34.**[^c-c1846eb99438b5d0a88ec7977170a664] (1) Regulation E33 shall be amended as provided by paragraphs (2) and (3).
 
 (2) In paragraph (4) after “paragraphs” there shall be inserted “(4A) and”.
 
@@ -422,7 +422,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 .
 
-**35.**[^key-3d1bc646373fde3fb009a9189dfbf1bf] After regulation F1 there shall be inserted the following regulation—
+**35.**[^c-3d1bc646373fde3fb009a9189dfbf1bf] After regulation F1 there shall be inserted the following regulation—
 
 > **F1A. Bulk Transfers**
 >
@@ -434,15 +434,15 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 .
 
-**36.**[^key-d68b54491891b6cf902c9408083dfdb9] (1) Regulation F2 shall be amended as provided by paragraphs (2) and (3).
+**36.**[^c-d68b54491891b6cf902c9408083dfdb9] (1) Regulation F2 shall be amended as provided by paragraphs (2) and (3).
 
 (2) In paragraph (2)(a) after “(receipt of transfer value)” there shall be inserted “or F4A(3) (acceptance of transfer values as part of a bulk transfer)”.
 
 (3) In paragraph (3) after “regulation F4” there shall be inserted “or F4A”.
 
-**37.**[^key-984b9a3035587b688431897ba42a20f6] In regulation F3, in paragraph (a) after “regulation F1” there shall be inserted “or F1A”.
+**37.**[^c-984b9a3035587b688431897ba42a20f6] In regulation F3, in paragraph (a) after “regulation F1” there shall be inserted “or F1A”.
 
-**38.**[^key-65de1a7be61a35b9f3a349bb0f0049a0] (1) Regulation F4 shall be amended as provided by paragraphs (2) and (3).
+**38.**[^c-65de1a7be61a35b9f3a349bb0f0049a0] (1) Regulation F4 shall be amended as provided by paragraphs (2) and (3).
 
 (2) In paragraph (1) after “Subject to paragraphs (2) to (6)” there shall be inserted “and to regulation F4A”.
 
@@ -450,7 +450,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 > (5) A transfer value shall not be accepted if one was accepted before 2nd November 1998 in relation to the same transfer.
 
-**39.**[^key-176cf7ac6399f2357baa048d0bbaf91a] After regulation F4 there shall be inserted the following regulation—
+**39.**[^c-176cf7ac6399f2357baa048d0bbaf91a] After regulation F4 there shall be inserted the following regulation—
 
 > **F4A. Acceptance of transfer values as part of a bulk transfer**
 >
@@ -462,13 +462,13 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 .
 
-**40.**[^key-1c6a58cb21cd9193be7fa455b24ed415] In regulation G2[^f00010], in paragraph (4)(b), for “regulation F4” there shall be substituted “regulations F4 and F4A”.
+**40.**[^c-1c6a58cb21cd9193be7fa455b24ed415] In regulation G2[^f00010], in paragraph (4)(b), for “regulation F4” there shall be substituted “regulations F4 and F4A”.
 
-**41.**[^key-f6516d13bdc8f39000f440a663f1c7fa] In regulation G3, in paragraph (d), after “regulation F1” there shall be inserted “or F1A”.
+**41.**[^c-f6516d13bdc8f39000f440a663f1c7fa] In regulation G3, in paragraph (d), after “regulation F1” there shall be inserted “or F1A”.
 
-**42.**[^key-c81d24fdcdbf6c387a7a761fc542344a] In regulation H2, in paragraph (1)(g), after “maternity” there shall be inserted “, paternity or adoption”.
+**42.**[^c-c81d24fdcdbf6c387a7a761fc542344a] In regulation H2, in paragraph (1)(g), after “maternity” there shall be inserted “, paternity or adoption”.
 
-**43.**[^key-c0fc30a802fa0502bbb6d994bd60f017] (1) Regulation I6[^f00011] shall be amended as provided by paragraphs (2) and (3).
+**43.**[^c-c0fc30a802fa0502bbb6d994bd60f017] (1) Regulation I6[^f00011] shall be amended as provided by paragraphs (2) and (3).
 
 (2) For paragraph (5)(a) there shall be substituted —
 
@@ -478,7 +478,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (3) In paragraph (5)(c) for “widow or widower” there shall be substituted “widow, widower or surviving civil partner”.
 
-**44.**[^key-11730b1b9eca418b0eab5f185d86bc1a] In Schedule 1, the following definitions shall be added at the appropriate places in alphabetical order—
+**44.**[^c-11730b1b9eca418b0eab5f185d86bc1a] In Schedule 1, the following definitions shall be added at the appropriate places in alphabetical order—
 
 > |  |  |
 > | --- | --- |
@@ -491,7 +491,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 > | “Section 5(2B) Rights” | Rights (other than rights attributable to voluntary contributions within the meaning of section 107 of the Pensions Act) which are attributable to an earner’s service (within the meaning of sections 3, 4 and 112 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00016]) on or after 6th April 1997 in employment which is contracted out in accordance with section 5(2B) of the Pensions Act; |
 > | “Taxes Act” | The Income and Corporation Taxes Act 1988[^f00017]. |
 
-**45.**[^key-ca56c09320669058422777d76286ffc7] In Schedule 6 after Part II there shall be inserted the following Part—
+**45.**[^c-ca56c09320669058422777d76286ffc7] In Schedule 6 after Part II there shall be inserted the following Part—
 
 > **PART IIA — CONTRIBUTIONS CIVIL PARTNERS**
 >
@@ -562,7 +562,7 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 .
 
-**46.**[^key-7496d114fdc64a6a812fc2693dd18070] (1) In Schedule 6, Part III shall be amended as provided by paragraphs (2) to (6).
+**46.**[^c-7496d114fdc64a6a812fc2693dd18070] (1) In Schedule 6, Part III shall be amended as provided by paragraphs (2) to (6).
 
 (2) In paragraph 14(1)(a) omit “or”.
 
@@ -580,9 +580,9 @@ The Teachers' Superannuation Regulations (Northern Ireland) 1998 shall be amende
 
 (6) In paragraph 16 for “or widower” there shall be substituted “, widower, surviving civil partner”.
 
-**47.**[^key-f4653315b24fe732d35d8b64e85880b5] In Schedule 10, in paragraph 10(4), after “surviving spouse” there shall be inserted “or surviving civil partner”.
+**47.**[^c-f4653315b24fe732d35d8b64e85880b5] In Schedule 10, in paragraph 10(4), after “surviving spouse” there shall be inserted “or surviving civil partner”.
 
-## 48. Election in respect of protected benefit[^key-62c0f84041353668fb3ae30c55789c59]
+## 48. Election in respect of protected benefit[^c-62c0f84041353668fb3ae30c55789c59]
 
 (1) This regulation applies to a person—
 
@@ -702,99 +702,99 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00004]: Footnote: Formerly Department of Finance; *see* [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Article 3
 
-[^key-3da018235c769acd42bd6dd6cf551c6e]: Commencement: Reg. 1 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-3da018235c769acd42bd6dd6cf551c6e]: Commencement: Reg. 1 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-8cdf96c4513eeed83a7b4f8c60379266]: Commencement: Reg. 2 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-8cdf96c4513eeed83a7b4f8c60379266]: Commencement: Reg. 2 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1996 No. 260](https://www.legislation.gov.uk/nisr/1996/260), amended by [S.R. 2001 No. 149](https://www.legislation.gov.uk/nisr/2001/149) and [S.R. 2003 No. 86](https://www.legislation.gov.uk/nisr/2003/86)
 
-[^key-e7f5ac50c2c1db10c6e95bffd716473a]: Commencement: Reg. 3 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-e7f5ac50c2c1db10c6e95bffd716473a]: Commencement: Reg. 3 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-8405860874043f772e4a7eca01217190]: Commencement: Reg. 4 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-8405860874043f772e4a7eca01217190]: Commencement: Reg. 4 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-6402a232948d6291de4372b25bf5ec72]: Textual amendment: [Regs. 5-7](https://www.legislation.gov.uk/nisr/2005/495/regulation/5) revoked (30.4.2010) by [The Teachers’ (Compensation for Redundancy and Premature Retirement) Regulations (Northern Ireland) 2010 (S.R. 2010/136)](https://www.legislation.gov.uk/nisr/2010/136), [regs. 1](https://www.legislation.gov.uk/nisr/2010/136/regulation/1), [28(1)(c)](https://www.legislation.gov.uk/nisr/2010/136/regulation/28/1/c) (with [reg. 28(2)](https://www.legislation.gov.uk/nisr/2010/136/regulation/28/2))
+[^c-6402a232948d6291de4372b25bf5ec72]: Textual amendment: [Regs. 5-7](https://www.legislation.gov.uk/nisr/2005/495/regulation/5) revoked (30.4.2010) by [The Teachers’ (Compensation for Redundancy and Premature Retirement) Regulations (Northern Ireland) 2010 (S.R. 2010/136)](https://www.legislation.gov.uk/nisr/2010/136), [regs. 1](https://www.legislation.gov.uk/nisr/2010/136/regulation/1), [28(1)(c)](https://www.legislation.gov.uk/nisr/2010/136/regulation/28/1/c) (with [reg. 28(2)](https://www.legislation.gov.uk/nisr/2010/136/regulation/28/2))
 
-[^key-4e36b0bc17912fee62046db96b617b9d]: Commencement: Reg. 8 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-4e36b0bc17912fee62046db96b617b9d]: Commencement: Reg. 8 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-39aaf81368818795f02f6df5c97c903b]: Commencement: Reg. 9 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-39aaf81368818795f02f6df5c97c903b]: Commencement: Reg. 9 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-369216fc0c958d61253dce485ea51562]: Commencement: Reg. 10 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-369216fc0c958d61253dce485ea51562]: Commencement: Reg. 10 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-b37e6e552b30d18ffcb1dff94fa0fef0]: Commencement: Reg. 11 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-b37e6e552b30d18ffcb1dff94fa0fef0]: Commencement: Reg. 11 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-0e57c86e93bf03852a75ccb5f10de990]: Commencement: Reg. 12 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-0e57c86e93bf03852a75ccb5f10de990]: Commencement: Reg. 12 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-e839e6b6734f49fd7a1bf67f56d21c81]: Commencement: Reg. 13 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-e839e6b6734f49fd7a1bf67f56d21c81]: Commencement: Reg. 13 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-579c00043e4a1fdcfa475576c1ae9afe]: Commencement: Reg. 14 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-579c00043e4a1fdcfa475576c1ae9afe]: Commencement: Reg. 14 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-cd66b4bf02451bd0e6e7268c6f333ffc]: Commencement: Reg. 15 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-cd66b4bf02451bd0e6e7268c6f333ffc]: Commencement: Reg. 15 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-482d0f33a181a92b0d5751ca966d79a7]: Commencement: Reg. 16 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-482d0f33a181a92b0d5751ca966d79a7]: Commencement: Reg. 16 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
 [^f00008]: Footnote: Pension Schemes (Northern Ireland) Act [1993 (c. 49)](https://www.legislation.gov.uk/ukpga/1993/49); section 5(2B) was inserted by Article 133(3) of the Pensions (Northern Ireland) Order 1995 ([S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
-[^key-a7086684d1e4f827a39147728395e70f]: Commencement: Reg. 17 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-a7086684d1e4f827a39147728395e70f]: Commencement: Reg. 17 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-41b2c776267baaa9e1de5f18d26b9360]: Commencement: Reg. 18 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-41b2c776267baaa9e1de5f18d26b9360]: Commencement: Reg. 18 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-1740800c0cbd10cd3e62dd35a2b4018e]: Commencement: Reg. 19 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-1740800c0cbd10cd3e62dd35a2b4018e]: Commencement: Reg. 19 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-2cd4048cf5b87c9834ec686a56184e57]: Commencement: Reg. 20 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-2cd4048cf5b87c9834ec686a56184e57]: Commencement: Reg. 20 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-d5b6f749db0ee4fe97dd449d84cc55f9]: Commencement: Reg. 21 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-d5b6f749db0ee4fe97dd449d84cc55f9]: Commencement: Reg. 21 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-0b619fd1dd29843c267b472707cb3d6b]: Commencement: Reg. 22 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-0b619fd1dd29843c267b472707cb3d6b]: Commencement: Reg. 22 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-7c4dd4cd4a1ef92bd44c511b9b95a614]: Commencement: Reg. 23 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-7c4dd4cd4a1ef92bd44c511b9b95a614]: Commencement: Reg. 23 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-59e930d4bd30844865a0e0a50c709d23]: Commencement: Reg. 24 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-59e930d4bd30844865a0e0a50c709d23]: Commencement: Reg. 24 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-45b7425c24905cf13eb56f2998991d0d]: Commencement: Reg. 25 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-45b7425c24905cf13eb56f2998991d0d]: Commencement: Reg. 25 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-d1bbf331e40038a068839c5b806f9a09]: Commencement: Reg. 26 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-d1bbf331e40038a068839c5b806f9a09]: Commencement: Reg. 26 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-87c59ec04c19839663e631c1a0872c86]: Commencement: Reg. 27 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-87c59ec04c19839663e631c1a0872c86]: Commencement: Reg. 27 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-7615922825c677c8387ee620c3767aa7]: Commencement: Reg. 28 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-7615922825c677c8387ee620c3767aa7]: Commencement: Reg. 28 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-04595b227d2119ae22bf5e6ccbd570cf]: Commencement: Reg. 29 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-04595b227d2119ae22bf5e6ccbd570cf]: Commencement: Reg. 29 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-fed27c02f241f6e2bf28f0b8d03454dd]: Commencement: Reg. 30 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-fed27c02f241f6e2bf28f0b8d03454dd]: Commencement: Reg. 30 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
 [^f00009]: Footnote: Amended by [S.R. 2001 No. 149](https://www.legislation.gov.uk/nisr/2001/149), Schedule 3, paragraph 2
 
-[^key-ad0c5b54dac1e4e33515339059e5ffce]: Commencement: Reg. 31 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-ad0c5b54dac1e4e33515339059e5ffce]: Commencement: Reg. 31 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-722358940dcf2f46c6b680210f9e509d]: Commencement: Reg. 32 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-722358940dcf2f46c6b680210f9e509d]: Commencement: Reg. 32 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-2fc85a898a6df7ea7ebd4c5bb321759b]: Commencement: Reg. 33 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-2fc85a898a6df7ea7ebd4c5bb321759b]: Commencement: Reg. 33 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-c1846eb99438b5d0a88ec7977170a664]: Commencement: Reg. 34 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-c1846eb99438b5d0a88ec7977170a664]: Commencement: Reg. 34 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-3d1bc646373fde3fb009a9189dfbf1bf]: Commencement: Reg. 35 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-3d1bc646373fde3fb009a9189dfbf1bf]: Commencement: Reg. 35 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-d68b54491891b6cf902c9408083dfdb9]: Commencement: Reg. 36 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-d68b54491891b6cf902c9408083dfdb9]: Commencement: Reg. 36 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-984b9a3035587b688431897ba42a20f6]: Commencement: Reg. 37 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-984b9a3035587b688431897ba42a20f6]: Commencement: Reg. 37 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-65de1a7be61a35b9f3a349bb0f0049a0]: Commencement: Reg. 38 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-65de1a7be61a35b9f3a349bb0f0049a0]: Commencement: Reg. 38 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-176cf7ac6399f2357baa048d0bbaf91a]: Commencement: Reg. 39 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-176cf7ac6399f2357baa048d0bbaf91a]: Commencement: Reg. 39 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-1c6a58cb21cd9193be7fa455b24ed415]: Commencement: Reg. 40 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-1c6a58cb21cd9193be7fa455b24ed415]: Commencement: Reg. 40 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
 [^f00010]: Footnote: As amended by [S.R. 2005 No. 181](https://www.legislation.gov.uk/nisr/2005/181), regulation 5
 
-[^key-f6516d13bdc8f39000f440a663f1c7fa]: Commencement: Reg. 41 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-f6516d13bdc8f39000f440a663f1c7fa]: Commencement: Reg. 41 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-c81d24fdcdbf6c387a7a761fc542344a]: Commencement: Reg. 42 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-c81d24fdcdbf6c387a7a761fc542344a]: Commencement: Reg. 42 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-c0fc30a802fa0502bbb6d994bd60f017]: Commencement: Reg. 43 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-c0fc30a802fa0502bbb6d994bd60f017]: Commencement: Reg. 43 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
 [^f00011]: Footnote: Part I was inserted by [S.R. 2001 No. 149](https://www.legislation.gov.uk/nisr/2001/149), Schedule 1.
 
-[^key-11730b1b9eca418b0eab5f185d86bc1a]: Commencement: Reg. 44 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-11730b1b9eca418b0eab5f185d86bc1a]: Commencement: Reg. 44 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
 [^f00012]: Footnote: [S.R. 2002 No. 377](https://www.legislation.gov.uk/nisr/2002/377)
 
@@ -808,10 +808,10 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00017]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1)
 
-[^key-ca56c09320669058422777d76286ffc7]: Commencement: Reg. 45 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-ca56c09320669058422777d76286ffc7]: Commencement: Reg. 45 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-7496d114fdc64a6a812fc2693dd18070]: Commencement: Reg. 46 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-7496d114fdc64a6a812fc2693dd18070]: Commencement: Reg. 46 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-f4653315b24fe732d35d8b64e85880b5]: Commencement: Reg. 47 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-f4653315b24fe732d35d8b64e85880b5]: Commencement: Reg. 47 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
 
-[^key-62c0f84041353668fb3ae30c55789c59]: Commencement: Reg. 48 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)
+[^c-62c0f84041353668fb3ae30c55789c59]: Commencement: Reg. 48 in operation at 5.12.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/495/regulation/1)

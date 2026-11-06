@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Amendment of local legislation[^key-02bd5d8165e881d6bcc40b504b196d46]
+## 57. Amendment of local legislation[^c-02bd5d8165e881d6bcc40b504b196d46]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02bd5d8165e881d6bcc40b504b196d46]: Commencement: Art. 57 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)
+[^c-02bd5d8165e881d6bcc40b504b196d46]: Commencement: Art. 57 in force at 24.9.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2384/article/1)

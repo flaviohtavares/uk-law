@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Marine licence applications etc.: proceedings to question validity of decisions[^key-65499b711d0f1e8076a5849ca86cfa55]
+## 54. Marine licence applications etc.: proceedings to question validity of decisions[^c-65499b711d0f1e8076a5849ca86cfa55]
 
 *Extent: S*
 
@@ -78,4 +78,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65499b711d0f1e8076a5849ca86cfa55]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2014/3/section/54) in force at 26.2.2015 by [S.S.I. 2015/52](https://www.legislation.gov.uk/ssi/2015/52), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/52/article/2/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/52/article/3))
+[^c-65499b711d0f1e8076a5849ca86cfa55]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2014/3/section/54) in force at 26.2.2015 by [S.S.I. 2015/52](https://www.legislation.gov.uk/ssi/2015/52), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/52/article/2/1) (with [art. 3](https://www.legislation.gov.uk/ssi/2015/52/article/3))

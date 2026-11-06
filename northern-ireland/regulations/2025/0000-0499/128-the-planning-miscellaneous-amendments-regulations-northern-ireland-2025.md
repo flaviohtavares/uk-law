@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Infrastructure makes the following Regulations in exercise of the powers conferred by sections 9(2) and (3), 10(3), 22, 27(5), 30(1) and 247(1) and (6) of the Planning Act (Northern Ireland) 2011[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-adfc60085cc6460afe15b1a9ad188d55]
+## 1. Citation and commencement[^c-adfc60085cc6460afe15b1a9ad188d55]
 
  These Regulations may be cited as the Planning (Miscellaneous Amendments) Regulations (Northern Ireland) 2025 and shall come into operation on the 1st August 2025.
 
-## 2. Amendment to the Planning (Local Development Plan) Regulations (Northern Ireland) 2015[^key-d592fcc9e80de0068366fce35c6ac3da]
+## 2. Amendment to the Planning (Local Development Plan) Regulations (Northern Ireland) 2015[^c-d592fcc9e80de0068366fce35c6ac3da]
 
 (1) The Planning (Local Development Plan) Regulations (Northern Ireland) 2015[^f00003] are amended as follows.
 
@@ -62,7 +62,7 @@ The Department for Infrastructure makes the following Regulations in exercise of
 
 .
 
-## 3. Amendment to the Planning (Development Management) Regulations (Northern Ireland) 2015[^key-035f73bbf3e632291037727cddccb467]
+## 3. Amendment to the Planning (Development Management) Regulations (Northern Ireland) 2015[^c-035f73bbf3e632291037727cddccb467]
 
 (1) The Planning (Development Management) Regulations (Northern Ireland) 2015[^f00004] are amended as follows.
 
@@ -95,11 +95,11 @@ The Department for Infrastructure makes the following Regulations in exercise of
 
 (6) In the Schedule, for the Table at Class 1. EIA Development, in column 2 and 3 for “2015” substitute “2017”.
 
-## 4. Transitional provisions[^key-4e7f8552f54e249673f9a22bddaa76fe]
+## 4. Transitional provisions[^c-4e7f8552f54e249673f9a22bddaa76fe]
 
 The amendments made by regulation 3(4) shall not apply in respect of applications duly made before the coming into operation of these regulations.
 
-**5.**[^key-d17b1b65749d1bc7ab3e0c5575f835cc] The amendments made by regulation 3(5) shall apply in respect of applications duly made after the coming into operation of these regulations.
+**5.**[^c-d17b1b65749d1bc7ab3e0c5575f835cc] The amendments made by regulation 3(5) shall apply in respect of applications duly made after the coming into operation of these regulations.
 
 Sealed with the Official Seal of the Department for Infrastructure on 8th July 2025.
 
@@ -123,16 +123,16 @@ The Explanatory Memorandum is available alongside the Regulations on the governm
 
 [^f00002]: Footnote: [S.R. 2016 No.76](https://www.legislation.gov.uk/nisr/2016/76) - see Article 8 and Part 2 of Schedule 5 of the Departments (Transfer of Functions) Order (Northern Ireland) 2016
 
-[^key-adfc60085cc6460afe15b1a9ad188d55]: Commencement: Reg. 1 in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1)
+[^c-adfc60085cc6460afe15b1a9ad188d55]: Commencement: Reg. 1 in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1)
 
-[^key-d592fcc9e80de0068366fce35c6ac3da]: Commencement: Reg. 2 in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1)
+[^c-d592fcc9e80de0068366fce35c6ac3da]: Commencement: Reg. 2 in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2015 No.62](https://www.legislation.gov.uk/nisr/2015/62)
 
-[^key-035f73bbf3e632291037727cddccb467]: Commencement: Reg. 3 in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1)
+[^c-035f73bbf3e632291037727cddccb467]: Commencement: Reg. 3 in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2015 No.71](https://www.legislation.gov.uk/nisr/2015/71)
 
-[^key-4e7f8552f54e249673f9a22bddaa76fe]: Commencement: Reg. 4 in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1)
+[^c-4e7f8552f54e249673f9a22bddaa76fe]: Commencement: Reg. 4 in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1)
 
-[^key-d17b1b65749d1bc7ab3e0c5575f835cc]: Commencement: Reg. 5 in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1)
+[^c-d17b1b65749d1bc7ab3e0c5575f835cc]: Commencement: Reg. 5 in operation at 1.8.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/128/regulation/1)

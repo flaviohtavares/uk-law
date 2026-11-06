@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Opt-in round[^key-e5e1b730956ca1c771d70d0624f8c9aa]
+## 18. Opt-in round[^c-e5e1b730956ca1c771d70d0624f8c9aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5e1b730956ca1c771d70d0624f8c9aa]: Commencement: Reg. 18 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-e5e1b730956ca1c771d70d0624f8c9aa]: Commencement: Reg. 18 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

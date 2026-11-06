@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d57d049439df12912b969c54efd0da41][^key-2b8592e7631229d0b0d785176b0b9e8d] In Part 2 of Schedule 5 to the Scotland Act 1998, Section F1 (social security schemes) is amended as follows.
+(1)[^c-d57d049439df12912b969c54efd0da41][^c-2b8592e7631229d0b0d785176b0b9e8d] In Part 2 of Schedule 5 to the Scotland Act 1998, Section F1 (social security schemes) is amended as follows.
 
-(2)[^key-8890d2baac76a54119d54c8f0815c185] In the Exceptions, before the paragraph beginning “The subject-matter of Part II of the Social Work (Scotland) Act 1968” insert—
+(2)[^c-8890d2baac76a54119d54c8f0815c185] In the Exceptions, before the paragraph beginning “The subject-matter of Part II of the Social Work (Scotland) Act 1968” insert—
 
 > **Exception 1**
 >
@@ -38,9 +38,9 @@ summary: ''
 >
 > Carer's benefits, other than a benefit which is, or which is an element of, an excluded benefit.
 
-(3)[^key-aad0bd161f6912df1b50ec45510ef250] In the Exceptions, at the beginning of the paragraph beginning “The subject-matter of Part II of the Social Work (Scotland) Act 1968” insert— “ **Exception 3** ”.
+(3)[^c-aad0bd161f6912df1b50ec45510ef250] In the Exceptions, at the beginning of the paragraph beginning “The subject-matter of Part II of the Social Work (Scotland) Act 1968” insert— “ **Exception 3** ”.
 
-(4)[^key-8890d2baac76a54119d54c8f0815c185] In the Interpretation provision, after “local taxes.” insert—
+(4)[^c-8890d2baac76a54119d54c8f0815c185] In the Interpretation provision, after “local taxes.” insert—
 
 > “**Disability benefit**” means a benefit which is normally payable in respect of—
 >
@@ -89,10 +89,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d57d049439df12912b969c54efd0da41]: Commencement: [S. 22(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/22/1) in force at 5.9.2016 for specified purposes by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(a)(i)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/a/i)
+[^c-d57d049439df12912b969c54efd0da41]: Commencement: [S. 22(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/22/1) in force at 5.9.2016 for specified purposes by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(a)(i)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/a/i)
 
-[^key-2b8592e7631229d0b0d785176b0b9e8d]: Commencement: [S. 22(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/22/1) in force at 17.5.2017 in so far as not already in force by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2017/455/regulation/2/a/i)
+[^c-2b8592e7631229d0b0d785176b0b9e8d]: Commencement: [S. 22(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/22/1) in force at 17.5.2017 in so far as not already in force by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), [reg. 2(a)(i)](https://www.legislation.gov.uk/uksi/2017/455/regulation/2/a/i)
 
-[^key-8890d2baac76a54119d54c8f0815c185]: Commencement: [S. 22(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/22/2)[(4)](https://www.legislation.gov.uk/ukpga/2016/11/section/22/4) in force at 17.5.2017 by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), [reg. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2017/455/regulation/2/a/ii)
+[^c-8890d2baac76a54119d54c8f0815c185]: Commencement: [S. 22(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/22/2)[(4)](https://www.legislation.gov.uk/ukpga/2016/11/section/22/4) in force at 17.5.2017 by [S.I. 2017/455](https://www.legislation.gov.uk/uksi/2017/455), [reg. 2(a)(ii)](https://www.legislation.gov.uk/uksi/2017/455/regulation/2/a/ii)
 
-[^key-aad0bd161f6912df1b50ec45510ef250]: Commencement: [S. 22(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/22/3) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/a/ii)
+[^c-aad0bd161f6912df1b50ec45510ef250]: Commencement: [S. 22(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/22/3) in force at 5.9.2016 by [S.I. 2016/759](https://www.legislation.gov.uk/uksi/2016/759), [reg. 3(a)(ii)](https://www.legislation.gov.uk/uksi/2016/759/regulation/3/a/ii)

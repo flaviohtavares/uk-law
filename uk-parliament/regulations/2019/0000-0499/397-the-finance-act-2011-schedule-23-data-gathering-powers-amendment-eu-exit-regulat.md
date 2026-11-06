@@ -34,7 +34,7 @@ Exiting The European Union
 
 Value Added Tax
 
-The Finance Act 2011, Schedule 23 (Data-gathering Powers) (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-96e7b26abbb92b78464e271d185bea77]
+The Finance Act 2011, Schedule 23 (Data-gathering Powers) (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-96e7b26abbb92b78464e271d185bea77]
 
 Made
 
@@ -46,15 +46,15 @@ Laid before the House of Commons
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-96e7b26abbb92b78464e271d185bea77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96e7b26abbb92b78464e271d185bea77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and Commencement[^key-96e7b26abbb92b78464e271d185bea77]
+## 1. Citation and Commencement[^c-96e7b26abbb92b78464e271d185bea77]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Schedule 23 to the Finance Act 2011[^key-96e7b26abbb92b78464e271d185bea77]
+## 2. Amendment of Schedule 23 to the Finance Act 2011[^c-96e7b26abbb92b78464e271d185bea77]
 
 **Not yet in force.**
 
@@ -62,12 +62,12 @@ Coming into force in accordance with regulation 1(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-96e7b26abbb92b78464e271d185bea77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96e7b26abbb92b78464e271d185bea77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-96e7b26abbb92b78464e271d185bea77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96e7b26abbb92b78464e271d185bea77]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-96e7b26abbb92b78464e271d185bea77]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/397) revoked (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments to the Value Added Tax Act 1994 and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1544)](https://www.legislation.gov.uk/uksi/2020/1544), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1544/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1544/regulation/8); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-96e7b26abbb92b78464e271d185bea77]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2019/397) revoked (31.12.2020) by [The Value Added Tax (Miscellaneous Amendments to the Value Added Tax Act 1994 and Revocation) (EU Exit) Regulations 2020 (S.I. 2020/1544)](https://www.legislation.gov.uk/uksi/2020/1544), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1544/regulation/1), [8](https://www.legislation.gov.uk/uksi/2020/1544/regulation/8); [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

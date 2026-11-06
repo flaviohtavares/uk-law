@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 93. Calculation of income[^key-046bdbfca35e19497308b36da86d99ee]
+## 93. Calculation of income[^c-046bdbfca35e19497308b36da86d99ee]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-046bdbfca35e19497308b36da86d99ee]: Commencement: Reg. 93 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-046bdbfca35e19497308b36da86d99ee]: Commencement: Reg. 93 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

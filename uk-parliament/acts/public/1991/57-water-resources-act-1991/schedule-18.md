@@ -43,7 +43,7 @@ Section 154.
 
 ### Section 8 of the 1965 Act
 
-**4.**[^key-362a81f1b925bb0a8142ddceff97d71a] Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
+**4.**[^c-362a81f1b925bb0a8142ddceff97d71a] Section 8(1) of the Compulsory Purchase Act 1965 has effect as if references to acquiring land were to acquiring a right in the land, and Schedule 2A to that Act is to be read as if, for that Schedule, there were substituted—
 
 > **SCHEDULE 2A — Counter-notice requiring purchase of land**
 >
@@ -125,4 +125,4 @@ shall be so modified as to secure that, as against persons with interests in the
 
 ## Annotations
 
-[^key-362a81f1b925bb0a8142ddceff97d71a]: Textual amendment: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/1991/57/schedule/18/paragraph/4) substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 paras. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))
+[^c-362a81f1b925bb0a8142ddceff97d71a]: Textual amendment: [Sch. 18 para. 4](https://www.legislation.gov.uk/ukpga/1991/57/schedule/18/paragraph/4) substituted (3.2.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 17 paras. 6](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/6), [7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/17/paragraph/7); [S.I. 2017/75](https://www.legislation.gov.uk/uksi/2017/75), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/75/regulation/3/g) (with [reg. 5](https://www.legislation.gov.uk/uksi/2017/75/regulation/5))

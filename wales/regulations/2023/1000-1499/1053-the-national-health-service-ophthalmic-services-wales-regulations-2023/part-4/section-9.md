@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Qualifications of ophthalmic medical practitioners[^key-9e34bc5aae2e6923652dd14804b679f1]
+## 9. Qualifications of ophthalmic medical practitioners[^c-9e34bc5aae2e6923652dd14804b679f1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e34bc5aae2e6923652dd14804b679f1]: Commencement: Reg. 9 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-9e34bc5aae2e6923652dd14804b679f1]: Commencement: Reg. 9 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

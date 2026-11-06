@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on them by sections 26(5) and (6), 209(2) and 211(3)(a) and (4) of the Historic Environment (Wales) Act 2023[^f00001], make the following Regulations.
 
-## 1. Title, coming into force and code[^key-9f25a4a9f7df336b8ac1169ea4c516c1]
+## 1. Title, coming into force and code[^c-9f25a4a9f7df336b8ac1169ea4c516c1]
 
 (1) The title of these Regulations is the Scheduled Monuments (Partnership Agreements) (Wales) Regulations 2024.
 
@@ -53,7 +53,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 26(
 
 (3) These Regulations form part of a code of law relating to the historic environment of Wales[^f00002].
 
-## 2. Interpretation[^key-aec941138fb16263cd49e7273197ab12]
+## 2. Interpretation[^c-aec941138fb16263cd49e7273197ab12]
 
 In these Regulations—
 
@@ -72,7 +72,7 @@ In these Regulations—
 - “**partnership agreement**” (“*cytundeb partneriaeth”*) means an agreement entered into by the Welsh Ministers under section 25(1) of the 2023 Act;
 - “**scheduled monument**” (“***heneb gofrestredig***”) means a monument included in the schedule of monuments maintained by the Welsh Ministers under section 3 of the 2023 Act.
 
-## 3. Consultation and publicity requirements: draft agreement or draft variation[^key-f4f1b3caa9576b33f867803a3fe17a0c]
+## 3. Consultation and publicity requirements: draft agreement or draft variation[^c-f4f1b3caa9576b33f867803a3fe17a0c]
 
 (1) The Welsh Ministers may not enter into a partnership agreement unless they have complied with paragraphs (4) to (6).
 
@@ -117,14 +117,14 @@ In these Regulations—
 - (c) the disclosure of which would constitute a breach of confidence actionable by any person, or
 - (d) the disclosure of which is prohibited by or under any enactment or by an order of a court.
 
-## 4. Publicity requirement: duty to publish list[^key-d88006a4ffa7d97cc230c9892ffa69bb]
+## 4. Publicity requirement: duty to publish list[^c-d88006a4ffa7d97cc230c9892ffa69bb]
 
 The Welsh Ministers must—
 
 - (a) publish a list, by electronic means, of all partnership agreements that are in effect, and
 - (b) as soon as practicable after a partnership agreement is entered into, or an existing agreement is varied, add the agreement or variation to the list.
 
-## 5. Revocation[^key-b142073b84c0d441ca712b67d59fa07c]
+## 5. Revocation[^c-b142073b84c0d441ca712b67d59fa07c]
 
 The Scheduled Monuments (Heritage Partnership Agreements) (Wales) Regulations 2021[^f00003] are revoked.
 
@@ -162,16 +162,16 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2023 asc 3](https://www.legislation.gov.uk/asc/2023/3).
 
-[^key-9f25a4a9f7df336b8ac1169ea4c516c1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/929/regulation/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/929/regulation/1/2)
+[^c-9f25a4a9f7df336b8ac1169ea4c516c1]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/929/regulation/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/929/regulation/1/2)
 
 [^f00002]: Footnote: See paragraphs 8 to 10 of the Explanatory Notes to the 2023 Act, which can be found at https://www.legislation.gov.uk/asc/2023/3/notes/division/3.
 
-[^key-aec941138fb16263cd49e7273197ab12]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/929/regulation/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/929/regulation/1/2)
+[^c-aec941138fb16263cd49e7273197ab12]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/929/regulation/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/929/regulation/1/2)
 
-[^key-f4f1b3caa9576b33f867803a3fe17a0c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/929/regulation/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/929/regulation/1/2)
+[^c-f4f1b3caa9576b33f867803a3fe17a0c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/929/regulation/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/929/regulation/1/2)
 
-[^key-d88006a4ffa7d97cc230c9892ffa69bb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/929/regulation/4) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/929/regulation/1/2)
+[^c-d88006a4ffa7d97cc230c9892ffa69bb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/929/regulation/4) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/929/regulation/1/2)
 
-[^key-b142073b84c0d441ca712b67d59fa07c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/929/regulation/5) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/929/regulation/1/2)
+[^c-b142073b84c0d441ca712b67d59fa07c]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/929/regulation/5) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/929/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2021/1176 (W. 289)](https://www.legislation.gov.uk/wsi/2021/1176).

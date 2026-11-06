@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Amendment of regulation 59 (duty on SEPA to exercise its functions in accordance with the technical schedule)[^key-3cf6f72d83ffa9ec403f7c4d3da0f002]
+## 28. Amendment of regulation 59 (duty on SEPA to exercise its functions in accordance with the technical schedule)[^c-3cf6f72d83ffa9ec403f7c4d3da0f002]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cf6f72d83ffa9ec403f7c4d3da0f002]: Commencement: Reg. 28 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-3cf6f72d83ffa9ec403f7c4d3da0f002]: Commencement: Reg. 28 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

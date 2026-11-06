@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Power to include person convicted of banning order offence[^key-5a62eb46435c3c0016a1f16885371e24]
+## 30. Power to include person convicted of banning order offence[^c-5a62eb46435c3c0016a1f16885371e24]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a62eb46435c3c0016a1f16885371e24]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2016/22/section/30) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)
+[^c-5a62eb46435c3c0016a1f16885371e24]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2016/22/section/30) in force at 6.4.2018 by [S.I. 2018/393](https://www.legislation.gov.uk/uksi/2018/393), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2018/393/regulation/2/a)

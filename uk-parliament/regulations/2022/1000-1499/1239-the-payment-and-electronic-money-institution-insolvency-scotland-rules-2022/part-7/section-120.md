@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 120. Entitlement to draw a dividend[^key-7c60dc98ae3d1011178722727f5b97b5]
+## 120. Entitlement to draw a dividend[^c-7c60dc98ae3d1011178722727f5b97b5]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c60dc98ae3d1011178722727f5b97b5]: Commencement: Rule 120 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-7c60dc98ae3d1011178722727f5b97b5]: Commencement: Rule 120 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

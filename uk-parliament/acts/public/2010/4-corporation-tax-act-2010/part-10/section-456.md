@@ -24,7 +24,7 @@ summary: ''
 
 (2) Section 455(4)(a) does not apply to a debt incurred for the supply by a close company of goods or services in the ordinary course of its trade or business unless the credit given exceeds 6 months or is longer than that normally given to the company's customers.
 
-(2A)[^key-a76a11b350322184eb5405af2ba13f7e] Section 455 does not apply to a loan or advance made to a trustee of a charitable trust if the loan or advance is applied to the purposes of the charitable trust only.
+(2A)[^c-a76a11b350322184eb5405af2ba13f7e] Section 455 does not apply to a loan or advance made to a trustee of a charitable trust if the loan or advance is applied to the purposes of the charitable trust only.
 
 (3) Section 455 does not apply to a loan or advance made to—
 
@@ -52,4 +52,4 @@ if conditions A, B and C are met (but see subsection (7)).
 
 ## Annotations
 
-[^key-a76a11b350322184eb5405af2ba13f7e]: Textual amendment: [S. 456(2A)](https://www.legislation.gov.uk/ukpga/2010/4/section/456/2A) inserted (with effect in accordance with s. 51(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/51/1)
+[^c-a76a11b350322184eb5405af2ba13f7e]: Textual amendment: [S. 456(2A)](https://www.legislation.gov.uk/ukpga/2010/4/section/456/2A) inserted (with effect in accordance with s. 51(2) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 51(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/51/1)

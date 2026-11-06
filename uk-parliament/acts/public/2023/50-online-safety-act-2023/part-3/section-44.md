@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Secretary of State’s powers of direction[^key-b8fa70b6752a02943e49e2b02117db43]
+## 44. Secretary of State’s powers of direction[^c-b8fa70b6752a02943e49e2b02117db43]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,4 +85,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8fa70b6752a02943e49e2b02117db43]: Commencement: S. 44 in force at Royal Assent, see [s. 240(4)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/e)
+[^c-b8fa70b6752a02943e49e2b02117db43]: Commencement: S. 44 in force at Royal Assent, see [s. 240(4)(e)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44A. Appeal against detention in secure accommodation[^key-818d3132467bcc69f4a6e1a478e1f252]
+## 44A. Appeal against detention in secure accommodation[^c-818d3132467bcc69f4a6e1a478e1f252]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 - (a) specify the period within which an appeal may be made;
 - (b) make provision about the hearing of evidence during an appeal;
-- (c) provide for appeals to the Sheriff Appeal Court[^key-3a33adca40227208571dd46cfc52a5e7] and Court of Session against the determination of an appeal.
+- (c) provide for appeals to the Sheriff Appeal Court[^c-3a33adca40227208571dd46cfc52a5e7] and Court of Session against the determination of an appeal.
 
 (7) Regulations under subsection (5) are subject to the affirmative procedure.
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-818d3132467bcc69f4a6e1a478e1f252]: Textual amendment: [S. 44A](https://www.legislation.gov.uk/ukpga/1995/46/section/44A) inserted (1.8.2014 for specified purposes, 1.2.2016 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 91](https://www.legislation.gov.uk/asp/2014/8/section/91), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule); [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/406/article/3/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/406/article/4))
+[^c-818d3132467bcc69f4a6e1a478e1f252]: Textual amendment: [S. 44A](https://www.legislation.gov.uk/ukpga/1995/46/section/44A) inserted (1.8.2014 for specified purposes, 1.2.2016 in so far as not already in force) by [Children and Young People (Scotland) Act 2014 (asp 8)](https://www.legislation.gov.uk/asp/2014/8), [ss. 91](https://www.legislation.gov.uk/asp/2014/8/section/91), [102(3)](https://www.legislation.gov.uk/asp/2014/8/section/102/3); [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule); [S.S.I. 2015/406](https://www.legislation.gov.uk/ssi/2015/406), [art. 3(1)](https://www.legislation.gov.uk/ssi/2015/406/article/3/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2015/406/article/4))
 
-[^key-3a33adca40227208571dd46cfc52a5e7]: Textual amendment: Words in [s. 44A(6)(c)](https://www.legislation.gov.uk/ukpga/1995/46/section/44A/6/c) substituted (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402)](https://www.legislation.gov.uk/ssi/2015/402), [art. 1](https://www.legislation.gov.uk/ssi/2015/402/article/1), [sch. para. 3](https://www.legislation.gov.uk/ssi/2015/402/schedule/paragraph/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/402/article/5))
+[^c-3a33adca40227208571dd46cfc52a5e7]: Textual amendment: Words in [s. 44A(6)(c)](https://www.legislation.gov.uk/ukpga/1995/46/section/44A/6/c) substituted (1.1.2016) by [The Courts Reform (Scotland) Act 2014 (Consequential and Supplemental Provisions) Order 2015 (S.S.I. 2015/402)](https://www.legislation.gov.uk/ssi/2015/402), [art. 1](https://www.legislation.gov.uk/ssi/2015/402/article/1), [sch. para. 3](https://www.legislation.gov.uk/ssi/2015/402/schedule/paragraph/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2015/402/article/5))

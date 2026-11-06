@@ -38,12 +38,12 @@ and, in determining a person’s pensionable pay for the purposes of this subsec
 
 *Extent: N.I.*
 
-(3A)[^key-47655cbd06062384ff5596b8a81d2b1f] Subsection (3) does not apply where, at the date of the person’s death—
+(3A)[^c-47655cbd06062384ff5596b8a81d2b1f] Subsection (3) does not apply where, at the date of the person’s death—
 
 - (a) the person is a member of a scheme under section 1 of the Public Service Pensions Act (Northern Ireland) 2014; and
 - (b) a lump sum is payable under that scheme on the person’s death.
 
-(3A)[^key-4f2c97609a0dd244868c5003ff4aad62] Subsection (3) does not apply where, at the date of the person’s death—
+(3A)[^c-4f2c97609a0dd244868c5003ff4aad62] Subsection (3) does not apply where, at the date of the person’s death—
 
 - (a) the person is a member of a scheme under section 1 of the Public Service Pensions Act 2013, and
 - (b) a lump sum is payable under that scheme on the person’s death.
@@ -58,6 +58,6 @@ and, in determining a person’s pensionable pay for the purposes of this subsec
 
 [^c13953171]: Marginal citation: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-47655cbd06062384ff5596b8a81d2b1f]: Textual amendment: [S. 4(3A)](https://www.legislation.gov.uk/ukpga/1993/8/section/4/3A) inserted (N.I.) (1.4.2015) by [The Judicial Pensions Regulations (Northern Ireland) 2015 (S.R. 2015/76)](https://www.legislation.gov.uk/nisr/2015/76), [reg. 1(3)](https://www.legislation.gov.uk/nisr/2015/76/regulation/1/3), [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/11/3)
+[^c-47655cbd06062384ff5596b8a81d2b1f]: Textual amendment: [S. 4(3A)](https://www.legislation.gov.uk/ukpga/1993/8/section/4/3A) inserted (N.I.) (1.4.2015) by [The Judicial Pensions Regulations (Northern Ireland) 2015 (S.R. 2015/76)](https://www.legislation.gov.uk/nisr/2015/76), [reg. 1(3)](https://www.legislation.gov.uk/nisr/2015/76/regulation/1/3), [Sch. 3 para. 11(3)](https://www.legislation.gov.uk/nisr/2015/76/schedule/3/paragraph/11/3)
 
-[^key-4f2c97609a0dd244868c5003ff4aad62]: Textual amendment: [S. 4(3A)](https://www.legislation.gov.uk/ukpga/1993/8/section/4/3A) inserted (1.4.2015) by [The Judicial Pensions Regulations 2015 (S.I. 2015/182)](https://www.legislation.gov.uk/uksi/2015/182), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4), [Sch. 3 para. 12(3)](https://www.legislation.gov.uk/uksi/2015/182/schedule/3/paragraph/12/3) (with [regs. 148](https://www.legislation.gov.uk/uksi/2015/182/regulation/148), [160](https://www.legislation.gov.uk/uksi/2015/182/regulation/160))
+[^c-4f2c97609a0dd244868c5003ff4aad62]: Textual amendment: [S. 4(3A)](https://www.legislation.gov.uk/ukpga/1993/8/section/4/3A) inserted (1.4.2015) by [The Judicial Pensions Regulations 2015 (S.I. 2015/182)](https://www.legislation.gov.uk/uksi/2015/182), [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4), [Sch. 3 para. 12(3)](https://www.legislation.gov.uk/uksi/2015/182/schedule/3/paragraph/12/3) (with [regs. 148](https://www.legislation.gov.uk/uksi/2015/182/regulation/148), [160](https://www.legislation.gov.uk/uksi/2015/182/regulation/160))

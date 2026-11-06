@@ -35,7 +35,7 @@ Section 17.
 **3.** (1) In section 22(2) (definition of small-prize machines)—
 
 - (a) after “Act" insert “ (a) ”;
-- (b)[^key-f6f56e10ece34474981624742994e228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-f6f56e10ece34474981624742994e228] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) at the end insert—
 
   > - (b) an amusement machine is a medium-prize machine if it is a prize machine and the value or aggregate value of the benefits in money or money’s worth, which any player who is successful in a single game played by means of the machine may receive, can exceed £8 but cannot exceed £15.
@@ -336,7 +336,7 @@ Section 17.
 
 [^c14055451]: Marginal citation: [1981 c. 63](https://www.legislation.gov.uk/ukpga/1981/63).
 
-[^key-f6f56e10ece34474981624742994e228]: Textual amendment: [Sch. 2 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/2/paragraph/3/1/b) omitted (retrospective to 1.6.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 22(11)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/22/11/a)[(12)](https://www.legislation.gov.uk/ukpga/2009/10/section/22/12)
+[^c-f6f56e10ece34474981624742994e228]: Textual amendment: [Sch. 2 para. 3(1)(b)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/2/paragraph/3/1/b) omitted (retrospective to 1.6.2009) by virtue of [Finance Act 2009 (c. 10)](https://www.legislation.gov.uk/ukpga/2009/10), [s. 22(11)(a)](https://www.legislation.gov.uk/ukpga/2009/10/section/22/11/a)[(12)](https://www.legislation.gov.uk/ukpga/2009/10/section/22/12)
 
 [^c14055461]: Marginal citation: [1994 c. 9](https://www.legislation.gov.uk/ukpga/1994/9).
 

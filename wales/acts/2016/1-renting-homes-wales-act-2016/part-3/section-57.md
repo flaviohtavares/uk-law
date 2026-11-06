@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Permissible forms of dealing[^key-7e830847327a534ed360d69d06f98c4e]
+## 57. Permissible forms of dealing[^c-7e830847327a534ed360d69d06f98c4e]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7e830847327a534ed360d69d06f98c4e]: Commencement: [S. 57](https://www.legislation.gov.uk/anaw/2016/1/section/57) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-7e830847327a534ed360d69d06f98c4e]: Commencement: [S. 57](https://www.legislation.gov.uk/anaw/2016/1/section/57) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

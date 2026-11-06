@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Landlord’s objection to legatee or acquirer on intestacy: near relatives and other persons[^key-6e3f1e1461c3eb7d0da977195628b746]
+## 41. Landlord’s objection to legatee or acquirer on intestacy: near relatives and other persons[^c-6e3f1e1461c3eb7d0da977195628b746]
 
 *Extent: S*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6e3f1e1461c3eb7d0da977195628b746]: Commencement: S. 41 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-6e3f1e1461c3eb7d0da977195628b746]: Commencement: S. 41 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

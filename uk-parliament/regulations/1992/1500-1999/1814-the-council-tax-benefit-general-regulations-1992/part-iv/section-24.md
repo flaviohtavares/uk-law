@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Calculation of income other than earnings[^key-15d1db1478a419072c0d001feb050344]
+## 24. Calculation of income other than earnings[^c-15d1db1478a419072c0d001feb050344]
 
 *Extent: E+W+S*
 
-(1) For the purposes of regulation 16 (average weekly income other than earnings), the income of a claimant which does not consist of earnings to be taken into account shall, subject to paragraphs (2) to (4), be his gross income and any capital treated as income under regulation 25 (capital treated as income) or 27 (modifications in respect of child or young person)[^key-b0718ce6fa01b03fc971c03630b2ef3b].
+(1) For the purposes of regulation 16 (average weekly income other than earnings), the income of a claimant which does not consist of earnings to be taken into account shall, subject to paragraphs (2) to (4), be his gross income and any capital treated as income under regulation 25 (capital treated as income) or 27 (modifications in respect of child or young person)[^c-b0718ce6fa01b03fc971c03630b2ef3b].
 
 (2) There shall be disregarded from the calculation of a claimant’s gross income under paragraph (1) any sum, where applicable, specified in Schedule 4.
 
@@ -32,9 +32,9 @@ summary: ''
 
 ## Annotations
 
-[^key-15d1db1478a419072c0d001feb050344]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1992/1814/regulation/24) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-15d1db1478a419072c0d001feb050344]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1992/1814/regulation/24) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^key-b0718ce6fa01b03fc971c03630b2ef3b]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/24/1) substituted (4.10.1993) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/2118)](https://www.legislation.gov.uk/uksi/1993/2118), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/1993/2118/regulation/23)
+[^c-b0718ce6fa01b03fc971c03630b2ef3b]: Textual amendment: Words in [reg. 24(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/24/1) substituted (4.10.1993) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/2118)](https://www.legislation.gov.uk/uksi/1993/2118), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/1/1), [23](https://www.legislation.gov.uk/uksi/1993/2118/regulation/23)
 
 [^f00035]: Footnote: [1990 c. 6](https://www.legislation.gov.uk/ukpga/1990/6).
 

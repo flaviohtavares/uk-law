@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Designations relating to Scotland[^key-5bcb782fffd3d66a2010e4e21a1d0379]
+## 6. Designations relating to Scotland[^c-5bcb782fffd3d66a2010e4e21a1d0379]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ the Secretary of State must consult the Scottish Ministers.
 
 ## Annotations
 
-[^key-5bcb782fffd3d66a2010e4e21a1d0379]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2004/20/section/6) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)
+[^c-5bcb782fffd3d66a2010e4e21a1d0379]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2004/20/section/6) in force at 24.8.2004 by [S.I. 2004/2184](https://www.legislation.gov.uk/uksi/2004/2184), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2184/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2184/schedule/1)

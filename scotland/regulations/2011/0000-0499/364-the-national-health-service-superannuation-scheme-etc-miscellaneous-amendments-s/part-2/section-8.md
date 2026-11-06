@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Amendment of regulation G13[^key-806f09166ffbc9f6327173e85b92307b]
+## 8. Amendment of regulation G13[^c-806f09166ffbc9f6327173e85b92307b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation G13 (increased surviving civil partner’s pension), in paragraph 
 
 ## Annotations
 
-[^key-806f09166ffbc9f6327173e85b92307b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/364/regulation/8) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-806f09166ffbc9f6327173e85b92307b]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/364/regulation/8) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

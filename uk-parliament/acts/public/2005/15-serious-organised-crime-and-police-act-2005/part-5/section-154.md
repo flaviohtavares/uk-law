@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Power to require specimens of breath at roadside or at hospital etc.[^key-722cb31ed90539d156db52ed1846ab7a]
+## 154. Power to require specimens of breath at roadside or at hospital etc.[^c-722cb31ed90539d156db52ed1846ab7a]
 
 *Extent: E+W*
 
@@ -59,7 +59,7 @@ summary: ''
 - (a) in paragraph (b) (breath-testing device not available etc.) insert at the beginning “ specimens of breath have not been provided elsewhere and ”, and
 - (b) in paragraph (bb) (police station breath-testing device has not provided a reliable indication of alcohol level) for “at the police station” substitute “ (at the police station or elsewhere) ”.
 
-(7)[^key-aff41be1abc234bbca787a08d9ef99c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-aff41be1abc234bbca787a08d9ef99c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In section 9(1) of that Act (protection for hospital patients) for “for a laboratory test” substitute “ under section 7 of this Act ”.
 
@@ -78,6 +78,6 @@ summary: ''
 
 ## Annotations
 
-[^key-722cb31ed90539d156db52ed1846ab7a]: Commencement: S. 154 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(u)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/u)
+[^c-722cb31ed90539d156db52ed1846ab7a]: Commencement: S. 154 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(u)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/u)
 
-[^key-aff41be1abc234bbca787a08d9ef99c6]: Textual amendment: [S. 154(7)](https://www.legislation.gov.uk/ukpga/2005/15/section/154/7) omitted (10.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 1(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/1/4); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)
+[^c-aff41be1abc234bbca787a08d9ef99c6]: Textual amendment: [S. 154(7)](https://www.legislation.gov.uk/ukpga/2005/15/section/154/7) omitted (10.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 11 para. 1(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/1/4); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 4](https://www.legislation.gov.uk/uksi/2015/994/article/4)

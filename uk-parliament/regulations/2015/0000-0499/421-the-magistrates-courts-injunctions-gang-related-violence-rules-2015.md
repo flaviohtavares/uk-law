@@ -44,7 +44,7 @@ Coming into force in accordance with rule 1(2)
 
 The Lord Chief Justice, with the concurrence of the Lord Chancellor, makes the following Rules in exercise of the powers conferred by section 144 of the Magistrates’ Courts Act 1980[^f00001] and section 48(4) of the Policing and Crime Act 2009[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-da6373df4ed1f14b40d870e9df8be8c4]
+## 1. Citation, commencement and interpretation[^c-da6373df4ed1f14b40d870e9df8be8c4]
 
 (1) These Rules may be cited as the Magistrates’ Courts (Injunctions: Gang-related Violence) Rules 2015.
 
@@ -58,11 +58,11 @@ The Lord Chief Justice, with the concurrence of the Lord Chancellor, makes the f
 - (d) “defaulter” and “injunction applicant” have the meaning given in paragraph 1(9) of Schedule 5A to the 2009 Act;
 - (e) “injunction” means an injunction under section 34 of the 2009 Act.
 
-## 2. Applications to be by complaint[^key-ac2d4b132ffbbf2a413d2c678dd57988]
+## 2. Applications to be by complaint[^c-ac2d4b132ffbbf2a413d2c678dd57988]
 
 An application to which these rules apply must be made by way of complaint in writing.
 
-## 3. Applications for injunctions[^key-d33c80adc34cff71b63fea512b87f4c5]
+## 3. Applications for injunctions[^c-d33c80adc34cff71b63fea512b87f4c5]
 
 (1) An application to a youth court for an injunction must—
 
@@ -79,14 +79,14 @@ An application to which these rules apply must be made by way of complaint in wr
 - (a) the respondent personally; and
 - (b) the parent or guardian mentioned in paragraph (2)(b) personally, or by posting it to or leaving it at that parent or guardian’s address.
 
-## 4. Interim injunctions[^key-cf6daa5a4dad059fc03bcd33c300f60b]
+## 4. Interim injunctions[^c-cf6daa5a4dad059fc03bcd33c300f60b]
 
 An interim injunction which is made on an application made without notice—
 
 - (a) must be served on the respondent personally as soon as practicable; and
 - (b) will not take effect until it has been so served.
 
-## 5. Injunction containing provisions to which a power of arrest is attached[^key-065b4e906a07052b3a99fe9dd9afd4ec]
+## 5. Injunction containing provisions to which a power of arrest is attached[^c-065b4e906a07052b3a99fe9dd9afd4ec]
 
 (1) In this rule, “relevant provision” means a provision of an injunction to which a power of arrest is attached.
 
@@ -102,7 +102,7 @@ An interim injunction which is made on an application made without notice—
 - (a) immediately inform any police station to which a copy of the relevant provisions was delivered under paragraph (2)(b); and
 - (b) deliver a copy of the order to any police station so informed.
 
-## 6. Application to vary or discharge an injunction[^key-3379269021a1b89247326301b6f7dc64]
+## 6. Application to vary or discharge an injunction[^c-3379269021a1b89247326301b6f7dc64]
 
 (1) An application under section 42(1)(b) to vary or discharge an injunction must be made to either—
 
@@ -114,13 +114,13 @@ An interim injunction which is made on an application made without notice—
 - (a) the reason why the person applying for variation or discharge believes the court should vary or discharge the injunction; and
 - (b) if the application is to vary the injunction, the variation which is sought.
 
-## 7. Application for warrant of arrest[^key-90d6dfff0ce4fe054bf976e81b5c38b2]
+## 7. Application for warrant of arrest[^c-90d6dfff0ce4fe054bf976e81b5c38b2]
 
 (1) An application for a warrant of arrest under section 44(2) must be substantiated on oath.
 
 (2) Such an application may be made without notice.
 
-## 8. Proceedings following arrest under the 2009 Act[^key-a62c6c9c82eb9e42689b7d0b61d222e3]
+## 8. Proceedings following arrest under the 2009 Act[^c-a62c6c9c82eb9e42689b7d0b61d222e3]
 
 (1) This rule applies where a person under the age of 18 is arrested pursuant to—
 
@@ -139,32 +139,32 @@ An interim injunction which is made on an application made without notice—
 
 (4) An application under paragraph 1(1)(b) of Schedule 5A may be made even if the arrested person is not dealt with within the period in paragraph (3)(a) of this rule.
 
-## 9. Recognizance[^key-cac74addb67f2835fd31a4b5b8498be8]
+## 9. Recognizance[^c-cac74addb67f2835fd31a4b5b8498be8]
 
 Where, in accordance with paragraph 2(2)(b) of Schedule 5, the court fixes the amount of any recognizance with a view to it being taken subsequently, the recognizance may be taken by—
 
 - (a) a District Judge (Magistrates’ Court);
 - (b) a justice of the peace;
-- (c) a person nominated by the Lord Chancellor who is authorised to exercise functions under section 28(1) of the Courts Act 2003[^key-f49814f636ab867814fd1395c5983d29]; or
+- (c) a person nominated by the Lord Chancellor who is authorised to exercise functions under section 28(1) of the Courts Act 2003[^c-f49814f636ab867814fd1395c5983d29]; or
 - (d) a police officer of the rank of inspector or above, or in charge of a police station,
 
 with the same consequences as if it had been entered into before the court.
 
-## 10. Application for supervision order or detention order[^key-071d443ebc73ced8d14e72e8c5b1cf29]
+## 10. Application for supervision order or detention order[^c-071d443ebc73ced8d14e72e8c5b1cf29]
 
 An application under paragraph 1(1)(b) of Schedule 5A must—
 
 - (a) be supported by evidence of the breach of any provisions of the injunction which is alleged; and
 - (b) include a statement that the consultation required by paragraph 1(4) of Schedule 5A has been undertaken.
 
-## 11. Non-compliance with supervision order[^key-c53cfb72da3005ce13f02b29832cad44]
+## 11. Non-compliance with supervision order[^c-c53cfb72da3005ce13f02b29832cad44]
 
 An application under paragraph 12(2) of Schedule 5A must—
 
 - (a) be supported by evidence of the failure to comply with provisions of the supervision order which is alleged; and
 - (b) include a statement that the consultation required by paragraph 12(3) of Schedule 5A has been undertaken.
 
-## 12. Application to amend or revoke a supervision order[^key-df0477ace205c6a2f9540b5debfb35aa]
+## 12. Application to amend or revoke a supervision order[^c-df0477ace205c6a2f9540b5debfb35aa]
 
 (1) An application under paragraph 8(1) of Schedule 5A must state the new period which it is proposed to have substituted for that specified in the supervision order.
 
@@ -178,14 +178,14 @@ An application under paragraph 12(2) of Schedule 5A must—
 - (a) the reasons why it is in the interests of justice for the order to be revoked or (as the case may be) amended by removing any requirement from it; and
 - (b) if the application is made by the injunction applicant, a statement that the consultation required by paragraph 10(5) of Schedule 5A has been undertaken.
 
-## 13. Application to revoke a detention order[^key-ab93e634af5fabaf29861d36ca8b490f]
+## 13. Application to revoke a detention order[^c-ab93e634af5fabaf29861d36ca8b490f]
 
 An application under paragraph 15(1) of Schedule 5A must include—
 
 - (a) the reasons why it is in the interests of justice for the order to be revoked; and
 - (b) if the application is made by the injunction applicant, a statement that the consultation required by paragraph 15(5) of Schedule 5A has been undertaken.
 
-## 14. Applications for which court’s consent is required[^key-561845d7310e91a3ef27717fb8f8e5c2]
+## 14. Applications for which court’s consent is required[^c-561845d7310e91a3ef27717fb8f8e5c2]
 
 (1) Where the consent of the court is required by section 42(6), or paragraph 10(4) or 15(4) of Schedule 5A, for the making of a further application, the application for consent must include—
 
@@ -197,7 +197,7 @@ An application under paragraph 15(1) of Schedule 5A must include—
 - (a) may be given by a court comprising a single justice; but
 - (b) may not be refused without the applicant having been given an opportunity to make oral representations.
 
-## 15. Review hearings[^key-2980ea659d233b43f96235445a426dcb]
+## 15. Review hearings[^c-2980ea659d233b43f96235445a426dcb]
 
 Where the court has ordered the applicant and the respondent to attend a review hearing under section 36(4A), the applicant and the respondent must submit to the court—
 
@@ -206,7 +206,7 @@ Where the court has ordered the applicant and the respondent to attend a review 
 
 any reasons why the injunction should, or should not, be varied or discharged.
 
-## 16. Respondent attaining age of 18 after commencement of proceedings[^key-0abd2bf515320746c1e7a44a19c9d4c7]
+## 16. Respondent attaining age of 18 after commencement of proceedings[^c-0abd2bf515320746c1e7a44a19c9d4c7]
 
 (1) Where a respondent attains the age of 18 after the commencement of proceedings under Part 4 of the 2009 Act, the proceedings must remain in a youth court, subject to paragraphs (2) and (3).
 
@@ -258,38 +258,38 @@ No forms are prescribed for applications. The Rules provide for all applications
 
 [^f00002]: Footnote: [2009 c. 26](https://www.legislation.gov.uk/ukpga/2009/26). Relevant amendments to Part 4 of the 2009 Act were made by the Crime and Security Act [2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), sections 34, 35(1), (2), (3), 36(1), (2), (3), 37, 39(1), (2), and the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), section 17(5) and Schedule 9, Part 2, paragraphs 51(1) and (2), section 18(1), (2), (3), (4), (5), (6) and Schedule 12 paragraphs 1, 2, 3, 4.
 
-[^key-da6373df4ed1f14b40d870e9df8be8c4]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2015/421/rule/1) in force at 1.6.2015 in accordance with rule 1(2)
+[^c-da6373df4ed1f14b40d870e9df8be8c4]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2015/421/rule/1) in force at 1.6.2015 in accordance with rule 1(2)
 
 [^f00003]: Footnote: [2013 c. 22](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-ac2d4b132ffbbf2a413d2c678dd57988]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2015/421/rule/2) in force at 1.6.2015 in accordance with rule 1(2)
+[^c-ac2d4b132ffbbf2a413d2c678dd57988]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2015/421/rule/2) in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-d33c80adc34cff71b63fea512b87f4c5]: Commencement: Rule 3 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-d33c80adc34cff71b63fea512b87f4c5]: Commencement: Rule 3 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-cf6daa5a4dad059fc03bcd33c300f60b]: Commencement: Rule 4 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-cf6daa5a4dad059fc03bcd33c300f60b]: Commencement: Rule 4 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-065b4e906a07052b3a99fe9dd9afd4ec]: Commencement: Rule 5 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-065b4e906a07052b3a99fe9dd9afd4ec]: Commencement: Rule 5 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-3379269021a1b89247326301b6f7dc64]: Commencement: Rule 6 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-3379269021a1b89247326301b6f7dc64]: Commencement: Rule 6 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-90d6dfff0ce4fe054bf976e81b5c38b2]: Commencement: Rule 7 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-90d6dfff0ce4fe054bf976e81b5c38b2]: Commencement: Rule 7 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-a62c6c9c82eb9e42689b7d0b61d222e3]: Commencement: Rule 8 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-a62c6c9c82eb9e42689b7d0b61d222e3]: Commencement: Rule 8 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-cac74addb67f2835fd31a4b5b8498be8]: Commencement: Rule 9 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-cac74addb67f2835fd31a4b5b8498be8]: Commencement: Rule 9 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-f49814f636ab867814fd1395c5983d29]: Textual amendment: Words in [rule 9(c)](https://www.legislation.gov.uk/uksi/2015/421/rule/9/c) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/17) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
+[^c-f49814f636ab867814fd1395c5983d29]: Textual amendment: Words in [rule 9(c)](https://www.legislation.gov.uk/uksi/2015/421/rule/9/c) substituted (6.4.2020) by [The Courts and Tribunals (Judiciary and Functions of Staff) Act 2018 (Consequential, Transitional and Saving Provision) Regulations 2020 (S.I. 2020/100)](https://www.legislation.gov.uk/uksi/2020/100), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/100/regulation/1/2), [Sch. para. 17](https://www.legislation.gov.uk/uksi/2020/100/schedule/paragraph/17) (with [reg. 4](https://www.legislation.gov.uk/uksi/2020/100/regulation/4))
 
-[^key-071d443ebc73ced8d14e72e8c5b1cf29]: Commencement: Rule 10 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-071d443ebc73ced8d14e72e8c5b1cf29]: Commencement: Rule 10 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-c53cfb72da3005ce13f02b29832cad44]: Commencement: Rule 11 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-c53cfb72da3005ce13f02b29832cad44]: Commencement: Rule 11 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-df0477ace205c6a2f9540b5debfb35aa]: Commencement: Rule 12 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-df0477ace205c6a2f9540b5debfb35aa]: Commencement: Rule 12 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-ab93e634af5fabaf29861d36ca8b490f]: Commencement: Rule 13 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-ab93e634af5fabaf29861d36ca8b490f]: Commencement: Rule 13 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-561845d7310e91a3ef27717fb8f8e5c2]: Commencement: Rule 14 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-561845d7310e91a3ef27717fb8f8e5c2]: Commencement: Rule 14 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-2980ea659d233b43f96235445a426dcb]: Commencement: Rule 15 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-2980ea659d233b43f96235445a426dcb]: Commencement: Rule 15 in force at 1.6.2015 in accordance with rule 1(2)
 
-[^key-0abd2bf515320746c1e7a44a19c9d4c7]: Commencement: Rule 16 in force at 1.6.2015 in accordance with rule 1(2)
+[^c-0abd2bf515320746c1e7a44a19c9d4c7]: Commencement: Rule 16 in force at 1.6.2015 in accordance with rule 1(2)

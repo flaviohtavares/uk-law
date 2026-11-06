@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 153. Preliminary[^key-11747ed497f4c04219f1630ec736a165]
+## 153. Preliminary[^c-11747ed497f4c04219f1630ec736a165]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The rules in this Part—
 
 ## Annotations
 
-[^key-11747ed497f4c04219f1630ec736a165]: Commencement: Rule 153 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-11747ed497f4c04219f1630ec736a165]: Commencement: Rule 153 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

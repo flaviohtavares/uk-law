@@ -292,9 +292,9 @@ and in subsection (5) of that section (report to contain estimates of capital ou
   ; and
 - (c) the 1994 amendment shall have effect in relation to the said paragraph (a) as amended by paragraph (a) above, and on the coming into force of the 1994 amendment the words “and Wales” shall also be omitted from the paragraph (aa) inserted by paragraph (b) above.
 
-(4)[^key-10560a569e41db91ad1dc5ecef9accbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-10560a569e41db91ad1dc5ecef9accbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-10560a569e41db91ad1dc5ecef9accbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-10560a569e41db91ad1dc5ecef9accbc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) The paragraph (aa) inserted by paragraph 22 of Schedule 6 to the [^c14544901]Local Government (Wales) Act 1994 shall be re-numbered “(ab)”.
 
@@ -306,7 +306,7 @@ and in subsection (5) of that section (report to contain estimates of capital ou
 >
 > - (n) a joint planning board constituted for an area in Wales outside a National Park by an order under section 2(1B) of the [^c14544921]Town and Country Planning Act 1990.
 
-(2)[^key-66524d2561e163b056bde70cc6e82329] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-66524d2561e163b056bde70cc6e82329] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 67(3) of that Act (local authorities for the purposes of Part V) the word “and” at the end of paragraph (o) shall be omitted and after that paragraph there shall be inserted—
 
@@ -561,7 +561,7 @@ shall have effect, until the coming into force of the repeal by this Act of subs
 
 [^c14544891]: Marginal citation: [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19).
 
-[^key-10560a569e41db91ad1dc5ecef9accbc]: Textual amendment: [Sch. 10 para. 30(4)(5)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/10/paragraph/30/4/5) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(7)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/7)
+[^c-10560a569e41db91ad1dc5ecef9accbc]: Textual amendment: [Sch. 10 para. 30(4)(5)](https://www.legislation.gov.uk/ukpga/1995/25/schedule/10/paragraph/30/4/5) omitted (W.) (10.9.2025) by virtue of [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 45(7)](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/45/7)
 
 [^c14544901]: Marginal citation: [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19).
 
@@ -569,7 +569,7 @@ shall have effect, until the coming into force of the repeal by this Act of subs
 
 [^c14544921]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-66524d2561e163b056bde70cc6e82329]: Textual amendment: Sch. 10 para. 31(2) repealed (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(e)(vi)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/e/vi) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
+[^c-66524d2561e163b056bde70cc6e82329]: Textual amendment: Sch. 10 para. 31(2) repealed (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/2938](https://www.legislation.gov.uk/uksi/2003/2938), [art. 7(e)(vi)](https://www.legislation.gov.uk/uksi/2003/2938/article/7/e/vi) (with [art. 8](https://www.legislation.gov.uk/uksi/2003/2938/article/8) [Sch.](https://www.legislation.gov.uk/uksi/2003/2938/schedule)); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I)
 
 [^c14544941]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 

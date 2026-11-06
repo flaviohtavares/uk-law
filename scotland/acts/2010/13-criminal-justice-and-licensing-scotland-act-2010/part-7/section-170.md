@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 170. Unfitness for trial[^key-f9cdf6e378377367351cf1d6c6b6a928]
+## 170. Unfitness for trial[^c-f9cdf6e378377367351cf1d6c6b6a928]
 
 *Extent: S*
 
@@ -61,4 +61,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9cdf6e378377367351cf1d6c6b6a928]: Commencement: [S. 170](https://www.legislation.gov.uk/asp/2010/13/section/170) in force at 25.6.2012 with application in accordance with art. 3 by [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))
+[^c-f9cdf6e378377367351cf1d6c6b6a928]: Commencement: [S. 170](https://www.legislation.gov.uk/asp/2010/13/section/170) in force at 25.6.2012 with application in accordance with art. 3 by [S.S.I. 2012/160](https://www.legislation.gov.uk/ssi/2012/160), [art. 3](https://www.legislation.gov.uk/ssi/2012/160/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2012/160/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2012/160/article/4))

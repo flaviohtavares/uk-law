@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 222. Fees for payment[^key-d2ad5f99e82c96b176fa9ce705bcb8a1]
+## 222. Fees for payment[^c-d2ad5f99e82c96b176fa9ce705bcb8a1]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2ad5f99e82c96b176fa9ce705bcb8a1]: Commencement: [S. 222](https://www.legislation.gov.uk/asp/2014/16/section/222) in force at 7.11.2014 by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)
+[^c-d2ad5f99e82c96b176fa9ce705bcb8a1]: Commencement: [S. 222](https://www.legislation.gov.uk/asp/2014/16/section/222) in force at 7.11.2014 by [S.S.I. 2014/278](https://www.legislation.gov.uk/ssi/2014/278), [art. 2](https://www.legislation.gov.uk/ssi/2014/278/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/278/schedule)

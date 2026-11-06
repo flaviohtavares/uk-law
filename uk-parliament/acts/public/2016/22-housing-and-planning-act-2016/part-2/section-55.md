@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Meaning of “property manager” and related expressions[^key-5e9ec4ca1e517bbafb3db4261eaeb13c]
+## 55. Meaning of “property manager” and related expressions[^c-5e9ec4ca1e517bbafb3db4261eaeb13c]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e9ec4ca1e517bbafb3db4261eaeb13c]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2016/22/section/55) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/e)
+[^c-5e9ec4ca1e517bbafb3db4261eaeb13c]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2016/22/section/55) in force at 6.4.2017 by [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2017/281/regulation/4/e)

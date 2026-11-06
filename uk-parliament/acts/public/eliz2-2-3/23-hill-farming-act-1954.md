@@ -31,24 +31,24 @@ Hill Farming Act 1954 (repealed)
 
 1954 c.23
 
-[^key-e47566fc5210698a11e621bcbde0a107]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e47566fc5210698a11e621bcbde0a107]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[26th March 1954\]
 
 **No longer in force.**
 
-## 1. Amendments of s. 10 of Hill Farming Act, 1946.[^key-e47566fc5210698a11e621bcbde0a107][^key-e47566fc5210698a11e621bcbde0a107]
+## 1. Amendments of s. 10 of Hill Farming Act, 1946.[^c-e47566fc5210698a11e621bcbde0a107][^c-e47566fc5210698a11e621bcbde0a107]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Registration of conditions applied to cottages under s. 10 of the Hill Farming Act, 1946.[^key-e47566fc5210698a11e621bcbde0a107][^key-e47566fc5210698a11e621bcbde0a107]
+## 2. Registration of conditions applied to cottages under s. 10 of the Hill Farming Act, 1946.[^c-e47566fc5210698a11e621bcbde0a107][^c-e47566fc5210698a11e621bcbde0a107]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Short title, citation, construction and commencement.[^key-e47566fc5210698a11e621bcbde0a107][^key-e47566fc5210698a11e621bcbde0a107]
+## 3. Short title, citation, construction and commencement.[^c-e47566fc5210698a11e621bcbde0a107][^c-e47566fc5210698a11e621bcbde0a107]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e47566fc5210698a11e621bcbde0a107]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/23) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-e47566fc5210698a11e621bcbde0a107]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/23) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Young carers[^key-d5e9061385920db983e6f57eb29e4fd2]
+## 96. Young carers[^c-d5e9061385920db983e6f57eb29e4fd2]
 
 *Extent: E+W*
 
@@ -125,4 +125,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5e9061385920db983e6f57eb29e4fd2]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2014/6/section/96) in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/375/article/2/c)
+[^c-d5e9061385920db983e6f57eb29e4fd2]: Commencement: [S. 96](https://www.legislation.gov.uk/ukpga/2014/6/section/96) in force at 1.4.2015 by [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/375/article/2/c)

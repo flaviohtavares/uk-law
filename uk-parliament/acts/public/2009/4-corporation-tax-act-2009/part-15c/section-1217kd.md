@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217KD. No claim if company in administration or liquidation[^key-b87697bfa95c26556297ce9c037145e1][^key-8ee7e720cfeb865939dadc9ef1b64284]
+## 1217KD. No claim if company in administration or liquidation[^c-b87697bfa95c26556297ce9c037145e1][^c-8ee7e720cfeb865939dadc9ef1b64284]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b87697bfa95c26556297ce9c037145e1]: Textual amendment: [S. 1217KD](https://www.legislation.gov.uk/ukpga/2009/4/section/1217KD) and cross-heading inserted (with effect in accordance with Sch. 3 para. 10(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 3 para. 10(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/3/paragraph/10/1)
+[^c-b87697bfa95c26556297ce9c037145e1]: Textual amendment: [S. 1217KD](https://www.legislation.gov.uk/ukpga/2009/4/section/1217KD) and cross-heading inserted (with effect in accordance with Sch. 3 para. 10(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 3 para. 10(1)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/3/paragraph/10/1)
 
-[^key-8ee7e720cfeb865939dadc9ef1b64284]: Textual amendment: Pt. 15C inserted (17.7.2014 for specified purposes and with effect in accordance with Sch. 4 para. 16 of the amending Act, 22.8.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/1), [16](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/16); [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)
+[^c-8ee7e720cfeb865939dadc9ef1b64284]: Textual amendment: Pt. 15C inserted (17.7.2014 for specified purposes and with effect in accordance with Sch. 4 para. 16 of the amending Act, 22.8.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 4 paras. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/1), [16](https://www.legislation.gov.uk/ukpga/2014/26/schedule/4/paragraph/16); [S.I. 2014/2228](https://www.legislation.gov.uk/uksi/2014/2228), [art. 2](https://www.legislation.gov.uk/uksi/2014/2228/article/2)

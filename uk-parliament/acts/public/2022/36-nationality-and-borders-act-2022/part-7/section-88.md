@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Short title[^key-e36b2dcf879ff49d492e486a849783d8]
+## 88. Short title[^c-e36b2dcf879ff49d492e486a849783d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Nationality and Borders Act 2022.
 
 ## Annotations
 
-[^key-e36b2dcf879ff49d492e486a849783d8]: Commencement: S. 88 in force at Royal Assent, see [s. 87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)
+[^c-e36b2dcf879ff49d492e486a849783d8]: Commencement: S. 88 in force at Royal Assent, see [s. 87(3)(c)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/c)

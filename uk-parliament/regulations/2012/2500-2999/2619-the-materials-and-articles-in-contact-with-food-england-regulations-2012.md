@@ -52,7 +52,7 @@ In accordance with section 48(4A) of the 1990 Act he has had regard to relevant 
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c2141234], there has been open and transparent public consultation during the preparation and evaluation of these Regulations.
 
-## PART 1 — Preliminary[^key-5bf3737da896a7f8d8d9448ab91d8a10]
+## PART 1 — Preliminary[^c-5bf3737da896a7f8d8d9448ab91d8a10]
 
 ### 1. Title, application and commencement
 
@@ -63,15 +63,15 @@ These Regulations may be cited as the Materials and Articles in Contact with Foo
 (1) In these Regulations —
 
 - “**the Act**” means the Food Safety Act 1990;
-- [^key-8ed3036260b62a770decb9994e5ad3d0]...
-- [^key-a654f330778ee10755ac5ecc5d6dab40]...
+- [^c-8ed3036260b62a770decb9994e5ad3d0]...
+- [^c-a654f330778ee10755ac5ecc5d6dab40]...
 - “**Regulation 1935/2004**” means Regulation (EC) No. 1935/2004 of the European Parliament and of the Council on materials and articles intended to come into contact with food and repealing Directives [80/590/EEC](https://www.legislation.gov.uk/eudr/1980/590) and [89/109/EEC](https://www.legislation.gov.uk/eudr/1989/109) [^c2141237];
 - “**Regulation 1895/2005**” means Commission Regulation [(EC) No. 1895/2005](https://www.legislation.gov.uk/eur/2005/1895) on the restriction of use of certain epoxy derivatives in materials and articles intended to come into contact with food [^c2141238];
 - “**Regulation 2023/2006**” means Commission Regulation [(EC) No. 2023/2006](https://www.legislation.gov.uk/eur/2006/2023) on good manufacturing practice for materials and articles intended to come into contact with food [^c2141239];
-- “Regulation 282/2008” means[^key-6bd25134e7051b900a7d6a176c5f055a] [Commission Regulation (EC) No. 282/2008](https://www.legislation.gov.uk/eur/2008/0282) on recycled plastic materials and articles intended to come into contact with foods and amending Regulation [(EC) No. 2023/2006](https://www.legislation.gov.uk/eur/2006/2023);
+- “Regulation 282/2008” means[^c-6bd25134e7051b900a7d6a176c5f055a] [Commission Regulation (EC) No. 282/2008](https://www.legislation.gov.uk/eur/2008/0282) on recycled plastic materials and articles intended to come into contact with foods and amending Regulation [(EC) No. 2023/2006](https://www.legislation.gov.uk/eur/2006/2023);
 - “**Regulation 450/2009**” means Commission Regulation [(EC) No. 450/2009](https://www.legislation.gov.uk/eur/2009/450) on active and intelligent materials and articles intended to come into contact with food [^c2141240];
 - “**Regulation 10/2011**” means Commission Regulation (EU) No. 10/2011 on plastic materials and articles intended to come into contact with food [^c2141241];
-- “Regulation 2018/213” means[^key-18a4e604688c7dfdacc4a4b4ec340c66] [Commission Regulation (EU) No. 2018/21](https://www.legislation.gov.uk/eur/1921/2018)3 on the use of bisphenol A in varnishes and coatings intended to come into contact with food and amending Regulation (EU) No. 10/2011 as regards the use of that substance in plastic food contact materials;
+- “Regulation 2018/213” means[^c-18a4e604688c7dfdacc4a4b4ec340c66] [Commission Regulation (EU) No. 2018/21](https://www.legislation.gov.uk/eur/1921/2018)3 on the use of bisphenol A in varnishes and coatings intended to come into contact with food and amending Regulation (EU) No. 10/2011 as regards the use of that substance in plastic food contact materials;
 - “**authorised officer**” means any person, whether or not an officer of the authority concerned, who is authorised in writing by an authority having responsibility for execution and enforcement under regulation 20 to act in matters arising under these Regulations;
 - “**food authority**” does not include the appropriate Treasurer referred to in section 5(1)(c) of the Act (which deals with the Inner Temple and the Middle Temple) nor a port health authority;
 - “**port health authority**” means —
@@ -79,9 +79,9 @@ These Regulations may be cited as the Materials and Articles in Contact with Foo
   - (b) in relation to any port health district constituted by order under section 2(3) of the Public Health (Control of Disease) Act 1984, a port health authority for that district constituted by order under section 2(4) of that Act;
 - “**preparation**” includes manufacture and any form of treatment or process, and “**prepare**” is to be construed accordingly.
 
-(2)[^key-637a025c8cca7446eced36e5edc6bce3] Expressions used in these Regulations and in Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 282/2008, Regulation 450/2009, Regulation 10/2011 or Regulation 2018/213 bear the same meaning in these Regulations as they bear in those Regulations.
+(2)[^c-637a025c8cca7446eced36e5edc6bce3] Expressions used in these Regulations and in Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 282/2008, Regulation 450/2009, Regulation 10/2011 or Regulation 2018/213 bear the same meaning in these Regulations as they bear in those Regulations.
 
-(3)[^key-a91c379486da825524365fa73fe26ce4] Any reference in these Regulations to an [^key-1d51414ce0cfc9e63fabdd21cddb42c2]... instrument defined in regulation 2(1) is a reference to that [^key-1d51414ce0cfc9e63fabdd21cddb42c2]... instrument as amended from time to time.
+(3)[^c-a91c379486da825524365fa73fe26ce4] Any reference in these Regulations to an [^c-1d51414ce0cfc9e63fabdd21cddb42c2]... instrument defined in regulation 2(1) is a reference to that [^c-1d51414ce0cfc9e63fabdd21cddb42c2]... instrument as amended from time to time.
 
 ### 3. Scope
 
@@ -95,7 +95,7 @@ The provisions of these Regulations do not apply in relation to those materials 
 
 (2) No person may place on the market any material or article that does not comply with the requirements of Article 3(2), 4(5) or (6) or 15(1),(3),(4),(7) or (8) as read with Article 15(2) (labelling).
 
-(3) Any person who contravenes paragraph (1) or (2) or Article 11(4) or (5) ([^key-c9b575266b088df90b3ce44c59484d10]... authorisation) or 17(2) (traceability) is guilty of an offence.
+(3) Any person who contravenes paragraph (1) or (2) or Article 11(4) or (5) ([^c-c9b575266b088df90b3ce44c59484d10]... authorisation) or 17(2) (traceability) is guilty of an offence.
 
 (4) In this regulation a reference to a numbered Article is a reference to that Article in Regulation 1935/2004.
 
@@ -107,8 +107,8 @@ Any person who fails to comply with the requirements of Article 4 (conformity wi
 
 (1) The following bodies are designated as the competent authorities for the purposes of the provisions of Regulation 1935/2004 specified below —
 
-- (a) in respect of Articles 9 (application for authorisation of a new substance) [^key-d31bd000e6ae51f205be94b02b1eccf4]..., the Food Standards Agency; and
-- (b) in respect of Articles 16[^key-4d9d461f9c62d8c931d18d11f48b55e4] (declaration of compliance) and 17(2) (traceability), the Food Standards Agency, each food authority in its area and each port health authority in its district.
+- (a) in respect of Articles 9 (application for authorisation of a new substance) [^c-d31bd000e6ae51f205be94b02b1eccf4]..., the Food Standards Agency; and
+- (b) in respect of Articles 16[^c-4d9d461f9c62d8c931d18d11f48b55e4] (declaration of compliance) and 17(2) (traceability), the Food Standards Agency, each food authority in its area and each port health authority in its district.
 
 (2) The competent authority for the purposes of Article 6(2) (quality control system) and 7(3) (documentation) of Regulation 2023/2006 is each food authority in its area.
 
@@ -118,13 +118,13 @@ Any person who fails to comply with the requirements of Article 4 (conformity wi
 
 (1) Subject to the transitional provisions contained in Article 14 (entry into force and application) of Regulation 450/2009, any person who places on the market any active or intelligent material or article which does not comply with the requirements of Article 4 of that Regulation is guilty of an offence [^c2141243].
 
-(2)[^key-ffadf8611929dce3a9863063cafc0c5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ffadf8611929dce3a9863063cafc0c5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 8. Competent authorities for the purposes of Regulation 450/2009
 
 The competent authorities for the purposes of Article 13 of Regulation 450/2009 are the Food Standards Agency, each food authority in its area and each port health authority in its district.
 
-## PART 4 — Requirements for Ceramic Articles[^key-97cba4339a95d7f6ed3cdb32a540a0fc]
+## PART 4 — Requirements for Ceramic Articles[^c-97cba4339a95d7f6ed3cdb32a540a0fc]
 
 ### 9. Interpretation of this Part
 
@@ -133,12 +133,12 @@ In this Part —
 - (a) “**ceramic article**” means an article to which Regulation 1935/2004 applies by virtue of its Article 1(2) as read with 1(3) that —
   - (i) is manufactured from a mixture of inorganic materials with a generally high argillaceous or silicate content to which small quantities of organic materials may have been added,
   - (ii) is first shaped, with the shape thus obtained having been permanently fixed by firing, and
-  - (iii) may be glazed, enamelled and/or decorated; [^key-95e44033610062954f456fce819d3303]...
-- (b)[^key-6144d187e75e1e1045a599c23a37ad9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) may be glazed, enamelled and/or decorated; [^c-95e44033610062954f456fce819d3303]...
+- (b)[^c-6144d187e75e1e1045a599c23a37ad9e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Limits for lead and cadmium and declaration of compliance[^key-84c44df4c91a84744464e3a0d613fc70]
+### 10. Limits for lead and cadmium and declaration of compliance[^c-84c44df4c91a84744464e3a0d613fc70]
 
-(1)[^key-038ec4511006b6757d958ab0adbb9b2f] The quantities of lead and cadmium transferred from ceramic articles must not exceed the limits set out in paragraph (4) as read with paragraphs (3) and (5).
+(1)[^c-038ec4511006b6757d958ab0adbb9b2f] The quantities of lead and cadmium transferred from ceramic articles must not exceed the limits set out in paragraph (4) as read with paragraphs (3) and (5).
 
 (2) Unless it is demonstrated that the materials used to make the ceramic article did not contain lead or cadmium, the quantities of lead and cadmium transferred from ceramic articles must be determined by means of a test, the conditions of which are specified in Schedule 2, using the method of analysis described in Schedule 3.
 
@@ -148,9 +148,9 @@ In this Part —
 
 (5) However, where a ceramic article does not exceed the above quantities by more than 50 %, that article is nevertheless to be recognised as satisfying the requirements of these Regulations relating to such articles if at least three other articles with the same shape, dimensions, decoration and glaze are subjected to a test carried out under the conditions laid down in Schedule 2 and Schedule 3 and the average quantities of lead and/or cadmium extracted from those articles do not exceed the limits set, with none of those articles exceeding those limits by more than 50 %.
 
-### 10A.[^key-da9c75d702f4e60b55b9ccfbdf7c84c0]
+### 10A.[^c-da9c75d702f4e60b55b9ccfbdf7c84c0]
 
-(1)[^key-8a1d420c37fb0855f595ddd0b2894420] No person may place on the market a ceramic article that does not comply with the requirements of regulation 10(1) as read with regulation 10(2).
+(1)[^c-8a1d420c37fb0855f595ddd0b2894420] No person may place on the market a ceramic article that does not comply with the requirements of regulation 10(1) as read with regulation 10(2).
 
 (2) At the marketing stages up to and including the retail stage, ceramic articles which are not yet in contact with foodstuffs must be accompanied by a written declaration in accordance with Article 16 of Regulation 1935/2004. That declaration is to be issued by the manufacturer or by a seller in Great Britain and must contain the information laid down in Schedule 4.
 
@@ -178,20 +178,20 @@ In this Part —
 
 and is intended to come into contact with food or, by being used for that purpose, does come into contact with food.
 
-(3)[^key-d64791d33d3efeaedfcec8acf8571226] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d64791d33d3efeaedfcec8acf8571226] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 12. Controls and limits
 
-(1) URCF and CRCF may be manufactured using only the substances or groups of substances listed in Schedule 5[^key-d643b01daed9a4cdb2ffd3e4b9f3e3cf] (list of substances authorised in the manufacture of regenerated cellulose film) and subject to the restrictions set out in that Schedule[^key-d7c788442ebbd60c8c1f71d20388d79e] but, by way of derogation, substances other than those listed in Schedule 5 may be used when these substances are employed either as —
+(1) URCF and CRCF may be manufactured using only the substances or groups of substances listed in Schedule 5[^c-d643b01daed9a4cdb2ffd3e4b9f3e3cf] (list of substances authorised in the manufacture of regenerated cellulose film) and subject to the restrictions set out in that Schedule[^c-d7c788442ebbd60c8c1f71d20388d79e] but, by way of derogation, substances other than those listed in Schedule 5 may be used when these substances are employed either as —
 
 - (a) dyes and pigments; or
 - (b) adhesives,
 
 provided that there is no trace of migration of the substances, detectable by a validated method, into or on to foodstuffs.
 
-(2) PRCF may be manufactured, prior to coating, using only substances or groups of substances listed in the first part of Schedule 5[^key-768fffe7ac43f9f14ed6356e8eebf3d0] and subject to the restrictions set out in that part.
+(2) PRCF may be manufactured, prior to coating, using only substances or groups of substances listed in the first part of Schedule 5[^c-768fffe7ac43f9f14ed6356e8eebf3d0] and subject to the restrictions set out in that part.
 
-(3) The coating to be applied to PRCF may be manufactured using only substances or groups of substances authorised under[^key-1468f971eb4ff17efd1b1f4a6a1c4783] Regulation 10/2011 and subject to the restrictions in the authorisations concerned[^key-5e635ef9abfd1bb926d342ae04d995a1].
+(3) The coating to be applied to PRCF may be manufactured using only substances or groups of substances authorised under[^c-1468f971eb4ff17efd1b1f4a6a1c4783] Regulation 10/2011 and subject to the restrictions in the authorisations concerned[^c-5e635ef9abfd1bb926d342ae04d995a1].
 
 (4) Materials and articles made of PRCF must comply with Article 12 (overall migration limit) as read with Article 17 (expression of migration test results) and Article 18 (rules for assessing compliance with migration limits) of Regulation 10/2011.
 
@@ -201,25 +201,25 @@ provided that there is no trace of migration of the substances, detectable by a 
 
 (7) Where special conditions of use are indicated, the material or article made of regenerated cellulose film must be labelled accordingly.
 
-(8) No person may place on the market any regenerated cellulose film which has been manufactured in contravention of the requirements of paragraphs (1) to (4), or which fails to comply with paragraphs (5) or (7)[^key-d14f617c44a1ce9cbc173a44f7a960fb].
+(8) No person may place on the market any regenerated cellulose film which has been manufactured in contravention of the requirements of paragraphs (1) to (4), or which fails to comply with paragraphs (5) or (7)[^c-d14f617c44a1ce9cbc173a44f7a960fb].
 
 ## PART 6 — Requirements for Plastic Materials and Articles
 
-### 13. Interpretation of Part 6 and Schedule 1[^key-3cab5d38496bf4dce8d8017b57136649]
+### 13. Interpretation of Part 6 and Schedule 1[^c-3cab5d38496bf4dce8d8017b57136649]
 
 In this Part and in Schedule 1 any reference to a numbered Article or Annex is a reference to that Article of or Annex to Regulation 10/2011.
 
 ### 14. Offences of contravening specified provisions of Regulation 10/2011
 
-(1) Subject to the transitional arrangements set out in Article 22(5)[^key-68729503f0b6b8c6fc6a42abe9875091] and Article 23 [^c2141244], any person who places on the market a plastic material or article that fails to comply with a requirement of Regulation 10/2011 specified in column 1 of Schedule 1[^key-7509cf83f3222707c44d453c06e9d2cc] is guilty of an offence.
+(1) Subject to the transitional arrangements set out in Article 22(5)[^c-68729503f0b6b8c6fc6a42abe9875091] and Article 23 [^c2141244], any person who places on the market a plastic material or article that fails to comply with a requirement of Regulation 10/2011 specified in column 1 of Schedule 1[^c-7509cf83f3222707c44d453c06e9d2cc] is guilty of an offence.
 
-(2)[^key-3b01834a393fe63596e338cca4c58aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3b01834a393fe63596e338cca4c58aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Competent authorities for the purposes of Regulation 10/2011[^key-cf9f9eacfbcdf922d9bd08e40f17113e]
+### 15. Competent authorities for the purposes of Regulation 10/2011[^c-cf9f9eacfbcdf922d9bd08e40f17113e]
 
-The competent authorities for the purposes of Articles 8 and 16(1) of [^key-cc5fd0ee21f11d60b38dfb8a1362c408]... Regulation 10/2011 are the Food Standards Agency, each food authority in its area and each port health authority in its district.
+The competent authorities for the purposes of Articles 8 and 16(1) of [^c-cc5fd0ee21f11d60b38dfb8a1362c408]... Regulation 10/2011 are the Food Standards Agency, each food authority in its area and each port health authority in its district.
 
-## PART 6A — Requirements for Recycled Plastic Materials and Articles[^key-d0947ad5d6da9625f5b8c6172cfd66f3]
+## PART 6A — Requirements for Recycled Plastic Materials and Articles[^c-d0947ad5d6da9625f5b8c6172cfd66f3]
 
 ### 15A. Interpretation of this Part
 
@@ -240,22 +240,22 @@ The competent authorities for the purposes of Article 10 are the Food Standards 
 (1) In this Part —
 
 - (a) any reference to a numbered Article or Annex is a reference to that Article or Annex in Regulation 1895/2005; and
-- (b) paragraph (2) is[^key-2534640b614fdc55e259a2c84a7845a8] subject to Article 1(3) (scope) [^c2141246].
+- (b) paragraph (2) is[^c-2534640b614fdc55e259a2c84a7845a8] subject to Article 1(3) (scope) [^c2141246].
 
 (2) Subject to Article 6(1),(2) and (4) (transitional provisions) [^c2141247], no person may place on the market or use, in the course of a business in connection with the storage, preparation, packaging, sale or service of food —
 
 - (a) any material or article in contravention of Article 3 (prohibition on use or presence of BFDGE) or Article 4 (prohibition on use or presence of NOGE); or
 - (b) any material or article that fails to comply with the restrictions contained in Article 2 (BADGE) as read with Annex I (specific migration limit for BADGE and certain of its derivatives).
 
-(3)[^key-d61a3f0783d3997c69eaeba5a1adfd22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d61a3f0783d3997c69eaeba5a1adfd22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Any person who contravenes paragraph (2)[^key-bb2c0bd6cdd50f3cdb01b21a250a9127] is guilty of an offence.
+(4) Any person who contravenes paragraph (2)[^c-bb2c0bd6cdd50f3cdb01b21a250a9127] is guilty of an offence.
 
 ### 17. Competent authorities for the purposes of Regulation 1895/2005
 
 The competent authority for the purpose of Article 6(4) is each food authority in its area and each port health authority in its district.
 
-## PART 7A — Requirements for bisphenol A[^key-a61c49f42434327e8fe0fab57108eb34]
+## PART 7A — Requirements for bisphenol A[^c-a61c49f42434327e8fe0fab57108eb34]
 
 ### 17A. Interpretation of Part 7A
 
@@ -285,7 +285,7 @@ The competent authorities for the purposes of Article 4(3) are the Food Standard
 
 any material or article that does not comply with paragraph (1).
 
-(3)[^key-8beef4994bbcd3805df4869b0c93a8ff] The criteria applicable to the method of determining the level of vinyl chloride in materials and articles and of determining vinyl chloride released by materials and articles are as set out in paragraphs (4), (5), and (6).
+(3)[^c-8beef4994bbcd3805df4869b0c93a8ff] The criteria applicable to the method of determining the level of vinyl chloride in materials and articles and of determining vinyl chloride released by materials and articles are as set out in paragraphs (4), (5), and (6).
 
 (4) The level of vinyl chloride in materials and articles and the level of vinyl chloride released by materials and articles to foodstuffs are determined by means of gas-phase chromatography using the ‘headspace’ method;
 
@@ -295,9 +295,9 @@ any material or article that does not comply with paragraph (1).
 
 ## PART 9 — Enforcement
 
-### 19. Offences and penalties[^key-94e210233de9ab0842423e6e00a0006f]
+### 19. Offences and penalties[^c-94e210233de9ab0842423e6e00a0006f]
 
-(1) Any person who contravenes regulation 10A(1)[^key-6354927504fbcb7d9932daac0e01f8b1], 12(8) or 18(2) is guilty of an offence.
+(1) Any person who contravenes regulation 10A(1)[^c-6354927504fbcb7d9932daac0e01f8b1], 12(8) or 18(2) is guilty of an offence.
 
 (2) Any person who fails to comply with a compliance notice served on them under regulation 19A is guilty of an offence.
 
@@ -316,7 +316,7 @@ any material or article that does not comply with paragraph (1).
 
 (7) Nothing in paragraph (3) or (4) is to be construed as requiring a person to answer any question or give any information if to do so might incriminate that person.
 
-### 19A. Compliance notices[^key-3dbac15eaf225ba9f5c51b4fe7b28e92]
+### 19A. Compliance notices[^c-3dbac15eaf225ba9f5c51b4fe7b28e92]
 
 (1) If an authorised officer has reasonable grounds for believing that any person has not complied with, is not complying with, or is not likely to comply with a provision specified in regulation 19B (which provisions concern declarations of compliance with legislative requirements or supporting documentation), the officer may serve a compliance notice on that person.
 
@@ -333,7 +333,7 @@ any material or article that does not comply with paragraph (1).
 
 The provisions are—
 
-- (a)[^key-5d4986ad91d84e9d8f92cc1250d9fd0b] paragraphs (2) and (3) of regulation 10A;
+- (a)[^c-5d4986ad91d84e9d8f92cc1250d9fd0b] paragraphs (2) and (3) of regulation 10A;
 - (b) paragraph (6) of regulation 12;
 - (c) Article 16 of Regulation 1935/2004;
 - (d) Article 5 of Regulation 1895/2005;
@@ -361,7 +361,7 @@ The provisions are—
 - (b) vary the notice or any requirement contained in it; or
 - (c) revoke the notice or any requirement contained in it.
 
-### 20. Execution and enforcement[^key-417e487a3c7dd112fc94abfa6fcfb598]
+### 20. Execution and enforcement[^c-417e487a3c7dd112fc94abfa6fcfb598]
 
 (1) Each food authority in its area is to execute and enforce Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 282/2008, Regulation 450/2009, Regulation 10/2011, Regulation 2018/213 and these Regulations.
 
@@ -372,7 +372,7 @@ The provisions are—
 - (a) Articles 16 and 17(2) of Regulation 1935/2004;
 - (b) Article 10 of Regulation 282/2008;
 - (c) Article 13 of Regulation 450/2009;
-- (d) Article 8 and 16(1) of [^key-16416e979346f221eb9f9bcb8de5787b]... Regulation 10/2011; and
+- (d) Article 8 and 16(1) of [^c-16416e979346f221eb9f9bcb8de5787b]... Regulation 10/2011; and
 - (e) Article 4(3) of Regulation 2018/213.
 
 ### 21. Offences by corporate bodies or Scottish partnerships
@@ -394,13 +394,13 @@ Where the commission by any person of an offence under these Regulations is due 
 
 (1) No prosecution for an offence under these Regulations shall be begun after the expiry of three years from the commission of the offence or one year from its discovery by the prosecutor, whichever is the earlier.
 
-(2) Paragraph (1) does not apply to an offence under regulation 19(3) or (4)[^key-c9e5d275c050839f6b8980ed65e71071] .
+(2) Paragraph (1) does not apply to an offence under regulation 19(3) or (4)[^c-c9e5d275c050839f6b8980ed65e71071] .
 
 ### 24. General defences
 
 (1) In any proceedings for an offence under these Regulations it shall, subject to paragraph (5), be a defence to prove that the person accused (“the accused”) took all reasonable precautions and exercised all due diligence to avoid the commission of the offence by the accused or by a person under the control of the accused.
 
-(2) Without prejudice to the generality of paragraph (1), a person accused of an offence under regulation 4(3), 7(1), 14(1), 15B, 16(4), 17B or 19(1)[^key-da0c1ecf38182323660ec2d4b8253ee2] who did not import or prepare the material or article in respect of which the offence is alleged to have been committed shall be taken to have established the defence provided by paragraph (1) if the requirements of paragraphs (3) or (4) are satisfied.
+(2) Without prejudice to the generality of paragraph (1), a person accused of an offence under regulation 4(3), 7(1), 14(1), 15B, 16(4), 17B or 19(1)[^c-da0c1ecf38182323660ec2d4b8253ee2] who did not import or prepare the material or article in respect of which the offence is alleged to have been committed shall be taken to have established the defence provided by paragraph (1) if the requirements of paragraphs (3) or (4) are satisfied.
 
 (3) The requirements of this paragraph are satisfied if it is proved that —
 
@@ -473,9 +473,9 @@ send the retained part of the sample to the Government Chemist for analysis.
 - (a) section 2 (extending meaning of “sale” etc);
 - (b) section 30(8) (analysis etc. of samples) [^c2141250].
 
-(2) In the application of section 32 of the Act (powers of entry) for the purposes of these Regulations, the reference to the Act in subsection (1) is to be construed as including a reference to Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 282/2008, Regulation 450/2009, Regulation 10/2011 or Regulation 2018/213[^key-a287afa405ee476e303db842e79127c5] as appropriate.
+(2) In the application of section 32 of the Act (powers of entry) for the purposes of these Regulations, the reference to the Act in subsection (1) is to be construed as including a reference to Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 282/2008, Regulation 450/2009, Regulation 10/2011 or Regulation 2018/213[^c-a287afa405ee476e303db842e79127c5] as appropriate.
 
-(3) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act is to be construed as including a reference to Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 282/2008, Regulation 450/2009, Regulation 10/2011 or Regulation 2018/213[^key-12b95db3018c573bba761f3ff5af339c], as appropriate, and to these Regulations —
+(3) The following provisions of the Act apply for the purposes of these Regulations with the modification that any reference in those provisions to the Act is to be construed as including a reference to Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 282/2008, Regulation 450/2009, Regulation 10/2011 or Regulation 2018/213[^c-12b95db3018c573bba761f3ff5af339c], as appropriate, and to these Regulations —
 
 - (a) section 3 (presumptions that food intended for human consumption) with the modifications that the references to “sold” and “sale” is to be deemed to include references to “placed on the market” and “placing on the market” respectively;
 - (b) section 44 (protection of officers acting in good faith).
@@ -514,7 +514,7 @@ In the Food Safety (Sampling and Qualifications) Regulations 1990 [^c2141251], i
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2) In carrying out the review the Food Standards Agency must, so far as is reasonable, have regard to the operation of the relevant[^key-1799d2f7a2a22bfbd69630543ac024d0] assimilated[^key-6a1c06f176387ec511850f6a1dccf097] instruments.
+(2) In carrying out the review the Food Standards Agency must, so far as is reasonable, have regard to the operation of the relevant[^c-1799d2f7a2a22bfbd69630543ac024d0] assimilated[^c-6a1c06f176387ec511850f6a1dccf097] instruments.
 
 (3) The report must in particular —
 
@@ -526,7 +526,7 @@ In the Food Safety (Sampling and Qualifications) Regulations 1990 [^c2141251], i
 
 (5) Reports under this regulation are afterwards to be published at intervals not exceeding five years.
 
-(6) In this regulation “**the relevant[^key-c2c637e97872f0ac9c951d4c379e07e7] assimilated[^key-2da294899e4c188967d473379388a1fe] instruments**” means [^key-b0e2616421cb2f2a1ef36bb8d637a374]... Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 450/2009 and Regulation 10/2011.
+(6) In this regulation “**the relevant[^c-c2c637e97872f0ac9c951d4c379e07e7] assimilated[^c-2da294899e4c188967d473379388a1fe] instruments**” means [^c-b0e2616421cb2f2a1ef36bb8d637a374]... Regulation 1935/2004, Regulation 1895/2005, Regulation 2023/2006, Regulation 450/2009 and Regulation 10/2011.
 
 ### 31. Revocations
 
@@ -545,24 +545,24 @@ Parliamentary Under-Secretary of State,
 
 Department of Health
 
-## SCHEDULE 1 — Specified provisions of Regulation 10/2011[^key-b4bf34194a56535552a7bed6bf7e4933]
+## SCHEDULE 1 — Specified provisions of Regulation 10/2011[^c-b4bf34194a56535552a7bed6bf7e4933]
 
 Regulation 14(1)
 
 | *Specified provision* | *Subject matter* |
 | --- | --- |
 | Article 4(e), as read with Articles 17 and 18 | Prohibition on placing on the market plastic materials or articles if they do not meet specified compositional and declaration requirements |
-| Article 5(1) [^key-67a7828e9e935fc86966f15ea6cc4a47]..., as read with Article 6 | Requirement, subject to certain derogations, to use only authorised substances in the manufacture of plastic layers in plastic materials and articles |
+| Article 5(1) [^c-67a7828e9e935fc86966f15ea6cc4a47]..., as read with Article 6 | Requirement, subject to certain derogations, to use only authorised substances in the manufacture of plastic layers in plastic materials and articles |
 | Article 8, first sentence | General quality and purity standards that must be observed for substances used in the manufacture of plastic layers in plastic materials and articles |
-| Article 9 [^key-912d35368a24d4def2ca4a3f6a267e58]... | Particular restrictions and specifications for substances used in the manufacture of plastic layers in plastic materials and articles |
+| Article 9 [^c-912d35368a24d4def2ca4a3f6a267e58]... | Particular restrictions and specifications for substances used in the manufacture of plastic layers in plastic materials and articles |
 | Article 10 as read with Annex II | General restrictions on plastic materials and articles |
-| Article 11(1)[^key-919de75c60f9a6726e00673b614a5f19] [^key-67a7828e9e935fc86966f15ea6cc4a47]..., as read with Article 11(3) and (4) | Specific limits on the degree to which constituents of plastic materials and articles are permitted to migrate into foods |
+| Article 11(1)[^c-919de75c60f9a6726e00673b614a5f19] [^c-67a7828e9e935fc86966f15ea6cc4a47]..., as read with Article 11(3) and (4) | Specific limits on the degree to which constituents of plastic materials and articles are permitted to migrate into foods |
 | Article 12 | Overall limits on the permitted level of migration of the constituents of plastic materials and articles into food simulants |
-| Article 13(1),(3),(4) and (5) [^key-67a7828e9e935fc86966f15ea6cc4a47]... as read with Article 13(2) | Particular restrictions and specifications for the composition of each plastic layer in plastic multi-layer materials and articles |
-| Article 14(1) and (5) [^key-67a7828e9e935fc86966f15ea6cc4a47]..., as read with Article 14(2),(3) and (4) | Particular restrictions and specifications for the composition of each plastic layer in multi-material multi-layer materials and articles |
-| [^key-3917f043824484ae877275dcadfd3621]. . . | [^key-3917f043824484ae877275dcadfd3621]. . . |
+| Article 13(1),(3),(4) and (5) [^c-67a7828e9e935fc86966f15ea6cc4a47]... as read with Article 13(2) | Particular restrictions and specifications for the composition of each plastic layer in plastic multi-layer materials and articles |
+| Article 14(1) and (5) [^c-67a7828e9e935fc86966f15ea6cc4a47]..., as read with Article 14(2),(3) and (4) | Particular restrictions and specifications for the composition of each plastic layer in multi-material multi-layer materials and articles |
+| [^c-3917f043824484ae877275dcadfd3621]. . . | [^c-3917f043824484ae877275dcadfd3621]. . . |
 
-## SCHEDULE 2 — BASIC RULES FOR DETERMINING THE MIGRATION OF LEAD AND CADMIUM[^key-108ffe32029adffa6719644d240d2ba6][^key-23e7c2ccc23b776b273f558abdc29927]
+## SCHEDULE 2 — BASIC RULES FOR DETERMINING THE MIGRATION OF LEAD AND CADMIUM[^c-108ffe32029adffa6719644d240d2ba6][^c-23e7c2ccc23b776b273f558abdc29927]
 
 Regulation 10
 
@@ -588,7 +588,7 @@ Regulation 10
 
 The surface area of the articles in Category 1 is equal to the surface area of the meniscus formed by the free liquid surface obtained by complying with the filling requirements set out in paragraph 3 above.
 
-## SCHEDULE 3 — METHODS OF ANALYSIS FOR DETERMINATION OF THE MIGRATION OF LEAD AND CADMIUM[^key-5d6bee6c1aa50b1c5fd8f3444408ecac][^key-80374e6257df32d576d6bd473521dded]
+## SCHEDULE 3 — METHODS OF ANALYSIS FOR DETERMINATION OF THE MIGRATION OF LEAD AND CADMIUM[^c-5d6bee6c1aa50b1c5fd8f3444408ecac][^c-80374e6257df32d576d6bd473521dded]
 
 Regulation 10
 
@@ -637,7 +637,7 @@ The determination of the specific migration of lead and/or cadmium is carried ou
 
   Carry out determinations for lead and/or cadmium under appropriate conditions.
 
-## SCHEDULE 4 — DECLARATION OF COMPLIANCE[^key-d44069cb96342418166bfc7ca4195270][^key-139568f575589c113b8b5961060abccd]
+## SCHEDULE 4 — DECLARATION OF COMPLIANCE[^c-d44069cb96342418166bfc7ca4195270][^c-139568f575589c113b8b5961060abccd]
 
 Regulation 10A
 
@@ -650,7 +650,7 @@ Regulation 10A
 
 **2.** The written declaration must permit an easy identification of the goods for which it is issued and must be renewed when substantial changes in the production bring about changes in the migration of lead or cadmium or both.
 
-## SCHEDULE 5 — LIST OF SUBSTANCES AUTHORISED IN THE MANUFACTURE OF REGENERATED CELLULOSE FILM[^key-2e6c30061eea619d4dd71ef77eb120cf]
+## SCHEDULE 5 — LIST OF SUBSTANCES AUTHORISED IN THE MANUFACTURE OF REGENERATED CELLULOSE FILM[^c-2e6c30061eea619d4dd71ef77eb120cf]
 
 Regulation 12(1)
 
@@ -867,11 +867,11 @@ Second Part: Coated regenerated cellulose film
 
 [^c2141234]: Marginal citation: OJ No. L31, 1.2.2002, p.1. That Regulation was last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468/EC with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny – Part Four (OJ No. L188, 18.7.2009, p.14).
 
-[^key-5bf3737da896a7f8d8d9448ab91d8a10]: Modification: [Pt. 1](https://www.legislation.gov.uk/uksi/2012/2619/part/1) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-5bf3737da896a7f8d8d9448ab91d8a10]: Modification: [Pt. 1](https://www.legislation.gov.uk/uksi/2012/2619/part/1) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-8ed3036260b62a770decb9994e5ad3d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/2/1) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/2/a/i)
+[^c-8ed3036260b62a770decb9994e5ad3d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/2/1) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(2)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/2/a/i)
 
-[^key-a654f330778ee10755ac5ecc5d6dab40]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/2/1) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/2/a/ii)
+[^c-a654f330778ee10755ac5ecc5d6dab40]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/2/1) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/2/a/ii)
 
 [^c2141237]: Marginal citation: OJ No. L338, 13.11.2004, p.4, amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council (OJ No. L188, 18.7.2009, p.14).
 
@@ -879,111 +879,111 @@ Second Part: Coated regenerated cellulose film
 
 [^c2141239]: Marginal citation: OJ No. L384, 29.12.2006, p.75.
 
-[^key-6bd25134e7051b900a7d6a176c5f055a]: Textual amendment: Words in reg. 2(1) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/2/a/i)
+[^c-6bd25134e7051b900a7d6a176c5f055a]: Textual amendment: Words in reg. 2(1) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/2/a/i)
 
 [^c2141240]: Marginal citation: OJ No. L135, 30.5.2009, p.3.
 
 [^c2141241]: Marginal citation: OJ No. L12, 15.1.2011, p.1, last amended by Commission Regulation (EU) No. 1282/2011 (OJ No. L328, 10.12.2011, p.22).
 
-[^key-18a4e604688c7dfdacc4a4b4ec340c66]: Textual amendment: Words in reg. 2(1) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/2/a/ii)
+[^c-18a4e604688c7dfdacc4a4b4ec340c66]: Textual amendment: Words in reg. 2(1) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/2/a/ii)
 
 [^c2141242]: Marginal citation: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-637a025c8cca7446eced36e5edc6bce3]: Textual amendment: Reg. 2(2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/2/b)
+[^c-637a025c8cca7446eced36e5edc6bce3]: Textual amendment: Reg. 2(2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/2/b)
 
-[^key-a91c379486da825524365fa73fe26ce4]: Textual amendment: Reg. 2(3) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/2/c)
+[^c-a91c379486da825524365fa73fe26ce4]: Textual amendment: Reg. 2(3) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/2/c)
 
-[^key-1d51414ce0cfc9e63fabdd21cddb42c2]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/2/3) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/2/b)
+[^c-1d51414ce0cfc9e63fabdd21cddb42c2]: Textual amendment: Word in [reg. 2(3)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/2/3) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/2/b)
 
-[^key-c9b575266b088df90b3ce44c59484d10]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/4/3) omitted (31.12.2020) by virtue of [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/704/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9b575266b088df90b3ce44c59484d10]: Textual amendment: Word in [reg. 4(3)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/4/3) omitted (31.12.2020) by virtue of [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/704/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d31bd000e6ae51f205be94b02b1eccf4]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/6/1/a) omitted (31.12.2020) by virtue of [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/704/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d31bd000e6ae51f205be94b02b1eccf4]: Textual amendment: Words in [reg. 6(1)(a)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/6/1/a) omitted (31.12.2020) by virtue of [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2019/704/regulation/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4d9d461f9c62d8c931d18d11f48b55e4]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/6/1/b) substituted (31.12.2020) by [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/704/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4d9d461f9c62d8c931d18d11f48b55e4]: Textual amendment: Word in [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/6/1/b) substituted (31.12.2020) by [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2019/704/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c2141243]: Marginal citation: Article 4(e) does not apply until the date of application of the EU list of authorised substances that may be used in active and intelligent components.
 
-[^key-ffadf8611929dce3a9863063cafc0c5f]: Textual amendment: Reg. 7(2) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/3)
+[^c-ffadf8611929dce3a9863063cafc0c5f]: Textual amendment: Reg. 7(2) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/3)
 
-[^key-97cba4339a95d7f6ed3cdb32a540a0fc]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2012/2619/part/4) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-97cba4339a95d7f6ed3cdb32a540a0fc]: Modification: [Pt. 4](https://www.legislation.gov.uk/uksi/2012/2619/part/4) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-95e44033610062954f456fce819d3303]: Textual amendment: Word in [reg. 9(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/9/a/ii) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/3/a)
+[^c-95e44033610062954f456fce819d3303]: Textual amendment: Word in [reg. 9(a)(ii)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/9/a/ii) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/3/a)
 
-[^key-6144d187e75e1e1045a599c23a37ad9e]: Textual amendment: [Reg. 9(b)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/9/b) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/3/b)
+[^c-6144d187e75e1e1045a599c23a37ad9e]: Textual amendment: [Reg. 9(b)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/9/b) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/3/b)
 
-[^key-84c44df4c91a84744464e3a0d613fc70]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/2619/regulation/10) substituted (31.12.2020) by [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/704/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84c44df4c91a84744464e3a0d613fc70]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2012/2619/regulation/10) substituted (31.12.2020) by [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [6](https://www.legislation.gov.uk/uksi/2019/704/regulation/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-038ec4511006b6757d958ab0adbb9b2f]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/10/1) substituted (31.12.2020 immediately after IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/3), [4(17)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/17)
+[^c-038ec4511006b6757d958ab0adbb9b2f]: Textual amendment: [Reg. 10(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/10/1) substituted (31.12.2020 immediately after IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/3), [4(17)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/17)
 
-[^key-da9c75d702f4e60b55b9ccfbdf7c84c0]: Textual amendment: Reg. 10A inserted (31.12.2020) by [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/704/regulation/7) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/16/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-da9c75d702f4e60b55b9ccfbdf7c84c0]: Textual amendment: Reg. 10A inserted (31.12.2020) by [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [7](https://www.legislation.gov.uk/uksi/2019/704/regulation/7) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/16/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8a1d420c37fb0855f595ddd0b2894420]: Textual amendment: [Reg. 10A(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/10A/1) substituted (31.12.2020 immediately after IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/3), [4(18)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/18)
+[^c-8a1d420c37fb0855f595ddd0b2894420]: Textual amendment: [Reg. 10A(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/10A/1) substituted (31.12.2020 immediately after IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/3), [4(18)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/18)
 
-[^key-d64791d33d3efeaedfcec8acf8571226]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/11/3) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/4)
+[^c-d64791d33d3efeaedfcec8acf8571226]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/11/3) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/4)
 
-[^key-d643b01daed9a4cdb2ffd3e4b9f3e3cf]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/12/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/5/a/i)
+[^c-d643b01daed9a4cdb2ffd3e4b9f3e3cf]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/12/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(5)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/5/a/i)
 
-[^key-d7c788442ebbd60c8c1f71d20388d79e]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/12/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/5/a/ii)
+[^c-d7c788442ebbd60c8c1f71d20388d79e]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/12/1) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/5/a/ii)
 
-[^key-768fffe7ac43f9f14ed6356e8eebf3d0]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/12/2) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/5/b)
+[^c-768fffe7ac43f9f14ed6356e8eebf3d0]: Textual amendment: Words in [reg. 12(2)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/12/2) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/5/b)
 
-[^key-1468f971eb4ff17efd1b1f4a6a1c4783]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/12/3) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/2/a)
+[^c-1468f971eb4ff17efd1b1f4a6a1c4783]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/12/3) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(2)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/2/a)
 
-[^key-5e635ef9abfd1bb926d342ae04d995a1]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/12/3) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/2/b)
+[^c-5e635ef9abfd1bb926d342ae04d995a1]: Textual amendment: Words in [reg. 12(3)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/12/3) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/2/b)
 
-[^key-d14f617c44a1ce9cbc173a44f7a960fb]: Textual amendment: Words in reg. 12(8) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/4)
+[^c-d14f617c44a1ce9cbc173a44f7a960fb]: Textual amendment: Words in reg. 12(8) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(4)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/4)
 
-[^key-3cab5d38496bf4dce8d8017b57136649]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2012/2619/regulation/13) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(3)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/3)
+[^c-3cab5d38496bf4dce8d8017b57136649]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/uksi/2012/2619/regulation/13) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(3)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/3)
 
-[^key-68729503f0b6b8c6fc6a42abe9875091]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/14/1) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(4)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/4/a)
+[^c-68729503f0b6b8c6fc6a42abe9875091]: Textual amendment: Word in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/14/1) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(4)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/4/a)
 
 [^c2141244]: Marginal citation: Article 22(4) provides that until 31 December 2015 certain additives used in glass fibre sizing must be assessed under Article 19. Article 22(5) provides that materials and articles lawfully placed on the market before 1 May 2011 may be placed on the market until 31 December 2012. Article 23 provides that as regards certain uses of additives Article 5 applies from 31 December 2015 and that the provisions of Articles 18(2) and (4) and Article 20 apply from 31 December 2012.
 
-[^key-7509cf83f3222707c44d453c06e9d2cc]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/14/1) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(4)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/4/b)
+[^c-7509cf83f3222707c44d453c06e9d2cc]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/14/1) substituted (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(4)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/4/b)
 
-[^key-3b01834a393fe63596e338cca4c58aca]: Textual amendment: Reg. 14(2) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/5)
+[^c-3b01834a393fe63596e338cca4c58aca]: Textual amendment: Reg. 14(2) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(5)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/5)
 
-[^key-cf9f9eacfbcdf922d9bd08e40f17113e]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/2619/regulation/15) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/6)
+[^c-cf9f9eacfbcdf922d9bd08e40f17113e]: Textual amendment: [Reg. 15](https://www.legislation.gov.uk/uksi/2012/2619/regulation/15) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/6)
 
-[^key-cc5fd0ee21f11d60b38dfb8a1362c408]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2012/2619/regulation/15) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(5)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/5)
+[^c-cc5fd0ee21f11d60b38dfb8a1362c408]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2012/2619/regulation/15) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(5)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/5)
 
-[^key-d0947ad5d6da9625f5b8c6172cfd66f3]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2012/2619/part/6A) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/7)
+[^c-d0947ad5d6da9625f5b8c6172cfd66f3]: Textual amendment: [Pt. 6A](https://www.legislation.gov.uk/uksi/2012/2619/part/6A) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(7)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/7)
 
-[^key-2534640b614fdc55e259a2c84a7845a8]: Textual amendment: Words in reg. 16(1)(b) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(8)(a)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/8/a)
+[^c-2534640b614fdc55e259a2c84a7845a8]: Textual amendment: Words in reg. 16(1)(b) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(8)(a)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/8/a)
 
 [^c2141246]: Marginal citation: Article 3 contains an exception relating to certain containers and storage tanks and pipelines belonging to them.
 
 [^c2141247]: Marginal citation: Article 6(1) (relevant date 1 March 2003) and (2) (relevant date 1 January 2005) provide for transitional arrangements for the application of Articles 2, 3 and 4 to specified materials and articles; Article 6(4) allows the marketing of specified materials and articles if certain labelling requirements are met.
 
-[^key-d61a3f0783d3997c69eaeba5a1adfd22]: Textual amendment: Reg. 16(3) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(8)(b)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/8/b)
+[^c-d61a3f0783d3997c69eaeba5a1adfd22]: Textual amendment: Reg. 16(3) omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(8)(b)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/8/b)
 
-[^key-bb2c0bd6cdd50f3cdb01b21a250a9127]: Textual amendment: Words in reg. 16(4) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(8)(c)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/8/c)
+[^c-bb2c0bd6cdd50f3cdb01b21a250a9127]: Textual amendment: Words in reg. 16(4) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(8)(c)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/8/c)
 
-[^key-a61c49f42434327e8fe0fab57108eb34]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2012/2619/part/7A) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(9)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/9)
+[^c-a61c49f42434327e8fe0fab57108eb34]: Textual amendment: [Pt. 7A](https://www.legislation.gov.uk/uksi/2012/2619/part/7A) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(9)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/9)
 
-[^key-8beef4994bbcd3805df4869b0c93a8ff]: Textual amendment: [Reg. 18(3)-(6)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/18/3) inserted (31.12.2020) by [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/704/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8beef4994bbcd3805df4869b0c93a8ff]: Textual amendment: [Reg. 18(3)-(6)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/18/3) inserted (31.12.2020) by [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [regs. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/704/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-94e210233de9ab0842423e6e00a0006f]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/2619/regulation/19) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(10)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/10)
+[^c-94e210233de9ab0842423e6e00a0006f]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2012/2619/regulation/19) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(10)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/10)
 
-[^key-6354927504fbcb7d9932daac0e01f8b1]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/19/1) substituted (31.12.2020 immediately after IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/3), [4(19)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/19)
+[^c-6354927504fbcb7d9932daac0e01f8b1]: Textual amendment: Words in [reg. 19(1)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/19/1) substituted (31.12.2020 immediately after IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/3), [4(19)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/19)
 
-[^key-3dbac15eaf225ba9f5c51b4fe7b28e92]: Textual amendment: [Regs. 19A-19C](https://www.legislation.gov.uk/uksi/2012/2619/regulation/19A) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(11)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/11)
+[^c-3dbac15eaf225ba9f5c51b4fe7b28e92]: Textual amendment: [Regs. 19A-19C](https://www.legislation.gov.uk/uksi/2012/2619/regulation/19A) inserted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(11)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/11)
 
-[^key-5d4986ad91d84e9d8f92cc1250d9fd0b]: Textual amendment: [Reg. 19B(a)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/19B/a) substituted (31.12.2020 immediately after IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/3), [4(20)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/20)
+[^c-5d4986ad91d84e9d8f92cc1250d9fd0b]: Textual amendment: [Reg. 19B(a)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/19B/a) substituted (31.12.2020 immediately after IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/3), [4(20)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/20)
 
-[^key-417e487a3c7dd112fc94abfa6fcfb598]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/2619/regulation/20) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(12)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/12)
+[^c-417e487a3c7dd112fc94abfa6fcfb598]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/uksi/2012/2619/regulation/20) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(12)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/12)
 
-[^key-16416e979346f221eb9f9bcb8de5787b]: Textual amendment: Words in [reg. 20(3)(d)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/20/3/d) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(6)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/6)
+[^c-16416e979346f221eb9f9bcb8de5787b]: Textual amendment: Words in [reg. 20(3)(d)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/20/3/d) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(6)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/6)
 
-[^key-c9e5d275c050839f6b8980ed65e71071]: Textual amendment: Words in reg. 23(2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(13)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/13)
+[^c-c9e5d275c050839f6b8980ed65e71071]: Textual amendment: Words in reg. 23(2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(13)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/13)
 
-[^key-da0c1ecf38182323660ec2d4b8253ee2]: Textual amendment: Words in reg. 24(2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(14)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/14)
+[^c-da0c1ecf38182323660ec2d4b8253ee2]: Textual amendment: Words in reg. 24(2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(14)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/14)
 
 [^c2141250]: Marginal citation: Section 30(8) sets out the evidential status of certificates of analysis and examination provided by food analysts and examiners.
 
-[^key-a287afa405ee476e303db842e79127c5]: Textual amendment: Words in reg. 27(2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(15)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/15)
+[^c-a287afa405ee476e303db842e79127c5]: Textual amendment: Words in reg. 27(2) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(15)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/15)
 
-[^key-12b95db3018c573bba761f3ff5af339c]: Textual amendment: Words in reg. 27(3) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(15)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/15)
+[^c-12b95db3018c573bba761f3ff5af339c]: Textual amendment: Words in reg. 27(3) substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(15)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/15)
 
 [^c2141251]: Marginal citation: [S.I. 1990/2463](https://www.legislation.gov.uk/uksi/1990/2463), amended by [S.I. 2009/205](https://www.legislation.gov.uk/uksi/2009/205) and [S.I. 2010/2225](https://www.legislation.gov.uk/uksi/2010/2225); there are other amending instruments but none is relevant.
 
@@ -993,40 +993,40 @@ Second Part: Coated regenerated cellulose film
 
 [^c2141254]: Marginal citation: [S.I. 1996/1499](https://www.legislation.gov.uk/uksi/1996/1499). The definition of ingredient was previously amended by [S.I. 2009/3235](https://www.legislation.gov.uk/uksi/2009/3235) and [S.I. 2010/2225](https://www.legislation.gov.uk/uksi/2010/2225).
 
-[^key-1799d2f7a2a22bfbd69630543ac024d0]: Textual amendment: Words in [reg. 30(2)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/30/2) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/6/a)
+[^c-1799d2f7a2a22bfbd69630543ac024d0]: Textual amendment: Words in [reg. 30(2)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/30/2) substituted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/6/a)
 
-[^key-6a1c06f176387ec511850f6a1dccf097]: Textual amendment: Word in [reg. 30(2)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/30/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 1](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/1)
+[^c-6a1c06f176387ec511850f6a1dccf097]: Textual amendment: Word in [reg. 30(2)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/30/2) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 1](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/1)
 
-[^key-c2c637e97872f0ac9c951d4c379e07e7]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/30/6) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/6/b/i)
+[^c-c2c637e97872f0ac9c951d4c379e07e7]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/30/6) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(6)(b)(i)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/6/b/i)
 
-[^key-2da294899e4c188967d473379388a1fe]: Textual amendment: Word in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/30/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 1](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/1)
+[^c-2da294899e4c188967d473379388a1fe]: Textual amendment: Word in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/30/6) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 1](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/1)
 
-[^key-b0e2616421cb2f2a1ef36bb8d637a374]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/30/6) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/6/b/ii)
+[^c-b0e2616421cb2f2a1ef36bb8d637a374]: Textual amendment: Words in [reg. 30(6)](https://www.legislation.gov.uk/uksi/2012/2619/regulation/30/6) omitted (31.12.2022) by virtue of [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [2(6)(b)(ii)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/2/6/b/ii)
 
 [^c2141256]: Marginal citation: [S.I. 2006/1179](https://www.legislation.gov.uk/uksi/2006/1179), amended by [S.I. 2007/2790](https://www.legislation.gov.uk/uksi/2007/2790).
 
 [^c2141257]: Marginal citation: [S.I. 2011/231](https://www.legislation.gov.uk/uksi/2011/231).
 
-[^key-b4bf34194a56535552a7bed6bf7e4933]: Textual amendment: Sch. renumbered as Sch. 1 (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(7)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/7)
+[^c-b4bf34194a56535552a7bed6bf7e4933]: Textual amendment: Sch. renumbered as Sch. 1 (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(7)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/7)
 
-[^key-67a7828e9e935fc86966f15ea6cc4a47]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2619/schedule/1) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(8)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/8/a)
+[^c-67a7828e9e935fc86966f15ea6cc4a47]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2619/schedule/1) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(8)(a)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/8/a)
 
-[^key-912d35368a24d4def2ca4a3f6a267e58]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2619/schedule/1) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(8)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/8/b)
+[^c-912d35368a24d4def2ca4a3f6a267e58]: Textual amendment: Words in [Sch. 1](https://www.legislation.gov.uk/uksi/2012/2619/schedule/1) omitted (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [Sch. 12 para. 1(8)(b)](https://www.legislation.gov.uk/uksi/2025/361/schedule/12/paragraph/1/8/b)
 
-[^key-919de75c60f9a6726e00673b614a5f19]: Textual amendment: Words in Sch. substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(16)(a)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/16/a)
+[^c-919de75c60f9a6726e00673b614a5f19]: Textual amendment: Words in Sch. substituted (25.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(16)(a)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/16/a)
 
-[^key-3917f043824484ae877275dcadfd3621]: Textual amendment: Words in Sch. omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(16)(b)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/16/b)
+[^c-3917f043824484ae877275dcadfd3621]: Textual amendment: Words in Sch. omitted (25.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments) (England) Regulations 2020 (S.I. 2020/1410)](https://www.legislation.gov.uk/uksi/2020/1410), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/1/2), [4(16)(b)](https://www.legislation.gov.uk/uksi/2020/1410/regulation/4/16/b)
 
-[^key-108ffe32029adffa6719644d240d2ba6]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2619/schedule/2) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-108ffe32029adffa6719644d240d2ba6]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2619/schedule/2) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-23e7c2ccc23b776b273f558abdc29927]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2619/schedule/2) inserted (31.12.2020) by [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [reg. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/704/schedule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-23e7c2ccc23b776b273f558abdc29927]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2012/2619/schedule/2) inserted (31.12.2020) by [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [reg. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2019/704/schedule/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d6bee6c1aa50b1c5fd8f3444408ecac]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/2012/2619/schedule/3) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-5d6bee6c1aa50b1c5fd8f3444408ecac]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/2012/2619/schedule/3) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-80374e6257df32d576d6bd473521dded]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2012/2619/schedule/3) inserted (31.12.2020) by [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [reg. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/704/schedule/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-80374e6257df32d576d6bd473521dded]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2012/2619/schedule/3) inserted (31.12.2020) by [The Materials and Articles in Contact with Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [reg. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2019/704/schedule/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d44069cb96342418166bfc7ca4195270]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/2619/schedule/4) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-d44069cb96342418166bfc7ca4195270]: Modification: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/2619/schedule/4) applied in part (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(b)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/959/schedule/2) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
-[^key-139568f575589c113b8b5961060abccd]: Textual amendment: Sch. 4 inserted (31.12.2020) by The Materials and Articles in Contact with [Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [reg. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/704/schedule/3) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [16(8)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/16/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-139568f575589c113b8b5961060abccd]: Textual amendment: Sch. 4 inserted (31.12.2020) by The Materials and Articles in Contact with [Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/704)](https://www.legislation.gov.uk/uksi/2019/704), [reg. 1](https://www.legislation.gov.uk/uksi/2019/704/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2019/704/schedule/3) (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [16(8)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/16/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e6c30061eea619d4dd71ef77eb120cf]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2012/2619/schedule/5) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1351/schedule/1)
+[^c-2e6c30061eea619d4dd71ef77eb120cf]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2012/2619/schedule/5) inserted (31.12.2022) by [The Food and Feed (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/1351)](https://www.legislation.gov.uk/uksi/2022/1351), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1351/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1351/schedule/1)

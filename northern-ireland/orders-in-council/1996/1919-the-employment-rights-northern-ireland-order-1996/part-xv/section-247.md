@@ -22,7 +22,7 @@ summary: ''
 
 (1)[^c20309821][^c20310001] The remedy of an employee for infringement of any of the rights conferred by Article 40, Parts V to IX, Article 124, Part XI, Part XIII and Part XIV is, where provision is made for a complaint or the reference of a question to an industrial tribunal, by way of such a complaint or reference and not otherwise.
 
-(1YA)[^key-b2894f9ae639a69c2fcc400f0f5549c8] In relation to the right conferred by Article 68(1A), the reference in paragraph (1) to an employee has effect as a reference to a worker.
+(1YA)[^c-b2894f9ae639a69c2fcc400f0f5549c8] In relation to the right conferred by Article 68(1A), the reference in paragraph (1) to an employee has effect as a reference to a worker.
 
 (1ZA)[^c17628611] In relation to the right conferred by Article 68A, the reference in paragraph (1) to an employee has effect as a reference to a worker.
 
@@ -44,7 +44,7 @@ No other legal liability arises by reason that conduct is unlawful by virtue of 
 
 [^c20310001]: Modification: Art. 247(1) applied (6.4.2006) by [Service Provision Change (Protection of Employment) Regulations (Northern Ireland) 2006 (S.R. 2006/177)](https://www.legislation.gov.uk/nisr/2006/177), [reg. 16(1)](https://www.legislation.gov.uk/nisr/2006/177/regulation/16/1)
 
-[^key-b2894f9ae639a69c2fcc400f0f5549c8]: Textual amendment: [Art. 247(1YA)](https://www.legislation.gov.uk/nisi/1996/1919/article/247/1YA) inserted (31.5.2021) by [The Employment Rights (Northern Ireland) Order 1996 (Protection from Detriment in Health and Safety Cases) (Amendment) Order (Northern Ireland) 2021 (S.R. 2021/103)](https://www.legislation.gov.uk/nisr/2021/103), [arts. 1](https://www.legislation.gov.uk/nisr/2021/103/article/1), [6](https://www.legislation.gov.uk/nisr/2021/103/article/6)
+[^c-b2894f9ae639a69c2fcc400f0f5549c8]: Textual amendment: [Art. 247(1YA)](https://www.legislation.gov.uk/nisi/1996/1919/article/247/1YA) inserted (31.5.2021) by [The Employment Rights (Northern Ireland) Order 1996 (Protection from Detriment in Health and Safety Cases) (Amendment) Order (Northern Ireland) 2021 (S.R. 2021/103)](https://www.legislation.gov.uk/nisr/2021/103), [arts. 1](https://www.legislation.gov.uk/nisr/2021/103/article/1), [6](https://www.legislation.gov.uk/nisr/2021/103/article/6)
 
 [^c17628611]: Textual amendment: SR 1998/386
 

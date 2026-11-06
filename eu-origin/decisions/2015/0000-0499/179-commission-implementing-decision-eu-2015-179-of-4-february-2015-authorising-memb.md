@@ -36,48 +36,48 @@ authorising Member States to provide for a derogation from certain provisions of
 
 *(notified under document C(2015) 445)* (revoked)
 
-[^key-c43e8dd3c8a9c06c4975c0f36b77fbb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c43e8dd3c8a9c06c4975c0f36b77fbb4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Authorisation to provide for derogation[^key-c43e8dd3c8a9c06c4975c0f36b77fbb4]
+## Article 1. Authorisation to provide for derogation[^c-c43e8dd3c8a9c06c4975c0f36b77fbb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Notification obligation[^key-c43e8dd3c8a9c06c4975c0f36b77fbb4]
+## Article 2. Notification obligation[^c-c43e8dd3c8a9c06c4975c0f36b77fbb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Checks by the responsible official bodies[^key-c43e8dd3c8a9c06c4975c0f36b77fbb4]
+## Article 3. Checks by the responsible official bodies[^c-c43e8dd3c8a9c06c4975c0f36b77fbb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Storage and movement[^key-c43e8dd3c8a9c06c4975c0f36b77fbb4]
+## Article 4. Storage and movement[^c-c43e8dd3c8a9c06c4975c0f36b77fbb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Notification of non-compliance[^key-c43e8dd3c8a9c06c4975c0f36b77fbb4]
+## Article 5. Notification of non-compliance[^c-c43e8dd3c8a9c06c4975c0f36b77fbb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Reporting on imports[^key-c43e8dd3c8a9c06c4975c0f36b77fbb4]
+## Article 6. Reporting on imports[^c-c43e8dd3c8a9c06c4975c0f36b77fbb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Expiry date[^key-c43e8dd3c8a9c06c4975c0f36b77fbb4]
+## Article 7. Expiry date[^c-c43e8dd3c8a9c06c4975c0f36b77fbb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Addressees[^key-c43e8dd3c8a9c06c4975c0f36b77fbb4]
+## Article 8. Addressees[^c-c43e8dd3c8a9c06c4975c0f36b77fbb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — CONDITIONS FOR THE BOXES AS REFERRED TO IN ARTICLE 1[^key-c43e8dd3c8a9c06c4975c0f36b77fbb4]
+## ANNEX — CONDITIONS FOR THE BOXES AS REFERRED TO IN ARTICLE 1[^c-c43e8dd3c8a9c06c4975c0f36b77fbb4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c43e8dd3c8a9c06c4975c0f36b77fbb4]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/20) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-c43e8dd3c8a9c06c4975c0f36b77fbb4]: Textual amendment: Decision revoked (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [Sch. 3 para. 20](https://www.legislation.gov.uk/uksi/2020/1482/schedule/3/paragraph/20) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

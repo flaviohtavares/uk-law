@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Recovery of value[^key-9cf667fc44b670ffa71e41048c63b0ab][^key-9f7630100fb0bee3a3dbda1545f54369][^key-85813573544152d94d8068f5d8d11a27][^key-9f7630100fb0bee3a3dbda1545f54369]
+## 184. Recovery of value[^c-9cf667fc44b670ffa71e41048c63b0ab][^c-9f7630100fb0bee3a3dbda1545f54369][^c-85813573544152d94d8068f5d8d11a27][^c-9f7630100fb0bee3a3dbda1545f54369]
 
 *Extent: E+W+S*
 
@@ -35,8 +35,8 @@ For this purpose “**payment**” includes any money or money’s worth.
 
 ## Annotations
 
-[^key-9cf667fc44b670ffa71e41048c63b0ab]: Commencement: S. 184 in force at 1.9.2005 by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(16)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/16), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/3)
+[^c-9cf667fc44b670ffa71e41048c63b0ab]: Commencement: S. 184 in force at 1.9.2005 by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(16)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/16), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2005/1720/schedule/part/3)
 
-[^key-9f7630100fb0bee3a3dbda1545f54369]: Modification: Pt. 2 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
+[^c-9f7630100fb0bee3a3dbda1545f54369]: Modification: Pt. 2 applied in part (with modifications) (20.7.2005 for specified purposes, 1.9.2005 for specified purposes, 5.12.2005 for specified purposes) by [The Financial Assistance Scheme Regulations 2005 (S.I. 2005/1986)](https://www.legislation.gov.uk/uksi/2005/1986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/1986/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2005/1986/regulation/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/1986/schedule/1)
 
-[^key-85813573544152d94d8068f5d8d11a27]: Modification: Ss. 182-187: power to modify conferred (5.9.2018 for specified purposes, 1.10.2018 so far as not already in force) by [Pension Schemes Act 2017 (c. 17)](https://www.legislation.gov.uk/ukpga/2017/17), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/36/1), [44(2)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/2); [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)
+[^c-85813573544152d94d8068f5d8d11a27]: Modification: Ss. 182-187: power to modify conferred (5.9.2018 for specified purposes, 1.10.2018 so far as not already in force) by [Pension Schemes Act 2017 (c. 17)](https://www.legislation.gov.uk/ukpga/2017/17), [ss. 36(1)](https://www.legislation.gov.uk/ukpga/2017/17/section/36/1), [44(2)](https://www.legislation.gov.uk/ukpga/2017/17/section/44/2); [S.I. 2018/965](https://www.legislation.gov.uk/uksi/2018/965), [reg. 2](https://www.legislation.gov.uk/uksi/2018/965/regulation/2/a)

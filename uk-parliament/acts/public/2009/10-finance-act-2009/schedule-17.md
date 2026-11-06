@@ -184,7 +184,7 @@ that the affairs of the body are conducted in accordance with that person's wish
   - (a) the reporting body, or
   - (b) where the reporting body is a party to an arrangement under paragraph 6, any party to the arrangement.
 
-(5) Section 150 of TIOPA 2010[^key-bcda0354ca86cb06e9644bfb73137e5c] (meaning of “**transaction**” and “**series of transactions**”) applies for the purposes of this Schedule.
+(5) Section 150 of TIOPA 2010[^c-bcda0354ca86cb06e9644bfb73137e5c] (meaning of “**transaction**” and “**series of transactions**”) applies for the purposes of this Schedule.
 
 ### Part 3 — Commencement etc
 
@@ -200,4 +200,4 @@ that the affairs of the body are conducted in accordance with that person's wish
 
 ## Annotations
 
-[^key-bcda0354ca86cb06e9644bfb73137e5c]: Textual amendment: Words in Sch. 17 para. 12(5) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 150](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/150) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-bcda0354ca86cb06e9644bfb73137e5c]: Textual amendment: Words in Sch. 17 para. 12(5) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 150](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/150) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

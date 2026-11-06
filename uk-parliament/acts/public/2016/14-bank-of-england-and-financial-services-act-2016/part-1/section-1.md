@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-5447d3270a75f64f42a0f8456980a54d] The Bank of England Act 1998 is amended as follows.
+(1)[^c-5447d3270a75f64f42a0f8456980a54d] The Bank of England Act 1998 is amended as follows.
 
-(2)[^key-5447d3270a75f64f42a0f8456980a54d] In section 1(2) (court of directors) after paragraph (b) insert—
+(2)[^c-5447d3270a75f64f42a0f8456980a54d] In section 1(2) (court of directors) after paragraph (b) insert—
 
 > - (ba) a Deputy Governor for markets and banking,
 
 .
 
-(3)[^key-1a4535fd1599a0f132db7ab61cd3c748][^key-f5f2f3b4b3bda4920b4f23282d8c2be2] After section 1 insert—
+(3)[^c-1a4535fd1599a0f132db7ab61cd3c748][^c-f5f2f3b4b3bda4920b4f23282d8c2be2] After section 1 insert—
 
 > **1A. Power to alter membership of court of directors**
 >
@@ -68,8 +68,8 @@ summary: ''
 
 ## Annotations
 
-[^key-5447d3270a75f64f42a0f8456980a54d]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2016/14/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/1/2) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/a)
+[^c-5447d3270a75f64f42a0f8456980a54d]: Commencement: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2016/14/section/1/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/1/2) in force at 6.7.2016 by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/a)
 
-[^key-1a4535fd1599a0f132db7ab61cd3c748]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/1/3) in force at 6.7.2016 for specified purposes by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/b)
+[^c-1a4535fd1599a0f132db7ab61cd3c748]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/1/3) in force at 6.7.2016 for specified purposes by [S.I. 2016/627](https://www.legislation.gov.uk/uksi/2016/627), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2016/627/regulation/2/1/b)
 
-[^key-f5f2f3b4b3bda4920b4f23282d8c2be2]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/1/3) in force at 1.3.2017 in so far as not already in force by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/a)
+[^c-f5f2f3b4b3bda4920b4f23282d8c2be2]: Commencement: [S. 1(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/1/3) in force at 1.3.2017 in so far as not already in force by [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/a)

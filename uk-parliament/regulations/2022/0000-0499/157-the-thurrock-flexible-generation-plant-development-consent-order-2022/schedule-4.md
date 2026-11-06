@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — HIGHWAYS SUBJECT TO TEMPORARY CONTROL OR RESTRICTION[^key-f7eabe0e5c80d4f62971ee5891578fb8]
+## SCHEDULE 4 — HIGHWAYS SUBJECT TO TEMPORARY CONTROL OR RESTRICTION[^c-f7eabe0e5c80d4f62971ee5891578fb8]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ Article 13
 
 ## Annotations
 
-[^key-f7eabe0e5c80d4f62971ee5891578fb8]: Commencement: Sch. 4 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)
+[^c-f7eabe0e5c80d4f62971ee5891578fb8]: Commencement: Sch. 4 in force at 10.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/157/article/1)

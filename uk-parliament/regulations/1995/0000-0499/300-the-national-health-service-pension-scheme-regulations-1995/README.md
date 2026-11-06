@@ -42,7 +42,7 @@ Coming into force
 
 6th March 1995
 
-The Secretary of State for Health, in exercise of her powers under sections 10(1), (2) and (3) and 12(1) and (2) of, and Schedule 3 to, the Superannuation Act 1972[^c17857201] and of all other powers enabling her in that behalf, after consulting such representatives of persons likely to be affected by these Regulations as appear to her to be appropriate[^c17857211], and with the consent of the Treasury[^c17857221], hereby makes the following Regulations—[^key-33eed501dd98670c54dee4691b007654][^key-da83aba07a694feb5e9d6af692ffdf8b][^key-05aa4f6bfdbc86cc04183a8b42e1e3a2][^key-f0c3c8633ed8019189f5604b95e09e00]
+The Secretary of State for Health, in exercise of her powers under sections 10(1), (2) and (3) and 12(1) and (2) of, and Schedule 3 to, the Superannuation Act 1972[^c17857201] and of all other powers enabling her in that behalf, after consulting such representatives of persons likely to be affected by these Regulations as appear to her to be appropriate[^c17857211], and with the consent of the Treasury[^c17857221], hereby makes the following Regulations—[^c-33eed501dd98670c54dee4691b007654][^c-da83aba07a694feb5e9d6af692ffdf8b][^c-05aa4f6bfdbc86cc04183a8b42e1e3a2][^c-f0c3c8633ed8019189f5604b95e09e00]
 
 ## Contents
 
@@ -105,7 +105,7 @@ The Secretary of State for Health, in exercise of her powers under sections 10(1
 - [Section F4 — Member dies within 12 months after leaving pensionable employment without pension or preserved pension](part-f/section-f4.md)
 - [Section F5 — Payment of lump sum](part-f/section-f5.md)
 
-### PART G — SURVIVING PARTNER PENSIONS[^key-47d7ab5cac0d614e2908856f871b47f1]
+### PART G — SURVIVING PARTNER PENSIONS[^c-47d7ab5cac0d614e2908856f871b47f1]
 
 - [Section G1 — Widow’s pension](part-g/section-g1.md)
 - [Section G2 — Member dies in pensionable employment](part-g/section-g2.md)
@@ -135,7 +135,7 @@ The Secretary of State for Health, in exercise of her powers under sections 10(1
 - [Section H6 — Member dies within 12 months after leaving pensionable employment without pension or preserved pension.](part-h/section-h6.md)
 - [Section H7 — Dependent child not being maintained by surviving parent or spouse or civil partner or scheme partner of a parent](part-h/section-h7.md)
 
-### PART J — Allocation to a spouse , civil partner or dependant[^key-de20701e6c264553dde246cb8938db0e]
+### PART J — Allocation to a spouse , civil partner or dependant[^c-de20701e6c264553dde246cb8938db0e]
 
 - [Section J1 — Allocation of pension](part-j/section-j1.md)
 - [Section J2 — Limits on allocation of pension](part-j/section-j2.md)
@@ -158,7 +158,7 @@ The Secretary of State for Health, in exercise of her powers under sections 10(1
 - [Section L3 — Payment of interest with refund of contributions](part-l/section-l3.md)
 - [Section L4 — Early leavers returning to pensionable employment](part-l/section-l4.md)
 
-### PART M — TRANSFERS AND BUY-OUTS[^key-e340595f578b73e4dd2c3e29fb3f5cb5]
+### PART M — TRANSFERS AND BUY-OUTS[^c-e340595f578b73e4dd2c3e29fb3f5cb5]
 
 - [Section M1 — Member’s right to transfer or buy-out](part-m/section-m1.md)
 - [Section M2 — Exercising a right to a transfer or a buy out](part-m/section-m2.md)
@@ -183,7 +183,7 @@ The Secretary of State for Health, in exercise of her powers under sections 10(1
 - [Section P1 — Absence because of illness or injury or certain types of leave](part-p/section-p1.md)
 - [Section P2 — Other leave of absence](part-p/section-p2.md)
 
-### PART Q — Right to buy additional service and unreduced retirement lump sum[^key-aa2a412986ca69692abb9558e0be1fe9]
+### PART Q — Right to buy additional service and unreduced retirement lump sum[^c-aa2a412986ca69692abb9558e0be1fe9]
 
 - [Section Q1 — Right to buy additional service](part-q/section-q1.md)
 - [Section Q2 — Right to buy an unreduced retirement lump sum](part-q/section-q2.md)
@@ -309,18 +309,18 @@ These Regulations do not impose any costs on business
 
 [^c17857221]: Marginal citation: *See*[section 10(1)](https://www.legislation.gov.uk/uksi/1995/300/section/10/1) of the Superannuation Act 1972 and article 2 of the [Transfer of Functions (Minister for Civil Service and Treasury) Order 1981 (S.I. 1981/1670)](https://www.legislation.gov.uk/uksi/1981/1670).
 
-[^key-33eed501dd98670c54dee4691b007654]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/300) applied (with modifications) (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(7)(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/7/b)
+[^c-33eed501dd98670c54dee4691b007654]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/300) applied (with modifications) (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(7)(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/7/b)
 
-[^key-da83aba07a694feb5e9d6af692ffdf8b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/300) applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [14(1)](https://www.legislation.gov.uk/uksi/2015/95/regulation/14/1)
+[^c-da83aba07a694feb5e9d6af692ffdf8b]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/300) applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [14(1)](https://www.legislation.gov.uk/uksi/2015/95/regulation/14/1)
 
-[^key-05aa4f6bfdbc86cc04183a8b42e1e3a2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/300) applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(8)(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/8/b)
+[^c-05aa4f6bfdbc86cc04183a8b42e1e3a2]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/300) applied (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(8)(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/8/b)
 
-[^key-f0c3c8633ed8019189f5604b95e09e00]: Modification: Regulations modified (temp.) (25.3.2022 immediately after the expiry of [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 45](https://www.legislation.gov.uk/ukpga/2020/7/section/45)) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2022/273/regulation/10) (with [reg. 9](https://www.legislation.gov.uk/uksi/2022/273/regulation/9)) (as amended (31.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/1028)](https://www.legislation.gov.uk/uksi/2022/1028), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1028/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/1028/regulation/2))
+[^c-f0c3c8633ed8019189f5604b95e09e00]: Modification: Regulations modified (temp.) (25.3.2022 immediately after the expiry of [2020 c. 7](https://www.legislation.gov.uk/ukpga/2020/7), [s. 45](https://www.legislation.gov.uk/ukpga/2020/7/section/45)) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) Regulations 2022 (S.I. 2022/273)](https://www.legislation.gov.uk/uksi/2022/273), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/273/regulation/1/2), [10](https://www.legislation.gov.uk/uksi/2022/273/regulation/10) (with [reg. 9](https://www.legislation.gov.uk/uksi/2022/273/regulation/9)) (as amended (31.10.2022) by [The National Health Service Pension Schemes (Member Contributions etc.) (Amendment) (No. 3) Regulations 2022 (S.I. 2022/1028)](https://www.legislation.gov.uk/uksi/2022/1028), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1028/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/1028/regulation/2))
 
-[^key-47d7ab5cac0d614e2908856f871b47f1]: Textual amendment: [Pt. G](https://www.legislation.gov.uk/uksi/1995/300/part/G) heading substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2008/654/regulation/18)
+[^c-47d7ab5cac0d614e2908856f871b47f1]: Textual amendment: [Pt. G](https://www.legislation.gov.uk/uksi/1995/300/part/G) heading substituted (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [18](https://www.legislation.gov.uk/uksi/2008/654/regulation/18)
 
-[^key-de20701e6c264553dde246cb8938db0e]: Textual amendment: Words in [Pt. J](https://www.legislation.gov.uk/uksi/1995/300/part/J) heading inserted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [2(12)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/2/12)
+[^c-de20701e6c264553dde246cb8938db0e]: Textual amendment: Words in [Pt. J](https://www.legislation.gov.uk/uksi/1995/300/part/J) heading inserted (5.12.2005) by [The National Health Service (Pension Scheme, Injury Benefits, Additional Voluntary Contributions and Compensation for Premature Retirement) (Civil Partnership) Amendment Regulations 2005 (S.I. 2005/3074)](https://www.legislation.gov.uk/uksi/2005/3074), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3074/regulation/1), [2(12)](https://www.legislation.gov.uk/uksi/2005/3074/regulation/2/12)
 
-[^key-e340595f578b73e4dd2c3e29fb3f5cb5]: Textual amendment: [Pt. M](https://www.legislation.gov.uk/uksi/1995/300/part/M) (regs. M1-M6) substituted for Pt. M (regs. M1-M7) (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2008/654/regulation/41)
+[^c-e340595f578b73e4dd2c3e29fb3f5cb5]: Textual amendment: [Pt. M](https://www.legislation.gov.uk/uksi/1995/300/part/M) (regs. M1-M6) substituted for Pt. M (regs. M1-M7) (1.4.2008) by [The National Health Service Pension Scheme (Amendment) Regulations 2008 (S.I. 2008/654)](https://www.legislation.gov.uk/uksi/2008/654), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2), [41](https://www.legislation.gov.uk/uksi/2008/654/regulation/41)
 
-[^key-aa2a412986ca69692abb9558e0be1fe9]: Modification: [Pt. Q](https://www.legislation.gov.uk/uksi/1995/300/part/Q) restricted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(8)(c)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/8/c)
+[^c-aa2a412986ca69692abb9558e0be1fe9]: Modification: [Pt. Q](https://www.legislation.gov.uk/uksi/1995/300/part/Q) restricted (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [25(8)(c)](https://www.legislation.gov.uk/uksi/2015/95/regulation/25/8/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Transitional provision[^key-42cbaada311df45ff21bc9bcf0cd0929]
+## 8. Transitional provision[^c-42cbaada311df45ff21bc9bcf0cd0929]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42cbaada311df45ff21bc9bcf0cd0929]: Commencement: Art. 8 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)
+[^c-42cbaada311df45ff21bc9bcf0cd0929]: Commencement: Art. 8 in force at 6.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2004/753/article/1/1)

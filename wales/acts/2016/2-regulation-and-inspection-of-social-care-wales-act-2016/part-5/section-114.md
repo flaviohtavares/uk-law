@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 114. Approval of courses etc.[^key-d462f3d46478769d2d1f927cd7912f87]
+## 114. Approval of courses etc.[^c-d462f3d46478769d2d1f927cd7912f87]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d462f3d46478769d2d1f927cd7912f87]: Commencement: [S. 114](https://www.legislation.gov.uk/anaw/2016/2/section/114) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(d)](https://www.legislation.gov.uk/wsi/2017/309/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-d462f3d46478769d2d1f927cd7912f87]: Commencement: [S. 114](https://www.legislation.gov.uk/anaw/2016/2/section/114) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(d)](https://www.legislation.gov.uk/wsi/2017/309/article/2/d) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Road traffic orders not required to be made by Welsh statutory instrument[^key-5b6bb70b4bc2b01467031c3ee8c0fdb7]
+## 2. Road traffic orders not required to be made by Welsh statutory instrument[^c-5b6bb70b4bc2b01467031c3ee8c0fdb7]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b6bb70b4bc2b01467031c3ee8c0fdb7]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2025/3/section/2) in force at 10.9.2025, see [s. 9(2)(a)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/a)
+[^c-5b6bb70b4bc2b01467031c3ee8c0fdb7]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2025/3/section/2) in force at 10.9.2025, see [s. 9(2)(a)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/a)

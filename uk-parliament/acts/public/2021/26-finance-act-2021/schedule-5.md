@@ -26,7 +26,7 @@ Section 29
 
 **1.** Part 4 of FA 2004 is amended in accordance with paragraphs 2 to 23.
 
-**2.**[^key-f6bcc4c3f7ff466d24927a059bfb4a86] (1) Section 152 (meaning of “arrangement”) is amended as follows.
+**2.**[^c-f6bcc4c3f7ff466d24927a059bfb4a86] (1) Section 152 (meaning of “arrangement”) is amended as follows.
 
 (2) In subsection (2), after “cash balance benefits” insert “ , collective money purchase benefits ”.
 
@@ -66,26 +66,26 @@ Section 29
 > - (c) money purchase benefits that are neither cash balance benefits nor collective money purchase benefits, and
 > - (d) defined benefits.
 
-**3.**[^key-b9d016d31adc79b80798ac5f9684c0dd] (1) In section 165 (pension rules), subsection (1) is amended as follows.
+**3.**[^c-b9d016d31adc79b80798ac5f9684c0dd] (1) In section 165 (pension rules), subsection (1) is amended as follows.
 
 (2) In pension rule 3, after “defined benefits arrangement” insert “ or a collective money purchase arrangement ”.
 
 (3) In pension rule 4, after “money purchase arrangement” insert “ that is not a collective money purchase arrangement ”.
 
-**4.**[^key-01d272c98475bd459b91df998c3d0ad6] (1) In section 167 (pension death benefit rules), subsection (1) is amended as follows.
+**4.**[^c-01d272c98475bd459b91df998c3d0ad6] (1) In section 167 (pension death benefit rules), subsection (1) is amended as follows.
 
 (2) In pension death benefit rule 2, after “defined benefits arrangement” insert “ or a collective money purchase arrangement ”.
 
 (3) In pension death benefit rule 3, after “money purchase arrangement” insert “ that is not a collective money purchase arrangement ”.
 
-**5.**[^key-412156fd3a08dffc56eec0e13f978184] (1) Section 172C (allocation of unallocated employer contributions) is amended as follows.
+**5.**[^c-412156fd3a08dffc56eec0e13f978184] (1) Section 172C (allocation of unallocated employer contributions) is amended as follows.
 
 (2) In subsection (2)—
 
 - (a) in paragraph (a), after “cash balance arrangement” insert “ or a collective money purchase arrangement ”;
 - (b) in paragraph (b), for “other than cash balance benefits” substitute “ that are not cash balance benefits or collective money purchase benefits ”.
 
-**6.**[^key-e8ae3c76d52a3304df9b4a4b9cfa5415] (1) Section 182 (unauthorised borrowing: money purchase arrangements) is amended as follows.
+**6.**[^c-e8ae3c76d52a3304df9b4a4b9cfa5415] (1) Section 182 (unauthorised borrowing: money purchase arrangements) is amended as follows.
 
 (2) In the heading, at the end insert “ other than collective money purchase arrangements ”.
 
@@ -93,11 +93,11 @@ Section 29
 
 (4) In subsection (8), after “defined benefits” insert “ or collective money purchase benefits ”.
 
-**7.**[^key-125a3d41be0040d50071bf0b6fcb532e] (1) Section 183 (effect of unauthorised borrowing: money purchase arrangements) is amended as follows.
+**7.**[^c-125a3d41be0040d50071bf0b6fcb532e] (1) Section 183 (effect of unauthorised borrowing: money purchase arrangements) is amended as follows.
 
 (2) In the heading, at the end insert “ other than collective money purchase arrangements ”.
 
-**8.**[^key-338758bec42ea5623f14d980899a6e4a] (1) Section 184 (unauthorised borrowing: other arrangements) is amended as follows.
+**8.**[^c-338758bec42ea5623f14d980899a6e4a] (1) Section 184 (unauthorised borrowing: other arrangements) is amended as follows.
 
 (2) In subsection (1), for “arrangement which is not a money purchase arrangement” substitute “ relevant arrangement ”.
 
@@ -112,7 +112,7 @@ Section 29
 
 (5) In subsection (3), in paragraphs (a) and (b), for “not money purchase arrangements” substitute “ relevant arrangements ”.
 
-**9.**[^key-9b0e4bc642b180e8558f14c24c5d8d5b] (1) Section 212 (valuation of uncrystallised rights for purposes of section 210) is amended as follows.
+**9.**[^c-9b0e4bc642b180e8558f14c24c5d8d5b] (1) Section 212 (valuation of uncrystallised rights for purposes of section 210) is amended as follows.
 
 (2) In subsection (3)—
 
@@ -130,14 +130,14 @@ Section 29
 >
 > (9) In this section “**variety of benefits**” means a variety of benefits specified in section 152(10).
 
-**10.**[^key-7f14e1b711ca5419567419c241ac16d6] (1) Section 216 (benefit crystallisation events and amounts crystallised) is amended as follows.
+**10.**[^c-7f14e1b711ca5419567419c241ac16d6] (1) Section 216 (benefit crystallisation events and amounts crystallised) is amended as follows.
 
 (2) In subsection (1), in the table, in column 1—
 
 - (a) in benefit crystallisation event 5, after “defined benefit arrangement” insert “ , or a collective money purchase arrangement, ”;
 - (b) in benefit crystallisation event 5B, after “money purchase arrangement” insert “ , other than a collective money purchase arrangement, ”.
 
-**11.**[^key-236a9633e678a88bce0216d64a6601a5] (1) Section 223 (non-residence: other arrangements) is amended as follows.
+**11.**[^c-236a9633e678a88bce0216d64a6601a5] (1) Section 223 (non-residence: other arrangements) is amended as follows.
 
 (2) In subsection (5)—
 
@@ -148,7 +148,7 @@ Section 29
   ;
 - (b) in paragraph (b), for “any other sort of money purchase arrangement” substitute “ a money purchase arrangement other than a cash balance arrangement or a collective money purchase arrangement ”.
 
-**12.**[^key-aafe1512fd1f8b1392e6022ebe622733] (1) Section 226 (overseas scheme transfers: other arrangements) is amended as follows.
+**12.**[^c-aafe1512fd1f8b1392e6022ebe622733] (1) Section 226 (overseas scheme transfers: other arrangements) is amended as follows.
 
 (2) In subsection (5)—
 
@@ -159,7 +159,7 @@ Section 29
   ;
 - (b) in paragraph (b), for “any other sort of money purchase arrangement” substitute “ a money purchase arrangement other than a cash balance arrangement or a collective money purchase arrangement ”.
 
-**13.**[^key-8c4e98488137e85bfb7532859fb178ff] (1) Section 227B (the alternative chargeable amount) is amended as follows.
+**13.**[^c-8c4e98488137e85bfb7532859fb178ff] (1) Section 227B (the alternative chargeable amount) is amended as follows.
 
 (2) In subsection (2), for “AA” (in both places it occurs) substitute “ X ”.
 
@@ -176,22 +176,22 @@ Section 29
 - (a) after “A” (in both places it occurs) insert “ , AA ”;
 - (b) after “greater” insert “ or greatest ”.
 
-**14.**[^key-774484fe13997a46db2dcb6a12b0e002] (1) Section 227C (meaning of “money-purchase input sub-total”) is amended as follows.
+**14.**[^c-774484fe13997a46db2dcb6a12b0e002] (1) Section 227C (meaning of “money-purchase input sub-total”) is amended as follows.
 
 (2) In subsection (1)(b)(ii), after “A” insert “ , AA ”.
 
-**15.**[^key-449d5f0f0d319a1e2f1bdd68f0ea8a0e] (1) Section 227D (pension input amounts in respect of certain hybrid arrangements) is amended as follows.
+**15.**[^c-449d5f0f0d319a1e2f1bdd68f0ea8a0e] (1) Section 227D (pension input amounts in respect of certain hybrid arrangements) is amended as follows.
 
 (2) In subsection (2)(a)—
 
 - (a) after “greater” insert “ or greatest ”;
 - (b) after “A” insert “ , AA ”.
 
-**16.**[^key-1096751e62a5f09786ba537e0be5af85] (1) Section 227F (pension input periods in which rights are first flexibly accessed) is amended as follows.
+**16.**[^c-1096751e62a5f09786ba537e0be5af85] (1) Section 227F (pension input periods in which rights are first flexibly accessed) is amended as follows.
 
 (2) In subsection (5)(b), after “input amount” insert “ AA or ”.
 
-**17.**[^key-0ba048338dd112d7e447023e09062bc6] (1) Section 227G (when pension rights are first flexibly accessed) is amended as follows.
+**17.**[^c-0ba048338dd112d7e447023e09062bc6] (1) Section 227G (when pension rights are first flexibly accessed) is amended as follows.
 
 (2) In subsection (9)(a), for “money purchase” substitute “ relevant ”.
 
@@ -199,7 +199,7 @@ Section 29
 
 > (9A) In subsection (9), “**relevant arrangement**” means a money purchase arrangement that is not a collective money purchase arrangement.
 
-**18.**[^key-020dc722c59f08c936cc956edf37e4b6] (1) Section 237 (hybrid arrangements) is amended as follows.
+**18.**[^c-020dc722c59f08c936cc956edf37e4b6] (1) Section 237 (hybrid arrangements) is amended as follows.
 
 (2) In subsection (1), after “amounts A,” insert “ AA, ”.
 
@@ -209,7 +209,7 @@ Section 29
 
 (4) In subsection (4), for “other money purchase benefits” substitute “ money purchase benefits that are not cash balance benefits or collective money purchase benefits ”.
 
-**19.**[^key-2d1dbeaecf84f0dac7d62ae54c525d66] In section 280 (abbreviations and general index), in the table in subsection (2) insert at the appropriate places—
+**19.**[^c-2d1dbeaecf84f0dac7d62ae54c525d66] In section 280 (abbreviations and general index), in the table in subsection (2) insert at the appropriate places—
 
 > |  |  |
 > | --- | --- |
@@ -221,7 +221,7 @@ Section 29
 
 .
 
-**20.**[^key-45bca535fe1bd9f73807e54b29660052] (1) Schedule 28 (authorised pensions: supplementary) is amended as follows.
+**20.**[^c-45bca535fe1bd9f73807e54b29660052] (1) Schedule 28 (authorised pensions: supplementary) is amended as follows.
 
 (2) In paragraph 2 (scheme pension), after sub-paragraph (8) insert—
 
@@ -246,12 +246,12 @@ Section 29
 > - (a) the pension is payable in respect of a collective money purchase arrangement, and
 > - (b) the reduction is in accordance with the rules of the scheme.
 
-**21.**[^key-240b85c5f36f2d696fd2a4ba6625636f] (1) Schedule 29 (authorised lump sums - supplementary) is amended as follows.
+**21.**[^c-240b85c5f36f2d696fd2a4ba6625636f] (1) Schedule 29 (authorised lump sums - supplementary) is amended as follows.
 
 (2) In paragraph 1 (pension commencement lump sum)—
 
 - (a) in sub-paragraph (1)(f), for “sub-paragraph (4)” substitute “ sub-paragraphs (4) and (4A) ”;
-- (b)[^key-c3a6007d8c517ad0ce9ce7802ef11a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c3a6007d8c517ad0ce9ce7802ef11a9a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In paragraph 2 (pension commencement lump sum), in sub-paragraph (6B), after “money purchase arrangement” insert “ that is not a collective money purchase arrangement ”.
 
@@ -270,9 +270,9 @@ Section 29
   - (iii) for “or partly in respect of the former and partly in respect of the latter” substitute “ or in respect of any combination of such arrangements and scheme pensions ”;
 - (b) in paragraph (d), after “defined benefits” insert “ , and any entitlement to collective money purchase benefits, ”.
 
-**22.**[^key-eed51261b155813e485da5ddffa6f126] (1) Schedule 32 (benefit crystallisation events - supplementary) is amended as follows.
+**22.**[^c-eed51261b155813e485da5ddffa6f126] (1) Schedule 32 (benefit crystallisation events - supplementary) is amended as follows.
 
-(2)[^key-55b76744044f7f0a37c00c60306129f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-55b76744044f7f0a37c00c60306129f7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Omit paragraph 5 (benefit crystallisation events 1 and 5: hybrid arrangements) together with the italic cross heading preceding it.
 
@@ -322,7 +322,7 @@ Section 29
 >
 > **14ZB.** In determining, for the purposes of benefit crystallisation event 5A, an amount crystallised by benefit crystallisation event 1 in relation to the arrangement and the individual, any reduction made for the purposes of that crystallisation event under paragraph 2B (prevention of overlap) is to be disregarded.
 
-**23.**[^key-9cc0b9d2d3c9d906f866c7292d11aa5f] (1) Schedule 36 (transitional provision and savings) is amended as follows.
+**23.**[^c-9cc0b9d2d3c9d906f866c7292d11aa5f] (1) Schedule 36 (transitional provision and savings) is amended as follows.
 
 (2) In paragraph 29 (lump sum rights exceeding £375,000: primary and enhanced protection), in sub-paragraph (3)—
 
@@ -331,7 +331,7 @@ Section 29
 
 (3) In paragraph 34 (entitlement to lump sums exceeding 25% of uncrystallised rights), in sub-paragraph (2), in the substitute paragraph 2(7AA) of Schedule 29, after “ money purchase arrangement ” insert “ that is not a collective money purchase arrangement ”.
 
-**24.**[^key-494dd8692f9f24c6c46129aefb95e711] (1) In the Registered Pension Schemes (Transfer of Sums and Assets) Regulations 2006 (S.I. 2006/499), regulation 12 (member's drawdown pension fund or flexi-access pension fund) is amended as follows.
+**24.**[^c-494dd8692f9f24c6c46129aefb95e711] (1) In the Registered Pension Schemes (Transfer of Sums and Assets) Regulations 2006 (S.I. 2006/499), regulation 12 (member's drawdown pension fund or flexi-access pension fund) is amended as follows.
 
 (2) In Table 3, after the entry for section 216(1), benefit crystallisation event 1 insert—
 
@@ -349,52 +349,52 @@ Section 29
 
 ## Annotations
 
-[^key-f6bcc4c3f7ff466d24927a059bfb4a86]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/2) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-f6bcc4c3f7ff466d24927a059bfb4a86]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/2) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-b9d016d31adc79b80798ac5f9684c0dd]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/3) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-b9d016d31adc79b80798ac5f9684c0dd]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/3) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-01d272c98475bd459b91df998c3d0ad6]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/4) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-01d272c98475bd459b91df998c3d0ad6]: Commencement: [Sch. 5 para. 4](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/4) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-412156fd3a08dffc56eec0e13f978184]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/5) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-412156fd3a08dffc56eec0e13f978184]: Commencement: [Sch. 5 para. 5](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/5) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-e8ae3c76d52a3304df9b4a4b9cfa5415]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/6) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-e8ae3c76d52a3304df9b4a4b9cfa5415]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/6) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-125a3d41be0040d50071bf0b6fcb532e]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/7) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-125a3d41be0040d50071bf0b6fcb532e]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/7) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-338758bec42ea5623f14d980899a6e4a]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/8) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-338758bec42ea5623f14d980899a6e4a]: Commencement: [Sch. 5 para. 8](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/8) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-9b0e4bc642b180e8558f14c24c5d8d5b]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/9) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-9b0e4bc642b180e8558f14c24c5d8d5b]: Commencement: [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/9) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-7f14e1b711ca5419567419c241ac16d6]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/10) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-7f14e1b711ca5419567419c241ac16d6]: Commencement: [Sch. 5 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/10) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-236a9633e678a88bce0216d64a6601a5]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/11) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-236a9633e678a88bce0216d64a6601a5]: Commencement: [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/11) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-aafe1512fd1f8b1392e6022ebe622733]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/12) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-aafe1512fd1f8b1392e6022ebe622733]: Commencement: [Sch. 5 para. 12](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/12) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-8c4e98488137e85bfb7532859fb178ff]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/13) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-8c4e98488137e85bfb7532859fb178ff]: Commencement: [Sch. 5 para. 13](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/13) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-774484fe13997a46db2dcb6a12b0e002]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/14) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-774484fe13997a46db2dcb6a12b0e002]: Commencement: [Sch. 5 para. 14](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/14) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-449d5f0f0d319a1e2f1bdd68f0ea8a0e]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/15) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-449d5f0f0d319a1e2f1bdd68f0ea8a0e]: Commencement: [Sch. 5 para. 15](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/15) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-1096751e62a5f09786ba537e0be5af85]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/16) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-1096751e62a5f09786ba537e0be5af85]: Commencement: [Sch. 5 para. 16](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/16) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-0ba048338dd112d7e447023e09062bc6]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/17) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-0ba048338dd112d7e447023e09062bc6]: Commencement: [Sch. 5 para. 17](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/17) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-020dc722c59f08c936cc956edf37e4b6]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/18) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-020dc722c59f08c936cc956edf37e4b6]: Commencement: [Sch. 5 para. 18](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/18) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-2d1dbeaecf84f0dac7d62ae54c525d66]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/19) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-2d1dbeaecf84f0dac7d62ae54c525d66]: Commencement: [Sch. 5 para. 19](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/19) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-45bca535fe1bd9f73807e54b29660052]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/20) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-45bca535fe1bd9f73807e54b29660052]: Commencement: [Sch. 5 para. 20](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/20) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-240b85c5f36f2d696fd2a4ba6625636f]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/21) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-240b85c5f36f2d696fd2a4ba6625636f]: Commencement: [Sch. 5 para. 21](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/21) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-c3a6007d8c517ad0ce9ce7802ef11a9a]: Textual amendment: [Sch. 5 para. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/21/2/b) omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 24(9)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/24/9/a)
+[^c-c3a6007d8c517ad0ce9ce7802ef11a9a]: Textual amendment: [Sch. 5 para. 21(2)(b)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/21/2/b) omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 24(9)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/24/9/a)
 
-[^key-eed51261b155813e485da5ddffa6f126]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/22) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-eed51261b155813e485da5ddffa6f126]: Commencement: [Sch. 5 para. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/22) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-55b76744044f7f0a37c00c60306129f7]: Textual amendment: [Sch. 5 para. 22(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/22/2) omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 24(9)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/24/9/b)
+[^c-55b76744044f7f0a37c00c60306129f7]: Textual amendment: [Sch. 5 para. 22(2)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/22/2) omitted (11.7.2023) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 24(9)(b)](https://www.legislation.gov.uk/ukpga/2023/30/section/24/9/b)
 
-[^key-9cc0b9d2d3c9d906f866c7292d11aa5f]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/23) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-9cc0b9d2d3c9d906f866c7292d11aa5f]: Commencement: [Sch. 5 para. 23](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/23) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
 
-[^key-494dd8692f9f24c6c46129aefb95e711]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/24) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)
+[^c-494dd8692f9f24c6c46129aefb95e711]: Commencement: [Sch. 5 para. 24](https://www.legislation.gov.uk/ukpga/2021/26/schedule/5/paragraph/24) in force at 1.8.2022 for the purposes of the amendments made by that paragraph by [S.I. 2022/874](https://www.legislation.gov.uk/uksi/2022/874), [reg. 2](https://www.legislation.gov.uk/uksi/2022/874/regulation/2)

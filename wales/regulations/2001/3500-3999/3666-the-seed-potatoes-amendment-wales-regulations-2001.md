@@ -31,7 +31,7 @@ summary: ''
 
 SEED, WALES
 
-The Seed Potatoes (Amendment) (Wales) Regulations 2001 (revoked)[^key-470e96126292bfaf508b63759afb23ee]
+The Seed Potatoes (Amendment) (Wales) Regulations 2001 (revoked)[^c-470e96126292bfaf508b63759afb23ee]
 
 Made
 
@@ -41,80 +41,80 @@ Coming into force
 
 29th November 2001
 
-[^key-470e96126292bfaf508b63759afb23ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-470e96126292bfaf508b63759afb23ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-470e96126292bfaf508b63759afb23ee]
+## 1. Title, commencement and application[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Seed Potatoes Regulations 1991[^key-470e96126292bfaf508b63759afb23ee]
+## 2. Amendment of the Seed Potatoes Regulations 1991[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Regulation 2 (Interpretation)[^key-470e96126292bfaf508b63759afb23ee]
+## 3. Regulation 2 (Interpretation)[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Regulation 5 (potatoes to which the Regulations do not apply)[^key-470e96126292bfaf508b63759afb23ee]
+## 4. Regulation 5 (potatoes to which the Regulations do not apply)[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Regulation 6 (marketing of seed potatoes)[^key-470e96126292bfaf508b63759afb23ee]
+## 5. Regulation 6 (marketing of seed potatoes)[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Regulation 7 (Classification of seed potatoes)[^key-470e96126292bfaf508b63759afb23ee]
+## 6. Regulation 7 (Classification of seed potatoes)[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Regulation 8 (Official examination of seed potatoes)[^key-470e96126292bfaf508b63759afb23ee]
+## 7. Regulation 8 (Official examination of seed potatoes)[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Regulation 9 (Basic and certified seed potatoes: identity and packing)[^key-470e96126292bfaf508b63759afb23ee]
+## 8. Regulation 9 (Basic and certified seed potatoes: identity and packing)[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Genetically modified seed potatoes[^key-470e96126292bfaf508b63759afb23ee]
+## 9. Genetically modified seed potatoes[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Basic and certified seed potatoes from third countries: information[^key-470e96126292bfaf508b63759afb23ee]
+## 10. Basic and certified seed potatoes from third countries: information[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Schedule 1 (classification of seed potatoes)[^key-470e96126292bfaf508b63759afb23ee]
+## 11. Schedule 1 (classification of seed potatoes)[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Schedule 3 (classification of basic seed potatoes)[^key-470e96126292bfaf508b63759afb23ee]
+## 12. Schedule 3 (classification of basic seed potatoes)[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Schedule 4 (official label etc)[^key-470e96126292bfaf508b63759afb23ee]
+## 13. Schedule 4 (official label etc)[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Schedule 5 (specified diseases or pests etc)[^key-470e96126292bfaf508b63759afb23ee]
+## 14. Schedule 5 (specified diseases or pests etc)[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Schedule 6 (particulars to be specified in a sale note etc)[^key-470e96126292bfaf508b63759afb23ee]
+## 15. Schedule 6 (particulars to be specified in a sale note etc)[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Miscellaneous amendments[^key-470e96126292bfaf508b63759afb23ee]
+## 16. Miscellaneous amendments[^c-470e96126292bfaf508b63759afb23ee]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-470e96126292bfaf508b63759afb23ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-470e96126292bfaf508b63759afb23ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-470e96126292bfaf508b63759afb23ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-470e96126292bfaf508b63759afb23ee]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-470e96126292bfaf508b63759afb23ee]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2001/3666) revoked (15.11.2006) by [The Seed Potatoes (Wales) Regulations 2006 (S.I. 2006/2929)](https://www.legislation.gov.uk/wsi/2006/2929), [reg. 1(1)](https://editorial.legislation.gov.uk/wsi/2006/2929/regulation/1), [Sch. 8](https://www.legislation.gov.uk/wsi/2006/2929/schedule/8) (with [reg. 3](https://www.legislation.gov.uk/wsi/2006/2929/regulation/3))
+[^c-470e96126292bfaf508b63759afb23ee]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2001/3666) revoked (15.11.2006) by [The Seed Potatoes (Wales) Regulations 2006 (S.I. 2006/2929)](https://www.legislation.gov.uk/wsi/2006/2929), [reg. 1(1)](https://editorial.legislation.gov.uk/wsi/2006/2929/regulation/1), [Sch. 8](https://www.legislation.gov.uk/wsi/2006/2929/schedule/8) (with [reg. 3](https://www.legislation.gov.uk/wsi/2006/2929/regulation/3))

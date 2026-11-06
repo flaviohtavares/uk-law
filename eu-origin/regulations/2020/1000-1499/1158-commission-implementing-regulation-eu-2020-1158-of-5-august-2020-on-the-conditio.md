@@ -127,7 +127,7 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Scope
 
-1. This Regulation shall apply to food, including minor food, and feed within the meaning of Article 1 of Regulation (Euratom) 2016/52 originating in or consigned from third countries listed in Annex I to this Regulation (‘the products’) intended for placing on the market in Great Britain[^key-c65abfeebe51fb337f1929c0395ff758].
+1. This Regulation shall apply to food, including minor food, and feed within the meaning of Article 1 of Regulation (Euratom) 2016/52 originating in or consigned from third countries listed in Annex I to this Regulation (‘the products’) intended for placing on the market in Great Britain[^c-c65abfeebe51fb337f1929c0395ff758].
 
 2. This Regulation shall not apply to the following categories of consignments of the products, unless their gross weight exceeds 10 kg of fresh product or 2 kg of dry product:
 
@@ -144,9 +144,9 @@ For the purposes of this Regulation, the following definitions apply:
 
 - ((1)) ‘border control post’ means ‘border control post’ as defined in point (38) of Article 3 of Regulation (EU) 2017/625;
 - ((2)) ‘consignment’ means ‘consignment’ as defined in point (37) of Article 3 of Regulation (EU) 2017/625.
-- ((3)) “[^key-9caad48edc2e98a669dc847a5b6269ec]**appropriate computerised information management system**” means the computerised information management system for official controls referred to in Article 131 of Regulation (EU) 2017/625.
+- ((3)) “[^c-9caad48edc2e98a669dc847a5b6269ec]**appropriate computerised information management system**” means the computerised information management system for official controls referred to in Article 131 of Regulation (EU) 2017/625.
 
-## Article 3. Conditions for entry into Great Britain[^key-37cd8207d21e41de86e69d8834d36987]
+## Article 3. Conditions for entry into Great Britain[^c-37cd8207d21e41de86e69d8834d36987]
 
 1. The products may only enter Great Britain if they comply with this Regulation.
 
@@ -167,7 +167,7 @@ For the purposes of this Regulation, the following definitions apply:
 - (b) it shall be issued before the consignment to which it relates leaves the control of the competent authority of the third country issuing the certificate;
 - (c) it shall be valid for not more than 4 months from the date of issue, but in any case no longer than 6 months from the date of the results of the laboratory analysis referred to in paragraph 6.
 
-3. The official certificate which is not submitted in the appropriate computerised management information system[^key-a16d529809d2b8ac611e07d3bd41c28d] by the competent authority of the third country issuing it shall also meet the requirements for model official certificates not submitted in the appropriate computerised management information system[^key-82efe11520269b7674d8db5451041e60] laid down in Article 3 of Implementing Regulation (EU) 2019/628.
+3. The official certificate which is not submitted in the appropriate computerised management information system[^c-a16d529809d2b8ac611e07d3bd41c28d] by the competent authority of the third country issuing it shall also meet the requirements for model official certificates not submitted in the appropriate computerised management information system[^c-82efe11520269b7674d8db5451041e60] laid down in Article 3 of Implementing Regulation (EU) 2019/628.
 
 4. Competent authorities may issue a replacement official certificate only in accordance with the rules laid down in Article 5 of Implementing Regulation (EU) 2019/628.
 
@@ -175,7 +175,7 @@ For the purposes of this Regulation, the following definitions apply:
 
 6. The official certificate shall attest that the products comply with the maximum permitted levels laid down in Article 3(2). The official certificate shall be accompanied by the results of sampling and analysis performed on that consignment by the competent authority of the third country of origin or of the country where the consignment is consigned from, if that country is different from the country of origin.
 
-## Article 5. Official controls at entry into Great Britain[^key-fd152b41950a499a8594123c1f35cad9]
+## Article 5. Official controls at entry into Great Britain[^c-fd152b41950a499a8594123c1f35cad9]
 
 1. Consignments of products referred to in Article 3(3) shall be subject to official controls at their entry into Great Britain through a border control post and at control points.
 
@@ -187,7 +187,7 @@ Customs authorities shall only allow the release for free circulation of consign
 
 ## Article 7. Review
 
-The appropriate authority[^key-dfb79fdad6b5bebec353f91fcd6944ab] shall review this Regulation at the latest by 31 March 2030.
+The appropriate authority[^c-dfb79fdad6b5bebec353f91fcd6944ab] shall review this Regulation at the latest by 31 March 2030.
 
 A detailed assessment on the level of contamination in the third countries referred to in Annex I shall be performed on the basis of available control results and, if appropriate, on the basis of the outcome of this assessment, the third countries listed in Annex I, products listed in Annex II and the measures referred to in Article 5(2) shall be reviewed accordingly before that date.
 
@@ -195,7 +195,7 @@ A detailed assessment on the level of contamination in the third countries refer
 
 Regulations (EC) No 1609/2000 and (EC) No 1635/2006 are repealed.
 
-## Article 9. Transitional provision[^key-47dc94c66b64ab00c513e48336a62401]
+## Article 9. Transitional provision[^c-47dc94c66b64ab00c513e48336a62401]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -203,7 +203,7 @@ Regulations (EC) No 1609/2000 and (EC) No 1635/2006 are repealed.
 
 This Regulation shall enter into force on the third day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-e825366c7c0a5111bc830b185f724abc]...
+[^c-e825366c7c0a5111bc830b185f724abc]...
 
 Done at Brussels, 5 August 2020.
 
@@ -239,11 +239,11 @@ Turkey
 
 Ukraine
 
-[^key-871d84c8984efa51a42a5067e48e2f84]...
+[^c-871d84c8984efa51a42a5067e48e2f84]...
 
 ## ANNEX II — List of products to which the conditions laid down in Article 3(3) apply
 
-| **Commodity code[^key-891a9f3ee0f8732d6716d803cab67a57]** | **Description** |
+| **Commodity code[^c-891a9f3ee0f8732d6716d803cab67a57]** | **Description** |
 | --- | --- |
 | ex 0709 51 00 | mushrooms of the genus *Agaricus,* fresh or chilled, other than cultivated mushrooms |
 | ex 0709 59 | other mushrooms, fresh or chilled, other than cultivated mushrooms |
@@ -266,7 +266,7 @@ Ukraine
 | ex 2009 81 | cranberry juices of wild fruits (*Vaccinium macrocarpon, Vaccinium oxycoccos, Vaccinium vitis-idaea*), unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter |
 | ex 2009 89 | other juices of wild fruits of the genus *Vaccinium*, unfermented and not containing added spirit, whether or not containing added sugar or other sweetening matter |
 
-## ANNEX III — MODEL OFFICIAL CERTIFICATE REFERRED TO IN ARTICLE 4 OF COMMISSION IMPLEMENTING REGULATION (EU) 2020/1158 ON THE CONDITIONS GOVERNING IMPORTS OF FOOD AND FEED ORIGINATING IN THIRD COUNTRIES FOLLOWING THE ACCIDENT AT THE CHERNOBYL NUCLEAR POWER STATION[^key-8d89394511c3ce94693f0cb2b5927a80][^key-23d99e2a3de1fba7ccc2ff9b7210c48a][^key-64960a402c43d7c0ca70a646e1bf56b3][^key-333e1175f73818b1cdb48bf37337feab]
+## ANNEX III — MODEL OFFICIAL CERTIFICATE REFERRED TO IN ARTICLE 4 OF COMMISSION IMPLEMENTING REGULATION (EU) 2020/1158 ON THE CONDITIONS GOVERNING IMPORTS OF FOOD AND FEED ORIGINATING IN THIRD COUNTRIES FOLLOWING THE ACCIDENT AT THE CHERNOBYL NUCLEAR POWER STATION[^c-8d89394511c3ce94693f0cb2b5927a80][^c-23d99e2a3de1fba7ccc2ff9b7210c48a][^c-64960a402c43d7c0ca70a646e1bf56b3][^c-333e1175f73818b1cdb48bf37337feab]
 
 [image: see source](https://www.legislation.gov.uk/eur/2020/1158/images/eur_20201158_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/eur/2020/1158/images/eur_20201158_2020-08-05_en_002)
 
@@ -282,9 +282,9 @@ Only one of the options may be selected in boxes I.15, I.18, I.20.
 
 Unless otherwise indicated, the boxes are compulsory.
 
-If the consignee, the entry border control post (BCP) or the transport details (that is to say, the means and date) change after the certificate has been issued, the operator responsible for the consignment must advise the competent authority [^key-d6f446fdd08c50f17952b7016bf1565a]... of entry. Such a change shall not result in a request for a replacement certificate.
+If the consignee, the entry border control post (BCP) or the transport details (that is to say, the means and date) change after the certificate has been issued, the operator responsible for the consignment must advise the competent authority [^c-d6f446fdd08c50f17952b7016bf1565a]... of entry. Such a change shall not result in a request for a replacement certificate.
 
-In case the certificate is submitted in the appropriate computerised management information system[^key-0b7f30522b4f20cae1e301a9d1fd2c7e], the following applies:
+In case the certificate is submitted in the appropriate computerised management information system[^c-0b7f30522b4f20cae1e301a9d1fd2c7e], the following applies:
 
 - the entries or boxes specified in Part I constitute the data dictionaries for the electronic version of the official certificate;
 - the sequences of boxes in Part I of the model official certificate and the size and shape of those boxes are indicative;
@@ -325,7 +325,7 @@ In case the certificate is submitted in the appropriate computerised management 
 </tbody>
 </table>
 
-[^key-9a2a277673efbb05764716d53dd712aa][^key-e5dba3d9ad5fca0e26417af86b0a1885][^key-5ab625b37684fe7706bbbe3f0ef04073][^key-cb4ccc193283b10117e0e5160554fa9a][^key-bc69c4088fff576f64eadd3664fbe41f][^f00018][^key-65855ce608fea0922ee2c14f531f594f][^key-2ce76e38f334ef5a1aa1dcafe5e52b12][^f00019][^key-abbf48661c99bbe6b7a4bb8784307b2b][^f00020]
+[^c-9a2a277673efbb05764716d53dd712aa][^c-e5dba3d9ad5fca0e26417af86b0a1885][^c-5ab625b37684fe7706bbbe3f0ef04073][^c-cb4ccc193283b10117e0e5160554fa9a][^c-bc69c4088fff576f64eadd3664fbe41f][^f00018][^c-65855ce608fea0922ee2c14f531f594f][^c-2ce76e38f334ef5a1aa1dcafe5e52b12][^f00019][^c-abbf48661c99bbe6b7a4bb8784307b2b][^f00020]
 
 ### Part II: Certification
 
@@ -333,7 +333,7 @@ This part must be completed by a certifying officer authorised by the competent 
 
 |  |  |
 | --- | --- |
-| Box II. | Health information: please complete this part in accordance with the specific [^key-e36d7fe23915daa8c574c42a17993c51]... health requirements relating to the nature of the products and as defined in the equivalence agreements with certain third countries or in other legislation in force in the relevant constituent territory of Great Britain[^key-87a08a6a4c2bb3901a52c1cd8d4cbb3a], such as that for certification.<br>In case the official certificate is not submitted in the appropriate computerised management information system, the statements which are not relevant must be crossed out, initialled and stamped by the certifying officer, or completely removed from the certificate.<br>In case the certificate is submitted in the appropriate computerised management information system, the statements which are not relevant must be crossed out or completely removed from the certificate. |
+| Box II. | Health information: please complete this part in accordance with the specific [^c-e36d7fe23915daa8c574c42a17993c51]... health requirements relating to the nature of the products and as defined in the equivalence agreements with certain third countries or in other legislation in force in the relevant constituent territory of Great Britain[^c-87a08a6a4c2bb3901a52c1cd8d4cbb3a], such as that for certification.<br>In case the official certificate is not submitted in the appropriate computerised management information system, the statements which are not relevant must be crossed out, initialled and stamped by the certifying officer, or completely removed from the certificate.<br>In case the certificate is submitted in the appropriate computerised management information system, the statements which are not relevant must be crossed out or completely removed from the certificate. |
 | Box II.a. | Certificate reference No: same reference code as in box I.2. |
 | Box II.b. | the appropriate computerised management information system reference No: same reference code as in box I.2.a. Mandatory only for official certificates issued in the appropriate computerised management information system. |
 | Certifying officer: | Official of the competent authority of the third country authorised to sign official certificates by such authorities: Indicate the name in capital letters, qualification and title, where applicable, identification number and original stamp of the competent authority and date of signature. |
@@ -370,66 +370,66 @@ This part must be completed by a certifying officer authorised by the competent 
 
 [^f00014]: Footnote: Agreement on the withdrawal of the United Kingdom of Great Britain and Northern Ireland from the European Union and the European Atomic Energy Community ([OJ L 29, 31.1.2020, p. 7](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.029.01.0007.01.ENG)).
 
-[^key-c65abfeebe51fb337f1929c0395ff758]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2020/1158/article/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/2)
+[^c-c65abfeebe51fb337f1929c0395ff758]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2020/1158/article/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/2)
 
-[^key-9caad48edc2e98a669dc847a5b6269ec]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/eur/2020/1158/article/2/3) inserted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/3)
+[^c-9caad48edc2e98a669dc847a5b6269ec]: Textual amendment: [Art. 2(3)](https://www.legislation.gov.uk/eur/2020/1158/article/2/3) inserted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/3)
 
-[^key-37cd8207d21e41de86e69d8834d36987]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2020/1158/article/3) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/4)
+[^c-37cd8207d21e41de86e69d8834d36987]: Textual amendment: Words in [Art. 3](https://www.legislation.gov.uk/eur/2020/1158/article/3) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(4)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/4)
 
-[^key-a16d529809d2b8ac611e07d3bd41c28d]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eur/2020/1158/article/4/3) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(5)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/5/a)
+[^c-a16d529809d2b8ac611e07d3bd41c28d]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eur/2020/1158/article/4/3) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(5)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/5/a)
 
-[^key-82efe11520269b7674d8db5451041e60]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eur/2020/1158/article/4/3) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(5)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/5/b)
+[^c-82efe11520269b7674d8db5451041e60]: Textual amendment: Words in [Art. 4(3)](https://www.legislation.gov.uk/eur/2020/1158/article/4/3) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(5)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/5/b)
 
-[^key-fd152b41950a499a8594123c1f35cad9]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2020/1158/article/5) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(6)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/6)
+[^c-fd152b41950a499a8594123c1f35cad9]: Textual amendment: Words in [Art. 5](https://www.legislation.gov.uk/eur/2020/1158/article/5) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(6)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/6)
 
-[^key-dfb79fdad6b5bebec353f91fcd6944ab]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2020/1158/article/7) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(7)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/7)
+[^c-dfb79fdad6b5bebec353f91fcd6944ab]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2020/1158/article/7) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(7)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/7)
 
-[^key-47dc94c66b64ab00c513e48336a62401]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2020/1158/article/9) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(8)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/8)
+[^c-47dc94c66b64ab00c513e48336a62401]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2020/1158/article/9) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(8)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/8)
 
-[^key-e825366c7c0a5111bc830b185f724abc]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2020/1158/signature) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/9)
+[^c-e825366c7c0a5111bc830b185f724abc]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2020/1158/signature) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(9)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/9)
 
 [^f00015]: Footnote: This designation is without prejudice to positions on status, and is in line with UNSCR 1244/1999 and the ICJ Opinion on the Kosovo declaration of independence.
 
-[^key-871d84c8984efa51a42a5067e48e2f84]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2020/1158/annex/I) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/10)
+[^c-871d84c8984efa51a42a5067e48e2f84]: Textual amendment: Words in [Annex 1](https://www.legislation.gov.uk/eur/2020/1158/annex/I) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(10)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/10)
 
-[^key-891a9f3ee0f8732d6716d803cab67a57]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2020/1158/annex/II) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(11)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/11)
+[^c-891a9f3ee0f8732d6716d803cab67a57]: Textual amendment: Words in [Annex 2](https://www.legislation.gov.uk/eur/2020/1158/annex/II) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(11)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/11)
 
-[^key-8d89394511c3ce94693f0cb2b5927a80]: Textual amendment: Annex 3: in the model official certificate, in the heading in Column 2 of Part 1, words “Great Britain” substituted for “the EU” (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(12)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/12/a)
+[^c-8d89394511c3ce94693f0cb2b5927a80]: Textual amendment: Annex 3: in the model official certificate, in the heading in Column 2 of Part 1, words “Great Britain” substituted for “the EU” (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(12)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/12/a)
 
-[^key-23d99e2a3de1fba7ccc2ff9b7210c48a]: Textual amendment: Annex 3: in the model official certificate, in box 1.2.a, words “the appropriate computerised management information system” substituted for “IMSOC” (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(12)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/12/b)
+[^c-23d99e2a3de1fba7ccc2ff9b7210c48a]: Textual amendment: Annex 3: in the model official certificate, in box 1.2.a, words “the appropriate computerised management information system” substituted for “IMSOC” (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(12)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/12/b)
 
-[^key-64960a402c43d7c0ca70a646e1bf56b3]: Textual amendment: Annex 3: in the model official certificate, in the heading of Part 2, words “Great Britain” substituted for “the Union” (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(12)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/12/c)
+[^c-64960a402c43d7c0ca70a646e1bf56b3]: Textual amendment: Annex 3: in the model official certificate, in the heading of Part 2, words “Great Britain” substituted for “the Union” (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(12)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/12/c)
 
-[^key-333e1175f73818b1cdb48bf37337feab]: Textual amendment: Annex 3: in the model official certificate, in box 2.b, words “the appropriate computerised management information system” substituted for “IMSOC” (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(12)(d)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/12/d)
+[^c-333e1175f73818b1cdb48bf37337feab]: Textual amendment: Annex 3: in the model official certificate, in box 2.b, words “the appropriate computerised management information system” substituted for “IMSOC” (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(12)(d)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/12/d)
 
 [^f00017]: Footnote: List of country names and code elements under: http://www.iso.org/iso/country\_codes/iso-3166-1\_decoding\_table.htm
 
-[^key-d6f446fdd08c50f17952b7016bf1565a]: Textual amendment: Words in [Annex 4](https://www.legislation.gov.uk/eur/2020/1158/annex/IV) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/b)
+[^c-d6f446fdd08c50f17952b7016bf1565a]: Textual amendment: Words in [Annex 4](https://www.legislation.gov.uk/eur/2020/1158/annex/IV) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(b)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/b)
 
-[^key-0b7f30522b4f20cae1e301a9d1fd2c7e]: Textual amendment: Words in [Annex 4](https://www.legislation.gov.uk/eur/2020/1158/annex/IV) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/a)
+[^c-0b7f30522b4f20cae1e301a9d1fd2c7e]: Textual amendment: Words in [Annex 4](https://www.legislation.gov.uk/eur/2020/1158/annex/IV) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/a)
 
-[^key-9a2a277673efbb05764716d53dd712aa]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/i)
+[^c-9a2a277673efbb05764716d53dd712aa]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(i)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/i)
 
-[^key-e5dba3d9ad5fca0e26417af86b0a1885]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/ii)
+[^c-e5dba3d9ad5fca0e26417af86b0a1885]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/ii)
 
-[^key-5ab625b37684fe7706bbbe3f0ef04073]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) inserted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/iii/bb)
+[^c-5ab625b37684fe7706bbbe3f0ef04073]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) inserted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(iii)(bb)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/iii/bb)
 
-[^key-cb4ccc193283b10117e0e5160554fa9a]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/iii/aa)
+[^c-cb4ccc193283b10117e0e5160554fa9a]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(iii)(aa)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/iii/aa)
 
-[^key-bc69c4088fff576f64eadd3664fbe41f]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(iv)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/iv)
+[^c-bc69c4088fff576f64eadd3664fbe41f]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(iv)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/iv)
 
 [^f00018]: Footnote: Council Regulation (EC) No 1/2005 of 22 December 2004 on the protection of animals during transport and related operations and amending Directives 64/432/EEC and 93/119/EC and Regulation (EC) No 1255/97 ([OJ L 3, 5.1.2005, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2005.003.01.0001.01.ENG)).
 
-[^key-65855ce608fea0922ee2c14f531f594f]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(v)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/v)
+[^c-65855ce608fea0922ee2c14f531f594f]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(v)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/v)
 
-[^key-2ce76e38f334ef5a1aa1dcafe5e52b12]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(vi)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/vi)
+[^c-2ce76e38f334ef5a1aa1dcafe5e52b12]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(vi)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/vi)
 
 [^f00019]: Footnote: Council Regulation (EEC) No 2658/87 of 23 July 1987 on the tariff and statistical nomenclature and on the Common Customs Tariff ([OJ L 256, 7.9.1987, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1987.256.01.0001.01.ENG)).
 
-[^key-abbf48661c99bbe6b7a4bb8784307b2b]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(vii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/vii)
+[^c-abbf48661c99bbe6b7a4bb8784307b2b]: Textual amendment: Words in [Annex 4 Pt. 1](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/1) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(c)(vii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/c/vii)
 
 [^f00020]: Footnote: Last version: Revision 9 Annexes V and VI as published on: http://www.unece.org/tradewelcome/un-centre-for-trade-facilitation-and-e-business-uncefact/outputs/cefactrecommendationsrec-index/list-of-trade-facilitation-recommendations-n-21-to-24.ahtml
 
-[^key-e36d7fe23915daa8c574c42a17993c51]: Textual amendment: Words in [Annex 4 Pt. 2](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/2) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/d/i)
+[^c-e36d7fe23915daa8c574c42a17993c51]: Textual amendment: Words in [Annex 4 Pt. 2](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/2) omitted (31.12.2020) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/d/i)
 
-[^key-87a08a6a4c2bb3901a52c1cd8d4cbb3a]: Textual amendment: Words in [Annex 4 Pt. 2](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/2) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/d/ii)
+[^c-87a08a6a4c2bb3901a52c1cd8d4cbb3a]: Textual amendment: Words in [Annex 4 Pt. 2](https://www.legislation.gov.uk/eur/2020/1158/annex/IV/part/2) substituted (31.12.2020) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [20(13)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/20/13/d/ii)

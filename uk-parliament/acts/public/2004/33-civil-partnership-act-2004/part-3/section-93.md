@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. Place of civil registration of civil partnerships[^key-e1e8bdec51f598b8f569aa7f85d4f569]
+## 93. Place of civil registration of civil partnerships[^c-e1e8bdec51f598b8f569aa7f85d4f569]
 
 *Extent: S*
 
-(1) Two people may be registered by an authorised registrar[^key-a50a37c85ee688ed68250e2e336b5e58] as civil partners of each other—[^key-ded99ce4587738704e623d011f7490ca]
+(1) Two people may be registered by an authorised registrar[^c-a50a37c85ee688ed68250e2e336b5e58] as civil partners of each other—[^c-ded99ce4587738704e623d011f7490ca]
 
 - (a) at the registration office of the authorised registrar,
 - (b) at an appropriate place in the registration district of the authorised registrar, or
@@ -29,7 +29,7 @@ summary: ''
   - (ii) an appropriate place in the registration district of another authorised registrar, or
   - (iii) an appropriate place in Scottish waters.
 
-(1A)[^key-2811410422087edfc9ef0368e4752e1a] In this section—
+(1A)[^c-2811410422087edfc9ef0368e4752e1a] In this section—
 
 - “**appropriate place**” means a place which—
   - (a) the parties to the intended civil partnership and the local registration authority agree is to be the place of registration, and
@@ -41,9 +41,9 @@ summary: ''
   - (a) are used solely or mainly for religious purposes, or
   - (b) have been so used and have not subsequently been used solely or mainly for other purposes.
 
-(2)[^key-4f3af8b8f9d5f58d987be24ac324249c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4f3af8b8f9d5f58d987be24ac324249c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-4f3af8b8f9d5f58d987be24ac324249c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4f3af8b8f9d5f58d987be24ac324249c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) “**Local registration authority**” has the meaning given by section 5(3) of the 1965 Act.
 
@@ -51,14 +51,14 @@ summary: ''
 
 ## Annotations
 
-[^key-e1e8bdec51f598b8f569aa7f85d4f569]: Textual amendment: S. 93 title substituted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(10)(d)](https://www.legislation.gov.uk/asp/2014/5/section/24/10/d), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-e1e8bdec51f598b8f569aa7f85d4f569]: Textual amendment: S. 93 title substituted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(10)(d)](https://www.legislation.gov.uk/asp/2014/5/section/24/10/d), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-a50a37c85ee688ed68250e2e336b5e58]: Textual amendment: Words in s. 93(1) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(10)(a)(i)](https://www.legislation.gov.uk/asp/2014/5/section/24/10/a/i), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-a50a37c85ee688ed68250e2e336b5e58]: Textual amendment: Words in s. 93(1) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(10)(a)(i)](https://www.legislation.gov.uk/asp/2014/5/section/24/10/a/i), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-ded99ce4587738704e623d011f7490ca]: Textual amendment: Words in s. 93(1) substituted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(10)(a)(ii)](https://www.legislation.gov.uk/asp/2014/5/section/24/10/a/ii), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-ded99ce4587738704e623d011f7490ca]: Textual amendment: Words in s. 93(1) substituted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(10)(a)(ii)](https://www.legislation.gov.uk/asp/2014/5/section/24/10/a/ii), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-2811410422087edfc9ef0368e4752e1a]: Textual amendment: S. 93(1A) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(10)(b)](https://www.legislation.gov.uk/asp/2014/5/section/24/10/b), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-2811410422087edfc9ef0368e4752e1a]: Textual amendment: S. 93(1A) inserted (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(10)(b)](https://www.legislation.gov.uk/asp/2014/5/section/24/10/b), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
-[^key-4f3af8b8f9d5f58d987be24ac324249c]: Textual amendment: S. 93(2)(3) repealed (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(10)(c)](https://www.legislation.gov.uk/asp/2014/5/section/24/10/c), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
+[^c-4f3af8b8f9d5f58d987be24ac324249c]: Textual amendment: S. 93(2)(3) repealed (16.12.2014) by [Marriage and Civil Partnership (Scotland) Act 2014 (asp 5)](https://www.legislation.gov.uk/asp/2014/5), [ss. 24(10)(c)](https://www.legislation.gov.uk/asp/2014/5/section/24/10/c), [36](https://www.legislation.gov.uk/asp/2014/5/section/36); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule); [S.S.I. 2014/287](https://www.legislation.gov.uk/ssi/2014/287), [art. 3](https://www.legislation.gov.uk/ssi/2014/287/article/3), [sch.](https://www.legislation.gov.uk/ssi/2014/287/schedule)
 
 [^c20599271]: Textual amendment: S. 93(5) inserted (1.1.2007) by [Local Electoral Administration and Registration Services (Scotland) Act 2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14), [ss. 51(b)](https://www.legislation.gov.uk/asp/2006/14/section/51/b), [63(2)](https://www.legislation.gov.uk/asp/2006/14/section/63/2); [S.S.I. 2006/469](https://www.legislation.gov.uk/ssi/2006/469), [art. 3](https://www.legislation.gov.uk/ssi/2006/469/article/3), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/469/schedule/2) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/469/article/4))

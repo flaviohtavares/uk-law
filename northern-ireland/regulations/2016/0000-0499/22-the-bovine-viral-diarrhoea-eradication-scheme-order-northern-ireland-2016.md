@@ -43,11 +43,11 @@ The Department of Agriculture and Rural Development[^f00001] makes the following
 
 In accordance with Article 8(1) of that Order, it has consulted with the bodies which appear to it to be substantially representative of the interests concerned.
 
-## 1. Citation and commencement[^key-5b1bf179380df77ba5d3edfff460876a]
+## 1. Citation and commencement[^c-5b1bf179380df77ba5d3edfff460876a]
 
 This Order may be cited as the Bovine Viral Diarrhoea Eradication Scheme Order (Northern Ireland) 2016 and shall come into operation on 1st March 2016.
 
-## 2. Purpose of the Bovine Viral Diarrhoea Eradication Scheme[^key-6b3926ef37da68c13226bf672c166358]
+## 2. Purpose of the Bovine Viral Diarrhoea Eradication Scheme[^c-6b3926ef37da68c13226bf672c166358]
 
 For the purposes of reducing the incidence of bovine viral diarrhoea and keeping bovines, so far as is practicable, free from infection with the bovine viral diarrhoea virus, the Department makes the Scheme as set out in the Schedule.
 
@@ -67,11 +67,11 @@ A senior officer of the Department of Finance and Personnel
 
 Article 2
 
-### 1. Citation[^key-0dc8b136fd0d1d03b275c4dd4759dfcf]
+### 1. Citation[^c-0dc8b136fd0d1d03b275c4dd4759dfcf]
 
 This Scheme may be cited as the Bovine Viral Diarrhoea Eradication Scheme (Northern Ireland) 2016.
 
-### 2. Interpretation[^key-ea0613e8387d76a583d0da2b36fac32f]
+### 2. Interpretation[^c-ea0613e8387d76a583d0da2b36fac32f]
 
 In this Scheme—
 
@@ -88,7 +88,7 @@ In this Scheme—
 - “tagged” means the attachment of approved eartags in accordance with regulation 3 of the Cattle Identification (No.2) Regulations (Northern Ireland) 1998[^f00004]; and
 - “tissue sample” means a sample of tissue taken from a bovine by means of an official BVD tissue tag.
 
-### 3. Live bovines[^key-020e0b408f942e48f3d6a66ab8f4089c]
+### 3. Live bovines[^c-020e0b408f942e48f3d6a66ab8f4089c]
 
 (1) The keeper of a bovine born on or after the coming into operation of this Order shall ensure—
 
@@ -105,7 +105,7 @@ In this Scheme—
 
 (4) The taking of a sample in accordance with sub-paragraph (3) shall be done as soon as possible after the bovine comes into the possession or control of the keeper and in any event within 20 days of the bovine coming into the possession or control of the keeper.
 
-(5)[^key-741e0e487fa302ca93cbcdccdde867eb] The keeper of any other bovine which does not possess a negative test result for BVDV from an approved laboratory shall—
+(5)[^c-741e0e487fa302ca93cbcdccdde867eb] The keeper of any other bovine which does not possess a negative test result for BVDV from an approved laboratory shall—
 
 - (a) ensure that a tissue sample is taken from that bovine; or
 - (b) arrange for a blood sample to be taken from that bovine; and
@@ -116,21 +116,21 @@ In this Scheme—
 - (a) where the keeper comes into possession or control of the bovine, within 20 days of the bovine coming into the possession or control of the keeper; or
 - (b) in all other cases, within 20 days of the Department notifying the keeper that a bovine which does not possess a negative test result for BVDV from an approved laboratory is present in their herd.
 
-### 4. Aborted bovine foetuses, stillborn bovine calves or bovine calves that have died before being tagged[^key-79c66151e2f967dab4c9b15204d70353]
+### 4. Aborted bovine foetuses, stillborn bovine calves or bovine calves that have died before being tagged[^c-79c66151e2f967dab4c9b15204d70353]
 
-The keeper of an aborted bovine foetus, stillborn bovine calf or bovine calf that has died before being tagged[^key-0abed4e9797e806b8831c649961eecf7]..., shall ensure that as soon as is reasonably practicable, after the discovery of that bovine—
+The keeper of an aborted bovine foetus, stillborn bovine calf or bovine calf that has died before being tagged[^c-0abed4e9797e806b8831c649961eecf7]..., shall ensure that as soon as is reasonably practicable, after the discovery of that bovine—
 
 - (a) a tissue sample is taken from that bovine;
 - (b) the abortion or birth of that bovine is notified to the Department; and
 - (c) the tissue sample is dispatched to an approved laboratory within 7 days of taking the tissue sample.
 
-### 5. Repeat analysis following initial positive or inconclusive result[^key-e05a36ba4afdc8c046ef5eb7a846aeef]
+### 5. Repeat analysis following initial positive or inconclusive result[^c-e05a36ba4afdc8c046ef5eb7a846aeef]
 
 (1) Nothing in this Scheme shall prevent the keeper of a bovine which on initial analysis has had a positive or inconclusive result from arranging for a confirmatory blood sample to be taken and submitted to an approved laboratory for analysis for BVDV.
 
 (2) If the keeper does not arrange for the taking of a confirmatory blood sample, the most recent test result will be used for the purposes of this Scheme.
 
-### 6. Inadequate tissue sample[^key-bb7cbeb15d4e954acf1aba2c688cf372]
+### 6. Inadequate tissue sample[^c-bb7cbeb15d4e954acf1aba2c688cf372]
 
 (1) Where the Department is notified by an approved laboratory that a sample submitted in accordance with paragraphs 3 or 4 is not adequate to be subjected to analysis, the Department shall by notice issued to the keeper require the keeper to submit a further sample within 7 days of notification.
 
@@ -140,15 +140,15 @@ The keeper of an aborted bovine foetus, stillborn bovine calf or bovine calf tha
 - (b) arrange for a blood sample to be taken from that bovine; and
 - (c) ensure that the sample is dispatched to an approved laboratory within 7 days of taking the sample.
 
-### 7. Bovine status[^key-457b127c7a2c2ae1548f794e1c119e7a]
+### 7. Bovine status[^c-457b127c7a2c2ae1548f794e1c119e7a]
 
 The Department shall allocate BVD Negative Status to a bovine where a test result obtained from an approved laboratory confirms that the bovine either directly or indirectly is negative for the presence of BVDV.
 
-### 8. Notice of suspected infection with BVDV[^key-fd13c72a201c4d3113924da44c5c8988]
+### 8. Notice of suspected infection with BVDV[^c-fd13c72a201c4d3113924da44c5c8988]
 
 The Department shall by notice issued inform the keeper where a bovine in their herd is suspected of being infected with BVDV.
 
-### 9. Isolation of an infectious or potentially infectious bovine[^key-b1c26dedf6aa4615b403412ee0f798d5]
+### 9. Isolation of an infectious or potentially infectious bovine[^c-b1c26dedf6aa4615b403412ee0f798d5]
 
 A keeper of a bovine—
 
@@ -158,22 +158,22 @@ A keeper of a bovine—
 
 shall ensure that the bovine is isolated within housing to prevent direct or indirect contact with other susceptible animals.
 
-### 10. Follow-up testing[^key-38450dacbbb4c5d6b328260305ea404b]
+### 10. Follow-up testing[^c-38450dacbbb4c5d6b328260305ea404b]
 
 A keeper informed by notice issued by the Department that a bovine in their herd is suspected of being infected with BVDV, shall—
 
 - (a) arrange for a blood sample to be taken from that bovine; and
 - (b) ensure that the sample is dispatched to an approved laboratory within 7 days of taking the sample.
 
-### 11. Where sampling or re-sampling is not possible[^key-5192cebd51f2374b7aa79870ac5bae1d]
+### 11. Where sampling or re-sampling is not possible[^c-5192cebd51f2374b7aa79870ac5bae1d]
 
 Where a keeper of a bovine required to be sampled under paragraph 3, 4, 6 or 10 is unable to take a sample from the bovine, the keeper shall immediately notify this fact to the Department.
 
-### 12. Tampering with samples[^key-bcbb88a8b5f577f62c24d9705b5ec478]
+### 12. Tampering with samples[^c-bcbb88a8b5f577f62c24d9705b5ec478]
 
 A person shall not tamper with a blood or tissue sample or do any act or thing or attempt to do any act or thing or cause or permit any act or thing to be done that is likely to affect the result of any test required to be carried out under this Scheme.
 
-### 13. Notices[^key-6b6628516841f0ff078252006d8035ca]
+### 13. Notices[^c-6b6628516841f0ff078252006d8035ca]
 
 (1) Any notice issued under this Order to a keeper shall be given to that person by—
 
@@ -193,7 +193,7 @@ A person shall not tamper with a blood or tissue sample or do any act or thing o
 
 (5) In sub-paragraphs 1(b) and (c), “registered address” means the keeper’s address as notified to the Department by the keeper.
 
-### 14. Restrictions on movement of bovines[^key-e4399a8424ae7bf63cff50b2e7784b5e]
+### 14. Restrictions on movement of bovines[^c-e4399a8424ae7bf63cff50b2e7784b5e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -233,42 +233,42 @@ Any person who, without lawful authority or excuse, proof of which shall lie on 
 
 [^f00003]: Footnote: Formerly the Department of Finance; see [S.I. 1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Article 3(revoked) and [S.I.1999/283(N.I.1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3 and Schedules 1
 
-[^key-5b1bf179380df77ba5d3edfff460876a]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-5b1bf179380df77ba5d3edfff460876a]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-6b3926ef37da68c13226bf672c166358]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2016/22/article/2) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-6b3926ef37da68c13226bf672c166358]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2016/22/article/2) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-0dc8b136fd0d1d03b275c4dd4759dfcf]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/1) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-0dc8b136fd0d1d03b275c4dd4759dfcf]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/1) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-ea0613e8387d76a583d0da2b36fac32f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/2) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-ea0613e8387d76a583d0da2b36fac32f]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/2) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
 [^f00004]: Footnote: [S.R. 1998 No. 279](https://www.legislation.gov.uk/nisr/1998/279), as amended by [S.R. 1999 No. 324](https://www.legislation.gov.uk/nisr/1999/324), [S.R. 2004 No. 420](https://www.legislation.gov.uk/nisr/2004/420) and [S.R. 2012 No. 416](https://www.legislation.gov.uk/nisr/2012/416)
 
-[^key-020e0b408f942e48f3d6a66ab8f4089c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/3) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-020e0b408f942e48f3d6a66ab8f4089c]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/3) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-741e0e487fa302ca93cbcdccdde867eb]: Textual amendment: [Sch. para. 3(5)(6)](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/3/5/6) inserted (1.2.2025) by [The Bovine Viral Diarrhoea Eradication Scheme (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/225)](https://www.legislation.gov.uk/nisr/2024/225), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2024/225/article/2/2/a)
+[^c-741e0e487fa302ca93cbcdccdde867eb]: Textual amendment: [Sch. para. 3(5)(6)](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/3/5/6) inserted (1.2.2025) by [The Bovine Viral Diarrhoea Eradication Scheme (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/225)](https://www.legislation.gov.uk/nisr/2024/225), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2024/225/article/2/2/a)
 
-[^key-79c66151e2f967dab4c9b15204d70353]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/4) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-79c66151e2f967dab4c9b15204d70353]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/4) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-0abed4e9797e806b8831c649961eecf7]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/4) omitted (1.2.2025) by virtue of [The Bovine Viral Diarrhoea Eradication Scheme (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/225)](https://www.legislation.gov.uk/nisr/2024/225), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2024/225/article/2/2/b)
+[^c-0abed4e9797e806b8831c649961eecf7]: Textual amendment: Words in [Sch. para. 4](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/4) omitted (1.2.2025) by virtue of [The Bovine Viral Diarrhoea Eradication Scheme (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/225)](https://www.legislation.gov.uk/nisr/2024/225), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2024/225/article/2/2/b)
 
-[^key-e05a36ba4afdc8c046ef5eb7a846aeef]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/5) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-e05a36ba4afdc8c046ef5eb7a846aeef]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/5) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-bb7cbeb15d4e954acf1aba2c688cf372]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/6) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-bb7cbeb15d4e954acf1aba2c688cf372]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/6) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-457b127c7a2c2ae1548f794e1c119e7a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/7) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-457b127c7a2c2ae1548f794e1c119e7a]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/7) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-fd13c72a201c4d3113924da44c5c8988]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/8) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-fd13c72a201c4d3113924da44c5c8988]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/8) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-b1c26dedf6aa4615b403412ee0f798d5]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/9) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-b1c26dedf6aa4615b403412ee0f798d5]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/9) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-38450dacbbb4c5d6b328260305ea404b]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/10) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-38450dacbbb4c5d6b328260305ea404b]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/10) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-5192cebd51f2374b7aa79870ac5bae1d]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/11) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-5192cebd51f2374b7aa79870ac5bae1d]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/11) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-bcbb88a8b5f577f62c24d9705b5ec478]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/12) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-bcbb88a8b5f577f62c24d9705b5ec478]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/12) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
-[^key-6b6628516841f0ff078252006d8035ca]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/13) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
+[^c-6b6628516841f0ff078252006d8035ca]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/13) in operation at 1.3.2016, see [art. 1](https://www.legislation.gov.uk/nisr/2016/22/article/1)
 
 [^f00005]: Footnote: [2001 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2001/9); section 4(1) was amended by section 406(1) and paragraph 170 of Schedule 17 of the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21)
 
-[^key-e4399a8424ae7bf63cff50b2e7784b5e]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/14) omitted (1.2.2025) by virtue of [The Bovine Viral Diarrhoea Eradication Scheme (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/225)](https://www.legislation.gov.uk/nisr/2024/225), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2024/225/article/2/2/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2024/225/article/3))
+[^c-e4399a8424ae7bf63cff50b2e7784b5e]: Textual amendment: [Sch. para. 14](https://www.legislation.gov.uk/nisr/2016/22/schedule/paragraph/14) omitted (1.2.2025) by virtue of [The Bovine Viral Diarrhoea Eradication Scheme (Amendment) Order (Northern Ireland) 2024 (S.R. 2024/225)](https://www.legislation.gov.uk/nisr/2024/225), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2024/225/article/1/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2024/225/article/2/2/c) (with [art. 3](https://www.legislation.gov.uk/nisr/2024/225/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2A — Matters to be dealt with in the detention placement plan[^key-4a5d0b94f599106ef7db99da7abcc034]
+## SCHEDULE 2A — Matters to be dealt with in the detention placement plan[^c-4a5d0b94f599106ef7db99da7abcc034]
 
 *Extent: E+W*
 
@@ -52,7 +52,7 @@ Regulation 47C(2)
 - (b) C’s independent visitor (if one is appointed),
 - (c) R,
 - (d) if C is an eligible child, the personal adviser appointed for C,
-- (e) the person appointed under section 22(3B) of the 1989 Act for the purpose of[^key-ff982faa29aebb14fb6904d5c82b7fc4] discharging the responsible authority’s duty under section 22(3A) (duty to promote the educational achievement of children looked after by the authority).
+- (e) the person appointed under section 22(3B) of the 1989 Act for the purpose of[^c-ff982faa29aebb14fb6904d5c82b7fc4] discharging the responsible authority’s duty under section 22(3A) (duty to promote the educational achievement of children looked after by the authority).
 
 **10.** Details of how C’s welfare should be adequately safeguarded and promoted when C ceases to be remanded to YDA, in particular—
 
@@ -61,6 +61,6 @@ Regulation 47C(2)
 
 ## Annotations
 
-[^key-4a5d0b94f599106ef7db99da7abcc034]: Textual amendment: Sch. 2A inserted (19.4.2013) by [The Care Planning, Placement and Case Review (England) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/706)](https://www.legislation.gov.uk/uksi/2013/706), [regs. 1](https://www.legislation.gov.uk/uksi/2013/706/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/706/regulation/8) (with [reg. 14](https://www.legislation.gov.uk/uksi/2013/706/regulation/14))
+[^c-4a5d0b94f599106ef7db99da7abcc034]: Textual amendment: Sch. 2A inserted (19.4.2013) by [The Care Planning, Placement and Case Review (England) (Miscellaneous Amendments) Regulations 2013 (S.I. 2013/706)](https://www.legislation.gov.uk/uksi/2013/706), [regs. 1](https://www.legislation.gov.uk/uksi/2013/706/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/706/regulation/8) (with [reg. 14](https://www.legislation.gov.uk/uksi/2013/706/regulation/14))
 
-[^key-ff982faa29aebb14fb6904d5c82b7fc4]: Textual amendment: Words in Sch. 2A para. 9(e) substituted (25.7.2014) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1556)](https://www.legislation.gov.uk/uksi/2014/1556), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1556/regulation/1), [12](https://www.legislation.gov.uk/uksi/2014/1556/regulation/12)
+[^c-ff982faa29aebb14fb6904d5c82b7fc4]: Textual amendment: Words in Sch. 2A para. 9(e) substituted (25.7.2014) by [The Adoption and Care Planning (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/1556)](https://www.legislation.gov.uk/uksi/2014/1556), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1556/regulation/1), [12](https://www.legislation.gov.uk/uksi/2014/1556/regulation/12)

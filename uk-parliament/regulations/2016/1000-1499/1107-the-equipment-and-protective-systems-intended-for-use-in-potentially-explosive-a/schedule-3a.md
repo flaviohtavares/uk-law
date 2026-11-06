@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 3A — Conformity Assessment Procedures (Annexes III to IX of the ATEX Directive)[^key-05f41b6a36da030e48640514ac84a082]
+## SCHEDULE 3A — Conformity Assessment Procedures (Annexes III to IX of the ATEX Directive)[^c-05f41b6a36da030e48640514ac84a082]
 
 *Extent: E+W+S*
 
@@ -396,4 +396,4 @@ The manufacturer's obligations set out in paragraphs 2.2 and 5 may be fulfilled 
 
 ## Annotations
 
-[^key-05f41b6a36da030e48640514ac84a082]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2016/1107/schedule/3A) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 25 para. 40](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/40) (with [Sch. 25 para. 34](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/34)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-05f41b6a36da030e48640514ac84a082]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/uksi/2016/1107/schedule/3A) inserted (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 25 para. 40](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/40) (with [Sch. 25 para. 34](https://www.legislation.gov.uk/uksi/2019/696/schedule/25/paragraph/34)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

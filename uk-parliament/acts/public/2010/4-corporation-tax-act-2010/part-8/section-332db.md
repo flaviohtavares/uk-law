@@ -45,7 +45,7 @@ F is the total field allowance for the oil field in relation to the project, as 
 
 E is the company's share of project-related reserves at the end of the relevant day.
 
-(5) This section does not apply to expenditure which is incurred on or after the day determined by the OGA[^key-11510a5b743f99362a6ba1ddd71dc2aa] as that on which the project was materially completed.
+(5) This section does not apply to expenditure which is incurred on or after the day determined by the OGA[^c-11510a5b743f99362a6ba1ddd71dc2aa] as that on which the project was materially completed.
 
 (6) This section does not apply to expenditure incurred by a company if—
 
@@ -56,4 +56,4 @@ E is the company's share of project-related reserves at the end of the relevant 
 
 ## Annotations
 
-[^key-11510a5b743f99362a6ba1ddd71dc2aa]: Textual amendment: Word in s. 332DB(5) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [15(4)](https://www.legislation.gov.uk/uksi/2016/898/regulation/15/4)
+[^c-11510a5b743f99362a6ba1ddd71dc2aa]: Textual amendment: Word in s. 332DB(5) substituted (1.10.2016) by [The Petroleum (Transfer of Functions) Regulations 2016 (S.I. 2016/898)](https://www.legislation.gov.uk/uksi/2016/898), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/898/regulation/1/2), [15(4)](https://www.legislation.gov.uk/uksi/2016/898/regulation/15/4)

@@ -46,15 +46,15 @@ Coming into force
 
 The Treasury are a government department designated [^c23752271] for the purposes of section 2(2) of the European Communities Act 1972 [^c23752281] in relation to financial services.
 
-The Treasury make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.[^key-16e2649f99478027a427660d1b61b018]
+The Treasury make the following Regulations in exercise of the powers conferred by section 2(2) of the European Communities Act 1972.[^c-16e2649f99478027a427660d1b61b018]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-1658b7388a4fec20894fba52dcdb110c]
+### 1. Citation and commencement[^c-1658b7388a4fec20894fba52dcdb110c]
 
 These Regulations may be cited as the Proxy Advisors (Shareholders' Rights) Regulations 2019, and come into force on 10th June 2019.
 
-### 2. Interpretation[^key-e3405d5e3ddf598c6bec951fef04a628]
+### 2. Interpretation[^c-e3405d5e3ddf598c6bec951fef04a628]
 
 (1) In these Regulations—
 
@@ -63,17 +63,17 @@ These Regulations may be cited as the Proxy Advisors (Shareholders' Rights) Regu
 - “**proxy advisor**” means a person who—
   - (a) is a proxy advisor within the meaning given by point (g) of Article 2 of the Shareholder Rights Directive [^c23752301];
   - (b) provides proxy advisor services to a shareholder with respect to the shares of any company where—
-    - (i) the company's registered office is situated in the United Kingdom [^key-c8013495618b1127accf4107392bb3ed]... or in Gibraltar; and
-    - (ii) the shares are admitted to trading on a UK regulated market or a Gibraltar regulated market; and[^key-e43cb8ae7f68bacdb8c91cdf66d9060d]
+    - (i) the company's registered office is situated in the United Kingdom [^c-c8013495618b1127accf4107392bb3ed]... or in Gibraltar; and
+    - (ii) the shares are admitted to trading on a UK regulated market or a Gibraltar regulated market; and[^c-e43cb8ae7f68bacdb8c91cdf66d9060d]
   - (c) either—
     - (i) has its registered office (or if it does not have a registered office, its head office) in the United Kingdom; or
-    - (ii) has its registered office or head office in any country or territory other than the United Kingdom [^key-debae70e0528849f09719c3f4a560976]... or Gibraltar, and provides proxy advisor services through an establishment located in the United Kingdom; and
+    - (ii) has its registered office or head office in any country or territory other than the United Kingdom [^c-debae70e0528849f09719c3f4a560976]... or Gibraltar, and provides proxy advisor services through an establishment located in the United Kingdom; and
 - “**proxy advisor services**” means services provided by a person acting in the capacity of a proxy advisor within the meaning given by point (g) of Article 2 of the Shareholder Rights Directive.
 
 (2) In paragraph (1)—
 
-- (a) “**Shareholder Rights Directive**” means Directive [2007/36/EC](https://www.legislation.gov.uk/european/directive/2007/0036) of the European Parliament and of the Council of 11 July 2007 on the exercise of certain rights of shareholders in listed companies [^c23752311] as in force immediately before IP completion day[^key-7a75d2d397e5357820ea35bd7d15a501]; and
-- (b)[^key-8299fab8d6b0f4f8bae71739286a43a9] in the definition of “proxy advisor”, in paragraph (b)—
+- (a) “**Shareholder Rights Directive**” means Directive [2007/36/EC](https://www.legislation.gov.uk/european/directive/2007/0036) of the European Parliament and of the Council of 11 July 2007 on the exercise of certain rights of shareholders in listed companies [^c23752311] as in force immediately before IP completion day[^c-7a75d2d397e5357820ea35bd7d15a501]; and
+- (b)[^c-8299fab8d6b0f4f8bae71739286a43a9] in the definition of “proxy advisor”, in paragraph (b)—
   - (i) “**regulated market**” means a multilateral system operated or managed by a market operator, which brings together or facilitates the bringing together of multiple third-party buying and selling interests in financial instruments, in the system and in accordance with its non-discretionary rules, in a way that results in a contract, in respect of the financial instruments admitted to trading under its rules or systems;
   - (ii) “**UK regulated market**” means a regulated market which is a recognised investment exchange under section 285 of the Act, but not an overseas investment exchange within the meaning of section 313(1) of the Act;
   - (iii) “**Gibraltar regulated market**” means a regulated market which is authorised and functions regularly and in accordance with Part 3 of the Financial Services (Markets in Financial Instruments) Act 2018 of Gibraltar [^M_F_aad284f6-63fa-4dc7-db2d-041593d711bc], as amended from time to time;
@@ -81,7 +81,7 @@ These Regulations may be cited as the Proxy Advisors (Shareholders' Rights) Regu
 
 ## PART 2 — Transparency requirements in relation to proxy advisors
 
-### 3. Code of conduct of proxy advisors[^key-7b6cbc6d7786e80665cd1554bbe498c1]
+### 3. Code of conduct of proxy advisors[^c-7b6cbc6d7786e80665cd1554bbe498c1]
 
 (1) Where a proxy advisor (“P”) provides proxy advisor services in accordance with or by reference to a code of conduct, P must disclose to the public—
 
@@ -102,7 +102,7 @@ These Regulations may be cited as the Proxy Advisors (Shareholders' Rights) Regu
 - (a) for the first time, no later than the end of P's first financial year starting after 10th June 2019; and
 - (b) subsequently, at intervals of no more than twelve months beginning with the date on which it was last updated.
 
-### 4. Information giving assurance about the accuracy and reliability of advice[^key-eef44b4e69519c9b10154c3a304e8844]
+### 4. Information giving assurance about the accuracy and reliability of advice[^c-eef44b4e69519c9b10154c3a304e8844]
 
 (1) With the object of giving the clients of a proxy advisor (“P”) assurance about the accuracy and reliability of P's proxy advisor services, P must disclose to the public the following information relating to P's preparation of research, advice and voting recommendations—
 
@@ -127,7 +127,7 @@ These Regulations may be cited as the Proxy Advisors (Shareholders' Rights) Regu
 - (a) for the first time no later than the end of the period of twelve months beginning with the date on which it was first published; and
 - (b) subsequently, at intervals of no more than twelve months beginning with the date on which it was last updated.
 
-### 5. Conflicts of interest[^key-f6f79d948c92aa15f1377be10c46b637]
+### 5. Conflicts of interest[^c-f6f79d948c92aa15f1377be10c46b637]
 
 (1) A proxy advisor (“P”) must take all appropriate steps to ensure—
 
@@ -139,13 +139,13 @@ These Regulations may be cited as the Proxy Advisors (Shareholders' Rights) Regu
 - (a) disclose that fact to P's clients together with particulars of the conflict of interest or business relationship concerned; and
 - (b) give P's clients a statement of the action P has undertaken to eliminate, mitigate or manage the conflict of interest or business relationship concerned.
 
-### 6. Obligation to collect and update information[^key-4acb7897983732d519b2bbb4be1d1a5c]
+### 6. Obligation to collect and update information[^c-4acb7897983732d519b2bbb4be1d1a5c]
 
 A proxy advisor must collect and keep up to date all information required to enable it to comply with its obligations relating to the disclosure of information under this Part.
 
 ## PART 3 — Functions of the FCA in relation to proxy advisors
 
-### 7. Interpretation of Part[^key-f9eb7eee465a4a7718d2a23b81ceacab]
+### 7. Interpretation of Part[^c-f9eb7eee465a4a7718d2a23b81ceacab]
 
 (1) In this Part, except in regulations 9 and 10, “**relevant requirement**” means—
 
@@ -160,31 +160,31 @@ A proxy advisor must collect and keep up to date all information required to ena
 
 (3) In this Part, in relation to a requirement to give notice under or in accordance with regulation 32, a reference to a proxy advisor is a reference to a person who is required to comply with that requirement.
 
-### 8. Functions of the FCA[^key-8802d7b4fa3450e934d9f7470de5715b]
+### 8. Functions of the FCA[^c-8802d7b4fa3450e934d9f7470de5715b]
 
 The FCA, in discharging the functions conferred on it by this Part or by any provision of the Act applied by Part 4 of these Regulations (as so applied), must have regard to the need to use its resources in the most efficient and economic way.
 
-### 9. Notice of inability or failure to comply with a relevant requirement[^key-9f2098fb6b1e5f1df3ed138cca72dfbd]
+### 9. Notice of inability or failure to comply with a relevant requirement[^c-9f2098fb6b1e5f1df3ed138cca72dfbd]
 
 (1) If, at any time, a proxy advisor considers that it is unable to comply with a relevant requirement, it must as soon as reasonably practicable notify the FCA of that fact and of the reasons why it is unable to comply.
 
 (2) A proxy advisor must immediately notify the FCA of any contravention of a relevant requirement of which the proxy advisor becomes aware.
 
-### 10. Complaints[^key-05a05b6626f9ae3558fd55a4a8eeece0]
+### 10. Complaints[^c-05a05b6626f9ae3558fd55a4a8eeece0]
 
 The FCA must maintain arrangements designed to enable any person to submit to it a complaint that a proxy advisor has contravened a relevant requirement.
 
-### 11. Public censure[^key-d58d9a5004bebe305a81486daf244bf3]
+### 11. Public censure[^c-d58d9a5004bebe305a81486daf244bf3]
 
 Where the FCA considers that a proxy advisor has contravened a relevant requirement, the FCA may publish a statement to that effect.
 
-### 12. Financial penalties[^key-ba3b7047408e46b45eb0490680d0fc4f]
+### 12. Financial penalties[^c-ba3b7047408e46b45eb0490680d0fc4f]
 
 (1) Where the FCA considers that a proxy advisor has contravened a relevant requirement, the FCA may impose a penalty of such amount as it considers appropriate on the proxy advisor.
 
 (2) A penalty imposed under this regulation is payable to the FCA and may be recovered as a debt owed to the FCA.
 
-### 13. Warning notice[^key-75519ff81b02b1e879ac27e943389673]
+### 13. Warning notice[^c-75519ff81b02b1e879ac27e943389673]
 
 (1) Where the FCA proposes to—
 
@@ -197,7 +197,7 @@ it must give the proxy advisor a warning notice.
 
 (3) A warning notice about a proposal to impose a penalty must state the amount of the penalty.
 
-### 14. Decision notice[^key-434268c7f6d9ed90b54b65af8b32606d]
+### 14. Decision notice[^c-434268c7f6d9ed90b54b65af8b32606d]
 
 (1) Where, having considered any representations made in response to the warning notice, the FCA decides to—
 
@@ -224,7 +224,7 @@ the proxy advisor may refer the matter to the Tribunal.
 
 (6) In paragraph (5)(b) the reference to section 392 is a reference to that section as read with the modification made by regulation 26(6).
 
-### 15. Matters to which FCA must have regard in relation to imposition of penalties[^key-3cfae1d8dbc110d0a6d82c7d8e6a6970]
+### 15. Matters to which FCA must have regard in relation to imposition of penalties[^c-3cfae1d8dbc110d0a6d82c7d8e6a6970]
 
 In determining whether to impose a penalty under regulation 12 and the amount of a penalty under that regulation, the FCA must have regard to—
 
@@ -237,7 +237,7 @@ In determining whether to impose a penalty under regulation 12 and the amount of
 - (g) any previous contravention by the proxy advisor for which a penalty was, or could have been, imposed under regulation 12; and
 - (h) any measures taken by the proxy advisor to prevent a repetition of the contravention.
 
-### 16. Statement of policy on imposition of penalties[^key-d7f57bffe20dafc266bad57a8c45b843]
+### 16. Statement of policy on imposition of penalties[^c-d7f57bffe20dafc266bad57a8c45b843]
 
 (1) The FCA may prepare and issue a statement of policy with respect to the imposition and amount of penalties under regulation 12.
 
@@ -255,7 +255,7 @@ In determining whether to impose a penalty under regulation 12 and the amount of
 
 (8) The FCA must have regard to the statement of policy which was in force at the time of the contravention.
 
-### 17. Statement of policy on imposition of penalties: procedure[^key-6ae1947389d59790b493c13c13c5dcee]
+### 17. Statement of policy on imposition of penalties: procedure[^c-6ae1947389d59790b493c13c13c5dcee]
 
 (1) The FCA must, before issuing a statement under regulation 16 (including an altered statement or a statement by which the statement currently in force is to be replaced), publish a draft of the statement in a manner which appears to the FCA to be best calculated to bring it to the attention of the public.
 
@@ -269,7 +269,7 @@ In determining whether to impose a penalty under regulation 12 and the amount of
 
 (6) The FCA may charge a reasonable fee for providing a person with a copy of the draft statement published under paragraph (1).
 
-### 18. Misleading the FCA[^key-3b6c515b94347d8cc76213ce31fe1038]
+### 18. Misleading the FCA[^c-3b6c515b94347d8cc76213ce31fe1038]
 
 (1) A person must not provide information to another person—
 
@@ -285,7 +285,7 @@ In determining whether to impose a penalty under regulation 12 and the amount of
   - (ii) in Scotland or Northern Ireland, to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment, to a fine.
 
-### 19. Restriction on penalties[^key-03a763b564ba5aee29c5a1c8c8c4a157]
+### 19. Restriction on penalties[^c-03a763b564ba5aee29c5a1c8c8c4a157]
 
 (1) A proxy advisor who is convicted of an offence under section 398(1) of the Act as applied by these Regulations is not subsequently liable to a penalty under regulation 12 in respect of any act or omission that constituted, in whole or in part, the offence.
 
@@ -293,14 +293,14 @@ In determining whether to impose a penalty under regulation 12 and the amount of
 
 ## PART 4 — Application of provisions of the Act for the purposes of Part 3
 
-### 20. General provision[^key-3fb21840c7bab4cc8f450e4e6ac7533f]
+### 20. General provision[^c-3fb21840c7bab4cc8f450e4e6ac7533f]
 
 For the purposes of this Part—
 
 - (a) in a provision of the Act applied by this Part, a reference to a section or other provision of the Act which is also applied by this Part is a reference to that section or other provision as so applied; and
 - (b) where a provision of the Act applied by this Part refers to a section or other provision of the Act which is not so applied, that section or other provision is to be read as if it were applied for the purposes only of the provision in which the reference appears.
 
-### 21. Hearings and appeals[^key-85b151ccbcaa9488ce270c71f77f73bf]
+### 21. Hearings and appeals[^c-85b151ccbcaa9488ce270c71f77f73bf]
 
 (1) Sections 133 (proceedings before Tribunal: general provision), 133A (proceedings before Tribunal: decision notices, etc) and 133B (offences) of the Act [^c23752321] apply with respect to proceedings pursuant to references to the Tribunal under regulation 14(4) as they apply with respect to proceedings pursuant to references to the Tribunal under the Act, and have effect for those purposes with the following modifications.
 
@@ -329,7 +329,7 @@ For the purposes of this Part—
 
 (4) In section 133B(1)(a) the reference to a decision of the FCA includes a decision by the FCA of a kind specified in paragraph (p) of section 133(7A) [^c23752351].
 
-### 22. Application of Part 11 of the Act[^key-1b260d2a5d74f39bfa284905c274e898]
+### 22. Application of Part 11 of the Act[^c-1b260d2a5d74f39bfa284905c274e898]
 
 (1) Part 11 of the Act (information gathering and investigations) applies with respect to the discharge by the FCA of its functions under Part 3 of these Regulations as it applies with respect to the discharge by the FCA of its functions under the Act, and has effect for those purposes with the following modifications.
 
@@ -363,7 +363,7 @@ For the purposes of this Part—
   > - (c) the ownership or control of a proxy advisor.
 
   ;
-- (b)[^key-19003d4e12ecffd16f01ba521b807b35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-19003d4e12ecffd16f01ba521b807b35] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) for subsection (4) there were substituted—
 
   > (4) The power conferred by this section may be exercised in relation to a person (“P”) who has ceased to be a proxy advisor, but only in relation to—
@@ -441,7 +441,7 @@ For the purposes of this Part—
 - (c) in subsection (10) “or (5)” were omitted; and
 - (d) in subsection (11)(a) “87C, 87J,” and “, 165A, 169A”[^c23752441] were omitted.
 
-### 23. Information given by an auditor[^key-6d6ae8e2fe78398c5f2a53052154019c]
+### 23. Information given by an auditor[^c-6d6ae8e2fe78398c5f2a53052154019c]
 
 (1) Sections 342 (information given by auditor or actuary to a regulator), 343 (information given by auditor or actuary to a regulator: persons with close links) and 344 (duty of auditor or actuary resigning etc to give notice) of the Act apply with respect to the auditor of a proxy advisor, and have effect for those purposes with the following modifications.
 
@@ -475,7 +475,7 @@ For the purposes of this Part—
 
 (7) In section 344 ignore subsection (4).
 
-### 24. Restrictions on disclosure of information[^key-c51f0563301f77828ae510cd7c31287a]
+### 24. Restrictions on disclosure of information[^c-c51f0563301f77828ae510cd7c31287a]
 
 Sections 348 (restrictions on disclosure of confidential information) FCA, PRA etc), 349 (exceptions from section 348) and 352 (offences) of the Act apply with respect to information received under these Regulations or under the Act as applied by these Regulations, and have effect for those purposes with the following modifications—
 
@@ -489,7 +489,7 @@ Sections 348 (restrictions on disclosure of confidential information) FCA, PRA e
   - (iii) in subsection (5) “or (4)” were omitted; and
   - (iv) in subsection (6)(a) “or that it had been disclosed in accordance with section 350” were omitted.
 
-### 25. Application of Part 25 of the Act[^key-23702314b240913a1f1617af754a8605]
+### 25. Application of Part 25 of the Act[^c-23702314b240913a1f1617af754a8605]
 
 (1) Part 25 of the Act (injunctions and restitution) applies for the purposes of these Regulations and of the Act as applied by these Regulations, and has effect for those purposes with the following modifications.
 
@@ -519,7 +519,7 @@ Sections 348 (restrictions on disclosure of confidential information) FCA, PRA e
 - (d) in subsections (5) and (6) each reference to subsection (2) and to subsection (3) were omitted; and
 - (e) subsections (7) to (13) were omitted.
 
-### 26. Application of Part 26 of the Act[^key-d7a984b13988dc7150d81fa26cff56f8]
+### 26. Application of Part 26 of the Act[^c-d7a984b13988dc7150d81fa26cff56f8]
 
 (1) Part 26 of the Act (notices) applies with respect to the giving of notices under these Regulations, or under the Act as applied by these Regulations, as it applies with respect to the giving of notices under the Act, and has effect for those purposes with the following modifications.
 
@@ -540,7 +540,7 @@ Sections 348 (restrictions on disclosure of confidential information) FCA, PRA e
 (5) Section 391 (publication) is to be read as if—
 
 - (a) in subsection (1) for “falling within subsection (1ZB)” there were substituted “given under regulation 13 of the Proxy Advisors (Shareholders' Rights) Regulations 2019”; and
-- (b) subsections (1ZA), (1ZB) [^c23752471], (4A) [^c23752481], (5), (5A) [^c23752491], (6A) [^c23752501] and (8) to (8E)[^key-3438db092ccb0e3f097e7be5a4e49839] [^c23752511] were omitted.
+- (b) subsections (1ZA), (1ZB) [^c23752471], (4A) [^c23752481], (5), (5A) [^c23752491], (6A) [^c23752501] and (8) to (8E)[^c-3438db092ccb0e3f097e7be5a4e49839] [^c23752511] were omitted.
 
 (6) Section 392 (application of sections 393 and 394) is to be read as if for paragraphs (a) and (b) there were substituted—
 
@@ -572,7 +572,7 @@ Sections 348 (restrictions on disclosure of confidential information) FCA, PRA e
 - (e) in subsection (9) for the words from “supervisory notice” to “subsection (1)(b)(ii)” there were substituted “ warning notice or decision notice ”; and
 - (f) subsection (9A) [^c23752521] were omitted.
 
-### 27. Application of Part 27 of the Act[^key-a2e08676de1b82f7720ca712dacb6dd6]
+### 27. Application of Part 27 of the Act[^c-a2e08676de1b82f7720ca712dacb6dd6]
 
 (1) Part 27 of the Act (offences) applies with respect to offences under these Regulations, or under the Act as applied by these Regulations, as it applies with respect to offences under the Act, and has effect for those purposes with the following modifications.
 
@@ -594,7 +594,7 @@ Sections 348 (restrictions on disclosure of confidential information) FCA, PRA e
 
 (7) In section 403 (jurisdiction and procedure in respect of offences) subsection (7) is to be read as if the words from “or an offence” to the end were omitted.
 
-### 28. Application of Schedule 1ZA to the Act: penalties, fees and exemption from liability in damages[^key-221258cfddc83416b4e196778698faaa]
+### 28. Application of Schedule 1ZA to the Act: penalties, fees and exemption from liability in damages[^c-221258cfddc83416b4e196778698faaa]
 
 (1) Paragraphs 19 to 22 (penalties), paragraph 23 (fees) and paragraph 25 (exemption from liability in damages) of Schedule 1ZA to the Act [^c23752551] (the FCA) apply with respect to the discharge by the FCA of its functions under these Regulations or under the Act as applied by these Regulations, and have effect for those purposes with the following modifications.
 
@@ -638,7 +638,7 @@ Sections 348 (restrictions on disclosure of confidential information) FCA, PRA e
 
 ## PART 5 — Application of the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001
 
-### 29. Permitted disclosure of confidential information[^key-201af85decc3ea525551980cef6ad081]
+### 29. Permitted disclosure of confidential information[^c-201af85decc3ea525551980cef6ad081]
 
 (1) The following provisions of the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001 [^c23752581] (“**the 2001 Regulations**”) apply with respect to information received under these Regulations or under the Act as applied by these Regulations—
 
@@ -656,14 +656,14 @@ Sections 348 (restrictions on disclosure of confidential information) FCA, PRA e
 
 ## PART 6 — Public list of proxy advisors
 
-### 30. Interpretation[^key-1937703d5f26468b61748bb2cbf7337c]
+### 30. Interpretation[^c-1937703d5f26468b61748bb2cbf7337c]
 
 In this Part “**relevant proxy advisor services**” means proxy advisor services provided to a shareholder with respect to the shares of any company where—
 
-- (a) the company's registered office is situated in the United Kingdom [^key-8ca0ca00945c04528c05956a928ef488]... or in Gibraltar; and
-- (b) the shares are admitted to trading on a regulated market situated or operating within the United Kingdom [^key-d047cff151649cee927d7b979e05aea3]... or in Gibraltar.
+- (a) the company's registered office is situated in the United Kingdom [^c-8ca0ca00945c04528c05956a928ef488]... or in Gibraltar; and
+- (b) the shares are admitted to trading on a regulated market situated or operating within the United Kingdom [^c-d047cff151649cee927d7b979e05aea3]... or in Gibraltar.
 
-### 31. Public list of proxy advisors[^key-f555cc9c7c85cbde4f21e608daf0abc5]
+### 31. Public list of proxy advisors[^c-f555cc9c7c85cbde4f21e608daf0abc5]
 
 (1) The FCA must maintain a public list of proxy advisors.
 
@@ -677,7 +677,7 @@ In this Part “**relevant proxy advisor services**” means proxy advisor servi
 
 (6) The FCA must admit to the public list every proxy advisor who gives notice under paragraph (3).
 
-### 32. Removal of a proxy advisor from the public list[^key-8458c11921cca5b8fd00f8c36cacb552]
+### 32. Removal of a proxy advisor from the public list[^c-8458c11921cca5b8fd00f8c36cacb552]
 
 (1) Where a person (“P”) who has been admitted to the public list ceases to be a proxy advisor, P must notify the FCA that P has ceased to be a proxy advisor, and upon receipt of P's notice the FCA must remove P from the list.
 
@@ -721,69 +721,69 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c23752281]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51), regulations may be made under section 2(2) of the European Communities Act 1972 to implement obligations of the United Kingdom created or arising by or under the Agreement on the European Economic Area signed at Oporto on 2nd May 1993 (Cm 2073) and the Protocol adjusting the Agreement signed in Brussels on 17th March 1993 (Cm 2183). Paragraph 1A was inserted into Schedule 2 by section 28 of the Legislative and Regulatory Reform Act 2006. The European Communities Act 1972 is repealed with effect from exit day by section 1 of the European Union (Withdrawal) Act 2018.
 
-[^key-16e2649f99478027a427660d1b61b018]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/926): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-16e2649f99478027a427660d1b61b018]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2019/926): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-1658b7388a4fec20894fba52dcdb110c]: Commencement: Reg. 1 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-1658b7388a4fec20894fba52dcdb110c]: Commencement: Reg. 1 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-e3405d5e3ddf598c6bec951fef04a628]: Commencement: Reg. 2 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-e3405d5e3ddf598c6bec951fef04a628]: Commencement: Reg. 2 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
 [^c23752291]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^c23752301]: Marginal citation: Point (g) was added by Article 1(2)(b) of Directive (EU) 2017/828 of the European Parliament and of the Council of 17 May 2017 amending Directive 2007/36/EC as regards the encouragement of long-term shareholder engagement (OJ L 132, 20.5.2017, p. 1).
 
-[^key-c8013495618b1127accf4107392bb3ed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/926/regulation/2/1) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/3/a/i)
+[^c-c8013495618b1127accf4107392bb3ed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/926/regulation/2/1) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(3)(a)(i)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/3/a/i)
 
-[^key-e43cb8ae7f68bacdb8c91cdf66d9060d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/926/regulation/2/1) substituted (31.12.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/3/a/ii)
+[^c-e43cb8ae7f68bacdb8c91cdf66d9060d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/926/regulation/2/1) substituted (31.12.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/3/a/ii)
 
-[^key-debae70e0528849f09719c3f4a560976]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/926/regulation/2/1) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(3)(b)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/3/b)
+[^c-debae70e0528849f09719c3f4a560976]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2019/926/regulation/2/1) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(3)(b)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/3/b)
 
 [^c23752311]: Marginal citation: OJ L 184, 14.7.2007, p 17. Relevant amendments of the Shareholder Rights Directive were made by Directive (EU) 2017/828, Article 1(1)(a) and (d), (2)(a) and (b) and (3).
 
-[^key-7a75d2d397e5357820ea35bd7d15a501]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2019/926/regulation/2/2/a) inserted (31.12.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(4)(a)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/4/a)
+[^c-7a75d2d397e5357820ea35bd7d15a501]: Textual amendment: Words in [reg. 2(2)(a)](https://www.legislation.gov.uk/uksi/2019/926/regulation/2/2/a) inserted (31.12.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(4)(a)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/4/a)
 
-[^key-8299fab8d6b0f4f8bae71739286a43a9]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2019/926/regulation/2/2/b) substituted (31.12.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(4)(b)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/4/b)
+[^c-8299fab8d6b0f4f8bae71739286a43a9]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2019/926/regulation/2/2/b) substituted (31.12.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(4)(b)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/4/b)
 
 [^M_F_aad284f6-63fa-4dc7-db2d-041593d711bc]: Textual amendment: L.N. 2017/135.
 
 [^M_F_51655754-edbf-45d5-953d-70b2cb574cee]: Textual amendment: The definition of “transparency obligations directive” was inserted by section 1265 of the [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46) and amended by [S.I. 2012/1538](https://www.legislation.gov.uk/uksi/2012/1538) and 2015/1755.
 
-[^key-7b6cbc6d7786e80665cd1554bbe498c1]: Commencement: Reg. 3 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-7b6cbc6d7786e80665cd1554bbe498c1]: Commencement: Reg. 3 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-eef44b4e69519c9b10154c3a304e8844]: Commencement: Reg. 4 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-eef44b4e69519c9b10154c3a304e8844]: Commencement: Reg. 4 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-f6f79d948c92aa15f1377be10c46b637]: Commencement: Reg. 5 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-f6f79d948c92aa15f1377be10c46b637]: Commencement: Reg. 5 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-4acb7897983732d519b2bbb4be1d1a5c]: Commencement: Reg. 6 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-4acb7897983732d519b2bbb4be1d1a5c]: Commencement: Reg. 6 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-f9eb7eee465a4a7718d2a23b81ceacab]: Commencement: Reg. 7 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-f9eb7eee465a4a7718d2a23b81ceacab]: Commencement: Reg. 7 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-8802d7b4fa3450e934d9f7470de5715b]: Commencement: Reg. 8 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-8802d7b4fa3450e934d9f7470de5715b]: Commencement: Reg. 8 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-9f2098fb6b1e5f1df3ed138cca72dfbd]: Commencement: Reg. 9 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-9f2098fb6b1e5f1df3ed138cca72dfbd]: Commencement: Reg. 9 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-05a05b6626f9ae3558fd55a4a8eeece0]: Commencement: Reg. 10 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-05a05b6626f9ae3558fd55a4a8eeece0]: Commencement: Reg. 10 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-d58d9a5004bebe305a81486daf244bf3]: Commencement: Reg. 11 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-d58d9a5004bebe305a81486daf244bf3]: Commencement: Reg. 11 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-ba3b7047408e46b45eb0490680d0fc4f]: Commencement: Reg. 12 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-ba3b7047408e46b45eb0490680d0fc4f]: Commencement: Reg. 12 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-75519ff81b02b1e879ac27e943389673]: Commencement: Reg. 13 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-75519ff81b02b1e879ac27e943389673]: Commencement: Reg. 13 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-434268c7f6d9ed90b54b65af8b32606d]: Commencement: Reg. 14 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-434268c7f6d9ed90b54b65af8b32606d]: Commencement: Reg. 14 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-3cfae1d8dbc110d0a6d82c7d8e6a6970]: Commencement: Reg. 15 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-3cfae1d8dbc110d0a6d82c7d8e6a6970]: Commencement: Reg. 15 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-d7f57bffe20dafc266bad57a8c45b843]: Commencement: Reg. 16 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-d7f57bffe20dafc266bad57a8c45b843]: Commencement: Reg. 16 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-6ae1947389d59790b493c13c13c5dcee]: Commencement: Reg. 17 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-6ae1947389d59790b493c13c13c5dcee]: Commencement: Reg. 17 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-3b6c515b94347d8cc76213ce31fe1038]: Commencement: Reg. 18 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-3b6c515b94347d8cc76213ce31fe1038]: Commencement: Reg. 18 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-03a763b564ba5aee29c5a1c8c8c4a157]: Commencement: Reg. 19 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-03a763b564ba5aee29c5a1c8c8c4a157]: Commencement: Reg. 19 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-3fb21840c7bab4cc8f450e4e6ac7533f]: Commencement: Reg. 20 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-3fb21840c7bab4cc8f450e4e6ac7533f]: Commencement: Reg. 20 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-85b151ccbcaa9488ce270c71f77f73bf]: Commencement: Reg. 21 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-85b151ccbcaa9488ce270c71f77f73bf]: Commencement: Reg. 21 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
 [^c23752321]: Marginal citation: [Section 133](https://www.legislation.gov.uk/uksi/2019/926/section/133), together with sections 133A and 133B, was substituted by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22).
 
@@ -793,7 +793,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c23752351]: Marginal citation: For paragraph (p) see paragraph (2)(b) of this regulation (modification of section 133(7A) of the Act).
 
-[^key-1b260d2a5d74f39bfa284905c274e898]: Commencement: Reg. 22 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-1b260d2a5d74f39bfa284905c274e898]: Commencement: Reg. 22 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
 [^c23752361]: Marginal citation: Subsections (4)(b) and (8A) were inserted by the [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [section 16](https://www.legislation.gov.uk/ukpga/2016/14/section/16) and Schedule 2, paragraphs 26 and 36.
 
@@ -803,7 +803,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c23752391]: Marginal citation: [Section 167](https://www.legislation.gov.uk/uksi/2019/926/section/167) was amended by the Financial Services Act 2012, section 41 and Schedule 12, paragraph 7, and by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126) and 2015/575. There are other amendments, but they are not relevant.
 
-[^key-19003d4e12ecffd16f01ba521b807b35]: Textual amendment: [Reg. 22(8)(b)](https://www.legislation.gov.uk/uksi/2019/926/regulation/22/8/b) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(5)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/5)
+[^c-19003d4e12ecffd16f01ba521b807b35]: Textual amendment: [Reg. 22(8)(b)](https://www.legislation.gov.uk/uksi/2019/926/regulation/22/8/b) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(5)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/5)
 
 [^c23752411]: Marginal citation: Subsection (5A) was inserted by the Financial Services Act 2012, section 41 and Schedule 12, paragraph 7(1) and (3).
 
@@ -813,13 +813,13 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c23752441]: Marginal citation: A reference to sections 87C and 87J was inserted by [S.I. 2005/1433](https://www.legislation.gov.uk/uksi/2005/1433) and a reference to sections 165A and 169A was inserted by the Financial Services Act 2010, section 24(1) and (2) and Schedule 2, paragraphs 1 and 17.
 
-[^key-6d6ae8e2fe78398c5f2a53052154019c]: Commencement: Reg. 23 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-6d6ae8e2fe78398c5f2a53052154019c]: Commencement: Reg. 23 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-c51f0563301f77828ae510cd7c31287a]: Commencement: Reg. 24 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-c51f0563301f77828ae510cd7c31287a]: Commencement: Reg. 24 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-23702314b240913a1f1617af754a8605]: Commencement: Reg. 25 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-23702314b240913a1f1617af754a8605]: Commencement: Reg. 25 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-d7a984b13988dc7150d81fa26cff56f8]: Commencement: Reg. 26 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-d7a984b13988dc7150d81fa26cff56f8]: Commencement: Reg. 26 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
 [^c23752451]: Marginal citation: Subsections (1A) and (3A) were inserted by the Financial Services Act 2012, section 37(1) and Schedule 9, paragraphs 1 and 26.
 
@@ -833,19 +833,19 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c23752501]: Marginal citation: Subsection (6A) was substituted (with subsection (6) by the Financial Services Act 2012, section 37(1) and Schedule 9, paragraphs 1 and 30(1) and (6).
 
-[^key-3438db092ccb0e3f097e7be5a4e49839]: Textual amendment: Words in [reg. 26(5)(b)](https://www.legislation.gov.uk/uksi/2019/926/regulation/26/5/b) substituted (31.12.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(6)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/6)
+[^c-3438db092ccb0e3f097e7be5a4e49839]: Textual amendment: Words in [reg. 26(5)(b)](https://www.legislation.gov.uk/uksi/2019/926/regulation/26/5/b) substituted (31.12.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(6)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/6)
 
 [^c23752511]: Marginal citation: Subsections (7A) and (7B) were inserted by [S.I. 2012/916](https://www.legislation.gov.uk/uksi/2012/916). Subsection (8A) was inserted by [S.I. 2014/2879](https://www.legislation.gov.uk/uksi/2014/2879). Subsection (8B) was inserted by [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680). Subsection (8C) was inserted by [S.I. 2016/715](https://www.legislation.gov.uk/uksi/2016/715). Subsection (8D) was inserted by [S.I. 2017/1127](https://www.legislation.gov.uk/uksi/2017/1127). Subsection (8E) was inserted by [S.I. 2018/135](https://www.legislation.gov.uk/uksi/2018/135). Subsection (8F) was inserted by [S.I. 2018/1288](https://www.legislation.gov.uk/uksi/2018/1288).
 
 [^c23752521]: Marginal citation: Subsection (9A) was inserted by the Financial Services Act 2012, section 37(1) and Schedule 9, paragraphs 1 and 34(1) and (10).
 
-[^key-a2e08676de1b82f7720ca712dacb6dd6]: Commencement: Reg. 27 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-a2e08676de1b82f7720ca712dacb6dd6]: Commencement: Reg. 27 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
 [^c23752531]: Marginal citation: Subsection (1A) was inserted by [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773).
 
 [^c23752541]: Marginal citation: Subsection (6A) was inserted by the Financial Services Act 2012, section 37(1) and Schedule 9, paragraphs 1 and 37.
 
-[^key-221258cfddc83416b4e196778698faaa]: Commencement: Reg. 28 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-221258cfddc83416b4e196778698faaa]: Commencement: Reg. 28 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
 [^c23752551]: Marginal citation: [Schedule 1ZA](https://www.legislation.gov.uk/uksi/2019/926/schedule/1ZA) was substituted by the Financial Services Act 2012, section 6(2) and Schedule 3.
 
@@ -853,18 +853,18 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c23752571]: Marginal citation: Sub-paragraph (2ZA) was inserted by the [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [section 47](https://www.legislation.gov.uk/ukpga/2015/8/section/47) and Schedule 3, paragraphs 1 and 16; and sub-paragraph (2A) was inserted by the [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [section 129](https://www.legislation.gov.uk/ukpga/2013/33/section/129) and Schedule 8, paragraph 7(1) and (3).
 
-[^key-201af85decc3ea525551980cef6ad081]: Commencement: Reg. 29 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-201af85decc3ea525551980cef6ad081]: Commencement: Reg. 29 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
 [^c23752581]: Marginal citation: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188), as amended by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472). There are other amendments, but they are not relevant.
 
 [^c23752591]: Marginal citation: See definitions of “the Act”, “disciplinary proceedings authority”, “prescribed disciplinary proceedings” and “regulators”.
 
-[^key-1937703d5f26468b61748bb2cbf7337c]: Commencement: Reg. 30 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-1937703d5f26468b61748bb2cbf7337c]: Commencement: Reg. 30 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-8ca0ca00945c04528c05956a928ef488]: Textual amendment: Words in [reg. 30(a)](https://www.legislation.gov.uk/uksi/2019/926/regulation/30/a) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(7)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/7)
+[^c-8ca0ca00945c04528c05956a928ef488]: Textual amendment: Words in [reg. 30(a)](https://www.legislation.gov.uk/uksi/2019/926/regulation/30/a) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(7)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/7)
 
-[^key-d047cff151649cee927d7b979e05aea3]: Textual amendment: Words in [reg. 30(b)](https://www.legislation.gov.uk/uksi/2019/926/regulation/30/b) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(7)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/7)
+[^c-d047cff151649cee927d7b979e05aea3]: Textual amendment: Words in [reg. 30(b)](https://www.legislation.gov.uk/uksi/2019/926/regulation/30/b) omitted (31.12.2020) by virtue of [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/4), [15(7)](https://www.legislation.gov.uk/uksi/2020/628/regulation/15/7)
 
-[^key-f555cc9c7c85cbde4f21e608daf0abc5]: Commencement: Reg. 31 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-f555cc9c7c85cbde4f21e608daf0abc5]: Commencement: Reg. 31 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
 
-[^key-8458c11921cca5b8fd00f8c36cacb552]: Commencement: Reg. 32 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)
+[^c-8458c11921cca5b8fd00f8c36cacb552]: Commencement: Reg. 32 in force at 10.6.2019, see [reg. 1](https://www.legislation.gov.uk/uksi/2019/926/regulation/1)

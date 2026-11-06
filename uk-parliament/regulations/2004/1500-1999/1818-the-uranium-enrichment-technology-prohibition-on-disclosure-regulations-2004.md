@@ -53,7 +53,7 @@ Now, therefore, the Secretary of State, being a Minister designated [^c5250071] 
 (2) In these Regulations–
 
 - “**the Act**” means the Anti-terrorism, Crime and Security Act 2001;
-- “appropriate authority”—[^key-2c08acc3e0c2d28f3abbba6822e34a2e]
+- “appropriate authority”—[^c-2c08acc3e0c2d28f3abbba6822e34a2e]
   - (a) in relation to persons within England and Wales or Scotland, means the ONR;
   - (b) in relation to—
     - (i) persons within Northern Ireland; or
@@ -67,7 +67,7 @@ Now, therefore, the Secretary of State, being a Minister designated [^c5250071] 
   - (a) a component of equipment, and
   - (b) buildings;
 - “**information**” does not include software;
-- “the[^key-1f63e152d6167031dd80e671fb0b6679] ONR” means the Office for Nuclear Regulation;
+- “the[^c-1f63e152d6167031dd80e671fb0b6679] ONR” means the Office for Nuclear Regulation;
 - “**reckless**” has the meaning given by regulation 2(2);
 - “**specified activity**” means any of the following activities:
   - (a) treating uranium to increase the proportion of the isotope 235 contained in the uranium;
@@ -118,7 +118,7 @@ where (in any such case) the information would assist or enable a specified acti
 
   the carrying out of any functions of–
 
-  - (aa)[^key-947ccd3af9a8b20a7fb80bfb520d6d99] the ONR; or
+  - (aa)[^c-947ccd3af9a8b20a7fb80bfb520d6d99] the ONR; or
   - (bb) the Environment Agency established under section 1 of the Environment Act 1995 [^c5250111]; or
   - (cc) Euratom; or
   - (dd) the International Atomic Energy Agency; or
@@ -144,7 +144,7 @@ where (in any such case) the information would assist or enable a specified acti
   - (ii) an export which is authorised by or under Article 6 of Council Regulation [(EC) No 1334/2000](https://www.legislation.gov.uk/eur/2000/1334) of 22 June 2000 setting up a Community regime for the control of exports of dual-use items and technology [^c5250141], or
   - (iii) a transfer which is authorised under Article 21 of that Regulation, or
   - (iv) anything which is the subject of a prohibition imposed by an Order in Council under section 1(1) of the United Nations Act 1946 [^c5250151] but which is permitted or authorised by means of the exercise of a power conferred by such an Order; or
-- (g) it is authorised by the appropriate authority[^key-91ef18b2aecfb831c5d7fdc7d6bed795] under regulation 4(1).
+- (g) it is authorised by the appropriate authority[^c-91ef18b2aecfb831c5d7fdc7d6bed795] under regulation 4(1).
 
 (2) Regulation 2 does not prohibit disclosure of equipment or software by parting with possession of it to the extent that the person making the disclosure–
 
@@ -157,7 +157,7 @@ where (in any such case) the information would assist or enable a specified acti
 
 ## 4. Authorisation of disclosures
 
-(1) On the application of any person or otherwise, the appropriate authority[^key-747bd28f337fe74f74074c40f1b0e3e8] may authorise–
+(1) On the application of any person or otherwise, the appropriate authority[^c-747bd28f337fe74f74074c40f1b0e3e8] may authorise–
 
 - (a) any individual disclosure; or
 - (b) any class of disclosure,
@@ -172,16 +172,16 @@ which would otherwise be prohibited by regulation 2.
 
 (3) The appropriate authority may require–
 
-- (a) the provision in writing by the applicant for an authorisation of such additional information as the authority[^key-4df0e64d848ab88102183bba1b2f66bf] may consider necessary to enable the authority[^key-4636f57dc9dd67dae52e0c3f45131833] to decide whether to grant the authorisation; and
+- (a) the provision in writing by the applicant for an authorisation of such additional information as the authority[^c-4df0e64d848ab88102183bba1b2f66bf] may consider necessary to enable the authority[^c-4636f57dc9dd67dae52e0c3f45131833] to decide whether to grant the authorisation; and
 - (b) the verification of any information provided by the applicant in connection with the application in such manner as the appropriate authority may specify.
 
-(4) Where on an application for an authorisation the appropriate authority proposes not to grant the authorisation, the authority shall give the applicant written notice of the authority’s[^key-9ac98cc54822abdc53d881a8846828ce] proposal and of the reasons for it.
+(4) Where on an application for an authorisation the appropriate authority proposes not to grant the authorisation, the authority shall give the applicant written notice of the authority’s[^c-9ac98cc54822abdc53d881a8846828ce] proposal and of the reasons for it.
 
 (5) The applicant may make written representations to the appropriate authority within the period of 28 days following the date on which the notice under paragraph (4) is given.
 
 (6) The appropriate authority shall take into account any such representations before deciding whether to grant the authorisation.
 
-(7) If the appropriate authority decides not to grant the authorisation, the authority shall give the applicant written notice of the authority’s[^key-5c9f75115897bb7b40182eb98db627b7] decision and of the reasons for it.
+(7) If the appropriate authority decides not to grant the authorisation, the authority shall give the applicant written notice of the authority’s[^c-5c9f75115897bb7b40182eb98db627b7] decision and of the reasons for it.
 
 (8) This paragraph applies where the applicant for an authorisation–
 
@@ -197,7 +197,7 @@ and the authorisation is granted.
 
 ## 5. Withdrawal or variation of authorisations
 
-(1) The appropriate authority[^key-5daa136b6a857720b10b66db54b9c333] may withdraw or vary an authorisation by written notice to each person to whom notice of the authorisation was given under regulation 4(2); and in this regulation, such a person is referred to as an “**interested party**”.
+(1) The appropriate authority[^c-5daa136b6a857720b10b66db54b9c333] may withdraw or vary an authorisation by written notice to each person to whom notice of the authorisation was given under regulation 4(2); and in this regulation, such a person is referred to as an “**interested party**”.
 
 (2) A notice given under paragraph (1) shall specify the reasons for the decision to withdraw or vary the authorisation (as the case may be).
 
@@ -205,7 +205,7 @@ and the authorisation is granted.
 
 (4) An interested party may make representations to the appropriate authority within 28 days of the date on which the notice is given to him.
 
-(5) The appropriate authority shall take into account any such representations before reaching a decision whether to set aside or vary the notice given under paragraph (1), and shall give written notice to every interested party of the authority’s[^key-135aa34b443537b701a347afffab49fe] decision.
+(5) The appropriate authority shall take into account any such representations before reaching a decision whether to set aside or vary the notice given under paragraph (1), and shall give written notice to every interested party of the authority’s[^c-135aa34b443537b701a347afffab49fe] decision.
 
 (6) A decision under paragraph (5) shall have immediate effect.
 
@@ -252,7 +252,7 @@ and the notice given under paragraph (1) is set aside or varied under paragraph 
 (5) For the purposes of this regulation and of section 7 of the Interpretation Act 1978 [^c5250161] in its application to this regulation, the proper address (except in a case falling within paragraph (7)) of–
 
 - (a) the Secretary of State is the address of the principal office of the holder of the office of Secretary of State who for the time being exercises the functions of the Secretary of State under regulations 4 and 5;
-- (b) a body corporate (including the[^key-03009a66dbf3c945b80933a5398a3055] ONR) is the address of its registered or principal office;
+- (b) a body corporate (including the[^c-03009a66dbf3c945b80933a5398a3055] ONR) is the address of its registered or principal office;
 - (c) a firm or unincorporated body is the address of its principal office;
 - (d) any other person is his last known address.
 
@@ -313,13 +313,13 @@ A regulatory impact assessment in respect of these Regulations may be obtained f
 
 [^c5250081]: Marginal citation: See section 80(8) of [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24) for the definition of “prescribed”.
 
-[^key-2c08acc3e0c2d28f3abbba6822e34a2e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/1/2) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 23(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/23/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-2c08acc3e0c2d28f3abbba6822e34a2e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/1/2) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 23(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/23/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-1f63e152d6167031dd80e671fb0b6679]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/1/2) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 23(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/23/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-1f63e152d6167031dd80e671fb0b6679]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/1/2) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 23(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/23/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c5250091]: Marginal citation: The definition of “United Kingdom person” in section 81(2) and (3) of [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24) was amended by section 2(3) of [2002 c. 8](https://www.legislation.gov.uk/ukpga/2002/8).
 
-[^key-947ccd3af9a8b20a7fb80bfb520d6d99]: Textual amendment: [Reg. 3(1)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/3/1/aa) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 24(2)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/24/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-947ccd3af9a8b20a7fb80bfb520d6d99]: Textual amendment: [Reg. 3(1)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/3/1/aa) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 24(2)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/24/2/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c5250111]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -331,24 +331,24 @@ A regulatory impact assessment in respect of these Regulations may be obtained f
 
 [^c5250151]: Marginal citation: [1946 c. 45](https://www.legislation.gov.uk/ukpga/1946/45).
 
-[^key-91ef18b2aecfb831c5d7fdc7d6bed795]: Textual amendment: Words in [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/3/1/g) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 24(2)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/24/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-91ef18b2aecfb831c5d7fdc7d6bed795]: Textual amendment: Words in [reg. 3(1)(g)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/3/1/g) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 24(2)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/24/2/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-747bd28f337fe74f74074c40f1b0e3e8]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2004/1818/regulation/4) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 25(1)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/25/1/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-747bd28f337fe74f74074c40f1b0e3e8]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2004/1818/regulation/4) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 25(1)(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/25/1/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-4df0e64d848ab88102183bba1b2f66bf]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2004/1818/regulation/4) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 25(1)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/25/1/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-4df0e64d848ab88102183bba1b2f66bf]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2004/1818/regulation/4) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 25(1)(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/25/1/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-4636f57dc9dd67dae52e0c3f45131833]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2004/1818/regulation/4) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 25(1)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/25/1/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-4636f57dc9dd67dae52e0c3f45131833]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/uksi/2004/1818/regulation/4) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 25(1)(c)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/25/1/c) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-9ac98cc54822abdc53d881a8846828ce]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/4/4) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/25/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-9ac98cc54822abdc53d881a8846828ce]: Textual amendment: Words in [reg. 4(4)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/4/4) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/25/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-5c9f75115897bb7b40182eb98db627b7]: Textual amendment: Words in [reg. 4(7)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/4/7) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/25/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-5c9f75115897bb7b40182eb98db627b7]: Textual amendment: Words in [reg. 4(7)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/4/7) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 25(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/25/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-5daa136b6a857720b10b66db54b9c333]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2004/1818/regulation/5) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 26(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/26/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-5daa136b6a857720b10b66db54b9c333]: Textual amendment: Words in [reg. 5](https://www.legislation.gov.uk/uksi/2004/1818/regulation/5) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 26(a)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/26/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-135aa34b443537b701a347afffab49fe]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/5/5) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 26(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/26/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-135aa34b443537b701a347afffab49fe]: Textual amendment: Words in [reg. 5(5)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/5/5) substituted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 26(b)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/26/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c5250161]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
-[^key-03009a66dbf3c945b80933a5398a3055]: Textual amendment: Words in [reg. 6(5)(b)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/6/5/b) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/27) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-03009a66dbf3c945b80933a5398a3055]: Textual amendment: Words in [reg. 6(5)(b)](https://www.legislation.gov.uk/uksi/2004/1818/regulation/6/5/b) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 27](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/27) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
 [^c5250171]: Marginal citation: [S.I. 2002/2013](https://www.legislation.gov.uk/uksi/2002/2013), amended by [S.I. 2004/1178](https://www.legislation.gov.uk/uksi/2004/1178).

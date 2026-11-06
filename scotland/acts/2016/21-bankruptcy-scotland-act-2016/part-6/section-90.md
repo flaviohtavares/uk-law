@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Debtor contribution order: general[^key-bc294027c4e3c1c4f4a2fe9aae981fc7]
+## 90. Debtor contribution order: general[^c-bc294027c4e3c1c4f4a2fe9aae981fc7]
 
 *Extent: S*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) in the case of a debtor application, at the same time as awarding sequestration of the debtor's estate,
 - (b) in the case of an award of sequestration following a petition under section 2(1)(b), after considering initial proposals for the debtor's contribution provided by the trustee.
 
-(2) In a case referred to in subsection (1)(b), the trustee must send initial proposals for the debtor's contribution within 12[^key-e559146e13ffb87b89ccaf681491c951] weeks beginning with the date of the award of sequestration.
+(2) In a case referred to in subsection (1)(b), the trustee must send initial proposals for the debtor's contribution within 12[^c-e559146e13ffb87b89ccaf681491c951] weeks beginning with the date of the award of sequestration.
 
 (3) In making a debtor contribution order, AiB must use the common financial tool to assess the debtor's contribution.
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc294027c4e3c1c4f4a2fe9aae981fc7]: Commencement: S. 90 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-bc294027c4e3c1c4f4a2fe9aae981fc7]: Commencement: S. 90 in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
 
-[^key-e559146e13ffb87b89ccaf681491c951]: Textual amendment: Word in [s. 90(2)](https://www.legislation.gov.uk/asp/2016/21/section/90/2) substituted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [5(1)](https://www.legislation.gov.uk/ssi/2021/148/regulation/5/1) (with [regs. 3(b)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/b), [5(2)](https://www.legislation.gov.uk/ssi/2021/148/regulation/5/2))
+[^c-e559146e13ffb87b89ccaf681491c951]: Textual amendment: Word in [s. 90(2)](https://www.legislation.gov.uk/asp/2016/21/section/90/2) substituted (29.3.2021) by [The Bankruptcy (Miscellaneous Amendments) (Scotland) Regulations 2021 (S.S.I. 2021/148)](https://www.legislation.gov.uk/ssi/2021/148), [regs. 1](https://www.legislation.gov.uk/ssi/2021/148/regulation/1), [5(1)](https://www.legislation.gov.uk/ssi/2021/148/regulation/5/1) (with [regs. 3(b)](https://www.legislation.gov.uk/ssi/2021/148/regulation/3/b), [5(2)](https://www.legislation.gov.uk/ssi/2021/148/regulation/5/2))

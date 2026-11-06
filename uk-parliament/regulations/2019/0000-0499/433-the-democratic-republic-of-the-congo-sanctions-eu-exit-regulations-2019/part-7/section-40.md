@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. “Relevant firm”[^key-1bd67d9289c85a466bc952b2d160a107][^key-c7ec8583b8b54ed74f2aa51c433720ff]
+## 40. “Relevant firm”[^c-1bd67d9289c85a466bc952b2d160a107][^c-c7ec8583b8b54ed74f2aa51c433720ff]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,9 +40,9 @@ summary: ''
 - (g) a person engaged in the business of making, supplying, selling (including selling by auction) or exchanging—
   - (i) articles made from gold, silver, platinum or palladium, or
   - (ii) precious stones or pearls.
-- (h)[^key-3fc44dc4401dfb42666a04f8bd8cd10f] a cryptoasset exchange provider;
+- (h)[^c-3fc44dc4401dfb42666a04f8bd8cd10f] a cryptoasset exchange provider;
 - (i) a custodian wallet provider;
-- (j)[^key-77d410a1448a1ba1065f96cbba532cde] a high value dealer;
+- (j)[^c-77d410a1448a1ba1065f96cbba532cde] a high value dealer;
 - (k) an art market participant;
 - (l) an insolvency practitioner;
 - (m) a firm or sole practitioner (“**P**”) that carries out, or whose employees carry out, letting agency work.
@@ -64,7 +64,7 @@ summary: ''
 - “**estate agency work**” is to be read in accordance with section 1 of the Estate Agents Act 1979 [^c23619181], but as if references in that section to disposing of or acquiring an interest in land included (despite anything in section 2 of that Act) references to disposing of or acquiring an estate or interest in land outside the United Kingdom where that estate or interest is capable of being owned or held as a separate interest;
 - “**firm**” means any entity that, whether or not a legal person, is not an individual, and includes a body corporate and a partnership or other unincorporated body.
 
-(3A)[^key-c9f3acdfed4b8af4aadaab2ec60107f7] In paragraph (1), a “**cryptoasset exchange provider**” means a firm or sole practitioner that by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
+(3A)[^c-c9f3acdfed4b8af4aadaab2ec60107f7] In paragraph (1), a “**cryptoasset exchange provider**” means a firm or sole practitioner that by way of business provides one or more of the following services, including where the firm or sole practitioner does so as creator or issuer of any of the cryptoassets involved—
 
 - (a) exchanging, or arranging or making arrangements with a view to the exchange of, cryptoassets for money or money for cryptoassets,
 - (b) exchanging, or arranging or making arrangements with a view to the exchange of, one cryptoasset for another, or
@@ -86,7 +86,7 @@ summary: ''
   but does not include a cryptoasset; and
 - (c) in sub-paragraphs (a) to (c) of paragraph (3A), “**cryptoasset**” includes a right to, or interest in, the cryptoasset.
 
-(3D)[^key-c82c99a62e38ac188c92180e06ad3ec8] In paragraph (1), a “**high value dealer**” means a firm or sole trader that by way of business trades in goods (including an auctioneer dealing in goods), when the firm or sole trader makes or receives, in respect of any transaction, a payment or payments in cash of at least £10,000[^key-d9956bb5f9c4334d9886d0c1b39e1dbe] in total, whether the transaction is executed in a single operation or in several operations which appear to be linked.
+(3D)[^c-c82c99a62e38ac188c92180e06ad3ec8] In paragraph (1), a “**high value dealer**” means a firm or sole trader that by way of business trades in goods (including an auctioneer dealing in goods), when the firm or sole trader makes or receives, in respect of any transaction, a payment or payments in cash of at least £10,000[^c-d9956bb5f9c4334d9886d0c1b39e1dbe] in total, whether the transaction is executed in a single operation or in several operations which appear to be linked.
 
 (3E) In paragraph (1), an “**art market participant**” means, subject to paragraph (3F), a firm or sole practitioner that is registered or required to register with the Commissioners as an art market participant under regulation 56(5) and (6) of the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017.
 
@@ -125,16 +125,16 @@ summary: ''
 - (b) in the case of a relevant firm within paragraph (1)(c)(i), in the course of carrying out statutory audit work within the meaning of section 1210 of the Companies Act 2006 (meaning of statutory auditor) [^c23619191];
 - (c) in the case of a relevant firm within paragraph (1)(c)(ii), in the course of carrying out an audit required by the Local Audit and Accountability Act 2014;
 - (d) in the case of a relevant firm within paragraph (1)(f), in the course of carrying on an activity in respect of which the licence mentioned in that provision is required;
-- (da)[^key-8616c6e7d3edc8f7f782b07491f5a0f1] in the case of a relevant firm within paragraph (1)(k)—
+- (da)[^c-8616c6e7d3edc8f7f782b07491f5a0f1] in the case of a relevant firm within paragraph (1)(k)—
   - (i) in the course of trading, or acting as an intermediary in the sale or purchase of, works of art when the value of the transaction, or a series of linked transactions, amounts to £10,000 or more, or
   - (ii) in the course of storing works of art where the value of the works of art so stored for a person amounts to £10,000 or more;
 - (e) in the case of a relevant firm within any other provision of paragraph (1), in the course of carrying on an activity mentioned in that provision.
 
 ## Annotations
 
-[^key-1bd67d9289c85a466bc952b2d160a107]: Commencement: Reg. 40 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-1bd67d9289c85a466bc952b2d160a107]: Commencement: Reg. 40 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-c7ec8583b8b54ed74f2aa51c433720ff]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2019/433/regulation/40) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c7ec8583b8b54ed74f2aa51c433720ff]: Commencement: [Reg. 40](https://www.legislation.gov.uk/uksi/2019/433/regulation/40) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23619151]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
@@ -142,18 +142,18 @@ summary: ''
 
 [^c23619171]: Marginal citation: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-3fc44dc4401dfb42666a04f8bd8cd10f]: Textual amendment: [Reg. 40(1)(h)(i)](https://www.legislation.gov.uk/uksi/2019/433/regulation/40/1/h/i) inserted (30.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/3/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/819/regulation/3/2/a)
+[^c-3fc44dc4401dfb42666a04f8bd8cd10f]: Textual amendment: [Reg. 40(1)(h)(i)](https://www.legislation.gov.uk/uksi/2019/433/regulation/40/1/h/i) inserted (30.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/3/b), [3(2)(a)](https://www.legislation.gov.uk/uksi/2022/819/regulation/3/2/a)
 
-[^key-77d410a1448a1ba1065f96cbba532cde]: Textual amendment: [Reg. 40(1)(j)-(m)](https://www.legislation.gov.uk/uksi/2019/433/regulation/40/1/j) inserted (14.5.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2/c), [4(10)(a)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/4/10/a)
+[^c-77d410a1448a1ba1065f96cbba532cde]: Textual amendment: [Reg. 40(1)(j)-(m)](https://www.legislation.gov.uk/uksi/2019/433/regulation/40/1/j) inserted (14.5.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2/c), [4(10)(a)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/4/10/a)
 
 [^c23619181]: Marginal citation: [1979 c.38](https://www.legislation.gov.uk/ukpga/1979/38). Section 1 was amended by the [Law Reform (Miscellaneous Provisions) (Scotland) Act 1985 (c.73)](https://www.legislation.gov.uk/ukpga/1985/73), [Schedule 1](https://www.legislation.gov.uk/ukpga/1985/73/schedule/1), [paragraph 40](https://www.legislation.gov.uk/ukpga/1985/73/paragraph/40); the [Planning (Consequential Provisions) Act 1990 (c.11)](https://www.legislation.gov.uk/ukpga/1990/11), [Schedule 2](https://www.legislation.gov.uk/ukpga/1990/11/schedule/2), [paragraph 42](https://www.legislation.gov.uk/ukpga/1990/11/paragraph/42); the [Planning (Consequential Provisions) (Scotland) Act 1997 (c.11)](https://www.legislation.gov.uk/ukpga/1997/11), [Schedule 2](https://www.legislation.gov.uk/ukpga/1997/11/schedule/2), [paragraph 28](https://www.legislation.gov.uk/ukpga/1997/11/paragraph/28); the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), [section 70](https://www.legislation.gov.uk/ukpga/2013/24/section/70); [S.I. 1991/2684](https://www.legislation.gov.uk/uksi/1991/2684); [S.I. 2000/121](https://www.legislation.gov.uk/uksi/2000/121) and [S.I. 2001/1283](https://www.legislation.gov.uk/uksi/2001/1283).
 
-[^key-c9f3acdfed4b8af4aadaab2ec60107f7]: Textual amendment: [Reg. 40(3A)-(3C)](https://www.legislation.gov.uk/uksi/2019/433/regulation/40/3A) inserted (30.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/3/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/819/regulation/3/2/b)
+[^c-c9f3acdfed4b8af4aadaab2ec60107f7]: Textual amendment: [Reg. 40(3A)-(3C)](https://www.legislation.gov.uk/uksi/2019/433/regulation/40/3A) inserted (30.8.2022) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2022 (S.I. 2022/819)](https://www.legislation.gov.uk/uksi/2022/819), [regs. 1(3)(b)](https://www.legislation.gov.uk/uksi/2022/819/regulation/1/3/b), [3(2)(b)](https://www.legislation.gov.uk/uksi/2022/819/regulation/3/2/b)
 
-[^key-c82c99a62e38ac188c92180e06ad3ec8]: Textual amendment: [Reg. 40(3D)-(3K)](https://www.legislation.gov.uk/uksi/2019/433/regulation/40/3D) inserted (14.5.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2/c), [4(10)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/4/10/b)
+[^c-c82c99a62e38ac188c92180e06ad3ec8]: Textual amendment: [Reg. 40(3D)-(3K)](https://www.legislation.gov.uk/uksi/2019/433/regulation/40/3D) inserted (14.5.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2/c), [4(10)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/4/10/b)
 
-[^key-d9956bb5f9c4334d9886d0c1b39e1dbe]: Textual amendment: Sum in [reg. 40](https://www.legislation.gov.uk/uksi/2019/433/regulation/40) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/4/2)
+[^c-d9956bb5f9c4334d9886d0c1b39e1dbe]: Textual amendment: Sum in [reg. 40](https://www.legislation.gov.uk/uksi/2019/433/regulation/40) substituted (13.5.2026) by [The Sanctions (EU Exit) (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/443)](https://www.legislation.gov.uk/uksi/2026/443), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2026/443/regulation/4/2)
 
 [^c23619191]: Marginal citation: [Section 1210](https://www.legislation.gov.uk/uksi/2019/433/section/1210) was amended by [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565); [S.I. 2008/567](https://www.legislation.gov.uk/uksi/2008/567); [S.I. 2008/1950](https://www.legislation.gov.uk/uksi/2008/1950); [S.I. 2011/99](https://www.legislation.gov.uk/uksi/2011/99); [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809); [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115); [S.I. 2017/516](https://www.legislation.gov.uk/uksi/2017/516) and [S.I. 2017/1164](https://www.legislation.gov.uk/uksi/2017/1164).
 
-[^key-8616c6e7d3edc8f7f782b07491f5a0f1]: Textual amendment: [Reg. 40(5)(da)](https://www.legislation.gov.uk/uksi/2019/433/regulation/40/5/da) inserted (14.5.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2/c), [4(10)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/4/10/c)
+[^c-8616c6e7d3edc8f7f782b07491f5a0f1]: Textual amendment: [Reg. 40(5)(da)](https://www.legislation.gov.uk/uksi/2019/433/regulation/40/5/da) inserted (14.5.2025) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2/c), [4(10)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/4/10/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Annual reports[^key-66ff65b8c5a67fe1bbe670e5caeff581]
+## 95. Annual reports[^c-66ff65b8c5a67fe1bbe670e5caeff581]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66ff65b8c5a67fe1bbe670e5caeff581]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2015/6/section/95) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/363/article/4))
+[^c-66ff65b8c5a67fe1bbe670e5caeff581]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2015/6/section/95) in force at 23.1.2017 by [S.S.I. 2016/363](https://www.legislation.gov.uk/ssi/2016/363), [art. 3(b)](https://www.legislation.gov.uk/ssi/2016/363/article/3/b) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/363/article/4))

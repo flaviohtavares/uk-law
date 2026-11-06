@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24A. Variation of contractual terms in respect of election to enter into a Capitation and Quality Scheme Agreement[^key-e51c0f3b3db6272690a0f0fe76df6569]
+## 24A. Variation of contractual terms in respect of election to enter into a Capitation and Quality Scheme Agreement[^c-e51c0f3b3db6272690a0f0fe76df6569]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e51c0f3b3db6272690a0f0fe76df6569]: Textual amendment: Reg. 24A omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/364/regulation/16) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))
+[^c-e51c0f3b3db6272690a0f0fe76df6569]: Textual amendment: Reg. 24A omitted (1.4.2013) by virtue of [The National Health Service (Primary Dental Services) (Miscellaneous Amendments and Transitional Provisions) Regulations 2013 (S.I. 2013/364)](https://www.legislation.gov.uk/uksi/2013/364), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1), [16](https://www.legislation.gov.uk/uksi/2013/364/regulation/16) (with [Sch. 1](https://www.legislation.gov.uk/uksi/2013/364/schedule/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 850A. Profit-making period in which some partners have losses[^key-9903c30cbb0d01e9065241f6e0c39298]
+## 850A. Profit-making period in which some partners have losses[^c-9903c30cbb0d01e9065241f6e0c39298]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ Each such share is the comparable amount for the partner to whom it is attribute
 
 ## Annotations
 
-[^key-9903c30cbb0d01e9065241f6e0c39298]: Textual amendment: Ss. 850-850B substituted for s. 850 (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 640](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/640) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-9903c30cbb0d01e9065241f6e0c39298]: Textual amendment: Ss. 850-850B substituted for s. 850 (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 640](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/640) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

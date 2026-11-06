@@ -32,7 +32,7 @@ summary: ''
 
 Savings Banks
 
-The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2014 (revoked)[^key-51d24de9ed5c279e2622d966e6423a55]
+The National Savings Bank (Investment Deposits) (Limits) (Amendment) Order 2014 (revoked)[^c-51d24de9ed5c279e2622d966e6423a55]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 6th April 2014
 
-[^key-51d24de9ed5c279e2622d966e6423a55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51d24de9ed5c279e2622d966e6423a55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-51d24de9ed5c279e2622d966e6423a55]
+## 1. Citation and commencement[^c-51d24de9ed5c279e2622d966e6423a55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the National Savings Bank (Investment Deposits) (Limits) Order 1977[^key-51d24de9ed5c279e2622d966e6423a55]
+## 2. Amendment of the National Savings Bank (Investment Deposits) (Limits) Order 1977[^c-51d24de9ed5c279e2622d966e6423a55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocations[^key-51d24de9ed5c279e2622d966e6423a55]
+## 3. Revocations[^c-51d24de9ed5c279e2622d966e6423a55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-51d24de9ed5c279e2622d966e6423a55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51d24de9ed5c279e2622d966e6423a55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-51d24de9ed5c279e2622d966e6423a55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-51d24de9ed5c279e2622d966e6423a55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-51d24de9ed5c279e2622d966e6423a55]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/484) revoked (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [Sch.](https://www.legislation.gov.uk/uksi/2015/623/schedule)
+[^c-51d24de9ed5c279e2622d966e6423a55]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2014/484) revoked (6.4.2015) by [The National Savings Regulations 2015 (S.I. 2015/623)](https://www.legislation.gov.uk/uksi/2015/623), [Sch.](https://www.legislation.gov.uk/uksi/2015/623/schedule)

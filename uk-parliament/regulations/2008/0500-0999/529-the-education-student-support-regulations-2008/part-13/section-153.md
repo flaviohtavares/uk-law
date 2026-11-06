@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Transfer of status[^key-a68411b3a1730bd378dffb3439ecdf88]
+## 153. Transfer of status[^c-a68411b3a1730bd378dffb3439ecdf88]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a68411b3a1730bd378dffb3439ecdf88]: Commencement: Reg. 153 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-a68411b3a1730bd378dffb3439ecdf88]: Commencement: Reg. 153 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

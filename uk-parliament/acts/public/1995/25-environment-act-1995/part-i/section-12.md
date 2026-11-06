@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Environment protection advisory committees.[^key-43ec1f379a810fb9fba60cf66fdbbf90]
+## 12. Environment protection advisory committees.[^c-43ec1f379a810fb9fba60cf66fdbbf90]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43ec1f379a810fb9fba60cf66fdbbf90]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1995/25/section/12) repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2013/755/article/9/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-43ec1f379a810fb9fba60cf66fdbbf90]: Textual amendment: [S. 12](https://www.legislation.gov.uk/ukpga/1995/25/section/12) repealed (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [9(2)](https://www.legislation.gov.uk/wsi/2013/755/article/9/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

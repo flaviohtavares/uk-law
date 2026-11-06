@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Planning permission required for development[^key-1acf4a70ab7c69ecd30cd3ce8fa79362]
+## 43. Planning permission required for development[^c-1acf4a70ab7c69ecd30cd3ce8fa79362]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1acf4a70ab7c69ecd30cd3ce8fa79362]: Commencement: S. 43 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-1acf4a70ab7c69ecd30cd3ce8fa79362]: Commencement: S. 43 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

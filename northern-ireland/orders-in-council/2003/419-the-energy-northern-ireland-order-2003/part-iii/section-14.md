@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^c21264771] The principal objective of the Department and the Authority in carrying out their respective gas functions is to promote the development and maintenance of an efficient, economic and co-ordinated gas industry in Northern Ireland, and to do so in a way that is consistent with the fulfilment by the Authority, of the designated regulatory gas objectives[^key-321516277784f5e447a9d348420d8152].
+(1)[^c21264771] The principal objective of the Department and the Authority in carrying out their respective gas functions is to promote the development and maintenance of an efficient, economic and co-ordinated gas industry in Northern Ireland, and to do so in a way that is consistent with the fulfilment by the Authority, of the designated regulatory gas objectives[^c-321516277784f5e447a9d348420d8152].
 
 (2) The Department and the Authority shall carry out those functions in the manner which it considers is best calculated to further the principal objective, having regard to—
 
@@ -50,14 +50,14 @@ and shall have regard, in carrying out those functions, to the effect on the env
 
 (5A)[^c20139081] In carrying out their respective gas functions the Department or the Authority shall not discriminate between persons whose activities consist of or include storing, supplying or participating in the conveyance of gas as regards either rights or obligations.
 
-(5B)[^key-be261be4e91db42b1e155e66045d8a3f][^c22553011] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5B)[^c-be261be4e91db42b1e155e66045d8a3f][^c22553011] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5C) For the purpose of paragraph (5A), the Authority may serve on any holder of a gas licence or any exemption holder a notice requiring that person to provide the Authority with such information, assistance or advice as may be specified in the notice and that holder shall comply with that requirement.
 
 (6) In this Article “gas functions” means—
 
-- (a) functions under Part II of the Gas Order; [^key-50569e2cda3ecc9b8340e790f66b66a2]...
-- (b) functions under this Order or the Energy Act (Northern Ireland) 2011[^c21264751] relating to gas ;[^key-11c5e4b9af0329d9bb841ecb80936055]
+- (a) functions under Part II of the Gas Order; [^c-50569e2cda3ecc9b8340e790f66b66a2]...
+- (b) functions under this Order or the Energy Act (Northern Ireland) 2011[^c21264751] relating to gas ;[^c-11c5e4b9af0329d9bb841ecb80936055]
 - (c) the functions which the Department has under section 5 (so far as relating to gas) and section 7 of the Energy Prices Act 2022 (see Schedule 5 to that Act);
 - (d) the Authority’s function of giving directions under section 7(3) of the Energy Prices Act 2022;
 - (e) functions under regulations made under section 11(2) of the Energy Prices Act 2022;
@@ -73,7 +73,7 @@ and shall have regard, in carrying out those functions, to the effect on the env
 
 [^c21264771]: Textual amendment: Art. 14(1) substituted (15.4.2011) by [Gas and Electricity (Internal Markets) Regulations (Northern Ireland) 2011 (S.R. 2011/155)](https://www.legislation.gov.uk/nisr/2011/155), [reg. 41](https://www.legislation.gov.uk/nisr/2011/155/regulation/41)
 
-[^key-321516277784f5e447a9d348420d8152]: Textual amendment: Words in art. 14(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [137(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/137/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-321516277784f5e447a9d348420d8152]: Textual amendment: Words in art. 14(1) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [137(2)](https://www.legislation.gov.uk/uksi/2019/530/regulation/137/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c20138981]: Textual amendment: Art. 14(2)(a) substituted (1.10.2006) by [Gas Order 1996 (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/358)](https://www.legislation.gov.uk/nisr/2006/358), [reg. 13(1)](https://www.legislation.gov.uk/nisr/2006/358/regulation/13/1)
 
@@ -87,14 +87,14 @@ and shall have regard, in carrying out those functions, to the effect on the env
 
 [^c20139081]: Textual amendment: Art. 14(5A) inserted (1.10.2006) by [Gas Order 1996 (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/358)](https://www.legislation.gov.uk/nisr/2006/358), [reg. 13(3)](https://www.legislation.gov.uk/nisr/2006/358/regulation/13/3)
 
-[^key-be261be4e91db42b1e155e66045d8a3f]: Textual amendment: Art. 14(5B) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [137(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/137/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be261be4e91db42b1e155e66045d8a3f]: Textual amendment: Art. 14(5B) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [137(3)](https://www.legislation.gov.uk/uksi/2019/530/regulation/137/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22553011]: Textual amendment: Art. 14(5B)(5C) inserted (25.7.2014) by [Energy Efficiency Regulations (Northern Ireland) 2014 (S.R. 2014/198)](https://www.legislation.gov.uk/nisr/2014/198), [reg. 5(b)](https://www.legislation.gov.uk/nisr/2014/198/regulation/5/b)
 
-[^key-50569e2cda3ecc9b8340e790f66b66a2]: Textual amendment: Word in [art. 14(6)(a)](https://www.legislation.gov.uk/nisi/2003/419/article/14/6/a) omitted (25.10.2022) by virtue of [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 9(a)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/9/a) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-50569e2cda3ecc9b8340e790f66b66a2]: Textual amendment: Word in [art. 14(6)(a)](https://www.legislation.gov.uk/nisi/2003/419/article/14/6/a) omitted (25.10.2022) by virtue of [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 9(a)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/9/a) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
 [^c21264751]: Textual amendment: Words in art. 14(6)(b) inserted (21.3.2011) by [Energy Act (Northern Ireland) 2011 (c. 6)](https://www.legislation.gov.uk/nia/2011/6), [ss. 9(2)](https://www.legislation.gov.uk/nia/2011/6/section/9/2), [36(1)](https://www.legislation.gov.uk/nia/2011/6/section/36/1); [S.R. 2011/95](https://www.legislation.gov.uk/nisr/2011/95), [art. 2](https://www.legislation.gov.uk/nisr/2011/95/article/2)
 
-[^key-11c5e4b9af0329d9bb841ecb80936055]: Textual amendment: [Art. 14(6)(c)-(f)](https://www.legislation.gov.uk/nisi/2003/419/article/14/6) and semicolon inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 9(b)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/9/b) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
+[^c-11c5e4b9af0329d9bb841ecb80936055]: Textual amendment: [Art. 14(6)(c)-(f)](https://www.legislation.gov.uk/nisi/2003/419/article/14/6) and semicolon inserted (25.10.2022) by [Energy Prices Act 2022 (c. 44)](https://www.legislation.gov.uk/ukpga/2022/44), [s. 30(6)](https://www.legislation.gov.uk/ukpga/2022/44/section/30/6), [Sch. 7 para. 9(b)](https://www.legislation.gov.uk/ukpga/2022/44/schedule/7/paragraph/9/b) (with [s. 29](https://www.legislation.gov.uk/ukpga/2022/44/section/29))
 
 [^c20139101]: Textual amendment: Art. 14(7) added (1.10.2006) by [Gas Order 1996 (Amendment) Regulations (Northern Ireland) 2006 (S.R. 2006/358)](https://www.legislation.gov.uk/nisr/2006/358), [reg. 13(4)](https://www.legislation.gov.uk/nisr/2006/358/regulation/13/4)

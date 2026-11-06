@@ -26,7 +26,7 @@ summary: ''
 
 1995 No. 755 (N.I. 2)
 
-The Children (Northern Ireland) Order 1995[^key-7364545739fe17d8d61f5b39519f009c]
+The Children (Northern Ireland) Order 1995[^c-7364545739fe17d8d61f5b39519f009c]
 
 15th March 1995 [^c19911241][^c22524781][^c22524371]
 
@@ -164,7 +164,7 @@ The Children (Northern Ireland) Order 1995[^key-7364545739fe17d8d61f5b39519f009c
 - [Section 58 — Discharge and variation, etc., of care orders and supervision orders](part-v/section-58.md)
 - [Section 59 — Orders pending appeals in cases about care or supervision orders](part-v/section-59.md)
 
-#### Children’s court guardians[^key-15bdafe96ccfc4b9ec4366caee1c6ee6]
+#### Children’s court guardians[^c-15bdafe96ccfc4b9ec4366caee1c6ee6]
 
 - [Section 60 — Representation of child and of his interests in certain proceedings](part-v/section-60.md)
 - [Section 61 — Right of children’s court guardian to have access to records](part-v/section-61.md)
@@ -398,7 +398,7 @@ SCHEDULES
 
 ## Annotations
 
-[^key-7364545739fe17d8d61f5b39519f009c]: Modification: Order applied (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), arts. 1(2), [14(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1465/article/14/2); S.S.I. 2013/195, art. 2
+[^c-7364545739fe17d8d61f5b39519f009c]: Modification: Order applied (24.6.2013) by [The Children’s Hearings (Scotland) Act 2011 (Consequential and Transitional Provisions and Savings) Order 2013 (S.I. 2013/1465)](https://www.legislation.gov.uk/uksi/2013/1465), arts. 1(2), [14(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1465/article/14/2); S.S.I. 2013/195, art. 2
 
 [^c19911241]: Modification: Order extended (21.12.2006) by [Children (Prescribed Orders - Isle of Man and Guernsey) Regulations (Northern Ireland) 2006 (S.R. 2006/480)](https://www.legislation.gov.uk/nisr/2006/480), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2006/480/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2006/480/regulation/2);
 
@@ -410,7 +410,7 @@ SCHEDULES
 
 [^c17269671]: Textual amendment: [2002 c. 11 (NI)](https://www.legislation.gov.uk/nia/2002/11)
 
-[^key-15bdafe96ccfc4b9ec4366caee1c6ee6]: Textual amendment: [Art. 60](https://www.legislation.gov.uk/nisi/1995/755/article/60) cross-heading substituted (13.2.2023) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 137(3)](https://www.legislation.gov.uk/nia/2022/18/section/137/3), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2023/12](https://www.legislation.gov.uk/nisr/2023/12), [art. 2](https://www.legislation.gov.uk/nisr/2023/12/article/2)
+[^c-15bdafe96ccfc4b9ec4366caee1c6ee6]: Textual amendment: [Art. 60](https://www.legislation.gov.uk/nisi/1995/755/article/60) cross-heading substituted (13.2.2023) by [Adoption and Children Act (Northern Ireland) 2022 (c. 18)](https://www.legislation.gov.uk/nia/2022/18), [ss. 137(3)](https://www.legislation.gov.uk/nia/2022/18/section/137/3), [160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1); [S.R. 2023/12](https://www.legislation.gov.uk/nisr/2023/12), [art. 2](https://www.legislation.gov.uk/nisr/2023/12/article/2)
 
 [^c17270401]: Textual amendment: [2003 NI 9](https://www.legislation.gov.uk/2003/ni9)
 

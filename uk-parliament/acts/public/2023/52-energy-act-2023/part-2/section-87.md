@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Modification of transfer schemes[^key-98dcdef63fac4e66aa264d8ebfb0273f]
+## 87. Modification of transfer schemes[^c-98dcdef63fac4e66aa264d8ebfb0273f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98dcdef63fac4e66aa264d8ebfb0273f]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2023/52/section/87) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-98dcdef63fac4e66aa264d8ebfb0273f]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2023/52/section/87) in force at 26.12.2023, see [s. 334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)

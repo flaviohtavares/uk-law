@@ -24,7 +24,7 @@ summary: ''
 
 (2) The first requirement specified in this regulation is that—
 
-- (a) a person who falls within section 698(2)(b) of[^key-92a674e471f7fd0f7b2775b509fe1604] ITTOIA 2005 is for the time being appointed by the account manager to be responsible for securing the discharge of the duties prescribed by paragraph (5) which fall to be discharged by the account manager, and
+- (a) a person who falls within section 698(2)(b) of[^c-92a674e471f7fd0f7b2775b509fe1604] ITTOIA 2005 is for the time being appointed by the account manager to be responsible for securing the discharge of the duties prescribed by paragraph (5) which fall to be discharged by the account manager, and
 - (b) his identity and the fact of his appointment have been notified to the Board by the account manager.
 
 (3) The second requirement specified in this regulation is that there are for the time being other arrangements with the Board for a person other than the account manager to secure the discharge of such duties.
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92a674e471f7fd0f7b2775b509fe1604]: Textual amendment: Words in reg. 16(2)(a) substituted (6.4.2008) by [The Individual Savings Account (Amendment) Regulations 2008 (S.I. 2008/704)](https://www.legislation.gov.uk/uksi/2008/704), [regs. 1](https://www.legislation.gov.uk/uksi/2008/704/regulation/1), [11](https://www.legislation.gov.uk/uksi/2008/704/regulation/11)
+[^c-92a674e471f7fd0f7b2775b509fe1604]: Textual amendment: Words in reg. 16(2)(a) substituted (6.4.2008) by [The Individual Savings Account (Amendment) Regulations 2008 (S.I. 2008/704)](https://www.legislation.gov.uk/uksi/2008/704), [regs. 1](https://www.legislation.gov.uk/uksi/2008/704/regulation/1), [11](https://www.legislation.gov.uk/uksi/2008/704/regulation/11)

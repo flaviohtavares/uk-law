@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Insertion of new regulations Q8 to Q17[^key-b6830855f3d25096792cb1d28f8120ac]
+## 51. Insertion of new regulations Q8 to Q17[^c-b6830855f3d25096792cb1d28f8120ac]
 
 *Extent: E+W*
 
@@ -310,4 +310,4 @@ After regulation Q7 (part payment for additional service or unreduced retirement
 
 ## Annotations
 
-[^key-b6830855f3d25096792cb1d28f8120ac]: Commencement: Reg. 51 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-b6830855f3d25096792cb1d28f8120ac]: Commencement: Reg. 51 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

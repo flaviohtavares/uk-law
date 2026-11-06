@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42A. Professional traineeships carried out in other relevant European States, etc.[^key-5394b6752891865b247488929df15ff3]
+## 42A. Professional traineeships carried out in other relevant European States, etc.[^c-5394b6752891865b247488929df15ff3]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5394b6752891865b247488929df15ff3]: Textual amendment: [Art. 42A](https://www.legislation.gov.uk/uksi/2010/231/article/42A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/28) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5394b6752891865b247488929df15ff3]: Textual amendment: [Art. 42A](https://www.legislation.gov.uk/uksi/2010/231/article/42A) omitted (31.12.2020) by virtue of [The European Qualifications (Health and Social Care Professions) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/593)](https://www.legislation.gov.uk/uksi/2019/593), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/593/regulation/1/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/paragraph/28) (with [reg. 12A](https://www.legislation.gov.uk/uksi/2019/593/regulation/12A), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/uksi/2019/593/schedule/2/part/2)) (as amended by [S.I. 2020/1394](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 4](https://www.legislation.gov.uk/uksi/2020/1394/regulation/4), [10(3)-(7)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/10/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

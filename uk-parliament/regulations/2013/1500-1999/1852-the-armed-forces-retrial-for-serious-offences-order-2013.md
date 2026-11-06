@@ -46,11 +46,11 @@ In accordance with section 373(3)(b) of the Armed Forces Act 2006, a draft of th
 
 ## PART 1 — Preliminary
 
-### 1. Citation and commencement[^key-d10cf9cf578771c76bf4ab72cc353a00]
+### 1. Citation and commencement[^c-d10cf9cf578771c76bf4ab72cc353a00]
 
 This Order may be cited as the Armed Forces (Retrial for Serious Offences) Order 2013 and shall come into force on 1st August 2013.
 
-### 2. Interpretation[^key-8d3e642582f817950edd141a5f4de713]
+### 2. Interpretation[^c-8d3e642582f817950edd141a5f4de713]
 
 (1) In this Order—
 
@@ -74,7 +74,7 @@ This Order may be cited as the Armed Forces (Retrial for Serious Offences) Order
 
 ## PART 2 — Cases that may be retried
 
-### 3. Cases that may be retried[^key-76ffa2a3173a0f561ef70231af144234]
+### 3. Cases that may be retried[^c-76ffa2a3173a0f561ef70231af144234]
 
 (1) This Order applies where a person has been acquitted of a qualifying offence in proceedings—
 
@@ -102,7 +102,7 @@ This Order may be cited as the Armed Forces (Retrial for Serious Offences) Order
 
 ## PART 3 — Investigation and arrest
 
-### 4. Authorisation of investigations[^key-7549cc0bdd181ccdc7c6162d34d60716]
+### 4. Authorisation of investigations[^c-7549cc0bdd181ccdc7c6162d34d60716]
 
 (1) This article applies to the investigation of the commission of a qualifying offence by a person acquitted of the qualifying offence in proceedings within article 3(1).
 
@@ -132,7 +132,7 @@ unless the Director has given his written consent to the investigation (whether 
 
 (7) This article is subject to article 5.
 
-### 5. Urgent investigative steps[^key-d0c21e806ed27207420cb6732b3c90cc]
+### 5. Urgent investigative steps[^c-d0c21e806ed27207420cb6732b3c90cc]
 
 (1) Article 4 does not prevent a service policeman from taking any action for the purposes of an investigation if—
 
@@ -169,7 +169,7 @@ unless the Director has given his written consent to the investigation (whether 
 - (a) new evidence had been obtained which would be relevant to an application under article 8(1) in respect of the qualifying offence to which the investigation relates; or
 - (b) the service policeman who took the action had reasonable grounds for believing that such new evidence was likely to be obtained as a result of the investigation.
 
-### 6. Arrest under warrant[^key-46f7f2b343380fe743803cb7359506ae]
+### 6. Arrest under warrant[^c-46f7f2b343380fe743803cb7359506ae]
 
 (1) Where article 4 applies to the investigation of the commission of a qualifying offence, the acquitted person may not be arrested for the qualifying offence except under a warrant issued in accordance with this article.
 
@@ -196,7 +196,7 @@ unless the Director has given his written consent to the investigation (whether 
 
 ## PART 4 — Referral and Charge
 
-### 7. Referral and charge[^key-bc0c69051cd10074c2d66ccb62870fe1]
+### 7. Referral and charge[^c-bc0c69051cd10074c2d66ccb62870fe1]
 
 (1) This article applies where a service policeman has under article 4 investigated the commission of a qualifying offence.
 
@@ -237,7 +237,7 @@ unless the Director has given his written consent to the investigation (whether 
 (11) In this article—
 
 - “case papers” means—
-  - (a) all reports relating to the case written by a service police force or the tri-service serious crime unit[^key-2cafa6e0d9bbf03b10cc26f99b8dc4cb];
+  - (a) all reports relating to the case written by a service police force or the tri-service serious crime unit[^c-2cafa6e0d9bbf03b10cc26f99b8dc4cb];
   - (b) the following other papers relating to the case obtained by a service police force or the tri-service serious crime unit—
     - (i) all witness statements;
     - (ii) all other records of evidence, including a summary or transcript of all tape-recorded interviews;
@@ -251,7 +251,7 @@ unless the Director has given his written consent to the investigation (whether 
 
 ## PART 5 — Application for Retrial
 
-### 8. Application to Court Martial Appeal Court[^key-b334992e5ff52ce21c0054aa5b41424f]
+### 8. Application to Court Martial Appeal Court[^c-b334992e5ff52ce21c0054aa5b41424f]
 
 (1) Where an acquitted person has been charged with a qualifying offence, a prosecuting officer may apply to the Court Martial Appeal Court for an order—
 
@@ -268,7 +268,7 @@ unless the Director has given his written consent to the investigation (whether 
 
 (4) Not more than one application may be made under paragraph (1) in relation to an acquittal.
 
-### 9. Determination by the Court Martial Appeal Court[^key-565b52b919a802967d98327302ff77a1]
+### 9. Determination by the Court Martial Appeal Court[^c-565b52b919a802967d98327302ff77a1]
 
 (1) On an application under article 8(1) the Court Martial Appeal Court—
 
@@ -281,7 +281,7 @@ unless the Director has given his written consent to the investigation (whether 
 
 (4) If the court makes the order under paragraph (1)(a), the registrar must as soon as practicable serve notice on the court administration officer.
 
-### 10. New and compelling evidence[^key-5adefb5ac72ebeb4dcb6bdd2dd74b458]
+### 10. New and compelling evidence[^c-5adefb5ac72ebeb4dcb6bdd2dd74b458]
 
 (1) The requirements of this article are met if there is new and compelling evidence against the acquitted person in relation to the qualifying offence.
 
@@ -297,7 +297,7 @@ unless the Director has given his written consent to the investigation (whether 
 
 (5) For the purposes of this article, it is irrelevant whether any evidence would have been admissible in earlier proceedings against the acquitted person.
 
-### 11. Interests of justice[^key-1ed307c708d163245371b4a58aa940b7]
+### 11. Interests of justice[^c-1ed307c708d163245371b4a58aa940b7]
 
 (1) The requirements of this article are met if in all the circumstances it is in the interests of justice for the court to make the order under article 9(1)(a).
 
@@ -316,7 +316,7 @@ unless the Director has given his written consent to the investigation (whether 
 - (b) references to a service policeman include a provost officer within the meaning of the Army Act 1955, Air Force Act 1955 or Naval Discipline Act 1957, and any person exercising authority on behalf of such an officer;
 - (c) references to the Service Prosecuting Authority include a prosecuting authority within the meaning of the Army Act 1955, Air Force Act 1955 or Naval Discipline Act 1957, and any officer appointed by a prosecuting authority as a prosecuting officer under any of those Acts.
 
-### 12. Notice of application to the Court Martial Appeal Court[^key-eba2c7f2145db046689380f2b2b13218]
+### 12. Notice of application to the Court Martial Appeal Court[^c-eba2c7f2145db046689380f2b2b13218]
 
 (1) A prosecuting officer who wishes to make an application under article 8(1) must give notice of the application to the registrar in the form, or in substantially the same form as, set out as Form 1 in Schedule 2.
 
@@ -336,7 +336,7 @@ unless the Director has given his written consent to the investigation (whether 
 
 (6) Paragraph (2) applies whether the acquitted person is in the United Kingdom or elsewhere, but the Court Martial Appeal Court may, on application by the prosecuting officer, extend the time for service under that paragraph if it considers it necessary to do so because of that person’s absence from the United Kingdom.
 
-### 13. Hearing[^key-14c0cd62d9c8e3705502a05c7110c9b8]
+### 13. Hearing[^c-14c0cd62d9c8e3705502a05c7110c9b8]
 
 (1) The Court Martial Appeal Court must consider an application under article 8(1) at a hearing.
 
@@ -355,7 +355,7 @@ unless the Director has given his written consent to the investigation (whether 
 
 (7) In paragraph (3) “live link” means an arrangement by which a person, when not in the place where the hearing is being held, is able to see and hear, and be seen and heard by, the court during the hearing (and for this purpose any impairment of eyesight or hearing is to be disregarded).
 
-### 14. Evidence[^key-db5df58bcc7be591fc05ed0b5d8aaddb]
+### 14. Evidence[^c-db5df58bcc7be591fc05ed0b5d8aaddb]
 
 (1) For the purposes of an application under article 8(1), the Court Martial Appeal Court may, if it thinks it necessary or expedient in the interests of justice—
 
@@ -368,7 +368,7 @@ unless the Director has given his written consent to the investigation (whether 
 
 (4) If the Court Martial Appeal Court makes an order under paragraph (1) on its own motion or on an application from the prosecuting officer, it must serve notice and reasons for that order on all parties to the application under article 8(1).
 
-### 15. Appeals to the Supreme Court[^key-c8a4161a0535a0974b1029095836f6d5]
+### 15. Appeals to the Supreme Court[^c-c8a4161a0535a0974b1029095836f6d5]
 
 (1) The 1968 Act is amended as follows—
 
@@ -382,7 +382,7 @@ unless the Director has given his written consent to the investigation (whether 
 
 (4) In section 40 (application for leave to appeal), in subsection (2) after “accused” there is inserted “or, in the case of an appeal under section 39(1A), by the prosecuting officer”.
 
-### 16. Restrictions on publication in the interests of justice[^key-91e36970e8d430fb26b285e09d40a1e6]
+### 16. Restrictions on publication in the interests of justice[^c-91e36970e8d430fb26b285e09d40a1e6]
 
 (1) Where it appears to the Court Martial Appeal Court that the inclusion of any matter in a publication would give rise to a substantial risk of prejudice to the administration of justice in a retrial, the court may order that the matter is not to be included in any publication while the order has effect.
 
@@ -418,7 +418,7 @@ unless the Director has given his written consent to the investigation (whether 
 
 (11) Nothing in this article affects any prohibition or restriction by virtue of any other enactment on the inclusion of any matter in a publication or any power, under an enactment or otherwise, to impose such a prohibition or restriction.
 
-### 17. Variation or revocation of restrictions on publication[^key-f1ceb3100feef34c1dc0e668d4f0b9a5]
+### 17. Variation or revocation of restrictions on publication[^c-f1ceb3100feef34c1dc0e668d4f0b9a5]
 
 (1) The Court Martial Appeal Court may at any time, of its own motion or on a written application by the Director or the acquitted person, vary or revoke an order under article 16(1).
 
@@ -428,7 +428,7 @@ unless the Director has given his written consent to the investigation (whether 
 
 (4) If the Court Martial Appeal Court varies or revokes an order for restrictions on publication of its own motion or on an application, it must serve notice and reasons for that order on all parties, unless paragraph (3) applies.
 
-### 18. Offences in connection with publication restrictions[^key-0f9fcef19bfa1bb3d0f933827dfafd46]
+### 18. Offences in connection with publication restrictions[^c-0f9fcef19bfa1bb3d0f933827dfafd46]
 
 (1) This article applies if—
 
@@ -468,7 +468,7 @@ the officer as well as the body corporate is guilty of the offence and liable to
 
 ## PART 6 — Retrial
 
-### 19. Retrial[^key-9b3762a5d500757fa9c397ae6e0f4f7a]
+### 19. Retrial[^c-9b3762a5d500757fa9c397ae6e0f4f7a]
 
 (1) Where a person is tried pursuant to an order under article 9(1)(a), the trial must be on a charge specified in a direction of the Court Martial Appeal Court.
 
@@ -500,7 +500,7 @@ the officer as well as the body corporate is guilty of the offence and liable to
 
 ## PART 7 — Custody
 
-### 20. Custody before application under article 8(1)[^key-cb2c270978cc5c4863fb74d14f49ed0f]
+### 20. Custody before application under article 8(1)[^c-cb2c270978cc5c4863fb74d14f49ed0f]
 
 (1) Where a person charged in accordance with article 7(10)(a) is not kept in service custody, his commanding officer must give him notice to attend before a judge advocate —
 
@@ -543,7 +543,7 @@ as the commanding officer decides.
 
 (9) An application under paragraph (8) must be served on the court administration officer and the acquitted person.
 
-### 21. Custody before hearing under article 13(1)[^key-0313aa6664ee30e366b9527a619985bc]
+### 21. Custody before hearing under article 13(1)[^c-0313aa6664ee30e366b9527a619985bc]
 
 (1) This article applies where notice of an application is given under article 12(1).
 
@@ -580,7 +580,7 @@ as the commanding officer decides.
 - (d) Good Friday; and
 - (e) any day which is a bank holiday under the Banking and Financial Dealings Act 1971 in the part of the United Kingdom where the person is for the time being detained.
 
-### 22. Provision supplementary to articles 20 and 21[^key-e80425ec6611f0d47e938f5fbb8cf9f5]
+### 22. Provision supplementary to articles 20 and 21[^c-e80425ec6611f0d47e938f5fbb8cf9f5]
 
 (1) Where a judge advocate authorises the keeping of a person in service custody under article 20(4) or 21(8)—
 
@@ -618,7 +618,7 @@ shall apply as they apply to the power of a judge advocate by order under sectio
 
 (9) In paragraph (5)(b) case papers has the same meaning as in article 7(11).
 
-### 23. Taking a person into service custody[^key-952e57649133684a892a6c92492c4f2c]
+### 23. Taking a person into service custody[^c-952e57649133684a892a6c92492c4f2c]
 
 (1) Where—
 
@@ -641,7 +641,7 @@ the judge advocate must order him to surrender himself forthwith to service cust
 - (d) Good Friday;
 - (e) any day which is a bank holiday under the Banking and Financial Dealings Act 1971[^f00018] in the part of the United Kingdom where the person is for the time being detained.
 
-### 24. Bail and custody during and after hearing[^key-bdf942f07449ba0682f4f7266abbfeb5]
+### 24. Bail and custody during and after hearing[^c-bdf942f07449ba0682f4f7266abbfeb5]
 
 (1) The Court Martial Appeal Court may, at any adjournment of a hearing under article 13(1)—
 
@@ -676,7 +676,7 @@ the court must order him to surrender forthwith to custody.
 
 (7) The Court Martial Appeal Court (Bail) Order 2009[^f00019] shall apply to orders made by the Court Martial Appeal Court under paragraph (2) as if they were orders made under that Order.
 
-### 25. Service custody after hearing where retrial ordered[^key-accdad43bf5433e529addd0334954f88]
+### 25. Service custody after hearing where retrial ordered[^c-accdad43bf5433e529addd0334954f88]
 
 (1) At a hearing at which the Court Martial Appeal Court makes an order for a person to be retried under article 9(1)(a) it may—
 
@@ -693,11 +693,11 @@ the court must order him to surrender forthwith to custody.
 
 ## PART 8 — Supplementary
 
-### 26. Service of documents[^key-32a496461f7b5e53e20abc4ec5347bc4]
+### 26. Service of documents[^c-32a496461f7b5e53e20abc4ec5347bc4]
 
 Rules made under section 49 of the 1968 Act[^f00020] (Rules of court) are to apply to the service of documents under this Part as if they were documents required to be served under those Rules.
 
-### 27. Functions of the Director[^key-56291cb044c5e949c2f09e416405dc4b]
+### 27. Functions of the Director[^c-56291cb044c5e949c2f09e416405dc4b]
 
 (1) Section 365(4) of the 2006 Act does not apply to the provisions of this Order.
 
@@ -708,7 +708,7 @@ Rules made under section 49 of the 1968 Act[^f00020] (Rules of court) are to app
 - (a) may relate to a specified prosecuting officer or to a prosecuting officer of a specified description; and
 - (b) may be general or relate to a specified function or specified circumstances.
 
-### 28. Powers exercisable by a single judge of the Court Martial Appeal Court[^key-2928f6d254fe674a1a4c7e28b6fbaa4d]
+### 28. Powers exercisable by a single judge of the Court Martial Appeal Court[^c-2928f6d254fe674a1a4c7e28b6fbaa4d]
 
 (1) The following powers under this Order may be exercised by a judge of the Court Martial Appeal Court in the same manner as they may be exercised by the Court Martial Appeal Court and subject to the same provisions—
 
@@ -722,7 +722,7 @@ Rules made under section 49 of the 1968 Act[^f00020] (Rules of court) are to app
 
 (3) Where a single judge exercises one of the powers set out in paragraph (1), the registrar must serve notice of the single judge’s decision on all parties to the application under article 8(1).
 
-### 29. Powers exercisable by the registrar[^key-bc9fe2968d7b0c223723fa1e6c076908]
+### 29. Powers exercisable by the registrar[^c-bc9fe2968d7b0c223723fa1e6c076908]
 
 (1) The registrar may require the Judge Advocate General, the judge advocate for any proceedings under this Order, or the court administration officer to furnish the Court Martial Appeal Court with any document (in addition to the record of proceedings) or information which the registrar considers the court may require for the purposes of exercising its jurisdiction under this Order.
 
@@ -737,7 +737,7 @@ Rules made under section 49 of the 1968 Act[^f00020] (Rules of court) are to app
 
 (4) Where the registrar has refused an application to exercise any of the powers referred to in paragraph (2), the applicant may have it determined by a judge of the Court Martial Appeal Court by serving a notice of renewal in the form set out as Form 6 in Schedule 2 within 14 days of the day on which notice of the registrar’s decision is served on the applicant, unless that period is extended by the Court Martial Appeal Court.
 
-### 30. Determination by the Court Martial Appeal Court[^key-6e3b58388272b4868d60cdeea0dfcefc]
+### 30. Determination by the Court Martial Appeal Court[^c-6e3b58388272b4868d60cdeea0dfcefc]
 
 (1) Where a judge of the Court Martial Appeal Court has refused an application to exercise any of the powers referred to in article 28, the applicant may have that application determined by the Court Martial Appeal Court by serving a notice of renewal in the form set out as Form 6 in Schedule 2.
 
@@ -745,7 +745,7 @@ Rules made under section 49 of the 1968 Act[^f00020] (Rules of court) are to app
 
 (3) If a notice under paragraph (1) is not served on the registrar within the period specified in paragraph (2) or such extended period as the Court Martial Appeal Court has allowed, the application must be treated as having been refused by the Court Martial Appeal Court.
 
-### 31. Abandonment of the application[^key-bbc97199441d9d5c6b5b9139889441d6]
+### 31. Abandonment of the application[^c-bbc97199441d9d5c6b5b9139889441d6]
 
 (1) An application under article 8(1) may be abandoned by the prosecuting officer before the hearing of that application by serving notice of abandonment in the form set out as Form 7 in Schedule 2 on the registrar and the acquitted person.
 
@@ -769,133 +769,133 @@ Article 2(1)(a)
 
 ### Offences against the Person
 
-#### 1. Murder[^key-98e267612f26a73d42929569ce598c73]
+#### 1. Murder[^c-98e267612f26a73d42929569ce598c73]
 
 Murder.
 
-#### 2. Attempted murder[^key-e94f30f0a0a6031947d55d7dc25fd25a]
+#### 2. Attempted murder[^c-e94f30f0a0a6031947d55d7dc25fd25a]
 
 An offence under section 1 of the Criminal Attempts Act 1981[^f00021] of attempting to commit murder.
 
-#### 3. Soliciting murder[^key-a2d17c5bec4393d209c7d4926184f14d]
+#### 3. Soliciting murder[^c-a2d17c5bec4393d209c7d4926184f14d]
 
 An offence under section 4 of the Offences against the Person Act 1861[^f00022].
 
-#### 4. Manslaughter[^key-4c8ee16fa9f21d22c4c7784337c3b20d]
+#### 4. Manslaughter[^c-4c8ee16fa9f21d22c4c7784337c3b20d]
 
 Manslaughter.
 
-#### 5. Kidnapping[^key-049f9e22486d93ce442abe119eea5e2e]
+#### 5. Kidnapping[^c-049f9e22486d93ce442abe119eea5e2e]
 
 Kidnapping.
 
 ### Sexual Offences
 
-#### 6. Rape[^key-b97d532190ccbe646906cae66d752713]
+#### 6. Rape[^c-b97d532190ccbe646906cae66d752713]
 
 An offence under section 1 of the Sexual Offences Act 1956[^f00023] or section 1 of the Sexual Offences Act 2003[^f00024].
 
-#### 7. Attempted rape[^key-29ae37d8d2adc6ac11f9cfbb0332f28c]
+#### 7. Attempted rape[^c-29ae37d8d2adc6ac11f9cfbb0332f28c]
 
 An offence under section 1 of the Criminal Attempts Act 1981 of attempting to commit an offence under section 1 of the Sexual Offences Act 1956 or section 1 of the Sexual Offences Act 2003.
 
-#### 8. Intercourse with a girl under thirteen[^key-2924fe9ce89f25589d23c23f47c34960]
+#### 8. Intercourse with a girl under thirteen[^c-2924fe9ce89f25589d23c23f47c34960]
 
 An offence under section 5 of the Sexual Offences Act 1956[^f00025].
 
-#### 9. Incest by a man with a girl under thirteen[^key-f3280a8d2ba17e8d6068993b82e58552]
+#### 9. Incest by a man with a girl under thirteen[^c-f3280a8d2ba17e8d6068993b82e58552]
 
 An offence under section 10 of the Sexual Offences Act 1956[^f00026] alleged to have been committed with a girl under thirteen.
 
-#### 10. Assault by penetration[^key-0e2bb132ab9d572b15996b1118b60f15]
+#### 10. Assault by penetration[^c-0e2bb132ab9d572b15996b1118b60f15]
 
 An offence under section 2 of the Sexual Offences Act 2003.
 
-#### 11. Causing a person to engage in sexual activity without consent[^key-22dd24a0959957d21f6b53672bd7cb84]
+#### 11. Causing a person to engage in sexual activity without consent[^c-22dd24a0959957d21f6b53672bd7cb84]
 
 An offence under section 4 of the Sexual Offences Act 2003 where it is alleged that the activity caused involved penetration within subsection (4)(a) to (d) of that section.
 
-#### 12. Rape of a child under thirteen[^key-27cc83f37f417e5ddeea42c362288120]
+#### 12. Rape of a child under thirteen[^c-27cc83f37f417e5ddeea42c362288120]
 
 An offence under section 5 of the Sexual Offences Act 2003.
 
-#### 13. Attempted rape of a child under thirteen[^key-6b0c5d6cfc01b3629774e65c6ce76d97]
+#### 13. Attempted rape of a child under thirteen[^c-6b0c5d6cfc01b3629774e65c6ce76d97]
 
 An offence under section 1 of the Criminal Attempts Act 1981 of attempting to commit an offence under section 5 of the Sexual Offences Act 2003.
 
-#### 14. Assault of a child under thirteen by penetration[^key-93848682f7926a68842698e2a287c506]
+#### 14. Assault of a child under thirteen by penetration[^c-93848682f7926a68842698e2a287c506]
 
 An offence under section 6 of the Sexual Offences Act 2003.
 
-#### 15. Causing a child under thirteen to engage in sexual activity[^key-b61ebc65f55990b0531c4c976b3bbc00]
+#### 15. Causing a child under thirteen to engage in sexual activity[^c-b61ebc65f55990b0531c4c976b3bbc00]
 
 An offence under section 8 of the Sexual Offences Act 2003 where it is alleged that an activity involving penetration within subsection (2)(a) to (d) of that section was caused.
 
-#### 16. Sexual activity with a person with a mental disorder impeding choice[^key-bcea61bb375bd7a67d929e20a697f70a]
+#### 16. Sexual activity with a person with a mental disorder impeding choice[^c-bcea61bb375bd7a67d929e20a697f70a]
 
 An offence under section 30 of the Sexual Offences Act 2003 where it is alleged that the touching involved penetration within subsection (3)(a) to (d) of that section.
 
-#### 17. Causing a person with a mental disorder impeding choice to engage in sexual activity[^key-d4b2dafb5a6052d67b50ad8ad12d4a58]
+#### 17. Causing a person with a mental disorder impeding choice to engage in sexual activity[^c-d4b2dafb5a6052d67b50ad8ad12d4a58]
 
 An offence under section 31 of the Sexual Offences Act 2003 where it is alleged that an activity involving penetration within subsection (3)(a) to (d) of that section was caused.
 
 ### Drugs Offences
 
-#### 18. Unlawful importation of Class A drug[^key-025d76d924a97bc27245b14d76c78c98]
+#### 18. Unlawful importation of Class A drug[^c-025d76d924a97bc27245b14d76c78c98]
 
 An offence under section 50(2) of the Customs and Excise Management Act 1979[^f00027] alleged to have been committed in respect of a Class A drug (as defined by section 2 of the Misuse of Drugs Act 1971).
 
-#### 19. Unlawful exportation of Class A drug[^key-d25543af88ef9de3c110896018bcee33]
+#### 19. Unlawful exportation of Class A drug[^c-d25543af88ef9de3c110896018bcee33]
 
 An offence under section 68(2) of the Customs and Excise Management Act 1979[^f00028] alleged to have been committed in respect of a Class A drug (as defined by section 2 of the Misuse of Drugs Act 1971).
 
-#### 20. Fraudulent evasion in respect of Class A drug[^key-385f5d6cce7e867c1085a62892b426bf]
+#### 20. Fraudulent evasion in respect of Class A drug[^c-385f5d6cce7e867c1085a62892b426bf]
 
 An offence under section 170(1) or (2) of the Customs and Excise Management Act 1979[^f00029] alleged to have been committed in respect of a Class A drug (as defined by section 2 of the Misuse of Drugs Act 1971).
 
-#### 21. Producing or being concerned in production of Class A drug[^key-5f9414630d55c2e28d008afece151b60]
+#### 21. Producing or being concerned in production of Class A drug[^c-5f9414630d55c2e28d008afece151b60]
 
 An offence under section 4(2) of the Misuse of Drugs Act 1971 alleged to have been committed in relation to a Class A drug (as defined by section 2 of that Act).
 
 ### Criminal Damage Offences
 
-#### 22. Arson endangering life[^key-4c658d408f853c6889e34240562788be]
+#### 22. Arson endangering life[^c-4c658d408f853c6889e34240562788be]
 
 An offence under section 1(2) of the Criminal Damage Act 1971[^f00030] alleged to have been committed by destroying or damaging property by fire.
 
-#### 23. Causing explosion likely to endanger life or property[^key-922ac85ff7a30f062281d8d1aa7786c6]
+#### 23. Causing explosion likely to endanger life or property[^c-922ac85ff7a30f062281d8d1aa7786c6]
 
 An offence under section 2 of the Explosive Substances Act 1883[^f00031].
 
-#### 24. Intent or conspiracy to cause explosion likely to endanger life or property[^key-ac7577fdeb666ec1436cc7969cfdaca7]
+#### 24. Intent or conspiracy to cause explosion likely to endanger life or property[^c-ac7577fdeb666ec1436cc7969cfdaca7]
 
 An offence under section 3(1)(a) of the Explosive Substances Act 1883[^f00032].
 
 ### War Crimes and Terrorism
 
-#### 25. Genocide, crimes against humanity and war crimes[^key-28b9e54ae2e05d33eb6daf858a8f0bff]
+#### 25. Genocide, crimes against humanity and war crimes[^c-28b9e54ae2e05d33eb6daf858a8f0bff]
 
 An offence under section 51 or 52 of the International Criminal Court Act 2001[^f00033].
 
-#### 26. Grave breaches of the Geneva Conventions[^key-d58f2dfa71156bcc604018529cba35fc]
+#### 26. Grave breaches of the Geneva Conventions[^c-d58f2dfa71156bcc604018529cba35fc]
 
 An offence under section 1 of the Geneva Conventions Act 1957[^f00034].
 
-#### 27. Directing terrorist organisation[^key-36be5e5eb6ac34a070f39766f4b47ed8]
+#### 27. Directing terrorist organisation[^c-36be5e5eb6ac34a070f39766f4b47ed8]
 
 An offence under section 56 of the Terrorism Act 2000[^f00035].
 
-#### 28. Hostage-taking[^key-9843bf1fd19a28a8bd132d1878fdc2a2]
+#### 28. Hostage-taking[^c-9843bf1fd19a28a8bd132d1878fdc2a2]
 
 An offence under section 1 of the Taking of Hostages Act 1982[^f00036].
 
 ### Conspiracy
 
-#### 29. Conspiracy[^key-08ec2a0cc1b5ca612b9e2d90339c0ec7]
+#### 29. Conspiracy[^c-08ec2a0cc1b5ca612b9e2d90339c0ec7]
 
 An offence under section 1 of the Criminal Law Act 1977[^f00037] of conspiracy to commit an offence listed in this Schedule.
 
-## SCHEDULE 2 — Forms[^key-800209208e078a4a50943faf8e7e9fc8]
+## SCHEDULE 2 — Forms[^c-800209208e078a4a50943faf8e7e9fc8]
 
 EXPLANATORY NOTE
 
@@ -935,9 +935,9 @@ Article 31 provides for a prosecuting officer to be able to abandon an applicati
 
 [^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52). Section 323 is extended by section 94 of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-d10cf9cf578771c76bf4ab72cc353a00]: Commencement: Art. 1 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-d10cf9cf578771c76bf4ab72cc353a00]: Commencement: Art. 1 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-8d3e642582f817950edd141a5f4de713]: Commencement: Art. 2 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-8d3e642582f817950edd141a5f4de713]: Commencement: Art. 2 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00002]: Footnote: [1968 c. 20](https://www.legislation.gov.uk/ukpga/1968/20). The short title of this Act was amended by paragraphs 1 and 53 of Schedule 8 to the 2006 Act.
 
@@ -951,7 +951,7 @@ Article 31 provides for a prosecuting officer to be able to abandon an applicati
 
 [^f00007]: Footnote: [1957 c. 53](https://www.legislation.gov.uk/ukpga/1957/53) (repealed by section 378(2) of, and Schedule 17 to, the 2006 Act).
 
-[^key-76ffa2a3173a0f561ef70231af144234]: Commencement: Art. 3 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-76ffa2a3173a0f561ef70231af144234]: Commencement: Art. 3 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00008]: Footnote: Section 12(3) was inserted by paragraphs 1 and 10(b) of Schedule 8 to the 2006 Act.
 
@@ -963,170 +963,170 @@ Article 31 provides for a prosecuting officer to be able to abandon an applicati
 
 [^f00012]: Footnote: [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059).
 
-[^key-7549cc0bdd181ccdc7c6162d34d60716]: Commencement: Art. 4 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-7549cc0bdd181ccdc7c6162d34d60716]: Commencement: Art. 4 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-d0c21e806ed27207420cb6732b3c90cc]: Commencement: Art. 5 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-d0c21e806ed27207420cb6732b3c90cc]: Commencement: Art. 5 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-46f7f2b343380fe743803cb7359506ae]: Commencement: Art. 6 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-46f7f2b343380fe743803cb7359506ae]: Commencement: Art. 6 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00013]: Footnote: Section 67 was amended by paragraph 2 of Schedule 3 to the Armed Forces Act [2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18).
 
-[^key-bc0c69051cd10074c2d66ccb62870fe1]: Commencement: Art. 7 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-bc0c69051cd10074c2d66ccb62870fe1]: Commencement: Art. 7 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00014]: Footnote: Section 125 was amended by paragraph 6 of Schedule 3 to the Armed Forces Act [2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18).
 
 [^f00015]: Footnote: The current Court Martial rules are contained in the Armed Forces (Court Martial) Rules 2009 ([S.I. 2009/2041](https://www.legislation.gov.uk/uksi/2009/2041)).
 
-[^key-2cafa6e0d9bbf03b10cc26f99b8dc4cb]: Textual amendment: Words in [art. 7(11)](https://www.legislation.gov.uk/uksi/2013/1852/article/7/11) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/16/2)
+[^c-2cafa6e0d9bbf03b10cc26f99b8dc4cb]: Textual amendment: Words in [art. 7(11)](https://www.legislation.gov.uk/uksi/2013/1852/article/7/11) inserted (5.12.2022) by [The Armed Forces (Tri-Service Serious Crime Unit) (Consequential Amendments) Regulations 2022 (S.I. 2022/1051)](https://www.legislation.gov.uk/uksi/2022/1051), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/1/2), [16(2)](https://www.legislation.gov.uk/uksi/2022/1051/regulation/16/2)
 
 [^f00016]: Footnote: [S.I.2009/989](https://www.legislation.gov.uk/uksi/2009/989).
 
-[^key-b334992e5ff52ce21c0054aa5b41424f]: Commencement: Art. 8 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-b334992e5ff52ce21c0054aa5b41424f]: Commencement: Art. 8 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-565b52b919a802967d98327302ff77a1]: Commencement: Art. 9 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-565b52b919a802967d98327302ff77a1]: Commencement: Art. 9 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-5adefb5ac72ebeb4dcb6bdd2dd74b458]: Commencement: Art. 10 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-5adefb5ac72ebeb4dcb6bdd2dd74b458]: Commencement: Art. 10 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-1ed307c708d163245371b4a58aa940b7]: Commencement: Art. 11 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-1ed307c708d163245371b4a58aa940b7]: Commencement: Art. 11 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-eba2c7f2145db046689380f2b2b13218]: Commencement: Art. 12 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-eba2c7f2145db046689380f2b2b13218]: Commencement: Art. 12 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-14c0cd62d9c8e3705502a05c7110c9b8]: Commencement: Art. 13 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-14c0cd62d9c8e3705502a05c7110c9b8]: Commencement: Art. 13 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-db5df58bcc7be591fc05ed0b5d8aaddb]: Commencement: Art. 14 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-db5df58bcc7be591fc05ed0b5d8aaddb]: Commencement: Art. 14 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-c8a4161a0535a0974b1029095836f6d5]: Commencement: Art. 15 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-c8a4161a0535a0974b1029095836f6d5]: Commencement: Art. 15 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-91e36970e8d430fb26b285e09d40a1e6]: Commencement: Art. 16 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-91e36970e8d430fb26b285e09d40a1e6]: Commencement: Art. 16 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-f1ceb3100feef34c1dc0e668d4f0b9a5]: Commencement: Art. 17 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-f1ceb3100feef34c1dc0e668d4f0b9a5]: Commencement: Art. 17 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-0f9fcef19bfa1bb3d0f933827dfafd46]: Commencement: Art. 18 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-0f9fcef19bfa1bb3d0f933827dfafd46]: Commencement: Art. 18 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-9b3762a5d500757fa9c397ae6e0f4f7a]: Commencement: Art. 19 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-9b3762a5d500757fa9c397ae6e0f4f7a]: Commencement: Art. 19 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-cb2c270978cc5c4863fb74d14f49ed0f]: Commencement: Art. 20 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-cb2c270978cc5c4863fb74d14f49ed0f]: Commencement: Art. 20 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00017]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-0313aa6664ee30e366b9527a619985bc]: Commencement: Art. 21 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-0313aa6664ee30e366b9527a619985bc]: Commencement: Art. 21 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-e80425ec6611f0d47e938f5fbb8cf9f5]: Commencement: Art. 22 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-e80425ec6611f0d47e938f5fbb8cf9f5]: Commencement: Art. 22 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-952e57649133684a892a6c92492c4f2c]: Commencement: Art. 23 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-952e57649133684a892a6c92492c4f2c]: Commencement: Art. 23 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00018]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-bdf942f07449ba0682f4f7266abbfeb5]: Commencement: Art. 24 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-bdf942f07449ba0682f4f7266abbfeb5]: Commencement: Art. 24 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00019]: Footnote: [S.I. 2009/992](https://www.legislation.gov.uk/uksi/2009/992).
 
-[^key-accdad43bf5433e529addd0334954f88]: Commencement: Art. 25 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-accdad43bf5433e529addd0334954f88]: Commencement: Art. 25 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-32a496461f7b5e53e20abc4ec5347bc4]: Commencement: Art. 26 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-32a496461f7b5e53e20abc4ec5347bc4]: Commencement: Art. 26 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00020]: Footnote: Section 49 was amended by paragraph 9 of Schedule 1 to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 
-[^key-56291cb044c5e949c2f09e416405dc4b]: Commencement: Art. 27 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-56291cb044c5e949c2f09e416405dc4b]: Commencement: Art. 27 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-2928f6d254fe674a1a4c7e28b6fbaa4d]: Commencement: Art. 28 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-2928f6d254fe674a1a4c7e28b6fbaa4d]: Commencement: Art. 28 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-bc9fe2968d7b0c223723fa1e6c076908]: Commencement: Art. 29 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-bc9fe2968d7b0c223723fa1e6c076908]: Commencement: Art. 29 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-6e3b58388272b4868d60cdeea0dfcefc]: Commencement: Art. 30 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-6e3b58388272b4868d60cdeea0dfcefc]: Commencement: Art. 30 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-bbc97199441d9d5c6b5b9139889441d6]: Commencement: Art. 31 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-bbc97199441d9d5c6b5b9139889441d6]: Commencement: Art. 31 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-98e267612f26a73d42929569ce598c73]: Commencement: Sch. 1 para. 1 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-98e267612f26a73d42929569ce598c73]: Commencement: Sch. 1 para. 1 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-e94f30f0a0a6031947d55d7dc25fd25a]: Commencement: Sch. 1 para. 2 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-e94f30f0a0a6031947d55d7dc25fd25a]: Commencement: Sch. 1 para. 2 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00021]: Footnote: [1981 c. 47](https://www.legislation.gov.uk/ukpga/1981/47). Section 1 was amended by section 7(3) of the Computer Misuse Act [1990 (c. 18)](https://www.legislation.gov.uk/ukpga/1990/18) and by paragraph 58 of Schedule 21 to the Coroners and Justice Act [2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25).
 
-[^key-a2d17c5bec4393d209c7d4926184f14d]: Commencement: Sch. 1 para. 3 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-a2d17c5bec4393d209c7d4926184f14d]: Commencement: Sch. 1 para. 3 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00022]: Footnote: [1861 c. 100](https://www.legislation.gov.uk/ukpga/1861/100). Section 4 was amended by section 5(10) of, and Schedule 13 to, the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45).
 
-[^key-4c8ee16fa9f21d22c4c7784337c3b20d]: Commencement: Sch. 1 para. 4 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-4c8ee16fa9f21d22c4c7784337c3b20d]: Commencement: Sch. 1 para. 4 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-049f9e22486d93ce442abe119eea5e2e]: Commencement: Sch. 1 para. 5 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-049f9e22486d93ce442abe119eea5e2e]: Commencement: Sch. 1 para. 5 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-b97d532190ccbe646906cae66d752713]: Commencement: Sch. 1 para. 6 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-b97d532190ccbe646906cae66d752713]: Commencement: Sch. 1 para. 6 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00023]: Footnote: [1956 c. 69](https://www.legislation.gov.uk/ukpga/1956/69). Section 1 was repealed by paragraph 11(a) of Schedule 6 to the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42).
 
 [^f00024]: Footnote: [2003 c. 42](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-29ae37d8d2adc6ac11f9cfbb0332f28c]: Commencement: Sch. 1 para. 7 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-29ae37d8d2adc6ac11f9cfbb0332f28c]: Commencement: Sch. 1 para. 7 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-2924fe9ce89f25589d23c23f47c34960]: Commencement: Sch. 1 para. 8 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-2924fe9ce89f25589d23c23f47c34960]: Commencement: Sch. 1 para. 8 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00025]: Footnote: Section 5 was repealed by paragraph 11(a) of Schedule 6 to the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-f3280a8d2ba17e8d6068993b82e58552]: Commencement: Sch. 1 para. 9 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-f3280a8d2ba17e8d6068993b82e58552]: Commencement: Sch. 1 para. 9 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00026]: Footnote: Section 10 was repealed by paragraph 11(a) of Schedule 6 to the Sexual Offences Act [2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42).
 
-[^key-0e2bb132ab9d572b15996b1118b60f15]: Commencement: Sch. 1 para. 10 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-0e2bb132ab9d572b15996b1118b60f15]: Commencement: Sch. 1 para. 10 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-22dd24a0959957d21f6b53672bd7cb84]: Commencement: Sch. 1 para. 11 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-22dd24a0959957d21f6b53672bd7cb84]: Commencement: Sch. 1 para. 11 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-27cc83f37f417e5ddeea42c362288120]: Commencement: Sch. 1 para. 12 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-27cc83f37f417e5ddeea42c362288120]: Commencement: Sch. 1 para. 12 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-6b0c5d6cfc01b3629774e65c6ce76d97]: Commencement: Sch. 1 para. 13 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-6b0c5d6cfc01b3629774e65c6ce76d97]: Commencement: Sch. 1 para. 13 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-93848682f7926a68842698e2a287c506]: Commencement: Sch. 1 para. 14 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-93848682f7926a68842698e2a287c506]: Commencement: Sch. 1 para. 14 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-b61ebc65f55990b0531c4c976b3bbc00]: Commencement: Sch. 1 para. 15 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-b61ebc65f55990b0531c4c976b3bbc00]: Commencement: Sch. 1 para. 15 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-bcea61bb375bd7a67d929e20a697f70a]: Commencement: Sch. 1 para. 16 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-bcea61bb375bd7a67d929e20a697f70a]: Commencement: Sch. 1 para. 16 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-d4b2dafb5a6052d67b50ad8ad12d4a58]: Commencement: Sch. 1 para. 17 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-d4b2dafb5a6052d67b50ad8ad12d4a58]: Commencement: Sch. 1 para. 17 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-025d76d924a97bc27245b14d76c78c98]: Commencement: Sch. 1 para. 18 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-025d76d924a97bc27245b14d76c78c98]: Commencement: Sch. 1 para. 18 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00027]: Footnote: [1979 c. 2](https://www.legislation.gov.uk/ukpga/1979/2). Section 50(2) was amended by section 114(1) of the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-d25543af88ef9de3c110896018bcee33]: Commencement: Sch. 1 para. 19 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-d25543af88ef9de3c110896018bcee33]: Commencement: Sch. 1 para. 19 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00028]: Footnote: Section 68(2) was amended by section 114(1) of the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-385f5d6cce7e867c1085a62892b426bf]: Commencement: Sch. 1 para. 20 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-385f5d6cce7e867c1085a62892b426bf]: Commencement: Sch. 1 para. 20 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00029]: Footnote: Section 170(1) and (2) were amended by section 114(1) of the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-5f9414630d55c2e28d008afece151b60]: Commencement: Sch. 1 para. 21 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-5f9414630d55c2e28d008afece151b60]: Commencement: Sch. 1 para. 21 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
-[^key-4c658d408f853c6889e34240562788be]: Commencement: Sch. 1 para. 22 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-4c658d408f853c6889e34240562788be]: Commencement: Sch. 1 para. 22 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00030]: Footnote: [1971 c. 48](https://www.legislation.gov.uk/ukpga/1971/48).
 
-[^key-922ac85ff7a30f062281d8d1aa7786c6]: Commencement: Sch. 1 para. 23 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-922ac85ff7a30f062281d8d1aa7786c6]: Commencement: Sch. 1 para. 23 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00031]: Footnote: [1883 c. 3](https://www.legislation.gov.uk/ukpga/1883/3). Section 2 was substituted by section 7 of the Criminal Jurisdiction Act [1975 (c. 59)](https://www.legislation.gov.uk/ukpga/1975/59).
 
-[^key-ac7577fdeb666ec1436cc7969cfdaca7]: Commencement: Sch. 1 para. 24 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-ac7577fdeb666ec1436cc7969cfdaca7]: Commencement: Sch. 1 para. 24 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00032]: Footnote: Section 3(1)(a) was substituted by section 7 of the Criminal Jurisdiction Act [1975 (c. 59)](https://www.legislation.gov.uk/ukpga/1975/59) and amended by section 17(5) of the Terrorism Act [2006 (c.11)](https://www.legislation.gov.uk/ukpga/2006/11) and Schedule 12 to the Criminal Law Act [1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45).
 
-[^key-28b9e54ae2e05d33eb6daf858a8f0bff]: Commencement: Sch. 1 para. 25 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-28b9e54ae2e05d33eb6daf858a8f0bff]: Commencement: Sch. 1 para. 25 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00033]: Footnote: [2001 c. 17](https://www.legislation.gov.uk/ukpga/2001/17).
 
-[^key-d58f2dfa71156bcc604018529cba35fc]: Commencement: Sch. 1 para. 26 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-d58f2dfa71156bcc604018529cba35fc]: Commencement: Sch. 1 para. 26 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00034]: Footnote: [1957 c. 52](https://www.legislation.gov.uk/ukpga/1957/52). Section 1 has been amended by Part III of Schedule 3 to the Criminal Law Act [1967 (c. 58)](https://www.legislation.gov.uk/ukpga/1967/58), section 1 of the Geneva Conventions (Amendment) Act [1995 (c. 27)](https://www.legislation.gov.uk/ukpga/1995/27), section 70(1) of the International Criminal Court Act [2001 (c. 17)](https://www.legislation.gov.uk/ukpga/2001/17) and section 1 of the Geneva Conventions and United Nations Personnel (Protocols) Act [2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6).
 
-[^key-36be5e5eb6ac34a070f39766f4b47ed8]: Commencement: Sch. 1 para. 27 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-36be5e5eb6ac34a070f39766f4b47ed8]: Commencement: Sch. 1 para. 27 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00035]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11).
 
-[^key-9843bf1fd19a28a8bd132d1878fdc2a2]: Commencement: Sch. 1 para. 28 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-9843bf1fd19a28a8bd132d1878fdc2a2]: Commencement: Sch. 1 para. 28 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00036]: Footnote: [1982 c. 28](https://www.legislation.gov.uk/ukpga/1982/28).
 
-[^key-08ec2a0cc1b5ca612b9e2d90339c0ec7]: Commencement: Sch. 1 para. 29 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-08ec2a0cc1b5ca612b9e2d90339c0ec7]: Commencement: Sch. 1 para. 29 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
 
 [^f00037]: Footnote: [1977 c. 45](https://www.legislation.gov.uk/ukpga/1977/45). Section 1 has been amended by section 5(1) of the Criminal Attempts Act [1981 (c. 47)](https://www.legislation.gov.uk/ukpga/1981/47) and Schedule 1 to the Trade Union and Labour Relations (Consolidation) Act [1992 (c. 52)](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-800209208e078a4a50943faf8e7e9fc8]: Commencement: Sch. 2 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)
+[^c-800209208e078a4a50943faf8e7e9fc8]: Commencement: Sch. 2 in force at 1.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1852/article/1)

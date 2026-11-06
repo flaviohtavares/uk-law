@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 434B. Mandatory local authority meetings prior to withdrawal of child from school[^key-8cb9db9ccd22d7f01e703f6e101b3f27]
+## 434B. Mandatory local authority meetings prior to withdrawal of child from school[^c-8cb9db9ccd22d7f01e703f6e101b3f27]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cb9db9ccd22d7f01e703f6e101b3f27]: Textual amendment: Ss. 434A, 434B and cross-heading inserted (29.4.2026 but only for the purposes of making regulations) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/37/1), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)
+[^c-8cb9db9ccd22d7f01e703f6e101b3f27]: Textual amendment: Ss. 434A, 434B and cross-heading inserted (29.4.2026 but only for the purposes of making regulations) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 37(1)](https://www.legislation.gov.uk/ukpga/2026/21/section/37/1), [78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)[(5)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/5)

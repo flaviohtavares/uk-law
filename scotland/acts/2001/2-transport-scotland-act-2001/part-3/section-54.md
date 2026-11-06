@@ -25,8 +25,8 @@ summary: ''
 - (a) exemptions from charges; or
 - (b) the application of reduced rates of charges.
 
-(2) No part of a road shall[^key-f4726aa0843596e6b0ebc6ac9680cba0] be subject to charges imposed by more than one charging scheme at the same time.
+(2) No part of a road shall[^c-f4726aa0843596e6b0ebc6ac9680cba0] be subject to charges imposed by more than one charging scheme at the same time.
 
 ## Annotations
 
-[^key-f4726aa0843596e6b0ebc6ac9680cba0]: Textual amendment: Words in [s. 54(2)](https://www.legislation.gov.uk/asp/2001/2/section/54/2) substituted (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 51(3)](https://www.legislation.gov.uk/asp/2005/12/section/51/3), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)
+[^c-f4726aa0843596e6b0ebc6ac9680cba0]: Textual amendment: Words in [s. 54(2)](https://www.legislation.gov.uk/asp/2001/2/section/54/2) substituted (10.10.2005) by [Transport (Scotland) Act 2005 (asp 12)](https://www.legislation.gov.uk/asp/2005/12), [ss. 51(3)](https://www.legislation.gov.uk/asp/2005/12/section/51/3), [54(2)](https://www.legislation.gov.uk/asp/2005/12/section/54/2); [S.S.I. 2005/454](https://www.legislation.gov.uk/ssi/2005/454), [art. 2](https://www.legislation.gov.uk/ssi/2005/454/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/454/schedule/2)

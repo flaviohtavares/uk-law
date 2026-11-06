@@ -31,10 +31,10 @@ Commission Regulation (EC) No 1924/1999
 
 of 8 September 1999 implementing Council Regulation (EC) No 577/98 on the organisation of a labour force sample survey in the Community as regards the 2000 to 2002 programme of ad hoc modules to the labour force survey (revoked)
 
-[^key-44377236d6257f46982f9da7c4fdfa32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-44377236d6257f46982f9da7c4fdfa32]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-44377236d6257f46982f9da7c4fdfa32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-44377236d6257f46982f9da7c4fdfa32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-44377236d6257f46982f9da7c4fdfa32]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44377236d6257f46982f9da7c4fdfa32]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 15](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/15); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

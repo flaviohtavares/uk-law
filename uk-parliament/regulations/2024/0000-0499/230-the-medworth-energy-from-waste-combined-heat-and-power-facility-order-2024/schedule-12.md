@@ -22,14 +22,14 @@ summary: ''
 
 Article 44
 
-### 1. Interpretation[^key-f85c3bdeba073ecf0acbe136d6fe146b]
+### 1. Interpretation[^c-f85c3bdeba073ecf0acbe136d6fe146b]
 
 In this Schedule—
 
-- “**relevant authority**” means the relevant planning authority, Ministry of Defence,[^key-b402486b5d72d813acb5fd0faad4894c] relevant highway authority, traffic authority, street authority, or the owner of a watercourse, sewer or drain as may be appropriate to the consent, agreement or approval sought; and
+- “**relevant authority**” means the relevant planning authority, Ministry of Defence,[^c-b402486b5d72d813acb5fd0faad4894c] relevant highway authority, traffic authority, street authority, or the owner of a watercourse, sewer or drain as may be appropriate to the consent, agreement or approval sought; and
 - “**requirement consultee**” means any body named in a requirement as a body required to be consulted by the relevant authority in discharging that requirement.
 
-### 2. Applications made under requirements[^key-8fce42687bbe753885cc7bee13922266]
+### 2. Applications made under requirements[^c-8fce42687bbe753885cc7bee13922266]
 
 (1) Where an application has been made to the relevant authority for any consent, agreement or approval required by a requirement (including consent, agreement or approval in respect of part of a requirement) the relevant authority must give notice to the undertaker of their decision on the application within a period of 12 weeks beginning with—
 
@@ -39,26 +39,26 @@ In this Schedule—
 
 whichever is the latest.
 
-(2) Subject to sub-paragraph (4)[^key-c7982423db68a23694f9e181720aa8fc], in the event that the relevant authority does not determine an application within the period set out in sub-paragraph (1), the relevant authority is to be taken to have granted all parts of the application (without any condition or qualification) at the end of that period.
+(2) Subject to sub-paragraph (4)[^c-c7982423db68a23694f9e181720aa8fc], in the event that the relevant authority does not determine an application within the period set out in sub-paragraph (1), the relevant authority is to be taken to have granted all parts of the application (without any condition or qualification) at the end of that period.
 
-(3) Any application made to the relevant authority[^key-084565939fc6a428cc215cfcf03c53bb] pursuant to sub-paragraph (1) must—[^key-ea6c5d1b4fb0c6168c5415806391b094]
+(3) Any application made to the relevant authority[^c-084565939fc6a428cc215cfcf03c53bb] pursuant to sub-paragraph (1) must—[^c-ea6c5d1b4fb0c6168c5415806391b094]
 
 - (a) include a statement to confirm whether it is likely that the subject matter of the application will give rise to any materially new or materially different environmental effects compared to those in the environmental statement and if it will then it must be accompanied by information setting out what those effects are; and
 - (b) include confirmation that the application has been notified and provided to the requirement consultees in accordance with sub-paragraph (5), if the provision governing or requiring the application specifies that consultation with a requirement consultee is required. Such confirmation to include contact details for the requirement consultees.
 
 (4) Where an application has been made to the relevant authority for any consent, agreement or approval required by a requirement included in this Order, and—
 
-- (a) the relevant authority does not determine the application within the period set out in sub‑paragraph (1) and such application is accompanied by a report pursuant to sub-paragraph[^key-8feb10108b2c89485c3cfa0de13acc5c] (3) which states that the subject matter of such application is likely to give rise to any materially new or materially different environmental effects compared to those in the environmental statement; or
-- (b) the relevant authority[^key-fc6b31e0fb4fb4a2449dcf73fe65e6db] determines during the period set out in sub-paragraph (1) that it considers that the subject matter of such application will give rise to any materially new or materially different environmental effects compared to those in the environmental statement,
+- (a) the relevant authority does not determine the application within the period set out in sub‑paragraph (1) and such application is accompanied by a report pursuant to sub-paragraph[^c-8feb10108b2c89485c3cfa0de13acc5c] (3) which states that the subject matter of such application is likely to give rise to any materially new or materially different environmental effects compared to those in the environmental statement; or
+- (b) the relevant authority[^c-fc6b31e0fb4fb4a2449dcf73fe65e6db] determines during the period set out in sub-paragraph (1) that it considers that the subject matter of such application will give rise to any materially new or materially different environmental effects compared to those in the environmental statement,
 
 then the application is to be taken to have been refused by the relevant authority at the end of that period.
 
-(5) At the same time as submitting an application to the relevant authority[^key-45bd15bb1fc884ae6a1b0af8485ddae2] for any consent, agreement or approval required by a requirement, the undertaker must also give notice of such application, and provide a copy of the application, to any requirement consultee, if the provision governing or requiring the application specifies that consultation with a requirement consultee is required. As part of the notification to any requirement consultee, the undertaker must include a statement that refers to—[^key-562c15db38eddb28559c0acb5eb6ab42]
+(5) At the same time as submitting an application to the relevant authority[^c-45bd15bb1fc884ae6a1b0af8485ddae2] for any consent, agreement or approval required by a requirement, the undertaker must also give notice of such application, and provide a copy of the application, to any requirement consultee, if the provision governing or requiring the application specifies that consultation with a requirement consultee is required. As part of the notification to any requirement consultee, the undertaker must include a statement that refers to—[^c-562c15db38eddb28559c0acb5eb6ab42]
 
-- (a) the timeframes in which the requirement consultee can request any further information from the undertaker (via the relevant authority[^key-af987c72d19784ceed02b850f337e845]) as prescribed in paragraph 3(6)(a) and the consequences of the failure to meet those timescales as prescribed in paragraph 3(6)(b); and
-- (b) the timeframes in which the requirement consultee must give notice to the relevant authority[^key-27839bdb5efeb002b9b6481449c2fc8d] of its comments on the application as prescribed in paragraph 3(6)(d) and the consequences of the failure to meet those timescales as prescribed in paragraph 3(6)(e).
+- (a) the timeframes in which the requirement consultee can request any further information from the undertaker (via the relevant authority[^c-af987c72d19784ceed02b850f337e845]) as prescribed in paragraph 3(6)(a) and the consequences of the failure to meet those timescales as prescribed in paragraph 3(6)(b); and
+- (b) the timeframes in which the requirement consultee must give notice to the relevant authority[^c-27839bdb5efeb002b9b6481449c2fc8d] of its comments on the application as prescribed in paragraph 3(6)(d) and the consequences of the failure to meet those timescales as prescribed in paragraph 3(6)(e).
 
-### 3. Further information and consultation[^key-92c5b39500aafaff1d8579d7ff3c7671]
+### 3. Further information and consultation[^c-92c5b39500aafaff1d8579d7ff3c7671]
 
 (1) In relation to any application to which this Schedule applies, the relevant authority may request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -70,15 +70,15 @@ then the application is to be taken to have been refused by the relevant authori
 
 (5) Where further information is requested under this paragraph 3 in relation to part only of an application, that part is to be treated as separate from the remainder of the application for the purposes of calculating time periods in paragraph 2(1)(b), paragraph 2(4) and paragraph 3.
 
-(6) If the provision governing or requiring the application specifies that consultation with a requirement consultee is required—[^key-209c7017cc2b10f13d4a704e64b194b5]
+(6) If the provision governing or requiring the application specifies that consultation with a requirement consultee is required—[^c-209c7017cc2b10f13d4a704e64b194b5]
 
-- (a) A requirement consultee is required to notify the relevant authority[^key-23f22d41d34161a8c40f3e5fbec9f8ce] in writing specifying any further information it considers necessary in order to comment on the application within 10 working days of receipt of the application pursuant to paragraph 2(5);
-- (b) If a requirement consultee does not give notification as specified in paragraph (a)[^key-0f5a222de099261b8cd457ecd2ff3737] it is deemed to have sufficient information to comment on the application and is not thereafter entitled to request further information without the prior agreement of the undertaker and relevant authority;
-- (c) At the same time as providing any further information to the relevant authority[^key-46af243519b48f608fcca9a4bcfa6184] pursuant to a request under sub-paragraph (2), if the undertaker has been notified of further information requested by a requirement consultee, the undertaker must also give any further information to the requirement consultee;
-- (d) A requirement consultee is required to notify the relevant authority[^key-79e42340a16c4db85e205c418c730e62] in writing of any comments on the application within 15 working days of receipt of the application from the undertaker pursuant to paragraph 2(5), or the receipt of any further information pursuant to paragraph (c) (where further information has been requested); and
-- (e) If a requirement consultee does not give notification as specified in paragraph (d)[^key-180f2d81d67c0f3ca3bf8f1486cb3fb3] it is deemed to have no comments on the application.
+- (a) A requirement consultee is required to notify the relevant authority[^c-23f22d41d34161a8c40f3e5fbec9f8ce] in writing specifying any further information it considers necessary in order to comment on the application within 10 working days of receipt of the application pursuant to paragraph 2(5);
+- (b) If a requirement consultee does not give notification as specified in paragraph (a)[^c-0f5a222de099261b8cd457ecd2ff3737] it is deemed to have sufficient information to comment on the application and is not thereafter entitled to request further information without the prior agreement of the undertaker and relevant authority;
+- (c) At the same time as providing any further information to the relevant authority[^c-46af243519b48f608fcca9a4bcfa6184] pursuant to a request under sub-paragraph (2), if the undertaker has been notified of further information requested by a requirement consultee, the undertaker must also give any further information to the requirement consultee;
+- (d) A requirement consultee is required to notify the relevant authority[^c-79e42340a16c4db85e205c418c730e62] in writing of any comments on the application within 15 working days of receipt of the application from the undertaker pursuant to paragraph 2(5), or the receipt of any further information pursuant to paragraph (c) (where further information has been requested); and
+- (e) If a requirement consultee does not give notification as specified in paragraph (d)[^c-180f2d81d67c0f3ca3bf8f1486cb3fb3] it is deemed to have no comments on the application.
 
-### 4. Appeals[^key-fbe2273d205d889ec545c38d3a830d75]
+### 4. Appeals[^c-fbe2273d205d889ec545c38d3a830d75]
 
 (1) The undertaker may appeal in the event that—
 
@@ -120,42 +120,42 @@ and may deal with the application as if it had been made to him in the first ins
 
 ## Annotations
 
-[^key-f85c3bdeba073ecf0acbe136d6fe146b]: Commencement: Sch. 12 para. 1 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-f85c3bdeba073ecf0acbe136d6fe146b]: Commencement: Sch. 12 para. 1 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-b402486b5d72d813acb5fd0faad4894c]: Textual amendment: Words in [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2024/230/schedule/12/paragraph/1) inserted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-b402486b5d72d813acb5fd0faad4894c]: Textual amendment: Words in [Sch. 12 para. 1](https://www.legislation.gov.uk/uksi/2024/230/schedule/12/paragraph/1) inserted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-8fce42687bbe753885cc7bee13922266]: Commencement: Sch. 12 para. 2 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-8fce42687bbe753885cc7bee13922266]: Commencement: Sch. 12 para. 2 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-c7982423db68a23694f9e181720aa8fc]: Textual amendment: Words in Sch. 12 para. 2(2) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-c7982423db68a23694f9e181720aa8fc]: Textual amendment: Words in Sch. 12 para. 2(2) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-084565939fc6a428cc215cfcf03c53bb]: Textual amendment: Words in Sch. 12 para. 2(3) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-084565939fc6a428cc215cfcf03c53bb]: Textual amendment: Words in Sch. 12 para. 2(3) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-ea6c5d1b4fb0c6168c5415806391b094]: Textual amendment: Sch. 12 para. 2(3): punctuation substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-ea6c5d1b4fb0c6168c5415806391b094]: Textual amendment: Sch. 12 para. 2(3): punctuation substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-8feb10108b2c89485c3cfa0de13acc5c]: Textual amendment: Word in Sch. 12 para. 2(4)(a) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-8feb10108b2c89485c3cfa0de13acc5c]: Textual amendment: Word in Sch. 12 para. 2(4)(a) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-fc6b31e0fb4fb4a2449dcf73fe65e6db]: Textual amendment: Words in Sch. 12 para. 2(4)(b) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-fc6b31e0fb4fb4a2449dcf73fe65e6db]: Textual amendment: Words in Sch. 12 para. 2(4)(b) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-45bd15bb1fc884ae6a1b0af8485ddae2]: Textual amendment: Words in Sch. 12 para. 2(5) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-45bd15bb1fc884ae6a1b0af8485ddae2]: Textual amendment: Words in Sch. 12 para. 2(5) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-562c15db38eddb28559c0acb5eb6ab42]: Textual amendment: Sch. 12 para. 2(5): punctuation substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-562c15db38eddb28559c0acb5eb6ab42]: Textual amendment: Sch. 12 para. 2(5): punctuation substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-af987c72d19784ceed02b850f337e845]: Textual amendment: Words in Sch. 12 para. 2(5)(a) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-af987c72d19784ceed02b850f337e845]: Textual amendment: Words in Sch. 12 para. 2(5)(a) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-27839bdb5efeb002b9b6481449c2fc8d]: Textual amendment: Words in Sch. 12 para. 2(5)(b) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-27839bdb5efeb002b9b6481449c2fc8d]: Textual amendment: Words in Sch. 12 para. 2(5)(b) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-92c5b39500aafaff1d8579d7ff3c7671]: Commencement: Sch. 12 para. 3 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-92c5b39500aafaff1d8579d7ff3c7671]: Commencement: Sch. 12 para. 3 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-209c7017cc2b10f13d4a704e64b194b5]: Textual amendment: Sch. 12 para. 3(6): punctuation substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-209c7017cc2b10f13d4a704e64b194b5]: Textual amendment: Sch. 12 para. 3(6): punctuation substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-23f22d41d34161a8c40f3e5fbec9f8ce]: Textual amendment: Words in Sch. 12 para. 3(6)(a) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-23f22d41d34161a8c40f3e5fbec9f8ce]: Textual amendment: Words in Sch. 12 para. 3(6)(a) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-0f5a222de099261b8cd457ecd2ff3737]: Textual amendment: Words in Sch. 12 para. 3(6)(b) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-0f5a222de099261b8cd457ecd2ff3737]: Textual amendment: Words in Sch. 12 para. 3(6)(b) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-46af243519b48f608fcca9a4bcfa6184]: Textual amendment: Words in Sch. 12 para. 3(6)(c) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-46af243519b48f608fcca9a4bcfa6184]: Textual amendment: Words in Sch. 12 para. 3(6)(c) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-79e42340a16c4db85e205c418c730e62]: Textual amendment: Words in Sch. 12 para. 3(6)(d) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-79e42340a16c4db85e205c418c730e62]: Textual amendment: Words in Sch. 12 para. 3(6)(d) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-180f2d81d67c0f3ca3bf8f1486cb3fb3]: Textual amendment: Word in Sch. 12 para. 3(6)(e) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-180f2d81d67c0f3ca3bf8f1486cb3fb3]: Textual amendment: Word in Sch. 12 para. 3(6)(e) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
-[^key-fbe2273d205d889ec545c38d3a830d75]: Commencement: Sch. 12 para. 4 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-fbe2273d205d889ec545c38d3a830d75]: Commencement: Sch. 12 para. 4 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

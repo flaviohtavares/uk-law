@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34.28ZC. Dismissal of an application under section 27A of the 1972 Act or application for variation[^key-023a991c42131ca4241f35cbd638b7d9]
+## 34.28ZC. Dismissal of an application under section 27A of the 1972 Act or application for variation[^c-023a991c42131ca4241f35cbd638b7d9]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ the court officer will send a written notice of the court’s decision to the Lo
 
 ## Annotations
 
-[^key-023a991c42131ca4241f35cbd638b7d9]: Textual amendment: [Pt. 34 Ch. 2](https://www.legislation.gov.uk/uksi/2010/2955/part/34/chapter/2) Section 4 inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [124](https://www.legislation.gov.uk/uksi/2013/3204/rule/124) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)
+[^c-023a991c42131ca4241f35cbd638b7d9]: Textual amendment: [Pt. 34 Ch. 2](https://www.legislation.gov.uk/uksi/2010/2955/part/34/chapter/2) Section 4 inserted (22.4.2014) by [The Family Procedure (Amendment No.3) Rules 2013 (S.I. 2013/3204)](https://www.legislation.gov.uk/uksi/2013/3204), [rules 1](https://www.legislation.gov.uk/uksi/2013/3204/rule/1), [124](https://www.legislation.gov.uk/uksi/2013/3204/rule/124) (with [rule 137](https://www.legislation.gov.uk/uksi/2013/3204/rule/137)); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2](https://www.legislation.gov.uk/uksi/2014/954/article/2)

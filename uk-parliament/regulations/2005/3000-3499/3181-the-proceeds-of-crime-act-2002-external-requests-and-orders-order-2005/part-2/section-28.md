@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Powers of enforcement receivers in respect of monetary external orders[^key-55439594ced8c81dd5f2b9711f427ee3]
+## 28. Powers of enforcement receivers in respect of monetary external orders[^c-55439594ced8c81dd5f2b9711f427ee3]
 
 *Extent: E+W+S+N.I.*
 
-(1) ) If the court appoints a receiver under article 27, it may act under this article on the application of the relevant Director [^key-ae81f2229b07ddcf180b4ba2b726d0a9]... where the external order is for the recovery of a specified sum of money.
+(1) ) If the court appoints a receiver under article 27, it may act under this article on the application of the relevant Director [^c-ae81f2229b07ddcf180b4ba2b726d0a9]... where the external order is for the recovery of a specified sum of money.
 
 (2) The court may by order confer on the receiver the following powers in relation to any realisable property—
 
@@ -66,7 +66,7 @@ summary: ''
 
 unless it gives persons holding interests in the property a reasonable opportunity to make representations to it.
 
-(8A)[^key-ce84a16dcfa9fdc5b2b17505b87b4a43] Paragraph (8), so far as relating to the power mentioned in paragraph (2)(b), does not apply to property which—
+(8A)[^c-ce84a16dcfa9fdc5b2b17505b87b4a43] Paragraph (8), so far as relating to the power mentioned in paragraph (2)(b), does not apply to property which—
 
 - (a) is perishable; or
 - (b) ought to be disposed of before its value diminishes.
@@ -81,8 +81,8 @@ unless it gives persons holding interests in the property a reasonable opportuni
 
 ## Annotations
 
-[^key-55439594ced8c81dd5f2b9711f427ee3]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2005/3181/article/28) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-55439594ced8c81dd5f2b9711f427ee3]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2005/3181/article/28) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
 
-[^key-ae81f2229b07ddcf180b4ba2b726d0a9]: Textual amendment: Words in [art. 28(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/28/1) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2008/302/article/2/8)
+[^c-ae81f2229b07ddcf180b4ba2b726d0a9]: Textual amendment: Words in [art. 28(1)](https://www.legislation.gov.uk/uksi/2005/3181/article/28/1) omitted (1.4.2008) by virtue of [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2008/302/article/2/8)
 
-[^key-ce84a16dcfa9fdc5b2b17505b87b4a43]: Textual amendment: [Art. 28(8A)](https://www.legislation.gov.uk/uksi/2005/3181/article/28/8A) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2008/302/article/2/9)
+[^c-ce84a16dcfa9fdc5b2b17505b87b4a43]: Textual amendment: [Art. 28(8A)](https://www.legislation.gov.uk/uksi/2005/3181/article/28/8A) inserted (1.4.2008) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2008 (S.I. 2008/302)](https://www.legislation.gov.uk/uksi/2008/302), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/302/article/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2008/302/article/2/9)

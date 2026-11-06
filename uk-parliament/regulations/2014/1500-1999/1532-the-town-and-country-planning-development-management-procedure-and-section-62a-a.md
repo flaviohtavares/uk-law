@@ -46,21 +46,21 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 59, 61(1), 74(1) and 76C(3) of the Town and Country Planning Act 1990[^f00001] and section 33 of the Growth and Infrastructure Act 2013[^f00002], makes the following Order:
 
-## 1. Citation, commencement and application[^key-4acbc85e489a8c647e670d9d8dc1fd13]
+## 1. Citation, commencement and application[^c-4acbc85e489a8c647e670d9d8dc1fd13]
 
 (1) This Order may be cited as the Town and Country Planning (Development Management Procedure and Section 62A Applications) (England) (Amendment) Order 2014 and comes into force on 1st October 2014.
 
 (2) This Order applies in relation to England only.
 
-## 2. Amendments to the Town and Country Planning (Development Management Procedure) (England) Order 2010[^key-21b85547a48c057ec177965a3ff2984e]
+## 2. Amendments to the Town and Country Planning (Development Management Procedure) (England) Order 2010[^c-21b85547a48c057ec177965a3ff2984e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment to the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^key-3f00a3f417261aa8bde8ca3301302deb]
+## 3. Amendment to the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^c-3f00a3f417261aa8bde8ca3301302deb]
 
 The Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^f00004] is amended in accordance with the following provisions.
 
-**4.**[^key-138a2dadaae566b537138d07ebe4439e] In article 2 (interpretation)—
+**4.**[^c-138a2dadaae566b537138d07ebe4439e] In article 2 (interpretation)—
 
 - (a) in the appropriate places insert the following definitions—
 
@@ -81,7 +81,7 @@ The Town and Country Planning (Section 62A Applications) (Procedure and Conseque
   ; and
 - (b) in paragraph (2) for “The questionnaire” substitute “Subject to article 36(3), the questionnaire”.
 
-**5.**[^key-3b57ad2c406ae6d5ed7bfefe60ecedac] In article 14(1) (publicity for applications) for sub-paragraphs (a) to (c) substitute—
+**5.**[^c-3b57ad2c406ae6d5ed7bfefe60ecedac] In article 14(1) (publicity for applications) for sub-paragraphs (a) to (c) substitute—
 
 > - (a) by—
 >   - (i) site display in at least one place on or near the land to which the application relates for not less than 21 days; or
@@ -90,7 +90,7 @@ The Town and Country Planning (Section 62A Applications) (Procedure and Conseque
 
 .
 
-**6.**[^key-507646420ba690ef3587100dccb21257] After article 27 (consequential amendments) insert—
+**6.**[^c-507646420ba690ef3587100dccb21257] After article 27 (consequential amendments) insert—
 
 > **Part 6 — Procedure for making and determining connected listed building applications**
 >
@@ -339,7 +339,7 @@ The Town and Country Planning (Section 62A Applications) (Procedure and Conseque
 
 .
 
-**7.**[^key-ed62361c11263c4f44042e834893b774] After new Article 47 insert—
+**7.**[^c-ed62361c11263c4f44042e834893b774] After new Article 47 insert—
 
 > **PART 7 — Connected applications: hearings and written representations**
 >
@@ -351,7 +351,7 @@ The Town and Country Planning (Section 62A Applications) (Procedure and Conseque
 >
 > Where a relevant application is accompanied by a connected listed building application, the procedure to be followed where the applications are considered on the basis of written representations is the procedure set out in Part 3 of the Town and Country Planning (Section 62A Applications) (Written Representations and Miscellaneous Provisions) Regulations 2013[^f00011], subject to the following modifications; the reference in rules 9(3) and 10(3) to articles 9, 13, 14, 16, 17 or 18 of this Order, is to be read, in relation to a connected listed building application, as a reference to articles 33, 37, 38, 40, 41 or 42 of this Order.
 
-**8.**[^key-0ce8a8a99dff4a3f29fc90dfa853a565] After Schedule 2 insert—
+**8.**[^c-0ce8a8a99dff4a3f29fc90dfa853a565] After Schedule 2 insert—
 
 > **SCHEDULE 3 — Provisions of the Planning (Listed Buildings and Conservation Areas) Act 1990 which apply with modifications to connected listed building applications**
 >
@@ -376,9 +376,9 @@ The Town and Country Planning (Section 62A Applications) (Procedure and Conseque
 >
 > .
 
-**9.**[^key-a0baa2abd4daa4491860246a4cb7efec] After new Schedule 3 insert—
+**9.**[^c-a0baa2abd4daa4491860246a4cb7efec] After new Schedule 3 insert—
 
-## 10. Consequential amendments to the Planning (Listed Buildings and Conservation Areas) Regulations 1990[^key-b2c54b245493c7442bbda27edbf7fd00]
+## 10. Consequential amendments to the Planning (Listed Buildings and Conservation Areas) Regulations 1990[^c-b2c54b245493c7442bbda27edbf7fd00]
 
 Regulation 5A of the Planning (Listed Buildings and Conservation Areas) Regulations 1990[^f00012] is amended as follows—
 
@@ -469,21 +469,21 @@ The Growth and Infrastructure Act 2013 was subject to a full impact assessment w
 
 [^f00002]: Footnote: [2013 c. 27](https://www.legislation.gov.uk/ukpga/2013/27).
 
-[^key-4acbc85e489a8c647e670d9d8dc1fd13]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/1532/article/1) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
+[^c-4acbc85e489a8c647e670d9d8dc1fd13]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2014/1532/article/1) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
 
-[^key-21b85547a48c057ec177965a3ff2984e]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2014/1532/article/2) revoked (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))
+[^c-21b85547a48c057ec177965a3ff2984e]: Textual amendment: [Art. 2](https://www.legislation.gov.uk/uksi/2014/1532/article/2) revoked (15.4.2015) by [The Town and Country Planning (Development Management Procedure) (England) Order 2015 (S.I. 2015/595)](https://www.legislation.gov.uk/uksi/2015/595), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/595/article/1/1), [Sch. 9](https://www.legislation.gov.uk/uksi/2015/595/schedule/9) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2015/595/article/1/3)[(4)](https://www.legislation.gov.uk/uksi/2015/595/article/1/4), [47](https://www.legislation.gov.uk/uksi/2015/595/article/47))
 
-[^key-3f00a3f417261aa8bde8ca3301302deb]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/1532/article/3) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
+[^c-3f00a3f417261aa8bde8ca3301302deb]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2014/1532/article/3) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
 
 [^f00004]: Footnote: [S.I. 2013/2140](https://www.legislation.gov.uk/uksi/2013/2140), to which there are amendments which are not relevant to this Order.
 
-[^key-138a2dadaae566b537138d07ebe4439e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/1532/article/4) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
+[^c-138a2dadaae566b537138d07ebe4439e]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2014/1532/article/4) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
 
 [^f00005]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9).
 
-[^key-3b57ad2c406ae6d5ed7bfefe60ecedac]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2014/1532/article/5) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
+[^c-3b57ad2c406ae6d5ed7bfefe60ecedac]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2014/1532/article/5) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
 
-[^key-507646420ba690ef3587100dccb21257]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/1532/article/6) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
+[^c-507646420ba690ef3587100dccb21257]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2014/1532/article/6) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
 
 [^f00006]: Footnote: See section 62A(2) of the Town and Country Planning Act 1990 for the definition of “relevant application”.
 
@@ -493,17 +493,17 @@ The Growth and Infrastructure Act 2013 was subject to a full impact assessment w
 
 [^f00009]: Footnote: Sections 76D and E were inserted into the 1990 Act by section 1 of, and paragraph 5 of Schedule 1 to, the Growth and Infrastructure Act [2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27).
 
-[^key-ed62361c11263c4f44042e834893b774]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2014/1532/article/7) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
+[^c-ed62361c11263c4f44042e834893b774]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2014/1532/article/7) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
 
 [^f00010]: Footnote: [S.I. 2013/2141](https://www.legislation.gov.uk/uksi/2013/2141).
 
 [^f00011]: Footnote: [S.I. 2013/2142](https://www.legislation.gov.uk/uksi/2013/2142).
 
-[^key-0ce8a8a99dff4a3f29fc90dfa853a565]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2014/1532/article/8) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
+[^c-0ce8a8a99dff4a3f29fc90dfa853a565]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2014/1532/article/8) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
 
-[^key-a0baa2abd4daa4491860246a4cb7efec]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2014/1532/article/9) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
+[^c-a0baa2abd4daa4491860246a4cb7efec]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2014/1532/article/9) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
 
-[^key-b2c54b245493c7442bbda27edbf7fd00]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2014/1532/article/10) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
+[^c-b2c54b245493c7442bbda27edbf7fd00]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2014/1532/article/10) in force at 1.10.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/1532/article/1/1)
 
 [^f00012]: Footnote: [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519). Regulation 5A was inserted by [S.I. 2004/2210](https://www.legislation.gov.uk/uksi/2004/2210) and amended by [S.I. 2010/568](https://www.legislation.gov.uk/uksi/2010/568). There are other amendments to the Regulations which are not relevant to this Order.
 

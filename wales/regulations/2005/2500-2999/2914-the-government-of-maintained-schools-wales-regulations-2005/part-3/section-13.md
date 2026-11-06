@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Community schools[^key-548b7beb78bd1e5b8931f8656b253268]
+## 13. Community schools[^c-548b7beb78bd1e5b8931f8656b253268]
 
 *Extent: E+W*
 
@@ -30,7 +30,7 @@ summary: ''
   | *Category of governor* | *Secondary school-normal basis* | *Secondary school-option if less than 600 registered pupils* | *Primary school-normal basis* | *Primary school-option if less than 100 registered pupils* |
   | --- | --- | --- | --- | --- |
   | Parent Governors | 6 | 5 | 4 or 5 | 3 |
-  | Authority governors[^key-4f002b1598999252b25211a26810549d] | 5 | 4 | 3 or 4 | 2 |
+  | Authority governors[^c-4f002b1598999252b25211a26810549d] | 5 | 4 | 3 or 4 | 2 |
   | Teacher Governors | 2 | 2 | 1 or 2 | 1 |
   | Staff governors | 1 | 1 | 1 | 1 or 0 |
   | Community Governors | 5 | 4 | 3 or 4 | 2 |
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-548b7beb78bd1e5b8931f8656b253268]: Commencement: Reg. 13 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
+[^c-548b7beb78bd1e5b8931f8656b253268]: Commencement: Reg. 13 in force at 31.10.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/2914/regulation/1/1)
 
-[^key-4f002b1598999252b25211a26810549d]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/wsi/2005/2914/regulation/13) Table substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(7)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/7)
+[^c-4f002b1598999252b25211a26810549d]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/wsi/2005/2914/regulation/13) Table substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) (Subordinate Legislation) (Wales) Order 2010 (S.I. 2010/1142)](https://www.legislation.gov.uk/wsi/2010/1142), [art. 1(1)](https://www.legislation.gov.uk/wsi/2010/1142/article/1/1), [Sch. 1 para. 17(7)](https://www.legislation.gov.uk/wsi/2010/1142/schedule/1/paragraph/17/7)

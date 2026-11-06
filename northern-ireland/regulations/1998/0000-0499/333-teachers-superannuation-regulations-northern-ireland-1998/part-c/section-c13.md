@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C13. Return of repaid contributions[^key-bf1d3fab0bd365112b8bb9e07aa17267]
+## C13. Return of repaid contributions[^c-bf1d3fab0bd365112b8bb9e07aa17267]
 
 *Extent: N.I.*
 
@@ -77,6 +77,6 @@ does not exceed 15% of the annual rate of the person's contributable salary in t
 
 ## Annotations
 
-[^key-bf1d3fab0bd365112b8bb9e07aa17267]: Commencement: Reg. C13 in operation at 2.11.1998, see reg. A1
+[^c-bf1d3fab0bd365112b8bb9e07aa17267]: Commencement: Reg. C13 in operation at 2.11.1998, see reg. A1
 
 [^f00017]: Footnote: As inserted by [S.R. 1987 No. 76](https://www.legislation.gov.uk/nisr/1987/76) regulation 18

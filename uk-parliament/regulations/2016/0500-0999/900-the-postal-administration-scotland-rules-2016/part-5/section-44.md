@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Debts depending on contingency[^key-c409d3e068c45af7a6a1ed2a3d5be423]
+## 44. Debts depending on contingency[^c-c409d3e068c45af7a6a1ed2a3d5be423]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c409d3e068c45af7a6a1ed2a3d5be423]: Commencement: Rule 44 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-c409d3e068c45af7a6a1ed2a3d5be423]: Commencement: Rule 44 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

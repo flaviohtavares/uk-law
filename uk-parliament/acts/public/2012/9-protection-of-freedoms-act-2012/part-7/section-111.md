@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Offences in relation to stalking[^key-5c0e74253e6f63daeb54d34e75b30c25]
+## 111. Offences in relation to stalking[^c-5c0e74253e6f63daeb54d34e75b30c25]
 
 *Extent: E+W*
 
@@ -91,4 +91,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c0e74253e6f63daeb54d34e75b30c25]: Commencement: S. 111 in force at 25.11.2012 by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(a)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/a)
+[^c-5c0e74253e6f63daeb54d34e75b30c25]: Commencement: S. 111 in force at 25.11.2012 by [S.I. 2012/2075](https://www.legislation.gov.uk/uksi/2012/2075), [art. 5(a)](https://www.legislation.gov.uk/uksi/2012/2075/article/5/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. External assistance[^key-90b4ca5d874033d7ec60c7191e60fb53][^c22725111]
+## 6. External assistance[^c-90b4ca5d874033d7ec60c7191e60fb53][^c22725111]
 
 *Extent: S*
 
@@ -59,6 +59,6 @@ After section 396S of the Proceeds of Crime Act 2002 (inserted by section 5 abov
 
 ## Annotations
 
-[^key-90b4ca5d874033d7ec60c7191e60fb53]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/22/section/6) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
+[^c-90b4ca5d874033d7ec60c7191e60fb53]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/22/section/6) in force at 31.1.2018 in so far as not already in force by [S.I. 2018/78](https://www.legislation.gov.uk/uksi/2018/78), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/78/regulation/3/a)
 
 [^c22725111]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2017/22/section/6) in force at Royal Assent for specified purposes, see [s. 58](https://www.legislation.gov.uk/ukpga/2017/22/section/58)

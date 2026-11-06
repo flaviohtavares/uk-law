@@ -35,7 +35,7 @@ summary: ''
 
 - (a) forms and procedures which the local authority is to adopt in demanding payment,
 - (b) circumstances in which a customer of Scottish Water who is aggrieved by a decision or calculation of the local authority may appeal—
-  - (i) except in a case specified by virtue of sub-paragraph (ii), to the First-tier Tribunal for Scotland[^key-fd8b3eecf5ee3187273ee0c1d4804814], or
+  - (i) except in a case specified by virtue of sub-paragraph (ii), to the First-tier Tribunal for Scotland[^c-fd8b3eecf5ee3187273ee0c1d4804814], or
   - (ii) in such cases as the order may specify, to a body constituted under the order (or under a previous such order) to consider appeals as respects any such case,
 - (c) procedures to be followed in any appeal by virtue of paragraph (b),
 - (d) the provision, for the purposes of this section, of information by Scottish Water to the local authority,
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd8b3eecf5ee3187273ee0c1d4804814]: Textual amendment: Words in [s. 37(3)(b)(i)](https://www.legislation.gov.uk/asp/2002/3/section/37/3/b/i) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 11(2)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/11/2) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))
+[^c-fd8b3eecf5ee3187273ee0c1d4804814]: Textual amendment: Words in [s. 37(3)(b)(i)](https://www.legislation.gov.uk/asp/2002/3/section/37/3/b/i) substituted (1.4.2023) by [The First-tier Tribunal for Scotland (Transfer of Functions of Valuation Appeals Committees) Regulations 2023 (S.S.I. 2023/45)](https://www.legislation.gov.uk/ssi/2023/45), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/45/regulation/1/2), [sch. 2 para. 11(2)](https://www.legislation.gov.uk/ssi/2023/45/schedule/2/paragraph/11/2) (with [sch. 1 paras. 1-4](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/1), [13-20](https://www.legislation.gov.uk/ssi/2023/45/schedule/1/paragraph/13))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.46. Statement of affairs dispensed with[^key-d41a1c67b7af2b39cd8f7de6aa0462b9]
+## 4.46. Statement of affairs dispensed with[^c-d41a1c67b7af2b39cd8f7de6aa0462b9]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d41a1c67b7af2b39cd8f7de6aa0462b9]: Commencement: [Rule 4.46](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.46) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d41a1c67b7af2b39cd8f7de6aa0462b9]: Commencement: [Rule 4.46](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.46) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

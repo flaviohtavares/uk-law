@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Regulations[^key-0b2291e76d3c6d8493c6f63387e1b917]
+## 119. Regulations[^c-0b2291e76d3c6d8493c6f63387e1b917]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b2291e76d3c6d8493c6f63387e1b917]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2022/7/section/119) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)
+[^c-0b2291e76d3c6d8493c6f63387e1b917]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2022/7/section/119) in force at 10.5.2022, see [s. 131(3)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/3)

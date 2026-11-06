@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Interpretation[^key-ca88bd0c25d8a752ec2dc2c69b1e42b4]
+## 145. Interpretation[^c-ca88bd0c25d8a752ec2dc2c69b1e42b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca88bd0c25d8a752ec2dc2c69b1e42b4]: Commencement: Art. 145 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-ca88bd0c25d8a752ec2dc2c69b1e42b4]: Commencement: Art. 145 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

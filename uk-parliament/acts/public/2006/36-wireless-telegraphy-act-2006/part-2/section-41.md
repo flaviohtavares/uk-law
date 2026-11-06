@@ -33,14 +33,14 @@ summary: ''
 (3) Proceedings to which this section applies are not to be brought against a person in respect of a contravention if—
 
 - (a) it is a contravention to which a notification given to that person under section 39 relates; and
-- (b) that person has, during the period specified under section 39(2)(c) for making representations[^key-64ed7cc7eb556a097467093fa111a227] , complied with the notified term, provision or limitation.
+- (b) that person has, during the period specified under section 39(2)(c) for making representations[^c-64ed7cc7eb556a097467093fa111a227] , complied with the notified term, provision or limitation.
 
 (4) Subsection (2) does not apply where OFCOM have certified that it would be inappropriate to follow the procedure in section 39 because of an immediate risk of—
 
 - (a) a serious threat to the safety of the public, to public health or to national security; or
 - (b) serious economic or operational problems for persons (other than the defendant) who—
-  - (i) use wireless telegraphy stations or wireless telegraphy apparatus; [^key-a3f463cc3a0251d55b7001dd2bcab8a1]...
-  - (ii) are communications providers or make associated facilities available. ;or[^key-751779e273c81dc23b255e7441024496]
+  - (i) use wireless telegraphy stations or wireless telegraphy apparatus; [^c-a3f463cc3a0251d55b7001dd2bcab8a1]...
+  - (ii) are communications providers or make associated facilities available. ;or[^c-751779e273c81dc23b255e7441024496]
   - (iii) are other users of the radio spectrum.
 
 (5) Where—
@@ -60,18 +60,18 @@ the court, in determining how to deal with that person, must have regard, in par
 - (a) OFCOM give a notification under section 39 in respect of a contravention, and
 - (b) that notification is given before the end of six months after the day of the contravention,
 
-the time for the bringing of proceedings for a summary offence in respect of that contravention shall be extended until the end of six months from the end of the period specified under section 39(2)(c).[^key-c68abfc6c209c5b261598aa4eeb8d604]
+the time for the bringing of proceedings for a summary offence in respect of that contravention shall be extended until the end of six months from the end of the period specified under section 39(2)(c).[^c-c68abfc6c209c5b261598aa4eeb8d604]
 
-(8)[^key-b21988726ca5cc9459aa04ca929e5282] For further provision about prosecutions see section 107.
+(8)[^c-b21988726ca5cc9459aa04ca929e5282] For further provision about prosecutions see section 107.
 
 ## Annotations
 
-[^key-64ed7cc7eb556a097467093fa111a227]: Textual amendment: Words in s. 41(3)(b) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/13/3/a), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 13(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/13/4))
+[^c-64ed7cc7eb556a097467093fa111a227]: Textual amendment: Words in s. 41(3)(b) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 13(3)(a)](https://www.legislation.gov.uk/ukpga/2017/30/section/13/3/a), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 13(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/13/4))
 
-[^key-a3f463cc3a0251d55b7001dd2bcab8a1]: Textual amendment: Word in s. 41(4)(b) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/15/a) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-a3f463cc3a0251d55b7001dd2bcab8a1]: Textual amendment: Word in s. 41(4)(b) omitted (26.5.2011) by virtue of [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 15(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/15/a) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-751779e273c81dc23b255e7441024496]: Textual amendment: S. 41(4)(b)(iii) and word inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/15/b) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-751779e273c81dc23b255e7441024496]: Textual amendment: S. 41(4)(b)(iii) and word inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 2 para. 15(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/2/paragraph/15/b) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-c68abfc6c209c5b261598aa4eeb8d604]: Textual amendment: Words in s. 41(7) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2017/30/section/13/3/b), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 13(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/13/4))
+[^c-c68abfc6c209c5b261598aa4eeb8d604]: Textual amendment: Words in s. 41(7) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 13(3)(b)](https://www.legislation.gov.uk/ukpga/2017/30/section/13/3/b), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 13(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/13/4))
 
-[^key-b21988726ca5cc9459aa04ca929e5282]: Textual amendment: S. 41(8) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 13(3)(c)](https://www.legislation.gov.uk/ukpga/2017/30/section/13/3/c), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 13(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/13/4))
+[^c-b21988726ca5cc9459aa04ca929e5282]: Textual amendment: S. 41(8) substituted (27.6.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 13(3)(c)](https://www.legislation.gov.uk/ukpga/2017/30/section/13/3/c), [118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2) (with [s. 13(4)](https://www.legislation.gov.uk/ukpga/2017/30/section/13/4))

@@ -36,110 +36,110 @@ for the purposes of Council Regulation (EC) No 116/2009 on the export of cultura
 
 (codification) (revoked)
 
-[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION I — FORM OF LICENCE[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
+## SECTION I — FORM OF LICENCE[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
 
-**Article 1.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION II — THE STANDARD LICENCE[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
+## SECTION II — THE STANDARD LICENCE[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
 
-**Article 3.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION III — SPECIFIC OPEN LICENCES[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
+## SECTION III — SPECIFIC OPEN LICENCES[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
 
-**Article 10.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION IV — GENERAL OPEN LICENCES[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
+## SECTION IV — GENERAL OPEN LICENCES[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
 
-**Article 13.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION V — FORMS FOR THE OPEN LICENCES[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
+## SECTION V — FORMS FOR THE OPEN LICENCES[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
 
-**Article 16.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 16.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECTION VI — FINAL PROVISIONS[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
+## SECTION VI — FINAL PROVISIONS[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
 
-**Article 17.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 17.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 18.**[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 18.**[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I — Model standard export licence form[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
+## ANNEX I — Model standard export licence form[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
 
 [image: see source](https://www.legislation.gov.uk/eur/2012/1081/images/eur_20121081_2012-12-12_en_001) [image: see source](https://www.legislation.gov.uk/eur/2012/1081/images/eur_20121081_2012-12-12_en_002) [image: see source](https://www.legislation.gov.uk/eur/2012/1081/images/eur_20121081_2012-12-12_en_003) [image: see source](https://www.legislation.gov.uk/eur/2012/1081/images/eur_20121081_2012-12-12_en_004) [image: see source](https://www.legislation.gov.uk/eur/2012/1081/images/eur_20121081_2012-12-12_en_005) [image: see source](https://www.legislation.gov.uk/eur/2012/1081/images/eur_20121081_2012-12-12_en_006)
 
-[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] EXPLANATORY NOTES
+[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] EXPLANATORY NOTES
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] 1.
+[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] 1.
 
 **General**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] 1.1.
+[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] 1.1.
 
 Licences are required for the export of cultural goods to protect the cultural heritage of the Member States pursuant to Regulation (EC) No 116/2009.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] 1.2.
+[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] 1.2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] 1.3.
+[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] 1.3.
 
 Any unused box must be lined crossed out so that nothing can be added.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d] 2.
+[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d] 2.
 
 **Headings**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — Model of form for specific open licences and sheets thereof[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
+## ANNEX II — Model of form for specific open licences and sheets thereof[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Model of form for general open licences and sheets thereof[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
+## ANNEX III — Model of form for general open licences and sheets thereof[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
+## ANNEX IV[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
+## ANNEX V[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4aa3f49d85f2aaf34e3eabb2e6c6b44d]: Textual amendment: Regulation revoked (31.12.2020) by [The Export of Objects of Cultural Interest (Control) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1186)](https://www.legislation.gov.uk/uksi/2018/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1186/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/1186/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4aa3f49d85f2aaf34e3eabb2e6c6b44d]: Textual amendment: Regulation revoked (31.12.2020) by [The Export of Objects of Cultural Interest (Control) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1186)](https://www.legislation.gov.uk/uksi/2018/1186), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1186/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2018/1186/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

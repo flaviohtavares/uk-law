@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Powers to amend Schedule 15 and Schedule 16[^key-f930222fc99bdc1db1cf8f72cc1eec48][^key-8ac9f48fe555f56e162bd33d69f5d3a6]
+## 209. Powers to amend Schedule 15 and Schedule 16[^c-f930222fc99bdc1db1cf8f72cc1eec48][^c-8ac9f48fe555f56e162bd33d69f5d3a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f930222fc99bdc1db1cf8f72cc1eec48]: Commencement: S. 209 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-f930222fc99bdc1db1cf8f72cc1eec48]: Commencement: S. 209 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-8ac9f48fe555f56e162bd33d69f5d3a6]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2024/13/section/209) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-8ac9f48fe555f56e162bd33d69f5d3a6]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2024/13/section/209) in force at 6.4.2025 in so far as not already in force by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

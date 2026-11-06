@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Assignment, surrender and commutation of benefit.[^key-69fb12af6fb858de2fd1f8c35a58b818]
+## 77. Assignment, surrender and commutation of benefit.[^c-69fb12af6fb858de2fd1f8c35a58b818]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69fb12af6fb858de2fd1f8c35a58b818]: Textual amendment: Ss. 77-80 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/1995/26/schedule/3/paragraph/24), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II) (with [art. 8](https://www.legislation.gov.uk/uksi/1997/664/article/8))
+[^c-69fb12af6fb858de2fd1f8c35a58b818]: Textual amendment: Ss. 77-80 repealed (6.4.1997) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [s. 180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1), [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/1995/26/schedule/3/paragraph/24), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1995/26/schedule/7/part/I); [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), [art. 2(3)](https://www.legislation.gov.uk/uksi/1997/664/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/1997/664/schedule/part/II) (with [art. 8](https://www.legislation.gov.uk/uksi/1997/664/article/8))

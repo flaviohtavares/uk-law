@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.97. Redemption by liquidator[^key-6f6a23bc33738ee15b02bb0ba99aa4ea]
+## 4.97. Redemption by liquidator[^c-6f6a23bc33738ee15b02bb0ba99aa4ea]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ If the creditor re-values his security, the liquidator may only redeem at the ne
 
 ## Annotations
 
-[^key-6f6a23bc33738ee15b02bb0ba99aa4ea]: Commencement: [Rule 4.97](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.97) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-6f6a23bc33738ee15b02bb0ba99aa4ea]: Commencement: [Rule 4.97](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.97) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

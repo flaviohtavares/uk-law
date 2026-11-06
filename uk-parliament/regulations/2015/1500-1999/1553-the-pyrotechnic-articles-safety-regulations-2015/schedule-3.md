@@ -31,7 +31,7 @@ The labelling of a pyrotechnic article must include—
 - (a) the name, registered trade name or registered trade mark of the manufacturer;
 - (b) a single postal address at which the manufacturer can be contacted;
 - (c) the name, type and category of the pyrotechnic article;
-- (d) the UK[^key-c9345a843143009b2e0f26441a11cfce] registration number of the pyrotechnic article;
+- (d) the UK[^c-c9345a843143009b2e0f26441a11cfce] registration number of the pyrotechnic article;
 - (e) the product, batch or serial number of the pyrotechnic article; and
 - (f) instructions for use and safety information, which must include—
   - (i) the minimum age limit for persons to whom the pyrotechnic article can be made available on the market;
@@ -92,6 +92,6 @@ The labelling of a firework must also display the following information—
 
 [^M_E_656ac22c-6faf-47d2-a7fb-0e6e1ce5bf11]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-c9345a843143009b2e0f26441a11cfce]: Textual amendment: Word in [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/3/paragraph/1/d) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 40](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/40) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9345a843143009b2e0f26441a11cfce]: Textual amendment: Word in [Sch. 3 para. 1(d)](https://www.legislation.gov.uk/uksi/2015/1553/schedule/3/paragraph/1/d) inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 19 para. 40](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/40) (with [Sch. 19 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/19/paragraph/36)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_dda51855-7611-4c20-9d2d-50d9b1e980e4]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 353. Power of the Welsh Ministers to acquire land affected by order relating to new town[^key-24c98a21bb6f4bfdefbd7132ae8d2585]
+## 353. Power of the Welsh Ministers to acquire land affected by order relating to new town[^c-24c98a21bb6f4bfdefbd7132ae8d2585]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24c98a21bb6f4bfdefbd7132ae8d2585]: Commencement: S. 353 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-24c98a21bb6f4bfdefbd7132ae8d2585]: Commencement: S. 353 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

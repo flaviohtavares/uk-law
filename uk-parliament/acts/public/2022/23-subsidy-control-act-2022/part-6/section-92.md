@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 92. Short title[^key-2e1507900f95bf865c49a7631f4e4a90]
+## 92. Short title[^c-2e1507900f95bf865c49a7631f4e4a90]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Subsidy Control Act 2022.
 
 ## Annotations
 
-[^key-2e1507900f95bf865c49a7631f4e4a90]: Commencement: S. 92 in force at Royal Assent, see [s. 91(1)(c)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/c)
+[^c-2e1507900f95bf865c49a7631f4e4a90]: Commencement: S. 92 in force at Royal Assent, see [s. 91(1)(c)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/1/c)

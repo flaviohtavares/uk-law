@@ -146,7 +146,7 @@ In Schedule 5 (purity criteria)—
 
 (1) Paragraph (2) of regulation 6 (consequential amendments) of the Miscellaneous Food Additives (Amendment) (England) Regulations 2001 [^c15812281] shall be omitted.
 
-(2)[^key-09405d58c70fd75baa512ad688151dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-09405d58c70fd75baa512ad688151dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Signed by authority of the Secretary of State for Health
 
@@ -198,4 +198,4 @@ No regulatory impact assessment has been prepared in respect of these Regulation
 
 [^c15812281]: Marginal citation: [S.I. 2001/60](https://www.legislation.gov.uk/uksi/2001/60).
 
-[^key-09405d58c70fd75baa512ad688151dcb]: Textual amendment: Reg. 9(2) omitted (2.5.2003) by virtue of [The Miscellaneous Food Additives (Amendment) (England) Regulations 2003 (S.I. 2003/1008)](https://www.legislation.gov.uk/uksi/2003/1008), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1008/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2003/1008/regulation/3/1)
+[^c-09405d58c70fd75baa512ad688151dcb]: Textual amendment: Reg. 9(2) omitted (2.5.2003) by virtue of [The Miscellaneous Food Additives (Amendment) (England) Regulations 2003 (S.I. 2003/1008)](https://www.legislation.gov.uk/uksi/2003/1008), [regs. 1](https://www.legislation.gov.uk/uksi/2003/1008/regulation/1), [3(1)](https://www.legislation.gov.uk/uksi/2003/1008/regulation/3/1)

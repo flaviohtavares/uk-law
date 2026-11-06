@@ -20,19 +20,19 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) A person on whom a counteraction notice has been served may appeal [^key-3eb123d876035fc47a3676abdcdaa672]... on the grounds that—
+(1) A person on whom a counteraction notice has been served may appeal [^c-3eb123d876035fc47a3676abdcdaa672]... on the grounds that—
 
 - (a) section 684 (person liable to counteraction of income tax advantage) does not apply to the person in respect of the transaction or transactions in question, or
 - (b) the adjustments directed to be made are inappropriate.
 
 (2) Such an appeal may be made only by giving notice to the Commissioners for Her Majesty's Revenue and Customs within 30 days of the service of the counteraction notice.
 
-(3) On an appeal under this section that is notified to the tribunal, the tribunal[^key-180021422cfbd616d5456c7bb5b50d10] may—
+(3) On an appeal under this section that is notified to the tribunal, the tribunal[^c-180021422cfbd616d5456c7bb5b50d10] may—
 
 - (a) affirm, vary or cancel the counteraction notice, or
 - (b) affirm, vary or quash an assessment made in accordance with the notice.
 
-(4) But the bringing of an appeal under this section [^key-cfa7998b2e7cfade245c8d825f21d730]... does not affect—
+(4) But the bringing of an appeal under this section [^c-cfa7998b2e7cfade245c8d825f21d730]... does not affect—
 
 - (a) the validity of the counteraction notice, or
 - (b) the validity of any other thing done under or in accordance with section 698 (counteraction notices),
@@ -41,8 +41,8 @@ pending the determination of the proceedings.
 
 ## Annotations
 
-[^key-3eb123d876035fc47a3676abdcdaa672]: Textual amendment: Words in s. 705(1) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 459(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/459/2)
+[^c-3eb123d876035fc47a3676abdcdaa672]: Textual amendment: Words in s. 705(1) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 459(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/459/2)
 
-[^key-180021422cfbd616d5456c7bb5b50d10]: Textual amendment: Words in s. 705(3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 459(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/459/3)
+[^c-180021422cfbd616d5456c7bb5b50d10]: Textual amendment: Words in s. 705(3) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 459(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/459/3)
 
-[^key-cfa7998b2e7cfade245c8d825f21d730]: Textual amendment: Words in s. 705(4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 459(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/459/4)
+[^c-cfa7998b2e7cfade245c8d825f21d730]: Textual amendment: Words in s. 705(4) omitted (1.4.2009) by virtue of [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 1 para. 459(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/1/paragraph/459/4)

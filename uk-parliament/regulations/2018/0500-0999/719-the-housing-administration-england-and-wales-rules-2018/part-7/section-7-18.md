@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.18. Standard contents of returns or reports of decisions[^key-73f5c701f927f5487979e1e697ca3321]
+## 7.18. Standard contents of returns or reports of decisions[^c-73f5c701f927f5487979e1e697ca3321]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ A return or report of a decision procedure, deemed consent procedure or meeting 
 
 ## Annotations
 
-[^key-73f5c701f927f5487979e1e697ca3321]: Commencement: Rule 7.18 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-73f5c701f927f5487979e1e697ca3321]: Commencement: Rule 7.18 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 56. References to spouses, children, etc.[^key-30cf1fa37330d263e4d8b048ff2d37d4]
+## 56. References to spouses, children, etc.[^c-30cf1fa37330d263e4d8b048ff2d37d4]
 
 *Extent: E*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30cf1fa37330d263e4d8b048ff2d37d4]: Commencement: [S. 56](https://www.legislation.gov.uk/ukcm/2018/9/section/56) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-30cf1fa37330d263e4d8b048ff2d37d4]: Commencement: [S. 56](https://www.legislation.gov.uk/ukcm/2018/9/section/56) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

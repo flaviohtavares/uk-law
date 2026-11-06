@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 113. Power of court to set aside certain transactions[^key-fea75f48fe9415249425d98ad4d0ec32]
+## 113. Power of court to set aside certain transactions[^c-fea75f48fe9415249425d98ad4d0ec32]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fea75f48fe9415249425d98ad4d0ec32]: Commencement: Rule 113 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-fea75f48fe9415249425d98ad4d0ec32]: Commencement: Rule 113 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

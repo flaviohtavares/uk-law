@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Contaminants in Food (Wales) Regulations 2006 (revoked)[^key-a3c09db432dc5486f42c07b27a224233]
+The Contaminants in Food (Wales) Regulations 2006 (revoked)[^c-a3c09db432dc5486f42c07b27a224233]
 
 Made
 
@@ -41,48 +41,48 @@ Coming into force
 
 1 March 2006
 
-[^key-a3c09db432dc5486f42c07b27a224233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3c09db432dc5486f42c07b27a224233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-a3c09db432dc5486f42c07b27a224233]
+## 1. Title, commencement and application[^c-a3c09db432dc5486f42c07b27a224233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a3c09db432dc5486f42c07b27a224233]
+## 2. Interpretation[^c-a3c09db432dc5486f42c07b27a224233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Offences and penalties[^key-a3c09db432dc5486f42c07b27a224233]
+## 3. Offences and penalties[^c-a3c09db432dc5486f42c07b27a224233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-a3c09db432dc5486f42c07b27a224233]
+## 4. Enforcement[^c-a3c09db432dc5486f42c07b27a224233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Procurement and analysis of samples[^key-a3c09db432dc5486f42c07b27a224233]
+## 5. Procurement and analysis of samples[^c-a3c09db432dc5486f42c07b27a224233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various sections of the Food Safety Act 1990[^key-a3c09db432dc5486f42c07b27a224233]
+## 6. Application of various sections of the Food Safety Act 1990[^c-a3c09db432dc5486f42c07b27a224233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consequential amendments[^key-a3c09db432dc5486f42c07b27a224233]
+## 7. Consequential amendments[^c-a3c09db432dc5486f42c07b27a224233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocations[^key-a3c09db432dc5486f42c07b27a224233]
+## 8. Revocations[^c-a3c09db432dc5486f42c07b27a224233]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3c09db432dc5486f42c07b27a224233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3c09db432dc5486f42c07b27a224233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a3c09db432dc5486f42c07b27a224233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3c09db432dc5486f42c07b27a224233]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a3c09db432dc5486f42c07b27a224233]: Textual amendment: Regulations revoked (13.7.2006) by [The Contaminants in Food (Wales) (No. 2) Regulations 2006 (S.I. 2006/1850)](https://www.legislation.gov.uk/uksi/2006/1850), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1850/regulation/1), [7](https://www.legislation.gov.uk/uksi/2006/1850/regulation/7)
+[^c-a3c09db432dc5486f42c07b27a224233]: Textual amendment: Regulations revoked (13.7.2006) by [The Contaminants in Food (Wales) (No. 2) Regulations 2006 (S.I. 2006/1850)](https://www.legislation.gov.uk/uksi/2006/1850), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1850/regulation/1), [7](https://www.legislation.gov.uk/uksi/2006/1850/regulation/7)

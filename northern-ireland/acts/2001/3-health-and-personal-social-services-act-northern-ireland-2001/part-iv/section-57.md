@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) Subject to subsection (2)[^key-e6f867a91a9e48c46c6b4c835bc35c8d] , any regulations or orders made by the Department under this Act shall be subject to negative resolution.
+(1) Subject to subsection (2)[^c-e6f867a91a9e48c46c6b4c835bc35c8d] , any regulations or orders made by the Department under this Act shall be subject to negative resolution.
 
 (2) Subsection (1) does not apply to—
 
@@ -39,4 +39,4 @@ which the Department considers necessary or expedient.
 
 ## Annotations
 
-[^key-e6f867a91a9e48c46c6b4c835bc35c8d]: Textual amendment: Words in [s. 57(1)](https://www.legislation.gov.uk/nia/2001/3/section/57/1) substituted (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 6(6)](https://www.legislation.gov.uk/nia/2016/23/section/6/6), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)
+[^c-e6f867a91a9e48c46c6b4c835bc35c8d]: Textual amendment: Words in [s. 57(1)](https://www.legislation.gov.uk/nia/2001/3/section/57/1) substituted (13.5.2016) by [Health and Personal Social Services (Amendment) Act (NorthernIreland) 2016 (c. 23)](https://www.legislation.gov.uk/nia/2016/23), [ss. 6(6)](https://www.legislation.gov.uk/nia/2016/23/section/6/6), [8](https://www.legislation.gov.uk/nia/2016/23/section/8)

@@ -32,7 +32,7 @@ summary: ''
 - (a) if the conditionally exempt transfer by the relevant person was made on death (but the property was not treated as forming part of his estate immediately before his death only by virtue of section 102(3) of the Finance Act 1986), subsection (1) of section 7; and
 - (b) in any other case, subsection (2) of section 7.
 
-(2ZA)[^key-9e1b029020d73a984d6a23e490f69fba] In determining for the purposes of subsection (1)(b)(ii) the rate or rates that would have applied in accordance with subsection (1) of section 7, the effect of Schedule 1A (if it would have applied) is to be disregarded.
+(2ZA)[^c-9e1b029020d73a984d6a23e490f69fba] In determining for the purposes of subsection (1)(b)(ii) the rate or rates that would have applied in accordance with subsection (1) of section 7, the effect of Schedule 1A (if it would have applied) is to be disregarded.
 
 (2A) The rate or rates of tax determined under subsection (1)(b)(i) above in respect of any chargeable event shall not be affected by the death of the relevant person after that event.
 
@@ -51,7 +51,7 @@ the value of the property at the time of the chargeable event shall be taken for
 - (b) if there have been two or more such transfers and the last was before, or only one of them was within, the period of thirty years ending with the event, the person who made the last of those transfers;
 - (c) if there have been two or more such transfers within that period, the person who made whichever of those transfers the Board may select.
 
-(6) The conditionally exempt transfers to be taken into account for the purpose of subsection (5) above in relation to a chargeable event do not include transfers made before any previous chargeable event in respect of the same property or before any event which apart from section 32(4) or (4A)[^key-040babfc97fad1863e9768996339ca22] above would have been such a chargeable event or, where the property has been disposed of as mentioned in[^c13608371] section 32A(5) or (5A)[^key-3f846ab009075606c2e1f8ae0adf6e0d] above, before any event which apart from section 32A(5) or (5A) would have been such a chargeable event
+(6) The conditionally exempt transfers to be taken into account for the purpose of subsection (5) above in relation to a chargeable event do not include transfers made before any previous chargeable event in respect of the same property or before any event which apart from section 32(4) or (4A)[^c-040babfc97fad1863e9768996339ca22] above would have been such a chargeable event or, where the property has been disposed of as mentioned in[^c13608371] section 32A(5) or (5A)[^c-3f846ab009075606c2e1f8ae0adf6e0d] above, before any event which apart from section 32A(5) or (5A) would have been such a chargeable event
 
 (7) Subject to subsection (8) below[^c13608381], where after a conditionally exempt transfer of any property there is a chargeable transfer the value transferred by which is wholly or partly attributable to that property, any tax charged on that value so far as attributable to that property shall be allowed as a credit—
 
@@ -81,13 +81,13 @@ the tax charged in accordance with this section by reference to that chargeable 
 
     “(2) For the purposes of subsection (1)(b)(ii) above the appropriate Table is, if the conditionally exempt transfer by the relevant person was made on death, the first Table in Schedule 1 to this Act and, if not, the second Table”.
 
-[^key-9e1b029020d73a984d6a23e490f69fba]: Textual amendment: S. 33(2ZA) inserted (with effect in accordance with Sch. 33 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 33 para. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/33/paragraph/4)
+[^c-9e1b029020d73a984d6a23e490f69fba]: Textual amendment: S. 33(2ZA) inserted (with effect in accordance with Sch. 33 para. 10(1) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 33 para. 4](https://www.legislation.gov.uk/ukpga/2012/14/schedule/33/paragraph/4)
 
-[^key-040babfc97fad1863e9768996339ca22]: Textual amendment: Words in s. 33(6) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 14 para. 31(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/14/paragraph/31/a)
+[^c-040babfc97fad1863e9768996339ca22]: Textual amendment: Words in s. 33(6) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 14 para. 31(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/14/paragraph/31/a)
 
 [^c13608371]: Textual amendment: Finance Act 1985 Sch. 26 para. 6,*in relation to events occurring after* 18*March* 1985.
 
-[^key-3f846ab009075606c2e1f8ae0adf6e0d]: Textual amendment: Words in s. 33(6) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 14 para. 31(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/14/paragraph/31/b)
+[^c-3f846ab009075606c2e1f8ae0adf6e0d]: Textual amendment: Words in s. 33(6) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 14 para. 31(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/14/paragraph/31/b)
 
 [^c13608381]: Textual amendment: Finance Act 1986 Sch. 19 para. 11(3),*with effect from* 18*March* 1986.
 

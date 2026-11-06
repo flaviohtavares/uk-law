@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Low Level Restoration Scheme[^key-1e9db1d1294d59052ee1b63e15c4d23d]
+## 43. Low Level Restoration Scheme[^c-1e9db1d1294d59052ee1b63e15c4d23d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Insofar as compliance with any article of this Order or any requirement in Sched
 
 ## Annotations
 
-[^key-1e9db1d1294d59052ee1b63e15c4d23d]: Commencement: Art. 43 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-1e9db1d1294d59052ee1b63e15c4d23d]: Commencement: Art. 43 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

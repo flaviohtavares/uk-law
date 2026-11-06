@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 125. Advice on seal population[^key-ccbfdeedd58b20c9f5767ddb17ef9ded]
+## 125. Advice on seal population[^c-ccbfdeedd58b20c9f5767ddb17ef9ded]
 
 *Extent: S*
 
-The Scottish Ministers must have regard to any advice about the management of seal populations which is given to them by United Kingdom Research and Innovation[^key-68408209c47bcd80388e34ac68f53512].
+The Scottish Ministers must have regard to any advice about the management of seal populations which is given to them by United Kingdom Research and Innovation[^c-68408209c47bcd80388e34ac68f53512].
 
 ## Annotations
 
-[^key-ccbfdeedd58b20c9f5767ddb17ef9ded]: Commencement: S. 125 in force at 1.9.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 3(d)](https://www.legislation.gov.uk/ssi/2010/230/article/3/d)
+[^c-ccbfdeedd58b20c9f5767ddb17ef9ded]: Commencement: S. 125 in force at 1.9.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 3(d)](https://www.legislation.gov.uk/ssi/2010/230/article/3/d)
 
-[^key-68408209c47bcd80388e34ac68f53512]: Textual amendment: Words in [s. 125](https://www.legislation.gov.uk/asp/2010/5/section/125) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/25); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)
+[^c-68408209c47bcd80388e34ac68f53512]: Textual amendment: Words in [s. 125](https://www.legislation.gov.uk/asp/2010/5/section/125) substituted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 25](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/25); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 26)

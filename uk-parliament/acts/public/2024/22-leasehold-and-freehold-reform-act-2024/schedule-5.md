@@ -24,11 +24,11 @@ summary: ''
 
 Section 37(3)
 
-### 1. Application of this Schedule[^key-2be25280a318de8680d7f057dec94d40]
+### 1. Application of this Schedule[^c-2be25280a318de8680d7f057dec94d40]
 
 This Schedule applies to every kind of statutory transfer or grant.
 
-### 2. Compensation payable[^key-077e78e00bb84ad1430efc4959daa6d6]
+### 2. Compensation payable[^c-077e78e00bb84ad1430efc4959daa6d6]
 
 (1) The buyer must pay a person (“**P**”) reasonable compensation for—
 
@@ -50,6 +50,6 @@ This Schedule applies to every kind of statutory transfer or grant.
 
 ## Annotations
 
-[^key-2be25280a318de8680d7f057dec94d40]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-2be25280a318de8680d7f057dec94d40]: Commencement: Sch. 5 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-077e78e00bb84ad1430efc4959daa6d6]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-077e78e00bb84ad1430efc4959daa6d6]: Commencement: Sch. 5 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

@@ -29,39 +29,39 @@ Hops Marketing Act 1982 (repealed)
 
 1982 c. 5
 
-[^key-40b60f756833ebbd46bdaee1d72f0792]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-40b60f756833ebbd46bdaee1d72f0792]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Revocation of Hops Marketing Scheme.[^key-40b60f756833ebbd46bdaee1d72f0792][^key-40b60f756833ebbd46bdaee1d72f0792]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Succession to rights et ceteralaetc. of Hops Marketing Board.[^key-40b60f756833ebbd46bdaee1d72f0792][^key-40b60f756833ebbd46bdaee1d72f0792]
+## 1. Revocation of Hops Marketing Scheme.[^c-40b60f756833ebbd46bdaee1d72f0792][^c-40b60f756833ebbd46bdaee1d72f0792]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Forward contracts of the Board.[^key-40b60f756833ebbd46bdaee1d72f0792][^key-40b60f756833ebbd46bdaee1d72f0792]
+## 2. Succession to rights et ceteralaetc. of Hops Marketing Board.[^c-40b60f756833ebbd46bdaee1d72f0792][^c-40b60f756833ebbd46bdaee1d72f0792]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Winding up and dissolution of the Board.[^key-40b60f756833ebbd46bdaee1d72f0792][^key-40b60f756833ebbd46bdaee1d72f0792]
+## 3. Forward contracts of the Board.[^c-40b60f756833ebbd46bdaee1d72f0792][^c-40b60f756833ebbd46bdaee1d72f0792]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short title and interpretation.[^key-40b60f756833ebbd46bdaee1d72f0792][^key-40b60f756833ebbd46bdaee1d72f0792]
+## 4. Winding up and dissolution of the Board.[^c-40b60f756833ebbd46bdaee1d72f0792][^c-40b60f756833ebbd46bdaee1d72f0792]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE — Orders Revoked[^key-40b60f756833ebbd46bdaee1d72f0792]
+## 5. Short title and interpretation.[^c-40b60f756833ebbd46bdaee1d72f0792][^c-40b60f756833ebbd46bdaee1d72f0792]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## SCHEDULE — Orders Revoked[^c-40b60f756833ebbd46bdaee1d72f0792]
 
 **No longer in force.**
 
@@ -71,4 +71,4 @@ Section 1(1).
 
 ## Annotations
 
-[^key-40b60f756833ebbd46bdaee1d72f0792]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1 (with [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph))
+[^c-40b60f756833ebbd46bdaee1d72f0792]: Textual amendment: Act repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1 (with [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Modifications to Part 2[^key-c464ad4ddf44fadad3bae7fc40aec2a2]
+## 21. Modifications to Part 2[^c-c464ad4ddf44fadad3bae7fc40aec2a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 5 (confidential information) has effect as if—
 
 ## Annotations
 
-[^key-c464ad4ddf44fadad3bae7fc40aec2a2]: Commencement: Reg. 21 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)
+[^c-c464ad4ddf44fadad3bae7fc40aec2a2]: Commencement: Reg. 21 in force at 3.6.2019, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/910/regulation/1/1)

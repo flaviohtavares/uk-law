@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Information disclosed by the Revenue and Customs[^key-f5cd0318be885726db7872b42333afd0][^key-cff914559147b72cbdb5589c9b362151]
+## 67. Information disclosed by the Revenue and Customs[^c-f5cd0318be885726db7872b42333afd0][^c-cff914559147b72cbdb5589c9b362151]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5cd0318be885726db7872b42333afd0]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2017/30/section/67) in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
+[^c-f5cd0318be885726db7872b42333afd0]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2017/30/section/67) in force at 1.4.2018 for specified purposes by [S.I. 2018/342](https://www.legislation.gov.uk/wsi/2018/342), [reg. 3(2)](https://www.legislation.gov.uk/wsi/2018/342/regulation/3/2)
 
-[^key-cff914559147b72cbdb5589c9b362151]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2017/30/section/67) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(dd)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/dd)
+[^c-cff914559147b72cbdb5589c9b362151]: Commencement: [S. 67](https://www.legislation.gov.uk/ukpga/2017/30/section/67) in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(dd)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/dd)

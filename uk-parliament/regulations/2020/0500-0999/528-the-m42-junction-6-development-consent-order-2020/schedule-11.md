@@ -22,17 +22,17 @@ summary: ''
 
 Article 39
 
-### PART 1 — TREES IN CONSERVATION AREA[^key-df34ad2e4445ee45a64e3859a5880312]
+### PART 1 — TREES IN CONSERVATION AREA[^c-df34ad2e4445ee45a64e3859a5880312]
 
 The tree plan references in the table below are taken from Appendix 8.2 Arboricultural Survey \[APP-128/Volume 6\] of the Environmental Statement.
 
-| *([^key-ca9882b8052bf7b59d054e7f17f83b7d]1)*<br>*Tree plan reference* | *(2)*<br>*Within Conservation Area* |
+| *([^c-ca9882b8052bf7b59d054e7f17f83b7d]1)*<br>*Tree plan reference* | *(2)*<br>*Within Conservation Area* |
 | --- | --- |
 | G6 | Bickenhill |
 | G8 | Bickenhill |
 | G60 | Bickenhill |
 
-### PART 2 — HEDGEROWS TO BE REMOVED OR MANAGED[^key-89325dd254355dfb520487a2fe8bc947]
+### PART 2 — HEDGEROWS TO BE REMOVED OR MANAGED[^c-89325dd254355dfb520487a2fe8bc947]
 
 The hedgerow identifications in the table below are taken from Appendix 9.3 Hedgerow Report \[APP-131/Volume 6\] of the Environmental Statement.
 
@@ -157,8 +157,8 @@ The hedgerow identifications in the table below are taken from Appendix 9.3 Hedg
 
 ## Annotations
 
-[^key-df34ad2e4445ee45a64e3859a5880312]: Commencement: Sch. 11 Pt. 1 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-df34ad2e4445ee45a64e3859a5880312]: Commencement: Sch. 11 Pt. 1 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-ca9882b8052bf7b59d054e7f17f83b7d]: Textual amendment: [Sch. 11 Pt. 1](https://www.legislation.gov.uk/uksi/2020/528/schedule/11/part/1) blank row omitted (21.10.2020) by virtue of [The M42 Junction 6 Development Consent (Correction) Order 2020 (S.I. 2020/1164)](https://www.legislation.gov.uk/uksi/2020/1164), [art. 1](https://www.legislation.gov.uk/uksi/2020/1164/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1164/schedule)
+[^c-ca9882b8052bf7b59d054e7f17f83b7d]: Textual amendment: [Sch. 11 Pt. 1](https://www.legislation.gov.uk/uksi/2020/528/schedule/11/part/1) blank row omitted (21.10.2020) by virtue of [The M42 Junction 6 Development Consent (Correction) Order 2020 (S.I. 2020/1164)](https://www.legislation.gov.uk/uksi/2020/1164), [art. 1](https://www.legislation.gov.uk/uksi/2020/1164/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2020/1164/schedule)
 
-[^key-89325dd254355dfb520487a2fe8bc947]: Commencement: Sch. 11 Pt. 2 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-89325dd254355dfb520487a2fe8bc947]: Commencement: Sch. 11 Pt. 2 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)

@@ -24,7 +24,7 @@ summary: ''
 
 (2) In subsection (1)—
 
-- (a)[^key-14ba4d89b07705dc6d9f7ba8e4589c39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-14ba4d89b07705dc6d9f7ba8e4589c39] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the following definitions are treated as inserted at the appropriate places in alphabetical order—
 
   > - “**authorised corporate director**” has the meaning given in regulations made under section 17(3) of the Finance (No. 2) Act 2005 (as at 1st April 2006, see regulation 8 of the Authorised Investment Funds (Tax) Regulations 2006 (S.I. 2006/\[abcd\]));
@@ -39,4 +39,4 @@ summary: ''
 
 [^c15459371]: Marginal citation: Section 288 was relevantly amended by section 118(4) of the Finance Act 2004.
 
-[^key-14ba4d89b07705dc6d9f7ba8e4589c39]: Textual amendment: [Reg. 109(2)(a)](https://www.legislation.gov.uk/uksi/2006/964/regulation/109/2/a) and word omitted (8.6.2013) by virtue of [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [14(e)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/14/e) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))
+[^c-14ba4d89b07705dc6d9f7ba8e4589c39]: Textual amendment: [Reg. 109(2)(a)](https://www.legislation.gov.uk/uksi/2006/964/regulation/109/2/a) and word omitted (8.6.2013) by virtue of [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [14(e)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/14/e) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))

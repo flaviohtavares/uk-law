@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1) The rules of a credit union shall be in such form as the FCA[^key-a80aeba0a0d890690883abdcfca93767] may determine and shall contain—
+(1) The rules of a credit union shall be in such form as the FCA[^c-a80aeba0a0d890690883abdcfca93767] may determine and shall contain—
 
 - (a) provision with respect to the matters mentioned in Schedule 1;
 - (b) such additional provisions as the FCA may determine.
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a80aeba0a0d890690883abdcfca93767]: Textual amendment: Word in art. 8(1) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(f)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/f) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-a80aeba0a0d890690883abdcfca93767]: Textual amendment: Word in art. 8(1) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(f)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/f) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
 [^c22301821]: Textual amendment: Art. 8(1A) inserted (31.3.2012) by [Financial Services and Markets Act 2000 (Permissions, Transitional Provisions and Consequential Amendments) (Northern Ireland Credit Unions) Order 2011 (S.I. 2011/2832)](https://www.legislation.gov.uk/uksi/2011/2832), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/2832/article/1/2), [13(7)](https://www.legislation.gov.uk/uksi/2011/2832/article/13/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-97de0c73b594b65f480bab91c31b2aae]
+## 2. Interpretation[^c-97de0c73b594b65f480bab91c31b2aae]
 
 *Extent: E+W*
 
@@ -35,10 +35,10 @@ summary: ''
 - “**the 2009 Act**” means the Marine and Coastal Access Act 2009[^f00021];
 - “**the 2016 Regulations**” means the Environmental Permitting (England and Wales) Regulations 2016[^f00022];
 - “**the 2017 Regulations**” means the Conservation of Habitats and Species Regulations 2017[^f00023];
-- “**A47 Tuddenham Order**” means the A47[^key-dd769e342dedc62344198cc7123c84fa] North Tuddenham to Easton Development Consent Order 2022[^f00024];
+- “**A47 Tuddenham Order**” means the A47[^c-dd769e342dedc62344198cc7123c84fa] North Tuddenham to Easton Development Consent Order 2022[^f00024];
 - “**A47 Tuddenham Scheme**” means the highways scheme to be constructed pursuant to the A47 Tuddenham Order;
 - “**access to works plan**” means the plan or plans certified as the access to works plan or plans by the Secretary of State under article 37 (certification of plans and documents, etc.);
-- “[^key-ef9eb6e5bc6624c23d766580fd79eac8]**air gap**” means the distance between the lowest point of the rotating blade of a wind turbine generator and HAT;
+- “[^c-ef9eb6e5bc6624c23d766580fd79eac8]**air gap**” means the distance between the lowest point of the rotating blade of a wind turbine generator and HAT;
 - “**ancillary works**” means the ancillary works described in Part 2 (ancillary works) of Schedule 1 (authorised project) and any other works authorised by this Order and which are not development within the meaning of section 32 of the 2008 Act;
 - “**authorised development**” means the development and associated development described in Part 1 (authorised development) of Schedule 1 and any other development authorised by this Order that is development within the meaning of section 32 of the 2008 Act;
 - “**authorised project**” means the authorised development and the ancillary works;
@@ -80,7 +80,7 @@ summary: ''
 - “**environmental statement**” means the document certified as the environmental statement by the Secretary of State under article 37 (certification of plans and documents, etc.);
 - “**FEP phase 2 site**” means the area of land on which phase 2 of the Food Enterprise Park is located, through which the Sheringham Shoal Extension Project onshore works and Dudgeon Extension Project onshore works pass, and which is shown on Figure 1 of the Supplemental Environmental Information to support the Applicant’s material change request;
 - “**gravity base structure foundation**” means a structure principally of steel, concrete, or steel and concrete which rests on the seabed either due to its own weight with or without added ballast, skirts or other additional fixings, and associated equipment including scour protection, J-tubes, corrosion protection systems, access platforms and equipment and separate topside connection structures or integrated transition pieces;
-- “**habitats regulations derogation provision of evidence, annex 2A - outline sandwich tern compensation implementation and monitoring plan**” means the document certified as the habitats regulations derogation provision of evidence, annex 2A - outline sandwich tern compensation implementation and monitoring plan by the Secretary of State under article 37 (certification of plans and documents, etc.)[^key-caf771ea4d7129986f88d9b897e0ce38];
+- “**habitats regulations derogation provision of evidence, annex 2A - outline sandwich tern compensation implementation and monitoring plan**” means the document certified as the habitats regulations derogation provision of evidence, annex 2A - outline sandwich tern compensation implementation and monitoring plan by the Secretary of State under article 37 (certification of plans and documents, etc.)[^c-caf771ea4d7129986f88d9b897e0ce38];
 - “**habitats regulations derogation provision of evidence, annex 3A - outline kittiwake compensation implementation and monitoring plan**” means the document certified as the habitats regulations derogation provision of evidence, annex 3A - outline kittiwake compensation implementation and monitoring plan by the Secretary of State under article 37 (certification of plans and documents, etc.);
 - “**HAT**” means highest astronomical tide;
 - “HDD” or “**horizontal direction drilling**” refers to a trenchless technique for installing cables and cable ducts involving drilling in an arc between two points;
@@ -147,7 +147,7 @@ summary: ''
 - “**outline marine traffic monitoring plan**” means the document certified as the outline marine traffic monitoring plan by the Secretary of State under article 37 (certification of plans and documents, etc.);
 - “**outline offshore operations and maintenance plan**” means the document certified as the outline offshore operations and maintenance plan by the Secretary of State under article 37 (certification of plans and documents, etc.);
 - “**outline project environmental management plan**” means the document certified as the outline project environmental management plan by the Secretary of State under article 37 (certification of plans and documents, etc.);
-- “**outline operational drainage strategy [^key-ce1dd66970239f9d13a32940e72c6bc5]...**” means the document certified as the outline operational drainage strategy [^key-ce1dd66970239f9d13a32940e72c6bc5]... by the Secretary of State under article 37 (certification of plans and documents, etc.);
+- “**outline operational drainage strategy [^c-ce1dd66970239f9d13a32940e72c6bc5]...**” means the document certified as the outline operational drainage strategy [^c-ce1dd66970239f9d13a32940e72c6bc5]... by the Secretary of State under article 37 (certification of plans and documents, etc.);
 - “**outline public rights of way strategy**” means the document certified as the outline public rights of way strategy by the Secretary of State under article 37 (certification of plans and documents, etc.);
 - “**outline skills and employment plan**” means the document certified as the outline skills and employment plan by the Secretary of State under article 37 (certification of plans and documents, etc.);
 - “**outline written scheme of investigation (offshore)**” means the document certified as the outline written scheme of investigation (offshore) by the Secretary of State under article 37 (certification of plans and documents, etc.);
@@ -221,7 +221,7 @@ summary: ''
 
 ## Annotations
 
-[^key-97de0c73b594b65f480bab91c31b2aae]: Commencement: Art. 2 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-97de0c73b594b65f480bab91c31b2aae]: Commencement: Art. 2 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
 [^f00011]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -249,18 +249,18 @@ summary: ''
 
 [^f00023]: Footnote: [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012).
 
-[^key-dd769e342dedc62344198cc7123c84fa]: Textual amendment: Word in art. 2(1) inserted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-dd769e342dedc62344198cc7123c84fa]: Textual amendment: Word in art. 2(1) inserted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
 [^f00024]: Footnote: [S.I. 2022/911](https://www.legislation.gov.uk/uksi/2022/911).
 
-[^key-ef9eb6e5bc6624c23d766580fd79eac8]: Textual amendment: Words in art. 2 inserted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2025/145/article/3/a)
+[^c-ef9eb6e5bc6624c23d766580fd79eac8]: Textual amendment: Words in art. 2 inserted (7.2.2025) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [3(a)](https://www.legislation.gov.uk/uksi/2025/145/article/3/a)
 
 [^f00025]: Footnote: Ministerial Order 2016/4.
 
-[^key-caf771ea4d7129986f88d9b897e0ce38]: Textual amendment: Words in art. 2(1) substituted (11.12.2024) by virtue of [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-caf771ea4d7129986f88d9b897e0ce38]: Textual amendment: Words in art. 2(1) substituted (11.12.2024) by virtue of [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
 
 [^f00026]: Footnote: [2010 c. 29](https://www.legislation.gov.uk/ukpga/2010/29).
 
-[^key-ce1dd66970239f9d13a32940e72c6bc5]: Textual amendment: Words in art. 2 omitted (7.2.2025) by virtue of [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/145/article/3/b)
+[^c-ce1dd66970239f9d13a32940e72c6bc5]: Textual amendment: Words in art. 2 omitted (7.2.2025) by virtue of [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Amendment) Order 2025 (S.I. 2025/145)](https://www.legislation.gov.uk/uksi/2025/145), [arts. 1](https://www.legislation.gov.uk/uksi/2025/145/article/1), [3(b)](https://www.legislation.gov.uk/uksi/2025/145/article/3/b)
 
 [^f00027]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).

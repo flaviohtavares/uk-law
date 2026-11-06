@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28A. Guidance for local authorities in England[^key-15a15b1156c7b4a65ec54acf0d2e9008]
+## 28A. Guidance for local authorities in England[^c-15a15b1156c7b4a65ec54acf0d2e9008]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ A local authority in England must have regard to any guidance published by the S
 
 ## Annotations
 
-[^key-15a15b1156c7b4a65ec54acf0d2e9008]: Textual amendment: S. 28A inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)
+[^c-15a15b1156c7b4a65ec54acf0d2e9008]: Textual amendment: S. 28A inserted (E.W.) (1.5.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3), [Sch. 12 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/6) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144), [Sch. 12 para. 26](https://www.legislation.gov.uk/ukpga/2021/30/schedule/12/paragraph/26)); [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2022/48/regulation/4/d)

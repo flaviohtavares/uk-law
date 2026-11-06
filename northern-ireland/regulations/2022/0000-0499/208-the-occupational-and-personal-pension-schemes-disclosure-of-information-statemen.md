@@ -42,13 +42,13 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 109(1), (2A) and (3), 177(2) to (4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and now vested in it[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-d6d08a0f3739a8b2a0fb11c25d0d9cf9]
+## 1. Citation, commencement and interpretation[^c-d6d08a0f3739a8b2a0fb11c25d0d9cf9]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Disclosure of Information) (Statements of Benefits: Money Purchase Benefits) (Amendment) Regulations (Northern Ireland) 2022 and shall come into operation on 1st October 2022.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^key-0bacb075b9a42b3e025a03fe2820d8af]
+## 2. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^c-0bacb075b9a42b3e025a03fe2820d8af]
 
 In regulation 17 of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^f00004] (statements of benefits: money purchase benefits) after paragraph (10) add—
 
@@ -96,11 +96,11 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
 
-[^key-d6d08a0f3739a8b2a0fb11c25d0d9cf9]: Commencement: Reg. 1 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/208/regulation/1/1)
+[^c-d6d08a0f3739a8b2a0fb11c25d0d9cf9]: Commencement: Reg. 1 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/208/regulation/1/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-0bacb075b9a42b3e025a03fe2820d8af]: Commencement: Reg. 2 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/208/regulation/1/1)
+[^c-0bacb075b9a42b3e025a03fe2820d8af]: Commencement: Reg. 2 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/208/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 2014 No. 79](https://www.legislation.gov.uk/nisr/2014/79)
 

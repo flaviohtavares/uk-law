@@ -59,7 +59,7 @@ A duty under section 32(1) to (7) of the Waste and Emissions Trading Act 2003 sh
 - (a) a waste disposal authority or a waste collection authority to which the Secretary of State has given notice in writing that it has been categorised as excellent or 4 stars in an order made under section 99(4) of the Local Government Act 2003[^f00002] (categorisation of English local authorities by reference to performance);
 - (b) a waste disposal authority to which the Secretary of State has given notice in writing that it has—
   - (i) met the performance standards for waste authorities specified for it for the most recent financial year for which standards were set by an order under section 4(1) of the Local Government Act 1999[^f00003] (performance indicators and standards); and
-  - (ii)[^key-849c4b7b3410164d707d069d7af6c883] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-849c4b7b3410164d707d069d7af6c883] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) a waste collection authority to which the Secretary of State has given notice in writing that it has met the performance standards for waste authorities specified for it for the most recent financial year for which standards were set by an order made under section 4(1) of the Local Government Act 1999;
 - (d) the waste authorities for a two-tier area to which the Secretary of State has given notice in writing that he is satisfied that the following conditions are met—
   - (i) the waste disposal authority complies with paragraph (b);
@@ -124,6 +124,6 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00003]: Footnote: [1999 c.27](https://www.legislation.gov.uk/ukpga/1999/27).
 
-[^key-849c4b7b3410164d707d069d7af6c883]: Textual amendment: [Reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2007/63/regulation/2/b/ii) revoked (31.3.2013) by [The Waste and Emissions Trading Act 2003 (Amendment etc.) Regulations 2013 (S.I. 2013/141)](https://www.legislation.gov.uk/uksi/2013/141), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/141/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2013/141/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/141/regulation/8))
+[^c-849c4b7b3410164d707d069d7af6c883]: Textual amendment: [Reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2007/63/regulation/2/b/ii) revoked (31.3.2013) by [The Waste and Emissions Trading Act 2003 (Amendment etc.) Regulations 2013 (S.I. 2013/141)](https://www.legislation.gov.uk/uksi/2013/141), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2013/141/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2013/141/regulation/7) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/141/regulation/8))
 
 [^f00004]: Footnote: [S.I. 2004/3242](https://www.legislation.gov.uk/uksi/2004/3242).

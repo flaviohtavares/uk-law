@@ -31,7 +31,7 @@ summary: ''
 
 Immigration
 
-The Immigration (Jersey) Order 2012 (revoked)[^key-161763715f017bbc75ea8c3866fb9337]
+The Immigration (Jersey) Order 2012 (revoked)[^c-161763715f017bbc75ea8c3866fb9337]
 
 Made
 
@@ -45,40 +45,40 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-161763715f017bbc75ea8c3866fb9337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-161763715f017bbc75ea8c3866fb9337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-161763715f017bbc75ea8c3866fb9337]
+## 1. Citation, commencement and interpretation[^c-161763715f017bbc75ea8c3866fb9337]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension and modification[^key-161763715f017bbc75ea8c3866fb9337]
+## 2. Extension and modification[^c-161763715f017bbc75ea8c3866fb9337]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-161763715f017bbc75ea8c3866fb9337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-161763715f017bbc75ea8c3866fb9337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-161763715f017bbc75ea8c3866fb9337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-161763715f017bbc75ea8c3866fb9337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — Exceptions and modifications of sections 31, 32, 34 and 39 of the Immigration, Asylum and Nationality Act 2006 as they extend to Jersey[^key-161763715f017bbc75ea8c3866fb9337]
+## SCHEDULE 1 — Exceptions and modifications of sections 31, 32, 34 and 39 of the Immigration, Asylum and Nationality Act 2006 as they extend to Jersey[^c-161763715f017bbc75ea8c3866fb9337]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Modification of section 18 of the Immigration and Asylum Act 1999 in its extension to Jersey[^key-161763715f017bbc75ea8c3866fb9337]
+## SCHEDULE 2 — Modification of section 18 of the Immigration and Asylum Act 1999 in its extension to Jersey[^c-161763715f017bbc75ea8c3866fb9337]
 
 Article 3
 
-**1.**[^key-161763715f017bbc75ea8c3866fb9337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-161763715f017bbc75ea8c3866fb9337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-161763715f017bbc75ea8c3866fb9337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-161763715f017bbc75ea8c3866fb9337]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-161763715f017bbc75ea8c3866fb9337]: Textual amendment: Order revoked (12.4.2022) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1), [15(1)(d)](https://www.legislation.gov.uk/uksi/2021/1281/article/15/1/d) (with [art. 15(2)](https://www.legislation.gov.uk/uksi/2021/1281/article/15/2)); Immigration (Commencement) (Jersery) Order 2022
+[^c-161763715f017bbc75ea8c3866fb9337]: Textual amendment: Order revoked (12.4.2022) by [The Immigration (Jersey) Order 2021 (S.I. 2021/1281)](https://www.legislation.gov.uk/uksi/2021/1281), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/1281/article/1/1), [15(1)(d)](https://www.legislation.gov.uk/uksi/2021/1281/article/15/1/d) (with [art. 15(2)](https://www.legislation.gov.uk/uksi/2021/1281/article/15/2)); Immigration (Commencement) (Jersery) Order 2022

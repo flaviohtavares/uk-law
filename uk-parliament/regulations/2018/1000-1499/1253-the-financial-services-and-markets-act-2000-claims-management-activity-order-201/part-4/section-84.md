@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 84. Claims management related rules and guidance made by the FCA[^key-90ca989c705b5a26b65e1b83c0b3922e][^key-21496197c92d40a027fd4e0530e5b3e5]
+## 84. Claims management related rules and guidance made by the FCA[^c-90ca989c705b5a26b65e1b83c0b3922e][^c-21496197c92d40a027fd4e0530e5b3e5]
 
 *Extent: E+W+S*
 
@@ -79,9 +79,9 @@ may be satisfied by things done by the FCA before the date on which this article
 
 ## Annotations
 
-[^key-90ca989c705b5a26b65e1b83c0b3922e]: Commencement: Art. 84 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
+[^c-90ca989c705b5a26b65e1b83c0b3922e]: Commencement: Art. 84 in force at 29.11.2018 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2)
 
-[^key-21496197c92d40a027fd4e0530e5b3e5]: Commencement: [Art. 84](https://www.legislation.gov.uk/uksi/2018/1253/article/84) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
+[^c-21496197c92d40a027fd4e0530e5b3e5]: Commencement: [Art. 84](https://www.legislation.gov.uk/uksi/2018/1253/article/84) in force at 1.4.2019 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3)
 
 [^f00119]: Footnote: [2006 c. 29](https://www.legislation.gov.uk/ukpga/2006/29).
 

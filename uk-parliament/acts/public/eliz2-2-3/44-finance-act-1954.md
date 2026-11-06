@@ -102,9 +102,9 @@ Provided that for the purposes of this subsection an assignment or charge made t
 
 (1), (2) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c619445]
 
-(3) Any sum charged by any Act, whenever passed, on the Consolidated Fund shall be charged also on the growing produce of the Fund [^key-e3bbcd021c43604fe8d8631eb43c869d]...
+(3) Any sum charged by any Act, whenever passed, on the Consolidated Fund shall be charged also on the growing produce of the Fund [^c-e3bbcd021c43604fe8d8631eb43c869d]...
 
-(4)[^key-6413886f014e65bc509c9d5c021efa7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-6413886f014e65bc509c9d5c021efa7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 35. Short title, etc.
 
@@ -118,7 +118,7 @@ Provided that for the purposes of this subsection an assignment or charge made t
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c619450]
 
-(6)[^key-a6eff76c7aa560dd927712e4bd211fa0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-a6eff76c7aa560dd927712e4bd211fa0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Any reference in this Act to any other enactment shall, except so far as the context otherwise requires, be construed as a reference to that enactment as amended or applied by or under any other enactment, including this Act.
 
@@ -192,9 +192,9 @@ Provided that for the purposes of this subsection an assignment or charge made t
 
 [^c619445]: Textual amendment: S. 34(1)(2) repealed by [National Loans Act 1968 (c. 13)](https://www.legislation.gov.uk/ukpga/1968/13), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1968/13/schedule/6/part/I)
 
-[^key-e3bbcd021c43604fe8d8631eb43c869d]: Textual amendment: Words in s. 34(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 4
+[^c-e3bbcd021c43604fe8d8631eb43c869d]: Textual amendment: Words in s. 34(3) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 4
 
-[^key-6413886f014e65bc509c9d5c021efa7d]: Textual amendment: S. 34(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 4
+[^c-6413886f014e65bc509c9d5c021efa7d]: Textual amendment: S. 34(4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 4
 
 [^c619447]: Textual amendment: S. 35(2) repealed by [Statute Law (Repeals) Act 1971 (c. 52)](https://www.legislation.gov.uk/ukpga/1971/52)
 
@@ -204,7 +204,7 @@ Provided that for the purposes of this subsection an assignment or charge made t
 
 [^c619450]: Textual amendment: S. 35(5) repealed by [Finance Act 1975 (c. 7)](https://www.legislation.gov.uk/ukpga/1975/7), [Sch. 13 Pt. I](https://www.legislation.gov.uk/ukpga/1975/7/schedule/13/part/I)
 
-[^key-a6eff76c7aa560dd927712e4bd211fa0]: Textual amendment: [S. 35(6)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/44/section/35/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 4
+[^c-a6eff76c7aa560dd927712e4bd211fa0]: Textual amendment: [S. 35(6)](https://www.legislation.gov.uk/ukpga/Eliz2/2-3/44/section/35/6) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 4
 
 [^c619451]: Textual amendment: S. 35(9) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 85. Accounting[^key-509c7a83c9a4f5d441bfd2d99fe72049]
+## 85. Accounting[^c-509c7a83c9a4f5d441bfd2d99fe72049]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 4.72 of the 1986 Rules.
 
 ## Annotations
 
-[^key-509c7a83c9a4f5d441bfd2d99fe72049]: Commencement: Rule 85 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-509c7a83c9a4f5d441bfd2d99fe72049]: Commencement: Rule 85 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

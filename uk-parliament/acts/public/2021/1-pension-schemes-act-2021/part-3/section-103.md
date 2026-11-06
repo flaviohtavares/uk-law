@@ -20,16 +20,16 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-8825469c8a668da09b28689a381383c3] The Pensions Act 2004 is amended as follows.
+(1)[^c-8825469c8a668da09b28689a381383c3] The Pensions Act 2004 is amended as follows.
 
-(2)[^key-8825469c8a668da09b28689a381383c3] In section 38 (contribution notices where avoidance of employer debt)—
+(2)[^c-8825469c8a668da09b28689a381383c3] In section 38 (contribution notices where avoidance of employer debt)—
 
 - (a) in subsection (5)(a)—
   - (i) after “test” insert “ , the employer insolvency test or the employer resources test ”;
   - (ii) for “section 38A)” substitute “ sections 38A, 38C and 38E) ”;
 - (b) in subsection (12)(c), after “test” insert “ , the employer insolvency test or the employer resources test ”.
 
-(3)[^key-8825469c8a668da09b28689a381383c3] After section 38B insert—
+(3)[^c-8825469c8a668da09b28689a381383c3] After section 38B insert—
 
 > **38C. Section 38 contribution notice: meaning of “employer insolvency test”**
 >
@@ -133,7 +133,7 @@ summary: ''
 > - (b) “**a warning notice**” means a notice given as mentioned in section 96(2)(a);
 > - (c) a reference to a party to an act or failure to act includes a reference to a person who knowingly assists in the act or failure.
 
-(4)[^key-b3ad6a51067974429ed628e9d4eadd1f][^key-f47e43fc0cc1e6c5393dfad4f41652f7] After section 38D (inserted by subsection (3)) insert—
+(4)[^c-b3ad6a51067974429ed628e9d4eadd1f][^c-f47e43fc0cc1e6c5393dfad4f41652f7] After section 38D (inserted by subsection (3)) insert—
 
 > **38E. Section 38 contribution notice: meaning of “employer resources test”**
 >
@@ -223,8 +223,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8825469c8a668da09b28689a381383c3]: Commencement: [S. 103(1)-(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/103/1)[(5)-(13)](https://www.legislation.gov.uk/ukpga/2021/1/section/103/5) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))
+[^c-8825469c8a668da09b28689a381383c3]: Commencement: [S. 103(1)-(3)](https://www.legislation.gov.uk/ukpga/2021/1/section/103/1)[(5)-(13)](https://www.legislation.gov.uk/ukpga/2021/1/section/103/5) in force at 1.10.2021 by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))
 
-[^key-b3ad6a51067974429ed628e9d4eadd1f]: Commencement: [S. 103(4)](https://www.legislation.gov.uk/ukpga/2021/1/section/103/4) in force at 31.5.2021 for specified purposes by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/a)
+[^c-b3ad6a51067974429ed628e9d4eadd1f]: Commencement: [S. 103(4)](https://www.legislation.gov.uk/ukpga/2021/1/section/103/4) in force at 31.5.2021 for specified purposes by [S.I. 2021/620](https://www.legislation.gov.uk/uksi/2021/620), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2021/620/regulation/2/1/a)
 
-[^key-f47e43fc0cc1e6c5393dfad4f41652f7]: Commencement: [S. 103(4)](https://www.legislation.gov.uk/ukpga/2021/1/section/103/4) in force at 1.10.2021 in so far as not already in force by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))
+[^c-f47e43fc0cc1e6c5393dfad4f41652f7]: Commencement: [S. 103(4)](https://www.legislation.gov.uk/ukpga/2021/1/section/103/4) in force at 1.10.2021 in so far as not already in force by [S.I. 2021/950](https://www.legislation.gov.uk/uksi/2021/950), [reg. 2(5)(a)](https://www.legislation.gov.uk/uksi/2021/950/regulation/2/5/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/1)[(2)](https://www.legislation.gov.uk/uksi/2021/950/regulation/3/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 121. Power to enter land to protect fisheries or fish farms from seals[^key-61abc4e3a8fd6fa4ec6a8e98ed8bec1b]
+## 121. Power to enter land to protect fisheries or fish farms from seals[^c-61abc4e3a8fd6fa4ec6a8e98ed8bec1b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61abc4e3a8fd6fa4ec6a8e98ed8bec1b]: Textual amendment: S. 121 repealed (1.2.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 14(3)](https://www.legislation.gov.uk/asp/2020/14/section/14/3), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/2)
+[^c-61abc4e3a8fd6fa4ec6a8e98ed8bec1b]: Textual amendment: S. 121 repealed (1.2.2021) by [Animals and Wildlife (Penalties, Protections and Powers) (Scotland) Act 2020 (asp 14)](https://www.legislation.gov.uk/asp/2020/14), [ss. 14(3)](https://www.legislation.gov.uk/asp/2020/14/section/14/3), [22(2)](https://www.legislation.gov.uk/asp/2020/14/section/22/2); [S.S.I. 2020/379](https://www.legislation.gov.uk/ssi/2020/379), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2020/379/regulation/2/2)

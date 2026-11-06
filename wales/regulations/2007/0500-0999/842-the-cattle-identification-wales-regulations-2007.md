@@ -59,11 +59,11 @@ The title of these Regulations is The Cattle Identification (Wales) Regulations 
 
 - “**cattle**” means bovine animals, including bison and buffalo;
 - “**cattle passport**” means—
-  - (a) a cattle passport issued under Schedule 3 to these Regulations or the equivalent measure in England or Scotland[^key-71faa0ae133b360ee440db3c5915ae93];
+  - (a) a cattle passport issued under Schedule 3 to these Regulations or the equivalent measure in England or Scotland[^c-71faa0ae133b360ee440db3c5915ae93];
   - (b) a cattle passport issued under the Cattle Passports Order 1996 [^c18381061]; and
   - (c) a movement document issued under the Cattle (Identification of Older Animals) (Wales) Regulations 2000 [^c18381071] or the equivalent measure in Scotland, England or Northern Ireland;
-- “Commission Regulation[^key-bfc368d4b513c4e544c8ddbdbff7c196] [(EC) No 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494)” (“*Rheoliad y Comisiwn [(EC) Rhif 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494)*”) means Commission Regulation [(EC) No 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494) laying down detailed rules for the implementation of Council Regulation [(EC) No 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) as regards the application of minimum administrative sanctions in the framework of the system for the identification and registration of bovine animals;”.
-- “[^key-2bb81442eeed1b56f6e8bd7b76a39a93][Commission Regulation (EC) No 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911)” (*“Rheoliad y Comisiwn [(EC) Rhif 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911)”*) means [Commission Regulation (EC) No 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) implementing Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council as regards eartags, passports and holding registers, as last amended by Commission Implementing Regulation (EU) 2017/949.
+- “Commission Regulation[^c-bfc368d4b513c4e544c8ddbdbff7c196] [(EC) No 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494)” (“*Rheoliad y Comisiwn [(EC) Rhif 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494)*”) means Commission Regulation [(EC) No 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494) laying down detailed rules for the implementation of Council Regulation [(EC) No 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) as regards the application of minimum administrative sanctions in the framework of the system for the identification and registration of bovine animals;”.
+- “[^c-2bb81442eeed1b56f6e8bd7b76a39a93][Commission Regulation (EC) No 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911)” (*“Rheoliad y Comisiwn [(EC) Rhif 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911)”*) means [Commission Regulation (EC) No 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) implementing Regulation [(EC) No 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council as regards eartags, passports and holding registers, as last amended by Commission Implementing Regulation (EU) 2017/949.
 - “**holding**” means any establishment, construction or, in the case of an open-air farm, any place in which cattle are held, kept or handled;
 - “**inspector**” means a person appointed to be an inspector for the purposes of these Regulations by the National Assembly or a local authority;
 - “**keeper**” means any person responsible for animals, whether on a permanent or temporary basis, including during transportation or at a market;
@@ -75,14 +75,14 @@ The title of these Regulations is The Cattle Identification (Wales) Regulations 
   - (c) the Bovine Animals (Identification, Marking and Breeding Records) Order 1990 [^c18381101];
   - (d) the Tuberculosis (England and Wales) Order 1984 [^c18381111]; and
   - (e) the Tuberculosis (Scotland) Order 1984 [^c18381121];
-- “**Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760)**” means Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council (establishing a system for the identification and registration of bovine animals and regarding the labelling of beef products and repealing Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) [^c18381131]) , as amended by Regulation (EU) 2016/429 of the European Parliament and the Council[^key-1c13faaf35a1482c21d5704943d2052a];
+- “**Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760)**” means Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council (establishing a system for the identification and registration of bovine animals and regarding the labelling of beef products and repealing Council Regulation [(EC) No. 820/97](https://www.legislation.gov.uk/european/regulation/1997/0820) [^c18381131]) , as amended by Regulation (EU) 2016/429 of the European Parliament and the Council[^c-1c13faaf35a1482c21d5704943d2052a];
 - “**valid**”, in relation to a cattle passport, means a cattle passport that has been correctly completed and signed in the appropriate place by each keeper of the animal and the identification number and description of the animal in the passport correlate to the ear tags and the animal.
 
 (2) Any approval, authorisation, licence, notice or registration issued under—
 
 - (a) these Regulations,
 - (b) Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760);
-- (c) Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) [^key-ac87fdbbd5d7f6ec667de78816a50a26]...; or
+- (c) Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911) [^c-ac87fdbbd5d7f6ec667de78816a50a26]...; or
 - (d) Commission Regulation [(EC) No. 644/2005](https://www.legislation.gov.uk/european/regulation/2005/0644) (authorising a special identification system for bovine animals kept for cultural and historical purposes on approved premises as provided for in Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760) of the European Parliament and of the Council [^c18381151]),
 
 must be in writing, may be made subject to conditions and may be amended or revoked by notice in writing at any time.
@@ -136,7 +136,7 @@ The National Assembly may make a reasonable charge for providing information tha
 
 - (a) these Regulations;
 - (b) Title I of Regulation [(EC) No. 1760/2000](https://www.legislation.gov.uk/european/regulation/2000/1760);
-- (c)[^key-357dbf5d88daeba4f76fe72b4c723e72] Commission Regulation [(EC) No 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494);
+- (c)[^c-357dbf5d88daeba4f76fe72b4c723e72] Commission Regulation [(EC) No 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494);
 - (d) Commission Regulation [(EC) No. 509/1999](https://www.legislation.gov.uk/european/regulation/1999/0509) (concerning an extension of the maximum period laid down for the application of ear tags to bison [^c18381171])
 - (e) Commission Regulation [(EC) No. 911/2004](https://www.legislation.gov.uk/european/regulation/2004/0911); and
 - (f) Commission Regulation [(EC) No. 644/2005](https://www.legislation.gov.uk/european/regulation/2005/0644),
@@ -154,7 +154,7 @@ and in this regulation “**premises**” includes any place, installation, vehi
 - (e) have access to, and inspect and check the operation of, any computer and any associated apparatus or material that is or has been used in connection with records, and may require any person having charge of, or otherwise concerned with the operation of, the computer, apparatus or material to afford him or her such assistance as he or she may reasonably require;
 - (f) where records are kept by means of a computer, require the records to be produced in a form in which they may be taken away;
 - (g) require production of any unused ear tags and record their numbers; and
-- (h) take with him or her any[^key-64528306240983ebbfb3747231409f88] person he or she considers necessary.
+- (h) take with him or her any[^c-64528306240983ebbfb3747231409f88] person he or she considers necessary.
 
 ### 11. Powers to restrict movements
 
@@ -162,7 +162,7 @@ In accordance with the second paragraph of Article 22(1) of Regulation [(EC) No.
 
 ### 12. Slaughter of unmarked animals
 
-The National Assembly is [^key-662c025acfab84139dbe25f48a00c7c7]... the competent authority for the purposes of Article 1(2) of Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494).
+The National Assembly is [^c-662c025acfab84139dbe25f48a00c7c7]... the competent authority for the purposes of Article 1(2) of Commission Regulation [(EC) No. 494/98](https://www.legislation.gov.uk/european/regulation/1998/0494).
 
 ### 13. Obstruction etc.
 
@@ -298,7 +298,7 @@ If an animal born before 1 January 1998 is re-tagged with a different ear tag nu
 
 If an animal is not tagged in accordance with these Regulations or previous cattle tagging legislation, an inspector may apply an identification mark to it.
 
-### 8. Intra-Community trade[^key-e2860367d82fa86a8e5818eec7414a63]
+### 8. Intra-Community trade[^c-e2860367d82fa86a8e5818eec7414a63]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -340,7 +340,7 @@ It is an offence to fail to register an animal in accordance with this Schedule.
 (3) The application must be made—
 
 - (a) using the National Assembly's interactive website;
-- (aa)[^key-9c7764914f6f7c70a647e989807cc921] using the Welsh Ministers' automated telephony service;
+- (aa)[^c-9c7764914f6f7c70a647e989807cc921] using the Welsh Ministers' automated telephony service;
 - (b) using software approved by the National Assembly; or
 - (c) in writing, using the application form provided by the National Assembly,
 
@@ -352,9 +352,9 @@ and must provide all the required information.
 
 (2) In the case of bison, the time limit for registration is 7 days from the birth of the calf, whether or not the animal has been tagged, and the application must state the tag number intended to be used for the animal.
 
-### 4. Registration of cattle brought in from a member State etc.[^key-ded4d7d11c9c2f7168084d6070726769]
+### 4. Registration of cattle brought in from a member State etc.[^c-ded4d7d11c9c2f7168084d6070726769]
 
-(1) If cattle are brought in from a[^key-73c32ba5dd94f80a8de72ca842e3121f] member State, the Channel Islands, the Isle of Man or Northern Ireland, the keeper must, within 15 days of an animal arriving at the holding of destination—
+(1) If cattle are brought in from a[^c-73c32ba5dd94f80a8de72ca842e3121f] member State, the Channel Islands, the Isle of Man or Northern Ireland, the keeper must, within 15 days of an animal arriving at the holding of destination—
 
 - (a) register it with the National Assembly, and
 - (b) surrender its cattle passport (if any) to the National Assembly.
@@ -395,9 +395,9 @@ Regulation 6
 
 (2) The National Assembly may only provide a replacement cattle passport if it is satisfied that it can accurately reconstruct the movements of the animal since birth or importation.
 
-(3)[^key-a2e67c58938323d55abda3f17c82de6a] If the Welsh Ministers do not provide a replacement, the animal to which it relates must not be moved off a holding except (under the authority of a licence granted by the Welsh Ministers) to—
+(3)[^c-a2e67c58938323d55abda3f17c82de6a] If the Welsh Ministers do not provide a replacement, the animal to which it relates must not be moved off a holding except (under the authority of a licence granted by the Welsh Ministers) to—
 
-- (a) a plant approved under Article 24(1)(a), (b), (c) or (h) of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council , as last amended by Regulation (EU) No 1385/2013 of the European Parliament and of the Council[^key-339c3476f88af1f2d4b938d698874ada]; or
+- (a) a plant approved under Article 24(1)(a), (b), (c) or (h) of Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council , as last amended by Regulation (EU) No 1385/2013 of the European Parliament and of the Council[^c-339c3476f88af1f2d4b938d698874ada]; or
 - (b) a registered collection centre which complies with Section 1 of Chapter II of Annex VI of Commission Regulation (EU) No. 142/2011 implementing Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069) of the European Parliament and of the Council.
 
 (4) If a person who has obtained a replacement cattle passport subsequently finds the original cattle passport, he or she must notify the National Assembly within 7 days and enclose with the notification the original cattle passport.
@@ -468,7 +468,7 @@ It is an offence to use a cattle passport in relation to an animal other than th
 
 and must sign it.
 
-(2A)[^key-9e19c1c0403790ffd25d1f9ebbe1eb18] But sub-paragraph (2) does not apply to the occupier of a slaughterhouse.
+(2A)[^c-9e19c1c0403790ffd25d1f9ebbe1eb18] But sub-paragraph (2) does not apply to the occupier of a slaughterhouse.
 
 (3) He or she must do this within 36 hours of the arrival of the animal
 
@@ -482,7 +482,7 @@ and must sign it.
 
 (2) If it has a passport its keeper must complete it in accordance with this Schedule, and failure to do so is an offence.
 
-#### 13. Exports[^key-cec4efa3fc767cd7b4e9e77f398601ae]
+#### 13. Exports[^c-cec4efa3fc767cd7b4e9e77f398601ae]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -509,7 +509,7 @@ Regulation 7
 (1) A keeper must notify the National Assembly within three days of any movement of cattle on to or off a holding—
 
 - (a) using the National Assembly's interactive website;
-- (aa)[^key-03013a5ec6be2df61d70f61a58062557] using the Welsh Ministers automated telephony service;
+- (aa)[^c-03013a5ec6be2df61d70f61a58062557] using the Welsh Ministers automated telephony service;
 - (b) using software approved by the National Assembly; or
 - (c) in writing, using the movement card provided by the National Assembly,
 
@@ -519,7 +519,7 @@ and must provide all the required information.
 
 ### 2. Notification of death
 
-(1)[^key-beda4c45bf690f17dad8ef92afb9e7b8] When an animal is slaughtered at a slaughterhouse, the occupier of the slaughterhouse must notify the Welsh Ministers of the death within seven days—
+(1)[^c-beda4c45bf690f17dad8ef92afb9e7b8] When an animal is slaughtered at a slaughterhouse, the occupier of the slaughterhouse must notify the Welsh Ministers of the death within seven days—
 
 - (a) using the Welsh Ministers' interactive website;
 - (b) using the Welsh Ministers' automated telephony service;
@@ -543,7 +543,7 @@ and must return the animal’s passport to the Welsh Ministers within seven days
 
 (4) If an animal does not have a cattle passport, the keeper must notify its death to the National Assembly in writing within seven days, and include the ear tag number, the date of death and the holding on which it died.
 
-(5)[^key-f83567637349568860e55f34df0cf2a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f83567637349568860e55f34df0cf2a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Failure to comply with this paragraph is an offence.
 
@@ -638,15 +638,15 @@ A full regulatory appraisal of the effect that this instrument will have on the 
 
 [^c18381051]: Marginal citation: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51).
 
-[^key-71faa0ae133b360ee440db3c5915ae93]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/842/regulation/2/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71faa0ae133b360ee440db3c5915ae93]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2007/842/regulation/2/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18381061]: Marginal citation: [S. I. 1996/1686](https://www.legislation.gov.uk/uksi/1996/1686).
 
 [^c18381071]: Marginal citation: [S. I. 2000/3339](https://www.legislation.gov.uk/uksi/2000/3339) (W.217) as amended by [S.I. 2002/273](https://www.legislation.gov.uk/uksi/2002/273) (W.29).
 
-[^key-bfc368d4b513c4e544c8ddbdbff7c196]: Textual amendment: Words in reg. 2(1) inserted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [3](https://www.legislation.gov.uk/wsi/2013/821/regulation/3)
+[^c-bfc368d4b513c4e544c8ddbdbff7c196]: Textual amendment: Words in reg. 2(1) inserted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [3](https://www.legislation.gov.uk/wsi/2013/821/regulation/3)
 
-[^key-2bb81442eeed1b56f6e8bd7b76a39a93]: Textual amendment: Words in reg. 2(1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [7(2)(a)](https://www.legislation.gov.uk/wsi/2019/463/regulation/7/2/a)
+[^c-2bb81442eeed1b56f6e8bd7b76a39a93]: Textual amendment: Words in reg. 2(1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [7(2)(a)](https://www.legislation.gov.uk/wsi/2019/463/regulation/7/2/a)
 
 [^c18381081]: Marginal citation: [S. I. 1998/871](https://www.legislation.gov.uk/uksi/1998/871).
 
@@ -660,21 +660,21 @@ A full regulatory appraisal of the effect that this instrument will have on the 
 
 [^c18381131]: Marginal citation: OJ No. L204, 11.8.2000, p. 1.
 
-[^key-1c13faaf35a1482c21d5704943d2052a]: Textual amendment: Words in reg. 2(1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [7(2)(b)](https://www.legislation.gov.uk/wsi/2019/463/regulation/7/2/b)
+[^c-1c13faaf35a1482c21d5704943d2052a]: Textual amendment: Words in reg. 2(1) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [7(2)(b)](https://www.legislation.gov.uk/wsi/2019/463/regulation/7/2/b)
 
-[^key-ac87fdbbd5d7f6ec667de78816a50a26]: Textual amendment: Words in reg. 2(2)(c) omitted (28.3.2019) by virtue of [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [7(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/7/3)
+[^c-ac87fdbbd5d7f6ec667de78816a50a26]: Textual amendment: Words in reg. 2(2)(c) omitted (28.3.2019) by virtue of [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [7(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/7/3)
 
 [^c18381151]: Marginal citation: OJ No. L 107, 28.4.2005, p. 18.
 
 [^M_F_5efc4f2f-f30b-4dd5-ad3a-840a3b23a0d5]: Textual amendment: Reg. 3(4) inserted (14.11.2007) by [The Cattle Identification (Wales) (Amendment) Regulations 2007 (S.I. 2007/3004)](https://www.legislation.gov.uk/uksi/2007/3004), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3004/regulation/1), [2](https://www.legislation.gov.uk/uksi/2007/3004/regulation/2)
 
-[^key-357dbf5d88daeba4f76fe72b4c723e72]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/wsi/2007/842/regulation/10/1/c) substituted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [4](https://www.legislation.gov.uk/wsi/2013/821/regulation/4)
+[^c-357dbf5d88daeba4f76fe72b4c723e72]: Textual amendment: [Reg. 10(1)(c)](https://www.legislation.gov.uk/wsi/2007/842/regulation/10/1/c) substituted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [4](https://www.legislation.gov.uk/wsi/2013/821/regulation/4)
 
 [^c18381171]: Marginal citation: OJ No. L60, 9.3.1999, p. 53,
 
-[^key-64528306240983ebbfb3747231409f88]: Textual amendment: Word in [reg. 10(3)(h)](https://www.legislation.gov.uk/wsi/2007/842/regulation/10/3/h) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-64528306240983ebbfb3747231409f88]: Textual amendment: Word in [reg. 10(3)(h)](https://www.legislation.gov.uk/wsi/2007/842/regulation/10/3/h) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-662c025acfab84139dbe25f48a00c7c7]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/wsi/2007/842/regulation/12) omitted (1.5.2013) by virtue of [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [5](https://www.legislation.gov.uk/wsi/2013/821/regulation/5)
+[^c-662c025acfab84139dbe25f48a00c7c7]: Textual amendment: Words in [reg. 12](https://www.legislation.gov.uk/wsi/2007/842/regulation/12) omitted (1.5.2013) by virtue of [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [5](https://www.legislation.gov.uk/wsi/2013/821/regulation/5)
 
 [^c18381181]: Marginal citation: [S. I. 1995/12](https://www.legislation.gov.uk/uksi/1995/12).
 
@@ -698,27 +698,27 @@ A full regulatory appraisal of the effect that this instrument will have on the 
 
 [^c18381281]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
-[^key-e2860367d82fa86a8e5818eec7414a63]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2007/842/schedule/1/paragraph/8) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e2860367d82fa86a8e5818eec7414a63]: Textual amendment: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2007/842/schedule/1/paragraph/8) omitted (31.12.2020) by virtue of [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(4)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9c7764914f6f7c70a647e989807cc921]: Textual amendment: [Sch. 2 para. 2(3)(aa)](https://www.legislation.gov.uk/wsi/2007/842/schedule/2/paragraph/2/3/aa) inserted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [6](https://www.legislation.gov.uk/wsi/2013/821/regulation/6)
+[^c-9c7764914f6f7c70a647e989807cc921]: Textual amendment: [Sch. 2 para. 2(3)(aa)](https://www.legislation.gov.uk/wsi/2007/842/schedule/2/paragraph/2/3/aa) inserted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [6](https://www.legislation.gov.uk/wsi/2013/821/regulation/6)
 
-[^key-ded4d7d11c9c2f7168084d6070726769]: Textual amendment: Word in [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2007/842/schedule/2/paragraph/4) title substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ded4d7d11c9c2f7168084d6070726769]: Textual amendment: Word in [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2007/842/schedule/2/paragraph/4) title substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-73c32ba5dd94f80a8de72ca842e3121f]: Textual amendment: Word in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/wsi/2007/842/schedule/2/paragraph/4/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-73c32ba5dd94f80a8de72ca842e3121f]: Textual amendment: Word in [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/wsi/2007/842/schedule/2/paragraph/4/1) substituted (31.12.2020) by [The Livestock (Records, Identification and Movement) (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/92)](https://www.legislation.gov.uk/wsi/2019/92), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/92/regulation/1/2), [2(5)](https://www.legislation.gov.uk/wsi/2019/92/regulation/2/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a2e67c58938323d55abda3f17c82de6a]: Textual amendment: Sch. 3 para. 3(3) substituted (20.10.2011 at 12.15 a.m.) by [The Animal By-Products (Enforcement) (No. 2) (Wales) Regulations 2011 (S.I. 2011/2377)](https://www.legislation.gov.uk/wsi/2011/2377), [reg. 31(2)](https://www.legislation.gov.uk/wsi/2011/2377/regulation/31/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2011/2377/schedule/2/paragraph/13)
+[^c-a2e67c58938323d55abda3f17c82de6a]: Textual amendment: Sch. 3 para. 3(3) substituted (20.10.2011 at 12.15 a.m.) by [The Animal By-Products (Enforcement) (No. 2) (Wales) Regulations 2011 (S.I. 2011/2377)](https://www.legislation.gov.uk/wsi/2011/2377), [reg. 31(2)](https://www.legislation.gov.uk/wsi/2011/2377/regulation/31/2), [Sch. 2 para. 13](https://www.legislation.gov.uk/wsi/2011/2377/schedule/2/paragraph/13)
 
-[^key-339c3476f88af1f2d4b938d698874ada]: Textual amendment: Words in Sch. 3 para. 3(3)(a) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [7(4)](https://www.legislation.gov.uk/wsi/2019/463/regulation/7/4)
+[^c-339c3476f88af1f2d4b938d698874ada]: Textual amendment: Words in Sch. 3 para. 3(3)(a) inserted (28.3.2019) by [The Rural Affairs, Environment, Fisheries and Food (Miscellaneous Amendments and Revocations) (Wales) Regulations 2019 (S.I. 2019/463)](https://www.legislation.gov.uk/wsi/2019/463), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/463/regulation/1/3), [7(4)](https://www.legislation.gov.uk/wsi/2019/463/regulation/7/4)
 
-[^key-9e19c1c0403790ffd25d1f9ebbe1eb18]: Textual amendment: [Sch. 3 para. 11(2A)](https://www.legislation.gov.uk/wsi/2007/842/schedule/3/paragraph/11/2A) inserted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [7](https://www.legislation.gov.uk/wsi/2013/821/regulation/7)
+[^c-9e19c1c0403790ffd25d1f9ebbe1eb18]: Textual amendment: [Sch. 3 para. 11(2A)](https://www.legislation.gov.uk/wsi/2007/842/schedule/3/paragraph/11/2A) inserted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [7](https://www.legislation.gov.uk/wsi/2013/821/regulation/7)
 
-[^key-cec4efa3fc767cd7b4e9e77f398601ae]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/wsi/2007/842/schedule/3/part/2/paragraph/13) omitted (31.12.2020) by virtue of [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/737)](https://www.legislation.gov.uk/wsi/2019/737), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/1/3), [2](https://www.legislation.gov.uk/wsi/2019/737/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cec4efa3fc767cd7b4e9e77f398601ae]: Textual amendment: [Sch. 3 para. 13](https://www.legislation.gov.uk/wsi/2007/842/schedule/3/part/2/paragraph/13) omitted (31.12.2020) by virtue of [The Rural Affairs (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/737)](https://www.legislation.gov.uk/wsi/2019/737), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2019/737/regulation/1/3), [2](https://www.legislation.gov.uk/wsi/2019/737/regulation/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-03013a5ec6be2df61d70f61a58062557]: Textual amendment: [Sch. 4 para. 1(1)(aa)](https://www.legislation.gov.uk/wsi/2007/842/schedule/4/paragraph/1/1/aa) inserted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [8(a)](https://www.legislation.gov.uk/wsi/2013/821/regulation/8/a)
+[^c-03013a5ec6be2df61d70f61a58062557]: Textual amendment: [Sch. 4 para. 1(1)(aa)](https://www.legislation.gov.uk/wsi/2007/842/schedule/4/paragraph/1/1/aa) inserted (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [8(a)](https://www.legislation.gov.uk/wsi/2013/821/regulation/8/a)
 
-[^key-beda4c45bf690f17dad8ef92afb9e7b8]: Textual amendment: Sch. 4 para. 2(1)-(3A) substituted for Sch. 4 para. 2(1)-(3) (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [8(b)(i)](https://www.legislation.gov.uk/wsi/2013/821/regulation/8/b/i)
+[^c-beda4c45bf690f17dad8ef92afb9e7b8]: Textual amendment: Sch. 4 para. 2(1)-(3A) substituted for Sch. 4 para. 2(1)-(3) (1.5.2013) by [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [8(b)(i)](https://www.legislation.gov.uk/wsi/2013/821/regulation/8/b/i)
 
-[^key-f83567637349568860e55f34df0cf2a6]: Textual amendment: Sch. 4 para. 2(5) omitted (1.5.2013) by virtue of [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [8(b)(ii)](https://www.legislation.gov.uk/wsi/2013/821/regulation/8/b/ii)
+[^c-f83567637349568860e55f34df0cf2a6]: Textual amendment: Sch. 4 para. 2(5) omitted (1.5.2013) by virtue of [The Cattle Identification (Wales) (Amendment) Regulations 2013 (S.I. 2013/821)](https://www.legislation.gov.uk/wsi/2013/821), [regs. 1](https://www.legislation.gov.uk/wsi/2013/821/regulation/1), [8(b)(ii)](https://www.legislation.gov.uk/wsi/2013/821/regulation/8/b/ii)
 
 [^c18381311]: Marginal citation: The required information and a suitable format is available at http//defraweb/animalh/tracing/cattle/passport/records/records-index.htm
 

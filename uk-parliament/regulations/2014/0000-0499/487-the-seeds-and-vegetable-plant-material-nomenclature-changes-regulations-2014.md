@@ -54,13 +54,13 @@ The Secretary of State has carried out consultation in accordance with section 1
 
 The Secretary of State makes the following Regulations in exercise of the powers in section 16(1) and (1A) of the Plant Varieties and Seeds Act 1964 and section 2(2) of the European Communities Act 1972.
 
-## 1. Title, commencement and application[^key-c817b86fb035228bb2356cd45852d987]
+## 1. Title, commencement and application[^c-c817b86fb035228bb2356cd45852d987]
 
 (1) These Regulations may be cited as the Seeds and Vegetable Plant Material (Nomenclature Changes) Regulations 2014 and come into force on 31st March 2014.
 
 (2) Regulation 2 applies to England only.
 
-## 2. Amendment of the Marketing of Vegetable Plant Material Regulations 1995[^key-55ef6e18d8767d03efccd412b56ec21f]
+## 2. Amendment of the Marketing of Vegetable Plant Material Regulations 1995[^c-55ef6e18d8767d03efccd412b56ec21f]
 
 *Extent: E+W*
 
@@ -84,13 +84,13 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) In regulation 5(d)(ii), for “92/33/EEC”, substitute “2008/72/EC”.
 
-## 3. Amendment of the Seeds (National Lists of Varieties) Regulations 2001[^key-9214dbee1c148ddf1c56d1c73652266f]
+## 3. Amendment of the Seeds (National Lists of Varieties) Regulations 2001[^c-9214dbee1c148ddf1c56d1c73652266f]
 
 (1) The Seeds (National Lists of Varieties) Regulations 2001[^f00006] are amended as follows.
 
 (2) In the table in paragraph 2 of Part 1 of Schedule 1, for “*Lycopersicon esculentum* Mill”, substitute “*Solanum lycopersicum* L”.
 
-## 4. Amendment of the Seed Marketing Regulations 2011[^key-f69a1862fc835c45deade590d91c984c]
+## 4. Amendment of the Seed Marketing Regulations 2011[^c-f69a1862fc835c45deade590d91c984c]
 
 *Extent: E+W*
 
@@ -126,18 +126,18 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00003]: Footnote: [1964 c. 14](https://www.legislation.gov.uk/ukpga/1964/14). Section 16(1) and (1A) has been amended by the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68), section 4 and Schedule 4, paragraph 5. See section 38(1) for the definition of “the Minister”. Under [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794), the functions of the Minister of Agriculture, Fisheries and Food under the Plant Varieties and Seeds Act 1964 which remained vested in that Minister were transferred to the Secretary of State.
 
-[^key-c817b86fb035228bb2356cd45852d987]: Commencement: Reg. 1 in force at 31.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/487/regulation/1/1)
+[^c-c817b86fb035228bb2356cd45852d987]: Commencement: Reg. 1 in force at 31.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/487/regulation/1/1)
 
-[^key-55ef6e18d8767d03efccd412b56ec21f]: Commencement: Reg. 2 in force at 31.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/487/regulation/1/1)
+[^c-55ef6e18d8767d03efccd412b56ec21f]: Commencement: Reg. 2 in force at 31.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/487/regulation/1/1)
 
 [^f00004]: Footnote: [S.I.1995/2652](https://www.legislation.gov.uk/uksi/1995/2652). The definition of “[Directive 92/33/EEC](https://www.legislation.gov.uk/european/directive/1992/0033)” in regulation 2(1) and the words “Annex II to [Directive 92/33/EEC](https://www.legislation.gov.uk/european/directive/1992/0033)” in regulation 3(1) were substituted in relation to England by [S.I. 2007/1449](https://www.legislation.gov.uk/uksi/2007/1449), regulation 2(2).
 
 [^f00005]: Footnote: OJ L 205, 1.8.2008, p. 28.
 
-[^key-9214dbee1c148ddf1c56d1c73652266f]: Commencement: Reg. 3 in force at 31.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/487/regulation/1/1)
+[^c-9214dbee1c148ddf1c56d1c73652266f]: Commencement: Reg. 3 in force at 31.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/487/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 2001/3510](https://www.legislation.gov.uk/uksi/2001/3510). The table in paragraph 2 of Part 1 of Schedule 1 was substituted by [S.I. 2010/1195](https://www.legislation.gov.uk/uksi/2010/1195), regulation 2(3) and Schedule 2. There are other amending instruments but none is relevant.
 
-[^key-f69a1862fc835c45deade590d91c984c]: Commencement: Reg. 4 in force at 31.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/487/regulation/1/1)
+[^c-f69a1862fc835c45deade590d91c984c]: Commencement: Reg. 4 in force at 31.3.2014, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/487/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 2011/463](https://www.legislation.gov.uk/uksi/2011/463) to which there are amendments not relevant to these Regulations.

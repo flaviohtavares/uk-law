@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Duty to provide information for other persons[^key-16aab49f45990037c8cc302f9fe4694c]
+## 78. Duty to provide information for other persons[^c-16aab49f45990037c8cc302f9fe4694c]
 
 *Extent: E+W+S+N.I.*
 
@@ -92,4 +92,4 @@ the appropriate authority must provide the interested person with all such infor
 
 ## Annotations
 
-[^key-16aab49f45990037c8cc302f9fe4694c]: Commencement: Reg. 78 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-16aab49f45990037c8cc302f9fe4694c]: Commencement: Reg. 78 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

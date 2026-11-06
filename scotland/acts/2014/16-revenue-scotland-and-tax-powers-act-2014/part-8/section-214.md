@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 214. Reasonable excuse for failure to register for tax etc.[^key-d11f0fd9a664e238d86bef3ef86932d0][^key-f1a46fbf1e98f47339bb9e7b3ca2e08d]
+## 214. Reasonable excuse for failure to register for tax etc.[^c-d11f0fd9a664e238d86bef3ef86932d0][^c-f1a46fbf1e98f47339bb9e7b3ca2e08d]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d11f0fd9a664e238d86bef3ef86932d0]: Commencement: [S. 214](https://www.legislation.gov.uk/asp/2014/16/section/214) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
+[^c-d11f0fd9a664e238d86bef3ef86932d0]: Commencement: [S. 214](https://www.legislation.gov.uk/asp/2014/16/section/214) in force at 16.2.2015 for specified purposes by [S.S.I. 2015/18](https://www.legislation.gov.uk/ssi/2015/18), [art. 2](https://www.legislation.gov.uk/ssi/2015/18/article/2), [sch. 1](https://www.legislation.gov.uk/ssi/2015/18/schedule/1)
 
-[^key-f1a46fbf1e98f47339bb9e7b3ca2e08d]: Commencement: [S. 214](https://www.legislation.gov.uk/asp/2014/16/section/214) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-f1a46fbf1e98f47339bb9e7b3ca2e08d]: Commencement: [S. 214](https://www.legislation.gov.uk/asp/2014/16/section/214) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

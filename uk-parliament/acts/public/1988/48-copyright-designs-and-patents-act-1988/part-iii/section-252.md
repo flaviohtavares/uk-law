@@ -44,10 +44,10 @@ may be referred to the court by any party to the dispute.
 
 (6) In this section “**the court**” means—
 
-- (a) in England and Wales, the High Court,[^key-93cfa430ffd18f08abb4262d17893b71]
+- (a) in England and Wales, the High Court,[^c-93cfa430ffd18f08abb4262d17893b71]
 - (b) in Scotland, the Court of Session, and
 - (c) in Northern Ireland, the High Court.
 
 ## Annotations
 
-[^key-93cfa430ffd18f08abb4262d17893b71]: Textual amendment: Word in s. 252(6)(a) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 30(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/30/2); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/1725/article/3/c)
+[^c-93cfa430ffd18f08abb4262d17893b71]: Textual amendment: Word in s. 252(6)(a) substituted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 30(2)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/30/2); [S.I. 2013/1725](https://www.legislation.gov.uk/uksi/2013/1725), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/1725/article/3/c)

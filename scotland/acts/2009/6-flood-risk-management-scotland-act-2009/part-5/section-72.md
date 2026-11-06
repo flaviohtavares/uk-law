@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Advice to planning authorities and others as to flood risk[^key-1fc3878ee15814a6b9050d83ab4348ca]
+## 72. Advice to planning authorities and others as to flood risk[^c-1fc3878ee15814a6b9050d83ab4348ca]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1fc3878ee15814a6b9050d83ab4348ca]: Commencement: S. 72 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-1fc3878ee15814a6b9050d83ab4348ca]: Commencement: S. 72 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

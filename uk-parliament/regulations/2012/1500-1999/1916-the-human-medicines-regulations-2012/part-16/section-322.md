@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 322. Validity of decisions and proceedings[^key-664409ec9c556292eca98cec7fcb1235]
+## 322. Validity of decisions and proceedings[^c-664409ec9c556292eca98cec7fcb1235]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-664409ec9c556292eca98cec7fcb1235]: Modification: Reg. 322 applied (with modifications) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg 47(1), Sch. 9 (as substituted (14.8.2012) by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 paras. 57(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/57/b), [64](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/64) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32)))
+[^c-664409ec9c556292eca98cec7fcb1235]: Modification: Reg. 322 applied (with modifications) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg 47(1), Sch. 9 (as substituted (14.8.2012) by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 paras. 57(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/57/b), [64](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/64) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32)))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Calculation of capital outside the United Kingdom[^key-66329a9696aed32d0332e302cb7dca7c]
+## 20. Calculation of capital outside the United Kingdom[^c-66329a9696aed32d0332e302cb7dca7c]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ less, where there would be expenses attributable to sale, 10 per cent., and the 
 
 ## Annotations
 
-[^key-66329a9696aed32d0332e302cb7dca7c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2003/28/regulation/20) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)
+[^c-66329a9696aed32d0332e302cb7dca7c]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2003/28/regulation/20) in operation at 6.10.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2003/28/regulation/1/1)

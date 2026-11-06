@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 44. Ongoing obligations: provision of information[^key-009905afdddbe1b06bf687325618ebec]
+## 44. Ongoing obligations: provision of information[^c-009905afdddbe1b06bf687325618ebec]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ whether or not copies of that documentation have been supplied to the Authority.
 
 ## Annotations
 
-[^key-009905afdddbe1b06bf687325618ebec]: Commencement: Reg. 44 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)
+[^c-009905afdddbe1b06bf687325618ebec]: Commencement: Reg. 44 in force at 9.4.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/928/regulation/1)

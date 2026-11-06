@@ -24,15 +24,15 @@ summary: ''
 
 (2) The provisions are—
 
-- section 28 (thermal insulation of [^key-f5f276fbfae837e8941f91956adb750b]...buildings);
-- [^key-35a85b52e82dbd5c92186c07ef3ecdf5]...
-- [^key-dfd3ec4abdb1eca3a83d9fbda1576b09]...
-- [^key-e5f5163bcd3be6367e244da6d887274e]...
-- [^key-4b09ff9c05162b2f174a6ff5299fee78]...
+- section 28 (thermal insulation of [^c-f5f276fbfae837e8941f91956adb750b]...buildings);
+- [^c-35a85b52e82dbd5c92186c07ef3ecdf5]...
+- [^c-dfd3ec4abdb1eca3a83d9fbda1576b09]...
+- [^c-e5f5163bcd3be6367e244da6d887274e]...
+- [^c-4b09ff9c05162b2f174a6ff5299fee78]...
 - section 33 (personal security);
-- section 33A (integral features);[^key-5c8504eb082f3c9f1ac253fb2e3ecd66]
+- section 33A (integral features);[^c-5c8504eb082f3c9f1ac253fb2e3ecd66]
 - section 71 (software and rights to software);
-- section 143 of[^key-ff3e7fe78b55b65f61c359290e2e5877] ITTOIA 2005 or section 40D of F(No.2)A 1992 (election relating to tax treatment of films expenditure).
+- section 143 of[^c-ff3e7fe78b55b65f61c359290e2e5877] ITTOIA 2005 or section 40D of F(No.2)A 1992 (election relating to tax treatment of films expenditure).
 
 (3) Sections 21 and 22 also do not affect the question whether expenditure on any item described in list C is, for the purposes of this Act, expenditure on the provision of plant or machinery.
 
@@ -45,11 +45,11 @@ Expenditure unaffected by sections 21 and 22
 |  |  |
 | --- | --- |
 | 1\. | Machinery (including devices for providing motive power) not within any other item in this list. |
-| 2\. | [^key-e62d10da46e8628562130f048078f70a]...Gas and sewerage systems provided mainly—<br>- (a) to meet the particular requirements of the qualifying activity, or<br>- (b) to serve particular plant or machinery used for the purposes of the qualifying activity. |
-| 3\. | [^key-0b81c07f5372676e8edd0a5ed7d8a454]. . . |
+| 2\. | [^c-e62d10da46e8628562130f048078f70a]...Gas and sewerage systems provided mainly—<br>- (a) to meet the particular requirements of the qualifying activity, or<br>- (b) to serve particular plant or machinery used for the purposes of the qualifying activity. |
+| 3\. | [^c-0b81c07f5372676e8edd0a5ed7d8a454]. . . |
 | 4\. | Manufacturing or processing equipment; storage equipment (including cold rooms); display equipment; and counters, checkouts and similar equipment. |
 | 5\. | Cookers, washing machines, dishwashers, refrigerators and similar equipment; washbasins, sinks, baths, showers, sanitary ware and similar equipment; and furniture and furnishings. |
-| 6\. | Hoists.[^key-3243c4facf9e3a40740651b6550c8cf5] |
+| 6\. | Hoists.[^c-3243c4facf9e3a40740651b6550c8cf5] |
 | 7\. | Sound insulation provided mainly to meet the particular requirements of the qualifying activity. |
 | 8\. | Computer, telecommunication and surveillance systems (including their wiring or other links). |
 | 9\. | Refrigeration or cooling equipment. |
@@ -85,22 +85,22 @@ Expenditure unaffected by sections 21 and 22
 
 ## Annotations
 
-[^key-f5f276fbfae837e8941f91956adb750b]: Textual amendment: Word in s. 23(2) omitted (with effect in accordance with s. 71(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 71(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/71/7)
+[^c-f5f276fbfae837e8941f91956adb750b]: Textual amendment: Word in s. 23(2) omitted (with effect in accordance with s. 71(8) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 71(7)](https://www.legislation.gov.uk/ukpga/2008/9/section/71/7)
 
-[^key-35a85b52e82dbd5c92186c07ef3ecdf5]: Textual amendment: Words in s. 23(2) omitted (with effect in accordance with s. 72(4) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 72(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/72/2)
+[^c-35a85b52e82dbd5c92186c07ef3ecdf5]: Textual amendment: Words in s. 23(2) omitted (with effect in accordance with s. 72(4) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 72(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/72/2)
 
-[^key-dfd3ec4abdb1eca3a83d9fbda1576b09]: Textual amendment: S. 23(2) entry omitted (with effect in accordance with Sch. 39 para. 35 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 34(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/34/2/a)
+[^c-dfd3ec4abdb1eca3a83d9fbda1576b09]: Textual amendment: S. 23(2) entry omitted (with effect in accordance with Sch. 39 para. 35 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 34(2)(a)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/34/2/a)
 
-[^key-e5f5163bcd3be6367e244da6d887274e]: Textual amendment: S. 23(2) entry omitted (with effect in accordance with Sch. 39 para. 35 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 34(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/34/2/b)
+[^c-e5f5163bcd3be6367e244da6d887274e]: Textual amendment: S. 23(2) entry omitted (with effect in accordance with Sch. 39 para. 35 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 34(2)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/34/2/b)
 
-[^key-4b09ff9c05162b2f174a6ff5299fee78]: Textual amendment: S. 23(2) entry omitted (with effect in accordance with Sch. 39 para. 35 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 34(2)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/34/2/c)
+[^c-4b09ff9c05162b2f174a6ff5299fee78]: Textual amendment: S. 23(2) entry omitted (with effect in accordance with Sch. 39 para. 35 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 34(2)(c)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/34/2/c)
 
-[^key-5c8504eb082f3c9f1ac253fb2e3ecd66]: Textual amendment: Words in s. 23(2) inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(1)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/1/a)
+[^c-5c8504eb082f3c9f1ac253fb2e3ecd66]: Textual amendment: Words in s. 23(2) inserted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(1)(a)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/1/a)
 
-[^key-ff3e7fe78b55b65f61c359290e2e5877]: Textual amendment: Words in s. 23(2) inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) , [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) , [Sch. 1 para. 530](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/530) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2) )
+[^c-ff3e7fe78b55b65f61c359290e2e5877]: Textual amendment: Words in s. 23(2) inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5) , [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1) , [Sch. 1 para. 530](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/530) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2) )
 
-[^key-e62d10da46e8628562130f048078f70a]: Textual amendment: Words in s. 23(4) omitted (with effect in accordance with s. 73(6) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/1/b/i)
+[^c-e62d10da46e8628562130f048078f70a]: Textual amendment: Words in s. 23(4) omitted (with effect in accordance with s. 73(6) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(1)(b)(i)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/1/b/i)
 
-[^key-0b81c07f5372676e8edd0a5ed7d8a454]: Textual amendment: Words in s. 23(4) omitted (with effect in accordance with s. 73(6) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/1/b/ii)
+[^c-0b81c07f5372676e8edd0a5ed7d8a454]: Textual amendment: Words in s. 23(4) omitted (with effect in accordance with s. 73(6) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(1)(b)(ii)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/1/b/ii)
 
-[^key-3243c4facf9e3a40740651b6550c8cf5]: Textual amendment: Word in s. 23(4) substituted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(1)(b)(iii)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/1/b/iii)
+[^c-3243c4facf9e3a40740651b6550c8cf5]: Textual amendment: Word in s. 23(4) substituted (with effect in accordance with s. 73(6) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 73(1)(b)(iii)](https://www.legislation.gov.uk/ukpga/2008/9/section/73/1/b/iii)

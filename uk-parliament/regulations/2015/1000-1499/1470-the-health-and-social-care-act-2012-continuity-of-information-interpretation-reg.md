@@ -50,7 +50,7 @@ Coming into force
 
 The Secretary of State makes the following regulations in exercise of the powers conferred by section 251C(3) and (4) of the Health and Social Care Act 2012[^f00001].
 
-## 1. Citation, commencement, and interpretation[^key-a7a5fe3d00dee9dcffcd562624d1e9c0]
+## 1. Citation, commencement, and interpretation[^c-a7a5fe3d00dee9dcffcd562624d1e9c0]
 
 (1) These Regulations may be cited as the Health and Social Care Act 2012 (Continuity of Information: Interpretation) Regulations 2015.
 
@@ -69,7 +69,7 @@ The Secretary of State makes the following regulations in exercise of the powers
 - “children’s social services functions” means, in relation to a local authority, functions for which the authority’s director of children’s services is responsible under section 18(2)(b), (c), and (d) of the Children Act 2004[^f00002];
 - “relevant care functions” has the same meaning as in section 1(2) of the Children and Young Persons Act 2008[^f00003].
 
-## 2. Excluded persons[^key-6f36100039fd549d47fbd2302d44145f]
+## 2. Excluded persons[^c-6f36100039fd549d47fbd2302d44145f]
 
 The persons in the Schedule to these Regulations are excluded from the definition of “relevant health or adult social care commissioner or provider” as defined in section 251C(2) of the Act.
 
@@ -83,11 +83,11 @@ Department of Health
 
 1st July 2015
 
-## SCHEDULE — RELEVANT HEALTH OR ADULT SOCIAL CARE COMMISSIONER OR PROVIDER; EXCLUDED PERSONS[^key-ce22c75b1b830a5a60da165745ce35af]
+## SCHEDULE — RELEVANT HEALTH OR ADULT SOCIAL CARE COMMISSIONER OR PROVIDER; EXCLUDED PERSONS[^c-ce22c75b1b830a5a60da165745ce35af]
 
 Regulation 2
 
-[^key-ce22c75b1b830a5a60da165745ce35af]
+[^c-ce22c75b1b830a5a60da165745ce35af]
 
 The following persons are excluded from the definition of “relevant health or adult social care commissioner or provider” for the purposes of sections 251A, 251B and 251C of the Act–
 
@@ -117,10 +117,10 @@ The following persons are excluded from the definition of “relevant health or 
 - (x) a local authority in the exercise of its duty to make arrangements under section 19 of the Education Act 1996 (exceptional provision of education in pupil referral units or elsewhere);
 - (y) a person providing education under such arrangements referred to in (x);
 - (z) a person who is responsible for conducting the establishment where education referred to in (y) is being delivered;
-- (aa)[^key-93affcb63cefd5fca9ec5018b21a8e71] a person providing—
+- (aa)[^c-93affcb63cefd5fca9ec5018b21a8e71] a person providing—
   - (i) instruction or training pursuant to a requirement imposed by a governing body of a maintained school under [section 29](https://www.legislation.gov.uk/ukpga/2002/32/section/29)[(3)](https://www.legislation.gov.uk/ukpga/2002/32/section/29) of the [Education Act 2002](https://www.legislation.gov.uk/ukpga/2002/32/contents) (requirement for pupils to attend at a place outside school premises for instruction or training), or
   - (ii) education pursuant to a requirement imposed by a governing body of a maintained school, a proprietor of an Academy school or alternative provision Academy, or a management committee of a pupil referral unit under [section 29A](https://www.legislation.gov.uk/ukpga/2002/32/section/29A) of the [Education Act 2002](https://www.legislation.gov.uk/ukpga/2002/32/contents) (educational provision for improving behaviour);
-- (bb) a person who is responsible for conducting the establishment where education, instruction[^key-1ee1b282e7f4577e684b77bed20f10e7] or training referred to in (aa) is being delivered;
+- (bb) a person who is responsible for conducting the establishment where education, instruction[^c-1ee1b282e7f4577e684b77bed20f10e7] or training referred to in (aa) is being delivered;
 - (cc) a person providing education under arrangements made by a governing body or proprietor of a school in the exercise of the body’s or proprietor’s duty under section 100 of the Education and Inspections Act 2006[^f00016] (duty of governing body or proprietor where pupil excluded for fixed period);
 - (dd) a person who is responsible for conducting the establishment where education referred to in (cc) is being delivered.
 
@@ -136,15 +136,15 @@ A full impact assessment has not been produced for this instrument as the Regula
 
 [^f00001]: Footnote: [2012 c.7](https://www.legislation.gov.uk/ukpga/2012/7). Section 251C was inserted by section 4 of the Health and Social Care (Safety and Quality) Act [2015 (c. 28)](https://www.legislation.gov.uk/ukpga/2015/28).
 
-[^key-a7a5fe3d00dee9dcffcd562624d1e9c0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1470/regulation/1) in force at 1.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1470/regulation/1/2)
+[^c-a7a5fe3d00dee9dcffcd562624d1e9c0]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/1470/regulation/1) in force at 1.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1470/regulation/1/2)
 
 [^f00002]: Footnote: [2004 c.31](https://www.legislation.gov.uk/ukpga/2004/31).
 
 [^f00003]: Footnote: [2008 c.23](https://www.legislation.gov.uk/ukpga/2008/23).
 
-[^key-6f36100039fd549d47fbd2302d44145f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1470/regulation/2) in force at 1.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1470/regulation/1/2)
+[^c-6f36100039fd549d47fbd2302d44145f]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/1470/regulation/2) in force at 1.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1470/regulation/1/2)
 
-[^key-ce22c75b1b830a5a60da165745ce35af]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/1470/schedule) in force at 1.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1470/regulation/1/2)
+[^c-ce22c75b1b830a5a60da165745ce35af]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2015/1470/schedule) in force at 1.10.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1470/regulation/1/2)
 
 [^f00004]: Footnote: Regulation 3 of the Children and Young Persons Act 2008 (Relevant Care Functions) (England) Regulations 2014 ([S.I. 2014/2407](https://www.legislation.gov.uk/uksi/2014/2407)) makes further provision as to functions of a local authority in England that are to be treated as being relevant care functions.
 
@@ -168,8 +168,8 @@ A full impact assessment has not been produced for this instrument as the Regula
 
 [^f00014]: Footnote: [2014 c.6](https://www.legislation.gov.uk/ukpga/2014/6).
 
-[^key-93affcb63cefd5fca9ec5018b21a8e71]: Textual amendment: [Sch. para. (aa)](https://www.legislation.gov.uk/uksi/2015/1470/schedule) substituted (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2026/558/regulation/9/a)
+[^c-93affcb63cefd5fca9ec5018b21a8e71]: Textual amendment: [Sch. para. (aa)](https://www.legislation.gov.uk/uksi/2015/1470/schedule) substituted (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2026/558/regulation/9/a)
 
-[^key-1ee1b282e7f4577e684b77bed20f10e7]: Textual amendment: Word in [Sch. para. (bb)](https://www.legislation.gov.uk/uksi/2015/1470/schedule) substituted (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2026/558/regulation/9/b)
+[^c-1ee1b282e7f4577e684b77bed20f10e7]: Textual amendment: Word in [Sch. para. (bb)](https://www.legislation.gov.uk/uksi/2015/1470/schedule) substituted (26.7.2026) by [The Education (Educational Provision for Improving Behaviour) (Application to Academies and Pupil Referral Units and Minor Amendments) Regulations 2026 (S.I. 2026/558)](https://www.legislation.gov.uk/uksi/2026/558), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/558/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2026/558/regulation/9/b)
 
 [^f00016]: Footnote: [2006 c.40](https://www.legislation.gov.uk/ukpga/2006/40).

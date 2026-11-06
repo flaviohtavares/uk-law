@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Appeals against mid-year financial adjustments[^key-92280c8651964741eb80649e4a1a5f33]
+## 23. Appeals against mid-year financial adjustments[^c-92280c8651964741eb80649e4a1a5f33]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A contractor who is subject to a mid-year financial adjustment in accordance wit
 
 ## Annotations
 
-[^key-92280c8651964741eb80649e4a1a5f33]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2026/37/regulation/23) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-92280c8651964741eb80649e4a1a5f33]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2026/37/regulation/23) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)

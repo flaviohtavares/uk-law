@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Power to amend time limits imposed by modifications under Parts 3 and 4 of these Regulations[^key-9a9106b5be83236bffdbc7ff077c6307]
+## 27. Power to amend time limits imposed by modifications under Parts 3 and 4 of these Regulations[^c-9a9106b5be83236bffdbc7ff077c6307]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ if the Treasury considers it necessary to do so.
 
 ## Annotations
 
-[^key-9a9106b5be83236bffdbc7ff077c6307]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2018/1149/regulation/27) heading inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/7/2)
+[^c-9a9106b5be83236bffdbc7ff077c6307]: Textual amendment: Words in [reg. 27](https://www.legislation.gov.uk/uksi/2018/1149/regulation/27) heading inserted (1.3.2019) by [The Financial Services Contracts (Transitional and Saving Provision) (EU Exit) Regulations 2019 (S.I. 2019/405)](https://www.legislation.gov.uk/uksi/2019/405), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2019/405/regulation/7/2)
 
 [^c23428881]: Marginal citation: Section 1I is inserted by section 6(1) of the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21).
 

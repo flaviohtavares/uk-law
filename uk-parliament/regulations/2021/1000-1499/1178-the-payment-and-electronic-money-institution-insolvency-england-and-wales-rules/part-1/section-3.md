@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Extent[^key-30fc12ce0c5fbe7f82046bc7c2c88c3d]
+## 3. Extent[^c-30fc12ce0c5fbe7f82046bc7c2c88c3d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules extend to England and Wales only.
 
 ## Annotations
 
-[^key-30fc12ce0c5fbe7f82046bc7c2c88c3d]: Commencement: Rule 3 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-30fc12ce0c5fbe7f82046bc7c2c88c3d]: Commencement: Rule 3 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

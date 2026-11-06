@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Local authority to have certain powers to take land otherwise than by agreement.[^key-188808197a66cc482cb24720f18997a8]
+## 113. Local authority to have certain powers to take land otherwise than by agreement.[^c-188808197a66cc482cb24720f18997a8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-188808197a66cc482cb24720f18997a8]: Textual amendment: S. 113 repealed (E.W.S.) (26.4.2005 with application outside E.W.S. as mentioned in reg. 3 of the repealing S.I.) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [Sch. 5 para. 1(19)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/1/19), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-188808197a66cc482cb24720f18997a8]: Textual amendment: S. 113 repealed (E.W.S.) (26.4.2005 with application outside E.W.S. as mentioned in reg. 3 of the repealing S.I.) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [Sch. 5 para. 1(19)](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/1/19), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))

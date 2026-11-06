@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52A. Appeals to Crown Court: criminal courts charge[^key-3b2d75cdd2117a06d080d31c291cac3c]
+## 52A. Appeals to Crown Court: criminal courts charge[^c-3b2d75cdd2117a06d080d31c291cac3c]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The criminal courts charge duty (see section 46 of the Sentencing Code) applies 
 
 ## Annotations
 
-[^key-3b2d75cdd2117a06d080d31c291cac3c]: Textual amendment: [S. 52A](https://www.legislation.gov.uk/ukpga/1981/54/section/52A) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 68](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/68) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-3b2d75cdd2117a06d080d31c291cac3c]: Textual amendment: [S. 52A](https://www.legislation.gov.uk/ukpga/1981/54/section/52A) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 68](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/68) (with [Sch. 24 para. 447](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/447), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 306A. Carers: board and lodging[^key-2df46d421088c83489705a78838ae8f0]
+## 306A. Carers: board and lodging[^c-2df46d421088c83489705a78838ae8f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2df46d421088c83489705a78838ae8f0]: Textual amendment: S. 306A and cross-heading inserted (with effect in accordance with s. 14(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/14/2)
+[^c-2df46d421088c83489705a78838ae8f0]: Textual amendment: S. 306A and cross-heading inserted (with effect in accordance with s. 14(4) of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2015/11/section/14/2)

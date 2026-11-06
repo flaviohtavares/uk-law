@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Summary trial of certain indictable offences[^key-49fa2fb567ed88ffa83c664b3251849e]
+## 45. Summary trial of certain indictable offences[^c-49fa2fb567ed88ffa83c664b3251849e]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ the magistrate may, subject to the provisions of this Article and Article 46, de
 
 ## Annotations
 
-[^key-49fa2fb567ed88ffa83c664b3251849e]: Modification: [Art. 45](https://www.legislation.gov.uk/nisi/1981/1675/article/45) applied by 2015 c. 9 (N.I.), s. 9(2)(aa) (as inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 57(3)](https://www.legislation.gov.uk/nia/2016/21/section/57/3), [61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1))
+[^c-49fa2fb567ed88ffa83c664b3251849e]: Modification: [Art. 45](https://www.legislation.gov.uk/nisi/1981/1675/article/45) applied by 2015 c. 9 (N.I.), s. 9(2)(aa) (as inserted (13.5.2016) by [Justice Act (NorthernIreland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 57(3)](https://www.legislation.gov.uk/nia/2016/21/section/57/3), [61(1)](https://www.legislation.gov.uk/nia/2016/21/section/61/1))
 
 [^c16969521]: Textual amendment: [2002 c. 26](https://www.legislation.gov.uk/ukpga/2002/26)

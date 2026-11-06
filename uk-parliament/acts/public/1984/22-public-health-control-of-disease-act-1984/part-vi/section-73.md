@@ -40,11 +40,11 @@ in which the property is situated that any relevant provision of this Act specif
 
 and, if any question arises as to what authority is the appropriate authority in relation to any property, that question shall be referred to the treasury, whose decision shall be final.
 
-(5)[^key-81de68a506de3565eb4cc57e2d879899] In this section “**premises**” does not include any vessel—
+(5)[^c-81de68a506de3565eb4cc57e2d879899] In this section “**premises**” does not include any vessel—
 
 - (a) belonging to Her Majesty, or
 - (b) under the command or charge of an officer holding Her Majesty's commission.
 
 ## Annotations
 
-[^key-81de68a506de3565eb4cc57e2d879899]: Textual amendment: [S. 73(5)](https://www.legislation.gov.uk/ukpga/1984/22/section/73/5) inserted (6.4.2010 for E., 26.7.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 11 para. 28](https://www.legislation.gov.uk/ukpga/2008/14/schedule/11/paragraph/28); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(e)](https://www.legislation.gov.uk/uksi/2010/708/article/6/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/wsi/2010/1547), [art. 2(e)](https://www.legislation.gov.uk/wsi/2010/1547/article/2/e) (with [Sch. 1](https://www.legislation.gov.uk/wsi/2010/1547/schedule/1))
+[^c-81de68a506de3565eb4cc57e2d879899]: Textual amendment: [S. 73(5)](https://www.legislation.gov.uk/ukpga/1984/22/section/73/5) inserted (6.4.2010 for E., 26.7.2010 for W.) by [Health and Social Care Act 2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), [s. 170(3)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/3)[(4)](https://www.legislation.gov.uk/ukpga/2008/14/section/170/4), [Sch. 11 para. 28](https://www.legislation.gov.uk/ukpga/2008/14/schedule/11/paragraph/28); [S.I. 2010/708](https://www.legislation.gov.uk/uksi/2010/708), [art. 6(e)](https://www.legislation.gov.uk/uksi/2010/708/article/6/e) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2010/708/schedule/2)); [S.I. 2010/1547](https://www.legislation.gov.uk/wsi/2010/1547), [art. 2(e)](https://www.legislation.gov.uk/wsi/2010/1547/article/2/e) (with [Sch. 1](https://www.legislation.gov.uk/wsi/2010/1547/schedule/1))

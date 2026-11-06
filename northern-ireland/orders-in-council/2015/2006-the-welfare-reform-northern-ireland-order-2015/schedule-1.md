@@ -22,15 +22,15 @@ summary: ''
 
 Article 36
 
-### 1. Entitlement of joint claimants[^key-6bd8f6ffd83f872566567bb1a5226832]
+### 1. Entitlement of joint claimants[^c-6bd8f6ffd83f872566567bb1a5226832]
 
 Regulations may provide for circumstances in which joint claimants may be entitled to universal credit without each of them meeting all the basic conditions referred to in Article 9.
 
-### 2. Linking periods[^key-30ec74c297aaea60ce6e1c9cc6ebdefe]
+### 2. Linking periods[^c-30ec74c297aaea60ce6e1c9cc6ebdefe]
 
 Regulations may provide for periods of entitlement to universal credit which are separated by no more than a prescribed number of days to be treated as a single period.
 
-### 3. Couples[^key-8fe4530c0970802c7c45608a42ef46e0]
+### 3. Couples[^c-8fe4530c0970802c7c45608a42ef46e0]
 
 (1) Regulations may provide—
 
@@ -45,7 +45,7 @@ Regulations may provide for periods of entitlement to universal credit which are
 - (b) where an award is made to a single claimant who ceases to be entitled to universal credit as such by becoming a member of a couple, for the making of an award (without a claim) to the members of the couple jointly;
 - (c) for the procedure to be followed, and information or evidence to be supplied, in relation to the making of an award under this paragraph.
 
-### 4. Calculation of capital and income[^key-24cde9f09e54327c2ff41c31ba5bc1ff]
+### 4. Calculation of capital and income[^c-24cde9f09e54327c2ff41c31ba5bc1ff]
 
 (1) Regulations may for any purpose of this Part provide for the calculation or estimation of—
 
@@ -69,7 +69,7 @@ Regulations may provide for periods of entitlement to universal credit which are
 
 (6) Regulations may specify circumstances in which capital and income of either of joint claimants is to be disregarded in calculating their joint capital and income.
 
-### 5. Responsibility for children etc.[^key-82b06d54c20a99d775f7fcd1ba059146]
+### 5. Responsibility for children etc.[^c-82b06d54c20a99d775f7fcd1ba059146]
 
 (1) Regulations may for any purpose of this Part specify circumstances in which a person is or is not responsible for a child or qualifying young person.
 
@@ -92,7 +92,7 @@ Regulations may provide for periods of entitlement to universal credit which are
 - (a) be limited as regards the person or persons who will accept it;
 - (b) be valid only for a limited time.
 
-### 7. Work-related requirements[^key-d583b01f4990cac67c33a005a17cbaf5]
+### 7. Work-related requirements[^c-d583b01f4990cac67c33a005a17cbaf5]
 
 Regulations may provide that a claimant who—
 
@@ -112,14 +112,14 @@ Regulations may for any purpose of this Part provide for—
 
 ## Annotations
 
-[^key-6bd8f6ffd83f872566567bb1a5226832]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisi/2015/2006/schedule/1/paragraph/1) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iv)
+[^c-6bd8f6ffd83f872566567bb1a5226832]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/nisi/2015/2006/schedule/1/paragraph/1) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iv)
 
-[^key-30ec74c297aaea60ce6e1c9cc6ebdefe]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/1/paragraph/2) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iv)
+[^c-30ec74c297aaea60ce6e1c9cc6ebdefe]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/nisi/2015/2006/schedule/1/paragraph/2) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iv)
 
-[^key-8fe4530c0970802c7c45608a42ef46e0]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/1/paragraph/3) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iv)
+[^c-8fe4530c0970802c7c45608a42ef46e0]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/nisi/2015/2006/schedule/1/paragraph/3) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iv)
 
-[^key-24cde9f09e54327c2ff41c31ba5bc1ff]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/1/paragraph/4) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iv)
+[^c-24cde9f09e54327c2ff41c31ba5bc1ff]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/1/paragraph/4) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iv)
 
-[^key-82b06d54c20a99d775f7fcd1ba059146]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisi/2015/2006/schedule/1/paragraph/5) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iv)
+[^c-82b06d54c20a99d775f7fcd1ba059146]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/nisi/2015/2006/schedule/1/paragraph/5) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iv)
 
-[^key-d583b01f4990cac67c33a005a17cbaf5]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/1/paragraph/7) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iv)
+[^c-d583b01f4990cac67c33a005a17cbaf5]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisi/2015/2006/schedule/1/paragraph/7) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(iv)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/iv)

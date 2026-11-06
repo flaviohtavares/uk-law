@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Times in which spreading manufactured nitrogen fertiliser is prohibited[^key-9b0b13defb4ff7982ce86891b7540e2c]
+## 22. Times in which spreading manufactured nitrogen fertiliser is prohibited[^c-9b0b13defb4ff7982ce86891b7540e2c]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b0b13defb4ff7982ce86891b7540e2c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2021/77/regulation/22) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-9b0b13defb4ff7982ce86891b7540e2c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2021/77/regulation/22) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

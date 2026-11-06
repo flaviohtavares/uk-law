@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Tenancies under the Rent (Scotland) Act 1984: discretionary eviction grounds[^key-34f3585befd8adca5f81edcc4f8fb9ae]
+## 45. Tenancies under the Rent (Scotland) Act 1984: discretionary eviction grounds[^c-34f3585befd8adca5f81edcc4f8fb9ae]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34f3585befd8adca5f81edcc4f8fb9ae]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2022/8/section/45) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)
+[^c-34f3585befd8adca5f81edcc4f8fb9ae]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2022/8/section/45) in force at 1.10.2022, see [s. 59(1)](https://www.legislation.gov.uk/asp/2022/8/section/59/1)

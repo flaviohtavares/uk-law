@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Meaning of “marketing”[^key-52d08869fdca1936737a2ba066a52cba]
+## 2. Meaning of “marketing”[^c-52d08869fdca1936737a2ba066a52cba]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52d08869fdca1936737a2ba066a52cba]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), regs. 1, [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)
+[^c-52d08869fdca1936737a2ba066a52cba]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), regs. 1, [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)

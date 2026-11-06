@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136A. Late night levy: requests by relevant local policing bodies[^key-6680f309a779b917da85f513c9da0ee9]
+## 136A. Late night levy: requests by relevant local policing bodies[^c-6680f309a779b917da85f513c9da0ee9]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6680f309a779b917da85f513c9da0ee9]: Textual amendment: [S. 136A](https://www.legislation.gov.uk/ukpga/2011/13/section/136A) inserted (31.1.2017 for specified purposes, 13.7.2023 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/12); [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)
+[^c-6680f309a779b917da85f513c9da0ee9]: Textual amendment: [S. 136A](https://www.legislation.gov.uk/ukpga/2011/13/section/136A) inserted (31.1.2017 for specified purposes, 13.7.2023 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 18 para. 12](https://www.legislation.gov.uk/ukpga/2017/3/schedule/18/paragraph/12); [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Descriptions of accrued pension[^key-8bdf2e07812b5741a1094485e8e8c40f]
+## 29. Descriptions of accrued pension[^c-8bdf2e07812b5741a1094485e8e8c40f]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ For the purpose of these Regulations, the descriptions of accrued pension are—
 
 ## Annotations
 
-[^key-8bdf2e07812b5741a1094485e8e8c40f]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2014/1964/regulation/29) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-8bdf2e07812b5741a1094485e8e8c40f]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2014/1964/regulation/29) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Provision for all applicants: Homes for Ukraine scheme[^key-de13cf961d08f48ca68eb42a51c0c6b0]
+## 17. Provision for all applicants: Homes for Ukraine scheme[^c-de13cf961d08f48ca68eb42a51c0c6b0]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de13cf961d08f48ca68eb42a51c0c6b0]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/2885/regulation/17) inserted (10.2.2023 with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2023 (S.I. 2023/16)](https://www.legislation.gov.uk/uksi/2023/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/16/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/16/regulation/5)
+[^c-de13cf961d08f48ca68eb42a51c0c6b0]: Textual amendment: [Reg. 17](https://www.legislation.gov.uk/uksi/2012/2885/regulation/17) inserted (10.2.2023 with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2023 (S.I. 2023/16)](https://www.legislation.gov.uk/uksi/2023/16), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/16/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2023/16/regulation/5)

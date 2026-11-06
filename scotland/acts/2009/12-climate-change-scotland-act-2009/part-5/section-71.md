@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Microgeneration in non-domestic buildings[^key-e931d049e003618594980a084abd06b1]
+## 71. Microgeneration in non-domestic buildings[^c-e931d049e003618594980a084abd06b1]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e931d049e003618594980a084abd06b1]: Commencement: S. 71 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)
+[^c-e931d049e003618594980a084abd06b1]: Commencement: S. 71 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)

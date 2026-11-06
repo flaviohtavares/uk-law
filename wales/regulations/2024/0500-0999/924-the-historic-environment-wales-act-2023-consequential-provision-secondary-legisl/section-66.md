@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 66. The Swansea Bay Tidal Generating Station Order 2015[^key-b98f5950f568319b47adddd658cc4be7]
+## 66. The Swansea Bay Tidal Generating Station Order 2015[^c-b98f5950f568319b47adddd658cc4be7]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Swansea Bay Tidal Generating Station Order 2015[^f00041] is amended as follo
 
 ## Annotations
 
-[^key-b98f5950f568319b47adddd658cc4be7]: Commencement: [Reg. 66](https://www.legislation.gov.uk/wsi/2024/924/regulation/66) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-b98f5950f568319b47adddd658cc4be7]: Commencement: [Reg. 66](https://www.legislation.gov.uk/wsi/2024/924/regulation/66) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00041]: Footnote: [S.I. 2015/1386](https://www.legislation.gov.uk/uksi/2015/1386), to which there are amendments not relevant to these Regulations.

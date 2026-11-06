@@ -26,13 +26,13 @@ Section 74
 
 #### Civil enforcement of parking contraventions relating to parking places
 
-**1.**[^key-4107008ef0e701d3b548fd37ccb3b7ba] (1) The whole of Greater London is a civil enforcement area for parking contraventions within paragraph 2 of Schedule 7 (contraventions relating to parking places).
+**1.**[^c-4107008ef0e701d3b548fd37ccb3b7ba] (1) The whole of Greater London is a civil enforcement area for parking contraventions within paragraph 2 of Schedule 7 (contraventions relating to parking places).
 
 (2) References in this Part of this Act to the enforcement authority in relation to such contraventions are to the authority by whom the parking place in question was designated or provided.
 
 #### Civil enforcement of other parking contraventions
 
-**2.**[^key-6c6e5310643d14d1ff6325318a4bfac1] (1) The Secretary of State may, on an application by a London authority, make an order designating the whole or part of the authority's area as a civil enforcement area for parking contraventions within paragraph 3 of Schedule 7 (contraventions other than those relating to parking places).
+**2.**[^c-6c6e5310643d14d1ff6325318a4bfac1] (1) The Secretary of State may, on an application by a London authority, make an order designating the whole or part of the authority's area as a civil enforcement area for parking contraventions within paragraph 3 of Schedule 7 (contraventions other than those relating to parking places).
 
 (2) An application may be made—
 
@@ -50,7 +50,7 @@ Section 74
 
 #### Variation of civil enforcement area by Mayor of London
 
-**3.**[^key-574e30b60a197b414907e1a978852db6] (1) The Mayor of London may by order under this paragraph amend an order for the time being in force under paragraph 2 so as to vary the area that for the time being constitutes the civil enforcement area.
+**3.**[^c-574e30b60a197b414907e1a978852db6] (1) The Mayor of London may by order under this paragraph amend an order for the time being in force under paragraph 2 so as to vary the area that for the time being constitutes the civil enforcement area.
 
 (2) No such order may be made without the consent of the relevant London authority for every road that the order has the effect of bringing within, or removing from, the civil enforcement area.
 
@@ -135,21 +135,21 @@ Consent may be given with respect to the whole or part of the area of a London l
 
 #### Designation of civil enforcement areas for parking contraventions
 
-**8.**[^key-2596f9d1250f54a3d853a74c172ee611] (1)[^key-135db86cf2eb378b4947dea917f484dc] The appropriate national authority may, on an application under this paragraph, make an order designating the whole or part of a local authority's area as a civil enforcement area for parking contraventions.
+**8.**[^c-2596f9d1250f54a3d853a74c172ee611] (1)[^c-135db86cf2eb378b4947dea917f484dc] The appropriate national authority may, on an application under this paragraph, make an order designating the whole or part of a local authority's area as a civil enforcement area for parking contraventions.
 
 (2) An application under this paragraph may be made—
 
 - (a) with respect to the whole or part of their area, by a county council in England;
-- (b)[^key-135db86cf2eb378b4947dea917f484dc] with respect to the whole or part of their area, by a county council or county borough council in Wales;
+- (b)[^c-135db86cf2eb378b4947dea917f484dc] with respect to the whole or part of their area, by a county council or county borough council in Wales;
 - (c) with respect to the whole of their area, by a metropolitan district council;
 - (d) with respect to the whole of their areas, by two or more metropolitan district councils acting jointly;
 - (e) with respect to the whole or part of the Isles of Scilly, by the Council of the Isles of Scilly.
 
-(3)[^key-135db86cf2eb378b4947dea917f484dc] Before making an order under this paragraph the appropriate national authority shall consult the appropriate chief officer of police.
+(3)[^c-135db86cf2eb378b4947dea917f484dc] Before making an order under this paragraph the appropriate national authority shall consult the appropriate chief officer of police.
 
-(4)[^key-135db86cf2eb378b4947dea917f484dc] An order in force immediately before the commencement of this Part of this Act designating an area outside Greater London as a permitted parking area and special parking area under paragraphs 1(1) and 2(1) of Schedule 3 to the Road Traffic Act 1991 (c. 40) has effect on and after the commencement of this Part of this Act as an order under this paragraph designating the area as a civil enforcement area for parking contraventions.
+(4)[^c-135db86cf2eb378b4947dea917f484dc] An order in force immediately before the commencement of this Part of this Act designating an area outside Greater London as a permitted parking area and special parking area under paragraphs 1(1) and 2(1) of Schedule 3 to the Road Traffic Act 1991 (c. 40) has effect on and after the commencement of this Part of this Act as an order under this paragraph designating the area as a civil enforcement area for parking contraventions.
 
-(5)[^key-135db86cf2eb378b4947dea917f484dc] References in this Part of this Act to the enforcement authority in relation to parking contraventions in a civil enforcement area outside Greater London, are—
+(5)[^c-135db86cf2eb378b4947dea917f484dc] References in this Part of this Act to the enforcement authority in relation to parking contraventions in a civil enforcement area outside Greater London, are—
 
 - (a) in relation to contraventions relating to a parking place—
   - (i) provided or authorised under section 32(1)(a) or (b) of the Road Traffic Regulation Act 1984 (c. 27), or
@@ -160,20 +160,20 @@ Consent may be given with respect to the whole or part of the area of a London l
 
 #### Designation of civil enforcement areas for bus lane contraventions
 
-**9.**[^key-7cb5e4ff7c80230c8f0f3d857473e103][^key-f8642d18b32d7a1a0788f884710aa2fe][^key-f6302517f37b1a5cebe15aceda26bdd2] (1) The appropriate national authority may make an order designating the whole or part of a local authority's area as a civil enforcement area for bus lane contraventions.
+**9.**[^c-7cb5e4ff7c80230c8f0f3d857473e103][^c-f8642d18b32d7a1a0788f884710aa2fe][^c-f6302517f37b1a5cebe15aceda26bdd2] (1) The appropriate national authority may make an order designating the whole or part of a local authority's area as a civil enforcement area for bus lane contraventions.
 
 (2) An area may only be so designated if it is within, or is co-extensive with, an area already designated as a civil enforcement area for parking contraventions.
 
 (3) An order in force immediately before the commencement of this Part of this Act approving a local authority for the purposes of section 144 of the Transport Act 2000 (c. 38) (civil penalties for bus lane contraventions) has effect on and after the commencement of this Part of this Act as an order under this paragraph designating as a civil enforcement area for bus lane contraventions so much of that authority's area as is a civil enforcement area for parking contraventions.
 
-(3A)[^key-96db0bd09069ff175a3c8eb2f5445f6a] A notice given (and not withdrawn) before the commencement of this Part of this Act approving a local authority in England for the purposes of section 144 of the Transport Act 2000 (civil penalties for bus lane contraventions) has effect on and after the commencement of this Part of this Act (in relation to England) as an order under this paragraph designating as a civil enforcement area for bus lane contraventions so much of that authority's area as is a civil enforcement area for parking contraventions.
+(3A)[^c-96db0bd09069ff175a3c8eb2f5445f6a] A notice given (and not withdrawn) before the commencement of this Part of this Act approving a local authority in England for the purposes of section 144 of the Transport Act 2000 (civil penalties for bus lane contraventions) has effect on and after the commencement of this Part of this Act (in relation to England) as an order under this paragraph designating as a civil enforcement area for bus lane contraventions so much of that authority's area as is a civil enforcement area for parking contraventions.
 
-(4) References in this Part of this Act to the enforcement authority in relation to bus lane contraventions outside Greater London—[^key-e7a6209d47c4348f7053c2de15311180]
+(4) References in this Part of this Act to the enforcement authority in relation to bus lane contraventions outside Greater London—[^c-e7a6209d47c4348f7053c2de15311180]
 
 - (a) are references to the local authority in whose area the contravention is committed;
 - (b) if there is a qualifying CCA or combined authority for the area of that local authority, are also references to that authority or CCA (in addition to references that local authority).
 
-(5)[^key-43f79c95466fcfbee8faefeb55bb364e] There is a qualifying CCA or combined authority for the area of a local authority if—
+(5)[^c-43f79c95466fcfbee8faefeb55bb364e] There is a qualifying CCA or combined authority for the area of a local authority if—
 
 - (a) the local authority is a constituent council of a CCA or combined authority, and
 - (b) the CCA or combined authority has the written consent of the local authority to act as an enforcement authority in relation to bus lane contraventions in the local authority’s area.
@@ -194,21 +194,21 @@ Consent may be given with respect to the whole or part of the area of a London l
 
 #### Designation of civil enforcement areas for moving traffic contraventions
 
-**10.**[^key-903275c058d1349744f2aefd82ca0b8e][^key-2ccb1ee14ef47f7f099fd06641aa651d][^key-b25af627811a38e089e03e12a9b387df] (1)[^key-47680fbaa2041024b2005f70434c166e] The appropriate national authority may, on an application under this paragraph, make an order designating the whole or part of a local authority's area as a civil enforcement area for moving traffic contraventions.
+**10.**[^c-903275c058d1349744f2aefd82ca0b8e][^c-2ccb1ee14ef47f7f099fd06641aa651d][^c-b25af627811a38e089e03e12a9b387df] (1)[^c-47680fbaa2041024b2005f70434c166e] The appropriate national authority may, on an application under this paragraph, make an order designating the whole or part of a local authority's area as a civil enforcement area for moving traffic contraventions.
 
-(2)[^key-47680fbaa2041024b2005f70434c166e] An area may only be so designated if it is within, or is co-extensive with, an area already designated as a civil enforcement area for parking contraventions.
+(2)[^c-47680fbaa2041024b2005f70434c166e] An area may only be so designated if it is within, or is co-extensive with, an area already designated as a civil enforcement area for parking contraventions.
 
 (3) An application under this paragraph may be made—
 
 - (a) with respect to the whole or part of their area, by a county council in England;
-- (b)[^key-47680fbaa2041024b2005f70434c166e] with respect to the whole or part of their area, by a county council or county borough council in Wales;
+- (b)[^c-47680fbaa2041024b2005f70434c166e] with respect to the whole or part of their area, by a county council or county borough council in Wales;
 - (c) with respect to the whole or part of their area, by a metropolitan district council;
 - (d) with respect to the whole of their areas, by two or more metropolitan district councils acting jointly;
 - (e) with respect to the whole or part of the Isles of Scilly, by the Council of the Isles of Scilly.
 
-(4)[^key-47680fbaa2041024b2005f70434c166e] Before making an order under this paragraph the appropriate national authority shall consult the appropriate chief officer of police.
+(4)[^c-47680fbaa2041024b2005f70434c166e] Before making an order under this paragraph the appropriate national authority shall consult the appropriate chief officer of police.
 
-(5)[^key-6026d430bc9c9a8da8d5a7d44198a558] In relation to a civil enforcement area designated by order under this paragraph on an application that was not a joint application, references in this Part of this Act to the enforcement authority—
+(5)[^c-6026d430bc9c9a8da8d5a7d44198a558] In relation to a civil enforcement area designated by order under this paragraph on an application that was not a joint application, references in this Part of this Act to the enforcement authority—
 
 - (a) are references to the applicant authority;
 - (b) if there is a qualifying CCA or combined authority for the area of the applicant authority, are also references to that authority or CCA (in addition to references the applicant authority).
@@ -230,34 +230,34 @@ Consent may be given with respect to the whole or part of the area of a London l
 
 ## Annotations
 
-[^key-4107008ef0e701d3b548fd37ccb3b7ba]: Commencement: Sch. 8 para. 1 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(f)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-4107008ef0e701d3b548fd37ccb3b7ba]: Commencement: Sch. 8 para. 1 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(f)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
 
-[^key-6c6e5310643d14d1ff6325318a4bfac1]: Commencement: Sch. 8 para. 2 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(f)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-6c6e5310643d14d1ff6325318a4bfac1]: Commencement: Sch. 8 para. 2 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(f)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
 
-[^key-574e30b60a197b414907e1a978852db6]: Commencement: Sch. 8 para. 3 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(f)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-574e30b60a197b414907e1a978852db6]: Commencement: Sch. 8 para. 3 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(f)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
 
-[^key-2596f9d1250f54a3d853a74c172ee611]: Commencement: Sch. 8 para. 8 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(f)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
+[^c-2596f9d1250f54a3d853a74c172ee611]: Commencement: Sch. 8 para. 8 in force at 31.3.2008 for E. by [S.I. 2007/2053](https://www.legislation.gov.uk/uksi/2007/2053), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2053/article/1/2), [3(1)(2)(f)](https://www.legislation.gov.uk/uksi/2007/2053/article/3/1) (with [arts. 5-8](https://www.legislation.gov.uk/uksi/2007/2053/article/5)) (as amended (17.3.2008) by [S.I. 2008/757](https://www.legislation.gov.uk/uksi/2008/757), arts. 3, 5)
 
-[^key-135db86cf2eb378b4947dea917f484dc]: Commencement: Sch. 8 para. 8(1)(2)(b)(3)-(5) in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
+[^c-135db86cf2eb378b4947dea917f484dc]: Commencement: Sch. 8 para. 8(1)(2)(b)(3)-(5) in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
 
-[^key-7cb5e4ff7c80230c8f0f3d857473e103]: Commencement: Sch. 8 para. 9 in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
+[^c-7cb5e4ff7c80230c8f0f3d857473e103]: Commencement: Sch. 8 para. 9 in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
 
-[^key-f8642d18b32d7a1a0788f884710aa2fe]: Commencement: Sch. 8 para. 9 in force at 31.5.2022 for E. by [S.I. 2022/66](https://www.legislation.gov.uk/uksi/2022/66), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/66/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/66/article/2/2/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2022/66/article/3/1))
+[^c-f8642d18b32d7a1a0788f884710aa2fe]: Commencement: Sch. 8 para. 9 in force at 31.5.2022 for E. by [S.I. 2022/66](https://www.legislation.gov.uk/uksi/2022/66), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/66/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/66/article/2/2/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2022/66/article/3/1))
 
-[^key-f6302517f37b1a5cebe15aceda26bdd2]: Modification: Sch. 8 para. 9: functions made exercisable concurrently (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1432/article/15)
+[^c-f6302517f37b1a5cebe15aceda26bdd2]: Modification: Sch. 8 para. 9: functions made exercisable concurrently (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1432/article/15)
 
-[^key-96db0bd09069ff175a3c8eb2f5445f6a]: Textual amendment: Sch. 8 para. 9(3A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(p)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/p), [Sch. 11 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/19)
+[^c-96db0bd09069ff175a3c8eb2f5445f6a]: Textual amendment: Sch. 8 para. 9(3A) inserted (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(p)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/p), [Sch. 11 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/11/paragraph/19)
 
-[^key-e7a6209d47c4348f7053c2de15311180]: Textual amendment: Sch. 8 para. 9(4)(a)(b) substituted for words (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 10 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/10/paragraph/1/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-e7a6209d47c4348f7053c2de15311180]: Textual amendment: Sch. 8 para. 9(4)(a)(b) substituted for words (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 10 para. 1(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/10/paragraph/1/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-43f79c95466fcfbee8faefeb55bb364e]: Textual amendment: Sch. 8 para. 9(5)(6) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 10 para. 1(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/10/paragraph/1/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-43f79c95466fcfbee8faefeb55bb364e]: Textual amendment: Sch. 8 para. 9(5)(6) inserted (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 10 para. 1(3)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/10/paragraph/1/3) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
 
-[^key-903275c058d1349744f2aefd82ca0b8e]: Commencement: Sch. 8 para. 10 in force at 31.5.2022 for E. by [S.I. 2022/66](https://www.legislation.gov.uk/uksi/2022/66), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/66/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/66/article/2/2/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2022/66/article/3/1))
+[^c-903275c058d1349744f2aefd82ca0b8e]: Commencement: Sch. 8 para. 10 in force at 31.5.2022 for E. by [S.I. 2022/66](https://www.legislation.gov.uk/uksi/2022/66), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/66/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2022/66/article/2/2/c) (with [art. 3(1)-(3)](https://www.legislation.gov.uk/uksi/2022/66/article/3/1))
 
-[^key-2ccb1ee14ef47f7f099fd06641aa651d]: Modification: Sch. 8 para. 10: functions made exercisable concurrently (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1432/article/15)
+[^c-2ccb1ee14ef47f7f099fd06641aa651d]: Modification: Sch. 8 para. 10: functions made exercisable concurrently (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [15](https://www.legislation.gov.uk/uksi/2023/1432/article/15)
 
-[^key-b25af627811a38e089e03e12a9b387df]: Modification: Sch. 8 para. 10: functions made exercisable concurrently (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2024/232/regulation/17)
+[^c-b25af627811a38e089e03e12a9b387df]: Modification: Sch. 8 para. 10: functions made exercisable concurrently (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2024/232/regulation/17)
 
-[^key-47680fbaa2041024b2005f70434c166e]: Commencement: Sch. 8 para. 10(1)(2)(3)(b)(4)(5) in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
+[^c-47680fbaa2041024b2005f70434c166e]: Commencement: Sch. 8 para. 10(1)(2)(3)(b)(4)(5) in force at 31.3.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/uksi/2007/3174), [art. 2](https://www.legislation.gov.uk/uksi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/3174/schedule)
 
-[^key-6026d430bc9c9a8da8d5a7d44198a558]: Textual amendment: Sch. 8 para. 10(5)-(8) substituted for Sch. 8 para. 10(5) (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 10 para. 2(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/10/paragraph/2/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))
+[^c-6026d430bc9c9a8da8d5a7d44198a558]: Textual amendment: Sch. 8 para. 10(5)-(8) substituted for Sch. 8 para. 10(5) (29.4.2026) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/3), [Sch. 10 para. 2(2)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/10/paragraph/2/2) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102))

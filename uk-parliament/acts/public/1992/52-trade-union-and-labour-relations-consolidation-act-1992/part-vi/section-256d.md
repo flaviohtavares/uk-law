@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256D. Power to impose financial penalties[^key-18c3b596de2a7ab6593595978ac23b2e]
+## 256D. Power to impose financial penalties[^c-18c3b596de2a7ab6593595978ac23b2e]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18c3b596de2a7ab6593595978ac23b2e]: Textual amendment: S. 256D omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 84(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/84/2), [159(2)(p)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/p) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/17))
+[^c-18c3b596de2a7ab6593595978ac23b2e]: Textual amendment: S. 256D omitted (18.2.2026) by virtue of [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 84(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/84/2), [159(2)(p)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/p) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 17](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/17))

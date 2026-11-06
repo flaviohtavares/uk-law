@@ -35,10 +35,10 @@ summary: ''
 
 (6) The total accepted under subsection (1) above as regards all defined councils for a particular financial year shall not exceed such amount as is approved by the Treasury for the year.
 
-(7)[^key-1fee64483f2abcc4961bd27a9a5fbd27] In the application of this section in relation to Wales, references to the Secretary of State are references to the Welsh Ministers.
+(7)[^c-1fee64483f2abcc4961bd27a9a5fbd27] In the application of this section in relation to Wales, references to the Secretary of State are references to the Welsh Ministers.
 
 ## Annotations
 
 [^c13071801]: Modification: S. 87(5)(a) amended (28.11.1994) by [S.I. 1994/2825](https://www.legislation.gov.uk/uksi/1994/2825), [reg. 35](https://www.legislation.gov.uk/uksi/1994/2825/regulation/35)
 
-[^key-1fee64483f2abcc4961bd27a9a5fbd27]: Textual amendment: S. 87(7) inserted (25.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/35)
+[^c-1fee64483f2abcc4961bd27a9a5fbd27]: Textual amendment: S. 87(7) inserted (25.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [Sch. 1 para. 35](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/35)

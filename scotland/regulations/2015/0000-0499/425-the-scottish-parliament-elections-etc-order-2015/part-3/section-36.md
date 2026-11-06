@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Control of donations to candidates[^key-0625a705dc084e838bc244ca11e46e3c]
+## 36. Control of donations to candidates[^c-0625a705dc084e838bc244ca11e46e3c]
 
 *Extent: S*
 
@@ -47,7 +47,7 @@ must be provided to the candidate or the candidate’s election agent.
 
 ## Annotations
 
-[^key-0625a705dc084e838bc244ca11e46e3c]: Commencement: Art. 36 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-0625a705dc084e838bc244ca11e46e3c]: Commencement: Art. 36 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00031]: Footnote: Schedule 2A was inserted by the 2000 Political Parties Act, section 130 and Schedule 16.
 

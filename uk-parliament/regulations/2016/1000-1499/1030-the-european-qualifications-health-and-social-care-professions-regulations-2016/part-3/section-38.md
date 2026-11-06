@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Insertion of article 42A[^key-66f7a734dcb4a9bd395e0cb7639b7da4]
+## 38. Insertion of article 42A[^c-66f7a734dcb4a9bd395e0cb7639b7da4]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ After article 42, insert—
 
 ## Annotations
 
-[^key-66f7a734dcb4a9bd395e0cb7639b7da4]: Commencement: Reg. 38 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-66f7a734dcb4a9bd395e0cb7639b7da4]: Commencement: Reg. 38 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

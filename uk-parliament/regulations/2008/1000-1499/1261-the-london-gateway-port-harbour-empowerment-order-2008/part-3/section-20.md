@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 20. Power to alter layout of streets, etc.[^key-9eb4f7a1364699f7f22434f0c1879fd6]
+## 20. Power to alter layout of streets, etc.[^c-9eb4f7a1364699f7f22434f0c1879fd6]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9eb4f7a1364699f7f22434f0c1879fd6]: Commencement: Art. 20 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-9eb4f7a1364699f7f22434f0c1879fd6]: Commencement: Art. 20 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

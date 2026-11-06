@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Academies: minor amendments[^key-9745c86e3c79dde2ec49ccc8c52b8287]
+## 65. Academies: minor amendments[^c-9745c86e3c79dde2ec49ccc8c52b8287]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 15 (Academies: minor amendments) has effect.
 
 ## Annotations
 
-[^key-9745c86e3c79dde2ec49ccc8c52b8287]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2011/21/section/65) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-9745c86e3c79dde2ec49ccc8c52b8287]: Commencement: [S. 65](https://www.legislation.gov.uk/ukpga/2011/21/section/65) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

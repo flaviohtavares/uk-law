@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 220. Amendment of regulation 323 (enforcement in England, Wales and Scotland)[^key-286fdaf8d2fd3b48df991eec8a83acf4]
+## 220. Amendment of regulation 323 (enforcement in England, Wales and Scotland)[^c-286fdaf8d2fd3b48df991eec8a83acf4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-286fdaf8d2fd3b48df991eec8a83acf4]: Commencement: Reg. 220 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-286fdaf8d2fd3b48df991eec8a83acf4]: Commencement: Reg. 220 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885431]: Marginal citation: Regulation 323 was amended [S.I. 2019/62](https://www.legislation.gov.uk/uksi/2019/62).

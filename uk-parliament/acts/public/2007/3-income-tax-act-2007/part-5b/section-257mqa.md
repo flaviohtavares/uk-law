@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257MQA. Excluded activities: nursing homes and residential care homes[^key-fd55a8200705766a3ece1810b8f854f9][^key-aaf10c7dc329529b2ca19087f01e69e7]
+## 257MQA. Excluded activities: nursing homes and residential care homes[^c-fd55a8200705766a3ece1810b8f854f9][^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fd55a8200705766a3ece1810b8f854f9]: Textual amendment: [S. 257MQA](https://www.legislation.gov.uk/ukpga/2007/3/section/257MQA) inserted (with application in accordance with Sch. 1 para. 15 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 10(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/10/5)
+[^c-fd55a8200705766a3ece1810b8f854f9]: Textual amendment: [S. 257MQA](https://www.legislation.gov.uk/ukpga/2007/3/section/257MQA) inserted (with application in accordance with Sch. 1 para. 15 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 1 para. 10(5)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/1/paragraph/10/5)
 
-[^key-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
+[^c-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)

@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Communities makes the following Order in exercise of the powers conferred on it by sections 14 (7) of the Private Tenancies Act (Northern Ireland) 2022.[^f00001].
 
-## 1. Citation[^key-f054397aa30b0b4c9cf6c483d7a30040]
+## 1. Citation[^c-f054397aa30b0b4c9cf6c483d7a30040]
 
 This Order may be cited as the Private Tenancies (2022 Act) (Commencement No.1) Order (Northern Ireland) 2023.
 
-## 2. Appointed Day[^key-5daf53f9371101f09ef33341156c30bc]
+## 2. Appointed Day[^c-5daf53f9371101f09ef33341156c30bc]
 
 The day appointed for the coming into operation of the provisions of the Private Tenancies Act (Northern Ireland) 2022 specified in the Schedule is 1st April 2023.
 
@@ -57,11 +57,11 @@ David Polley
 
 A senior officer of the Department for Communities
 
-## SCHEDULE[^key-fe08fcae9f90a875618b6f2b8b42e415]
+## SCHEDULE[^c-fe08fcae9f90a875618b6f2b8b42e415]
 
 Article 2
 
-[^key-fe08fcae9f90a875618b6f2b8b42e415]Provisions of the Private Tenancies Act (Northern Ireland) 2022 coming into operation on 1st April 2023.
+[^c-fe08fcae9f90a875618b6f2b8b42e415]Provisions of the Private Tenancies Act (Northern Ireland) 2022 coming into operation on 1st April 2023.
 
 | Provisions of the Act | Subject Matter |
 | --- | --- |
@@ -83,8 +83,8 @@ This Order brings into operation certain provisions of the Private Tenancies Act
 
 [^f00001]: Footnote: [2022 c. 20 (N.I.)](https://www.legislation.gov.uk/nia/2022/20)
 
-[^key-f054397aa30b0b4c9cf6c483d7a30040]: Commencement: Art. 1 in operation at made date
+[^c-f054397aa30b0b4c9cf6c483d7a30040]: Commencement: Art. 1 in operation at made date
 
-[^key-5daf53f9371101f09ef33341156c30bc]: Commencement: Art. 2 in operation at made date
+[^c-5daf53f9371101f09ef33341156c30bc]: Commencement: Art. 2 in operation at made date
 
-[^key-fe08fcae9f90a875618b6f2b8b42e415]: Commencement: Sch. in operation at made date
+[^c-fe08fcae9f90a875618b6f2b8b42e415]: Commencement: Sch. in operation at made date

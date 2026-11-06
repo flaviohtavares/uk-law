@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Information in relation to CCUS strategy and policy statement[^key-a5cc326810dbca004c50ee49291de4f9]
+## 40. Information in relation to CCUS strategy and policy statement[^c-a5cc326810dbca004c50ee49291de4f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a5cc326810dbca004c50ee49291de4f9]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/52/section/40) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-a5cc326810dbca004c50ee49291de4f9]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2023/52/section/40) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Review of electoral boundaries by the Local Government Boundary Commission for Scotland[^key-87aece961b47af2e562553d55f2b74f1]
+## 8. Review of electoral boundaries by the Local Government Boundary Commission for Scotland[^c-87aece961b47af2e562553d55f2b74f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ substitute “the Parliament”.
 
 ## Annotations
 
-[^key-87aece961b47af2e562553d55f2b74f1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/11/section/8) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/f)
+[^c-87aece961b47af2e562553d55f2b74f1]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2016/11/section/8) in force at 18.5.2017 by [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(f)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/f)

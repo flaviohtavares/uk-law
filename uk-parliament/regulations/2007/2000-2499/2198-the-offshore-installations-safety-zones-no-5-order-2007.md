@@ -41,15 +41,15 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon him by sections 22(1) and (2) of the Petroleum Act 1987[^f00001] (“the Act”), and for the purpose of giving effect to proposals submitted to him by the Health and Safety Commission under section 24(2A) of the Act, hereby makes the following Order:
 
-## 1. Citation and commencement[^key-7b8c2ba1e844d136a968434e07166866]
+## 1. Citation and commencement[^c-7b8c2ba1e844d136a968434e07166866]
 
 This Order may be cited as the Offshore Installations (Safety Zones) (No.5) Order 2007 and shall come into force on 15th August 2007.
 
-## 2. Revocation[^key-5d5da93b86b74b08654799d7daa65e62]
+## 2. Revocation[^c-5d5da93b86b74b08654799d7daa65e62]
 
 The Offshore Installations (Safety Zones) (No.4) Order 2007[^f00002] is revoked.
 
-## 3. Establishment of safety zones[^key-7857b7e520617a54c7597791078525c8]
+## 3. Establishment of safety zones[^c-7857b7e520617a54c7597791078525c8]
 
 A safety zone is established around each installation specified in column 1 of the Schedule (being an installation stationed in waters to which subsection (7) of section 21 of the Petroleum Act 1987 applies) having a radius of five hundred metres from the point as respects that installation which has the co-ordinates of latitude and longitude according to European Datum (1950) specified in columns 2 and 3 of the Schedule.
 
@@ -63,14 +63,14 @@ Department for Work and Pensions
 
 25th July 2007
 
-## SCHEDULE — SAFETY ZONES[^key-88e39b1256f1a2c00ce875c10af3afce]
+## SCHEDULE — SAFETY ZONES[^c-88e39b1256f1a2c00ce875c10af3afce]
 
 Article 2
 
 | *(1)*<br>*Name or other designation of the offshore installation* | *(2)*<br>*Latitude North* | *(3)*<br>*Longitude* |
 | --- | --- | --- |
 | Duart North, Block 14/20b, Duart North Field | 58° 21.88’ | 00° 3.57’ W |
-| [^key-92e082bdf4a37dbb68b5b57f65300972]. . . | [^key-92e082bdf4a37dbb68b5b57f65300972]. . . | [^key-92e082bdf4a37dbb68b5b57f65300972]. . . |
+| [^c-92e082bdf4a37dbb68b5b57f65300972]. . . | [^c-92e082bdf4a37dbb68b5b57f65300972]. . . | [^c-92e082bdf4a37dbb68b5b57f65300972]. . . |
 
 EXPLANATORY NOTE
 
@@ -84,14 +84,14 @@ Vessels, which for this purpose include hovercraft, submersible apparatus and in
 
 [^f00001]: Footnote: [1987 c.12](https://www.legislation.gov.uk/ukpga/1987/12); section 24(2A) was inserted by [S.I. 1993/1823](https://www.legislation.gov.uk/uksi/1993/1823).
 
-[^key-7b8c2ba1e844d136a968434e07166866]: Commencement: Art. 1 in force at 15.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2198/article/1)
+[^c-7b8c2ba1e844d136a968434e07166866]: Commencement: Art. 1 in force at 15.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2198/article/1)
 
-[^key-5d5da93b86b74b08654799d7daa65e62]: Commencement: Art. 2 in force at 15.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2198/article/1)
+[^c-5d5da93b86b74b08654799d7daa65e62]: Commencement: Art. 2 in force at 15.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2198/article/1)
 
 [^f00002]: Footnote: [S.I. 2007/2004](https://www.legislation.gov.uk/uksi/2007/2004).
 
-[^key-7857b7e520617a54c7597791078525c8]: Commencement: Art. 3 in force at 15.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2198/article/1)
+[^c-7857b7e520617a54c7597791078525c8]: Commencement: Art. 3 in force at 15.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2198/article/1)
 
-[^key-88e39b1256f1a2c00ce875c10af3afce]: Commencement: Sch. in force at 15.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2198/article/1)
+[^c-88e39b1256f1a2c00ce875c10af3afce]: Commencement: Sch. in force at 15.8.2007, see [art. 1](https://www.legislation.gov.uk/uksi/2007/2198/article/1)
 
-[^key-92e082bdf4a37dbb68b5b57f65300972]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2007/2198/schedule) omitted (22.8.2011) by virtue of [The Offshore Installations (Safety Zones) (No.2) Order 2011 (S.I. 2011/1825)](https://www.legislation.gov.uk/uksi/2011/1825), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1825/article/1), [5](https://www.legislation.gov.uk/uksi/2011/1825/article/5)
+[^c-92e082bdf4a37dbb68b5b57f65300972]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2007/2198/schedule) omitted (22.8.2011) by virtue of [The Offshore Installations (Safety Zones) (No.2) Order 2011 (S.I. 2011/1825)](https://www.legislation.gov.uk/uksi/2011/1825), [arts. 1](https://www.legislation.gov.uk/uksi/2011/1825/article/1), [5](https://www.legislation.gov.uk/uksi/2011/1825/article/5)

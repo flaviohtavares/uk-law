@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62ZC. Appeals under section 62ZB: determination by appointed person[^key-2ece1dbd44bc1f04c51224371d0234c4]
+## 62ZC. Appeals under section 62ZB: determination by appointed person[^c-2ece1dbd44bc1f04c51224371d0234c4]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ece1dbd44bc1f04c51224371d0234c4]: Textual amendment: Ss. 62ZA-62ZD and cross-heading inserted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 29(2)](https://www.legislation.gov.uk/anaw/2015/4/section/29/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(a)](https://www.legislation.gov.uk/wsi/2016/52/article/5/a) (with [art. 9](https://www.legislation.gov.uk/wsi/2016/52/article/9))
+[^c-2ece1dbd44bc1f04c51224371d0234c4]: Textual amendment: Ss. 62ZA-62ZD and cross-heading inserted (6.9.2015 for specified purposes, 16.3.2016 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [ss. 29(2)](https://www.legislation.gov.uk/anaw/2015/4/section/29/2), [58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b); [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(a)](https://www.legislation.gov.uk/wsi/2016/52/article/5/a) (with [art. 9](https://www.legislation.gov.uk/wsi/2016/52/article/9))

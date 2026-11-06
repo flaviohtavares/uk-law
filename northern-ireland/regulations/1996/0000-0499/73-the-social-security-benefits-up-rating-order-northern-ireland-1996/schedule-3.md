@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 3 — Schedule 5 to the Disability Working Allowance Regulations as amended by this Order[^key-4ccea261382ccc01fb8f94854720fe70]
+## SCHEDULE 3 — Schedule 5 to the Disability Working Allowance Regulations as amended by this Order[^c-4ccea261382ccc01fb8f94854720fe70]
 
 *Extent: N.I.*
 
@@ -47,4 +47,4 @@ Article 17
 
 ## Annotations
 
-[^key-4ccea261382ccc01fb8f94854720fe70]: Commencement: Sch. 3 in operation at 9.4.1996, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/e)
+[^c-4ccea261382ccc01fb8f94854720fe70]: Commencement: Sch. 3 in operation at 9.4.1996, see [art. 1(1)(e)](https://www.legislation.gov.uk/nisr/1996/73/article/1/1/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Meaning of “UK consumer connectable product”[^key-c7e99ec4b21e133cc29242a759f5f341][^key-b9abe7f03ca1aca0370b53d68e3ce5de]
+## 54. Meaning of “UK consumer connectable product”[^c-c7e99ec4b21e133cc29242a759f5f341][^c-b9abe7f03ca1aca0370b53d68e3ce5de]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,6 +69,6 @@ the product is not to be treated as having been supplied to the original custome
 
 ## Annotations
 
-[^key-c7e99ec4b21e133cc29242a759f5f341]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
+[^c-c7e99ec4b21e133cc29242a759f5f341]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 79(1)(c)](https://www.legislation.gov.uk/ukpga/2022/46/section/79/1/c)
 
-[^key-b9abe7f03ca1aca0370b53d68e3ce5de]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2022/46/section/54) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-b9abe7f03ca1aca0370b53d68e3ce5de]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2022/46/section/54) in force at 29.4.2024 in so far as not already in force by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

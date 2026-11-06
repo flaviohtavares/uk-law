@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 81A. Tendered postal ballot papers[^key-49f3acdcc1ae33822807f293627d8df2][^key-d32faa0e22de89576cb3d71b1a9fe29f]
+## 81A. Tendered postal ballot papers[^c-49f3acdcc1ae33822807f293627d8df2][^c-d32faa0e22de89576cb3d71b1a9fe29f]
 
 *Extent: N.I.*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-49f3acdcc1ae33822807f293627d8df2]: Modification: [Reg. 81A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/81A) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 93](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/93)
+[^c-49f3acdcc1ae33822807f293627d8df2]: Modification: [Reg. 81A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/81A) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 93](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/93)
 
-[^key-d32faa0e22de89576cb3d71b1a9fe29f]: Textual amendment: [Reg. 81A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/81A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2014/1808/regulation/27)
+[^c-d32faa0e22de89576cb3d71b1a9fe29f]: Textual amendment: [Reg. 81A](https://www.legislation.gov.uk/uksi/2008/1741/regulation/81A) inserted (15.9.2014) by [The Representation of the People (Northern Ireland) (Amendment) Regulations 2014 (S.I. 2014/1808)](https://www.legislation.gov.uk/uksi/2014/1808), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1808/regulation/1/1), [27](https://www.legislation.gov.uk/uksi/2014/1808/regulation/27)

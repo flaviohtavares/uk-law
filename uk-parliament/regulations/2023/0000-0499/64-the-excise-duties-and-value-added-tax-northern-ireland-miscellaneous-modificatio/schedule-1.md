@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 2
 
-**1.**[^key-a55c6c3956d43be1e9f993462937281d] In article 18, for paragraph (a) substitute—
+**1.**[^c-a55c6c3956d43be1e9f993462937281d] In article 18, for paragraph (a) substitute—
 
 > - (a) for the purposes of any provision of the Visiting Forces Act 1952[^f00007], a serving member of a visiting force—
 >   - (i) of a country, other than the United Kingdom, which is a party to the North Atlantic Treaty, or
@@ -32,9 +32,9 @@ Regulation 2
 
 .
 
-**2.**[^key-57a86b5715c536cd7e5254ebe441a543] In articles 20 and 21, for “article 22” substitute “articles 22 and 23”.
+**2.**[^c-57a86b5715c536cd7e5254ebe441a543] In articles 20 and 21, for “article 22” substitute “articles 22 and 23”.
 
-**3.**[^key-c79762a9996db7ad1fa08f4035fb5ae1] After article 22 insert—
+**3.**[^c-c79762a9996db7ad1fa08f4035fb5ae1] After article 22 insert—
 
 > **23.** Relief under articles 20 and 21 does not extend to payment of any duty of customs in respect of a person who is an entitled person in relation to a visiting force referred to in article 18(a)(ii).
 
@@ -42,12 +42,12 @@ Regulation 2
 
 ## Annotations
 
-[^key-a55c6c3956d43be1e9f993462937281d]: Commencement: Sch. 1 para. 1 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-a55c6c3956d43be1e9f993462937281d]: Commencement: Sch. 1 para. 1 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
 [^f00007]: Footnote: [1952 c. 67](https://www.legislation.gov.uk/ukpga/1952/67), to which there are amendments not relevant to these Regulations.
 
 [^f00008]: Footnote: OJ No. C 326, 26.10.2012, p13.
 
-[^key-57a86b5715c536cd7e5254ebe441a543]: Commencement: Sch. 1 para. 2 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-57a86b5715c536cd7e5254ebe441a543]: Commencement: Sch. 1 para. 2 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
 
-[^key-c79762a9996db7ad1fa08f4035fb5ae1]: Commencement: Sch. 1 para. 3 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)
+[^c-c79762a9996db7ad1fa08f4035fb5ae1]: Commencement: Sch. 1 para. 3 in force at 13.2.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2)

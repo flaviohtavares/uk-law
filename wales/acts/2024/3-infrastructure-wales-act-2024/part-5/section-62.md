@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Reasons for decision to grant or refuse infrastructure consent[^key-88718cbd1673485fc1282d48c5857679][^key-36de0d7c0b250aca9e7d997e967d0bae]
+## 62. Reasons for decision to grant or refuse infrastructure consent[^c-88718cbd1673485fc1282d48c5857679][^c-36de0d7c0b250aca9e7d997e967d0bae]
 
 *Extent: E+W*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88718cbd1673485fc1282d48c5857679]: Commencement: S. 62 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
+[^c-88718cbd1673485fc1282d48c5857679]: Commencement: S. 62 in force at 4.6.2024 for specified purposes, see [s. 147(1)(b)](https://www.legislation.gov.uk/asc/2024/3/section/147/1/b)
 
-[^key-36de0d7c0b250aca9e7d997e967d0bae]: Commencement: [S. 62](https://www.legislation.gov.uk/asc/2024/3/section/62) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/698/article/3/c)
+[^c-36de0d7c0b250aca9e7d997e967d0bae]: Commencement: [S. 62](https://www.legislation.gov.uk/asc/2024/3/section/62) in force at 15.12.2025 in so far as not already in force by [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(c)](https://www.legislation.gov.uk/wsi/2025/698/article/3/c)

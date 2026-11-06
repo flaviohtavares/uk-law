@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.24. Execution of warrants outside court's district[^key-0877f3196de5bea871c4b7d7020b5705]
+## 7.24. Execution of warrants outside court's district[^c-0877f3196de5bea871c4b7d7020b5705]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0877f3196de5bea871c4b7d7020b5705]: Commencement: [Rule 7.24](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.24) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-0877f3196de5bea871c4b7d7020b5705]: Commencement: [Rule 7.24](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.24) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00208]: Marginal citation: \[FORM 7.10\]

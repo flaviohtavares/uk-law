@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 57. Annual rate of full retirement pension (active members)[^key-7a54bb5df078229900d1fbc9e8d72045]
+## 57. Annual rate of full retirement pension (active members)[^c-7a54bb5df078229900d1fbc9e8d72045]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7a54bb5df078229900d1fbc9e8d72045]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2015/182/regulation/57) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-7a54bb5df078229900d1fbc9e8d72045]: Commencement: [Reg. 57](https://www.legislation.gov.uk/uksi/2015/182/regulation/57) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

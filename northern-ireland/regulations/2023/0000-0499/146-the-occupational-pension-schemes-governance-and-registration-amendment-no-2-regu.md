@@ -34,7 +34,7 @@ Regulations made by the Department for Communities and laid before the Assembly 
 
 Pensions
 
-The Occupational Pension Schemes (Governance and Registration) (Amendment No. 2) Regulations (Northern Ireland) 2023 (revoked)[^key-27e9f56a0135b76ef7689290e182edf2]
+The Occupational Pension Schemes (Governance and Registration) (Amendment No. 2) Regulations (Northern Ireland) 2023 (revoked)[^c-27e9f56a0135b76ef7689290e182edf2]
 
 Made
 
@@ -44,94 +44,94 @@ Coming into operation
 
 28th September 2023
 
-[^key-27e9f56a0135b76ef7689290e182edf2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27e9f56a0135b76ef7689290e182edf2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — Introductory provisions[^key-27e9f56a0135b76ef7689290e182edf2]
+## PART 1 — Introductory provisions[^c-27e9f56a0135b76ef7689290e182edf2]
 
-### 1. Citation and commencement[^key-27e9f56a0135b76ef7689290e182edf2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Use of fiduciary management services and investment consultancy services[^key-27e9f56a0135b76ef7689290e182edf2]
-
-### 2. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^key-27e9f56a0135b76ef7689290e182edf2]
+### 1. Citation and commencement[^c-27e9f56a0135b76ef7689290e182edf2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Registrable information[^key-27e9f56a0135b76ef7689290e182edf2]
+## PART 2 — Use of fiduciary management services and investment consultancy services[^c-27e9f56a0135b76ef7689290e182edf2]
 
-### 3. Amendment of the Register of Occupational and Personal Pension Schemes Regulations[^key-27e9f56a0135b76ef7689290e182edf2]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 4 — Revocation[^key-27e9f56a0135b76ef7689290e182edf2]
-
-### 4. Revocation[^key-27e9f56a0135b76ef7689290e182edf2]
+### 2. Amendment of the Occupational Pension Schemes (Scheme Administration) Regulations[^c-27e9f56a0135b76ef7689290e182edf2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-27e9f56a0135b76ef7689290e182edf2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## PART 3 — Registrable information[^c-27e9f56a0135b76ef7689290e182edf2]
+
+### 3. Amendment of the Register of Occupational and Personal Pension Schemes Regulations[^c-27e9f56a0135b76ef7689290e182edf2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 4 — Revocation[^c-27e9f56a0135b76ef7689290e182edf2]
+
+### 4. Revocation[^c-27e9f56a0135b76ef7689290e182edf2]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-27e9f56a0135b76ef7689290e182edf2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule to be added to the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^key-27e9f56a0135b76ef7689290e182edf2]
+## SCHEDULE — Schedule to be added to the Occupational Pension Schemes (Scheme Administration) Regulations (Northern Ireland) 1997[^c-27e9f56a0135b76ef7689290e182edf2]
 
 Regulation 2(3)
 
-> **SCHEDULE — Duties of trustees of relevant trust schemes in connection with provision of FM services[^key-27e9f56a0135b76ef7689290e182edf2]**
+> **SCHEDULE — Duties of trustees of relevant trust schemes in connection with provision of FM services[^c-27e9f56a0135b76ef7689290e182edf2]**
 >
 > Regulation 33
 >
-> **PART 1 — Introductory[^key-27e9f56a0135b76ef7689290e182edf2]**
+> **PART 1 — Introductory[^c-27e9f56a0135b76ef7689290e182edf2]**
 >
-> **1. Scope[^key-27e9f56a0135b76ef7689290e182edf2]**
->
-> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
->
-> **2. General interpretation[^key-27e9f56a0135b76ef7689290e182edf2]**
+> **1. Scope[^c-27e9f56a0135b76ef7689290e182edf2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3. Meaning of “FM provider”, “in-scope FM provider”, “continuing in-scope FM provider”, “out-of-scope FM provider”, “manageable assets” and related expressions[^key-27e9f56a0135b76ef7689290e182edf2]**
+> **2. General interpretation[^c-27e9f56a0135b76ef7689290e182edf2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4. The asset management threshold[^key-27e9f56a0135b76ef7689290e182edf2]**
+> **3. Meaning of “FM provider”, “in-scope FM provider”, “continuing in-scope FM provider”, “out-of-scope FM provider”, “manageable assets” and related expressions[^c-27e9f56a0135b76ef7689290e182edf2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5. Meaning of “qualifying tender process”[^key-27e9f56a0135b76ef7689290e182edf2]**
+> **4. The asset management threshold[^c-27e9f56a0135b76ef7689290e182edf2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 2 — Duties of trustees of relevant trust schemes which met the asset management threshold before the commencement date[^key-27e9f56a0135b76ef7689290e182edf2]**
->
-> **6. Application of Part 2[^key-27e9f56a0135b76ef7689290e182edf2]**
+> **5. Meaning of “qualifying tender process”[^c-27e9f56a0135b76ef7689290e182edf2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7. Duty of trustees to carry out a qualifying tender process in connection with continued use of continuing in-scope FM providers[^key-27e9f56a0135b76ef7689290e182edf2]**
+> **PART 2 — Duties of trustees of relevant trust schemes which met the asset management threshold before the commencement date[^c-27e9f56a0135b76ef7689290e182edf2]**
+>
+> **6. Application of Part 2[^c-27e9f56a0135b76ef7689290e182edf2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **PART 3 — Duties of trustees of relevant trust schemes which meet the asset management threshold on or after the commencement date[^key-27e9f56a0135b76ef7689290e182edf2]**
->
-> **8. Duty of trustees of a relevant scheme to carry out a qualifying tender process in connection with appointment, or change to the mandate, of an in-scope FM provider[^key-27e9f56a0135b76ef7689290e182edf2]**
+> **7. Duty of trustees to carry out a qualifying tender process in connection with continued use of continuing in-scope FM providers[^c-27e9f56a0135b76ef7689290e182edf2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **9. Duty of the trustees to carry out a qualifying tender process in respect of arrangements with existing FM providers not appointed following a relevant tender process[^key-27e9f56a0135b76ef7689290e182edf2]**
+> **PART 3 — Duties of trustees of relevant trust schemes which meet the asset management threshold on or after the commencement date[^c-27e9f56a0135b76ef7689290e182edf2]**
+>
+> **8. Duty of trustees of a relevant scheme to carry out a qualifying tender process in connection with appointment, or change to the mandate, of an in-scope FM provider[^c-27e9f56a0135b76ef7689290e182edf2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **10. Notification to FM providers[^key-27e9f56a0135b76ef7689290e182edf2]**
+> **9. Duty of the trustees to carry out a qualifying tender process in respect of arrangements with existing FM providers not appointed following a relevant tender process[^c-27e9f56a0135b76ef7689290e182edf2]**
+>
+> . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+>
+> **10. Notification to FM providers[^c-27e9f56a0135b76ef7689290e182edf2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-27e9f56a0135b76ef7689290e182edf2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27e9f56a0135b76ef7689290e182edf2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-27e9f56a0135b76ef7689290e182edf2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/146) revoked (26.3.2024) by [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)
+[^c-27e9f56a0135b76ef7689290e182edf2]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2023/146) revoked (26.3.2024) by [The Occupational Pension Schemes (Governance and Registration) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/74)](https://www.legislation.gov.uk/nisr/2024/74), [regs. 1](https://www.legislation.gov.uk/nisr/2024/74/regulation/1), [4](https://www.legislation.gov.uk/nisr/2024/74/regulation/4)

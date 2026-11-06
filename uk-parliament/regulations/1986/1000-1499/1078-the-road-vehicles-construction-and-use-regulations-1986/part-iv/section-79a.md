@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79A. Saving for the Road Vehicles (Authorised Weight) Regulations 1998[^key-32cbbd7316cbcbeb1ebde175f010d1ea]
+## 79A. Saving for the Road Vehicles (Authorised Weight) Regulations 1998[^c-32cbbd7316cbcbeb1ebde175f010d1ea]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in regulations 75 to 79 shall be taken to prohibit the use of a vehicle 
 
 ## Annotations
 
-[^key-32cbbd7316cbcbeb1ebde175f010d1ea]: Textual amendment: [Reg. 79A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/79A) inserted (1.1.1999) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1998 (S.I. 1998/3112)](https://www.legislation.gov.uk/uksi/1998/3112), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3112/regulation/1), [9](https://www.legislation.gov.uk/uksi/1998/3112/regulation/9)
+[^c-32cbbd7316cbcbeb1ebde175f010d1ea]: Textual amendment: [Reg. 79A](https://www.legislation.gov.uk/uksi/1986/1078/regulation/79A) inserted (1.1.1999) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1998 (S.I. 1998/3112)](https://www.legislation.gov.uk/uksi/1998/3112), [regs. 1](https://www.legislation.gov.uk/uksi/1998/3112/regulation/1), [9](https://www.legislation.gov.uk/uksi/1998/3112/regulation/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Multiple disposals of material at same site[^key-bfd6f2e422578d8052a9cc88037cd05f]
+## 10. Multiple disposals of material at same site[^c-bfd6f2e422578d8052a9cc88037cd05f]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ A disposal of material is exempt from tax to the extent that—
 
 ## Annotations
 
-[^key-bfd6f2e422578d8052a9cc88037cd05f]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2017/3/section/10) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-bfd6f2e422578d8052a9cc88037cd05f]: Commencement: [S. 10](https://www.legislation.gov.uk/anaw/2017/3/section/10) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

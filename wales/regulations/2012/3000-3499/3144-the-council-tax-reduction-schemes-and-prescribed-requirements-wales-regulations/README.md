@@ -31,7 +31,7 @@ summary: ''
 
 COUNCIL TAX, WALES
 
-The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2012 (revoked)[^key-f2e35fb30888494854d4984af136f50a]
+The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2012 (revoked)[^c-f2e35fb30888494854d4984af136f50a]
 
 Made
 
@@ -39,11 +39,11 @@ Made
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-f2e35fb30888494854d4984af136f50a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2e35fb30888494854d4984af136f50a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — General[^key-f2e35fb30888494854d4984af136f50a]
+### PART 1 — General[^c-f2e35fb30888494854d4984af136f50a]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 9 — Non-dependants](part-1/section-9.md)
 - [Section 10 — Remunerative work](part-1/section-10.md)
 
-### PART 2 — Council tax reduction schemes[^key-f2e35fb30888494854d4984af136f50a]
+### PART 2 — Council tax reduction schemes[^c-f2e35fb30888494854d4984af136f50a]
 
 *Extent: E+W*
 
@@ -75,7 +75,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 17 — Notice requiring provision of information to the Welsh Ministers](part-2/section-17.md)
 - [Section 18 — Supply of documents](part-2/section-18.md)
 
-### PART 3 — Prescribed classes of person who must be included in an authority’s scheme[^key-f2e35fb30888494854d4984af136f50a]
+### PART 3 — Prescribed classes of person who must be included in an authority’s scheme[^c-f2e35fb30888494854d4984af136f50a]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 23 — Class D: persons who are not pensioners whose income is greater than the applicable amount](part-3/section-23.md)
 - [Section 24 — Periods of absence from a dwelling](part-3/section-24.md)
 
-### PART 4 — Prescribed classes of person who must not be included in an authority’s scheme[^key-f2e35fb30888494854d4984af136f50a]
+### PART 4 — Prescribed classes of person who must not be included in an authority’s scheme[^c-f2e35fb30888494854d4984af136f50a]
 
 *Extent: E+W*
 
@@ -100,7 +100,7 @@ Coming into force in accordance with regulation 1(2)
 - [Section 28 — Persons whose capital exceeds £16,000](part-4/section-28.md)
 - [Section 29 — Students](part-4/section-29.md)
 
-### PART 5 — Other matters that must be included in an authority’s scheme[^key-f2e35fb30888494854d4984af136f50a]
+### PART 5 — Other matters that must be included in an authority’s scheme[^c-f2e35fb30888494854d4984af136f50a]
 
 *Extent: E+W*
 
@@ -129,16 +129,16 @@ Coming into force in accordance with regulation 1(2)
 
 **No longer in force.**
 
-[^key-f2e35fb30888494854d4984af136f50a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2e35fb30888494854d4984af136f50a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
 **May not be in force at this date. Check the source.**
 
-[^key-f2e35fb30888494854d4984af136f50a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2e35fb30888494854d4984af136f50a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f2e35fb30888494854d4984af136f50a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/3144) revoked (1.4.2014) by [The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 (S.I. 2013/3029)](https://www.legislation.gov.uk/wsi/2013/3029), [reg. 36(1)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/36/1) (with saving in [reg. 36(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/36/2))
+[^c-f2e35fb30888494854d4984af136f50a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2012/3144) revoked (1.4.2014) by [The Council Tax Reduction Schemes and Prescribed Requirements (Wales) Regulations 2013 (S.I. 2013/3029)](https://www.legislation.gov.uk/wsi/2013/3029), [reg. 36(1)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/36/1) (with saving in [reg. 36(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/36/2))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

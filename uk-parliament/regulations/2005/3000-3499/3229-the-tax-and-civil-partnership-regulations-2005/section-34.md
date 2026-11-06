@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34.[^key-5b86646fe1ce4e1e46cb259859bd1bc1]
+## 34.[^c-5b86646fe1ce4e1e46cb259859bd1bc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 161 (valuation: related property), in subsection (2), after “spouse
 
 ## Annotations
 
-[^key-5b86646fe1ce4e1e46cb259859bd1bc1]: Commencement: Reg. 34 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-5b86646fe1ce4e1e46cb259859bd1bc1]: Commencement: Reg. 34 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

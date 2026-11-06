@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Abolition of proof by writ or oath, reference to oath and other common law rules.[^key-318d122f53408ca83979101c6c21eed1]
+## 11. Abolition of proof by writ or oath, reference to oath and other common law rules.[^c-318d122f53408ca83979101c6c21eed1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-318d122f53408ca83979101c6c21eed1]: Textual amendment: S. 11 repealed (11.5.2014 for specified purposes) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5) , [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122) , [123](https://www.legislation.gov.uk/asp/2012/5/section/123) , [Sch. 3 para. 18](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/18) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121) , [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13) , [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16) ); [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41) , [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/41/article/2/1/b) [(2)](https://www.legislation.gov.uk/ssi/2014/41/article/2/2) , [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3) , [4](https://www.legislation.gov.uk/ssi/2014/41/article/4) )
+[^c-318d122f53408ca83979101c6c21eed1]: Textual amendment: S. 11 repealed (11.5.2014 for specified purposes) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5) , [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122) , [123](https://www.legislation.gov.uk/asp/2012/5/section/123) , [Sch. 3 para. 18](https://www.legislation.gov.uk/asp/2012/5/schedule/3/paragraph/18) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121) , [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13) , [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16) ); [S.S.I. 2014/41](https://www.legislation.gov.uk/ssi/2014/41) , [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2014/41/article/2/1/b) [(2)](https://www.legislation.gov.uk/ssi/2014/41/article/2/2) , [Sch. Pt. 2](https://www.legislation.gov.uk/ssi/2014/41/schedule/part/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2014/41/article/3) , [4](https://www.legislation.gov.uk/ssi/2014/41/article/4) )

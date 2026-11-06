@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Gross payments[^key-35e18c350470e43f1185f962a50e8192]
+## 128. Gross payments[^c-35e18c350470e43f1185f962a50e8192]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 4(l)(r) of the Income Tax (Building Societies) (Dividends and Inte
 
 ## Annotations
 
-[^key-35e18c350470e43f1185f962a50e8192]: Commencement: Art. 128 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-35e18c350470e43f1185f962a50e8192]: Commencement: Art. 128 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00122]: Footnote: Regulation 4(1)(r) was added by regulation 4(1)(a)(v) of S.I. [1992/2915](https://www.legislation.gov.uk/uksi/1992/2915).

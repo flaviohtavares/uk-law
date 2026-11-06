@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Commencement[^key-afcaba16c290bae16224bbbf3b662a3d]
+## 8. Commencement[^c-afcaba16c290bae16224bbbf3b662a3d]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afcaba16c290bae16224bbbf3b662a3d]: Commencement: S. 8 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-afcaba16c290bae16224bbbf3b662a3d]: Commencement: S. 8 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)

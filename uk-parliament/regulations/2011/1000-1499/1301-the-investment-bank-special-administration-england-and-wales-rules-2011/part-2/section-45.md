@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Special administration (bank administration) order[^key-ec40de697bbde06ac481d68e831589a3]
+## 45. Special administration (bank administration) order[^c-ec40de697bbde06ac481d68e831589a3]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ If the court makes an special administration (bank administration) order, the or
 
 ## Annotations
 
-[^key-ec40de697bbde06ac481d68e831589a3]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2011/1301/rule/45) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-ec40de697bbde06ac481d68e831589a3]: Commencement: [Rule 45](https://www.legislation.gov.uk/uksi/2011/1301/rule/45) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

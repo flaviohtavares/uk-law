@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Notification of interest distributions and TEF distributions (non-dividend) made without deduction of tax[^key-62c20744adac7ec600f91c61f605f7be]
+## 71. Notification of interest distributions and TEF distributions (non-dividend) made without deduction of tax[^c-62c20744adac7ec600f91c61f605f7be]
 
 *Extent: E+W+S+N.I.*
 
-(1) If, during a tax year, an authorised investment fund has made interest distributions and TEF distributions (non-dividend)[^key-9859618e455fc0ce14518140f64573b2] without deduction of tax, the legal owner must give notice of that fact to the Commissioners within 14 days of the end of that tax year.
+(1) If, during a tax year, an authorised investment fund has made interest distributions and TEF distributions (non-dividend)[^c-9859618e455fc0ce14518140f64573b2] without deduction of tax, the legal owner must give notice of that fact to the Commissioners within 14 days of the end of that tax year.
 
 (2) Notice given under paragraph (1)—
 
@@ -33,9 +33,9 @@ summary: ''
 
 ## Annotations
 
-[^key-62c20744adac7ec600f91c61f605f7be]: Textual amendment: Words in [reg. 71](https://www.legislation.gov.uk/uksi/2006/964/part/5/crossheading/interest-distributions) heading inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [26](https://www.legislation.gov.uk/uksi/2009/2036/regulation/26)
+[^c-62c20744adac7ec600f91c61f605f7be]: Textual amendment: Words in [reg. 71](https://www.legislation.gov.uk/uksi/2006/964/part/5/crossheading/interest-distributions) heading inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [26](https://www.legislation.gov.uk/uksi/2009/2036/regulation/26)
 
-[^key-9859618e455fc0ce14518140f64573b2]: Textual amendment: Words in reg. 71(1) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [27](https://www.legislation.gov.uk/uksi/2009/2036/regulation/27)
+[^c-9859618e455fc0ce14518140f64573b2]: Textual amendment: Words in reg. 71(1) inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [27](https://www.legislation.gov.uk/uksi/2009/2036/regulation/27)
 
 [^c15459201]: Marginal citation: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9). Section 100 was substituted by section 167 of the [Finance Act 1989 (c. 26)](https://www.legislation.gov.uk/ukpga/1989/26). There are amendments to section 100 but none is relevant.
 

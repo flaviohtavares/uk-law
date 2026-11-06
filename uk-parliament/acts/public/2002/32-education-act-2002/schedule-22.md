@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 22 — Repeals[^key-1f13310bcb0e0fc35f7cd567c17c09e3][^key-e8e8eef0815e531679010781d7cd5ef0][^key-589d4b9b57c050083d9c2ba18d4e9e6f][^key-d683d095245241b71b22f36e6e3e1f8c]
+## SCHEDULE 22 — Repeals[^c-1f13310bcb0e0fc35f7cd567c17c09e3][^c-e8e8eef0815e531679010781d7cd5ef0][^c-589d4b9b57c050083d9c2ba18d4e9e6f][^c-d683d095245241b71b22f36e6e3e1f8c]
 
 *Extent: E+W*
 
 Section 215(2)
 
-### Part 1 — Repeals coming into force in accordance with section 216(2)[^key-d683d095245241b71b22f36e6e3e1f8c][^key-63e05c98d573aadbcf3f0d92ad08f705][^c382462]
+### Part 1 — Repeals coming into force in accordance with section 216(2)[^c-d683d095245241b71b22f36e6e3e1f8c][^c-63e05c98d573aadbcf3f0d92ad08f705][^c382462]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -32,7 +32,7 @@ Section 215(2)
 | Education Act 1997 (c. 44). | In section 23, in subsection (2), paragraph (f) and the word “and” immediately preceding it, and subsections (3) and (4).<br>In section 26(3), the words “or approve” and the words “and subject to such conditions”. |
 | School Standards and Framework Act 1998 (c. 31). | Section 13.<br>In Schedule 30, paragraphs 24 to 28, 44 and 214(a).<br>In Schedule 32, paragraph 7. |
 
-### Part 2 — Repeals coming into force in accordance with section 216(3)[^key-d683d095245241b71b22f36e6e3e1f8c][^key-e8db18970b44462eb41f35dcbac1a0fe][^c402665]
+### Part 2 — Repeals coming into force in accordance with section 216(3)[^c-d683d095245241b71b22f36e6e3e1f8c][^c-e8db18970b44462eb41f35dcbac1a0fe][^c402665]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -41,7 +41,7 @@ Section 215(2)
 | School Standards and Framework Act 1998. | In Schedule 30, paragraph 215. |
 | Special Educational Needs and Disability Act 2001 (c. 10). | Section 42(2).<br>In Schedule 8, paragraph 2. |
 
-### Part 3 — Repeals coming into force in accordance with section 216(4)[^c381690][^key-d683d095245241b71b22f36e6e3e1f8c][^key-ef80ce195dd40ddf4ae037913a1b4a23][^key-28724ceb767f2952148a65bcbda6f5c4][^key-daf49a6aa354eb9c8ac6259fbe83db5a][^key-2a855e3a3d04127e2075dbe949616ffb][^key-55e3db318151306082c65e72006cef0c][^key-f9958f7b4a44a82aba97a63e302c89b6][^key-6fe980bce8070d7ff6a9034e5f8d75d2][^key-23f39eb79eecf6dea51bf7436c626c5f][^key-f7e58c604f402719353c0716f8d9cb5a][^key-635b73cd3e4284c5c0cc3abff97058af][^key-48a7a181d306fb8eef854accffeb33c3][^key-8ec63362dd70e9116e1b5e16eaf5e3bc][^key-4f7e954259226f0d3491d12f754eecdd][^key-4815391933f47ce77abbec19d7b1614c][^key-50bdf3ea1fabeb4cb6b0b46ee3cc0790][^key-6919a15fafe0ebca453c93d367588a6d][^key-2bdbe1acff9045041e4153bc162bd1bb][^key-6948600d31b1fb21adbe596fd4a4e63a][^key-28bda06a45af9f66df077a28430e7662][^key-ddb7ef747f774539ac95110848b5ff38][^key-7cd0d2726905a4bf067a0c7c3ca438c1]
+### Part 3 — Repeals coming into force in accordance with section 216(4)[^c381690][^c-d683d095245241b71b22f36e6e3e1f8c][^c-ef80ce195dd40ddf4ae037913a1b4a23][^c-28724ceb767f2952148a65bcbda6f5c4][^c-daf49a6aa354eb9c8ac6259fbe83db5a][^c-2a855e3a3d04127e2075dbe949616ffb][^c-55e3db318151306082c65e72006cef0c][^c-f9958f7b4a44a82aba97a63e302c89b6][^c-6fe980bce8070d7ff6a9034e5f8d75d2][^c-23f39eb79eecf6dea51bf7436c626c5f][^c-f7e58c604f402719353c0716f8d9cb5a][^c-635b73cd3e4284c5c0cc3abff97058af][^c-48a7a181d306fb8eef854accffeb33c3][^c-8ec63362dd70e9116e1b5e16eaf5e3bc][^c-4f7e954259226f0d3491d12f754eecdd][^c-4815391933f47ce77abbec19d7b1614c][^c-50bdf3ea1fabeb4cb6b0b46ee3cc0790][^c-6919a15fafe0ebca453c93d367588a6d][^c-2bdbe1acff9045041e4153bc162bd1bb][^c-6948600d31b1fb21adbe596fd4a4e63a][^c-28bda06a45af9f66df077a28430e7662][^c-ddb7ef747f774539ac95110848b5ff38][^c-7cd0d2726905a4bf067a0c7c3ca438c1]
 
 | *Short title and chapter* | *Extent of repeal* |
 | --- | --- |
@@ -75,62 +75,62 @@ Section 215(2)
 
 ## Annotations
 
-[^key-1f13310bcb0e0fc35f7cd567c17c09e3]: Commencement: Sch. 22 in force at 20.1.2003 for specified purposes except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2002/2952/schedule/paragraph/3)[4](https://www.legislation.gov.uk/uksi/2002/2952/schedule/paragraph/4))
+[^c-1f13310bcb0e0fc35f7cd567c17c09e3]: Commencement: Sch. 22 in force at 20.1.2003 for specified purposes except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2002/2952/schedule/paragraph/3)[4](https://www.legislation.gov.uk/uksi/2002/2952/schedule/paragraph/4))
 
-[^key-e8e8eef0815e531679010781d7cd5ef0]: Commencement: Sch. 22 in force at 1.4.2003 for specified purposes except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4)
+[^c-e8e8eef0815e531679010781d7cd5ef0]: Commencement: Sch. 22 in force at 1.4.2003 for specified purposes except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 4](https://www.legislation.gov.uk/uksi/2003/124/article/4)
 
-[^key-589d4b9b57c050083d9c2ba18d4e9e6f]: Commencement: Sch. 22 in force at 6.4.2003 for specified purposes except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 5](https://www.legislation.gov.uk/uksi/2003/124/article/5)
+[^c-589d4b9b57c050083d9c2ba18d4e9e6f]: Commencement: Sch. 22 in force at 6.4.2003 for specified purposes except in relation to W. by [S.I. 2003/124](https://www.legislation.gov.uk/uksi/2003/124), [art. 5](https://www.legislation.gov.uk/uksi/2003/124/article/5)
 
-[^key-d683d095245241b71b22f36e6e3e1f8c]: Commencement: Sch. 22 in force at 1.6.2003 for specified purposes except in relation to W. by [S.I. 2003/1115](https://www.legislation.gov.uk/uksi/2003/1115), [art. 3](https://www.legislation.gov.uk/uksi/2003/1115/article/3)
+[^c-d683d095245241b71b22f36e6e3e1f8c]: Commencement: Sch. 22 in force at 1.6.2003 for specified purposes except in relation to W. by [S.I. 2003/1115](https://www.legislation.gov.uk/uksi/2003/1115), [art. 3](https://www.legislation.gov.uk/uksi/2003/1115/article/3)
 
-[^key-63e05c98d573aadbcf3f0d92ad08f705]: Commencement: Sch. 22 Pt. 1 in force at 1.8.2003 in so far as not already in force by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 2](https://www.legislation.gov.uk/uksi/2003/1667/article/2)
+[^c-63e05c98d573aadbcf3f0d92ad08f705]: Commencement: Sch. 22 Pt. 1 in force at 1.8.2003 in so far as not already in force by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 2](https://www.legislation.gov.uk/uksi/2003/1667/article/2)
 
 [^c382462]: Commencement: Sch. 22 Pt. 1 partly in force; Sch. 22 Pt. 1 not in force at Royal Assent, see s. 216; specified entries in Sch. 22 Pt. 1 in force at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 2](https://www.legislation.gov.uk/uksi/2002/2439/article/2) (with transitional provisions and savings in [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule))
 
-[^key-e8db18970b44462eb41f35dcbac1a0fe]: Commencement: Sch. 22 Pt. 2 in force at 1.9.2003 for specified purposes by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 6](https://www.legislation.gov.uk/uksi/2002/3185/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/III)
+[^c-e8db18970b44462eb41f35dcbac1a0fe]: Commencement: Sch. 22 Pt. 2 in force at 1.9.2003 for specified purposes by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 6](https://www.legislation.gov.uk/uksi/2002/3185/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/III)
 
 [^c402665]: Commencement: Sch. 22 Pt. 2 partly in force; Sch. 22 Pt. 2 not in force at Royal Assent, see s. 216; specified entries in Sch. 22 Pt. 2 in force at 19.12.2002 by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 4](https://www.legislation.gov.uk/uksi/2002/3185/article/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/I); further specified entries in Sch. 22 Pt. 2 in force at 1.9.2003 by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 6](https://www.legislation.gov.uk/uksi/2002/3185/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/III)
 
 [^c381690]: Commencement: Sch. 22 Pt. 3 partly in force; Sch. 22 Pt. 3 not in force at Royal Assent, see s. 216; Sch. 22 Pt. 3 in force for E. for specified purposes at 26.7.2002 by [S.I. 2002/2002](https://www.legislation.gov.uk/uksi/2002/2002), art. 3; Sch. 22 Pt. 3 in force for E. for specified purposes at 2.9.2002 by [S.I. 2002/2002](https://www.legislation.gov.uk/uksi/2002/2002), [art. 4](https://www.legislation.gov.uk/uksi/2002/2002/article/4); Sch. 22 Pt. 3 in force for E. for specified purposes at 1.10.2002 by [S.I. 2002/2439](https://www.legislation.gov.uk/uksi/2002/2439), [art. 3](https://www.legislation.gov.uk/uksi/2002/2439/article/3) (with [Sch.](https://www.legislation.gov.uk/uksi/2002/2439/schedule)); Sch. 22 Pt. 3 in force for E. for specified purposes at 20.1.2003 by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2002/2952/article/3), [Sch. paras. 2-4](https://www.legislation.gov.uk/uksi/2002/2952/schedule/paragraph/2)); Sch. 22 Pt. 3 in force for W. for specified purposes at 19.12.2002 by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 4](https://www.legislation.gov.uk/uksi/2002/3185/article/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/I) (with [art. 7](https://www.legislation.gov.uk/uksi/2002/3185/article/7))
 
-[^key-ef80ce195dd40ddf4ae037913a1b4a23]: Commencement: Sch. 22 Pt. 3 in force at 31.3.2003 for specified purposes for W. by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)
+[^c-ef80ce195dd40ddf4ae037913a1b4a23]: Commencement: Sch. 22 Pt. 3 in force at 31.3.2003 for specified purposes for W. by [S.I. 2002/3185](https://www.legislation.gov.uk/uksi/2002/3185), [art. 5](https://www.legislation.gov.uk/uksi/2002/3185/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2002/3185/schedule/part/II)
 
-[^key-28724ceb767f2952148a65bcbda6f5c4]: Commencement: Sch. 22 Pt. 3 in force at 1.8.2003 for specified purposes for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 4](https://www.legislation.gov.uk/uksi/2003/1718/article/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/I)
+[^c-28724ceb767f2952148a65bcbda6f5c4]: Commencement: Sch. 22 Pt. 3 in force at 1.8.2003 for specified purposes for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 4](https://www.legislation.gov.uk/uksi/2003/1718/article/4), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/I)
 
-[^key-daf49a6aa354eb9c8ac6259fbe83db5a]: Commencement: Sch. 22 Pt. 3 in force at 1.8.2003 for specified purposes except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 3](https://www.legislation.gov.uk/uksi/2003/1667/article/3) (with [Sch. paras. 2](https://www.legislation.gov.uk/uksi/2003/1667/schedule/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2003/1667/schedule/paragraph/3)) (which transitional provisions in Sch. para. 2 are omitted (10.9.2005) by virtue of [S.I. 2005/2570](https://www.legislation.gov.uk/uksi/2005/2570), art. 2(b))
+[^c-daf49a6aa354eb9c8ac6259fbe83db5a]: Commencement: Sch. 22 Pt. 3 in force at 1.8.2003 for specified purposes except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 3](https://www.legislation.gov.uk/uksi/2003/1667/article/3) (with [Sch. paras. 2](https://www.legislation.gov.uk/uksi/2003/1667/schedule/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2003/1667/schedule/paragraph/3)) (which transitional provisions in Sch. para. 2 are omitted (10.9.2005) by virtue of [S.I. 2005/2570](https://www.legislation.gov.uk/uksi/2005/2570), art. 2(b))
 
-[^key-2a855e3a3d04127e2075dbe949616ffb]: Commencement: Sch. 22 Pt. 3 in force at 1.9.2003 for specified purposes for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
+[^c-2a855e3a3d04127e2075dbe949616ffb]: Commencement: Sch. 22 Pt. 3 in force at 1.9.2003 for specified purposes for W. by [S.I. 2003/1718](https://www.legislation.gov.uk/uksi/2003/1718), [art. 5](https://www.legislation.gov.uk/uksi/2003/1718/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/1718/schedule/part/II)
 
-[^key-55e3db318151306082c65e72006cef0c]: Commencement: Sch. 22 Pt. 3 in force at 1.9.2003 for specified purposes except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
+[^c-55e3db318151306082c65e72006cef0c]: Commencement: Sch. 22 Pt. 3 in force at 1.9.2003 for specified purposes except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
 
-[^key-f9958f7b4a44a82aba97a63e302c89b6]: Commencement: Sch. 22 Pt. 3 in force at 1.10.2003 for specified purposes except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 5](https://www.legislation.gov.uk/uksi/2003/1667/article/5)
+[^c-f9958f7b4a44a82aba97a63e302c89b6]: Commencement: Sch. 22 Pt. 3 in force at 1.10.2003 for specified purposes except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 5](https://www.legislation.gov.uk/uksi/2003/1667/article/5)
 
-[^key-6fe980bce8070d7ff6a9034e5f8d75d2]: Commencement: Sch. 22 Pt. 3 in force at 4.12.2003 for specified purposes for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 5](https://www.legislation.gov.uk/uksi/2003/2961/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/II)
+[^c-6fe980bce8070d7ff6a9034e5f8d75d2]: Commencement: Sch. 22 Pt. 3 in force at 4.12.2003 for specified purposes for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 5](https://www.legislation.gov.uk/uksi/2003/2961/article/5), [Sch. Pt. II](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/II)
 
-[^key-23f39eb79eecf6dea51bf7436c626c5f]: Commencement: Sch. 22 Pt. 3 in force at 1.1.2004 for specified purposes for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)
+[^c-23f39eb79eecf6dea51bf7436c626c5f]: Commencement: Sch. 22 Pt. 3 in force at 1.1.2004 for specified purposes for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)
 
-[^key-f7e58c604f402719353c0716f8d9cb5a]: Commencement: Sch. 22 Pt. 3 in force at 9.1.2004 for specified purposes for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 7](https://www.legislation.gov.uk/uksi/2003/2961/article/7), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/IV)
+[^c-f7e58c604f402719353c0716f8d9cb5a]: Commencement: Sch. 22 Pt. 3 in force at 9.1.2004 for specified purposes for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 7](https://www.legislation.gov.uk/uksi/2003/2961/article/7), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/IV)
 
-[^key-635b73cd3e4284c5c0cc3abff97058af]: Commencement: Sch. 22 Pt. 3 in force at 31.3.2004 for specified purposes for W. by [S.I. 2004/912](https://www.legislation.gov.uk/uksi/2004/912), [art. 4](https://www.legislation.gov.uk/uksi/2004/912/article/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/912/schedule/part/1)
+[^c-635b73cd3e4284c5c0cc3abff97058af]: Commencement: Sch. 22 Pt. 3 in force at 31.3.2004 for specified purposes for W. by [S.I. 2004/912](https://www.legislation.gov.uk/uksi/2004/912), [art. 4](https://www.legislation.gov.uk/uksi/2004/912/article/4), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2004/912/schedule/part/1)
 
-[^key-48a7a181d306fb8eef854accffeb33c3]: Commencement: Sch. 22 Pt. 3 in force at 1.8.2004 for specified purposes for W. by [S.I. 2004/912](https://www.legislation.gov.uk/uksi/2004/912), [art. 5](https://www.legislation.gov.uk/uksi/2004/912/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2004/912/schedule/part/2)
+[^c-48a7a181d306fb8eef854accffeb33c3]: Commencement: Sch. 22 Pt. 3 in force at 1.8.2004 for specified purposes for W. by [S.I. 2004/912](https://www.legislation.gov.uk/uksi/2004/912), [art. 5](https://www.legislation.gov.uk/uksi/2004/912/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2004/912/schedule/part/2)
 
-[^key-8ec63362dd70e9116e1b5e16eaf5e3bc]: Commencement: Sch. 22 Pt. 3 in force at 1.9.2004 for specified purposes for W. by [S.I. 2004/1728](https://www.legislation.gov.uk/uksi/2004/1728), [art. 5](https://www.legislation.gov.uk/uksi/2004/1728/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2004/1728/schedule/part/2)
+[^c-8ec63362dd70e9116e1b5e16eaf5e3bc]: Commencement: Sch. 22 Pt. 3 in force at 1.9.2004 for specified purposes for W. by [S.I. 2004/1728](https://www.legislation.gov.uk/uksi/2004/1728), [art. 5](https://www.legislation.gov.uk/uksi/2004/1728/article/5), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2004/1728/schedule/part/2)
 
-[^key-4f7e954259226f0d3491d12f754eecdd]: Commencement: Sch. 22 Pt. 3 in force at 31.5.2005 for specified purposes for W. by [S.I. 2005/1395](https://www.legislation.gov.uk/uksi/2005/1395), [art. 4](https://www.legislation.gov.uk/uksi/2005/1395/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/1395/schedule) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2005/1395/article/5/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1395/article/5/4))
+[^c-4f7e954259226f0d3491d12f754eecdd]: Commencement: Sch. 22 Pt. 3 in force at 31.5.2005 for specified purposes for W. by [S.I. 2005/1395](https://www.legislation.gov.uk/uksi/2005/1395), [art. 4](https://www.legislation.gov.uk/uksi/2005/1395/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/1395/schedule) (with [art. 5(3)](https://www.legislation.gov.uk/uksi/2005/1395/article/5/3)[(4)](https://www.legislation.gov.uk/uksi/2005/1395/article/5/4))
 
-[^key-4815391933f47ce77abbec19d7b1614c]: Commencement: Sch. 22 Pt. 3 in force at 31.10.2005 for specified purposes for W. by [S.I. 2005/2910](https://www.legislation.gov.uk/uksi/2005/2910), [art. 4](https://www.legislation.gov.uk/uksi/2005/2910/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/2910/schedule)
+[^c-4815391933f47ce77abbec19d7b1614c]: Commencement: Sch. 22 Pt. 3 in force at 31.10.2005 for specified purposes for W. by [S.I. 2005/2910](https://www.legislation.gov.uk/uksi/2005/2910), [art. 4](https://www.legislation.gov.uk/uksi/2005/2910/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2005/2910/schedule)
 
-[^key-50bdf3ea1fabeb4cb6b0b46ee3cc0790]: Commencement: Sch. 22 Pt. 3 in force at 1.2.2006 for specified purposes for W. by [S.I. 2006/172](https://www.legislation.gov.uk/uksi/2006/172), [art. 4](https://www.legislation.gov.uk/uksi/2006/172/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/172/schedule)
+[^c-50bdf3ea1fabeb4cb6b0b46ee3cc0790]: Commencement: Sch. 22 Pt. 3 in force at 1.2.2006 for specified purposes for W. by [S.I. 2006/172](https://www.legislation.gov.uk/uksi/2006/172), [art. 4](https://www.legislation.gov.uk/uksi/2006/172/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/172/schedule)
 
-[^key-6919a15fafe0ebca453c93d367588a6d]: Commencement: Sch. 22 Pt. 3 in force at 1.4.2006 for specified purposes for W. by [S.I. 2006/879](https://www.legislation.gov.uk/uksi/2006/879), [art. 4](https://www.legislation.gov.uk/uksi/2006/879/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/879/schedule)
+[^c-6919a15fafe0ebca453c93d367588a6d]: Commencement: Sch. 22 Pt. 3 in force at 1.4.2006 for specified purposes for W. by [S.I. 2006/879](https://www.legislation.gov.uk/uksi/2006/879), [art. 4](https://www.legislation.gov.uk/uksi/2006/879/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2006/879/schedule)
 
-[^key-2bdbe1acff9045041e4153bc162bd1bb]: Commencement: Sch. 22 Pt. 3 in force at 6.11.2006 for specified purposes except in relation to W. by [S.I. 2006/2895](https://www.legislation.gov.uk/uksi/2006/2895), [art. 2](https://www.legislation.gov.uk/uksi/2006/2895/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/2895/article/3))
+[^c-2bdbe1acff9045041e4153bc162bd1bb]: Commencement: Sch. 22 Pt. 3 in force at 6.11.2006 for specified purposes except in relation to W. by [S.I. 2006/2895](https://www.legislation.gov.uk/uksi/2006/2895), [art. 2](https://www.legislation.gov.uk/uksi/2006/2895/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2006/2895/article/3))
 
-[^key-6948600d31b1fb21adbe596fd4a4e63a]: Commencement: Sch. 22 Pt. 3 in force at 2.1.2008 for specified purposes for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1) (with [Sch. Pt paras. 2](https://www.legislation.gov.uk/uksi/2007/3611/schedule/Pt/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2007/3611/schedule/Pt/paragraph/3))
+[^c-6948600d31b1fb21adbe596fd4a4e63a]: Commencement: Sch. 22 Pt. 3 in force at 2.1.2008 for specified purposes for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/1) (with [Sch. Pt paras. 2](https://www.legislation.gov.uk/uksi/2007/3611/schedule/Pt/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2007/3611/schedule/Pt/paragraph/3))
 
-[^key-28bda06a45af9f66df077a28430e7662]: Commencement: Sch. 22 Pt. 3 in force at 31.3.2008 for specified purposes for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(2)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/2)
+[^c-28bda06a45af9f66df077a28430e7662]: Commencement: Sch. 22 Pt. 3 in force at 31.3.2008 for specified purposes for W. by [S.I. 2007/3611](https://www.legislation.gov.uk/uksi/2007/3611), [art. 4(2)](https://www.legislation.gov.uk/uksi/2007/3611/article/4/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2007/3611/schedule/part/2)
 
-[^key-ddb7ef747f774539ac95110848b5ff38]: Commencement: Sch. 22 Pt. 3 in force at 1.8.2008 for the repeal of Education Act 1996, section 410 for specified purposes for W. by [S.I. 2008/1728](https://www.legislation.gov.uk/uksi/2008/1728), [art. 3](https://www.legislation.gov.uk/uksi/2008/1728/article/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/1728/schedule/part/2)
+[^c-ddb7ef747f774539ac95110848b5ff38]: Commencement: Sch. 22 Pt. 3 in force at 1.8.2008 for the repeal of Education Act 1996, section 410 for specified purposes for W. by [S.I. 2008/1728](https://www.legislation.gov.uk/uksi/2008/1728), [art. 3](https://www.legislation.gov.uk/uksi/2008/1728/article/3), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2008/1728/schedule/part/2)
 
-[^key-7cd0d2726905a4bf067a0c7c3ca438c1]: Commencement: Sch. 22 Pt. 3 in force at 1.9.2011 for specified purposes for W. by [S.I. 2011/1952](https://www.legislation.gov.uk/wsi/2011/1952), [art. 2(c)](https://www.legislation.gov.uk/wsi/2011/1952/article/2/c)
+[^c-7cd0d2726905a4bf067a0c7c3ca438c1]: Commencement: Sch. 22 Pt. 3 in force at 1.9.2011 for specified purposes for W. by [S.I. 2011/1952](https://www.legislation.gov.uk/wsi/2011/1952), [art. 2(c)](https://www.legislation.gov.uk/wsi/2011/1952/article/2/c)

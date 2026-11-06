@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.79. Liquidator to allow inspection of proofs[^key-94b1b514dfb33bcbcb62dfe55894cec7]
+## 4.79. Liquidator to allow inspection of proofs[^c-94b1b514dfb33bcbcb62dfe55894cec7]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The liquidator shall, so long as proofs lodged with him are in his hands, allow 
 
 ## Annotations
 
-[^key-94b1b514dfb33bcbcb62dfe55894cec7]: Commencement: [Rule 4.79](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.79) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-94b1b514dfb33bcbcb62dfe55894cec7]: Commencement: [Rule 4.79](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.79) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

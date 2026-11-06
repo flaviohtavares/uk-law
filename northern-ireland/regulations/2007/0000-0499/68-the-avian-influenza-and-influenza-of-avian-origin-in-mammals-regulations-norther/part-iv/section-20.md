@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Killing of birds on premises[^key-e5b204a500c86399923203fab935f695]
+## 20. Killing of birds on premises[^c-e5b204a500c86399923203fab935f695]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Subject to regulation 21, the Department must ensure that poultry and other capt
 
 ## Annotations
 
-[^key-e5b204a500c86399923203fab935f695]: Commencement: Reg. 20 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)
+[^c-e5b204a500c86399923203fab935f695]: Commencement: Reg. 20 in operation at 10.2.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/68/regulation/1)

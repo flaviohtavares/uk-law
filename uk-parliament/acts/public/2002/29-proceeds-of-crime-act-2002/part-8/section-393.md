@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 393. Offences[^key-ca505f652ead53a3407e8075a26784c1][^key-b7130d7c12dc77405b52ce1ed5638447][^key-14068a4e61cb950f29359fd8b59396c5]
+## 393. Offences[^c-ca505f652ead53a3407e8075a26784c1][^c-b7130d7c12dc77405b52ce1ed5638447][^c-14068a4e61cb950f29359fd8b59396c5]
 
 *Extent: S*
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-ca505f652ead53a3407e8075a26784c1]: Commencement: S. 393 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-ca505f652ead53a3407e8075a26784c1]: Commencement: S. 393 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-b7130d7c12dc77405b52ce1ed5638447]: Modification: S. 393 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [8(6)-(8)](https://www.legislation.gov.uk/uksi/2003/425/article/8/6), 18(6)(7), 27(2)(6)(7), 28(2)(7) (as amended (1.4.2008) by [S.I. 2008/298](https://www.legislation.gov.uk/uksi/2008/298), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/298/article/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2008/298/article/2/9)(10))
+[^c-b7130d7c12dc77405b52ce1ed5638447]: Modification: S. 393 applied (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [8(6)-(8)](https://www.legislation.gov.uk/uksi/2003/425/article/8/6), 18(6)(7), 27(2)(6)(7), 28(2)(7) (as amended (1.4.2008) by [S.I. 2008/298](https://www.legislation.gov.uk/uksi/2008/298), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/298/article/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2008/298/article/2/9)(10))
 
-[^key-14068a4e61cb950f29359fd8b59396c5]: Modification: S. 393 excluded (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2003/425/article/8/1)[(2)](https://www.legislation.gov.uk/uksi/2003/425/article/8/2), 18(2)
+[^c-14068a4e61cb950f29359fd8b59396c5]: Modification: S. 393 excluded (1.4.2003) by [The Proceeds of Crime Act 2002 (Investigations in different parts of the United Kingdom) Order 2003 (S.I. 2003/425)](https://www.legislation.gov.uk/uksi/2003/425), [arts. 1](https://www.legislation.gov.uk/uksi/2003/425/article/1), [8(1)](https://www.legislation.gov.uk/uksi/2003/425/article/8/1)[(2)](https://www.legislation.gov.uk/uksi/2003/425/article/8/2), 18(2)

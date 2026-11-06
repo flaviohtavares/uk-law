@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Guidance about the employment of children on heritage railways[^key-03125c9154b58e833453eb97a534a4ba]
+## 37. Guidance about the employment of children on heritage railways[^c-03125c9154b58e833453eb97a534a4ba]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03125c9154b58e833453eb97a534a4ba]: Commencement: S. 37 in force at Royal Assent, see [s. 159(1)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/b)
+[^c-03125c9154b58e833453eb97a534a4ba]: Commencement: S. 37 in force at Royal Assent, see [s. 159(1)(b)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/b)

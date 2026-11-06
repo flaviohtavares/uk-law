@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**67.**[^key-13a32045d6633db383f6919920880890] Before regulation 77 in the heading insert “NI” before “Tax” and for “Tax” substitute “tax”;
+**67.**[^c-13a32045d6633db383f6919920880890] Before regulation 77 in the heading insert “NI” before “Tax” and for “Tax” substitute “tax”;
 
 ## Annotations
 
-[^key-13a32045d6633db383f6919920880890]: Commencement: Reg. 67 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)
+[^c-13a32045d6633db383f6919920880890]: Commencement: Reg. 67 in force at 31.12.2020 on IP completion day, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1559/regulation/1/1)

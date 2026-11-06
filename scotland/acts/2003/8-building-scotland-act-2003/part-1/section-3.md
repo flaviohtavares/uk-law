@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Relaxation of building regulations[^key-13331fa575b3d131819fb988629d1e0d]
+## 3. Relaxation of building regulations[^c-13331fa575b3d131819fb988629d1e0d]
 
 *Extent: S*
 
@@ -37,8 +37,8 @@ summary: ''
 
 (5) Before giving a direction under subsection (2)(b) or a direction under subsection (4)(c) varying or revoking such a direction the Scottish Ministers must consult—
 
-- (a)[^key-647b596a596ad582018ccd9bce8642bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b) such [^key-2626211f989fe29e7c208abe68bd7a94]... persons as appear to them to be representative of the interests concerned.
+- (a)[^c-647b596a596ad582018ccd9bce8642bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) such [^c-2626211f989fe29e7c208abe68bd7a94]... persons as appear to them to be representative of the interests concerned.
 
 (6) The Scottish Ministers must send a copy of any direction under subsection (2)(a) and any direction under subsection (4)(c) varying or revoking such a direction to—
 
@@ -62,8 +62,8 @@ the direction (with any conditions specified in it) continues to have effect in 
 
 ## Annotations
 
-[^key-13331fa575b3d131819fb988629d1e0d]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2003/8/section/3) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-13331fa575b3d131819fb988629d1e0d]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2003/8/section/3) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
 
-[^key-647b596a596ad582018ccd9bce8642bd]: Textual amendment: [S. 3(5)(a)](https://www.legislation.gov.uk/asp/2003/8/section/3/5/a) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(2)(b)(i)](https://www.legislation.gov.uk/asp/2010/8/section/6/2/b/i), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-647b596a596ad582018ccd9bce8642bd]: Textual amendment: [S. 3(5)(a)](https://www.legislation.gov.uk/asp/2003/8/section/3/5/a) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(2)(b)(i)](https://www.legislation.gov.uk/asp/2010/8/section/6/2/b/i), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-2626211f989fe29e7c208abe68bd7a94]: Textual amendment: Word in [s. 3(5)(b)](https://www.legislation.gov.uk/asp/2003/8/section/3/5/b) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(2)(b)(ii)](https://www.legislation.gov.uk/asp/2010/8/section/6/2/b/ii), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-2626211f989fe29e7c208abe68bd7a94]: Textual amendment: Word in [s. 3(5)(b)](https://www.legislation.gov.uk/asp/2003/8/section/3/5/b) repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 6(2)(b)(ii)](https://www.legislation.gov.uk/asp/2010/8/section/6/2/b/ii), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

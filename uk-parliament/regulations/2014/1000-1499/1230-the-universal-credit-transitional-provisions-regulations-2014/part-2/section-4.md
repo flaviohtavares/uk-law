@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Secretary of State discretion to determine that claims for universal credit may not be made[^key-77f78f2ba6ecead50de0645427a29645]
+## 4. Secretary of State discretion to determine that claims for universal credit may not be made[^c-77f78f2ba6ecead50de0645427a29645]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77f78f2ba6ecead50de0645427a29645]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/1230/regulation/4) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/752/regulation/2)
+[^c-77f78f2ba6ecead50de0645427a29645]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/1230/regulation/4) revoked (25.7.2022) by [The Universal Credit (Transitional Provisions) Amendment Regulations 2022 (S.I. 2022/752)](https://www.legislation.gov.uk/uksi/2022/752), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/752/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2022/752/regulation/2)

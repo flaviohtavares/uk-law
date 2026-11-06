@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120. Introduction[^key-ef2b823a283c252ed7dd9a1759e38265]
+## 120. Introduction[^c-ef2b823a283c252ed7dd9a1759e38265]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Personal Equity Plan Regulations 1989 in accordance with Articles 121 
 
 ## Annotations
 
-[^key-ef2b823a283c252ed7dd9a1759e38265]: Commencement: Art. 120 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-ef2b823a283c252ed7dd9a1759e38265]: Commencement: Art. 120 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

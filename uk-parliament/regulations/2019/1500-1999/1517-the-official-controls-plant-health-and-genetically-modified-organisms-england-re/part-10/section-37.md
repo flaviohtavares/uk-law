@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Service of notices[^key-17b53de57998801a0e0be82be6afcd83]
+## 37. Service of notices[^c-17b53de57998801a0e0be82be6afcd83]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
 - (b) leaving it at, or sending it by post to, the person's last known place of abode or business; or
 - (c) sending it to any email address that the person has given to the appropriate authority for the service of notices.
 
-(3) If a notice is to be given by a plant health inspector or the appropriate authority[^key-11a7b7ce8d3387d8d87ddfb51330ae1d] to an occupier or other person in charge of premises and the last known place of abode or address of that person cannot be ascertained after reasonable enquiry, the notice may be served on that person by addressing it to “the occupier” and leaving it conspicuously affixed to an object on the premises for a period of seven days.
+(3) If a notice is to be given by a plant health inspector or the appropriate authority[^c-11a7b7ce8d3387d8d87ddfb51330ae1d] to an occupier or other person in charge of premises and the last known place of abode or address of that person cannot be ascertained after reasonable enquiry, the notice may be served on that person by addressing it to “the occupier” and leaving it conspicuously affixed to an object on the premises for a period of seven days.
 
 (4) A notice may—
 
@@ -44,15 +44,15 @@ summary: ''
 
 (6) In this regulation—
 
-- “**notice**” means a notice to be given by a plant health inspector or the appropriate authority[^key-eada9c5e56f168eac755b49b8dcb5334] under these Regulations;
+- “**notice**” means a notice to be given by a plant health inspector or the appropriate authority[^c-eada9c5e56f168eac755b49b8dcb5334] under these Regulations;
 - “**contact address**”, in relation to a registered operator, means—
   - (a) the operator's principal address in the register; or
   - (b) any other postal address in England that the operator has given to the appropriate authority as a contact address for the service of notices.
 
 ## Annotations
 
-[^key-17b53de57998801a0e0be82be6afcd83]: Commencement: Reg. 37 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
+[^c-17b53de57998801a0e0be82be6afcd83]: Commencement: Reg. 37 in force at 14.1.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/1/1)
 
-[^key-11a7b7ce8d3387d8d87ddfb51330ae1d]: Textual amendment: Words in [reg. 37(3)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/37/3) inserted (29.10.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 4) Regulations 2020 (S.I. 2020/1089)](https://www.legislation.gov.uk/uksi/2020/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1089/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1089/regulation/2/4/a)
+[^c-11a7b7ce8d3387d8d87ddfb51330ae1d]: Textual amendment: Words in [reg. 37(3)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/37/3) inserted (29.10.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 4) Regulations 2020 (S.I. 2020/1089)](https://www.legislation.gov.uk/uksi/2020/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1089/regulation/1), [2(4)(a)](https://www.legislation.gov.uk/uksi/2020/1089/regulation/2/4/a)
 
-[^key-eada9c5e56f168eac755b49b8dcb5334]: Textual amendment: Words in [reg. 37(6)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/37/6) inserted (29.10.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 4) Regulations 2020 (S.I. 2020/1089)](https://www.legislation.gov.uk/uksi/2020/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1089/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1089/regulation/2/4/b)
+[^c-eada9c5e56f168eac755b49b8dcb5334]: Textual amendment: Words in [reg. 37(6)](https://www.legislation.gov.uk/uksi/2019/1517/regulation/37/6) inserted (29.10.2020) by [The Official Controls (Plant Health and Genetically Modified Organisms) (England) (Amendment) (No. 4) Regulations 2020 (S.I. 2020/1089)](https://www.legislation.gov.uk/uksi/2020/1089), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1089/regulation/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2020/1089/regulation/2/4/b)

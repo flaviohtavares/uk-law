@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Records etc[^key-52a611999a6a0c0aa25ddf50d7b8e159]
+## 8. Records etc[^c-52a611999a6a0c0aa25ddf50d7b8e159]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52a611999a6a0c0aa25ddf50d7b8e159]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/19/section/8) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-52a611999a6a0c0aa25ddf50d7b8e159]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2017/19/section/8) in force at 31.1.2019 by [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)

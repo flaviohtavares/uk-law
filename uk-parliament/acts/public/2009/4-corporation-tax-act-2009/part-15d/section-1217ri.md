@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1217RI. Payment in respect of orchestra tax credit[^key-ae72997d7de0e438453f66dfd6fd5589][^key-dccac6ace7bcc2e4d513c0232a84b534]
+## 1217RI. Payment in respect of orchestra tax credit[^c-ae72997d7de0e438453f66dfd6fd5589][^c-dccac6ace7bcc2e4d513c0232a84b534]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,7 +46,7 @@ In those circumstances the Commissioners may make a payment on a provisional bas
 - (b) under section 966 of ITA 2007 (visiting performers), or
 - (c) in respect of Class 1 national insurance contributions under Part 1 of the Social Security Contributions and Benefits Act 1992 or Part 1 of the Social Security Contributions and Benefits (Northern Ireland) Act 1992.
 
-(4A)[^key-14728a27ae4e9bc8cdefd042967dda7d] For the purposes of subsection (4), a “payment period” is—
+(4A)[^c-14728a27ae4e9bc8cdefd042967dda7d] For the purposes of subsection (4), a “payment period” is—
 
 - (a) in relation to PAYE regulations or Class 1 national insurance contributions, a period—
   - (i) which ends on the fifth day of a month, and
@@ -57,8 +57,8 @@ In those circumstances the Commissioners may make a payment on a provisional bas
 
 ## Annotations
 
-[^key-ae72997d7de0e438453f66dfd6fd5589]: Textual amendment: Pt. 15D inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/1)
+[^c-ae72997d7de0e438453f66dfd6fd5589]: Textual amendment: Pt. 15D inserted (with effect in accordance with Sch. 8 para. 17(1)(a) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/8/paragraph/1)
 
-[^key-dccac6ace7bcc2e4d513c0232a84b534]: Modification: Pt. 15D modified (with application in accordance with [s. 19(1)(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/19/1/4) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 19(1)(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/19/1/4)
+[^c-dccac6ace7bcc2e4d513c0232a84b534]: Modification: Pt. 15D modified (with application in accordance with [s. 19(1)(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/19/1/4) of the amending Act) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [s. 19(1)(4)](https://www.legislation.gov.uk/ukpga/2022/3/section/19/1/4)
 
-[^key-14728a27ae4e9bc8cdefd042967dda7d]: Textual amendment: [S. 1217RI(4A)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RI/4A) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/9)
+[^c-14728a27ae4e9bc8cdefd042967dda7d]: Textual amendment: [S. 1217RI(4A)](https://www.legislation.gov.uk/ukpga/2009/4/section/1217RI/4A) inserted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2024/3/schedule/4/paragraph/9)

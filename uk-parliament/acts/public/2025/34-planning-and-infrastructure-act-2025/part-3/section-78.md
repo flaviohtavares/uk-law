@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Collection of nature restoration levy[^key-a67b58558cae22e01c5fe9a22041cb50][^key-15482a70032636a857417240490a8417]
+## 78. Collection of nature restoration levy[^c-a67b58558cae22e01c5fe9a22041cb50][^c-15482a70032636a857417240490a8417]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a67b58558cae22e01c5fe9a22041cb50]: Commencement: S. 78 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-a67b58558cae22e01c5fe9a22041cb50]: Commencement: S. 78 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-15482a70032636a857417240490a8417]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2025/34/section/78) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-15482a70032636a857417240490a8417]: Commencement: [S. 78](https://www.legislation.gov.uk/ukpga/2025/34/section/78) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

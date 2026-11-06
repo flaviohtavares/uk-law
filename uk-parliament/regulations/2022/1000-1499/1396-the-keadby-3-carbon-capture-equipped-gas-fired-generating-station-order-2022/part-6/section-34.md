@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Protective works to buildings[^key-728af10de1c62f3bdd7ca7a0bbf61eac]
+## 34. Protective works to buildings[^c-728af10de1c62f3bdd7ca7a0bbf61eac]
 
 *Extent: E+W+S*
 
@@ -65,4 +65,4 @@ the undertaker must compensate the owners and occupiers of the building for any 
 
 ## Annotations
 
-[^key-728af10de1c62f3bdd7ca7a0bbf61eac]: Commencement: Art. 34 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-728af10de1c62f3bdd7ca7a0bbf61eac]: Commencement: Art. 34 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

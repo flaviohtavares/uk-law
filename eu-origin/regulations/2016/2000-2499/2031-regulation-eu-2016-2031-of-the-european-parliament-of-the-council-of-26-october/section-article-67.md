@@ -22,9 +22,9 @@ summary: ''
 
 The register shall contain the elements set out in points (a), (b), (d) and (e) of Article 66(2) and the following elements:
 
-- ((a)) the official registration number for the professional operator[^key-7107828ae2c3cd8c56887845e1c4ff79];
+- ((a)) the official registration number for the professional operator[^c-7107828ae2c3cd8c56887845e1c4ff79];
 - ((b)) where applicable, an indication for which of the activities referred to in point (c) of Article 66(2) the professional operator is authorised, and, where applicable, the specific plants, plant products or other objects concerned.
 
 ## Annotations
 
-[^key-7107828ae2c3cd8c56887845e1c4ff79]: Textual amendment: Words in [Art. 67(a)](https://www.legislation.gov.uk/eur/2016/2031/article/67/a) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [30(3)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/30/3) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-7107828ae2c3cd8c56887845e1c4ff79]: Textual amendment: Words in [Art. 67(a)](https://www.legislation.gov.uk/eur/2016/2031/article/67/a) substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [30(3)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/30/3) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

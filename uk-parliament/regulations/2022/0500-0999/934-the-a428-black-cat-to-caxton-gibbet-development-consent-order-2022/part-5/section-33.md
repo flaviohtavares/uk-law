@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Modification of Part 1 of the 1965 Act[^key-dfcf56b73b29ce9f204105260dd595cd]
+## 33. Modification of Part 1 of the 1965 Act[^c-dfcf56b73b29ce9f204105260dd595cd]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) in subsection (1)(a), after “land” insert “under that provision”;
 - (b) in subsection (2), after “land” insert “under that provision”.
 
-(4) In section 22(2) (expiry of time limit for exercise of compulsory purchase power not to affect acquisition of interests omitted from purchase), for “section 4 of this Act” substitute “article 26 (time limit for exercise of authority to acquire land compulsorily)[^key-6bfcfbe03c0141704bbcc0c7588e855f] of the A428 Black Cat to Caxton Gibbet Development Consent Order 2022”.
+(4) In section 22(2) (expiry of time limit for exercise of compulsory purchase power not to affect acquisition of interests omitted from purchase), for “section 4 of this Act” substitute “article 26 (time limit for exercise of authority to acquire land compulsorily)[^c-6bfcfbe03c0141704bbcc0c7588e855f] of the A428 Black Cat to Caxton Gibbet Development Consent Order 2022”.
 
 (5) In Schedule 2A[^f00074] (counter-notice requiring purchase of land not in notice to treat)—
 
@@ -48,7 +48,7 @@ summary: ''
 
 ## Annotations
 
-[^key-dfcf56b73b29ce9f204105260dd595cd]: Commencement: Art. 33 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-dfcf56b73b29ce9f204105260dd595cd]: Commencement: Art. 33 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
 [^f00071]: Footnote: Section 125 was amended by section 190 of, and paragraph 17 of Schedule 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 
@@ -56,6 +56,6 @@ summary: ''
 
 [^f00073]: Footnote: Section 11A was inserted by section 186(3) of the Housing and Planning Act 2016.
 
-[^key-6bfcfbe03c0141704bbcc0c7588e855f]: Textual amendment: Words in [art. 33(4)](https://www.legislation.gov.uk/uksi/2022/934/article/33/4) substituted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)
+[^c-6bfcfbe03c0141704bbcc0c7588e855f]: Textual amendment: Words in [art. 33(4)](https://www.legislation.gov.uk/uksi/2022/934/article/33/4) substituted (17.1.2023) by [The A428 Black Cat to Caxton Gibbet (Correction) Order 2023 (S.I. 2023/40)](https://www.legislation.gov.uk/uksi/2023/40), [art. 1](https://www.legislation.gov.uk/uksi/2023/40/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/40/schedule)
 
 [^f00074]: Footnote: Schedule 2A was inserted by section 216(3) of, and paragraphs 1 and 3 of Schedule 17 to, the Housing and Planning Act 2016.

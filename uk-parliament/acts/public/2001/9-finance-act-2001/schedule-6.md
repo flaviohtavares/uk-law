@@ -35,10 +35,10 @@ Section 28.
 
 (3) A person guilty of an offence under this paragraph shall be liable (subject to sub-paragraph (4) below)—
 
-- (a) on summary conviction, to a penalty of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-6afd89970c08b0947d3d1f57c4b7f0fb] £20,000 *(Extent: E+W)* or to imprisonment for a term not exceeding six months, or to both;
-- (b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding 14[^key-216f6464803682f3582f449f3be3dfe6] years, or to both.
+- (a) on summary conviction, to a penalty of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^c-6afd89970c08b0947d3d1f57c4b7f0fb] £20,000 *(Extent: E+W)* or to imprisonment for a term not exceeding six months, or to both;
+- (b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding 14[^c-216f6464803682f3582f449f3be3dfe6] years, or to both.
 
-(4) In the case of any offence under this paragraph, where the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-246e72a7a97bea38749abbe119e813a4] the amount of £5,000 mentioned in paragraph 1(3)(a) *(Extent: E+W)* is less than three times the sum of the amounts of aggregates levy which are shown to be amounts that were or were intended to be evaded, the penalty on summary conviction shall be the amount equal to three times that sum (instead of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-246e72a7a97bea38749abbe119e813a4] the amount of £5,000 mentioned in paragraph 1(3)(a) *(Extent: E+W)*).
+(4) In the case of any offence under this paragraph, where the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^c-246e72a7a97bea38749abbe119e813a4] the amount of £5,000 mentioned in paragraph 1(3)(a) *(Extent: E+W)* is less than three times the sum of the amounts of aggregates levy which are shown to be amounts that were or were intended to be evaded, the penalty on summary conviction shall be the amount equal to three times that sum (instead of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^c-246e72a7a97bea38749abbe119e813a4] the amount of £5,000 mentioned in paragraph 1(3)(a) *(Extent: E+W)*).
 
 (5) For the purposes of sub-paragraph (4) above the amounts of levy that were or were intended to be evaded shall be taken to include—
 
@@ -65,15 +65,15 @@ and in this sub-paragraph “**the requisite intent**” means the intent to dec
 
 (3) A person guilty of an offence under this paragraph shall be liable (subject to sub-paragraph (4) below)—
 
-- (a) on summary conviction, to a penalty of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-a6b6cb5bcc141c7ba3dad5d499f187c0] £20,000 *(Extent: E+W)* or to imprisonment for a term not exceeding six months, or to both;
-- (b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding 14[^key-3547ffd79b09c0208e2e19b09d5d44c1] years, or to both.
+- (a) on summary conviction, to a penalty of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^c-a6b6cb5bcc141c7ba3dad5d499f187c0] £20,000 *(Extent: E+W)* or to imprisonment for a term not exceeding six months, or to both;
+- (b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding 14[^c-3547ffd79b09c0208e2e19b09d5d44c1] years, or to both.
 
 (4) In the case of any offence under this paragraph, where—
 
 - (a) the document referred to in sub-paragraph (1) above is a return required under any provision made by or under this Part of this Act, or
 - (b) the information referred to in sub-paragraph (2) above is contained in or otherwise relevant to such a return,
 
-the amount of the penalty on summary conviction shall be whichever is the greater of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-6c4531cf77cccd04009270f88d30e384] the amount of £20,000 mentioned in sub-paragraph (3)(a) *(Extent: E+W)* and the amount equal to three times the sum of the amounts (if any) by which the return understates any person’s liability to aggregates levy.
+the amount of the penalty on summary conviction shall be whichever is the greater of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^c-6c4531cf77cccd04009270f88d30e384] the amount of £20,000 mentioned in sub-paragraph (3)(a) *(Extent: E+W)* and the amount equal to three times the sum of the amounts (if any) by which the return understates any person’s liability to aggregates levy.
 
 (5) In sub-paragraph (4) above the reference to the amount by which any person’s liability to aggregates levy is understated shall be taken to be equal to the sum of—
 
@@ -90,10 +90,10 @@ the amount of the penalty on summary conviction shall be whichever is the greate
 
 (3) A person guilty of an offence under this paragraph shall be liable (subject to sub-paragraph (4) below)—
 
-- (a) on summary conviction, to a penalty of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-5779f0686339efa8d783ed499800a2a3] £20,000 *(Extent: E+W)* or to imprisonment for a term not exceeding six months, or to both;
-- (b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding 14[^key-a8d2924ecaad1d86948044542e9ea726] years, or to both.
+- (a) on summary conviction, to a penalty of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^c-5779f0686339efa8d783ed499800a2a3] £20,000 *(Extent: E+W)* or to imprisonment for a term not exceeding six months, or to both;
+- (b) on conviction on indictment, to a penalty of any amount or to imprisonment for a term not exceeding 14[^c-a8d2924ecaad1d86948044542e9ea726] years, or to both.
 
-(4) In the case of any offence under this paragraph, where the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-b9f4035a85f04b605a473d43644257c4] the amount of £20,000 mentioned in sub-paragraph (3)(a) *(Extent: E+W)* is less than three times the sum of the amounts of aggregates levy which are shown to be amounts that were or were intended to be evaded by the conduct in question, the penalty on summary conviction shall be the amount equal to three times that sum (instead of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^key-b9f4035a85f04b605a473d43644257c4] the amount of £20,000 mentioned in sub-paragraph (3)(a) *(Extent: E+W)*).
+(4) In the case of any offence under this paragraph, where the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^c-b9f4035a85f04b605a473d43644257c4] the amount of £20,000 mentioned in sub-paragraph (3)(a) *(Extent: E+W)* is less than three times the sum of the amounts of aggregates levy which are shown to be amounts that were or were intended to be evaded by the conduct in question, the penalty on summary conviction shall be the amount equal to three times that sum (instead of the statutory maximum *(Extent: E+W)* *(affected by repeal, see note)*[^c-b9f4035a85f04b605a473d43644257c4] the amount of £20,000 mentioned in sub-paragraph (3)(a) *(Extent: E+W)*).
 
 (5) For the purposes of sub-paragraph (4) above the amounts of levy that were or were intended to be evaded by any conduct shall be taken to include—
 
@@ -108,14 +108,14 @@ which was, or was intended to be, obtained in circumstances where there was no e
 
 (1) Where a person—
 
-- (a) becomes a party to any agreement under or by means of which a quantity of taxable aggregate is or is to be subjected to commercial exploitation in England, Wales or Northern Ireland[^key-5de45fc9b9717fdfe1461495f576b1ce], or
+- (a) becomes a party to any agreement under or by means of which a quantity of taxable aggregate is or is to be subjected to commercial exploitation in England, Wales or Northern Ireland[^c-5de45fc9b9717fdfe1461495f576b1ce], or
 - (b) makes arrangements for any other person to become a party to such an agreement,
 
 he is guilty of an offence if he does so in the belief that aggregates levy chargeable on the aggregate in question will be evaded.
 
-(2) Subject to sub-paragraph (3) below, a person guilty of an offence under this paragraph shall be liable, on summary conviction, to a penalty of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-019be3b2fc4a65cb438ced54c4cd4ff8] £20,000 *(Extent: E+W)*.
+(2) Subject to sub-paragraph (3) below, a person guilty of an offence under this paragraph shall be liable, on summary conviction, to a penalty of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-019be3b2fc4a65cb438ced54c4cd4ff8] £20,000 *(Extent: E+W)*.
 
-(3) In the case of any offence under this paragraph, where level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-cdc4fc8ce1c9c1da1341b11476bbbcce] the amount of £20,000 mentioned in sub-paragraph (2) *(Extent: E+W)* is less than three times the sum of the amounts of aggregates levy which are shown to be amounts that were or were intended to be evaded in respect of the aggregate in question, the penalty shall be the amount equal to three times that sum (instead of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^key-cdc4fc8ce1c9c1da1341b11476bbbcce] the amount of £20,000 mentioned in sub-paragraph (2) *(Extent: E+W)*).
+(3) In the case of any offence under this paragraph, where level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-cdc4fc8ce1c9c1da1341b11476bbbcce] the amount of £20,000 mentioned in sub-paragraph (2) *(Extent: E+W)* is less than three times the sum of the amounts of aggregates levy which are shown to be amounts that were or were intended to be evaded in respect of the aggregate in question, the penalty shall be the amount equal to three times that sum (instead of level 5 on the standard scale *(Extent: E+W)* *(affected by repeal, see note)*[^c-cdc4fc8ce1c9c1da1341b11476bbbcce] the amount of £20,000 mentioned in sub-paragraph (2) *(Extent: E+W)*).
 
 (4) For the purposes of sub-paragraph (3) above the amounts of levy that were or were intended to be evaded shall be taken to include—
 
@@ -130,21 +130,21 @@ which was, or was intended to be, obtained in circumstances where there was no e
 
 Sections 145 to 155 of the Customs and Excise Management Act 1979 (c. 2) (proceedings for offences, mitigation of penalties and certain other matters) shall apply in relation to offences and penalties under this Part of this Schedule as they apply in relation to offences and penalties under the customs and excise Acts.
 
-#### 6. Arrest[^key-182a3bb69686ec47b79b85a6ab39f370]
+#### 6. Arrest[^c-182a3bb69686ec47b79b85a6ab39f370]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — CIVIL PENALTIES
 
-#### 7. Evasion[^key-d1056bc2069071502a1bb14162a2ad55][^key-2595a389eb67f499bafc1acd1c1fc4a6]
+#### 7. Evasion[^c-d1056bc2069071502a1bb14162a2ad55][^c-2595a389eb67f499bafc1acd1c1fc4a6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Liability of directors etc. for civil penalties[^key-d1056bc2069071502a1bb14162a2ad55][^key-ab7e4f5824749f64103ff78abd6c3224]
+#### 8. Liability of directors etc. for civil penalties[^c-d1056bc2069071502a1bb14162a2ad55][^c-ab7e4f5824749f64103ff78abd6c3224]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Misdeclaration or neglect[^key-d1056bc2069071502a1bb14162a2ad55]
+#### 9. Misdeclaration or neglect[^c-d1056bc2069071502a1bb14162a2ad55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -153,8 +153,8 @@ Sections 145 to 155 of the Customs and Excise Management Act 1979 (c. 2) (procee
 (1) This paragraph applies where—
 
 - (a) a claim is made for a tax credit in such a case as is mentioned in—
-  - (i) section 30(1)(c) of this Act (aggregate used in a prescribed industrial or agricultural process), [^key-821875ba3e7e540edb38cfa1412ca484]...
-  - (ii) section 30A of this Act (transitional tax credit in Northern Ireland), or[^key-9c59529a450479bf055bc934a6dadf81]
+  - (i) section 30(1)(c) of this Act (aggregate used in a prescribed industrial or agricultural process), [^c-821875ba3e7e540edb38cfa1412ca484]...
+  - (ii) section 30A of this Act (transitional tax credit in Northern Ireland), or[^c-9c59529a450479bf055bc934a6dadf81]
   - (iii) section 30B(3) of this Act (special tax credit in Northern Ireland);
 - (b) a record or other document is provided to the Commissioners as evidence for the claim; and
 - (c) the record or document is incorrect.
@@ -170,8 +170,8 @@ Sections 145 to 155 of the Customs and Excise Management Act 1979 (c. 2) (procee
 
 (5) Where by reason of providing a record or other document—
 
-- (a) a person is convicted of an offence (whether under this Act or otherwise), [^key-5d1620ddc151fc3b2ada2bdae2c63ccd]. . .
-- (b)[^key-5d1620ddc151fc3b2ada2bdae2c63ccd][^key-2045cf3ee5fa105f5cafa4ed453dc66a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a person is convicted of an offence (whether under this Act or otherwise), [^c-5d1620ddc151fc3b2ada2bdae2c63ccd]. . .
+- (b)[^c-5d1620ddc151fc3b2ada2bdae2c63ccd][^c-2045cf3ee5fa105f5cafa4ed453dc66a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 that person shall not by reason of the providing of the record or document be liable also to a penalty under this paragraph.
 
@@ -188,44 +188,44 @@ on the basis that that amount is the amount of a repayment of aggregates levy to
 
 ## Annotations
 
-[^key-6afd89970c08b0947d3d1f57c4b7f0fb]: Textual amendment: Sum in Sch. 6 para. 1(3)(a) substituted (E.W.) (12.3.2015) for words by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(a)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/a) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-6afd89970c08b0947d3d1f57c4b7f0fb]: Textual amendment: Sum in Sch. 6 para. 1(3)(a) substituted (E.W.) (12.3.2015) for words by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(a)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/a) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-216f6464803682f3582f449f3be3dfe6]: Textual amendment: Word in [Sch. 6 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/6/paragraph/1/3/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
+[^c-216f6464803682f3582f449f3be3dfe6]: Textual amendment: Word in [Sch. 6 para. 1(3)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/6/paragraph/1/3/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
 
-[^key-246e72a7a97bea38749abbe119e813a4]: Textual amendment: Words in Sch. 6 para. 1(4) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-246e72a7a97bea38749abbe119e813a4]: Textual amendment: Words in Sch. 6 para. 1(4) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(b)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/b) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-a6b6cb5bcc141c7ba3dad5d499f187c0]: Textual amendment: Sum in Sch. 6 para. 2(3)(a) substituted (E.W.) (12.3.2015) for words by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(c)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/c) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-a6b6cb5bcc141c7ba3dad5d499f187c0]: Textual amendment: Sum in Sch. 6 para. 2(3)(a) substituted (E.W.) (12.3.2015) for words by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(c)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/c) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-3547ffd79b09c0208e2e19b09d5d44c1]: Textual amendment: Word in [Sch. 6 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/6/paragraph/2/3/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
+[^c-3547ffd79b09c0208e2e19b09d5d44c1]: Textual amendment: Word in [Sch. 6 para. 2(3)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/6/paragraph/2/3/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
 
-[^key-6c4531cf77cccd04009270f88d30e384]: Textual amendment: Words in Sch. 6 para. 2(4) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(d)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/d) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-6c4531cf77cccd04009270f88d30e384]: Textual amendment: Words in Sch. 6 para. 2(4) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(d)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/d) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-5779f0686339efa8d783ed499800a2a3]: Textual amendment: Sum in Sch. 6 para. 3(3)(a) substituted (E.W.) (12.3.2015) for words by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(e)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/e) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-5779f0686339efa8d783ed499800a2a3]: Textual amendment: Sum in Sch. 6 para. 3(3)(a) substituted (E.W.) (12.3.2015) for words by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(e)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/e) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-a8d2924ecaad1d86948044542e9ea726]: Textual amendment: Word in [Sch. 6 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/6/paragraph/3/3/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
+[^c-a8d2924ecaad1d86948044542e9ea726]: Textual amendment: Word in [Sch. 6 para. 3(3)(b)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/6/paragraph/3/3/b) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [s. 32(1)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/1) (with [s. 32(6)](https://www.legislation.gov.uk/ukpga/2024/3/section/32/6))
 
-[^key-b9f4035a85f04b605a473d43644257c4]: Textual amendment: Words in Sch. 6 para. 3(4) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(f)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/f) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-b9f4035a85f04b605a473d43644257c4]: Textual amendment: Words in Sch. 6 para. 3(4) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(f)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/f) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-5de45fc9b9717fdfe1461495f576b1ce]: Textual amendment: Words in Sch. 6 para. 4(1)(a) substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/11); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
+[^c-5de45fc9b9717fdfe1461495f576b1ce]: Textual amendment: Words in Sch. 6 para. 4(1)(a) substituted (with effect in accordance with s. 18(4) of the amending Act) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [s. 72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/ukpga/2016/11/schedule/1/paragraph/11); [S.I. 2026/355](https://www.legislation.gov.uk/uksi/2026/355), [reg. 2](https://www.legislation.gov.uk/uksi/2026/355/regulation/2)
 
-[^key-019be3b2fc4a65cb438ced54c4cd4ff8]: Textual amendment: Sum in Sch. 6 para. 4(2) substituted (E.W.) (12.3.2015) for words by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(g)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/g) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-019be3b2fc4a65cb438ced54c4cd4ff8]: Textual amendment: Sum in Sch. 6 para. 4(2) substituted (E.W.) (12.3.2015) for words by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(g)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/g) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-cdc4fc8ce1c9c1da1341b11476bbbcce]: Textual amendment: Words in Sch. 6 para. 4(3) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(h)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/h) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
+[^c-cdc4fc8ce1c9c1da1341b11476bbbcce]: Textual amendment: Words in Sch. 6 para. 4(3) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 2 para. 12(3)(h)](https://www.legislation.gov.uk/uksi/2015/664/schedule/2/paragraph/12/3/h) (with [reg. 5(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/1))
 
-[^key-182a3bb69686ec47b79b85a6ab39f370]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2001/9/schedule/6/paragraph/6) repealed (1.12.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 12(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/12/a), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/a)
+[^c-182a3bb69686ec47b79b85a6ab39f370]: Textual amendment: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2001/9/schedule/6/paragraph/6) repealed (1.12.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [s. 84(5)](https://www.legislation.gov.uk/ukpga/2007/11/section/84/5), [Sch. 22 para. 12(a)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/22/paragraph/12/a), [Sch. 27 Pt. 5(1)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/5/1); [S.I. 2007/3166](https://www.legislation.gov.uk/uksi/2007/3166), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/3166/article/3/a)
 
-[^key-d1056bc2069071502a1bb14162a2ad55]: Textual amendment: Sch. 6 paras. 7-9 omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/i); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/571/article/6))
+[^c-d1056bc2069071502a1bb14162a2ad55]: Textual amendment: Sch. 6 paras. 7-9 omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/i); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/571/article/6))
 
-[^key-2595a389eb67f499bafc1acd1c1fc4a6]: Modification: Sch. 6 para. 7 savings for effects of 2008 c. 9, Sch. 40 para. 21 (5.3.2009) by [The Finance Act 2008, Schedule 41 (Appointed Day and Transitional Provisions) Order 2009 (S.I. 2009/511)](https://www.legislation.gov.uk/uksi/2009/511), [art. 4(e)(i)](https://www.legislation.gov.uk/uksi/2009/511/article/4/e/i)
+[^c-2595a389eb67f499bafc1acd1c1fc4a6]: Modification: Sch. 6 para. 7 savings for effects of 2008 c. 9, Sch. 40 para. 21 (5.3.2009) by [The Finance Act 2008, Schedule 41 (Appointed Day and Transitional Provisions) Order 2009 (S.I. 2009/511)](https://www.legislation.gov.uk/uksi/2009/511), [art. 4(e)(i)](https://www.legislation.gov.uk/uksi/2009/511/article/4/e/i)
 
-[^key-ab7e4f5824749f64103ff78abd6c3224]: Modification: Sch. 6 para. 8 savings for effects of 2008 c. 9, Sch. 40 para. 21 (5.3.2009) by [The Finance Act 2008, Schedule 41 (Appointed Day and Transitional Provisions) Order 2009 (S.I. 2009/511)](https://www.legislation.gov.uk/uksi/2009/511), [art. 4(e)(i)](https://www.legislation.gov.uk/uksi/2009/511/article/4/e/i)
+[^c-ab7e4f5824749f64103ff78abd6c3224]: Modification: Sch. 6 para. 8 savings for effects of 2008 c. 9, Sch. 40 para. 21 (5.3.2009) by [The Finance Act 2008, Schedule 41 (Appointed Day and Transitional Provisions) Order 2009 (S.I. 2009/511)](https://www.legislation.gov.uk/uksi/2009/511), [art. 4(e)(i)](https://www.legislation.gov.uk/uksi/2009/511/article/4/e/i)
 
 [^c12450641]: Textual amendment: Sch. 6 para. 9A inserted (*retrospective* from 1.5.2002 ) by [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23), 133(5)(6)
 
-[^key-821875ba3e7e540edb38cfa1412ca484]: Textual amendment: Word in Sch. 6 para. 9A(1)(a)(i) omitted (26.3.2015) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 61(5)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/61/5/a)
+[^c-821875ba3e7e540edb38cfa1412ca484]: Textual amendment: Word in Sch. 6 para. 9A(1)(a)(i) omitted (26.3.2015) by virtue of [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 61(5)(a)](https://www.legislation.gov.uk/ukpga/2015/11/section/61/5/a)
 
-[^key-9c59529a450479bf055bc934a6dadf81]: Textual amendment: Sch. 6 para. 9A(1)(a)(iii) and word inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 61(5)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/61/5/b)
+[^c-9c59529a450479bf055bc934a6dadf81]: Textual amendment: Sch. 6 para. 9A(1)(a)(iii) and word inserted (26.3.2015) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [s. 61(5)(b)](https://www.legislation.gov.uk/ukpga/2015/11/section/61/5/b)
 
-[^key-5d1620ddc151fc3b2ada2bdae2c63ccd]: Textual amendment: Sch. 6 para. 9A(5)(b) and word omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/i); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/571/article/6))
+[^c-5d1620ddc151fc3b2ada2bdae2c63ccd]: Textual amendment: Sch. 6 para. 9A(5)(b) and word omitted (1.4.2009) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 122(2)](https://www.legislation.gov.uk/ukpga/2008/9/section/122/2), [Sch. 40 para. 21(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/40/paragraph/21/i); [S.I. 2009/571](https://www.legislation.gov.uk/uksi/2009/571), [art. 2](https://www.legislation.gov.uk/uksi/2009/571/article/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2009/571/article/6))
 
-[^key-2045cf3ee5fa105f5cafa4ed453dc66a]: Modification: Sch. 6 para. 9A(5)(b) savings for effects of 2008 c. 9, Sch. 40 para. 21 (5.3.2009) by [The Finance Act 2008, Schedule 41 (Appointed Day and Transitional Provisions) Order 2009 (S.I. 2009/511)](https://www.legislation.gov.uk/uksi/2009/511), [art. 4(e)(ii)](https://www.legislation.gov.uk/uksi/2009/511/article/4/e/ii)
+[^c-2045cf3ee5fa105f5cafa4ed453dc66a]: Modification: Sch. 6 para. 9A(5)(b) savings for effects of 2008 c. 9, Sch. 40 para. 21 (5.3.2009) by [The Finance Act 2008, Schedule 41 (Appointed Day and Transitional Provisions) Order 2009 (S.I. 2009/511)](https://www.legislation.gov.uk/uksi/2009/511), [art. 4(e)(ii)](https://www.legislation.gov.uk/uksi/2009/511/article/4/e/ii)

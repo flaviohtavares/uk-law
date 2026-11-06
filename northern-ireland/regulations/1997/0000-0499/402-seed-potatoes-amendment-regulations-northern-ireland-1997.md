@@ -30,7 +30,7 @@ summary: ''
 
 SEEDS
 
-Seed Potatoes (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-e14eccb6ddbcdaa43628aae4292bfd25]
+Seed Potatoes (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-e14eccb6ddbcdaa43628aae4292bfd25]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 13th October 1997
 
-[^key-e14eccb6ddbcdaa43628aae4292bfd25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e14eccb6ddbcdaa43628aae4292bfd25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-e14eccb6ddbcdaa43628aae4292bfd25]
+## 1. Citation, commencement and interpretation[^c-e14eccb6ddbcdaa43628aae4292bfd25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Seed Potatoes Regulations (Northern Ireland) 1981[^key-e14eccb6ddbcdaa43628aae4292bfd25]
+## 2. Amendment of the Seed Potatoes Regulations (Northern Ireland) 1981[^c-e14eccb6ddbcdaa43628aae4292bfd25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-e14eccb6ddbcdaa43628aae4292bfd25]
+## 3. Revocation[^c-e14eccb6ddbcdaa43628aae4292bfd25]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e14eccb6ddbcdaa43628aae4292bfd25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e14eccb6ddbcdaa43628aae4292bfd25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e14eccb6ddbcdaa43628aae4292bfd25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e14eccb6ddbcdaa43628aae4292bfd25]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e14eccb6ddbcdaa43628aae4292bfd25]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/402) revoked (25.5.2001) by [Seed Potatoes Regulations (Northern Ireland) 2001 (revoked) 2001 (S.R. 2001/188)](https://www.legislation.gov.uk/nisr/2001/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/188/regulation/1/1), [24](https://www.legislation.gov.uk/nisr/2001/188/regulation/24), [Sch. 10](https://www.legislation.gov.uk/nisr/2001/188/schedule/10)
+[^c-e14eccb6ddbcdaa43628aae4292bfd25]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/402) revoked (25.5.2001) by [Seed Potatoes Regulations (Northern Ireland) 2001 (revoked) 2001 (S.R. 2001/188)](https://www.legislation.gov.uk/nisr/2001/188), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/188/regulation/1/1), [24](https://www.legislation.gov.uk/nisr/2001/188/regulation/24), [Sch. 10](https://www.legislation.gov.uk/nisr/2001/188/schedule/10)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Sexual offences for purposes of Part 2[^key-31fd35a1920f232fb62fe023ea44702a][^key-8eb8c28187793de1706a5bb090550670]
+## SCHEDULE 3 — Sexual offences for purposes of Part 2[^c-31fd35a1920f232fb62fe023ea44702a][^c-8eb8c28187793de1706a5bb090550670]
 
 *Extent: E+W+S+N.I.*
 
@@ -117,7 +117,7 @@ Section 80
 
 **24.** An offence under section 15 of this Act (meeting a child following sexual grooming etc).
 
-**24A.**[^key-8a9b4eb8a22b182e49c302d066b0baf7] An offence under section 15A of this Act (sexual communication with a child).
+**24A.**[^c-8a9b4eb8a22b182e49c302d066b0baf7] An offence under section 15A of this Act (sexual communication with a child).
 
 **25.** An offence under any of sections 16 to 19 of this Act (abuse of a position of trust) if the offender, in respect of the offence, is or has been—
 
@@ -189,7 +189,7 @@ Section 80
     - (b) detained in a hospital, or
     - (c) made the subject of a community sentence of at least 12 months.
 
-**33A.**[^key-f73998125e7db7df09ba36271ad86f7a] An offence under section 66A of this Act (sending etc photograph or film of genitals) if—
+**33A.**[^c-f73998125e7db7df09ba36271ad86f7a] An offence under section 66A of this Act (sending etc photograph or film of genitals) if—
 
 - (a) where the offender was under 18, the offender is or has been sentenced in respect of the offence to imprisonment for a term of at least 12 months;
 - (b) in any other case—
@@ -209,7 +209,7 @@ Section 80
     - (b) detained in a hospital, or
     - (c) made the subject of a community sentence of at least 12 months.
 
-**33C.**[^key-f2d9cc6676905b3223df8d221329ef87] An offence under section 66I of this Act (purported intimate image generators), if the offender is sentenced in respect of the offence to imprisonment for a term of at least 12 months.
+**33C.**[^c-f2d9cc6676905b3223df8d221329ef87] An offence under section 66I of this Act (purported intimate image generators), if the offender is sentenced in respect of the offence to imprisonment for a term of at least 12 months.
 
 **34.** An offence under section 67 of this Act (voyeurism) if—
 
@@ -223,7 +223,7 @@ Section 80
 
 *Extent: E+W*
 
-**34A.**[^key-f4c51e194e25dc68d2ad465fa346c036] (1) An offence under section 67A of this Act (voyeurism: additional offences), if—
+**34A.**[^c-f4c51e194e25dc68d2ad465fa346c036] (1) An offence under section 67A of this Act (voyeurism: additional offences), if—
 
 - (a) the offence was committed for the purpose mentioned in section 67A(3)(a) (sexual gratification), and
 - (b) the relevant condition is met.
@@ -238,7 +238,7 @@ Section 80
   - (ii) detained in a hospital, or
   - (iii) made the subject of a community sentence of at least 12 months.
 
-**35.** An offence under section 69 or 70 of this Act (sexual activity[^key-83cd8a8193bd05f6b76c472ee5030d0b] with an animal, sexual activity with[^key-8a3c76a99101c7d2dad1c30ca112f79d] a corpse) if —
+**35.** An offence under section 69 or 70 of this Act (sexual activity[^c-83cd8a8193bd05f6b76c472ee5030d0b] with an animal, sexual activity with[^c-8a3c76a99101c7d2dad1c30ca112f79d] a corpse) if —
 
 - (a) where the offender was under 18, he is or has been sentenced in respect of the offence to imprisonment for a term of at least 12 months;
 - (b) in any other case, the offender, in respect of the offence or finding, is or has been—
@@ -257,7 +257,7 @@ Section 80
 - (a) was 18 or over, and
 - (b) is sentenced in respect of the offence to imprisonment for a term of at least 2 years.
 
-**35C.**[^key-a2ef283fe3a0fd1b6b9d5da23decd595] An offence under section 69 of the Serious Crime Act 2015 (possession of paedophile manual) if the offender—
+**35C.**[^c-a2ef283fe3a0fd1b6b9d5da23decd595] An offence under section 69 of the Serious Crime Act 2015 (possession of paedophile manual) if the offender—
 
 - (a) was 18 or over, or
 - (b) is sentenced in respect of the offence to imprisonment for a term of at least 12 months.
@@ -316,7 +316,7 @@ Section 80
 
 *Extent: S*
 
-**44A.**[^key-995b7f0449403fbc661c84561e2ee088][^c20948381] An offence under section 51A of the Civic Government (Scotland) Act 1982 (c.45) (possession of extreme pornography) if—
+**44A.**[^c-995b7f0449403fbc661c84561e2ee088][^c20948381] An offence under section 51A of the Civic Government (Scotland) Act 1982 (c.45) (possession of extreme pornography) if—
 
 - (a) the offender—
   - (i) was 18 or over, and
@@ -792,7 +792,7 @@ Section 80
     - (b) detained in a hospital, or
     - (c) made the subject of a community sentence of at least 12 months.
 
-**92.** An offence under section 69 or 70 of this Act (sexual activity[^key-b5b0670835715612f9f12abf87bd7222] with an animal, sexual activity with[^key-cebe2215be3ab30ebadb37edd067e4a2] a corpse) if —
+**92.** An offence under section 69 or 70 of this Act (sexual activity[^c-b5b0670835715612f9f12abf87bd7222] with an animal, sexual activity with[^c-cebe2215be3ab30ebadb37edd067e4a2] a corpse) if —
 
 - (a) where the offender was under 18, he is or has been sentenced in respect of the offence to imprisonment for a term of at least 12 months;
 - (b) in any other case, the offender, in respect of the offence or finding, is or has been—
@@ -832,13 +832,13 @@ Section 80
 - (a) was 18 or over, or
 - (b) is or has been sentenced in respect of the offence to imprisonment for a term of at least 12 months.
 
-**92HA.**[^key-afce9ec81fd1fbfbde1ccb3ef480b073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**92HA.**[^c-afce9ec81fd1fbfbde1ccb3ef480b073] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **92I.**[^c20926031] An offence under Article 22 of that Order (meeting a child following sexual grooming etc).
 
-**92IA.**[^key-360771535062a9cdc055a91e73e33ad3] An offence under Article 22A of that Order (sexual communication with a child).
+**92IA.**[^c-360771535062a9cdc055a91e73e33ad3] An offence under Article 22A of that Order (sexual communication with a child).
 
-**92IB.**[^key-816c61a0c940871262f50dab2f2c9b9c] An offence under Article 22B of that Order (communicating with a person with a view to grooming a particular child).
+**92IB.**[^c-816c61a0c940871262f50dab2f2c9b9c] An offence under Article 22B of that Order (communicating with a person with a view to grooming a particular child).
 
 **92IC.** An offence under Article 22C of that Order (communicating with a group with a view to grooming a particular child).
 
@@ -926,7 +926,7 @@ Section 80
     - (bb) detained in a hospital, or
     - (cc) made the subject of a community sentence of at least 12 months.
 
-**92VA.**[^key-a91a3c03f0843c1831cfb28dffb8cdfa] (1) An offence under Article 71A or 71B of that Order (voyeurism: additional offences) if—
+**92VA.**[^c-a91a3c03f0843c1831cfb28dffb8cdfa] (1) An offence under Article 71A or 71B of that Order (voyeurism: additional offences) if—
 
 - (a) the offence was committed for the purpose mentioned in Articles 71A(2)(a)(i) and (5)(a)(i) and 71B(2)(a)(i) and (5)(a)(i) (sexual gratification), and
 - (b) the relevant condition is met.
@@ -968,7 +968,7 @@ Section 80
 - (a) was 18 or over, and
 - (b) is sentenced in respect of the offence to imprisonment for a term of at least 2 years.
 
-**92Y.**[^key-52d98bf497cf4a208583a61e17643f1d] An offence under section 69 of the Serious Crime Act 2015 (possession of paedophile manual) if the offender—
+**92Y.**[^c-52d98bf497cf4a208583a61e17643f1d] An offence under section 69 of the Serious Crime Act 2015 (possession of paedophile manual) if the offender—
 
 - (a) was 18 or over, or
 - (b) is sentenced in respect of the offence to imprisonment for a term of at least 12 months.
@@ -1012,7 +1012,7 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 **96.** In this Schedule “**community sentence**” has—
 
-- (a) in relation to England and Wales, the same meaning as in the Sentencing Code[^key-0646cde7ca2f762ebe8a274f611c0e81], and
+- (a) in relation to England and Wales, the same meaning as in the Sentencing Code[^c-0646cde7ca2f762ebe8a274f611c0e81], and
 - (b) in relation to Northern Ireland, the same meaning as in the Criminal Justice (Northern Ireland) Order 1996 (S.I. 1996/3160 (N.I. 24)).
 
 **97.** For the purposes of paragraphs 14, 44 and 78—
@@ -1024,29 +1024,29 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 ## Annotations
 
-[^key-31fd35a1920f232fb62fe023ea44702a]: Modification: Sch. 3 modified (28.6.2022) by [2007 c. 21](https://www.legislation.gov.uk/ukpga/2007/21), [s. 28(4ZA)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4ZA) (as inserted by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/c), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p))
+[^c-31fd35a1920f232fb62fe023ea44702a]: Modification: Sch. 3 modified (28.6.2022) by [2007 c. 21](https://www.legislation.gov.uk/ukpga/2007/21), [s. 28(4ZA)](https://www.legislation.gov.uk/ukpga/2007/21/section/28/4ZA) (as inserted by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 146(c)](https://www.legislation.gov.uk/ukpga/2022/32/section/146/c), [208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p))
 
-[^key-8eb8c28187793de1706a5bb090550670]: Modification: Sch. 3 modified (S.) (31.3.2023) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [ss. 25(3)](https://www.legislation.gov.uk/asp/2016/22/section/25/3), [45(2)](https://www.legislation.gov.uk/asp/2016/22/section/45/2)[(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/3) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
+[^c-8eb8c28187793de1706a5bb090550670]: Modification: Sch. 3 modified (S.) (31.3.2023) by [Abusive Behaviour and Sexual Harm (Scotland) Act 2016 (asp 22)](https://www.legislation.gov.uk/asp/2016/22), [ss. 25(3)](https://www.legislation.gov.uk/asp/2016/22/section/25/3), [45(2)](https://www.legislation.gov.uk/asp/2016/22/section/45/2)[(3)](https://www.legislation.gov.uk/asp/2016/22/section/45/3) (with [s. 44](https://www.legislation.gov.uk/asp/2016/22/section/44)); [S.S.I. 2023/51](https://www.legislation.gov.uk/ssi/2023/51), [reg. 2](https://www.legislation.gov.uk/ssi/2023/51/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2023/51/regulation/3))
 
-[^key-8a9b4eb8a22b182e49c302d066b0baf7]: Textual amendment: Sch. 3 para. 24A inserted (3.4.2017) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 66(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/66/2); [S.I. 2017/511](https://www.legislation.gov.uk/uksi/2017/511), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2017/511/regulation/2/b/ii)
+[^c-8a9b4eb8a22b182e49c302d066b0baf7]: Textual amendment: Sch. 3 para. 24A inserted (3.4.2017) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 66(2)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/66/2); [S.I. 2017/511](https://www.legislation.gov.uk/uksi/2017/511), [reg. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2017/511/regulation/2/b/ii)
 
 [^c19607401]: Textual amendment: Sch. 3 paras. 29A-29C inserted (19.2.2007) by [The Sexual Offences Act 2003 (Amendment of Schedules 3 and 5) Order 2007 (S.I. 2007/296)](https://www.legislation.gov.uk/uksi/2007/296), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/296/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/296/article/2/2)
 
-[^key-f73998125e7db7df09ba36271ad86f7a]: Textual amendment: Sch. 3 paras. 33A, 33B inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 16(4)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/16/4); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-f73998125e7db7df09ba36271ad86f7a]: Textual amendment: Sch. 3 paras. 33A, 33B inserted (31.1.2024) by [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 16(4)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/16/4); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
-[^key-f2d9cc6676905b3223df8d221329ef87]: Textual amendment: Sch. 3 para. 33C inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 99(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/99/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/i)
+[^c-f2d9cc6676905b3223df8d221329ef87]: Textual amendment: Sch. 3 para. 33C inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 99(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/99/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/i)
 
-[^key-f4c51e194e25dc68d2ad465fa346c036]: Textual amendment: Sch. 3 para. 34A inserted (12.4.2019) by [Voyeurism (Offences) Act 2019 (c. 2)](https://www.legislation.gov.uk/ukpga/2019/2), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2019/2/section/1/4), [2(2)](https://www.legislation.gov.uk/ukpga/2019/2/section/2/2)
+[^c-f4c51e194e25dc68d2ad465fa346c036]: Textual amendment: Sch. 3 para. 34A inserted (12.4.2019) by [Voyeurism (Offences) Act 2019 (c. 2)](https://www.legislation.gov.uk/ukpga/2019/2), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2019/2/section/1/4), [2(2)](https://www.legislation.gov.uk/ukpga/2019/2/section/2/2)
 
-[^key-83cd8a8193bd05f6b76c472ee5030d0b]: Textual amendment: Words in Sch. 3 para. 35 substituted (29.9.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 114(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/114/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
+[^c-83cd8a8193bd05f6b76c472ee5030d0b]: Textual amendment: Words in Sch. 3 para. 35 substituted (29.9.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 114(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/114/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
 
-[^key-8a3c76a99101c7d2dad1c30ca112f79d]: Textual amendment: Words in Sch. 3 para. 35 substituted (29.9.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 115(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/115/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
+[^c-8a3c76a99101c7d2dad1c30ca112f79d]: Textual amendment: Words in Sch. 3 para. 35 substituted (29.9.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 115(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/115/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
 
 [^c20916001]: Textual amendment: Sch. 3 para. 35A inserted (E.W.N.I.) (26.1.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 148(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/148/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 58(2)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/58/2); [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/j)
 
 [^c20932021]: Textual amendment: Sch. 3 para. 35B inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 177(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/177/1), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 21 para. 62(2)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/62/2); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/20/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/816/article/7))
 
-[^key-a2ef283fe3a0fd1b6b9d5da23decd595]: Textual amendment: Sch. 3 para. 35C inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 66(3)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/66/3); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(viii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/viii)
+[^c-a2ef283fe3a0fd1b6b9d5da23decd595]: Textual amendment: Sch. 3 para. 35C inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 4 para. 66(3)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/66/3); [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(r)(viii)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/r/viii)
 
 [^c20944521]: Textual amendment: Words in Sch. 3 para. 36 added (S.) (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [ss. 61(1)](https://www.legislation.gov.uk/asp/2009/9/section/61/1), [62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [Sch. 5 para. 5(a)](https://www.legislation.gov.uk/asp/2009/9/schedule/5/paragraph/5/a); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
 
@@ -1064,7 +1064,7 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 [^c20946771]: Textual amendment: Words in Sch. 3 para. 44 substituted (S.) (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 41(3)(a)](https://www.legislation.gov.uk/asp/2010/13/section/41/3/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-995b7f0449403fbc661c84561e2ee088]: Modification: Sch. 3 para. 44A extended (16.9.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298)](https://www.legislation.gov.uk/uksi/2011/2298), [art. 1](https://www.legislation.gov.uk/uksi/2011/2298/article/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2011/2298/schedule/paragraph/3/2) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2011/2298/article/4/4))
+[^c-995b7f0449403fbc661c84561e2ee088]: Modification: Sch. 3 para. 44A extended (16.9.2011) by [The Criminal Justice and Licensing (Scotland) Act 2010 (Consequential Provisions and Modifications) Order 2011 (S.I. 2011/2298)](https://www.legislation.gov.uk/uksi/2011/2298), [art. 1](https://www.legislation.gov.uk/uksi/2011/2298/article/1), [Sch. para. 3(2)](https://www.legislation.gov.uk/uksi/2011/2298/schedule/paragraph/3/2) (with [art. 4(4)](https://www.legislation.gov.uk/uksi/2011/2298/article/4/4))
 
 [^c20948381]: Textual amendment: Sch. 3 para. 44A inserted (S.) (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 42(3)](https://www.legislation.gov.uk/asp/2010/13/section/42/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.I. 2011/178](https://www.legislation.gov.uk/uksi/2011/178), [art. 2](https://www.legislation.gov.uk/uksi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2011/178/schedule)
 
@@ -1080,9 +1080,9 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 [^c19607421]: Textual amendment: Sch. 3 paras. 89A-89C inserted (19.2.2007) by [The Sexual Offences Act 2003 (Amendment of Schedules 3 and 5) Order 2007 (S.I. 2007/296)](https://www.legislation.gov.uk/uksi/2007/296), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2007/296/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2007/296/article/2/3)
 
-[^key-b5b0670835715612f9f12abf87bd7222]: Textual amendment: Words in Sch. 3 para. 92 substituted (29.9.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 114(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/114/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
+[^c-b5b0670835715612f9f12abf87bd7222]: Textual amendment: Words in Sch. 3 para. 92 substituted (29.9.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 114(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/114/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
 
-[^key-cebe2215be3ab30ebadb37edd067e4a2]: Textual amendment: Words in Sch. 3 para. 92 substituted (29.9.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 115(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/115/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
+[^c-cebe2215be3ab30ebadb37edd067e4a2]: Textual amendment: Words in Sch. 3 para. 92 substituted (29.9.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 115(2)](https://www.legislation.gov.uk/ukpga/2026/20/section/115/2), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/960/regulation/3/a)
 
 [^c20916071]: Textual amendment: Sch. 3 para. 92A inserted (26.1.2009) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 148(1)](https://www.legislation.gov.uk/ukpga/2008/4/section/148/1), [153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 58(3)](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/58/3); [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/j)
 
@@ -1102,13 +1102,13 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 [^c20926021]: Textual amendment: Sch. 3 paras. 92A-92V renumbered as Sch. 3 paras. 92B-92W (12.11.2009) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 177(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/177/1), [182(1)(h)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/1/h), [Sch. 21 para. 62(3)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/62/3)
 
-[^key-afce9ec81fd1fbfbde1ccb3ef480b073]: Textual amendment: Sch. 3 para. 92HA omitted (27.11.2023) by virtue of [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/8/a); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-afce9ec81fd1fbfbde1ccb3ef480b073]: Textual amendment: Sch. 3 para. 92HA omitted (27.11.2023) by virtue of [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 8(a)](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/8/a); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
 [^c20926031]: Textual amendment: Sch. 3 paras. 92A-92V renumbered as Sch. 3 paras. 92B-92W (12.11.2009) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 177(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/177/1), [182(1)(h)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/1/h), [Sch. 21 para. 62(3)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/62/3)
 
-[^key-360771535062a9cdc055a91e73e33ad3]: Textual amendment: Sch. 3 para. 92IA inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/8/b); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-360771535062a9cdc055a91e73e33ad3]: Textual amendment: Sch. 3 para. 92IA inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 2 para. 8(b)](https://www.legislation.gov.uk/nia/2022/19/schedule/2/paragraph/8/b); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
-[^key-816c61a0c940871262f50dab2f2c9b9c]: Textual amendment: Sch. 3 paras. 92IB-92IE inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 4(2)](https://www.legislation.gov.uk/nia/2022/19/section/4/2), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-816c61a0c940871262f50dab2f2c9b9c]: Textual amendment: Sch. 3 paras. 92IB-92IE inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 4(2)](https://www.legislation.gov.uk/nia/2022/19/section/4/2), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
 
 [^c20926041]: Textual amendment: Sch. 3 paras. 92A-92V renumbered as Sch. 3 paras. 92B-92W (12.11.2009) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 177(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/177/1), [182(1)(h)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/1/h), [Sch. 21 para. 62(3)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/62/3)
 
@@ -1136,13 +1136,13 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 [^c20926171]: Textual amendment: Sch. 3 paras. 92A-92V renumbered as Sch. 3 paras. 92B-92W (12.11.2009) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 177(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/177/1), [182(1)(h)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/1/h), {Sch. 21para. 62(3)}
 
-[^key-a91a3c03f0843c1831cfb28dffb8cdfa]: Textual amendment: Sch. 3 paras. 92VA, [92VB](https://www.legislation.gov.uk/ukpga/2003/42/schedule/3/paragraph/92VB) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/4); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
+[^c-a91a3c03f0843c1831cfb28dffb8cdfa]: Textual amendment: Sch. 3 paras. 92VA, [92VB](https://www.legislation.gov.uk/ukpga/2003/42/schedule/3/paragraph/92VB) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [s. 30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2), [Sch. 1 para. 4](https://www.legislation.gov.uk/nia/2022/19/schedule/1/paragraph/4); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(b)](https://www.legislation.gov.uk/nisr/2023/188/article/3/b)
 
 [^c20926191]: Textual amendment: Sch. 3 paras. 92A-92V renumbered as Sch. 3 paras. 92B-92W (12.11.2009) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 177(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/177/1), [182(1)(h)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/1/h), [Sch. 21 para. 62(3)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/62/3)
 
 [^c20941391]: Textual amendment: Sch. 3 para. 92X inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 177(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/177/1), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 21 para. 62(4)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/62/4); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/20/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/816/article/7))
 
-[^key-52d98bf497cf4a208583a61e17643f1d]: Textual amendment: Sch. 3 para. 92Y inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(3)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/3/b), [Sch. 4 para. 66(4)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/66/4); [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 2](https://www.legislation.gov.uk/nisr/2015/190/regulation/2)
+[^c-52d98bf497cf4a208583a61e17643f1d]: Textual amendment: Sch. 3 para. 92Y inserted (3.5.2015) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(3)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/3/b), [Sch. 4 para. 66(4)](https://www.legislation.gov.uk/ukpga/2015/9/schedule/4/paragraph/66/4); [S.R. 2015/190](https://www.legislation.gov.uk/nisr/2015/190), [reg. 2](https://www.legislation.gov.uk/nisr/2015/190/regulation/2)
 
 [^c20942461]: Textual amendment: Word in Sch. 3 para. 93(1) substituted for "35A" (E.W.N.I.) (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 177(1)](https://www.legislation.gov.uk/ukpga/2009/25/section/177/1), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5), [Sch. 21 para. 62(5)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/21/paragraph/62/5); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 20(a)](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/20/a) (with [art. 7](https://www.legislation.gov.uk/uksi/2010/816/article/7))
 
@@ -1160,6 +1160,6 @@ of which the corresponding civil offence (within the meaning of that Act) is an 
 
 [^c19607251]: Textual amendment: Sch. 3 para. 94A inserted (E.W.N.I.) (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [ss. 63(2)](https://www.legislation.gov.uk/ukpga/2007/27/section/63/2), [94](https://www.legislation.gov.uk/ukpga/2007/27/section/94), [Sch. 6 para. 63(2)](https://www.legislation.gov.uk/ukpga/2007/27/schedule/6/paragraph/63/2) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
 
-[^key-0646cde7ca2f762ebe8a274f611c0e81]: Textual amendment: Words in Sch. 3 para. 96(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 216](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/216) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0646cde7ca2f762ebe8a274f611c0e81]: Textual amendment: Words in Sch. 3 para. 96(a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 216](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/216) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^c20948141]: Textual amendment: Words in Sch. 3 para. 97(b) substituted (S.) (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 41(3)(b)](https://www.legislation.gov.uk/asp/2010/13/section/41/3/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

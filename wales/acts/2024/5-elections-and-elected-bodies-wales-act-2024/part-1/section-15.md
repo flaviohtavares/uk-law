@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Welsh election pilot forums[^key-a9faac3e0581b8e34d8e1903e201fba9]
+## 15. Welsh election pilot forums[^c-a9faac3e0581b8e34d8e1903e201fba9]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9faac3e0581b8e34d8e1903e201fba9]: Commencement: S. 15 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)
+[^c-a9faac3e0581b8e34d8e1903e201fba9]: Commencement: S. 15 in force at 10.9.2024, see [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a)

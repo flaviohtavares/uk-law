@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Serious default[^key-1385eb1396755c82bb8a8071cd16ebde][^key-d59f6c2a9c42161ca1815c0c61d9e1f6][^key-d59f6c2a9c42161ca1815c0c61d9e1f6]
+## 139. Serious default[^c-1385eb1396755c82bb8a8071cd16ebde][^c-d59f6c2a9c42161ca1815c0c61d9e1f6][^c-d59f6c2a9c42161ca1815c0c61d9e1f6]
 
 *Extent: S*
 
@@ -47,11 +47,11 @@ summary: ''
 
 (9) Compensation under this section is payable to the applicant and—
 
-- (a) if the person in default was a constable of a police force (within the meaning of the Police (Scotland) Act 1967 (c. 77)), the compensation is payable by the Scottish Police Authority[^key-7ca93e36d86e53e47a4c90834a903090];
-- (aa)[^key-1970c79492ff25520a013ea00be4551e] if the person in default was a constable of the Police Service of Scotland, the compensation is payable by the Scottish Police Authority,
+- (a) if the person in default was a constable of a police force (within the meaning of the Police (Scotland) Act 1967 (c. 77)), the compensation is payable by the Scottish Police Authority[^c-7ca93e36d86e53e47a4c90834a903090];
+- (aa)[^c-1970c79492ff25520a013ea00be4551e] if the person in default was a constable of the Police Service of Scotland, the compensation is payable by the Scottish Police Authority,
 - (b) if the person in default was a constable not falling within paragraph (a), the compensation is payable by the body under whose authority he acts;
 - (c) if the person in default was a procurator fiscal or was acting on behalf of the Lord Advocate, the compensation is payable by the Lord Advocate;
-- (ca)[^key-de128f5eea66aa91898788ab38fc3b16] if the person in default was a National Crime Agency officer[^key-2494e758cbd63b4a90aa16b3e21785d6], the compensation is payable by the National Crime Agency[^key-4de71a56a3c84e79ad4b923ee35e4f92];
+- (ca)[^c-de128f5eea66aa91898788ab38fc3b16] if the person in default was a National Crime Agency officer[^c-2494e758cbd63b4a90aa16b3e21785d6], the compensation is payable by the National Crime Agency[^c-4de71a56a3c84e79ad4b923ee35e4f92];
 - (d) if the person in default was a customs officer, the compensation is payable by the Commissioners of Customs and Excise;
 - (e) if the person in default was an officer of the Commissioners of Inland Revenue, the compensation is payable by those Commissioners.
 
@@ -59,16 +59,16 @@ summary: ''
 
 ## Annotations
 
-[^key-1385eb1396755c82bb8a8071cd16ebde]: Commencement: S. 139 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
+[^c-1385eb1396755c82bb8a8071cd16ebde]: Commencement: S. 139 in force at 24.3.2003 by [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/a)
 
-[^key-d59f6c2a9c42161ca1815c0c61d9e1f6]: Modification: Pt. 3 applied by Terrorism Act 2000 (c. 11), Sch. 8 paras. 17(4A), 34(3A) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 39(4)(5)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/39/4); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
+[^c-d59f6c2a9c42161ca1815c0c61d9e1f6]: Modification: Pt. 3 applied by Terrorism Act 2000 (c. 11), Sch. 8 paras. 17(4A), 34(3A) (as substituted (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 11 para. 39(4)(5)](https://www.legislation.gov.uk/ukpga/2002/29/schedule/11/paragraph/39/4); [S.S.I. 2003/210](https://www.legislation.gov.uk/ssi/2003/210), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2003/210/article/2/1/b)[(2)](https://www.legislation.gov.uk/ssi/2003/210/article/2/2), [sch.](https://www.legislation.gov.uk/ssi/2003/210/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2003/210/article/7)); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule)
 
-[^key-7ca93e36d86e53e47a4c90834a903090]: Textual amendment: Words in s. 139(9)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 19(2)(a)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/19/2/a)
+[^c-7ca93e36d86e53e47a4c90834a903090]: Textual amendment: Words in s. 139(9)(a) substituted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 19(2)(a)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/19/2/a)
 
-[^key-1970c79492ff25520a013ea00be4551e]: Textual amendment: S. 139(9)(aa) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 19(2)(b)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/19/2/b)
+[^c-1970c79492ff25520a013ea00be4551e]: Textual amendment: S. 139(9)(aa) inserted (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Consequential Modifications and Savings) Order 2013 (S.S.I. 2013/119)](https://www.legislation.gov.uk/ssi/2013/119), [art. 1](https://www.legislation.gov.uk/ssi/2013/119/article/1), [sch. 1 para. 19(2)(b)](https://www.legislation.gov.uk/ssi/2013/119/schedule/1/paragraph/19/2/b)
 
-[^key-de128f5eea66aa91898788ab38fc3b16]: Textual amendment: S. 139(9)(ca) inserted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 61(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/61/3), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(g)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/g)
+[^c-de128f5eea66aa91898788ab38fc3b16]: Textual amendment: S. 139(9)(ca) inserted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 61(3)](https://www.legislation.gov.uk/ukpga/2009/26/section/61/3), [116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1); [S.I. 2009/3096](https://www.legislation.gov.uk/uksi/2009/3096), [art. 3(g)](https://www.legislation.gov.uk/uksi/2009/3096/article/3/g)
 
-[^key-2494e758cbd63b4a90aa16b3e21785d6]: Textual amendment: Words in s. 139(9)(ca) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 116(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/116/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-2494e758cbd63b4a90aa16b3e21785d6]: Textual amendment: Words in s. 139(9)(ca) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 116(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/116/a); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-4de71a56a3c84e79ad4b923ee35e4f92]: Textual amendment: Words in s. 139(9)(ca) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 116(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/116/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-4de71a56a3c84e79ad4b923ee35e4f92]: Textual amendment: Words in s. 139(9)(ca) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 116(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/116/b); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Saving for Trinity House and protection of navigation[^key-11ded6c669429bb947c27a67bfe274a5]
+## 45. Saving for Trinity House and protection of navigation[^c-11ded6c669429bb947c27a67bfe274a5]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11ded6c669429bb947c27a67bfe274a5]: Commencement: Art. 45 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-11ded6c669429bb947c27a67bfe274a5]: Commencement: Art. 45 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

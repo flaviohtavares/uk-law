@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 111. Calculation of capital in the United Kingdom[^key-8cc9a1e59b323f2f2b2dc8ea3435c2e5]
+## 111. Calculation of capital in the United Kingdom[^c-8cc9a1e59b323f2f2b2dc8ea3435c2e5]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ Capital which a claimant possesses in the United Kingdom shall be calculated—
 
 ## Annotations
 
-[^key-8cc9a1e59b323f2f2b2dc8ea3435c2e5]: Commencement: Reg. 111 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-8cc9a1e59b323f2f2b2dc8ea3435c2e5]: Commencement: Reg. 111 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)

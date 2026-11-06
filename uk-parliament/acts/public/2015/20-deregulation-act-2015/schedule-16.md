@@ -48,7 +48,7 @@ Section 66
 
 ### Home-school agreements
 
-**2.**[^key-e36e87fae58a5fb2eb5a098b959a72ab] (1) Omit sections 110 and 111 of the School Standards and Framework Act 1998 (which require the governing bodies of certain schools to adopt home-school agreements), and the italic cross-heading before those sections.
+**2.**[^c-e36e87fae58a5fb2eb5a098b959a72ab] (1) Omit sections 110 and 111 of the School Standards and Framework Act 1998 (which require the governing bodies of certain schools to adopt home-school agreements), and the italic cross-heading before those sections.
 
 (2) In consequence of sub-paragraph (1)—
 
@@ -71,7 +71,7 @@ Section 66
 
 ### Staffing matters
 
-**4.**[^key-ee7ba383cb1117b670387cb2cddd8885] (1) Section 35(8) of the Education Act 2002 (which requires local authorities etc to have regard to guidance in relation to certain staffing matters at community, voluntary controlled and community special schools and maintained nursery schools) ceases to have effect in relation to schools in England.
+**4.**[^c-ee7ba383cb1117b670387cb2cddd8885] (1) Section 35(8) of the Education Act 2002 (which requires local authorities etc to have regard to guidance in relation to certain staffing matters at community, voluntary controlled and community special schools and maintained nursery schools) ceases to have effect in relation to schools in England.
 
 (2) Accordingly, in section 35(8)—
 
@@ -80,7 +80,7 @@ Section 66
 - (c) omit paragraph (a) and the “or” following it;
 - (d) in paragraph (b), omit “in relation to Wales,”.
 
-**5.**[^key-ca47b22117bbfc9505e54dbe4095977f] (1) Section 36(8) of the Education Act 2002 (which requires local authorities etc to have regard to guidance in relation to certain staffing matters at foundation, voluntary aided and foundation special schools) ceases to have effect in relation to schools in England.
+**5.**[^c-ca47b22117bbfc9505e54dbe4095977f] (1) Section 36(8) of the Education Act 2002 (which requires local authorities etc to have regard to guidance in relation to certain staffing matters at foundation, voluntary aided and foundation special schools) ceases to have effect in relation to schools in England.
 
 (2) Accordingly, in section 36(8)—
 
@@ -117,8 +117,8 @@ Section 66
 
 ## Annotations
 
-[^key-e36e87fae58a5fb2eb5a098b959a72ab]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/16/paragraph/2) in force at 1.1.2016 by [S.I. 2015/2074](https://www.legislation.gov.uk/uksi/2015/2074), [art. 2](https://www.legislation.gov.uk/uksi/2015/2074/article/2)
+[^c-e36e87fae58a5fb2eb5a098b959a72ab]: Commencement: [Sch. 16 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/16/paragraph/2) in force at 1.1.2016 by [S.I. 2015/2074](https://www.legislation.gov.uk/uksi/2015/2074), [art. 2](https://www.legislation.gov.uk/uksi/2015/2074/article/2)
 
-[^key-ee7ba383cb1117b670387cb2cddd8885]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/16/paragraph/4) in force at 1.1.2016 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1732/article/3/a)
+[^c-ee7ba383cb1117b670387cb2cddd8885]: Commencement: [Sch. 16 para. 4](https://www.legislation.gov.uk/ukpga/2015/20/schedule/16/paragraph/4) in force at 1.1.2016 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1732/article/3/a)
 
-[^key-ca47b22117bbfc9505e54dbe4095977f]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/16/paragraph/5) in force at 1.1.2016 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1732/article/3/a)
+[^c-ca47b22117bbfc9505e54dbe4095977f]: Commencement: [Sch. 16 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/16/paragraph/5) in force at 1.1.2016 by [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 3(a)](https://www.legislation.gov.uk/uksi/2015/1732/article/3/a)

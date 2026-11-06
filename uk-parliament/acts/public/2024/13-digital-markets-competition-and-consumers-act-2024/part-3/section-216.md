@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 216. Enforcement of requirements relating to secondary ticketing[^key-8e5c87b1075657eb1e55e1a85199ec74][^key-856f29f737f470c218b26c7f2a523bd8]
+## 216. Enforcement of requirements relating to secondary ticketing[^c-8e5c87b1075657eb1e55e1a85199ec74][^c-856f29f737f470c218b26c7f2a523bd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8e5c87b1075657eb1e55e1a85199ec74]: Commencement: S. 216 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-8e5c87b1075657eb1e55e1a85199ec74]: Commencement: S. 216 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-856f29f737f470c218b26c7f2a523bd8]: Commencement: [S. 216](https://www.legislation.gov.uk/ukpga/2024/13/section/216) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-856f29f737f470c218b26c7f2a523bd8]: Commencement: [S. 216](https://www.legislation.gov.uk/ukpga/2024/13/section/216) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

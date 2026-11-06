@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Amendment of regulation 3 (interpretation: regulated activity)[^key-53997abdf78a7d0950155775a0eddaab][^key-4a2afc4c658b08c88d5bcd2e06a6da86]
+## 6. Amendment of regulation 3 (interpretation: regulated activity)[^c-53997abdf78a7d0950155775a0eddaab][^c-4a2afc4c658b08c88d5bcd2e06a6da86]
 
 *Extent: S*
 
@@ -48,6 +48,6 @@ In regulation 3 (interpretation: regulated activity)—
 
 ## Annotations
 
-[^key-53997abdf78a7d0950155775a0eddaab]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/165/regulation/6) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(b)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/b/5)
+[^c-53997abdf78a7d0950155775a0eddaab]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/165/regulation/6) in force at 1.6.2025 for specified purposes (subject to reg. 1(5)), see [reg. 1(4)(b)(5)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/4/b/5)
 
-[^key-4a2afc4c658b08c88d5bcd2e06a6da86]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/165/regulation/6) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-4a2afc4c658b08c88d5bcd2e06a6da86]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2025/165/regulation/6) in force at 1.11.2025 in so far as not already in force, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

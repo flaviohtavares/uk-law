@@ -22,8 +22,8 @@ summary: ''
 
 (1) An eligible student (“A”) qualifies in connection with A's attendance on a designated course for the parents' learning allowance if A has one or more dependants who are dependent children.
 
-(2) The amount of parents' learning allowance payable in respect of an academic year is calculated in accordance with regulation 47, the basic amount being £2,024[^key-aa4fbfbd3c03accb24eba971bb06d13f].
+(2) The amount of parents' learning allowance payable in respect of an academic year is calculated in accordance with regulation 47, the basic amount being £2,024[^c-aa4fbfbd3c03accb24eba971bb06d13f].
 
 ## Annotations
 
-[^key-aa4fbfbd3c03accb24eba971bb06d13f]: Textual amendment: Sum in reg. 46(2) substituted (6.3.2025) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2025 (S.I. 2025/162)](https://www.legislation.gov.uk/uksi/2025/162), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/162/regulation/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/162/schedule/2) (with [reg. 2(2)(c)(4)](https://www.legislation.gov.uk/uksi/2025/162/regulation/2/2/c/4))
+[^c-aa4fbfbd3c03accb24eba971bb06d13f]: Textual amendment: Sum in reg. 46(2) substituted (6.3.2025) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2025 (S.I. 2025/162)](https://www.legislation.gov.uk/uksi/2025/162), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2025/162/regulation/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2025/162/schedule/2) (with [reg. 2(2)(c)(4)](https://www.legislation.gov.uk/uksi/2025/162/regulation/2/2/c/4))

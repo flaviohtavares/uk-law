@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88. Modification of section 67 for Hague Convention adoptions[^key-98ec81ae4591f576d33a3a8a07846184]
+## 88. Modification of section 67 for Hague Convention adoptions[^c-98ec81ae4591f576d33a3a8a07846184]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98ec81ae4591f576d33a3a8a07846184]: Commencement: S. 88 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-98ec81ae4591f576d33a3a8a07846184]: Commencement: S. 88 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/f) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

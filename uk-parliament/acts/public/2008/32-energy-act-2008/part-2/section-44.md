@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-bb4674d3c9ef7e668b4d15ba6c2030a0] Part 1 of the Electricity Act 1989 (electricity supply) is amended as follows.
+(1)[^c-bb4674d3c9ef7e668b4d15ba6c2030a0] Part 1 of the Electricity Act 1989 (electricity supply) is amended as follows.
 
-(2)[^key-bb4674d3c9ef7e668b4d15ba6c2030a0] After section 6C insert—
+(2)[^c-bb4674d3c9ef7e668b4d15ba6c2030a0] After section 6C insert—
 
 > **6D. Section 6C: supplemental provision**
 >
@@ -99,7 +99,7 @@ summary: ''
 >
 > Schedule 2A (which provides for property schemes in connection with grants of offshore transmission licences) shall have effect.
 
-(3)[^key-a3cc23cd80aa046a7dbf7fad1e34e1f5][^key-176a9d6ab0d835f7f8a458075ca88cd1] In section 64 (interpretation of Part 1), after subsection (1) insert—
+(3)[^c-a3cc23cd80aa046a7dbf7fad1e34e1f5][^c-176a9d6ab0d835f7f8a458075ca88cd1] In section 64 (interpretation of Part 1), after subsection (1) insert—
 
 > (1A) An electric line is a relevant offshore line for the purposes of the definition in subsection (1) of “high voltage line” if—
 >
@@ -110,12 +110,12 @@ summary: ''
 >
 > (1AA) In subsection (1A)(a) “**GB internal waters**” means waters in or adjacent to Great Britain which are between the mean low water mark and the seaward limits of the territorial sea adjacent to Great Britain, but do not form part of that territorial sea.
 
-(4)[^key-bb4674d3c9ef7e668b4d15ba6c2030a0] Before Schedule 3 insert the Schedule set out in Schedule 2 (property schemes).
+(4)[^c-bb4674d3c9ef7e668b4d15ba6c2030a0] Before Schedule 3 insert the Schedule set out in Schedule 2 (property schemes).
 
 ## Annotations
 
-[^key-bb4674d3c9ef7e668b4d15ba6c2030a0]: Commencement: S. 44(1)(2)(4) in force at 20.5.2009 by [S.I. 2009/1270](https://www.legislation.gov.uk/uksi/2009/1270), [art. 2](https://www.legislation.gov.uk/uksi/2009/1270/article/2)
+[^c-bb4674d3c9ef7e668b4d15ba6c2030a0]: Commencement: S. 44(1)(2)(4) in force at 20.5.2009 by [S.I. 2009/1270](https://www.legislation.gov.uk/uksi/2009/1270), [art. 2](https://www.legislation.gov.uk/uksi/2009/1270/article/2)
 
-[^key-a3cc23cd80aa046a7dbf7fad1e34e1f5]: Commencement: [S. 44(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/44/3) in force at 29.7.2010 for specified purposes by [S.I. 2010/1888](https://www.legislation.gov.uk/uksi/2010/1888), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1888/article/2/1)
+[^c-a3cc23cd80aa046a7dbf7fad1e34e1f5]: Commencement: [S. 44(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/44/3) in force at 29.7.2010 for specified purposes by [S.I. 2010/1888](https://www.legislation.gov.uk/uksi/2010/1888), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1888/article/2/1)
 
-[^key-176a9d6ab0d835f7f8a458075ca88cd1]: Commencement: [S. 44(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/44/3) in force at 10.6.2014 in so far as not already in force by [S.I. 2014/1461](https://www.legislation.gov.uk/uksi/2014/1461), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1461/article/2/a)
+[^c-176a9d6ab0d835f7f8a458075ca88cd1]: Commencement: [S. 44(3)](https://www.legislation.gov.uk/ukpga/2008/32/section/44/3) in force at 10.6.2014 in so far as not already in force by [S.I. 2014/1461](https://www.legislation.gov.uk/uksi/2014/1461), [art. 2(a)](https://www.legislation.gov.uk/uksi/2014/1461/article/2/a)

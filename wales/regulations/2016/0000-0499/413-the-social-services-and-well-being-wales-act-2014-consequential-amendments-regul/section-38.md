@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**38.**[^key-cae2130a8d819d4390c408168620eb7a] The Health and Social Services and Social Security Adjudications Act 1983 is amended as follows.
+**38.**[^c-cae2130a8d819d4390c408168620eb7a] The Health and Social Services and Social Security Adjudications Act 1983 is amended as follows.
 
 ## Annotations
 
-[^key-cae2130a8d819d4390c408168620eb7a]: Commencement: Reg. 38 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-cae2130a8d819d4390c408168620eb7a]: Commencement: Reg. 38 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

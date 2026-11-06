@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**64.**[^key-21491c7fbadf3516c0fb1a12167f5a6a] A person shall not use a drift net or trawl net within 805 metres of any fixed engine used in accordance with section 74 of the Act.
+**64.**[^c-21491c7fbadf3516c0fb1a12167f5a6a] A person shall not use a drift net or trawl net within 805 metres of any fixed engine used in accordance with section 74 of the Act.
 
 ## Annotations
 
-[^key-21491c7fbadf3516c0fb1a12167f5a6a]: Commencement: S. 64 in operation at 1.11.1997, see byelaw 1
+[^c-21491c7fbadf3516c0fb1a12167f5a6a]: Commencement: S. 64 in operation at 1.11.1997, see byelaw 1

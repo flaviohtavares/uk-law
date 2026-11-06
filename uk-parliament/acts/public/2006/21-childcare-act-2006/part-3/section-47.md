@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Independent schools[^key-ea35ee8f539243c24ce929c074f1ad0e]
+## 47. Independent schools[^c-ea35ee8f539243c24ce929c074f1ad0e]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea35ee8f539243c24ce929c074f1ad0e]: Commencement: S. 47 in force at 1.9.2008 by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1), [2](https://www.legislation.gov.uk/uksi/2008/2261/schedule/2))
+[^c-ea35ee8f539243c24ce929c074f1ad0e]: Commencement: S. 47 in force at 1.9.2008 by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1), [2](https://www.legislation.gov.uk/uksi/2008/2261/schedule/2))

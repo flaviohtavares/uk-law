@@ -22,7 +22,7 @@ summary: ''
 
 (1) A deduction from earnings is allowed if—
 
-- (a) the earnings include an amount treated as earnings under section 94(1) or 94A(1) (amount in respect[^key-81f43a48452ed75efa3c7225b9a645b5] of benefit of credit-token treated as earnings), and
+- (a) the earnings include an amount treated as earnings under section 94(1) or 94A(1) (amount in respect[^c-81f43a48452ed75efa3c7225b9a645b5] of benefit of credit-token treated as earnings), and
 - (b) had the employee incurred and paid the cost of the goods or services obtained by using the token, the whole or part of the amount paid would have been deductible from the earnings under Chapter 2 or 5 of this Part.
 
 (2) The deduction is equal to the lesser of—
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81f43a48452ed75efa3c7225b9a645b5]: Textual amendment: Words in [s. 363(1)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/363/1/a) substituted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/56)
+[^c-81f43a48452ed75efa3c7225b9a645b5]: Textual amendment: Words in [s. 363(1)(a)](https://www.legislation.gov.uk/ukpga/2003/1/section/363/1/a) substituted (with effect in accordance with Sch. 2 para. 62 of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 2 para. 56](https://www.legislation.gov.uk/ukpga/2017/10/schedule/2/paragraph/56)

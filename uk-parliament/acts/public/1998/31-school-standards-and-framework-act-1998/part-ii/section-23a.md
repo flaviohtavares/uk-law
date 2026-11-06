@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. Foundation and foundation special schools: requirements as to foundations[^key-11ec7ea94bbfc7bc348896036afe3677]
+## 23A. Foundation and foundation special schools: requirements as to foundations[^c-11ec7ea94bbfc7bc348896036afe3677]
 
 *Extent: E+W*
 
@@ -52,19 +52,19 @@ in pursuance of proposals falling to be implemented under regulations under sect
 
 (10) In this section and section 23B—
 
-- [^key-acd4de636d920588cdb7fe6a92001e56]...
-- “**charity trustee**”, in relation to a school to which this section applies, means any individual who is for the purposes of the Charities Act 2011[^key-d43112f12404f2e371a1dcf04db7a251] a charity trustee in relation to the school's foundation;
+- [^c-acd4de636d920588cdb7fe6a92001e56]...
+- “**charity trustee**”, in relation to a school to which this section applies, means any individual who is for the purposes of the Charities Act 2011[^c-d43112f12404f2e371a1dcf04db7a251] a charity trustee in relation to the school's foundation;
 - “**foundation**” means a foundation established otherwise than under this Act;
 - “**institution**” has the same meaning as in the the Charities Act 2011;
-- “local authority” includes a non-metropolitan district council for an area for which there is a county council;[^key-473522defa20a0129eb4750d891f32dc]
+- “local authority” includes a non-metropolitan district council for an area for which there is a county council;[^c-473522defa20a0129eb4750d891f32dc]
 - “**purpose**” includes object.
 
 ## Annotations
 
-[^key-11ec7ea94bbfc7bc348896036afe3677]: Textual amendment: [Ss. 23A](https://www.legislation.gov.uk/ukpga/1998/31/section/23A), [23B](https://www.legislation.gov.uk/ukpga/1998/31/section/23B) inserted (1.4.2007 for the insertion of ss. 23A(9)(10), 23B, 25.5.2007 in so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 33](https://www.legislation.gov.uk/ukpga/2006/40/section/33), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3) (with [s. 33(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/33/2)); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [arts. 5(h)](https://www.legislation.gov.uk/uksi/2007/935/article/5/h), [7(h)](https://www.legislation.gov.uk/uksi/2007/935/article/7/h)
+[^c-11ec7ea94bbfc7bc348896036afe3677]: Textual amendment: [Ss. 23A](https://www.legislation.gov.uk/ukpga/1998/31/section/23A), [23B](https://www.legislation.gov.uk/ukpga/1998/31/section/23B) inserted (1.4.2007 for the insertion of ss. 23A(9)(10), 23B, 25.5.2007 in so far as not already in force) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 33](https://www.legislation.gov.uk/ukpga/2006/40/section/33), [188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3) (with [s. 33(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/33/2)); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [arts. 5(h)](https://www.legislation.gov.uk/uksi/2007/935/article/5/h), [7(h)](https://www.legislation.gov.uk/uksi/2007/935/article/7/h)
 
-[^key-acd4de636d920588cdb7fe6a92001e56]: Textual amendment: Words in s. 23A(10) omitted (14.3.2012 immediately before the [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25) comes into force) by virtue of [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396), [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1), [Sch. paras. 40(1)(2)(d)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/40/1/2/d)
+[^c-acd4de636d920588cdb7fe6a92001e56]: Textual amendment: Words in s. 23A(10) omitted (14.3.2012 immediately before the [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25) comes into force) by virtue of [The Charities (Pre-consolidation Amendments) Order 2011 (S.I. 2011/1396)](https://www.legislation.gov.uk/uksi/2011/1396), [art. 1](https://www.legislation.gov.uk/uksi/2011/1396/article/1), [Sch. paras. 40(1)(2)(d)](https://www.legislation.gov.uk/uksi/2011/1396/schedule/paragraph/40/1/2/d)
 
-[^key-d43112f12404f2e371a1dcf04db7a251]: Textual amendment: Words in [s. 23A(10)](https://www.legislation.gov.uk/ukpga/1998/31/section/23A/10) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 76](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/76) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-d43112f12404f2e371a1dcf04db7a251]: Textual amendment: Words in [s. 23A(10)](https://www.legislation.gov.uk/ukpga/1998/31/section/23A/10) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 76](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/76) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
 
-[^key-473522defa20a0129eb4750d891f32dc]: Textual amendment: Words in [s. 23A(10)](https://www.legislation.gov.uk/ukpga/1998/31/section/23A/10) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/5)
+[^c-473522defa20a0129eb4750d891f32dc]: Textual amendment: Words in [s. 23A(10)](https://www.legislation.gov.uk/ukpga/1998/31/section/23A/10) inserted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 10(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/10/5)

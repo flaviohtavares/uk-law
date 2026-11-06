@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Citation and Commencement[^key-0b10a0a8782ee7793354c38a6d680ac7]
+## 1. Citation and Commencement[^c-0b10a0a8782ee7793354c38a6d680ac7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ These Regulations may be cited as the Insolvency Amendment (EU 2015/848) Regulat
 
 ## Annotations
 
-[^key-0b10a0a8782ee7793354c38a6d680ac7]: Commencement: Reg. 1 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)
+[^c-0b10a0a8782ee7793354c38a6d680ac7]: Commencement: Reg. 1 in force at 26.6.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1)

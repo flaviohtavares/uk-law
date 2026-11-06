@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State for Children, Schools and Families makes the following Regulations in exercise of the powers conferred by section 12A(4) of the Children Act 2004[^f00001]:
 
-## 1. Citation and commencement[^key-e04d395cbb245f088699bbd2ddb1ffd0]
+## 1. Citation and commencement[^c-e04d395cbb245f088699bbd2ddb1ffd0]
 
 These Regulations may be cited as the Children’s Trust Board (Relevant Partners) (Exceptions) (England) Regulations 2010 and come into force on 1st April 2010.
 
-## 2. Prescribed relevant partners for the purposes of section 12A(4) of the Children Act 2004[^key-cc15ca56f24a8f9c1bbee9c8a460b559]
+## 2. Prescribed relevant partners for the purposes of section 12A(4) of the Children Act 2004[^c-cc15ca56f24a8f9c1bbee9c8a460b559]
 
-An integrated care board[^key-17955d51c6a42625ad1f5937f969bb2e] and NHS England[^key-e9129a8c46e655b78f3c714636d21e98] are each a relevant partner of a prescribed description for the purposes of section 12A(4) of the Children Act 2004.
+An integrated care board[^c-17955d51c6a42625ad1f5937f969bb2e] and NHS England[^c-e9129a8c46e655b78f3c714636d21e98] are each a relevant partner of a prescribed description for the purposes of section 12A(4) of the Children Act 2004.
 
 Dawn Primarolo
 
@@ -72,10 +72,10 @@ Section 12A of the Children Act 2004 requires a children’s services authority 
 
 [^f00001]: Footnote: [2004 c. 31](https://www.legislation.gov.uk/ukpga/2004/31). Section 12A was inserted by section 194(2) of the Apprenticeships, Skills, Children and Learning Act [2009 (c.22)](https://www.legislation.gov.uk/ukpga/2009/22).
 
-[^key-e04d395cbb245f088699bbd2ddb1ffd0]: Commencement: Reg. 1 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/590/regulation/1)
+[^c-e04d395cbb245f088699bbd2ddb1ffd0]: Commencement: Reg. 1 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/590/regulation/1)
 
-[^key-cc15ca56f24a8f9c1bbee9c8a460b559]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/590/regulation/1)
+[^c-cc15ca56f24a8f9c1bbee9c8a460b559]: Commencement: Reg. 2 in force at 1.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/590/regulation/1)
 
-[^key-17955d51c6a42625ad1f5937f969bb2e]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2010/590) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-17955d51c6a42625ad1f5937f969bb2e]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2010/590) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
-[^key-e9129a8c46e655b78f3c714636d21e98]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-e9129a8c46e655b78f3c714636d21e98]: Textual amendment: Words in Instrument substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)

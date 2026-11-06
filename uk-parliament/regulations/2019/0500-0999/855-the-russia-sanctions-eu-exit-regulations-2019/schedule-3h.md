@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3H — Coal and Coal Products[^key-799a522397ecf2d4900fc77ab57b445a]
+## SCHEDULE 3H — Coal and Coal Products[^c-799a522397ecf2d4900fc77ab57b445a]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ Paragraph 1 of Schedule 3 applies for the purposes of interpreting Part 2.
 
 ## Annotations
 
-[^key-799a522397ecf2d4900fc77ab57b445a]: Textual amendment: Schs. 3E-3H inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2022/850/regulation/26)
+[^c-799a522397ecf2d4900fc77ab57b445a]: Textual amendment: Schs. 3E-3H inserted (21.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 14) Regulations 2022 (S.I. 2022/850)](https://www.legislation.gov.uk/uksi/2022/850), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/850/regulation/1/2), [26](https://www.legislation.gov.uk/uksi/2022/850/regulation/26)

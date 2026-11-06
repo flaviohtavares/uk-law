@@ -35,30 +35,30 @@ approving the active substance flutianil, in accordance with Regulation (EC) No 
 
 (Text with EEA relevance) (revoked)
 
-[^key-057d631d06fe68cfe8d188a884fa194b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-057d631d06fe68cfe8d188a884fa194b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Approval of active substance[^key-057d631d06fe68cfe8d188a884fa194b]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^key-057d631d06fe68cfe8d188a884fa194b]
+## Article 1. Approval of active substance[^c-057d631d06fe68cfe8d188a884fa194b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Entry into force[^key-057d631d06fe68cfe8d188a884fa194b]
+## Article 2. Amendments to Implementing Regulation (EU) No 540/2011[^c-057d631d06fe68cfe8d188a884fa194b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-057d631d06fe68cfe8d188a884fa194b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-057d631d06fe68cfe8d188a884fa194b]
+## Article 3. Entry into force[^c-057d631d06fe68cfe8d188a884fa194b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-057d631d06fe68cfe8d188a884fa194b]
+[^c-057d631d06fe68cfe8d188a884fa194b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-057d631d06fe68cfe8d188a884fa194b]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-057d631d06fe68cfe8d188a884fa194b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-057d631d06fe68cfe8d188a884fa194b]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/3), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2019/1410/schedule/paragraph/22) (with [reg. 4(2)-(6)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/4/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-057d631d06fe68cfe8d188a884fa194b]: Textual amendment: Regulation revoked (31.12.2020) by [The Pesticides (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1410)](https://www.legislation.gov.uk/uksi/2019/1410), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/1/3), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2019/1410/schedule/paragraph/22) (with [reg. 4(2)-(6)](https://www.legislation.gov.uk/uksi/2019/1410/regulation/4/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/3), [7(2)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/7/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

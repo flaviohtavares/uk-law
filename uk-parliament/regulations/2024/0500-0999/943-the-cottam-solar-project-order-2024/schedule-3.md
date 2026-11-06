@@ -22,7 +22,7 @@ summary: ''
 
 Article 6
 
-**1.**[^key-eeeac5e53fe77825f85dd15b344b0f95] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
+**1.**[^c-eeeac5e53fe77825f85dd15b344b0f95] The following provisions do not apply in so far as they relate to the construction of any numbered work or the carrying out of any operation required for the purpose of, or in connection with, the construction, operation, maintenance or decommissioning of the authorised development—
 
 - (a) Great Grimsby and Sheffield Junction Railway Act 1845[^f00055];
 - (b) Great Northern Railway Act 1846[^f00056];
@@ -37,7 +37,7 @@ Article 6
 
 ## Annotations
 
-[^key-eeeac5e53fe77825f85dd15b344b0f95]: Commencement: Sch. 3 para. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-eeeac5e53fe77825f85dd15b344b0f95]: Commencement: Sch. 3 para. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
 [^f00055]: Footnote: 1845 c. l.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Relevant persons[^key-08988716ce2081fea63d459930d2e808][^key-57c8a9ccdaa3abc8b33095b71037ebb9]
+## 7. Relevant persons[^c-08988716ce2081fea63d459930d2e808][^c-57c8a9ccdaa3abc8b33095b71037ebb9]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-08988716ce2081fea63d459930d2e808]: Commencement: S. 7 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
+[^c-08988716ce2081fea63d459930d2e808]: Commencement: S. 7 not in force at Royal Assent, see [s. 79](https://www.legislation.gov.uk/ukpga/2022/46/section/79)
 
-[^key-57c8a9ccdaa3abc8b33095b71037ebb9]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/46/section/7) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)
+[^c-57c8a9ccdaa3abc8b33095b71037ebb9]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2022/46/section/7) in force at 29.4.2024 by [S.I. 2023/469](https://www.legislation.gov.uk/uksi/2023/469), [reg. 3](https://www.legislation.gov.uk/uksi/2023/469/regulation/3)

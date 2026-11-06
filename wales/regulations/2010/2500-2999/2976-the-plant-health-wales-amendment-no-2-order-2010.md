@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH, WALES
 
-The Plant Health (Wales) (Amendment) (No. 2) Order 2010 (revoked)[^key-27364e068e07fd6dc841e87f7cf9ddf4]
+The Plant Health (Wales) (Amendment) (No. 2) Order 2010 (revoked)[^c-27364e068e07fd6dc841e87f7cf9ddf4]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 5 January 2011
 
-[^key-27364e068e07fd6dc841e87f7cf9ddf4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27364e068e07fd6dc841e87f7cf9ddf4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-27364e068e07fd6dc841e87f7cf9ddf4]
+## 1. Title, application and commencement[^c-27364e068e07fd6dc841e87f7cf9ddf4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Plant Health (Wales) Order 2006[^key-27364e068e07fd6dc841e87f7cf9ddf4]
+## 2. Amendments to the Plant Health (Wales) Order 2006[^c-27364e068e07fd6dc841e87f7cf9ddf4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-27364e068e07fd6dc841e87f7cf9ddf4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27364e068e07fd6dc841e87f7cf9ddf4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-27364e068e07fd6dc841e87f7cf9ddf4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27364e068e07fd6dc841e87f7cf9ddf4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-27364e068e07fd6dc841e87f7cf9ddf4]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2010/2976) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (revoked) 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [art. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1), [Sch. 18](https://www.legislation.gov.uk/wsi/2018/1064/schedule/18)
+[^c-27364e068e07fd6dc841e87f7cf9ddf4]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2010/2976) revoked (2.11.2018) by [The Plant Health (Wales) Order 2018 (revoked) 2018 (S.I. 2018/1064)](https://www.legislation.gov.uk/wsi/2018/1064), [art. 1(2)](https://www.legislation.gov.uk/wsi/2018/1064/article/1), [Sch. 18](https://www.legislation.gov.uk/wsi/2018/1064/schedule/18)

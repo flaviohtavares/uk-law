@@ -46,30 +46,30 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 30A(3) and (4) and 118(5) to (7) of the Care Standards Act 2000[^f00001].
 
-## 1. Citation, commencement and application[^key-42908de64ac53e7d04fc61e02509298c]
+## 1. Citation, commencement and application[^c-42908de64ac53e7d04fc61e02509298c]
 
 (1) These Regulations may be cited as the Care Standards Act 2000 (Enforcement of Care Standards) (Notification) (England) Regulations 2011 and come into force on 1st April 2011.
 
 (2) These Regulations apply in relation to England only.
 
-## 2. Interpretation[^key-8dc3f1fac8079f695ecf93c80180a1ef]
+## 2. Interpretation[^c-8dc3f1fac8079f695ecf93c80180a1ef]
 
 In these Regulations—
 
 - “the Act” means the Care Standards Act 2000;
 - “P” means a person who is carrying on or managing an establishment or an agency mentioned in section 30A(6) of the Act[^f00002].
 
-## 3. Information to be contained in a notification under section 30A(2) of the Act[^key-0aad6398c1dc3614fd1cfce30f244a7c]
+## 3. Information to be contained in a notification under section 30A(2) of the Act[^c-0aad6398c1dc3614fd1cfce30f244a7c]
 
 (1) A notification under section 30A(2) of the Act must contain the information as set out in paragraphs (2) to (4).
 
 (2) In relation to all notifications under section 30A(2) of the Act—
 
-- (a) a description of and the name and address of the establishment or agency , and in the case of a supported accommodation undertaking, the address of the principal office[^key-0b3b4f1539acb0fd564907d60beafb21] [^f00003];
-- (b) the registration number of the establishment , agency or supported accommodation undertaking[^key-18bf333e9e1167cf84424d983a3d6e90];
-- (c) the name and address (if different from that of the establishment , agency or supported accommodation undertaking[^key-0ce5679d83ea80a5b9335cd4bb5c7263]) of the person carrying on or managing the establishment , agency or supported accommodation undertaking;
+- (a) a description of and the name and address of the establishment or agency , and in the case of a supported accommodation undertaking, the address of the principal office[^c-0b3b4f1539acb0fd564907d60beafb21] [^f00003];
+- (b) the registration number of the establishment , agency or supported accommodation undertaking[^c-18bf333e9e1167cf84424d983a3d6e90];
+- (c) the name and address (if different from that of the establishment , agency or supported accommodation undertaking[^c-0ce5679d83ea80a5b9335cd4bb5c7263]) of the person carrying on or managing the establishment , agency or supported accommodation undertaking;
 - (d) the date on which the notification is sent to the local authority; and
-- (e) whether the notification is sent under section 30A(2)(a), (aa), (ab), (b) or (c)[^key-3a5bce437c2c4f60d8a61239f90dba13] of the Act.
+- (e) whether the notification is sent under section 30A(2)(a), (aa), (ab), (b) or (c)[^c-3a5bce437c2c4f60d8a61239f90dba13] of the Act.
 
 (3) In relation to a notification under section 30A(2)(b) of the Act (notification of proceedings against P for a relevant offence[^f00004])—
 
@@ -77,16 +77,16 @@ In these Regulations—
 - (b) a description of the alleged relevant offence; and
 - (c) the date on which the proceedings are to be heard, if known.
 
-(3A)[^key-6efa761d8a3ad08099df421df6595b16] In relation to a notification under section 30A(2)(aa) (decision to adopt a proposal to suspend the registration of P or to extend any such suspension) or (ab) (notice under section 20B of the Act to suspend the registration of P or to extend any such suspension, or to vary or remove a condition for the time being in force in relation to the registration of P, or to impose an additional condition, where P is managing or carrying on a supported accommodation undertaking) of the Act, the date from which the suspension takes effect and the date on which the suspension ends.
+(3A)[^c-6efa761d8a3ad08099df421df6595b16] In relation to a notification under section 30A(2)(aa) (decision to adopt a proposal to suspend the registration of P or to extend any such suspension) or (ab) (notice under section 20B of the Act to suspend the registration of P or to extend any such suspension, or to vary or remove a condition for the time being in force in relation to the registration of P, or to impose an additional condition, where P is managing or carrying on a supported accommodation undertaking) of the Act, the date from which the suspension takes effect and the date on which the suspension ends.
 
 (3B) In relation to a notification under section 30A(2)(ab) of the Act, where the notice relates to the variation or removal of a condition for the time being in force in relation to the registration of P, or imposes an additional condition, where P is managing or carrying on a supported accommodation undertaking, a description of the condition and the date on which the decision under section 20B(3) of the Act takes effect.
 
-(4)[^key-5736bd056e99b81fa66381df2f112cfd] In relation to a notification under section 30A(2)(c) of the Act (notice under section 22B of the Act restricting accommodation at certain establishments)—
+(4)[^c-5736bd056e99b81fa66381df2f112cfd] In relation to a notification under section 30A(2)(c) of the Act (notice under section 22B of the Act restricting accommodation at certain establishments)—
 
 - (a) the date on which the notice is to cease to have effect if specified in the notice;
 - (b) where the notification relates to a supported accommodation undertaking, the addresses of the premises at which accommodation is restricted.
 
-## 4. Notification of prescribed circumstances under section 30A(3) of the Act[^key-e8cba2e66195d69dbf936330af3bdda6]
+## 4. Notification of prescribed circumstances under section 30A(3) of the Act[^c-e8cba2e66195d69dbf936330af3bdda6]
 
 (1) The circumstances which relate to P prescribed for the purpose of section 30A(3) of the Act are as set out in paragraphs (2) to (4).
 
@@ -96,7 +96,7 @@ In these Regulations—
 - (b) the decision of the Tribunal on an appeal by P against that notice; and
 - (c) where no appeal is brought by P[^f00007].
 
-(2A)[^key-3222e04986863db76bf88dddd6f7b085] In relation to a notice served on P under section 19(3) of the Act (notice of decision of registration authority) to suspend the registration or extend the period of suspension—
+(2A)[^c-3222e04986863db76bf88dddd6f7b085] In relation to a notice served on P under section 19(3) of the Act (notice of decision of registration authority) to suspend the registration or extend the period of suspension—
 
 - (a) an appeal by P to the Tribunal against that notice;
 - (b) the decision of the Tribunal on an appeal by P against that notice; and
@@ -119,7 +119,7 @@ In these Regulations—
 
 - (a) if that notice ceases to have effect[^f00008];
 - (b) an appeal by P to the Tribunal against that notice; and
-- (c) a decision by the Tribunal under section 21(4A)[^f00009] of the Act to confirm the notice or direct that the notice ceases to have effect[^key-2d0e33a1a555d2cc8e0f88e5e1262b3f].
+- (c) a decision by the Tribunal under section 21(4A)[^f00009] of the Act to confirm the notice or direct that the notice ceases to have effect[^c-2d0e33a1a555d2cc8e0f88e5e1262b3f].
 
 Tim Loughton
 
@@ -143,40 +143,40 @@ An impact assessment has not been prepared for this instrument as impacts on bus
 
 [^f00001]: Footnote: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14). Section 30A was inserted into the Care Standards Act (“the Act”) by section 29 of the Children and Young Persons Act [2008 (c.23)](https://www.legislation.gov.uk/ukpga/2008/23) (“the 2008 Act”) and was amended by section 95 of, Schedule 1 and Schedule 5 to the Health and Social Care Act [2008 (c.14)](https://www.legislation.gov.uk/ukpga/2008/14). “Prescribed” means prescribed in regulations made in relation to England by the Secretary of State – see section 30A(7) of the Act.
 
-[^key-42908de64ac53e7d04fc61e02509298c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/552/regulation/1) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/552/regulation/1/1)
+[^c-42908de64ac53e7d04fc61e02509298c]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/552/regulation/1) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/552/regulation/1/1)
 
-[^key-8dc3f1fac8079f695ecf93c80180a1ef]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/552/regulation/2) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/552/regulation/1/1)
+[^c-8dc3f1fac8079f695ecf93c80180a1ef]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/552/regulation/2) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/552/regulation/1/1)
 
 [^f00002]: Footnote: See section 30A(6) of the Act for a list of the establishments and agencies to which section 30A applies.
 
-[^key-0aad6398c1dc3614fd1cfce30f244a7c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/552/regulation/3) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/552/regulation/1/1)
+[^c-0aad6398c1dc3614fd1cfce30f244a7c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/552/regulation/3) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/552/regulation/1/1)
 
-[^key-0b3b4f1539acb0fd564907d60beafb21]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/2/a) inserted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(2)(a)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/2/a) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-0b3b4f1539acb0fd564907d60beafb21]: Textual amendment: Words in [reg. 3(2)(a)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/2/a) inserted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(2)(a)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/2/a) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
 [^f00003]: Footnote: See section 30A(6) of the Act for a list of the establishments and agencies to which section 30A applies.
 
-[^key-18bf333e9e1167cf84424d983a3d6e90]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/2/b) substituted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(2)(b)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/2/b) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-18bf333e9e1167cf84424d983a3d6e90]: Textual amendment: Words in [reg. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/2/b) substituted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(2)(b)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/2/b) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
-[^key-0ce5679d83ea80a5b9335cd4bb5c7263]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/2/c) substituted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(2)(b)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/2/b) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-0ce5679d83ea80a5b9335cd4bb5c7263]: Textual amendment: Words in [reg. 3(2)(c)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/2/c) substituted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(2)(b)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/2/b) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
-[^key-3a5bce437c2c4f60d8a61239f90dba13]: Textual amendment: Words in [reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/2/e) substituted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(2)(c)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/2/c) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-3a5bce437c2c4f60d8a61239f90dba13]: Textual amendment: Words in [reg. 3(2)(e)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/2/e) substituted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(2)(c)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/2/c) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
 [^f00004]: Footnote: See section 30A(7) of the Act for the definition of “relevant offence”.
 
-[^key-6efa761d8a3ad08099df421df6595b16]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/3A)[(3B)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/3B) inserted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(2)(d)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/2/d) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-6efa761d8a3ad08099df421df6595b16]: Textual amendment: [Reg. 3(3A)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/3A)[(3B)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/3B) inserted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(2)(d)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/2/d) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
-[^key-5736bd056e99b81fa66381df2f112cfd]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/4) substituted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(2)(e)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/2/e) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-5736bd056e99b81fa66381df2f112cfd]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2011/552/regulation/3/4) substituted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(2)(e)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/2/e) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
-[^key-e8cba2e66195d69dbf936330af3bdda6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/552/regulation/4) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/552/regulation/1/1)
+[^c-e8cba2e66195d69dbf936330af3bdda6]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/552/regulation/4) in force at 1.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/552/regulation/1/1)
 
 [^f00006]: Footnote: See section 121 of the Act for the definition of “the Tribunal”. An appeal to the Tribunal may be made under section 21 of the Act.
 
 [^f00007]: Footnote: Section 19(5) of the Act provides that, where no appeal is brought by P, a decision of the registration authority to adopt a proposal to cancel the registration shall not take effect until the expiration of 28 days after service on P of the notice of the decision to cancel the registration. Her Majesty’s Chief Inspector of Education, Children’s Services and Skills is the registration authority in relation to England under section 5 of the Act.
 
-[^key-3222e04986863db76bf88dddd6f7b085]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/2011/552/regulation/4/2A)[(2B)](https://www.legislation.gov.uk/uksi/2011/552/regulation/4/2B) inserted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(3)(a)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/3/a) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-3222e04986863db76bf88dddd6f7b085]: Textual amendment: [Reg. 4(2A)](https://www.legislation.gov.uk/uksi/2011/552/regulation/4/2A)[(2B)](https://www.legislation.gov.uk/uksi/2011/552/regulation/4/2B) inserted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(3)(a)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/3/a) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
 
 [^f00008]: Footnote: See section 22B(4) of the Act for the circumstances in which a notice ceases to have effect.
 
 [^f00009]: Footnote: Section 21(4A) was inserted into the Act by section 28(4) of the 2008 Act.
 
-[^key-2d0e33a1a555d2cc8e0f88e5e1262b3f]: Textual amendment: Words in [reg. 4(4)(c)](https://www.legislation.gov.uk/uksi/2011/552/regulation/4/4/c) inserted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(3)(b)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/3/b) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))
+[^c-2d0e33a1a555d2cc8e0f88e5e1262b3f]: Textual amendment: Words in [reg. 4(4)(c)](https://www.legislation.gov.uk/uksi/2011/552/regulation/4/4/c) inserted (28.4.2023) by [The Supported Accommodation (England) Regulations 2023 (S.I. 2023/416)](https://www.legislation.gov.uk/uksi/2023/416), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2), [30(3)(b)](https://www.legislation.gov.uk/uksi/2023/416/regulation/30/3/b) (with [reg. 44](https://www.legislation.gov.uk/uksi/2023/416/regulation/44))

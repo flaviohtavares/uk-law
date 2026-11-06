@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 167. Power of Welsh Ministers to make consequential provision[^key-1c838888d233bf3570f76d54fc31e4c8]
+## 167. Power of Welsh Ministers to make consequential provision[^c-1c838888d233bf3570f76d54fc31e4c8]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c838888d233bf3570f76d54fc31e4c8]: Commencement: S. 167 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)
+[^c-1c838888d233bf3570f76d54fc31e4c8]: Commencement: S. 167 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)

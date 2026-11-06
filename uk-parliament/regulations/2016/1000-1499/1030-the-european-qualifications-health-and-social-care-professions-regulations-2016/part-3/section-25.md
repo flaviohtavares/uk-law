@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Insertion of Schedules 2C and 2D[^key-4cf973895a51505e39c350babd4c58e3]
+## 25. Insertion of Schedules 2C and 2D[^c-4cf973895a51505e39c350babd4c58e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -356,4 +356,4 @@ After Schedule 2B insert—
 
 ## Annotations
 
-[^key-4cf973895a51505e39c350babd4c58e3]: Commencement: Reg. 25 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-4cf973895a51505e39c350babd4c58e3]: Commencement: Reg. 25 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)

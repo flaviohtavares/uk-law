@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Release of wellboat detained under section 8[^key-c389af72aac0ce74148a8b054b8bf568]
+## 9. Release of wellboat detained under section 8[^c-c389af72aac0ce74148a8b054b8bf568]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c389af72aac0ce74148a8b054b8bf568]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2013/7/section/9) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-c389af72aac0ce74148a8b054b8bf568]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2013/7/section/9) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

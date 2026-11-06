@@ -26,7 +26,7 @@ summary: ''
 - (b) the amount, if any currently payable under the agreement by the debtor to the creditor, and
 - (c) the amounts and due dates of any payments which, if the debtor does not draw further on the account, will later become payable under the agreement by the debtor to the creditor.
 
-(1A)[^key-c57871e058a6558b194dc817b3d73bee] Where a request under subsection (1) also amounts to a request under regulation 49 of the Payment Services Regulations 2017 (information during period of contract), subsection (1) applies as if the words “and payment of a fee of £1” were omitted.
+(1A)[^c-c57871e058a6558b194dc817b3d73bee] Where a request under subsection (1) also amounts to a request under regulation 49 of the Payment Services Regulations 2017 (information during period of contract), subsection (1) applies as if the words “and payment of a fee of £1” were omitted.
 
 (2) If the creditor possesses insufficient information to enable him to ascertain the amounts and dates mentioned in subsection (1)(c), he shall be taken to comply with that paragraph if his statement under subsection (1) gives the basis on which, under the regulated agreement, they would fall to be ascertained.
 
@@ -58,7 +58,7 @@ summary: ''
 
 [^c2431281]: Textual amendment: "£1" substituted (1.5.1998) in s. 78(1) by [S.I. 1998/997](https://www.legislation.gov.uk/uksi/1998/997), [art. 3](https://www.legislation.gov.uk/uksi/1998/997/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1998/997/schedule)
 
-[^key-c57871e058a6558b194dc817b3d73bee]: Textual amendment: [S. 78(1A)](https://www.legislation.gov.uk/ukpga/1974/39/section/78/1A) inserted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 1(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
+[^c-c57871e058a6558b194dc817b3d73bee]: Textual amendment: [S. 78(1A)](https://www.legislation.gov.uk/ukpga/1974/39/section/78/1A) inserted (13.1.2018) by [The Payment Services Regulations 2017 (S.I. 2017/752)](https://www.legislation.gov.uk/uksi/2017/752), [reg. 1(6)](https://www.legislation.gov.uk/uksi/2017/752/regulation/1/6), [Sch. 8 para. 1(a)](https://www.legislation.gov.uk/uksi/2017/752/schedule/8/paragraph/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/752/regulation/3))
 
 [^c18821551]: Textual amendment: S. 78(4A) inserted (16.6.2006) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), ss. {7(1)}, 71(2) (with Sch. 3 para. 3); [S.I. 2006/1508](https://www.legislation.gov.uk/uksi/2006/1508), [art. 3(1)](https://www.legislation.gov.uk/uksi/2006/1508/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1508/schedule/1)
 

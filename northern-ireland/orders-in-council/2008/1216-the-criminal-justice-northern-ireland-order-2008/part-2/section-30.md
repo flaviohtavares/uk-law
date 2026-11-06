@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Recall of prisoners released early under Article 19[^key-c618e268e212bd9d986d6f8bbc6d0818]
+## 30. Recall of prisoners released early under Article 19[^c-c618e268e212bd9d986d6f8bbc6d0818]
 
 *Extent: N.I.*
 
@@ -43,7 +43,7 @@ the Department of Justice may, if the curfew condition is still in force, revoke
 
 ## Annotations
 
-[^key-c618e268e212bd9d986d6f8bbc6d0818]: Commencement: [Art. 30](https://www.legislation.gov.uk/nisi/2008/1216/article/30) in operation at 1.6.2015 by [S.R. 2015/255](https://www.legislation.gov.uk/nisr/2015/255), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/255/article/2/d)
+[^c-c618e268e212bd9d986d6f8bbc6d0818]: Commencement: [Art. 30](https://www.legislation.gov.uk/nisi/2008/1216/article/30) in operation at 1.6.2015 by [S.R. 2015/255](https://www.legislation.gov.uk/nisr/2015/255), [art. 2(d)](https://www.legislation.gov.uk/nisr/2015/255/article/2/d)
 
 [^c22093321]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/nisi/2008/1216/article/30/1) substituted (12.4.2010) by [Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2010/976/article/6/2), [Sch. 5 para. 25](https://www.legislation.gov.uk/uksi/2010/976/schedule/5/paragraph/25) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28)); [S.I. 2010/977](https://www.legislation.gov.uk/uksi/2010/977), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/977/article/1/2) (but this amendment cannot take effect until the commencement of [S.I. 2008/1216](https://www.legislation.gov.uk/uksi/2008/1216), [art. 30](https://www.legislation.gov.uk/uksi/2008/1216/article/30))
 

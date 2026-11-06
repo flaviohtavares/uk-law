@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 19. Application of landlord and tenant law[^key-ff3e0a8e75f0167ff07ac1031a3f40d2]
+## 19. Application of landlord and tenant law[^c-ff3e0a8e75f0167ff07ac1031a3f40d2]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ so far as the agreement relates to the terms on which land that is the subject o
 
 ## Annotations
 
-[^key-ff3e0a8e75f0167ff07ac1031a3f40d2]: Commencement: Art. 19 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)
+[^c-ff3e0a8e75f0167ff07ac1031a3f40d2]: Commencement: Art. 19 in force at 30.12.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1984/article/1)

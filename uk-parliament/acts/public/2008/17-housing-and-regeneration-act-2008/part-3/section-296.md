@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 296. Requirements to co-operate in relation to certain disposals of land[^key-654b70101fd8a4df7b1f42c7836200da]
+## 296. Requirements to co-operate in relation to certain disposals of land[^c-654b70101fd8a4df7b1f42c7836200da]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ After section 34 of the Housing Act 1985 (c. 68) (consents in relation to dispos
 
 ## Annotations
 
-[^key-654b70101fd8a4df7b1f42c7836200da]: Commencement: [S. 296](https://www.legislation.gov.uk/ukpga/2008/17/section/296) in force at 1.12.2008 for E. by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/b) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))
+[^c-654b70101fd8a4df7b1f42c7836200da]: Commencement: [S. 296](https://www.legislation.gov.uk/ukpga/2008/17/section/296) in force at 1.12.2008 for E. by [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/1/b) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6))

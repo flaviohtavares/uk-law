@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-  Part 6 of the 2018 Act makes further provision about penalties applicable to infringements of this Regulation.[^key-dca69e1df8a3af8d721ad330a5ac16cb]
+  Part 6 of the 2018 Act makes further provision about penalties applicable to infringements of this Regulation.[^c-dca69e1df8a3af8d721ad330a5ac16cb]
 
 ## Annotations
 
-[^key-dca69e1df8a3af8d721ad330a5ac16cb]: Textual amendment: Words in Art. 84 substituted for Art. 84(1)(2) (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/63) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dca69e1df8a3af8d721ad330a5ac16cb]: Textual amendment: Words in Art. 84 substituted for Art. 84(1)(2) (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 1 para. 63](https://www.legislation.gov.uk/uksi/2019/419/schedule/1/paragraph/63) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

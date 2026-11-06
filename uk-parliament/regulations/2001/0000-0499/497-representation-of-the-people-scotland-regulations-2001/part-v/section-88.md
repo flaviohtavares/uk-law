@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Checking of lists kept under regulation 87[^key-1350fe58415cd70115feba1cc049bc4b][^key-e63705c96a5b3aeece456a85fd711c7f]
+## 88. Checking of lists kept under regulation 87[^c-1350fe58415cd70115feba1cc049bc4b][^c-e63705c96a5b3aeece456a85fd711c7f]
 
 *Extent: S*
 
-(1) Where the returning officer receives a valid postal voting statement[^key-2b209e325b4b4e3f16d6e35aa92cfb23] without the postal ballot paper (or papers or, as the case may be, all of the papers) to which it relates, he may, at any time prior to the close of the poll, check the list kept under regulation 87(2) above to see whether the number (or numbers) of a postal ballot paper to which the statement[^key-7ab4a8ceb7390215e3ce7dd3c5bc5713] relates is entered in that list.
+(1) Where the returning officer receives a valid postal voting statement[^c-2b209e325b4b4e3f16d6e35aa92cfb23] without the postal ballot paper (or papers or, as the case may be, all of the papers) to which it relates, he may, at any time prior to the close of the poll, check the list kept under regulation 87(2) above to see whether the number (or numbers) of a postal ballot paper to which the statement[^c-7ab4a8ceb7390215e3ce7dd3c5bc5713] relates is entered in that list.
 
 (2) Where the returning officer receives a postal ballot paper without the postal voting statement to which it relates, he may, at any time prior to the close of the poll, check the list kept under regulation 87(3) above to see whether the number of that ballot paper is entered in that list.
 
@@ -32,10 +32,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1350fe58415cd70115feba1cc049bc4b]: Commencement: Reg. 88 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
+[^c-1350fe58415cd70115feba1cc049bc4b]: Commencement: Reg. 88 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/1/1)
 
-[^key-e63705c96a5b3aeece456a85fd711c7f]: Modification: [Reg. 88](https://www.legislation.gov.uk/uksi/2001/497/regulation/88) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 46](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/46)
+[^c-e63705c96a5b3aeece456a85fd711c7f]: Modification: [Reg. 88](https://www.legislation.gov.uk/uksi/2001/497/regulation/88) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 46](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/46)
 
-[^key-2b209e325b4b4e3f16d6e35aa92cfb23]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2001/497) substituted (with effect in accordance with reg. 1(2)(3)(c) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [54(a)](https://www.legislation.gov.uk/uksi/2007/925/regulation/54/a)
+[^c-2b209e325b4b4e3f16d6e35aa92cfb23]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2001/497) substituted (with effect in accordance with reg. 1(2)(3)(c) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [54(a)](https://www.legislation.gov.uk/uksi/2007/925/regulation/54/a)
 
-[^key-7ab4a8ceb7390215e3ce7dd3c5bc5713]: Textual amendment: Word in [reg. 88(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/88/1)[(4)](https://www.legislation.gov.uk/uksi/2001/497/regulation/88/4) substituted (with effect in accordance with reg. 1(2)(3)(c) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [54(b)(iii)](https://www.legislation.gov.uk/uksi/2007/925/regulation/54/b/iii)
+[^c-7ab4a8ceb7390215e3ce7dd3c5bc5713]: Textual amendment: Word in [reg. 88(1)](https://www.legislation.gov.uk/uksi/2001/497/regulation/88/1)[(4)](https://www.legislation.gov.uk/uksi/2001/497/regulation/88/4) substituted (with effect in accordance with reg. 1(2)(3)(c) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [54(b)(iii)](https://www.legislation.gov.uk/uksi/2007/925/regulation/54/b/iii)

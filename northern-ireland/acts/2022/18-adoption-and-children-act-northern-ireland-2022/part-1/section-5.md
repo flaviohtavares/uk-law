@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Assessments etc. for adoption support services[^key-c06f39a5c2724b7ad2a6f5e129573cc6]
+## 5. Assessments etc. for adoption support services[^c-c06f39a5c2724b7ad2a6f5e129573cc6]
 
 *Extent: N.I.*
 
@@ -80,4 +80,4 @@ the adoption authority must notify the body or the Education Authority, as the c
 
 ## Annotations
 
-[^key-c06f39a5c2724b7ad2a6f5e129573cc6]: Commencement: S. 5 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-c06f39a5c2724b7ad2a6f5e129573cc6]: Commencement: S. 5 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

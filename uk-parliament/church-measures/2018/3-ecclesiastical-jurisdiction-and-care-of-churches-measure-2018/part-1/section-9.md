@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 9. The Arches and Chancery Courts: continuation[^key-05bf110f03cb157ac4a5d9bd83782021]
+## 9. The Arches and Chancery Courts: continuation[^c-05bf110f03cb157ac4a5d9bd83782021]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-05bf110f03cb157ac4a5d9bd83782021]: Commencement: S. 9 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-05bf110f03cb157ac4a5d9bd83782021]: Commencement: S. 9 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

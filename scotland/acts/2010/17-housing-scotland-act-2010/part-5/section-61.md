@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Suspension of officers etc. during or following inquiries[^key-98abd912fdc8b4fdcc312cf8e7acc9ca]
+## 61. Suspension of officers etc. during or following inquiries[^c-98abd912fdc8b4fdcc312cf8e7acc9ca]
 
 *Extent: S*
 
 (1) The Regulator, when making or having made inquiries, may suspend a responsible individual (pending decision on removal or otherwise) where it considers—
 
-- (a)[^key-403f59e9de1a3cae1558b9709a1d8e95] that the registered social landlord has failed, or is failing, to comply with—
+- (a)[^c-403f59e9de1a3cae1558b9709a1d8e95] that the registered social landlord has failed, or is failing, to comply with—
   - (i) a duty imposed by this Act or by any other enactment, or
   - (ii) a requirement imposed on the landlord by the Regulator under this Act or any other enactment,
 
@@ -59,6 +59,6 @@ without the Regulator's consent.
 
 ## Annotations
 
-[^key-98abd912fdc8b4fdcc312cf8e7acc9ca]: Commencement: S. 61 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-98abd912fdc8b4fdcc312cf8e7acc9ca]: Commencement: S. 61 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
 
-[^key-403f59e9de1a3cae1558b9709a1d8e95]: Textual amendment: S. 61(1)(a) substituted for s. 61(1)(a)-(c) (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(3)](https://www.legislation.gov.uk/asp/2018/13/section/2/3), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/253/regulation/4))
+[^c-403f59e9de1a3cae1558b9709a1d8e95]: Textual amendment: S. 61(1)(a) substituted for s. 61(1)(a)-(c) (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 2(3)](https://www.legislation.gov.uk/asp/2018/13/section/2/3), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/ssi/2018/253/regulation/4))

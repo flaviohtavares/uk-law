@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Short-term benefit: increase for adult dependants.[^key-6da3723dca0faa04acbc028bcedf4da7]
+## 82. Short-term benefit: increase for adult dependants.[^c-6da3723dca0faa04acbc028bcedf4da7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6da3723dca0faa04acbc028bcedf4da7]: Textual amendment: S. 82 repealed (6.4.2010 with savings until 6.4.2020) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 15(1)(a)](https://www.legislation.gov.uk/ukpga/2009/24/section/15/1/a), [61(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/2) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/15/2)[(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/15/3))
+[^c-6da3723dca0faa04acbc028bcedf4da7]: Textual amendment: S. 82 repealed (6.4.2010 with savings until 6.4.2020) by [Welfare Reform Act 2009 (c. 24)](https://www.legislation.gov.uk/ukpga/2009/24), [ss. 15(1)(a)](https://www.legislation.gov.uk/ukpga/2009/24/section/15/1/a), [61(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/61/2), [Sch. 7 Pt. 2](https://www.legislation.gov.uk/ukpga/2009/24/schedule/7/part/2) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2009/24/section/15/2)[(3)](https://www.legislation.gov.uk/ukpga/2009/24/section/15/3))

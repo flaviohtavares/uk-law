@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Contributions) (Amendment) Regulations 2022 (revoked)[^key-dcfa3cb87c579b251994624aeb18c6b4]
+The Social Security (Contributions) (Amendment) Regulations 2022 (revoked)[^c-dcfa3cb87c579b251994624aeb18c6b4]
 
 Made
 
@@ -46,22 +46,22 @@ Coming into force
 
 6th April 2022
 
-[^key-dcfa3cb87c579b251994624aeb18c6b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcfa3cb87c579b251994624aeb18c6b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and effect[^key-dcfa3cb87c579b251994624aeb18c6b4]
+## 1. Citation, commencement and effect[^c-dcfa3cb87c579b251994624aeb18c6b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the Social Security (Contributions) Regulations 2001[^key-dcfa3cb87c579b251994624aeb18c6b4]
+## 2. Modification of the Social Security (Contributions) Regulations 2001[^c-dcfa3cb87c579b251994624aeb18c6b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcfa3cb87c579b251994624aeb18c6b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcfa3cb87c579b251994624aeb18c6b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcfa3cb87c579b251994624aeb18c6b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dcfa3cb87c579b251994624aeb18c6b4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dcfa3cb87c579b251994624aeb18c6b4]: Textual amendment: Regulations revoked (6.4.2022) by [Health and Social Care Levy (Repeal) Act 2022 (c. 43)](https://www.legislation.gov.uk/ukpga/2022/43), [Sch. para. 6(3)](https://www.legislation.gov.uk/ukpga/2022/43/schedule/paragraph/6/3) (with [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2022/43/schedule/paragraph/8))
+[^c-dcfa3cb87c579b251994624aeb18c6b4]: Textual amendment: Regulations revoked (6.4.2022) by [Health and Social Care Levy (Repeal) Act 2022 (c. 43)](https://www.legislation.gov.uk/ukpga/2022/43), [Sch. para. 6(3)](https://www.legislation.gov.uk/ukpga/2022/43/schedule/paragraph/6/3) (with [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2022/43/schedule/paragraph/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Maintenance of authorised development[^key-c9e5b2f3862135d85e1b0f007f1c0038]
+## 6. Maintenance of authorised development[^c-c9e5b2f3862135d85e1b0f007f1c0038]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9e5b2f3862135d85e1b0f007f1c0038]: Commencement: Art. 6 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-c9e5b2f3862135d85e1b0f007f1c0038]: Commencement: Art. 6 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

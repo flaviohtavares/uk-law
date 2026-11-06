@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Interim suspension for suspected serious contravention[^key-4fa7e5cd0dc0432f0f2ff3008e10996b]
+## 35. Interim suspension for suspected serious contravention[^c-4fa7e5cd0dc0432f0f2ff3008e10996b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ For the purposes of section 58V(4)(b)(ii) of the 1984 Act, where the Welsh Minis
 
 ## Annotations
 
-[^key-4fa7e5cd0dc0432f0f2ff3008e10996b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2024/1268/regulation/35) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-4fa7e5cd0dc0432f0f2ff3008e10996b]: Commencement: [Reg. 35](https://www.legislation.gov.uk/wsi/2024/1268/regulation/35) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

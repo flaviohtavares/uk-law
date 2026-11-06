@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Tyres[^key-2d5f511148e39c77e77b98ef01cf22cd]
+## 24. Tyres[^c-2d5f511148e39c77e77b98ef01cf22cd]
 
 *Extent: E+W+S*
 
@@ -44,19 +44,19 @@ TABLE
 </tbody>
 </table>
 
-[^key-f81f7a793c3329215d766e8cf9ebfa5c]
+[^c-f81f7a793c3329215d766e8cf9ebfa5c]
 
 (3) Save as provided in paragraph (4) a wheel of a vehicle may not be fitted with a temporary use spare tyre unless either—
 
 - (a) the vehicle is a passenger vehicle (not being a bus) first used before 1st April 1987; or
-- (b) the vehicle complies at the time of its first use with ECE Regulation 64 or Community Directive 92/23[^key-ddf2649f87507b316031f800d2a6d1a7].
+- (b) the vehicle complies at the time of its first use with ECE Regulation 64 or Community Directive 92/23[^c-ddf2649f87507b316031f800d2a6d1a7].
 
 (4) Paragraph (3) does not apply to a vehicle constructed or assembled by a person not ordinarily engaged in the trade or business of manufacturing vehicles of that description.
 
 ## Annotations
 
-[^key-2d5f511148e39c77e77b98ef01cf22cd]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1986/1078/regulation/24) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-2d5f511148e39c77e77b98ef01cf22cd]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/1986/1078/regulation/24) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-f81f7a793c3329215d766e8cf9ebfa5c]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/1986/1078/regulation/24) Table substituted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/142/regulation/9)
+[^c-f81f7a793c3329215d766e8cf9ebfa5c]: Textual amendment: Words in [reg. 24](https://www.legislation.gov.uk/uksi/1986/1078/regulation/24) Table substituted (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [9](https://www.legislation.gov.uk/uksi/2015/142/regulation/9)
 
-[^key-ddf2649f87507b316031f800d2a6d1a7]: Textual amendment: Words in [reg. 24(3)(b)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/24/3/b) inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1992 (S.I. 1992/3088)](https://www.legislation.gov.uk/uksi/1992/3088), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3088/regulation/1), [3](https://www.legislation.gov.uk/uksi/1992/3088/regulation/3)
+[^c-ddf2649f87507b316031f800d2a6d1a7]: Textual amendment: Words in [reg. 24(3)(b)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/24/3/b) inserted (1.1.1993) by [The Road Vehicles (Construction and Use) (Amendment) (No. 7) Regulations 1992 (S.I. 1992/3088)](https://www.legislation.gov.uk/uksi/1992/3088), [regs. 1](https://www.legislation.gov.uk/uksi/1992/3088/regulation/1), [3](https://www.legislation.gov.uk/uksi/1992/3088/regulation/3)

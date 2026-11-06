@@ -97,7 +97,7 @@ References to the repealed Regulation shall be construed as references to this R
 
 **Article 6.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-c377137758cc58e54629a8cd8499bd4b]...
+[^c-c377137758cc58e54629a8cd8499bd4b]...
 
 Done at Brussels, 5 April 2017.
 
@@ -117,7 +117,7 @@ For the purposes of this Regulation the definitions laid down in Annex I to Deci
 
 Further to those definitions, the following definitions shall apply for the purposes of this Regulation:
 
-- ‘Action level’ means the level of a given substance, as laid down in Annex 5[^key-9da941a19bfd72cfc983710c3a4cc7d6], which triggers investigations to identify the source of that substance in cases where increased levels of the substance are detected.
+- ‘Action level’ means the level of a given substance, as laid down in Annex 5[^c-9da941a19bfd72cfc983710c3a4cc7d6], which triggers investigations to identify the source of that substance in cases where increased levels of the substance are detected.
 - ‘Screening methods’ means methods used for the selection of those samples with levels of PCDD/Fs and dioxin-like PCBs that exceed the maximum levels or the action levels. They shall allow for a cost-effective high sample-throughput, thus increasing the chance of discovering new cases where high exposure may lead to health risks for consumers. Screening methods shall be based on bioanalytical or GC-MS methods. Results from samples exceeding the cut-off value established to check compliance with the maximum level shall be verified by a full re-analysis from the original sample using a confirmatory method.
 - ‘Confirmatory methods’ means methods that provide full or complementary information enabling the PCDD/Fs and dioxin-like PCBs to be identified and quantified unequivocally at the maximum or, in case of need, at the action level. Such methods utilise gas chromatography/high resolution mass spectrometry (GC-HRMS) or gas chromatography/tandem mass spectrometry (GC-MS/MS).
 - ‘Bioanalytical methods’ means methods based on the use of biological principles such as cell-based assays, receptor-assays or immunoassays. They do not give results at the congener level but merely an indication[^f00009] of the TEQ level, expressed in Bioanalytical Equivalents (BEQ) to acknowledge the fact that not all compounds present in a sample extract that produce a response in the test may meet all requirements of the TEQ-principle.
@@ -222,7 +222,7 @@ GENERAL PROVISIONS
 
 **Personnel**
 
-Offcial sampling shall be performed by an authorised person [^key-02dba9eae9f41ae861e6d568d38539cb]....
+Offcial sampling shall be performed by an authorised person [^c-02dba9eae9f41ae861e6d568d38539cb]....
 
 2\.
 
@@ -252,7 +252,7 @@ The aggregate sample shall be made up by combining the incremental samples. It s
 
 **Replicate samples**
 
-The replicate samples for enforcement, defence and reference purposes shall be taken from the homogenised aggregate sample, unless such procedure conflicts with the rules applicable in each constituent territory of Great Britain[^key-4693a8b39f9ef1e09f414f713dd4da25] as regard the rights of the food business operator. The size of the laboratory samples for enforcement shall be sufficient to allow at least for duplicate analyses.
+The replicate samples for enforcement, defence and reference purposes shall be taken from the homogenised aggregate sample, unless such procedure conflicts with the rules applicable in each constituent territory of Great Britain[^c-4693a8b39f9ef1e09f414f713dd4da25] as regard the rights of the food business operator. The size of the laboratory samples for enforcement shall be sufficient to allow at least for duplicate analyses.
 
 7\.
 
@@ -264,7 +264,7 @@ Each sample shall be placed in a clean, inert container offering adequate protec
 
 **Sealing and labelling of samples**
 
-Each sample taken for official use shall be sealed at the place of sampling and identified in accordance with the rules applicable in each constituent territory of Great Britain[^key-4550669dc8c5ff1e82e92026dbe982b1] .
+Each sample taken for official use shall be sealed at the place of sampling and identified in accordance with the rules applicable in each constituent territory of Great Britain[^c-4550669dc8c5ff1e82e92026dbe982b1] .
 
 A record shall be kept of each sampling, permitting each lot to be identified unambiguously and giving the date and place of sampling together with any additional information likely to be of assistance to the analyst.
 
@@ -930,7 +930,7 @@ In accordance with the provisions of Regulation (EC) No 882/2004, laboratories s
 - As the expanded measurement uncertainty is to be taken into account when deciding about the compliance of a sample, that parameter shall also be made available. Thus, analytical results shall be reported as x +/– U whereby x is the analytical result and U is the expanded measurement uncertainty using a coverage factor of 2 which gives a level of confidence of approximately 95 %.
 - The results shall be expressed in the same units and with the same number of significant figures as the maximum levels laid down in Regulation (EC) No 1881/2006.
 
-## ANNEX V[^key-e124f11547dc5c2e44f11d0ca40b836d]
+## ANNEX V[^c-e124f11547dc5c2e44f11d0ca40b836d]
 
 For the purposes of this Annex the following definitions apply—
 
@@ -979,9 +979,9 @@ For the purposes of this Annex the following definitions apply—
 
 [^f00008]: Footnote: Commission Decision 2002/657/EC of 14 August 2002 implementing Council Directive 96/23/EC concerning the performance of analytical methods and the interpretation of results ([OJ L 221, 17.8.2002, p. 8](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.221.01.0008.01.ENG)).
 
-[^key-c377137758cc58e54629a8cd8499bd4b]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of The Contaminants in [Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [37](https://www.legislation.gov.uk/uksi/2019/639/regulation/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c377137758cc58e54629a8cd8499bd4b]: Textual amendment: Words in Signature omitted (31.12.2020) by virtue of The Contaminants in [Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [37](https://www.legislation.gov.uk/uksi/2019/639/regulation/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9da941a19bfd72cfc983710c3a4cc7d6]: Textual amendment: Words in [Annex 1 para. 1.1](https://www.legislation.gov.uk/eur/2017/644/annex/I/paragraph/1.1) substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [38](https://www.legislation.gov.uk/uksi/2019/639/regulation/38); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9da941a19bfd72cfc983710c3a4cc7d6]: Textual amendment: Words in [Annex 1 para. 1.1](https://www.legislation.gov.uk/eur/2017/644/annex/I/paragraph/1.1) substituted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [38](https://www.legislation.gov.uk/uksi/2019/639/regulation/38); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00009]: Footnote: Bioanalytical methods are not specific to those congeners included in the TEF-scheme. Other structurally related AhR-active compounds may be present in the sample extract which contribute to the overall response. Therefore, bioanalytical results cannot be an estimate but rather an indication of the TEQ level in the sample.
 
@@ -989,11 +989,11 @@ For the purposes of this Annex the following definitions apply—
 
 [^f00011]: Footnote: The LOQ is calculated from the lowest concentration point taking into account the recovery of internal standards and sample intake.
 
-[^key-02dba9eae9f41ae861e6d568d38539cb]: Textual amendment: Words in Annex 2 s. 2 para. 1 omitted (31.12.2020) by virtue of [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 39(a)](https://www.legislation.gov.uk/uksi/2019/639/regulation/39/a) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/12))
+[^c-02dba9eae9f41ae861e6d568d38539cb]: Textual amendment: Words in Annex 2 s. 2 para. 1 omitted (31.12.2020) by virtue of [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 39(a)](https://www.legislation.gov.uk/uksi/2019/639/regulation/39/a) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/12))
 
-[^key-4693a8b39f9ef1e09f414f713dd4da25]: Textual amendment: Words in Annex 2 s. 2 para. 6 substituted (31.12.2020) by [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 39(b)](https://www.legislation.gov.uk/uksi/2019/639/regulation/39/b) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/12))
+[^c-4693a8b39f9ef1e09f414f713dd4da25]: Textual amendment: Words in Annex 2 s. 2 para. 6 substituted (31.12.2020) by [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 39(b)](https://www.legislation.gov.uk/uksi/2019/639/regulation/39/b) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/12))
 
-[^key-4550669dc8c5ff1e82e92026dbe982b1]: Textual amendment: Words in Annex 2 s. 2 para. 8 substituted (31.12.2020) by [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 39(c)](https://www.legislation.gov.uk/uksi/2019/639/regulation/39/c) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/12))
+[^c-4550669dc8c5ff1e82e92026dbe982b1]: Textual amendment: Words in Annex 2 s. 2 para. 8 substituted (31.12.2020) by [S.I. 2019/639](https://www.legislation.gov.uk/uksi/2019/639), [reg. 39(c)](https://www.legislation.gov.uk/uksi/2019/639/regulation/39/c) (as substituted by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [8(12)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/8/12))
 
 [^f00012]: Footnote: Commission Decision 97/747/EC of 27 October 1997 fixing the levels and frequencies of sampling provided for by Council Directive 96/23/EC for the monitoring of certain substances and residues thereof in certain animal products ([OJ L 303, 6.11.1997, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1997.303.01.0012.01.ENG)).
 
@@ -1027,4 +1027,4 @@ For the purposes of this Annex the following definitions apply—
 
 [^f00028]: Footnote: Use of all six <sup>13</sup>C-labelled analogues as internal standards required
 
-[^key-e124f11547dc5c2e44f11d0ca40b836d]: Textual amendment: [Annex 5](https://www.legislation.gov.uk/eur/2017/644/annex/5) inserted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [40](https://www.legislation.gov.uk/uksi/2019/639/regulation/40), [Sch.](https://www.legislation.gov.uk/uksi/2019/639/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e124f11547dc5c2e44f11d0ca40b836d]: Textual amendment: [Annex 5](https://www.legislation.gov.uk/eur/2017/644/annex/5) inserted (31.12.2020) by [The Contaminants in Food (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/639)](https://www.legislation.gov.uk/uksi/2019/639), [regs. 1](https://www.legislation.gov.uk/uksi/2019/639/regulation/1), [40](https://www.legislation.gov.uk/uksi/2019/639/regulation/40), [Sch.](https://www.legislation.gov.uk/uksi/2019/639/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

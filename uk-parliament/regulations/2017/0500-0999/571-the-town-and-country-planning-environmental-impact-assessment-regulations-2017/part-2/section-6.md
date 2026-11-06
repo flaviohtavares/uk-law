@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Requests for screening opinions of the relevant planning authority[^key-5dbf9195182a2f9a5e45ef2c603a9b01]
+## 6. Requests for screening opinions of the relevant planning authority[^c-5dbf9195182a2f9a5e45ef2c603a9b01]
 
 *Extent: E+W*
 
@@ -70,4 +70,4 @@ the person who requested the opinion may request the Secretary of State to make 
 
 ## Annotations
 
-[^key-5dbf9195182a2f9a5e45ef2c603a9b01]: Modification: Reg. 6 applied (with modifications) by 2017 SI403, reg. 14(3) (as amended) (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/3)
+[^c-5dbf9195182a2f9a5e45ef2c603a9b01]: Modification: Reg. 6 applied (with modifications) by 2017 SI403, reg. 14(3) (as amended) (1.10.2018) by [The Town and Country Planning and Infrastructure Planning (Environmental Impact Assessment) (Amendment) Regulations 2018 (S.I. 2018/695)](https://www.legislation.gov.uk/uksi/2018/695), [regs. 1](https://www.legislation.gov.uk/uksi/2018/695/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2018/695/regulation/5/3)

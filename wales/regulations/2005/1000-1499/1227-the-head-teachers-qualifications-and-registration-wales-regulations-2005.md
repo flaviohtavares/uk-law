@@ -41,7 +41,7 @@ Coming into force
 
 In exercise of the powers conferred on the National Assembly for Wales by sections 134, 135, 145(1) and (2) and 210(7) of the Education Act 2002[^f00001] the National Assembly for Wales hereby makes the following Regulations:
 
-## 1. Name, commencement and application[^key-ed77ec8f0d2d288984e23d4c3337a3ac]
+## 1. Name, commencement and application[^c-ed77ec8f0d2d288984e23d4c3337a3ac]
 
 (1) These Regulations are called the Head Teachers' Qualifications and Registration (Wales) Regulations 2005 and come into force on 1 September 2005.
 
@@ -55,15 +55,15 @@ In exercise of the powers conferred on the National Assembly for Wales by sectio
 
 (4) These Regulations do not apply to Pupil Referral Units.
 
-## 2. Interpretation[^key-d21b71dfba7c088021de7063d356aa36]
+## 2. Interpretation[^c-d21b71dfba7c088021de7063d356aa36]
 
 In these Regulations:
 
-- “the 2015 Regulations” ([^key-ae638bfcfa7faea06dc4027b14a48da6]*“Rheoliadau 2015”*) means the European Union (Recognition of Professional Qualifications) Regulations 2015;
+- “the 2015 Regulations” ([^c-ae638bfcfa7faea06dc4027b14a48da6]*“Rheoliadau 2015”*) means the European Union (Recognition of Professional Qualifications) Regulations 2015;
 - “National Assembly” (“*Cynulliad Cenedlaethol*”) means National Assembly for Wales; and
 - “school” (“*ysgol*”) means, (unless the context requires otherwise), a school maintained by a local education authority or a special school not so maintained.
 
-## 3. Headship Qualification[^key-a6f3d9d535445e612e0bda5fb3a05f6c]
+## 3. Headship Qualification[^c-a6f3d9d535445e612e0bda5fb3a05f6c]
 
 (1) Subject to regulation 5 a person may only serve as a head teacher of a school if he or she holds:—
 
@@ -71,22 +71,22 @@ In these Regulations:
 - (b) the National Professional Qualification for Headship in England[^f00003];
 - (c) the Scottish Standard for Headship[^f00004];
 - (d) the Professional Qualification for Headship in Northern Ireland[^f00005];
-- (e) a qualification which has equivalent effect by virtue of the 2015 Regulations[^key-db33c8b4f7c0eecd722fb15bfbd25f95].
+- (e) a qualification which has equivalent effect by virtue of the 2015 Regulations[^c-db33c8b4f7c0eecd722fb15bfbd25f95].
 
-(2) The National Professional Qualification for Headship in Wales means the qualification awarded by the National Assembly to a person if it is satisfied that the person has successfully met such standards[^key-a5d424bcc7bf31273efeae6432f02977] as the National Assembly may from time to time approve for the purposes of the award of that qualification.
+(2) The National Professional Qualification for Headship in Wales means the qualification awarded by the National Assembly to a person if it is satisfied that the person has successfully met such standards[^c-a5d424bcc7bf31273efeae6432f02977] as the National Assembly may from time to time approve for the purposes of the award of that qualification.
 
-## 4. Requirement to be qualified[^key-719149d714456c7ab26475c27e806d36]
+## 4. Requirement to be qualified[^c-719149d714456c7ab26475c27e806d36]
 
 A person may serve as the head teacher of a school only if he or she:
 
 - (a) is a qualified teacher; or
 - (b) has a qualification which has equivalent effect by virtue of the 2005 Regulations.
 
-## 5. Requirement to be registered[^key-ec332e4daa8969a0f505f51674f8b57a]
+## 5. Requirement to be registered[^c-ec332e4daa8969a0f505f51674f8b57a]
 
 A person may serve as the head teacher of a school only if he or she is registered under section 3 of the Teaching and Higher Education Act 1998, (register maintained by the General Teaching Council for Wales)[^f00006].
 
-## 6. Acting head teachers[^key-779fd8ee3dd1fb5f9f6404f7269f1fe7]
+## 6. Acting head teachers[^c-779fd8ee3dd1fb5f9f6404f7269f1fe7]
 
 A person carrying out the functions of the head teacher of a school —
 
@@ -119,13 +119,13 @@ These Regulations do not apply to Pupil Referral Units.
 
 [^f00001]: Footnote: [2002 c. 32](https://www.legislation.gov.uk/ukpga/2002/32).
 
-[^key-ed77ec8f0d2d288984e23d4c3337a3ac]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1) in force at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1/1)
+[^c-ed77ec8f0d2d288984e23d4c3337a3ac]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1) in force at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1/1)
 
-[^key-d21b71dfba7c088021de7063d356aa36]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2005/1227/regulation/2) in force at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1/1)
+[^c-d21b71dfba7c088021de7063d356aa36]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2005/1227/regulation/2) in force at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1/1)
 
-[^key-ae638bfcfa7faea06dc4027b14a48da6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2005/1227/regulation/2) substituted (31.12.2020) by [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ae638bfcfa7faea06dc4027b14a48da6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/wsi/2005/1227/regulation/2) substituted (31.12.2020) by [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [2(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/2/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a6f3d9d535445e612e0bda5fb3a05f6c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2005/1227/regulation/3) in force at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1/1)
+[^c-a6f3d9d535445e612e0bda5fb3a05f6c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2005/1227/regulation/3) in force at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1/1)
 
 [^f00003]: Footnote: The Education (Head Teachers' Qualifications) (England) Regulations 2003, (S.I. [2003/3111](https://www.legislation.gov.uk/uksi/2003/3111)), are the current Regulations which provide for this. The National Professional Qualification for Headship in England is awarded by the National College for School Leadership Limited.
 
@@ -133,16 +133,16 @@ These Regulations do not apply to Pupil Referral Units.
 
 [^f00005]: Footnote: The Professional Qualification for Headship in Northern Ireland is awarded by the Regional Training Unit in Northern Ireland.
 
-[^key-db33c8b4f7c0eecd722fb15bfbd25f95]: Textual amendment: Words in [reg. 3(1)(e)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/3/1/e) substituted (31.12.2020) by [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/444/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db33c8b4f7c0eecd722fb15bfbd25f95]: Textual amendment: Words in [reg. 3(1)(e)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/3/1/e) substituted (31.12.2020) by [The Teachers' Qualifications (Amendment) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/444)](https://www.legislation.gov.uk/wsi/2019/444), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/444/regulation/1/2), [2(3)](https://www.legislation.gov.uk/wsi/2019/444/regulation/2/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a5d424bcc7bf31273efeae6432f02977]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/3/2) substituted (1.9.2011) by [The Head Teachers' Qualifications and Registration (Wales) (Amendment) Regulations 2011 (S.I. 2011/1769)](https://www.legislation.gov.uk/wsi/2011/1769), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1769/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2011/1769/regulation/2/2)
+[^c-a5d424bcc7bf31273efeae6432f02977]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/3/2) substituted (1.9.2011) by [The Head Teachers' Qualifications and Registration (Wales) (Amendment) Regulations 2011 (S.I. 2011/1769)](https://www.legislation.gov.uk/wsi/2011/1769), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2011/1769/regulation/1/1), [2(2)](https://www.legislation.gov.uk/wsi/2011/1769/regulation/2/2)
 
-[^key-719149d714456c7ab26475c27e806d36]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2005/1227/regulation/4) in force at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1/1)
+[^c-719149d714456c7ab26475c27e806d36]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2005/1227/regulation/4) in force at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1/1)
 
-[^key-ec332e4daa8969a0f505f51674f8b57a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2005/1227/regulation/5) in force at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1/1)
+[^c-ec332e4daa8969a0f505f51674f8b57a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2005/1227/regulation/5) in force at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1/1)
 
 [^f00006]: Footnote: [1998 c. 30](https://www.legislation.gov.uk/ukpga/1998/30).
 
-[^key-779fd8ee3dd1fb5f9f6404f7269f1fe7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2005/1227/regulation/6) in force at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1/1)
+[^c-779fd8ee3dd1fb5f9f6404f7269f1fe7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2005/1227/regulation/6) in force at 1.9.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1227/regulation/1/1)
 
 [^f00007]: Footnote: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).

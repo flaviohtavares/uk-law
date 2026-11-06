@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by section 24)
 
-### 1. Power to make transfer schemes[^key-fdd479c6b18a45664c4bb689450799ad][^key-2dea0819496f77b260e8458c76dc8b04]
+### 1. Power to make transfer schemes[^c-fdd479c6b18a45664c4bb689450799ad][^c-2dea0819496f77b260e8458c76dc8b04]
 
 (1) The Welsh Ministers may make one or more schemes providing for—
 
@@ -44,7 +44,7 @@ summary: ''
 - (e) make provision for references to the Higher Education Funding Council for Wales, the Welsh Government or the Welsh Ministers in an instrument or other document in respect of anything transferred to be treated as references to the Commission;
 - (f) make provision which is the same as or similar to a provision made by the TUPE regulations in a case where those regulations do not apply in relation to the transfer.
 
-### 2. Modification of transfer schemes[^key-8d249db73c6339743d6f70fe43868bfc][^key-6dfefa46ee44945cc9dfaee75e7d169b]
+### 2. Modification of transfer schemes[^c-8d249db73c6339743d6f70fe43868bfc][^c-6dfefa46ee44945cc9dfaee75e7d169b]
 
 (1) The Welsh Ministers may modify a transfer scheme.
 
@@ -52,11 +52,11 @@ summary: ''
 
 (3) A modification takes effect from the date when the original scheme came into effect or such later date as the Welsh Ministers may specify.
 
-### 3. Duty to lay transfer schemes before Senedd Cymru[^key-608c3ef67a93e4a934eb5626bfe20746][^key-9d93427ca7e9ac146552352c34d8b6a7]
+### 3. Duty to lay transfer schemes before Senedd Cymru[^c-608c3ef67a93e4a934eb5626bfe20746][^c-9d93427ca7e9ac146552352c34d8b6a7]
 
 The Welsh Ministers must lay a copy of a transfer scheme made under this Schedule before Senedd Cymru.
 
-### 4. Interpretation[^key-b20b106fbae36bd650038004fbf0f3b3][^key-e81424d34a34066b911d09aa9fb37ea9]
+### 4. Interpretation[^c-b20b106fbae36bd650038004fbf0f3b3][^c-e81424d34a34066b911d09aa9fb37ea9]
 
 (1) For the purposes of this Schedule—
 
@@ -72,18 +72,18 @@ The Welsh Ministers must lay a copy of a transfer scheme made under this Schedul
 
 ## Annotations
 
-[^key-fdd479c6b18a45664c4bb689450799ad]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-fdd479c6b18a45664c4bb689450799ad]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-2dea0819496f77b260e8458c76dc8b04]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asc/2022/1/schedule/2/paragraph/1) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(w)](https://www.legislation.gov.uk/wsi/2023/919/article/2/w)
+[^c-2dea0819496f77b260e8458c76dc8b04]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/asc/2022/1/schedule/2/paragraph/1) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(w)](https://www.legislation.gov.uk/wsi/2023/919/article/2/w)
 
-[^key-8d249db73c6339743d6f70fe43868bfc]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-8d249db73c6339743d6f70fe43868bfc]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-6dfefa46ee44945cc9dfaee75e7d169b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asc/2022/1/schedule/2/paragraph/2) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(w)](https://www.legislation.gov.uk/wsi/2023/919/article/2/w)
+[^c-6dfefa46ee44945cc9dfaee75e7d169b]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/asc/2022/1/schedule/2/paragraph/2) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(w)](https://www.legislation.gov.uk/wsi/2023/919/article/2/w)
 
-[^key-608c3ef67a93e4a934eb5626bfe20746]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-608c3ef67a93e4a934eb5626bfe20746]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-9d93427ca7e9ac146552352c34d8b6a7]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asc/2022/1/schedule/2/paragraph/3) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(w)](https://www.legislation.gov.uk/wsi/2023/919/article/2/w)
+[^c-9d93427ca7e9ac146552352c34d8b6a7]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/asc/2022/1/schedule/2/paragraph/3) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(w)](https://www.legislation.gov.uk/wsi/2023/919/article/2/w)
 
-[^key-b20b106fbae36bd650038004fbf0f3b3]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b20b106fbae36bd650038004fbf0f3b3]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-e81424d34a34066b911d09aa9fb37ea9]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asc/2022/1/schedule/2/paragraph/4) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(w)](https://www.legislation.gov.uk/wsi/2023/919/article/2/w)
+[^c-e81424d34a34066b911d09aa9fb37ea9]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asc/2022/1/schedule/2/paragraph/4) in force at 4.9.2023 by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 2(w)](https://www.legislation.gov.uk/wsi/2023/919/article/2/w)

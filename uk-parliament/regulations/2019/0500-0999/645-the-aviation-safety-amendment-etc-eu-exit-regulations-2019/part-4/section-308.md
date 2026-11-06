@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 308. Further amendment of [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^key-e482ddfba05945299ad8bbcf2ae9c295]
+## 308. Further amendment of [Commission Regulation (EU) No 1178/2011](https://www.legislation.gov.uk/eur/2011/1178)[^c-e482ddfba05945299ad8bbcf2ae9c295]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ After Article 12 (entry into force and application), omit the sentence which beg
 
 ## Annotations
 
-[^key-e482ddfba05945299ad8bbcf2ae9c295]: Commencement: Reg. 308 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e482ddfba05945299ad8bbcf2ae9c295]: Commencement: Reg. 308 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

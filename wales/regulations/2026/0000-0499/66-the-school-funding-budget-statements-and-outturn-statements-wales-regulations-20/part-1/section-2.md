@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Revocation and consequential amendments[^key-8ee0c7db489c4835b149bf833a598799][^key-861516539abe1284c681bea50c5bf8f8]
+## 2. Revocation and consequential amendments[^c-8ee0c7db489c4835b149bf833a598799][^c-861516539abe1284c681bea50c5bf8f8]
 
 *Extent: E+W*
 
 (1) The Regulations set out in the table of revocations in Schedule 1 are revoked to the extent set out in that Schedule.
 
-(2)[^key-861516539abe1284c681bea50c5bf8f8] The School Funding (Wales) Regulations 2010[^f00013] are amended as follows—
+(2)[^c-861516539abe1284c681bea50c5bf8f8] The School Funding (Wales) Regulations 2010[^f00013] are amended as follows—
 
 - (a) in regulation 3(1), at the appropriate places in alphabetical order insert—
 
@@ -39,9 +39,9 @@ summary: ''
 
 ## Annotations
 
-[^key-8ee0c7db489c4835b149bf833a598799]: Commencement: Reg. 2(1) in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-8ee0c7db489c4835b149bf833a598799]: Commencement: Reg. 2(1) in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
 
-[^key-861516539abe1284c681bea50c5bf8f8]: Commencement: Reg. 2(2) in force at 1.4.2026, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-861516539abe1284c681bea50c5bf8f8]: Commencement: Reg. 2(2) in force at 1.4.2026, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
 
 [^f00013]: Footnote: [S.I. 2010/824 (W. 87)](https://www.legislation.gov.uk/wsi/2010/824), amended by [S.I. 2010/1142 (W. 101)](https://www.legislation.gov.uk/wsi/2010/1142), [S.I. 2021/296 (W. 73)](https://www.legislation.gov.uk/wsi/2021/296) and [S.I. 2022/666 (W. 149)](https://www.legislation.gov.uk/wsi/2022/666).
 

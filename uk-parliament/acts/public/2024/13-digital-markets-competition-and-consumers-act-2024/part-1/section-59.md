@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Value of consideration[^key-af84f5256118d09b52c47889fe8e5942][^key-9df1edc4740c3acd6d0a8b0ee0564175]
+## 59. Value of consideration[^c-af84f5256118d09b52c47889fe8e5942][^c-9df1edc4740c3acd6d0a8b0ee0564175]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ is to be calculated for the purposes of this Chapter.
 
 ## Annotations
 
-[^key-af84f5256118d09b52c47889fe8e5942]: Commencement: S. 59 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
+[^c-af84f5256118d09b52c47889fe8e5942]: Commencement: S. 59 in force at Royal Assent for specified purposes, see [s. 339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c)
 
-[^key-9df1edc4740c3acd6d0a8b0ee0564175]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2024/13/section/59) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-9df1edc4740c3acd6d0a8b0ee0564175]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2024/13/section/59) in force at 1.1.2025 in so far as not already in force by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

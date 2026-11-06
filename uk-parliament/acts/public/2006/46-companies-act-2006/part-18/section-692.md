@@ -20,18 +20,18 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^c21787241][^key-117a998b45b80bdbde9b476f7ff5010d] A private limited company may purchase its own shares out of capital in accordance with Chapter 5.
+(1)[^c21787241][^c-117a998b45b80bdbde9b476f7ff5010d] A private limited company may purchase its own shares out of capital in accordance with Chapter 5.
 
 (1ZA) If authorised to do so by its articles, a private limited company may purchase its own shares out of capital otherwise than in accordance with Chapter 5, up to an aggregate purchase price in a financial year of the lower of—
 
 - (a) £15,000, or
 - (b) the nominal value of 5% of its fully paid share capital as at the beginning of the financial year.
 
-(1A) If the share capital of the company is not denominated in sterling, the value in sterling of the share capital shall be calculated for the purposes of subsection (1ZA)(b)[^key-fbac92189dc1355590c2058f76428a96] at an appropriate spot rate of exchange.
+(1A) If the share capital of the company is not denominated in sterling, the value in sterling of the share capital shall be calculated for the purposes of subsection (1ZA)(b)[^c-fbac92189dc1355590c2058f76428a96] at an appropriate spot rate of exchange.
 
 (1B) The rate must be a rate prevailing on a day specified in the resolution authorising the purchase of the shares.
 
-(2) Subject to[^c21787261] subsections (1) and (1ZA)[^key-8fbdf214fa43ee95a1b102bbc766e90e]—
+(2) Subject to[^c21787261] subsections (1) and (1ZA)[^c-8fbdf214fa43ee95a1b102bbc766e90e]—
 
 - (a) a limited company may only purchase its own shares out of—
   - (i) distributable profits of the company, or
@@ -53,10 +53,10 @@ whichever is the less.
 
 [^c21787241]: Textual amendment: S. 692(1)-(1B) substituted (30.4.2013) for s. 692(1) by [The Companies Act 2006 (Amendment of Part 18) Regulations 2013 (S.I. 2013/999)](https://www.legislation.gov.uk/uksi/2013/999), [reg. 4(2)](https://www.legislation.gov.uk/uksi/2013/999/regulation/4/2)
 
-[^key-117a998b45b80bdbde9b476f7ff5010d]: Textual amendment: S. 692(1)(1ZA) substituted for s. 692(1) (6.4.2015) by [The Companies Act 2006 (Amendment of Part 18) Regulations 2015 (S.I. 2015/532)](https://www.legislation.gov.uk/uksi/2015/532), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/532/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2015/532/regulation/3/2)
+[^c-117a998b45b80bdbde9b476f7ff5010d]: Textual amendment: S. 692(1)(1ZA) substituted for s. 692(1) (6.4.2015) by [The Companies Act 2006 (Amendment of Part 18) Regulations 2015 (S.I. 2015/532)](https://www.legislation.gov.uk/uksi/2015/532), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/532/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2015/532/regulation/3/2)
 
-[^key-fbac92189dc1355590c2058f76428a96]: Textual amendment: Words in s. 692(1A) substituted (6.4.2015) by [The Companies Act 2006 (Amendment of Part 18) Regulations 2015 (S.I. 2015/532)](https://www.legislation.gov.uk/uksi/2015/532), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/532/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2015/532/regulation/3/3)
+[^c-fbac92189dc1355590c2058f76428a96]: Textual amendment: Words in s. 692(1A) substituted (6.4.2015) by [The Companies Act 2006 (Amendment of Part 18) Regulations 2015 (S.I. 2015/532)](https://www.legislation.gov.uk/uksi/2015/532), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/532/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2015/532/regulation/3/3)
 
 [^c21787261]: Textual amendment: Words in s. 692(2) substituted (30.4.2013) by [The Companies Act 2006 (Amendment of Part 18) Regulations 2013 (S.I. 2013/999)](https://www.legislation.gov.uk/uksi/2013/999), [reg. 4(3)](https://www.legislation.gov.uk/uksi/2013/999/regulation/4/3)
 
-[^key-8fbdf214fa43ee95a1b102bbc766e90e]: Textual amendment: Words in s. 692(2) substituted (6.4.2015) by [The Companies Act 2006 (Amendment of Part 18) Regulations 2015 (S.I. 2015/532)](https://www.legislation.gov.uk/uksi/2015/532), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/532/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2015/532/regulation/3/4)
+[^c-8fbdf214fa43ee95a1b102bbc766e90e]: Textual amendment: Words in s. 692(2) substituted (6.4.2015) by [The Companies Act 2006 (Amendment of Part 18) Regulations 2015 (S.I. 2015/532)](https://www.legislation.gov.uk/uksi/2015/532), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/532/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2015/532/regulation/3/4)

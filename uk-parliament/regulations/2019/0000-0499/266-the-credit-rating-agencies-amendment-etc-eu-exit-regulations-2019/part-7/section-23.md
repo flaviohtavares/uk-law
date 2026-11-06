@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Proceedings for offences[^key-63bde21467e2506870ac1c23c8563561]
+## 23. Proceedings for offences[^c-63bde21467e2506870ac1c23c8563561]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ as it applies in respect of an offence under that Act.
 
 ## Annotations
 
-[^key-63bde21467e2506870ac1c23c8563561]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-63bde21467e2506870ac1c23c8563561]: Commencement: Reg. 23 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23565751]: Marginal citation: Amended by paragraph 38 of Schedule 9 to the [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [S.I](https://www.legislation.gov.uk/ukpga/2012/21/section/I). 2013/1881 and [S.I. 2016/1239](https://www.legislation.gov.uk/uksi/2016/1239).

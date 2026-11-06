@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Power of the enforcing authority to prevent or remedy pollution[^key-95b93c2d217aa9864c215d3369b0145c]
+## 29. Power of the enforcing authority to prevent or remedy pollution[^c-95b93c2d217aa9864c215d3369b0145c]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95b93c2d217aa9864c215d3369b0145c]: Commencement: Reg. 29 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-95b93c2d217aa9864c215d3369b0145c]: Commencement: Reg. 29 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

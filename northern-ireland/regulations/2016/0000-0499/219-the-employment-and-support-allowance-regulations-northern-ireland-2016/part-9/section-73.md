@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 73. Effect of statutory maternity pay on an employment and support allowance[^key-3e26cf3a4d12d42cd4d50aabcb7eba55]
+## 73. Effect of statutory maternity pay on an employment and support allowance[^c-3e26cf3a4d12d42cd4d50aabcb7eba55]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e26cf3a4d12d42cd4d50aabcb7eba55]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2016/219/regulation/73) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-3e26cf3a4d12d42cd4d50aabcb7eba55]: Commencement: [Reg. 73](https://www.legislation.gov.uk/nisr/2016/219/regulation/73) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)

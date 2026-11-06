@@ -37,18 +37,18 @@ amending Decision 2002/622/EC establishing a Radio Spectrum Policy Group
 
 (2009/978/EU) (revoked)
 
-[^key-5c53ffa7677dedcdd5bc3ed6ef8802c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c53ffa7677dedcdd5bc3ed6ef8802c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-5c53ffa7677dedcdd5bc3ed6ef8802c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5c53ffa7677dedcdd5bc3ed6ef8802c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into Force[^key-5c53ffa7677dedcdd5bc3ed6ef8802c5]
+## Article 2. Entry into Force[^c-5c53ffa7677dedcdd5bc3ed6ef8802c5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5c53ffa7677dedcdd5bc3ed6ef8802c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5c53ffa7677dedcdd5bc3ed6ef8802c5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c53ffa7677dedcdd5bc3ed6ef8802c5]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c53ffa7677dedcdd5bc3ed6ef8802c5]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 20](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/20); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

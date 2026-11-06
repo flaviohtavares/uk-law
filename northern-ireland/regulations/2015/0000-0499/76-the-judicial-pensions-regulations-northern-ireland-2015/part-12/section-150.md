@@ -67,7 +67,7 @@ but a person falling within paragraph (7) is not to be regarded as a pensioner f
 
 - (a) a pension that is forfeited—
   - (i) as a result of a conviction for treason; or
-  - (ii) under regulation 151, in a case where the relevant offence within the meaning of regulation 151 is an offence under the Official Secrets Acts 1911 to 1989 [^c22374621] or an applicable offence under the National Security Act 2023[^key-1dd47c3d840c2c3ac453c43307fdaf92] ;
+  - (ii) under regulation 151, in a case where the relevant offence within the meaning of regulation 151 is an offence under the Official Secrets Acts 1911 to 1989 [^c22374621] or an applicable offence under the National Security Act 2023[^c-1dd47c3d840c2c3ac453c43307fdaf92] ;
 - (b) a pension that is commuted under regulation 77 or 90; or
 - (c) a pension that is commuted under regulation 149 where the conditions in regulation 60 (payment of a guaranteed minimum pension as a lump sum) of the Occupational Pension Schemes (Contracting-out) Regulations (Northern Ireland) 1996 [^c22374631] are met,
 
@@ -81,6 +81,6 @@ but a person falling within paragraph (7) is not to be regarded as a pensioner f
 
 [^c22374621]: Marginal citation: [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6); see [section 16(2)](https://www.legislation.gov.uk/ukpga/1989/6/section/16/2) for the meaning of “Official Secrets Acts 1911 to 1989”.
 
-[^key-1dd47c3d840c2c3ac453c43307fdaf92]: Textual amendment: Words in [reg. 150(9)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/76/regulation/150/9/a/ii) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 46(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/46/3)
+[^c-1dd47c3d840c2c3ac453c43307fdaf92]: Textual amendment: Words in [reg. 150(9)(a)(ii)](https://www.legislation.gov.uk/nisr/2015/76/regulation/150/9/a/ii) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 46(3)](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/46/3)
 
 [^c22374631]: Marginal citation: S.R. [1996 No. 493](https://www.legislation.gov.uk/ukcm/1996/493). Regulation 60 was substituted by [S.I. 2006/744](https://www.legislation.gov.uk/uksi/2006/744) and amended by S.R. [2006 No. 223](https://www.legislation.gov.uk/ukcm/2006/223), S.R. [2009 No. 365](https://www.legislation.gov.uk/ukcm/2009/365) and S.R. [2010 No. 108](https://www.legislation.gov.uk/ukcm/2010/108).

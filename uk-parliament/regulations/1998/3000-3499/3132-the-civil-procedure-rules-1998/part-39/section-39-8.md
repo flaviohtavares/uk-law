@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39.8. Communications with the court[^key-b49d095be4922342c4f0be7a693890bb]
+## 39.8. Communications with the court[^c-b49d095be4922342c4f0be7a693890bb]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b49d095be4922342c4f0be7a693890bb]: Textual amendment: [Rules 39.8-39.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/39.8) inserted (6.4.2019) by [The Civil Procedure (Amendment) Rules 2019 (S.I. 2019/342)](https://www.legislation.gov.uk/uksi/2019/342), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/342/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2019/342/rule/9)
+[^c-b49d095be4922342c4f0be7a693890bb]: Textual amendment: [Rules 39.8-39.10](https://www.legislation.gov.uk/uksi/1998/3132/rule/39.8) inserted (6.4.2019) by [The Civil Procedure (Amendment) Rules 2019 (S.I. 2019/342)](https://www.legislation.gov.uk/uksi/2019/342), [rules 1(1)](https://www.legislation.gov.uk/uksi/2019/342/rule/1/1), [9](https://www.legislation.gov.uk/uksi/2019/342/rule/9)

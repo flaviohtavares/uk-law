@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Extension to Scotland of certain amendments[^key-5b62e3e5be8db6c008fb6ac2483ddc9b]
+## 46. Extension to Scotland of certain amendments[^c-5b62e3e5be8db6c008fb6ac2483ddc9b]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The amendments made to the Transport and Works Act 1992 by the following provisi
 
 ## Annotations
 
-[^key-5b62e3e5be8db6c008fb6ac2483ddc9b]: Commencement: S. 46 in force at Royal Assent, see [s. 118(1)(z1)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z1)
+[^c-5b62e3e5be8db6c008fb6ac2483ddc9b]: Commencement: S. 46 in force at Royal Assent, see [s. 118(1)(z1)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/1/z1)

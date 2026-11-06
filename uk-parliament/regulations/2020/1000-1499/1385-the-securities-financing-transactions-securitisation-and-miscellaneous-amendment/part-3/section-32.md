@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Determination of an advance application[^key-dadbfecdb7dd43f60a567e1d1f9dac66]
+## 32. Determination of an advance application[^c-dadbfecdb7dd43f60a567e1d1f9dac66]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dadbfecdb7dd43f60a567e1d1f9dac66]: Commencement: Reg. 32 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-dadbfecdb7dd43f60a567e1d1f9dac66]: Commencement: Reg. 32 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Determination of “the assumed age addition”[^key-3614e31c74dabae7cac384783bdc141d]
+## 34. Determination of “the assumed age addition”[^c-3614e31c74dabae7cac384783bdc141d]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3614e31c74dabae7cac384783bdc141d]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2014/1964/regulation/34) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-3614e31c74dabae7cac384783bdc141d]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2014/1964/regulation/34) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

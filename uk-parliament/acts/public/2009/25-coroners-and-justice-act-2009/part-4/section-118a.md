@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118A. Business plan[^key-abac267e575cceb83c9b254edf19ffc7]
+## 118A. Business plan[^c-abac267e575cceb83c9b254edf19ffc7]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abac267e575cceb83c9b254edf19ffc7]: Textual amendment: [S. 118A](https://www.legislation.gov.uk/ukpga/2009/25/section/118A) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 19](https://www.legislation.gov.uk/ukpga/2026/2/section/19), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-abac267e575cceb83c9b254edf19ffc7]: Textual amendment: [S. 118A](https://www.legislation.gov.uk/ukpga/2009/25/section/118A) inserted (22.3.2026) by [Sentencing Act 2026 (c. 2)](https://www.legislation.gov.uk/ukpga/2026/2), [ss. 19](https://www.legislation.gov.uk/ukpga/2026/2/section/19), [49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

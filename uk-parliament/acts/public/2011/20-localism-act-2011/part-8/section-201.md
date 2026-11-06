@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The object of an MDC is to secure the regeneration or development[^key-56c13f566b1358ea8deeafde84bb6218] of its area.
+(1) The object of an MDC is to secure the regeneration or development[^c-56c13f566b1358ea8deeafde84bb6218] of its area.
 
-(1A)[^key-82c25c195144c5989cc4675ea705bec0] In pursuing that object, an MDC must aim to contribute to—
+(1A)[^c-82c25c195144c5989cc4675ea705bec0] In pursuing that object, an MDC must aim to contribute to—
 
 - (a) the achievement of sustainable development, and
 - (b) the mitigation of, and adaptation to, climate change.
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56c13f566b1358ea8deeafde84bb6218]: Textual amendment: Words in [s. 201(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/201/1) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 100(7)](https://www.legislation.gov.uk/ukpga/2025/34/section/100/7), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/d)
+[^c-56c13f566b1358ea8deeafde84bb6218]: Textual amendment: Words in [s. 201(1)](https://www.legislation.gov.uk/ukpga/2011/20/section/201/1) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 100(7)](https://www.legislation.gov.uk/ukpga/2025/34/section/100/7), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(d)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/d)
 
-[^key-82c25c195144c5989cc4675ea705bec0]: Textual amendment: [S. 201(1A)](https://www.legislation.gov.uk/ukpga/2011/20/section/201/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2011/20/section/201/1B) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 102(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/102/3), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(f)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/f)
+[^c-82c25c195144c5989cc4675ea705bec0]: Textual amendment: [S. 201(1A)](https://www.legislation.gov.uk/ukpga/2011/20/section/201/1A)[(1B)](https://www.legislation.gov.uk/ukpga/2011/20/section/201/1B) inserted (18.2.2026) by [Planning and Infrastructure Act 2025 (c. 34)](https://www.legislation.gov.uk/ukpga/2025/34), [ss. 102(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/102/3), [118(4)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/4) (with [s. 116](https://www.legislation.gov.uk/ukpga/2025/34/section/116)); [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(f)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/f)

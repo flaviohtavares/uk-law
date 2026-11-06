@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 119. Licence continued pending renewal[^key-c46ea0c206c5a3016c5ff8048ed42ac8]
+## 119. Licence continued pending renewal[^c-c46ea0c206c5a3016c5ff8048ed42ac8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c46ea0c206c5a3016c5ff8048ed42ac8]: Textual amendment: S. 119 omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/5) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)
+[^c-c46ea0c206c5a3016c5ff8048ed42ac8]: Textual amendment: S. 119 omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 5](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/5) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)

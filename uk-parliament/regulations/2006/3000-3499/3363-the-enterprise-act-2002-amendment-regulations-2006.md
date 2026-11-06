@@ -159,19 +159,19 @@ After section 221(3)(b) insert—
 
 .
 
-## 15.[^key-5fe112c2346319f9878fb60a5fa83e01]
+## 15.[^c-5fe112c2346319f9878fb60a5fa83e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16.[^key-5fe112c2346319f9878fb60a5fa83e01]
+## 16.[^c-5fe112c2346319f9878fb60a5fa83e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17.[^key-5fe112c2346319f9878fb60a5fa83e01]
+## 17.[^c-5fe112c2346319f9878fb60a5fa83e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18.[^key-5fe112c2346319f9878fb60a5fa83e01]
+## 18.[^c-5fe112c2346319f9878fb60a5fa83e01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -236,25 +236,25 @@ For section 236 substitute—
 
 ## 23. Financial Conduct Authority[^M_F_f5488136-a464-4003-c47e-d78a50ef3e12]
 
-The functions of the Financial Conduct Authority[^key-0b3b658e8bbdd2a50a1556d2f4c90bbd] which are exercisable by virtue of the CPC Regulation shall be treated as functions conferred on the Authority under provisions of the Financial Services and Markets Act 2000 [^c17670491].
+The functions of the Financial Conduct Authority[^c-0b3b658e8bbdd2a50a1556d2f4c90bbd] which are exercisable by virtue of the CPC Regulation shall be treated as functions conferred on the Authority under provisions of the Financial Services and Markets Act 2000 [^c17670491].
 
-## 24. Amendments to the 2001 Act[^key-82493f43602b8cb51319e36b2e9429fa]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 25.[^key-82493f43602b8cb51319e36b2e9429fa]
+## 24. Amendments to the 2001 Act[^c-82493f43602b8cb51319e36b2e9429fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 26.[^key-82493f43602b8cb51319e36b2e9429fa]
+## 25.[^c-82493f43602b8cb51319e36b2e9429fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 27.[^key-82493f43602b8cb51319e36b2e9429fa]
+## 26.[^c-82493f43602b8cb51319e36b2e9429fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 28.[^key-82493f43602b8cb51319e36b2e9429fa]
+## 27.[^c-82493f43602b8cb51319e36b2e9429fa]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 28.[^c-82493f43602b8cb51319e36b2e9429fa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -315,7 +315,7 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^c17670421]: Marginal citation: [2002 c.40](https://www.legislation.gov.uk/ukpga/2002/40).
 
-[^key-5fe112c2346319f9878fb60a5fa83e01]: Textual amendment: [Regs. 15-18](https://www.legislation.gov.uk/uksi/2006/3363/regulation/15) revoked (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(f)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/f); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-5fe112c2346319f9878fb60a5fa83e01]: Textual amendment: [Regs. 15-18](https://www.legislation.gov.uk/uksi/2006/3363/regulation/15) revoked (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(f)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/f); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^c17670441]: Marginal citation: OJ No. L364, 9.12.2004.
 
@@ -329,10 +329,10 @@ A full regulatory impact assessment of the effect that this instrument will have
 
 [^M_F_f5488136-a464-4003-c47e-d78a50ef3e12]: Textual amendment: Reg. 23 heading substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/123)
 
-[^key-0b3b658e8bbdd2a50a1556d2f4c90bbd]: Textual amendment: Words in reg. 23 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/123)
+[^c-0b3b658e8bbdd2a50a1556d2f4c90bbd]: Textual amendment: Words in reg. 23 substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/472/article/1/1), [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/123)
 
 [^c17670491]: Marginal citation: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-82493f43602b8cb51319e36b2e9429fa]: Textual amendment: [Regs. 24-28](https://www.legislation.gov.uk/uksi/2006/3363/regulation/24) revoked (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(f)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/f); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-82493f43602b8cb51319e36b2e9429fa]: Textual amendment: [Regs. 24-28](https://www.legislation.gov.uk/uksi/2006/3363/regulation/24) revoked (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 85(f)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/85/f); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
 [^c17670511]: Marginal citation: [1998 c.29](https://www.legislation.gov.uk/ukpga/1998/29).

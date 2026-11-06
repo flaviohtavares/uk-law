@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 11 — Electronic Communication[^key-bce53e9e86085bd4fa283045fd45f468]
+## SCHEDULE 11 — Electronic Communication[^c-bce53e9e86085bd4fa283045fd45f468]
 
 *Extent: E+W+S*
 
@@ -101,4 +101,4 @@ If it is necessary to prove, for the purpose of any legal proceedings, the conte
 
 ## Annotations
 
-[^key-bce53e9e86085bd4fa283045fd45f468]: Textual amendment: Sch. 11 inserted (20.12.2006) by [The Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2006/2968/regulation/2/5), [Sch.](https://www.legislation.gov.uk/uksi/2006/2968/schedule)
+[^c-bce53e9e86085bd4fa283045fd45f468]: Textual amendment: Sch. 11 inserted (20.12.2006) by [The Housing Benefit and Council Tax Benefit (Electronic Communications) Order 2006 (S.I. 2006/2968)](https://www.legislation.gov.uk/uksi/2006/2968), [arts. 1](https://www.legislation.gov.uk/uksi/2006/2968/article/1), [2(5)](https://www.legislation.gov.uk/uksi/2006/2968/regulation/2/5), [Sch.](https://www.legislation.gov.uk/uksi/2006/2968/schedule)

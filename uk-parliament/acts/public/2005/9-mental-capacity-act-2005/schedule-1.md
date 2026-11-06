@@ -105,7 +105,7 @@ Section 9
 
 (4) A person who, in an application for registration, makes a statement which he knows to be false in a material particular is guilty of an offence and is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-905e83259f77b370983725c64e00ba97] or a fine not exceeding the statutory maximum or both;
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-905e83259f77b370983725c64e00ba97] or a fine not exceeding the statutory maximum or both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or a fine or both.
 
 **5.** Subject to paragraphs 11 to 14, the Public Guardian must register the instrument as a lasting power of attorney at the end of the prescribed period.
@@ -231,7 +231,7 @@ if satisfied that no useful purpose would be served by giving the notice.
 
 **17.** (1) The Public Guardian must cancel the registration of an instrument as a lasting power of attorney on being satisfied that the power has been revoked—
 
-- (a) as a result of the donor's bankruptcy or a debt relief order (under Part 7A of the Insolvency Act 1986) having been made in respect of the donor[^key-a1f1d9df60d58dcf13d7934f51ca5ae0], or
+- (a) as a result of the donor's bankruptcy or a debt relief order (under Part 7A of the Insolvency Act 1986) having been made in respect of the donor[^c-a1f1d9df60d58dcf13d7934f51ca5ae0], or
 - (b) on the occurrence of an event mentioned in section 13(6)(a) to (d).
 
 (2) If the Public Guardian cancels the registration of an instrument he must notify—
@@ -286,6 +286,6 @@ the Public Guardian must attach to the instrument a note to that effect.
 
 ## Annotations
 
-[^key-905e83259f77b370983725c64e00ba97]: Textual amendment: Words in [Sch. 1 para. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/1/paragraph/4/4/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-905e83259f77b370983725c64e00ba97]: Textual amendment: Words in [Sch. 1 para. 4(4)(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/1/paragraph/4/4/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-a1f1d9df60d58dcf13d7934f51ca5ae0]: Textual amendment: Words in [Sch. 1 para. 17(1)(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/1/paragraph/17/1/a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 53(5)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/53/5) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))
+[^c-a1f1d9df60d58dcf13d7934f51ca5ae0]: Textual amendment: Words in [Sch. 1 para. 17(1)(a)](https://www.legislation.gov.uk/ukpga/2005/9/schedule/1/paragraph/17/1/a) inserted (1.10.2012) by [The Tribunals, Courts and Enforcement Act 2007 (Consequential Amendments) Order 2012 (S.I. 2012/2404)](https://www.legislation.gov.uk/uksi/2012/2404), [art. 1](https://www.legislation.gov.uk/uksi/2012/2404/article/1), [Sch. 2 para. 53(5)](https://www.legislation.gov.uk/uksi/2012/2404/schedule/2/paragraph/53/5) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/2404/article/5))

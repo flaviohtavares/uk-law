@@ -35,22 +35,22 @@ supplementing Regulation (EU) 2019/1700 of the European Parliament and of the Co
 
 (Text with EEA relevance) (revoked)
 
-[^key-f2d87cbf92175a22bef5097a5e56633c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2d87cbf92175a22bef5097a5e56633c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-f2d87cbf92175a22bef5097a5e56633c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f2d87cbf92175a22bef5097a5e56633c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f2d87cbf92175a22bef5097a5e56633c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f2d87cbf92175a22bef5097a5e56633c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2d87cbf92175a22bef5097a5e56633c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2d87cbf92175a22bef5097a5e56633c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Number and title of the variables for the dataset in the labour force domain[^key-f2d87cbf92175a22bef5097a5e56633c]
+## ANNEX — Number and title of the variables for the dataset in the labour force domain[^c-f2d87cbf92175a22bef5097a5e56633c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f2d87cbf92175a22bef5097a5e56633c]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 125](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/125)
+[^c-f2d87cbf92175a22bef5097a5e56633c]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 125](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/125)

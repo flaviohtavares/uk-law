@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 8. Measures at contact premises[^key-c8c071013c45e77fa4dfc2007f4b5fb2]
+## 8. Measures at contact premises[^c-c8c071013c45e77fa4dfc2007f4b5fb2]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ an inspector must serve a notice on the occupier designating that premises as co
 
 ## Annotations
 
-[^key-c8c071013c45e77fa4dfc2007f4b5fb2]: Commencement: Reg. 8 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)
+[^c-c8c071013c45e77fa4dfc2007f4b5fb2]: Commencement: Reg. 8 in force at 14.8.2014, see [reg. 1(1)(c)](https://www.legislation.gov.uk/uksi/2014/1894/regulation/1/1/c)

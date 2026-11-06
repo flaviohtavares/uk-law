@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-b3957488a98b3fd599f5b15f3e1c2d90]
+## 1. Citation and commencement[^c-b3957488a98b3fd599f5b15f3e1c2d90]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the North Killingholme (Generating Station) Order 201
 
 ## Annotations
 
-[^key-b3957488a98b3fd599f5b15f3e1c2d90]: Commencement: Art. 1 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-b3957488a98b3fd599f5b15f3e1c2d90]: Commencement: Art. 1 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)

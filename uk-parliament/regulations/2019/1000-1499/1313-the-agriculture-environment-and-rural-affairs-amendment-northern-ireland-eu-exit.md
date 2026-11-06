@@ -62,7 +62,7 @@ There has been open and transparent public consultation during the preparation o
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and extent[^key-4e78aeea61412d0ccf65f9d88d845e8a]
+### 1. Citation, commencement and extent[^c-4e78aeea61412d0ccf65f9d88d845e8a]
 
 (1) These Regulations may be cited as the Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) (No. 2) Regulations 2019 and come into force in accordance with paragraph (2).
 
@@ -75,16 +75,16 @@ There has been open and transparent public consultation during the preparation o
 
 ## PART 2 — Amendment of the Agriculture (Food) Provisions
 
-### 2. Amendment of the Eggs and Chicks Regulations (Northern Ireland) 2010[^key-b71961e9dd3ce351f7c74fb31aff30c1]
+### 2. Amendment of the Eggs and Chicks Regulations (Northern Ireland) 2010[^c-b71961e9dd3ce351f7c74fb31aff30c1]
 
 In the Eggs and Chicks Regulations (Northern Ireland) 2010 [^c23937921], in Schedule 2, in Part 2 in the Table—
 
-- (a)[^key-b07fa0dac1f63794c2323b88c71821c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-b07fa0dac1f63794c2323b88c71821c2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in row 26 (Article 12(2), fourth sub-paragraph), in the second column, for “Chapter III of Council Directive [1999/74/EC](https://www.legislation.gov.uk/eudr/1999/74)” substitute “ Schedule 3 to the Northern Ireland welfare regulations ”.
 
 ## PART 3 — Amendment of the Animals Provisions
 
-### 3. Amendment of the Importation of Animal Pathogens Order (Northern Ireland) 1999[^key-c1a9316fe318e5617a14af3d0b12f6e6]
+### 3. Amendment of the Importation of Animal Pathogens Order (Northern Ireland) 1999[^c-c1a9316fe318e5617a14af3d0b12f6e6]
 
 (1) The Importation of Animal Pathogens Order (Northern Ireland) 1999 [^c23937931] is amended as follows.
 
@@ -97,7 +97,7 @@ In the Eggs and Chicks Regulations (Northern Ireland) 2010 [^c23937921], in Sche
 
 ## PART 4 — Amendment of the Horticulture Provisions
 
-### 4. Amendment of the Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019[^key-36d9908a72dc6c2a6b8906ec5901568c]
+### 4. Amendment of the Agriculture, Environment and Rural Affairs (Amendment) (Northern Ireland) (EU Exit) Regulations 2019[^c-36d9908a72dc6c2a6b8906ec5901568c]
 
 **Not yet in force.**
 
@@ -105,22 +105,22 @@ In the Eggs and Chicks Regulations (Northern Ireland) 2010 [^c23937921], in Sche
 
 ## PART 5 — Amendment of the Plant Health Provisions
 
-### 5. Amendment of the Marketing of Vegetable Plant Material Regulations (Northern Ireland) 1995[^key-43c3b09197c0187cc1500397ff308eb3]
+### 5. Amendment of the Marketing of Vegetable Plant Material Regulations (Northern Ireland) 1995[^c-43c3b09197c0187cc1500397ff308eb3]
 
 In the Marketing of Vegetable Plant Material Regulations (Northern Ireland) 1995 [^c23937961], in regulation 4A(1), and in the heading, for “European Union” substitute “ United Kingdom ”.
 
-### 6. Amendment of the Plant Health (Wood and Bark) Order (Northern Ireland) 2006[^key-5ee97c0602f166750cfe5e88abadbec4]
+### 6. Amendment of the Plant Health (Wood and Bark) Order (Northern Ireland) 2006[^c-5ee97c0602f166750cfe5e88abadbec4]
 
 In the Plant Health (Wood and Bark) Order (Northern Ireland) 2006 [^c23937971], in Article 2—
 
 - (a) omit the definitions from “Decision [2002/757/EC](https://www.legislation.gov.uk/european/decision/2002/0757)” to “Decision (EU) 2018/1503”;
 - (b) omit paragraph (4).
 
-### 7. Amendment of the Plant Health Order (Northern Ireland) 2018[^key-3627adfb940e8bc08c2bf04fc1ce74ef]
+### 7. Amendment of the Plant Health Order (Northern Ireland) 2018[^c-3627adfb940e8bc08c2bf04fc1ce74ef]
 
 In the Plant Health Order (Northern Ireland) 2018 [^c23937981], in Article 2, omit the definition of “Decision (EU) 2018/1503”.
 
-### 8. Amendment of the Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019[^key-ecd72c0e5f7c9e34bdaf6819999038da]
+### 8. Amendment of the Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019[^c-ecd72c0e5f7c9e34bdaf6819999038da]
 
 In the Marketing of Seeds and Plant Propagating Material (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 [^c23937991], in regulation 56, for the words before the inserted text substitute—
 
@@ -133,7 +133,7 @@ In the Marketing of Seeds and Plant Propagating Material (Amendment) (Northern I
 
 ## PART 6 — Amendment of the Wildlife Provisions
 
-### 9. Amendment of the Invasive Alien Species (Enforcement and Permitting) Order (Northern Ireland) 2019[^key-d34b06dc7a701620fb022c083bb608a8]
+### 9. Amendment of the Invasive Alien Species (Enforcement and Permitting) Order (Northern Ireland) 2019[^c-d34b06dc7a701620fb022c083bb608a8]
 
 **Not yet in force.**
 
@@ -167,34 +167,34 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23937911]: Marginal citation: OJ No. L 31, 1.2.2002, p. 1, as amended by Commission Regulation (EC) No. 202/2008 (OJ No. L 60, 4.3.2008, p. 17).
 
-[^key-4e78aeea61412d0ccf65f9d88d845e8a]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
+[^c-4e78aeea61412d0ccf65f9d88d845e8a]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
 
-[^key-b71961e9dd3ce351f7c74fb31aff30c1]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-b71961e9dd3ce351f7c74fb31aff30c1]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23937921]: Marginal citation: S.R. [2010 No. 125](https://www.legislation.gov.uk/ukcm/2010/125). Relevant amendments are made to the Table in S.R. [2014 No. 92](https://www.legislation.gov.uk/ukcm/2014/92), [regulation 5(11)(b)(iii)](https://www.legislation.gov.uk/ukcm/2014/92/regulation/5/11/b/iii) and [S.I. 2019/347](https://www.legislation.gov.uk/uksi/2019/347), [regulation 4(7)(b)](https://www.legislation.gov.uk/uksi/2019/347/regulation/4/7/b).
 
-[^key-b07fa0dac1f63794c2323b88c71821c2]: Textual amendment: Reg. 2(a) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
+[^c-b07fa0dac1f63794c2323b88c71821c2]: Textual amendment: Reg. 2(a) revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
 
-[^key-c1a9316fe318e5617a14af3d0b12f6e6]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-c1a9316fe318e5617a14af3d0b12f6e6]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23937931]: Marginal citation: S.R. [1999 No. 433](https://www.legislation.gov.uk/ukcm/1999/433), as amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-36d9908a72dc6c2a6b8906ec5901568c]: Textual amendment: Reg. 4 revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
+[^c-36d9908a72dc6c2a6b8906ec5901568c]: Textual amendment: Reg. 4 revoked (31.12.2020 immediately before IP completion day) by [The Agriculture, Animals and Aquaculture (Health, Identification, Welfare, Trade etc.) (Amendment) (EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/324)](https://www.legislation.gov.uk/nisr/2020/324), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/324/regulation/1/2), [Sch.](https://www.legislation.gov.uk/nisr/2020/324/schedule)
 
-[^key-43c3b09197c0187cc1500397ff308eb3]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-43c3b09197c0187cc1500397ff308eb3]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23937961]: Marginal citation: S.R. [1995 No. 415](https://www.legislation.gov.uk/ukcm/1995/415). Regulation 4A was inserted by S.R. [2019 No. 161](https://www.legislation.gov.uk/ukcm/2019/161).
 
-[^key-5ee97c0602f166750cfe5e88abadbec4]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-5ee97c0602f166750cfe5e88abadbec4]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23937971]: Marginal citation: S.R. [2006 No. 66](https://www.legislation.gov.uk/ukcm/2006/66), as amended by S.R. [2012 No. 400](https://www.legislation.gov.uk/ukcm/2012/400), S.R. [2015 No. 129](https://www.legislation.gov.uk/ukcm/2015/129), S.R. [2019 No. 99](https://www.legislation.gov.uk/ukcm/2019/99), S.R. [2019 No. 162](https://www.legislation.gov.uk/ukcm/2019/162) and [S.I. 2019/820](https://www.legislation.gov.uk/uksi/2019/820).
 
-[^key-3627adfb940e8bc08c2bf04fc1ce74ef]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-3627adfb940e8bc08c2bf04fc1ce74ef]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23937981]: Marginal citation: S.R. [2018 No. 184](https://www.legislation.gov.uk/ukcm/2018/184), as amended by S.R. [2019 No. 49](https://www.legislation.gov.uk/ukcm/2019/49), S.R. [2019 No. 151](https://www.legislation.gov.uk/ukcm/2019/151), S.R. [2019 No. 160](https://www.legislation.gov.uk/ukcm/2019/160) and [S.I. 2019/820](https://www.legislation.gov.uk/uksi/2019/820).
 
-[^key-ecd72c0e5f7c9e34bdaf6819999038da]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
+[^c-ecd72c0e5f7c9e34bdaf6819999038da]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/a)
 
 [^c23937991]: Marginal citation: [S.I. 2019/211](https://www.legislation.gov.uk/uksi/2019/211) to which there are amendments not relevant to these Regulations.
 
-[^key-d34b06dc7a701620fb022c083bb608a8]: Textual amendment: Reg. 9 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides and Invasive Alien Species (Enforcement and Permitting)(Amendment)(EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/268)](https://www.legislation.gov.uk/nisr/2020/268), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/268/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2020/268/regulation/4)
+[^c-d34b06dc7a701620fb022c083bb608a8]: Textual amendment: Reg. 9 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides and Invasive Alien Species (Enforcement and Permitting)(Amendment)(EU Exit) Regulations (Northern Ireland) 2020 (S.R. 2020/268)](https://www.legislation.gov.uk/nisr/2020/268), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2020/268/regulation/1/2), [4](https://www.legislation.gov.uk/nisr/2020/268/regulation/4)

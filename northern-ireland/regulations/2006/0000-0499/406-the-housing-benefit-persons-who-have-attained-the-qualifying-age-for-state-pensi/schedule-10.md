@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 10 — Electronic communication[^key-992fe7683e6612d5ebee0bcf73c30519][^key-952308dacd2e84b2d9e7ab341cc6e6b0]
+## SCHEDULE 10 — Electronic communication[^c-992fe7683e6612d5ebee0bcf73c30519][^c-952308dacd2e84b2d9e7ab341cc6e6b0]
 
 *Extent: N.I.*
 
@@ -95,6 +95,6 @@ If it is necessary to prove, for the purpose of any legal proceedings, the conte
 
 ## Annotations
 
-[^key-992fe7683e6612d5ebee0bcf73c30519]: Modification: [Sch. 10](https://www.legislation.gov.uk/nisr/2006/406/schedule/10) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [25(2)](https://www.legislation.gov.uk/nisr/2007/203/regulation/25/2)
+[^c-992fe7683e6612d5ebee0bcf73c30519]: Modification: [Sch. 10](https://www.legislation.gov.uk/nisr/2006/406/schedule/10) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [25(2)](https://www.legislation.gov.uk/nisr/2007/203/regulation/25/2)
 
-[^key-952308dacd2e84b2d9e7ab341cc6e6b0]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/nisr/2006/406/schedule/10) added (20.12.2006) by [The Housing Benefit (Electronic Communications) Order (Northern Ireland) 2006 (S.R. 2006/463)](https://www.legislation.gov.uk/nisr/2006/463), [arts. 1](https://www.legislation.gov.uk/nisr/2006/463/article/1), [3(5)](https://www.legislation.gov.uk/nisr/2006/463/article/3/5)
+[^c-952308dacd2e84b2d9e7ab341cc6e6b0]: Textual amendment: [Sch. 10](https://www.legislation.gov.uk/nisr/2006/406/schedule/10) added (20.12.2006) by [The Housing Benefit (Electronic Communications) Order (Northern Ireland) 2006 (S.R. 2006/463)](https://www.legislation.gov.uk/nisr/2006/463), [arts. 1](https://www.legislation.gov.uk/nisr/2006/463/article/1), [3(5)](https://www.legislation.gov.uk/nisr/2006/463/article/3/5)

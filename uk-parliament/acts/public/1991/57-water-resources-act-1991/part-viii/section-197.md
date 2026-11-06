@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) It shall be the duty of the appropriate agency[^key-71d5b396987579b35fd123aa3a0030cb] —
+(1) It shall be the duty of the appropriate agency[^c-71d5b396987579b35fd123aa3a0030cb] —
 
 - (a) to provide a water undertaker with all such information to which this section applies as is in the possession of the appropriate agency and is reasonably requested by the undertaker for purposes connected with the carrying out of its functions; and
 - (b) to provide reasonable facilities to all persons—
@@ -46,6 +46,6 @@ and any person who, without reasonable excuse, refuses or fails to permit the ap
 
 ## Annotations
 
-[^key-71d5b396987579b35fd123aa3a0030cb]: Textual amendment: Words in ss. 189-197 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-71d5b396987579b35fd123aa3a0030cb]: Textual amendment: Words in ss. 189-197 substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18740551]: Marginal citation: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56).

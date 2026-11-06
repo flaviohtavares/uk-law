@@ -49,13 +49,13 @@ In paragraph (b) above “ **substance** ” includes a substance in solid or li
 
 (7) In this section—
 
-- “ **aerodrome authority** ” means a person owning or managing an aerodrome licensed under an Air Navigation Order or authorised by a certificate under the Aerodromes Regulation[^key-cc295ef4de0cc6aa6c72a59d0f5a5341]; and
-- “ **charges** ”, in relation to an aerodrome authority, means the charges the authority makes for the use of an aerodrome so licensed or authorised[^key-a8ad45d33e3249dd6febfb6faa630c43] which is owned or managed by the authority.
+- “ **aerodrome authority** ” means a person owning or managing an aerodrome licensed under an Air Navigation Order or authorised by a certificate under the Aerodromes Regulation[^c-cc295ef4de0cc6aa6c72a59d0f5a5341]; and
+- “ **charges** ”, in relation to an aerodrome authority, means the charges the authority makes for the use of an aerodrome so licensed or authorised[^c-a8ad45d33e3249dd6febfb6faa630c43] which is owned or managed by the authority.
 
 ## Annotations
 
 [^c19362721]: Textual amendment: S. 38 substituted (1.3.2007) by [Civil Aviation Act 2006 (c. 34)](https://www.legislation.gov.uk/ukpga/2006/34), [ss. 1](https://www.legislation.gov.uk/ukpga/2006/34/section/1), [14](https://www.legislation.gov.uk/ukpga/2006/34/section/14); [S.I. 2007/598](https://www.legislation.gov.uk/uksi/2007/598), [art. 2](https://www.legislation.gov.uk/uksi/2007/598/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2007/598/schedule/1)
 
-[^key-cc295ef4de0cc6aa6c72a59d0f5a5341]: Textual amendment: Words in [s. 38(7)](https://www.legislation.gov.uk/ukpga/1982/16/section/38/7) inserted (10.1.2015) by [The Air Navigation (Amendment) (No. 4) Order 2014 (S.I. 2014/3302)](https://www.legislation.gov.uk/uksi/2014/3302), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3302/article/1/1), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2014/3302/schedule/paragraph/3/3/a)
+[^c-cc295ef4de0cc6aa6c72a59d0f5a5341]: Textual amendment: Words in [s. 38(7)](https://www.legislation.gov.uk/ukpga/1982/16/section/38/7) inserted (10.1.2015) by [The Air Navigation (Amendment) (No. 4) Order 2014 (S.I. 2014/3302)](https://www.legislation.gov.uk/uksi/2014/3302), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3302/article/1/1), [Sch. para. 3(3)(a)](https://www.legislation.gov.uk/uksi/2014/3302/schedule/paragraph/3/3/a)
 
-[^key-a8ad45d33e3249dd6febfb6faa630c43]: Textual amendment: Words in [s. 38(7)](https://www.legislation.gov.uk/ukpga/1982/16/section/38/7) inserted (10.1.2015) by [The Air Navigation (Amendment) (No. 4) Order 2014 (S.I. 2014/3302)](https://www.legislation.gov.uk/uksi/2014/3302), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3302/article/1/1), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2014/3302/schedule/paragraph/3/3/b)
+[^c-a8ad45d33e3249dd6febfb6faa630c43]: Textual amendment: Words in [s. 38(7)](https://www.legislation.gov.uk/ukpga/1982/16/section/38/7) inserted (10.1.2015) by [The Air Navigation (Amendment) (No. 4) Order 2014 (S.I. 2014/3302)](https://www.legislation.gov.uk/uksi/2014/3302), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/3302/article/1/1), [Sch. para. 3(3)(b)](https://www.legislation.gov.uk/uksi/2014/3302/schedule/paragraph/3/3/b)

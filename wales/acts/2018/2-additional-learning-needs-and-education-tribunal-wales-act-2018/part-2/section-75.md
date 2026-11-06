@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Regulations about procedure[^key-a4b9c18ca065cf7f40ae93afb125f1a3][^key-39b60e60ae8fb5856ddb07364ce48a26]
+## 75. Regulations about procedure[^c-a4b9c18ca065cf7f40ae93afb125f1a3][^c-39b60e60ae8fb5856ddb07364ce48a26]
 
 *Extent: E+W*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a4b9c18ca065cf7f40ae93afb125f1a3]: Commencement: S. 75 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(i)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/i)
+[^c-a4b9c18ca065cf7f40ae93afb125f1a3]: Commencement: S. 75 in force at 2.11.2020 for specified purposes by [S.I. 2020/1182](https://www.legislation.gov.uk/wsi/2020/1182), [reg. 3(1)(i)](https://www.legislation.gov.uk/wsi/2020/1182/regulation/3/1/i)
 
-[^key-39b60e60ae8fb5856ddb07364ce48a26]: Commencement: S. 75 in force at 1.9.2021 in so far as not already in force by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)
+[^c-39b60e60ae8fb5856ddb07364ce48a26]: Commencement: S. 75 in force at 1.9.2021 in so far as not already in force by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(g)](https://www.legislation.gov.uk/wsi/2021/373/article/8/g)

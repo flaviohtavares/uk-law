@@ -23,9 +23,9 @@ summary: ''
 If the National Assembly considers such a measure necessary to minimise the risk of the spread of avian influenza or of avian influenza virus from suspect premises in England, Wales, Scotland or Northern Ireland, it must take one or more of the following measures—
 
 - (a) declare a temporary movement restriction zone in such part of Wales as it considers necessary;
-- (b) serve a notice on the owner or occupier of suspect premises in Wales requiring him or her to comply with such of the measures in Schedules 1 and 9[^key-73d4750c3a3f98a6fda8f4db8b895599] as are specified in the notice;
+- (b) serve a notice on the owner or occupier of suspect premises in Wales requiring him or her to comply with such of the measures in Schedules 1 and 9[^c-73d4750c3a3f98a6fda8f4db8b895599] as are specified in the notice;
 - (c) declare a temporary control zone in such part of Wales and of such size as he or she considers necessary around suspect premises.
 
 ## Annotations
 
-[^key-73d4750c3a3f98a6fda8f4db8b895599]: Textual amendment: Words in [art. 13(b)](https://www.legislation.gov.uk/wsi/2006/2927/article/13/b) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [12](https://www.legislation.gov.uk/wsi/2025/1357/article/12)
+[^c-73d4750c3a3f98a6fda8f4db8b895599]: Textual amendment: Words in [art. 13(b)](https://www.legislation.gov.uk/wsi/2006/2927/article/13/b) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [12](https://www.legislation.gov.uk/wsi/2025/1357/article/12)

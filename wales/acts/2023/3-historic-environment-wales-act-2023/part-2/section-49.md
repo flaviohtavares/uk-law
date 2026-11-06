@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Acquisition and guardianship of land in the vicinity of a monument[^key-7a0f0a9f7495a9a210652c0fcfe41a55][^key-2096e7109028203a8b13bac1047fb512]
+## 49. Acquisition and guardianship of land in the vicinity of a monument[^c-7a0f0a9f7495a9a210652c0fcfe41a55][^c-2096e7109028203a8b13bac1047fb512]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a0f0a9f7495a9a210652c0fcfe41a55]: Commencement: S. 49 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-7a0f0a9f7495a9a210652c0fcfe41a55]: Commencement: S. 49 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-2096e7109028203a8b13bac1047fb512]: Commencement: [S. 49](https://www.legislation.gov.uk/asc/2023/3/section/49) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-2096e7109028203a8b13bac1047fb512]: Commencement: [S. 49](https://www.legislation.gov.uk/asc/2023/3/section/49) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

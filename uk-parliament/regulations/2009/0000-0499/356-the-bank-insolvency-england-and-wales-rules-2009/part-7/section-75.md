@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 75. Payments of a periodical nature[^key-e07dd6061e72f01b083c711f74a6e0a4]
+## 75. Payments of a periodical nature[^c-e07dd6061e72f01b083c711f74a6e0a4]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.92 of the 1986 Rules. In paragraph (1), leave out from “or, if”
 
 ## Annotations
 
-[^key-e07dd6061e72f01b083c711f74a6e0a4]: Commencement: Rule 75 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-e07dd6061e72f01b083c711f74a6e0a4]: Commencement: Rule 75 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00028]: Footnote: Paragraph (1) was amended by [S.I. 2005/527](https://www.legislation.gov.uk/uksi/2005/527).

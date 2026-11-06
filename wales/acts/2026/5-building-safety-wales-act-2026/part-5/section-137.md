@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 137. Consequential and transitional provision etc.[^key-bbe54c12353d3e5c831c19c6d7aca986]
+## 137. Consequential and transitional provision etc.[^c-bbe54c12353d3e5c831c19c6d7aca986]
 
 *Extent: E+W*
 
@@ -24,13 +24,13 @@ summary: ''
 
 (2) Schedule 4 contains transitional and saving provisions in connection with the amendments to the Fire Safety Order.
 
-(3)[^key-bbe54c12353d3e5c831c19c6d7aca986] The Welsh Ministers may by regulations—
+(3)[^c-bbe54c12353d3e5c831c19c6d7aca986] The Welsh Ministers may by regulations—
 
 - (a) make provision that is incidental or supplementary to, or consequential on, any provision of this Act;
 - (b) make transitional or saving provision in connection with any provision of this Act.
 
-(4)[^key-bbe54c12353d3e5c831c19c6d7aca986] Regulations under subsection (3) may amend, repeal or revoke any enactment (including any provision of this Act).
+(4)[^c-bbe54c12353d3e5c831c19c6d7aca986] Regulations under subsection (3) may amend, repeal or revoke any enactment (including any provision of this Act).
 
 ## Annotations
 
-[^key-bbe54c12353d3e5c831c19c6d7aca986]: Commencement: S. 137(3)(4) in force at 28.4.2026, see [s. 138(1)(d)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/d)
+[^c-bbe54c12353d3e5c831c19c6d7aca986]: Commencement: S. 137(3)(4) in force at 28.4.2026, see [s. 138(1)(d)](https://www.legislation.gov.uk/asc/2026/5/section/138/1/d)

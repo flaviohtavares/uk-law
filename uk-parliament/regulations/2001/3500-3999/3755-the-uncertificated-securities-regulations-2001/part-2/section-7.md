@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Withdrawal of approval[^key-cc823dd606b61fcc06e2a3141d6cc95a]
+## 7. Withdrawal of approval[^c-cc823dd606b61fcc06e2a3141d6cc95a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc823dd606b61fcc06e2a3141d6cc95a]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/3755/regulation/7) omitted (27.3.2019) by virtue of [The Uncertificated Securities (Amendment and EU Exit) Regulations 2019 (S.I. 2019/679)](https://www.legislation.gov.uk/uksi/2019/679), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2019/679/regulation/4/6) (with [regs. 10-12](https://www.legislation.gov.uk/uksi/2019/679/regulation/10))
+[^c-cc823dd606b61fcc06e2a3141d6cc95a]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2001/3755/regulation/7) omitted (27.3.2019) by virtue of [The Uncertificated Securities (Amendment and EU Exit) Regulations 2019 (S.I. 2019/679)](https://www.legislation.gov.uk/uksi/2019/679), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/679/regulation/1/2), [4(6)](https://www.legislation.gov.uk/uksi/2019/679/regulation/4/6) (with [regs. 10-12](https://www.legislation.gov.uk/uksi/2019/679/regulation/10))

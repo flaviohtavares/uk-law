@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/eur/2009/1070): introduction[^key-17242e7794ec5814ea2e35fcecb6d2eb]
+## 75. Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/eur/2009/1070): introduction[^c-17242e7794ec5814ea2e35fcecb6d2eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Regulation [(EC) No 1070/2009](https://www.legislation.gov.uk/eur/2009/1070) of 
 
 ## Annotations
 
-[^key-17242e7794ec5814ea2e35fcecb6d2eb]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-17242e7794ec5814ea2e35fcecb6d2eb]: Commencement: Reg. 75 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

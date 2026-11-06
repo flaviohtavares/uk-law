@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Statement of policy in relation to monetary penalties[^key-38eca021e1e02a64d0b76abb8721aaf6][^key-588b7cb8f6cd01e038b0a3d56d07a308]
+## 199. Statement of policy in relation to monetary penalties[^c-38eca021e1e02a64d0b76abb8721aaf6][^c-588b7cb8f6cd01e038b0a3d56d07a308]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-38eca021e1e02a64d0b76abb8721aaf6]: Commencement: S. 199 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-38eca021e1e02a64d0b76abb8721aaf6]: Commencement: S. 199 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-588b7cb8f6cd01e038b0a3d56d07a308]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2024/13/section/199) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)
+[^c-588b7cb8f6cd01e038b0a3d56d07a308]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2024/13/section/199) in force at 6.4.2025 by [S.I. 2025/272](https://www.legislation.gov.uk/uksi/2025/272), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2025/272/regulation/2/2)

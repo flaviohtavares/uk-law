@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Basic concepts[^key-e1eba9fc57540d484555f827d662deb5]
+## 1. Basic concepts[^c-e1eba9fc57540d484555f827d662deb5]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e1eba9fc57540d484555f827d662deb5]: Commencement: S. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-e1eba9fc57540d484555f827d662deb5]: Commencement: S. 1 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

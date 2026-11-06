@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 104. New administrator appointed[^key-fbfe6de065e2b7ea90fa317f852cf94c]
+## 104. New administrator appointed[^c-fbfe6de065e2b7ea90fa317f852cf94c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbfe6de065e2b7ea90fa317f852cf94c]: Commencement: [Rule 104](https://www.legislation.gov.uk/nisr/2026/11/rule/104) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-fbfe6de065e2b7ea90fa317f852cf94c]: Commencement: [Rule 104](https://www.legislation.gov.uk/nisr/2026/11/rule/104) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

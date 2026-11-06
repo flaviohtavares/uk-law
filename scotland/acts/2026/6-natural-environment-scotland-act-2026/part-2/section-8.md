@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Duty to facilitate implementation of National Park Plans[^key-7816c77c2025ad260fc648c499e11384][^key-091eb58a35249d737fdd33d986d972d0]
+## 8. Duty to facilitate implementation of National Park Plans[^c-7816c77c2025ad260fc648c499e11384][^c-091eb58a35249d737fdd33d986d972d0]
 
 *Extent: S*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7816c77c2025ad260fc648c499e11384]: Commencement: S. 8 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-7816c77c2025ad260fc648c499e11384]: Commencement: S. 8 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
 
-[^key-091eb58a35249d737fdd33d986d972d0]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2026/6/section/8) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/f)
+[^c-091eb58a35249d737fdd33d986d972d0]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2026/6/section/8) in force at 26.10.2026 by [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(f)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/f)

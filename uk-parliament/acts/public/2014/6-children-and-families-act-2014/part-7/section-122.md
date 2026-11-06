@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Statutory rights to leave and pay of applicants for parental orders[^key-9d0f0b0ae3e291277e9dacdd0b43e964]
+## 122. Statutory rights to leave and pay of applicants for parental orders[^c-9d0f0b0ae3e291277e9dacdd0b43e964]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d0f0b0ae3e291277e9dacdd0b43e964]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2014/6/section/122) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(f)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/f)
+[^c-9d0f0b0ae3e291277e9dacdd0b43e964]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2014/6/section/122) in force at 30.6.2014 by [S.I. 2014/1640](https://www.legislation.gov.uk/uksi/2014/1640), [art. 3(1)(f)](https://www.legislation.gov.uk/uksi/2014/1640/article/3/1/f)

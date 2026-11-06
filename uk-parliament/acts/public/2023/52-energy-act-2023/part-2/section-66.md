@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Direction to offer to contract with eligible low carbon hydrogen producer[^key-f44503a65f1f6a0848255c73733b989e]
+## 66. Direction to offer to contract with eligible low carbon hydrogen producer[^c-f44503a65f1f6a0848255c73733b989e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f44503a65f1f6a0848255c73733b989e]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2023/52/section/66) in force at Royal Assent, see [s. 334(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a/iii)
+[^c-f44503a65f1f6a0848255c73733b989e]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2023/52/section/66) in force at Royal Assent, see [s. 334(3)(a)(iii)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a/iii)

@@ -43,7 +43,7 @@ Coming into force
 
 31st January 2003
 
-The Secretary of State, in exercise of the powers conferred on her by sections 29, 30(3) and 60 of the Electricity Act 1989[^c9625321], hereby makes the following Regulations:—[^key-b8c3f26dc6c3c276f5c2c1d6e0701e90]
+The Secretary of State, in exercise of the powers conferred on her by sections 29, 30(3) and 60 of the Electricity Act 1989[^c9625321], hereby makes the following Regulations:—[^c-b8c3f26dc6c3c276f5c2c1d6e0701e90]
 
 ## PART I — INTRODUCTORY
 
@@ -51,18 +51,18 @@ The Secretary of State, in exercise of the powers conferred on her by sections 2
 
 (1) These Regulations may be cited as the Electricity Safety, Quality and Continuity Regulations 2002 and shall come into force on 31st January 2003.
 
-(2) Any requirement in these Regulations for goods or materials to comply with a specified standard shall be satisfied by compliance with an equivalent standard or code of practice of a national standards or equivalent body of any country or territory[^key-5ed860a358c16d05f5aa197bae8c5ecf], in so far as the standard or code of practice in question enables electricity safety, quality or continuity considerations to be met in an equivalent manner.
+(2) Any requirement in these Regulations for goods or materials to comply with a specified standard shall be satisfied by compliance with an equivalent standard or code of practice of a national standards or equivalent body of any country or territory[^c-5ed860a358c16d05f5aa197bae8c5ecf], in so far as the standard or code of practice in question enables electricity safety, quality or continuity considerations to be met in an equivalent manner.
 
-(3)[^key-74f0ce202ea92249e52f199b84d7352f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-74f0ce202ea92249e52f199b84d7352f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Unless the context otherwise requires, any reference in these Regulations to the provision of information “in writing” shall include the provision of such information by electronic mail, facsimile or similar means which are capable of producing a document containing the text of any communication.
 
 (5) In these Regulations, unless the context otherwise requires—
 
-- “British Standard Requirements” means the British Standard Requirements for Electrical Installations BS 7671 : 2008 IEE Wiring Regulations 17th Edition ([^key-b40f4341b75e99e0eee32e2575c14ad9]ISBN 978-0-86341-844-0);
+- “British Standard Requirements” means the British Standard Requirements for Electrical Installations BS 7671 : 2008 IEE Wiring Regulations 17th Edition ([^c-b40f4341b75e99e0eee32e2575c14ad9]ISBN 978-0-86341-844-0);
 - “conductor” means an electrical conductor arranged to be electrically connected to a network but does not include conductors used or intended to be used solely for the purposes of control, protection or regulation of supply or for communication;
 - “connected with earth” means connected with earth in such manner as will at all times provide a rapid and safe discharge of energy, and cognate expressions shall be construed accordingly;
-- “consumer” means any person supplied or entitled to be supplied by a supplier but in regulations 24, 25 and 26 shall not include, in respect of any supply to meet haulage or traction requirements, any person who is an operator of a network within the meaning of Part I of the Railways Act 1993 [^c9625331] or an operator of a tramway, a trolley vehicle system or guided transport[^key-8db4a43f9523f82626169e5e07e967c0];
+- “consumer” means any person supplied or entitled to be supplied by a supplier but in regulations 24, 25 and 26 shall not include, in respect of any supply to meet haulage or traction requirements, any person who is an operator of a network within the meaning of Part I of the Railways Act 1993 [^c9625331] or an operator of a tramway, a trolley vehicle system or guided transport[^c-8db4a43f9523f82626169e5e07e967c0];
 - “consumer’s installation” means the electric lines situated upon the consumer’s side of the supply terminals together with any equipment permanently connected or intended to be permanently connected thereto on that side;
 - “danger” includes danger to health or danger to life or limb from electric shock, burn, injury or mechanical movement to persons, livestock or domestic animals, or from fire or explosion, attendant upon the generation, transmission, transformation, distribution or use of energy;
 - “distributing main” means a low voltage electric line which connects a distributor’s source of voltage to one or more service lines or directly to a single consumer’s installation;
@@ -90,7 +90,7 @@ The Secretary of State, in exercise of the powers conferred on her by sections 2
 - “neutral conductor” means a conductor which is, or is intended to be, connected to the neutral point of an electrical system and intended to contribute to the carrying of energy;
 - “overhead line” means any electric line which is placed above ground and in the open air;
 - “phase conductor” means a conductor for the carrying of energy other than a neutral conductor or a protective conductor or a conductor used for earthing purposes;
-- “[^key-e99b8c4e50563a7b2b99ed0d74ac5389]**plug-in microgenerator**” means a source of energy which—
+- “[^c-e99b8c4e50563a7b2b99ed0d74ac5389]**plug-in microgenerator**” means a source of energy which—
   - (a) generates electricity from the direct conversion of sunlight into electricity;
   - (b) has a maximum rated alternating current output not exceeding 800 watts;
   - (c) is intended for connection to a low voltage consumer’s installation by means of a standard plug and socket;
@@ -99,7 +99,7 @@ The Secretary of State, in exercise of the powers conferred on her by sections 2
 - “**Plug-in Solar Device Interim Product Specification**” means the Plug-in Solar Device Interim Product Specification, version 2, published by the Secretary of State on 16 July 2026;
 - “protective conductor” means a conductor which is used for protection against electric shock and which connects the exposed conductive parts of equipment with earth;
 - “service line” means an electric line which connects either a street electrical fixture, or no more than four consumer’s installations in adjacent buildings, to a distributing main;
-- “smart meter communication provider” means a person who holds a licence under section 6(1)(f) of the Electricity Act 1989;[^key-119067a610c91d97eb59661b68e1d18a]
+- “smart meter communication provider” means a person who holds a licence under section 6(1)(f) of the Electricity Act 1989;[^c-119067a610c91d97eb59661b68e1d18a]
 - “street electrical fixture” means a permanent fixture which is or is intended to be connected to a supply of electricity and which is in, on, or is associated with a highway;
 - “substation” means any premises or part thereof which contain equipment for either transforming or converting energy to or from high voltage (other than transforming or converting solely for the operation of switching devices or instruments) or for switching, controlling or regulating energy at high voltage, but does not include equipment mounted on a support to any overhead line;
 - “supplier” means a person who contracts to supply electricity to consumers;
@@ -107,8 +107,8 @@ The Secretary of State, in exercise of the powers conferred on her by sections 2
 - “supply neutral conductor” means the neutral conductor of a low voltage network which is or is intended to be connected with earth, but does not include any part of the neutral conductor on the consumer’s side of the supply terminals;
 - “supply terminals” means the ends of the electric lines at which the supply is delivered to a consumer’s installation;
 - “support” means any structure, pole or other device, in, on, by or from which any electric line is or may be supported, carried or suspended and includes stays and struts, but does not include insulators, their fittings or any building or structure the principal purpose of which is not the support of electric lines or equipment;
-- “switching device” includes any device which can either make or break a current, or both; [^key-bead7d2a341a0152387b1b5d36d79cfd]...
-- “tramway”, “trolley vehicle system” and “guided transport” have the same meanings as in section 67(1) of the Transport and Works Act 1992; and[^key-77bfb31c34e6fe8bc9c5044d9de0a2c0]
+- “switching device” includes any device which can either make or break a current, or both; [^c-bead7d2a341a0152387b1b5d36d79cfd]...
+- “tramway”, “trolley vehicle system” and “guided transport” have the same meanings as in section 67(1) of the Transport and Works Act 1992; and[^c-77bfb31c34e6fe8bc9c5044d9de0a2c0]
 - “underground cable” means any conductor surrounded by insulation which is placed below ground.
 
 (6) In relation to a distributor, generator or meter operator a reference in these Regulations to his network, his overhead line, his substation or his equipment is a reference to a network, an overhead line, a substation or equipment (as the case may be) owned or operated by him.
@@ -131,7 +131,7 @@ The Secretary of State, in exercise of the powers conferred on her by sections 2
 
 (7) Regulations 19(2) and 20 shall not apply until 10 years after the coming into force of these Regulations.
 
-(7A)[^key-8f7c4aee302b39f5e7cb689ec418e02b] Regulation 20A shall not apply until 6 years after the coming into force of these Regulations.
+(7A)[^c-8f7c4aee302b39f5e7cb689ec418e02b] Regulation 20A shall not apply until 6 years after the coming into force of these Regulations.
 
 (8) Where a material alteration is made to any part of a network, the provisions in paragraphs (4) to (7) shall cease to apply to that part of the network from the date of that alteration.
 
@@ -158,7 +158,7 @@ The Secretary of State, in exercise of the powers conferred on her by sections 2
 
 ### 4. Duty of co-operation
 
-Generators, distributors, suppliers , meter operators and smart meter communication providers[^key-dd0b657ef7a7147e4d711f483acca029] shall—
+Generators, distributors, suppliers , meter operators and smart meter communication providers[^c-dd0b657ef7a7147e4d711f483acca029] shall—
 
 - (a) disclose such information to each other as might reasonably be required in order to ensure compliance with these Regulations; and
 - (b) otherwise co-operate amongst themselves so far as is necessary in order to ensure compliance with these Regulations.
@@ -335,7 +335,7 @@ and shall, on request, provide a copy of such map or part of the map.
 
 Every stay wire which forms part of, or is attached to, any support carrying an overhead line incorporating bare phase conductors (except where the support is a lattice steel structure or other structure entirely of metal and connected to earth) shall be fitted with an insulator no part of which shall be less than 3 metres above ground or above the normal height of any such line attached to that support.
 
-## PART VA — AVOIDANCE OF INTERFERENCE WITH OR INTERRUPTION OF SUPPLY CAUSED BY TREES[^key-c84508ddf777884b56eccfac0a1d12dd]
+## PART VA — AVOIDANCE OF INTERFERENCE WITH OR INTERRUPTION OF SUPPLY CAUSED BY TREES[^c-c84508ddf777884b56eccfac0a1d12dd]
 
 **20A.** A generator or distributor shall, so far as is reasonably practicable, ensure that there is no interference with or interruption of supply caused by an insufficient clearance between any of his overhead lines and a tree or other vegetation.
 
@@ -351,7 +351,7 @@ Where a person operates a source of energy as a switched alternative to a distri
 
 - (a) has the necessary and appropriate equipment to prevent danger or interference with that network or with the supply to consumers so far as is reasonably practicable;
 - (b) has the necessary and appropriate personnel and procedures to prevent danger so far as is reasonably practicable;
-- (c)[^key-4088fff05c3344ebdd9bb1890f1fcff4] where the source of energy—
+- (c)[^c-4088fff05c3344ebdd9bb1890f1fcff4] where the source of energy—
   - (i) is part of a low voltage consumer’s installation, complies with British Standard Requirements; or
   - (ii) is a plug-in microgenerator, complies with the Plug-in Solar Device Interim Product Specification; and
 - (d) agrees specific requirements with the distributor who owns or operates the network.
@@ -805,7 +805,7 @@ Name, address and telephone number of the person submitting the notice and, if d
 #### 4. Particulars relating to the events
 
 - (a) Total number of events, if any, during the 3 month period specified in regulation 31(7), classified as specified in sub-paragraph (b) and as also classified as involving deliberate or accidental contact, damage or interference by each of the following—
-  - (i) a generator, a distributor, an electronic communications code operator[^key-99295b270df41a07bf96f8283e22d988], a gas transporter, a water or sewerage authority (in Scotland, Scottish Water)[^key-6f51f41830faa36ccb3ff33eaf4dbfc4], a local or highway authority (in Scotland, a local roads authority or a roads authority), or their respective contractors;
+  - (i) a generator, a distributor, an electronic communications code operator[^c-99295b270df41a07bf96f8283e22d988], a gas transporter, a water or sewerage authority (in Scotland, Scottish Water)[^c-6f51f41830faa36ccb3ff33eaf4dbfc4], a local or highway authority (in Scotland, a local roads authority or a roads authority), or their respective contractors;
   - (ii) farmers, farm workers or farm implements;
   - (iii) private individuals;
   - (iv) other persons; and
@@ -888,38 +888,38 @@ Part VIII (regulations 30-36) contains miscellaneous provisions. Regulation 30 e
 
 [^c9625321]: Marginal citation: [1989 c. 29](https://www.legislation.gov.uk/ukpga/1989/29); sections 29 and 30 were amended by the [Utilities Act 2000 (c. 27)](https://www.legislation.gov.uk/ukpga/2000/27), [Schedule 6](https://www.legislation.gov.uk/ukpga/2000/27/schedule/6), [paragraphs 24](https://www.legislation.gov.uk/ukpga/2000/27/paragraph/24), [30](https://www.legislation.gov.uk/ukpga/2000/27/paragraph/30) and 31. Section 60 was amended by section 3(2) of the Utilities Act 2000.
 
-[^key-b8c3f26dc6c3c276f5c2c1d6e0701e90]: Modification: Regulations applied in part (1.10.2006) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2006 (S.I. 2006/1521)](https://www.legislation.gov.uk/uksi/2006/1521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/1521/regulation/5)
+[^c-b8c3f26dc6c3c276f5c2c1d6e0701e90]: Modification: Regulations applied in part (1.10.2006) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2006 (S.I. 2006/1521)](https://www.legislation.gov.uk/uksi/2006/1521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2006/1521/regulation/5)
 
-[^key-5ed860a358c16d05f5aa197bae8c5ecf]: Textual amendment: Words in reg. 1(2) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [78(a)](https://www.legislation.gov.uk/uksi/2019/530/regulation/78/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ed860a358c16d05f5aa197bae8c5ecf]: Textual amendment: Words in reg. 1(2) substituted (31.12.2020) by [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [78(a)](https://www.legislation.gov.uk/uksi/2019/530/regulation/78/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-74f0ce202ea92249e52f199b84d7352f]: Textual amendment: Reg. 1(3) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [78(b)](https://www.legislation.gov.uk/uksi/2019/530/regulation/78/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-74f0ce202ea92249e52f199b84d7352f]: Textual amendment: Reg. 1(3) omitted (31.12.2020) by virtue of [The Electricity and Gas etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/530)](https://www.legislation.gov.uk/uksi/2019/530), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/530/regulation/1/1), [78(b)](https://www.legislation.gov.uk/uksi/2019/530/regulation/78/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b40f4341b75e99e0eee32e2575c14ad9]: Textual amendment: Words in reg. 1(5) substituted (6.4.2009) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2009 (S.I. 2009/639)](https://www.legislation.gov.uk/uksi/2009/639), [regs. 1](https://www.legislation.gov.uk/uksi/2009/639/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/639/regulation/2/2)
+[^c-b40f4341b75e99e0eee32e2575c14ad9]: Textual amendment: Words in reg. 1(5) substituted (6.4.2009) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2009 (S.I. 2009/639)](https://www.legislation.gov.uk/uksi/2009/639), [regs. 1](https://www.legislation.gov.uk/uksi/2009/639/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2009/639/regulation/2/2)
 
 [^c9625331]: Marginal citation: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43); see [sections 6(2)](https://www.legislation.gov.uk/ukpga/1993/43/section/6/2) and 83.
 
-[^key-8db4a43f9523f82626169e5e07e967c0]: Textual amendment: Words in reg. 1(5) inserted (1.10.2006) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2006 (S.I. 2006/1521)](https://www.legislation.gov.uk/uksi/2006/1521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/3/a)
+[^c-8db4a43f9523f82626169e5e07e967c0]: Textual amendment: Words in reg. 1(5) inserted (1.10.2006) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2006 (S.I. 2006/1521)](https://www.legislation.gov.uk/uksi/2006/1521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/3/a)
 
-[^key-e99b8c4e50563a7b2b99ed0d74ac5389]: Textual amendment: Words in reg. 1(5) inserted (27.8.2026) by [The Plugs and Sockets etc. (Safety) Regulations 1994 and Electricity Safety, Quality and Continuity Regulations 2002 (Amendment) Regulations 2026 (S.I. 2026/848)](https://www.legislation.gov.uk/uksi/2026/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/848/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/848/regulation/3/2)
+[^c-e99b8c4e50563a7b2b99ed0d74ac5389]: Textual amendment: Words in reg. 1(5) inserted (27.8.2026) by [The Plugs and Sockets etc. (Safety) Regulations 1994 and Electricity Safety, Quality and Continuity Regulations 2002 (Amendment) Regulations 2026 (S.I. 2026/848)](https://www.legislation.gov.uk/uksi/2026/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/848/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2026/848/regulation/3/2)
 
-[^key-119067a610c91d97eb59661b68e1d18a]: Textual amendment: Words in reg. 1(5) inserted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [35(2)](https://www.legislation.gov.uk/uksi/2012/2400/article/35/2)
+[^c-119067a610c91d97eb59661b68e1d18a]: Textual amendment: Words in reg. 1(5) inserted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [35(2)](https://www.legislation.gov.uk/uksi/2012/2400/article/35/2)
 
-[^key-bead7d2a341a0152387b1b5d36d79cfd]: Textual amendment: Word in reg. 1(5) revoked (1.10.2006) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2006 (S.I. 2006/1521)](https://www.legislation.gov.uk/uksi/2006/1521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/3/b)
+[^c-bead7d2a341a0152387b1b5d36d79cfd]: Textual amendment: Word in reg. 1(5) revoked (1.10.2006) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2006 (S.I. 2006/1521)](https://www.legislation.gov.uk/uksi/2006/1521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/3/b)
 
-[^key-77bfb31c34e6fe8bc9c5044d9de0a2c0]: Textual amendment: Words in reg. 1(5) inserted (1.10.2006) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2006 (S.I. 2006/1521)](https://www.legislation.gov.uk/uksi/2006/1521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/3/b)
+[^c-77bfb31c34e6fe8bc9c5044d9de0a2c0]: Textual amendment: Words in reg. 1(5) inserted (1.10.2006) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2006 (S.I. 2006/1521)](https://www.legislation.gov.uk/uksi/2006/1521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/3/b)
 
-[^key-8f7c4aee302b39f5e7cb689ec418e02b]: Textual amendment: Reg. 2(7A) inserted (1.10.2006) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2006 (S.I. 2006/1521)](https://www.legislation.gov.uk/uksi/2006/1521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/4/1)
+[^c-8f7c4aee302b39f5e7cb689ec418e02b]: Textual amendment: Reg. 2(7A) inserted (1.10.2006) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2006 (S.I. 2006/1521)](https://www.legislation.gov.uk/uksi/2006/1521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/4/1)
 
 [^c9625341]: Marginal citation: [S.I. 1988/1057](https://www.legislation.gov.uk/uksi/1988/1057), amended by [S.I. 1990/390](https://www.legislation.gov.uk/uksi/1990/390), 1992/2961, 1994/533, 1994/3021, 1998/2971.
 
-[^key-dd0b657ef7a7147e4d711f483acca029]: Textual amendment: Words in reg. 4 substituted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [35(3)](https://www.legislation.gov.uk/uksi/2012/2400/article/35/3)
+[^c-dd0b657ef7a7147e4d711f483acca029]: Textual amendment: Words in reg. 4 substituted (19.9.2012) by [The Electricity and Gas (Smart Meters Licensable Activity) Order 2012 (S.I. 2012/2400)](https://www.legislation.gov.uk/uksi/2012/2400), [arts. 1](https://www.legislation.gov.uk/uksi/2012/2400/article/1), [35(3)](https://www.legislation.gov.uk/uksi/2012/2400/article/35/3)
 
-[^key-c84508ddf777884b56eccfac0a1d12dd]: Textual amendment: Pt. 5A inserted (1.10.2006) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2006 (S.I. 2006/1521)](https://www.legislation.gov.uk/uksi/2006/1521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/4/2)
+[^c-c84508ddf777884b56eccfac0a1d12dd]: Textual amendment: Pt. 5A inserted (1.10.2006) by [The Electricity Safety, Quality and Continuity (Amendment) Regulations 2006 (S.I. 2006/1521)](https://www.legislation.gov.uk/uksi/2006/1521), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2006/1521/regulation/4/2)
 
-[^key-4088fff05c3344ebdd9bb1890f1fcff4]: Textual amendment: Reg. 22(1)(c) substituted (27.8.2026) by [The Plugs and Sockets etc. (Safety) Regulations 1994 and Electricity Safety, Quality and Continuity Regulations 2002 (Amendment) Regulations 2026 (S.I. 2026/848)](https://www.legislation.gov.uk/uksi/2026/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/848/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/848/regulation/3/3)
+[^c-4088fff05c3344ebdd9bb1890f1fcff4]: Textual amendment: Reg. 22(1)(c) substituted (27.8.2026) by [The Plugs and Sockets etc. (Safety) Regulations 1994 and Electricity Safety, Quality and Continuity Regulations 2002 (Amendment) Regulations 2026 (S.I. 2026/848)](https://www.legislation.gov.uk/uksi/2026/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/848/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2026/848/regulation/3/3)
 
 [^M_F_7c0eab63-1718-4b67-c24c-8750d1e1ca73]: Textual amendment: Words in Sch. 3 Pt. 2 para. 7 substituted (25.7.2013) by virtue of [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2013/1869/schedule/paragraph/3)
 
-[^key-99295b270df41a07bf96f8283e22d988]: Textual amendment: Words in Sch. 3 Pt. 4 para. 4(a)(i) substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/49)
+[^c-99295b270df41a07bf96f8283e22d988]: Textual amendment: Words in Sch. 3 Pt. 4 para. 4(a)(i) substituted (17.9.2003) by [The Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/49)
 
-[^key-6f51f41830faa36ccb3ff33eaf4dbfc4]: Textual amendment: Words in Sch. 3 Pt. 4 para. 4(a)(i) substituted (14.7.2004) by [The Water Industry (Scotland) Act 2002 (Consequential Modifications) Order 2004 (S.I. 2004/1822)](https://www.legislation.gov.uk/uksi/2004/1822), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1822/regulation/1/1), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2004/1822/schedule/paragraph/20)
+[^c-6f51f41830faa36ccb3ff33eaf4dbfc4]: Textual amendment: Words in Sch. 3 Pt. 4 para. 4(a)(i) substituted (14.7.2004) by [The Water Industry (Scotland) Act 2002 (Consequential Modifications) Order 2004 (S.I. 2004/1822)](https://www.legislation.gov.uk/uksi/2004/1822), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2004/1822/regulation/1/1), [Sch. para. 20](https://www.legislation.gov.uk/uksi/2004/1822/schedule/paragraph/20)

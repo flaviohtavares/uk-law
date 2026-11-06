@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Collection and management of the levy by WRA[^key-efd387f445f1bdb1ac2062c72a6f33d5]
+## 42. Collection and management of the levy by WRA[^c-efd387f445f1bdb1ac2062c72a6f33d5]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Part 2 of Schedule 2 amends the Tax Collection and Management (Wales) Act 2016 t
 
 ## Annotations
 
-[^key-efd387f445f1bdb1ac2062c72a6f33d5]: Commencement: S. 42 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-efd387f445f1bdb1ac2062c72a6f33d5]: Commencement: S. 42 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

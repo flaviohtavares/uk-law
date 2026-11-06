@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Imposing conditions on one-person protests[^key-cbba585e6f3c4cb875a4f67dd73b9a9f][^key-fa88993bccfdb5015c1df29ca4fdf1b5]
+## 79. Imposing conditions on one-person protests[^c-cbba585e6f3c4cb875a4f67dd73b9a9f][^c-fa88993bccfdb5015c1df29ca4fdf1b5]
 
 *Extent: E+W*
 
@@ -97,6 +97,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cbba585e6f3c4cb875a4f67dd73b9a9f]: Commencement: S. 79 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-cbba585e6f3c4cb875a4f67dd73b9a9f]: Commencement: S. 79 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-fa88993bccfdb5015c1df29ca4fdf1b5]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2022/32/section/79) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-fa88993bccfdb5015c1df29ca4fdf1b5]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2022/32/section/79) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Information relevant to the Board[^key-a2743bec1ae2f3094b0949c523242789]
+## 68. Information relevant to the Board[^c-a2743bec1ae2f3094b0949c523242789]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Regulator may collect any information which appears to it to be relevant to 
 
 ## Annotations
 
-[^key-a2743bec1ae2f3094b0949c523242789]: Commencement: S. 68 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-a2743bec1ae2f3094b0949c523242789]: Commencement: S. 68 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

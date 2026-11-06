@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Fixed penalty notices[^key-f16a28194f6661f0a0ba3fd85ebb6ab8]
+## 52. Fixed penalty notices[^c-f16a28194f6661f0a0ba3fd85ebb6ab8]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ summary: ''
 - (d) state the name and address of the person to whom the fixed penalty may be paid;
 - (e) specify permissible methods of payment.
 
-(7) An amount specified under subsection (6)(c) must not be more than £500[^key-b55e74de18cf4b38252a2e684970e817].
+(7) An amount specified under subsection (6)(c) must not be more than £500[^c-b55e74de18cf4b38252a2e684970e817].
 
 (8) A fixed penalty notice may specify two amounts under subsection (6)(c) and specify that, if the lower of those amounts is paid within a specified period (of less than 14 days), that is the amount of the fixed penalty.
 
@@ -63,6 +63,6 @@ is evidence of the facts stated.
 
 ## Annotations
 
-[^key-f16a28194f6661f0a0ba3fd85ebb6ab8]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2014/12/section/52) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-f16a28194f6661f0a0ba3fd85ebb6ab8]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2014/12/section/52) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
 
-[^key-b55e74de18cf4b38252a2e684970e817]: Textual amendment: Sum in s. 52(7) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/4/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/d)
+[^c-b55e74de18cf4b38252a2e684970e817]: Textual amendment: Sum in s. 52(7) substituted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2026/20/section/4/3), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(d)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/d)

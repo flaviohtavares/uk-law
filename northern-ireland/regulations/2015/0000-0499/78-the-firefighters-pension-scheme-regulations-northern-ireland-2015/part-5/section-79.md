@@ -29,9 +29,9 @@ summary: ''
 
 (3) If a member exercises the option, for every £1 by which the amount of the member's annual rate of pension is reduced, the member must be paid a lump sum of £12.
 
-(4) A member may not exchange for a lump sum[^key-8e32770d7b810a00eac58e18fc52f4a9] more than the lesser of—
+(4) A member may not exchange for a lump sum[^c-8e32770d7b810a00eac58e18fc52f4a9] more than the lesser of—
 
-- (a) 25% of the pension [^key-4dc16a5b873c8c890a4c2ff0338ee7a2]...under this regulation; or
+- (a) 25% of the pension [^c-4dc16a5b873c8c890a4c2ff0338ee7a2]...under this regulation; or
 - (b) the proportion of the pension to the extent that it would result in a scheme chargeable payment [^c22394351] for the purposes of Part 4 of the 2004 Act.
 
 (5) This regulation does not apply to a pension derived from pension credit rights if the pension debit member from whose rights the pension is derived has received a lump sum under this regulation before the date on which the pension sharing order takes effect.
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8e32770d7b810a00eac58e18fc52f4a9]: Textual amendment: Words in [Pt. 5 reg. 79(4)](https://www.legislation.gov.uk/nisr/2015/78/part/5/regulation/79/4) inserted (5.7.2024) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1), [5(3)(a)(i)](https://www.legislation.gov.uk/nisr/2024/130/regulation/5/3/a/i)
+[^c-8e32770d7b810a00eac58e18fc52f4a9]: Textual amendment: Words in [Pt. 5 reg. 79(4)](https://www.legislation.gov.uk/nisr/2015/78/part/5/regulation/79/4) inserted (5.7.2024) by [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1), [5(3)(a)(i)](https://www.legislation.gov.uk/nisr/2024/130/regulation/5/3/a/i)
 
-[^key-4dc16a5b873c8c890a4c2ff0338ee7a2]: Textual amendment: Words in [Pt. 5 reg. 79(4)(a)](https://www.legislation.gov.uk/nisr/2015/78/part/5/regulation/79/4/a) omitted (5.7.2024) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/130/regulation/5/3/a/ii)
+[^c-4dc16a5b873c8c890a4c2ff0338ee7a2]: Textual amendment: Words in [Pt. 5 reg. 79(4)(a)](https://www.legislation.gov.uk/nisr/2015/78/part/5/regulation/79/4/a) omitted (5.7.2024) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/130)](https://www.legislation.gov.uk/nisr/2024/130), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/130/regulation/1/1), [5(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2024/130/regulation/5/3/a/ii)
 
 [^c22394351]: Marginal citation: See section 241 of the Finance Act 2004.

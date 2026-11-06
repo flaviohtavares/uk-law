@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 22. Hazards and safety[^key-2d3c545903258f8fee9750d78996a574]
+## 22. Hazards and safety[^c-2d3c545903258f8fee9750d78996a574]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ and shall make arrangements for persons working at the children’s home to be t
 
 ## Annotations
 
-[^key-2d3c545903258f8fee9750d78996a574]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/176/regulation/22) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-2d3c545903258f8fee9750d78996a574]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2005/176/regulation/22) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

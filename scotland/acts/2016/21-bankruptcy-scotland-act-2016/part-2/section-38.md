@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 38. Effect of recall of sequestration[^key-652911811802cfa566e37894f57d9a33]
+## 38. Effect of recall of sequestration[^c-652911811802cfa566e37894f57d9a33]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-652911811802cfa566e37894f57d9a33]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2016/21/section/38) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-652911811802cfa566e37894f57d9a33]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2016/21/section/38) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

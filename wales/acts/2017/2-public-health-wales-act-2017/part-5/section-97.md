@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 97. Enforcement action by local authorities[^key-e5e45c7c3a6ddff8253a443e5fbdfe4d]
+## 97. Enforcement action by local authorities[^c-e5e45c7c3a6ddff8253a443e5fbdfe4d]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5e45c7c3a6ddff8253a443e5fbdfe4d]: Commencement: [S. 97](https://www.legislation.gov.uk/anaw/2017/2/section/97) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)
+[^c-e5e45c7c3a6ddff8253a443e5fbdfe4d]: Commencement: [S. 97](https://www.legislation.gov.uk/anaw/2017/2/section/97) in force at 1.2.2018 by [S.I. 2018/1](https://www.legislation.gov.uk/wsi/2018/1), [art. 2(a)](https://www.legislation.gov.uk/wsi/2018/1/article/2/a)

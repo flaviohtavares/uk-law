@@ -32,7 +32,7 @@ summary: ''
 
 BANKS AND BANKING
 
-The Bank Accounts Directive (Miscellaneous Banks) (Amendment) Regulations 2005 (revoked)[^key-2e3962dacd7679568a7abfb4fb1c9726]
+The Bank Accounts Directive (Miscellaneous Banks) (Amendment) Regulations 2005 (revoked)[^c-2e3962dacd7679568a7abfb4fb1c9726]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st October 2005
 
-[^key-2e3962dacd7679568a7abfb4fb1c9726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e3962dacd7679568a7abfb4fb1c9726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-2e3962dacd7679568a7abfb4fb1c9726]
+## 1. Citation, commencement and interpretation[^c-2e3962dacd7679568a7abfb4fb1c9726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal regulations[^key-2e3962dacd7679568a7abfb4fb1c9726]
+## 2. Amendment of the principal regulations[^c-2e3962dacd7679568a7abfb4fb1c9726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2e3962dacd7679568a7abfb4fb1c9726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e3962dacd7679568a7abfb4fb1c9726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2e3962dacd7679568a7abfb4fb1c9726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2e3962dacd7679568a7abfb4fb1c9726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2e3962dacd7679568a7abfb4fb1c9726]: Textual amendment: Regulations revoked (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-2e3962dacd7679568a7abfb4fb1c9726]: Textual amendment: Regulations revoked (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2017/1164/schedule/4) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))

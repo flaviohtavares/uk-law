@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.1. Scope of this Part[^key-d76526ff4718afd1dd3e2a8566e58163]
+## 5.1. Scope of this Part[^c-d76526ff4718afd1dd3e2a8566e58163]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ This Part contains general provisions about—
 
 ## Annotations
 
-[^key-d76526ff4718afd1dd3e2a8566e58163]: Commencement: [Rule 5.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-d76526ff4718afd1dd3e2a8566e58163]: Commencement: [Rule 5.1](https://www.legislation.gov.uk/uksi/1998/3132/rule/5.1) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

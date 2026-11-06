@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Authority to survey and investigate the land[^key-a4e2f2dde0cba9a214a831c28efb7508]
+## 18. Authority to survey and investigate the land[^c-a4e2f2dde0cba9a214a831c28efb7508]
 
 *Extent: E+W*
 
-(1) The undertaker may for the purposes of this Order enter on any land shown within the Order limits or which may be affected by the authorised development[^key-c0cfc49b0ea151197b4e08c8ba5d3bac] and—
+(1) The undertaker may for the purposes of this Order enter on any land shown within the Order limits or which may be affected by the authorised development[^c-c0cfc49b0ea151197b4e08c8ba5d3bac] and—
 
 - (a) survey or investigate the land;
 - (b) without limitation on the scope of sub-paragraph (a), make trial holes, boreholes or excavations in such positions on the land as the undertaker thinks fit for the purposes of installing or keeping installed the authorised development on the land to investigate the nature of the surface layer and subsoil and remove soil samples;
@@ -51,6 +51,6 @@ that authority is deemed to have granted consent.
 
 ## Annotations
 
-[^key-a4e2f2dde0cba9a214a831c28efb7508]: Commencement: Art. 18 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-a4e2f2dde0cba9a214a831c28efb7508]: Commencement: Art. 18 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
 
-[^key-c0cfc49b0ea151197b4e08c8ba5d3bac]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/uksi/2017/817/article/18/1) inserted (8.5.2018) by [The National Grid (Richborough Connection Project) (Correction) Order 2018 (S.I. 2018/572)](https://www.legislation.gov.uk/uksi/2018/572), [art. 1](https://www.legislation.gov.uk/uksi/2018/572/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/572/schedule)
+[^c-c0cfc49b0ea151197b4e08c8ba5d3bac]: Textual amendment: Words in [art. 18(1)](https://www.legislation.gov.uk/uksi/2017/817/article/18/1) inserted (8.5.2018) by [The National Grid (Richborough Connection Project) (Correction) Order 2018 (S.I. 2018/572)](https://www.legislation.gov.uk/uksi/2018/572), [art. 1](https://www.legislation.gov.uk/uksi/2018/572/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/572/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Breach of requirements as to control of vehicle, mobile telephones etc.[^key-29c598a43692eca9d1587ec4f322fa93]
+## 26. Breach of requirements as to control of vehicle, mobile telephones etc.[^c-29c598a43692eca9d1587ec4f322fa93]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29c598a43692eca9d1587ec4f322fa93]: Commencement: S. 26 in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/237/article/2/a)
+[^c-29c598a43692eca9d1587ec4f322fa93]: Commencement: S. 26 in force at 27.2.2007 by [S.I. 2007/237](https://www.legislation.gov.uk/uksi/2007/237), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/237/article/2/a)

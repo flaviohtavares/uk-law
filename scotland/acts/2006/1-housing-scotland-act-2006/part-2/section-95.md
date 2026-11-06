@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 95. Local authority powers for improvement of amenity of an area[^key-71e8af6918332c2a3ebe1e9ba9a4f6e8]
+## 95. Local authority powers for improvement of amenity of an area[^c-71e8af6918332c2a3ebe1e9ba9a4f6e8]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-71e8af6918332c2a3ebe1e9ba9a4f6e8]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2006/1/section/95) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-71e8af6918332c2a3ebe1e9ba9a4f6e8]: Commencement: [S. 95](https://www.legislation.gov.uk/asp/2006/1/section/95) in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

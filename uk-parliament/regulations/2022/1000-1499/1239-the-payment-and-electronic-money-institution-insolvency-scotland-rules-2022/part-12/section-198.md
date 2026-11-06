@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 198. Administrator’s caution[^key-d0dbef4051071996c781712742888816]
+## 198. Administrator’s caution[^c-d0dbef4051071996c781712742888816]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0dbef4051071996c781712742888816]: Commencement: Rule 198 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-d0dbef4051071996c781712742888816]: Commencement: Rule 198 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

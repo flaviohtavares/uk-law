@@ -46,24 +46,24 @@ Coming into force
 
 1st February 2016
 
-[^key-f1b1e05eb3105c33550afd3a79ab82d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1b1e05eb3105c33550afd3a79ab82d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f1b1e05eb3105c33550afd3a79ab82d9]
+## 1. Citation and commencement[^c-f1b1e05eb3105c33550afd3a79ab82d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) Regulations 2015[^key-f1b1e05eb3105c33550afd3a79ab82d9]
+## 2. Amendment of the Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) Regulations 2015[^c-f1b1e05eb3105c33550afd3a79ab82d9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1b1e05eb3105c33550afd3a79ab82d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1b1e05eb3105c33550afd3a79ab82d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f1b1e05eb3105c33550afd3a79ab82d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1b1e05eb3105c33550afd3a79ab82d9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1b1e05eb3105c33550afd3a79ab82d9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/2) revoked (31.8.2016) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) (Revocation and Transitional Provision) Regulations 2016 (S.I. 2016/822)](https://www.legislation.gov.uk/uksi/2016/822), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2016/822/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/822/regulation/3/2))
+[^c-f1b1e05eb3105c33550afd3a79ab82d9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2016/2) revoked (31.8.2016) by [The Special Educational Needs and Disability (First-tier Tribunal Recommendation Power) (Pilot) (Revocation and Transitional Provision) Regulations 2016 (S.I. 2016/822)](https://www.legislation.gov.uk/uksi/2016/822), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2016/822/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2016/822/regulation/3/2))

@@ -47,7 +47,7 @@ Provided that the foregoing provision shall not apply to any petroleum-spirit ke
 
 (3) If any person to whom a petroleum-spirit licence is granted contravenes any condition of the licence, he shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 1A. Powers of local authority in relation to petroleum-spirit licences[^key-de364f4e01c716c91447da19f1c6c843]
+### 1A. Powers of local authority in relation to petroleum-spirit licences[^c-de364f4e01c716c91447da19f1c6c843]
 
 A petroleum-spirit licence may be granted by a local authority and the authority may—
 
@@ -66,7 +66,7 @@ by notice in writing given to the holder.
 - *Subs.(2) and (3) rep. by SR 2003/152*
 - *Subs.(4) rep. by SR 1996/512*
 
-### 3. Licensing Procedures and Appeals[^key-fa8171303867a6059aebb30005c51d61]
+### 3. Licensing Procedures and Appeals[^c-fa8171303867a6059aebb30005c51d61]
 
 (1) This subsection applies to the following actions in relation to a petroleum-spirit licence, that is to say—
 
@@ -81,7 +81,7 @@ by notice in writing given to the holder.
 
 (4) For the purposes of subsections (2) and (3), the model rules are those set out in the Schedule to the Deregulation (Model Appeal Provisions) Order (Northern Ireland) 1997 and for the purposes of subsection (3), the Tribunal is a Tribunal appointed in accordance with Chapter I of those model rules.
 
-### 4. Fees payable for licences[^key-ed3382f060abbfb63064bda5339d5b9c][^key-dd62254ad51f5428b20dd6d5542a9a5b]
+### 4. Fees payable for licences[^c-ed3382f060abbfb63064bda5339d5b9c][^c-dd62254ad51f5428b20dd6d5542a9a5b]
 
 In respect of every petroleum-spirit licence granted by a local authority, fees shall be payable to the authority by the person to whom the licence is granted at the rates fixed by or determined under regulations made in accordance with Article 40(2) of the Health and Safety at Work (Northern Ireland) Order 1978.
 
@@ -239,13 +239,13 @@ Any byelaws confirmed by the Ministry of Commerce under this Act shall be publis
 
 “Contravention” includes, in relation to any provision, a failure to comply with that provision, and the expression “contravene” shall be construed accordingly:
 
-[^key-58756b0febc266eb8d60940d49f0a45a]...
+[^c-58756b0febc266eb8d60940d49f0a45a]...
 
 “Dispensing” means manual or electrical pumping of petroleum-spirit from a storage tank into the fuel tank for an internal combustion engine, whether for the purposes of sale or not:[^c17181851]
 
 “Dock” includes any pier, jetty or other place, in or at which ships can ship or unship goods or passengers:
 
-[^key-1b60c62dd4f4551ec7ccee63f22e918d]...
+[^c-1b60c62dd4f4551ec7ccee63f22e918d]...
 
 “Government inspector” means a government inspector under the Health and Safety at Work (Northern Ireland) Order 1978[^c19731791]:
 
@@ -265,12 +265,12 @@ Any byelaws confirmed by the Ministry of Commerce under this Act shall be publis
 
 “Petroleum filling station” means any premises or place used or intended to be used by way of trade or for purposes of gain for fuelling motor vehicles with petroleum, and includes any building, advertisement, pump or other apparatus in, or used in connection with, any such premises:
 
-“petroleum-spirit” means petrol, petroleum or a mixture of petroleum with one or more substances which—[^key-ede2006b54eb9044f4c78a6797ce0074]
+“petroleum-spirit” means petrol, petroleum or a mixture of petroleum with one or more substances which—[^c-ede2006b54eb9044f4c78a6797ce0074]
 
 - (a) is liquid at a temperature of 15°C and a pressure of 101.325 kPa (1013.25 mb); and
 - (b) when tested in accordance with Part A.9 of the Annex to Council Regulation (EC) No 440/2008 (laying down the test methods pursuant to Regulation (EC) No 1907/2006 of the European Parliament and of the Council on the Registration, Evaluation, Authorisation and Restriction of Chemicals REACH), has a flash point (as defined in that Part) of less than 21°C;
 
-“Petroleum-spirit licence” means a licence authorising the keeping of petroleum-spirit granted by a local authority empowered under this Act to grant such a licence [^key-0fb71ca4cb001df97d7a0bcd84ffe943]...:
+“Petroleum-spirit licence” means a licence authorising the keeping of petroleum-spirit granted by a local authority empowered under this Act to grant such a licence [^c-0fb71ca4cb001df97d7a0bcd84ffe943]...:
 
 “Ship”[^c17181941] includes every description of vessel used in navigation, whether propelled by oars or otherwise:
 
@@ -290,8 +290,8 @@ Any byelaws confirmed by the Ministry of Commerce under this Act shall be publis
 
 (1)[^c17181951] The provisions of this Act shall not apply in respect of—
 
-- (a) any establishment to which the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^key-173a0157b35556f970947ad756d6c01e] apply by virtue of regulation 3 of those Regulations; [^c17181951] . . .
-- (b)[^key-448c2744afafa2d00bcf582e10900712] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any establishment to which the Control of Major Accident Hazards Regulations (Northern Ireland) 2015[^c-173a0157b35556f970947ad756d6c01e] apply by virtue of regulation 3 of those Regulations; [^c17181951] . . .
+- (b)[^c-448c2744afafa2d00bcf582e10900712] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any workplace within the meaning of the Dangerous Substances and Explosive Atmospheres Regulations (Northern Ireland) 2002, apart from a workplace used, or intended for use, for dispensing petroleum-spirit.
 
 (2) For the purposes of subsection (1)(c), any part of a workplace where petroleum-spirit is kept other than for dispensing is not to be regarded as used, or intended for use, for dispensing petroleum-spirit.
@@ -335,17 +335,17 @@ Provided that—
 
 [^c17181211]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/nisi/1984)
 
-[^key-de364f4e01c716c91447da19f1c6c843]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/apni/1929/13/section/1A) inserted (19.3.2012) by [The Petroleum (Consolidation) Act (Amendment of Licensing Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/11)](https://www.legislation.gov.uk/nisr/2012/11), [regs. 1](https://www.legislation.gov.uk/nisr/2012/11/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/11/regulation/2/2)
+[^c-de364f4e01c716c91447da19f1c6c843]: Textual amendment: [S. 1A](https://www.legislation.gov.uk/apni/1929/13/section/1A) inserted (19.3.2012) by [The Petroleum (Consolidation) Act (Amendment of Licensing Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/11)](https://www.legislation.gov.uk/nisr/2012/11), [regs. 1](https://www.legislation.gov.uk/nisr/2012/11/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2012/11/regulation/2/2)
 
 [^c17181251]: Textual amendment: SRO (NI) 1973/341
 
 [^c17181261]: Textual amendment: SR 2003/152
 
-[^key-fa8171303867a6059aebb30005c51d61]: Textual amendment: [S. 3](https://www.legislation.gov.uk/apni/1929/13/section/3) substituted (19.3.2012) by [The Petroleum (Consolidation) Act (Amendment of Licensing Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/11)](https://www.legislation.gov.uk/nisr/2012/11), [regs. 1](https://www.legislation.gov.uk/nisr/2012/11/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/11/regulation/2/3)
+[^c-fa8171303867a6059aebb30005c51d61]: Textual amendment: [S. 3](https://www.legislation.gov.uk/apni/1929/13/section/3) substituted (19.3.2012) by [The Petroleum (Consolidation) Act (Amendment of Licensing Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/11)](https://www.legislation.gov.uk/nisr/2012/11), [regs. 1](https://www.legislation.gov.uk/nisr/2012/11/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2012/11/regulation/2/3)
 
-[^key-ed3382f060abbfb63064bda5339d5b9c]: Modification: [S. 4](https://www.legislation.gov.uk/apni/1929/13/section/4) excluded (30.7.2012) by [The Health and Safety (Fees) Regulations (Northern Ireland) 2012 (S.R. 2012/255)](https://www.legislation.gov.uk/nisr/2012/255), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/255/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2012/255/regulation/3)
+[^c-ed3382f060abbfb63064bda5339d5b9c]: Modification: [S. 4](https://www.legislation.gov.uk/apni/1929/13/section/4) excluded (30.7.2012) by [The Health and Safety (Fees) Regulations (Northern Ireland) 2012 (S.R. 2012/255)](https://www.legislation.gov.uk/nisr/2012/255), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2012/255/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2012/255/regulation/3)
 
-[^key-dd62254ad51f5428b20dd6d5542a9a5b]: Textual amendment: [S. 4](https://www.legislation.gov.uk/apni/1929/13/section/4) substituted (19.3.2012) by [The Petroleum (Consolidation) Act (Amendment of Licensing Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/11)](https://www.legislation.gov.uk/nisr/2012/11), [regs. 1](https://www.legislation.gov.uk/nisr/2012/11/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2012/11/regulation/2/4)
+[^c-dd62254ad51f5428b20dd6d5542a9a5b]: Textual amendment: [S. 4](https://www.legislation.gov.uk/apni/1929/13/section/4) substituted (19.3.2012) by [The Petroleum (Consolidation) Act (Amendment of Licensing Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/11)](https://www.legislation.gov.uk/nisr/2012/11), [regs. 1](https://www.legislation.gov.uk/nisr/2012/11/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2012/11/regulation/2/4)
 
 [^c17181451]: Textual amendment: mod. by SR 1981/283; 1992/260
 
@@ -381,19 +381,19 @@ Provided that—
 
 [^m00001]: Marginal citation: 1873 c.48
 
-[^key-58756b0febc266eb8d60940d49f0a45a]: Textual amendment: Words in s. 23(1) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2015/265/regulation/2/2/a)
+[^c-58756b0febc266eb8d60940d49f0a45a]: Textual amendment: Words in s. 23(1) omitted (1.7.2015) by virtue of [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2015/265/regulation/2/2/a)
 
 [^c17181851]: Textual amendment: SR 2003/152
 
-[^key-1b60c62dd4f4551ec7ccee63f22e918d]: Textual amendment: Words in s. 23 repealed (19.3.2012) by [The Petroleum (Consolidation) Act (Amendment of Licensing Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/11)](https://www.legislation.gov.uk/nisr/2012/11), [regs. 1](https://www.legislation.gov.uk/nisr/2012/11/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2012/11/regulation/2/5/a)
+[^c-1b60c62dd4f4551ec7ccee63f22e918d]: Textual amendment: Words in s. 23 repealed (19.3.2012) by [The Petroleum (Consolidation) Act (Amendment of Licensing Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/11)](https://www.legislation.gov.uk/nisr/2012/11), [regs. 1](https://www.legislation.gov.uk/nisr/2012/11/regulation/1), [2(5)(a)](https://www.legislation.gov.uk/nisr/2012/11/regulation/2/5/a)
 
 [^c19731791]: Textual amendment: Words in s. 23 substituted (1.12.2006) by [Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 27(1)](https://www.legislation.gov.uk/nisr/2006/425/regulation/27/1), [Sch. 6 para. 5](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/5) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
 
 [^c17181891]: Textual amendment: SRO (NI) 1973/504
 
-[^key-ede2006b54eb9044f4c78a6797ce0074]: Textual amendment: Words in s. 23(1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2015/265/regulation/2/2/b)
+[^c-ede2006b54eb9044f4c78a6797ce0074]: Textual amendment: Words in s. 23(1) substituted (1.7.2015) by [The Classification, Labelling and Packaging of Chemicals (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/265)](https://www.legislation.gov.uk/nisr/2015/265), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/265/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2015/265/regulation/2/2/b)
 
-[^key-0fb71ca4cb001df97d7a0bcd84ffe943]: Textual amendment: Words in s. 23 repealed (19.3.2012) by [The Petroleum (Consolidation) Act (Amendment of Licensing Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/11)](https://www.legislation.gov.uk/nisr/2012/11), [regs. 1](https://www.legislation.gov.uk/nisr/2012/11/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2012/11/regulation/2/5/b)
+[^c-0fb71ca4cb001df97d7a0bcd84ffe943]: Textual amendment: Words in s. 23 repealed (19.3.2012) by [The Petroleum (Consolidation) Act (Amendment of Licensing Provisions) Regulations (Northern Ireland) 2012 (S.R. 2012/11)](https://www.legislation.gov.uk/nisr/2012/11), [regs. 1](https://www.legislation.gov.uk/nisr/2012/11/regulation/1), [2(5)(b)](https://www.legislation.gov.uk/nisr/2012/11/regulation/2/5/b)
 
 [^c17181941]: Textual amendment: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59)
 
@@ -401,9 +401,9 @@ Provided that—
 
 [^c17181951]: Textual amendment: SR 2003/152
 
-[^key-173a0157b35556f970947ad756d6c01e]: Textual amendment: Words in [s. 24A(a)](https://www.legislation.gov.uk/apni/1929/13/section/24A/a) substituted (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/nisr/2015/325/schedule/6/part/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
+[^c-173a0157b35556f970947ad756d6c01e]: Textual amendment: Words in [s. 24A(a)](https://www.legislation.gov.uk/apni/1929/13/section/24A/a) substituted (28.9.2015) by [The Control of Major Accident Hazards Regulations (Northern Ireland) 2015 (S.R. 2015/325)](https://www.legislation.gov.uk/nisr/2015/325), [reg. 1](https://www.legislation.gov.uk/nisr/2015/325/regulation/1), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/nisr/2015/325/schedule/6/part/1) (with [reg. 3(2)](https://www.legislation.gov.uk/nisr/2015/325/regulation/3/2))
 
-[^key-448c2744afafa2d00bcf582e10900712]: Textual amendment: S. 24A(1)(b) repealed (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/223/schedule) Table 3
+[^c-448c2744afafa2d00bcf582e10900712]: Textual amendment: S. 24A(1)(b) repealed (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/223/schedule) Table 3
 
 [^m00002]: Marginal citation: 1929 c.8 (19 Geo.5)
 

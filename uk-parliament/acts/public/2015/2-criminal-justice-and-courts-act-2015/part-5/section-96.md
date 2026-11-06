@@ -34,15 +34,15 @@ summary: ''
 
 - (a) sections 17 and 18(1) to (4) (restrictions on use of cautions);
 - (b) sections 20 to 25 (offences involving ill-treatment or wilful neglect);
-- (c)[^key-826fe8bcb3c1086d98ca4d7a1d024f0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-826fe8bcb3c1086d98ca4d7a1d024f0e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) sections 57 to 61 (personal injury claims: fundamental dishonesty and rules against inducements);
 - (e) sections 86 to 90 (judicial review: information about financial resources, interveners and capping of costs);
 - (f) Schedule 4 (ill-treatment or wilful neglect: excluded health care);
-- (g)[^key-4978c5966f074e9aa815e4aeff4b0865] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-4978c5966f074e9aa815e4aeff4b0865] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) Parts 1 to 4 of Schedule 10 (contracting out secure colleges).
 
 ## Annotations
 
-[^key-826fe8bcb3c1086d98ca4d7a1d024f0e]: Textual amendment: [S. 96(6)(c)](https://www.legislation.gov.uk/ukpga/2015/2/section/96/6/c) omitted (31.1.2024) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 22(2)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/22/2); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-826fe8bcb3c1086d98ca4d7a1d024f0e]: Textual amendment: [S. 96(6)(c)](https://www.legislation.gov.uk/ukpga/2015/2/section/96/6/c) omitted (31.1.2024) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 22(2)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/22/2); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
 
-[^key-4978c5966f074e9aa815e4aeff4b0865]: Textual amendment: [S. 96(6)(g)](https://www.legislation.gov.uk/ukpga/2015/2/section/96/6/g) omitted (31.1.2024) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 22(2)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/22/2); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)
+[^c-4978c5966f074e9aa815e4aeff4b0865]: Textual amendment: [S. 96(6)(g)](https://www.legislation.gov.uk/ukpga/2015/2/section/96/6/g) omitted (31.1.2024) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1), [Sch. 14 para. 22(2)](https://www.legislation.gov.uk/ukpga/2023/50/schedule/14/paragraph/22/2); [S.I. 2024/31](https://www.legislation.gov.uk/uksi/2024/31), [reg. 2](https://www.legislation.gov.uk/uksi/2024/31/regulation/2)

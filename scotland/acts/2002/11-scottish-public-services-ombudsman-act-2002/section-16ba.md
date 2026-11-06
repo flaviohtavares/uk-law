@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16BA. Model complaints handling procedure: healthcare whistleblowing[^key-52daa514f7e0a4e6a51f553880c0280b][^key-41535e83dfba7a390730b3ac558b1016]
+## 16BA. Model complaints handling procedure: healthcare whistleblowing[^c-52daa514f7e0a4e6a51f553880c0280b][^c-41535e83dfba7a390730b3ac558b1016]
 
 *Extent: S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52daa514f7e0a4e6a51f553880c0280b]: Textual amendment: [S. 16BA](https://www.legislation.gov.uk/asp/2002/11/section/16BA) inserted (8.1.2020) by [The Public Services Reform (The Scottish Public Services Ombudsman) (Healthcare Whistleblowing) Order 2020 (S.S.I. 2020/5)](https://www.legislation.gov.uk/ssi/2020/5), [arts. 2](https://www.legislation.gov.uk/ssi/2020/5/article/2), [3(5)](https://www.legislation.gov.uk/ssi/2020/5/article/3/5)
+[^c-52daa514f7e0a4e6a51f553880c0280b]: Textual amendment: [S. 16BA](https://www.legislation.gov.uk/asp/2002/11/section/16BA) inserted (8.1.2020) by [The Public Services Reform (The Scottish Public Services Ombudsman) (Healthcare Whistleblowing) Order 2020 (S.S.I. 2020/5)](https://www.legislation.gov.uk/ssi/2020/5), [arts. 2](https://www.legislation.gov.uk/ssi/2020/5/article/2), [3(5)](https://www.legislation.gov.uk/ssi/2020/5/article/3/5)
 
-[^key-41535e83dfba7a390730b3ac558b1016]: Textual amendment: Ss. 16A-16G and cross-heading inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 119](https://www.legislation.gov.uk/asp/2010/8/section/119), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
+[^c-41535e83dfba7a390730b3ac558b1016]: Textual amendment: Ss. 16A-16G and cross-heading inserted (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 119](https://www.legislation.gov.uk/asp/2010/8/section/119), [134(7)](https://www.legislation.gov.uk/asp/2010/8/section/134/7); [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3(2)](https://www.legislation.gov.uk/ssi/2010/221/article/3/2), [sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)

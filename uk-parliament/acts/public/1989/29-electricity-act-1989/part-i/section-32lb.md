@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32LB. Renewables obligation closure orders: procedure[^key-ba22eba95515a0b4404062dfc3290985]
+## 32LB. Renewables obligation closure orders: procedure[^c-ba22eba95515a0b4404062dfc3290985]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba22eba95515a0b4404062dfc3290985]: Textual amendment: Ss. 32LA, 32LB inserted (E.W.S.) (18.12.2013) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 55(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/55/1), [156(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/3)
+[^c-ba22eba95515a0b4404062dfc3290985]: Textual amendment: Ss. 32LA, 32LB inserted (E.W.S.) (18.12.2013) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 55(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/55/1), [156(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/3)

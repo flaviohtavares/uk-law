@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 45. Banning orders: duration[^key-bece0a3c3074260848bc4cb3b5dac60d]
+## 45. Banning orders: duration[^c-bece0a3c3074260848bc4cb3b5dac60d]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bece0a3c3074260848bc4cb3b5dac60d]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2011/24/section/45) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)
+[^c-bece0a3c3074260848bc4cb3b5dac60d]: Commencement: [S. 45](https://www.legislation.gov.uk/nia/2011/24/section/45) in operation at 1.1.2012 by [S.R. 2011/370](https://www.legislation.gov.uk/nisr/2011/370), [art. 3(d)](https://www.legislation.gov.uk/nisr/2011/370/article/3/d)

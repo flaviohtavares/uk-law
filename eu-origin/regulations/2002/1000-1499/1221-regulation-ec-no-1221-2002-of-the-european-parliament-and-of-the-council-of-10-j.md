@@ -34,54 +34,54 @@ of 10 June 2002
 
 on quarterly non-financial accounts for general government (revoked)
 
-[^key-c68588561312a7f417a0a709348991ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c68588561312a7f417a0a709348991ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Purpose[^key-c68588561312a7f417a0a709348991ec]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Content of the quarterly non-financial accounts for general government[^key-c68588561312a7f417a0a709348991ec]
+## Article 1. Purpose[^c-c68588561312a7f417a0a709348991ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Categories concerned by the transmission of quarterly data[^key-c68588561312a7f417a0a709348991ec]
+## Article 2. Content of the quarterly non-financial accounts for general government[^c-c68588561312a7f417a0a709348991ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Compilation of quarterly data: sources and methods[^key-c68588561312a7f417a0a709348991ec]
+## Article 3. Categories concerned by the transmission of quarterly data[^c-c68588561312a7f417a0a709348991ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Timetable for the transmission of quarterly data[^key-c68588561312a7f417a0a709348991ec]
+## Article 4. Compilation of quarterly data: sources and methods[^c-c68588561312a7f417a0a709348991ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Transmission of backdata[^key-c68588561312a7f417a0a709348991ec]
+## Article 5. Timetable for the transmission of quarterly data[^c-c68588561312a7f417a0a709348991ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Implementation[^key-c68588561312a7f417a0a709348991ec]
+## Article 6. Transmission of backdata[^c-c68588561312a7f417a0a709348991ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Report[^key-c68588561312a7f417a0a709348991ec]
+## Article 7. Implementation[^c-c68588561312a7f417a0a709348991ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Transitional provisions[^key-c68588561312a7f417a0a709348991ec]
+## Article 8. Report[^c-c68588561312a7f417a0a709348991ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Entry into force[^key-c68588561312a7f417a0a709348991ec]
+## Article 9. Transitional provisions[^c-c68588561312a7f417a0a709348991ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c68588561312a7f417a0a709348991ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 10. Entry into force[^c-c68588561312a7f417a0a709348991ec]
 
-## ANNEX — Content of the quarterly non-financial accounts for general government[^key-c68588561312a7f417a0a709348991ec]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-c68588561312a7f417a0a709348991ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX — Content of the quarterly non-financial accounts for general government[^c-c68588561312a7f417a0a709348991ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c68588561312a7f417a0a709348991ec]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c68588561312a7f417a0a709348991ec]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 27](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/27); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

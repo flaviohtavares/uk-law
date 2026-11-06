@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 158. Revenue certainty scheme for sustainable aviation fuel producers: consultation and report[^key-d3f98e1be213db1b70a44327e889b0b3]
+## 158. Revenue certainty scheme for sustainable aviation fuel producers: consultation and report[^c-d3f98e1be213db1b70a44327e889b0b3]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3f98e1be213db1b70a44327e889b0b3]: Commencement: S. 158 in force at Royal Assent, see [s. 334(2)(f)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/f)
+[^c-d3f98e1be213db1b70a44327e889b0b3]: Commencement: S. 158 in force at Royal Assent, see [s. 334(2)(f)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/f)

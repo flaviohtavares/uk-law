@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Power to make provision about late applications for assistance[^key-dce8838b6ff377f8da54edc1a28bf854]
+## 4. Power to make provision about late applications for assistance[^c-dce8838b6ff377f8da54edc1a28bf854]
 
 *Extent: S*
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dce8838b6ff377f8da54edc1a28bf854]: Commencement: S. 4 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-dce8838b6ff377f8da54edc1a28bf854]: Commencement: S. 4 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)

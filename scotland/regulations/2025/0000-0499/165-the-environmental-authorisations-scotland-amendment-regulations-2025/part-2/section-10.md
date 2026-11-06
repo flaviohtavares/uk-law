@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Amendment of regulation 10 (general binding rules)[^key-c42c8cbac46a95cf5f4e0b48bd2c0be1]
+## 10. Amendment of regulation 10 (general binding rules)[^c-c42c8cbac46a95cf5f4e0b48bd2c0be1]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ In regulation 10 (general binding rules)—
 
 ## Annotations
 
-[^key-c42c8cbac46a95cf5f4e0b48bd2c0be1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2025/165/regulation/10) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)
+[^c-c42c8cbac46a95cf5f4e0b48bd2c0be1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2025/165/regulation/10) in force at 1.11.2025, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2)

@@ -40,7 +40,7 @@ and, for the purposes of paragraph (b) above, years ending before 1st January 19
 
 (4)[^c15378751] In subsections (2) and (3) above a reference to a year, in relation to annual contribution income, is a reference to any financial year of a society for which, at the relevant time, accounts have been or ought to have been prepared.
 
-(5) The appropriate authority[^key-22e18a857f5be2f4ddf15d4188514dc5] may, if it is satisfied that it is consistent with the international obligations of the United Kingdom to do so, direct that a friendly society—
+(5) The appropriate authority[^c-22e18a857f5be2f4ddf15d4188514dc5] may, if it is satisfied that it is consistent with the international obligations of the United Kingdom to do so, direct that a friendly society—
 
 - (a) which is, by virtue only of paragraph (b) of subsection (2) above, a society to which that subsection applies; or
 - (b) which is, by virtue only of paragraph (b) of subsection (3) above, a society to which that subsection applies;
@@ -75,4 +75,4 @@ the appropriate authority shall revoke the direction.
 
 [^c15378751]: Modification: [S. 37(4)](https://www.legislation.gov.uk/ukpga/1992/40/section/37/4) excluded (1.5.1993) by [S.I. 1993/932](https://www.legislation.gov.uk/uksi/1993/932), [reg. 7](https://www.legislation.gov.uk/uksi/1993/932/regulation/7)
 
-[^key-22e18a857f5be2f4ddf15d4188514dc5]: Textual amendment: Words in [s. 37](https://www.legislation.gov.uk/ukpga/1992/40/section/37) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 15](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/15) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-22e18a857f5be2f4ddf15d4188514dc5]: Textual amendment: Words in [s. 37](https://www.legislation.gov.uk/ukpga/1992/40/section/37) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 15](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/15) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

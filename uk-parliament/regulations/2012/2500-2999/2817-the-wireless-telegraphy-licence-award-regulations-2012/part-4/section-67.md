@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Determination of the winning principal stage bids[^key-4304875807c176619039c64e2a9074b6]
+## 67. Determination of the winning principal stage bids[^c-4304875807c176619039c64e2a9074b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,4 +71,4 @@ that is available in the award process but was not included in the combination.
 
 ## Annotations
 
-[^key-4304875807c176619039c64e2a9074b6]: Commencement: Reg. 67 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-4304875807c176619039c64e2a9074b6]: Commencement: Reg. 67 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

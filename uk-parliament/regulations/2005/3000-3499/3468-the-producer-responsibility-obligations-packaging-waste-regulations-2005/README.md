@@ -32,7 +32,7 @@ summary: ''
 
 ENVIRONMENTAL PROTECTION
 
-The Producer Responsibility Obligations (Packaging Waste) Regulations 2005 (revoked)[^key-bd11561da08e2ecdc01a62801dcc99f0]
+The Producer Responsibility Obligations (Packaging Waste) Regulations 2005 (revoked)[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 Made
 
@@ -40,11 +40,11 @@ Made
 
 Coming into force in accordance with regulation 1(1)
 
-[^key-bd11561da08e2ecdc01a62801dcc99f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd11561da08e2ecdc01a62801dcc99f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — GENERAL[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART I — GENERAL[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 *Extent: E+W+S*
 
@@ -54,7 +54,7 @@ Coming into force in accordance with regulation 1(1)
 - [Section 2 — Interpretation and notices](part-i/section-2.md)
 - [Section 3 — Exclusion of charities from producer responsibility obligations](part-i/section-3.md)
 
-### PART II — PRODUCERS AND OBLIGATIONS[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART II — PRODUCERS AND OBLIGATIONS[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 *Extent: E+W+S*
 
@@ -63,7 +63,7 @@ Coming into force in accordance with regulation 1(1)
 - [Section 4 — Producers and producer responsibility obligations](part-ii/section-4.md)
 - [Section 5 — Producers and Scheme membership](part-ii/section-5.md)
 
-### PART III — REGISTRATION: PRODUCERS AND SCHEMES[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART III — REGISTRATION: PRODUCERS AND SCHEMES[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 *Extent: E+W+S*
 
@@ -84,7 +84,7 @@ Coming into force in accordance with regulation 1(1)
 - [Section 18 — Cancellation of registration of a scheme](part-iii/section-18.md)
 - [Section 19 — Information provided to scheme operators](part-iii/section-19.md)
 
-### PART IV — RECORDS, RETURNS AND CERTIFICATE[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART IV — RECORDS, RETURNS AND CERTIFICATE[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 *Extent: E+W+S*
 
@@ -94,7 +94,7 @@ Coming into force in accordance with regulation 1(1)
 - [Section 21 — Producers—certifying obligation](part-iv/section-21.md)
 - [Section 22 — Schemes—records and returns](part-iv/section-22.md)
 
-### PART V — ACCREDITATION OF REPROCESSORS AND EXPORTERS[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART V — ACCREDITATION OF REPROCESSORS AND EXPORTERS[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 *Extent: E+W+S*
 
@@ -105,7 +105,7 @@ Coming into force in accordance with regulation 1(1)
 - [Section 25 — Conditions of accreditation](part-v/section-25.md)
 - [Section 26 — Suspension and cancellation of accreditation](part-v/section-26.md)
 
-### PART VI — APPEALS[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART VI — APPEALS[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 *Extent: E+W+S*
 
@@ -116,7 +116,7 @@ Coming into force in accordance with regulation 1(1)
 - [Section 29 — Determination of appeals](part-vi/section-29.md)
 - [Section 30 — Status pending appeal](part-vi/section-30.md)
 
-### PART VII — AGENCIES' POWERS & DUTIES[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART VII — AGENCIES' POWERS & DUTIES[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 *Extent: E+W+S*
 
@@ -129,7 +129,7 @@ Coming into force in accordance with regulation 1(1)
 - [Section 35 — Entry and inspection](part-vii/section-35.md)
 - [Section 36 — Provision of information to the appropriate authority](part-vii/section-36.md)
 
-### PART VIII — GROUPS OF COMPANIES, PUB OPERATING BUSINESSES AND LICENSORS AND MID-YEAR CHANGES[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART VIII — GROUPS OF COMPANIES, PUB OPERATING BUSINESSES AND LICENSORS AND MID-YEAR CHANGES[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 *Extent: E+W+S*
 
@@ -139,7 +139,7 @@ Coming into force in accordance with regulation 1(1)
 - [Section 38 — Packaging handled by licensors and pub operating businesses](part-viii/section-38.md)
 - [Section 39 — Mid-year changes](part-viii/section-39.md)
 
-### PART IX — OFFENCES[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART IX — OFFENCES[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 *Extent: E+W+S*
 
@@ -147,7 +147,7 @@ Coming into force in accordance with regulation 1(1)
 
 - [Section 40 — Offences and penalties](part-ix/section-40.md)
 
-### PART X — REVOCATION AND TRANSITIONAL PROVISION[^key-bd11561da08e2ecdc01a62801dcc99f0]
+### PART X — REVOCATION AND TRANSITIONAL PROVISION[^c-bd11561da08e2ecdc01a62801dcc99f0]
 
 *Extent: E+W+S*
 
@@ -171,12 +171,12 @@ Coming into force in accordance with regulation 1(1)
 
 **No longer in force.**
 
-[^key-bd11561da08e2ecdc01a62801dcc99f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd11561da08e2ecdc01a62801dcc99f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-[^key-bd11561da08e2ecdc01a62801dcc99f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bd11561da08e2ecdc01a62801dcc99f0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bd11561da08e2ecdc01a62801dcc99f0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/3468) revoked (16.3.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations 2007 (S.I. 2007/871)](https://www.legislation.gov.uk/uksi/2007/871), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/871/regulation/1/1), [41(1)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/2)[(3)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/3))
+[^c-bd11561da08e2ecdc01a62801dcc99f0]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2005/3468) revoked (16.3.2007) by [The Producer Responsibility Obligations (Packaging Waste) Regulations 2007 (S.I. 2007/871)](https://www.legislation.gov.uk/uksi/2007/871), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/871/regulation/1/1), [41(1)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/1) (with [reg. 41(2)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/2)[(3)](https://www.legislation.gov.uk/uksi/2007/871/regulation/41/3))

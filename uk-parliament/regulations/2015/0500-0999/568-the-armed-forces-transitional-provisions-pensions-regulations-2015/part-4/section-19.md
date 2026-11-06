@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Amendment of article 10 (amount of payments under article 9) of the EDP Order 2005[^key-d37a5e9a85eeb49f6f45480ae39a1c95]
+## 19. Amendment of article 10 (amount of payments under article 9) of the EDP Order 2005[^c-d37a5e9a85eeb49f6f45480ae39a1c95]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d37a5e9a85eeb49f6f45480ae39a1c95]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)
+[^c-d37a5e9a85eeb49f6f45480ae39a1c95]: Commencement: Reg. 19 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/568/regulation/1/2)

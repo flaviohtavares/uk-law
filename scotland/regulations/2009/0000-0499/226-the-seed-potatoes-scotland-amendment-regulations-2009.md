@@ -32,7 +32,7 @@ summary: ''
 
 SEEDS
 
-The Seed Potatoes (Scotland) Amendment Regulations 2009 (revoked)[^key-8441b95d57c29515f1551a7460daaa16]
+The Seed Potatoes (Scotland) Amendment Regulations 2009 (revoked)[^c-8441b95d57c29515f1551a7460daaa16]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 30th June 2009
 
-[^key-8441b95d57c29515f1551a7460daaa16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8441b95d57c29515f1551a7460daaa16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8441b95d57c29515f1551a7460daaa16]
+## 1. Citation and commencement[^c-8441b95d57c29515f1551a7460daaa16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Seed Potatoes (Scotland) Regulations 2000[^key-8441b95d57c29515f1551a7460daaa16]
+## 2. Amendment to the Seed Potatoes (Scotland) Regulations 2000[^c-8441b95d57c29515f1551a7460daaa16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2 (interpretation)[^key-8441b95d57c29515f1551a7460daaa16]
+## 3. Amendment of regulation 2 (interpretation)[^c-8441b95d57c29515f1551a7460daaa16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 8 (marketing of seed potatoes)[^key-8441b95d57c29515f1551a7460daaa16]
+## 4. Amendment of regulation 8 (marketing of seed potatoes)[^c-8441b95d57c29515f1551a7460daaa16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Schedule 6 (official labels)[^key-8441b95d57c29515f1551a7460daaa16]
+## 5. Amendment of Schedule 6 (official labels)[^c-8441b95d57c29515f1551a7460daaa16]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8441b95d57c29515f1551a7460daaa16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8441b95d57c29515f1551a7460daaa16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8441b95d57c29515f1551a7460daaa16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8441b95d57c29515f1551a7460daaa16]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8441b95d57c29515f1551a7460daaa16]: Textual amendment: Regulations revoked (1.1.2016) by [The Seed Potatoes (Scotland) Regulations 2015 (S.S.I. 2015/395)](https://www.legislation.gov.uk/ssi/2015/395), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/395/regulation/1/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/395/schedule/9) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/395/regulation/21))
+[^c-8441b95d57c29515f1551a7460daaa16]: Textual amendment: Regulations revoked (1.1.2016) by [The Seed Potatoes (Scotland) Regulations 2015 (S.S.I. 2015/395)](https://www.legislation.gov.uk/ssi/2015/395), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/395/regulation/1/1), [sch. 9](https://www.legislation.gov.uk/ssi/2015/395/schedule/9) (with [reg. 21](https://www.legislation.gov.uk/ssi/2015/395/regulation/21))

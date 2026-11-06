@@ -22,7 +22,7 @@ summary: ''
 
 Article 15
 
-### PART 1 — SPECIAL ROADS[^key-221ce51efd64e7fbd0bb80141fb7b0f3]
+### PART 1 — SPECIAL ROADS[^c-221ce51efd64e7fbd0bb80141fb7b0f3]
 
 | *(1)*<br>*Road* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -38,7 +38,7 @@ Article 15
 | M42 Southbound off slip to proposed East Way Roundabout | Between point 6/1 on Sheet 6 and point 5/20 on Sheet 5 of the classification of road plans. |
 | M42 Southbound off slip to A45 Eastbound on slip | Between points 5/15 and 5/13 on Sheet 5 of the classification of road plans. |
 
-### PART 2 — TRUNK ROADS[^key-d58d025b3fff763e6c6cd1ccb6a17376]
+### PART 2 — TRUNK ROADS[^c-d58d025b3fff763e6c6cd1ccb6a17376]
 
 | *(1)*<br>*Road* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -57,7 +57,7 @@ Article 15
 | A45 Eastbound on slip M42 Junction 6 | Between points 5/23 and 5/24 on Sheet 5 of the classification of road plans. |
 | Coventry Road | Between points 5/25 and 5/5 on Sheet 5 of the classification of road plans. |
 
-### PART 3 — CLASSIFIED ROADS[^key-f0bf5758d570815f7c040e0618d71834]
+### PART 3 — CLASSIFIED ROADS[^c-f0bf5758d570815f7c040e0618d71834]
 
 | *(1)*<br>*Road* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -86,7 +86,7 @@ Article 15
 | A45 Eastbound off slip | Between point 4/28 on Sheet 4 and point 5/22 on Sheet 5 of the classification of road plans |
 | A45 Westbound on slip | Between point 5/2 on Sheet 4 and point 4/29 on Sheet 5 of the classification of road plans. |
 
-### PART 4 — UNCLASSIFIED ROADS[^key-9e74333e8d9a1922587216aacb17622a]
+### PART 4 — UNCLASSIFIED ROADS[^c-9e74333e8d9a1922587216aacb17622a]
 
 | *(1)*<br>*Road* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -103,7 +103,7 @@ Article 15
 | Catherine-de-Barnes Lane | Between points 3/7 and 3/12 on Sheet 3 of the classification of road plans. |
 | Access off B4102 Solihull road | At point 2/29 on Sheet 3 of the classification of road plans for access to two residential properties known as Woodside and Mayfield. |
 
-### PART 5 — SPEED LIMITS[^key-72819dfd7386a29f9a51a3582ebb2551]
+### PART 5 — SPEED LIMITS[^c-72819dfd7386a29f9a51a3582ebb2551]
 
 | *(1)*<br>*Road name, number and length* | *(2)*<br>*Speed limit* |
 | --- | --- |
@@ -135,7 +135,7 @@ Article 15
 | Proposed East Way Roundabout, including the eastern approaches/departures from the roundabout, comprising a length of 320 metres, shown as a dashed brown line on Sheet 5 of the Traffic Regulation Measures, Speed Limits Plans. | 30 miles per hour |
 | A realigned section of the Middle Bickenhill Lane from the proposed T-junction on the East Way to the Middle Bickenhill Lane, comprising a length of 135 metres, shown as a dashed brown line on Sheet 5 of the Traffic Regulation Measures, Speed Limits Plans. | 30 miles per hour |
 
-### PART 6 — PUBLIC RIGHTS OF WAY[^key-ebb51374d18361c204cc38ae90d4af58]
+### PART 6 — PUBLIC RIGHTS OF WAY[^c-ebb51374d18361c204cc38ae90d4af58]
 
 | *(1)*<br>*Public right of way* | *(2)*<br>*Extent* |
 | --- | --- |
@@ -155,14 +155,14 @@ Article 15
 
 ## Annotations
 
-[^key-221ce51efd64e7fbd0bb80141fb7b0f3]: Commencement: Sch. 4 Pt. 1 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-221ce51efd64e7fbd0bb80141fb7b0f3]: Commencement: Sch. 4 Pt. 1 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-d58d025b3fff763e6c6cd1ccb6a17376]: Commencement: Sch. 4 Pt. 2 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-d58d025b3fff763e6c6cd1ccb6a17376]: Commencement: Sch. 4 Pt. 2 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-f0bf5758d570815f7c040e0618d71834]: Commencement: Sch. 4 Pt. 3 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-f0bf5758d570815f7c040e0618d71834]: Commencement: Sch. 4 Pt. 3 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-9e74333e8d9a1922587216aacb17622a]: Commencement: Sch. 4 Pt. 4 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-9e74333e8d9a1922587216aacb17622a]: Commencement: Sch. 4 Pt. 4 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-72819dfd7386a29f9a51a3582ebb2551]: Commencement: Sch. 4 Pt. 5 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-72819dfd7386a29f9a51a3582ebb2551]: Commencement: Sch. 4 Pt. 5 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
 
-[^key-ebb51374d18361c204cc38ae90d4af58]: Commencement: Sch. 4 Pt. 6 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-ebb51374d18361c204cc38ae90d4af58]: Commencement: Sch. 4 Pt. 6 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)

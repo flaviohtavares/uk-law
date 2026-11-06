@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Meaning of “section 67 ground”[^key-1f6fe9afe5c9dc8a09d1152e3a133cae]
+## 67. Meaning of “section 67 ground”[^c-1f6fe9afe5c9dc8a09d1152e3a133cae]
 
 *Extent: S*
 
@@ -42,9 +42,9 @@ summary: ''
 - (n) the child is beyond the control of a relevant person,
 - (o) the child has failed without reasonable excuse to attend regularly at school,
 - (p) the child—
-  - (i) has been, is being[^key-98009fed2f5b9812eb7d1c04bcf9db01], or is likely to be, subjected to physical, emotional or other pressure to enter into a [^key-e09d9997eee47e03a49277329d3b64ff]... civil partnership, or
+  - (i) has been, is being[^c-98009fed2f5b9812eb7d1c04bcf9db01], or is likely to be, subjected to physical, emotional or other pressure to enter into a [^c-e09d9997eee47e03a49277329d3b64ff]... civil partnership, or
   - (ii) is, or is likely to become, a member of the same household as such a child.
-- (q)[^key-9a7318c873bf3ba51663962625350e80] the child—
+- (q)[^c-9a7318c873bf3ba51663962625350e80] the child—
   - (i) has been, is being or is likely to be forced into a marriage (that expression being construed in accordance with section 1 of the Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (asp 15)) or,
   - (ii) is, or is likely to become, a member of the same household as such a child.
 
@@ -71,10 +71,10 @@ summary: ''
 
 ## Annotations
 
-[^key-1f6fe9afe5c9dc8a09d1152e3a133cae]: Commencement: S. 67 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-1f6fe9afe5c9dc8a09d1152e3a133cae]: Commencement: S. 67 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-98009fed2f5b9812eb7d1c04bcf9db01]: Textual amendment: Words in s. 67(2)(p)(i) substituted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(8)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/8)
+[^c-98009fed2f5b9812eb7d1c04bcf9db01]: Textual amendment: Words in s. 67(2)(p)(i) substituted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(8)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/8)
 
-[^key-e09d9997eee47e03a49277329d3b64ff]: Textual amendment: Words in s. 67(2)(p)(i) repealed (28.11.2011) by [Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (asp 15)](https://www.legislation.gov.uk/asp/2011/15), [ss. 13(3)(a)](https://www.legislation.gov.uk/asp/2011/15/section/13/3/a), [19(2)](https://www.legislation.gov.uk/asp/2011/15/section/19/2) (with [s. 18](https://www.legislation.gov.uk/asp/2011/15/section/18)); [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-e09d9997eee47e03a49277329d3b64ff]: Textual amendment: Words in s. 67(2)(p)(i) repealed (28.11.2011) by [Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (asp 15)](https://www.legislation.gov.uk/asp/2011/15), [ss. 13(3)(a)](https://www.legislation.gov.uk/asp/2011/15/section/13/3/a), [19(2)](https://www.legislation.gov.uk/asp/2011/15/section/19/2) (with [s. 18](https://www.legislation.gov.uk/asp/2011/15/section/18)); [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
 
-[^key-9a7318c873bf3ba51663962625350e80]: Textual amendment: S. 67(2)(q) inserted (28.11.2011) by [Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (asp 15)](https://www.legislation.gov.uk/asp/2011/15), [ss. 13(3)(b)](https://www.legislation.gov.uk/asp/2011/15/section/13/3/b), [19(2)](https://www.legislation.gov.uk/asp/2011/15/section/19/2) (with [s. 18](https://www.legislation.gov.uk/asp/2011/15/section/18)); [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)
+[^c-9a7318c873bf3ba51663962625350e80]: Textual amendment: S. 67(2)(q) inserted (28.11.2011) by [Forced Marriage etc. (Protection and Jurisdiction) (Scotland) Act 2011 (asp 15)](https://www.legislation.gov.uk/asp/2011/15), [ss. 13(3)(b)](https://www.legislation.gov.uk/asp/2011/15/section/13/3/b), [19(2)](https://www.legislation.gov.uk/asp/2011/15/section/19/2) (with [s. 18](https://www.legislation.gov.uk/asp/2011/15/section/18)); [S.S.I. 2011/352](https://www.legislation.gov.uk/ssi/2011/352), [art. 2](https://www.legislation.gov.uk/ssi/2011/352/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Notification of development[^c22542901][^key-23ab107e0488ff31ef67e0c267e61dce][^key-6c9150a4b41e995cc6640da7a38a730e]
+## 34. Notification of development[^c22542901][^c-23ab107e0488ff31ef67e0c267e61dce][^c-6c9150a4b41e995cc6640da7a38a730e]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ In TCPA 1990, after section 71ZA (as inserted by section 33) insert—
 
 [^c22542901]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2015/4/section/34) partly in force; [s. 34](https://www.legislation.gov.uk/anaw/2015/4/section/34) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-23ab107e0488ff31ef67e0c267e61dce]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2015/4/section/34) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(b)](https://www.legislation.gov.uk/wsi/2016/52/article/3/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2016/52/article/12))
+[^c-23ab107e0488ff31ef67e0c267e61dce]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2015/4/section/34) in force at 1.3.2016 for specified purposes by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 3(b)](https://www.legislation.gov.uk/wsi/2016/52/article/3/b) (with [art. 12](https://www.legislation.gov.uk/wsi/2016/52/article/12))
 
-[^key-6c9150a4b41e995cc6640da7a38a730e]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2015/4/section/34) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b)
+[^c-6c9150a4b41e995cc6640da7a38a730e]: Commencement: [S. 34](https://www.legislation.gov.uk/anaw/2015/4/section/34) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b)

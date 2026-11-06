@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Protocol additional to the Geneva Conventions of 12 August 1949, and relating to the Adoption of an Additional Distinctive Emblem (Protocol III), 8 December 2005[^key-9ffbc114995d6f03b97ef0b8b1da2590]
+## SCHEDULE 7 — Protocol additional to the Geneva Conventions of 12 August 1949, and relating to the Adoption of an Additional Distinctive Emblem (Protocol III), 8 December 2005[^c-9ffbc114995d6f03b97ef0b8b1da2590]
 
 *Extent: E+W+S+N.I.*
 
@@ -105,4 +105,4 @@ Indicative use of the third Protocol emblem [image: see source](https://www.legi
 
 ## Annotations
 
-[^key-9ffbc114995d6f03b97ef0b8b1da2590]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/52/schedule/7) inserted (5.4.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [ss. 1(8)](https://www.legislation.gov.uk/ukpga/2009/6/section/1/8), [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1), [Schs.](https://www.legislation.gov.uk/ukpga/2009/6/schedule); [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)
+[^c-9ffbc114995d6f03b97ef0b8b1da2590]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/Eliz2/5-6/52/schedule/7) inserted (5.4.2010) by [Geneva Conventions and United Nations Personnel (Protocols) Act 2009 (c. 6)](https://www.legislation.gov.uk/ukpga/2009/6), [ss. 1(8)](https://www.legislation.gov.uk/ukpga/2009/6/section/1/8), [3(1)](https://www.legislation.gov.uk/ukpga/2009/6/section/3/1), [Schs.](https://www.legislation.gov.uk/ukpga/2009/6/schedule); [S.I. 2009/2892](https://www.legislation.gov.uk/uksi/2009/2892), [art. 2](https://www.legislation.gov.uk/uksi/2009/2892/article/2)

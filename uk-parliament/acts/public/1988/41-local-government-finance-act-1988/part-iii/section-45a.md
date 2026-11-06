@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45A. Unoccupied hereditaments: zero-rating[^key-6c5dcc371968587e8c29e985b17b836f]
+## 45A. Unoccupied hereditaments: zero-rating[^c-6c5dcc371968587e8c29e985b17b836f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c5dcc371968587e8c29e985b17b836f]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/ukpga/1988/41/section/45A) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/2/2), [19(2)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/a)
+[^c-6c5dcc371968587e8c29e985b17b836f]: Textual amendment: [S. 45A](https://www.legislation.gov.uk/ukpga/1988/41/section/45A) omitted (1.4.2024 with effect in relation to financial years beginning on or after that date) by virtue of [Non-Domestic Rating Act 2023 (c. 53)](https://www.legislation.gov.uk/ukpga/2023/53), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2023/53/section/2/2), [19(2)(a)](https://www.legislation.gov.uk/ukpga/2023/53/section/19/2/a)

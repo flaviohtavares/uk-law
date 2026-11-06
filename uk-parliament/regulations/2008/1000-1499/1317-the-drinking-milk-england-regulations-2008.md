@@ -61,18 +61,18 @@ The Secretary of State makes the following Regulations in exercise of powers con
 (1) In these Regulations—
 
 - “**the 1990 Act**” means the Food Safety Act 1990;
-- [^key-a6911c655dd473d7be036907ade255d3]...
+- [^c-a6911c655dd473d7be036907ade255d3]...
 - “**Article 114(2)**” means Article 114(2) of the Council Regulation;
 - “**the Council Regulation**” means Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation);
-- “**drinking milk**” has the meaning given in point I(b) of Part IV[^key-0cfeeeb915d6634e3a7b5e186d8650de];
+- “**drinking milk**” has the meaning given in point I(b) of Part IV[^c-0cfeeeb915d6634e3a7b5e186d8650de];
 - “**food authority**” does not include the appropriate Treasurer referred to in section 5(1) of the 1990 Act;
 - “**milk**” has the meaning given in point I(a) of Part IV; and
-- “[^key-9f3cd39413a1751a3bf2c5712fd5360b]**Part IV**” means Part 4 of Annex 7 to Regulation ([^key-d4bf0b29aa3503d38f8e2d7211a93193]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time.
+- “[^c-9f3cd39413a1751a3bf2c5712fd5360b]**Part IV**” means Part 4 of Annex 7 to Regulation ([^c-d4bf0b29aa3503d38f8e2d7211a93193]EU) No 1308/2013 of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products, as amended from time to time.
 - “**sell**” includes possess for sale and offer, expose or advertise for sale.
 
-(2) Other expressions used in these Regulations and in the Council Regulation or Part IV[^key-40ef6e006d6677d27f5e99be0899a3c0] which are not defined in these Regulations have the same meaning in these Regulations as they have in the Council Regulation or Part IV.
+(2) Other expressions used in these Regulations and in the Council Regulation or Part IV[^c-40ef6e006d6677d27f5e99be0899a3c0] which are not defined in these Regulations have the same meaning in these Regulations as they have in the Council Regulation or Part IV.
 
-(3)[^key-0eee8577e68096e138fc8e56136ba895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-0eee8577e68096e138fc8e56136ba895] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3. Sale or delivery of milk and use of sales description
 
@@ -81,9 +81,9 @@ No person may—
 - (a) sell or deliver milk; or
 - (b) use or omit to use a sales description for any product,
 
-in contravention of Article 114(2) or point II(1) and (2) of Part IV as read with point[^key-8195b72451275d740fd4bd428fbe3b8d] III of Part IV.
+in contravention of Article 114(2) or point II(1) and (2) of Part IV as read with point[^c-8195b72451275d740fd4bd428fbe3b8d] III of Part IV.
 
-## 4. Importation of products from outside the European Community for sale as drinking milk[^key-1f704db487a8a8f34a05fc941e8645c6]
+## 4. Importation of products from outside the European Community for sale as drinking milk[^c-1f704db487a8a8f34a05fc941e8645c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -93,11 +93,11 @@ in contravention of Article 114(2) or point II(1) and (2) of Part IV as read wit
 
 (2) Each food authority must give such assistance and information to any other food authority in Great Britain as that other food authority may reasonably require for the purpose of carrying out its duties under these Regulations or an equivalent provision.
 
-(3) In this regulation, “**equivalent provision**” means a provision in Regulations made in Scotland or Wales for the purpose of implementing Article 114(2) or Part IV[^key-47e0204e77e8a7ed4851ea2f762a8403].
+(3) In this regulation, “**equivalent provision**” means a provision in Regulations made in Scotland or Wales for the purpose of implementing Article 114(2) or Part IV[^c-47e0204e77e8a7ed4851ea2f762a8403].
 
 ## 6. Offences and penalties
 
-Any person who fails to comply with regulation 3 [^key-b54b1f91cf8dbf085d63599d25dfb4e3]...is—
+Any person who fails to comply with regulation 3 [^c-b54b1f91cf8dbf085d63599d25dfb4e3]...is—
 
 - (a) guilty of an offence; and
 - (b) liable on summary conviction to a fine not exceeding level 5 on the standard scale.
@@ -124,7 +124,7 @@ Any person who fails to comply with regulation 3 [^key-b54b1f91cf8dbf085d63599d2
 
 The Drinking Milk Regulations 1998 [^c1926156] and the Drinking Milk (Amendment) Regulations 2007 [^c1926157] are revoked.
 
-## 9. Amendments[^key-c39a3acb6244f28fb6ec822734018975]
+## 9. Amendments[^c-c39a3acb6244f28fb6ec822734018975]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -166,25 +166,25 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c1926152]: Marginal citation: Functions formerly exercisable by “the Ministers” (being, in relation to England and Wales and acting jointly, the Minister of Agriculture, Fisheries and Food and the Secretaries of State respectively concerned with health in England and food and health in Wales and, in relation to Scotland, the Secretary of State) are now exercisable in relation to England by the Secretary of State pursuant to paragraph 8 of Schedule 5 to the 1999 Act. Those functions, so far as exercisable in relation to Wales, were transferred to the National Assembly for Wales by [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672) as read with section 40(3) of the 1999 Act and thereafter transferred to the Welsh Ministers by paragraph 30 of Schedule 11 to the Government of Wales Act [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32). Those functions, so far as exercisable in relation to Scotland, were transferred to the Scottish Ministers by section 53 of the Scotland Act [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46). as read with section 40(2) of the 1999 Act.
 
-[^key-a6911c655dd473d7be036907ade255d3]: Textual amendment: Words in reg. 2(1) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/2/a)
+[^c-a6911c655dd473d7be036907ade255d3]: Textual amendment: Words in reg. 2(1) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/2/a)
 
-[^key-0cfeeeb915d6634e3a7b5e186d8650de]: Textual amendment: Words in reg. 2(1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/2/b)
+[^c-0cfeeeb915d6634e3a7b5e186d8650de]: Textual amendment: Words in reg. 2(1) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/2/b)
 
-[^key-9f3cd39413a1751a3bf2c5712fd5360b]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/2/c)
+[^c-9f3cd39413a1751a3bf2c5712fd5360b]: Textual amendment: Words in reg. 2(1) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(2)(c)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/2/c)
 
-[^key-d4bf0b29aa3503d38f8e2d7211a93193]: Textual amendment: Words in reg. 2(1) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/21/a)
+[^c-d4bf0b29aa3503d38f8e2d7211a93193]: Textual amendment: Words in reg. 2(1) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [21(a)](https://www.legislation.gov.uk/uksi/2018/575/regulation/21/a)
 
-[^key-40ef6e006d6677d27f5e99be0899a3c0]: Textual amendment: Words in reg. 2(2) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/3)
+[^c-40ef6e006d6677d27f5e99be0899a3c0]: Textual amendment: Words in reg. 2(2) inserted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/3)
 
-[^key-0eee8577e68096e138fc8e56136ba895]: Textual amendment: Reg. 2(3) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/4)
+[^c-0eee8577e68096e138fc8e56136ba895]: Textual amendment: Reg. 2(3) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/4)
 
-[^key-8195b72451275d740fd4bd428fbe3b8d]: Textual amendment: Words in reg. 3 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/5)
+[^c-8195b72451275d740fd4bd428fbe3b8d]: Textual amendment: Words in reg. 3 substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(5)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/5)
 
-[^key-1f704db487a8a8f34a05fc941e8645c6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/1317/regulation/4) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/6)
+[^c-1f704db487a8a8f34a05fc941e8645c6]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2008/1317/regulation/4) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(6)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/6)
 
-[^key-47e0204e77e8a7ed4851ea2f762a8403]: Textual amendment: Words in reg. 5(3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/7)
+[^c-47e0204e77e8a7ed4851ea2f762a8403]: Textual amendment: Words in reg. 5(3) substituted (1.1.2014) by [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(7)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/7)
 
-[^key-b54b1f91cf8dbf085d63599d25dfb4e3]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/1317/regulation/6) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(8)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/8)
+[^c-b54b1f91cf8dbf085d63599d25dfb4e3]: Textual amendment: Words in [reg. 6](https://www.legislation.gov.uk/uksi/2008/1317/regulation/6) omitted (1.1.2014) by virtue of [The Single Common Market Organisation (Consequential Amendments) Regulations 2013 (S.I. 2013/3235)](https://www.legislation.gov.uk/uksi/2013/3235), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3235/regulation/1), [4(8)](https://www.legislation.gov.uk/uksi/2013/3235/regulation/4/8)
 
 [^c1926153]: Marginal citation: [Section 2](https://www.legislation.gov.uk/uksi/2008/1317/section/2) is amended by section 40(1) of, and Schedule 5, paragraphs 7 and 8, to, the [Food Standards Act 1999 (c. 28)](https://www.legislation.gov.uk/ukpga/1999/28).
 
@@ -196,4 +196,4 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^c1926157]: Marginal citation: [S.I. 2007/3428](https://www.legislation.gov.uk/uksi/2007/3428).
 
-[^key-c39a3acb6244f28fb6ec822734018975]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/1317/regulation/9) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 23
+[^c-c39a3acb6244f28fb6ec822734018975]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2008/1317/regulation/9) revoked (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [Sch. 6 Pt. 1](https://www.legislation.gov.uk/uksi/2014/1855/schedule/6/part/1) Entry 23

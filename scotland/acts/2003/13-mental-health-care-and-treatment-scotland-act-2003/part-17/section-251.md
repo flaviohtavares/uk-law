@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 251. Named person where no person nominated or nominated person declines to act[^key-47f685490e1d15399ed89f8255913035]
+## 251. Named person where no person nominated or nominated person declines to act[^c-47f685490e1d15399ed89f8255913035]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47f685490e1d15399ed89f8255913035]: Textual amendment: [S. 251](https://www.legislation.gov.uk/asp/2003/13/section/251) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 22(2)](https://www.legislation.gov.uk/asp/2015/9/section/22/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [arts. 13-15](https://www.legislation.gov.uk/ssi/2017/197/article/13))
+[^c-47f685490e1d15399ed89f8255913035]: Textual amendment: [S. 251](https://www.legislation.gov.uk/asp/2003/13/section/251) repealed (30.6.2017) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 22(2)](https://www.legislation.gov.uk/asp/2015/9/section/22/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [arts. 13-15](https://www.legislation.gov.uk/ssi/2017/197/article/13))

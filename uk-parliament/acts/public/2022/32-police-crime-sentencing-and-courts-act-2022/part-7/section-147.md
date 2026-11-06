@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. Minor amendments to do with weapons-related offences[^key-235e1933e3527317a629da166e05b8b5]
+## 147. Minor amendments to do with weapons-related offences[^c-235e1933e3527317a629da166e05b8b5]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-235e1933e3527317a629da166e05b8b5]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2022/32/section/147) in force at 28.6.2022, see [s. 208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)
+[^c-235e1933e3527317a629da166e05b8b5]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2022/32/section/147) in force at 28.6.2022, see [s. 208(5)(p)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/p)

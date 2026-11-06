@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149. Application of company law[^key-195f7345ead932017eaf8ec48ec3e1b2]
+## 149. Application of company law[^c-195f7345ead932017eaf8ec48ec3e1b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ After section 7 of the Limited Partnerships Act 1907 insert—
 
 ## Annotations
 
-[^key-195f7345ead932017eaf8ec48ec3e1b2]: Commencement: S. 149 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-195f7345ead932017eaf8ec48ec3e1b2]: Commencement: S. 149 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

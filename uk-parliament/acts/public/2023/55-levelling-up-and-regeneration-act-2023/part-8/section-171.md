@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 171. Locally-led urban development corporations[^key-56b6cc586bfa89517988747e42dc4d57]
+## 171. Locally-led urban development corporations[^c-56b6cc586bfa89517988747e42dc4d57]
 
 *Extent: E+W+S+N.I.*
 
@@ -110,7 +110,7 @@ summary: ''
 >
 > (4C) The Secretary of State must exercise other functions under this Act so as to give effect to any other proposals made by virtue of section 134A(3).
 
-(7)[^key-b4a2b412a540bb18fbc2ae6e9c8dffbc] After section 135 insert—
+(7)[^c-b4a2b412a540bb18fbc2ae6e9c8dffbc] After section 135 insert—
 
 > **135A. Oversight of locally-led urban development area**
 >
@@ -134,6 +134,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56b6cc586bfa89517988747e42dc4d57]: Commencement: S. 171 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-56b6cc586bfa89517988747e42dc4d57]: Commencement: S. 171 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-b4a2b412a540bb18fbc2ae6e9c8dffbc]: Commencement: [S. 171(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/171/7) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/h)
+[^c-b4a2b412a540bb18fbc2ae6e9c8dffbc]: Commencement: [S. 171(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/171/7) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/h)

@@ -46,11 +46,11 @@ The Secretary of State makes the following Regulations, in exercise of the power
 
 In accordance with section 63(3)(a) of the Police Act 1996 [^c23969861], the Secretary of State has supplied a draft of these Regulations to the Police Advisory Board for England and Wales and has taken into consideration the representations made by that Board before making these Regulations.
 
-## 1. Citation and commencement[^key-cb07eb567d2feebb780c9c1782e484af]
+## 1. Citation and commencement[^c-cb07eb567d2feebb780c9c1782e484af]
 
 These Regulations may be cited as the Police (Conduct) (Amendment) Regulations 2020 and come into force immediately after the coming into force of the Police (Conduct) Regulations 2020 [^c23969871].
 
-## 2. Amendment of the Police (Conduct) Regulations 2020[^key-c9f65c84ac33facfaf20b183cbf4dfca]
+## 2. Amendment of the Police (Conduct) Regulations 2020[^c-c9f65c84ac33facfaf20b183cbf4dfca]
 
 (1) The Police (Conduct) Regulations 2020 are amended as follows.
 
@@ -78,8 +78,8 @@ An impact assessment has not been produced for these Regulations as no impact on
 
 [^c23969861]: Marginal citation: [Section 63(3)(a)](https://www.legislation.gov.uk/uksi/2020/78/section/63/3/a) was substituted by paragraph 78(3) of Schedule 4 to the [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15) and amended by paragraph 6(2) of Schedule 22 to the Criminal Justice and Immigration Act 2008, sections 123(4) and 133(2) of the Anti-social [Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12) and section 10(3)(b) of the [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26). There are other amendments to section 63, but none are relevant.
 
-[^key-cb07eb567d2feebb780c9c1782e484af]: Commencement: Reg. 1 in force at 1.2.2020 in accordance with reg. 1
+[^c-cb07eb567d2feebb780c9c1782e484af]: Commencement: Reg. 1 in force at 1.2.2020 in accordance with reg. 1
 
 [^c23969871]: Marginal citation: [S.I. 2020/4](https://www.legislation.gov.uk/uksi/2020/4); which come into force on 1st February 2020.
 
-[^key-c9f65c84ac33facfaf20b183cbf4dfca]: Commencement: Reg. 2 in force at 1.2.2020 in accordance with reg. 1
+[^c-c9f65c84ac33facfaf20b183cbf4dfca]: Commencement: Reg. 2 in force at 1.2.2020 in accordance with reg. 1

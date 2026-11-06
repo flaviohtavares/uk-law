@@ -45,7 +45,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by Articles 49(1) and (2) and 73(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00001], and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-0a2abd0046c284bd43ea22ee4f5f8d48]
+## 1. Citation, commencement and interpretation[^c-0a2abd0046c284bd43ea22ee4f5f8d48]
 
 (1) These Regulations may be cited as the Social Security (Inherited SERPS) Regulations (Northern Ireland) 2001 and shall come into operation on 6th October 2002.
 
@@ -55,7 +55,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 - “pensionable age” has the meaning given by the rules in Part I of Schedule 2 to the Pensions (Northern Ireland) Order 1995[^f00003];
 - “widowed parent’s allowance” means an allowance referred to in section 39A[^f00004] of the Contributions and Benefits Act.
 
-## 2. Modification of Part II of the Contributions and Benefits Act[^key-b4dc008a3cd6cb90b2fbfe53bf2e0d30]
+## 2. Modification of Part II of the Contributions and Benefits Act[^c-b4dc008a3cd6cb90b2fbfe53bf2e0d30]
 
 (1) Where, on or after 6th October 2002, a person becomes widowed and entitled to a widowed parent’s allowance or a Category B retirement pension under Part II of the Contributions and Benefits Act by virtue of being a widow or widower then, provided that the deceased spouse of that person attained pensionable age before 6th October 2002, any provision of that Part which is listed in paragraph (3) shall have effect so that the rate of the additional pension in that pension or allowance, or of any constituent element of an increase in that additional pension, which would, but for this paragraph, be payable to that person under that provision shall be increased by 100 per cent.
 
@@ -78,7 +78,7 @@ Senior Officer of the
 
 Department for Social Development
 
-## SCHEDULE — Increases in additional pension of persons of a specified description[^key-21fe8bd437e16448a2361f465986c91d]
+## SCHEDULE — Increases in additional pension of persons of a specified description[^c-21fe8bd437e16448a2361f465986c91d]
 
 Regulation 2(2)
 
@@ -109,13 +109,13 @@ Regulation 2(1) provides for 100 per cent. inherited additional pension where th
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-0a2abd0046c284bd43ea22ee4f5f8d48]: Commencement: Reg. 1 in operation at 6.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/441/regulation/1/1)
+[^c-0a2abd0046c284bd43ea22ee4f5f8d48]: Commencement: Reg. 1 in operation at 6.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/441/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213)
 
 [^f00004]: Footnote: Sections 39A to 39C were inserted by Article 52(2) of the Welfare Reform and Pensions (Northern Ireland) Order 1999
 
-[^key-b4dc008a3cd6cb90b2fbfe53bf2e0d30]: Commencement: Reg. 2 in operation at 6.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/441/regulation/1/1)
+[^c-b4dc008a3cd6cb90b2fbfe53bf2e0d30]: Commencement: Reg. 2 in operation at 6.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/441/regulation/1/1)
 
 [^f00005]: Footnote: Section 39C was amended by sections 33(4) and 35(1)(*a*) and (2)(*a*) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000
 
@@ -131,4 +131,4 @@ Regulation 2(1) provides for 100 per cent. inherited additional pension where th
 
 [^f00011]: Footnote: Paragraph 4 was amended by paragraph 18(13) of Schedule 2 to the Pensions (Northern Ireland) Order 1995 and section 35(1)(*a*) and (2)(*c*) of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000; *see* paragraph 18(14) of that Schedule for the application of paragraph 4(1) to a widower who attains pensionable age before 6th April 2010. Paragraphs 5, 5A and 6 were substituted for paragraphs 5 and 6 by paragraph 18(15) of Schedule 2 to that Order and paragraphs 5A and 6 were amended by section 35(1) and (2)(*c*) of that Act; *see* paragraph 18(16) of that Schedule for the application of paragraph 5(1) to a widower who attains pensionable age before 6th April 2010. Paragraph 7 was amended by paragraph 36(*d*) of Schedule 7 to the Pension Schemes (Northern Ireland) Act [1993 (c. 49)](https://www.legislation.gov.uk/ukpga/1993/49), paragraph 40 of Schedule 1 to the Social Security (Incapacity for Work) (Northern Ireland) Order 1994 ([S.I. 1994/1898 (N.I. 12)](https://www.legislation.gov.uk/nisi/1994/1898)) and paragraph 18(17) of Schedule 2 to the Pensions (Northern Ireland) Order 1995
 
-[^key-21fe8bd437e16448a2361f465986c91d]: Commencement: Sch. in operation at 6.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/441/regulation/1/1)
+[^c-21fe8bd437e16448a2361f465986c91d]: Commencement: Sch. in operation at 6.10.2002, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/441/regulation/1/1)

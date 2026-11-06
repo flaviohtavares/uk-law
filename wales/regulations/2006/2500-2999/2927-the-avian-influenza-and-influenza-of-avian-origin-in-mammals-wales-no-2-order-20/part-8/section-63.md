@@ -42,13 +42,13 @@ summary: ''
 
 (4) Poultry meat from poultry outside a protection zone which does not meet the requirements of paragraph (3)(b) is subject to the measures in paragraphs (2) and (5) applicable to meat from poultry originating in such a zone.
 
-(5) No person is to supply poultry meat from poultry originating in a protection zone for export outside the United Kingdom[^key-84f99118408415e8fc6f12159ebc5b44].
+(5) No person is to supply poultry meat from poultry originating in a protection zone for export outside the United Kingdom[^c-84f99118408415e8fc6f12159ebc5b44].
 
 (6) No person other than the final consumer of meat marked with a mark referred to in paragraph (2)(a) is to deface, obliterate or remove that mark, unless licensed by the National Assembly.
 
 (7) In this article, “**poultry meat**” means poultry meat and any product containing it which has not been heat treated at a minimum temperature of 70°C, which temperature must be reached throughout the meat or product.
 
-(8)[^key-c19449f7fc903990ee73ec14c4bc65f6] No person is to—
+(8)[^c-c19449f7fc903990ee73ec14c4bc65f6] No person is to—
 
 - (a) feed raw poultry meat produced from poultry originating in the protection zone to animals or birds;
 - (b) permit raw poultry meat produced from poultry originating in the protection zone to be used in the production of raw pet food.
@@ -59,6 +59,6 @@ summary: ''
 
 [^c17275671]: Marginal citation: OJ No L 139, 30.4.2004, p. 55.
 
-[^key-84f99118408415e8fc6f12159ebc5b44]: Textual amendment: Words in [art. 63(5)](https://www.legislation.gov.uk/wsi/2006/2927/article/63/5) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [5(5)](https://www.legislation.gov.uk/wsi/2019/371/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-84f99118408415e8fc6f12159ebc5b44]: Textual amendment: Words in [art. 63(5)](https://www.legislation.gov.uk/wsi/2006/2927/article/63/5) substituted (31.12.2020) by [The Exotic Diseases in Animals (Miscellaneous Amendments) (Wales) (EU Exit) Regulations 2019 (S.I. 2019/371)](https://www.legislation.gov.uk/wsi/2019/371), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2019/371/regulation/1/2), [5(5)](https://www.legislation.gov.uk/wsi/2019/371/regulation/5/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c19449f7fc903990ee73ec14c4bc65f6]: Textual amendment: [Art. 63(8)](https://www.legislation.gov.uk/wsi/2006/2927/article/63/8)[(9)](https://www.legislation.gov.uk/wsi/2006/2927/article/63/9) inserted (8.11.2023) by [The Avian Influenza (Miscellaneous Amendments) (Wales) Order 2023 (S.I. 2023/1179)](https://www.legislation.gov.uk/wsi/2023/1179), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/1179/article/1/2), [6](https://www.legislation.gov.uk/wsi/2023/1179/article/6)
+[^c-c19449f7fc903990ee73ec14c4bc65f6]: Textual amendment: [Art. 63(8)](https://www.legislation.gov.uk/wsi/2006/2927/article/63/8)[(9)](https://www.legislation.gov.uk/wsi/2006/2927/article/63/9) inserted (8.11.2023) by [The Avian Influenza (Miscellaneous Amendments) (Wales) Order 2023 (S.I. 2023/1179)](https://www.legislation.gov.uk/wsi/2023/1179), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2023/1179/article/1/2), [6](https://www.legislation.gov.uk/wsi/2023/1179/article/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Supplementary regulation-making powers[^key-084e1c93675ebff087827431c89e3bdb]
+## 36. Supplementary regulation-making powers[^c-084e1c93675ebff087827431c89e3bdb]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 1 contains supplementary regulation-making powers.
 
 ## Annotations
 
-[^key-084e1c93675ebff087827431c89e3bdb]: Commencement: [Art. 36](https://www.legislation.gov.uk/nisi/2015/2006/article/36) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/i)
+[^c-084e1c93675ebff087827431c89e3bdb]: Commencement: [Art. 36](https://www.legislation.gov.uk/nisi/2015/2006/article/36) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(i)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/i)

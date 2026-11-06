@@ -24,11 +24,11 @@ summary: ''
 
 (2) If the Council fail to comply with any directions of the Privy Council under subsection (1) above, the Privy Council may themselves discharge any function of the Council to which this section applies.
 
-(3)[^key-26efda02be1027ab3f2c1015ccd67b52] This section applies to all functions of the Council under this Act except—
+(3)[^c-26efda02be1027ab3f2c1015ccd67b52] This section applies to all functions of the Council under this Act except—
 
 - (a) their functions under sections 1, 5D, 8, 8A, 9, 12, 13 and 32(1) above; and
 - (b) their powers to make rules under sections 23C, 23D and 23E above.
 
 ## Annotations
 
-[^key-26efda02be1027ab3f2c1015ccd67b52]: Textual amendment: S. 33(3) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 24](https://www.legislation.gov.uk/uksi/2005/848/article/24) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-26efda02be1027ab3f2c1015ccd67b52]: Textual amendment: S. 33(3) substituted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 24](https://www.legislation.gov.uk/uksi/2005/848/article/24) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

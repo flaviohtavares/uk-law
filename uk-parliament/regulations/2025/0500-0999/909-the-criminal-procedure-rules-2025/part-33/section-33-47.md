@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.47. Application for discharge or variation of restraint or ancillary order by a person affected by the order[^key-d0164b6012b492a33bd96c8de5283c38]
+## 33.47. Application for discharge or variation of restraint or ancillary order by a person affected by the order[^c-d0164b6012b492a33bd96c8de5283c38]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d0164b6012b492a33bd96c8de5283c38]: Commencement: [Rule 33.47](https://www.legislation.gov.uk/uksi/2025/909/rule/33.47) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d0164b6012b492a33bd96c8de5283c38]: Commencement: [Rule 33.47](https://www.legislation.gov.uk/uksi/2025/909/rule/33.47) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

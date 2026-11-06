@@ -63,23 +63,23 @@ This Act shall, so far as is consistent with the tenor thereof, be read and cons
 
 #### 5. University Courts. Election and term of office of assessors. Incorporation of University Court. President of meetings of Courts.
 
-(1) [^key-9ea1d0ac3905d2386522da67aef90f94] ...
+(1) [^c-9ea1d0ac3905d2386522da67aef90f94] ...
 
 Seven members of each University Court shall be a quorum.
 
 The rector may, before he appoints his assessor, confer with the students representative council.
 
-(2) [^c574348]... every [^c574348] ... rector and rector’s assessor shall continue in office for three years, but in the event of the [^key-4c266fe4ef817cb817196bbbb4ad0267]... rector ceasing to hold office his assessor shall continue to be a member of the University Court until an assessor is nominated by the new [^key-4c266fe4ef817cb817196bbbb4ad0267]... rector and no longer [^c574350] ... No member of the Senatus Academicus of any University shall be entitled to vote or take part in the election of any assessor of the general council of that University [^c574350] ...
+(2) [^c574348]... every [^c574348] ... rector and rector’s assessor shall continue in office for three years, but in the event of the [^c-4c266fe4ef817cb817196bbbb4ad0267]... rector ceasing to hold office his assessor shall continue to be a member of the University Court until an assessor is nominated by the new [^c-4c266fe4ef817cb817196bbbb4ad0267]... rector and no longer [^c574350] ... No member of the Senatus Academicus of any University shall be entitled to vote or take part in the election of any assessor of the general council of that University [^c574350] ...
 
 (3) The University Court shall be a body corporate with perpetual succession and a common seal, which shall be judicially noticed, and all the property, heritable and moveable, belonging to the University, or to any existing college forming part of the University at the passing of this Act, whether the title to such property has been taken in the name of the University or such college, or in name of any person or persons in trust for or on behalf of the University or such college, shall be and is hereby vested in the University Court [^c574348] ...
 
 (4)[^c574353] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) The rector, and in his absence the senior lay member[^key-373e8bb6fbdba8f764433f8252a40cf9] shall preside at meetings of the University Court, and in the absence of both of them a chairman for the time shall be elected by the meeting. The person presiding at any meeting of the University Court shall have a deliberative vote, and also a casting vote in case of equality.
+(5) The rector, and in his absence the senior lay member[^c-373e8bb6fbdba8f764433f8252a40cf9] shall preside at meetings of the University Court, and in the absence of both of them a chairman for the time shall be elected by the meeting. The person presiding at any meeting of the University Court shall have a deliberative vote, and also a casting vote in case of equality.
 
 *Extent: S*
 
-(5A)[^key-7b55059e098ca709bde08ba3fcfef71f] In subsection (5), “**senior lay member**” means the person appointed to the position by virtue of section 8 of the Higher Education Governance (Scotland) Act 2016.
+(5A)[^c-7b55059e098ca709bde08ba3fcfef71f] In subsection (5), “**senior lay member**” means the person appointed to the position by virtue of section 8 of the Higher Education Governance (Scotland) Act 2016.
 
 (6)[^c574355] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -205,7 +205,7 @@ The Commissioners may, if they think fit, make ordinances to extend any of the U
 
 #### 24. Transfer of Crown rights in Edinburgh Botanic Garden to Commissioners of Works.[^c574381]
 
-[^c574382] ... All the right, title, and interest of Her Majesty, in right of Her Crown as proprietor of the Edinburgh Botanic Garden and all buildings therein, shall be vested in the Commissioners of Works, for behoof of the public [^key-6d6908fdd8c9e0177c7a591b0a53e2b1] ... the said garden and buildings to be held by the said Commissioners of Works upon the conditions subject to which the said garden and buildings were acquired by or on behalf of His late Majesty King George the Fourth.
+[^c574382] ... All the right, title, and interest of Her Majesty, in right of Her Crown as proprietor of the Edinburgh Botanic Garden and all buildings therein, shall be vested in the Commissioners of Works, for behoof of the public [^c-6d6908fdd8c9e0177c7a591b0a53e2b1] ... the said garden and buildings to be held by the said Commissioners of Works upon the conditions subject to which the said garden and buildings were acquired by or on behalf of His late Majesty King George the Fourth.
 
 #### 25, 26. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c574386]
 
@@ -223,7 +223,7 @@ The Commissioners may, if they think fit, make ordinances to extend any of the U
 
 . . . [^c574390] Whenever any teind, feu, retour, or other duty or casualty shall be found to be due to the Crown from one of the Universities of Saint Andrews, Glasgow, Aberdeen, or Edinburgh, the Crown Estate Commissioners[^c574391] shall give notice in writing to the principal of the University requiring the University Court of the University to purchase the same from the Crown, and the University Court of the University shall purchase, and such Commissioners shall sell the same, and such sale shall be made in all respects as sales of a like nature in Scotland by the Crown Estate Commissioners may for the time being be by law directed to be made, and upon such terms as may for the time being be in operation with reference to the redemption of charges of a like nature forming part of the land revenues of the Crown.
 
-In relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, references in this section to the Crown Estate Commissioners are to be read as references to the person who manages the property, rights or interests concerned.[^key-6ce728224e3465272563fd20cb7c8644]
+In relation to any property, rights or interests to which section 90B(5) of the Scotland Act 1998 applies, references in this section to the Crown Estate Commissioners are to be read as references to the person who manages the property, rights or interests concerned.[^c-6ce728224e3465272563fd20cb7c8644]
 
 ## SCHEDULE
 
@@ -257,19 +257,19 @@ In relation to any property, rights or interests to which section 90B(5) of the 
 
 [^c574345]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/Vict/52-53/55/section/4) repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)
 
-[^key-9ea1d0ac3905d2386522da67aef90f94]: Textual amendment: Words in s. 5(1) repealed (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 2(2)(a)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/2/2/a); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/382/regulation/4))
+[^c-9ea1d0ac3905d2386522da67aef90f94]: Textual amendment: Words in s. 5(1) repealed (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 2(2)(a)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/2/2/a); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/382/regulation/4))
 
 [^c574348]: Textual amendment: Words repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)
 
-[^key-4c266fe4ef817cb817196bbbb4ad0267]: Textual amendment: Words in s. 5(2) repealed (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 2(2)(b)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/2/2/b); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/382/regulation/4))
+[^c-4c266fe4ef817cb817196bbbb4ad0267]: Textual amendment: Words in s. 5(2) repealed (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 2(2)(b)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/2/2/b); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/382/regulation/4))
 
 [^c574350]: Textual amendment: Words repealed by [Statute Law Revision Act 1908 (c. 49) and Universities (Scotland) Act 1966 (c. 13)](https://www.legislation.gov.uk/ukpga/1966/13), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1966/13/schedule/7/part/I)
 
 [^c574353]: Textual amendment: S. 5(4) repealed by [Statute Law Revision Act 1908 (c. 49) and Universities (Scotland) Act 1966 (c. 13)](https://www.legislation.gov.uk/ukpga/1966/13), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1966/13/schedule/7/part/I)
 
-[^key-373e8bb6fbdba8f764433f8252a40cf9]: Textual amendment: Words in s. 5(5) substituted (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 2(2)(c)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/2/2/c); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/382/regulation/4))
+[^c-373e8bb6fbdba8f764433f8252a40cf9]: Textual amendment: Words in s. 5(5) substituted (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 2(2)(c)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/2/2/c); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/382/regulation/4))
 
-[^key-7b55059e098ca709bde08ba3fcfef71f]: Textual amendment: S. 5(5A) inserted (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 2(2)(d)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/2/2/d); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/382/regulation/4))
+[^c-7b55059e098ca709bde08ba3fcfef71f]: Textual amendment: S. 5(5A) inserted (S.) (30.12.2016) by [Higher Education Governance (Scotland) Act 2016 (asp 15)](https://www.legislation.gov.uk/asp/2016/15), [s. 26(2)](https://www.legislation.gov.uk/asp/2016/15/section/26/2), [sch. para. 2(2)(d)](https://www.legislation.gov.uk/asp/2016/15/schedule/paragraph/2/2/d); [S.S.I. 2016/382](https://www.legislation.gov.uk/ssi/2016/382), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/382/regulation/2/1) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/382/regulation/4))
 
 [^c574355]: Textual amendment: S. 5(6) repealed by University of St. [Andrews Act 1953 (c. 40)](https://www.legislation.gov.uk/ukpga/1953/40), [s. 15(5)](https://www.legislation.gov.uk/ukpga/1953/40/section/15/5)
 
@@ -325,7 +325,7 @@ In relation to any property, rights or interests to which section 90B(5) of the 
 
 [^c574382]: Textual amendment: Words in s. 24 repealed by [Statute Law Revision Act 1908 (c. 49)](https://www.legislation.gov.uk/ukpga/1908/49)
 
-[^key-6d6908fdd8c9e0177c7a591b0a53e2b1]: Textual amendment: Words in s. 24 repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
+[^c-6d6908fdd8c9e0177c7a591b0a53e2b1]: Textual amendment: Words in s. 24 repealed (S.) (28.11.2004) by [Abolition of Feudal Tenure etc. (Scotland) Act 2000 (asp 5)](https://www.legislation.gov.uk/asp/2000/5), [ss. 71](https://www.legislation.gov.uk/asp/2000/5/section/71), [77(2)](https://www.legislation.gov.uk/asp/2000/5/section/77/2), [sch. 13 Pt. 1](https://www.legislation.gov.uk/asp/2000/5/schedule/13/part/1) (with [ss. 58](https://www.legislation.gov.uk/asp/2000/5/section/58), [62](https://www.legislation.gov.uk/asp/2000/5/section/62), [75](https://www.legislation.gov.uk/asp/2000/5/section/75)); [S.S.I. 2003/456](https://www.legislation.gov.uk/ssi/2003/456), [art. 2](https://www.legislation.gov.uk/ssi/2003/456/article/2)
 
 [^c574386]: Textual amendment: [Ss. 25](https://www.legislation.gov.uk/ukpga/Vict/52-53/55/section/25), [26](https://www.legislation.gov.uk/ukpga/Vict/52-53/55/section/26) repealed by [Universities (Scotland) Act 1966 (c. 13)](https://www.legislation.gov.uk/ukpga/1966/13), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1966/13/schedule/7/part/I)
 
@@ -339,4 +339,4 @@ In relation to any property, rights or interests to which section 90B(5) of the 
 
 [^c574391]: Textual amendment: Words substituted by virtue of S.R. & O. 1924/1370 (Rev. V, p. 443: 1924, p. 228), art. 1, [Crown Estate Act 1956 (c. 73)](https://www.legislation.gov.uk/ukpga/1956/73), [s. 1(7)](https://www.legislation.gov.uk/ukpga/1956/73/section/1/7) and [Crown Estate Act 1961 (c. 55)](https://www.legislation.gov.uk/ukpga/1961/55), [Sch. 2 para. 4(1)](https://www.legislation.gov.uk/ukpga/1961/55/schedule/2/paragraph/4/1)
 
-[^key-6ce728224e3465272563fd20cb7c8644]: Textual amendment: Words in [s. 32](https://www.legislation.gov.uk/ukpga/Vict/52-53/55/section/32) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/2)
+[^c-6ce728224e3465272563fd20cb7c8644]: Textual amendment: Words in [s. 32](https://www.legislation.gov.uk/ukpga/Vict/52-53/55/section/32) inserted (1.4.2017) by [The Crown Estate Transfer Scheme 2017 (S.I. 2017/524)](https://www.legislation.gov.uk/uksi/2017/524), [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/524/article/1/2), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2017/524/schedule/5/paragraph/2)

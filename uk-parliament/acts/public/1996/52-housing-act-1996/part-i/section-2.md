@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W*
 
-(1) A Welsh body[^key-fea5f135da0122603462c4f0f1f36c55] is eligible for registration as a social landlord if it is—
+(1) A Welsh body[^c-fea5f135da0122603462c4f0f1f36c55] is eligible for registration as a social landlord if it is—
 
 - (a) a registered charity which is a housing association,
-- (b) a registered society[^key-9947e4d621aee93e666249ba0911828a] which satisfies the conditions in subsection (2), or
-- (c) a company[^key-0deb1cb17022b24ffead70345623724d] which satisfies those conditions.
+- (b) a registered society[^c-9947e4d621aee93e666249ba0911828a] which satisfies the conditions in subsection (2), or
+- (c) a company[^c-0deb1cb17022b24ffead70345623724d] which satisfies those conditions.
 
-(2) The conditions are that the body is principally concerned with Welsh housing, is[^key-96852388e3d1e20b4ebc4decaddff9bb] non-profit-making and is established for the purpose of, or has among its objects or powers, the provision, construction, improvement or management of—
+(2) The conditions are that the body is principally concerned with Welsh housing, is[^c-96852388e3d1e20b4ebc4decaddff9bb] non-profit-making and is established for the purpose of, or has among its objects or powers, the provision, construction, improvement or management of—
 
 - (a) houses to be kept available for letting,
 - (b) houses for occupation by members of the body, where the rules of the body restrict membership to persons entitled or prospectively entitled (as tenants or otherwise) to occupy a house provided or managed by the body, or
@@ -34,7 +34,7 @@ summary: ''
 
 and that any additional purposes or objects are among those specified in subsection (4).
 
-(2A)[^key-7a95dc5f3f9ea26a768fd90f7ffa4d91] A body is principally concerned with Welsh housing if the Welsh Ministers think—
+(2A)[^c-7a95dc5f3f9ea26a768fd90f7ffa4d91] A body is principally concerned with Welsh housing if the Welsh Ministers think—
 
 - (a) that it owns housing only or mainly in Wales, or
 - (b) that its activities are principally undertaken in respect of Wales;
@@ -71,11 +71,11 @@ and once a body has been registered in reliance on paragraph (a) or (b) it does 
 - “**residents**”, in relation to a body, means persons occupying a house or hostel provided or managed by the body; and
 - “**voluntary organisation**” means an organisation whose activities are not carried on for profit.
 
-(7) The Welsh Ministers[^key-207f33d8845c61946f78c6364adab166] may by order specify permissible purposes, objects or powers additional to those specified in subsections (4) and (5).
+(7) The Welsh Ministers[^c-207f33d8845c61946f78c6364adab166] may by order specify permissible purposes, objects or powers additional to those specified in subsections (4) and (5).
 
 The order may (without prejudice to the inclusion of other incidental or supplementary provisions) contain such provision as the Welsh Ministers thinks fit with respect to the priority of mortgages entered into in pursuance of any additional purposes, objects or powers.
 
-(8) An order under subsection (7) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of the National Assembly for Wales[^key-754cdb6593a35485ff893e64147d4d40] .
+(8) An order under subsection (7) shall be made by statutory instrument which shall be subject to annulment in pursuance of a resolution of the National Assembly for Wales[^c-754cdb6593a35485ff893e64147d4d40] .
 
 ## Annotations
 
@@ -83,15 +83,15 @@ The order may (without prejudice to the inclusion of other incidental or supplem
 
 [^c13146581]: Commencement: S. 2 wholly in force 1.10.1996; s. 2 not in force at Royal Assent see s. 232(1)-(3); s. 2(7)(8) in force at 1.8.1996 by 1996/2048, art. 2(1) and s. 2 in force at 1.10.1996 to the extent not already in force by [S.I. 1996/2402](https://www.legislation.gov.uk/uksi/1996/2402), [art. 3](https://www.legislation.gov.uk/uksi/1996/2402/article/3) (subject to the transitional provisions and savings in the Sch. to that S.I.)
 
-[^key-fea5f135da0122603462c4f0f1f36c55]: Textual amendment: Words in s. 2(1) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(5)(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/5/a), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-fea5f135da0122603462c4f0f1f36c55]: Textual amendment: Words in s. 2(1) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(5)(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/5/a), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-9947e4d621aee93e666249ba0911828a]: Textual amendment: Words in s. 2(1)(b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 58](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/58) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-9947e4d621aee93e666249ba0911828a]: Textual amendment: Words in s. 2(1)(b) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 58](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/58) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-0deb1cb17022b24ffead70345623724d]: Textual amendment: Words in s. 2(1)(c) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 161(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/161/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-0deb1cb17022b24ffead70345623724d]: Textual amendment: Words in s. 2(1)(c) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 161(2)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/161/2/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-96852388e3d1e20b4ebc4decaddff9bb]: Textual amendment: Words in s. 2(2) inserted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(5)(b)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/5/b), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-96852388e3d1e20b4ebc4decaddff9bb]: Textual amendment: Words in s. 2(2) inserted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(5)(b)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/5/b), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-7a95dc5f3f9ea26a768fd90f7ffa4d91]: Textual amendment: S. 2(2A) inserted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(5)(c)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/5/c), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-7a95dc5f3f9ea26a768fd90f7ffa4d91]: Textual amendment: S. 2(2A) inserted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(5)(c)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/5/c), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
 [^c13146611]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 
@@ -99,6 +99,6 @@ The order may (without prejudice to the inclusion of other incidental or supplem
 
     S. 2(4) extended (1.7.1999) by [S.I. 1999/1206](https://www.legislation.gov.uk/uksi/1999/1206), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/1206/article/2/1)
 
-[^key-207f33d8845c61946f78c6364adab166]: Textual amendment: Words in s. 2(7) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(5)(d)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/5/d), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-207f33d8845c61946f78c6364adab166]: Textual amendment: Words in s. 2(7) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(5)(d)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/5/d), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
 
-[^key-754cdb6593a35485ff893e64147d4d40]: Textual amendment: Words in s. 2(8) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(5)(e)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/5/e), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-754cdb6593a35485ff893e64147d4d40]: Textual amendment: Words in s. 2(8) substituted (1.4.2010) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 61(5)(e)](https://www.legislation.gov.uk/ukpga/2008/17/section/61/5/e), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

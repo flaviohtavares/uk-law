@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Conditions of licences: general[^key-8f9f819b29b509a28c2359901b21b26d]
+## 11. Conditions of licences: general[^c-8f9f819b29b509a28c2359901b21b26d]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f9f819b29b509a28c2359901b21b26d]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/52/section/11) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-8f9f819b29b509a28c2359901b21b26d]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/52/section/11) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

@@ -33,7 +33,7 @@ summary: ''
 
 > I.................... do solemnly and sincerely and truly affirm and declare that I will well and faithfully serve in the office of.................... and that I will do right to all manner of people without fear or favour, affection or ill-will according to the laws and usages of this realm.
 
-(4)[^key-4455bc36374fb6fe1a799842a0eb3fab] The Lord Chancellor may by order amend Schedule 6 by—
+(4)[^c-4455bc36374fb6fe1a799842a0eb3fab] The Lord Chancellor may by order amend Schedule 6 by—
 
 - (a) adding an office,
 - (b) omitting an office, or
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4455bc36374fb6fe1a799842a0eb3fab]: Modification: [S. 19(4)](https://www.legislation.gov.uk/ukpga/2002/26/section/19/4): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2010/976/article/15/2) (with [arts. 15(6)](https://www.legislation.gov.uk/uksi/2010/976/article/15/6), [28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-4455bc36374fb6fe1a799842a0eb3fab]: Modification: [S. 19(4)](https://www.legislation.gov.uk/ukpga/2002/26/section/19/4): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2010/976/article/15/2) (with [arts. 15(6)](https://www.legislation.gov.uk/uksi/2010/976/article/15/6), [28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

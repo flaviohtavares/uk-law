@@ -31,7 +31,7 @@ summary: ''
 - “**weekly report**” means a report prepared under subsection (1);
 - “**reporting period**”, in relation to such a report, means the period mentioned in any of paragraphs (a) to (c) of that subsection to which the report relates.
 
-(3) The weekly report for any reporting period shall record each donation of more than £11,180[^key-dd876e23b6b8a9973fa47c63b891569c] received during that period—
+(3) The weekly report for any reporting period shall record each donation of more than £11,180[^c-dd876e23b6b8a9973fa47c63b891569c] received during that period—
 
 - (a) by the party (if it is not a party with accounting units); or
 - (b) by the central organisation of the party (if it is a party with accounting units).
@@ -42,7 +42,7 @@ summary: ''
 
 (6) In this section and section 64 “**general election period**” means the period—
 
-- (a) beginning with the date on which Parliament is dissolved[^key-4b724ccb76e54ec2a79eac9839ce3704] [^key-40d121d1c89b88ef1b76c7eb41f6f455]... for a parliamentary general election, and
+- (a) beginning with the date on which Parliament is dissolved[^c-4b724ccb76e54ec2a79eac9839ce3704] [^c-40d121d1c89b88ef1b76c7eb41f6f455]... for a parliamentary general election, and
 - (b) ending with the date of the poll.
 
 ## Annotations
@@ -51,8 +51,8 @@ summary: ''
 
 [^c20069301]: Modification: Ss. 50-69 excluded (temp. from 25.9.2006 until 31.10.2007) by [Northern Ireland (Miscellaneous Provisions) Act 2006 (c. 33)](https://www.legislation.gov.uk/ukpga/2006/33), [ss. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2006/33/section/10/2/a), [11(1)(2)](https://www.legislation.gov.uk/ukpga/2006/33/section/11/1/2), [31(2)](https://www.legislation.gov.uk/ukpga/2006/33/section/31/2)
 
-[^key-dd876e23b6b8a9973fa47c63b891569c]: Textual amendment: Sum in [s. 63(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/63/3) substituted (21.11.2023) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/b)
+[^c-dd876e23b6b8a9973fa47c63b891569c]: Textual amendment: Sum in [s. 63(3)](https://www.legislation.gov.uk/ukpga/2000/41/section/63/3) substituted (21.11.2023) by [The Representation of the People (Variation of Election Expenses, Expenditure Limits and Donation etc. Thresholds) Order 2023 (S.I. 2023/1235)](https://www.legislation.gov.uk/uksi/2023/1235), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1235/article/1/2), [4(3)(b)](https://www.legislation.gov.uk/uksi/2023/1235/article/4/3/b)
 
-[^key-4b724ccb76e54ec2a79eac9839ce3704]: Textual amendment: Words in s. 63(6)(a) substituted (15.9.2011) by [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/20) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))
+[^c-4b724ccb76e54ec2a79eac9839ce3704]: Textual amendment: Words in s. 63(6)(a) substituted (15.9.2011) by [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 20](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/20) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))
 
-[^key-40d121d1c89b88ef1b76c7eb41f6f455]: Textual amendment: Words in [s. 63(6)(a)](https://www.legislation.gov.uk/ukpga/2000/41/section/63/6/a) omitted (24.3.2022) by virtue of [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/14)
+[^c-40d121d1c89b88ef1b76c7eb41f6f455]: Textual amendment: Words in [s. 63(6)(a)](https://www.legislation.gov.uk/ukpga/2000/41/section/63/6/a) omitted (24.3.2022) by virtue of [Dissolution and Calling of Parliament Act 2022 (c. 11)](https://www.legislation.gov.uk/ukpga/2022/11), [s. 6(3)](https://www.legislation.gov.uk/ukpga/2022/11/section/6/3), [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2022/11/schedule/paragraph/14)

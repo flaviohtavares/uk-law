@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 326A. Certain requirements of Chapter 3 to be treated as met[^key-e1144f6a0bb0c544e47d71a6ad7a4040]
+## 326A. Certain requirements of Chapter 3 to be treated as met[^c-e1144f6a0bb0c544e47d71a6ad7a4040]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ section 280B(2)(c) is to be treated as applying in relation to the matching new 
 
 ## Annotations
 
-[^key-e1144f6a0bb0c544e47d71a6ad7a4040]: Textual amendment: S. 326A inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/17)
+[^c-e1144f6a0bb0c544e47d71a6ad7a4040]: Textual amendment: S. 326A inserted (18.11.2015) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 6 para. 17](https://www.legislation.gov.uk/ukpga/2015/33/schedule/6/paragraph/17)

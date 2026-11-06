@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 246. Replacement of trees: woodland preservation orders[^key-423dbd7e0552ed0f2b5b0279b7dd1d36]
+## 246. Replacement of trees: woodland preservation orders[^c-423dbd7e0552ed0f2b5b0279b7dd1d36]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-423dbd7e0552ed0f2b5b0279b7dd1d36]: Commencement: S. 246 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-423dbd7e0552ed0f2b5b0279b7dd1d36]: Commencement: S. 246 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

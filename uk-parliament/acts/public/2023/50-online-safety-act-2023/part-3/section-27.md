@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Safety duties about illegal content[^key-dc0d902ffdca47e24b498e8a70663b2c][^key-80665a075fc1000d7866c9d9d0c37ac3]
+## 27. Safety duties about illegal content[^c-dc0d902ffdca47e24b498e8a70663b2c][^c-80665a075fc1000d7866c9d9d0c37ac3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ All services
 - (a) priority illegal content;
 - (b) other illegal content that the provider knows about (having been alerted to it by another person or become aware of it in any other way).
 
-(3A)[^key-988b73577753eb77764f2064b84b8a6b] A duty to operate a service using proportionate systems and processes designed to ensure that individuals are no longer able to encounter—
+(3A)[^c-988b73577753eb77764f2064b84b8a6b] A duty to operate a service using proportionate systems and processes designed to ensure that individuals are no longer able to encounter—
 
 - (a) search content in relation to which an intimate image content report is made to the provider (see section 31A(2)), and
 - (b) any other search content identified by the provider as the same, or substantially the same, as that content,
@@ -45,7 +45,7 @@ as soon as reasonably practicable, and no later than 48 hours, after the provide
   - (i) the subject of the content, or
   - (ii) a person acting on that person’s behalf.
 
-(4) The duties set out in subsections (2) to (3A)[^key-fb5aa26d54a2826783a0f351b908d470] apply across all areas of a service, including the way the search engine is designed, operated and used as well as search content of the service, and (among other things) require the provider of a service to take or use measures in the following areas, if it is proportionate to do so—
+(4) The duties set out in subsections (2) to (3A)[^c-fb5aa26d54a2826783a0f351b908d470] apply across all areas of a service, including the way the search engine is designed, operated and used as well as search content of the service, and (among other things) require the provider of a service to take or use measures in the following areas, if it is proportionate to do so—
 
 - (a) regulatory compliance and risk management arrangements,
 - (b) design of functionalities, algorithms and other features relating to the search engine,
@@ -58,7 +58,7 @@ as soon as reasonably practicable, and no later than 48 hours, after the provide
 
 (6) A duty to apply the provisions of the statement referred to in subsection (5) consistently.
 
-(7) A duty to include provisions in a publicly available statement giving information about any proactive technology used by a service for the purpose of compliance with a duty set out in subsections (2) to (3A)[^key-4b396daf1237d123eda3039af0850b93] (including the kind of technology, when it is used, and how it works).
+(7) A duty to include provisions in a publicly available statement giving information about any proactive technology used by a service for the purpose of compliance with a duty set out in subsections (2) to (3A)[^c-4b396daf1237d123eda3039af0850b93] (including the kind of technology, when it is used, and how it works).
 
 (8) A duty to ensure that the provisions of the publicly available statement referred to in subsections (5) and (7) are clear and accessible.
 
@@ -79,12 +79,12 @@ Interpretation
 
 ## Annotations
 
-[^key-dc0d902ffdca47e24b498e8a70663b2c]: Commencement: S. 27 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-dc0d902ffdca47e24b498e8a70663b2c]: Commencement: S. 27 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-80665a075fc1000d7866c9d9d0c37ac3]: Commencement: S. 27 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)
+[^c-80665a075fc1000d7866c9d9d0c37ac3]: Commencement: S. 27 in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/j)
 
-[^key-988b73577753eb77764f2064b84b8a6b]: Textual amendment: S. 27(3A)(3B) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-988b73577753eb77764f2064b84b8a6b]: Textual amendment: S. 27(3A)(3B) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 100(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/100/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
 
-[^key-fb5aa26d54a2826783a0f351b908d470]: Textual amendment: Words in s. 27(4) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(4)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/4/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-fb5aa26d54a2826783a0f351b908d470]: Textual amendment: Words in s. 27(4) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(4)(a)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/4/a), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
 
-[^key-4b396daf1237d123eda3039af0850b93]: Textual amendment: Words in s. 27(7) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(4)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/4/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)
+[^c-4b396daf1237d123eda3039af0850b93]: Textual amendment: Words in s. 27(7) substituted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 101(4)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/101/4/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(j)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/j)

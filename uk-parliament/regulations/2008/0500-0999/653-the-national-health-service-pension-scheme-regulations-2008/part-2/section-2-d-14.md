@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-d166cda7d0b969b7c192d63f35695458] A member (other than a pension credit member whose rights under this Section of[^key-ae6d4f4e6ebb988c9cd3d4160e93e9de] the Scheme are attributable to a disqualifying pension credit for the purpose of paragraph 2 of Schedule 29 to the 2004 Act) may opt to exchange part of a pension to which the member would otherwise be entitled for a lump sum.
+(1)[^c-d166cda7d0b969b7c192d63f35695458] A member (other than a pension credit member whose rights under this Section of[^c-ae6d4f4e6ebb988c9cd3d4160e93e9de] the Scheme are attributable to a disqualifying pension credit for the purpose of paragraph 2 of Schedule 29 to the 2004 Act) may opt to exchange part of a pension to which the member would otherwise be entitled for a lump sum.
 
 (2) If a member so opts, for every £1 by which the member’s annual amount of a pension is reduced, the member is to be paid a lump sum of £12.
 
@@ -37,9 +37,9 @@ summary: ''
 - (a) at the time of claiming the pension, or
 - (b) before such later time as the scheme administrator specifies in writing.
 
-This is subject to paragraphs (8) and (9).[^key-6eca8f28f180c24623173c1bba713269]
+This is subject to paragraphs (8) and (9).[^c-6eca8f28f180c24623173c1bba713269]
 
-(8)[^key-b638ba202c31671ef0f68e73b5c7bdc0]  If the pension is an ill-health pension under regulation 2.D.8, the option under this regulation may only be exercised by giving notice in writing to the scheme administrator in such form as the Secretary of State requires—
+(8)[^c-b638ba202c31671ef0f68e73b5c7bdc0]  If the pension is an ill-health pension under regulation 2.D.8, the option under this regulation may only be exercised by giving notice in writing to the scheme administrator in such form as the Secretary of State requires—
 
 - (a) where the member is awarded—
   - (i) a tier 1 ill-health pension under paragraph (2) of that regulation, at the time of claiming that tier 1 ill-health pension,
@@ -53,18 +53,18 @@ This is subject to paragraphs (8) and (9).[^key-6eca8f28f180c24623173c1bba713269
   - (i) at the time of award of the tier 2 ill-health pension under that paragraph, or
   - (ii) before such later time as the scheme administrator specifies in writing.
 
-(10)[^key-5a5ea16bbb194386cd3260e3a610330f] In the case of a 2008 Section Optant, this regulation is subject to paragraph (4) of regulation 2.K.8 and regulation 2.K.12.
+(10)[^c-5a5ea16bbb194386cd3260e3a610330f] In the case of a 2008 Section Optant, this regulation is subject to paragraph (4) of regulation 2.K.8 and regulation 2.K.12.
 
 ## Annotations
 
-[^key-d166cda7d0b969b7c192d63f35695458]: Textual amendment: [Reg. 2.D.14(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.14/1) substituted (1.4.2009 with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3), [32(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/32/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-d166cda7d0b969b7c192d63f35695458]: Textual amendment: [Reg. 2.D.14(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.14/1) substituted (1.4.2009 with effect from 6.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/3), [32(a)](https://www.legislation.gov.uk/uksi/2009/381/regulation/32/a) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-ae6d4f4e6ebb988c9cd3d4160e93e9de]: Textual amendment: Words in [reg. 2.D.14(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.14/1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-ae6d4f4e6ebb988c9cd3d4160e93e9de]: Textual amendment: Words in [reg. 2.D.14(1)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.14/1) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
 
 [^f00047]: Footnote: [1971 c. 56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-6eca8f28f180c24623173c1bba713269]: Textual amendment: Words in [reg. 2.D.14(7)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.14/7) added (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [32(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/32/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-6eca8f28f180c24623173c1bba713269]: Textual amendment: Words in [reg. 2.D.14(7)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.14/7) added (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [32(b)](https://www.legislation.gov.uk/uksi/2009/381/regulation/32/b) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-b638ba202c31671ef0f68e73b5c7bdc0]: Textual amendment: [Reg. 2.D.14(8)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.14/8)[(9)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.14/9) added (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [32(c)](https://www.legislation.gov.uk/uksi/2009/381/regulation/32/c) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
+[^c-b638ba202c31671ef0f68e73b5c7bdc0]: Textual amendment: [Reg. 2.D.14(8)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.14/8)[(9)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.14/9) added (1.4.2009) by [The National Health Service Pension Scheme and Injury Benefits (Amendment) Regulations 2009 (S.I. 2009/381)](https://www.legislation.gov.uk/uksi/2009/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/381/regulation/1/2), [32(c)](https://www.legislation.gov.uk/uksi/2009/381/regulation/32/c) (with [reg. 89](https://www.legislation.gov.uk/uksi/2009/381/regulation/89))
 
-[^key-5a5ea16bbb194386cd3260e3a610330f]: Textual amendment: [Reg. 2.D.14(10)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.14/10) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2009/2446/regulation/33)
+[^c-5a5ea16bbb194386cd3260e3a610330f]: Textual amendment: [Reg. 2.D.14(10)](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.D.14/10) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [33](https://www.legislation.gov.uk/uksi/2009/2446/regulation/33)

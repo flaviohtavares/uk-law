@@ -50,13 +50,13 @@ The Secretary of State for Transport makes the following Regulations in exercise
 
 Representative organisations have been consulted in accordance with section 134(2) of that Act.
 
-## 1. Citation, commencement and application[^key-16c28a07877b230a9d2614707987a1c3]
+## 1. Citation, commencement and application[^c-16c28a07877b230a9d2614707987a1c3]
 
 (1) These Regulations may be cited as the Motorways Traffic (England and Wales) (Amendment) (England) Regulations 2015 and come into force on 6th April 2015.
 
 (2) These Regulations apply in relation to England only.
 
-## 2. Amendment to the Motorways Traffic (England and Wales) Regulations 1982[^key-5bb180647d273d2b759a95f10f13297d]
+## 2. Amendment to the Motorways Traffic (England and Wales) Regulations 1982[^c-5bb180647d273d2b759a95f10f13297d]
 
 (1) The Motorways Traffic (England and Wales) Regulations 1982[^f00002] are amended as follows.
 
@@ -109,9 +109,9 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 [^f00001]: Footnote: [1984. c.27](https://www.legislation.gov.uk/ukpga/1984/27). Section 17(2) was amended by the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, paragraph 28(3); section 17(2)(b) was amended by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8; section 17(2)(d) was inserted by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 25. There are other amendments to sections 17 and 134 which are not relevant to these Regulations.
 
-[^key-16c28a07877b230a9d2614707987a1c3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/392/regulation/1) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1)
+[^c-16c28a07877b230a9d2614707987a1c3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2015/392/regulation/1) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1)
 
-[^key-5bb180647d273d2b759a95f10f13297d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/392/regulation/2) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1)
+[^c-5bb180647d273d2b759a95f10f13297d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2015/392/regulation/2) in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/392/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 1982/1163](https://www.legislation.gov.uk/uksi/1982/1163). There are amendments to these Regulations which are not relevant.
 

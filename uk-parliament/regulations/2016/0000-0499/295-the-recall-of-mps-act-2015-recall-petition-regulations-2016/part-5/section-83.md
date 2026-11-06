@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Form of postal petition statement: England and Wales and Scotland[^key-b41c2e43f82f1140ba21c9b848d3933b]
+## 83. Form of postal petition statement: England and Wales and Scotland[^c-b41c2e43f82f1140ba21c9b848d3933b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The form of the postal petition statement to be used in England and Wales and Sc
 
 ## Annotations
 
-[^key-b41c2e43f82f1140ba21c9b848d3933b]: Commencement: Reg. 83 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-b41c2e43f82f1140ba21c9b848d3933b]: Commencement: Reg. 83 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

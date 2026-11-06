@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 54. Procedure on receipt of notice[^key-0e5839c95cb9b6c14088c0f8146f6304]
+## 54. Procedure on receipt of notice[^c-0e5839c95cb9b6c14088c0f8146f6304]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e5839c95cb9b6c14088c0f8146f6304]: Commencement: Reg. 54 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)
+[^c-0e5839c95cb9b6c14088c0f8146f6304]: Commencement: Reg. 54 in force at 1.2.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/4/regulation/1)

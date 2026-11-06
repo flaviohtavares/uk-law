@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^key-5a08e22d2f0ac2c61450ebd30f8e8b60]
+### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^c-5a08e22d2f0ac2c61450ebd30f8e8b60]
 
 | *(1)*<br>*District in which access is located* | *(2)*<br>*Street* | *(3)*<br>*Description of means of access* |
 | --- | --- | --- |
@@ -43,7 +43,7 @@ Article 12
 | Boston Borough Council | Vicarage Drove | The provision of a permanent means of access to the authorised development from the west side of Vicarage Drove, at point CR/P and the area coloured pink on sheet 12 of the streets and access plan (document reference 2.7). |
 | Boston Borough Council | Vicarage Drove/Private Track | The provision of a permanent means of access to the authorised development from the north side of Vicarage Drove, at point CR/Q and the area coloured pink on sheet 12 of the streets and access plan (document reference 2.7). |
 
-### PART 2 — TEMPORARY MEANS OF ACCESS TO WORKS[^key-270a98086d03809109da2958f1eb5887]
+### PART 2 — TEMPORARY MEANS OF ACCESS TO WORKS[^c-270a98086d03809109da2958f1eb5887]
 
 | *(1)*<br>*District in which access is located* | *(2)*<br>*Street* | *(3)*<br>*Description of means of access* |
 | --- | --- | --- |
@@ -52,6 +52,6 @@ Article 12
 
 ## Annotations
 
-[^key-5a08e22d2f0ac2c61450ebd30f8e8b60]: Commencement: Sch. 7 Pt. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-5a08e22d2f0ac2c61450ebd30f8e8b60]: Commencement: Sch. 7 Pt. 1 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
 
-[^key-270a98086d03809109da2958f1eb5887]: Commencement: Sch. 7 Pt. 2 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)
+[^c-270a98086d03809109da2958f1eb5887]: Commencement: Sch. 7 Pt. 2 in force at 17.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/85/article/1)

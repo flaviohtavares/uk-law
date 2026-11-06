@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.7. Identification of debtor[^key-2df667e9bb24302501cd248c6c5b6472]
+## 6.7. Identification of debtor[^c-2df667e9bb24302501cd248c6c5b6472]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (c) the nature of his business, and the address or addresses at which he carries it on;
 - (d) any name or names, other than his true name, in which he has carried on business at or after the time when the debt was incurred, and whether he has done so alone or with others;
 - (e) any address or addresses at which he has resided or carried on business at or after that time, and the nature of that business.
-- (f)[^key-6297d74eca11dbeece3456d489871f49] whether the debtor has his centre of main interests or an establishment in another member State.
+- (f)[^c-6297d74eca11dbeece3456d489871f49] whether the debtor has his centre of main interests or an establishment in another member State.
 
 (2) The particulars of the debtor given under this Rule determine the full title of the proceedings.
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2df667e9bb24302501cd248c6c5b6472]: Commencement: [Rule 6.7](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.7) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-2df667e9bb24302501cd248c6c5b6472]: Commencement: [Rule 6.7](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.7) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-6297d74eca11dbeece3456d489871f49]: Textual amendment: Rule 6.7(1)(f) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [8(1)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/1) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))
+[^c-6297d74eca11dbeece3456d489871f49]: Textual amendment: Rule 6.7(1)(f) inserted (31.5.2002) by [The Insolvency (Amendment) Rules 2002 (S.I. 2002/1307)](https://www.legislation.gov.uk/uksi/2002/1307), [rules 1](https://www.legislation.gov.uk/uksi/2002/1307/rule/1), [8(1)](https://www.legislation.gov.uk/uksi/2002/1307/rule/8/1) (with [rule 3](https://www.legislation.gov.uk/uksi/2002/1307/rule/3))

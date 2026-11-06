@@ -31,7 +31,7 @@ summary: ''
 
 LANDS TRIBUNAL
 
-Lands Tribunal (Salaries) Order (Northern Ireland) 2001 (revoked)[^key-6d17b3d4ff903f7bf333b92ba22b88f8]
+Lands Tribunal (Salaries) Order (Northern Ireland) 2001 (revoked)[^c-6d17b3d4ff903f7bf333b92ba22b88f8]
 
 Laid before the Assembly in draft
 
@@ -43,28 +43,28 @@ Coming into operation
 
 18th July 2001
 
-[^key-6d17b3d4ff903f7bf333b92ba22b88f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d17b3d4ff903f7bf333b92ba22b88f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-6d17b3d4ff903f7bf333b92ba22b88f8]
+## 1. Title and commencement[^c-6d17b3d4ff903f7bf333b92ba22b88f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-6d17b3d4ff903f7bf333b92ba22b88f8]
+## 2. Revocation[^c-6d17b3d4ff903f7bf333b92ba22b88f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Increases in salaries[^key-6d17b3d4ff903f7bf333b92ba22b88f8]
+## 3. Increases in salaries[^c-6d17b3d4ff903f7bf333b92ba22b88f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6d17b3d4ff903f7bf333b92ba22b88f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d17b3d4ff903f7bf333b92ba22b88f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6d17b3d4ff903f7bf333b92ba22b88f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d17b3d4ff903f7bf333b92ba22b88f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d17b3d4ff903f7bf333b92ba22b88f8]: Textual amendment: Order revoked (1.6.2003) by [Lands Tribunal (Salaries) Order (Northern Ireland) 2003 (S.R. 2003/227)](https://www.legislation.gov.uk/nisr/2003/227), [arts. 1](https://www.legislation.gov.uk/nisr/2003/227/article/1), [2](https://www.legislation.gov.uk/nisr/2003/227/article/2)
+[^c-6d17b3d4ff903f7bf333b92ba22b88f8]: Textual amendment: Order revoked (1.6.2003) by [Lands Tribunal (Salaries) Order (Northern Ireland) 2003 (S.R. 2003/227)](https://www.legislation.gov.uk/nisr/2003/227), [arts. 1](https://www.legislation.gov.uk/nisr/2003/227/article/1), [2](https://www.legislation.gov.uk/nisr/2003/227/article/2)

@@ -37,12 +37,12 @@ summary: ''
 - (a) an individual, nor
 - (b) a qualifying company (see section 442(6)).
 
-(5) In calculating the relievable amount make just and reasonable adjustments to reduce the relievable amount to reflect the fact that relief under this Chapter or as a result of Chapter 3 of Part 6 of CTA 2010[^key-7805427662621410ed796b0bb187f11e] is not available to that owner or to those owners.
+(5) In calculating the relievable amount make just and reasonable adjustments to reduce the relievable amount to reflect the fact that relief under this Chapter or as a result of Chapter 3 of Part 6 of CTA 2010[^c-7805427662621410ed796b0bb187f11e] is not available to that owner or to those owners.
 
-(6)[^key-e8a297b2aee7663df2d7bad1df327b8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-e8a297b2aee7663df2d7bad1df327b8e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7805427662621410ed796b0bb187f11e]: Textual amendment: Words in s. 443(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 529](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/529) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-7805427662621410ed796b0bb187f11e]: Textual amendment: Words in s. 443(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 529](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/529) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-e8a297b2aee7663df2d7bad1df327b8e]: Textual amendment: S. 443(6) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-e8a297b2aee7663df2d7bad1df327b8e]: Textual amendment: S. 443(6) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)

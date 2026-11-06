@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1138A. Externally provided workers and contractors: R&D undertaken abroad[^key-d170b187e3bf48f330ccd7c454b6cc9a][^key-df48bd6195e22cab70f257ccb44c4f3f]
+## 1138A. Externally provided workers and contractors: R&D undertaken abroad[^c-d170b187e3bf48f330ccd7c454b6cc9a][^c-df48bd6195e22cab70f257ccb44c4f3f]
 
 *Extent: E+W+S+N.I.*
 
 (1) This section applies to research and development undertaken outside the United Kingdom if—
 
 - (a) the research and development is undertaken in the circumstances described in subsection (2), or
-- (b)[^key-3570cf50246e00b87d89dd8fc7a119d9] for the purposes of relief under Chapter 2[^key-3fa3401f9a7aa96db8c7067385010f0d] the research and development is undertaken, or contracted out, by a company whose registered office is in Northern Ireland.
+- (b)[^c-3570cf50246e00b87d89dd8fc7a119d9] for the purposes of relief under Chapter 2[^c-3fa3401f9a7aa96db8c7067385010f0d] the research and development is undertaken, or contracted out, by a company whose registered office is in Northern Ireland.
 
 (2) The circumstances are that there are conditions necessary for the purposes of the research and development—
 
@@ -42,7 +42,7 @@ summary: ''
 
 (4) The Treasury may by regulations make provision specifying things that are not conditions for the purposes of subsection (2).
 
-(5)[^key-0cc83807dc01999246950ddd1fa0e6d0] Subsection (1)(b) does not apply in relation to a company in respect of an accounting period if the company—
+(5)[^c-0cc83807dc01999246950ddd1fa0e6d0] Subsection (1)(b) does not apply in relation to a company in respect of an accounting period if the company—
 
 - (a) has not, at any time during the accounting period, carried on a trade involving—
   - (i) trade in goods, or
@@ -51,12 +51,12 @@ summary: ''
 
 ## Annotations
 
-[^key-d170b187e3bf48f330ccd7c454b6cc9a]: Textual amendment: Ss. 1138A, 1138B inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 9(12)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/9/12), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
+[^c-d170b187e3bf48f330ccd7c454b6cc9a]: Textual amendment: Ss. 1138A, 1138B inserted (with effect in relation to accounting periods beginning on or after 1.4.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 1 paras. 9(12)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/9/12), [16](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/16) (with [Sch. 1 para. 18](https://www.legislation.gov.uk/ukpga/2024/3/schedule/1/paragraph/18)); [S.I. 2024/286](https://www.legislation.gov.uk/uksi/2024/286), [reg. 2](https://www.legislation.gov.uk/uksi/2024/286/regulation/2)
 
-[^key-df48bd6195e22cab70f257ccb44c4f3f]: Modification: S. 1138A applied (1.4.2024) by [The Research and Development (Chapter 2 Relief) Regulations 2024 (S.I. 2024/348)](https://www.legislation.gov.uk/uksi/2024/348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/348/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/348/regulation/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/348/regulation/2))
+[^c-df48bd6195e22cab70f257ccb44c4f3f]: Modification: S. 1138A applied (1.4.2024) by [The Research and Development (Chapter 2 Relief) Regulations 2024 (S.I. 2024/348)](https://www.legislation.gov.uk/uksi/2024/348), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/348/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2024/348/regulation/3) (with [reg. 2](https://www.legislation.gov.uk/uksi/2024/348/regulation/2))
 
-[^key-3570cf50246e00b87d89dd8fc7a119d9]: Textual amendment: [S. 1138A(1)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1138A/1/b) substituted (with effect in accordance with s. 29(9) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(4)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/4/a)[(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9)
+[^c-3570cf50246e00b87d89dd8fc7a119d9]: Textual amendment: [S. 1138A(1)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1138A/1/b) substituted (with effect in accordance with s. 29(9) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(4)(a)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/4/a)[(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9)
 
-[^key-3fa3401f9a7aa96db8c7067385010f0d]: Textual amendment: Words in [s. 1138A(1)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1138A/1/b) inserted (with effect in accordance with s. 34(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/34/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/34/2)
+[^c-3fa3401f9a7aa96db8c7067385010f0d]: Textual amendment: Words in [s. 1138A(1)(b)](https://www.legislation.gov.uk/ukpga/2009/4/section/1138A/1/b) inserted (with effect in accordance with s. 34(2) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2026/11/section/34/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/34/2)
 
-[^key-0cc83807dc01999246950ddd1fa0e6d0]: Textual amendment: S. 1138A(5) inserted (with effect in accordance with s. 29(9) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(4)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/4/b)[(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9)
+[^c-0cc83807dc01999246950ddd1fa0e6d0]: Textual amendment: S. 1138A(5) inserted (with effect in accordance with s. 29(9) of the amending Act) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 29(4)(b)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/4/b)[(9)](https://www.legislation.gov.uk/ukpga/2025/8/section/29/9)

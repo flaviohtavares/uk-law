@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110A. Search and seizure of vehicles, etc.[^key-3e2f898c89eb364bd4887a4921337751]
+## 110A. Search and seizure of vehicles, etc.[^c-3e2f898c89eb364bd4887a4921337751]
 
 *Extent: S*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e2f898c89eb364bd4887a4921337751]: Textual amendment: Ss. 110A-110D and cross-heading inserted (S.) (1.8.2025 for specified purposes) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 19(2)](https://www.legislation.gov.uk/asp/2024/13/section/19/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)
+[^c-3e2f898c89eb364bd4887a4921337751]: Textual amendment: Ss. 110A-110D and cross-heading inserted (S.) (1.8.2025 for specified purposes) by [Circular Economy (Scotland) Act 2024 (asp 13)](https://www.legislation.gov.uk/asp/2024/13), [ss. 19(2)](https://www.legislation.gov.uk/asp/2024/13/section/19/2), [27(2)](https://www.legislation.gov.uk/asp/2024/13/section/27/2); [S.S.I. 2025/170](https://www.legislation.gov.uk/ssi/2025/170), [reg. 2](https://www.legislation.gov.uk/ssi/2025/170/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/170/schedule)

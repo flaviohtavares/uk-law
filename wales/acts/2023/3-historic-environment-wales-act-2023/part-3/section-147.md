@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 147. Steps for preservation of listed buildings in disrepair[^key-99d0f35a2a44512cfae9358a07f63148]
+## 147. Steps for preservation of listed buildings in disrepair[^c-99d0f35a2a44512cfae9358a07f63148]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99d0f35a2a44512cfae9358a07f63148]: Commencement: S. 147 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-99d0f35a2a44512cfae9358a07f63148]: Commencement: S. 147 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)

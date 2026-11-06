@@ -77,7 +77,7 @@ it does not admit a person as a pupil because of the person's sex.
 
 **4.** (1) In the case of a maintained school within the meaning given by section 32 of the Education and Inspections Act 2006, a transitional exemption order may be made in accordance with such provision as is made in regulations under section 21 of that Act (orders made by local authority or adjudicator in relation to schools in England).
 
-(2) In the case of a school in Wales maintained by a local authority, a transitional exemption order may be made in accordance with section 82 of, or Part 3 of Schedule 3 to, the School Standards and Organisation (Wales) Act 2013 *(Extent: E+W)*[^key-66c7f24de2a82aa0fb7548ff8a0eeb72] (orders made by Welsh Ministers).
+(2) In the case of a school in Wales maintained by a local authority, a transitional exemption order may be made in accordance with section 82 of, or Part 3 of Schedule 3 to, the School Standards and Organisation (Wales) Act 2013 *(Extent: E+W)*[^c-66c7f24de2a82aa0fb7548ff8a0eeb72] (orders made by Welsh Ministers).
 
 (3) In the case of a school in Scotland managed by an education authority or in respect of which the managers are for the time being receiving grants under section 73(c) or (d) of the Education (Scotland) Act 1980—
 
@@ -86,10 +86,10 @@ it does not admit a person as a pupil because of the person's sex.
 
 (4) [^c21910811]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5) Where proposals are made to the Welsh Ministers under section 113A of the Learning and Skills Act 2000 for an alteration in the admissions arrangements of a single-sex school or a school to which paragraph 2 applies— *(Extent: E+W)* *(affected by repeal, see note)*[^key-837e172ca044ad0c3599f9e7c0b204b3]
+(5) Where proposals are made to the Welsh Ministers under section 113A of the Learning and Skills Act 2000 for an alteration in the admissions arrangements of a single-sex school or a school to which paragraph 2 applies— *(Extent: E+W)* *(affected by repeal, see note)*[^c-837e172ca044ad0c3599f9e7c0b204b3]
 
-- (a (Extent: E+W) (affected by repeal, see note))[^key-837e172ca044ad0c3599f9e7c0b204b3] the making of the proposals is to be treated as an application to the Welsh Ministers for the making of a transitional exemption order, and *(Extent: E+W)* *(affected by repeal, see note)*[^key-837e172ca044ad0c3599f9e7c0b204b3]
-- (b (Extent: E+W) (affected by repeal, see note))[^key-837e172ca044ad0c3599f9e7c0b204b3] the Welsh Ministers may make the order. *(Extent: E+W)* *(affected by repeal, see note)*[^key-837e172ca044ad0c3599f9e7c0b204b3]
+- (a (Extent: E+W) (affected by repeal, see note))[^c-837e172ca044ad0c3599f9e7c0b204b3] the making of the proposals is to be treated as an application to the Welsh Ministers for the making of a transitional exemption order, and *(Extent: E+W)* *(affected by repeal, see note)*[^c-837e172ca044ad0c3599f9e7c0b204b3]
+- (b (Extent: E+W) (affected by repeal, see note))[^c-837e172ca044ad0c3599f9e7c0b204b3] the Welsh Ministers may make the order. *(Extent: E+W)* *(affected by repeal, see note)*[^c-837e172ca044ad0c3599f9e7c0b204b3]
 
 (6) In the case of a school in England or Wales not coming within sub-paragraph (1), (2), (4) or (5) or an independent school in Scotland—
 
@@ -162,11 +162,11 @@ it does not admit a person as a pupil because of the person's sex.
 
 ## Annotations
 
-[^key-66c7f24de2a82aa0fb7548ff8a0eeb72]: Textual amendment: Words in Sch. 11 para. 4(2) substituted (E.W.) (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 28(2)(a)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/28/2/a); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-66c7f24de2a82aa0fb7548ff8a0eeb72]: Textual amendment: Words in Sch. 11 para. 4(2) substituted (E.W.) (1.10.2013) by [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 28(2)(a)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/28/2/a); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
 [^c21910811]: Textual amendment: Sch. 11 para. 4(4) omitted (1.10.2010) by virtue of [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 10](https://www.legislation.gov.uk/uksi/2010/2279/article/10)
 
-[^key-837e172ca044ad0c3599f9e7c0b204b3]: Textual amendment: Sch. 11 para. 4(5) omitted (E.W.) (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 28(2)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/28/2/b); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-837e172ca044ad0c3599f9e7c0b204b3]: Textual amendment: Sch. 11 para. 4(5) omitted (E.W.) (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 28(2)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/28/2/b); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
 [^M_F_67dad150-8f63-45c7-e401-6f7778a17004]: Textual amendment: Words in Sch. 5 para. 5(a) inserted (W.) (30.4.2021) by [Curriculum and Assessment (Wales) Act 2021 (2021 asc 4](https://www.legislation.gov.uk/asc/2021/4)), [s. 84(1)](https://www.legislation.gov.uk/asc/2021/4/section/84/1), [Sch. 2 para. 63](https://www.legislation.gov.uk/asc/2021/4/schedule/2/paragraph/63) (with savings and transitional provisions in [S.I. 2022/111](https://www.legislation.gov.uk/uksi/2022/111), [regs. 1](https://www.legislation.gov.uk/uksi/2022/111/regulation/1), [3](https://www.legislation.gov.uk/uksi/2022/111/regulation/3))
 

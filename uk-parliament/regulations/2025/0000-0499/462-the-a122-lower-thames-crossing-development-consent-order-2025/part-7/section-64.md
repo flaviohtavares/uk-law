@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 64. Arbitration[^key-8a2459ad1526d8a0af6673a996c03369]
+## 64. Arbitration[^c-8a2459ad1526d8a0af6673a996c03369]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a2459ad1526d8a0af6673a996c03369]: Commencement: Art. 64 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-8a2459ad1526d8a0af6673a996c03369]: Commencement: Art. 64 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

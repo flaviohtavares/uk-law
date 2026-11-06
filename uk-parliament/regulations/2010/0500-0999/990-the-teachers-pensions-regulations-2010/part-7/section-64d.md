@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 64D. Recovery of overpaid pension[^key-7dab7498a4c720d7dd3a3a72c615122f]
+## 64D. Recovery of overpaid pension[^c-7dab7498a4c720d7dd3a3a72c615122f]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7dab7498a4c720d7dd3a3a72c615122f]: Textual amendment: [Regs. 64-64D](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) substituted for [reg. 64](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/2651/regulation/15)
+[^c-7dab7498a4c720d7dd3a3a72c615122f]: Textual amendment: [Regs. 64-64D](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) substituted for [reg. 64](https://www.legislation.gov.uk/uksi/2010/990/regulation/64) (1.4.2015) by [The Teachers' Pensions (Miscellaneous Amendments) (No. 2) Regulations 2014 (S.I. 2014/2651)](https://www.legislation.gov.uk/uksi/2014/2651), [regs. 1](https://www.legislation.gov.uk/uksi/2014/2651/regulation/1), [15](https://www.legislation.gov.uk/uksi/2014/2651/regulation/15)

@@ -31,7 +31,7 @@ Hydrocarbon Oil Duties Act 1979
 
 An Act to consolidate the enactments relating to the excise duties on hydrocarbon oil, petrol substitutes, power methylated spirits and road fuel gas.
 
-\[22nd February 1979\][^c11241051][^c11241061][^c11241071][^key-f10226ea0519a51b2fbd71f51a3fc849][^key-f9ad2ba91f86e544905dfd4e9fb25116][^key-613118219d4f1f6d65a1a1f9b774a8c0][^key-b828b1c4cea6d2aa745214979a40b652]
+\[22nd February 1979\][^c11241051][^c11241061][^c11241071][^c-f10226ea0519a51b2fbd71f51a3fc849][^c-f9ad2ba91f86e544905dfd4e9fb25116][^c-613118219d4f1f6d65a1a1f9b774a8c0][^c-b828b1c4cea6d2aa745214979a40b652]
 
 ## Contents
 
@@ -109,7 +109,7 @@ An Act to consolidate the enactments relating to the excise duties on hydrocarbo
 - [Section 19A — Fuel for producing energy for refineries etc.](section-19a.md)
 - [Section 20 — Contaminated or accidentally mixed oil.](section-20.md)
 
-### Mixing[^key-18453ec2b5ca1f3bc299f9646407599a]
+### Mixing[^c-18453ec2b5ca1f3bc299f9646407599a]
 
 *Extent: E+W+S+N.I.*
 
@@ -166,12 +166,12 @@ SCHEDULES
 
 [^c11241071]: Commencement: Act wholly in force at 1.4.1979 see s. 29(2)
 
-[^key-f10226ea0519a51b2fbd71f51a3fc849]: Modification: Act modified by [Alcoholic Liquor Duties Act 1979 (c. 4)](https://www.legislation.gov.uk/ukpga/1979/4), [Sch. 2A para. 3(5)](https://www.legislation.gov.uk/ukpga/1979/4/schedule/2A/paragraph/3/5) (as inserted (22.2.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/1); [S.I. 2006/201](https://www.legislation.gov.uk/uksi/2006/201), [art. 2](https://www.legislation.gov.uk/uksi/2006/201/article/2))
+[^c-f10226ea0519a51b2fbd71f51a3fc849]: Modification: Act modified by [Alcoholic Liquor Duties Act 1979 (c. 4)](https://www.legislation.gov.uk/ukpga/1979/4), [Sch. 2A para. 3(5)](https://www.legislation.gov.uk/ukpga/1979/4/schedule/2A/paragraph/3/5) (as inserted (22.2.2006) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 1](https://www.legislation.gov.uk/ukpga/2004/12/schedule/1); [S.I. 2006/201](https://www.legislation.gov.uk/uksi/2006/201), [art. 2](https://www.legislation.gov.uk/uksi/2006/201/article/2))
 
-[^key-f9ad2ba91f86e544905dfd4e9fb25116]: Modification: Act modified (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 188](https://www.legislation.gov.uk/ukpga/2012/14/section/188)
+[^c-f9ad2ba91f86e544905dfd4e9fb25116]: Modification: Act modified (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 188](https://www.legislation.gov.uk/ukpga/2012/14/section/188)
 
-[^key-613118219d4f1f6d65a1a1f9b774a8c0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1979/5) applied (with modifications) (31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 5](https://www.legislation.gov.uk/ukpga/2020/26/section/5), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-613118219d4f1f6d65a1a1f9b774a8c0]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1979/5) applied (with modifications) (31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [ss. 5](https://www.legislation.gov.uk/ukpga/2020/26/section/5), [11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-b828b1c4cea6d2aa745214979a40b652]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1979/5) applied (31.12.2020) by 1994 c. 23, s. 16(1) (as substituted by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/13) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in S.I. 2019/105 (as amended by S.I. 2020/1495, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), S.I. 2020/1545, [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and 2020 c. 26, [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7)))
+[^c-b828b1c4cea6d2aa745214979a40b652]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1979/5) applied (31.12.2020) by 1994 c. 23, s. 16(1) (as substituted by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 13](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/13) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in S.I. 2019/105 (as amended by S.I. 2020/1495, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), S.I. 2020/1545, [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and 2020 c. 26, [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7)))
 
-[^key-18453ec2b5ca1f3bc299f9646407599a]: Textual amendment: S. 20A cross-heading substituted (15.9.2016 for specified purposes, 14.11.2016 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 17 paras. 6(1)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/6/1), [14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/14)
+[^c-18453ec2b5ca1f3bc299f9646407599a]: Textual amendment: S. 20A cross-heading substituted (15.9.2016 for specified purposes, 14.11.2016 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 17 paras. 6(1)](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/6/1), [14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 51. Establishment of full retirement account[^key-759c41d57f20a3ecc55e928c6dcab2cc]
+## 51. Establishment of full retirement account[^c-759c41d57f20a3ecc55e928c6dcab2cc]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-759c41d57f20a3ecc55e928c6dcab2cc]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2014/290/regulation/51) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-759c41d57f20a3ecc55e928c6dcab2cc]: Commencement: [Reg. 51](https://www.legislation.gov.uk/nisr/2014/290/regulation/51) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

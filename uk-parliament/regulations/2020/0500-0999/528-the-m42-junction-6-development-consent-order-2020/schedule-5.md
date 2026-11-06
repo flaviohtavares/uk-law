@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — STREETS TO BE TEMPORARILY STOPPED UP[^key-eb307b1fdc6c9ee95a4a782824e06a5f]
+## SCHEDULE 5 — STREETS TO BE TEMPORARILY STOPPED UP[^c-eb307b1fdc6c9ee95a4a782824e06a5f]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ Article 16
 
 ## Annotations
 
-[^key-eb307b1fdc6c9ee95a4a782824e06a5f]: Commencement: Sch. 5 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)
+[^c-eb307b1fdc6c9ee95a4a782824e06a5f]: Commencement: Sch. 5 in force at 11.6.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/528/article/1)

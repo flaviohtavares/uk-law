@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 69. Application of regulation 30 of the 2004 Regulations to general medical services contracts entered into under Part 2 of the Transitional Order[^key-9bea3a50b2bc479c1301fc6d6dbe7bc4]
+## 69. Application of regulation 30 of the 2004 Regulations to general medical services contracts entered into under Part 2 of the Transitional Order[^c-9bea3a50b2bc479c1301fc6d6dbe7bc4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a person enters into a general medical services contract pursuant to an en
 
 ## Annotations
 
-[^key-9bea3a50b2bc479c1301fc6d6dbe7bc4]: Commencement: Art. 69 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-9bea3a50b2bc479c1301fc6d6dbe7bc4]: Commencement: Art. 69 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

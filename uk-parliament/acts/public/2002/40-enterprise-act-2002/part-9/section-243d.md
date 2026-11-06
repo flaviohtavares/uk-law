@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243D. Use and further disclosure of information disclosed under sections 243A and 243B[^key-5246e675784f2ba4d9630a686a98e0c8]
+## 243D. Use and further disclosure of information disclosed under sections 243A and 243B[^c-5246e675784f2ba4d9630a686a98e0c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5246e675784f2ba4d9630a686a98e0c8]: Textual amendment: Ss. 243A-243F substituted for s. 243 (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 326(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/326/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(a)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/a) (with [Sch. para. 19](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))
+[^c-5246e675784f2ba4d9630a686a98e0c8]: Textual amendment: Ss. 243A-243F substituted for s. 243 (24.5.2024 for specified purposes, 1.1.2025 in so far as not already in force) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [ss. 326(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/326/2), [339(2)(c)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/c); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(5)(a)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/5/a) (with [Sch. para. 19](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/19), [20](https://www.legislation.gov.uk/uksi/2024/1226/schedule/paragraph/20))

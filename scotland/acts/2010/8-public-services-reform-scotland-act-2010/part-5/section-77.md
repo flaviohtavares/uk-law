@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 77. Regulations: registers and registration[^key-525bdeaa69e6381d3b9d94cc10318461][^key-8b9ab7b444b46f95390e186c3d3d6ca6]
+## 77. Regulations: registers and registration[^c-525bdeaa69e6381d3b9d94cc10318461][^c-8b9ab7b444b46f95390e186c3d3d6ca6]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-525bdeaa69e6381d3b9d94cc10318461]: Commencement: S. 77 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-525bdeaa69e6381d3b9d94cc10318461]: Commencement: S. 77 in force at 1.10.2010 for specified purposes by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
 
-[^key-8b9ab7b444b46f95390e186c3d3d6ca6]: Commencement: S. 77 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)
+[^c-8b9ab7b444b46f95390e186c3d3d6ca6]: Commencement: S. 77 in force at 1.4.2011 in so far as not already in force by [S.S.I. 2011/122](https://www.legislation.gov.uk/ssi/2011/122), [art. 2](https://www.legislation.gov.uk/ssi/2011/122/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/122/schedule)

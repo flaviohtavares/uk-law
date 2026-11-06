@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Appointed day for provisions relating to the dissolution of the CHAI, the CSCI and the MHAC and the functions of the Care Quality Commission[^key-3e559b821d39fe09e5289a13366aca7a]
+## 2. Appointed day for provisions relating to the dissolution of the CHAI, the CSCI and the MHAC and the functions of the Care Quality Commission[^c-3e559b821d39fe09e5289a13366aca7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3e559b821d39fe09e5289a13366aca7a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)
+[^c-3e559b821d39fe09e5289a13366aca7a]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2009/462/article/2) in force at 1.4.2009, see [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2009/462/article/1/1/b)

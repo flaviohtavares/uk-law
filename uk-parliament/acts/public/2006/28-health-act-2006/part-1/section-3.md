@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Smoke-free premises: exemptions[^c16418361][^key-8c13e17a4c0833365775bc1749fe3af8][^key-7343f178fe9052a3429cc77d20df1249]
+## 3. Smoke-free premises: exemptions[^c16418361][^c-8c13e17a4c0833365775bc1749fe3af8][^c-7343f178fe9052a3429cc77d20df1249]
 
 *Extent: E+W*
 
-(1) The Secretary of State[^key-a7d0cab667e5b1a05fe3531811d9ed85] may make regulations providing for specified descriptions of premises in England[^key-f65d02422313eb90f7a32b568f1b5a69], or specified areas within specified descriptions of premises in England, not to be smoke-free despite section 2.
+(1) The Secretary of State[^c-a7d0cab667e5b1a05fe3531811d9ed85] may make regulations providing for specified descriptions of premises in England[^c-f65d02422313eb90f7a32b568f1b5a69], or specified areas within specified descriptions of premises in England, not to be smoke-free despite section 2.
 
 (2) Descriptions of premises which may be specified under subsection (1) include, in particular, any premises where a person has his home, or is living whether permanently or temporarily (including hotels, care homes, and prisons and other places where a person may be detained).
 
@@ -55,10 +55,10 @@ or any combination of those.
 
 [^c16418361]: Commencement: S. 3 in force for certain purposes at Royal Assent, see s. 83
 
-[^key-8c13e17a4c0833365775bc1749fe3af8]: Commencement: S. 3 in force at 2.4.2007 for W. in so far as not already in force by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/204/article/2/a)
+[^c-8c13e17a4c0833365775bc1749fe3af8]: Commencement: S. 3 in force at 2.4.2007 for W. in so far as not already in force by [S.I. 2007/204](https://www.legislation.gov.uk/uksi/2007/204), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/204/article/2/a)
 
-[^key-7343f178fe9052a3429cc77d20df1249]: Commencement: S. 3 in force at 1.7.2007 for E. in so far as not already in force by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/a)
+[^c-7343f178fe9052a3429cc77d20df1249]: Commencement: S. 3 in force at 1.7.2007 for E. in so far as not already in force by [S.I. 2007/1375](https://www.legislation.gov.uk/uksi/2007/1375), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1375/article/2/a)
 
-[^key-a7d0cab667e5b1a05fe3531811d9ed85]: Textual amendment: Words in s. 3(1) substituted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/5/a); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-a7d0cab667e5b1a05fe3531811d9ed85]: Textual amendment: Words in s. 3(1) substituted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/5/a); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
 
-[^key-f65d02422313eb90f7a32b568f1b5a69]: Textual amendment: Words in s. 3(1) inserted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/5/b); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)
+[^c-f65d02422313eb90f7a32b568f1b5a69]: Textual amendment: Words in s. 3(1) inserted (1.3.2021) by [Public Health (Wales) Act 2017 (anaw 2)](https://www.legislation.gov.uk/anaw/2017/2), [s. 126(2)](https://www.legislation.gov.uk/anaw/2017/2/section/126/2), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/anaw/2017/2/schedule/2/paragraph/5/b); [S.I. 2021/202](https://www.legislation.gov.uk/wsi/2021/202), [art. 2](https://www.legislation.gov.uk/wsi/2021/202/article/2)

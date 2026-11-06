@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Mid-year changes to compliance scheme membership[^key-259af3dbe2a3bd7ff1b6a1688ab39463]
+## 46. Mid-year changes to compliance scheme membership[^c-259af3dbe2a3bd7ff1b6a1688ab39463]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-259af3dbe2a3bd7ff1b6a1688ab39463]: Commencement: Reg. 46 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-259af3dbe2a3bd7ff1b6a1688ab39463]: Commencement: Reg. 46 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

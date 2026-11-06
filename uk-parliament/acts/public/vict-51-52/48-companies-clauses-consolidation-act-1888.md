@@ -31,7 +31,7 @@ Companies Clauses Consolidation Act 1888
 
 An Act to amend the Companies Clauses Consolidation Act 1845, in respect to voting by Proxy.
 
-\[24th December 1888\][^c574102][^key-b958e21c080932979604198b999d1d42][^key-8c21197ffd0c56c24121bc5974a9a9d2]
+\[24th December 1888\][^c574102][^c-b958e21c080932979604198b999d1d42][^c-8c21197ffd0c56c24121bc5974a9a9d2]
 
 ## 1. Short title.
 
@@ -77,9 +77,9 @@ In witness whereof the common seal of the said corporation, attested as is requi
 
 [^c574102]: Modification: This Act is not necessarily in the form in which it has effect in Northern Ireland
 
-[^key-b958e21c080932979604198b999d1d42]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/51-52/48) excluded (30.9.2009) by [Mersey Docks and Harbour Revision Order 2009 (S.I. 2009/2604)](https://www.legislation.gov.uk/uksi/2009/2604), [art. 5](https://www.legislation.gov.uk/uksi/2009/2604/article/5)
+[^c-b958e21c080932979604198b999d1d42]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/51-52/48) excluded (30.9.2009) by [Mersey Docks and Harbour Revision Order 2009 (S.I. 2009/2604)](https://www.legislation.gov.uk/uksi/2009/2604), [art. 5](https://www.legislation.gov.uk/uksi/2009/2604/article/5)
 
-[^key-8c21197ffd0c56c24121bc5974a9a9d2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/51-52/48) excluded (30.9.2009) by [Manchester Ship Canal Harbour Revision Order 2009 (S.I. 2009/2579)](https://www.legislation.gov.uk/uksi/2009/2579), [art. 5](https://www.legislation.gov.uk/uksi/2009/2579/article/5)
+[^c-8c21197ffd0c56c24121bc5974a9a9d2]: Modification: [Act](https://www.legislation.gov.uk/ukpga/Vict/51-52/48) excluded (30.9.2009) by [Manchester Ship Canal Harbour Revision Order 2009 (S.I. 2009/2579)](https://www.legislation.gov.uk/uksi/2009/2579), [art. 5](https://www.legislation.gov.uk/uksi/2009/2579/article/5)
 
 [^c574103]: Marginal citation: [1845 c. 16](https://www.legislation.gov.uk/ukpga/1845/16).
 

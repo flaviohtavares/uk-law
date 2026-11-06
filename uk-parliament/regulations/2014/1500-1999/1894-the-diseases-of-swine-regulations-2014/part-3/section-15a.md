@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15A. Use of approved disinfectants: alternative arrangements in England[^key-907228db04e51685c04a0b80a5f6c09c]
+## 15A. Use of approved disinfectants: alternative arrangements in England[^c-907228db04e51685c04a0b80a5f6c09c]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-907228db04e51685c04a0b80a5f6c09c]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/15A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2026/475/article/3/11)
+[^c-907228db04e51685c04a0b80a5f6c09c]: Textual amendment: [Reg. 15A](https://www.legislation.gov.uk/uksi/2014/1894/regulation/15A) inserted (E.W.) (29.4.2026) by [The Exotic Animal Disease (Amendment) (England) Order 2026 (S.I. 2026/475)](https://www.legislation.gov.uk/uksi/2026/475), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/475/article/1/1), [3(11)](https://www.legislation.gov.uk/uksi/2026/475/article/3/11)

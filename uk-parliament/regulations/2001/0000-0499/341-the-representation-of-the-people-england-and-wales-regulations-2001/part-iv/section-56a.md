@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56A. Grounds relating to voter identification[^key-bc8ecaf01598e5bedf579e1fb08e6d0b]
+## 56A. Grounds relating to voter identification[^c-bc8ecaf01598e5bedf579e1fb08e6d0b]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc8ecaf01598e5bedf579e1fb08e6d0b]: Textual amendment: Reg. 56A inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [38(8)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/38/8) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))
+[^c-bc8ecaf01598e5bedf579e1fb08e6d0b]: Textual amendment: Reg. 56A inserted (16.1.2023) by [The Voter Identification Regulations 2022 (S.I. 2022/1382)](https://www.legislation.gov.uk/uksi/2022/1382), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3), [38(8)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/38/8) (with [reg. 1(6)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/6)[(7)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/7))

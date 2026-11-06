@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172A. Long funding leases etc: cases where this Chapter does not apply.[^key-4f0eec14c1c49ea38ec432dd5b72c902]
+## 172A. Long funding leases etc: cases where this Chapter does not apply.[^c-4f0eec14c1c49ea38ec432dd5b72c902]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f0eec14c1c49ea38ec432dd5b72c902]: Textual amendment: S. 172A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 9(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/9/2)
+[^c-4f0eec14c1c49ea38ec432dd5b72c902]: Textual amendment: S. 172A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 9(2)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/9/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Recognised third parties: changes to existing limits etc[^key-89947076cdf7d12c8e2105a0e4f18172][^key-0c4bb4654f97221347e92caa3f1c09e7]
+## 28. Recognised third parties: changes to existing limits etc[^c-89947076cdf7d12c8e2105a0e4f18172][^c-0c4bb4654f97221347e92caa3f1c09e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,6 +102,6 @@ summary: ''
 
 ## Annotations
 
-[^key-89947076cdf7d12c8e2105a0e4f18172]: Commencement: S. 28 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-89947076cdf7d12c8e2105a0e4f18172]: Commencement: S. 28 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-0c4bb4654f97221347e92caa3f1c09e7]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/37/section/28) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)
+[^c-0c4bb4654f97221347e92caa3f1c09e7]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2022/37/section/28) in force at 24.11.2022 by [S.I. 2022/1226](https://www.legislation.gov.uk/uksi/2022/1226), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2022/1226/regulation/2/c)

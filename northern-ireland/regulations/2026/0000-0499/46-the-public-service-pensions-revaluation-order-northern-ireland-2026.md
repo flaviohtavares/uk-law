@@ -40,7 +40,7 @@ Coming into operation in accordance with article 1(2) and (3)
 
 The Department of Finance makes the following Order in exercise of the powers conferred by section 9(2) and (3) of the Public Service Pensions Act (Northern Ireland) 2014[^f00001].
 
-## 1. Citation, commencement and extent[^key-86fb5aefc907b8b24faad3f8e8e51da3][^key-86fb5aefc907b8b24faad3f8e8e51da3]
+## 1. Citation, commencement and extent[^c-86fb5aefc907b8b24faad3f8e8e51da3][^c-86fb5aefc907b8b24faad3f8e8e51da3]
 
 (1) This Order may be cited as the Public Service Pensions Revaluation Order (Northern Ireland) 2026.
 
@@ -51,7 +51,7 @@ The Department of Finance makes the following Order in exercise of the powers co
 - (a) The Local Government Pension Scheme Regulations (Northern Ireland) 2014[^f00002];
 - (b) The Health and Social Care Pension Scheme Regulations (Northern Ireland) 2015[^f00003].
 
-## 2. Revaluation by reference to change in prices or earnings[^key-d5b83f37b9eb839564add9ff50ea782d][^key-08518330691816a5acb6d6044dc62e92][^key-d5b83f37b9eb839564add9ff50ea782d]
+## 2. Revaluation by reference to change in prices or earnings[^c-d5b83f37b9eb839564add9ff50ea782d][^c-08518330691816a5acb6d6044dc62e92][^c-d5b83f37b9eb839564add9ff50ea782d]
 
 For the purposes of section 9(2) of the Public Service Pensions Act (Northern Ireland) 2014 (revaluation), in relation to the period beginning with 1st April 2025 and ending with 31st March 2026—
 
@@ -82,12 +82,12 @@ This Order comes into operation on 1st April 2026 but, for the schemes specified
 
 [^f00001]: Footnote: [2014 c.2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2)
 
-[^key-86fb5aefc907b8b24faad3f8e8e51da3]: Commencement: Art. 1 in operation at 1.4.2026, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/46/article/1/2)
+[^c-86fb5aefc907b8b24faad3f8e8e51da3]: Commencement: Art. 1 in operation at 1.4.2026, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/46/article/1/2)
 
 [^f00002]: Footnote: [S.R. 2014/188](https://www.legislation.gov.uk/nisr/2014/188).
 
 [^f00003]: Footnote: [S.R. 2015/120](https://www.legislation.gov.uk/nisr/2015/120).
 
-[^key-d5b83f37b9eb839564add9ff50ea782d]: Commencement: Art. 2 in operation at 1.4.2026 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/46/article/1/2)
+[^c-d5b83f37b9eb839564add9ff50ea782d]: Commencement: Art. 2 in operation at 1.4.2026 in so far as not already in force, see [art. 1(2)](https://www.legislation.gov.uk/nisr/2026/46/article/1/2)
 
-[^key-08518330691816a5acb6d6044dc62e92]: Commencement: Art. 2 in operation at 6.4.2026 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2026/46/article/1/3)
+[^c-08518330691816a5acb6d6044dc62e92]: Commencement: Art. 2 in operation at 6.4.2026 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/nisr/2026/46/article/1/3)

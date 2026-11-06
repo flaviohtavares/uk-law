@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 835K. Lloyd's agents[^key-22918d7d4fde7294ff6862bbf5be0fcb]
+## 835K. Lloyd's agents[^c-22918d7d4fde7294ff6862bbf5be0fcb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22918d7d4fde7294ff6862bbf5be0fcb]: Textual amendment: S. 835K omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 27](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/27), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-22918d7d4fde7294ff6862bbf5be0fcb]: Textual amendment: S. 835K omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 27](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/27), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

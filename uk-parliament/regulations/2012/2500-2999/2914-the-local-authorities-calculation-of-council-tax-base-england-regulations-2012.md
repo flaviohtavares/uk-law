@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State for Communities and Local Government, in exercise of the powers conferred by sections 31B(1), (3), (4) and (5), 34(4), 42B(1), (3),(4) and (5), 45(3), (4) and (5), 48(3) to (6), 52ZX(5), (7) and (8) and 113(1) and (2) of the Local Government Finance Act 1992[^f00001], makes the following Regulations:
 
-## 1. Citation, commencement, application and interpretation[^key-069961494ac8b546c9ff0bb3d0352d3c]
+## 1. Citation, commencement, application and interpretation[^c-069961494ac8b546c9ff0bb3d0352d3c]
 
 (1) These Regulations may be cited as the Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012 and shall come into force on 30th November 2012.
 
@@ -64,13 +64,13 @@ The Secretary of State for Communities and Local Government, in exercise of the 
 - “**the 1999 Act**” means the Greater London Authority Act 1999[^f00003];
 - “**the authority’s list**” means the copy of the authority’s valuation list deposited by it under section 22(8);
 - “**chargeable dwelling**” means any dwelling in respect of which council tax is payable;
-- “**a relevant percentage**” means a percentage by which the amount of council tax payable in respect of any chargeable dwelling and any day is reduced due to the application of a discount under section 11 or 11A or increased due to the application of a premium under section 11B or 11C[^key-988b296372c3ad77118e47aecbd2fb80], as the case may be of the 1992 Act.
+- “**a relevant percentage**” means a percentage by which the amount of council tax payable in respect of any chargeable dwelling and any day is reduced due to the application of a discount under section 11 or 11A or increased due to the application of a premium under section 11B or 11C[^c-988b296372c3ad77118e47aecbd2fb80], as the case may be of the 1992 Act.
 
-## 2. Application of rules[^key-54e4fd7767bf773e89457d4e2dc1f450]
+## 2. Application of rules[^c-54e4fd7767bf773e89457d4e2dc1f450]
 
 The rules contained in these Regulations are to apply to the making for any financial year beginning on or after 1st April 2013 of the calculations required by item T in sections 31B(1), 42B(1), and 52ZX(5) of the 1992 Act and section 88(2) of the 1999 Act and item TP in sections 34(3), 45(3) and 48(3) and (4) of the 1992 Act and item TP2 in section 89(4) of the 1999 Act.
 
-## 3. Calculation of billing authority’s council tax base[^key-d3349f1eea67f5ffc0dba3814afb16a4]
+## 3. Calculation of billing authority’s council tax base[^c-d3349f1eea67f5ffc0dba3814afb16a4]
 
 (1) Subject to paragraph (4), for the purposes of item T in section 31B(1), a billing authority’s council tax base for a financial year shall be calculated by applying the formula—
 
@@ -96,7 +96,7 @@ where—
 
 (5) For the purposes of paragraph (4), “Class O exempt dwellings” means any dwellings which are exempt dwellings by virtue of belonging to Class O prescribed by the Council Tax (Exempt Dwellings) Order 1992[^f00005].
 
-## 4. Calculation of the relevant amounts for a financial year beginning on or after 1st April 2013[^key-d753ceb10de18e3ac05fa25922c8f2ff]
+## 4. Calculation of the relevant amounts for a financial year beginning on or after 1st April 2013[^c-d753ceb10de18e3ac05fa25922c8f2ff]
 
 (1) For the purposes of regulation 3, the relevant amount for a financial year beginning on or after 1st April 2013 (“the year”) for a valuation band (“the band”) is the amount found by applying the formula—
 
@@ -190,13 +190,13 @@ the authority shall, for the purposes of making any of the estimates referred to
 
 (13) For the purposes of this regulation, the relevant day in respect of financial years beginning on or after 1st April 2013 is 30th November in the financial year preceding that for which the relevant amount is calculated.
 
-## 5. Band A dwellings: reductions for disability[^key-608545ae5c624672428fa9d977661518]
+## 5. Band A dwellings: reductions for disability[^c-608545ae5c624672428fa9d977661518]
 
 (1) For the purposes of regulations 3 and 4, dwellings listed in band A in respect of which a reduced amount of council tax is payable pursuant to the Council Tax (Reductions for Disabilities) Regulations 1992[^f00006] shall be treated as if they were listed in a band additional to those set out in section 5.
 
 (2) In respect of the additional band, F in regulation 4(1) shall be 5.
 
-## 6. Calculation of billing authority’s council tax base for a part of its area[^key-7b94f2d64c2f5d730ca2e638deabeeb8]
+## 6. Calculation of billing authority’s council tax base for a part of its area[^c-7b94f2d64c2f5d730ca2e638deabeeb8]
 
 (1) For the purposes of item TP in section 34(3) and item T in section 52ZX(5), a billing authority’s council tax base for a part of its area for any financial year (“the year”) shall be calculated by applying the formula—
 
@@ -216,17 +216,17 @@ where—
   - (i) where the authority determines the amount for item TP in section 34(3) and item T in section 52ZX(5) in the period beginning on 1st December and ending on 31st January in the preceding financial year, 30th November in the preceding financial year; and
   - (ii) in any other case, the day on which the authority calculates the relevant amount for the year for the purposes of item TP in section 34(3) and item T in section 52ZX(5).
 
-## 7. Calculation of council tax base for the purposes of a major precepting authority[^key-51dc487052c1437893f9d21e3fa702ef]
+## 7. Calculation of council tax base for the purposes of a major precepting authority[^c-51dc487052c1437893f9d21e3fa702ef]
 
 (1) For the purposes of item T in section 42B(1) of the 1992 Act and section 88(2) of the 1999 Act and item TP in section 45(3) of the 1992 Act and item TP2 in section 89(4) of the 1999 Act, the council tax base for a billing authority’s area for any financial year shall be calculated in accordance with the rules contained in regulations 3 and 4 and, for these purposes, item B in regulation 3 and items H, Q, E, J and Z in regulation 4, and any amount added in accordance with regulation 3(4), are the amounts determined for those items or so added for the purposes of the calculation required by item T in section 31B(1).
 
 (2) For the purposes of item T in section 42B(1) and item TP in sections 45(3) and 48(3) and (4), the council tax base for a part of a billing authority’s area for any financial year shall be calculated in accordance with the rules contained in regulation 6 and, for these purposes, where the council tax base for that year for that part of the billing authority’s area has been calculated for the purposes of item TP in section 34(3), items H, Q, E, J and Z in regulation 4, and any amount added in accordance with regulation 3(4), are the amounts determined for those items or so added for the purposes of the calculation required by item TP in that subsection.
 
-## 8. Prescribed period[^key-4f8fe36fa1989b841f87193923ab2659]
+## 8. Prescribed period[^c-4f8fe36fa1989b841f87193923ab2659]
 
 The period beginning on 1st December and ending on 31st January in the financial year preceding that for which the calculation of the council tax base is made is prescribed for the purposes of item T in sections 31B(1), 42B(1), and 52ZX(5) of the 1992 Act and section 88(2) of the 1999 Act and item TP in sections 45(3) and 48(3) and (4) of the 1992 Act and item TP2 in section 89(4) of the 1999 Act.
 
-## 9. Determination of billing authority’s council tax base[^key-af225c515a80317c1fa4cb5f47706c0f]
+## 9. Determination of billing authority’s council tax base[^c-af225c515a80317c1fa4cb5f47706c0f]
 
 (1) Item T in section 31B(1) shall, in any case where a billing authority fails to notify its calculation for a financial year to each of the major precepting authorities concerned within the period prescribed in regulation 8, be determined by those authorities in the following manner.
 
@@ -243,7 +243,7 @@ The period beginning on 1st December and ending on 31st January in the financial
 
 (6) In this regulation, “the major precepting authorities concerned” are any major precepting authorities which have power to issue precepts to the billing authority.
 
-## 10. Determination of council tax base for the purposes of a major precepting authority[^key-e67f58aa8577975cde87db51f8123ee4]
+## 10. Determination of council tax base for the purposes of a major precepting authority[^c-e67f58aa8577975cde87db51f8123ee4]
 
 (1) Item T in section 42B(1) of the 1992 Act and section 88(2) of the 1999 Act or, as the case may be, item TP in section 45(3) or 48(3) or (4) of the 1992 Act or item TP2 in section 89(4) of the 1999 Act shall, in any case where one or more of the billing authorities concerned fails to notify any calculation required by those items for a financial year to a major precepting authority within the period prescribed in regulation 8, be determined by the major precepting authority in the following manner.
 
@@ -257,7 +257,7 @@ The period beginning on 1st December and ending on 31st January in the financial
 
 (6) In this regulation, “the billing authorities concerned” are any billing authorities to which the major precepting authority issues precepts for the financial year in question.
 
-## 11. Determination of council tax base for the purposes of a local precepting authority[^key-c9f7b51c4e6517f9fd2298fc12cccb76]
+## 11. Determination of council tax base for the purposes of a local precepting authority[^c-c9f7b51c4e6517f9fd2298fc12cccb76]
 
 (1) Item T in section 52ZX(5) shall, in a case where a billing authority fails to notify its calculation for a financial year to the local precepting authority concerned within the period prescribed in regulation 8, be determined by the local precepting authority in the following manner.
 
@@ -268,7 +268,7 @@ The period beginning on 1st December and ending on 31st January in the financial
 - (a) as item TP in section 34(3) for the part of its area falling within the local precepting authority’s area, or
 - (b) as item T in section 52ZX(5).
 
-## 12. Consequential amendments[^key-b276d4587e74e34381c640db9814d35c]
+## 12. Consequential amendments[^c-b276d4587e74e34381c640db9814d35c]
 
 (1) In each of the following provisions for “the Local Authorities (Calculation of Council Tax Base) Regulations 1992” substitute “the Local Authorities (Calculation of Council Tax Base) (England) Regulations 2012”—
 
@@ -296,7 +296,7 @@ The period beginning on 1st December and ending on 31st January in the financial
 - (a) in regulation 7(1) for “the 1992 Regulations” substitute “the 2012 Regulations”; and
 - (b) in regulation 7(2) for the definition of “the 1992 Regulations” substitute ““the 2012 Regulations” means the Local Authorities (Calculation of Council Tax Base) (Amendment) Regulations 1992”.
 
-## 13. Revocation of Regulations[^key-d4cac22723e34870090e40d85907f194]
+## 13. Revocation of Regulations[^c-d4cac22723e34870090e40d85907f194]
 
 The Regulations in the Schedule are revoked in relation to a financial year beginning on or after 1st April 2013.
 
@@ -310,7 +310,7 @@ Department for Communities and Local Government
 
 20th November 2012
 
-## SCHEDULE — Revocations[^key-5f95e35a609ebded02d920906ddd990e]
+## SCHEDULE — Revocations[^c-5f95e35a609ebded02d920906ddd990e]
 
 Regulation 13
 
@@ -346,41 +346,41 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). See section 116(1) for the definition of “prescribed”. Section 11A was inserted by the Local Government Act 2003, section 75(1). Relevant amendments to section 11A were made by the Local Government Finance Act [2012 (c.17)](https://www.legislation.gov.uk/ukpga/2012/17), section 11. Section 11B (Higher amount for long-term empty dwellings: England) was inserted by the Local Government Finance Act 2012, section 12. Section 13A as originally enacted was inserted by the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), section 76 and substituted by the Local Government Finance Act 2012, section 10. Relevant amendments were made by the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), sections 72(1), 74, 79 and Schedules 5 and 7. Subsection (5) was inserted into section 34 of the 1992 Act by the Local Government Finance Act 2012, section 15.
 
-[^key-069961494ac8b546c9ff0bb3d0352d3c]: Commencement: Reg. 1 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-069961494ac8b546c9ff0bb3d0352d3c]: Commencement: Reg. 1 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
 [^f00002]: Footnote: [1988 c.41](https://www.legislation.gov.uk/ukpga/1988/41).
 
 [^f00003]: Footnote: [1999 c.29](https://www.legislation.gov.uk/ukpga/1999/29).
 
-[^key-988b296372c3ad77118e47aecbd2fb80]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/4) inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2024/1007/regulation/5)
+[^c-988b296372c3ad77118e47aecbd2fb80]: Textual amendment: Words in [reg. 1(4)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/4) inserted (1.11.2024) by [The Council Tax (Prescribed Classes of Dwellings and Consequential Amendments) (England) Regulations 2024 (S.I. 2024/1007)](https://www.legislation.gov.uk/uksi/2024/1007), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1007/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2024/1007/regulation/5)
 
-[^key-54e4fd7767bf773e89457d4e2dc1f450]: Commencement: Reg. 2 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-54e4fd7767bf773e89457d4e2dc1f450]: Commencement: Reg. 2 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
-[^key-d3349f1eea67f5ffc0dba3814afb16a4]: Commencement: Reg. 3 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-d3349f1eea67f5ffc0dba3814afb16a4]: Commencement: Reg. 3 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
 [^f00004]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5)
 
 [^f00005]: Footnote: [S.I. 1992/558](https://www.legislation.gov.uk/uksi/1992/558); relevant amendments were made by [S.I. 1992/2941](https://www.legislation.gov.uk/uksi/1992/2941).
 
-[^key-d753ceb10de18e3ac05fa25922c8f2ff]: Commencement: Reg. 4 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-d753ceb10de18e3ac05fa25922c8f2ff]: Commencement: Reg. 4 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
-[^key-608545ae5c624672428fa9d977661518]: Commencement: Reg. 5 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-608545ae5c624672428fa9d977661518]: Commencement: Reg. 5 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
 [^f00006]: Footnote: [S.I. 1992/554](https://www.legislation.gov.uk/uksi/1992/554) amended by [S.I. 1993/95](https://www.legislation.gov.uk/uksi/1993/95), [S.I. 1999/1004](https://www.legislation.gov.uk/uksi/1999/1004) and [S.I. 2005/702](https://www.legislation.gov.uk/uksi/2005/702).
 
-[^key-7b94f2d64c2f5d730ca2e638deabeeb8]: Commencement: Reg. 6 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-7b94f2d64c2f5d730ca2e638deabeeb8]: Commencement: Reg. 6 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
-[^key-51dc487052c1437893f9d21e3fa702ef]: Commencement: Reg. 7 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-51dc487052c1437893f9d21e3fa702ef]: Commencement: Reg. 7 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
-[^key-4f8fe36fa1989b841f87193923ab2659]: Commencement: Reg. 8 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-4f8fe36fa1989b841f87193923ab2659]: Commencement: Reg. 8 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
-[^key-af225c515a80317c1fa4cb5f47706c0f]: Commencement: Reg. 9 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-af225c515a80317c1fa4cb5f47706c0f]: Commencement: Reg. 9 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
-[^key-e67f58aa8577975cde87db51f8123ee4]: Commencement: Reg. 10 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-e67f58aa8577975cde87db51f8123ee4]: Commencement: Reg. 10 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
-[^key-c9f7b51c4e6517f9fd2298fc12cccb76]: Commencement: Reg. 11 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-c9f7b51c4e6517f9fd2298fc12cccb76]: Commencement: Reg. 11 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
-[^key-b276d4587e74e34381c640db9814d35c]: Commencement: Reg. 12 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-b276d4587e74e34381c640db9814d35c]: Commencement: Reg. 12 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
 [^f00007]: Footnote: [S.I. 1992/2789](https://www.legislation.gov.uk/uksi/1992/2789)
 
@@ -398,6 +398,6 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00014]: Footnote: [S.I. 2011/696](https://www.legislation.gov.uk/uksi/2011/696)
 
-[^key-d4cac22723e34870090e40d85907f194]: Commencement: Reg. 13 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-d4cac22723e34870090e40d85907f194]: Commencement: Reg. 13 in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
 
-[^key-5f95e35a609ebded02d920906ddd990e]: Commencement: Sch. in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)
+[^c-5f95e35a609ebded02d920906ddd990e]: Commencement: Sch. in force at 30.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2914/regulation/1/1)

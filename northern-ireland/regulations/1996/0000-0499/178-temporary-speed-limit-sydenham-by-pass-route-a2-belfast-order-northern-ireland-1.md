@@ -44,11 +44,11 @@ AND WHEREAS the Department has published notice of its intention in compliance w
 
 NOW THEREFORE the Department, in exercise of the powers conferred on it by Article 51(1) of the Road Traffic (Northern Ireland) Order 1981 and of every other power enabling it in that behalf, makes the following Order:
 
-## 1. Citation and commencement[^key-954498b62617d38d8ca96b445bfd6731]
+## 1. Citation and commencement[^c-954498b62617d38d8ca96b445bfd6731]
 
 This Order may be cited as the Temporary Speed Limit (Sydenham By-Pass, Route A2, Belfast) Order (Northern Ireland) 1996 and shall come into operation on 10th June 1996.
 
-## 2. Application and duration of speed limit[^key-05e8ea2e56998db5f6dc6637785568b5]
+## 2. Application and duration of speed limit[^c-05e8ea2e56998db5f6dc6637785568b5]
 
 (1) The driving of motor vehicles at a speed greater than 30 miles per hour on the eastbound carriageway of Sydenham By-Pass, Route A2, Belfast, from its junction with Middlepath Street, to its junction with Dee Street, is prohibited for a period of 4 months from 9th June 1996.
 
@@ -74,6 +74,6 @@ Traffic signs indicating the effect of the Order will in due course be erected o
 
 [^f00001]: Footnote: S.I. [1981/154 (N.I. 1)](https://www.legislation.gov.uk/nisi/1981/154); *see* Article 2(2) for the definition of “Department”
 
-[^key-954498b62617d38d8ca96b445bfd6731]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1996/178/article/1) in operation at 10.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/178/article/1)
+[^c-954498b62617d38d8ca96b445bfd6731]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/1996/178/article/1) in operation at 10.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/178/article/1)
 
-[^key-05e8ea2e56998db5f6dc6637785568b5]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1996/178/article/2) in operation at 10.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/178/article/1)
+[^c-05e8ea2e56998db5f6dc6637785568b5]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/1996/178/article/2) in operation at 10.6.1996, see [art. 1](https://www.legislation.gov.uk/nisr/1996/178/article/1)

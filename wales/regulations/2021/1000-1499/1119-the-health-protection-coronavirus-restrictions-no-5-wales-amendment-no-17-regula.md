@@ -47,13 +47,13 @@ These Regulations are made in response to the serious and imminent threat to pub
 
 The Welsh Ministers consider that restrictions and requirements imposed by these Regulations are proportionate to what they seek to achieve, which is a public health response to that threat.
 
-## 1. Title and coming into force[^key-958fe025de686d001c6ec816db7cec42]
+## 1. Title and coming into force[^c-958fe025de686d001c6ec816db7cec42]
 
 (1) The title of these Regulations is the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 17) Regulations 2021.
 
 (2) These Regulations come into force at 7.00 a.m. on 11 October 2021.
 
-## 2. Amendment to the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^key-b18877f9b39640f3ab198efff474fca1]
+## 2. Amendment to the Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020[^c-b18877f9b39640f3ab198efff474fca1]
 
 (1) The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) Regulations 2020 [^c24591151] are amended as follows.
 
@@ -100,52 +100,52 @@ The Welsh Ministers consider that restrictions and requirements imposed by these
 >
 > (5) For the purposes of paragraph (2)(b) to (d), a person working, or providing voluntary services at the event, is not to be treated as being in attendance at the event.
 >
-> (5A)[^key-7c029ef4c18717d174f63052353eb430] For the purposes of paragraph (2)(c), a person participating in a religious service in premises ordinarily used as a place of worship is to be treated as being normally seated.
+> (5A)[^c-7c029ef4c18717d174f63052353eb430] For the purposes of paragraph (2)(c), a person participating in a religious service in premises ordinarily used as a place of worship is to be treated as being normally seated.
 >
 > (6) For the purposes of paragraph (1)(a), the evidence that a person has completed a course of doses of an authorised vaccine must—
 >
 > - (a) show that—
 >   - (i) the course of doses was administered to the person in the United Kingdom, under the United Kingdom vaccine roll-out overseas, or in a relevant country, and
 >   - (ii) the day on which the person enters the premises is more than 14 days after the day on which the person completed that course of doses;
-> - (b) in relation to a[^key-3dedac7b02ad6746f13cde8e980cfce3] course of doses of vaccines administered in the United Kingdom, be provided to the person by or on behalf of the Government of the United Kingdom, the Scottish Ministers, the Welsh Ministers or a Northern Ireland department (including by means of letter, text message, e-mail, the NHS COVID Pass website [^c24591181] or the NHS smartphone app developed and operated by the Secretary of State);
-> - (c) in relation to a course of doses of vaccines administered by a relevant country, be the EU digital COVID certificate , the[^key-930647cbd088faa60d98ff57c1e6b11d] Centers for Disease Control and Prevention vaccination card , or a vaccine certificate relating to the person[^key-f01530b0ab384046a33749132c6dec6c].
+> - (b) in relation to a[^c-3dedac7b02ad6746f13cde8e980cfce3] course of doses of vaccines administered in the United Kingdom, be provided to the person by or on behalf of the Government of the United Kingdom, the Scottish Ministers, the Welsh Ministers or a Northern Ireland department (including by means of letter, text message, e-mail, the NHS COVID Pass website [^c24591181] or the NHS smartphone app developed and operated by the Secretary of State);
+> - (c) in relation to a course of doses of vaccines administered by a relevant country, be the EU digital COVID certificate , the[^c-930647cbd088faa60d98ff57c1e6b11d] Centers for Disease Control and Prevention vaccination card , or a vaccine certificate relating to the person[^c-f01530b0ab384046a33749132c6dec6c].
 >
 > (7) For the purposes of paragraph (1)(d), where a person has isolated for a period of less than 10 days calculated in accordance with regulation 6(5) or 7(5), the reference to “10 days” is to be treated as a reference to the number of days for which the person was required to isolate.
 >
-> (8) For the purposes of paragraph (6)(a), where a person has received a dose of an authorised vaccine in the United Kingdom and a dose of a vaccine under the United Kingdom vaccine roll-out overseas, the doses are deemed to be administered[^key-7ff85ab256864902df97e6300cbb90a6] under the United Kingdom vaccine roll-out overseas.
+> (8) For the purposes of paragraph (6)(a), where a person has received a dose of an authorised vaccine in the United Kingdom and a dose of a vaccine under the United Kingdom vaccine roll-out overseas, the doses are deemed to be administered[^c-7ff85ab256864902df97e6300cbb90a6] under the United Kingdom vaccine roll-out overseas.
 >
 > (9) For the purposes of this regulation—
 >
 > - (a) a test is a qualifying test if it is capable of detecting the presence of coronavirus, and is—
 >   - (i) a polymerase chain reaction test provided or administered under the National Health Service Act 2006 [^c24591191], the National Health Service (Wales) Act 2006 [^c24591201], the National Health Service (Scotland) Act 1978 [^c24591211], or the Health and Personal Social Services (Northern Ireland) Order 1972 [^c24591221], or
 >   - (ii) a lateral flow test, the results of which may be submitted through the NHS public reporting system [^c24591231].
-> - (b) in relation to a course of doses administered in the United Kingdom or a relevant country,[^key-790eb306ee381d467369afbe5325a7be] a person has completed the[^key-f2a26a5b87580928269564f6b116c80b] course of doses if—
->   - (i)[^key-00f0625360c1a1fc28c356e003c86dad] the person has received the complete course of doses specified—
->     - (aa)[^key-61460bba33897305083cb692f98bd01f] in the summary of product characteristics approved as part of the marketing authorisation for the authorised vaccine, or
->     - (bb)[^key-9fa2f180a1cf5a81c0da811df8b008d0] in the instructions for usage approved as part of the authorisation by the licensing authority on a temporary basis under regulation 174 of the Human Medicines Regulations 2012 [^c24591241] for the authorised vaccine , or[^key-20a7c8627ca2c101356953d14b9d864f]
->   - (ii)[^key-d31ff95c516b6d2ee00ef649bb0d83a3] the person has received a dose of one authorised vaccine and a dose of a different authorised vaccine;
-> - (c)[^key-50203d748c86d427efd149203fc5bbcd] in relation to a course of doses administered under the United Kingdom vaccine roll-out overseas, a person has completed the course of doses if—
+> - (b) in relation to a course of doses administered in the United Kingdom or a relevant country,[^c-790eb306ee381d467369afbe5325a7be] a person has completed the[^c-f2a26a5b87580928269564f6b116c80b] course of doses if—
+>   - (i)[^c-00f0625360c1a1fc28c356e003c86dad] the person has received the complete course of doses specified—
+>     - (aa)[^c-61460bba33897305083cb692f98bd01f] in the summary of product characteristics approved as part of the marketing authorisation for the authorised vaccine, or
+>     - (bb)[^c-9fa2f180a1cf5a81c0da811df8b008d0] in the instructions for usage approved as part of the authorisation by the licensing authority on a temporary basis under regulation 174 of the Human Medicines Regulations 2012 [^c24591241] for the authorised vaccine , or[^c-20a7c8627ca2c101356953d14b9d864f]
+>   - (ii)[^c-d31ff95c516b6d2ee00ef649bb0d83a3] the person has received a dose of one authorised vaccine and a dose of a different authorised vaccine;
+> - (c)[^c-50203d748c86d427efd149203fc5bbcd] in relation to a course of doses administered under the United Kingdom vaccine roll-out overseas, a person has completed the course of doses if—
 >   - (i) the person has received the complete course of doses of the vaccine as specified in the manufacturer’s guidance for that vaccine, or
 >   - (ii) the person has received a dose of one vaccine and a dose of a different vaccine.
 >
 > (10) In this regulation—
 >
 > - (a) “**authorised vaccine**” means a medicinal product for vaccination against coronavirus authorised—
->   - (i) in relation to doses received in the United Kingdom or in a relevant country listed in paragraph (12)[^key-983fa6e73d66310aada8bad3b09ba512] —
+>   - (i) in relation to doses received in the United Kingdom or in a relevant country listed in paragraph (12)[^c-983fa6e73d66310aada8bad3b09ba512] —
 >     - (aa) for supply in the United Kingdom in accordance with a marketing authorisation, or
 >     - (bb) by the licensing authority on a temporary basis under regulation 174 of the Human Medicines Regulations 2012;
->   - (ii) in relation to doses received in a relevant country listed in the first column of the table in paragraph (11)[^key-0be5609e6fee05d601568275a8ce68b5], for supply in that country following evaluation by the relevant regulator for the country;
+>   - (ii) in relation to doses received in a relevant country listed in the first column of the table in paragraph (11)[^c-0be5609e6fee05d601568275a8ce68b5], for supply in that country following evaluation by the relevant regulator for the country;
 > - (b) “**the licensing authority**” has the meaning given in regulation 6(2) of the Human Medicines Regulations 2012;
 > - (c) “**marketing authorisation**” means—
 >   - (i) in relation to a vaccine authorised for supply in the United Kingdom or in a member State, has the meaning given in regulation 8(1) of the Human Medicines Regulations 2012;
->   - (ii) in relation to a vaccine authorised for supply in a relevant country listed in the first column of the table in paragraph (11)[^key-eeb3a252430a849e140a224651c00780] other than a member State, means a marketing authorisation granted by the relevant regulator for the country;
-> - (d) “**relevant country**” means a country listed in the first column of the table in paragraph (11) or a country or territory listed in paragraph (12)[^key-bcfb2edccc908f8044c703c1c0e3a86b];
+>   - (ii) in relation to a vaccine authorised for supply in a relevant country listed in the first column of the table in paragraph (11)[^c-eeb3a252430a849e140a224651c00780] other than a member State, means a marketing authorisation granted by the relevant regulator for the country;
+> - (d) “**relevant country**” means a country listed in the first column of the table in paragraph (11) or a country or territory listed in paragraph (12)[^c-bcfb2edccc908f8044c703c1c0e3a86b];
 > - (e) “**relevant regulator**” in relation to a relevant country, means the regulator identified in the corresponding row of the second column of the table in paragraph (11), and a reference to a regulator in that table is a reference to the regulatory authority of that name designated as a Stringent Regulatory Authority by the World Health Organization pursuant to the operation of the COVAX Facility [^c24591251];
 > - (f) “**United Kingdom vaccine roll-out overseas**” means the administration of vaccine against coronavirus to—
 >   - (i) Crown servants (within the meaning given in section 12(1)(a) to (e) of the Official Secrets Act 1989 [^c24591261]), government contractors (within the meaning given in section 12(2) of the Official Secrets Act 1989) or other personnel posted or based overseas and their dependants under the scheme known as the Foreign, Commonwealth and Development Office staff COVID-19 vaccination programme,
 >   - (ii) residents of the British overseas territories, the Channel Islands and the Isle of Man, as part of a programme agreed in the overseas territory with the United Kingdom government, or
 >   - (iii) military or civilian personnel, government contractors and their dependants at a military posting overseas, including the British overseas territories, the Channel Islands and the Isle of Man, under the vaccination scheme provided or approved by the UK Defence Medical Services.
-> - (g)[^key-5226a871c1cfdbad4b95127f9090b430] “vaccine certificate” means a certificate in English, French or Spanish issued by the competent health authority of Australia, Canada or a relevant country listed in paragraph (12) which contains—
+> - (g)[^c-5226a871c1cfdbad4b95127f9090b430] “vaccine certificate” means a certificate in English, French or Spanish issued by the competent health authority of Australia, Canada or a relevant country listed in paragraph (12) which contains—
 >   - (i) the person’s full name;
 >   - (ii) the person’s date of birth;
 >   - (iii) the name and manufacturer of the vaccine that the person has received;
@@ -158,8 +158,8 @@ The Welsh Ministers consider that restrictions and requirements imposed by these
 > | --- | --- |
 > | a member State | European Medicines Agency |
 > | Andorra | European Medicines Agency |
-> | Australia[^key-08a9f07b55aca537cb8606ddf4081fa8] | The Therapeutic Goods Administration |
-> | Canada[^key-52a4a4b52ba69e9ceb843a0aefc032cd] | Health Canada |
+> | Australia[^c-08a9f07b55aca537cb8606ddf4081fa8] | The Therapeutic Goods Administration |
+> | Canada[^c-52a4a4b52ba69e9ceb843a0aefc032cd] | Health Canada |
 > | Iceland | European Medicines Agency |
 > | Liechtenstein | European Medicines Agency |
 > | Monaco | European Medicines Agency |
@@ -169,7 +169,7 @@ The Welsh Ministers consider that restrictions and requirements imposed by these
 > | the United States of America | United States Food and Drug Administration |
 > | Vatican City State | European Medicines Agency |
 >
-> (12)[^key-522b78c90e448c0bdd27ecceec0db585] The countries and territories referred to in the definition of “relevant country” are—
+> (12)[^c-522b78c90e448c0bdd27ecceec0db585] The countries and territories referred to in the definition of “relevant country” are—
 >
 > - Albania
 > - Antigua and Barbuda
@@ -292,9 +292,9 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24591141]: Marginal citation: [Section 45Q](https://www.legislation.gov.uk/wsi/2021/1119/section/45Q) was inserted by section 129 of the Health and Social Care Act 2008.
 
-[^key-958fe025de686d001c6ec816db7cec42]: Commencement: Reg. 1 in force at 11.10.2021 at 7.00 a.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1119/regulation/1/2)
+[^c-958fe025de686d001c6ec816db7cec42]: Commencement: Reg. 1 in force at 11.10.2021 at 7.00 a.m., see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2021/1119/regulation/1/2)
 
-[^key-b18877f9b39640f3ab198efff474fca1]: Commencement: Reg. 2 in force at 11.10.2021 at 7.00 a.m., see reg. 1(2)
+[^c-b18877f9b39640f3ab198efff474fca1]: Commencement: Reg. 2 in force at 11.10.2021 at 7.00 a.m., see reg. 1(2)
 
 [^c24591151]: Marginal citation: [S.I. 2020/1609](https://www.legislation.gov.uk/uksi/2020/1609) (W. 335) as amended by [S.I. 2020/1610](https://www.legislation.gov.uk/uksi/2020/1610) (W. 336), [S.I. 2020/1623](https://www.legislation.gov.uk/uksi/2020/1623) (W. 340), [S.I. 2020/1645](https://www.legislation.gov.uk/uksi/2020/1645) (W. 345), [S.I. 2021/20](https://www.legislation.gov.uk/uksi/2021/20) (W. 7), [S.I. 2021/46](https://www.legislation.gov.uk/uksi/2021/46) (W. 10), [S.I. 2021/57](https://www.legislation.gov.uk/uksi/2021/57) (W. 13), [S.I. 2021/66](https://www.legislation.gov.uk/uksi/2021/66) (W. 15), [S.I. 2021/95](https://www.legislation.gov.uk/uksi/2021/95) (W. 26), [S.I. 2021/103](https://www.legislation.gov.uk/uksi/2021/103) (W. 28), [S.I. 2021/172](https://www.legislation.gov.uk/uksi/2021/172) (W. 40), [S.I. 2021/210](https://www.legislation.gov.uk/uksi/2021/210) (W. 52), [S.I. 2021/307](https://www.legislation.gov.uk/uksi/2021/307) (W. 79), [S.I. 2021/413](https://www.legislation.gov.uk/uksi/2021/413) (W. 133), [S.I. 2021/502](https://www.legislation.gov.uk/uksi/2021/502) (W. 150), [S.I. 2021/542](https://www.legislation.gov.uk/uksi/2021/542) (W. 154), [S.I. 2021/583](https://www.legislation.gov.uk/uksi/2021/583) (W. 160), [S.I. 2021/668](https://www.legislation.gov.uk/uksi/2021/668) (W. 169), [S.I. 2021/686](https://www.legislation.gov.uk/uksi/2021/686) (W. 172), [S.I. 2021/722](https://www.legislation.gov.uk/uksi/2021/722) (W. 183), [S.I. 2021/862](https://www.legislation.gov.uk/uksi/2021/862) (W. 201), [S.I. 2021/925](https://www.legislation.gov.uk/uksi/2021/925) (W. 210) and [S.I. 2021/970](https://www.legislation.gov.uk/uksi/2021/970) (W. 228).
 
@@ -302,17 +302,17 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24591171]: Marginal citation: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-7c029ef4c18717d174f63052353eb430]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/2)
+[^c-7c029ef4c18717d174f63052353eb430]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/2)
 
-[^key-3dedac7b02ad6746f13cde8e980cfce3]: Textual amendment: Word in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/3/a)
+[^c-3dedac7b02ad6746f13cde8e980cfce3]: Textual amendment: Word in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/3/a)
 
 [^c24591181]: Marginal citation: Available at https://covid-status.service.nhsx.nhs.uk
 
-[^key-930647cbd088faa60d98ff57c1e6b11d]: Textual amendment: Word in reg. 2(2) substituted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/3/b/i)
+[^c-930647cbd088faa60d98ff57c1e6b11d]: Textual amendment: Word in reg. 2(2) substituted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/3/b/i)
 
-[^key-f01530b0ab384046a33749132c6dec6c]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/3/b/ii)
+[^c-f01530b0ab384046a33749132c6dec6c]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/3/b/ii)
 
-[^key-7ff85ab256864902df97e6300cbb90a6]: Textual amendment: Words in reg. 2(2) substituted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/4)
+[^c-7ff85ab256864902df97e6300cbb90a6]: Textual amendment: Words in reg. 2(2) substituted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/4)
 
 [^c24591191]: Marginal citation: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -324,31 +324,31 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24591231]: Marginal citation: Available at https://www.gov.uk/report-covid19-result
 
-[^key-790eb306ee381d467369afbe5325a7be]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/i)
+[^c-790eb306ee381d467369afbe5325a7be]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/i)
 
-[^key-f2a26a5b87580928269564f6b116c80b]: Textual amendment: Word in reg. 2(2) substituted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/ii)
+[^c-f2a26a5b87580928269564f6b116c80b]: Textual amendment: Word in reg. 2(2) substituted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/ii)
 
-[^key-00f0625360c1a1fc28c356e003c86dad]: Textual amendment: Word in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/iii)
+[^c-00f0625360c1a1fc28c356e003c86dad]: Textual amendment: Word in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(iii)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/iii)
 
-[^key-61460bba33897305083cb692f98bd01f]: Textual amendment: Word in reg. 2(2) substituted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/iv)
+[^c-61460bba33897305083cb692f98bd01f]: Textual amendment: Word in reg. 2(2) substituted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/iv)
 
-[^key-9fa2f180a1cf5a81c0da811df8b008d0]: Textual amendment: Word in reg. 2(2) substituted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(v)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/v)
+[^c-9fa2f180a1cf5a81c0da811df8b008d0]: Textual amendment: Word in reg. 2(2) substituted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(v)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/v)
 
 [^c24591241]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916).
 
-[^key-20a7c8627ca2c101356953d14b9d864f]: Textual amendment: Word in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(vi)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/vi)
+[^c-20a7c8627ca2c101356953d14b9d864f]: Textual amendment: Word in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(vi)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/vi)
 
-[^key-d31ff95c516b6d2ee00ef649bb0d83a3]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(vii)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/vii)
+[^c-d31ff95c516b6d2ee00ef649bb0d83a3]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(a)(vii)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/a/vii)
 
-[^key-50203d748c86d427efd149203fc5bbcd]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/b)
+[^c-50203d748c86d427efd149203fc5bbcd]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(5)(b)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/5/b)
 
-[^key-983fa6e73d66310aada8bad3b09ba512]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(6)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/6/a/i)
+[^c-983fa6e73d66310aada8bad3b09ba512]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(6)(a)(i)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/6/a/i)
 
-[^key-0be5609e6fee05d601568275a8ce68b5]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/6/a/ii)
+[^c-0be5609e6fee05d601568275a8ce68b5]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(6)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/6/a/ii)
 
-[^key-eeb3a252430a849e140a224651c00780]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/6/b)
+[^c-eeb3a252430a849e140a224651c00780]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/6/b)
 
-[^key-bcfb2edccc908f8044c703c1c0e3a86b]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/6/c)
+[^c-bcfb2edccc908f8044c703c1c0e3a86b]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/6/c)
 
 [^c24591251]: Marginal citation: A list of the national regulatory authorities designated as Stringent Regulatory Authorities has been published by the World Health Organization and is available online at
 
@@ -356,10 +356,10 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c24591261]: Marginal citation: [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6).
 
-[^key-5226a871c1cfdbad4b95127f9090b430]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(6)(d)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/6/d)
+[^c-5226a871c1cfdbad4b95127f9090b430]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(6)(d)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/6/d)
 
-[^key-08a9f07b55aca537cb8606ddf4081fa8]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(7)(a)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/7/a)
+[^c-08a9f07b55aca537cb8606ddf4081fa8]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(7)(a)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/7/a)
 
-[^key-52a4a4b52ba69e9ceb843a0aefc032cd]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/7/b)
+[^c-52a4a4b52ba69e9ceb843a0aefc032cd]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(7)(b)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/7/b)
 
-[^key-522b78c90e448c0bdd27ecceec0db585]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/8)
+[^c-522b78c90e448c0bdd27ecceec0db585]: Textual amendment: Words in reg. 2(2) inserted (9.10.2021) by [The Health Protection (Coronavirus Restrictions) (No. 5) (Wales) (Amendment) (No. 18) Regulations 2021 (S.I. 2021/1131)](https://www.legislation.gov.uk/uksi/2021/1131), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2021/1131/regulation/3/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Tobacco vending machines[^key-4d9e8771749504c96a7474fe72823c66]
+## 74. Tobacco vending machines[^c-4d9e8771749504c96a7474fe72823c66]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ After Article 4A of the Health and Personal Social Services (Northern Ireland) O
 
 ## Annotations
 
-[^key-4d9e8771749504c96a7474fe72823c66]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2026/18/section/74) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-4d9e8771749504c96a7474fe72823c66]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2026/18/section/74) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

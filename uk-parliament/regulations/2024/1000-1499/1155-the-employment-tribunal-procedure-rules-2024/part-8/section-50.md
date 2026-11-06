@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 50. End of claim[^key-4cab4cac276c17cda8fdc46449e02dc6]
+## 50. End of claim[^c-4cab4cac276c17cda8fdc46449e02dc6]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a party advancing a claim informs the Tribunal, either in writing or in th
 
 ## Annotations
 
-[^key-4cab4cac276c17cda8fdc46449e02dc6]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2024/1155/rule/50) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-4cab4cac276c17cda8fdc46449e02dc6]: Commencement: [Rule 50](https://www.legislation.gov.uk/uksi/2024/1155/rule/50) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

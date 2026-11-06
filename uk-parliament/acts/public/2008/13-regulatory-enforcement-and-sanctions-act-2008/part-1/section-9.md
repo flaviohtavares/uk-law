@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Advice to Ministers of the Crown[^key-3df425a168f2024901beae2e2d2807aa]
+## 9. Advice to Ministers of the Crown[^c-3df425a168f2024901beae2e2d2807aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3df425a168f2024901beae2e2d2807aa]: Textual amendment: S. 9 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(g)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))
+[^c-3df425a168f2024901beae2e2d2807aa]: Textual amendment: S. 9 repealed (2.2.2012) by [The Local Better Regulation Office (Dissolution and Transfer of Functions, Etc.) Order 2012 (S.I. 2012/246)](https://www.legislation.gov.uk/uksi/2012/246), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/246/article/1/2), [2](https://www.legislation.gov.uk/uksi/2012/246/article/2), [4(2)](https://www.legislation.gov.uk/uksi/2012/246/article/4/2), [Sch. 1 para. 1(g)](https://www.legislation.gov.uk/uksi/2012/246/schedule/1/paragraph/1/g) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2012/246/schedule/2))

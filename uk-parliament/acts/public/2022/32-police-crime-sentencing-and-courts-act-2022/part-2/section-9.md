@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Powers to collaborate and plan to prevent and reduce serious violence[^key-b3b0351fb309138b9d7cd010689cfb0b][^key-3de379214f9c12bb0f090815bae295a9]
+## 9. Powers to collaborate and plan to prevent and reduce serious violence[^c-b3b0351fb309138b9d7cd010689cfb0b][^c-3de379214f9c12bb0f090815bae295a9]
 
 *Extent: E+W*
 
@@ -89,6 +89,6 @@ In this subsection “**local government area**” has the same meaning as in se
 
 ## Annotations
 
-[^key-b3b0351fb309138b9d7cd010689cfb0b]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
+[^c-b3b0351fb309138b9d7cd010689cfb0b]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 208(4)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/b)
 
-[^key-3de379214f9c12bb0f090815bae295a9]: Commencement: S. 9 in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/b)
+[^c-3de379214f9c12bb0f090815bae295a9]: Commencement: S. 9 in force at 31.1.2023 in so far as not already in force by [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/b)

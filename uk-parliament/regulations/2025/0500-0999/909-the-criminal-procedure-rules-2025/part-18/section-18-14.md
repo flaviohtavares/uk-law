@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.14. Exercise of court’s powers[^key-aa2da98016e88f26a9cc9cb85becf78e]
+## 18.14. Exercise of court’s powers[^c-aa2da98016e88f26a9cc9cb85becf78e]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa2da98016e88f26a9cc9cb85becf78e]: Commencement: [Rule 18.14](https://www.legislation.gov.uk/uksi/2025/909/rule/18.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-aa2da98016e88f26a9cc9cb85becf78e]: Commencement: [Rule 18.14](https://www.legislation.gov.uk/uksi/2025/909/rule/18.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

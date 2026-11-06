@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 35. Transfer of police and crime commissioner functions[^key-ab65e012409d3e0d94b0f4875206db97]
+## 35. Transfer of police and crime commissioner functions[^c-ab65e012409d3e0d94b0f4875206db97]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab65e012409d3e0d94b0f4875206db97]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2021/112/article/35) in force at 10.5.2021, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4)
+[^c-ab65e012409d3e0d94b0f4875206db97]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2021/112/article/35) in force at 10.5.2021, see [art. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4)
 
 [^c24434001]: Marginal citation: The definition of “police and crime commissioner enactment” is at paragraph 12(5) of Schedule 5C to the 2009 Act.

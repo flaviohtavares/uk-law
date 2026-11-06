@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 133. Audit of accounts and determination as to outlays and remuneration payable to trustee[^key-ea10c26fba54848338e2c53155eebf11]
+## 133. Audit of accounts and determination as to outlays and remuneration payable to trustee[^c-ea10c26fba54848338e2c53155eebf11]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ea10c26fba54848338e2c53155eebf11]: Commencement: [S. 133](https://www.legislation.gov.uk/asp/2016/21/section/133) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-ea10c26fba54848338e2c53155eebf11]: Commencement: [S. 133](https://www.legislation.gov.uk/asp/2016/21/section/133) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

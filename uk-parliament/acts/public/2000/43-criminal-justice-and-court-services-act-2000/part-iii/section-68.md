@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Section 67: interpretation.[^key-d7e653ff2ef839bd131d4ed0ac03dd7a]
+## 68. Section 67: interpretation.[^c-d7e653ff2ef839bd131d4ed0ac03dd7a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7e653ff2ef839bd131d4ed0ac03dd7a]: Textual amendment: S. 68 repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 12](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/12); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(v)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/v)
+[^c-d7e653ff2ef839bd131d4ed0ac03dd7a]: Textual amendment: S. 68 repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 12](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/12); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(v)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/v)

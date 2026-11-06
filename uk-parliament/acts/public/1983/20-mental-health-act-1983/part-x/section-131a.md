@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131A. Accommodation, etc. for children[^key-dd4f4734340d8d6e1679ca63d24a933d]
+## 131A. Accommodation, etc. for children[^c-dd4f4734340d8d6e1679ca63d24a933d]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd4f4734340d8d6e1679ca63d24a933d]: Textual amendment: S. 131A inserted (1.4.2010) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 31(3)](https://www.legislation.gov.uk/ukpga/2007/12/section/31/3), [56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1); [S.I. 2010/143](https://www.legislation.gov.uk/uksi/2010/143), [art. 2](https://www.legislation.gov.uk/uksi/2010/143/article/2)
+[^c-dd4f4734340d8d6e1679ca63d24a933d]: Textual amendment: S. 131A inserted (1.4.2010) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 31(3)](https://www.legislation.gov.uk/ukpga/2007/12/section/31/3), [56(1)](https://www.legislation.gov.uk/ukpga/2007/12/section/56/1); [S.I. 2010/143](https://www.legislation.gov.uk/uksi/2010/143), [art. 2](https://www.legislation.gov.uk/uksi/2010/143/article/2)

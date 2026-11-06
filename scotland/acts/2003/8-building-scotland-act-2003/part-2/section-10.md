@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Building warrants: extension, alteration and conversion[^key-b13eca7ca2adb953311691cdde54b520]
+## 10. Building warrants: extension, alteration and conversion[^c-b13eca7ca2adb953311691cdde54b520]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b13eca7ca2adb953311691cdde54b520]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2003/8/section/10) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-b13eca7ca2adb953311691cdde54b520]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2003/8/section/10) in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

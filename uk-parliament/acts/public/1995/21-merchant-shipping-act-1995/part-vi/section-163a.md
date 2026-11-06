@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163A. Compulsory insurance against liability for pollution from bunker oil[^key-a33b182d4a4bea9efbc05037a2c06039]
+## 163A. Compulsory insurance against liability for pollution from bunker oil[^c-a33b182d4a4bea9efbc05037a2c06039]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 
 (8) Any document required or authorised, by virtue of any statutory provision, to be served on a foreign company for the purposes of the institution of (or otherwise in connection with) proceedings for an offence under subsection (5) against the company as registered owner of the ship shall be treated as duly served on the company if the document is served on the master of the ship.
 
-In this subsection “[^key-cb2413fe529116f4c5dacdfc15943c18]**foreign company**” means a company or body which is not one to which section 1139 of the Companies Act 2006 applies so as to authorise service of the document in question.
+In this subsection “[^c-cb2413fe529116f4c5dacdfc15943c18]**foreign company**” means a company or body which is not one to which section 1139 of the Companies Act 2006 applies so as to authorise service of the document in question.
 
 (9) Any person authorised to serve any document for the purposes of the institution of (or otherwise in connection with) the institution of proceedings for an offence under this section shall, for that purpose, have the right to go on board the ship in question.
 
@@ -51,6 +51,6 @@ In this subsection “[^key-cb2413fe529116f4c5dacdfc15943c18]**foreign company**
 
 ## Annotations
 
-[^key-a33b182d4a4bea9efbc05037a2c06039]: Textual amendment: [S. 163A](https://www.legislation.gov.uk/ukpga/1995/21/section/163A) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2006/1244/regulation/17) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
+[^c-a33b182d4a4bea9efbc05037a2c06039]: Textual amendment: [S. 163A](https://www.legislation.gov.uk/ukpga/1995/21/section/163A) inserted (21.11.2008) by [The Merchant Shipping (Oil Pollution) (Bunkers Convention) Regulations 2006 (S.I. 2006/1244)](https://www.legislation.gov.uk/uksi/2006/1244), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2006/1244/regulation/17) (with [reg. 1(5)](https://www.legislation.gov.uk/uksi/2006/1244/regulation/1/5))
 
-[^key-cb2413fe529116f4c5dacdfc15943c18]: Textual amendment: Words in [s. 163A(8)](https://www.legislation.gov.uk/ukpga/1995/21/section/163A/8) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 152(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/152/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-cb2413fe529116f4c5dacdfc15943c18]: Textual amendment: Words in [s. 163A(8)](https://www.legislation.gov.uk/ukpga/1995/21/section/163A/8) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 152(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/152/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

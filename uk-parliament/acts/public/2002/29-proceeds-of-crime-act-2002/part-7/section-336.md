@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 336. Nominated officer: consent[^key-b792710056e3dcb2f213f2445737f482][^key-ab8d591eb66fe915fb3e58427c0f1106][^key-ab8d591eb66fe915fb3e58427c0f1106]
+## 336. Nominated officer: consent[^c-b792710056e3dcb2f213f2445737f482][^c-ab8d591eb66fe915fb3e58427c0f1106][^c-ab8d591eb66fe915fb3e58427c0f1106]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,17 +24,17 @@ summary: ''
 
 (2) The condition is that—
 
-- (a) he makes a disclosure that property is criminal property to a person authorised for the purposes of this Part by the[^key-013263f5e87eceb7021a75ee78ff4098] Director General of the National Crime Agency[^key-3c17a3d5a337248a9ecbbc7e7087cbb4], and
+- (a) he makes a disclosure that property is criminal property to a person authorised for the purposes of this Part by the[^c-013263f5e87eceb7021a75ee78ff4098] Director General of the National Crime Agency[^c-3c17a3d5a337248a9ecbbc7e7087cbb4], and
 - (b) such a person gives consent to the doing of the act.
 
 (3) The condition is that—
 
-- (a) he makes a disclosure that property is criminal property to a person authorised for the purposes of this Part by the[^key-114964b200f55ca8115b659db97aa7ff] Director General of the National Crime Agency[^key-2c3f5b9d6c3e1fad492913df990a4097], and
+- (a) he makes a disclosure that property is criminal property to a person authorised for the purposes of this Part by the[^c-114964b200f55ca8115b659db97aa7ff] Director General of the National Crime Agency[^c-2c3f5b9d6c3e1fad492913df990a4097], and
 - (b) before the end of the notice period he does not receive notice from such a person that consent to the doing of the act is refused.
 
 (4) The condition is that—
 
-- (a) he makes a disclosure that property is criminal property to a person authorised for the purposes of this Part by the[^key-adef09a333ad442bc5abd94ad0bead3e] Director General of the National Crime Agency[^key-292800eb32a71123835830c752892067],
+- (a) he makes a disclosure that property is criminal property to a person authorised for the purposes of this Part by the[^c-adef09a333ad442bc5abd94ad0bead3e] Director General of the National Crime Agency[^c-292800eb32a71123835830c752892067],
 - (b) before the end of the notice period he receives notice from such a person that consent to the doing of the act is refused, and
 - (c) the moratorium period has expired.
 
@@ -60,18 +60,18 @@ summary: ''
 
 ## Annotations
 
-[^key-b792710056e3dcb2f213f2445737f482]: Commencement: S. 336 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
+[^c-b792710056e3dcb2f213f2445737f482]: Commencement: S. 336 in force at 24.2.2003 by [S.I. 2003/120](https://www.legislation.gov.uk/uksi/2003/120), [art. 2](https://www.legislation.gov.uk/uksi/2003/120/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/120/schedule) (with [arts. 3](https://www.legislation.gov.uk/uksi/2003/120/article/3), [4](https://www.legislation.gov.uk/uksi/2003/120/article/4)) (as amended (20.2.2003) by [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), art. 14)
 
-[^key-ab8d591eb66fe915fb3e58427c0f1106]: Modification: Pt. 7 applied (24.2.2003) by [Proceeds of Crime Act 2002 (Crown Servants) Regulations 2003 (S.I. 2003/173)](https://www.legislation.gov.uk/uksi/2003/173), [regs. 1](https://www.legislation.gov.uk/uksi/2003/173/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/173/regulation/3)
+[^c-ab8d591eb66fe915fb3e58427c0f1106]: Modification: Pt. 7 applied (24.2.2003) by [Proceeds of Crime Act 2002 (Crown Servants) Regulations 2003 (S.I. 2003/173)](https://www.legislation.gov.uk/uksi/2003/173), [regs. 1](https://www.legislation.gov.uk/uksi/2003/173/regulation/1), [3](https://www.legislation.gov.uk/uksi/2003/173/regulation/3)
 
-[^key-013263f5e87eceb7021a75ee78ff4098]: Textual amendment: Words in s. 336(2)(a) substituted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 173](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/173); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10)
+[^c-013263f5e87eceb7021a75ee78ff4098]: Textual amendment: Words in s. 336(2)(a) substituted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 173](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/173); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10)
 
-[^key-3c17a3d5a337248a9ecbbc7e7087cbb4]: Textual amendment: Words in s. 336(2)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 133](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/133); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-3c17a3d5a337248a9ecbbc7e7087cbb4]: Textual amendment: Words in s. 336(2)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 133](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/133); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-114964b200f55ca8115b659db97aa7ff]: Textual amendment: Words in s. 336(3)(a) substituted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 173](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/173); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10)
+[^c-114964b200f55ca8115b659db97aa7ff]: Textual amendment: Words in s. 336(3)(a) substituted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 173](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/173); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10)
 
-[^key-2c3f5b9d6c3e1fad492913df990a4097]: Textual amendment: Words in s. 336(3)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 133](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/133); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-2c3f5b9d6c3e1fad492913df990a4097]: Textual amendment: Words in s. 336(3)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 133](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/133); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
 
-[^key-adef09a333ad442bc5abd94ad0bead3e]: Textual amendment: Words in s. 336(4)(a) substituted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 173](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/173); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10)
+[^c-adef09a333ad442bc5abd94ad0bead3e]: Textual amendment: Words in s. 336(4)(a) substituted (1.4.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 4 para. 173](https://www.legislation.gov.uk/ukpga/2005/15/schedule/4/paragraph/173); [S.I. 2006/378](https://www.legislation.gov.uk/uksi/2006/378), [art. 4(1)](https://www.legislation.gov.uk/uksi/2006/378/article/4/1), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2006/378/schedule/paragraph/10)
 
-[^key-292800eb32a71123835830c752892067]: Textual amendment: Words in s. 336(4)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 133](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/133); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)
+[^c-292800eb32a71123835830c752892067]: Textual amendment: Words in s. 336(4)(a) substituted (7.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 8 para. 133](https://www.legislation.gov.uk/ukpga/2013/22/schedule/8/paragraph/133); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(v)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/v)

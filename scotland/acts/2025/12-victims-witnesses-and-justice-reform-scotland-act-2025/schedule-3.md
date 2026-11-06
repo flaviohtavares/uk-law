@@ -26,7 +26,7 @@ summary: ''
 
 ### Part 1 — Right of eligible persons to receive information in event of death or incapacity of victim
 
-**1.**[^key-1b3be65a63c45fe3bc52866c9b2ec4e7] (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+**1.**[^c-1b3be65a63c45fe3bc52866c9b2ec4e7] (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
 
 (2) In section 16 (victim’s right to receive information concerning release etc. of offender)—
 
@@ -223,7 +223,7 @@ summary: ''
 
 ### Part 2 — Notification of individual other than supporter to receive information
 
-**2.**[^key-668062ba45c008f79275aa55b57aac1c] (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
+**2.**[^c-668062ba45c008f79275aa55b57aac1c] (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
 
 (2) In section 16ZA (provision of information to person supporting victim)—
 
@@ -601,6 +601,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1b3be65a63c45fe3bc52866c9b2ec4e7]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-1b3be65a63c45fe3bc52866c9b2ec4e7]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-668062ba45c008f79275aa55b57aac1c]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-668062ba45c008f79275aa55b57aac1c]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

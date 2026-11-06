@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (49).** Text as at 2024-02-21. See https://www.legislation.gov.uk/changes/affected/ukpga/1998/14
 
-## 60. Breach of regulations[^key-0634b93f9d02c2e24fff8bc0973d7d2f]
+## 60. Breach of regulations[^c-0634b93f9d02c2e24fff8bc0973d7d2f]
 
 For section 113 of the Administration Act there shall be substituted the following section—
 
@@ -44,4 +44,4 @@ For section 113 of the Administration Act there shall be substituted the followi
 
 ## Annotations
 
-[^key-0634b93f9d02c2e24fff8bc0973d7d2f]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/1998/14/section/60) in force at 4.3.1999 for specified purposes and 6.4.1999 in so far as not already in force by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/526/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/1999/526/article/2/2/d)
+[^c-0634b93f9d02c2e24fff8bc0973d7d2f]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/1998/14/section/60) in force at 4.3.1999 for specified purposes and 6.4.1999 in so far as not already in force by [S.I. 1999/526](https://www.legislation.gov.uk/uksi/1999/526), [art. 2(1)](https://www.legislation.gov.uk/uksi/1999/526/article/2/1)[(2)(d)](https://www.legislation.gov.uk/uksi/1999/526/article/2/2/d)

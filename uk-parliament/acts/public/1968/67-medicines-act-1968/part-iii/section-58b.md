@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58B. Requirement to specify certain products for veterinary use as prescription-only products.[^key-e3e23dd07789ec2e3b70750d62cf3d4a]
+## 58B. Requirement to specify certain products for veterinary use as prescription-only products.[^c-e3e23dd07789ec2e3b70750d62cf3d4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e3e23dd07789ec2e3b70750d62cf3d4a]: Textual amendment: S. 58B omitted (1.10.2006) by virtue of [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 31](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/31) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))
+[^c-e3e23dd07789ec2e3b70750d62cf3d4a]: Textual amendment: S. 58B omitted (1.10.2006) by virtue of [The Veterinary Medicines Regulations 2006 (S.I. 2006/2407)](https://www.legislation.gov.uk/uksi/2006/2407), [reg. 1](https://www.legislation.gov.uk/uksi/2006/2407/regulation/1), [Sch. 8 para. 31](https://www.legislation.gov.uk/uksi/2006/2407/schedule/8/paragraph/31) (with [regs. 2(4)](https://www.legislation.gov.uk/uksi/2006/2407/regulation/2/4), [3](https://www.legislation.gov.uk/uksi/2006/2407/regulation/3))

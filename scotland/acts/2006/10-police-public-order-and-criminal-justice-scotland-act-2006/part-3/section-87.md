@@ -40,8 +40,8 @@ summary: ''
 
 (5) A certificate of posting of a notice sent under subsection (4)(b) issued by the postal operator concerned is sufficient evidence of the sending of the notice on the day specified in the certificate.
 
-(6) In subsection (5), “**postal operator**” has the meaning given by section 27 of the Postal Services Act 2011 (c.5)[^key-7dd40e6f48813ff020f18b08e859e520].
+(6) In subsection (5), “**postal operator**” has the meaning given by section 27 of the Postal Services Act 2011 (c.5)[^c-7dd40e6f48813ff020f18b08e859e520].
 
 ## Annotations
 
-[^key-7dd40e6f48813ff020f18b08e859e520]: Textual amendment: Words in s. 87(6) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/65)
+[^c-7dd40e6f48813ff020f18b08e859e520]: Textual amendment: Words in s. 87(6) substituted (1.10.2011) by [The Postal Services Act 2011 (Consequential Modifications and Amendments) Order 2011 (S.I. 2011/2085)](https://www.legislation.gov.uk/uksi/2011/2085), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2085/article/1/2), [Sch. 1 para. 65](https://www.legislation.gov.uk/uksi/2011/2085/schedule/1/paragraph/65)

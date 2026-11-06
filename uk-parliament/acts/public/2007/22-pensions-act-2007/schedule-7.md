@@ -78,7 +78,7 @@ Section 27
 | Civil Partnership (Contracted-out Occupational and Appropriate Personal Pension Schemes) (Surviving Civil Partners) Order 2005 (S.I. 2005/2050) | In Schedule 1, paragraphs 9 to 11. |
 | Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745) | Article 7(3) and (4). |
 
-### Part 7 — Abolition of contracting-out for defined contribution pension schemes: further repeals[^key-95a66df4f53332e9fcbf240e00a4ecb9][^c2164955]
+### Part 7 — Abolition of contracting-out for defined contribution pension schemes: further repeals[^c-95a66df4f53332e9fcbf240e00a4ecb9][^c2164955]
 
 | *Citation* | *Extent of repeal* |
 | --- | --- |
@@ -99,6 +99,6 @@ Section 27
 
 ## Annotations
 
-[^key-95a66df4f53332e9fcbf240e00a4ecb9]: Commencement: [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7) in force at 6.4.2015 for specified purposes by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/b) (as amended (20.3.2012) by S.I. 2012/911, art. 2(d))
+[^c-95a66df4f53332e9fcbf240e00a4ecb9]: Commencement: [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7) in force at 6.4.2015 for specified purposes by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/b) (as amended (20.3.2012) by S.I. 2012/911, art. 2(d))
 
 [^c2164955]: Commencement: [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7) partly in force at 6.4.2015; [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7) not in force at Royal Assent see [s. 30(2)(b)](https://www.legislation.gov.uk/ukpga/2007/22/section/30/2/b); [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7) in force for specified purposes at 6.4.2012 by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/1267/article/2/c) (as amended by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/911/article/2/b)); [Sch. 7 Pt. 7](https://www.legislation.gov.uk/ukpga/2007/22/schedule/7/part/7) in force at 6.4.2015 for specified purposes by [S.I. 2011/1267](https://www.legislation.gov.uk/uksi/2011/1267), [art. 3(b)](https://www.legislation.gov.uk/uksi/2011/1267/article/3/b) (as amended by [S.I. 2012/911](https://www.legislation.gov.uk/uksi/2012/911), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/911/article/2/d)

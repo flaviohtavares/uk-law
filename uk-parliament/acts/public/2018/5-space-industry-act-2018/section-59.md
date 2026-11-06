@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Civil sanctions[^key-96120b24bbb0ecbb05ea084bcfb4d348]
+## 59. Civil sanctions[^c-96120b24bbb0ecbb05ea084bcfb4d348]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96120b24bbb0ecbb05ea084bcfb4d348]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2018/5/section/59) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(vv)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/vv)
+[^c-96120b24bbb0ecbb05ea084bcfb4d348]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2018/5/section/59) in force at 26.11.2018 by [S.I. 2018/1224](https://www.legislation.gov.uk/uksi/2018/1224), [reg. 2(vv)](https://www.legislation.gov.uk/uksi/2018/1224/regulation/2/vv)

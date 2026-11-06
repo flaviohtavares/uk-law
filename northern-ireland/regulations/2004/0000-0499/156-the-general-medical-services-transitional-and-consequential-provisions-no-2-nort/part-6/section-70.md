@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 70. Saving and transitory provision in relation to paragraphs 20 to 22 of Schedule 2 to the 1997 Regulations[^key-9588b2d7d8ee9f440271e27f1f7b4f53]
+## 70. Saving and transitory provision in relation to paragraphs 20 to 22 of Schedule 2 to the 1997 Regulations[^c-9588b2d7d8ee9f440271e27f1f7b4f53]
 
 *Extent: N.I.*
 
@@ -58,7 +58,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9588b2d7d8ee9f440271e27f1f7b4f53]: Commencement: Art. 70 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-9588b2d7d8ee9f440271e27f1f7b4f53]: Commencement: Art. 70 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
 
 [^f00029]: Footnote: Paragraph 20(2) was amended by [S.R.1999 No. 100](https://www.legislation.gov.uk/nisr/1999/100)
 

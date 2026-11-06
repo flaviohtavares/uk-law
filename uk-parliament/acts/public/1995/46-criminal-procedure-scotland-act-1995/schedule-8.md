@@ -130,7 +130,7 @@ before this Schedule comes into force.
 **8.** In this Schedule—
 
 - “**business**” includes trade, profession or other occupation;
-- “**criminal proceedings**” includes any hearing by the sheriff of an application made by virtue of section 93(2)(a) or 94(2)(a) of the Children’s Hearings (Scotland) Act[^key-fff358e702fe680472a02792a800fd4f] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1) to determine whether a ground is established, in so far as the application relates to the commission of an offence by the child, or for a review of such a determination,
+- “**criminal proceedings**” includes any hearing by the sheriff of an application made by virtue of section 93(2)(a) or 94(2)(a) of the Children’s Hearings (Scotland) Act[^c-fff358e702fe680472a02792a800fd4f] [2011 (asp 1)](https://www.legislation.gov.uk/asp/2011/1) to determine whether a ground is established, in so far as the application relates to the commission of an offence by the child, or for a review of such a determination,
 - “**document**” includes, in addition to a document in writing—
   - (a) any map, plan, graph or drawing;
   - (b) any photograph;
@@ -153,4 +153,4 @@ before this Schedule comes into force.
 
 [^c14477581]: Marginal citation: [1968 c. 45](https://www.legislation.gov.uk/ukpga/1968/45).
 
-[^key-fff358e702fe680472a02792a800fd4f]: Textual amendment: Words in [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/1995/46/schedule/8/paragraph/8) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 10(9)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/10/9)
+[^c-fff358e702fe680472a02792a800fd4f]: Textual amendment: Words in [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/1995/46/schedule/8/paragraph/8) substituted (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 1 para. 10(9)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/10/9)

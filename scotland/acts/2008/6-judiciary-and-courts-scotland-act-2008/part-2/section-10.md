@@ -27,11 +27,11 @@ summary: ''
 - (c) the office of temporary judge (except in any case where the individual to be appointed to the office holds or has held one of the offices mentioned in subsection (2)),
 - (d) the office of sheriff principal,
 - (e) the office of sheriff,
-- (f) the office of part-time sheriff, [^key-74624a6d8b90970622ff4f55705ca95c]...
-- (fza)[^key-e310ddd4dbb71efaead7bc1cad51f791] the office of summary sheriff,
+- (f) the office of part-time sheriff, [^c-74624a6d8b90970622ff4f55705ca95c]...
+- (fza)[^c-e310ddd4dbb71efaead7bc1cad51f791] the office of summary sheriff,
 - (fzb) the office of part-time summary sheriff,
-- (fzc)[^key-8cd26fccbf6a5a2ddef42f94bf2a465f] the office of member of the Parole Board for Scotland (including the chairperson of the Parole Board),
-- (fa)[^key-efde368fa8f4e6b51266522c1d9fe5e9] the positions within the Scottish Tribunals mentioned in subsection (2A), and
+- (fzc)[^c-8cd26fccbf6a5a2ddef42f94bf2a465f] the office of member of the Parole Board for Scotland (including the chairperson of the Parole Board),
+- (fa)[^c-efde368fa8f4e6b51266522c1d9fe5e9] the positions within the Scottish Tribunals mentioned in subsection (2A), and
 - (g) such other judicial offices (whether full-time, part-time or temporary) as the Scottish Ministers may by order specify.
 
 (2) The offices referred to in subsection (1)(c) are—
@@ -42,7 +42,7 @@ summary: ''
 - (d) the office of sheriff principal, and
 - (e) the office of sheriff.
 
-(2A)[^key-443bce57ad7199aee156942c9617cd7e] The positions within the Scottish Tribunals are—
+(2A)[^c-443bce57ad7199aee156942c9617cd7e] The positions within the Scottish Tribunals are—
 
 - (a) Vice-President of the Upper Tribunal, if to be appointed under section 26(1) of the Tribunals (Scotland) Act 2014,
 - (b) Chamber President in the First-tier Tribunal, if to be appointed under section 22(1) of that Act,
@@ -59,12 +59,12 @@ summary: ''
 
 ## Annotations
 
-[^key-74624a6d8b90970622ff4f55705ca95c]: Textual amendment: Word in s. 10(1) repealed (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(2)(a)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/2/a) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-74624a6d8b90970622ff4f55705ca95c]: Textual amendment: Word in s. 10(1) repealed (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(2)(a)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/2/a) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-e310ddd4dbb71efaead7bc1cad51f791]: Textual amendment: S. 10(1)(fza)(fzb) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 9(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/9/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-e310ddd4dbb71efaead7bc1cad51f791]: Textual amendment: S. 10(1)(fza)(fzb) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 9(3)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/9/3); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-8cd26fccbf6a5a2ddef42f94bf2a465f]: Textual amendment: S. 10(1)(fzc) inserted (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 46(3)](https://www.legislation.gov.uk/asp/2019/14/section/46/3), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/k)
+[^c-8cd26fccbf6a5a2ddef42f94bf2a465f]: Textual amendment: S. 10(1)(fzc) inserted (1.10.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 46(3)](https://www.legislation.gov.uk/asp/2019/14/section/46/3), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/283](https://www.legislation.gov.uk/ssi/2020/283), [reg. 2(k)](https://www.legislation.gov.uk/ssi/2020/283/regulation/2/k)
 
-[^key-efde368fa8f4e6b51266522c1d9fe5e9]: Textual amendment: S. 10(1)(fa) inserted (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(2)(b)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/2/b) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-efde368fa8f4e6b51266522c1d9fe5e9]: Textual amendment: S. 10(1)(fa) inserted (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(2)(b)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/2/b) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
 
-[^key-443bce57ad7199aee156942c9617cd7e]: Textual amendment: S. 10(2A) inserted (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(2)(c)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/2/c) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)
+[^c-443bce57ad7199aee156942c9617cd7e]: Textual amendment: S. 10(2A) inserted (1.4.2015) by [Tribunals (Scotland) Act 2014 (asp 10)](https://www.legislation.gov.uk/asp/2014/10), [s. 83(2)](https://www.legislation.gov.uk/asp/2014/10/section/83/2), [Sch. 9 para. 12(2)(c)](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/12/2/c) (with [Sch. 9 para. 8](https://www.legislation.gov.uk/asp/2014/10/schedule/9/paragraph/8)); [S.S.I. 2015/116](https://www.legislation.gov.uk/ssi/2015/116), [art. 2](https://www.legislation.gov.uk/ssi/2015/116/article/2)

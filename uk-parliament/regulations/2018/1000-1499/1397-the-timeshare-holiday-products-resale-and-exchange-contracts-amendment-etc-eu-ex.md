@@ -95,7 +95,7 @@ These Regulations may be cited as the Timeshare, Holiday Products, Resale and Ex
 
 ### 3. Transitional provision[^M_I_644055e0-8e49-4b8b-85ff-48bbee0a8da5]
 
-Nothing in these Regulations applies to a contract entered into before IP completion day[^key-2b77fd951c5c4cfdfb23e82c17bcd087].
+Nothing in these Regulations applies to a contract entered into before IP completion day[^c-2b77fd951c5c4cfdfb23e82c17bcd087].
 
 Kelly Tolhurst
 
@@ -123,4 +123,4 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^M_I_644055e0-8e49-4b8b-85ff-48bbee0a8da5]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2b77fd951c5c4cfdfb23e82c17bcd087]: Textual amendment: Words in reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/6/2)
+[^c-2b77fd951c5c4cfdfb23e82c17bcd087]: Textual amendment: Words in reg. 3 substituted (31.12.2020 immediately before IP completion day) by [The Consumer Protection (Enforcement) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1347)](https://www.legislation.gov.uk/uksi/2020/1347), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/1/3), [6(2)](https://www.legislation.gov.uk/uksi/2020/1347/regulation/6/2)

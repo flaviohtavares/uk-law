@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Any power of the Treasury[^key-75233f0ed9d3d45eb76bb2feca2bc15e] to make regulations or orders under this Act, except the power conferred by sections [^key-ca0f2392558b715e2212841d86c65861]... 181 and 192 shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
+(1) Any power of the Treasury[^c-75233f0ed9d3d45eb76bb2feca2bc15e] to make regulations or orders under this Act, except the power conferred by sections [^c-ca0f2392558b715e2212841d86c65861]... 181 and 192 shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
 
 (1A) [^c20570881]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -36,9 +36,9 @@ summary: ''
 
 ## Annotations
 
-[^key-75233f0ed9d3d45eb76bb2feca2bc15e]: Textual amendment: Word in s. 182 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(19)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/19)
+[^c-75233f0ed9d3d45eb76bb2feca2bc15e]: Textual amendment: Word in s. 182 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services Act 2012 (Consumer Credit) Order 2013 (S.I. 2013/1882)](https://www.legislation.gov.uk/uksi/2013/1882), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2013/1882/article/1/1), [7(19)](https://www.legislation.gov.uk/uksi/2013/1882/article/7/19)
 
-[^key-ca0f2392558b715e2212841d86c65861]: Textual amendment: Word in s. 182(1) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(57)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/57)
+[^c-ca0f2392558b715e2212841d86c65861]: Textual amendment: Word in s. 182(1) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(57)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/57)
 
 [^c20570881]: Textual amendment: S. 182(1A) omitted (1.9.2009) by virtue of [The Transfer of Functions of the Consumer Credit Appeals Tribunal Order 2009 (S.I. 2009/1835)](https://www.legislation.gov.uk/uksi/2009/1835), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1835/article/1), [4(1)](https://www.legislation.gov.uk/uksi/2009/1835/article/4/1), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/uksi/2009/1835/schedule/1/paragraph/7/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2009/1835/schedule/4))
 

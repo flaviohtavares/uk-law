@@ -38,7 +38,7 @@ summary: ''
 
 (4) Section 57 has effect as if for the definition of “responsible person” in subsection (8) there were substituted a definition specified by regulations under section 25 (meaning of “ principal regulator ”).
 
-(5) Regulations under section 25 may also make such amendments or other modifications of any enactment as the Secretary of State[^key-2e4af54e63561d6d961df2025c2c721f] considers appropriate for securing that any disclosure provisions that would otherwise apply in relation to the principal regulator of an exempt charity do not apply in relation to that body or person as principal regulator.
+(5) Regulations under section 25 may also make such amendments or other modifications of any enactment as the Secretary of State[^c-2e4af54e63561d6d961df2025c2c721f] considers appropriate for securing that any disclosure provisions that would otherwise apply in relation to the principal regulator of an exempt charity do not apply in relation to that body or person as principal regulator.
 
 (6) In subsection (5) “**disclosure provisions**” means provisions having effect for authorising, or otherwise in connection with, the disclosure of information by or to the principal regulator concerned.
 
@@ -51,4 +51,4 @@ and references to enactments include enactments whenever passed or made.
 
 ## Annotations
 
-[^key-2e4af54e63561d6d961df2025c2c721f]: Textual amendment: Words in [s. 58(5)](https://www.legislation.gov.uk/ukpga/2011/25/section/58/5) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(l)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/l) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-2e4af54e63561d6d961df2025c2c721f]: Textual amendment: Words in [s. 58(5)](https://www.legislation.gov.uk/ukpga/2011/25/section/58/5) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(2)(l)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/2/l) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

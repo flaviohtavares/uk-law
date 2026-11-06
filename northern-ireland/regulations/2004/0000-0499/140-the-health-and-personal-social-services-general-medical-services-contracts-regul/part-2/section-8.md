@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Prescribed period under Article 15C(b)(iii) of the Order[^key-31edfa5264b7ebd7b5e6679021ff42f6]
+## 8. Prescribed period under Article 15C(b)(iii) of the Order[^c-31edfa5264b7ebd7b5e6679021ff42f6]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ The period prescribed for the purposes of Article 15C(1)(b)(iii) of the Order (p
 
 ## Annotations
 
-[^key-31edfa5264b7ebd7b5e6679021ff42f6]: Commencement: Reg. 8 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
+[^c-31edfa5264b7ebd7b5e6679021ff42f6]: Commencement: Reg. 8 in operation at 29.3.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/140/regulation/1)
 
 [^f00042]: Footnote: Article 15C(b)(iii) was inserted into the Order by Article 6 of the 2004 Act

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28.1A. Application for an order[^key-150967e7ebb474be40bdfbfc6a197f6d]
+## 28.1A. Application for an order[^c-150967e7ebb474be40bdfbfc6a197f6d]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-150967e7ebb474be40bdfbfc6a197f6d]: Textual amendment: [Rule 28.1A](https://www.legislation.gov.uk/ssi/2021/468/rule/28.1A) inserted (2.10.2023) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Miscellaneous) 2023 (S.S.I. 2023/196)](https://www.legislation.gov.uk/ssi/2023/196), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/3/2)
+[^c-150967e7ebb474be40bdfbfc6a197f6d]: Textual amendment: [Rule 28.1A](https://www.legislation.gov.uk/ssi/2021/468/rule/28.1A) inserted (2.10.2023) by [Act of Sederunt (Rules of the Court of Session 1994, Sheriff Appeal Court Rules and Sheriff Court Rules Amendment) (Miscellaneous) 2023 (S.S.I. 2023/196)](https://www.legislation.gov.uk/ssi/2023/196), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/1/2), [3(2)](https://www.legislation.gov.uk/ssi/2023/196/paragraph/3/2)

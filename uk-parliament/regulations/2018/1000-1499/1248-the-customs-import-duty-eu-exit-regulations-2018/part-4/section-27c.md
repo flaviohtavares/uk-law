@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27C. Temporary admission procedure: private aircraft[^key-ca573634cdcca980aba66bc577be3d81]
+## 27C. Temporary admission procedure: private aircraft[^c-ca573634cdcca980aba66bc577be3d81]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,12 +25,12 @@ summary: ''
 - (a) the aircraft lands for the first time after its arrival in the United Kingdom from a place outside the United Kingdom at—
   - (i) a customs and excise airport; or
   - (ii) any other place at which the aircraft is permitted to land by HMRC Commissioners under section 21(1) of CEMA 1979; and
-- (b) at the time of import full relief from import duty is available under regulation 40 of the special procedures regulations[^key-ab381fb5a189cdfc4d88b5fd352a38d9] in respect of the goods to that individual or the person on whose behalf the declaration is made.
+- (b) at the time of import full relief from import duty is available under regulation 40 of the special procedures regulations[^c-ab381fb5a189cdfc4d88b5fd352a38d9] in respect of the goods to that individual or the person on whose behalf the declaration is made.
 
 (2) The conduct referred to in paragraph (1) is that described in regulation 26C(3).
 
 ## Annotations
 
-[^key-ca573634cdcca980aba66bc577be3d81]: Textual amendment: Regs. 27B, 27C inserted (31.12.2020) by [The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1215)](https://www.legislation.gov.uk/uksi/2019/1215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2), [11(8)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/11/8); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-ca573634cdcca980aba66bc577be3d81]: Textual amendment: Regs. 27B, 27C inserted (31.12.2020) by [The Customs and Excise (Miscellaneous Provisions and Amendments) (EU Exit) Regulations 2019 (S.I. 2019/1215)](https://www.legislation.gov.uk/uksi/2019/1215), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/1/2), [11(8)](https://www.legislation.gov.uk/uksi/2019/1215/regulation/11/8); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-ab381fb5a189cdfc4d88b5fd352a38d9]: Textual amendment: Words in [reg. 27C(1)(b)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/27C/1/b) substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(8)(c)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/8/c)
+[^c-ab381fb5a189cdfc4d88b5fd352a38d9]: Textual amendment: Words in [reg. 27C(1)(b)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/27C/1/b) substituted (16.7.2025) by [The Customs (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/745)](https://www.legislation.gov.uk/uksi/2025/745), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2025/745/regulation/1/1), [4(8)(c)](https://www.legislation.gov.uk/uksi/2025/745/regulation/4/8/c)

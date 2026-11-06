@@ -118,7 +118,7 @@ For the table in Schedule 1 to the 2016 Regulation substitute the following:
 > | Article 7 (nutrition and health claims) | Article 1 |
 > | Article 9 (notification requirement) | Article 1 |
 
-## 5. Amendment of the Medical Food Regulations (Northern Ireland) 2000[^key-1486502a3c764c867d4ab7afc7ef89d6]
+## 5. Amendment of the Medical Food Regulations (Northern Ireland) 2000[^c-1486502a3c764c867d4ab7afc7ef89d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -160,4 +160,4 @@ A full impact assessment has not been published for this instrument as no, or no
 
 [^c23550791]: Marginal citation: [Article 2(2)(g)](https://www.legislation.gov.uk/nisr/2019/9/article/2/2/g) of the EU Regulation states “ ‘food for special medical purposes’ means food specially processed or formulated and intended for the dietary management of patients, including infants, to be used under medical supervision; it is intended for the exclusive or partial feeding of patients with a limited, impaired or disturbed capacity to take, digest, absorb, metabolise or excrete ordinary food or certain nutrients contained therein, or metabolites, or with other medically-determined nutrient requirements, whose dietary management cannot be achieved by modification of the normal diet alone.”
 
-[^key-1486502a3c764c867d4ab7afc7ef89d6]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2019/9/regulation/5) revoked (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [reg. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/16/schedule/2) (with [reg. 7](https://www.legislation.gov.uk/nisr/2020/16/regulation/7))
+[^c-1486502a3c764c867d4ab7afc7ef89d6]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2019/9/regulation/5) revoked (22.2.2020) by [The Food Safety (Information and Compositional Requirements) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/16)](https://www.legislation.gov.uk/nisr/2020/16), [reg. 1](https://www.legislation.gov.uk/nisr/2020/16/regulation/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2020/16/schedule/2) (with [reg. 7](https://www.legislation.gov.uk/nisr/2020/16/regulation/7))

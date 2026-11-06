@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115A. Recovery of contributions, etc.[^key-f2259a763e3b8bb8c9928b93244ac876]
+## 115A. Recovery of contributions, etc.[^c-f2259a763e3b8bb8c9928b93244ac876]
 
 *Extent: N.I.*
 
@@ -55,4 +55,4 @@ but this section does not apply to a private dwelling-house unless an authorised
 
 ## Annotations
 
-[^key-f2259a763e3b8bb8c9928b93244ac876]: Textual amendment: [S. 115A](https://www.legislation.gov.uk/ukpga/1992/8/section/115A) substituted (1.9.2004) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2004/3/section/6/1), [13](https://www.legislation.gov.uk/ukpga/2004/3/section/13); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/1943/article/2/f)
+[^c-f2259a763e3b8bb8c9928b93244ac876]: Textual amendment: [S. 115A](https://www.legislation.gov.uk/ukpga/1992/8/section/115A) substituted (1.9.2004) by [National Insurance Contributions and Statutory Payments Act 2004 (c. 3)](https://www.legislation.gov.uk/ukpga/2004/3), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2004/3/section/6/1), [13](https://www.legislation.gov.uk/ukpga/2004/3/section/13); [S.I. 2004/1943](https://www.legislation.gov.uk/uksi/2004/1943), [art. 2(f)](https://www.legislation.gov.uk/uksi/2004/1943/article/2/f)

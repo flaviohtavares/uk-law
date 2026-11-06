@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87.12. Writ of habeas corpus to give evidence or to answer a charge[^key-18df3bea28ba5fc12e0f6a1d3db0acd8]
+## 87.12. Writ of habeas corpus to give evidence or to answer a charge[^c-18df3bea28ba5fc12e0f6a1d3db0acd8]
 
 *Extent: E+W*
 
 (1) An application for a writ of habeas corpus to give evidence or a writ of habeas corpus to answer a charge must be made to a judge and be supported by a witness statement or affidavit.
 
-(2) A writ of habeas corpus to give evidence must be in Practice Form No. 91 [^key-445ab78defe95298c6f9d68b16026ba6]....
+(2) A writ of habeas corpus to give evidence must be in Practice Form No. 91 [^c-445ab78defe95298c6f9d68b16026ba6]....
 
-(3) A writ of habeas corpus to answer a charge must be in Practice Form No. 92 [^key-60cff2577caa78b9c8161bdad87d79de]....
+(3) A writ of habeas corpus to answer a charge must be in Practice Form No. 92 [^c-60cff2577caa78b9c8161bdad87d79de]....
 
 (4) An application for an order to bring up a prisoner otherwise than by writ of habeas corpus, to give evidence in any criminal or civil proceedings before any court, tribunal or judge, must be–
 
@@ -33,8 +33,8 @@ summary: ''
 
 ## Annotations
 
-[^key-18df3bea28ba5fc12e0f6a1d3db0acd8]: Textual amendment: [Pt. 87](https://www.legislation.gov.uk/uksi/1998/3132/part/87) inserted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3299/schedule/2)
+[^c-18df3bea28ba5fc12e0f6a1d3db0acd8]: Textual amendment: [Pt. 87](https://www.legislation.gov.uk/uksi/1998/3132/part/87) inserted (6.4.2015) by [The Civil Procedure (Amendment No. 8) Rules 2014 (S.I. 2014/3299)](https://www.legislation.gov.uk/uksi/2014/3299), [rule 2(c)](https://www.legislation.gov.uk/uksi/2014/3299/rule/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/3299/schedule/2)
 
-[^key-445ab78defe95298c6f9d68b16026ba6]: Textual amendment: Words in [rule 87.12(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/87.12/2) omitted (1.10.2022) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [33(b)](https://www.legislation.gov.uk/uksi/2022/783/rule/33/b)
+[^c-445ab78defe95298c6f9d68b16026ba6]: Textual amendment: Words in [rule 87.12(2)](https://www.legislation.gov.uk/uksi/1998/3132/rule/87.12/2) omitted (1.10.2022) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [33(b)](https://www.legislation.gov.uk/uksi/2022/783/rule/33/b)
 
-[^key-60cff2577caa78b9c8161bdad87d79de]: Textual amendment: Words in [rule 87.12(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/87.12/3) omitted (1.10.2022) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [33(b)](https://www.legislation.gov.uk/uksi/2022/783/rule/33/b)
+[^c-60cff2577caa78b9c8161bdad87d79de]: Textual amendment: Words in [rule 87.12(3)](https://www.legislation.gov.uk/uksi/1998/3132/rule/87.12/3) omitted (1.10.2022) by virtue of [The Civil Procedure (Amendment No. 2) Rules 2022 (S.I. 2022/783)](https://www.legislation.gov.uk/uksi/2022/783), [rules 1(1)](https://www.legislation.gov.uk/uksi/2022/783/rule/1/1), [33(b)](https://www.legislation.gov.uk/uksi/2022/783/rule/33/b)

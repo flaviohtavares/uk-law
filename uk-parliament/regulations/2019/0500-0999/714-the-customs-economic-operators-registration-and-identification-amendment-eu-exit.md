@@ -34,7 +34,7 @@ Exiting The European Union
 
 Customs
 
-The Customs (Economic Operators Registration and Identification) (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-8894853b43bb7878cb5fe7e0ebaec105]
+The Customs (Economic Operators Registration and Identification) (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-8894853b43bb7878cb5fe7e0ebaec105]
 
 Made
 
@@ -42,27 +42,27 @@ Made
 
 Coming into force in accordance with regulation 1(2)
 
-[^key-8894853b43bb7878cb5fe7e0ebaec105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8894853b43bb7878cb5fe7e0ebaec105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, commencement, interpretation and effect[^key-8894853b43bb7878cb5fe7e0ebaec105]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of retained direct EU legislation[^key-8894853b43bb7878cb5fe7e0ebaec105]
+## 1. Citation, commencement, interpretation and effect[^c-8894853b43bb7878cb5fe7e0ebaec105]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-8894853b43bb7878cb5fe7e0ebaec105]
+## 2. Amendment of retained direct EU legislation[^c-8894853b43bb7878cb5fe7e0ebaec105]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-8894853b43bb7878cb5fe7e0ebaec105]
+## 3.[^c-8894853b43bb7878cb5fe7e0ebaec105]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 4.[^c-8894853b43bb7878cb5fe7e0ebaec105]
 
 **Not yet in force.**
 
@@ -70,12 +70,12 @@ Coming into force in accordance with regulation 1(2)
 
 **May not be in force at this date. Check the source.**
 
-[^key-8894853b43bb7878cb5fe7e0ebaec105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8894853b43bb7878cb5fe7e0ebaec105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8894853b43bb7878cb5fe7e0ebaec105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8894853b43bb7878cb5fe7e0ebaec105]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8894853b43bb7878cb5fe7e0ebaec105]: Textual amendment: Regulations revoked (26.11.2020) by [The Customs Safety, Security and Economic Operators Registration and Identification (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1379)](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1379/regulation/8)
+[^c-8894853b43bb7878cb5fe7e0ebaec105]: Textual amendment: Regulations revoked (26.11.2020) by [The Customs Safety, Security and Economic Operators Registration and Identification (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1379)](https://www.legislation.gov.uk/uksi/2020/1379), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1379/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2020/1379/regulation/8)

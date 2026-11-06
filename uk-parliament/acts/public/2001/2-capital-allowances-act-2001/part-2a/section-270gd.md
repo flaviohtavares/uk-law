@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270GD. Adjustment for pre-April 2020 allowance[^M_F_d8288cc5-b1a7-4136-8ab2-9cf24422ed0b][^key-63b259cb6f7aef6fc5b59b4dde260ee2]
+## 270GD. Adjustment for pre-April 2020 allowance[^M_F_d8288cc5-b1a7-4136-8ab2-9cf24422ed0b][^c-63b259cb6f7aef6fc5b59b4dde260ee2]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ where D is the number of days during the period beginning with 29 October 2018 a
 
 [^M_F_d8288cc5-b1a7-4136-8ab2-9cf24422ed0b]: Textual amendment: Pt. 2A Ch. 7A inserted (1.4.2020 for corporation tax purposes and 6.4.2020 for income tax purposes) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [s. 29(5)(6)](https://www.legislation.gov.uk/ukpga/2020/14/section/29/5/6) (with [s. 29(7)](https://www.legislation.gov.uk/ukpga/2020/14/section/29/7))
 
-[^key-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)
+[^c-63b259cb6f7aef6fc5b59b4dde260ee2]: Textual amendment: Pt. 2A inserted (5.7.2019) by [The Capital Allowances (Structures and Buildings Allowances) Regulations 2019 (S.I. 2019/1087)](https://www.legislation.gov.uk/uksi/2019/1087), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1087/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1087/regulation/2)

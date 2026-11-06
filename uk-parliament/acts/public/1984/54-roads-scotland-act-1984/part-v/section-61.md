@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Granting of permission to place and maintain etc. apparatus under a road.[^key-9e86bec138c2b9fcf833c4d1a3b6a03c]
+## 61. Granting of permission to place and maintain etc. apparatus under a road.[^c-9e86bec138c2b9fcf833c4d1a3b6a03c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e86bec138c2b9fcf833c4d1a3b6a03c]: Textual amendment: [S. 61](https://www.legislation.gov.uk/ukpga/1984/54/section/61) repealed (10.1.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 114(1)](https://www.legislation.gov.uk/asp/2019/17/section/114/1), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-9e86bec138c2b9fcf833c4d1a3b6a03c]: Textual amendment: [S. 61](https://www.legislation.gov.uk/ukpga/1984/54/section/61) repealed (10.1.2022) by [Transport (Scotland) Act 2019 (asp 17)](https://www.legislation.gov.uk/asp/2019/17), [ss. 114(1)](https://www.legislation.gov.uk/asp/2019/17/section/114/1), [130(2)](https://www.legislation.gov.uk/asp/2019/17/section/130/2) (with [s. 126](https://www.legislation.gov.uk/asp/2019/17/section/126)); [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

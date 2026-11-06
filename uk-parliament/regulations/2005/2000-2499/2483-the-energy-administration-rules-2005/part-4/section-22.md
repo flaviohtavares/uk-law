@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. The chairman at meetings[^key-8f6fea7cc2fc125222db9ea9fb9f5b00]
+## 22. The chairman at meetings[^c-8f6fea7cc2fc125222db9ea9fb9f5b00]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f6fea7cc2fc125222db9ea9fb9f5b00]: Commencement: Rule 22 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-8f6fea7cc2fc125222db9ea9fb9f5b00]: Commencement: Rule 22 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

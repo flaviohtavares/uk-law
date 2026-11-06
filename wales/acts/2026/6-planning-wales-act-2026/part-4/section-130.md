@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 130. Variation and withdrawal of enforcement notice[^key-d07c084e9f701413caa1916c7a779e79]
+## 130. Variation and withdrawal of enforcement notice[^c-d07c084e9f701413caa1916c7a779e79]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d07c084e9f701413caa1916c7a779e79]: Commencement: S. 130 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-d07c084e9f701413caa1916c7a779e79]: Commencement: S. 130 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

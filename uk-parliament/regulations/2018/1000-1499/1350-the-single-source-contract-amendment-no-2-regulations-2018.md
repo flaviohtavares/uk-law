@@ -155,8 +155,8 @@ At the end, insert the Schedule (re-determination of contract price) set out in 
 (2) In addition, for the purposes of the following provisions of the 2014 Regulations as they apply to that contract on and after 1st April 2019, any reference in those provisions to the time of agreement is to be read as a reference to the date on which the existing price was determined—
 
 - (a) regulation 16(9)(a);
-- (b) regulation 18(3)[^key-8ee115dd19fd5dca7435ec1d5ddc4cf6];
-- (c) regulation 19(3)(a) and (b)[^key-4ca63995f681992ef01b2d8a669fcb25].
+- (b) regulation 18(3)[^c-8ee115dd19fd5dca7435ec1d5ddc4cf6];
+- (c) regulation 19(3)(a) and (b)[^c-4ca63995f681992ef01b2d8a669fcb25].
 
 (3) But paragraph (2) ceases to apply if the price payable under the contract is re-determined in accordance with the Schedule to the 2014 Regulations on or after 1st April 2019.
 
@@ -434,6 +434,6 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c23495951]: Marginal citation: “**Qualifying sub-contract**” has the meaning given by section 28(2) of the Defence Reform Act 2014.
 
-[^key-8ee115dd19fd5dca7435ec1d5ddc4cf6]: Textual amendment: Word in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2018/1350/regulation/14/2/b) substituted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [24(2)(a)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/24/2/a)
+[^c-8ee115dd19fd5dca7435ec1d5ddc4cf6]: Textual amendment: Word in [reg. 14(2)(b)](https://www.legislation.gov.uk/uksi/2018/1350/regulation/14/2/b) substituted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [24(2)(a)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/24/2/a)
 
-[^key-4ca63995f681992ef01b2d8a669fcb25]: Textual amendment: Words in [reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/2018/1350/regulation/14/2/c) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [24(2)(b)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/24/2/b)
+[^c-4ca63995f681992ef01b2d8a669fcb25]: Textual amendment: Words in [reg. 14(2)(c)](https://www.legislation.gov.uk/uksi/2018/1350/regulation/14/2/c) inserted (1.9.2019) by [The Single Source Contract (Amendment) Regulations 2019 (S.I. 2019/1106)](https://www.legislation.gov.uk/uksi/2019/1106), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1106/regulation/1), [24(2)(b)](https://www.legislation.gov.uk/uksi/2019/1106/regulation/24/2/b)

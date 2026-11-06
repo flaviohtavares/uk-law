@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Consultation with respect to drainage works.[^key-35d5dff19e05de5a183c017e57cbd7ba]
+## 24. Consultation with respect to drainage works.[^c-35d5dff19e05de5a183c017e57cbd7ba]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-35d5dff19e05de5a183c017e57cbd7ba]: Textual amendment: S. 24 repealed (S.) (1.4.2006) by [The Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))
+[^c-35d5dff19e05de5a183c017e57cbd7ba]: Textual amendment: S. 24 repealed (S.) (1.4.2006) by [The Water Environment (Consequential and Savings Provisions) (Scotland) Order 2006 (S.S.I. 2006/181)](https://www.legislation.gov.uk/ssi/2006/181), [art. 1](https://www.legislation.gov.uk/ssi/2006/181/article/1), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/I) (with [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2006/181/schedule/part/III))

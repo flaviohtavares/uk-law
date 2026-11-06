@@ -22,7 +22,7 @@ summary: ''
 
 Section 33.
 
-**1.**[^c14884171] In their application to a licence company formed and registered under the Companies Act 2006 in Northern Ireland[^key-f75a2ec3ebef98d79b1c9914cbfe81a7], sections 26 to 32 and Schedules 1 and 2 have effect with the modifications made by this Schedule.
+**1.**[^c14884171] In their application to a licence company formed and registered under the Companies Act 2006 in Northern Ireland[^c-f75a2ec3ebef98d79b1c9914cbfe81a7], sections 26 to 32 and Schedules 1 and 2 have effect with the modifications made by this Schedule.
 
 **2.**[^c14884191] (1) Section 26 is modified as follows.
 
@@ -112,7 +112,7 @@ Section 33.
 > - (a) for the purposes of this Part, or
 > - (b) for the purposes of the exercise or performance of any power or duty which is conferred or imposed on the company by virtue of its holding a licence.
 >
-> (3) In paragraph (4) the reference to a power conferred by the company’s articles of association[^key-ec59256ef502e583a6f25c26d3f16c1a] includes a reference to a power conferred by virtue of the company’s holding a licence.
+> (3) In paragraph (4) the reference to a power conferred by the company’s articles of association[^c-ec59256ef502e583a6f25c26d3f16c1a] includes a reference to a power conferred by virtue of the company’s holding a licence.
 >
 > **Power to deal with charged property**
 >
@@ -250,7 +250,7 @@ Section 33.
 
 [^c14884171]: Commencement: Sch. 3 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-f75a2ec3ebef98d79b1c9914cbfe81a7]: Textual amendment: Words in Sch. 3 para. 1 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(8)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/8/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-f75a2ec3ebef98d79b1c9914cbfe81a7]: Textual amendment: Words in Sch. 3 para. 1 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(8)(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/8/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^c14884191]: Commencement: Sch. 3 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
@@ -266,7 +266,7 @@ Section 33.
 
 [^c14884251]: Commencement: Sch. 3 wholly in force at 1.2.2001, see s. 275(1) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-ec59256ef502e583a6f25c26d3f16c1a]: Textual amendment: Words in Sch. 3 para. 6 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(8)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/8/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-ec59256ef502e583a6f25c26d3f16c1a]: Textual amendment: Words in Sch. 3 para. 6 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(8)(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/8/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
 [^M_F_a14831bd-543c-49af-8950-707663c7a421]: Textual amendment: Words in Sch. 3 para. 6 substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 184(8)(c)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/184/8/c) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 

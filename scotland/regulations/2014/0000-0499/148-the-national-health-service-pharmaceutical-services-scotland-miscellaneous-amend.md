@@ -46,17 +46,17 @@ Coming into force
 
 The Scottish Ministers make the following Regulations in exercise of the powers conferred by sections 2(5), 17E(1), 17N(1), 27, 28(2), 105(7) and 106 of the National Health Service (Scotland) Act 1978[^f00001] and all other powers enabling them to do so.
 
-## 1. Citation, commencement and interpretation[^key-e8628152f2a6c90106912c797bd12722]
+## 1. Citation, commencement and interpretation[^c-e8628152f2a6c90106912c797bd12722]
 
 (1) These Regulations may be cited as the National Health Service (Pharmaceutical Services) (Scotland) (Miscellaneous Amendments) Regulations 2014 and come into force on 28th June 2014.
 
 (2) In these Regulations “the 2009 Regulations” means the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^f00002].
 
-## 2. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^key-85b7afc896af28e9c19380f2bc901361]
+## 2. Amendment of the National Health Service (Pharmaceutical Services) (Scotland) Regulations 2009[^c-85b7afc896af28e9c19380f2bc901361]
 
 The 2009 Regulations are amended in accordance with regulations 3 to 9.
 
-## 3. Amendment to regulation 2[^key-4530b0edfb7a09c34349dac91897e119]
+## 3. Amendment to regulation 2[^c-4530b0edfb7a09c34349dac91897e119]
 
 In regulation 2 (interpretation and application), in the appropriate place, insert—
 
@@ -74,7 +74,7 @@ In regulation 2 (interpretation and application), in the appropriate place, inse
 
 .
 
-## 4. Amendment to regulation 5[^key-750fffabc4e26bfc3e14b82b1e42ffb8]
+## 4. Amendment to regulation 5[^c-750fffabc4e26bfc3e14b82b1e42ffb8]
 
 In regulation 5 (pharmaceutical list)[^f00003]—
 
@@ -108,7 +108,7 @@ In regulation 5 (pharmaceutical list)[^f00003]—
 
   .
 
-## 5. Pre-application and joint consultation[^key-8b78f9aa13ac7d7a648f71f47b533788]
+## 5. Pre-application and joint consultation[^c-8b78f9aa13ac7d7a648f71f47b533788]
 
 After regulation 5 insert—
 
@@ -150,7 +150,7 @@ After regulation 5 insert—
 
 .
 
-## 6. Amendment to regulation 15[^key-e62dca215d0c15049870343ebbea339c]
+## 6. Amendment to regulation 15[^c-e62dca215d0c15049870343ebbea339c]
 
 In paragraph (1) of regulation 15 (publication of particulars)[^f00004]—
 
@@ -162,11 +162,11 @@ In paragraph (1) of regulation 15 (publication of particulars)[^f00004]—
 
   .
 
-## 7. Amendment to Schedule 2[^key-e6cda5d6364c2a6b628f7eacdec04084]
+## 7. Amendment to Schedule 2[^c-e6cda5d6364c2a6b628f7eacdec04084]
 
 In Schedule 2 (forms), for Form A(1) (application for inclusion in the pharmaceutical list to provide pharmaceutical services)[^f00005] substitute the form set out in the Schedule to these Regulations.
 
-## 8. Amendment to Schedule 3[^key-54546af0583c3a7df4626a19072561e3]
+## 8. Amendment to Schedule 3[^c-54546af0583c3a7df4626a19072561e3]
 
 (1) Schedule 3 (the Board) is amended as follows.
 
@@ -273,7 +273,7 @@ In Schedule 2 (forms), for Form A(1) (application for inclusion in the pharmaceu
 
 (8) In sub-paragraph (6) of paragraph 6 (form of appeal)[^f00009] after “any person” insert “or body”.
 
-## 9. Amendment to Schedule 4[^key-dbb1bb406c760bc72fe1800552aa8b2f]
+## 9. Amendment to Schedule 4[^c-dbb1bb406c760bc72fe1800552aa8b2f]
 
 In Schedule 4 (pharmacy practices committee)—
 
@@ -288,23 +288,23 @@ In Schedule 4 (pharmacy practices committee)—
   ; and
 - (b) in sub-paragraph (5) of paragraph 6 (voting) for “of it” to “decision” substitute “to the Board of that decision and the information required under paragraph 3(6) of Schedule 3”.
 
-## 10. Amendment of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004[^key-18d9fa0421f1a1aa65918c5532f1fa69]
+## 10. Amendment of the National Health Service (General Medical Services Contracts) (Scotland) Regulations 2004[^c-18d9fa0421f1a1aa65918c5532f1fa69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11.[^key-8bd6b9d35701845a2c375f3e5454adfa]
+## 11.[^c-8bd6b9d35701845a2c375f3e5454adfa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Amendment of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^key-a355b918cc1c151f064291f12fb1dcc5]
+## 12. Amendment of the National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2004[^c-a355b918cc1c151f064291f12fb1dcc5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13.[^key-8667e1d6bd02227a414ba8532e766386]
+## 13.[^c-8667e1d6bd02227a414ba8532e766386]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Transitional and saving provision[^key-36fcb37cce5dfed18cce16151b1cdd74]
+## 14. Transitional and saving provision[^c-36fcb37cce5dfed18cce16151b1cdd74]
 
 (1) In this regulation—
 
@@ -327,7 +327,7 @@ Edinburgh
 
 28th May 2014
 
-## SCHEDULE[^key-7a68adfc6d98b38a6dd243879c52ccb2]
+## SCHEDULE[^c-7a68adfc6d98b38a6dd243879c52ccb2]
 
 Regulation 7
 
@@ -361,29 +361,29 @@ A Business Regulatory Impact Assessment has been prepared and placed in the Scot
 
 [^f00001]: Footnote: [1978 c.29](https://www.legislation.gov.uk/ukpga/1978/29); section 2(5) was amended by the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), section 66(1) and Schedule 9, paragraph 19(1). Section 17E was inserted by the National Health Service (Primary Care) Act [1997 (c.46)](https://www.legislation.gov.uk/ukpga/1997/46) (“the 1997 Act”), section 22(2). Section 17N was inserted by the Primary Medical Services (Scotland) Act [2004 (asp 1)](https://www.legislation.gov.uk/asp/2004/1), section 4. Section 27 was amended by the Health Services Act [1980 (c.53)](https://www.legislation.gov.uk/ukpga/1980/53) (“the 1980 Act”), section 20(2); the National Health Service (Amendment) Act [1986 (c.66)](https://www.legislation.gov.uk/ukpga/1986/66) (“the 1986 Act”), section 3(3); the 1990 Act, section 66(1) and Schedule 9, paragraph 19(7); the Medicinal Products: Prescription by Nurses etc. Act [1992 (c.28)](https://www.legislation.gov.uk/ukpga/1992/28), section 3; the 1997 Act, Schedule 2, paragraph 44; the Health and Social Care Act [2001 (c.15)](https://www.legislation.gov.uk/ukpga/2001/15), section 44(2) and (3); the Health and Social Care Act [2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7), section 213(7)(c) and section 220(2); and [S.I. 1987/2202](https://www.legislation.gov.uk/uksi/1987/2202), [S.I. 2003/1590](https://www.legislation.gov.uk/uksi/2003/1590), [S.I. 2004/1771](https://www.legislation.gov.uk/uksi/2004/1771), [S.I. 2005/2011](https://www.legislation.gov.uk/uksi/2005/2011), [S.I. 2007/289](https://www.legislation.gov.uk/uksi/2007/289) and [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231). Section 28(2) was amended by the 1986 Act, section 3(4); the 1990 Act, section 66(1) and Schedule 9, paragraph 19(8); and the 1997 Act, Schedule 2, paragraph 45. Section 105(7) was amended by the 1980 Act, Schedule 6, paragraph 5 and Schedule 7; the Health and Social Services and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), section 29(1) and Schedule 9, paragraph 24; and the Health Act [1999 (c.8)](https://www.legislation.gov.uk/ukpga/1999/8), Schedule 4, paragraph 60. Section 108(1) contains a definition of “prescribed” relevant to the exercise of the statutory powers under which these Regulations are made. The functions of the Secretary of State were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-e8628152f2a6c90106912c797bd12722]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/148/regulation/1) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
+[^c-e8628152f2a6c90106912c797bd12722]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2014/148/regulation/1) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
 
 [^f00002]: Footnote: [S.S.I. 2009/183](https://www.legislation.gov.uk/ssi/2009/183); amended by [S.I. 2010/231](https://www.legislation.gov.uk/uksi/2010/231), [S.I. 2012/1479](https://www.legislation.gov.uk/uksi/2012/1479), [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [S.I. 2013/235](https://www.legislation.gov.uk/uksi/2013/235), [S.I. 2013/2042](https://www.legislation.gov.uk/uksi/2013/2042), [S.S.I. 2009/209](https://www.legislation.gov.uk/ssi/2009/209), [S.S.I. 2010/128](https://www.legislation.gov.uk/ssi/2010/128), [S.S.I. 2011/32](https://www.legislation.gov.uk/ssi/2011/32), [S.S.I. 2011/55](https://www.legislation.gov.uk/ssi/2011/55), [S.S.I. 2012/36](https://www.legislation.gov.uk/ssi/2012/36) and [S.S.I. 2014/73](https://www.legislation.gov.uk/ssi/2014/73).
 
-[^key-85b7afc896af28e9c19380f2bc901361]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/148/regulation/2) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
+[^c-85b7afc896af28e9c19380f2bc901361]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2014/148/regulation/2) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
 
-[^key-4530b0edfb7a09c34349dac91897e119]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/148/regulation/3) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
+[^c-4530b0edfb7a09c34349dac91897e119]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2014/148/regulation/3) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
 
-[^key-750fffabc4e26bfc3e14b82b1e42ffb8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/148/regulation/4) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
+[^c-750fffabc4e26bfc3e14b82b1e42ffb8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2014/148/regulation/4) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
 
 [^f00003]: Footnote: Relevantly amended by [S.S.I. 2011/32](https://www.legislation.gov.uk/ssi/2011/32).
 
-[^key-8b78f9aa13ac7d7a648f71f47b533788]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/148/regulation/5) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
+[^c-8b78f9aa13ac7d7a648f71f47b533788]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2014/148/regulation/5) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
 
-[^key-e62dca215d0c15049870343ebbea339c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/148/regulation/6) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
+[^c-e62dca215d0c15049870343ebbea339c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2014/148/regulation/6) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
 
 [^f00004]: Footnote: Relevantly amended by [S.S.I. 2009/209](https://www.legislation.gov.uk/ssi/2009/209).
 
-[^key-e6cda5d6364c2a6b628f7eacdec04084]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/148/regulation/7) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
+[^c-e6cda5d6364c2a6b628f7eacdec04084]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2014/148/regulation/7) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
 
 [^f00005]: Footnote: Form A(1) was substituted by [S.S.I. 2011/32](https://www.legislation.gov.uk/ssi/2011/32).
 
-[^key-54546af0583c3a7df4626a19072561e3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/148/regulation/8) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
+[^c-54546af0583c3a7df4626a19072561e3]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2014/148/regulation/8) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
 
 [^f00006]: Footnote: Relevantly amended by [S.S.I. 2011/32](https://www.legislation.gov.uk/ssi/2011/32).
 
@@ -393,16 +393,16 @@ A Business Regulatory Impact Assessment has been prepared and placed in the Scot
 
 [^f00009]: Footnote: Inserted by [S.S.I. 2011/32](https://www.legislation.gov.uk/ssi/2011/32).
 
-[^key-dbb1bb406c760bc72fe1800552aa8b2f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/148/regulation/9) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
+[^c-dbb1bb406c760bc72fe1800552aa8b2f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2014/148/regulation/9) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
 
-[^key-18d9fa0421f1a1aa65918c5532f1fa69]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/148/regulation/10) revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/66/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-18d9fa0421f1a1aa65918c5532f1fa69]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/ssi/2014/148/regulation/10) revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/66/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
 
-[^key-8bd6b9d35701845a2c375f3e5454adfa]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/148/regulation/11) revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/66/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
+[^c-8bd6b9d35701845a2c375f3e5454adfa]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/ssi/2014/148/regulation/11) revoked (1.4.2018) by [The National Health Service (General Medical Services Contracts) (Scotland) Regulations 2018 (S.S.I. 2018/66)](https://www.legislation.gov.uk/ssi/2018/66), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2018/66/regulation/1/2), [sch. 9](https://www.legislation.gov.uk/ssi/2018/66/schedule/9) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/66/regulation/2))
 
-[^key-a355b918cc1c151f064291f12fb1dcc5]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2014/148/regulation/12) revoked (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2018/67/schedule/7) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
+[^c-a355b918cc1c151f064291f12fb1dcc5]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/ssi/2014/148/regulation/12) revoked (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2018/67/schedule/7) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
 
-[^key-8667e1d6bd02227a414ba8532e766386]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2014/148/regulation/13) revoked (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2018/67/schedule/7) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
+[^c-8667e1d6bd02227a414ba8532e766386]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/ssi/2014/148/regulation/13) revoked (1.4.2018) by [The National Health Service (Primary Medical Services Section 17C Agreements) (Scotland) Regulations 2018 (S.S.I. 2018/67)](https://www.legislation.gov.uk/ssi/2018/67), [art. 1(2)](https://www.legislation.gov.uk/ssi/2018/67/article/1/2), [sch. 7](https://www.legislation.gov.uk/ssi/2018/67/schedule/7) (with [reg. 2](https://www.legislation.gov.uk/ssi/2018/67/regulation/2))
 
-[^key-36fcb37cce5dfed18cce16151b1cdd74]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
+[^c-36fcb37cce5dfed18cce16151b1cdd74]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2014/148/regulation/14) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
 
-[^key-7a68adfc6d98b38a6dd243879c52ccb2]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2014/148/schedule) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)
+[^c-7a68adfc6d98b38a6dd243879c52ccb2]: Commencement: [Sch.](https://www.legislation.gov.uk/ssi/2014/148/schedule) in force at 28.6.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/148/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Provisional registration.[^key-a11a3e3e499a4e03c81dcfdc28e604a2]
+## 15. Provisional registration.[^c-a11a3e3e499a4e03c81dcfdc28e604a2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a11a3e3e499a4e03c81dcfdc28e604a2]: Textual amendment: S. 15 substituted (19.7.2006 for specified purposes, 1.8.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [26](https://www.legislation.gov.uk/uksi/2006/1914/article/26)
+[^c-a11a3e3e499a4e03c81dcfdc28e604a2]: Textual amendment: S. 15 substituted (19.7.2006 for specified purposes, 1.8.2007 in so far as not already in force as notified in the London Gazette dated 20.7.2007) by [The Medical Act 1983 (Amendment) and Miscellaneous Amendments Order 2006 (S.I. 2006/1914)](https://www.legislation.gov.uk/uksi/2006/1914), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/b)[(c)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/2/c)[(3)](https://www.legislation.gov.uk/uksi/2006/1914/article/1/3), [26](https://www.legislation.gov.uk/uksi/2006/1914/article/26)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Exceptions — customs vehicles[^key-3beacec345f7c588222b9b9832cfda6b]
+## 7. Exceptions — customs vehicles[^c-3beacec345f7c588222b9b9832cfda6b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3beacec345f7c588222b9b9832cfda6b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/169/regulation/7) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)
+[^c-3beacec345f7c588222b9b9832cfda6b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/169/regulation/7) in operation at 1.7.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/169/regulation/1)

@@ -30,7 +30,7 @@ Lough Neagh Drainage (Amendment) Act (Northern Ireland) 1970
 
 An Act to make further provision with respect to the levels of Lough Neagh.
 
-\[5th February 1970\][^key-6722db96a6524d04a1ee74a5929f7ba9]
+\[5th February 1970\][^c-6722db96a6524d04a1ee74a5929f7ba9]
 
 ## 1. Levels of Lough Neagh.
 
@@ -50,7 +50,7 @@ This Act may be cited as the Lough Neagh Drainage (Amendment) Act (Northern Irel
 
 ## Annotations
 
-[^key-6722db96a6524d04a1ee74a5929f7ba9]: Modification: [Act](https://www.legislation.gov.uk/apni/1970/7): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-6722db96a6524d04a1ee74a5929f7ba9]: Modification: [Act](https://www.legislation.gov.uk/apni/1970/7): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
 [^m00001]: Marginal citation: 1955 c.15
 

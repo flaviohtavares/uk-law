@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Interpretation of Part 1[^key-5029323ce25404e3ff441bc1bbb022bd]
+## 40. Interpretation of Part 1[^c-5029323ce25404e3ff441bc1bbb022bd]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ In this Part—
 
 ## Annotations
 
-[^key-5029323ce25404e3ff441bc1bbb022bd]: Commencement: S. 40 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/19)
+[^c-5029323ce25404e3ff441bc1bbb022bd]: Commencement: S. 40 in force at 25.2.2013 by [S.I. 2013/358](https://www.legislation.gov.uk/uksi/2013/358), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/358/article/2/2), [Sch. 2 para. 19](https://www.legislation.gov.uk/uksi/2013/358/schedule/2/paragraph/19)

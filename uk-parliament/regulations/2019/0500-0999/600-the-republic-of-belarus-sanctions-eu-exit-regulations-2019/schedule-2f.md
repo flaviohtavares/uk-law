@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2F — Oil refining goods and technology[^key-e8c95fa53389956663b1f3c79b32dc09]
+## SCHEDULE 2F — Oil refining goods and technology[^c-e8c95fa53389956663b1f3c79b32dc09]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,4 +83,4 @@ Any thing falling within—
 
 ## Annotations
 
-[^key-e8c95fa53389956663b1f3c79b32dc09]: Textual amendment: [Sch. 2F](https://www.legislation.gov.uk/uksi/2019/600/schedule/2F) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/748/schedule)
+[^c-e8c95fa53389956663b1f3c79b32dc09]: Textual amendment: [Sch. 2F](https://www.legislation.gov.uk/uksi/2019/600/schedule/2F) inserted (5.7.2022) by [The Republic of Belarus (Sanctions) (EU Exit) (Amendment) Regulations 2022 (S.I. 2022/748)](https://www.legislation.gov.uk/uksi/2022/748), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/748/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2022/748/schedule)

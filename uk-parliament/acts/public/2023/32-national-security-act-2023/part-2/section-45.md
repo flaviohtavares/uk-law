@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Review hearing[^key-d9bd90c0acac5a12a17306517995148d][^key-f6696cdfbf49efcfce1e8e567812f217]
+## 45. Review hearing[^c-d9bd90c0acac5a12a17306517995148d][^c-f6696cdfbf49efcfce1e8e567812f217]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d9bd90c0acac5a12a17306517995148d]: Commencement: S. 45 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-d9bd90c0acac5a12a17306517995148d]: Commencement: S. 45 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-f6696cdfbf49efcfce1e8e567812f217]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2023/32/section/45) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)
+[^c-f6696cdfbf49efcfce1e8e567812f217]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2023/32/section/45) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/b)

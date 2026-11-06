@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20A. Procedural steps where application transferred[^key-a057dd169edecd76635e782e64fe5e61]
+## 20A. Procedural steps where application transferred[^c-a057dd169edecd76635e782e64fe5e61]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a057dd169edecd76635e782e64fe5e61]: Textual amendment: S. 20A inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions and Modifications) Order 2015 (S.I. 2015/700)](https://www.legislation.gov.uk/uksi/2015/700), [arts. 1(8)](https://www.legislation.gov.uk/uksi/2015/700/article/1/8), [7](https://www.legislation.gov.uk/uksi/2015/700/article/7)
+[^c-a057dd169edecd76635e782e64fe5e61]: Textual amendment: S. 20A inserted (22.9.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions and Modifications) Order 2015 (S.I. 2015/700)](https://www.legislation.gov.uk/uksi/2015/700), [arts. 1(8)](https://www.legislation.gov.uk/uksi/2015/700/article/1/8), [7](https://www.legislation.gov.uk/uksi/2015/700/article/7)

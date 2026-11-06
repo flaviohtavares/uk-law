@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 79. Pre-trial time limits[^key-39a42c4148319e6399873b181a2a27ac]
+## 79. Pre-trial time limits[^c-39a42c4148319e6399873b181a2a27ac]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39a42c4148319e6399873b181a2a27ac]: Commencement: S. 79 in force at 29.5.2017 for specified purposes by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 3(1)](https://www.legislation.gov.uk/ssi/2017/99/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2017/99/article/3/2) (with [arts. 3(3)](https://www.legislation.gov.uk/ssi/2017/99/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2017/99/article/3/4), [6](https://www.legislation.gov.uk/ssi/2017/99/article/6))
+[^c-39a42c4148319e6399873b181a2a27ac]: Commencement: S. 79 in force at 29.5.2017 for specified purposes by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 3(1)](https://www.legislation.gov.uk/ssi/2017/99/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2017/99/article/3/2) (with [arts. 3(3)](https://www.legislation.gov.uk/ssi/2017/99/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2017/99/article/3/4), [6](https://www.legislation.gov.uk/ssi/2017/99/article/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Assessment of fire safety risks: duties of principal accountable person[^key-8cd87ae4889383a270f0e7aa7c1fd638]
+## 29. Assessment of fire safety risks: duties of principal accountable person[^c-8cd87ae4889383a270f0e7aa7c1fd638]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8cd87ae4889383a270f0e7aa7c1fd638]: Commencement: S. 29 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-8cd87ae4889383a270f0e7aa7c1fd638]: Commencement: S. 29 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

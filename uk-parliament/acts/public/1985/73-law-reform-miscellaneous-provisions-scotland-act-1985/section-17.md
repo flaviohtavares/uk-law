@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Power of sheriff to order sheriff clerk to execute deeds relating to heritage.[^key-b6ec793fc1c532919a80523a191edf26]
+## 17. Power of sheriff to order sheriff clerk to execute deeds relating to heritage.[^c-b6ec793fc1c532919a80523a191edf26]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6ec793fc1c532919a80523a191edf26]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/1985/73/section/17) repealed (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 1 para. 1(a)](https://www.legislation.gov.uk/ssi/2016/387/schedule/1/paragraph/1/a) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2016/387/article/4/1))
+[^c-b6ec793fc1c532919a80523a191edf26]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/1985/73/section/17) repealed (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 1 para. 1(a)](https://www.legislation.gov.uk/ssi/2016/387/schedule/1/paragraph/1/a) (with [art. 4(1)](https://www.legislation.gov.uk/ssi/2016/387/article/4/1))

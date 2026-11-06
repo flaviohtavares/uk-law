@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 278. Notifications relating to other events[^key-24296223f0a40edcf60f473fad53f15a]
+## 278. Notifications relating to other events[^c-24296223f0a40edcf60f473fad53f15a]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In addition to the information required by rule 274, a notification relating to 
 
 ## Annotations
 
-[^key-24296223f0a40edcf60f473fad53f15a]: Commencement: Rule 278 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-24296223f0a40edcf60f473fad53f15a]: Commencement: Rule 278 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

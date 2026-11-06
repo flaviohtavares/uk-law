@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Amendment of the Universal Credit Regulations 2013[^key-ebb87dbe65a2fa8575235ce83b6e99e3][^M_I_461a4231-a695-42f7-94eb-58e88cc94172]
+## 75. Amendment of the Universal Credit Regulations 2013[^c-ebb87dbe65a2fa8575235ce83b6e99e3][^M_I_461a4231-a695-42f7-94eb-58e88cc94172]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-ebb87dbe65a2fa8575235ce83b6e99e3]: Commencement: Reg. 75 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-ebb87dbe65a2fa8575235ce83b6e99e3]: Commencement: Reg. 75 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_461a4231-a695-42f7-94eb-58e88cc94172]: Commencement: Reg. 75 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 

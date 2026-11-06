@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Earnings of self-employed earners[^key-2a25defca5736ba432ba836a2b3a6a57]
+## 82. Earnings of self-employed earners[^c-2a25defca5736ba432ba836a2b3a6a57]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ except accommodation provided by a close relative of the person or any other mem
 
 ## Annotations
 
-[^key-2a25defca5736ba432ba836a2b3a6a57]: Commencement: [Reg. 82](https://www.legislation.gov.uk/nisr/2016/219/regulation/82) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-2a25defca5736ba432ba836a2b3a6a57]: Commencement: [Reg. 82](https://www.legislation.gov.uk/nisr/2016/219/regulation/82) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
 [^f00081]: Footnote: [1945 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1945/6); sections 2 and 3 were amended by section 1 of the Disabled Persons (Employment) Act (Northern Ireland) [1960 (c. 4 (N.I.)](https://www.legislation.gov.uk/apni/1960/4) and Schedule 18 to the Education and Libraries (Northern Ireland) Order 1986 ([S.I. 1986/594) (N.I. 3)](https://www.legislation.gov.uk/nisi/1986/594))
 

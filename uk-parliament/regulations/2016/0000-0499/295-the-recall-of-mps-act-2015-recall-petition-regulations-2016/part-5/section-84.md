@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Form of declaration of identity: Northern Ireland[^key-b8f340dba860bbbd5686d1ce078007c5]
+## 84. Form of declaration of identity: Northern Ireland[^c-b8f340dba860bbbd5686d1ce078007c5]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ The form of the declaration of identity to be used in Northern Ireland for the p
 
 ## Annotations
 
-[^key-b8f340dba860bbbd5686d1ce078007c5]: Commencement: Reg. 84 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-b8f340dba860bbbd5686d1ce078007c5]: Commencement: Reg. 84 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

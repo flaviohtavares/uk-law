@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Consultation on proposed PCI decision[^key-56947eb77c0101b559037570a77009c3][^key-54aca83cff494415fd26c11d19798743]
+## 49. Consultation on proposed PCI decision[^c-56947eb77c0101b559037570a77009c3][^c-54aca83cff494415fd26c11d19798743]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-56947eb77c0101b559037570a77009c3]: Commencement: S. 49 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-56947eb77c0101b559037570a77009c3]: Commencement: S. 49 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-54aca83cff494415fd26c11d19798743]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2024/13/section/49) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-54aca83cff494415fd26c11d19798743]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2024/13/section/49) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

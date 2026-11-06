@@ -26,7 +26,7 @@ summary: ''
 
 #### Notices of local authority meetings
 
-**1.**[^key-b33e6bb2c3dc676f586f77ee963806f6] In section 100A of the 1972 Act (admission to meetings of principal councils)—
+**1.**[^c-b33e6bb2c3dc676f586f77ee963806f6] In section 100A of the 1972 Act (admission to meetings of principal councils)—
 
 - (a) in subsection (6)—
   - (i) in paragraph (a), at the beginning insert “ in relation to a principal council in England, ”;
@@ -48,9 +48,9 @@ summary: ''
   > - (c) where the meeting is not open to the public and is held partly through remote means or is not held through remote means, give details of the time and place of the meeting and the fact that it is not open to the public;
   > - (d) where the meeting is not open to the public and is held through remote means only, give details of the time of the meeting, and the fact that it is being held through remote means only and is not open to the public.
 
-**2.**[^key-e7b806d1336d5378fde79dc01682fc0b] In section 100K of the 1972 Act (interpretation and application of Part 5A), in subsection (3) after “sections 100A(6)(a)” insert “ and (aa) ”.
+**2.**[^c-e7b806d1336d5378fde79dc01682fc0b] In section 100K of the 1972 Act (interpretation and application of Part 5A), in subsection (3) after “sections 100A(6)(a)” insert “ and (aa) ”.
 
-**3.**[^key-2d8ff51b2220195da1fd54b1f51bca17] In paragraph 4 of Schedule 12 to the 1972 Act (notices of meetings of principal councils)—
+**3.**[^c-2d8ff51b2220195da1fd54b1f51bca17] In paragraph 4 of Schedule 12 to the 1972 Act (notices of meetings of principal councils)—
 
 - (a) in sub-paragraph (2), after “in Wales” insert “ or, if the meeting is convened at shorter notice, then at the time it is convened ”;
 - (b) in sub-paragraph (2)(a)—
@@ -67,7 +67,7 @@ summary: ''
   >
   > (2B) In sub-paragraph (2A), references to a meeting held through remote means are to a meeting held by means of any equipment or other facility which enables persons who are not in the same place to speak to and be heard by each other (whether or not the equipment or facility enables those persons to see and be seen by each other).
 
-**4.**[^key-5d5525ee07fdddb4895ddfd231b0c6fd] In paragraph 26 of Schedule 12 to the 1972 Act (notices of meetings of community councils)—
+**4.**[^c-5d5525ee07fdddb4895ddfd231b0c6fd] In paragraph 26 of Schedule 12 to the 1972 Act (notices of meetings of community councils)—
 
 - (a) in sub-paragraph (2), after “community council” insert “ or, if the meeting is convened at shorter notice, then at the time it is convened ”;
 - (b) in sub-paragraph (2)(a)—
@@ -84,7 +84,7 @@ summary: ''
   >
   > (2ZB) In sub-paragraph (2ZA), references to a meeting held through remote means are to a meeting held by means of any equipment or other facility which enables persons who are not in the same place to speak to and be heard by each other (whether or not the equipment or facility enables those persons to see and be seen by each other).
 
-**5.**[^key-177e73b97e59342091b0e40e0f889b4b] In section 1 of the Public Bodies (Admission to Meetings) Act 1960 (c. 67) (admission of public to meetings)—
+**5.**[^c-177e73b97e59342091b0e40e0f889b4b] In section 1 of the Public Bodies (Admission to Meetings) Act 1960 (c. 67) (admission of public to meetings)—
 
 - (a) in subsection (4)(a), at the end insert “ (but see subsections (4ZA) to (4ZC) for further provision in relation to notices of meetings of certain bodies in Wales) ”;
 - (b) after subsection (4), insert—
@@ -104,13 +104,13 @@ summary: ''
 
 #### Copies and publication of documents relating to meetings of local authorities
 
-**6.**[^key-5f70903ad729379fa29e08d1ff18523b] (1) Section 100B of the 1972 Act (access to agenda and connected reports) is amended as follows.
+**6.**[^c-5f70903ad729379fa29e08d1ff18523b] (1) Section 100B of the 1972 Act (access to agenda and connected reports) is amended as follows.
 
 (2) In subsections (1), (4), (6) and (7)(a) after “principal council” insert “ in England ”.
 
 (3) In the heading, after “reports” insert “ : principal councils in England ”.
 
-**7.**[^key-ee1f27495e8f9b43d55b0751b16a0d66] After section 100B of the 1972 Act (access to agenda and connected reports), insert—
+**7.**[^c-ee1f27495e8f9b43d55b0751b16a0d66] After section 100B of the 1972 Act (access to agenda and connected reports), insert—
 
 > **100BA. Access to agenda and connected reports: principal councils in Wales**
 >
@@ -152,7 +152,7 @@ summary: ''
 >
 > (10) Subsection (2) applies in relation to copies of reports provided under subsection (8) or (9) as it applies in relation to copies of reports published under subsection (1).
 
-**8.**[^key-4b18e46d51579de8c12aafe504ff08c8] (1) Section 100C of the 1972 Act (inspection of minutes and other documents after meetings) is amended as follows.
+**8.**[^c-4b18e46d51579de8c12aafe504ff08c8] (1) Section 100C of the 1972 Act (inspection of minutes and other documents after meetings) is amended as follows.
 
 (2) In subsection (1), after “principal council” insert “ in England ”.
 
@@ -180,7 +180,7 @@ summary: ''
 
 (5) In the heading after “Inspection” insert “ and publication ”.
 
-**9.**[^key-081f0489197a131d35fb5f59bf9a718a] (1) Section 100D of the 1972 Act (background papers) is amended as follows.
+**9.**[^c-081f0489197a131d35fb5f59bf9a718a] (1) Section 100D of the 1972 Act (background papers) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -206,7 +206,7 @@ summary: ''
 
 (6) In the heading after “Inspection” insert “ and publication ”.
 
-**10.**[^key-83032d1d59c4d9b292081ad55e621f53] (1) Section 100H of the 1972 Act (supplemental provision about access to meetings and documents) is amended as follows.
+**10.**[^c-83032d1d59c4d9b292081ad55e621f53] (1) Section 100H of the 1972 Act (supplemental provision about access to meetings and documents) is amended as follows.
 
 (2) In subsection (2), at the beginning insert “ In relation to a principal council in England, ”.
 
@@ -257,9 +257,9 @@ summary: ''
 
 > (8) A principal council in Wales must have regard to any guidance issued by the Welsh Ministers about the exercise of its functions relating to the publication, provision and inspection of documents under this Part.
 
-**11.**[^key-3da5d015b5ef355d11df5e6171568a5d] In section 228(1) of the 1972 Act (minutes of community council meetings), omit “or community”.
+**11.**[^c-3da5d015b5ef355d11df5e6171568a5d] In section 228(1) of the 1972 Act (minutes of community council meetings), omit “or community”.
 
-**12.**[^key-d7c7a07c1c4c8abbc0cd87c088af1b3e] After paragraph 26 of Schedule 12 to the 1972 Act (notices of meetings of community councils), insert—
+**12.**[^c-d7c7a07c1c4c8abbc0cd87c088af1b3e] After paragraph 26 of Schedule 12 to the 1972 Act (notices of meetings of community councils), insert—
 
 > **26ZA.** (1) As soon as reasonably practicable after a meeting of a community council, and in any event before the end of seven working days beginning with the day on which the meeting is held, the council must publish electronically a note setting out—
 >
@@ -274,7 +274,7 @@ summary: ''
 
 #### Application to committees and sub-committees
 
-**13.**[^key-5eacd399c60ef82243552eb1aad32a33] In section 100E of the 1972 Act (application to committees and sub-committees), in subsection (2)—
+**13.**[^c-5eacd399c60ef82243552eb1aad32a33] In section 100E of the 1972 Act (application to committees and sub-committees), in subsection (2)—
 
 - (a) omit the “and” after paragraph (b);
 - (b) after paragraph (b) insert—
@@ -287,7 +287,7 @@ summary: ''
 
 #### Application and interpretation
 
-**14.**[^key-912eb793725593fe4486b0db460a830c] In section 100J of the 1972 Act (application to other authorities etc.), after subsection (4AA) insert—
+**14.**[^c-912eb793725593fe4486b0db460a830c] In section 100J of the 1972 Act (application to other authorities etc.), after subsection (4AA) insert—
 
 > (4AB) References to a principal council in Wales in this Part include—
 >
@@ -295,11 +295,11 @@ summary: ''
 > - (b) a fire and rescue authority for an area in Wales;
 > - (c) a joint board or joint committee which falls within subsection (2) and which discharges functions of two or more principal councils in Wales.
 
-**15.**[^key-031fa84b03016b0d961cc45199968d50] In section 100K of the 1972 Act (interpretation and application of Part 5A), after subsection (1) insert—
+**15.**[^c-031fa84b03016b0d961cc45199968d50] In section 100K of the 1972 Act (interpretation and application of Part 5A), after subsection (1) insert—
 
 > (1A) In this Part references to a meeting of a principal council in Wales held through remote means are to a meeting held by means of any equipment or other facility which enables persons who are not in the same place to speak to and be heard by each other (whether or not the equipment or facility enables those persons to see and be seen by each other).
 
-**16.**[^key-d6c1e8f299acf2a517c567778256ef28] In section 270 of the 1972 Act (interpretation), after subsection (1) insert—
+**16.**[^c-d6c1e8f299acf2a517c567778256ef28] In section 270 of the 1972 Act (interpretation), after subsection (1) insert—
 
 > (1A) A requirement to publish a notice or document electronically, imposed by—
 >
@@ -310,9 +310,9 @@ summary: ''
 
 #### Publication of public notices given by local authorities
 
-**17.**[^c24533071] (1)[^key-e42896faaff314f007799f03a4d1c1e6] Section 232 of the 1972 Act (public notices) is amended as follows.
+**17.**[^c24533071] (1)[^c-e42896faaff314f007799f03a4d1c1e6] Section 232 of the 1972 Act (public notices) is amended as follows.
 
-(2)[^key-e42896faaff314f007799f03a4d1c1e6] In subsection (1)—
+(2)[^c-e42896faaff314f007799f03a4d1c1e6] In subsection (1)—
 
 - (a) omit the “and” at the end of paragraph (a);
 - (b) after paragraph (b) insert
@@ -321,7 +321,7 @@ summary: ''
   >
   > - (c) where the local authority is a local authority in Wales, by publishing it electronically.
 
-(3)[^key-e42896faaff314f007799f03a4d1c1e6] Omit subsection (1ZA).
+(3)[^c-e42896faaff314f007799f03a4d1c1e6] Omit subsection (1ZA).
 
 (4) After subsection (2) insert—
 
@@ -339,11 +339,11 @@ summary: ''
 >
 > (6) A statutory instrument containing regulations under subsection (3) must not be made unless a draft of the instrument has been laid before and approved by resolution of Senedd Cymru.
 
-**18.**[^key-74fcc21951e075829e408bc4b369233b] In Schedule 7 to the Environment Act 1995 (c. 25) (National Park authorities), in paragraph 17(2)(d) (application of provisions of the 1972 Act about service and authentication of documents to National Park authorities) for “to 234” substitute “ , 232 (other than subsection (1)(c)), 233 and 234 ”.
+**18.**[^c-74fcc21951e075829e408bc4b369233b] In Schedule 7 to the Environment Act 1995 (c. 25) (National Park authorities), in paragraph 17(2)(d) (application of provisions of the 1972 Act about service and authentication of documents to National Park authorities) for “to 234” substitute “ , 232 (other than subsection (1)(c)), 233 and 234 ”.
 
 #### Electronic service of summonses on members to attend local authority meetings
 
-**19.**[^key-a5be83fc8abfb7d49e00111c1657d5a4] (1) Schedule 12 to the 1972 Act is amended as follows.
+**19.**[^c-a5be83fc8abfb7d49e00111c1657d5a4] (1) Schedule 12 to the 1972 Act is amended as follows.
 
 (2) In paragraph 4(2)(b) (summonses to meetings of principal councils)—
 
@@ -369,7 +369,7 @@ summary: ''
 
 #### Venue for community council meetings
 
-**20.**[^key-fb4d824ddc85a7cfb57d1794985d1da0] (1) In paragraph 26 of Schedule 12 to the 1972 Act, for sub-paragraph (1) substitute—
+**20.**[^c-fb4d824ddc85a7cfb57d1794985d1da0] (1) In paragraph 26 of Schedule 12 to the 1972 Act, for sub-paragraph (1) substitute—
 
 > (1) Meetings of the community council and its committees and sub-committees are to be held at such place, either within or outside the council's area, as the council may direct.
 
@@ -377,7 +377,7 @@ summary: ''
 
 #### Notices of community council committee and sub-committee meetings to be published
 
-**21.**[^key-335a3b6560b0b95a0af816277746d325] In paragraph 26 of Schedule 12 to the 1972 Act, after sub-paragraph (2C) (inserted by paragraph 19(6) of this Schedule) insert—
+**21.**[^c-335a3b6560b0b95a0af816277746d325] In paragraph 26 of Schedule 12 to the 1972 Act, after sub-paragraph (2C) (inserted by paragraph 19(6) of this Schedule) insert—
 
 > (2D) At least three clear days before a meeting of a committee or sub-committee of a community council, notice of the time and place of the intended meeting must be published electronically and fixed in a conspicuous place in the community.
 >
@@ -385,13 +385,13 @@ summary: ''
 
 #### Saving provision
 
-**22.**[^key-41f1f42b1aca62db3f75fade0e56dae5] Sections 100A to 100D and 100H of the 1972 Act apply to community health councils and community health committees in accordance with section 1 of the Community Health Councils (Access to Information) Act 1988 (c. 24) (access to meetings and documents of community health councils) as if the amendments made by paragraphs 1, 2 and 6 to 10 of this Schedule had not been made.
+**22.**[^c-41f1f42b1aca62db3f75fade0e56dae5] Sections 100A to 100D and 100H of the 1972 Act apply to community health councils and community health committees in accordance with section 1 of the Community Health Councils (Access to Information) Act 1988 (c. 24) (access to meetings and documents of community health councils) as if the amendments made by paragraphs 1, 2 and 6 to 10 of this Schedule had not been made.
 
 ### PART 2 — Attendance at local authority meetings: consequential amendments
 
 #### Attendance at local authority meetings: amendments consequential on section 47
 
-**23.**[^key-8561f61be80e963f7666f277febae97f] (1) In Part 4 of Schedule 12 to the 1972 Act (community council meetings), in paragraph 29 for sub-paragraph (1) substitute—
+**23.**[^c-8561f61be80e963f7666f277febae97f] (1) In Part 4 of Schedule 12 to the 1972 Act (community council meetings), in paragraph 29 for sub-paragraph (1) substitute—
 
 > (1) The manner of voting at meetings of a community council is to be decided by the council, but (if a vote is necessary on the question) the proper officer is to determine the manner of voting on that decision; if agreement cannot be reached, the proper officer is to determine the manner of voting on all other matters.
 
@@ -407,50 +407,50 @@ summary: ''
 
 ## Annotations
 
-[^key-b33e6bb2c3dc676f586f77ee963806f6]: Commencement: Sch. 4 para. 1 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
+[^c-b33e6bb2c3dc676f586f77ee963806f6]: Commencement: Sch. 4 para. 1 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
 
-[^key-e7b806d1336d5378fde79dc01682fc0b]: Commencement: Sch. 4 para. 2 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
+[^c-e7b806d1336d5378fde79dc01682fc0b]: Commencement: Sch. 4 para. 2 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
 
-[^key-2d8ff51b2220195da1fd54b1f51bca17]: Commencement: Sch. 4 para. 3 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
+[^c-2d8ff51b2220195da1fd54b1f51bca17]: Commencement: Sch. 4 para. 3 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
 
-[^key-5d5525ee07fdddb4895ddfd231b0c6fd]: Commencement: Sch. 4 para. 4 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
+[^c-5d5525ee07fdddb4895ddfd231b0c6fd]: Commencement: Sch. 4 para. 4 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
 
-[^key-177e73b97e59342091b0e40e0f889b4b]: Commencement: Sch. 4 para. 5 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-177e73b97e59342091b0e40e0f889b4b]: Commencement: Sch. 4 para. 5 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-5f70903ad729379fa29e08d1ff18523b]: Commencement: Sch. 4 para. 6 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-5f70903ad729379fa29e08d1ff18523b]: Commencement: Sch. 4 para. 6 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-ee1f27495e8f9b43d55b0751b16a0d66]: Commencement: Sch. 4 para. 7 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-ee1f27495e8f9b43d55b0751b16a0d66]: Commencement: Sch. 4 para. 7 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-4b18e46d51579de8c12aafe504ff08c8]: Commencement: Sch. 4 para. 8 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-4b18e46d51579de8c12aafe504ff08c8]: Commencement: Sch. 4 para. 8 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-081f0489197a131d35fb5f59bf9a718a]: Commencement: Sch. 4 para. 9 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-081f0489197a131d35fb5f59bf9a718a]: Commencement: Sch. 4 para. 9 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-83032d1d59c4d9b292081ad55e621f53]: Commencement: Sch. 4 para. 10 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-83032d1d59c4d9b292081ad55e621f53]: Commencement: Sch. 4 para. 10 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-3da5d015b5ef355d11df5e6171568a5d]: Commencement: Sch. 4 para. 11 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-3da5d015b5ef355d11df5e6171568a5d]: Commencement: Sch. 4 para. 11 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-d7c7a07c1c4c8abbc0cd87c088af1b3e]: Commencement: Sch. 4 para. 12 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-d7c7a07c1c4c8abbc0cd87c088af1b3e]: Commencement: Sch. 4 para. 12 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-5eacd399c60ef82243552eb1aad32a33]: Commencement: Sch. 4 para. 13 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-5eacd399c60ef82243552eb1aad32a33]: Commencement: Sch. 4 para. 13 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-912eb793725593fe4486b0db460a830c]: Commencement: Sch. 4 para. 14 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-912eb793725593fe4486b0db460a830c]: Commencement: Sch. 4 para. 14 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-031fa84b03016b0d961cc45199968d50]: Commencement: Sch. 4 para. 15 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-031fa84b03016b0d961cc45199968d50]: Commencement: Sch. 4 para. 15 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-d6c1e8f299acf2a517c567778256ef28]: Commencement: Sch. 4 para. 16 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
+[^c-d6c1e8f299acf2a517c567778256ef28]: Commencement: Sch. 4 para. 16 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
 
 [^c24533071]: Commencement: Sch. 4 para. 17(4) in force at 21.1.2021, see [s. 175(1)(c)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/c)
 
-[^key-e42896faaff314f007799f03a4d1c1e6]: Commencement: Sch. 4 para. 17(1)-(3) in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
+[^c-e42896faaff314f007799f03a4d1c1e6]: Commencement: Sch. 4 para. 17(1)-(3) in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
 
-[^key-74fcc21951e075829e408bc4b369233b]: Commencement: Sch. 4 para. 18 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
+[^c-74fcc21951e075829e408bc4b369233b]: Commencement: Sch. 4 para. 18 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
 
-[^key-a5be83fc8abfb7d49e00111c1657d5a4]: Commencement: Sch. 4 para. 19 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-a5be83fc8abfb7d49e00111c1657d5a4]: Commencement: Sch. 4 para. 19 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-fb4d824ddc85a7cfb57d1794985d1da0]: Commencement: Sch. 4 para. 20 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-fb4d824ddc85a7cfb57d1794985d1da0]: Commencement: Sch. 4 para. 20 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-335a3b6560b0b95a0af816277746d325]: Commencement: Sch. 4 para. 21 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
+[^c-335a3b6560b0b95a0af816277746d325]: Commencement: Sch. 4 para. 21 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2021/354/article/3))
 
-[^key-41f1f42b1aca62db3f75fade0e56dae5]: Commencement: Sch. 4 para. 22 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
+[^c-41f1f42b1aca62db3f75fade0e56dae5]: Commencement: Sch. 4 para. 22 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
 
-[^key-8561f61be80e963f7666f277febae97f]: Commencement: Sch. 4 para. 23 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)
+[^c-8561f61be80e963f7666f277febae97f]: Commencement: Sch. 4 para. 23 in force at 1.5.2021 by [S.I. 2021/354](https://www.legislation.gov.uk/uksi/2021/354), [art. 2(c)](https://www.legislation.gov.uk/uksi/2021/354/article/2/c)

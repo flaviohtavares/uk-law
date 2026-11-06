@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Amendment of the Criminal Justice and Police Act 2001[^key-3e9dcb8e15f7d8dec79a675e5d973168][^key-e110c2966f14d728e91ebc10f5427cec]
+## 27. Amendment of the Criminal Justice and Police Act 2001[^c-3e9dcb8e15f7d8dec79a675e5d973168][^c-e110c2966f14d728e91ebc10f5427cec]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e9dcb8e15f7d8dec79a675e5d973168]: Commencement: S. 27 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-3e9dcb8e15f7d8dec79a675e5d973168]: Commencement: S. 27 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-e110c2966f14d728e91ebc10f5427cec]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2025/31/section/27) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)
+[^c-e110c2966f14d728e91ebc10f5427cec]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2025/31/section/27) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)

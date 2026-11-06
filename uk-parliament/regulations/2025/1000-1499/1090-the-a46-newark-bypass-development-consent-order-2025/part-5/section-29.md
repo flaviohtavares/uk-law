@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Compulsory acquisition of rights and imposition of restrictive covenants[^key-cdfdc6dfd9df6c6b34086e92cb0e06c6]
+## 29. Compulsory acquisition of rights and imposition of restrictive covenants[^c-cdfdc6dfd9df6c6b34086e92cb0e06c6]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cdfdc6dfd9df6c6b34086e92cb0e06c6]: Commencement: Art. 29 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-cdfdc6dfd9df6c6b34086e92cb0e06c6]: Commencement: Art. 29 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00071]: Footnote: Section 8 was amended by paragraphs 1 and 2 of Schedule 17 to the Housing and Planning Act 2016 and by [S.I. 2009/1307](https://www.legislation.gov.uk/uksi/2009/1307).
 

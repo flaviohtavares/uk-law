@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Appeal body[^key-0bebe6da37cfd7819de46b222ed7372f]
+## 71. Appeal body[^c-0bebe6da37cfd7819de46b222ed7372f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,11 +26,11 @@ summary: ''
 
 (3) In an appeal against any other decision, the appeal body is the First-tier Tribunal [^c24438271].
 
-(4)[^key-1952ae77a6adac16303da33aa5b14bdc] For the purposes of determining the appeal body to which an appeal against a decision or notice of the registry administrator must be made, the decision or notice must be treated as the decision or notice of the person (or if more than one, any one of them) exercising the functions of the registry administrator in accordance with article 8A(2) to make the decision or give the notice, as set out in the decision or notice.
+(4)[^c-1952ae77a6adac16303da33aa5b14bdc] For the purposes of determining the appeal body to which an appeal against a decision or notice of the registry administrator must be made, the decision or notice must be treated as the decision or notice of the person (or if more than one, any one of them) exercising the functions of the registry administrator in accordance with article 8A(2) to make the decision or give the notice, as set out in the decision or notice.
 
 ## Annotations
 
-[^key-0bebe6da37cfd7819de46b222ed7372f]: Commencement: Art. 71 in force at 12.11.2020, see art. 2(1)
+[^c-0bebe6da37cfd7819de46b222ed7372f]: Commencement: Art. 71 in force at 12.11.2020, see art. 2(1)
 
 [^c24438251]: Marginal citation: The Scottish Land Court was established by section 3 of the [Small Landholders (Scotland) Act 1911 (c. 49)](https://www.legislation.gov.uk/ukpga/1911/49) and continued in being under section 1 of the [Scottish Land Court Act 1993 (c. 45)](https://www.legislation.gov.uk/ukpga/1993/45).
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c24438271]: Marginal citation: The First-tier Tribunal was established by section 3(1) of the [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15).
 
-[^key-1952ae77a6adac16303da33aa5b14bdc]: Textual amendment: [Art. 71(4)](https://www.legislation.gov.uk/uksi/2020/1265/article/71/4) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [28(2)](https://www.legislation.gov.uk/uksi/2020/1557/article/28/2)
+[^c-1952ae77a6adac16303da33aa5b14bdc]: Textual amendment: [Art. 71(4)](https://www.legislation.gov.uk/uksi/2020/1265/article/71/4) inserted (31.12.2020) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2020 (S.I. 2020/1557)](https://www.legislation.gov.uk/uksi/2020/1557), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1), [28(2)](https://www.legislation.gov.uk/uksi/2020/1557/article/28/2)

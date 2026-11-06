@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Right of appeal[^key-42ab99fd4a7402df64e59d49882b6cf0]
+## 7. Right of appeal[^c-42ab99fd4a7402df64e59d49882b6cf0]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42ab99fd4a7402df64e59d49882b6cf0]: Commencement: Reg. 7 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)
+[^c-42ab99fd4a7402df64e59d49882b6cf0]: Commencement: Reg. 7 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/494/regulation/1)

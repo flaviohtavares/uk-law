@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 92. Offence of pretending to be a member of Faculty of Advocates[^key-d23a12185a8c38e629fd09504baec4b6]
+## 92. Offence of pretending to be a member of Faculty of Advocates[^c-d23a12185a8c38e629fd09504baec4b6]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d23a12185a8c38e629fd09504baec4b6]: Commencement: S. 92 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-d23a12185a8c38e629fd09504baec4b6]: Commencement: S. 92 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

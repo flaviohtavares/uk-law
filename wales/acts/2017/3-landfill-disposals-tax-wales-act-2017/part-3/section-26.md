@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Reliefs: general[^key-600889cbd5fa2a550ded6ff84793248c]
+## 26. Reliefs: general[^c-600889cbd5fa2a550ded6ff84793248c]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-600889cbd5fa2a550ded6ff84793248c]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2017/3/section/26) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/35/article/2/d)
+[^c-600889cbd5fa2a550ded6ff84793248c]: Commencement: [S. 26](https://www.legislation.gov.uk/anaw/2017/3/section/26) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/35/article/2/d)

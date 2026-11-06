@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65A. Retrospective application of certain offences[^key-c248525f8f5c6871ba4f49e846bc8be2]
+## 65A. Retrospective application of certain offences[^c-c248525f8f5c6871ba4f49e846bc8be2]
 
 *Extent: E+W+N.I.*
 
@@ -53,4 +53,4 @@ unless, at the time the person engaged in the conduct, it amounted in the circum
 
 ## Annotations
 
-[^key-c248525f8f5c6871ba4f49e846bc8be2]: Textual amendment: Ss. 65A, 65B inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2009/25/section/70/3), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/3)
+[^c-c248525f8f5c6871ba4f49e846bc8be2]: Textual amendment: Ss. 65A, 65B inserted (6.4.2010) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [ss. 70(3)](https://www.legislation.gov.uk/ukpga/2009/25/section/70/3), [182(5)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/5) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180), [Sch. 22](https://www.legislation.gov.uk/ukpga/2009/25/schedule/22)); [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/3)

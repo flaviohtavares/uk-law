@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Qualifying benefits[^c24458071][^key-22f61a3e3ad4dc7744eb48ec07abfdf8][^key-1e5f19bfae12d3f35e6466b0968f2239]
+## 2. Qualifying benefits[^c24458071][^c-22f61a3e3ad4dc7744eb48ec07abfdf8][^c-1e5f19bfae12d3f35e6466b0968f2239]
 
 *Extent: E+W+S*
 
@@ -44,6 +44,6 @@ summary: ''
 
 [^c24458071]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/1/section/2) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-22f61a3e3ad4dc7744eb48ec07abfdf8]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2021/1/section/2): power to amend conferred (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in force) by 2011 c. 19, s. 32(1)(b) (as inserted by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 6(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/1/section/6/2/a/ii), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a))
+[^c-22f61a3e3ad4dc7744eb48ec07abfdf8]: Modification: [S. 2](https://www.legislation.gov.uk/ukpga/2021/1/section/2): power to amend conferred (11.2.2021 for specified purposes, 1.8.2022 in so far as not already in force) by 2011 c. 19, s. 32(1)(b) (as inserted by [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 6(2)(a)(ii)](https://www.legislation.gov.uk/ukpga/2021/1/section/6/2/a/ii), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1)[(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a))
 
-[^key-1e5f19bfae12d3f35e6466b0968f2239]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/1/section/2) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-1e5f19bfae12d3f35e6466b0968f2239]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2021/1/section/2) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

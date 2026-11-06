@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Funding of employers’ liabilities in respect of statutory maternity pay[^key-c3debe4e21c983ccf0c05fd6362d437b]
+## 163. Funding of employers’ liabilities in respect of statutory maternity pay[^c-c3debe4e21c983ccf0c05fd6362d437b]
 
 *Extent: N.I.*
 
@@ -62,4 +62,4 @@ towards discharging the employer’s liability in respect of such contributions.
 
 ## Annotations
 
-[^key-c3debe4e21c983ccf0c05fd6362d437b]: Textual amendment: [S. 163](https://www.legislation.gov.uk/ukpga/1992/7/section/163) substituted (6.4.2003) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/21/2), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3)
+[^c-c3debe4e21c983ccf0c05fd6362d437b]: Textual amendment: [S. 163](https://www.legislation.gov.uk/ukpga/1992/7/section/163) substituted (6.4.2003) by [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [ss. 21(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/21/2), [55(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/55/2); [S.I. 2002/2866](https://www.legislation.gov.uk/uksi/2002/2866), [art. 2(3)](https://www.legislation.gov.uk/uksi/2002/2866/article/2/3), [Sch. 1 Pt. 3](https://www.legislation.gov.uk/uksi/2002/2866/schedule/1/part/3)

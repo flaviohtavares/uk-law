@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Transfer of property[^c10579681][^key-d852869008c4bebc36d15f8ca269d40b]
+## SCHEDULE 3 — Transfer of property[^c10579681][^c-d852869008c4bebc36d15f8ca269d40b]
 
 *Extent: E+W*
 
@@ -41,12 +41,12 @@ Section 19.
 
 **4.** Paragraphs 2 and 3 apply in relation to the creation of rights or interests, or the doing of anything else, in relation to property as they apply in relation to a transfer of property; and references to the transferor and transferee are to be read accordingly.
 
-**5.** A certificate issued by the Secretary of State[^key-5e6b964c9bc9dadb15b403979ca95630] that any property or liability has, or has not, been transferred by virtue of a scheme is conclusive evidence of the transfer or (as the case may be) the fact that there has not been a transfer.
+**5.** A certificate issued by the Secretary of State[^c-5e6b964c9bc9dadb15b403979ca95630] that any property or liability has, or has not, been transferred by virtue of a scheme is conclusive evidence of the transfer or (as the case may be) the fact that there has not been a transfer.
 
 ## Annotations
 
 [^c10579681]: Commencement: Sch. 3: s. 19 (which induces Sch. 3) wholly in force at Royal Assent; Sch. 3 expressed to be bought into force at 1.4.2001 by [S.I. 2001/919](https://www.legislation.gov.uk/uksi/2001/919), [art. 2(e)](https://www.legislation.gov.uk/uksi/2001/919/article/2/e)
 
-[^key-d852869008c4bebc36d15f8ca269d40b]: Modification: Sch. 3: transfer of functions (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [3](https://www.legislation.gov.uk/uksi/2003/3191/article/3), [4](https://www.legislation.gov.uk/uksi/2003/3191/article/4)
+[^c-d852869008c4bebc36d15f8ca269d40b]: Modification: Sch. 3: transfer of functions (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [3](https://www.legislation.gov.uk/uksi/2003/3191/article/3), [4](https://www.legislation.gov.uk/uksi/2003/3191/article/4)
 
-[^key-5e6b964c9bc9dadb15b403979ca95630]: Textual amendment: Words in Sch. 3 para. 5 substituted (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2003/3191/schedule/paragraph/4/2)
+[^c-5e6b964c9bc9dadb15b403979ca95630]: Textual amendment: Words in Sch. 3 para. 5 substituted (12.1.2004) by [The Transfer of Functions (Children, Young People and Families) Order 2003 (S.I. 2003/3191)](https://www.legislation.gov.uk/uksi/2003/3191), [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/3191/article/1/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2003/3191/schedule/paragraph/4/2)

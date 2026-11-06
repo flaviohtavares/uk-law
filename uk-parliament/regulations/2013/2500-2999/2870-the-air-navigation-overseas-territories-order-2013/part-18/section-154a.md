@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154A. Aeronautical telecommunications service security programme[^key-ba2cc522766177e0446ee92241b731e8]
+## 154A. Aeronautical telecommunications service security programme[^c-ba2cc522766177e0446ee92241b731e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The person in charge of an aeronautical telecommunications service must establis
 
 ## Annotations
 
-[^key-ba2cc522766177e0446ee92241b731e8]: Textual amendment: [Art. 154A](https://www.legislation.gov.uk/uksi/2013/2870/article/154A) inserted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [9](https://www.legislation.gov.uk/uksi/2014/2925/article/9)
+[^c-ba2cc522766177e0446ee92241b731e8]: Textual amendment: [Art. 154A](https://www.legislation.gov.uk/uksi/2013/2870/article/154A) inserted (1.4.2015) by [The Air Navigation (Overseas Territories) (Amendment) Order 2014 (S.I. 2014/2925)](https://www.legislation.gov.uk/uksi/2014/2925), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2925/article/1/1), [9](https://www.legislation.gov.uk/uksi/2014/2925/article/9)

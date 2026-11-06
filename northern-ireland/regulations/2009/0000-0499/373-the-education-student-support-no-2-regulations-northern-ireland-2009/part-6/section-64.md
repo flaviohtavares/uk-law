@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 64. Qualifying conditions for the loan for living costs – old system students[^key-2bc46b82d750bc260bfbbcb7786f8294]
+## 64. Qualifying conditions for the loan for living costs – old system students[^c-2bc46b82d750bc260bfbbcb7786f8294]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bc46b82d750bc260bfbbcb7786f8294]: Textual amendment: [Reg. 64](https://www.legislation.gov.uk/nisr/2009/373/regulation/64) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [8(b)](https://www.legislation.gov.uk/nisr/2022/75/regulation/8/b)
+[^c-2bc46b82d750bc260bfbbcb7786f8294]: Textual amendment: [Reg. 64](https://www.legislation.gov.uk/nisr/2009/373/regulation/64) omitted (24.3.2022) by virtue of [The Education (Student Support, etc.) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/75)](https://www.legislation.gov.uk/nisr/2022/75), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/75/regulation/1/2), [8(b)](https://www.legislation.gov.uk/nisr/2022/75/regulation/8/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5.[^key-1ee605df53dfd0af89405a13ab03497f]
+## 5.[^c-1ee605df53dfd0af89405a13ab03497f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 12 (dispositions allowable for income tax or conferring retirement be
 
 ## Annotations
 
-[^key-1ee605df53dfd0af89405a13ab03497f]: Commencement: Reg. 5 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-1ee605df53dfd0af89405a13ab03497f]: Commencement: Reg. 5 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

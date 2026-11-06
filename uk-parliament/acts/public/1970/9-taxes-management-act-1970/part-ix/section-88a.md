@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88A. Determinations under section 88.[^key-8f9c7799018118014666ef4af24b3d95]
+## 88A. Determinations under section 88.[^c-8f9c7799018118014666ef4af24b3d95]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f9c7799018118014666ef4af24b3d95]: Textual amendment: S. 88A repealed (with effect in accordance with Sch. 18 para. 17 of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 18 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/4/2/a), [Sch. 41 Pt. 5(8)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/8)
+[^c-8f9c7799018118014666ef4af24b3d95]: Textual amendment: S. 88A repealed (with effect in accordance with Sch. 18 para. 17 of the amending Act) by [Finance Act 1996 (c. 8)](https://www.legislation.gov.uk/ukpga/1996/8), [Sch. 18 para. 4(2)(a)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/18/paragraph/4/2/a), [Sch. 41 Pt. 5(8)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/8)

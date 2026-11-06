@@ -41,7 +41,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred by Articles 28J(5) and 48(4) of the Child Support (Northern Ireland) Order 1991[^f00001] and now vested in it[^f00002], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-80261bd9203db6a9335d6d11bd4e0e9e]
+## 1. Citation, commencement and interpretation[^c-80261bd9203db6a9335d6d11bd4e0e9e]
 
 (1) These Regulations may be cited as the Child Support (Voluntary Payments) Regulations (Northern Ireland) 2001 and shall come into operation on the day on which Article 28J of the Order comes into operation.
 
@@ -49,28 +49,28 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 - “the Order” means the Child Support (Northern Ireland) Order 1991;
 - “debit card” means a card, operating as a substitute for a cheque, that can be used to obtain cash or to make a payment at a point of sale whereby the card holder’s bank or building society account is debited without deferment of payment;
-- [^key-8f9ab89cea4dc086ea5d27ca61179f40]...[^f00003]
-- “the qualifying child’s home” means the home in which the qualifying child resides with the person with care [^key-8f9ab89cea4dc086ea5d27ca61179f40]...; and
+- [^c-8f9ab89cea4dc086ea5d27ca61179f40]...[^f00003]
+- “the qualifying child’s home” means the home in which the qualifying child resides with the person with care [^c-8f9ab89cea4dc086ea5d27ca61179f40]...; and
 - “relevant person” means—
   - (a) a person with care;
   - (b) a non-resident parent;
-  - (c) a parent who is treated as a non-resident parent under regulation 49 of the Child Support Maintenance Calculation Regulations (Northern Ireland) 2012[^key-ec8250a795b3a63e419145863d000b04] ,
+  - (c) a parent who is treated as a non-resident parent under regulation 49 of the Child Support Maintenance Calculation Regulations (Northern Ireland) 2012[^c-ec8250a795b3a63e419145863d000b04] ,
 
-  in respect of whom a maintenance calculation has been applied for, [^key-d6888888ff32033a2679ec55e3777b9e]...or is or has been in force.
-- “water charges” means any water and sewerage charges under Chapter I of Part VII of the Water and Sewerage Services (Northern Ireland) Order 2006 in so far as such charges are in respect of the dwelling which a person occupies as his home.[^key-32eb6bf3902fd952ebb0d70e30dc5b66]
+  in respect of whom a maintenance calculation has been applied for, [^c-d6888888ff32033a2679ec55e3777b9e]...or is or has been in force.
+- “water charges” means any water and sewerage charges under Chapter I of Part VII of the Water and Sewerage Services (Northern Ireland) Order 2006 in so far as such charges are in respect of the dwelling which a person occupies as his home.[^c-32eb6bf3902fd952ebb0d70e30dc5b66]
 
-## 2. Voluntary payment[^key-7225970d1eba9f1072f1ed5799c30639]
+## 2. Voluntary payment[^c-7225970d1eba9f1072f1ed5799c30639]
 
 (1) A payment counts as a voluntary payment if it is—
 
 - (a) made in accordance with Article 28J(2) and (4) of the Order;
 - (b) of a type to which regulation 3 applies;
-- (c) made on or after the effective date of the maintenance calculation made, or which would be made but for the Department’s decision not to make one[^key-8ba6254af77abc835279539e5aeae7a2]...[^f00005];
+- (c) made on or after the effective date of the maintenance calculation made, or which would be made but for the Department’s decision not to make one[^c-8ba6254af77abc835279539e5aeae7a2]...[^f00005];
 - (d) a payment in relation to which evidence or verification of a type to which regulation 4 applies is provided, if the Department so requires.
 
 (2) Where the Department is considering whether a payment is a voluntary payment, it may invite representations from a relevant person.
 
-## 3. Types of payment[^key-2084ac1f554c7b54f6ead1a307d1242a]
+## 3. Types of payment[^c-2084ac1f554c7b54f6ead1a307d1242a]
 
 This regulation applies to a payment made by the non-resident parent—
 
@@ -85,12 +85,12 @@ This regulation applies to a payment made by the non-resident parent—
   - (i) a payment in lieu of child support maintenance and which is paid to the person with care;
   - (ii) a mortgage or loan taken out on the security of the property which is the qualifying child’s home where that mortgage or loan was taken out to facilitate the purchase of, or to pay for essential repairs or improvements to, that property;
   - (iii) rent on the property which is the qualifying child’s home;
-  - (iv) mains-supplied gas , water[^key-c611317fef698953cc134bb2010f18e4] or electricity charges at the qualifying child’s home;
+  - (iv) mains-supplied gas , water[^c-c611317fef698953cc134bb2010f18e4] or electricity charges at the qualifying child’s home;
   - (v) rates payable by the person with care in relation to the qualifying child’s home;
   - (vi) essential repairs to the heating system in the qualifying child’s home, or
   - (vii) repairs which are essential to maintain the fabric of the qualifying child’s home.
 
-## 4. Evidence or verification of payment[^key-1b7ab1bf58c3e432c5fbb8f3f8ab76f7]
+## 4. Evidence or verification of payment[^c-1b7ab1bf58c3e432c5fbb8f3f8ab76f7]
 
 This regulation applies to—
 
@@ -129,26 +129,26 @@ The impact on business of these Regulations was covered in the Regulatory Impact
 
 [^f00002]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-80261bd9203db6a9335d6d11bd4e0e9e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/21/regulation/1) in operation at 23.1.2001 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/1)
+[^c-80261bd9203db6a9335d6d11bd4e0e9e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/21/regulation/1) in operation at 23.1.2001 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/1)
 
-[^key-8f9ab89cea4dc086ea5d27ca61179f40]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/2) omitted (10.12.2012 for specified purposes) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [7(2)(a)](https://www.legislation.gov.uk/nisr/2012/438/regulation/7/2/a)[(b)](https://www.legislation.gov.uk/nisr/2012/438/regulation/7/2/b)
+[^c-8f9ab89cea4dc086ea5d27ca61179f40]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/2) omitted (10.12.2012 for specified purposes) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [7(2)(a)](https://www.legislation.gov.uk/nisr/2012/438/regulation/7/2/a)[(b)](https://www.legislation.gov.uk/nisr/2012/438/regulation/7/2/b)
 
 [^f00003]: Footnote: [S.R. 2001 No. 18](https://www.legislation.gov.uk/nisr/2001/18)
 
-[^key-ec8250a795b3a63e419145863d000b04]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/2) substituted (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [7(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/7/c)
+[^c-ec8250a795b3a63e419145863d000b04]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/2) substituted (10.12.2012 for specified purposes) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [7(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/7/c)
 
-[^key-d6888888ff32033a2679ec55e3777b9e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/2) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/404)](https://www.legislation.gov.uk/nisr/2008/404), [regs. 1](https://www.legislation.gov.uk/nisr/2008/404/regulation/1), [9](https://www.legislation.gov.uk/nisr/2008/404/regulation/9)
+[^c-d6888888ff32033a2679ec55e3777b9e]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/2) omitted (27.10.2008) by virtue of [The Child Support (Consequential Provisions) Regulations (Northern Ireland) 2008 (S.R. 2008/404)](https://www.legislation.gov.uk/nisr/2008/404), [regs. 1](https://www.legislation.gov.uk/nisr/2008/404/regulation/1), [9](https://www.legislation.gov.uk/nisr/2008/404/regulation/9)
 
-[^key-32eb6bf3902fd952ebb0d70e30dc5b66]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/2) added (2.4.2007) by [The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/196)](https://www.legislation.gov.uk/nisr/2007/196), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1), [5(2)](https://www.legislation.gov.uk/nisr/2007/196/regulation/5/2)
+[^c-32eb6bf3902fd952ebb0d70e30dc5b66]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/2) added (2.4.2007) by [The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/196)](https://www.legislation.gov.uk/nisr/2007/196), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1), [5(2)](https://www.legislation.gov.uk/nisr/2007/196/regulation/5/2)
 
-[^key-7225970d1eba9f1072f1ed5799c30639]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/21/regulation/2) in operation at 23.1.2001 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/1)
+[^c-7225970d1eba9f1072f1ed5799c30639]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/21/regulation/2) in operation at 23.1.2001 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/1)
 
-[^key-8ba6254af77abc835279539e5aeae7a2]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/nisr/2001/21/regulation/2/1/c) omitted (10.12.2012 for specified purposes) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [7(3)](https://www.legislation.gov.uk/nisr/2012/438/regulation/7/3)
+[^c-8ba6254af77abc835279539e5aeae7a2]: Textual amendment: Words in [reg. 2(1)(c)](https://www.legislation.gov.uk/nisr/2001/21/regulation/2/1/c) omitted (10.12.2012 for specified purposes) by virtue of [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [7(3)](https://www.legislation.gov.uk/nisr/2012/438/regulation/7/3)
 
 [^f00005]: Footnote: [S.R. 2001 No. 17](https://www.legislation.gov.uk/nisr/2001/17)
 
-[^key-2084ac1f554c7b54f6ead1a307d1242a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/21/regulation/3) in operation at 23.1.2001 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/1)
+[^c-2084ac1f554c7b54f6ead1a307d1242a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2001/21/regulation/3) in operation at 23.1.2001 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/1)
 
-[^key-c611317fef698953cc134bb2010f18e4]: Textual amendment: Words in [reg. 3(b)(iv)](https://www.legislation.gov.uk/nisr/2001/21/regulation/3/b/iv) inserted (2.4.2007) by [The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/196)](https://www.legislation.gov.uk/nisr/2007/196), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2007/196/regulation/5/3)
+[^c-c611317fef698953cc134bb2010f18e4]: Textual amendment: Words in [reg. 3(b)(iv)](https://www.legislation.gov.uk/nisr/2001/21/regulation/3/b/iv) inserted (2.4.2007) by [The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/196)](https://www.legislation.gov.uk/nisr/2007/196), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2007/196/regulation/5/3)
 
-[^key-1b7ab1bf58c3e432c5fbb8f3f8ab76f7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/21/regulation/4) in operation at 23.1.2001 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/1)
+[^c-1b7ab1bf58c3e432c5fbb8f3f8ab76f7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2001/21/regulation/4) in operation at 23.1.2001 with effect in accordance with, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/21/regulation/1/1)

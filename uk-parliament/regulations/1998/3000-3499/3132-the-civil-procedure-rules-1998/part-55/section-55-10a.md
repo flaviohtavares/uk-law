@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55.10A. Electronic issue of certain possession claims[^key-10665dfec509fbd4dd7c5f685d12d900][^key-6d372728ca614d30331c2a6aa037d325]
+## 55.10A. Electronic issue of certain possession claims[^c-10665dfec509fbd4dd7c5f685d12d900][^c-6d372728ca614d30331c2a6aa037d325]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-10665dfec509fbd4dd7c5f685d12d900]: Textual amendment: [Rule 55.10A](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.10A) inserted (1.10.2005) by [The Civil Procedure (Amendment No.3) Rules 2005 (S.I. 2005/2292)](https://www.legislation.gov.uk/uksi/2005/2292), [rules 1(c)](https://www.legislation.gov.uk/uksi/2005/2292/rule/1/c), [44](https://www.legislation.gov.uk/uksi/2005/2292/rule/44)
+[^c-10665dfec509fbd4dd7c5f685d12d900]: Textual amendment: [Rule 55.10A](https://www.legislation.gov.uk/uksi/1998/3132/rule/55.10A) inserted (1.10.2005) by [The Civil Procedure (Amendment No.3) Rules 2005 (S.I. 2005/2292)](https://www.legislation.gov.uk/uksi/2005/2292), [rules 1(c)](https://www.legislation.gov.uk/uksi/2005/2292/rule/1/c), [44](https://www.legislation.gov.uk/uksi/2005/2292/rule/44)
 
-[^key-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-6d372728ca614d30331c2a6aa037d325]: Textual amendment: Pt. 55 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/256/schedule/1) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))

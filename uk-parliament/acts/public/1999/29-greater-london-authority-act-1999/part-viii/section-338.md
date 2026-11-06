@@ -44,10 +44,10 @@ summary: ''
 - (a) the fees and expenses of the person appointed to conduct an examination in public; and
 - (b) any other costs of holding an examination in public.
 
-(10)[^key-093b59323be516df2ec913d966799834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-093b59323be516df2ec913d966799834] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c12807461]: Commencement: S.338 wholly in force at 3.7.2000: s. 338 in force at 11.11.1999 for certain purposes see s. 425(2); s. 338 in force at 3.7.2000 in so far as not already in force by [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-093b59323be516df2ec913d966799834]: Textual amendment: S. 338(10) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/19)
+[^c-093b59323be516df2ec913d966799834]: Textual amendment: S. 338(10) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 19](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/19)

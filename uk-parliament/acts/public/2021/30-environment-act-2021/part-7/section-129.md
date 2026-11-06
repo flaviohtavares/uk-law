@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Modification of obligation by agreement[^key-59665d2c1d233b10eb0bd1ed2038b5be][^key-6e0b7bf901f7d144f044c93ce527eb84]
+## 129. Modification of obligation by agreement[^c-59665d2c1d233b10eb0bd1ed2038b5be][^c-6e0b7bf901f7d144f044c93ce527eb84]
 
 *Extent: E+W*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59665d2c1d233b10eb0bd1ed2038b5be]: Commencement: S. 129 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-59665d2c1d233b10eb0bd1ed2038b5be]: Commencement: S. 129 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-6e0b7bf901f7d144f044c93ce527eb84]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2021/30/section/129) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)
+[^c-6e0b7bf901f7d144f044c93ce527eb84]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2021/30/section/129) in force at 30.9.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2022/48/regulation/5/a)

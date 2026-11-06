@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Meaning of “phased retirement additional pension”[^key-66e3868378b9f89a3873b981b9193b9a]
+## 69. Meaning of “phased retirement additional pension”[^c-66e3868378b9f89a3873b981b9193b9a]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ The amount of phased retirement additional pension is the sum of—
 
 ## Annotations
 
-[^key-66e3868378b9f89a3873b981b9193b9a]: Commencement: [Reg. 69](https://www.legislation.gov.uk/ssi/2014/292/regulation/69) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-66e3868378b9f89a3873b981b9193b9a]: Commencement: [Reg. 69](https://www.legislation.gov.uk/ssi/2014/292/regulation/69) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36B. Power to modify scheme in relation to payment of surplus to employer[^key-14f75d0dea23da683e6aaf8d27a67f00]
+## 36B. Power to modify scheme in relation to payment of surplus to employer[^c-14f75d0dea23da683e6aaf8d27a67f00]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14f75d0dea23da683e6aaf8d27a67f00]: Textual amendment: [S. 36B](https://www.legislation.gov.uk/ukpga/1995/26/section/36B) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/9/1), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/3)
+[^c-14f75d0dea23da683e6aaf8d27a67f00]: Textual amendment: [S. 36B](https://www.legislation.gov.uk/ukpga/1995/26/section/36B) inserted (29.4.2026 for specified purposes) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/9/1), [133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)[(3)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/3)

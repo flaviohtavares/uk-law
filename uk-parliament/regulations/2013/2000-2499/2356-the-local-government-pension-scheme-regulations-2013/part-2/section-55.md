@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 55. Administering authorities: governance compliance statement[^key-63c4cd17ae9104360f4ce969cc6c92f1]
+## 55. Administering authorities: governance compliance statement[^c-63c4cd17ae9104360f4ce969cc6c92f1]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63c4cd17ae9104360f4ce969cc6c92f1]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/uksi/2013/2356/regulation/55) omitted (30.6.2026) by virtue of [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2026 (S.I. 2026/545)](https://www.legislation.gov.uk/uksi/2026/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/545/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/545/regulation/4)
+[^c-63c4cd17ae9104360f4ce969cc6c92f1]: Textual amendment: [Reg. 55](https://www.legislation.gov.uk/uksi/2013/2356/regulation/55) omitted (30.6.2026) by virtue of [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2026 (S.I. 2026/545)](https://www.legislation.gov.uk/uksi/2026/545), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/545/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2026/545/regulation/4)

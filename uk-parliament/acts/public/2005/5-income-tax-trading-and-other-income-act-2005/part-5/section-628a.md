@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 628A. Exception for protected foreign-source income[^key-d9063d6eb8f77b14e3f49ccd864cc6d6]
+## 628A. Exception for protected foreign-source income[^c-d9063d6eb8f77b14e3f49ccd864cc6d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d9063d6eb8f77b14e3f49ccd864cc6d6]: Textual amendment: [Ss. 628A-628C](https://www.legislation.gov.uk/ukpga/2005/5/section/628A) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/5), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)
+[^c-d9063d6eb8f77b14e3f49ccd864cc6d6]: Textual amendment: [Ss. 628A-628C](https://www.legislation.gov.uk/ukpga/2005/5/section/628A) omitted (for the tax year 2025-26 and subsequent tax years) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 12 paras. 5](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/5), [70(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/12/paragraph/70/1)

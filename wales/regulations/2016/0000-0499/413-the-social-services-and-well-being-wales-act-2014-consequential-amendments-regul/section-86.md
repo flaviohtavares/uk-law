@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**86.**[^key-73e7d231140097a755c923831f8389dc] In section 25[^f00104] (use of accommodation for restricting liberty)—
+**86.**[^c-73e7d231140097a755c923831f8389dc] In section 25[^f00104] (use of accommodation for restricting liberty)—
 
 - (a) in subsection (1)—
   - (i) after “local authority” insert “or local authority in Wales”;
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-73e7d231140097a755c923831f8389dc]: Commencement: Reg. 86 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-73e7d231140097a755c923831f8389dc]: Commencement: Reg. 86 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00104]: Footnote: Section 25 was amended by the Children and Young Persons Act [2008 (c. 23)](https://www.legislation.gov.uk/ukpga/2008/23), Schedule 3, paragraphs 1 and 15, and by the Legal Aid, Sentencing and Punishment of Offenders Act [2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), Schedule 5, paragraph 38.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18A. Management objectives of the national site network[^key-7b02324c88bf9e9913b07ab51f68e2de]
+## 18A. Management objectives of the national site network[^c-7b02324c88bf9e9913b07ab51f68e2de]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ for achieving a favourable conservation status.
 
 ## Annotations
 
-[^key-7b02324c88bf9e9913b07ab51f68e2de]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/18A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [43](https://www.legislation.gov.uk/uksi/2019/579/regulation/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b02324c88bf9e9913b07ab51f68e2de]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2017/1013/regulation/18A) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [43](https://www.legislation.gov.uk/uksi/2019/579/regulation/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

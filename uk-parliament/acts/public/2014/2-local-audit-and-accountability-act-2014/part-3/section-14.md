@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Limitation of local auditor's liability[^M_I_591d1769-409c-431f-e60a-a54fa2c5a455][^key-c05c3b15de15c6721db1d6000836bb93]
+## 14. Limitation of local auditor's liability[^M_I_591d1769-409c-431f-e60a-a54fa2c5a455][^c-c05c3b15de15c6721db1d6000836bb93]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^M_I_591d1769-409c-431f-e60a-a54fa2c5a455]: Commencement: S. 14 in force at 4.4.2014 for specified purposes by [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), art. 2(b)
 
-[^key-c05c3b15de15c6721db1d6000836bb93]: Commencement: S. 14 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(k)](https://www.legislation.gov.uk/uksi/2015/841/article/3/k)
+[^c-c05c3b15de15c6721db1d6000836bb93]: Commencement: S. 14 in force at 1.4.2015 in so far as not already in force by [S.I. 2015/841](https://www.legislation.gov.uk/uksi/2015/841), [art. 3(k)](https://www.legislation.gov.uk/uksi/2015/841/article/3/k)

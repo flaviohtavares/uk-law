@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Area navigation and required navigation performance capabilities – aircraft registered in the Territory[^key-b9853c6dad9fdc04ee741e0b12898267]
+## 89. Area navigation and required navigation performance capabilities – aircraft registered in the Territory[^c-b9853c6dad9fdc04ee741e0b12898267]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9853c6dad9fdc04ee741e0b12898267]: Commencement: [Art. 89](https://www.legislation.gov.uk/uksi/2013/2870/article/89) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-b9853c6dad9fdc04ee741e0b12898267]: Commencement: [Art. 89](https://www.legislation.gov.uk/uksi/2013/2870/article/89) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

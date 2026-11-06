@@ -32,7 +32,7 @@ summary: ''
 
 Housing
 
-The Private Landlord Registration (Information and Fees) (Scotland) Amendment Regulations 2012 (revoked)[^key-f9fb78b07d334a3938c728079cb8d950]
+The Private Landlord Registration (Information and Fees) (Scotland) Amendment Regulations 2012 (revoked)[^c-f9fb78b07d334a3938c728079cb8d950]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st July 2012
 
-[^key-f9fb78b07d334a3938c728079cb8d950]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9fb78b07d334a3938c728079cb8d950]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f9fb78b07d334a3938c728079cb8d950]
+## 1. Citation, commencement and interpretation[^c-f9fb78b07d334a3938c728079cb8d950]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2005 Regulations[^key-f9fb78b07d334a3938c728079cb8d950]
+## 2. Amendment of the 2005 Regulations[^c-f9fb78b07d334a3938c728079cb8d950]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-f9fb78b07d334a3938c728079cb8d950]
+## 3.[^c-f9fb78b07d334a3938c728079cb8d950]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-f9fb78b07d334a3938c728079cb8d950]
+## 4.[^c-f9fb78b07d334a3938c728079cb8d950]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Saving provision[^key-f9fb78b07d334a3938c728079cb8d950]
+## 5. Saving provision[^c-f9fb78b07d334a3938c728079cb8d950]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9fb78b07d334a3938c728079cb8d950]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9fb78b07d334a3938c728079cb8d950]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f9fb78b07d334a3938c728079cb8d950]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9fb78b07d334a3938c728079cb8d950]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f9fb78b07d334a3938c728079cb8d950]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/151) revoked (16.9.2019 at 0900 hours) by [The Private Landlord Registration (Information) (Scotland) Regulations 2019 (S.S.I. 2019/195)](https://www.legislation.gov.uk/ssi/2019/195), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2019/195/schedule/part/2)
+[^c-f9fb78b07d334a3938c728079cb8d950]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2012/151) revoked (16.9.2019 at 0900 hours) by [The Private Landlord Registration (Information) (Scotland) Regulations 2019 (S.S.I. 2019/195)](https://www.legislation.gov.uk/ssi/2019/195), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2019/195/schedule/part/2)

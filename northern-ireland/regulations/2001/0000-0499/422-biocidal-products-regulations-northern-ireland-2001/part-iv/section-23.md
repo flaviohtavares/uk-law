@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Data protection for active substances[^key-d13fb4ecb15ec4106404c5a00ed18de4]
+## 23. Data protection for active substances[^c-d13fb4ecb15ec4106404c5a00ed18de4]
 
 *Extent: N.I.*
 
@@ -80,7 +80,7 @@ whichever is the later.
 
 ## Annotations
 
-[^key-d13fb4ecb15ec4106404c5a00ed18de4]: Commencement: Reg. 23 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-d13fb4ecb15ec4106404c5a00ed18de4]: Commencement: Reg. 23 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
 
 [^f00019]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48), as amended by [1989 c. 27](https://www.legislation.gov.uk/ukpga/1989/27) and [1998 c. 26](https://www.legislation.gov.uk/ukpga/1998/26)
 

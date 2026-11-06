@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Authorisation of insolvency practitioners[^key-b09bb01fc8be1cc5d4a124b905a5201e]
+## 14. Authorisation of insolvency practitioners[^c-b09bb01fc8be1cc5d4a124b905a5201e]
 
 *Extent: N.I.*
 
@@ -177,4 +177,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b09bb01fc8be1cc5d4a124b905a5201e]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/2/section/14) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)
+[^c-b09bb01fc8be1cc5d4a124b905a5201e]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/2/section/14) in operation at 1.4.2016 by [S.R. 2016/203](https://www.legislation.gov.uk/nisr/2016/203), [art. 2](https://www.legislation.gov.uk/nisr/2016/203/article/2)

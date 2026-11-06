@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Reports on compliance with biodiversity duty[^key-39bd845984caa3550a035333d05918b1]
+## 2. Reports on compliance with biodiversity duty[^c-39bd845984caa3550a035333d05918b1]
 
 *Extent: S*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39bd845984caa3550a035333d05918b1]: Commencement: S. 2 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)
+[^c-39bd845984caa3550a035333d05918b1]: Commencement: S. 2 not in force at Royal Assent, see [s. 59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2)

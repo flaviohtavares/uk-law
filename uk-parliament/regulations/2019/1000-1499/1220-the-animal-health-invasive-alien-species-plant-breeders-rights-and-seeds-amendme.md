@@ -66,7 +66,7 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 ## PART 1 — Introduction
 
-### 1. Citation, commencement and extent[^key-74fa5f4100937baa7c1fc60f26a84fed]
+### 1. Citation, commencement and extent[^c-74fa5f4100937baa7c1fc60f26a84fed]
 
 (1) These Regulations may be cited as the Animal Health, Invasive Alien Species, Plant Breeders' Rights and Seeds (Amendment etc.) (EU Exit) Regulations 2019.
 
@@ -79,11 +79,11 @@ The requirements of paragraph 3(2) of Schedule 7 to the European Union (Withdraw
 
 (3) Regulations 3 and 6 extend to England and Wales only.
 
-(4)[^key-ec92fb1b66ec6d2bd47eed712dc6c014] Regulation 7 does not extend to Northern Ireland.
+(4)[^c-ec92fb1b66ec6d2bd47eed712dc6c014] Regulation 7 does not extend to Northern Ireland.
 
 ## PART 2 — Amendment of the Invasive Alien Species (Enforcement and Permitting) Order 2019
 
-### 2. The Invasive Alien Species (Enforcement and Permitting) Order 2019[^key-c3b0f1993cec679595411f3b19240d42]
+### 2. The Invasive Alien Species (Enforcement and Permitting) Order 2019[^c-c3b0f1993cec679595411f3b19240d42]
 
 In the Invasive Alien Species (Enforcement and Permitting) Order 2019 [^c23840591], in article 20, for paragraph (1) substitute—
 
@@ -100,7 +100,7 @@ In the Invasive Alien Species (Enforcement and Permitting) Order 2019 [^c2384059
 
 ## PART 3 — Marketing of seeds and plant propagating material: amendment of domestic legislation
 
-### 3. The Marketing of Vegetable Plant Material Regulations 1995[^key-6e8eae61c9a90be530f46f8fae61cf49]
+### 3. The Marketing of Vegetable Plant Material Regulations 1995[^c-6e8eae61c9a90be530f46f8fae61cf49]
 
 *Extent: E+W*
 
@@ -118,7 +118,7 @@ In the Marketing of Vegetable Plant Material Regulations 1995 [^c23840611], afte
 
 .
 
-### 4. The Marketing of Fruit Plant and Propagating Material (England) Regulations 2017[^key-cbc47cde821533b125f4de525e27aee8]
+### 4. The Marketing of Fruit Plant and Propagating Material (England) Regulations 2017[^c-cbc47cde821533b125f4de525e27aee8]
 
 In the Marketing of Fruit Plant and Propagating Material (England) Regulations 2017 [^c23840621], in regulation 5, for paragraphs (3) and (4) substitute—
 
@@ -128,7 +128,7 @@ In the Marketing of Fruit Plant and Propagating Material (England) Regulations 2
 
 ## PART 4 — Amendment of the Transmissible Spongiform Encephalopathies and Animal By-Products (Amendment etc.) (EU Exit) Regulations 2019
 
-### 5. The Transmissible Spongiform Encephalopathies and Animal By-Products (Amendment etc.) (EU Exit) Regulations 2019[^key-d87ffc4148d94eab37955dcbbe1b001b]
+### 5. The Transmissible Spongiform Encephalopathies and Animal By-Products (Amendment etc.) (EU Exit) Regulations 2019[^c-d87ffc4148d94eab37955dcbbe1b001b]
 
 (1) The Transmissible Spongiform Encephalopathies and Animal By-Products (Amendment etc.) (EU Exit) Regulations 2019 [^c23840631] are amended as follows.
 
@@ -137,13 +137,13 @@ In the Marketing of Fruit Plant and Propagating Material (England) Regulations 2
 - (a) in paragraph (2)(b)—
   - (i) in the substituted text of paragraph 1A, in points (b) and (c), insert “ the ” before “Welsh Ministers” and “Scottish Ministers”, respectively;
   - (ii) in the substituted text of paragraph 1B, in point (b), insert “ the ” before “Scottish Ministers”;
-- (b)[^key-9ac020a46f0fa2bdf173d67fbcc3cd87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9ac020a46f0fa2bdf173d67fbcc3cd87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) in paragraph (11)(b), for “EU retained” substitute “ retained direct EU ”;
 - (d) in paragraph (32)—
   - (i) in sub-paragraph (a)—
     - (aa) for paragraph (ii) substitute—
 
-      > - (ii) in point (c), in the last paragraph, after “TRACES”, insert “ or any replacement system in operation in Great Britain[^key-c75a8896164d81e162c57bef4aa7ef1a]”;
+      > - (ii) in point (c), in the last paragraph, after “TRACES”, insert “ or any replacement system in operation in Great Britain[^c-c75a8896164d81e162c57bef4aa7ef1a]”;
 
       ;
     - (bb) for paragraph (iii) substitute—
@@ -165,15 +165,15 @@ In the Marketing of Fruit Plant and Propagating Material (England) Regulations 2
 
   ;
 - (f) in paragraph (40)(b), for “second” substitute “ third ”;
-- (g)[^key-69fab027d782ec434ebd0a285b88486b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-69fab027d782ec434ebd0a285b88486b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-61d9c1995444cfc5c075ef9963dc38c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-61d9c1995444cfc5c075ef9963dc38c4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-3480d4601872d6015c21674542cc1179] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-3480d4601872d6015c21674542cc1179] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Invasive alien species: amendment of domestic legislation consequent on the withdrawal of the United Kingdom from the European Union
 
-### 6. The Wildlife and Countryside Act 1981[^key-be99a18c7c127a497528455e84497c7b]
+### 6. The Wildlife and Countryside Act 1981[^c-be99a18c7c127a497528455e84497c7b]
 
 *Extent: E+W*
 
@@ -190,7 +190,7 @@ In the Marketing of Fruit Plant and Propagating Material (England) Regulations 2
 
   .
 
-### 7. The Invasive Alien Species (Enforcement and Permitting) Order 2019[^key-406a168357b7de2ea2ff633292d4afc9]
+### 7. The Invasive Alien Species (Enforcement and Permitting) Order 2019[^c-406a168357b7de2ea2ff633292d4afc9]
 
 *Extent: E+W+S*
 
@@ -207,7 +207,7 @@ In the Marketing of Fruit Plant and Propagating Material (England) Regulations 2
   ;
 - (b) omit the definition of “the Union list”.
 
-(4)[^key-8eaf5bd658c39891bdbc79f1ae9ff6f4] In article 12—
+(4)[^c-8eaf5bd658c39891bdbc79f1ae9ff6f4] In article 12—
 
 - (a) after paragraph (1), insert—
 
@@ -218,7 +218,7 @@ In the Marketing of Fruit Plant and Propagating Material (England) Regulations 2
   - (i) in sub-paragraph (a), for “(other than Gibraltar) which is not a member State” substitute “other than the United Kingdom”;
   - (ii) in sub-paragraph (b), for “a member State” substitute “the United Kingdom”.
 
-(4A)[^key-4af7dd14bf1f61886bb864a876582748] In article 16—
+(4A)[^c-4af7dd14bf1f61886bb864a876582748] In article 16—
 
 - (a) in paragraph (1), for the words “Article 7(1)(b) (keeping) or (d) (transportation)” substitute “Article 7(1)(b) (keeping), 7(1)(d) (transportation) or, in relation to introduction into Great Britain from Northern Ireland, 7(1)(a) (introduction into Great Britain)”;
 - (b) in paragraph (4), in the definitions of “relevant licence” and “relevant permit”—
@@ -255,7 +255,7 @@ In the Marketing of Fruit Plant and Propagating Material (England) Regulations 2
 
   .
 
-(5)[^key-c674ec52c73ac0c66154f61b932f9bd5] In article 21—
+(5)[^c-c674ec52c73ac0c66154f61b932f9bd5] In article 21—
 
 - (a) in paragraph (2)—
   - (i) for “the Union” substitute “Great Britain”;
@@ -274,23 +274,23 @@ In the Marketing of Fruit Plant and Propagating Material (England) Regulations 2
 
 (6) In Schedule 1—
 
-- (a) in Table 1, for “the[^key-a2877c7abcb4f62987d0729c5f953d3d] Union”, in both places where it occurs, substitute “Great Britain[^key-03c010e657d6bbb43ffe3b28be151807]”;
+- (a) in Table 1, for “the[^c-a2877c7abcb4f62987d0729c5f953d3d] Union”, in both places where it occurs, substitute “Great Britain[^c-03c010e657d6bbb43ffe3b28be151807]”;
 - (b) in Table 2, in the entry relating to Article 8 paragraph 2—
   - (i) in conditions (a) and (d), for “of Union concern” substitute “ of special concern ”;
   - (ii) in condition (b), for “competent authorities” substitute “ appropriate authority ”;
   - (iii) in condition (f)—
     - (aa) for “competent authority” substitute “ appropriate authority ”;
-    - (bb) for “the[^key-a3ad63570b55e947fea1d7c58c45efa7] Union” substitute “Great Britain[^key-9d39cdeadbdd60767313d903acd6faa8]”.
+    - (bb) for “the[^c-a3ad63570b55e947fea1d7c58c45efa7] Union” substitute “Great Britain[^c-9d39cdeadbdd60767313d903acd6faa8]”.
 
 ## PART 6 — Amendment of the Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019
 
-### 8. The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019[^key-9fd669976ed0d10896b9feab5a4e3ebc]
+### 8. The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019[^c-9fd669976ed0d10896b9feab5a4e3ebc]
 
 (1) The Plant Breeders' Rights (Amendment etc.) (EU Exit) Regulations 2019 [^c23840671] are amended as follows.
 
 (2) In regulation 6, for “regulation 5(2)” substitute “ regulation 3(2) ”.
 
-(3)[^key-493c7d62a4e53e210a570379f5104a14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-493c7d62a4e53e210a570379f5104a14] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In regulations 11 and 12—
 
@@ -299,7 +299,7 @@ In the Marketing of Fruit Plant and Propagating Material (England) Regulations 2
   - (i) at the beginning insert “ Where the condition in regulation 10(2) is met, ”;
   - (ii) for “regulation 10” substitute “ regulation 10(1) ”.
 
-(5)[^key-cf339a08742cb38454b4a13a76cfb72a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-cf339a08742cb38454b4a13a76cfb72a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In regulation 18, for “regulation 5(2)” substitute “ regulation 3(2) ”.
 
@@ -307,13 +307,13 @@ In the Marketing of Fruit Plant and Propagating Material (England) Regulations 2
 
 ## PART 7 — Marketing of seeds and plant propagating material: amendment of domestic legislation consequent on the withdrawal of the United Kingdom from the European Union
 
-### 9. The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019[^key-fcb7d74566f64e6f5fea4070559a96a7]
+### 9. The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019[^c-fcb7d74566f64e6f5fea4070559a96a7]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019[^key-31a854cf6bb8fbf2ef9005d6349225b5]
+### 10. The Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019[^c-31a854cf6bb8fbf2ef9005d6349225b5]
 
 In the Marketing of Seeds and Plant Propagating Material (Amendment etc.) (EU Exit) Regulations 2019 [^c23840701], in the Schedule—
 
@@ -370,39 +370,39 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23840581]: Marginal citation: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301). The power of the Secretary of State, as a designated Minister in relation to the environment, to make regulations that apply in Wales as regards the prevention and remedy of environmental damage remains exercisable by virtue of article 5(1) of [S.I. 2014/1890](https://www.legislation.gov.uk/uksi/2014/1890).
 
-[^key-74fa5f4100937baa7c1fc60f26a84fed]: Commencement: Reg. 1 in force at 26.9.2019, see reg. 1(2)(a)
+[^c-74fa5f4100937baa7c1fc60f26a84fed]: Commencement: Reg. 1 in force at 26.9.2019, see reg. 1(2)(a)
 
-[^key-ec92fb1b66ec6d2bd47eed712dc6c014]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/4) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(2)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/2)
+[^c-ec92fb1b66ec6d2bd47eed712dc6c014]: Textual amendment: [Reg. 1(4)](https://www.legislation.gov.uk/uksi/2019/1220/regulation/1/4) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(2)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/2)
 
-[^key-c3b0f1993cec679595411f3b19240d42]: Commencement: Reg. 2 in force at 26.9.2019, see reg. 1(2)(a)
+[^c-c3b0f1993cec679595411f3b19240d42]: Commencement: Reg. 2 in force at 26.9.2019, see reg. 1(2)(a)
 
 [^c23840591]: Marginal citation: [S.I. 2019/527](https://www.legislation.gov.uk/uksi/2019/527).
 
 [^c23840601]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and Part 1 of the Schedule to the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). It is prospectively repealed by section 1 of the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) from exit day (see [section 20](https://www.legislation.gov.uk/ukpga/2018/16/section/20) of that Act). The function of the former Minister of Agriculture, Fisheries and Food of making regulations under section 2(2) was transferred to the Secretary of State by [S.I. 2002/794](https://www.legislation.gov.uk/uksi/2002/794).
 
-[^key-6e8eae61c9a90be530f46f8fae61cf49]: Commencement: Reg. 3 in force at 26.9.2019, see reg. 1(2)(a)
+[^c-6e8eae61c9a90be530f46f8fae61cf49]: Commencement: Reg. 3 in force at 26.9.2019, see reg. 1(2)(a)
 
 [^c23840611]: Marginal citation: [S.I. 1995/2652](https://www.legislation.gov.uk/uksi/1995/2652), to which there are amendments not relevant to these Regulations.
 
-[^key-cbc47cde821533b125f4de525e27aee8]: Commencement: Reg. 4 in force at 26.9.2019, see reg. 1(2)(a)
+[^c-cbc47cde821533b125f4de525e27aee8]: Commencement: Reg. 4 in force at 26.9.2019, see reg. 1(2)(a)
 
 [^c23840621]: Marginal citation: [S.I. 2017/595](https://www.legislation.gov.uk/uksi/2017/595), to which there are amendments not relevant to these Regulations.
 
-[^key-d87ffc4148d94eab37955dcbbe1b001b]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-d87ffc4148d94eab37955dcbbe1b001b]: Commencement: Reg. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23840631]: Marginal citation: [S.I. 2019/170](https://www.legislation.gov.uk/uksi/2019/170).
 
-[^key-9ac020a46f0fa2bdf173d67fbcc3cd87]: Textual amendment: Reg. 5(2)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [22(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22/2/a/i)
+[^c-9ac020a46f0fa2bdf173d67fbcc3cd87]: Textual amendment: Reg. 5(2)(b) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [22(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22/2/a/i)
 
-[^key-c75a8896164d81e162c57bef4aa7ef1a]: Textual amendment: Words in reg. 5(2)(d)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [22(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22/2/a/ii)
+[^c-c75a8896164d81e162c57bef4aa7ef1a]: Textual amendment: Words in reg. 5(2)(d)(i) substituted (31.12.2020 immediately before IP completion day) by [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [22(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22/2/a/ii)
 
-[^key-69fab027d782ec434ebd0a285b88486b]: Textual amendment: Reg. 5(2)(g) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [22(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22/2/a/iii)
+[^c-69fab027d782ec434ebd0a285b88486b]: Textual amendment: Reg. 5(2)(g) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [22(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22/2/a/iii)
 
-[^key-61d9c1995444cfc5c075ef9963dc38c4]: Textual amendment: Reg. 5(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [22(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22/2/b)
+[^c-61d9c1995444cfc5c075ef9963dc38c4]: Textual amendment: Reg. 5(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [22(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22/2/b)
 
-[^key-3480d4601872d6015c21674542cc1179]: Textual amendment: Reg. 5(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [22(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22/2/b)
+[^c-3480d4601872d6015c21674542cc1179]: Textual amendment: Reg. 5(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [22(2)(b)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22/2/b)
 
-[^key-be99a18c7c127a497528455e84497c7b]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
+[^c-be99a18c7c127a497528455e84497c7b]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(c)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/c)
 
 [^c23840641]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 
@@ -410,34 +410,34 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23840661]: Marginal citation: Schedule 9A was inserted by section 23(3) of the Infrastructure Act 2015 and amended by [S.I. 2019/527](https://www.legislation.gov.uk/uksi/2019/527).
 
-[^key-406a168357b7de2ea2ff633292d4afc9]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
+[^c-406a168357b7de2ea2ff633292d4afc9]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(d)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/d)
 
-[^key-8eaf5bd658c39891bdbc79f1ae9ff6f4]: Textual amendment: Reg. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/a)
+[^c-8eaf5bd658c39891bdbc79f1ae9ff6f4]: Textual amendment: Reg. 7(4) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(a)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/a)
 
-[^key-4af7dd14bf1f61886bb864a876582748]: Textual amendment: Reg. 7(4A)(4B) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b)
+[^c-4af7dd14bf1f61886bb864a876582748]: Textual amendment: Reg. 7(4A)(4B) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(b)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/b)
 
-[^key-c674ec52c73ac0c66154f61b932f9bd5]: Textual amendment: Reg. 7(5) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/c)
+[^c-c674ec52c73ac0c66154f61b932f9bd5]: Textual amendment: Reg. 7(5) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(c)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/c)
 
-[^key-a2877c7abcb4f62987d0729c5f953d3d]: Textual amendment: Word in reg. 7(6)(a) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/d/i)
+[^c-a2877c7abcb4f62987d0729c5f953d3d]: Textual amendment: Word in reg. 7(6)(a) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/d/i)
 
-[^key-03c010e657d6bbb43ffe3b28be151807]: Textual amendment: Words in reg. 7(6)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/d/ii)
+[^c-03c010e657d6bbb43ffe3b28be151807]: Textual amendment: Words in reg. 7(6)(a) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/d/ii)
 
-[^key-a3ad63570b55e947fea1d7c58c45efa7]: Textual amendment: Word in reg. 7(6)(b)(iii)(bb) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/d/i)
+[^c-a3ad63570b55e947fea1d7c58c45efa7]: Textual amendment: Word in reg. 7(6)(b)(iii)(bb) inserted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(d)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/d/i)
 
-[^key-9d39cdeadbdd60767313d903acd6faa8]: Textual amendment: Words in reg. 7(6)(b)(iii)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/d/ii)
+[^c-9d39cdeadbdd60767313d903acd6faa8]: Textual amendment: Words in reg. 7(6)(b)(iii)(bb) substituted (31.12.2020 immediately before IP completion day) by [The Animal Welfare and Invasive Non-native Species (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1590)](https://www.legislation.gov.uk/uksi/2020/1590), [regs. 1(1)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/1/1/b/i), [7(3)(d)(ii)](https://www.legislation.gov.uk/uksi/2020/1590/regulation/7/3/d/ii)
 
-[^key-9fd669976ed0d10896b9feab5a4e3ebc]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-9fd669976ed0d10896b9feab5a4e3ebc]: Commencement: Reg. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23840671]: Marginal citation: [S.I. 2019/204](https://www.legislation.gov.uk/uksi/2019/204).
 
-[^key-493c7d62a4e53e210a570379f5104a14]: Textual amendment: Reg. 8(3) omitted (11.8.2020) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/769/regulation/3)
+[^c-493c7d62a4e53e210a570379f5104a14]: Textual amendment: Reg. 8(3) omitted (11.8.2020) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/769/regulation/3)
 
-[^key-cf339a08742cb38454b4a13a76cfb72a]: Textual amendment: Reg. 8(5) omitted (11.8.2020) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/769/regulation/3)
+[^c-cf339a08742cb38454b4a13a76cfb72a]: Textual amendment: Reg. 8(5) omitted (11.8.2020) by virtue of [The Plant Breeders Rights (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/769)](https://www.legislation.gov.uk/uksi/2020/769), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/769/regulation/1/2/a), [3](https://www.legislation.gov.uk/uksi/2020/769/regulation/3)
 
 [^c23840681]: Marginal citation: [S.I. 2006/648](https://www.legislation.gov.uk/uksi/2006/648), amended by [S.I. 2018/942](https://www.legislation.gov.uk/uksi/2018/942), 2019/204.
 
-[^key-fcb7d74566f64e6f5fea4070559a96a7]: Textual amendment: Reg. 9 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [22(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22/3)
+[^c-fcb7d74566f64e6f5fea4070559a96a7]: Textual amendment: Reg. 9 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Animals, Aquatic Animal Health, Invasive Alien Species, Plant Propagating Material and Seeds (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1388)](https://www.legislation.gov.uk/uksi/2020/1388), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a), [22(3)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/22/3)
 
-[^key-31a854cf6bb8fbf2ef9005d6349225b5]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
+[^c-31a854cf6bb8fbf2ef9005d6349225b5]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2/b)
 
 [^c23840701]: Marginal citation: [S.I. 2019/162](https://www.legislation.gov.uk/uksi/2019/162).

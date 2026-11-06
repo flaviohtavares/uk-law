@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77.[^key-d401cdcbb1b5a2ec396687dc333a8fdd]
+## 77.[^c-d401cdcbb1b5a2ec396687dc333a8fdd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 574 (losses on unlisted shares in trading companies: relief for indiv
 
 ## Annotations
 
-[^key-d401cdcbb1b5a2ec396687dc333a8fdd]: Commencement: Reg. 77 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-d401cdcbb1b5a2ec396687dc333a8fdd]: Commencement: Reg. 77 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

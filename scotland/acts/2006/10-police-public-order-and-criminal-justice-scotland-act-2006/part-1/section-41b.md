@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41B. Serious incidents involving the police[^key-68ef557acb894c343c6e8857f008b287]
+## 41B. Serious incidents involving the police[^c-68ef557acb894c343c6e8857f008b287]
 
 *Extent: S*
 
@@ -37,10 +37,10 @@ summary: ''
   - (ii) in respect of which criminal proceedings have been brought following such an investigation by the Commissioner; or
 - (b) a matter which is being, or has been, investigated––
   - (i) by the Commissioner in pursuance of paragraph (b)(ii) of section 33A; or
-  - (ii) by any other person under section 1 of the Inquiries into Fatal Accidents and Sudden Deaths[^key-c53ab68ec826222c66a2059047145269] etc. (Scotland) Act 2016.
+  - (ii) by any other person under section 1 of the Inquiries into Fatal Accidents and Sudden Deaths[^c-c53ab68ec826222c66a2059047145269] etc. (Scotland) Act 2016.
 
 ## Annotations
 
-[^key-68ef557acb894c343c6e8857f008b287]: Textual amendment: S. 41B inserted (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 64](https://www.legislation.gov.uk/asp/2012/8/section/64), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-68ef557acb894c343c6e8857f008b287]: Textual amendment: S. 41B inserted (1.10.2012) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [ss. 64](https://www.legislation.gov.uk/asp/2012/8/section/64), [129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2) (with [s. 100](https://www.legislation.gov.uk/asp/2012/8/section/100)); [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
 
-[^key-c53ab68ec826222c66a2059047145269]: Textual amendment: Words in s. 41B(2)(b)(ii) substituted (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 11(3)](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/11/3); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2) [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-c53ab68ec826222c66a2059047145269]: Textual amendment: Words in s. 41B(2)(b)(ii) substituted (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 11(3)](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/11/3); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2) [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))

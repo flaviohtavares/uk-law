@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249. Certain companies treated as non-resident.[^key-543deeb07af43c95a811df9fbef0ec0b]
+## 249. Certain companies treated as non-resident.[^c-543deeb07af43c95a811df9fbef0ec0b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-543deeb07af43c95a811df9fbef0ec0b]: Textual amendment: [S. 249](https://www.legislation.gov.uk/ukpga/1994/9/section/249) repealed (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 397](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/397), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-543deeb07af43c95a811df9fbef0ec0b]: Textual amendment: [S. 249](https://www.legislation.gov.uk/ukpga/1994/9/section/249) repealed (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 397](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/397), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -29,10 +29,10 @@ summary: ''
   - (ii) the anticipated amount of the transfer payment; and
 - (b) subject to paragraph (3), must be made before the beginning of the period of one year ending with the date on which the member reaches normal pension age.
 
-(3)[^key-c900e9150debfd6fa0e0c9099899c755] A request that a transfer payment be accepted from a non-occupational pension scheme must be made during the period of one year beginning with the day on which the member becomes an active member or such longer period as the scheme manager may allow.
+(3)[^c-c900e9150debfd6fa0e0c9099899c755] A request that a transfer payment be accepted from a non-occupational pension scheme must be made during the period of one year beginning with the day on which the member becomes an active member or such longer period as the scheme manager may allow.
 
 (4) On receiving a transfer request, the scheme manager may accept the transfer payment.
 
 ## Annotations
 
-[^key-c900e9150debfd6fa0e0c9099899c755]: Modification: [Reg. 149(3)](https://www.legislation.gov.uk/nisr/2015/78/regulation/149/3) applied (with modifications) (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/133)](https://www.legislation.gov.uk/nisr/2023/133), [regs. 1](https://www.legislation.gov.uk/nisr/2023/133/regulation/1), [43](https://www.legislation.gov.uk/nisr/2023/133/regulation/43)
+[^c-c900e9150debfd6fa0e0c9099899c755]: Modification: [Reg. 149(3)](https://www.legislation.gov.uk/nisr/2015/78/regulation/149/3) applied (with modifications) (1.10.2023) by [The Firefighters’ Pensions (Remediable Service) Regulations (Northern Ireland) 2023 (S.R. 2023/133)](https://www.legislation.gov.uk/nisr/2023/133), [regs. 1](https://www.legislation.gov.uk/nisr/2023/133/regulation/1), [43](https://www.legislation.gov.uk/nisr/2023/133/regulation/43)

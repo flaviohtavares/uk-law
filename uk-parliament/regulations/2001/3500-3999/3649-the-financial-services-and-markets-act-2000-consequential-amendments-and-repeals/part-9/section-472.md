@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 472. Meaning of “securities”[^key-4da37438a7d7e82e8e04f731850cc6b8]
+## 472. Meaning of “securities”[^c-4da37438a7d7e82e8e04f731850cc6b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4da37438a7d7e82e8e04f731850cc6b8]: Commencement: Art. 472 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4da37438a7d7e82e8e04f731850cc6b8]: Commencement: Art. 472 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00313]: Footnote: Clause 9A was inserted by [S.I. 1994/2576](https://www.legislation.gov.uk/uksi/1994/2576), regulation 4 and Schedule.

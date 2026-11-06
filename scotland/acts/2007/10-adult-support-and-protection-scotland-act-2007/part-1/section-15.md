@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Criteria for granting removal order[^key-afb4be23a4066dfe85d4da32491277b5]
+## 15. Criteria for granting removal order[^c-afb4be23a4066dfe85d4da32491277b5]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-afb4be23a4066dfe85d4da32491277b5]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2007/10/section/15) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)
+[^c-afb4be23a4066dfe85d4da32491277b5]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2007/10/section/15) in force at 29.10.2008 by [S.S.I. 2008/314](https://www.legislation.gov.uk/ssi/2008/314), [art. 2](https://www.legislation.gov.uk/ssi/2008/314/article/2)

@@ -43,9 +43,9 @@ Coming into force
 
 4 November 2024
 
-The Welsh Ministers, in exercise of the powers conferred on them by sections 90(3), (4) and (5), 91(1), (2) and (4), 92(2), 95(4) and (7), 100(4)(a), 101(3) and (5), 102(1), 103(2), 105, 106(5), 107(3)(a), 146(1), 161(2)(c), 170, 209(2) and 211(3)(a) and (4) of, and paragraph 3(2)(a) of Schedule 8 to, the Historic Environment (Wales) Act 2023[^f00001], make the following Regulations.[^key-726eb62d063ff4efc9c664fb3f2ac0e6][^key-2547d6b9bc16a94357999a378f862c84][^key-13fffb20291d110a24e74ba64f5e4996]
+The Welsh Ministers, in exercise of the powers conferred on them by sections 90(3), (4) and (5), 91(1), (2) and (4), 92(2), 95(4) and (7), 100(4)(a), 101(3) and (5), 102(1), 103(2), 105, 106(5), 107(3)(a), 146(1), 161(2)(c), 170, 209(2) and 211(3)(a) and (4) of, and paragraph 3(2)(a) of Schedule 8 to, the Historic Environment (Wales) Act 2023[^f00001], make the following Regulations.[^c-726eb62d063ff4efc9c664fb3f2ac0e6][^c-2547d6b9bc16a94357999a378f862c84][^c-13fffb20291d110a24e74ba64f5e4996]
 
-## 1. Title, coming into force and code[^key-546ae324275e81da637c3cf0ad437435]
+## 1. Title, coming into force and code[^c-546ae324275e81da637c3cf0ad437435]
 
 (1) The title of these Regulations is the Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024.
 
@@ -53,7 +53,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by sections 90(
 
 (3) These Regulations form part of a code of law relating to the historic environment of Wales[^f00002].
 
-## 2. Interpretation[^key-c7054c1b40a1ae5349d8ca922b2905e6]
+## 2. Interpretation[^c-c7054c1b40a1ae5349d8ca922b2905e6]
 
 In these Regulations—
 
@@ -76,7 +76,7 @@ In these Regulations—
 
 ## PART 1 — APPLICATIONS
 
-### 3. Applying for listed building consent[^key-aebb5ac8391efdcb3b7168d7f98327bd]
+### 3. Applying for listed building consent[^c-aebb5ac8391efdcb3b7168d7f98327bd]
 
 (1) In addition to the requirements of section 90(2) of the 2023 Act, an application for listed building consent must—
 
@@ -92,7 +92,7 @@ In these Regulations—
 - (a) be drawn to an identified scale, and
 - (b) in the case of plans, show the direction of north.
 
-### 4. Heritage impact statement[^key-cd2333034d6326cf44b39fb91aa62bfa]
+### 4. Heritage impact statement[^c-cd2333034d6326cf44b39fb91aa62bfa]
 
 (1) An application for listed building consent must include with it a statement referred to as a heritage impact statement.
 
@@ -106,7 +106,7 @@ In these Regulations—
 - (f) describe how the works will affect the character of the listed building as a building of special architectural or historic interest, including an assessment of the impact of the works on the significance of the building, and
 - (g) describe how issues relating to access to, or in, the listed building have been dealt with, but excluding issues relating to access to, or in, any part of a listed building which is used as a private dwelling.
 
-### 5. Notice of application for listed building consent to owners of building[^key-68bdd00265928fdcb55acee08a2c0c52]
+### 5. Notice of application for listed building consent to owners of building[^c-68bdd00265928fdcb55acee08a2c0c52]
 
 (1) An applicant for listed building consent must take all reasonable steps to give notice of the application to every person (other than the applicant) who is an owner of any part of the listed building to which the application relates in accordance with paragraph (2).
 
@@ -122,7 +122,7 @@ In these Regulations—
 - (a) in a newspaper circulating in the locality of the listed building to which the application relates;
 - (b) on or after the relevant date.
 
-### 6. Certificate to be included with application for listed building consent[^key-d60f579056478c09bd460f438ed2b8b9]
+### 6. Certificate to be included with application for listed building consent[^c-d60f579056478c09bd460f438ed2b8b9]
 
 (1) An applicant for listed building consent must include with the application a certificate which complies with paragraph (2), in the form published or provided by the Welsh Ministers or a form substantially to the same effect.
 
@@ -153,7 +153,7 @@ In these Regulations—
 
 (5) For the meaning of “relevant date” see regulation 5(3).
 
-### 7. Acknowledgement of application for listed building consent[^key-a1e33b6faaab9aadf61b48a37577f0f5]
+### 7. Acknowledgement of application for listed building consent[^c-a1e33b6faaab9aadf61b48a37577f0f5]
 
 (1) When the planning authority in whose area the building is situated receives the matters listed in paragraph (2), the planning authority must send to the person who made the application an acknowledgement in accordance with paragraph (3).
 
@@ -170,7 +170,7 @@ In these Regulations—
 
 (4) If, after sending the acknowledgement, the planning authority considers that the application does not comply with a requirement imposed by section 90(2) of the 2023 Act or by these Regulations, the planning authority must notify the applicant as soon as reasonably practicable.
 
-### 8. Advertisement of applications for listed building consent[^key-3b4c314c37b497c84f9481feb424f529]
+### 8. Advertisement of applications for listed building consent[^c-3b4c314c37b497c84f9481feb424f529]
 
 (1) Where an application for listed building consent is made to a planning authority, the planning authority must comply with paragraphs (3) and (4), but this is subject to paragraph (2).
 
@@ -188,7 +188,7 @@ In these Regulations—
 
 (4) The planning authority must ensure that the period for inspecting the documents listed in paragraph (3)(a), in both hard copy and on the website, is at least 21 days, beginning with the date of publication of the notice referred to in that paragraph.
 
-### 9. Notification to the Amenity Societies and the Royal Commission on the Ancient and Historical Monuments of Wales[^key-ff9ed7afbdd701624a2d0664e86214e2]
+### 9. Notification to the Amenity Societies and the Royal Commission on the Ancient and Historical Monuments of Wales[^c-ff9ed7afbdd701624a2d0664e86214e2]
 
 (1) This regulation applies where a planning authority receives an application for listed building consent.
 
@@ -209,7 +209,7 @@ In these Regulations—
 
 (4) The notification under this regulation must be given as soon as reasonably practicable.
 
-### 10. Reference of applications to the Welsh Ministers[^key-dffae9bd559451246c0c7d2f88d56e22]
+### 10. Reference of applications to the Welsh Ministers[^c-dffae9bd559451246c0c7d2f88d56e22]
 
 (1) Where an application for listed building consent is referred to the Welsh Ministers under section 94 of the 2023 Act (reference of application to the Welsh Ministers), as soon as reasonably practicable, the planning authority must—
 
@@ -232,11 +232,11 @@ In these Regulations—
 
 (5) In this regulation, “**application file**” means the application for listed building consent together with accompanying documents and all correspondence with the planning authority relating to the application.
 
-### 11. Disapplication of requirement to notify the Welsh Ministers of applications for listed building consent[^key-000ddb870a0ff188f8decdd62931956a]
+### 11. Disapplication of requirement to notify the Welsh Ministers of applications for listed building consent[^c-000ddb870a0ff188f8decdd62931956a]
 
 Section 95(1) of the 2023 Act (notification to Welsh Ministers before granting consent) does not apply to applications for listed building consent to carry out works affecting only the interior of a building which is classified as a Grade II (unstarred) listed building.
 
-### 12. Decision on application[^key-60877f6cc4eb174f61a58be65a067b57]
+### 12. Decision on application[^c-60877f6cc4eb174f61a58be65a067b57]
 
 (1) Where an application for listed building consent is accompanied by a certificate under regulation 6(2)(b), (c) or (d), the planning authority—
 
@@ -259,7 +259,7 @@ Section 95(1) of the 2023 Act (notification to Welsh Ministers before granting c
   - (ii) the date of publication in a local newspaper of the notice, as shown on the certificate;
 - (c) in the case of a certificate under regulation 6(2)(d), the date of publication in a local newspaper of the notice, as shown on the certificate.
 
-### 13. Notice of decision or referral to the Welsh Ministers[^key-1697e49be81a7f206f4f0b8a02062267]
+### 13. Notice of decision or referral to the Welsh Ministers[^c-1697e49be81a7f206f4f0b8a02062267]
 
 (1) The planning authority must give written notice to the person who has made an application to them for listed building consent—
 
@@ -273,7 +273,7 @@ Section 95(1) of the 2023 Act (notification to Welsh Ministers before granting c
 - (a) include the reasons for the decision, and
 - (b) be accompanied by a notification in the terms, or substantially the same terms, set out in Schedule 2.
 
-### 14. Notification of amenity societies etc. of decision[^key-f2fbb532f64094c44197a5b0284bf2b9]
+### 14. Notification of amenity societies etc. of decision[^c-f2fbb532f64094c44197a5b0284bf2b9]
 
 (1) This regulation applies to a decision on an application for listed building consent for—
 
@@ -282,7 +282,7 @@ Section 95(1) of the 2023 Act (notification to Welsh Ministers before granting c
 
 (2) A planning authority must notify the bodies in regulation 9(3) of its decision as soon as practicable after making that decision.
 
-### 15. Application for variation or removal of conditions[^key-a29a91f9958f55cb4c627d91728780a1]
+### 15. Application for variation or removal of conditions[^c-a29a91f9958f55cb4c627d91728780a1]
 
 (1) Regulations 3 to 14 apply to an application under section 99 of the 2023 Act (application for variation or removal of conditions) as they apply to an application for listed building consent.
 
@@ -299,7 +299,7 @@ Section 95(1) of the 2023 Act (notification to Welsh Ministers before granting c
 
 ## PART 2 — APPEALS
 
-### 16. Appeals[^key-e719504faf6fac2d668f5221219eccbb]
+### 16. Appeals[^c-e719504faf6fac2d668f5221219eccbb]
 
 (1) The applicant must give notice of any appeal under section 100(2) of the 2023 Act to the Welsh Ministers within 6 months beginning with the day after the date of the decision.
 
@@ -318,19 +318,19 @@ Section 95(1) of the 2023 Act (notification to Welsh Ministers before granting c
 
 (5) Regulation 5 (notice of application to owners), regulation 6 (certificate with application) and regulation ‎21 (application in respect of Crown land) apply to an appeal in relation to an application for listed building consent as they apply to an application for listed building consent, but as if references to an application and an applicant were references to an appeal and an appellant.
 
-### 17. Variation of applications after notice of appeal[^key-a4baaf165e5478d9f927662550ae3567]
+### 17. Variation of applications after notice of appeal[^c-a4baaf165e5478d9f927662550ae3567]
 
 (1) An application for listed building consent to which an appeal relates may be varied in order to correct an inconsistency between the information in the application and any of the documents which accompany it, but this is subject to paragraph ‎(2).
 
 (2) The application may not be varied if it changes the substance of the application.
 
-### 18. Decision on application after service of notice of appeal[^key-71a76779d8b3be535e80837a2aa79db0]
+### 18. Decision on application after service of notice of appeal[^c-71a76779d8b3be535e80837a2aa79db0]
 
 The period prescribed for the purpose of section 103(2) of the 2023 Act (period within which the Welsh Ministers may not determine an appeal against failure to give notice of decision) is 4 weeks.
 
 ## PART 3 — SPECIAL CASES
 
-### 19. Disapplication and modifications: applications by a planning authority for demolition of a listed building[^key-1ac5275dc59be1935fe05cbea53d0dfe]
+### 19. Disapplication and modifications: applications by a planning authority for demolition of a listed building[^c-1ac5275dc59be1935fe05cbea53d0dfe]
 
 (1) This regulation applies to an application by a planning authority for—
 
@@ -360,11 +360,11 @@ The period prescribed for the purpose of section 103(2) of the 2023 Act (period 
 - (f) regulation 15 (application for variation or removal of conditions) is to be read as if in paragraph (1) the reference to regulations “3 to 14” were a reference to regulations “3 to 9, 12 and 14”;
 - (g) regulation 16 (appeals) does not apply.
 
-### 20. Applications other than for demolition made by a planning authority[^key-8b90bbb32374e7b83b77fb226491a0cd]
+### 20. Applications other than for demolition made by a planning authority[^c-8b90bbb32374e7b83b77fb226491a0cd]
 
 Section 100 of the 2023 Act (right to appeal against planning authority decision or failure to make decision) does not apply to an application for listed building consent by a planning authority which is determined by that planning authority.
 
-### 21. Application for listed building consent in respect of Crown land[^key-ec192a5356b939d22b47f46b7b7cad08]
+### 21. Application for listed building consent in respect of Crown land[^c-ec192a5356b939d22b47f46b7b7cad08]
 
 (1) This regulation applies to an application for listed building consent in respect of Crown land.
 
@@ -384,7 +384,7 @@ Section 100 of the 2023 Act (right to appeal against planning authority decision
 - “**appropriate Crown authority**” (“***awdurdod priodol y Goron***”) has the meaning given by section 207(6) of the 2023 Act;
 - “**Crown land**” (“***tir y Goron***”) has the meaning given by section 207(2) of the 2023 Act.
 
-### 22. Publicity for applications relating to urgent works on Crown land[^key-a0f6b0ca177f75e1b1265e184b0131ca]
+### 22. Publicity for applications relating to urgent works on Crown land[^c-a0f6b0ca177f75e1b1265e184b0131ca]
 
 (1) Where an application is made under section 106(1) of the 2023 Act (applications relating to urgent works on Crown land), the Welsh Ministers must comply with paragraphs (3) to (6), but this is subject to paragraph (2).
 
@@ -420,7 +420,7 @@ Section 100 of the 2023 Act (right to appeal against planning authority decision
 
 ## PART 4 — Conservation Areas
 
-### 23. Disapplication of the requirement for demolition in conservation areas to be authorised[^key-a9770610e1e209e46f26ce866360400c]
+### 23. Disapplication of the requirement for demolition in conservation areas to be authorised[^c-a9770610e1e209e46f26ce866360400c]
 
 (1) Section 161(1) of the 2023 Act (requirement for demolition in conservation areas to be authorised) does not apply to—
 
@@ -450,7 +450,7 @@ Section 100 of the 2023 Act (right to appeal against planning authority decision
 
 (3) See also section 161(2) of the 2023 Act for other exceptions to the requirement in section 161(1) for demolition to be authorised.
 
-### 24. Application of these Regulations to buildings in conservation areas[^key-d1cc4b89bf815de551060d60c98bb934]
+### 24. Application of these Regulations to buildings in conservation areas[^c-d1cc4b89bf815de551060d60c98bb934]
 
 (1) These Regulations apply in relation to buildings to which section 161 of the 2023 Act (demolition in conservation areas) applies as they apply in relation to listed buildings except—
 
@@ -472,13 +472,13 @@ Section 100 of the 2023 Act (right to appeal against planning authority decision
 
 ## PART 5 — MISCELLANEOUS AND GENERAL
 
-### 25. Advertisement of unopposed revocation or modification order[^key-a6063db013e09a28a66fcf77af8c8588]
+### 25. Advertisement of unopposed revocation or modification order[^c-a6063db013e09a28a66fcf77af8c8588]
 
 (1) This regulation applies when a planning authority is required to publish notice of an order made under section 107 of the 2023 Act (modification and revocation of consent).
 
 (2) For the purpose of paragraph 3(2) of Schedule 8 to the 2023 Act (procedure for orders modifying or revoking listed building consent), the way that a planning authority must publish that notice is in a newspaper circulating in the locality where the listed building to which the order relates is situated.
 
-### 26. Interest rate on expenses for urgent works[^key-98111a4b023c43a882cf8dd34678daf0]
+### 26. Interest rate on expenses for urgent works[^c-98111a4b023c43a882cf8dd34678daf0]
 
 (1) The rate of interest specified for the purpose of section 146(1) of the 2023 Act (recovery of costs of preservation works) is 2% per annum above the Bank of England base rate.
 
@@ -487,11 +487,11 @@ Section 100 of the 2023 Act (right to appeal against planning authority decision
 - (a) if an order under section 19 of the Bank of England Act 1998[^f00017] is in force, any rate equivalent to the rate described in sub-paragraph (b), or if there is none,
 - (b) the rate announced as the official dealing rate at the meeting of the Monetary Policy Committee of the Bank of England last held before that day.
 
-### 27. Consequential amendments[^key-16100fc6adf34aef53e381cb240f0762]
+### 27. Consequential amendments[^c-16100fc6adf34aef53e381cb240f0762]
 
 Schedule 4 contains consequential amendments.
 
-### 28. Revocation[^key-623447ec56a85c8a2adbf12cce797842]
+### 28. Revocation[^c-623447ec56a85c8a2adbf12cce797842]
 
 Schedule 5 contains revocations.
 
@@ -505,7 +505,7 @@ Cabinet Secretary for Culture, Social Justice, Trefnydd and Chief Whip, one of t
 
 Regulation ‎7(3)(a)
 
-**1.**[^key-2388a7b69240f96acfbe7e97478f61ba] Your application dated ………………*insert date*
+**1.**[^c-2388a7b69240f96acfbe7e97478f61ba] Your application dated ………………*insert date*
 
 was received on…………………………..*insert date*
 
@@ -513,7 +513,7 @@ was received on…………………………..*insert date*
 
 *\*delete if not appropriate*
 
-**2.**[^key-a88472d30a0327813a6e2e42f540bb34] If by ……………………….…………………….
+**2.**[^c-a88472d30a0327813a6e2e42f540bb34] If by ……………………….…………………….
 
 *insert date 8 weeks beginning with the date the application, certificate and heritage impact statement are received*
 
@@ -523,11 +523,11 @@ was received on…………………………..*insert date*
   - (iii) that your application has been referred to the Welsh Ministers for decision, or
 - (b) we have not agreed with you in writing that we will extend the date by which we must give our decision, you may appeal.
 
-**3.**[^key-abb7dc2a98d00e9d81e065e7aa8df7a5] The right to, and procedure for, appeal is in sections 100 to 102 of the Historic Environment (Wales) Act 2023.
+**3.**[^c-abb7dc2a98d00e9d81e065e7aa8df7a5] The right to, and procedure for, appeal is in sections 100 to 102 of the Historic Environment (Wales) Act 2023.
 
-**4.**[^key-c03747946bb80da01d262dbe2cc345eb] You must submit any appeal on a form which you can obtain from the Welsh Ministers.
+**4.**[^c-c03747946bb80da01d262dbe2cc345eb] You must submit any appeal on a form which you can obtain from the Welsh Ministers.
 
-**5.**[^key-27a6e7d3a7efd562735a88c04abc066c] If you are appealing against a decision which refuses the application or grants it subject to conditions, you must submit any appeal during the period ending with ……...…………………………………….
+**5.**[^c-27a6e7d3a7efd562735a88c04abc066c] If you are appealing against a decision which refuses the application or grants it subject to conditions, you must submit any appeal during the period ending with ……...…………………………………….
 
 *insert date 6 months beginning with the day after the date of the decision*
 
@@ -535,45 +535,45 @@ was received on…………………………..*insert date*
 
 Regulation 13 (3)(b)
 
-**1.**[^key-f2a6c1c5fee5046812904362fa4f879d] If you are aggrieved by the decision of the planning authority to refuse consent for the works or to grant it subject to conditions, you may appeal to the Welsh Ministers. The right to, and procedure for, appeal is in sections 100 to 102 of the Historic Environment (Wales) Act 2023.
+**1.**[^c-f2a6c1c5fee5046812904362fa4f879d] If you are aggrieved by the decision of the planning authority to refuse consent for the works or to grant it subject to conditions, you may appeal to the Welsh Ministers. The right to, and procedure for, appeal is in sections 100 to 102 of the Historic Environment (Wales) Act 2023.
 
-**2.**[^key-671c0f4afc4de4b2dd5bc0d2bb9954ee] You must submit any appeal on a form which you can obtain from the Welsh Ministers. You must submit any notice of appeal during the 6 months starting with the day after the date of the decision.
+**2.**[^c-671c0f4afc4de4b2dd5bc0d2bb9954ee] You must submit any appeal on a form which you can obtain from the Welsh Ministers. You must submit any notice of appeal during the 6 months starting with the day after the date of the decision.
 
-**3.**[^key-a86aec5af08dd4dca27cbec86c9e0b79] The Welsh Ministers may allow a longer period for you to give notice of appeal, but they will not normally be prepared to do that unless there are special circumstances.
+**3.**[^c-a86aec5af08dd4dca27cbec86c9e0b79] The Welsh Ministers may allow a longer period for you to give notice of appeal, but they will not normally be prepared to do that unless there are special circumstances.
 
-**4.**[^key-c78b975b4d7f808772f7288e3179843f] If consent is refused, or is granted subject to conditions (whether by the planning authority or the Welsh Ministers), if the conditions in paragraph 6 are satisfied, the owner has the rights described in paragraph 8.
+**4.**[^c-c78b975b4d7f808772f7288e3179843f] If consent is refused, or is granted subject to conditions (whether by the planning authority or the Welsh Ministers), if the conditions in paragraph 6 are satisfied, the owner has the rights described in paragraph 8.
 
-**5.**[^key-791dba651db1a6a057c934ec0d353563] In the following paragraphs, “**associated land**” means land which includes, adjoins or is adjacent to the building and is owned with the building, and “**usable**” means capable of reasonably beneficial use.
+**5.**[^c-791dba651db1a6a057c934ec0d353563] In the following paragraphs, “**associated land**” means land which includes, adjoins or is adjacent to the building and is owned with the building, and “**usable**” means capable of reasonably beneficial use.
 
-**6.**[^key-e14e012e7b9ae6d3c04b1b60653c942a] The conditions are that the owner of the building and associated land claims [^key-017f09ff0db7dd697fc2090654d2e2b8]...—
+**6.**[^c-e14e012e7b9ae6d3c04b1b60653c942a] The conditions are that the owner of the building and associated land claims [^c-017f09ff0db7dd697fc2090654d2e2b8]...—
 
-- (a) that the building and the associated land[^key-f1d875333667800f9bb7155c81ffb317] are unusable in their existing state,
-- (b) that the building and the associated land[^key-cdd88c6df91e5f5056978752fb94b2e9] cannot be made usable—
+- (a) that the building and the associated land[^c-f1d875333667800f9bb7155c81ffb317] are unusable in their existing state,
+- (b) that the building and the associated land[^c-cdd88c6df91e5f5056978752fb94b2e9] cannot be made usable—
   - (i) in a case where listed building consent has been granted subject to conditions or modified by the imposition of conditions, by carrying out the works to which the consent relates in accordance with the conditions, and
   - (ii) in any case, by carrying out any other works for which consent has been granted or for which the planning authority has, or the Welsh Ministers have, undertaken to grant consent,
 - (c) that the use of the associated land is substantially inseparable from the use of the listed building, and
 - (d) that the associated land ought to be treated, together with the building, as a single holding.
 
-**7.**[^key-f8208ca73b68fe77e18f73f46efbf44f] There is more detail about the meaning of “usable in their/its existing state” in section 109(7) and (8) of the Historic Environment (Wales) Act 2023.
+**7.**[^c-f8208ca73b68fe77e18f73f46efbf44f] There is more detail about the meaning of “usable in their/its existing state” in section 109(7) and (8) of the Historic Environment (Wales) Act 2023.
 
-**8.**[^key-02bac367296db3bc24a9cfc36e7be69c] If the conditions in paragraph 6 are satisfied, the owner may serve a purchase notice on the planning authority in whose area the building is situated, requiring the planning authority to purchase the owner’s interest in the building and associated land.
+**8.**[^c-02bac367296db3bc24a9cfc36e7be69c] If the conditions in paragraph 6 are satisfied, the owner may serve a purchase notice on the planning authority in whose area the building is situated, requiring the planning authority to purchase the owner’s interest in the building and associated land.
 
-**9.**[^key-73b095907a22ab23340051815668bb38] There is further detail about this right in sections 109 to 112 of the Historic Environment (Wales) Act 2023.
+**9.**[^c-73b095907a22ab23340051815668bb38] There is further detail about this right in sections 109 to 112 of the Historic Environment (Wales) Act 2023.
 
 ## SCHEDULE 3 — Notification to Applicant on Refusal to Vary or Remove Conditions Attached to a Consent or on the Addition of New Conditions (to be included with the notices of decision)
 
 Regulation 15 (3)(c)
 
-**1.**[^key-b2149758e9f43c60b74bf7099386fc5a] You may appeal to the Welsh Ministers if you are aggrieved by the decision of the planning authority to—
+**1.**[^c-b2149758e9f43c60b74bf7099386fc5a] You may appeal to the Welsh Ministers if you are aggrieved by the decision of the planning authority to—
 
 - (a) refuse to vary or remove the conditions attached to a consent, or
 - (b) include new conditions.
 
-**2.**[^key-2d9ec0564495c9fb05b75c46ec8f324e] The right to, and procedure for, appeal is in sections 100 to 102 of the Historic Environment (Wales) Act 2023.
+**2.**[^c-2d9ec0564495c9fb05b75c46ec8f324e] The right to, and procedure for, appeal is in sections 100 to 102 of the Historic Environment (Wales) Act 2023.
 
-**3.**[^key-5cb6c7f639b6e55ef286f6fd7656e387] You must submit any appeal on a form which you can obtain from the Welsh Ministers. You must submit any notice of appeal during the period of 6 months starting with the day after the date of the decision.
+**3.**[^c-5cb6c7f639b6e55ef286f6fd7656e387] You must submit any appeal on a form which you can obtain from the Welsh Ministers. You must submit any notice of appeal during the period of 6 months starting with the day after the date of the decision.
 
-**4.**[^key-adbda1887cb31509ed9425ff06178e81] The Welsh Ministers may allow a longer period for you to give notice of appeal, but they will not normally be prepared to do that unless there are special circumstances.
+**4.**[^c-adbda1887cb31509ed9425ff06178e81] The Welsh Ministers may allow a longer period for you to give notice of appeal, but they will not normally be prepared to do that unless there are special circumstances.
 
 ## SCHEDULE 4 — Consequential amendments
 
@@ -583,28 +583,28 @@ Regulation 27
 
 *Extent: E+W+S+N.I.*
 
-**1.**[^key-74cead3e83bca1ab3c580b50c2062cd6] In Schedule 1 to the Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) Regulations 2007[^f00018], in Part A, row 22, in the second column, for “regulations 3” to the end, substitute “the Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024”.
+**1.**[^c-74cead3e83bca1ab3c580b50c2062cd6] In Schedule 1 to the Local Authorities (Executive Arrangements) (Functions and Responsibilities) (Wales) Regulations 2007[^f00018], in Part A, row 22, in the second column, for “regulations 3” to the end, substitute “the Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024”.
 
 ### The Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992
 
 *Extent: E+W+S+N.I.*
 
-**2.**[^key-a758c65bcb0e637f81e91a59cb44bfb6] The Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992[^f00019] are amended as follows.
+**2.**[^c-a758c65bcb0e637f81e91a59cb44bfb6] The Transport and Works Applications (Listed Buildings, Conservation Areas and Ancient Monuments Procedure) Regulations 1992[^f00019] are amended as follows.
 
 *Extent: E+W+S+N.I.*
 
-**3.**[^key-ea3bdb6c88c490c3eed779233e51f38d] In regulation 2, in the definition of “conservation area consent” and “listed building consent”, after “Act” insert “in relation to areas and buildings in England, and have the same meanings respectively as in section 162 and section 89 of the Historic Environment (Wales) Act 2023 in relation to areas and buildings in Wales”.
+**3.**[^c-ea3bdb6c88c490c3eed779233e51f38d] In regulation 2, in the definition of “conservation area consent” and “listed building consent”, after “Act” insert “in relation to areas and buildings in England, and have the same meanings respectively as in section 162 and section 89 of the Historic Environment (Wales) Act 2023 in relation to areas and buildings in Wales”.
 
 *Extent: E+W+S+N.I.*
 
-**4.**[^key-8e53617b6709287bf6ff009557f2656a] In regulation 3—
+**4.**[^c-8e53617b6709287bf6ff009557f2656a] In regulation 3—
 
 - (a) at the end of the heading, insert “in relation to England”;
 - (b) in paragraph (1), after “required” insert “in relation to a listed building or conservation area in England,”.
 
 *Extent: E+W+S+N.I.*
 
-**5.**[^key-d2d5e604fc84f171a5bfbb512283b34e] After regulation 3 insert—
+**5.**[^c-d2d5e604fc84f171a5bfbb512283b34e] After regulation 3 insert—
 
 > **3A. Modification of procedures for listed building consent and conservation area consent in relation to a listed building or conservation area in Wales**
 >
@@ -617,7 +617,7 @@ Regulation 27
 
 *Extent: E+W+S+N.I.*
 
-**6.**[^key-fe6ebf547a1e6ffcf82d9d3c1725703e] After Schedule 1 insert—
+**6.**[^c-fe6ebf547a1e6ffcf82d9d3c1725703e] After Schedule 1 insert—
 
 > **SCHEDULE 1A — Modifications of the Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024**
 >
@@ -746,42 +746,42 @@ Regulation 27
 
 *Extent: E+W+S+N.I.*
 
-**7.**[^key-f496550a0ca2ea7b0c123c65a3fafaa0] In Schedule 5 to the National Park Authorities (Wales) Order 1995[^f00020], omit paragraph 15.
+**7.**[^c-f496550a0ca2ea7b0c123c65a3fafaa0] In Schedule 5 to the National Park Authorities (Wales) Order 1995[^f00020], omit paragraph 15.
 
 *The Local Government Reorganisation (Wales) (Consequential Amendments) Order 1996*
 
 *Extent: E+W+S+N.I.*
 
-**8.**[^key-0507444dc722a0884447ce4dab4a1b82] In Schedule 1 to the Local Government Reorganisation (Wales) (Consequential Amendments) Order 1996[^f00021], omit paragraph 13.
+**8.**[^c-0507444dc722a0884447ce4dab4a1b82] In Schedule 1 to the Local Government Reorganisation (Wales) (Consequential Amendments) Order 1996[^f00021], omit paragraph 13.
 
 *The National Park Authorities (Wales) (Amendment) Order 1996*
 
 *Extent: E+W+S+N.I.*
 
-**9.**[^key-8adbb17be23554386af8e42096fa156e] In the Schedule to the National Park Authorities (Wales) (Amendment) Order 1996[^f00022], in Part 2 omit inserted paragraph 15.
+**9.**[^c-8adbb17be23554386af8e42096fa156e] In the Schedule to the National Park Authorities (Wales) (Amendment) Order 1996[^f00022], in Part 2 omit inserted paragraph 15.
 
 ### The Town and Country Planning (Electronic Communications) (Wales) (No 1) Order 2004
 
 *Extent: E+W+S+N.I.*
 
-**10.**[^key-76cd0df4bdeb56c1af730565fb9f4883] In the Town and Country Planning (Electronic Communications) (Wales) (No 1) Order 2004[^f00023]—
+**10.**[^c-76cd0df4bdeb56c1af730565fb9f4883] In the Town and Country Planning (Electronic Communications) (Wales) (No 1) Order 2004[^f00023]—
 
 - (a) omit article 13;
 - (b) omit Schedule 4.
 
-### ...[^key-c09699bae7eb9aef9f6cf4507b2d71fd]
+### ...[^c-c09699bae7eb9aef9f6cf4507b2d71fd]
 
 *Extent: E+W+S+N.I.*
 
-**11.**[^key-c09699bae7eb9aef9f6cf4507b2d71fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c09699bae7eb9aef9f6cf4507b2d71fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
-**12.**[^key-c09699bae7eb9aef9f6cf4507b2d71fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c09699bae7eb9aef9f6cf4507b2d71fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
-**13.**[^key-c09699bae7eb9aef9f6cf4507b2d71fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-c09699bae7eb9aef9f6cf4507b2d71fd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Town and Country Planning (Referred Applications and Appeals Procedure) (Wales) Regulations 2017
 
@@ -810,7 +810,7 @@ Regulation 27
 
 Regulation 28
 
-**1.**[^key-9a6c7d893c7c801ee3f74c27f6305936] The following statutory instruments are revoked—
+**1.**[^c-9a6c7d893c7c801ee3f74c27f6305936] The following statutory instruments are revoked—
 
 - (a) the Planning (Listed Buildings and Conservation Areas) (Wales) Regulations 2012[^f00026];
 - (b) the Planning (Listed Buildings and Conservation Areas) (Wales) (Amendment) Regulations 2015[^f00027];
@@ -820,9 +820,9 @@ Regulation 28
 - (f) the Listed Buildings (Urgent Works) (Interest Rate on Expenses) (Wales) Order 2017[^f00031];
 - (g) the Planning (Listed Buildings and Conservation Areas) (Wales) (Amendment) Regulations 2021[^f00032].
 
-**2.**[^key-9a2a5dad211766bf2dcf4c4c98a7c257] The Planning (Listed Buildings and Conservation Areas) Regulations 1990[^f00033] are revoked in relation to Wales, to the extent that they remain in force.
+**2.**[^c-9a2a5dad211766bf2dcf4c4c98a7c257] The Planning (Listed Buildings and Conservation Areas) Regulations 1990[^f00033] are revoked in relation to Wales, to the extent that they remain in force.
 
-**3.**[^key-8bf84f1fe3ffee63754c35cad8fec46d] The following Directions are withdrawn—
+**3.**[^c-8bf84f1fe3ffee63754c35cad8fec46d] The following Directions are withdrawn—
 
 - (a) the Listed Building Applications and Decisions (Duty to Notify National Amenity Societies and the Royal Commission) (Wales) Direction 2022[^f00034];
 - (b) the Listed Building Consent Applications (Disapplication of Duty to Notify Welsh Ministers) (Wales) Direction[^f00035];
@@ -914,65 +914,65 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2023 asc 3](https://www.legislation.gov.uk/asc/2023/3).
 
-[^key-726eb62d063ff4efc9c664fb3f2ac0e6]: Modification: Regulations applied (with modifications) (4.11.2024) by [S.I. 2015/56](https://www.legislation.gov.uk/uksi/2015/56), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2015/56/schedule/5/paragraph/2) (as substituted by [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/uksi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/930/regulation/1/2), [Sch. 4 para. 13(a)](https://www.legislation.gov.uk/uksi/2024/930/schedule/4/paragraph/13/a))
+[^c-726eb62d063ff4efc9c664fb3f2ac0e6]: Modification: Regulations applied (with modifications) (4.11.2024) by [S.I. 2015/56](https://www.legislation.gov.uk/uksi/2015/56), [Sch. 5 para. 2](https://www.legislation.gov.uk/uksi/2015/56/schedule/5/paragraph/2) (as substituted by [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/uksi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/930/regulation/1/2), [Sch. 4 para. 13(a)](https://www.legislation.gov.uk/uksi/2024/930/schedule/4/paragraph/13/a))
 
-[^key-2547d6b9bc16a94357999a378f862c84]: Modification: Regulations applied (with modifications) (4.11.2024) by [S.I. 2015/56](https://www.legislation.gov.uk/uksi/2015/56), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2015/56/schedule/4/paragraph/2) (as substituted by [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/uksi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/930/regulation/1/2), [Sch. 4 para. 12(a)](https://www.legislation.gov.uk/uksi/2024/930/schedule/4/paragraph/12/a))
+[^c-2547d6b9bc16a94357999a378f862c84]: Modification: Regulations applied (with modifications) (4.11.2024) by [S.I. 2015/56](https://www.legislation.gov.uk/uksi/2015/56), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2015/56/schedule/4/paragraph/2) (as substituted by [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/uksi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/930/regulation/1/2), [Sch. 4 para. 12(a)](https://www.legislation.gov.uk/uksi/2024/930/schedule/4/paragraph/12/a))
 
-[^key-13fffb20291d110a24e74ba64f5e4996]: Modification: Regulations applied (with modifications) (4.11.2024) by [S.I. 1992/3138](https://www.legislation.gov.uk/uksi/1992/3138), [reg. 3A](https://www.legislation.gov.uk/uksi/1992/3138/regulation/3A), [Sch. 1A](https://www.legislation.gov.uk/uksi/1992/3138/schedule/1A) (as inserted by [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/uksi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/930/regulation/1/2), [Sch. 4 paras. 5](https://www.legislation.gov.uk/uksi/2024/930/schedule/4/paragraph/5), [6](https://www.legislation.gov.uk/uksi/2024/930/schedule/4/paragraph/6); and as amended (31.12.2024) by [S.I. 2024/1258](https://www.legislation.gov.uk/uksi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1258/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1258/regulation/4))
+[^c-13fffb20291d110a24e74ba64f5e4996]: Modification: Regulations applied (with modifications) (4.11.2024) by [S.I. 1992/3138](https://www.legislation.gov.uk/uksi/1992/3138), [reg. 3A](https://www.legislation.gov.uk/uksi/1992/3138/regulation/3A), [Sch. 1A](https://www.legislation.gov.uk/uksi/1992/3138/schedule/1A) (as inserted by [The Listed Buildings and Conservation Areas (Procedure and Interest Rate) (Wales) Regulations 2024 (S.I. 2024/930)](https://www.legislation.gov.uk/uksi/2024/930), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/930/regulation/1/2), [Sch. 4 paras. 5](https://www.legislation.gov.uk/uksi/2024/930/schedule/4/paragraph/5), [6](https://www.legislation.gov.uk/uksi/2024/930/schedule/4/paragraph/6); and as amended (31.12.2024) by [S.I. 2024/1258](https://www.legislation.gov.uk/uksi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1258/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1258/regulation/4))
 
-[^key-546ae324275e81da637c3cf0ad437435]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/930/regulation/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-546ae324275e81da637c3cf0ad437435]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2024/930/regulation/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00002]: Footnote: See paragraphs 8 to 10 of the Explanatory Notes to the 2023 Act, which can be found at https://www.legislation.gov.uk/asc/2023/3/notes/division/3
 
-[^key-c7054c1b40a1ae5349d8ca922b2905e6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/930/regulation/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-c7054c1b40a1ae5349d8ca922b2905e6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2024/930/regulation/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00003]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7).
 
 [^f00004]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 1(1A), (1B) and (6) were inserted by section 18(3), (4) and (5) of the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19) (“**1994 Act**”); section 2(1A), (1B) and (1C) were inserted by section 19(1) of the 1994 Act; section 2(1D) was inserted by section 78 of and paragraph 32(2) of Schedule 10 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25) (“**1995 Act**”); section 2(3), (4) were inserted by section 19(4)(c) and (d) of the 1994 Act; and section 4A was inserted by section 67(1) of the 1995 Act.
 
-[^key-aebb5ac8391efdcb3b7168d7f98327bd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/930/regulation/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-aebb5ac8391efdcb3b7168d7f98327bd]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2024/930/regulation/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-cd2333034d6326cf44b39fb91aa62bfa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/930/regulation/4) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-cd2333034d6326cf44b39fb91aa62bfa]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2024/930/regulation/4) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-68bdd00265928fdcb55acee08a2c0c52]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/930/regulation/5) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-68bdd00265928fdcb55acee08a2c0c52]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2024/930/regulation/5) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-d60f579056478c09bd460f438ed2b8b9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2024/930/regulation/6) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-d60f579056478c09bd460f438ed2b8b9]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2024/930/regulation/6) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-a1e33b6faaab9aadf61b48a37577f0f5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/930/regulation/7) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-a1e33b6faaab9aadf61b48a37577f0f5]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2024/930/regulation/7) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-3b4c314c37b497c84f9481feb424f529]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/930/regulation/8) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-3b4c314c37b497c84f9481feb424f529]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2024/930/regulation/8) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00005]: Footnote: Star classifications can be found at https://cadw.gov.wales/advice-support/cof-cymru/search-cadw-records.
 
-[^key-ff9ed7afbdd701624a2d0664e86214e2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2024/930/regulation/9) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-ff9ed7afbdd701624a2d0664e86214e2]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2024/930/regulation/9) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-dffae9bd559451246c0c7d2f88d56e22]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2024/930/regulation/10) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-dffae9bd559451246c0c7d2f88d56e22]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2024/930/regulation/10) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-000ddb870a0ff188f8decdd62931956a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2024/930/regulation/11) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-000ddb870a0ff188f8decdd62931956a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2024/930/regulation/11) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-60877f6cc4eb174f61a58be65a067b57]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2024/930/regulation/12) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-60877f6cc4eb174f61a58be65a067b57]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2024/930/regulation/12) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-1697e49be81a7f206f4f0b8a02062267]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2024/930/regulation/13) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-1697e49be81a7f206f4f0b8a02062267]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2024/930/regulation/13) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-f2fbb532f64094c44197a5b0284bf2b9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2024/930/regulation/14) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-f2fbb532f64094c44197a5b0284bf2b9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2024/930/regulation/14) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-a29a91f9958f55cb4c627d91728780a1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2024/930/regulation/15) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-a29a91f9958f55cb4c627d91728780a1]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2024/930/regulation/15) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-e719504faf6fac2d668f5221219eccbb]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2024/930/regulation/16) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-e719504faf6fac2d668f5221219eccbb]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2024/930/regulation/16) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-a4baaf165e5478d9f927662550ae3567]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2024/930/regulation/17) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-a4baaf165e5478d9f927662550ae3567]: Commencement: [Reg. 17](https://www.legislation.gov.uk/wsi/2024/930/regulation/17) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-71a76779d8b3be535e80837a2aa79db0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2024/930/regulation/18) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-71a76779d8b3be535e80837a2aa79db0]: Commencement: [Reg. 18](https://www.legislation.gov.uk/wsi/2024/930/regulation/18) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-1ac5275dc59be1935fe05cbea53d0dfe]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2024/930/regulation/19) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-1ac5275dc59be1935fe05cbea53d0dfe]: Commencement: [Reg. 19](https://www.legislation.gov.uk/wsi/2024/930/regulation/19) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-8b90bbb32374e7b83b77fb226491a0cd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2024/930/regulation/20) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-8b90bbb32374e7b83b77fb226491a0cd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/wsi/2024/930/regulation/20) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-ec192a5356b939d22b47f46b7b7cad08]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2024/930/regulation/21) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-ec192a5356b939d22b47f46b7b7cad08]: Commencement: [Reg. 21](https://www.legislation.gov.uk/wsi/2024/930/regulation/21) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-a0f6b0ca177f75e1b1265e184b0131ca]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2024/930/regulation/22) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-a0f6b0ca177f75e1b1265e184b0131ca]: Commencement: [Reg. 22](https://www.legislation.gov.uk/wsi/2024/930/regulation/22) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-a9770610e1e209e46f26ce866360400c]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2024/930/regulation/23) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-a9770610e1e209e46f26ce866360400c]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2024/930/regulation/23) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00006]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8). Section 102(8) was substituted by section 21 of and paragraph 6 of Schedule 1 to, the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34). There are other amendments which are not relevant to these Regulations.
 
@@ -996,93 +996,93 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00016]: Footnote: [2000 c. 37](https://www.legislation.gov.uk/ukpga/2000/37).
 
-[^key-d1cc4b89bf815de551060d60c98bb934]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2024/930/regulation/24) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-d1cc4b89bf815de551060d60c98bb934]: Commencement: [Reg. 24](https://www.legislation.gov.uk/wsi/2024/930/regulation/24) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-a6063db013e09a28a66fcf77af8c8588]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2024/930/regulation/25) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-a6063db013e09a28a66fcf77af8c8588]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2024/930/regulation/25) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-98111a4b023c43a882cf8dd34678daf0]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2024/930/regulation/26) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-98111a4b023c43a882cf8dd34678daf0]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2024/930/regulation/26) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00017]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-16100fc6adf34aef53e381cb240f0762]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2024/930/regulation/27) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-16100fc6adf34aef53e381cb240f0762]: Commencement: [Reg. 27](https://www.legislation.gov.uk/wsi/2024/930/regulation/27) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-623447ec56a85c8a2adbf12cce797842]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2024/930/regulation/28) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-623447ec56a85c8a2adbf12cce797842]: Commencement: [Reg. 28](https://www.legislation.gov.uk/wsi/2024/930/regulation/28) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-2388a7b69240f96acfbe7e97478f61ba]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2024/930/schedule/1/paragraph/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-2388a7b69240f96acfbe7e97478f61ba]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2024/930/schedule/1/paragraph/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-a88472d30a0327813a6e2e42f540bb34]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2024/930/schedule/1/paragraph/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-a88472d30a0327813a6e2e42f540bb34]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2024/930/schedule/1/paragraph/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-abb7dc2a98d00e9d81e065e7aa8df7a5]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2024/930/schedule/1/paragraph/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-abb7dc2a98d00e9d81e065e7aa8df7a5]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2024/930/schedule/1/paragraph/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-c03747946bb80da01d262dbe2cc345eb]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2024/930/schedule/1/paragraph/4) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-c03747946bb80da01d262dbe2cc345eb]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2024/930/schedule/1/paragraph/4) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-27a6e7d3a7efd562735a88c04abc066c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2024/930/schedule/1/paragraph/5) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-27a6e7d3a7efd562735a88c04abc066c]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2024/930/schedule/1/paragraph/5) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-f2a6c1c5fee5046812904362fa4f879d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-f2a6c1c5fee5046812904362fa4f879d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-671c0f4afc4de4b2dd5bc0d2bb9954ee]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-671c0f4afc4de4b2dd5bc0d2bb9954ee]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-a86aec5af08dd4dca27cbec86c9e0b79]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-a86aec5af08dd4dca27cbec86c9e0b79]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-c78b975b4d7f808772f7288e3179843f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/4) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-c78b975b4d7f808772f7288e3179843f]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/4) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-791dba651db1a6a057c934ec0d353563]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/5) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-791dba651db1a6a057c934ec0d353563]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/5) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-e14e012e7b9ae6d3c04b1b60653c942a]: Commencement: Sch. 2 para. 6 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-e14e012e7b9ae6d3c04b1b60653c942a]: Commencement: Sch. 2 para. 6 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-017f09ff0db7dd697fc2090654d2e2b8]: Textual amendment: Words in Sch. 2 para. 6 omitted (31.12.2024) by virtue of [The Historic Environment (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1258)](https://www.legislation.gov.uk/wsi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/12/a)
+[^c-017f09ff0db7dd697fc2090654d2e2b8]: Textual amendment: Words in Sch. 2 para. 6 omitted (31.12.2024) by virtue of [The Historic Environment (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1258)](https://www.legislation.gov.uk/wsi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/1/2), [12(a)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/12/a)
 
-[^key-f1d875333667800f9bb7155c81ffb317]: Textual amendment: Words in Sch. 2 para. 6(a) inserted (31.12.2024) by [The Historic Environment (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1258)](https://www.legislation.gov.uk/wsi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/12/b)
+[^c-f1d875333667800f9bb7155c81ffb317]: Textual amendment: Words in Sch. 2 para. 6(a) inserted (31.12.2024) by [The Historic Environment (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1258)](https://www.legislation.gov.uk/wsi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/1/2), [12(b)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/12/b)
 
-[^key-cdd88c6df91e5f5056978752fb94b2e9]: Textual amendment: Words in Sch. 2 para. 6(b) inserted (31.12.2024) by [The Historic Environment (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1258)](https://www.legislation.gov.uk/wsi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/1/2), [12(c)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/12/c)
+[^c-cdd88c6df91e5f5056978752fb94b2e9]: Textual amendment: Words in Sch. 2 para. 6(b) inserted (31.12.2024) by [The Historic Environment (Miscellaneous Amendments) (Wales) Regulations 2024 (S.I. 2024/1258)](https://www.legislation.gov.uk/wsi/2024/1258), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/1/2), [12(c)](https://www.legislation.gov.uk/wsi/2024/1258/regulation/12/c)
 
-[^key-f8208ca73b68fe77e18f73f46efbf44f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/7) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-f8208ca73b68fe77e18f73f46efbf44f]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/7) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-02bac367296db3bc24a9cfc36e7be69c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/8) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-02bac367296db3bc24a9cfc36e7be69c]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/8) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-73b095907a22ab23340051815668bb38]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/9) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-73b095907a22ab23340051815668bb38]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2024/930/schedule/2/paragraph/9) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-b2149758e9f43c60b74bf7099386fc5a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2024/930/schedule/3/paragraph/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-b2149758e9f43c60b74bf7099386fc5a]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2024/930/schedule/3/paragraph/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-2d9ec0564495c9fb05b75c46ec8f324e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2024/930/schedule/3/paragraph/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-2d9ec0564495c9fb05b75c46ec8f324e]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2024/930/schedule/3/paragraph/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-5cb6c7f639b6e55ef286f6fd7656e387]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2024/930/schedule/3/paragraph/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-5cb6c7f639b6e55ef286f6fd7656e387]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2024/930/schedule/3/paragraph/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-adbda1887cb31509ed9425ff06178e81]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2024/930/schedule/3/paragraph/4) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-adbda1887cb31509ed9425ff06178e81]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2024/930/schedule/3/paragraph/4) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-74cead3e83bca1ab3c580b50c2062cd6]: Commencement: Sch. 4 para. 1 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-74cead3e83bca1ab3c580b50c2062cd6]: Commencement: Sch. 4 para. 1 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00018]: Footnote: [S.I. 2007/399 (W. 45)](https://www.legislation.gov.uk/wsi/2007/399), to which there are amendments not relevant to these Regulations.
 
-[^key-a758c65bcb0e637f81e91a59cb44bfb6]: Commencement: Sch. 4 para. 2 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-a758c65bcb0e637f81e91a59cb44bfb6]: Commencement: Sch. 4 para. 2 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00019]: Footnote: [S.I. 1992/3138](https://www.legislation.gov.uk/uksi/1992/3138), to which there are amendments not relevant to these Regulations.
 
-[^key-ea3bdb6c88c490c3eed779233e51f38d]: Commencement: Sch. 4 para. 3 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-ea3bdb6c88c490c3eed779233e51f38d]: Commencement: Sch. 4 para. 3 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-8e53617b6709287bf6ff009557f2656a]: Commencement: Sch. 4 para. 4 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-8e53617b6709287bf6ff009557f2656a]: Commencement: Sch. 4 para. 4 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-d2d5e604fc84f171a5bfbb512283b34e]: Commencement: Sch. 4 para. 5 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-d2d5e604fc84f171a5bfbb512283b34e]: Commencement: Sch. 4 para. 5 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-fe6ebf547a1e6ffcf82d9d3c1725703e]: Commencement: Sch. 4 para. 6 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-fe6ebf547a1e6ffcf82d9d3c1725703e]: Commencement: Sch. 4 para. 6 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-f496550a0ca2ea7b0c123c65a3fafaa0]: Commencement: Sch. 4 para. 7 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-f496550a0ca2ea7b0c123c65a3fafaa0]: Commencement: Sch. 4 para. 7 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803), to which there are amendments not relevant to these Regulations.
 
-[^key-0507444dc722a0884447ce4dab4a1b82]: Commencement: Sch. 4 para. 8 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-0507444dc722a0884447ce4dab4a1b82]: Commencement: Sch. 4 para. 8 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00021]: Footnote: [S.I. 1996/525](https://www.legislation.gov.uk/uksi/1996/525), to which there are amendments not relevant to these Regulations.
 
-[^key-8adbb17be23554386af8e42096fa156e]: Commencement: Sch. 4 para. 9 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-8adbb17be23554386af8e42096fa156e]: Commencement: Sch. 4 para. 9 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00022]: Footnote: [S.I. 1996/534](https://www.legislation.gov.uk/uksi/1996/534), to which there is an amendment not relevant to these Regulations.
 
-[^key-76cd0df4bdeb56c1af730565fb9f4883]: Commencement: Sch. 4 para. 10 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-76cd0df4bdeb56c1af730565fb9f4883]: Commencement: Sch. 4 para. 10 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00023]: Footnote: [S.I. 2004/3156](https://www.legislation.gov.uk/uksi/2004/3156), to which there is an amendment not relevant these Regulations.
 
-[^key-c09699bae7eb9aef9f6cf4507b2d71fd]: Textual amendment: Sch. 4 para 11-13 and cross-heading omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [17(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/17/2) (with [reg. 17(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/17/2))
+[^c-c09699bae7eb9aef9f6cf4507b2d71fd]: Textual amendment: Sch. 4 para 11-13 and cross-heading omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [17(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/17/2) (with [reg. 17(2)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/17/2))
 
 [^M_I_250d4dda-72a5-41d0-8d40-31decd3ac332]: Commencement: Sch. 4 para. 14 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
@@ -1092,7 +1092,7 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^M_I_462d17f5-20ed-41e8-ef4d-76aa815b55d5]: Commencement: Sch. 4 para. 16 in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
-[^key-9a6c7d893c7c801ee3f74c27f6305936]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/wsi/2024/930/schedule/5/paragraph/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-9a6c7d893c7c801ee3f74c27f6305936]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/wsi/2024/930/schedule/5/paragraph/1) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00026]: Footnote: [S.I. 2012/793 (W. 108)](https://www.legislation.gov.uk/wsi/2012/793).
 
@@ -1108,11 +1108,11 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00032]: Footnote: [S.I. 2021/832 (W. 194)](https://www.legislation.gov.uk/wsi/2021/832).
 
-[^key-9a2a5dad211766bf2dcf4c4c98a7c257]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/wsi/2024/930/schedule/5/paragraph/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-9a2a5dad211766bf2dcf4c4c98a7c257]: Commencement: [Sch. 5 para. 2](https://www.legislation.gov.uk/wsi/2024/930/schedule/5/paragraph/2) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00033]: Footnote: [S.I. 1990/1519](https://www.legislation.gov.uk/uksi/1990/1519).
 
-[^key-8bf84f1fe3ffee63754c35cad8fec46d]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/wsi/2024/930/schedule/5/paragraph/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
+[^c-8bf84f1fe3ffee63754c35cad8fec46d]: Commencement: [Sch. 5 para. 3](https://www.legislation.gov.uk/wsi/2024/930/schedule/5/paragraph/3) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/930/regulation/1/2)
 
 [^f00034]: Footnote: WG 22-40.
 

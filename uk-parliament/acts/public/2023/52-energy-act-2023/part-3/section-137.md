@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Scope of modification powers under section 136[^key-bfa84b2cb8f8d39ac489822ad8067f5e]
+## 137. Scope of modification powers under section 136[^c-bfa84b2cb8f8d39ac489822ad8067f5e]
 
 *Extent: E+W+S*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfa84b2cb8f8d39ac489822ad8067f5e]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2023/52/section/137) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)
+[^c-bfa84b2cb8f8d39ac489822ad8067f5e]: Commencement: [S. 137](https://www.legislation.gov.uk/ukpga/2023/52/section/137) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Amendments to the Justices’ Clerks Rules 2005[^key-e2511f501751e1b15924355ea0c88646]
+## 87. Amendments to the Justices’ Clerks Rules 2005[^c-e2511f501751e1b15924355ea0c88646]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Justices’ Clerks Rules 2005[^f00026] are amended as follows.
 
 ## Annotations
 
-[^key-e2511f501751e1b15924355ea0c88646]: Commencement: Art. 87 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-e2511f501751e1b15924355ea0c88646]: Commencement: Art. 87 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00026]: Footnote: [S.I. 2005/545](https://www.legislation.gov.uk/uksi/2005/545). [S.I. 2011/633](https://www.legislation.gov.uk/uksi/2011/633) makes relevant amendments.

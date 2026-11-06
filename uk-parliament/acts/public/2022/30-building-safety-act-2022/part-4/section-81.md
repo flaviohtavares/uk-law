@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Building assessment certificates[^key-afd0d07c551766b5458e571f3243f7db][^key-288427a533f29b8da213feaf35ad2639]
+## 81. Building assessment certificates[^c-afd0d07c551766b5458e571f3243f7db][^c-288427a533f29b8da213feaf35ad2639]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-afd0d07c551766b5458e571f3243f7db]: Commencement: S. 81 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
+[^c-afd0d07c551766b5458e571f3243f7db]: Commencement: S. 81 in force at Royal Assent for specified purposes, see [s. 170(2)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/2/a)
 
-[^key-288427a533f29b8da213feaf35ad2639]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2022/30/section/81) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/c)
+[^c-288427a533f29b8da213feaf35ad2639]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2022/30/section/81) in force at 16.1.2024 in so far as not already in force by [S.I. 2024/40](https://www.legislation.gov.uk/uksi/2024/40), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2024/40/regulation/2/c)

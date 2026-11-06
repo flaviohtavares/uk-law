@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1(4)
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 1, 2B(1), (3) and (6), 3, 16(9), 17(1) and (6), 34, 35, 47(1), (2) and (5), 50(1), (4) and (6), 51(1) and (2), 51A(2) and (3), 52(1), (3) and (5), and 54(1), (2), (5) and (6) of, and paragraphs 1, 4, 4A, 7, 8(1) and 10 of Schedule 1 to, and paragraphs 2(1) to (4) and 3(1) and (2) of Schedule 4 to, the Building Act 1984[^f00001], having consulted the Building Regulations Advisory Committee for England and such other bodies as appear to the Secretary of State to be representative of the interests concerned in accordance with section 14(3)[^f00002] of that Act.
 
-## 1. Citation, extent, application and commencement[^key-b223426bbbdb828b8302c055bb154954]
+## 1. Citation, extent, application and commencement[^c-b223426bbbdb828b8302c055bb154954]
 
 (1) These Regulations may be cited as the Building Regulations &c. (Amendment) Regulations 2015.
 
@@ -58,11 +58,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 - (b) all remaining regulations, except regulation 2(10)(b), on 1st October 2015; and
 - (c) regulation 2(10)(b) on 31st December 2015.
 
-## 2. Amendments to the Building Regulations 2010[^key-2af16c769797996c7de501e82034ecc8][^key-f9ba0cc07d25118a29ab02bf03ffe414][^key-ff87aa9def7ff986fe07f1edd7c90456]
+## 2. Amendments to the Building Regulations 2010[^c-2af16c769797996c7de501e82034ecc8][^c-f9ba0cc07d25118a29ab02bf03ffe414][^c-ff87aa9def7ff986fe07f1edd7c90456]
 
-(1)[^key-2af16c769797996c7de501e82034ecc8] The Building Regulations 2010[^f00004] are amended in accordance with the following paragraphs.
+(1)[^c-2af16c769797996c7de501e82034ecc8] The Building Regulations 2010[^f00004] are amended in accordance with the following paragraphs.
 
-(2)[^key-2af16c769797996c7de501e82034ecc8] In regulation 2(1) (interpretation)—
+(2)[^c-2af16c769797996c7de501e82034ecc8] In regulation 2(1) (interpretation)—
 
 - (a) after the definition “microgeneration” insert the following definitions—
 
@@ -76,7 +76,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-(3)[^key-2af16c769797996c7de501e82034ecc8] In regulation 4 (requirements relating to building work)—
+(3)[^c-2af16c769797996c7de501e82034ecc8] In regulation 4 (requirements relating to building work)—
 
 - (a) in paragraph (1)(b) after “other such requirement” insert “, except as may be provided for in paragraphs (1C) and (1D)”;
 - (b) after paragraph (1) insert the following paragraphs—
@@ -97,7 +97,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-(4)[^key-2af16c769797996c7de501e82034ecc8] In regulation 6[^f00006] (requirements relating to material change of use)—
+(4)[^c-2af16c769797996c7de501e82034ecc8] In regulation 6[^f00006] (requirements relating to material change of use)—
 
 - (a) in subparagraph (1)(i) for “M1 (access and use)” substitute “M1 (access to and use of buildings other than dwellings)”;
 - (b) after subparagraph (1)(i) insert a semicolon and the following subparagraph—
@@ -113,7 +113,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
     .
 
-(5)[^key-2af16c769797996c7de501e82034ecc8] In regulation 13 (particulars and plans where a building notice is given)—
+(5)[^c-2af16c769797996c7de501e82034ecc8] In regulation 13 (particulars and plans where a building notice is given)—
 
 - (a) in paragraph (1)—
   - (i) after subparagraph (b) omit “and”, and
@@ -132,9 +132,9 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-(6)[^key-2af16c769797996c7de501e82034ecc8] In regulation 14(3)(a) (full plans) after “(1)” insert “, (1A)”.
+(6)[^c-2af16c769797996c7de501e82034ecc8] In regulation 14(3)(a) (full plans) after “(1)” insert “, (1A)”.
 
-(7)[^key-2af16c769797996c7de501e82034ecc8] In regulation 35[^f00007]( (interpretation of Part 6)—
+(7)[^c-2af16c769797996c7de501e82034ecc8] In regulation 35[^f00007]( (interpretation of Part 6)—
 
 - (a) after the definition “major renovation” omit “and”; and
 - (b) after the definition “nearly zero-energy building” insert a semicolon and the following definition—
@@ -143,7 +143,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
   .
 
-(8)[^key-2af16c769797996c7de501e82034ecc8] For the text of regulation 36 (water efficiency of new dwellings) substitute—
+(8)[^c-2af16c769797996c7de501e82034ecc8] For the text of regulation 36 (water efficiency of new dwellings) substitute—
 
 > (1) The potential consumption of wholesome water by persons occupying a new dwelling must not exceed the requirement in paragraph (2).
 >
@@ -163,7 +163,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 .
 
-(9)[^key-2af16c769797996c7de501e82034ecc8] For the text of regulation 37(1) (wholesome water consumption calculation) substitute—
+(9)[^c-2af16c769797996c7de501e82034ecc8] For the text of regulation 37(1) (wholesome water consumption calculation) substitute—
 
 > (1) Where regulation 36 applies, the person carrying out the work must give the local authority a notice which specifies—
 >
@@ -174,10 +174,10 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (10) In regulation 43(4)[^f00008]—
 
-- (a)[^key-f9ba0cc07d25118a29ab02bf03ffe414] after “the British Institute of Non-Destructive Testing” add “, the Independent Air Tightness Testing Scheme Limited[^f00009]”; and
-- (b)[^key-ff87aa9def7ff986fe07f1edd7c90456] omit “the British Institute of Non-Destructive Testing,”.
+- (a)[^c-f9ba0cc07d25118a29ab02bf03ffe414] after “the British Institute of Non-Destructive Testing” add “, the Independent Air Tightness Testing Scheme Limited[^f00009]”; and
+- (b)[^c-ff87aa9def7ff986fe07f1edd7c90456] omit “the British Institute of Non-Destructive Testing,”.
 
-(11)[^key-2af16c769797996c7de501e82034ecc8] In Schedule 1[^f00010] (requirements)—
+(11)[^c-2af16c769797996c7de501e82034ecc8] In Schedule 1[^f00010] (requirements)—
 
 - (a) in part H (drainage and waste disposal), in subparagraph (a) of the second column of requirement H3(2) (rainwater drainage)—
   - (i) for “M1 (access and use), or” substitute “M1 (access to and use of buildings other than dwellings),”, and
@@ -196,17 +196,17 @@ The Secretary of State makes the following Regulations in exercise of the powers
   > | --- | --- |
   > | **PART Q SECURITY**<br>**Unauthorised access**<br>**Q1**<br>Reasonable provision must be made to resist unauthorised access to—<br>(a) any dwelling; and<br>(b) any part of a building from which access can be gained to a flat within the building. | Requirement Q1 applies only in relation to new dwellings. |
 
-(12)[^key-f9ba0cc07d25118a29ab02bf03ffe414] For the table in Schedule 3[^f00011] (self-certification schemes and exemptions from requirement to give building notice or deposit full plans) substitute the table in Schedule 1 to these Regulations.
+(12)[^c-f9ba0cc07d25118a29ab02bf03ffe414] For the table in Schedule 3[^f00011] (self-certification schemes and exemptions from requirement to give building notice or deposit full plans) substitute the table in Schedule 1 to these Regulations.
 
-## 3. Amendments to the Building (Approved Inspectors etc.) Regulations 2010[^key-46e9affbd5deff6944a8961e79196835]
+## 3. Amendments to the Building (Approved Inspectors etc.) Regulations 2010[^c-46e9affbd5deff6944a8961e79196835]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions[^key-a5d8488e2b69edf702965593c254e2b4]
+## 4. Transitional provisions[^c-a5d8488e2b69edf702965593c254e2b4]
 
 Regulations 2(3), (5), (6), (8), (9), and (11)(a) and (b), and 3(3) to (9) shall not apply in relation to building work in respect of which a building notice, an initial notice, a plans certificate, an amendment notice or a public body’s notice has been given to, or full plans deposited with, a local authority before 1st October 2015.
 
-**5.**[^key-009cb936fb541a267cbad274a3a9e6e5] Regulation 2(4) and (11)(c) shall not apply in relation to building work that is started before 1st October 2016 in respect of which a building notice, an initial notice, a plans certificate, an amendment notice or a public body’s notice has been given to, or full plans deposited with, a local authority before 1st October 2015.
+**5.**[^c-009cb936fb541a267cbad274a3a9e6e5] Regulation 2(4) and (11)(c) shall not apply in relation to building work that is started before 1st October 2016 in respect of which a building notice, an initial notice, a plans certificate, an amendment notice or a public body’s notice has been given to, or full plans deposited with, a local authority before 1st October 2015.
 
 Signed by authority of the Secretary of State for Communities and Local Government
 
@@ -218,7 +218,7 @@ Department for Communities and Local Government
 
 26th March 2015
 
-## SCHEDULE 1[^key-ae1ca28f3e2a10e4918d1774f575ff5c]
+## SCHEDULE 1[^c-ae1ca28f3e2a10e4918d1774f575ff5c]
 
 Regulation 2(12)
 
@@ -245,7 +245,7 @@ Regulation 2(12)
 > | **19.** Installation of insulating material to the external walls of a building, not including insulation of demountable-clad buildings. | A person registered in respect of that type of work by Blue Flame Certification Limited, British Board of Agrément, CERTASS Limited, Certsure LLP, NAPIT Registration Limited, or Stroma Certification Limited. |
 > | **20.** Installation of insulating material to the external and internal walls of a building (“hybrid insulation”), not including insulation of demountable-clad buildings, and not including the installation of flexible thermal linings. | A person registered in respect of that type of work by Blue Flame Certification Limited, British Board of Agrément, CERTASS Limited, Certsure LLP, NAPIT Registration Limited or Stroma Certification Limited. |
 
-## SCHEDULE 2 — Forms for substitution in Schedule 1 to the Building (Approved Inspectors etc.) Regulations 2010[^key-26a87eea043d1053af426f9d5b03c6bd]
+## SCHEDULE 2 — Forms for substitution in Schedule 1 to the Building (Approved Inspectors etc.) Regulations 2010[^c-26a87eea043d1053af426f9d5b03c6bd]
 
 Regulation 3(3)
 
@@ -295,15 +295,15 @@ Three impact assessments of the effect that these Regulations will have on the c
 
 [^f00002]: Footnote: Section 14(3) was amended by article 8(3) of [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019).
 
-[^key-b223426bbbdb828b8302c055bb154954]: Commencement: Reg. 1 in force at 18.4.2015, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/a)
+[^c-b223426bbbdb828b8302c055bb154954]: Commencement: Reg. 1 in force at 18.4.2015, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/a)
 
 [^f00003]: Footnote: [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019).
 
-[^key-2af16c769797996c7de501e82034ecc8]: Commencement: Reg. 2(1)-(9)(11) in force at 1.10.2015, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/b)
+[^c-2af16c769797996c7de501e82034ecc8]: Commencement: Reg. 2(1)-(9)(11) in force at 1.10.2015, see [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/b)
 
-[^key-f9ba0cc07d25118a29ab02bf03ffe414]: Commencement: Reg. 2(10)(a)(12) in force at 18.4.2015, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/a)
+[^c-f9ba0cc07d25118a29ab02bf03ffe414]: Commencement: Reg. 2(10)(a)(12) in force at 18.4.2015, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/a)
 
-[^key-ff87aa9def7ff986fe07f1edd7c90456]: Commencement: Reg. 2(10)(b) in force at 31.12.2015, see [reg. 1(4)(c)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/c)
+[^c-ff87aa9def7ff986fe07f1edd7c90456]: Commencement: Reg. 2(10)(b) in force at 31.12.2015, see [reg. 1(4)(c)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/c)
 
 [^f00004]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214), as amended as described in the footnotes on specific provisions below. There are other amendments, but they are not relevant.
 
@@ -321,13 +321,13 @@ Three impact assessments of the effect that these Regulations will have on the c
 
 [^f00011]: Footnote: As amended by [S.I. 2014/579](https://www.legislation.gov.uk/uksi/2014/579).
 
-[^key-46e9affbd5deff6944a8961e79196835]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/767/regulation/3) revoked (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(vi)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/vi) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
+[^c-46e9affbd5deff6944a8961e79196835]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/767/regulation/3) revoked (6.4.2024) by [The Building (Registered Building Control Approvers etc.) (England) Regulations 2024 (S.I. 2024/110)](https://www.legislation.gov.uk/uksi/2024/110), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/110/regulation/1/3), [43(a)(vi)](https://www.legislation.gov.uk/uksi/2024/110/regulation/43/a/vi) (with [regs. 44-47](https://www.legislation.gov.uk/uksi/2024/110/regulation/44))
 
-[^key-a5d8488e2b69edf702965593c254e2b4]: Commencement: Reg. 4 in force at 18.4.2015, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/a)
+[^c-a5d8488e2b69edf702965593c254e2b4]: Commencement: Reg. 4 in force at 18.4.2015, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/a)
 
-[^key-009cb936fb541a267cbad274a3a9e6e5]: Commencement: Reg. 5 in force at 18.4.2015, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/a)
+[^c-009cb936fb541a267cbad274a3a9e6e5]: Commencement: Reg. 5 in force at 18.4.2015, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/a)
 
-[^key-ae1ca28f3e2a10e4918d1774f575ff5c]: Commencement: Sch. 1 in force at 18.4.2015, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/a)
+[^c-ae1ca28f3e2a10e4918d1774f575ff5c]: Commencement: Sch. 1 in force at 18.4.2015, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/a)
 
 [^f00017]: Footnote: [S.I. 1998/2451](https://www.legislation.gov.uk/uksi/1998/2451).
 
@@ -365,4 +365,4 @@ Three impact assessments of the effect that these Regulations will have on the c
 
 [^f00034]: Footnote: A company formed and registered under the Companies Acts with the registration number 00878293.
 
-[^key-26a87eea043d1053af426f9d5b03c6bd]: Commencement: Sch. 2 in force at 18.4.2015, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/a)
+[^c-26a87eea043d1053af426f9d5b03c6bd]: Commencement: Sch. 2 in force at 18.4.2015, see [reg. 1(4)(a)](https://www.legislation.gov.uk/uksi/2015/767/regulation/1/4/a)

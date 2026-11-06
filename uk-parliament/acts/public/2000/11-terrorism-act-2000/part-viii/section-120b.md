@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 120B. Offences in relation to counter-terrorism financial investigators[^key-a6a1e68bc2f04d9f14164f0b68a7e6a6]
+## 120B. Offences in relation to counter-terrorism financial investigators[^c-a6a1e68bc2f04d9f14164f0b68a7e6a6]
 
 *Extent: E+W+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a6a1e68bc2f04d9f14164f0b68a7e6a6]: Textual amendment: S. 120B inserted (E.W.N.I.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 42(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/42/1), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
+[^c-a6a1e68bc2f04d9f14164f0b68a7e6a6]: Textual amendment: S. 120B inserted (E.W.N.I.) (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 42(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/42/1), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)

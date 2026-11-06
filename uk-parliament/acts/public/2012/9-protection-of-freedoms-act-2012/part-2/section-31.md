@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Alteration or replacement of code[^key-77f5c8aaec3090b990e15a967b9e7f7e]
+## 31. Alteration or replacement of code[^c-77f5c8aaec3090b990e15a967b9e7f7e]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77f5c8aaec3090b990e15a967b9e7f7e]: Commencement: S. 31 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/c)
+[^c-77f5c8aaec3090b990e15a967b9e7f7e]: Commencement: S. 31 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(c)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/c)

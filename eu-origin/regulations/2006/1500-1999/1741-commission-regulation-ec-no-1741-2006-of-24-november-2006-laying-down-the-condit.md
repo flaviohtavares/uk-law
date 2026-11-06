@@ -35,68 +35,68 @@ of 24 November 2006
 
 laying down the conditions for granting the special export refund on boned meat of adult male bovine animals placed under the customs warehousing procedure prior to export (revoked)
 
-[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Scope[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 1. Scope[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 2. Definitions[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Admission to the customs warehousing procedure[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 3. Admission to the customs warehousing procedure[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Entry into storage[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 4. Entry into storage[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Traceability of the meat[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 5. Traceability of the meat[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Updating the database[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 6. Updating the database[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Duration of storage[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 7. Duration of storage[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Operations during storage[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 8. Operations during storage[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Export formalities[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 9. Export formalities[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Grant of the refund[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 10. Grant of the refund[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Checks on storage[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 11. Checks on storage[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Penalties[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 12. Penalties[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Notification to the Commission[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 13. Notification to the Commission[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Entry into force[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]
+## Article 14. Entry into force[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6c43e66b2b8b3c92afcff2fa3ea8e818]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-6c43e66b2b8b3c92afcff2fa3ea8e818]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

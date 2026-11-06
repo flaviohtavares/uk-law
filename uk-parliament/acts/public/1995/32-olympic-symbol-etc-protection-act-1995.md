@@ -33,7 +33,7 @@ An Act to make provision about the use for commercial purposes of the Olympic sy
 
 \[19th July 1995\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-ca059d36c999180075e70aeb41197cc4][^key-d73c3e0918386b5ec3e9020981161594]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-ca059d36c999180075e70aeb41197cc4][^c-d73c3e0918386b5ec3e9020981161594]
 
 ## The Olympics association right
 
@@ -41,16 +41,16 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (1) There shall be a right, to be known as the Olympics association right.
 
-(2) The right shall carry with it the rights and remedies provided by this Act, which shall be exercisable by such person as the Secretary of State [^key-817b92050e24d96ac65fb6ec406c4011]... may by order made by statutory instrument appoint for the purposes of this subsection.
+(2) The right shall carry with it the rights and remedies provided by this Act, which shall be exercisable by such person as the Secretary of State [^c-817b92050e24d96ac65fb6ec406c4011]... may by order made by statutory instrument appoint for the purposes of this subsection.
 
-(2A)[^key-e152a3f8b0b6224325a0752461307be5] An order under subsection (2) above—
+(2A)[^c-e152a3f8b0b6224325a0752461307be5] An order under subsection (2) above—
 
 - (a) may appoint more than one person;
 - (b) may make different appointments for different purposes;
 - (c) may make provision for joint or concurrent exercise of rights;
 - (d) may apply (with or without modifications) or make provision similar to a provision of section 23 of the Trade Marks Act 1994 (c. 26) (co-ownership).
 
-(3) An order under subsection (2) above which revokes a previous order under that subsection may contain such supplementary and transitional provision as the Secretary of State [^key-817b92050e24d96ac65fb6ec406c4011]...thinks fit.
+(3) An order under subsection (2) above which revokes a previous order under that subsection may contain such supplementary and transitional provision as the Secretary of State [^c-817b92050e24d96ac65fb6ec406c4011]...thinks fit.
 
 (4) A statutory instrument containing an order under subsection (2) above shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
@@ -58,14 +58,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (1) The Olympics association right shall confer exclusive rights in relation to the use of the Olympic symbol, the Olympic motto and the protected words.
 
-(2)[^key-5ed60dbf77a55e4a523172f7867e6b93] Subject to sections 4 and 5 below, the rights conferred by subsection (1) above shall be infringed by any act done in the United Kingdom which—
+(2)[^c-5ed60dbf77a55e4a523172f7867e6b93] Subject to sections 4 and 5 below, the rights conferred by subsection (1) above shall be infringed by any act done in the United Kingdom which—
 
 - (a) constitutes infringement under section 3 below, and
 - (b) is done without the consent of the person for the time being appointed under section 1(2) above (in this Act referred to as “the proprietor”).
 
-(3)[^key-5ed60dbf77a55e4a523172f7867e6b93] The proprietor may exploit the rights conferred by subsection (1) above for gain, but may not make any disposition of, or of any interest in or over, them.
+(3)[^c-5ed60dbf77a55e4a523172f7867e6b93] The proprietor may exploit the rights conferred by subsection (1) above for gain, but may not make any disposition of, or of any interest in or over, them.
 
-(4)[^key-5ed60dbf77a55e4a523172f7867e6b93] This section shall not have effect to permit the doing of anything which would otherwise be liable to be prevented by virtue of a right—
+(4)[^c-5ed60dbf77a55e4a523172f7867e6b93] This section shall not have effect to permit the doing of anything which would otherwise be liable to be prevented by virtue of a right—
 
 - (a) subsisting immediately before the day on which this Act comes into force, or
 - (b) created by—
@@ -79,11 +79,11 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 (1) A person infringes the Olympics association right if in the course of trade he uses—
 
 - (a) a representation of the Olympic symbol, the Olympic motto or a protected word, or
-- (b) a representation of something so similar to the Olympic symbol or the Olympic motto as to be likely to create in the public mind an association with it, or a word so similar to a protected word as to be likely to create in the public mind an association with the Olympic Games or the Olympic movement[^key-0fc897c33e4f921386fbbb2ad41cb453]
+- (b) a representation of something so similar to the Olympic symbol or the Olympic motto as to be likely to create in the public mind an association with it, or a word so similar to a protected word as to be likely to create in the public mind an association with the Olympic Games or the Olympic movement[^c-0fc897c33e4f921386fbbb2ad41cb453]
 
 (in this Act referred to as “a controlled representation”).
 
-(2)[^key-7802fdc3b606656800633760517b032a] For the purposes of this section, a person uses a controlled representation if, in particular, he—
+(2)[^c-7802fdc3b606656800633760517b032a] For the purposes of this section, a person uses a controlled representation if, in particular, he—
 
 - (a) affixes it to goods or the packaging thereof,
 - (b) incorporates it in a flag or banner,
@@ -94,7 +94,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 4. Limits on effect.
 
-(1)[^key-90fca4da818968cfa434361c501abccb] A person does not infringe the Olympics association right (despite section 3) by the use of a controlled representation—
+(1)[^c-90fca4da818968cfa434361c501abccb] A person does not infringe the Olympics association right (despite section 3) by the use of a controlled representation—
 
 - (a) in publishing or broadcasting a report of a sporting or other event forming part of the Olympic Games,
 - (b) in publishing or broadcasting information about the Olympic Games,
@@ -114,7 +114,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
   - (i) accords with honest practices in industrial or commercial matters, and
   - (ii) does not make promotional or other commercial use of a protected word by incorporating it in a context to which the Olympic Games and the Olympic movement are substantively irrelevant.
 
-(4) The Secretary of State [^key-6fb50e94758d0adf75683284acf597e7]...may by order specify what is to be or not to be treated for the purposes of subsection (3) as an association between a person, product or service and the Olympic Games or the Olympic movement; and an order under this subsection—
+(4) The Secretary of State [^c-6fb50e94758d0adf75683284acf597e7]...may by order specify what is to be or not to be treated for the purposes of subsection (3) as an association between a person, product or service and the Olympic Games or the Olympic movement; and an order under this subsection—
 
 - (a) may include incidental, consequential or transitional provision (which may include provision amending subsection (3)(a) or (b)),
 - (b) shall be made by statutory instrument, and
@@ -126,22 +126,22 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (b) the representation was used in relation to the goods when they were put on the market, and
 - (c) the proprietor does not oppose further dealings in the goods for legitimate reasons (including, in particular, that the condition of the goods has been changed or impaired after they were put on the market).
 
-(11)[^key-d50c0efb99064cf370fb8b6878ecabbc][^key-f6899b82e2efbc817ac6b807236475b5] The Olympics association right is not infringed by use of a controlled representation where—
+(11)[^c-d50c0efb99064cf370fb8b6878ecabbc][^c-f6899b82e2efbc817ac6b807236475b5] The Olympics association right is not infringed by use of a controlled representation where—
 
 - (a) the use is for the purposes of an undertaking, and
 - (b) the way in which the representation is used for the purposes of the undertaking is a way in which it has been continuously used for those purposes since a date prior to the commencement of this Act.
 
-(12)[^key-d50c0efb99064cf370fb8b6878ecabbc][^key-f6899b82e2efbc817ac6b807236475b5] In the case of a representation of a protected word, the Olympics association right is not infringed by use as part of—
+(12)[^c-d50c0efb99064cf370fb8b6878ecabbc][^c-f6899b82e2efbc817ac6b807236475b5] In the case of a representation of a protected word, the Olympics association right is not infringed by use as part of—
 
 - (a) the name of a company, being a name which was the company’s corporate name immediately before the day on which this Act comes into force, or
 - (b) the name under which a business is carried on, being a business which was carried on under that name immediately before the day on which this Act comes into force.
 
-(13)[^key-d50c0efb99064cf370fb8b6878ecabbc][^key-f6899b82e2efbc817ac6b807236475b5] The Olympics association right is not infringed by use of a controlled representation where the use—
+(13)[^c-d50c0efb99064cf370fb8b6878ecabbc][^c-f6899b82e2efbc817ac6b807236475b5] The Olympics association right is not infringed by use of a controlled representation where the use—
 
 - (a) takes place under a right subsisting immediately before the day on which this Act comes into force, or
 - (b) is liable to be prevented by virtue of such a right.
 
-(14)[^key-d50c0efb99064cf370fb8b6878ecabbc][^key-f6899b82e2efbc817ac6b807236475b5] The Olympics association right is not infringed by use of a controlled representation where the use—
+(14)[^c-d50c0efb99064cf370fb8b6878ecabbc][^c-f6899b82e2efbc817ac6b807236475b5] The Olympics association right is not infringed by use of a controlled representation where the use—
 
 - (a) takes place under a right created by—
   - (i) the registration of a design under the [^c831354]Registered Designs Act 1949 on or after the day on which this Act comes into force, or
@@ -156,26 +156,26 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 (16) In subsection (15) above—
 
 - “**judicial proceedings**” includes proceedings before any court, tribunal or person having authority to decide any matter affecting a person’s legal rights or liabilities;
-- “**parliamentary proceedings**” includes proceedings of the Scottish Parliament,[^c831356] of the National Assembly for Wales,[^key-5202661cf1de7f71d7cece84f721c4f6]of the Northern Ireland Assembly or of the European Parliament;
+- “**parliamentary proceedings**” includes proceedings of the Scottish Parliament,[^c831356] of the National Assembly for Wales,[^c-5202661cf1de7f71d7cece84f721c4f6]of the Northern Ireland Assembly or of the European Parliament;
 - “**Royal Commission**” includes a Commission appointed for Northern Ireland by a Minister, within the meaning of the Northern Ireland Act 1998, or Northern Ireland department in pursuance of the prerogative powers of Her Majesty exercisable by the Minister or department under section 23 of that Act[^c831357]; and
 - “**statutory inquiry**” means an inquiry held or investigation conducted in pursuance of a duty imposed or power conferred by or under an enactment.
 
 (17) In this section, references to use of a work in relation to goods include use of a work on goods.
 
-### 5. Power to prescribe further limits on effect.[^key-bdb283d461ccb1c22d55f4617e81ef5d]
+### 5. Power to prescribe further limits on effect.[^c-bdb283d461ccb1c22d55f4617e81ef5d]
 
-(1) The Secretary of State [^key-993b340e7fb607863dbc4fb4bac4a3c7]... may by order made by statutory instrument specify additional cases in which the Olympics association right is not infringed.
+(1) The Secretary of State [^c-993b340e7fb607863dbc4fb4bac4a3c7]... may by order made by statutory instrument specify additional cases in which the Olympics association right is not infringed.
 
 (2) Without prejudice to the generality of subsection (1) above, the matters by reference to which a case may be specified under that subsection include—
 
 - (a) the description of controlled representation used, and
 - (b) the description of persons by whom a controlled representation is used.
 
-(3) An order under this section may contain such supplementary and transitional provision and savings as the Secretary of State [^key-993b340e7fb607863dbc4fb4bac4a3c7]... thinks fit.
+(3) An order under this section may contain such supplementary and transitional provision and savings as the Secretary of State [^c-993b340e7fb607863dbc4fb4bac4a3c7]... thinks fit.
 
-(4)[^key-6100748b297da51ef9cce75195cf58a4] An order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(4)[^c-6100748b297da51ef9cce75195cf58a4] An order under this section shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## The Paralympics association right[^key-a8e1aca33d2173a0e00372bccfa5ac97]
+## The Paralympics association right[^c-a8e1aca33d2173a0e00372bccfa5ac97]
 
 ### 5A. Creation
 
@@ -191,15 +191,15 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Remedies in relation to infringement
 
-### 6. Action for infringement.[^key-3639234c8644a3372bc82f4103fe2d8a]
+### 6. Action for infringement.[^c-3639234c8644a3372bc82f4103fe2d8a]
 
 (1) An infringement of the Olympics association right shall be actionable by the proprietor.
 
 (2) In an action for infringement, all such relief by way of damages, injunctions, accounts or otherwise shall be available to the proprietor as is available in respect of the infringement of a property right.
 
-### 7. Orders in relation to infringing goods, material or articles.[^key-605220879ad85028d28481c0250b0354]
+### 7. Orders in relation to infringing goods, material or articles.[^c-605220879ad85028d28481c0250b0354]
 
-(1) The Secretary of State[^key-0700dd21ca94361097aac30fbfd041e4]... may by regulations make, in relation to infringing goods, material and articles, provision corresponding to that made by the following provisions of the [^c831358]Trade Marks Act 1994 in relation to goods, material and articles which are infringing goods, material and articles for the purposes of that Act—
+(1) The Secretary of State[^c-0700dd21ca94361097aac30fbfd041e4]... may by regulations make, in relation to infringing goods, material and articles, provision corresponding to that made by the following provisions of the [^c831358]Trade Marks Act 1994 in relation to goods, material and articles which are infringing goods, material and articles for the purposes of that Act—
 
 section 15 (order for erasure etc. of offending sign),
 
@@ -219,7 +219,7 @@ section 20 (jurisdiction in Scotland and Northern Ireland in relation to proceed
 
 (3) Material is “**infringing material**” for the purposes of this Act if it bears a controlled representation and either—
 
-- (a) it is used for labelling or packaging goods, as a business paper , for advertising goods or services or by being displayed,[^key-964daa6d326b25b115e3d8968ca14dee] in such a way as to infringe the Olympics association right, or
+- (a) it is used for labelling or packaging goods, as a business paper , for advertising goods or services or by being displayed,[^c-964daa6d326b25b115e3d8968ca14dee] in such a way as to infringe the Olympics association right, or
 - (b) it is intended to be so used and such use would infringe that right.
 
 (4) Articles are “**infringing articles**” for the purposes of this Act if they are articles—
@@ -229,7 +229,7 @@ section 20 (jurisdiction in Scotland and Northern Ireland in relation to proceed
 
 (5) The power conferred by subsection (1) above shall be exercisable by statutory instrument which shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(6) Nothing in subsection (2) above shall be construed as affecting the importation of goods which may lawfully be imported into the United Kingdom by virtue of an enforceable EU[^key-cf88d4d125542761fac7bacec28359d1]right.
+(6) Nothing in subsection (2) above shall be construed as affecting the importation of goods which may lawfully be imported into the United Kingdom by virtue of an enforceable EU[^c-cf88d4d125542761fac7bacec28359d1]right.
 
 ## Criminal sanctions
 
@@ -261,25 +261,25 @@ knowing or having reason to believe that it has been, or is to be, used to produ
 
 (5) A person guilty of an offence under this section shall be liable—
 
-- (a)[^key-e20081e828d444a847dd6c391e30b0cc] on summary conviction, to a fine not exceeding the statutory maximum, and
+- (a)[^c-e20081e828d444a847dd6c391e30b0cc] on summary conviction, to a fine not exceeding the statutory maximum, and
 - (b) on conviction on indictment, to a fine.
 
-### 8A. Enforcement by trading standards authority[^key-28187d704ecfeb62ec6a6615771a0fa3]
+### 8A. Enforcement by trading standards authority[^c-28187d704ecfeb62ec6a6615771a0fa3]
 
 (1) A local weights and measures authority may enforce within their area the provisions of section 8.
 
-(2)[^key-888eaeba02c99a3a72f184635aa963dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-888eaeba02c99a3a72f184635aa963dc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Subsection (1) above does not apply in relation to the enforcement of section 8 in Northern Ireland; but—
 
-- (a) the Department of Enterprise, Trade and Investment may enforce that section in Northern Ireland, [^key-445b9acb781365a21072a623786d025e]...
-- (b)[^key-445b9acb781365a21072a623786d025e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the Department of Enterprise, Trade and Investment may enforce that section in Northern Ireland, [^c-445b9acb781365a21072a623786d025e]...
+- (b)[^c-445b9acb781365a21072a623786d025e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3A)[^key-94a112e016e8650e6da581c80eb5a461] For the investigatory powers available to a local weights and measures authority or the Department of Enterprise, Trade and Investment in Northern Ireland for the purposes of the powers in this section, see Schedule 5 to the Consumer Rights Act 2015.
+(3A)[^c-94a112e016e8650e6da581c80eb5a461] For the investigatory powers available to a local weights and measures authority or the Department of Enterprise, Trade and Investment in Northern Ireland for the purposes of the powers in this section, see Schedule 5 to the Consumer Rights Act 2015.
 
 (4) Nothing in this section shall be construed as authorising a local weights and measures authority to bring proceedings in Scotland for an offence.
 
-### 8B. Arrest[^key-bb721046ebf11a33e191a2e29eca5547]
+### 8B. Arrest[^c-bb721046ebf11a33e191a2e29eca5547]
 
 (1) After paragraph 21 of Schedule 1A to the Police and Criminal Evidence Act 1984 (arrestable offences) add—
 
@@ -287,9 +287,9 @@ knowing or having reason to believe that it has been, or is to be, used to produ
 >
 > An offence under section 8 of the Olympic Symbol etc. (Protection) Act 1995 (offences in relation to goods).
 
-(2)[^key-956b3f5f29bd1b74f74306f5846e484e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-956b3f5f29bd1b74f74306f5846e484e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-956b3f5f29bd1b74f74306f5846e484e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-956b3f5f29bd1b74f74306f5846e484e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 9. Supplementary provisions as to summary proceedings in Scotland.
 
@@ -332,7 +332,7 @@ Section 101 of the [^c831360]Trade Marks Act 1994 (offences committed by partner
 
 (4) In subsection (14), in the definition of “relevant offence”, for “section 92 (unauthorised use of trade mark, &c. in relation to goods)” there shall be substituted “ section 8 of the Olympic Symbol etc. (Protection) Act 1995 ”.
 
-### 12A. Detention by Revenue and Customs[^key-3feba2e29909caa17b4841a3009e0c11]
+### 12A. Detention by Revenue and Customs[^c-3feba2e29909caa17b4841a3009e0c11]
 
 (1) The proprietor may give notice in writing to the Commissioners for Her Majesty's Revenue and Customs—
 
@@ -455,15 +455,15 @@ and sections 19(3), (4), (7) and 55(1) of the Commissioners for Revenue and Cust
 
 ## Miscellaneous
 
-### 15. Power to give directions to proprietor.[^key-e968ea27d8f731a9a9e797c8c9cbc73d]
+### 15. Power to give directions to proprietor.[^c-e968ea27d8f731a9a9e797c8c9cbc73d]
 
-(1) The proprietor shall comply with any directions given by the Secretary of State [^key-fc3cb777d8c4046c8f16a0db8d335915]...with respect to the exercise of the rights conferred by section 2(1) above.
+(1) The proprietor shall comply with any directions given by the Secretary of State [^c-fc3cb777d8c4046c8f16a0db8d335915]...with respect to the exercise of the rights conferred by section 2(1) above.
 
 (2) Directions under this section may be of a general or particular character and may be varied or revoked by subsequent directions.
 
 (3) A transaction between any person and the proprietor in his capacity as such shall not be void by reason only that the transaction was carried out in contravention of a direction given under this section; and a person dealing with the proprietor shall not be concerned to see or enquire whether a direction under this section has been given or complied with.
 
-### 16. Remedy for groundless threats of infringement proceedings.[^key-9f0be6283caac92fbad116ad25ab8b51]
+### 16. Remedy for groundless threats of infringement proceedings.[^c-9f0be6283caac92fbad116ad25ab8b51]
 
 (1) Where the proprietor threatens another with proceedings for infringement of the Olympics association right other than—
 
@@ -502,13 +502,13 @@ any person aggrieved may bring proceedings for relief under this section.
 - “**infringing material**” has the meaning given by section 7(3) above;
 - “**Olympic motto**” means the motto of the International Olympic Committee, “Citius, altius, fortius”;
 - “**Olympic symbol**” means the symbol of the International Olympic Committee, consisting of five interlocking rings;
-- “[^key-682bf8203fc64391298fc1a953434f3b] **the Paralympic Games** ” means the events known by that name and organised by the International Paralympic Committee;
+- “[^c-682bf8203fc64391298fc1a953434f3b] **the Paralympic Games** ” means the events known by that name and organised by the International Paralympic Committee;
 - “ **Paralympic motto** ” means the motto of the International Paralympic Committee — “Spirit in Motion”;
-- “ **Paralympic symbol** ” means the symbol of the International Paralympic Committee which the Secretary of State[^key-e6ca8640c84effcd33a075504c28f87a]...shall set out in an order made by statutory instrument (which shall be laid before Parliament after being made).
+- “ **Paralympic symbol** ” means the symbol of the International Paralympic Committee which the Secretary of State[^c-e6ca8640c84effcd33a075504c28f87a]...shall set out in an order made by statutory instrument (which shall be laid before Parliament after being made).
 - “**proprietor**” has the meaning given by section 2(2) above; and
 - “**trade**” includes a business or profession.
 
-(2)[^key-5c31c5a1002ab220f1bb71bcbdcbbb31] For the purposes of this Act—
+(2)[^c-5c31c5a1002ab220f1bb71bcbdcbbb31] For the purposes of this Act—
 
 - (a) each of the following is a protected word in relation to the Olympics association right—
   - (i) Olympiad,
@@ -535,7 +535,7 @@ any person aggrieved may bring proceedings for relief under this section.
 - “**injunction**” means interdict; and
 - “**plaintiff**” means pursuer.
 
-(5)[^key-9a1313aade213e7dd435d4cb1135b455] The Secretary of State [^key-e6ca8640c84effcd33a075504c28f87a] ... may by order amend this section to reflect a change of motto or symbol of the International Olympic Committee or the International Paralympic Committee.
+(5)[^c-9a1313aade213e7dd435d4cb1135b455] The Secretary of State [^c-e6ca8640c84effcd33a075504c28f87a] ... may by order amend this section to reflect a change of motto or symbol of the International Olympic Committee or the International Paralympic Committee.
 
 (6) An order under subsection (5)—
 
@@ -553,31 +553,31 @@ any person aggrieved may bring proceedings for relief under this section.
 
 ## Annotations
 
-[^key-ca059d36c999180075e70aeb41197cc4]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/32) functions made partly exercisable concurrently (22.8.2007) by [Transfer of Functions (Olympics and Paralympics) Order 2007 (S.I. 2007/2129)](https://www.legislation.gov.uk/uksi/2007/2129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2129/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2129/article/4))
+[^c-ca059d36c999180075e70aeb41197cc4]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/32) functions made partly exercisable concurrently (22.8.2007) by [Transfer of Functions (Olympics and Paralympics) Order 2007 (S.I. 2007/2129)](https://www.legislation.gov.uk/uksi/2007/2129), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2007/2129/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2007/2129/article/3/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2129/article/4))
 
-[^key-d73c3e0918386b5ec3e9020981161594]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/32) functions cease to be exercisable concurrently (7.7.2010) by [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 7(b)](https://www.legislation.gov.uk/uksi/2010/1551/article/7/b)
+[^c-d73c3e0918386b5ec3e9020981161594]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1995/32) functions cease to be exercisable concurrently (7.7.2010) by [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 7(b)](https://www.legislation.gov.uk/uksi/2010/1551/article/7/b)
 
-[^key-817b92050e24d96ac65fb6ec406c4011]: Textual amendment: Words in s. 1 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/2/a)
+[^c-817b92050e24d96ac65fb6ec406c4011]: Textual amendment: Words in s. 1 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 2(a)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/2/a)
 
-[^key-e152a3f8b0b6224325a0752461307be5]: Textual amendment: S. 1(2A) inserted (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/2) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
+[^c-e152a3f8b0b6224325a0752461307be5]: Textual amendment: S. 1(2A) inserted (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/2) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
 
-[^key-5ed60dbf77a55e4a523172f7867e6b93]: Modification: S. 2(2)-(4) applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
+[^c-5ed60dbf77a55e4a523172f7867e6b93]: Modification: S. 2(2)-(4) applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
 
 [^c831342]: Marginal citation: [1949 c. 88](https://www.legislation.gov.uk/ukpga/1949/88).
 
 [^c831343]: Marginal citation: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26).
 
-[^key-0fc897c33e4f921386fbbb2ad41cb453]: Textual amendment: Words in [s. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1995/32/section/3/1/b) added (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/3/1) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
+[^c-0fc897c33e4f921386fbbb2ad41cb453]: Textual amendment: Words in [s. 3(1)(b)](https://www.legislation.gov.uk/ukpga/1995/32/section/3/1/b) added (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 3(1)](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/3/1) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
 
-[^key-7802fdc3b606656800633760517b032a]: Modification: S. 3(2) applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
+[^c-7802fdc3b606656800633760517b032a]: Modification: S. 3(2) applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
 
-[^key-90fca4da818968cfa434361c501abccb]: Textual amendment: S. 4(1)-(5) substituted for S. 4 (1)-(10) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/4) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
+[^c-90fca4da818968cfa434361c501abccb]: Textual amendment: S. 4(1)-(5) substituted for S. 4 (1)-(10) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/4) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
 
-[^key-6fb50e94758d0adf75683284acf597e7]: Textual amendment: Words in [s. 4](https://www.legislation.gov.uk/ukpga/1995/32/section/4) omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/2/b)
+[^c-6fb50e94758d0adf75683284acf597e7]: Textual amendment: Words in [s. 4](https://www.legislation.gov.uk/ukpga/1995/32/section/4) omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 2(b)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/2/b)
 
-[^key-d50c0efb99064cf370fb8b6878ecabbc]: Modification: S. 4(11)-(14) modified (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/3/2) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
+[^c-d50c0efb99064cf370fb8b6878ecabbc]: Modification: S. 4(11)-(14) modified (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 3(2)](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/3/2) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
 
-[^key-f6899b82e2efbc817ac6b807236475b5]: Modification: S. 4(11)-(14) applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
+[^c-f6899b82e2efbc817ac6b807236475b5]: Modification: S. 4(11)-(14) applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
 
 [^c831354]: Marginal citation: [1949 c. 88](https://www.legislation.gov.uk/ukpga/1949/88).
 
@@ -585,43 +585,43 @@ any person aggrieved may bring proceedings for relief under this section.
 
 [^c831356]: Textual amendment: S. 4(16): words in definition of “parliamentary proceedings” inserted (6.5.1999) by [S.I. 1999/1042](https://www.legislation.gov.uk/uksi/1999/1042), [art. 3](https://www.legislation.gov.uk/uksi/1999/1042/article/3), [Sch. 1 Pt. I para. 12](https://www.legislation.gov.uk/uksi/1999/1042/schedule/1/part/I/paragraph/12)
 
-[^key-5202661cf1de7f71d7cece84f721c4f6]: Textual amendment: Words in s. 4(16) inserted (25.5.2007) by [Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/45)
+[^c-5202661cf1de7f71d7cece84f721c4f6]: Textual amendment: Words in s. 4(16) inserted (25.5.2007) by [Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [Sch. 1 para. 45](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/45)
 
 [^c831357]: Textual amendment: S. 4(16): words in definition of “Royal Commission” substituted (2.12.1999) by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 99](https://www.legislation.gov.uk/ukpga/1998/47/section/99), [Sch. 13 para. 15](https://www.legislation.gov.uk/ukpga/1998/47/schedule/13/paragraph/15) (with [s. 95](https://www.legislation.gov.uk/ukpga/1998/47/section/95)): [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)
 
-[^key-bdb283d461ccb1c22d55f4617e81ef5d]: Modification: S. 5 applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
+[^c-bdb283d461ccb1c22d55f4617e81ef5d]: Modification: S. 5 applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
 
-[^key-993b340e7fb607863dbc4fb4bac4a3c7]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/1995/32/section/5) omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/2/c)
+[^c-993b340e7fb607863dbc4fb4bac4a3c7]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/1995/32/section/5) omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 2(c)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/2/c)
 
-[^key-6100748b297da51ef9cce75195cf58a4]: Textual amendment: S. 5(4) added (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/5) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
+[^c-6100748b297da51ef9cce75195cf58a4]: Textual amendment: S. 5(4) added (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/5) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
 
-[^key-a8e1aca33d2173a0e00372bccfa5ac97]: Textual amendment: and cross-heading inserted (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/6) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
+[^c-a8e1aca33d2173a0e00372bccfa5ac97]: Textual amendment: and cross-heading inserted (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/6) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
 
-[^key-3639234c8644a3372bc82f4103fe2d8a]: Modification: S. 6 applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
+[^c-3639234c8644a3372bc82f4103fe2d8a]: Modification: S. 6 applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
 
-[^key-605220879ad85028d28481c0250b0354]: Modification: S. 7 applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
+[^c-605220879ad85028d28481c0250b0354]: Modification: S. 7 applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
 
-[^key-0700dd21ca94361097aac30fbfd041e4]: Textual amendment: Words in s. 7 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 2(d)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/2/d)
+[^c-0700dd21ca94361097aac30fbfd041e4]: Textual amendment: Words in s. 7 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 2(d)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/2/d)
 
 [^c831358]: Marginal citation: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26).
 
-[^key-964daa6d326b25b115e3d8968ca14dee]: Textual amendment: Words in s. 7(3)(a) substituted (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/10) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
+[^c-964daa6d326b25b115e3d8968ca14dee]: Textual amendment: Words in s. 7(3)(a) substituted (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/10) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
 
-[^key-cf88d4d125542761fac7bacec28359d1]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-cf88d4d125542761fac7bacec28359d1]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [6](https://www.legislation.gov.uk/uksi/2011/1043/article/6) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3)[4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2)[6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[6(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
 
-[^key-e20081e828d444a847dd6c391e30b0cc]: Modification: S. 8(5)(a) modified (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/11) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
+[^c-e20081e828d444a847dd6c391e30b0cc]: Modification: S. 8(5)(a) modified (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/11) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
 
-[^key-28187d704ecfeb62ec6a6615771a0fa3]: Textual amendment: S. 8A added (2.4.2007) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/2), [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/12/1) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5)); [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/a)
+[^c-28187d704ecfeb62ec6a6615771a0fa3]: Textual amendment: S. 8A added (2.4.2007) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/2), [Sch. 3 para. 12(1)](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/12/1) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5)); [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/a)
 
-[^key-888eaeba02c99a3a72f184635aa963dc]: Textual amendment: [S. 8A(2)](https://www.legislation.gov.uk/ukpga/1995/32/section/8A/2) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 60(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/60/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-888eaeba02c99a3a72f184635aa963dc]: Textual amendment: [S. 8A(2)](https://www.legislation.gov.uk/ukpga/1995/32/section/8A/2) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 60(2)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/60/2); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-445b9acb781365a21072a623786d025e]: Textual amendment: [S. 8A(3)(b)](https://www.legislation.gov.uk/ukpga/1995/32/section/8A/3/b) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 60(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/60/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-445b9acb781365a21072a623786d025e]: Textual amendment: [S. 8A(3)(b)](https://www.legislation.gov.uk/ukpga/1995/32/section/8A/3/b) omitted (1.10.2015) by virtue of [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 60(3)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/60/3); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
 
-[^key-94a112e016e8650e6da581c80eb5a461]: Textual amendment: [S. 8A(3A)](https://www.legislation.gov.uk/ukpga/1995/32/section/8A/3A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 60(4)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/60/4); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
+[^c-94a112e016e8650e6da581c80eb5a461]: Textual amendment: [S. 8A(3A)](https://www.legislation.gov.uk/ukpga/1995/32/section/8A/3A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 60(4)](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/60/4); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i)
 
-[^key-bb721046ebf11a33e191a2e29eca5547]: Textual amendment: S. 8B inserted (2.4.2007 for specified purposes) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/13) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5)); [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/b)
+[^c-bb721046ebf11a33e191a2e29eca5547]: Textual amendment: S. 8B inserted (2.4.2007 for specified purposes) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/2), [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/13) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5)); [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(b)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/b)
 
-[^key-956b3f5f29bd1b74f74306f5846e484e]: Textual amendment: S. 8B(2)(3) repealed (S.) (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 11](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/11); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-956b3f5f29bd1b74f74306f5846e484e]: Textual amendment: S. 8B(2)(3) repealed (S.) (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [s. 117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2), [sch. 2 para. 11](https://www.legislation.gov.uk/asp/2016/1/schedule/2/paragraph/11); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
 [^c831359]: Marginal citation: [1975 c. 21](https://www.legislation.gov.uk/ukpga/1975/21).
 
@@ -629,7 +629,7 @@ any person aggrieved may bring proceedings for relief under this section.
 
 [^c831361]: Marginal citation: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26).
 
-[^key-3feba2e29909caa17b4841a3009e0c11]: Textual amendment: S. 12A, 12B inserted (with effect in accordance with s. 40(7) of the amending Act) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/14) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5)); [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/c)
+[^c-3feba2e29909caa17b4841a3009e0c11]: Textual amendment: S. 12A, 12B inserted (with effect in accordance with s. 40(7) of the amending Act) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(2)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/2), [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/14) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5)); [S.I. 2007/1064](https://www.legislation.gov.uk/uksi/2007/1064), [art. 2(c)](https://www.legislation.gov.uk/uksi/2007/1064/article/2/c)
 
 [^c831364]: Textual amendment: S. 13(1) repealed (9.12.2001) by [S.I. 2001/3949](https://www.legislation.gov.uk/uksi/2001/3949), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/3949/schedule/2) (with transitional provisions in [regs. 10-14](https://www.legislation.gov.uk/uksi/2001/3949/regulation/10))
 
@@ -637,18 +637,18 @@ any person aggrieved may bring proceedings for relief under this section.
 
 [^c831366]: Marginal citation: [1988 c. 48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-e968ea27d8f731a9a9e797c8c9cbc73d]: Modification: S. 15 applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
+[^c-e968ea27d8f731a9a9e797c8c9cbc73d]: Modification: S. 15 applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
 
-[^key-fc3cb777d8c4046c8f16a0db8d335915]: Textual amendment: Words in [s. 15](https://www.legislation.gov.uk/ukpga/1995/32/section/15) omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/2/e)
+[^c-fc3cb777d8c4046c8f16a0db8d335915]: Textual amendment: Words in [s. 15](https://www.legislation.gov.uk/ukpga/1995/32/section/15) omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 2(e)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/2/e)
 
-[^key-9f0be6283caac92fbad116ad25ab8b51]: Modification: S. 16 applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
+[^c-9f0be6283caac92fbad116ad25ab8b51]: Modification: S. 16 applied (with modifications) (temp.) (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(d)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/d)[(8)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/8), [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/12/schedule/4/paragraph/10)
 
-[^key-682bf8203fc64391298fc1a953434f3b]: Textual amendment: Words in s. 18(1) inserted (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/7) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
+[^c-682bf8203fc64391298fc1a953434f3b]: Textual amendment: Words in s. 18(1) inserted (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/7) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
 
-[^key-e6ca8640c84effcd33a075504c28f87a]: Textual amendment: Words in s. 18 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 2(f)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/2/f)
+[^c-e6ca8640c84effcd33a075504c28f87a]: Textual amendment: Words in s. 18 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 2(f)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/2/f)
 
-[^key-5c31c5a1002ab220f1bb71bcbdcbbb31]: Textual amendment: S. 18(2) substituted (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/8) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
+[^c-5c31c5a1002ab220f1bb71bcbdcbbb31]: Textual amendment: S. 18(2) substituted (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/8) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
 
-[^key-9a1313aade213e7dd435d4cb1135b455]: Textual amendment: S. 18(5)(6) added (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/9) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
+[^c-9a1313aade213e7dd435d4cb1135b455]: Textual amendment: S. 18(5)(6) added (30.3.2006) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(1)(c)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/1/c), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2006/12/schedule/3/paragraph/9) (with [s. 40(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/5))
 
 [^c831367]: Subordinate legislation: S. 19(2) power fully exercised (19.9.1995): 20.9.1995 for whole Act by [S.I. 1995/2472](https://www.legislation.gov.uk/uksi/1995/2472), [art. 2](https://www.legislation.gov.uk/uksi/1995/2472/article/2)

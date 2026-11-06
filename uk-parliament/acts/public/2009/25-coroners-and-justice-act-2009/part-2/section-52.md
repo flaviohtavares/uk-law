@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Persons suffering from diminished responsibility (England and Wales)[^key-c837bca080af947eb05b7d6e2b1bd00d]
+## 52. Persons suffering from diminished responsibility (England and Wales)[^c-c837bca080af947eb05b7d6e2b1bd00d]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c837bca080af947eb05b7d6e2b1bd00d]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2009/25/section/52) in force at 4.10.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 5(a)](https://www.legislation.gov.uk/uksi/2010/816/article/5/a)
+[^c-c837bca080af947eb05b7d6e2b1bd00d]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2009/25/section/52) in force at 4.10.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 5(a)](https://www.legislation.gov.uk/uksi/2010/816/article/5/a)

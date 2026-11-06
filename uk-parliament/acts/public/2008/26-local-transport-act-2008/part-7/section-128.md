@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128. Financial penalty deposits: powers of vehicle examiners in Scotland[^key-6d42cda24b03f8c396eeb6f5ec6b6d7b]
+## 128. Financial penalty deposits: powers of vehicle examiners in Scotland[^c-6d42cda24b03f8c396eeb6f5ec6b6d7b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ In section 90F of the Road Traffic Offenders Act 1988 (c. 53), in the definition
 
 ## Annotations
 
-[^key-6d42cda24b03f8c396eeb6f5ec6b6d7b]: Commencement: S. 128 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)
+[^c-6d42cda24b03f8c396eeb6f5ec6b6d7b]: Commencement: S. 128 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1)

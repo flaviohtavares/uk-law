@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Disclosure etc. of information: offences[^key-dac1d943b2b74f6a4b19a4985ce0b355]
+## 55. Disclosure etc. of information: offences[^c-dac1d943b2b74f6a4b19a4985ce0b355]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 241 of the 2002 Act (disclosure of information for the purpose of exe
 
 ## Annotations
 
-[^key-dac1d943b2b74f6a4b19a4985ce0b355]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2013/24/section/55) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-dac1d943b2b74f6a4b19a4985ce0b355]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2013/24/section/55) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

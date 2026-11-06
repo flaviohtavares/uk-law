@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. General functions of the Police Investigations and Review Commissioner[^key-a42328e8c102b7494f79a8a5506d6355][^key-438c7f8fb652739b80b2eb4f1d96ed34][^key-438c7f8fb652739b80b2eb4f1d96ed34]
+## 62. General functions of the Police Investigations and Review Commissioner[^c-a42328e8c102b7494f79a8a5506d6355][^c-438c7f8fb652739b80b2eb4f1d96ed34][^c-438c7f8fb652739b80b2eb4f1d96ed34]
 
 *Extent: S*
 
@@ -39,6 +39,6 @@ After section 33 of the 2006 Act, insert—
 
 ## Annotations
 
-[^key-a42328e8c102b7494f79a8a5506d6355]: Commencement: S. 62 in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
+[^c-a42328e8c102b7494f79a8a5506d6355]: Commencement: S. 62 in force at 1.4.2013 by [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2)
 
-[^key-438c7f8fb652739b80b2eb4f1d96ed34]: Modification: Pt. 1 Ch. 10 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [16(1)-(4)](https://www.legislation.gov.uk/ssi/2013/121/article/16/1)
+[^c-438c7f8fb652739b80b2eb4f1d96ed34]: Modification: Pt. 1 Ch. 10 modified (1.4.2013) by [The Police and Fire Reform (Scotland) Act 2012 (Supplementary, Transitional, Transitory and Saving Provisions) Order 2013 (S.S.I. 2013/121)](https://www.legislation.gov.uk/ssi/2013/121), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/121/article/1/1), [16(1)-(4)](https://www.legislation.gov.uk/ssi/2013/121/article/16/1)

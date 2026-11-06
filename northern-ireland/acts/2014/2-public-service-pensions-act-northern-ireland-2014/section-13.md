@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Employer contributions in funded schemes[^key-e647b62d944e94d8eb605bd5a80f874b]
+## 13. Employer contributions in funded schemes[^c-e647b62d944e94d8eb605bd5a80f874b]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e647b62d944e94d8eb605bd5a80f874b]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2014/2/section/13) in operation at 1.4.2015 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 6](https://www.legislation.gov.uk/nisr/2014/123/article/6)
+[^c-e647b62d944e94d8eb605bd5a80f874b]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2014/2/section/13) in operation at 1.4.2015 by [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 6](https://www.legislation.gov.uk/nisr/2014/123/article/6)

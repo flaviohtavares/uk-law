@@ -40,7 +40,7 @@ Regulation 49(2)
 - (l) regulation 51 (payments on death);
 - (m) regulation 52 (persons unable to act);
 - (n) regulation 53 (payment to another person on the claimant's behalf);
-- (o)[^key-a95cfbc641441df901a5c2b0abef427f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (o)[^c-a95cfbc641441df901a5c2b0abef427f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (p) Part 6 (mobility component of personal independence payment).
 
 ### Other jobseeker's allowance decisions
@@ -101,7 +101,7 @@ Regulation 49(2)
 
 ### European Community regulations
 
-**14.** An authorisation given by the Department in accordance with Article 22(1) or 55(1) of Council Regulation [(EEC) No. 1408/71](https://www.legislation.gov.uk/eur/1971/1408) [^c22847171] , as amended from time to time,[^key-9c239a02518e489b44a0a6e4f1bea635] on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the European Union.
+**14.** An authorisation given by the Department in accordance with Article 22(1) or 55(1) of Council Regulation [(EEC) No. 1408/71](https://www.legislation.gov.uk/eur/1971/1408) [^c22847171] , as amended from time to time,[^c-9c239a02518e489b44a0a6e4f1bea635] on the application of social security schemes to employed persons, to self-employed persons and to members of their families moving within the European Union.
 
 ### Up-rating
 
@@ -109,7 +109,7 @@ Regulation 49(2)
 
 ## Annotations
 
-[^key-a95cfbc641441df901a5c2b0abef427f]: Textual amendment: [Sch. 3 para. 1(o)](https://www.legislation.gov.uk/nisr/2016/221/schedule/3/paragraph/1/o) omitted by S.R. 2017/176, Sch. 5 para. 12 (as inserted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
+[^c-a95cfbc641441df901a5c2b0abef427f]: Textual amendment: [Sch. 3 para. 1(o)](https://www.legislation.gov.uk/nisr/2016/221/schedule/3/paragraph/1/o) omitted by S.R. 2017/176, Sch. 5 para. 12 (as inserted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/37)](https://www.legislation.gov.uk/nisr/2018/37), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2018/37/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/nisr/2018/37/regulation/2/18/e))
 
 [^c22847081]: Marginal citation: [Section 140C](https://www.legislation.gov.uk/nisr/2016/221/section/140C) is inserted by paragraph 20 of Schedule 2 to the Welfare Reform (Northern Ireland) Order 2015.
 
@@ -131,4 +131,4 @@ Regulation 49(2)
 
 [^c22847171]: Marginal citation: O.J. No. L149/2, 5.7.1971 (O.J./S.E. 1971 (II) p. 416).
 
-[^key-9c239a02518e489b44a0a6e4f1bea635]: Textual amendment: Words in [Sch. 3 para. 14](https://www.legislation.gov.uk/nisr/2016/221/schedule/3/paragraph/14) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/1085)](https://www.legislation.gov.uk/uksi/2018/1085), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1085/regulation/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1085/schedule/paragraph/12)
+[^c-9c239a02518e489b44a0a6e4f1bea635]: Textual amendment: Words in [Sch. 3 para. 14](https://www.legislation.gov.uk/nisr/2016/221/schedule/3/paragraph/14) inserted (15.11.2018) by [The Social Security (Updating of EU References) (Amendment) (Northern Ireland) Regulations 2018 (S.I. 2018/1085)](https://www.legislation.gov.uk/uksi/2018/1085), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1085/regulation/1), [Sch. para. 12](https://www.legislation.gov.uk/uksi/2018/1085/schedule/paragraph/12)

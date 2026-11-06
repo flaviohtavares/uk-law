@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Powers of court in relation to unfair relationships[^key-2c47b45f5c58b1478c41cb69f7876ce1]
+## 20. Powers of court in relation to unfair relationships[^c-2c47b45f5c58b1478c41cb69f7876ce1]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ After section 140A of the 1974 Act (inserted by section 19 of this Act) insertâ€
 
 ## Annotations
 
-[^key-2c47b45f5c58b1478c41cb69f7876ce1]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2006/14/section/20) in force at 6.4.2007 by [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2)
+[^c-2c47b45f5c58b1478c41cb69f7876ce1]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2006/14/section/20) in force at 6.4.2007 by [S.I. 2007/123](https://www.legislation.gov.uk/uksi/2007/123), [art. 3(2)](https://www.legislation.gov.uk/uksi/2007/123/article/3/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/123/schedule/2)

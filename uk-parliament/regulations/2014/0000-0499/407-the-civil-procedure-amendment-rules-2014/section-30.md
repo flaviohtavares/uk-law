@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**30.**[^key-608170c9351755b856c30616abb19bb5] In Part 70—
+**30.**[^c-608170c9351755b856c30616abb19bb5] In Part 70—
 
 - (a) in the table of contents to this Part, after the entry for rule 70.2, insert—
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-608170c9351755b856c30616abb19bb5]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2014/407/rule/30) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
+[^c-608170c9351755b856c30616abb19bb5]: Commencement: [Rule 30](https://www.legislation.gov.uk/uksi/2014/407/rule/30) in force at 6.4.2014, see [rule 2(3)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/3)
 
 [^f00008]: Footnote: [1981 c.54](https://www.legislation.gov.uk/ukpga/1981/54). Section 39 is amended by the Crime and Courts Act [2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22) section 17(6) and Schedule 10, Part 2, paragraphs 54 and 59.

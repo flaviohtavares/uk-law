@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57. Compensation for persons subject to certain orders[^key-9ec951cea0d2bbcf8b3410770f2a9d81]
+## 57. Compensation for persons subject to certain orders[^c-9ec951cea0d2bbcf8b3410770f2a9d81]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ is to be determined by a single arbiter appointed by agreement between the board
 
 ## Annotations
 
-[^key-9ec951cea0d2bbcf8b3410770f2a9d81]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2008/5/section/57) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-9ec951cea0d2bbcf8b3410770f2a9d81]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2008/5/section/57) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)

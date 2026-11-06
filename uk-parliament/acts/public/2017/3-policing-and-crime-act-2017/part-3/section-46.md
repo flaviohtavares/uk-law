@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Removal of powers of police in England and Wales to appoint traffic wardens[^c22718811][^key-b259f5eca3a34c65bff87094ad417afb]
+## 46. Removal of powers of police in England and Wales to appoint traffic wardens[^c22718811][^c-b259f5eca3a34c65bff87094ad417afb]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 [^c22718811]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/3/section/46) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-b259f5eca3a34c65bff87094ad417afb]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/3/section/46) in force at 1.12.2018 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1139/regulation/3)
+[^c-b259f5eca3a34c65bff87094ad417afb]: Commencement: [S. 46](https://www.legislation.gov.uk/ukpga/2017/3/section/46) in force at 1.12.2018 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1139/regulation/3)

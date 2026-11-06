@@ -45,7 +45,7 @@ Coming into force
 
 The Secretary of State for Social Security in exercise of the powers conferred by sections 20(1)(a), 22(1), (8) and (9) and 84(1) of the Social Security Act 1986[^f00001] and section 166(1) to (3A) of the Social Security Act 1975[^f00002] and of all other powers enabling him in that behalf, after agreement by the Social Security Advisory Committee that proposals to make these regulations should not be referred to it, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-372af9666f0bf5b3993334a8e6b7af56]
+## 1. Citation, commencement and interpretation[^c-372af9666f0bf5b3993334a8e6b7af56]
 
 (1) These Regulations may be cited as the Income Support (General) Amendment No. 3 Regulations 1989 and shall come into force, in relation to a particular claimant, as follows–
 
@@ -54,7 +54,7 @@ The Secretary of State for Social Security in exercise of the powers conferred b
 
 (2) In paragraph (1) the expression “claimant” has the same meaning as in the General Regulations and in these Regulations “the General Regulations” means the Income Support (General) Regulations 1987[^f00004].
 
-## 2. Insertion of regulation 3A into the General Regulations[^key-80cf8e665db8d7f8e3cc2c915746b24c]
+## 2. Insertion of regulation 3A into the General Regulations[^c-80cf8e665db8d7f8e3cc2c915746b24c]
 
 After regulation 3 of the General Regulations (definition of non-dependant) there shall be inserted the following regulation–
 
@@ -78,11 +78,11 @@ After regulation 3 of the General Regulations (definition of non-dependant) ther
 
 .
 
-## 3. Amendment of regulation 3 of the General Regulations[^key-8c6e4f9312696e39a520749838d2d29b]
+## 3. Amendment of regulation 3 of the General Regulations[^c-8c6e4f9312696e39a520749838d2d29b]
 
 In regulation 3(2)(c) of the General Regulations (definition of non-dependant) at the end there shall be added the words “and either is a co-owner of that dwelling with the claimant or his partner (whether or not there are other co-owners) or is liable with the claimant or his partner to make payments in respect of his occupation of the dwelling.”.
 
-## 4. Amendment of regulation 17 of the General Regulations[^key-f97b9b548cbccb9c7f79225fd1db22ad]
+## 4. Amendment of regulation 17 of the General Regulations[^c-f97b9b548cbccb9c7f79225fd1db22ad]
 
 In regulation 17 of the General Regulations (applicable amounts)–
 
@@ -93,7 +93,7 @@ In regulation 17 of the General Regulations (applicable amounts)–
 
   .
 
-## 5. Amendment of regulation 19 of the General Regulations[^key-94feec338ea865ed5450b2cb9664dc20]
+## 5. Amendment of regulation 19 of the General Regulations[^c-94feec338ea865ed5450b2cb9664dc20]
 
 In regulation 19 of the General Regulations (applicable amounts for persons in residential care and nursing homes)–
 
@@ -109,7 +109,7 @@ In regulation 19 of the General Regulations (applicable amounts for persons in r
 
   .
 
-## 6. Amendment of Schedule 2 to the General Regulations[^key-8b586eac4872317738b374da57810a28]
+## 6. Amendment of Schedule 2 to the General Regulations[^c-8b586eac4872317738b374da57810a28]
 
 In Schedule 2 to the General Regulations (applicable amounts)–
 
@@ -140,15 +140,15 @@ In Schedule 2 to the General Regulations (applicable amounts)–
   - (i) in sub-paragraph (2)(a)(iii) the words “no one is in receipt of” shall be omitted; and after the words “Social Security Act” there shall be inserted the words “is not in payment to anyone”;
   - (ii) in sub-paragraph (2)(b) for the words “there is someone in receipt of an invalid care allowance” there shall be substituted the words “an invalid care allowance is in payment to someone”; and, for the words “there is no one in receipt of such an allowance” there shall be substituted the words “such an allowance is not in payment to anyone”.
 
-## 7. Amendment of Schedule 3 to the General Regulations[^key-e768f184e350f112d4559538de06ea04][^key-1b0f54963d4adedc3f16b8be2921e2d6]
+## 7. Amendment of Schedule 3 to the General Regulations[^c-e768f184e350f112d4559538de06ea04][^c-1b0f54963d4adedc3f16b8be2921e2d6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Schedule 3A to the General Regulations[^key-781a3526d3df8b7e1fc75a0d2bdd9e0c]
+## 8. Amendment of Schedule 3A to the General Regulations[^c-781a3526d3df8b7e1fc75a0d2bdd9e0c]
 
 In paragraph 7(6) of Schedule 3A to the General Regulations (protected sum) for the words “a period of not more than 8 weeks” there shall be substituted the words “a period not exceeding the permitted period determined in accordance with regulation 3A (permitted period)”.
 
-## 9. Amendment of Schedule 3B to the General Regulations[^key-f92a49231fa6c731949293eabf2e13fe]
+## 9. Amendment of Schedule 3B to the General Regulations[^c-f92a49231fa6c731949293eabf2e13fe]
 
 In Schedule 3B to the General Regulations (protected sum)–
 
@@ -179,7 +179,7 @@ In Schedule 3B to the General Regulations (protected sum)–
     ;
 - (d) in paragraph 6(3) for the words “a period of not more than 8 weeks” there shall be substituted the words “a period not exceeding the permitted period determined in accordance with regulation 3A (permitted period)”.
 
-## 10. Amendment of Schedule 4 to the General Regulations[^key-f6ce569e3c5c66b12c2eb1f11636573c]
+## 10. Amendment of Schedule 4 to the General Regulations[^c-f6ce569e3c5c66b12c2eb1f11636573c]
 
 In paragraph 5(1) of Schedule 4 to the General Regulations (applicable amounts of persons in residential care or nursing homes) for head (b) there shall be substituted the following head–
 
@@ -190,11 +190,11 @@ In paragraph 5(1) of Schedule 4 to the General Regulations (applicable amounts o
 
 .
 
-## 11. Amendment of Schedule 7 to the General Regulations[^key-81ef3dd5fcdb7252cc5749be3b1239be][^key-d9966f11fa5b18774bacfb9a57319e50]
+## 11. Amendment of Schedule 7 to the General Regulations[^c-81ef3dd5fcdb7252cc5749be3b1239be][^c-d9966f11fa5b18774bacfb9a57319e50]
 
 In Schedule 7 to the General Regulations (special cases)–
 
-- (a)[^key-81ef3dd5fcdb7252cc5749be3b1239be] in paragraph 9, in column 1, for the words from “where one of them is living in the home” to the end of that paragraph there shall be substituted the following
+- (a)[^c-81ef3dd5fcdb7252cc5749be3b1239be] in paragraph 9, in column 1, for the words from “where one of them is living in the home” to the end of that paragraph there shall be substituted the following
 
   > where–
   >
@@ -212,7 +212,7 @@ In Schedule 7 to the General Regulations (special cases)–
   >   - (iv) resident in a residential care home or nursing home.
 
   ;
-- (b)[^key-81ef3dd5fcdb7252cc5749be3b1239be] after paragraph 10C, there shall be inserted the following paragraph–
+- (b)[^c-81ef3dd5fcdb7252cc5749be3b1239be] after paragraph 10C, there shall be inserted the following paragraph–
 
   > |  |  |
   > | --- | --- |
@@ -220,7 +220,7 @@ In Schedule 7 to the General Regulations (special cases)–
   > | - (a) in respect of each child who is a member of his family, the appropriate amount in respect of him prescribed in paragraph 2(a) or (b) of Schedule 2 or under this Schedule as appropriate; and<br>- (b) any amount which would be applicable to the claimant, if he were not temporarily living away from the dwelling occupied as the home, under regulation 17(1)(c), (f) or (g), or (d) in so far as it relates to the lone parent premium under paragraph 8 of Schedule 2. |  |
 
   .
-- (c)[^key-d9966f11fa5b18774bacfb9a57319e50] after paragraph 13, there shall be inserted the following paragraph–
+- (c)[^c-d9966f11fa5b18774bacfb9a57319e50] after paragraph 13, there shall be inserted the following paragraph–
 
   > |  |  |
   > | --- | --- |
@@ -228,11 +228,11 @@ In Schedule 7 to the General Regulations (special cases)–
 
   .
 
-## 12. Amendment of Schedule 8 to the General Regulations[^key-e073c2b2a62f2d0bc760aa59c28c571c][^key-6157b52e0294b2104cc808a79c3c8200]
+## 12. Amendment of Schedule 8 to the General Regulations[^c-e073c2b2a62f2d0bc760aa59c28c571c][^c-6157b52e0294b2104cc808a79c3c8200]
 
 In Schedule 8 to the General Regulations (sums to be disregarded in the calculation of earnings)–
 
-- (a)[^key-e073c2b2a62f2d0bc760aa59c28c571c] in paragraph 4, for sub-paragraph (7) there shall be substituted the following sub-paragraphs–
+- (a)[^c-e073c2b2a62f2d0bc760aa59c28c571c] in paragraph 4, for sub-paragraph (7) there shall be substituted the following sub-paragraphs–
 
   > (7) For the purposes of this paragraph–
   >
@@ -243,7 +243,7 @@ In Schedule 8 to the General Regulations (sums to be disregarded in the calculat
   > - (c) no account shall be taken of any period occurring on or after the date on which the claimant or, if he is a member of a couple, he or his partner attained the age of 60 during which the claimant was not entitled to income support because he or his partner was participating in arrangements for training made under section 2 of the Employment and Training Act 1973 or attending a course at an employment rehabilitation centre established under that section.
 
   ;
-- (b)[^key-6157b52e0294b2104cc808a79c3c8200] in paragraph 6–
+- (b)[^c-6157b52e0294b2104cc808a79c3c8200] in paragraph 6–
   - (i) in sub-paragraph (1)(b) for the words “receiving full-time education” there shall be substituted the words “ in relevant education or a student”;
   - (ii) for sub-paragraph (2) there shall be substituted the following sub-paragraphs–
 
@@ -296,44 +296,44 @@ These Regulations further amend the Income Support (General) Regulations 1987 in
 
 [^f00002]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14); section 166(3A) was inserted by section 62 of the Social Security Act 1986 and section 166(1) to (3A) is applied by section 83(1) of that Act.
 
-[^key-372af9666f0bf5b3993334a8e6b7af56]: Commencement: Reg. 1 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
+[^c-372af9666f0bf5b3993334a8e6b7af56]: Commencement: Reg. 1 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
 
 [^f00003]: Footnote: S.I. [1989/534](https://www.legislation.gov.uk/uksi/1989/534).
 
 [^f00004]: Footnote: S.I. [1987/1967](https://www.legislation.gov.uk/uksi/1987/1967); relevant amending instruments are S.I.’s [1988/663](https://www.legislation.gov.uk/uksi/1988/663), [910](https://www.legislation.gov.uk/uksi/1988/910), [1228](https://www.legislation.gov.uk/uksi/1988/1228), [1445](https://www.legislation.gov.uk/uksi/1988/1445), [2022](https://www.legislation.gov.uk/uksi/1988/2022) and [1989/43](https://www.legislation.gov.uk/uksi/1989/43), [534](https://www.legislation.gov.uk/uksi/1989/534) and [1034](https://www.legislation.gov.uk/uksi/1989/1034).
 
-[^key-80cf8e665db8d7f8e3cc2c915746b24c]: Commencement: Reg. 2 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
+[^c-80cf8e665db8d7f8e3cc2c915746b24c]: Commencement: Reg. 2 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
 
 [^f00005]: Footnote: [1975 c. 14](https://www.legislation.gov.uk/ukpga/1975/14); section 20A is inserted by section 12(4) of the Social Security Act 1989.
 
-[^key-8c6e4f9312696e39a520749838d2d29b]: Commencement: Reg. 3 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
+[^c-8c6e4f9312696e39a520749838d2d29b]: Commencement: Reg. 3 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
 
-[^key-f97b9b548cbccb9c7f79225fd1db22ad]: Commencement: Reg. 4 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
+[^c-f97b9b548cbccb9c7f79225fd1db22ad]: Commencement: Reg. 4 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
 
 [^f00006]: Footnote: [1973 c. 50](https://www.legislation.gov.uk/ukpga/1973/50); section 2 was substituted by the Employment Act [1988 (c. 19)](https://www.legislation.gov.uk/ukpga/1988/19), section 25(1).
 
-[^key-94feec338ea865ed5450b2cb9664dc20]: Commencement: Reg. 5 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
+[^c-94feec338ea865ed5450b2cb9664dc20]: Commencement: Reg. 5 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
 
 [^f00007]: Footnote: [1984 c. 23](https://www.legislation.gov.uk/ukpga/1984/23).
 
-[^key-8b586eac4872317738b374da57810a28]: Commencement: Reg. 6 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
+[^c-8b586eac4872317738b374da57810a28]: Commencement: Reg. 6 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
 
-[^key-e768f184e350f112d4559538de06ea04]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/1678/regulation/7) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5/2))
+[^c-e768f184e350f112d4559538de06ea04]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1989/1678/regulation/7) revoked (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Social Security (Income Support and Claims and Payments) Amendment Regulations 1995 (S.I. 1995/1613)](https://www.legislation.gov.uk/uksi/1995/1613), [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/1/1), [Sch. 4](https://www.legislation.gov.uk/uksi/1995/1613/schedule/REVOCATIONS) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/1995/1613/regulation/5/2))
 
-[^key-1b0f54963d4adedc3f16b8be2921e2d6]: Commencement: Reg. 7 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
+[^c-1b0f54963d4adedc3f16b8be2921e2d6]: Commencement: Reg. 7 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
 
-[^key-781a3526d3df8b7e1fc75a0d2bdd9e0c]: Commencement: Reg. 8 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
+[^c-781a3526d3df8b7e1fc75a0d2bdd9e0c]: Commencement: Reg. 8 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
 
-[^key-f92a49231fa6c731949293eabf2e13fe]: Commencement: Reg. 9 comes into force in accordance with [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/b)
+[^c-f92a49231fa6c731949293eabf2e13fe]: Commencement: Reg. 9 comes into force in accordance with [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/b)
 
-[^key-f6ce569e3c5c66b12c2eb1f11636573c]: Commencement: Reg. 10 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
+[^c-f6ce569e3c5c66b12c2eb1f11636573c]: Commencement: Reg. 10 in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
 
-[^key-81ef3dd5fcdb7252cc5749be3b1239be]: Commencement: Reg. 11(a)(b) in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
+[^c-81ef3dd5fcdb7252cc5749be3b1239be]: Commencement: Reg. 11(a)(b) in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
 
-[^key-d9966f11fa5b18774bacfb9a57319e50]: Commencement: Reg. 11(c) comes into force in accordance with [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/b)
+[^c-d9966f11fa5b18774bacfb9a57319e50]: Commencement: Reg. 11(c) comes into force in accordance with [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/b)
 
 [^f00008]: Footnote: [1947 c. 19](https://www.legislation.gov.uk/ukpga/1947/19); amended by Schedule 4 of the Social Security Act [1980 (c. 30)](https://www.legislation.gov.uk/ukpga/1980/30) and by S.I. [1951/174](https://www.legislation.gov.uk/uksi/1951/174) and [1968/1699](https://www.legislation.gov.uk/uksi/1968/1699).
 
-[^key-e073c2b2a62f2d0bc760aa59c28c571c]: Commencement: Reg. 12(a) comes into force in accordance with [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/b)
+[^c-e073c2b2a62f2d0bc760aa59c28c571c]: Commencement: Reg. 12(a) comes into force in accordance with [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/b)
 
-[^key-6157b52e0294b2104cc808a79c3c8200]: Commencement: Reg. 12(b) in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)
+[^c-6157b52e0294b2104cc808a79c3c8200]: Commencement: Reg. 12(b) in force at 9.10.1989, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1989/1678/regulation/1/1/a)

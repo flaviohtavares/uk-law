@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. TRA's recommendation to the Secretary of State[^key-7177d4ab6fcb29fc3946908e458c5888]
+## 37. TRA's recommendation to the Secretary of State[^c-7177d4ab6fcb29fc3946908e458c5888]
 
 *Extent: E+W+S+N.I.*
 
-(1) The[^key-23aa540ffea0b493771ee8acaf5954a3] TRA must make a recommendation to the Secretary of State, where it determines that the application of a definitive safeguarding remedy should be varied, revoked or replaced.
+(1) The[^c-23aa540ffea0b493771ee8acaf5954a3] TRA must make a recommendation to the Secretary of State, where it determines that the application of a definitive safeguarding remedy should be varied, revoked or replaced.
 
-(2)[^key-20008d3a06596f3c7184b67f7dca5f25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-20008d3a06596f3c7184b67f7dca5f25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2A)[^key-f362b4f463bd799963c59439a6e35706] Where, in relation to an early review under regulation 33A, a mid-term review under regulation 34 or an extension review under regulation 35, the TRA considers that there are two or more options which it could recommend under paragraph (1), it may give the Secretary of State each of those options as part of its recommendation.
+(2A)[^c-f362b4f463bd799963c59439a6e35706] Where, in relation to an early review under regulation 33A, a mid-term review under regulation 34 or an extension review under regulation 35, the TRA considers that there are two or more options which it could recommend under paragraph (1), it may give the Secretary of State each of those options as part of its recommendation.
 
 (2B) The TRA must consider whether it could give the Secretary of State two or more options as part of its recommendation under paragraph (1)—
 
@@ -57,10 +57,10 @@ summary: ''
 
 ## Annotations
 
-[^key-7177d4ab6fcb29fc3946908e458c5888]: Commencement: Reg. 37 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-7177d4ab6fcb29fc3946908e458c5888]: Commencement: Reg. 37 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
 
-[^key-23aa540ffea0b493771ee8acaf5954a3]: Textual amendment: Word in [reg. 37(1)](https://www.legislation.gov.uk/uksi/2019/449/regulation/37/1) substituted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2023/954/regulation/13/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
+[^c-23aa540ffea0b493771ee8acaf5954a3]: Textual amendment: Word in [reg. 37(1)](https://www.legislation.gov.uk/uksi/2019/449/regulation/37/1) substituted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2023/954/regulation/13/a) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
 
-[^key-20008d3a06596f3c7184b67f7dca5f25]: Textual amendment: [Reg. 37(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/37/2) omitted (25.9.2023) by virtue of [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2023/954/regulation/13/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
+[^c-20008d3a06596f3c7184b67f7dca5f25]: Textual amendment: [Reg. 37(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/37/2) omitted (25.9.2023) by virtue of [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2023/954/regulation/13/b) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
 
-[^key-f362b4f463bd799963c59439a6e35706]: Textual amendment: [Reg. 37(2A)-(2E)](https://www.legislation.gov.uk/uksi/2019/449/regulation/37/2A) inserted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [13(c)](https://www.legislation.gov.uk/uksi/2023/954/regulation/13/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))
+[^c-f362b4f463bd799963c59439a6e35706]: Textual amendment: [Reg. 37(2A)-(2E)](https://www.legislation.gov.uk/uksi/2019/449/regulation/37/2A) inserted (25.9.2023) by [The Trade Remedies (Increase in Imports Causing Serious Injury to UK Producers) (EU Exit) (Amendment) Regulations 2023 (S.I. 2023/954)](https://www.legislation.gov.uk/uksi/2023/954), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/954/regulation/1/2), [13(c)](https://www.legislation.gov.uk/uksi/2023/954/regulation/13/c) (with [reg. 2](https://www.legislation.gov.uk/uksi/2023/954/regulation/2))

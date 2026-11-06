@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 20. Waiting days[^key-447b6282093dc73d71e53b8a483509dd]
+## 20. Waiting days[^c-447b6282093dc73d71e53b8a483509dd]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-447b6282093dc73d71e53b8a483509dd]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/216/regulation/20) omitted (8.5.2018) by virtue of [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(3)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/3)
+[^c-447b6282093dc73d71e53b8a483509dd]: Textual amendment: [Reg. 20](https://www.legislation.gov.uk/nisr/2016/216/regulation/20) omitted (8.5.2018) by virtue of [The Universal Credit (Persons Required to Provide Information, Miscellaneous Amendments and Saving and Transitional Provision) Regulations (Northern Ireland) 2018 (S.R. 2018/92)](https://www.legislation.gov.uk/nisr/2018/92), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2018/92/regulation/1/2), [6(3)](https://www.legislation.gov.uk/nisr/2018/92/regulation/6/3)

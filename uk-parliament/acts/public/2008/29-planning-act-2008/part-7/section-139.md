@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Common land and rights of common[^key-ffcd33560ad893daf98b9cc9303310af]
+## 139. Common land and rights of common[^c-ffcd33560ad893daf98b9cc9303310af]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffcd33560ad893daf98b9cc9303310af]: Commencement: S. 139 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-ffcd33560ad893daf98b9cc9303310af]: Commencement: S. 139 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(e)](https://www.legislation.gov.uk/uksi/2010/101/article/4/e) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

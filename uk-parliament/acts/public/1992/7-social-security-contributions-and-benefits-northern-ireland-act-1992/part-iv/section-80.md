@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Beneficiary’s dependent children.[^key-6d33e9a35796d67a37e01109bcfbd77f][^key-8c115291edde41683c32bf1112a890b7]
+## 80. Beneficiary’s dependent children.[^c-6d33e9a35796d67a37e01109bcfbd77f][^c-8c115291edde41683c32bf1112a890b7]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6d33e9a35796d67a37e01109bcfbd77f]: Textual amendment: S. 80 repealed (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(3)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/3/e), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/962/schedule/1) (with savings in [S.R. 2003/212](https://www.legislation.gov.uk/nisr/2003/212), [art. 2](https://www.legislation.gov.uk/nisr/2003/212/article/2) and see also [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [s. 30(1)](https://www.legislation.gov.uk/nia/2010/13/section/30/1))
+[^c-6d33e9a35796d67a37e01109bcfbd77f]: Textual amendment: S. 80 repealed (6.4.2003) by [Tax Credits Act 2002 (c. 21)](https://www.legislation.gov.uk/ukpga/2002/21), [s. 61](https://www.legislation.gov.uk/ukpga/2002/21/section/61), [Sch. 6](https://www.legislation.gov.uk/ukpga/2002/21/schedule/6); [S.I. 2003/962](https://www.legislation.gov.uk/uksi/2003/962), [art. 2(3)(e)](https://www.legislation.gov.uk/uksi/2003/962/article/2/3/e), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/962/schedule/1) (with savings in [S.R. 2003/212](https://www.legislation.gov.uk/nisr/2003/212), [art. 2](https://www.legislation.gov.uk/nisr/2003/212/article/2) and see also [Welfare Reform Act (Northern Ireland) 2010 (c. 13)](https://www.legislation.gov.uk/nia/2010/13), [s. 30(1)](https://www.legislation.gov.uk/nia/2010/13/section/30/1))
 
-[^key-8c115291edde41683c32bf1112a890b7]: Textual amendment: S. 80 (as saved) sums amended (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Order (Northern Ireland) 2023 (S.R. 2023/150)](https://www.legislation.gov.uk/nisr/2023/150), [arts. 1](https://www.legislation.gov.uk/nisr/2023/150/article/1), [7](https://www.legislation.gov.uk/nisr/2023/150/article/7/a)
+[^c-8c115291edde41683c32bf1112a890b7]: Textual amendment: S. 80 (as saved) sums amended (26.9.2023) by [The Social Security Benefits Up-rating (No. 3) Order (Northern Ireland) 2023 (S.R. 2023/150)](https://www.legislation.gov.uk/nisr/2023/150), [arts. 1](https://www.legislation.gov.uk/nisr/2023/150/article/1), [7](https://www.legislation.gov.uk/nisr/2023/150/article/7/a)

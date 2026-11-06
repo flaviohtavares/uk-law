@@ -218,7 +218,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 2.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-d6895935c65108120c0351f774736668]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d6895935c65108120c0351f774736668]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Done at Brussels, 1 October 2019.
 
@@ -549,7 +549,7 @@ in Annex IV, point (c) is amended as follows:
 
 [^f00005]: Footnote: Cenelec EN 60038 includes in Annex 2B a national deviation in the Czech Republic according to which the standard voltage for the highest voltage for equipment in AC three-phase systems are 38,5 kV instead of 36 kV and 25 kV instead of 24 kV.’;
 
-[^key-d6895935c65108120c0351f774736668]: Textual amendment: Words in [Article 2](https://www.legislation.gov.uk/eur/2019/1783/signature) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [17](https://www.legislation.gov.uk/uksi/2020/1528/regulation/17)
+[^c-d6895935c65108120c0351f774736668]: Textual amendment: Words in [Article 2](https://www.legislation.gov.uk/eur/2019/1783/signature) omitted (31.12.2020) by virtue of [The Ecodesign for Energy-Related Products and Energy Information (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1528)](https://www.legislation.gov.uk/uksi/2020/1528), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1528/regulation/1/4), [17](https://www.legislation.gov.uk/uksi/2020/1528/regulation/17)
 
 [^f00006]: Footnote: The European Commission Better Regulation Toolbox suggest using a value of 4 % for the social discount rate
 

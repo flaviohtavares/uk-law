@@ -37,7 +37,7 @@ summary: ''
 - (i) the function of granting a criminal aid certificate in respect of a person where the lay magistrate is dealing, or has previously dealt, with him by virtue of paragraph (b), (c) or (g), and
 - (j) the function of granting a criminal aid certificate in relation to an appeal against anything done by a lay magistrate by virtue of paragraph (c) or (g).
 
-(4)[^key-2fb7ff1bb441628c46814f719530be71] The Lord Chancellor may , after consultation with the Lord Chief Justice,[^c20701771] by order amend subsection (3).
+(4)[^c-2fb7ff1bb441628c46814f719530be71] The Lord Chancellor may , after consultation with the Lord Chief Justice,[^c20701771] by order amend subsection (3).
 
 (5) Subsection (1) is subject to paragraphs 1 to 3 of Schedule 4 which specify functions which are to remain functions of justices of the peace (instead of, or as well as, becoming functions of lay magistrates) or to become functions only of resident magistrates.
 
@@ -53,6 +53,6 @@ summary: ''
 
 [^c20696931]: Textual amendment: By [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 132](https://www.legislation.gov.uk/ukpga/2005/4/section/132), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148); [S.I. 2005/1431](https://www.legislation.gov.uk/uksi/2005/1431), [art. 2(b)](https://www.legislation.gov.uk/uksi/2005/1431/article/2/b) it is provided (15.6.2005) that s. 9I and the cross-heading following that provision is inserted after s. 9H
 
-[^key-2fb7ff1bb441628c46814f719530be71]: Modification: [S. 10(4)](https://www.legislation.gov.uk/ukpga/2002/26/section/10/4): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 17](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/17) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-2fb7ff1bb441628c46814f719530be71]: Modification: [S. 10(4)](https://www.legislation.gov.uk/ukpga/2002/26/section/10/4): transfer of functions (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 17 para. 17](https://www.legislation.gov.uk/uksi/2010/976/schedule/17/paragraph/17) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c20701771]: Textual amendment: Words in [s. 10(4)](https://www.legislation.gov.uk/ukpga/2002/26/section/10/4) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 5 para. 118](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/118); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2](https://www.legislation.gov.uk/uksi/2006/1014/article/2), [Sch. 1 para. 12](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 97. Notification of decisions under regulation 96[^key-2d0e0a05af1cf30c5f55f24e73e6186c]
+## 97. Notification of decisions under regulation 96[^c-2d0e0a05af1cf30c5f55f24e73e6186c]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d0e0a05af1cf30c5f55f24e73e6186c]: Commencement: Reg. 97 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-2d0e0a05af1cf30c5f55f24e73e6186c]: Commencement: Reg. 97 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.12A. Ordering a party to request another person to disclose a document[^key-4b416ed7564a08b2511f79fb257dca00]
+## 31.12A. Ordering a party to request another person to disclose a document[^c-4b416ed7564a08b2511f79fb257dca00]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The court may order a party to request any person to produce for disclosure and 
 
 ## Annotations
 
-[^key-4b416ed7564a08b2511f79fb257dca00]: Textual amendment: [Rule 31.12A](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.12A) inserted (6.4.2026) by [The Civil Procedure (Amendment) Rules 2026 (S.I. 2026/97)](https://www.legislation.gov.uk/uksi/2026/97), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/97/rule/1/2/a), [4(2)](https://www.legislation.gov.uk/uksi/2026/97/rule/4/2)
+[^c-4b416ed7564a08b2511f79fb257dca00]: Textual amendment: [Rule 31.12A](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.12A) inserted (6.4.2026) by [The Civil Procedure (Amendment) Rules 2026 (S.I. 2026/97)](https://www.legislation.gov.uk/uksi/2026/97), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/97/rule/1/2/a), [4(2)](https://www.legislation.gov.uk/uksi/2026/97/rule/4/2)

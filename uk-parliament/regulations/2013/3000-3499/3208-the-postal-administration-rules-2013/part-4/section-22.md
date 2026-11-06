@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Creditors’ meetings generally[^key-1dec2266dbbbcc7eedc5074f41cb9b7d]
+## 22. Creditors’ meetings generally[^c-1dec2266dbbbcc7eedc5074f41cb9b7d]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dec2266dbbbcc7eedc5074f41cb9b7d]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2013/3208/rule/22) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-1dec2266dbbbcc7eedc5074f41cb9b7d]: Commencement: [Rule 22](https://www.legislation.gov.uk/uksi/2013/3208/rule/22) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

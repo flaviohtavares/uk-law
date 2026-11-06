@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Amendment to regulation 58A[^key-66cd469c11bc4af555dda8edaf7b8aac]
+## 45. Amendment to regulation 58A[^c-66cd469c11bc4af555dda8edaf7b8aac]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ In regulation 58A (paediatric rewards)[^f00056]—
 
 ## Annotations
 
-[^key-66cd469c11bc4af555dda8edaf7b8aac]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2024/832/regulation/45) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-66cd469c11bc4af555dda8edaf7b8aac]: Commencement: [Reg. 45](https://www.legislation.gov.uk/uksi/2024/832/regulation/45) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00056]: Footnote: Regulation 58A was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

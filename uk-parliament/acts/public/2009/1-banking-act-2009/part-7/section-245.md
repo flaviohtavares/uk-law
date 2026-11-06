@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245. Weekly return[^key-2d57a3f9d1756043be8549640df145ba]
+## 245. Weekly return[^c-2d57a3f9d1756043be8549640df145ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 6 of the Bank Charter Act 1844 (Bank to produce weekly account) shall ce
 
 ## Annotations
 
-[^key-2d57a3f9d1756043be8549640df145ba]: Commencement: S. 245 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/8)
+[^c-2d57a3f9d1756043be8549640df145ba]: Commencement: S. 245 in force at 21.2.2009 by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [art. 3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 8](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/8)

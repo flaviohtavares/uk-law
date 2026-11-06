@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56.3. Claims for a new tenancy under section 24 and for the termination of a tenancy under section 29(2) of the Landlord and Tenant Act 1954[^key-b954dfc12e75179992a7a290b492d979][^key-083d3acaff142ff50b3490b86b713816]
+## 56.3. Claims for a new tenancy under section 24 and for the termination of a tenancy under section 29(2) of the Landlord and Tenant Act 1954[^c-b954dfc12e75179992a7a290b492d979][^c-083d3acaff142ff50b3490b86b713816]
 
 *Extent: E+W*
 
@@ -34,24 +34,24 @@ summary: ''
 
 - (a) the claimant must use the Part 8 procedure, but the following rules do not apply—
   - (i) rule 8.5; and
-  - (ii) rule 8.6; and[^key-9ced7f92a0f49d0249afb3ee8de5cdca]
-- (b)[^key-1dddf16952f3d29db4eb18b92536b506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) rule 8.6; and[^c-9ced7f92a0f49d0249afb3ee8de5cdca]
+- (b)[^c-1dddf16952f3d29db4eb18b92536b506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the court will give directions about the future management of the claim following receipt of the acknowledgment of service.
 
-(4)[^key-5304a6a56819b5e654d549efc41d713d] Where the claim is an opposed claim the claimant must use the Part 7 procedure.
+(4)[^c-5304a6a56819b5e654d549efc41d713d] Where the claim is an opposed claim the claimant must use the Part 7 procedure.
 
-(Practice Direction 56[^key-7111bbcec5d5d39369bc112da5e2f03b] contains provisions about evidence, including expert evidence in opposed claims)
+(Practice Direction 56[^c-7111bbcec5d5d39369bc112da5e2f03b] contains provisions about evidence, including expert evidence in opposed claims)
 
 ## Annotations
 
-[^key-b954dfc12e75179992a7a290b492d979]: Textual amendment: [Rule 56.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.3) substituted (1.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rules 1(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/a), [16](https://www.legislation.gov.uk/uksi/2004/1306/rule/16) (with [rule 20(1)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/1))
+[^c-b954dfc12e75179992a7a290b492d979]: Textual amendment: [Rule 56.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.3) substituted (1.6.2004) by [The Civil Procedure (Amendment) Rules 2004 (S.I. 2004/1306)](https://www.legislation.gov.uk/uksi/2004/1306), [rules 1(a)](https://www.legislation.gov.uk/uksi/2004/1306/rule/1/a), [16](https://www.legislation.gov.uk/uksi/2004/1306/rule/16) (with [rule 20(1)](https://www.legislation.gov.uk/uksi/2004/1306/rule/20/1))
 
-[^key-083d3acaff142ff50b3490b86b713816]: Textual amendment: Pt. 56 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/256/schedule/2) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
+[^c-083d3acaff142ff50b3490b86b713816]: Textual amendment: Pt. 56 inserted (15.10.2001) by [The Civil Procedure (Amendment) Rules 2001 (S.I. 2001/256)](https://www.legislation.gov.uk/uksi/2001/256), [rule 1(d)](https://www.legislation.gov.uk/uksi/2001/256/rule/1/d), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/256/schedule/2) (with [rule 31](https://www.legislation.gov.uk/uksi/2001/256/rule/31))
 
-[^key-9ced7f92a0f49d0249afb3ee8de5cdca]: Textual amendment: Word in [rule 56.3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.3/3/a/ii) inserted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [29(c)(i)](https://www.legislation.gov.uk/uksi/2008/2178/rule/29/c/i)
+[^c-9ced7f92a0f49d0249afb3ee8de5cdca]: Textual amendment: Word in [rule 56.3(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.3/3/a/ii) inserted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [29(c)(i)](https://www.legislation.gov.uk/uksi/2008/2178/rule/29/c/i)
 
-[^key-1dddf16952f3d29db4eb18b92536b506]: Textual amendment: [Rule 56.3(3)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.3/3/b) omitted (1.10.2008) by virtue of [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [29(c)(ii)](https://www.legislation.gov.uk/uksi/2008/2178/rule/29/c/ii)
+[^c-1dddf16952f3d29db4eb18b92536b506]: Textual amendment: [Rule 56.3(3)(b)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.3/3/b) omitted (1.10.2008) by virtue of [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [29(c)(ii)](https://www.legislation.gov.uk/uksi/2008/2178/rule/29/c/ii)
 
-[^key-5304a6a56819b5e654d549efc41d713d]: Textual amendment: [Rule 56.3(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.3/4) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [29(c)(iii)](https://www.legislation.gov.uk/uksi/2008/2178/rule/29/c/iii)
+[^c-5304a6a56819b5e654d549efc41d713d]: Textual amendment: [Rule 56.3(4)](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.3/4) substituted (1.10.2008) by [The Civil Procedure (Amendment) Rules 2008 (S.I. 2008/2178)](https://www.legislation.gov.uk/uksi/2008/2178), [rules 1(2)](https://www.legislation.gov.uk/uksi/2008/2178/rule/1/2), [29(c)(iii)](https://www.legislation.gov.uk/uksi/2008/2178/rule/29/c/iii)
 
-[^key-7111bbcec5d5d39369bc112da5e2f03b]: Textual amendment: Words in [rule 56.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.3) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [31(b)](https://www.legislation.gov.uk/uksi/2009/3390/rule/31/b)
+[^c-7111bbcec5d5d39369bc112da5e2f03b]: Textual amendment: Words in [rule 56.3](https://www.legislation.gov.uk/uksi/1998/3132/rule/56.3) substituted (6.4.2010) by [The Civil Procedure (Amendment No.2) Rules 2009 (S.I. 2009/3390)](https://www.legislation.gov.uk/uksi/2009/3390), [rules 1(2)](https://www.legislation.gov.uk/uksi/2009/3390/rule/1/2), [31(b)](https://www.legislation.gov.uk/uksi/2009/3390/rule/31/b)

@@ -42,14 +42,14 @@ unless at least some of that service was in qualifying judicial office.
 
 (4) In this section, the “**relevant day**”, in the case of any person, means the day on which this Part first applies, or would, apart from section 13(8)(a) below, first apply, to him.
 
-(5)[^key-df89bc0bb2699a9b3e3ccd960840943c] This section does not prevent a scheme under section 1 of the Public Service Pensions Act 2013 having effect in relation to a person.
+(5)[^c-df89bc0bb2699a9b3e3ccd960840943c] This section does not prevent a scheme under section 1 of the Public Service Pensions Act 2013 having effect in relation to a person.
 
 *Extent: N.I.*
 
-(6)[^key-c60868543d9e1d59dd6fee5e2f88d713] This section does not prevent a scheme under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 having effect in relation to a person.
+(6)[^c-c60868543d9e1d59dd6fee5e2f88d713] This section does not prevent a scheme under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 having effect in relation to a person.
 
 ## Annotations
 
-[^key-df89bc0bb2699a9b3e3ccd960840943c]: Textual amendment: S. 11(5) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/17) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(i)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/i)
+[^c-df89bc0bb2699a9b3e3ccd960840943c]: Textual amendment: S. 11(5) inserted (1.4.2014) by [Public Service Pensions Act 2013 (c. 25)](https://www.legislation.gov.uk/ukpga/2013/25), [s. 41(2)](https://www.legislation.gov.uk/ukpga/2013/25/section/41/2), [Sch. 8 para. 17](https://www.legislation.gov.uk/ukpga/2013/25/schedule/8/paragraph/17) (with [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2013/25/schedule/11/paragraph/8)); [S.I. 2014/839](https://www.legislation.gov.uk/uksi/2014/839), [art. 4(2)(i)](https://www.legislation.gov.uk/uksi/2014/839/article/4/2/i)
 
-[^key-c60868543d9e1d59dd6fee5e2f88d713]: Textual amendment: S. 11(6) added (N.I.) (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 18](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/18); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-c60868543d9e1d59dd6fee5e2f88d713]: Textual amendment: S. 11(6) added (N.I.) (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 18](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/18); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)

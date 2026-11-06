@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.11. Standard contents of documents relating to other documents[^key-2339db704542fe9233306d224bd248f2]
+## 7.11. Standard contents of documents relating to other documents[^c-2339db704542fe9233306d224bd248f2]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ A document relating to another document must also state—
 
 ## Annotations
 
-[^key-2339db704542fe9233306d224bd248f2]: Commencement: Rule 7.11 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-2339db704542fe9233306d224bd248f2]: Commencement: Rule 7.11 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

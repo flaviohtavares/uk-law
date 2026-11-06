@@ -24,9 +24,9 @@ Article 7
 
 ### PART I — MODIFIED PROVISIONS OF PART V OF THE ACT
 
-**1.**[^key-4a69548d2e5571a4aa76017b7b69f180] Sections 220 to 223 of the Act are set out as modified in Part I of this Schedule, and sections 117, 131, 133, 234 and Schedule 4 are set out as modified in Part II.
+**1.**[^c-4a69548d2e5571a4aa76017b7b69f180] Sections 220 to 223 of the Act are set out as modified in Part I of this Schedule, and sections 117, 131, 133, 234 and Schedule 4 are set out as modified in Part II.
 
-#### 2. Section 220: Meaning of “unregistered company”[^key-89e4d3b3bece3f8178d3412ab42f9e9a]
+#### 2. Section 220: Meaning of “unregistered company”[^c-89e4d3b3bece3f8178d3412ab42f9e9a]
 
 Section 220 is modified so as to read as follows:—
 
@@ -34,7 +34,7 @@ Section 220 is modified so as to read as follows:—
 
 .
 
-#### 3. Section 221: Winding up of unregistered companies[^key-26e44ad8ecc1129e6841bfeb84c147bf]
+#### 3. Section 221: Winding up of unregistered companies[^c-26e44ad8ecc1129e6841bfeb84c147bf]
 
 Section 221 is modified so as to read as follows:—
 
@@ -52,7 +52,7 @@ Section 221 is modified so as to read as follows:—
 >
 > ending with the day on which the winding-up petition is presented.
 >
-> (3A)[^key-2ea39053b9ef884abeb36af48c5cf219] The preceding subsections are subject to Article 3 of the EC Regulation (jurisdiction under the EC Regulation).
+> (3A)[^c-2ea39053b9ef884abeb36af48c5cf219] The preceding subsections are subject to Article 3 of the EC Regulation (jurisdiction under the EC Regulation).
 >
 > (4) No insolvent partnership shall be wound up under this Act voluntarily.
 >
@@ -61,14 +61,14 @@ Section 221 is modified so as to read as follows:—
 > - (a) with the exceptions and additions mentioned in the following subsections of this section and in section 221A, and
 > - (b) with the modifications specified in Part II of Schedule 3 to the Insolvent Partnerships Order 1994.
 >
-> (6) Sections 73(1), 74(2)(a) to (d) and (3), 75 to 78, 83, 122, 123, 176A,[^key-66022fbdd9358fbf14cd445cf3801449] 202, 203, 205 and 250 shall not apply.
+> (6) Sections 73(1), 74(2)(a) to (d) and (3), 75 to 78, 83, 122, 123, 176A,[^c-66022fbdd9358fbf14cd445cf3801449] 202, 203, 205 and 250 shall not apply.
 >
 > (7) The circumstances in which an insolvent partnership may be wound up as an unregistered company are as follows—
 >
 > - (a) if the partnership is dissolved, or has ceased to carry on business, or is carrying on business only for the purpose of winding up its affairs;
 > - (b) if the partnership is unable to pay its debts;
 > - (c) if the court is of the opinion that it is just and equitable that the partnership should be wound up.
-> - (d)[^key-592baf858a153733387de9e1e17e8d64] at the time at which a moratorium for the insolvent partnership under section 1A comes to an end, no voluntary arrangement approved under Part I of this Act has effect in relation to the insolvent partnership.
+> - (d)[^c-592baf858a153733387de9e1e17e8d64] at the time at which a moratorium for the insolvent partnership under section 1A comes to an end, no voluntary arrangement approved under Part I of this Act has effect in relation to the insolvent partnership.
 >
 > (7A) A winding-up petition on the ground set out in section 221(7)(d) may only be presented by one or more creditors.
 >
@@ -97,7 +97,7 @@ Section 221 is modified so as to read as follows:—
 
 .
 
-#### 4. Section 222: Inability to pay debts: unpaid creditor for £750 or more[^key-6d8bd9dd979ccc880c221595335cca4f]
+#### 4. Section 222: Inability to pay debts: unpaid creditor for £750 or more[^c-6d8bd9dd979ccc880c221595335cca4f]
 
 Section 222 is modified so as to read as follows:—
 
@@ -117,7 +117,7 @@ Section 222 is modified so as to read as follows:—
 
 .
 
-#### 5. Section 223: Inability to pay debts: debt remaining unsatisfied after action brought[^key-b73dfd6870383c46c5c3307a89367b3e]
+#### 5. Section 223: Inability to pay debts: debt remaining unsatisfied after action brought[^c-b73dfd6870383c46c5c3307a89367b3e]
 
 Section 223 is modified so as to read as follows:—
 
@@ -137,7 +137,7 @@ Section 223 is modified so as to read as follows:—
 
 ### PART II — OTHER MODIFIED PROVISIONS OF THE ACT ABOUT WINDING UP BY THE COURT
 
-#### 6. Section 117: High Court and county court jurisdiction[^key-c61f005e8f2688bde5a4a3d46340d48b]
+#### 6. Section 117: High Court and county court jurisdiction[^c-c61f005e8f2688bde5a4a3d46340d48b]
 
 Section 117 is modified so as to read as follows:—
 
@@ -160,19 +160,19 @@ Section 117 is modified so as to read as follows:—
 >
 > ending with the day on which the petition for winding it up is presented.
 >
-> (5) The Lord Chancellor may, with the concurrence of the Lord Chief Justice, by order[^key-90cc4fe1ef1ff10c2d6509fd21cf7c96] in a statutory instrument exclude a county court from having winding-up jurisdiction, and for the purposes of that jurisdiction may attach its district, or any part thereof, to any other county court, and may by statutory instrument revoke or vary any such order.
+> (5) The Lord Chancellor may, with the concurrence of the Lord Chief Justice, by order[^c-90cc4fe1ef1ff10c2d6509fd21cf7c96] in a statutory instrument exclude a county court from having winding-up jurisdiction, and for the purposes of that jurisdiction may attach its district, or any part thereof, to any other county court, and may by statutory instrument revoke or vary any such order.
 >
 > In exercising the powers of this section, the Lord Chancellor shall provide that a county court is not to have winding-up jurisdiction unless it has for the time being jurisdiction for the purposes of Parts VIII to XI of this Act (individual insolvency).
 >
 > (6) Every court in England and Wales having winding-up jurisdiction has for the purposes of that jurisdiction all the powers of the High Court; and every prescribed officer of the court shall perform any duties which an officer of the High Court may discharge by order of a judge of that court or otherwise in relation to winding up.
 >
-> (7)[^key-94a473c330712dbfa5572ffc475c4e49] This section is subject to Article 3 of the EC Regulation (jurisdiction under the EC Regulation).
+> (7)[^c-94a473c330712dbfa5572ffc475c4e49] This section is subject to Article 3 of the EC Regulation (jurisdiction under the EC Regulation).
 >
-> (8)[^key-63e3337f7215be1a20f55a0ecb87a301] The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under this section.
+> (8)[^c-63e3337f7215be1a20f55a0ecb87a301] The Lord Chief Justice may nominate a judicial office holder (as defined in section 109(4) of the Constitutional Reform Act 2005) to exercise his functions under this section.
 
 .
 
-#### 7. Section 131: Statement of affairs of insolvent partnership[^key-4d2b36eb88a5134785162b65d084755b]
+#### 7. Section 131: Statement of affairs of insolvent partnership[^c-4d2b36eb88a5134785162b65d084755b]
 
 Section 131 is modified so as to read as follows:—
 
@@ -213,7 +213,7 @@ Section 131 is modified so as to read as follows:—
 
 .
 
-#### 8. Section 133: Public examination of officers of insolvent partnerships[^key-a26c94391006546b7637552068d7adf8]
+#### 8. Section 133: Public examination of officers of insolvent partnerships[^c-a26c94391006546b7637552068d7adf8]
 
 Section 133 is modified so as to read as follows:—
 
@@ -236,13 +236,13 @@ Section 133 is modified so as to read as follows:—
 
 .
 
-#### 8A. Sections 165 and 167[^key-1f67fb77a2f0e1e8ae6b11722dcc5a29]
+#### 8A. Sections 165 and 167[^c-1f67fb77a2f0e1e8ae6b11722dcc5a29]
 
 (1) Section 165(2) has effect as if for “Parts 1 to 3” there were substituted “Parts 1 and 2”.
 
 (2) Section 167(1) has effect as if for “Parts 1 to 3” there were substituted “Parts 1 and 2”.
 
-#### 9. Section 234: Getting in the partnership property[^key-c02c9c27fe7c34bbb9ad424bb4404c55][^key-2264192ef1a0378bd1270453bd68eec8]
+#### 9. Section 234: Getting in the partnership property[^c-c02c9c27fe7c34bbb9ad424bb4404c55][^c-2264192ef1a0378bd1270453bd68eec8]
 
 Section 234 is modified so as to read as follows:—
 
@@ -271,13 +271,13 @@ Section 234 is modified so as to read as follows:—
 
 .
 
-**10.**[^key-eab66fb734096abce3c1cc878f91d1c5][^key-ed3f53bcfd99d1a6fb785c7888f41cc2] Schedule 4 is modified so as to read as follows:—
+**10.**[^c-eab66fb734096abce3c1cc878f91d1c5][^c-ed3f53bcfd99d1a6fb785c7888f41cc2] Schedule 4 is modified so as to read as follows:—
 
 > **SCHEDULE 4 — POWERS OF LIQUIDATOR IN A WINDING UP**
 >
 > Section 167
 >
-> **PART I — ...[^key-8be6652968fad5a77f0c446eeb391b27]**
+> **PART I — ...[^c-8be6652968fad5a77f0c446eeb391b27]**
 >
 > **1.** Power to pay any class of creditors in full.
 >
@@ -290,13 +290,13 @@ Section 234 is modified so as to read as follows:—
 >
 > and take any security for the discharge of any such debt, liability or claim and give a complete discharge in respect of it.
 >
-> **3A.**[^key-277b70fb96b489ba9eb648a9bf704cf9] Power to bring legal proceedings under section 213, 214, 238, 239 or 423
+> **3A.**[^c-277b70fb96b489ba9eb648a9bf704cf9] Power to bring legal proceedings under section 213, 214, 238, 239 or 423
 >
 > **4.** Power to bring or defend any action or other legal proceeding in the name and on behalf of any member of the partnership in his capacity as such or of the partnership.
 >
 > **5.** Power to carry on the business of the partnership so far as may be necessary for its beneficial winding up.
 >
-> **PART II — ...[^key-4fc15b9969a6f114eaf6a2ddf93848f2]**
+> **PART II — ...[^c-4fc15b9969a6f114eaf6a2ddf93848f2]**
 >
 > **6.** Power to sell any of the partnership property by public auction or private contract, with power to transfer the whole of it to any person or to sell the same in parcels.
 >
@@ -318,48 +318,48 @@ Section 234 is modified so as to read as follows:—
 
 ## Annotations
 
-[^key-4a69548d2e5571a4aa76017b7b69f180]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/1) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-4a69548d2e5571a4aa76017b7b69f180]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/1) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-89e4d3b3bece3f8178d3412ab42f9e9a]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/2) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-89e4d3b3bece3f8178d3412ab42f9e9a]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/2) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-26e44ad8ecc1129e6841bfeb84c147bf]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/3) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-26e44ad8ecc1129e6841bfeb84c147bf]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/3) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-2ea39053b9ef884abeb36af48c5cf219]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/3) inserted (31.5.2002) by [The Insolvent Partnerships (Amendment) Order 2002 (S.I. 2002/1308)](https://www.legislation.gov.uk/uksi/2002/1308), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/5/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/2/2))
+[^c-2ea39053b9ef884abeb36af48c5cf219]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/3) inserted (31.5.2002) by [The Insolvent Partnerships (Amendment) Order 2002 (S.I. 2002/1308)](https://www.legislation.gov.uk/uksi/2002/1308), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/1/1), [5(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/5/1) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/2/2))
 
-[^key-66022fbdd9358fbf14cd445cf3801449]: Textual amendment: Word in [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/3) inserted (6.4.2006) by [The Insolvent Partnerships (Amendment) Order 2006 (S.I. 2006/622)](https://www.legislation.gov.uk/uksi/2006/622), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/622/article/1/1), [6](https://www.legislation.gov.uk/uksi/2006/622/article/6) (with [art. 2](https://www.legislation.gov.uk/uksi/2006/622/article/2))
+[^c-66022fbdd9358fbf14cd445cf3801449]: Textual amendment: Word in [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/3) inserted (6.4.2006) by [The Insolvent Partnerships (Amendment) Order 2006 (S.I. 2006/622)](https://www.legislation.gov.uk/uksi/2006/622), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/622/article/1/1), [6](https://www.legislation.gov.uk/uksi/2006/622/article/6) (with [art. 2](https://www.legislation.gov.uk/uksi/2006/622/article/2))
 
-[^key-592baf858a153733387de9e1e17e8d64]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/3) inserted (1.1.2003) by [The Insolvent Partnerships (Amendment) (No. 2)Order 2002 (S.I. 2002/2708)](https://www.legislation.gov.uk/uksi/2002/2708), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2708/article/1), [8](https://www.legislation.gov.uk/uksi/2002/2708/article/8) (with [art. 11](https://www.legislation.gov.uk/uksi/2002/2708/article/11))
+[^c-592baf858a153733387de9e1e17e8d64]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/3) inserted (1.1.2003) by [The Insolvent Partnerships (Amendment) (No. 2)Order 2002 (S.I. 2002/2708)](https://www.legislation.gov.uk/uksi/2002/2708), [arts. 1](https://www.legislation.gov.uk/uksi/2002/2708/article/1), [8](https://www.legislation.gov.uk/uksi/2002/2708/article/8) (with [art. 11](https://www.legislation.gov.uk/uksi/2002/2708/article/11))
 
-[^key-6d8bd9dd979ccc880c221595335cca4f]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/4) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-6d8bd9dd979ccc880c221595335cca4f]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/4) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-b73dfd6870383c46c5c3307a89367b3e]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/5) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-b73dfd6870383c46c5c3307a89367b3e]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/5) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-c61f005e8f2688bde5a4a3d46340d48b]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/6) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-c61f005e8f2688bde5a4a3d46340d48b]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/6) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-90cc4fe1ef1ff10c2d6509fd21cf7c96]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/6/5) substituted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) Order 2006 (S.I. 2006/680)](https://www.legislation.gov.uk/uksi/2006/680), [art. 1](https://www.legislation.gov.uk/uksi/2006/680/article/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2006/680/schedule/2/paragraph/6/2)
+[^c-90cc4fe1ef1ff10c2d6509fd21cf7c96]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/6/5) substituted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) Order 2006 (S.I. 2006/680)](https://www.legislation.gov.uk/uksi/2006/680), [art. 1](https://www.legislation.gov.uk/uksi/2006/680/article/1), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2006/680/schedule/2/paragraph/6/2)
 
-[^key-94a473c330712dbfa5572ffc475c4e49]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/6) inserted (31.5.2002) by [The Insolvent Partnerships (Amendment) Order 2002 (S.I. 2002/1308)](https://www.legislation.gov.uk/uksi/2002/1308), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/5/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/2/2))
+[^c-94a473c330712dbfa5572ffc475c4e49]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/6) inserted (31.5.2002) by [The Insolvent Partnerships (Amendment) Order 2002 (S.I. 2002/1308)](https://www.legislation.gov.uk/uksi/2002/1308), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2002/1308/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/5/2) (with [art. 2(2)](https://www.legislation.gov.uk/uksi/2002/1308/article/2/2))
 
-[^key-63e3337f7215be1a20f55a0ecb87a301]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/6/8) inserted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) Order 2006 (S.I. 2006/680)](https://www.legislation.gov.uk/uksi/2006/680), [art. 1](https://www.legislation.gov.uk/uksi/2006/680/article/1), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2006/680/schedule/2/paragraph/6/3)
+[^c-63e3337f7215be1a20f55a0ecb87a301]: Textual amendment: Words in [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/6/8) inserted (3.4.2006) by [The Lord Chancellor (Transfer of Functions and Supplementary Provisions) Order 2006 (S.I. 2006/680)](https://www.legislation.gov.uk/uksi/2006/680), [art. 1](https://www.legislation.gov.uk/uksi/2006/680/article/1), [Sch. 2 para. 6(3)](https://www.legislation.gov.uk/uksi/2006/680/schedule/2/paragraph/6/3)
 
-[^key-4d2b36eb88a5134785162b65d084755b]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/7) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-4d2b36eb88a5134785162b65d084755b]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/7) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-a26c94391006546b7637552068d7adf8]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/8) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-a26c94391006546b7637552068d7adf8]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/8) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-1f67fb77a2f0e1e8ae6b11722dcc5a29]: Textual amendment: [Sch. 3 para. 8A](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/8A) inserted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/7/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-1f67fb77a2f0e1e8ae6b11722dcc5a29]: Textual amendment: [Sch. 3 para. 8A](https://www.legislation.gov.uk/uksi/1994/2421/schedule/3/paragraph/8A) inserted (6.4.2017) by [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/7/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
 
-[^key-c02c9c27fe7c34bbb9ad424bb4404c55]: Commencement: Sch. 3 para. 9 in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-c02c9c27fe7c34bbb9ad424bb4404c55]: Commencement: Sch. 3 para. 9 in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-2264192ef1a0378bd1270453bd68eec8]: Modification: Sch. 3 para. 9 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-2264192ef1a0378bd1270453bd68eec8]: Modification: Sch. 3 para. 9 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
 [^f00018]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46).
 
-[^key-eab66fb734096abce3c1cc878f91d1c5]: Commencement: Sch. 3 para. 10 in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-eab66fb734096abce3c1cc878f91d1c5]: Commencement: Sch. 3 para. 10 in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
-[^key-ed3f53bcfd99d1a6fb785c7888f41cc2]: Modification: Sch. 3 para. 10 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
+[^c-ed3f53bcfd99d1a6fb785c7888f41cc2]: Modification: Sch. 3 para. 10 modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 2 paras. 3-6](https://www.legislation.gov.uk/uksi/2021/716/schedule/2/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4)))
 
-[^key-8be6652968fad5a77f0c446eeb391b27]: Textual amendment: Words in Sch. 3 para. 10 omitted (6.4.2017) by virtue of [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/7/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-8be6652968fad5a77f0c446eeb391b27]: Textual amendment: Words in Sch. 3 para. 10 omitted (6.4.2017) by virtue of [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/7/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
 
-[^key-277b70fb96b489ba9eb648a9bf704cf9]: Textual amendment: Words in Sch. 3 para. 10 inserted (1.7.2005) by [The Insolvent Partnerships (Amendment) Order 2005 (S.I. 2005/1516)](https://www.legislation.gov.uk/uksi/2005/1516), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1516/article/1/1), [8](https://www.legislation.gov.uk/uksi/2005/1516/article/8)
+[^c-277b70fb96b489ba9eb648a9bf704cf9]: Textual amendment: Words in Sch. 3 para. 10 inserted (1.7.2005) by [The Insolvent Partnerships (Amendment) Order 2005 (S.I. 2005/1516)](https://www.legislation.gov.uk/uksi/2005/1516), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1516/article/1/1), [8](https://www.legislation.gov.uk/uksi/2005/1516/article/8)
 
-[^key-4fc15b9969a6f114eaf6a2ddf93848f2]: Textual amendment: Words in Sch. 3 para. 10 omitted (6.4.2017) by virtue of [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/7/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))
+[^c-4fc15b9969a6f114eaf6a2ddf93848f2]: Textual amendment: Words in Sch. 3 para. 10 omitted (6.4.2017) by virtue of [The Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 (S.I. 2017/540)](https://www.legislation.gov.uk/uksi/2017/540), [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1), [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/7/4) (with [reg. 4](https://www.legislation.gov.uk/uksi/2017/540/regulation/4))

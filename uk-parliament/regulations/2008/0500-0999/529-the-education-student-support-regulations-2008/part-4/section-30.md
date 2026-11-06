@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Amount of the grant for fees for a course at a private institution[^key-7af6049125ef518b3b4934433729b929]
+## 30. Amount of the grant for fees for a course at a private institution[^c-7af6049125ef518b3b4934433729b929]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7af6049125ef518b3b4934433729b929]: Commencement: Reg. 30 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-7af6049125ef518b3b4934433729b929]: Commencement: Reg. 30 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

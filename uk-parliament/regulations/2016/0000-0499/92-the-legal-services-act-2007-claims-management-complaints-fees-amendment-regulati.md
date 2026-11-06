@@ -32,7 +32,7 @@ summary: ''
 
 Legal Services, England And Wales
 
-The Legal Services Act 2007 (Claims Management Complaints) (Fees) (Amendment) Regulations 2016 (revoked)[^key-24610f99a96fd8708e1b9a855888e73b]
+The Legal Services Act 2007 (Claims Management Complaints) (Fees) (Amendment) Regulations 2016 (revoked)[^c-24610f99a96fd8708e1b9a855888e73b]
 
 Made
 
@@ -40,28 +40,28 @@ Made
 
 Coming into force in accordance with regulation 1
 
-[^key-24610f99a96fd8708e1b9a855888e73b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24610f99a96fd8708e1b9a855888e73b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-24610f99a96fd8708e1b9a855888e73b]
+## 1. Citation and commencement[^c-24610f99a96fd8708e1b9a855888e73b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Legal Services Act 2007 (Claims Management Complaints) (Fees) Regulations 2014[^key-24610f99a96fd8708e1b9a855888e73b]
+## 2. Amendments to the Legal Services Act 2007 (Claims Management Complaints) (Fees) Regulations 2014[^c-24610f99a96fd8708e1b9a855888e73b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-24610f99a96fd8708e1b9a855888e73b]
+## 3. Transitional provision[^c-24610f99a96fd8708e1b9a855888e73b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-24610f99a96fd8708e1b9a855888e73b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24610f99a96fd8708e1b9a855888e73b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-24610f99a96fd8708e1b9a855888e73b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-24610f99a96fd8708e1b9a855888e73b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-24610f99a96fd8708e1b9a855888e73b]: Textual amendment: Regulations revoked (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2), [105(j)](https://www.legislation.gov.uk/uksi/2018/1253/article/105/j)
+[^c-24610f99a96fd8708e1b9a855888e73b]: Textual amendment: Regulations revoked (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/2), [105(j)](https://www.legislation.gov.uk/uksi/2018/1253/article/105/j)

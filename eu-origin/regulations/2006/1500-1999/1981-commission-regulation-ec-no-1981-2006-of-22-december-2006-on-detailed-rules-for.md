@@ -37,172 +37,172 @@ on detailed rules for the implementation of Article 32 of Regulation (EC) No 182
 
 (Text with EEA relevance) (revoked)
 
-[^key-0f91488b75f5d96337c96c2a15a177e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f91488b75f5d96337c96c2a15a177e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Subject matter and scope[^key-0f91488b75f5d96337c96c2a15a177e8]
+## Article 1. Subject matter and scope[^c-0f91488b75f5d96337c96c2a15a177e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Definitions[^key-0f91488b75f5d96337c96c2a15a177e8]
+## Article 2. Definitions[^c-0f91488b75f5d96337c96c2a15a177e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Contributions[^key-0f91488b75f5d96337c96c2a15a177e8]
+## Article 3. Contributions[^c-0f91488b75f5d96337c96c2a15a177e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Reductions and exemptions[^key-0f91488b75f5d96337c96c2a15a177e8]
+## Article 4. Reductions and exemptions[^c-0f91488b75f5d96337c96c2a15a177e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Procedure[^key-0f91488b75f5d96337c96c2a15a177e8]
+## Article 5. Procedure[^c-0f91488b75f5d96337c96c2a15a177e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. National reference laboratories assisting the CRL for testing and validating the methods of detection and identification[^key-0f91488b75f5d96337c96c2a15a177e8]
+## Article 6. National reference laboratories assisting the CRL for testing and validating the methods of detection and identification[^c-0f91488b75f5d96337c96c2a15a177e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Reporting[^key-0f91488b75f5d96337c96c2a15a177e8]
+## Article 7. Reporting[^c-0f91488b75f5d96337c96c2a15a177e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Amendment to Regulation (EC) No 1829/2003[^key-0f91488b75f5d96337c96c2a15a177e8]
+## Article 8. Amendment to Regulation (EC) No 1829/2003[^c-0f91488b75f5d96337c96c2a15a177e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Entry into force[^key-0f91488b75f5d96337c96c2a15a177e8]
+## Article 9. Entry into force[^c-0f91488b75f5d96337c96c2a15a177e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0f91488b75f5d96337c96c2a15a177e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — Requirements for laboratories assisting the Community reference laboratory for testing and validation of methods for detection, as referred to in Article 6(1)[^key-0f91488b75f5d96337c96c2a15a177e8]
+## ANNEX I — Requirements for laboratories assisting the Community reference laboratory for testing and validation of methods for detection, as referred to in Article 6(1)[^c-0f91488b75f5d96337c96c2a15a177e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II — National reference laboratories assisting the CRL for testing and validation of methods for detection, as referred to in Article 6(1)[^key-0f91488b75f5d96337c96c2a15a177e8]
+## ANNEX II — National reference laboratories assisting the CRL for testing and validation of methods for detection, as referred to in Article 6(1)[^c-0f91488b75f5d96337c96c2a15a177e8]
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Belgique/België**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Bulgaria**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Belgique/België**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Česká republika**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Bulgaria**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Danmark**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Česká republika**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Deutschland**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Danmark**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Eesti**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Deutschland**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Éire**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Eesti**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Elláda**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Éire**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **España**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Elláda**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **France**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **España**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Hrvatska**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **France**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Italia**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Hrvatska**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Kypros**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Italia**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Latvija**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Kypros**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Lietuva**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Latvija**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Luxembourg**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Lietuva**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Magyarország**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Luxembourg**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Malta**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Magyarország**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Nederland**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Malta**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Österreich**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Nederland**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Polska**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Österreich**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Portugal**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Polska**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **România**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Portugal**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Slovenija**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **România**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Slovensko**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Slovenija**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Suomi/Finland**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Slovensko**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **Sverige**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Suomi/Finland**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0f91488b75f5d96337c96c2a15a177e8] **United Kingdom**
+[^c-0f91488b75f5d96337c96c2a15a177e8] **Sverige**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Amendments to the Annex to Regulation (EC) No 1829/2003[^key-0f91488b75f5d96337c96c2a15a177e8]
+[^c-0f91488b75f5d96337c96c2a15a177e8] **United Kingdom**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III — Amendments to the Annex to Regulation (EC) No 1829/2003[^c-0f91488b75f5d96337c96c2a15a177e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0f91488b75f5d96337c96c2a15a177e8]: Textual amendment: Regulation revoked (31.12.2020) by [The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/705)](https://www.legislation.gov.uk/uksi/2019/705), [regs. 1](https://www.legislation.gov.uk/uksi/2019/705/regulation/1), [477](https://www.legislation.gov.uk/uksi/2019/705/regulation/477) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(22)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/22))
+[^c-0f91488b75f5d96337c96c2a15a177e8]: Textual amendment: Regulation revoked (31.12.2020) by [The Genetically Modified Food and Feed (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/705)](https://www.legislation.gov.uk/uksi/2019/705), [regs. 1](https://www.legislation.gov.uk/uksi/2019/705/regulation/1), [477](https://www.legislation.gov.uk/uksi/2019/705/regulation/477) (as substituted by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(22)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/22))

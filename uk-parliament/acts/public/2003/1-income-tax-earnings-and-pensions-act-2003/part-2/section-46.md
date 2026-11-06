@@ -25,8 +25,8 @@ summary: ''
 - (a) if the worker personally provides... the services in question as a partner in a firm or a member of an unincorporated body;
 - (b) if the agency in question is an unincorporated body of which the worker is a member.
 
-(2) In a case within subsection (1)(a), remuneration receivable in consequence of the worker providing the services[^key-21a001051a542535cf296056eb9f3e90] is to be treated for income tax purposes as income of the worker and not as income of the firm or body.
+(2) In a case within subsection (1)(a), remuneration receivable in consequence of the worker providing the services[^c-21a001051a542535cf296056eb9f3e90] is to be treated for income tax purposes as income of the worker and not as income of the firm or body.
 
 ## Annotations
 
-[^key-21a001051a542535cf296056eb9f3e90]: Textual amendment: Words in s. 46(2) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 16(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/16/4/b)[(11)](https://www.legislation.gov.uk/ukpga/2014/26/section/16/11)
+[^c-21a001051a542535cf296056eb9f3e90]: Textual amendment: Words in s. 46(2) substituted (6.4.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 16(4)(b)](https://www.legislation.gov.uk/ukpga/2014/26/section/16/4/b)[(11)](https://www.legislation.gov.uk/ukpga/2014/26/section/16/11)

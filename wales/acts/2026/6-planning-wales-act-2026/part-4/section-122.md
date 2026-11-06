@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Duration etc. of temporary stop notice[^key-475752a5a175a77d345b26ba925c8921]
+## 122. Duration etc. of temporary stop notice[^c-475752a5a175a77d345b26ba925c8921]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-475752a5a175a77d345b26ba925c8921]: Commencement: S. 122 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-475752a5a175a77d345b26ba925c8921]: Commencement: S. 122 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

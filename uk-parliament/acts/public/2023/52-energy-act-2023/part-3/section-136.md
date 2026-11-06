@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Modification of gas transporter licence by Secretary of State[^key-4773c82d7de4a056aa07f1475d34bb28]
+## 136. Modification of gas transporter licence by Secretary of State[^c-4773c82d7de4a056aa07f1475d34bb28]
 
 *Extent: E+W+S*
 
@@ -59,4 +59,4 @@ In paragraph (b), “**gas**” has the same meaning as in Part 1 of the Gas Act
 
 ## Annotations
 
-[^key-4773c82d7de4a056aa07f1475d34bb28]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2023/52/section/136) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)
+[^c-4773c82d7de4a056aa07f1475d34bb28]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2023/52/section/136) in force at 26.12.2023, see [s. 334(3)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/c)

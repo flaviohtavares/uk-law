@@ -33,7 +33,7 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Sheep and Goats Identification (Scotland) Amendment Regulations 2002 (revoked)[^key-7b782a0f9bbf258569c5a7573f2b1799]
+The Sheep and Goats Identification (Scotland) Amendment Regulations 2002 (revoked)[^c-7b782a0f9bbf258569c5a7573f2b1799]
 
 Made
 
@@ -47,24 +47,24 @@ Coming into force on
 
 18th February 2002
 
-[^key-7b782a0f9bbf258569c5a7573f2b1799]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b782a0f9bbf258569c5a7573f2b1799]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7b782a0f9bbf258569c5a7573f2b1799]
+## 1. Citation and commencement[^c-7b782a0f9bbf258569c5a7573f2b1799]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the Sheep and Goats Identification (Scotland) Regulations 2000[^key-7b782a0f9bbf258569c5a7573f2b1799]
+## 2. Amendment to the Sheep and Goats Identification (Scotland) Regulations 2000[^c-7b782a0f9bbf258569c5a7573f2b1799]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7b782a0f9bbf258569c5a7573f2b1799]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b782a0f9bbf258569c5a7573f2b1799]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7b782a0f9bbf258569c5a7573f2b1799]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7b782a0f9bbf258569c5a7573f2b1799]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7b782a0f9bbf258569c5a7573f2b1799]: Textual amendment: Regulations revoked (20.3.2006) by [The Sheep and Goats (Identification and Traceability) (Scotland) Regulations 2006 (S.S.I. 2006/73)](https://www.legislation.gov.uk/ssi/2006/73), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/73/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2006/73/schedule/3)
+[^c-7b782a0f9bbf258569c5a7573f2b1799]: Textual amendment: Regulations revoked (20.3.2006) by [The Sheep and Goats (Identification and Traceability) (Scotland) Regulations 2006 (S.S.I. 2006/73)](https://www.legislation.gov.uk/ssi/2006/73), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2006/73/regulation/1/1), [sch. 3](https://www.legislation.gov.uk/ssi/2006/73/schedule/3)

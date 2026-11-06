@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Disclosure of information to gas and electricity suppliers etc[^key-d003371fc2d8e4df4b245e6878781ebf][^key-0f765f6ccc871342ef4084d6ecea18ed][^key-714d05f3bcd825736e772d7cfdd22463]
+## 36. Disclosure of information to gas and electricity suppliers etc[^c-d003371fc2d8e4df4b245e6878781ebf][^c-0f765f6ccc871342ef4084d6ecea18ed][^c-714d05f3bcd825736e772d7cfdd22463]
 
 *Extent: E+W+S*
 
-(1)[^key-a4a671f8f6bae95304ab1d52681f23f1] If the first and second conditions are met, a specified person may disclose information held by the person in connection with any of the person's functions to—
+(1)[^c-a4a671f8f6bae95304ab1d52681f23f1] If the first and second conditions are met, a specified person may disclose information held by the person in connection with any of the person's functions to—
 
 - (a) a licensed gas supplier, or
 - (b) a licensed electricity supplier.
@@ -35,15 +35,15 @@ summary: ''
 
 - (a) a support scheme under Part 2 of the Energy Act 2010 (schemes for reducing fuel poverty),
 - (b) in the case of a disclosure to a licensed gas supplier, an obligation imposed by an order under section 33BC or 33BD of the Gas Act 1986 (powers to impose obligations on gas suppliers etc),
-- (c) in the case of a disclosure to a licensed electricity supplier, an obligation imposed by an order under section 41A or 41B of the Electricity Act 1989 (powers to impose obligations on electricity suppliers etc), [^key-f5ba3d50624469f35e69e6f6816d453a]...
+- (c) in the case of a disclosure to a licensed electricity supplier, an obligation imposed by an order under section 41A or 41B of the Electricity Act 1989 (powers to impose obligations on electricity suppliers etc), [^c-f5ba3d50624469f35e69e6f6816d453a]...
 - (d) the making of grants (by any person) under section 15 of the Social Security Act 1990 in accordance with regulations under that section made by the Scottish Ministers or the Welsh Ministers,
-- (e)[^key-ef68def96400c8f9adfd21a93de41f96] in the case of a disclosure to a licensed gas supplier, a restriction on charges levied on domestic customers by the supplier which is imposed by the Gas and Electricity Markets Authority—
+- (e)[^c-ef68def96400c8f9adfd21a93de41f96] in the case of a disclosure to a licensed gas supplier, a restriction on charges levied on domestic customers by the supplier which is imposed by the Gas and Electricity Markets Authority—
   - (i) in the exercise of its powers under section 23(1)(b) of the Gas Act 1986 (modification of conditions of licences), and
-  - (ii) for purposes that include assisting people living in fuel poverty by reducing their energy costs, [^key-8063e11d620b9fff9c3565b2de5ed9c9]...
+  - (ii) for purposes that include assisting people living in fuel poverty by reducing their energy costs, [^c-8063e11d620b9fff9c3565b2de5ed9c9]...
 - (f) in the case of a disclosure to a licensed electricity supplier, a restriction on charges levied on domestic customers by the supplier which is imposed by the Gas and Electricity Markets Authority—
   - (i) in the exercise of its powers under section 11A(1)(b) of the Electricity Act 1989 (modification of conditions of licences), and
   - (ii) for purposes that include assisting people living in fuel poverty by reducing their energy costs,
-- (g)[^key-ff16998f193595679a0a8ab8b27fbae0] in the case of a disclosure to a licensed gas supplier, a debt relief requirement imposed by the Gas and Electricity Markets Authority—
+- (g)[^c-ff16998f193595679a0a8ab8b27fbae0] in the case of a disclosure to a licensed gas supplier, a debt relief requirement imposed by the Gas and Electricity Markets Authority—
   - (i) in the exercise of its powers under section 23(1)(b) of the Gas Act 1986 or section 1(2)(a) of the Domestic Gas and Electricity (Tariff Cap) Act 2018 (cap on standard variable and default rates), and
   - (ii) for purposes that include assisting people living in fuel poverty by improving their financial well-being, or
 - (h) in the case of a disclosure to a licensed electricity supplier, a debt relief requirement imposed by the Gas and Electricity Markets Authority—
@@ -81,10 +81,10 @@ summary: ''
 
 (11) In this section—
 
-- “[^key-b813f22159d02688ebf350ded5c16fa1]**debt relief requirement**” means a requirement to reduce or cancel sums owed by, or otherwise to assist, domestic customers who—
+- “[^c-b813f22159d02688ebf350ded5c16fa1]**debt relief requirement**” means a requirement to reduce or cancel sums owed by, or otherwise to assist, domestic customers who—
   - (a) in a case within subsection (3)(g), are in debt to the supplier in respect of the supply of gas to them;
   - (b) in a case within subsection (3)(h), are in debt to the supplier in respect of the supply of electricity to them;
-- “domestic customer” means a customer supplied with gas or electricity wholly or mainly for domestic purposes;[^key-10553d0c900b74e9500e218e13ed3a0d]
+- “domestic customer” means a customer supplied with gas or electricity wholly or mainly for domestic purposes;[^c-10553d0c900b74e9500e218e13ed3a0d]
 - “**fuel poverty measure**” means—
   - (a) a scheme, arrangement or set of arrangements, or
   - (b) a function or set of functions,
@@ -95,22 +95,22 @@ summary: ''
 
 ## Annotations
 
-[^key-d003371fc2d8e4df4b245e6878781ebf]: Commencement: S. 36 in force at 1.10.2017 for specified purposes by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/d)
+[^c-d003371fc2d8e4df4b245e6878781ebf]: Commencement: S. 36 in force at 1.10.2017 for specified purposes by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2017/765/regulation/3/d)
 
-[^key-0f765f6ccc871342ef4084d6ecea18ed]: Commencement: S. 36 in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/b)
+[^c-0f765f6ccc871342ef4084d6ecea18ed]: Commencement: S. 36 in force at 1.5.2018 in so far as not already in force by [S.I. 2018/382](https://www.legislation.gov.uk/uksi/2018/382), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2018/382/regulation/3/b)
 
-[^key-714d05f3bcd825736e772d7cfdd22463]: Modification: Pt. 5 Ch. 1: functions made exercisable concurrently (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/940/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))
+[^c-714d05f3bcd825736e772d7cfdd22463]: Modification: Pt. 5 Ch. 1: functions made exercisable concurrently (30.9.2020) by [The Transfer of Functions (Digital Government) Order 2020 (S.I. 2020/940)](https://www.legislation.gov.uk/uksi/2020/940), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/940/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/940/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2020/940/article/5))
 
-[^key-a4a671f8f6bae95304ab1d52681f23f1]: Modification: S. 36(1): transfer of functions (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [7(3)(4)](https://www.legislation.gov.uk/uksi/2023/424/article/7/3/4) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-a4a671f8f6bae95304ab1d52681f23f1]: Modification: S. 36(1): transfer of functions (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [7(3)(4)](https://www.legislation.gov.uk/uksi/2023/424/article/7/3/4) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
 
-[^key-f5ba3d50624469f35e69e6f6816d453a]: Textual amendment: Word in s. 36(3)(c) omitted (19.7.2018) by virtue of [The Digital Government (Disclosure of Information) Regulations 2018 (S.I. 2018/912)](https://www.legislation.gov.uk/uksi/2018/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/912/regulation/3/2/a)
+[^c-f5ba3d50624469f35e69e6f6816d453a]: Textual amendment: Word in s. 36(3)(c) omitted (19.7.2018) by virtue of [The Digital Government (Disclosure of Information) Regulations 2018 (S.I. 2018/912)](https://www.legislation.gov.uk/uksi/2018/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2018/912/regulation/3/2/a)
 
-[^key-ef68def96400c8f9adfd21a93de41f96]: Textual amendment: S. 36(3)(e)(f) inserted (19.7.2018) by [The Digital Government (Disclosure of Information) Regulations 2018 (S.I. 2018/912)](https://www.legislation.gov.uk/uksi/2018/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/912/regulation/3/2/b)
+[^c-ef68def96400c8f9adfd21a93de41f96]: Textual amendment: S. 36(3)(e)(f) inserted (19.7.2018) by [The Digital Government (Disclosure of Information) Regulations 2018 (S.I. 2018/912)](https://www.legislation.gov.uk/uksi/2018/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2018/912/regulation/3/2/b)
 
-[^key-8063e11d620b9fff9c3565b2de5ed9c9]: Textual amendment: Word in s. 36(3)(e) omitted (18.9.2026) by virtue of [The Digital Government (Disclosure of Information) Regulations 2026 (S.I. 2026/1039)](https://www.legislation.gov.uk/uksi/2026/1039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/2/2/a)
+[^c-8063e11d620b9fff9c3565b2de5ed9c9]: Textual amendment: Word in s. 36(3)(e) omitted (18.9.2026) by virtue of [The Digital Government (Disclosure of Information) Regulations 2026 (S.I. 2026/1039)](https://www.legislation.gov.uk/uksi/2026/1039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/2/2/a)
 
-[^key-ff16998f193595679a0a8ab8b27fbae0]: Textual amendment: S. 36(3)(g)(h) inserted (18.9.2026) by [The Digital Government (Disclosure of Information) Regulations 2026 (S.I. 2026/1039)](https://www.legislation.gov.uk/uksi/2026/1039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/2/2/b)
+[^c-ff16998f193595679a0a8ab8b27fbae0]: Textual amendment: S. 36(3)(g)(h) inserted (18.9.2026) by [The Digital Government (Disclosure of Information) Regulations 2026 (S.I. 2026/1039)](https://www.legislation.gov.uk/uksi/2026/1039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/2/2/b)
 
-[^key-b813f22159d02688ebf350ded5c16fa1]: Textual amendment: Words in s. 36(11) inserted (18.9.2026) by [The Digital Government (Disclosure of Information) Regulations 2026 (S.I. 2026/1039)](https://www.legislation.gov.uk/uksi/2026/1039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/2/3)
+[^c-b813f22159d02688ebf350ded5c16fa1]: Textual amendment: Words in s. 36(11) inserted (18.9.2026) by [The Digital Government (Disclosure of Information) Regulations 2026 (S.I. 2026/1039)](https://www.legislation.gov.uk/uksi/2026/1039), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/1039/regulation/2/3)
 
-[^key-10553d0c900b74e9500e218e13ed3a0d]: Textual amendment: Words in s. 36(11) inserted (19.7.2018) by [The Digital Government (Disclosure of Information) Regulations 2018 (S.I. 2018/912)](https://www.legislation.gov.uk/uksi/2018/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/912/regulation/3/3)
+[^c-10553d0c900b74e9500e218e13ed3a0d]: Textual amendment: Words in s. 36(11) inserted (19.7.2018) by [The Digital Government (Disclosure of Information) Regulations 2018 (S.I. 2018/912)](https://www.legislation.gov.uk/uksi/2018/912), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/912/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/912/regulation/3/3)

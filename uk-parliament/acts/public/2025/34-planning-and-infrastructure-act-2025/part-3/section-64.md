@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Draft EDP: notification and consultation[^key-6400b64d4031cad5981b705e66ebad24]
+## 64. Draft EDP: notification and consultation[^c-6400b64d4031cad5981b705e66ebad24]
 
 *Extent: E+W*
 
-(1)[^key-283fe744ef4d8d21166e5263af0b19ca] When Natural England decides to prepare an EDP, it must—
+(1)[^c-283fe744ef4d8d21166e5263af0b19ca] When Natural England decides to prepare an EDP, it must—
 
 - (a) notify the Secretary of State of that decision, and
 - (b) publish the notification given to the Secretary of State.
 
-(2)[^key-312ffc4c63b9aa0592473b55c37f50ac] After preparing a draft EDP, Natural England must publish the draft for public consultation and seek the views of the following—
+(2)[^c-312ffc4c63b9aa0592473b55c37f50ac] After preparing a draft EDP, Natural England must publish the draft for public consultation and seek the views of the following—
 
 - (a) the Environment Agency,
 - (b) the Joint Nature Conservation Committee,
@@ -42,15 +42,15 @@ summary: ''
 - (m) any other public authority Natural England considers should be consulted, and
 - (n) any other public authority specified in regulations made by the Secretary of State.
 
-(3)[^key-312ffc4c63b9aa0592473b55c37f50ac] The Secretary of State may by regulations require a public authority specified in the regulations to respond to the consultation within the consultation period.
+(3)[^c-312ffc4c63b9aa0592473b55c37f50ac] The Secretary of State may by regulations require a public authority specified in the regulations to respond to the consultation within the consultation period.
 
-(4)[^key-312ffc4c63b9aa0592473b55c37f50ac] Natural England need not have regard to any consultation responses received after the end of the consultation period.
+(4)[^c-312ffc4c63b9aa0592473b55c37f50ac] Natural England need not have regard to any consultation responses received after the end of the consultation period.
 
-(5)[^key-312ffc4c63b9aa0592473b55c37f50ac] The consultation period is the period of 28 working days beginning with the day on which the draft EDP is published for consultation, or such longer period as is specified in regulations made by the Secretary of State.
+(5)[^c-312ffc4c63b9aa0592473b55c37f50ac] The consultation period is the period of 28 working days beginning with the day on which the draft EDP is published for consultation, or such longer period as is specified in regulations made by the Secretary of State.
 
-(6)[^key-312ffc4c63b9aa0592473b55c37f50ac] If, after considering the responses to the consultation, Natural England amends the draft EDP, it may (but is not obliged to) reconsult.
+(6)[^c-312ffc4c63b9aa0592473b55c37f50ac] If, after considering the responses to the consultation, Natural England amends the draft EDP, it may (but is not obliged to) reconsult.
 
-(7)[^key-312ffc4c63b9aa0592473b55c37f50ac] In this section—
+(7)[^c-312ffc4c63b9aa0592473b55c37f50ac] In this section—
 
 - “**local highway authority**” has the meaning given by section 329(1) of the Highways Act 1980;
 - “**mayoral combined authority**” has the meaning given by section 107A(8) of the Local Democracy, Economic Development and Construction Act 2009;
@@ -58,12 +58,12 @@ summary: ''
 - “**network**” has the meaning given by section 83(1) of the Railways Act 1993;
 - “**strategic highways company**” has the meaning given by section 329(1) of the Highways Act 1980.
 
-(8)[^key-312ffc4c63b9aa0592473b55c37f50ac] In this section, the references to Wales and Scotland include the waters adjacent to them up to the seaward limits of the territorial sea.
+(8)[^c-312ffc4c63b9aa0592473b55c37f50ac] In this section, the references to Wales and Scotland include the waters adjacent to them up to the seaward limits of the territorial sea.
 
 ## Annotations
 
-[^key-6400b64d4031cad5981b705e66ebad24]: Commencement: S. 64 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
+[^c-6400b64d4031cad5981b705e66ebad24]: Commencement: S. 64 not in force at Royal Assent, see [s. 118(3)](https://www.legislation.gov.uk/ukpga/2025/34/section/118/3)
 
-[^key-283fe744ef4d8d21166e5263af0b19ca]: Commencement: [S. 64(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/64/1) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(f)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/f)
+[^c-283fe744ef4d8d21166e5263af0b19ca]: Commencement: [S. 64(1)](https://www.legislation.gov.uk/ukpga/2025/34/section/64/1) in force at 19.12.2025 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 3(2)(f)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/3/2/f)
 
-[^key-312ffc4c63b9aa0592473b55c37f50ac]: Commencement: [S. 64(2)-(8)](https://www.legislation.gov.uk/ukpga/2025/34/section/64/2) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)
+[^c-312ffc4c63b9aa0592473b55c37f50ac]: Commencement: [S. 64(2)-(8)](https://www.legislation.gov.uk/ukpga/2025/34/section/64/2) in force at 18.2.2026 by [S.I. 2025/1370](https://www.legislation.gov.uk/uksi/2025/1370), [reg. 4(1)(l)](https://www.legislation.gov.uk/uksi/2025/1370/regulation/4/1/l)

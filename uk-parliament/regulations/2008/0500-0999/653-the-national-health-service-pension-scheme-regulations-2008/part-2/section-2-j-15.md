@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.J.15. Benefit information statements[^key-4c89a0b9c0907450b0dc7bb21f68c8e2]
+## 2.J.15. Benefit information statements[^c-4c89a0b9c0907450b0dc7bb21f68c8e2]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c89a0b9c0907450b0dc7bb21f68c8e2]: Textual amendment: [Reg. 2.J.15](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.J.15) added (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2015/95/schedule/2/paragraph/15)
+[^c-4c89a0b9c0907450b0dc7bb21f68c8e2]: Textual amendment: [Reg. 2.J.15](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.J.15) added (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) Regulations 2015 (S.I. 2015/95)](https://www.legislation.gov.uk/uksi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2015/95/regulation/1/b), [Sch. 2 para. 15](https://www.legislation.gov.uk/uksi/2015/95/schedule/2/paragraph/15)

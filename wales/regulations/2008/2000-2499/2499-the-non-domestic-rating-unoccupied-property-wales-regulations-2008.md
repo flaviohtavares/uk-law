@@ -47,13 +47,13 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred on the Secretary of State by sections 45(1)(d), (9) and (10), 143(2) and 146(6) of the Local Government Finance Act 1988[^f00001] and now vested in them[^f00002], make the following Regulations:
 
-## 1. Title, application and commencement[^key-4eeba1d4cc87bef966ec2cf37155c32e]
+## 1. Title, application and commencement[^c-4eeba1d4cc87bef966ec2cf37155c32e]
 
 (1) The title of these Regulations is The Non-Domestic Rating (Unoccupied Property) (Wales) Regulations 2008 and they come into force on 1 November 2008.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-ad9994bd19f53607a0de02a0f19d4604]
+## 2. Interpretation[^c-ad9994bd19f53607a0de02a0f19d4604]
 
 In these Regulations—
 
@@ -70,11 +70,11 @@ In these Regulations—
   - (a) goods, or
   - (b) services, other than storage for distribution services, where the services are to be provided on or from the hereditament.
 
-## 3. Hereditaments prescribed for the purposes of section 45(1)(d) of the Act[^key-657cc439eeab3bc3389e65e03011331e]
+## 3. Hereditaments prescribed for the purposes of section 45(1)(d) of the Act[^c-657cc439eeab3bc3389e65e03011331e]
 
 The class of non-domestic hereditaments prescribed for the purposes of section 45(1)(d) of the Act consists of all relevant non-domestic hereditaments other than those described in regulation 4.
 
-## 4. Hereditaments not prescribed for the purposes of section 45(1)(d) of the Act[^key-46fd344633213bc20494a227e79f541c]
+## 4. Hereditaments not prescribed for the purposes of section 45(1)(d) of the Act[^c-46fd344633213bc20494a227e79f541c]
 
 The relevant non-domestic hereditaments described in this regulation are any hereditament—
 
@@ -92,18 +92,18 @@ The relevant non-domestic hereditaments described in this regulation are any her
 - (l) whose owner is a company in administration within the meaning of paragraph 1 of Schedule B1 to the Insolvency Act 1986 or is subject to an administration order made under the former administration provisions within the meaning of article 3 of the Enterprise Act 2002 (Commencement No. 4 and Transitional Provisions and Savings) Order 2003[^f00007];
 - (m) whose owner is entitled to possession in his or her capacity as liquidator by virtue of an order made under section 112 or section 145 of the Insolvency Act 1986.
 
-## 5. Continuous occupation[^key-1e74fbe636d09047e06228191443041e]
+## 5. Continuous occupation[^c-1e74fbe636d09047e06228191443041e]
 
 A hereditament which has been unoccupied and becomes occupied on any day is to be treated as having been continuously unoccupied for the purposes of regulation 4(a) and (b) if it becomes unoccupied again on the expiration of a period of less than six weeks beginning with that day.
 
-## 6. Hereditaments not previously occupied[^key-a1d1a078640d1b34fb22ee21fc812c84]
+## 6. Hereditaments not previously occupied[^c-a1d1a078640d1b34fb22ee21fc812c84]
 
 For the purposes of regulation 4(a) and (b), a hereditament which has not previously been occupied is to be treated as becoming unoccupied—
 
 - (a) on the day determined under paragraph 8 of Schedule 1 to the General Rate Act 1967[^f00008], or on the day determined under Schedule 4A to the Act[^f00009], whichever day first occurs; or
 - (b) where paragraph (a) does not apply, on the day for which the hereditament is first shown in a local rating list.
 
-## 7. Revocation and saving[^key-f40e6a981e6c1db9ba204ec598921e83]
+## 7. Revocation and saving[^c-f40e6a981e6c1db9ba204ec598921e83]
 
 (1) Subject to paragraph (2), the Non-Domestic Rating (Unoccupied Property) Regulations 1989[^f00010] are revoked in their application to Wales.
 
@@ -137,13 +137,13 @@ A regulatory impact assessment has been prepared in connection with these Regula
 
 [^f00002]: Footnote: The functions of the Secretary of State contained in the Local Government Finance Act 1988 in relation to Wales were transferred to the National Assembly for Wales by virtue of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672), article 2, Schedule 1). The functions of the National Assembly for Wales were vested in the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-4eeba1d4cc87bef966ec2cf37155c32e]: Commencement: Reg. 1 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-4eeba1d4cc87bef966ec2cf37155c32e]: Commencement: Reg. 1 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
-[^key-ad9994bd19f53607a0de02a0f19d4604]: Commencement: Reg. 2 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-ad9994bd19f53607a0de02a0f19d4604]: Commencement: Reg. 2 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
-[^key-657cc439eeab3bc3389e65e03011331e]: Commencement: Reg. 3 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-657cc439eeab3bc3389e65e03011331e]: Commencement: Reg. 3 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
-[^key-46fd344633213bc20494a227e79f541c]: Commencement: Reg. 4 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-46fd344633213bc20494a227e79f541c]: Commencement: Reg. 4 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
 [^f00003]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9). “Building preservation notice” is defined in section 91(1).
 
@@ -155,14 +155,14 @@ A regulatory impact assessment has been prepared in connection with these Regula
 
 [^f00007]: Footnote: [S.I. 2003/2093 (C.85)](https://www.legislation.gov.uk/uksi/2003/2093), to which there are amendments not relevant to these Regulations.
 
-[^key-1e74fbe636d09047e06228191443041e]: Commencement: Reg. 5 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-1e74fbe636d09047e06228191443041e]: Commencement: Reg. 5 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
-[^key-a1d1a078640d1b34fb22ee21fc812c84]: Commencement: Reg. 6 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-a1d1a078640d1b34fb22ee21fc812c84]: Commencement: Reg. 6 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
 [^f00008]: Footnote: [1967 c. 9](https://www.legislation.gov.uk/ukpga/1967/9).
 
 [^f00009]: Footnote: Schedule 4A was inserted by paragraph 36 of Schedule 5 to the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42).
 
-[^key-f40e6a981e6c1db9ba204ec598921e83]: Commencement: Reg. 7 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
+[^c-f40e6a981e6c1db9ba204ec598921e83]: Commencement: Reg. 7 in force at 1.11.2008, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2008/2499/regulation/1/1)
 
 [^f00010]: Footnote: [S.I. 1989/2261](https://www.legislation.gov.uk/uksi/1989/2261) which was revoked in its application to England by [S.I. 2008/386](https://www.legislation.gov.uk/uksi/2008/386).

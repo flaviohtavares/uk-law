@@ -32,7 +32,7 @@ DE means the total amount of any deductions allowed from those earnings under pr
 
 (2) If the amount calculated under subsection (1) is negative, the net taxable earnings from the employment in the year are to be taken to be nil instead.
 
-(3) Relief may be available under section 128 of ITA 2007[^key-4aa98e77d248e609fe0159ce77c926ca] (set-off against general income)—
+(3) Relief may be available under section 128 of ITA 2007[^c-4aa98e77d248e609fe0159ce77c926ca] (set-off against general income)—
 
 - (a) where TE is negative, or
 - (b) in certain exceptional cases where the amount calculated under subsection (1) is negative.
@@ -41,4 +41,4 @@ DE means the total amount of any deductions allowed from those earnings under pr
 
 ## Annotations
 
-[^key-4aa98e77d248e609fe0159ce77c926ca]: Textual amendment: Words in s. 11(3) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 427](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/427) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-4aa98e77d248e609fe0159ce77c926ca]: Textual amendment: Words in s. 11(3) substituted (6.4.2007) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 427](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/427) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

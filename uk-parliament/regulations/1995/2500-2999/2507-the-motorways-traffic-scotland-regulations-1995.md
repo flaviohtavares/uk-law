@@ -44,9 +44,9 @@ Coming into force
 
 23rd October 1995
 
-The Secretary of State, in exercise of the powers conferred on him by section 17(2) and (3) of the Road Traffic Regulation Act 1984[^f00001], and all other powers enabling him in that behalf, and after consultation with such representative organisations as he thought fit in accordance with section 134(2) of that Act[^f00002], hereby makes the following Regulations:[^key-d1d18fb5b6cd0da4e696b7ce368af5dc]
+The Secretary of State, in exercise of the powers conferred on him by section 17(2) and (3) of the Road Traffic Regulation Act 1984[^f00001], and all other powers enabling him in that behalf, and after consultation with such representative organisations as he thought fit in accordance with section 134(2) of that Act[^f00002], hereby makes the following Regulations:[^c-d1d18fb5b6cd0da4e696b7ce368af5dc]
 
-## 1. Citation, commencement, extent and revocation[^key-1066bb75d2416012c0ac710a4aeecf78]
+## 1. Citation, commencement, extent and revocation[^c-1066bb75d2416012c0ac710a4aeecf78]
 
 (1) These Regulations may be cited as the Motorways Traffic (Scotland) Regulations 1995 and shall come into force on 23rd October 1995.
 
@@ -54,7 +54,7 @@ The Secretary of State, in exercise of the powers conferred on him by section 17
 
 (3) The Motorways Traffic (Scotland) Regulations 1964[^f00003] and the Motorways Traffic (Scotland) (Amendment) Regulations 1968[^f00004] are hereby revoked.
 
-## 2. Interpretation[^key-e2dcf8969d64165e4eaa7be2e240f9fa]
+## 2. Interpretation[^c-e2dcf8969d64165e4eaa7be2e240f9fa]
 
 (1) In these Regulations—
 
@@ -75,15 +75,15 @@ The Secretary of State, in exercise of the powers conferred on him by section 17
 
 (4) In these Regulations references to numbered classes of traffic are references to the classes of traffic set out in Schedule 3 to the Roads (Scotland) Act 1984[^f00007].
 
-## 3. Application[^key-4475400b45a8b4e3a3456f3fb4c7b1d5]
+## 3. Application[^c-4475400b45a8b4e3a3456f3fb4c7b1d5]
 
-Subject to section 17(5)[^f00008] of the 1984 Act, these Regulations apply to every special road or part of a special road which can be used only by traffic of Classes I or II , except those special roads described in the Schedule to these Regulations[^key-e570fb689222a5586d57158d8cc680d1].
+Subject to section 17(5)[^f00008] of the 1984 Act, these Regulations apply to every special road or part of a special road which can be used only by traffic of Classes I or II , except those special roads described in the Schedule to these Regulations[^c-e570fb689222a5586d57158d8cc680d1].
 
-## 4. Vehicles to be driven on the carriageway only[^key-c0bafcd36abbd12041c2913d61da01c7]
+## 4. Vehicles to be driven on the carriageway only[^c-c0bafcd36abbd12041c2913d61da01c7]
 
 Subject to the following provisions of these Regulations, no vehicle shall be driven on any part of the motorway which is not a carriageway.
 
-## 5. Direction of driving[^key-4d32305fbf7714097627301d5f5ee687]
+## 5. Direction of driving[^c-4d32305fbf7714097627301d5f5ee687]
 
 (1) Where there is a traffic sign indicating that there is no entry to a carriageway at a particular place, no vehicle shall be driven or moved on to that carriageway at that place.
 
@@ -100,7 +100,7 @@ Subject to the following provisions of these Regulations, no vehicle shall be dr
 
 shall be driven or moved so as to cause it to turn and proceed in or face the opposite direction.
 
-## 6. Restriction on stopping[^key-28c4fb001426dce5a9c539c7c7b371d2]
+## 6. Restriction on stopping[^c-28c4fb001426dce5a9c539c7c7b371d2]
 
 (1) Subject to the following provisions of this regulation, no vehicle shall stop or remain at rest on the carriageway.
 
@@ -120,19 +120,19 @@ the vehicle shall, as soon and insofar as is reasonably practicable and safe, be
 
 (4) Nothing in the foregoing provisions of this regulation shall preclude a vehicle from stopping or remaining at rest on a carriageway while it is prevented from proceeding along the carriageway by the presence of any other vehicle or any person or object.
 
-## 7. Restriction on reversing[^key-c8ad738c8646fd8c48792fd7e6111ea1]
+## 7. Restriction on reversing[^c-c8ad738c8646fd8c48792fd7e6111ea1]
 
 No vehicle on a motorway shall be driven or moved backwards except insofar as it is necessary to back the vehicle to enable it to proceed forwards or to be connected to any other vehicle.
 
-## 8. Restriction on the use of hard shoulders or emergency laybys[^key-590a5df11cfe611a61d7216f7f30c8e7]
+## 8. Restriction on the use of hard shoulders or emergency laybys[^c-590a5df11cfe611a61d7216f7f30c8e7]
 
 No vehicle shall be driven or moved or stopped or remain at rest on any hard shoulder or in an emergency layby except in accordance with paragraphs (2) and (3) of regulation 6 above.
 
-## 9. Vehicles not to use the central reservation or verge[^key-c8d18e6a34b65fd3dc7f8a52c5e2bb0f]
+## 9. Vehicles not to use the central reservation or verge[^c-c8d18e6a34b65fd3dc7f8a52c5e2bb0f]
 
 No vehicle shall be driven or moved or stopped or remain at rest on a central reservation or verge.
 
-## 10. Vehicles not to be driven by learner drivers[^key-5e76f1c3c99952ea038520eceaf611d6]
+## 10. Vehicles not to be driven by learner drivers[^c-5e76f1c3c99952ea038520eceaf611d6]
 
 (1) No motor vehicle shall be driven on a motorway by a person who is authorised to drive that vehicle only by virtue of his being a holder of a provisional licence under section 97(2) of the Road Traffic Act 1988[^f00009], unless since the date of coming into force of the said provisional licence that person has passed a test prescribed under section 89 of that Act[^f00010] sufficient to entitle him under that Act to be granted a licence, other than a provisional licence, authorising him to drive that vehicle on a road.
 
@@ -140,16 +140,16 @@ No vehicle shall be driven or moved or stopped or remain at rest on a central re
 
 (3) In this regulation, “large goods vehicle” and “passenger-carrying vehicle” have the meanings given by section 121[^f00011] of the Road Traffic Act 1988.
 
-## 11. Restriction on use of right-hand lane[^key-c51d728edf3dff870cdaa1f616015867]
+## 11. Restriction on use of right-hand lane[^c-c51d728edf3dff870cdaa1f616015867]
 
 (1) This regulation applies to—
 
 - (a) a goods vehicle having a maximum laden weight exceeding 7.5 tonnes,
-- (aa)[^key-dafa90d03f80cc58b827767d1a467fa4] a goods vehicle—
+- (aa)[^c-dafa90d03f80cc58b827767d1a467fa4] a goods vehicle—
   - (i) having a maximum laden weight exceeding 3.5 tonnes but not exceeding 7.5 tonnes, and
   - (ii) to which regulation 36B of the Road Vehicles (Construction and Use) Regulations 1986 applies or would apply but for paragraph (14)(a) or (b) of that regulation;
-- (b)[^key-bf5c697df7df6db0dc177da4aba58d16] a passenger vehicle which is constructed or adapted to carry more than eight seated passengers in addition to the driver, the maximum laden weight of which exceeds 7.5 tonnes;
-- (bb)[^key-bd077d87f333163049826a7a9688bb9c] a passenger vehicle—
+- (b)[^c-bf5c697df7df6db0dc177da4aba58d16] a passenger vehicle which is constructed or adapted to carry more than eight seated passengers in addition to the driver, the maximum laden weight of which exceeds 7.5 tonnes;
+- (bb)[^c-bd077d87f333163049826a7a9688bb9c] a passenger vehicle—
   - (i) which is constructed or adapted to carry more than eight seated passengers in addition to the driver, the maximum laden weight of which does not exceed 7.5 tonnes, and
   - (ii) to which regulation 36A of the Road Vehicles (Construction and Use) Regulations 1986 (Speed limiters) applies or would apply but for paragraph (13)(a) or (b) of that regulation;
 - (c) a motor vehicle drawing a trailer; and
@@ -164,9 +164,9 @@ No vehicle shall be driven or moved or stopped or remain at rest on a central re
 
 (4) Nothing in this regulation shall have effect so as to require a vehicle to change lane during a period when it would not be reasonably practicable for it to do so without involving danger or injury to any person or inconvenience to other traffic.
 
-(5)[^key-ec4c18d191067903c6bf1bedc53d8bcf] In this regulation “goods vehicle”, “passenger vehicle” and “maximum laden weight” have the same meanings as in Schedule 6 to the 1984 Act.
+(5)[^c-ec4c18d191067903c6bf1bedc53d8bcf] In this regulation “goods vehicle”, “passenger vehicle” and “maximum laden weight” have the same meanings as in Schedule 6 to the 1984 Act.
 
-## 12. Restrictions affecting animals carried in vehicles[^key-436cb5c5e009e6b7bc243c9a07141742]
+## 12. Restrictions affecting animals carried in vehicles[^c-436cb5c5e009e6b7bc243c9a07141742]
 
 The person in charge of any animal which is carried by a vehicle using a motorway shall, so far as is practicable, secure that—
 
@@ -175,7 +175,7 @@ The person in charge of any animal which is carried by a vehicle using a motorwa
   - (i) it shall not go or remain on any part of the motorway other than a hard shoulder, an emergency layby or a verge; and
   - (ii) it shall whilst it is not on, or in, the vehicle be held on a lead or otherwise kept under proper control.
 
-## 13. Use of motorway by excluded traffic[^key-29b2ed0eba3ac64e9a46139b43839308]
+## 13. Use of motorway by excluded traffic[^c-29b2ed0eba3ac64e9a46139b43839308]
 
 (1) Excluded traffic is hereby authorised to use a motorway on the occasions, or in the emergencies, and to the extent, specified in the following provisions of this paragraph, that is to say—
 
@@ -191,16 +191,16 @@ The person in charge of any animal which is carried by a vehicle using a motorwa
 - (a) authorise any excluded traffic to use that motorway, or that part of a motorway, as an alternative road for the period during which the use of the other road by such traffic continues to be impossible or unsuitable, and
 - (b) relax any prohibition or restriction imposed by these Regulations insofar as he considers it necessary to do so in connection with the use of that motorway or that part of a motorway by excluded traffic in pursuance of any such authorisation as aforesaid.
 
-## 14. Exceptions and relaxations[^key-d64cd4ce2db95cf25b421cec0a91d10d]
+## 14. Exceptions and relaxations[^c-d64cd4ce2db95cf25b421cec0a91d10d]
 
 (1) Nothing in the foregoing provisions of these Regulations shall preclude any person from using a motorway otherwise than in accordance with those provisions in any of the following circumstances, that it to say—
 
 - (a) where he does so in accordance with any direction or permission given by a constable in uniform or in accordance with the indication given by a traffic sign;
 - (b) where in accordance with any permission given by a constable, he does so for the purpose of investigating any accident which has occurred on or near a motorway;
 - (c) where it is necessary for him to do so to avoid or prevent an accident or to obtain or give help required as a result of an accident or emergency, and he does so in such manner as to cause as little danger or inconvenience as possible to other traffic on a motorway;
-- (d) where he does so in the exercise of his duty as a constable or as a member of [^key-a915d22f884812b7b22deedce4e3844a]... an ambulance service or as an employee of a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) employed for the purposes of that authority[^key-02151a68366117cf830196ec3f7bb601];
-- (da)[^key-52ecc0deef23d575cf9246ad1c83e580] so far as relating to the functions of the Serious Organised Crime Agency which are exercisable in or as regards Scotland and which relate to reserved matters (within the meaning of the Scotland Act 1998), where he does so as a member of the Serious Organised Crime Agency for the purposes of that Agency;
-- (db)[^key-a6b73dd22d444e17bfe427f4d053b1b8] so far as relating to the functions of the Serious Organised Crime Agency which are exercisable in or as regards Scotland and which do not (within the meaning of the Scotland Act 1998) relate to reserved matters, where that person does so as a member of the Serious Organised Crime Agency for the purposes of that Agency;
+- (d) where he does so in the exercise of his duty as a constable or as a member of [^c-a915d22f884812b7b22deedce4e3844a]... an ambulance service or as an employee of a relevant authority (as defined in section 6 of the Fire (Scotland) Act 2005 (asp 5)) employed for the purposes of that authority[^c-02151a68366117cf830196ec3f7bb601];
+- (da)[^c-52ecc0deef23d575cf9246ad1c83e580] so far as relating to the functions of the Serious Organised Crime Agency which are exercisable in or as regards Scotland and which relate to reserved matters (within the meaning of the Scotland Act 1998), where he does so as a member of the Serious Organised Crime Agency for the purposes of that Agency;
+- (db)[^c-a6b73dd22d444e17bfe427f4d053b1b8] so far as relating to the functions of the Serious Organised Crime Agency which are exercisable in or as regards Scotland and which do not (within the meaning of the Scotland Act 1998) relate to reserved matters, where that person does so as a member of the Serious Organised Crime Agency for the purposes of that Agency;
 - (e) where it is necessary for him to do so to carry out in an efficient manner—
   - (i) the maintenance, repair, cleaning, clearance, alteration or improvement of any part of the motorway, or
   - (ii) the removal of any vehicle from any part of a motorway, or
@@ -219,7 +219,7 @@ Edinburgh
 
 19th September 1995
 
-## SCHEDULE — SPECIAL ROADS EXCEPTED FROM THE APPLICATION OF THESE REGULATIONS[^key-cf863689515384171c3555addb19412c]
+## SCHEDULE — SPECIAL ROADS EXCEPTED FROM THE APPLICATION OF THESE REGULATIONS[^c-cf863689515384171c3555addb19412c]
 
 Regulation 3
 
@@ -227,7 +227,7 @@ Regulation 3
 
 **2.** The special road authorised to be provided by the Edinburgh-Berwick upon Tweed Trunk Road (A1) Old Craighall Roundabout to East of Haddington Special Road Scheme (No.2) 1994[^f00005].
 
-**3.**[^key-54c3bf4c275c3819a482167ecd88f40f] The special road authorised to be provided by the A1 Trunk Road (East of Haddington to Dunbar) Special Road Scheme 2000.
+**3.**[^c-54c3bf4c275c3819a482167ecd88f40f] The special road authorised to be provided by the A1 Trunk Road (East of Haddington to Dunbar) Special Road Scheme 2000.
 
 (This note is not part of the Regulations)
 
@@ -265,15 +265,15 @@ The principal changes from the previous Regulations are:
 
 [^f00002]: Footnote: Section 134(2) was amended by the Roads (Scotland) Act [1984 (c. 54)](https://www.legislation.gov.uk/ukpga/1984/54), Schedule 7, paragraph 4 and by the 1991 Act, Schedule 8, paragraph 77.
 
-[^key-d1d18fb5b6cd0da4e696b7ce368af5dc]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/2507) excluded (1.3.1998) by [The Traffic Signs (Temporary Obstructions) Regulations 1997 (S.I. 1997/3053)](https://www.legislation.gov.uk/uksi/1997/3053), [regs. 1](https://www.legislation.gov.uk/uksi/1997/3053/regulation/1), [18](https://www.legislation.gov.uk/uksi/1997/3053/regulation/18) (with [reg. 17](https://www.legislation.gov.uk/uksi/1997/3053/regulation/17))
+[^c-d1d18fb5b6cd0da4e696b7ce368af5dc]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1995/2507) excluded (1.3.1998) by [The Traffic Signs (Temporary Obstructions) Regulations 1997 (S.I. 1997/3053)](https://www.legislation.gov.uk/uksi/1997/3053), [regs. 1](https://www.legislation.gov.uk/uksi/1997/3053/regulation/1), [18](https://www.legislation.gov.uk/uksi/1997/3053/regulation/18) (with [reg. 17](https://www.legislation.gov.uk/uksi/1997/3053/regulation/17))
 
-[^key-1066bb75d2416012c0ac710a4aeecf78]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-1066bb75d2416012c0ac710a4aeecf78]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
 [^f00003]: Footnote: [S.I. 1964/1002](https://www.legislation.gov.uk/uksi/1964/1002), amended by [S.I. 1968/960](https://www.legislation.gov.uk/uksi/1968/960).
 
 [^f00004]: Footnote: [S.I. 1968/960](https://www.legislation.gov.uk/uksi/1968/960).
 
-[^key-e2dcf8969d64165e4eaa7be2e240f9fa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/2507/regulation/2) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-e2dcf8969d64165e4eaa7be2e240f9fa]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1995/2507/regulation/2) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 1994/1519](https://www.legislation.gov.uk/uksi/1994/1519).
 
@@ -281,25 +281,25 @@ The principal changes from the previous Regulations are:
 
 [^f00007]: Footnote: [1984 c. 54](https://www.legislation.gov.uk/ukpga/1984/54).
 
-[^key-4475400b45a8b4e3a3456f3fb4c7b1d5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/2507/regulation/3) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-4475400b45a8b4e3a3456f3fb4c7b1d5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1995/2507/regulation/3) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
 [^f00008]: Footnote: Section 17(5) was substituted by the 1991 Act, Schedule 8, paragraph 28(4).
 
-[^key-e570fb689222a5586d57158d8cc680d1]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1995/2507/regulation/3) inserted (15.11.1996) by [The Motorways Traffic (Scotland) Amendment Regulations 1996 (S.I. 1996/2664)](https://www.legislation.gov.uk/uksi/1996/2664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/2664/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1996/2664/regulation/3/a)
+[^c-e570fb689222a5586d57158d8cc680d1]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1995/2507/regulation/3) inserted (15.11.1996) by [The Motorways Traffic (Scotland) Amendment Regulations 1996 (S.I. 1996/2664)](https://www.legislation.gov.uk/uksi/1996/2664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/2664/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/1996/2664/regulation/3/a)
 
-[^key-c0bafcd36abbd12041c2913d61da01c7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/2507/regulation/4) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-c0bafcd36abbd12041c2913d61da01c7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1995/2507/regulation/4) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
-[^key-4d32305fbf7714097627301d5f5ee687]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/2507/regulation/5) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-4d32305fbf7714097627301d5f5ee687]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1995/2507/regulation/5) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
-[^key-28c4fb001426dce5a9c539c7c7b371d2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/2507/regulation/6) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-28c4fb001426dce5a9c539c7c7b371d2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1995/2507/regulation/6) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
-[^key-c8ad738c8646fd8c48792fd7e6111ea1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/2507/regulation/7) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-c8ad738c8646fd8c48792fd7e6111ea1]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/1995/2507/regulation/7) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
-[^key-590a5df11cfe611a61d7216f7f30c8e7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1995/2507/regulation/8) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-590a5df11cfe611a61d7216f7f30c8e7]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1995/2507/regulation/8) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
-[^key-c8d18e6a34b65fd3dc7f8a52c5e2bb0f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1995/2507/regulation/9) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-c8d18e6a34b65fd3dc7f8a52c5e2bb0f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1995/2507/regulation/9) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
-[^key-5e76f1c3c99952ea038520eceaf611d6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1995/2507/regulation/10) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-5e76f1c3c99952ea038520eceaf611d6]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1995/2507/regulation/10) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
 [^f00009]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
@@ -307,30 +307,30 @@ The principal changes from the previous Regulations are:
 
 [^f00011]: Footnote: Part IV which includes section 121 was substituted by the Road Traffic (Driver Licensing and Information Systems) Act 1989, Schedule 2.
 
-[^key-c51d728edf3dff870cdaa1f616015867]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-c51d728edf3dff870cdaa1f616015867]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
-[^key-dafa90d03f80cc58b827767d1a467fa4]: Textual amendment: [Reg. 11(1)(aa)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11/1/aa) inserted (1.1.2005) by [The Motorways Traffic (Scotland) (Amendment) (No.2) Regulations 2004 (S.I. 2004/3261)](https://www.legislation.gov.uk/uksi/2004/3261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3261/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2004/3261/regulation/3/2/a)
+[^c-dafa90d03f80cc58b827767d1a467fa4]: Textual amendment: [Reg. 11(1)(aa)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11/1/aa) inserted (1.1.2005) by [The Motorways Traffic (Scotland) (Amendment) (No.2) Regulations 2004 (S.I. 2004/3261)](https://www.legislation.gov.uk/uksi/2004/3261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3261/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2004/3261/regulation/3/2/a)
 
-[^key-bf5c697df7df6db0dc177da4aba58d16]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11/1/b) substituted (1.1.1996) by [The Motorways Traffic (Scotland) Amendment Regulations 1995 (S.I. 1995/3070)](https://www.legislation.gov.uk/uksi/1995/3070), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/3070/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1995/3070/regulation/2/1/a)
+[^c-bf5c697df7df6db0dc177da4aba58d16]: Textual amendment: [Reg. 11(1)(b)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11/1/b) substituted (1.1.1996) by [The Motorways Traffic (Scotland) Amendment Regulations 1995 (S.I. 1995/3070)](https://www.legislation.gov.uk/uksi/1995/3070), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/3070/regulation/1/1), [2(1)(a)](https://www.legislation.gov.uk/uksi/1995/3070/regulation/2/1/a)
 
-[^key-bd077d87f333163049826a7a9688bb9c]: Textual amendment: [Reg. 11(1)(bb)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11/1/bb) inserted (1.1.2005) by [The Motorways Traffic (Scotland) (Amendment) (No.2) Regulations 2004 (S.I. 2004/3261)](https://www.legislation.gov.uk/uksi/2004/3261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3261/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2004/3261/regulation/3/2/b)
+[^c-bd077d87f333163049826a7a9688bb9c]: Textual amendment: [Reg. 11(1)(bb)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11/1/bb) inserted (1.1.2005) by [The Motorways Traffic (Scotland) (Amendment) (No.2) Regulations 2004 (S.I. 2004/3261)](https://www.legislation.gov.uk/uksi/2004/3261), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/3261/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2004/3261/regulation/3/2/b)
 
-[^key-ec4c18d191067903c6bf1bedc53d8bcf]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11/5) substituted (1.1.1996) by [The Motorways Traffic (Scotland) Amendment Regulations 1995 (S.I. 1995/3070)](https://www.legislation.gov.uk/uksi/1995/3070), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/3070/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/3070/regulation/2/2)
+[^c-ec4c18d191067903c6bf1bedc53d8bcf]: Textual amendment: [Reg. 11(5)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/11/5) substituted (1.1.1996) by [The Motorways Traffic (Scotland) Amendment Regulations 1995 (S.I. 1995/3070)](https://www.legislation.gov.uk/uksi/1995/3070), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1995/3070/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/1995/3070/regulation/2/2)
 
-[^key-436cb5c5e009e6b7bc243c9a07141742]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1995/2507/regulation/12) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-436cb5c5e009e6b7bc243c9a07141742]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1995/2507/regulation/12) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
-[^key-29b2ed0eba3ac64e9a46139b43839308]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1995/2507/regulation/13) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-29b2ed0eba3ac64e9a46139b43839308]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/1995/2507/regulation/13) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
-[^key-d64cd4ce2db95cf25b421cec0a91d10d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
+[^c-d64cd4ce2db95cf25b421cec0a91d10d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14) in force at 23.10.1995, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/1/1)
 
-[^key-a915d22f884812b7b22deedce4e3844a]: Textual amendment: Words in [reg. 14(1)(d)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14/1/d) revoked (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) (No. 2) Order 2005 (S.S.I. 2005/344)](https://www.legislation.gov.uk/ssi/2005/344), [art. 1](https://www.legislation.gov.uk/ssi/2005/344/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/344/schedule/2); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
+[^c-a915d22f884812b7b22deedce4e3844a]: Textual amendment: Words in [reg. 14(1)(d)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14/1/d) revoked (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) (No. 2) Order 2005 (S.S.I. 2005/344)](https://www.legislation.gov.uk/ssi/2005/344), [art. 1](https://www.legislation.gov.uk/ssi/2005/344/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/344/schedule/2); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
 
-[^key-02151a68366117cf830196ec3f7bb601]: Textual amendment: Words in [reg. 14(1)(d)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14/1/d) inserted (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) (No. 2) Order 2005 (S.S.I. 2005/344)](https://www.legislation.gov.uk/ssi/2005/344), [art. 1](https://www.legislation.gov.uk/ssi/2005/344/article/1), [sch. 1 para. 17](https://www.legislation.gov.uk/ssi/2005/344/schedule/1/paragraph/17); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
+[^c-02151a68366117cf830196ec3f7bb601]: Textual amendment: Words in [reg. 14(1)(d)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14/1/d) inserted (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) (No. 2) Order 2005 (S.S.I. 2005/344)](https://www.legislation.gov.uk/ssi/2005/344), [art. 1](https://www.legislation.gov.uk/ssi/2005/344/article/1), [sch. 1 para. 17](https://www.legislation.gov.uk/ssi/2005/344/schedule/1/paragraph/17); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2](https://www.legislation.gov.uk/ssi/2005/392/article/2)
 
-[^key-52ecc0deef23d575cf9246ad1c83e580]: Textual amendment: [Reg. 14(1)(da)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14/1/da) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/11)
+[^c-52ecc0deef23d575cf9246ad1c83e580]: Textual amendment: [Reg. 14(1)(da)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14/1/da) inserted (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments to Secondary Legislation) Order 2006 (S.I. 2006/594)](https://www.legislation.gov.uk/uksi/2006/594), [art. 1](https://www.legislation.gov.uk/uksi/2006/594/article/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2006/594/schedule/paragraph/11)
 
-[^key-a6b73dd22d444e17bfe427f4d053b1b8]: Textual amendment: [Reg. 14(1)(db)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14/1/db) inserted (S.) (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments) (Scotland) Order 2006 (S.S.I. 2006/129)](https://www.legislation.gov.uk/ssi/2006/129), [art. 1](https://www.legislation.gov.uk/ssi/2006/129/article/1), [sch. para. 4](https://www.legislation.gov.uk/ssi/2006/129/schedule/paragraph/4)
+[^c-a6b73dd22d444e17bfe427f4d053b1b8]: Textual amendment: [Reg. 14(1)(db)](https://www.legislation.gov.uk/uksi/1995/2507/regulation/14/1/db) inserted (S.) (1.4.2006) by [The Serious Organised Crime and Police Act 2005 (Consequential and Supplementary Amendments) (Scotland) Order 2006 (S.S.I. 2006/129)](https://www.legislation.gov.uk/ssi/2006/129), [art. 1](https://www.legislation.gov.uk/ssi/2006/129/article/1), [sch. para. 4](https://www.legislation.gov.uk/ssi/2006/129/schedule/paragraph/4)
 
-[^key-cf863689515384171c3555addb19412c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1995/2507/schedule) inserted (15.11.1996) by [The Motorways Traffic (Scotland) Amendment Regulations 1996 (S.I. 1996/2664)](https://www.legislation.gov.uk/uksi/1996/2664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/2664/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1996/2664/regulation/3/b)
+[^c-cf863689515384171c3555addb19412c]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/1995/2507/schedule) inserted (15.11.1996) by [The Motorways Traffic (Scotland) Amendment Regulations 1996 (S.I. 1996/2664)](https://www.legislation.gov.uk/uksi/1996/2664), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1996/2664/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/1996/2664/regulation/3/b)
 
-[^key-54c3bf4c275c3819a482167ecd88f40f]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1995/2507/schedule/paragraph/3) inserted (coming into force in accordance with reg. 1(1) of the amending S.S.I.) by [The Motorways Traffic (Scotland) Amendment Regulations 2004 (S.S.I. 2004/53)](https://www.legislation.gov.uk/ssi/2004/53), [reg. 3](https://www.legislation.gov.uk/ssi/2004/53/regulation/3)
+[^c-54c3bf4c275c3819a482167ecd88f40f]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/uksi/1995/2507/schedule/paragraph/3) inserted (coming into force in accordance with reg. 1(1) of the amending S.S.I.) by [The Motorways Traffic (Scotland) Amendment Regulations 2004 (S.S.I. 2004/53)](https://www.legislation.gov.uk/ssi/2004/53), [reg. 3](https://www.legislation.gov.uk/ssi/2004/53/regulation/3)

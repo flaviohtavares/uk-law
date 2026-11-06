@@ -52,13 +52,13 @@ As required by Article 9 of Regulation 178/2002, there has been open and transpa
 
 As required by Article 144(7) of the Official Controls Regulations, the Secretary of State has consulted with such bodies or persons as appear appropriate.
 
-## 1. Citation, commencement, extent and application[^key-16a4e8d7ad64adb04a90792c78c2b475]
+## 1. Citation, commencement, extent and application[^c-16a4e8d7ad64adb04a90792c78c2b475]
 
 (1) These Regulations may be cited as the Official Controls (Imports of High Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (England) Regulations 2022 and come into force on 17th January 2023.
 
 (2) These Regulations extend to England and Wales but apply in relation to England only.
 
-## 2. Amendment of Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures, etc[^key-342a9d1fcf6442d884d3df4c39c99cd6]
+## 2. Amendment of Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures, etc[^c-342a9d1fcf6442d884d3df4c39c99cd6]
 
 (1) Commission Implementing Regulation (EU) 2019/1793 on the temporary increase of official controls and emergency measures governing the entry into the Union of certain goods from certain third countries implementing Regulations (EU) 2017/625 and [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council and repealing Commission Regulations [(EC) No 669/2009](https://www.legislation.gov.uk/european/regulation/2009/0669), [(EU) No 884/2014](https://www.legislation.gov.uk/european/regulation/2014/0884), [(EU) 2015/175](https://www.legislation.gov.uk/european/regulation/2015/0175), [(EU) 2017/186](https://www.legislation.gov.uk/european/regulation/2017/0186) and [(EU) 2018/1660](https://www.legislation.gov.uk/european/regulation/2018/1660)[^f00003] is amended as follows.
 
@@ -78,11 +78,11 @@ As required by Article 144(7) of the Official Controls Regulations, the Secretar
   - (i) for “Table 2” substitute “Table 2 (England)”;
   - (ii) for “Table 1”, in each place substitute “Table 1 (England)”.
 
-(4)[^key-fae9c9514be13bd2b8a90cfe0d8e03af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-fae9c9514be13bd2b8a90cfe0d8e03af] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In Annex 2—
 
-- (a)[^key-95a10bec6a521da2367d8d22ade0ac43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-95a10bec6a521da2367d8d22ade0ac43] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for the second table (Compound food referred to in Article 1(1)(b)(ii) substitute the table in Schedule 3.
 
 (6) In Annex 2a, for the table substitute the table in Schedule 4.
@@ -95,19 +95,19 @@ Department of Health and Social Care
 
 16th November 2022
 
-## SCHEDULE 1 — Substitution of the table in Annex I to Commission Implementing Regulation (EU) 2019/1793 in relation to England[^key-380e804b009ffe61249208ae5c12397b]
+## SCHEDULE 1 — Substitution of the table in Annex I to Commission Implementing Regulation (EU) 2019/1793 in relation to England[^c-380e804b009ffe61249208ae5c12397b]
 
 **No longer in force.**
 
 Regulation 2(4)
 
-## SCHEDULE 2 — Substitution of the first table in Annex 2 to Commission Implementing Regulation (EU) 2019/1793 in relation to England[^key-9db6fb58db1f806460a532c5ead52a73]
+## SCHEDULE 2 — Substitution of the first table in Annex 2 to Commission Implementing Regulation (EU) 2019/1793 in relation to England[^c-9db6fb58db1f806460a532c5ead52a73]
 
 **No longer in force.**
 
 Regulation 2(5)(a)
 
-## SCHEDULE 3 — Substitution of the second table in Annex 2 to Commission Implementing Regulation (EU) 2019/1793 in relation to England[^key-63657b8075611d6124f99ce2fb45f626]
+## SCHEDULE 3 — Substitution of the second table in Annex 2 to Commission Implementing Regulation (EU) 2019/1793 in relation to England[^c-63657b8075611d6124f99ce2fb45f626]
 
 Regulation 2(5)(b)
 
@@ -134,7 +134,7 @@ Regulation 2(5)(b)
 >
 > [^f01030][^f01031][^f00006][^f01032]
 
-## SCHEDULE 4 — Substitution of the table in Annex 2a to Commission Implementing Regulation (EU) 2019/1793 in relation to England[^key-15bd76e120396bcc39bc805dc816874e]
+## SCHEDULE 4 — Substitution of the table in Annex 2a to Commission Implementing Regulation (EU) 2019/1793 in relation to England[^c-15bd76e120396bcc39bc805dc816874e]
 
 Regulation 2(6)
 
@@ -227,21 +227,21 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00002]: Footnote: EUR 2017/625, amended by [S.I. 2020/1481](https://www.legislation.gov.uk/uksi/2020/1481). See Article 3(2A) for the definition of “the appropriate authority”.
 
-[^key-16a4e8d7ad64adb04a90792c78c2b475]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1193/regulation/1) in force at 17.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1193/regulation/1/1)
+[^c-16a4e8d7ad64adb04a90792c78c2b475]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2022/1193/regulation/1) in force at 17.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1193/regulation/1/1)
 
-[^key-342a9d1fcf6442d884d3df4c39c99cd6]: Commencement: Reg. 2 in force at 17.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1193/regulation/1/1)
+[^c-342a9d1fcf6442d884d3df4c39c99cd6]: Commencement: Reg. 2 in force at 17.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1193/regulation/1/1)
 
 [^f00003]: Footnote: EUR 2019/1793 as amended by [S.I. 2020/1631](https://www.legislation.gov.uk/uksi/2020/1631).
 
-[^key-fae9c9514be13bd2b8a90cfe0d8e03af]: Textual amendment: Reg. 2(4) omitted (7.3.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (England) Regulations 2024 (S.I. 2024/120)](https://www.legislation.gov.uk/uksi/2024/120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/120/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/120/regulation/3/a)
+[^c-fae9c9514be13bd2b8a90cfe0d8e03af]: Textual amendment: Reg. 2(4) omitted (7.3.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (England) Regulations 2024 (S.I. 2024/120)](https://www.legislation.gov.uk/uksi/2024/120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/120/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/120/regulation/3/a)
 
-[^key-95a10bec6a521da2367d8d22ade0ac43]: Textual amendment: Reg. 2(5)(a) omitted (7.3.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (England) Regulations 2024 (S.I. 2024/120)](https://www.legislation.gov.uk/uksi/2024/120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/120/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/120/regulation/3/a)
+[^c-95a10bec6a521da2367d8d22ade0ac43]: Textual amendment: Reg. 2(5)(a) omitted (7.3.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (England) Regulations 2024 (S.I. 2024/120)](https://www.legislation.gov.uk/uksi/2024/120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/120/regulation/1/1), [3(a)](https://www.legislation.gov.uk/uksi/2024/120/regulation/3/a)
 
-[^key-380e804b009ffe61249208ae5c12397b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1193/schedule/1) omitted (7.3.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (England) Regulations 2024 (S.I. 2024/120)](https://www.legislation.gov.uk/uksi/2024/120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/120/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/120/regulation/3/b)
+[^c-380e804b009ffe61249208ae5c12397b]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2022/1193/schedule/1) omitted (7.3.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (England) Regulations 2024 (S.I. 2024/120)](https://www.legislation.gov.uk/uksi/2024/120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/120/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/120/regulation/3/b)
 
-[^key-9db6fb58db1f806460a532c5ead52a73]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2022/1193/schedule/2) omitted (7.3.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (England) Regulations 2024 (S.I. 2024/120)](https://www.legislation.gov.uk/uksi/2024/120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/120/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/120/regulation/3/b)
+[^c-9db6fb58db1f806460a532c5ead52a73]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2022/1193/schedule/2) omitted (7.3.2024) by virtue of [The Official Controls (Import of High-Risk Food and Feed of Non-Animal Origin) (Amendment of Commission Implementing Regulation (EU) 2019/1793) (England) Regulations 2024 (S.I. 2024/120)](https://www.legislation.gov.uk/uksi/2024/120), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/120/regulation/1/1), [3(b)](https://www.legislation.gov.uk/uksi/2024/120/regulation/3/b)
 
-[^key-63657b8075611d6124f99ce2fb45f626]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2022/1193/schedule/3) in force at 17.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1193/regulation/1/1)
+[^c-63657b8075611d6124f99ce2fb45f626]: Commencement: [Sch. 3](https://www.legislation.gov.uk/uksi/2022/1193/schedule/3) in force at 17.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1193/regulation/1/1)
 
 [^f01030]: Footnote: (1)
 
@@ -257,7 +257,7 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
     Mixtures of two or more of the products of different headings are to be classified in the heading 0910.
 
-[^key-15bd76e120396bcc39bc805dc816874e]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2022/1193/schedule/4) in force at 17.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1193/regulation/1/1)
+[^c-15bd76e120396bcc39bc805dc816874e]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2022/1193/schedule/4) in force at 17.1.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/1193/regulation/1/1)
 
 [^f01033]: Footnote: (1)
 

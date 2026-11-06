@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Procedure for federation - local authority proposed[^key-0b04e636d963436a1a5a30cb789612b3]
+## 9. Procedure for federation - local authority proposed[^c-0b04e636d963436a1a5a30cb789612b3]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0b04e636d963436a1a5a30cb789612b3]: Commencement: Reg. 9 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-0b04e636d963436a1a5a30cb789612b3]: Commencement: Reg. 9 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. No power to give notice under section 23(1) where detrimental to national security etc[^key-47c01bc08d56d286b5d0bcbc60b343da]
+## 24. No power to give notice under section 23(1) where detrimental to national security etc[^c-47c01bc08d56d286b5d0bcbc60b343da]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47c01bc08d56d286b5d0bcbc60b343da]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2017/30/part/3) omitted (26.10.2023) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 212(2)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/212/2/a), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)
+[^c-47c01bc08d56d286b5d0bcbc60b343da]: Textual amendment: [Pt. 3](https://www.legislation.gov.uk/ukpga/2017/30/part/3) omitted (26.10.2023) by virtue of [Online Safety Act 2023 (c. 50)](https://www.legislation.gov.uk/ukpga/2023/50), [ss. 212(2)(a)](https://www.legislation.gov.uk/ukpga/2023/50/section/212/2/a), [240(4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4)

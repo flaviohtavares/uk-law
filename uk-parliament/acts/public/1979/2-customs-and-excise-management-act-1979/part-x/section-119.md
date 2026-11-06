@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Delivery of imported goods on giving of security for duty.[^key-039048f05f5f97da341d42a65bd0bec9]
+## 119. Delivery of imported goods on giving of security for duty.[^c-039048f05f5f97da341d42a65bd0bec9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-039048f05f5f97da341d42a65bd0bec9]: Textual amendment: [S. 119](https://www.legislation.gov.uk/ukpga/1979/2/section/119) omitted (with effect in accordance with s. 318(3) of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 318(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/318/2)
+[^c-039048f05f5f97da341d42a65bd0bec9]: Textual amendment: [S. 119](https://www.legislation.gov.uk/ukpga/1979/2/section/119) omitted (with effect in accordance with s. 318(3) of the amending Act) by virtue of [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [s. 318(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/318/2)

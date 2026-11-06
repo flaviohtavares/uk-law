@@ -46,27 +46,27 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 43D(1) and (2) of the Marriage Act 1949[^f00001], makes the following Regulations:
 
-## 1. Citation and commencement[^key-1e119291d30fb03a1a664b0eefccbe14]
+## 1. Citation and commencement[^c-1e119291d30fb03a1a664b0eefccbe14]
 
 These Regulations may be cited as the Marriage of Same Sex Couples (Registration of Buildings and Appointment of Authorised Persons) Regulations 2014 and come into force on 13th March 2014.
 
-## 2. Interpretation[^key-39a6fd1b669b4dc5f08e101eb3347e93]
+## 2. Interpretation[^c-39a6fd1b669b4dc5f08e101eb3347e93]
 
 In these Regulations—
 
 - “the Act” means the Marriage Act 1949;
 - “applicant” means the proprietor or trustee of a building who makes an application for registration of the building under section 41[^f00002] or 43A[^f00003] of the Act, or for the cancellation of that registration under section 43C[^f00004], as the context requires, and “application” is to be construed accordingly;
-- “appropriate fee” means the fee payable by virtue of regulations made under section 71A of the Marriage Act 1949;[^key-b0dc6b45ccb6cc95cf2306563fb3a6bb]
+- “appropriate fee” means the fee payable by virtue of regulations made under section 71A of the Marriage Act 1949;[^c-b0dc6b45ccb6cc95cf2306563fb3a6bb]
 - “registered building” means a building registered for the solemnization of marriages of same sex couples under section 43A of the Act;
 - “relevant superintendent registrar” means the superintendent registrar of the registration district in which the building which is, or is to be, registered is situated.
 
-## 3. Shared Buildings[^key-036f6a46b40ba141d6d921990d9e7ecc]
+## 3. Shared Buildings[^c-036f6a46b40ba141d6d921990d9e7ecc]
 
 (1) In respect of shared buildings, these regulations are subject to any additional requirements that may be applicable under sections 44A to 44C[^f00005] of the Act and regulations under those sections.
 
 (2) In this regulation and in regulation 4, “shared building” has the same meaning as in section 44D(1)[^f00006] of the Act.
 
-## 4. Application for registration of a building[^key-b4ef6e868c18245dbccc63ffaafa325d]
+## 4. Application for registration of a building[^c-b4ef6e868c18245dbccc63ffaafa325d]
 
 (1) This regulation applies to an application for registration of a building for the solemnization of marriages of same sex couples under section 43A of the Act.
 
@@ -79,7 +79,7 @@ In these Regulations—
   - (iii) the name and address of the applicant; and
   - (iv) such other information as the Registrar General has indicated is necessary to register the building;
 - (c) sign the application form; and
-- (d)[^key-45cb89bfa32e0ec833a4f355a4928020] pay the appropriate fee to the superintendent registrar.
+- (d)[^c-45cb89bfa32e0ec833a4f355a4928020] pay the appropriate fee to the superintendent registrar.
 
 (3) The certificate of use for religious worship mentioned in section 43A(3)(c) of the Act—
 
@@ -90,7 +90,7 @@ In these Regulations—
 
 (5) For the purposes of paragraph (4), “qualifying sharing churches” means the sharing churches (within the meaning of section 44D(1) of the Act), whose consent to marriages of same sex couples, or for the shared building to be used for the solemnization of marriages of same sex couples (as the case may be), is required under section 44A(5) or (6) of the Act, or by regulations made under section 44A(10) or 44C(1)(a) of the Act, before the building can be registered under section 43A of the Act.
 
-## 5. Procedure on registration of a building[^key-255385aaa3ec5bd9dca0306d50c0ad38]
+## 5. Procedure on registration of a building[^c-255385aaa3ec5bd9dca0306d50c0ad38]
 
 (1) On receipt of an application made in accordance with regulation 4, the Registrar General must—
 
@@ -104,7 +104,7 @@ In these Regulations—
 - (b) give a certificate of the registration signed by the superintendent registrar to the applicant; and
 - (c) if the building is not already registered under section 41 of the Act, give public notice of the registration of the building by advertisement in a newspaper circulating in the county in which the building is situated and in the London Gazette.
 
-## 6. Buildings registered under section 43A: appointment of authorised persons[^key-c7ea3fe3f94de2981f9e37cd896f2d1c]
+## 6. Buildings registered under section 43A: appointment of authorised persons[^c-c7ea3fe3f94de2981f9e37cd896f2d1c]
 
 (1) This regulation makes provision for the procedure to be followed in relation to the authorisation of a person under section 43B(1)[^f00008] of the Act.
 
@@ -122,7 +122,7 @@ In these Regulations—
 
 (4) For the purposes of this regulation, “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday in England and Wales under the Banking and Financial Dealings Act 1971[^f00009].
 
-## 7. Cancellation of registration under section 43A of the Act[^key-d5dee97f847e62195da9b4cd71d07907]
+## 7. Cancellation of registration under section 43A of the Act[^c-d5dee97f847e62195da9b4cd71d07907]
 
 (1) This regulation applies to an application to cancel the registration of a building under section 43C of the Act.
 
@@ -138,7 +138,7 @@ In these Regulations—
 
 (3) The applicant must also sign a declaration, in the presence of the relevant superintendent registrar, that the registered building will no longer be used for marriages of same sex couples.
 
-## 8. Procedure on cancellation of registration of a building[^key-2e2daa74203ec98d35532ae7cb271054]
+## 8. Procedure on cancellation of registration of a building[^c-2e2daa74203ec98d35532ae7cb271054]
 
 (1) On receipt of an application made in accordance with regulation 7 (including the declaration made under paragraph (3) of that regulation), the Registrar General must—
 
@@ -150,7 +150,7 @@ In these Regulations—
 - (a) annotate the book mentioned in regulation 5(2)(a) to show that the registration has been cancelled; and
 - (b) give a certificate of cancellation signed by the superintendent registrar to the applicant.
 
-## 9. Modification of section 41: building registered under section 43A of the Act[^key-9b9bb69f739950edd6742b8af21e1cba]
+## 9. Modification of section 41: building registered under section 43A of the Act[^c-9b9bb69f739950edd6742b8af21e1cba]
 
 In the case of an application for registration under section 41[^f00010] of the Act of a building that is already registered under section 43A[^f00011], section 41 has effect as if—
 
@@ -171,16 +171,16 @@ In the case of an application for registration under section 41[^f00010] of the 
 - (d) in subsection (5)—
   - (i) for “the certificate” (in the first place) there were substituted “the endorsed copy of the application”; and
   - (ii) paragraph (c) (requirement to give public notice) were omitted; and
-- (e) in subsection (6), for “£123.00[^key-5648adc480724fa11b61aa506b41677f]” there were substituted “£64.00”.
+- (e) in subsection (6), for “£123.00[^c-5648adc480724fa11b61aa506b41677f]” there were substituted “£64.00”.
 
-## 10. Modification of procedure for joint applications under section 41 and section 43A[^key-ae94f35af00f998a30db8a110c0dba53]
+## 10. Modification of procedure for joint applications under section 41 and section 43A[^c-ae94f35af00f998a30db8a110c0dba53]
 
 (1) This regulation applies where a proprietor or trustee of a building makes an application for a building to be registered under section 41 and section 43A of the Act at the same time.
 
 (2) The applicant must comply with the requirements of sections 41 and 43A of the Act, and with regulation 4, with the following modifications—
 
 - (a) the applicant may submit one certificate of use for religious worship in order to comply with both sections 41(2) and 43A(3)(c), but that certificate must state that the twenty householders who give the certificate wish the building to be registered under both sections; and
-- (b)[^key-63367fcdf832c8a8af372a978878991e] the applicant must pay the fee payable by virtue of regulations made under section 71A of the Act for a joint application made under section 41(1) and 43A of the Act, but the fee under regulation 4(2)(d) does not apply.
+- (b)[^c-63367fcdf832c8a8af372a978878991e] the applicant must pay the fee payable by virtue of regulations made under section 71A of the Act for a joint application made under section 41(1) and 43A of the Act, but the fee under regulation 4(2)(d) does not apply.
 
 Mark Harper
 
@@ -218,9 +218,9 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00001]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); section 43D was inserted by section 4(2) of, and paragraph 2 of Schedule 1 to, the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30).
 
-[^key-1e119291d30fb03a1a664b0eefccbe14]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
+[^c-1e119291d30fb03a1a664b0eefccbe14]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
 
-[^key-39a6fd1b669b4dc5f08e101eb3347e93]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/106/regulation/2) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
+[^c-39a6fd1b669b4dc5f08e101eb3347e93]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/106/regulation/2) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
 
 [^f00002]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); section 41 was amended by section 1(1) of the Marriage (Registration of Buildings) Act [1990 (c. 33)](https://www.legislation.gov.uk/ukpga/1990/33); section 1(1)(a) of the Marriage Acts Amendment Act [1958 (c. 29)](https://www.legislation.gov.uk/ukpga/1958/29); and art.8 of [S.I. 2009/2821](https://www.legislation.gov.uk/uksi/2009/2821). The fee under subsection (6) was most recently set by [S.I . 2010/441](https://www.legislation.gov.uk/uksi/2010/441). A new subsection (1A), making section 41(1) applicable to marriages between a man and a woman, was inserted by section 17(4) of, and paragraph 8 of Schedule 7 to, the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30).
 
@@ -228,40 +228,40 @@ A full regulatory impact assessment has not been produced for this instrument as
 
 [^f00004]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); section 43C was inserted by section 4(2) of, and paragraph 2 of Schedule 1 to, the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30).
 
-[^key-b0dc6b45ccb6cc95cf2306563fb3a6bb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/106/regulation/2) inserted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/2/2)
+[^c-b0dc6b45ccb6cc95cf2306563fb3a6bb]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/106/regulation/2) inserted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 2(2)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/2/2)
 
-[^key-036f6a46b40ba141d6d921990d9e7ecc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/106/regulation/3) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
+[^c-036f6a46b40ba141d6d921990d9e7ecc]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2014/106/regulation/3) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
 
 [^f00005]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); sections 44A-44C were inserted by section 4(2) of, and paragraph 3 of Schedule 1 to, the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30).
 
 [^f00006]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); section 44D was inserted by section 4(2) of, and paragraph 3 of Schedule1 to, the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30).
 
-[^key-b4ef6e868c18245dbccc63ffaafa325d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/106/regulation/4) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
+[^c-b4ef6e868c18245dbccc63ffaafa325d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2014/106/regulation/4) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
 
 [^f00007]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); section 26A was inserted by section 4(1) of the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30).
 
-[^key-45cb89bfa32e0ec833a4f355a4928020]: Textual amendment: [Reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2014/106/regulation/4/2/d) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/2/3)
+[^c-45cb89bfa32e0ec833a4f355a4928020]: Textual amendment: [Reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2014/106/regulation/4/2/d) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/2/3)
 
-[^key-255385aaa3ec5bd9dca0306d50c0ad38]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/106/regulation/5) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
+[^c-255385aaa3ec5bd9dca0306d50c0ad38]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2014/106/regulation/5) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
 
-[^key-c7ea3fe3f94de2981f9e37cd896f2d1c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/106/regulation/6) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
+[^c-c7ea3fe3f94de2981f9e37cd896f2d1c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/106/regulation/6) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
 
 [^f00008]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); section 43B was inserted by section 4(2) of, and paragraph 2 of Schedule 1 to, the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30).
 
 [^f00009]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80); section 1(1) and paragraph 1 of Schedule 1.
 
-[^key-d5dee97f847e62195da9b4cd71d07907]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/106/regulation/7) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
+[^c-d5dee97f847e62195da9b4cd71d07907]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2014/106/regulation/7) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
 
-[^key-2e2daa74203ec98d35532ae7cb271054]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/106/regulation/8) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
+[^c-2e2daa74203ec98d35532ae7cb271054]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2014/106/regulation/8) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
 
-[^key-9b9bb69f739950edd6742b8af21e1cba]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/106/regulation/9) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
+[^c-9b9bb69f739950edd6742b8af21e1cba]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2014/106/regulation/9) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
 
 [^f00010]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); section 41 was amended by section 1(1) of the Marriage (Registration of Buildings) Act [1990 (c. 33)](https://www.legislation.gov.uk/ukpga/1990/33); section 1(1)(a) of the Marriage Acts Amendment Act [1958 (c. 29)](https://www.legislation.gov.uk/ukpga/1958/29); and art.8 of [S.I. 2009/2821](https://www.legislation.gov.uk/uksi/2009/2821). The fee under subsection (6) was most recently set by [S.I . 2010/441](https://www.legislation.gov.uk/uksi/2010/441). A new subsection (1A), making section 41(1) applicable to marriages between a man and a woman, was inserted by section 17(4) of, and paragraph 8 of Schedule 7 to, the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30).
 
 [^f00011]: Footnote: [1949 c. 76](https://www.legislation.gov.uk/ukpga/1949/76); section 43A was inserted by section 4(2) of, and paragraph 2 of Schedule 1 to, the Marriage (Same Sex Couples) Act [2013 (c. 30)](https://www.legislation.gov.uk/ukpga/2013/30).
 
-[^key-5648adc480724fa11b61aa506b41677f]: Textual amendment: Word in [reg. 9(e)](https://www.legislation.gov.uk/uksi/2014/106/regulation/9/e) substituted (1.9.2014) by [The Marriage of Same Sex Couples (Registration of Buildings and Appointment of Authorised Persons) (Amendment) Regulations 2014 (S.I. 2014/1791)](https://www.legislation.gov.uk/uksi/2014/1791), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1791/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/1791/regulation/2/b)
+[^c-5648adc480724fa11b61aa506b41677f]: Textual amendment: Word in [reg. 9(e)](https://www.legislation.gov.uk/uksi/2014/106/regulation/9/e) substituted (1.9.2014) by [The Marriage of Same Sex Couples (Registration of Buildings and Appointment of Authorised Persons) (Amendment) Regulations 2014 (S.I. 2014/1791)](https://www.legislation.gov.uk/uksi/2014/1791), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1791/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2014/1791/regulation/2/b)
 
-[^key-ae94f35af00f998a30db8a110c0dba53]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/106/regulation/10) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
+[^c-ae94f35af00f998a30db8a110c0dba53]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2014/106/regulation/10) in force at 13.3.2014, see [reg. 1](https://www.legislation.gov.uk/uksi/2014/106/regulation/1)
 
-[^key-63367fcdf832c8a8af372a978878991e]: Textual amendment: [Reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/2014/106/regulation/10/2/b) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/2/4)
+[^c-63367fcdf832c8a8af372a978878991e]: Textual amendment: [Reg. 10(2)(b)](https://www.legislation.gov.uk/uksi/2014/106/regulation/10/2/b) substituted (5.10.2016) by [The Registration of Births, Deaths, Marriages and Civil Partnerships (Fees) Regulations 2016 (S.I. 2016/911)](https://www.legislation.gov.uk/uksi/2016/911), [reg. 1](https://www.legislation.gov.uk/uksi/2016/911/regulation/1), [Sch. 2 para. 2(4)](https://www.legislation.gov.uk/uksi/2016/911/schedule/2/paragraph/2/4)

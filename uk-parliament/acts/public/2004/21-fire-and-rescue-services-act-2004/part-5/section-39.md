@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Supply of water by water undertakers[^key-205b92e698c848f987bed7a7c214663f][^key-5fe26540f0f03c8e0ff4dbc9e87c5d96]
+## 39. Supply of water by water undertakers[^c-205b92e698c848f987bed7a7c214663f][^c-5fe26540f0f03c8e0ff4dbc9e87c5d96]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-205b92e698c848f987bed7a7c214663f]: Commencement: S. 39 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
+[^c-205b92e698c848f987bed7a7c214663f]: Commencement: S. 39 in force at 7.9.2004 for specified purposes except in relation to W. and 1.10.2004 otherwise except in relation to W. by [S.I. 2004/2304](https://www.legislation.gov.uk/uksi/2004/2304), [art. 2](https://www.legislation.gov.uk/uksi/2004/2304/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/2304/article/3))
 
-[^key-5fe26540f0f03c8e0ff4dbc9e87c5d96]: Commencement: S. 39 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)
+[^c-5fe26540f0f03c8e0ff4dbc9e87c5d96]: Commencement: S. 39 in force at 10.11.2004 for W. by [S.I. 2004/2917](https://www.legislation.gov.uk/uksi/2004/2917), [art. 2](https://www.legislation.gov.uk/uksi/2004/2917/article/2)

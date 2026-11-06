@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145. Approval of courses and persons[^key-2ecb3e22d6020374575acad495f444c4]
+## 145. Approval of courses and persons[^c-2ecb3e22d6020374575acad495f444c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The Governor may, for the purposes of this Part of this Order—
 
 ## Annotations
 
-[^key-2ecb3e22d6020374575acad495f444c4]: Commencement: [Art. 145](https://www.legislation.gov.uk/uksi/2013/2870/article/145) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-2ecb3e22d6020374575acad495f444c4]: Commencement: [Art. 145](https://www.legislation.gov.uk/uksi/2013/2870/article/145) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

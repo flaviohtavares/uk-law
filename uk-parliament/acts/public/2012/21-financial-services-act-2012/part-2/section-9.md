@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Designation of activities requiring prudential regulation by PRA[^key-a7112bc748b3e535dff71a1df89594cc]
+## 9. Designation of activities requiring prudential regulation by PRA[^c-a7112bc748b3e535dff71a1df89594cc]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ After section 22 of FSMA 2000 insert—
 
 ## Annotations
 
-[^key-a7112bc748b3e535dff71a1df89594cc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2012/21/section/9) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-a7112bc748b3e535dff71a1df89594cc]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2012/21/section/9) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)

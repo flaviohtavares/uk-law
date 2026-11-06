@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Report on effect of NHS Constitution[^key-029f25c610ceeae3ee3c794eeddca80d]
+## 6. Report on effect of NHS Constitution[^c-029f25c610ceeae3ee3c794eeddca80d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-029f25c610ceeae3ee3c794eeddca80d]: Commencement: S. 6 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/30/article/2/a)
+[^c-029f25c610ceeae3ee3c794eeddca80d]: Commencement: S. 6 in force at 19.1.2010 by [S.I. 2010/30](https://www.legislation.gov.uk/uksi/2010/30), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/30/article/2/a)

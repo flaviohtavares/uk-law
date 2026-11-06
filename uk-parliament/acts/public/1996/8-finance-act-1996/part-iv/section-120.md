@@ -80,7 +80,7 @@ summary: ''
 (11) In paragraph 10 of that Schedule (trust deed must not contain features not essential or reasonably incidental to purposes mentioned in that paragraph)—
 
 - (a) after “acquiring sums and securities,” there shall be inserted “ granting rights to acquire shares to persons who are eligible to participate in savings-related share option schemes approved under Schedule 9 to the Taxes Act 1988, transferring shares to such persons, ”; and
-- (b)[^key-97a91873fadfbedd5ce09b8f8cea5831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-97a91873fadfbedd5ce09b8f8cea5831] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) This section has effect in relation to trusts established on or after the day on which this Act is passed.
 
@@ -90,4 +90,4 @@ summary: ''
 
 [^c14611751]: Marginal citation: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
 
-[^key-97a91873fadfbedd5ce09b8f8cea5831]: Textual amendment: [S. 120(11)(b)](https://www.legislation.gov.uk/ukpga/1996/8/section/120/11/b) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-97a91873fadfbedd5ce09b8f8cea5831]: Textual amendment: [S. 120(11)(b)](https://www.legislation.gov.uk/ukpga/1996/8/section/120/11/b) repealed (with effect in accordance with s. 723(1)(a)(b) of the amending Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Amendment of Article 79 of Regulation (EU) No 2018/1139[^key-3e649471916ff10cbae10b1f1d9228ec]
+## 150. Amendment of Article 79 of Regulation (EU) No 2018/1139[^c-3e649471916ff10cbae10b1f1d9228ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 79 (certification of safety-related aerodrome equipment), for “Agen
 
 ## Annotations
 
-[^key-3e649471916ff10cbae10b1f1d9228ec]: Commencement: Reg. 150 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3e649471916ff10cbae10b1f1d9228ec]: Commencement: Reg. 150 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

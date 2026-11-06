@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Street works[^key-cfbf7c15c3e38b0a0e0b7137baf0d388]
+## 10. Street works[^c-cfbf7c15c3e38b0a0e0b7137baf0d388]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cfbf7c15c3e38b0a0e0b7137baf0d388]: Commencement: Art. 10 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)
+[^c-cfbf7c15c3e38b0a0e0b7137baf0d388]: Commencement: Art. 10 in force at 14.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1570/article/1)

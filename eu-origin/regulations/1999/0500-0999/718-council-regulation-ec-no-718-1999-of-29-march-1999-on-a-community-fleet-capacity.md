@@ -34,30 +34,30 @@ of 29 March 1999
 
 on a Community-fleet capacity policy to promote inland waterway transport (revoked)
 
-[^key-853d963c7df9308c7d064a843fb64188]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-853d963c7df9308c7d064a843fb64188]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-853d963c7df9308c7d064a843fb64188] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-853d963c7df9308c7d064a843fb64188]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-853d963c7df9308c7d064a843fb64188]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-853d963c7df9308c7d064a843fb64188]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-853d963c7df9308c7d064a843fb64188]: Textual amendment: Regulation revoked (31.12.2020) by [The Merchant Shipping (Miscellaneous Provisions) (Amendments etc.) (EU Exit) Regulations 2018 (S.I. 2018/1221)](https://www.legislation.gov.uk/uksi/2018/1221), [regs. 2(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/2/b), [5(b)](https://www.legislation.gov.uk/uksi/2018/1221/regulation/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

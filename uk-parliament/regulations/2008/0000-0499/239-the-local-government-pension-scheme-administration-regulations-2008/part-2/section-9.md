@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Eligibility in certain cases of persons who are not employees[^key-57af1e0c6b2beda8a28c7b1e8c35f345]
+## 9. Eligibility in certain cases of persons who are not employees[^c-57af1e0c6b2beda8a28c7b1e8c35f345]
 
 *Extent: E+W+S*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-57af1e0c6b2beda8a28c7b1e8c35f345]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-57af1e0c6b2beda8a28c7b1e8c35f345]: Commencement: Reg. 9 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00011]: Footnote: [S.I.1978/374](https://www.legislation.gov.uk/uksi/1978/374).
 

@@ -22,13 +22,13 @@ summary: ''
 
 Article 14
 
-### PART 1 — Street for which a substitute is to be provided[^key-2cf0814456c0017aab3905b38f03bccf]
+### PART 1 — Street for which a substitute is to be provided[^c-2cf0814456c0017aab3905b38f03bccf]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New Highway to be substituted* |
 | --- | --- | --- | --- |
 | District of North Somerset | Quays Avenue, Portishead | 160 metres of Quays Avenue shown by vertical zebra stripes the points marked A-A and B-B on sheet 1 of the permanent and temporary stopping up and diversion plan | 127 metres of new all-purpose highway shown by stipple hatch between the points marked C-C and D-D on sheet 1 of the permanent and temporary stopping up and diversion plan (Work No. 2) |
 
-### PART 2 — Streets for which no substitute is to be provided[^key-9dfd811ec56b8d198f15138da9f7a928]
+### PART 2 — Streets for which no substitute is to be provided[^c-9dfd811ec56b8d198f15138da9f7a928]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street to be stopped up* | *(3)*<br>*Extent of stopping up* |
 | --- | --- | --- |
@@ -37,6 +37,6 @@ Article 14
 
 ## Annotations
 
-[^key-2cf0814456c0017aab3905b38f03bccf]: Commencement: Sch. 4 Pt. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-2cf0814456c0017aab3905b38f03bccf]: Commencement: Sch. 4 Pt. 1 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
 
-[^key-9dfd811ec56b8d198f15138da9f7a928]: Commencement: Sch. 4 Pt. 2 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)
+[^c-9dfd811ec56b8d198f15138da9f7a928]: Commencement: Sch. 4 Pt. 2 in force at 5.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1194/article/1)

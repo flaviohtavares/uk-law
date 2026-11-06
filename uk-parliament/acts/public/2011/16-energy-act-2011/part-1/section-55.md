@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Scottish domestic energy efficiency regulations[^key-9ea57ad269ea9c49eea91ab3832a5cbc]
+## 55. Scottish domestic energy efficiency regulations[^c-9ea57ad269ea9c49eea91ab3832a5cbc]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ may not let the property until the landlord has complied with the obligation men
 
 ## Annotations
 
-[^key-9ea57ad269ea9c49eea91ab3832a5cbc]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2011/16/section/55) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)
+[^c-9ea57ad269ea9c49eea91ab3832a5cbc]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2011/16/section/55) in force at 1.7.2019 by [S.S.I. 2019/181](https://www.legislation.gov.uk/ssi/2019/181), [art. 2](https://www.legislation.gov.uk/ssi/2019/181/article/2)

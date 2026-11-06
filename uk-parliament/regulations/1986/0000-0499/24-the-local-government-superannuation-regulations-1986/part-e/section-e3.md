@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## E3. Amount of retirement pension and retiring allowance[^key-24ddf3603ad8e3092d989ff9226d4bad]
+## E3. Amount of retirement pension and retiring allowance[^c-24ddf3603ad8e3092d989ff9226d4bad]
 
 *Extent: E+W+S*
 
@@ -79,4 +79,4 @@ the amounts calculated in accordance with paragraphs (1) to (13) are reduced in 
 
 ## Annotations
 
-[^key-24ddf3603ad8e3092d989ff9226d4bad]: Commencement: [Reg. E3](https://www.legislation.gov.uk/uksi/1986/24/regulation/E3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-24ddf3603ad8e3092d989ff9226d4bad]: Commencement: [Reg. E3](https://www.legislation.gov.uk/uksi/1986/24/regulation/E3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

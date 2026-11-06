@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126B. Functions of the health and safety lead[^key-3bf5adfa6c52bb2a275cd32bd1961ed5]
+## 126B. Functions of the health and safety lead[^c-3bf5adfa6c52bb2a275cd32bd1961ed5]
 
 *Extent: E+W*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3bf5adfa6c52bb2a275cd32bd1961ed5]: Textual amendment: [Ss. 126A-126D](https://www.legislation.gov.uk/ukpga/2008/17/section/126A) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/10/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/d)
+[^c-3bf5adfa6c52bb2a275cd32bd1961ed5]: Textual amendment: [Ss. 126A-126D](https://www.legislation.gov.uk/ukpga/2008/17/section/126A) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2023/36/section/10/2), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/d)

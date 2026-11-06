@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Dundrod Circuit (Admission Charges) Regulations (Northern Ireland) 2002 (revoked)[^key-bb4b2549012965cc6938ad481d40d981]
+Dundrod Circuit (Admission Charges) Regulations (Northern Ireland) 2002 (revoked)[^c-bb4b2549012965cc6938ad481d40d981]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 1st July 2002
 
-[^key-bb4b2549012965cc6938ad481d40d981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb4b2549012965cc6938ad481d40d981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bb4b2549012965cc6938ad481d40d981]
+## 1. Citation and commencement[^c-bb4b2549012965cc6938ad481d40d981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Charges[^key-bb4b2549012965cc6938ad481d40d981]
+## 2. Charges[^c-bb4b2549012965cc6938ad481d40d981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-bb4b2549012965cc6938ad481d40d981]
+## 3. Revocation[^c-bb4b2549012965cc6938ad481d40d981]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bb4b2549012965cc6938ad481d40d981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb4b2549012965cc6938ad481d40d981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-bb4b2549012965cc6938ad481d40d981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bb4b2549012965cc6938ad481d40d981]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bb4b2549012965cc6938ad481d40d981]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/167) revoked (1.5.2004) by [Dundrod Circuit (Admission Charges) Regulations (Northern Ireland) 2003 (S.R. 2003/523)](https://www.legislation.gov.uk/nisr/2003/523), [regs. 1](https://www.legislation.gov.uk/nisr/2003/523/regulation/1), [3](https://www.legislation.gov.uk/nisr/2003/523/regulation/3)
+[^c-bb4b2549012965cc6938ad481d40d981]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/167) revoked (1.5.2004) by [Dundrod Circuit (Admission Charges) Regulations (Northern Ireland) 2003 (S.R. 2003/523)](https://www.legislation.gov.uk/nisr/2003/523), [regs. 1](https://www.legislation.gov.uk/nisr/2003/523/regulation/1), [3](https://www.legislation.gov.uk/nisr/2003/523/regulation/3)

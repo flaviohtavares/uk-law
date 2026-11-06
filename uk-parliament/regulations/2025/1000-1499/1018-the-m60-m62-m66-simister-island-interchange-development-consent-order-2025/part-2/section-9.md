@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Planning permission[^key-eeec9e01d85c27feb938099d1b28be27]
+## 9. Planning permission[^c-eeec9e01d85c27feb938099d1b28be27]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ then the carrying out of such development, under the terms of the planning permi
 
 ## Annotations
 
-[^key-eeec9e01d85c27feb938099d1b28be27]: Commencement: Art. 9 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-eeec9e01d85c27feb938099d1b28be27]: Commencement: Art. 9 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)

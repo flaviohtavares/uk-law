@@ -46,7 +46,7 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 26(2) of the Welsh Language Act 1993[^f00001], as applied by section 21(5) of the Recall of MPs Act 2015[^f00002].
 
-## 1. Citation, commencement, saving and extent[^key-7247ea14412a4578bea1d38611cac643]
+## 1. Citation, commencement, saving and extent[^c-7247ea14412a4578bea1d38611cac643]
 
 (1) This Order may be cited as the Recall Petition (Welsh Forms) Order 2022.
 
@@ -56,7 +56,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (4) This Order extends to England and Wales.
 
-## 2. Welsh and English versions, and Welsh versions, of prescribed forms[^key-d4849feb583aa150225e78a9e7b61f2d]
+## 2. Welsh and English versions, and Welsh versions, of prescribed forms[^c-d4849feb583aa150225e78a9e7b61f2d]
 
 (1) Each of the forms listed in sub-paragraphs (a) to (l) and set out in Part 1 of the Schedule is prescribed as the version partly in Welsh and partly in English which may be used at a recall petition held in Wales in place of—
 
@@ -77,7 +77,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (3) In this article “**specified**” means specified in Part 1 of Schedule 2 to the Recall of MPs Act 2015 (Recall Petition) Regulations 2016.
 
-## 3. Variations[^key-4783eb0947faf5f90fe76c03ed5271ad]
+## 3. Variations[^c-4783eb0947faf5f90fe76c03ed5271ad]
 
 With the exception of Form A (petition signing sheet) in Part 1 of the Schedule, the forms prescribed by this Order may be used with such adaptations as the circumstances may require.
 
@@ -95,7 +95,7 @@ Department for Levelling Up, Housing and Communities
 
 Article 2(1) and (2)
 
-### PART 1 — Welsh and English forms[^key-931debd6078a7805870d3ec97e7a6f17][^key-15ee5ac6d2e9e50a1dbb66322ce76d9d][^key-debab5a3513bfaa9c33acc141741ff58][^key-1a77d24fa8d13aee9fbc5076ea1658fe][^key-20e96e63f9f502155890cba41cd6b1cb][^key-a7043a6a832cd37dc1f756e6fd6ba5f5][^key-47db5d2d67cff21b538c4add4b11d9c0]
+### PART 1 — Welsh and English forms[^c-931debd6078a7805870d3ec97e7a6f17][^c-15ee5ac6d2e9e50a1dbb66322ce76d9d][^c-debab5a3513bfaa9c33acc141741ff58][^c-1a77d24fa8d13aee9fbc5076ea1658fe][^c-20e96e63f9f502155890cba41cd6b1cb][^c-a7043a6a832cd37dc1f756e6fd6ba5f5][^c-47db5d2d67cff21b538c4add4b11d9c0]
 
 **Form A: Petition signing sheet**
 
@@ -115,7 +115,7 @@ Article 2(1) and (2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/1405/images/uksi_20221405_en_004)
 
-**Form D (official petition notice for an elector who may sign the petition in person)[^key-cfb538a0c159c8ad88e50ab6aa58b688]**
+**Form D (official petition notice for an elector who may sign the petition in person)[^c-cfb538a0c159c8ad88e50ab6aa58b688]**
 
 *Page 1*
 
@@ -141,7 +141,7 @@ Article 2(1) and (2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/1405/images/uksi_20221405_en_epp_074.gif)
 
-[^key-7111266adc7913e48f1f2cd367fb4195]**Form E: Official petition notice for an elector who may sign the petition by post**
+[^c-7111266adc7913e48f1f2cd367fb4195]**Form E: Official petition notice for an elector who may sign the petition by post**
 
 *Page 1*
 
@@ -163,7 +163,7 @@ Article 2(1) and (2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/1405/images/uksi_20221405_en_epp_052.gif)
 
-**Form F (official petition notice for a proxy who may sign the petition in person)[^key-67736d045545f76e3328e5f01cb78caf]**
+**Form F (official petition notice for a proxy who may sign the petition in person)[^c-67736d045545f76e3328e5f01cb78caf]**
 
 *Page 1*
 
@@ -189,7 +189,7 @@ Article 2(1) and (2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/1405/images/uksi_20221405_en_epp_080.gif)
 
-[^key-e849c79c09674c98b8a680c9a606487f]**Form G: Official petition notice for a proxy who may sign the petition by post**
+[^c-e849c79c09674c98b8a680c9a606487f]**Form G: Official petition notice for a proxy who may sign the petition by post**
 
 *Page 1*
 
@@ -235,7 +235,7 @@ Article 2(1) and (2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/1405/images/uksi_20221405_en_epp_068.gif)
 
-[^key-bb7673096188105d78edea09765ae895]**Form K: Postal petition statement**
+[^c-bb7673096188105d78edea09765ae895]**Form K: Postal petition statement**
 
 *Page 1*
 
@@ -249,7 +249,7 @@ Article 2(1) and (2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/1405/images/uksi_20221405_en_epp_028.gif)
 
-[^key-3f638d71bb79313b6734acfaf3e5fae2]**Form L: Statement as to postal petition signing sheets, proxies and additional data**
+[^c-3f638d71bb79313b6734acfaf3e5fae2]**Form L: Statement as to postal petition signing sheets, proxies and additional data**
 
 *Page 1*
 
@@ -267,7 +267,7 @@ Article 2(1) and (2)
 
 [image: see source](https://www.legislation.gov.uk/uksi/2022/1405/images/uksi_20221405_en_epp_032.gif)
 
-### PART 2 — Welsh form[^key-ae260c5b01b87a1d9beb2df2c1633afa]
+### PART 2 — Welsh form[^c-ae260c5b01b87a1d9beb2df2c1633afa]
 
 **Form I: Certificate of employment**
 
@@ -287,40 +287,40 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00002]: Footnote: [2015 c. 25](https://www.legislation.gov.uk/ukpga/2015/25).
 
-[^key-7247ea14412a4578bea1d38611cac643]: Commencement: Art. 1 in force at 16.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1405/article/1/2)
+[^c-7247ea14412a4578bea1d38611cac643]: Commencement: Art. 1 in force at 16.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1405/article/1/2)
 
 [^f00003]: Footnote: [S.I. 2016/295](https://www.legislation.gov.uk/uksi/2016/295), to which there are amendments not relevant to these Regulations.
 
-[^key-d4849feb583aa150225e78a9e7b61f2d]: Commencement: Art. 2 in force at 16.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1405/article/1/2)
+[^c-d4849feb583aa150225e78a9e7b61f2d]: Commencement: Art. 2 in force at 16.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1405/article/1/2)
 
-[^key-4783eb0947faf5f90fe76c03ed5271ad]: Commencement: Art. 3 in force at 16.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1405/article/1/2)
+[^c-4783eb0947faf5f90fe76c03ed5271ad]: Commencement: Art. 3 in force at 16.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1405/article/1/2)
 
-[^key-931debd6078a7805870d3ec97e7a6f17]: Commencement: Sch. Pt. 1 in force at 16.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1405/article/1/2)
+[^c-931debd6078a7805870d3ec97e7a6f17]: Commencement: Sch. Pt. 1 in force at 16.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1405/article/1/2)
 
-[^key-15ee5ac6d2e9e50a1dbb66322ce76d9d]: Modification: Sch. Pt. 1 modified (temp.) (31.10.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2023 (S.I. 2023/1137)](https://www.legislation.gov.uk/uksi/2023/1137), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1137/article/1/2), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/6/2) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/5))
+[^c-15ee5ac6d2e9e50a1dbb66322ce76d9d]: Modification: Sch. Pt. 1 modified (temp.) (31.10.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2023 (S.I. 2023/1137)](https://www.legislation.gov.uk/uksi/2023/1137), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1137/article/1/2), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/6/2) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/5))
 
-[^key-debab5a3513bfaa9c33acc141741ff58]: Modification: Sch. Pt. 1 modified (temp.) (31.10.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2023 (S.I. 2023/1137)](https://www.legislation.gov.uk/uksi/2023/1137), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1137/article/1/2), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/6/3) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/5))
+[^c-debab5a3513bfaa9c33acc141741ff58]: Modification: Sch. Pt. 1 modified (temp.) (31.10.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2023 (S.I. 2023/1137)](https://www.legislation.gov.uk/uksi/2023/1137), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1137/article/1/2), [Sch. 1 para. 6(3)](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/6/3) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/5))
 
-[^key-1a77d24fa8d13aee9fbc5076ea1658fe]: Modification: Sch. Pt. 1 modified (temp.) (31.10.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2023 (S.I. 2023/1137)](https://www.legislation.gov.uk/uksi/2023/1137), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1137/article/1/2), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/6/2) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/5))
+[^c-1a77d24fa8d13aee9fbc5076ea1658fe]: Modification: Sch. Pt. 1 modified (temp.) (31.10.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2023 (S.I. 2023/1137)](https://www.legislation.gov.uk/uksi/2023/1137), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1137/article/1/2), [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/6/2) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/5))
 
-[^key-20e96e63f9f502155890cba41cd6b1cb]: Modification: Sch. Pt. 1 modified (temp.) (31.10.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2023 (S.I. 2023/1137)](https://www.legislation.gov.uk/uksi/2023/1137), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1137/article/1/2), [Sch. 1 para. 6(4)](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/6/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/5))
+[^c-20e96e63f9f502155890cba41cd6b1cb]: Modification: Sch. Pt. 1 modified (temp.) (31.10.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2023 (S.I. 2023/1137)](https://www.legislation.gov.uk/uksi/2023/1137), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1137/article/1/2), [Sch. 1 para. 6(4)](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/6/4) (with [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/5))
 
-[^key-a7043a6a832cd37dc1f756e6fd6ba5f5]: Modification: Sch. Pt. 1 modified (temp.) (31.10.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2023 (S.I. 2023/1137)](https://www.legislation.gov.uk/uksi/2023/1137), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1137/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/7)
+[^c-a7043a6a832cd37dc1f756e6fd6ba5f5]: Modification: Sch. Pt. 1 modified (temp.) (31.10.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2023 (S.I. 2023/1137)](https://www.legislation.gov.uk/uksi/2023/1137), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1137/article/1/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/7)
 
-[^key-47db5d2d67cff21b538c4add4b11d9c0]: Modification: Sch. Pt. 1 modified (temp.) (30.1.2024) by S.I. 2023/1137, Sch. 1 para. 6(5)(6)(7) (as inserted by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2024 (S.I. 2024/95)](https://www.legislation.gov.uk/uksi/2024/95), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/95/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/95/article/2/3))
+[^c-47db5d2d67cff21b538c4add4b11d9c0]: Modification: Sch. Pt. 1 modified (temp.) (30.1.2024) by S.I. 2023/1137, Sch. 1 para. 6(5)(6)(7) (as inserted by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2024 (S.I. 2024/95)](https://www.legislation.gov.uk/uksi/2024/95), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2024/95/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/95/article/2/3))
 
-[^key-cfb538a0c159c8ad88e50ab6aa58b688]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/1405/schedule/part/1) Form D substituted (4.12.2024) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2024 (S.I. 2024/1273)](https://www.legislation.gov.uk/uksi/2024/1273), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1273/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/1273/schedule/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1273/article/1/3))
+[^c-cfb538a0c159c8ad88e50ab6aa58b688]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/1405/schedule/part/1) Form D substituted (4.12.2024) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2024 (S.I. 2024/1273)](https://www.legislation.gov.uk/uksi/2024/1273), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1273/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/1273/schedule/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1273/article/1/3))
 
-[^key-7111266adc7913e48f1f2cd367fb4195]: Textual amendment: Sch. 1 Pt. 1 Form E substituted (12.12.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) (No. 2) Order 2023 (S.I. 2023/1305)](https://www.legislation.gov.uk/uksi/2023/1305), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1305/schedule/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/3))
+[^c-7111266adc7913e48f1f2cd367fb4195]: Textual amendment: Sch. 1 Pt. 1 Form E substituted (12.12.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) (No. 2) Order 2023 (S.I. 2023/1305)](https://www.legislation.gov.uk/uksi/2023/1305), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1305/schedule/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/3))
 
-[^key-67736d045545f76e3328e5f01cb78caf]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/1405/schedule/part/1) Form F substituted (4.12.2024) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2024 (S.I. 2024/1273)](https://www.legislation.gov.uk/uksi/2024/1273), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1273/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/1273/schedule/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1273/article/1/3))
+[^c-67736d045545f76e3328e5f01cb78caf]: Textual amendment: [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/1405/schedule/part/1) Form F substituted (4.12.2024) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2024 (S.I. 2024/1273)](https://www.legislation.gov.uk/uksi/2024/1273), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/1273/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2024/1273/schedule/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/1273/article/1/3))
 
-[^key-e849c79c09674c98b8a680c9a606487f]: Textual amendment: Sch. 1 Pt. 1 Form G substituted (12.12.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) (No. 2) Order 2023 (S.I. 2023/1305)](https://www.legislation.gov.uk/uksi/2023/1305), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1305/schedule/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/3))
+[^c-e849c79c09674c98b8a680c9a606487f]: Textual amendment: Sch. 1 Pt. 1 Form G substituted (12.12.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) (No. 2) Order 2023 (S.I. 2023/1305)](https://www.legislation.gov.uk/uksi/2023/1305), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1305/schedule/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/3))
 
 [^M_F_d0412e1a-a983-4b69-ff8c-992145a5af89]: Textual amendment: Sch. Pt. 1 Form J substituted (31.1.2024) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) Order 2023 (S.I. 2023/1137)](https://www.legislation.gov.uk/uksi/2023/1137), [arts. 1(3)(b)](https://www.legislation.gov.uk/uksi/2023/1137/article/1/3/b), [3](https://www.legislation.gov.uk/uksi/2023/1137/article/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2023/1137/schedule/3) (with [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/uksi/2023/1137/schedule/1/paragraph/6/1))
 
-[^key-bb7673096188105d78edea09765ae895]: Textual amendment: Sch. 1 Pt. 1 Form K substituted (12.12.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) (No. 2) Order 2023 (S.I. 2023/1305)](https://www.legislation.gov.uk/uksi/2023/1305), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1305/schedule/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/3))
+[^c-bb7673096188105d78edea09765ae895]: Textual amendment: Sch. 1 Pt. 1 Form K substituted (12.12.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) (No. 2) Order 2023 (S.I. 2023/1305)](https://www.legislation.gov.uk/uksi/2023/1305), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1305/schedule/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/3))
 
-[^key-3f638d71bb79313b6734acfaf3e5fae2]: Textual amendment: Sch. 1 Pt. 1 Form L substituted (12.12.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) (No. 2) Order 2023 (S.I. 2023/1305)](https://www.legislation.gov.uk/uksi/2023/1305), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1305/schedule/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/3))
+[^c-3f638d71bb79313b6734acfaf3e5fae2]: Textual amendment: Sch. 1 Pt. 1 Form L substituted (12.12.2023) by [The Parliamentary Elections and Recall Petition (Welsh Forms) (Amendment) (No. 2) Order 2023 (S.I. 2023/1305)](https://www.legislation.gov.uk/uksi/2023/1305), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2023/1305/schedule/2) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2023/1305/article/1/3))
 
-[^key-ae260c5b01b87a1d9beb2df2c1633afa]: Commencement: Sch. Pt. 2 in force at 16.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1405/article/1/2)
+[^c-ae260c5b01b87a1d9beb2df2c1633afa]: Commencement: Sch. Pt. 2 in force at 16.1.2023, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2022/1405/article/1/2)

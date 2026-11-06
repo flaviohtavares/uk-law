@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 20
 
-### 1. Primary and Secondary Schools[^key-d6dab953ddcf418422e37a78273056a9]
+### 1. Primary and Secondary Schools[^c-d6dab953ddcf418422e37a78273056a9]
 
 In this paragraph and paragraphs 2 to 4—
 
@@ -55,7 +55,7 @@ In this paragraph and paragraphs 2 to 4—
 
   adjusted in accordance with sub-paragraph (e) or (f), whichever is applicable.
 
-**2.**[^key-94d80b2fc30063883791590863d4719c] Subject to paragraphs 3 and 4, the guaranteed funding level is to be calculated as follows—
+**2.**[^c-94d80b2fc30063883791590863d4719c] Subject to paragraphs 3 and 4, the guaranteed funding level is to be calculated as follows—
 
 - (a) for funding period 1—
   - (i) where the relevant number of pupils is the same as the relevant number for the financial year beginning on 1st April 2007, the guaranteed funding level must be A,
@@ -77,7 +77,7 @@ A is, in respect of funding period 1, the redetermined adjusted budget share for
 - B is, in respect of funding period 1, the difference between the relevant number of pupils for the financial year beginning on 1st April 2007 and funding period 1, in respect of funding period 2, the difference between the relevant number of pupils for funding period 1 and funding period 2, and, in respect of funding period 3, the difference between the relevant number of pupils for funding period 2 and funding period 3;
 - C is, in respect of funding period 1, the mean value of funding per pupil in the school’s redetermined adjusted budget share for the financial year beginning on 1st April 2007 (calculated using pupil numbers on 18th January 2007) multiplied by 1.021 x 0.80 in respect of primary schools and by 1.021 x 0.875 in respect of secondary schools; in respect of funding period 2, the mean value of funding per pupil in the school’s redetermined adjusted budget share for funding period 1 (calculated using pupil numbers on 17th January 2008) multiplied by 1.021 x 0.80 in respect of primary schools and by 1.021 x 0.875 in respect of secondary schools; and in respect of funding period 3, the mean value of funding per pupil in the school’s adjusted budget share for funding period 2 (calculated using pupil numbers on 15th January 2009) multiplied by 1.021 x 0.80 in respect of primary schools and by 1.021 x 0.875 in respect of secondary schools.
 
-**3.**[^key-0c15eb32e154fc3b26fbf6afcf0c285a] Except where paragraph 4 applies, where the relevant number of pupils for the financial year beginning on 1st April 2007, funding period 1, funding period 2, or funding period 3 is 75 or fewer, that school’s guaranteed funding level for the funding period, or periods as the case may be, during which the number is 75 or fewer, must be calculated as follows:
+**3.**[^c-0c15eb32e154fc3b26fbf6afcf0c285a] Except where paragraph 4 applies, where the relevant number of pupils for the financial year beginning on 1st April 2007, funding period 1, funding period 2, or funding period 3 is 75 or fewer, that school’s guaranteed funding level for the funding period, or periods as the case may be, during which the number is 75 or fewer, must be calculated as follows:
 
 - (a) for funding period 1—
   - (i) where the relevant number of pupils in funding period 1 is the same as the relevant number for the financial year beginning on 1st April 2007 the guaranteed funding level must be A,
@@ -99,13 +99,13 @@ where—
 - E is, in respect of funding period 1, the relevant number of pupils for the financial year beginning 1<sup>st</sup> April 2007’ in respect of funding period 2, the relevant number of pupils for funding period 1, and, in respect of funding period 3, the relevant number of pupils for funding period 2.
 - For the purposes of this paragraph, “the relevant number” means, in respect of funding period 1, either the number of pupils registered at the school on 18th January 2007 or the number of pupils registered at the school on 17th January 2008; in respect of funding period 2, either the number of pupils registered at the school on 17th January 2008 or the number of pupils registered at the school on 15th January 2009; and, in respect of funding period 3, either the number of registered pupils at the school on 15th January 2009, or the number of pupils registered at the school on 21st January 2010.
 
-**4.**[^key-62ea886b6747c601cbc8c4227b4ebc60] Where a school opens:
+**4.**[^c-62ea886b6747c601cbc8c4227b4ebc60] Where a school opens:
 
 - (a) in funding period 1, and is a replacement for two or more schools being discontinued in funding period 1, its guaranteed funding level must be calculated in accordance with paragraph 2, save that the figure in respect of the new school’s redetermined adjusted budget share for the financial year beginning on 1st April 2007 is to be determined using the sum of the relevant number of pupils in the discontinued schools for that financial year as the relevant number for the purposes of paragraph 1(b);
 - (b) in funding period 2, and is a replacement for two or more schools being discontinued in funding period 2, its guaranteed funding level must be calculated in accordance with paragraph 2, save that the figure in respect of the new school’s redetermined adjusted budget share for funding period 1 is to be determined using the sum of the relevant number of pupils in the discontinued schools for that funding period as the relevant number for the purposes of paragraph 1(c);
 - (c) in funding period 3, and is a replacement for two or more schools being discontinued in funding period 3, its guaranteed funding level must be calculated in accordance with paragraph 2, save that the figure in respect of the new school’s redetermined adjusted budget share for funding period 2 is to be determined using the sum of the relevant number of pupils in the discontinued schools for that funding period as the relevant number for the purposes of paragraph 1(c).
 
-### 5. Special Schools[^key-9c515f659513df8a51ab3c43a22f4a4f]
+### 5. Special Schools[^c-9c515f659513df8a51ab3c43a22f4a4f]
 
 (1) A local education authority must provide in their formula that any amount allocated in accordance with regulation 16(1)(a) in respect of a place at a special school—
 
@@ -120,14 +120,14 @@ where—
 
 ## Annotations
 
-[^key-d6dab953ddcf418422e37a78273056a9]: Commencement: Sch. 4 para. 1 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-d6dab953ddcf418422e37a78273056a9]: Commencement: Sch. 4 para. 1 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
 [^f00085]: Footnote: For the purposes of this Schedule, “MFG” means Minimum Funding Guarantee; “PFI” means Private Finance Initiative; “NQTs” means Newly Qualified Teachers; and “ICS” means Infant Class Sizes.
 
-[^key-94d80b2fc30063883791590863d4719c]: Commencement: Sch. 4 para. 2 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-94d80b2fc30063883791590863d4719c]: Commencement: Sch. 4 para. 2 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
-[^key-0c15eb32e154fc3b26fbf6afcf0c285a]: Commencement: Sch. 4 para. 3 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-0c15eb32e154fc3b26fbf6afcf0c285a]: Commencement: Sch. 4 para. 3 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
-[^key-62ea886b6747c601cbc8c4227b4ebc60]: Commencement: Sch. 4 para. 4 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-62ea886b6747c601cbc8c4227b4ebc60]: Commencement: Sch. 4 para. 4 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
 
-[^key-9c515f659513df8a51ab3c43a22f4a4f]: Commencement: Sch. 4 para. 5 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-9c515f659513df8a51ab3c43a22f4a4f]: Commencement: Sch. 4 para. 5 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

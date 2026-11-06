@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 302.[^key-a3a6724c7300574fc215227a6b857c0c]
+## 302.[^c-a3a6724c7300574fc215227a6b857c0c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In the Annex—
 
 ## Annotations
 
-[^key-a3a6724c7300574fc215227a6b857c0c]: Commencement: Reg. 302 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a3a6724c7300574fc215227a6b857c0c]: Commencement: Reg. 302 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

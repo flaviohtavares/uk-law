@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Transfer of functions of certain tribunals[^key-00d9e92ee584ba65f24fa9dc5f34a900]
+## 3. Transfer of functions of certain tribunals[^c-00d9e92ee584ba65f24fa9dc5f34a900]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-00d9e92ee584ba65f24fa9dc5f34a900]: Commencement: Art. 3 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
+[^c-00d9e92ee584ba65f24fa9dc5f34a900]: Commencement: Art. 3 in force at 3.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2008/2833/article/1/1)
 
 [^f00002]: Footnote: [1998 c.14](https://www.legislation.gov.uk/ukpga/1998/14).
 

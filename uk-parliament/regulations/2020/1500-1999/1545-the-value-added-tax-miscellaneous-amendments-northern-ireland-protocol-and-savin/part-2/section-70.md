@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70.[^key-38b095c22283cd6e350222a9f6a3be15]
+## 70.[^c-38b095c22283cd6e350222a9f6a3be15]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In regulation 129 (supplies to overseas persons)—
 
 ## Annotations
 
-[^key-38b095c22283cd6e350222a9f6a3be15]: Commencement: Reg. 70 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-38b095c22283cd6e350222a9f6a3be15]: Commencement: Reg. 70 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)

@@ -48,15 +48,15 @@ The Secretary of State, in exercise of the powers conferred by sections 163 and 
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-d6288275d68d87de3d655c02090bf5d4]
+### 1. Citation and commencement[^c-d6288275d68d87de3d655c02090bf5d4]
 
 These Rules may be cited as the Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) Rules 2009 and shall come into force on 31st October 2009.
 
-### 2. Application[^key-3c196335aaf609d3494819c31b293ccb]
+### 2. Application[^c-3c196335aaf609d3494819c31b293ccb]
 
 These Rules apply to any proceedings before the Court Martial and the Service Civilian Court.
 
-### 3. Interpretation[^key-955e97d71cf5db85e2109ec8ce434f57]
+### 3. Interpretation[^c-955e97d71cf5db85e2109ec8ce434f57]
 
 (1) In these Rules—
 
@@ -74,8 +74,8 @@ These Rules apply to any proceedings before the Court Martial and the Service Ci
   - (b) in relation to any proceedings before the Service Civilian Court, means the judge advocate specified for the proceedings under section 278(2) of the 2006 Act;
 - “**legal representative**”—
   - (a) in relation to proceedings before the Court Martial, means a person appointed under rule 39 of the Court Martial Rules;
-  - (b) in relation to proceedings before the Service Civilian Court, means a person appointed under rule 26 of the SCC Rules;[^key-245e2659f81cd0399a61e3953070ec32]
-- “[^key-9f495bf9485a7332887808b49ab2f4bc]**person concerned in the proceedings**” means—
+  - (b) in relation to proceedings before the Service Civilian Court, means a person appointed under rule 26 of the SCC Rules;[^c-245e2659f81cd0399a61e3953070ec32]
+- “[^c-9f495bf9485a7332887808b49ab2f4bc]**person concerned in the proceedings**” means—
   - (a) in relation to an application in any proceedings for a direction under section 45(3), or an excepting direction under section 45(4) or (5) of the 1999 Act, a person falling within section 45(7) of that Act;
   - (b) in relation to an application in any proceedings for a reporting direction under section 45A(2), or an excepting direction under section 45A(10), of the 1999 Act, a person falling within section 45A(3) of that Act;
   - (c) in relation to an application in any proceedings for a reporting direction under section 46(2), or an excepting direction under section 46(9), of the 1999 Act, a witness falling within section 46(1) of that Act;
@@ -93,7 +93,7 @@ These Rules apply to any proceedings before the Court Martial and the Service Ci
 
 ## PART 2 — Restriction on cross-examination by a defendant acting in person
 
-### 4. Application for direction prohibiting defendant from cross-examining witness in person[^key-d9941aecf25609f1db2441dad1753124]
+### 4. Application for direction prohibiting defendant from cross-examining witness in person[^c-d9941aecf25609f1db2441dad1753124]
 
 (1) Subject to paragraph (8)(a), an application by the Director for the judge advocate to give a direction under section 36 of the 1999 Act in relation to any witness must be sent to the court administration officer and at the same time a copy of the application must be sent by the applicant to every other party to the proceedings.
 
@@ -136,7 +136,7 @@ These Rules apply to any proceedings before the Court Martial and the Service Ci
 - (a) give reasons why the application was not made before the trial commenced; and
 - (b) provide the judge advocate with the information set out in paragraph (2).
 
-### 5. Restrictions on cross-examination of witness[^key-8e02f666d0e7cac7cb7e5c943dd46fb7]
+### 5. Restrictions on cross-examination of witness[^c-8e02f666d0e7cac7cb7e5c943dd46fb7]
 
 (1) This rule and rules 6 and 7 apply where a defendant is prevented from cross-examining a witness in person by virtue of section 34, 35 or a direction under section 36 of the 1999 Act.
 
@@ -163,13 +163,13 @@ These Rules apply to any proceedings before the Court Martial and the Service Ci
 
 (11) The decision of the judge advocate as to whether to grant the defendant an extension of time must be notified to all the parties to the proceedings by the court administration officer.
 
-### 6. Appointment of legal representative by the judge advocate[^key-8f20e2f3e1f33fbc9a2801defd39285d]
+### 6. Appointment of legal representative by the judge advocate[^c-8f20e2f3e1f33fbc9a2801defd39285d]
 
 (1) Where the judge advocate decides, in accordance with section 38(4) of the 1999 Act, to appoint a legal representative, the court administration officer must notify all the parties to the proceedings of the name and address of the representative.
 
 (2) An appointment made by the judge advocate under section 38(4) of the 1999 Act shall, except to such extent as the judge advocate may in any particular case determine, terminate at the conclusion of the cross-examination of the witness or witnesses in respect of whom a prohibition under section 34, 35 or a direction under section 36 of the 1999 Act applies.
 
-### 7. Appointment arranged by the defendant[^key-cf84f27029892adf798fc8d641d9711d]
+### 7. Appointment arranged by the defendant[^c-cf84f27029892adf798fc8d641d9711d]
 
 (1) The defendant may arrange for the legal representative, appointed by the judge advocate under section 38(4) of the 1999 Act, to be appointed to act for him for the purpose of cross-examining any witness in respect of whom a prohibition under section 34, 35 or a direction under section 36 of the 1999 Act applies.
 
@@ -194,7 +194,7 @@ These Rules apply to any proceedings before the Court Martial and the Service Ci
 
 ## PART 3 — Evidence of a complainant’s previous sexual behaviour
 
-### 8. Evidence of a complainant’s previous sexual behaviour[^key-456f6834b04cf234ca65577e52841b08]
+### 8. Evidence of a complainant’s previous sexual behaviour[^c-456f6834b04cf234ca65577e52841b08]
 
 (1) An application for leave under section 41(2) of the 1999 Act must, except where paragraph (13) applies, be made in writing to the court administration officer and must—
 
@@ -258,7 +258,7 @@ These Rules apply to any proceedings before the Court Martial and the Service Ci
 
 ## PART 4 — Restrictions on reporting
 
-### 9. Application for a direction under section 45(3) of the 1999 Act or for a reporting direction[^key-5813919f9bd96aa808269d160203f405]
+### 9. Application for a direction under section 45(3) of the 1999 Act or for a reporting direction[^c-5813919f9bd96aa808269d160203f405]
 
 (1) An application in any proceedings for a direction under section 45(3) of the 1999 Act or for a reporting direction under section 45A(2) of that Act may be made by any person who in the view of the judge advocate has a legitimate interest in making such an application.
 
@@ -297,7 +297,7 @@ These Rules apply to any proceedings before the Court Martial and the Service Ci
 - (a) send it to the court administration officer; and
 - (b) at the same time, send copies of it to every party or, as the case may be, every other party to the proceedings.
 
-### 10. Opposing an application for a direction under section 45(3) of the 1999 Act or for a reporting direction[^key-9401c0221e5b0bbd333b9877b4cb1945]
+### 10. Opposing an application for a direction under section 45(3) of the 1999 Act or for a reporting direction[^c-9401c0221e5b0bbd333b9877b4cb1945]
 
 (1) If an application for a direction under section 45(3) of the 1999 Act or for a reporting direction is made in writing, any party to the proceedings who wishes to oppose that application must notify the applicant and the court administration officer in writing of his or her opposition and give reasons for it.
 
@@ -321,7 +321,7 @@ These Rules apply to any proceedings before the Court Martial and the Service Ci
 
 (8) The notification under paragraph (1) must be given within 5 working days of the date the application was served on the party to the proceedings unless an extension of time is granted under rule 14.
 
-### 11. Urgent applications for a direction under section 45(3) of the 1999 Act or for a reporting direction[^key-4f9c9379e893efd563ea9ab4d18b73c7]
+### 11. Urgent applications for a direction under section 45(3) of the 1999 Act or for a reporting direction[^c-4f9c9379e893efd563ea9ab4d18b73c7]
 
 (1) With the leave of the judge advocate, a person who may make an application in writing under rule 9(2) may instead make an oral application under this rule.
 
@@ -329,7 +329,7 @@ These Rules apply to any proceedings before the Court Martial and the Service Ci
 
 (3) A person who seeks leave to make an application under this rule must explain the circumstances which justify making an oral application.
 
-### 12. Application for an excepting direction under section 45(4) or (5), 45A(10) or 46(9) of the 1999 Act[^key-e6a10564f2ab00fc72622317059b0b8f]
+### 12. Application for an excepting direction under section 45(4) or (5), 45A(10) or 46(9) of the 1999 Act[^c-e6a10564f2ab00fc72622317059b0b8f]
 
 (1) An application for an excepting direction under section 45(4) or (5), 45A(10) or 46(9) of the 1999 Act may be made by—
 
@@ -366,11 +366,11 @@ These Rules apply to any proceedings before the Court Martial and the Service Ci
 
 (7) The notification under paragraph (6) must be given within 5 working days of the date the application was served on that person unless an extension of time is granted under rule 14.
 
-### 13. Variation or revocation of directions[^key-82cb817cdc1c03e1fc118ae4c7074974][^key-9572cd62d7c3719b5f669ce969f578a0]
+### 13. Variation or revocation of directions[^c-82cb817cdc1c03e1fc118ae4c7074974][^c-9572cd62d7c3719b5f669ce969f578a0]
 
 (1) An application to—
 
-- (a) revoke a direction under section 45(3) of the 1999 Act or[^key-251342aea192669802387117c73ace47] a reporting direction, or
+- (a) revoke a direction under section 45(3) of the 1999 Act or[^c-251342aea192669802387117c73ace47] a reporting direction, or
 - (b) vary or revoke an excepting direction,
 
 may be made at any time after the commencement of the proceedings in the court.
@@ -385,15 +385,15 @@ may be made at any time after the commencement of the proceedings in the court.
 
 (6) Any notification under paragraph (5) must be given within 5 working days of the date the application was served on him unless an extension of time is granted under rule 14.
 
-### 14. Application for an extension of time[^key-d946d710d5d758967a0eed485b1029f7]
+### 14. Application for an extension of time[^c-d946d710d5d758967a0eed485b1029f7]
 
-(1) An application may be made in writing to extend the period of time for notification under rule 10(8)[^key-5a0c93b460277cce5aebd674c34c67fb], rule 12(7) or rule 13(6) before that period has expired.
+(1) An application may be made in writing to extend the period of time for notification under rule 10(8)[^c-5a0c93b460277cce5aebd674c34c67fb], rule 12(7) or rule 13(6) before that period has expired.
 
 (2) An application must be accompanied by a statement setting out the reasons why the applicant is unable to give notification within that period.
 
 (3) An application must be sent to the court administration officer and a copy of the application must be sent at the same time to the applicant.
 
-### 15. Decision of the judge advocate[^key-326d605fc1cd7f45c9e00d36642e8103]
+### 15. Decision of the judge advocate[^c-326d605fc1cd7f45c9e00d36642e8103]
 
 (1) The judge advocate may—
 
@@ -408,7 +408,7 @@ may be made at any time after the commencement of the proceedings in the court.
 
 ## PART 5 — Revocations
 
-### 16. Revocations[^key-023c6a02380ffe33cfc8992071eee02d]
+### 16. Revocations[^c-023c6a02380ffe33cfc8992071eee02d]
 
 (1) The Courts-Martial (Royal Navy, Army and Royal Air Force) (Evidence) Rules 2006[^f00005] are revoked to the extent that they are not otherwise revoked by the repeal of section 103 of the Army Act 1955[^f00006], section 103 of the Air Force Act 1955[^f00007] or section 58 of the Naval Discipline Act 1957[^f00008].
 
@@ -442,51 +442,51 @@ In Part 5 of these Rules, rule 16 revokes existing evidence rules for court-mart
 
 [^f00002]: Footnote: [1999 c. 23](https://www.legislation.gov.uk/ukpga/1999/23); the Youth Justice and Criminal Evidence Act 1999 (Application to Service Courts) Order 2009 ([S.I. 2009/2083](https://www.legislation.gov.uk/uksi/2009/2083)) made under section 61(1) and (2) applies provisions of Chapters 1 to 3 and 5 of Part 2 (and sections 62, 63 and 65 so far as having effect for the purpose of those Chapters) to proceedings before service courts subject to the modifications specified in that Order. The 2009 Order also modifies the effect of Chapter 4 of Part 2 (and sections 62, 63 and 65 so far as having effect for the purpose of that Chapter) for the purposes of proceedings before service courts.
 
-[^key-d6288275d68d87de3d655c02090bf5d4]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+[^c-d6288275d68d87de3d655c02090bf5d4]: Commencement: [Rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
 
-[^key-3c196335aaf609d3494819c31b293ccb]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2009/2100/rule/2) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+[^c-3c196335aaf609d3494819c31b293ccb]: Commencement: [Rule 2](https://www.legislation.gov.uk/uksi/2009/2100/rule/2) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
 
-[^key-955e97d71cf5db85e2109ec8ce434f57]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2009/2100/rule/3) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+[^c-955e97d71cf5db85e2109ec8ce434f57]: Commencement: [Rule 3](https://www.legislation.gov.uk/uksi/2009/2100/rule/3) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
 
 [^f00003]: Footnote: [S.I. 2009/2041](https://www.legislation.gov.uk/uksi/2009/2041).
 
 [^f00004]: Footnote: [S.I. 2009/1209](https://www.legislation.gov.uk/uksi/2009/1209).
 
-[^key-245e2659f81cd0399a61e3953070ec32]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/uksi/2009/2100/rule/3/1) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/726/rule/3/a)
+[^c-245e2659f81cd0399a61e3953070ec32]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/uksi/2009/2100/rule/3/1) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/726/rule/3/a)
 
-[^key-9f495bf9485a7332887808b49ab2f4bc]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/uksi/2009/2100/rule/3/1) inserted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/726/rule/3/b)
+[^c-9f495bf9485a7332887808b49ab2f4bc]: Textual amendment: Words in [rule 3(1)](https://www.legislation.gov.uk/uksi/2009/2100/rule/3/1) inserted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [3(b)](https://www.legislation.gov.uk/uksi/2015/726/rule/3/b)
 
-[^key-d9941aecf25609f1db2441dad1753124]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2009/2100/rule/4) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+[^c-d9941aecf25609f1db2441dad1753124]: Commencement: [Rule 4](https://www.legislation.gov.uk/uksi/2009/2100/rule/4) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
 
-[^key-8e02f666d0e7cac7cb7e5c943dd46fb7]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2009/2100/rule/5) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+[^c-8e02f666d0e7cac7cb7e5c943dd46fb7]: Commencement: [Rule 5](https://www.legislation.gov.uk/uksi/2009/2100/rule/5) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
 
-[^key-8f20e2f3e1f33fbc9a2801defd39285d]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2009/2100/rule/6) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+[^c-8f20e2f3e1f33fbc9a2801defd39285d]: Commencement: [Rule 6](https://www.legislation.gov.uk/uksi/2009/2100/rule/6) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
 
-[^key-cf84f27029892adf798fc8d641d9711d]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2009/2100/rule/7) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+[^c-cf84f27029892adf798fc8d641d9711d]: Commencement: [Rule 7](https://www.legislation.gov.uk/uksi/2009/2100/rule/7) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
 
-[^key-456f6834b04cf234ca65577e52841b08]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2009/2100/rule/8) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+[^c-456f6834b04cf234ca65577e52841b08]: Commencement: [Rule 8](https://www.legislation.gov.uk/uksi/2009/2100/rule/8) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
 
-[^key-5813919f9bd96aa808269d160203f405]: Textual amendment: [Rule 9](https://www.legislation.gov.uk/uksi/2009/2100/rule/9) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [4](https://www.legislation.gov.uk/uksi/2015/726/rule/4)
+[^c-5813919f9bd96aa808269d160203f405]: Textual amendment: [Rule 9](https://www.legislation.gov.uk/uksi/2009/2100/rule/9) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [4](https://www.legislation.gov.uk/uksi/2015/726/rule/4)
 
-[^key-9401c0221e5b0bbd333b9877b4cb1945]: Textual amendment: [Rule 10](https://www.legislation.gov.uk/uksi/2009/2100/rule/10) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [5](https://www.legislation.gov.uk/uksi/2015/726/rule/5)
+[^c-9401c0221e5b0bbd333b9877b4cb1945]: Textual amendment: [Rule 10](https://www.legislation.gov.uk/uksi/2009/2100/rule/10) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [5](https://www.legislation.gov.uk/uksi/2015/726/rule/5)
 
-[^key-4f9c9379e893efd563ea9ab4d18b73c7]: Textual amendment: [Rule 11](https://www.legislation.gov.uk/uksi/2009/2100/rule/11) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [6](https://www.legislation.gov.uk/uksi/2015/726/rule/6)
+[^c-4f9c9379e893efd563ea9ab4d18b73c7]: Textual amendment: [Rule 11](https://www.legislation.gov.uk/uksi/2009/2100/rule/11) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [6](https://www.legislation.gov.uk/uksi/2015/726/rule/6)
 
-[^key-e6a10564f2ab00fc72622317059b0b8f]: Textual amendment: [Rule 12](https://www.legislation.gov.uk/uksi/2009/2100/rule/12) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [7](https://www.legislation.gov.uk/uksi/2015/726/rule/7)
+[^c-e6a10564f2ab00fc72622317059b0b8f]: Textual amendment: [Rule 12](https://www.legislation.gov.uk/uksi/2009/2100/rule/12) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [7](https://www.legislation.gov.uk/uksi/2015/726/rule/7)
 
-[^key-82cb817cdc1c03e1fc118ae4c7074974]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2009/2100/rule/13) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+[^c-82cb817cdc1c03e1fc118ae4c7074974]: Commencement: [Rule 13](https://www.legislation.gov.uk/uksi/2009/2100/rule/13) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
 
-[^key-9572cd62d7c3719b5f669ce969f578a0]: Textual amendment: Word in [rule 13](https://www.legislation.gov.uk/uksi/2009/2100/rule/13) heading substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/726/rule/8/2)
+[^c-9572cd62d7c3719b5f669ce969f578a0]: Textual amendment: Word in [rule 13](https://www.legislation.gov.uk/uksi/2009/2100/rule/13) heading substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/726/rule/8/2)
 
-[^key-251342aea192669802387117c73ace47]: Textual amendment: Words in [rule 13(1)(a)](https://www.legislation.gov.uk/uksi/2009/2100/rule/13/1/a) inserted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/726/rule/8/3)
+[^c-251342aea192669802387117c73ace47]: Textual amendment: Words in [rule 13(1)(a)](https://www.legislation.gov.uk/uksi/2009/2100/rule/13/1/a) inserted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [8(3)](https://www.legislation.gov.uk/uksi/2015/726/rule/8/3)
 
-[^key-d946d710d5d758967a0eed485b1029f7]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2009/2100/rule/14) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+[^c-d946d710d5d758967a0eed485b1029f7]: Commencement: [Rule 14](https://www.legislation.gov.uk/uksi/2009/2100/rule/14) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
 
-[^key-5a0c93b460277cce5aebd674c34c67fb]: Textual amendment: Words in [rule 14(1)](https://www.legislation.gov.uk/uksi/2009/2100/rule/14/1) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [9](https://www.legislation.gov.uk/uksi/2015/726/rule/9)
+[^c-5a0c93b460277cce5aebd674c34c67fb]: Textual amendment: Words in [rule 14(1)](https://www.legislation.gov.uk/uksi/2009/2100/rule/14/1) substituted (13.4.2015) by [The Court Martial and Service Civilian Court (Youth Justice and Criminal Evidence Act 1999) (Amendment) Rules 2015 (S.I. 2015/726)](https://www.legislation.gov.uk/uksi/2015/726), [rules 1](https://www.legislation.gov.uk/uksi/2015/726/rule/1), [9](https://www.legislation.gov.uk/uksi/2015/726/rule/9)
 
-[^key-326d605fc1cd7f45c9e00d36642e8103]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2009/2100/rule/15) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+[^c-326d605fc1cd7f45c9e00d36642e8103]: Commencement: [Rule 15](https://www.legislation.gov.uk/uksi/2009/2100/rule/15) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
 
-[^key-023c6a02380ffe33cfc8992071eee02d]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2009/2100/rule/16) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
+[^c-023c6a02380ffe33cfc8992071eee02d]: Commencement: [Rule 16](https://www.legislation.gov.uk/uksi/2009/2100/rule/16) in force at 31.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2100/rule/1)
 
 [^f00005]: Footnote: [S.I. 2006/2889](https://www.legislation.gov.uk/uksi/2006/2889).
 

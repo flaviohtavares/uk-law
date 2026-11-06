@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Issue, purchase and recording of children’s certificates[^key-104cf625c8adf8f2ce8b5d14487aca88]
+## 56. Issue, purchase and recording of children’s certificates[^c-104cf625c8adf8f2ce8b5d14487aca88]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-104cf625c8adf8f2ce8b5d14487aca88]: Commencement: Reg. 56 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-104cf625c8adf8f2ce8b5d14487aca88]: Commencement: Reg. 56 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

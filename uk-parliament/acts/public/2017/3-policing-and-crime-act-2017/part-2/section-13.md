@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Local policing bodies: functions in relation to complaints[^c22718431][^key-2a3d46c0d4a6f751d1194cd2f6553a81]
+## 13. Local policing bodies: functions in relation to complaints[^c22718431][^c-2a3d46c0d4a6f751d1194cd2f6553a81]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ In Part 2 of the Police Reform Act 2002 (complaints and misconduct), after secti
 
 [^c22718431]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/3/section/13) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-2a3d46c0d4a6f751d1194cd2f6553a81]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/3/section/13) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-2a3d46c0d4a6f751d1194cd2f6553a81]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2017/3/section/13) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/a) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))

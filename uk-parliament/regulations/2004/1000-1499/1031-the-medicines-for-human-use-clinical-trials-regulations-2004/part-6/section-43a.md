@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Approved country for import[^key-613866e601cb2504b86206b2607a7c24]
+## 43A. Approved country for import[^c-613866e601cb2504b86206b2607a7c24]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-613866e601cb2504b86206b2607a7c24]: Textual amendment: Reg. 43A inserted (31.12.2020) by [The Medicines for Human Use (Clinical Trials) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/744)](https://www.legislation.gov.uk/uksi/2019/744), [regs. 1](https://www.legislation.gov.uk/uksi/2019/744/regulation/1), [19](https://www.legislation.gov.uk/uksi/2019/744/regulation/19) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2020/1488/schedule/1/paragraph/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-613866e601cb2504b86206b2607a7c24]: Textual amendment: Reg. 43A inserted (31.12.2020) by [The Medicines for Human Use (Clinical Trials) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/744)](https://www.legislation.gov.uk/uksi/2019/744), [regs. 1](https://www.legislation.gov.uk/uksi/2019/744/regulation/1), [19](https://www.legislation.gov.uk/uksi/2019/744/regulation/19) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2020/1488/schedule/1/paragraph/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Transfer of status[^key-bd86c28d89c61bdbd6ff680a43d55f06]
+## 8. Transfer of status[^c-bd86c28d89c61bdbd6ff680a43d55f06]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd86c28d89c61bdbd6ff680a43d55f06]: Commencement: Reg. 8 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)
+[^c-bd86c28d89c61bdbd6ff680a43d55f06]: Commencement: Reg. 8 in force at 17.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2017/47/regulation/1/2)

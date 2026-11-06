@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Alteration of rates of contributions under s. 37.[^key-6ad3c1d390cc3fd7f7b302e4fd7c9ed4]
+## 38. Alteration of rates of contributions under s. 37.[^c-6ad3c1d390cc3fd7f7b302e4fd7c9ed4]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ad3c1d390cc3fd7f7b302e4fd7c9ed4]: Textual amendment: S. 38 repealed (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 30](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/30)
+[^c-6ad3c1d390cc3fd7f7b302e4fd7c9ed4]: Textual amendment: S. 38 repealed (6.4.2016) by [Pensions Act (Northern Ireland) 2015 (c. 5)](https://www.legislation.gov.uk/nia/2015/5), [s. 53(3)](https://www.legislation.gov.uk/nia/2015/5/section/53/3), [Sch. 13 para. 30](https://www.legislation.gov.uk/nia/2015/5/schedule/13/paragraph/30)

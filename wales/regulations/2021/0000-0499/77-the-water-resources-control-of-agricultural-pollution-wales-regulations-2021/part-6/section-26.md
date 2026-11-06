@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Exemptions to the storage requirements[^key-4cede981daa7f7e87f9577c6d14a07dc]
+## 26. Exemptions to the storage requirements[^c-4cede981daa7f7e87f9577c6d14a07dc]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cede981daa7f7e87f9577c6d14a07dc]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2021/77/regulation/26) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-4cede981daa7f7e87f9577c6d14a07dc]: Commencement: [Reg. 26](https://www.legislation.gov.uk/wsi/2021/77/regulation/26) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

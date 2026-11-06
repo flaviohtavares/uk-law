@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Mandatory reporting of occurrences[^key-6ca60fb444ec2e616cb2249036f5f033]
+## 142. Mandatory reporting of occurrences[^c-6ca60fb444ec2e616cb2249036f5f033]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ca60fb444ec2e616cb2249036f5f033]: Textual amendment: [Art. 142](https://www.legislation.gov.uk/uksi/2015/870/article/142) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [10](https://www.legislation.gov.uk/uksi/2020/1280/article/10)
+[^c-6ca60fb444ec2e616cb2249036f5f033]: Textual amendment: [Art. 142](https://www.legislation.gov.uk/uksi/2015/870/article/142) omitted (1.12.2020) by virtue of [The Air Navigation (Isle of Man) (Amendment) Order 2020 (S.I. 2020/1280)](https://www.legislation.gov.uk/uksi/2020/1280), [arts. 1](https://www.legislation.gov.uk/uksi/2020/1280/article/1), [10](https://www.legislation.gov.uk/uksi/2020/1280/article/10)

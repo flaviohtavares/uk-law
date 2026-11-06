@@ -24,7 +24,7 @@ Section 32
 
 ### Power to require evidence to be given or produced
 
-**1.**[^key-234f79904f22d32198b890f690f83b62] (1) A senior coroner may by notice require a person to attend at a time and place stated in the notice and—
+**1.**[^c-234f79904f22d32198b890f690f83b62] (1) A senior coroner may by notice require a person to attend at a time and place stated in the notice and—
 
 - (a) to give evidence at an inquest,
 - (b) to produce any documents in the custody or under the control of the person which relate to a matter that is relevant to an inquest, or
@@ -56,10 +56,10 @@ is to be determined by the senior coroner, who may revoke or vary the notice on 
 
 (8) A reference in this paragraph to a senior coroner is to be read as including the Coroner for Treasure.
 
-**2.**[^key-49be8f8e1a0bdacf46060d8f2fda4b1f] (1) A person may not be required to give, produce or provide any evidence or document under paragraph 1 if—
+**2.**[^c-49be8f8e1a0bdacf46060d8f2fda4b1f] (1) A person may not be required to give, produce or provide any evidence or document under paragraph 1 if—
 
 - (a) he or she could not be required to do so in civil proceedings in a court in England and Wales, or
-- (b) the requirement would be incompatible with an assimilated[^key-5e4b92880521a6912a316712c3d0381d] obligation.
+- (b) the requirement would be incompatible with an assimilated[^c-5e4b92880521a6912a316712c3d0381d] obligation.
 
 (2) The rules of law under which evidence or documents are permitted or required to be withheld on grounds of public interest immunity apply in relation to an investigation or inquest under this Part as they apply in relation to civil proceedings in a court in England and Wales.
 
@@ -124,7 +124,7 @@ may enter and search any land specified in the authorisation.
 
 ### Exhumation of body for examination
 
-**6.**[^key-ad4e5ab4156e8a93152e07453b39ad60] (1) A senior coroner may order the exhumation of a person's body if sub-paragraph (2) or (3) applies.
+**6.**[^c-ad4e5ab4156e8a93152e07453b39ad60] (1) A senior coroner may order the exhumation of a person's body if sub-paragraph (2) or (3) applies.
 
 (2) This sub-paragraph applies if—
 
@@ -142,7 +142,7 @@ may enter and search any land specified in the authorisation.
 
 ### Action to prevent other deaths
 
-**7.**[^key-55720d61f4d932e10af98bca03e57208] (1) Where—
+**7.**[^c-55720d61f4d932e10af98bca03e57208] (1) Where—
 
 - (a) a senior coroner has been conducting an investigation under this Part into a person's death,
 - (b) anything revealed by the investigation gives rise to a concern that circumstances creating a risk of other deaths will occur, or will continue to exist, in the future, and
@@ -156,12 +156,12 @@ the coroner must report the matter to a person who the coroner believes may have
 
 ## Annotations
 
-[^key-234f79904f22d32198b890f690f83b62]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/5/paragraph/1) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/k)
+[^c-234f79904f22d32198b890f690f83b62]: Commencement: [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2009/25/schedule/5/paragraph/1) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/k)
 
-[^key-49be8f8e1a0bdacf46060d8f2fda4b1f]: Commencement: Sch. 5 para. 2 in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/k)
+[^c-49be8f8e1a0bdacf46060d8f2fda4b1f]: Commencement: Sch. 5 para. 2 in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/k)
 
-[^key-5e4b92880521a6912a316712c3d0381d]: Textual amendment: Words in [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/5/paragraph/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 71](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/71)
+[^c-5e4b92880521a6912a316712c3d0381d]: Textual amendment: Words in [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/ukpga/2009/25/schedule/5/paragraph/2/1) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 71](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/71)
 
-[^key-ad4e5ab4156e8a93152e07453b39ad60]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/5/paragraph/6) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/k)
+[^c-ad4e5ab4156e8a93152e07453b39ad60]: Commencement: [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2009/25/schedule/5/paragraph/6) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/k)
 
-[^key-55720d61f4d932e10af98bca03e57208]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/5/paragraph/7) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/k)
+[^c-55720d61f4d932e10af98bca03e57208]: Commencement: [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2009/25/schedule/5/paragraph/7) in force at 25.7.2013 by [S.I. 2013/1869](https://www.legislation.gov.uk/uksi/2013/1869), [art. 2(k)](https://www.legislation.gov.uk/uksi/2013/1869/article/2/k)

@@ -22,7 +22,7 @@ summary: ''
 
 Article 10(1)
 
-**1.**[^key-83b1856c76891e250897fe20b92f91a6] In this Schedule—
+**1.**[^c-83b1856c76891e250897fe20b92f91a6] In this Schedule—
 
 - (a) “Chainage Reference” means the relevant chainage reference shown on the deposited plans and the deposited sections; and
 - (b) “Coordinates Reference” means the relevant coordinates reference shown on the deposited plans and the deposited sections and set out in the table below—
@@ -60,7 +60,7 @@ Article 10(1)
   | 29 | 571343 | 180918 |
   | 30 | 574391 | 181480 |
 
-**2.**[^key-4951a5cfd3805a31a11baf3445088fd3] The works referred to in article 10(1) are—
+**2.**[^c-4951a5cfd3805a31a11baf3445088fd3] The works referred to in article 10(1) are—
 
 - Work No. 1 — Improvement works to the A13/A128 Southfields Junction comprising a road (1400 metres in length) commencing at a point 650 metres west of the existing A128 Southfields Junction passing north-eastwards within a cutting, passing under an existing bridge and terminating 530 metres east of Barrington’s Farm and incorporating service crossings. The improved A13/A128 Southfields Junction will incorporate a circulatory road which will cross the road described in this work on bridges replacing the existing bridges and will incorporate slip roads and bell-mouth junctions enabling vehicular access to and egress from the improved A13/A128 Southfields Junction to and from the road described in this work, the A1013 Stanford Road west, the A1013 Stanford Road east, the A128 Brentwood Road north and the A128 Brentwood Road south.
 - Work No. 2 — Improvement works to the A13 comprising a road (1775 metres in length) commencing at the termination point of Work No. 1 passing north-eastwards for 300 metres within a cutting and terminating east of the existing cycleway FP48. The works will incorporate service crossings, areas for temporary or ancillary works, bell-mouth junctions with the A13 eastbound and A13 westbound service areas, and a footpath commencing at the point where the works join the existing footpath FP81 and terminating at a point 150 metres east of the A13 eastern service area. The road will be crossed by two new bridge works, the first carrying the existing footpath FP12 from a point 340 metres east of the eastern boundary of the A13 westbound service area, passing northwards over the road before terminating at a point 135 metres east of the A13 eastbound service area, and the second carrying the existing cycleway FP48 from a point 35 metres north-west of the A1013 Stanford Road, passing north-westwards over the road before terminating at a point 105 metres north-east of the property known as Talford.
@@ -91,6 +91,6 @@ Article 10(1)
 
 ## Annotations
 
-[^key-83b1856c76891e250897fe20b92f91a6]: Commencement: Sch. 1 para. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-83b1856c76891e250897fe20b92f91a6]: Commencement: Sch. 1 para. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-4951a5cfd3805a31a11baf3445088fd3]: Commencement: Sch. 1 para. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-4951a5cfd3805a31a11baf3445088fd3]: Commencement: Sch. 1 para. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

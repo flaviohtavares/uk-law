@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Admission arrangements for schools with religious character: consultation and objections[^key-f34745fe8426fd92d9f790e35730ab99][^key-d86ae89389457a1dfbc549de15f3dc5b]
+## 45. Admission arrangements for schools with religious character: consultation and objections[^c-f34745fe8426fd92d9f790e35730ab99][^c-d86ae89389457a1dfbc549de15f3dc5b]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ In section 89 of SSFA 1998 (procedure for determining admission arrangements) in
 
 ## Annotations
 
-[^key-f34745fe8426fd92d9f790e35730ab99]: Commencement: S. 45 in force at 8.1.2007 for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3400/article/2/b)
+[^c-f34745fe8426fd92d9f790e35730ab99]: Commencement: S. 45 in force at 8.1.2007 for E. by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 2(b)](https://www.legislation.gov.uk/uksi/2006/3400/article/2/b)
 
-[^key-d86ae89389457a1dfbc549de15f3dc5b]: Commencement: S. 45 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)
+[^c-d86ae89389457a1dfbc549de15f3dc5b]: Commencement: S. 45 in force at 30.6.2008 for W. by [S.I. 2008/1429](https://www.legislation.gov.uk/uksi/2008/1429), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/1429/article/3/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/1429/schedule/part/1)

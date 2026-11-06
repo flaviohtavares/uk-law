@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, NI.
 
-## SCHEDULE 4 — CONDITIONS TO BE SATISFIED BY THE SEED[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+## SCHEDULE 4 — CONDITIONS TO BE SATISFIED BY THE SEED[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
 *Extent: E+W+S+NI*
 
@@ -24,30 +24,30 @@ summary: ''
 
 Regulations 8(8) to (12), (13)(b), (15)(c) and (18)(a), 10(3), (4)(a) and (b) and 11(6) to (13) and (15)(a) , 13(4) and (5)(d) to (f), 14(1)(b) and (c)(i) and (ii) and paragraphs 2(3)(a), 5(3)(a), 9(3)(a), 12(3)(a), 14(3)(a), 17(3)(a), 21(3)(a), 24(3)(a) and 27(2)(a) and (b) and (3)(a) and (b) of Schedule 1
 
-### PART I — CONDITIONS TO BE EXAMINED MAINLY BY FIELD INPSECTIONS[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART I — CONDITIONS TO BE EXAMINED MAINLY BY FIELD INPSECTIONS[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
-**1.**[^key-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — CONDITIONS TO BE EXAMINED BY SEED TESTING[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART II — CONDITIONS TO BE EXAMINED BY SEED TESTING[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
-**3.**[^key-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART III — OTHER CONDITIONS[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART III — OTHER CONDITIONS[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
-**7.**[^key-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART IV — GENERAL PROVISIONS[^key-5c5e79b2f4dd3659471b4a847bebe4bc]
+### PART IV — GENERAL PROVISIONS[^c-5c5e79b2f4dd3659471b4a847bebe4bc]
 
-**8.**[^key-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-5c5e79b2f4dd3659471b4a847bebe4bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5c5e79b2f4dd3659471b4a847bebe4bc]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), [regs. 1](https://www.legislation.gov.uk/uksi/2011/463/regulation/1), [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)
+[^c-5c5e79b2f4dd3659471b4a847bebe4bc]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), [regs. 1](https://www.legislation.gov.uk/uksi/2011/463/regulation/1), [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)

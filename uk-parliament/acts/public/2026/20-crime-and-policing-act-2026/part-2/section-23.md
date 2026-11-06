@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Decision notices requiring removal of unlawful weapons content[^key-5d978930ae9c177622faa2cae88ec498]
+## 23. Decision notices requiring removal of unlawful weapons content[^c-5d978930ae9c177622faa2cae88ec498]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d978930ae9c177622faa2cae88ec498]: Commencement: S. 23 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-5d978930ae9c177622faa2cae88ec498]: Commencement: S. 23 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

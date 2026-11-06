@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Governance and audit committee: membership and quorum[^key-5c273f2c2c1b245d193eefc300ffe636]
+## 18. Governance and audit committee: membership and quorum[^c-5c273f2c2c1b245d193eefc300ffe636]
 
 *Extent: E+W*
 
-(1)[^key-40f5ae804e37b145b5e9c4c09780c029] The governance and audit committee is to consist of—
+(1)[^c-40f5ae804e37b145b5e9c4c09780c029] The governance and audit committee is to consist of—
 
 - (a) at least two members of the Commission;
 - (b) at least two lay members;
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c273f2c2c1b245d193eefc300ffe636]: Textual amendment: S. 18 heading substituted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 67(4)(a)](https://www.legislation.gov.uk/asc/2024/5/section/67/4/a), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/uksi/2024/1337), [art. 2(o)](https://www.legislation.gov.uk/uksi/2024/1337/article/2/o)
+[^c-5c273f2c2c1b245d193eefc300ffe636]: Textual amendment: S. 18 heading substituted (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 67(4)(a)](https://www.legislation.gov.uk/asc/2024/5/section/67/4/a), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/uksi/2024/1337), [art. 2(o)](https://www.legislation.gov.uk/uksi/2024/1337/article/2/o)
 
-[^key-40f5ae804e37b145b5e9c4c09780c029]: Textual amendment: S. 18(1)-(2B) substituted for s. 18(1)(2) (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 67(4)(b)](https://www.legislation.gov.uk/asc/2024/5/section/67/4/b), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(o)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/o)
+[^c-40f5ae804e37b145b5e9c4c09780c029]: Textual amendment: S. 18(1)-(2B) substituted for s. 18(1)(2) (1.1.2025) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [ss. 67(4)(b)](https://www.legislation.gov.uk/asc/2024/5/section/67/4/b), [72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4); [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(o)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/o)

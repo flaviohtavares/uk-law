@@ -30,7 +30,7 @@ summary: ''
 
 EDUCATION
 
-Education (Individual Pupils' Achievements) (Information) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-d4b758b05289fcff9006233cc7a84aca]
+Education (Individual Pupils' Achievements) (Information) (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-d4b758b05289fcff9006233cc7a84aca]
 
 Made
 
@@ -40,52 +40,52 @@ Coming into operation
 
 2nd June 1997
 
-[^key-d4b758b05289fcff9006233cc7a84aca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4b758b05289fcff9006233cc7a84aca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-d4b758b05289fcff9006233cc7a84aca]
+## 1. Citation and commencement[^c-d4b758b05289fcff9006233cc7a84aca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Education (Individual Pupils' Achievements) (Information) Regulations (Northern Ireland) 1995[^key-d4b758b05289fcff9006233cc7a84aca]
+## 2. Amendment of the Education (Individual Pupils' Achievements) (Information) Regulations (Northern Ireland) 1995[^c-d4b758b05289fcff9006233cc7a84aca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Saving[^key-d4b758b05289fcff9006233cc7a84aca]
+## 5. Saving[^c-d4b758b05289fcff9006233cc7a84aca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d4b758b05289fcff9006233cc7a84aca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4b758b05289fcff9006233cc7a84aca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-d4b758b05289fcff9006233cc7a84aca]
+## SCHEDULE[^c-d4b758b05289fcff9006233cc7a84aca]
 
 Regulation 3.
 
-> **SCHEDULE 1 — Information to be provided for the parents of a pupil in the final year of the first, second or third key stage[^key-d4b758b05289fcff9006233cc7a84aca]**
+> **SCHEDULE 1 — Information to be provided for the parents of a pupil in the final year of the first, second or third key stage[^c-d4b758b05289fcff9006233cc7a84aca]**
 >
 > Regulation 8(1)(*a*)
 >
-> **1.**[^key-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-d4b758b05289fcff9006233cc7a84aca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d4b758b05289fcff9006233cc7a84aca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d4b758b05289fcff9006233cc7a84aca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d4b758b05289fcff9006233cc7a84aca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/232) revoked (19.2.1998) by [Education (Individual Pupils' Achievements) (Information) Regulations (Northern Ireland) 1998 (S.R. 1998/12)](https://www.legislation.gov.uk/nisr/1998/12), [regs. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2), [4](https://www.legislation.gov.uk/nisr/1998/12/regulation/4)
+[^c-d4b758b05289fcff9006233cc7a84aca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/232) revoked (19.2.1998) by [Education (Individual Pupils' Achievements) (Information) Regulations (Northern Ireland) 1998 (S.R. 1998/12)](https://www.legislation.gov.uk/nisr/1998/12), [regs. 2](https://www.legislation.gov.uk/nisr/1998/12/regulation/2), [4](https://www.legislation.gov.uk/nisr/1998/12/regulation/4)

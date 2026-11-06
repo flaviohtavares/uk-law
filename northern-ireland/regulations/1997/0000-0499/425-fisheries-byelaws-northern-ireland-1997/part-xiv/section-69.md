@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**69.**[^key-db21cda73ddac00335ef07042e43f554] A person shall not use ground bait or maggots whilst angling on the rivers listed in Schedule 3 and where the prohibition applies to part of a river the prohibition shall also apply to all upstream tributaries, branches, streams or any other watercourses which flow into or form part of that river.
+**69.**[^c-db21cda73ddac00335ef07042e43f554] A person shall not use ground bait or maggots whilst angling on the rivers listed in Schedule 3 and where the prohibition applies to part of a river the prohibition shall also apply to all upstream tributaries, branches, streams or any other watercourses which flow into or form part of that river.
 
 ## Annotations
 
-[^key-db21cda73ddac00335ef07042e43f554]: Commencement: S. 69 in operation at 1.11.1997, see byelaw 1
+[^c-db21cda73ddac00335ef07042e43f554]: Commencement: S. 69 in operation at 1.11.1997, see byelaw 1

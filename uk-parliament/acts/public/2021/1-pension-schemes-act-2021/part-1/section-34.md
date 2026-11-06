@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Continuity options[^c24459111][^key-e2f11ff64b340a2f1410b9e6b82e5e75]
+## 34. Continuity options[^c24459111][^c-e2f11ff64b340a2f1410b9e6b82e5e75]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ Subject to that, this section overrides any provision of the collective money pu
 
 [^c24459111]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2021/1/section/34) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-e2f11ff64b340a2f1410b9e6b82e5e75]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2021/1/section/34) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-e2f11ff64b340a2f1410b9e6b82e5e75]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2021/1/section/34) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

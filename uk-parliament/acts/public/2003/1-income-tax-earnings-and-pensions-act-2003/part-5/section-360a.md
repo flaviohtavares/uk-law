@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 360A. Social security contributions[^key-57d94197de4c68675ec63a31b916ff23]
+## 360A. Social security contributions[^c-57d94197de4c68675ec63a31b916ff23]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ within the meaning of Part 1 of SSCBA 1992 or Part 1 of SSCB(NI)A 1992.
 
 ## Annotations
 
-[^key-57d94197de4c68675ec63a31b916ff23]: Textual amendment: S. 360A inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 594](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/594) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-57d94197de4c68675ec63a31b916ff23]: Textual amendment: S. 360A inserted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 594](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/594) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

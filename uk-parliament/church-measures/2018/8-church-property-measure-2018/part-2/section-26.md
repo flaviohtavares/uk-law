@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 26. Rent and other periodical payments[^key-d3f8ab8bfd89be3d0a29c62c0ee0c018]
+## 26. Rent and other periodical payments[^c-d3f8ab8bfd89be3d0a29c62c0ee0c018]
 
 *Extent: E*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3f8ab8bfd89be3d0a29c62c0ee0c018]: Commencement: [S. 26](https://www.legislation.gov.uk/ukcm/2018/8/section/26) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-d3f8ab8bfd89be3d0a29c62c0ee0c018]: Commencement: [S. 26](https://www.legislation.gov.uk/ukcm/2018/8/section/26) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 293. Stopping up or diversion of public path to enable development[^key-fd93f3d817314398f5e72d089d797d74]
+## 293. Stopping up or diversion of public path to enable development[^c-fd93f3d817314398f5e72d089d797d74]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd93f3d817314398f5e72d089d797d74]: Commencement: S. 293 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-fd93f3d817314398f5e72d089d797d74]: Commencement: S. 293 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Postal packets[^key-7bb32ee7e93aa51cbca2f25e3298c471]
+## 16A. Postal packets[^c-7bb32ee7e93aa51cbca2f25e3298c471]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7bb32ee7e93aa51cbca2f25e3298c471]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/1994/23/section/16A) omitted (1.8.2021) by virtue of [The Value Added Tax (Miscellaneous Amendments and Repeals) (EU Exit) Regulations 2021 (S.I. 2021/714)](https://www.legislation.gov.uk/uksi/2021/714), [regs. 1](https://www.legislation.gov.uk/uksi/2021/714/regulation/1), [9](https://www.legislation.gov.uk/uksi/2021/714/regulation/9) (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))
+[^c-7bb32ee7e93aa51cbca2f25e3298c471]: Textual amendment: [S. 16A](https://www.legislation.gov.uk/ukpga/1994/23/section/16A) omitted (1.8.2021) by virtue of [The Value Added Tax (Miscellaneous Amendments and Repeals) (EU Exit) Regulations 2021 (S.I. 2021/714)](https://www.legislation.gov.uk/uksi/2021/714), [regs. 1](https://www.legislation.gov.uk/uksi/2021/714/regulation/1), [9](https://www.legislation.gov.uk/uksi/2021/714/regulation/9) (as amended by [S.I. 2021/779](https://www.legislation.gov.uk/uksi/2021/779), [regs. 1](https://www.legislation.gov.uk/uksi/2021/779/regulation/1), [2](https://www.legislation.gov.uk/uksi/2021/779/regulation/2))

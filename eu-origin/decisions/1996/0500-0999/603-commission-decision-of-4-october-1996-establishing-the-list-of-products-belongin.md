@@ -73,7 +73,7 @@ HAS ADOPTED THIS DECISION:
 
 [^f00005] For the purpose of this classification, no reaction-to-fire testing of those materials and products made from them shall be required.
 
-**Article 2.**[^key-a13222730a64e451531ae222e251409e] This Decision is addressed to the Member States.
+**Article 2.**[^c-a13222730a64e451531ae222e251409e] This Decision is addressed to the Member States.
 
 ## ANNEX — Materials to be considered as reaction to fire Classes A1 and A1<sub>FL</sub> as provided for in Decision 2000/147/EC without the need for testing[^f00005][^f00006]
 
@@ -152,7 +152,7 @@ None of the materials in the table is allowed to contain more than 1,0 % by weig
     </tbody>
     </table>
 
-[^key-a13222730a64e451531ae222e251409e]: Modification: [Art. 2](https://www.legislation.gov.uk/eudn/1996/603/article/2) excluded (E.W.S.) (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/3) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(f)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a13222730a64e451531ae222e251409e]: Modification: [Art. 2](https://www.legislation.gov.uk/eudn/1996/603/article/2) excluded (E.W.S.) (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/3) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(f)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/f)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00007]: Footnote:
 

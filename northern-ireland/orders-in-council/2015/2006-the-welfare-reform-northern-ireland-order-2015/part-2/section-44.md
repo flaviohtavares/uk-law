@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Information[^key-450161d71ebc1aa43b9c444ebd9e03f5]
+## 44. Information[^c-450161d71ebc1aa43b9c444ebd9e03f5]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Information supplied under Chapter 2 or Article 43 is to be taken for all purpos
 
 ## Annotations
 
-[^key-450161d71ebc1aa43b9c444ebd9e03f5]: Commencement: [Art. 44](https://www.legislation.gov.uk/nisi/2015/2006/article/44) in operation at 27.9.2017 by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(d)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/d)
+[^c-450161d71ebc1aa43b9c444ebd9e03f5]: Commencement: [Art. 44](https://www.legislation.gov.uk/nisi/2015/2006/article/44) in operation at 27.9.2017 by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(d)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102C. Offences by bodies corporate etc[^key-3ce7a0979a2d73be94c4dd55ac60cabd]
+## 102C. Offences by bodies corporate etc[^c-3ce7a0979a2d73be94c4dd55ac60cabd]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ he, as well as the association, is guilty of the offence.
 
 ## Annotations
 
-[^key-3ce7a0979a2d73be94c4dd55ac60cabd]: Textual amendment: S. 102B - S. 102C inserted (5.2.2008) by [The Passenger and Goods Vehicles (Recording Equipment) (Downloading and Retention of Data) Regulations 2008 (S.I. 2008/198)](https://www.legislation.gov.uk/uksi/2008/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/198/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2008/198/regulation/3)
+[^c-3ce7a0979a2d73be94c4dd55ac60cabd]: Textual amendment: S. 102B - S. 102C inserted (5.2.2008) by [The Passenger and Goods Vehicles (Recording Equipment) (Downloading and Retention of Data) Regulations 2008 (S.I. 2008/198)](https://www.legislation.gov.uk/uksi/2008/198), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/198/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2008/198/regulation/3)

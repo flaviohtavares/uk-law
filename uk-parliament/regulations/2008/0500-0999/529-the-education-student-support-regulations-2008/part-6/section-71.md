@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Long courses loan[^key-1f4cc75523a8a4941c65f457961e4cbc]
+## 71. Long courses loan[^c-1f4cc75523a8a4941c65f457961e4cbc]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f4cc75523a8a4941c65f457961e4cbc]: Commencement: Reg. 71 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-1f4cc75523a8a4941c65f457961e4cbc]: Commencement: Reg. 71 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

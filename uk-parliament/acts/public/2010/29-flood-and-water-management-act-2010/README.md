@@ -72,7 +72,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 20 — Ministerial directions](part-1/section-20.md)
 - [Section 21 — Lead local authorities: duty to maintain a register](part-1/section-21.md)
 
-#### 4. Regional Flood and Coastal Committees for regions in England[^key-b233b5b553c26f68cf844805b2301eb1]
+#### 4. Regional Flood and Coastal Committees for regions in England[^c-b233b5b553c26f68cf844805b2301eb1]
 
 *Extent: E+W*
 
@@ -83,7 +83,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 26 — “The Minister”](part-1/section-26.md)
 - [Section 26A — “The appropriate agency”](part-1/section-26a.md)
 
-#### 4A. Flood and Coastal Erosion Committee for Wales[^key-d15dd4362300103f62bcae888f80c54d]
+#### 4A. Flood and Coastal Erosion Committee for Wales[^c-d15dd4362300103f62bcae888f80c54d]
 
 - [Section 26B — Establishment and functions](part-1/section-26b.md)
 - [Section 26C — Constitution](part-1/section-26c.md)
@@ -131,6 +131,6 @@ SCHEDULES
 
 ## Annotations
 
-[^key-b233b5b553c26f68cf844805b2301eb1]: Textual amendment: Words in s. 22 cross-heading inserted (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 25(4)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/25/4); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-b233b5b553c26f68cf844805b2301eb1]: Textual amendment: Words in s. 22 cross-heading inserted (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 25(4)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/25/4); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
 
-[^key-d15dd4362300103f62bcae888f80c54d]: Textual amendment: [Ss. 26B-26D](https://www.legislation.gov.uk/ukpga/2010/29/section/26B) and cross-heading inserted (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 81(1)](https://www.legislation.gov.uk/anaw/2016/3/section/81/1), [88(3)(d)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/d); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-d15dd4362300103f62bcae888f80c54d]: Textual amendment: [Ss. 26B-26D](https://www.legislation.gov.uk/ukpga/2010/29/section/26B) and cross-heading inserted (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [ss. 81(1)](https://www.legislation.gov.uk/anaw/2016/3/section/81/1), [88(3)(d)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/d); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)

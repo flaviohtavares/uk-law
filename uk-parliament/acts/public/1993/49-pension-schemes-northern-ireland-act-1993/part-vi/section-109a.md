@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109A. Disclosure of information about transfers etc.[^key-63fb4b963289f27190044007f0ebdd5e]
+## 109A. Disclosure of information about transfers etc.[^c-63fb4b963289f27190044007f0ebdd5e]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ the trustees or managers of the first scheme must, in prescribed circumstances a
 
 ## Annotations
 
-[^key-63fb4b963289f27190044007f0ebdd5e]: Textual amendment: S. 109A inserted (1.1.2006 for specified purposes, 6.4.2006 in so far as not already in force) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 10 para. 14](https://www.legislation.gov.uk/nisi/2005/255/schedule/10/paragraph/14); [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art. 2(5)](https://www.legislation.gov.uk/nisr/2005/543/article/2/5), [Sch. Pt. 5](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/5)
+[^c-63fb4b963289f27190044007f0ebdd5e]: Textual amendment: S. 109A inserted (1.1.2006 for specified purposes, 6.4.2006 in so far as not already in force) by [The Pensions (Northern Ireland) Order 2005 (S.I. 2005/255 (N.I. 1))](https://www.legislation.gov.uk/nisi/2005/255), [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2), [Sch. 10 para. 14](https://www.legislation.gov.uk/nisi/2005/255/schedule/10/paragraph/14); [S.R. 2005/543](https://www.legislation.gov.uk/nisr/2005/543), [art. 2(5)](https://www.legislation.gov.uk/nisr/2005/543/article/2/5), [Sch. Pt. 5](https://www.legislation.gov.uk/nisr/2005/543/schedule/part/5)

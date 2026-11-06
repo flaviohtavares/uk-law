@@ -16,19 +16,19 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20.[^key-d3f1d892599b7477888b37a9f3134437]
+## 20.[^c-d3f1d892599b7477888b37a9f3134437]
 
 *Extent: E+W+S+N.I.*
 
 (1) Notwithstanding the amendments of sections 8K and 8M of the Gas Act 1986 made by regulations 18 and 19, if and for so long as the condition in paragraph (2) is satisfied in relation to the person—
 
-- (a) the Gas and Electricity Markets Authority is not required to notify the Secretary of State under section 8K(2) about a person from a country outside the United Kingdom who has taken control of a certified person before IP completion day[^key-a3d84ff4e0a46a07c0573215b35029ac], and
+- (a) the Gas and Electricity Markets Authority is not required to notify the Secretary of State under section 8K(2) about a person from a country outside the United Kingdom who has taken control of a certified person before IP completion day[^c-a3d84ff4e0a46a07c0573215b35029ac], and
 - (b) the Secretary of State is not required to prepare a report under section 8M in relation to the certified person.
 
 (2) The condition is that the person was a person from an EEA state at the time of taking control and has continued to be such a person.
 
 ## Annotations
 
-[^key-d3f1d892599b7477888b37a9f3134437]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-d3f1d892599b7477888b37a9f3134437]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-a3d84ff4e0a46a07c0573215b35029ac]: Textual amendment: Words in reg. 20(1)(a) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/7)
+[^c-a3d84ff4e0a46a07c0573215b35029ac]: Textual amendment: Words in reg. 20(1)(a) substituted (15.9.2020) by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/3/7)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Authorisation of use etc. after examination: person with parental rights and responsibilities for child under 12 years of age[^key-9efa1e082fd6fd0b4189a63bec669e1a]
+## 46. Authorisation of use etc. after examination: person with parental rights and responsibilities for child under 12 years of age[^c-9efa1e082fd6fd0b4189a63bec669e1a]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9efa1e082fd6fd0b4189a63bec669e1a]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2006/4/section/46) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-9efa1e082fd6fd0b4189a63bec669e1a]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2006/4/section/46) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

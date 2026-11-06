@@ -38,7 +38,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Additional multipliers for England
 
-### 1. Determination of additional multipliers[^key-32e55f41cbf1e5d425a7169205f44366]
+### 1. Determination of additional multipliers[^c-32e55f41cbf1e5d425a7169205f44366]
 
 (1) Part A1 of Schedule 7 to the [Local Government Finance Act 1988](https://www.legislation.gov.uk/ukpga/1988/41) (non-domestic rating multipliers for England) is amended as follows.
 
@@ -84,7 +84,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
   >
   > (3) A statutory instrument to which sub-paragraph (2) or paragraph 9B(3) does not apply containing regulations under paragraph A6A or A10(4)(b) is subject to annulment in pursuance of a resolution of the House of Commons.
 
-### 2. Special authority multipliers[^key-c0ecf33bf0f08fa532a9e57df14ddbaa]
+### 2. Special authority multipliers[^c-c0ecf33bf0f08fa532a9e57df14ddbaa]
 
 (1) Part 2 of Schedule 7 to the [Local Government Finance Act 1988](https://www.legislation.gov.uk/ukpga/1988/41) (special authority multipliers) is amended as follows.
 
@@ -105,7 +105,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 (3) In paragraphs 10(2) and 11(1), after “or 9A” insert “, or regulations under paragraph 9B,”.
 
-### 3. Application of multipliers[^key-ef147a447342e551e256a766f807aec2]
+### 3. Application of multipliers[^c-ef147a447342e551e256a766f807aec2]
 
 (1) The [Local Government Finance Act 1988](https://www.legislation.gov.uk/ukpga/1988/41) is amended as follows.
 
@@ -169,7 +169,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
   .
 
-### 4. Consequential amendments[^key-a17538687041531339c40f2ee2c9f026]
+### 4. Consequential amendments[^c-a17538687041531339c40f2ee2c9f026]
 
 (1) The [Local Government Finance Act 1988](https://www.legislation.gov.uk/ukpga/1988/41) is amended as follows.
 
@@ -182,7 +182,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Removal of relief for private schools in England
 
-### 5. Removal of relief[^key-f5b6aa66f3aa279f4a23874a6e653622]
+### 5. Removal of relief[^c-f5b6aa66f3aa279f4a23874a6e653622]
 
 (1) The [Local Government Finance Act 1988](https://www.legislation.gov.uk/ukpga/1988/41) is amended as follows.
 
@@ -219,28 +219,28 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Final provisions
 
-### 6. Commencement[^key-ad53af57fc75a3d4bba00d50802e3b28]
+### 6. Commencement[^c-ad53af57fc75a3d4bba00d50802e3b28]
 
 (1) The amendments made by sections 1 to 4 have effect in respect of financial years beginning on or after 1 April 2026.
 
 (2) The amendments made by section 5 have effect in respect of financial years beginning on or after 1 April 2025.
 
-### 7. Short title[^key-d80c8b382380592dfd0c5f7b9c3577e5]
+### 7. Short title[^c-d80c8b382380592dfd0c5f7b9c3577e5]
 
 This Act may be cited as the Non-Domestic Rating (Multipliers and Private Schools) Act 2025.
 
 ## Annotations
 
-[^key-32e55f41cbf1e5d425a7169205f44366]: Commencement: S. 1 in force at Royal Assent but the amendments have effect in accordance with s. 6(1)
+[^c-32e55f41cbf1e5d425a7169205f44366]: Commencement: S. 1 in force at Royal Assent but the amendments have effect in accordance with s. 6(1)
 
-[^key-c0ecf33bf0f08fa532a9e57df14ddbaa]: Commencement: S. 2 in force at Royal Assent but the amendments have effect in accordance with s. 6(1)
+[^c-c0ecf33bf0f08fa532a9e57df14ddbaa]: Commencement: S. 2 in force at Royal Assent but the amendments have effect in accordance with s. 6(1)
 
-[^key-ef147a447342e551e256a766f807aec2]: Commencement: S. 3 in force at Royal Assent but the amendments have effect in accordance with s. 6(1)
+[^c-ef147a447342e551e256a766f807aec2]: Commencement: S. 3 in force at Royal Assent but the amendments have effect in accordance with s. 6(1)
 
-[^key-a17538687041531339c40f2ee2c9f026]: Commencement: S. 4 in force at Royal Assent but the amendments have effect in accordance with s. 6(1)
+[^c-a17538687041531339c40f2ee2c9f026]: Commencement: S. 4 in force at Royal Assent but the amendments have effect in accordance with s. 6(1)
 
-[^key-f5b6aa66f3aa279f4a23874a6e653622]: Commencement: S. 5 in force at Royal Assent but the amendments have effect in accordance with s. 6(2)
+[^c-f5b6aa66f3aa279f4a23874a6e653622]: Commencement: S. 5 in force at Royal Assent but the amendments have effect in accordance with s. 6(2)
 
-[^key-ad53af57fc75a3d4bba00d50802e3b28]: Commencement: S. 6 in force at Royal Assent
+[^c-ad53af57fc75a3d4bba00d50802e3b28]: Commencement: S. 6 in force at Royal Assent
 
-[^key-d80c8b382380592dfd0c5f7b9c3577e5]: Commencement: S. 7 in force at Royal Assent
+[^c-d80c8b382380592dfd0c5f7b9c3577e5]: Commencement: S. 7 in force at Royal Assent

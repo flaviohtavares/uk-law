@@ -24,7 +24,7 @@ Article 34
 
 ### PART 1 — ON BEHALF OF LICENCE HOLDERS
 
-#### 1. Acquisition of necessary wayleaves[^key-3b0151e5693169e759ad7c0d1e4ff5d7]
+#### 1. Acquisition of necessary wayleaves[^c-3b0151e5693169e759ad7c0d1e4ff5d7]
 
 (1) This paragraph applies where—
 
@@ -66,7 +66,7 @@ following consultation with the licence holder, objects.
 
 (10) Any question of disputed compensation under this paragraph shall be determined by the Tribunal; and section 4 of the Land Compensation Act 1961 shall apply to any such determination.
 
-#### 2. Compulsory acquisition of easements or other rights[^key-775a73b7ae6feb96776c0fdbcfce0bd5]
+#### 2. Compulsory acquisition of easements or other rights[^c-775a73b7ae6feb96776c0fdbcfce0bd5]
 
 (1) This paragraph applies where—
 
@@ -79,7 +79,7 @@ following consultation with the licence holder, objects.
 
 (4) Unless otherwise agreed between the undertaker and the licence holder in writing, where the undertaker seeks a compulsory purchase order on behalf of a licence holder pursuant to this paragraph, the negotiation of consideration and compensation shall be undertaken by the undertaker and any consideration or compensation agreed or determined shall be payable by the undertaker and Schedule 3 of the Electricity Act 1989 as applied by this paragraph shall be interpreted accordingly.
 
-#### 3. Interpretation[^key-bf51d3ae26165274ac2a67bf15335b77]
+#### 3. Interpretation[^c-bf51d3ae26165274ac2a67bf15335b77]
 
 In this Part of this Schedule—
 
@@ -91,7 +91,7 @@ In this Part of this Schedule—
 
 ### PART 2 — ON BEHALF OF CODE OPERATORS
 
-#### 4. Court imposition of code rights[^key-aa1502c91754c9660d7b1ba12cca7c23]
+#### 4. Court imposition of code rights[^c-aa1502c91754c9660d7b1ba12cca7c23]
 
 (1) This paragraph applies where—
 
@@ -113,7 +113,7 @@ In this Part of this Schedule—
 - (a) (reference to the making of an ‘order under paragraph 20’ were substituted for the making of an order under Schedule 12 (acquisition of wayleaves, easements and other rights) of the Stonestreet Green Solar Order 2025; and
 - (b) unless otherwise agreed on a case-by-case basis in writing between the undertaker and the code operator, all references to ’consideration’ or ’compensation’ provided for in any agreement or order or otherwise to be determined shall be read as being payable by the undertaker.
 
-#### 5. Compulsory acquisition of easements or other rights[^key-dd947b6f8d4174dab6355974eda8adb8]
+#### 5. Compulsory acquisition of easements or other rights[^c-dd947b6f8d4174dab6355974eda8adb8]
 
 (1) The undertaker may seek a compulsory purchase order on behalf of a code operator where—
 
@@ -129,7 +129,7 @@ In this Part of this Schedule—
 
 (4) Unless otherwise agreed between the undertaker and the licence holder in writing, where the undertaker seeks a compulsory purchase order on behalf of a code operator pursuant to this paragraph, all negotiations of compensation shall be undertaken by the undertaker and any consideration or compensation agreed or determined in respect of any easements or rights acquired shall be payable by the undertaker and Schedule 4 of the Communications Act 2003 shall be interpreted accordingly as it applies to this paragraph.
 
-#### 6. Interpretation[^key-be340d5e58cb60fc605414def0c30a81]
+#### 6. Interpretation[^c-be340d5e58cb60fc605414def0c30a81]
 
 In this Part of this Schedule, the following terms have the following meanings—
 
@@ -143,7 +143,7 @@ In this Part of this Schedule, the following terms have the following meanings�
 
 ### PART 3 — ON BEHALF OF WATER AND SEWERAGE UNDERTAKERS
 
-#### 7. Compulsory acquisition of easements or other rights[^key-049d25b571ed5762081c1f0bbee77c58]
+#### 7. Compulsory acquisition of easements or other rights[^c-049d25b571ed5762081c1f0bbee77c58]
 
 (1) The undertaker may seek a compulsory purchase order on behalf of a water or sewerage undertaker where—
 
@@ -165,7 +165,7 @@ In this Part of this Schedule, the following terms have the following meanings�
 
 ### PART 4 — ON BEHALF OF GAS TRANSPORTERS
 
-#### 8. Compulsory acquisition of easements or other rights[^key-daae8def73802dd3b4d2829fde7e9828]
+#### 8. Compulsory acquisition of easements or other rights[^c-daae8def73802dd3b4d2829fde7e9828]
 
 (1) The undertaker may seek a compulsory purchase order on behalf of a gas transporter where—
 
@@ -187,18 +187,18 @@ In this Part of this Schedule, the following terms have the following meanings�
 
 ## Annotations
 
-[^key-3b0151e5693169e759ad7c0d1e4ff5d7]: Commencement: Sch. 12 para. 1 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-3b0151e5693169e759ad7c0d1e4ff5d7]: Commencement: Sch. 12 para. 1 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-775a73b7ae6feb96776c0fdbcfce0bd5]: Commencement: Sch. 12 para. 2 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-775a73b7ae6feb96776c0fdbcfce0bd5]: Commencement: Sch. 12 para. 2 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-bf51d3ae26165274ac2a67bf15335b77]: Commencement: Sch. 12 para. 3 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-bf51d3ae26165274ac2a67bf15335b77]: Commencement: Sch. 12 para. 3 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-aa1502c91754c9660d7b1ba12cca7c23]: Commencement: Sch. 12 para. 4 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-aa1502c91754c9660d7b1ba12cca7c23]: Commencement: Sch. 12 para. 4 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-dd947b6f8d4174dab6355974eda8adb8]: Commencement: Sch. 12 para. 5 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-dd947b6f8d4174dab6355974eda8adb8]: Commencement: Sch. 12 para. 5 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-be340d5e58cb60fc605414def0c30a81]: Commencement: Sch. 12 para. 6 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-be340d5e58cb60fc605414def0c30a81]: Commencement: Sch. 12 para. 6 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-049d25b571ed5762081c1f0bbee77c58]: Commencement: Sch. 12 para. 7 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-049d25b571ed5762081c1f0bbee77c58]: Commencement: Sch. 12 para. 7 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
 
-[^key-daae8def73802dd3b4d2829fde7e9828]: Commencement: Sch. 12 para. 8 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)
+[^c-daae8def73802dd3b4d2829fde7e9828]: Commencement: Sch. 12 para. 8 in force at 13.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1175/article/1)

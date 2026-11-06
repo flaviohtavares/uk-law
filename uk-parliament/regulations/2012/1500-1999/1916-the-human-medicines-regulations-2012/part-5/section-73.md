@@ -30,15 +30,15 @@ summary: ''
 
 (5) In that event, the notification must be given as far as is reasonably practicable in advance of the date on which the product is withdrawn from the market.
 
-(5A)[^key-ba4d8f4c14f52ff2e7ffb37bbfffd615] The holder of a UK marketing authorisation must notify the licensing authority forthwith if the holder takes action to—
+(5A)[^c-ba4d8f4c14f52ff2e7ffb37bbfffd615] The holder of a UK marketing authorisation must notify the licensing authority forthwith if the holder takes action to—
 
 - (a) request the cancellation of the authorisation;
 - (b) not apply for the renewal of the authorisation; or
-- (c) withdraw the product to which the authorisation relates from the market in a country other than the United Kingdom[^key-5343431fcd66e1eab18e93753280f332] (whether temporarily or permanently) and the action is based on any of the grounds set out in Article 116 or 117(1) of the 2001 Directive.
+- (c) withdraw the product to which the authorisation relates from the market in a country other than the United Kingdom[^c-5343431fcd66e1eab18e93753280f332] (whether temporarily or permanently) and the action is based on any of the grounds set out in Article 116 or 117(1) of the 2001 Directive.
 
 (5B) A notification under paragraph (3) or (5A) must include the reasons for the action, in particular declaring if the action is based on any of the grounds set out in Article 116 or 117(1) of the 2001 Directive.
 
-(5C) The holder of a UKMA(NI) or[^key-83527964031ccfbf2322247dec7534a9] UKMA(UK)(Category 2)[^key-04056eaf3295930c979d0db432362dd7] must also notify the EMA forthwith where the action which is the subject of a notification by the holder under paragraph (3) or (5A) is based on any of the grounds set out in Article 116 or 117(1) of the 2001 Directive.
+(5C) The holder of a UKMA(NI) or[^c-83527964031ccfbf2322247dec7534a9] UKMA(UK)(Category 2)[^c-04056eaf3295930c979d0db432362dd7] must also notify the EMA forthwith where the action which is the subject of a notification by the holder under paragraph (3) or (5A) is based on any of the grounds set out in Article 116 or 117(1) of the 2001 Directive.
 
 (6) The licensing authority may require the holder of a UK marketing authorisation to provide—
 
@@ -52,10 +52,10 @@ summary: ''
 
 ## Annotations
 
-[^key-ba4d8f4c14f52ff2e7ffb37bbfffd615]: Textual amendment: Reg. 73(5A)-(5C) inserted (11.11.2013) by [The Human Medicines (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2593)](https://www.legislation.gov.uk/uksi/2013/2593), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2593/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2013/2593/regulation/3)
+[^c-ba4d8f4c14f52ff2e7ffb37bbfffd615]: Textual amendment: Reg. 73(5A)-(5C) inserted (11.11.2013) by [The Human Medicines (Amendment) (No. 2) Regulations 2013 (S.I. 2013/2593)](https://www.legislation.gov.uk/uksi/2013/2593), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/2593/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2013/2593/regulation/3)
 
-[^key-5343431fcd66e1eab18e93753280f332]: Textual amendment: Words in [reg. 73(5A)(c)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/73/5A/c) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [82(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/82/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5343431fcd66e1eab18e93753280f332]: Textual amendment: Words in [reg. 73(5A)(c)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/73/5A/c) substituted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [regs. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [82(2)](https://www.legislation.gov.uk/uksi/2019/775/regulation/82/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-83527964031ccfbf2322247dec7534a9]: Textual amendment: Words in reg. 73(5C) substituted (31.12.2020) by virtue of [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 82(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/82/3) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/60))
+[^c-83527964031ccfbf2322247dec7534a9]: Textual amendment: Words in reg. 73(5C) substituted (31.12.2020) by virtue of [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 82(3)](https://www.legislation.gov.uk/uksi/2019/775/regulation/82/3) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/60))
 
-[^key-04056eaf3295930c979d0db432362dd7]: Textual amendment: Words in [reg. 73(5C)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/73/5C) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [59](https://www.legislation.gov.uk/uksi/2024/832/regulation/59)
+[^c-04056eaf3295930c979d0db432362dd7]: Textual amendment: Words in [reg. 73(5C)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/73/5C) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [59](https://www.legislation.gov.uk/uksi/2024/832/regulation/59)

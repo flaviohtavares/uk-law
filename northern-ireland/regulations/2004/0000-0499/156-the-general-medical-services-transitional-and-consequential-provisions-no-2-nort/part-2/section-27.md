@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Notification of sub-contracts under general medical services contracts[^key-9b558ac4f1c0b2f8751d8d17e73be5e4]
+## 27. Notification of sub-contracts under general medical services contracts[^c-9b558ac4f1c0b2f8751d8d17e73be5e4]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ any requirement for the succeeding contractor to notify the Board of his intenti
 
 ## Annotations
 
-[^key-9b558ac4f1c0b2f8751d8d17e73be5e4]: Commencement: Art. 27 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)
+[^c-9b558ac4f1c0b2f8751d8d17e73be5e4]: Commencement: Art. 27 in operation at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2004/156/article/1/1)

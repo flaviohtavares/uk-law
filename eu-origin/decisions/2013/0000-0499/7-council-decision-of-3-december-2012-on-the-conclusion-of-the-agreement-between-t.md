@@ -35,18 +35,18 @@ on the conclusion of the Agreement between the European Union and the Republic o
 
 (2013/7/EU) (revoked)
 
-[^key-96049d94adce891ae6de44aa7d64967f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96049d94adce891ae6de44aa7d64967f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-96049d94adce891ae6de44aa7d64967f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-96049d94adce891ae6de44aa7d64967f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-96049d94adce891ae6de44aa7d64967f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-96049d94adce891ae6de44aa7d64967f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-96049d94adce891ae6de44aa7d64967f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-96049d94adce891ae6de44aa7d64967f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-96049d94adce891ae6de44aa7d64967f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-96049d94adce891ae6de44aa7d64967f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-96049d94adce891ae6de44aa7d64967f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-96049d94adce891ae6de44aa7d64967f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-96049d94adce891ae6de44aa7d64967f]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 36](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-96049d94adce891ae6de44aa7d64967f]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 36](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/36); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 132. Confirmation decisions[^key-0ff1598e14bf9ab11913d979efece73d][^key-b54a9c09ad46e42ba4e420384d10d4d2]
+## 132. Confirmation decisions[^c-0ff1598e14bf9ab11913d979efece73d][^c-b54a9c09ad46e42ba4e420384d10d4d2]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ A duty or requirement to which the provisional notice of contravention relates i
 
 ## Annotations
 
-[^key-0ff1598e14bf9ab11913d979efece73d]: Commencement: S. 132 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-0ff1598e14bf9ab11913d979efece73d]: Commencement: S. 132 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-b54a9c09ad46e42ba4e420384d10d4d2]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2023/50/section/132) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)
+[^c-b54a9c09ad46e42ba4e420384d10d4d2]: Commencement: [S. 132](https://www.legislation.gov.uk/ukpga/2023/50/section/132) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)

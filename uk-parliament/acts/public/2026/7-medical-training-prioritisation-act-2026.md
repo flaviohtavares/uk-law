@@ -37,7 +37,7 @@ Be it enacted by the King’s most Excellent Majesty, by and with the advice and
 
 ## Prioritisation of UK graduates and others for medical training programmes
 
-### 1. UK Foundation Programme[^key-1d801a5e2e8dee2ed87580651605bb4f][^key-f38128fd826abc483cf5fc05f980c5df]
+### 1. UK Foundation Programme[^c-1d801a5e2e8dee2ed87580651605bb4f][^c-f38128fd826abc483cf5fc05f980c5df]
 
 A person who has a function of deciding offers of places on a UK Foundation Programme must offer places to eligible applicants who are—
 
@@ -46,7 +46,7 @@ A person who has a function of deciding offers of places on a UK Foundation Prog
 
 before offering places to any other eligible applicants.
 
-### 2. Specialty training programmes: offers made in 2026[^key-58a218e8e298c1d3a039ccddea5ca539][^key-1e9559dbc05c1fa27ddd8219926ea280]
+### 2. Specialty training programmes: offers made in 2026[^c-58a218e8e298c1d3a039ccddea5ca539][^c-1e9559dbc05c1fa27ddd8219926ea280]
 
 (1) A person who has a function of deciding offers of places on a UK specialty training programme, where the offers are made in 2026, must offer places to eligible applicants who are—
 
@@ -65,7 +65,7 @@ before offering places to any other eligible applicants.
 - (d) a person with indefinite leave to enter or remain in the United Kingdom, or
 - (e) a person who has leave to enter or remain in the United Kingdom which was granted by virtue of residence scheme immigration rules within the meaning given by section 17 of the European Union (Withdrawal Agreement) Act 2020.
 
-### 3. Specialty training programmes: offers from 2027 onwards[^key-0dd4f0dabe03909ebd9f11d732337100][^key-efe79e34cb8913a55f958bfeb97f3eb1]
+### 3. Specialty training programmes: offers from 2027 onwards[^c-0dd4f0dabe03909ebd9f11d732337100][^c-efe79e34cb8913a55f958bfeb97f3eb1]
 
 (1) A person who has a function of deciding which applicants to interview for a place on a UK specialty training programme, where the interviews are offered in 2027 or any subsequent year, must offer interviews to eligible applicants who are—
 
@@ -92,7 +92,7 @@ before offering places to any other eligible applicants.
 
 ## Interpretation
 
-### 4. “UK medical graduate” and “the priority group”[^key-2bfd605d29a7b66482644c7efdd2737b][^key-b4826298da986cee94905fe0954fbc22]
+### 4. “UK medical graduate” and “the priority group”[^c-2bfd605d29a7b66482644c7efdd2737b][^c-b4826298da986cee94905fe0954fbc22]
 
 (1) In this Act, “**UK medical graduate**” means a person who holds a primary United Kingdom qualification within the meaning of the Medical Act 1983 (see section 4(3) of that Act), but does not include a person who spent all or a majority of their time training for that qualification outside the British Islands.
 
@@ -114,7 +114,7 @@ before offering places to any other eligible applicants.
 
 (6) The appropriate authority may by regulations amend the list in subsection (4) if the appropriate authority considers it necessary to do so to reflect an international agreement to which the United Kingdom is a party.
 
-### 5. “UK Foundation Programme”, “UK specialty training programme” etc[^key-ba8b38de56d691fa20dfe7956df08906][^key-7e873b2a08afb8948f343599a8e36f60]
+### 5. “UK Foundation Programme”, “UK specialty training programme” etc[^c-ba8b38de56d691fa20dfe7956df08906][^c-7e873b2a08afb8948f343599a8e36f60]
 
 (1) The following definitions have effect for the purposes of sections 1 to 3.
 
@@ -141,7 +141,7 @@ before offering places to any other eligible applicants.
 
 ## Regulations
 
-### 6. Regulations: general[^key-c9ccfb4a5492f201f07b925751c55631][^key-7b11007f860ed68238ddbbb9bde51512]
+### 6. Regulations: general[^c-c9ccfb4a5492f201f07b925751c55631][^c-7b11007f860ed68238ddbbb9bde51512]
 
 (1) In this Act, “**the appropriate authority**” means—
 
@@ -165,7 +165,7 @@ before offering places to any other eligible applicants.
 
 (7) A power of the Secretary of State to make regulations under this Act includes power to make different provision for different parts of the United Kingdom.
 
-### 7. Regulations: procedure[^key-51bdd167512606c6de2bad3575a16eb5][^key-3437c34b68cd33d0cf84081763ca80ee]
+### 7. Regulations: procedure[^c-51bdd167512606c6de2bad3575a16eb5][^c-3437c34b68cd33d0cf84081763ca80ee]
 
 (1) Regulations under—
 
@@ -204,7 +204,7 @@ are subject to the negative procedure.
 
 ## Final
 
-### 8. Extent, commencement and short title[^key-7c26b7a359f2c26571f0fbd2644064c1][^key-0aaa430517aa20762863551a313ad51b]
+### 8. Extent, commencement and short title[^c-7c26b7a359f2c26571f0fbd2644064c1][^c-0aaa430517aa20762863551a313ad51b]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -216,34 +216,34 @@ are subject to the negative procedure.
 
 ## Annotations
 
-[^key-1d801a5e2e8dee2ed87580651605bb4f]: Commencement: S. 1 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
+[^c-1d801a5e2e8dee2ed87580651605bb4f]: Commencement: S. 1 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
 
-[^key-f38128fd826abc483cf5fc05f980c5df]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/7/section/1) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
+[^c-f38128fd826abc483cf5fc05f980c5df]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2026/7/section/1) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
 
-[^key-58a218e8e298c1d3a039ccddea5ca539]: Commencement: S. 2 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
+[^c-58a218e8e298c1d3a039ccddea5ca539]: Commencement: S. 2 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
 
-[^key-1e9559dbc05c1fa27ddd8219926ea280]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/7/section/2) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
+[^c-1e9559dbc05c1fa27ddd8219926ea280]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2026/7/section/2) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
 
-[^key-0dd4f0dabe03909ebd9f11d732337100]: Commencement: S. 3 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
+[^c-0dd4f0dabe03909ebd9f11d732337100]: Commencement: S. 3 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
 
-[^key-efe79e34cb8913a55f958bfeb97f3eb1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2026/7/section/3) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
+[^c-efe79e34cb8913a55f958bfeb97f3eb1]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2026/7/section/3) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
 
-[^key-2bfd605d29a7b66482644c7efdd2737b]: Commencement: S. 4 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
+[^c-2bfd605d29a7b66482644c7efdd2737b]: Commencement: S. 4 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
 
-[^key-b4826298da986cee94905fe0954fbc22]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2026/7/section/4) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
+[^c-b4826298da986cee94905fe0954fbc22]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2026/7/section/4) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
 
-[^key-ba8b38de56d691fa20dfe7956df08906]: Commencement: S. 5 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
+[^c-ba8b38de56d691fa20dfe7956df08906]: Commencement: S. 5 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
 
-[^key-7e873b2a08afb8948f343599a8e36f60]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2026/7/section/5) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
+[^c-7e873b2a08afb8948f343599a8e36f60]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2026/7/section/5) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
 
-[^key-c9ccfb4a5492f201f07b925751c55631]: Commencement: S. 6 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
+[^c-c9ccfb4a5492f201f07b925751c55631]: Commencement: S. 6 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
 
-[^key-7b11007f860ed68238ddbbb9bde51512]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2026/7/section/6) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
+[^c-7b11007f860ed68238ddbbb9bde51512]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2026/7/section/6) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
 
-[^key-51bdd167512606c6de2bad3575a16eb5]: Commencement: S. 7 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
+[^c-51bdd167512606c6de2bad3575a16eb5]: Commencement: S. 7 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
 
-[^key-3437c34b68cd33d0cf84081763ca80ee]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2026/7/section/7) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
+[^c-3437c34b68cd33d0cf84081763ca80ee]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2026/7/section/7) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
 
-[^key-7c26b7a359f2c26571f0fbd2644064c1]: Commencement: S. 8 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
+[^c-7c26b7a359f2c26571f0fbd2644064c1]: Commencement: S. 8 not in force at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/ukpga/2026/7/section/8/2)
 
-[^key-0aaa430517aa20762863551a313ad51b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/7/section/8) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)
+[^c-0aaa430517aa20762863551a313ad51b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/7/section/8) in force at 6.3.2026 by [S.I. 2026/221](https://www.legislation.gov.uk/uksi/2026/221), [reg. 2](https://www.legislation.gov.uk/uksi/2026/221/regulation/2)

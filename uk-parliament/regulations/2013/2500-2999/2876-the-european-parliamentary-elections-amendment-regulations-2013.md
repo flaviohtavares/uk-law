@@ -32,7 +32,7 @@ summary: ''
 
 Representation Of The People
 
-The European Parliamentary Elections (Amendment) Regulations 2013 (revoked)[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+The European Parliamentary Elections (Amendment) Regulations 2013 (revoked)[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 Made
 
@@ -42,282 +42,282 @@ Coming into force
 
 1st January 2014
 
-[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+## 1. Citation, commencement and extent[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+## 2. Interpretation[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the 2002 Act[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+## 3. Amendments to the 2002 Act[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the 2001 Franchise Regulations[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+## 4. Amendments to the 2001 Franchise Regulations[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendments to the 2004 Regulations[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+## 6. Amendments to the 2004 Regulations[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Omission of Schedule A1 to the 2004 Regulations[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
-
-*Extent: E+W+S*
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 19. Amendments to Schedule 1 to the 2004 Regulations[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+## 18. Omission of Schedule A1 to the 2004 Regulations[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**21.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**22.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**23.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**24.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**25.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**26.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**27.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**28.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**29.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**30.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**31.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 32. Amendments to Schedule 2 to the 2004 Regulations[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+## 19. Amendments to Schedule 1 to the 2004 Regulations[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**39.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**40.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**41.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**42.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**43.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**44.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**31.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**45.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**46.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**47.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**48.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**49.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**50.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**51.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**52.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**53.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**54.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**55.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 56. Amendments to Schedule 3 to the 2004 Regulations[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+## 32. Amendments to Schedule 2 to the 2004 Regulations[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**57.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**58.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**59.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**60.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**61.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**62.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**63.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**39.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**64.**[^key-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 65. Amendments to Schedule 4 to the 2004 Regulations[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+**41.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**42.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**43.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**44.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**45.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**46.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**47.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**48.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**49.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**50.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**51.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**52.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**53.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**54.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**55.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 56. Amendments to Schedule 3 to the 2004 Regulations[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**57.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**58.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**59.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**60.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**61.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**62.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**63.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**64.**[^c-7fe34fe92f1fc539b6ae9dbe326b84ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 65. Amendments to Schedule 4 to the 2004 Regulations[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
+
+*Extent: E+W+S*
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-## SCHEDULE 1 — FORMS FOR EUROPEAN PARLIAMENTARY ELECTIONS[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+## SCHEDULE 1 — FORMS FOR EUROPEAN PARLIAMENTARY ELECTIONS[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 Regulation 31
 
-### Form A: Form of Ballot Paper — Front of ballot paper[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form A: Form of Ballot Paper — Front of ballot paper[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Back of ballot paper[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Back of ballot paper[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_003)
 
-### Form F: Official poll card issued to an elector voting at a polling station — Front of card[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form F: Official poll card issued to an elector voting at a polling station — Front of card[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Back of card[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Back of card[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_005)
 
-### Form G: Official poll card issued to a postal elector — Front of card[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form G: Official poll card issued to a postal elector — Front of card[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Back of card[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Back of card[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_007)
 
-### Form H: Official poll card issued to a proxy voting at a polling station — Front of card[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form H: Official poll card issued to a proxy voting at a polling station — Front of card[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Back of card[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Back of card[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_009)
 
-### Form J: Official poll card issued to a postal proxy — Front of card[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form J: Official poll card issued to a postal proxy — Front of card[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Back of card[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Back of card[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_011)
 
-### Form K: Form of directions for the guidance of voters in voting[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form K: Form of directions for the guidance of voters in voting[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_012)
 
-### Form L: Certificate of Employment[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form L: Certificate of Employment[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_013)
 
-### Form M: Form of declaration to be made by the companion of a voter with disabilities[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form M: Form of declaration to be made by the companion of a voter with disabilities[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_014)
 
-## SCHEDULE 2 — DIRECTIONS AS TO PRINTING THE BALLOT PAPER[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+## SCHEDULE 2 — DIRECTIONS AS TO PRINTING THE BALLOT PAPER[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 Regulation 31
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — ABSENT VOTING FORMS[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+## SCHEDULE 3 — ABSENT VOTING FORMS[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 Regulation 55
 
-### Form O: Form of postal voting statement to be used at a European Parliamentary election taken alone — Front of statement[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form O: Form of postal voting statement to be used at a European Parliamentary election taken alone — Front of statement[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Back of statement[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Back of statement[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_018)
 
-### Form P: Form of postal voting statement to be used at a European Parliamentary election where the proceedings on the issue and receipt of postal ballot papers are taken together with those proceedings at a relevant election or referendum — Front of statement[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form P: Form of postal voting statement to be used at a European Parliamentary election where the proceedings on the issue and receipt of postal ballot papers are taken together with those proceedings at a relevant election or referendum — Front of statement[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Back of statement[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Back of statement[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_020)
 
-### Form Q: Form of postal voting statement to be used at a European Parliamentary election where the poll is taken together with the poll at a relevant election or referendum, but where the proceedings on the issue and receipt of postal ballot papers are not — Front of statement[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form Q: Form of postal voting statement to be used at a European Parliamentary election where the poll is taken together with the poll at a relevant election or referendum, but where the proceedings on the issue and receipt of postal ballot papers are not — Front of statement[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Back of statement[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Back of statement[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_022)
 
-## SCHEDULE 4 — FORMS TO BE USED WHEN POLLS ARE COMBINED[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+## SCHEDULE 4 — FORMS TO BE USED WHEN POLLS ARE COMBINED[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 Regulation 64
 
-### Form K1: Form of directions for the guidance of voters in voting[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form K1: Form of directions for the guidance of voters in voting[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_023)
 
-### Form M1: Form of declaration to be made by the companion of a voter with disabilities[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]
+### Form M1: Form of declaration to be made by the companion of a voter with disabilities[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_024)[image: see source](https://www.legislation.gov.uk/uksi/2013/2876/images/uksi_20132876_en_025)
 
-[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7fe34fe92f1fc539b6ae9dbe326b84ca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/2876) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-7fe34fe92f1fc539b6ae9dbe326b84ca]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2013/2876) revoked (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2018/1310/schedule/1/part/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))

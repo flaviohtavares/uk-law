@@ -22,7 +22,7 @@ summary: ''
 
 Section 149
 
-### Part 1 — Youth rehabilitation orders[^key-3aa813158ddf97c4971a30cd9c8b7ff4]
+### Part 1 — Youth rehabilitation orders[^c-3aa813158ddf97c4971a30cd9c8b7ff4]
 
 | *Title* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -43,13 +43,13 @@ Section 149
 | Prisoners (Return to Custody) Act 1995 (c. 16) | Section 2(2). |
 | Children (Northern Ireland Consequential Amendments) Order 1995 (S.I. 1995/ 756) | Article 7(2) and (3). |
 | Crime and Disorder Act 1998 (c. 37) | In section 38(4)—<br>- (a) paragraph (g);<br>- (b) in paragraph (h), the words “or a supervision order”.<br>In Schedule 8, paragraph 13(1). |
-| Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) | Chapters 1, 2, 4 and 5 of Part 4.<br>In section 74(3)(a), the words “or with the requirements of any community order or any youth community order to which he may be subject”.<br>In section 75, the words “action plan orders and” and “so far as relating to reparation orders”.<br>In section 137(2)—<br>- (a) paragraphs (a) to (c);<br>- (b) in paragraph (d), the words “action plan order or”.<br>In section 159, the words “paragraph 3(1), 10(6) or 18(1) of Schedule 3 to this Act,”, “paragraph 1(1) of Schedule 5 to this Act,” and “paragraph 7(2) of Schedule 7 to this Act, or”.<br>In section 160—<br>- (a) [^key-4b32f0ef52c2f8bb6d357f08e25a4519]...<br>- (b) in subsection (3)(a), “40(2)(a)”;<br>- (c) [^key-4b32f0ef52c2f8bb6d357f08e25a4519]...<br>In section 163, the definitions of—<br>- (a) “action plan order”;<br>- (b) “affected person”;<br>- (c) “attendance centre”;<br>- (d) “attendance centre order”;<br>- (e) “community sentence”;<br>- (f) “curfew order”;<br>- (g) “exclusion order”;<br>- (h) “supervision order”;<br>- (i) “supervisor”;<br>- (j) “youth community order”;<br>and paragraphs (a), (aa) and (f) of the definition of “responsible officer”.<br>Schedules 3 and 5 to 7.<br>In Schedule 8—<br>- (a) in the heading, the words “action plan orders and”;<br>- (b) paragraph 1 and the heading preceding that paragraph;<br>- (c) in the cross-heading before paragraph 2, the words “action plan order or”;<br>- (d) in paragraph 2—<br>  - (i) in sub-paragraph (2), in paragraph (a), sub-paragraphs (ii) and (iii) and in paragraphs (b) and (c) the words “action plan order or”;<br>  - (ii) in sub-paragraphs (5) and (7), the words “action plan order or”;<br>  - (iii) in sub-paragraph (8), the words “or action plan order” in both places;<br>- (d) paragraphs 3 and 4;<br>- (e) in the cross-heading before paragraph 5, the words “action plan order or”;<br>- (f) in paragraph 5(1)(a), the words “action plan order or”;<br>- (g) in paragraph 6(9)(a), (b) and (c), the words “action plan order or”.<br>In Schedule 9, paragraphs 1, 2(2), (3)(a) and (4), 28(2), 33, 34(b), 39, 41, 42, 49, 80, 93(a), 126(b), 127, 129, 131 and 132.<br>In Schedule 10, paragraphs 4 to 6 and 12 to 15.<br>In Schedule 11, paragraphs 4(1)(a), (2) and (3) and 5. |
+| Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) | Chapters 1, 2, 4 and 5 of Part 4.<br>In section 74(3)(a), the words “or with the requirements of any community order or any youth community order to which he may be subject”.<br>In section 75, the words “action plan orders and” and “so far as relating to reparation orders”.<br>In section 137(2)—<br>- (a) paragraphs (a) to (c);<br>- (b) in paragraph (d), the words “action plan order or”.<br>In section 159, the words “paragraph 3(1), 10(6) or 18(1) of Schedule 3 to this Act,”, “paragraph 1(1) of Schedule 5 to this Act,” and “paragraph 7(2) of Schedule 7 to this Act, or”.<br>In section 160—<br>- (a) [^c-4b32f0ef52c2f8bb6d357f08e25a4519]...<br>- (b) in subsection (3)(a), “40(2)(a)”;<br>- (c) [^c-4b32f0ef52c2f8bb6d357f08e25a4519]...<br>In section 163, the definitions of—<br>- (a) “action plan order”;<br>- (b) “affected person”;<br>- (c) “attendance centre”;<br>- (d) “attendance centre order”;<br>- (e) “community sentence”;<br>- (f) “curfew order”;<br>- (g) “exclusion order”;<br>- (h) “supervision order”;<br>- (i) “supervisor”;<br>- (j) “youth community order”;<br>and paragraphs (a), (aa) and (f) of the definition of “responsible officer”.<br>Schedules 3 and 5 to 7.<br>In Schedule 8—<br>- (a) in the heading, the words “action plan orders and”;<br>- (b) paragraph 1 and the heading preceding that paragraph;<br>- (c) in the cross-heading before paragraph 2, the words “action plan order or”;<br>- (d) in paragraph 2—<br>  - (i) in sub-paragraph (2), in paragraph (a), sub-paragraphs (ii) and (iii) and in paragraphs (b) and (c) the words “action plan order or”;<br>  - (ii) in sub-paragraphs (5) and (7), the words “action plan order or”;<br>  - (iii) in sub-paragraph (8), the words “or action plan order” in both places;<br>- (d) paragraphs 3 and 4;<br>- (e) in the cross-heading before paragraph 5, the words “action plan order or”;<br>- (f) in paragraph 5(1)(a), the words “action plan order or”;<br>- (g) in paragraph 6(9)(a), (b) and (c), the words “action plan order or”.<br>In Schedule 9, paragraphs 1, 2(2), (3)(a) and (4), 28(2), 33, 34(b), 39, 41, 42, 49, 80, 93(a), 126(b), 127, 129, 131 and 132.<br>In Schedule 10, paragraphs 4 to 6 and 12 to 15.<br>In Schedule 11, paragraphs 4(1)(a), (2) and (3) and 5. |
 | Care Standards Act 2000 (c. 14) | In Schedule 4, paragraph 28(3). |
 | Criminal Justice and Court Services Act 2000 (c. 43) | Section 46.<br>Section 52.<br>Section 70(5).<br>In Schedule 7—<br>- (a) in paragraph 4(2), in the entry relating to the Powers of Criminal Courts (Sentencing) Act 2000, the entries beginning “sections 63(1)(b)” and “in section 69”;<br>- (b) paragraphs 37(b), 69, 163, 164, 174, 175 and 192;<br>- (c) in paragraph 196, paragraphs (a), (b), (c)(i) and (iii) and (d);<br>- (d) in paragraph 197—<br>  - (i) paragraph (a);<br>  - (ii) paragraph (d);<br>  - (iii) in paragraph (f), the definitions of “affected person” and “exclusion order”;<br>  - (iv) paragraph (g)(i);<br>- (e) paragraphs 201, 202(2) and 204. |
 | Anti-social Behaviour Act 2003 (c. 38) | Section 88.<br>Schedule 2. |
 | Criminal Justice Act 2003 (c. 44) | In section 147, subsections (1)(b) and (2).<br>In section 148—<br>- (a) in subsection (2), the words “which consists of or includes a community order”;<br>- (b) subsection (3).<br>In section 156(2), “or (3)(a)”.<br>In section 161—<br>- (a) in subsection (1), the words “aged 14 or over”;<br>- (b) subsection (7).<br>In section 176, the definition of “youth community order”.<br>In section 197(1)(b), the words “the offender is aged 18 or over and”.<br>Section 199(4).<br>Section 211(5).<br>In section 221(2), paragraph (b) together with the word “or” immediately preceding it.<br>Section 279.<br>In section 330(5)(a), the entry relating to section 161(7).<br>In Schedule 8, paragraphs 12, 15 and 17(5).<br>Schedule 24.<br>In Schedule 32, paragraphs 2(2), 8(2)(a), 14, 64(3)(a)(ii), 70(5)(a) and (7), 73, 89(2), 95 to 105, 106(2), 107, 122, 123(3), (5) and (8), 125, 127, 128, 129, 131(3) and 138. |
 
-### Part 2 — Sentencing[^key-af2522862a466fcb047bef1bb7d67b86][^key-e1ba4e695977b8161b8b171737c9415c][^key-99303239168b9deda01961a941db7fbb][^key-2e0947e4ab52d9900ccaf2f0e49bd86f][^key-4edb71efc881b7f3323a5b857e297127]
+### Part 2 — Sentencing[^c-af2522862a466fcb047bef1bb7d67b86][^c-e1ba4e695977b8161b8b171737c9415c][^c-99303239168b9deda01961a941db7fbb][^c-2e0947e4ab52d9900ccaf2f0e49bd86f][^c-4edb71efc881b7f3323a5b857e297127]
 
 | *Title* | *Extent of repeal or revocation* |
 | --- | --- |
@@ -61,7 +61,7 @@ Section 149
 | Criminal Justice Act 2003 (Commencement No. 8 and Transitional and Saving Provisions) Order 2005 (S.I. 2005/950 | Paragraph 30 of Schedule 2. |
 | Armed Forces Act 2006 (c. 52) | In section 221—<br>- (a) in subsection (3)(a) and (b) the words “in section 226(2)”, and<br>- (b) subsection (4).<br>In section 223(3), the words “to (4)”.<br>In section 270—<br>- (a) subsection (7), and<br>- (b) in subsection (8), the word “Accordingly”.<br>In Schedule 16, paragraphs 218 and 225. |
 
-### Part 3 — Appeals[^key-c200acf9cd05e0adb74f6886b93963f7]
+### Part 3 — Appeals[^c-c200acf9cd05e0adb74f6886b93963f7]
 
 | *Title* | *Extent of repeal* |
 | --- | --- |
@@ -74,7 +74,7 @@ Section 149
 | Powers of Criminal Courts (Sentencing) Act 2000 (c. 6) | In section 155—<br>- (a) in subsection (1), the words from “or, where subsection (2) below applies” to the end;<br>- (b) subsections (2) and (3). |
 | Criminal Justice Act 2003 (c. 44) | Section 272(1). |
 
-### Part 4 — Other criminal justice provisions[^key-fc9c5960b4accf27a1d39860393c9953][^key-497c11098871347fde61758027a49fab][^key-5450769a489a3933bef8f4f55b487419][^key-a0b44ebade23939e968a6ca774b43b3e][^c1931221]
+### Part 4 — Other criminal justice provisions[^c-fc9c5960b4accf27a1d39860393c9953][^c-497c11098871347fde61758027a49fab][^c-5450769a489a3933bef8f4f55b487419][^c-a0b44ebade23939e968a6ca774b43b3e][^c1931221]
 
 | *Title* | *Extent of repeal* |
 | --- | --- |
@@ -88,7 +88,7 @@ Section 149
 | Sexual Offences Act 2003 (c. 42) | Section 86(4).<br>Section 87(6). |
 | Criminal Justice Act 2003 (c. 44) | Section 23A(7) to (9).<br>In Schedule 3, paragraphs 13, 22 and 57(2).<br>In Schedule 36, paragraph 50.<br>In Part 4 of Schedule 37, in the entry relating to the Magistrates' Courts Act 1980, in the second column, the words “In section 33(1), paragraph (b) and the word “and” immediately preceding it”. |
 
-### Part 5 — Criminal law[^key-9e4dcdc85f63caba672eef6379733261][^key-17c6f0fb5892f6e77f97ded634c7ff52][^c1931230]
+### Part 5 — Criminal law[^c-9e4dcdc85f63caba672eef6379733261][^c-17c6f0fb5892f6e77f97ded634c7ff52][^c1931230]
 
 | *Title* | *Extent of repeal* |
 | --- | --- |
@@ -99,7 +99,7 @@ Section 149
 | Sexual Offences Act 2003 (c. 42) | In Schedule 2, in paragraph 1(d), the words “in relation to a photograph or pseudo-photograph showing a child under 16”. |
 | Terrorism Act 2006 (c. 11) | Section 14. |
 
-### Part 6 — International co-operation in relation to criminal justice matters[^key-faac9e7ceb138921bfac5f0194d0b90b]
+### Part 6 — International co-operation in relation to criminal justice matters[^c-faac9e7ceb138921bfac5f0194d0b90b]
 
 | *Title* | *Extent of repeal* |
 | --- | --- |
@@ -107,13 +107,13 @@ Section 149
 | Repatriation of Prisoners Act 1984 (c. 47) | In section 1(4)(b) the words “under this Act”.<br>Section 3(10).<br>In section 8(1) the word “and” after the definition of “order”. |
 | Police and Justice Act 2006 (c. 48) | Section 44(4). |
 
-### Part 7 — Anti-social behaviour[^key-677c9d5c44e5a1b77b8d3259f1376626]
+### Part 7 — Anti-social behaviour[^c-677c9d5c44e5a1b77b8d3259f1376626]
 
 | *Title* | *Extent of repeal* |
 | --- | --- |
 | Police and Justice Act 2006 (c. 48) | In Schedule 14, paragraph 55(5). |
 
-### Part 8 — Policing[^key-7cebb685b43c2b59b31c6ee1eb454757][^key-1a0adcc2e8e2576338f11507e4c31569]
+### Part 8 — Policing[^c-7cebb685b43c2b59b31c6ee1eb454757][^c-1a0adcc2e8e2576338f11507e4c31569]
 
 | *Title* | *Extent of repeal* |
 | --- | --- |
@@ -127,42 +127,42 @@ Section 149
 
 ## Annotations
 
-[^key-3aa813158ddf97c4971a30cd9c8b7ff4]: Commencement: [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) in force at 30.11.2009 for specified purposes by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u)
+[^c-3aa813158ddf97c4971a30cd9c8b7ff4]: Commencement: [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) in force at 30.11.2009 for specified purposes by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(u)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/u)
 
-[^key-4b32f0ef52c2f8bb6d357f08e25a4519]: Textual amendment: [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) entries repealed (12.11.2009) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(1)(j)(ii)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/1/j/ii), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/4) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
+[^c-4b32f0ef52c2f8bb6d357f08e25a4519]: Textual amendment: [Sch. 28 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/1) entries repealed (12.11.2009) by [Coroners and Justice Act 2009 (c. 25)](https://www.legislation.gov.uk/ukpga/2009/25), [s. 182(1)(j)(ii)](https://www.legislation.gov.uk/ukpga/2009/25/section/182/1/j/ii), [Sch. 23 Pt. 4](https://www.legislation.gov.uk/ukpga/2009/25/schedule/23/part/4) (with [s. 180](https://www.legislation.gov.uk/ukpga/2009/25/section/180))
 
-[^key-af2522862a466fcb047bef1bb7d67b86]: Commencement: [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2) in force at 14.7.2008 for specified purposes by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1586/schedule/2/paragraph/2))
+[^c-af2522862a466fcb047bef1bb7d67b86]: Commencement: [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2) in force at 14.7.2008 for specified purposes by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50) (with [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/1586/schedule/2/paragraph/2))
 
-[^key-e1ba4e695977b8161b8b171737c9415c]: Commencement: [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 19(2)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/19/2)
+[^c-e1ba4e695977b8161b8b171737c9415c]: Commencement: [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 19(2)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/19/2)
 
-[^key-99303239168b9deda01961a941db7fbb]: Commencement: [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2) in force at 27.4.2009 for specified purposes by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2009/860/article/2/2/g)
+[^c-99303239168b9deda01961a941db7fbb]: Commencement: [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2) in force at 27.4.2009 for specified purposes by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(2)(g)](https://www.legislation.gov.uk/uksi/2009/860/article/2/2/g)
 
-[^key-2e0947e4ab52d9900ccaf2f0e49bd86f]: Commencement: [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2) in force at 31.10.2009 for specified purposes by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/2606/article/3/j)
+[^c-2e0947e4ab52d9900ccaf2f0e49bd86f]: Commencement: [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2) in force at 31.10.2009 for specified purposes by [S.I. 2009/2606](https://www.legislation.gov.uk/uksi/2009/2606), [art. 3(j)](https://www.legislation.gov.uk/uksi/2009/2606/article/3/j)
 
-[^key-4edb71efc881b7f3323a5b857e297127]: Commencement: [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2) in force at 23.3.2010 for specified purposes by [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/712/article/2/f)
+[^c-4edb71efc881b7f3323a5b857e297127]: Commencement: [Sch. 28 Pt. 2](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/2) in force at 23.3.2010 for specified purposes by [S.I. 2010/712](https://www.legislation.gov.uk/uksi/2010/712), [art. 2(f)](https://www.legislation.gov.uk/uksi/2010/712/article/2/f)
 
-[^key-c200acf9cd05e0adb74f6886b93963f7]: Commencement: [Sch. 28 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/3) in force at 14.7.2008 for specified purposes by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50) (with [Sch. 2 paras. 4-6](https://www.legislation.gov.uk/uksi/2008/1586/schedule/2/paragraph/4), [9](https://www.legislation.gov.uk/uksi/2008/1586/schedule/2/paragraph/9))
+[^c-c200acf9cd05e0adb74f6886b93963f7]: Commencement: [Sch. 28 Pt. 3](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/3) in force at 14.7.2008 for specified purposes by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50) (with [Sch. 2 paras. 4-6](https://www.legislation.gov.uk/uksi/2008/1586/schedule/2/paragraph/4), [9](https://www.legislation.gov.uk/uksi/2008/1586/schedule/2/paragraph/9))
 
-[^key-fc9c5960b4accf27a1d39860393c9953]: Commencement: [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4) in force at 14.7.2008 for specified purposes by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50)
+[^c-fc9c5960b4accf27a1d39860393c9953]: Commencement: [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4) in force at 14.7.2008 for specified purposes by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50)
 
-[^key-497c11098871347fde61758027a49fab]: Commencement: [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/19/3)
+[^c-497c11098871347fde61758027a49fab]: Commencement: [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 19(3)](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/19/3)
 
-[^key-5450769a489a3933bef8f4f55b487419]: Commencement: [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4) in force at 8.7.2009 for specified purposes by [S.I. 2009/1678](https://www.legislation.gov.uk/uksi/2009/1678), [art. 3(c)](https://www.legislation.gov.uk/uksi/2009/1678/article/3/c)
+[^c-5450769a489a3933bef8f4f55b487419]: Commencement: [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4) in force at 8.7.2009 for specified purposes by [S.I. 2009/1678](https://www.legislation.gov.uk/uksi/2009/1678), [art. 3(c)](https://www.legislation.gov.uk/uksi/2009/1678/article/3/c)
 
-[^key-a0b44ebade23939e968a6ca774b43b3e]: Commencement: [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4) in force at 8.4.2013 for specified purposes by [S.I. 2013/616](https://www.legislation.gov.uk/uksi/2013/616), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/616/article/2/d)
+[^c-a0b44ebade23939e968a6ca774b43b3e]: Commencement: [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4) in force at 8.4.2013 for specified purposes by [S.I. 2013/616](https://www.legislation.gov.uk/uksi/2013/616), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/616/article/2/d)
 
 [^c1931221]: Commencement: [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4) partly in force; [Sch. 28 Pt. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/4) partly in force at Royal Assent, see [s. 153(1)(a)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/1/a) and further in force for certain purposes at 8.7.2008, see [s. 153(2)(a)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/2/a)
 
-[^key-9e4dcdc85f63caba672eef6379733261]: Commencement: Sch. 28 Pt. 5 in force at 14.7.2008 for specified purposes by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50)
+[^c-9e4dcdc85f63caba672eef6379733261]: Commencement: Sch. 28 Pt. 5 in force at 14.7.2008 for specified purposes by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50)
 
-[^key-17c6f0fb5892f6e77f97ded634c7ff52]: Commencement: Sch. 28 Pt. 5 in force at 30.11.2009 for specified purposes by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/v)
+[^c-17c6f0fb5892f6e77f97ded634c7ff52]: Commencement: Sch. 28 Pt. 5 in force at 30.11.2009 for specified purposes by [S.I. 2009/3074](https://www.legislation.gov.uk/uksi/2009/3074), [art. 2(v)](https://www.legislation.gov.uk/uksi/2009/3074/article/2/v)
 
 [^c1931230]: Commencement: Sch. 28 Pt. 5 partly in force at Royal Assent, see s. 153(1)(j) and further in force for certain purposes at 8.7.2008, see s. 153(2)(d)
 
-[^key-faac9e7ceb138921bfac5f0194d0b90b]: Commencement: [Sch. 28 Pt. 6](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/6) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50)
+[^c-faac9e7ceb138921bfac5f0194d0b90b]: Commencement: [Sch. 28 Pt. 6](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/6) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50)
 
-[^key-677c9d5c44e5a1b77b8d3259f1376626]: Commencement: [Sch. 28 Pt. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/7) in force at 1.4.2009 by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2009/860/article/2/1/j)
+[^c-677c9d5c44e5a1b77b8d3259f1376626]: Commencement: [Sch. 28 Pt. 7](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/7) in force at 1.4.2009 by [S.I. 2009/860](https://www.legislation.gov.uk/uksi/2009/860), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2009/860/article/2/1/j)
 
-[^key-7cebb685b43c2b59b31c6ee1eb454757]: Commencement: [Sch. 28 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/8) in force at 14.7.2008 for specified purposes by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50)
+[^c-7cebb685b43c2b59b31c6ee1eb454757]: Commencement: [Sch. 28 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/8) in force at 14.7.2008 for specified purposes by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/50)
 
-[^key-1a0adcc2e8e2576338f11507e4c31569]: Commencement: [Sch. 28 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/8) in force at 1.12.2008 for specified purposes by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/k)
+[^c-1a0adcc2e8e2576338f11507e4c31569]: Commencement: [Sch. 28 Pt. 8](https://www.legislation.gov.uk/ukpga/2008/4/schedule/28/part/8) in force at 1.12.2008 for specified purposes by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/k)

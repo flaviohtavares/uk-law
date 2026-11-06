@@ -32,7 +32,7 @@ summary: ''
 
 Food, england
 
-The Food (Suspension of the Use of E 128 Red 2G as Food Colour) (England) Regulations 2007 (revoked)[^key-77b72a74f6cfa576919e802f5ab36db7]
+The Food (Suspension of the Use of E 128 Red 2G as Food Colour) (England) Regulations 2007 (revoked)[^c-77b72a74f6cfa576919e802f5ab36db7]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 2nd August 2007
 
-[^key-77b72a74f6cfa576919e802f5ab36db7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-77b72a74f6cfa576919e802f5ab36db7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-77b72a74f6cfa576919e802f5ab36db7]
+## 1. Title, application and commencement[^c-77b72a74f6cfa576919e802f5ab36db7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-77b72a74f6cfa576919e802f5ab36db7]
+## 2. Interpretation[^c-77b72a74f6cfa576919e802f5ab36db7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Suspension of activities involving the colour E128 Red 2G[^key-77b72a74f6cfa576919e802f5ab36db7]
+## 3. Suspension of activities involving the colour E128 Red 2G[^c-77b72a74f6cfa576919e802f5ab36db7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-77b72a74f6cfa576919e802f5ab36db7]
+## 4. Enforcement[^c-77b72a74f6cfa576919e802f5ab36db7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Application of various provisions of the Food Safety Act 1990[^key-77b72a74f6cfa576919e802f5ab36db7]
+## 5. Application of various provisions of the Food Safety Act 1990[^c-77b72a74f6cfa576919e802f5ab36db7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-77b72a74f6cfa576919e802f5ab36db7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-77b72a74f6cfa576919e802f5ab36db7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-77b72a74f6cfa576919e802f5ab36db7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-77b72a74f6cfa576919e802f5ab36db7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-77b72a74f6cfa576919e802f5ab36db7]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)
+[^c-77b72a74f6cfa576919e802f5ab36db7]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (England) Regulations 2013 (S.I. 2013/2210)](https://www.legislation.gov.uk/uksi/2013/2210), [reg. 1](https://www.legislation.gov.uk/uksi/2013/2210/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2013/2210/schedule/5)

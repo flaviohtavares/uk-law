@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: S*
 
-(A1)[^key-5ee7d4d563b5e24575aa37b241658baf] A person may not contribute to or accrue further pensionable service under this Section of the scheme in relation to the person’s service after 31st March 2022.
+(A1)[^c-5ee7d4d563b5e24575aa37b241658baf] A person may not contribute to or accrue further pensionable service under this Section of the scheme in relation to the person’s service after 31st March 2022.
 
 (A2) Paragraphs (1) to (18) of this regulation apply to a person’s service under this Section of the scheme before 1st April 2022.
 
-(A3)[^key-2c9901b366690f62c07ad2e04d5d2147] Nothing in paragraphs (4) to (18) of this regulation prevents a member’s remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 being treated as pensionable service under this scheme in accordance with section 2 of that Act (Remediable service treated as pensionable under Chapter 1 legacy schemes).
+(A3)[^c-2c9901b366690f62c07ad2e04d5d2147] Nothing in paragraphs (4) to (18) of this regulation prevents a member’s remediable service within the meaning of section 1 of the Public Service Pensions and Judicial Offices Act 2022 being treated as pensionable service under this scheme in accordance with section 2 of that Act (Remediable service treated as pensionable under Chapter 1 legacy schemes).
 
 (1) Members who—
 
@@ -44,7 +44,7 @@ may not continue to contribute to or accrue further pensionable service under th
 - (a) regulation E4(3)(a) (re-assessment of ill health condition determined under regulation E3) applies may not (except where sub-paragraph (b) applies) contribute to or accrue further pensionable service under this Section of the scheme from the date the Scottish Ministers make a determination under that regulation;
 - (b) sub-paragraph (a) applies may contribute to or accrue further pensionable service under this Section of the scheme from the day after the first anniversary of that person's NHS employment following the date of the Scottish Ministers' determination under regulation E3 if that person is under the age of 50 on that day.
 
-(4)[^key-5d849af3bcc57b99481682c28d545fff] A person who on 1st April 2012 has not attained the age of 41 years and 7 months may not contribute to or accrue further pensionable service under this Section of the scheme in respect of service in NHS employment on, or after, 1st<sup></sup>April 2015.
+(4)[^c-5d849af3bcc57b99481682c28d545fff] A person who on 1st April 2012 has not attained the age of 41 years and 7 months may not contribute to or accrue further pensionable service under this Section of the scheme in respect of service in NHS employment on, or after, 1st<sup></sup>April 2015.
 
 (5) A person who on 1st April 2012 has attained the age of 50 may not contribute to or accrue further pensionable service under this Section of the scheme unless that person either—
 
@@ -125,8 +125,8 @@ where—
 
 ## Annotations
 
-[^key-5ee7d4d563b5e24575aa37b241658baf]: Textual amendment: [Reg. B3(A1)](https://www.legislation.gov.uk/ssi/2011/117/regulation/B3/A1)[(A2)](https://www.legislation.gov.uk/ssi/2011/117/regulation/B3/A2) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/100/regulation/2)
+[^c-5ee7d4d563b5e24575aa37b241658baf]: Textual amendment: [Reg. B3(A1)](https://www.legislation.gov.uk/ssi/2011/117/regulation/B3/A1)[(A2)](https://www.legislation.gov.uk/ssi/2011/117/regulation/B3/A2) inserted (1.4.2022) by [The National Health Service Pension Schemes (Scotland) Amendment Regulations 2022 (S.S.I. 2022/100)](https://www.legislation.gov.uk/ssi/2022/100), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2022/100/regulation/1/2), [2](https://www.legislation.gov.uk/ssi/2022/100/regulation/2)
 
-[^key-2c9901b366690f62c07ad2e04d5d2147]: Textual amendment: [Reg. B3(A3)](https://www.legislation.gov.uk/ssi/2011/117/regulation/B3/A3) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 1](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/1)
+[^c-2c9901b366690f62c07ad2e04d5d2147]: Textual amendment: [Reg. B3(A3)](https://www.legislation.gov.uk/ssi/2011/117/regulation/B3/A3) inserted (1.10.2023) by [The National Health Service Pension Schemes (Remediable Service) (Scotland) Regulations 2023 (S.S.I. 2023/246)](https://www.legislation.gov.uk/ssi/2023/246), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2023/246/regulation/1/2), [sch. para. 1](https://www.legislation.gov.uk/ssi/2023/246/schedule/paragraph/1)
 
-[^key-5d849af3bcc57b99481682c28d545fff]: Textual amendment: Reg. B3(4)-(18) added (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/3)
+[^c-5d849af3bcc57b99481682c28d545fff]: Textual amendment: Reg. B3(4)-(18) added (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [reg. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2015/95/schedule/2/paragraph/3)

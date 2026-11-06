@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 212T. Cap on first-year allowances: zero-emission goods vehicles[^key-8721a374143753e2b185a8434fd7b8ab]
+## 212T. Cap on first-year allowances: zero-emission goods vehicles[^c-8721a374143753e2b185a8434fd7b8ab]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,12 +53,12 @@ summary: ''
   - (a) an autonomous enterprise, or
   - (b) an enterprise (not within paragraph (a)) and its partner enterprises (if any) and its linked enterprises (if any),
 
-and “enterprise”, “autonomous enterprise”, “partner enterprise” and “linked enterprise” have the meaning given by Annex 1 to the Commission Regulation ([^key-f7fccfcccbcb00afe6248d32be042f6c]EU) No 651/2014 (General block exemption Regulation) as it had effect in the United Kingdom immediately before IP completion day[^key-fa042bb97f885f3665bf68c00feed16e].
+and “enterprise”, “autonomous enterprise”, “partner enterprise” and “linked enterprise” have the meaning given by Annex 1 to the Commission Regulation ([^c-f7fccfcccbcb00afe6248d32be042f6c]EU) No 651/2014 (General block exemption Regulation) as it had effect in the United Kingdom immediately before IP completion day[^c-fa042bb97f885f3665bf68c00feed16e].
 
 ## Annotations
 
-[^key-8721a374143753e2b185a8434fd7b8ab]: Textual amendment: Pt. 2 Ch. 16B inserted (with effect in accordance with Sch. 7 para. 7 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2010/33/schedule/7/paragraph/6)
+[^c-8721a374143753e2b185a8434fd7b8ab]: Textual amendment: Pt. 2 Ch. 16B inserted (with effect in accordance with Sch. 7 para. 7 of the amending Act) by [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2010/33/schedule/7/paragraph/6)
 
-[^key-f7fccfcccbcb00afe6248d32be042f6c]: Textual amendment: Words in s. 212T(6) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/6)
+[^c-f7fccfcccbcb00afe6248d32be042f6c]: Textual amendment: Words in s. 212T(6) substituted (with effect in accordance with Sch. 13 para. 8 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2014/26/schedule/13/paragraph/6)
 
-[^key-fa042bb97f885f3665bf68c00feed16e]: Textual amendment: Words in s. 212T(6) inserted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/3/4)
+[^c-fa042bb97f885f3665bf68c00feed16e]: Textual amendment: Words in s. 212T(6) inserted (31.12.2020) by [The Taxes (State Aid) (Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1499)](https://www.legislation.gov.uk/uksi/2020/1499), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1499/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2020/1499/regulation/3/4)

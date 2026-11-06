@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Services in relation to certain ships and aircraft[^key-7aaf624c0fbbe8e5adbbe9605398fe36][^key-e7f567921165d2a42807904ff08ee345]
+## 33. Services in relation to certain ships and aircraft[^c-7aaf624c0fbbe8e5adbbe9605398fe36][^c-e7f567921165d2a42807904ff08ee345]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7aaf624c0fbbe8e5adbbe9605398fe36]: Commencement: Reg. 33 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-7aaf624c0fbbe8e5adbbe9605398fe36]: Commencement: Reg. 33 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-e7f567921165d2a42807904ff08ee345]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2019/461/regulation/33) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7f567921165d2a42807904ff08ee345]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2019/461/regulation/33) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

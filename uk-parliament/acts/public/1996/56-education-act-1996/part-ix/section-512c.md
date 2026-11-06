@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 512C. School food standards: Academies[^key-c9eb736923d661800f4bb9f0c557857b]
+## 512C. School food standards: Academies[^c-c9eb736923d661800f4bb9f0c557857b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9eb736923d661800f4bb9f0c557857b]: Textual amendment: S. 512C inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/31/2), [78(2)(c)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/c)
+[^c-c9eb736923d661800f4bb9f0c557857b]: Textual amendment: S. 512C inserted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2026/21/section/31/2), [78(2)(c)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/c)

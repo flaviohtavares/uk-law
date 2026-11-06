@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 224. Regulations: general[^key-5fbffb021f88b26504616de7d1200c17]
+## 224. Regulations: general[^c-5fbffb021f88b26504616de7d1200c17]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ This subsection does not apply to regulations under section 223 (consequential p
 
 ## Annotations
 
-[^key-5fbffb021f88b26504616de7d1200c17]: Commencement: S. 224 in force at Royal Assent, see [s. 240(z4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z4)
+[^c-5fbffb021f88b26504616de7d1200c17]: Commencement: S. 224 in force at Royal Assent, see [s. 240(z4)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z4)

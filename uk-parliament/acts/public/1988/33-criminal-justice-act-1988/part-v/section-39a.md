@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39A. Time limit for prosecution of common assault or battery in domestic abuse cases[^key-32b594aeb1b9d17804e43bdc4bc2edc7]
+## 39A. Time limit for prosecution of common assault or battery in domestic abuse cases[^c-32b594aeb1b9d17804e43bdc4bc2edc7]
 
 *Extent: E+W*
 
@@ -57,4 +57,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32b594aeb1b9d17804e43bdc4bc2edc7]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/1988/33/section/39A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 49](https://www.legislation.gov.uk/ukpga/2022/32/section/49), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/f)
+[^c-32b594aeb1b9d17804e43bdc4bc2edc7]: Textual amendment: [S. 39A](https://www.legislation.gov.uk/ukpga/1988/33/section/39A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 49](https://www.legislation.gov.uk/ukpga/2022/32/section/49), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(f)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/f)

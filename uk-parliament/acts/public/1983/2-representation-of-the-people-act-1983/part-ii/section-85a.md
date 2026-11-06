@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85A. Disqualification where no return and declarations transmitted after election of Mayor of London.[^M_C_f81306ea-7198-4e4b-e781-787bcbb77ba0][^key-a74e98e474fb049a86157667748ff177][^c14494961][^c14479931]
+## 85A. Disqualification where no return and declarations transmitted after election of Mayor of London.[^M_C_f81306ea-7198-4e4b-e781-787bcbb77ba0][^c-a74e98e474fb049a86157667748ff177][^c14494961][^c14479931]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,7 +35,7 @@ summary: ''
 
 [^M_C_f81306ea-7198-4e4b-e781-787bcbb77ba0]: Modification: S. 85A applied (with modifications) (27.3.2007) by [The Local Authorities (Mayoral Elections) (England and Wales) Regulations 2007 (S.I. 2007/1024)](https://www.legislation.gov.uk/uksi/2007/1024), [Sch. 2](https://www.legislation.gov.uk/uksi/2007/1024/schedule/2) Table 1
 
-[^key-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
+[^c-a74e98e474fb049a86157667748ff177]: Modification: Ss. 73-90D restricted (W.) (4.12.2020) by [The Local Government (Coronavirus) (Postponement of Elections) (Wales) (No. 2) Regulations 2020 (S.I. 2020/1399)](https://www.legislation.gov.uk/wsi/2020/1399), [regs. 2](https://www.legislation.gov.uk/wsi/2020/1399/regulation/2), [7(2)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/2) (with [reg. 7(8)](https://www.legislation.gov.uk/wsi/2020/1399/regulation/7/8))
 
 [^c14494961]: Textual amendment: S. 85A inserted (14.12.1999) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 17](https://www.legislation.gov.uk/ukpga/1999/29/section/17), [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/1999/29/schedule/3/paragraph/26) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 1999/3376](https://www.legislation.gov.uk/uksi/1999/3376), [art. 2](https://www.legislation.gov.uk/uksi/1999/3376/article/2)
 

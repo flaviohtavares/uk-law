@@ -64,9 +64,9 @@ An Act to amend the law relating to social security and to make fresh provision 
 
 *Extent: E+W+S*
 
-### 13. Benefits under schemes for improving nutrition: pregnant women, mothers and children[^c8049451][^key-a4c82eeac942245e06afbcdfba41d79f][^key-7ae2bc004cb39424e2df07a9a52c1303]
+### 13. Benefits under schemes for improving nutrition: pregnant women, mothers and children[^c8049451][^c-a4c82eeac942245e06afbcdfba41d79f][^c-7ae2bc004cb39424e2df07a9a52c1303]
 
-(1)[^key-d2bceff60fc133ffa6fc5b9f8d60d0cd] Regulations may establish one or more schemes to provide benefits for prescribed descriptions of—
+(1)[^c-d2bceff60fc133ffa6fc5b9f8d60d0cd] Regulations may establish one or more schemes to provide benefits for prescribed descriptions of—
 
 - (a) pregnant women,
 - (b) mothers, and
@@ -74,7 +74,7 @@ An Act to amend the law relating to social security and to make fresh provision 
 
 with a view to helping and encouraging them to have access to, and to incorporate in their diets, food of a prescribed description.
 
-(2) Before establishing, or varying, a scheme the Secretary of State must consult [^key-efeaa5761cede93e4ea0964996a0bcc0]... the National Assembly for Wales (“**the Assembly**”).
+(2) Before establishing, or varying, a scheme the Secretary of State must consult [^c-efeaa5761cede93e4ea0964996a0bcc0]... the National Assembly for Wales (“**the Assembly**”).
 
 (3) A scheme may, in particular, specify requirements that must be satisfied—
 
@@ -108,7 +108,7 @@ with a view to helping and encouraging them to have access to, and to incorporat
 
 (6) The power to prescribe descriptions of food (conferred by subsection (1)) is to be exercised, in relation to the operation of a scheme in Wales, by regulations made by the Assembly.
 
-(7)[^key-cf1e8a0e0e3cdddd6a29bcd4f0a66873] The Secretary of State may give such directions—
+(7)[^c-cf1e8a0e0e3cdddd6a29bcd4f0a66873] The Secretary of State may give such directions—
 
 - (a) to a body administering a scheme (or part of a scheme),
 - (b) in relation to matters relating to the operation of the scheme (or that part of the scheme),
@@ -146,7 +146,7 @@ as it considers appropriate.
 
 ### 14. National Health Service—remission of charges and payment of travelling expenses.[^c8049501]
 
-(1)[^key-db260ff99e35ff037f20edeccdbf5024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-db260ff99e35ff037f20edeccdbf5024] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The following section shall be inserted after section 75 of the [^c8049521]National Health Service (Scotland) Act 1978—
 
@@ -200,14 +200,14 @@ as it considers appropriate.
 
 (1) Section 175(2) to (5) of the Social Security Contributions and Benefits Act 1992[^c8049591] (regulations and orders: general provisions) shall apply in relation to any power conferred by any provision of this Act to make orders or regulations under this Act as they apply in relation to any power conferred by that Act to make orders or regulations, but as if for references to that Act there were substituted references to this Act.
 
-(2)[^key-51fcc760d792e395dfc3890e3e4a27cb] A statutory instrument made by the Secretary of State—
+(2)[^c-51fcc760d792e395dfc3890e3e4a27cb] A statutory instrument made by the Secretary of State—
 
 - (a) which contains (whether alone or with other provisions) any orders or regulations under this Act, other than orders under section 18 below, and
 - (b) which is not subject to any requirement that a draft of the instrument be laid before and approved by a resolution of each House of Parliament,
 
 shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(3)[^key-30125fbb8cdc3cdf76bcd9ff82e83213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-30125fbb8cdc3cdf76bcd9ff82e83213] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 16. Minor and consequential amendments and repeals.
 
@@ -303,7 +303,7 @@ Section 16.
 
 ### Exemption from Income Tax
 
-**1.**[^key-eb7c88093d80a061bb52f19b8897ad6d][^c8049801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eb7c88093d80a061bb52f19b8897ad6d][^c8049801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Employment and Training
 
@@ -387,19 +387,19 @@ The repeal of section 69 of the [^c8049901]Social Security Act 1975 is subject t
 
 [^c8049451]: Subordinate legislation: S. 13: for exercises of this power see Index to Government Orders.
 
-[^key-a4c82eeac942245e06afbcdfba41d79f]: Modification: S. 13 savings for effects of 2003 c. 43, s. 185 (7.10.2005) by [The Health and Social Care (Community Health and Standards) Act 2003 (Savings) Order 2005 (S.I. 2005/2279)](https://www.legislation.gov.uk/uksi/2005/2279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2279/article/1/1), [2](https://www.legislation.gov.uk/uksi/2005/2279/article/2)
+[^c-a4c82eeac942245e06afbcdfba41d79f]: Modification: S. 13 savings for effects of 2003 c. 43, s. 185 (7.10.2005) by [The Health and Social Care (Community Health and Standards) Act 2003 (Savings) Order 2005 (S.I. 2005/2279)](https://www.legislation.gov.uk/uksi/2005/2279), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/2279/article/1/1), [2](https://www.legislation.gov.uk/uksi/2005/2279/article/2)
 
-[^key-7ae2bc004cb39424e2df07a9a52c1303]: Textual amendment: S. 13 substituted (20.11.2003 for specified purposes, 12.8.2005 for specified purposes, 7.10.2005 for specified purposes, 27.10.2006 in so far as not already in force) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 185(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/185/1), [199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1), [199(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4); [S.I. 2005/2278](https://www.legislation.gov.uk/uksi/2005/2278), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/2); [S.I. 2006/2817](https://www.legislation.gov.uk/uksi/2006/2817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2817/article/2/a)
+[^c-7ae2bc004cb39424e2df07a9a52c1303]: Textual amendment: S. 13 substituted (20.11.2003 for specified purposes, 12.8.2005 for specified purposes, 7.10.2005 for specified purposes, 27.10.2006 in so far as not already in force) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 185(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/185/1), [199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1), [199(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4); [S.I. 2005/2278](https://www.legislation.gov.uk/uksi/2005/2278), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/1)[(2)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/2); [S.I. 2006/2817](https://www.legislation.gov.uk/uksi/2006/2817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2817/article/2/a)
 
-[^key-d2bceff60fc133ffa6fc5b9f8d60d0cd]: Modification: S. 13(1) transfer of functions (16.12.2006 for specified purposes, 29.1.2007 in so far as not already in force) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No.3) Order 2006 (S.I. 2006/3258)](https://www.legislation.gov.uk/uksi/2006/3258), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3258/article/1/1)[(3)](https://www.legislation.gov.uk/uksi/2006/3258/article/1/3)[2](https://www.legislation.gov.uk/uksi/2006/3258/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/3258/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2006/3258/article/5))
+[^c-d2bceff60fc133ffa6fc5b9f8d60d0cd]: Modification: S. 13(1) transfer of functions (16.12.2006 for specified purposes, 29.1.2007 in so far as not already in force) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No.3) Order 2006 (S.I. 2006/3258)](https://www.legislation.gov.uk/uksi/2006/3258), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3258/article/1/1)[(3)](https://www.legislation.gov.uk/uksi/2006/3258/article/1/3)[2](https://www.legislation.gov.uk/uksi/2006/3258/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/3258/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2006/3258/article/5))
 
-[^key-efeaa5761cede93e4ea0964996a0bcc0]: Textual amendment: Words in s. 13(2) omitted (8.2.2019) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 27(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/27/5), [72(4)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/b); [S.I. 2018/1364](https://www.legislation.gov.uk/uksi/2018/1364), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1364/regulation/2)
+[^c-efeaa5761cede93e4ea0964996a0bcc0]: Textual amendment: Words in s. 13(2) omitted (8.2.2019) by virtue of [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 27(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/27/5), [72(4)(b)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/b); [S.I. 2018/1364](https://www.legislation.gov.uk/uksi/2018/1364), [reg. 2](https://www.legislation.gov.uk/uksi/2018/1364/regulation/2)
 
-[^key-cf1e8a0e0e3cdddd6a29bcd4f0a66873]: Modification: S. 13(7) transfer of functions (16.12.2006 for specified purposes, 29.1.2007 in so far as not already in force) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No.3) Order 2006 (S.I. 2006/3258)](https://www.legislation.gov.uk/uksi/2006/3258), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3258/article/1/1)[(3)](https://www.legislation.gov.uk/uksi/2006/3258/article/1/3)[2](https://www.legislation.gov.uk/uksi/2006/3258/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/3258/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2006/3258/article/5))
+[^c-cf1e8a0e0e3cdddd6a29bcd4f0a66873]: Modification: S. 13(7) transfer of functions (16.12.2006 for specified purposes, 29.1.2007 in so far as not already in force) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) (No.3) Order 2006 (S.I. 2006/3258)](https://www.legislation.gov.uk/uksi/2006/3258), [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/3258/article/1/1)[(3)](https://www.legislation.gov.uk/uksi/2006/3258/article/1/3)[2](https://www.legislation.gov.uk/uksi/2006/3258/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2006/3258/schedule) (with [art. 5](https://www.legislation.gov.uk/uksi/2006/3258/article/5))
 
 [^c8049501]: Modification: The text of s. 14(1) and (2), Sch. 2 paras. 2 and 3, Sch. 4 paras. 1 , 2, 21 and 22 and Sch. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.7.1992
 
-[^key-db260ff99e35ff037f20edeccdbf5024]: Textual amendment: [S. 14(1)](https://www.legislation.gov.uk/ukpga/1988/7/section/14/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-db260ff99e35ff037f20edeccdbf5024]: Textual amendment: [S. 14(1)](https://www.legislation.gov.uk/ukpga/1988/7/section/14/1) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c8049521]: Marginal citation: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29).
 
@@ -413,9 +413,9 @@ The repeal of section 69 of the [^c8049901]Social Security Act 1975 is subject t
 
 [^c8049591]: Textual amendment: Words in s. 15A(1) substituted (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6), [Sch. 2 para. 96](https://www.legislation.gov.uk/ukpga/1992/6/schedule/2/paragraph/96)
 
-[^key-51fcc760d792e395dfc3890e3e4a27cb]: Textual amendment: Words in [s. 15A(2)](https://www.legislation.gov.uk/ukpga/1988/7/section/15A/2) inserted (20.11.2003 for specified purposes, 7.10.2005 for specified purposes, 27.10.2006 in so far as not already in force) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 185(2)(a)](https://www.legislation.gov.uk/ukpga/2003/43/section/185/2/a), [199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1), [199(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4); [S.I. 2005/2278](https://www.legislation.gov.uk/uksi/2005/2278), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/2); [S.I. 2006/2817](https://www.legislation.gov.uk/uksi/2006/2817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2817/article/2/a)
+[^c-51fcc760d792e395dfc3890e3e4a27cb]: Textual amendment: Words in [s. 15A(2)](https://www.legislation.gov.uk/ukpga/1988/7/section/15A/2) inserted (20.11.2003 for specified purposes, 7.10.2005 for specified purposes, 27.10.2006 in so far as not already in force) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 185(2)(a)](https://www.legislation.gov.uk/ukpga/2003/43/section/185/2/a), [199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1), [199(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4); [S.I. 2005/2278](https://www.legislation.gov.uk/uksi/2005/2278), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/2); [S.I. 2006/2817](https://www.legislation.gov.uk/uksi/2006/2817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2817/article/2/a)
 
-[^key-30125fbb8cdc3cdf76bcd9ff82e83213]: Textual amendment: [S. 15A(3)](https://www.legislation.gov.uk/ukpga/1988/7/section/15A/3) repealed (20.11.2003 for specified purposes, 7.10.2005 for specified purposes, 27.10.2006 in so far as not already in force) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 185(2)(b)](https://www.legislation.gov.uk/ukpga/2003/43/section/185/2/b), [199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1), [199(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pts. 5](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/5); [S.I. 2005/2278](https://www.legislation.gov.uk/uksi/2005/2278), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/2); [S.I. 2006/2817](https://www.legislation.gov.uk/uksi/2006/2817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2817/article/2/a)
+[^c-30125fbb8cdc3cdf76bcd9ff82e83213]: Textual amendment: [S. 15A(3)](https://www.legislation.gov.uk/ukpga/1988/7/section/15A/3) repealed (20.11.2003 for specified purposes, 7.10.2005 for specified purposes, 27.10.2006 in so far as not already in force) by [Health and Social Care (Community Health and Standards) Act 2003 (c. 43)](https://www.legislation.gov.uk/ukpga/2003/43), [ss. 185(2)(b)](https://www.legislation.gov.uk/ukpga/2003/43/section/185/2/b), [199(1)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/1), [199(4)](https://www.legislation.gov.uk/ukpga/2003/43/section/199/4), [Sch. 14 Pts. 5](https://www.legislation.gov.uk/ukpga/2003/43/schedule/14/part/5); [S.I. 2005/2278](https://www.legislation.gov.uk/uksi/2005/2278), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/2278/article/2/2); [S.I. 2006/2817](https://www.legislation.gov.uk/uksi/2006/2817), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/2817/article/2/a)
 
 [^c8049601]: Textual amendment: [Ss. 1–8](https://www.legislation.gov.uk/ukpga/1988/7/section/1), [10](https://www.legislation.gov.uk/ukpga/1988/7/section/10), [11](https://www.legislation.gov.uk/ukpga/1988/7/section/11), [17](https://www.legislation.gov.uk/ukpga/1988/7/section/17), words in s. 18(2); [Sch. 1](https://www.legislation.gov.uk/ukpga/1988/7/schedule/1); [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/1988/7/schedule/2/paragraph/1/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/1988/7/schedule/3); [Sch. 4 paras. 3–20](https://www.legislation.gov.uk/ukpga/1988/7/schedule/4/paragraph/3), [23–30](https://www.legislation.gov.uk/ukpga/1988/7/schedule/4/paragraph/23) repealed (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6)
 
@@ -445,7 +445,7 @@ The repeal of section 69 of the [^c8049901]Social Security Act 1975 is subject t
 
 [^c8049791]: Textual amendment: [Ss. 1–8](https://www.legislation.gov.uk/ukpga/1988/7/section/1), [10](https://www.legislation.gov.uk/ukpga/1988/7/section/10), [11](https://www.legislation.gov.uk/ukpga/1988/7/section/11), [17](https://www.legislation.gov.uk/ukpga/1988/7/section/17), words in s. 18(2); [Sch. 1](https://www.legislation.gov.uk/ukpga/1988/7/schedule/1); [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/1988/7/schedule/2/paragraph/1/1), [Sch. 3](https://www.legislation.gov.uk/ukpga/1988/7/schedule/3); [Sch. 4 paras. 3–20](https://www.legislation.gov.uk/ukpga/1988/7/schedule/4/paragraph/3), [23–30](https://www.legislation.gov.uk/ukpga/1988/7/schedule/4/paragraph/23) repealed (1.7.1992) by [Social Security (Consequential Provisions) Act 1992 (c. 6)](https://www.legislation.gov.uk/ukpga/1992/6)
 
-[^key-eb7c88093d80a061bb52f19b8897ad6d]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1988/7/schedule/4/paragraph/1) repealed (with effect in accordance with s. 723(1)(a)(b) of the commencing Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-eb7c88093d80a061bb52f19b8897ad6d]: Textual amendment: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/1988/7/schedule/4/paragraph/1) repealed (with effect in accordance with s. 723(1)(a)(b) of the commencing Act) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
 
 [^c8049801]: Modification: The text of s. 14(1) and (2), Sch. 2 paras. 2 and 3, Sch. 4 paras. 1 , 2, 21 and 22 and Sch. 5 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.7.1992
 

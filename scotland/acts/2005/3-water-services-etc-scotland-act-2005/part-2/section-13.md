@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Water and sewerage services undertaking[^key-650d9f6b34d481388348d709a5444b57]
+## 13. Water and sewerage services undertaking[^c-650d9f6b34d481388348d709a5444b57]
 
 *Extent: S*
 
@@ -34,8 +34,8 @@ summary: ''
 (3) It is, subject to the approval of the Scottish Ministers, for Scottish Water to determine whether the undertaking is—
 
 - (a) to be—
-  - (i) a subsidiary (as defined in section 1159 of the Companies Act 2006[^key-497e83c5c6ef413975b101c8c4802753]) of Scottish Water;
-  - (ii) a company (as defined in section 1(1) of that Act[^key-db1b3a022c6b72d98cc1c0ccb7423b89]) formed by Scottish Water (on its own or with others); or
+  - (i) a subsidiary (as defined in section 1159 of the Companies Act 2006[^c-497e83c5c6ef413975b101c8c4802753]) of Scottish Water;
+  - (ii) a company (as defined in section 1(1) of that Act[^c-db1b3a022c6b72d98cc1c0ccb7423b89]) formed by Scottish Water (on its own or with others); or
   - (iii) a partnership; or
 - (b) to be established through such other arrangements as Scottish Water considers it appropriate to make.
 
@@ -64,8 +64,8 @@ with or subject to such modifications as the order may specify.
 
 ## Annotations
 
-[^key-650d9f6b34d481388348d709a5444b57]: Commencement: S. 13 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
+[^c-650d9f6b34d481388348d709a5444b57]: Commencement: S. 13 in force at 7.9.2006 by [S.S.I. 2006/445](https://www.legislation.gov.uk/ssi/2006/445), [art. 2](https://www.legislation.gov.uk/ssi/2006/445/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2006/445/schedule)
 
-[^key-497e83c5c6ef413975b101c8c4802753]: Textual amendment: Words in s. 13(3)(a)(i) substituted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 248(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/248/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-497e83c5c6ef413975b101c8c4802753]: Textual amendment: Words in s. 13(3)(a)(i) substituted (1.10.2009) by virtue of [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 248(a)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/248/a) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-db1b3a022c6b72d98cc1c0ccb7423b89]: Textual amendment: Words in s. 13(3)(a)(ii) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 248(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/248/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-db1b3a022c6b72d98cc1c0ccb7423b89]: Textual amendment: Words in s. 13(3)(a)(ii) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 248(b)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/248/b) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

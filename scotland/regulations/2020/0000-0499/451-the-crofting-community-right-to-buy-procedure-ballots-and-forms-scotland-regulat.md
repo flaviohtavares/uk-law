@@ -48,7 +48,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and interpretation[^key-255d5176d572eaa1f46a0cac1d5f07ab]
+### 1. Citation, commencement and interpretation[^c-255d5176d572eaa1f46a0cac1d5f07ab]
 
 (1) These Regulations may be cited as the Crofting Community Right to Buy (Procedure, Ballots and Forms) (Scotland) Regulations 2020 and come into force on 24 February 2021.
 
@@ -56,14 +56,14 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 ## PART 2 — Applications under section 73(2) of the Act
 
-### 2. Application for the consent of the Scottish Ministers[^key-b0d84c4b3c82ae9fe7755d765dd106fd]
+### 2. Application for the consent of the Scottish Ministers[^c-b0d84c4b3c82ae9fe7755d765dd106fd]
 
 An application by a crofting community body under section 73(2) of the Act for consent to buy eligible croft land, eligible additional land, eligible sporting interests or the interest of a tenant in tenanted land must—
 
 - (a) be made in the form of application specified in schedule 1, and
 - (b) include or be accompanied by information as specified in that form.
 
-### 3. Specifications for maps, plans or other drawings relating to land or tenant's interest[^key-95177598376eac8fdbf9a64c7ea03691]
+### 3. Specifications for maps, plans or other drawings relating to land or tenant's interest[^c-95177598376eac8fdbf9a64c7ea03691]
 
 A map, plan or other drawing that is referred to in schedule 1 must—
 
@@ -74,20 +74,20 @@ A map, plan or other drawing that is referred to in schedule 1 must—
 - (e) show the boundaries of the land, and
 - (f) where measurements are given, give those measurements to one decimal place.
 
-### 4. Manner in which application for consent must be publicly notified[^key-237f21e56aadbe275dec22f60dfc3f86]
+### 4. Manner in which application for consent must be publicly notified[^c-237f21e56aadbe275dec22f60dfc3f86]
 
 The Ministers must give public notice of the application as required by section 73(10) of the Act by way of an advertisement in one or both of the following—
 
 - (a) a digital or paper edition of a newspaper circulating in the area where the community is located, or
 - (b) a publicly accessible webpage or website maintained by the Scottish Ministers for purposes which include making available for inspection any public notice of an application for consent under section 73(2) of the Act.
 
-### 5. Notification of Ministers' decision on application[^key-52bcbbdbb504ffee40b87facafb7673a]
+### 5. Notification of Ministers' decision on application[^c-52bcbbdbb504ffee40b87facafb7673a]
 
 For the purposes of section 82(1) of the Act the form of written notice of Ministers' decision on an application under section 73(2) of the Act is specified in schedule 2.
 
 ## PART 3 — Ballot for the purposes of sections 74 and 75 of the Act
 
-### 6. Conduct of ballot[^key-1c97e174672430dcdfdf5acea612f62d]
+### 6. Conduct of ballot[^c-1c97e174672430dcdfdf5acea612f62d]
 
 (1) The ballot for the purposes of section 74 and 75 of the Act must be conducted—
 
@@ -116,7 +116,7 @@ For the purposes of section 82(1) of the Act the form of written notice of Minis
 
 (5) The crofting community body must provide each person eligible to vote with a stamped addressed envelope for returning the completed ballot paper.
 
-### 7. Proxy votes[^key-4faaff942a4dacc37ca542c551cf2784]
+### 7. Proxy votes[^c-4faaff942a4dacc37ca542c551cf2784]
 
 (1) A person eligible to vote in the ballot may make a request to the crofting community body to be permitted a proxy vote.
 
@@ -130,7 +130,7 @@ For the purposes of section 82(1) of the Act the form of written notice of Minis
 
 (3) The crofting community body must permit the proxy vote if the request is made in accordance with this regulation.
 
-### 8. Observer of ballot result[^key-77402d912d0433092a6169e204d32556]
+### 8. Observer of ballot result[^c-77402d912d0433092a6169e204d32556]
 
 (1) Before sending the ballot papers in accordance with regulation 6(3), the crofting community body must appoint an observer to oversee, in person—
 
@@ -142,7 +142,7 @@ For the purposes of section 82(1) of the Act the form of written notice of Minis
 - (a) be an individual who is independent of the crofting community body, and
 - (b) sign a declaration in the form specified in schedule 4 confirming that the person oversaw, in person, the opening and counting of the votes made on the completed ballot papers and the recording of the ballot result.
 
-### 9. Ballot results[^key-1f8b3be49780bf4fd46a2d30b6c951c5]
+### 9. Ballot results[^c-1f8b3be49780bf4fd46a2d30b6c951c5]
 
 (1) The crofting community body must, within the period of 14 days beginning on the date of the ballot deadline, publish the result of the ballot in the form and manner provided for in paragraphs (2) and (3).
 
@@ -156,11 +156,11 @@ For the purposes of section 82(1) of the Act the form of written notice of Minis
 - (a) in a digital or paper edition of a newspaper circulating in the area where the community is located, and
 - (b) on any publicly accessible webpage or website that is operated by or on behalf of the crofting community body, if such a webpage or website exists.
 
-### 10. Form of return to the Scottish Ministers of the ballot result[^key-ff18ed2c5fcb42e7f16a8bd6f2dcafab]
+### 10. Form of return to the Scottish Ministers of the ballot result[^c-ff18ed2c5fcb42e7f16a8bd6f2dcafab]
 
 For the purposes of section 75(4) of the Act, a return to the Scottish Ministers notifying the matters mentioned in that section must be in the form specified in schedule 4.
 
-### 11. Retention of ballot papers etc.[^key-5c55c812095a94aa52e54cca7243af95]
+### 11. Retention of ballot papers etc.[^c-5c55c812095a94aa52e54cca7243af95]
 
 (1) The crofting community body must retain the information specified in paragraph (2) for a period of 2 years after the ballot deadline.
 
@@ -173,7 +173,7 @@ For the purposes of section 75(4) of the Act, a return to the Scottish Ministers
 
 ## PART 4 — Application for reimbursement of ballot expenses
 
-### 12. Application for reimbursement[^key-19368f351492e9ce71e94fe8c3e14c5c]
+### 12. Application for reimbursement[^c-19368f351492e9ce71e94fe8c3e14c5c]
 
 (1) A crofting community body may apply to the Ministers for reimbursement of the expense of conducting a ballot in accordance with section 75(6) of the Act.
 
@@ -198,7 +198,7 @@ For the purposes of section 75(4) of the Act, a return to the Scottish Ministers
 - (e) the date on which the crofting community body's confirmation of intention to proceed made under section 85 of the Act is treated as withdrawn under section 87(5) of the Act, or
 - (f) the date on which the transfer is completed under section 87 of the Act.
 
-### 13. Information to be included in application for reimbursement[^key-59e8e100431916d18999181ae15cfcc5]
+### 13. Information to be included in application for reimbursement[^c-59e8e100431916d18999181ae15cfcc5]
 
 (1) An application under regulation 12 must include the following information—
 
@@ -220,7 +220,7 @@ For the purposes of section 75(4) of the Act, a return to the Scottish Ministers
 
 (3) The crofting community body may include with its application any other information that it considers to be relevant.
 
-### 14. Request for further information before making decision[^key-acb8b966819db6e1ca6d9a45ac76592d]
+### 14. Request for further information before making decision[^c-acb8b966819db6e1ca6d9a45ac76592d]
 
 (1) Within the period of 30 days beginning on the date on which the Scottish Ministers receive an application under regulation 12, they may request from the crofting community body any further information that the Scottish Ministers consider to be necessary for the purpose of making a decision under regulation 15.
 
@@ -229,7 +229,7 @@ For the purposes of section 75(4) of the Act, a return to the Scottish Ministers
 - (a) providing the requested information, or
 - (b) explaining why the information cannot be provided.
 
-### 15. Decision of the Scottish Ministers on application for reimbursement[^key-a82c39523ff5c160807559b8ce2e0eaf]
+### 15. Decision of the Scottish Ministers on application for reimbursement[^c-a82c39523ff5c160807559b8ce2e0eaf]
 
 (1) No later than the expiry of the period of 60 days beginning on the date on which the Scottish Ministers receive an application under regulation 12, they must—
 
@@ -246,7 +246,7 @@ For the purposes of section 75(4) of the Act, a return to the Scottish Ministers
 
 (3) For the purpose of paragraph (2)(b), an expense is incurred retrospectively if it is incurred after the provision of the goods or services to which it relates, where those goods or services were originally provided on a no-cost basis.
 
-### 16. Appeal against the Scottish Ministers' decision under regulation 15[^key-3ac001aa755ce73a925ffba62b145fde]
+### 16. Appeal against the Scottish Ministers' decision under regulation 15[^c-3ac001aa755ce73a925ffba62b145fde]
 
 (1) A crofting community body may appeal to the Lands Tribunal against a decision of the Scottish Ministers under regulation 15.
 
@@ -258,7 +258,7 @@ For the purposes of section 75(4) of the Act, a return to the Scottish Ministers
 
 ## PART 5
 
-### 17. Grant towards compensation liability[^key-fcc5ee59438bb1e836acbf77493bea59]
+### 17. Grant towards compensation liability[^c-fcc5ee59438bb1e836acbf77493bea59]
 
 (1) An application for a grant under section 90 of the Act must—
 
@@ -277,7 +277,7 @@ For the purposes of section 75(4) of the Act, a return to the Scottish Ministers
 
 ## PART 6 — Revocations, savings and transitional provisions
 
-### 18.[^key-152731c2525bf22c1be75b1622803c32]
+### 18.[^c-152731c2525bf22c1be75b1622803c32]
 
 The following Scottish statutory instruments are revoked—
 
@@ -285,21 +285,21 @@ The following Scottish statutory instruments are revoked—
 - (b) the Crofting Community Right to Buy (Grant Towards Compensation Liability) (Scotland) Regulations 2004 [^c24393921],
 - (c) the Crofting Community Right to Buy (Ballot) (Scotland) Regulations 2004 [^c24393931].
 
-### 19. Saving provision[^key-0130af661a560337b37401bcbccc7e51]
+### 19. Saving provision[^c-0130af661a560337b37401bcbccc7e51]
 
-(1) Where paragraph (2) applies, the provisions of the Scottish statutory instruments referred to in regulation 18 continue to have effect in respect of the relevant application on and after 24 February 2021[^key-03c099cfc4e3dad6bca94aff2b83b2bf] as they had effect immediately before that date.
+(1) Where paragraph (2) applies, the provisions of the Scottish statutory instruments referred to in regulation 18 continue to have effect in respect of the relevant application on and after 24 February 2021[^c-03c099cfc4e3dad6bca94aff2b83b2bf] as they had effect immediately before that date.
 
 (2) This paragraph applies where an application under section 73(2) of the Act has been received by the Scottish Ministers before 24 February 2021 and the Scottish Ministers have not made a decision on the application by that date.
 
 (3) For the purposes of paragraph (2) a decision is taken to have been made when Scottish Ministers issue a notice under section 82 of the Act.
 
-### 20. Transitional provision[^key-8618313dcaf0fef6716ada5dfbcd59f5]
+### 20. Transitional provision[^c-8618313dcaf0fef6716ada5dfbcd59f5]
 
 (1) Paragraph (3) applies in relation to an application made under section 73(2) where the conditions in paragraph (2) are met.
 
 (2) The conditions are that—
 
-- (a) a ballot process in connection with an application has been conducted under section 75 of the Act in accordance with the Crofting Community Right to Buy (Ballot) (Scotland) Regulations 2004 within the period of six months immediately preceding 24 February 2021[^key-633d5b16c17f3dc2dbe0db3dde8b668a], and
+- (a) a ballot process in connection with an application has been conducted under section 75 of the Act in accordance with the Crofting Community Right to Buy (Ballot) (Scotland) Regulations 2004 within the period of six months immediately preceding 24 February 2021[^c-633d5b16c17f3dc2dbe0db3dde8b668a], and
 - (b) an application under section 73(2) of the Act in connection with that ballot process is made to the Scottish Ministers on or after 24 February 2021.
 
 (3) Where this paragraph applies the ballot is to be treated as one conducted in accordance with Part 3 of these Regulations.
@@ -312,31 +312,31 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE 1[^key-b1e90dff0aeb85dc149b532ea66f9851]
+## SCHEDULE 1[^c-b1e90dff0aeb85dc149b532ea66f9851]
 
 Regulations 2 and 3
 
 [image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_001)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_002)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_003)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_004)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_005)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_006)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_007)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_008)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_009)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_010)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_011)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_012)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_013)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_014)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_015)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_016)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_017)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_018)
 
-## SCHEDULE 2[^key-b61816af89d9d420316b17c0e080abf3]
+## SCHEDULE 2[^c-b61816af89d9d420316b17c0e080abf3]
 
 Regulation 5
 
 [image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_019)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_020)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_021)
 
-## SCHEDULE 3[^key-300e9e759024a1811553150834ff078f]
+## SCHEDULE 3[^c-300e9e759024a1811553150834ff078f]
 
 Regulations 6, 7 and 9
 
 [image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_022)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_023)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_024)
 
-## SCHEDULE 4[^key-1708b342b62f2028fd23f71d744eeefa]
+## SCHEDULE 4[^c-1708b342b62f2028fd23f71d744eeefa]
 
 Regulations 8 and 10
 
 [image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_025)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_026)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_027)[image: see source](https://www.legislation.gov.uk/ssi/2020/451/images/ssi_20200451_en_sld_028)
 
-## SCHEDULE 5[^key-a42bd7de882b01d9e9615bd26ce0af47]
+## SCHEDULE 5[^c-a42bd7de882b01d9e9615bd26ce0af47]
 
 Regulation 17
 
@@ -404,43 +404,43 @@ Regulation 20 provides that where a crofting community body has carried out a ba
 
 [^c24393891]: Marginal citation: [2003 asp 2](https://www.legislation.gov.uk/asp/2003/2). Section 73(5) was amended by the Crofting Reform etc. (Scotland) Act 2007 ([2007 asp 7](https://www.legislation.gov.uk/asp/2007/7)) (“**the 2007 Act**”), schedule 1, paragraph 5(3) and the Community Empowerment (Scotland) Act 2015 ([2015 asp 6](https://www.legislation.gov.uk/asp/2015/6)) (“**the 2015 Act**”), section 64(2). Section 75(6) and (7) was added by the 2015 Act, section 66 (3). Section 82(2) was amended by the 2003 Act, schedule 1, paragraph 5(8). Section 98(1) of the Land Reform (Scotland) Act 2003 contains definitions of ‘Ministers’ and ‘prescribed’ relevant to the exercise of the statutory powers under which these Regulations are made.
 
-[^key-255d5176d572eaa1f46a0cac1d5f07ab]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/451/regulation/1) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-255d5176d572eaa1f46a0cac1d5f07ab]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2020/451/regulation/1) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
 [^c24393901]: Marginal citation: [2003 asp 2](https://www.legislation.gov.uk/asp/2003/2).
 
-[^key-b0d84c4b3c82ae9fe7755d765dd106fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/451/regulation/2) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-b0d84c4b3c82ae9fe7755d765dd106fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2020/451/regulation/2) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-95177598376eac8fdbf9a64c7ea03691]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2020/451/regulation/3) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-95177598376eac8fdbf9a64c7ea03691]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2020/451/regulation/3) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-237f21e56aadbe275dec22f60dfc3f86]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2020/451/regulation/4) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-237f21e56aadbe275dec22f60dfc3f86]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2020/451/regulation/4) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-52bcbbdbb504ffee40b87facafb7673a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/451/regulation/5) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-52bcbbdbb504ffee40b87facafb7673a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2020/451/regulation/5) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-1c97e174672430dcdfdf5acea612f62d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2020/451/regulation/6) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-1c97e174672430dcdfdf5acea612f62d]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2020/451/regulation/6) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-4faaff942a4dacc37ca542c551cf2784]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2020/451/regulation/7) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-4faaff942a4dacc37ca542c551cf2784]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2020/451/regulation/7) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-77402d912d0433092a6169e204d32556]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2020/451/regulation/8) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-77402d912d0433092a6169e204d32556]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2020/451/regulation/8) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-1f8b3be49780bf4fd46a2d30b6c951c5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2020/451/regulation/9) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-1f8b3be49780bf4fd46a2d30b6c951c5]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2020/451/regulation/9) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-ff18ed2c5fcb42e7f16a8bd6f2dcafab]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2020/451/regulation/10) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-ff18ed2c5fcb42e7f16a8bd6f2dcafab]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2020/451/regulation/10) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-5c55c812095a94aa52e54cca7243af95]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2020/451/regulation/11) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-5c55c812095a94aa52e54cca7243af95]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2020/451/regulation/11) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-19368f351492e9ce71e94fe8c3e14c5c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2020/451/regulation/12) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-19368f351492e9ce71e94fe8c3e14c5c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2020/451/regulation/12) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-59e8e100431916d18999181ae15cfcc5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2020/451/regulation/13) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-59e8e100431916d18999181ae15cfcc5]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2020/451/regulation/13) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-acb8b966819db6e1ca6d9a45ac76592d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2020/451/regulation/14) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-acb8b966819db6e1ca6d9a45ac76592d]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2020/451/regulation/14) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-a82c39523ff5c160807559b8ce2e0eaf]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2020/451/regulation/15) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-a82c39523ff5c160807559b8ce2e0eaf]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2020/451/regulation/15) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-3ac001aa755ce73a925ffba62b145fde]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2020/451/regulation/16) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-3ac001aa755ce73a925ffba62b145fde]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2020/451/regulation/16) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-fcc5ee59438bb1e836acbf77493bea59]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2020/451/regulation/17) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-fcc5ee59438bb1e836acbf77493bea59]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2020/451/regulation/17) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-152731c2525bf22c1be75b1622803c32]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2020/451/regulation/18) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-152731c2525bf22c1be75b1622803c32]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2020/451/regulation/18) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
 [^c24393911]: Marginal citation: [S.S.I. 2009/160](https://www.legislation.gov.uk/ssi/2009/160).
 
@@ -448,20 +448,20 @@ Regulation 20 provides that where a crofting community body has carried out a ba
 
 [^c24393931]: Marginal citation: [S.S.I. 2004/227](https://www.legislation.gov.uk/ssi/2004/227).
 
-[^key-0130af661a560337b37401bcbccc7e51]: Commencement: Reg. 19 in force at 24.2.2021, see reg. 1(1)
+[^c-0130af661a560337b37401bcbccc7e51]: Commencement: Reg. 19 in force at 24.2.2021, see reg. 1(1)
 
-[^key-03c099cfc4e3dad6bca94aff2b83b2bf]: Textual amendment: Words in reg. 19 substituted (24.2.2021) by [The Crofting Community Right to Buy (Procedure, Ballots and Forms) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/27)](https://www.legislation.gov.uk/ssi/2021/27), [regs. 1](https://www.legislation.gov.uk/ssi/2021/27/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/27/regulation/2/2)
+[^c-03c099cfc4e3dad6bca94aff2b83b2bf]: Textual amendment: Words in reg. 19 substituted (24.2.2021) by [The Crofting Community Right to Buy (Procedure, Ballots and Forms) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/27)](https://www.legislation.gov.uk/ssi/2021/27), [regs. 1](https://www.legislation.gov.uk/ssi/2021/27/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/27/regulation/2/2)
 
-[^key-8618313dcaf0fef6716ada5dfbcd59f5]: Commencement: Reg. 20 in force at 24.2.2021, see reg. 1(1)
+[^c-8618313dcaf0fef6716ada5dfbcd59f5]: Commencement: Reg. 20 in force at 24.2.2021, see reg. 1(1)
 
-[^key-633d5b16c17f3dc2dbe0db3dde8b668a]: Textual amendment: Words in reg. 20 substituted (24.2.2021) by [The Crofting Community Right to Buy (Procedure, Ballots and Forms) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/27)](https://www.legislation.gov.uk/ssi/2021/27), [regs. 1](https://www.legislation.gov.uk/ssi/2021/27/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/27/regulation/2/2)
+[^c-633d5b16c17f3dc2dbe0db3dde8b668a]: Textual amendment: Words in reg. 20 substituted (24.2.2021) by [The Crofting Community Right to Buy (Procedure, Ballots and Forms) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/27)](https://www.legislation.gov.uk/ssi/2021/27), [regs. 1](https://www.legislation.gov.uk/ssi/2021/27/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/27/regulation/2/2)
 
-[^key-b1e90dff0aeb85dc149b532ea66f9851]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2020/451/schedule/1) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-b1e90dff0aeb85dc149b532ea66f9851]: Commencement: [Sch. 1](https://www.legislation.gov.uk/ssi/2020/451/schedule/1) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-b61816af89d9d420316b17c0e080abf3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2020/451/schedule/2) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-b61816af89d9d420316b17c0e080abf3]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ssi/2020/451/schedule/2) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-300e9e759024a1811553150834ff078f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2020/451/schedule/3) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-300e9e759024a1811553150834ff078f]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ssi/2020/451/schedule/3) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-1708b342b62f2028fd23f71d744eeefa]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2020/451/schedule/4) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-1708b342b62f2028fd23f71d744eeefa]: Commencement: [Sch. 4](https://www.legislation.gov.uk/ssi/2020/451/schedule/4) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
 
-[^key-a42bd7de882b01d9e9615bd26ce0af47]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2020/451/schedule/5) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)
+[^c-a42bd7de882b01d9e9615bd26ce0af47]: Commencement: [Sch. 5](https://www.legislation.gov.uk/ssi/2020/451/schedule/5) in force at 24.2.2021, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/451/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 4 — ENACTMENTS REPEALED[^key-5223c579fbf609e503b13be8e515c14d]
+## SCHEDULE 4 — ENACTMENTS REPEALED[^c-5223c579fbf609e503b13be8e515c14d]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ Paragraph 3(2)
 
 ## Annotations
 
-[^key-5223c579fbf609e503b13be8e515c14d]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1994/1443/schedule/4) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)
+[^c-5223c579fbf609e503b13be8e515c14d]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/1994/1443/schedule/4) in force at 5.9.1994, see [para. 1(1)](https://www.legislation.gov.uk/uksi/1994/1443/paragraph/1/1)

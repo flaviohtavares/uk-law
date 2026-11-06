@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 219. Powers of the Secretary of State in relation to certain educational institutions.[^key-86afc068b9350e471726e42312e744fe]
+## 219. Powers of the Secretary of State in relation to certain educational institutions.[^c-86afc068b9350e471726e42312e744fe]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86afc068b9350e471726e42312e744fe]: Textual amendment: S. 219 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 3(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/3/4)
+[^c-86afc068b9350e471726e42312e744fe]: Textual amendment: S. 219 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(h)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/h), [Sch. 15 para. 3(4)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/15/paragraph/3/4)

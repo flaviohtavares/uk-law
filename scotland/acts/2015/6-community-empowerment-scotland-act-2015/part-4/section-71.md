@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Land Court: reasons for decision under section 92[^key-2bc72cdce3fc581ece073d731fe910cf]
+## 71. Land Court: reasons for decision under section 92[^c-2bc72cdce3fc581ece073d731fe910cf]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ In section 92 of the 2003 Act (appeals to Land Court: valuation)—
 
 ## Annotations
 
-[^key-2bc72cdce3fc581ece073d731fe910cf]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2015/6/section/71) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))
+[^c-2bc72cdce3fc581ece073d731fe910cf]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2015/6/section/71) in force at 24.2.2021 by [S.S.I. 2020/448](https://www.legislation.gov.uk/ssi/2020/448), [art. 2](https://www.legislation.gov.uk/ssi/2020/448/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2020/448/article/3))

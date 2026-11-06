@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Duty to provide information, advice and assistance[^key-3f20fa769eb34942a20522506059aa9e]
+## 27. Duty to provide information, advice and assistance[^c-3f20fa769eb34942a20522506059aa9e]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 (7) In exercising their functions under this section, a local authority must have regard to any guidance given from time to time by the Assembly.
 
-(8) For the purposes of this section, a child or young person is disabled if he has a disability for the purposes of the Equality Act 2010[^key-92580d7e4e683a603f23b5b510055078].
+(8) For the purposes of this section, a child or young person is disabled if he has a disability for the purposes of the Equality Act 2010[^c-92580d7e4e683a603f23b5b510055078].
 
 (9) In this section—
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3f20fa769eb34942a20522506059aa9e]: Commencement: S. 27 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17) , [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/17/article/2/a)
+[^c-3f20fa769eb34942a20522506059aa9e]: Commencement: S. 27 in force at 31.1.2008 by [S.I. 2008/17](https://www.legislation.gov.uk/wsi/2008/17) , [art. 2(a)](https://www.legislation.gov.uk/wsi/2008/17/article/2/a)
 
-[^key-92580d7e4e683a603f23b5b510055078]: Textual amendment: Words in s. 27(8) substituted by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 26 Pt. 1 para. 91](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/part/1/paragraph/91) (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see [S.I](https://www.legislation.gov.uk/uksi/2010/2279/section/I). 2010/2317, art. 2)
+[^c-92580d7e4e683a603f23b5b510055078]: Textual amendment: Words in s. 27(8) substituted by [2010 c. 15](https://www.legislation.gov.uk/ukpga/2010/15), [Sch. 26 Pt. 1 para. 91](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/part/1/paragraph/91) (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see [S.I](https://www.legislation.gov.uk/uksi/2010/2279/section/I). 2010/2317, art. 2)

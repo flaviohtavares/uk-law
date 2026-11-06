@@ -28,7 +28,7 @@ summary: ''
 
 - (a) explains why the extension is sought;
 - (b) contains sufficient details of the decision to which the application relates to enable it to be identified; and
-- (c) is made within 12[^key-5df2b0336acde2bd9b6ef75732ba2ba6] months of the latest date by which the application for revision should have been received by the Department in accordance with regulation 5(1)(b)(i) to (iii).
+- (c) is made within 12[^c-5df2b0336acde2bd9b6ef75732ba2ba6] months of the latest date by which the application for revision should have been received by the Department in accordance with regulation 5(1)(b)(i) to (iii).
 
 (4) The third condition is that the Department is satisfied that it is reasonable to grant the extension.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5df2b0336acde2bd9b6ef75732ba2ba6]: Textual amendment: Word in [reg. 6(3)(c)](https://www.legislation.gov.uk/nisr/2016/221/regulation/6/3/c) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [17(3)](https://www.legislation.gov.uk/nisr/2017/218/regulation/17/3)
+[^c-5df2b0336acde2bd9b6ef75732ba2ba6]: Textual amendment: Word in [reg. 6(3)(c)](https://www.legislation.gov.uk/nisr/2016/221/regulation/6/3/c) substituted (16.11.2017) by [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2017 (S.R. 2017/218)](https://www.legislation.gov.uk/nisr/2017/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2017/218/regulation/1/1), [17(3)](https://www.legislation.gov.uk/nisr/2017/218/regulation/17/3)

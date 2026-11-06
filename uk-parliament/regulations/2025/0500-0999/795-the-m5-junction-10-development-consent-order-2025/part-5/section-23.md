@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Time limit for exercise of authority to acquire land compulsorily[^key-68bd6834576d7b0cd4be676c9f58e278]
+## 23. Time limit for exercise of authority to acquire land compulsorily[^c-68bd6834576d7b0cd4be676c9f58e278]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-68bd6834576d7b0cd4be676c9f58e278]: Commencement: Art. 23 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-68bd6834576d7b0cd4be676c9f58e278]: Commencement: Art. 23 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
 
 [^f00054]: Footnote: Section 118 was amended by section 128(2) of, and paragraph 59 of Schedule 59 of Schedule 13 and Part 20 of Schedule 25, to the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) and section 92(4) of the Criminal Justice and Courts Act [2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2).

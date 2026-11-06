@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 172. Transfer of United Kingdom branch or agency.[^key-8e9440f611be5b37dd5f45582bbf2636]
+## 172. Transfer of United Kingdom branch or agency.[^c-8e9440f611be5b37dd5f45582bbf2636]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e9440f611be5b37dd5f45582bbf2636]: Textual amendment: S. 172 repealed (with effect in accordance with Sch. 29 para. 3(2), Sch. 40 Pt. 2(12) Note 5 of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 29 para. 3(1)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/3), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12) (with [Sch. 29 para. 46(5)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/46/5))
+[^c-8e9440f611be5b37dd5f45582bbf2636]: Textual amendment: S. 172 repealed (with effect in accordance with Sch. 29 para. 3(2), Sch. 40 Pt. 2(12) Note 5 of the amending Act) by [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17), [Sch. 29 para. 3(1)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/3), [Sch. 40 Pt. II(12)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/40/part/II/12) (with [Sch. 29 para. 46(5)](https://www.legislation.gov.uk/ukpga/2000/17/schedule/29/paragraph/46/5))

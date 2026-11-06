@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Review of summary findings and punishments[^key-38136b2db344487a6dd0602035c46954][^key-54b90e1b5b77d5f36662affff416d60b]
+## 152. Review of summary findings and punishments[^c-38136b2db344487a6dd0602035c46954][^c-54b90e1b5b77d5f36662affff416d60b]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ the finding or the punishment awarded may be reviewed at any time.
 - (a) the Defence Council; or
 - (b) any officer appointed by the Defence Council to carry out the review or any class of review which includes the review.
 
-(2A)[^key-dc4b667a6f69f6228c7f60c2c58a2251] Subsection (2B) applies where—
+(2A)[^c-dc4b667a6f69f6228c7f60c2c58a2251] Subsection (2B) applies where—
 
 - (a) a review has been carried out under this section in respect of a punishment,
 - (b) the person to whom the review relates has not brought an appeal under section 141 within the period provided by subsection (2) of that section, and
@@ -75,8 +75,8 @@ he may, with the leave of the court, refer the finding or punishment, including 
 
 ## Annotations
 
-[^key-38136b2db344487a6dd0602035c46954]: Commencement: S. 152 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-38136b2db344487a6dd0602035c46954]: Commencement: S. 152 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-54b90e1b5b77d5f36662affff416d60b]: Commencement: S. 152 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-54b90e1b5b77d5f36662affff416d60b]: Commencement: S. 152 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-dc4b667a6f69f6228c7f60c2c58a2251]: Textual amendment: [S. 152(2A)-(2C)](https://www.legislation.gov.uk/ukpga/2006/52/section/152/2A) inserted (1.5.2022 for specified purposes, 13.11.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 4(5)](https://www.legislation.gov.uk/ukpga/2021/35/section/4/5), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/b); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)
+[^c-dc4b667a6f69f6228c7f60c2c58a2251]: Textual amendment: [S. 152(2A)-(2C)](https://www.legislation.gov.uk/ukpga/2006/52/section/152/2A) inserted (1.5.2022 for specified purposes, 13.11.2023 in so far as not already in force) by [Armed Forces Act 2021 (c. 35)](https://www.legislation.gov.uk/ukpga/2021/35), [ss. 4(5)](https://www.legislation.gov.uk/ukpga/2021/35/section/4/5), [24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1); [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2022/471/regulation/2/b); [S.I. 2023/1102](https://www.legislation.gov.uk/uksi/2023/1102), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1102/regulation/2)

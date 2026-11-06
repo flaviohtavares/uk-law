@@ -311,9 +311,9 @@ Regulation 3
 
 .
 
-**2.**[^key-8523287463c6826f9e4ca3eb4a4405c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-8523287463c6826f9e4ca3eb4a4405c5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-7863981d9b80d43084d2ed91804afbce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-7863981d9b80d43084d2ed91804afbce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **4.** In regulation 5 of the Merchant Shipping (Oil Pollution Preparedness, Response and Co-operation Convention) Regulations 1998 [^c22294591] for paragraph (3) substitute—
 
@@ -339,9 +339,9 @@ Regulation 3
 
 .
 
-**8.**[^key-87b9e1ca26e673b370b96b3a837b2a84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-87b9e1ca26e673b370b96b3a837b2a84] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-6bed072df8d62221eec4a37242250d5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-6bed072df8d62221eec4a37242250d5b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -383,9 +383,9 @@ No impact assessment has been prepared for this instrument. An Explanatory Memor
 
 [^c22294561]: Marginal citation: [S.I. 1995/2498](https://www.legislation.gov.uk/uksi/1995/2498), amended by [S.I. 2005/1092](https://www.legislation.gov.uk/uksi/2005/1092). There are other amending instruments but none is relevant.
 
-[^key-8523287463c6826f9e4ca3eb4a4405c5]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/3306/schedule/2/paragraph/2) revoked (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2019/42/schedule) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
+[^c-8523287463c6826f9e4ca3eb4a4405c5]: Textual amendment: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2014/3306/schedule/2/paragraph/2) revoked (1.3.2019) by [The Merchant Shipping (Prevention of Oil Pollution) Regulations 2019 (S.I. 2019/42)](https://www.legislation.gov.uk/uksi/2019/42), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/42/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2019/42/schedule) (with [regs. 2](https://www.legislation.gov.uk/uksi/2019/42/regulation/2), [5](https://www.legislation.gov.uk/uksi/2019/42/regulation/5))
 
-[^key-7863981d9b80d43084d2ed91804afbce]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/3306/schedule/2/paragraph/3) revoked (12.3.2018) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 (S.I. 2018/68)](https://www.legislation.gov.uk/uksi/2018/68), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2018/68/schedule/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/68/regulation/5))
+[^c-7863981d9b80d43084d2ed91804afbce]: Textual amendment: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2014/3306/schedule/2/paragraph/3) revoked (12.3.2018) by [The Merchant Shipping (Prevention of Pollution from Noxious Liquid Substances in Bulk) Regulations 2018 (S.I. 2018/68)](https://www.legislation.gov.uk/uksi/2018/68), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/68/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2018/68/schedule/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2018/68/regulation/5))
 
 [^c22294591]: Marginal citation: [S.I. 1998/1056](https://www.legislation.gov.uk/uksi/1998/1056). There are amendments but none is relevant.
 
@@ -395,6 +395,6 @@ No impact assessment has been prepared for this instrument. An Explanatory Memor
 
 [^c22294621]: Marginal citation: [S.I. 2008/3257](https://www.legislation.gov.uk/uksi/2008/3257), amended by [S.I. 2010/897](https://www.legislation.gov.uk/uksi/2010/897); there are other amendments but none is relevant.
 
-[^key-87b9e1ca26e673b370b96b3a837b2a84]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2014/3306/schedule/2/paragraph/8) revoked (10.5.2024) by [The Merchant Shipping (Anti-Fouling Systems) Regulations 2024 (S.I. 2024/509)](https://www.legislation.gov.uk/uksi/2024/509), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/509/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2024/509/schedule/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/509/regulation/4))
+[^c-87b9e1ca26e673b370b96b3a837b2a84]: Textual amendment: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2014/3306/schedule/2/paragraph/8) revoked (10.5.2024) by [The Merchant Shipping (Anti-Fouling Systems) Regulations 2024 (S.I. 2024/509)](https://www.legislation.gov.uk/uksi/2024/509), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/509/regulation/1/1), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2024/509/schedule/part/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/509/regulation/4))
 
-[^key-6bed072df8d62221eec4a37242250d5b]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2014/3306/schedule/2/paragraph/9) revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)
+[^c-6bed072df8d62221eec4a37242250d5b]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2014/3306/schedule/2/paragraph/9) revoked (26.2.2020) by [The Merchant Shipping (Ship-to-Ship Transfers) Regulations 2020 (S.I. 2020/94)](https://www.legislation.gov.uk/uksi/2020/94), [reg. 1](https://www.legislation.gov.uk/uksi/2020/94/regulation/1), [Sch. 4](https://www.legislation.gov.uk/uksi/2020/94/schedule/4)

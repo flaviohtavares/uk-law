@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Provision of equipment and facilities by local authorities[^key-108a569f013e7f58376b162faa224170]
+## 62. Provision of equipment and facilities by local authorities[^c-108a569f013e7f58376b162faa224170]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ In the Registration Service Act 1953, after section 11 insert—
 
 ## Annotations
 
-[^key-108a569f013e7f58376b162faa224170]: Commencement: S. 62 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-108a569f013e7f58376b162faa224170]: Commencement: S. 62 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Removal of attendance centre requirements for adults[^key-10f3f0683387cf0e69683698636a8acf][^key-f5731eade79c9e7f998ae16f2fea4f15]
+## 152. Removal of attendance centre requirements for adults[^c-10f3f0683387cf0e69683698636a8acf][^c-f5731eade79c9e7f998ae16f2fea4f15]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-10f3f0683387cf0e69683698636a8acf]: Commencement: S. 152 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-10f3f0683387cf0e69683698636a8acf]: Commencement: S. 152 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-f5731eade79c9e7f998ae16f2fea4f15]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2022/32/section/152) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(q)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/q)
+[^c-f5731eade79c9e7f998ae16f2fea4f15]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2022/32/section/152) in force at 28.6.2022 by [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(q)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/q)

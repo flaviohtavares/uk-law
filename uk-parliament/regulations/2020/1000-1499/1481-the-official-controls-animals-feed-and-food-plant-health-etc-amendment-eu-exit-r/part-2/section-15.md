@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Amendments to Title 2, Chapter 5, Section 6[^key-1e7b4290a50ec09e3612c04481440b2c]
+## 15. Amendments to Title 2, Chapter 5, Section 6[^c-1e7b4290a50ec09e3612c04481440b2c]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1e7b4290a50ec09e3612c04481440b2c]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
+[^c-1e7b4290a50ec09e3612c04481440b2c]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1)
 
 [^c24368731]: Marginal citation: [Article 1](https://www.legislation.gov.uk/uksi/2020/1481/article/1) was substituted by regulation 3(2) of the [Common Fisheries Policy (Amendment etc) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739).

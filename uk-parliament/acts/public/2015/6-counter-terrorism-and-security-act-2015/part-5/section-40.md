@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Indemnification[^key-6fb1ade5336ccabe3248d20dbd8138cb]
+## 40. Indemnification[^c-6fb1ade5336ccabe3248d20dbd8138cb]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fb1ade5336ccabe3248d20dbd8138cb]: Commencement: S. 40 in force at 12.4.2015, see s. 52(2)(a)
+[^c-6fb1ade5336ccabe3248d20dbd8138cb]: Commencement: S. 40 in force at 12.4.2015, see s. 52(2)(a)

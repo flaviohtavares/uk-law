@@ -24,7 +24,7 @@ Regulations 4(2)(*a*)(i), (ii), (iii), (v) and (vi), 7(1)(*e*) and 12(1)(*c*)
 
 ### Part I — Requirements Applicable in all Premises
 
-**1.**[^key-04aa64e39990f59ec9f97fd4bf0fcebe] The occupier of any premises shall keep them or cause them to be kept, in such a state of cleanliness and otherwise so conduct them as to prevent the risk of contamination of any fresh meat in the premises or, in the case of any slaughterhouse, of any blood intended for human consumption, and in particular shall—
+**1.**[^c-04aa64e39990f59ec9f97fd4bf0fcebe] The occupier of any premises shall keep them or cause them to be kept, in such a state of cleanliness and otherwise so conduct them as to prevent the risk of contamination of any fresh meat in the premises or, in the case of any slaughterhouse, of any blood intended for human consumption, and in particular shall—
 
 - (a) ensure that subject to paragraph 3 of Schedule 9 and sub-paragraph 2(*a*) of Schedule 11, the premises and any plant, equipment, machinery or implements contained in them are not used for any purpose which is not properly connected with the preparation and storage of fresh meat, and that instruments for cutting up such meat are used solely for that purpose;
 - (b) ensure that fresh meat and the base of receptacles which contain, or may at any time contain, such meat do not come into contact with any floors, doors, columns, pillars or any other surfaces of any room;
@@ -45,13 +45,13 @@ Regulations 4(2)(*a*)(i), (ii), (iii), (v) and (vi), 7(1)(*e*) and 12(1)(*c*)
 - (q) ensure that receptacles (other than manure bays or manure pits) which contain blood, manure, garbage, filth or refuse are kept covered with closely fitting covers; and
 - (r) ensure that rodents, insects and other vermin are systematically destroyed.
 
-**2.**[^key-55362c90ef10e1a3958950b78546f8e1] —
+**2.**[^c-55362c90ef10e1a3958950b78546f8e1] —
 
 (1) A person shall not engage in the handling of fresh meat if he is suffering from or suspected of suffering from, or is the carrier of, any disease or condition which may render a person liable to contaminate fresh meat or is wearing a bandage on the hands or forearms other than a waterproof dressing protecting a non-infected wound.
 
 (2) As soon as any person engaged in the handling of fresh meat or blood intended for human consumption becomes aware that he is suffering from, or is the carrier of, such disease or condition he shall forthwith give notice of the fact to the occupier or person in charge of the premises.
 
-**3.**[^key-57590c386826c9b41d0e5c0c1a96f39f] Every person engaged in slaughtering animals or working on or handling fresh meat shall—
+**3.**[^c-57590c386826c9b41d0e5c0c1a96f39f] Every person engaged in slaughtering animals or working on or handling fresh meat shall—
 
 - (a) wear footwear and light coloured overalls or other suitable clothing, including covering for the hair of the head, and, where necessary, the neck, all of which articles shall, unless disposable, be easily cleanable, reserved exclusively for the use of persons slaughtering animals or working on or handling exposed or wrapped fresh meat, clean at the commencement of every working day and renewed during the day as necessary;
 - (b) keep as clean as may be reasonably practicable by thorough and frequent washing, in such a manner as to avoid any risk of contamination of fresh meat or blood, of all parts of his person or clothing which are liable to come into contact with any fresh meat or blood; and, in particular, shall wash his hands with hot water and soap or other detergent frequently during the working day and each time work is started and resumed and shall wash his hands and arms in such manner immediately after contact with animals or fresh meat which he knows or suspects to be diseased; and shall not use the same disposable towels more than once to dry hands and arms;
@@ -64,7 +64,7 @@ Regulations 4(2)(*a*)(i), (ii), (iii), (v) and (vi), 7(1)(*e*) and 12(1)(*c*)
   - (v) at the end of each working day; and
 - (e) before being engaged to slaughter animals or work on or handle unpackaged fresh meat, obtain a medical certificate certifying that there is no objection on public health grounds to such activities and produce every such medical certificate on request to an OVS or to a veterinary officer, and any other person liable to come into contact with any fresh meat shall wear the appropriate clothing and footwear described in sub-paragraph (*a*).
 
-**4.**[^key-144ec0b57ab9fecb57d5155936077a56] A person shall not—
+**4.**[^c-144ec0b57ab9fecb57d5155936077a56] A person shall not—
 
 - (a) urinate, defecate or spit except in a sanitary convenience;
 - (b) bring into or keep in any part of the premises containing fresh meat any article liable to prejudice the maintenance of hygiene or the proper performance of the functions reserved for that part of the premises;
@@ -74,11 +74,11 @@ Regulations 4(2)(*a*)(i), (ii), (iii), (v) and (vi), 7(1)(*e*) and 12(1)(*c*)
 - (f) take any fresh meat or blood intended for human consumption, or any item of equipment which might come into contact with such meat or blood, into a room or other place which contains a sanitary convenience; and
 - (g) bring into, or permit to be brought into or remain in the premises, any creature (other than one of the species referred to in regulation 2 or a working dog); or bring any working dog or permit any such dog to be brought into or remain in any part of any premises used for the production, cutting up, handling or storage of fresh meat or for the storage of blood intended for human consumption.
 
-**5.**[^key-75ee1bec04c9c27872787cee0030382e] Every person entering licensed premises shall, before handling any fresh meat or blood intended for human consumption, thoroughly wash all parts of his person that may come into contact with such meat or blood and change into clean clothing and footwear as provided by sub-paragraph 3(*a*).
+**5.**[^c-75ee1bec04c9c27872787cee0030382e] Every person entering licensed premises shall, before handling any fresh meat or blood intended for human consumption, thoroughly wash all parts of his person that may come into contact with such meat or blood and change into clean clothing and footwear as provided by sub-paragraph 3(*a*).
 
 ### Part II — Additional Requirements applicable in all Slaughterhouses and Farmed Game Processing Facilities
 
-**1.**[^key-46d8f25b9d7832aea6014f6d53a17d6b] The occupier of every slaughterhouse and farmed game processing facility shall ensure that—
+**1.**[^c-46d8f25b9d7832aea6014f6d53a17d6b] The occupier of every slaughterhouse and farmed game processing facility shall ensure that—
 
 - (a) receptacles provided for holding blood intended for human consumption are clearly identified and used for no other purpose;
 - (b) any scalding tanks are emptied and washed out as often as is reasonably necessary and thoroughly cleaned at the end of each working day;
@@ -89,7 +89,7 @@ Regulations 4(2)(*a*)(i), (ii), (iii), (v) and (vi), 7(1)(*e*) and 12(1)(*c*)
 - (g) hides, skins, horns, hooves, swine’s bristles and fat not intended for human consumption are collected and taken away daily unless they are stored in the room or rooms provided for the storage of such products, and by-products of slaughtering not intended for human consumption are removed from the premises as often as may be necessary to prevent a nuisance; and
 - (h) fresh meat rejected as being unfit for human consumption is removed as soon as possible to the room or receptacle provided for the retention of such meat in a manner which avoids any risk of contamination of fresh meat which is intended for human consumption and such accommodation is kept locked except when it is necessarily opened for the reception and removal of unfit meat or at the request of an OVS or inspector for the purpose of the examination and seizure of such meat.
 
-**2.**[^key-8013f4cd427d26849f83d14564e1ae3c] In a slaughterhouse or farmed game processing facility a person shall not—
+**2.**[^c-8013f4cd427d26849f83d14564e1ae3c] In a slaughterhouse or farmed game processing facility a person shall not—
 
 - (a) when stirring any blood intended for human consumption, permit his hand or other part of his person to come into contact with such blood;
 - (b) inflate in any manner the carcase or any part whatsoever of any animal intended for human consumption; save that this shall not apply in the case of the slaughter by the Jewish method of animals intended as food for Jewish persons provided that any organs so inflated are not intended for human consumption, and except that mechanical insufflation may be used for the flaying of lambs and kids of a live weight of less than 15 kg, in accordance with hygiene requirements; or
@@ -97,16 +97,16 @@ Regulations 4(2)(*a*)(i), (ii), (iii), (v) and (vi), 7(1)(*e*) and 12(1)(*c*)
 
 ## Annotations
 
-[^key-04aa64e39990f59ec9f97fd4bf0fcebe]: Commencement: Sch. 7 Pt. I para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-04aa64e39990f59ec9f97fd4bf0fcebe]: Commencement: Sch. 7 Pt. I para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-55362c90ef10e1a3958950b78546f8e1]: Commencement: Sch. 7 Pt. I para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-55362c90ef10e1a3958950b78546f8e1]: Commencement: Sch. 7 Pt. I para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-57590c386826c9b41d0e5c0c1a96f39f]: Commencement: Sch. 7 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-57590c386826c9b41d0e5c0c1a96f39f]: Commencement: Sch. 7 para. 3 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-144ec0b57ab9fecb57d5155936077a56]: Commencement: Sch. 7 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-144ec0b57ab9fecb57d5155936077a56]: Commencement: Sch. 7 para. 4 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-75ee1bec04c9c27872787cee0030382e]: Commencement: Sch. 7 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-75ee1bec04c9c27872787cee0030382e]: Commencement: Sch. 7 para. 5 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-46d8f25b9d7832aea6014f6d53a17d6b]: Commencement: Sch. 7 Pt. II para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-46d8f25b9d7832aea6014f6d53a17d6b]: Commencement: Sch. 7 Pt. II para. 1 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
 
-[^key-8013f4cd427d26849f83d14564e1ae3c]: Commencement: Sch. 7 Pt. II para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)
+[^c-8013f4cd427d26849f83d14564e1ae3c]: Commencement: Sch. 7 Pt. II para. 2 in operation at 8.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/493/regulation/1)

@@ -50,7 +50,7 @@ She has been designated [^c18927781] for the purposes of section 2(2) in relatio
 
 ## 1. Citation, commencement, cessation and extent
 
-(1) These Regulations may be cited as the Community Drivers' Hours and Working Time (Foot-and-Mouth Disease) (Temporary Exception) Regulations 2007, shall come into force on 6<sup>th</sup> October 2007 and shall cease to have effect on 19th November 2007.[^key-f41c05ade9c60283184eb45f8b30ea24]
+(1) These Regulations may be cited as the Community Drivers' Hours and Working Time (Foot-and-Mouth Disease) (Temporary Exception) Regulations 2007, shall come into force on 6<sup>th</sup> October 2007 and shall cease to have effect on 19th November 2007.[^c-f41c05ade9c60283184eb45f8b30ea24]
 
 (2) These Regulations extend to Great Britain only.
 
@@ -58,11 +58,11 @@ She has been designated [^c18927781] for the purposes of section 2(2) in relatio
 
 (1) In these Regulations—
 
-- “**the circumstances**” means the exceptional circumstances in Scotland[^key-b24e313b5bc911f8a96f50feb21b2f41] arising as a consequence of restrictions on movements of pigs, cattle and sheep imposed as a result of the outbreaks of foot-and-mouth disease in Great Britain;
+- “**the circumstances**” means the exceptional circumstances in Scotland[^c-b24e313b5bc911f8a96f50feb21b2f41] arising as a consequence of restrictions on movements of pigs, cattle and sheep imposed as a result of the outbreaks of foot-and-mouth disease in Great Britain;
 - “the Community Drivers' Hours Regulation” means Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/european/regulation/2006/0561) of 15<sup>th</sup> March 2006 of the European Parliament and of the Council [^c18927791];
 - “**driver**” and “**driving time**” have the same meaning as in the Community Drivers' Hours Regulation;
 - “**goods vehicle**” and “**mobile worker**” have the same meaning as in the Road Transport (Working Time) Regulations 2005 [^c18927801];
-- “**the specified purpose**” means the purpose of moving pigs, cattle and sheep from any place in Scotland[^key-27158f1af56a3528787bfd0e149b0328] in connection with meeting the circumstances or alleviating their effects; and
+- “**the specified purpose**” means the purpose of moving pigs, cattle and sheep from any place in Scotland[^c-27158f1af56a3528787bfd0e149b0328] in connection with meeting the circumstances or alleviating their effects; and
 - “**week**” has the same meaning as in the Community Drivers' Hours Regulation.
 
 (2) For the purposes of these Regulations, a driver will be taken to be engaged in driving or travelling in a goods vehicle mainly for the specified purpose if more than half his combined driving and travelling time is so spent during–
@@ -114,12 +114,12 @@ A copy of the Community Drivers' Hours Regulation can be obtained from the Offic
 
 [^c18927781]: Marginal citation: [S.I.1975/1707](https://www.legislation.gov.uk/uksi/1975/1707) and 1997/1174.
 
-[^key-f41c05ade9c60283184eb45f8b30ea24]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/1/1) substituted (5.11.2007) by [The Community Drivers Hours and Working Time (Foot-and-Mouth Disease) (Temporary Exception) (Amendment) Regulations 2007 (S.I. 2007/3143)](https://www.legislation.gov.uk/uksi/2007/3143), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3143/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/3143/regulation/2/2)
+[^c-f41c05ade9c60283184eb45f8b30ea24]: Textual amendment: Words in [reg. 1(1)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/1/1) substituted (5.11.2007) by [The Community Drivers Hours and Working Time (Foot-and-Mouth Disease) (Temporary Exception) (Amendment) Regulations 2007 (S.I. 2007/3143)](https://www.legislation.gov.uk/uksi/2007/3143), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3143/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/3143/regulation/2/2)
 
-[^key-b24e313b5bc911f8a96f50feb21b2f41]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/2/1) added (5.11.2007) by [The Community Drivers Hours and Working Time (Foot-and-Mouth Disease) (Temporary Exception) (Amendment) Regulations 2007 (S.I. 2007/3143)](https://www.legislation.gov.uk/uksi/2007/3143), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3143/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2007/3143/regulation/2/3/a)
+[^c-b24e313b5bc911f8a96f50feb21b2f41]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/2/1) added (5.11.2007) by [The Community Drivers Hours and Working Time (Foot-and-Mouth Disease) (Temporary Exception) (Amendment) Regulations 2007 (S.I. 2007/3143)](https://www.legislation.gov.uk/uksi/2007/3143), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3143/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2007/3143/regulation/2/3/a)
 
 [^c18927791]: Marginal citation: O.J. No.L102, 11.04.06, p1.
 
 [^c18927801]: Marginal citation: [S.I. 2005/639](https://www.legislation.gov.uk/uksi/2005/639) to which there are amendments not relevant to these Regulations.
 
-[^key-27158f1af56a3528787bfd0e149b0328]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/2/1) added (5.11.2007) by [The Community Drivers Hours and Working Time (Foot-and-Mouth Disease) (Temporary Exception) (Amendment) Regulations 2007 (S.I. 2007/3143)](https://www.legislation.gov.uk/uksi/2007/3143), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3143/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2007/3143/regulation/2/3/b)
+[^c-27158f1af56a3528787bfd0e149b0328]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/2904/regulation/2/1) added (5.11.2007) by [The Community Drivers Hours and Working Time (Foot-and-Mouth Disease) (Temporary Exception) (Amendment) Regulations 2007 (S.I. 2007/3143)](https://www.legislation.gov.uk/uksi/2007/3143), [regs. 1](https://www.legislation.gov.uk/uksi/2007/3143/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2007/3143/regulation/2/3/b)

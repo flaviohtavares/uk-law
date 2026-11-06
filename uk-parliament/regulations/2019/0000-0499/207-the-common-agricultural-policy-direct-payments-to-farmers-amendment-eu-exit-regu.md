@@ -34,7 +34,7 @@ Exiting The European Union
 
 Agriculture
 
-The Common Agricultural Policy (Direct Payments to Farmers) (Amendment) (EU Exit) Regulations 2019 (revoked)[^key-edb80b66d08857233a3a98c8b7f754fd]
+The Common Agricultural Policy (Direct Payments to Farmers) (Amendment) (EU Exit) Regulations 2019 (revoked)[^c-edb80b66d08857233a3a98c8b7f754fd]
 
 Sift requirements satisfied
 
@@ -50,48 +50,48 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-edb80b66d08857233a3a98c8b7f754fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-edb80b66d08857233a3a98c8b7f754fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-edb80b66d08857233a3a98c8b7f754fd]
+## 1. Citation and commencement[^c-edb80b66d08857233a3a98c8b7f754fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Regulation 1307/2013[^key-edb80b66d08857233a3a98c8b7f754fd]
+## 2. Amendment of Regulation 1307/2013[^c-edb80b66d08857233a3a98c8b7f754fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of Title 1 (Scope and definitions)[^key-edb80b66d08857233a3a98c8b7f754fd]
+## 3. Amendment of Title 1 (Scope and definitions)[^c-edb80b66d08857233a3a98c8b7f754fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Title 2 (General provisions on direct payments)[^key-edb80b66d08857233a3a98c8b7f754fd]
+## 4. Amendment of Title 2 (General provisions on direct payments)[^c-edb80b66d08857233a3a98c8b7f754fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of Title 3 (Basic payment scheme, single area payment scheme and related payments)[^key-edb80b66d08857233a3a98c8b7f754fd]
+## 5. Amendment of Title 3 (Basic payment scheme, single area payment scheme and related payments)[^c-edb80b66d08857233a3a98c8b7f754fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of Title 4 to 6 (Coupled support, small farmers scheme and national restructuring programmes for the cotton sector)[^key-edb80b66d08857233a3a98c8b7f754fd]
+## 6. Amendment of Title 4 to 6 (Coupled support, small farmers scheme and national restructuring programmes for the cotton sector)[^c-edb80b66d08857233a3a98c8b7f754fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of Title 7 (Final provisions)[^key-edb80b66d08857233a3a98c8b7f754fd]
+## 7. Amendment of Title 7 (Final provisions)[^c-edb80b66d08857233a3a98c8b7f754fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of Annexes[^key-edb80b66d08857233a3a98c8b7f754fd]
+## 8. Amendment of Annexes[^c-edb80b66d08857233a3a98c8b7f754fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-edb80b66d08857233a3a98c8b7f754fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-edb80b66d08857233a3a98c8b7f754fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-edb80b66d08857233a3a98c8b7f754fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-edb80b66d08857233a3a98c8b7f754fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-edb80b66d08857233a3a98c8b7f754fd]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [24(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/24/a)
+[^c-edb80b66d08857233a3a98c8b7f754fd]: Textual amendment: Regulations revoked (31.12.2020 immediately before IP completion day) by [The Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020 (S.I. 2020/1445)](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b), [24(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/24/a)

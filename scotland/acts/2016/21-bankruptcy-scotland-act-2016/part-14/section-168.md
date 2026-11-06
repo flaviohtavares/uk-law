@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 168. Payment of debtor's contribution[^key-5fb5cef3d8a07bfb4537acd533588f61]
+## 168. Payment of debtor's contribution[^c-5fb5cef3d8a07bfb4537acd533588f61]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fb5cef3d8a07bfb4537acd533588f61]: Commencement: [S. 168](https://www.legislation.gov.uk/asp/2016/21/section/168) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-5fb5cef3d8a07bfb4537acd533588f61]: Commencement: [S. 168](https://www.legislation.gov.uk/asp/2016/21/section/168) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1244A. Contributions to flood and coastal erosion risk management projects[^key-dfd116eda727b58469b3ab80a7e74867]
+## 1244A. Contributions to flood and coastal erosion risk management projects[^c-dfd116eda727b58469b3ab80a7e74867]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,4 +55,4 @@ no deduction is allowed under section 1219.
 
 ## Annotations
 
-[^key-dfd116eda727b58469b3ab80a7e74867]: Textual amendment: S. 1244A and cross-heading inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/6)
+[^c-dfd116eda727b58469b3ab80a7e74867]: Textual amendment: S. 1244A and cross-heading inserted (with effect in accordance with Sch. 5 para. 9 of the amending Act) by [Finance Act 2015 (c. 11)](https://www.legislation.gov.uk/ukpga/2015/11), [Sch. 5 para. 6](https://www.legislation.gov.uk/ukpga/2015/11/schedule/5/paragraph/6)

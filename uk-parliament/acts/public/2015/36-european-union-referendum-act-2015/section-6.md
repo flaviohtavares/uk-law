@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Duty to publish information on outcome of negotiations between member States[^key-e6bbc54a4a7c62bc35eea80e665035ba]
+## 6. Duty to publish information on outcome of negotiations between member States[^c-e6bbc54a4a7c62bc35eea80e665035ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6bbc54a4a7c62bc35eea80e665035ba]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2015/36/section/6) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-e6bbc54a4a7c62bc35eea80e665035ba]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2015/36/section/6) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — Land in which only new rights, etc may be acquired[^key-0348c8ccefd88abbc9d96464369a0693]
+## SCHEDULE 7 — Land in which only new rights, etc may be acquired[^c-0348c8ccefd88abbc9d96464369a0693]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ Article 19
 
 ## Annotations
 
-[^key-0348c8ccefd88abbc9d96464369a0693]: Commencement: Sch. 7 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-0348c8ccefd88abbc9d96464369a0693]: Commencement: Sch. 7 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)

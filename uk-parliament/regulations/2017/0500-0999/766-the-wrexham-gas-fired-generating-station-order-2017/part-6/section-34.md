@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Protective provisions[^key-c9b7e6b708b289476bebf59598562185]
+## 34. Protective provisions[^c-c9b7e6b708b289476bebf59598562185]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-c9b7e6b708b289476bebf59598562185]: Commencement: Art. 34 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)
+[^c-c9b7e6b708b289476bebf59598562185]: Commencement: Art. 34 in force at 8.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/766/article/1)

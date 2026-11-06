@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Fruit Juices and Fruit Nectars (Wales) (Amendment) Regulations 2011 (revoked)[^key-d0dfa01b9afd32b4a7f603db0375d9d5]
+The Fruit Juices and Fruit Nectars (Wales) (Amendment) Regulations 2011 (revoked)[^c-d0dfa01b9afd32b4a7f603db0375d9d5]
 
 Made
 
@@ -45,34 +45,34 @@ Coming into force
 
 31 March 2011
 
-[^key-d0dfa01b9afd32b4a7f603db0375d9d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0dfa01b9afd32b4a7f603db0375d9d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-d0dfa01b9afd32b4a7f603db0375d9d5]
+## 1. Title, commencement and application[^c-d0dfa01b9afd32b4a7f603db0375d9d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Fruit Juices and Fruit Nectars (Wales) Regulations 2003[^key-d0dfa01b9afd32b4a7f603db0375d9d5]
+## 2. Amendment of the Fruit Juices and Fruit Nectars (Wales) Regulations 2003[^c-d0dfa01b9afd32b4a7f603db0375d9d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d0dfa01b9afd32b4a7f603db0375d9d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0dfa01b9afd32b4a7f603db0375d9d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-d0dfa01b9afd32b4a7f603db0375d9d5]
+## SCHEDULE[^c-d0dfa01b9afd32b4a7f603db0375d9d5]
 
 Regulation 2(5)
 
-[^key-d0dfa01b9afd32b4a7f603db0375d9d5]
+[^c-d0dfa01b9afd32b4a7f603db0375d9d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-d0dfa01b9afd32b4a7f603db0375d9d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d0dfa01b9afd32b4a7f603db0375d9d5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d0dfa01b9afd32b4a7f603db0375d9d5]: Textual amendment: Regulations revoked (20.11.2013) by [The Fruit Juices and Fruit Nectars (Wales) Regulations 2013 (S.I. 2013/2750)](https://www.legislation.gov.uk/wsi/2013/2750), [reg. 20(1)(b)](https://www.legislation.gov.uk/wsi/2013/2750/regulation/20/1/b) (with [reg. 22(2)](https://www.legislation.gov.uk/wsi/2013/2750/regulation/22/2))
+[^c-d0dfa01b9afd32b4a7f603db0375d9d5]: Textual amendment: Regulations revoked (20.11.2013) by [The Fruit Juices and Fruit Nectars (Wales) Regulations 2013 (S.I. 2013/2750)](https://www.legislation.gov.uk/wsi/2013/2750), [reg. 20(1)(b)](https://www.legislation.gov.uk/wsi/2013/2750/regulation/20/1/b) (with [reg. 22(2)](https://www.legislation.gov.uk/wsi/2013/2750/regulation/22/2))

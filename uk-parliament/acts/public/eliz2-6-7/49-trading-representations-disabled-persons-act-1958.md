@@ -31,26 +31,26 @@ Trading Representations (Disabled Persons) Act 1958 (repealed)
 
 1958 c.49
 
-[^key-6d6a9ff2de6e7da837771ded551d280c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6d6a9ff2de6e7da837771ded551d280c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 \[23rd July, 1958\]
 
 **No longer in force.**
 
-## 1. Sale of goods advertised as made by, or sold for, benefit of blind or otherwise disabled persons.[^key-6d6a9ff2de6e7da837771ded551d280c][^key-6d6a9ff2de6e7da837771ded551d280c]
+## 1. Sale of goods advertised as made by, or sold for, benefit of blind or otherwise disabled persons.[^c-6d6a9ff2de6e7da837771ded551d280c][^c-6d6a9ff2de6e7da837771ded551d280c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2&3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-6d6a9ff2de6e7da837771ded551d280c][^key-6d6a9ff2de6e7da837771ded551d280c]
+## 2&3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-6d6a9ff2de6e7da837771ded551d280c][^c-6d6a9ff2de6e7da837771ded551d280c]
 
-## 4. Interpretation of references to disablement.[^key-6d6a9ff2de6e7da837771ded551d280c][^key-6d6a9ff2de6e7da837771ded551d280c]
+## 4. Interpretation of references to disablement.[^c-6d6a9ff2de6e7da837771ded551d280c][^c-6d6a9ff2de6e7da837771ded551d280c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short title and extent.[^key-6d6a9ff2de6e7da837771ded551d280c][^key-6d6a9ff2de6e7da837771ded551d280c]
+## 5. Short title and extent.[^c-6d6a9ff2de6e7da837771ded551d280c][^c-6d6a9ff2de6e7da837771ded551d280c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d6a9ff2de6e7da837771ded551d280c]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/49) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))
+[^c-6d6a9ff2de6e7da837771ded551d280c]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/49) repealed (26.5.2008) by [The Consumer Protection from Unfair Trading Regulations 2008 (S.I. 2008/1277)](https://www.legislation.gov.uk/uksi/2008/1277), [reg. 1](https://www.legislation.gov.uk/uksi/2008/1277/regulation/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2008/1277/schedule/4/part/1) (with [reg. 28(2)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/2)[(3)](https://www.legislation.gov.uk/uksi/2008/1277/regulation/28/3))

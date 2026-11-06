@@ -22,7 +22,7 @@ summary: ''
 
 (1) A simplified planning zone is an area in respect of which a simplified planning zone scheme is in force.
 
-(2)[^key-121d2e2bd8d15ba2ff3c2d3a0088ff1d][^key-81d57bbf4bd4ef910e20a8bbc0d3ca54][^key-b429985da1e90af3322a959cba4292e8][^key-1ad3a28faf90a2ea85274502d2807971] The adoption or approval of a simplified planning zone scheme has effect to grant in relation to the zone, or any part of it specified in the scheme, planning permission—
+(2)[^c-121d2e2bd8d15ba2ff3c2d3a0088ff1d][^c-81d57bbf4bd4ef910e20a8bbc0d3ca54][^c-b429985da1e90af3322a959cba4292e8][^c-1ad3a28faf90a2ea85274502d2807971] The adoption or approval of a simplified planning zone scheme has effect to grant in relation to the zone, or any part of it specified in the scheme, planning permission—
 
 - (a) for development specified in the scheme, or
 - (b) for development of any class so specified.
@@ -31,10 +31,10 @@ summary: ''
 
 ## Annotations
 
-[^key-121d2e2bd8d15ba2ff3c2d3a0088ff1d]: Modification: S. 82(2) restricted (31.7.2013) by [The East Northamptonshire Resource Management Facility Order 2013 (S.I. 2013/1752)](https://www.legislation.gov.uk/uksi/2013/1752), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2013/1752/article/6/1)
+[^c-121d2e2bd8d15ba2ff3c2d3a0088ff1d]: Modification: S. 82(2) restricted (31.7.2013) by [The East Northamptonshire Resource Management Facility Order 2013 (S.I. 2013/1752)](https://www.legislation.gov.uk/uksi/2013/1752), [arts. 1](https://www.legislation.gov.uk/uksi/2013/1752/article/1), [6(1)](https://www.legislation.gov.uk/uksi/2013/1752/article/6/1)
 
-[^key-81d57bbf4bd4ef910e20a8bbc0d3ca54]: Modification: S. 82(2) restricted (12.1.2016) by [The London Underground (Bank Station Capacity Upgrade) Order 2015 (S.I. 2015/2044)](https://www.legislation.gov.uk/uksi/2015/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1), [34(1)](https://www.legislation.gov.uk/uksi/2015/2044/article/34/1) (with [art. 34(3)](https://www.legislation.gov.uk/uksi/2015/2044/article/34/3))
+[^c-81d57bbf4bd4ef910e20a8bbc0d3ca54]: Modification: S. 82(2) restricted (12.1.2016) by [The London Underground (Bank Station Capacity Upgrade) Order 2015 (S.I. 2015/2044)](https://www.legislation.gov.uk/uksi/2015/2044), [arts. 1](https://www.legislation.gov.uk/uksi/2015/2044/article/1), [34(1)](https://www.legislation.gov.uk/uksi/2015/2044/article/34/1) (with [art. 34(3)](https://www.legislation.gov.uk/uksi/2015/2044/article/34/3))
 
-[^key-b429985da1e90af3322a959cba4292e8]: Modification: S. 82(2) restricted (18.2.2016) by [The A19/A1058 Coast Road (Junction Improvement) Development Consent Order 2016 (S.I. 2016/73)](https://www.legislation.gov.uk/uksi/2016/73), [arts. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1), [35(1)](https://www.legislation.gov.uk/uksi/2016/73/article/35/1) (with [art. 37](https://www.legislation.gov.uk/uksi/2016/73/article/37))
+[^c-b429985da1e90af3322a959cba4292e8]: Modification: S. 82(2) restricted (18.2.2016) by [The A19/A1058 Coast Road (Junction Improvement) Development Consent Order 2016 (S.I. 2016/73)](https://www.legislation.gov.uk/uksi/2016/73), [arts. 1](https://www.legislation.gov.uk/uksi/2016/73/article/1), [35(1)](https://www.legislation.gov.uk/uksi/2016/73/article/35/1) (with [art. 37](https://www.legislation.gov.uk/uksi/2016/73/article/37))
 
-[^key-1ad3a28faf90a2ea85274502d2807971]: Modification: [S. 82(2)](https://www.legislation.gov.uk/ukpga/1990/8/section/82/2) restricted (28.3.2024) by [The A66 Northern Trans-Pennine Development Consent Order 2024 (S.I. 2024/360)](https://www.legislation.gov.uk/uksi/2024/360), [arts. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1), [47](https://www.legislation.gov.uk/uksi/2024/360/article/47) (with [arts. 18](https://www.legislation.gov.uk/uksi/2024/360/article/18), [35](https://www.legislation.gov.uk/uksi/2024/360/article/35), [Sch. 9](https://www.legislation.gov.uk/uksi/2024/360/schedule/9))
+[^c-1ad3a28faf90a2ea85274502d2807971]: Modification: [S. 82(2)](https://www.legislation.gov.uk/ukpga/1990/8/section/82/2) restricted (28.3.2024) by [The A66 Northern Trans-Pennine Development Consent Order 2024 (S.I. 2024/360)](https://www.legislation.gov.uk/uksi/2024/360), [arts. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1), [47](https://www.legislation.gov.uk/uksi/2024/360/article/47) (with [arts. 18](https://www.legislation.gov.uk/uksi/2024/360/article/18), [35](https://www.legislation.gov.uk/uksi/2024/360/article/35), [Sch. 9](https://www.legislation.gov.uk/uksi/2024/360/schedule/9))

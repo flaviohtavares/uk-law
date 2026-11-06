@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Supplying articles for use in immigration crime[^key-d087e60bbdbcd482dab84693315395aa][^key-93b3f15f920479f78732b1081516cbe4]
+## 13. Supplying articles for use in immigration crime[^c-d087e60bbdbcd482dab84693315395aa][^c-93b3f15f920479f78732b1081516cbe4]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d087e60bbdbcd482dab84693315395aa]: Commencement: S. 13 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-d087e60bbdbcd482dab84693315395aa]: Commencement: S. 13 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-93b3f15f920479f78732b1081516cbe4]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/31/section/13) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/b)
+[^c-93b3f15f920479f78732b1081516cbe4]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2025/31/section/13) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/b)

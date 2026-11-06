@@ -24,7 +24,7 @@ summary: ''
 
 (2) The Treasury may by order amend this section or sections 1120 to[^M_F_524d902a-cadd-4730-a35d-da84ecd19357] 1120B to substitute a different definition of “**small or medium-sized enterprise**” for the purposes of this Part.
 
-(3) This section is subject to section 1081 (insurance companies to be treated as large companies for purposes of Chapter 2[^key-605906dd36f2ab2fbc2021c40cc4526f]).
+(3) This section is subject to section 1081 (insurance companies to be treated as large companies for purposes of Chapter 2[^c-605906dd36f2ab2fbc2021c40cc4526f]).
 
 ## Annotations
 
@@ -32,4 +32,4 @@ summary: ''
 
 [^M_F_524d902a-cadd-4730-a35d-da84ecd19357]: Textual amendment: Words in s. 1119(2) substituted (with effect in relation to accounting periods beginning on or after 1.4.2023) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 1 paras. 16(1)(b)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/16/1/b), [20](https://www.legislation.gov.uk/ukpga/2023/30/schedule/1/paragraph/20)
 
-[^key-605906dd36f2ab2fbc2021c40cc4526f]: Textual amendment: Words in s. 1119(3) substituted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/21)
+[^c-605906dd36f2ab2fbc2021c40cc4526f]: Textual amendment: Words in s. 1119(3) substituted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 21](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/21)

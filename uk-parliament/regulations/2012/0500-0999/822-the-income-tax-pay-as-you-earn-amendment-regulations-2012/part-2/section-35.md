@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Failure to account for deductible tax[^key-107da815f59cc94f994eba9bdcc3bee4]
+## 35. Failure to account for deductible tax[^c-107da815f59cc94f994eba9bdcc3bee4]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,16 +80,16 @@ Before regulation 76 and below the cross heading “Failure to account for deduc
 
 .
 
-**36.**[^key-8ccee21167014e7da6bc58749a7ccf36] In the heading to regulation 77 (return and certificate if tax may be unpaid), after “unpaid” insert “: amounts due under regulation 68”.
+**36.**[^c-8ccee21167014e7da6bc58749a7ccf36] In the heading to regulation 77 (return and certificate if tax may be unpaid), after “unpaid” insert “: amounts due under regulation 68”.
 
-**37.**[^key-8059e9b867f368f114a3d74db2141d10] In the heading to regulation 78 (notice and certificate if tax may be unpaid), after “unpaid” insert “: amounts due under regulation 68”.
+**37.**[^c-8059e9b867f368f114a3d74db2141d10] In the heading to regulation 78 (notice and certificate if tax may be unpaid), after “unpaid” insert “: amounts due under regulation 68”.
 
 ## Annotations
 
-[^key-107da815f59cc94f994eba9bdcc3bee4]: Commencement: Reg. 35 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-107da815f59cc94f994eba9bdcc3bee4]: Commencement: Reg. 35 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
 
 [^f00007]: Footnote: [2008 c.9](https://www.legislation.gov.uk/ukpga/2008/9). Schedule 36 was amended by Schedules 47 and 48 to the Finance Act 2009, Schedules 23 and 24 to the Finance Act 2011 and [S.I. 2009/56](https://www.legislation.gov.uk/uksi/2009/56) and [2009/3054](https://www.legislation.gov.uk/uksi/2009/3054). It has been prospectively amended by Schedule 6 to the Finance Act [2010 (c.13)](https://www.legislation.gov.uk/ukpga/2010/13).
 
-[^key-8ccee21167014e7da6bc58749a7ccf36]: Commencement: Reg. 36 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-8ccee21167014e7da6bc58749a7ccf36]: Commencement: Reg. 36 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
 
-[^key-8059e9b867f368f114a3d74db2141d10]: Commencement: Reg. 37 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)
+[^c-8059e9b867f368f114a3d74db2141d10]: Commencement: Reg. 37 in force at 6.4.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/822/regulation/1/1)

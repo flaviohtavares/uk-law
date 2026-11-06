@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Producer responsibility obligations[^key-145cd09fb88e368ef529cb9945e6f8ce]
+## 25. Producer responsibility obligations[^c-145cd09fb88e368ef529cb9945e6f8ce]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to paragraph (4), in relation to any relevant year in which a person[^key-121f0408808bc4322fd6bde19380f5c6] (“**P**”) is a large producer or a small producer, P must—
+(1) Subject to paragraph (4), in relation to any relevant year in which a person[^c-121f0408808bc4322fd6bde19380f5c6] (“**P**”) is a large producer or a small producer, P must—
 
 - (a) be registered with the appropriate agency in accordance with Chapter 1 of Part 3;
 - (b) keep the records specified in relation to P in regulation 34(1), in accordance with regulation 34(2);
@@ -34,7 +34,7 @@ summary: ''
 (2) Subject to paragraph (4), in relation to any relevant year in which P is a large producer and is one or more of the classes of producer in regulation 15(1)(b)(i) to (vi), P must also—
 
 - (a) recycle packaging waste in each packaging category of packaging supplied by P, in accordance with regulation 40;
-- (b)[^key-e7060a0148e7fe2c107b2f4552a853bd] keep—
+- (b)[^c-e7060a0148e7fe2c107b2f4552a853bd] keep—
   - (i) the evidence referred to in regulation 34(2)(b), in accordance with regulation 34(2); and
   - (ii) the evidence specified in regulation 34(3), in accordance with that regulation;
 - (c) furnish a certificate of compliance to the appropriate agency in respect of P’s recycling obligations, in accordance with regulation 41.
@@ -61,8 +61,8 @@ summary: ''
 
 ## Annotations
 
-[^key-145cd09fb88e368ef529cb9945e6f8ce]: Commencement: Reg. 25 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-145cd09fb88e368ef529cb9945e6f8ce]: Commencement: Reg. 25 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
 
-[^key-121f0408808bc4322fd6bde19380f5c6]: Textual amendment: Word in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/25/1) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/5/4/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-121f0408808bc4322fd6bde19380f5c6]: Textual amendment: Word in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/25/1) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [5(4)(a)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/5/4/a) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
 
-[^key-e7060a0148e7fe2c107b2f4552a853bd]: Textual amendment: [Reg. 25(2)(b)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/25/2/b) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/5/4/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))
+[^c-e7060a0148e7fe2c107b2f4552a853bd]: Textual amendment: [Reg. 25(2)(b)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/25/2/b) substituted (1.1.2026) by [The Producer Responsibility Obligations (Packaging and Packaging Waste) (Amendment) Regulations 2025 (S.I. 2025/1369)](https://www.legislation.gov.uk/uksi/2025/1369), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/1/2), [5(4)(b)](https://www.legislation.gov.uk/uksi/2025/1369/regulation/5/4/b) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2025/1369/schedule/4))

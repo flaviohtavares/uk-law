@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 158. Records[^key-8ed6734fec063303209bf3b56cdac3bf]
+## 158. Records[^c-8ed6734fec063303209bf3b56cdac3bf]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ The administrator must include in the administrator’s records of the special a
 
 ## Annotations
 
-[^key-8ed6734fec063303209bf3b56cdac3bf]: Commencement: Rule 158 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-8ed6734fec063303209bf3b56cdac3bf]: Commencement: Rule 158 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

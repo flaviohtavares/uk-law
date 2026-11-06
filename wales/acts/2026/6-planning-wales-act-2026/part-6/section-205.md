@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 205. Interpretation of this Chapter[^key-554c6fcb42d27a19f70d8c6e9e2dc164]
+## 205. Interpretation of this Chapter[^c-554c6fcb42d27a19f70d8c6e9e2dc164]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In this Chapter—
 
 ## Annotations
 
-[^key-554c6fcb42d27a19f70d8c6e9e2dc164]: Commencement: S. 205 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-554c6fcb42d27a19f70d8c6e9e2dc164]: Commencement: S. 205 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

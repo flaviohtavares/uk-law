@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 176. Interpretation.[^key-085064ba04d11c156981c103975c1a52]
+## 176. Interpretation.[^c-085064ba04d11c156981c103975c1a52]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ and the definition of “enactment” shall apply for the purposes of section 11
 
 ## Annotations
 
-[^key-085064ba04d11c156981c103975c1a52]: Commencement: S. 176 in force at 6.4.1996 by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(4)](https://www.legislation.gov.uk/uksi/1996/778/article/2/4), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/IV)
+[^c-085064ba04d11c156981c103975c1a52]: Commencement: S. 176 in force at 6.4.1996 by [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778), [art. 2(4)](https://www.legislation.gov.uk/uksi/1996/778/article/2/4), [Sch. Pt. IV](https://www.legislation.gov.uk/uksi/1996/778/schedule/part/IV)
 
 [^c2136395]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Amendment of section 19[^key-045230346be1ed593ffd4c67a4af0019]
+## 8. Amendment of section 19[^c-045230346be1ed593ffd4c67a4af0019]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ In section 19 (regulations with respect to the register)—
 
 ## Annotations
 
-[^key-045230346be1ed593ffd4c67a4af0019]: Commencement: Art. 8 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-045230346be1ed593ffd4c67a4af0019]: Commencement: Art. 8 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
 
 [^f00005]: Footnote: Subsection (2) was substituted by S.I. [1996/1496](https://www.legislation.gov.uk/uksi/1996/1496).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 220. Appeal to Tribunal against transfer under section 218 to state hospital[^key-12323b7cf6594a072e2c1d3864a735cd]
+## 220. Appeal to Tribunal against transfer under section 218 to state hospital[^c-12323b7cf6594a072e2c1d3864a735cd]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12323b7cf6594a072e2c1d3864a735cd]: Commencement: S. 220 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-12323b7cf6594a072e2c1d3864a735cd]: Commencement: S. 220 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

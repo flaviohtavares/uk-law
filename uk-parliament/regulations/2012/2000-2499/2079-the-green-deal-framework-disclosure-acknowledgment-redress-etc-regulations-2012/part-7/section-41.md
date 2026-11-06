@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 41. Specified period under section 8(3)[^key-a9bd84252b2ab729d31ff1ad30c470bd]
+## 41. Specified period under section 8(3)[^c-a9bd84252b2ab729d31ff1ad30c470bd]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9bd84252b2ab729d31ff1ad30c470bd]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2012/2079/regulation/41) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)
+[^c-a9bd84252b2ab729d31ff1ad30c470bd]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2012/2079/regulation/41) in force at 28.1.2013, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2012/2079/regulation/1/3)

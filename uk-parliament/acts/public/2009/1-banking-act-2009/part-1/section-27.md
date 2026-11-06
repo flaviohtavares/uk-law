@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Supplemental orders[^M_I_afae8cfd-a428-4563-c5a5-648d45c233b5][^key-bbc8a5ffadabed43c7c9dbff7e38aa44]
+## 27. Supplemental orders[^M_I_afae8cfd-a428-4563-c5a5-648d45c233b5][^c-bbc8a5ffadabed43c7c9dbff7e38aa44]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 
 (5) Before making a supplemental share transfer order the Treasury must consult—
 
-- (a)[^key-7a03f08087044cd9bd5a637dd2fbe5c6] the PRA,
+- (a)[^c-7a03f08087044cd9bd5a637dd2fbe5c6] the PRA,
 - (aa) the FCA, and
 - (b) the Bank of England.
 
@@ -43,6 +43,6 @@ summary: ''
 
 [^M_I_afae8cfd-a428-4563-c5a5-648d45c233b5]: Commencement: S. 27 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-bbc8a5ffadabed43c7c9dbff7e38aa44]: Commencement: S. 27 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-bbc8a5ffadabed43c7c9dbff7e38aa44]: Commencement: S. 27 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
 
-[^key-7a03f08087044cd9bd5a637dd2fbe5c6]: Textual amendment: S. 27(5)(a)(aa) substituted for s. 27(5)(a) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/15) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-7a03f08087044cd9bd5a637dd2fbe5c6]: Textual amendment: S. 27(5)(a)(aa) substituted for s. 27(5)(a) (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/15) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

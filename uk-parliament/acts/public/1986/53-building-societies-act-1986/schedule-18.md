@@ -34,11 +34,11 @@ Section 120.
 
 #### Land Registration Act 1925 (c.21)
 
-**2.**[^key-34b50bf9544ba8b1c79c2544e2403817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-34b50bf9544ba8b1c79c2544e2403817] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Payment of Wages Act 1960 (c. 37)
 
-**3.**[^key-5f82a60b3c1d3963a4a255451ad33585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5f82a60b3c1d3963a4a255451ad33585] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Trustee Investments Act 1961 (c. 62)
 
@@ -62,7 +62,7 @@ Section 120.
 
 #### Industrial and Provident Societies Act 1965 (c.12)
 
-**6.**[^key-b2e8fe65787643bc94747baa7cd1274f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b2e8fe65787643bc94747baa7cd1274f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Income and Corporation Taxes Act 1970 (c.10)
 
@@ -125,9 +125,9 @@ Section 120.
 
 **11.** (1) This paragraph amends the [^c15528111]Solicitors Act 1974 as follows.
 
-(2)[^key-d1fd81d1c78809a2963ee0bec3ece93b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d1fd81d1c78809a2963ee0bec3ece93b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-d1fd81d1c78809a2963ee0bec3ece93b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d1fd81d1c78809a2963ee0bec3ece93b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 85 (bank accounts)—
 
@@ -197,7 +197,7 @@ Section 120.
 
 **19.** (1) This paragraph amends the [^c15528271]Housing Associations Act 1985 as follows.
 
-(2)[^key-3f3f67a841484469d184d81fd0961315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3f3f67a841484469d184d81fd0961315] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 84(5) and 86(4) (consultation by Secretary of State regarding building society indemnities) for “Chief Registrar of Friendly Societies” there shall be substituted “ Building Societies Commission ”.
 
@@ -268,15 +268,15 @@ Section 120.
 
 [^c15527991]: Marginal citation: [1879 c. 11](https://www.legislation.gov.uk/ukpga/1879/11).
 
-[^key-34b50bf9544ba8b1c79c2544e2403817]: Textual amendment: Sch. 18 para. 2 repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-34b50bf9544ba8b1c79c2544e2403817]: Textual amendment: Sch. 18 para. 2 repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
-[^key-5f82a60b3c1d3963a4a255451ad33585]: Textual amendment: Sch. 18 para. 3 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
+[^c-5f82a60b3c1d3963a4a255451ad33585]: Textual amendment: Sch. 18 para. 3 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
 
 [^c15528041]: Marginal citation: 9 & 10 Eliz. 2 c. 62.
 
 [^c15528051]: Marginal citation: [1963 c. 18](https://www.legislation.gov.uk/ukpga/1963/18).
 
-[^key-b2e8fe65787643bc94747baa7cd1274f]: Textual amendment: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/1986/53/schedule/18/paragraph/6) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-b2e8fe65787643bc94747baa7cd1274f]: Textual amendment: [Sch. 18 para. 6](https://www.legislation.gov.uk/ukpga/1986/53/schedule/18/paragraph/6) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c15528071]: Textual amendment: Sch. 18 para. 7 repealed by [Income and Corporation Taxes Act 1988 (c. 1, SIF 63:1)](https://www.legislation.gov.uk/ukpga/1988/1), [s. 844](https://www.legislation.gov.uk/ukpga/1988/1/section/844), [Sch. 31](https://www.legislation.gov.uk/ukpga/1988/1/schedule/31)
 
@@ -288,7 +288,7 @@ Section 120.
 
 [^c15528111]: Marginal citation: [1974 c. 47](https://www.legislation.gov.uk/ukpga/1974/47).
 
-[^key-d1fd81d1c78809a2963ee0bec3ece93b]: Textual amendment: [Sch. 18 para. 11(2)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/18/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/18/paragraph/11/3) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(v)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/v)
+[^c-d1fd81d1c78809a2963ee0bec3ece93b]: Textual amendment: [Sch. 18 para. 11(2)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/18/paragraph/11/2)[(3)](https://www.legislation.gov.uk/ukpga/1986/53/schedule/18/paragraph/11/3) repealed (1.1.2010) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [s. 211(2)](https://www.legislation.gov.uk/ukpga/2007/29/section/211/2), [Sch. 23](https://www.legislation.gov.uk/ukpga/2007/29/schedule/23) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/3250](https://www.legislation.gov.uk/uksi/2009/3250), [art. 2(i)(v)](https://www.legislation.gov.uk/uksi/2009/3250/article/2/i/v)
 
 [^c15528121]: Textual amendment: Sch. 18 para. 12 repealed (S.) by [Housing (Scotland) Act 1987 (c. 26, SIF 61)](https://www.legislation.gov.uk/ukpga/1987/26), [s. 339](https://www.legislation.gov.uk/ukpga/1987/26/section/339), [Sch. 24](https://www.legislation.gov.uk/ukpga/1987/26/schedule/24)
 
@@ -310,7 +310,7 @@ Section 120.
 
 [^c15528271]: Marginal citation: [1985 c. 69](https://www.legislation.gov.uk/ukpga/1985/69).
 
-[^key-3f3f67a841484469d184d81fd0961315]: Textual amendment: Sch. 18 para. 19(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
+[^c-3f3f67a841484469d184d81fd0961315]: Textual amendment: Sch. 18 para. 19(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 2
 
 [^c15528281]: Marginal citation: [1969 c. 24 (N.I.)](https://www.legislation.gov.uk/apni/1969/24).
 

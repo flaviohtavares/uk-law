@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Consultation on pharmaceutical needs assessments[^key-f5cb7d5e0b3e370b3fdd0c14dbbc2a4b]
+## 7. Consultation on pharmaceutical needs assessments[^c-f5cb7d5e0b3e370b3fdd0c14dbbc2a4b]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (e) the persons on its dispensing doctors list (if it has one),
 - (f) any person with whom the Local Health Board has made arrangements for the provision of dispensing services,
 - (g) any provider of primary medical services in its area,
-- (h) the Citizen Voice Body[^key-f777bb3b71dd5fe3c49b28ef29ec52ff] and any other group representing patients, consumers or a community in its area which in the opinion of the Local Health Board has an interest in the provision of pharmaceutical services in its area,
+- (h) the Citizen Voice Body[^c-f777bb3b71dd5fe3c49b28ef29ec52ff] and any other group representing patients, consumers or a community in its area which in the opinion of the Local Health Board has an interest in the provision of pharmaceutical services in its area,
 - (i) any Regional Partnership Board for its area,
 - (j) any local authority for its area,
 - (k) any NHS Trust in its area, and
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f5cb7d5e0b3e370b3fdd0c14dbbc2a4b]: Commencement: Reg. 7 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-f5cb7d5e0b3e370b3fdd0c14dbbc2a4b]: Commencement: Reg. 7 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
 
-[^key-f777bb3b71dd5fe3c49b28ef29ec52ff]: Textual amendment: Words in reg. 7(1)(h) substituted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [9(3)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/3)
+[^c-f777bb3b71dd5fe3c49b28ef29ec52ff]: Textual amendment: Words in reg. 7(1)(h) substituted (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [9(3)](https://www.legislation.gov.uk/wsi/2023/299/regulation/9/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Public open space[^key-d7d3f981cdb7735311a5064318f93beb]
+## 39. Public open space[^c-d7d3f981cdb7735311a5064318f93beb]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ the exchange land shall vest in the London borough of Lewisham.
 
 ## Annotations
 
-[^key-d7d3f981cdb7735311a5064318f93beb]: Commencement: Art. 39 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)
+[^c-d7d3f981cdb7735311a5064318f93beb]: Commencement: Art. 39 in force at 9.11.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3682/article/1)

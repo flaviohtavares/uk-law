@@ -29,7 +29,7 @@ such sums as the development corporation may require for meeting their obligatio
 
 (2) With the consent of the Secretary of State and the approval of the Treasury, a development corporation may, subject to section 60 of the [^c733663] New Towns Act 1981 , borrow, otherwise than by way of temporary loan,—
 
-- (a) in any currency from the commission of the European Union[^key-4d2c653297aa44f30cd5b8bd38c77ca2] or from the European Investment Bank, or
+- (a) in any currency from the commission of the European Union[^c-4d2c653297aa44f30cd5b8bd38c77ca2] or from the European Investment Bank, or
 - (b) in any currency other than sterling from any person, other than the Secretary of State and the bodies mentioned in the preceding paragraph,
 
 such sums as they may require for enabling them to meet expenditure properly chargeable to capital account (including the provision of working capital), or to make good to revenue account sums applied in meeting liabilities so chargeable.
@@ -44,4 +44,4 @@ such sums as they may require for enabling them to meet expenditure properly cha
 
 [^c733663]: Marginal citation: [1981 c. 64](https://www.legislation.gov.uk/ukpga/1981/64)**(123:3)**.
 
-[^key-4d2c653297aa44f30cd5b8bd38c77ca2]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-4d2c653297aa44f30cd5b8bd38c77ca2]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

@@ -27,7 +27,7 @@ summary: ''
 - (c) a helicopter flying on a commercial air transport operation; or
 - (d) an aeroplane with a flight crew of one pilot flying for the purpose of commercial air transport.
 
-(2) Article 176(1)[^key-a4d3e7321d3e9942187e08639ea00c95] also applies to an aircraft registered in the United Kingdom which is flying on—
+(2) Article 176(1)[^c-a4d3e7321d3e9942187e08639ea00c95] also applies to an aircraft registered in the United Kingdom which is flying on—
 
 - (a) a non-commercial flight; and
 - (b) a commercial operations flight.
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a4d3e7321d3e9942187e08639ea00c95]: Textual amendment: Words in [art. 174(2)](https://www.legislation.gov.uk/uksi/2016/765/article/174/2) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [32](https://www.legislation.gov.uk/uksi/2017/1112/article/32)
+[^c-a4d3e7321d3e9942187e08639ea00c95]: Textual amendment: Words in [art. 174(2)](https://www.legislation.gov.uk/uksi/2016/765/article/174/2) substituted (14.12.2017) by [The Air Navigation (Amendment) Order 2017 (S.I. 2017/1112)](https://www.legislation.gov.uk/uksi/2017/1112), [arts. 1](https://www.legislation.gov.uk/uksi/2017/1112/article/1), [32](https://www.legislation.gov.uk/uksi/2017/1112/article/32)

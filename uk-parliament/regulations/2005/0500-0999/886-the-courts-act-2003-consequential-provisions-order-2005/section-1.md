@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-634c05f076ba3bf3ea1e71ae1e7cea9a]
+## 1. Citation and commencement[^c-634c05f076ba3bf3ea1e71ae1e7cea9a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Order may be cited as the Courts Act 2003 (Consequential Provisions) Order 
 
 ## Annotations
 
-[^key-634c05f076ba3bf3ea1e71ae1e7cea9a]: Commencement: Art. 1 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)
+[^c-634c05f076ba3bf3ea1e71ae1e7cea9a]: Commencement: Art. 1 in force at 1.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/886/article/1)

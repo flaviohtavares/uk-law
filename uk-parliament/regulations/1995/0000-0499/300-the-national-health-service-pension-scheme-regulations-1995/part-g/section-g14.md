@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## G14. Surviving scheme partner’s pension[^key-308f61191790c41136dc59a6c6ddc87b]
+## G14. Surviving scheme partner’s pension[^c-308f61191790c41136dc59a6c6ddc87b]
 
 *Extent: E+W+S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-308f61191790c41136dc59a6c6ddc87b]: Textual amendment: [Reg. G14](https://www.legislation.gov.uk/uksi/1995/300/regulation/G14) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2/9), [18](https://www.legislation.gov.uk/uksi/2019/418/regulation/18)
+[^c-308f61191790c41136dc59a6c6ddc87b]: Textual amendment: [Reg. G14](https://www.legislation.gov.uk/uksi/1995/300/regulation/G14) substituted (with effect from 1.4.2008) by [The National Health Service Pension Schemes, Additional Voluntary Contributions and Injury Benefits (Amendment) Regulations 2019 (S.I. 2019/418)](https://www.legislation.gov.uk/uksi/2019/418), [regs. 1(2)(9)](https://www.legislation.gov.uk/uksi/2019/418/regulation/1/2/9), [18](https://www.legislation.gov.uk/uksi/2019/418/regulation/18)

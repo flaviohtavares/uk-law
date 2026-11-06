@@ -32,7 +32,7 @@ summary: ''
 
 Excise
 
-The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) Order 2012 (revoked)[^key-54b500f76da6ad7031738eab4b79dca8]
+The Excise Duties (Surcharges or Rebates) (Hydrocarbon Oils etc.) Order 2012 (revoked)[^c-54b500f76da6ad7031738eab4b79dca8]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 1st January 2013
 
-[^key-54b500f76da6ad7031738eab4b79dca8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54b500f76da6ad7031738eab4b79dca8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-54b500f76da6ad7031738eab4b79dca8]
+## 1. Citation and commencement[^c-54b500f76da6ad7031738eab4b79dca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-54b500f76da6ad7031738eab4b79dca8]
+## 2. Interpretation[^c-54b500f76da6ad7031738eab4b79dca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Adjustments of liability to duty on hydrocarbon oil, biodiesel and bioethanol[^key-54b500f76da6ad7031738eab4b79dca8]
+## 3. Adjustments of liability to duty on hydrocarbon oil, biodiesel and bioethanol[^c-54b500f76da6ad7031738eab4b79dca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Adjustments of rights to rebate of duty on hydrocarbon oil[^key-54b500f76da6ad7031738eab4b79dca8]
+## 4. Adjustments of rights to rebate of duty on hydrocarbon oil[^c-54b500f76da6ad7031738eab4b79dca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Adjustments of liability to fuel substitutes duty[^key-54b500f76da6ad7031738eab4b79dca8]
+## 5. Adjustments of liability to fuel substitutes duty[^c-54b500f76da6ad7031738eab4b79dca8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-54b500f76da6ad7031738eab4b79dca8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54b500f76da6ad7031738eab4b79dca8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-54b500f76da6ad7031738eab4b79dca8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54b500f76da6ad7031738eab4b79dca8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-54b500f76da6ad7031738eab4b79dca8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/3055) revoked (retrospective to 1.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 179(7)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/7/a)[(8)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/8)
+[^c-54b500f76da6ad7031738eab4b79dca8]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2012/3055) revoked (retrospective to 1.4.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 179(7)(a)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/7/a)[(8)](https://www.legislation.gov.uk/ukpga/2013/29/section/179/8)

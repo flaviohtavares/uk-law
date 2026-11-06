@@ -29,7 +29,7 @@ Cinemas Act 1985
 
 1985 c. 13
 
-[^key-6b75cdb2987e149ebd2e8f883e80137b]An Act to consolidate the Cinematograph Acts 1909 to 1982 and certain related enactments, with an amendment to give effect to a recommendation of the Law Commission.
+[^c-6b75cdb2987e149ebd2e8f883e80137b]An Act to consolidate the Cinematograph Acts 1909 to 1982 and certain related enactments, with an amendment to give effect to a recommendation of the Law Commission.
 
 \[27th March 1985\]
 
@@ -41,9 +41,9 @@ Cinemas Act 1985
 
 (1) Subject to sections 5 to 8 below, no premises shall be used for a film exhibition unless they are licensed for the purpose under this section.
 
-(2) A licensing authority may grant a licence under this section to such a person as they think fit to use any premises specified in the licence for the purpose of film exhibitions on such terms and conditions and subject to such restrictions as, subject to subsection (2A) and to[^key-24eabf1261d93541cfae69d46c5ab6c8] regulations under section 4 below, they may determine.
+(2) A licensing authority may grant a licence under this section to such a person as they think fit to use any premises specified in the licence for the purpose of film exhibitions on such terms and conditions and subject to such restrictions as, subject to subsection (2A) and to[^c-24eabf1261d93541cfae69d46c5ab6c8] regulations under section 4 below, they may determine.
 
-(2A)[^key-e5f0b5e12e8a89fb8f4566e6a97db7d5] Where Part 3 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) applies in relation to the premises, no term, condition or restriction may be imposed under subsection (2) which relates to any matter in relation to which requirements or prohibitions are or could be imposed by virtue of that Part.
+(2A)[^c-e5f0b5e12e8a89fb8f4566e6a97db7d5] Where Part 3 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) applies in relation to the premises, no term, condition or restriction may be imposed under subsection (2) which relates to any matter in relation to which requirements or prohibitions are or could be imposed by virtue of that Part.
 
 (3) Without prejudice to the generality of subsection (2) above, it shall be the duty of a licensing authority, in granting a licence under this section as respects any premises,—
 
@@ -54,9 +54,9 @@ Cinemas Act 1985
 
 (1) Subject to sections 5 and 6 below, no premises shall be used, except with the consent of the licensing authority, for a film exhibition organised wholly or mainly as an exhibition for children.
 
-(2) Subject to subsection (2A) and to[^key-46e9b69d743485b9f4341ac091915db7] regulations under section 4 below, a licensing authority may, without prejudice to any conditions or restrictions imposed by them on the granting of a licence, impose special conditions or restrictions on the granting of a consent under this section.
+(2) Subject to subsection (2A) and to[^c-46e9b69d743485b9f4341ac091915db7] regulations under section 4 below, a licensing authority may, without prejudice to any conditions or restrictions imposed by them on the granting of a licence, impose special conditions or restrictions on the granting of a consent under this section.
 
-(2A)[^key-c1111f6f8d0c1a96837c9cf22559d861] Where Part 3 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) applies in relation to the premises, no term, condition or restriction may be imposed under subsection (2) which relates to any matter in relation to which requirements or prohibitions are or could be imposed by virtue of that Part.
+(2A)[^c-c1111f6f8d0c1a96837c9cf22559d861] Where Part 3 of the [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) applies in relation to the premises, no term, condition or restriction may be imposed under subsection (2) which relates to any matter in relation to which requirements or prohibitions are or could be imposed by virtue of that Part.
 
 ### 3. Grant, renewal and transfer of licence or consent.[^c10005911][^c10005921][^c10005931]
 
@@ -72,7 +72,7 @@ Cinemas Act 1985
 
 not less than 28 days’ notice of his intention to make the application.
 
-(1A)[^key-378d48f6727460965ba1c8a4d15cf79e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-378d48f6727460965ba1c8a4d15cf79e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The licensing authority may in such cases as they think fit, after consulting with the fire authority and the chief officer of police, grant an application for the grant, renewal or transfer of a licence notwithstanding the fact that the applicant has failed to give notice in accordance with subsection (1) above.
 
@@ -108,16 +108,16 @@ not less than 28 days’ notice of his intention to make the application.
 (1) An applicant for the grant, renewal or transfer of a licence shall give to—
 
 - (a) the licensing authority,
-- (b) the appropriate[^key-718a6247eb2469dca2eb8f03bc7e77e5] fire[^key-48c9fc481e56b0852b6418ee69eb14c5] authority , and
+- (b) the appropriate[^c-718a6247eb2469dca2eb8f03bc7e77e5] fire[^c-48c9fc481e56b0852b6418ee69eb14c5] authority , and
 - (c) the chief officer of police,
 
 not less than 28 days’ notice of his intention to make the application.
 
-(1A)[^key-378d48f6727460965ba1c8a4d15cf79e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-378d48f6727460965ba1c8a4d15cf79e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The licensing authority may in such cases as they think fit, after consulting with the appropriate[^key-3d3f4acdbec6c50814453b9f7f460dfb] fire[^key-8f1a68cab5830077f6d2e6c5422cce44] authority and the chief officer of police, grant an application for the grant, renewal or transfer of a licence notwithstanding the fact that the applicant has failed to give notice in accordance with subsection (1) above.
+(2) The licensing authority may in such cases as they think fit, after consulting with the appropriate[^c-3d3f4acdbec6c50814453b9f7f460dfb] fire[^c-8f1a68cab5830077f6d2e6c5422cce44] authority and the chief officer of police, grant an application for the grant, renewal or transfer of a licence notwithstanding the fact that the applicant has failed to give notice in accordance with subsection (1) above.
 
-(3) In considering any application for the grant, renewal or transfer of a licence, the licensing authority shall have regard to any observations submitted to them by the appropriate fire[^key-c131b6bb7b74a2742ef2c732393d8ffd] authority or by the chief officer of police.
+(3) In considering any application for the grant, renewal or transfer of a licence, the licensing authority shall have regard to any observations submitted to them by the appropriate fire[^c-c131b6bb7b74a2742ef2c732393d8ffd] authority or by the chief officer of police.
 
 (4) Unless revoked under section 12 below, a licence shall remain in force for one year or for such shorter period as the licensing authority on the grant of the licence may determine.
 
@@ -137,11 +137,11 @@ not less than 28 days’ notice of his intention to make the application.
 
 (10) In this Act, except where the contrary intention appears,—
 
-- “appropriate[^key-fb063425c7e4c38b71afcff3733162e1] fire[^key-5b72448315ea5c3ef67d7b4be3c3e75d] authority”, in relation to any premises, means–
-  - ((a)) where Part 3 of the[^key-ade76711b04a1fad5a685f9d03a5ce24] [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) applies to the premises, the enforcing authority as defined in section 61(9) of that Act;
-  - ((b)) in any other case, the Scottish Fire and Rescue Service[^key-995e9ff276223292fa7babb3000ef774];
+- “appropriate[^c-fb063425c7e4c38b71afcff3733162e1] fire[^c-5b72448315ea5c3ef67d7b4be3c3e75d] authority”, in relation to any premises, means–
+  - ((a)) where Part 3 of the[^c-ade76711b04a1fad5a685f9d03a5ce24] [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5) applies to the premises, the enforcing authority as defined in section 61(9) of that Act;
+  - ((b)) in any other case, the Scottish Fire and Rescue Service[^c-995e9ff276223292fa7babb3000ef774];
 - “**chief officer of police**”, in relation to any premises, means the chief officer of police for the police area in which the premises are situated;
-- [^key-dc5a8bec72a7cf21c080ec3fb49a7d48]...
+- [^c-dc5a8bec72a7cf21c080ec3fb49a7d48]...
 - “**licence**” means a licence under section 1 above or a consent under section 2 above and references to a licence of either kind shall be construed accordingly;
 - “**licensing authority**”, in relation to any premises, means the local authority in whose area the premises are situated.
 
@@ -218,7 +218,7 @@ and the Secretary of State may revoke such a certificate at any time if it appea
 
 (1) Where the premises in which it is proposed to give a film exhibition are premises used occasionally and exceptionally only, and not on more than six days in any one calendar year, for the purposes of such an exhibition, it shall not be necessary to obtain a licence under section 1 above if—
 
-- (a) the occupier of the premises has give to the licensing authority, to the fire authority *(Extent: S)* *(affected by repeal, see note)*[^key-5712e21a43c0b6fef6d39e4b7d6b694d] appropriate *(Extent: S)* fire[^key-a7fe75aa134dcfdaa858a6b183425b1e] *(Extent: S)* authority *(Extent: S)* and to the chief officer of police, not less than seven days’ notice in writing of his intention so to use the premises; and
+- (a) the occupier of the premises has give to the licensing authority, to the fire authority *(Extent: S)* *(affected by repeal, see note)*[^c-5712e21a43c0b6fef6d39e4b7d6b694d] appropriate *(Extent: S)* fire[^c-a7fe75aa134dcfdaa858a6b183425b1e] *(Extent: S)* authority *(Extent: S)* and to the chief officer of police, not less than seven days’ notice in writing of his intention so to use the premises; and
 - (b) he complies with any regulations under section 4 above and, subject to any such regulations, with any conditions imposed by the licensing authority and notified to him in writing.
 
 (2) For the purposes of subsection (1) above, the giving in any premises of an exhibition to which section 5 or 6 above applies shall be disregarded.
@@ -228,20 +228,20 @@ and the Secretary of State may revoke such a certificate at any time if it appea
 (1) Where it is proposed to give a film exhibition in any building or structure of a movable character, it shall not be necessary to obtain a licence under section 1 above from the local authority in whose area the exhibition is to be given (“the appropriate authority”) if—
 
 - (a) the owner of the building or structure has been granted a licence under section 1 above in respect of that building or structure by the local authority in whose area he ordinarily resides;
-- (b) he has given to the appropriate authority, to the fire authority *(Extent: S)* *(affected by repeal, see note)*[^key-440ccd89a90e12cfbac0d8abde3bb07e] appropriate *(Extent: S)* fire[^key-020c0a1d2a9cd915f8c3c59a03676d87] *(Extent: S)* authority *(Extent: S)* and to the chief officer of police not less than two days’ notice in writing of his intention to give the exhibition; and
+- (b) he has given to the appropriate authority, to the fire authority *(Extent: S)* *(affected by repeal, see note)*[^c-440ccd89a90e12cfbac0d8abde3bb07e] appropriate *(Extent: S)* fire[^c-020c0a1d2a9cd915f8c3c59a03676d87] *(Extent: S)* authority *(Extent: S)* and to the chief officer of police not less than two days’ notice in writing of his intention to give the exhibition; and
 - (c) he complies with any regulations under section 4 above and, subject to any such regulations, with any conditions imposed by the appropriate authority and notified to him in writing.
 
 (2) In subsection (1)(b) above—
 
-- “appropriate *(Extent: S)*[^key-241472cb86a064908f6ce4f2ed1a9319] fire[^key-1728c6af9b5c606676fb9b0b213db83b] *(Extent: S)* authority”, in relation to *(Extent: S)* the building or structure, means–[^key-5febf7356990c421d3ddca39e162b2af] *(Extent: S)*
+- “appropriate *(Extent: S)*[^c-241472cb86a064908f6ce4f2ed1a9319] fire[^c-1728c6af9b5c606676fb9b0b213db83b] *(Extent: S)* authority”, in relation to *(Extent: S)* the building or structure, means–[^c-5febf7356990c421d3ddca39e162b2af] *(Extent: S)*
   - (a) where Part 3 of the *(Extent: S)* [Fire (Scotland) Act 2005 (asp 5) *(Extent: S)*](https://www.legislation.gov.uk/asp/2005/5) applies to the building or structure, the enforcing authority as defined in section 61(9) of that Act, *(Extent: S)*
-  - (b) in any other case, *(Extent: S)* the *(Extent: S)* authority discharging in the area in which the exhibition is to be given the functions under the Fire (Scotland) Act 2005 (asp 5) of a relevant authority (as defined in section 6 of that Act) *(Extent: S)* *(affected by repeal, see note)*[^key-a173dbab8a26d3a2386bf8e58eea711d] *(Extent: S)* Scottish Fire and Rescue Service *(Extent: S)* *(Extent: S)*; *(Extent: S)*
+  - (b) in any other case, *(Extent: S)* the *(Extent: S)* authority discharging in the area in which the exhibition is to be given the functions under the Fire (Scotland) Act 2005 (asp 5) of a relevant authority (as defined in section 6 of that Act) *(Extent: S)* *(affected by repeal, see note)*[^c-a173dbab8a26d3a2386bf8e58eea711d] *(Extent: S)* Scottish Fire and Rescue Service *(Extent: S)* *(Extent: S)*; *(Extent: S)*
 - “**chief officer of police**” means the chief officer of police for the police area in which the exhibition is to be given;
-- “ *(Extent: S)* *(affected by repeal, see note)*[^key-9ec17dca70b0ee7f2e4713ff634b2b18]**fire authority *(Extent: S)* *(affected by repeal, see note)*[^key-9ec17dca70b0ee7f2e4713ff634b2b18]**” means the authority discharging in the area in which the exhibition is to be given the functions of fire authority under the *(Extent: S)* *(affected by repeal, see note)*[^key-9ec17dca70b0ee7f2e4713ff634b2b18] [^c10006141]Fire Services Act 1947. *(Extent: S)* *(affected by repeal, see note)*[^key-9ec17dca70b0ee7f2e4713ff634b2b18]
+- “ *(Extent: S)* *(affected by repeal, see note)*[^c-9ec17dca70b0ee7f2e4713ff634b2b18]**fire authority *(Extent: S)* *(affected by repeal, see note)*[^c-9ec17dca70b0ee7f2e4713ff634b2b18]**” means the authority discharging in the area in which the exhibition is to be given the functions of fire authority under the *(Extent: S)* *(affected by repeal, see note)*[^c-9ec17dca70b0ee7f2e4713ff634b2b18] [^c10006141]Fire Services Act 1947. *(Extent: S)* *(affected by repeal, see note)*[^c-9ec17dca70b0ee7f2e4713ff634b2b18]
 
 ## Exhibitions on Sundays
 
-### 9. Exhibitions on Sundays.[^key-cb4aa126ea0a4831543760357a4527f1]
+### 9. Exhibitions on Sundays.[^c-cb4aa126ea0a4831543760357a4527f1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -294,7 +294,7 @@ the licensing authority may revoke the licence.
 
 ### 13. Powers of entry.
 
-(1) Where a constable or an authorised officer of the licensing authority or *(Extent: S)* *(affected by repeal, see note)*[^key-da9decd8ce3bdd31008a81df67f14b0f] of the fire authority *(Extent: S)* *(affected by repeal, see note)*[^key-5c4b7bf89a5e1f82cc5712ab12d33f68] [^key-da9decd8ce3bdd31008a81df67f14b0f]... has reasonable cause to believe that—
+(1) Where a constable or an authorised officer of the licensing authority or *(Extent: S)* *(affected by repeal, see note)*[^c-da9decd8ce3bdd31008a81df67f14b0f] of the fire authority *(Extent: S)* *(affected by repeal, see note)*[^c-5c4b7bf89a5e1f82cc5712ab12d33f68] [^c-da9decd8ce3bdd31008a81df67f14b0f]... has reasonable cause to believe that—
 
 - (a) any premises in respect of which a licence of either kind is in force are being or are about to be used for an exhibition which requires a licence of that kind,
 - (b) any premises in respect of which a licence under section 1 above is in force are being or are about to be used for an exhibition to which section 6 above applies, or
@@ -302,16 +302,16 @@ the licensing authority may revoke the licence.
 
 he may enter and inspect the premises with a view to seeing whether the relevant provisions are being complied with.
 
-(2) An *(Extent: S)* *(affected by repeal, see note)*[^key-0f67965c519c38a243bbebd2c73caad6] authorised officer of the fire authority *(Extent: S)* *(affected by repeal, see note)*[^key-ff149115741df0d48c3932691dd68117] *(Extent: S)* *(affected by repeal, see note)*[^key-0f67965c519c38a243bbebd2c73caad6]employee of the appropriate relevant authority *(Extent: S)* *(Extent: S)* *(affected by repeal, see note)*[^key-0f67965c519c38a243bbebd2c73caad6] may, on giving not less than 24 hours’ notice— *(Extent: S)* *(affected by repeal, see note)*[^key-0f67965c519c38a243bbebd2c73caad6]
+(2) An *(Extent: S)* *(affected by repeal, see note)*[^c-0f67965c519c38a243bbebd2c73caad6] authorised officer of the fire authority *(Extent: S)* *(affected by repeal, see note)*[^c-ff149115741df0d48c3932691dd68117] *(Extent: S)* *(affected by repeal, see note)*[^c-0f67965c519c38a243bbebd2c73caad6]employee of the appropriate relevant authority *(Extent: S)* *(Extent: S)* *(affected by repeal, see note)*[^c-0f67965c519c38a243bbebd2c73caad6] may, on giving not less than 24 hours’ notice— *(Extent: S)* *(affected by repeal, see note)*[^c-0f67965c519c38a243bbebd2c73caad6]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-0f67965c519c38a243bbebd2c73caad6] to the occupier of any premises in respect of which a licence is in force or *(Extent: S)* *(affected by repeal, see note)*[^key-0f67965c519c38a243bbebd2c73caad6]
-- (b (Extent: S) (affected by repeal, see note))[^key-0f67965c519c38a243bbebd2c73caad6] to the occupier of any premises in respect of which notice has been given under section 7 or 8 above, *(Extent: S)* *(affected by repeal, see note)*[^key-0f67965c519c38a243bbebd2c73caad6]
+- (a (Extent: S) (affected by repeal, see note))[^c-0f67965c519c38a243bbebd2c73caad6] to the occupier of any premises in respect of which a licence is in force or *(Extent: S)* *(affected by repeal, see note)*[^c-0f67965c519c38a243bbebd2c73caad6]
+- (b (Extent: S) (affected by repeal, see note))[^c-0f67965c519c38a243bbebd2c73caad6] to the occupier of any premises in respect of which notice has been given under section 7 or 8 above, *(Extent: S)* *(affected by repeal, see note)*[^c-0f67965c519c38a243bbebd2c73caad6]
 
-enter and inspect the premises for the purpose of ensuring that there are adequate fire precautions and of seeing whether the relevant provisions, so far as they relate to fire precautions, are being complied with. *(Extent: S)* *(affected by repeal, see note)*[^key-0f67965c519c38a243bbebd2c73caad6]
+enter and inspect the premises for the purpose of ensuring that there are adequate fire precautions and of seeing whether the relevant provisions, so far as they relate to fire precautions, are being complied with. *(Extent: S)* *(affected by repeal, see note)*[^c-0f67965c519c38a243bbebd2c73caad6]
 
 (3) A constable or authorised officer of the licensing authority may enter and search any premises in respect of which he has reason to believe that an offence under section 10(1) above has been, is being or is about to be committed if authorised to do so by a warrant granted by a justice of the peace or, in Scotland, by a sheriff, stipendiary magistrate or justice of the peace.
 
-(4) Where an authorised officer of the licensing authority or *(Extent: S)* *(affected by repeal, see note)*[^key-20b0d5354af1501ed66920ad99488e51] of the fire authority *(Extent: S)* *(affected by repeal, see note)*[^key-3009002b6b07c338bf47e0ab16ca5ad9] [^key-20b0d5354af1501ed66920ad99488e51]... enters any premises in the exercise of any power under this section he shall, if required to do so by the occupier, produce to the occupier his authority.
+(4) Where an authorised officer of the licensing authority or *(Extent: S)* *(affected by repeal, see note)*[^c-20b0d5354af1501ed66920ad99488e51] of the fire authority *(Extent: S)* *(affected by repeal, see note)*[^c-3009002b6b07c338bf47e0ab16ca5ad9] [^c-20b0d5354af1501ed66920ad99488e51]... enters any premises in the exercise of any power under this section he shall, if required to do so by the occupier, produce to the occupier his authority.
 
 (5) Any person who intentionally obstructs the exercise of any power conferred by this section shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -363,7 +363,7 @@ may appeal to the Crown Court or, in Scotland, to the sheriff.
 
 may appeal to the Crown Court.
 
-(3) Where the decision against which an appeal under this section is brought was given on an application of which (in accordance with section 3(1) above) notice was required to be given to a fire authority *(Extent: S)* *(affected by repeal, see note)*[^key-867de1293c28915e16ce850b83f67201] appropriate *(Extent: S)* fire[^key-43362de0197e57179994c4ee8b40f6a1] *(Extent: S)* authority *(Extent: S)* and a chief officer of police, any notice of appeal under this section against that decision shall be given to that authority and that officer as well as to any other person to whom it is required to be given apart from this subsection.
+(3) Where the decision against which an appeal under this section is brought was given on an application of which (in accordance with section 3(1) above) notice was required to be given to a fire authority *(Extent: S)* *(affected by repeal, see note)*[^c-867de1293c28915e16ce850b83f67201] appropriate *(Extent: S)* fire[^c-43362de0197e57179994c4ee8b40f6a1] *(Extent: S)* authority *(Extent: S)* and a chief officer of police, any notice of appeal under this section against that decision shall be given to that authority and that officer as well as to any other person to whom it is required to be given apart from this subsection.
 
 (4) Where a licence is revoked it shall be deemed to remain in force during the period within which an appeal under this section may be brought and, if such an appeal is brought, until the determination or abandonment of the appeal.
 
@@ -374,11 +374,11 @@ may appeal to the Crown Court.
 
 ## Special provisions relating to Greater London
 
-### 17. Provisional grant of licences in Greater London.[^key-f1cdd22888ecf00fc7ba6092efee6422]
+### 17. Provisional grant of licences in Greater London.[^c-f1cdd22888ecf00fc7ba6092efee6422]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Variation of licences in Greater London.[^key-7b4844a8a0582c55debf60d57492dd89]
+### 18. Variation of licences in Greater London.[^c-7b4844a8a0582c55debf60d57492dd89]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -395,7 +395,7 @@ may appeal to the Crown Court.
 
 (3) In subsection (1) above “**relevant enactment**” means—
 
-- (a)[^key-52b490e28660c458a30b062fb9ef737a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-52b490e28660c458a30b062fb9ef737a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) any enactment for the regulation of places kept or ordinarily used for public dancing, singing, music or other public entertainment of the like kind.
 
 ### 20. Meaning of promotion for private gain.
@@ -424,11 +424,11 @@ the exhibition shall be deemed to have been promoted for private gain unless the
 
 (1) In this Act, except where the contrary intention appears,—
 
-- “appropriate *(Extent: S)*[^key-0154bca90e7f7cb67afae368aba5f4c7] relevant *(Extent: S)* *(affected by repeal, see note)*[^key-e9a7e869a0173b101f3aaae7f642986b] *(Extent: S)* fire *(Extent: S)* *(Extent: S)* authority” has the meaning given by section 3(10) above; *(Extent: S)*
+- “appropriate *(Extent: S)*[^c-0154bca90e7f7cb67afae368aba5f4c7] relevant *(Extent: S)* *(affected by repeal, see note)*[^c-e9a7e869a0173b101f3aaae7f642986b] *(Extent: S)* fire *(Extent: S)* *(Extent: S)* authority” has the meaning given by section 3(10) above; *(Extent: S)*
 - “**chief officer of police**” has the meaning given by section 3(10) above;
 - “**child**” means a person under the age of sixteen;
-- “[^key-178194f468fb2f088be9b9c8216728b5]**film exhibition**” means any exhibition of moving pictures other than an exhibition of items included in a programme service (within the meaning of the Communications Act 2003) that is being simultaneously received (or virtually so) by the exhibitor
-- “ *(Extent: S)* *(affected by repeal, see note)*[^key-406201d2a12830ed80d8ab12e7166fe3]**fire authority *(Extent: S)* *(affected by repeal, see note)*[^key-406201d2a12830ed80d8ab12e7166fe3]**” has the meaning given by section 3(10) above; *(Extent: S)* *(affected by repeal, see note)*[^key-406201d2a12830ed80d8ab12e7166fe3]
+- “[^c-178194f468fb2f088be9b9c8216728b5]**film exhibition**” means any exhibition of moving pictures other than an exhibition of items included in a programme service (within the meaning of the Communications Act 2003) that is being simultaneously received (or virtually so) by the exhibitor
+- “ *(Extent: S)* *(affected by repeal, see note)*[^c-406201d2a12830ed80d8ab12e7166fe3]**fire authority *(Extent: S)* *(affected by repeal, see note)*[^c-406201d2a12830ed80d8ab12e7166fe3]**” has the meaning given by section 3(10) above; *(Extent: S)* *(affected by repeal, see note)*[^c-406201d2a12830ed80d8ab12e7166fe3]
 - “licence” and references to a licence of either kind shall be construed in accordance with section 3(10) above;
 - “**licensing authority**” has the meaning given by section 3(10) above;
 - “**local authority**” means—
@@ -442,7 +442,7 @@ the exhibition shall be deemed to have been promoted for private gain unless the
 
 ### 22. Amendments resulting from Fire Precautions Act 1971.
 
-On the coming into force of section 12(11) of the *(Extent: S)* *(affected by repeal, see note)*[^key-dab7a705c16d4bfbb62a041bb99f84ec] [^M_M_9ae09b0d-9e3b-4021-b37e-a584c5b1e02d]Fire Precautions Act 1971, this Act shall have effect subject to the amendments specified in Schedule 1 to this Act. *(Extent: S)* *(affected by repeal, see note)*[^key-dab7a705c16d4bfbb62a041bb99f84ec]
+On the coming into force of section 12(11) of the *(Extent: S)* *(affected by repeal, see note)*[^c-dab7a705c16d4bfbb62a041bb99f84ec] [^M_M_9ae09b0d-9e3b-4021-b37e-a584c5b1e02d]Fire Precautions Act 1971, this Act shall have effect subject to the amendments specified in Schedule 1 to this Act. *(Extent: S)* *(affected by repeal, see note)*[^c-dab7a705c16d4bfbb62a041bb99f84ec]
 
 ### 23. Transitional provisions.
 
@@ -466,35 +466,35 @@ On the coming into force of section 12(11) of the *(Extent: S)* *(affected by re
 
 SCHEDULES
 
-## SCHEDULE 1 (Extent: S) (affected by repeal, see note) — Amendments of Act Which Have Effect on Coming into Force of Section 12(11) of the Fire Precautions Act 1971 (Extent: S) (affected by repeal, see note)[^key-f747d166e5a5dbdef533bb5690e892b2][^key-f747d166e5a5dbdef533bb5690e892b2]
+## SCHEDULE 1 (Extent: S) (affected by repeal, see note) — Amendments of Act Which Have Effect on Coming into Force of Section 12(11) of the Fire Precautions Act 1971 (Extent: S) (affected by repeal, see note)[^c-f747d166e5a5dbdef533bb5690e892b2][^c-f747d166e5a5dbdef533bb5690e892b2]
 
-Section 22. *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
+Section 22. *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
 
-**1 (Extent: S) (affected by repeal, see note).**[^key-f747d166e5a5dbdef533bb5690e892b2] In section 2(2), after the words “section 4 below” there shall be inserted the words *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2] “ and any regulations made or having effect as if made under section 12 of the *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2] [^c10006451]Fire Precautions Act 1971” ” *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]. *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
+**1 (Extent: S) (affected by repeal, see note).**[^c-f747d166e5a5dbdef533bb5690e892b2] In section 2(2), after the words “section 4 below” there shall be inserted the words *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2] “ and any regulations made or having effect as if made under section 12 of the *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2] [^c10006451]Fire Precautions Act 1971” ” *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]. *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
 
-**2 (Extent: S) (affected by repeal, see note).**[^key-f747d166e5a5dbdef533bb5690e892b2] In section 6, for subsection (3) there shall be substituted the following— *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
+**2 (Extent: S) (affected by repeal, see note).**[^c-f747d166e5a5dbdef533bb5690e892b2] In section 6, for subsection (3) there shall be substituted the following— *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
 
-> (3 (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] The exemptions mentioned in section 5(3) above also have effect in relation to any film exhibition to which this section applies. *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
+> (3 (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] The exemptions mentioned in section 5(3) above also have effect in relation to any film exhibition to which this section applies. *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
 
-**3 (Extent: S) (affected by repeal, see note).**[^key-f747d166e5a5dbdef533bb5690e892b2] The following provisions shall cease to have effect, namely— *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
+**3 (Extent: S) (affected by repeal, see note).**[^c-f747d166e5a5dbdef533bb5690e892b2] The following provisions shall cease to have effect, namely— *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in section 3— *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-  - (i (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in subsection (1), paragraph (b); *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-  - (ii (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in subsection (2), the words “the fire authority and”; *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-  - (iii (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in subsection (3), the words “by the fire authority or”; *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-  - (iv (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in subsection (10), the definition of “fire authority”; *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-- (b (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] section 4(2)(a); *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-- (c (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in section 7(1)(\]a), the words “, to the fire authority”; *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-- (d (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in section 8— *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-  - (i (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in subsection (1)(b), the words “, to the fire authority”; *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-  - (ii (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in subsection (2), the definition of “fire authority”; *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-- (e (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in section 10; subsection (1)(d) and 2(c); *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-- (f (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in section 13— *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-  - (i (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in subsections (1) and (4), the words “or of the fire authority”; *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-  - (ii (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] subsections 1(b) and (2); *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-  - (iii (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in subsection (6), in the definition of “relevant provisions”, in paragraph (a) the words “or (2)(a)”, paragraph (b) and in paragraph (c) the words “or (2)(b)”; *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-- (g (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in section 16(3), the words “a fire authority and” and the words “that authority and”; *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
-- (h (Extent: S) (affected by repeal, see note))[^key-f747d166e5a5dbdef533bb5690e892b2] in section 21, the definition of “fire authority”. *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbdef533bb5690e892b2]
+- (a (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in section 3— *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+  - (i (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in subsection (1), paragraph (b); *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+  - (ii (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in subsection (2), the words “the fire authority and”; *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+  - (iii (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in subsection (3), the words “by the fire authority or”; *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+  - (iv (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in subsection (10), the definition of “fire authority”; *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+- (b (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] section 4(2)(a); *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+- (c (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in section 7(1)(\]a), the words “, to the fire authority”; *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+- (d (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in section 8— *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+  - (i (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in subsection (1)(b), the words “, to the fire authority”; *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+  - (ii (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in subsection (2), the definition of “fire authority”; *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+- (e (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in section 10; subsection (1)(d) and 2(c); *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+- (f (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in section 13— *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+  - (i (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in subsections (1) and (4), the words “or of the fire authority”; *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+  - (ii (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] subsections 1(b) and (2); *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+  - (iii (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in subsection (6), in the definition of “relevant provisions”, in paragraph (a) the words “or (2)(a)”, paragraph (b) and in paragraph (c) the words “or (2)(b)”; *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+- (g (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in section 16(3), the words “a fire authority and” and the words “that authority and”; *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
+- (h (Extent: S) (affected by repeal, see note))[^c-f747d166e5a5dbdef533bb5690e892b2] in section 21, the definition of “fire authority”. *(Extent: S)* *(affected by repeal, see note)*[^c-f747d166e5a5dbdef533bb5690e892b2]
 
 ## SCHEDULE 2 — Consequential Amendments
 
@@ -504,11 +504,11 @@ Section 22. *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbde
 
 ### Children and Young Persons Act 1933
 
-**2.**[^key-ff0a731fe54a1d9eac01edd2abe9d006] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ff0a731fe54a1d9eac01edd2abe9d006] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Public Health Act 1936
 
-**3.**[^key-fd32ebbc82295397d19d91b366e7b0d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-fd32ebbc82295397d19d91b366e7b0d9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Shops Act 1950
 
@@ -518,19 +518,19 @@ Section 22. *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbde
 
 ### Obscene Publications Act 1959
 
-**6.**[^key-9fa46318909b35143a05c738bee7261d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-9fa46318909b35143a05c738bee7261d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Offices, Shops and Railway Premises Act 1963
 
-**7.**[^key-3dcced3e591d946c79293dd4e5019715] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-3dcced3e591d946c79293dd4e5019715] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Greater London Council (General Powers) Act 1966
 
-**8.**[^key-16fc9ec459e5ae0e5a34a7982f702313] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-16fc9ec459e5ae0e5a34a7982f702313] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Fire Precautions Act 1971
 
-**9.**[^key-b9cad6b05ba09eb58b647ff4e4a2ec0a] In subsection (11) of section 12 of the *(Extent: S)* *(affected by repeal, see note)*[^key-b9cad6b05ba09eb58b647ff4e4a2ec0a] [^M_M_d87c9b0e-8193-48c0-f5d4-054df3df3985]Fire Precautions Act 1971, for the words “by virtue of section 2(1)(a) of the Cinematograph Act 1952 under the Cinematograph Act 1909” there shall be substituted the words “under section 4(2)(a) of the Cinemas Act 1985”. *(Extent: S)* *(affected by repeal, see note)*[^key-b9cad6b05ba09eb58b647ff4e4a2ec0a]
+**9.**[^c-b9cad6b05ba09eb58b647ff4e4a2ec0a] In subsection (11) of section 12 of the *(Extent: S)* *(affected by repeal, see note)*[^c-b9cad6b05ba09eb58b647ff4e4a2ec0a] [^M_M_d87c9b0e-8193-48c0-f5d4-054df3df3985]Fire Precautions Act 1971, for the words “by virtue of section 2(1)(a) of the Cinematograph Act 1952 under the Cinematograph Act 1909” there shall be substituted the words “under section 4(2)(a) of the Cinemas Act 1985”. *(Extent: S)* *(affected by repeal, see note)*[^c-b9cad6b05ba09eb58b647ff4e4a2ec0a]
 
 ### Criminal Procedure (Scotland) Act 1975
 
@@ -544,7 +544,7 @@ Section 22. *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbde
 
 **11.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c10006571]
 
-**12.**[^key-72935c9e98c7e747e71fa9ec824d6f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-72935c9e98c7e747e71fa9ec824d6f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Indecent Displays (Control) Act 1981
 
@@ -556,13 +556,13 @@ Section 22. *(Extent: S)* *(affected by repeal, see note)*[^key-f747d166e5a5dbde
 
 ### Local Government (Miscellaneous Provisions) Act 1982
 
-**14.**[^key-a6a3a622070a8f555fad768bad20f8b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-a6a3a622070a8f555fad768bad20f8b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-bfe770b7148d97cca4c9e4421d9e774b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-bfe770b7148d97cca4c9e4421d9e774b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **16.** In paragraph 3(2) of Schedule 3 to the Local Government (Miscellaneous Provisions) Act 1982—
 
-- (a)[^key-395c38de597c61f4bbf8969f05f26979] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-395c38de597c61f4bbf8969f05f26979] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for paragraph (b) there shall be substituted the following—
 
   > - (b) of their use for an exhibition to which section 6 of that Act (certain non-commercial exhibitions) applies given by an exempted organisation within the meaning of section 6(6) of that Act.
@@ -700,7 +700,7 @@ TABLE OF DERIVATIONS
 
 ## Annotations
 
-[^key-6b75cdb2987e149ebd2e8f883e80137b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/13) ceases to have effect (E.W.) (24.11.2005) by virtue of [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 95](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/95) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195), [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/2003/17/schedule/8/paragraph/33)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
+[^c-6b75cdb2987e149ebd2e8f883e80137b]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/1985/13) ceases to have effect (E.W.) (24.11.2005) by virtue of [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 95](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/95) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195), [Sch. 8 para. 33](https://www.legislation.gov.uk/ukpga/2003/17/schedule/8/paragraph/33)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2)
 
 [^c10005701]: Modification: **A Table showing the derivation of the provisions of this consolidation Act will be found at the end of the Act. The Table has no official status.**
 
@@ -708,13 +708,13 @@ TABLE OF DERIVATIONS
 
 [^c10005721]: Modification: Act applied (with modifications) (20.9.2000) by [2000 c. vii](https://www.legislation.gov.uk/ukla/2000/7), [s. 25](https://www.legislation.gov.uk/ukla/2000/7/section/25)
 
-[^key-24eabf1261d93541cfae69d46c5ab6c8]: Textual amendment: Words in s. 1(2) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(2)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/2/a)
+[^c-24eabf1261d93541cfae69d46c5ab6c8]: Textual amendment: Words in s. 1(2) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(2)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/2/a)
 
-[^key-e5f0b5e12e8a89fb8f4566e6a97db7d5]: Textual amendment: S. 1(2A) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(2)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/2/b)
+[^c-e5f0b5e12e8a89fb8f4566e6a97db7d5]: Textual amendment: S. 1(2A) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(2)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/2/b)
 
-[^key-46e9b69d743485b9f4341ac091915db7]: Textual amendment: Words in s. 2(2) inserted (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(3)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/3/a)
+[^c-46e9b69d743485b9f4341ac091915db7]: Textual amendment: Words in s. 2(2) inserted (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(3)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/3/a)
 
-[^key-c1111f6f8d0c1a96837c9cf22559d861]: Textual amendment: S. 2(2A) inserted (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(3)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/3/b)
+[^c-c1111f6f8d0c1a96837c9cf22559d861]: Textual amendment: S. 2(2A) inserted (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(3)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/3/b)
 
 [^c10005911]: Subordinate legislation: S. 3: power previously exercised by [S.I. 1986/207](https://www.legislation.gov.uk/uksi/1986/207) and 1986/320.
 
@@ -722,7 +722,7 @@ TABLE OF DERIVATIONS
 
 [^c10005931]: Modification: S. 3(8) applied (with modifications) (8.11.1995) by [1995 c. x](https://www.legislation.gov.uk/ukla/1995/10), [s. 45](https://www.legislation.gov.uk/ukla/1995/10/section/45)
 
-[^key-378d48f6727460965ba1c8a4d15cf79e]: Textual amendment: S. 3(1A) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-378d48f6727460965ba1c8a4d15cf79e]: Textual amendment: S. 3(1A) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c10005951]: Textual amendment: “£600.00” substituted (E.W.) (1.12.1991) by virtue of [S.I. 1991/2462](https://www.legislation.gov.uk/uksi/1991/2462), [art. 2](https://www.legislation.gov.uk/uksi/1991/2462/article/2)(*a*)
 
@@ -740,15 +740,15 @@ TABLE OF DERIVATIONS
 
 [^c10006031]: Modification: S. 3(8) applied (with modifications) (8.11.1995) by [1995 c. x](https://www.legislation.gov.uk/ukla/1995/10), [s. 45](https://www.legislation.gov.uk/ukla/1995/10/section/45)
 
-[^key-718a6247eb2469dca2eb8f03bc7e77e5]: Textual amendment: Words in s. 3(1)(b) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/3/a)
+[^c-718a6247eb2469dca2eb8f03bc7e77e5]: Textual amendment: Words in s. 3(1)(b) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/3/a)
 
-[^key-48c9fc481e56b0852b6418ee69eb14c5]: Textual amendment: Word in s. 3(1)(b) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/4)[(5)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/5/a)
+[^c-48c9fc481e56b0852b6418ee69eb14c5]: Textual amendment: Word in s. 3(1)(b) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/4)[(5)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/5/a)
 
-[^key-3d3f4acdbec6c50814453b9f7f460dfb]: Textual amendment: Words in s. 3(2)(3) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/3/a)
+[^c-3d3f4acdbec6c50814453b9f7f460dfb]: Textual amendment: Words in s. 3(2)(3) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/3/a)
 
-[^key-8f1a68cab5830077f6d2e6c5422cce44]: Textual amendment: Word in s. 3(2) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/4)[(5)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/5/a)
+[^c-8f1a68cab5830077f6d2e6c5422cce44]: Textual amendment: Word in s. 3(2) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/4)[(5)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/5/a)
 
-[^key-c131b6bb7b74a2742ef2c732393d8ffd]: Textual amendment: Word in s. 3(3) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/4)[(5)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/5/a)
+[^c-c131b6bb7b74a2742ef2c732393d8ffd]: Textual amendment: Word in s. 3(3) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/4)[(5)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/5/a)
 
 [^c10006041]: Textual amendment: “£600.00” substituted (S.) (1.12.1991) by virtue of [S.I. 1991/2462](https://www.legislation.gov.uk/uksi/1991/2462), [art. 2](https://www.legislation.gov.uk/uksi/1991/2462/article/2)(*a*)
 
@@ -758,15 +758,15 @@ TABLE OF DERIVATIONS
 
 [^c10006081]: Subordinate legislation: S. 3(8): s. 3(8) power exercised by [S.I.1991/2462](https://www.legislation.gov.uk/uksi/1991/2462).
 
-[^key-fb063425c7e4c38b71afcff3733162e1]: Textual amendment: Words in s. 3(10) inserted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(4)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/4)
+[^c-fb063425c7e4c38b71afcff3733162e1]: Textual amendment: Words in s. 3(10) inserted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(4)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/4)
 
-[^key-5b72448315ea5c3ef67d7b4be3c3e75d]: Textual amendment: Word in s. 3(10) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(6)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/6/a)
+[^c-5b72448315ea5c3ef67d7b4be3c3e75d]: Textual amendment: Word in s. 3(10) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(6)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/6/a)
 
-[^key-ade76711b04a1fad5a685f9d03a5ce24]: Textual amendment: Words in s. 3(10) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(6)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/6/b)
+[^c-ade76711b04a1fad5a685f9d03a5ce24]: Textual amendment: Words in s. 3(10) inserted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(6)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/6/b)
 
-[^key-995e9ff276223292fa7babb3000ef774]: Textual amendment: Words in s. 3(10)(b) substituted (S.) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 55(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/55/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-995e9ff276223292fa7babb3000ef774]: Textual amendment: Words in s. 3(10)(b) substituted (S.) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 55(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/55/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-dc5a8bec72a7cf21c080ec3fb49a7d48]: Textual amendment: Words in s. 3(10) repealed (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/383/schedule/2)
+[^c-dc5a8bec72a7cf21c080ec3fb49a7d48]: Textual amendment: Words in s. 3(10) repealed (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/383/schedule/2)
 
 [^c10006101]: Modification: [S. 6(6)(7)](https://www.legislation.gov.uk/ukpga/1985/13/section/6/6/7) functions transferred (S) (1.7.1999) by [S.I. 1999/1750](https://www.legislation.gov.uk/uksi/1999/1750), [art. 2](https://www.legislation.gov.uk/uksi/1999/1750/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/1999/1750/schedule/1)
 
@@ -774,65 +774,65 @@ TABLE OF DERIVATIONS
 
 [^c10006131]: Marginal citation: [1982 c. 33](https://www.legislation.gov.uk/ukpga/1982/33).
 
-[^key-5712e21a43c0b6fef6d39e4b7d6b694d]: Textual amendment: Words in s. 7(1)(a) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/2)[(3)(b)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/3/b)
+[^c-5712e21a43c0b6fef6d39e4b7d6b694d]: Textual amendment: Words in s. 7(1)(a) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/2)[(3)(b)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/3/b)
 
-[^key-a7fe75aa134dcfdaa858a6b183425b1e]: Textual amendment: Word in [s. 7(1)(a)](https://www.legislation.gov.uk/ukpga/1985/13/section/7/1/a) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/4)[(5)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/5/b)
+[^c-a7fe75aa134dcfdaa858a6b183425b1e]: Textual amendment: Word in [s. 7(1)(a)](https://www.legislation.gov.uk/ukpga/1985/13/section/7/1/a) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/4)[(5)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/5/b)
 
-[^key-440ccd89a90e12cfbac0d8abde3bb07e]: Textual amendment: Words in s. 8(1)(b) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/2)[(3)(c)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/3/c)
+[^c-440ccd89a90e12cfbac0d8abde3bb07e]: Textual amendment: Words in s. 8(1)(b) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/2)[(3)(c)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/3/c)
 
-[^key-020c0a1d2a9cd915f8c3c59a03676d87]: Textual amendment: Word in s. 8(1)(b) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/4)[(5)(c)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/5/c)
+[^c-020c0a1d2a9cd915f8c3c59a03676d87]: Textual amendment: Word in s. 8(1)(b) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/4)[(5)(c)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/5/c)
 
-[^key-241472cb86a064908f6ce4f2ed1a9319]: Textual amendment: Words in s. 8(2) inserted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(5)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/5)
+[^c-241472cb86a064908f6ce4f2ed1a9319]: Textual amendment: Words in s. 8(2) inserted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(5)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/5)
 
-[^key-1728c6af9b5c606676fb9b0b213db83b]: Textual amendment: Word in s. 8(2) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(7)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/7/a)
+[^c-1728c6af9b5c606676fb9b0b213db83b]: Textual amendment: Word in s. 8(2) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(7)(a)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/7/a)
 
-[^key-5febf7356990c421d3ddca39e162b2af]: Textual amendment: Words in s. 8(2) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(7)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/7/b)
+[^c-5febf7356990c421d3ddca39e162b2af]: Textual amendment: Words in s. 8(2) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(7)(b)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/7/b)
 
-[^key-a173dbab8a26d3a2386bf8e58eea711d]: Textual amendment: Words in s. 8(2)(b) substituted (S.) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 55(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/55/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-a173dbab8a26d3a2386bf8e58eea711d]: Textual amendment: Words in s. 8(2)(b) substituted (S.) (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 55(3)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/55/3); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
 
-[^key-9ec17dca70b0ee7f2e4713ff634b2b18]: Textual amendment: Words in s. 8(2) repealed (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/383/schedule/2)
+[^c-9ec17dca70b0ee7f2e4713ff634b2b18]: Textual amendment: Words in s. 8(2) repealed (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/383/schedule/2)
 
 [^c10006141]: Marginal citation: [1947 c. 41](https://www.legislation.gov.uk/ukpga/1947/41).
 
-[^key-cb4aa126ea0a4831543760357a4527f1]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1985/13/section/9) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-cb4aa126ea0a4831543760357a4527f1]: Textual amendment: [S. 9](https://www.legislation.gov.uk/ukpga/1985/13/section/9) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c10006161]: Marginal citation: [1933 c. 12](https://www.legislation.gov.uk/ukpga/1933/12).
 
 [^c10006171]: Marginal citation: [1937 c. 37](https://www.legislation.gov.uk/ukpga/1937/37).
 
-[^key-da9decd8ce3bdd31008a81df67f14b0f]: Textual amendment: Words in s. 13(1) repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
+[^c-da9decd8ce3bdd31008a81df67f14b0f]: Textual amendment: Words in s. 13(1) repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
 
-[^key-5c4b7bf89a5e1f82cc5712ab12d33f68]: Textual amendment: Words in s. 13(1) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(6)(a)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/6/a)
+[^c-5c4b7bf89a5e1f82cc5712ab12d33f68]: Textual amendment: Words in s. 13(1) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(6)(a)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/6/a)
 
-[^key-0f67965c519c38a243bbebd2c73caad6]: Textual amendment: S. 13(2) repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
+[^c-0f67965c519c38a243bbebd2c73caad6]: Textual amendment: S. 13(2) repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
 
-[^key-ff149115741df0d48c3932691dd68117]: Textual amendment: Words in s. 13(2) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(6)(b)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/6/b)
+[^c-ff149115741df0d48c3932691dd68117]: Textual amendment: Words in s. 13(2) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(6)(b)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/6/b)
 
-[^key-20b0d5354af1501ed66920ad99488e51]: Textual amendment: Words in s. 13(4) repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
+[^c-20b0d5354af1501ed66920ad99488e51]: Textual amendment: Words in s. 13(4) repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
 
-[^key-3009002b6b07c338bf47e0ab16ca5ad9]: Textual amendment: Words in s. 13(4) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(6)(c)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/6/c)
+[^c-3009002b6b07c338bf47e0ab16ca5ad9]: Textual amendment: Words in s. 13(4) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(6)(c)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/6/c)
 
 [^c10006181]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
 [^c10006191]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-867de1293c28915e16ce850b83f67201]: Textual amendment: Words in s. 16(3) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/2)[(3)(d)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/3/d)
+[^c-867de1293c28915e16ce850b83f67201]: Textual amendment: Words in s. 16(3) substituted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(2)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/2)[(3)(d)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/3/d)
 
-[^key-43362de0197e57179994c4ee8b40f6a1]: Textual amendment: Word in s. 16(3) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/4)[(5)(d)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/5/d)
+[^c-43362de0197e57179994c4ee8b40f6a1]: Textual amendment: Word in s. 16(3) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(4)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/4)[(5)(d)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/5/d)
 
-[^key-f1cdd22888ecf00fc7ba6092efee6422]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/1985/13/section/17) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-f1cdd22888ecf00fc7ba6092efee6422]: Textual amendment: [S. 17](https://www.legislation.gov.uk/ukpga/1985/13/section/17) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-7b4844a8a0582c55debf60d57492dd89]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1985/13/section/18) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-7b4844a8a0582c55debf60d57492dd89]: Textual amendment: [S. 18](https://www.legislation.gov.uk/ukpga/1985/13/section/18) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-52b490e28660c458a30b062fb9ef737a]: Textual amendment: [S. 19(3)(a)](https://www.legislation.gov.uk/ukpga/1985/13/section/19/3/a) and word repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-52b490e28660c458a30b062fb9ef737a]: Textual amendment: [S. 19(3)(a)](https://www.legislation.gov.uk/ukpga/1985/13/section/19/3/a) and word repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-0154bca90e7f7cb67afae368aba5f4c7]: Textual amendment: Words in s. 21(1) inserted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(7)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/7)
+[^c-0154bca90e7f7cb67afae368aba5f4c7]: Textual amendment: Words in s. 21(1) inserted (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 1 para. 8(7)](https://www.legislation.gov.uk/ssi/2005/383/schedule/1/paragraph/8/7)
 
-[^key-e9a7e869a0173b101f3aaae7f642986b]: Textual amendment: Word in s. 21(1) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(8)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/8)
+[^c-e9a7e869a0173b101f3aaae7f642986b]: Textual amendment: Word in s. 21(1) substituted (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 1 para. 12(8)](https://www.legislation.gov.uk/ssi/2006/475/schedule/1/paragraph/12/8)
 
-[^key-178194f468fb2f088be9b9c8216728b5]: Textual amendment: Words in s. 21(1) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 76](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/76) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-178194f468fb2f088be9b9c8216728b5]: Textual amendment: Words in s. 21(1) substituted (29.12.2003) by [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), [s. 411(2)](https://www.legislation.gov.uk/ukpga/2003/21/section/411/2), [Sch. 17 para. 76](https://www.legislation.gov.uk/ukpga/2003/21/schedule/17/paragraph/76) (with [Sch. 18](https://www.legislation.gov.uk/ukpga/2003/21/schedule/18)); [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-406201d2a12830ed80d8ab12e7166fe3]: Textual amendment: Words in s. 21(1) repealed (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/383/schedule/2)
+[^c-406201d2a12830ed80d8ab12e7166fe3]: Textual amendment: Words in s. 21(1) repealed (S.) (2.8.2005) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Amendments) Order 2005 (S.S.I. 2005/383)](https://www.legislation.gov.uk/ssi/2005/383), [art. 1](https://www.legislation.gov.uk/ssi/2005/383/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2005/383/schedule/2)
 
 [^c10006391]: Textual amendment: S. 21(1): Words in para. (a) in the definition of “local authority”repealed (1.4.1996) by [1994 c. 19](https://www.legislation.gov.uk/ukpga/1994/19), [s. 66(6)(8)](https://www.legislation.gov.uk/ukpga/1994/19/section/66/6/8), [Sch. 16 para. 73](https://www.legislation.gov.uk/ukpga/1994/19/schedule/16/paragraph/73), [Sch. 18](https://www.legislation.gov.uk/ukpga/1994/19/schedule/18) (with [ss. 54(5)(7)](https://www.legislation.gov.uk/ukpga/1994/19/section/54/5/7), [55(5)](https://www.legislation.gov.uk/ukpga/1994/19/section/55/5), [Sch. 17 paras. 22(1)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/22/1), [23(2)](https://www.legislation.gov.uk/ukpga/1994/19/schedule/17/paragraph/23/2)); [S.I. 1996/396](https://www.legislation.gov.uk/uksi/1996/396), [art. 4](https://www.legislation.gov.uk/uksi/1996/396/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1996/396/schedule/2)
 
@@ -844,31 +844,31 @@ TABLE OF DERIVATIONS
 
 [^c10006431]: Textual amendment: Definition of "standard scale" in s. 21(1) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt. XIV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIV) Group 2.
 
-[^key-dab7a705c16d4bfbb62a041bb99f84ec]: Textual amendment: S. 22 repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
+[^c-dab7a705c16d4bfbb62a041bb99f84ec]: Textual amendment: S. 22 repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
 
 [^M_M_9ae09b0d-9e3b-4021-b37e-a584c5b1e02d]: Marginal citation: [1971 c. 40](https://www.legislation.gov.uk/ukpga/1971/40).
 
-[^key-f747d166e5a5dbdef533bb5690e892b2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1985/13/schedule/1) repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
+[^c-f747d166e5a5dbdef533bb5690e892b2]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1985/13/schedule/1) repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
 
 [^c10006451]: Marginal citation: [1971 c. 40](https://www.legislation.gov.uk/ukpga/1971/40).
 
 [^c10006461]: Marginal citation: [1922 c. 35](https://www.legislation.gov.uk/ukpga/1922/35).
 
-[^key-ff0a731fe54a1d9eac01edd2abe9d006]: Textual amendment: Sch. 2 para. 2 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-ff0a731fe54a1d9eac01edd2abe9d006]: Textual amendment: Sch. 2 para. 2 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-fd32ebbc82295397d19d91b366e7b0d9]: Textual amendment: Sch. 2 para. 3 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-fd32ebbc82295397d19d91b366e7b0d9]: Textual amendment: Sch. 2 para. 3 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c10006501]: Textual amendment: Sch. 2 para. 4 repealed (1.12.1994) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [s. 81](https://www.legislation.gov.uk/ukpga/1994/40/section/81), [Sch. 17](https://www.legislation.gov.uk/ukpga/1994/40/schedule/17); [S.I. 1994/3037](https://www.legislation.gov.uk/uksi/1994/3037), [arts. 2](https://www.legislation.gov.uk/uksi/1994/3037/article/2), [3](https://www.legislation.gov.uk/uksi/1994/3037/article/3)
 
 [^c10006511]: Textual amendment: Sch. 2 para. 5 repealed (1.12.1994) by [1994 c. 40](https://www.legislation.gov.uk/ukpga/1994/40), [s. 81](https://www.legislation.gov.uk/ukpga/1994/40/section/81), [Sch. 17](https://www.legislation.gov.uk/ukpga/1994/40/schedule/17); [S.I. 1994/3037](https://www.legislation.gov.uk/uksi/1994/3037), [arts. 2](https://www.legislation.gov.uk/uksi/1994/3037/article/2), [3](https://www.legislation.gov.uk/uksi/1994/3037/article/3)
 
-[^key-9fa46318909b35143a05c738bee7261d]: Textual amendment: Sch. 2 para. 6 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-9fa46318909b35143a05c738bee7261d]: Textual amendment: Sch. 2 para. 6 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-3dcced3e591d946c79293dd4e5019715]: Textual amendment: Sch. 2 para. 7 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-3dcced3e591d946c79293dd4e5019715]: Textual amendment: Sch. 2 para. 7 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-16fc9ec459e5ae0e5a34a7982f702313]: Textual amendment: Sch. 2 para. 8 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-16fc9ec459e5ae0e5a34a7982f702313]: Textual amendment: Sch. 2 para. 8 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-b9cad6b05ba09eb58b647ff4e4a2ec0a]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1985/13/schedule/2/paragraph/9) repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
+[^c-b9cad6b05ba09eb58b647ff4e4a2ec0a]: Textual amendment: [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/1985/13/schedule/2/paragraph/9) repealed (S.) (1.10.2006) by [The Fire (Scotland) Act 2005 (Consequential Modifications and Savings) Order 2006 (S.S.I. 2006/475)](https://www.legislation.gov.uk/ssi/2006/475), [art. 1](https://www.legislation.gov.uk/ssi/2006/475/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2006/475/schedule/2)
 
 [^M_M_d87c9b0e-8193-48c0-f5d4-054df3df3985]: Marginal citation: [1971 c. 40](https://www.legislation.gov.uk/ukpga/1971/40).
 
@@ -876,15 +876,15 @@ TABLE OF DERIVATIONS
 
 [^c10006571]: Textual amendment: Sch. 2 para. 11 repealed by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [ss. 123(6)](https://www.legislation.gov.uk/ukpga/1988/33/section/123/6), [170(2)](https://www.legislation.gov.uk/ukpga/1988/33/section/170/2), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16), [Sch. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/16)
 
-[^key-72935c9e98c7e747e71fa9ec824d6f4a]: Textual amendment: Sch. 2 para. 12 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
+[^c-72935c9e98c7e747e71fa9ec824d6f4a]: Textual amendment: Sch. 2 para. 12 repealed (1.4.2005) by [Courts Act 2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39), [s. 110(1)](https://www.legislation.gov.uk/ukpga/2003/39/section/110/1), [Sch. 10](https://www.legislation.gov.uk/ukpga/2003/39/schedule/10); [S.I. 2005/910](https://www.legislation.gov.uk/uksi/2005/910), [art. 3(aa)](https://www.legislation.gov.uk/uksi/2005/910/article/3/aa)
 
 [^c10006581]: Marginal citation: [1981 c. 42](https://www.legislation.gov.uk/ukpga/1981/42).
 
-[^key-a6a3a622070a8f555fad768bad20f8b9]: Textual amendment: Sch. 2 para. 14 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-a6a3a622070a8f555fad768bad20f8b9]: Textual amendment: Sch. 2 para. 14 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-bfe770b7148d97cca4c9e4421d9e774b]: Textual amendment: Sch. 2 para. 15 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-bfe770b7148d97cca4c9e4421d9e774b]: Textual amendment: Sch. 2 para. 15 repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
-[^key-395c38de597c61f4bbf8969f05f26979]: Textual amendment: Sch. 2 para. 16(a) and word repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-395c38de597c61f4bbf8969f05f26979]: Textual amendment: Sch. 2 para. 16(a) and word repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c10006601]: Marginal citation: [1982 c. 45](https://www.legislation.gov.uk/ukpga/1982/45).
 

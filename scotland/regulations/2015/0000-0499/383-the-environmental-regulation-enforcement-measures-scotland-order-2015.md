@@ -48,11 +48,11 @@ In accordance with section 58(3) of the Regulatory Reform (Scotland) Act 2014, a
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-f53d699379717535507240b0f6b71b94]
+### 1. Citation and commencement[^c-f53d699379717535507240b0f6b71b94]
 
 This Order may be cited as the Environmental Regulation (Enforcement Measures) (Scotland) Order 2015 and comes into force on the day after the day on which it is made.
 
-### 2. Interpretation[^key-6823ba6f188199d637ac7c548dcfe46f]
+### 2. Interpretation[^c-6823ba6f188199d637ac7c548dcfe46f]
 
 (1) In this Order—
 
@@ -79,7 +79,7 @@ This Order may be cited as the Environmental Regulation (Enforcement Measures) (
 
 ## PART 2 — Enforcement measures
 
-### 3. The enforcement measures[^key-1a49e1a646eef5a5548aab28b0745e00]
+### 3. The enforcement measures[^c-1a49e1a646eef5a5548aab28b0745e00]
 
 (1) Schedule 1 makes provision for and about the imposition by SEPA of a fixed monetary penalty on a person in relation to a relevant offence.
 
@@ -87,7 +87,7 @@ This Order may be cited as the Environmental Regulation (Enforcement Measures) (
 
 (3) Schedule 3 makes provision for and about enabling SEPA to accept an enforcement undertaking from a person in a case where SEPA has reasonable grounds to suspect that the person has committed a relevant offence.
 
-### 4. Combination of sanctions[^key-20dc7ee51048613505b6f149edfab799]
+### 4. Combination of sanctions[^c-20dc7ee51048613505b6f149edfab799]
 
 (1) SEPA may not impose a fixed monetary penalty on a person in relation to an offence constituted by an act or omission if a fixed monetary penalty has already been imposed on that person in respect of the same offence constituted by the same act or omission.
 
@@ -112,7 +112,7 @@ This Order may be cited as the Environmental Regulation (Enforcement Measures) (
 
 ## PART 3 — Administration and Enforcement
 
-### 5. Recovery of payments[^key-8554bd7650da60cc2b5100b3189b3302]
+### 5. Recovery of payments[^c-8554bd7650da60cc2b5100b3189b3302]
 
 (1) SEPA may recover as a civil debt any—
 
@@ -125,14 +125,14 @@ This Order may be cited as the Environmental Regulation (Enforcement Measures) (
 
 (2) The amount is recoverable as if it were payable under an extract registered decree arbitral bearing a warrant for execution issued by a sheriff of any sheriffdom.
 
-### 6. Withdrawal of notice etc.[^key-49faf96359cb8aa380880ccc440ec23f]
+### 6. Withdrawal of notice etc.[^c-49faf96359cb8aa380880ccc440ec23f]
 
 SEPA may by notice at any time—
 
 - (a) withdraw a fixed monetary penalty notice; or
 - (b) withdraw a variable monetary penalty notice, a non-compliance penalty notice or a costs recovery notice or reduce the amount specified in the notice.
 
-### 7. Appeals[^key-b7f2cfcb9cacbcede97411e43209afa8]
+### 7. Appeals[^c-b7f2cfcb9cacbcede97411e43209afa8]
 
 (1) This article applies to any appeal under this Order.
 
@@ -149,7 +149,7 @@ SEPA may by notice at any time—
 
 (6) Where paragraph (5)(b) applies, the Court must not determine the appeal without a hearing without first giving the parties notice of its intention to do so, and an opportunity to make written representations as to whether there should be a hearing.
 
-### 8. Powers of the Court[^key-cca1caa56ac76c754db1c62a1366c09f]
+### 8. Powers of the Court[^c-cca1caa56ac76c754db1c62a1366c09f]
 
 (1) On an appeal under paragraph 8(1) of Schedule 1 (fixed monetary penalties) the Court may quash or confirm the penalty.
 
@@ -167,7 +167,7 @@ SEPA may by notice at any time—
 
 (6) The Court may make an order in respect of expenses where the Court considers that a party or their representatives has acted unreasonably in bringing, defending or conducting the proceedings.
 
-### 9. Guidance[^key-c6c600852fbce5906faa5cb75af9a248]
+### 9. Guidance[^c-c6c600852fbce5906faa5cb75af9a248]
 
 (1) Where power is conferred on SEPA by this Order to impose an enforcement measure in relation to an offence, SEPA must publish guidance about—
 
@@ -199,7 +199,7 @@ SEPA may by notice at any time—
 
 (6) In this article, any references to guidance include references to any guidance revised by virtue of section 31(8) of the Act.
 
-### 10. Additional guidance[^key-2ea8e4cfe36455f67e36d03f7f51acc2]
+### 10. Additional guidance[^c-2ea8e4cfe36455f67e36d03f7f51acc2]
 
 (1) SEPA must publish guidance about how SEPA will use costs recovery notices, including information as to—
 
@@ -210,7 +210,7 @@ SEPA may by notice at any time—
 
 (2) SEPA must have regard to the guidance in exercising its functions.
 
-### 11. Publication of enforcement action[^key-0a44f7d1536ac02bd36b115f36540d05]
+### 11. Publication of enforcement action[^c-0a44f7d1536ac02bd36b115f36540d05]
 
 (1) SEPA must from time to time publish information about—
 
@@ -226,7 +226,7 @@ SEPA may publish the final notice, non-compliance penalty notice or undertaking 
 
 (3) In paragraph (1)(a) or (2)(a) the references to cases in which penalties have been imposed do not include cases where the penalty has been imposed but overturned on appeal.
 
-### 12. Payment of penalties etc to the Scottish Ministers[^key-36bb56f4fb8f5694640aaf4177fb9e5c]
+### 12. Payment of penalties etc to the Scottish Ministers[^c-36bb56f4fb8f5694640aaf4177fb9e5c]
 
 Where, by virtue of this Order, SEPA receive any sum in respect of—
 
@@ -237,11 +237,11 @@ SEPA must pay it to the Scottish Ministers.
 
 ## PART 4 — Consequential Amendments
 
-### 13. Amendment of the Scottish Land Court Act 1993[^key-e3dbc764909f030089a675c335dc1831]
+### 13. Amendment of the Scottish Land Court Act 1993[^c-e3dbc764909f030089a675c335dc1831]
 
 In section 1(7) of the Scottish Land Court Act 1993[^f00010] (determination by Court of Session of point of law), after “enactment” insert “, or under the Environmental Regulation (Enforcement Measures) (Scotland) Order 2015”.
 
-### 14. Amendment of Fees Order[^key-15873abf6a82b35eaf7184fa7513b3bd]
+### 14. Amendment of Fees Order[^c-15873abf6a82b35eaf7184fa7513b3bd]
 
 (1) The Scottish Land Court (Fees) Order 1996[^f00011] is amended as follows.
 
@@ -269,7 +269,7 @@ Edinburgh
 
 Articles 2(1), 3(1)
 
-### 1. Power to impose fixed monetary penalties[^key-f045b49bce23727e30ca3a95c15ccd37]
+### 1. Power to impose fixed monetary penalties[^c-f045b49bce23727e30ca3a95c15ccd37]
 
 (1) SEPA may by notice impose a fixed monetary penalty on a person in relation to a relevant offence.
 
@@ -277,7 +277,7 @@ Articles 2(1), 3(1)
 
 (3) A “fixed monetary penalty” is a requirement to pay to SEPA a penalty of the amount specified in paragraph 3.
 
-### 2. Relevant offences for fixed monetary penalties[^key-e45f8d8324540f4c6bb2f453bdf078fa]
+### 2. Relevant offences for fixed monetary penalties[^c-e45f8d8324540f4c6bb2f453bdf078fa]
 
 (1) For the purposes of this Schedule and section 20 of the Act (fixed monetary penalties), “relevant offence” means an offence specified in Schedule 4, if the table in that Schedule indicates that a fixed monetary penalty may be imposed.
 
@@ -291,7 +291,7 @@ Articles 2(1), 3(1)
 - (a) indicates that, in relation to an offence, a fixed monetary penalty may be imposed if the second column of the table contains the word “YES” in the row relating to the offence; and
 - (b) does not so indicate if that column contains the word “NO” in the row relating to the offence.
 
-### 3. Specified amount[^key-2fe83226a305c9044b1f8ba6af981148]
+### 3. Specified amount[^c-2fe83226a305c9044b1f8ba6af981148]
 
 (1) The amount of a fixed monetary penalty in relation to a relevant offence is—
 
@@ -301,7 +301,7 @@ Articles 2(1), 3(1)
 
 (2) Where an offence is a relevant offence by virtue of paragraph 2(2), the amount of the fixed penalty is the same as the amount indicated in the table in Schedule 4 in relation to the principal offence (within the meaning of that paragraph).
 
-### 4. Notice of intent[^key-cbc70e32124efcab961bbefc1555b042]
+### 4. Notice of intent[^c-cbc70e32124efcab961bbefc1555b042]
 
 (1) Where SEPA proposes to impose a fixed monetary penalty on a person, it must serve on the person a notice of what is proposed (a “notice of intent”).
 
@@ -312,7 +312,7 @@ Articles 2(1), 3(1)
 - (c) the right to make written representations; and
 - (d) the period within which written representations may be made.
 
-### 5. Right to make written representations[^key-ac64e9b8e6276a434e50b58cb1e93999]
+### 5. Right to make written representations[^c-ac64e9b8e6276a434e50b58cb1e93999]
 
 (1) A person on whom a notice of intent is served may, within 28 days beginning with the day on which the notice was served, make written representations to SEPA in relation to the proposed imposition of the fixed monetary penalty.
 
@@ -320,13 +320,13 @@ Articles 2(1), 3(1)
 
 (3) The period mentioned in sub-paragraph (1) may be extended by agreement in writing between SEPA and the person on whom the notice was served.
 
-### 6. Decision to impose fixed monetary penalty[^key-826f0ac6d4272577cf653f17ed302b1d]
+### 6. Decision to impose fixed monetary penalty[^c-826f0ac6d4272577cf653f17ed302b1d]
 
 (1) SEPA must, after the end of the period for making representations, decide whether to impose a fixed monetary penalty.
 
 (2) In making that decision, SEPA must have regard to any representations made in accordance with paragraph 5.
 
-### 7. Final notice[^key-96b7303976ded39d26d63771c1d558f9]
+### 7. Final notice[^c-96b7303976ded39d26d63771c1d558f9]
 
 (1) Where a decision is taken to impose a fixed monetary penalty, SEPA may do so by serving a final notice.
 
@@ -343,7 +343,7 @@ Articles 2(1), 3(1)
 
 (4) The period mentioned in sub-paragraph (3) may be extended by agreement in writing between SEPA and the person on whom the notice was served.
 
-### 8. Appeals against a fixed monetary penalty[^key-838605eef87b209019675907490b33a7]
+### 8. Appeals against a fixed monetary penalty[^c-838605eef87b209019675907490b33a7]
 
 (1) A person on whom a fixed monetary penalty is imposed may appeal against the decision of SEPA to impose it.
 
@@ -360,7 +360,7 @@ Articles 2(1), 3(1)
 
 (5) Where an appeal is made under this paragraph, the fixed monetary penalty is suspended from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
 
-### 9. Payment requirements[^key-1ad255c76f1fa25163561319f587924a]
+### 9. Payment requirements[^c-1ad255c76f1fa25163561319f587924a]
 
 (1) Subject to sub-paragraph (2), the fixed monetary penalty must be paid within 56 days beginning with the day the final notice was served.
 
@@ -371,13 +371,13 @@ Articles 2(1), 3(1)
 
 whichever ends later.
 
-### 10. Late payment penalties[^key-013ae475bfa7c3b700cb9de697b0246b]
+### 10. Late payment penalties[^c-013ae475bfa7c3b700cb9de697b0246b]
 
 (1) If a person fails to pay a fixed monetary penalty in full by the payment date the amount payable is increased by 40% (the “late payment penalty”).
 
 (2) “the payment date” means the date payment is due in accordance with paragraph 9(1) or, in the case of an appeal, paragraph 9(2).
 
-### 11. Fixed monetary penalties: effect on criminal proceedings etc.[^key-7857aa056470e47d368dbcf19ff96256]
+### 11. Fixed monetary penalties: effect on criminal proceedings etc.[^c-7857aa056470e47d368dbcf19ff96256]
 
 (1) Where a notice of intent relating to a fixed monetary penalty is served on a person in respect of an offence constituted by an act or omission, the period mentioned in sub-paragraph (2) is not to be counted in calculating any period within which criminal proceedings in respect of that offence constituted by that act or omission must be commenced.
 
@@ -399,7 +399,7 @@ Articles 2(1), 3(2)
 
 ### CHAPTER 1 — Variable Monetary Penalties
 
-#### 1. Power to impose variable monetary penalties[^key-56e531d852ca4d64f2412a8e9a0e9864]
+#### 1. Power to impose variable monetary penalties[^c-56e531d852ca4d64f2412a8e9a0e9864]
 
 (1) SEPA may by notice impose a variable monetary penalty on a person in relation to a relevant offence.
 
@@ -417,7 +417,7 @@ Articles 2(1), 3(2)
 - (a) triable summarily (whether or not it is also triable on indictment); and
 - (b) is punishable on summary conviction by a fine (whether or not it is also punishable by a term of imprisonment).
 
-#### 2. Relevant offences for variable monetary penalties[^key-0174b3990adec058dab73e6ae134f7aa]
+#### 2. Relevant offences for variable monetary penalties[^c-0174b3990adec058dab73e6ae134f7aa]
 
 (1) For the purposes of this Schedule and section 23 of the Act (variable monetary penalties), “relevant offence” means an offence specified in Schedule 4, if the table in that Schedule indicates that a variable monetary penalty may be imposed.
 
@@ -431,7 +431,7 @@ Articles 2(1), 3(2)
 - (a) indicates that, in relation to an offence, a variable monetary penalty may be imposed if the third column of the table contains the word “YES” in the row relating to the offence; and
 - (b) does not so indicate if that column contains the word “NO” in the row relating to the offence.
 
-#### 3. Notice of intent[^key-9d65980eeb92fcc94d281fa8af117b2e]
+#### 3. Notice of intent[^c-9d65980eeb92fcc94d281fa8af117b2e]
 
 (1) Where SEPA proposes to impose a variable monetary penalty on a person, it must serve on the person a notice of what is proposed (a “notice of intent”).
 
@@ -443,7 +443,7 @@ Articles 2(1), 3(2)
 - (d) the period within which representations may be made; and
 - (e) the option to offer a VMP undertaking within the period for making written representations.
 
-#### 4. Right to make written representations[^key-c6976a531fb8038eab949908ee13bf82]
+#### 4. Right to make written representations[^c-c6976a531fb8038eab949908ee13bf82]
 
 (1) A person on whom a notice of intent is served may, within 28 days beginning with the day on which the notice was served, make written representations to SEPA in relation to the proposed imposition of the variable monetary penalty.
 
@@ -451,7 +451,7 @@ Articles 2(1), 3(2)
 
 (3) The period mentioned in sub-paragraph (1) may be extended by agreement in writing between SEPA and the person on whom the notice was served.
 
-#### 5. Decision to impose a variable monetary penalty[^key-af8ff82e7f62c516361b87efe1f4cd6e]
+#### 5. Decision to impose a variable monetary penalty[^c-af8ff82e7f62c516361b87efe1f4cd6e]
 
 (1) SEPA must, after the end of the period for making written representations, decide whether to impose a variable monetary penalty and, if so, the amount of the penalty.
 
@@ -460,7 +460,7 @@ Articles 2(1), 3(2)
 - (a) have regard to any representations made in accordance with paragraph 4; and
 - (b) take into account any VMP undertaking accepted by it.
 
-#### 6. Final notice[^key-3ad20139ba138e551dd606e7a79ba10d]
+#### 6. Final notice[^c-3ad20139ba138e551dd606e7a79ba10d]
 
 (1) Where a decision is taken to impose a variable monetary penalty, SEPA may do so by serving a final notice.
 
@@ -478,7 +478,7 @@ Articles 2(1), 3(2)
 
 (4) The period mentioned in sub-paragraph (3) may be extended by agreement in writing between SEPA and the person on whom the notice was served.
 
-#### 7. Appeals against variable monetary penalties[^key-53742d7c6c530a6a3f2d1649656a7f16]
+#### 7. Appeals against variable monetary penalties[^c-53742d7c6c530a6a3f2d1649656a7f16]
 
 (1) A person on whom a variable monetary penalty is imposed may appeal against the decision as to the imposition or amount of the penalty.
 
@@ -496,7 +496,7 @@ Articles 2(1), 3(2)
 
 (5) Where an appeal is made under this paragraph, the variable monetary penalty is suspended from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
 
-#### 8. Payment requirements for variable monetary penalties[^key-e667070bc041996c3ede21621490191e]
+#### 8. Payment requirements for variable monetary penalties[^c-e667070bc041996c3ede21621490191e]
 
 (1) Subject to paragraph (2), the variable monetary penalty must be paid within 56 days beginning with the day the final notice was served or such longer period as SEPA may specify in the final notice.
 
@@ -508,7 +508,7 @@ Articles 2(1), 3(2)
 
 whichever ends later.
 
-#### 9. Costs recovery notices[^key-3d25248980eb8a150b200f403dedf3f3]
+#### 9. Costs recovery notices[^c-3d25248980eb8a150b200f403dedf3f3]
 
 (1) SEPA may serve a notice on a person on whom a variable monetary penalty has been imposed, requiring that person to pay the costs incurred by SEPA in relation to the imposition of the penalty up to the time of its imposition (a “costs recovery notice”) .
 
@@ -531,7 +531,7 @@ whichever ends later.
 
 (5) SEPA must take such steps as are reasonable to ensure that the detailed breakdown is sent to the person requesting it within a period of 21 days from the date of the request.
 
-#### 10. Appeals against costs recovery notices[^key-bf2bf4a50ef5f3d22faa537af6b1b62d]
+#### 10. Appeals against costs recovery notices[^c-bf2bf4a50ef5f3d22faa537af6b1b62d]
 
 (1) The person required to pay costs may appeal against—
 
@@ -545,7 +545,7 @@ whichever ends later.
 
 (3) Where an appeal is made under this paragraph, the costs recovery notice is suspended from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
 
-#### 11. Payment requirements for costs recovery notices[^key-a62f9001eddedf080d40ea7d6cf16587]
+#### 11. Payment requirements for costs recovery notices[^c-a62f9001eddedf080d40ea7d6cf16587]
 
 (1) Subject to sub-paragraph (2), the amount required to be paid under the costs recovery notice must be paid within 56 days beginning with the day the notice was served or such longer period as SEPA may specify in the notice.
 
@@ -559,7 +559,7 @@ whichever ends later.
 
 ### CHAPTER 2 — VMP Undertakings
 
-#### 12. VMP undertakings[^key-1e176c9ea50e5488b2297c037af45333]
+#### 12. VMP undertakings[^c-1e176c9ea50e5488b2297c037af45333]
 
 (1) A person on whom a notice of intent to issue a variable monetary penalty is served may offer a VMP undertaking, which SEPA may accept or reject.
 
@@ -583,13 +583,13 @@ whichever ends later.
 
 (5) A VMP undertaking accepted by SEPA may be varied (including by extending the period within which the action must be taken) if both parties agree in writing.
 
-#### 13. Inaccurate, incomplete and misleading information[^key-964e9195130947a2e37ce10506bc06b8]
+#### 13. Inaccurate, incomplete and misleading information[^c-964e9195130947a2e37ce10506bc06b8]
 
 (1) SEPA may serve a notice on a person from whom SEPA has accepted a VMP undertaking, requiring that person to provide, within such period as SEPA may consider reasonable, sufficient information to determine whether the VMP undertaking has been complied with.
 
 (2) A person who fails to provide such information, or provides inaccurate, misleading or incomplete information in relation to a VMP undertaking may be regarded by SEPA as not having complied with the undertaking.
 
-#### 14. Non-compliance penalties[^key-b4f03549854c7711e18bcdc6b6f3a67b]
+#### 14. Non-compliance penalties[^c-b4f03549854c7711e18bcdc6b6f3a67b]
 
 (1) SEPA may impose a non-compliance penalty on a person who fails to comply with a VMP undertaking which is accepted from the person.
 
@@ -614,7 +614,7 @@ whichever ends later.
 - (f) rights of appeal; and
 - (g) the consequences of non-payment.
 
-#### 15. Appeals against non-compliance penalties[^key-547ebda1cd1da7123a7983c1cd391072]
+#### 15. Appeals against non-compliance penalties[^c-547ebda1cd1da7123a7983c1cd391072]
 
 (1) A person on whom a non-compliance penalty is imposed may appeal against the notice.
 
@@ -629,7 +629,7 @@ whichever ends later.
 
 (4) Where an appeal is made under this paragraph, the non-compliance penalty is suspended from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
 
-#### 16. Payment requirements for non-compliance penalties[^key-dac3c186900299157de25587c451e1bc]
+#### 16. Payment requirements for non-compliance penalties[^c-dac3c186900299157de25587c451e1bc]
 
 (1) Subject to sub-paragraph (2), the non-compliance penalty must be paid within 56 days beginning with the day the non-compliance penalty notice was served or such longer period as SEPA may specify in the notice.
 
@@ -643,7 +643,7 @@ whichever ends later.
 
 ### CHAPTER 3 — Effect on criminal proceedings etc. and late payment interest
 
-#### 17. Variable monetary penalties: effect on criminal proceedings etc.[^key-c9f2274e33965234a350c057f80dde1d]
+#### 17. Variable monetary penalties: effect on criminal proceedings etc.[^c-c9f2274e33965234a350c057f80dde1d]
 
 (1) Sub-paragraph (2) applies where—
 
@@ -665,7 +665,7 @@ whichever ends later.
 - (d) a combined offer under section 302B[^f00018] of that Act being sent; and
 - (e) a work order under section 302ZA[^f00019] of that Act being made.
 
-#### 18. Late payment interest[^key-c2edb6ca3863ce99cab74d10cfb5e1bc]
+#### 18. Late payment interest[^c-c2edb6ca3863ce99cab74d10cfb5e1bc]
 
 (1) If a person fails to pay in full—
 
@@ -689,7 +689,7 @@ by the payment date, interest is payable on the amount outstanding (“late paym
 
 Articles 2(1), 3(3)
 
-### 1. Enforcement undertakings[^key-71da0fae9199896f85acbb878fcbc360]
+### 1. Enforcement undertakings[^c-71da0fae9199896f85acbb878fcbc360]
 
 (1) Where a person offers SEPA an enforcement undertaking, SEPA may accept it in accordance with sub-paragraph (2) or reject it.
 
@@ -705,7 +705,7 @@ Articles 2(1), 3(3)
 
 (5) In this Schedule, references to taking action specified in an enforcement undertaking include references to refraining from taking such action.
 
-### 2. Relevant offences for enforcement undertakings[^key-3be1f9d0b2fe1798d44652d64d36b642]
+### 2. Relevant offences for enforcement undertakings[^c-3be1f9d0b2fe1798d44652d64d36b642]
 
 (1) For the purposes of this Schedule and section 27 of the Act (enforcement undertakings), “relevant offence” means an offence specified in Schedule 4, if the table in that Schedule indicates that an enforcement undertaking may be accepted.
 
@@ -719,7 +719,7 @@ Articles 2(1), 3(3)
 - (a) indicates that, in relation to an offence, an enforcement undertaking may be accepted, if the fourth column of the table contains the word “YES” in the row relating to the offence; and
 - (b) does not so indicate if that column contains the word “NO” in the row relating to the offence.
 
-### 3. Contents of an enforcement undertaking[^key-5cfe1182e66a875615e0766b0caa3810]
+### 3. Contents of an enforcement undertaking[^c-5cfe1182e66a875615e0766b0caa3810]
 
 (1) An enforcement undertaking must be made in writing.
 
@@ -734,7 +734,7 @@ Articles 2(1), 3(3)
 
 (3) An enforcement undertaking accepted by SEPA may be varied (including by extending the period within which the action must be taken) if both parties agree in writing.
 
-### 4. Consequences of an enforcement undertaking and certificates of non-compliance[^key-a7a37bb02809dafd8dafd1c7f74e6bd1]
+### 4. Consequences of an enforcement undertaking and certificates of non-compliance[^c-a7a37bb02809dafd8dafd1c7f74e6bd1]
 
 (1) If SEPA accepts an enforcement undertaking and has not issued a certificate of non-compliance in relation to it—
 
@@ -762,13 +762,13 @@ Articles 2(1), 3(3)
 - (d) a combined offer under section 302B of that Act being sent; and
 - (e) a work order under section 302ZA of that Act being made.
 
-### 5. Inaccurate, incomplete or misleading information[^key-b899aabe1b5306fa60584377bcf150a0]
+### 5. Inaccurate, incomplete or misleading information[^c-b899aabe1b5306fa60584377bcf150a0]
 
 (1) SEPA may serve a notice on a person from whom SEPA has accepted an enforcement undertaking requiring that person to provide, within such period as SEPA may consider reasonable, sufficient information to determine whether the undertaking has been complied with.
 
 (2) A person who fails to provide such information, or provides inaccurate, misleading or incomplete information in relation to an enforcement undertaking, is to be regarded as not having complied with the undertaking.
 
-### 6. Appeal against a certificate of non-compliance[^key-b9646976ed38d8b1a0ca9727288c77d0]
+### 6. Appeal against a certificate of non-compliance[^c-b9646976ed38d8b1a0ca9727288c77d0]
 
 (1) A person who is issued a certificate of non-compliance may appeal against it.
 
@@ -783,11 +783,11 @@ Articles 2(1), 3(3)
 
 (4) Where an appeal is made under this paragraph, the certificate of non-compliance has no effect from the day on which the appeal is made until the day on which the appeal is determined or withdrawn.
 
-## SCHEDULE 4 — Relevant offences and fixed penalty amounts[^key-338112ed5e41701f4dae2401f7ea2981]
+## SCHEDULE 4 — Relevant offences and fixed penalty amounts[^c-338112ed5e41701f4dae2401f7ea2981]
 
 Schedule 1, paragraphs 2 and 3
 
-[^key-338112ed5e41701f4dae2401f7ea2981]
+[^c-338112ed5e41701f4dae2401f7ea2981]
 
 In the following table—
 
@@ -1124,7 +1124,7 @@ In the following table—
   </tbody>
   </table>
 
-  [^f00020][^f00021][^key-0ab6c904ed4a451d663a631442834e51][^key-0ab6c904ed4a451d663a631442834e51][^key-0ab6c904ed4a451d663a631442834e51][^key-0ab6c904ed4a451d663a631442834e51][^key-0ab6c904ed4a451d663a631442834e51][^key-0ab6c904ed4a451d663a631442834e51][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^key-8d1ba057d88b1b02562a66e86447e33d][^f00024][^f00025][^f00026][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^key-1c381b9df22dcda3a4a058c51d295e8b][^f00030][^f00031][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^key-ec31f0f01c433ebec1397a6e21554ec2][^f00034][^f00035][^f00036][^f00037][^key-94f423ac37edfa2f03edc20020d2775f][^f00038][^f00039][^f00040][^f00041][^key-c7bce5f225427fb70e077ca92156ccdf][^key-c7bce5f225427fb70e077ca92156ccdf][^key-c7bce5f225427fb70e077ca92156ccdf][^key-c7bce5f225427fb70e077ca92156ccdf][^key-c7bce5f225427fb70e077ca92156ccdf][^key-c7bce5f225427fb70e077ca92156ccdf][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^key-00d462508dca11d61e83259e822c6063][^f00044][^f00045][^f00046][^f00047][^f00048][^f00049][^f00050][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-848b39312f650076073a0712d96e5b82][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-9dd4a4abcb82aeb4952496ac9a3f8263][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^key-a801c87821778433228b2c19c2361ce8][^f00054][^f00055][^f00056][^f00057][^key-a8e4bf52d8da43ceab5ddd40f550fe4b][^key-f3169c5f830c0cecd393bb943f1e4e22][^key-16fd482fd57f322b8f2ffe6b9a28ab8b][^key-c529f68c66cdbaa836416efdc9f8feb6][^key-20b8db42d0c857349253c7ccdb905f1e][^key-51833fcf2870ab4b123e43151451097b][^key-abc2cb6fcd594f8efbf792a27f41f778]
+  [^f00020][^f00021][^c-0ab6c904ed4a451d663a631442834e51][^c-0ab6c904ed4a451d663a631442834e51][^c-0ab6c904ed4a451d663a631442834e51][^c-0ab6c904ed4a451d663a631442834e51][^c-0ab6c904ed4a451d663a631442834e51][^c-0ab6c904ed4a451d663a631442834e51][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^c-8d1ba057d88b1b02562a66e86447e33d][^f00024][^f00025][^f00026][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^c-1c381b9df22dcda3a4a058c51d295e8b][^f00030][^f00031][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^c-ec31f0f01c433ebec1397a6e21554ec2][^f00034][^f00035][^f00036][^f00037][^c-94f423ac37edfa2f03edc20020d2775f][^f00038][^f00039][^f00040][^f00041][^c-c7bce5f225427fb70e077ca92156ccdf][^c-c7bce5f225427fb70e077ca92156ccdf][^c-c7bce5f225427fb70e077ca92156ccdf][^c-c7bce5f225427fb70e077ca92156ccdf][^c-c7bce5f225427fb70e077ca92156ccdf][^c-c7bce5f225427fb70e077ca92156ccdf][^c-00d462508dca11d61e83259e822c6063][^c-00d462508dca11d61e83259e822c6063][^c-00d462508dca11d61e83259e822c6063][^c-00d462508dca11d61e83259e822c6063][^c-00d462508dca11d61e83259e822c6063][^c-00d462508dca11d61e83259e822c6063][^c-00d462508dca11d61e83259e822c6063][^c-00d462508dca11d61e83259e822c6063][^c-00d462508dca11d61e83259e822c6063][^c-00d462508dca11d61e83259e822c6063][^c-00d462508dca11d61e83259e822c6063][^c-00d462508dca11d61e83259e822c6063][^f00044][^f00045][^f00046][^f00047][^f00048][^f00049][^f00050][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-848b39312f650076073a0712d96e5b82][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-9dd4a4abcb82aeb4952496ac9a3f8263][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^c-a801c87821778433228b2c19c2361ce8][^f00054][^f00055][^f00056][^f00057][^c-a8e4bf52d8da43ceab5ddd40f550fe4b][^c-f3169c5f830c0cecd393bb943f1e4e22][^c-16fd482fd57f322b8f2ffe6b9a28ab8b][^c-c529f68c66cdbaa836416efdc9f8feb6][^c-20b8db42d0c857349253c7ccdb905f1e][^c-51833fcf2870ab4b123e43151451097b][^c-abc2cb6fcd594f8efbf792a27f41f778]
 
 EXPLANATORY NOTE
 
@@ -1156,15 +1156,15 @@ The Order makes consequential amendment to the Scottish Land Court Act 1993 to e
 
 [^f00003]: Footnote: The powers to make this Order are exercised together by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). This Order is subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-f53d699379717535507240b0f6b71b94]: Commencement: Art. 1 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-f53d699379717535507240b0f6b71b94]: Commencement: Art. 1 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-6823ba6f188199d637ac7c548dcfe46f]: Commencement: Art. 2 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-6823ba6f188199d637ac7c548dcfe46f]: Commencement: Art. 2 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
 [^f00004]: Footnote: [2000 c.7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15 was amended by paragraph 158 of Schedule 17 to the Communications Act [2003 (c.21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
-[^key-1a49e1a646eef5a5548aab28b0745e00]: Commencement: Art. 3 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-1a49e1a646eef5a5548aab28b0745e00]: Commencement: Art. 3 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-20dc7ee51048613505b6f149edfab799]: Commencement: Art. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-20dc7ee51048613505b6f149edfab799]: Commencement: Art. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
 [^f00005]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 302 was amended by section 50(1) of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6) (“the 2007 Act”) and section 70(3) of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) (“the 2010 Act”).
 
@@ -1174,53 +1174,53 @@ The Order makes consequential amendment to the Scottish Land Court Act 1993 to e
 
 [^f00008]: Footnote: Section 302ZA was added by section 51 of the 2007 Act and amended by section 70(5) of the 2007 Act.
 
-[^key-8554bd7650da60cc2b5100b3189b3302]: Commencement: Art. 5 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-8554bd7650da60cc2b5100b3189b3302]: Commencement: Art. 5 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-49faf96359cb8aa380880ccc440ec23f]: Commencement: Art. 6 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-49faf96359cb8aa380880ccc440ec23f]: Commencement: Art. 6 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-b7f2cfcb9cacbcede97411e43209afa8]: Commencement: Art. 7 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-b7f2cfcb9cacbcede97411e43209afa8]: Commencement: Art. 7 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
 [^f00009]: Footnote: The Scottish Land Court was established by section 3 of the Small Landholders (Scotland) Act 1911, and continued in being under section 1 of the Scottish Land Court Act [1993 (c.45)](https://www.legislation.gov.uk/ukpga/1993/45).
 
-[^key-cca1caa56ac76c754db1c62a1366c09f]: Commencement: Art. 8 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-cca1caa56ac76c754db1c62a1366c09f]: Commencement: Art. 8 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-c6c600852fbce5906faa5cb75af9a248]: Commencement: Art. 9 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-c6c600852fbce5906faa5cb75af9a248]: Commencement: Art. 9 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-2ea8e4cfe36455f67e36d03f7f51acc2]: Commencement: Art. 10 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-2ea8e4cfe36455f67e36d03f7f51acc2]: Commencement: Art. 10 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-0a44f7d1536ac02bd36b115f36540d05]: Commencement: Art. 11 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-0a44f7d1536ac02bd36b115f36540d05]: Commencement: Art. 11 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-36bb56f4fb8f5694640aaf4177fb9e5c]: Commencement: Art. 12 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-36bb56f4fb8f5694640aaf4177fb9e5c]: Commencement: Art. 12 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-e3dbc764909f030089a675c335dc1831]: Commencement: Art. 13 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-e3dbc764909f030089a675c335dc1831]: Commencement: Art. 13 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
 [^f00010]: Footnote: [1993 c.45](https://www.legislation.gov.uk/ukpga/1993/45). Section 1(7) was amended by the Land Reform (Scotland) Act [2003 (asp 2)](https://www.legislation.gov.uk/asp/2003/2), section 97(2) and the Nature Conservation (Scotland) Act [2004 (asp 6)](https://www.legislation.gov.uk/asp/2004/6), Schedule 7, paragraph 9.
 
-[^key-15873abf6a82b35eaf7184fa7513b3bd]: Commencement: Art. 14 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-15873abf6a82b35eaf7184fa7513b3bd]: Commencement: Art. 14 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
 [^f00011]: Footnote: [S.I. 1996/680](https://www.legislation.gov.uk/uksi/1996/680).
 
-[^key-f045b49bce23727e30ca3a95c15ccd37]: Commencement: Sch. 1 para. 1 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-f045b49bce23727e30ca3a95c15ccd37]: Commencement: Sch. 1 para. 1 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-e45f8d8324540f4c6bb2f453bdf078fa]: Commencement: Sch. 1 para. 2 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-e45f8d8324540f4c6bb2f453bdf078fa]: Commencement: Sch. 1 para. 2 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-2fe83226a305c9044b1f8ba6af981148]: Commencement: Sch. 1 para. 3 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-2fe83226a305c9044b1f8ba6af981148]: Commencement: Sch. 1 para. 3 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-cbc70e32124efcab961bbefc1555b042]: Commencement: Sch. 1 para. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-cbc70e32124efcab961bbefc1555b042]: Commencement: Sch. 1 para. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-ac64e9b8e6276a434e50b58cb1e93999]: Commencement: Sch. 1 para. 5 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-ac64e9b8e6276a434e50b58cb1e93999]: Commencement: Sch. 1 para. 5 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-826f0ac6d4272577cf653f17ed302b1d]: Commencement: Sch. 1 para. 6 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-826f0ac6d4272577cf653f17ed302b1d]: Commencement: Sch. 1 para. 6 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-96b7303976ded39d26d63771c1d558f9]: Commencement: Sch. 1 para. 7 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-96b7303976ded39d26d63771c1d558f9]: Commencement: Sch. 1 para. 7 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-838605eef87b209019675907490b33a7]: Commencement: Sch. 1 para. 8 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-838605eef87b209019675907490b33a7]: Commencement: Sch. 1 para. 8 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-1ad255c76f1fa25163561319f587924a]: Commencement: Sch. 1 para. 9 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-1ad255c76f1fa25163561319f587924a]: Commencement: Sch. 1 para. 9 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-013ae475bfa7c3b700cb9de697b0246b]: Commencement: Sch. 1 para. 10 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-013ae475bfa7c3b700cb9de697b0246b]: Commencement: Sch. 1 para. 10 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-7857aa056470e47d368dbcf19ff96256]: Commencement: Sch. 1 para. 11 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-7857aa056470e47d368dbcf19ff96256]: Commencement: Sch. 1 para. 11 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
 [^f00012]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 302 was amended by section 50(1) of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6) (“the 2007 Act”) and amended by section 70(3) of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) (“the 2010 Act”).
 
@@ -1230,39 +1230,39 @@ The Order makes consequential amendment to the Scottish Land Court Act 1993 to e
 
 [^f00015]: Footnote: Section 302ZA was added by section 51 of the 2007 Act and amended by section 70(5) of the 2010 Act.
 
-[^key-56e531d852ca4d64f2412a8e9a0e9864]: Commencement: Sch. 2 para. 1 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-56e531d852ca4d64f2412a8e9a0e9864]: Commencement: Sch. 2 para. 1 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-0174b3990adec058dab73e6ae134f7aa]: Commencement: Sch. 2 para. 2 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-0174b3990adec058dab73e6ae134f7aa]: Commencement: Sch. 2 para. 2 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-9d65980eeb92fcc94d281fa8af117b2e]: Commencement: Sch. 2 para. 3 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-9d65980eeb92fcc94d281fa8af117b2e]: Commencement: Sch. 2 para. 3 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-c6976a531fb8038eab949908ee13bf82]: Commencement: Sch. 2 para. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-c6976a531fb8038eab949908ee13bf82]: Commencement: Sch. 2 para. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-af8ff82e7f62c516361b87efe1f4cd6e]: Commencement: Sch. 2 para. 5 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-af8ff82e7f62c516361b87efe1f4cd6e]: Commencement: Sch. 2 para. 5 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-3ad20139ba138e551dd606e7a79ba10d]: Commencement: Sch. 2 para. 6 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-3ad20139ba138e551dd606e7a79ba10d]: Commencement: Sch. 2 para. 6 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-53742d7c6c530a6a3f2d1649656a7f16]: Commencement: Sch. 2 para. 7 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-53742d7c6c530a6a3f2d1649656a7f16]: Commencement: Sch. 2 para. 7 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-e667070bc041996c3ede21621490191e]: Commencement: Sch. 2 para. 8 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-e667070bc041996c3ede21621490191e]: Commencement: Sch. 2 para. 8 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-3d25248980eb8a150b200f403dedf3f3]: Commencement: Sch. 2 para. 9 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-3d25248980eb8a150b200f403dedf3f3]: Commencement: Sch. 2 para. 9 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-bf2bf4a50ef5f3d22faa537af6b1b62d]: Commencement: Sch. 2 para. 10 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-bf2bf4a50ef5f3d22faa537af6b1b62d]: Commencement: Sch. 2 para. 10 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-a62f9001eddedf080d40ea7d6cf16587]: Commencement: Sch. 2 para. 11 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-a62f9001eddedf080d40ea7d6cf16587]: Commencement: Sch. 2 para. 11 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-1e176c9ea50e5488b2297c037af45333]: Commencement: Sch. 2 para. 12 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-1e176c9ea50e5488b2297c037af45333]: Commencement: Sch. 2 para. 12 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-964e9195130947a2e37ce10506bc06b8]: Commencement: Sch. 2 para. 13 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-964e9195130947a2e37ce10506bc06b8]: Commencement: Sch. 2 para. 13 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-b4f03549854c7711e18bcdc6b6f3a67b]: Commencement: Sch. 2 para. 14 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-b4f03549854c7711e18bcdc6b6f3a67b]: Commencement: Sch. 2 para. 14 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-547ebda1cd1da7123a7983c1cd391072]: Commencement: Sch. 2 para. 15 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-547ebda1cd1da7123a7983c1cd391072]: Commencement: Sch. 2 para. 15 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-dac3c186900299157de25587c451e1bc]: Commencement: Sch. 2 para. 16 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-dac3c186900299157de25587c451e1bc]: Commencement: Sch. 2 para. 16 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-c9f2274e33965234a350c057f80dde1d]: Commencement: Sch. 2 para. 17 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-c9f2274e33965234a350c057f80dde1d]: Commencement: Sch. 2 para. 17 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
 [^f00016]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 302 was amended by section 50(1) of the Criminal Proceedings etc. (Reform) (Scotland) Act [2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6) (“the 2007 Act”) and section 70(3) of the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13) (“the 2010 Act”).
 
@@ -1272,29 +1272,29 @@ The Order makes consequential amendment to the Scottish Land Court Act 1993 to e
 
 [^f00019]: Footnote: Section 302ZA was added by the 2007 Act, section 51 and amended by the 2007 Act, section 70(5).
 
-[^key-c2edb6ca3863ce99cab74d10cfb5e1bc]: Commencement: Sch. 2 para. 18 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-c2edb6ca3863ce99cab74d10cfb5e1bc]: Commencement: Sch. 2 para. 18 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-71da0fae9199896f85acbb878fcbc360]: Commencement: Sch. 3 para. 1 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-71da0fae9199896f85acbb878fcbc360]: Commencement: Sch. 3 para. 1 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-3be1f9d0b2fe1798d44652d64d36b642]: Commencement: Sch. 3 para. 2 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-3be1f9d0b2fe1798d44652d64d36b642]: Commencement: Sch. 3 para. 2 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-5cfe1182e66a875615e0766b0caa3810]: Commencement: Sch. 3 para. 3 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-5cfe1182e66a875615e0766b0caa3810]: Commencement: Sch. 3 para. 3 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-a7a37bb02809dafd8dafd1c7f74e6bd1]: Commencement: Sch. 3 para. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-a7a37bb02809dafd8dafd1c7f74e6bd1]: Commencement: Sch. 3 para. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-b899aabe1b5306fa60584377bcf150a0]: Commencement: Sch. 3 para. 5 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-b899aabe1b5306fa60584377bcf150a0]: Commencement: Sch. 3 para. 5 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-b9646976ed38d8b1a0ca9727288c77d0]: Commencement: Sch. 3 para. 6 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-b9646976ed38d8b1a0ca9727288c77d0]: Commencement: Sch. 3 para. 6 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
-[^key-338112ed5e41701f4dae2401f7ea2981]: Commencement: Sch. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
+[^c-338112ed5e41701f4dae2401f7ea2981]: Commencement: Sch. 4 in force at 12.11.2015, see [art. 1](https://www.legislation.gov.uk/ssi/2015/383/article/1)
 
 [^f00020]: Footnote: [1974 c.40](https://www.legislation.gov.uk/ukpga/1974/40); section 30Z was inserted by the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25), section 59.
 
 [^f00021]: Footnote: [1981 c.69](https://www.legislation.gov.uk/ukpga/1981/69); section 14K was inserted by the Wildlife and Natural Environment (Scotland) Act [2011 (asp 6)](https://www.legislation.gov.uk/asp/2011/6), section 16.
 
-[^key-0ab6c904ed4a451d663a631442834e51]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(i)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-0ab6c904ed4a451d663a631442834e51]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(i)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/i) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-8d1ba057d88b1b02562a66e86447e33d]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-8d1ba057d88b1b02562a66e86447e33d]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(ii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/ii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^f00024]: Footnote: [1990 c.43](https://www.legislation.gov.uk/ukpga/1990/43).
 
@@ -1302,13 +1302,13 @@ The Order makes consequential amendment to the Scottish Land Court Act 1993 to e
 
 [^f00026]: Footnote: Section 34 was relevantly amended by [S.S.I. 2000/323](https://www.legislation.gov.uk/ssi/2000/323), [S.S.I. 2011/226](https://www.legislation.gov.uk/ssi/2011/226), [S.S.I. 2012/148](https://www.legislation.gov.uk/ssi/2012/148), [S.S.I. 2012/360](https://www.legislation.gov.uk/ssi/2012/360) and [S.S.I. 2005/22](https://www.legislation.gov.uk/ssi/2005/22).
 
-[^key-1c381b9df22dcda3a4a058c51d295e8b]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-1c381b9df22dcda3a4a058c51d295e8b]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(iii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/iii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^f00030]: Footnote: Section 78M was inserted by section 57 of the Environment Act [1995 (c.25)](https://www.legislation.gov.uk/ukpga/1995/25) and extended by regulation 2 of [S.S.I. 2007/179](https://www.legislation.gov.uk/ssi/2007/179) so that it has effect in relation to harm or, subject to an exception in regulation 2(2), pollution of the water environment, so far as attributable to radioactivity possessed by any substance.
 
 [^f00031]: Footnote: [1993 c.12](https://www.legislation.gov.uk/ukpga/1993/12).
 
-[^key-ec31f0f01c433ebec1397a6e21554ec2]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table omitted (1.9.2018) by virtue of [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 16(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/16/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-ec31f0f01c433ebec1397a6e21554ec2]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table omitted (1.9.2018) by virtue of [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 16(2)](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/16/2) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
 [^f00034]: Footnote: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -1318,7 +1318,7 @@ The Order makes consequential amendment to the Scottish Land Court Act 1993 to e
 
 [^f00037]: Footnote: [S.I. 1996/972](https://www.legislation.gov.uk/uksi/1996/972), to which there are amendments not relevant to this Order.
 
-[^key-94f423ac37edfa2f03edc20020d2775f]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-94f423ac37edfa2f03edc20020d2775f]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table substituted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(b)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/b) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^f00038]: Footnote: [S.S.I. 2000/95](https://www.legislation.gov.uk/ssi/2000/95). Regulation 17A was added by [S.S.I. 2005/112](https://www.legislation.gov.uk/ssi/2005/112).
 
@@ -1328,9 +1328,9 @@ The Order makes consequential amendment to the Scottish Land Court Act 1993 to e
 
 [^f00041]: Footnote: [2003 asp 3](https://www.legislation.gov.uk/asp/2003/3). Section 18 is applied with modifications to as much of the Northumbria River Basin District as lies within Scotland by [S.I. 2003/3245](https://www.legislation.gov.uk/uksi/2003/3245), and to as much as the Solway Tweed River Basin District as lies within Scotland by [S.I. 2004/99](https://www.legislation.gov.uk/uksi/2004/99).
 
-[^key-c7bce5f225427fb70e077ca92156ccdf]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(iv)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/iv) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-c7bce5f225427fb70e077ca92156ccdf]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(iv)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/iv) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-00d462508dca11d61e83259e822c6063]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table revoked (1.1.2022) by [The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/412)](https://www.legislation.gov.uk/ssi/2021/412), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/412/regulation/1/2), [sch. para. 1](https://www.legislation.gov.uk/ssi/2021/412/schedule/paragraph/1)
+[^c-00d462508dca11d61e83259e822c6063]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table revoked (1.1.2022) by [The Water Environment (Controlled Activities) (Scotland) Amendment Regulations 2021 (S.S.I. 2021/412)](https://www.legislation.gov.uk/ssi/2021/412), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2021/412/regulation/1/2), [sch. para. 1](https://www.legislation.gov.uk/ssi/2021/412/schedule/paragraph/1)
 
 [^f00044]: Footnote: [S.I. 2007/871](https://www.legislation.gov.uk/uksi/2007/871), to which there are amendments not relevant to this Order.
 
@@ -1346,11 +1346,11 @@ The Order makes consequential amendment to the Scottish Land Court Act 1993 to e
 
 [^f00050]: Footnote: Reservoirs may be designated as “high-risk reservoirs” under section 19, 21, 23 or, as the case may be, 24 of the Reservoirs (Scotland) Act [2011 (asp 9)](https://www.legislation.gov.uk/asp/2011/9).
 
-[^key-848b39312f650076073a0712d96e5b82]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(v)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/v) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-848b39312f650076073a0712d96e5b82]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(v)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/v) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-9dd4a4abcb82aeb4952496ac9a3f8263]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/vi) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-9dd4a4abcb82aeb4952496ac9a3f8263]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(vi)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/vi) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^key-a801c87821778433228b2c19c2361ce8]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(vii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/vii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-a801c87821778433228b2c19c2361ce8]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) Table omitted (1.11.2025) by virtue of [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 22 para. 28(2)(a)(vii)](https://www.legislation.gov.uk/ssi/2025/165/schedule/22/paragraph/28/2/a/vii) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^f00054]: Footnote: [S.I. 2013/1119](https://www.legislation.gov.uk/uksi/2013/1119), to which there are amendments not relevant to this Order.
 
@@ -1360,16 +1360,16 @@ The Order makes consequential amendment to the Scottish Land Court Act 1993 to e
 
 [^f00057]: Footnote: [S.I. 2015/168](https://www.legislation.gov.uk/uksi/2015/168).
 
-[^key-a8e4bf52d8da43ceab5ddd40f550fe4b]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (1.4.2016) by [The Reservoirs (Enforcement etc.) (Scotland) Order 2016 (S.S.I. 2016/161)](https://www.legislation.gov.uk/ssi/2016/161), [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1), [sch. 4](https://www.legislation.gov.uk/ssi/2016/161/schedule/4)
+[^c-a8e4bf52d8da43ceab5ddd40f550fe4b]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (1.4.2016) by [The Reservoirs (Enforcement etc.) (Scotland) Order 2016 (S.S.I. 2016/161)](https://www.legislation.gov.uk/ssi/2016/161), [art. 1](https://www.legislation.gov.uk/ssi/2016/161/article/1), [sch. 4](https://www.legislation.gov.uk/ssi/2016/161/schedule/4)
 
-[^key-f3169c5f830c0cecd393bb943f1e4e22]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (1.1.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/32/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
+[^c-f3169c5f830c0cecd393bb943f1e4e22]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (1.1.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/1), [32(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/32/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
 
-[^key-16fd482fd57f322b8f2ffe6b9a28ab8b]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 16(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/16/3) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-16fd482fd57f322b8f2ffe6b9a28ab8b]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 6 para. 16(3)](https://www.legislation.gov.uk/ssi/2018/219/schedule/6/paragraph/16/3) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
-[^key-c529f68c66cdbaa836416efdc9f8feb6]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (20.5.2020) by [The Environmental Regulation (Enforcement Measures) (Scotland) Amendment Order 2020 (S.S.I. 2020/155)](https://www.legislation.gov.uk/ssi/2020/155), [arts. 1](https://www.legislation.gov.uk/ssi/2020/155/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/155/article/2/2)
+[^c-c529f68c66cdbaa836416efdc9f8feb6]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (20.5.2020) by [The Environmental Regulation (Enforcement Measures) (Scotland) Amendment Order 2020 (S.S.I. 2020/155)](https://www.legislation.gov.uk/ssi/2020/155), [arts. 1](https://www.legislation.gov.uk/ssi/2020/155/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2020/155/article/2/2)
 
-[^key-20b8db42d0c857349253c7ccdb905f1e]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (3.3.2023) by [The Environmental Regulation (Enforcement Measures) (Scotland) Amendment Order 2023 (S.S.I. 2023/69)](https://www.legislation.gov.uk/ssi/2023/69), [arts. 1](https://www.legislation.gov.uk/ssi/2023/69/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/69/article/2/2)
+[^c-20b8db42d0c857349253c7ccdb905f1e]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (3.3.2023) by [The Environmental Regulation (Enforcement Measures) (Scotland) Amendment Order 2023 (S.S.I. 2023/69)](https://www.legislation.gov.uk/ssi/2023/69), [arts. 1](https://www.legislation.gov.uk/ssi/2023/69/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2023/69/article/2/2)
 
-[^key-51833fcf2870ab4b123e43151451097b]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (3.3.2023) by [The Environmental Regulation (Enforcement Measures) (Scotland) Amendment Order 2023 (S.S.I. 2023/69)](https://www.legislation.gov.uk/ssi/2023/69), [arts. 1](https://www.legislation.gov.uk/ssi/2023/69/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/69/article/2/3)
+[^c-51833fcf2870ab4b123e43151451097b]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (3.3.2023) by [The Environmental Regulation (Enforcement Measures) (Scotland) Amendment Order 2023 (S.S.I. 2023/69)](https://www.legislation.gov.uk/ssi/2023/69), [arts. 1](https://www.legislation.gov.uk/ssi/2023/69/article/1), [2(3)](https://www.legislation.gov.uk/ssi/2023/69/article/2/3)
 
-[^key-abc2cb6fcd594f8efbf792a27f41f778]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (26.6.2025) by [The Environmental Regulation (Enforcement Measures) (Scotland) Amendment Order 2025 (S.S.I. 2025/199)](https://www.legislation.gov.uk/ssi/2025/199), [arts. 1](https://www.legislation.gov.uk/ssi/2025/199/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/199/article/2/2)
+[^c-abc2cb6fcd594f8efbf792a27f41f778]: Textual amendment: Words in [sch. 4](https://www.legislation.gov.uk/ssi/2015/383/schedule/4) table inserted (26.6.2025) by [The Environmental Regulation (Enforcement Measures) (Scotland) Amendment Order 2025 (S.S.I. 2025/199)](https://www.legislation.gov.uk/ssi/2025/199), [arts. 1](https://www.legislation.gov.uk/ssi/2025/199/article/1), [2(2)](https://www.legislation.gov.uk/ssi/2025/199/article/2/2)

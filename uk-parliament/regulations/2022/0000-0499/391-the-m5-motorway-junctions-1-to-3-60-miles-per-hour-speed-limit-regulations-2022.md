@@ -34,7 +34,7 @@ Road Traffic
 
 Special Roads
 
-The M5 Motorway (Junctions 1 to 3) (60 Miles Per Hour Speed Limit) Regulations 2022 (revoked)[^key-0980d40dea085bfcbbeae7633ca8d372]
+The M5 Motorway (Junctions 1 to 3) (60 Miles Per Hour Speed Limit) Regulations 2022 (revoked)[^c-0980d40dea085bfcbbeae7633ca8d372]
 
 Made
 
@@ -48,28 +48,28 @@ Coming into force
 
 9th May 2022
 
-[^key-0980d40dea085bfcbbeae7633ca8d372]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0980d40dea085bfcbbeae7633ca8d372]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0980d40dea085bfcbbeae7633ca8d372]
+## 1. Citation and commencement[^c-0980d40dea085bfcbbeae7633ca8d372]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0980d40dea085bfcbbeae7633ca8d372]
+## 2. Interpretation[^c-0980d40dea085bfcbbeae7633ca8d372]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. 60 miles per hour speed limit[^key-0980d40dea085bfcbbeae7633ca8d372]
+## 3. 60 miles per hour speed limit[^c-0980d40dea085bfcbbeae7633ca8d372]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0980d40dea085bfcbbeae7633ca8d372]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0980d40dea085bfcbbeae7633ca8d372]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0980d40dea085bfcbbeae7633ca8d372]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0980d40dea085bfcbbeae7633ca8d372]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0980d40dea085bfcbbeae7633ca8d372]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/391) revoked (4.10.2026) by [The M5 Motorway (Junctions 1 to 3) (60 Miles Per Hour Speed Limit) Regulations 2022 (Revocation) Regulations 2026 (S.I. 2026/980)](https://www.legislation.gov.uk/uksi/2026/980), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/980/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/980/regulation/2)
+[^c-0980d40dea085bfcbbeae7633ca8d372]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/391) revoked (4.10.2026) by [The M5 Motorway (Junctions 1 to 3) (60 Miles Per Hour Speed Limit) Regulations 2022 (Revocation) Regulations 2026 (S.I. 2026/980)](https://www.legislation.gov.uk/uksi/2026/980), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/980/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/980/regulation/2)

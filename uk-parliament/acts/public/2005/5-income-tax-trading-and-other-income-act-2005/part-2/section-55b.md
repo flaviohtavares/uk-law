@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55B. Rental rebates[^key-c14ab72a3d07d0ebc88ed625e5fdbc64]
+## 55B. Rental rebates[^c-c14ab72a3d07d0ebc88ed625e5fdbc64]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ That allowable loss is deductible only from chargeable gains accruing to the les
 
 ## Annotations
 
-[^key-c14ab72a3d07d0ebc88ed625e5fdbc64]: Textual amendment: S. 55B and cross-heading inserted (8.4.2010) (with effect in accordance with Sch. 5 para. 2(3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/5/paragraph/2/1)
+[^c-c14ab72a3d07d0ebc88ed625e5fdbc64]: Textual amendment: S. 55B and cross-heading inserted (8.4.2010) (with effect in accordance with Sch. 5 para. 2(3) of the amending Act) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 5 para. 2(1)](https://www.legislation.gov.uk/ukpga/2010/13/schedule/5/paragraph/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Protests outside public office-holder’s home[^key-c2697bf4ef7ea9626b8febdefb3dc638][^key-e5bb2002c517232f2296768e9f33e80c]
+## 162. Protests outside public office-holder’s home[^c-c2697bf4ef7ea9626b8febdefb3dc638][^c-e5bb2002c517232f2296768e9f33e80c]
 
 *Extent: E+W*
 
@@ -91,6 +91,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c2697bf4ef7ea9626b8febdefb3dc638]: Commencement: S. 162 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-c2697bf4ef7ea9626b8febdefb3dc638]: Commencement: S. 162 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-e5bb2002c517232f2296768e9f33e80c]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2026/20/section/162) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/o)
+[^c-e5bb2002c517232f2296768e9f33e80c]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2026/20/section/162) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(o)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/o)

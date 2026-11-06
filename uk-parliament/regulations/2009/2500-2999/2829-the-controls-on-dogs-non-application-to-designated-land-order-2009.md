@@ -52,7 +52,7 @@ Coming into force
 
 The Secretary of State is, in relation to England, the appropriate person as defined in section 66(a) of the Clean Neighbourhoods and Environment Act 2005[^f00001], for the purpose of exercising the powers conferred by section 57(3) of that Act, and makes the following Order in exercise of those powers.
 
-## 1. Title, commencement and application[^key-9e46bd442561c953328fa16f80153c50]
+## 1. Title, commencement and application[^c-9e46bd442561c953328fa16f80153c50]
 
 This Order—
 
@@ -60,7 +60,7 @@ This Order—
 - (b) comes into force on 1st December 2009; and
 - (c) applies in England only.
 
-## 2. Interpretation[^key-3a933b702789048edb1f19e130ed8518]
+## 2. Interpretation[^c-3a933b702789048edb1f19e130ed8518]
 
 In this Order—
 
@@ -68,11 +68,11 @@ In this Order—
 - “land” means any land which is open to the air and to which the public are entitled or permitted to have access (with or without payment), and any land which is covered is to be treated as “open to the air” if it is open on at least one side;
 - “road” means any length of highway or of any other road to which the public have access (with or without payment), and includes bridges over which a road passes.
 
-## 3. Land to which Chapter 1 of Part 6 of the Act does not apply[^key-5c72efd093776608e9bd2f856cd10adc]
+## 3. Land to which Chapter 1 of Part 6 of the Act does not apply[^c-5c72efd093776608e9bd2f856cd10adc]
 
 Any land that falls within a description in the first column of the table in the Schedule is designated as land to which Chapter 1 (controls on dogs) of Part 6 of the Act does not apply, for the purposes specified in relation to the particular description in the second column of that table.
 
-## 4. Revocation[^key-0255c2c0a402b0e0d59603f501e804a2]
+## 4. Revocation[^c-0255c2c0a402b0e0d59603f501e804a2]
 
 The Controls on Dogs (Non-application to Designated Land) Order 2006[^f00002] is revoked.
 
@@ -84,7 +84,7 @@ Department for Environment, Food and Rural Affairs
 
 23rd October 2009
 
-## THE SCHEDULE — Land to which Chapter 1 of Part 6 of the Act does not apply[^key-ac96fdb258b19a5771b50ca6b8f01534]
+## THE SCHEDULE — Land to which Chapter 1 of Part 6 of the Act does not apply[^c-ac96fdb258b19a5771b50ca6b8f01534]
 
 Article 3
 
@@ -112,16 +112,16 @@ A full impact assessment of the effect of the then Clean Neighbourhoods and Envi
 
 [^f00001]: Footnote: [2005 c. 16](https://www.legislation.gov.uk/ukpga/2005/16).
 
-[^key-9e46bd442561c953328fa16f80153c50]: Commencement: Art. 1 in force at 1.12.2009, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2009/2829/article/1/b)
+[^c-9e46bd442561c953328fa16f80153c50]: Commencement: Art. 1 in force at 1.12.2009, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2009/2829/article/1/b)
 
-[^key-3a933b702789048edb1f19e130ed8518]: Commencement: Art. 2 in force at 1.12.2009, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2009/2829/article/1/b)
+[^c-3a933b702789048edb1f19e130ed8518]: Commencement: Art. 2 in force at 1.12.2009, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2009/2829/article/1/b)
 
-[^key-5c72efd093776608e9bd2f856cd10adc]: Commencement: Art. 3 in force at 1.12.2009, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2009/2829/article/1/b)
+[^c-5c72efd093776608e9bd2f856cd10adc]: Commencement: Art. 3 in force at 1.12.2009, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2009/2829/article/1/b)
 
-[^key-0255c2c0a402b0e0d59603f501e804a2]: Commencement: Art. 4 in force at 1.12.2009, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2009/2829/article/1/b)
+[^c-0255c2c0a402b0e0d59603f501e804a2]: Commencement: Art. 4 in force at 1.12.2009, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2009/2829/article/1/b)
 
 [^f00002]: Footnote: [S.I. 2006/779](https://www.legislation.gov.uk/uksi/2006/779).
 
-[^key-ac96fdb258b19a5771b50ca6b8f01534]: Commencement: Sch. in force at 1.12.2009, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2009/2829/article/1/b)
+[^c-ac96fdb258b19a5771b50ca6b8f01534]: Commencement: Sch. in force at 1.12.2009, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2009/2829/article/1/b)
 
 [^f00003]: Footnote: [1967 c.10](https://www.legislation.gov.uk/ukpga/1967/10); section 39(1) was amended by [S.I. 1999/1747](https://www.legislation.gov.uk/uksi/1999/1747), article 3 and Schedule 12, Part II, paragraph 4(1) and (28).

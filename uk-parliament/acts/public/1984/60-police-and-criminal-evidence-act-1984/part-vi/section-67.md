@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Codes of practice—supplementary.[^key-7638a7479655e828739b062225d6de49][^key-c896a07b66d829f0d558db887c94a361]
+## 67. Codes of practice—supplementary.[^c-7638a7479655e828739b062225d6de49][^c-c896a07b66d829f0d558db887c94a361]
 
 *Extent: E+W*
 
@@ -32,16 +32,16 @@ summary: ''
 
 (4) Before issuing a code, or any revision of a code, the Secretary of State must consult—
 
-- (a) such persons as appear to the Secretary of State to represent the views of police and crime commissioners,[^key-7a61c882c50bbaa8158bc408af17d9a9]
+- (a) such persons as appear to the Secretary of State to represent the views of police and crime commissioners,[^c-7a61c882c50bbaa8158bc408af17d9a9]
 - (aa) the Mayor's Office for Policing and Crime,
 - (ab) the Common Council of the City of London,
-- (b) the National Police Chiefs’ Council[^key-3711ee95ab82943e9a94b0fb41327462],
+- (b) the National Police Chiefs’ Council[^c-3711ee95ab82943e9a94b0fb41327462],
 - (c) the General Council of the Bar,
 - (d) the Law Society of England and Wales,
 - (e) the Institute of Legal Executives, and
 - (f) such other persons as he thinks fit.
 
-(4A)[^key-66c86b9803ee19711b71e9afc84c2a58] The duty to consult under subsection (4) does not apply to a revision of a code where the Secretary of State considers that—
+(4A)[^c-66c86b9803ee19711b71e9afc84c2a58] The duty to consult under subsection (4) does not apply to a revision of a code where the Secretary of State considers that—
 
 - (a) the revision is necessary in consequence of legislation, and
 - (b) the Secretary of State has no discretion as to the nature of the revision.
@@ -73,7 +73,7 @@ summary: ''
 
 (9A)[^c17069781] Persons on whom powers are conferred by—
 
-- (a) any designation under section 38 or 39 of the Police Reform Act 2002 (c. 30) (police powers for civilian staff[^key-25f721d1d2a603786042072ecd6e343e] and volunteers[^key-d3cbbd75e6bf0fa1fe8922830b8f8eda]), or
+- (a) any designation under section 38 or 39 of the Police Reform Act 2002 (c. 30) (police powers for civilian staff[^c-25f721d1d2a603786042072ecd6e343e] and volunteers[^c-d3cbbd75e6bf0fa1fe8922830b8f8eda]), or
 - (b) any accreditation under section 41 of that Act (accreditation under community safety accreditation schemes),
 
 [^c18899091]shall have regard to any relevant provision of a code . . . in the exercise or performance of the powers and duties conferred or imposed on them by that designation or accreditation.
@@ -94,17 +94,17 @@ shall not of itself render him liable to any criminal or civil proceedings.
 
 ## Annotations
 
-[^key-7638a7479655e828739b062225d6de49]: Modification: S. 67 applied (with modifications) (4.11.2015) by [The Police and Criminal Evidence Act 1984 (Application to Revenue and Customs) Order 2015 (S.I. 2015/1783)](https://www.legislation.gov.uk/uksi/2015/1783), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1783/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1783/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/2), [(3)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/3), [4-19](https://www.legislation.gov.uk/uksi/2015/1783/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1783/schedule/2))
+[^c-7638a7479655e828739b062225d6de49]: Modification: S. 67 applied (with modifications) (4.11.2015) by [The Police and Criminal Evidence Act 1984 (Application to Revenue and Customs) Order 2015 (S.I. 2015/1783)](https://www.legislation.gov.uk/uksi/2015/1783), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1783/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1783/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/2), [(3)](https://www.legislation.gov.uk/uksi/2015/1783/article/3/3), [4-19](https://www.legislation.gov.uk/uksi/2015/1783/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1783/schedule/2))
 
-[^key-c896a07b66d829f0d558db887c94a361]: Modification: [S. 67](https://www.legislation.gov.uk/ukpga/1984/60/section/67) applied (with modifications) (1.4.2018) by [The Welsh Revenue Authority (Powers to Investigate Criminal Offences) Regulations 2018 (S.I. 2018/400)](https://www.legislation.gov.uk/wsi/2018/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/400/regulation/1/2), [3(1)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/1)[(3)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/3), [Sch.](https://www.legislation.gov.uk/wsi/2018/400/schedule) (with [regs. 4-8](https://www.legislation.gov.uk/wsi/2018/400/regulation/4))
+[^c-c896a07b66d829f0d558db887c94a361]: Modification: [S. 67](https://www.legislation.gov.uk/ukpga/1984/60/section/67) applied (with modifications) (1.4.2018) by [The Welsh Revenue Authority (Powers to Investigate Criminal Offences) Regulations 2018 (S.I. 2018/400)](https://www.legislation.gov.uk/wsi/2018/400), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/400/regulation/1/2), [3(1)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/1)[(3)](https://www.legislation.gov.uk/wsi/2018/400/regulation/3/3), [Sch.](https://www.legislation.gov.uk/wsi/2018/400/schedule) (with [regs. 4-8](https://www.legislation.gov.uk/wsi/2018/400/regulation/4))
 
 [^c18898201]: Textual amendment: S. 67(1)-(7D) substituted (20.1.2004) for s. 67(1)-(7C) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2003/44/section/11/1), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336); [S.I. 2004/81](https://www.legislation.gov.uk/uksi/2004/81), [art. 2(1)(2)(a)](https://www.legislation.gov.uk/uksi/2004/81/article/2/1/2/a)
 
-[^key-7a61c882c50bbaa8158bc408af17d9a9]: Textual amendment: S. 67(4)(a)-(ab) substituted for s. 67(4)(a) (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 163(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/163/2); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/47))
+[^c-7a61c882c50bbaa8158bc408af17d9a9]: Textual amendment: S. 67(4)(a)-(ab) substituted for s. 67(4)(a) (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 163(2)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/163/2); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) (with [Sch. 2 para. 47](https://www.legislation.gov.uk/uksi/2011/3019/schedule/2/paragraph/47))
 
-[^key-3711ee95ab82943e9a94b0fb41327462]: Textual amendment: Words in s. 67(4)(b) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 14 paras. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/4), [5(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/5/a); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/41)
+[^c-3711ee95ab82943e9a94b0fb41327462]: Textual amendment: Words in s. 67(4)(b) substituted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 14 paras. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/4), [5(a)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/14/paragraph/5/a); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 41](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/41)
 
-[^key-66c86b9803ee19711b71e9afc84c2a58]: Textual amendment: [S. 67(4A)-(4C)](https://www.legislation.gov.uk/ukpga/1984/60/section/67/4A) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 78](https://www.legislation.gov.uk/ukpga/2017/3/section/78), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/26)
+[^c-66c86b9803ee19711b71e9afc84c2a58]: Textual amendment: [S. 67(4A)-(4C)](https://www.legislation.gov.uk/ukpga/1984/60/section/67/4A) inserted (31.1.2017 for specified purposes, 3.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 78](https://www.legislation.gov.uk/ukpga/2017/3/section/78), [183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e); [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 2](https://www.legislation.gov.uk/uksi/2017/399/regulation/2), [Sch. para. 26](https://www.legislation.gov.uk/uksi/2017/399/schedule/paragraph/26)
 
 [^c11329591]: Textual amendment: S. 67(8) repealed (1.4.1999) by [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16), [s. 103(3)](https://www.legislation.gov.uk/ukpga/1996/16/section/103/3), [Sch. 9 Pt. II](https://www.legislation.gov.uk/ukpga/1996/16/schedule/9/part/II); [S.I. 1999/533](https://www.legislation.gov.uk/uksi/1999/533), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/533/article/2/a)
 
@@ -116,9 +116,9 @@ shall not of itself render him liable to any criminal or civil proceedings.
 
 [^c17069781]: Textual amendment: S. 67(9A) inserted (2.12.2002) by [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30), [s. 107](https://www.legislation.gov.uk/ukpga/2002/30/section/107), [Sch. 7 para. 9(7)](https://www.legislation.gov.uk/ukpga/2002/30/schedule/7/paragraph/9/7); [S.I. 2002/2750](https://www.legislation.gov.uk/uksi/2002/2750), [art. 2(b)(ii)](https://www.legislation.gov.uk/uksi/2002/2750/article/2/b/ii)
 
-[^key-25f721d1d2a603786042072ecd6e343e]: Textual amendment: Words in s. 67(9A)(a) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 163(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/163/3); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-25f721d1d2a603786042072ecd6e343e]: Textual amendment: Words in s. 67(9A)(a) substituted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 16 para. 163(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/16/paragraph/163/3); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
 
-[^key-d3cbbd75e6bf0fa1fe8922830b8f8eda]: Textual amendment: Words in [s. 67(9A)(a)](https://www.legislation.gov.uk/ukpga/1984/60/section/67/9A/a) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 7(4)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/7/4); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by S.I. 2017/1162, reg. 2)
+[^c-d3cbbd75e6bf0fa1fe8922830b8f8eda]: Textual amendment: Words in [s. 67(9A)(a)](https://www.legislation.gov.uk/ukpga/1984/60/section/67/9A/a) inserted (31.1.2017 for specified purposes, 15.12.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 12 para. 7(4)](https://www.legislation.gov.uk/ukpga/2017/3/schedule/12/paragraph/7/4); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/k) (as amended by S.I. 2017/1162, reg. 2)
 
 [^c18899091]: Textual amendment: Words in s. 67(9A) repealed (20.1.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [ss. 332](https://www.legislation.gov.uk/ukpga/2003/44/section/332), [336](https://www.legislation.gov.uk/ukpga/2003/44/section/336), [Sch. 37 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/1); [S.I. 2004/81](https://www.legislation.gov.uk/uksi/2004/81), [art. 2(1)(2)(g)(i)](https://www.legislation.gov.uk/uksi/2004/81/article/2/1/2/g/i)
 

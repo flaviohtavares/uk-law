@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 361. Fees orders[^c21871221][^c21871231][^c21871371][^key-fef9258137a3615ab3f106183e20a9fb]
+## 361. Fees orders[^c21871221][^c21871231][^c21871371][^c-fef9258137a3615ab3f106183e20a9fb]
 
 *Extent: N.I.*
 
@@ -47,7 +47,7 @@ and the Department of Finance and Personnel may direct by whom and in what manne
 
 [^c21871371]: Textual amendment: "By [Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [arts. 14](https://www.legislation.gov.uk/uksi/2009/805/article/14), [17](https://www.legislation.gov.uk/uksi/2009/805/article/17) it is provided that [art. 361](https://www.legislation.gov.uk/nisi/1989/2405/article/361) is amended (29.3.2009) (art. 361 being the equivalent enactment having effect in relation to Northern Ireland to s. 414 of the [Insolvency Act 1986 (c. 45)](https://www.legislation.gov.uk/ukpga/1986/45))"
 
-[^key-fef9258137a3615ab3f106183e20a9fb]: Modification: [Art. 361](https://www.legislation.gov.uk/nisi/1989/2405/article/361) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
+[^c-fef9258137a3615ab3f106183e20a9fb]: Modification: [Art. 361](https://www.legislation.gov.uk/nisi/1989/2405/article/361) applied (with modifications) (4.1.2024) by [S.I. 2021/716](https://www.legislation.gov.uk/uksi/2021/716), [reg. 37A](https://www.legislation.gov.uk/uksi/2021/716/regulation/37A) (as inserted by [The Payment and Electronic Money Institution Insolvency (Amendment) Regulations 2023 (S.I. 2023/1399)](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2023/1399/regulation/12))
 
 [^c22530321]: Textual amendment: [Art. 361(1)(za)](https://www.legislation.gov.uk/nisi/1989/2405/article/361/1/za) inserted (30.6.2011) by [Debt Relief Act (Northern Ireland) 2010 (c. 16)](https://www.legislation.gov.uk/nia/2010/16), [ss. 6](https://www.legislation.gov.uk/nia/2010/16/section/6), [7(1)](https://www.legislation.gov.uk/nia/2010/16/section/7/1), [Sch. para. 4(10)](https://www.legislation.gov.uk/nia/2010/16/schedule/paragraph/4/10); [S.R. 2011/13](https://www.legislation.gov.uk/nisr/2011/13), [art. 2](https://www.legislation.gov.uk/nisr/2011/13/article/2)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Guidance[^key-b2002397bf94ccc54700ee38c03e5fdd]
+## 74. Guidance[^c-b2002397bf94ccc54700ee38c03e5fdd]
 
 *Extent: N.I.*
 
@@ -38,4 +38,4 @@ as appear to the Department to be appropriate.
 
 ## Annotations
 
-[^key-b2002397bf94ccc54700ee38c03e5fdd]: Commencement: [S. 74](https://www.legislation.gov.uk/nia/2014/8/section/74) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)
+[^c-b2002397bf94ccc54700ee38c03e5fdd]: Commencement: [S. 74](https://www.legislation.gov.uk/nia/2014/8/section/74) in operation at 2.6.2014 for specified purposes by [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 3](https://www.legislation.gov.uk/nisr/2014/153/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2014/153/schedule/2)

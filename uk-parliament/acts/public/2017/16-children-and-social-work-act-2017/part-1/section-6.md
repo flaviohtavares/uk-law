@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Academies: staff member for looked after and previously looked after pupils[^key-068e0c84ef616f774f2c3ef822122ced]
+## 6. Academies: staff member for looked after and previously looked after pupils[^c-068e0c84ef616f774f2c3ef822122ced]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-068e0c84ef616f774f2c3ef822122ced]: Commencement: S. 6 in force at 1.9.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)
+[^c-068e0c84ef616f774f2c3ef822122ced]: Commencement: S. 6 in force at 1.9.2018 by [S.I. 2018/497](https://www.legislation.gov.uk/uksi/2018/497), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/497/regulation/4/a)

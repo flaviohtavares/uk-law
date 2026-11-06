@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Resumption in relation to 1991 Act tenancies[^key-1ac56e345d94004c69de16d8c81d998e]
+## 20. Resumption in relation to 1991 Act tenancies[^c-1ac56e345d94004c69de16d8c81d998e]
 
 *Extent: S*
 
@@ -315,4 +315,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ac56e345d94004c69de16d8c81d998e]: Commencement: S. 20 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)
+[^c-1ac56e345d94004c69de16d8c81d998e]: Commencement: S. 20 not in force at Royal Assent, see [s. 47(2)](https://www.legislation.gov.uk/asp/2025/15/section/47/2)

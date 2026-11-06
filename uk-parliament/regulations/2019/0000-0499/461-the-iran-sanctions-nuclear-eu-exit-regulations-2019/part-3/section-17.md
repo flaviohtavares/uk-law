@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Financial messaging services[^key-13d3431b049d525e3eb8659194d5640d][^key-18d83cb4db0bae5b90c273293eaf16d1]
+## 17. Financial messaging services[^c-13d3431b049d525e3eb8659194d5640d][^c-18d83cb4db0bae5b90c273293eaf16d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-13d3431b049d525e3eb8659194d5640d]: Commencement: Reg. 17 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
+[^c-13d3431b049d525e3eb8659194d5640d]: Commencement: Reg. 17 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/461/regulation/1/2)
 
-[^key-18d83cb4db0bae5b90c273293eaf16d1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/461/regulation/17) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-18d83cb4db0bae5b90c273293eaf16d1]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2019/461/regulation/17) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 8(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

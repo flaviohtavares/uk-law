@@ -31,7 +31,7 @@ summary: ''
 
 BUILDING REGULATIONS
 
-Building (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^key-574536c5b7c34a47c650e6bbdcb0dbc8]
+Building (Amendment) Regulations (Northern Ireland) 2005 (revoked)[^c-574536c5b7c34a47c650e6bbdcb0dbc8]
 
 Made
 
@@ -41,36 +41,36 @@ Coming into operation
 
 3rd October 2005
 
-[^key-574536c5b7c34a47c650e6bbdcb0dbc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-574536c5b7c34a47c650e6bbdcb0dbc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-574536c5b7c34a47c650e6bbdcb0dbc8]
+## 1. Citation and commencement[^c-574536c5b7c34a47c650e6bbdcb0dbc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-574536c5b7c34a47c650e6bbdcb0dbc8]
+## 2. Interpretation[^c-574536c5b7c34a47c650e6bbdcb0dbc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provisions[^key-574536c5b7c34a47c650e6bbdcb0dbc8]
+## 3. Transitional provisions[^c-574536c5b7c34a47c650e6bbdcb0dbc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the principal Regulations[^key-574536c5b7c34a47c650e6bbdcb0dbc8]
+## 4. Amendment of the principal Regulations[^c-574536c5b7c34a47c650e6bbdcb0dbc8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-574536c5b7c34a47c650e6bbdcb0dbc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-574536c5b7c34a47c650e6bbdcb0dbc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-574536c5b7c34a47c650e6bbdcb0dbc8]
+## SCHEDULE[^c-574536c5b7c34a47c650e6bbdcb0dbc8]
 
 Regulation 4(5)
 
-[^key-574536c5b7c34a47c650e6bbdcb0dbc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-574536c5b7c34a47c650e6bbdcb0dbc8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-574536c5b7c34a47c650e6bbdcb0dbc8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/295) revoked (31.10.2012) by [The Building Regulations (Northern Ireland) 2012 (S.R. 2012/192)](https://www.legislation.gov.uk/nisr/2012/192), [regs. 1](https://www.legislation.gov.uk/nisr/2012/192/regulation/1), [21](https://www.legislation.gov.uk/nisr/2012/192/regulation/21) (with [regs. 3(2)](https://www.legislation.gov.uk/nisr/2012/192/regulation/3/2), [4](https://www.legislation.gov.uk/nisr/2012/192/regulation/4))
+[^c-574536c5b7c34a47c650e6bbdcb0dbc8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2005/295) revoked (31.10.2012) by [The Building Regulations (Northern Ireland) 2012 (S.R. 2012/192)](https://www.legislation.gov.uk/nisr/2012/192), [regs. 1](https://www.legislation.gov.uk/nisr/2012/192/regulation/1), [21](https://www.legislation.gov.uk/nisr/2012/192/regulation/21) (with [regs. 3(2)](https://www.legislation.gov.uk/nisr/2012/192/regulation/3/2), [4](https://www.legislation.gov.uk/nisr/2012/192/regulation/4))

@@ -33,10 +33,10 @@ summary: ''
 
 (4) The provisions of this section have effect, in relation to secure tenancies, in place of section 19(2) of the [^c15061541]Landlord and Tenant Act 1927 (general provisions as to covenants, &c. not to make improvements without consent).
 
-(5)[^key-b3bc70955745d90a701140a48b7920f0] In this section “ **secure tenancy** ” does not include a secure tenancy that is a flexible tenancy.
+(5)[^c-b3bc70955745d90a701140a48b7920f0] In this section “ **secure tenancy** ” does not include a secure tenancy that is a flexible tenancy.
 
 ## Annotations
 
 [^c15061541]: Marginal citation: [1927 c. 36](https://www.legislation.gov.uk/ukpga/1927/36).
 
-[^key-b3bc70955745d90a701140a48b7920f0]: Textual amendment: S. 97(5) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 155(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/155/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-b3bc70955745d90a701140a48b7920f0]: Textual amendment: S. 97(5) inserted (1.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 155(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/155/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

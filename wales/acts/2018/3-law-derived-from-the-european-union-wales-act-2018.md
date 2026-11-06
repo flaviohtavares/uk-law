@@ -32,7 +32,7 @@ summary: ''
 
 **No longer in force.**
 
-Law Derived from the European Union (Wales) Act 2018 (repealed)[^key-d00069e0f0a562eefcbdc04c5dd943e7]
+Law Derived from the European Union (Wales) Act 2018 (repealed)[^c-d00069e0f0a562eefcbdc04c5dd943e7]
 
 2018 anaw 3
 
@@ -196,4 +196,4 @@ Law Derived from the European Union (Wales) Act 2018 (repealed)[^key-d00069e0f0a
 
 ## Annotations
 
-[^key-d00069e0f0a562eefcbdc04c5dd943e7]: Textual amendment: Act repealed (22.11.2018) by [The Law Derived from the European Union (Wales) Act 2018 (Repeal) Regulations 2018 (S.I. 2018/1211)](https://www.legislation.gov.uk/wsi/2018/1211), [reg. 2](https://www.legislation.gov.uk/wsi/2018/1211/regulation/2)
+[^c-d00069e0f0a562eefcbdc04c5dd943e7]: Textual amendment: Act repealed (22.11.2018) by [The Law Derived from the European Union (Wales) Act 2018 (Repeal) Regulations 2018 (S.I. 2018/1211)](https://www.legislation.gov.uk/wsi/2018/1211), [reg. 2](https://www.legislation.gov.uk/wsi/2018/1211/regulation/2)

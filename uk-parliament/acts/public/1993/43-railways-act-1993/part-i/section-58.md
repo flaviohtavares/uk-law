@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Power to require information etc for purposes of sections 55 and 57A.[^c19324881][^key-929dc95eac7afac443ea4e095b07fde3][^c14105401]
+## 58. Power to require information etc for purposes of sections 55 and 57A.[^c19324881][^c-929dc95eac7afac443ea4e095b07fde3][^c14105401]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ the appropriate authority may, for any purpose connected with such of its functi
 
 [^c19324881]: Modification: S. 58 applied (with modifications) (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 14](https://www.legislation.gov.uk/uksi/2005/3050/regulation/14), [Sch. 3 para. 1(c)](https://www.legislation.gov.uk/uksi/2005/3050/schedule/3/paragraph/1/c)
 
-[^key-929dc95eac7afac443ea4e095b07fde3]: Modification: Ss. 55-58 applied (25.6.2010) by [The Rail Passengers Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [reg. 17](https://www.legislation.gov.uk/uksi/2010/1504/regulation/17)
+[^c-929dc95eac7afac443ea4e095b07fde3]: Modification: Ss. 55-58 applied (25.6.2010) by [The Rail Passengers Rights and Obligations Regulations 2010 (S.I. 2010/1504)](https://www.legislation.gov.uk/uksi/2010/1504), [reg. 17](https://www.legislation.gov.uk/uksi/2010/1504/regulation/17)
 
 [^c14105401]: Textual amendment: Words in s. 58 sidenote inserted (1.2.2001) by [2000 c. 38](https://www.legislation.gov.uk/ukpga/2000/38), [s. 252](https://www.legislation.gov.uk/ukpga/2000/38/section/252), [Sch. 27 para. 33(3)](https://www.legislation.gov.uk/ukpga/2000/38/schedule/27/paragraph/33/3); [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to savings and transitional provisions in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 

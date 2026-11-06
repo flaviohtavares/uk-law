@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Amendment and repeal of measures relating to home energy efficiency[^key-9ad961bf880818267578e8986c0df3ff]
+## 118. Amendment and repeal of measures relating to home energy efficiency[^c-9ad961bf880818267578e8986c0df3ff]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ad961bf880818267578e8986c0df3ff]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2011/16/section/118) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)
+[^c-9ad961bf880818267578e8986c0df3ff]: Commencement: [S. 118](https://www.legislation.gov.uk/ukpga/2011/16/section/118) in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/873/article/2/c)

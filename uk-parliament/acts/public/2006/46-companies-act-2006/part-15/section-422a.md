@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 422A. Revisions to directors' remuneration policy[^key-65a2fdd72cdb520163f8bd1f660bc85a][^c22574051]
+## 422A. Revisions to directors' remuneration policy[^c-65a2fdd72cdb520163f8bd1f660bc85a][^c22574051]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-65a2fdd72cdb520163f8bd1f660bc85a]: Textual amendment: S. 422A inserted (25.4.2013 for specified purposes, 1.10.2013 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/79/2), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i), [(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)
+[^c-65a2fdd72cdb520163f8bd1f660bc85a]: Textual amendment: S. 422A inserted (25.4.2013 for specified purposes, 1.10.2013 in so far as not already in force) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/79/2), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i), [(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)
 
 [^c22574051]: Textual amendment: S. 422A inserted (25.4.2013 for specified purposes) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 79(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/79/2), [103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)

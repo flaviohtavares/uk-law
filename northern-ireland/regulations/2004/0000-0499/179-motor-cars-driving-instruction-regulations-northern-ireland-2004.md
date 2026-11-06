@@ -43,148 +43,148 @@ The Department of the Environment, in exercise of the powers conferred upon it b
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-bdf8dd18a90a3a163b8a48d363af49aa]
+### 1. Citation and commencement[^c-bdf8dd18a90a3a163b8a48d363af49aa]
 
-These Regulations may be cited as the Motor Cars (Driving Instruction) Regulations (Northern Ireland) 2004 and shall come into operation on 5th May 2004. *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
+These Regulations may be cited as the Motor Cars (Driving Instruction) Regulations (Northern Ireland) 2004 and shall come into operation on 5th May 2004. *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
 
-### 2. Interpretation[^key-95b207321cbd22fbc0c6171d8409a309]
+### 2. Interpretation[^c-95b207321cbd22fbc0c6171d8409a309]
 
-(1) In these Regulations – *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
+(1) In these Regulations – *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
 
-- “approved driving instructor *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” means a person whose name is entered in *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] the register *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396];
-- “community licence” means a document issued in respect of a member State other than the United Kingdom by an authority of that or another member State (including the United Kingdom) authorising the holder to drive a motor vehicle, not being – *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
-  - (a) a document containing a statement to the effect that that or a previous document was issued in exchange for a document issued in respect of a State other than a member State, or *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
-  - (b) a document in any of the forms for an international driving permit annexed to the Paris Convention on Motor Traffic of 1926, the Geneva Convention on Road Traffic of 1949 or the Vienna Convention on Road Traffic of 1968; *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
-- “continued ability and fitness test *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” means the test of continued ability and fitness to give instruction in the driving of motor cars referred to in regulation 5(3) and the nature and content of which is prescribed in regulation 15; *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
-- “Department *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” means the Department of the Environment; *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
-- “driving ability and fitness test *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” means the practical test of ability and fitness to drive referred to in the definition of “examination” and the nature of which is prescribed in regulation 11; *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
-- “examination *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” means the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] examination *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] of ability to give instruction in the driving of motor cars and for the purpose of these Regulations shall consist of the test of driving theory and hazard perception, the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] driving ability and fitness test *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] and the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] instructional ability and fitness test *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396];
-- “examiner *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]”, in relation to part of the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] examination *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] or the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] continued ability and fitness test *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396], means an officer of the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] Department *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] appointed to conduct that part of the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] examination *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] or that test; *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
-- “instructional ability and fitness test *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” means the practical test of ability and fitness to give instruction in the driving of motor cars referred to in the definition of “ *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]examination *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” and the nature of which is prescribed in regulation 12; *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
-- “the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] Order of 1981 *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” means the Road Traffic (Northern Ireland) Order 1981; *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
-- “the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] Order of 1996 *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” means the Road Traffic Offenders (Northern Ireland) Order 1996 *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396][^f00003];
-- “the register *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” means the register of approved driving instructors referred to in Article 132(1) of the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] Order of 1981 *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396];
-- “the Registrar *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” means the officer of the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] Department *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] by whom *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] the register *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] is, on behalf of the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] Department *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396], compiled and maintained; *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
-- “theory test *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” means the test of driving theory and hazard perception referred to in the definition of “ *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]examination *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” the nature of which is prescribed in regulation 10; and *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
-- “trainee licence *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” means a licence to give driving instruction granted under Article 135(1) of the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] Order of 1981 *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396];
+- “approved driving instructor *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” means a person whose name is entered in *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] the register *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396];
+- “community licence” means a document issued in respect of a member State other than the United Kingdom by an authority of that or another member State (including the United Kingdom) authorising the holder to drive a motor vehicle, not being – *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
+  - (a) a document containing a statement to the effect that that or a previous document was issued in exchange for a document issued in respect of a State other than a member State, or *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
+  - (b) a document in any of the forms for an international driving permit annexed to the Paris Convention on Motor Traffic of 1926, the Geneva Convention on Road Traffic of 1949 or the Vienna Convention on Road Traffic of 1968; *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
+- “continued ability and fitness test *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” means the test of continued ability and fitness to give instruction in the driving of motor cars referred to in regulation 5(3) and the nature and content of which is prescribed in regulation 15; *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
+- “Department *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” means the Department of the Environment; *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
+- “driving ability and fitness test *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” means the practical test of ability and fitness to drive referred to in the definition of “examination” and the nature of which is prescribed in regulation 11; *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
+- “examination *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” means the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] examination *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] of ability to give instruction in the driving of motor cars and for the purpose of these Regulations shall consist of the test of driving theory and hazard perception, the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] driving ability and fitness test *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] and the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] instructional ability and fitness test *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396];
+- “examiner *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]”, in relation to part of the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] examination *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] or the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] continued ability and fitness test *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396], means an officer of the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] Department *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] appointed to conduct that part of the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] examination *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] or that test; *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
+- “instructional ability and fitness test *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” means the practical test of ability and fitness to give instruction in the driving of motor cars referred to in the definition of “ *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]examination *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” and the nature of which is prescribed in regulation 12; *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
+- “the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] Order of 1981 *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” means the Road Traffic (Northern Ireland) Order 1981; *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
+- “the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] Order of 1996 *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” means the Road Traffic Offenders (Northern Ireland) Order 1996 *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396][^f00003];
+- “the register *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” means the register of approved driving instructors referred to in Article 132(1) of the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] Order of 1981 *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396];
+- “the Registrar *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” means the officer of the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] Department *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] by whom *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] the register *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] is, on behalf of the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] Department *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396], compiled and maintained; *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
+- “theory test *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” means the test of driving theory and hazard perception referred to in the definition of “ *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]examination *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” the nature of which is prescribed in regulation 10; and *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
+- “trainee licence *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” means a licence to give driving instruction granted under Article 135(1) of the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] Order of 1981 *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396];
 
-(2) In these Regulations a reference to a part of the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] examination *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] is a reference to one of the 3 parts of the *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] examination *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396] set out in the definition of “ *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]examination *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]” in paragraph (1). *(affected by repeal, see note)*[^key-8f663c99f53d516ce0f90ebb3a4cf396]
+(2) In these Regulations a reference to a part of the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] examination *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] is a reference to one of the 3 parts of the *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] examination *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396] set out in the definition of “ *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]examination *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]” in paragraph (1). *(affected by repeal, see note)*[^c-8f663c99f53d516ce0f90ebb3a4cf396]
 
 ## PART 2 — REGISTRATION
 
-### 3. Application for registration[^key-07f3399ee322ebea802b3a6067e87471]
+### 3. Application for registration[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Register[^key-07f3399ee322ebea802b3a6067e87471]
+### 4. Register[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Registration[^key-07f3399ee322ebea802b3a6067e87471]
+### 5. Registration[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Period of registration[^key-07f3399ee322ebea802b3a6067e87471]
+### 6. Period of registration[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Renewal of registration[^key-07f3399ee322ebea802b3a6067e87471]
+### 7. Renewal of registration[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Removal of names from the register[^key-07f3399ee322ebea802b3a6067e87471]
+### 8. Removal of names from the register[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — EXAMINATION OF ABILITY TO GIVE INSTRUCTION
 
-### 9. General provisions[^key-07f3399ee322ebea802b3a6067e87471]
+### 9. General provisions[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Theory test[^key-07f3399ee322ebea802b3a6067e87471]
+### 10. Theory test[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Driving ability and fitness test[^key-07f3399ee322ebea802b3a6067e87471]
+### 11. Driving ability and fitness test[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Instructional ability and fitness test[^key-07f3399ee322ebea802b3a6067e87471]
+### 12. Instructional ability and fitness test[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Motor car to be provided for practical part of examination[^key-07f3399ee322ebea802b3a6067e87471]
+### 13. Motor car to be provided for practical part of examination[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Further requirements at test[^key-07f3399ee322ebea802b3a6067e87471]
+### 14. Further requirements at test[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — TEST OF CONTINUED ABILITY AND FITNESS TO GIVE INSTRUCTION
 
-### 15. Nature of test and provision of a motor car[^key-07f3399ee322ebea802b3a6067e87471]
+### 15. Nature of test and provision of a motor car[^c-07f3399ee322ebea802b3a6067e87471]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — TRAINEE LICENCE SCHEME
 
-### 16. Application for a licence[^key-3a1ea6cda3ae5af36788d1010f28b22b]
+### 16. Application for a licence[^c-3a1ea6cda3ae5af36788d1010f28b22b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Licence[^key-3a1ea6cda3ae5af36788d1010f28b22b]
+### 17. Licence[^c-3a1ea6cda3ae5af36788d1010f28b22b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Refusal to grant a licence[^key-3a1ea6cda3ae5af36788d1010f28b22b]
+### 18. Refusal to grant a licence[^c-3a1ea6cda3ae5af36788d1010f28b22b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Duration of licence[^key-3a1ea6cda3ae5af36788d1010f28b22b]
+### 19. Duration of licence[^c-3a1ea6cda3ae5af36788d1010f28b22b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Form of licence[^key-3a1ea6cda3ae5af36788d1010f28b22b]
+### 20. Form of licence[^c-3a1ea6cda3ae5af36788d1010f28b22b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Conditions subject to which licences are granted[^key-3a1ea6cda3ae5af36788d1010f28b22b]
+### 21. Conditions subject to which licences are granted[^c-3a1ea6cda3ae5af36788d1010f28b22b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Revocation of licence[^key-3a1ea6cda3ae5af36788d1010f28b22b]
+### 22. Revocation of licence[^c-3a1ea6cda3ae5af36788d1010f28b22b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 6 — SUPPLEMENTARY
 
-### 23. Decisions[^key-658ecb772ec8f1dea5f61e45f0748f98]
+### 23. Decisions[^c-658ecb772ec8f1dea5f61e45f0748f98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Appeals[^key-658ecb772ec8f1dea5f61e45f0748f98]
+### 24. Appeals[^c-658ecb772ec8f1dea5f61e45f0748f98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Fees[^key-658ecb772ec8f1dea5f61e45f0748f98]
+### 25. Fees[^c-658ecb772ec8f1dea5f61e45f0748f98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Repayment of fees[^key-658ecb772ec8f1dea5f61e45f0748f98]
+### 26. Repayment of fees[^c-658ecb772ec8f1dea5f61e45f0748f98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Official title of registered person and certificate of registration[^key-658ecb772ec8f1dea5f61e45f0748f98]
+### 27. Official title of registered person and certificate of registration[^c-658ecb772ec8f1dea5f61e45f0748f98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Exemption from regulations[^key-658ecb772ec8f1dea5f61e45f0748f98]
+### 28. Exemption from regulations[^c-658ecb772ec8f1dea5f61e45f0748f98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 29. Revocations and transitional provisions[^key-658ecb772ec8f1dea5f61e45f0748f98]
+### 29. Revocations and transitional provisions[^c-658ecb772ec8f1dea5f61e45f0748f98]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -206,7 +206,7 @@ A senior officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE 1[^key-1ab82288b0c226c2d4f0b25c44a66fe7]
+## SCHEDULE 1[^c-1ab82288b0c226c2d4f0b25c44a66fe7]
 
 **No longer in force.**
 
@@ -214,21 +214,21 @@ Regulation 20
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — RECORD OF INSTRUCTION GIVEN BY LICENCE HOLDER[^key-5ad6007166f3e44e50f662c378325d99]
+## SCHEDULE 2 — RECORD OF INSTRUCTION GIVEN BY LICENCE HOLDER[^c-5ad6007166f3e44e50f662c378325d99]
 
 **No longer in force.**
 
 Regulation 21
 
-**1.**[^key-5ad6007166f3e44e50f662c378325d99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-5ad6007166f3e44e50f662c378325d99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-5ad6007166f3e44e50f662c378325d99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-5ad6007166f3e44e50f662c378325d99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-5ad6007166f3e44e50f662c378325d99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-5ad6007166f3e44e50f662c378325d99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-5ad6007166f3e44e50f662c378325d99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-5ad6007166f3e44e50f662c378325d99] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3[^key-5ad6007166f3e44e50f662c378325d99]
+## SCHEDULE 3[^c-5ad6007166f3e44e50f662c378325d99]
 
 **No longer in force.**
 
@@ -236,7 +236,7 @@ Regulation 27
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4[^key-5ad6007166f3e44e50f662c378325d99]
+## SCHEDULE 4[^c-5ad6007166f3e44e50f662c378325d99]
 
 **No longer in force.**
 
@@ -248,7 +248,7 @@ Regulation 14
 
 Regulation 29
 
-### PART I — regulations revoked[^key-c1242824fee1819a5983e0bd84e658ea]
+### PART I — regulations revoked[^c-c1242824fee1819a5983e0bd84e658ea]
 
 | Title | Year and Number |
 | --- | --- |
@@ -259,9 +259,9 @@ Regulation 29
 
 ### PART II — transitional provisions
 
-**1.**[^key-5581b13804f8bfadda678c11e48f16a6] The enactments repealed by Part I shall continue to apply in relation to the conditions to which a licence granted pursuant to an application made before 5th May 2004 is subject and nothing in these Regulations shall affect those enactments in so far as they apply by virtue of this Part.
+**1.**[^c-5581b13804f8bfadda678c11e48f16a6] The enactments repealed by Part I shall continue to apply in relation to the conditions to which a licence granted pursuant to an application made before 5th May 2004 is subject and nothing in these Regulations shall affect those enactments in so far as they apply by virtue of this Part.
 
-**2.**[^key-50e15df4a69086938515cd4114cbaa5a] For the purposes of this Part an application shall not be regarded as having been made before 5th May 2004 unless the application is received by the Registrar before that date.
+**2.**[^c-50e15df4a69086938515cd4114cbaa5a] For the purposes of this Part an application shall not be regarded as having been made before 5th May 2004 unless the application is received by the Registrar before that date.
 
 (This note is not part of the Regulations.)
 
@@ -287,26 +287,26 @@ Regulation 29
 
 [^f00002]: Footnote: Formerly the Department of Finance. *see* S.I. [1982/338 (N.I. 6)](https://www.legislation.gov.uk/nisi/1982/338) Art. 3
 
-[^key-bdf8dd18a90a3a163b8a48d363af49aa]: Commencement: Reg. 1 in operation at 5.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/179/regulation/1)
+[^c-bdf8dd18a90a3a163b8a48d363af49aa]: Commencement: Reg. 1 in operation at 5.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/179/regulation/1)
 
-[^key-8f663c99f53d516ce0f90ebb3a4cf396]: Textual amendment: [Regs. 1-2](https://www.legislation.gov.uk/nisr/2004/179/regulation/1) revoked for specified purposes (2.8.2010) by [The Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010 (S.R. 2010/227)](https://www.legislation.gov.uk/nisr/2010/227), [regs. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1), [24](https://www.legislation.gov.uk/nisr/2010/227/regulation/24) and [The Motor Vehicles (Driving Instruction) (Trainee Licence) Regulations (Northern Ireland) 2010 (S.R. 2010/228)](https://www.legislation.gov.uk/nisr/2010/228), [regs. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1), [16](https://www.legislation.gov.uk/nisr/2010/228/regulation/16)
+[^c-8f663c99f53d516ce0f90ebb3a4cf396]: Textual amendment: [Regs. 1-2](https://www.legislation.gov.uk/nisr/2004/179/regulation/1) revoked for specified purposes (2.8.2010) by [The Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010 (S.R. 2010/227)](https://www.legislation.gov.uk/nisr/2010/227), [regs. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1), [24](https://www.legislation.gov.uk/nisr/2010/227/regulation/24) and [The Motor Vehicles (Driving Instruction) (Trainee Licence) Regulations (Northern Ireland) 2010 (S.R. 2010/228)](https://www.legislation.gov.uk/nisr/2010/228), [regs. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1), [16](https://www.legislation.gov.uk/nisr/2010/228/regulation/16)
 
-[^key-95b207321cbd22fbc0c6171d8409a309]: Commencement: Reg. 2 in operation at 5.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/179/regulation/1)
+[^c-95b207321cbd22fbc0c6171d8409a309]: Commencement: Reg. 2 in operation at 5.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/179/regulation/1)
 
 [^f00003]: Footnote: S.I. [1996/1320 (N.I. 10)](https://www.legislation.gov.uk/nisi/1996/1320)
 
-[^key-07f3399ee322ebea802b3a6067e87471]: Textual amendment: [Regs. 3-15](https://www.legislation.gov.uk/nisr/2004/179/regulation/3) revoked (2.8.2010) by [The Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010 (S.R. 2010/227)](https://www.legislation.gov.uk/nisr/2010/227), [regs. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1), [24](https://www.legislation.gov.uk/nisr/2010/227/regulation/24)
+[^c-07f3399ee322ebea802b3a6067e87471]: Textual amendment: [Regs. 3-15](https://www.legislation.gov.uk/nisr/2004/179/regulation/3) revoked (2.8.2010) by [The Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010 (S.R. 2010/227)](https://www.legislation.gov.uk/nisr/2010/227), [regs. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1), [24](https://www.legislation.gov.uk/nisr/2010/227/regulation/24)
 
-[^key-3a1ea6cda3ae5af36788d1010f28b22b]: Textual amendment: [Regs. 16-22](https://www.legislation.gov.uk/nisr/2004/179/regulation/16) revoked (2.8.2010) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) Regulations (Northern Ireland) 2010 (S.R. 2010/228)](https://www.legislation.gov.uk/nisr/2010/228), [regs. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1), [16](https://www.legislation.gov.uk/nisr/2010/228/regulation/16)
+[^c-3a1ea6cda3ae5af36788d1010f28b22b]: Textual amendment: [Regs. 16-22](https://www.legislation.gov.uk/nisr/2004/179/regulation/16) revoked (2.8.2010) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) Regulations (Northern Ireland) 2010 (S.R. 2010/228)](https://www.legislation.gov.uk/nisr/2010/228), [regs. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1), [16](https://www.legislation.gov.uk/nisr/2010/228/regulation/16)
 
-[^key-658ecb772ec8f1dea5f61e45f0748f98]: Textual amendment: [Regs. 23-29](https://www.legislation.gov.uk/nisr/2004/179/regulation/23) revoked (2.8.2010) by [The Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010 (S.R. 2010/227)](https://www.legislation.gov.uk/nisr/2010/227), [regs. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1), [24](https://www.legislation.gov.uk/nisr/2010/227/regulation/24)
+[^c-658ecb772ec8f1dea5f61e45f0748f98]: Textual amendment: [Regs. 23-29](https://www.legislation.gov.uk/nisr/2004/179/regulation/23) revoked (2.8.2010) by [The Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010 (S.R. 2010/227)](https://www.legislation.gov.uk/nisr/2010/227), [regs. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1), [24](https://www.legislation.gov.uk/nisr/2010/227/regulation/24)
 
-[^key-1ab82288b0c226c2d4f0b25c44a66fe7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2004/179/schedule/1) revoked (2.8.2010) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) Regulations (Northern Ireland) 2010 (S.R. 2010/228)](https://www.legislation.gov.uk/nisr/2010/228), [regs. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1), [16](https://www.legislation.gov.uk/nisr/2010/228/regulation/16)
+[^c-1ab82288b0c226c2d4f0b25c44a66fe7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2004/179/schedule/1) revoked (2.8.2010) by [The Motor Vehicles (Driving Instruction) (Trainee Licence) Regulations (Northern Ireland) 2010 (S.R. 2010/228)](https://www.legislation.gov.uk/nisr/2010/228), [regs. 1](https://www.legislation.gov.uk/nisr/2010/228/regulation/1), [16](https://www.legislation.gov.uk/nisr/2010/228/regulation/16)
 
-[^key-5ad6007166f3e44e50f662c378325d99]: Textual amendment: [Schs. 2-4](https://www.legislation.gov.uk/nisr/2004/179/schedule/2) revoked (2.8.2010) by [The Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010 (S.R. 2010/227)](https://www.legislation.gov.uk/nisr/2010/227), [regs. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1), [24](https://www.legislation.gov.uk/nisr/2010/227/regulation/24)
+[^c-5ad6007166f3e44e50f662c378325d99]: Textual amendment: [Schs. 2-4](https://www.legislation.gov.uk/nisr/2004/179/schedule/2) revoked (2.8.2010) by [The Motor Vehicles (Driving Instruction) Regulations (Northern Ireland) 2010 (S.R. 2010/227)](https://www.legislation.gov.uk/nisr/2010/227), [regs. 1](https://www.legislation.gov.uk/nisr/2010/227/regulation/1), [24](https://www.legislation.gov.uk/nisr/2010/227/regulation/24)
 
-[^key-c1242824fee1819a5983e0bd84e658ea]: Commencement: Sch. 5 Pt. I in operation at 5.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/179/regulation/1)
+[^c-c1242824fee1819a5983e0bd84e658ea]: Commencement: Sch. 5 Pt. I in operation at 5.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/179/regulation/1)
 
-[^key-5581b13804f8bfadda678c11e48f16a6]: Commencement: Sch. 5 para. 1 in operation at 5.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/179/regulation/1)
+[^c-5581b13804f8bfadda678c11e48f16a6]: Commencement: Sch. 5 para. 1 in operation at 5.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/179/regulation/1)
 
-[^key-50e15df4a69086938515cd4114cbaa5a]: Commencement: Sch. 5 para. 2 in operation at 5.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/179/regulation/1)
+[^c-50e15df4a69086938515cd4114cbaa5a]: Commencement: Sch. 5 para. 2 in operation at 5.5.2004, see [reg. 1](https://www.legislation.gov.uk/nisr/2004/179/regulation/1)

@@ -33,7 +33,7 @@ summary: ''
 
 National Assistance Services
 
-The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2019 (revoked)[^key-e2f6d6a84a028670824e2a3e9dc4e2fd]
+The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2019 (revoked)[^c-e2f6d6a84a028670824e2a3e9dc4e2fd]
 
 Made
 
@@ -47,28 +47,28 @@ Coming into force
 
 8th April 2019
 
-[^key-e2f6d6a84a028670824e2a3e9dc4e2fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2f6d6a84a028670824e2a3e9dc4e2fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-e2f6d6a84a028670824e2a3e9dc4e2fd]
+## 1. Citation, commencement and extent[^c-e2f6d6a84a028670824e2a3e9dc4e2fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Sum needed for personal requirements[^key-e2f6d6a84a028670824e2a3e9dc4e2fd]
+## 2. Sum needed for personal requirements[^c-e2f6d6a84a028670824e2a3e9dc4e2fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-e2f6d6a84a028670824e2a3e9dc4e2fd]
+## 3. Revocation[^c-e2f6d6a84a028670824e2a3e9dc4e2fd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e2f6d6a84a028670824e2a3e9dc4e2fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2f6d6a84a028670824e2a3e9dc4e2fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-e2f6d6a84a028670824e2a3e9dc4e2fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e2f6d6a84a028670824e2a3e9dc4e2fd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e2f6d6a84a028670824e2a3e9dc4e2fd]: Textual amendment: Regulations revoked (6.4.2020) by [The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2020 (S.S.I. 2020/56)](https://www.legislation.gov.uk/ssi/2020/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/56/regulation/1), [3](https://www.legislation.gov.uk/ssi/2020/56/regulation/3)
+[^c-e2f6d6a84a028670824e2a3e9dc4e2fd]: Textual amendment: Regulations revoked (6.4.2020) by [The National Assistance (Sums for Personal Requirements) (Scotland) Regulations 2020 (S.S.I. 2020/56)](https://www.legislation.gov.uk/ssi/2020/56), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2020/56/regulation/1), [3](https://www.legislation.gov.uk/ssi/2020/56/regulation/3)

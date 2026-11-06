@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Extension of financial year of Police and Crime Commissioner and Chief Constable for West Yorkshire[^key-81363d79fd00b4bf4f115b46f18e2a73]
+## 41. Extension of financial year of Police and Crime Commissioner and Chief Constable for West Yorkshire[^c-81363d79fd00b4bf4f115b46f18e2a73]
 
 *Extent: E+W*
 
@@ -39,7 +39,7 @@ to prepare a statement of accounts from that date for the period which ends on 9
 
 ## Annotations
 
-[^key-81363d79fd00b4bf4f115b46f18e2a73]: Commencement: Art. 41 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
+[^c-81363d79fd00b4bf4f115b46f18e2a73]: Commencement: Art. 41 in force at 30.1.2021, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2)
 
 [^c24434031]: Marginal citation: [2014 c. 2](https://www.legislation.gov.uk/ukpga/2014/2).
 

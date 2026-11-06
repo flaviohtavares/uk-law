@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34A. Restriction on exercise of certain powers except through a taxable body[^key-4771f64ee2bd49672d3f3610ec2afa48]
+## 34A. Restriction on exercise of certain powers except through a taxable body[^c-4771f64ee2bd49672d3f3610ec2afa48]
 
 *Extent: E+W+S*
 
@@ -42,11 +42,11 @@ summary: ''
 
 - “**company**” means—
   - (a) a company within the meaning given by section 1(1) of the Companies Act 2006, or
-  - (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or deemed to be registered under[^key-fad3e6ad1a7f3a10d1be46055729bcee] the Industrial and Provident Societies Act (Northern Ireland) 1969, and
+  - (b) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014 or a society registered or deemed to be registered under[^c-fad3e6ad1a7f3a10d1be46055729bcee] the Industrial and Provident Societies Act (Northern Ireland) 1969, and
 - “**specified activity**” means an activity specified in an order made by the Secretary of State with the consent of the Treasury.
 
 ## Annotations
 
-[^key-4771f64ee2bd49672d3f3610ec2afa48]: Textual amendment: S. 34A inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 224(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/224/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(cc)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/cc) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-4771f64ee2bd49672d3f3610ec2afa48]: Textual amendment: S. 34A inserted (15.1.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 224(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/224/2), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(cc)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/cc) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-fad3e6ad1a7f3a10d1be46055729bcee]: Textual amendment: Words in s. 34A(4) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 67](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/67) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-fad3e6ad1a7f3a10d1be46055729bcee]: Textual amendment: Words in s. 34A(4) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 67](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/67) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))

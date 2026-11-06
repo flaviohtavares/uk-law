@@ -26,14 +26,14 @@ summary: ''
 
 (3) An academic authority is required to send an attendance confirmation to the Secretary of State.
 
-(4) The Secretary of State must not pay the first instalment or, where it has been determined not to pay support under Part 5 by instalments, make any payment of support under that Part to any person[^key-2c9f2bb4d0df8b8159f018c8a0945ca2] before the Secretary of State has received the attendance confirmation unless an exception applies.
+(4) The Secretary of State must not pay the first instalment or, where it has been determined not to pay support under Part 5 by instalments, make any payment of support under that Part to any person[^c-2c9f2bb4d0df8b8159f018c8a0945ca2] before the Secretary of State has received the attendance confirmation unless an exception applies.
 
 (5) An exception applies if—
 
 - (a) a disabled students' allowance is payable in which case that particular grant may be paid before the Secretary of State has received an attendance confirmation; or
 - (b) the Secretary of State has determined that owing to exceptional circumstances it would be appropriate to make a payment without receiving an attendance confirmation.
 
-(6) Payments of support under Part 5 are to be made in such manner as the Secretary of State considers appropriate and the Secretary of State may make it a condition of entitlement to payment that the eligible student , or in the case of childcare grant, a person seeking payment of prescribed childcare charges[^key-63c2fcaefc394eb93d1b46070cd14605] must provide the Secretary of State or such person as the Secretary of State specifies[^key-a63e81d3a2fb50683db2827ed3a8ca20] with particulars of a bank or building society account in the United Kingdom into which payments may be made by electronic transfer.
+(6) Payments of support under Part 5 are to be made in such manner as the Secretary of State considers appropriate and the Secretary of State may make it a condition of entitlement to payment that the eligible student , or in the case of childcare grant, a person seeking payment of prescribed childcare charges[^c-63c2fcaefc394eb93d1b46070cd14605] must provide the Secretary of State or such person as the Secretary of State specifies[^c-a63e81d3a2fb50683db2827ed3a8ca20] with particulars of a bank or building society account in the United Kingdom into which payments may be made by electronic transfer.
 
 (7) Where a final assessment cannot be made on the basis of the information provided by the student, the Secretary of State may make a provisional assessment and payment of support under Part 5.
 
@@ -74,7 +74,7 @@ summary: ''
 - (c) if the amount of the decrease is greater than the amount of that grant remaining to be paid the latter amount is reduced to nil and the balance subtracted from any other grant for living and other costs for which the student qualifies in respect of the academic year;
 - (d) any remaining overpayment is recoverable in accordance with Chapter 5 of this Part.
 
-(21)[^key-72cbbb9c01bd33fd46a84494ae1c2221] In the case of childcare grant—
+(21)[^c-72cbbb9c01bd33fd46a84494ae1c2221] In the case of childcare grant—
 
 - (a) the general rule is that an application from a person seeking payment of prescribed childcare charges must reach the Secretary of State during the period of 13 weeks beginning with the day immediately following the last day of the week in which the student incurred those prescribed childcare charges;
 - (b) the general rule does not apply where—
@@ -85,10 +85,10 @@ summary: ''
 
 ## Annotations
 
-[^key-2c9f2bb4d0df8b8159f018c8a0945ca2]: Textual amendment: Words in [reg. 109(4)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/109/4) substituted (with application in accordance with reg. 1(2)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) Regulations 2019 (S.I. 2019/142)](https://www.legislation.gov.uk/uksi/2019/142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/142/regulation/21/a)
+[^c-2c9f2bb4d0df8b8159f018c8a0945ca2]: Textual amendment: Words in [reg. 109(4)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/109/4) substituted (with application in accordance with reg. 1(2)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) Regulations 2019 (S.I. 2019/142)](https://www.legislation.gov.uk/uksi/2019/142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/1), [21(a)](https://www.legislation.gov.uk/uksi/2019/142/regulation/21/a)
 
-[^key-63c2fcaefc394eb93d1b46070cd14605]: Textual amendment: Words in [reg. 109(6)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/109/6) inserted (with application in accordance with reg. 1(2)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) Regulations 2019 (S.I. 2019/142)](https://www.legislation.gov.uk/uksi/2019/142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/1), [21(b)(i)](https://www.legislation.gov.uk/uksi/2019/142/regulation/21/b/i)
+[^c-63c2fcaefc394eb93d1b46070cd14605]: Textual amendment: Words in [reg. 109(6)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/109/6) inserted (with application in accordance with reg. 1(2)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) Regulations 2019 (S.I. 2019/142)](https://www.legislation.gov.uk/uksi/2019/142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/1), [21(b)(i)](https://www.legislation.gov.uk/uksi/2019/142/regulation/21/b/i)
 
-[^key-a63e81d3a2fb50683db2827ed3a8ca20]: Textual amendment: Words in [reg. 109(6)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/109/6) inserted (with application in accordance with reg. 1(2)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) Regulations 2019 (S.I. 2019/142)](https://www.legislation.gov.uk/uksi/2019/142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/1), [21(b)(ii)](https://www.legislation.gov.uk/uksi/2019/142/regulation/21/b/ii)
+[^c-a63e81d3a2fb50683db2827ed3a8ca20]: Textual amendment: Words in [reg. 109(6)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/109/6) inserted (with application in accordance with reg. 1(2)(5) of the amending S.I.) by [The Education (Student Fees, Awards and Support etc.) (Amendment) Regulations 2019 (S.I. 2019/142)](https://www.legislation.gov.uk/uksi/2019/142), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/142/regulation/1/1), [21(b)(ii)](https://www.legislation.gov.uk/uksi/2019/142/regulation/21/b/ii)
 
-[^key-72cbbb9c01bd33fd46a84494ae1c2221]: Textual amendment: [Reg. 109(21)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/109/21)[(22)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/109/22) inserted (9.3.2026) by [The Education (Student Fees, Awards, Support and Loan Repayments) (Amendment) Regulations 2026 (S.I. 2026/130)](https://www.legislation.gov.uk/uksi/2026/130), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/130/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2026/130/regulation/7)
+[^c-72cbbb9c01bd33fd46a84494ae1c2221]: Textual amendment: [Reg. 109(21)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/109/21)[(22)](https://www.legislation.gov.uk/uksi/2011/1986/regulation/109/22) inserted (9.3.2026) by [The Education (Student Fees, Awards, Support and Loan Repayments) (Amendment) Regulations 2026 (S.I. 2026/130)](https://www.legislation.gov.uk/uksi/2026/130), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2026/130/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2026/130/regulation/7)

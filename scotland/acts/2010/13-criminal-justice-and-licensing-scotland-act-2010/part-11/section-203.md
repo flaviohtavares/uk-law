@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 203. Modification of enactments[^key-055db07f61766a94577d37cd59219ac0]
+## 203. Modification of enactments[^c-055db07f61766a94577d37cd59219ac0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Schedule 7 modifies enactments.
 
 ## Annotations
 
-[^key-055db07f61766a94577d37cd59219ac0]: Commencement: [S. 203](https://www.legislation.gov.uk/asp/2010/13/section/203) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-055db07f61766a94577d37cd59219ac0]: Commencement: [S. 203](https://www.legislation.gov.uk/asp/2010/13/section/203) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Calculation of profit on cost once (“POCO”) adjustment[^key-597f9a7842556061d45f4f1a735eb137]
+## 12. Calculation of profit on cost once (“POCO”) adjustment[^c-597f9a7842556061d45f4f1a735eb137]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-597f9a7842556061d45f4f1a735eb137]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/3337/regulation/12) omitted (1.4.2024) by virtue of [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/420/regulation/15)
+[^c-597f9a7842556061d45f4f1a735eb137]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2014/3337/regulation/12) omitted (1.4.2024) by virtue of [The Single Source Contract (Amendment) Regulations 2024 (S.I. 2024/420)](https://www.legislation.gov.uk/uksi/2024/420), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/420/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2024/420/regulation/15)

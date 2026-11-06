@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**39.**[^key-6a82e27c0a321f038a87663f4735af0a] (1) In section 6 (children’s pension: beneficiaries), subsection (4) is amended as follows.
+**39.**[^c-6a82e27c0a321f038a87663f4735af0a] (1) In section 6 (children’s pension: beneficiaries), subsection (4) is amended as follows.
 
 (2) After “married” insert “or a person who at the time of the death of the deceased was a civil partner”.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a82e27c0a321f038a87663f4735af0a]: Commencement: Art. 39 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-6a82e27c0a321f038a87663f4735af0a]: Commencement: Art. 39 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

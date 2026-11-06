@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Financial penalties[^key-4cdc9aa8d14d7c9f30d8ce050235ae30]
+## 105. Financial penalties[^c-4cdc9aa8d14d7c9f30d8ce050235ae30]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ for the purposes of an investigation.
 
 ## Annotations
 
-[^key-4cdc9aa8d14d7c9f30d8ce050235ae30]: Commencement: S. 105 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-4cdc9aa8d14d7c9f30d8ce050235ae30]: Commencement: S. 105 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-No insurance business transfer scheme [^key-843246edbff5512663e186d4b8c84eb9]... is to have effect unless an order has been made in relation to it under section 111(1).
+No insurance business transfer scheme [^c-843246edbff5512663e186d4b8c84eb9]... is to have effect unless an order has been made in relation to it under section 111(1).
 
 ## Annotations
 
@@ -30,4 +30,4 @@ No insurance business transfer scheme [^key-843246edbff5512663e186d4b8c84eb9]...
 
 [^c1709281]: Commencement: S. 104 partly in force; s. 104 not in force at Royal Assent see s. 431(2); s. 104 in force for specified purposes at 1.12.2001 by [S.I. 2001/3538](https://www.legislation.gov.uk/uksi/2001/3538), [art. 2(1)(2)](https://www.legislation.gov.uk/uksi/2001/3538/article/2/1/2)
 
-[^key-843246edbff5512663e186d4b8c84eb9]: Textual amendment: Words in s. 104 omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/22/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-843246edbff5512663e186d4b8c84eb9]: Textual amendment: Words in s. 104 omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 22(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/22/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

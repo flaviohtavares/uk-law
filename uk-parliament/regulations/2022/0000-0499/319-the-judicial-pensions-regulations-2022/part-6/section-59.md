@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Exercising an option under this Chapter[^key-27f9941d089ab7858363dac750142a13]
+## 59. Exercising an option under this Chapter[^c-27f9941d089ab7858363dac750142a13]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A member may exercise an option under this Chapter by notice (a “commutation n
 
 ## Annotations
 
-[^key-27f9941d089ab7858363dac750142a13]: Commencement: Reg. 59 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-27f9941d089ab7858363dac750142a13]: Commencement: Reg. 59 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

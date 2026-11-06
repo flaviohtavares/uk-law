@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 4. Limits of deviation[^key-20e1e5ec5c88216f8cc432ba37a5d994]
+## 4. Limits of deviation[^c-20e1e5ec5c88216f8cc432ba37a5d994]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In carrying out and maintaining the authorised development the undertaker may—
 
 ## Annotations
 
-[^key-20e1e5ec5c88216f8cc432ba37a5d994]: Commencement: Art. 4 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)
+[^c-20e1e5ec5c88216f8cc432ba37a5d994]: Commencement: Art. 4 in force at 19.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/818/article/1)

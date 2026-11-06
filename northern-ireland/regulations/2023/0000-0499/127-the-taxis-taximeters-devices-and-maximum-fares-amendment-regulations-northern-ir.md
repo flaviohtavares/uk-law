@@ -44,11 +44,11 @@ Coming into operation -
 
 The Department for Infrastructure[^f00001], makes the following Regulations in exercise of the powers conferred by sections 18(1), 30(1) and 56(1) of the Taxis Act (Northern Ireland) 2008[^f00002] and now vested in it[^f00003].
 
-## 1. Citation and commencement[^key-37ac91638e561148baa6a95a818b56eb]
+## 1. Citation and commencement[^c-37ac91638e561148baa6a95a818b56eb]
 
 These Regulations may be cited as the Taxis (Taximeters, Devices and Maximum Fares) (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 1st October 2023.
 
-## 2. Amendment of the Taxis (Taximeters, Devices and Maximum Fares) Regulations[^key-5d3dc699b674d613a92218ac43f90391]
+## 2. Amendment of the Taxis (Taximeters, Devices and Maximum Fares) Regulations[^c-5d3dc699b674d613a92218ac43f90391]
 
 In regulation 4 of the Taxis (Taximeters, Devices and Maximum Fares) Regulations (Northern Ireland) 2015[^f00004] (application), in paragraph (2) for “£35.00” substitute “£42.00”.
 
@@ -78,8 +78,8 @@ An Explanatory Memorandum and Regulatory Impact Assessment have been produced an
 
 [^f00003]: Footnote: See Article 8(1)(b) of, and Part 2 of Schedule 5 to, the Departments (Transfer of Functions) Order (Northern Ireland) 2016 ([S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76))
 
-[^key-37ac91638e561148baa6a95a818b56eb]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/127/regulation/1)
+[^c-37ac91638e561148baa6a95a818b56eb]: Commencement: Reg. 1 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/127/regulation/1)
 
-[^key-5d3dc699b674d613a92218ac43f90391]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/127/regulation/1)
+[^c-5d3dc699b674d613a92218ac43f90391]: Commencement: Reg. 2 in operation at 1.10.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/127/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2015 No. 394](https://www.legislation.gov.uk/nisr/2015/394); to which there are no relevant amendments

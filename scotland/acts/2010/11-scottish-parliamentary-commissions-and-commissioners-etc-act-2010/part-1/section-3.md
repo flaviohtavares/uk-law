@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Status of Commissioner and Commissioner’s staff[^key-a37cc346b4f9622989edb6ca42985944]
+## 3. Status of Commissioner and Commissioner’s staff[^c-a37cc346b4f9622989edb6ca42985944]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a37cc346b4f9622989edb6ca42985944]: Textual amendment: S. 3 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/3)
+[^c-a37cc346b4f9622989edb6ca42985944]: Textual amendment: S. 3 substituted (1.7.2013) by [The Public Services Reform (Commissioner for Ethical Standards in Public Life in Scotland etc.) Order 2013 (S.S.I. 2013/197)](https://www.legislation.gov.uk/ssi/2013/197), [art. 1](https://www.legislation.gov.uk/ssi/2013/197/article/1), [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2013/197/schedule/1/paragraph/3)

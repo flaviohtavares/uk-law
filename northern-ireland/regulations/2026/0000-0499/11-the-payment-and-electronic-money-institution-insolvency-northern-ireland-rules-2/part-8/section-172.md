@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 172. Notice of resignation[^key-c8376f3b5e49000dff254c76e5fccf1c]
+## 172. Notice of resignation[^c-c8376f3b5e49000dff254c76e5fccf1c]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8376f3b5e49000dff254c76e5fccf1c]: Commencement: [Rule 172](https://www.legislation.gov.uk/nisr/2026/11/rule/172) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-c8376f3b5e49000dff254c76e5fccf1c]: Commencement: [Rule 172](https://www.legislation.gov.uk/nisr/2026/11/rule/172) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

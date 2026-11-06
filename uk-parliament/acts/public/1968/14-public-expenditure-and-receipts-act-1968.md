@@ -43,13 +43,13 @@ An Act to increase contributions payable under the National Insurance Act 1965 a
 
 *Extent: E+W+S*
 
-## 4. Compensation to civil defence employees for loss of employment etc.[^key-b13c9d5697bf22044ed7633eaa9b5c72]
+## 4. Compensation to civil defence employees for loss of employment etc.[^c-b13c9d5697bf22044ed7633eaa9b5c72]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Increase of fees etc.[^c733278][^c733279][^key-d4c8c660c176922fc70828362897e172][^c733277]
+## 5. Increase of fees etc.[^c733278][^c733279][^c-d4c8c660c176922fc70828362897e172][^c733277]
 
 (1) With a view to securing from the fees, charges or other payments required or regulated by the enactments mentioned in column 1 of Schedule 3 to this Act a net return corresponding more nearly with the cost of the matters for which they are payable, or to dispensing with payments from which a net return cannot reasonably be expected, those enactments may be amended by an order made by the Minister specified in relation to the enactment in question in column 2 of the Schedule, so as to vary any sum specified by the enactment as the amount or maximum amount of any payment, or so as to provide that any sum payable under the enactment shall cease to be payable.
 
@@ -132,7 +132,7 @@ Variation of Fees etc.
 </tbody>
 </table>
 
-[^c733511][^M_F_ef848d40-757c-47dd-a04e-c0c0d870077c][^M_F_eb9ab088-3edb-43d9-bf56-9fa2f0ad353c][^c733513][^key-0934521aaacec9dc4262efe83982de51][^M_F_5d2dd0c9-0b74-4ffa-d041-5302e253e46f][^key-f61f025b85fca1ae314cf05c5b2f146f][^key-b461b6a3a92c7a381cb189f41ca95c82][^key-0b4f9c479e33aa8709f9aef68102ca9f][^key-0b4f9c479e33aa8709f9aef68102ca9f][^c733516][^c733517][^key-0b4f9c479e33aa8709f9aef68102ca9f][^c733515][^M_F_44bb47f9-635b-4b99-c503-ffc73470ecd9][^M_F_44bb47f9-635b-4b99-c503-ffc73470ecd9][^c733519][^c733520][^c733521][^c733522][^c733523][^M_F_2cbcff91-f9c9-4339-df48-9d0a17b05f70][^key-4adf316fc82ab663860639cc0cc27903][^key-4adf316fc82ab663860639cc0cc27903][^key-0b4f9c479e33aa8709f9aef68102ca9f][^key-0b4f9c479e33aa8709f9aef68102ca9f][^key-0b4f9c479e33aa8709f9aef68102ca9f][^c733525][^c733526][^c733527][^key-4fa80131e42284916205a44d908586d5][^c733528][^c733529][^c733530][^c733531][^key-0b4f9c479e33aa8709f9aef68102ca9f][^key-0b4f9c479e33aa8709f9aef68102ca9f]
+[^c733511][^M_F_ef848d40-757c-47dd-a04e-c0c0d870077c][^M_F_eb9ab088-3edb-43d9-bf56-9fa2f0ad353c][^c733513][^c-0934521aaacec9dc4262efe83982de51][^M_F_5d2dd0c9-0b74-4ffa-d041-5302e253e46f][^c-f61f025b85fca1ae314cf05c5b2f146f][^c-b461b6a3a92c7a381cb189f41ca95c82][^c-0b4f9c479e33aa8709f9aef68102ca9f][^c-0b4f9c479e33aa8709f9aef68102ca9f][^c733516][^c733517][^c-0b4f9c479e33aa8709f9aef68102ca9f][^c733515][^M_F_44bb47f9-635b-4b99-c503-ffc73470ecd9][^M_F_44bb47f9-635b-4b99-c503-ffc73470ecd9][^c733519][^c733520][^c733521][^c733522][^c733523][^M_F_2cbcff91-f9c9-4339-df48-9d0a17b05f70][^c-4adf316fc82ab663860639cc0cc27903][^c-4adf316fc82ab663860639cc0cc27903][^c-0b4f9c479e33aa8709f9aef68102ca9f][^c-0b4f9c479e33aa8709f9aef68102ca9f][^c-0b4f9c479e33aa8709f9aef68102ca9f][^c733525][^c733526][^c733527][^c-4fa80131e42284916205a44d908586d5][^c733528][^c733529][^c733530][^c733531][^c-0b4f9c479e33aa8709f9aef68102ca9f][^c-0b4f9c479e33aa8709f9aef68102ca9f]
 
 ## Annotations
 
@@ -146,7 +146,7 @@ Variation of Fees etc.
 
 [^c733255]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1968/14/section/3) repealed by [Education (Milk) Act 1971 (c. 74)](https://www.legislation.gov.uk/ukpga/1971/74), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/1971/74/section/1/4), [2(5)](https://www.legislation.gov.uk/ukpga/1971/74/section/2/5)
 
-[^key-b13c9d5697bf22044ed7633eaa9b5c72]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1968/14/section/4) repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2/paragraph/6), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(q)(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/q/r)
+[^c-b13c9d5697bf22044ed7633eaa9b5c72]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1968/14/section/4) repealed (14.11.2005) by [Civil Contingencies Act 2004 (c. 36)](https://www.legislation.gov.uk/ukpga/2004/36), [s. 34(1)](https://www.legislation.gov.uk/ukpga/2004/36/section/34/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2004/36/schedule/2/paragraph/6), [Sch. 3](https://www.legislation.gov.uk/ukpga/2004/36/schedule/3); [S.I. 2005/2040](https://www.legislation.gov.uk/uksi/2005/2040), [art. 3(q)(r)](https://www.legislation.gov.uk/uksi/2005/2040/article/3/q/r)
 
 [^c733278]: Subordinate legislation: S. 5: power exercised by [S.I. 1991/274](https://www.legislation.gov.uk/uksi/1991/274).
 
@@ -156,7 +156,7 @@ Variation of Fees etc.
 
     S. 5: s. 5 (with Sch. 3) power exercised (S.) (12.12.1991) by [S.I.1991/2818](https://www.legislation.gov.uk/uksi/1991/2818).
 
-[^key-d4c8c660c176922fc70828362897e172]: Modification: S. 5: transfer of functions (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/8) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-d4c8c660c176922fc70828362897e172]: Modification: S. 5: transfer of functions (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/8) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
 [^c733277]: Modification: Functions of the Minister for the Civil Service under s. 5 transferred to the Treasury by [S.I. 1981/1670](https://www.legislation.gov.uk/uksi/1981/1670), [art. 2(3)](https://www.legislation.gov.uk/uksi/1981/1670/article/2/3)(*a*), Sch.
 
@@ -196,15 +196,15 @@ Variation of Fees etc.
 
 [^c733513]: Textual amendment: Words in Sch. 3 paras. 1(a), 2 substituted (1.4.1996) by virtue of [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), [art. 5(1)](https://www.legislation.gov.uk/uksi/1996/273/article/5/1), [Sch. 2 para. 16(a)](https://www.legislation.gov.uk/uksi/1996/273/schedule/2/paragraph/16/a)
 
-[^key-0934521aaacec9dc4262efe83982de51]: Textual amendment: Words in Sch. 3 substituted (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/8) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-0934521aaacec9dc4262efe83982de51]: Textual amendment: Words in Sch. 3 substituted (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/8) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
 [^M_F_5d2dd0c9-0b74-4ffa-d041-5302e253e46f]: Textual amendment: Words in Sch. 3 omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 34(c)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/34/c); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-f61f025b85fca1ae314cf05c5b2f146f]: Textual amendment: Sch. 3: entries repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-f61f025b85fca1ae314cf05c5b2f146f]: Textual amendment: Sch. 3: entries repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
-[^key-b461b6a3a92c7a381cb189f41ca95c82]: Textual amendment: Words in Sch. 3 substituted (S.) (1.10.2006) by virtue of [Local Electoral Administration and Registration Services (Scotland) Act 2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14), [ss. 53(3)(a)(b)](https://www.legislation.gov.uk/asp/2006/14/section/53/3/a), [63(2)](https://www.legislation.gov.uk/asp/2006/14/section/63/2); [S.S.I. 2006/469](https://www.legislation.gov.uk/ssi/2006/469), [art. 2](https://www.legislation.gov.uk/ssi/2006/469/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/469/schedule/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/469/article/4))
+[^c-b461b6a3a92c7a381cb189f41ca95c82]: Textual amendment: Words in Sch. 3 substituted (S.) (1.10.2006) by virtue of [Local Electoral Administration and Registration Services (Scotland) Act 2006 (asp 14)](https://www.legislation.gov.uk/asp/2006/14), [ss. 53(3)(a)(b)](https://www.legislation.gov.uk/asp/2006/14/section/53/3/a), [63(2)](https://www.legislation.gov.uk/asp/2006/14/section/63/2); [S.S.I. 2006/469](https://www.legislation.gov.uk/ssi/2006/469), [art. 2](https://www.legislation.gov.uk/ssi/2006/469/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2006/469/schedule/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2006/469/article/4))
 
-[^key-0b4f9c479e33aa8709f9aef68102ca9f]: Textual amendment: Sch. 3: entries repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 2
+[^c-0b4f9c479e33aa8709f9aef68102ca9f]: Textual amendment: Sch. 3: entries repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/9) Group 2
 
 [^c733516]: Textual amendment: The entry relating to the [Young Persons (Employment) Act 1938 (c.69)](https://www.legislation.gov.uk/ukpga/1938/69), [s. 5](https://www.legislation.gov.uk/ukpga/1938/69/section/5) repealed by [Employment Act 1989 (c.38, SIF 43:1)](https://www.legislation.gov.uk/ukpga/1989/38), [s. 29(4)](https://www.legislation.gov.uk/ukpga/1989/38/section/29/4), [Sch. 7 Pt. II](https://www.legislation.gov.uk/ukpga/1989/38/schedule/7/part/II)
 
@@ -226,7 +226,7 @@ Variation of Fees etc.
 
 [^M_F_2cbcff91-f9c9-4339-df48-9d0a17b05f70]: Textual amendment: Words in Sch. 3 omitted (12.7.2016) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 15 para. 34(g)](https://www.legislation.gov.uk/ukpga/2016/19/schedule/15/paragraph/34/g); [S.I. 2016/603](https://www.legislation.gov.uk/uksi/2016/603), [reg. 3(w)](https://www.legislation.gov.uk/uksi/2016/603/regulation/3/w)
 
-[^key-4adf316fc82ab663860639cc0cc27903]: Textual amendment: Sch. 3: entry repealed (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/10), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-4adf316fc82ab663860639cc0cc27903]: Textual amendment: Sch. 3: entry repealed (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 10](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/10), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
 [^c733525]: Textual amendment: Sch. 3 para. 6: words repealed (E.W.) by [Housing and Planning Act 1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 49(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/49/2), [Sch. 12 Pt. III](https://www.legislation.gov.uk/ukpga/1986/63/schedule/12/part/III)
 
@@ -234,7 +234,7 @@ Variation of Fees etc.
 
 [^c733527]: Textual amendment: Sch. 3 para. 6: words repealed (S.) (1.6.1996) by [Housing and Planning Act 1986 (c. 63)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 53(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/53/2), [Sch. 12 Pt. IV](https://www.legislation.gov.uk/ukpga/1986/63/schedule/12/part/IV); [S.I. 1996/1276](https://www.legislation.gov.uk/uksi/1996/1276), [art. 2(b)](https://www.legislation.gov.uk/uksi/1996/1276/article/2/b)
 
-[^key-4fa80131e42284916205a44d908586d5]: Textual amendment: Sch. 3: entry repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-4fa80131e42284916205a44d908586d5]: Textual amendment: Sch. 3: entry repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c733528]: Textual amendment: Sch. 3 para. 7(a) repealed (25. 09. 1991) by [Planning and Compensation Act 1991 (c. 34, SIF 123:2)](https://www.legislation.gov.uk/ukpga/1991/34), [ss. 60(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/60/6), [84(6)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/6), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/1991/34/schedule/12/paragraph/3), [Sch. 19 Pt. IV](https://www.legislation.gov.uk/ukpga/1991/34/schedule/19/part/IV) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S. I. 1991/2092](https://www.legislation.gov.uk/uksi/1991/2092), [art. 3](https://www.legislation.gov.uk/uksi/1991/2092/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1991/2092/schedule/1).
 

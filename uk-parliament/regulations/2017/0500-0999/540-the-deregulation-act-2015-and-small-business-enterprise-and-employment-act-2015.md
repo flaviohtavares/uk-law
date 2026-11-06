@@ -44,19 +44,19 @@ The Secretary of State for Business, Energy and Industrial Strategy makes these 
 
 In accordance with section 112(3) of the Deregulation Act 2015 and section 159(3) of the Small Business, Enterprise and Employment Act 2015, a draft of these Regulations was laid before Parliament and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-f722dc6f7c3e9235956d7c7238bf0f0f]
+## 1. Citation and commencement[^c-f722dc6f7c3e9235956d7c7238bf0f0f]
 
 These Regulations may be cited as the Deregulation Act 2015 and Small Business, Enterprise and Employment Act 2015 (Consequential Amendments) (Savings) Regulations 2017 and come into force on 6th April 2017.
 
-## 2. Consequential amendments to primary legislation[^key-10298bc624d5b4e1664f459815178b6b]
+## 2. Consequential amendments to primary legislation[^c-10298bc624d5b4e1664f459815178b6b]
 
 Schedule 1 has effect.
 
-## 3. Consequential amendments to subordinate legislation[^key-620a33ff553e506744bf7fe01f85ef1c]
+## 3. Consequential amendments to subordinate legislation[^c-620a33ff553e506744bf7fe01f85ef1c]
 
 Schedule 2 has effect.
 
-## 4. Savings for certain insolvency rules[^key-d1324cd4470cbb264181e1df043e9db2]
+## 4. Savings for certain insolvency rules[^c-d1324cd4470cbb264181e1df043e9db2]
 
 (1) In this regulation, “the relevant amendments” means the amendments made by—
 
@@ -66,7 +66,7 @@ Schedule 2 has effect.
 (2) The Insolvency Act 1986[^f00004], insofar as it applies to proceedings under the following instruments, continues to have effect without the relevant amendments for the purposes of the application of those instruments—
 
 - (a) the Railway Administration Order 2001[^f00005];
-- (b)[^key-8872d45ae918ddbb5186e4b370bc5184] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-8872d45ae918ddbb5186e4b370bc5184] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the Energy Act 2004[^f00007];
 - (d) the Energy Administration Rules 2005[^f00008];
 - (e) the PPP Administration Order Rules 2007[^f00009];
@@ -88,7 +88,7 @@ Department for Business, Energy and Industrial Strategy
 
 Regulation 2
 
-### 1. Administration of Justice Act 1985[^key-f045686b62ae28ad64a582993843b9dd]
+### 1. Administration of Justice Act 1985[^c-f045686b62ae28ad64a582993843b9dd]
 
 (1) The Administration of Justice Act 1985[^f00015] is amended as follows.
 
@@ -104,7 +104,7 @@ Regulation 2
 
 .
 
-### 2. Companies Act 1989[^key-c8e177dc8ee2d8e047ebae49722d5ec1]
+### 2. Companies Act 1989[^c-c8e177dc8ee2d8e047ebae49722d5ec1]
 
 (1) The Companies Act 1989[^f00019] is amended as follows.
 
@@ -117,7 +117,7 @@ Regulation 2
 
 (3) In subsection (4)(b) of section 163 (net sum payable on completion of default proceedings), for “a meeting of creditors had been summoned under section 98” substitute “a statement as to the affairs of the company had been made out and sent under section 99”.
 
-### 3. Pensions Act 1995[^key-c89c624948000a9416f2046030b08437]
+### 3. Pensions Act 1995[^c-c89c624948000a9416f2046030b08437]
 
 (1) The Pensions Act 1995[^f00021] is amended as follows.
 
@@ -127,7 +127,7 @@ Regulation 2
 >   - (i) is stayed other than in prescribed circumstances, or
 >   - (ii) becomes a creditors’ voluntary winding up under section 96 of that Act (conversion to creditors’ voluntary winding up),
 
-### 4. Pensions Act 2004[^key-2717005f0e9bf9721abc64f801d87d18]
+### 4. Pensions Act 2004[^c-2717005f0e9bf9721abc64f801d87d18]
 
 (1) Section 121 of the Pensions Act 2004[^f00023] (insolvency events etc) is amended as follows.
 
@@ -143,7 +143,7 @@ Regulation 2
 
 (5) In subsection (4)(c), for “meetings of” to the end substitute “the proposal should be considered by a meeting of the members of the partnership and by the partnership’s creditors;”.
 
-### 5. Legal Services Act 2007[^key-c2b06d97f2cdf4d726fe6b5b76df3d92]
+### 5. Legal Services Act 2007[^c-c2b06d97f2cdf4d726fe6b5b76df3d92]
 
 (1) Schedule 14 to the Legal Services Act 2007 (licensing authority’s powers of intervention)[^f00024] is amended as follows.
 
@@ -153,7 +153,7 @@ Regulation 2
 
 .
 
-### 6. Postal Services Act 2011[^key-f72bff337e33b98a41a8bba1f5751247]
+### 6. Postal Services Act 2011[^c-f72bff337e33b98a41a8bba1f5751247]
 
 (1) Part 1 of Schedule 10 to the Postal Services Act 2011[^f00025] (conduct of postal administration: application with modifications of Schedule B1 to the Insolvency Act 1986) is amended as follows.
 
@@ -163,11 +163,11 @@ Regulation 2
 
 Regulation 3
 
-### 1. Administration of Insolvent Estates of Deceased Persons Order 1986[^key-01868f2864c83f17176e31f2cd6a4016]
+### 1. Administration of Insolvent Estates of Deceased Persons Order 1986[^c-01868f2864c83f17176e31f2cd6a4016]
 
 (1) The Administration of Insolvent Estates of Deceased Persons Order 1986[^f00026] is amended as follows.
 
-(2)[^key-bc038c5d2cdae20a5c8c256343829cce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-bc038c5d2cdae20a5c8c256343829cce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For paragraph 15 of Part II of Schedule 1, substitute—
 
@@ -222,17 +222,17 @@ Regulation 3
 >
 > .
 
-### 2. Insolvent Partnerships Order 1994[^key-94218a938b3b89d3a60ca2c8154a2e9e]
+### 2. Insolvent Partnerships Order 1994[^c-94218a938b3b89d3a60ca2c8154a2e9e]
 
 The Insolvent Partnerships Order 1994[^f00037] is amended as follows.
 
-**3.**[^key-bb58c6f768b9fa0d05e832a9e5595656] (1) Before article 12, insert—
+**3.**[^c-bb58c6f768b9fa0d05e832a9e5595656] (1) Before article 12, insert—
 
 > **11A. Decision procedure in insolvency proceedings in relation to insolvent partnerships**
 >
 > Sections 246ZE, 246ZF, 379ZA and 379ZB of the Act[^f00038] apply in insolvency proceedings in relation to insolvent partnerships with the modifications set out in Schedule 7A to this Order.
 
-**4.**[^key-fa86c1e48cd07b3aadd7a44464226bbd] (1) Part 1 of Schedule 1 (modified provisions of sections 1 to 7B of the Insolvency Act 1986) is amended as follows.
+**4.**[^c-fa86c1e48cd07b3aadd7a44464226bbd] (1) Part 1 of Schedule 1 (modified provisions of sections 1 to 7B of the Insolvency Act 1986) is amended as follows.
 
 (2) In the substituted version of section 2(2) (nominee’s report on partnership’s proposal), for paragraphs (b) and (c) substitute—
 
@@ -349,7 +349,7 @@ The Insolvent Partnerships Order 1994[^f00037] is amended as follows.
 
 (8) In section 7(2)(a) for “given at one or both of the meetings summoned under” substitute “of the voluntary arrangement by the members of the partnership or its creditors (or both) pursuant to”.
 
-**5.**[^key-8c4c6d455d1dc1c8ccdddaaca76bb15a] (1) Part 2 of Schedule 1 (modified provisions of Schedule A1 to the Insolvency Act 1986) is amended as follows.
+**5.**[^c-8c4c6d455d1dc1c8ccdddaaca76bb15a] (1) Part 2 of Schedule 1 (modified provisions of Schedule A1 to the Insolvency Act 1986) is amended as follows.
 
 (2) In paragraph 37 as there modified—
 
@@ -369,7 +369,7 @@ The Insolvent Partnerships Order 1994[^f00037] is amended as follows.
 
   .
 
-**6.**[^key-aa6295cb3adb9c81ea10b7d3012a7e20] (1) Schedule 2 (modified provisions of Part 2 of, and Schedule B1 to, the Insolvency Act 1986)[^f00039] is amended as follows.
+**6.**[^c-aa6295cb3adb9c81ea10b7d3012a7e20] (1) Schedule 2 (modified provisions of Part 2 of, and Schedule B1 to, the Insolvency Act 1986)[^f00039] is amended as follows.
 
 (2) In paragraph 20, in paragraph 49(4)(b) as there modified, after “partnership” insert “, other than an opted-out creditor,”;
 
@@ -396,7 +396,7 @@ The Insolvent Partnerships Order 1994[^f00037] is amended as follows.
 
 (6) In paragraph 41, in paragraph 111 as there modified, omit the definitions of “correspondence” and “creditors meeting”.
 
-**7.**[^key-b8bce79c3029d07848756b8c5c3436c6] (1) Schedule 3 is amended as follows.
+**7.**[^c-b8bce79c3029d07848756b8c5c3436c6] (1) Schedule 3 is amended as follows.
 
 (2) After paragraph 8 insert—
 
@@ -410,7 +410,7 @@ The Insolvent Partnerships Order 1994[^f00037] is amended as follows.
 
 (4) In paragraph 10, in Schedule 4 as there modified, omit the heading to Part 2 of the Schedule.
 
-**8.**[^key-4bf9d3ec9a0af5eb77ba9ee7791c65c0] (1) Schedule 4 (provisions which apply with modifications to winding up in certain circumstances) is amended as follows.
+**8.**[^c-4bf9d3ec9a0af5eb77ba9ee7791c65c0] (1) Schedule 4 (provisions which apply with modifications to winding up in certain circumstances) is amended as follows.
 
 (2) In paragraph 12—
 
@@ -527,7 +527,7 @@ The Insolvent Partnerships Order 1994[^f00037] is amended as follows.
 
 (14) In paragraph 30, in Schedule 4 as there modified, omit the heading to Part 2 of the Schedule.
 
-**9.**[^key-df7eaa3a155f09a0de149974a836f939] (1) Schedule 7 (provisions which apply with modifications where joint bankruptcy petition presented in certain circumstances) is amended as follows
+**9.**[^c-df7eaa3a155f09a0de149974a836f939] (1) Schedule 7 (provisions which apply with modifications where joint bankruptcy petition presented in certain circumstances) is amended as follows
 
 (2) In paragraph 3, after section 265(2) as there modified, insert—
 
@@ -622,7 +622,7 @@ The Insolvent Partnerships Order 1994[^f00037] is amended as follows.
 >
 > .
 
-**10.**[^key-72a633c79b45f22a2f36980a85ae68d5] After Schedule 7 insert—
+**10.**[^c-72a633c79b45f22a2f36980a85ae68d5] After Schedule 7 insert—
 
 > **SCHEDULE 7A**
 >
@@ -758,13 +758,13 @@ The Insolvent Partnerships Order 1994[^f00037] is amended as follows.
 > >
 > > (9) The rules may make further provision about the deemed consent procedure.
 
-**11.**[^key-cbd2563e7bc7695123423c3bd521a4a2] (1) In Schedule 8 (modified provisions of Company Directors Disqualification Act 1986), in Schedule 1 to the Company Directors Disqualification Act 1986 as there modified—
+**11.**[^c-cbd2563e7bc7695123423c3bd521a4a2] (1) In Schedule 8 (modified provisions of Company Directors Disqualification Act 1986), in Schedule 1 to the Company Directors Disqualification Act 1986 as there modified—
 
 (2) omit paragraph 10; and
 
 (3) in paragraph 11(c), for the words from “directors’” to “up” substitute “directors to lay statement of affairs before creditors”.
 
-### 12. Legal Services Act 2007 (Designation of a Licensing Authority) (No. 2) Order 2011[^key-8d510da6f7852ac89cda56743947a5f8]
+### 12. Legal Services Act 2007 (Designation of a Licensing Authority) (No. 2) Order 2011[^c-8d510da6f7852ac89cda56743947a5f8]
 
 (1) The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011[^f00042] is amended as follows.
 
@@ -774,7 +774,7 @@ The Insolvent Partnerships Order 1994[^f00037] is amended as follows.
 
 .
 
-### 13. Legal Services Act 2007 (the Chartered Institute of Patent Attorneys and the Institute of Trade Mark Attorneys) (Modification of Functions) Order 2014[^key-4d7fc20f977dbf4b52923f756a8cd64e]
+### 13. Legal Services Act 2007 (the Chartered Institute of Patent Attorneys and the Institute of Trade Mark Attorneys) (Modification of Functions) Order 2014[^c-4d7fc20f977dbf4b52923f756a8cd64e]
 
 (1) The Legal Services Act 2007 (the Chartered Institute of Patent Attorneys and the Institute of Trade Mark Attorneys) Modification of Functions) Order 2014[^f00043] is amended as follows.
 
@@ -810,13 +810,13 @@ An Explanatory Memorandum has been prepared and is available alongside these Reg
 
 [^f00002]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-f722dc6f7c3e9235956d7c7238bf0f0f]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-f722dc6f7c3e9235956d7c7238bf0f0f]: Commencement: Reg. 1 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
-[^key-10298bc624d5b4e1664f459815178b6b]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-10298bc624d5b4e1664f459815178b6b]: Commencement: Reg. 2 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
-[^key-620a33ff553e506744bf7fe01f85ef1c]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-620a33ff553e506744bf7fe01f85ef1c]: Commencement: Reg. 3 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
-[^key-d1324cd4470cbb264181e1df043e9db2]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-d1324cd4470cbb264181e1df043e9db2]: Commencement: Reg. 4 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00003]: Footnote: Schedule 9 was amended by [S.S.I. 2016/141](https://www.legislation.gov.uk/ssi/2016/141).
 
@@ -824,7 +824,7 @@ An Explanatory Memorandum has been prepared and is available alongside these Reg
 
 [^f00005]: Footnote: [S.I. 2001/3352](https://www.legislation.gov.uk/uksi/2001/3352). Certain provisions of the Insolvency Act 1986 are applied in relation to insolvency proceedings under the Railway Administration Order 2001 by section 59 of, and Schedule 6 to, the Railways Act [1993 (c.43)](https://www.legislation.gov.uk/ukpga/1993/43). There are amendments but none are relevant.
 
-[^key-8872d45ae918ddbb5186e4b370bc5184]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2017/540/regulation/4/2/b) omitted (8.12.2017) by virtue of [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/1/paragraph/3/2)
+[^c-8872d45ae918ddbb5186e4b370bc5184]: Textual amendment: [Reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2017/540/regulation/4/2/b) omitted (8.12.2017) by virtue of [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 1 para. 3(2)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/1/paragraph/3/2)
 
 [^f00007]: Footnote: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20). Schedule 20 applies and modifies Schedule B1 to the Insolvency Act 1986 in relation to the conduct of energy administrations.
 
@@ -842,7 +842,7 @@ An Explanatory Memorandum has been prepared and is available alongside these Reg
 
 [^f00014]: Footnote: [S.I. 2013/3208](https://www.legislation.gov.uk/uksi/2013/3208). There are amendments but none are relevant.
 
-[^key-f045686b62ae28ad64a582993843b9dd]: Commencement: Sch. 1 para. 1 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-f045686b62ae28ad64a582993843b9dd]: Commencement: Sch. 1 para. 1 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00015]: Footnote: [1985 c.61](https://www.legislation.gov.uk/ukpga/1985/61).
 
@@ -852,35 +852,35 @@ An Explanatory Memorandum has been prepared and is available alongside these Reg
 
 [^f00018]: Footnote: Paragraph 10(1A) was inserted by the Legal Services Act 2007, Schedule 17, paragraph 32.
 
-[^key-c8e177dc8ee2d8e047ebae49722d5ec1]: Commencement: Sch. 1 para. 2 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-c8e177dc8ee2d8e047ebae49722d5ec1]: Commencement: Sch. 1 para. 2 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00019]: Footnote: [1989 c.40](https://www.legislation.gov.uk/ukpga/1989/40).
 
 [^f00020]: Footnote: Subsection (4A) was inserted by [S.I. 1991/880](https://www.legislation.gov.uk/uksi/1991/880) and amended by [S.I. 2009/853](https://www.legislation.gov.uk/uksi/2009/853).
 
-[^key-c89c624948000a9416f2046030b08437]: Commencement: Sch. 1 para. 3 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-c89c624948000a9416f2046030b08437]: Commencement: Sch. 1 para. 3 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00021]: Footnote: [1995 c.26](https://www.legislation.gov.uk/ukpga/1995/26).
 
 [^f00022]: Footnote: Subsection (6D) was inserted by the Pensions Act 2004, section 271(5).
 
-[^key-2717005f0e9bf9721abc64f801d87d18]: Commencement: Sch. 1 para. 4 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-2717005f0e9bf9721abc64f801d87d18]: Commencement: Sch. 1 para. 4 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00023]: Footnote: [2004 c.35](https://www.legislation.gov.uk/ukpga/2004/35). There are amendments but none is relevant.
 
-[^key-c2b06d97f2cdf4d726fe6b5b76df3d92]: Commencement: Sch. 1 para. 5 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-c2b06d97f2cdf4d726fe6b5b76df3d92]: Commencement: Sch. 1 para. 5 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00024]: Footnote: [2007 c.29](https://www.legislation.gov.uk/ukpga/2007/29). There is an amendment which is not relevant.
 
-[^key-f72bff337e33b98a41a8bba1f5751247]: Commencement: Sch. 1 para. 6 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-f72bff337e33b98a41a8bba1f5751247]: Commencement: Sch. 1 para. 6 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00025]: Footnote: [2011 c.5](https://www.legislation.gov.uk/ukpga/2011/5).
 
-[^key-01868f2864c83f17176e31f2cd6a4016]: Commencement: Sch. 2 para. 1 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-01868f2864c83f17176e31f2cd6a4016]: Commencement: Sch. 2 para. 1 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00026]: Footnote: [S.I. 1986/1999](https://www.legislation.gov.uk/uksi/1986/1999). Relevant amendments are made by the Administration of Insolvent Estates of Deceased Persons (Amendment) Order 2002 ([S.I. 2002/1309](https://www.legislation.gov.uk/uksi/2002/1309)) and the Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 ([S.I. 2016/481](https://www.legislation.gov.uk/uksi/2016/481)).
 
-[^key-bc038c5d2cdae20a5c8c256343829cce]: Textual amendment: [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/1/2) omitted (8.12.2017) by virtue of [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/3/paragraph/2/2) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2017/1119/schedule/3/paragraph/3))
+[^c-bc038c5d2cdae20a5c8c256343829cce]: Textual amendment: [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/540/schedule/2/paragraph/1/2) omitted (8.12.2017) by virtue of [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 3 para. 2(2)](https://www.legislation.gov.uk/uksi/2017/1119/schedule/3/paragraph/2/2) (with [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2017/1119/schedule/3/paragraph/3))
 
 [^f00027]: Footnote: Section 288 was amended by paragraph 18 of Schedule 19 to the Enterprise and Regulatory Reform Act [2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24) with effect from 6th April 2016 and by paragraph 15 of Part 5 of Schedule 6 to the Deregulation Act 2015 with effect from 6th April 2017.
 
@@ -902,40 +902,40 @@ An Explanatory Memorandum has been prepared and is available alongside these Reg
 
 [^f00036]: Footnote: Section 256(1)(aa) was amended by the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), Schedule 9.
 
-[^key-94218a938b3b89d3a60ca2c8154a2e9e]: Commencement: Sch. 2 para. 2 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-94218a938b3b89d3a60ca2c8154a2e9e]: Commencement: Sch. 2 para. 2 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00037]: Footnote: [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421). Relevant amendments were made by the Enterprise and Regulatory Reform Act 2013 (Consequential Amendments) (Bankruptcy) and the Small Business Enterprise and Employment Act 2015 (Consequential Amendments) Regulations 2016 ([S.I. 2016/481](https://www.legislation.gov.uk/uksi/2016/481)).
 
-[^key-bb58c6f768b9fa0d05e832a9e5595656]: Commencement: Sch. 2 para. 3 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-bb58c6f768b9fa0d05e832a9e5595656]: Commencement: Sch. 2 para. 3 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00038]: Footnote: Sections 246ZE and 246ZF were inserted by section 122 of the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26) and sections 379ZA and 379ZB were inserted by section 123 of that Act.
 
-[^key-fa86c1e48cd07b3aadd7a44464226bbd]: Commencement: Sch. 2 para. 4 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-fa86c1e48cd07b3aadd7a44464226bbd]: Commencement: Sch. 2 para. 4 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
-[^key-8c4c6d455d1dc1c8ccdddaaca76bb15a]: Commencement: Sch. 2 para. 5 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-8c4c6d455d1dc1c8ccdddaaca76bb15a]: Commencement: Sch. 2 para. 5 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
-[^key-aa6295cb3adb9c81ea10b7d3012a7e20]: Commencement: Sch. 2 para. 6 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-aa6295cb3adb9c81ea10b7d3012a7e20]: Commencement: Sch. 2 para. 6 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00039]: Footnote: Schedule 2 was substituted by [S.I. 2005/1516](https://www.legislation.gov.uk/uksi/2005/1516).
 
 [^f00040]: Footnote: Relevant amendments to paragraph 51(3) are made by the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), Schedule 9.
 
-[^key-b8bce79c3029d07848756b8c5c3436c6]: Commencement: Sch. 2 para. 7 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-b8bce79c3029d07848756b8c5c3436c6]: Commencement: Sch. 2 para. 7 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
-[^key-4bf9d3ec9a0af5eb77ba9ee7791c65c0]: Commencement: Sch. 2 para. 8 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-4bf9d3ec9a0af5eb77ba9ee7791c65c0]: Commencement: Sch. 2 para. 8 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00041]: Footnote: Section 174(4) was amended by the Small Business, Enterprise and Employment Act [2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), Schedule 9.
 
-[^key-df7eaa3a155f09a0de149974a836f939]: Commencement: Sch. 2 para. 9 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-df7eaa3a155f09a0de149974a836f939]: Commencement: Sch. 2 para. 9 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
-[^key-72a633c79b45f22a2f36980a85ae68d5]: Commencement: Sch. 2 para. 10 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-72a633c79b45f22a2f36980a85ae68d5]: Commencement: Sch. 2 para. 10 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
-[^key-cbd2563e7bc7695123423c3bd521a4a2]: Commencement: Sch. 2 para. 11 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-cbd2563e7bc7695123423c3bd521a4a2]: Commencement: Sch. 2 para. 11 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
-[^key-8d510da6f7852ac89cda56743947a5f8]: Commencement: Sch. 2 para. 12 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-8d510da6f7852ac89cda56743947a5f8]: Commencement: Sch. 2 para. 12 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00042]: Footnote: [S.I. 2011/2866](https://www.legislation.gov.uk/uksi/2011/2866).
 
-[^key-4d7fc20f977dbf4b52923f756a8cd64e]: Commencement: Sch. 2 para. 13 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
+[^c-4d7fc20f977dbf4b52923f756a8cd64e]: Commencement: Sch. 2 para. 13 in force at 6.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/540/regulation/1)
 
 [^f00043]: Footnote: [S.I. 2014/3238](https://www.legislation.gov.uk/uksi/2014/3238).

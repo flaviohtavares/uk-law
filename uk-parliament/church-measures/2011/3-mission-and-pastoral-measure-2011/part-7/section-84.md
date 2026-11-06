@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 84. Code of Practice[^key-d4aa51a6153721a88aaf91b684d82646]
+## 84. Code of Practice[^c-d4aa51a6153721a88aaf91b684d82646]
 
 *Extent: E*
 
@@ -37,4 +37,4 @@ the Code shall, for the purposes of subsection (3), be deemed to have been appro
 
 ## Annotations
 
-[^key-d4aa51a6153721a88aaf91b684d82646]: Commencement: S. 84 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-d4aa51a6153721a88aaf91b684d82646]: Commencement: S. 84 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

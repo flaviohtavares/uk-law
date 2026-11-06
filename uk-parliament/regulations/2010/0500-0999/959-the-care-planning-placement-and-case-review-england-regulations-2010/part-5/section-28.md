@@ -35,7 +35,7 @@ summary: ''
 - (a) at least once a week until the first review carried out in accordance with Part 6, and
 - (b) thereafter at intervals of not more than six weeks.
 
-(3A)[^key-e07a868a0707e4e7fb9966184cc5d5d3] Where—
+(3A)[^c-e07a868a0707e4e7fb9966184cc5d5d3] Where—
 
 - (a) C is in a long term foster placement and has been in that placement for at least one year, and
 - (b) C, being of sufficient age and understanding, agrees to be visited less frequently than required by paragraph (2)(c),
@@ -62,16 +62,16 @@ the responsible authority must ensure that R visits C at intervals of no more th
 
 - (a) whenever reasonably requested to do so by—
   - (i) C,
-  - (ii) where paragraphs (2), (3) , (3A)[^key-d164986c821858f7169d96f2aaab20ad] or (4) apply, the appropriate person, or
+  - (ii) where paragraphs (2), (3) , (3A)[^c-d164986c821858f7169d96f2aaab20ad] or (4) apply, the appropriate person, or
   - (iii) where paragraph (5) applies, the person responsible for C's living arrangements,
-- (b) within one week of first receiving notification under section 30A of the Care Standards Act 2000 [^c20224661] (*notification of matters relating to persons carrying on or managing certain establishments or agencies*) or under section 39 of the Regulation and Inspection of Social Care (Wales) Act 2016 (notifying local authorities of certain action under this Part)[^key-8c92c19f3646bae90dba39af6d58d865], where the children's home in which C is placed for the time being is referred to in that notification.
+- (b) within one week of first receiving notification under section 30A of the Care Standards Act 2000 [^c20224661] (*notification of matters relating to persons carrying on or managing certain establishments or agencies*) or under section 39 of the Regulation and Inspection of Social Care (Wales) Act 2016 (notifying local authorities of certain action under this Part)[^c-8c92c19f3646bae90dba39af6d58d865], where the children's home in which C is placed for the time being is referred to in that notification.
 
 ## Annotations
 
-[^key-e07a868a0707e4e7fb9966184cc5d5d3]: Textual amendment: Reg. 28(3A) inserted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/495/regulation/5/a)
+[^c-e07a868a0707e4e7fb9966184cc5d5d3]: Textual amendment: Reg. 28(3A) inserted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/495/regulation/5/a)
 
-[^key-d164986c821858f7169d96f2aaab20ad]: Textual amendment: Word in reg. 28(7)(a)(ii) inserted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/495/regulation/5/b)
+[^c-d164986c821858f7169d96f2aaab20ad]: Textual amendment: Word in reg. 28(7)(a)(ii) inserted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/495/regulation/5/b)
 
 [^c20224661]: Marginal citation: [2000 c.14](https://www.legislation.gov.uk/ukpga/2000/14); section 30A was inserted by section 29 of the 2008 Act.
 
-[^key-8c92c19f3646bae90dba39af6d58d865]: Textual amendment: Words in reg. 28(7)(b) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 21(4)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/21/4)
+[^c-8c92c19f3646bae90dba39af6d58d865]: Textual amendment: Words in reg. 28(7)(b) inserted (2.4.2018) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2018 (S.I. 2018/48)](https://www.legislation.gov.uk/wsi/2018/48), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/48/regulation/1/2), [Sch. 1 para. 21(4)](https://www.legislation.gov.uk/wsi/2018/48/schedule/1/paragraph/21/4)

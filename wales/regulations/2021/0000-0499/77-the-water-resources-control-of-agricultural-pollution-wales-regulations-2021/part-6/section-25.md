@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Storage of slurry[^key-c1aad25031415cc96db63f105491e64b]
+## 25. Storage of slurry[^c-c1aad25031415cc96db63f105491e64b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1aad25031415cc96db63f105491e64b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2021/77/regulation/25) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)
+[^c-c1aad25031415cc96db63f105491e64b]: Commencement: [Reg. 25](https://www.legislation.gov.uk/wsi/2021/77/regulation/25) in force at 1.4.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2021/77/regulation/1/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. Offence of breaching youth diversion order[^key-7c2f3f453ab95adf985e47209fa0de45]
+## 227. Offence of breaching youth diversion order[^c-7c2f3f453ab95adf985e47209fa0de45]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c2f3f453ab95adf985e47209fa0de45]: Commencement: S. 227 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-7c2f3f453ab95adf985e47209fa0de45]: Commencement: S. 227 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

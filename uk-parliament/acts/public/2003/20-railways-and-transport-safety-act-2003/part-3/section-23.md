@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Assistant Chief Constables[^key-537a51f11c92bc9bb41d674b1e96d704]
+## 23. Assistant Chief Constables[^c-537a51f11c92bc9bb41d674b1e96d704]
 
 *Extent: E+W+S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-537a51f11c92bc9bb41d674b1e96d704]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2003/20/section/23) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(f)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/f)
+[^c-537a51f11c92bc9bb41d674b1e96d704]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2003/20/section/23) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(f)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/f)

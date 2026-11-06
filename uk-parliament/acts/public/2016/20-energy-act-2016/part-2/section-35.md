@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Information and samples coordinators[^key-12f01fa1c5dfdd611f3991b6800ca62d]
+## 35. Information and samples coordinators[^c-12f01fa1c5dfdd611f3991b6800ca62d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12f01fa1c5dfdd611f3991b6800ca62d]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2016/20/section/35) in force at 21.10.2017 by [S.I. 2017/942](https://www.legislation.gov.uk/uksi/2017/942), [reg. 2](https://www.legislation.gov.uk/uksi/2017/942/regulation/2)
+[^c-12f01fa1c5dfdd611f3991b6800ca62d]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2016/20/section/35) in force at 21.10.2017 by [S.I. 2017/942](https://www.legislation.gov.uk/uksi/2017/942), [reg. 2](https://www.legislation.gov.uk/uksi/2017/942/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Administration of schemes: reimbursement, etc.[^c19482871][^c10881441][^c10881451][^key-7a9e5cde7b253da2b646069be3b2092e][^key-eba55380aaf2978907d4dc59f5bdd55a][^key-eba55380aaf2978907d4dc59f5bdd55a]
+## 94. Administration of schemes: reimbursement, etc.[^c19482871][^c10881441][^c10881451][^c-7a9e5cde7b253da2b646069be3b2092e][^c-eba55380aaf2978907d4dc59f5bdd55a][^c-eba55380aaf2978907d4dc59f5bdd55a]
 
 *Extent: E+W*
 
@@ -47,7 +47,7 @@ the arrangements with respect to reimbursement and terms of withdrawal from part
 
 (6) In relation to operators participating in any such scheme, references in this section to arrangements with respect to reimbursement are references to conditions of entitlement of such operators to, and the method of determination and manner of payment of, reimbursement in respect of travel concessions provided under the scheme.
 
-## 94. Administration of schemes: reimbursement, etc.[^c19472621][^c10881401][^c10881411][^key-7a9e5cde7b253da2b646069be3b2092e]
+## 94. Administration of schemes: reimbursement, etc.[^c19472621][^c10881401][^c10881411][^c-7a9e5cde7b253da2b646069be3b2092e]
 
 *Extent: S*
 
@@ -92,9 +92,9 @@ the arrangements with respect to reimbursement and terms of withdrawal from part
 
 [^c10881451]: Extent: This version of this provision extends to England and Wales only
 
-[^key-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
+[^c-7a9e5cde7b253da2b646069be3b2092e]: Modification: Ss. 93-101: functions made exercisable concurrently (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(4)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/4) (with [reg. 14(5)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/5))
 
-[^key-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
+[^c-eba55380aaf2978907d4dc59f5bdd55a]: Modification: Pt. 5: functions made exercisable (E.) (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [14(1)](https://www.legislation.gov.uk/uksi/2024/232/regulation/14/1)
 
 [^c10881461]: Modification: S. 94(4) excluded (28.7.1998) by [1998 c. iii](https://www.legislation.gov.uk/ukla/1998/3), [s. 1 Sch. s. 52](https://www.legislation.gov.uk/ukla/1998/3/section/1/schedule/section/52) of Order
 

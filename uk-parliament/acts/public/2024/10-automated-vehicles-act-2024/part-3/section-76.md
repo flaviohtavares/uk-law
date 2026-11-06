@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Offences under regulations[^key-a8fd754e9770f0f55ed4e029d2ae244b]
+## 76. Offences under regulations[^c-a8fd754e9770f0f55ed4e029d2ae244b]
 
 *Extent: E+W+S*
 
@@ -49,4 +49,4 @@ or (in any of those cases) by any lesser punishment.
 
 ## Annotations
 
-[^key-a8fd754e9770f0f55ed4e029d2ae244b]: Commencement: S. 76 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-a8fd754e9770f0f55ed4e029d2ae244b]: Commencement: S. 76 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

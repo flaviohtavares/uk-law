@@ -38,7 +38,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Register of tobacco retailers
 
-### 1. Register of tobacco retailers[^key-6ddc7c633feebd0023870cd071d74515][^key-191988f3f60dc57479592a7e8289eca9]
+### 1. Register of tobacco retailers[^c-6ddc7c633feebd0023870cd071d74515][^c-191988f3f60dc57479592a7e8289eca9]
 
 (1) The registration authority must, in accordance with the provisions of this Act, maintain a register of persons carrying on a tobacco business (“**the Register**”).
 
@@ -62,7 +62,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 - “**registered**” means entered in the Register, and “**unregistered**” is to be construed accordingly;
 - “**the registration authority**” means a body which is established or constituted by or under Northern Ireland legislation and is prescribed for the purposes of this Act.
 
-### 2. Application for registration[^key-6f4e937bc77c48e51b938a103d8eff11][^key-c2d459827828f8366774c25c5aee586b]
+### 2. Application for registration[^c-6f4e937bc77c48e51b938a103d8eff11][^c-c2d459827828f8366774c25c5aee586b]
 
 (1) A person may apply to the registration authority—
 
@@ -102,7 +102,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (8) In this section “**applicant**” means a person who makes an application under subsection (1).
 
-### 3. Duty to notify certain changes[^key-4ee6f041e97c7673a589ceb59efcc2b7]
+### 3. Duty to notify certain changes[^c-4ee6f041e97c7673a589ceb59efcc2b7]
 
 (1) A registered person must give the registration authority notice of—
 
@@ -111,7 +111,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (2) The notice must be given within 28 days of the date of the change to which it relates.
 
-### 4. Changes to and removal from the Register[^key-bf726ab8490a95f9c909e9651d5cf3a4]
+### 4. Changes to and removal from the Register[^c-bf726ab8490a95f9c909e9651d5cf3a4]
 
 (1) The registration authority may correct the Register (following notification under section 3 or otherwise) as it considers appropriate.
 
@@ -132,7 +132,7 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) Where the registration authority corrects, amends, removes or reinstates a person's entry in the Register under this section, it must as soon as reasonably practicable serve a notice on the person of the correction, amendment, removal or, as the case may be, reinstatement.
 
-## Licensing of retail sales of tobacco products etc[^key-03539af0093ee56564f3cbf68c14aded]
+## Licensing of retail sales of tobacco products etc[^c-03539af0093ee56564f3cbf68c14aded]
 
 ### 4A. Prohibition of retail sales of tobacco products etc without a licence
 
@@ -210,22 +210,22 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 (5) In this section “personal licence” and “premises licence” have the meaning given by section 4A(7).
 
-## Persistent commission of tobacco or nicotine offences[^key-63c10ec4cc933e299e2687668dc825c0]
+## Persistent commission of tobacco or nicotine offences[^c-63c10ec4cc933e299e2687668dc825c0]
 
-### 5. Restricted premises orders[^key-47cf6ed85c5fa66c1c41eb2b4ff8c7a1]
+### 5. Restricted premises orders[^c-47cf6ed85c5fa66c1c41eb2b4ff8c7a1]
 
 (1) This section applies where a person (“the offender”)—
 
-- (a) is given a fixed penalty notice in respect of a tobacco or nicotine[^key-40001347379317876b2c05ac320f4803] offence; or
-- (b) is convicted of a tobacco or nicotine[^key-e32b7c29366dd92be33aaf0ce55331f4] offence.
+- (a) is given a fixed penalty notice in respect of a tobacco or nicotine[^c-40001347379317876b2c05ac320f4803] offence; or
+- (b) is convicted of a tobacco or nicotine[^c-e32b7c29366dd92be33aaf0ce55331f4] offence.
 
 (2) In the following provisions of this section “**the relevant offence**” means the offence mentioned in subsection (1)(a) or (b).
 
 (3) A court of summary jurisdiction may, on application made by complaint by the council in whose district the premises in relation to which the relevant offence was committed are situated, make a restricted premises order in respect of those premises (“the relevant premises”).
 
-(4) A restricted premises order is an order prohibiting the sale on the premises to which it relates of any tobacco , cigarette papers or nicotine products[^key-03a806083640e064c3159a9fbe2a8412] to any person.
+(4) A restricted premises order is an order prohibiting the sale on the premises to which it relates of any tobacco , cigarette papers or nicotine products[^c-03a806083640e064c3159a9fbe2a8412] to any person.
 
-(5) The prohibition applies to sales of tobacco , cigarette papers or nicotine products[^key-d177848697b34fdf1934d840be1144fb] to any person whether made—
+(5) The prohibition applies to sales of tobacco , cigarette papers or nicotine products[^c-d177848697b34fdf1934d840be1144fb] to any person whether made—
 
 - (a) by the offender or any other person; or
 - (b) by means of any machine kept on the premises or any other means.
@@ -238,8 +238,8 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 - (a) the council has complied with subsection (7); and
 - (b) on at least 2 other occasions within the period of 5 years ending with the date on which the relevant offence was committed, the offender has been—
-  - (i) given a fixed penalty notice in respect of a tobacco or nicotine[^key-2d49dc040e632e88d0acdab61623deb2] offence in relation to the relevant premises; or
-  - (ii) convicted of a tobacco or nicotine[^key-ef2e61bd8aa814d2338ca33831ee8671] offence in relation to the relevant premises.
+  - (i) given a fixed penalty notice in respect of a tobacco or nicotine[^c-2d49dc040e632e88d0acdab61623deb2] offence in relation to the relevant premises; or
+  - (ii) convicted of a tobacco or nicotine[^c-ef2e61bd8aa814d2338ca33831ee8671] offence in relation to the relevant premises.
 
 (9) Persons affected by the application may make representations to the court as to why the order should not be made.
 
@@ -261,29 +261,29 @@ make such order varying or discharging the restricted premises order as it consi
 
 (13) For the purposes of this section—
 
-- (a) a fixed penalty notice which is given to the offender in respect of a tobacco or nicotine[^key-8355ca2f8fcab7c06a0f02d393f37022] offence is to be disregarded if it is withdrawn or if proceedings are brought against the offender for the offence to which the notice relates;
+- (a) a fixed penalty notice which is given to the offender in respect of a tobacco or nicotine[^c-8355ca2f8fcab7c06a0f02d393f37022] offence is to be disregarded if it is withdrawn or if proceedings are brought against the offender for the offence to which the notice relates;
 - (b) the persons affected by an application for a restricted premises order in respect of any premises are—
   - (i) the occupier of the premises; and
   - (ii) any other person who has an estate in the premises.
 
-(14) In this section and section 6 “ tobacco or nicotine offence[^key-595096f9d187600fe8123bbbd53eba57] ” means—
+(14) In this section and section 6 “ tobacco or nicotine offence[^c-595096f9d187600fe8123bbbd53eba57] ” means—
 
 - (a) an offence committed under Article 3 of the Health and Personal Social Services (Northern Ireland) Order 1978 on any premises (which are accordingly “the premises in relation to which the offence is committed”);
 - (b) an offence committed under Article 4 of the Health and Personal Social Services (Northern Ireland) Order 1978 in respect of an order relating to any machine kept on any premises (which are accordingly “the premises in relation to which the offence is committed”);
 - (c) an offence relating to tobacco committed under section 170 or 170B of the Customs and Excise Management Act 1979 on any premises in Northern Ireland (which are accordingly “the premises in relation to which the offence is committed”);
 - (d) an offence committed under section 8F, 8G or 8H of the Tobacco Products Duty Act 1979 on any premises in Northern Ireland (which are accordingly “the premises in relation to which the offence is committed”);
-- (e) an offence committed under Article 4A of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991 in respect of any machine kept on any premises (which are accordingly “the premises in relation to which the offence is committed”); [^key-448980b459be21109e67e43bd0db6a52]...
+- (e) an offence committed under Article 4A of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991 in respect of any machine kept on any premises (which are accordingly “the premises in relation to which the offence is committed”); [^c-448980b459be21109e67e43bd0db6a52]...
 - (f) an offence committed under section 10 in respect of any premises (which are accordingly “the premises in relation to which the offence is committed”).
-- (g)[^key-60357965a1bb715ba97425f7fd8e34bb] an offence committed under section 1 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 on any premises (which are accordingly “the premises in relation to which the offence is committed”
-- or[^key-b8473ca2bf408881cf3c8480e855d698]
+- (g)[^c-60357965a1bb715ba97425f7fd8e34bb] an offence committed under section 1 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 on any premises (which are accordingly “the premises in relation to which the offence is committed”
+- or[^c-b8473ca2bf408881cf3c8480e855d698]
 - (h) an offence committed under section 2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 in respect of any machine kept on any premises (which are accordingly “the premises in relation to which the offence is committed”
 
-### 6. Restricted sale orders[^key-2d18534f4a9181ca2ea01ee20bdab772]
+### 6. Restricted sale orders[^c-2d18534f4a9181ca2ea01ee20bdab772]
 
 (1) This section applies where a person (“the offender”)—
 
-- (a) is given a fixed penalty notice in respect of a tobacco or nicotine[^key-d3038513e2a1550722c58e7517957dbb] offence; or
-- (b) is convicted of a tobacco or nicotine[^key-4aaf1259ce8714368089f9ea28ef0cc6] offence.
+- (a) is given a fixed penalty notice in respect of a tobacco or nicotine[^c-d3038513e2a1550722c58e7517957dbb] offence; or
+- (b) is convicted of a tobacco or nicotine[^c-4aaf1259ce8714368089f9ea28ef0cc6] offence.
 
 (2) In the following provisions of this section “**the relevant offence**” means the offence mentioned in subsection (1)(a) or (b).
 
@@ -291,23 +291,23 @@ make such order varying or discharging the restricted premises order as it consi
 
 (4) A restricted sale order is an order prohibiting the person to whom it relates—
 
-- (a) from selling any tobacco , cigarette papers or nicotine products[^key-1ddf419edcebee9c6e1c8146000c5486] to any person;
-- (b) from having any management functions in respect of any premises in so far as those functions relate to the sale on the premises of tobacco , cigarette papers or nicotine products[^key-e16f1fdbf0581fc5510e26f410d10b3b] to any person;
-- (c) from keeping any cigarette machine on any premises for the purpose of selling tobacco or nicotine products[^key-f953070cfca711908b5670c26da1b6a5] or permitting any [^key-2b7f95551c7714856fe3bbf0daac3dd2]... machine to be kept on any premises by any other person for that purpose; and
-- (d) from having any management functions in respect of any premises in so far as those functions relate to any [^key-2b7f95551c7714856fe3bbf0daac3dd2]... machine kept on the premises for the purpose of selling tobacco or nicotine products .
+- (a) from selling any tobacco , cigarette papers or nicotine products[^c-1ddf419edcebee9c6e1c8146000c5486] to any person;
+- (b) from having any management functions in respect of any premises in so far as those functions relate to the sale on the premises of tobacco , cigarette papers or nicotine products[^c-e16f1fdbf0581fc5510e26f410d10b3b] to any person;
+- (c) from keeping any cigarette machine on any premises for the purpose of selling tobacco or nicotine products[^c-f953070cfca711908b5670c26da1b6a5] or permitting any [^c-2b7f95551c7714856fe3bbf0daac3dd2]... machine to be kept on any premises by any other person for that purpose; and
+- (d) from having any management functions in respect of any premises in so far as those functions relate to any [^c-2b7f95551c7714856fe3bbf0daac3dd2]... machine kept on the premises for the purpose of selling tobacco or nicotine products .
 
 (5) The order has effect for the period specified in the order, but that period must not be less than 28 days or more than 3 years.
 
 (6) The court may make the order if (and only if) it is satisfied that, on at least 2 other occasions within the period of 5 years ending with the date on which the relevant offence was committed, the offender has been—
 
-- (a) given a fixed penalty notice in respect of a tobacco or nicotine[^key-06d97036449986400c6a0476b4801b40] offence; or
-- (b) convicted of a tobacco or nicotine[^key-039458f720e4ffc4c6bc5fcff4edf9f3] offence.
+- (a) given a fixed penalty notice in respect of a tobacco or nicotine[^c-06d97036449986400c6a0476b4801b40] offence; or
+- (b) convicted of a tobacco or nicotine[^c-039458f720e4ffc4c6bc5fcff4edf9f3] offence.
 
-(7) For the purposes of this section a fixed penalty notice which is given to the offender in respect of a tobacco or nicotine[^key-a8ef271ef452eb8e2c86acd377fe4a7c] offence is to be disregarded if it is withdrawn or if proceedings are brought against the offender for the offence to which the notice relates.
+(7) For the purposes of this section a fixed penalty notice which is given to the offender in respect of a tobacco or nicotine[^c-a8ef271ef452eb8e2c86acd377fe4a7c] offence is to be disregarded if it is withdrawn or if proceedings are brought against the offender for the offence to which the notice relates.
 
-(8)[^key-406e213e172faca90df5f47ef3da0301] In this section any reference to a machine is a reference to an automatic machine for the sale of tobacco or nicotine products.
+(8)[^c-406e213e172faca90df5f47ef3da0301] In this section any reference to a machine is a reference to an automatic machine for the sale of tobacco or nicotine products.
 
-### 7. Appeal against the making of an order under section 5 or 6[^key-9e39cfc0bb1ae6830042ab953dac2955]
+### 7. Appeal against the making of an order under section 5 or 6[^c-9e39cfc0bb1ae6830042ab953dac2955]
 
 (1) Any person aggrieved by an order made by a court of summary jurisdiction under section 5 or 6 may, within the period of 21 days from the day the order is made, appeal against the order to the county court in accordance with magistrates' courts rules.
 
@@ -316,7 +316,7 @@ make such order varying or discharging the restricted premises order as it consi
 - (a) until the period mentioned in subsection (1) has expired; or
 - (b) if the order is the subject of an appeal, until the appeal has been determined or withdrawn.
 
-### 8. Restricted premises orders: display of notices[^key-35d112a8e7f654ef29ae9ac88a52dba4][^key-50eeff1c9a79cbc1fa13a28a3853a636]
+### 8. Restricted premises orders: display of notices[^c-35d112a8e7f654ef29ae9ac88a52dba4][^c-50eeff1c9a79cbc1fa13a28a3853a636]
 
 (1) This section applies where—
 
@@ -331,7 +331,7 @@ make such order varying or discharging the restricted premises order as it consi
 - (b) be displayed in a prominent position in the relevant premises where it is readily visible to persons at every relevant point of sale; and
 - (c) be displayed no later than 5 days after the date on which the restricted premises order has effect.
 
-(4) A relevant point of sale is one that was used for the sale of tobacco , cigarette papers or nicotine products[^key-70c3dd7fcc27590b723865571fb72c19] at any time during the period of 2 months ending with the date on which the restricted premises order was made.
+(4) A relevant point of sale is one that was used for the sale of tobacco , cigarette papers or nicotine products[^c-70c3dd7fcc27590b723865571fb72c19] at any time during the period of 2 months ending with the date on which the restricted premises order was made.
 
 (5) Regulations may specify—
 
@@ -339,22 +339,22 @@ make such order varying or discharging the restricted premises order as it consi
 - (b) the wording of the statement to be displayed on the notice; and
 - (c) the size of the statement.
 
-### 9. Restricted premises orders: no tobacco or nicotine products in retail area[^key-77095adf3285ee84cdb072fcd2f411b0][^key-8df72c2995c18e11b23a552dbbbca117]
+### 9. Restricted premises orders: no tobacco or nicotine products in retail area[^c-77095adf3285ee84cdb072fcd2f411b0][^c-8df72c2995c18e11b23a552dbbbca117]
 
 (1) This section applies where—
 
 - (a) a restricted premises order has effect in respect of premises (“the relevant premises”); and
 - (b) a person (“P”) carries on a retail business at the relevant premises.
 
-(2) P must, no later than the day after the date on which the restricted premises order has effect, ensure that no tobacco , cigarette papers or nicotine products as the case may be[^key-abc544ee4632aea6daa8f1470ee4eba1] are in the retail area of the relevant premises.
+(2) P must, no later than the day after the date on which the restricted premises order has effect, ensure that no tobacco , cigarette papers or nicotine products as the case may be[^c-abc544ee4632aea6daa8f1470ee4eba1] are in the retail area of the relevant premises.
 
-(3) Subsection (2) does not apply to tobacco , cigarette papers and nicotine products[^key-ca26f2eab1892444595892fd3869ca7b] in the retail area of the relevant premises which an individual may have for his or her own use.
+(3) Subsection (2) does not apply to tobacco , cigarette papers and nicotine products[^c-ca26f2eab1892444595892fd3869ca7b] in the retail area of the relevant premises which an individual may have for his or her own use.
 
 (4) In this section “**retail area**” means any part of the relevant premises used for the serving of customers or the display of goods.
 
 ## Offences
 
-### 10. Offences[^key-84c4b59df5ed25aa91d3975d00518758]
+### 10. Offences[^c-84c4b59df5ed25aa91d3975d00518758]
 
 (1) If an unregistered person carries on a tobacco business, the person commits an offence.
 
@@ -364,7 +364,7 @@ make such order varying or discharging the restricted premises order as it consi
 
 (4) If—
 
-- (a) a person sells on any premises any tobacco , cigarette papers or nicotine products[^key-b22d6957057bee3f566683ad5ee62770] in contravention of a restricted premises order, and
+- (a) a person sells on any premises any tobacco , cigarette papers or nicotine products[^c-b22d6957057bee3f566683ad5ee62770] in contravention of a restricted premises order, and
 - (b) the person knew, or ought reasonably to have known, that the sale was in contravention of the order,
 
 the person commits an offence.
@@ -387,7 +387,7 @@ the person commits an offence.
 
 ## Enforcement powers, etc.
 
-### 11. Powers of entry[^key-09434cd176c62637f2e99329177fa7b0]
+### 11. Powers of entry[^c-09434cd176c62637f2e99329177fa7b0]
 
 (1) An authorised officer has the right, on producing, if so required, the officer's authorisation—
 
@@ -395,8 +395,8 @@ the person commits an offence.
   - (i) an offence under section 10;
   - (ii) an offence under Article 3, 4 or 4A of the Health and Personal Social Services (Northern Ireland) Order 1978;
   - (iii) an offence under Article 4, 4A or 5 of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991;
-  - (iv)[^key-6e594c7ba2d75aded834a3cd5ebd63d6] an offence under section 1 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016;
-  - (v)[^key-9e452dc55d64ce5c999e5086b310aac3] an offence under section 2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016.
+  - (iv)[^c-6e594c7ba2d75aded834a3cd5ebd63d6] an offence under section 1 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016;
+  - (v)[^c-9e452dc55d64ce5c999e5086b310aac3] an offence under section 2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016.
 - (b) to carry out on those premises such inspections and examinations as the officer reasonably believes are necessary for that purpose;
 - (c) if the officer reasonably believes it is necessary for that purpose—
   - (i) to require the production of any book, document, data, record (in whatever form it is held) or product; and
@@ -426,15 +426,15 @@ the person commits an offence.
 
 (9) If premises which an authorised officer is authorised to enter under this section are unoccupied, or if the occupier is temporarily absent, then on leaving them that officer must leave the premises as effectively secured against unauthorised entry as the officer found them.
 
-### 12. Fixed penalties for certain offences[^key-33d243f1b457e77c3aa92909c2202668][^key-7672855db10096821fe06253c11c2d2d]
+### 12. Fixed penalties for certain offences[^c-33d243f1b457e77c3aa92909c2202668][^c-7672855db10096821fe06253c11c2d2d]
 
 (1) Where an authorised officer of a council has reason to believe that a person has committed—
 
 - (a) an offence under section 10(1), (2), (3), (7) or (8),
 - (b) an offence under Article 3, 4 or 4A of the Health and Personal Social Services (Northern Ireland) Order 1978,
 - (c) an offence under Article 4, 4A or 5 of the Children and Young Persons (Protection from Tobacco) (Northern Ireland) Order 1991,
-- (d)[^key-56cff4878122ba4aeb1a8dc38b66a3cb] an offence under section 1 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016;
-- (e)[^key-327e8c4794b2b022e702119a2bd19ebd] an offence under section 2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016.
+- (d)[^c-56cff4878122ba4aeb1a8dc38b66a3cb] an offence under section 1 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016;
+- (e)[^c-327e8c4794b2b022e702119a2bd19ebd] an offence under section 2 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016.
 
 the officer may give that person a fixed penalty notice in respect of the offence.
 
@@ -474,7 +474,7 @@ the officer may give that person a fixed penalty notice in respect of the offenc
 
 is evidence of the facts stated.
 
-### 13. Use of fixed penalty receipts[^key-efcbc9302a84c1966881e0f6c084eab3][^key-fd814e69df984fb6c5dbaf6214cbfcbf]
+### 13. Use of fixed penalty receipts[^c-efcbc9302a84c1966881e0f6c084eab3][^c-fd814e69df984fb6c5dbaf6214cbfcbf]
 
 (1) A council may use any sums it receives in respect of fixed penalties payable in pursuance of notices given under section 12 (its “fixed penalty receipts”) only for the purposes of—
 
@@ -497,7 +497,7 @@ is evidence of the facts stated.
 - (a) councils; and
 - (b) such other persons or bodies as the Department considers appropriate.
 
-### 14. Withdrawal of fixed penalty notices[^key-90faf1027d57fcbfd29638cdbc77aac5]
+### 14. Withdrawal of fixed penalty notices[^c-90faf1027d57fcbfd29638cdbc77aac5]
 
 (1) This section applies if a council considers that a penalty notice which an authorised officer acting on its behalf has given to a person under section 12 ought not to have been given.
 
@@ -510,7 +510,7 @@ is evidence of the facts stated.
 
 (4) The council must consider any representations made by or on behalf of the recipient of a fixed penalty notice and decide in all the circumstances whether to withdraw the notice.
 
-### 15. Obstruction, etc. of authorised officers[^key-97b589bd40d46b6eb0334fbf8e628235]
+### 15. Obstruction, etc. of authorised officers[^c-97b589bd40d46b6eb0334fbf8e628235]
 
 (1) A person who—
 
@@ -528,27 +528,27 @@ commits an offence.
 
 (4) A person guilty of an offence under subsection (1) or (2) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 16. Council's duty to share information about enforcement[^key-451aa6d38582ee95df1a78563417263e]
+### 16. Council's duty to share information about enforcement[^c-451aa6d38582ee95df1a78563417263e]
 
 (1) Every council must make available to every other council, the registration authority and the Department such information relating to—
 
-- (a) fixed penalty notices given in respect of tobacco or nicotine[^key-c95f7a916ac47d80fd10c3f5b325fac9] offences committed in the district of that council,
-- (b) convictions in respect of tobacco or nicotine[^key-8cf12f535ea3f4deea32bd6b1d181891] offences committed in the district of that council, and
+- (a) fixed penalty notices given in respect of tobacco or nicotine[^c-c95f7a916ac47d80fd10c3f5b325fac9] offences committed in the district of that council,
+- (b) convictions in respect of tobacco or nicotine[^c-8cf12f535ea3f4deea32bd6b1d181891] offences committed in the district of that council, and
 - (c) restricted premises orders and restricted sale orders made on an application by that council,
 
 as the other council, the registration authority or, as the case may be, the Department may require.
 
 (2) Information made available under subsection (1) to a council or the registration authority may be used by the council or the registration authority only for the purpose of enabling it or assisting it to perform its functions under this Act.
 
-(3) In this section “**tobacco or nicotine[^key-e3db6c90b2c1aa703f7f23d6f66ba36b] offence**” has the meaning given in section 5(14).
+(3) In this section “**tobacco or nicotine[^c-e3db6c90b2c1aa703f7f23d6f66ba36b] offence**” has the meaning given in section 5(14).
 
-### 17. Offences by bodies corporate[^key-101024fb1c4b3e9f2bb8256073b923c7]
+### 17. Offences by bodies corporate[^c-101024fb1c4b3e9f2bb8256073b923c7]
 
 For the purposes of this Act, section 20(2) of the Interpretation Act (Northern Ireland) 1954 applies with the omission of the words “the liability of whose members is limited” and where the affairs of a body corporate are managed by its members, applies in relation to the acts or defaults of a member in connection with that member's functions of management as if that member were a director of the body corporate.
 
 ## Supplementary
 
-### 18. Amendment of the Order of 1978[^key-cba7b26f6c4b050ce145c0a89ef743db]
+### 18. Amendment of the Order of 1978[^c-cba7b26f6c4b050ce145c0a89ef743db]
 
 (1) The Health and Personal Social Services (Northern Ireland) Order 1978 is amended as follows.
 
@@ -562,7 +562,7 @@ For the purposes of this Act, section 20(2) of the Interpretation Act (Northern 
 >
 > (2) A person guilty of an offence under paragraph (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-### 19. Statutory charges[^key-31dd2540a4fbf9931b7dde725dee60ee]
+### 19. Statutory charges[^c-31dd2540a4fbf9931b7dde725dee60ee]
 
 In Schedule 11 to the Land Registration Act (Northern Ireland) 1970 (statutory charges) at the end add—
 
@@ -572,13 +572,13 @@ In Schedule 11 to the Land Registration Act (Northern Ireland) 1970 (statutory c
 
 .
 
-### 20. Vehicles, vessels, etc.[^key-e955fea6b83a3590be4ab8a20c30b730]
+### 20. Vehicles, vessels, etc.[^c-e955fea6b83a3590be4ab8a20c30b730]
 
 Regulations may provide for this Act to apply in relation to any vehicle, vessel, stall or moveable structure subject to such modifications as the Department considers necessary or expedient.
 
 ## General
 
-### 21. Service of notices in electronic form[^key-f027875c534d5e13cd350492a1350b95][^key-23a78fa566b3732daacd86ec5f72ce59]
+### 21. Service of notices in electronic form[^c-f027875c534d5e13cd350492a1350b95][^c-23a78fa566b3732daacd86ec5f72ce59]
 
 (1) The delivery of a relevant notice to a person (the “recipient”) may be effected for the purposes of this Act by transmitting it electronically, but only if it is transmitted in accordance with subsection (2).
 
@@ -604,7 +604,7 @@ Regulations may provide for this Act to apply in relation to any vehicle, vessel
 - “**relevant notice**” means a notice given or served under section 2(4), 3 or 4(5);
 - “**working day**” means a day which is not a Saturday or a Sunday, Christmas Day, Good Friday or a bank holiday in Northern Ireland under the Banking and Financial Dealings Act 1971.
 
-### 21A. Power to extend Act to other products[^key-d948008fd5a0d3dbefe51982994306c1]
+### 21A. Power to extend Act to other products[^c-d948008fd5a0d3dbefe51982994306c1]
 
 (1) The Department may by regulations amend this Act for the purpose of extending any provision that applies in relation to a tobacco product to—
 
@@ -623,7 +623,7 @@ Regulations may provide for this Act to apply in relation to any vehicle, vessel
 - “**clerk of the council**”, in relation to a council, means the clerk appointed in accordance with section 41 of the Local Government Act (Northern Ireland) 1972;
 - “**council**” means a district council;
 - “**the Department**” means the Department of Health, Social Services and Public Safety;
-- “[^key-83a826fa7de240147675d96254e0cd82]**nicotine product**” means a nicotine product within the meaning of section 7 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 the sale of which to persons aged under 18 is for the time being prohibited by regulations under section 1(1) of that Act;
+- “[^c-83a826fa7de240147675d96254e0cd82]**nicotine product**” means a nicotine product within the meaning of section 7 of the Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 the sale of which to persons aged under 18 is for the time being prohibited by regulations under section 1(1) of that Act;
 - “**notice**” means notice in writing;
 - “**premises**” includes any place and any vehicle, vessel, stall or moveable structure;
 - “**prescribed**” means prescribed by regulations;
@@ -637,7 +637,7 @@ Regulations may provide for this Act to apply in relation to any vehicle, vessel
 
 (2) In its application to this Act, the Interpretation Act (Northern Ireland) 1954 has effect as if in section 24(1) (notice by post) the word “registering” were omitted.
 
-### 23. Transitional provision[^key-760a3a0c5a7478604f936d61e7ace064]
+### 23. Transitional provision[^c-760a3a0c5a7478604f936d61e7ace064]
 
 (1) Section 5 does not apply where any of the offences mentioned in that section were committed before the commencement of that section.
 
@@ -671,7 +671,7 @@ Regulations may provide for this Act to apply in relation to any vehicle, vessel
 
 This Act may be cited as the Tobacco Retailers Act (Northern Ireland) 2014.
 
-## Schedule 1 — Retail licensing scheme[^key-3b784506e73ef103bdddc29e8ade8935]
+## Schedule 1 — Retail licensing scheme[^c-3b784506e73ef103bdddc29e8ade8935]
 
 Section 4A(6)
 
@@ -753,7 +753,7 @@ In this Schedule—
 - “**premises licence**” has the meaning given by section 4A(7);
 - “**relevant products**” has the meaning given by section 4A(7).
 
-## Schedule 2 — Financial penalties for breach of retail licence conditions[^key-67e5e6c8c824638e012e4fed202f4edb]
+## Schedule 2 — Financial penalties for breach of retail licence conditions[^c-67e5e6c8c824638e012e4fed202f4edb]
 
 Section 4C(4)
 
@@ -843,136 +843,136 @@ This Schedule makes further provision in connection with the imposition of finan
 
 ## Annotations
 
-[^key-6ddc7c633feebd0023870cd071d74515]: Commencement: S. 1 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/125/article/2/a)
+[^c-6ddc7c633feebd0023870cd071d74515]: Commencement: S. 1 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(a)](https://www.legislation.gov.uk/nisr/2014/125/article/2/a)
 
-[^key-191988f3f60dc57479592a7e8289eca9]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2014/4/section/1) in operation at 6.4.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+[^c-191988f3f60dc57479592a7e8289eca9]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2014/4/section/1) in operation at 6.4.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^key-6f4e937bc77c48e51b938a103d8eff11]: Commencement: S. 2 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/125/article/2/b)
+[^c-6f4e937bc77c48e51b938a103d8eff11]: Commencement: S. 2 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/125/article/2/b)
 
-[^key-c2d459827828f8366774c25c5aee586b]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2014/4/section/2) in operation at 6.4.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+[^c-c2d459827828f8366774c25c5aee586b]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2014/4/section/2) in operation at 6.4.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^key-4ee6f041e97c7673a589ceb59efcc2b7]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2014/4/section/3) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+[^c-4ee6f041e97c7673a589ceb59efcc2b7]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2014/4/section/3) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^key-bf726ab8490a95f9c909e9651d5cf3a4]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2014/4/section/4) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+[^c-bf726ab8490a95f9c909e9651d5cf3a4]: Commencement: [S. 4](https://www.legislation.gov.uk/nia/2014/4/section/4) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^key-03539af0093ee56564f3cbf68c14aded]: Textual amendment: [Ss. 4A-4C](https://www.legislation.gov.uk/nia/2014/4/section/4A) and cross-heading inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 88(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/88/1), [175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8)
+[^c-03539af0093ee56564f3cbf68c14aded]: Textual amendment: [Ss. 4A-4C](https://www.legislation.gov.uk/nia/2014/4/section/4A) and cross-heading inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 88(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/88/1), [175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8)
 
-[^key-63c10ec4cc933e299e2687668dc825c0]: Textual amendment: Words in [cross-heading](https://www.legislation.gov.uk/nia/2014/4/crossheading/persistent-commission-of-tobacco-offences) heading inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/3); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-63c10ec4cc933e299e2687668dc825c0]: Textual amendment: Words in [cross-heading](https://www.legislation.gov.uk/nia/2014/4/crossheading/persistent-commission-of-tobacco-offences) heading inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 3](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/3); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-47cf6ed85c5fa66c1c41eb2b4ff8c7a1]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2014/4/section/5) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
+[^c-47cf6ed85c5fa66c1c41eb2b4ff8c7a1]: Commencement: [S. 5](https://www.legislation.gov.uk/nia/2014/4/section/5) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^key-40001347379317876b2c05ac320f4803]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/5/1/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-40001347379317876b2c05ac320f4803]: Textual amendment: Words in [s. 5(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/5/1/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-e32b7c29366dd92be33aaf0ce55331f4]: Textual amendment: Words in [s. 5(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/5/1/b) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-e32b7c29366dd92be33aaf0ce55331f4]: Textual amendment: Words in [s. 5(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/5/1/b) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-03a806083640e064c3159a9fbe2a8412]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/nia/2014/4/section/5/4) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-03a806083640e064c3159a9fbe2a8412]: Textual amendment: Words in [s. 5(4)](https://www.legislation.gov.uk/nia/2014/4/section/5/4) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-d177848697b34fdf1934d840be1144fb]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/nia/2014/4/section/5/5) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-d177848697b34fdf1934d840be1144fb]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/nia/2014/4/section/5/5) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-2d49dc040e632e88d0acdab61623deb2]: Textual amendment: Words in [s. 5(8)(b)(i)](https://www.legislation.gov.uk/nia/2014/4/section/5/8/b/i) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(d)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/d); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-2d49dc040e632e88d0acdab61623deb2]: Textual amendment: Words in [s. 5(8)(b)(i)](https://www.legislation.gov.uk/nia/2014/4/section/5/8/b/i) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(d)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/d); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-ef2e61bd8aa814d2338ca33831ee8671]: Textual amendment: Words in [s. 5(8)(b)(ii)](https://www.legislation.gov.uk/nia/2014/4/section/5/8/b/ii) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(d)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/d); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-ef2e61bd8aa814d2338ca33831ee8671]: Textual amendment: Words in [s. 5(8)(b)(ii)](https://www.legislation.gov.uk/nia/2014/4/section/5/8/b/ii) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(d)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/d); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-8355ca2f8fcab7c06a0f02d393f37022]: Textual amendment: Words in [s. 5(13)(a)](https://www.legislation.gov.uk/nia/2014/4/section/5/13/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(e)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/e); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-8355ca2f8fcab7c06a0f02d393f37022]: Textual amendment: Words in [s. 5(13)(a)](https://www.legislation.gov.uk/nia/2014/4/section/5/13/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(e)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/e); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-595096f9d187600fe8123bbbd53eba57]: Textual amendment: Words in [s. 5(14)](https://www.legislation.gov.uk/nia/2014/4/section/5/14) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(f)(i)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/f/i); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-595096f9d187600fe8123bbbd53eba57]: Textual amendment: Words in [s. 5(14)](https://www.legislation.gov.uk/nia/2014/4/section/5/14) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(f)(i)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/f/i); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-448980b459be21109e67e43bd0db6a52]: Textual amendment: Word in [s. 5(14)(e)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/e) repealed (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(f)(ii)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/f/ii), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nia/2016/26/schedule/2/part/2); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)[(d)](https://www.legislation.gov.uk/nisr/2021/329/article/2/d)
+[^c-448980b459be21109e67e43bd0db6a52]: Textual amendment: Word in [s. 5(14)(e)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/e) repealed (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(f)(ii)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/f/ii), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nia/2016/26/schedule/2/part/2); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)[(d)](https://www.legislation.gov.uk/nisr/2021/329/article/2/d)
 
-[^key-60357965a1bb715ba97425f7fd8e34bb]: Textual amendment: [S. 5(14)(g)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/g) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(f)(iii)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/f/iii); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-60357965a1bb715ba97425f7fd8e34bb]: Textual amendment: [S. 5(14)(g)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/g) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(f)(iii)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/f/iii); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-b8473ca2bf408881cf3c8480e855d698]: Textual amendment: [S. 5(14)(h)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/h) and preceding word added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(f)(iv)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/f/iv); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-b8473ca2bf408881cf3c8480e855d698]: Textual amendment: [S. 5(14)(h)](https://www.legislation.gov.uk/nia/2014/4/section/5/14/h) and preceding word added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 4(f)(iv)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/4/f/iv); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-2d18534f4a9181ca2ea01ee20bdab772]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/4/section/6) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
+[^c-2d18534f4a9181ca2ea01ee20bdab772]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2014/4/section/6) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^key-d3038513e2a1550722c58e7517957dbb]: Textual amendment: Words in [s. 6(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/6/1/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-d3038513e2a1550722c58e7517957dbb]: Textual amendment: Words in [s. 6(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/6/1/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-4aaf1259ce8714368089f9ea28ef0cc6]: Textual amendment: Words in [s. 6(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/6/1/b) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-4aaf1259ce8714368089f9ea28ef0cc6]: Textual amendment: Words in [s. 6(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/6/1/b) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-1ddf419edcebee9c6e1c8146000c5486]: Textual amendment: Words in [s. 6(4)(a)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/a) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(b)(i)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/b/i); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-1ddf419edcebee9c6e1c8146000c5486]: Textual amendment: Words in [s. 6(4)(a)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/a) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(b)(i)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/b/i); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-e16f1fdbf0581fc5510e26f410d10b3b]: Textual amendment: Words in [s. 6(4)(b)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/b) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(b)(ii)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/b/ii); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-e16f1fdbf0581fc5510e26f410d10b3b]: Textual amendment: Words in [s. 6(4)(b)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/b) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(b)(ii)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/b/ii); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-f953070cfca711908b5670c26da1b6a5]: Textual amendment: Words in [s. 6(4)(c)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/c)[(d)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/d) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(b)(iv)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/b/iv); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-f953070cfca711908b5670c26da1b6a5]: Textual amendment: Words in [s. 6(4)(c)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/c)[(d)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/d) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(b)(iv)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/b/iv); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-2b7f95551c7714856fe3bbf0daac3dd2]: Textual amendment: Word in [s. 6(4)(c)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/c)[(d)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/d) repealed (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(b)(iii)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/b/iii), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nia/2016/26/schedule/2/part/2); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)[(d)](https://www.legislation.gov.uk/nisr/2021/329/article/2/d)
+[^c-2b7f95551c7714856fe3bbf0daac3dd2]: Textual amendment: Word in [s. 6(4)(c)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/c)[(d)](https://www.legislation.gov.uk/nia/2014/4/section/6/4/d) repealed (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(b)(iii)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/b/iii), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/nia/2016/26/schedule/2/part/2); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)[(d)](https://www.legislation.gov.uk/nisr/2021/329/article/2/d)
 
-[^key-06d97036449986400c6a0476b4801b40]: Textual amendment: Words in [s. 6(6)(a)](https://www.legislation.gov.uk/nia/2014/4/section/6/6/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-06d97036449986400c6a0476b4801b40]: Textual amendment: Words in [s. 6(6)(a)](https://www.legislation.gov.uk/nia/2014/4/section/6/6/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-039458f720e4ffc4c6bc5fcff4edf9f3]: Textual amendment: Words in [s. 6(6)(b)](https://www.legislation.gov.uk/nia/2014/4/section/6/6/b) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-039458f720e4ffc4c6bc5fcff4edf9f3]: Textual amendment: Words in [s. 6(6)(b)](https://www.legislation.gov.uk/nia/2014/4/section/6/6/b) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-a8ef271ef452eb8e2c86acd377fe4a7c]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/nia/2014/4/section/6/7) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/d); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-a8ef271ef452eb8e2c86acd377fe4a7c]: Textual amendment: Words in [s. 6(7)](https://www.legislation.gov.uk/nia/2014/4/section/6/7) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(d)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/d); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-406e213e172faca90df5f47ef3da0301]: Textual amendment: [S. 6(8)](https://www.legislation.gov.uk/nia/2014/4/section/6/8) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(e)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/e); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-406e213e172faca90df5f47ef3da0301]: Textual amendment: [S. 6(8)](https://www.legislation.gov.uk/nia/2014/4/section/6/8) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 5(e)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/5/e); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-9e39cfc0bb1ae6830042ab953dac2955]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2014/4/section/7) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
+[^c-9e39cfc0bb1ae6830042ab953dac2955]: Commencement: [S. 7](https://www.legislation.gov.uk/nia/2014/4/section/7) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^key-35d112a8e7f654ef29ae9ac88a52dba4]: Commencement: S. 8 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(c)](https://www.legislation.gov.uk/nisr/2014/125/article/2/c)
+[^c-35d112a8e7f654ef29ae9ac88a52dba4]: Commencement: S. 8 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(c)](https://www.legislation.gov.uk/nisr/2014/125/article/2/c)
 
-[^key-50eeff1c9a79cbc1fa13a28a3853a636]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2014/4/section/8) in operation at 1.7.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
+[^c-50eeff1c9a79cbc1fa13a28a3853a636]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2014/4/section/8) in operation at 1.7.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^key-70c3dd7fcc27590b723865571fb72c19]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/nia/2014/4/section/8/4) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/6); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-70c3dd7fcc27590b723865571fb72c19]: Textual amendment: Words in [s. 8(4)](https://www.legislation.gov.uk/nia/2014/4/section/8/4) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 6](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/6); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-77095adf3285ee84cdb072fcd2f411b0]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2014/4/section/9) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
+[^c-77095adf3285ee84cdb072fcd2f411b0]: Commencement: [S. 9](https://www.legislation.gov.uk/nia/2014/4/section/9) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^key-8df72c2995c18e11b23a552dbbbca117]: Textual amendment: Words in [cross-heading](https://www.legislation.gov.uk/nia/2014/4/crossheading/persistent-commission-of-tobacco-offences) heading inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/7/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-8df72c2995c18e11b23a552dbbbca117]: Textual amendment: Words in [cross-heading](https://www.legislation.gov.uk/nia/2014/4/crossheading/persistent-commission-of-tobacco-offences) heading inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 7(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/7/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-abc544ee4632aea6daa8f1470ee4eba1]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/nia/2014/4/section/9/2) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/7/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-abc544ee4632aea6daa8f1470ee4eba1]: Textual amendment: Words in [s. 9(2)](https://www.legislation.gov.uk/nia/2014/4/section/9/2) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 7(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/7/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-ca26f2eab1892444595892fd3869ca7b]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/nia/2014/4/section/9/3) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/7/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-ca26f2eab1892444595892fd3869ca7b]: Textual amendment: Words in [s. 9(3)](https://www.legislation.gov.uk/nia/2014/4/section/9/3) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 7(c)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/7/c); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-84c4b59df5ed25aa91d3975d00518758]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2014/4/section/10) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
+[^c-84c4b59df5ed25aa91d3975d00518758]: Commencement: [S. 10](https://www.legislation.gov.uk/nia/2014/4/section/10) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^key-b22d6957057bee3f566683ad5ee62770]: Textual amendment: Words in [s. 10(4)(a)](https://www.legislation.gov.uk/nia/2014/4/section/10/4/a) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/8); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-b22d6957057bee3f566683ad5ee62770]: Textual amendment: Words in [s. 10(4)(a)](https://www.legislation.gov.uk/nia/2014/4/section/10/4/a) substituted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/8); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-09434cd176c62637f2e99329177fa7b0]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2014/4/section/11) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+[^c-09434cd176c62637f2e99329177fa7b0]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2014/4/section/11) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^key-6e594c7ba2d75aded834a3cd5ebd63d6]: Textual amendment: [S. 11(1)(a)(iv)](https://www.legislation.gov.uk/nia/2014/4/section/11/1/a/iv) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/9/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-6e594c7ba2d75aded834a3cd5ebd63d6]: Textual amendment: [S. 11(1)(a)(iv)](https://www.legislation.gov.uk/nia/2014/4/section/11/1/a/iv) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/9/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-9e452dc55d64ce5c999e5086b310aac3]: Textual amendment: [S. 11(1)(a)(v)](https://www.legislation.gov.uk/nia/2014/4/section/11/1/a/v) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/9/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-9e452dc55d64ce5c999e5086b310aac3]: Textual amendment: [S. 11(1)(a)(v)](https://www.legislation.gov.uk/nia/2014/4/section/11/1/a/v) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/9/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-33d243f1b457e77c3aa92909c2202668]: Commencement: S. 12 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(d)](https://www.legislation.gov.uk/nisr/2014/125/article/2/d)
+[^c-33d243f1b457e77c3aa92909c2202668]: Commencement: S. 12 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(d)](https://www.legislation.gov.uk/nisr/2014/125/article/2/d)
 
-[^key-7672855db10096821fe06253c11c2d2d]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2014/4/section/12) in operation at 1.7.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
+[^c-7672855db10096821fe06253c11c2d2d]: Commencement: [S. 12](https://www.legislation.gov.uk/nia/2014/4/section/12) in operation at 1.7.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^key-56cff4878122ba4aeb1a8dc38b66a3cb]: Textual amendment: [S. 12(1)(d)](https://www.legislation.gov.uk/nia/2014/4/section/12/1/d) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/10/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-56cff4878122ba4aeb1a8dc38b66a3cb]: Textual amendment: [S. 12(1)(d)](https://www.legislation.gov.uk/nia/2014/4/section/12/1/d) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 10(a)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/10/a); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-327e8c4794b2b022e702119a2bd19ebd]: Textual amendment: [S. 12(1)(e)](https://www.legislation.gov.uk/nia/2014/4/section/12/1/e) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/10/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-327e8c4794b2b022e702119a2bd19ebd]: Textual amendment: [S. 12(1)(e)](https://www.legislation.gov.uk/nia/2014/4/section/12/1/e) added (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 10(b)](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/10/b); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-efcbc9302a84c1966881e0f6c084eab3]: Commencement: S. 13 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(e)](https://www.legislation.gov.uk/nisr/2014/125/article/2/e)
+[^c-efcbc9302a84c1966881e0f6c084eab3]: Commencement: S. 13 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(e)](https://www.legislation.gov.uk/nisr/2014/125/article/2/e)
 
-[^key-fd814e69df984fb6c5dbaf6214cbfcbf]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2014/4/section/13) in operation at 1.7.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
+[^c-fd814e69df984fb6c5dbaf6214cbfcbf]: Commencement: [S. 13](https://www.legislation.gov.uk/nia/2014/4/section/13) in operation at 1.7.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^key-90faf1027d57fcbfd29638cdbc77aac5]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2014/4/section/14) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
+[^c-90faf1027d57fcbfd29638cdbc77aac5]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2014/4/section/14) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^key-97b589bd40d46b6eb0334fbf8e628235]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2014/4/section/15) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+[^c-97b589bd40d46b6eb0334fbf8e628235]: Commencement: [S. 15](https://www.legislation.gov.uk/nia/2014/4/section/15) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^key-451aa6d38582ee95df1a78563417263e]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2014/4/section/16) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+[^c-451aa6d38582ee95df1a78563417263e]: Commencement: [S. 16](https://www.legislation.gov.uk/nia/2014/4/section/16) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^key-c95f7a916ac47d80fd10c3f5b325fac9]: Textual amendment: Words in [s. 16(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/16/1/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/11); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-c95f7a916ac47d80fd10c3f5b325fac9]: Textual amendment: Words in [s. 16(1)(a)](https://www.legislation.gov.uk/nia/2014/4/section/16/1/a) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/11); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-8cf12f535ea3f4deea32bd6b1d181891]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/16/1/b) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/11); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-8cf12f535ea3f4deea32bd6b1d181891]: Textual amendment: Words in [s. 16(1)(b)](https://www.legislation.gov.uk/nia/2014/4/section/16/1/b) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/11); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-e3db6c90b2c1aa703f7f23d6f66ba36b]: Textual amendment: Words in [s. 16(3)](https://www.legislation.gov.uk/nia/2014/4/section/16/3) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/11); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-e3db6c90b2c1aa703f7f23d6f66ba36b]: Textual amendment: Words in [s. 16(3)](https://www.legislation.gov.uk/nia/2014/4/section/16/3) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 11](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/11); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-101024fb1c4b3e9f2bb8256073b923c7]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2014/4/section/17) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+[^c-101024fb1c4b3e9f2bb8256073b923c7]: Commencement: [S. 17](https://www.legislation.gov.uk/nia/2014/4/section/17) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^key-cba7b26f6c4b050ce145c0a89ef743db]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2014/4/section/18) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+[^c-cba7b26f6c4b050ce145c0a89ef743db]: Commencement: [S. 18](https://www.legislation.gov.uk/nia/2014/4/section/18) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^key-31dd2540a4fbf9931b7dde725dee60ee]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2014/4/section/19) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
+[^c-31dd2540a4fbf9931b7dde725dee60ee]: Commencement: [S. 19](https://www.legislation.gov.uk/nia/2014/4/section/19) in operation at 1.7.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/101/article/2/b), [Sch. 2](https://www.legislation.gov.uk/nisr/2016/101/schedule/2)
 
-[^key-e955fea6b83a3590be4ab8a20c30b730]: Commencement: S. 20 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(f)](https://www.legislation.gov.uk/nisr/2014/125/article/2/f)
+[^c-e955fea6b83a3590be4ab8a20c30b730]: Commencement: S. 20 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(f)](https://www.legislation.gov.uk/nisr/2014/125/article/2/f)
 
-[^key-f027875c534d5e13cd350492a1350b95]: Commencement: S. 21 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(g)](https://www.legislation.gov.uk/nisr/2014/125/article/2/g)
+[^c-f027875c534d5e13cd350492a1350b95]: Commencement: S. 21 coming into operation (1.5.2014 for specified purposes) by [The Tobacco Retailers (2014 Act) (Commencement No. 1) Order (Northern Ireland) 2014 (S.R. 2014/125)](https://www.legislation.gov.uk/nisr/2014/125), [art. 2(g)](https://www.legislation.gov.uk/nisr/2014/125/article/2/g)
 
-[^key-23a78fa566b3732daacd86ec5f72ce59]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2014/4/section/21) in operation at 6.4.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+[^c-23a78fa566b3732daacd86ec5f72ce59]: Commencement: [S. 21](https://www.legislation.gov.uk/nia/2014/4/section/21) in operation at 6.4.2016 in so far as not already in operation by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^key-d948008fd5a0d3dbefe51982994306c1]: Textual amendment: [S. 21A](https://www.legislation.gov.uk/nia/2014/4/section/21A) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 89(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/89/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-d948008fd5a0d3dbefe51982994306c1]: Textual amendment: [S. 21A](https://www.legislation.gov.uk/nia/2014/4/section/21A) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [ss. 89(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/89/2), [175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)[(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-83a826fa7de240147675d96254e0cd82]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/nia/2014/4/section/22/1) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/12); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
+[^c-83a826fa7de240147675d96254e0cd82]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/nia/2014/4/section/22/1) inserted (1.2.2022) by [Health (Miscellaneous Provisions) Act (Northern Ireland) 2016 (c. 26)](https://www.legislation.gov.uk/nia/2016/26), [s. 20(3)](https://www.legislation.gov.uk/nia/2016/26/section/20/3), [Sch. 1 para. 12](https://www.legislation.gov.uk/nia/2016/26/schedule/1/paragraph/12); [S.R. 2021/329](https://www.legislation.gov.uk/nisr/2021/329), [art. 2(c)](https://www.legislation.gov.uk/nisr/2021/329/article/2/c)
 
-[^key-760a3a0c5a7478604f936d61e7ace064]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2014/4/section/23) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
+[^c-760a3a0c5a7478604f936d61e7ace064]: Commencement: [S. 23](https://www.legislation.gov.uk/nia/2014/4/section/23) in operation at 6.4.2016 by [S.R. 2016/101](https://www.legislation.gov.uk/nisr/2016/101), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/101/article/2/a), [Sch. 1](https://www.legislation.gov.uk/nisr/2016/101/schedule/1)
 
-[^key-3b784506e73ef103bdddc29e8ade8935]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nia/2014/4/schedule/1) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 11](https://www.legislation.gov.uk/ukpga/2026/18/schedule/11)
+[^c-3b784506e73ef103bdddc29e8ade8935]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nia/2014/4/schedule/1) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 11](https://www.legislation.gov.uk/ukpga/2026/18/schedule/11)
 
-[^key-67e5e6c8c824638e012e4fed202f4edb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nia/2014/4/schedule/2) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 12](https://www.legislation.gov.uk/ukpga/2026/18/schedule/12)
+[^c-67e5e6c8c824638e012e4fed202f4edb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/nia/2014/4/schedule/2) inserted (29.4.2026 for specified purposes) by [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)[(8)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/8), [Sch. 12](https://www.legislation.gov.uk/ukpga/2026/18/schedule/12)

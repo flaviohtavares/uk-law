@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 159. Variation of, or addition to, the list[^key-89541230e03681a1754af053105a2510]
+## 159. Variation of, or addition to, the list[^c-89541230e03681a1754af053105a2510]
 
 *Extent: E+W*
 
-Apply rule 4.200 of the 1986 Rules. [^key-0ac19c2020fa263c8ab9b741b01af4ca]...
+Apply rule 4.200 of the 1986 Rules. [^c-0ac19c2020fa263c8ab9b741b01af4ca]...
 
 ## Annotations
 
-[^key-89541230e03681a1754af053105a2510]: Commencement: Rule 159 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-89541230e03681a1754af053105a2510]: Commencement: Rule 159 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-0ac19c2020fa263c8ab9b741b01af4ca]: Textual amendment: Words in [rule 159](https://www.legislation.gov.uk/uksi/2009/356/rule/159) omitted (15.11.2010) by virtue of [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [54](https://www.legislation.gov.uk/uksi/2010/2579/rule/54)
+[^c-0ac19c2020fa263c8ab9b741b01af4ca]: Textual amendment: Words in [rule 159](https://www.legislation.gov.uk/uksi/2009/356/rule/159) omitted (15.11.2010) by virtue of [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [54](https://www.legislation.gov.uk/uksi/2010/2579/rule/54)

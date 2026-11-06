@@ -37,11 +37,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## 1. Power of Housing Corporation to delegate functions etc.
 
-(1) In Schedule 6 to the Housing Associations Act 1985 (c. 69) (constitution of Housing Corporation), after paragraph 6 insert— *(Extent: E+W)* *(affected by repeal, see note)*[^key-30ae38605bf9fa8f08a5dc3c367e4206]
+(1) In Schedule 6 to the Housing Associations Act 1985 (c. 69) (constitution of Housing Corporation), after paragraph 6 insert— *(Extent: E+W)* *(affected by repeal, see note)*[^c-30ae38605bf9fa8f08a5dc3c367e4206]
 
-> **6A (Extent: E+W) (affected by repeal, see note). Delegation of functions (Extent: E+W) (affected by repeal, see note)[^key-30ae38605bf9fa8f08a5dc3c367e4206][^key-30ae38605bf9fa8f08a5dc3c367e4206]**
+> **6A (Extent: E+W) (affected by repeal, see note). Delegation of functions (Extent: E+W) (affected by repeal, see note)[^c-30ae38605bf9fa8f08a5dc3c367e4206][^c-30ae38605bf9fa8f08a5dc3c367e4206]**
 >
-> The Housing Corporation may delegate the exercise of any of its functions to any of its members, committees, sub-committees or employees. *(Extent: E+W)* *(affected by repeal, see note)*[^key-30ae38605bf9fa8f08a5dc3c367e4206]
+> The Housing Corporation may delegate the exercise of any of its functions to any of its members, committees, sub-committees or employees. *(Extent: E+W)* *(affected by repeal, see note)*[^c-30ae38605bf9fa8f08a5dc3c367e4206]
 
 (2) The Housing Corporation is to be taken to have been authorised, at all times before the passing of this Act, to delegate the exercise of any of its functions to any of its members, committees, sub-committees or employees; and Housing for Wales is to be taken to have been so authorised at all times before its abolition.
 
@@ -57,4 +57,4 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-30ae38605bf9fa8f08a5dc3c367e4206]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2006/27/section/1/1) repealed (E.W.) (1.4.2009) by [Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2)
+[^c-30ae38605bf9fa8f08a5dc3c367e4206]: Textual amendment: [S. 1(1)](https://www.legislation.gov.uk/ukpga/2006/27/section/1/1) repealed (E.W.) (1.4.2009) by [Housing Corporation (Dissolution) Order 2009 (S.I. 2009/484)](https://www.legislation.gov.uk/uksi/2009/484), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/484/article/1/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2009/484/schedule/2)

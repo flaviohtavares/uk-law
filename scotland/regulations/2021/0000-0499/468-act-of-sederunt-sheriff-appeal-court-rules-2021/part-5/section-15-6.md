@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15.6. Hearing of opposed motions[^key-9d197a00a642b4b9ea336e144d4c82fd]
+## 15.6. Hearing of opposed motions[^c-9d197a00a642b4b9ea336e144d4c82fd]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d197a00a642b4b9ea336e144d4c82fd]: Commencement: Para. 15.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-9d197a00a642b4b9ea336e144d4c82fd]: Commencement: Para. 15.6 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

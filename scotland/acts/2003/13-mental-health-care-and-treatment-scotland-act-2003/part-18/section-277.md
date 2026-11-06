@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 277. Education of persons who have mental disorder[^key-98a7260e55652c360cf5ac91f5ef7d11]
+## 277. Education of persons who have mental disorder[^c-98a7260e55652c360cf5ac91f5ef7d11]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98a7260e55652c360cf5ac91f5ef7d11]: Commencement: S. 277 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-98a7260e55652c360cf5ac91f5ef7d11]: Commencement: S. 277 in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

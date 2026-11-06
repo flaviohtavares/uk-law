@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52.7A. Permission to appeal in contempt proceedings where the appeal lies to the Supreme Court[^key-5f6626e693531bff3a01f7ef5c44519c][^key-80838474f749f7ae040b777947f28e75]
+## 52.7A. Permission to appeal in contempt proceedings where the appeal lies to the Supreme Court[^c-5f6626e693531bff3a01f7ef5c44519c][^c-80838474f749f7ae040b777947f28e75]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5f6626e693531bff3a01f7ef5c44519c]: Textual amendment: Rule 52.7A inserted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [24(6)](https://www.legislation.gov.uk/uksi/2023/788/rule/24/6)
+[^c-5f6626e693531bff3a01f7ef5c44519c]: Textual amendment: Rule 52.7A inserted (1.10.2023 immediately after [S.I. 2023/572](https://www.legislation.gov.uk/uksi/2023/572) comes into force) by [The Civil Procedure (Amendment No. 3) Rules 2023 (S.I. 2023/788)](https://www.legislation.gov.uk/uksi/2023/788), [rules 1(1)](https://www.legislation.gov.uk/uksi/2023/788/rule/1/1), [24(6)](https://www.legislation.gov.uk/uksi/2023/788/rule/24/6)
 
-[^key-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
+[^c-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))

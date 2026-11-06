@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 119. Notice to joint special PPP administrators[^key-329e475c721293982ab401266e316abf]
+## 119. Notice to joint special PPP administrators[^c-329e475c721293982ab401266e316abf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where 2 or more persons are acting jointly as the special PPP administrator in a
 
 ## Annotations
 
-[^key-329e475c721293982ab401266e316abf]: Commencement: [Rule 119](https://www.legislation.gov.uk/uksi/2007/3141/rule/119) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-329e475c721293982ab401266e316abf]: Commencement: [Rule 119](https://www.legislation.gov.uk/uksi/2007/3141/rule/119) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

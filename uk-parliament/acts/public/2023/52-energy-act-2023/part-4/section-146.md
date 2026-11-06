@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Further provision about scheme regulations[^key-2be4d6dbc1600370319dc4ef146027e2]
+## 146. Further provision about scheme regulations[^c-2be4d6dbc1600370319dc4ef146027e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2be4d6dbc1600370319dc4ef146027e2]: Commencement: S. 146 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)
+[^c-2be4d6dbc1600370319dc4ef146027e2]: Commencement: S. 146 in force at Royal Assent, see [s. 334(2)(c)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1A. Interpretation[^key-bc7336555f332d8810f91795c0db11fe][^M_I_d6426103-9027-4710-aa46-49003d5dbb6c]
+## 1A. Interpretation[^c-bc7336555f332d8810f91795c0db11fe][^M_I_d6426103-9027-4710-aa46-49003d5dbb6c]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bc7336555f332d8810f91795c0db11fe]: Textual amendment: Reg. 1A inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1394/regulation/3)
+[^c-bc7336555f332d8810f91795c0db11fe]: Textual amendment: Reg. 1A inserted (31.12.2020 immediately before IP completion day) by [The European Qualifications (Health and Social Care Professions) (EFTA States) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1394)](https://www.legislation.gov.uk/uksi/2020/1394), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1394/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1394/regulation/3)
 
 [^M_I_d6426103-9027-4710-aa46-49003d5dbb6c]: Commencement: Reg. 1A in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Procedure for directions applying code[^key-67108c53a70cfb09111f055734a14387][^key-e0f826758b2c475f9314831f77dcbb46][^key-e872157b404878da471c1f33064df012]
+## 107. Procedure for directions applying code[^c-67108c53a70cfb09111f055734a14387][^c-e0f826758b2c475f9314831f77dcbb46][^c-e872157b404878da471c1f33064df012]
 
 *Extent: E+W+S+N.I.*
 
 (1) OFCOM are not to give a direction applying the electronic communications code in any person’s case except on an application made for the purpose by that person.
 
-(1A)[^key-4541f72ce592e05a02a3bc51a68288ee] Regulation 3 of the Electronic Communications and Wireless Telegraphy Regulations 2011 makes provision about the time within which an application under subsection (1) must be determined.
+(1A)[^c-4541f72ce592e05a02a3bc51a68288ee] Regulation 3 of the Electronic Communications and Wireless Telegraphy Regulations 2011 makes provision about the time within which an application under subsection (1) must be determined.
 
 (2) If OFCOM publish a notification setting out their requirements with respect to—
 
@@ -36,7 +36,7 @@ such an application must be made in accordance with the requirements for the tim
 - (a) from time to time review the requirements for the time being in force for the purposes of subsection (2); and
 - (b) on any such review, modify them in such manner as they think fit by giving a notification of the revised requirements.
 
-(3A)[^key-750469f62176e7d81d8d264f56c2965f] A modification may not be made under subsection (3) unless the modification is—
+(3A)[^c-750469f62176e7d81d8d264f56c2965f] A modification may not be made under subsection (3) unless the modification is—
 
 - (a) objectively justifiable, and
 - (b) proportionate to what it is intended to achieve.
@@ -47,7 +47,7 @@ such an application must be made in accordance with the requirements for the tim
 - (b) a statement of their reasons for the proposal, and
 - (c) a statement of the period within which representations may be made to them about the proposal.
 
-(3C) The period specified under subsection (3B)(c) must end no less than 30 days[^key-02b7ec60d5cef94d3700c3d71587c7ff] after the day of the publication of the notification.
+(3C) The period specified under subsection (3B)(c) must end no less than 30 days[^c-02b7ec60d5cef94d3700c3d71587c7ff] after the day of the publication of the notification.
 
 (4) In considering whether to apply the electronic communications code in any person’s case, OFCOM must have regard, in particular, to each of the following matters—
 
@@ -78,22 +78,22 @@ such an application must be made in accordance with the requirements for the tim
 
 but this subsection is subject to sections 113(7) and 115(5).
 
-(9) The period specified as the period within which representations may be made must end no less than 30 days[^key-6fb2317500494b540ca5d9b35fe61b07] after the day of the publication of the notification.
+(9) The period specified as the period within which representations may be made must end no less than 30 days[^c-6fb2317500494b540ca5d9b35fe61b07] after the day of the publication of the notification.
 
 (10) The publication by OFCOM of a notification for any of the purposes of this section must be a publication in such manner as OFCOM consider appropriate for bringing the notification to the attention of the persons who, in their opinion, are likely to be affected by it.
 
 ## Annotations
 
-[^key-67108c53a70cfb09111f055734a14387]: Commencement: S. 107 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
+[^c-67108c53a70cfb09111f055734a14387]: Commencement: S. 107 in force at 25.7.2003 for specified purposes by [S.I. 2003/1900](https://www.legislation.gov.uk/uksi/2003/1900), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/1900/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2003/1900/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1900/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2003/1900/article/3)) (as amended by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), art. 1(3))
 
-[^key-e0f826758b2c475f9314831f77dcbb46]: Commencement: S. 107 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-e0f826758b2c475f9314831f77dcbb46]: Commencement: S. 107 in force at 29.12.2003 in so far as not already in force by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(2)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/2) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-e872157b404878da471c1f33064df012]: Modification: Ss. 106-119 modified (coming into force in accordance with reg. 1 of the amending S.I.) by [The Electronic Communications Code (Transitional Provisions) Regulations 2017 (S.I. 2017/1008)](https://www.legislation.gov.uk/uksi/2017/1008), [reg. 4](https://www.legislation.gov.uk/uksi/2017/1008/regulation/4)
+[^c-e872157b404878da471c1f33064df012]: Modification: Ss. 106-119 modified (coming into force in accordance with reg. 1 of the amending S.I.) by [The Electronic Communications Code (Transitional Provisions) Regulations 2017 (S.I. 2017/1008)](https://www.legislation.gov.uk/uksi/2017/1008), [reg. 4](https://www.legislation.gov.uk/uksi/2017/1008/regulation/4)
 
-[^key-4541f72ce592e05a02a3bc51a68288ee]: Textual amendment: S. 107(1A) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 66(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/66/a) (with [Sch. 3 paras. 1](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-4541f72ce592e05a02a3bc51a68288ee]: Textual amendment: S. 107(1A) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 66(a)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/66/a) (with [Sch. 3 paras. 1](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-750469f62176e7d81d8d264f56c2965f]: Textual amendment: S. 107(3A)-(3C) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 66(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/66/b) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
+[^c-750469f62176e7d81d8d264f56c2965f]: Textual amendment: S. 107(3A)-(3C) inserted (26.5.2011) by [The Electronic Communications and Wireless Telegraphy Regulations 2011 (S.I. 2011/1210)](https://www.legislation.gov.uk/uksi/2011/1210), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1210/regulation/1/2), [Sch. 1 para. 66(b)](https://www.legislation.gov.uk/uksi/2011/1210/schedule/1/paragraph/66/b) (with [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/2011/1210/schedule/3/paragraph/2))
 
-[^key-02b7ec60d5cef94d3700c3d71587c7ff]: Textual amendment: Words in s. 107(3C) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/53)
+[^c-02b7ec60d5cef94d3700c3d71587c7ff]: Textual amendment: Words in s. 107(3C) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/53)
 
-[^key-6fb2317500494b540ca5d9b35fe61b07]: Textual amendment: Words in s. 107(9) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/53)
+[^c-6fb2317500494b540ca5d9b35fe61b07]: Textual amendment: Words in s. 107(9) substituted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 53](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/53)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Operation of authorised project[^key-3a599befd00cfdc6b6ae4fa19330c4bf]
+## 6. Operation of authorised project[^c-3a599befd00cfdc6b6ae4fa19330c4bf]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a599befd00cfdc6b6ae4fa19330c4bf]: Commencement: Art. 6 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)
+[^c-3a599befd00cfdc6b6ae4fa19330c4bf]: Commencement: Art. 6 in force at 15.9.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/853/article/1)

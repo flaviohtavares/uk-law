@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49. Certification of plans, etc.[^key-6ac2cd2423b6fb7b779d48027b6a9538]
+## 49. Certification of plans, etc.[^c-6ac2cd2423b6fb7b779d48027b6a9538]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ac2cd2423b6fb7b779d48027b6a9538]: Commencement: Art. 49 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-6ac2cd2423b6fb7b779d48027b6a9538]: Commencement: Art. 49 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

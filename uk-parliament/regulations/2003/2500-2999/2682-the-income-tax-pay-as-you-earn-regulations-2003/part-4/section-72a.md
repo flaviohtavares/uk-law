@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72A. Employer’s request for a direction and appeal against refusal[^key-c82d91acd8bf4919ec7268a0184211c8]
+## 72A. Employer’s request for a direction and appeal against refusal[^c-c82d91acd8bf4919ec7268a0184211c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,16 +47,16 @@ summary: ''
 - (a) the employer did take reasonable care to comply with these Regulations, and
 - (b) the failure to deduct the excess was due to an error made in good faith.
 
-(6) If on appeal under paragraph (4) that is notified to the tribunal[^key-f8e7d13489cf1acfd86f578fcc3642db] it appears to the tribunal[^key-cef803a80186800ad1efaf9425fc23d8] that the refusal notice should not have been issued the tribunal[^key-3e03fb8dd6c1c7e73762a32ed87d30a0] may direct that the Inland Revenue make a direction under regulation 72(5) in an amount the tribunal determines[^key-cadd83deec866844eaf7d356174dd3ab] is the excess for one or more tax periods falling within the relevant tax year.
+(6) If on appeal under paragraph (4) that is notified to the tribunal[^c-f8e7d13489cf1acfd86f578fcc3642db] it appears to the tribunal[^c-cef803a80186800ad1efaf9425fc23d8] that the refusal notice should not have been issued the tribunal[^c-3e03fb8dd6c1c7e73762a32ed87d30a0] may direct that the Inland Revenue make a direction under regulation 72(5) in an amount the tribunal determines[^c-cadd83deec866844eaf7d356174dd3ab] is the excess for one or more tax periods falling within the relevant tax year.
 
 ## Annotations
 
-[^key-c82d91acd8bf4919ec7268a0184211c8]: Textual amendment: Regs. 72A-72D inserted (12.4.2004) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2004 (S.I. 2004/851)](https://www.legislation.gov.uk/uksi/2004/851), [regs. 1](https://www.legislation.gov.uk/uksi/2004/851/regulation/1), [4](https://www.legislation.gov.uk/uksi/2004/851/regulation/4)
+[^c-c82d91acd8bf4919ec7268a0184211c8]: Textual amendment: Regs. 72A-72D inserted (12.4.2004) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2004 (S.I. 2004/851)](https://www.legislation.gov.uk/uksi/2004/851), [regs. 1](https://www.legislation.gov.uk/uksi/2004/851/regulation/1), [4](https://www.legislation.gov.uk/uksi/2004/851/regulation/4)
 
-[^key-f8e7d13489cf1acfd86f578fcc3642db]: Textual amendment: Words in [reg. 72A(6)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72A/6) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 96(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/96/2)
+[^c-f8e7d13489cf1acfd86f578fcc3642db]: Textual amendment: Words in [reg. 72A(6)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72A/6) inserted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 96(2)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/96/2)
 
-[^key-cef803a80186800ad1efaf9425fc23d8]: Textual amendment: Word in [reg. 72A(6)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72A/6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 96(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/96/3)
+[^c-cef803a80186800ad1efaf9425fc23d8]: Textual amendment: Word in [reg. 72A(6)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72A/6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 96(3)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/96/3)
 
-[^key-3e03fb8dd6c1c7e73762a32ed87d30a0]: Textual amendment: Words in [reg. 72A(6)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72A/6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 96(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/96/4)
+[^c-3e03fb8dd6c1c7e73762a32ed87d30a0]: Textual amendment: Words in [reg. 72A(6)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72A/6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 96(4)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/96/4)
 
-[^key-cadd83deec866844eaf7d356174dd3ab]: Textual amendment: Words in [reg. 72A(6)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72A/6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 96(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/96/5)
+[^c-cadd83deec866844eaf7d356174dd3ab]: Textual amendment: Words in [reg. 72A(6)](https://www.legislation.gov.uk/uksi/2003/2682/regulation/72A/6) substituted (1.4.2009) by [The Transfer of Tribunal Functions and Revenue and Customs Appeals Order 2009 (S.I. 2009/56)](https://www.legislation.gov.uk/uksi/2009/56), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/56/article/1/2), [Sch. 2 para. 96(5)](https://www.legislation.gov.uk/uksi/2009/56/schedule/2/paragraph/96/5)

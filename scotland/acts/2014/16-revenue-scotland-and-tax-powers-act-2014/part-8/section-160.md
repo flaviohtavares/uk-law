@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 160. Land and buildings transaction tax: first penalty for failure to make return[^key-493930f871189c670e38b9cd4f06e311]
+## 160. Land and buildings transaction tax: first penalty for failure to make return[^c-493930f871189c670e38b9cd4f06e311]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-493930f871189c670e38b9cd4f06e311]: Commencement: [S. 160](https://www.legislation.gov.uk/asp/2014/16/section/160) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-493930f871189c670e38b9cd4f06e311]: Commencement: [S. 160](https://www.legislation.gov.uk/asp/2014/16/section/160) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

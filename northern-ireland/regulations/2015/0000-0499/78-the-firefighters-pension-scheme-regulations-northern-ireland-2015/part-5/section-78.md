@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where an active member has not claimed payment of the retirement pension before the date on which that member retires, the pension will be payable from a date after the claim is made as notified to the member by the scheme manager.
 
-(3)[^key-91dd4943b22455e375b7a7100ab3c300] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-91dd4943b22455e375b7a7100ab3c300] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In the case of an active member who to exercises the partial retirement option, the first period for which any retirement pension is payable begins on the date after the date on which the partial retirement option is exercised.
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91dd4943b22455e375b7a7100ab3c300]: Textual amendment: [Reg. 78(3)](https://www.legislation.gov.uk/nisr/2015/78/regulation/78/3) omitted (9.1.2025) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1), [5(4)(e)](https://www.legislation.gov.uk/nisr/2024/218/regulation/5/4/e)
+[^c-91dd4943b22455e375b7a7100ab3c300]: Textual amendment: [Reg. 78(3)](https://www.legislation.gov.uk/nisr/2015/78/regulation/78/3) omitted (9.1.2025) by virtue of [The Firefighters’ Pension Schemes and Compensation Scheme (Amendment) (No. 2) Regulations (Northern Ireland) 2024 (S.R. 2024/218)](https://www.legislation.gov.uk/nisr/2024/218), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/218/regulation/1/1), [5(4)(e)](https://www.legislation.gov.uk/nisr/2024/218/regulation/5/4/e)

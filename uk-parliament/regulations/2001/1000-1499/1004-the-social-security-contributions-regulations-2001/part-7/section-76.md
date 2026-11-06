@@ -28,10 +28,10 @@ summary: ''
 
 (4) A certificate of the Board that any amount of interest payable under this regulation has not been paid to the Board or, to the best of the Board’s knowledge and belief, to any person acting on their behalf, shall be sufficient evidence that the employer is liable to pay to the Board the amount of interest shown on the certificate and that the sum is unpaid and due to be paid, and any document purporting to be such a certificate shall be deemed to be a certificate until the contrary is proved.
 
-(5) For the purposes of this regulation, “the reckonable date” means the 19th July or where payment is made by an approved method of electronic communications in respect of earnings paid after 5th April 2004, the 22nd July[^key-69dde26dabef955c8eeabc13396fa2c9] in the year immediately following the end of the year in respect of which the Class 1A contribution is payable to the Board.
+(5) For the purposes of this regulation, “the reckonable date” means the 19th July or where payment is made by an approved method of electronic communications in respect of earnings paid after 5th April 2004, the 22nd July[^c-69dde26dabef955c8eeabc13396fa2c9] in the year immediately following the end of the year in respect of which the Class 1A contribution is payable to the Board.
 
 ## Annotations
 
 [^c17675591]: Textual amendment: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61): section 92 was amended by sections 3(1) and 4(4) of the [Banking and Financial Dealings Act 1971 (c. 80)](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-69dde26dabef955c8eeabc13396fa2c9]: Textual amendment: Words in reg. 76(5) inserted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2004/770/regulation/19)
+[^c-69dde26dabef955c8eeabc13396fa2c9]: Textual amendment: Words in reg. 76(5) inserted (6.4.2004) by [The Social Security (Contributions, Categorisation of Earners and Intermediaries) (Amendment) Regulations 2004 (S.I. 2004/770)](https://www.legislation.gov.uk/uksi/2004/770), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/770/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2004/770/regulation/19)

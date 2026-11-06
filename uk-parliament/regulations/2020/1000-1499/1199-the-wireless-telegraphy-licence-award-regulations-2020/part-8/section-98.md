@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Determination of the winning 3.6 GHz assignment stage bids where there is no valid full adjacency agreement and no valid partial adjacency agreement[^key-695e451da5aa5192d0e80796b60c808c]
+## 98. Determination of the winning 3.6 GHz assignment stage bids where there is no valid full adjacency agreement and no valid partial adjacency agreement[^c-695e451da5aa5192d0e80796b60c808c]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-695e451da5aa5192d0e80796b60c808c]: Commencement: Reg. 98 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-695e451da5aa5192d0e80796b60c808c]: Commencement: Reg. 98 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

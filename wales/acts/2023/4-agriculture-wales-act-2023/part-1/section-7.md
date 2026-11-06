@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Steps to be taken in preparing reports[^key-4b6056ff696c3b11086d2c59c9055bcd]
+## 7. Steps to be taken in preparing reports[^c-4b6056ff696c3b11086d2c59c9055bcd]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ In preparing a report under section 6, the Welsh Ministers must have regard toâ€
 
 ## Annotations
 
-[^key-4b6056ff696c3b11086d2c59c9055bcd]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2023/4/section/7) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)
+[^c-4b6056ff696c3b11086d2c59c9055bcd]: Commencement: [S. 7](https://www.legislation.gov.uk/asc/2023/4/section/7) in force at 17.10.2023, see [s. 56(2)(a)](https://www.legislation.gov.uk/asc/2023/4/section/56/2/a)

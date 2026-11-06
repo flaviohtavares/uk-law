@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule A1 — Carried Interest: interpretation of key terms[^key-2922034a4ab5f575984274e9e86ddba4]
+## Schedule A1 — Carried Interest: interpretation of key terms[^c-2922034a4ab5f575984274e9e86ddba4]
 
 *Extent: E+W+S+N.I.*
 
@@ -1090,4 +1090,4 @@ the amount of carried interest to be presumed to arise in the circumstances ment
 
 ## Annotations
 
-[^key-2922034a4ab5f575984274e9e86ddba4]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/ukpga/2005/5/schedule/A1) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/1)
+[^c-2922034a4ab5f575984274e9e86ddba4]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/ukpga/2005/5/schedule/A1) inserted (for the tax year 2026-27 and subsequent tax years (but in relation to investment management services whenever performed)) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 58(6)](https://www.legislation.gov.uk/ukpga/2026/11/section/58/6), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2026/11/schedule/11/paragraph/1)

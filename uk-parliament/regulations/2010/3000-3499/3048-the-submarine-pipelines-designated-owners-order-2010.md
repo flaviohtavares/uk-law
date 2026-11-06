@@ -32,7 +32,7 @@ summary: ''
 
 Pipe-lines
 
-The Submarine Pipelines (Designated Owners) Order 2010 (revoked)[^key-6b75dcaa164403e0786f4ceceac29764]
+The Submarine Pipelines (Designated Owners) Order 2010 (revoked)[^c-6b75dcaa164403e0786f4ceceac29764]
 
 Made
 
@@ -42,36 +42,36 @@ Coming into force
 
 5th January 2011
 
-[^key-6b75dcaa164403e0786f4ceceac29764]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b75dcaa164403e0786f4ceceac29764]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6b75dcaa164403e0786f4ceceac29764]
+## 1. Citation and commencement[^c-6b75dcaa164403e0786f4ceceac29764]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designation of ownership[^key-6b75dcaa164403e0786f4ceceac29764]
+## 2. Designation of ownership[^c-6b75dcaa164403e0786f4ceceac29764]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b75dcaa164403e0786f4ceceac29764]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b75dcaa164403e0786f4ceceac29764]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-6b75dcaa164403e0786f4ceceac29764]
+## SCHEDULE[^c-6b75dcaa164403e0786f4ceceac29764]
 
-### PART 1 — DESIGNATED OWNERS[^key-6b75dcaa164403e0786f4ceceac29764]
+### PART 1 — DESIGNATED OWNERS[^c-6b75dcaa164403e0786f4ceceac29764]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — DESCRIPTION OF PIPELINES[^key-6b75dcaa164403e0786f4ceceac29764]
+### PART 2 — DESCRIPTION OF PIPELINES[^c-6b75dcaa164403e0786f4ceceac29764]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6b75dcaa164403e0786f4ceceac29764]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b75dcaa164403e0786f4ceceac29764]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6b75dcaa164403e0786f4ceceac29764]: Textual amendment: Order revoked (6.4.2014) by [The Submarine Pipelines (Designated Owners) (Revocation) Order 2014 (S.I. 2014/422)](https://www.legislation.gov.uk/uksi/2014/422), [arts. 1](https://www.legislation.gov.uk/uksi/2014/422/article/1), [2](https://www.legislation.gov.uk/uksi/2014/422/article/2)
+[^c-6b75dcaa164403e0786f4ceceac29764]: Textual amendment: Order revoked (6.4.2014) by [The Submarine Pipelines (Designated Owners) (Revocation) Order 2014 (S.I. 2014/422)](https://www.legislation.gov.uk/uksi/2014/422), [arts. 1](https://www.legislation.gov.uk/uksi/2014/422/article/1), [2](https://www.legislation.gov.uk/uksi/2014/422/article/2)

@@ -46,9 +46,9 @@ Section 72
 
 **6.** [^c19276161]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-184f34075ab74134059c328e61db2478] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-184f34075ab74134059c328e61db2478] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-9411ded7c52e31ee1fe08628bc5dfd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-9411ded7c52e31ee1fe08628bc5dfd69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **9.** [^c19278761]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -58,9 +58,9 @@ Section 72
 
 **12.** [^c19278831]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-aa5cda53e657a6205cb7d5b6e1efd269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-aa5cda53e657a6205cb7d5b6e1efd269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-34e94dfef46958c427c6792c0875b9a3][^c19265051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-34e94dfef46958c427c6792c0875b9a3][^c19265051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **15.** [^c19278861]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -80,9 +80,9 @@ Section 72
 
 [^c19276161]: Textual amendment: Sch. 12 para. 6 repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 184](https://www.legislation.gov.uk/ukpga/2006/40/section/184), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(m)(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/m/q)
 
-[^key-184f34075ab74134059c328e61db2478]: Textual amendment: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2005/18/schedule/12/paragraph/7) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(9)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/9/b); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-184f34075ab74134059c328e61db2478]: Textual amendment: [Sch. 12 para. 7](https://www.legislation.gov.uk/ukpga/2005/18/schedule/12/paragraph/7) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(9)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/9/b); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-9411ded7c52e31ee1fe08628bc5dfd69]: Textual amendment: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2005/18/schedule/12/paragraph/8) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(9)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/9/b); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-9411ded7c52e31ee1fe08628bc5dfd69]: Textual amendment: [Sch. 12 para. 8](https://www.legislation.gov.uk/ukpga/2005/18/schedule/12/paragraph/8) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(9)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/9/b); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
 [^c19278761]: Textual amendment: Sch. 12 para. 9 repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 184](https://www.legislation.gov.uk/ukpga/2006/40/section/184), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(m)(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/m/q)
 
@@ -92,9 +92,9 @@ Section 72
 
 [^c19278831]: Textual amendment: Sch. 12 para. 12 repealed (25.5.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 184](https://www.legislation.gov.uk/ukpga/2006/40/section/184), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188), [Sch. 18 Pt. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/3); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(m)(q)](https://www.legislation.gov.uk/uksi/2007/935/article/7/m/q)
 
-[^key-aa5cda53e657a6205cb7d5b6e1efd269]: Textual amendment: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2005/18/schedule/12/paragraph/13) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(9)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/9/b); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-aa5cda53e657a6205cb7d5b6e1efd269]: Textual amendment: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/2005/18/schedule/12/paragraph/13) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(9)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/9/b); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
-[^key-34e94dfef46958c427c6792c0875b9a3]: Textual amendment: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2005/18/schedule/12/paragraph/14) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(9)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/9/b); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
+[^c-34e94dfef46958c427c6792c0875b9a3]: Textual amendment: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/2005/18/schedule/12/paragraph/14) omitted (1.10.2013) by virtue of [School Standards and Organisation (Wales) Act 2013 (anaw 1)](https://www.legislation.gov.uk/anaw/2013/1), [s. 100(4)](https://www.legislation.gov.uk/anaw/2013/1/section/100/4), [Sch. 5 para. 22(9)(b)](https://www.legislation.gov.uk/anaw/2013/1/schedule/5/paragraph/22/9/b); [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(j)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/j)
 
 [^c19265051]: Commencement: Sch. 12 para. 14 partly in force; Sch. 12 para. 14 not in force at Royal Assent see s. 125; Sch. 12 para. 14 in force for certain purposes at 1.9.2006 by [S.I. 2006/2129](https://www.legislation.gov.uk/uksi/2006/2129), [art. 4](https://www.legislation.gov.uk/uksi/2006/2129/article/4)
 

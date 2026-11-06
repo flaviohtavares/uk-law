@@ -25,7 +25,7 @@ summary: ''
 - (a) the conditions mentioned in section 5(2) above are satisfied by reference to the society’s proposed memorandum; and
 - (b) the society complies with the requirements in Schedule 3 to this Act which are applicable to its registration under this Act;
 
-and such a society is so incorporated as from the date of its registration by the FCA[^key-7f86d7d3cec6675e9a4a071ff6a7d70f].
+and such a society is so incorporated as from the date of its registration by the FCA[^c-7f86d7d3cec6675e9a4a071ff6a7d70f].
 
 (2) On the incorporation of a registered friendly society all property held immediately before incorporation by any person in trust for the society shall become by virtue of this subsection the property of the society after incorporation.
 
@@ -46,4 +46,4 @@ shall, subject to subsection (5) below, become by virtue of this subsection prop
 
 ## Annotations
 
-[^key-7f86d7d3cec6675e9a4a071ff6a7d70f]: Textual amendment: Word in [s. 6](https://www.legislation.gov.uk/ukpga/1992/40/section/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 5](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-7f86d7d3cec6675e9a4a071ff6a7d70f]: Textual amendment: Word in [s. 6](https://www.legislation.gov.uk/ukpga/1992/40/section/6) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 5](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

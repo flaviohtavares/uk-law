@@ -16,18 +16,18 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Notification of liability to pay import duty by release to the free-circulation, temporary admission or authorised use procedure[^key-ed560aed453e8446d4b524d87e8d5491][^key-302606d159bff3b39c5b1dbf0584ce62][^key-302606d159bff3b39c5b1dbf0584ce62]
+## 40. Notification of liability to pay import duty by release to the free-circulation, temporary admission or authorised use procedure[^c-ed560aed453e8446d4b524d87e8d5491][^c-302606d159bff3b39c5b1dbf0584ce62][^c-302606d159bff3b39c5b1dbf0584ce62]
 
 *Extent: E+W+S+N.I.*
 
 (1) Where a person makes a Customs declaration for the free-circulation procedure [^c23521901], a temporary admission procedure [^c23521911] or an authorised use procedure [^c23521921] which is required to state the amount of import duty on the chargeable goods [^c23521931] to which the declaration relates and the declaration states the amount, the release to the relevant procedure is to be taken to be the notification of liability to pay the import duty stated in the Customs declaration.
 
-(2)[^key-6b734d638ca16caea1d2a121c2d766b9] Paragraph (1) does not apply if—
+(2)[^c-6b734d638ca16caea1d2a121c2d766b9] Paragraph (1) does not apply if—
 
 - (a) a comprehensive guarantee [^c23521941] is given in relation to the goods declared for a Customs procedure; or
 - (b) the goods were declared for a Customs procedure using the transitional EIDR simplified Customs declaration process.
 
-(3)[^key-9ee580ed8f3ba091f1d67c52eef5d5e9] Paragraph (1) does not apply if—
+(3)[^c-9ee580ed8f3ba091f1d67c52eef5d5e9] Paragraph (1) does not apply if—
 
 - (a) the person making the declaration, or the person in whose name the declaration is made, is approved to defer payment of liability to import duty under regulation 43(5) or (8);
 - (b) HMRC has been notified by, or on behalf of, the person so approved that that person intends to defer liability in respect of the chargeable goods to which the declaration relates; and
@@ -35,9 +35,9 @@ summary: ''
 
 ## Annotations
 
-[^key-ed560aed453e8446d4b524d87e8d5491]: Commencement: Reg. 40 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-ed560aed453e8446d4b524d87e8d5491]: Commencement: Reg. 40 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23521901]: Marginal citation: “The free-circulation procedure” is defined in section 3 of the Act.
 
@@ -47,8 +47,8 @@ summary: ''
 
 [^c23521931]: Marginal citation: “Chargeable goods” is defined in section 2 of the Act.
 
-[^key-6b734d638ca16caea1d2a121c2d766b9]: Textual amendment: Reg. 40(2) substituted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/3/9); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-6b734d638ca16caea1d2a121c2d766b9]: Textual amendment: Reg. 40(2) substituted (31.12.2020) by [The Customs (Transitional Arrangements) (EU Exit) Regulations 2020 (S.I. 2020/1088)](https://www.legislation.gov.uk/uksi/2020/1088), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2020/1088/regulation/3/9); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23521941]: Marginal citation: “Comprehensive guarantee” is defined in paragraph 8(1)(b) of Schedule 6 to the Act.
 
-[^key-9ee580ed8f3ba091f1d67c52eef5d5e9]: Textual amendment: Reg. 40(3) inserted (31.12.2020) by [The Customs (Bulk Customs Declaration and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/967)](https://www.legislation.gov.uk/uksi/2020/967), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/967/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2020/967/regulation/7/5); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9ee580ed8f3ba091f1d67c52eef5d5e9]: Textual amendment: Reg. 40(3) inserted (31.12.2020) by [The Customs (Bulk Customs Declaration and Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/967)](https://www.legislation.gov.uk/uksi/2020/967), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/967/regulation/1/2), [7(5)](https://www.legislation.gov.uk/uksi/2020/967/regulation/7/5); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

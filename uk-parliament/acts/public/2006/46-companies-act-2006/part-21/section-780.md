@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 780. Duty of company as to issue of certificates on surrender of share warrant[^key-9ab2b82e6ed3aa6116cae764d91b58fb]
+## 780. Duty of company as to issue of certificates on surrender of share warrant[^c-9ab2b82e6ed3aa6116cae764d91b58fb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ab2b82e6ed3aa6116cae764d91b58fb]: Textual amendment: S. 780 omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 26(1)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/26/1) (with [Sch. 4 para. 26(2)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/26/2))
+[^c-9ab2b82e6ed3aa6116cae764d91b58fb]: Textual amendment: S. 780 omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(3)(g)(ii)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/g/ii), [Sch. 4 para. 26(1)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/26/1) (with [Sch. 4 para. 26(2)](https://www.legislation.gov.uk/ukpga/2015/26/schedule/4/paragraph/26/2))

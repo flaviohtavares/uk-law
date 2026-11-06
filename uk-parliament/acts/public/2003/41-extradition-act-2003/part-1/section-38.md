@@ -28,7 +28,7 @@ summary: ''
 
 (2) But this section does not apply if the order for the person’s extradition is made under section 46 or 48.
 
-(3) In a case where section 35 applies, the required period for the purposes of section 35(3) is 10 days starting with the day on which the order under section 181(2) is made. This subsection applies only if the day on which the order is made is later than the day mentioned in[^c2086810] section 35(4)(a)(i) or (ii)[^key-8c28ec3979d1c2b656b00080bae91b75].
+(3) In a case where section 35 applies, the required period for the purposes of section 35(3) is 10 days starting with the day on which the order under section 181(2) is made. This subsection applies only if the day on which the order is made is later than the day mentioned in[^c2086810] section 35(4)(a)(i) or (ii)[^c-8c28ec3979d1c2b656b00080bae91b75].
 
 (4)[^c2086810] In a case where section 36 applies, the required period for the purposes of section 36(2) is 10 days starting with the day on which the decision of the relevant court on the appeal becomes final (within the meaning of that section) or (if later) the day on which the order under section 181(2) is made.
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c2086810]: Textual amendment: Words in s. 38(3) inserted (15.1.2007) by [Police and Justice Act 2006 (c. 48)](https://www.legislation.gov.uk/ukpga/2006/48), [ss. 42](https://www.legislation.gov.uk/ukpga/2006/48/section/42), [53](https://www.legislation.gov.uk/ukpga/2006/48/section/53), [Sch. 13 para. 9(3)](https://www.legislation.gov.uk/ukpga/2006/48/schedule/13/paragraph/9/3); [S.I. 2006/3364](https://www.legislation.gov.uk/uksi/2006/3364), [art. 2(d)(e)](https://www.legislation.gov.uk/uksi/2006/3364/article/2/d/e)
 
-[^key-8c28ec3979d1c2b656b00080bae91b75]: Textual amendment: Words in s. 38(3) substituted (15.4.2015) by [The Extradition Act 2003 (Amendment to Designations and Appeals) Order 2015 (S.I. 2015/992)](https://www.legislation.gov.uk/uksi/2015/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/992/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2015/992/article/3/5) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2015/992/article/1/4))
+[^c-8c28ec3979d1c2b656b00080bae91b75]: Textual amendment: Words in s. 38(3) substituted (15.4.2015) by [The Extradition Act 2003 (Amendment to Designations and Appeals) Order 2015 (S.I. 2015/992)](https://www.legislation.gov.uk/uksi/2015/992), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/992/article/1/1), [3(5)](https://www.legislation.gov.uk/uksi/2015/992/article/3/5) (with [art. 1(4)](https://www.legislation.gov.uk/uksi/2015/992/article/1/4))

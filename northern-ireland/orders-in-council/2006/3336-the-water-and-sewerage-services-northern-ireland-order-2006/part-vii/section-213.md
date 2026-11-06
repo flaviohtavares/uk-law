@@ -35,9 +35,9 @@ by reason of compliance with requirements imposed by regulations under Article 2
 
 as the Department, with the approval of DFP, may determine.
 
-(3) The Department shall make grants to relevant undertakers of amounts appearing to the Department to be equal to discounts provided by undertakers in respect of any charges payable to them in, or in respect of, the period ending on 31st March 2027[^key-74cc83f62b411e62e141731451cd2aa1].
+(3) The Department shall make grants to relevant undertakers of amounts appearing to the Department to be equal to discounts provided by undertakers in respect of any charges payable to them in, or in respect of, the period ending on 31st March 2027[^c-74cc83f62b411e62e141731451cd2aa1].
 
-(4A)[^key-7c1ac87dc9d5cd25ebf1b77ca1499ca7] The Department may by order amend paragraph (3) by substituting, for the date which is for the time being mentioned in it, such other date as the Department considers appropriate.
+(4A)[^c-7c1ac87dc9d5cd25ebf1b77ca1499ca7] The Department may by order amend paragraph (3) by substituting, for the date which is for the time being mentioned in it, such other date as the Department considers appropriate.
 
 (4B) An order must not be made under paragraph (4A) unless a draft of the order has been laid before, and approved by a resolution of, the Assembly.
 
@@ -52,6 +52,6 @@ as the Department, with the approval of DFP, may determine.
 
 [^c20602731]: Commencement: Art. 213 wholly in operation at 1.4.2007, see art. 1(2) and [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-74cc83f62b411e62e141731451cd2aa1]: Textual amendment: Words in [art. 213(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/213/3) substituted (1.3.2022) by [The Grants to Water and Sewerage Undertakers Order (Northern Ireland) 2022 (S.R. 2022/23)](https://www.legislation.gov.uk/nisr/2022/23), [arts. 1](https://www.legislation.gov.uk/nisr/2022/23/article/1), [2](https://www.legislation.gov.uk/nisr/2022/23/article/2)
+[^c-74cc83f62b411e62e141731451cd2aa1]: Textual amendment: Words in [art. 213(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/213/3) substituted (1.3.2022) by [The Grants to Water and Sewerage Undertakers Order (Northern Ireland) 2022 (S.R. 2022/23)](https://www.legislation.gov.uk/nisr/2022/23), [arts. 1](https://www.legislation.gov.uk/nisr/2022/23/article/1), [2](https://www.legislation.gov.uk/nisr/2022/23/article/2)
 
-[^key-7c1ac87dc9d5cd25ebf1b77ca1499ca7]: Textual amendment: Art. 213(4A)(4B) substituted for art. 213(4) (23.3.2016) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [ss. 1(3)](https://www.legislation.gov.uk/nia/2016/7/section/1/3), [8](https://www.legislation.gov.uk/nia/2016/7/section/8)
+[^c-7c1ac87dc9d5cd25ebf1b77ca1499ca7]: Textual amendment: Art. 213(4A)(4B) substituted for art. 213(4) (23.3.2016) by [Water and Sewerage Services Act (Northern Ireland) 2016 (c. 7)](https://www.legislation.gov.uk/nia/2016/7), [ss. 1(3)](https://www.legislation.gov.uk/nia/2016/7/section/1/3), [8](https://www.legislation.gov.uk/nia/2016/7/section/8)

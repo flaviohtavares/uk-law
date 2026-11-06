@@ -24,7 +24,7 @@ Article 61
 
 ### General
 
-**1.**[^key-2e15a9b231844c096cdae0570ed8d4c7] (1) The provisions of this Schedule shall, unless otherwise agreed in writing between the Harbour Authority and the PLA, have effect for the protection of the PLA and the users of the river.
+**1.**[^c-2e15a9b231844c096cdae0570ed8d4c7] (1) The provisions of this Schedule shall, unless otherwise agreed in writing between the Harbour Authority and the PLA, have effect for the protection of the PLA and the users of the river.
 
 (2) For the purposes of this Schedule, the definition of “tidal work” shall be taken to include—
 
@@ -35,7 +35,7 @@ but shall not include any maintenance dredging.
 
 ### Tidal Works: approval of detailed design
 
-**2.**[^key-a339d6a0de0ed88c52c22c489ee517ae] (1) Before—
+**2.**[^c-a339d6a0de0ed88c52c22c489ee517ae] (1) Before—
 
 - (a) submitting any plans and sections for any tidal work to the Secretary of State for her approval under article 16 (tidal works not to be constructed without approval of the Secretary of State);
 - (b) commencing any operation for the construction of a tidal work where approval of the Secretary of State under article 16 (tidal works not to be constructed without approval of the Secretary of State) is not required; or
@@ -73,13 +73,13 @@ whichever is the later.
 
 (10) Whenever the Harbour Authority provides the Secretary of State with an environmental document it shall at the same time send a copy to the PLA.
 
-**3.**[^key-bb243765dbedf269553ac2fef37865e5] Subject to paragraph 21, no tidal work shall be subject to any of the controls in sections 66 to 75 of the 1968 Act.
+**3.**[^c-bb243765dbedf269553ac2fef37865e5] Subject to paragraph 21, no tidal work shall be subject to any of the controls in sections 66 to 75 of the 1968 Act.
 
-**4.**[^key-fd46d86716d7de562951ae51c4f6de1a] Any operations for the construction of any tidal work approved in accordance with this Order shall, once commenced, be carried out by the Harbour Authority with all reasonable dispatch and to the reasonable satisfaction of the PLA so that river traffic, the flow or regime of the river and the exercise of the PLA’s functions shall not suffer more interference than is reasonably practicable, and the PLA shall be entitled by its officer at all reasonable times, on giving such notice as may be reasonable in the circumstances, to inspect and survey such operations.
+**4.**[^c-fd46d86716d7de562951ae51c4f6de1a] Any operations for the construction of any tidal work approved in accordance with this Order shall, once commenced, be carried out by the Harbour Authority with all reasonable dispatch and to the reasonable satisfaction of the PLA so that river traffic, the flow or regime of the river and the exercise of the PLA’s functions shall not suffer more interference than is reasonably practicable, and the PLA shall be entitled by its officer at all reasonable times, on giving such notice as may be reasonable in the circumstances, to inspect and survey such operations.
 
 ### Discharges, etc.
 
-**5.**[^key-9873a653de84d4fb1fab6ad7e1cf321f] (1) The Harbour Authority shall not without the consent of the PLA—
+**5.**[^c-9873a653de84d4fb1fab6ad7e1cf321f] (1) The Harbour Authority shall not without the consent of the PLA—
 
 - (a) deposit in or allow to fall or be washed into the river any gravel, soil or other material;
 - (b) discharge or allow to escape either directly or indirectly into the river any offensive or injurious matter in suspension or otherwise; or
@@ -91,18 +91,18 @@ whichever is the later.
 
 (4) In its application to the discharge of water into the river, article 54 (power to discharge surface water into the river) shall have effect subject to the terms of any conditions attached to a consent given under this paragraph.
 
-**6.**[^key-75fd0c0ace121e2870081775625d6c81] The Harbour Authority shall not, in exercise of the powers conferred by article 54 (power to discharge surface water into the river), damage or interfere with the beds or banks of any watercourse forming part of the river unless such damage or interference is approved as a tidal work under this Order or is otherwise approved in writing by the PLA.
+**6.**[^c-75fd0c0ace121e2870081775625d6c81] The Harbour Authority shall not, in exercise of the powers conferred by article 54 (power to discharge surface water into the river), damage or interfere with the beds or banks of any watercourse forming part of the river unless such damage or interference is approved as a tidal work under this Order or is otherwise approved in writing by the PLA.
 
 ### Obstruction in river
 
-**7.**[^key-0b3f0b3861502eed2b00894a6d610a84] If any pile, stump or other obstruction to navigation becomes exposed in the course of constructing any tidal work (other than a pile, stump or other obstruction on the site of a structure comprised in any permanent work), the Harbour Authority shall, as soon as reasonably practicable after the receipt of notice in writing from the PLA requiring such action, remove it from the river or, if it is not reasonably practicable to remove it—
+**7.**[^c-0b3f0b3861502eed2b00894a6d610a84] If any pile, stump or other obstruction to navigation becomes exposed in the course of constructing any tidal work (other than a pile, stump or other obstruction on the site of a structure comprised in any permanent work), the Harbour Authority shall, as soon as reasonably practicable after the receipt of notice in writing from the PLA requiring such action, remove it from the river or, if it is not reasonably practicable to remove it—
 
 - (a) cut the obstruction off at such level below the bed of the river as the PLA may reasonably direct; or
 - (b) take such other steps to make the obstruction safe as the PLA may reasonably require.
 
 ### Removal, etc. of PLA moorings and buoys
 
-**8.**[^key-2b6885907cc29095729039726fdd872e] If—
+**8.**[^c-2b6885907cc29095729039726fdd872e] If—
 
 - (a) by reason of the construction of any tidal work it is reasonably necessary for the PLA to incur costs in temporarily or permanently altering, removing, re-siting, repositioning or reinstating existing moorings or aids to navigation (including navigation marks or lights) owned by the PLA, or laying down and removing substituted moorings or buoys, or carrying out dredging operations for any such purpose, not being costs which it would have incurred for any other reason; and
 - (b) the PLA gives to the Harbour Authority not less than 28 days’ notice of its intention to incur such costs, and takes into account any representations which the Harbour Authority may make in response to the notice within 14 days of the receipt of the notice,
@@ -111,11 +111,11 @@ the Harbour Authority shall pay the costs reasonably so incurred by the PLA.
 
 ### Navigational lights, buoys, etc.
 
-**9.**[^key-52d9b29ec7577ec2f2ed5681aa99ecfe] In addition to any requirement under article 18 (lights on tidal works, etc.), the Harbour Authority shall, at or near every tidal work, and any other work of which the Harbour Authority is in possession in exercise of any of the powers of this Order (being in either case a work which is below mean high water level forming part of the river), exhibit such lights, lay down such buoys and take such other steps for preventing danger to navigation as the PLA may from time to time reasonably require.
+**9.**[^c-52d9b29ec7577ec2f2ed5681aa99ecfe] In addition to any requirement under article 18 (lights on tidal works, etc.), the Harbour Authority shall, at or near every tidal work, and any other work of which the Harbour Authority is in possession in exercise of any of the powers of this Order (being in either case a work which is below mean high water level forming part of the river), exhibit such lights, lay down such buoys and take such other steps for preventing danger to navigation as the PLA may from time to time reasonably require.
 
 ### Removal of temporary works
 
-**10.**[^key-9f63df8b5c7620f023dd4b4515e8f279] On completion of the construction of any part of a permanent authorised work, the Harbour Authority shall as soon as practicable remove—
+**10.**[^c-9f63df8b5c7620f023dd4b4515e8f279] On completion of the construction of any part of a permanent authorised work, the Harbour Authority shall as soon as practicable remove—
 
 - (a) any temporary tidal work carried out only for the purposes of that part of the permanent work; and
 - (b) any materials, plant and equipment used for such construction,
@@ -124,7 +124,7 @@ and shall make good the site to the reasonable satisfaction of the PLA.
 
 ### Protective action
 
-**11.**[^key-7a6dd9f73e9372883a1ef4338486e149] (1) If any tidal work—
+**11.**[^c-7a6dd9f73e9372883a1ef4338486e149] (1) If any tidal work—
 
 - (a) is constructed otherwise than in accordance with the requirements of this Schedule or with any condition in an approval given pursuant to paragraph 2(4); or
 - (b) during construction gives rise to sedimentation, scouring, currents or wave action detrimental to traffic in, or the flow or regime of, the river,
@@ -149,7 +149,7 @@ then the PLA may by notice in writing require the Harbour Authority at the Harbo
 
 ### Abandoned or decayed works
 
-**12.**[^key-1a8bba8b268c042401cc40fa50bfe1d6] (1) If any tidal work or any other work of which the Harbour Authority is in possession in exercise of any of the powers of this Order (being in either case a work which is below mean high water level) is abandoned or falls into decay, the PLA may by notice in writing require the Harbour Authority to take such reasonable steps as may be specified in the notice either to repair or restore the work, or any part of it, or to remove the work and (to such extent as the PLA reasonably requires) to restore the site to its former condition.
+**12.**[^c-1a8bba8b268c042401cc40fa50bfe1d6] (1) If any tidal work or any other work of which the Harbour Authority is in possession in exercise of any of the powers of this Order (being in either case a work which is below mean high water level) is abandoned or falls into decay, the PLA may by notice in writing require the Harbour Authority to take such reasonable steps as may be specified in the notice either to repair or restore the work, or any part of it, or to remove the work and (to such extent as the PLA reasonably requires) to restore the site to its former condition.
 
 (2) If any tidal work is in such condition that it is, or is likely to become, a danger to or an interference with navigation in the river, the PLA may by notice in writing require the Harbour Authority to take such reasonable steps as may be specified in the notice—
 
@@ -160,7 +160,7 @@ then the PLA may by notice in writing require the Harbour Authority at the Harbo
 
 ### Facilities for navigation
 
-**13.**[^key-d8257b2142fda3c5711ae00d824c57f2] (1) The Harbour Authority shall not in the exercise of the powers granted by this Order interfere with any marks, lights or other navigational aids in the river without the agreement of the PLA, and shall ensure that access to such aids remains available during and following construction of any tidal works.
+**13.**[^c-d8257b2142fda3c5711ae00d824c57f2] (1) The Harbour Authority shall not in the exercise of the powers granted by this Order interfere with any marks, lights or other navigational aids in the river without the agreement of the PLA, and shall ensure that access to such aids remains available during and following construction of any tidal works.
 
 (2) The Harbour Authority shall provide at any tidal works, or shall afford reasonable facilities at such works (including an electricity supply) for the PLA to provide at the Harbour Authority’s cost, from time to time, such navigational lights, signals, radar or other apparatus for the benefit, control and direction of navigation as the PLA may deem necessary by reason of the construction of any tidal works, and shall ensure that access remains available to apparatus during and following construction of such works.
 
@@ -168,7 +168,7 @@ then the PLA may by notice in writing require the Harbour Authority at the Harbo
 
 ### Survey of riverbed
 
-**14.**[^key-959771eeffbcfd913d50e9da2a350eea] (1) Before the commencement of construction of the first tidal work to be constructed following approval pursuant to article 16 (tidal works not to be constructed without approval of the Secretary of State), the PLA may, at the Harbour Authority’s expense, carry out a survey of such parts of the river as might be affected by sedimentation, scouring, currents or wave action that might result from the construction of such of the authorised works as would constitute tidal works if they were to be constructed, for the purposes of establishing the condition of the river at that time.
+**14.**[^c-959771eeffbcfd913d50e9da2a350eea] (1) Before the commencement of construction of the first tidal work to be constructed following approval pursuant to article 16 (tidal works not to be constructed without approval of the Secretary of State), the PLA may, at the Harbour Authority’s expense, carry out a survey of such parts of the river as might be affected by sedimentation, scouring, currents or wave action that might result from the construction of such of the authorised works as would constitute tidal works if they were to be constructed, for the purposes of establishing the condition of the river at that time.
 
 (2) Before the commencement of construction of any other tidal work approved pursuant to article 16 (tidal works not to be constructed without approval of the Secretary of State), the PLA may, at the Harbour Authority’s expense, carry out a survey of such parts of the river as might be affected by sedimentation, scouring, currents or wave action resulting from that tidal work for the purpose of establishing the condition of the river at that time.
 
@@ -180,7 +180,7 @@ then the PLA may by notice in writing require the Harbour Authority at the Harbo
 
 ### Sedimentation, etc.: remedial action
 
-**15.**[^key-185c1e529477c88c6c311ea5fc7e532e] (1) This paragraph applies if any part of the river becomes subject to sedimentation, scouring, currents or wave action which—
+**15.**[^c-185c1e529477c88c6c311ea5fc7e532e] (1) This paragraph applies if any part of the river becomes subject to sedimentation, scouring, currents or wave action which—
 
 - (a) is, during the period beginning with the commencement of the construction of that tidal work and ending with the expiration of 10 years after the date on which all the tidal works constructed under this Order are completed, wholly or partly caused by a tidal work; and
 - (b) for the safety of navigation or for the protection of works in the river, should in the reasonable opinion of the PLA be removed or made good.
@@ -194,7 +194,7 @@ and the expenses payable by the Harbour Authority under this paragraph include a
 
 ### Indemnity
 
-**16.**[^key-d5b77fa5465a696ca417156fdbed9f1a] (1) The Harbour Authority shall be responsible for and make good to the PLA all financial costs or losses not otherwise provided for in this Schedule which may reasonably be incurred or suffered by the PLA by reason of—
+**16.**[^c-d5b77fa5465a696ca417156fdbed9f1a] (1) The Harbour Authority shall be responsible for and make good to the PLA all financial costs or losses not otherwise provided for in this Schedule which may reasonably be incurred or suffered by the PLA by reason of—
 
 - (a) the construction or operation of the authorised works or the failure of the authorised works;
 - (b) anything done in relation to a mooring or buoy pursuant to paragraph 8; or;
@@ -213,7 +213,7 @@ shall not (if it was done or required without negligence on the part of the PLA 
 
 ### Dedication of land for conservation, etc.
 
-**17.**[^key-8c182d201ef6390e0b543ffeb677fdc1] (1) Before dedicating or designating any land under article 47 (conservation), the Harbour Authority shall provide the PLA with a plan of the land and full particulars of the use to which it is intended to be put, and shall provide such further particulars as the PLA may, within 21 days from the day on which the plan is submitted under this paragraph, reasonably require.
+**17.**[^c-8c182d201ef6390e0b543ffeb677fdc1] (1) Before dedicating or designating any land under article 47 (conservation), the Harbour Authority shall provide the PLA with a plan of the land and full particulars of the use to which it is intended to be put, and shall provide such further particulars as the PLA may, within 21 days from the day on which the plan is submitted under this paragraph, reasonably require.
 
 (2) The Harbour Authority shall not dedicate or designate any land under article 47 (conservation) except in accordance with such plans and particulars as may be approved by the PLA or determined under paragraph 24.
 
@@ -229,7 +229,7 @@ including conditions as to the proposed use of the land, its management and any 
 
 ### Statutory functions
 
-**18.**[^key-c6cdbd20cf96e3f21095e086bc5f5e83] (1) Subject to article 4(3) and this paragraph, any function of the Harbour Authority or any officer of the Harbour Authority, whether conferred by or under this Order or any other enactment, shall be subject to—
+**18.**[^c-c6cdbd20cf96e3f21095e086bc5f5e83] (1) Subject to article 4(3) and this paragraph, any function of the Harbour Authority or any officer of the Harbour Authority, whether conferred by or under this Order or any other enactment, shall be subject to—
 
 - (a) any enactment relating to the PLA;
 - (b) any byelaw, direction or other requirement made by the PLA or its Harbour Master under any enactment; and
@@ -247,7 +247,7 @@ including conditions as to the proposed use of the land, its management and any 
 
 ### Vesting of reclaimed river bed
 
-**19.**[^key-e82aca1454ed471bdbd608891c1cb66d] (1) Section 72 of the 1968 Act (vesting of embanked land) shall apply so as—
+**19.**[^c-e82aca1454ed471bdbd608891c1cb66d] (1) Section 72 of the 1968 Act (vesting of embanked land) shall apply so as—
 
 - (a) to vest in the Harbour Authority any reclaimed land created by the construction of Works Nos. 11 and 12 (Sheets Nos. 216 and 217 of the deposited plans) on the completion by the PLA of a separate certificate relating to that land; and
 - (b) to enable the PLA to issue one or more certificates, each relating to part only of the reclaimed land so created.
@@ -260,7 +260,7 @@ including conditions as to the proposed use of the land, its management and any 
 
 ### Compensation for river bed
 
-**20.**[^key-f7b11bb3ed255de86fe50e4b106de195] Notwithstanding paragraph 3, and unless otherwise agreed in writing between the Harbour Authority and the PLA, compensation shall be payable to the PLA in respect of any tidal work (including any reclamation) and any rights required in connection with such tidal work as if the Harbour Authority had been required—
+**20.**[^c-f7b11bb3ed255de86fe50e4b106de195] Notwithstanding paragraph 3, and unless otherwise agreed in writing between the Harbour Authority and the PLA, compensation shall be payable to the PLA in respect of any tidal work (including any reclamation) and any rights required in connection with such tidal work as if the Harbour Authority had been required—
 
 - (a) to obtain a licence for the work under section 66 (Licensing of works) of the 1968 Act; and
 - (b) to pay consideration for the licence determined in accordance with the provisions of section 67 (Consideration for licence) of that Act;
@@ -269,11 +269,11 @@ and the PLA’s costs incurred in connection with the determination of such comp
 
 ### Maintenance dredging
 
-**21.**[^key-38ecc0f419f06cb3e05f195ec0d3f3e5] For the avoidance of doubt, section 73 of the 1968 Act shall apply to any maintenance dredging carried out by the Harbour Authority.
+**21.**[^c-38ecc0f419f06cb3e05f195ec0d3f3e5] For the avoidance of doubt, section 73 of the 1968 Act shall apply to any maintenance dredging carried out by the Harbour Authority.
 
 ### Consideration for dredged material
 
-**22.**[^key-968ad789b69f8d289536ec92979adbc0] (1) The Harbour Authority shall pay to the PLA for material dredged by the Harbour Authority under this Order from so much of the river as is vested in the PLA consideration calculated at a rate agreed between them and otherwise in accordance with this paragraph.
+**22.**[^c-968ad789b69f8d289536ec92979adbc0] (1) The Harbour Authority shall pay to the PLA for material dredged by the Harbour Authority under this Order from so much of the river as is vested in the PLA consideration calculated at a rate agreed between them and otherwise in accordance with this paragraph.
 
 (2) The Harbour Authority shall pay consideration under sub-paragraph (1) as respects material dredged in the course of the construction of the works authorised by article 13 (power to dredge) based on the quantity of such material that—
 
@@ -285,62 +285,62 @@ and the PLA’s costs incurred in connection with the determination of such comp
 
 ### Removal of wrecks and obstructions, etc.
 
-**23.**[^key-936eec453d9eea1a3792b6e252733ab0] (1) Before exercising any power under section 252 of the Merchant Shipping Act 1995[^f00040] or under section 56 of the 1847 Act, the Dockmaster shall notify the Harbour Master.
+**23.**[^c-936eec453d9eea1a3792b6e252733ab0] (1) Before exercising any power under section 252 of the Merchant Shipping Act 1995[^f00040] or under section 56 of the 1847 Act, the Dockmaster shall notify the Harbour Master.
 
 (2) The Dockmaster shall comply with any reasonable instructions that the Harbour Master may give in relation to the exercise of the powers referred to in sub-paragraph (1).
 
 ### Disputes
 
-**24.**[^key-a8dcd06857ae63f989dab2c236ce0cef] Any dispute arising between the Harbour Authority and the PLA under this Schedule shall be determined by arbitration as provided in article 66 (arbitration).
+**24.**[^c-a8dcd06857ae63f989dab2c236ce0cef] Any dispute arising between the Harbour Authority and the PLA under this Schedule shall be determined by arbitration as provided in article 66 (arbitration).
 
 ## Annotations
 
-[^key-2e15a9b231844c096cdae0570ed8d4c7]: Commencement: Sch. 8 para. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-2e15a9b231844c096cdae0570ed8d4c7]: Commencement: Sch. 8 para. 1 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-a339d6a0de0ed88c52c22c489ee517ae]: Commencement: Sch. 8 para. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-a339d6a0de0ed88c52c22c489ee517ae]: Commencement: Sch. 8 para. 2 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-bb243765dbedf269553ac2fef37865e5]: Commencement: Sch. 8 para. 3 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-bb243765dbedf269553ac2fef37865e5]: Commencement: Sch. 8 para. 3 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-fd46d86716d7de562951ae51c4f6de1a]: Commencement: Sch. 8 para. 4 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-fd46d86716d7de562951ae51c4f6de1a]: Commencement: Sch. 8 para. 4 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-9873a653de84d4fb1fab6ad7e1cf321f]: Commencement: Sch. 8 para. 5 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-9873a653de84d4fb1fab6ad7e1cf321f]: Commencement: Sch. 8 para. 5 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-75fd0c0ace121e2870081775625d6c81]: Commencement: Sch. 8 para. 6 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-75fd0c0ace121e2870081775625d6c81]: Commencement: Sch. 8 para. 6 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-0b3f0b3861502eed2b00894a6d610a84]: Commencement: Sch. 8 para. 7 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-0b3f0b3861502eed2b00894a6d610a84]: Commencement: Sch. 8 para. 7 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-2b6885907cc29095729039726fdd872e]: Commencement: Sch. 8 para. 8 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-2b6885907cc29095729039726fdd872e]: Commencement: Sch. 8 para. 8 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-52d9b29ec7577ec2f2ed5681aa99ecfe]: Commencement: Sch. 8 para. 9 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-52d9b29ec7577ec2f2ed5681aa99ecfe]: Commencement: Sch. 8 para. 9 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-9f63df8b5c7620f023dd4b4515e8f279]: Commencement: Sch. 8 para. 10 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-9f63df8b5c7620f023dd4b4515e8f279]: Commencement: Sch. 8 para. 10 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-7a6dd9f73e9372883a1ef4338486e149]: Commencement: Sch. 8 para. 11 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-7a6dd9f73e9372883a1ef4338486e149]: Commencement: Sch. 8 para. 11 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-1a8bba8b268c042401cc40fa50bfe1d6]: Commencement: Sch. 8 para. 12 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-1a8bba8b268c042401cc40fa50bfe1d6]: Commencement: Sch. 8 para. 12 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-d8257b2142fda3c5711ae00d824c57f2]: Commencement: Sch. 8 para. 13 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-d8257b2142fda3c5711ae00d824c57f2]: Commencement: Sch. 8 para. 13 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-959771eeffbcfd913d50e9da2a350eea]: Commencement: Sch. 8 para. 14 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-959771eeffbcfd913d50e9da2a350eea]: Commencement: Sch. 8 para. 14 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-185c1e529477c88c6c311ea5fc7e532e]: Commencement: Sch. 8 para. 15 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-185c1e529477c88c6c311ea5fc7e532e]: Commencement: Sch. 8 para. 15 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-d5b77fa5465a696ca417156fdbed9f1a]: Commencement: Sch. 8 para. 16 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-d5b77fa5465a696ca417156fdbed9f1a]: Commencement: Sch. 8 para. 16 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-8c182d201ef6390e0b543ffeb677fdc1]: Commencement: Sch. 8 para. 17 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-8c182d201ef6390e0b543ffeb677fdc1]: Commencement: Sch. 8 para. 17 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-c6cdbd20cf96e3f21095e086bc5f5e83]: Commencement: Sch. 8 para. 18 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-c6cdbd20cf96e3f21095e086bc5f5e83]: Commencement: Sch. 8 para. 18 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-e82aca1454ed471bdbd608891c1cb66d]: Commencement: Sch. 8 para. 19 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-e82aca1454ed471bdbd608891c1cb66d]: Commencement: Sch. 8 para. 19 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-f7b11bb3ed255de86fe50e4b106de195]: Commencement: Sch. 8 para. 20 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-f7b11bb3ed255de86fe50e4b106de195]: Commencement: Sch. 8 para. 20 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-38ecc0f419f06cb3e05f195ec0d3f3e5]: Commencement: Sch. 8 para. 21 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-38ecc0f419f06cb3e05f195ec0d3f3e5]: Commencement: Sch. 8 para. 21 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-968ad789b69f8d289536ec92979adbc0]: Commencement: Sch. 8 para. 22 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-968ad789b69f8d289536ec92979adbc0]: Commencement: Sch. 8 para. 22 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
-[^key-936eec453d9eea1a3792b6e252733ab0]: Commencement: Sch. 8 para. 23 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-936eec453d9eea1a3792b6e252733ab0]: Commencement: Sch. 8 para. 23 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00040]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-a8dcd06857ae63f989dab2c236ce0cef]: Commencement: Sch. 8 para. 24 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-a8dcd06857ae63f989dab2c236ce0cef]: Commencement: Sch. 8 para. 24 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)

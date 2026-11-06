@@ -36,12 +36,12 @@ An Act to make further provision with respect to the regulation of explosives an
 
 (1) Subject to subsections (3) and (4) and without prejudice to the operation of the Explosives Act 1875[^c19112821] [^c16690731] (in this Act referred to as “**the 1875 Act**”) or of any instrument made under that Act, the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 or of any other provision of this Act, a person shall not carry out, or undertake to carry out, any of the following transactions, that is to say, making, selling, purchasing, acquiring, transferring or disposing of, any explosive unless—
 
-- (a) there have been furnished in writing to the Chief Constable[^key-f767a7af4337a7d1f8d76ddc39ad15db] full and accurate particulars of the proposed transaction and the consent in writing of the Chief Constable[^key-ddca5308cf6542958178a15305b0e428] has been obtained to its being carried out; and
+- (a) there have been furnished in writing to the Chief Constable[^c-f767a7af4337a7d1f8d76ddc39ad15db] full and accurate particulars of the proposed transaction and the consent in writing of the Chief Constable[^c-ddca5308cf6542958178a15305b0e428] has been obtained to its being carried out; and
 - (b) in the case of a sale, acquisition, transfer or disposal, he keeps a permanent record of all such transactions entered into by him and has entered in that record the name, address and occupation of every person from whom he has purchased or acquired any explosive and of every person to whom he has sold, transferred or disposed of, any explosive together with the dates of each such transaction and particulars of the quantity and nature of the explosive to which it related.
 
 (2) Any person carrying out any transaction mentioned in subsection (1) shall—
 
-- (a) produce for inspection by, and make immediately available to, an authorised officer[^key-c696142d08907a3513a969385a66e811] or Government Inspector, on demand:—
+- (a) produce for inspection by, and make immediately available to, an authorised officer[^c-c696142d08907a3513a969385a66e811] or Government Inspector, on demand:—
   - (i) the permanent record required to be kept under paragraph ( *b*) of that subsection; and
   - (ii) any explosive in his possession or under his control;
 - (b) retain, for a period of at least two years after first coming into his possession, and, at any time during that period, produce and make available as aforesaid, all invoices, consignment notes, receipts and consents respecting every sale, purchase, acquisition, transfer or disposal of explosives to which he is a party.
@@ -58,11 +58,11 @@ An Act to make further provision with respect to the regulation of explosives an
 - (a) fireworks of such categories as may be prescribed by Explosives regulations; and
 - (b) those desensitised explosives listed in Schedule 2 to the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006.
 
-(5) It may, and shall where Explosives Regulations under section 3(3) so provide, be made a condition of any consent issued under this section to the purchase, acquisition or transfer of any explosive that that explosive shall be used only for a purpose or in a manner or at a time or within a period or in the presence of such persons as may be specified in the consent and, if not used within any such period, shall be handed over to an authorised officer[^key-f02ec1203aecb4b7cf2646b540926971] for destruction or returned to a licensed magazine or licensed store.
+(5) It may, and shall where Explosives Regulations under section 3(3) so provide, be made a condition of any consent issued under this section to the purchase, acquisition or transfer of any explosive that that explosive shall be used only for a purpose or in a manner or at a time or within a period or in the presence of such persons as may be specified in the consent and, if not used within any such period, shall be handed over to an authorised officer[^c-f02ec1203aecb4b7cf2646b540926971] for destruction or returned to a licensed magazine or licensed store.
 
 (6) Any person acting in contravention of any provision of this section or of any condition of any consent issued under this section shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 4 on the standard scale[^c5454851] or to imprisonment for a term not exceeding six months or to both such fine and imprisonment.
 
-(7)[^key-7c9bc911110ac8a394bf7e051ff7fb2f] In this section, “authorised officer” means a person authorised by the Chief Constable under section 8A(2).
+(7)[^c-7c9bc911110ac8a394bf7e051ff7fb2f] In this section, “authorised officer” means a person authorised by the Chief Constable under section 8A(2).
 
 ## 2. Blasting operations at mines and quarries.
 
@@ -125,7 +125,7 @@ Any member of the Royal Ulster Constabulary on production of his warrant card sh
 
 (3) Subject to subsection (2), in this Act, “explosive” and other expressions to which meanings are respectively assigned in the Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006[^c19117961] [^m00002] shall have those meanings.
 
-## 8A. Functions of the Chief Constable[^key-a517a3694c8c155662e8ad51d10658d4]
+## 8A. Functions of the Chief Constable[^c-a517a3694c8c155662e8ad51d10658d4]
 
 (1) The Chief Constable may direct in writing that any of his functions under this Act, or under regulations made under this Act, as are specified in the direction may be exercised on the Chief Constable’s behalf by such appropriate police officers and members of the police support staff as are specified in the direction.
 
@@ -149,11 +149,11 @@ This Act may be cited as the Explosives Act (Northern Ireland) 1970 and the 1875
 
 [^c16690731]: Marginal citation: [1875 c. 17](https://www.legislation.gov.uk/ukpga/1875/17)
 
-[^key-f767a7af4337a7d1f8d76ddc39ad15db]: Textual amendment: Words in s. 1(1)(a) substituted (2.9.2014) by [The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014 (S.R. 2014/224)](https://www.legislation.gov.uk/nisr/2014/224), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/224/regulation/1/2), [30(2)(a)(i)](https://www.legislation.gov.uk/nisr/2014/224/regulation/30/2/a/i) (with [reg. 31](https://www.legislation.gov.uk/nisr/2014/224/regulation/31))
+[^c-f767a7af4337a7d1f8d76ddc39ad15db]: Textual amendment: Words in s. 1(1)(a) substituted (2.9.2014) by [The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014 (S.R. 2014/224)](https://www.legislation.gov.uk/nisr/2014/224), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/224/regulation/1/2), [30(2)(a)(i)](https://www.legislation.gov.uk/nisr/2014/224/regulation/30/2/a/i) (with [reg. 31](https://www.legislation.gov.uk/nisr/2014/224/regulation/31))
 
-[^key-ddca5308cf6542958178a15305b0e428]: Textual amendment: Words in s. 1(1)(a) substituted (2.9.2014) by [The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014 (S.R. 2014/224)](https://www.legislation.gov.uk/nisr/2014/224), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/224/regulation/1/2), [30(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2014/224/regulation/30/2/a/ii) (with [reg. 31](https://www.legislation.gov.uk/nisr/2014/224/regulation/31))
+[^c-ddca5308cf6542958178a15305b0e428]: Textual amendment: Words in s. 1(1)(a) substituted (2.9.2014) by [The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014 (S.R. 2014/224)](https://www.legislation.gov.uk/nisr/2014/224), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/224/regulation/1/2), [30(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2014/224/regulation/30/2/a/ii) (with [reg. 31](https://www.legislation.gov.uk/nisr/2014/224/regulation/31))
 
-[^key-c696142d08907a3513a969385a66e811]: Textual amendment: Words in s. 1(2) substituted (2.9.2014) by virtue of [The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014 (S.R. 2014/224)](https://www.legislation.gov.uk/nisr/2014/224), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/224/regulation/1/2), [30(2)(b)](https://www.legislation.gov.uk/nisr/2014/224/regulation/30/2/b) (with [reg. 31](https://www.legislation.gov.uk/nisr/2014/224/regulation/31))
+[^c-c696142d08907a3513a969385a66e811]: Textual amendment: Words in s. 1(2) substituted (2.9.2014) by virtue of [The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014 (S.R. 2014/224)](https://www.legislation.gov.uk/nisr/2014/224), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/224/regulation/1/2), [30(2)(b)](https://www.legislation.gov.uk/nisr/2014/224/regulation/30/2/b) (with [reg. 31](https://www.legislation.gov.uk/nisr/2014/224/regulation/31))
 
 [^c19110761]: Textual amendment: Words in s. 1(3)(a) substituted (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 27(1)](https://www.legislation.gov.uk/nisr/2006/425/regulation/27/1), [Sch. 6 para. 8(2)(b)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/8/2/b) (with [reg 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
 
@@ -161,11 +161,11 @@ This Act may be cited as the Explosives Act (Northern Ireland) 1970 and the 1875
 
 [^c19117061]: Textual amendment: S. 1(4A): "for subsection 1(4A)" there is substituted words (1.12.2006) by virtue of [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 27(1)](https://www.legislation.gov.uk/nisr/2006/425/regulation/27/1), [Sch. 6 para. 8(2)(c)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/8/2/c) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))
 
-[^key-f02ec1203aecb4b7cf2646b540926971]: Textual amendment: Words in s. 1(5) substituted (2.9.2014) by [The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014 (S.R. 2014/224)](https://www.legislation.gov.uk/nisr/2014/224), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/224/regulation/1/2), [30(2)(c)](https://www.legislation.gov.uk/nisr/2014/224/regulation/30/2/c) (with [reg. 31](https://www.legislation.gov.uk/nisr/2014/224/regulation/31))
+[^c-f02ec1203aecb4b7cf2646b540926971]: Textual amendment: Words in s. 1(5) substituted (2.9.2014) by [The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014 (S.R. 2014/224)](https://www.legislation.gov.uk/nisr/2014/224), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/224/regulation/1/2), [30(2)(c)](https://www.legislation.gov.uk/nisr/2014/224/regulation/30/2/c) (with [reg. 31](https://www.legislation.gov.uk/nisr/2014/224/regulation/31))
 
 [^c5454851]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/nisi/1984)
 
-[^key-7c9bc911110ac8a394bf7e051ff7fb2f]: Textual amendment: [S. 1(7)](https://www.legislation.gov.uk/apni/1970/10/section/1/7) substituted (2.9.2014) by [The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014 (S.R. 2014/224)](https://www.legislation.gov.uk/nisr/2014/224), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/224/regulation/1/2), [30(2)(d)](https://www.legislation.gov.uk/nisr/2014/224/regulation/30/2/d) (with [reg. 31](https://www.legislation.gov.uk/nisr/2014/224/regulation/31))
+[^c-7c9bc911110ac8a394bf7e051ff7fb2f]: Textual amendment: [S. 1(7)](https://www.legislation.gov.uk/apni/1970/10/section/1/7) substituted (2.9.2014) by [The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014 (S.R. 2014/224)](https://www.legislation.gov.uk/nisr/2014/224), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/224/regulation/1/2), [30(2)(d)](https://www.legislation.gov.uk/nisr/2014/224/regulation/30/2/d) (with [reg. 31](https://www.legislation.gov.uk/nisr/2014/224/regulation/31))
 
 [^c5454881]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/nisi/1984)
 
@@ -199,6 +199,6 @@ This Act may be cited as the Explosives Act (Northern Ireland) 1970 and the 1875
 
 [^m00002]: Marginal citation: 1875 c.17
 
-[^key-a517a3694c8c155662e8ad51d10658d4]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/apni/1970/10/section/8A) inserted (2.9.2014) by [The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014 (S.R. 2014/224)](https://www.legislation.gov.uk/nisr/2014/224), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/224/regulation/1/2), [30(3)](https://www.legislation.gov.uk/nisr/2014/224/regulation/30/3) (with [reg. 31](https://www.legislation.gov.uk/nisr/2014/224/regulation/31))
+[^c-a517a3694c8c155662e8ad51d10658d4]: Textual amendment: [S. 8A](https://www.legislation.gov.uk/apni/1970/10/section/8A) inserted (2.9.2014) by [The Control of Explosives Precursors etc. Regulations (Northern Ireland) 2014 (S.R. 2014/224)](https://www.legislation.gov.uk/nisr/2014/224), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2014/224/regulation/1/2), [30(3)](https://www.legislation.gov.uk/nisr/2014/224/regulation/30/3) (with [reg. 31](https://www.legislation.gov.uk/nisr/2014/224/regulation/31))
 
 [^c19117741]: Textual amendment: Words in s. 10 substituted (1.12.2006) by [The Manufacture and Storage of Explosives Regulations (Northern Ireland) 2006 (S.R. 2006/425)](https://www.legislation.gov.uk/nisr/2006/425), [reg. 27(1)](https://www.legislation.gov.uk/nisr/2006/425/regulation/27/1), [Sch. 6 para. 8(3)](https://www.legislation.gov.uk/nisr/2006/425/schedule/6/paragraph/8/3) (with [reg. 26](https://www.legislation.gov.uk/nisr/2006/425/regulation/26))

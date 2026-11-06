@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-c5f3c850d9154fadac13010c8afa396d] After section 20 of the 1987 Act (persons to have priority on housing list and allocation of housing), insert—
+(1)[^c-c5f3c850d9154fadac13010c8afa396d] After section 20 of the 1987 Act (persons to have priority on housing list and allocation of housing), insert—
 
 > **20A. Rules on priority of allocation of housing: consultation**
 >
@@ -40,7 +40,7 @@ summary: ''
 
 .
 
-(2)[^key-c4d35232c229025e0e43534a2ecc35d1][^key-b9f413ffc18002e41114089c5bf86f3d] In section 21 of the 1987 Act, after subsection (3) insert—
+(2)[^c-c4d35232c229025e0e43534a2ecc35d1][^c-b9f413ffc18002e41114089c5bf86f3d] In section 21 of the 1987 Act, after subsection (3) insert—
 
 > (3A) In making or altering its rules governing the priority of allocation of houses, a social landlord must have regard to—
 >
@@ -55,12 +55,12 @@ summary: ''
 
 .
 
-(3)[^key-c5f3c850d9154fadac13010c8afa396d] The title of section 21 of the 1987 Act becomes “ **Rules relating to the housing list and to transfer of tenants** ”.
+(3)[^c-c5f3c850d9154fadac13010c8afa396d] The title of section 21 of the 1987 Act becomes “ **Rules relating to the housing list and to transfer of tenants** ”.
 
 ## Annotations
 
-[^key-c5f3c850d9154fadac13010c8afa396d]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/asp/2014/14/section/4/1)[(3)](https://www.legislation.gov.uk/asp/2014/14/section/4/3) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-c5f3c850d9154fadac13010c8afa396d]: Commencement: [S. 4(1)](https://www.legislation.gov.uk/asp/2014/14/section/4/1)[(3)](https://www.legislation.gov.uk/asp/2014/14/section/4/3) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
 
-[^key-c4d35232c229025e0e43534a2ecc35d1]: Commencement: [S. 4(2)](https://www.legislation.gov.uk/asp/2014/14/section/4/2) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-c4d35232c229025e0e43534a2ecc35d1]: Commencement: [S. 4(2)](https://www.legislation.gov.uk/asp/2014/14/section/4/2) in force at 20.11.2014 for specified purposes by [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
 
-[^key-b9f413ffc18002e41114089c5bf86f3d]: Commencement: [S. 4(2)](https://www.legislation.gov.uk/asp/2014/14/section/4/2) in force at 1.5.2019 in so far as not already in force by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-b9f413ffc18002e41114089c5bf86f3d]: Commencement: [S. 4(2)](https://www.legislation.gov.uk/asp/2014/14/section/4/2) in force at 1.5.2019 in so far as not already in force by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

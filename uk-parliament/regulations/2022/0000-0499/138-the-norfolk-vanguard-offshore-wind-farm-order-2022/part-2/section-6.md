@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Benefit of the Order[^key-dd86b8d47dd97a4d81d77e4ad0dc1c25]
+## 6. Benefit of the Order[^c-dd86b8d47dd97a4d81d77e4ad0dc1c25]
 
 *Extent: E+W+S*
 
@@ -89,4 +89,4 @@ except where paragraph (10) applies, in which case no consent of the Secretary o
 
 ## Annotations
 
-[^key-dd86b8d47dd97a4d81d77e4ad0dc1c25]: Commencement: Art. 6 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)
+[^c-dd86b8d47dd97a4d81d77e4ad0dc1c25]: Commencement: Art. 6 in force at 5.3.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/138/article/1)

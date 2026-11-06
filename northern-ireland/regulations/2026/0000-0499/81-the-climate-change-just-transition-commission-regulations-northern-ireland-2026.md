@@ -46,13 +46,13 @@ Before laying draft Regulations before the Assembly under section 53(3) of that 
 
 ## Introductory
 
-### 1. Citation and commencement[^key-763485a6238cec756b1a1c78170f12a1]
+### 1. Citation and commencement[^c-763485a6238cec756b1a1c78170f12a1]
 
 (1) These Regulations may be cited as the Climate Change (Just Transition Commission) Regulations (Northern Ireland) 2026.
 
 (2) They come into operation on the day after the day they are made.
 
-### 2. Interpretation[^key-c79df6d8a760a8da221aca6c7d0599d9]
+### 2. Interpretation[^c-c79df6d8a760a8da221aca6c7d0599d9]
 
 In these Regulations –
 
@@ -61,7 +61,7 @@ In these Regulations –
 
 ## Just Transition Commission
 
-### 3. Establishment of the Commission[^key-2d2bbe035bc360ee0e162475343b1fda]
+### 3. Establishment of the Commission[^c-2d2bbe035bc360ee0e162475343b1fda]
 
 (1) There is established a body to be known as the Just Transition Commission.
 
@@ -69,7 +69,7 @@ In these Regulations –
 
 ### Oversight function
 
-#### 4. Oversight of implementation of just transition elements of the Act[^key-5b049456ad8eba084d8949ed50a80e72]
+#### 4. Oversight of implementation of just transition elements of the Act[^c-5b049456ad8eba084d8949ed50a80e72]
 
 (1) The Commission may review and report on the implementation of the just transition elements of the Act (so far as relevant) by–
 
@@ -86,11 +86,11 @@ In these Regulations –
 
 ### Other functions
 
-#### 5. Provision of advice to Departments[^key-0637844372de8a9203e21e2cc5feb501]
+#### 5. Provision of advice to Departments[^c-0637844372de8a9203e21e2cc5feb501]
 
 Where the Commission is requested by a Northern Ireland department to provide it with advice, the Commission must so far as practicable comply with any timeframe for the provision of the advice set by that department after consultation with the Commission.
 
-#### 6. Provision of information to the Commission[^key-e303b3249de54154eaf495f8ddb9cfb2]
+#### 6. Provision of information to the Commission[^c-e303b3249de54154eaf495f8ddb9cfb2]
 
 (1) The Commission may request any public body to provide the Commission so far as practicable with such information as the Commission considers necessary for the discharge of its functions.
 
@@ -98,7 +98,7 @@ Where the Commission is requested by a Northern Ireland department to provide it
 
 (3) In paragraph (1) “**public body**” means a body established by or under a statutory provision within the meaning of section 1(f) of the Interpretation Act (Northern Ireland) 1954 [^f00002].
 
-#### 7. Supplementary[^key-f7053a15efb0545033f806e71ca6d322]
+#### 7. Supplementary[^c-f7053a15efb0545033f806e71ca6d322]
 
 (1) The Commission has power to do anything which is calculated to facilitate, or is conducive or incidental to, the performance of any of its functions.
 
@@ -106,7 +106,7 @@ Where the Commission is requested by a Northern Ireland department to provide it
 
 ### Reports
 
-#### 8. Annual and other reports[^key-341a33f54db314111dd742b00eefcc54]
+#### 8. Annual and other reports[^c-341a33f54db314111dd742b00eefcc54]
 
 (1) As soon as practicable after the end of each financial year, the Commission must prepare and lay before the Assembly a report on the performance of the Commission’s functions.
 
@@ -126,7 +126,7 @@ Department of Agriculture, Environment and Rural Affairs
 
 Regulation 3(2)
 
-### 1. Appointment of members[^key-ce2ee7ae981cd789105d3867e6ddf3b4]
+### 1. Appointment of members[^c-ce2ee7ae981cd789105d3867e6ddf3b4]
 
 (1) The Department may appoint a chairperson and up to 19 other members of the Commission.
 
@@ -148,7 +148,7 @@ Regulation 3(2)
 - (a) two representatives of environmental groups;
 - (b) three representatives of the agricultural sector.
 
-### 2. Committees[^key-f166c075e120dc825f6f2bd21813d419]
+### 2. Committees[^c-f166c075e120dc825f6f2bd21813d419]
 
 (1) The Commission may, with the approval of the Department, establish committees to provide advice and assistance to the Commission in the discharge by the Commission of its functions.
 
@@ -159,7 +159,7 @@ Regulation 3(2)
 - “**committee**” means a committee established under this paragraph;
 - “**external committee members**” means members of a committee who are not members of the Commission.
 
-### 3. Tenure[^key-45afa6b7759c67254a53b1d023bbc6be]
+### 3. Tenure[^c-45afa6b7759c67254a53b1d023bbc6be]
 
 (1) A member of the Commission holds office in accordance with the member’s terms of appointment.
 
@@ -176,13 +176,13 @@ Regulation 3(2)
 
 (5) This paragraph applies to members of a committee as it applies to members of the Commission except that in sub-paragraph (3)(d) the reference to meetings of the Commission is omitted in the case of an external committee member.
 
-### 4. Remuneration and allowances[^key-fab02504e3e9af8f0c06a33a095345f4]
+### 4. Remuneration and allowances[^c-fab02504e3e9af8f0c06a33a095345f4]
 
 (1) The Department may pay to a member of the Commission or to an external committee member such remuneration and allowances as the Department may determine.
 
 (2) The Department may pay to a person invited under paragraph 5(3) or (4) to attend meetings of the Commission or a committee such allowances as the Department may determine.
 
-### 5. Procedure[^key-e2c34ad1a59963a56429dd247f0ce6e8]
+### 5. Procedure[^c-e2c34ad1a59963a56429dd247f0ce6e8]
 
 (1) The Commission may regulate the procedure of the Commission and its committees (including voting rights).
 
@@ -192,7 +192,7 @@ Regulation 3(2)
 
 (4) A committee may invite persons who are not members of the committee to attend its meetings but this sub-paragraph does not confer any voting rights at the meetings.
 
-### 6. Conflicts of interest[^key-0de0f4a2aa39623f73c24c3de3de0aef]
+### 6. Conflicts of interest[^c-0de0f4a2aa39623f73c24c3de3de0aef]
 
 (1) The Commission must keep a register of the interests of its members.
 
@@ -205,11 +205,11 @@ Regulation 3(2)
 
 (4) The Commission must make arrangements for managing conflicts and potential conflicts of interest in such a way as to ensure that they do not, and do not appear to, affect the integrity of the decision-making processes of the Commission and its committees.
 
-### 7. Accounting, reporting and record-keeping[^key-3e4e9f1de399f5bc2de2d9e010f9469a]
+### 7. Accounting, reporting and record-keeping[^c-3e4e9f1de399f5bc2de2d9e010f9469a]
 
 The Commission must make appropriate arrangements for accounting, reporting and record-keeping in relation to the Commission and its committees.
 
-### 8. Defects in appointment etc.[^key-89380bb37e0d8de169238cb2bf91b488]
+### 8. Defects in appointment etc.[^c-89380bb37e0d8de169238cb2bf91b488]
 
 The validity of anything done by the Commission or a committee is not affected by—
 
@@ -232,38 +232,38 @@ Regulation 8 makes provision for the preparation and publication of reports and 
 
 [^f00001]: Footnote: [2022 c. 31 (N.I.)](https://www.legislation.gov.uk/nia/2022/31)
 
-[^key-763485a6238cec756b1a1c78170f12a1]: Commencement: Reg. 1 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-763485a6238cec756b1a1c78170f12a1]: Commencement: Reg. 1 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-c79df6d8a760a8da221aca6c7d0599d9]: Commencement: Reg. 2 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-c79df6d8a760a8da221aca6c7d0599d9]: Commencement: Reg. 2 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-2d2bbe035bc360ee0e162475343b1fda]: Commencement: Reg. 3 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-2d2bbe035bc360ee0e162475343b1fda]: Commencement: Reg. 3 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-5b049456ad8eba084d8949ed50a80e72]: Commencement: Reg. 4 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-5b049456ad8eba084d8949ed50a80e72]: Commencement: Reg. 4 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-0637844372de8a9203e21e2cc5feb501]: Commencement: Reg. 5 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-0637844372de8a9203e21e2cc5feb501]: Commencement: Reg. 5 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-e303b3249de54154eaf495f8ddb9cfb2]: Commencement: Reg. 6 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-e303b3249de54154eaf495f8ddb9cfb2]: Commencement: Reg. 6 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
 [^f00002]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-f7053a15efb0545033f806e71ca6d322]: Commencement: Reg. 7 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-f7053a15efb0545033f806e71ca6d322]: Commencement: Reg. 7 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-341a33f54db314111dd742b00eefcc54]: Commencement: Reg. 8 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-341a33f54db314111dd742b00eefcc54]: Commencement: Reg. 8 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-ce2ee7ae981cd789105d3867e6ddf3b4]: Commencement: Sch. para. 1 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-ce2ee7ae981cd789105d3867e6ddf3b4]: Commencement: Sch. para. 1 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-f166c075e120dc825f6f2bd21813d419]: Commencement: Sch. para. 2 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-f166c075e120dc825f6f2bd21813d419]: Commencement: Sch. para. 2 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-45afa6b7759c67254a53b1d023bbc6be]: Commencement: Sch. para. 3 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-45afa6b7759c67254a53b1d023bbc6be]: Commencement: Sch. para. 3 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 1989/2405 (N.1. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-fab02504e3e9af8f0c06a33a095345f4]: Commencement: Sch. para. 4 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-fab02504e3e9af8f0c06a33a095345f4]: Commencement: Sch. para. 4 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-e2c34ad1a59963a56429dd247f0ce6e8]: Commencement: Sch. para. 5 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-e2c34ad1a59963a56429dd247f0ce6e8]: Commencement: Sch. para. 5 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-0de0f4a2aa39623f73c24c3de3de0aef]: Commencement: Sch. para. 6 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-0de0f4a2aa39623f73c24c3de3de0aef]: Commencement: Sch. para. 6 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-3e4e9f1de399f5bc2de2d9e010f9469a]: Commencement: Sch. para. 7 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-3e4e9f1de399f5bc2de2d9e010f9469a]: Commencement: Sch. para. 7 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
 
-[^key-89380bb37e0d8de169238cb2bf91b488]: Commencement: Sch. para. 8 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)
+[^c-89380bb37e0d8de169238cb2bf91b488]: Commencement: Sch. para. 8 in operation at 29.4.2026, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2026/81/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 681H. Other interpretation provisions[^key-d7915bdc3ed3bf8779b8e54d286d0964]
+## 681H. Other interpretation provisions[^c-d7915bdc3ed3bf8779b8e54d286d0964]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7915bdc3ed3bf8779b8e54d286d0964]: Textual amendment: Pt. 10 Ch. 8 inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/1/paragraph/1)
+[^c-d7915bdc3ed3bf8779b8e54d286d0964]: Textual amendment: Pt. 10 Ch. 8 inserted (with effect in accordance with Sch. 1 para. 7 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 1 para. 1](https://www.legislation.gov.uk/ukpga/2012/14/schedule/1/paragraph/1)

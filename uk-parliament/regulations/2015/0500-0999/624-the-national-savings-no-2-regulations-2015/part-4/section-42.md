@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Forfeiture of certificates purchased before 20th September 2012[^key-086ddcf0b74fce8700c8d2c40207767e]
+## 42. Forfeiture of certificates purchased before 20th September 2012[^c-086ddcf0b74fce8700c8d2c40207767e]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,7 +56,7 @@ an amount credited to an account under this regulation is not to be counted if d
 
 ## Annotations
 
-[^key-086ddcf0b74fce8700c8d2c40207767e]: Commencement: Reg. 42 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-086ddcf0b74fce8700c8d2c40207767e]: Commencement: Reg. 42 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
 
 [^f00018]: Footnote: [S.I. 2015/623](https://www.legislation.gov.uk/uksi/2015/623).
 

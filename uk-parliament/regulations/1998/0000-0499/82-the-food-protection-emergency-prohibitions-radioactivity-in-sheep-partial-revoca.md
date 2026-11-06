@@ -50,13 +50,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred on him by sections 1(1) and (2) and 24(1) and (3) of the Food and Environment Protection Act 1985[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-0acc1326b8a56940164cab5d6d4c25ed]
+## 1. Citation, commencement and interpretation[^c-0acc1326b8a56940164cab5d6d4c25ed]
 
 (1) This Order may be cited as the Food Protection (Emergency Prohibitions) (Radioactivity in Sheep) Partial Revocation Order 1998 and shall come into force on 21st January 1998.
 
 (2) In this Order, “the principal Order” means the Food Protection (Emergency Prohibitions) (Radioactivity in Sheep) Order 1991[^f00002].
 
-## 2. Partial revocation[^key-9707c812a31c30b154b6ba6cdd194fae]
+## 2. Partial revocation[^c-9707c812a31c30b154b6ba6cdd194fae]
 
 (1) The principal Order is revoked so far as it designates any part of the areas set out in Schedule 1 to this Order.
 
@@ -76,13 +76,13 @@ Edinburgh
 
 Article 2(1)
 
-**1.**[^key-14886f32f871a94cfd372ce7782440a7] Dumfries and Galloway Region
+**1.**[^c-14886f32f871a94cfd372ce7782440a7] Dumfries and Galloway Region
 
 The area of land within the former Wigtown District, now Dumfries and Galloway Council area, comprising that part of the Parish of Minnigaff bounded as follows:—
 
 - On the north-west from the point of intersection between the Cross Burn and the northern boundary between the Dumfries and Galloway Council area and South Ayrshire Council area (formerly the boundary between Dumfries and Galloway Region and Strathclyde Region) in an easterly direction following said boundary and the boundary between Dumfries and Galloway Council area and East Ayrshire Council area until it meets the former boundary between Wigtown District and Stewartry District at point national grid reference NX467873; then in a southerly direction following the western boundary of the unnamed forestry plantation and the boundary between the former Wigtown District and Stewartry District to point national grid reference NX476816; then in a generally westerly, northerly, and southerly direction following the eastern, northern and western boundaries of Ellergower Knowe Plantation until it meets Loch Dee; then following the northern, western and southern banks of Loch Dee to the White Laggan Burn; then following the line of the said Burn in a southerly direction to point national grid reference NX458761; then in a southerly direction to the point of intersection with the Stronbae Hill Plantation at point national grid reference NX458756; then following the boundary of the said Plantation in a southerly then westerly, then northerly direction to point national grid reference NX450764; then in a north-easterly direction to spot height 674 on the Curleywee; then in a north-westerly direction to point national grid reference NX446788 on the Glenhead Burn; then a westerly direction following the line of the said Burn to the point of intersection with the Glentrool Forest; then in a north-westerly and westerly direction following the north-eastern boundary of Glentrool Forest to the east bank of Loch Trool at point national grid reference NX422800, then in a generally westerly direction following the east and north banks of Loch Trool to point national grid reference NX409800; then following the eastern boundary of Glentrool Forest in a generally northerly, westerly, southerly and again northerly direction to the point of intersection between the Cross Burn and the northern boundary of Dumfries and Galloway Council area with South Ayrshire Council area.
 
-**2.**[^key-bc8321da1157577ac363d94668ddbd31] Strathclyde Region
+**2.**[^c-bc8321da1157577ac363d94668ddbd31] Strathclyde Region
 
 The area of land within Kilmarnock and Loudoun District and comprising that part of the Parish of Galston bounded as follows:—
 
@@ -92,7 +92,7 @@ The area of land within Kilmarnock and Loudoun District and comprising that part
 
 Article 2(2)
 
-**1.**[^key-fe1d28defd4337125b5d668c404d0cc4] For paragraph 2(c) of Part II of Schedule 1 to the principal Order there shall be substituted the following:—
+**1.**[^c-fe1d28defd4337125b5d668c404d0cc4] For paragraph 2(c) of Part II of Schedule 1 to the principal Order there shall be substituted the following:—
 
 > - (c) The area of land within the former Cumnock and Doon Valley District, now East Ayrshire Council area, comprising that part of the Parish of Auchinleck bounded as follows:—
 >
@@ -100,7 +100,7 @@ Article 2(2)
 
 .
 
-**2.**[^key-94838f4a603e40766e284387ead46769] For paragraph 3(a) of Part II of Schedule 1 to the principal Order there shall be substituted the following:—
+**2.**[^c-94838f4a603e40766e284387ead46769] For paragraph 3(a) of Part II of Schedule 1 to the principal Order there shall be substituted the following:—
 
 > - (a) The area of land within the former Stirling District, now Stirling Council area, comprising that part of the Parish of Killin bounded as follows:—
 >
@@ -108,7 +108,7 @@ Article 2(2)
 
 .
 
-**3.**[^key-e27f5a8dcede42b774cb7454efd0e728] For paragraph 3(b) of Part II of Schedule 1 to the principal Order there shall be substituted the following:—
+**3.**[^c-e27f5a8dcede42b774cb7454efd0e728] For paragraph 3(b) of Part II of Schedule 1 to the principal Order there shall be substituted the following:—
 
 > - (b) The area of land within the former Stirling District, now Stirling Council area, comprising that part of the Parish of Balquhidder bounded as follows:—
 >
@@ -126,18 +126,18 @@ This Order reduces the area subject to restriction.
 
 [^f00001]: Footnote: [1985 c. 48](https://www.legislation.gov.uk/ukpga/1985/48); section 1 was amended by section 51 of the Food Safety Act [1990 (c. 16)](https://www.legislation.gov.uk/ukpga/1990/16). Section 1(2) defines “designating authority” and section 24(1) contains a definition of “the Ministers” relevant to the exercise of the statutory powers under which this Order is made.
 
-[^key-0acc1326b8a56940164cab5d6d4c25ed]: Commencement: Art. 1 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
+[^c-0acc1326b8a56940164cab5d6d4c25ed]: Commencement: Art. 1 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
 
 [^f00002]: Footnote: S.I. [1991/20](https://www.legislation.gov.uk/uksi/1991/20), amended by S.I. [1991/2766](https://www.legislation.gov.uk/uksi/1991/2766), [1993/13](https://www.legislation.gov.uk/uksi/1993/13), [1994/50](https://www.legislation.gov.uk/uksi/1994/50), [1995/48](https://www.legislation.gov.uk/uksi/1995/48), [1996/31](https://www.legislation.gov.uk/uksi/1996/31) and [1997/62](https://www.legislation.gov.uk/uksi/1997/62).
 
-[^key-9707c812a31c30b154b6ba6cdd194fae]: Commencement: Art. 2 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
+[^c-9707c812a31c30b154b6ba6cdd194fae]: Commencement: Art. 2 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
 
-[^key-14886f32f871a94cfd372ce7782440a7]: Commencement: Sch. 1 para. 1 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
+[^c-14886f32f871a94cfd372ce7782440a7]: Commencement: Sch. 1 para. 1 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
 
-[^key-bc8321da1157577ac363d94668ddbd31]: Commencement: Sch. 1 para. 2 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
+[^c-bc8321da1157577ac363d94668ddbd31]: Commencement: Sch. 1 para. 2 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
 
-[^key-fe1d28defd4337125b5d668c404d0cc4]: Commencement: Sch. 2 para. 1 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
+[^c-fe1d28defd4337125b5d668c404d0cc4]: Commencement: Sch. 2 para. 1 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
 
-[^key-94838f4a603e40766e284387ead46769]: Commencement: Sch. 2 para. 2 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
+[^c-94838f4a603e40766e284387ead46769]: Commencement: Sch. 2 para. 2 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
 
-[^key-e27f5a8dcede42b774cb7454efd0e728]: Commencement: Sch. 2 para. 3 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)
+[^c-e27f5a8dcede42b774cb7454efd0e728]: Commencement: Sch. 2 para. 3 in force at 21.1.1998, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1998/82/article/1/1)

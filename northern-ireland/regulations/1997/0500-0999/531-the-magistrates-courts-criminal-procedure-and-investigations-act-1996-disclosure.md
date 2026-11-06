@@ -40,18 +40,18 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred upon him by Article 13 of the Magistrates' Courts (Northern Ireland) Order 1981[^f00001] and section 19 of the Criminal Procedure and Investigations Act 1996[^f00002] and of all other powers enabling him in that behalf, on the advice of the Magistrates' Courts Rules Committee and after consultation with the Lord Chief Justice, hereby makes the following Rules:—
 
-## 1. Citation, commencement and interpretation[^key-dd7e86bd97605cb20a4fbf9c5eca1dfc]
+## 1. Citation, commencement and interpretation[^c-dd7e86bd97605cb20a4fbf9c5eca1dfc]
 
 (1) These Rules may be cited as the Magistrates' Courts (Criminal Procedure and Investigations Act 1996) (Disclosure) Rules (Northern Ireland) 1997 and shall come into operation on 1st January 1998.
 
 (2) In these Rules—
 
 - “the Act” means the Criminal Procedure and Investigations Act 1996 and a reference to a section or Part by number is a reference to the section or Part so numbered in that Act;
-- “clerk of petty sessions” [^key-4dc6d8a1dea3fee4796eefc921b83a55]... includes such other civil servant in the Department of Justice[^key-e09057914ef4fac0f672a08e716a4536] as may be authorised to act on his behalf for the purpose in question;
+- “clerk of petty sessions” [^c-4dc6d8a1dea3fee4796eefc921b83a55]... includes such other civil servant in the Department of Justice[^c-e09057914ef4fac0f672a08e716a4536] as may be authorised to act on his behalf for the purpose in question;
 - “the Order Book” means the Order Book required to be kept under Rule 19 of the principal Rules;
 - “the principal Rules” means the Magistrates' Courts Rules (Northern Ireland) 1984[^f00003].
 
-## 2. Public interest: application by the prosecutor[^key-8357329acc42d9bb6360bdd8586c9c79]
+## 2. Public interest: application by the prosecutor[^c-8357329acc42d9bb6360bdd8586c9c79]
 
 (1) This Rule applies to the making of an application by the prosecutor under section 3(6), 7(5), 8(5) or 9(8) where Part I applies by virtue of section 1(1) (summary trial).
 
@@ -63,7 +63,7 @@ The Lord Chancellor, in exercise of the powers conferred upon him by Article 13 
 
 (5) Where the prosecutor has reason to believe that to reveal to the accused the fact that the application is being made would have the effect of disclosing that which the prosecutor contends should not in the public interest be disclosed, paragraph (3) shall not apply.
 
-## 3. Public interest: hearing of application by the prosecutor[^key-a0c5ad09f2e7c822a3bd199617fff799]
+## 3. Public interest: hearing of application by the prosecutor[^c-a0c5ad09f2e7c822a3bd199617fff799]
 
 (1) This Rule applies to the hearing of an application by the prosecutor under section 3(6), 7(5), 8(5) or 9(8) where Part I applies by virtue of section 1(1).
 
@@ -90,7 +90,7 @@ of the date and time when, and the place where, the hearing will take place and 
 - (c) the hearing shall be *ex parte*;
 - (d) subject to Rule 6(4) only the prosecutor shall be entitled to make representations to the court.
 
-## 4. Public interest: non-disclosure order[^key-2e70700012100683dd5594a451161595]
+## 4. Public interest: non-disclosure order[^c-2e70700012100683dd5594a451161595]
 
 (1) This Rule applies to an order under section 3(6), 7(5), 8(5) or 9(8).
 
@@ -110,7 +110,7 @@ and Rules 19 and 20 of the principal Rules shall not apply.
 
 the clerk of petty sessions shall notify the accused that an order has been made.
 
-## 5. Review of non-disclosure order: application by accused[^key-ec62bb48fe1fd708704e6131dac247f9]
+## 5. Review of non-disclosure order: application by accused[^c-ec62bb48fe1fd708704e6131dac247f9]
 
 (1) This Rule applies to an application by the accused under section 14(2).
 
@@ -143,7 +143,7 @@ of the date and time when, and the place where, the hearing of an application to
 
 and Rules 19 and 20 of the principal Rules shall not apply.
 
-## 6. Applications: interested persons[^key-f8a021a54fefcb5c2b7038c510733664]
+## 6. Applications: interested persons[^c-f8a021a54fefcb5c2b7038c510733664]
 
 (1) Where the prosecutor has reason to believe that a person who was involved (whether alone or with others and whether directly or indirectly) in the prosecutor’s attention being brought to any material to which an application under section 3(6), 7(5), 8(5), 9(8) or 14(2) relates may claim to have an interest in that material, the prosecutor shall—
 
@@ -166,7 +166,7 @@ and shall specify the nature of the applicant’s interest in the material and h
 
 (4) At the hearing of an application under section 3(6), 7(5), 8(5), 9(8) or 14(2) a person who has made an application under section 16(*b*) in accordance with paragraph (2) shall be entitled to make representations to the court.
 
-## 7. Disclosure: application by accused and order of court[^key-cd20841f53bbf218c4fb63b800d18c27]
+## 7. Disclosure: application by accused and order of court[^c-cd20841f53bbf218c4fb63b800d18c27]
 
 (1) This Rule applies to an application by the accused under section 8(2).
 
@@ -201,7 +201,7 @@ and a notice under sub-paragraph (*a*) shall specify the substance of the repres
 
 (8) The clerk of petty sessions shall serve a copy of any order under section 8(2) on the prosecutor and the accused.
 
-## 8. Disclosure: application for extension of time limit and order of the court[^key-e2e2a91c7ddd1566c88dd877ecebedd6]
+## 8. Disclosure: application for extension of time limit and order of the court[^c-e2e2a91c7ddd1566c88dd877ecebedd6]
 
 (1) This Rule applies to an application under paragraph (2) of Regulation 4 of the Criminal Procedure and Investigations Act 1996 (Defence Disclosure Time Limits) Regulations 1997[^f00004] (‘the 1997 Regulations') (including that paragraph as applied by Regulation 5(2) of those Regulations) to extend the relevant period for section 6 of the Act.
 
@@ -221,7 +221,7 @@ and a notice under sub-paragraph (*a*) shall specify the substance of the repres
 
 (7) The clerk of petty sessions shall serve a copy of any order under Regulation 4(1) or 5(1) of the 1997 Regulations on the prosecutor and the applicant.
 
-## 9. General[^key-8e20acd18a4a95b0d45bddcc07ca6e83]
+## 9. General[^c-8e20acd18a4a95b0d45bddcc07ca6e83]
 
 (1) Any hearing held in pursuance of or in accordance with these Rules, other than one held in pursuance of Rule 8, may be held in private.
 
@@ -247,28 +247,28 @@ These Rules provide for the practice and procedure to be followed in magistrates
 
 [^f00002]: Footnote: [1996 c. 25](https://www.legislation.gov.uk/ukpga/1996/25); section 19 is modified in its application to Northern Ireland by paragraph 12 of Schedule 4 to the Act
 
-[^key-dd7e86bd97605cb20a4fbf9c5eca1dfc]: Commencement: Rule 1 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
+[^c-dd7e86bd97605cb20a4fbf9c5eca1dfc]: Commencement: Rule 1 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
 
-[^key-4dc6d8a1dea3fee4796eefc921b83a55]: Textual amendment: Words in [rule 1(2)](https://www.legislation.gov.uk/nisr/1997/531/article/1/2) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [24](https://www.legislation.gov.uk/nisr/2016/303/rule/24); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
+[^c-4dc6d8a1dea3fee4796eefc921b83a55]: Textual amendment: Words in [rule 1(2)](https://www.legislation.gov.uk/nisr/1997/531/article/1/2) omitted (31.10.2016) by virtue of [The Magistrates’ Courts (Miscellaneous Amendments) Rules (Northern Ireland) 2016 (S.R. 2016/303)](https://www.legislation.gov.uk/nisr/2016/303), [rules 2](https://www.legislation.gov.uk/nisr/2016/303/rule/2), [24](https://www.legislation.gov.uk/nisr/2016/303/rule/24); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(a)](https://www.legislation.gov.uk/nisr/2016/387/article/2/a)
 
-[^key-e09057914ef4fac0f672a08e716a4536]: Textual amendment: Words in [rule 1(2)](https://www.legislation.gov.uk/nisr/1997/531/article/1/2) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 31](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/31) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
+[^c-e09057914ef4fac0f672a08e716a4536]: Textual amendment: Words in [rule 1(2)](https://www.legislation.gov.uk/nisr/1997/531/article/1/2) substituted (12.4.2010) by [The Northern Ireland Court Service (Abolition and Transfer of Functions) Order (Northern Ireland) 2010 (S.R. 2010/133)](https://www.legislation.gov.uk/nisr/2010/133), [art. 1](https://www.legislation.gov.uk/nisr/2010/133/article/1), [Sch. para. 31](https://www.legislation.gov.uk/nisr/2010/133/schedule/paragraph/31) (with [arts. 5-7](https://www.legislation.gov.uk/nisr/2010/133/article/5))
 
 [^f00003]: Footnote: [S.R. 1984 No. 225](https://www.legislation.gov.uk/nisr/1984/225); to which the most recent relevant amendment was made by [S.R. 1994 No. 387](https://www.legislation.gov.uk/nisr/1994/387)
 
-[^key-8357329acc42d9bb6360bdd8586c9c79]: Commencement: Rule 2 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
+[^c-8357329acc42d9bb6360bdd8586c9c79]: Commencement: Rule 2 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
 
-[^key-a0c5ad09f2e7c822a3bd199617fff799]: Commencement: Rule 3 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
+[^c-a0c5ad09f2e7c822a3bd199617fff799]: Commencement: Rule 3 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
 
-[^key-2e70700012100683dd5594a451161595]: Commencement: Rule 4 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
+[^c-2e70700012100683dd5594a451161595]: Commencement: Rule 4 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
 
-[^key-ec62bb48fe1fd708704e6131dac247f9]: Commencement: Rule 5 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
+[^c-ec62bb48fe1fd708704e6131dac247f9]: Commencement: Rule 5 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
 
-[^key-f8a021a54fefcb5c2b7038c510733664]: Commencement: Rule 6 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
+[^c-f8a021a54fefcb5c2b7038c510733664]: Commencement: Rule 6 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
 
-[^key-cd20841f53bbf218c4fb63b800d18c27]: Commencement: Rule 7 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
+[^c-cd20841f53bbf218c4fb63b800d18c27]: Commencement: Rule 7 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
 
-[^key-e2e2a91c7ddd1566c88dd877ecebedd6]: Commencement: Rule 8 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
+[^c-e2e2a91c7ddd1566c88dd877ecebedd6]: Commencement: Rule 8 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
 
 [^f00004]: Footnote: [S.I. 1997/2680](https://www.legislation.gov.uk/uksi/1997/2680)
 
-[^key-8e20acd18a4a95b0d45bddcc07ca6e83]: Commencement: Rule 9 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)
+[^c-8e20acd18a4a95b0d45bddcc07ca6e83]: Commencement: Rule 9 in operation at 1.1.1998, see [rule 1(1)](https://www.legislation.gov.uk/nisr/1997/531/rule/1/1)

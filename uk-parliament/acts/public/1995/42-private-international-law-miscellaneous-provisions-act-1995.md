@@ -65,9 +65,9 @@ In section 74 of the [^c8316491]County Courts Act 1984 (interest on judgment deb
 
 (1) In section 24(1) of the [^c8316521]Crown Proceedings Act 1947 (interest on debts etc.), after the word “interest)” there shall be inserted the words “ and section 44A of the Administration of Justice Act 1970 (which enables the court to order an appropriate rate for a judgment debt expressed in a currency other than sterling) ”.
 
-(2)[^key-cdc1e5dda9b9ee139e6437ba6d2a5255] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cdc1e5dda9b9ee139e6437ba6d2a5255] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-e8ae6c9ec0c133006f98072b7cf0ab73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-e8ae6c9ec0c133006f98072b7cf0ab73] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART II — Validity of Marriages under a Law which permits Polygamy
 
@@ -216,23 +216,23 @@ that it is substantially more appropriate for the applicable law for determining
 
 (3) Without prejudice to the generality of section 14(2) above, nothing in this section affects any rule of law as to whether proceedings of any description may be brought against the Crown.
 
-### 15A. Disapplication of Part III where the rules in the Rome II Regulation apply.[^key-45260749be6ceaa183065eac94b8f360]
+### 15A. Disapplication of Part III where the rules in the Rome II Regulation apply.[^c-45260749be6ceaa183065eac94b8f360]
 
 *Extent: E+W+N.I.*
 
 (1) Nothing in this Part applies to affect the determination of issues relating to tort which fall to be determined under the Rome II Regulation.
 
-(2)[^key-01959aa8db44dcdbe34182cf5755941f] In this section “the Rome II Regulation” means Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/eur/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations as that Regulation has effect as assimilated direct[^key-b10aec57d8fb9fe4c70b08c5db1eb5ad] legislation (including that Regulation as applied by regulation 6 of the Law Applicable to Non-Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008), unless the issues are ones in respect of which Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/eur/2007/0864) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
+(2)[^c-01959aa8db44dcdbe34182cf5755941f] In this section “the Rome II Regulation” means Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/eur/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations as that Regulation has effect as assimilated direct[^c-b10aec57d8fb9fe4c70b08c5db1eb5ad] legislation (including that Regulation as applied by regulation 6 of the Law Applicable to Non-Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008), unless the issues are ones in respect of which Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/eur/2007/0864) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
 
 (3) This section extends to England and Wales and Northern Ireland only.
 
-### 15B. Disapplication of Part III where the rules in the Rome II Regulation apply: Scotland[^key-60febe4a5d1bc368c08627f60cb7838a]
+### 15B. Disapplication of Part III where the rules in the Rome II Regulation apply: Scotland[^c-60febe4a5d1bc368c08627f60cb7838a]
 
 *Extent: S*
 
 (1) Nothing in this Part applies to affect the determination of issues relating to delict which fall to be determined under the Rome II Regulation.
 
-(2)[^key-ded8b4291b17247ea5da5d4ef66f2fe6] In this section “the Rome II Regulation” means Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/eur/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations as that Regulation has effect as assimilated direct[^key-7d6eced1a51817fe2932256f145f6d08] legislation (including that Regulation as applied by regulation 4 of the Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008), unless the issues are ones in respect of which Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/eur/2007/0864) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
+(2)[^c-ded8b4291b17247ea5da5d4ef66f2fe6] In this section “the Rome II Regulation” means Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/eur/2007/0864) of the European Parliament and of the Council on the law applicable to non-contractual obligations as that Regulation has effect as assimilated direct[^c-7d6eced1a51817fe2932256f145f6d08] legislation (including that Regulation as applied by regulation 4 of the Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008), unless the issues are ones in respect of which Regulation [(EC) No. 864/2007](https://www.legislation.gov.uk/eur/2007/0864) has effect by virtue of Article 66 of the EU withdrawal agreement, in which case it means that Regulation as it has effect by virtue of that Article.
 
 (3) This section extends to Scotland only.
 
@@ -256,7 +256,7 @@ An Order in Council under paragraph 1(1)(b) of Schedule 1 to the [^c8316631]Nort
 
 (2) In Part II, sections 5 and 6 extend to England and Wales only, section 7 extends to Scotland only and section 8 extends to England and Wales and Scotland.
 
-(3) Except where otherwise provided,[^key-e074c16ff615a3d62fc29b3d44a7a92f] Part III extends to England and Wales, Scotland and Northern Ireland.
+(3) Except where otherwise provided,[^c-e074c16ff615a3d62fc29b3d44a7a92f] Part III extends to England and Wales, Scotland and Northern Ireland.
 
 ### 19. Short title.
 
@@ -329,21 +329,21 @@ Section 8(2).
 
 [^c8316521]: Marginal citation: [1947 c. 44](https://www.legislation.gov.uk/ukpga/1947/44).
 
-[^key-cdc1e5dda9b9ee139e6437ba6d2a5255]: Textual amendment: S. 4(2) repealed (19.10.2006) by [The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
+[^c-cdc1e5dda9b9ee139e6437ba6d2a5255]: Textual amendment: S. 4(2) repealed (19.10.2006) by [The Regulatory Reform (Agricultural Tenancies) (England and Wales) Order 2006 (S.I. 2006/2805)](https://www.legislation.gov.uk/uksi/2006/2805), [art. 1(1)(b)](https://www.legislation.gov.uk/uksi/2006/2805/article/1/1/b), [Sch. 2](https://www.legislation.gov.uk/uksi/2006/2805/schedule/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2006/2805/article/10))
 
-[^key-e8ae6c9ec0c133006f98072b7cf0ab73]: Textual amendment: S. 4(3) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
+[^c-e8ae6c9ec0c133006f98072b7cf0ab73]: Textual amendment: S. 4(3) repealed (24.3.2003) by [Proceeds of Crime Act 2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), [s. 458(1)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2](https://www.legislation.gov.uk/uksi/2003/333/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2003/333/schedule) (with [arts. 10-13](https://www.legislation.gov.uk/uksi/2003/333/article/10))
 
-[^key-45260749be6ceaa183065eac94b8f360]: Textual amendment: S. 15A inserted (E.W.N.I.) (11.1.2009) by [The Law Applicable to Non-Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008 (S.I. 2008/2986)](https://www.legislation.gov.uk/uksi/2008/2986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/2986/regulation/2)
+[^c-45260749be6ceaa183065eac94b8f360]: Textual amendment: S. 15A inserted (E.W.N.I.) (11.1.2009) by [The Law Applicable to Non-Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008 (S.I. 2008/2986)](https://www.legislation.gov.uk/uksi/2008/2986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2008/2986/regulation/2)
 
-[^key-01959aa8db44dcdbe34182cf5755941f]: Textual amendment: S. 15A(2) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/834/regulation/4/2) (as substituted by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/5))
+[^c-01959aa8db44dcdbe34182cf5755941f]: Textual amendment: S. 15A(2) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/834/regulation/4/2) (as substituted by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/5))
 
-[^key-b10aec57d8fb9fe4c70b08c5db1eb5ad]: Textual amendment: Words in [s. 15A(2)](https://www.legislation.gov.uk/ukpga/1995/42/section/15A/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 37(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/37/2/a)
+[^c-b10aec57d8fb9fe4c70b08c5db1eb5ad]: Textual amendment: Words in [s. 15A(2)](https://www.legislation.gov.uk/ukpga/1995/42/section/15A/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 37(2)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/37/2/a)
 
-[^key-60febe4a5d1bc368c08627f60cb7838a]: Textual amendment: S. 15B inserted (S.) (11.1.2009) by [The Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008 (S.S.I. 2008/404)](https://www.legislation.gov.uk/ssi/2008/404), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/404/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2008/404/regulation/2/a)
+[^c-60febe4a5d1bc368c08627f60cb7838a]: Textual amendment: S. 15B inserted (S.) (11.1.2009) by [The Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008 (S.S.I. 2008/404)](https://www.legislation.gov.uk/ssi/2008/404), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/404/regulation/1/1), [2(a)](https://www.legislation.gov.uk/ssi/2008/404/regulation/2/a)
 
-[^key-ded8b4291b17247ea5da5d4ef66f2fe6]: Textual amendment: S. 15B(2) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/834/regulation/4/3) (as substituted by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/5))
+[^c-ded8b4291b17247ea5da5d4ef66f2fe6]: Textual amendment: S. 15B(2) substituted (31.12.2020) by [The Law Applicable to Contractual Obligations and Non-Contractual Obligations (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/834)](https://www.legislation.gov.uk/uksi/2019/834), [regs. 1](https://www.legislation.gov.uk/uksi/2019/834/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2019/834/regulation/4/3) (as substituted by [S.I. 2020/1574](https://www.legislation.gov.uk/uksi/2020/1574), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1574/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2020/1574/regulation/6/5))
 
-[^key-7d6eced1a51817fe2932256f145f6d08]: Textual amendment: Words in [s. 15B(2)](https://www.legislation.gov.uk/ukpga/1995/42/section/15B/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 37(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/37/2/b)
+[^c-7d6eced1a51817fe2932256f145f6d08]: Textual amendment: Words in [s. 15B(2)](https://www.legislation.gov.uk/ukpga/1995/42/section/15B/2) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 37(2)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/37/2/b)
 
 [^c8316611]: Subordinate legislation: [S. 16(1)](https://www.legislation.gov.uk/ukpga/1995/42/section/16/1) power fully exercised (26.9.1996): 1.11.1996 appointed for specified provisons by [S.I. 1996/2515](https://www.legislation.gov.uk/uksi/1996/2515), [art. 2](https://www.legislation.gov.uk/uksi/1996/2515/article/2)
 
@@ -351,6 +351,6 @@ Section 8(2).
 
 [^c8316631]: Marginal citation: [1974 c. 28](https://www.legislation.gov.uk/ukpga/1974/28).
 
-[^key-e074c16ff615a3d62fc29b3d44a7a92f]: Textual amendment: Words in s. 18(3) inserted (11.1.2009) by: [The Law Applicable to Non-Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008 (S.I. 2008/2986)](https://www.legislation.gov.uk/uksi/2008/2986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2986/regulation/3); and [The Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008 (S.S.I. 2008/404)](https://www.legislation.gov.uk/ssi/2008/404), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/404/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2008/404/regulation/2/b)
+[^c-e074c16ff615a3d62fc29b3d44a7a92f]: Textual amendment: Words in s. 18(3) inserted (11.1.2009) by: [The Law Applicable to Non-Contractual Obligations (England and Wales and Northern Ireland) Regulations 2008 (S.I. 2008/2986)](https://www.legislation.gov.uk/uksi/2008/2986), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/2986/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2008/2986/regulation/3); and [The Law Applicable to Non-Contractual Obligations (Scotland) Regulations 2008 (S.S.I. 2008/404)](https://www.legislation.gov.uk/ssi/2008/404), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2008/404/regulation/1/1), [2(b)](https://www.legislation.gov.uk/ssi/2008/404/regulation/2/b)
 
 [^c8316641]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/1995/42/schedule/paragraph/3) repealed (1.10.1997) by [1996 c. 27](https://www.legislation.gov.uk/ukpga/1996/27), [s. 66(3)](https://www.legislation.gov.uk/ukpga/1996/27/section/66/3), [Sch. 10](https://www.legislation.gov.uk/ukpga/1996/27/schedule/10) (with [Sch. 9](https://www.legislation.gov.uk/ukpga/1996/27/schedule/9), [para. 5](https://www.legislation.gov.uk/ukpga/1996/27/paragraph/5)); [S.I. 1997/1892](https://www.legislation.gov.uk/uksi/1997/1892), [art. 3(1)(d)(ix)](https://www.legislation.gov.uk/uksi/1997/1892/article/3/1/d/ix)

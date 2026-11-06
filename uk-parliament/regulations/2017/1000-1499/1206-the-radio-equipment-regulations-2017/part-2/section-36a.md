@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36A. Obligations which are met by complying with obligations in the Directive[^key-d022aec62f8b0788fa968bb9be739e38]
+## 36A. Obligations which are met by complying with obligations in the Directive[^c-d022aec62f8b0788fa968bb9be739e38]
 
 *Extent: E+W+S*
 
@@ -54,7 +54,7 @@ summary: ''
 - (a) the requirements of regulation 21(a) to (d) are to be treated as being satisfied; and
 - (b) regulations 2(2)(a), 22(1), 25 and 28 apply subject to the modifications in paragraph (10).
 
-(6) This paragraph applies where there is no designated standard or part of a designated standard which corresponds exactly to a harmonised standard or part of a harmonised standard as referred to in Article 17[^key-5a0bacd0f16312452268108ce65a10f1].
+(6) This paragraph applies where there is no designated standard or part of a designated standard which corresponds exactly to a harmonised standard or part of a harmonised standard as referred to in Article 17[^c-5a0bacd0f16312452268108ce65a10f1].
 
 (7) Where paragraph (6) applies paragraphs (2)(b) and (4)(a) are to be treated as requiring the manufacturer to have carried out—
 
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d022aec62f8b0788fa968bb9be739e38]: Textual amendment: Regs. 36A-36C inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 27](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/27) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 21(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/21/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d022aec62f8b0788fa968bb9be739e38]: Textual amendment: Regs. 36A-36C inserted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 29 para. 27](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/27) (with [Sch. 29 para. 44](https://www.legislation.gov.uk/uksi/2019/696/schedule/29/paragraph/44)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2) and [S.I. 2020/1460](https://www.legislation.gov.uk/uksi/2020/1460), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1460/regulation/1/4), [Sch. 3 para. 21(3)](https://www.legislation.gov.uk/uksi/2020/1460/schedule/3/paragraph/21/3)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5a0bacd0f16312452268108ce65a10f1]: Textual amendment: Word in [reg. 36A(6)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/36A/6) substituted (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2024/696/regulation/20/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))
+[^c-5a0bacd0f16312452268108ce65a10f1]: Textual amendment: Word in [reg. 36A(6)](https://www.legislation.gov.uk/uksi/2017/1206/regulation/36A/6) substituted (1.10.2024) by [The Product Safety and Metrology etc. (Amendment) Regulations 2024 (S.I. 2024/696)](https://www.legislation.gov.uk/uksi/2024/696), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/696/regulation/1/2), [20(3)](https://www.legislation.gov.uk/uksi/2024/696/regulation/20/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2024/696/regulation/23))

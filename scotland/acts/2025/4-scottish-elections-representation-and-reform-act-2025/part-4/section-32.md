@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Power of convener of Electoral Management Board to postpone ordinary local election[^key-7bc4d82938e5496e2d9889d5ae02231e][^key-fda652cbed826b2a12e25204e23c7072]
+## 32. Power of convener of Electoral Management Board to postpone ordinary local election[^c-7bc4d82938e5496e2d9889d5ae02231e][^c-fda652cbed826b2a12e25204e23c7072]
 
 *Extent: S*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7bc4d82938e5496e2d9889d5ae02231e]: Commencement: S. 32 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-7bc4d82938e5496e2d9889d5ae02231e]: Commencement: S. 32 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-fda652cbed826b2a12e25204e23c7072]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2025/4/section/32) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)
+[^c-fda652cbed826b2a12e25204e23c7072]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2025/4/section/32) in force at 1.10.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(c)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/c), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/3)

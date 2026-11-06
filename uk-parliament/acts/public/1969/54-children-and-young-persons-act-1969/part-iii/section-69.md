@@ -32,7 +32,7 @@ summary: ''
 - (b) provide for exemptions from any provisions of the order or regulations; and
 - (c) contain such incidental and supplemental provisions as the Secretary of State considers expedient for the purposes of the order or regulations.
 
-(4A)[^key-8551be48377a962157762a3aa777d38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4A)[^c-8551be48377a962157762a3aa777d38d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c8359101]: Textual amendment: Words repealed by [Child Care Act 1980 (c. 5, SIF 20)](https://www.legislation.gov.uk/ukpga/1980/5), [s. 89](https://www.legislation.gov.uk/ukpga/1980/5/section/89), [Sch. 6](https://www.legislation.gov.uk/ukpga/1980/5/schedule/6)
 
-[^key-8551be48377a962157762a3aa777d38d]: Textual amendment: S. 69(4A) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/12); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))
+[^c-8551be48377a962157762a3aa777d38d]: Textual amendment: S. 69(4A) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2012/10/schedule/12/paragraph/12); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(j)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/j) (with [art. 7(2)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2906/article/7/3))

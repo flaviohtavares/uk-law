@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Compulsory purchase where owner cannot be found[^key-30fab83c95c12940804e953f94689b1c]
+## 45. Compulsory purchase where owner cannot be found[^c-30fab83c95c12940804e953f94689b1c]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30fab83c95c12940804e953f94689b1c]: Commencement: S. 45 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-30fab83c95c12940804e953f94689b1c]: Commencement: S. 45 in force at 1.5.2005 by [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404) , [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)

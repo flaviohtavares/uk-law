@@ -22,7 +22,7 @@ summary: ''
 
 Section 30
 
-### 1. Current and former Commissioners, ICRIR officers and ICRIR contractors[^key-4ec8893e6a8d7cdc511046e87bc589b5][^key-657b6af1a2cf21100fd49328fa2723b3]
+### 1. Current and former Commissioners, ICRIR officers and ICRIR contractors[^c-4ec8893e6a8d7cdc511046e87bc589b5][^c-657b6af1a2cf21100fd49328fa2723b3]
 
 (1) A person who is, or has ceased to be, a Commissioner, ICRIR officer or ICRIR contractor commits an offence if—
 
@@ -35,7 +35,7 @@ Section 30
 
 (4) It is a defence for a person charged with an offence under this paragraph to prove that at the time of the alleged offence the person did not know, and had no reasonable cause to believe, that the disclosure would, if it had been made by the ICRIR, have constituted a breach of a relevant prohibition on disclosure.
 
-### 2. Penalties[^key-012f168fa2c42ddba06d0f992fd56242][^key-4de5192f8d401a59a5c2b21b7bf0e6a6]
+### 2. Penalties[^c-012f168fa2c42ddba06d0f992fd56242][^c-4de5192f8d401a59a5c2b21b7bf0e6a6]
 
 A person guilty of an offence under this Schedule is liable—
 
@@ -44,7 +44,7 @@ A person guilty of an offence under this Schedule is liable—
 - (c) on summary conviction in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court or a fine or both;
 - (d) on summary conviction in Scotland, to imprisonment for a term not exceeding 12 months or a fine not exceeding the statutory maximum or both.
 
-### 3. Interpretation[^key-3701439492997c7ebe6ce8a4ef983d02][^key-179adb6b8c27721f35b463a4c6b84425]
+### 3. Interpretation[^c-3701439492997c7ebe6ce8a4ef983d02][^c-179adb6b8c27721f35b463a4c6b84425]
 
 In this Schedule—
 
@@ -54,14 +54,14 @@ In this Schedule—
 
 ## Annotations
 
-[^key-4ec8893e6a8d7cdc511046e87bc589b5]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-4ec8893e6a8d7cdc511046e87bc589b5]: Commencement: Sch. 7 para. 1 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-657b6af1a2cf21100fd49328fa2723b3]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/7/paragraph/1) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-657b6af1a2cf21100fd49328fa2723b3]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/7/paragraph/1) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-012f168fa2c42ddba06d0f992fd56242]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-012f168fa2c42ddba06d0f992fd56242]: Commencement: Sch. 7 para. 2 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-4de5192f8d401a59a5c2b21b7bf0e6a6]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/7/paragraph/2) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-4de5192f8d401a59a5c2b21b7bf0e6a6]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/7/paragraph/2) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
 
-[^key-3701439492997c7ebe6ce8a4ef983d02]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-3701439492997c7ebe6ce8a4ef983d02]: Commencement: Sch. 7 para. 3 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-179adb6b8c27721f35b463a4c6b84425]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/7/paragraph/3) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-179adb6b8c27721f35b463a4c6b84425]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/7/paragraph/3) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/u) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

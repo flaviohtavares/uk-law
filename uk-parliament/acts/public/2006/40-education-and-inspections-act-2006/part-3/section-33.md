@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Requirements as to foundations[^key-b4f6c4cf8814b139f9115d7a530ba40f][^key-aa439f00e64f75c1fd5eb0f895f883ff]
+## 33. Requirements as to foundations[^c-b4f6c4cf8814b139f9115d7a530ba40f][^c-aa439f00e64f75c1fd5eb0f895f883ff]
 
 *Extent: E+W*
 
@@ -77,6 +77,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b4f6c4cf8814b139f9115d7a530ba40f]: Commencement: S. 33 in force at 1.4.2007 for specified purposes by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(h)](https://www.legislation.gov.uk/uksi/2007/935/article/5/h)
+[^c-b4f6c4cf8814b139f9115d7a530ba40f]: Commencement: S. 33 in force at 1.4.2007 for specified purposes by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(h)](https://www.legislation.gov.uk/uksi/2007/935/article/5/h)
 
-[^key-aa439f00e64f75c1fd5eb0f895f883ff]: Commencement: S. 33 in force at 25.5.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(h)](https://www.legislation.gov.uk/uksi/2007/935/article/7/h)
+[^c-aa439f00e64f75c1fd5eb0f895f883ff]: Commencement: S. 33 in force at 25.5.2007 in so far as not already in force by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(h)](https://www.legislation.gov.uk/uksi/2007/935/article/7/h)

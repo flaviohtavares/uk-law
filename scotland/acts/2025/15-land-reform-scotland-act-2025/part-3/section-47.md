@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 47. Commencement[^key-57c164eaa35e10c7e81ba7a4af811a9e]
+## 47. Commencement[^c-57c164eaa35e10c7e81ba7a4af811a9e]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57c164eaa35e10c7e81ba7a4af811a9e]: Commencement: S. 47 in force at 17.12.2025, see [s. 47(1)](https://www.legislation.gov.uk/asp/2025/15/section/47/1)
+[^c-57c164eaa35e10c7e81ba7a4af811a9e]: Commencement: S. 47 in force at 17.12.2025, see [s. 47(1)](https://www.legislation.gov.uk/asp/2025/15/section/47/1)

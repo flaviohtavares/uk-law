@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Compensation for carers[^key-b6e951b06bafa96069b6a3c1f7024f0b][^key-3e273c279f7e411b1e45e8246b578b4f]
+## 58. Compensation for carers[^c-b6e951b06bafa96069b6a3c1f7024f0b][^c-3e273c279f7e411b1e45e8246b578b4f]
 
 *Extent: S*
 
@@ -51,6 +51,6 @@ is to be determined by a single arbiter appointed by agreement between the board
 
 ## Annotations
 
-[^key-b6e951b06bafa96069b6a3c1f7024f0b]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2008/5/section/58) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-b6e951b06bafa96069b6a3c1f7024f0b]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2008/5/section/58) in force at 1.10.2009 by [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
-[^key-3e273c279f7e411b1e45e8246b578b4f]: Modification: [S. 58](https://www.legislation.gov.uk/asp/2008/5/section/58) modified (temp.) (24.3.2022 until the end of 31.10.2022) by [Coronavirus (Discretionary Compensation for Self-isolation) (Scotland) Act 2022 (asp 2)](https://www.legislation.gov.uk/asp/2022/2), [ss. 1(3)](https://www.legislation.gov.uk/asp/2022/2/section/1/3), [6](https://www.legislation.gov.uk/asp/2022/2/section/6) (with [ss. 2-4](https://www.legislation.gov.uk/asp/2022/2/section/2))
+[^c-3e273c279f7e411b1e45e8246b578b4f]: Modification: [S. 58](https://www.legislation.gov.uk/asp/2008/5/section/58) modified (temp.) (24.3.2022 until the end of 31.10.2022) by [Coronavirus (Discretionary Compensation for Self-isolation) (Scotland) Act 2022 (asp 2)](https://www.legislation.gov.uk/asp/2022/2), [ss. 1(3)](https://www.legislation.gov.uk/asp/2022/2/section/1/3), [6](https://www.legislation.gov.uk/asp/2022/2/section/6) (with [ss. 2-4](https://www.legislation.gov.uk/asp/2022/2/section/2))

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**26.**[^key-dd0e8ad1bd5f5a02e813bc9cd8ab1c9d] In Part 65 (Appeal to the Court of Appeal: general rules)—
+**26.**[^c-dd0e8ad1bd5f5a02e813bc9cd8ab1c9d] In Part 65 (Appeal to the Court of Appeal: general rules)—
 
 - (a) in the note after rule 65.1(1) (When this Part applies), for “Supreme Court”, substitute “Senior Courts”;
 - (b) in the last paragraph of the note after rule 65.3 (Power to vary requirements), for “House of Lords”, substitute “Supreme Court”; and
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd0e8ad1bd5f5a02e813bc9cd8ab1c9d]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2009/2087/article/26) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)
+[^c-dd0e8ad1bd5f5a02e813bc9cd8ab1c9d]: Commencement: [Rule 26](https://www.legislation.gov.uk/uksi/2009/2087/article/26) in force at 5.10.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/2087/article/1)

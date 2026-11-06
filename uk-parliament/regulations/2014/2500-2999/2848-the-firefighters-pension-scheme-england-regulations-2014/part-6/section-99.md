@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 99. Lump sum payable on death of pension credit member[^key-41507b464a1b6ab9339475e6e51b3142]
+## 99. Lump sum payable on death of pension credit member[^c-41507b464a1b6ab9339475e6e51b3142]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41507b464a1b6ab9339475e6e51b3142]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/2014/2848/regulation/99) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-41507b464a1b6ab9339475e6e51b3142]: Commencement: [Reg. 99](https://www.legislation.gov.uk/uksi/2014/2848/regulation/99) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

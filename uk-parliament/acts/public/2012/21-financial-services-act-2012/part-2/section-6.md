@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. The new Regulators[^key-954e50d91be934a752ef7b66cafc5a46][^key-430a4577363136eb643152a7c362877d][^key-92bb32a55e3195131726595a48414ad0][^key-1d0b5240a385b2ff4c53a4e8b577a424]
+## 6. The new Regulators[^c-954e50d91be934a752ef7b66cafc5a46][^c-430a4577363136eb643152a7c362877d][^c-92bb32a55e3195131726595a48414ad0][^c-1d0b5240a385b2ff4c53a4e8b577a424]
 
 *Extent: E+W+S+N.I.*
 
@@ -988,10 +988,10 @@ summary: ''
 
 ## Annotations
 
-[^key-954e50d91be934a752ef7b66cafc5a46]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2012/21/section/6) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
+[^c-954e50d91be934a752ef7b66cafc5a46]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2012/21/section/6) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2)
 
-[^key-430a4577363136eb643152a7c362877d]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2012/21/section/6) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
+[^c-430a4577363136eb643152a7c362877d]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2012/21/section/6) in force at 24.1.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3)
 
-[^key-92bb32a55e3195131726595a48414ad0]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2012/21/section/6) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
+[^c-92bb32a55e3195131726595a48414ad0]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2012/21/section/6) in force at 19.2.2013 for specified purposes by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/2), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/4)
 
-[^key-1d0b5240a385b2ff4c53a4e8b577a424]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2012/21/section/6) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-1d0b5240a385b2ff4c53a4e8b577a424]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2012/21/section/6) in force at 1.4.2013 in so far as not already in force by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

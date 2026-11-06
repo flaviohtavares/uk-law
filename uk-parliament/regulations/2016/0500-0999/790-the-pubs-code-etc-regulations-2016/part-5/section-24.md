@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. A significant increase in the price of a product or service[^key-eb1e8556d89d9027835d228835ae6c5d]
+## 24. A significant increase in the price of a product or service[^c-eb1e8556d89d9027835d228835ae6c5d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The event specified in this regulation is that the tied pub tenant receives noti
 
 ## Annotations
 
-[^key-eb1e8556d89d9027835d228835ae6c5d]: Commencement: Reg. 24 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-eb1e8556d89d9027835d228835ae6c5d]: Commencement: Reg. 24 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)

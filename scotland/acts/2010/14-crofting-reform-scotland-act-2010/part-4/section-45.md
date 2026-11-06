@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Application to decroft where action being taken to re-let vacant croft[^key-f271ba86548342bfc08f2d3341efe2ae]
+## 45. Application to decroft where action being taken to re-let vacant croft[^c-f271ba86548342bfc08f2d3341efe2ae]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In section 24 of the 1993 Act (decrofting in case of resumption or vacancy), aft
 
 ## Annotations
 
-[^key-f271ba86548342bfc08f2d3341efe2ae]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2010/14/section/45) in force at 1.10.2011 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-f271ba86548342bfc08f2d3341efe2ae]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2010/14/section/45) in force at 1.10.2011 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))

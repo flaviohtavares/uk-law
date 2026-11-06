@@ -46,24 +46,24 @@ Coming into force in accordance with regulation 1(2)
 
 The Secretary of State, with the consent of the Treasury, makes the following Regulations in exercise of the powers conferred by section 56(1) of the Finance Act 1973[^f00001].
 
-## 1. Title and commencement[^key-f02be8682b5737afc5d75a1a911d9da4]
+## 1. Title and commencement[^c-f02be8682b5737afc5d75a1a911d9da4]
 
 (1) These Regulations may be cited as the Plant Health (Import Inspection Fees) (England) (Amendment) Regulations 2009.
 
 (2) These Regulations come into force on 1st September 2009, except for regulation 4 which comes into force on 1st January 2010.
 
-## 2. Amendments[^key-999f38866db89d82e6339a9629122bd7]
+## 2. Amendments[^c-999f38866db89d82e6339a9629122bd7]
 
 The Plant Health (Import Inspection Fees) (England) Regulations 2006[^f00002] are amended as follows.
 
-## 3. Amendments coming into force on 1st September 2009[^key-6f9ea4aff62bcff49ef715e65a262c3d]
+## 3. Amendments coming into force on 1st September 2009[^c-6f9ea4aff62bcff49ef715e65a262c3d]
 
 In Schedule 2—
 
 - (a) for the entry for *Rosa,* substitute the entry for *Rosa* set out in the Schedule to these Regulations;
 - (b) after the entry for *Prunus*, insert the entry for *Psidium* set out in the Schedule to these Regulations.
 
-## 4. Amendment coming into force on 1st January 2010[^key-33010e261b355dbe1c5481ec5ebfd1c4]
+## 4. Amendment coming into force on 1st January 2010[^c-33010e261b355dbe1c5481ec5ebfd1c4]
 
 For Schedule 2, substitute—
 
@@ -184,7 +184,7 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 21st July 2009
 
-## SCHEDULE[^key-ea11b84b74ec72680b3aacb54a085e12]
+## SCHEDULE[^c-ea11b84b74ec72680b3aacb54a085e12]
 
 Regulation 3
 
@@ -261,17 +261,17 @@ The regulatory impact assessment which was prepared in respect of the predecesso
 
 [^f00001]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51).
 
-[^key-f02be8682b5737afc5d75a1a911d9da4]: Commencement: Reg. 1 in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2053/regulation/1/2)
+[^c-f02be8682b5737afc5d75a1a911d9da4]: Commencement: Reg. 1 in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2053/regulation/1/2)
 
-[^key-999f38866db89d82e6339a9629122bd7]: Commencement: Reg. 2 in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2053/regulation/1/2)
+[^c-999f38866db89d82e6339a9629122bd7]: Commencement: Reg. 2 in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2053/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2006/1879](https://www.legislation.gov.uk/uksi/2006/1879) as amended by [S.I. 2007/788](https://www.legislation.gov.uk/uksi/2007/788), [2007/3013](https://www.legislation.gov.uk/uksi/2007/3013) and [2008/3233](https://www.legislation.gov.uk/uksi/2008/3233).
 
-[^key-6f9ea4aff62bcff49ef715e65a262c3d]: Commencement: Reg. 3 in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2053/regulation/1/2)
+[^c-6f9ea4aff62bcff49ef715e65a262c3d]: Commencement: Reg. 3 in force at 1.9.2009, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2053/regulation/1/2)
 
-[^key-33010e261b355dbe1c5481ec5ebfd1c4]: Commencement: Reg. 4 in force at 1.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2053/regulation/1/2)
+[^c-33010e261b355dbe1c5481ec5ebfd1c4]: Commencement: Reg. 4 in force at 1.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2053/regulation/1/2)
 
-[^key-ea11b84b74ec72680b3aacb54a085e12]: Commencement: Sch. in force at 1.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2053/regulation/1/2)
+[^c-ea11b84b74ec72680b3aacb54a085e12]: Commencement: Sch. in force at 1.1.2010, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2053/regulation/1/2)
 
 [^f01000]: Footnote: (1)
 

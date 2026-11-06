@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Power of Local Government Boundary Commission to make incidental etc provision[^key-7a6716ce81ea323d6610d082b59220ad][^key-a04c3152a254cc849d37cafecdb71397]
+## 50. Power of Local Government Boundary Commission to make incidental etc provision[^c-7a6716ce81ea323d6610d082b59220ad][^c-a04c3152a254cc849d37cafecdb71397]
 
 *Extent: E+W*
 
-The Local Government Boundary Commission[^key-9f6d9d63992f5c891ffb0ee3119a6e06] may by order make incidental, consequential, transitional or supplemental provision in connection with provision made by order under section 44 (order for elections by halves or for elections by thirds).
+The Local Government Boundary Commission[^c-9f6d9d63992f5c891ffb0ee3119a6e06] may by order make incidental, consequential, transitional or supplemental provision in connection with provision made by order under section 44 (order for elections by halves or for elections by thirds).
 
 ## Annotations
 
-[^key-7a6716ce81ea323d6610d082b59220ad]: Commencement: S. 50 in force at 30.12.2007, see s. 245(2)
+[^c-7a6716ce81ea323d6610d082b59220ad]: Commencement: S. 50 in force at 30.12.2007, see s. 245(2)
 
-[^key-a04c3152a254cc849d37cafecdb71397]: Textual amendment: Words in s. 50 heading substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 27(2)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/27/2); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
+[^c-a04c3152a254cc849d37cafecdb71397]: Textual amendment: Words in s. 50 heading substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 27(2)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/27/2); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
 
-[^key-9f6d9d63992f5c891ffb0ee3119a6e06]: Textual amendment: Words in s. 50 substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 27(3)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/27/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)
+[^c-9f6d9d63992f5c891ffb0ee3119a6e06]: Textual amendment: Words in s. 50 substituted (1.4.2010) by [Local Democracy, Economic Development and Construction Act 2009 (c. 20)](https://www.legislation.gov.uk/ukpga/2009/20), [s. 148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 4 para. 27(3)](https://www.legislation.gov.uk/ukpga/2009/20/schedule/4/paragraph/27/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(ff)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/ff)

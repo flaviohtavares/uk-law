@@ -28,7 +28,7 @@ Section 25.
 
 ### The Public Health (Scotland) Act 1897 (c. 38)
 
-**2.**[^key-ba5c0576463523b783ded37e662164b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ba5c0576463523b783ded37e662164b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Cremation Act 1902 (c. 8)
 
@@ -36,9 +36,9 @@ Section 25.
 
 ### The Methylated Spirits (Sale by Retail) (Scotland) Act 1937 (c. 48)
 
-**4.**[^key-405a57a1a1b2dc9f2a2410fa145e2a6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-405a57a1a1b2dc9f2a2410fa145e2a6a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-6bc1dead4d4c4ad6000e0e3c7e4d6510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-6bc1dead4d4c4ad6000e0e3c7e4d6510] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (c. 42)
 
@@ -187,13 +187,13 @@ Section 25.
 
 [^c810000]: Modification: The text of ss. 1, 5–8, 11, 12, 16, 24–28, 33, 36, 37(1)(2)(3)(4), 38(1), 40, 41, Sch. 1 (*a*)(*b*)(*c*)(i)(ii)(iii)(*d*)(i)(ii)(*e*), Sch. 2 paras. 1–10, 12–14, 16–25, 27–34, 37–42, Sch. 3 paras. 2–7, 12–20, 22–24, 26, 28, 32, 33, 34, 36, 37, 38, 39 and Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-ba5c0576463523b783ded37e662164b9]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/ukpga/1981/23/schedule/4) repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-ba5c0576463523b783ded37e662164b9]: Textual amendment: Words in [Sch. 4](https://www.legislation.gov.uk/ukpga/1981/23/schedule/4) repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [Sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c810002]: Modification: The text of ss. 1, 5–8, 11, 12, 16, 24–28, 33, 36, 37(1)(2)(3)(4), 38(1), 40, 41, Sch. 1 (*a*)(*b*)(*c*)(i)(ii)(iii)(*d*)(i)(ii)(*e*), Sch. 2 paras. 1–10, 12–14, 16–25, 27–34, 37–42, Sch. 3 paras. 2–7, 12–20, 22–24, 26, 28, 32, 33, 34, 36, 37, 38, 39 and Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 
-[^key-405a57a1a1b2dc9f2a2410fa145e2a6a]: Textual amendment: Sch. 2 para. 4 repealed (1.9.2009) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-405a57a1a1b2dc9f2a2410fa145e2a6a]: Textual amendment: Sch. 2 para. 4 repealed (1.9.2009) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
-[^key-6bc1dead4d4c4ad6000e0e3c7e4d6510]: Textual amendment: Sch. 2 para. 5 repealed (1.9.2009) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-6bc1dead4d4c4ad6000e0e3c7e4d6510]: Textual amendment: Sch. 2 para. 5 repealed (1.9.2009) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [Sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
 [^c810005]: Modification: The text of ss. 1, 5–8, 11, 12, 16, 24–28, 33, 36, 37(1)(2)(3)(4), 38(1), 40, 41, Sch. 1 (*a*)(*b*)(*c*)(i)(ii)(iii)(*d*)(i)(ii)(*e*), Sch. 2 paras. 1–10, 12–14, 16–25, 27–34, 37–42, Sch. 3 paras. 2–7, 12–20, 22–24, 26, 28, 32, 33, 34, 36, 37, 38, 39 and Sch. 4 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991
 

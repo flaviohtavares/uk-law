@@ -35,62 +35,62 @@ amending Commission Regulations (EU) No 321/2013, (EU) No 1299/2014, (EU) No 13
 
 (Text with EEA relevance) (revoked)
 
-[^key-7977e89ccd27ad1591e850c36650b50e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7977e89ccd27ad1591e850c36650b50e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-7977e89ccd27ad1591e850c36650b50e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7977e89ccd27ad1591e850c36650b50e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7977e89ccd27ad1591e850c36650b50e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-7977e89ccd27ad1591e850c36650b50e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II[^key-7977e89ccd27ad1591e850c36650b50e]
+## ANNEX I[^c-7977e89ccd27ad1591e850c36650b50e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-7977e89ccd27ad1591e850c36650b50e]
+## ANNEX II[^c-7977e89ccd27ad1591e850c36650b50e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-7977e89ccd27ad1591e850c36650b50e]
+## ANNEX III[^c-7977e89ccd27ad1591e850c36650b50e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX V[^key-7977e89ccd27ad1591e850c36650b50e]
+## ANNEX IV[^c-7977e89ccd27ad1591e850c36650b50e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VI[^key-7977e89ccd27ad1591e850c36650b50e]
+## ANNEX V[^c-7977e89ccd27ad1591e850c36650b50e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VII[^key-7977e89ccd27ad1591e850c36650b50e]
+## ANNEX VI[^c-7977e89ccd27ad1591e850c36650b50e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX VIII[^key-7977e89ccd27ad1591e850c36650b50e]
+## ANNEX VII[^c-7977e89ccd27ad1591e850c36650b50e]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX VIII[^c-7977e89ccd27ad1591e850c36650b50e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7977e89ccd27ad1591e850c36650b50e]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)
+[^c-7977e89ccd27ad1591e850c36650b50e]: Textual amendment: Regulation revoked (31.12.2020) by [The Railways (Interoperability) (Miscellaneous Amendments and Revocations) (EU Exit) Regulations 2020 (S.I. 2020/318)](https://www.legislation.gov.uk/uksi/2020/318), [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/318/regulation/1/2/c), [Sch. 2](https://www.legislation.gov.uk/uksi/2020/318/schedule/2)

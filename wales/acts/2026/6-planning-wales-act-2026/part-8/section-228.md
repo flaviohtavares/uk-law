@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 228. Power to make different provision for different areas, including areas of special control[^key-f62a2dc938c21133c655138b7707b8e9]
+## 228. Power to make different provision for different areas, including areas of special control[^c-f62a2dc938c21133c655138b7707b8e9]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f62a2dc938c21133c655138b7707b8e9]: Commencement: S. 228 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f62a2dc938c21133c655138b7707b8e9]: Commencement: S. 228 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

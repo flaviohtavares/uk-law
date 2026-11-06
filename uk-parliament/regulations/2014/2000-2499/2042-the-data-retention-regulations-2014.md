@@ -44,7 +44,7 @@ A draft of these Regulations has been laid before, and approved by a resolution 
 
 ## PART 1 — GENERAL
 
-### 1. Citation and commencement[^key-57299e8f319f252eb847eff9e2c28a4a]
+### 1. Citation and commencement[^c-57299e8f319f252eb847eff9e2c28a4a]
 
 (1) These Regulations may be cited as the Data Retention Regulations 2014.
 
@@ -56,7 +56,7 @@ A draft of these Regulations has been laid before, and approved by a resolution 
 
 ### Interpretation
 
-#### 2. Interpretation of Part 2[^key-ada9089dc43760eca7fb9ff677c7125a]
+#### 2. Interpretation of Part 2[^c-ada9089dc43760eca7fb9ff677c7125a]
 
 In this Part—
 
@@ -68,13 +68,13 @@ In this Part—
 - “traffic data” means anything falling within paragraph (a) of the definition of “communications data” in section 21(4) of the Regulation of Investigatory Powers Act 2000 so far as that definition applies in relation to telecommunications services and telecommunication systems;
 - “user ID” means a unique identifier allocated to persons when they subscribe to, or register with, an internet access service or internet communications service.
 
-#### 3. Specified data for purposes of definition of “relevant communications data”[^key-fc32c464d4f6e5854b2da63f21f9b24d]
+#### 3. Specified data for purposes of definition of “relevant communications data”[^c-fc32c464d4f6e5854b2da63f21f9b24d]
 
 The Schedule to these Regulations specifies the communications data that is of the kind mentioned in the Schedule to the 2009 Regulations[^f00003].
 
 ### Retention notices
 
-#### 4. Retention notices[^key-a94a734b3216008caeef180d1644c5aa]
+#### 4. Retention notices[^c-a94a734b3216008caeef180d1644c5aa]
 
 (1) A retention notice must specify—
 
@@ -96,7 +96,7 @@ The Schedule to these Regulations specifies the communications data that is of t
 
 ### Safeguards
 
-#### 5. Matters to be taken into account before giving retention notices[^key-5a004a5dcb95c11753fffcc43b831d3e]
+#### 5. Matters to be taken into account before giving retention notices[^c-5a004a5dcb95c11753fffcc43b831d3e]
 
 (1) Before giving a retention notice, the Secretary of State must, among other matters, take into account—
 
@@ -108,11 +108,11 @@ The Schedule to these Regulations specifies the communications data that is of t
 
 (2) Before giving such a notice, the Secretary of State must take reasonable steps to consult any operator to whom it relates.
 
-#### 6. Review of retention notices[^key-f64be11e6869de2ba8da0ec015996977]
+#### 6. Review of retention notices[^c-f64be11e6869de2ba8da0ec015996977]
 
 The Secretary of State must keep a retention notice under review.
 
-#### 7. Data integrity and security[^key-3f394faf25cdf6a6aad9335cdc5b464f]
+#### 7. Data integrity and security[^c-3f394faf25cdf6a6aad9335cdc5b464f]
 
 (1) A public telecommunications operator who retains communications data by virtue of section 1 of the Act must—
 
@@ -126,17 +126,17 @@ The Secretary of State must keep a retention notice under review.
 
 (4) It is sufficient for the operator to make arrangements for the deletion of the data to take place at such monthly or shorter intervals as appear to the operator to be practicable.
 
-#### 8. Disclosure of retained data[^key-6378d6ab09d868fca812d6dba2a31c49][^key-8283e98bd38a3b26a5065621b9b52e57]
+#### 8. Disclosure of retained data[^c-6378d6ab09d868fca812d6dba2a31c49][^c-8283e98bd38a3b26a5065621b9b52e57]
 
-(1)[^key-6378d6ab09d868fca812d6dba2a31c49] A public telecommunications operator must put in place adequate security systems (including technical and organisational measures) governing access to communications data retained by virtue of section 1 of the Act in order to protect against any disclosure of a kind which does not fall within section 1(6)(a) of the Act.
+(1)[^c-6378d6ab09d868fca812d6dba2a31c49] A public telecommunications operator must put in place adequate security systems (including technical and organisational measures) governing access to communications data retained by virtue of section 1 of the Act in order to protect against any disclosure of a kind which does not fall within section 1(6)(a) of the Act.
 
-(2)[^key-8283e98bd38a3b26a5065621b9b52e57] A public telecommunications operator who retains communications data by virtue of section 1 of the Act must retain the data in such a way that it can be transmitted without undue delay in response to requests.
+(2)[^c-8283e98bd38a3b26a5065621b9b52e57] A public telecommunications operator who retains communications data by virtue of section 1 of the Act must retain the data in such a way that it can be transmitted without undue delay in response to requests.
 
-#### 9. Oversight by the Information Commissioner[^key-50f7e739eae04499756d4140c275efe1]
+#### 9. Oversight by the Information Commissioner[^c-50f7e739eae04499756d4140c275efe1]
 
 The Information Commissioner must audit compliance with requirements or restrictions imposed by this Part in relation to the integrity, security or destruction of data retained by virtue of section 1 of the Act.
 
-#### 10. Code of practice[^key-ffcfcf02ef9cecb68ce2997743cffdfb]
+#### 10. Code of practice[^c-ffcfcf02ef9cecb68ce2997743cffdfb]
 
 (1) The following provisions of the Regulation of Investigatory Powers Act 2000 have effect as if the following amendments were made to them.
 
@@ -160,7 +160,7 @@ The Information Commissioner must audit compliance with requirements or restrict
 
 ### Supplementary and transitional provisions
 
-#### 11. Variation or revocation of notices[^key-56e5ce9079984f0611e3787dd8086822]
+#### 11. Variation or revocation of notices[^c-56e5ce9079984f0611e3787dd8086822]
 
 (1) The Secretary of State may vary a retention notice.
 
@@ -182,7 +182,7 @@ The Information Commissioner must audit compliance with requirements or restrict
 
 (10) The fact that a retention notice has been revoked in relation to a particular description of communications data and a particular operator (or description of operators) does not prevent the giving of another retention notice in relation to the same description of data and the same operator (or description of operators).
 
-#### 12. Enforcement of notices and certain other requirements and restrictions[^key-ae057e188162e73df511edcee7303a24]
+#### 12. Enforcement of notices and certain other requirements and restrictions[^c-ae057e188162e73df511edcee7303a24]
 
 (1) It is the duty of a public telecommunications operator on whom a requirement or restriction is imposed by—
 
@@ -194,7 +194,7 @@ to comply with the requirement or restriction concerned.
 
 (2) That duty is enforceable by civil proceedings by the Secretary of State for an injunction, or for specific performance of a statutory duty under section 45 of the Court of Session Act 1988[^f00005], or for any other appropriate relief.
 
-#### 13. Reimbursement of expenses of compliance[^key-6942cc73aee7c447b2c434f922a0094f]
+#### 13. Reimbursement of expenses of compliance[^c-6942cc73aee7c447b2c434f922a0094f]
 
 (1) The Secretary of State may reimburse any expenses incurred by a public telecommunications operator in complying with section 1(1) to (6) of the Act and this Part.
 
@@ -203,7 +203,7 @@ to comply with the requirement or restriction concerned.
 - (a) the expenses having been notified to the Secretary of State and agreed in advance;
 - (b) the public telecommunications operator having co-operated with any audit that may be reasonably required for the purpose of monitoring the claim for reimbursement.
 
-#### 14. Transitional provisions[^key-21574a0921c7562c541fc1e4badaa587]
+#### 14. Transitional provisions[^c-21574a0921c7562c541fc1e4badaa587]
 
 (1) The 2009 Regulations are revoked (but this is without prejudice to the operation of the definition of “relevant communications data” in section 2(1) of the Act).
 
@@ -233,35 +233,35 @@ to comply with the requirement or restriction concerned.
 
 ## PART 3 — SAFEGUARDS FOR DATA RETAINED VOLUNTARILY
 
-### 15. Data subject to code of practice on voluntary retention[^key-111bc5122966d1dc1bf8d2237d80690a][^key-7b42f0c795eeae3995177d5081337572][^key-947e36d351dd4ab90399ca138f2d79a0]
+### 15. Data subject to code of practice on voluntary retention[^c-111bc5122966d1dc1bf8d2237d80690a][^c-7b42f0c795eeae3995177d5081337572][^c-947e36d351dd4ab90399ca138f2d79a0]
 
-(1)[^key-111bc5122966d1dc1bf8d2237d80690a] This regulation applies in relation to communications data which is retained by telecommunications service providers by virtue of a code of practice under section 102 of the Anti-terrorism, Crime and Security Act 2001[^f00006].
+(1)[^c-111bc5122966d1dc1bf8d2237d80690a] This regulation applies in relation to communications data which is retained by telecommunications service providers by virtue of a code of practice under section 102 of the Anti-terrorism, Crime and Security Act 2001[^f00006].
 
-(2)[^key-7b42f0c795eeae3995177d5081337572] A telecommunications service provider who retains communications data to which this regulation applies must not disclose the data except in accordance with—
+(2)[^c-7b42f0c795eeae3995177d5081337572] A telecommunications service provider who retains communications data to which this regulation applies must not disclose the data except in accordance with—
 
 - (a) Chapter 2 of Part 1 of the Regulation of Investigatory Powers Act 2000 (acquisition and disclosure of communications data), or
 - (b) a court order or other judicial authorisation or warrant.
 
-(3)[^key-7b42f0c795eeae3995177d5081337572] A telecommunications service provider must put in place adequate security systems (including technical and organisational measures) governing access to communications data to which this regulation applies in order to protect against any disclosure of a kind which does not fall within paragraph (2).
+(3)[^c-7b42f0c795eeae3995177d5081337572] A telecommunications service provider must put in place adequate security systems (including technical and organisational measures) governing access to communications data to which this regulation applies in order to protect against any disclosure of a kind which does not fall within paragraph (2).
 
-(4)[^key-111bc5122966d1dc1bf8d2237d80690a] A telecommunications service provider who retains communications data to which this regulation applies must retain the data in such a way that it can be transmitted without undue delay in response to requests.
+(4)[^c-111bc5122966d1dc1bf8d2237d80690a] A telecommunications service provider who retains communications data to which this regulation applies must retain the data in such a way that it can be transmitted without undue delay in response to requests.
 
-(5)[^key-111bc5122966d1dc1bf8d2237d80690a] Regulation 7 applies in relation to communications data to which this regulation applies which is retained by a telecommunications service provider as it applies in relation to data retained by virtue of section 1 of the Act by a public telecommunications operator but as if the requirement in regulation 7(2) to destroy the data were a requirement to destroy it if the retention of the data ceases to be authorised by law.
+(5)[^c-111bc5122966d1dc1bf8d2237d80690a] Regulation 7 applies in relation to communications data to which this regulation applies which is retained by a telecommunications service provider as it applies in relation to data retained by virtue of section 1 of the Act by a public telecommunications operator but as if the requirement in regulation 7(2) to destroy the data were a requirement to destroy it if the retention of the data ceases to be authorised by law.
 
-(6)[^key-111bc5122966d1dc1bf8d2237d80690a] The Information Commissioner must audit compliance with requirements or restrictions imposed by this regulation in relation to the integrity, security or destruction of data to which this regulation applies.
+(6)[^c-111bc5122966d1dc1bf8d2237d80690a] The Information Commissioner must audit compliance with requirements or restrictions imposed by this regulation in relation to the integrity, security or destruction of data to which this regulation applies.
 
-(7)[^key-111bc5122966d1dc1bf8d2237d80690a] The modifications of sections 71 and 72 of the Regulation of Investigatory Powers Act 2000 in regulation 10 are to be read as if—
+(7)[^c-111bc5122966d1dc1bf8d2237d80690a] The modifications of sections 71 and 72 of the Regulation of Investigatory Powers Act 2000 in regulation 10 are to be read as if—
 
 - (a) the references to section 1(1) to (6) of the Data Retention and Investigatory Powers Act 2014 included references to this regulation, and
 - (b) the reference to Part 2 of these Regulations included a reference to paragraph (6) above.
 
-(8)[^key-111bc5122966d1dc1bf8d2237d80690a] It is the duty of a telecommunications service provider on whom a requirement or restriction is imposed by this regulation to comply with the requirement or restriction concerned.
+(8)[^c-111bc5122966d1dc1bf8d2237d80690a] It is the duty of a telecommunications service provider on whom a requirement or restriction is imposed by this regulation to comply with the requirement or restriction concerned.
 
-(9)[^key-111bc5122966d1dc1bf8d2237d80690a] That duty is enforceable by civil proceedings by the Secretary of State for an injunction, or for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or for any other appropriate relief.
+(9)[^c-111bc5122966d1dc1bf8d2237d80690a] That duty is enforceable by civil proceedings by the Secretary of State for an injunction, or for specific performance of a statutory duty under section 45 of the Court of Session Act 1988, or for any other appropriate relief.
 
-(10)[^key-111bc5122966d1dc1bf8d2237d80690a] The Secretary of State may reimburse any expenses incurred by a telecommunications service provider in complying with this regulation.
+(10)[^c-111bc5122966d1dc1bf8d2237d80690a] The Secretary of State may reimburse any expenses incurred by a telecommunications service provider in complying with this regulation.
 
-(11)[^key-111bc5122966d1dc1bf8d2237d80690a] Reimbursement may be conditional on either or both of the following—
+(11)[^c-111bc5122966d1dc1bf8d2237d80690a] Reimbursement may be conditional on either or both of the following—
 
 - (a) the expenses having been notified to the Secretary of State and agreed in advance;
 - (b) the telecommunications service provider having co-operated with any audit that may be reasonably required for the purpose of monitoring the claim for reimbursement.
@@ -280,49 +280,49 @@ Regulation 3
 
 ### PART 1 — FIXED NETWORK TELEPHONY
 
-#### 1. Data necessary to trace and identify the source of a communication[^key-404af501d6d5618982a3df5ef3aa75a7]
+#### 1. Data necessary to trace and identify the source of a communication[^c-404af501d6d5618982a3df5ef3aa75a7]
 
 (1) The calling telephone number.
 
 (2) The name and address of the subscriber or registered user of any such telephone.
 
-#### 2. Data necessary to identify the destination of a communication[^key-d1669c0009d65d32ad47050afc889161]
+#### 2. Data necessary to identify the destination of a communication[^c-d1669c0009d65d32ad47050afc889161]
 
 (1) The telephone number dialled and, in cases involving supplementary services such as call forwarding or call transfer, any telephone number to which the call is forwarded or transferred.
 
 (2) The name and address of the subscriber or registered user of any such telephone.
 
-#### 3. Data necessary to identify the date, time and duration of a communication[^key-dbca85094d2122473532ae2865d6b743]
+#### 3. Data necessary to identify the date, time and duration of a communication[^c-dbca85094d2122473532ae2865d6b743]
 
 The date and time of the start and end of the call.
 
-#### 4. Data necessary to identify the type of communication[^key-186dc2d3df7ce745786be53e97e828f0]
+#### 4. Data necessary to identify the type of communication[^c-186dc2d3df7ce745786be53e97e828f0]
 
 The telephone service used.
 
 ### PART 2 — MOBILE TELEPHONY
 
-#### 5. Data necessary to trace and identify the source of a communication[^key-de9e00af832cd077e3bdc2fa7c45f038]
+#### 5. Data necessary to trace and identify the source of a communication[^c-de9e00af832cd077e3bdc2fa7c45f038]
 
 (1) The calling telephone number.
 
 (2) The name and address of the subscriber or registered user of any such telephone.
 
-#### 6. Data necessary to identify the destination of a communication[^key-0479b6be1830e426e82be4785c3f4542]
+#### 6. Data necessary to identify the destination of a communication[^c-0479b6be1830e426e82be4785c3f4542]
 
 (1) The telephone number dialled and, in cases involving supplementary services such as call forwarding or call transfer, any telephone number to which the call is forwarded or transferred.
 
 (2) The name and address of the subscriber or registered user of any such telephone.
 
-#### 7. Data necessary to identify the date, time and duration of a communication[^key-6ab8df4fc8f1cc0516c0aaa7e6e1ba69]
+#### 7. Data necessary to identify the date, time and duration of a communication[^c-6ab8df4fc8f1cc0516c0aaa7e6e1ba69]
 
 The date and time of the start and end of the call.
 
-#### 8. Data necessary to identify the type of communication[^key-12ad97aaf536147a9bc58e81cd94abec]
+#### 8. Data necessary to identify the type of communication[^c-12ad97aaf536147a9bc58e81cd94abec]
 
 The telephone service used.
 
-#### 9. Data necessary to identify users’ communication equipment (or what purports to be their equipment)[^key-329f773f5c82f835e5885bc0bcae2992]
+#### 9. Data necessary to identify users’ communication equipment (or what purports to be their equipment)[^c-329f773f5c82f835e5885bc0bcae2992]
 
 (1) The International Mobile Subscriber Identity (IMSI) and the International Mobile Equipment Identity (IMEI) of the telephone from which a telephone call is made.
 
@@ -330,7 +330,7 @@ The telephone service used.
 
 (3) In the case of pre-paid anonymous services, the date and time of the initial activation of the service and the cell ID from which the service was activated.
 
-#### 10. Data necessary to identify the location of mobile communication equipment[^key-7b288c5d85e9ae558e430d5003a01ab4]
+#### 10. Data necessary to identify the location of mobile communication equipment[^c-7b288c5d85e9ae558e430d5003a01ab4]
 
 (1) The cell ID at the start of the communication.
 
@@ -338,7 +338,7 @@ The telephone service used.
 
 ### PART 3 — INTERNET ACCESS, INTERNET E-MAIL OR INTERNET TELEPHONY
 
-#### 11. Data necessary to trace and identify the source of a communication[^key-10aeeb8a77e74783f1325d2ae934b1a4]
+#### 11. Data necessary to trace and identify the source of a communication[^c-10aeeb8a77e74783f1325d2ae934b1a4]
 
 (1) The user ID allocated.
 
@@ -346,13 +346,13 @@ The telephone service used.
 
 (3) The name and address of the subscriber or registered user to whom an Internet Protocol (IP) address, user ID or telephone number was allocated at the time of the communication.
 
-#### 12. Data necessary to identify the destination of a communication[^key-0d44a5336c9a09e8feac4b27ab3772c5]
+#### 12. Data necessary to identify the destination of a communication[^c-0d44a5336c9a09e8feac4b27ab3772c5]
 
 (1) In the case of internet telephony, the user ID or telephone number of the intended recipient of the call.
 
 (2) In the case of internet e-mail or internet telephony, the name and address of the subscriber or registered user and the user ID of the intended recipient of the communication.
 
-#### 13. Data necessary to identify the date, time and duration of a communication[^key-1cc904f31ebbfee6e0c8d55057459165]
+#### 13. Data necessary to identify the date, time and duration of a communication[^c-1cc904f31ebbfee6e0c8d55057459165]
 
 (1) In the case of internet access—
 
@@ -362,11 +362,11 @@ The telephone service used.
 
 (2) In the case of internet e-mail or internet telephony, the date and time of the log-in to and log-off from the internet e-mail or internet telephony service, based on a specified time zone.
 
-#### 14. Data necessary to identify the type of communication[^key-29e1ef3c50eeeff326b55007c60d13fa]
+#### 14. Data necessary to identify the type of communication[^c-29e1ef3c50eeeff326b55007c60d13fa]
 
 In the case of internet e-mail or internet telephony, the internet service used.
 
-#### 15. Data necessary to identify users’ communication equipment (or what purports to be their equipment)[^key-83769bc076560ee995460efd5f57e801]
+#### 15. Data necessary to identify users’ communication equipment (or what purports to be their equipment)[^c-83769bc076560ee995460efd5f57e801]
 
 (1) In the case of dial-up access, the calling telephone number.
 
@@ -406,78 +406,78 @@ An impact assessment of the effect that the Act will have on the costs of busine
 
 [^f00001]: Footnote: [2014 c. 27](https://www.legislation.gov.uk/ukpga/2014/27).
 
-[^key-57299e8f319f252eb847eff9e2c28a4a]: Commencement: Reg. 1 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-57299e8f319f252eb847eff9e2c28a4a]: Commencement: Reg. 1 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-ada9089dc43760eca7fb9ff677c7125a]: Commencement: Reg. 2 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-ada9089dc43760eca7fb9ff677c7125a]: Commencement: Reg. 2 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
 [^f00002]: Footnote: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23).
 
-[^key-fc32c464d4f6e5854b2da63f21f9b24d]: Commencement: Reg. 3 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-fc32c464d4f6e5854b2da63f21f9b24d]: Commencement: Reg. 3 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2009/859](https://www.legislation.gov.uk/uksi/2009/859).
 
-[^key-a94a734b3216008caeef180d1644c5aa]: Commencement: Reg. 4 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-a94a734b3216008caeef180d1644c5aa]: Commencement: Reg. 4 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-5a004a5dcb95c11753fffcc43b831d3e]: Commencement: Reg. 5 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-5a004a5dcb95c11753fffcc43b831d3e]: Commencement: Reg. 5 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-f64be11e6869de2ba8da0ec015996977]: Commencement: Reg. 6 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-f64be11e6869de2ba8da0ec015996977]: Commencement: Reg. 6 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-3f394faf25cdf6a6aad9335cdc5b464f]: Commencement: Reg. 7 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-3f394faf25cdf6a6aad9335cdc5b464f]: Commencement: Reg. 7 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-6378d6ab09d868fca812d6dba2a31c49]: Commencement: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/8/1) in force at 13.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/3)
+[^c-6378d6ab09d868fca812d6dba2a31c49]: Commencement: [Reg. 8(1)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/8/1) in force at 13.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/3)
 
-[^key-8283e98bd38a3b26a5065621b9b52e57]: Commencement: Reg. 8(2) in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-8283e98bd38a3b26a5065621b9b52e57]: Commencement: Reg. 8(2) in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-50f7e739eae04499756d4140c275efe1]: Commencement: Reg. 9 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-50f7e739eae04499756d4140c275efe1]: Commencement: Reg. 9 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-ffcfcf02ef9cecb68ce2997743cffdfb]: Commencement: Reg. 10 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-ffcfcf02ef9cecb68ce2997743cffdfb]: Commencement: Reg. 10 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
 [^f00004]: Footnote: [2000 c. 23](https://www.legislation.gov.uk/ukpga/2000/23). Section 71 was amended by the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), section 88, Schedule 12, paragraphs 5 and 25; the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), section 115(1), Schedule 9, paragraphs 6 and 14, and [S.I. 2011/1340](https://www.legislation.gov.uk/uksi/2011/1340) .
 
-[^key-56e5ce9079984f0611e3787dd8086822]: Commencement: Reg. 11 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-56e5ce9079984f0611e3787dd8086822]: Commencement: Reg. 11 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-ae057e188162e73df511edcee7303a24]: Commencement: Reg. 12 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-ae057e188162e73df511edcee7303a24]: Commencement: Reg. 12 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
 [^f00005]: Footnote: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-6942cc73aee7c447b2c434f922a0094f]: Commencement: Reg. 13 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-6942cc73aee7c447b2c434f922a0094f]: Commencement: Reg. 13 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-21574a0921c7562c541fc1e4badaa587]: Commencement: Reg. 14 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-21574a0921c7562c541fc1e4badaa587]: Commencement: Reg. 14 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-111bc5122966d1dc1bf8d2237d80690a]: Commencement: Reg. 15(1)(4)-(11) in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-111bc5122966d1dc1bf8d2237d80690a]: Commencement: Reg. 15(1)(4)-(11) in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-7b42f0c795eeae3995177d5081337572]: Commencement: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/15/2)[(3)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/15/3) in force at 13.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/3)
+[^c-7b42f0c795eeae3995177d5081337572]: Commencement: [Reg. 15(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/15/2)[(3)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/15/3) in force at 13.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/3)
 
-[^key-947e36d351dd4ab90399ca138f2d79a0]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/2042/regulation/15) modified (temp.) (30.12.2016) by [The Investigatory Powers Act 2016 (Commencement No. 1 and Transitional Provisions) Regulations 2016 (S.I. 2016/1233)](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1233/regulation/3)
+[^c-947e36d351dd4ab90399ca138f2d79a0]: Modification: [Reg. 15](https://www.legislation.gov.uk/uksi/2014/2042/regulation/15) modified (temp.) (30.12.2016) by [The Investigatory Powers Act 2016 (Commencement No. 1 and Transitional Provisions) Regulations 2016 (S.I. 2016/1233)](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 3](https://www.legislation.gov.uk/uksi/2016/1233/regulation/3)
 
 [^f00006]: Footnote: [2001 c. 24](https://www.legislation.gov.uk/ukpga/2001/24). The Code of Practice is brought into force in accordance with [S.I. 2003/1375](https://www.legislation.gov.uk/uksi/2003/1375).
 
-[^key-404af501d6d5618982a3df5ef3aa75a7]: Commencement: Sch. para. 1 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-404af501d6d5618982a3df5ef3aa75a7]: Commencement: Sch. para. 1 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-d1669c0009d65d32ad47050afc889161]: Commencement: Sch. para. 2 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-d1669c0009d65d32ad47050afc889161]: Commencement: Sch. para. 2 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-dbca85094d2122473532ae2865d6b743]: Commencement: Sch. para. 3 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-dbca85094d2122473532ae2865d6b743]: Commencement: Sch. para. 3 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-186dc2d3df7ce745786be53e97e828f0]: Commencement: Sch. para. 4 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-186dc2d3df7ce745786be53e97e828f0]: Commencement: Sch. para. 4 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-de9e00af832cd077e3bdc2fa7c45f038]: Commencement: Sch. para. 5 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-de9e00af832cd077e3bdc2fa7c45f038]: Commencement: Sch. para. 5 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-0479b6be1830e426e82be4785c3f4542]: Commencement: Sch. para. 6 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-0479b6be1830e426e82be4785c3f4542]: Commencement: Sch. para. 6 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-6ab8df4fc8f1cc0516c0aaa7e6e1ba69]: Commencement: Sch. para. 7 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-6ab8df4fc8f1cc0516c0aaa7e6e1ba69]: Commencement: Sch. para. 7 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-12ad97aaf536147a9bc58e81cd94abec]: Commencement: Sch. para. 8 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-12ad97aaf536147a9bc58e81cd94abec]: Commencement: Sch. para. 8 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-329f773f5c82f835e5885bc0bcae2992]: Commencement: Sch. para. 9 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-329f773f5c82f835e5885bc0bcae2992]: Commencement: Sch. para. 9 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-7b288c5d85e9ae558e430d5003a01ab4]: Commencement: Sch. para. 10 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-7b288c5d85e9ae558e430d5003a01ab4]: Commencement: Sch. para. 10 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-10aeeb8a77e74783f1325d2ae934b1a4]: Commencement: Sch. para. 11 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-10aeeb8a77e74783f1325d2ae934b1a4]: Commencement: Sch. para. 11 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-0d44a5336c9a09e8feac4b27ab3772c5]: Commencement: Sch. para. 12 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-0d44a5336c9a09e8feac4b27ab3772c5]: Commencement: Sch. para. 12 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-1cc904f31ebbfee6e0c8d55057459165]: Commencement: Sch. para. 13 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-1cc904f31ebbfee6e0c8d55057459165]: Commencement: Sch. para. 13 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-29e1ef3c50eeeff326b55007c60d13fa]: Commencement: Sch. para. 14 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-29e1ef3c50eeeff326b55007c60d13fa]: Commencement: Sch. para. 14 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
 
-[^key-83769bc076560ee995460efd5f57e801]: Commencement: Sch. para. 15 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)
+[^c-83769bc076560ee995460efd5f57e801]: Commencement: Sch. para. 15 in force at 31.7.2014, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2042/regulation/1/2)

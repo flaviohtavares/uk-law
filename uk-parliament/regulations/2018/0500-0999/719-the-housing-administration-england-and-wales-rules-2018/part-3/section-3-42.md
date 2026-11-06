@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.42. Moving from housing administration to creditors’ voluntary winding up[^key-9f1b983d11059f1c0c9cdb6b88860894]
+## 3.42. Moving from housing administration to creditors’ voluntary winding up[^c-9f1b983d11059f1c0c9cdb6b88860894]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f1b983d11059f1c0c9cdb6b88860894]: Commencement: Rule 3.42 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-9f1b983d11059f1c0c9cdb6b88860894]: Commencement: Rule 3.42 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**32.**[^key-f49d692d40b121bd951ec3ef00f879a4] The holder of a coarse fishing rod licence shall, without avoidable injury, cause any salmon, trout or rainbow trout taken by him to be returned immediately to the water from which it was taken.
+**32.**[^c-f49d692d40b121bd951ec3ef00f879a4] The holder of a coarse fishing rod licence shall, without avoidable injury, cause any salmon, trout or rainbow trout taken by him to be returned immediately to the water from which it was taken.
 
 ## Annotations
 
-[^key-f49d692d40b121bd951ec3ef00f879a4]: Commencement: S. 32 in operation at 1.11.1997, see byelaw 1
+[^c-f49d692d40b121bd951ec3ef00f879a4]: Commencement: S. 32 in operation at 1.11.1997, see byelaw 1

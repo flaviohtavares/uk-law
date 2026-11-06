@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. Heat Network Zones Authority[^key-cc62670c109c84221a39954b9b1b931a]
+## 227. Heat Network Zones Authority[^c-cc62670c109c84221a39954b9b1b931a]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc62670c109c84221a39954b9b1b931a]: Commencement: S. 227 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-cc62670c109c84221a39954b9b1b931a]: Commencement: S. 227 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

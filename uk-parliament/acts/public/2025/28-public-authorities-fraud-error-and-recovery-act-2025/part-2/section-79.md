@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 79. Eligibility verification: independent review[^key-01598fd177ff77f605d9b3f2e6509a97][^key-bf5ed2fe90eb8219741ce681340ac866]
+## 79. Eligibility verification: independent review[^c-01598fd177ff77f605d9b3f2e6509a97][^c-bf5ed2fe90eb8219741ce681340ac866]
 
 *Extent: E+W+S*
 
@@ -61,6 +61,6 @@ After section 121DB of the Social Security Administration Act 1992 (inserted by 
 
 ## Annotations
 
-[^key-01598fd177ff77f605d9b3f2e6509a97]: Commencement: S. 79 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-01598fd177ff77f605d9b3f2e6509a97]: Commencement: S. 79 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-bf5ed2fe90eb8219741ce681340ac866]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2025/28/section/79) in force at 2.2.2026 in so far as not already in force by [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/b)
+[^c-bf5ed2fe90eb8219741ce681340ac866]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2025/28/section/79) in force at 2.2.2026 in so far as not already in force by [S.I. 2025/1265](https://www.legislation.gov.uk/uksi/2025/1265), [reg. 2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1265/regulation/2/2/b)

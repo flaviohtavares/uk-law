@@ -43,32 +43,32 @@ The Department for Social Development makes the following Regulations in exercis
 
 These Regulations contain only provisions in consequence of an order[^f00004] under sections 132 and 132A of the Social Security Administration (Northern Ireland) Act 1992[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-61ce8356908845bb1ad54645fae4e230]
+## 1. Citation, commencement and interpretation[^c-61ce8356908845bb1ad54645fae4e230]
 
 (1) These Regulations may be cited as the Social Security Benefits Up-rating Regulations (Northern Ireland) 2009 and shall come into operation on 6th April 2009.
 
 (2) In these Regulations “the Up-rating Order” means the Social Security Benefits Up-rating Order (Northern Ireland) 2009[^f00004].
 
-## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^key-5de306080d28144e3f970d7387fee5b0]
+## 2. Exceptions relating to payment of additional benefit by virtue of the Up-rating Order[^c-5de306080d28144e3f970d7387fee5b0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Persons not ordinarily resident in Northern Ireland[^key-23a0fc9fb1d24e89ef578822135f1348]
+## 3. Persons not ordinarily resident in Northern Ireland[^c-23a0fc9fb1d24e89ef578822135f1348]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security Benefit (Dependency) Regulations[^key-7f79d5037975114c28c4a4db66a096f8]
+## 4. Amendment of the Social Security Benefit (Dependency) Regulations[^c-7f79d5037975114c28c4a4db66a096f8]
 
 In paragraph 2B of Schedule 2 to the Social Security Benefit (Dependency) Regulations (Northern Ireland) 1977[^f00008] (prescribed circumstances for increase of a carer’s allowance)—
 
-- (a)[^key-c5065a85c3bca4f6850e0d388e94ec05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c5065a85c3bca4f6850e0d388e94ec05] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in sub-paragraph (b) for “£25” and “£185” substitute “£26” and “£195” respectively.
 
-## 5. Amendment of the Social Security (Claims and Payments) Regulations[^key-d20535295fc805ef73e9e36bc42a22ed]
+## 5. Amendment of the Social Security (Claims and Payments) Regulations[^c-d20535295fc805ef73e9e36bc42a22ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-11df71ecab13a167a5d206c4c256e83f]
+## 6. Revocation[^c-11df71ecab13a167a5d206c4c256e83f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -108,18 +108,18 @@ Regulation 6 makes a consequential revocation.
 
 [^f00005]: Footnote: Section 132A was inserted by section 5(1) of the [Pensions Act (Northern Ireland) 2008 (c. 1 (N.I.))](https://www.legislation.gov.uk/nia/2008/1)
 
-[^key-61ce8356908845bb1ad54645fae4e230]: Commencement: Reg. 1 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/100/regulation/1/1)
+[^c-61ce8356908845bb1ad54645fae4e230]: Commencement: Reg. 1 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/100/regulation/1/1)
 
-[^key-5de306080d28144e3f970d7387fee5b0]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/100/regulation/2) revoked (12.4.2010) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2010 (S.R. 2010/119)](https://www.legislation.gov.uk/nisr/2010/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/119/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2010/119/regulation/6)
+[^c-5de306080d28144e3f970d7387fee5b0]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/2009/100/regulation/2) revoked (12.4.2010) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2010 (S.R. 2010/119)](https://www.legislation.gov.uk/nisr/2010/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/119/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2010/119/regulation/6)
 
-[^key-23a0fc9fb1d24e89ef578822135f1348]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/100/regulation/3) revoked (12.4.2010) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2010 (S.R. 2010/119)](https://www.legislation.gov.uk/nisr/2010/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/119/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2010/119/regulation/6)
+[^c-23a0fc9fb1d24e89ef578822135f1348]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2009/100/regulation/3) revoked (12.4.2010) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2010 (S.R. 2010/119)](https://www.legislation.gov.uk/nisr/2010/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/119/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2010/119/regulation/6)
 
-[^key-7f79d5037975114c28c4a4db66a096f8]: Commencement: Reg. 4 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/100/regulation/1/1)
+[^c-7f79d5037975114c28c4a4db66a096f8]: Commencement: Reg. 4 in operation at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/100/regulation/1/1)
 
 [^f00008]: Footnote: [S.R. 1977 No. 74](https://www.legislation.gov.uk/nisr/1977/74); relevant amending Regulations are [S.R. 1984 No. 382](https://www.legislation.gov.uk/nisr/1984/382), [S.R. 2001 No. 106](https://www.legislation.gov.uk/nisr/2001/106), [S.R. 2002 No. 323](https://www.legislation.gov.uk/nisr/2002/323) and [S.R. 2008 No. 105](https://www.legislation.gov.uk/nisr/2008/105)
 
-[^key-c5065a85c3bca4f6850e0d388e94ec05]: Textual amendment: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2009/100/regulation/4/a) revoked (12.4.2010) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2010 (S.R. 2010/119)](https://www.legislation.gov.uk/nisr/2010/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/119/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2010/119/regulation/6)
+[^c-c5065a85c3bca4f6850e0d388e94ec05]: Textual amendment: [Reg. 4(a)](https://www.legislation.gov.uk/nisr/2009/100/regulation/4/a) revoked (12.4.2010) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2010 (S.R. 2010/119)](https://www.legislation.gov.uk/nisr/2010/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/119/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2010/119/regulation/6)
 
-[^key-d20535295fc805ef73e9e36bc42a22ed]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/100/regulation/5) revoked (12.4.2010) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2010 (S.R. 2010/119)](https://www.legislation.gov.uk/nisr/2010/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/119/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2010/119/regulation/6)
+[^c-d20535295fc805ef73e9e36bc42a22ed]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2009/100/regulation/5) revoked (12.4.2010) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2010 (S.R. 2010/119)](https://www.legislation.gov.uk/nisr/2010/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/119/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2010/119/regulation/6)
 
-[^key-11df71ecab13a167a5d206c4c256e83f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/100/regulation/6) revoked (12.4.2010) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2010 (S.R. 2010/119)](https://www.legislation.gov.uk/nisr/2010/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/119/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2010/119/regulation/6)
+[^c-11df71ecab13a167a5d206c4c256e83f]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2009/100/regulation/6) revoked (12.4.2010) by [The Social Security Benefits Up-rating Regulations (Northern Ireland) 2010 (S.R. 2010/119)](https://www.legislation.gov.uk/nisr/2010/119), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/119/regulation/1/1), [6](https://www.legislation.gov.uk/nisr/2010/119/regulation/6)

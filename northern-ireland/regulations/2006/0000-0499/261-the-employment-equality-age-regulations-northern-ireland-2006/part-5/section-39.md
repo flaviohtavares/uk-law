@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Codes of practice[^key-2aef47123d95dce2b98d1f7a86ff674c]
+## 39. Codes of practice[^c-2aef47123d95dce2b98d1f7a86ff674c]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ as appear to the Commission to be appropriate.
 
 ## Annotations
 
-[^key-2aef47123d95dce2b98d1f7a86ff674c]: Commencement: Reg. 39 in operation at 14.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/2)
+[^c-2aef47123d95dce2b98d1f7a86ff674c]: Commencement: Reg. 39 in operation at 14.6.2006, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/2)

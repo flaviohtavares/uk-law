@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-30172dbe1e9200bf588381c3f78fd383]
+## 2. Interpretation[^c-30172dbe1e9200bf588381c3f78fd383]
 
 *Extent: E+W*
 
@@ -79,7 +79,7 @@ the poll at which is taken together with the poll at the referendum;
 
 ## Annotations
 
-[^key-30172dbe1e9200bf588381c3f78fd383]: Commencement: Reg. 2 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-30172dbe1e9200bf588381c3f78fd383]: Commencement: Reg. 2 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
 
 [^f00006]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2).
 

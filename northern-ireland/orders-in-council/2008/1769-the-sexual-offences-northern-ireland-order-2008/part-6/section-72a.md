@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 72A. Sending etc an unwanted sexual image[^key-e21a8ddd8f286f19dafa2affdbcfc432]
+## 72A. Sending etc an unwanted sexual image[^c-e21a8ddd8f286f19dafa2affdbcfc432]
 
 *Extent: N.I.*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e21a8ddd8f286f19dafa2affdbcfc432]: Textual amendment: [Art. 72A](https://www.legislation.gov.uk/nisi/2008/1769/article/72A) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 2](https://www.legislation.gov.uk/nia/2022/19/section/2), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)
+[^c-e21a8ddd8f286f19dafa2affdbcfc432]: Textual amendment: [Art. 72A](https://www.legislation.gov.uk/nisi/2008/1769/article/72A) inserted (27.11.2023) by [Justice (Sexual Offences and Trafficking Victims) Act (Northern Ireland) 2022 (c. 19)](https://www.legislation.gov.uk/nia/2022/19), [ss. 2](https://www.legislation.gov.uk/nia/2022/19/section/2), [30(2)](https://www.legislation.gov.uk/nia/2022/19/section/30/2); [S.R. 2023/188](https://www.legislation.gov.uk/nisr/2023/188), [art. 3(a)](https://www.legislation.gov.uk/nisr/2023/188/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Exclusion of classified films etc.[^key-7f6740dde44898fbe19eca0418737527]
+## 64. Exclusion of classified films etc.[^c-7f6740dde44898fbe19eca0418737527]
 
 *Extent: E+W+N.I.*
 
@@ -58,4 +58,4 @@ is to be disregarded.
 
 ## Annotations
 
-[^key-7f6740dde44898fbe19eca0418737527]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2008/4/section/64) in force at 26.1.2009 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/b)
+[^c-7f6740dde44898fbe19eca0418737527]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2008/4/section/64) in force at 26.1.2009 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/2/b)

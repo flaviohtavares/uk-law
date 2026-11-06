@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. References to subsidy control groups[^key-17fd3cb8c71a30fd3102e3f72a9d4f00][^key-1ee8cc738fc264c1a18bcb8c882ae1dd]
+## 69. References to subsidy control groups[^c-17fd3cb8c71a30fd3102e3f72a9d4f00][^c-1ee8cc738fc264c1a18bcb8c882ae1dd]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-17fd3cb8c71a30fd3102e3f72a9d4f00]: Commencement: S. 69 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-17fd3cb8c71a30fd3102e3f72a9d4f00]: Commencement: S. 69 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-1ee8cc738fc264c1a18bcb8c882ae1dd]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2022/23/section/69) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-1ee8cc738fc264c1a18bcb8c882ae1dd]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2022/23/section/69) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

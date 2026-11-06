@@ -46,7 +46,7 @@ Coming into force
 
 The Treasury make the following Regulations in exercise of the power conferred by paragraph 5 of Schedule 3 to the Finance Act 2003[^f00001].
 
-## 1. Citation, commencement and effect[^key-030dca12b0e99add614e06e32ad5a3cd]
+## 1. Citation, commencement and effect[^c-030dca12b0e99add614e06e32ad5a3cd]
 
 (1) These Regulations may be cited as the Stamp Duty Land Tax (Exemption of Certain Acquisitions of Residential Property) Regulations 2008 and shall come into force on 3rd September 2008.
 
@@ -55,11 +55,11 @@ The Treasury make the following Regulations in exercise of the power conferred b
 - (a) on or after 3rd September 2008, and
 - (b) before 3rd September 2009.
 
-## 2. Interpretation[^key-08841f8c3c4a1f5e2a30480d753511fd]
+## 2. Interpretation[^c-08841f8c3c4a1f5e2a30480d753511fd]
 
 In these Regulations expressions which are used in Part 4 of the Finance Act 2003 have the same meaning as in that Part.
 
-## 3. Exemption for acquisitions of residential property at not more than £175,000[^key-43e4a1c993cf72764a4ec60d3c81cd37]
+## 3. Exemption for acquisitions of residential property at not more than £175,000[^c-43e4a1c993cf72764a4ec60d3c81cd37]
 
 (1) A land transaction is exempt from the charge to stamp duty land tax if—
 
@@ -96,8 +96,8 @@ A full and final Impact Assessment has not been produced for this instrument as 
 
 [^f00001]: Footnote: [2003 c. 14](https://www.legislation.gov.uk/ukpga/2003/14).
 
-[^key-030dca12b0e99add614e06e32ad5a3cd]: Commencement: Reg. 1 in force at 3.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2339/regulation/1/1)
+[^c-030dca12b0e99add614e06e32ad5a3cd]: Commencement: Reg. 1 in force at 3.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2339/regulation/1/1)
 
-[^key-08841f8c3c4a1f5e2a30480d753511fd]: Commencement: Reg. 2 in force at 3.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2339/regulation/1/1)
+[^c-08841f8c3c4a1f5e2a30480d753511fd]: Commencement: Reg. 2 in force at 3.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2339/regulation/1/1)
 
-[^key-43e4a1c993cf72764a4ec60d3c81cd37]: Commencement: Reg. 3 in force at 3.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2339/regulation/1/1)
+[^c-43e4a1c993cf72764a4ec60d3c81cd37]: Commencement: Reg. 3 in force at 3.9.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/2339/regulation/1/1)

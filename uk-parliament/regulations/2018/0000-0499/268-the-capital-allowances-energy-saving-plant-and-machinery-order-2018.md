@@ -32,7 +32,7 @@ Income Tax
 
 Corporation Tax
 
-[^key-cd14a46173c533bd1089cafa2f9f23d4]The Capital Allowances (Energy-saving Plant and Machinery) Order 2018 (revoked)
+[^c-cd14a46173c533bd1089cafa2f9f23d4]The Capital Allowances (Energy-saving Plant and Machinery) Order 2018 (revoked)
 
 Made
 
@@ -94,4 +94,4 @@ Coming into force
 
 ## Annotations
 
-[^key-cd14a46173c533bd1089cafa2f9f23d4]: Textual amendment: Order revoked (with effect in relation to expenditure incurred on or after, for corporation tax purposes, 1.4.2020, and, for income tax purposes, 6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(4)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/4)[(5)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/5)
+[^c-cd14a46173c533bd1089cafa2f9f23d4]: Textual amendment: Order revoked (with effect in relation to expenditure incurred on or after, for corporation tax purposes, 1.4.2020, and, for income tax purposes, 6.4.2020) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 33(4)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/4)[(5)](https://www.legislation.gov.uk/ukpga/2019/1/section/33/5)

@@ -31,7 +31,7 @@ Criminal Justice Act 1967
 
 An Act to amend the law relating to the proceedings of criminal courts, including the law relating to evidence, and to the qualification of jurors, in such proceedings and to appeals in criminal cases; to reform existing methods and provide new methods of dealing with offenders; to make further provision for the treatment of offenders, the management of prisons and other institutions and the arrest of offenders unlawfully at large; to make further provision with respect to legal aid and advice in criminal proceedings; to amend the law relating to firearms and ammunition; to alter the penalties which may be imposed for certain offences; and for connected purposes.
 
-\[27th July 1967\][^c7280521][^c7280531][^c7280541][^key-8dcec8d443203ea367d68658e45527cc]
+\[27th July 1967\][^c7280521][^c7280531][^c7280541][^c-8dcec8d443203ea367d68658e45527cc]
 
 ## Contents
 
@@ -194,4 +194,4 @@ SCHEDULES
 
 [^c7280541]: Extent: For the extent of this Act see [s. 106](https://www.legislation.gov.uk/ukpga/1967/80/section/106)
 
-[^key-8dcec8d443203ea367d68658e45527cc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1967/80) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)
+[^c-8dcec8d443203ea367d68658e45527cc]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1967/80) applied (with modifications) (23.12.2011) by [The Legal Services Act 2007 (Designation as a Licensing Authority) (No. 2) Order 2011 (S.I. 2011/2866)](https://www.legislation.gov.uk/uksi/2011/2866), [art. 1(2)](https://www.legislation.gov.uk/uksi/2011/2866/article/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2866/schedule/2)

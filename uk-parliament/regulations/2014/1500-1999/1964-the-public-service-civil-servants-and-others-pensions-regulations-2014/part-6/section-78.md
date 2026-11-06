@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Deferment of accrued earned pension attributable to a transfer payment[^key-c48a0d3bcead6c83884c665016b3cf31]
+## 78. Deferment of accrued earned pension attributable to a transfer payment[^c-c48a0d3bcead6c83884c665016b3cf31]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c48a0d3bcead6c83884c665016b3cf31]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2014/1964/regulation/78) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-c48a0d3bcead6c83884c665016b3cf31]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2014/1964/regulation/78) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)

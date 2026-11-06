@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99A. Guidance[^key-bf172db2b8f570f4b90f77c6c11e22f7]
+## 99A. Guidance[^c-bf172db2b8f570f4b90f77c6c11e22f7]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf172db2b8f570f4b90f77c6c11e22f7]: Textual amendment: S. 99A and cross-heading inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 10](https://www.legislation.gov.uk/asp/2011/14/section/10), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-bf172db2b8f570f4b90f77c6c11e22f7]: Textual amendment: S. 99A and cross-heading inserted (31.8.2011) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 10](https://www.legislation.gov.uk/asp/2011/14/section/10), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Amendment to the Human Fertilisation and Embryology (Parental Orders) Regulations 2010[^key-c008ed4acba501b333f15edf27faa09b]
+## 123. Amendment to the Human Fertilisation and Embryology (Parental Orders) Regulations 2010[^c-c008ed4acba501b333f15edf27faa09b]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ The Human Fertilisation and Embryology (Parental Orders) Regulations 2010[^f0003
 
 ## Annotations
 
-[^key-c008ed4acba501b333f15edf27faa09b]: Commencement: Art. 123 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-c008ed4acba501b333f15edf27faa09b]: Commencement: Art. 123 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00038]: Footnote: [S.I. 2010/985](https://www.legislation.gov.uk/uksi/2010/985).

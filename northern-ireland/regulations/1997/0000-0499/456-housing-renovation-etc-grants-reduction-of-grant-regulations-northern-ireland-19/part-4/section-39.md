@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 39. Determination of tariff income from capital[^key-fbc3696746613d9c9e449a0ef19b27af]
+## 39. Determination of tariff income from capital[^c-fbc3696746613d9c9e449a0ef19b27af]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbc3696746613d9c9e449a0ef19b27af]: Commencement: Reg. 39 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)
+[^c-fbc3696746613d9c9e449a0ef19b27af]: Commencement: Reg. 39 in operation at 24.11.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/456/regulation/1)

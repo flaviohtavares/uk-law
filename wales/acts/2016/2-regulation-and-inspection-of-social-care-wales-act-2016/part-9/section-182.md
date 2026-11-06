@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 182. Sharing information to protect well-being[^key-d5c697813172302978ef132971fff949]
+## 182. Sharing information to protect well-being[^c-d5c697813172302978ef132971fff949]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5c697813172302978ef132971fff949]: Commencement: [S. 182](https://www.legislation.gov.uk/anaw/2016/2/section/182) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(h)](https://www.legislation.gov.uk/wsi/2017/309/article/2/h) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))
+[^c-d5c697813172302978ef132971fff949]: Commencement: [S. 182](https://www.legislation.gov.uk/anaw/2016/2/section/182) in force at 3.4.2017 by [S.I. 2017/309](https://www.legislation.gov.uk/wsi/2017/309), [art. 2(h)](https://www.legislation.gov.uk/wsi/2017/309/article/2/h) (with [arts. 3](https://www.legislation.gov.uk/wsi/2017/309/article/3), [4](https://www.legislation.gov.uk/wsi/2017/309/article/4), [Sch.](https://www.legislation.gov.uk/wsi/2017/309/schedule))

@@ -42,9 +42,9 @@ summary: ''
 (5) For the purposes of this Article, Schedule 2 is modified as follows—
 
 - (a) in paragraph 1, sub-paragraphs (1)(b) and (2)(a) must be disregarded;
-- (b)[^key-1ecc11456957457362546976cb2f35a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-1ecc11456957457362546976cb2f35a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-1ecc11456957457362546976cb2f35a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-1ecc11456957457362546976cb2f35a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1ecc11456957457362546976cb2f35a9]: Textual amendment: Art. 11(5)(b)(c) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 80](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/80), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(v)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)[(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/v)
+[^c-1ecc11456957457362546976cb2f35a9]: Textual amendment: Art. 11(5)(b)(c) repealed (10.9.2012 immediately after S.I. 2012/2157 comes into force) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 9 para. 80](https://www.legislation.gov.uk/ukpga/2012/9/schedule/9/paragraph/80), [Sch. 10 Pt. 5](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/5); [S.I. 2012/2234](https://www.legislation.gov.uk/uksi/2012/2234), [art. 2(aa)(v)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/bb)[(bb)](https://www.legislation.gov.uk/uksi/2012/2234/article/2/aa/v)

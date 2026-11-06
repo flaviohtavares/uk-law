@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Possession of advice or guidance about child sexual abuse or CSA images: Scotland[^key-6fe2e58f0ee2f02964825a7e1701a75e]
+## 76. Possession of advice or guidance about child sexual abuse or CSA images: Scotland[^c-6fe2e58f0ee2f02964825a7e1701a75e]
 
 *Extent: S*
 
@@ -121,4 +121,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6fe2e58f0ee2f02964825a7e1701a75e]: Commencement: S. 76 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(d)
+[^c-6fe2e58f0ee2f02964825a7e1701a75e]: Commencement: S. 76 not in force at Royal Assent, see [s. 255(1)(10)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1/10)(d)

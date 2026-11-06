@@ -157,7 +157,7 @@ Section 4.
 
 ### Period of ballot’s effectiveness
 
-**10.**[^key-ba4237f3985520ae070c0af798673b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ba4237f3985520ae070c0af798673b50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Notice of industrial action
 
@@ -191,4 +191,4 @@ Section 4.
 
 ## Annotations
 
-[^key-ba4237f3985520ae070c0af798673b50]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/1999/26/schedule/3/paragraph/10) omitted (1.4.2022) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 21(b)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/21/b); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/e)
+[^c-ba4237f3985520ae070c0af798673b50]: Textual amendment: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/1999/26/schedule/3/paragraph/10) omitted (1.4.2022) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 21(b)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/21/b); [S.I. 2021/1373](https://www.legislation.gov.uk/uksi/2021/1373), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2021/1373/regulation/4/e)

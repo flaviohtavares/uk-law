@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 86. Landlord's consent: timing[^key-2bc1323430e301f6b25bb0a547121ab6]
+## 86. Landlord's consent: timing[^c-2bc1323430e301f6b25bb0a547121ab6]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bc1323430e301f6b25bb0a547121ab6]: Commencement: [S. 86](https://www.legislation.gov.uk/anaw/2016/1/section/86) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-2bc1323430e301f6b25bb0a547121ab6]: Commencement: [S. 86](https://www.legislation.gov.uk/anaw/2016/1/section/86) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Modifications to Schedule 3[^key-3c8980351dca03077906387f07be8ea2]
+## 139. Modifications to Schedule 3[^c-3c8980351dca03077906387f07be8ea2]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ Schedule 3 (content of reviews notices) has effect as if, in paragraphs 3 and 4â
 
 ## Annotations
 
-[^key-3c8980351dca03077906387f07be8ea2]: Commencement: Reg. 139 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-3c8980351dca03077906387f07be8ea2]: Commencement: Reg. 139 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

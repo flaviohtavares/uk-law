@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Fees for applications for registration, supplementary notes, etc[^key-350cc432c7fd97d9bb212c88bf0e5a5c][^key-2f3d1dbf5e6f51aeefa7a32da1fe269e]
+## 39. Fees for applications for registration, supplementary notes, etc[^c-350cc432c7fd97d9bb212c88bf0e5a5c][^c-2f3d1dbf5e6f51aeefa7a32da1fe269e]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ including provision conferring functions on the Secretary of State in relation t
 
 ## Annotations
 
-[^key-350cc432c7fd97d9bb212c88bf0e5a5c]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-350cc432c7fd97d9bb212c88bf0e5a5c]: Commencement: S. 39 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-2f3d1dbf5e6f51aeefa7a32da1fe269e]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/18/section/39) in force at 1.12.2025 in so far as not already in force by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)
+[^c-2f3d1dbf5e6f51aeefa7a32da1fe269e]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2025/18/section/39) in force at 1.12.2025 in so far as not already in force by [S.I. 2025/1213](https://www.legislation.gov.uk/uksi/2025/1213), [reg. 2](https://www.legislation.gov.uk/uksi/2025/1213/regulation/2)

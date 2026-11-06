@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125ZA. Warrants of control[^key-04a7a4588fe28d83e2bd37abe7d7debb]
+## 125ZA. Warrants of control[^c-04a7a4588fe28d83e2bd37abe7d7debb]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-04a7a4588fe28d83e2bd37abe7d7debb]: Textual amendment: S. 125ZA inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 68](https://www.legislation.gov.uk/ukpga/2007/15/section/68), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)
+[^c-04a7a4588fe28d83e2bd37abe7d7debb]: Textual amendment: S. 125ZA inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [ss. 68](https://www.legislation.gov.uk/ukpga/2007/15/section/68), [148](https://www.legislation.gov.uk/ukpga/2007/15/section/148) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Determination of round prices for subsequent principal stage rounds[^key-14613a97245a50456e081dbdcca09fa0]
+## 25. Determination of round prices for subsequent principal stage rounds[^c-14613a97245a50456e081dbdcca09fa0]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-14613a97245a50456e081dbdcca09fa0]: Commencement: Reg. 25 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-14613a97245a50456e081dbdcca09fa0]: Commencement: Reg. 25 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

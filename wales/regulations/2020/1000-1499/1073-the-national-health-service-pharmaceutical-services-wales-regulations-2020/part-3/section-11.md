@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Preparation and maintenance of dispensing doctor lists[^key-d63dd7c5a3468342afb997894fa66482]
+## 11. Preparation and maintenance of dispensing doctor lists[^c-d63dd7c5a3468342afb997894fa66482]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d63dd7c5a3468342afb997894fa66482]: Commencement: Reg. 11 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)
+[^c-d63dd7c5a3468342afb997894fa66482]: Commencement: Reg. 11 in force at 1.10.2020, see [reg. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/2/b)

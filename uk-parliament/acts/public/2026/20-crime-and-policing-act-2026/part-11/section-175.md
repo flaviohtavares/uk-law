@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 175. Section 173: interpretation[^key-65d11a149f98415aedb9f301ec1a4cb0]
+## 175. Section 173: interpretation[^c-65d11a149f98415aedb9f301ec1a4cb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-65d11a149f98415aedb9f301ec1a4cb0]: Commencement: S. 175 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-65d11a149f98415aedb9f301ec1a4cb0]: Commencement: S. 175 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

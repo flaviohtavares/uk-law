@@ -45,13 +45,13 @@ A draft of this instrument has been laid before, and approved by a resolution of
 
 ## PART 1 — General
 
-### 1. Title, application and commencement[^key-f693aa7c91236de2b1836f54332eccda]
+### 1. Title, application and commencement[^c-f693aa7c91236de2b1836f54332eccda]
 
 (1) These Regulations, which apply in relation to Wales, are titled the Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2023.
 
 (2) These Regulations come into force on 1 April 2023.
 
-### 2. Interpretation: general[^key-cb48417dc0c3b0ae64dfca5551d147f0]
+### 2. Interpretation: general[^c-cb48417dc0c3b0ae64dfca5551d147f0]
 
 (1) In these Regulations—
 
@@ -60,17 +60,17 @@ A draft of this instrument has been laid before, and approved by a resolution of
 - “**appeal**” (“***apêl***”) means an appeal under—
   - (a) regulation 18;
   - (b) regulation 24;
-  - (ba) section 63L of the Act (appeals to a valuation tribunal);[^key-ccd5b98aa6581c4d94ad19b9e61e0cb3]
+  - (ba) section 63L of the Act (appeals to a valuation tribunal);[^c-ccd5b98aa6581c4d94ad19b9e61e0cb3]
   - (c) paragraph 4 of Schedule 4A[^f00003] to the Act (non-domestic rating: new buildings (completion days)) as it applies to Part 3 of the Act (non-domestic rating) (in these Regulations called an “**appeal against a completion notice**”);
-  - (d) paragraph 5C of Schedule 9[^f00004] to the Act [^key-94dc4f9169358ef8b396c3ba0f686f7c]...;
-  - (e) regulations made under paragraph 6AA of Schedule 9 to the Act;[^key-0868ee2e180a800d7a490ba7fcef6f4c]
+  - (d) paragraph 5C of Schedule 9[^f00004] to the Act [^c-94dc4f9169358ef8b396c3ba0f686f7c]...;
+  - (e) regulations made under paragraph 6AA of Schedule 9 to the Act;[^c-0868ee2e180a800d7a490ba7fcef6f4c]
 - “**appeal against imposition of a penalty**” (“***apêl yn erbyn gosod cosb***”) means—
-  - (a) an appeal against imposition of a penalty under paragraph 5C of Schedule 9 to the Act,[^key-d3775c988ae2a8d3692ccf997574c027]
-  - (aa) an appeal against imposition of a penalty or its amount under regulations made under paragraph 6AA of Schedule 9 to the Act, or[^key-0dad7b80ce13c98303ea347411ba5123]
+  - (a) an appeal against imposition of a penalty under paragraph 5C of Schedule 9 to the Act,[^c-d3775c988ae2a8d3692ccf997574c027]
+  - (aa) an appeal against imposition of a penalty or its amount under regulations made under paragraph 6AA of Schedule 9 to the Act, or[^c-0dad7b80ce13c98303ea347411ba5123]
   - (b) an appeal under regulation 18;
 - “**authority**” (“***awdurdod***”) means a billing authority which has the meaning given by the
 - Local Government Finance Act 1992[^f00005];
-- “**central list**” (“***rhestr ganolog***”) means a list compiled and maintained in accordance with section 52ZA[^key-7aae4866fa7eafa947cac9ca649cb0de] of the Act;
+- “**central list**” (“***rhestr ganolog***”) means a list compiled and maintained in accordance with section 52ZA[^c-7aae4866fa7eafa947cac9ca649cb0de] of the Act;
 - “**clerk**” (“***clerc***”), in relation to an appeal, means the clerk of the VTW;
 - “**company**” (“***cwmni***”), “**holding company**” (“***cwmni daliannol***”) and “**subsidiary**” (“***is-gwmni***”) have the meanings given by the Companies Act 2006[^f00006];
 - “**completion notice**” (“***hysbysiad cwblhau***”) means a notice under paragraph 1 of Schedule 4A to the Act as it applies to Part 3 of the Act, which states the completion day as 1 April 2023 or later;
@@ -83,7 +83,7 @@ A draft of this instrument has been laid before, and approved by a resolution of
     - (i) the occupier;
     - (ii) any other person (other than a mortgagee not in possession) having in any part of the hereditament either a legal estate or an equitable interest that would entitle that person (after the end of any prior interest) to possession of the hereditament or any part of it;
     - (iii) any person having a qualifying connection with the occupier or a person described in (ii);
-- “**local list**” (“***rhestr leol***”) means a list compiled and maintained in accordance with section 41ZA[^key-8be2691e2f9f77c51599923bf23511ed] of the Act;
+- “**local list**” (“***rhestr leol***”) means a list compiled and maintained in accordance with section 41ZA[^c-8be2691e2f9f77c51599923bf23511ed] of the Act;
 - “**Part 2 penalty**” (“***cosb Rhan 2***”) means a financial penalty imposed under regulation 16;
 - “**President**” (“***Llywydd***”) means the President of the VTW;
 - “**proposal**” (“***cynnig***”) means a proposal under regulation 11 for the alteration of a local list or applied by regulation 31 for the central list;
@@ -91,10 +91,10 @@ A draft of this instrument has been laid before, and approved by a resolution of
 - “**qualifying connection**” (“***cysylltiad cymwys***”) has the meaning given in paragraph (2);
 - “**ratepayer**” (“***trethdalwr***”), as it applies to a hereditament, means the occupier or, if the hereditament is not occupied, the owner;
 - “**relevant authority**” (“***awdurdod perthnasol***”), in relation to a hereditament, means the authority in whose area the hereditament is situated;
-- “[^key-a5758526ac4e13ab54eeae38993bda1e]**Schedule 9 penalty**” (“***cosb Atodlen 9***”) means a penalty imposed under—
+- “[^c-a5758526ac4e13ab54eeae38993bda1e]**Schedule 9 penalty**” (“***cosb Atodlen 9***”) means a penalty imposed under—
   - (a) paragraph 5A of Schedule 9 to the Act, or
   - (b) regulations made under paragraph 6AA of Schedule 9 to the Act;
-- “[^key-d4fbc5219e3f255da22871347ebedba6]**section 63K notice**” (“***hysbysiad adran 63K***”) means a notice under section 63K(1) of the Act which is confirmed in accordance with section 63K(5) of the Act;
+- “[^c-d4fbc5219e3f255da22871347ebedba6]**section 63K notice**” (“***hysbysiad adran 63K***”) means a notice under section 63K(1) of the Act which is confirmed in accordance with section 63K(5) of the Act;
 - “**valuation tribunal**” (“***tribiwnlys prisio***”) means a tribunal convened on or after 1 July 2010 by the Valuation Tribunal for Wales unless expressly referring to a valuation tribunal which existed before 1 July 2010;
 - “**VO**” (“***SP***”) means a valuation officer; and as it applies to a list, means the valuation officer for the authority for which the list is compiled and maintained;
 - “**VTW**” (“***TPC***”) means the Valuation Tribunal for Wales[^f00009];
@@ -111,20 +111,20 @@ A draft of this instrument has been laid before, and approved by a resolution of
 
 (3) Any reference in these Regulations to a party to an appeal includes the person making the appeal (“**the appellant**”) and—
 
-- (a) where an appeal is made under regulation 18 [^key-6594c1cc6ce27eb5acd10466113a6066]..., the VO;
-- (aa)[^key-238321b1c0adfd9c6f8579451776ff5b] where an appeal is made against the imposition of a Schedule 9 penalty, the relevant authority or the VO whose notice is the subject of the appeal;
+- (a) where an appeal is made under regulation 18 [^c-6594c1cc6ce27eb5acd10466113a6066]..., the VO;
+- (aa)[^c-238321b1c0adfd9c6f8579451776ff5b] where an appeal is made against the imposition of a Schedule 9 penalty, the relevant authority or the VO whose notice is the subject of the appeal;
 - (b) where an appeal is made under regulation 24—
   - (i) every person whose agreement is required under regulation 22, and
   - (ii) any other person who has been a ratepayer in relation to the hereditament since the date mentioned in paragraph (3)(b)(iii) and who has notified the VO before the hearing, or before determination on the basis of written representations under regulation 37 or by agreement under regulation 38, that the person wishes to be a party to the appeal;
   - (iii) the date referred to in paragraph (3)(b)(ii) is the date on which the VO received the confirmation for the check relating to the proposal that is the subject of the appeal.
-- (ba)[^key-8db836e0ffa895e70d2e888618405750] where an appeal is made under section 63L of the Act, the relevant authority;
+- (ba)[^c-8db836e0ffa895e70d2e888618405750] where an appeal is made under section 63L of the Act, the relevant authority;
 - (c) where an appeal is made against a completion notice, the relevant authority.
 
 (4) In these Regulations, a reference to the end of the period for making an appeal under regulation 18 is a reference to the end of the period of 28 days mentioned in regulation 18(4).
 
 ## PART 2 — Alteration of Local Lists
 
-### 3. Interpretation of Part 2[^key-033921a60ef538496c177be21655c888]
+### 3. Interpretation of Part 2[^c-033921a60ef538496c177be21655c888]
 
 (1) In this Part—
 
@@ -145,7 +145,7 @@ A draft of this instrument has been laid before, and approved by a resolution of
 - (b) it is treated as withdrawn under regulation 22, or
 - (c) a decision is given under regulation 20 or 23 applying to the proposal.
 
-### 4. Circumstances in which proposals may be made[^key-76f539069cb78d601203eeba4965a434]
+### 4. Circumstances in which proposals may be made[^c-76f539069cb78d601203eeba4965a434]
 
 (1) The grounds for making a proposal are—
 
@@ -198,7 +198,7 @@ about another hereditament;
 - “**event**” (“***digwyddiad***”) means the compilation of the list, a material change of circumstances or an alteration of the list by the VO;
 - “**material day**” (“***diwrnod perthnasol***”), in relation to a hereditament, means the day determined as regards that hereditament under rules prescribed by regulations under paragraph 2(6A) of Schedule 6 to the Act.
 
-### 5. Check of information about a hereditament[^key-61abfc23ec889b9ba4c86aed10fbfd6d]
+### 5. Check of information about a hereditament[^c-61abfc23ec889b9ba4c86aed10fbfd6d]
 
 (1) Subject to paragraphs (4) to (6), a person may not make a proposal unless a check of information about the hereditament has been completed (“a check”).
 
@@ -226,7 +226,7 @@ about another hereditament;
 
 (6) In paragraph (5)(b), “**final historic hereditament**” means the final historic hereditament in respect of which a check has been completed as mentioned in paragraph (5)(a).
 
-### 6. Request for information held by the VO[^key-8207de390330eb398936b46190af4377]
+### 6. Request for information held by the VO[^c-8207de390330eb398936b46190af4377]
 
 (1) This regulation applies to a person mentioned in regulation 4(2)(a) or (c).
 
@@ -244,7 +244,7 @@ about another hereditament;
 - (a) using the VO’s electronic portal, or
 - (b) in another manner agreed with the VO.
 
-### 7. Confirmation of accuracy of information[^key-5cb3c51338d8057cea7f5fd0fa9fb220]
+### 7. Confirmation of accuracy of information[^c-5cb3c51338d8057cea7f5fd0fa9fb220]
 
 (1) On receiving information about the hereditament provided by the VO in response to a request under regulation 6(2), the person must—
 
@@ -259,7 +259,7 @@ about another hereditament;
 - (a) using the VO’s electronic portal, or
 - (b) in another manner agreed with the VO.
 
-### 8. Acknowledgment of receipt of confirmation[^key-d09ad7c28d59c274efb4a4731ad3aaab]
+### 8. Acknowledgment of receipt of confirmation[^c-d09ad7c28d59c274efb4a4731ad3aaab]
 
 (1) On receiving confirmation, as required by regulation 7(1)(c), the VO must serve on the person who made the confirmation a written acknowledgement of receipt which must state—
 
@@ -268,7 +268,7 @@ about another hereditament;
 
 (2) In these Regulations, the date on which the VO received a confirmation is the date stated in the acknowledgement in accordance with paragraph (1)(a).
 
-### 9. Completion of check[^key-f8673c779b17fb9ff8f0306d6b6694e9]
+### 9. Completion of check[^c-f8673c779b17fb9ff8f0306d6b6694e9]
 
 On receiving any information provided under regulation 7(1)(a) or (b), the VO must—
 
@@ -278,7 +278,7 @@ On receiving any information provided under regulation 7(1)(a) or (b), the VO mu
   - (ii) any other information shown in the list about the hereditament, and
 - (c) update any other information held by the VO about the hereditament to correct any inaccuracy.
 
-### 10. Notification that a check has been completed[^key-a28d791497907ebeb536597628e4943e]
+### 10. Notification that a check has been completed[^c-a28d791497907ebeb536597628e4943e]
 
 (1) As soon as reasonably practicable after the steps in regulations 6 to 9 have been taken in relation to a hereditament, the VO must serve on the person who made the request under regulation 6(2) a notice stating that a check has been completed in relation to the hereditament.
 
@@ -298,7 +298,7 @@ On receiving any information provided under regulation 7(1)(a) or (b), the VO mu
 
 a check is considered complete at the end of that period.
 
-### 11. Proposals: general[^key-5e575b129c91a030e9b99117d096c6cc]
+### 11. Proposals: general[^c-5e575b129c91a030e9b99117d096c6cc]
 
 (1) Subject to regulation 12, a proposal about a hereditament must be made within the period of 4 months beginning with the date on which a check was completed in relation to the hereditament.
 
@@ -354,9 +354,9 @@ whichever is the later.
 
 (11) A person may only make a proposal to alter a list on the ground set out in regulation 4(1)(e) if they have provided a confirmation to the VO before the end of the period of six months beginning with the day on which the next list is compiled.
 
-### 12. Proposals made on the ground in regulation 4(1)(b)[^key-5e29b03006b391019eb8ac44b9c7cd8c]
+### 12. Proposals made on the ground in regulation 4(1)(b)[^c-5e29b03006b391019eb8ac44b9c7cd8c]
 
-(1) Paragraph (2) applies to a proposal which is made on the ground set out in regulation 4(1)(b) if the ground relates to a material change of circumstances mentioned in paragraph 2(7)(d) , (da)[^key-1efed540a01349099da2061ca678eff7] or (e) of Schedule 6 to the Act.
+(1) Paragraph (2) applies to a proposal which is made on the ground set out in regulation 4(1)(b) if the ground relates to a material change of circumstances mentioned in paragraph 2(7)(d) , (da)[^c-1efed540a01349099da2061ca678eff7] or (e) of Schedule 6 to the Act.
 
 (2) The proposal may be made by the later of—
 
@@ -373,7 +373,7 @@ whichever is the later.
 
 (5) If a person has provided information to the VO under regulation 7(1)(a) or (b) in relation to a material change of circumstances but does not make a proposal within the period in regulation 11(1), or if applicable the period in paragraph (2) of this regulation, the person may not make a proposal in relation to that material change of circumstances.
 
-### 13. VO’s acknowledgement of proposals[^key-09f5c3f91177da57a64f1aca47075599]
+### 13. VO’s acknowledgement of proposals[^c-09f5c3f91177da57a64f1aca47075599]
 
 (1) Within 28 days of receiving a proposal, the VO must send an acknowledgement of its receipt to the proposer.
 
@@ -381,7 +381,7 @@ whichever is the later.
 
 (3) An acknowledgement under paragraph (1) must specify the date of receipt of the proposal and must be accompanied by a statement of the effect of regulations 15 to 26.
 
-### 14. Incomplete proposals[^key-9c6023833aa947295a07127834ecd292]
+### 14. Incomplete proposals[^c-9c6023833aa947295a07127834ecd292]
 
 (1) The VO must refuse a proposal (“an incomplete proposal”) which does not include the matters specified in—
 
@@ -393,9 +393,9 @@ whichever is the later.
 - (a) the information which is missing, and
 - (b) the date the notice is served.
 
-(3) If an incomplete proposal, other than a proposal made on the ground set out in regulation 4(1)(b) where the ground relates to a material change of circumstances mentioned in paragraph 2(7)(d) , (da)[^key-99c0f896db32e1aa634d82a170c09d73] or (e) of Schedule 6 to the Act, is refused, the proposer may make a further proposal within the period of 4 months beginning with the date on which a check was completed in relation to the hereditament.
+(3) If an incomplete proposal, other than a proposal made on the ground set out in regulation 4(1)(b) where the ground relates to a material change of circumstances mentioned in paragraph 2(7)(d) , (da)[^c-99c0f896db32e1aa634d82a170c09d73] or (e) of Schedule 6 to the Act, is refused, the proposer may make a further proposal within the period of 4 months beginning with the date on which a check was completed in relation to the hereditament.
 
-(4) If an incomplete proposal made on the ground set out in regulation 4(1)(b) where the ground relates to a material change of circumstances mentioned in paragraph 2(7)(d) , (da)[^key-1b5d0b5a62603a22b7a9d0844d1a923b] or (e) of Schedule 6 to the Act is refused, the proposer may make a further proposal by the later of—
+(4) If an incomplete proposal made on the ground set out in regulation 4(1)(b) where the ground relates to a material change of circumstances mentioned in paragraph 2(7)(d) , (da)[^c-1b5d0b5a62603a22b7a9d0844d1a923b] or (e) of Schedule 6 to the Act is refused, the proposer may make a further proposal by the later of—
 
 - (a) the last day in the period of 4 months beginning with the date on which a check was completed in relation to the hereditament, and
 - (b) the last day in the period of 16 months beginning with the date on which the VO received a confirmation.
@@ -404,7 +404,7 @@ whichever is the later.
 
 (6) Paragraph (5) does not apply where a second or subsequent notice of refusal is served in relation to the further proposal.
 
-### 15. Procedure after a proposal is made[^key-b553e530cb5e45b760d265d1ef9c20fb]
+### 15. Procedure after a proposal is made[^c-b553e530cb5e45b760d265d1ef9c20fb]
 
 (1) The VO must, within the period of 42 days beginning with the date on which the VO receives a proposal, serve a copy of the proposal on the ratepayer for that hereditament, unless the ratepayer is the proposer.
 
@@ -449,7 +449,7 @@ whichever is the later.
 - (a) using the VO’s electronic portal, or
 - (b) in another manner agreed with the VO.
 
-### 16. Imposition of a Part 2 penalty[^key-dc9a822ca7f6e6604d91f1dabb53207e]
+### 16. Imposition of a Part 2 penalty[^c-dc9a822ca7f6e6604d91f1dabb53207e]
 
 (1) This regulation applies to a proposal made by a person in relation to a hereditament.
 
@@ -477,7 +477,7 @@ whichever is the later.
 - (a) a confirmation;
 - (b) any information provided by the person under regulation 7(1)(a) or (b).
 
-### 17. Payment of a Part 2 penalty[^key-03807ef32ceaef3e44652c6311f89358]
+### 17. Payment of a Part 2 penalty[^c-03807ef32ceaef3e44652c6311f89358]
 
 (1) Any sum received by the VO by way of a Part 2 penalty must be paid into the Welsh Consolidated Fund.
 
@@ -492,7 +492,7 @@ whichever is the later.
 
 (5) If the VO remits a Part 2 penalty, the VO must refund any amount paid in respect of that penalty.
 
-### 18. Appeal against imposition of a Part 2 penalty[^key-5600ce2bfe3b3ed663965e897533b2a0]
+### 18. Appeal against imposition of a Part 2 penalty[^c-5600ce2bfe3b3ed663965e897533b2a0]
 
 (1) This regulation applies if a person has been served a penalty notice under regulation 16(4).
 
@@ -516,7 +516,7 @@ whichever is the later.
 
 (8) Despite paragraph (4), the President may authorise an appeal to be considered where the President is satisfied that the failure of the person aggrieved to initiate the appeal as provided for by this regulation has arisen by reason of circumstances beyond that person’s control.
 
-### 19. Effect on time frame for determining proposal[^key-fed2b7543d86891e6296bd49b54060d1]
+### 19. Effect on time frame for determining proposal[^c-fed2b7543d86891e6296bd49b54060d1]
 
 (1) This regulation applies to the determination of a proposal if a Part 2 penalty is imposed before the proposal is determined.
 
@@ -524,7 +524,7 @@ whichever is the later.
 
 (3) If an appeal is made under regulation 18 against the imposition of the penalty, the VO must not determine the proposal until the VTW has decided the appeal.
 
-### 20. Proposals agreed by VO[^key-b247e7db7a5f34567c3075e259009de1]
+### 20. Proposals agreed by VO[^c-b247e7db7a5f34567c3075e259009de1]
 
 Where the VO decides that a proposal is well-founded, the VO must as soon as reasonably practicable after making that decision—
 
@@ -533,7 +533,7 @@ Where the VO decides that a proposal is well-founded, the VO must as soon as rea
   - (i) the proposer, and
   - (ii) if the proposer is not the ratepayer, the ratepayer.
 
-### 21. Withdrawal of proposals[^key-a8ccfb0c1b045d7f704ecb3facbc27ad]
+### 21. Withdrawal of proposals[^c-a8ccfb0c1b045d7f704ecb3facbc27ad]
 
 (1) The proposer may withdraw the proposal by notice sent to the VO.
 
@@ -563,7 +563,7 @@ the VO must give notice of the withdrawal to the IP or to P.
 
 (5) In considering under paragraph (4)(a) whether an IP or P would have been competent at the date of a proposal to make that proposal, the requirements in regulations 5(1) and 6(2) are disregarded.
 
-### 22. Agreed alterations following proposals[^key-5c96856da65aad7a43076a210b8e6c55]
+### 22. Agreed alterations following proposals[^c-5c96856da65aad7a43076a210b8e6c55]
 
 (1) Where, following the making of a proposal, all the persons mentioned in paragraph (2) agree on an alteration of the list which complies with the requirements of this Part but differs from those contained in the proposal, and that agreement is signified in writing—
 
@@ -597,7 +597,7 @@ the VO must give notice of the withdrawal to the IP or to P.
 
 the VO must make the alteration required by paragraph (1)(a) as soon as practicable after that period ends.
 
-### 23. Disagreement as to proposed alteration[^key-d1c283b96c353ac4a7686a51d30da8ad]
+### 23. Disagreement as to proposed alteration[^c-d1c283b96c353ac4a7686a51d30da8ad]
 
 (1) This regulation applies if the VO decides that a proposal is not well-founded, and—
 
@@ -641,7 +641,7 @@ the VO must make the alteration required by paragraph (1)(a) as soon as practica
 
 (6) If the VO decides to alter the list otherwise than in accordance with the proposal the VO must do so as soon as reasonably practicable after making the decision.
 
-### 24. Making an appeal to the VTW[^key-a9c60a8da448258283e4d4eed932e10e]
+### 24. Making an appeal to the VTW[^c-a9c60a8da448258283e4d4eed932e10e]
 
 (1) A proposer may appeal to the VTW on either or both of the grounds set out in paragraph (2) if—
 
@@ -667,7 +667,7 @@ the VO must make the alteration required by paragraph (1)(a) as soon as practica
 - (a) unless sub-paragraph (b) applies, the period beginning on the day on which the Part 2 penalty is imposed and ending on the day after the day on which the period for making an appeal under regulation 18 ends must be ignored;
 - (b) if an appeal is made under regulation 18 against the imposition of the Part 2 penalty, the period beginning on the day on which the Part 2 penalty is imposed and ending on the day after the day on which the appeal under regulation 18 is determined must be ignored.
 
-### 25. Time for making an appeal to the VTW[^key-453e44fdc41996b56c783d01d319da03]
+### 25. Time for making an appeal to the VTW[^c-453e44fdc41996b56c783d01d319da03]
 
 (1) A proposer may only make an appeal following a decision of the VO under regulation 23 within the period of 4 months beginning with the date of the decision notice under that regulation.
 
@@ -678,7 +678,7 @@ the VO must make the alteration required by paragraph (1)(a) as soon as practica
 
 (3) Despite paragraphs (1) and (2), the President may authorise an appeal to be considered where the President is satisfied that the failure of the proposer to initiate the appeal as provided by this regulation has arisen by reason of circumstances beyond that person’s control.
 
-### 26. Notice of appeal[^key-a1e3d18215765f43c627a104a620fc29]
+### 26. Notice of appeal[^c-a1e3d18215765f43c627a104a620fc29]
 
 (1) An appeal must be made by serving a notice of appeal on the VTW—
 
@@ -703,7 +703,7 @@ the VO must make the alteration required by paragraph (1)(a) as soon as practica
 - (a) the VO, and
 - (b) any parties to the appeal.
 
-### 27. Time from which alteration is to have effect: 2023 and subsequent lists[^key-da26dc4050e3c6913b34cba73d948b67]
+### 27. Time from which alteration is to have effect: 2023 and subsequent lists[^c-da26dc4050e3c6913b34cba73d948b67]
 
 (1) Subject to regulation 52, this regulation has effect in relation to alterations made to a list compiled on or after 1 April 2023.
 
@@ -733,7 +733,7 @@ which increases the rateable value shown in the list for the hereditament to whi
 
 (7) Where an alteration needs to be made after the first anniversary of the day on which the next list is compiled, it has retrospective effect only if it is made to give effect to a proposal.
 
-### 28. Advertising rights[^key-34f95156f6229c0ef80f1b43d0210f4b]
+### 28. Advertising rights[^c-34f95156f6229c0ef80f1b43d0210f4b]
 
 (1) Where the circumstances giving rise to the alteration are the coming into existence of an advertising hereditament, regulation 27 has effect as if those circumstances occurred when—
 
@@ -749,13 +749,13 @@ whichever is earlier; and such a hereditament must be treated for the purposes o
 - “**advertising hereditament**” (“***hereditament hysbysebu***”) means a hereditament consisting of a right to which section 64(2) of the Act applies;
 - “**structure**” (“***strwythur***”) includes a hoarding, frame, post or wall.
 
-### 29. Effective date to be shown in the list[^key-bf5e43e159d4528fba9dba94a748d4df]
+### 29. Effective date to be shown in the list[^c-bf5e43e159d4528fba9dba94a748d4df]
 
 Where an alteration is made, the list must show the day from which the alteration is to apply.
 
-### 30. Notification of alteration[^key-28ef2a22fc2d8005dc5d5c1be2148451]
+### 30. Notification of alteration[^c-28ef2a22fc2d8005dc5d5c1be2148451]
 
-(1) Within 28 days of altering a list a VO must notify the relevant authority of the effect of the alteration; and the relevant authority must as soon as reasonably practicable alter the copy of the list [^key-f35baf64933c903d0faf35f063c7ffe2]....
+(1) Within 28 days of altering a list a VO must notify the relevant authority of the effect of the alteration; and the relevant authority must as soon as reasonably practicable alter the copy of the list [^c-f35baf64933c903d0faf35f063c7ffe2]....
 
 (2) No later than the day on which the notice is served under paragraph (1) the VO must notify the ratepayer and any proposer, as defined in paragraph (5), of—
 
@@ -782,7 +782,7 @@ Where an alteration is made, the list must show the day from which the alteratio
 
 ## PART 3 — Alteration of Central Lists
 
-### 31. Relevant hereditaments[^key-0491c8602077fe69fa934e8cbf8b270b]
+### 31. Relevant hereditaments[^c-0491c8602077fe69fa934e8cbf8b270b]
 
 (1) The regulations mentioned in paragraph (2) apply, as modified by paragraphs (3) and (4), to a hereditament (in this regulation referred to as a “**relevant hereditament**”) which is required by regulations under section 53 of the Act to be shown in a central list compiled on or after 1 April 2023, as if—
 
@@ -811,30 +811,30 @@ Where an alteration is made, the list must show the day from which the alteratio
 
 ## PART 4 — Provisions Relating to Particular Appeals and Applications
 
-### 32. Appeals against section 63K notices, completion notices or imposition of Schedule 9 penalties[^key-1816cd9bfd013a8a9ffc4e5671913b69][^key-e5be7dc8faeca7e8d583143f161b9f74]
+### 32. Appeals against section 63K notices, completion notices or imposition of Schedule 9 penalties[^c-1816cd9bfd013a8a9ffc4e5671913b69][^c-e5be7dc8faeca7e8d583143f161b9f74]
 
-(1) A person who wishes to appeal against a completion notice or the imposition of a penalty under paragraph 5A of Schedule 9 to the Act[^key-7aec04b79f4e3e9d7d5509e6a759f09b] must serve a notice of appeal to the VTW so that it is received within 28 days after the date on which the appellant received the completion notice or notice that the penalty had been imposed.
+(1) A person who wishes to appeal against a completion notice or the imposition of a penalty under paragraph 5A of Schedule 9 to the Act[^c-7aec04b79f4e3e9d7d5509e6a759f09b] must serve a notice of appeal to the VTW so that it is received within 28 days after the date on which the appellant received the completion notice or notice that the penalty had been imposed.
 
-(1A)[^key-00d19745122876763606ba35862ca76d] A person who wishes to appeal against the imposition of a penalty or its amount under regulations made under paragraph 6AA of Schedule 9 to the Act must serve a notice of appeal to the VTW so that it is received within the period of 30 days beginning with the day on which the billing authority notifies, or is deemed to have notified, the appellant of the conclusions of the review carried out in accordance with regulation 6 of the Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026.
+(1A)[^c-00d19745122876763606ba35862ca76d] A person who wishes to appeal against the imposition of a penalty or its amount under regulations made under paragraph 6AA of Schedule 9 to the Act must serve a notice of appeal to the VTW so that it is received within the period of 30 days beginning with the day on which the billing authority notifies, or is deemed to have notified, the appellant of the conclusions of the review carried out in accordance with regulation 6 of the Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026.
 
-(1B)[^key-c9c1147ca0354256f9c43e72333c3218] A person who wishes to appeal against a section 63K notice must serve a notice of appeal to the VTW so that it is received within the period of 30 days beginning with the day on which the relevant authority notifies the person of its conclusions in accordance with section 63K(6) of the Act.
+(1B)[^c-c9c1147ca0354256f9c43e72333c3218] A person who wishes to appeal against a section 63K notice must serve a notice of appeal to the VTW so that it is received within the period of 30 days beginning with the day on which the relevant authority notifies the person of its conclusions in accordance with section 63K(6) of the Act.
 
 (2) The notice of appeal must be accompanied by—
 
-- (a) a copy of the completion notice or the notice of the imposition of the penalty[^key-7e3e25b41d781f602b1d7be2e904021c] or the section 63K notice[^key-554dad924508180436bbee3374067ff1],
-- (b) where the appeal is against a completion notice or the imposition of a penalty under paragraph 5A of Schedule 9 to the Act,[^key-8c9802590e68f9cc64cb7af4aabab767] a statement of the grounds on which the appeal is made, [^key-e305ad7931b41a8b7b1d34dd3df7d26d]...
-- (ba)[^key-eaff2ee6567fb23ab1eb3eed98ce1a8f] where the appeal is against the imposition of a penalty or its amount under regulations made under paragraph 6AA of Schedule 9 to the Act or a section 63K notice[^key-3fb0a4863095059a88f56552d61255ec], a statement of the reasons why the appellant considers the relevant authority should not have issued the notice, and
+- (a) a copy of the completion notice or the notice of the imposition of the penalty[^c-7e3e25b41d781f602b1d7be2e904021c] or the section 63K notice[^c-554dad924508180436bbee3374067ff1],
+- (b) where the appeal is against a completion notice or the imposition of a penalty under paragraph 5A of Schedule 9 to the Act,[^c-8c9802590e68f9cc64cb7af4aabab767] a statement of the grounds on which the appeal is made, [^c-e305ad7931b41a8b7b1d34dd3df7d26d]...
+- (ba)[^c-eaff2ee6567fb23ab1eb3eed98ce1a8f] where the appeal is against the imposition of a penalty or its amount under regulations made under paragraph 6AA of Schedule 9 to the Act or a section 63K notice[^c-3fb0a4863095059a88f56552d61255ec], a statement of the reasons why the appellant considers the relevant authority should not have issued the notice, and
 - (c) where the appeal is against the imposition of a penalty, the date on which the person received notice of the imposition of the penalty.
 
-(3) If the appellant serves the notice of appeal on the VTW later than the time for making the appeal specified in paragraph (1) , (1A) or (1B)[^key-181f88ba35a77bc9f6b0fcb69ea2597d][^key-e6ca8b8f8144c1e80c97c9b9b8e02497] (as the case may be), the notice of appeal must be accompanied by a request for an extension of time stating the reason the notice of appeal was not served in time.
+(3) If the appellant serves the notice of appeal on the VTW later than the time for making the appeal specified in paragraph (1) , (1A) or (1B)[^c-181f88ba35a77bc9f6b0fcb69ea2597d][^c-e6ca8b8f8144c1e80c97c9b9b8e02497] (as the case may be), the notice of appeal must be accompanied by a request for an extension of time stating the reason the notice of appeal was not served in time.
 
-(4) Despite paragraphs (1)[^key-b475ad7d13bae0d7aefab939f95faed8] , (1A) and (1B)[^key-f6709d9689107622061533e0d86687b4], the President may authorise an appeal to be considered where the President is satisfied that the failure of the appellant to initiate the appeal as provided for by this regulation has arisen by reason of circumstances beyond that person’s control.
+(4) Despite paragraphs (1)[^c-b475ad7d13bae0d7aefab939f95faed8] , (1A) and (1B)[^c-f6709d9689107622061533e0d86687b4], the President may authorise an appeal to be considered where the President is satisfied that the failure of the appellant to initiate the appeal as provided for by this regulation has arisen by reason of circumstances beyond that person’s control.
 
 (5) The clerk must within 14 days of service of the notice of appeal, notify the appellant that the clerk has received it, and serve a copy of it on the relevant authority or VO whose notice is the subject of the appeal.
 
 ## PART 5 — Appeals: General
 
-### 33. Interpretation[^key-4d3b021223f8b578085d506eff90cc71]
+### 33. Interpretation[^c-4d3b021223f8b578085d506eff90cc71]
 
 In this Part—
 
@@ -842,7 +842,7 @@ In this Part—
 - “**list**” (“***rhestr***”) means a local list or the central list compiled on or after 1 April 2023.
 - “**the proper officer**” (“***y swyddog priodol***”) is the officer appointed by the relevant authority under section 270(3) of the Local Government Act 1972[^f00014].
 
-### 34. Jurisdiction: exceptions[^key-cb628774bb7fc31eee9c12e0cb94cc0b]
+### 34. Jurisdiction: exceptions[^c-cb628774bb7fc31eee9c12e0cb94cc0b]
 
 (1) Where the appellant is—
 
@@ -854,22 +854,22 @@ the appeal must be dealt with by those members of the tribunal as may be appoint
 
 (2) Where it appears to the President of the Valuation Tribunal for Wales that by reason of a conflict of interests, or the appearance of a conflict, it would be inappropriate for an appeal to be dealt with by particular members of the tribunal, the President must appoint another tribunal to deal with that appeal.
 
-### 35. Arrangements for appeals[^key-6fd22eafa367fc04b72efeaed8c41ab2]
+### 35. Arrangements for appeals[^c-6fd22eafa367fc04b72efeaed8c41ab2]
 
 (1) The President of the Valuation Tribunal for Wales must ensure that arrangements are made for appeals under—
 
 - (a) regulation 18,
 - (b) regulation 24,
-- (ba)[^key-cab0864e38dd471fb5a81cb2314064cd] section 63L of the Act,
-- (c) paragraph 4 of Schedule 4A to the Act as it applies for the purposes of Part 3 of the Act (in these Regulations called an “**appeal against a completion notice**”) ,[^key-c7c958015706db5ecf4dadfecf24d162]
-- (d) paragraph 5C of Schedule 9 to the Act (penalties), or[^key-72527de1fbbdde5d6222811d878d1c73]
-- (e)[^key-6bb6a7c81d5874afb45ca7502bd7c01a] regulations made under paragraph 6AA of Schedule 9 to the Act,
+- (ba)[^c-cab0864e38dd471fb5a81cb2314064cd] section 63L of the Act,
+- (c) paragraph 4 of Schedule 4A to the Act as it applies for the purposes of Part 3 of the Act (in these Regulations called an “**appeal against a completion notice**”) ,[^c-c7c958015706db5ecf4dadfecf24d162]
+- (d) paragraph 5C of Schedule 9 to the Act (penalties), or[^c-72527de1fbbdde5d6222811d878d1c73]
+- (e)[^c-6bb6a7c81d5874afb45ca7502bd7c01a] regulations made under paragraph 6AA of Schedule 9 to the Act,
 
 to be determined under the following provisions of these Regulations.
 
 (2) Where two or more appeals relating to the same hereditament or hereditaments are referred under regulation 24, the order in which the appeals are dealt with must be the order in which the alterations in question would, but for the disagreements which occasion the appeals, have applied.
 
-(3)[^key-e673fcd5e2c7f836cce4448ee7dfba4c] Paragraphs (3A) and (3B) apply where the following appeals relate to the same property—
+(3)[^c-e673fcd5e2c7f836cce4448ee7dfba4c] Paragraphs (3A) and (3B) apply where the following appeals relate to the same property—
 
 - (a) an appeal under regulation 24 and an appeal under regulation 10A of the Council Tax (Alteration of Lists and Appeals) Regulations 1993, or
 - (b) an appeal under section 63L of the Act and an appeal under regulation 24 and/or an appeal under regulation 10A of the Council Tax (Alteration of Lists and Appeals) Regulations 1993.
@@ -881,9 +881,9 @@ to be determined under the following provisions of these Regulations.
 - (a) the listing officer where an appeal is made under regulation 24 of these Regulations, and
 - (b) the VO where an appeal is made under regulation 10A of the Council Tax (Alteration of Lists and Appeals) Regulations 1993.
 
-(4) The clerk must, as soon as is reasonably practicable, give written notice to any person who is made a party to an appeal under paragraph (3B)[^key-e835c6721de22e105964d872df26ef2b].
+(4) The clerk must, as soon as is reasonably practicable, give written notice to any person who is made a party to an appeal under paragraph (3B)[^c-e835c6721de22e105964d872df26ef2b].
 
-### 36. Withdrawal[^key-6496638451bdfba9af0b36f948f03b02]
+### 36. Withdrawal[^c-6496638451bdfba9af0b36f948f03b02]
 
 (1) An appeal may be withdrawn at any time before the commencement of a hearing to consider the disposal of the proceedings or, where the VTW disposes of the proceedings without a hearing, before that disposal, where notice to that effect is given to the VTW by the appellant in writing.
 
@@ -897,7 +897,7 @@ to be determined under the following provisions of these Regulations.
 
 (6) Any application for reinstatement of an appeal under paragraph (5) must be made in writing and be received by the VTW within 28 days after the date on which the VTW notifies each party under paragraph (2) of the withdrawal of the appeal.
 
-### 37. Disposal by written representations[^key-f8fc86aefad322ba3319cbd00369a150]
+### 37. Disposal by written representations[^c-f8fc86aefad322ba3319cbd00369a150]
 
 (1) An appeal under these Regulations may be disposed of on the basis of written representations if all the parties have given their agreement in writing.
 
@@ -924,7 +924,7 @@ to a valuation tribunal constituted as provided in regulation 43.
 
 (7) Where any party has furnished any particulars in response to a request by a valuation tribunal under paragraph (6)(a), the clerk must serve a copy of the particulars on every other party, and each of those other parties may, within 28 days of that service, serve on the clerk any further statement they wish to make in response.
 
-### 38. Disposal without a hearing—where parties have come to an agreement[^key-97071b7a1b5d1d1c7e6674b02f5fbdf1]
+### 38. Disposal without a hearing—where parties have come to an agreement[^c-97071b7a1b5d1d1c7e6674b02f5fbdf1]
 
 (1) The valuation tribunal may dispose of an appeal under these Regulations without a hearing if—
 
@@ -949,14 +949,14 @@ to a valuation tribunal constituted as provided in regulation 43.
 
 (5) The functions of the valuation tribunal under this regulation may be performed on its behalf by the clerk.
 
-### 39. Pre-hearing review[^key-f533c9a45431ced7df02ff34a4279880]
+### 39. Pre-hearing review[^c-f533c9a45431ced7df02ff34a4279880]
 
 With a view to clarifying the issues to be dealt with at a hearing, a chairperson of the relevant valuation tribunal—
 
 - (a) may on the application of a party or of the chairperson’s own motion, not less than 28 days after giving notice to the parties order a pre-hearing review to be held, and
 - (b) must endeavour at the pre-hearing review to secure that all the parties make reasonable admissions and agreements in relation to the proceedings.
 
-### 40. Notice of hearing[^key-5ff704b58c4c7b05412a3a798033bcb4]
+### 40. Notice of hearing[^c-5ff704b58c4c7b05412a3a798033bcb4]
 
 (1) Where an appeal is to be disposed of on the basis of a hearing, the clerk must give the parties not less than 28 days’ notice of the date, time and place appointed for the hearing.
 
@@ -974,15 +974,15 @@ With a view to clarifying the issues to be dealt with at a hearing, a chairperso
 - (a) to notify the parties to the appeal of the postponement, and
 - (b) to advertise the postponement.
 
-### 41. Disqualification from participating[^key-1d217095690056130c2da7a4141a6357]
+### 41. Disqualification from participating[^c-1d217095690056130c2da7a4141a6357]
 
 A person must be disqualified from participating as a member of a valuation tribunal in the hearing or determination of an appeal or acting as clerk or officer of a valuation tribunal in relation to an appeal against a completion notice if they are a member of the relevant authority concerned.
 
-### 42. Representation at the hearing[^key-aae66a4992b13ef9b89cab3496399b9c]
+### 42. Representation at the hearing[^c-aae66a4992b13ef9b89cab3496399b9c]
 
 Any party to an appeal which is to be decided at a hearing may appear in person (with assistance from any person they wish) or by any representative (other than a person who is a member, clerk or other employee of the VTW).
 
-### 43. Conduct of the hearing[^key-6d0a3b8411e981e8c69351df466b5a46]
+### 43. Conduct of the hearing[^c-6d0a3b8411e981e8c69351df466b5a46]
 
 (1) Subject to paragraph (2), the VTW’s functions of hearing or determining an appeal must be discharged by three members of the VTW, who must include at least one chairperson; and a chairperson must preside.
 
@@ -1020,7 +1020,7 @@ and in any other case parties at the hearing may be heard in the order determine
 - (b) as seems to it appropriate, seek to avoid formality in its proceedings, and
 - (c) not be bound by any enactment or rule of law relating to the admissibility of evidence before courts of law.
 
-### 44. Appeal management powers[^key-c29a30222a33f323a4955f339ff76243]
+### 44. Appeal management powers[^c-c29a30222a33f323a4955f339ff76243]
 
 (1) Subject to any other provision in these Regulations, the VTW may regulate its own procedure.
 
@@ -1041,7 +1041,7 @@ and in any other case parties at the hearing may be heard in the order determine
 
 (4) The VTW may permit or require a party to an appeal to amend a document under paragraph (3)(c) only if the amendment is in order to correct an inaccuracy in the document.
 
-### 45. Procedure for applying for and giving directions[^key-1db3982f43e1aceb7eb2b4131d9227be]
+### 45. Procedure for applying for and giving directions[^c-1db3982f43e1aceb7eb2b4131d9227be]
 
 (1) The VTW may give a direction on the application of one or more of the parties or on its own initiative.
 
@@ -1056,7 +1056,7 @@ and in any other case parties at the hearing may be heard in the order determine
 
 (5) If a party or any other person in receipt of a notice of direction under paragraph (4) wishes to challenge it, they may do so by applying for another direction which amends, suspends, or sets aside the first direction.
 
-### 46. Failure to comply with Regulations, etc[^key-7899892a102c512c0f9c7fc1fdb8aa8b]
+### 46. Failure to comply with Regulations, etc[^c-7899892a102c512c0f9c7fc1fdb8aa8b]
 
 (1) An irregularity resulting from failure to comply with any requirement in these Regulations or a direction does not in itself render void the proceedings or any step taken in the proceedings.
 
@@ -1066,7 +1066,7 @@ and in any other case parties at the hearing may be heard in the order determine
 - (b) requiring the failure to be remedied;
 - (c) exercising the power under regulation 45.
 
-### 47. Striking out proceedings[^key-8b9fdb1ef82ecd4ed62ad874b125ce9a]
+### 47. Striking out proceedings[^c-8b9fdb1ef82ecd4ed62ad874b125ce9a]
 
 (1) The proceedings, or the appropriate part of them will be automatically struck out if the appellant has failed to comply with a direction that stated that failure by a party to comply with the direction would lead to the striking out of the proceedings or that part of them.
 
@@ -1093,7 +1093,7 @@ and in any other case parties at the hearing may be heard in the order determine
 
 (9) If a party other than the appellant has been barred from taking further part in the proceedings under this regulation and that bar has not been lifted, the VTW need not consider any response or other submission made by that party.
 
-### 48. Evidence and Submissions[^key-78a519bbd4bc3c6e50604508e988941e]
+### 48. Evidence and Submissions[^c-78a519bbd4bc3c6e50604508e988941e]
 
 (1) Subject to paragraph (2), the VTW may give directions as to—
 
@@ -1154,11 +1154,11 @@ and in any other case parties at the hearing may be heard in the order determine
 
 (12) In paragraphs (5) and (9), “**relevant proceedings**” means any proceedings on or in consequence of an appeal under these Regulations and any proceedings on or in consequence of a reference to arbitration under regulation 57.
 
-### 49. Evidence of lists and other documents[^key-2ee078d9082c4cc68b65ed033c709e11]
+### 49. Evidence of lists and other documents[^c-2ee078d9082c4cc68b65ed033c709e11]
 
 The contents of a list may be proved by the production of a copy of it, or of the relevant part, certified to be a true copy by the VO; and the contents of a completion notice may be proved by the production of a copy of it certified to be a true copy by the proper officer of the relevant authority.
 
-### 50. Admission of new evidence[^key-8b9b8dfb4f7afa657e9ed08805e6d402]
+### 50. Admission of new evidence[^c-8b9b8dfb4f7afa657e9ed08805e6d402]
 
 (1) The VTW may only admit evidence that was not included in the notice of appeal or any document accompanying the notice of appeal (“new evidence”) if—
 
@@ -1175,7 +1175,7 @@ The contents of a list may be proved by the production of a copy of it, or of th
 
 (3) A party which provides evidence under paragraph (1) or (2) must also provide that evidence to all the other parties to the appeal.
 
-### 51. Decisions[^key-9cb3b54eb8c45c5a9e404546c79a84ec]
+### 51. Decisions[^c-9cb3b54eb8c45c5a9e404546c79a84ec]
 
 (1) An appeal may be decided by a majority of the members participating; and where (pursuant to regulation 43(2)) it falls to be disposed of by two members and they are unable to agree, it must be remitted by the clerk to be decided by a valuation tribunal consisting of three different members.
 
@@ -1192,7 +1192,7 @@ by notice in writing to the parties; and the notice must be accompanied by a sta
 
 (5) In the case of an appeal against a completion notice, the clerk must send notice of the decision to the VO for the relevant authority.
 
-### 52. Orders[^key-dc68b32029e4cc106b905fb10cd78fb9]
+### 52. Orders[^c-dc68b32029e4cc106b905fb10cd78fb9]
 
 (1) On or after deciding an appeal under regulation 24, the valuation tribunal may, subject to paragraph (3), require a VO, in consequence of the decision, by order to alter a list in accordance with any provision made by or under the Act.
 
@@ -1215,13 +1215,13 @@ the order must require the list to be altered with effect from the day on which 
 
 (6) An order under this regulation may require any matter ancillary to its subject-matter to be attended to.
 
-### 53. Reduction or remitting penalty[^key-bb655b4fe2012148a01fcba5dd7bbabd]
+### 53. Reduction or remitting penalty[^c-bb655b4fe2012148a01fcba5dd7bbabd]
 
-(1) After determining an appeal against the imposition of a Schedule 9 penalty, the VTW may order the VO or the relevant authority (as the case may be)[^key-aa2dc8f53a5fb57b7822746f60a98a68] whose notice is the subject of the appeal to reduce or remit the penalty.
+(1) After determining an appeal against the imposition of a Schedule 9 penalty, the VTW may order the VO or the relevant authority (as the case may be)[^c-aa2dc8f53a5fb57b7822746f60a98a68] whose notice is the subject of the appeal to reduce or remit the penalty.
 
 (2) After determining an appeal under regulation 18 against the imposition of a Part 2 penalty, the VTW may order the VO to remit the penalty.
 
-### 54. Review of decisions[^key-5282e2aae86dcb22fb4977608be562ec]
+### 54. Review of decisions[^c-5282e2aae86dcb22fb4977608be562ec]
 
 (1) A valuation tribunal constituted as provided in paragraph (4) has the power, on written application by a party, to review or set aside by certificate under the hand of the presiding member—
 
@@ -1261,7 +1261,7 @@ the order must require the list to be altered with effect from the day on which 
   - (b) an event referred to in any of sub-paragraphs (a) to (d) of paragraph (8) occurs;
 - “**the relevant event**” (“***y digwyddiad perthnasol***”), in relation to a relevant day, means the event occurring on that day.
 
-### 55. Records of decisions, etc[^key-911ce84bf0b952c51d545e581c3d4a63]
+### 55. Records of decisions, etc[^c-911ce84bf0b952c51d545e581c3d4a63]
 
 (1) The clerk must make arrangements for each decision, each order made under regulations 52 and 53 and the effect of each certificate and revocation under regulation 54 to be recorded.
 
@@ -1279,15 +1279,15 @@ the order must require the list to be altered with effect from the day on which 
 
 (8) The production in any proceedings in any court of law of a document certified by the clerk to be a true copy of a record of that valuation tribunal is, unless the contrary is proved, sufficient evidence of the document and of the facts it records.
 
-### 56. Appeals[^key-1f34ea0c5150b5061f91ff5dfa12333a]
+### 56. Appeals[^c-1f34ea0c5150b5061f91ff5dfa12333a]
 
 (1) An appeal lies to the Upper Tribunal in respect of a decision or order which is given or made by a valuation tribunal on—
 
 - (a) an appeal under regulation 24;
-- (aa)[^key-c0e50bf96cbe5664e75c223bcfe38775] an appeal under section 63L of the Act;
+- (aa)[^c-c0e50bf96cbe5664e75c223bcfe38775] an appeal under section 63L of the Act;
 - (b) an appeal against a completion notice;
 - (c) an appeal under paragraph 5C of Schedule 9 to the Act;
-- (d)[^key-411f07077f4074d7706020e1fc11e403] an appeal under regulations made under paragraph 6AA of Schedule 9 of the Act.
+- (d)[^c-411f07077f4074d7706020e1fc11e403] an appeal under regulations made under paragraph 6AA of Schedule 9 of the Act.
 
 (2) An appeal does not lie to the Upper Tribunal in respect of a decision or order given or made by the VTW on appeal under regulation 18.
 
@@ -1309,13 +1309,13 @@ the appeal may be dismissed if it is not made within 28 days of the service of t
 
 (7) The VO must act in accordance with any order made by the Upper Tribunal; and paragraph 9 of Schedule 11 to the Act applies subject to this requirement.
 
-### 57. Arbitration[^key-4141f72eb50794d934da6393ca896612]
+### 57. Arbitration[^c-4141f72eb50794d934da6393ca896612]
 
 (1) Where at any time before the beginning of a hearing or the consideration by a valuation tribunal of written representations it is agreed in writing between the persons who, if a dispute were to be the subject of an appeal to the tribunal, would be the parties to the appeal, the matter must be referred to arbitration.
 
 (2) In any arbitration under this regulation, the award may include any order which could have been made by a valuation tribunal in relation to the matter; and paragraph 9 of Schedule 11 to the Act applies to such an order as it applies to an order recorded under these Regulations.
 
-### 58. Notification of further proceedings[^key-70a83a1286ae7aa7a8dfc5bec6b0545a]
+### 58. Notification of further proceedings[^c-70a83a1286ae7aa7a8dfc5bec6b0545a]
 
 (1) Where a VO—
 
@@ -1335,7 +1335,7 @@ the VO must, at the same time or as soon as reasonably practicable thereafter, n
 
 ## PART 6 — Miscellaneous and General
 
-### 59. Service of notices[^key-7b5ad995be4986472b10bab973481573]
+### 59. Service of notices[^c-7b5ad995be4986472b10bab973481573]
 
 (1) Without prejudice to section 233 of the Local Government Act 1972 and subject to paragraphs (2), (3) and (4), any notice to be provided, sent or given or served may be served—
 
@@ -1378,13 +1378,13 @@ the VO must, at the same time or as soon as reasonably practicable thereafter, n
 - (c) any reference to a requirement or authorisation is to a requirement or authorisation under these Regulations;
 - (d) any notice sent by the means described in paragraph (1)(b) must be regarded as sent when it is received in a legible form.
 
-### 60. Retention of records[^key-c7749ec12a19c18f165612cc16cf47d6]
+### 60. Retention of records[^c-c7749ec12a19c18f165612cc16cf47d6]
 
 (1) Before altering an entry in a local list or the central list, the VO or where appropriate, the CVO must ensure that a record (which need not be in documentary form) is made of the entry.
 
 (2) A record made under paragraph (1) must be retained until the expiry of six years beginning on the day on which the next list is compiled.
 
-### 61. Information to be supplied by relevant authorities[^key-32db9e4735d6df7a5225ad35364621fe]
+### 61. Information to be supplied by relevant authorities[^c-32db9e4735d6df7a5225ad35364621fe]
 
 (1) Information of the description set out in paragraph (2) is prescribed information for the purposes of paragraph 6(1A) of Schedule 9 to the Act.
 
@@ -1404,7 +1404,7 @@ the VO must, at the same time or as soon as reasonably practicable thereafter, n
 
 (4) The information required by this regulation must be supplied as soon as is reasonably practicable after it comes to the attention of the relevant authority.
 
-### 62. Miscellaneous amendments[^key-560fe959a549c4380633a7adb3e92340]
+### 62. Miscellaneous amendments[^c-560fe959a549c4380633a7adb3e92340]
 
 (1) In the Non-Domestic Rating (Communications Hereditaments) (Valuation, Alteration of Lists and Appeals and Material Day) (Wales) Regulations 2008[^f00017]—
 
@@ -1420,7 +1420,7 @@ the VO must, at the same time or as soon as reasonably practicable thereafter, n
 
 (3) In respect of Wales, in regulation 3(7)(b)(i) of the Non-Domestic Rating (Material Day for List Alterations) Regulations 1992[^f00019], for “day on which the proposal was served on the valuation officer” substitute “date on which the VO received a confirmation under regulation 7 of the Non-Domestic Rating (Alteration of Lists and Appeals) (Wales) Regulations 2023 (as stated in an acknowledgement served by the VO under regulation 8(1) of those Regulations)”.
 
-### 63. Revocation and transitional provision[^key-8ae1fd7d67c3bdcda7a50e36b27db7be]
+### 63. Revocation and transitional provision[^c-8ae1fd7d67c3bdcda7a50e36b27db7be]
 
 (1) The following Regulations are revoked—
 
@@ -1440,11 +1440,11 @@ Minister for Finance and Local Government, one of the Welsh Ministers
 
 22 March 2023
 
-## SCHEDULE — Contents of Records[^key-3be15f784df194641519add2fd63a6d5]
+## SCHEDULE — Contents of Records[^c-3be15f784df194641519add2fd63a6d5]
 
 Regulation 55(2)
 
-[^key-3be15f784df194641519add2fd63a6d5]
+[^c-3be15f784df194641519add2fd63a6d5]
 
 - The appellant’s name and address
 - The matter appealed against
@@ -1513,27 +1513,27 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: Functions of the Secretary of State were, so far as exercisable in relation to Wales, transferred to the National Assembly for Wales by virtue of article 2(1) of the National Assembly for Wales (Transfer of Functions) Order 1999 ([S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672)). Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the Government of Wales Act [2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-f693aa7c91236de2b1836f54332eccda]: Commencement: Reg. 1 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-f693aa7c91236de2b1836f54332eccda]: Commencement: Reg. 1 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-cb48417dc0c3b0ae64dfca5551d147f0]: Commencement: Reg. 2 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-cb48417dc0c3b0ae64dfca5551d147f0]: Commencement: Reg. 2 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-ccd5b98aa6581c4d94ad19b9e61e0cb3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(2)(a)(i)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/2/a/i)
+[^c-ccd5b98aa6581c4d94ad19b9e61e0cb3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(2)(a)(i)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/2/a/i)
 
 [^f00003]: Footnote: Schedule 4A was inserted by section 139 of, and paragraph 36 of Schedule 5 to, the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42). Paragraph 4 of Schedule 4A was amended by section 118 of, and paragraph 83(2) of Schedule 13 to, the Local Government Finance Act [1992 (c. 14)](https://www.legislation.gov.uk/ukpga/1992/14), and by paragraph 4(2) of Schedule 16 to the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28).
 
 [^f00004]: Footnote: Paragraph 5C was inserted by section 72(4) of the Local Government Act [2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26). It was amended by section 151(5) of the Local Government and Elections (Wales) Act [2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), and by paragraph 5(2) of Schedule 16 to the Local Government and Public Involvement in Health Act [2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28).
 
-[^key-94dc4f9169358ef8b396c3ba0f686f7c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) omitted (1.4.2026) by virtue of [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(2)(a)(i)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/2/a/i)
+[^c-94dc4f9169358ef8b396c3ba0f686f7c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) omitted (1.4.2026) by virtue of [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(2)(a)(i)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/2/a/i)
 
-[^key-0868ee2e180a800d7a490ba7fcef6f4c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/2/a/ii)
+[^c-0868ee2e180a800d7a490ba7fcef6f4c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/2/a/ii)
 
-[^key-d3775c988ae2a8d3692ccf997574c027]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) substituted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(2)(b)(i)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/2/b/i)
+[^c-d3775c988ae2a8d3692ccf997574c027]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) substituted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(2)(b)(i)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/2/b/i)
 
-[^key-0dad7b80ce13c98303ea347411ba5123]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/2/b/ii)
+[^c-0dad7b80ce13c98303ea347411ba5123]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(2)(b)(ii)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/2/b/ii)
 
 [^f00005]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). See section 1(2) for the definition of “billing authority”.
 
-[^key-7aae4866fa7eafa947cac9ca649cb0de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [20(2)(a)](https://www.legislation.gov.uk/wsi/2024/998/regulation/20/2/a)
+[^c-7aae4866fa7eafa947cac9ca649cb0de]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [20(2)(a)](https://www.legislation.gov.uk/wsi/2024/998/regulation/20/2/a)
 
 [^f00006]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). See section 1 for the definition of “company” and section 1159 and Schedule 6 for “holding company” and “subsidiary”.
 
@@ -1541,203 +1541,203 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00008]: Footnote: [1961 c. 55](https://www.legislation.gov.uk/ukpga/1961/55).
 
-[^key-8be2691e2f9f77c51599923bf23511ed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [20(2)(b)](https://www.legislation.gov.uk/wsi/2024/998/regulation/20/2/b)
+[^c-8be2691e2f9f77c51599923bf23511ed]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) substituted (16.11.2024) by [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [20(2)(b)](https://www.legislation.gov.uk/wsi/2024/998/regulation/20/2/b)
 
-[^key-a5758526ac4e13ab54eeae38993bda1e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) substituted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(2)(c)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/2/c)
+[^c-a5758526ac4e13ab54eeae38993bda1e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) substituted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(2)(c)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/2/c)
 
-[^key-d4fbc5219e3f255da22871347ebedba6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/2/a/ii)
+[^c-d4fbc5219e3f255da22871347ebedba6]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/1) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(2)(a)(ii)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/2/a/ii)
 
 [^f00009]: Footnote: VTW was established by the Valuation Tribunal for Wales Regulations ([S.I. 2010/713 (W. 69)](https://www.legislation.gov.uk/wsi/2010/713)).
 
-[^key-6594c1cc6ce27eb5acd10466113a6066]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/3/a) omitted (1.4.2026) by virtue of [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(3)(a)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/3/a)
+[^c-6594c1cc6ce27eb5acd10466113a6066]: Textual amendment: Words in [reg. 2(3)(a)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/3/a) omitted (1.4.2026) by virtue of [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(3)(a)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/3/a)
 
-[^key-238321b1c0adfd9c6f8579451776ff5b]: Textual amendment: [Reg. 2(3)(aa)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/3/aa) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(3)(b)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/3/b)
+[^c-238321b1c0adfd9c6f8579451776ff5b]: Textual amendment: [Reg. 2(3)(aa)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/3/aa) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(3)(b)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/3/b)
 
-[^key-8db836e0ffa895e70d2e888618405750]: Textual amendment: [Reg. 2(3)(ba)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/3/ba) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/2/b)
+[^c-8db836e0ffa895e70d2e888618405750]: Textual amendment: [Reg. 2(3)(ba)](https://www.legislation.gov.uk/wsi/2023/350/regulation/2/3/ba) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(2)(b)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/2/b)
 
-[^key-033921a60ef538496c177be21655c888]: Commencement: Reg. 3 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-033921a60ef538496c177be21655c888]: Commencement: Reg. 3 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
 [^f00010]: Footnote: Amended by section 139 of, and paragraph 38(7) of Schedule 5 to, the Local Government and Housing Act [1989 (c. 42)](https://www.legislation.gov.uk/ukpga/1989/42).
 
 [^f00011]: Footnote: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-76f539069cb78d601203eeba4965a434]: Commencement: Reg. 4 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-76f539069cb78d601203eeba4965a434]: Commencement: Reg. 4 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
 [^f00012]: Footnote: [S.I. 2000/1097 (W. 75)](https://www.legislation.gov.uk/wsi/2000/1097), to which there are amendments not relevant to these Regulations.
 
-[^key-61abfc23ec889b9ba4c86aed10fbfd6d]: Commencement: Reg. 5 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-61abfc23ec889b9ba4c86aed10fbfd6d]: Commencement: Reg. 5 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-8207de390330eb398936b46190af4377]: Commencement: Reg. 6 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-8207de390330eb398936b46190af4377]: Commencement: Reg. 6 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-5cb3c51338d8057cea7f5fd0fa9fb220]: Commencement: Reg. 7 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-5cb3c51338d8057cea7f5fd0fa9fb220]: Commencement: Reg. 7 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-d09ad7c28d59c274efb4a4731ad3aaab]: Commencement: Reg. 8 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-d09ad7c28d59c274efb4a4731ad3aaab]: Commencement: Reg. 8 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-f8673c779b17fb9ff8f0306d6b6694e9]: Commencement: Reg. 9 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-f8673c779b17fb9ff8f0306d6b6694e9]: Commencement: Reg. 9 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-a28d791497907ebeb536597628e4943e]: Commencement: Reg. 10 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-a28d791497907ebeb536597628e4943e]: Commencement: Reg. 10 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-5e575b129c91a030e9b99117d096c6cc]: Commencement: Reg. 11 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-5e575b129c91a030e9b99117d096c6cc]: Commencement: Reg. 11 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-5e29b03006b391019eb8ac44b9c7cd8c]: Commencement: Reg. 12 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-5e29b03006b391019eb8ac44b9c7cd8c]: Commencement: Reg. 12 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-1efed540a01349099da2061ca678eff7]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/12/1) inserted (27.10.2023 at 8.00 p.m.) by [The Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023 (S.I. 2023/1154)](https://www.legislation.gov.uk/wsi/2023/1154), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/3), [7(2)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/7/2)
+[^c-1efed540a01349099da2061ca678eff7]: Textual amendment: Word in [reg. 12(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/12/1) inserted (27.10.2023 at 8.00 p.m.) by [The Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023 (S.I. 2023/1154)](https://www.legislation.gov.uk/wsi/2023/1154), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/3), [7(2)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/7/2)
 
-[^key-09f5c3f91177da57a64f1aca47075599]: Commencement: Reg. 13 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-09f5c3f91177da57a64f1aca47075599]: Commencement: Reg. 13 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-9c6023833aa947295a07127834ecd292]: Commencement: Reg. 14 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-9c6023833aa947295a07127834ecd292]: Commencement: Reg. 14 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-99c0f896db32e1aa634d82a170c09d73]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/wsi/2023/350/regulation/14/3) inserted (27.10.2023 at 8.00 p.m.) by [The Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023 (S.I. 2023/1154)](https://www.legislation.gov.uk/wsi/2023/1154), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/3), [7(3)(a)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/7/3/a)
+[^c-99c0f896db32e1aa634d82a170c09d73]: Textual amendment: Word in [reg. 14(3)](https://www.legislation.gov.uk/wsi/2023/350/regulation/14/3) inserted (27.10.2023 at 8.00 p.m.) by [The Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023 (S.I. 2023/1154)](https://www.legislation.gov.uk/wsi/2023/1154), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/3), [7(3)(a)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/7/3/a)
 
-[^key-1b5d0b5a62603a22b7a9d0844d1a923b]: Textual amendment: Word in [reg. 14(4)](https://www.legislation.gov.uk/wsi/2023/350/regulation/14/4) inserted (27.10.2023 at 8.00 p.m.) by [The Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023 (S.I. 2023/1154)](https://www.legislation.gov.uk/wsi/2023/1154), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/7/3/b)
+[^c-1b5d0b5a62603a22b7a9d0844d1a923b]: Textual amendment: Word in [reg. 14(4)](https://www.legislation.gov.uk/wsi/2023/350/regulation/14/4) inserted (27.10.2023 at 8.00 p.m.) by [The Non-Domestic Rating Act 2023 (Consequential Amendments to Secondary Legislation) (Wales) Regulations 2023 (S.I. 2023/1154)](https://www.legislation.gov.uk/wsi/2023/1154), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/wsi/2023/1154/regulation/7/3/b)
 
-[^key-b553e530cb5e45b760d265d1ef9c20fb]: Commencement: Reg. 15 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-b553e530cb5e45b760d265d1ef9c20fb]: Commencement: Reg. 15 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-dc9a822ca7f6e6604d91f1dabb53207e]: Commencement: Reg. 16 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-dc9a822ca7f6e6604d91f1dabb53207e]: Commencement: Reg. 16 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-03807ef32ceaef3e44652c6311f89358]: Commencement: Reg. 17 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-03807ef32ceaef3e44652c6311f89358]: Commencement: Reg. 17 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-5600ce2bfe3b3ed663965e897533b2a0]: Commencement: Reg. 18 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-5600ce2bfe3b3ed663965e897533b2a0]: Commencement: Reg. 18 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-fed2b7543d86891e6296bd49b54060d1]: Commencement: Reg. 19 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-fed2b7543d86891e6296bd49b54060d1]: Commencement: Reg. 19 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-b247e7db7a5f34567c3075e259009de1]: Commencement: Reg. 20 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-b247e7db7a5f34567c3075e259009de1]: Commencement: Reg. 20 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-a8ccfb0c1b045d7f704ecb3facbc27ad]: Commencement: Reg. 21 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-a8ccfb0c1b045d7f704ecb3facbc27ad]: Commencement: Reg. 21 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-5c96856da65aad7a43076a210b8e6c55]: Commencement: Reg. 22 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-5c96856da65aad7a43076a210b8e6c55]: Commencement: Reg. 22 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-d1c283b96c353ac4a7686a51d30da8ad]: Commencement: Reg. 23 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-d1c283b96c353ac4a7686a51d30da8ad]: Commencement: Reg. 23 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-a9c60a8da448258283e4d4eed932e10e]: Commencement: Reg. 24 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-a9c60a8da448258283e4d4eed932e10e]: Commencement: Reg. 24 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-453e44fdc41996b56c783d01d319da03]: Commencement: Reg. 25 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-453e44fdc41996b56c783d01d319da03]: Commencement: Reg. 25 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-a1e3d18215765f43c627a104a620fc29]: Commencement: Reg. 26 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-a1e3d18215765f43c627a104a620fc29]: Commencement: Reg. 26 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-da26dc4050e3c6913b34cba73d948b67]: Commencement: Reg. 27 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-da26dc4050e3c6913b34cba73d948b67]: Commencement: Reg. 27 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-34f95156f6229c0ef80f1b43d0210f4b]: Commencement: Reg. 28 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-34f95156f6229c0ef80f1b43d0210f4b]: Commencement: Reg. 28 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-bf5e43e159d4528fba9dba94a748d4df]: Commencement: Reg. 29 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-bf5e43e159d4528fba9dba94a748d4df]: Commencement: Reg. 29 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-28ef2a22fc2d8005dc5d5c1be2148451]: Commencement: Reg. 30 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-28ef2a22fc2d8005dc5d5c1be2148451]: Commencement: Reg. 30 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-f35baf64933c903d0faf35f063c7ffe2]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/30/1) omitted (16.11.2024) by virtue of [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [20(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/20/3)
+[^c-f35baf64933c903d0faf35f063c7ffe2]: Textual amendment: Words in [reg. 30(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/30/1) omitted (16.11.2024) by virtue of [The Local Government Finance (Consequential and Miscellaneous Amendments and Revocations) (Secondary Legislation) (Wales) Regulations 2024 (S.I. 2024/998)](https://www.legislation.gov.uk/wsi/2024/998), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/1/3), [20(3)](https://www.legislation.gov.uk/wsi/2024/998/regulation/20/3)
 
-[^key-0491c8602077fe69fa934e8cbf8b270b]: Commencement: Reg. 31 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-0491c8602077fe69fa934e8cbf8b270b]: Commencement: Reg. 31 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-1816cd9bfd013a8a9ffc4e5671913b69]: Commencement: Reg. 32 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-1816cd9bfd013a8a9ffc4e5671913b69]: Commencement: Reg. 32 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-e5be7dc8faeca7e8d583143f161b9f74]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/wsi/2023/350/regulation/32) heading inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/3), [7(3)(a)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/3/a)
+[^c-e5be7dc8faeca7e8d583143f161b9f74]: Textual amendment: Words in [reg. 32](https://www.legislation.gov.uk/wsi/2023/350/regulation/32) heading inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/3), [7(3)(a)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/3/a)
 
-[^key-7aec04b79f4e3e9d7d5509e6a759f09b]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/1) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(a)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/a)
+[^c-7aec04b79f4e3e9d7d5509e6a759f09b]: Textual amendment: Words in [reg. 32(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/1) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(a)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/a)
 
-[^key-00d19745122876763606ba35862ca76d]: Textual amendment: [Reg. 32(1A)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/1A) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(b)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/b)
+[^c-00d19745122876763606ba35862ca76d]: Textual amendment: [Reg. 32(1A)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/1A) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(b)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/b)
 
-[^key-c9c1147ca0354256f9c43e72333c3218]: Textual amendment: [Reg. 32(1B)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/1B) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/3/b)
+[^c-c9c1147ca0354256f9c43e72333c3218]: Textual amendment: [Reg. 32(1B)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/1B) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/3), [7(3)(b)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/3/b)
 
-[^key-7e3e25b41d781f602b1d7be2e904021c]: Textual amendment: Words in [reg. 32(2)(a)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/2/a) substituted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(c)(i)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/c/i)
+[^c-7e3e25b41d781f602b1d7be2e904021c]: Textual amendment: Words in [reg. 32(2)(a)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/2/a) substituted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(c)(i)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/c/i)
 
-[^key-554dad924508180436bbee3374067ff1]: Textual amendment: Words in [reg. 32(2)(a)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/2/a) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/3), [7(3)(c)(i)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/3/c/i)
+[^c-554dad924508180436bbee3374067ff1]: Textual amendment: Words in [reg. 32(2)(a)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/2/a) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/3), [7(3)(c)(i)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/3/c/i)
 
-[^key-8c9802590e68f9cc64cb7af4aabab767]: Textual amendment: Words in [reg. 32(2)(b)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/2/b) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(c)(ii)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/c/ii)
+[^c-8c9802590e68f9cc64cb7af4aabab767]: Textual amendment: Words in [reg. 32(2)(b)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/2/b) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(c)(ii)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/c/ii)
 
-[^key-e305ad7931b41a8b7b1d34dd3df7d26d]: Textual amendment: Word in [reg. 32(2)(b)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/2/b) omitted (1.4.2026) by virtue of [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(c)(iii)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/c/iii)
+[^c-e305ad7931b41a8b7b1d34dd3df7d26d]: Textual amendment: Word in [reg. 32(2)(b)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/2/b) omitted (1.4.2026) by virtue of [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(c)(iii)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/c/iii)
 
-[^key-eaff2ee6567fb23ab1eb3eed98ce1a8f]: Textual amendment: [Reg. 32(2)(ba)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/2/ba) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(c)(iv)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/c/iv)
+[^c-eaff2ee6567fb23ab1eb3eed98ce1a8f]: Textual amendment: [Reg. 32(2)(ba)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/2/ba) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(c)(iv)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/c/iv)
 
-[^key-3fb0a4863095059a88f56552d61255ec]: Textual amendment: Words in [reg. 32(2)(ba)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/2/ba) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/3), [7(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/3/c/ii)
+[^c-3fb0a4863095059a88f56552d61255ec]: Textual amendment: Words in [reg. 32(2)(ba)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/2/ba) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/3), [7(3)(c)(ii)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/3/c/ii)
 
-[^key-181f88ba35a77bc9f6b0fcb69ea2597d]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/3) substituted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/3), [7(3)(d)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/3/d)
+[^c-181f88ba35a77bc9f6b0fcb69ea2597d]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/3) substituted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/3), [7(3)(d)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/3/d)
 
-[^key-e6ca8b8f8144c1e80c97c9b9b8e02497]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/3) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(d)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/d)
+[^c-e6ca8b8f8144c1e80c97c9b9b8e02497]: Textual amendment: Words in [reg. 32(3)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/3) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(d)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/d)
 
-[^key-b475ad7d13bae0d7aefab939f95faed8]: Textual amendment: Words in [reg. 32(4)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/4) substituted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(e)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/e)
+[^c-b475ad7d13bae0d7aefab939f95faed8]: Textual amendment: Words in [reg. 32(4)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/4) substituted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(4)(e)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/4/e)
 
-[^key-f6709d9689107622061533e0d86687b4]: Textual amendment: Words in [reg. 32(4)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/4) substituted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/3), [7(3)(e)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/3/e)
+[^c-f6709d9689107622061533e0d86687b4]: Textual amendment: Words in [reg. 32(4)](https://www.legislation.gov.uk/wsi/2023/350/regulation/32/4) substituted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/3), [7(3)(e)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/3/e)
 
-[^key-4d3b021223f8b578085d506eff90cc71]: Commencement: Reg. 33 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-4d3b021223f8b578085d506eff90cc71]: Commencement: Reg. 33 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
 [^f00014]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70) to which there are amendments not relevant to these Regulations.
 
-[^key-cb628774bb7fc31eee9c12e0cb94cc0b]: Commencement: Reg. 34 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-cb628774bb7fc31eee9c12e0cb94cc0b]: Commencement: Reg. 34 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
 [^f00015]: Footnote: [S.I. 2005/3364 (W. 261)](https://www.legislation.gov.uk/wsi/2005/3364), repealed by [S.I. 2010/713 (W. 69)](https://www.legislation.gov.uk/wsi/2010/713).
 
-[^key-6fd22eafa367fc04b72efeaed8c41ab2]: Commencement: Reg. 35 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-6fd22eafa367fc04b72efeaed8c41ab2]: Commencement: Reg. 35 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-cab0864e38dd471fb5a81cb2314064cd]: Textual amendment: [Reg. 35(1)(ba)](https://www.legislation.gov.uk/wsi/2023/350/regulation/35/1/ba) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/4/a)
+[^c-cab0864e38dd471fb5a81cb2314064cd]: Textual amendment: [Reg. 35(1)(ba)](https://www.legislation.gov.uk/wsi/2023/350/regulation/35/1/ba) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(4)(a)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/4/a)
 
-[^key-c7c958015706db5ecf4dadfecf24d162]: Textual amendment: Comma in reg. 35(1)(c) substituted for word (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(5)(a)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/5/a)
+[^c-c7c958015706db5ecf4dadfecf24d162]: Textual amendment: Comma in reg. 35(1)(c) substituted for word (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(5)(a)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/5/a)
 
-[^key-72527de1fbbdde5d6222811d878d1c73]: Textual amendment: Word in [reg. 35(1)(d)](https://www.legislation.gov.uk/wsi/2023/350/regulation/35/1/d) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(5)(b)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/5/b)
+[^c-72527de1fbbdde5d6222811d878d1c73]: Textual amendment: Word in [reg. 35(1)(d)](https://www.legislation.gov.uk/wsi/2023/350/regulation/35/1/d) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(5)(b)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/5/b)
 
-[^key-6bb6a7c81d5874afb45ca7502bd7c01a]: Textual amendment: [Reg. 35(1)(e)](https://www.legislation.gov.uk/wsi/2023/350/regulation/35/1/e) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(5)(c)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/5/c)
+[^c-6bb6a7c81d5874afb45ca7502bd7c01a]: Textual amendment: [Reg. 35(1)(e)](https://www.legislation.gov.uk/wsi/2023/350/regulation/35/1/e) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(5)(c)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/5/c)
 
-[^key-e673fcd5e2c7f836cce4448ee7dfba4c]: Textual amendment: [Reg. 35(3)-(3B)](https://www.legislation.gov.uk/wsi/2023/350/regulation/35/3) substituted for [reg. 35(3)](https://www.legislation.gov.uk/wsi/2023/350/regulation/35/3) (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(4)(b)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/4/b)
+[^c-e673fcd5e2c7f836cce4448ee7dfba4c]: Textual amendment: [Reg. 35(3)-(3B)](https://www.legislation.gov.uk/wsi/2023/350/regulation/35/3) substituted for [reg. 35(3)](https://www.legislation.gov.uk/wsi/2023/350/regulation/35/3) (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(4)(b)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/4/b)
 
-[^key-e835c6721de22e105964d872df26ef2b]: Textual amendment: Word in [reg. 35(4)](https://www.legislation.gov.uk/wsi/2023/350/regulation/35/4) substituted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(4)(c)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/4/c)
+[^c-e835c6721de22e105964d872df26ef2b]: Textual amendment: Word in [reg. 35(4)](https://www.legislation.gov.uk/wsi/2023/350/regulation/35/4) substituted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(4)(c)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/4/c)
 
-[^key-6496638451bdfba9af0b36f948f03b02]: Commencement: Reg. 36 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-6496638451bdfba9af0b36f948f03b02]: Commencement: Reg. 36 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-f8fc86aefad322ba3319cbd00369a150]: Commencement: Reg. 37 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-f8fc86aefad322ba3319cbd00369a150]: Commencement: Reg. 37 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-97071b7a1b5d1d1c7e6674b02f5fbdf1]: Commencement: Reg. 38 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-97071b7a1b5d1d1c7e6674b02f5fbdf1]: Commencement: Reg. 38 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-f533c9a45431ced7df02ff34a4279880]: Commencement: Reg. 39 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-f533c9a45431ced7df02ff34a4279880]: Commencement: Reg. 39 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-5ff704b58c4c7b05412a3a798033bcb4]: Commencement: Reg. 40 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-5ff704b58c4c7b05412a3a798033bcb4]: Commencement: Reg. 40 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-1d217095690056130c2da7a4141a6357]: Commencement: Reg. 41 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-1d217095690056130c2da7a4141a6357]: Commencement: Reg. 41 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-aae66a4992b13ef9b89cab3496399b9c]: Commencement: Reg. 42 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-aae66a4992b13ef9b89cab3496399b9c]: Commencement: Reg. 42 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-6d0a3b8411e981e8c69351df466b5a46]: Commencement: Reg. 43 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-6d0a3b8411e981e8c69351df466b5a46]: Commencement: Reg. 43 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-c29a30222a33f323a4955f339ff76243]: Commencement: Reg. 44 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-c29a30222a33f323a4955f339ff76243]: Commencement: Reg. 44 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-1db3982f43e1aceb7eb2b4131d9227be]: Commencement: Reg. 45 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-1db3982f43e1aceb7eb2b4131d9227be]: Commencement: Reg. 45 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-7899892a102c512c0f9c7fc1fdb8aa8b]: Commencement: Reg. 46 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-7899892a102c512c0f9c7fc1fdb8aa8b]: Commencement: Reg. 46 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-8b9fdb1ef82ecd4ed62ad874b125ce9a]: Commencement: Reg. 47 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-8b9fdb1ef82ecd4ed62ad874b125ce9a]: Commencement: Reg. 47 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-78a519bbd4bc3c6e50604508e988941e]: Commencement: Reg. 48 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-78a519bbd4bc3c6e50604508e988941e]: Commencement: Reg. 48 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-2ee078d9082c4cc68b65ed033c709e11]: Commencement: Reg. 49 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-2ee078d9082c4cc68b65ed033c709e11]: Commencement: Reg. 49 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-8b9b8dfb4f7afa657e9ed08805e6d402]: Commencement: Reg. 50 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-8b9b8dfb4f7afa657e9ed08805e6d402]: Commencement: Reg. 50 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-9cb3b54eb8c45c5a9e404546c79a84ec]: Commencement: Reg. 51 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-9cb3b54eb8c45c5a9e404546c79a84ec]: Commencement: Reg. 51 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-dc68b32029e4cc106b905fb10cd78fb9]: Commencement: Reg. 52 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-dc68b32029e4cc106b905fb10cd78fb9]: Commencement: Reg. 52 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-bb655b4fe2012148a01fcba5dd7bbabd]: Commencement: Reg. 53 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-bb655b4fe2012148a01fcba5dd7bbabd]: Commencement: Reg. 53 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-aa2dc8f53a5fb57b7822746f60a98a68]: Textual amendment: Words in [reg. 53(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/53/1) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(6)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/6)
+[^c-aa2dc8f53a5fb57b7822746f60a98a68]: Textual amendment: Words in [reg. 53(1)](https://www.legislation.gov.uk/wsi/2023/350/regulation/53/1) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(6)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/6)
 
-[^key-5282e2aae86dcb22fb4977608be562ec]: Commencement: Reg. 54 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-5282e2aae86dcb22fb4977608be562ec]: Commencement: Reg. 54 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-911ce84bf0b952c51d545e581c3d4a63]: Commencement: Reg. 55 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-911ce84bf0b952c51d545e581c3d4a63]: Commencement: Reg. 55 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-1f34ea0c5150b5061f91ff5dfa12333a]: Commencement: Reg. 56 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-1f34ea0c5150b5061f91ff5dfa12333a]: Commencement: Reg. 56 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-c0e50bf96cbe5664e75c223bcfe38775]: Textual amendment: [Reg. 56(1)(aa)](https://www.legislation.gov.uk/wsi/2023/350/regulation/56/1/aa) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(5)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/5)
+[^c-c0e50bf96cbe5664e75c223bcfe38775]: Textual amendment: [Reg. 56(1)(aa)](https://www.legislation.gov.uk/wsi/2023/350/regulation/56/1/aa) inserted (1.4.2026) by [The Non-Domestic Rating (Artificial Avoidance Arrangements) (Local Lists) (Wales) Regulations 2026 (W.S.I. 2026/43)](https://www.legislation.gov.uk/wsi/2026/43), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/43/regulation/1/2), [7(5)](https://www.legislation.gov.uk/wsi/2026/43/regulation/7/5)
 
-[^key-411f07077f4074d7706020e1fc11e403]: Textual amendment: [Reg. 56(1)(d)](https://www.legislation.gov.uk/wsi/2023/350/regulation/56/1/d) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(7)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/7)
+[^c-411f07077f4074d7706020e1fc11e403]: Textual amendment: [Reg. 56(1)(d)](https://www.legislation.gov.uk/wsi/2023/350/regulation/56/1/d) inserted (1.4.2026) by [The Non-Domestic Rating (Provision of Information About Changes of Circumstances) (Wales) Regulations 2026 (W.S.I. 2026/15)](https://www.legislation.gov.uk/wsi/2026/15), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2026/15/regulation/1/3), [11(7)](https://www.legislation.gov.uk/wsi/2026/15/regulation/11/7)
 
-[^key-4141f72eb50794d934da6393ca896612]: Commencement: Reg. 57 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-4141f72eb50794d934da6393ca896612]: Commencement: Reg. 57 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-70a83a1286ae7aa7a8dfc5bec6b0545a]: Commencement: Reg. 58 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-70a83a1286ae7aa7a8dfc5bec6b0545a]: Commencement: Reg. 58 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-7b5ad995be4986472b10bab973481573]: Commencement: Reg. 59 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-7b5ad995be4986472b10bab973481573]: Commencement: Reg. 59 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-c7749ec12a19c18f165612cc16cf47d6]: Commencement: Reg. 60 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-c7749ec12a19c18f165612cc16cf47d6]: Commencement: Reg. 60 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-32db9e4735d6df7a5225ad35364621fe]: Commencement: Reg. 61 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-32db9e4735d6df7a5225ad35364621fe]: Commencement: Reg. 61 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
-[^key-560fe959a549c4380633a7adb3e92340]: Commencement: Reg. 62 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-560fe959a549c4380633a7adb3e92340]: Commencement: Reg. 62 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2008/2671 (W. 235)](https://www.legislation.gov.uk/wsi/2008/2671).
 
@@ -1745,10 +1745,10 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00019]: Footnote: [S.I. 1992/556](https://www.legislation.gov.uk/uksi/1992/556), to which there are amendments not relevant to these Regulations.
 
-[^key-8ae1fd7d67c3bdcda7a50e36b27db7be]: Commencement: Reg. 63 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-8ae1fd7d67c3bdcda7a50e36b27db7be]: Commencement: Reg. 63 in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
 
 [^f00020]: Footnote: [S.I. 2005/758 (W. 83)](https://www.legislation.gov.uk/wsi/2005/758) amended by [S.I. 2006/1035](https://www.legislation.gov.uk/uksi/2006/1035), [S.I. 2010/713](https://www.legislation.gov.uk/uksi/2010/713) and [S.I. 2017/914](https://www.legislation.gov.uk/uksi/2017/914).
 
 [^f00021]: Footnote: [S.I. 2006/1035](https://www.legislation.gov.uk/uksi/2006/1035).
 
-[^key-3be15f784df194641519add2fd63a6d5]: Commencement: Sch. in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)
+[^c-3be15f784df194641519add2fd63a6d5]: Commencement: Sch. in force at 1.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/350/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Information in connection with firemen’s pensions[^key-06999515bb969a31e208730c9febe3f5]
+## 102. Information in connection with firemen’s pensions[^c-06999515bb969a31e208730c9febe3f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 27A[^f00092] of the Fire Services Act 1947 (information in connection
 
 ## Annotations
 
-[^key-06999515bb969a31e208730c9febe3f5]: Commencement: Art. 102 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-06999515bb969a31e208730c9febe3f5]: Commencement: Art. 102 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00092]: Footnote: Section 27A was inserted by the Police and Firemen’s Pensions Act [1997 (c. 52)](https://www.legislation.gov.uk/ukpga/1997/52) s. 3.

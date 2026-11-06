@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Approval by the court[^key-4d58c63401a1f47fb34647d8a17624c4]
+## 146. Approval by the court[^c-4d58c63401a1f47fb34647d8a17624c4]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
 - (a) all persons who have submitted a claim of the type described in regulation 11(1);
 - (b) all persons notified under rule 143;
 - (c) in a special administration (bank administration), before the Bank of England has given an Objective A Achievement Notice, the Bank of England; and
-- (d) the FCA[^key-3306d0df9c97344a60b26330c3bb1c30] and, where the investment bank concerned is a PRA-authorised person, the PRA,
+- (d) the FCA[^c-3306d0df9c97344a60b26330c3bb1c30] and, where the investment bank concerned is a PRA-authorised person, the PRA,
 
 and details as to how to find out the venue for the hearing shall be sent out with the copy of the distribution plan.
 
@@ -46,6 +46,6 @@ and details as to how to find out the venue for the hearing shall be sent out wi
 
 ## Annotations
 
-[^key-4d58c63401a1f47fb34647d8a17624c4]: Commencement: [Rule 146](https://www.legislation.gov.uk/uksi/2011/1301/rule/146) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-4d58c63401a1f47fb34647d8a17624c4]: Commencement: [Rule 146](https://www.legislation.gov.uk/uksi/2011/1301/rule/146) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-3306d0df9c97344a60b26330c3bb1c30]: Textual amendment: Words in [art. 146(3)(d)](https://www.legislation.gov.uk/uksi/2011/1301/article/146/3/d) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xiii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xiii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-3306d0df9c97344a60b26330c3bb1c30]: Textual amendment: Words in [art. 146(3)(d)](https://www.legislation.gov.uk/uksi/2011/1301/article/146/3/d) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(xiii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/xiii) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

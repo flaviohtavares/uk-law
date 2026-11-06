@@ -24,15 +24,15 @@ Section 38
 
 ### Part 1 — Amendment of the Localism Act 2011
 
-#### 1. Introduction[^key-983095c9b745398ada52b025f84b392d]
+#### 1. Introduction[^c-983095c9b745398ada52b025f84b392d]
 
 The Localism Act 2011 is amended in accordance with this Part of this Schedule.
 
-#### 2. Part 8[^key-ce08de500b05c0b52d81fd2a679a7ef4]
+#### 2. Part 8[^c-ce08de500b05c0b52d81fd2a679a7ef4]
 
 In the heading of Part 8, after “London” insert “and areas of other mayoral strategic authorities”.
 
-#### 3. Interpretation[^key-bdf6549929d97001950c2a04a2422f6f]
+#### 3. Interpretation[^c-bdf6549929d97001950c2a04a2422f6f]
 
 In section 196—
 
@@ -68,7 +68,7 @@ In section 196—
 
   .
 
-#### 4. Designation of Mayoral development areas[^key-119f66dc098d00924ec619bad0033b34]
+#### 4. Designation of Mayoral development areas[^c-119f66dc098d00924ec619bad0033b34]
 
 (1) Section 197 is amended in accordance with this paragraph.
 
@@ -97,7 +97,7 @@ In section 196—
 >
 > (5D) For the purposes of subsection (5A)(f) the combined authority or CCA approves a proposal if it resolves to do so on a motion considered at a meeting of the combined authority or CCA throughout which members of the public are entitled to be present.
 
-#### 5. Exclusion of land from Mayoral development areas[^key-17659a682f0cf0987002e38d34ae637d]
+#### 5. Exclusion of land from Mayoral development areas[^c-17659a682f0cf0987002e38d34ae637d]
 
 (1) Section 199 is amended in accordance with this paragraph.
 
@@ -110,7 +110,7 @@ In section 196—
 > - (a) the constituent councils, and
 > - (b) any other person whom the Mayor considers it appropriate to consult.
 
-#### 6. Transfers of property etc to a Mayoral development corporation[^key-96fb43b3a6c62bf249cda2fb8084bea9]
+#### 6. Transfers of property etc to a Mayoral development corporation[^c-96fb43b3a6c62bf249cda2fb8084bea9]
 
 (1) Section 200 is amended in accordance with this paragraph.
 
@@ -157,7 +157,7 @@ In section 196—
 
 (7) In subsection (9), after “(4)(c)” insert “or (4A)(b)”.
 
-#### 7. Functions in relation to Town and Country Planning[^key-d1cd79ab7868d56c6439c52fdea24106]
+#### 7. Functions in relation to Town and Country Planning[^c-d1cd79ab7868d56c6439c52fdea24106]
 
 (1) Section 202 is amended in accordance with this paragraph.
 
@@ -171,11 +171,11 @@ In section 196—
 > - (b) the Mayor has had regard to any comments made in response by the consultees, and
 > - (c) in the event that those comments include comments made by the constituent council or a district council specified by section 197(5C) that are comments that the Mayor does not accept, the Mayor has published a statement giving the reasons for the non-acceptance.
 
-#### 8. Arrangements for discharge of, or assistance with, planning functions[^key-33e31505814a71386c7f23f33f0915a0]
+#### 8. Arrangements for discharge of, or assistance with, planning functions[^c-33e31505814a71386c7f23f33f0915a0]
 
 In section 203, in subsections (1) and (4), after “City of London” insert “, or a county council or district council”.
 
-#### 9. Acquisition of land[^key-482efb154ce33b3a4b5e47717c261834]
+#### 9. Acquisition of land[^c-482efb154ce33b3a4b5e47717c261834]
 
 (1) Section 207 is amended in accordance with this paragraph.
 
@@ -188,7 +188,7 @@ In section 203, in subsections (1) and (4), after “City of London” insert �
 > - (a) an MDC for an area in Greater London must obtain the consent of the Mayor of London;
 > - (b) an MDC for an area in the area of a combined authority or CCA must obtain the consent of the mayor for that area.
 
-#### 10. Powers in relation to discretionary relief from non-domestic rates[^key-857dec67ad7c44843ceead61e2f843a2]
+#### 10. Powers in relation to discretionary relief from non-domestic rates[^c-857dec67ad7c44843ceead61e2f843a2]
 
 (1) Section 214 is amended in accordance with this paragraph.
 
@@ -202,7 +202,7 @@ In section 203, in subsections (1) and (4), after “City of London” insert �
 > - (b) the Mayor has had regard to any comments made in response by the consultees, and
 > - (c) in the event that those comments include comments made by the constituent council or a district council specified by section 197(5C) that are comments that the Mayor does not accept, the Mayor has published a statement giving the reasons for the non-acceptance.
 
-#### 11. Transfers of property, rights and liabilities[^key-e1e3bc5fdca910e4c3f6c44f02960197]
+#### 11. Transfers of property, rights and liabilities[^c-e1e3bc5fdca910e4c3f6c44f02960197]
 
 (1) Section 216 is amended in accordance with this paragraph.
 
@@ -238,7 +238,7 @@ In section 203, in subsections (1) and (4), after “City of London” insert �
 
   .
 
-#### 12. Miscellaneous provisions[^key-c5c448900b5e92ab0a2d779f73a1ea33]
+#### 12. Miscellaneous provisions[^c-c5c448900b5e92ab0a2d779f73a1ea33]
 
 After section 217 insert—
 
@@ -255,11 +255,11 @@ After section 217 insert—
 > - “**LGHA 1989**” means the Local Government and Housing Act 1989;
 > - “**MDC outside London**” means an MDC for an area in the area of a combined authority or CCA.
 
-#### 13. Schedule 21[^key-de10993cf45b081750acd52153d06881]
+#### 13. Schedule 21[^c-de10993cf45b081750acd52153d06881]
 
 Schedule 21 is amended in accordance with paragraphs 14 to 18.
 
-**14.**[^key-e9d403e40c5872c5a6c4b7b52ce9c473] (1) Paragraph 1 (membership) is amended in accordance with this paragraph.
+**14.**[^c-e9d403e40c5872c5a6c4b7b52ce9c473] (1) Paragraph 1 (membership) is amended in accordance with this paragraph.
 
 (2) In sub-paragraph (1)—
 
@@ -281,21 +281,21 @@ Schedule 21 is amended in accordance with paragraphs 14 to 18.
 >   - (i) the council for a county in which there are no district councils, or
 >   - (ii) a district council.
 
-**15.**[^key-79934d4ea19dbc55b6ca286b794a369c] In paragraph 2 (terms of appointment of members), in sub-paragraph (5)(d), after “relevant London council” insert “or relevant council”.
+**15.**[^c-79934d4ea19dbc55b6ca286b794a369c] In paragraph 2 (terms of appointment of members), in sub-paragraph (5)(d), after “relevant London council” insert “or relevant council”.
 
-**16.**[^key-c2360c30e983671dedbea7c89de903c5] In paragraph 4 (remuneration etc: members and staff), in sub-paragraph (4), after “London Assembly” insert “, or the combined authority or CCA,”.
+**16.**[^c-c2360c30e983671dedbea7c89de903c5] In paragraph 4 (remuneration etc: members and staff), in sub-paragraph (4), after “London Assembly” insert “, or the combined authority or CCA,”.
 
-**17.**[^key-f080bcff63d88ac5c21716427f7030e1] In paragraph 9 (proceedings), in paragraph (c), after “each relevant London council” insert “or each relevant council”.
+**17.**[^c-f080bcff63d88ac5c21716427f7030e1] In paragraph 9 (proceedings), in paragraph (c), after “each relevant London council” insert “or each relevant council”.
 
-**18.**[^key-c385f37a0a8715ce2b7a8d005ee0311a] In paragraph 10 (annual report), in sub-paragraph (1)(c), after “and” insert “, in the case of an MDC for an area in London,”.
+**18.**[^c-c385f37a0a8715ce2b7a8d005ee0311a] In paragraph 10 (annual report), in sub-paragraph (1)(c), after “and” insert “, in the case of an MDC for an area in London,”.
 
 ### Part 2 — Amendment of other legislation
 
-#### 19. Channel Tunnel Rail Link Act 1996[^key-6e760ff1277c8fd4e02b884b086191ca]
+#### 19. Channel Tunnel Rail Link Act 1996[^c-6e760ff1277c8fd4e02b884b086191ca]
 
 In Schedule 2 to the Channel Tunnel Rail Link Act 1996 (works: further and supplementary provisions), in paragraph 9(8)(a), after “Mayoral development corporation” insert “for an area in Greater London”.
 
-#### 20. GLAA 1999[^key-4cd2f2bc1d2c3162a571b7b169ad58d0]
+#### 20. GLAA 1999[^c-4cd2f2bc1d2c3162a571b7b169ad58d0]
 
 (1) The GLAA 1999 is amended in accordance with this paragraph.
 
@@ -313,7 +313,7 @@ In Schedule 2 to the Channel Tunnel Rail Link Act 1996 (works: further and suppl
 
 (7) In section 424 (interpretation), in subsection (1), in the definition of “functional body”, in paragraph (aa), after “Mayoral development corporation” insert “for an area in Greater London”.
 
-#### 21. Local Government Act 2003[^key-619e79bf1a2eaa177aeed44fabea8690]
+#### 21. Local Government Act 2003[^c-619e79bf1a2eaa177aeed44fabea8690]
 
 In the Local Government Act 2003, after section 32A (inserted by section 42 of this Act) insert—
 
@@ -336,58 +336,58 @@ In the Local Government Act 2003, after section 32A (inserted by section 42 of t
 > - “**CCA**” means a combined county authority established under Chapter 1 of Part 2 of the Levelling-up and Regeneration Act 2023;
 > - “**combined authority**” means a combined authority established under Part 6 of the Local Democracy, Economic Development and Construction Act 2009.
 
-#### 22. Planning and Compulsory Purchase Act 2004[^key-c528e0ff2373f950b02b607277f82eae]
+#### 22. Planning and Compulsory Purchase Act 2004[^c-c528e0ff2373f950b02b607277f82eae]
 
 In section 24 of the Planning and Compulsory Purchase Act 2004 (conformity with regional strategy), in subsection (1)(b) and subsection (4), after “Mayoral development corporation” insert “for an area in Greater London”.
 
-#### 23. Crossrail Act 2008[^key-7e6cf0b6d39f32451754f9163a43b95e]
+#### 23. Crossrail Act 2008[^c-7e6cf0b6d39f32451754f9163a43b95e]
 
 In Schedule 2 to the Channel Tunnel Rail Link Act 1996 (works: further and supplementary provisions), in paragraph 8(8)(a), after “Mayoral development corporation” insert “for an area in Greater London”.
 
 ## Annotations
 
-[^key-983095c9b745398ada52b025f84b392d]: Commencement: Sch. 20 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-983095c9b745398ada52b025f84b392d]: Commencement: Sch. 20 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-ce08de500b05c0b52d81fd2a679a7ef4]: Commencement: Sch. 20 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-ce08de500b05c0b52d81fd2a679a7ef4]: Commencement: Sch. 20 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-bdf6549929d97001950c2a04a2422f6f]: Commencement: Sch. 20 para. 3 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-bdf6549929d97001950c2a04a2422f6f]: Commencement: Sch. 20 para. 3 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-119f66dc098d00924ec619bad0033b34]: Commencement: Sch. 20 para. 4 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-119f66dc098d00924ec619bad0033b34]: Commencement: Sch. 20 para. 4 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-17659a682f0cf0987002e38d34ae637d]: Commencement: Sch. 20 para. 5 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-17659a682f0cf0987002e38d34ae637d]: Commencement: Sch. 20 para. 5 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-96fb43b3a6c62bf249cda2fb8084bea9]: Commencement: Sch. 20 para. 6 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-96fb43b3a6c62bf249cda2fb8084bea9]: Commencement: Sch. 20 para. 6 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-d1cd79ab7868d56c6439c52fdea24106]: Commencement: Sch. 20 para. 7 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-d1cd79ab7868d56c6439c52fdea24106]: Commencement: Sch. 20 para. 7 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-33e31505814a71386c7f23f33f0915a0]: Commencement: Sch. 20 para. 8 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-33e31505814a71386c7f23f33f0915a0]: Commencement: Sch. 20 para. 8 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-482efb154ce33b3a4b5e47717c261834]: Commencement: Sch. 20 para. 9 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-482efb154ce33b3a4b5e47717c261834]: Commencement: Sch. 20 para. 9 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-857dec67ad7c44843ceead61e2f843a2]: Commencement: Sch. 20 para. 10 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-857dec67ad7c44843ceead61e2f843a2]: Commencement: Sch. 20 para. 10 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-e1e3bc5fdca910e4c3f6c44f02960197]: Commencement: Sch. 20 para. 11 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-e1e3bc5fdca910e4c3f6c44f02960197]: Commencement: Sch. 20 para. 11 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-c5c448900b5e92ab0a2d779f73a1ea33]: Commencement: Sch. 20 para. 12 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-c5c448900b5e92ab0a2d779f73a1ea33]: Commencement: Sch. 20 para. 12 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-de10993cf45b081750acd52153d06881]: Commencement: Sch. 20 para. 13 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-de10993cf45b081750acd52153d06881]: Commencement: Sch. 20 para. 13 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-e9d403e40c5872c5a6c4b7b52ce9c473]: Commencement: Sch. 20 para. 14 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-e9d403e40c5872c5a6c4b7b52ce9c473]: Commencement: Sch. 20 para. 14 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-79934d4ea19dbc55b6ca286b794a369c]: Commencement: Sch. 20 para. 15 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-79934d4ea19dbc55b6ca286b794a369c]: Commencement: Sch. 20 para. 15 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-c2360c30e983671dedbea7c89de903c5]: Commencement: Sch. 20 para. 16 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-c2360c30e983671dedbea7c89de903c5]: Commencement: Sch. 20 para. 16 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-f080bcff63d88ac5c21716427f7030e1]: Commencement: Sch. 20 para. 17 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-f080bcff63d88ac5c21716427f7030e1]: Commencement: Sch. 20 para. 17 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-c385f37a0a8715ce2b7a8d005ee0311a]: Commencement: Sch. 20 para. 18 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-c385f37a0a8715ce2b7a8d005ee0311a]: Commencement: Sch. 20 para. 18 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-6e760ff1277c8fd4e02b884b086191ca]: Commencement: Sch. 20 para. 19 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-6e760ff1277c8fd4e02b884b086191ca]: Commencement: Sch. 20 para. 19 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-4cd2f2bc1d2c3162a571b7b169ad58d0]: Commencement: Sch. 20 para. 20 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-4cd2f2bc1d2c3162a571b7b169ad58d0]: Commencement: Sch. 20 para. 20 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-619e79bf1a2eaa177aeed44fabea8690]: Commencement: Sch. 20 para. 21 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-619e79bf1a2eaa177aeed44fabea8690]: Commencement: Sch. 20 para. 21 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-c528e0ff2373f950b02b607277f82eae]: Commencement: Sch. 20 para. 22 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-c528e0ff2373f950b02b607277f82eae]: Commencement: Sch. 20 para. 22 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-7e6cf0b6d39f32451754f9163a43b95e]: Commencement: Sch. 20 para. 23 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-7e6cf0b6d39f32451754f9163a43b95e]: Commencement: Sch. 20 para. 23 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

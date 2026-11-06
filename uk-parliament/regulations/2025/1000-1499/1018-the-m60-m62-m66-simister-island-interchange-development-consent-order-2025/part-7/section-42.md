@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Service of notices[^key-b1b55607d32fff332dc832f374481bf6]
+## 42. Service of notices[^c-b1b55607d32fff332dc832f374481bf6]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b1b55607d32fff332dc832f374481bf6]: Commencement: Art. 42 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
+[^c-b1b55607d32fff332dc832f374481bf6]: Commencement: Art. 42 in force at 30.9.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1018/article/1)
 
 [^f00079]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

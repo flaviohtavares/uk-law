@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Application to court[^key-bf3f5b9c7a93d7c55af579ba23ad16c7]
+## 56. Application to court[^c-bf3f5b9c7a93d7c55af579ba23ad16c7]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ at least 5 business days’ written notice of the applicant’s intention so to 
 
 ## Annotations
 
-[^key-bf3f5b9c7a93d7c55af579ba23ad16c7]: Commencement: Rule 56 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-bf3f5b9c7a93d7c55af579ba23ad16c7]: Commencement: Rule 56 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

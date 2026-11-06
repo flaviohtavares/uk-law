@@ -54,11 +54,11 @@ Section 21A.
 **3A.**[^c2092092] For the purposes of paragraphs 1A and 3 above, each of the following is a relevant local authority —
 
 - (a) the council of any county, county borough or district in whose area the land, or any part of the land, is situated;
-- (b) any joint planning board in whose district the land, or any part of the land, is situated; [^key-4b347de8a11d5e87f9e0016cd56a12d6]...
-- (c) any National Park authority which is the local planning authority for a National Park in which the land, or any part of the land, is situated ; and[^key-984bea224ce255e3beaf299575e74f10]
-- (d) any corporate joint committee in whose[^key-4ff57e1dda0a70f21b3d3b6c69773339] area the land, or any part of the land, is situated.
+- (b) any joint planning board in whose district the land, or any part of the land, is situated; [^c-4b347de8a11d5e87f9e0016cd56a12d6]...
+- (c) any National Park authority which is the local planning authority for a National Park in which the land, or any part of the land, is situated ; and[^c-984bea224ce255e3beaf299575e74f10]
+- (d) any corporate joint committee in whose[^c-4ff57e1dda0a70f21b3d3b6c69773339] area the land, or any part of the land, is situated.
 
-**3B.**[^key-8a782b8359082c7c6b97d3fb83f73809] (1) Where the Welsh Ministers prepare a compulsory purchase order in draft under section 21A(1)(b) or (2)(b), they may include in the draft order a direction that compensation is to be assessed in accordance with section 14A of the Land Compensation Act 1961 (cases where prospect of planning permission to be ignored); and if they do so the following provisions of this paragraph apply.
+**3B.**[^c-8a782b8359082c7c6b97d3fb83f73809] (1) Where the Welsh Ministers prepare a compulsory purchase order in draft under section 21A(1)(b) or (2)(b), they may include in the draft order a direction that compensation is to be assessed in accordance with section 14A of the Land Compensation Act 1961 (cases where prospect of planning permission to be ignored); and if they do so the following provisions of this paragraph apply.
 
 (2) The Welsh Ministers must prepare a statement of commitments together with the draft order.
 
@@ -128,9 +128,9 @@ shall be extinguished and any such apparatus shall vest in the Assembly[^c209226
 
 (5) Any compensation payable under this paragraph shall be determined in accordance with the [^c301884]Land Compensation Act 1961.
 
-#### ...[^key-7db0ac86e3fffd5b90f86286f348723b]
+#### ...[^c-7db0ac86e3fffd5b90f86286f348723b]
 
-**6.**[^key-7db0ac86e3fffd5b90f86286f348723b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-7db0ac86e3fffd5b90f86286f348723b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Use and development of consecrated land and burial grounds[^c301891]
 
@@ -195,7 +195,7 @@ may be used by any person in any manner in accordance with planning permission i
 
 **9.**[^c301902] In construing the [^c301903]Compulsory Purchase Act 1965 in relation to section 21A above—
 
-- (a)[^key-46ed7facb0011b3514ad4809b44c9c0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-46ed7facb0011b3514ad4809b44c9c0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in relation to any erection, construction or carrying out of building or work so authorised, references in section 10 of that Act to the acquiring authority shall be construed as references to the persons by whom the building or work in question is erected, constructed or carried out.
 
 **10.**[^c301905] (1) Nothing in paragraph 7 or 8 above authorises any act or omission on the part of any authority or body corporate in contravention of any limitation imposed by law on their capacity by virtue of their constitution.
@@ -298,7 +298,7 @@ those undertakers shall be entitled to compensation from the Assembly[^c2092282]
 
 #### Rights of entry[^c301923]
 
-**14.**[^c301925] (1)[^key-2262eb23da7ae57d1158ecd28c4bfa31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c301925] (1)[^c-2262eb23da7ae57d1158ecd28c4bfa31] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Any person duly authorised in writing by the Assembly[^c2092296][^c2092296] may at any reasonable time enter any land for the purpose of surveying it in order to enable the Assembly[^c2092296] to determine whether to make an application for planning permission for the carrying out of development of that land.
 
@@ -370,7 +370,7 @@ a notice specifying the land and the function and the provision which confers th
 
 shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 4 on the standard scale.
 
-**19.**[^c301945] (1) The council of every county and county borough in Wales, every joint planning board for a district in Wales , every National Park authority for a National Park in Wales and every[^key-53b5155b8e2193fd6292c11f89f0dd39] corporate joint committee[^key-c2e6f6da7ad8d2525042a61203f45193] shall supply the Assembly[^c2092308]—
+**19.**[^c301945] (1) The council of every county and county borough in Wales, every joint planning board for a district in Wales , every National Park authority for a National Park in Wales and every[^c-53b5155b8e2193fd6292c11f89f0dd39] corporate joint committee[^c-c2e6f6da7ad8d2525042a61203f45193] shall supply the Assembly[^c2092308]—
 
 - (a) with such information as the Assembly[^c2092224] may by regulations prescribe for the purposes of this paragraph (being information which the Assembly may need for the purpose of performing its functions under this Act[^c2092227]); and
 - (b) with such certificates supporting the information as the Assembly may in the regulations specify.
@@ -446,13 +446,13 @@ he, as well as the body corporate, shall be guilty of that offence and liable to
 
 [^c2092092]: Textual amendment: Sch. 4 para. 3A inserted (1.4.2006) by [The Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3226)](https://www.legislation.gov.uk/uksi/2005/3226), [arts. 1(1)(2)](https://www.legislation.gov.uk/uksi/2005/3226/article/1/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2005/3226/article/7/1), [Sch. 1 para. 33(3)](https://www.legislation.gov.uk/uksi/2005/3226/schedule/1/paragraph/33/3) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/3226/article/3/1))
 
-[^key-4b347de8a11d5e87f9e0016cd56a12d6]: Textual amendment: Word in Sch. 4 para. 3A(b) omitted (6.9.2015 for specified purposes, 7.1.2021 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/schedule/2/paragraph/4/2/a); [S.I. 2021/7](https://www.legislation.gov.uk/wsi/2021/7), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/7/regulation/2/c)
+[^c-4b347de8a11d5e87f9e0016cd56a12d6]: Textual amendment: Word in Sch. 4 para. 3A(b) omitted (6.9.2015 for specified purposes, 7.1.2021 in so far as not already in force) by virtue of [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 2 para. 4(2)(a)](https://www.legislation.gov.uk/anaw/2015/4/schedule/2/paragraph/4/2/a); [S.I. 2021/7](https://www.legislation.gov.uk/wsi/2021/7), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/7/regulation/2/c)
 
-[^key-984bea224ce255e3beaf299575e74f10]: Textual amendment: Sch. 4 para. 3A(d) and word inserted (6.9.2015 for specified purposes, 7.1.2021 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/schedule/2/paragraph/4/2/b); [S.I. 2021/7](https://www.legislation.gov.uk/wsi/2021/7), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/7/regulation/2/c)
+[^c-984bea224ce255e3beaf299575e74f10]: Textual amendment: Sch. 4 para. 3A(d) and word inserted (6.9.2015 for specified purposes, 7.1.2021 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/schedule/2/paragraph/4/2/b); [S.I. 2021/7](https://www.legislation.gov.uk/wsi/2021/7), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/7/regulation/2/c)
 
-[^key-4ff57e1dda0a70f21b3d3b6c69773339]: Textual amendment: Words in Sch. 4 para. 3A(d) substituted (E.W.) (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 19(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/19/a)
+[^c-4ff57e1dda0a70f21b3d3b6c69773339]: Textual amendment: Words in Sch. 4 para. 3A(d) substituted (E.W.) (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 19(a)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/19/a)
 
-[^key-8a782b8359082c7c6b97d3fb83f73809]: Textual amendment: [Sch. 4 para. 3B](https://www.legislation.gov.uk/ukpga/1975/70/schedule/4/paragraph/3B) inserted (31.3.2024 for W. for specified purposes, 30.4.2024 for E.) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 190(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/190/4), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 4](https://www.legislation.gov.uk/uksi/2024/92/regulation/4) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/6)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/l)
+[^c-8a782b8359082c7c6b97d3fb83f73809]: Textual amendment: [Sch. 4 para. 3B](https://www.legislation.gov.uk/ukpga/1975/70/schedule/4/paragraph/3B) inserted (31.3.2024 for W. for specified purposes, 30.4.2024 for E.) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 190(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/190/4), [255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)); [S.I. 2024/92](https://www.legislation.gov.uk/uksi/2024/92), [reg. 4](https://www.legislation.gov.uk/uksi/2024/92/regulation/4) (with [reg. 6(6)](https://www.legislation.gov.uk/uksi/2024/92/regulation/6/6)); [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(l)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/l)
 
 [^c301873]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1975/70/schedule/4) inserted (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 127](https://www.legislation.gov.uk/ukpga/1998/38/section/127), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1998/38/schedule/13/paragraph/3) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4).
 
@@ -472,7 +472,7 @@ he, as well as the body corporate, shall be guilty of that offence and liable to
 
 [^c301884]: Marginal citation: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
-[^key-7db0ac86e3fffd5b90f86286f348723b]: Textual amendment: Sch. 4 para. 6 and crossheading omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 19 para. 1(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/19/paragraph/1/2); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)
+[^c-7db0ac86e3fffd5b90f86286f348723b]: Textual amendment: Sch. 4 para. 6 and crossheading omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 19 para. 1(2)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/19/paragraph/1/2); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)
 
 [^c301891]: Textual amendment: Sch. 4 inserted (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 127](https://www.legislation.gov.uk/ukpga/1998/38/section/127), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1998/38/schedule/13/paragraph/3) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4).
 
@@ -502,7 +502,7 @@ he, as well as the body corporate, shall be guilty of that offence and liable to
 
 [^c301903]: Marginal citation: [1965 c. 56](https://www.legislation.gov.uk/ukpga/1965/56).
 
-[^key-46ed7facb0011b3514ad4809b44c9c0d]: Textual amendment: Sch. 4 para. 9(a) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/19/paragraph/1/3); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)
+[^c-46ed7facb0011b3514ad4809b44c9c0d]: Textual amendment: Sch. 4 para. 9(a) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 19 para. 1(3)](https://www.legislation.gov.uk/ukpga/2016/22/schedule/19/paragraph/1/3); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/m)
 
 [^c301905]: Textual amendment: Sch. 4 inserted (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 127](https://www.legislation.gov.uk/ukpga/1998/38/section/127), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1998/38/schedule/13/paragraph/3) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4).
 
@@ -562,7 +562,7 @@ he, as well as the body corporate, shall be guilty of that offence and liable to
 
 [^c301925]: Textual amendment: Sch. 4 inserted (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 127](https://www.legislation.gov.uk/ukpga/1998/38/section/127), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1998/38/schedule/13/paragraph/3) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4).
 
-[^key-2262eb23da7ae57d1158ecd28c4bfa31]: Textual amendment: [Sch. 4 para. 14(1)](https://www.legislation.gov.uk/ukpga/1975/70/schedule/4/paragraph/14/1) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/8); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
+[^c-2262eb23da7ae57d1158ecd28c4bfa31]: Textual amendment: [Sch. 4 para. 14(1)](https://www.legislation.gov.uk/ukpga/1975/70/schedule/4/paragraph/14/1) omitted (13.7.2016) by virtue of [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 8](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/8); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
 
 [^c2092296]: Textual amendment: Sch. 4 para. 14: words in Act substituted (1.4.2006) by [The Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3226)](https://www.legislation.gov.uk/uksi/2005/3226), [arts. 1(1)(2)](https://www.legislation.gov.uk/uksi/2005/3226/article/1/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2005/3226/article/7/1), {Sch. 1 para. 1, 2} (with art. 3(1))
 
@@ -610,9 +610,9 @@ he, as well as the body corporate, shall be guilty of that offence and liable to
 
 [^c301945]: Textual amendment: Sch. 4 inserted (1.10.1998) by [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38), [s. 127](https://www.legislation.gov.uk/ukpga/1998/38/section/127), [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/1998/38/schedule/13/paragraph/3) (with [ss. 139(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/139/2), [143(2)](https://www.legislation.gov.uk/ukpga/1998/38/section/143/2)); [S.I. 1998/2244](https://www.legislation.gov.uk/uksi/1998/2244), [art. 4](https://www.legislation.gov.uk/uksi/1998/2244/article/4).
 
-[^key-53b5155b8e2193fd6292c11f89f0dd39]: Textual amendment: Words in Sch. 4 para. 19(1) substituted (6.9.2015 for specified purposes, 7.1.2021 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/anaw/2015/4/schedule/2/paragraph/4/3); [S.I. 2021/7](https://www.legislation.gov.uk/wsi/2021/7), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/7/regulation/2/c)
+[^c-53b5155b8e2193fd6292c11f89f0dd39]: Textual amendment: Words in Sch. 4 para. 19(1) substituted (6.9.2015 for specified purposes, 7.1.2021 in so far as not already in force) by [Planning (Wales) Act 2015 (anaw 4)](https://www.legislation.gov.uk/anaw/2015/4), [s. 58(2)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b)[(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/4/b), [Sch. 2 para. 4(3)](https://www.legislation.gov.uk/anaw/2015/4/schedule/2/paragraph/4/3); [S.I. 2021/7](https://www.legislation.gov.uk/wsi/2021/7), [reg. 2(c)](https://www.legislation.gov.uk/wsi/2021/7/regulation/2/c)
 
-[^key-c2e6f6da7ad8d2525042a61203f45193]: Textual amendment: Words in Sch. 4 para. 19(1) substituted (E.W.) (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 19(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/19/b)
+[^c-c2e6f6da7ad8d2525042a61203f45193]: Textual amendment: Words in Sch. 4 para. 19(1) substituted (E.W.) (21.1.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(1)(e)](https://www.legislation.gov.uk/asc/2021/1/section/175/1/e), [Sch. 9 para. 19(b)](https://www.legislation.gov.uk/asc/2021/1/schedule/9/paragraph/19/b)
 
 [^c2092308]: Textual amendment: Sch. 4 para. 19: words in Act substituted (1.4.2006) by [The Welsh Development Agency (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3226)](https://www.legislation.gov.uk/uksi/2005/3226), [arts. 1(1)(2)](https://www.legislation.gov.uk/uksi/2005/3226/article/1/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2005/3226/article/7/1), {Sch. 1 para. 1, 2} (with art. 3(1))
 

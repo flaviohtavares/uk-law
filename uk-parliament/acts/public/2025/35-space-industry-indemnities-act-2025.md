@@ -36,14 +36,14 @@ An Act to require operator licences authorising the carrying out of spaceflight 
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Licence terms relating to indemnification of government etc[^key-516063d7d41739e9f989841335557328]
+## 1. Licence terms relating to indemnification of government etc[^c-516063d7d41739e9f989841335557328]
 
 In the Space Industry Act 2018—
 
 - (a) in section 12 (terms of licences), in subsection (2), for “may” substitute “must”;
 - (b) in section 36 (obligation to indemnify government etc against claims), in subsection (3)(a), for “any” substitute “the”.
 
-## 2. Extent, commencement and short title[^key-30fab4073394d41f22501312a53a0504]
+## 2. Extent, commencement and short title[^c-30fab4073394d41f22501312a53a0504]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -55,6 +55,6 @@ In the Space Industry Act 2018—
 
 ## Annotations
 
-[^key-516063d7d41739e9f989841335557328]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/35/section/1) in force at 18.2.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/35/section/2/3)
+[^c-516063d7d41739e9f989841335557328]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2025/35/section/1) in force at 18.2.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/35/section/2/3)
 
-[^key-30fab4073394d41f22501312a53a0504]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/35/section/2) in force at 18.2.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/35/section/2/3)
+[^c-30fab4073394d41f22501312a53a0504]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2025/35/section/2) in force at 18.2.2026, see [s. 2(3)](https://www.legislation.gov.uk/ukpga/2025/35/section/2/3)

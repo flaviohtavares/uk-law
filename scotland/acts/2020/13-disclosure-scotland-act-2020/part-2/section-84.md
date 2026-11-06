@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84. Ministers' powers to remove from list[^key-5c219c7d7acd6e566d992c838e90f33f]
+## 84. Ministers' powers to remove from list[^c-5c219c7d7acd6e566d992c838e90f33f]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c219c7d7acd6e566d992c838e90f33f]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2020/13/section/84) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2021/380/regulation/4))
+[^c-5c219c7d7acd6e566d992c838e90f33f]: Commencement: [S. 84](https://www.legislation.gov.uk/asp/2020/13/section/84) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2021/380/regulation/4))

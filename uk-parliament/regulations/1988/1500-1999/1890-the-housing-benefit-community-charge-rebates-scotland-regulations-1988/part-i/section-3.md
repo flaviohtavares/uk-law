@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Remunerative work[^key-74cb1dee96c902e554032898a4e442c5]
+## 3. Remunerative work[^c-74cb1dee96c902e554032898a4e442c5]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74cb1dee96c902e554032898a4e442c5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1988/1890/regulation/3) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-74cb1dee96c902e554032898a4e442c5]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1988/1890/regulation/3) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

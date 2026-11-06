@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Amendment of regulation 23[^key-c2d178ea55e15eb999e03fc715ac3ea1]
+## 24. Amendment of regulation 23[^c-c2d178ea55e15eb999e03fc715ac3ea1]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 23(1)—
 
 ## Annotations
 
-[^key-c2d178ea55e15eb999e03fc715ac3ea1]: Commencement: Reg. 24 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-c2d178ea55e15eb999e03fc715ac3ea1]: Commencement: Reg. 24 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

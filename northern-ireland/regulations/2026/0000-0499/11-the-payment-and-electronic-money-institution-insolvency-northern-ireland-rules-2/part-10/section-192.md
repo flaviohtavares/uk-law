@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 192. Affidavits — general[^key-97e77784d045409d61c8072eac550b3f]
+## 192. Affidavits — general[^c-97e77784d045409d61c8072eac550b3f]
 
 *Extent: N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97e77784d045409d61c8072eac550b3f]: Commencement: [Rule 192](https://www.legislation.gov.uk/nisr/2026/11/rule/192) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-97e77784d045409d61c8072eac550b3f]: Commencement: [Rule 192](https://www.legislation.gov.uk/nisr/2026/11/rule/192) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

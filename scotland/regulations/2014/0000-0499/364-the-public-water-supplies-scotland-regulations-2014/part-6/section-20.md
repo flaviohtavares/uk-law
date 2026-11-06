@@ -26,8 +26,8 @@ summary: ''
   - (i) satisfies the requirements of regulation 4(2)(b) and (c); and
   - (ii) meets the prescribed concentration or value for a parameter in Table C; and
 - (b) where the water fails to satisfy a requirement of regulation 4(2) in relation to—
-  - (i) copper (item 13)[^key-be236b2dcb8a4628422c999147b61b7a] in Table B; or
-  - (ii) lead (item 19)[^key-e8fef99a46af86492dfc9eb786da49e6] in Table B,
+  - (i) copper (item 13)[^c-be236b2dcb8a4628422c999147b61b7a] in Table B; or
+  - (ii) lead (item 19)[^c-e8fef99a46af86492dfc9eb786da49e6] in Table B,
 
   take action to modify or replace such of Scottish Water's pipes and associated fittings as it knows or has reason to believe have the potential for contributing to copper or lead in the water supplied to the premises, so as to eliminate that potential (whether or not copper or lead in those pipes contributed to the failure).
 
@@ -47,8 +47,8 @@ summary: ''
 
 ## Annotations
 
-[^key-be236b2dcb8a4628422c999147b61b7a]: Textual amendment: Words in [reg. 20(1)(b)(i)](https://www.legislation.gov.uk/ssi/2014/364/regulation/20/1/b/i) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [8(a)](https://www.legislation.gov.uk/ssi/2022/387/regulation/8/a)
+[^c-be236b2dcb8a4628422c999147b61b7a]: Textual amendment: Words in [reg. 20(1)(b)(i)](https://www.legislation.gov.uk/ssi/2014/364/regulation/20/1/b/i) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [8(a)](https://www.legislation.gov.uk/ssi/2022/387/regulation/8/a)
 
-[^key-e8fef99a46af86492dfc9eb786da49e6]: Textual amendment: Words in [reg. 20(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2014/364/regulation/20/1/b/ii) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [8(b)](https://www.legislation.gov.uk/ssi/2022/387/regulation/8/b)
+[^c-e8fef99a46af86492dfc9eb786da49e6]: Textual amendment: Words in [reg. 20(1)(b)(ii)](https://www.legislation.gov.uk/ssi/2014/364/regulation/20/1/b/ii) substituted (1.1.2023) by [The Public Water Supplies (Scotland) Amendment Regulations 2022 (S.S.I. 2022/387)](https://www.legislation.gov.uk/ssi/2022/387), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2022/387/regulation/1/1), [8(b)](https://www.legislation.gov.uk/ssi/2022/387/regulation/8/b)
 
 [^c22302631]: Marginal citation: [1980 c.45](https://www.legislation.gov.uk/ukpga/1980/45); section 76FB was inserted by [S.S.I. 2010/95](https://www.legislation.gov.uk/ssi/2010/95) and is amended by regulation 48 of these Regulations.

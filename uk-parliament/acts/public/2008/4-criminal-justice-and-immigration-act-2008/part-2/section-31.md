@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Recall of life prisoners: abolition of requirement for recommendation by Parole Board[^key-78cd92a1bed39c6cc6ca4cc6f599bca6]
+## 31. Recall of life prisoners: abolition of requirement for recommendation by Parole Board[^c-78cd92a1bed39c6cc6ca4cc6f599bca6]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78cd92a1bed39c6cc6ca4cc6f599bca6]: Commencement: S. 31 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/17)
+[^c-78cd92a1bed39c6cc6ca4cc6f599bca6]: Commencement: S. 31 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 17](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/17)

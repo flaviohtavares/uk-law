@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Application of construction contracts legislation[^key-b7adfd64b5e323e5ac041fe719afb688][^key-01eb6a6f1de2a4a0583278d75a6afc3c][^key-05c91e460d805eb02608c24a9e2feaff][^key-235fc2ee06af17ddd4760e671233bad8][^key-fbde32cd2c43c8d81f8492c648a20a87]
+## 138. Application of construction contracts legislation[^c-b7adfd64b5e323e5ac041fe719afb688][^c-01eb6a6f1de2a4a0583278d75a6afc3c][^c-05c91e460d805eb02608c24a9e2feaff][^c-235fc2ee06af17ddd4760e671233bad8][^c-fbde32cd2c43c8d81f8492c648a20a87]
 
 *Extent: E+W+S*
 
@@ -47,12 +47,12 @@ summary: ''
 
 ## Annotations
 
-[^key-b7adfd64b5e323e5ac041fe719afb688]: Commencement: S. 138 in force at 18.6.2011 for specified purposes for E.W. by [S.I. 2011/1514](https://www.legislation.gov.uk/uksi/2011/1514), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1514/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1514/article/3)
+[^c-b7adfd64b5e323e5ac041fe719afb688]: Commencement: S. 138 in force at 18.6.2011 for specified purposes for E.W. by [S.I. 2011/1514](https://www.legislation.gov.uk/uksi/2011/1514), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1514/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1514/article/3)
 
-[^key-01eb6a6f1de2a4a0583278d75a6afc3c]: Commencement: S. 138 in force at 24.6.2011 for S. by [S.S.I. 2011/269](https://www.legislation.gov.uk/ssi/2011/269), [art. 2](https://www.legislation.gov.uk/ssi/2011/269/article/2)
+[^c-01eb6a6f1de2a4a0583278d75a6afc3c]: Commencement: S. 138 in force at 24.6.2011 for S. by [S.S.I. 2011/269](https://www.legislation.gov.uk/ssi/2011/269), [art. 2](https://www.legislation.gov.uk/ssi/2011/269/article/2)
 
-[^key-05c91e460d805eb02608c24a9e2feaff]: Commencement: S. 138 in force at 24.6.2011 for specified purposes for E.W. by [S.I. 2011/1569](https://www.legislation.gov.uk/uksi/2011/1569), [art. 2](https://www.legislation.gov.uk/uksi/2011/1569/article/2)
+[^c-05c91e460d805eb02608c24a9e2feaff]: Commencement: S. 138 in force at 24.6.2011 for specified purposes for E.W. by [S.I. 2011/1569](https://www.legislation.gov.uk/uksi/2011/1569), [art. 2](https://www.legislation.gov.uk/uksi/2011/1569/article/2)
 
-[^key-235fc2ee06af17ddd4760e671233bad8]: Commencement: S. 138 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
+[^c-235fc2ee06af17ddd4760e671233bad8]: Commencement: S. 138 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1582](https://www.legislation.gov.uk/uksi/2011/1582), [art. 2](https://www.legislation.gov.uk/uksi/2011/1582/article/2)
 
-[^key-fbde32cd2c43c8d81f8492c648a20a87]: Commencement: S. 138 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/a)
+[^c-fbde32cd2c43c8d81f8492c648a20a87]: Commencement: S. 138 in force at 1.10.2011 for specified purposes for E.W. by [S.I. 2011/1597](https://www.legislation.gov.uk/uksi/2011/1597), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1597/article/2), [3(a)](https://www.legislation.gov.uk/uksi/2011/1597/article/3/a)

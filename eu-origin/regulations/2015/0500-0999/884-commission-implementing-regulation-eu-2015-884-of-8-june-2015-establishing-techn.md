@@ -35,123 +35,123 @@ establishing technical specifications and procedures required for the system of 
 
 (Text with EEA relevance) (revoked)
 
-[^key-a396f102a77f16666dd449f5da514f22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a396f102a77f16666dd449f5da514f22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-a396f102a77f16666dd449f5da514f22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-a396f102a77f16666dd449f5da514f22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-a396f102a77f16666dd449f5da514f22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-a396f102a77f16666dd449f5da514f22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a396f102a77f16666dd449f5da514f22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX — setting out the technical specifications and procedures referred to in Article 1[^key-a396f102a77f16666dd449f5da514f22]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## ANNEX — setting out the technical specifications and procedures referred to in Article 1[^c-a396f102a77f16666dd449f5da514f22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]1.
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a396f102a77f16666dd449f5da514f22]1.
 
 **Methods of communication**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]2.
+[^c-a396f102a77f16666dd449f5da514f22]2.
 
 **Communication protocols**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]3.
+[^c-a396f102a77f16666dd449f5da514f22]3.
 
 **Security standards**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]4.
+[^c-a396f102a77f16666dd449f5da514f22]4.
 
 **Methods of exchange of information between the register of the company and the register of the branch**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]5.
+[^c-a396f102a77f16666dd449f5da514f22]5.
 
 **List of data to be exchanged between registers**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]5.1.
+[^c-a396f102a77f16666dd449f5da514f22]5.1.
 
 *Branch disclosure notification*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]5.2.
+[^c-a396f102a77f16666dd449f5da514f22]5.2.
 
 *Cross-border merger notification*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]6.
+[^c-a396f102a77f16666dd449f5da514f22]6.
 
 **Structure of the standard message format**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]7.
+[^c-a396f102a77f16666dd449f5da514f22]7.
 
 **Data for the platform**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]8.
+[^c-a396f102a77f16666dd449f5da514f22]8.
 
 **Structure and use of the unique identifier**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]9.
+[^c-a396f102a77f16666dd449f5da514f22]9.
 
 **Methods of operation of the system and information technology services provided by the platform**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]10.
+[^c-a396f102a77f16666dd449f5da514f22]10.
 
 **Search criteria**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]11.
+[^c-a396f102a77f16666dd449f5da514f22]11.
 
 **Payment modalities**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]12.
+[^c-a396f102a77f16666dd449f5da514f22]12.
 
 **Explanatory labels**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]13.
+[^c-a396f102a77f16666dd449f5da514f22]13.
 
 **Availability of services**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]14.
+[^c-a396f102a77f16666dd449f5da514f22]14.
 
 **Optional access points**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]14.1.
+[^c-a396f102a77f16666dd449f5da514f22]14.1.
 
 *Procedure*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a396f102a77f16666dd449f5da514f22]14.2.
+[^c-a396f102a77f16666dd449f5da514f22]14.2.
 
 *Technical requirements*
 
@@ -159,4 +159,4 @@ establishing technical specifications and procedures required for the system of 
 
 ## Annotations
 
-[^key-a396f102a77f16666dd449f5da514f22]: Textual amendment: Regulations revoked (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [regs. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [5(e)](https://www.legislation.gov.uk/uksi/2019/348/regulation/5/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a396f102a77f16666dd449f5da514f22]: Textual amendment: Regulations revoked (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [regs. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [5(e)](https://www.legislation.gov.uk/uksi/2019/348/regulation/5/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

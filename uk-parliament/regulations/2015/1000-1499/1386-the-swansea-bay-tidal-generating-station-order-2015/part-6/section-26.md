@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Private rights of way[^key-826e5125cf093c7822845b47e95a9d6f]
+## 26. Private rights of way[^c-826e5125cf093c7822845b47e95a9d6f]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ the agreement is effective in respect of the persons so deriving title, whether 
 
 ## Annotations
 
-[^key-826e5125cf093c7822845b47e95a9d6f]: Commencement: Art. 26 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)
+[^c-826e5125cf093c7822845b47e95a9d6f]: Commencement: Art. 26 in force at 30.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1386/article/1)

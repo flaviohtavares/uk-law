@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 227. Reviews under ss. 225 and 226[^key-8fe013d38d1c5775d0d165ec9b2b513c]
+## 227. Reviews under ss. 225 and 226[^c-8fe013d38d1c5775d0d165ec9b2b513c]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,8 +43,8 @@ summary: ''
 
 (7) References in this section to qualifying revenue for an accounting period are to be construed—
 
-- (a) in the case of the holder of a licence to provide a Channel 3 service or Channel 5, in accordance with section 19 of and Part 1 of Schedule 7 to the 1990 Act; [^key-df9a6927c4b6861b0a855d1b28f4b6be]...
-- (b)[^key-df9a6927c4b6861b0a855d1b28f4b6be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) in the case of the holder of a licence to provide a Channel 3 service or Channel 5, in accordance with section 19 of and Part 1 of Schedule 7 to the 1990 Act; [^c-df9a6927c4b6861b0a855d1b28f4b6be]...
+- (b)[^c-df9a6927c4b6861b0a855d1b28f4b6be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) In this section—
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8fe013d38d1c5775d0d165ec9b2b513c]: Commencement: S. 227 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
+[^c-8fe013d38d1c5775d0d165ec9b2b513c]: Commencement: S. 227 in force at 29.12.2003 by [S.I. 2003/3142](https://www.legislation.gov.uk/uksi/2003/3142), [art. 3(1)](https://www.legislation.gov.uk/uksi/2003/3142/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/3142/schedule/1) (with [art. 11](https://www.legislation.gov.uk/uksi/2003/3142/article/11))
 
-[^key-df9a6927c4b6861b0a855d1b28f4b6be]: Textual amendment: [S. 227(7)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/227/7/b) and word omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/31); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)
+[^c-df9a6927c4b6861b0a855d1b28f4b6be]: Textual amendment: [S. 227(7)(b)](https://www.legislation.gov.uk/ukpga/2003/21/section/227/7/b) and word omitted (23.8.2024) by virtue of [Media Act 2024 (c. 15)](https://www.legislation.gov.uk/ukpga/2024/15), [s. 55(3)(a)](https://www.legislation.gov.uk/ukpga/2024/15/section/55/3/a), [Sch. 2 para. 31](https://www.legislation.gov.uk/ukpga/2024/15/schedule/2/paragraph/31); [S.I. 2024/858](https://www.legislation.gov.uk/uksi/2024/858), [reg. 2(1)(v)](https://www.legislation.gov.uk/uksi/2024/858/regulation/2/1/v)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27B. Selection guidance: supplementary[^key-7322a54f416042d5c95b8781bcd98c37]
+## 27B. Selection guidance: supplementary[^c-7322a54f416042d5c95b8781bcd98c37]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7322a54f416042d5c95b8781bcd98c37]: Textual amendment: S. 27B inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/6); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)
+[^c-7322a54f416042d5c95b8781bcd98c37]: Textual amendment: S. 27B inserted (1.10.2013) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2013/22/schedule/13/paragraph/6); [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/d) (with savings in [S.I. 2013/2193](https://www.legislation.gov.uk/uksi/2013/2193), reg. 23)

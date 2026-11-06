@@ -45,7 +45,7 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by section 168 of the Serious Organised Crime and Police Act 2005[^f00001], section 66(4) of the Safeguarding Vulnerable Groups Act 2006[^f00002] and section 118 of the Protection of Freedoms Act 2012[^f00003], by and with the advice of Her Privy Council, makes the following Order:
 
-## 1. Citation and commencement[^key-95981fa24f93760d823091e756a207a4]
+## 1. Citation and commencement[^c-95981fa24f93760d823091e756a207a4]
 
 (1) This Order may be cited as the Police Act 1997 (Criminal Records) (Guernsey) (Amendment) Order 2012.
 
@@ -56,7 +56,7 @@ Her Majesty, in exercise of the powers conferred upon Her by section 168 of the 
 - (a) any provision extended as specified in paragraph (2) of article 4 and any provision in any Part extended as specified in paragraphs (3) to (6) of article 4 (subject to the modifications specified in Schedules 1 to 5 of this Order) does not have effect in Guernsey until the day that provision comes into force in England and Wales;
 - (b) paragraph (4) of Schedule 1 shall have effect in Guernsey when the extensions and modifications specified in paragraphs (3) to (6) of article 4 have effect in Guernsey.
 
-## 2. Interpretation[^key-57ba7c9262431b8a98f5aba76b668a6c]
+## 2. Interpretation[^c-57ba7c9262431b8a98f5aba76b668a6c]
 
 In this Order—
 
@@ -64,7 +64,7 @@ In this Order—
 - “the 2012 Act” means the Protection of Freedoms Act 2012;
 - “Guernsey” means the Bailiwick of Guernsey and its adjacent territorial sea.
 
-## 3. Amendment of the 2009 Order[^key-acfd13e637acc8b3d44b6c7a1baa198a]
+## 3. Amendment of the 2009 Order[^c-acfd13e637acc8b3d44b6c7a1baa198a]
 
 (1) The 2009 Order is amended as follows.
 
@@ -112,7 +112,7 @@ substitute—
 
 (8) Schedule 3 is revoked.
 
-## 4. Extension of Part 5 of, and Schedules 9 and 10 to, the Protection of Freedoms Act 2012 to Guernsey[^key-5f5cf665d95ac9ac5f2c569668596c55]
+## 4. Extension of Part 5 of, and Schedules 9 and 10 to, the Protection of Freedoms Act 2012 to Guernsey[^c-5f5cf665d95ac9ac5f2c569668596c55]
 
 (1) The following provisions of Part 5 (Safeguarding of vulnerable groups, criminal records, etc.) of the 2012 Act extend to Guernsey subject to the modifications specified in Schedule 1.
 
@@ -131,14 +131,14 @@ substitute—
 
 (4) Part 7 of Schedule 9 (Criminal records) to the 2012 Act extends to Guernsey subject to the modifications specified in Schedule 3.
 
-(5) Part 5 of Schedule 10 (Safeguarding of vulnerable groups) to the 2012 Act extends to Guernsey to the extent that it repeals the following provisions of the Police Act 1997—[^key-43985cfbee0648061db1d3d929414d55]
+(5) Part 5 of Schedule 10 (Safeguarding of vulnerable groups) to the 2012 Act extends to Guernsey to the extent that it repeals the following provisions of the Police Act 1997—[^c-43985cfbee0648061db1d3d929414d55]
 
 - (a) section 113BA(2)(b) to (d);
 - (b) section 113BB(2)(b) to (d).
 
 (6) Part 6 of Schedule 10 (Criminal records) to the 2012 Act extends to Guernsey subject to the modifications specified in Schedule 5.
 
-## 5. Subordinate legislation made under extended provisions[^key-a7ea19cc3c21558a9e6b061d0c39a685]
+## 5. Subordinate legislation made under extended provisions[^c-a7ea19cc3c21558a9e6b061d0c39a685]
 
 Any order or regulations made by the Secretary of State under the provisions extended to Guernsey by this Order shall not have effect in Guernsey until the order or regulations have been registered on the Records of the Island of Guernsey.
 
@@ -150,19 +150,19 @@ Clerk of the Privy Council
 
 Article 4(1)
 
-**1.**[^key-faa1c81c7458eeaf3259af2b84de4a5d] In section 79 (restriction on information provided to certain persons)–
+**1.**[^c-faa1c81c7458eeaf3259af2b84de4a5d] In section 79 (restriction on information provided to certain persons)–
 
 - (a) omit subsection (1);
 - (b) in subsection (3) for “120AB” substitute “120ZA”.
 
-**2.**[^key-e1c5195ca00f19711d5c410f9298b1e6] In section 80 (minimum age for applicants for certificates or to be registered)–
+**2.**[^c-e1c5195ca00f19711d5c410f9298b1e6] In section 80 (minimum age for applicants for certificates or to be registered)–
 
 - (a) in the heading omit “or to be registered”;
 - (b) omit subsection (2).
 
-**3.**[^key-e2a4a0cf028312573c47a4a317149ce9] In section 82 (enhanced criminal record certificates: additional safeguards) in subsection (3)(a) at the end of the inserted definition of “relevant chief officer” add “and the Chief Officer of the salaried Police Force of the Island of Guernsey”.
+**3.**[^c-e2a4a0cf028312573c47a4a317149ce9] In section 82 (enhanced criminal record certificates: additional safeguards) in subsection (3)(a) at the end of the inserted definition of “relevant chief officer” add “and the Chief Officer of the salaried Police Force of the Island of Guernsey”.
 
-**4.**[^key-349a642949ea3c1fa6598317a7ef5732] After section 84 insert the following section–
+**4.**[^c-349a642949ea3c1fa6598317a7ef5732] After section 84 insert the following section–
 
 > **84A. Consequential amendments, repeals and revocations**
 >
@@ -170,15 +170,15 @@ Article 4(1)
 >
 > (2) The provisions listed in Schedule 10 are repealed or (as the case may be) revoked to the extent specified.
 
-**5.**[^key-d66ae018d8d129274c3b9726db78b992] In section 87 (formation and constitution of DBS) omit subsection (3).
+**5.**[^c-d66ae018d8d129274c3b9726db78b992] In section 87 (formation and constitution of DBS) omit subsection (3).
 
-**6.**[^key-ad9072486fb1a2b7a74b4379a26dd178] In section 88 (transfer of functions to DBS and dissolution of ISA) for subsection (2) substitute—
+**6.**[^c-ad9072486fb1a2b7a74b4379a26dd178] In section 88 (transfer of functions to DBS and dissolution of ISA) for subsection (2) substitute—
 
 > (2) The Secretary of State may by order transfer to DBS any function of the Secretary of State under, or in connection with, Part 5 of the Police Act 1997 (criminal records).
 
 .
 
-**7.**[^key-758f068247a71cc6a18e9fa0ad5211c1] In section 89 (orders under section 88)—
+**7.**[^c-758f068247a71cc6a18e9fa0ad5211c1] In section 89 (orders under section 88)—
 
 - (a) omit subsections (2) to (4);
 - (b) for subsection (5) substitute—
@@ -196,24 +196,24 @@ Article 4(1)
 
 Article 4(3)
 
-**1.**[^key-ef33b3e3c54b7d355f241d81fd166062] Omit paragraphs 36 and 37.
+**1.**[^c-ef33b3e3c54b7d355f241d81fd166062] Omit paragraphs 36 and 37.
 
-**2.**[^key-6768e23fd6a720186a1c3ddb2c10eefd] Omit paragraphs 40 to 42.
+**2.**[^c-6768e23fd6a720186a1c3ddb2c10eefd] Omit paragraphs 40 to 42.
 
-**3.**[^key-be025ddf13f0752dd71eda6a0e3ba1ea] Omit paragraphs 43 to 103.
+**3.**[^c-be025ddf13f0752dd71eda6a0e3ba1ea] Omit paragraphs 43 to 103.
 
 ## SCHEDULE 3 — Modifications to Part 7 of Schedule 9 to the 2012 Act
 
 Article 4(4)
 
-**1.**[^key-63748915d0ac62b2679aa1599214aa16] In paragraph 109—
+**1.**[^c-63748915d0ac62b2679aa1599214aa16] In paragraph 109—
 
 - (a) in sub-paragraph (2)(b) for “, 117A” substitute “or 117A”;
 - (b) in sub-paragraph (3), in the inserted subsection (3A)—
   - (i) for the first reference to the “Secretary of State” substitute “Home Department of the States of Guernsey”;
   - (ii) after “fingerprints” insert “for transmission to the Secretary of State”.
 
-**2.**[^key-c8a56e51170f067d78da077d533a14eb] In paragraph 110—
+**2.**[^c-c8a56e51170f067d78da077d533a14eb] In paragraph 110—
 
 - (a) for sub-paragraph (2) substitute—
 
@@ -231,19 +231,19 @@ Article 4(4)
 
   .
 
-**3.**[^key-08f1511c72422b50e8e5a6e7a1293ae1] For paragraph 112 substitute—
+**3.**[^c-08f1511c72422b50e8e5a6e7a1293ae1] For paragraph 112 substitute—
 
 > **112.** (1) Section 120 (registered persons) is amended as follows.
 >
 > (2) In subsection 2, after paragraph (a) insert “and”.
 
-**4.**[^key-73d1374a66d6f6bee674e0792c50d98c] Omit paragraphs 113 and 114.
+**4.**[^c-73d1374a66d6f6bee674e0792c50d98c] Omit paragraphs 113 and 114.
 
-**5.**[^key-30aa39890478f5d922fa3fde401d97a1] Omit paragraph 117.
+**5.**[^c-30aa39890478f5d922fa3fde401d97a1] Omit paragraph 117.
 
-**6.**[^key-f6f03b4800a67b75a6b55cc1cf4ee042] Omit paragraphs 119 to 129.
+**6.**[^c-f6f03b4800a67b75a6b55cc1cf4ee042] Omit paragraphs 119 to 129.
 
-## SCHEDULE 4 — Modifications to Part 5 of Schedule 10 to the 2012 Act[^key-b281debc62885d40ece3a3c75583ba47]
+## SCHEDULE 4 — Modifications to Part 5 of Schedule 10 to the 2012 Act[^c-b281debc62885d40ece3a3c75583ba47]
 
 **No longer in force.**
 
@@ -251,11 +251,11 @@ Article 4(5)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Modifications to Part 6 of Schedule 10 to the 2012 Act[^key-5bbd6d6468a7c6ae8e16ac7102504d50]
+## SCHEDULE 5 — Modifications to Part 6 of Schedule 10 to the 2012 Act[^c-5bbd6d6468a7c6ae8e16ac7102504d50]
 
 Article 4(6)
 
-[^key-5bbd6d6468a7c6ae8e16ac7102504d50]
+[^c-5bbd6d6468a7c6ae8e16ac7102504d50]
 
 For Part 6 substitute—
 
@@ -332,52 +332,52 @@ An informal Keeling Schedule setting out the provisions of the 2012 Act as they 
 
 [^f00003]: Footnote: [2012 c. 9](https://www.legislation.gov.uk/ukpga/2012/9).
 
-[^key-95981fa24f93760d823091e756a207a4]: Commencement: Art. 1 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-95981fa24f93760d823091e756a207a4]: Commencement: Art. 1 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-57ba7c9262431b8a98f5aba76b668a6c]: Commencement: Art. 2 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-57ba7c9262431b8a98f5aba76b668a6c]: Commencement: Art. 2 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
 [^f00004]: Footnote: [S.I. 2009/3215](https://www.legislation.gov.uk/uksi/2009/3215).
 
-[^key-acfd13e637acc8b3d44b6c7a1baa198a]: Commencement: Art. 3 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-acfd13e637acc8b3d44b6c7a1baa198a]: Commencement: Art. 3 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-5f5cf665d95ac9ac5f2c569668596c55]: Commencement: Art. 4 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-5f5cf665d95ac9ac5f2c569668596c55]: Commencement: Art. 4 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-43985cfbee0648061db1d3d929414d55]: Textual amendment: Words in [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/1762/article/4/5) substituted (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Safeguarding Vulnerable Groups Act 2006 (Guernsey) Order 2025 (S.I. 2025/827)](https://www.legislation.gov.uk/uksi/2025/827), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/827/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/827/article/3/2)
+[^c-43985cfbee0648061db1d3d929414d55]: Textual amendment: Words in [art. 4(5)](https://www.legislation.gov.uk/uksi/2012/1762/article/4/5) substituted (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Safeguarding Vulnerable Groups Act 2006 (Guernsey) Order 2025 (S.I. 2025/827)](https://www.legislation.gov.uk/uksi/2025/827), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/827/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2025/827/article/3/2)
 
-[^key-a7ea19cc3c21558a9e6b061d0c39a685]: Commencement: Art. 5 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-a7ea19cc3c21558a9e6b061d0c39a685]: Commencement: Art. 5 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-faa1c81c7458eeaf3259af2b84de4a5d]: Commencement: Sch. 1 para. 1 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-faa1c81c7458eeaf3259af2b84de4a5d]: Commencement: Sch. 1 para. 1 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-e1c5195ca00f19711d5c410f9298b1e6]: Commencement: Sch. 1 para. 2 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-e1c5195ca00f19711d5c410f9298b1e6]: Commencement: Sch. 1 para. 2 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-e2a4a0cf028312573c47a4a317149ce9]: Commencement: Sch. 1 para. 3 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-e2a4a0cf028312573c47a4a317149ce9]: Commencement: Sch. 1 para. 3 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-349a642949ea3c1fa6598317a7ef5732]: Commencement: Sch. 1 para. 4 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-349a642949ea3c1fa6598317a7ef5732]: Commencement: Sch. 1 para. 4 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-d66ae018d8d129274c3b9726db78b992]: Commencement: Sch. 1 para. 5 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-d66ae018d8d129274c3b9726db78b992]: Commencement: Sch. 1 para. 5 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-ad9072486fb1a2b7a74b4379a26dd178]: Commencement: Sch. 1 para. 6 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-ad9072486fb1a2b7a74b4379a26dd178]: Commencement: Sch. 1 para. 6 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-758f068247a71cc6a18e9fa0ad5211c1]: Commencement: Sch. 1 para. 7 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-758f068247a71cc6a18e9fa0ad5211c1]: Commencement: Sch. 1 para. 7 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-ef33b3e3c54b7d355f241d81fd166062]: Commencement: Sch. 2 para. 1 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-ef33b3e3c54b7d355f241d81fd166062]: Commencement: Sch. 2 para. 1 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-6768e23fd6a720186a1c3ddb2c10eefd]: Commencement: Sch. 2 para. 2 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-6768e23fd6a720186a1c3ddb2c10eefd]: Commencement: Sch. 2 para. 2 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-be025ddf13f0752dd71eda6a0e3ba1ea]: Commencement: Sch. 2 para. 3 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-be025ddf13f0752dd71eda6a0e3ba1ea]: Commencement: Sch. 2 para. 3 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-63748915d0ac62b2679aa1599214aa16]: Commencement: Sch. 3 para. 1 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-63748915d0ac62b2679aa1599214aa16]: Commencement: Sch. 3 para. 1 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-c8a56e51170f067d78da077d533a14eb]: Commencement: Sch. 3 para. 2 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-c8a56e51170f067d78da077d533a14eb]: Commencement: Sch. 3 para. 2 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-08f1511c72422b50e8e5a6e7a1293ae1]: Commencement: Sch. 3 para. 3 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-08f1511c72422b50e8e5a6e7a1293ae1]: Commencement: Sch. 3 para. 3 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-73d1374a66d6f6bee674e0792c50d98c]: Commencement: Sch. 3 para. 4 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-73d1374a66d6f6bee674e0792c50d98c]: Commencement: Sch. 3 para. 4 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-30aa39890478f5d922fa3fde401d97a1]: Commencement: Sch. 3 para. 5 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-30aa39890478f5d922fa3fde401d97a1]: Commencement: Sch. 3 para. 5 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-f6f03b4800a67b75a6b55cc1cf4ee042]: Commencement: Sch. 3 para. 6 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-f6f03b4800a67b75a6b55cc1cf4ee042]: Commencement: Sch. 3 para. 6 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
 
-[^key-b281debc62885d40ece3a3c75583ba47]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/1762/schedule/4) omitted (coming into force in accordance with art. 1(1) of the amending S.I.) by virtue of [The Safeguarding Vulnerable Groups Act 2006 (Guernsey) Order 2025 (S.I. 2025/827)](https://www.legislation.gov.uk/uksi/2025/827), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/827/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/827/article/3/3)
+[^c-b281debc62885d40ece3a3c75583ba47]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2012/1762/schedule/4) omitted (coming into force in accordance with art. 1(1) of the amending S.I.) by virtue of [The Safeguarding Vulnerable Groups Act 2006 (Guernsey) Order 2025 (S.I. 2025/827)](https://www.legislation.gov.uk/uksi/2025/827), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/827/article/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2025/827/article/3/3)
 
-[^key-5bbd6d6468a7c6ae8e16ac7102504d50]: Commencement: Sch. 5 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)
+[^c-5bbd6d6468a7c6ae8e16ac7102504d50]: Commencement: Sch. 5 in force at 11.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1762/article/1/2)

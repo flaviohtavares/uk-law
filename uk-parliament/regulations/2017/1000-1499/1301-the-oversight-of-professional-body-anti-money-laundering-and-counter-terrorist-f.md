@@ -60,7 +60,7 @@ The Treasury, in exercise of the powers conferred by section 2(2) of that Act an
 
 In these Regulations—
 
-- [^key-4925e72f95f263e35511403d433523c8]...
+- [^c-4925e72f95f263e35511403d433523c8]...
 - “**the FCA**” means the Financial Conduct Authority;
 - “**fourth money laundering directive**” means Directive 2015/849/EU of the European Parliament and of the Council of 20th May 2015 on the prevention of the use of the financial system for the purposes of money laundering or terrorist financing [^c23094951];
 - “**FSMA**” means the Financial Services and Markets Act 2000 [^c23094961];
@@ -245,7 +245,7 @@ or by any person obtaining the information directly or indirectly from a primary
 - (a) it has been made available to the public by virtue of being disclosed in any circumstances in which, or for any purposes for which, disclosure is not precluded by this regulation; or
 - (b) it is in the form of a summary or collection of information so framed that it is not possible to ascertain from it information relating to any particular person.
 
-### 12. Disclosure[^key-cfdf295957dfcd110e45e8203360e3f0]
+### 12. Disclosure[^c-cfdf295957dfcd110e45e8203360e3f0]
 
 (1) The FCA may disclose information it holds, provided the disclosure is made—
 
@@ -325,7 +325,7 @@ or by any person obtaining the information directly or indirectly from a primary
 (4) In deciding whether to give a direction to a self-regulatory organisation, the FCA must consider whether at the time the self-regulatory organisation followed—
 
 - (a) any relevant guidance which was at the time issued by the FCA;
-- (b)[^key-ca0be04f4f3fb56496ad9a8a23babe2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-ca0be04f4f3fb56496ad9a8a23babe2a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Enforcement and appeals
 
@@ -357,7 +357,7 @@ the FCA may publish a statement censuring the self-regulatory organisation.
 (4) In deciding whether a self-regulatory organisation has failed to comply with a supervision requirement, the FCA must consider whether at the time the self-regulatory organisation followed—
 
 - (a) any relevant guidance which was at the time issued by the FCA;
-- (b)[^key-a547887d713243207c4f2b86a909421b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a547887d713243207c4f2b86a909421b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 17. Recommendation for removal from Schedule 1 to the MLR
 
@@ -380,7 +380,7 @@ the FCA may make a recommendation to the Treasury that the self-regulatory organ
 (4) In deciding whether a self-regulatory organisation has failed to comply with a supervision requirement, the FCA must consider whether at the time the self-regulatory organisation followed—
 
 - (a) any relevant guidance which was at the time issued by the FCA;
-- (b)[^key-e880cec4ceab67e5d9ac7df8d99e42ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-e880cec4ceab67e5d9ac7df8d99e42ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The Treasury must take the FCA's recommendation for removal into account when deciding whether to make regulations removing a self-regulatory organisation from Schedule 1 to the MLR.
 
@@ -622,7 +622,7 @@ A full regulatory impact statement of the effect that the Regulations will have 
 
 [^c23094941]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 168(4)(b) was amended by the [Financial Services Act 2012 (c.21)](https://www.legislation.gov.uk/ukpga/2012/21), [Schedule 12](https://www.legislation.gov.uk/ukpga/2012/21/schedule/12), [Part 1](https://www.legislation.gov.uk/ukpga/2012/21/part/1). Section 402(1) was amended by the Financial Services Act 2012, Schedule 9, Parts 1 and 7.
 
-[^key-4925e72f95f263e35511403d433523c8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/1301/regulation/2) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2019/253/regulation/13/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4925e72f95f263e35511403d433523c8]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2017/1301/regulation/2) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [13(a)](https://www.legislation.gov.uk/uksi/2019/253/regulation/13/a) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23094951]: Marginal citation: OJ L 141, 05.06.15, p. 73.
 
@@ -638,13 +638,13 @@ A full regulatory impact statement of the effect that the Regulations will have 
 
 [^c23095011]: Marginal citation: [1995 c.39](https://www.legislation.gov.uk/ukpga/1995/39).
 
-[^key-cfdf295957dfcd110e45e8203360e3f0]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/1301/regulation/12) substituted (10.1.2019) by [The Money Laundering and Terrorist Financing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1337)](https://www.legislation.gov.uk/uksi/2018/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/5/2)
+[^c-cfdf295957dfcd110e45e8203360e3f0]: Textual amendment: [Reg. 12](https://www.legislation.gov.uk/uksi/2017/1301/regulation/12) substituted (10.1.2019) by [The Money Laundering and Terrorist Financing (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/1337)](https://www.legislation.gov.uk/uksi/2018/1337), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2018/1337/regulation/5/2)
 
-[^key-ca0be04f4f3fb56496ad9a8a23babe2a]: Textual amendment: [Reg. 14(4)(b)](https://www.legislation.gov.uk/uksi/2017/1301/regulation/14/4/b) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2019/253/regulation/13/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ca0be04f4f3fb56496ad9a8a23babe2a]: Textual amendment: [Reg. 14(4)(b)](https://www.legislation.gov.uk/uksi/2017/1301/regulation/14/4/b) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [13(b)](https://www.legislation.gov.uk/uksi/2019/253/regulation/13/b) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a547887d713243207c4f2b86a909421b]: Textual amendment: [Reg. 16(4)(b)](https://www.legislation.gov.uk/uksi/2017/1301/regulation/16/4/b) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [13(c)](https://www.legislation.gov.uk/uksi/2019/253/regulation/13/c) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a547887d713243207c4f2b86a909421b]: Textual amendment: [Reg. 16(4)(b)](https://www.legislation.gov.uk/uksi/2017/1301/regulation/16/4/b) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [13(c)](https://www.legislation.gov.uk/uksi/2019/253/regulation/13/c) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e880cec4ceab67e5d9ac7df8d99e42ca]: Textual amendment: [Reg. 17(4)(b)](https://www.legislation.gov.uk/uksi/2017/1301/regulation/17/4/b) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [13(d)](https://www.legislation.gov.uk/uksi/2019/253/regulation/13/d) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e880cec4ceab67e5d9ac7df8d99e42ca]: Textual amendment: [Reg. 17(4)(b)](https://www.legislation.gov.uk/uksi/2017/1301/regulation/17/4/b) omitted (31.12.2020) by virtue of [The Money Laundering and Transfer of Funds (Information) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/253)](https://www.legislation.gov.uk/uksi/2019/253), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/253/regulation/1/2), [13(d)](https://www.legislation.gov.uk/uksi/2019/253/regulation/13/d) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23095031]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 387 was amended by paragraph 26 of Schedule 9 to the Financial Services Act 2012 and paragraph 12 of Schedule 3 to the [Financial Services (Banking Reform) Act 2013 (c.33)](https://www.legislation.gov.uk/ukpga/2013/33).
 

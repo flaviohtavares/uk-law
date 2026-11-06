@@ -46,14 +46,14 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by section 17(3)(e) of the Marine and Coastal Access Act 2009[^f00001].
 
-## 1. Title and commencement[^key-1c49678abc8e50d8faeee0b10c551ac5]
+## 1. Title and commencement[^c-1c49678abc8e50d8faeee0b10c551ac5]
 
 This Order—
 
 - (a) may be cited as the Marine Management Organisation (Prescription of Powers to Fix Fees and Charges) Order 2010; and
 - (b) comes into force on 1st April 2010.
 
-## 2. Prescription of powers to fix fees and charges[^key-d8eb21bf0823321bc96e4beb5c9e1ebb]
+## 2. Prescription of powers to fix fees and charges[^c-d8eb21bf0823321bc96e4beb5c9e1ebb]
 
 Any power of the Secretary of State to fix a fee or charge contained in the provisions set out in the Schedule is prescribed for the purposes of section 17 of the Marine and Coastal Access Act 2009.
 
@@ -65,7 +65,7 @@ Department for Environment, Food and Rural Affairs
 
 1st March 2010
 
-## SCHEDULE[^key-e00a409743ddfe46b7c5e8579a91dcff]
+## SCHEDULE[^c-e00a409743ddfe46b7c5e8579a91dcff]
 
 Article 2
 
@@ -102,9 +102,9 @@ Article 2
 | Schedule 2, paragraph 2(2) | To require a reasonable advance payment in respect of fees for a screening opinion; to require payment of the determined balance of a fee payable for producing a screening opinion |
 | Schedule 4, paragraph 3(1) | To require an applicant to pay a reasonable fee for administrative expenses incurred in producing a scoping opinion; to charge a reasonable fee for carrying out examinations and tests necessary or expedient for the production of a scoping opinion |
 | Schedule 4, paragraph 3(2) | To require a reasonable advance payment in respect of fees for a scoping opinion; to require payment of the determined balance of a fee payable for producing a scoping opinion |
-| ***The Conservation of Habitats and Species Regulations 2017[^key-5a43b9bf0e8fe86fa5a04a2671080ac8]*** |  |
-| Regulation 57(5)[^key-1db66edd519072f35f0cb78252867b1c] | To charge a reasonable sum for a licence issued under regulation 55(1) for a purpose specified in any of sub-paragraphs (e) to (g) of paragraph (2) of that regulation, regulation 55(4) or regulation 56[^key-fc5ae649cd12cc86809f8313aacefc7d] |
-| **Conservation of Offshore Marine Habitats and Species Regulations 2017[^key-c21bac7d52bc606d9d4ce3445c50cb1b]** |  |
+| ***The Conservation of Habitats and Species Regulations 2017[^c-5a43b9bf0e8fe86fa5a04a2671080ac8]*** |  |
+| Regulation 57(5)[^c-1db66edd519072f35f0cb78252867b1c] | To charge a reasonable sum for a licence issued under regulation 55(1) for a purpose specified in any of sub-paragraphs (e) to (g) of paragraph (2) of that regulation, regulation 55(4) or regulation 56[^c-fc5ae649cd12cc86809f8313aacefc7d] |
+| **Conservation of Offshore Marine Habitats and Species Regulations 2017[^c-c21bac7d52bc606d9d4ce3445c50cb1b]** |  |
 | Regulation 55(14) | To charge a reasonable sum for a licence issued under regulation 55 |
 
 EXPLANATORY NOTE
@@ -121,11 +121,11 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00001]: Footnote: [2009 c. 23](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-1c49678abc8e50d8faeee0b10c551ac5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/603/article/1) in force at 1.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/603/article/1/b)
+[^c-1c49678abc8e50d8faeee0b10c551ac5]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2010/603/article/1) in force at 1.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/603/article/1/b)
 
-[^key-d8eb21bf0823321bc96e4beb5c9e1ebb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/603/article/2) in force at 1.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/603/article/1/b)
+[^c-d8eb21bf0823321bc96e4beb5c9e1ebb]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2010/603/article/2) in force at 1.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/603/article/1/b)
 
-[^key-e00a409743ddfe46b7c5e8579a91dcff]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) in force at 1.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/603/article/1/b)
+[^c-e00a409743ddfe46b7c5e8579a91dcff]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) in force at 1.4.2010, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2010/603/article/1/b)
 
 [^f00002]: Footnote: [1949 c. 74](https://www.legislation.gov.uk/ukpga/1949/74), as amended by the Merchant Shipping Act [1988 (c. 12)](https://www.legislation.gov.uk/ukpga/1988/12), section 36.
 
@@ -135,10 +135,10 @@ An impact assessment has not been produced for this instrument as no impact on t
 
 [^f00005]: Footnote: [S.I. 2007/1067](https://www.legislation.gov.uk/uksi/2007/1067).
 
-[^key-5a43b9bf0e8fe86fa5a04a2671080ac8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 17(a)(i)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/17/a/i)
+[^c-5a43b9bf0e8fe86fa5a04a2671080ac8]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 17(a)(i)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/17/a/i)
 
-[^key-1db66edd519072f35f0cb78252867b1c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 17(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/17/a/ii)
+[^c-1db66edd519072f35f0cb78252867b1c]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 17(a)(ii)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/17/a/ii)
 
-[^key-fc5ae649cd12cc86809f8313aacefc7d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 17(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/17/b)
+[^c-fc5ae649cd12cc86809f8313aacefc7d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) substituted (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 6 para. 17(b)](https://www.legislation.gov.uk/uksi/2017/1012/schedule/6/paragraph/17/b)
 
-[^key-c21bac7d52bc606d9d4ce3445c50cb1b]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) table entry substituted (30.11.2017) by virtue of [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/5/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))
+[^c-c21bac7d52bc606d9d4ce3445c50cb1b]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2010/603/schedule) table entry substituted (30.11.2017) by virtue of [The Conservation of Offshore Marine Habitats and Species Regulations 2017 (S.I. 2017/1013)](https://www.legislation.gov.uk/uksi/2017/1013), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1013/regulation/1), [Sch. 4 para. 5(2)](https://www.legislation.gov.uk/uksi/2017/1013/schedule/4/paragraph/5/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/1013/regulation/3), [4(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/4/2))

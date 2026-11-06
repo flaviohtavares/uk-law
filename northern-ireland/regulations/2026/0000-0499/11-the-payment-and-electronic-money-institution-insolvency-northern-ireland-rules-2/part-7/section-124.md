@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 124. Appeal against decision on proof[^key-5e7e9feedd9f205c623113e2ca32f26f]
+## 124. Appeal against decision on proof[^c-5e7e9feedd9f205c623113e2ca32f26f]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e7e9feedd9f205c623113e2ca32f26f]: Commencement: [Rule 124](https://www.legislation.gov.uk/nisr/2026/11/rule/124) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-5e7e9feedd9f205c623113e2ca32f26f]: Commencement: [Rule 124](https://www.legislation.gov.uk/nisr/2026/11/rule/124) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Deemed commencement of chargeable development[^key-1f999e6a99a7ab7b2b510ce8cc18a879]
+## 68. Deemed commencement of chargeable development[^c-1f999e6a99a7ab7b2b510ce8cc18a879]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A collecting authority must determine the day on which a chargeable development 
 
 ## Annotations
 
-[^key-1f999e6a99a7ab7b2b510ce8cc18a879]: Commencement: Reg. 68 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-1f999e6a99a7ab7b2b510ce8cc18a879]: Commencement: Reg. 68 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

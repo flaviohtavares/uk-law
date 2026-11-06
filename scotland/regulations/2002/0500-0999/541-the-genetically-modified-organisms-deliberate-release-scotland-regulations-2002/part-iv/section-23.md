@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Duties of the Scottish Ministers in relation to applications for consent to market[^key-03075ab19152343c712ddbe27b5546d4]
+## 23. Duties of the Scottish Ministers in relation to applications for consent to market[^c-03075ab19152343c712ddbe27b5546d4]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03075ab19152343c712ddbe27b5546d4]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/ssi/2002/541/regulation/23) substituted (31.12.2020) by [The Genetically Modified Organisms (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/57)](https://www.legislation.gov.uk/ssi/2019/57), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/57/regulation/1/2/b), [3(10)](https://www.legislation.gov.uk/ssi/2019/57/regulation/3/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03075ab19152343c712ddbe27b5546d4]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/ssi/2002/541/regulation/23) substituted (31.12.2020) by [The Genetically Modified Organisms (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/57)](https://www.legislation.gov.uk/ssi/2019/57), [regs. 1(2)(b)](https://www.legislation.gov.uk/ssi/2019/57/regulation/1/2/b), [3(10)](https://www.legislation.gov.uk/ssi/2019/57/regulation/3/10); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

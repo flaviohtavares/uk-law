@@ -48,11 +48,11 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 88(2) of that Act, they have consulted with the Secretary of State.
 
-## 1. Citation and commencement[^key-ee22d8165776a8f46fd1e3a95b1f0488]
+## 1. Citation and commencement[^c-ee22d8165776a8f46fd1e3a95b1f0488]
 
 These Regulations may be cited as the Serious Crime Act 2015 (Commencement No. 1 and Saving Provision) (Scotland) Regulations 2016 and come into force on 1st March 2016.
 
-## 2. Appointed day[^key-544260d2e43b4e95e6c637570461b266]
+## 2. Appointed day[^c-544260d2e43b4e95e6c637570461b266]
 
 1st March 2016 is the day appointed for the coming into force of the following provisions of the Serious Crime Act 2015 (“the Act”)—
 
@@ -67,7 +67,7 @@ These Regulations may be cited as the Serious Crime Act 2015 (Commencement No. 1
 - (i) section 85(1) (minor and consequential amendments), so far as it relates to the provisions mentioned in paragraph (j) of this regulation; and
 - (j) paragraphs 16, 35, 42, 43 and 45 of Schedule 4 (minor and consequential amendments).
 
-## 3. Saving provision[^key-c33b47b945c95332515292bb587a5d19]
+## 3. Saving provision[^c-c33b47b945c95332515292bb587a5d19]
 
 (1) Despite regulation 2(d), (i) and (j), the amendments mentioned in paragraph (2) have no effect in relation to a default of payment of a sum payable under a relevant confiscation order.
 
@@ -131,10 +131,10 @@ Certain provisions of the Act have been brought into force by commencement regul
 
 [^f00001]: Footnote: [2015 c.9](https://www.legislation.gov.uk/ukpga/2015/9).
 
-[^key-ee22d8165776a8f46fd1e3a95b1f0488]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/11/regulation/1) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/11/regulation/1)
+[^c-ee22d8165776a8f46fd1e3a95b1f0488]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2016/11/regulation/1) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/11/regulation/1)
 
-[^key-544260d2e43b4e95e6c637570461b266]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/11/regulation/2) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/11/regulation/1)
+[^c-544260d2e43b4e95e6c637570461b266]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2016/11/regulation/2) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/11/regulation/1)
 
-[^key-c33b47b945c95332515292bb587a5d19]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/11/regulation/3) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/11/regulation/1)
+[^c-c33b47b945c95332515292bb587a5d19]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2016/11/regulation/3) in force at 1.3.2016, see [reg. 1](https://www.legislation.gov.uk/ssi/2016/11/regulation/1)
 
 [^f00002]: Footnote: [2002 c.29](https://www.legislation.gov.uk/ukpga/2002/29).

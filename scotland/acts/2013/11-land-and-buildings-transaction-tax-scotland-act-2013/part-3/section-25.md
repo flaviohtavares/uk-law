@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Amount of tax chargeable[^key-af6f990ac2b433f702a3513abb3c8954]
+## 25. Amount of tax chargeable[^c-af6f990ac2b433f702a3513abb3c8954]
 
 *Extent: S*
 
@@ -29,19 +29,19 @@ summary: ''
 
 (3) This section is subject to—
 
-- (za)[^key-5229364daa797f7130f08fa977767c3a] schedule 2A (additional amount: transactions relating to second homes etc. ),
-- (zb)[^key-5b34d7940e297ad7a72ad0c87782b0d4] schedule 4A (first-time buyer relief),
+- (za)[^c-5229364daa797f7130f08fa977767c3a] schedule 2A (additional amount: transactions relating to second homes etc. ),
+- (zb)[^c-5b34d7940e297ad7a72ad0c87782b0d4] schedule 4A (first-time buyer relief),
 - (a) schedule 5 (multiple dwellings relief),
 - (b) schedule 9 (crofting community right to buy relief),
-- (ba)[^key-3112a6123055c66bb8cf242c21f53f49] schedule 10A (sub-sale development relief),
+- (ba)[^c-3112a6123055c66bb8cf242c21f53f49] schedule 10A (sub-sale development relief),
 - (c) Part 3 of schedule 11 (acquisition relief).
 
 ## Annotations
 
-[^key-af6f990ac2b433f702a3513abb3c8954]: Commencement: S. 25 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-af6f990ac2b433f702a3513abb3c8954]: Commencement: S. 25 in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
 
-[^key-5229364daa797f7130f08fa977767c3a]: Textual amendment: S. 25(3)(za) inserted (1.4.2016) by [Land and Buildings Transaction Tax (Amendment) (Scotland) Act 2016 (asp 11)](https://www.legislation.gov.uk/asp/2016/11), [ss. 2(1)(a)](https://www.legislation.gov.uk/asp/2016/11/section/2/1/a), [5(2)](https://www.legislation.gov.uk/asp/2016/11/section/5/2) (with [s. 3](https://www.legislation.gov.uk/asp/2016/11/section/3))
+[^c-5229364daa797f7130f08fa977767c3a]: Textual amendment: S. 25(3)(za) inserted (1.4.2016) by [Land and Buildings Transaction Tax (Amendment) (Scotland) Act 2016 (asp 11)](https://www.legislation.gov.uk/asp/2016/11), [ss. 2(1)(a)](https://www.legislation.gov.uk/asp/2016/11/section/2/1/a), [5(2)](https://www.legislation.gov.uk/asp/2016/11/section/5/2) (with [s. 3](https://www.legislation.gov.uk/asp/2016/11/section/3))
 
-[^key-5b34d7940e297ad7a72ad0c87782b0d4]: Textual amendment: [S. 25(3)(zb)](https://www.legislation.gov.uk/asp/2013/11/section/25/3/zb) inserted (30.6.2018) by [The Land and Buildings Transaction Tax (First-Time Buyer Relief) (Scotland) Order 2018 (S.S.I. 2018/221)](https://www.legislation.gov.uk/ssi/2018/221), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2018/221/article/1/1), [2](https://www.legislation.gov.uk/ssi/2018/221/article/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2018/221/article/6))
+[^c-5b34d7940e297ad7a72ad0c87782b0d4]: Textual amendment: [S. 25(3)(zb)](https://www.legislation.gov.uk/asp/2013/11/section/25/3/zb) inserted (30.6.2018) by [The Land and Buildings Transaction Tax (First-Time Buyer Relief) (Scotland) Order 2018 (S.S.I. 2018/221)](https://www.legislation.gov.uk/ssi/2018/221), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2018/221/article/1/1), [2](https://www.legislation.gov.uk/ssi/2018/221/article/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2018/221/article/6))
 
-[^key-3112a6123055c66bb8cf242c21f53f49]: Textual amendment: S. 25(3)(ba) inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Sub-sale Development Relief and Multiple Dwellings Relief) (Scotland) Order 2015 (S.S.I. 2015/123)](https://www.legislation.gov.uk/ssi/2015/123), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/123/article/1/1), [2](https://www.legislation.gov.uk/ssi/2015/123/article/2)
+[^c-3112a6123055c66bb8cf242c21f53f49]: Textual amendment: S. 25(3)(ba) inserted (1.4.2015) by [The Land and Buildings Transaction Tax (Sub-sale Development Relief and Multiple Dwellings Relief) (Scotland) Order 2015 (S.S.I. 2015/123)](https://www.legislation.gov.uk/ssi/2015/123), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2015/123/article/1/1), [2](https://www.legislation.gov.uk/ssi/2015/123/article/2)

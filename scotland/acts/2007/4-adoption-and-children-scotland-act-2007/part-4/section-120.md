@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: S*
 
-(1)[^key-2c320cf7facbfa205bc3ac89e5e3099f][^key-df847e07d14b77df8009327ea4107127] Schedule 2 (which contains minor amendments and amendments consequential on the provisions of this Act) has effect.
+(1)[^c-2c320cf7facbfa205bc3ac89e5e3099f][^c-df847e07d14b77df8009327ea4107127] Schedule 2 (which contains minor amendments and amendments consequential on the provisions of this Act) has effect.
 
-(2)[^key-d1b1c5ba59f520693c338d15795417b2] The enactments mentioned in the first column in schedule 3 (which include enactments that are spent) are repealed to the extent set out in the second column.
+(2)[^c-d1b1c5ba59f520693c338d15795417b2] The enactments mentioned in the first column in schedule 3 (which include enactments that are spent) are repealed to the extent set out in the second column.
 
 ## Annotations
 
-[^key-2c320cf7facbfa205bc3ac89e5e3099f]: Commencement: [S. 120(1)](https://www.legislation.gov.uk/asp/2007/4/section/120/1) in force at 7.4.2008 for specified purposes by [S.S.I. 2008/130](https://www.legislation.gov.uk/ssi/2008/130), [art. 2](https://www.legislation.gov.uk/ssi/2008/130/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2008/130/schedule)
+[^c-2c320cf7facbfa205bc3ac89e5e3099f]: Commencement: [S. 120(1)](https://www.legislation.gov.uk/asp/2007/4/section/120/1) in force at 7.4.2008 for specified purposes by [S.S.I. 2008/130](https://www.legislation.gov.uk/ssi/2008/130), [art. 2](https://www.legislation.gov.uk/ssi/2008/130/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2008/130/schedule)
 
-[^key-df847e07d14b77df8009327ea4107127]: Commencement: [S. 120(1)](https://www.legislation.gov.uk/asp/2007/4/section/120/1) in force at 28.9.2009 in so far as not already in force by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)
+[^c-df847e07d14b77df8009327ea4107127]: Commencement: [S. 120(1)](https://www.legislation.gov.uk/asp/2007/4/section/120/1) in force at 28.9.2009 in so far as not already in force by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)
 
-[^key-d1b1c5ba59f520693c338d15795417b2]: Commencement: [S. 120(2)](https://www.legislation.gov.uk/asp/2007/4/section/120/2) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)
+[^c-d1b1c5ba59f520693c338d15795417b2]: Commencement: [S. 120(2)](https://www.legislation.gov.uk/asp/2007/4/section/120/2) in force at 28.9.2009 by [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by S.S.I. 2012/99, art. 2)

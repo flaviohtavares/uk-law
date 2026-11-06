@@ -31,7 +31,7 @@ summary: ''
 
 CONSUMER PROTECTION
 
-The Pedal Bicycles (Safety) Regulations 2003 (revoked)[^key-de53318460953c0f339f890f5e50a79e]
+The Pedal Bicycles (Safety) Regulations 2003 (revoked)[^c-de53318460953c0f339f890f5e50a79e]
 
 Made
 
@@ -45,52 +45,52 @@ Coming into force
 
 1st May 2004
 
-[^key-de53318460953c0f339f890f5e50a79e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de53318460953c0f339f890f5e50a79e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-de53318460953c0f339f890f5e50a79e]
+## 1. Citation and commencement[^c-de53318460953c0f339f890f5e50a79e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revocation[^key-de53318460953c0f339f890f5e50a79e]
+## 2. Revocation[^c-de53318460953c0f339f890f5e50a79e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-de53318460953c0f339f890f5e50a79e]
+## 3. Interpretation[^c-de53318460953c0f339f890f5e50a79e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Supply of new bicycles[^key-de53318460953c0f339f890f5e50a79e]
+## 4. Supply of new bicycles[^c-de53318460953c0f339f890f5e50a79e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Supply of bicycles with unassembled parts[^key-de53318460953c0f339f890f5e50a79e]
+## 5. Supply of bicycles with unassembled parts[^c-de53318460953c0f339f890f5e50a79e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemptions to regulation 4[^key-de53318460953c0f339f890f5e50a79e]
+## 6. Exemptions to regulation 4[^c-de53318460953c0f339f890f5e50a79e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Exemptions to regulation 5[^key-de53318460953c0f339f890f5e50a79e]
+## 7. Exemptions to regulation 5[^c-de53318460953c0f339f890f5e50a79e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Equivalent standards[^key-de53318460953c0f339f890f5e50a79e]
+## 8. Equivalent standards[^c-de53318460953c0f339f890f5e50a79e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Commencement of proceedings[^key-de53318460953c0f339f890f5e50a79e]
+## 9. Commencement of proceedings[^c-de53318460953c0f339f890f5e50a79e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-de53318460953c0f339f890f5e50a79e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de53318460953c0f339f890f5e50a79e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-de53318460953c0f339f890f5e50a79e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-de53318460953c0f339f890f5e50a79e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-de53318460953c0f339f890f5e50a79e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/1101) revoked (6.4.2011) by [The Pedal Bicycles (Safety) Regulations 2010 (S.I. 2010/198)](https://www.legislation.gov.uk/uksi/2010/198), [regs. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2010/198/regulation/7/1) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2010/198/regulation/7/2))
+[^c-de53318460953c0f339f890f5e50a79e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2003/1101) revoked (6.4.2011) by [The Pedal Bicycles (Safety) Regulations 2010 (S.I. 2010/198)](https://www.legislation.gov.uk/uksi/2010/198), [regs. 1](https://www.legislation.gov.uk/uksi/2010/198/regulation/1), [7(1)](https://www.legislation.gov.uk/uksi/2010/198/regulation/7/1) (with [reg. 7(2)](https://www.legislation.gov.uk/uksi/2010/198/regulation/7/2))

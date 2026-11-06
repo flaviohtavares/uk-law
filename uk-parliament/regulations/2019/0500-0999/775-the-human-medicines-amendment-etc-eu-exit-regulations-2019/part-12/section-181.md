@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 181. Amendment of regulation 216 (exceptions to regulation 215)[^key-f88d0c5399e825350df992836c58ca56]
+## 181. Amendment of regulation 216 (exceptions to regulation 215)[^c-f88d0c5399e825350df992836c58ca56]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 216(2), for “EEA health professional” substitute “ approved 
 
 ## Annotations
 
-[^key-f88d0c5399e825350df992836c58ca56]: Commencement: Reg. 181 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-f88d0c5399e825350df992836c58ca56]: Commencement: Reg. 181 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

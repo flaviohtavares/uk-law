@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Non-receipt of notice of meeting[^key-e71b3448551dd6657d9e3101a07d44e4]
+## 42. Non-receipt of notice of meeting[^c-e71b3448551dd6657d9e3101a07d44e4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where, in accordance with the Regulations or these Rules, a meeting is summoned 
 
 ## Annotations
 
-[^key-e71b3448551dd6657d9e3101a07d44e4]: Commencement: Rule 42 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-e71b3448551dd6657d9e3101a07d44e4]: Commencement: Rule 42 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

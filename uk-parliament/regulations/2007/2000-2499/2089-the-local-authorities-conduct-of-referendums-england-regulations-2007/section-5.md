@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Restriction on publication etc. of promotional material[^key-b000d58b98d54476528f1dbf094b72ae]
+## 5. Restriction on publication etc. of promotional material[^c-b000d58b98d54476528f1dbf094b72ae]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b000d58b98d54476528f1dbf094b72ae]: Commencement: Reg. 5 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-b000d58b98d54476528f1dbf094b72ae]: Commencement: Reg. 5 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
 
 [^f00016]: Footnote: [1990 c. 42](https://www.legislation.gov.uk/ukpga/1990/42). Section 201, containing the definition of programme service, was amended by section 360 of and Schedule 19 to the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).

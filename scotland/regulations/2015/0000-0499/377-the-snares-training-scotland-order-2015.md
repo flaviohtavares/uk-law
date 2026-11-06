@@ -32,7 +32,7 @@ summary: ''
 
 Wildlife
 
-The Snares (Training) (Scotland) Order 2015 (revoked)[^key-fb2a118c70fc31b023db828f0923d534]
+The Snares (Training) (Scotland) Order 2015 (revoked)[^c-fb2a118c70fc31b023db828f0923d534]
 
 Made
 
@@ -46,31 +46,31 @@ Coming into force
 
 1st January 2016
 
-[^key-fb2a118c70fc31b023db828f0923d534]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb2a118c70fc31b023db828f0923d534]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fb2a118c70fc31b023db828f0923d534]
+## 1. Citation and commencement[^c-fb2a118c70fc31b023db828f0923d534]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fb2a118c70fc31b023db828f0923d534]
+## 2. Interpretation[^c-fb2a118c70fc31b023db828f0923d534]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Training certificates[^key-fb2a118c70fc31b023db828f0923d534]
+## 3. Training certificates[^c-fb2a118c70fc31b023db828f0923d534]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-fb2a118c70fc31b023db828f0923d534]
+## 4. Revocation[^c-fb2a118c70fc31b023db828f0923d534]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fb2a118c70fc31b023db828f0923d534]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb2a118c70fc31b023db828f0923d534]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Approved bodies[^key-fb2a118c70fc31b023db828f0923d534]
+## SCHEDULE — Approved bodies[^c-fb2a118c70fc31b023db828f0923d534]
 
 Article 2
 
@@ -78,8 +78,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-fb2a118c70fc31b023db828f0923d534]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fb2a118c70fc31b023db828f0923d534]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fb2a118c70fc31b023db828f0923d534]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2015/377) revoked (25.11.2024) by [The Wildlife Management (Consequential Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/268)](https://www.legislation.gov.uk/ssi/2024/268), [regs. 1](https://www.legislation.gov.uk/ssi/2024/268/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2024/268/regulation/3/b)
+[^c-fb2a118c70fc31b023db828f0923d534]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2015/377) revoked (25.11.2024) by [The Wildlife Management (Consequential Amendments) (Scotland) Regulations 2024 (S.S.I. 2024/268)](https://www.legislation.gov.uk/ssi/2024/268), [regs. 1](https://www.legislation.gov.uk/ssi/2024/268/regulation/1), [3(b)](https://www.legislation.gov.uk/ssi/2024/268/regulation/3/b)

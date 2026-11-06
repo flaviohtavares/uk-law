@@ -43,15 +43,15 @@ shall be guilty of an offence and liable—
 - (i) on summary conviction, to a fine not exceeding the statutory maximum;
 - (ii) on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years or to both.
 
-(4ZA)[^key-ddff21c14b6e6bc51956666142879378] Proceedings for an offence under subsection (4) above may not be instituted against a person who has paid a penalty in respect of the same failure by virtue of regulations made under section 22A.
+(4ZA)[^c-ddff21c14b6e6bc51956666142879378] Proceedings for an offence under subsection (4) above may not be instituted against a person who has paid a penalty in respect of the same failure by virtue of regulations made under section 22A.
 
-(4A)[^c794568] Where a person is convicted of an offence under subsection (4)(a) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he shall be guilty of a further offence and liable on summary conviction to a fine not exceeding £100[^key-55e0497f4cca09269fca45de9d45c064] for each day on which the failure continues.
+(4A)[^c794568] Where a person is convicted of an offence under subsection (4)(a) above, then, if without reasonable excuse the failure in respect of which he was convicted is continued after the conviction, he shall be guilty of a further offence and liable on summary conviction to a fine not exceeding £100[^c-55e0497f4cca09269fca45de9d45c064] for each day on which the failure continues.
 
 (5) Subsection (3) above shall have effect without prejudice to the operation, in relation to any offence under this Act—
 
-- (a) in England and Wales, of sections 17, 24 and[^c794569] 24A[^key-193ce6c6ce77e4f97671085aa48b2d38] of the Police and Criminal Evidence Act 1984 (which confer power to arrest without warrant and to enter premises for the purpose of making an arrest) or of section 3 of the Criminal Law Act 1967(use of force in making arrest etc.); or
+- (a) in England and Wales, of sections 17, 24 and[^c794569] 24A[^c-193ce6c6ce77e4f97671085aa48b2d38] of the Police and Criminal Evidence Act 1984 (which confer power to arrest without warrant and to enter premises for the purpose of making an arrest) or of section 3 of the Criminal Law Act 1967(use of force in making arrest etc.); or
 - (b) in Scotland, of any rule of law relating to power to arrest without warrant; or
-- (c) in Northern Ireland, of Articles 19, 26 and[^c794570] 27 *(Extent: N.I.)* *(affected by repeal, see note)*[^key-12c9c56f3fa94429c63b6a479fb89694] 26A *(Extent: N.I.)* of the Police and Criminal Evidence (Northern Ireland) Order 1989 or of section3 of the [^c794571]Criminal Law Act (Northern Ireland) 1967.
+- (c) in Northern Ireland, of Articles 19, 26 and[^c794570] 27 *(Extent: N.I.)* *(affected by repeal, see note)*[^c-12c9c56f3fa94429c63b6a479fb89694] 26A *(Extent: N.I.)* of the Police and Criminal Evidence (Northern Ireland) Order 1989 or of section3 of the [^c794571]Criminal Law Act (Northern Ireland) 1967.
 
 ## Annotations
 
@@ -65,18 +65,18 @@ shall be guilty of an offence and liable—
 
 [^c794567]: Textual amendment: Words substituted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31), [s. 8](https://www.legislation.gov.uk/ukpga/1990/31/section/8), [Sch. 1 para. 5(2)(b)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/5/2/b)
 
-[^key-ddff21c14b6e6bc51956666142879378]: Textual amendment: S. 13(4ZA) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 11(5)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/11/5)
+[^c-ddff21c14b6e6bc51956666142879378]: Textual amendment: S. 13(4ZA) inserted (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [s. 52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5), [Sch. 5 para. 11(5)](https://www.legislation.gov.uk/ukpga/2015/6/schedule/5/paragraph/11/5)
 
 [^c794568]: Textual amendment: S. 13(4A) inserted (with saving) by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31), [s. 8](https://www.legislation.gov.uk/ukpga/1990/31/section/8), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/5/3)
 
-[^key-55e0497f4cca09269fca45de9d45c064]: Textual amendment: Word in s. 13(4A) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2010/902/regulation/7/b)
+[^c-55e0497f4cca09269fca45de9d45c064]: Textual amendment: Word in s. 13(4A) substituted (29.4.2010) by [The Aviation Security Regulations 2010 (S.I. 2010/902)](https://www.legislation.gov.uk/uksi/2010/902), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/902/regulation/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2010/902/regulation/7/b)
 
 [^c794569]: Textual amendment: Words substituted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31), [s. 8](https://www.legislation.gov.uk/ukpga/1990/31/section/8), [Sch. 1 para. 5(4)(a)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/5/4/a)
 
-[^key-193ce6c6ce77e4f97671085aa48b2d38]: Textual amendment: Word in s. 13(5)(a) substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 57](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/57); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)
+[^c-193ce6c6ce77e4f97671085aa48b2d38]: Textual amendment: Word in s. 13(5)(a) substituted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [s. 178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8), [Sch. 7 para. 57](https://www.legislation.gov.uk/ukpga/2005/15/schedule/7/paragraph/57); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(m)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/m)
 
 [^c794570]: Textual amendment: Words substituted by [Aviation and Maritime Security Act 1990 (c. 31, SIF 39:2)](https://www.legislation.gov.uk/ukpga/1990/31), [s. 8](https://www.legislation.gov.uk/ukpga/1990/31/section/8), [Sch. 1 para. 5(4)(b)](https://www.legislation.gov.uk/ukpga/1990/31/schedule/1/paragraph/5/4/b)
 
-[^key-12c9c56f3fa94429c63b6a479fb89694]: Textual amendment: Word in s. 13(5)(c) substituted (N.I.) (1.3.2007) by [The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288)](https://www.legislation.gov.uk/nisi/2007/288), [art. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [Sch. 1 para. 20(1)](https://www.legislation.gov.uk/nisi/2007/288/schedule/1/paragraph/20/1)
+[^c-12c9c56f3fa94429c63b6a479fb89694]: Textual amendment: Word in s. 13(5)(c) substituted (N.I.) (1.3.2007) by [The Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288)](https://www.legislation.gov.uk/nisi/2007/288), [art. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [Sch. 1 para. 20(1)](https://www.legislation.gov.uk/nisi/2007/288/schedule/1/paragraph/20/1)
 
 [^c794571]: Marginal citation: [1967 c. 18 (N.I.)](https://www.legislation.gov.uk/apni/1967/18)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Calculation of net profit of self-employed earners[^key-a964f5626125c3e5f3b7b12f5bc29fea]
+## 35. Calculation of net profit of self-employed earners[^c-a964f5626125c3e5f3b7b12f5bc29fea]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) in the case of a self-employed earner who is engaged in employment on his own account, the net profit derived from that employment;
 - (b) in the case of a self-employed earner whose employment is carried on in partnership or is that of a share fisherman within the meaning of the Social Security (Mariners’ Benefits) Regulations (Northern Ireland) 1975[^f00098], his share of the net profit derived from that employment, less—
-  - (i) an amount in respect of income tax and of national insurance contributions[^key-67f64887034f1ba1962d637204be00be] payable under the Act calculated in accordance with regulation 36, and
+  - (i) an amount in respect of income tax and of national insurance contributions[^c-67f64887034f1ba1962d637204be00be] payable under the Act calculated in accordance with regulation 36, and
   - (ii) one half of the amount calculated in accordance with paragraph (11) in respect of any qualifying premium.
 
 (2) There shall be disregarded from a claimant’s net profit, any sum, where applicable, specified in paragraphs 1 to 14 of Schedule 5.
@@ -34,7 +34,7 @@ summary: ''
 - (a) subject to paragraphs (5) to (7), any expenses wholly and exclusively incurred in that period for the purposes of that employment;
 - (b) an amount in respect of—
   - (i) income tax, and
-  - (ii) national insurance contributions[^key-ebd07bda0a7069b4348244a6a64e7ae4] payable under the Act,
+  - (ii) national insurance contributions[^c-ebd07bda0a7069b4348244a6a64e7ae4] payable under the Act,
 
   calculated in accordance with regulation 36; and
 - (c) one half of the amount calculated in accordance with paragraph (11) in respect of any qualifying premium.
@@ -71,7 +71,7 @@ summary: ''
 
 - (a) an amount in respect of—
   - (i) income tax, and
-  - (ii) national insurance contributions[^key-63e8292e8e15cde4358fa0ae412f52a4] payable under the Act,
+  - (ii) national insurance contributions[^c-63e8292e8e15cde4358fa0ae412f52a4] payable under the Act,
 
   calculated in accordance with regulation 36; and
 - (b) one half of the amount calculated in accordance with paragraph (11) in respect of any qualifying premium.
@@ -85,20 +85,20 @@ summary: ''
 
 (12) Where the claimant is a self-employed earner in the Republic of Ireland the amounts to be deducted for income tax and social security contributions under this regulation shall be such amounts as, in the opinion of the appropriate authority, would have been deducted had the claimant been employed in Northern Ireland.
 
-(13) In this regulation, “**qualifying premium**” means any premium which is payable periodically in respect of [^key-60480420380ba677a8d65cd2496d7c43]... a personal pension scheme and is so payable on or after the date of claim.
+(13) In this regulation, “**qualifying premium**” means any premium which is payable periodically in respect of [^c-60480420380ba677a8d65cd2496d7c43]... a personal pension scheme and is so payable on or after the date of claim.
 
 ## Annotations
 
-[^key-a964f5626125c3e5f3b7b12f5bc29fea]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/405/regulation/35) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-a964f5626125c3e5f3b7b12f5bc29fea]: Commencement: [Reg. 35](https://www.legislation.gov.uk/nisr/2006/405/regulation/35) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
 [^f00098]: Footnote: S R. [1975 No. 108](https://www.legislation.gov.uk/nisr/1975/108)
 
-[^key-67f64887034f1ba1962d637204be00be]: Textual amendment: Words in [reg. 35(1)(b)(i)](https://www.legislation.gov.uk/nisr/2006/405/regulation/35/1/b/i) substituted (20.6.2016) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/230)](https://www.legislation.gov.uk/nisr/2016/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/230/regulation/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2016/230/regulation/3/2/b/i)
+[^c-67f64887034f1ba1962d637204be00be]: Textual amendment: Words in [reg. 35(1)(b)(i)](https://www.legislation.gov.uk/nisr/2006/405/regulation/35/1/b/i) substituted (20.6.2016) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/230)](https://www.legislation.gov.uk/nisr/2016/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/230/regulation/1/1), [3(2)(b)(i)](https://www.legislation.gov.uk/nisr/2016/230/regulation/3/2/b/i)
 
-[^key-ebd07bda0a7069b4348244a6a64e7ae4]: Textual amendment: Words in [reg. 35(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2006/405/regulation/35/3/b/ii) substituted (20.6.2016) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/230)](https://www.legislation.gov.uk/nisr/2016/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/230/regulation/1/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/230/regulation/3/2/b/ii)
+[^c-ebd07bda0a7069b4348244a6a64e7ae4]: Textual amendment: Words in [reg. 35(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2006/405/regulation/35/3/b/ii) substituted (20.6.2016) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/230)](https://www.legislation.gov.uk/nisr/2016/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/230/regulation/1/1), [3(2)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/230/regulation/3/2/b/ii)
 
 [^f00099]: Footnote: [1925 c. 34](https://www.legislation.gov.uk/ukpga/1925/34)
 
-[^key-63e8292e8e15cde4358fa0ae412f52a4]: Textual amendment: Words in [reg. 35(9)(a)(ii)](https://www.legislation.gov.uk/nisr/2006/405/regulation/35/9/a/ii) substituted (20.6.2016) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/230)](https://www.legislation.gov.uk/nisr/2016/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/230/regulation/1/1), [3(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2016/230/regulation/3/2/b/iii)
+[^c-63e8292e8e15cde4358fa0ae412f52a4]: Textual amendment: Words in [reg. 35(9)(a)(ii)](https://www.legislation.gov.uk/nisr/2006/405/regulation/35/9/a/ii) substituted (20.6.2016) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/230)](https://www.legislation.gov.uk/nisr/2016/230), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/230/regulation/1/1), [3(2)(b)(iii)](https://www.legislation.gov.uk/nisr/2016/230/regulation/3/2/b/iii)
 
-[^key-60480420380ba677a8d65cd2496d7c43]: Textual amendment: Words in [reg. 35(13)](https://www.legislation.gov.uk/nisr/2006/405/regulation/35/13) omitted (16.7.2007) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/306)](https://www.legislation.gov.uk/nisr/2007/306), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2007/306/regulation/5/3)
+[^c-60480420380ba677a8d65cd2496d7c43]: Textual amendment: Words in [reg. 35(13)](https://www.legislation.gov.uk/nisr/2006/405/regulation/35/13) omitted (16.7.2007) by virtue of [The Social Security (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2007 (S.R. 2007/306)](https://www.legislation.gov.uk/nisr/2007/306), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/306/regulation/1/1), [5(3)](https://www.legislation.gov.uk/nisr/2007/306/regulation/5/3)

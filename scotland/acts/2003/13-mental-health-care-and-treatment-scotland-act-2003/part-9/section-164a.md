@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 164A. Application to end disclosure period for compulsion order[^key-30a0bfdd7acc498c93c4ceea5ab7ecf9]
+## 164A. Application to end disclosure period for compulsion order[^c-30a0bfdd7acc498c93c4ceea5ab7ecf9]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30a0bfdd7acc498c93c4ceea5ab7ecf9]: Textual amendment: [S. 164A](https://www.legislation.gov.uk/asp/2003/13/section/164A) inserted (30.11.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 26(4)](https://www.legislation.gov.uk/asp/2019/14/section/26/4), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))
+[^c-30a0bfdd7acc498c93c4ceea5ab7ecf9]: Textual amendment: [S. 164A](https://www.legislation.gov.uk/asp/2003/13/section/164A) inserted (30.11.2020) by [Management of Offenders (Scotland) Act 2019 (asp 14)](https://www.legislation.gov.uk/asp/2019/14), [ss. 26(4)](https://www.legislation.gov.uk/asp/2019/14/section/26/4), [63(2)](https://www.legislation.gov.uk/asp/2019/14/section/63/2); [S.S.I. 2020/245](https://www.legislation.gov.uk/ssi/2020/245), [reg. 2](https://www.legislation.gov.uk/ssi/2020/245/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2020/245/schedule) (with [reg. 3](https://www.legislation.gov.uk/ssi/2020/245/regulation/3))

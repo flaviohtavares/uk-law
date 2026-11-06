@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138. Offences of failing to comply with enforcement notice[^key-f04dfbd672684bd3d426688bbd222ac9]
+## 138. Offences of failing to comply with enforcement notice[^c-f04dfbd672684bd3d426688bbd222ac9]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f04dfbd672684bd3d426688bbd222ac9]: Commencement: S. 138 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f04dfbd672684bd3d426688bbd222ac9]: Commencement: S. 138 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 333. Consultation[^key-f76bd616ef4cc3b7e319763c334e0c70]
+## 333. Consultation[^c-f76bd616ef4cc3b7e319763c334e0c70]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ A duty to consult under or by virtue of this Act may be satisfied by consultatio
 
 ## Annotations
 
-[^key-f76bd616ef4cc3b7e319763c334e0c70]: Commencement: S. 333 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)
+[^c-f76bd616ef4cc3b7e319763c334e0c70]: Commencement: S. 333 in force at Royal Assent, see [s. 339(2)(b)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 150. Disqualification from dividend[^key-0effa9861ef2da6cc9e71ff9cba7ec5b]
+## 150. Disqualification from dividend[^c-0effa9861ef2da6cc9e71ff9cba7ec5b]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0effa9861ef2da6cc9e71ff9cba7ec5b]: Commencement: [Rule 150](https://www.legislation.gov.uk/nisr/2026/11/rule/150) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-0effa9861ef2da6cc9e71ff9cba7ec5b]: Commencement: [Rule 150](https://www.legislation.gov.uk/nisr/2026/11/rule/150) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

@@ -35,14 +35,14 @@ amending Annex II to Regulation (EU) No 692/2011 of the European Parliament and 
 
 (Text with EEA relevance) (revoked)
 
-[^key-f1e7f9ed771462ef21ab7ecf224fa693]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1e7f9ed771462ef21ab7ecf224fa693]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-f1e7f9ed771462ef21ab7ecf224fa693] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-f1e7f9ed771462ef21ab7ecf224fa693] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-f1e7f9ed771462ef21ab7ecf224fa693] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-f1e7f9ed771462ef21ab7ecf224fa693] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f1e7f9ed771462ef21ab7ecf224fa693]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f1e7f9ed771462ef21ab7ecf224fa693]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f1e7f9ed771462ef21ab7ecf224fa693]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 215](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/215); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f1e7f9ed771462ef21ab7ecf224fa693]: Textual amendment: Regulation revoked (31.12.2020) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/489)](https://www.legislation.gov.uk/uksi/2019/489), [reg. 1](https://www.legislation.gov.uk/uksi/2019/489/regulation/1), [Sch. 1 para. 215](https://www.legislation.gov.uk/uksi/2019/489/schedule/1/paragraph/215); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

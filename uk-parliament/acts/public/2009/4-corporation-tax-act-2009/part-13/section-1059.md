@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1059. Total amount of company's PAYE and NIC liabilities[^key-324704ae929399fd201c9ac2a224e489]
+## 1059. Total amount of company's PAYE and NIC liabilities[^c-324704ae929399fd201c9ac2a224e489]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-324704ae929399fd201c9ac2a224e489]: Textual amendment: S. 1059 omitted (with effect in accordance with Sch. 3 para. 39 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 15(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/15/3)
+[^c-324704ae929399fd201c9ac2a224e489]: Textual amendment: S. 1059 omitted (with effect in accordance with Sch. 3 para. 39 of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 3 para. 15(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/3/paragraph/15/3)

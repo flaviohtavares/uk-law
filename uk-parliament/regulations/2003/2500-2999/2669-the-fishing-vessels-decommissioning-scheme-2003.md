@@ -47,75 +47,75 @@ Coming into force
 
 17th October 2003
 
-[^key-6b3d105dbdb03fd552277d089040dc1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b3d105dbdb03fd552277d089040dc1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and extent[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 1. Title, commencement and extent[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 2. Interpretation[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Decommissioning grants[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 3. Decommissioning grants[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Applications[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 4. Applications[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consideration of applications[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 5. Consideration of applications[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Approval of applications[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 6. Approval of applications[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Eligibility and claims for payment of grant[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 7. Eligibility and claims for payment of grant[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Decommissioning of the vessel[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 8. Decommissioning of the vessel[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Surrender of licences and removal from the register[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 9. Surrender of licences and removal from the register[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Substantial damage or destruction of vessel[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 10. Substantial damage or destruction of vessel[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amount of grant[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 11. Amount of grant[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Method of payment[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 12. Method of payment[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Assistance to authorised officers[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 13. Assistance to authorised officers[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Powers of authorised officers[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 14. Powers of authorised officers[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Reduction, withholding and recovery of grant[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 15. Reduction, withholding and recovery of grant[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Interest[^key-6b3d105dbdb03fd552277d089040dc1a]
+## 16. Interest[^c-6b3d105dbdb03fd552277d089040dc1a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6b3d105dbdb03fd552277d089040dc1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6b3d105dbdb03fd552277d089040dc1a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
@@ -123,4 +123,4 @@ Coming into force
 
 ## Annotations
 
-[^key-6b3d105dbdb03fd552277d089040dc1a]: Textual amendment: Scheme revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)
+[^c-6b3d105dbdb03fd552277d089040dc1a]: Textual amendment: Scheme revoked (6.3.2015) by [The Sea Fishing (Enforcement and Miscellaneous Provisions) Order 2015 (S.I. 2015/191)](https://www.legislation.gov.uk/uksi/2015/191), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/191/article/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/191/schedule)

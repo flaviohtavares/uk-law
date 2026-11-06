@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Confidentiality of documents[^key-ac412ae8ad0bb8686aad8a7f45d12310]
+## 118. Confidentiality of documents[^c-ac412ae8ad0bb8686aad8a7f45d12310]
 
 *Extent: S*
 
@@ -24,6 +24,6 @@ Apply rule 7.27 of the 1986 Rules[^f00055].
 
 ## Annotations
 
-[^key-ac412ae8ad0bb8686aad8a7f45d12310]: Commencement: Rule 118 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-ac412ae8ad0bb8686aad8a7f45d12310]: Commencement: Rule 118 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
 
 [^f00055]: Footnote: Rule 7.27 was amended by paragraph 50 of Schedule 1(I) to [S.I. 1987/1921](https://www.legislation.gov.uk/uksi/1987/1921).

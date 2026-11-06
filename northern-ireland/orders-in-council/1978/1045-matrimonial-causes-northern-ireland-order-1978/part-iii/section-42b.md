@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42B. Appeals relating to pension compensation sharing orders which have taken effect[^key-baca81583971b33c8598a4fe13e5891c]
+## 42B. Appeals relating to pension compensation sharing orders which have taken effect[^c-baca81583971b33c8598a4fe13e5891c]
 
 *Extent: N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-baca81583971b33c8598a4fe13e5891c]: Textual amendment: Art. 42B inserted (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 9](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/9) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)
+[^c-baca81583971b33c8598a4fe13e5891c]: Textual amendment: Art. 42B inserted (6.4.2011) by [Pensions (No. 2) Act (Northern Ireland) 2008 (c. 13)](https://www.legislation.gov.uk/nia/2008/13), [s. 118(1)](https://www.legislation.gov.uk/nia/2008/13/section/118/1), [Sch. 5 para. 9](https://www.legislation.gov.uk/nia/2008/13/schedule/5/paragraph/9) (with [s. 73](https://www.legislation.gov.uk/nia/2008/13/section/73)); [S.R. 2011/108](https://www.legislation.gov.uk/nisr/2011/108), [art. 2(2)](https://www.legislation.gov.uk/nisr/2011/108/article/2/2), [Sch.](https://www.legislation.gov.uk/nisr/2011/108/schedule)

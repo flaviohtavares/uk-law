@@ -20,17 +20,17 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-e2e0dd189903e0e2bdb6af3247332811] The relevant shares (other than any of them which are bonus shares) must be issued in order to raise money for the purpose of a qualifying business activity so as to promote business growth and development[^key-4c5261cb84bbe3ae4eb9d477a8bb77d6].
+(1)[^c-e2e0dd189903e0e2bdb6af3247332811] The relevant shares (other than any of them which are bonus shares) must be issued in order to raise money for the purpose of a qualifying business activity so as to promote business growth and development[^c-4c5261cb84bbe3ae4eb9d477a8bb77d6].
 
-(2)[^key-48978ba9af864779f79fe87b14f3c248] For this purpose “**business growth and development**” means the growth and development of—
+(2)[^c-48978ba9af864779f79fe87b14f3c248] For this purpose “**business growth and development**” means the growth and development of—
 
 - (a) if the issuing company is a single company, the business of that company, and
 - (b) if the issuing company is a parent company, what would be the business of the group if the activities of the group companies taken together were regarded as one business.
 
 ## Annotations
 
-[^key-e2e0dd189903e0e2bdb6af3247332811]: Textual amendment: S. 174(1): s. 174 renumbered as s. 174(1) (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 10(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/10/2)
+[^c-e2e0dd189903e0e2bdb6af3247332811]: Textual amendment: S. 174(1): s. 174 renumbered as s. 174(1) (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 10(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/10/2)
 
-[^key-4c5261cb84bbe3ae4eb9d477a8bb77d6]: Textual amendment: Words in s. 174(1) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 10(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/10/3)
+[^c-4c5261cb84bbe3ae4eb9d477a8bb77d6]: Textual amendment: Words in s. 174(1) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 10(3)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/10/3)
 
-[^key-48978ba9af864779f79fe87b14f3c248]: Textual amendment: S. 174(2) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 10(4)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/10/4)
+[^c-48978ba9af864779f79fe87b14f3c248]: Textual amendment: S. 174(2) inserted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 10(4)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/10/4)

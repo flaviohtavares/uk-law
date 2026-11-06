@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Removal of restriction on hearing of application for discharge of emergency protection order[^key-9db72b8007200b805dd82667885174ec][^key-66377346315e186c0d9c7989af37fe31]
+## 30. Removal of restriction on hearing of application for discharge of emergency protection order[^c-9db72b8007200b805dd82667885174ec][^c-66377346315e186c0d9c7989af37fe31]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In section 45 of the 1989 Act (emergency protection orders: supplementary provis
 
 ## Annotations
 
-[^key-9db72b8007200b805dd82667885174ec]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2008/23/section/30) in force at 6.4.2009 for W. by [S.I. 2009/728](https://www.legislation.gov.uk/wsi/2009/728), [art. 2(a)](https://www.legislation.gov.uk/wsi/2009/728/article/2/a)
+[^c-9db72b8007200b805dd82667885174ec]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2008/23/section/30) in force at 6.4.2009 for W. by [S.I. 2009/728](https://www.legislation.gov.uk/wsi/2009/728), [art. 2(a)](https://www.legislation.gov.uk/wsi/2009/728/article/2/a)
 
-[^key-66377346315e186c0d9c7989af37fe31]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2008/23/section/30) in force at 6.4.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2009/268/article/3/3/a)
+[^c-66377346315e186c0d9c7989af37fe31]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2008/23/section/30) in force at 6.4.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(3)(a)](https://www.legislation.gov.uk/uksi/2009/268/article/3/3/a)

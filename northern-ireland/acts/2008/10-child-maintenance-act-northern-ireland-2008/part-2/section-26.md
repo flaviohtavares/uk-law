@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 26. Meaning of “child”[^key-18d148a8fbcda20a6f86cc8d59efa379][^key-f0764e67746bdc0689b81480f5ef1a16]
+## 26. Meaning of “child”[^c-18d148a8fbcda20a6f86cc8d59efa379][^c-f0764e67746bdc0689b81480f5ef1a16]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ For Article 3 of the Child Support Order substitute—
 
 ## Annotations
 
-[^key-18d148a8fbcda20a6f86cc8d59efa379]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2008/10/section/26) in operation at 3.12.2012 for specified purposes by [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2012/423/article/2/2/c)
+[^c-18d148a8fbcda20a6f86cc8d59efa379]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2008/10/section/26) in operation at 3.12.2012 for specified purposes by [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(2)(c)](https://www.legislation.gov.uk/nisr/2012/423/article/2/2/c)
 
-[^key-f0764e67746bdc0689b81480f5ef1a16]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2008/10/section/26) in operation at 10.12.2012 in so far as not already in operation by [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/440/article/2/2/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4))
+[^c-f0764e67746bdc0689b81480f5ef1a16]: Commencement: [S. 26](https://www.legislation.gov.uk/nia/2008/10/section/26) in operation at 10.12.2012 in so far as not already in operation by [S.R. 2012/440](https://www.legislation.gov.uk/nisr/2012/440), [art. 2(2)(b)](https://www.legislation.gov.uk/nisr/2012/440/article/2/2/b) (with [art. 4](https://www.legislation.gov.uk/nisr/2012/440/article/4))

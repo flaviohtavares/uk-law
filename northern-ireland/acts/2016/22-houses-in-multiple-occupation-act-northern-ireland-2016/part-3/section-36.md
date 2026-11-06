@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Revocation of rectification notice[^key-d695d5a45b532089f0a1bfef29a14b64]
+## 36. Revocation of rectification notice[^c-d695d5a45b532089f0a1bfef29a14b64]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d695d5a45b532089f0a1bfef29a14b64]: Commencement: [S. 36](https://www.legislation.gov.uk/nia/2016/22/section/36) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-d695d5a45b532089f0a1bfef29a14b64]: Commencement: [S. 36](https://www.legislation.gov.uk/nia/2016/22/section/36) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

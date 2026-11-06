@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for Infrastructure makes the following Order in exercise of the powers conferred by sections 32 and 247(6) of the Planning Act (Northern Ireland) 2011[^f00001] and now vested in it[^f00002].
 
-## 1. Citation and commencement[^key-6ce8be29de71ada88e201f900dd2b8d3]
+## 1. Citation and commencement[^c-6ce8be29de71ada88e201f900dd2b8d3]
 
 This Order may be cited as the Planning (General Permitted Development) (Amendment) Order (Northern Ireland) 2026 and comes into operation on 13th May 2026.
 
-## 2. Amendment of the Planning (General Permitted Development) Order (Northern Ireland) 2015[^key-9e50b1e6efc074e3c4bce7044a5937f9]
+## 2. Amendment of the Planning (General Permitted Development) Order (Northern Ireland) 2015[^c-9e50b1e6efc074e3c4bce7044a5937f9]
 
 In the Schedule (development permitted under Article 3) to the Planning (General Permitted Development) Order (Northern Ireland) 2015[^f00003] Part 34 (Shops, financial and professional services establishments) is amended as set out in the Schedule to this order.
 
@@ -60,7 +60,7 @@ A senior officer of the Department for Infrastructure
 
 Article 2
 
-**3.**[^key-f8afcdb639baf5e90badfb6907cb15d5] After Class D insert—
+**3.**[^c-f8afcdb639baf5e90badfb6907cb15d5] After Class D insert—
 
 > <table>
 > <tbody>
@@ -91,12 +91,12 @@ The Explanatory Memorandum is available alongside the Order on the government’
 
 [^f00002]: Footnote: [S.R. 2016 No. 76](https://www.legislation.gov.uk/nisr/2016/76), article 8(1)(b) and Schedule 5, Part 2.
 
-[^key-6ce8be29de71ada88e201f900dd2b8d3]: Commencement: Art. 1 in operation at 13.5.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/80/article/1)
+[^c-6ce8be29de71ada88e201f900dd2b8d3]: Commencement: Art. 1 in operation at 13.5.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/80/article/1)
 
-[^key-9e50b1e6efc074e3c4bce7044a5937f9]: Commencement: Art. 2 in operation at 13.5.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/80/article/1)
+[^c-9e50b1e6efc074e3c4bce7044a5937f9]: Commencement: Art. 2 in operation at 13.5.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/80/article/1)
 
 [^f00003]: Footnote: [S.R. 2015 No. 70](https://www.legislation.gov.uk/nisr/2015/70) as amended by [S.R. 2020 No. 292](https://www.legislation.gov.uk/nisr/2020/292)
 
-[^key-f8afcdb639baf5e90badfb6907cb15d5]: Commencement: Sch. in operation at 13.5.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/80/article/1)
+[^c-f8afcdb639baf5e90badfb6907cb15d5]: Commencement: Sch. in operation at 13.5.2026, see [art. 1](https://www.legislation.gov.uk/nisr/2026/80/article/1)
 
 [^f00004]: Footnote: S.I. [2025 No.67](https://www.legislation.gov.uk/uksi/2025/67)

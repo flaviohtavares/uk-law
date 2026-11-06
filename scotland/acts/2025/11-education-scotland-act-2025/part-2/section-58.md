@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Publication of documents[^key-427a72c76a6bfaa0111d891f9e21c9c3][^key-f5bbd153109caed199de3e657ac87318]
+## 58. Publication of documents[^c-427a72c76a6bfaa0111d891f9e21c9c3][^c-f5bbd153109caed199de3e657ac87318]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ In publishing a document under this Part, the Chief Inspector must have regard t
 
 ## Annotations
 
-[^key-427a72c76a6bfaa0111d891f9e21c9c3]: Commencement: S. 58 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
+[^c-427a72c76a6bfaa0111d891f9e21c9c3]: Commencement: S. 58 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2025/11/section/66/2)
 
-[^key-f5bbd153109caed199de3e657ac87318]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2025/11/section/58) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)
+[^c-f5bbd153109caed199de3e657ac87318]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2025/11/section/58) in force at 1.3.2026 by [S.S.I. 2026/2](https://www.legislation.gov.uk/ssi/2026/2), [reg. 2(4)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/4)[(5)](https://www.legislation.gov.uk/ssi/2026/2/regulation/2/5), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2026/2/schedule/part/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE A1 — DIRECT PAYMENTS: AFTER-CARE UNDER THE MENTAL HEALTH ACT 1983[^key-2352d4d43e20fa0141c7fd0a9df29edc]
+## SCHEDULE A1 — DIRECT PAYMENTS: AFTER-CARE UNDER THE MENTAL HEALTH ACT 1983[^c-2352d4d43e20fa0141c7fd0a9df29edc]
 
 *Extent: E+W*
 
@@ -132,4 +132,4 @@ Regulations under this Schedule may also make provision (in particular) about th
 
 ## Annotations
 
-[^key-2352d4d43e20fa0141c7fd0a9df29edc]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/anaw/2014/4/schedule/A1) substituted (1.1.2026 for specified purposes, 1.4.2026 in so far as not already in force) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 20(2)(d)](https://www.legislation.gov.uk/asc/2025/1/section/20/2/d), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(d)(iii)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/d/iii)[(2)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/e)
+[^c-2352d4d43e20fa0141c7fd0a9df29edc]: Textual amendment: [Sch. A1](https://www.legislation.gov.uk/anaw/2014/4/schedule/A1) substituted (1.1.2026 for specified purposes, 1.4.2026 in so far as not already in force) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 20(2)(d)](https://www.legislation.gov.uk/asc/2025/1/section/20/2/d), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(d)(iii)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/d/iii)[(2)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/e)

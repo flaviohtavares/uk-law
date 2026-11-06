@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 141A. Defence of due diligence for certain offences[^key-57ee8364c209e59b5e34a0d0cbb085aa]
+## 141A. Defence of due diligence for certain offences[^c-57ee8364c209e59b5e34a0d0cbb085aa]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-57ee8364c209e59b5e34a0d0cbb085aa]: Textual amendment: Ss. 141A, 141B inserted (13.12.2010 for specified purposes, 1.11.2011 in so far as not already in force) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 195(3)](https://www.legislation.gov.uk/asp/2010/13/section/195/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule); S.S.I. 2011/354, art. 2, Sch.
+[^c-57ee8364c209e59b5e34a0d0cbb085aa]: Textual amendment: Ss. 141A, 141B inserted (13.12.2010 for specified purposes, 1.11.2011 in so far as not already in force) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 195(3)](https://www.legislation.gov.uk/asp/2010/13/section/195/3), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule); S.S.I. 2011/354, art. 2, Sch.

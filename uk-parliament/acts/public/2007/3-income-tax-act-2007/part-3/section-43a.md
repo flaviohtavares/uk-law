@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Meaning of “relevant conversion”[^key-530a11fb28ab3728c41f520e44ebae22]
+## 43A. Meaning of “relevant conversion”[^c-530a11fb28ab3728c41f520e44ebae22]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ For the purposes of this Chapter, a civil partnership between two people results
 
 ## Annotations
 
-[^key-530a11fb28ab3728c41f520e44ebae22]: Textual amendment: [S. 43A](https://www.legislation.gov.uk/ukpga/2007/3/section/43A) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [45(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/45/2)
+[^c-530a11fb28ab3728c41f520e44ebae22]: Textual amendment: [S. 43A](https://www.legislation.gov.uk/ukpga/2007/3/section/43A) inserted (7.12.2020) by [The Marriage and Civil Partnership (Northern Ireland) (No. 2) Regulations 2020 (S.I. 2020/1143)](https://www.legislation.gov.uk/uksi/2020/1143), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/1/2), [45(2)](https://www.legislation.gov.uk/uksi/2020/1143/regulation/45/2)

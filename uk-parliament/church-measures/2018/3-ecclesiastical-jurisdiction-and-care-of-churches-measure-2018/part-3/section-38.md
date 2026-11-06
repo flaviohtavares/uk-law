@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 38. The list[^key-7bcd0771bd341cd5d989b35cc051bb06]
+## 38. The list[^c-7bcd0771bd341cd5d989b35cc051bb06]
 
 *Extent: E*
 
@@ -42,10 +42,10 @@ summary: ''
 
 - “**building**” does not include plant or machinery in the building;
 - “**episcopal house of residence**” has the same meaning as in section 3 of the Episcopal Endowments and Stipends Measure 1943.
-- “[^key-1407fcdf89aae59eff86636a0f16e751]**religious community**” has the same meaning as in the Canons (see Canon DA 1).
+- “[^c-1407fcdf89aae59eff86636a0f16e751]**religious community**” has the same meaning as in the Canons (see Canon DA 1).
 
 ## Annotations
 
-[^key-7bcd0771bd341cd5d989b35cc051bb06]: Commencement: S. 38 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-7bcd0771bd341cd5d989b35cc051bb06]: Commencement: S. 38 in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
 
-[^key-1407fcdf89aae59eff86636a0f16e751]: Textual amendment: Words in [s. 38(4)](https://www.legislation.gov.uk/ukcm/2018/3/section/38/4) inserted (14.7.2021) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 1(5)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/5), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2021/545](https://www.legislation.gov.uk/uksi/2021/545), [art. 2](https://www.legislation.gov.uk/uksi/2021/545/article/2)
+[^c-1407fcdf89aae59eff86636a0f16e751]: Textual amendment: Words in [s. 38(4)](https://www.legislation.gov.uk/ukcm/2018/3/section/38/4) inserted (14.7.2021) by [Church of England (Miscellaneous Provisions) Measure 2020 (No. 1)](https://www.legislation.gov.uk/ukcm/2020/1), [ss. 1(5)](https://www.legislation.gov.uk/ukcm/2020/1/section/1/5), [16(3)](https://www.legislation.gov.uk/ukcm/2020/1/section/16/3); [S.I. 2021/545](https://www.legislation.gov.uk/uksi/2021/545), [art. 2](https://www.legislation.gov.uk/uksi/2021/545/article/2)

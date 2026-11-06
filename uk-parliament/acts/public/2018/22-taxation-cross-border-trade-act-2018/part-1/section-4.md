@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. When liability to import duty incurred[^c23428761][^key-be71d12b186380170c81691446f58f57]
+## 4. When liability to import duty incurred[^c23428761][^c-be71d12b186380170c81691446f58f57]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ the general rule is that a liability to import duty is not incurred by reference
 
 [^c23428761]: Commencement: S. 4 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-be71d12b186380170c81691446f58f57]: Commencement: S. 4 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-be71d12b186380170c81691446f58f57]: Commencement: S. 4 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

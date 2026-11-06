@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Capital receipts not exceeding £6,000[^key-88ee5d4a48b39d0e8e10ffca1769147c]
+## 61. Capital receipts not exceeding £6,000[^c-88ee5d4a48b39d0e8e10ffca1769147c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A sum received by a local authority which, apart from this regulation, would be 
 
 ## Annotations
 
-[^key-88ee5d4a48b39d0e8e10ffca1769147c]: Commencement: Reg. 61 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-88ee5d4a48b39d0e8e10ffca1769147c]: Commencement: Reg. 61 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

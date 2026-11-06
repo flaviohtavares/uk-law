@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Disregard of certain interests and improvements[^key-fdd926857ad63a06b6a8ac39ef24defb]
+## 18. Disregard of certain interests and improvements[^c-fdd926857ad63a06b6a8ac39ef24defb]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ if the tribunal is satisfied that the creation of the interest, the erection of 
 
 ## Annotations
 
-[^key-fdd926857ad63a06b6a8ac39ef24defb]: Commencement: Art. 18 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-fdd926857ad63a06b6a8ac39ef24defb]: Commencement: Art. 18 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

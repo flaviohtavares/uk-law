@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Appeal against prohibition notice[^key-a0b4778ae46f235779a7a8f1d235871a]
+## 99. Appeal against prohibition notice[^c-a0b4778ae46f235779a7a8f1d235871a]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a0b4778ae46f235779a7a8f1d235871a]: Commencement: S. 99 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-a0b4778ae46f235779a7a8f1d235871a]: Commencement: S. 99 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

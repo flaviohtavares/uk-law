@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 14. Duration and extension of right of burial[^key-63c68e7125becbb26392a938208d0b89]
+## 14. Duration and extension of right of burial[^c-63c68e7125becbb26392a938208d0b89]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63c68e7125becbb26392a938208d0b89]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/20/section/14) in force at 1.3.2026 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/3) (with [reg. 3(3)](https://www.legislation.gov.uk/ssi/2024/335/regulation/3/3))
+[^c-63c68e7125becbb26392a938208d0b89]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2016/20/section/14) in force at 1.3.2026 by [S.S.I. 2024/335](https://www.legislation.gov.uk/ssi/2024/335), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2024/335/regulation/2/3) (with [reg. 3(3)](https://www.legislation.gov.uk/ssi/2024/335/regulation/3/3))

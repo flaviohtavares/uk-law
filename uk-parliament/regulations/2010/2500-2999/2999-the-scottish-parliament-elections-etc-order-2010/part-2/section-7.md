@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Manner of voting at Scottish parliamentary elections[^key-f50e54cf6e3e0584dda9221d6619e435]
+## 7. Manner of voting at Scottish parliamentary elections[^c-f50e54cf6e3e0584dda9221d6619e435]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,7 +48,7 @@ P may vote in person at any polling station in the constituency.
 
 ## Annotations
 
-[^key-f50e54cf6e3e0584dda9221d6619e435]: Commencement: Art. 7 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-f50e54cf6e3e0584dda9221d6619e435]: Commencement: Art. 7 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00024]: Footnote: Section 7 was substituted by the 2000 Act, section 4. It was amended by the 2006 Act, section 12, and [S.I. 2005/2078](https://www.legislation.gov.uk/uksi/2005/2078), Schedule 1, paragraph 1(3)
 

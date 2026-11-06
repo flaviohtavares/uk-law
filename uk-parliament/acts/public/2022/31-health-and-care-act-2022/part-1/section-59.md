@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Appointment of chair of NHS trusts[^key-36c22e33175f8184674bc730e6c29125][^key-58aec4aebb551fc6b1c825212ffa43be]
+## 59. Appointment of chair of NHS trusts[^c-36c22e33175f8184674bc730e6c29125][^c-58aec4aebb551fc6b1c825212ffa43be]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ In paragraph 3(1)(a) of Schedule 4 to the National Health Service Act 2006 (appo
 
 ## Annotations
 
-[^key-36c22e33175f8184674bc730e6c29125]: Commencement: S. 59 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-36c22e33175f8184674bc730e6c29125]: Commencement: S. 59 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-58aec4aebb551fc6b1c825212ffa43be]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2022/31/section/59) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-58aec4aebb551fc6b1c825212ffa43be]: Commencement: [S. 59](https://www.legislation.gov.uk/ukpga/2022/31/section/59) in force at 1.7.2022 by [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

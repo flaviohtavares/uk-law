@@ -23,7 +23,7 @@ summary: ''
 (1) In this Act—
 
 - “**assessor**” means an assessor appointed under section 11;
-- “[^key-f0fd47f9011947a30c6fe306e3092bd8]**assimilated enforceable obligation**” means an obligation (as modified from time to time) which forms part of assimilated law by virtue of section 3 of the European Union (Withdrawal) Act 2018;
+- “[^c-f0fd47f9011947a30c6fe306e3092bd8]**assimilated enforceable obligation**” means an obligation (as modified from time to time) which forms part of assimilated law by virtue of section 3 of the European Union (Withdrawal) Act 2018;
 - “**chairman**”, in relation to an inquiry, means the chairman of the inquiry;
 
 “the course of the inquiry” and similar expressions are to be read in accordance with subsection (2);
@@ -52,7 +52,7 @@ summary: ''
 - “**the relevant part of the United Kingdom**”, in relation to an inquiry, means the part specified under section 31(1);
 - “**report**” means a report under section 24(1);
 - “**responsible**”, in relation to an inquiry, is to be read in accordance with subsection (5);
-- [^key-972d7c5ee8c9046f45373eec79f281dd]...
+- [^c-972d7c5ee8c9046f45373eec79f281dd]...
 - “**Scottish public authority**” has the same meaning as in the Freedom of Information (Scotland) Act 2002 (asp 13);
 - “**setting-up date**” means the date specified under section 5(1)(a);
 - “**statutory provision**” means a provision contained in, or having effect under, any enactment, Act of the Scottish Parliament or Northern Ireland legislation;
@@ -77,8 +77,8 @@ This is subject to section 34(2)(a).
 
 ## Annotations
 
-[^key-f0fd47f9011947a30c6fe306e3092bd8]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/43/1) inserted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 57(4)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/57/4/a)
+[^c-f0fd47f9011947a30c6fe306e3092bd8]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/43/1) inserted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 57(4)(a)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/57/4/a)
 
 [^c2086256]: Textual amendment: S. 43(1): words in definition substituted by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), [s. 160](https://www.legislation.gov.uk/ukpga/2006/32/section/160), [Sch. 10 para. 96](https://www.legislation.gov.uk/ukpga/2006/32/schedule/10/paragraph/96), (with Sch. 11 para. 22), the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(1)(4)(5) of the amending Act
 
-[^key-972d7c5ee8c9046f45373eec79f281dd]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/43/1) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 57(4)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/57/4/b)
+[^c-972d7c5ee8c9046f45373eec79f281dd]: Textual amendment: Words in [s. 43(1)](https://www.legislation.gov.uk/ukpga/2005/12/section/43/1) omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 57(4)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/57/4/b)

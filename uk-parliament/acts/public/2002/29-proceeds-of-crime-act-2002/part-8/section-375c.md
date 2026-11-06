@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 375C. Restriction on exercise of certain powers conferred on officers of Revenue and Customs[^key-64937113707b4ef5cd9ac0ba1187ff4b]
+## 375C. Restriction on exercise of certain powers conferred on officers of Revenue and Customs[^c-64937113707b4ef5cd9ac0ba1187ff4b]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64937113707b4ef5cd9ac0ba1187ff4b]: Textual amendment: S. 375C omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 18(4)(c)](https://www.legislation.gov.uk/ukpga/2017/22/section/18/4/c), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)
+[^c-64937113707b4ef5cd9ac0ba1187ff4b]: Textual amendment: S. 375C omitted (27.4.2017 for specified purposes, 27.6.2017 in so far as not already in force) by virtue of [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 18(4)(c)](https://www.legislation.gov.uk/ukpga/2017/22/section/18/4/c), [58(4)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/4)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 137. Payment of pensions under this Part[^key-92d993870ab14af9fa5854f16328d05b]
+## 137. Payment of pensions under this Part[^c-92d993870ab14af9fa5854f16328d05b]
 
 *Extent: S*
 
@@ -37,10 +37,10 @@ summary: ''
 - (a) if the child is in the care of the member’s surviving adult, to the surviving adult (unless the scheme manager directs otherwise); and
 - (b) in any other case, to a person determined by the scheme manager.
 
-(5) A person who receives a sum under paragraph (4)[^key-208e73ea6560f529c833ada2036a30cf] must apply that sum for the benefit of the child.
+(5) A person who receives a sum under paragraph (4)[^c-208e73ea6560f529c833ada2036a30cf] must apply that sum for the benefit of the child.
 
 ## Annotations
 
-[^key-92d993870ab14af9fa5854f16328d05b]: Commencement: Reg. 137 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-92d993870ab14af9fa5854f16328d05b]: Commencement: Reg. 137 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
-[^key-208e73ea6560f529c833ada2036a30cf]: Textual amendment: Words in [reg. 137(5)](https://www.legislation.gov.uk/ssi/2015/142/regulation/137/5) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2015/325/regulation/6)
+[^c-208e73ea6560f529c833ada2036a30cf]: Textual amendment: Words in [reg. 137(5)](https://www.legislation.gov.uk/ssi/2015/142/regulation/137/5) substituted (with effect from 1.4.2015) by [The Police Pension Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/325)](https://www.legislation.gov.uk/ssi/2015/325), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/325/regulation/1/2), [6](https://www.legislation.gov.uk/ssi/2015/325/regulation/6)

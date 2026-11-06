@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 193. Deduction of bank charges[^key-1d7d8768a88f78e6404eba68b1b3fae0]
+## 193. Deduction of bank charges[^c-1d7d8768a88f78e6404eba68b1b3fae0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where any repayment is to be made to a claimant in the country in which he is es
 
 ## Annotations
 
-[^key-1d7d8768a88f78e6404eba68b1b3fae0]: Commencement: Reg. 193 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-1d7d8768a88f78e6404eba68b1b3fae0]: Commencement: Reg. 193 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.31. Proof of delivery of documents[^key-5791c16b570120e6ce61d69225a9f70f]
+## 7.31. Proof of delivery of documents[^c-5791c16b570120e6ce61d69225a9f70f]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5791c16b570120e6ce61d69225a9f70f]: Commencement: Rule 7.31 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-5791c16b570120e6ce61d69225a9f70f]: Commencement: Rule 7.31 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

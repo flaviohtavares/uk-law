@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.146. Loss of qualification as insolvency practitioner[^key-e9dcc7379d61ada9410e14057c67cfe4]
+## 4.146. Loss of qualification as insolvency practitioner[^c-e9dcc7379d61ada9410e14057c67cfe4]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e9dcc7379d61ada9410e14057c67cfe4]: Commencement: [Rule 4.146](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.146) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-e9dcc7379d61ada9410e14057c67cfe4]: Commencement: [Rule 4.146](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.146) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00092]: Marginal citation: \[FORM 4.46\] \[FORM 4.45\]

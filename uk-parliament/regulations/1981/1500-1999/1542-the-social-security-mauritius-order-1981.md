@@ -52,7 +52,7 @@ And Whereas in accordance with the terms of the Notes the Convention applies pro
 
 And Whereas by section 143(1) of the Social Security Act 1975[^f00001]And section 15(1) of the Child Benefit Act 1975[^f00002] it is provided that Her Majesty may by Order in Council make provision for modifying or adapting the said Social Security Act and for modifying the provisions of Part I of the said Child Benefit Act and regulations made under it in their application to cases affected by agreements with other governments providing for reciprocity in matters specified in those sections:
 
-Now, therefore, Her Majesty, in pursuance of the said section 143(1), and the said section 15(1), and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows—[^key-44db077ec9b60a11a79704bf9828ae32][^key-e2a68c7ddb5c809f466f65971704a5f1][^key-c3f71b8b5a3fc39b09089c579fe94e5d]
+Now, therefore, Her Majesty, in pursuance of the said section 143(1), and the said section 15(1), and of all other powers enabling Her in that behalf, is pleased, by and with the advice of Her Privy Council, to order, and it is hereby ordered, as follows—[^c-44db077ec9b60a11a79704bf9828ae32][^c-e2a68c7ddb5c809f466f65971704a5f1][^c-c3f71b8b5a3fc39b09089c579fe94e5d]
 
 ## 1. Citation and commencement
 
@@ -70,9 +70,9 @@ N.E. Leigh
 
 Clerk of the Privy Council
 
-## SCHEDULE 1[^key-c20fe6dbef2cb47a22246005c6ad81ee]
+## SCHEDULE 1[^c-c20fe6dbef2cb47a22246005c6ad81ee]
 
-[^key-c20fe6dbef2cb47a22246005c6ad81ee]
+[^c-c20fe6dbef2cb47a22246005c6ad81ee]
 
 > CONVENTION ON SOCIAL SECURITY BETWEEN THE GOVERNMENT OF THE UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND AND THE GOVERNMENT OF MAURITIUS
 >
@@ -360,7 +360,7 @@ Clerk of the Privy Council
 >
 > Minister of Social Security
 
-## SCHEDULE 2 — NOTES EXCHANGED ON 8 OCTOBER 1981 BETWEEN HER MAJESTY'S HIGH COMMISSIONER AT PORT LOUIS AND THE MINISTER FOR FOREIGN AFFAIRS OF MAURITIUS[^key-c20fe6dbef2cb47a22246005c6ad81ee]
+## SCHEDULE 2 — NOTES EXCHANGED ON 8 OCTOBER 1981 BETWEEN HER MAJESTY'S HIGH COMMISSIONER AT PORT LOUIS AND THE MINISTER FOR FOREIGN AFFAIRS OF MAURITIUS[^c-c20fe6dbef2cb47a22246005c6ad81ee]
 
 No. 1
 
@@ -384,10 +384,10 @@ This Order makes provision for the modification of the Social Security Act 1975 
 
 [^f00002]: Footnote: Section 15 was amended by section 6(2) of the Social Security Act 1981.
 
-[^key-44db077ec9b60a11a79704bf9828ae32]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1981/1542) modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
+[^c-44db077ec9b60a11a79704bf9828ae32]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1981/1542) modified (11.4.1988) by [The Social Security (Reciprocal Agreements) Order 1988 (S.I. 1988/591)](https://www.legislation.gov.uk/uksi/1988/591), [arts. 2](https://www.legislation.gov.uk/uksi/1988/591/article/2), [3](https://www.legislation.gov.uk/uksi/1988/591/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1988/591/schedule)
 
-[^key-e2a68c7ddb5c809f466f65971704a5f1]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1981/1542) modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
+[^c-e2a68c7ddb5c809f466f65971704a5f1]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1981/1542) modified (9.4.2001) by [The Social Security (Reciprocal Agreements) Order 2001 (S.I. 2001/407)](https://www.legislation.gov.uk/uksi/2001/407), [art. 2](https://www.legislation.gov.uk/uksi/2001/407/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2001/407/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/407/schedule/2)
 
-[^key-c3f71b8b5a3fc39b09089c579fe94e5d]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1981/1542) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+[^c-c3f71b8b5a3fc39b09089c579fe94e5d]: Modification: [Instrument](https://www.legislation.gov.uk/uksi/1981/1542) modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
 
-[^key-c20fe6dbef2cb47a22246005c6ad81ee]: Modification: [Schs. 1-2](https://www.legislation.gov.uk/uksi/1981/1542/schedule/1) modified (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)
+[^c-c20fe6dbef2cb47a22246005c6ad81ee]: Modification: [Schs. 1-2](https://www.legislation.gov.uk/uksi/1981/1542/schedule/1) modified (5.12.2005) by [The Social Security (Reciprocal Agreements) Order 2005 (S.I. 2005/2765)](https://www.legislation.gov.uk/uksi/2005/2765), [art. 1](https://www.legislation.gov.uk/uksi/2005/2765/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2765/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2005/2765/schedule/2)

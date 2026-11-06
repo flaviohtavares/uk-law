@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 145. Information[^key-b61c3cb24f15a792d6890c0a21b9d142]
+## 145. Information[^c-b61c3cb24f15a792d6890c0a21b9d142]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Schedule 4 deals with the provision of information.
 
 ## Annotations
 
-[^key-b61c3cb24f15a792d6890c0a21b9d142]: Commencement: Reg. 145 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)
+[^c-b61c3cb24f15a792d6890c0a21b9d142]: Commencement: Reg. 145 in operation at 17.12.2009, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2009/373/regulation/1/1)

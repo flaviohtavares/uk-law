@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Amendment of the General Ophthalmic Services Contracts Regulations 2008[^key-420938dd70d307d18d04a902b8c3309b]
+## 29. Amendment of the General Ophthalmic Services Contracts Regulations 2008[^c-420938dd70d307d18d04a902b8c3309b]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-420938dd70d307d18d04a902b8c3309b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2023/1071/regulation/29) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-420938dd70d307d18d04a902b8c3309b]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2023/1071/regulation/29) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00024]: Footnote: [S.I. 2008/1185](https://www.legislation.gov.uk/uksi/2008/1185), amended by [S.I. 2013/365](https://www.legislation.gov.uk/uksi/2013/365); there are other amending instruments but none is relevant.

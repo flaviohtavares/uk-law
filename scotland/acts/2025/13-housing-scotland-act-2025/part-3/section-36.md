@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36. Scottish secure tenancies etc.: keeping pets[^key-f718666813cc1ac602a33935a039e9da][^key-ae2d7a243398a6d68c186a2d00ec4aa6]
+## 36. Scottish secure tenancies etc.: keeping pets[^c-f718666813cc1ac602a33935a039e9da][^c-ae2d7a243398a6d68c186a2d00ec4aa6]
 
 *Extent: S*
 
@@ -103,6 +103,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f718666813cc1ac602a33935a039e9da]: Commencement: S. 36 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-f718666813cc1ac602a33935a039e9da]: Commencement: S. 36 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-ae2d7a243398a6d68c186a2d00ec4aa6]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2025/13/section/36) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)
+[^c-ae2d7a243398a6d68c186a2d00ec4aa6]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2025/13/section/36) in force at 1.4.2026 for specified purposes by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/1)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/1)

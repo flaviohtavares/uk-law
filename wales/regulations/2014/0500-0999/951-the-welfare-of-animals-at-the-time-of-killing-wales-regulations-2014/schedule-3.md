@@ -24,7 +24,7 @@ Regulation 27
 
 ### PART 1 — Introductory
 
-#### 1. Interpretation[^key-059fc28e833cf09c946415bf1d6133f1]
+#### 1. Interpretation[^c-059fc28e833cf09c946415bf1d6133f1]
 
 In this Schedule—
 
@@ -34,7 +34,7 @@ In this Schedule—
   - (i) by the Jewish method (Shechita) for the food of Jews by a Jew who is licensed by the Rabbinical Commission and holds a certificate for that purpose, or
   - (ii) by the Muslim method (Halal) for the food of Muslims by a Muslim who holds a certificate for that purpose.
 
-#### 2. General prohibition[^key-3a22d425b1757fa543f8e38ce2e8e18d]
+#### 2. General prohibition[^c-3a22d425b1757fa543f8e38ce2e8e18d]
 
 (1) No person may kill an animal in accordance with religious rites without prior stunning unless it is a sheep, goat, bovine animal or bird killed in a slaughterhouse in accordance with this Schedule.
 
@@ -42,7 +42,7 @@ In this Schedule—
 
 ### PART 2 — Sheep, goats and bovine animals
 
-#### 3. Restraint of adult bovine animals[^key-1437ec2d5df9222f5b735c993838be38]
+#### 3. Restraint of adult bovine animals[^c-1437ec2d5df9222f5b735c993838be38]
 
 (1) Subject to sub-paragraph (2), no person may kill an adult bovine animal in a slaughterhouse in accordance with religious rites without prior stunning unless the animal is individually restrained in an upright position in a restraining pen which has been approved in writing by the competent authority and which the competent authority is satisfied has been installed in such a manner as to ensure that it will operate efficiently.
 
@@ -55,7 +55,7 @@ In this Schedule—
 
 (3) A restraining pen approved under paragraph 3 of Schedule 12 to the 1995 Regulations will, on the coming into force of these Regulations, become an approved restraining pen for the purposes of sub-paragraphs (1) and (2).
 
-#### 4. Use and maintenance of restraining pens[^key-908df7e65fd8502d8748ad67e76befe0]
+#### 4. Use and maintenance of restraining pens[^c-908df7e65fd8502d8748ad67e76befe0]
 
 The business operator must ensure that—
 
@@ -63,7 +63,7 @@ The business operator must ensure that—
 - (b) the restraining pen is kept in good working order; and
 - (c) if it has been modified after it has been approved by the competent authority, the restraining pen is not used again until a new approval is given by the competent authority.
 
-#### 5. Method of killing[^key-04962d466647e3096faa611f8b4e1bbf]
+#### 5. Method of killing[^c-04962d466647e3096faa611f8b4e1bbf]
 
 Any person who kills a sheep, goat or bovine animal in accordance with religious rites without prior stunning must—
 
@@ -72,7 +72,7 @@ Any person who kills a sheep, goat or bovine animal in accordance with religious
   - (i) undamaged; and
   - (ii) of sufficient size and sharpness to kill the sheep, goat or bovine animal in the manner described in sub-paragraph (a).
 
-#### 6. Handling of sheep, goats and bovine animals during killing[^key-8ad54b208086ee7870638b570315c226]
+#### 6. Handling of sheep, goats and bovine animals during killing[^c-8ad54b208086ee7870638b570315c226]
 
 (1) The business operator and any person engaged in the killing of a sheep, goat or bovine animal in accordance with religious rites without prior stunning must ensure that—
 
@@ -88,7 +88,7 @@ after it has been bled in the manner described in paragraph 5.
 
 ### PART 3 — Birds
 
-#### 7. Method of killing[^key-9148051746b851da6038181a2066cb5b]
+#### 7. Method of killing[^c-9148051746b851da6038181a2066cb5b]
 
 Any person engaged in the killing of a bird in accordance with religious rites without prior stunning must ensure—
 
@@ -97,7 +97,7 @@ Any person engaged in the killing of a bird in accordance with religious rites w
   - (i) undamaged; and
   - (ii) of sufficient size and sharpness to kill each bird in the manner described in sub-paragraph (a).
 
-#### 8. Handling birds during killing[^key-9dd37c8e34352c9417daabad20ddf701]
+#### 8. Handling birds during killing[^c-9dd37c8e34352c9417daabad20ddf701]
 
 The business operator and any person engaged in the killing of a bird in accordance with religious rites without prior stunning must ensure that, where the bird has not been stunned before bleeding, no further dressing procedure or any electrical stimulation is performed on the bird if it presents any signs of life, and in any event not before the expiry of—
 
@@ -108,7 +108,7 @@ after it has been bled in the manner described in paragraph 7.
 
 ### PART 4 — Rabbinical Commission
 
-#### 9. Membership[^key-9fd88a4be76b6470288cd615169f43af]
+#### 9. Membership[^c-9fd88a4be76b6470288cd615169f43af]
 
 (1) The Rabbinical Commission for the licensing of persons carrying out the killing of animals in accordance with the Jewish method (Shechita) must consist of a permanent chairman and nine other members.
 
@@ -122,7 +122,7 @@ after it has been bled in the manner described in paragraph 7.
 - (d) one must be appointed by the Union of Orthodox Hebrew Congregations (London); and
 - (e) two must be appointed by the president of the Board of Deputies of British Jews to represent provincial congregations.
 
-#### 10. Supplementary[^key-a2c569ac040d3c5b24ac7af4ff1f1481]
+#### 10. Supplementary[^c-a2c569ac040d3c5b24ac7af4ff1f1481]
 
 (1) The functions of the Rabbinical Commission may be exercisable notwithstanding a vacancy amongst the members.
 
@@ -130,22 +130,22 @@ after it has been bled in the manner described in paragraph 7.
 
 ## Annotations
 
-[^key-059fc28e833cf09c946415bf1d6133f1]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/1) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-059fc28e833cf09c946415bf1d6133f1]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/1) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-3a22d425b1757fa543f8e38ce2e8e18d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/2) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-3a22d425b1757fa543f8e38ce2e8e18d]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/2) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-1437ec2d5df9222f5b735c993838be38]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/3) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-1437ec2d5df9222f5b735c993838be38]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/3) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-908df7e65fd8502d8748ad67e76befe0]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/4) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-908df7e65fd8502d8748ad67e76befe0]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/4) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-04962d466647e3096faa611f8b4e1bbf]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/5) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-04962d466647e3096faa611f8b4e1bbf]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/5) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-8ad54b208086ee7870638b570315c226]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/6) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-8ad54b208086ee7870638b570315c226]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/6) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-9148051746b851da6038181a2066cb5b]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/7) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-9148051746b851da6038181a2066cb5b]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/7) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-9dd37c8e34352c9417daabad20ddf701]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/8) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-9dd37c8e34352c9417daabad20ddf701]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/8) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-9fd88a4be76b6470288cd615169f43af]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/9) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-9fd88a4be76b6470288cd615169f43af]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/9) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
-[^key-a2c569ac040d3c5b24ac7af4ff1f1481]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/10) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-a2c569ac040d3c5b24ac7af4ff1f1481]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/wsi/2014/951/schedule/3/paragraph/10) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

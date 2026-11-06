@@ -32,7 +32,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2009 (revoked)[^key-01b356e9fac700a22df5e80fc4c1a38c]
+The Social Security (Miscellaneous Amendments No. 3) Regulations (Northern Ireland) 2009 (revoked)[^c-01b356e9fac700a22df5e80fc4c1a38c]
 
 Made
 
@@ -42,40 +42,40 @@ Coming into operation
 
 1st October 2009
 
-[^key-01b356e9fac700a22df5e80fc4c1a38c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01b356e9fac700a22df5e80fc4c1a38c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-01b356e9fac700a22df5e80fc4c1a38c]
+## 1. Citation and commencement[^c-01b356e9fac700a22df5e80fc4c1a38c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (General Benefit) Regulations[^key-01b356e9fac700a22df5e80fc4c1a38c]
+## 2. Amendment of the Social Security (General Benefit) Regulations[^c-01b356e9fac700a22df5e80fc4c1a38c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^key-01b356e9fac700a22df5e80fc4c1a38c]
+## 3. Amendment of the Social Security (Incapacity Benefit) Regulations[^c-01b356e9fac700a22df5e80fc4c1a38c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^key-01b356e9fac700a22df5e80fc4c1a38c]
+## 4. Amendment of the Social Security (Incapacity for Work) (General) Regulations[^c-01b356e9fac700a22df5e80fc4c1a38c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Employment and Support Allowance Regulations[^key-01b356e9fac700a22df5e80fc4c1a38c]
+## 5. Amendment of the Employment and Support Allowance Regulations[^c-01b356e9fac700a22df5e80fc4c1a38c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-01b356e9fac700a22df5e80fc4c1a38c]
+## 6. Revocations[^c-01b356e9fac700a22df5e80fc4c1a38c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-01b356e9fac700a22df5e80fc4c1a38c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01b356e9fac700a22df5e80fc4c1a38c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-01b356e9fac700a22df5e80fc4c1a38c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-01b356e9fac700a22df5e80fc4c1a38c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-01b356e9fac700a22df5e80fc4c1a38c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/318) revoked (1.10.2010) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2010 (S.R. 2010/311)](https://www.legislation.gov.uk/nisr/2010/311), [regs. 1](https://www.legislation.gov.uk/nisr/2010/311/regulation/1), [6](https://www.legislation.gov.uk/nisr/2010/311/regulation/6)
+[^c-01b356e9fac700a22df5e80fc4c1a38c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2009/318) revoked (1.10.2010) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2010 (S.R. 2010/311)](https://www.legislation.gov.uk/nisr/2010/311), [regs. 1](https://www.legislation.gov.uk/nisr/2010/311/regulation/1), [6](https://www.legislation.gov.uk/nisr/2010/311/regulation/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 10 — System of certification of entities in charge of maintenance in respect of Great Britain[^key-59c72af0240a50edbd3d10e5343f3412]
+## SCHEDULE 10 — System of certification of entities in charge of maintenance in respect of Great Britain[^c-59c72af0240a50edbd3d10e5343f3412]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,7 +97,7 @@ In this Schedule—
 
 (1) UK-issued ECM certificates may be awarded by any competent certification body, chosen by the applicant entity in charge of maintenance.
 
-(2) Certification bodies must comply with the general criteria and principles set out in Part 3 and with any relevant[^key-92f007e8574223fc1f8c0e8919919f17] sectoral accreditation schemes.
+(2) Certification bodies must comply with the general criteria and principles set out in Part 3 and with any relevant[^c-92f007e8574223fc1f8c0e8919919f17] sectoral accreditation schemes.
 
 (3) Decisions taken by the certification bodies are subject to judicial review.
 
@@ -363,7 +363,7 @@ The organisation must have procedures to ensure that—
 
 **31.** The organisation must have procedures to guarantee conformity with the essential requirements for interoperability, including updates throughout the lifecycle, by—
 
-- (a) ensuring compliance with the specifications related to the basic parameters for interoperability as set out in the relevant NTSNs[^key-9c793c79dd657ecba6bafe27ac02ef71];
+- (a) ensuring compliance with the specifications related to the basic parameters for interoperability as set out in the relevant NTSNs[^c-9c793c79dd657ecba6bafe27ac02ef71];
 - (b) verifying in all circumstances the consistency of the maintenance file with the authorisation of placing-in-service, including the requirements of a safety authority or the safety authority for the tunnel system, the declarations of conformity to NTSNs, the declarations of verification, and the technical file;
 - (c) managing any substitution in the course of maintenance in compliance with the requirements of the relevant NTSNs;
 - (d) identifying the need for risk assessment regarding the potential impact of the substitution in question on the safety of the railway system;
@@ -497,10 +497,10 @@ The organisation must have procedures to ensure that—
 
 ## Annotations
 
-[^key-59c72af0240a50edbd3d10e5343f3412]: Textual amendment: Schs. 8-11 inserted (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [reg. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/837/schedule/paragraph/1) (as amended in Sch. 11 paras. 14, 16, 17 by S.I. 2019/1310, [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 1 paras. 2, 3, 4](https://www.legislation.gov.uk/uksi/2019/1310/schedule/1/paragraph/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59c72af0240a50edbd3d10e5343f3412]: Textual amendment: Schs. 8-11 inserted (31.12.2020) by [The Rail Safety (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/837)](https://www.legislation.gov.uk/uksi/2019/837), [reg. 1](https://www.legislation.gov.uk/uksi/2019/837/regulation/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/837/schedule/paragraph/1) (as amended in Sch. 11 paras. 14, 16, 17 by S.I. 2019/1310, [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [Sch. 1 paras. 2, 3, 4](https://www.legislation.gov.uk/uksi/2019/1310/schedule/1/paragraph/2/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23831721]: Marginal citation: Annexes IV and V of Commission Regulation (EU) No 445/2011 are substantially reproduced in Schedule 9.
 
-[^key-92f007e8574223fc1f8c0e8919919f17]: Textual amendment: Word in [Sch. 10 para. 6(2)](https://www.legislation.gov.uk/uksi/2006/599/schedule/10/paragraph/6/2) substituted (30.6.2023) by [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2023 (S.I. 2023/540)](https://www.legislation.gov.uk/uksi/2023/540), [regs. 1](https://www.legislation.gov.uk/uksi/2023/540/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2023/540/regulation/3/4)
+[^c-92f007e8574223fc1f8c0e8919919f17]: Textual amendment: Word in [Sch. 10 para. 6(2)](https://www.legislation.gov.uk/uksi/2006/599/schedule/10/paragraph/6/2) substituted (30.6.2023) by [The Railways and Other Guided Transport Systems (Safety) (Amendment) Regulations 2023 (S.I. 2023/540)](https://www.legislation.gov.uk/uksi/2023/540), [regs. 1](https://www.legislation.gov.uk/uksi/2023/540/regulation/1), [3(4)](https://www.legislation.gov.uk/uksi/2023/540/regulation/3/4)
 
-[^key-9c793c79dd657ecba6bafe27ac02ef71]: Textual amendment: Word in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [7(8)(a)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/7/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9c793c79dd657ecba6bafe27ac02ef71]: Textual amendment: Word in Sch. substituted (31.12.2020 immediately before IP completion day) by [The Railways (Safety, Access, Management and Interoperability) (Miscellaneous Amendments and Transitional Provision) (EU Exit) Regulations 2019 (S.I. 2019/1310)](https://www.legislation.gov.uk/uksi/2019/1310), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/1/2/c), [7(8)(a)](https://www.legislation.gov.uk/uksi/2019/1310/regulation/7/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

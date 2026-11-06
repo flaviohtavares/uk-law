@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Disclosure of confidential information[^key-4b2ea3637a2309daba7e631a47087549]
+## 38. Disclosure of confidential information[^c-4b2ea3637a2309daba7e631a47087549]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-4b2ea3637a2309daba7e631a47087549]: Commencement: Art. 38 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)
+[^c-4b2ea3637a2309daba7e631a47087549]: Commencement: Art. 38 in force at 21.4.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/780/article/1)

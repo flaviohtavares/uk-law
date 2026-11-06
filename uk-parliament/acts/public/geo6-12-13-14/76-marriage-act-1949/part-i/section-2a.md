@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Marriages of whole life prisoners[^key-1a591484807c831a278b4562d26d942d]
+## 2A. Marriages of whole life prisoners[^c-1a591484807c831a278b4562d26d942d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a591484807c831a278b4562d26d942d]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76/section/2A) inserted (2.8.2024) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 75(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/75/1), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2024/846](https://www.legislation.gov.uk/uksi/2024/846), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/846/regulation/2/a)
+[^c-1a591484807c831a278b4562d26d942d]: Textual amendment: [S. 2A](https://www.legislation.gov.uk/ukpga/Geo6/12-13-14/76/section/2A) inserted (2.8.2024) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 75(1)](https://www.legislation.gov.uk/ukpga/2024/21/section/75/1), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2); [S.I. 2024/846](https://www.legislation.gov.uk/uksi/2024/846), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/846/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41.7. Anonymity of defendant on reference of point of law[^key-65349f696a2e0669e75f8bc0f41a8232]
+## 41.7. Anonymity of defendant on reference of point of law[^c-65349f696a2e0669e75f8bc0f41a8232]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where the Attorney General refers a point of law, the court must not allow anyon
 
 ## Annotations
 
-[^key-65349f696a2e0669e75f8bc0f41a8232]: Commencement: [Rule 41.7](https://www.legislation.gov.uk/uksi/2025/909/rule/41.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-65349f696a2e0669e75f8bc0f41a8232]: Commencement: [Rule 41.7](https://www.legislation.gov.uk/uksi/2025/909/rule/41.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

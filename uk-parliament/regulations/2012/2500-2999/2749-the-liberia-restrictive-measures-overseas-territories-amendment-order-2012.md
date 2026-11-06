@@ -32,7 +32,7 @@ summary: ''
 
 Overseas Territories
 
-The Liberia (Restrictive Measures) (Overseas Territories) (Amendment) Order 2012 (revoked)[^key-ce37663d704a99c284db8bbfc5172155]
+The Liberia (Restrictive Measures) (Overseas Territories) (Amendment) Order 2012 (revoked)[^c-ce37663d704a99c284db8bbfc5172155]
 
 Made
 
@@ -52,40 +52,40 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-ce37663d704a99c284db8bbfc5172155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce37663d704a99c284db8bbfc5172155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, interpretation and extent[^key-ce37663d704a99c284db8bbfc5172155]
+## 1. Citation, commencement, interpretation and extent[^c-ce37663d704a99c284db8bbfc5172155]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the principal Order[^key-ce37663d704a99c284db8bbfc5172155]
+## 2. Amendment of the principal Order[^c-ce37663d704a99c284db8bbfc5172155]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-ce37663d704a99c284db8bbfc5172155] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ce37663d704a99c284db8bbfc5172155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce37663d704a99c284db8bbfc5172155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ce37663d704a99c284db8bbfc5172155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ce37663d704a99c284db8bbfc5172155]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ce37663d704a99c284db8bbfc5172155]: Textual amendment: Order revoked (10.12.2015) by [The Liberia (Sanctions) (Overseas Territories) Order 2015 (S.I. 2015/1899)](https://www.legislation.gov.uk/uksi/2015/1899), [art. 1(2)(4)](https://www.legislation.gov.uk/uksi/2015/1899/article/1/2)
+[^c-ce37663d704a99c284db8bbfc5172155]: Textual amendment: Order revoked (10.12.2015) by [The Liberia (Sanctions) (Overseas Territories) Order 2015 (S.I. 2015/1899)](https://www.legislation.gov.uk/uksi/2015/1899), [art. 1(2)(4)](https://www.legislation.gov.uk/uksi/2015/1899/article/1/2)

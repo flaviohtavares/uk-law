@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 94. Offence: preventing or obstructing entry[^key-065e8699c3c2917181fd2cad9490f022]
+## 94. Offence: preventing or obstructing entry[^c-065e8699c3c2917181fd2cad9490f022]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-065e8699c3c2917181fd2cad9490f022]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2011/9/section/94) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)
+[^c-065e8699c3c2917181fd2cad9490f022]: Commencement: [S. 94](https://www.legislation.gov.uk/asp/2011/9/section/94) in force at 1.4.2015 by [S.S.I. 2015/63](https://www.legislation.gov.uk/ssi/2015/63), [art. 2](https://www.legislation.gov.uk/ssi/2015/63/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/63/schedule)

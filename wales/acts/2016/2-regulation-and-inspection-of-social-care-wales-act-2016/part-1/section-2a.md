@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Meaning of “restricted children’s service”[^key-1eaca23177ce4cda980a85fc1500e1a8]
+## 2A. Meaning of “restricted children’s service”[^c-1eaca23177ce4cda980a85fc1500e1a8]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1eaca23177ce4cda980a85fc1500e1a8]: Textual amendment: S. 2A inserted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 2(b)](https://www.legislation.gov.uk/asc/2025/1/section/2/b), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
+[^c-1eaca23177ce4cda980a85fc1500e1a8]: Textual amendment: S. 2A inserted (1.4.2026) by [Health and Social Care (Wales) Act 2025 (asc 1)](https://www.legislation.gov.uk/asc/2025/1), [ss. 2(b)](https://www.legislation.gov.uk/asc/2025/1/section/2/b), [29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2); [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)

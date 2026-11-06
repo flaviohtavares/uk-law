@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Exceptions to requirement to be available immediately: carers, voluntary workers, persons providing a service and persons under an obligation to provide notice[^key-4afc15d57bf150deea782caffd9bfbcc]
+## 5. Exceptions to requirement to be available immediately: carers, voluntary workers, persons providing a service and persons under an obligation to provide notice[^c-4afc15d57bf150deea782caffd9bfbcc]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4afc15d57bf150deea782caffd9bfbcc]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-4afc15d57bf150deea782caffd9bfbcc]: Commencement: Reg. 5 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00036]: Footnote: [1965 c. 19 (N.I.)](https://www.legislation.gov.uk/apni/1965/19); section 1 was amended by Part II of Schedule 5 to the Industrial Relations (Northern Ireland) Order 1976 ([S.I. 1976/1043(N.I. 16)](https://www.legislation.gov.uk/nisi/1976/1043) ) and paragraph 1 of Schedule 2 to the Industrial Relations (Northern Ireland) Order 1987 ([S.I. 1987/936 (N.I. 9)](https://www.legislation.gov.uk/nisi/1987/936))

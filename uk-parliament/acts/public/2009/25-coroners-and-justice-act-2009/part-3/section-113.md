@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Powers in respect of offenders who assist investigations and prosecutions[^key-326baff1c77beee7c66f8bf4bf72ac37]
+## 113. Powers in respect of offenders who assist investigations and prosecutions[^c-326baff1c77beee7c66f8bf4bf72ac37]
 
 *Extent: E+W*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-326baff1c77beee7c66f8bf4bf72ac37]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2009/25/section/113) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/6)
+[^c-326baff1c77beee7c66f8bf4bf72ac37]: Commencement: [S. 113](https://www.legislation.gov.uk/ukpga/2009/25/section/113) in force at 6.4.2010 by [S.I. 2010/816](https://www.legislation.gov.uk/uksi/2010/816), [art. 2](https://www.legislation.gov.uk/uksi/2010/816/article/2), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2010/816/schedule/paragraph/6)

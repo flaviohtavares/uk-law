@@ -32,7 +32,7 @@ Procurement Reform (Scotland) Act 2014
 
 An Act of the Scottish Parliament to make provision about the procedures relating to the award of certain public contracts; to require certain authorities to produce procurement strategies and annual reports; and for connected purposes.
 
-The Bill for this Act of the Scottish Parliament was passed by the Parliament on 13th May 2014 and received Royal Assent on 17th June 2014[^key-c3186e6bf275fc951eed2f6e45e074a5][^key-b9d8743b2236bdbb5416ea82d6deb54f]
+The Bill for this Act of the Scottish Parliament was passed by the Parliament on 13th May 2014 and received Royal Assent on 17th June 2014[^c-c3186e6bf275fc951eed2f6e45e074a5][^c-b9d8743b2236bdbb5416ea82d6deb54f]
 
 ## Contents
 
@@ -147,6 +147,6 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Annotations
 
-[^key-c3186e6bf275fc951eed2f6e45e074a5]: Modification: [Act](https://www.legislation.gov.uk/asp/2014/12) applied in part (18.4.2016) by [The Procurement (Scotland) Regulations 2016 (S.S.I. 2016/145)](https://www.legislation.gov.uk/ssi/2016/145), [reg. 4](https://www.legislation.gov.uk/ssi/2016/145/regulation/4)
+[^c-c3186e6bf275fc951eed2f6e45e074a5]: Modification: [Act](https://www.legislation.gov.uk/asp/2014/12) applied in part (18.4.2016) by [The Procurement (Scotland) Regulations 2016 (S.S.I. 2016/145)](https://www.legislation.gov.uk/ssi/2016/145), [reg. 4](https://www.legislation.gov.uk/ssi/2016/145/regulation/4)
 
-[^key-b9d8743b2236bdbb5416ea82d6deb54f]: Modification: [Act](https://www.legislation.gov.uk/asp/2014/12): power to amend conferred (23.5.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 115(3)](https://www.legislation.gov.uk/ukpga/2023/54/section/115/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/54/section/115/4), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/716/regulation/2/1)
+[^c-b9d8743b2236bdbb5416ea82d6deb54f]: Modification: [Act](https://www.legislation.gov.uk/asp/2014/12): power to amend conferred (23.5.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [ss. 115(3)](https://www.legislation.gov.uk/ukpga/2023/54/section/115/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/54/section/115/4), [127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2); [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2024/716/regulation/2/1)

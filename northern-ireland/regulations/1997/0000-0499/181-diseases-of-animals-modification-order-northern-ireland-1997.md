@@ -30,7 +30,7 @@ summary: ''
 
 ANIMALS
 
-Diseases of Animals (Modification) Order (Northern Ireland) 1997 (revoked)[^key-292cbbc7cfd2ad7e0445c181297e9ecc]
+Diseases of Animals (Modification) Order (Northern Ireland) 1997 (revoked)[^c-292cbbc7cfd2ad7e0445c181297e9ecc]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 14th April 1997
 
-[^key-292cbbc7cfd2ad7e0445c181297e9ecc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-292cbbc7cfd2ad7e0445c181297e9ecc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-292cbbc7cfd2ad7e0445c181297e9ecc]
+## 1. Citation and commencement[^c-292cbbc7cfd2ad7e0445c181297e9ecc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Modification of the Diseases of Animals (Northern Ireland) Order 1981[^key-292cbbc7cfd2ad7e0445c181297e9ecc]
+## 2. Modification of the Diseases of Animals (Northern Ireland) Order 1981[^c-292cbbc7cfd2ad7e0445c181297e9ecc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-292cbbc7cfd2ad7e0445c181297e9ecc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-292cbbc7cfd2ad7e0445c181297e9ecc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-292cbbc7cfd2ad7e0445c181297e9ecc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-292cbbc7cfd2ad7e0445c181297e9ecc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-292cbbc7cfd2ad7e0445c181297e9ecc]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/181) revoked (29.1.1999) by [Diseases of Animals (Modification) (No. 2) Order (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/442)](https://www.legislation.gov.uk/nisr/1998/442), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/442/article/1/1), [3](https://www.legislation.gov.uk/nisr/1998/442/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/1998/442/article/4))
+[^c-292cbbc7cfd2ad7e0445c181297e9ecc]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1997/181) revoked (29.1.1999) by [Diseases of Animals (Modification) (No. 2) Order (Northern Ireland) 1998 (revoked) 1998 (S.R. 1998/442)](https://www.legislation.gov.uk/nisr/1998/442), [arts. 1(1)](https://www.legislation.gov.uk/nisr/1998/442/article/1/1), [3](https://www.legislation.gov.uk/nisr/1998/442/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/1998/442/article/4))

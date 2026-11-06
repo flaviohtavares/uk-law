@@ -31,12 +31,12 @@ summary: ''
 - (a) if the original relief is or would have been available under Chapter 2, all the conditions set out in section 1008 are met, or
 - (b) if the original relief is or would have been available under Chapter 3, all the conditions set out in section 1016 are met (ignoring paragraph (f) of condition 3).
 
-(3)[^key-2e642d39fa40b3cb0a35a2f58dfb175b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-2e642d39fa40b3cb0a35a2f58dfb175b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-2e642d39fa40b3cb0a35a2f58dfb175b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-2e642d39fa40b3cb0a35a2f58dfb175b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-2e642d39fa40b3cb0a35a2f58dfb175b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-2e642d39fa40b3cb0a35a2f58dfb175b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2e642d39fa40b3cb0a35a2f58dfb175b]: Textual amendment: S. 1032(3)-(5) omitted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 33](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/33), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)
+[^c-2e642d39fa40b3cb0a35a2f58dfb175b]: Textual amendment: S. 1032(3)-(5) omitted (with effect in accordance with Sch. 9 para. 48 of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 9 paras. 33](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/33), [47](https://www.legislation.gov.uk/ukpga/2014/26/schedule/9/paragraph/47)

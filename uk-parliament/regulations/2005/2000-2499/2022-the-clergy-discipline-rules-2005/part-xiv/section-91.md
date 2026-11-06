@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 91. Special cases under section 42 of the Measure[^key-d244c968416b812ccbe347ab6a6233e1]
+## 91. Special cases under section 42 of the Measure[^c-d244c968416b812ccbe347ab6a6233e1]
 
 *Extent: E*
 
@@ -32,4 +32,4 @@ the rules shall apply and be read with the following adaptations.
 
 ## Annotations
 
-[^key-d244c968416b812ccbe347ab6a6233e1]: Commencement: [Rule 91](https://www.legislation.gov.uk/uksi/2005/2022/rule/91) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)
+[^c-d244c968416b812ccbe347ab6a6233e1]: Commencement: [Rule 91](https://www.legislation.gov.uk/uksi/2005/2022/rule/91) in force at 1.1.2006, see [rule 107(2)](https://www.legislation.gov.uk/uksi/2005/2022/rule/107/2)

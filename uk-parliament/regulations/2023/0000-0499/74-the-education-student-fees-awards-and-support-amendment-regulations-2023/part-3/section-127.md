@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Amendments relating to students who become eligible after the start of an HE short course[^key-46618ce431e5ae2b4b78873d7fddb1d2]
+## 127. Amendments relating to students who become eligible after the start of an HE short course[^c-46618ce431e5ae2b4b78873d7fddb1d2]
 
 *Extent: E+W*
 
 In regulation 2(4) (interpretation) after “place”, in the second place it occurs, insert “(but see regulation 7(3) and (4))”.
 
-**128.**[^key-c458293ec3b6943cebe5a079a13aa051] (1) Regulation 7 (students who become eligible students after the start of an HE short course) is amended as follows.
+**128.**[^c-c458293ec3b6943cebe5a079a13aa051] (1) Regulation 7 (students who become eligible students after the start of an HE short course) is amended as follows.
 
 (2) In paragraph (1) for “course, a student” substitute “course which results in a student becoming an eligible student, the student”.
 
@@ -36,6 +36,6 @@ In regulation 2(4) (interpretation) after “place”, in the second place it oc
 
 ## Annotations
 
-[^key-46618ce431e5ae2b4b78873d7fddb1d2]: Commencement: Reg. 127 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-46618ce431e5ae2b4b78873d7fddb1d2]: Commencement: Reg. 127 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-c458293ec3b6943cebe5a079a13aa051]: Commencement: Reg. 128 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-c458293ec3b6943cebe5a079a13aa051]: Commencement: Reg. 128 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Calculation of disposal fees[^key-1d959e8db3a80773de036caef37f5a18]
+## 61. Calculation of disposal fees[^c-1d959e8db3a80773de036caef37f5a18]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ where—
 
 ## Annotations
 
-[^key-1d959e8db3a80773de036caef37f5a18]: Commencement: Reg. 61 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-1d959e8db3a80773de036caef37f5a18]: Commencement: Reg. 61 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

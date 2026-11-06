@@ -43,11 +43,11 @@ Coming into operation
 
 The Lord Chancellor, in exercise of the powers conferred by Article 36(3) of the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^f00001], and now vested in him[^f00002], after consultation with the Lord Chief Justice and the Attorney General and with the approval of the Treasury, hereby makes the following Rules:
 
-## 1. Citation and commencement[^key-50fe053f7a0d30fc09820bb81173b47f]
+## 1. Citation and commencement[^c-50fe053f7a0d30fc09820bb81173b47f]
 
 These Rules may be cited as the Legal Aid in Criminal Proceedings (Costs) (Amendment No. 2) Rules (Northern Ireland) 2005, and shall come into operation on 1st July 2005.
 
-## 2. Alteration of date[^key-a04b7ed142c94c41570d76ffd94116c6]
+## 2. Alteration of date[^c-a04b7ed142c94c41570d76ffd94116c6]
 
 In rules 6(3) and 9(5)(a) of the Legal Aid in Criminal Proceedings (Costs) Rules (Northern Ireland) 1992[^f00003] for the date “30th June 2005” there shall be substituted the date “30th June 2006”.
 
@@ -81,8 +81,8 @@ These Rules amend the Legal Aid in Criminal Proceedings (Costs) Rules (Northern 
 
 [^f00002]: Footnote: S.I. [1982/159](https://www.legislation.gov.uk/uksi/1982/159)
 
-[^key-50fe053f7a0d30fc09820bb81173b47f]: Commencement: Rule 1 in operation at 1.7.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/307/rule/1)
+[^c-50fe053f7a0d30fc09820bb81173b47f]: Commencement: Rule 1 in operation at 1.7.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/307/rule/1)
 
-[^key-a04b7ed142c94c41570d76ffd94116c6]: Commencement: Rule 2 in operation at 1.7.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/307/rule/1)
+[^c-a04b7ed142c94c41570d76ffd94116c6]: Commencement: Rule 2 in operation at 1.7.2005, see [rule 1](https://www.legislation.gov.uk/nisr/2005/307/rule/1)
 
 [^f00003]: Footnote: [S.R. 1992 No. 314](https://www.legislation.gov.uk/nisr/1992/314); to which the most recent relevant amendment was made by [S.R. 2004 No. 510](https://www.legislation.gov.uk/nisr/2004/510)

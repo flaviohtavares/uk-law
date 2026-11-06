@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Prescription and limitation[^key-70a3a9cd065ddd0183a960c4201c5d40]
+## 23. Prescription and limitation[^c-70a3a9cd065ddd0183a960c4201c5d40]
 
 *Extent: S*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70a3a9cd065ddd0183a960c4201c5d40]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2010/1/section/23) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3), [5](https://www.legislation.gov.uk/ssi/2010/195/article/5))
+[^c-70a3a9cd065ddd0183a960c4201c5d40]: Commencement: [S. 23](https://www.legislation.gov.uk/asp/2010/1/section/23) in force at 7.6.2010 for specified purposes by [S.S.I. 2010/195](https://www.legislation.gov.uk/ssi/2010/195), [art. 2](https://www.legislation.gov.uk/ssi/2010/195/article/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2010/195/article/3), [5](https://www.legislation.gov.uk/ssi/2010/195/article/5))

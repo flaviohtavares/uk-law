@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 146. Intimidation of persons connected with animal research organisation[^key-ef354a2599f036e3e9ae19c4242fe66c]
+## 146. Intimidation of persons connected with animal research organisation[^c-ef354a2599f036e3e9ae19c4242fe66c]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
 (3) For the purposes of this section, an “**officer**” of an animal research organisation or a person includes—
 
 - (a) where the organisation or person is a body corporate, a director, manager or secretary;
-- (b) where the organisation or person is a charity, a charity trustee (within the meaning of the Charities Act 2011)[^key-fa0fc375be082fd6ddb34642abe01782];
+- (b) where the organisation or person is a charity, a charity trustee (within the meaning of the Charities Act 2011)[^c-fa0fc375be082fd6ddb34642abe01782];
 - (c) where the organisation or person is a partnership, a partner.
 
 (4) For the purposes of this section—
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef354a2599f036e3e9ae19c4242fe66c]: Commencement: S. 146 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(t)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/t)
+[^c-ef354a2599f036e3e9ae19c4242fe66c]: Commencement: S. 146 in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(t)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/t)
 
-[^key-fa0fc375be082fd6ddb34642abe01782]: Textual amendment: Words in [s. 146(3)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/146/3/b) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 103](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/103) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))
+[^c-fa0fc375be082fd6ddb34642abe01782]: Textual amendment: Words in [s. 146(3)(b)](https://www.legislation.gov.uk/ukpga/2005/15/section/146/3/b) substituted (14.3.2012) by [Charities Act 2011 (c. 25)](https://www.legislation.gov.uk/ukpga/2011/25), [s. 355](https://www.legislation.gov.uk/ukpga/2011/25/section/355), [Sch. 7 para. 103](https://www.legislation.gov.uk/ukpga/2011/25/schedule/7/paragraph/103) (with [s. 20(2)](https://www.legislation.gov.uk/ukpga/2011/25/section/20/2), [Sch. 8](https://www.legislation.gov.uk/ukpga/2011/25/schedule/8))

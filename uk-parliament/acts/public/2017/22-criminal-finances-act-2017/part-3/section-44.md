@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Meaning of relevant body and acting in the capacity of an associated person[^key-d61fd6cefbffbbee4da0b7cc0ed0a467][^c22725451]
+## 44. Meaning of relevant body and acting in the capacity of an associated person[^c-d61fd6cefbffbbee4da0b7cc0ed0a467][^c22725451]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ or a firm or entity of a similar character formed under the law of a foreign cou
 
 ## Annotations
 
-[^key-d61fd6cefbffbbee4da0b7cc0ed0a467]: Commencement: S. 44 in force at 30.9.2017 in so far as not already in force by [S.I. 2017/739](https://www.legislation.gov.uk/uksi/2017/739), [reg. 3](https://www.legislation.gov.uk/uksi/2017/739/regulation/3)
+[^c-d61fd6cefbffbbee4da0b7cc0ed0a467]: Commencement: S. 44 in force at 30.9.2017 in so far as not already in force by [S.I. 2017/739](https://www.legislation.gov.uk/uksi/2017/739), [reg. 3](https://www.legislation.gov.uk/uksi/2017/739/regulation/3)
 
 [^c22725451]: Commencement: S. 44 in force at Royal Assent for specified purposes, see s. 58

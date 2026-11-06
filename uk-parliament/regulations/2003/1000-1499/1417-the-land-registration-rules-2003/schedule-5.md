@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — APPLICATIONS IN CONNECTION WITH INVESTIGATION OR ENFORCEMENT PROCEEDINGS – QUALIFYING APPLICANTS[^key-c65e19654caa6efe0de0900843ad4ed4]
+## SCHEDULE 5 — APPLICATIONS IN CONNECTION WITH INVESTIGATION OR ENFORCEMENT PROCEEDINGS – QUALIFYING APPLICANTS[^c-c65e19654caa6efe0de0900843ad4ed4]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ Rule 140
 - An Official Receiver for the purposes of the Insolvency Act 1986
 - A Receiver appointed under the Criminal Justice Act 1988, the Drug Trafficking Act 1994 or the Proceeds of Crime Act 2002
 - The Scottish Ministers or a person named by them
-- A person authorised by the Secretary of State for Business and Trade[^key-b76534007f06fede456c686d234a373f]
+- A person authorised by the Secretary of State for Business and Trade[^c-b76534007f06fede456c686d234a373f]
 - A person authorised by the Secretary of State for Work and Pensions
 - A person authorised to apply on behalf of the Bank of England (acting otherwise than in its capacity as the Prudential Regulation Authority)
 - A trustee in bankruptcy, being either a trustee in bankruptcy of a person adjudged bankrupt in England and Wales or Northern Ireland or a permanent or interim trustee in the sequestration of a debtor’s estate in Scotland
@@ -53,6 +53,6 @@ Rule 140
 
 ## Annotations
 
-[^key-c65e19654caa6efe0de0900843ad4ed4]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2003/1417/schedule/5) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2018/70/schedule/2/paragraph/4)
+[^c-c65e19654caa6efe0de0900843ad4ed4]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/uksi/2003/1417/schedule/5) substituted (6.4.2018) by [The Land Registration (Amendment) Rules 2018 (S.I. 2018/70)](https://www.legislation.gov.uk/uksi/2018/70), [rule 1](https://www.legislation.gov.uk/uksi/2018/70/rule/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2018/70/schedule/2/paragraph/4)
 
-[^key-b76534007f06fede456c686d234a373f]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2003/1417/schedule/5) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/38) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))
+[^c-b76534007f06fede456c686d234a373f]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2003/1417/schedule/5) substituted (3.5.2023) by [The Secretaries of State for Energy Security and Net Zero, for Science, Innovation and Technology, for Business and Trade, and for Culture, Media and Sport and the Transfer of Functions (National Security and Investment Act 2021 etc) Order 2023 (S.I. 2023/424)](https://www.legislation.gov.uk/uksi/2023/424), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/424/article/1/2), [Sch. para. 38](https://www.legislation.gov.uk/uksi/2023/424/schedule/paragraph/38) (with [art. 17](https://www.legislation.gov.uk/uksi/2023/424/article/17))

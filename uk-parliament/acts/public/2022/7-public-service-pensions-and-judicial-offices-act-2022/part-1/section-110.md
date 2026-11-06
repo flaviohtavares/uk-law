@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Interpretation of Part[^key-a414695996cff8b0724666594b3afcd9][^key-81c3440ab545c91acf95202c1f43ff99][^key-ca448edb365ff095bad9fa8ae2a69b87][^key-3bba22b3cebf4eb1f00b3aeaec5fe952]
+## 110. Interpretation of Part[^c-a414695996cff8b0724666594b3afcd9][^c-81c3440ab545c91acf95202c1f43ff99][^c-ca448edb365ff095bad9fa8ae2a69b87][^c-3bba22b3cebf4eb1f00b3aeaec5fe952]
 
 *Extent: E+W+S+N.I.*
 
@@ -109,10 +109,10 @@ Service in an employment or office is “excess teacher service” if all of the
 
 ## Annotations
 
-[^key-a414695996cff8b0724666594b3afcd9]: Commencement: S. 110 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
+[^c-a414695996cff8b0724666594b3afcd9]: Commencement: S. 110 in force at Royal Assent for specified purposes, see [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)
 
-[^key-81c3440ab545c91acf95202c1f43ff99]: Commencement: S. 110 in force at 1.4.2022 for specified purposes, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
+[^c-81c3440ab545c91acf95202c1f43ff99]: Commencement: S. 110 in force at 1.4.2022 for specified purposes, see [s. 131(2)(f)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/2/f)
 
-[^key-ca448edb365ff095bad9fa8ae2a69b87]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2022/7/section/110) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see
+[^c-ca448edb365ff095bad9fa8ae2a69b87]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2022/7/section/110) in force at 1.10.2023 in force in so far as not already in force (or on such earlier day as may be appointed), see
 
-[^key-3bba22b3cebf4eb1f00b3aeaec5fe952]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2022/7/section/110) in force at 4.7.2023 for specified purposes by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/c)
+[^c-3bba22b3cebf4eb1f00b3aeaec5fe952]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2022/7/section/110) in force at 4.7.2023 for specified purposes by [S.I. 2023/746](https://www.legislation.gov.uk/uksi/2023/746), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2023/746/regulation/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Application to the Channel Islands in relation to nominations[^key-5cf99e8658bbf180cf9493626942ec8f]
+## 55. Application to the Channel Islands in relation to nominations[^c-5cf99e8658bbf180cf9493626942ec8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5cf99e8658bbf180cf9493626942ec8f]: Commencement: Reg. 55 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-5cf99e8658bbf180cf9493626942ec8f]: Commencement: Reg. 55 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

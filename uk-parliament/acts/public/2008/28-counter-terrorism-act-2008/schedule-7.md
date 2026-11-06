@@ -93,34 +93,34 @@ poses a significant risk to the national interests of the United Kingdom.
 
 #### Meaning of “credit institution” and “financial institution”
 
-**5.** (1)[^key-0f312bcf13516e41c33a1f6aadfadc8d] Credit institution” means a credit institution, as defined in Article 4(1)(1) of the capital requirements regulation[^key-94476cb2a4fb76b782528fa3f3e87737], when it accepts deposits or other repayable funds from the public or grants credits for its own account (within the meaning of that directive).
+**5.** (1)[^c-0f312bcf13516e41c33a1f6aadfadc8d] Credit institution” means a credit institution, as defined in Article 4(1)(1) of the capital requirements regulation[^c-94476cb2a4fb76b782528fa3f3e87737], when it accepts deposits or other repayable funds from the public or grants credits for its own account (within the meaning of that directive).
 
 (2) “**Financial institution**” means—
 
-- (a) an undertaking, including a money service business, when it carries out one or more of the activities listed in points 2 to 12 , 14 and 15[^key-14f26c2d2b0b17711374d5ec1006e1fc] of Schedule 2 to the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^key-256f8b4b1ab37b5c70892baefab9a00f], other than—
+- (a) an undertaking, including a money service business, when it carries out one or more of the activities listed in points 2 to 12 , 14 and 15[^c-14f26c2d2b0b17711374d5ec1006e1fc] of Schedule 2 to the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017[^c-256f8b4b1ab37b5c70892baefab9a00f], other than—
   - (i) a credit institution;
   - (ii) an undertaking whose only listed activity is trading for own account in one or more of the products listed in point 7 of Schedule 2 to the Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 where the undertaking does not have a customer,
 
   and for this purpose “**customer**” means a person who is not a member of the same group as the undertaking;
 - (b) an insurance company duly authorised in accordance with the life assurance consolidation directive, when it carries out activities covered by that directive;
-- (ba)[^key-5ee2a0cb039136f9ff3e50b1e6f769f2] a person equivalent to an insurance company within paragraph (b) whose head office is located in a non-EEA state, when carrying out activities of the kind mentioned in paragraph (b);
+- (ba)[^c-5ee2a0cb039136f9ff3e50b1e6f769f2] a person equivalent to an insurance company within paragraph (b) whose head office is located in a non-EEA state, when carrying out activities of the kind mentioned in paragraph (b);
 - (c) a person whose regular occupation or business is the provision to other persons of an investment service or the performance of an investment activity on a professional basis, when providing or performing investment services or activities (within the meaning of the markets in financial instruments directive), other than a person falling within Article 2 of that directive;
 - (d) a collective investment undertaking, when marketing or otherwise offering its units or shares;
-- (e)[^key-f1d560b07ce2bc2f7c064011eb8f8579] an insurance intermediary as defined in article 33B(4) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001, when it acts in respect of contracts of long-term insurance within the meaning given by article 3(1) of, and Part II of Schedule 1 to, that Order;
-- (f)[^key-85ad66dd85c2e08df932cba42a1bb8ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-f1d560b07ce2bc2f7c064011eb8f8579] an insurance intermediary as defined in article 33B(4) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001, when it acts in respect of contracts of long-term insurance within the meaning given by article 3(1) of, and Part II of Schedule 1 to, that Order;
+- (f)[^c-85ad66dd85c2e08df932cba42a1bb8ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) an insurance company (as defined by section 1165(3) of the Companies Act 2006 (c. 46));
 - (h) the National Savings Bank;
 - (i) the Director of Savings, when money is raised under the auspices of the Director under the National Loans Act 1968 (c. 13).
 
-(3)[^key-200f0436b4939e3a5f926af3a5954def] The fact that an institution's head office is located in a non-EEA state does not prevent it from being a credit institution or a financial institution for the purposes of this Schedule.
+(3)[^c-200f0436b4939e3a5f926af3a5954def] The fact that an institution's head office is located in a non-EEA state does not prevent it from being a credit institution or a financial institution for the purposes of this Schedule.
 
 #### Exceptions
 
 **6.** (1) For the purposes of this Schedule the following are not regarded as persons operating in the financial sector when carrying out any of the following activities—
 
-- (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014[^key-d9cda7f380bbda10130799ea4cc74e0d], when it—
-  - (i) issues withdrawable share capital within the limit set by section 24[^key-28b3daad259ab369de1aa6a355dd32f5] of that Act (maximum shareholding in society); or
-  - (ii) accepts deposits from the public within the limit set by section 67(2)[^key-428afb35e3ba5f5fbe6a845a36beeee1] of that Act (carrying on of banking by societies);
+- (a) a registered society within the meaning of the Co-operative and Community Benefit Societies Act 2014[^c-d9cda7f380bbda10130799ea4cc74e0d], when it—
+  - (i) issues withdrawable share capital within the limit set by section 24[^c-28b3daad259ab369de1aa6a355dd32f5] of that Act (maximum shareholding in society); or
+  - (ii) accepts deposits from the public within the limit set by section 67(2)[^c-428afb35e3ba5f5fbe6a845a36beeee1] of that Act (carrying on of banking by societies);
 - (b) a society registered under the Industrial and Provident Societies Act (Northern Ireland) 1969 (c. 24 (N.I.)), when it—
   - (i) issues withdrawable share capital within the limit set by section 6 of that Act (maximum shareholding in society); or
   - (ii) accepts deposits from the public within the limit set by section 7(3) of that Act (carrying on of banking by societies);
@@ -143,11 +143,11 @@ poses a significant risk to the national interests of the United Kingdom.
 
 **7.** In this Part of this Schedule—
 
-- [^key-8f4089a7e7c43c040049f6751e18855d]...
-- [^key-7f377f4e530e8e1ab9a72362cc3baae3]...
-- “[^key-93a6528c0092001a35f738948491b1a8]**the capital requirements regulation**” means [Regulation (EU) No. 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms;
+- [^c-8f4089a7e7c43c040049f6751e18855d]...
+- [^c-7f377f4e530e8e1ab9a72362cc3baae3]...
+- “[^c-93a6528c0092001a35f738948491b1a8]**the capital requirements regulation**” means [Regulation (EU) No. 575/2013](https://www.legislation.gov.uk/european/regulation/2013/0575) of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms;
 - “**the life assurance consolidation directive**” means Directive [2002/83/EC](https://www.legislation.gov.uk/eudr/2002/83) of the European Parliament and of the Council of 5th November 2002 concerning life assurance;
-- “**the markets in financial instruments directive**” means Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014[^key-6de93229263e70e10dc0c6529f886b22] on markets in financial instruments.
+- “**the markets in financial instruments directive**” means Directive 2014/65/EU of the European Parliament and of the Council of 15 May 2014[^c-6de93229263e70e10dc0c6529f886b22] on markets in financial instruments.
 
 #### Power to amend
 
@@ -164,7 +164,7 @@ poses a significant risk to the national interests of the United Kingdom.
 - (a) a person carrying on business in the country;
 - (b) the government of the country;
 - (c) a person resident or incorporated in the country.
-- (d)[^key-a5f9857f9700ef93f4676aedb08d40aa] a company that is a subsidiary of a company within paragraph (a) or (c).
+- (d)[^c-a5f9857f9700ef93f4676aedb08d40aa] a company that is a subsidiary of a company within paragraph (a) or (c).
 
 (2) The direction may impose requirements in relation to—
 
@@ -186,11 +186,11 @@ poses a significant risk to the national interests of the United Kingdom.
 - (a) in relation to different descriptions of designated person, and
 - (b) in relation to different descriptions of transaction or business relationship.
 
-(5A)[^key-0561800061bc316ab49804265b53acce] Descriptions of transactions or business relationships for the purposes of sub-paragraph (5)(b) may, in particular, include transactions or business relationships of a particular branch (or description of branch) of a relevant person.
+(5A)[^c-0561800061bc316ab49804265b53acce] Descriptions of transactions or business relationships for the purposes of sub-paragraph (5)(b) may, in particular, include transactions or business relationships of a particular branch (or description of branch) of a relevant person.
 
 (6) The requirements imposed by a direction must be proportionate having regard to the advice mentioned in paragraph 1(2) or, as the case may be, the risk mentioned in paragraph 1(3) or (4) to the national interests of the United Kingdom.
 
-(7)[^key-38145149e2ac2a50980c72c4fb52a4d9] In this paragraph “**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006 (and “**company**” has the same meaning as in that section).
+(7)[^c-38145149e2ac2a50980c72c4fb52a4d9] In this paragraph “**subsidiary**” has the meaning given by section 1159 of the Companies Act 2006 (and “**company**” has the same meaning as in that section).
 
 #### Customer due diligence
 
@@ -339,23 +339,23 @@ This is without prejudice to the making of a further order.
 
 **18.** (1) In this Schedule “**enforcement authority**” means—
 
-- (a)[^key-062ee285b512d8ca03b4d0f78d2aa021] The Financial Conduct Authority (“the FCA”),
-- (b) the Commissioners for Her Majesty's Revenue and Customs (“HMRC”), [^key-8b417f9e31fb8ec591caf9957755e352]...
-- (c)[^key-71ebe7a6134d67859431bcba7ae06689] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-e9ea4b1ede409dc77abd927fb4692603] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-062ee285b512d8ca03b4d0f78d2aa021] The Financial Conduct Authority (“the FCA”),
+- (b) the Commissioners for Her Majesty's Revenue and Customs (“HMRC”), [^c-8b417f9e31fb8ec591caf9957755e352]...
+- (c)[^c-71ebe7a6134d67859431bcba7ae06689] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-e9ea4b1ede409dc77abd927fb4692603] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In this Part of this Schedule “**enforcement officer**” means—
 
-- (a) an officer of the FCA[^key-55bc8a5ccd5ab7479c2938470743fe5d] , including a member of the staff or an agent of the FCA ,
+- (a) an officer of the FCA[^c-55bc8a5ccd5ab7479c2938470743fe5d] , including a member of the staff or an agent of the FCA ,
 - (b) an officer of Revenue and Customs,
-- (c)[^key-8993fd5234e7ffd7a95755b867058571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-f186dc4ed9422ff215401028f7fbf312] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
+- (c)[^c-8993fd5234e7ffd7a95755b867058571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-f186dc4ed9422ff215401028f7fbf312] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . or
 - (e) a local enforcement officer.
 
 (3) A “**local enforcement officer**” means—
 
 - (a) in Great Britain, an officer of a local weights and measures authority;
-- (b) in Northern Ireland, an officer of the Department of Enterprise, Trade and Investment in Northern Ireland (“DETINI”)[^key-c5cbface41b1633d51118b5ac9b21461] acting pursuant to arrangements made with the FCA[^key-212c052d4b8e8dcb490e732c2a08420f] for the purposes of this Schedule.
+- (b) in Northern Ireland, an officer of the Department of Enterprise, Trade and Investment in Northern Ireland (“DETINI”)[^c-c5cbface41b1633d51118b5ac9b21461] acting pursuant to arrangements made with the FCA[^c-212c052d4b8e8dcb490e732c2a08420f] for the purposes of this Schedule.
 
 #### Power to require information or documents
 
@@ -429,7 +429,7 @@ This is without prejudice to the making of a further order.
 - (d) to require any person on the premises to provide an explanation of any document appearing to be of the kind specified in the warrant or to state where it may be found;
 - (e) to use such force as may reasonably be necessary.
 
-(7) Where a warrant is issued by a justice under sub-paragraph (1) or (5) on the basis of information on oath given by an officer of the FCA[^key-29d757275967ff8d7aa0a8a9fe8f200c] , for “an enforcement officer” in sub-paragraph (6) substitute “a constable”.
+(7) Where a warrant is issued by a justice under sub-paragraph (1) or (5) on the basis of information on oath given by an officer of the FCA[^c-29d757275967ff8d7aa0a8a9fe8f200c] , for “an enforcement officer” in sub-paragraph (6) substitute “a constable”.
 
 (8) In sub-paragraphs (1), (5) and (7), “**justice**” means—
 
@@ -456,7 +456,7 @@ This is without prejudice to the making of a further order.
 **23.** (1) If on an application made by—
 
 - (a) an enforcement authority, or
-- (b) a local weights and measures authority or DETINI pursuant to arrangements made with the FCA[^key-6ea71eaf1dbbcc5a07402d07d84b9ca5] —
+- (b) a local weights and measures authority or DETINI pursuant to arrangements made with the FCA[^c-6ea71eaf1dbbcc5a07402d07d84b9ca5] —
   - (i) by or on behalf of the authority; or
   - (ii) by DETINI,
 
@@ -476,7 +476,7 @@ it appears to the court that a person (the “information defaulter”) has fail
 
 #### Powers of local enforcement officers
 
-**24.** (1) A local enforcement officer may only exercise powers under this Part of this Schedule pursuant to arrangements made with the FCA[^key-8c9873c5b4042a3412c809cc9cdb729b] —
+**24.** (1) A local enforcement officer may only exercise powers under this Part of this Schedule pursuant to arrangements made with the FCA[^c-8c9873c5b4042a3412c809cc9cdb729b] —
 
 - (a) by or on behalf of the relevant local weights and measures authority, or
 - (b) by DETINI.
@@ -515,24 +515,24 @@ For this purpose “**appropriate**” means effective, proportionate and dissua
 
 (5) A person on whom a penalty is imposed under this paragraph is not liable to be proceeded against for an offence under paragraph 30 in respect of the same failure.
 
-**25A.**[^key-04917f9802d846fd47ed9dd66e405970] (1) An enforcement authority may impose a penalty of such amount as it considers appropriate on a relevant person who has intentionally participated in activities knowing that the object or effect of them was (whether directly or indirectly) to circumvent a requirement imposed by a direction under this Schedule.
+**25A.**[^c-04917f9802d846fd47ed9dd66e405970] (1) An enforcement authority may impose a penalty of such amount as it considers appropriate on a relevant person who has intentionally participated in activities knowing that the object or effect of them was (whether directly or indirectly) to circumvent a requirement imposed by a direction under this Schedule.
 
 (2) In sub-paragraph (1) “**appropriate**” means effective, proportionate and dissuasive.
 
 (3) A person on whom a penalty is imposed under this paragraph is not liable to be proceeded against for an offence under paragraph 30A in respect of participation in the same activities.
 
-#### Imposition of penalty by HMRC: procedure ...[^key-2c5efc6490165d0a44750cf6c06dff15]
+#### Imposition of penalty by HMRC: procedure ...[^c-2c5efc6490165d0a44750cf6c06dff15]
 
-**26.** (1) This paragraph applies where HMRC decide to impose a penalty under paragraph 25 or 25A[^key-9955d4b1b671e23030fa0d91cb7633df] on a person.
+**26.** (1) This paragraph applies where HMRC decide to impose a penalty under paragraph 25 or 25A[^c-9955d4b1b671e23030fa0d91cb7633df] on a person.
 
 (2) HMRC must give the person notice of—
 
 - (a) their decision to impose the penalty and its amount,
 - (b) the reasons for imposing the penalty,
-- (c) the right to a review under paragraph 26A[^key-075dbe57b9bc584556c8446f6d38296f], and
-- (d) the right to appeal under this paragraph[^key-a8c128aa6c11ade171d961fbd26fd66f].
+- (c) the right to a review under paragraph 26A[^c-075dbe57b9bc584556c8446f6d38296f], and
+- (d) the right to appeal under this paragraph[^c-a8c128aa6c11ade171d961fbd26fd66f].
 
-(3)[^key-4030bafb1010c62cbc260dd49ba24e2d] The person may appeal to the tribunal against the decision in accordance with paragraph 26F.
+(3)[^c-4030bafb1010c62cbc260dd49ba24e2d] The person may appeal to the tribunal against the decision in accordance with paragraph 26F.
 
 (4) On the appeal the tribunal may—
 
@@ -543,7 +543,7 @@ For this purpose “**appropriate**” means effective, proportionate and dissua
 
 (6) Section 85 of the Value Added Tax Act 1994 (settling appeals by agreement) shall apply to appeals under this paragraph as if the reference to section 83 of that Act included a reference to this paragraph.
 
-#### Offer of review[^key-cebf9b6318091bac8855cc01c99a40ef]
+#### Offer of review[^c-cebf9b6318091bac8855cc01c99a40ef]
 
 **26A.** (1) HMRC must offer a person (P) a review of a decision that has been notified to P if an appeal lies under paragraph 26 in respect of the decision.
 
@@ -655,7 +655,7 @@ For this purpose “**appropriate**” means effective, proportionate and dissua
 
 #### Imposition of penalty by other enforcement authority: procedure
 
-**27.** (1) This paragraph applies if the FCA[^key-2f56be8618809f001de52f86dd31d4a8] [^key-c7b7b2ded7f611268c049c8b120cd0bb]... (“**the authority**”) proposes to impose a penalty under paragraph 25 or 25A[^key-cb108c31963946aa78b2df0508599540] on a person.
+**27.** (1) This paragraph applies if the FCA[^c-2f56be8618809f001de52f86dd31d4a8] [^c-c7b7b2ded7f611268c049c8b120cd0bb]... (“**the authority**”) proposes to impose a penalty under paragraph 25 or 25A[^c-cb108c31963946aa78b2df0508599540] on a person.
 
 (2) The authority must give the person notice of—
 
@@ -663,7 +663,7 @@ For this purpose “**appropriate**” means effective, proportionate and dissua
 - (b) the reasons for imposing the penalty, and
 - (c) the right to make representations to the authority within a specified period (which may not be less than 28 days).
 
-(3) The authority must then decide, within a reasonable period, whether to impose a penalty under paragraph 25 or (as the case may be) 25A[^key-87825de2aeb126b5d5e3951033ab9755] and must give the person notice—
+(3) The authority must then decide, within a reasonable period, whether to impose a penalty under paragraph 25 or (as the case may be) 25A[^c-87825de2aeb126b5d5e3951033ab9755] and must give the person notice—
 
 - (a) if it decides not to impose a penalty, of that decision;
 - (b) if it decides to impose a penalty, of the following matters—
@@ -671,33 +671,33 @@ For this purpose “**appropriate**” means effective, proportionate and dissua
   - (ii) the reasons for the decision, and
   - (iii) the right to appeal under paragraph 28.
 
-#### Appeal against imposition of civil penalty other than by HMRC[^key-7592887a58d77710c61f1b2b00c64056]
+#### Appeal against imposition of civil penalty other than by HMRC[^c-7592887a58d77710c61f1b2b00c64056]
 
 **28.** (1) A person may appeal to the tribunal against—
 
-- (a)[^key-0fa1464306826191489900a8502edf63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (...)[^key-0fa1464306826191489900a8502edf63] a decision of the FCA[^key-3233137848294abd7fb57965d53e1a2b] [^key-cf3059dc9768ffd7241aabafbd5056bc]... under paragraph 27.
+- (a)[^c-0fa1464306826191489900a8502edf63] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (...)[^c-0fa1464306826191489900a8502edf63] a decision of the FCA[^c-3233137848294abd7fb57965d53e1a2b] [^c-cf3059dc9768ffd7241aabafbd5056bc]... under paragraph 27.
 
-(2)[^key-b3b8af30b5b7097ed353b0b88314c9d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b3b8af30b5b7097ed353b0b88314c9d4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) On the appeal the tribunal [^key-b41ba99a17e19d6c3c5ab8cc46117cb8]... may—
+(3) On the appeal the tribunal [^c-b41ba99a17e19d6c3c5ab8cc46117cb8]... may—
 
 - (a) set aside the decision appealed against, and
 - (b) impose any penalty that could have been imposed by the body whose decision is appealed or remit the matter to that body.
 
-(4)[^key-789fa3b68e3408e2d828e6ef0cb767c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-789fa3b68e3408e2d828e6ef0cb767c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In this paragraph “**the tribunal**” means the First-tier Tribunal or, where so provided by or determined under Tribunal Procedure Rules, the Upper Tribunal.
 
-(6)[^key-c44d27c66abbe33aa0de679788e64d27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-c44d27c66abbe33aa0de679788e64d27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-c44d27c66abbe33aa0de679788e64d27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-c44d27c66abbe33aa0de679788e64d27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-c44d27c66abbe33aa0de679788e64d27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-c44d27c66abbe33aa0de679788e64d27] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Payment and recovery of civil penalties
 
-**29.** (1) A penalty imposed under paragraph 25 or 25A[^key-49904d0fc6ba386f78960e384fd0ae49] is payable to the enforcement authority that imposed it.
+**29.** (1) A penalty imposed under paragraph 25 or 25A[^c-49904d0fc6ba386f78960e384fd0ae49] is payable to the enforcement authority that imposed it.
 
 (2) Any such penalty is a debt due to the authority and is recoverable accordingly.
 
@@ -717,34 +717,34 @@ For this purpose “**appropriate**” means effective, proportionate and dissua
 
 (4) In sub-paragraph (3) “**appropriate body**” means a body that regulates or is representative of any trade, profession, business or employment carried on by the alleged offender.
 
-(4A)[^key-36bea6d700676344588a97ab6b3bf61a] In a case where a person is guilty of an offence under this paragraph by failing to comply with a requirement of a kind mentioned in paragraph 13, the person is liable—
+(4A)[^c-36bea6d700676344588a97ab6b3bf61a] In a case where a person is guilty of an offence under this paragraph by failing to comply with a requirement of a kind mentioned in paragraph 13, the person is liable—
 
 - (a) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-ffcc05e00bb2016ee1dfa307a7c10c84] (or, in relation to offences committed before 2 May 2022[^key-9966188e248c8701c5293a18945482d7], 6 months) or to a fine, or to both;
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-ffcc05e00bb2016ee1dfa307a7c10c84] (or, in relation to offences committed before 2 May 2022[^c-9966188e248c8701c5293a18945482d7], 6 months) or to a fine, or to both;
   - (ii) in Scotland, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum, or to both;
   - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months, or to a fine not exceeding the statutory maximum, or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 7 years or to a fine, or to both.
 
-(5) In any other case,[^key-b4359a918cbf71959bc25399d3d0feff] a person guilty of an offence under this paragraph is liable—
+(5) In any other case,[^c-b4359a918cbf71959bc25399d3d0feff] a person guilty of an offence under this paragraph is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine or both.
 
 (6) A person who is convicted of an offence under this paragraph is not liable to a penalty under paragraph 25 in respect of the same failure.
 
-#### Offences: relevant person circumventing requirements[^key-b4ef1bf0ce2660d3eda20b66b718d0b8]
+#### Offences: relevant person circumventing requirements[^c-b4ef1bf0ce2660d3eda20b66b718d0b8]
 
 **30A.** (1) A relevant person who intentionally participates in activities knowing that the object or effect of them is (whether directly or indirectly) to circumvent a requirement imposed by a direction under this Schedule commits an offence.
 
-(1A)[^key-e6bfcbd51b95aefc5cadcbb2988e5e4b] In a case where a person is guilty of an offence under this paragraph in relation to a requirement of a kind mentioned in paragraph 13, the person is liable—
+(1A)[^c-e6bfcbd51b95aefc5cadcbb2988e5e4b] In a case where a person is guilty of an offence under this paragraph in relation to a requirement of a kind mentioned in paragraph 13, the person is liable—
 
 - (a) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-ab40fd5295ffba636d054e46815878d4] (or, in relation to offences committed before 2 May 2022[^key-a2101a9739ab695e1a804976a3a5e9d2], 6 months) or to a fine, or to both;
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-ab40fd5295ffba636d054e46815878d4] (or, in relation to offences committed before 2 May 2022[^c-a2101a9739ab695e1a804976a3a5e9d2], 6 months) or to a fine, or to both;
   - (ii) in Scotland, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum, or to both;
   - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months, or to a fine not exceeding the statutory maximum, or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 7 years or to a fine, or to both.
 
-(2) In any other case,[^key-1b31c180d21785c5d0f78ea79605bebf] a person guilty of an offence under this paragraph is liable—
+(2) In any other case,[^c-1b31c180d21785c5d0f78ea79605bebf] a person guilty of an offence under this paragraph is liable—
 
 - (a) on summary conviction, to a fine not exceeding the statutory maximum;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or a fine or both.
@@ -761,7 +761,7 @@ For this purpose “**appropriate**” means effective, proportionate and dissua
 (2) A person guilty of an offence under this paragraph is liable —[^M_F_aadf9204-5b88-429c-ca59-3f09b79346b6]
 
 - (a) on summary conviction—
-  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-0ac4f294ada4d8b564259a0d2871acb3] (or, in relation to offences committed before 2 May 2022[^key-ca620e1f15598a7082825461cd50b049], 6 months) or to a fine, or to both;
+  - (i) in England and Wales, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-0ac4f294ada4d8b564259a0d2871acb3] (or, in relation to offences committed before 2 May 2022[^c-ca620e1f15598a7082825461cd50b049], 6 months) or to a fine, or to both;
   - (ii) in Scotland, to imprisonment for a term not exceeding 12 months, or to a fine not exceeding the statutory maximum, or to both;
   - (iii) in Northern Ireland, to imprisonment for a term not exceeding 6 months, or to a fine not exceeding the statutory maximum, or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding 2 years or to a fine, or to both.
@@ -776,21 +776,21 @@ For this purpose “**appropriate**” means effective, proportionate and dissua
 
 **33.** (1) Proceedings for an offence under this Schedule may be instituted in England and Wales only by—
 
-- (a) the FCA[^key-d65780e90d94bf0a8386f35d87837746] ;
-- (b)[^key-5225c6de0c6496c8eb99bb91ab5e31e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-d8e417329583f02f835711680abfacbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) the FCA[^c-d65780e90d94bf0a8386f35d87837746] ;
+- (b)[^c-5225c6de0c6496c8eb99bb91ab5e31e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-d8e417329583f02f835711680abfacbf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) a local weights and measures authority; or
 - (e) the Director of Public Prosecutions.
 
 (2) Proceedings for an offence under this Schedule may be instituted in Northern Ireland only by—
 
-- (a) the FCA[^key-f0426a95308b1ba8af1786b832c9ad37] ;
+- (a) the FCA[^c-f0426a95308b1ba8af1786b832c9ad37] ;
 - (b) HMRC;
-- (c)[^key-eedf3056501499483fe2388a1e60f571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-eedf3056501499483fe2388a1e60f571] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) DETINI; or
 - (e) the Director of Public Prosecutions for Northern Ireland.
 
-(3) In section 168(4) of the Financial Services and Markets Act 2000 (c. 8) (appointment [^key-f5fdfb63ce51d928a217177d7851c713]... of persons to carry out investigation), after paragraph (b) insert—
+(3) In section 168(4) of the Financial Services and Markets Act 2000 (c. 8) (appointment [^c-f5fdfb63ce51d928a217177d7851c713]... of persons to carry out investigation), after paragraph (b) insert—
 
 > - (ba) a person may be guilty of an offence under Schedule 7 to the Counter-Terrorism Act 2008 (terrorist financing or money laundering);
 
@@ -897,12 +897,12 @@ the officer as well as the association is guilty of an offence and liable to be 
 
 (2) For the purposes of this Schedule—
 
-- (a) the FCA[^key-35f95ee2f985cf106fa850af440a2deb] is the supervisory authority for—
+- (a) the FCA[^c-35f95ee2f985cf106fa850af440a2deb] is the supervisory authority for—
   - (i) credit institutions that are authorised persons;
-  - (ii) financial institutions (except money service businesses that are not authorised persons [^key-54221265204fe54621b4b3a96df288d1]...);
-- (b)[^key-95bdced827bc98aa0ee49d637aa78555] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) financial institutions (except money service businesses that are not authorised persons [^c-54221265204fe54621b4b3a96df288d1]...);
+- (b)[^c-95bdced827bc98aa0ee49d637aa78555] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) HMRC are the supervisory authority for money service businesses that are not authorised persons;
-- (d)[^key-c92403193b4d1704b5197c7557e0b1f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-c92403193b4d1704b5197c7557e0b1f0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) Where under sub-paragraph (2) there is more than one supervisory authority for a person, the authorities may agree that one of them will act as the supervisory authority for that person for the purposes of this Schedule.
 
@@ -917,11 +917,11 @@ the officer as well as the association is guilty of an offence and liable to be 
 
 **40.** The Treasury must provide such assistance as may reasonably be required by a supervisory authority or other body drawing up guidance that, when issued and published with the approval of the Treasury, would be relevant guidance for the purposes of paragraph 25(3) (civil penalties) and 30(3) (offences: failure to comply with requirement imposed by direction).
 
-#### Functions of Financial Conduct Authority[^key-86c58efd0fd7816ec83473e2079ea153]
+#### Functions of Financial Conduct Authority[^c-86c58efd0fd7816ec83473e2079ea153]
 
-**41.** (1) The functions of the FSA under this Schedule shall be treated for the purposes of Parts 1, 3 and 5 of Schedule 1ZA[^key-25c30a3c3026bd3883efe261d16e6a21] to the Financial Services and Markets Act 2000 (c. 8) (general provisions relating to the Authority) as if they were functions conferred on the FCA[^key-8c63598da3989849eae66cf7e6facb91] under that Act.
+**41.** (1) The functions of the FSA under this Schedule shall be treated for the purposes of Parts 1, 3 and 5 of Schedule 1ZA[^c-25c30a3c3026bd3883efe261d16e6a21] to the Financial Services and Markets Act 2000 (c. 8) (general provisions relating to the Authority) as if they were functions conferred on the FCA[^c-8c63598da3989849eae66cf7e6facb91] under that Act.
 
-(2) Any penalty under paragraph 25 or 25A[^key-ce388b8e35fa3a3f42d5b5c42a701eb3] (civil penalties) received by the FSA is to be applied towards expenses incurred by it in connection with its functions under this Schedule or for any incidental purpose.
+(2) Any penalty under paragraph 25 or 25A[^c-ce388b8e35fa3a3f42d5b5c42a701eb3] (civil penalties) received by the FSA is to be applied towards expenses incurred by it in connection with its functions under this Schedule or for any incidental purpose.
 
 #### Notices
 
@@ -967,7 +967,7 @@ This is to be construed as if section 38(3) of the Crown Proceedings Act 1947 (c
 - “**authorised person**” means a person who is authorised for the purposes of the Financial Services and Markets Act 2000 (c. 8);
 - “**business relationship**” means a business, professional or commercial relationship between a relevant person and a customer, which is expected by the relevant person, at the time when contact is established, to have an element of duration;
 - “**conduct**” includes acts and omissions;
-- [^key-9b6ba517c95102aaca2f4eff20e2d3f1]...
+- [^c-9b6ba517c95102aaca2f4eff20e2d3f1]...
 - “**country**” includes territory;
 - “**document**” means information recorded in any form;
 - “**money service business**” means an undertaking which by way of business operates a currency exchange office, transmits money (or any representations of monetary value) by any means or cashes cheques which are made payable to customers;
@@ -975,7 +975,7 @@ This is to be construed as if section 38(3) of the Crown Proceedings Act 1947 (c
 
 (2) In this Schedule any reference to an amount in one currency includes the equivalent amount in any other currency.
 
-(3)[^key-f166e301b14bc2f573bbe2a85509e082] Unless otherwise defined, expressions used in this Schedule and in [Directive 2015/849/EU](https://www.legislation.gov.uk/eudr/2015/0849) of the European Parliament and of the Council of 20th May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing have the same meaning as in that Directive.
+(3)[^c-f166e301b14bc2f573bbe2a85509e082] Unless otherwise defined, expressions used in this Schedule and in [Directive 2015/849/EU](https://www.legislation.gov.uk/eudr/2015/0849) of the European Parliament and of the Council of 20th May 2015 on the prevention of the use of the financial system for the purpose of money laundering or terrorist financing have the same meaning as in that Directive.
 
 #### Index of defined expressions
 
@@ -984,24 +984,24 @@ This is to be construed as if section 38(3) of the Crown Proceedings Act 1947 (c
 |  |  |
 | --- | --- |
 | authorised person | paragraph 45(1) |
-| [^key-c0764f916adcbe4f17376e5c2982545b]. . . |  |
+| [^c-c0764f916adcbe4f17376e5c2982545b]. . . |  |
 | biological weapon | paragraph 2(6) |
 | business relationship | paragraph 45(1) |
-| [^key-2696eac508fe6be9b340f5acafdd5c1e]. . . | [^key-2696eac508fe6be9b340f5acafdd5c1e]. . . |
-| the capital requirements regulation[^key-1149047534feb4d551ba16468ebeafdd] | paragraph 7 |
+| [^c-2696eac508fe6be9b340f5acafdd5c1e]. . . | [^c-2696eac508fe6be9b340f5acafdd5c1e]. . . |
+| the capital requirements regulation[^c-1149047534feb4d551ba16468ebeafdd] | paragraph 7 |
 | chemical weapon | paragraph 2(5) |
 | conduct | paragraph 45(1) |
-| [^key-5c256d4b7910bb3bbf3659fa4308109e]. . . | [^key-5c256d4b7910bb3bbf3659fa4308109e]. . . |
+| [^c-5c256d4b7910bb3bbf3659fa4308109e]. . . | [^c-5c256d4b7910bb3bbf3659fa4308109e]. . . |
 | country | paragraph 45(1) |
-| credit institution | paragraph 5(1) and (3)[^key-479c4b00c14fdccbecd5e407c8484b41] |
+| credit institution | paragraph 5(1) and (3)[^c-479c4b00c14fdccbecd5e407c8484b41] |
 | customer due diligence measures | paragraph 10(3) |
 | designated person, in relation to a direction | paragraph 9(3) |
-| DETINI | paragraph 18(3)(b)[^key-ec7ab56df7a646a7e6f6bb3c9dd85687] |
+| DETINI | paragraph 18(3)(b)[^c-ec7ab56df7a646a7e6f6bb3c9dd85687] |
 | document | paragraph 45(1) |
 | enforcement authority | paragraph 18(1) |
 | enforcement officer (in Part 5 of this Schedule) | paragraph 18(2) |
-| financial institution | paragraph 5(2) and (3)[^key-11fb032dc9ae063f9043d912f47453d2] |
-| the FCA[^key-c7bd876f03af04c87de42255880cf63f] | paragraph 18(1)(a) |
+| financial institution | paragraph 5(2) and (3)[^c-11fb032dc9ae063f9043d912f47453d2] |
+| the FCA[^c-c7bd876f03af04c87de42255880cf63f] | paragraph 18(1)(a) |
 | HMRC | paragraph 18(1)(b) |
 | the life assurance consolidation directive (in Part 2 of this Schedule) | paragraph 7 |
 | local enforcement officer | paragraph 18(3) |
@@ -1020,174 +1020,174 @@ This is to be construed as if section 38(3) of the Crown Proceedings Act 1947 (c
 
 ## Annotations
 
-[^key-0f312bcf13516e41c33a1f6aadfadc8d]: Textual amendment: Sch. 7 para. 5(1) substituted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 48(1)(a)](https://www.legislation.gov.uk/ukpga/2010/38/section/48/1/a), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
+[^c-0f312bcf13516e41c33a1f6aadfadc8d]: Textual amendment: Sch. 7 para. 5(1) substituted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 48(1)(a)](https://www.legislation.gov.uk/ukpga/2010/38/section/48/1/a), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
 
-[^key-94476cb2a4fb76b782528fa3f3e87737]: Textual amendment: Words in Sch. 7 para. 5(1) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 44(2)(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/44/2/a)
+[^c-94476cb2a4fb76b782528fa3f3e87737]: Textual amendment: Words in Sch. 7 para. 5(1) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 44(2)(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/44/2/a)
 
-[^key-14f26c2d2b0b17711374d5ec1006e1fc]: Textual amendment: Words in Sch. 7 para. 5(2)(a) substituted (9.2.2011 for specified purposes, 30.4.2011 in so far as not already in force) by [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2), [Sch. 4 para. 6(b)](https://www.legislation.gov.uk/uksi/2011/99/schedule/4/paragraph/6/b)
+[^c-14f26c2d2b0b17711374d5ec1006e1fc]: Textual amendment: Words in Sch. 7 para. 5(2)(a) substituted (9.2.2011 for specified purposes, 30.4.2011 in so far as not already in force) by [The Electronic Money Regulations 2011 (S.I. 2011/99)](https://www.legislation.gov.uk/uksi/2011/99), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/99/regulation/1/2), [Sch. 4 para. 6(b)](https://www.legislation.gov.uk/uksi/2011/99/schedule/4/paragraph/6/b)
 
-[^key-256f8b4b1ab37b5c70892baefab9a00f]: Textual amendment: Words in Sch. 7 para. 5(2)(a) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/6/2) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-256f8b4b1ab37b5c70892baefab9a00f]: Textual amendment: Words in Sch. 7 para. 5(2)(a) substituted (17.8.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/6/2) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
-[^key-5ee2a0cb039136f9ff3e50b1e6f769f2]: Textual amendment: Sch. 7 para. 5(2)(ba) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 48(1)(b)](https://www.legislation.gov.uk/ukpga/2010/38/section/48/1/b), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
+[^c-5ee2a0cb039136f9ff3e50b1e6f769f2]: Textual amendment: Sch. 7 para. 5(2)(ba) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 48(1)(b)](https://www.legislation.gov.uk/ukpga/2010/38/section/48/1/b), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
 
-[^key-f1d560b07ce2bc2f7c064011eb8f8579]: Textual amendment: Sch. 7 para. 5(2)(e) substituted (1.1.2025) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/1239)](https://www.legislation.gov.uk/uksi/2024/1239), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1239/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1239/regulation/4)
+[^c-f1d560b07ce2bc2f7c064011eb8f8579]: Textual amendment: Sch. 7 para. 5(2)(e) substituted (1.1.2025) by [The Insurance Distribution (Regulated Activities and Miscellaneous Amendments) Regulations 2024 (S.I. 2024/1239)](https://www.legislation.gov.uk/uksi/2024/1239), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1239/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2024/1239/regulation/4)
 
-[^key-85ad66dd85c2e08df932cba42a1bb8ec]: Textual amendment: Sch. 7 para. 5(2)(f) repealed (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 48(1)(c)](https://www.legislation.gov.uk/ukpga/2010/38/section/48/1/c), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2)
+[^c-85ad66dd85c2e08df932cba42a1bb8ec]: Textual amendment: Sch. 7 para. 5(2)(f) repealed (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 48(1)(c)](https://www.legislation.gov.uk/ukpga/2010/38/section/48/1/c), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2)
 
-[^key-200f0436b4939e3a5f926af3a5954def]: Textual amendment: Sch. 7 para. 5(3) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 48(1)(d)](https://www.legislation.gov.uk/ukpga/2010/38/section/48/1/d), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
+[^c-200f0436b4939e3a5f926af3a5954def]: Textual amendment: Sch. 7 para. 5(3) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 48(1)(d)](https://www.legislation.gov.uk/ukpga/2010/38/section/48/1/d), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
 
-[^key-d9cda7f380bbda10130799ea4cc74e0d]: Textual amendment: Words in Sch. 7 para. 6(1)(a) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 139(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/139/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-d9cda7f380bbda10130799ea4cc74e0d]: Textual amendment: Words in Sch. 7 para. 6(1)(a) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 139(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/139/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-28b3daad259ab369de1aa6a355dd32f5]: Textual amendment: Words in Sch. 7 para. 6(1)(a)(i) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 139(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/139/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-28b3daad259ab369de1aa6a355dd32f5]: Textual amendment: Words in Sch. 7 para. 6(1)(a)(i) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 139(3)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/139/3) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-428afb35e3ba5f5fbe6a845a36beeee1]: Textual amendment: Words in Sch. 7 para. 6(1)(a)(ii) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 139(4)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/139/4) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-428afb35e3ba5f5fbe6a845a36beeee1]: Textual amendment: Words in Sch. 7 para. 6(1)(a)(ii) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 139(4)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/139/4) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-8f4089a7e7c43c040049f6751e18855d]: Textual amendment: Words in Sch. 7 para. 7 omitted (1.1.2014) by virtue of [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 44(3)(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/44/3/a)
+[^c-8f4089a7e7c43c040049f6751e18855d]: Textual amendment: Words in Sch. 7 para. 7 omitted (1.1.2014) by virtue of [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 44(3)(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/44/3/a)
 
-[^key-7f377f4e530e8e1ab9a72362cc3baae3]: Textual amendment: Words in [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7/paragraph/7) omitted (17.8.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2022/838/regulation/6/3) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-7f377f4e530e8e1ab9a72362cc3baae3]: Textual amendment: Words in [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7/paragraph/7) omitted (17.8.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2022/838/regulation/6/3) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
-[^key-93a6528c0092001a35f738948491b1a8]: Textual amendment: Words in [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7/paragraph/7) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2021/1376/regulation/8)
+[^c-93a6528c0092001a35f738948491b1a8]: Textual amendment: Words in [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7/paragraph/7) substituted (1.1.2022) by [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [8](https://www.legislation.gov.uk/uksi/2021/1376/regulation/8)
 
-[^key-6de93229263e70e10dc0c6529f886b22]: Textual amendment: Words in Sch. 7 para. 7 substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2017/701/schedule/4/paragraph/11) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
+[^c-6de93229263e70e10dc0c6529f886b22]: Textual amendment: Words in Sch. 7 para. 7 substituted (29.6.2017 for specified purposes, 3.7.2017 for specified purposes, 31.7.2017 for specified purposes, 3.1.2018 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Markets in Financial Instruments) Regulations 2017 (S.I. 2017/701)](https://www.legislation.gov.uk/uksi/2017/701), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/3)[(4)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/4)[(6)](https://www.legislation.gov.uk/uksi/2017/701/regulation/1/6), [Sch. 4 para. 11](https://www.legislation.gov.uk/uksi/2017/701/schedule/4/paragraph/11) (with [reg. 7](https://www.legislation.gov.uk/uksi/2017/701/regulation/7))
 
-[^key-a5f9857f9700ef93f4676aedb08d40aa]: Textual amendment: Sch. 7 para. 9(1)(d) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/49/2), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
+[^c-a5f9857f9700ef93f4676aedb08d40aa]: Textual amendment: Sch. 7 para. 9(1)(d) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 49(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/49/2), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
 
-[^key-0561800061bc316ab49804265b53acce]: Textual amendment: Sch. 7 para. 9(5A) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/48/2), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
+[^c-0561800061bc316ab49804265b53acce]: Textual amendment: Sch. 7 para. 9(5A) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 48(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/48/2), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
 
-[^key-38145149e2ac2a50980c72c4fb52a4d9]: Textual amendment: Sch. 7 para. 9(7) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2010/38/section/49/3), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
+[^c-38145149e2ac2a50980c72c4fb52a4d9]: Textual amendment: Sch. 7 para. 9(7) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2010/38/section/49/3), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
 
-[^key-062ee285b512d8ca03b4d0f78d2aa021]: Textual amendment: Sch. 7 para. 18(1)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(2)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/2/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-062ee285b512d8ca03b4d0f78d2aa021]: Textual amendment: Sch. 7 para. 18(1)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(2)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/2/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-8b417f9e31fb8ec591caf9957755e352]: Textual amendment: Word in Sch. 7 para. 18(1)(b) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/2/a/i)
+[^c-8b417f9e31fb8ec591caf9957755e352]: Textual amendment: Word in Sch. 7 para. 18(1)(b) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(2)(a)(i)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/2/a/i)
 
-[^key-71ebe7a6134d67859431bcba7ae06689]: Textual amendment: Sch. 7 para. 18(1)(c) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/2/a/ii)
+[^c-71ebe7a6134d67859431bcba7ae06689]: Textual amendment: Sch. 7 para. 18(1)(c) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/2/a/ii)
 
-[^key-e9ea4b1ede409dc77abd927fb4692603]: Textual amendment: Sch. 7 para. 18(1)(d) and preceding word repealed (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 51(1)(b)](https://www.legislation.gov.uk/ukpga/2010/38/section/51/1/b), [55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/a/d)
+[^c-e9ea4b1ede409dc77abd927fb4692603]: Textual amendment: Sch. 7 para. 18(1)(d) and preceding word repealed (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 51(1)(b)](https://www.legislation.gov.uk/ukpga/2010/38/section/51/1/b), [55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/a/d)
 
-[^key-55bc8a5ccd5ab7479c2938470743fe5d]: Textual amendment: Word in Sch. 7 para. 18(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(2)(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/2/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-55bc8a5ccd5ab7479c2938470743fe5d]: Textual amendment: Word in Sch. 7 para. 18(2) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(2)(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/2/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-8993fd5234e7ffd7a95755b867058571]: Textual amendment: Sch. 7 para. 18(2)(c) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/2/a/iii)
+[^c-8993fd5234e7ffd7a95755b867058571]: Textual amendment: Sch. 7 para. 18(2)(c) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/2/a/iii)
 
-[^key-f186dc4ed9422ff215401028f7fbf312]: Textual amendment: Sch. 7 para. 18(2)(d) repealed (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 1 para. 11(1)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/11/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/c/d)
+[^c-f186dc4ed9422ff215401028f7fbf312]: Textual amendment: Sch. 7 para. 18(2)(d) repealed (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 1 para. 11(1)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/11/1), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/c/d)
 
-[^key-c5cbface41b1633d51118b5ac9b21461]: Textual amendment: Words in Sch. 7 para. 18(3)(b) substituted (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/11/2); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/c)
+[^c-c5cbface41b1633d51118b5ac9b21461]: Textual amendment: Words in Sch. 7 para. 18(3)(b) substituted (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 1 para. 11(2)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/11/2); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/c)
 
-[^key-212c052d4b8e8dcb490e732c2a08420f]: Textual amendment: Word in Sch. 7 para. 18(3)(b) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/2/b)
+[^c-212c052d4b8e8dcb490e732c2a08420f]: Textual amendment: Word in Sch. 7 para. 18(3)(b) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/2/b)
 
-[^key-29d757275967ff8d7aa0a8a9fe8f200c]: Textual amendment: Word in Sch. 7 para. 21(7) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(2)(c)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/2/c) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-29d757275967ff8d7aa0a8a9fe8f200c]: Textual amendment: Word in Sch. 7 para. 21(7) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(2)(c)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/2/c) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-6ea71eaf1dbbcc5a07402d07d84b9ca5]: Textual amendment: Word in Sch. 7 para. 23(1)(b) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/2/b)
+[^c-6ea71eaf1dbbcc5a07402d07d84b9ca5]: Textual amendment: Word in Sch. 7 para. 23(1)(b) substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/2/b)
 
-[^key-8c9873c5b4042a3412c809cc9cdb729b]: Textual amendment: Word in Sch. 7 para. 24 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/2/b)
+[^c-8c9873c5b4042a3412c809cc9cdb729b]: Textual amendment: Word in Sch. 7 para. 24 substituted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(2)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/2/b)
 
-[^key-04917f9802d846fd47ed9dd66e405970]: Textual amendment: Sch. 7 para. 25A inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 50(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/50/2), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
+[^c-04917f9802d846fd47ed9dd66e405970]: Textual amendment: Sch. 7 para. 25A inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 50(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/50/2), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
 
-[^key-2c5efc6490165d0a44750cf6c06dff15]: Textual amendment: Words in Sch. 7 Pt. 6 cross-heading omitted (1.4.2009) by virtue of [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/2/2)
+[^c-2c5efc6490165d0a44750cf6c06dff15]: Textual amendment: Words in Sch. 7 Pt. 6 cross-heading omitted (1.4.2009) by virtue of [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/2/2)
 
-[^key-9955d4b1b671e23030fa0d91cb7633df]: Textual amendment: Words in Sch. 7 para. 26(1) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/10/1)
+[^c-9955d4b1b671e23030fa0d91cb7633df]: Textual amendment: Words in Sch. 7 para. 26(1) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 10(1)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/10/1)
 
-[^key-075dbe57b9bc584556c8446f6d38296f]: Textual amendment: Words in Sch. 7 para. 26(2)(c) substituted (1.4.2009) by [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/2/3/a)
+[^c-075dbe57b9bc584556c8446f6d38296f]: Textual amendment: Words in Sch. 7 para. 26(2)(c) substituted (1.4.2009) by [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 2(3)(a)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/2/3/a)
 
-[^key-a8c128aa6c11ade171d961fbd26fd66f]: Textual amendment: Words in Sch. 7 para. 26(2)(d) substituted (1.4.2009) by [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/2/3/b)
+[^c-a8c128aa6c11ade171d961fbd26fd66f]: Textual amendment: Words in Sch. 7 para. 26(2)(d) substituted (1.4.2009) by [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 2(3)(b)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/2/3/b)
 
-[^key-4030bafb1010c62cbc260dd49ba24e2d]: Textual amendment: Sch. 7 para. 26(3)-(6) substituted (1.4.2009) by [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/2/4)
+[^c-4030bafb1010c62cbc260dd49ba24e2d]: Textual amendment: Sch. 7 para. 26(3)-(6) substituted (1.4.2009) by [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 2(4)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/2/4)
 
-[^key-cebf9b6318091bac8855cc01c99a40ef]: Textual amendment: Sch. 7 paras. 26A-26F and cross-headings inserted (1.4.2009) by [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/3)
+[^c-cebf9b6318091bac8855cc01c99a40ef]: Textual amendment: Sch. 7 paras. 26A-26F and cross-headings inserted (1.4.2009) by [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/3)
 
-[^key-2f56be8618809f001de52f86dd31d4a8]: Textual amendment: Word in Sch. 7 para. 27(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(3)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/3/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-2f56be8618809f001de52f86dd31d4a8]: Textual amendment: Word in Sch. 7 para. 27(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(3)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/3/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-c7b7b2ded7f611268c049c8b120cd0bb]: Textual amendment: Words in Sch. 7 para. 27(1) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(3)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/3)
+[^c-c7b7b2ded7f611268c049c8b120cd0bb]: Textual amendment: Words in Sch. 7 para. 27(1) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(3)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/3)
 
-[^key-cb108c31963946aa78b2df0508599540]: Textual amendment: Words in Sch. 7 para. 27(1) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/10/2/a)
+[^c-cb108c31963946aa78b2df0508599540]: Textual amendment: Words in Sch. 7 para. 27(1) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/10/2/a)
 
-[^key-87825de2aeb126b5d5e3951033ab9755]: Textual amendment: Words in Sch. 7 para. 27(3) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 10(2)(b)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/10/2/b)
+[^c-87825de2aeb126b5d5e3951033ab9755]: Textual amendment: Words in Sch. 7 para. 27(3) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 10(2)(b)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/10/2/b)
 
-[^key-7592887a58d77710c61f1b2b00c64056]: Textual amendment: Words in Sch. 7 Pt. 6 cross-heading inserted (1.4.2009) by [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/4/2)
+[^c-7592887a58d77710c61f1b2b00c64056]: Textual amendment: Words in Sch. 7 Pt. 6 cross-heading inserted (1.4.2009) by [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 4(2)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/4/2)
 
-[^key-0fa1464306826191489900a8502edf63]: Textual amendment: Words in Sch. 7 para. 28(1) omitted (1.4.2009) by virtue of [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/4/3)
+[^c-0fa1464306826191489900a8502edf63]: Textual amendment: Words in Sch. 7 para. 28(1) omitted (1.4.2009) by virtue of [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 4(3)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/4/3)
 
-[^key-3233137848294abd7fb57965d53e1a2b]: Textual amendment: Word in Sch. 7 para. 28(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(3)(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/3/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-3233137848294abd7fb57965d53e1a2b]: Textual amendment: Word in Sch. 7 para. 28(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(3)(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/3/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-cf3059dc9768ffd7241aabafbd5056bc]: Textual amendment: Words in Sch. 7 para. 28(1) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(3)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/3)
+[^c-cf3059dc9768ffd7241aabafbd5056bc]: Textual amendment: Words in Sch. 7 para. 28(1) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(3)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/3)
 
-[^key-b3b8af30b5b7097ed353b0b88314c9d4]: Textual amendment: Sch. 7 para. 28(2) repealed (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 1 para. 11(4)(a)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/11/4/a), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/c/d)
+[^c-b3b8af30b5b7097ed353b0b88314c9d4]: Textual amendment: Sch. 7 para. 28(2) repealed (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 1 para. 11(4)(a)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/11/4/a), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/c/d)
 
-[^key-b41ba99a17e19d6c3c5ab8cc46117cb8]: Textual amendment: Words in Sch. 7 para. 28(3) repealed (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 1 para. 11(4)(b)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/11/4/b), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/c/d)
+[^c-b41ba99a17e19d6c3c5ab8cc46117cb8]: Textual amendment: Words in Sch. 7 para. 28(3) repealed (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 1 para. 11(4)(b)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/11/4/b), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(c)(d)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/c/d)
 
-[^key-789fa3b68e3408e2d828e6ef0cb767c6]: Textual amendment: Sch. 7 para. 28(4) omitted (1.4.2009) by virtue of [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/4/4)
+[^c-789fa3b68e3408e2d828e6ef0cb767c6]: Textual amendment: Sch. 7 para. 28(4) omitted (1.4.2009) by virtue of [Revenue and Customs Appeals Order 2009 (S.I. 2009/777)](https://www.legislation.gov.uk/uksi/2009/777), [art. 1](https://www.legislation.gov.uk/uksi/2009/777/article/1), [Sch. para. 4(4)](https://www.legislation.gov.uk/uksi/2009/777/schedule/paragraph/4/4)
 
-[^key-c44d27c66abbe33aa0de679788e64d27]: Textual amendment: Sch. 7 para. 28(6)-(8) omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 145](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/145) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
+[^c-c44d27c66abbe33aa0de679788e64d27]: Textual amendment: Sch. 7 para. 28(6)-(8) omitted (6.4.2010) by virtue of [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(2)(e)](https://www.legislation.gov.uk/uksi/2010/22/article/1/2/e), [Sch. 2 para. 145](https://www.legislation.gov.uk/uksi/2010/22/schedule/2/paragraph/145) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2010/22/schedule/5))
 
-[^key-49904d0fc6ba386f78960e384fd0ae49]: Textual amendment: Words in Sch. 7 para. 29(1) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/10/3)
+[^c-49904d0fc6ba386f78960e384fd0ae49]: Textual amendment: Words in Sch. 7 para. 29(1) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 10(3)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/10/3)
 
-[^key-36bea6d700676344588a97ab6b3bf61a]: Textual amendment: Sch. 7 para. 30(4A) inserted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 145(5)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/5), [183(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/3)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 145(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/10)); [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
+[^c-36bea6d700676344588a97ab6b3bf61a]: Textual amendment: Sch. 7 para. 30(4A) inserted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 145(5)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/5), [183(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/3)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 145(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/10)); [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
 
-[^key-ffcc05e00bb2016ee1dfa307a7c10c84]: Textual amendment: Words in [Sch. 7 para. 30(4A)(a)(i)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7/paragraph/30/4A/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-ffcc05e00bb2016ee1dfa307a7c10c84]: Textual amendment: Words in [Sch. 7 para. 30(4A)(a)(i)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7/paragraph/30/4A/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-9966188e248c8701c5293a18945482d7]: Textual amendment: Words in Sch. 7 para. 30(4A)(a)(i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-9966188e248c8701c5293a18945482d7]: Textual amendment: Words in Sch. 7 para. 30(4A)(a)(i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-b4359a918cbf71959bc25399d3d0feff]: Textual amendment: Words in Sch. 7 para. 30(5) inserted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 145(6)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/6), [183(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/3)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 145(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/10)); [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
+[^c-b4359a918cbf71959bc25399d3d0feff]: Textual amendment: Words in Sch. 7 para. 30(5) inserted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 145(6)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/6), [183(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/3)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 145(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/10)); [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
 
-[^key-b4ef1bf0ce2660d3eda20b66b718d0b8]: Textual amendment: Sch. 7 para. 30A inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 50(3)](https://www.legislation.gov.uk/ukpga/2010/38/section/50/3), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
+[^c-b4ef1bf0ce2660d3eda20b66b718d0b8]: Textual amendment: Sch. 7 para. 30A inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 50(3)](https://www.legislation.gov.uk/ukpga/2010/38/section/50/3), [55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1)
 
-[^key-e6bfcbd51b95aefc5cadcbb2988e5e4b]: Textual amendment: Sch. 7 para. 30A(1A) inserted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 145(7)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/7), [183(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/3)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 145(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/10)); [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
+[^c-e6bfcbd51b95aefc5cadcbb2988e5e4b]: Textual amendment: Sch. 7 para. 30A(1A) inserted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 145(7)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/7), [183(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/3)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 145(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/10)); [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
 
-[^key-ab40fd5295ffba636d054e46815878d4]: Textual amendment: Words in [Sch. 7 para. 30A(1A)(a)(i)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7/paragraph/30A/1A/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-ab40fd5295ffba636d054e46815878d4]: Textual amendment: Words in [Sch. 7 para. 30A(1A)(a)(i)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7/paragraph/30A/1A/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-a2101a9739ab695e1a804976a3a5e9d2]: Textual amendment: Words in Sch. 7 para. 30A(1A)(a)(i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-a2101a9739ab695e1a804976a3a5e9d2]: Textual amendment: Words in Sch. 7 para. 30A(1A)(a)(i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-1b31c180d21785c5d0f78ea79605bebf]: Textual amendment: Words in Sch. 7 para. 30A(2) inserted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 145(8)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/8), [183(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/3)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 145(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/10)); [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
+[^c-1b31c180d21785c5d0f78ea79605bebf]: Textual amendment: Words in Sch. 7 para. 30A(2) inserted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 145(8)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/8), [183(3)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/3)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e) (with [s. 145(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/10)); [S.I. 2017/482](https://www.legislation.gov.uk/uksi/2017/482), [reg. 2](https://www.legislation.gov.uk/uksi/2017/482/regulation/2)
 
 [^M_F_aadf9204-5b88-429c-ca59-3f09b79346b6]: Textual amendment: Words in Sch. 7 para. 31 substituted (31.1.2017 for specified purposes, 1.4.2017 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [ss. 145(9)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/9), [183(3)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/3/5/e) (with [s. 145(10)](https://www.legislation.gov.uk/ukpga/2017/3/section/145/10)); S.I. 2017/482, reg. 2
 
-[^key-0ac4f294ada4d8b564259a0d2871acb3]: Textual amendment: Words in [Sch. 7 para. 31(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7/paragraph/31/2/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-0ac4f294ada4d8b564259a0d2871acb3]: Textual amendment: Words in [Sch. 7 para. 31(2)(a)(i)](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7/paragraph/31/2/a/i) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
 
-[^key-ca620e1f15598a7082825461cd50b049]: Textual amendment: Words in Sch. 7 para. 31(2)(a)(i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-ca620e1f15598a7082825461cd50b049]: Textual amendment: Words in Sch. 7 para. 31(2)(a)(i) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-d65780e90d94bf0a8386f35d87837746]: Textual amendment: Word in Sch. 7 para. 33(1)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(4)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/4/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-d65780e90d94bf0a8386f35d87837746]: Textual amendment: Word in Sch. 7 para. 33(1)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(4)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/4/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-5225c6de0c6496c8eb99bb91ab5e31e6]: Textual amendment: Sch. 7 para. 33(1)(b) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/60)
+[^c-5225c6de0c6496c8eb99bb91ab5e31e6]: Textual amendment: Sch. 7 para. 33(1)(b) omitted (27.3.2014) by virtue of [The Public Bodies (Merger of the Director of Public Prosecutions and the Director of Revenue and Customs Prosecutions) Order 2014 (S.I. 2014/834)](https://www.legislation.gov.uk/uksi/2014/834), [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/834/article/1/1), [Sch. 2 para. 60](https://www.legislation.gov.uk/uksi/2014/834/schedule/2/paragraph/60)
 
-[^key-d8e417329583f02f835711680abfacbf]: Textual amendment: Sch. 7 para. 33(1)(c) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(4)(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/4/a)
+[^c-d8e417329583f02f835711680abfacbf]: Textual amendment: Sch. 7 para. 33(1)(c) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(4)(a)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/4/a)
 
-[^key-f0426a95308b1ba8af1786b832c9ad37]: Textual amendment: Word in Sch. 7 para. 33(2)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(4)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/4/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-f0426a95308b1ba8af1786b832c9ad37]: Textual amendment: Word in Sch. 7 para. 33(2)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(4)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/4/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-eedf3056501499483fe2388a1e60f571]: Textual amendment: Sch. 7 para. 33(2)(c) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(4)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/4/b)
+[^c-eedf3056501499483fe2388a1e60f571]: Textual amendment: Sch. 7 para. 33(2)(c) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(4)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/4/b)
 
-[^key-f5fdfb63ce51d928a217177d7851c713]: Textual amendment: Words in Sch. 7 para. 33(3) omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(4)(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/4/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-f5fdfb63ce51d928a217177d7851c713]: Textual amendment: Words in Sch. 7 para. 33(3) omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(4)(b)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/4/b) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-35f95ee2f985cf106fa850af440a2deb]: Textual amendment: Word in Sch. 7 para. 39(2)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(5)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/5/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-35f95ee2f985cf106fa850af440a2deb]: Textual amendment: Word in Sch. 7 para. 39(2)(a) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(5)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/5/a) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-54221265204fe54621b4b3a96df288d1]: Textual amendment: Words in Sch. 7 para. 39(2)(a)(ii) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(5)(a)(i)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/5/a/i)
+[^c-54221265204fe54621b4b3a96df288d1]: Textual amendment: Words in Sch. 7 para. 39(2)(a)(ii) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(5)(a)(i)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/5/a/i)
 
-[^key-95bdced827bc98aa0ee49d637aa78555]: Textual amendment: Sch. 7 para. 39(2)(b) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/5/a/ii)
+[^c-95bdced827bc98aa0ee49d637aa78555]: Textual amendment: Sch. 7 para. 39(2)(b) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(5)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/5/a/ii)
 
-[^key-c92403193b4d1704b5197c7557e0b1f0]: Textual amendment: Sch. 7 para. 39(2)(d) repealed (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 51(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/51/2), [55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/a/d)
+[^c-c92403193b4d1704b5197c7557e0b1f0]: Textual amendment: Sch. 7 para. 39(2)(d) repealed (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [ss. 51(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/51/2), [55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/38/schedule/2/part/2); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(a)(d)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/a/d)
 
-[^key-86c58efd0fd7816ec83473e2079ea153]: Textual amendment: Words in Sch. 7 para. 41 cross-heading substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(5)(c)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/5/c) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-86c58efd0fd7816ec83473e2079ea153]: Textual amendment: Words in Sch. 7 para. 41 cross-heading substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(5)(c)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/5/c) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-25c30a3c3026bd3883efe261d16e6a21]: Textual amendment: Words in Sch. 7 para. 41(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/5/b/i) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-25c30a3c3026bd3883efe261d16e6a21]: Textual amendment: Words in Sch. 7 para. 41(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(5)(b)(i)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/5/b/i) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-8c63598da3989849eae66cf7e6facb91]: Textual amendment: Word in Sch. 7 para. 41(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/5/b/ii) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-8c63598da3989849eae66cf7e6facb91]: Textual amendment: Word in Sch. 7 para. 41(1) substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(5)(b)(ii)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/5/b/ii) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-ce388b8e35fa3a3f42d5b5c42a701eb3]: Textual amendment: Words in Sch. 7 para. 41(2) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 10(4)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/10/4)
+[^c-ce388b8e35fa3a3f42d5b5c42a701eb3]: Textual amendment: Words in Sch. 7 para. 41(2) inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 10(4)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/10/4)
 
-[^key-9b6ba517c95102aaca2f4eff20e2d3f1]: Textual amendment: Words in Sch. 7 para. 45(1) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(5)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/5/b)
+[^c-9b6ba517c95102aaca2f4eff20e2d3f1]: Textual amendment: Words in Sch. 7 para. 45(1) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(5)(b)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/5/b)
 
-[^key-f166e301b14bc2f573bbe2a85509e082]: Textual amendment: Sch. 7 para. 45(3) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/7) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-f166e301b14bc2f573bbe2a85509e082]: Textual amendment: Sch. 7 para. 45(3) substituted (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/692/regulation/1/2), [Sch. 7 para. 7](https://www.legislation.gov.uk/uksi/2017/692/schedule/7/paragraph/7) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
 
-[^key-c0764f916adcbe4f17376e5c2982545b]: Textual amendment: Words in Sch. 7 para. 46 omitted (1.1.2014) by virtue of [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 44(4)(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/44/4/a)
+[^c-c0764f916adcbe4f17376e5c2982545b]: Textual amendment: Words in Sch. 7 para. 46 omitted (1.1.2014) by virtue of [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 44(4)(a)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/44/4/a)
 
-[^key-2696eac508fe6be9b340f5acafdd5c1e]: Textual amendment: Words in [Sch. 7 para. 46](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7/paragraph/46) omitted (17.8.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2022/838/regulation/6/4) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
+[^c-2696eac508fe6be9b340f5acafdd5c1e]: Textual amendment: Words in [Sch. 7 para. 46](https://www.legislation.gov.uk/ukpga/2008/28/schedule/7/paragraph/46) omitted (17.8.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2022 (S.I. 2022/838)](https://www.legislation.gov.uk/uksi/2022/838), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/838/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2022/838/regulation/6/4) (with [regs. 24-26](https://www.legislation.gov.uk/uksi/2022/838/regulation/24))
 
-[^key-1149047534feb4d551ba16468ebeafdd]: Textual amendment: Words in Sch. 7 para. 46 inserted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 44(4)(b)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/44/4/b)
+[^c-1149047534feb4d551ba16468ebeafdd]: Textual amendment: Words in Sch. 7 para. 46 inserted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 44(4)(b)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/44/4/b)
 
-[^key-5c256d4b7910bb3bbf3659fa4308109e]: Textual amendment: Words in Sch. 7 para. 46 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(5)(c)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/5/c)
+[^c-5c256d4b7910bb3bbf3659fa4308109e]: Textual amendment: Words in Sch. 7 para. 46 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 15(5)(c)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/15/5/c)
 
-[^key-479c4b00c14fdccbecd5e407c8484b41]: Textual amendment: Words in Sch. 7 para. 46 inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/9/a)
+[^c-479c4b00c14fdccbecd5e407c8484b41]: Textual amendment: Words in Sch. 7 para. 46 inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 9(a)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/9/a)
 
-[^key-ec7ab56df7a646a7e6f6bb3c9dd85687]: Textual amendment: Words in Sch. 7 para. 46 substituted (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 1 para. 11(5)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/11/5); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/c)
+[^c-ec7ab56df7a646a7e6f6bb3c9dd85687]: Textual amendment: Words in Sch. 7 para. 46 substituted (31.3.2012) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(2)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/2), [Sch. 1 para. 11(5)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/11/5); [S.I. 2011/2835](https://www.legislation.gov.uk/uksi/2011/2835), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/2835/article/2/c)
 
-[^key-11fb032dc9ae063f9043d912f47453d2]: Textual amendment: Words in Sch. 7 para. 46 inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/9/b)
+[^c-11fb032dc9ae063f9043d912f47453d2]: Textual amendment: Words in Sch. 7 para. 46 inserted (17.12.2010) by [Terrorist Asset-Freezing etc. Act 2010 (c. 38)](https://www.legislation.gov.uk/ukpga/2010/38), [s. 55(1)](https://www.legislation.gov.uk/ukpga/2010/38/section/55/1), [Sch. 1 para. 9(b)](https://www.legislation.gov.uk/ukpga/2010/38/schedule/1/paragraph/9/b)
 
-[^key-c7bd876f03af04c87de42255880cf63f]: Textual amendment: Words in Sch. 7 para. 46 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(5)(d)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/5/d) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-c7bd876f03af04c87de42255880cf63f]: Textual amendment: Words in Sch. 7 para. 46 substituted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 127(5)(d)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/127/5/d) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)

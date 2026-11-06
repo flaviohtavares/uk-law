@@ -220,7 +220,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of the 
 
 - [Section 78 — Local development orders](part-6/section-78.md)
 
-##### Neighbourhood development orders[^key-b33e6b6186937888ec25c5280e230fc5]
+##### Neighbourhood development orders[^c-b33e6b6186937888ec25c5280e230fc5]
 
 - [Section 78A — Neighbourhood development orders](part-6/section-78a.md)
 
@@ -432,7 +432,7 @@ An impact assessment prepared during the passage of the Marine Act can be found 
 
 [^c2016811]: Marginal citation: OJ No L 206, 22.7.1992, p. 7, last amended by Council Directive 2006/105/EC (OJ No L 363, 20.12.2006, p. 368).
 
-[^key-b33e6b6186937888ec25c5280e230fc5]: Textual amendment: Reg. 78A and cross-heading inserted (6.4.2012) by [The Neighbourhood Planning (General) Regulations 2012 (S.I. 2012/637)](https://www.legislation.gov.uk/uksi/2012/637), [reg. 1](https://www.legislation.gov.uk/uksi/2012/637/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/637/schedule/2/paragraph/3)
+[^c-b33e6b6186937888ec25c5280e230fc5]: Textual amendment: Reg. 78A and cross-heading inserted (6.4.2012) by [The Neighbourhood Planning (General) Regulations 2012 (S.I. 2012/637)](https://www.legislation.gov.uk/uksi/2012/637), [reg. 1](https://www.legislation.gov.uk/uksi/2012/637/regulation/1), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2012/637/schedule/2/paragraph/3)
 
 [^c2017010]: Marginal citation: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716).
 

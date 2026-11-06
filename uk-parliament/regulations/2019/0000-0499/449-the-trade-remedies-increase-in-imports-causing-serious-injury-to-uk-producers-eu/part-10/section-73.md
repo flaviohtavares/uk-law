@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Further modifications to Part 9[^key-0b5a58dc7481ed2ad3c19dccc7382ec5]
+## 73. Further modifications to Part 9[^c-0b5a58dc7481ed2ad3c19dccc7382ec5]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Regulation 48 (treatment of tariff rate quotas under this Part etc) has effect a
 
 ## Annotations
 
-[^key-0b5a58dc7481ed2ad3c19dccc7382ec5]: Commencement: Reg. 73 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-0b5a58dc7481ed2ad3c19dccc7382ec5]: Commencement: Reg. 73 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

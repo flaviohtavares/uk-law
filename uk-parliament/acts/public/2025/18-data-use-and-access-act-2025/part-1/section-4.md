@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Power to make provision in connection with business data[^key-12c1c4af498ef817e44b8e0af62f7e09][^key-a076feb997215ebc83c1d6bcb8271b3a]
+## 4. Power to make provision in connection with business data[^c-12c1c4af498ef817e44b8e0af62f7e09][^c-a076feb997215ebc83c1d6bcb8271b3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-12c1c4af498ef817e44b8e0af62f7e09]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-12c1c4af498ef817e44b8e0af62f7e09]: Commencement: S. 4 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-a076feb997215ebc83c1d6bcb8271b3a]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/18/section/4) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-a076feb997215ebc83c1d6bcb8271b3a]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2025/18/section/4) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

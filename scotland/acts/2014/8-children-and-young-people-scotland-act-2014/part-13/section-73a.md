@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 73A. Duty to have regard to guidance about the provision of kinship care assistance[^key-9ca761b3e0a79259504d17990750b8bb]
+## 73A. Duty to have regard to guidance about the provision of kinship care assistance[^c-9ca761b3e0a79259504d17990750b8bb]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ca761b3e0a79259504d17990750b8bb]: Textual amendment: [S. 73A](https://www.legislation.gov.uk/asp/2014/8/section/73A) inserted (30.9.2026 for specified purposes) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 18(2)](https://www.legislation.gov.uk/asp/2026/16/section/18/2), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)
+[^c-9ca761b3e0a79259504d17990750b8bb]: Textual amendment: [S. 73A](https://www.legislation.gov.uk/asp/2014/8/section/73A) inserted (30.9.2026 for specified purposes) by [Children (Care, Care Experience and Services Planning) (Scotland) Act 2026 (asp 16)](https://www.legislation.gov.uk/asp/2026/16), [ss. 18(2)](https://www.legislation.gov.uk/asp/2026/16/section/18/2), [70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2); [S.S.I. 2026/258](https://www.legislation.gov.uk/ssi/2026/258), [reg. 2](https://www.legislation.gov.uk/ssi/2026/258/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/258/schedule)

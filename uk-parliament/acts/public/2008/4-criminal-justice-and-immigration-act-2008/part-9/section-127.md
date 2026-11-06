@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 127. Investigation of complaints of police misconduct etc.[^key-45b39e2e95e1de9cd7e0da167d42d1ea][^key-f3f4d4618bd6b930b90cf252219577fe]
+## 127. Investigation of complaints of police misconduct etc.[^c-45b39e2e95e1de9cd7e0da167d42d1ea][^c-f3f4d4618bd6b930b90cf252219577fe]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 23 amends the Police Reform Act 2002 (c. 30) to make further provision 
 
 ## Annotations
 
-[^key-45b39e2e95e1de9cd7e0da167d42d1ea]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2008/4/section/127) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/10)
+[^c-45b39e2e95e1de9cd7e0da167d42d1ea]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2008/4/section/127) in force at 3.11.2008 for specified purposes by [S.I. 2008/2712](https://www.legislation.gov.uk/uksi/2008/2712), [art. 2](https://www.legislation.gov.uk/uksi/2008/2712/article/2), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2008/2712/schedule/paragraph/10)
 
-[^key-f3f4d4618bd6b930b90cf252219577fe]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2008/4/section/127) in force at 1.12.2008 for specified purposes by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/d)
+[^c-f3f4d4618bd6b930b90cf252219577fe]: Commencement: [S. 127](https://www.legislation.gov.uk/ukpga/2008/4/section/127) in force at 1.12.2008 for specified purposes by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/d)

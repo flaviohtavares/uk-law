@@ -158,7 +158,7 @@ In this Part—
 
 ## PART 2 — MISCELLANEOUS
 
-### 6. Prohibition or restriction of use of public roads in connection with special events[^key-d243f5f628b14098b185831a5e59502b]
+### 6. Prohibition or restriction of use of public roads in connection with special events[^c-d243f5f628b14098b185831a5e59502b]
 
 (1) The Road Traffic Regulation (Northern Ireland) Order 1997 (NI 2) is amended as follows.
 
@@ -192,9 +192,9 @@ For Article 65 of the Road Traffic Regulation (Northern Ireland) Order 1997 subs
 
 ### 8. Minor amendments and repeals[^c20430631]
 
-(1)[^key-f1cd515fe53727c6d98b02ca94fff34d] The statutory provisions set out in Schedule 2 have effect subject to the minor and consequential amendments specified in that Schedule.
+(1)[^c-f1cd515fe53727c6d98b02ca94fff34d] The statutory provisions set out in Schedule 2 have effect subject to the minor and consequential amendments specified in that Schedule.
 
-(2)[^key-1b2a159e1b98df1073a5e40e56085697] The statutory provisions set out in Schedule 3 are repealed to the extent specified in the second column of that Schedule.
+(2)[^c-1b2a159e1b98df1073a5e40e56085697] The statutory provisions set out in Schedule 3 are repealed to the extent specified in the second column of that Schedule.
 
 ### 9. Commencement
 
@@ -213,7 +213,7 @@ This Act may be cited as the Roads (Miscellaneous Provisions) Act (Northern Irel
 
 SCHEDULES
 
-## SCHEDULE 1 — SCHEDULE TO BE INSERTED AS SCHEDULE 3A TO THE ROAD TRAFFIC REGULATION (NORTHERN IRELAND) ORDER 1997[^key-e448edc971ab5dcadbe33fb3fc4819c3]
+## SCHEDULE 1 — SCHEDULE TO BE INSERTED AS SCHEDULE 3A TO THE ROAD TRAFFIC REGULATION (NORTHERN IRELAND) ORDER 1997[^c-e448edc971ab5dcadbe33fb3fc4819c3]
 
 Section 6.
 
@@ -346,11 +346,11 @@ Section 8.
 
 ### The Statutory Rules (Northern Ireland) Order 1979 (NI 12)
 
-**3.**[^key-850f0c444a3875ebcca398c5a13a7148] In Schedule 3 (statutory rules exempt from requirements as to printing and sale) in paragraph 7A after “66 of” insert “ , or Schedule 3A to, ”.
+**3.**[^c-850f0c444a3875ebcca398c5a13a7148] In Schedule 3 (statutory rules exempt from requirements as to printing and sale) in paragraph 7A after “66 of” insert “ , or Schedule 3A to, ”.
 
 ### The Roads (Northern Ireland) Order 1993 (NI 15)
 
-**4.**[^key-04d6c03dd793e9611c5b38dde2186596] In Article 71(2) (erection of structures on roads) after sub-paragraph (c) insert
+**4.**[^c-04d6c03dd793e9611c5b38dde2186596] In Article 71(2) (erection of structures on roads) after sub-paragraph (c) insert
 
 > or
 >
@@ -360,7 +360,7 @@ Section 8.
 
 ### The Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10)
 
-**5.**[^key-a56425b1090ef0972acee142313179ae] In Part 1 of Schedule 1 (offences) at the end of the entries relating to the Road Traffic Regulation (Northern Ireland) Order 1997 insert—
+**5.**[^c-a56425b1090ef0972acee142313179ae] In Part 1 of Schedule 1 (offences) at the end of the entries relating to the Road Traffic Regulation (Northern Ireland) Order 1997 insert—
 
 > |  |  |  |  |  |  |  |
 > | --- | --- | --- | --- | --- | --- | --- |
@@ -369,9 +369,9 @@ Section 8.
 
 ### The Road Traffic Regulation (Northern Ireland) Order 1997 (NI 2)
 
-**6.**[^c20430551] (1)[^key-3a37aa5c6b075efac77ede3e35c1b62f] In Article 9(1), (2) and (3) for “this Part” substitute “ Articles 4 to 8 ”.
+**6.**[^c20430551] (1)[^c-3a37aa5c6b075efac77ede3e35c1b62f] In Article 9(1), (2) and (3) for “this Part” substitute “ Articles 4 to 8 ”.
 
-(2)[^key-a4a9b73c33377513f820091e74f91934] In Article 69 (trolley vehicles) after “7,” insert “ 8A, ”.
+(2)[^c-a4a9b73c33377513f820091e74f91934] In Article 69 (trolley vehicles) after “7,” insert “ 8A, ”.
 
 (3) In Schedule 6 (inquiries), in paragraph 1(1) for “under this Order” substitute “ in connection with the making by the Department of an order or scheme under this Order ”.
 
@@ -390,7 +390,7 @@ Section 8.
 
 (2) In Article 30(1) (Lord Chancellor may make regulations as to procedure before adjudicators) after “may” insert “ after consultation with the Lord Chief Justice ”.
 
-## SCHEDULE 3 — REPEALS[^c20430581][^key-4aed5f484f8b2b9ec5d7e5d811317076]
+## SCHEDULE 3 — REPEALS[^c20430581][^c-4aed5f484f8b2b9ec5d7e5d811317076]
 
 Section 8.
 
@@ -404,28 +404,28 @@ Section 8.
 
 ## Annotations
 
-[^key-d243f5f628b14098b185831a5e59502b]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2010/14/section/6) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-d243f5f628b14098b185831a5e59502b]: Commencement: [S. 6](https://www.legislation.gov.uk/nia/2010/14/section/6) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
 
 [^c20430631]: Commencement: [S. 8](https://www.legislation.gov.uk/nia/2010/14/section/8) partly in force; [s. 8](https://www.legislation.gov.uk/nia/2010/14/section/8) in force for specified purposes at 14.8.2010 see [s. 9(1)(2)(c)(d)](https://www.legislation.gov.uk/nia/2010/14/section/9/1/2/c/d)
 
-[^key-f1cd515fe53727c6d98b02ca94fff34d]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/nia/2010/14/section/8/1) in operation at 4.9.2017 for specified purposes by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-f1cd515fe53727c6d98b02ca94fff34d]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/nia/2010/14/section/8/1) in operation at 4.9.2017 for specified purposes by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
 
-[^key-1b2a159e1b98df1073a5e40e56085697]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/nia/2010/14/section/8/2) in operation at 4.9.2017 for specified purposes by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-1b2a159e1b98df1073a5e40e56085697]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/nia/2010/14/section/8/2) in operation at 4.9.2017 for specified purposes by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
 
-[^key-e448edc971ab5dcadbe33fb3fc4819c3]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2010/14/schedule/1) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-e448edc971ab5dcadbe33fb3fc4819c3]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nia/2010/14/schedule/1) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
 
-[^key-850f0c444a3875ebcca398c5a13a7148]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/3) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-850f0c444a3875ebcca398c5a13a7148]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/3) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
 
-[^key-04d6c03dd793e9611c5b38dde2186596]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/4) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-04d6c03dd793e9611c5b38dde2186596]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/4) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
 
-[^key-a56425b1090ef0972acee142313179ae]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/5) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-a56425b1090ef0972acee142313179ae]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/5) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
 
 [^c20430551]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/6) partly in force; [Sch. 2 para. 6(3)(4)](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/6/3/4) in force at 14.8.2010 see [s. 9(1)(2)(c)](https://www.legislation.gov.uk/nia/2010/14/section/9/1/2/c)
 
-[^key-3a37aa5c6b075efac77ede3e35c1b62f]: Commencement: [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/6/1) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-3a37aa5c6b075efac77ede3e35c1b62f]: Commencement: [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/6/1) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
 
-[^key-a4a9b73c33377513f820091e74f91934]: Commencement: [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/6/2) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-a4a9b73c33377513f820091e74f91934]: Commencement: [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/nia/2010/14/schedule/2/paragraph/6/2) in operation at 4.9.2017 by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
 
 [^c20430581]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2010/14/schedule/3) partly in force; [Sch. 3](https://www.legislation.gov.uk/nia/2010/14/schedule/3) in force at 14.8.2010 for specified purposes see [s. 9(1)(2)(d)](https://www.legislation.gov.uk/nia/2010/14/section/9/1/2/d)
 
-[^key-4aed5f484f8b2b9ec5d7e5d811317076]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2010/14/schedule/3) in operation at 4.9.2017 for specified purposes by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)
+[^c-4aed5f484f8b2b9ec5d7e5d811317076]: Commencement: [Sch. 3](https://www.legislation.gov.uk/nia/2010/14/schedule/3) in operation at 4.9.2017 for specified purposes by [S.R. 2017/34](https://www.legislation.gov.uk/nisr/2017/34), [art. 2](https://www.legislation.gov.uk/nisr/2017/34/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2017/34/schedule)

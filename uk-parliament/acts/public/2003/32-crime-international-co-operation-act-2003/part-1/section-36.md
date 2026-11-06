@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Making, varying or discharging account monitoring orders[^key-fcfbe1a27c3d02c1d7178657fabe2c73]
+## 36. Making, varying or discharging account monitoring orders[^c-fcfbe1a27c3d02c1d7178657fabe2c73]
 
 *Extent: E+W+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fcfbe1a27c3d02c1d7178657fabe2c73]: Commencement: S. 36 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 2](https://www.legislation.gov.uk/uksi/2006/2811/article/2)
+[^c-fcfbe1a27c3d02c1d7178657fabe2c73]: Commencement: S. 36 in force at 1.11.2006 by [S.I. 2006/2811](https://www.legislation.gov.uk/uksi/2006/2811), [art. 2](https://www.legislation.gov.uk/uksi/2006/2811/article/2)

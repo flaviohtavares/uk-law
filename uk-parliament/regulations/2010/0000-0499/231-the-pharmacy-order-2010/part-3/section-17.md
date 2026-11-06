@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Powers of a court on appeal[^key-d30f0ab6365f39d1798caf7392796115][^key-72cdc372198de7ab6cabbfd4d806c63a]
+## 17. Powers of a court on appeal[^c-d30f0ab6365f39d1798caf7392796115][^c-72cdc372198de7ab6cabbfd4d806c63a]
 
 *Extent: E+W+S*
 
@@ -24,6 +24,6 @@ On an appeal against an improvement notice, the court may either cancel the noti
 
 ## Annotations
 
-[^key-d30f0ab6365f39d1798caf7392796115]: Commencement: Art. 17 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
+[^c-d30f0ab6365f39d1798caf7392796115]: Commencement: Art. 17 in force at 10.2.2010 for specified purposes, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/231/article/1/3)
 
-[^key-72cdc372198de7ab6cabbfd4d806c63a]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2010/231/article/17) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)
+[^c-72cdc372198de7ab6cabbfd4d806c63a]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2010/231/article/17) in force at 27.9.2010 in so far as not already in force by [S.I. 2010/1621](https://www.legislation.gov.uk/uksi/2010/1621), [art. 2(1)](https://www.legislation.gov.uk/uksi/2010/1621/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2010/1621/schedule)

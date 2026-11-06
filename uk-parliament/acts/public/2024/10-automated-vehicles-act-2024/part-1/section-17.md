@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Power to issue information notice[^key-0f145b12d3f21ec181938b5cd5e7ec71]
+## 17. Power to issue information notice[^c-0f145b12d3f21ec181938b5cd5e7ec71]
 
 *Extent: E+W+S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f145b12d3f21ec181938b5cd5e7ec71]: Commencement: S. 17 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-0f145b12d3f21ec181938b5cd5e7ec71]: Commencement: S. 17 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

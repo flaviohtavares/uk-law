@@ -37,7 +37,7 @@ An Act for making further Provision respecting certain Payments to the Banks of 
 
 ## 5. Rate of interest on Government debt to the Banks of England and Ireland.
 
-[^key-cdf25b149d9f63a25b751275b9a3e7b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cdf25b149d9f63a25b751275b9a3e7b9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c575831]
 
@@ -63,7 +63,7 @@ An Act for making further Provision respecting certain Payments to the Banks of 
 
 [^c575826]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/Vict/55-56/48/section/1) –4 repealed with savings by [National Loans Act 1968 (c. 13)](https://www.legislation.gov.uk/ukpga/1968/13), [s. 24(2)](https://www.legislation.gov.uk/ukpga/1968/13/section/24/2), [Sch 6 Pt. 1](https://www.legislation.gov.uk/ukpga/1968/13/schedule/6/part/1)
 
-[^key-cdf25b149d9f63a25b751275b9a3e7b9]: Textual amendment: S. 5 repealed (22.7.2004) by 2004 c. 14, Sch. 1 Pt. 17 Group 2
+[^c-cdf25b149d9f63a25b751275b9a3e7b9]: Textual amendment: S. 5 repealed (22.7.2004) by 2004 c. 14, Sch. 1 Pt. 17 Group 2
 
 [^c575831]: Textual amendment: [S. 6](https://www.legislation.gov.uk/ukpga/Vict/55-56/48/section/6) repealed by [Currency Act 1983 (c. 9, SIF 10)](https://www.legislation.gov.uk/ukpga/1983/9), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/1983/9/section/3/5), [4](https://www.legislation.gov.uk/ukpga/1983/9/section/4), [Sch.](https://www.legislation.gov.uk/ukpga/1983/9/schedule)
 

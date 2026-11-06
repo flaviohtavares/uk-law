@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Prohibition against using explosive and other noxious substances for the destruction or taking of fish[^key-42c9fc455eb265da5b75be9ff913b4f3]
+## 5. Prohibition against using explosive and other noxious substances for the destruction or taking of fish[^c-42c9fc455eb265da5b75be9ff913b4f3]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ shall be guilty of an offence.
 
 ## Annotations
 
-[^key-42c9fc455eb265da5b75be9ff913b4f3]: Commencement: S. 5 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-42c9fc455eb265da5b75be9ff913b4f3]: Commencement: S. 5 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

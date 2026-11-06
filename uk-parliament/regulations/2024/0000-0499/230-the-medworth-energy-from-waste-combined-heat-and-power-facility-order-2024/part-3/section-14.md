@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Use of private roads[^key-f9583aa6690404651da1e45177e21070]
+## 14. Use of private roads[^c-f9583aa6690404651da1e45177e21070]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f9583aa6690404651da1e45177e21070]: Commencement: Art. 14 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-f9583aa6690404651da1e45177e21070]: Commencement: Art. 14 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)

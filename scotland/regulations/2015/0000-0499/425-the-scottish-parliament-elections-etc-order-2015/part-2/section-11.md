@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 11. Voting as proxy[^key-a8c2541778dd558eb0d98709bbc56985]
+## 11. Voting as proxy[^c-a8c2541778dd558eb0d98709bbc56985]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ and shall supply to the CRO a copy of that list as soon as reasonably practicabl
 
 ## Annotations
 
-[^key-a8c2541778dd558eb0d98709bbc56985]: Commencement: Art. 11 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-a8c2541778dd558eb0d98709bbc56985]: Commencement: Art. 11 in force at 16.12.2015 in accordance with art. 1(1)

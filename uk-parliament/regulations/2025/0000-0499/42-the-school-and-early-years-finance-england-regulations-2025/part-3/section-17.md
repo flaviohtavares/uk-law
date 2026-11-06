@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Low prior attainment factor[^key-cca3a583249f25c04bc1c451222e6019]
+## 17. Low prior attainment factor[^c-cca3a583249f25c04bc1c451222e6019]
 
 *Extent: E+W*
 
@@ -139,7 +139,7 @@ summary: ''
 
 ## Annotations
 
-[^key-cca3a583249f25c04bc1c451222e6019]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/42/regulation/17) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
+[^c-cca3a583249f25c04bc1c451222e6019]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2025/42/regulation/17) in force at 17.2.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/42/regulation/1/2)
 
 [^f00057]: Footnote: The proxy number represents Reception pupils, who do not take the early years foundation stage assessment until the end of their Reception year, and Year 4 and Year 5 pupils, who were not assessed under the early years foundation stage profile in 2020 and 2021 due to the pandemic.
 

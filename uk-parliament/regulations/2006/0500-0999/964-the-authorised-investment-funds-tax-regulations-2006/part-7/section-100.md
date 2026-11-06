@@ -36,10 +36,10 @@ have effect as if they included references to an open-ended investment company.
 (3) The provisions specified are—
 
 - (a) section 99(1) (application of Act to unit trust scheme),
-- (b)[^key-d861cd2b8d2ea1fccfac309a77ddc16c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d861cd2b8d2ea1fccfac309a77ddc16c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) section 100(2) (exemption for units in unit trust scheme), and
 - (d) section 272(5) (valuation of rights of unit holders).
 
 ## Annotations
 
-[^key-d861cd2b8d2ea1fccfac309a77ddc16c]: Textual amendment: [Reg. 100(3)(b)](https://www.legislation.gov.uk/uksi/2006/964/regulation/100/3/b) omitted (8.6.2013) by virtue of [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/14/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))
+[^c-d861cd2b8d2ea1fccfac309a77ddc16c]: Textual amendment: [Reg. 100(3)(b)](https://www.legislation.gov.uk/uksi/2006/964/regulation/100/3/b) omitted (8.6.2013) by virtue of [The Collective Investment Schemes (Tax Transparent Funds, Exchanges, Mergers and Schemes of Reconstruction) Regulations 2013 (S.I. 2013/1400)](https://www.legislation.gov.uk/uksi/2013/1400), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/1), [14(a)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/14/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/1400/regulation/1/2))

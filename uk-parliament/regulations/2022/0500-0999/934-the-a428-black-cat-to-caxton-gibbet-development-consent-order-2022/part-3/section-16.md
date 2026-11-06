@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Temporary alteration, diversion, prohibition and restriction of the use of streets[^key-afb63b88c32a0a7393abe3d8a574c36f]
+## 16. Temporary alteration, diversion, prohibition and restriction of the use of streets[^c-afb63b88c32a0a7393abe3d8a574c36f]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ it is deemed to have granted consent.
 
 ## Annotations
 
-[^key-afb63b88c32a0a7393abe3d8a574c36f]: Commencement: Art. 16 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-afb63b88c32a0a7393abe3d8a574c36f]: Commencement: Art. 16 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 4 — Exceptions[^key-52d08869fdca1936737a2ba066a52cba]
+## SCHEDULE 4 — Exceptions[^c-52d08869fdca1936737a2ba066a52cba]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,80 +24,80 @@ summary: ''
 
 Regulations 9 and 16
 
-### PART 1 — Supply of seed other than by way of marketing[^key-52d08869fdca1936737a2ba066a52cba]
+### PART 1 — Supply of seed other than by way of marketing[^c-52d08869fdca1936737a2ba066a52cba]
 
-#### 1. Early multiplication of seed[^key-52d08869fdca1936737a2ba066a52cba]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Seed as grown[^key-52d08869fdca1936737a2ba066a52cba]
+#### 1. Early multiplication of seed[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 3. Farm saved seed[^key-52d08869fdca1936737a2ba066a52cba]
+#### 2. Seed as grown[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Marketing seed that does not comply with Schedule 2[^key-52d08869fdca1936737a2ba066a52cba]
-
-#### 4. Seed with a declared lower germination[^key-52d08869fdca1936737a2ba066a52cba]
+#### 3. Farm saved seed[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Early movement of seed[^key-52d08869fdca1936737a2ba066a52cba]
+### PART 2 — Marketing seed that does not comply with Schedule 2[^c-52d08869fdca1936737a2ba066a52cba]
+
+#### 4. Seed with a declared lower germination[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Tetrazolium testing for cereal seed[^key-52d08869fdca1936737a2ba066a52cba]
+#### 5. Early movement of seed[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. Marketing agricultural conservation varieties[^key-52d08869fdca1936737a2ba066a52cba]
+#### 6. Tetrazolium testing for cereal seed[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Marketing preservation mixtures that include uncertified fodder seed[^key-52d08869fdca1936737a2ba066a52cba]
+#### 7. Marketing agricultural conservation varieties[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Marketing unlisted varieties (other than vegetable seed) for tests and trials[^key-52d08869fdca1936737a2ba066a52cba]
+#### 8. Marketing preservation mixtures that include uncertified fodder seed[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Marketing unlisted varieties of vegetable seed[^key-52d08869fdca1936737a2ba066a52cba]
+#### 9. Marketing unlisted varieties (other than vegetable seed) for tests and trials[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 11. Marketing for scientific or selection purposes[^key-52d08869fdca1936737a2ba066a52cba]
+#### 10. Marketing unlisted varieties of vegetable seed[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 12. Restrictions relating to genetically modified seed[^key-52d08869fdca1936737a2ba066a52cba]
+#### 11. Marketing for scientific or selection purposes[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 13. Marketing imported seed to be labelled as HVS[^key-52d08869fdca1936737a2ba066a52cba]
+#### 12. Restrictions relating to genetically modified seed[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Marketing seed certified in another member State[^key-52d08869fdca1936737a2ba066a52cba]
+#### 13. Marketing imported seed to be labelled as HVS[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — Certifying seed that does not fully comply with these Regulations[^key-52d08869fdca1936737a2ba066a52cba]
-
-#### 15. Seed not finally certified, harvested in another member State[^key-52d08869fdca1936737a2ba066a52cba]
+#### 14. Marketing seed certified in another member State[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 16. Seed not finally certified, harvested in a third country[^key-52d08869fdca1936737a2ba066a52cba]
+### PART 3 — Certifying seed that does not fully comply with these Regulations[^c-52d08869fdca1936737a2ba066a52cba]
+
+#### 15. Seed not finally certified, harvested in another member State[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Marketing extensions[^key-52d08869fdca1936737a2ba066a52cba]
+#### 16. Seed not finally certified, harvested in a third country[^c-52d08869fdca1936737a2ba066a52cba]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 17. Marketing extensions[^c-52d08869fdca1936737a2ba066a52cba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-52d08869fdca1936737a2ba066a52cba]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), regs. 1, [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)
+[^c-52d08869fdca1936737a2ba066a52cba]: Textual amendment: Regulations revoked (1.4.2011) by [The Seed Marketing Regulations 2011 (S.I. 2011/463)](https://www.legislation.gov.uk/uksi/2011/463), regs. 1, [34](https://www.legislation.gov.uk/uksi/2011/463/regulation/34)

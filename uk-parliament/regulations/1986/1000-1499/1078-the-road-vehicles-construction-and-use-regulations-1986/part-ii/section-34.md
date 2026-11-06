@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Windscreen wipers and washers[^key-02182b86740db6cf960357a9a9bdded7]
+## 34. Windscreen wipers and washers[^c-02182b86740db6cf960357a9a9bdded7]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The requirement specified in paragraph (2) does not apply in respect of—
 
-- (a)[^key-2ed1b8ed2579d03ab15077cc96bdd010] an agricultural motor vehicle, not being a category T tractor, unless it is first used on or after 1st June 1986 and is driven at more than 20 mph;
+- (a)[^c-2ed1b8ed2579d03ab15077cc96bdd010] an agricultural motor vehicle, not being a category T tractor, unless it is first used on or after 1st June 1986 and is driven at more than 20 mph;
 - (aa) a category T tractor unless it is first used on or after 1st June 1986 and is driven at more than 40 km/h;
 - (b) a track-laying vehicle;
 - (c) a vehicle having a maximum speed not exceeding 20 mph; or
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02182b86740db6cf960357a9a9bdded7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1986/1078/regulation/34) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-02182b86740db6cf960357a9a9bdded7]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/1986/1078/regulation/34) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
 
-[^key-2ed1b8ed2579d03ab15077cc96bdd010]: Textual amendment: [Reg. 34(3)(a)(aa)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/34/3/a/aa) substituted for reg. 34(3)(a) (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2015/142/regulation/14)
+[^c-2ed1b8ed2579d03ab15077cc96bdd010]: Textual amendment: [Reg. 34(3)(a)(aa)](https://www.legislation.gov.uk/uksi/1986/1078/regulation/34/3/a/aa) substituted for reg. 34(3)(a) (9.3.2015) by [The Road Vehicles (Construction and Use) (Amendment) Regulations 2015 (S.I. 2015/142)](https://www.legislation.gov.uk/uksi/2015/142), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/142/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2015/142/regulation/14)

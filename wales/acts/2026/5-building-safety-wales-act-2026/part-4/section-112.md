@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 112. Meaning of “relevant building”[^key-6f90e7d9f5afb57055cc01e5ad7793a9]
+## 112. Meaning of “relevant building”[^c-6f90e7d9f5afb57055cc01e5ad7793a9]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6f90e7d9f5afb57055cc01e5ad7793a9]: Commencement: S. 112 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-6f90e7d9f5afb57055cc01e5ad7793a9]: Commencement: S. 112 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

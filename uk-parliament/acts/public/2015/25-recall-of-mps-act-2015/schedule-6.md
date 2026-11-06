@@ -24,7 +24,7 @@ Section 20
 
 ### Representation of the People Act 1983 (c. 2)
 
-**1.**[^key-ef4b45ff4c30028e66dba08193f3ec28] (1) Schedule 1 to the Representation of the People Act 1983 (parliamentary election rules) is amended as follows.
+**1.**[^c-ef4b45ff4c30028e66dba08193f3ec28] (1) Schedule 1 to the Representation of the People Act 1983 (parliamentary election rules) is amended as follows.
 
 (2) In the form of writ in the Appendix of Forms at the end of that Schedule—
 
@@ -33,18 +33,18 @@ Section 20
 
 ### Political Parties, Elections and Referendums Act 2000 (c. 41)
 
-**2.**[^c22525511][^key-3c5892a615e8d3733d288bb04cbe8b72] PPERA 2000 is amended as follows.
+**2.**[^c22525511][^c-3c5892a615e8d3733d288bb04cbe8b72] PPERA 2000 is amended as follows.
 
-**3.**[^c22525521] (1)[^key-8a75c8b54613ca71cf21690c951e9b24] Part 1 (the Electoral Commission) is amended as follows.
+**3.**[^c22525521] (1)[^c-8a75c8b54613ca71cf21690c951e9b24] Part 1 (the Electoral Commission) is amended as follows.
 
-(2)[^key-2b20750c6e4ca320a1688356fe96bd46] In section 5 (reports on elections and referendums)—
+(2)[^c-2b20750c6e4ca320a1688356fe96bd46] In section 5 (reports on elections and referendums)—
 
 - (a) in the heading, for “**and referendums**” substitute “ **, referendums etc** ”;
 - (b) after subsection (3), insert—
 
   > (4) After the end of a recall petition period (within the meaning of Schedule 3 to the Recall of MPs Act 2015), the Commission must prepare and publish (in such manner as the Commission may determine) a report on the actions taken, or not taken, under or by virtue of that Act in relation to the recall petition in question after the giving of the Speaker's notice under section 5 of that Act in relation to that petition.
 
-(3)[^key-2b20750c6e4ca320a1688356fe96bd46] In section 6 (reviews of electoral and political matters)—
+(3)[^c-2b20750c6e4ca320a1688356fe96bd46] In section 6 (reviews of electoral and political matters)—
 
 - (a) in subsection (1), after paragraph (b) insert—
 
@@ -59,11 +59,11 @@ Section 20
 - (c) in subsection (3)(c), for “and (b)” substitute “ to (ba) ”;
 - (d) in subsection (4), for “or referendums” (in both places) substitute “ , referendums or recall petitions ”.
 
-(4)[^key-2b20750c6e4ca320a1688356fe96bd46] In section 6A(1) (attendance of representatives of Commission at elections etc), after paragraph (b) insert—
+(4)[^c-2b20750c6e4ca320a1688356fe96bd46] In section 6A(1) (attendance of representatives of Commission at elections etc), after paragraph (b) insert—
 
 > - (c) proceedings relating to a recall petition which are the responsibility of the petition officer in relation to the petition.
 
-(5)[^key-2b20750c6e4ca320a1688356fe96bd46] In section 6F (code of practice on attendance of observers at elections etc), after subsection (1) insert—
+(5)[^c-2b20750c6e4ca320a1688356fe96bd46] In section 6F (code of practice on attendance of observers at elections etc), after subsection (1) insert—
 
 > (1A) The code must also cover the attendance of representatives of the Commission at proceedings relating to a recall petition which are the responsibility of the petition officer in relation to the petition.
 
@@ -93,7 +93,7 @@ Section 20
   ;
 - (b) in paragraph (c)(iii), after “122” insert “ or in a recall petition return delivered to a petition officer under paragraph 6 of Schedule 5 to the Recall of MPs Act 2015 ”.
 
-**4.**[^key-87e63f05f7b386f664b4468f62626249] (1) Part 2 (registration of political parties) is amended as follows.
+**4.**[^c-87e63f05f7b386f664b4468f62626249] (1) Part 2 (registration of political parties) is amended as follows.
 
 (2) In section 24 (office-holders to be registered)—
 
@@ -107,7 +107,7 @@ Section 20
 
   > (7) In relation to any time when a party is (or was) registered as a party with a campaigns officer, the provisions of Schedules 3 to 5 to the Recall of MPs Act 2015 shall apply as if any reference to the treasurer of the party were a reference to the registered campaigns officer.
 
-**5.**[^key-59f2324e4e21e923033bdbfd8733606d] (1) Part 5 (control of campaign expenditure) is amended as follows.
+**5.**[^c-59f2324e4e21e923033bdbfd8733606d] (1) Part 5 (control of campaign expenditure) is amended as follows.
 
 (2) In section 72(7) (campaign expenditure)—
 
@@ -120,7 +120,7 @@ Section 20
 
 (3) In section 74(3) (officers of registered party with responsibility for campaign expenditure), for “or a” substitute “ , a ” and after “Part VII” insert “ or a recall petition within the meaning of the Recall of MPs Act 2015 (see section 1(2) of that Act) ”.
 
-**6.**[^key-e47282de85ecef8ffc51425dc80448b6] (1) Part 6 (controls relating to third party national election campaigns) is amended as follows.
+**6.**[^c-e47282de85ecef8ffc51425dc80448b6] (1) Part 6 (controls relating to third party national election campaigns) is amended as follows.
 
 (2) In section 87(1)(b) (expenditure by third parties which is not controlled expenditure)—
 
@@ -133,7 +133,7 @@ Section 20
 
   .
 
-**7.**[^key-a1d0e000254d7cbc4ba8df94440fc72c] (1) Part 9 (reports of gifts received by unincorporated associations) is amended as follows.
+**7.**[^c-a1d0e000254d7cbc4ba8df94440fc72c] (1) Part 9 (reports of gifts received by unincorporated associations) is amended as follows.
 
 (2) In Schedule 19A (reports of gifts received by unincorporated associations making political contributions), in paragraph 1—
 
@@ -153,22 +153,22 @@ Section 20
 
 ## Annotations
 
-[^key-ef4b45ff4c30028e66dba08193f3ec28]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/1) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-ef4b45ff4c30028e66dba08193f3ec28]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/1) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
 [^c22525511]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/2) partly in force; [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/2) in force at Royal Assent for specified purposes, see [s. 24(2)(g)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/g)
 
-[^key-3c5892a615e8d3733d288bb04cbe8b72]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/2) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-3c5892a615e8d3733d288bb04cbe8b72]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/2) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
 [^c22525521]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/3) partly in force; [Sch. 6 para. 3(1)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/3/1) in force for specified purposes and Sch. 6 para. 3(6) wholly in force at Royal Assent, see [s. 24(2)(g)](https://www.legislation.gov.uk/ukpga/2015/25/section/24/2/g)
 
-[^key-8a75c8b54613ca71cf21690c951e9b24]: Commencement: [Sch. 6 para. 3(1)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/3/1) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-8a75c8b54613ca71cf21690c951e9b24]: Commencement: [Sch. 6 para. 3(1)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/3/1) in force at 4.3.2016 in so far as not already in force by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-2b20750c6e4ca320a1688356fe96bd46]: Commencement: [Sch. 6 para. 3(2)-(5)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/3/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-2b20750c6e4ca320a1688356fe96bd46]: Commencement: [Sch. 6 para. 3(2)-(5)](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/3/2) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-87e63f05f7b386f664b4468f62626249]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/4) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-87e63f05f7b386f664b4468f62626249]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/4) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-59f2324e4e21e923033bdbfd8733606d]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/5) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-59f2324e4e21e923033bdbfd8733606d]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/5) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-e47282de85ecef8ffc51425dc80448b6]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/6) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-e47282de85ecef8ffc51425dc80448b6]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/6) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
 
-[^key-a1d0e000254d7cbc4ba8df94440fc72c]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/7) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)
+[^c-a1d0e000254d7cbc4ba8df94440fc72c]: Commencement: [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2015/25/schedule/6/paragraph/7) in force at 4.3.2016 by [S.I. 2016/290](https://www.legislation.gov.uk/uksi/2016/290), [reg. 2](https://www.legislation.gov.uk/uksi/2016/290/regulation/2)

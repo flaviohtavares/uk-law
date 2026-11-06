@@ -35,10 +35,10 @@ summary: ''
 
 *Para.(6), with Schedule 1, effects amendments*
 
-(7)[^c17232931] In its application to any discrimination falling within Article 4A or 4B[^key-562087dd44d64dca66d8132e459dc168] , this Article shall have effect with the omission of paragraphs (3), (4) and (5)(b).
+(7)[^c17232931] In its application to any discrimination falling within Article 4A or 4B[^c-562087dd44d64dca66d8132e459dc168] , this Article shall have effect with the omission of paragraphs (3), (4) and (5)(b).
 
 ## Annotations
 
 [^c17232931]: Textual amendment: SR 1999/311
 
-[^key-562087dd44d64dca66d8132e459dc168]: Textual amendment: Words in [art. 11(7)](https://www.legislation.gov.uk/nisi/1976/1042/article/11/7) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2016/191/regulation/12)
+[^c-562087dd44d64dca66d8132e459dc168]: Textual amendment: Words in [art. 11(7)](https://www.legislation.gov.uk/nisi/1976/1042/article/11/7) substituted (2.5.2016) by [The Sex Discrimination Order 1976 (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/191)](https://www.legislation.gov.uk/nisr/2016/191), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/191/regulation/1/1), [12](https://www.legislation.gov.uk/nisr/2016/191/regulation/12)

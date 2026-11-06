@@ -31,8 +31,8 @@ summary: ''
 - (a) any relief under section 442A of ITEPA 2003, and
 - (b) sections 446G and 446H of ITEPA 2003.
 
-(5)[^key-0bc4cff92a44f48a56c95f49ff4e1093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0bc4cff92a44f48a56c95f49ff4e1093] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0bc4cff92a44f48a56c95f49ff4e1093]: Textual amendment: S. 1033(5) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(f)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/f)
+[^c-0bc4cff92a44f48a56c95f49ff4e1093]: Textual amendment: S. 1033(5) omitted (with effect in accordance with s. 12(5)-(7) of the amending Act) by virtue of [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 12(4)(f)](https://www.legislation.gov.uk/ukpga/2017/10/section/12/4/f)

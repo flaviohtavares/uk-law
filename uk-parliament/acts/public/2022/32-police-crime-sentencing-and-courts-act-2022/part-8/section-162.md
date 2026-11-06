@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Abolition of reparation orders[^key-33fb3522d696b91bf203c7f141e37158]
+## 162. Abolition of reparation orders[^c-33fb3522d696b91bf203c7f141e37158]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 110(1) of the Sentencing Code (availability of reparation order), bef
 
 ## Annotations
 
-[^key-33fb3522d696b91bf203c7f141e37158]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2022/32/section/162) in force at 28.6.2022, see [s. 208(5)(v)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/v)
+[^c-33fb3522d696b91bf203c7f141e37158]: Commencement: [S. 162](https://www.legislation.gov.uk/ukpga/2022/32/section/162) in force at 28.6.2022, see [s. 208(5)(v)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/v)

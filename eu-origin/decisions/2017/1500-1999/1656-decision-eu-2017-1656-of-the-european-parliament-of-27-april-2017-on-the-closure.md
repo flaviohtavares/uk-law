@@ -31,10 +31,10 @@ Decision (EU) 2017/1656 of the European Parliament
 
 of 27 April 2017 on the closure of the accounts of the European Banking Authority for the financial year 2015 (revoked)
 
-[^key-3036ff3b98c06fafdfa48273bfcce1df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3036ff3b98c06fafdfa48273bfcce1df]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-3036ff3b98c06fafdfa48273bfcce1df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-3036ff3b98c06fafdfa48273bfcce1df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3036ff3b98c06fafdfa48273bfcce1df]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(h)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3036ff3b98c06fafdfa48273bfcce1df]: Textual amendment: Decision revoked (31.12.2020) by [The Financial Services (Miscellaneous) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/710)](https://www.legislation.gov.uk/uksi/2019/710), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/710/regulation/1/3), [35(h)](https://www.legislation.gov.uk/uksi/2019/710/regulation/35/h); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

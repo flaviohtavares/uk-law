@@ -24,14 +24,14 @@ summary: ''
 
 (2) Subsection (1) above is without prejudice to any power to grant a degree or licence in dentistry which a medical authority may possess apart from the provisions of this Act.
 
-(3)[^key-c676a73f823dea45da5612787696b9de][^key-e27c83d2c6cfc3410dc0699941d9f79e] In this section “**medical authority**” means any of the universities or other bodies who choose appointed members of the General Medical Council, [^c10221411]...
+(3)[^c-c676a73f823dea45da5612787696b9de][^c-e27c83d2c6cfc3410dc0699941d9f79e] In this section “**medical authority**” means any of the universities or other bodies who choose appointed members of the General Medical Council, [^c10221411]...
 
 (4) References in this Act to a dental authority are references to a medical authority who grant degrees, licences or other diplomas in dentistry.
 
 ## Annotations
 
-[^key-c676a73f823dea45da5612787696b9de]: Modification: S. 3(3) modified (9.7.2008) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/2/a), [5](https://www.legislation.gov.uk/uksi/2008/1774/article/5)
+[^c-c676a73f823dea45da5612787696b9de]: Modification: S. 3(3) modified (9.7.2008) by [The Health Care and Associated Professions (Miscellaneous Amendments) Order 2008 (S.I. 2008/1774)](https://www.legislation.gov.uk/uksi/2008/1774), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2008/1774/article/1/2/a), [5](https://www.legislation.gov.uk/uksi/2008/1774/article/5)
 
-[^key-e27c83d2c6cfc3410dc0699941d9f79e]: Modification: S. 3(3) applied (with modifications) (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a), [7(4)](https://www.legislation.gov.uk/uksi/2009/1182/article/7/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2009/1182/article/9), [10](https://www.legislation.gov.uk/uksi/2009/1182/article/10))
+[^c-e27c83d2c6cfc3410dc0699941d9f79e]: Modification: S. 3(3) applied (with modifications) (14.5.2009) by [The Health Care and Associated Professions (Miscellaneous Amendments and Practitioner Psychologists) Order 2009 (S.I. 2009/1182)](https://www.legislation.gov.uk/uksi/2009/1182), [arts. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a), [7(4)](https://www.legislation.gov.uk/uksi/2009/1182/article/7/4) (with [arts. 9](https://www.legislation.gov.uk/uksi/2009/1182/article/9), [10](https://www.legislation.gov.uk/uksi/2009/1182/article/10))
 
 [^c10221411]: Textual amendment: Words repealed by [S.I. 1987/2047](https://www.legislation.gov.uk/uksi/1987/2047), [art. 2(a)](https://www.legislation.gov.uk/uksi/1987/2047/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1987/2047/schedule)

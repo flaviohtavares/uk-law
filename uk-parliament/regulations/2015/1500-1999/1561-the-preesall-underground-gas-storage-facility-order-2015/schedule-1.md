@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^key-2bb5d82f54266b213640635af1076941]
+## SCHEDULE 1 — AUTHORISED DEVELOPMENT[^c-2bb5d82f54266b213640635af1076941]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Article 3
 
 ### In the Borough of Wyre in the County of Lancashire and in the Irish Sea adjacent to the Borough of Wyre
 
-[^key-2bb5d82f54266b213640635af1076941]
+[^c-2bb5d82f54266b213640635af1076941]
 
 A nationally significant infrastructure project as defined in sections 14 and 17 of the 2008 Act comprising—
 
@@ -97,4 +97,4 @@ associated development within the meaning of section 115(2) of the 2008 Act comp
 
 ## Annotations
 
-[^key-2bb5d82f54266b213640635af1076941]: Commencement: Sch. 1 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-2bb5d82f54266b213640635af1076941]: Commencement: Sch. 1 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

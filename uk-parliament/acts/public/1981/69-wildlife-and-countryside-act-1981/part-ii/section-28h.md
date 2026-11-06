@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28H. Statutory undertakers, etc.: duty in relation to carrying out operations.[^key-2360f5527cc03734c9f43a68faf47c02][^M_C_12ed93de-7bf1-4f5b-e393-36c303ce7fc0][^c4943531]
+## 28H. Statutory undertakers, etc.: duty in relation to carrying out operations.[^c-2360f5527cc03734c9f43a68faf47c02][^M_C_12ed93de-7bf1-4f5b-e393-36c303ce7fc0][^c4943531]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ but if they do not send a notice under paragraph (b) within the period of 28 day
 
 ## Annotations
 
-[^key-2360f5527cc03734c9f43a68faf47c02]: Modification: [S. 28H](https://www.legislation.gov.uk/ukpga/1981/69/section/28H) excluded (28.3.2024) by [The A66 Northern Trans-Pennine Development Consent Order 2024 (S.I. 2024/360)](https://www.legislation.gov.uk/uksi/2024/360), [arts. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2024/360/article/3/1) (with [arts. 18](https://www.legislation.gov.uk/uksi/2024/360/article/18), [35](https://www.legislation.gov.uk/uksi/2024/360/article/35), [Sch. 9](https://www.legislation.gov.uk/uksi/2024/360/schedule/9))
+[^c-2360f5527cc03734c9f43a68faf47c02]: Modification: [S. 28H](https://www.legislation.gov.uk/ukpga/1981/69/section/28H) excluded (28.3.2024) by [The A66 Northern Trans-Pennine Development Consent Order 2024 (S.I. 2024/360)](https://www.legislation.gov.uk/uksi/2024/360), [arts. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2024/360/article/3/1) (with [arts. 18](https://www.legislation.gov.uk/uksi/2024/360/article/18), [35](https://www.legislation.gov.uk/uksi/2024/360/article/35), [Sch. 9](https://www.legislation.gov.uk/uksi/2024/360/schedule/9))
 
 [^M_C_12ed93de-7bf1-4f5b-e393-36c303ce7fc0]: Modification: S. 28H excluded (9.10.2024) by [The M3 Junction 9 Development Consent Order 2024 (S.I. 2024/752)](https://www.legislation.gov.uk/uksi/2024/752), [arts. 1](https://www.legislation.gov.uk/uksi/2024/752/article/1), [3(1)](https://www.legislation.gov.uk/uksi/2024/752/article/3/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2024/752/article/4), [Sch. 10](https://www.legislation.gov.uk/uksi/2024/752/schedule/10)) (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 

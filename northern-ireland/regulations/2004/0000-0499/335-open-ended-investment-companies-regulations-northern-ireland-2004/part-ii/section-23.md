@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Ending of authorisation[^key-ce6edadfa3639f0caced3c674af10400]
+## 23. Ending of authorisation[^c-ce6edadfa3639f0caced3c674af10400]
 
 *Extent: N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce6edadfa3639f0caced3c674af10400]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2004/335/regulation/23) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-ce6edadfa3639f0caced3c674af10400]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2004/335/regulation/23) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

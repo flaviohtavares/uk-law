@@ -80,7 +80,7 @@ on food additives
 
 (Text with EEA relevance)
 
-[^key-c262582890b4c0c457ffbc418559a0ff]
+[^c-c262582890b4c0c457ffbc418559a0ff]
 
 THE EUROPEAN PARLIAMENT AND THE COUNCIL OF THE EUROPEAN UNION,
 
@@ -212,12 +212,12 @@ HAVE ADOPTED THIS REGULATION:
 
 ### Article 1. Subject matter
 
-This Regulation lays down rules on food additives used in foods with a view to ensuring the effective functioning of the [^key-d525ff5b3bb1614997f9893ed2ccc6bd]... market whilst ensuring a high level of protection of human health and a high level of consumer protection, including the protection of consumer interests and fair practices in food trade, taking into account, where appropriate, the protection of the environment.
+This Regulation lays down rules on food additives used in foods with a view to ensuring the effective functioning of the [^c-d525ff5b3bb1614997f9893ed2ccc6bd]... market whilst ensuring a high level of protection of human health and a high level of consumer protection, including the protection of consumer interests and fair practices in food trade, taking into account, where appropriate, the protection of the environment.
 
 For those purposes, this Regulation provides for:
 
-- ((a)) the authorisation of food additives;[^key-138d2f7a8f03ee82b28ec26b564f646b]
-- ((b)) conditions of use of food additives in foods, including in food additives and in food enzymes , food flavourings or nutrients,[^key-28e03a8ccd4b37ff35b5078eec375f7d] as covered by Regulation (EC) No 1332/2008 \[on food enzymes\], and [^key-70d83fae937b462d6c4a40401791e3c3]... Regulation (EC) No 1334/2008 [^key-a83d23c77e532a80ee8d8707f5b88030]... on flavourings and certain food ingredients with flavouring properties for use in and on foods[^f00028];
+- ((a)) the authorisation of food additives;[^c-138d2f7a8f03ee82b28ec26b564f646b]
+- ((b)) conditions of use of food additives in foods, including in food additives and in food enzymes , food flavourings or nutrients,[^c-28e03a8ccd4b37ff35b5078eec375f7d] as covered by Regulation (EC) No 1332/2008 \[on food enzymes\], and [^c-70d83fae937b462d6c4a40401791e3c3]... Regulation (EC) No 1334/2008 [^c-a83d23c77e532a80ee8d8707f5b88030]... on flavourings and certain food ingredients with flavouring properties for use in and on foods[^f00028];
 - ((c)) rules on the labelling of food additives sold as such.
 
 ### Article 2. Scope
@@ -227,14 +227,14 @@ For those purposes, this Regulation provides for:
 2. This Regulation shall not apply to the following substances unless they are used as food additives:
 
 - (a) processing aids;
-- (b) substances used for the protection of plants and plant products in accordance with assimilated[^key-e312664b3a15b417dabf7b8993dd11b5][^key-91b24f58f1df17b9f5bc35856a962629] law relating to plant health;
+- (b) substances used for the protection of plants and plant products in accordance with assimilated[^c-e312664b3a15b417dabf7b8993dd11b5][^c-91b24f58f1df17b9f5bc35856a962629] law relating to plant health;
 - (c) substances added to foods as nutrients;
 - (d) substances used for the treatment of water for human consumption falling within the scope of Council Directive 98/83/EC of 3 November 1998 on the quality of water intended for human consumption[^f00029];
 - (e) flavourings falling within the scope of Regulation (EC) No 1334/2008 \[on flavourings and certain food ingredients with flavouring properties for use in and on foods\].
 
-3. This Regulation shall not apply to food enzymes falling within the scope of Regulation (EC) No 1332/2008 \[on food enzymes\], with effect from the start of the day after the day on which the appropriate authority has determined the authorisations status of all initial authorisation applications on the Register referred to in Article 17(3)[^key-c61d0c3c7f667aef688efbaa919ac122] of that Regulation.
+3. This Regulation shall not apply to food enzymes falling within the scope of Regulation (EC) No 1332/2008 \[on food enzymes\], with effect from the start of the day after the day on which the appropriate authority has determined the authorisations status of all initial authorisation applications on the Register referred to in Article 17(3)[^c-c61d0c3c7f667aef688efbaa919ac122] of that Regulation.
 
-4. This Regulation shall apply without prejudice to any specific assimilated[^key-ef849ed60e8df48af022793058a56b8b][^key-85048060eeab489d137d3d69fdfb8fa7] law concerning the use of food additives:
+4. This Regulation shall apply without prejudice to any specific assimilated[^c-ef849ed60e8df48af022793058a56b8b][^c-85048060eeab489d137d3d69fdfb8fa7] law concerning the use of food additives:
 
 - (a) in specific foods;
 - (b) for purposes other than those covered by this Regulation.
@@ -272,16 +272,16 @@ For those purposes, this Regulation provides for:
 - (f) ‘energy-reduced food’ shall mean a food with an energy value reduced by at least 30 % compared with the original food or a similar product;
 - (g) ‘table-top sweeteners’ shall mean preparations of permitted sweeteners, which may contain other food additives and/or food ingredients and which are intended for sale to the final consumer as a substitute for sugars;
 - (h) ‘quantum satis’ shall mean that no maximum numerical level is specified and substances shall be used in accordance with good manufacturing practice, at a level not higher than is necessary to achieve the intended purpose and provided the consumer is not misled;
-- (i)[^key-72c26826812772ecef224bc6e144ba02] “ **Authority** ” means—
+- (i)[^c-72c26826812772ecef224bc6e144ba02] “ **Authority** ” means—
   - ((i)) as regards England and Wales, the Food Standards Agency;
   - ((ii)) as regards Scotland, Food Standards Scotland;
-- (j)[^key-519d30be5a957672c5a95f91c6b36c62] ‘nutrients’ means vitamins, minerals and other substances added for nutritional purposes, as well as substances added for physiological purposes, in accordance with Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods, the Food Supplements (Scotland) Regulations 2003, the Food Supplements (England) Regulations 2003, the Food Supplements (Wales) Regulations 2003 and [Regulation (EU) No 609/2013](https://www.legislation.gov.uk/european/regulation/2013/0609) of the European Parliament and of the Council on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control, etc., for the purposes of secondary use;
+- (j)[^c-519d30be5a957672c5a95f91c6b36c62] ‘nutrients’ means vitamins, minerals and other substances added for nutritional purposes, as well as substances added for physiological purposes, in accordance with Regulation [(EC) No 1925/2006](https://www.legislation.gov.uk/european/regulation/2006/1925) of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods, the Food Supplements (Scotland) Regulations 2003, the Food Supplements (England) Regulations 2003, the Food Supplements (Wales) Regulations 2003 and [Regulation (EU) No 609/2013](https://www.legislation.gov.uk/european/regulation/2013/0609) of the European Parliament and of the Council on food intended for infants and young children, food for special medical purposes, and total diet replacement for weight control, etc., for the purposes of secondary use;
 - (k) ‘primary use’ means the use of a food additive in food in accordance with the terms of its authorisation under Regulation [(EC) No 1331/2008](https://www.legislation.gov.uk/european/regulation/2008/1331) and this Regulation;
 - (l) ‘secondary use’ means the use of a food additive, including carriers, in food additives, food enzymes, food flavourings or nutrients in accordance with the terms of its authorisation under Regulation [(EC) No 1331/2008](https://www.legislation.gov.uk/european/regulation/2008/1331) and this Regulation.
 
-## CHAPTER II — AUTHORISATION OF FOOD ADDITIVES[^key-199f82a28d152386443b196afc044e1f]
+## CHAPTER II — AUTHORISATION OF FOOD ADDITIVES[^c-199f82a28d152386443b196afc044e1f]
 
-### Article 4. Requirement for authorisation[^key-2d03d29995fbc5a69c6e13c0e9e0bbc9]
+### Article 4. Requirement for authorisation[^c-2d03d29995fbc5a69c6e13c0e9e0bbc9]
 
 1. Only food additives authorised for primary use may be placed on the market as such and used in foods under the conditions of use specified in the authorisation concerned.
 
@@ -297,29 +297,29 @@ For those purposes, this Regulation provides for:
 
 No person shall place on the market a food additive or any food in which such a food additive is present if the use of the food additive does not comply with this Regulation.
 
-### Article 6. General conditions for authorisation of food additives[^key-1f6e6359de760e9ac75f3c7dd20fd8df]
+### Article 6. General conditions for authorisation of food additives[^c-1f6e6359de760e9ac75f3c7dd20fd8df]
 
-1. A food additive may be authorised[^key-bf5cfb54e81292b55ad1faf46d9ada59] only if it meets the following conditions and, where relevant, other legitimate factors, including environmental factors:
+1. A food additive may be authorised[^c-bf5cfb54e81292b55ad1faf46d9ada59] only if it meets the following conditions and, where relevant, other legitimate factors, including environmental factors:
 
 - (a) it does not, on the basis of the scientific evidence available, pose a safety concern to the health of the consumer at the level of use proposed;
 - (b) there is a reasonable technological need that cannot be achieved by other economically and technologically practicable means; and
 - (c) its use does not mislead the consumer.
 
-2. To be authorised[^key-a505c8ed9daf8f87008f06d0161bd395] a food additive must have advantages and benefits for the consumer and therefore serve one or more of the following purposes:
+2. To be authorised[^c-a505c8ed9daf8f87008f06d0161bd395] a food additive must have advantages and benefits for the consumer and therefore serve one or more of the following purposes:
 
 - (a) preserving the nutritional quality of the food;
 - (b) providing necessary ingredients or constituents for foods manufactured for groups of consumers with special dietary needs;
 - (c) enhancing the keeping quality or stability of a food or improving its organoleptic properties, provided that the nature, substance or quality of the food is not changed in such a way as to mislead the consumer;
 - (d) aiding in the manufacture, processing, preparation, treatment, packing, transport or storage of food, including food additives, food enzymes and food flavourings, provided that the food additive is not used to disguise the effects of the use of faulty raw materials or of any undesirable practices or techniques, including unhygienic practices or techniques, during the course of any such activities.
 
-3. By way of derogation from paragraph 2(a), a food additive which reduces the nutritional quality of a food may be authorised for primary use[^key-d62ba0237252f84852bae7ea72159e0d] provided that:
+3. By way of derogation from paragraph 2(a), a food additive which reduces the nutritional quality of a food may be authorised for primary use[^c-d62ba0237252f84852bae7ea72159e0d] provided that:
 
 - (a) the food does not constitute a significant component of a normal diet; or
 - (b) the food additive is necessary for the production of foods for groups of consumers with special dietary needs.
 
 ### Article 7. Specific conditions for sweeteners
 
-A food additive may be authorised for primary use[^key-0cffc1ecb2e1f332e1d81bb431670e1d] for the functional class of sweetener only if, in addition to serving one or more of the purposes set out in Article 6(2), it serves one or more of the following purposes:
+A food additive may be authorised for primary use[^c-0cffc1ecb2e1f332e1d81bb431670e1d] for the functional class of sweetener only if, in addition to serving one or more of the purposes set out in Article 6(2), it serves one or more of the following purposes:
 
 - ((a)) replacing sugars for the production of energy-reduced food, non-cariogenic food or food with no added sugars; or
 - ((b)) replacing sugars where this permits an increase in the shelf-life of the food; or
@@ -327,7 +327,7 @@ A food additive may be authorised for primary use[^key-0cffc1ecb2e1f332e1d81bb43
 
 ### Article 8. Specific conditions for colours
 
-A food additive may be authorised for primary use[^key-d52b5e2a1106a7d81c70b0b1a0e65f54] for the functional class of colour only if, in addition to serving one or more of the purposes set out in Article 6(2), it serves one of the following purposes:
+A food additive may be authorised for primary use[^c-d52b5e2a1106a7d81c70b0b1a0e65f54] for the functional class of colour only if, in addition to serving one or more of the purposes set out in Article 6(2), it serves one of the following purposes:
 
 - ((a)) restoring the original appearance of food of which the colour has been affected by processing, storage, packaging and distribution, whereby visual acceptability may have been impaired;
 - ((b)) making food more visually appealing;
@@ -335,25 +335,25 @@ A food additive may be authorised for primary use[^key-d52b5e2a1106a7d81c70b0b1a
 
 ### Article 9. Functional classes of food additives
 
-1. An authorisation may state that a food additive is assigned[^key-4e51c6bbc9ba8e63c21d758aefd783d2] to one of the functional classes in Annex I on the basis of the principal technological function of the food additive.
+1. An authorisation may state that a food additive is assigned[^c-4e51c6bbc9ba8e63c21d758aefd783d2] to one of the functional classes in Annex I on the basis of the principal technological function of the food additive.
 
 Allocating a food additive to a functional class shall not preclude it from being used for several functions.
 
-2. Where necessary, as a result of scientific progress or technological development, the measures, designed to amend non-essential elements of this Regulation, relating to additional functional classes which may be added to Annex I are to be prescribed by the appropriate authority[^key-11c7b8e65fd6f95c049e1349f44fd48c].
+2. Where necessary, as a result of scientific progress or technological development, the measures, designed to amend non-essential elements of this Regulation, relating to additional functional classes which may be added to Annex I are to be prescribed by the appropriate authority[^c-11c7b8e65fd6f95c049e1349f44fd48c].
 
-### Article 10. The content of an authorisation of food additives[^key-9019db888aebfab0b245f3bba28c4247]
+### Article 10. The content of an authorisation of food additives[^c-9019db888aebfab0b245f3bba28c4247]
 
-1. A food additive which complies with the conditions set out in Articles 6, 7 and 8 may, in accordance with the procedure referred to in Regulation (EC) No 1331/2008 \[establishing a common authorisation procedure for food additives, food enzymes and food flavourings\] be authorised.[^key-4fce32afda0f67a28bf28ad1daa69bc3]
+1. A food additive which complies with the conditions set out in Articles 6, 7 and 8 may, in accordance with the procedure referred to in Regulation (EC) No 1331/2008 \[establishing a common authorisation procedure for food additives, food enzymes and food flavourings\] be authorised.[^c-4fce32afda0f67a28bf28ad1daa69bc3]
 
-2. The authorisation of a food additive[^key-381cbf4f5d45b871226691b369f0d484] shall specify:
+2. The authorisation of a food additive[^c-381cbf4f5d45b871226691b369f0d484] shall specify:
 
 - (a) the name of the food additive and its E number;
-- (b) the foods , food additives, food enzymes, food flavourings or nutrients or categories thereof[^key-d1858cb023045cd2e8c69727ee753e9d] to which the food additive may be added;
+- (b) the foods , food additives, food enzymes, food flavourings or nutrients or categories thereof[^c-d1858cb023045cd2e8c69727ee753e9d] to which the food additive may be added;
 - (c) the conditions under which the food additive may be used;
 - (d) if appropriate, whether there are any restrictions on the sale of the food additive directly to the final consumer;
-- (e)[^key-e377c8a509acb2ab3a87b1c05c5a2cbc] any specifications concerned, in accordance with Article 14.
+- (e)[^c-e377c8a509acb2ab3a87b1c05c5a2cbc] any specifications concerned, in accordance with Article 14.
 
-3.[^key-2c5cb0e67a028a036fe631c065b80c6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-2c5cb0e67a028a036fe631c065b80c6e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 11. Levels of use of food additives
 
@@ -366,29 +366,29 @@ Allocating a food additive to a functional class shall not preclude it from bein
 
 2. Where appropriate, no maximum numerical level shall be fixed for a food additive (quantum satis). In that case, the food additive shall be used in accordance with the principle of quantum satis.
 
-3. The maximum levels of food additives set out in the authorisation for primary use concerned,[^key-a4172a17a32b4cf2930f7ed2099e34e7] shall apply to the food as marketed, unless otherwise stated. By way of derogation from this principle, for dried and/or concentrated foods which need to be reconstituted the maximum levels shall apply to the food as reconstituted according to the instructions on the label taking into account the minimum dilution factor.
+3. The maximum levels of food additives set out in the authorisation for primary use concerned,[^c-a4172a17a32b4cf2930f7ed2099e34e7] shall apply to the food as marketed, unless otherwise stated. By way of derogation from this principle, for dried and/or concentrated foods which need to be reconstituted the maximum levels shall apply to the food as reconstituted according to the instructions on the label taking into account the minimum dilution factor.
 
-4. The maximum levels for colours set out in the authorisation for primary use concerned[^key-6cf0af77eb89ba854fde04e879dfb385] shall apply to the quantities of colouring principle contained in the colouring preparation unless otherwise stated.
+4. The maximum levels for colours set out in the authorisation for primary use concerned[^c-6cf0af77eb89ba854fde04e879dfb385] shall apply to the quantities of colouring principle contained in the colouring preparation unless otherwise stated.
 
-### Article 12. Changes in the production process or starting materials of a food additive already authorised[^key-05ed463942c5b991e6dea65066ed7478]
+### Article 12. Changes in the production process or starting materials of a food additive already authorised[^c-05ed463942c5b991e6dea65066ed7478]
 
-When a food additive is already included in a domestic[^key-007af54311e3d182b3e5ba403b27dfe5] list and there is a significant change in its production methods or in the starting materials used, or there is a change in particle size, for example through nanotechnology, the food additive prepared by those new methods or materials shall be considered as a different additive and a new authorisation or a modification to the existing authorisation[^key-0c7002593df4981ccdb74b27b9aa63ad] shall be required before it can be placed on the market.
+When a food additive is already included in a domestic[^c-007af54311e3d182b3e5ba403b27dfe5] list and there is a significant change in its production methods or in the starting materials used, or there is a change in particle size, for example through nanotechnology, the food additive prepared by those new methods or materials shall be considered as a different additive and a new authorisation or a modification to the existing authorisation[^c-0c7002593df4981ccdb74b27b9aa63ad] shall be required before it can be placed on the market.
 
-### Article 13. Food additives falling within the scope of Regulation (EC) No 1829/2003 or, in relation to England, the Genetic Technology (Precision Breeding) Act 2023[^key-44c8f1437c9b6148558b9e55e2bf3487]
+### Article 13. Food additives falling within the scope of Regulation (EC) No 1829/2003 or, in relation to England, the Genetic Technology (Precision Breeding) Act 2023[^c-44c8f1437c9b6148558b9e55e2bf3487]
 
-1. A food additive falling within the scope of Regulation (EC) No 1829/2003 may be authorised[^key-b08bac32486540ad225a0f2275c598c5] in accordance with this Regulation only when it is covered by an authorisation in accordance with Regulation (EC) No 1829/2003.
+1. A food additive falling within the scope of Regulation (EC) No 1829/2003 may be authorised[^c-b08bac32486540ad225a0f2275c598c5] in accordance with this Regulation only when it is covered by an authorisation in accordance with Regulation (EC) No 1829/2003.
 
-2. When a food additive that is already authorised[^key-f6dadcf1e73df4ffc1d5c04a541b0a3b] is produced from a different source falling within the scope of Regulation (EC) No 1829/2003, it will not require a new authorisation under this Regulation, as long as the new source is covered by an authorisation in accordance with Regulation (EC) No 1829/2003 and the food additive complies with the specifications established under this Regulation.
+2. When a food additive that is already authorised[^c-f6dadcf1e73df4ffc1d5c04a541b0a3b] is produced from a different source falling within the scope of Regulation (EC) No 1829/2003, it will not require a new authorisation under this Regulation, as long as the new source is covered by an authorisation in accordance with Regulation (EC) No 1829/2003 and the food additive complies with the specifications established under this Regulation.
 
-(3.)[^key-e391aa54ef6777c02b86f3040b48da2f] In relation to England, a food additive falling within the scope of the Genetic Technology (Precision Breeding) Act 2023 may be authorised in accordance with this Regulation only when it is covered by a food and feed marketing authorisation under Part 3 of that Act.
+(3.)[^c-e391aa54ef6777c02b86f3040b48da2f] In relation to England, a food additive falling within the scope of the Genetic Technology (Precision Breeding) Act 2023 may be authorised in accordance with this Regulation only when it is covered by a food and feed marketing authorisation under Part 3 of that Act.
 
 4. In relation to England, when a food additive that is already authorised is produced from a different source falling within the scope of the Genetic Technology (Precision Breeding) Act 2023, it will not require a new authorisation under this Regulation, as long as the new source is covered by a food and feed marketing authorisation under Part 3 of that Act and the food additive complies with the specifications established under this Regulation.
 
 ### Article 14. Specifications of food additives
 
-The specifications of food additives relating, in particular, to origin, purity criteria and any other necessary information, shall be set out in the authorisation concerned[^key-5f8203111991fa9dc7410097933e5d90] when the food additive is authorised[^key-8f0c48f2c6151c265d13f755a0228596], in accordance with the procedure referred to in Regulation (EC) No 1331/2008 \[establishing a common authorisation procedure for food additives, food enzymes and food flavourings\].
+The specifications of food additives relating, in particular, to origin, purity criteria and any other necessary information, shall be set out in the authorisation concerned[^c-5f8203111991fa9dc7410097933e5d90] when the food additive is authorised[^c-8f0c48f2c6151c265d13f755a0228596], in accordance with the procedure referred to in Regulation (EC) No 1331/2008 \[establishing a common authorisation procedure for food additives, food enzymes and food flavourings\].
 
-### Article 14A. Ethylene oxide: restrictions[^key-3747d1d9b6ef94d0700dea26f2719367]
+### Article 14A. Ethylene oxide: restrictions[^c-3747d1d9b6ef94d0700dea26f2719367]
 
 (1.) Ethylene oxide may not be used for sterilising purposes in food additives.
 
@@ -402,22 +402,22 @@ The Authority must include the details described in Article 10(2) in the domesti
 
 ### Article 15. Use of food additives in unprocessed foods
 
-Food additives authorised for primary use[^key-81ec5518d11229ab48c420d0307de9ec] shall not be used in unprocessed foods, except where such use is specifically provided for in the authorisations concerned[^key-bae06d18a6d376c41eade888693a329a].
+Food additives authorised for primary use[^c-81ec5518d11229ab48c420d0307de9ec] shall not be used in unprocessed foods, except where such use is specifically provided for in the authorisations concerned[^c-bae06d18a6d376c41eade888693a329a].
 
 ### Article 16. Use of food additives in foods for infants and young children
 
-Food additives authorised for primary use[^key-2c9af1d3ef9ea8dda1f2f255776752c4] shall not be used in foods for infants and young children as referred to in Directive 89/398/EEC, including dietary foods for infants and young children for special medical purposes, except where specifically provided for in the authorisations concerned[^key-3937e20161e99978d109ed87839b1b9d].
+Food additives authorised for primary use[^c-2c9af1d3ef9ea8dda1f2f255776752c4] shall not be used in foods for infants and young children as referred to in Directive 89/398/EEC, including dietary foods for infants and young children for special medical purposes, except where specifically provided for in the authorisations concerned[^c-3937e20161e99978d109ed87839b1b9d].
 
 ### Article 17. Use of colours for markings
 
-Only food colours that are authorised for primary use may be used, as provided for in the authorisations concerned,[^key-d546b34efd7c1c66ce4d454b6d2127ad] for the purpose of health marking as provided for in Council Directive 91/497/EEC of 29 July 1991 amending and consolidating Directive 64/433/EEC on health problems affecting intra-Community trade in fresh meat to extend it to the production and marketing of fresh meat[^f00030] and other markings required on meat products, for the decorative colouring of eggshells and for the stamping of eggshells as provided for in Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin[^f00031].
+Only food colours that are authorised for primary use may be used, as provided for in the authorisations concerned,[^c-d546b34efd7c1c66ce4d454b6d2127ad] for the purpose of health marking as provided for in Council Directive 91/497/EEC of 29 July 1991 amending and consolidating Directive 64/433/EEC on health problems affecting intra-Community trade in fresh meat to extend it to the production and marketing of fresh meat[^f00030] and other markings required on meat products, for the decorative colouring of eggshells and for the stamping of eggshells as provided for in Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin[^f00031].
 
 ### Article 18. Carry-over principle
 
 1. The presence of a food additive shall be permitted:
 
-- (a) in a compound food other than as referred to in an authorisation for primary use for the food additive concerned[^key-c56fe369ac558bae496b442eca09fea9], where the food additive is permitted in one of the ingredients of the compound food;
-- (b) in a food to which a food additive, food enzyme , food flavouring or nutrient[^key-da228b4e819428540d6508c39fbb5175] has been added, where the food additive:
+- (a) in a compound food other than as referred to in an authorisation for primary use for the food additive concerned[^c-c56fe369ac558bae496b442eca09fea9], where the food additive is permitted in one of the ingredients of the compound food;
+- (b) in a food to which a food additive, food enzyme , food flavouring or nutrient[^c-da228b4e819428540d6508c39fbb5175] has been added, where the food additive:
   - ((i)) is permitted in the food additive, food enzyme , food flavouring or nutrient in accordance with this Regulation; and
   - ((ii)) has been carried over to the food via the food additive, food enzyme , food flavouring or nutrient; and
   - ((iii)) has no technological function in the final food;
@@ -425,17 +425,17 @@ Only food colours that are authorised for primary use may be used, as provided f
 
 2. Paragraph 1 shall not apply to infant formulae, follow-on formulae, processed cereal-based foods and baby foods and dietary foods for special medical purposes intended for infants and young children as referred to in Directive 89/398/EEC, except where specifically provided for.
 
-3. Where a food additive in a food flavouring, food additive , food enzyme or nutrient[^key-4b597556f40e4b4643483cec06e8ef57] is added to a food and has a technological function in that food, it shall be considered a food additive of that food and not a food additive of the added flavouring, food additive , food enzyme or nutrient, and must then comply with the conditions of use for that food as provided for.
+3. Where a food additive in a food flavouring, food additive , food enzyme or nutrient[^c-4b597556f40e4b4643483cec06e8ef57] is added to a food and has a technological function in that food, it shall be considered a food additive of that food and not a food additive of the added flavouring, food additive , food enzyme or nutrient, and must then comply with the conditions of use for that food as provided for.
 
 4. Without prejudice to paragraph 1, the presence of a food additive used as a sweetener shall be permitted in a compound food with no added sugars, in an energy-reduced compound food, in compound dietary foods intended for low-calorie diets, in non-cariogenic compound foods, and in a compound food with an increased shelf-life, provided that the sweetener is permitted in one of the ingredients of the compound food.
 
-5.[^key-2cfa013cc6c157988f2eab7e15c2bace] Paragraph 1(a) does not apply to foods listed in Table 1, as regards food additives in general, or in Table 2, as regards food colours, in Annex Ia.
+5.[^c-2cfa013cc6c157988f2eab7e15c2bace] Paragraph 1(a) does not apply to foods listed in Table 1, as regards food additives in general, or in Table 2, as regards food colours, in Annex Ia.
 
-### Article 19. Interpretation decisions[^key-5214b036e7256490f59922135ad6313e]
+### Article 19. Interpretation decisions[^c-5214b036e7256490f59922135ad6313e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 20. Traditional foods[^key-500640d70cdd2d6efd977b70634d5671]
+### Article 20. Traditional foods[^c-500640d70cdd2d6efd977b70634d5671]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -443,21 +443,21 @@ Only food colours that are authorised for primary use may be used, as provided f
 
 ### Article 21. Labelling of food additives not intended for sale to the final consumer
 
-1. Food additives not intended for sale to the final consumer, whether sold singly or mixed with each other and/or with food ingredients, as defined in Article 6(4) of Directive 2000/13/EC, may only be marketed with the labelling provided for in Article 22 of this Regulation, which must be easily visible, clearly legible and indelible. The information shall be in English, or in English and Welsh[^key-0033e489852815e8086b89ddae79f46b].
+1. Food additives not intended for sale to the final consumer, whether sold singly or mixed with each other and/or with food ingredients, as defined in Article 6(4) of Directive 2000/13/EC, may only be marketed with the labelling provided for in Article 22 of this Regulation, which must be easily visible, clearly legible and indelible. The information shall be in English, or in English and Welsh[^c-0033e489852815e8086b89ddae79f46b].
 
-2.[^key-5efdc8d0814e5744e023b41325b19eed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-5efdc8d0814e5744e023b41325b19eed] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Article 22. General labelling requirements for food additives not intended for sale to the final consumer
 
 1. Where food additives not intended for sale to the final consumer are sold singly or mixed with each other and/or other food ingredients and/or with other substances added to them, their packaging or containers shall bear the following information:
 
-- (a) the name and/or E-number laid down under[^key-b02944589dab0fa4d9340a8eead73910] this Regulation in respect of each food additive or a sales description which includes the name and/or E-number of each food additive;
+- (a) the name and/or E-number laid down under[^c-b02944589dab0fa4d9340a8eead73910] this Regulation in respect of each food additive or a sales description which includes the name and/or E-number of each food additive;
 - (b) the statement ‘for food’ or the statement ‘restricted use in food’ or a more specific reference to its intended food use;
 - (c) if necessary, the special conditions of storage and/or use;
 - (d) a mark identifying the batch or lot;
 - (e) instructions for use, if the omission thereof would preclude appropriate use of the food additive;
 - (f) the name or business name and address of the manufacturer, packager or seller;
-- (g) an indication of the maximum quantity of each component or group of components subject to quantitative limitation in food and/or appropriate information in clear and easily understandable terms enabling the purchaser to comply with this Regulation or other relevant assimilated[^key-37e5734c7adf390c51cc8d472baae2bf] law; where the same limit on quantity applies to a group of components used singly or in combination, the combined percentage may be given as a single figure; the limit on quantity shall be expressed either numerically or by the quantum satis principle;
+- (g) an indication of the maximum quantity of each component or group of components subject to quantitative limitation in food and/or appropriate information in clear and easily understandable terms enabling the purchaser to comply with this Regulation or other relevant assimilated[^c-37e5734c7adf390c51cc8d472baae2bf] law; where the same limit on quantity applies to a group of components used singly or in combination, the combined percentage may be given as a single figure; the limit on quantity shall be expressed either numerically or by the quantum satis principle;
 - (h) the net quantity;
 - (i) the date of minimum durability or use-by-date;
 - (j) where relevant, information on a food additive or other substances referred to in this Article and listed in Annex IIIa to Directive 2000/13/EC as regards the indication of the ingredients present in foodstuffs.
@@ -474,7 +474,7 @@ Only food colours that are authorised for primary use may be used, as provided f
 
 1. Without prejudice to Directive 2000/13/EC, Council Directive 89/396/EEC of 14 June 1989 on indications or marks identifying the lot to which a foodstuff belongs[^f00032] and Regulation (EC) No 1829/2003, food additives sold singly or mixed with each other and/or other food ingredients intended for sale to the final consumer may be marketed only if their packaging contains the following information:
 
-- (a) the name and E-number laid down under[^key-3da636f7967831d51a1667113b8005dc] this Regulation in respect of each food additive or a sales description which includes the name and E-number of each food additive;
+- (a) the name and E-number laid down under[^c-3da636f7967831d51a1667113b8005dc] this Regulation in respect of each food additive or a sales description which includes the name and E-number of each food additive;
 - (b) the statement ‘for food’ or the statement ‘restricted use in food’ or a more specific reference to its intended food use.
 
 2. By way of derogation from paragraph 1(a), the sales description of a table-top sweetener shall include the term ‘… -based table-top sweetener’, using the name(s) of the sweetener(s) used in its composition.
@@ -484,7 +484,7 @@ Only food colours that are authorised for primary use may be used, as provided f
 - (a) polyols: ‘excessive consumption may induce laxative effects’;
 - (b) aspartame/aspartame-acesulfame salt: ‘contains a source of phenylalanine’.
 
-4. Manufacturers of table-top sweeteners shall make available by appropriate means the necessary information to allow their safe use by consumers. [^key-dc065d9bcbcc6c387f15a56b30ddfb6b]...
+4. Manufacturers of table-top sweeteners shall make available by appropriate means the necessary information to allow their safe use by consumers. [^c-dc065d9bcbcc6c387f15a56b30ddfb6b]...
 
 5. For the information provided for in paragraphs 1 to 3 of this Article, Article 13(2) of Directive 2000/13/EC shall apply accordingly.
 
@@ -494,7 +494,7 @@ Only food colours that are authorised for primary use may be used, as provided f
 
 2. In relation to the information provided in paragraph 1 of this Article, Article 13(2) of Directive 2000/13/EC shall apply accordingly.
 
-3. Where necessary as a result of scientific progress or technical development, Annex V shall be amended by measures prescribed by the appropriate authority[^key-71ff5a823544d5b057af8a5650a706d5], designed to amend non-essential elements of this Regulation, [^key-59af367fa0e3df18175c988c169e37e3]....
+3. Where necessary as a result of scientific progress or technical development, Annex V shall be amended by measures prescribed by the appropriate authority[^c-71ff5a823544d5b057af8a5650a706d5], designed to amend non-essential elements of this Regulation, [^c-59af367fa0e3df18175c988c169e37e3]....
 
 ### Article 25. Other labelling requirements
 
@@ -504,19 +504,19 @@ Articles 21, 22, 23 and 24 shall be without prejudice to more detailed or more e
 
 ### Article 26. Information obligation
 
-1. A producer or user of a food additive shall inform the Authority[^key-f7f7687270f513b9b935231f3d86ec16] immediately of any new scientific or technical information which might affect the assessment of the safety of the food additive.
+1. A producer or user of a food additive shall inform the Authority[^c-f7f7687270f513b9b935231f3d86ec16] immediately of any new scientific or technical information which might affect the assessment of the safety of the food additive.
 
-2. A producer or user of a food additive shall, at the request of the Authority[^key-4a0a05014b6305e5a4610ceefd6fcb11], inform it of the actual use of the food additive. [^key-9d957720fc7cbd8635ef8d77ad1febbb]...
+2. A producer or user of a food additive shall, at the request of the Authority[^c-4a0a05014b6305e5a4610ceefd6fcb11], inform it of the actual use of the food additive. [^c-9d957720fc7cbd8635ef8d77ad1febbb]...
 
-### Article 27. Monitoring of food additive intake[^key-700bad45747165947a6fa93001a2a0c3]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 28. Committee[^key-e04bd07b4499163e7e5c0f28ce690f23]
+### Article 27. Monitoring of food additive intake[^c-700bad45747165947a6fa93001a2a0c3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 28A. Regulations and devolved powers[^key-866355cea635b3c8f6ed415c96c57622]
+### Article 28. Committee[^c-e04bd07b4499163e7e5c0f28ce690f23]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Article 28A. Regulations and devolved powers[^c-866355cea635b3c8f6ed415c96c57622]
 
 (1.) Any power to make regulations under this Regulation—
 
@@ -540,21 +540,21 @@ Articles 21, 22, 23 and 24 shall be without prejudice to more detailed or more e
 - (b)) of the Welsh Ministers to make regulations is limited to regulations which apply in relation to Wales only;
 - (c)) of the Scottish Ministers to make regulations is limited to regulations which apply in relation to Scotland only;
 
-### Article 29. Community financing of harmonised policies[^key-af40345dbb1097df9a82a2bc60b45e62]
+### Article 29. Community financing of harmonised policies[^c-af40345dbb1097df9a82a2bc60b45e62]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## CHAPTER VI — TRANSITIONAL AND FINAL PROVISIONS
 
-### Article 30. Establishment of Community lists of food additives[^key-a5c10f25004ccd9d07bd7ad0b2551446]
+### Article 30. Establishment of Community lists of food additives[^c-a5c10f25004ccd9d07bd7ad0b2551446]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 31. Transitional measures[^key-593b3467afcc1dd4f631da9bd4afea69]
+### Article 31. Transitional measures[^c-593b3467afcc1dd4f631da9bd4afea69]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 32. Re-evaluation of approved food additives[^key-f9654a335131749d7b89ce296f6e6932]
+### Article 32. Re-evaluation of approved food additives[^c-f9654a335131749d7b89ce296f6e6932]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -576,7 +576,7 @@ Articles 21, 22, 23 and 24 shall be without prejudice to more detailed or more e
 
 2. References to the repealed acts shall be construed as references to this Regulation.
 
-### Article 34. Transitional provisions[^key-5d423aab5e30eec754373cbccccfd4bb]
+### Article 34. Transitional provisions[^c-5d423aab5e30eec754373cbccccfd4bb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -588,7 +588,7 @@ It shall apply from 20 January 2010.
 
 However, Article 4(2) shall apply to Parts 2, 3 and 5 of Annex III from 1 January 2011 and Article 23(4) shall apply from 20 January 2011. Article 24 shall apply from 20 July 2010. Article 31 shall apply from 20 January 2009.
 
-[^key-a2e17ac69a7d884463565a4782f314d0] ...
+[^c-a2e17ac69a7d884463565a4782f314d0] ...
 
 ## ANNEX I
 
@@ -622,9 +622,9 @@ Functional classes of food additives in foods and of food additives in food addi
 - 26.. ‘flour treatment agents’ are substances, other than emulsifiers, which are added to flour or dough to improve its baking quality;[^c000002]
 - 27.. ‘[^c000003] contrast enhancers ’ are substances which, when applied to the external surface of fruit or vegetables following depigmentation of predefined parts (e.g. by laser treatment), help to distinguish these parts from the remaining surface by imparting colour following interaction with certain components of the epidermis.
 
-## ANNEX Ia — Carry-over principle: Article 18(1)(a) – exceptions[^key-54405b19696c63bc8c4e245df067e6ec]
+## ANNEX Ia — Carry-over principle: Article 18(1)(a) – exceptions[^c-54405b19696c63bc8c4e245df067e6ec]
 
-*Table 1[^key-8d2b5275cc04b0c96679196de35e06b7]*
+*Table 1[^c-8d2b5275cc04b0c96679196de35e06b7]*
 
 **Foods in which the presence of an additive may not be permitted by virtue of the carry over principle set out in Article 18(1)(a) of Regulation (EC) No 1333/2008**
 
@@ -707,120 +707,120 @@ Functional classes of food additives in foods and of food additives in food addi
 
 [^f00039][^f00040][^f00041][^f00042][^f00043][^f00044][^f00045]
 
-## ANNEX II — Domestic list of food additives approved for use in foods and conditions of use[^key-4d4a0d01ca6e98d077353273c8897db0]
+## ANNEX II — Domestic list of food additives approved for use in foods and conditions of use[^c-4d4a0d01ca6e98d077353273c8897db0]
 
 **No longer in force.**
 
-[^key-4d4a0d01ca6e98d077353273c8897db0] PART A
+[^c-4d4a0d01ca6e98d077353273c8897db0] PART A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d4a0d01ca6e98d077353273c8897db0] PART B
+[^c-4d4a0d01ca6e98d077353273c8897db0] PART B
 
 **LIST OF ALL ADDITIVES**
 
-[^key-4d4a0d01ca6e98d077353273c8897db0] 1.
+[^c-4d4a0d01ca6e98d077353273c8897db0] 1.
 
 **Colours**
 
-[^key-4d4a0d01ca6e98d077353273c8897db0]2.
+[^c-4d4a0d01ca6e98d077353273c8897db0]2.
 
 **Sweeteners**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d4a0d01ca6e98d077353273c8897db0] 3.
+[^c-4d4a0d01ca6e98d077353273c8897db0] 3.
 
 **Additives other than colours and sweeteners**
 
-[^key-4d4a0d01ca6e98d077353273c8897db0] PART C
+[^c-4d4a0d01ca6e98d077353273c8897db0] PART C
 
 **DEFINITIONS OF GROUPS OF ADDITIVES**
 
-[^key-4d4a0d01ca6e98d077353273c8897db0] (1)
+[^c-4d4a0d01ca6e98d077353273c8897db0] (1)
 
 **Group I**
 
-[^key-4d4a0d01ca6e98d077353273c8897db0] (2)
+[^c-4d4a0d01ca6e98d077353273c8897db0] (2)
 
 **Group II: Food colours authorised at *quantum satis***
 
-[^key-4d4a0d01ca6e98d077353273c8897db0] (3)
+[^c-4d4a0d01ca6e98d077353273c8897db0] (3)
 
 **Group III: Food colours with combined maximum limit**
 
-[^key-4d4a0d01ca6e98d077353273c8897db0] (4)
+[^c-4d4a0d01ca6e98d077353273c8897db0] (4)
 
 **Group IV: Polyols**
 
-[^key-4d4a0d01ca6e98d077353273c8897db0] (5)
+[^c-4d4a0d01ca6e98d077353273c8897db0] (5)
 
 **Other additives that may be regulated combined**
 
 - E 551 – 559: Silicon dioxide – silicates
 - E 551 – 553: Silicon dioxide – silicates
 
-[^key-4d4a0d01ca6e98d077353273c8897db0] PART D
+[^c-4d4a0d01ca6e98d077353273c8897db0] PART D
 
 **FOOD CATEGORIES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4d4a0d01ca6e98d077353273c8897db0] PART E
+[^c-4d4a0d01ca6e98d077353273c8897db0] PART E
 
 **AUTHORISED FOOD ADDITIVES AND CONDITIONS OF USE IN FOOD CATEGORIES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III — Domestic list of food additives including carriers approved for use in food additives, food enzymes, food flavourings, nutrients and their conditions of use[^key-245bf6d1e5d431cbd13beeb72ec541d3]
+## ANNEX III — Domestic list of food additives including carriers approved for use in food additives, food enzymes, food flavourings, nutrients and their conditions of use[^c-245bf6d1e5d431cbd13beeb72ec541d3]
 
 **No longer in force.**
 
-[^key-245bf6d1e5d431cbd13beeb72ec541d3] *Definitions*
+[^c-245bf6d1e5d431cbd13beeb72ec541d3] *Definitions*
 
-[^key-245bf6d1e5d431cbd13beeb72ec541d3]1.
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-245bf6d1e5d431cbd13beeb72ec541d3]2.
+[^c-245bf6d1e5d431cbd13beeb72ec541d3]1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-245bf6d1e5d431cbd13beeb72ec541d3]PART 1
+[^c-245bf6d1e5d431cbd13beeb72ec541d3]2.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-245bf6d1e5d431cbd13beeb72ec541d3]PART 2
+[^c-245bf6d1e5d431cbd13beeb72ec541d3]PART 1
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-245bf6d1e5d431cbd13beeb72ec541d3]PART 3
+[^c-245bf6d1e5d431cbd13beeb72ec541d3]PART 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-245bf6d1e5d431cbd13beeb72ec541d3]PART 4
+[^c-245bf6d1e5d431cbd13beeb72ec541d3]PART 3
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-245bf6d1e5d431cbd13beeb72ec541d3]PART 5
+[^c-245bf6d1e5d431cbd13beeb72ec541d3]PART 4
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-245bf6d1e5d431cbd13beeb72ec541d3]PART 5
 
 **Food additives in nutrients**
 
-[^key-245bf6d1e5d431cbd13beeb72ec541d3] *Section A*
+[^c-245bf6d1e5d431cbd13beeb72ec541d3] *Section A*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-245bf6d1e5d431cbd13beeb72ec541d3] *Section B*
+[^c-245bf6d1e5d431cbd13beeb72ec541d3] *Section B*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-245bf6d1e5d431cbd13beeb72ec541d3]PART 6
+[^c-245bf6d1e5d431cbd13beeb72ec541d3]PART 6
 
 **Definitions of groups of food additives for the purposes of Parts 1 to 5**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV — Traditional foods for which certain Member States may continue to prohibit the use of certain categories of food additives[^key-78e10a857655d5675275969b6a14c8bc]
+## ANNEX IV — Traditional foods for which certain Member States may continue to prohibit the use of certain categories of food additives[^c-78e10a857655d5675275969b6a14c8bc]
 
 **No longer in force.**
 
@@ -847,7 +847,7 @@ Functional classes of food additives in foods and of food additives in food addi
 
 ## Annotations
 
-[^key-c262582890b4c0c457ffbc418559a0ff]: Modification: Regulation applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
+[^c-c262582890b4c0c457ffbc418559a0ff]: Modification: Regulation applied (with modifications) (N.I.) (1.10.2023) by [The Windsor Framework (Retail Movement Scheme: Public Health, Marketing and Organic Product Standards and Miscellaneous Provisions) Regulations 2023 (S.I. 2023/959)](https://www.legislation.gov.uk/uksi/2023/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/959/regulation/1/2), [4(a)](https://www.legislation.gov.uk/uksi/2023/959/regulation/4/a), [Sch. 1](https://www.legislation.gov.uk/uksi/2023/959/schedule/1) (with [regs. 7](https://www.legislation.gov.uk/uksi/2023/959/regulation/7), [8](https://www.legislation.gov.uk/uksi/2023/959/regulation/8))
 
 [^f00001]: Footnote: [OJ C 168, 20.7.2007, p. 34](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.C_.2007.168.01.0034.01.ENG).
 
@@ -903,157 +903,157 @@ Functional classes of food additives in foods and of food additives in food addi
 
 [^f00027]: Footnote: [OJ L 84, 28.3.2002, p. 69](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.084.01.0069.01.ENG).
 
-[^key-d525ff5b3bb1614997f9893ed2ccc6bd]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2008/1333/article/1) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [80(a)](https://www.legislation.gov.uk/uksi/2019/860/regulation/80/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d525ff5b3bb1614997f9893ed2ccc6bd]: Textual amendment: Word in [Art. 1](https://www.legislation.gov.uk/eur/2008/1333/article/1) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [80(a)](https://www.legislation.gov.uk/uksi/2019/860/regulation/80/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-138d2f7a8f03ee82b28ec26b564f646b]: Textual amendment: [Art. 1(a)](https://www.legislation.gov.uk/eur/2008/1333/article/1/a) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/2/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-138d2f7a8f03ee82b28ec26b564f646b]: Textual amendment: [Art. 1(a)](https://www.legislation.gov.uk/eur/2008/1333/article/1/a) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/2/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-28e03a8ccd4b37ff35b5078eec375f7d]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2008/1333/article/1/b) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/2/b/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-28e03a8ccd4b37ff35b5078eec375f7d]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2008/1333/article/1/b) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(2)(b)(i)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/2/b/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-70d83fae937b462d6c4a40401791e3c3]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2008/1333/article/1/b) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/2/b/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-70d83fae937b462d6c4a40401791e3c3]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2008/1333/article/1/b) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/2/b/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-a83d23c77e532a80ee8d8707f5b88030]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2008/1333/article/1/b) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/2/b/iii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a83d23c77e532a80ee8d8707f5b88030]: Textual amendment: Words in [Art. 1(b)](https://www.legislation.gov.uk/eur/2008/1333/article/1/b) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/2/b/iii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
 [^f00028]: Footnote: See page 34 of this Official Journal.
 
-[^key-e312664b3a15b417dabf7b8993dd11b5]: Textual amendment: Word in [Art. 2(2)(b)](https://www.legislation.gov.uk/eur/2008/1333/article/2/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 14(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/14/a)
+[^c-e312664b3a15b417dabf7b8993dd11b5]: Textual amendment: Word in [Art. 2(2)(b)](https://www.legislation.gov.uk/eur/2008/1333/article/2/2/b) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 14(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/14/a)
 
-[^key-91b24f58f1df17b9f5bc35856a962629]: Textual amendment: Words in [Art. 2(2)(b)](https://www.legislation.gov.uk/eur/2008/1333/article/2/2/b) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [81(a)](https://www.legislation.gov.uk/uksi/2019/860/regulation/81/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-91b24f58f1df17b9f5bc35856a962629]: Textual amendment: Words in [Art. 2(2)(b)](https://www.legislation.gov.uk/eur/2008/1333/article/2/2/b) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [81(a)](https://www.legislation.gov.uk/uksi/2019/860/regulation/81/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00029]: Footnote: [OJ L 330, 5.12.1998, p. 32](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1998.330.01.0032.01.ENG).
 
-[^key-c61d0c3c7f667aef688efbaa919ac122]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eur/2008/1333/article/2/3) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-c61d0c3c7f667aef688efbaa919ac122]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eur/2008/1333/article/2/3) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-ef849ed60e8df48af022793058a56b8b]: Textual amendment: Word in [Art. 2(4)](https://www.legislation.gov.uk/eur/2008/1333/article/2/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 14(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/14/a)
+[^c-ef849ed60e8df48af022793058a56b8b]: Textual amendment: Word in [Art. 2(4)](https://www.legislation.gov.uk/eur/2008/1333/article/2/4) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 14(a)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/14/a)
 
-[^key-85048060eeab489d137d3d69fdfb8fa7]: Textual amendment: Words in [Art. 2(4)](https://www.legislation.gov.uk/eur/2008/1333/article/2/4) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [81(c)](https://www.legislation.gov.uk/uksi/2019/860/regulation/81/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-85048060eeab489d137d3d69fdfb8fa7]: Textual amendment: Words in [Art. 2(4)](https://www.legislation.gov.uk/eur/2008/1333/article/2/4) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [81(c)](https://www.legislation.gov.uk/uksi/2019/860/regulation/81/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-72c26826812772ecef224bc6e144ba02]: Textual amendment: Art. 3(i) inserted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [82](https://www.legislation.gov.uk/uksi/2019/860/regulation/82); (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-72c26826812772ecef224bc6e144ba02]: Textual amendment: Art. 3(i) inserted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [82](https://www.legislation.gov.uk/uksi/2019/860/regulation/82); (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(14)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/14)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-519d30be5a957672c5a95f91c6b36c62]: Textual amendment: [Art. 3(2)(j)-(l)](https://www.legislation.gov.uk/eur/2008/1333/article/3/2/j) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-519d30be5a957672c5a95f91c6b36c62]: Textual amendment: [Art. 3(2)(j)-(l)](https://www.legislation.gov.uk/eur/2008/1333/article/3/2/j) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(4)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/4) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-199f82a28d152386443b196afc044e1f]: Textual amendment: Words in [Ch. 2](https://www.legislation.gov.uk/eur/2008/1333/chapter/II) heading substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/5) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-199f82a28d152386443b196afc044e1f]: Textual amendment: Words in [Ch. 2](https://www.legislation.gov.uk/eur/2008/1333/chapter/II) heading substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(5)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/5) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-2d03d29995fbc5a69c6e13c0e9e0bbc9]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2008/1333/article/4) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/6) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-2d03d29995fbc5a69c6e13c0e9e0bbc9]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/eur/2008/1333/article/4) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(6)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/6) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-1f6e6359de760e9ac75f3c7dd20fd8df]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2008/1333/article/6) heading substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(7)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/7/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-1f6e6359de760e9ac75f3c7dd20fd8df]: Textual amendment: [Art. 6](https://www.legislation.gov.uk/eur/2008/1333/article/6) heading substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(7)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/7/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-bf5cfb54e81292b55ad1faf46d9ada59]: Textual amendment: Word in [Art. 6(1)](https://www.legislation.gov.uk/eur/2008/1333/article/6/1) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(7)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/7/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-bf5cfb54e81292b55ad1faf46d9ada59]: Textual amendment: Word in [Art. 6(1)](https://www.legislation.gov.uk/eur/2008/1333/article/6/1) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(7)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/7/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-a505c8ed9daf8f87008f06d0161bd395]: Textual amendment: Word in [Art. 6(2)](https://www.legislation.gov.uk/eur/2008/1333/article/6/2) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(7)(c)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/7/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a505c8ed9daf8f87008f06d0161bd395]: Textual amendment: Word in [Art. 6(2)](https://www.legislation.gov.uk/eur/2008/1333/article/6/2) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(7)(c)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/7/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-d62ba0237252f84852bae7ea72159e0d]: Textual amendment: Words in [Art. 6(3)](https://www.legislation.gov.uk/eur/2008/1333/article/6/3) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(7)(d)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/7/d) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d62ba0237252f84852bae7ea72159e0d]: Textual amendment: Words in [Art. 6(3)](https://www.legislation.gov.uk/eur/2008/1333/article/6/3) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(7)(d)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/7/d) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-0cffc1ecb2e1f332e1d81bb431670e1d]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2008/1333/article/7) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/8) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-0cffc1ecb2e1f332e1d81bb431670e1d]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2008/1333/article/7) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(8)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/8) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-d52b5e2a1106a7d81c70b0b1a0e65f54]: Textual amendment: Words in [Art. 8](https://www.legislation.gov.uk/eur/2008/1333/article/8) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/9) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d52b5e2a1106a7d81c70b0b1a0e65f54]: Textual amendment: Words in [Art. 8](https://www.legislation.gov.uk/eur/2008/1333/article/8) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(9)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/9) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-4e51c6bbc9ba8e63c21d758aefd783d2]: Textual amendment: Words in [Art. 9(1)](https://www.legislation.gov.uk/eur/2008/1333/article/9/1) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/10) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-4e51c6bbc9ba8e63c21d758aefd783d2]: Textual amendment: Words in [Art. 9(1)](https://www.legislation.gov.uk/eur/2008/1333/article/9/1) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(10)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/10) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-11c7b8e65fd6f95c049e1349f44fd48c]: Textual amendment: Words in [Art. 9(2)](https://www.legislation.gov.uk/eur/2008/1333/article/9/2) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [90](https://www.legislation.gov.uk/uksi/2019/860/regulation/90); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11c7b8e65fd6f95c049e1349f44fd48c]: Textual amendment: Words in [Art. 9(2)](https://www.legislation.gov.uk/eur/2008/1333/article/9/2) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [90](https://www.legislation.gov.uk/uksi/2019/860/regulation/90); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9019db888aebfab0b245f3bba28c4247]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2008/1333/article/10) heading substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(11)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/11/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-9019db888aebfab0b245f3bba28c4247]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2008/1333/article/10) heading substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(11)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/11/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-4fce32afda0f67a28bf28ad1daa69bc3]: Textual amendment: Word in [Art. 10(1)](https://www.legislation.gov.uk/eur/2008/1333/article/10/1) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(11)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/11/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-4fce32afda0f67a28bf28ad1daa69bc3]: Textual amendment: Word in [Art. 10(1)](https://www.legislation.gov.uk/eur/2008/1333/article/10/1) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(11)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/11/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-381cbf4f5d45b871226691b369f0d484]: Textual amendment: Words in [Art. 10(2)](https://www.legislation.gov.uk/eur/2008/1333/article/10/2) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(11)(c)(i)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/11/c/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-381cbf4f5d45b871226691b369f0d484]: Textual amendment: Words in [Art. 10(2)](https://www.legislation.gov.uk/eur/2008/1333/article/10/2) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(11)(c)(i)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/11/c/i) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-d1858cb023045cd2e8c69727ee753e9d]: Textual amendment: Words in [Art. 10(2)(b)](https://www.legislation.gov.uk/eur/2008/1333/article/10/2/b) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(11)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/11/c/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d1858cb023045cd2e8c69727ee753e9d]: Textual amendment: Words in [Art. 10(2)(b)](https://www.legislation.gov.uk/eur/2008/1333/article/10/2/b) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(11)(c)(ii)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/11/c/ii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-e377c8a509acb2ab3a87b1c05c5a2cbc]: Textual amendment: [Art. 10(2)(e)](https://www.legislation.gov.uk/eur/2008/1333/article/10/2/e) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(11)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/11/c/iii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-e377c8a509acb2ab3a87b1c05c5a2cbc]: Textual amendment: [Art. 10(2)(e)](https://www.legislation.gov.uk/eur/2008/1333/article/10/2/e) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(11)(c)(iii)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/11/c/iii) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-2c5cb0e67a028a036fe631c065b80c6e]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/eur/2008/1333/article/10/3) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(11)(d)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/11/d) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-2c5cb0e67a028a036fe631c065b80c6e]: Textual amendment: [Art. 10(3)](https://www.legislation.gov.uk/eur/2008/1333/article/10/3) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(11)(d)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/11/d) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-a4172a17a32b4cf2930f7ed2099e34e7]: Textual amendment: Words in [Art. 11(3)](https://www.legislation.gov.uk/eur/2008/1333/article/11/3) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(12)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/12/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a4172a17a32b4cf2930f7ed2099e34e7]: Textual amendment: Words in [Art. 11(3)](https://www.legislation.gov.uk/eur/2008/1333/article/11/3) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(12)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/12/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-6cf0af77eb89ba854fde04e879dfb385]: Textual amendment: Words in [Art. 11(4)](https://www.legislation.gov.uk/eur/2008/1333/article/11/4) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(12)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/12/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-6cf0af77eb89ba854fde04e879dfb385]: Textual amendment: Words in [Art. 11(4)](https://www.legislation.gov.uk/eur/2008/1333/article/11/4) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(12)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/12/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-05ed463942c5b991e6dea65066ed7478]: Textual amendment: Word in [Art. 12](https://www.legislation.gov.uk/eur/2008/1333/article/12) heading substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(13)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/13/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-05ed463942c5b991e6dea65066ed7478]: Textual amendment: Word in [Art. 12](https://www.legislation.gov.uk/eur/2008/1333/article/12) heading substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(13)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/13/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-007af54311e3d182b3e5ba403b27dfe5]: Textual amendment: Word in [Art. 12](https://www.legislation.gov.uk/eur/2008/1333/article/12) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [94](https://www.legislation.gov.uk/uksi/2019/860/regulation/94); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-007af54311e3d182b3e5ba403b27dfe5]: Textual amendment: Word in [Art. 12](https://www.legislation.gov.uk/eur/2008/1333/article/12) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [94](https://www.legislation.gov.uk/uksi/2019/860/regulation/94); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0c7002593df4981ccdb74b27b9aa63ad]: Textual amendment: Words in [Art. 12](https://www.legislation.gov.uk/eur/2008/1333/article/12) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(13)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/13/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-0c7002593df4981ccdb74b27b9aa63ad]: Textual amendment: Words in [Art. 12](https://www.legislation.gov.uk/eur/2008/1333/article/12) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(13)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/13/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-44c8f1437c9b6148558b9e55e2bf3487]: Textual amendment: Words in [Art. 13](https://www.legislation.gov.uk/eur/2008/1333/article/13) heading inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/5/2)
+[^c-44c8f1437c9b6148558b9e55e2bf3487]: Textual amendment: Words in [Art. 13](https://www.legislation.gov.uk/eur/2008/1333/article/13) heading inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 5(2)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/5/2)
 
-[^key-b08bac32486540ad225a0f2275c598c5]: Textual amendment: Word in [Art. 13(1)](https://www.legislation.gov.uk/eur/2008/1333/article/13/1) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(14)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/14/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-b08bac32486540ad225a0f2275c598c5]: Textual amendment: Word in [Art. 13(1)](https://www.legislation.gov.uk/eur/2008/1333/article/13/1) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(14)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/14/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-f6dadcf1e73df4ffc1d5c04a541b0a3b]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2008/1333/article/13/2) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(14)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/14/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-f6dadcf1e73df4ffc1d5c04a541b0a3b]: Textual amendment: Words in [Art. 13(2)](https://www.legislation.gov.uk/eur/2008/1333/article/13/2) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(14)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/14/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-e391aa54ef6777c02b86f3040b48da2f]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/eur/2008/1333/article/13/3)[(4)](https://www.legislation.gov.uk/eur/2008/1333/article/13/4) inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/5/3)
+[^c-e391aa54ef6777c02b86f3040b48da2f]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/eur/2008/1333/article/13/3)[(4)](https://www.legislation.gov.uk/eur/2008/1333/article/13/4) inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 5(3)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/5/3)
 
-[^key-5f8203111991fa9dc7410097933e5d90]: Textual amendment: Words in [Art. 14](https://www.legislation.gov.uk/eur/2008/1333/article/14) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(15)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/15/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-5f8203111991fa9dc7410097933e5d90]: Textual amendment: Words in [Art. 14](https://www.legislation.gov.uk/eur/2008/1333/article/14) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(15)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/15/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-8f0c48f2c6151c265d13f755a0228596]: Textual amendment: Word in [Art. 14](https://www.legislation.gov.uk/eur/2008/1333/article/14) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(15)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/15/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-8f0c48f2c6151c265d13f755a0228596]: Textual amendment: Word in [Art. 14](https://www.legislation.gov.uk/eur/2008/1333/article/14) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(15)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/15/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-3747d1d9b6ef94d0700dea26f2719367]: Textual amendment: [Arts. 14A](https://www.legislation.gov.uk/eur/2008/1333/article/14A), [14B](https://www.legislation.gov.uk/eur/2008/1333/article/14B) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(16)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/16) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-3747d1d9b6ef94d0700dea26f2719367]: Textual amendment: [Arts. 14A](https://www.legislation.gov.uk/eur/2008/1333/article/14A), [14B](https://www.legislation.gov.uk/eur/2008/1333/article/14B) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(16)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/16) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-81ec5518d11229ab48c420d0307de9ec]: Textual amendment: Words in [Art. 15](https://www.legislation.gov.uk/eur/2008/1333/article/15) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(17)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/17/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-81ec5518d11229ab48c420d0307de9ec]: Textual amendment: Words in [Art. 15](https://www.legislation.gov.uk/eur/2008/1333/article/15) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(17)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/17/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-bae06d18a6d376c41eade888693a329a]: Textual amendment: Words in [Art. 15](https://www.legislation.gov.uk/eur/2008/1333/article/15) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(17)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/17/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-bae06d18a6d376c41eade888693a329a]: Textual amendment: Words in [Art. 15](https://www.legislation.gov.uk/eur/2008/1333/article/15) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(17)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/17/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-2c9af1d3ef9ea8dda1f2f255776752c4]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2008/1333/article/16) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(18)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/18/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-2c9af1d3ef9ea8dda1f2f255776752c4]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2008/1333/article/16) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(18)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/18/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-3937e20161e99978d109ed87839b1b9d]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2008/1333/article/16) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(18)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/18/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-3937e20161e99978d109ed87839b1b9d]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2008/1333/article/16) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(18)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/18/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-d546b34efd7c1c66ce4d454b6d2127ad]: Textual amendment: Words in [Art. 17](https://www.legislation.gov.uk/eur/2008/1333/article/17) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(19)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/19) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d546b34efd7c1c66ce4d454b6d2127ad]: Textual amendment: Words in [Art. 17](https://www.legislation.gov.uk/eur/2008/1333/article/17) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(19)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/19) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
 [^f00030]: Footnote: [OJ L 268, 24.9.1991, p. 69](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.268.01.0069.01.ENG).
 
 [^f00031]: Footnote: [OJ L 139, 30.4.2004, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0055.01.ENG). Corrected by [OJ L 226, 25.6.2004, p. 22](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.226.01.0022.01.ENG).
 
-[^key-c56fe369ac558bae496b442eca09fea9]: Textual amendment: Words in [Art. 18(1)(a)](https://www.legislation.gov.uk/eur/2008/1333/article/18/1/a) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(20)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/20/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-c56fe369ac558bae496b442eca09fea9]: Textual amendment: Words in [Art. 18(1)(a)](https://www.legislation.gov.uk/eur/2008/1333/article/18/1/a) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(20)(a)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/20/a) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-da228b4e819428540d6508c39fbb5175]: Textual amendment: Words in [Art. 18(1)(b)](https://www.legislation.gov.uk/eur/2008/1333/article/18/1/b) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(20)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/20/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-da228b4e819428540d6508c39fbb5175]: Textual amendment: Words in [Art. 18(1)(b)](https://www.legislation.gov.uk/eur/2008/1333/article/18/1/b) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(20)(b)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/20/b) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-4b597556f40e4b4643483cec06e8ef57]: Textual amendment: Words in [Art. 18(3)](https://www.legislation.gov.uk/eur/2008/1333/article/18/3) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(20)(c)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/20/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-4b597556f40e4b4643483cec06e8ef57]: Textual amendment: Words in [Art. 18(3)](https://www.legislation.gov.uk/eur/2008/1333/article/18/3) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(20)(c)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/20/c) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-2cfa013cc6c157988f2eab7e15c2bace]: Textual amendment: [Art. 18(5)](https://www.legislation.gov.uk/eur/2008/1333/article/18/5) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(20)(d)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/20/d) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-2cfa013cc6c157988f2eab7e15c2bace]: Textual amendment: [Art. 18(5)](https://www.legislation.gov.uk/eur/2008/1333/article/18/5) inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(20)(d)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/20/d) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-5214b036e7256490f59922135ad6313e]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/eur/2008/1333/article/19) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [97](https://www.legislation.gov.uk/uksi/2019/860/regulation/97); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5214b036e7256490f59922135ad6313e]: Textual amendment: [Art. 19](https://www.legislation.gov.uk/eur/2008/1333/article/19) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [97](https://www.legislation.gov.uk/uksi/2019/860/regulation/97); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-500640d70cdd2d6efd977b70634d5671]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/eur/2008/1333/article/20) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [98](https://www.legislation.gov.uk/uksi/2019/860/regulation/98); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-500640d70cdd2d6efd977b70634d5671]: Textual amendment: [Art. 20](https://www.legislation.gov.uk/eur/2008/1333/article/20) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [98](https://www.legislation.gov.uk/uksi/2019/860/regulation/98); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0033e489852815e8086b89ddae79f46b]: Textual amendment: Words in [Art. 21(1)](https://www.legislation.gov.uk/eur/2008/1333/article/21/1) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [99(a)](https://www.legislation.gov.uk/uksi/2019/860/regulation/99/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0033e489852815e8086b89ddae79f46b]: Textual amendment: Words in [Art. 21(1)](https://www.legislation.gov.uk/eur/2008/1333/article/21/1) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [99(a)](https://www.legislation.gov.uk/uksi/2019/860/regulation/99/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5efdc8d0814e5744e023b41325b19eed]: Textual amendment: [Art. 21(2)](https://www.legislation.gov.uk/eur/2008/1333/article/21/2) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [99(b)](https://www.legislation.gov.uk/uksi/2019/860/regulation/99/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5efdc8d0814e5744e023b41325b19eed]: Textual amendment: [Art. 21(2)](https://www.legislation.gov.uk/eur/2008/1333/article/21/2) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [99(b)](https://www.legislation.gov.uk/uksi/2019/860/regulation/99/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b02944589dab0fa4d9340a8eead73910]: Textual amendment: Word in [Art. 22(1)(a)](https://www.legislation.gov.uk/eur/2008/1333/article/22/1/a) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(21)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/21) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-b02944589dab0fa4d9340a8eead73910]: Textual amendment: Word in [Art. 22(1)(a)](https://www.legislation.gov.uk/eur/2008/1333/article/22/1/a) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(21)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/21) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-37e5734c7adf390c51cc8d472baae2bf]: Textual amendment: Word in [Art. 22(1)(g)](https://www.legislation.gov.uk/eur/2008/1333/article/22/1/g) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 14(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/14/b)
+[^c-37e5734c7adf390c51cc8d472baae2bf]: Textual amendment: Word in [Art. 22(1)(g)](https://www.legislation.gov.uk/eur/2008/1333/article/22/1/g) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 11 para. 14(b)](https://www.legislation.gov.uk/uksi/2025/82/schedule/11/paragraph/14/b)
 
 [^f00032]: Footnote: [OJ L 186, 30.6.1989, p. 21](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1989.186.01.0021.01.ENG).
 
-[^key-3da636f7967831d51a1667113b8005dc]: Textual amendment: Word in [Art. 23(1)(a)](https://www.legislation.gov.uk/eur/2008/1333/article/23/1/a) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(22)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/22) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-3da636f7967831d51a1667113b8005dc]: Textual amendment: Word in [Art. 23(1)(a)](https://www.legislation.gov.uk/eur/2008/1333/article/23/1/a) substituted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(22)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/22) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-dc065d9bcbcc6c387f15a56b30ddfb6b]: Textual amendment: Words in [Art. 23(4)](https://www.legislation.gov.uk/eur/2008/1333/article/23/4) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [101](https://www.legislation.gov.uk/uksi/2019/860/regulation/101); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dc065d9bcbcc6c387f15a56b30ddfb6b]: Textual amendment: Words in [Art. 23(4)](https://www.legislation.gov.uk/eur/2008/1333/article/23/4) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [101](https://www.legislation.gov.uk/uksi/2019/860/regulation/101); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-71ff5a823544d5b057af8a5650a706d5]: Textual amendment: Words in [Art. 24(3)](https://www.legislation.gov.uk/eur/2008/1333/article/24/3) inserted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [102(a)](https://www.legislation.gov.uk/uksi/2019/860/regulation/102/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71ff5a823544d5b057af8a5650a706d5]: Textual amendment: Words in [Art. 24(3)](https://www.legislation.gov.uk/eur/2008/1333/article/24/3) inserted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [102(a)](https://www.legislation.gov.uk/uksi/2019/860/regulation/102/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59af367fa0e3df18175c988c169e37e3]: Textual amendment: Words in [Art. 24(3)](https://www.legislation.gov.uk/eur/2008/1333/article/24/3) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [102(b)](https://www.legislation.gov.uk/uksi/2019/860/regulation/102/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-59af367fa0e3df18175c988c169e37e3]: Textual amendment: Words in [Art. 24(3)](https://www.legislation.gov.uk/eur/2008/1333/article/24/3) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [102(b)](https://www.legislation.gov.uk/uksi/2019/860/regulation/102/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f7f7687270f513b9b935231f3d86ec16]: Textual amendment: Word in [Art. 26(1)](https://www.legislation.gov.uk/eur/2008/1333/article/26/1) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [103(a)](https://www.legislation.gov.uk/uksi/2019/860/regulation/103/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7f7687270f513b9b935231f3d86ec16]: Textual amendment: Word in [Art. 26(1)](https://www.legislation.gov.uk/eur/2008/1333/article/26/1) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [103(a)](https://www.legislation.gov.uk/uksi/2019/860/regulation/103/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4a0a05014b6305e5a4610ceefd6fcb11]: Textual amendment: Word in [Art. 26(2)](https://www.legislation.gov.uk/eur/2008/1333/article/26/2) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [103(b)(i)](https://www.legislation.gov.uk/uksi/2019/860/regulation/103/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4a0a05014b6305e5a4610ceefd6fcb11]: Textual amendment: Word in [Art. 26(2)](https://www.legislation.gov.uk/eur/2008/1333/article/26/2) substituted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [103(b)(i)](https://www.legislation.gov.uk/uksi/2019/860/regulation/103/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d957720fc7cbd8635ef8d77ad1febbb]: Textual amendment: Words in [Art. 26(2)](https://www.legislation.gov.uk/eur/2008/1333/article/26/2) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [103(b)(ii)](https://www.legislation.gov.uk/uksi/2019/860/regulation/103/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9d957720fc7cbd8635ef8d77ad1febbb]: Textual amendment: Words in [Art. 26(2)](https://www.legislation.gov.uk/eur/2008/1333/article/26/2) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [103(b)(ii)](https://www.legislation.gov.uk/uksi/2019/860/regulation/103/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-700bad45747165947a6fa93001a2a0c3]: Textual amendment: [Art. 27](https://www.legislation.gov.uk/eur/2008/1333/article/27) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [104](https://www.legislation.gov.uk/uksi/2019/860/regulation/104); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-700bad45747165947a6fa93001a2a0c3]: Textual amendment: [Art. 27](https://www.legislation.gov.uk/eur/2008/1333/article/27) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [104](https://www.legislation.gov.uk/uksi/2019/860/regulation/104); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e04bd07b4499163e7e5c0f28ce690f23]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/eur/2008/1333/article/28) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [104](https://www.legislation.gov.uk/uksi/2019/860/regulation/104); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e04bd07b4499163e7e5c0f28ce690f23]: Textual amendment: [Art. 28](https://www.legislation.gov.uk/eur/2008/1333/article/28) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [104](https://www.legislation.gov.uk/uksi/2019/860/regulation/104); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-866355cea635b3c8f6ed415c96c57622]: Textual amendment: Art. 28A inserted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [105](https://www.legislation.gov.uk/uksi/2019/860/regulation/105); (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(15)(a)-(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/15/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-866355cea635b3c8f6ed415c96c57622]: Textual amendment: Art. 28A inserted (31.12.2020) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [105](https://www.legislation.gov.uk/uksi/2019/860/regulation/105); (as amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(15)(a)-(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/15/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-af40345dbb1097df9a82a2bc60b45e62]: Textual amendment: [Art. 29](https://www.legislation.gov.uk/eur/2008/1333/article/29) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 S.I. 2019/860](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [106](https://www.legislation.gov.uk/uksi/2019/860/regulation/106); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-af40345dbb1097df9a82a2bc60b45e62]: Textual amendment: [Art. 29](https://www.legislation.gov.uk/eur/2008/1333/article/29) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 S.I. 2019/860](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [106](https://www.legislation.gov.uk/uksi/2019/860/regulation/106); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a5c10f25004ccd9d07bd7ad0b2551446]: Textual amendment: [Art. 30](https://www.legislation.gov.uk/eur/2008/1333/article/30) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(23)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/23) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-a5c10f25004ccd9d07bd7ad0b2551446]: Textual amendment: [Art. 30](https://www.legislation.gov.uk/eur/2008/1333/article/30) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(23)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/23) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-593b3467afcc1dd4f631da9bd4afea69]: Textual amendment: [Art. 31](https://www.legislation.gov.uk/eur/2008/1333/article/31) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(24)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/24) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-593b3467afcc1dd4f631da9bd4afea69]: Textual amendment: [Art. 31](https://www.legislation.gov.uk/eur/2008/1333/article/31) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(24)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/24) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-f9654a335131749d7b89ce296f6e6932]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/eur/2008/1333/article/32) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [109](https://www.legislation.gov.uk/uksi/2019/860/regulation/109); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f9654a335131749d7b89ce296f6e6932]: Textual amendment: [Art. 32](https://www.legislation.gov.uk/eur/2008/1333/article/32) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [109](https://www.legislation.gov.uk/uksi/2019/860/regulation/109); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d423aab5e30eec754373cbccccfd4bb]: Textual amendment: [Art. 34](https://www.legislation.gov.uk/eur/2008/1333/article/34) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(25)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/25) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-5d423aab5e30eec754373cbccccfd4bb]: Textual amendment: [Art. 34](https://www.legislation.gov.uk/eur/2008/1333/article/34) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(25)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/25) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-a2e17ac69a7d884463565a4782f314d0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2008/1333/signature) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [111](https://www.legislation.gov.uk/uksi/2019/860/regulation/111); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2e17ac69a7d884463565a4782f314d0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2008/1333/signature) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [111](https://www.legislation.gov.uk/uksi/2019/860/regulation/111); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000001]: Textual amendment: Substituted by [Commission Regulation (EU) 2019/891 of 28 May 2019 amending Annexes I and II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the functional class of ‘stabilisers’ and the use of ferrous lactate (E 585) on the mushroom Albatrellus ovinus as a food ingredient in Swedish liver pâtés (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2019/891).
 
@@ -1061,15 +1061,15 @@ Functional classes of food additives in foods and of food additives in food addi
 
 [^c000003]: Textual amendment: Inserted by [Commission Regulation (EU) No 510/2013 of 3 June 2013 amending Annexes I, II and III to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of iron oxides and hydroxides (E 172), hydroxypropyl methyl cellulose (E 464) and polysorbates (E 432-436) for marking of certain fruits (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2013/510).
 
-[^key-54405b19696c63bc8c4e245df067e6ec]: Textual amendment: [Annex 1a](https://www.legislation.gov.uk/eur/2008/1333/annex/1a) heading inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(26)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/26) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-54405b19696c63bc8c4e245df067e6ec]: Textual amendment: [Annex 1a](https://www.legislation.gov.uk/eur/2008/1333/annex/1a) heading inserted (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(26)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/26) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-8d2b5275cc04b0c96679196de35e06b7]: Textual amendment: [Annex 1a](https://www.legislation.gov.uk/eur/2008/1333/annex/1a) Tables 1, 2: Annex 2 Section 2 Pt. A Tables 1, 2 renumbered as Annex 1a Tables 1, 2 (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(27)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/27) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-8d2b5275cc04b0c96679196de35e06b7]: Textual amendment: [Annex 1a](https://www.legislation.gov.uk/eur/2008/1333/annex/1a) Tables 1, 2: Annex 2 Section 2 Pt. A Tables 1, 2 renumbered as Annex 1a Tables 1, 2 (E.W.S.) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(27)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/27) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
 [^c000008]: Textual amendment: Inserted by [Commission Regulation (EU) 2016/324 of 7 March 2016 amending and correcting Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the use of certain food additives permitted in all categories of foods (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2016/324).
 
 [^c000009]: Textual amendment: Substituted by [Commission Regulation (EU) No 601/2014 of 4 June 2014 amending Annex II to Regulation (EC) No 1333/2008 of the European Parliament and of the Council as regards the food categories of meat and the use of certain food additives in meat preparations (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2014/601).
 
-[^f00034]: Footnote: [OJ L 10, 12.1.2002, p. 47](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.010.01.0047.01.ENG) [^key-8d2b5275cc04b0c96679196de35e06b7] .
+[^f00034]: Footnote: [OJ L 10, 12.1.2002, p. 47](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2002.010.01.0047.01.ENG) [^c-8d2b5275cc04b0c96679196de35e06b7] .
 
 [^f00035]: Footnote: [OJ L 164, 26.6.2009, p. 45](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.164.01.0045.01.ENG) .
 
@@ -1093,11 +1093,11 @@ Functional classes of food additives in foods and of food additives in food addi
 
 [^f00045]: Footnote: [OJ L 149, 14.6.1991, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1991.149.01.0001.01.ENG) .
 
-[^key-4d4a0d01ca6e98d077353273c8897db0]: Textual amendment: Annex 2 omitted (except for Annex 2 Section 2 Pt. A Tables 1, 2 which are renumbered as Annex 1a Tables 1, 2) (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(27)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/27) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-4d4a0d01ca6e98d077353273c8897db0]: Textual amendment: Annex 2 omitted (except for Annex 2 Section 2 Pt. A Tables 1, 2 which are renumbered as Annex 1a Tables 1, 2) (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(27)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/27) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-245bf6d1e5d431cbd13beeb72ec541d3]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eur/2008/1333/annex/III) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(28)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/28) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-245bf6d1e5d431cbd13beeb72ec541d3]: Textual amendment: [Annex 3](https://www.legislation.gov.uk/eur/2008/1333/annex/III) omitted (E.W.S.) (1.4.2025) by virtue of [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2), [8(28)](https://www.legislation.gov.uk/uksi/2025/361/regulation/8/28) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
 
-[^key-78e10a857655d5675275969b6a14c8bc]: Textual amendment: [Annex 4](https://www.legislation.gov.uk/eur/2008/1333/annex/IV) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [115](https://www.legislation.gov.uk/uksi/2019/860/regulation/115); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-78e10a857655d5675275969b6a14c8bc]: Textual amendment: [Annex 4](https://www.legislation.gov.uk/eur/2008/1333/annex/IV) omitted (31.12.2020) by virtue of [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/860)](https://www.legislation.gov.uk/uksi/2019/860), [regs. 1](https://www.legislation.gov.uk/uksi/2019/860/regulation/1), [115](https://www.legislation.gov.uk/uksi/2019/860/regulation/115); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c000117]: Textual amendment: Substituted by [Commission Regulation (EU) No 238/2010 of 22 March 2010 amending Annex V to Regulation (EC) No 1333/2008 of the European Parliament and of the Council with regard to the labelling requirement for beverages with more than 1,2 % by volume of alcohol and containing certain food colours (Text with EEA relevance)](https://www.legislation.gov.uk/eur/2010/238).
 

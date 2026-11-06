@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 14. Registered patron where benefice vested in Crown or bishop[^key-8a8c88b8fc353f24d08666287c433a41]
+## 14. Registered patron where benefice vested in Crown or bishop[^c-8a8c88b8fc353f24d08666287c433a41]
 
 *Extent: E*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8a8c88b8fc353f24d08666287c433a41]: Commencement: [S. 14](https://www.legislation.gov.uk/ukcm/2018/8/section/14) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-8a8c88b8fc353f24d08666287c433a41]: Commencement: [S. 14](https://www.legislation.gov.uk/ukcm/2018/8/section/14) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)

@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Enterprise, Trade and Investment[^f00001] makes the following Regulations in exercise of the powers conferred by Article 13(1) of the Weights and Measures (Northern Ireland) Order 1981[^f00002] and now vested in it [^f00003].
 
-## 1. Citation and commencement[^key-584077cd4bae35180691a8b71387a551]
+## 1. Citation and commencement[^c-584077cd4bae35180691a8b71387a551]
 
 These Regulations may be cited as the Measuring Instruments (Beltweighers) (Use for Trade) Regulations (Northern Ireland) 2007 and shall come into operation on 15th October 2007.
 
-## 2. Interpretation[^key-eec4983af8cb73d32e774ff4c8eda3d9]
+## 2. Interpretation[^c-eec4983af8cb73d32e774ff4c8eda3d9]
 
 In these Regulations—
 
@@ -61,9 +61,9 @@ In these Regulations—
 - “put into use” means the first use of an instrument intended for the end user for the purposes for which it was intended; and
 - “weighing unit” means the part of a beltweigher providing information on the mass of the load to be measured.
 
-**2A.**[^key-00e3dd577fa71cd7a2b9921fbcd5b23a] In these Regulations a reference to member State includes Norway, Iceland or Liechtenstein.
+**2A.**[^c-00e3dd577fa71cd7a2b9921fbcd5b23a] In these Regulations a reference to member State includes Norway, Iceland or Liechtenstein.
 
-## 3. Application[^key-eec7b7fec07bc0db2f5e847aecb2e5bb]
+## 3. Application[^c-eec7b7fec07bc0db2f5e847aecb2e5bb]
 
 (1) Subject to paragraphs (2) and (3), these Regulations apply to a beltweigher which is—
 
@@ -77,7 +77,7 @@ In these Regulations—
 
 (3) These Regulations do not apply to a beltweigher to which the 2006 Regulations do not apply by virtue of regulation 3(3) to (5) thereof.
 
-## 4. Requirements for use for trade[^key-187b19423758f484809f96dcc26f2fab]
+## 4. Requirements for use for trade[^c-187b19423758f484809f96dcc26f2fab]
 
 A person shall not use for trade a beltweigher unless—
 
@@ -86,7 +86,7 @@ A person shall not use for trade a beltweigher unless—
 - (c) it has been erected and installed in accordance with the requirements of regulation 7; and
 - (d) in the case of a beltweigher of an accuracy class set out in column 1 of the Table in Schedule 5 to the 2006 Regulations, it is within the maximum permissible error for that accuracy class as set out in column 2 of that Table.
 
-## 5. Manner of use[^key-b691bdf5a141fd71470e8fbdaad0e3d6]
+## 5. Manner of use[^c-b691bdf5a141fd71470e8fbdaad0e3d6]
 
 (1) Where a beltweigher is marked with a temperature range, it shall not be used for trade in temperatures outside that range.
 
@@ -104,7 +104,7 @@ A person shall not use for trade a beltweigher unless—
 - (a) in which it may be prevented from operating consistently or accurately; or
 - (b) which are likely prematurely to degrade its metrological characteristics.
 
-## 6. Position of the operator[^key-132d2e0a7787271876a5e6252f9f473f]
+## 6. Position of the operator[^c-132d2e0a7787271876a5e6252f9f473f]
 
 Every beltweigher shall be erected in such a manner that the operator can readily take up a position from which he can—
 
@@ -112,7 +112,7 @@ Every beltweigher shall be erected in such a manner that the operator can readil
 - (b) operate any zero-setting control; and
 - (c) see whether the belt passing over the weighing unit is empty.
 
-## 7. Manner of erection and installation[^key-2a37e1904ed99c56623199d765653c5f]
+## 7. Manner of erection and installation[^c-2a37e1904ed99c56623199d765653c5f]
 
 (1) Every beltweigher shall be so positioned as to facilitate cleaning and testing.
 
@@ -144,24 +144,24 @@ The Regulations have been notified to the European Commission in draft pursuant 
 
 [^f00003]: Footnote: By [S.I. 1982/846 (N.I. 11)](https://www.legislation.gov.uk/nisi/1982/846), Art. 4
 
-[^key-584077cd4bae35180691a8b71387a551]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
+[^c-584077cd4bae35180691a8b71387a551]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
 
-[^key-eec4983af8cb73d32e774ff4c8eda3d9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/386/regulation/2) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
+[^c-eec4983af8cb73d32e774ff4c8eda3d9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2007/386/regulation/2) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
 
 [^f00004]: Footnote: [S.I. 2006/1259](https://www.legislation.gov.uk/uksi/2006/1259)
 
-[^key-00e3dd577fa71cd7a2b9921fbcd5b23a]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2007/386/regulation/2A) inserted (17.3.2008) by [The Measuring Instruments (Use for Trade) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/52)](https://www.legislation.gov.uk/nisr/2008/52), [regs. 1](https://www.legislation.gov.uk/nisr/2008/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/2008/52/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/52/schedule)
+[^c-00e3dd577fa71cd7a2b9921fbcd5b23a]: Textual amendment: [Reg. 2A](https://www.legislation.gov.uk/nisr/2007/386/regulation/2A) inserted (17.3.2008) by [The Measuring Instruments (Use for Trade) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/52)](https://www.legislation.gov.uk/nisr/2008/52), [regs. 1](https://www.legislation.gov.uk/nisr/2008/52/regulation/1), [2](https://www.legislation.gov.uk/nisr/2008/52/regulation/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/52/schedule)
 
-[^key-eec7b7fec07bc0db2f5e847aecb2e5bb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/386/regulation/3) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
+[^c-eec7b7fec07bc0db2f5e847aecb2e5bb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2007/386/regulation/3) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
 
 [^f00005]: Footnote: [S.R. 1985 No. 319](https://www.legislation.gov.uk/nisr/1985/319).
 
 [^f00006]: Footnote: [S.R. 2006 No.157](https://www.legislation.gov.uk/nisr/2006/157).
 
-[^key-187b19423758f484809f96dcc26f2fab]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/386/regulation/4) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
+[^c-187b19423758f484809f96dcc26f2fab]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2007/386/regulation/4) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
 
-[^key-b691bdf5a141fd71470e8fbdaad0e3d6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/386/regulation/5) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
+[^c-b691bdf5a141fd71470e8fbdaad0e3d6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2007/386/regulation/5) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
 
-[^key-132d2e0a7787271876a5e6252f9f473f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/386/regulation/6) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
+[^c-132d2e0a7787271876a5e6252f9f473f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2007/386/regulation/6) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
 
-[^key-2a37e1904ed99c56623199d765653c5f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/386/regulation/7) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)
+[^c-2a37e1904ed99c56623199d765653c5f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2007/386/regulation/7) in operation at 15.10.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/386/regulation/1)

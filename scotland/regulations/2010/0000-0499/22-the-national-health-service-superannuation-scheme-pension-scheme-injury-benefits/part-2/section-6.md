@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Amendment of regulation G14[^key-4b8fd3d52925074e1a0b61844f87e717]
+## 6. Amendment of regulation G14[^c-4b8fd3d52925074e1a0b61844f87e717]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation G14(1) (surviving nominated partner’s pension) for “who has pe
 
 ## Annotations
 
-[^key-4b8fd3d52925074e1a0b61844f87e717]: Commencement: Reg. 6 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)
+[^c-4b8fd3d52925074e1a0b61844f87e717]: Commencement: Reg. 6 in force at 26.2.2010, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2010/22/regulation/1/2)

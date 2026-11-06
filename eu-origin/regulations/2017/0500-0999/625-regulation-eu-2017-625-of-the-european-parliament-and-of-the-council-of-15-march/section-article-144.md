@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 144. Exercise of the delegation[^key-f7607d9d314a35ffbeeaa48faf657cd1]
+## Article 144. Exercise of the delegation[^c-f7607d9d314a35ffbeeaa48faf657cd1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f7607d9d314a35ffbeeaa48faf657cd1]: Textual amendment: [Art. 144](https://www.legislation.gov.uk/eur/2017/625/article/144) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [27(4)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/27/4) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))
+[^c-f7607d9d314a35ffbeeaa48faf657cd1]: Textual amendment: [Art. 144](https://www.legislation.gov.uk/eur/2017/625/article/144) substituted (31.12.2020) by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [27(4)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/27/4) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46))

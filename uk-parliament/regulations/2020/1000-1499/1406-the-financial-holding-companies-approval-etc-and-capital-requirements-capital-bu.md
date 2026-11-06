@@ -42,13 +42,13 @@ Coming into force in accordance with regulations 1(2) to (4)
 
 The Treasury are designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to financial services.
 
-The Treasury, in exercise of the powers conferred by sections 2(2) of the European Communities Act 1972, section 8(1) of the European Union (Withdrawal) Act 2018[^f00003] and section 349 of the Financial Services and Markets Act 2000[^f00004], make the following Regulations.[^key-cb2fb5ace81009841dfed7fe0f6f68dd]
+The Treasury, in exercise of the powers conferred by sections 2(2) of the European Communities Act 1972, section 8(1) of the European Union (Withdrawal) Act 2018[^f00003] and section 349 of the Financial Services and Markets Act 2000[^f00004], make the following Regulations.[^c-cb2fb5ace81009841dfed7fe0f6f68dd]
 
-A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament, in accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972, and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^key-cb2fb5ace81009841dfed7fe0f6f68dd]
+A draft of these Regulations has been laid before and approved by a resolution of each House of Parliament, in accordance with paragraph 2(2) of Schedule 2 to the European Communities Act 1972, and paragraph 1(1) of Schedule 7 to the European Union (Withdrawal) Act 2018.[^c-cb2fb5ace81009841dfed7fe0f6f68dd]
 
 ## PART 1 — General
 
-### 1. Citation and commencement[^key-ee63a547fe4179b6c2274d742d14a1d7][^key-ee63a547fe4179b6c2274d742d14a1d7]
+### 1. Citation and commencement[^c-ee63a547fe4179b6c2274d742d14a1d7][^c-ee63a547fe4179b6c2274d742d14a1d7]
 
 (1) These Regulations may be cited as the Financial Holding Companies (Approval etc.) and Capital Requirements (Capital Buffers and Macro-prudential Measures) (Amendment) (EU Exit) Regulations 2020.
 
@@ -63,15 +63,15 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 ## PART 2 — Directors and Financial Holding Companies
 
-### 2. Amendment of the Financial Services and Markets Act 2000[^key-5f4cf5a81a9798341a8b6fdeca466a4b][^key-c2b61486806696002639f24b47cc12c1][^key-cc6e1fafea78c0e69c4281aaedfbd4f3]
+### 2. Amendment of the Financial Services and Markets Act 2000[^c-5f4cf5a81a9798341a8b6fdeca466a4b][^c-c2b61486806696002639f24b47cc12c1][^c-cc6e1fafea78c0e69c4281aaedfbd4f3]
 
-(1)[^key-5f4cf5a81a9798341a8b6fdeca466a4b] The Financial Services and Markets Act 2000[^f00005] is amended as follows.
+(1)[^c-5f4cf5a81a9798341a8b6fdeca466a4b] The Financial Services and Markets Act 2000[^f00005] is amended as follows.
 
-(2)[^key-5f4cf5a81a9798341a8b6fdeca466a4b] In section 71B (removal of directors and senior executives), after subsection (2)[^f00006] insert—
+(2)[^c-5f4cf5a81a9798341a8b6fdeca466a4b] In section 71B (removal of directors and senior executives), after subsection (2)[^f00006] insert—
 
 > (3) If the appropriate regulator is satisfied that the condition in section 71D(4A) is met in relation to a person who is a director of an institution, of a financial holding company or of a mixed financial holding company, the appropriate regulator may require that institution, financial holding company or mixed financial holding company to remove that person from the board of directors.
 
-(3)[^key-5f4cf5a81a9798341a8b6fdeca466a4b] In section 71D (section 71B and 71C: conditions)[^f00007], after subsection (4) insert—
+(3)[^c-5f4cf5a81a9798341a8b6fdeca466a4b] In section 71D (section 71B and 71C: conditions)[^f00007], after subsection (4) insert—
 
 > (4A) The condition in this subsection is met in relation to a director of an institution, of a financial holding company or of a mixed financial holding company, if the director—
 >
@@ -79,7 +79,7 @@ A draft of these Regulations has been laid before and approved by a resolution o
 > - (b) no longer possesses sufficient knowledge, skills, experience, honesty, integrity or independence of mind to perform their duties, or
 > - (c) is no longer able to commit sufficient time to perform their duties.
 
-(4)[^key-5f4cf5a81a9798341a8b6fdeca466a4b] In section 71G (right to refer matters to the Tribunal)—
+(4)[^c-5f4cf5a81a9798341a8b6fdeca466a4b] In section 71G (right to refer matters to the Tribunal)—
 
 - (a) after subsection (1) insert—
 
@@ -93,14 +93,14 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
   .
 
-(5)[^key-5f4cf5a81a9798341a8b6fdeca466a4b] In section 71H (removal of director and senior executives and appointment of temporary manager: procedure)—
+(5)[^c-5f4cf5a81a9798341a8b6fdeca466a4b] In section 71H (removal of director and senior executives and appointment of temporary manager: procedure)—
 
 - (a) in subsection (2)—
   - (i) in the opening words, after “relevant firm” insert “, institution, financial holding company or mixed financial holding company”;
   - (ii) in paragraph (a), after “firm” insert “, institution, holding company”;
 - (b) in subsection (5), in paragraphs (c)(i), (d), and (f) after “relevant firm” each time it occurs, insert “, the financial holding company, the mixed financial holding company”.
 
-(6)[^key-5f4cf5a81a9798341a8b6fdeca466a4b] In section 71I (sections 71B to 71H: interpretation)[^f00008]—
+(6)[^c-5f4cf5a81a9798341a8b6fdeca466a4b] In section 71I (sections 71B to 71H: interpretation)[^f00008]—
 
 - (a) in subsection (4), in the opening words, for “subsections (2) and (3)” substitute “sections 71B to 71H and this section”;
 - (b) in subsection (5), in the definition of “appropriate regulator”, after paragraph (c), insert—
@@ -111,7 +111,7 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
   .
 
-(7)[^key-c2b61486806696002639f24b47cc12c1][^key-cc6e1fafea78c0e69c4281aaedfbd4f3] After Part 12A of the Financial Services and Markets Act 2000[^f00009], insert—
+(7)[^c-c2b61486806696002639f24b47cc12c1][^c-cc6e1fafea78c0e69c4281aaedfbd4f3] After Part 12A of the Financial Services and Markets Act 2000[^f00009], insert—
 
 > **PART 12B — Approval of certain holding companies**
 >
@@ -459,7 +459,7 @@ A draft of these Regulations has been laid before and approved by a resolution o
 
 (10) In section 417(1) (definitions)[^f00015], at the end of the definition of “capital requirements directive” insert “, as it had effect immediately before IP completion day”.
 
-### 3. Amendment of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^key-18957bd1aaf9acc5c8712c6bf576816a]
+### 3. Amendment of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^c-18957bd1aaf9acc5c8712c6bf576816a]
 
 In article 6(1)(a) of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001[^f00016], for paragraph (iv), substitute—
 
@@ -467,7 +467,7 @@ In article 6(1)(a) of the Financial Services and Markets Act 2000 (Regulated Act
 
 .
 
-### 4. Amendment of the Capital Requirements Regulations 2013[^key-d67018bd8e1d915b08f69a02478dccf4][^key-d67018bd8e1d915b08f69a02478dccf4]
+### 4. Amendment of the Capital Requirements Regulations 2013[^c-d67018bd8e1d915b08f69a02478dccf4][^c-d67018bd8e1d915b08f69a02478dccf4]
 
 (1) The Capital Requirements Regulations 2013[^f00017] are amended as follows.
 
@@ -483,44 +483,44 @@ In article 6(1)(a) of the Financial Services and Markets Act 2000 (Regulated Act
 
 .
 
-### 5. Transitional provisions[^key-13cc658e2fa26740538254252d1b05bb][^key-e02d32fa0bb447d8a5212d2c593722af][^key-e02d32fa0bb447d8a5212d2c593722af]
+### 5. Transitional provisions[^c-13cc658e2fa26740538254252d1b05bb][^c-e02d32fa0bb447d8a5212d2c593722af][^c-e02d32fa0bb447d8a5212d2c593722af]
 
-(1)[^key-13cc658e2fa26740538254252d1b05bb] Paragraphs (2) to (7) apply to a company (“C”) which—
+(1)[^c-13cc658e2fa26740538254252d1b05bb] Paragraphs (2) to (7) apply to a company (“C”) which—
 
 - (a) is established in the United Kingdom as a parent financial holding company or a parent mixed financial holding company on 29th December 2020; and
 - (b) requires approval or confirmation of an exemption from the Prudential Regulation Authority (“PRA”) under section 192P of the Financial Services and Markets Act 2000 (“FSMA”).
 
-(2)[^key-13cc658e2fa26740538254252d1b05bb] C is to be treated as having an approval to be established in the United Kingdom as a parent financial holding company or parent mixed financial holding company (as the case may be).
+(2)[^c-13cc658e2fa26740538254252d1b05bb] C is to be treated as having an approval to be established in the United Kingdom as a parent financial holding company or parent mixed financial holding company (as the case may be).
 
-(3)[^key-13cc658e2fa26740538254252d1b05bb] C’s approval under paragraph (2) lapses—
+(3)[^c-13cc658e2fa26740538254252d1b05bb] C’s approval under paragraph (2) lapses—
 
 - (a) on 28th June 2021, if C has not submitted an application to the PRA under section 192Q of FSMA before that date; or
 - (b) on the earlier of—
   - (i) the day on which C’s application under section 192Q of FSMA is finally determined, or
   - (ii) 31st December 2021.
 
-(4)[^key-13cc658e2fa26740538254252d1b05bb] For the purposes of this regulation, an application is finally determined—
+(4)[^c-13cc658e2fa26740538254252d1b05bb] For the purposes of this regulation, an application is finally determined—
 
 - (a) when the application is withdrawn;
 - (b) when the PRA approves C, or confirms that C is exempt from the requirement for approval, under section 192R of FSMA;
 - (c) where the PRA refuses approval, or rejects an application for confirmation of exemption, and the matter is not referred to the Tribunal, when the time for referring the matter to the Tribunal has expired;
 - (d) where the PRA refuses approval, or rejects an application for confirmation of exemption, and the matter is referred to the Tribunal, the date on which the reference is determined by the Tribunal or has otherwise ended.
 
-(5)[^key-e02d32fa0bb447d8a5212d2c593722af] The PRA may designate one or more financial holding companies, mixed financial holding companies or institutions within the group of which the holding company or institution forms part as being responsible for ensuring that the group complies with the requirements laid down in [Directive 2013/36/EU](https://www.legislation.gov.uk/european/directive/2013/0036) UK law and in the capital requirements regulation on a consolidated or sub-consolidated basis until such time as C’s application has been finally determined.
+(5)[^c-e02d32fa0bb447d8a5212d2c593722af] The PRA may designate one or more financial holding companies, mixed financial holding companies or institutions within the group of which the holding company or institution forms part as being responsible for ensuring that the group complies with the requirements laid down in [Directive 2013/36/EU](https://www.legislation.gov.uk/european/directive/2013/0036) UK law and in the capital requirements regulation on a consolidated or sub-consolidated basis until such time as C’s application has been finally determined.
 
-(6)[^key-13cc658e2fa26740538254252d1b05bb] For the purposes of sections 71B to 71H of FSMA, in relation to a holding company designated under paragraph (5) which is not a parent undertaking, “appropriate regulator” means the PRA.
+(6)[^c-13cc658e2fa26740538254252d1b05bb] For the purposes of sections 71B to 71H of FSMA, in relation to a holding company designated under paragraph (5) which is not a parent undertaking, “appropriate regulator” means the PRA.
 
-(7)[^key-13cc658e2fa26740538254252d1b05bb] For the purposes of this regulation—
+(7)[^c-13cc658e2fa26740538254252d1b05bb] For the purposes of this regulation—
 
 - (a) “consolidated basis”, “[Directive 2013/36/EU](https://www.legislation.gov.uk/european/directive/2013/0036) UK law”, “financial holding company”, “mixed financial holding company”, “institution”, “parent financial holding company”, “parent mixed financial holding company” and “sub-consolidated basis” have the meanings given in section 192O of FSMA (inserted by regulation 2(7));
 - (b) “capital requirements regulation” has the meaning given in section 417 of FSMA;
 - (c) “group” has the meaning given in section 421 of FSMA.
 
-(8)[^key-13cc658e2fa26740538254252d1b05bb] In relation to rules made under section 192V of FSMA, the requirements of section 138J of that Act (consultation) may be satisfied by things done before 28th December 2020 as well as by things done on or after that date.
+(8)[^c-13cc658e2fa26740538254252d1b05bb] In relation to rules made under section 192V of FSMA, the requirements of section 138J of that Act (consultation) may be satisfied by things done before 28th December 2020 as well as by things done on or after that date.
 
 ## PART 3 — Confidential Information
 
-### 6. Amendment of the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^key-5675dd711b1a64ab5998261eb5bdde34]
+### 6. Amendment of the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^c-5675dd711b1a64ab5998261eb5bdde34]
 
 (1) The Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^f00019] are amended as follows.
 
@@ -581,7 +581,7 @@ In article 6(1)(a) of the Financial Services and Markets Act 2000 (Regulated Act
 
 ## PART 4 — Capital Buffers and Macro-prudential Measures
 
-### 7. Amendment of the Capital Requirements Regulations 2013[^key-aad1b94662f828393db816d300feb90c]
+### 7. Amendment of the Capital Requirements Regulations 2013[^c-aad1b94662f828393db816d300feb90c]
 
 In regulation 34 of the Capital Requirements Regulations 2013[^f00024]—
 
@@ -593,7 +593,7 @@ In regulation 34 of the Capital Requirements Regulations 2013[^f00024]—
 
   > (3A) In making the assessment required by paragraph (3), the FCA must also take into account their assessment of systemic risk.
 
-### 8. Amendment of the Bank of England Act 1998 (Macro-prudential Measures) (No 2) Order 2015[^key-6c2fe3776b45968d05ec90cd0693b356]
+### 8. Amendment of the Bank of England Act 1998 (Macro-prudential Measures) (No 2) Order 2015[^c-6c2fe3776b45968d05ec90cd0693b356]
 
 (1) The Bank of England Act 1998 (Macro-prudential Measures) (No 2) Order 2015[^f00025] is amended as follows.
 
@@ -623,11 +623,11 @@ In regulation 34 of the Capital Requirements Regulations 2013[^f00024]—
 - (a) for “SRB institutions” substitute “relevant O-SIIs”;
 - (b) for “SRB institution” substitute “O-SII”.
 
-### 9. Amendment of the Capital Requirements (Amendment) (EU Exit) Regulations 2018[^key-8da768777f4106dba7af9f4f400d80ae][^key-8da768777f4106dba7af9f4f400d80ae]
+### 9. Amendment of the Capital Requirements (Amendment) (EU Exit) Regulations 2018[^c-8da768777f4106dba7af9f4f400d80ae][^c-8da768777f4106dba7af9f4f400d80ae]
 
 The Capital Requirements (Amendment) (EU Exit) Regulations 2018[^f00027] are amended in accordance with regulations 10 to 20.
 
-### 10. Commencement[^key-682c8a75cd1e2a6d81e5830719d8d11a][^key-682c8a75cd1e2a6d81e5830719d8d11a]
+### 10. Commencement[^c-682c8a75cd1e2a6d81e5830719d8d11a][^c-682c8a75cd1e2a6d81e5830719d8d11a]
 
 In regulation 1, after paragraph (2), insert—
 
@@ -635,7 +635,7 @@ In regulation 1, after paragraph (2), insert—
 
 .
 
-### 11. Supervisory review and evaluation process[^key-dbc489751cca0cf07acb68fe74551be4][^key-dbc489751cca0cf07acb68fe74551be4]
+### 11. Supervisory review and evaluation process[^c-dbc489751cca0cf07acb68fe74551be4][^c-dbc489751cca0cf07acb68fe74551be4]
 
 In regulation 21, in new regulation 34A(1), for sub-paragraphs (a) to (c), substitute—
 
@@ -646,11 +646,11 @@ In regulation 21, in new regulation 34A(1), for sub-paragraphs (a) to (c), subst
 >   - (i) the risks referred to in paragraph (a), and
 >   - (ii) the risks that institution poses to the UK financial system.
 
-### 12. Application of supervisory measures to institutions with similar risk profiles[^key-c714e161ebcc0f8f70147048b34dbcf0][^key-c714e161ebcc0f8f70147048b34dbcf0]
+### 12. Application of supervisory measures to institutions with similar risk profiles[^c-c714e161ebcc0f8f70147048b34dbcf0][^c-c714e161ebcc0f8f70147048b34dbcf0]
 
 In regulation 23, in new regulation 35A, for “competent authority” substitute “FCA”.
 
-### 13. Interpretation[^key-d1a08d2087ac078b01b5e92fd25a9d63][^key-d1a08d2087ac078b01b5e92fd25a9d63]
+### 13. Interpretation[^c-d1a08d2087ac078b01b5e92fd25a9d63][^c-d1a08d2087ac078b01b5e92fd25a9d63]
 
 In regulation 35—
 
@@ -698,7 +698,7 @@ In regulation 35—
 
   .
 
-### 14. Overview[^key-969d804f8c725d052bc774cb0226001f][^key-969d804f8c725d052bc774cb0226001f]
+### 14. Overview[^c-969d804f8c725d052bc774cb0226001f][^c-969d804f8c725d052bc774cb0226001f]
 
 In regulation 38, in paragraph (1) of new regulation 7—
 
@@ -715,7 +715,7 @@ In regulation 38, in paragraph (1) of new regulation 7—
 
   .
 
-### 15. Countercyclical capital buffer[^key-84d6f0ba8714465411d23509d6b227aa][^key-84d6f0ba8714465411d23509d6b227aa]
+### 15. Countercyclical capital buffer[^c-84d6f0ba8714465411d23509d6b227aa][^c-84d6f0ba8714465411d23509d6b227aa]
 
 After regulation 47, insert—
 
@@ -734,7 +734,7 @@ After regulation 47, insert—
 > >
 > >   is to apply to the holding company as it applies to a UK institution.
 
-### 16. G-SIIs[^key-ab0b5674b3f8e5847d96a109ca704da1][^key-ab0b5674b3f8e5847d96a109ca704da1]
+### 16. G-SIIs[^c-ab0b5674b3f8e5847d96a109ca704da1][^c-ab0b5674b3f8e5847d96a109ca704da1]
 
 (1) In regulation 50, in the new paragraph (2), for sub-paragraphs (a) to (d), substitute—
 
@@ -793,7 +793,7 @@ After regulation 47, insert—
 >   - (ii) in sub-paragraph (b), after “person”, insert “or the relevant group”;
 > - (b) in paragraph (2), at the end, insert “or the relevant group”.
 
-### 17. O-SIIs[^key-cbea02baf2994e1437f50cc77e943183][^key-cbea02baf2994e1437f50cc77e943183]
+### 17. O-SIIs[^c-cbea02baf2994e1437f50cc77e943183][^c-cbea02baf2994e1437f50cc77e943183]
 
 (1) In regulation 56—
 
@@ -837,7 +837,7 @@ After regulation 47, insert—
 >
 > In regulation 33, after “the person”, insert “or a group for which the person is UK parent institution, UK parent financial holding company, or UK parent mixed financial holding company (a relevant group”),”.
 
-### 18. O-SII Buffers[^key-b9b232a55d3353fbaec42c377856f9dd][^key-b9b232a55d3353fbaec42c377856f9dd]
+### 18. O-SII Buffers[^c-b9b232a55d3353fbaec42c377856f9dd][^c-b9b232a55d3353fbaec42c377856f9dd]
 
 In regulation 59, for the new regulation 34, substitute—
 
@@ -1026,7 +1026,7 @@ In regulation 59, for the new regulation 34, substitute—
 > - (a) the application of Step 2 of regulation 34ZC(2); and
 > - (b) the exercise of the PRA’s discretion in Step 3 of regulation 34ZC(2).
 
-### 19. Systemic risk buffer: amendments[^key-7ee44e22d037ed3630544f64728e0e5a][^key-7ee44e22d037ed3630544f64728e0e5a]
+### 19. Systemic risk buffer: amendments[^c-7ee44e22d037ed3630544f64728e0e5a][^c-7ee44e22d037ed3630544f64728e0e5a]
 
 (1) In regulation 60, for the new Part 5A, substitute—
 
@@ -1208,7 +1208,7 @@ In regulation 59, for the new regulation 34, substitute—
 >
 > (2) The scope of such an appeal is limited to the buffer rate set under regulation 34C(2).
 
-### 20. Combined buffer requirement[^key-6542f287a0ab275126aab9a6c8f1f6f6][^key-6542f287a0ab275126aab9a6c8f1f6f6]
+### 20. Combined buffer requirement[^c-6542f287a0ab275126aab9a6c8f1f6f6][^c-6542f287a0ab275126aab9a6c8f1f6f6]
 
 After regulation 60, insert—
 
@@ -1246,15 +1246,15 @@ An impact assessment has not been produced, as no, or no significant, impact on 
 
 [^f00004]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8), amended by paragraph 19 of Schedule 12 to the Financial Services Act [2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21). There are other amendments to section 349 which are not relevant to these Regulations.
 
-[^key-cb2fb5ace81009841dfed7fe0f6f68dd]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-cb2fb5ace81009841dfed7fe0f6f68dd]: Modification: Regulations: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
-[^key-ee63a547fe4179b6c2274d742d14a1d7]: Commencement: Reg. 1 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-ee63a547fe4179b6c2274d742d14a1d7]: Commencement: Reg. 1 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
-[^key-5f4cf5a81a9798341a8b6fdeca466a4b]: Commencement: Reg. 2(1)-(6) in force at 29.11.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/4)
+[^c-5f4cf5a81a9798341a8b6fdeca466a4b]: Commencement: Reg. 2(1)-(6) in force at 29.11.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/4)
 
-[^key-c2b61486806696002639f24b47cc12c1]: Commencement: [Reg. 2(7)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/2/7) in force at 28.12.2020 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/a)
+[^c-c2b61486806696002639f24b47cc12c1]: Commencement: [Reg. 2(7)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/2/7) in force at 28.12.2020 for specified purposes, see [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/a)
 
-[^key-cc6e1fafea78c0e69c4281aaedfbd4f3]: Commencement: [Reg. 2(7)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/2/7) in force at 29.12.2020 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/b)
+[^c-cc6e1fafea78c0e69c4281aaedfbd4f3]: Commencement: [Reg. 2(7)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/2/7) in force at 29.12.2020 in so far as not already in force, see [reg. 1(3)(b)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/3/b)
 
 [^f00005]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
@@ -1278,21 +1278,21 @@ An impact assessment has not been produced, as no, or no significant, impact on 
 
 [^f00015]: Footnote: The definition of “capital requirements directive” was inserted by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115).
 
-[^key-18957bd1aaf9acc5c8712c6bf576816a]: Commencement: Reg. 3 in force at 29.11.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/4)
+[^c-18957bd1aaf9acc5c8712c6bf576816a]: Commencement: Reg. 3 in force at 29.11.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/4)
 
 [^f00016]: Footnote: [S.I. 2001/544](https://www.legislation.gov.uk/uksi/2001/544). There are other amending instruments, but none is relevant.
 
-[^key-d67018bd8e1d915b08f69a02478dccf4]: Commencement: Reg. 4 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-d67018bd8e1d915b08f69a02478dccf4]: Commencement: Reg. 4 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115), amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401).
 
 [^f00018]: Footnote: OJ L150, 7.6.2019, p. 253.
 
-[^key-13cc658e2fa26740538254252d1b05bb]: Commencement: Reg. 5(1)-(4)(6)-(8) in force at 29.12.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/4)
+[^c-13cc658e2fa26740538254252d1b05bb]: Commencement: Reg. 5(1)-(4)(6)-(8) in force at 29.12.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/4)
 
-[^key-e02d32fa0bb447d8a5212d2c593722af]: Commencement: Reg. 5(5) in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-e02d32fa0bb447d8a5212d2c593722af]: Commencement: Reg. 5(5) in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
-[^key-5675dd711b1a64ab5998261eb5bdde34]: Commencement: Reg. 6 in force at 29.11.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/4)
+[^c-5675dd711b1a64ab5998261eb5bdde34]: Commencement: Reg. 6 in force at 29.11.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/4)
 
 [^f00019]: Footnote: [S.I. 2001/2188](https://www.legislation.gov.uk/uksi/2001/2188).
 
@@ -1304,37 +1304,37 @@ An impact assessment has not been produced, as no, or no significant, impact on 
 
 [^f00023]: Footnote: Part 3 of Schedule 1 was amended by [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348) and [2019/681](https://www.legislation.gov.uk/uksi/2019/681).
 
-[^key-aad1b94662f828393db816d300feb90c]: Commencement: Reg. 7 in force at 29.11.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/4)
+[^c-aad1b94662f828393db816d300feb90c]: Commencement: Reg. 7 in force at 29.11.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/4)
 
 [^f00024]: Footnote: [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115), amended by [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401).
 
-[^key-6c2fe3776b45968d05ec90cd0693b356]: Commencement: Reg. 8 in force at 29.11.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/4)
+[^c-6c2fe3776b45968d05ec90cd0693b356]: Commencement: Reg. 8 in force at 29.11.2020, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/4)
 
 [^f00025]: Footnote: [S.I. 2015/905](https://www.legislation.gov.uk/uksi/2015/905). There are other amending instruments, but none is relevant.
 
 [^f00026]: Footnote: [S.I. 2014/894](https://www.legislation.gov.uk/uksi/2014/894), as amended pursuant to these Regulations.
 
-[^key-8da768777f4106dba7af9f4f400d80ae]: Commencement: Reg. 9 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-8da768777f4106dba7af9f4f400d80ae]: Commencement: Reg. 9 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
 [^f00027]: Footnote: [S.I. 2018/1401](https://www.legislation.gov.uk/uksi/2018/1401).
 
-[^key-682c8a75cd1e2a6d81e5830719d8d11a]: Commencement: Reg. 10 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-682c8a75cd1e2a6d81e5830719d8d11a]: Commencement: Reg. 10 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
-[^key-dbc489751cca0cf07acb68fe74551be4]: Commencement: Reg. 11 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-dbc489751cca0cf07acb68fe74551be4]: Commencement: Reg. 11 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
-[^key-c714e161ebcc0f8f70147048b34dbcf0]: Commencement: Reg. 12 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-c714e161ebcc0f8f70147048b34dbcf0]: Commencement: Reg. 12 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
-[^key-d1a08d2087ac078b01b5e92fd25a9d63]: Commencement: Reg. 13 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-d1a08d2087ac078b01b5e92fd25a9d63]: Commencement: Reg. 13 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
-[^key-969d804f8c725d052bc774cb0226001f]: Commencement: Reg. 14 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-969d804f8c725d052bc774cb0226001f]: Commencement: Reg. 14 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
-[^key-84d6f0ba8714465411d23509d6b227aa]: Commencement: Reg. 15 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-84d6f0ba8714465411d23509d6b227aa]: Commencement: Reg. 15 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
-[^key-ab0b5674b3f8e5847d96a109ca704da1]: Commencement: Reg. 16 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-ab0b5674b3f8e5847d96a109ca704da1]: Commencement: Reg. 16 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
-[^key-cbea02baf2994e1437f50cc77e943183]: Commencement: Reg. 17 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-cbea02baf2994e1437f50cc77e943183]: Commencement: Reg. 17 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
-[^key-b9b232a55d3353fbaec42c377856f9dd]: Commencement: Reg. 18 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-b9b232a55d3353fbaec42c377856f9dd]: Commencement: Reg. 18 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
 [^f00028]: Footnote: Section 142A was inserted by section 4(1) of the Financial Services (Banking Reform) Act [2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33).
 
@@ -1342,8 +1342,8 @@ An impact assessment has not been produced, as no, or no significant, impact on 
 
 [^f00030]: Footnote: Subsection (10) was inserted by paragraph 2 of Schedule 9 to the Financial Services (Banking Reform) Act 2013.
 
-[^key-7ee44e22d037ed3630544f64728e0e5a]: Commencement: Reg. 19 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-7ee44e22d037ed3630544f64728e0e5a]: Commencement: Reg. 19 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
 
 [^f00031]: Footnote: [S.I. 2013/556](https://www.legislation.gov.uk/uksi/2013/556). Article 3 was amended by [S.I. 2013/3115](https://www.legislation.gov.uk/uksi/2013/3115); [2017/701](https://www.legislation.gov.uk/uksi/2017/701) and [2019/632](https://www.legislation.gov.uk/uksi/2019/632).
 
-[^key-6542f287a0ab275126aab9a6c8f1f6f6]: Commencement: Reg. 20 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)
+[^c-6542f287a0ab275126aab9a6c8f1f6f6]: Commencement: Reg. 20 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1406/regulation/1/2)

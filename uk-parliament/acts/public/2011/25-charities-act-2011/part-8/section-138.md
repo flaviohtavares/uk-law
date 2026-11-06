@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Preparation of group accounts[^key-7abba7e23d00876d1cdcc8d6776448e3]
+## 138. Preparation of group accounts[^c-7abba7e23d00876d1cdcc8d6776448e3]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ that requirement so applies in addition to the requirement in section 394 of the
 
 ## Annotations
 
-[^key-7abba7e23d00876d1cdcc8d6776448e3]: Modification: [S. 138](https://www.legislation.gov.uk/ukpga/2011/25/section/138) applied (1.1.2018) by [The Charitable Incorporated Organisations (Conversion) Regulations 2017 (S.I. 2017/1232)](https://www.legislation.gov.uk/uksi/2017/1232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1232/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2017/1232/regulation/14)
+[^c-7abba7e23d00876d1cdcc8d6776448e3]: Modification: [S. 138](https://www.legislation.gov.uk/ukpga/2011/25/section/138) applied (1.1.2018) by [The Charitable Incorporated Organisations (Conversion) Regulations 2017 (S.I. 2017/1232)](https://www.legislation.gov.uk/uksi/2017/1232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1232/regulation/1/1), [14](https://www.legislation.gov.uk/uksi/2017/1232/regulation/14)

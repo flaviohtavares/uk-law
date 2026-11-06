@@ -31,11 +31,11 @@ Development of Rural Wales Act 1976 (repealed)
 
 1976 c. 75
 
-[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### Development Board for Rural Wales[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Development Board for Rural Wales[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S*
 
@@ -65,7 +65,7 @@ Development of Rural Wales Act 1976 (repealed)
 - [Section 21 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](section-21.md)
 - [Section 22 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](section-22.md)
 
-### Provisions about the Welsh Development Agency[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Provisions about the Welsh Development Agency[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S*
 
@@ -74,7 +74,7 @@ Development of Rural Wales Act 1976 (repealed)
 - [Section 23 — Amendments of Welsh Development Agency Act 1975.](section-23.md)
 - [Section 24 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](section-24.md)
 
-### Provision for staff at the Council for Small Industries in Rural Areas[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Provision for staff at the Council for Small Industries in Rural Areas[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S*
 
@@ -82,7 +82,7 @@ Development of Rural Wales Act 1976 (repealed)
 
 - [Section 25 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](section-25.md)
 
-### Financial assistance to social bodies in Wales[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Financial assistance to social bodies in Wales[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S*
 
@@ -90,7 +90,7 @@ Development of Rural Wales Act 1976 (repealed)
 
 - [Section 26 — Financial assistance to bodies contributing to the social development of Wales.](section-26.md)
 
-### Supplemental[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
+### Supplemental[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]
 
 *Extent: E+W+S*
 
@@ -110,7 +110,7 @@ Development of Rural Wales Act 1976 (repealed)
 
 **No longer in force.**
 
-[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]SCHEDULES
+[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]SCHEDULES
 
 - [SCHEDULE 1](schedule-1.md)
 - [SCHEDULE 2](schedule-2.md)
@@ -122,4 +122,4 @@ Development of Rural Wales Act 1976 (repealed)
 
 ## Annotations
 
-[^key-d9d2b1b2c1ff1bf2d0143e2d2936e09c]: Textual amendment: Act repealed (E.W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 50](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/50)
+[^c-d9d2b1b2c1ff1bf2d0143e2d2936e09c]: Textual amendment: Act repealed (E.W.) (10.9.2025) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [s. 9(2)(d)](https://www.legislation.gov.uk/asc/2025/3/section/9/2/d), [Sch. 1 para. 50](https://www.legislation.gov.uk/asc/2025/3/schedule/1/paragraph/50)

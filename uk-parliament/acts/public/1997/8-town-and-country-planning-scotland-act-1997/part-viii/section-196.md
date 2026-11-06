@@ -30,7 +30,7 @@ summary: ''
 (3) Nothing in subsection (2) authorises interference with any right of way or right of laying down, erecting, continuing or maintaining apparatus on, under or over land which is—
 
 - (a) a right vested in or belonging to statutory undertakers for the purpose of the carrying on of their undertaking, or
-- (b) a right conferred by or in accordance with the electronic communications code[^key-b01291dc160717e5ec6cf78d0cd12d9d] on the operator of an electronic communications code network[^key-fac54627a923720e89bc8ced235edb03].
+- (b) a right conferred by or in accordance with the electronic communications code[^c-b01291dc160717e5ec6cf78d0cd12d9d] on the operator of an electronic communications code network[^c-fac54627a923720e89bc8ced235edb03].
 
 (4) In respect of any interference or breach in pursuance of subsection (2), compensation—
 
@@ -52,9 +52,9 @@ the liability shall, subject to subsection (6), be enforceable against the plann
 
 ## Annotations
 
-[^key-b01291dc160717e5ec6cf78d0cd12d9d]: Textual amendment: Words in s. 196(3) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(b)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/b)[(2)(e)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/e)
+[^c-b01291dc160717e5ec6cf78d0cd12d9d]: Textual amendment: Words in s. 196(3) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(b)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/b)[(2)(e)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/e)
 
-[^key-fac54627a923720e89bc8ced235edb03]: Textual amendment: Words in s. 196(3) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(b)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/b)[(2)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/a)
+[^c-fac54627a923720e89bc8ced235edb03]: Textual amendment: Words in s. 196(3) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 13(1)(b)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/1/b)[(2)(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/13/2/a)
 
 [^c950196]: Marginal citation: [1845 c. 19](https://www.legislation.gov.uk/ukpga/1845/19).
 

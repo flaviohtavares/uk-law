@@ -22,12 +22,12 @@ summary: ''
 
 1. It shall be prohibited to fish with a fishing vessel that is equipped with an engine the power of which exceeds the one established in the fishing licence.
 
-2.[^key-d5250496f66610d691b0e42d71f11eff] A fisheries administration must ensure that the certified engine power is not exceeded.
+2.[^c-d5250496f66610d691b0e42d71f11eff] A fisheries administration must ensure that the certified engine power is not exceeded.
 
-3. A fisheries administration[^key-8262c6e0d021b9b710a6c54011915f45] may charge parts or all costs arising from the certification of engine power to the operators of the fishing vessels.
+3. A fisheries administration[^c-8262c6e0d021b9b710a6c54011915f45] may charge parts or all costs arising from the certification of engine power to the operators of the fishing vessels.
 
 ## Annotations
 
-[^key-d5250496f66610d691b0e42d71f11eff]: Textual amendment: [Art. 39(2)](https://www.legislation.gov.uk/eur/2009/1224/article/39/2) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(37)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/37/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d5250496f66610d691b0e42d71f11eff]: Textual amendment: [Art. 39(2)](https://www.legislation.gov.uk/eur/2009/1224/article/39/2) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(37)(a)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/37/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8262c6e0d021b9b710a6c54011915f45]: Textual amendment: Words in [Art. 39(3)](https://www.legislation.gov.uk/eur/2009/1224/article/39/3) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(37)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/37/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8262c6e0d021b9b710a6c54011915f45]: Textual amendment: Words in [Art. 39(3)](https://www.legislation.gov.uk/eur/2009/1224/article/39/3) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(37)(b)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/37/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Remote sale and letting of crossbows: Northern Ireland[^key-f1b78e55d11e52948a9454f6ae1f09c2]
+## 39. Remote sale and letting of crossbows: Northern Ireland[^c-f1b78e55d11e52948a9454f6ae1f09c2]
 
 *Extent: N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1b78e55d11e52948a9454f6ae1f09c2]: Commencement: S. 39 not in force at Royal Assent, see [s. 255(8)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/b)
+[^c-f1b78e55d11e52948a9454f6ae1f09c2]: Commencement: S. 39 not in force at Royal Assent, see [s. 255(8)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/8/b)

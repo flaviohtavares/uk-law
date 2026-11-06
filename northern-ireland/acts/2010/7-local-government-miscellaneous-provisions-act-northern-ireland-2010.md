@@ -34,13 +34,13 @@ An Act to make provision about the powers of district councils to enter into con
 
 \[26th March 2010\]
 
-BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^key-18e61bff9be0f4b3f91e1068197e7344]
+BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to by Her Majesty as follows:[^c-18e61bff9be0f4b3f91e1068197e7344]
 
-## PART 1 — CONTRACTS OF COUNCILS[^key-007a65b417cd94f6c4e07e3be85538f9][^c21959471][^c21959481]
+## PART 1 — CONTRACTS OF COUNCILS[^c-007a65b417cd94f6c4e07e3be85538f9][^c21959471][^c21959481]
 
 ### Contracts for provision of assets or services
 
-#### 1. Functions to include power to enter contracts[^key-56f81d67e31090cd5f6c7f2428a0fb2d]
+#### 1. Functions to include power to enter contracts[^c-56f81d67e31090cd5f6c7f2428a0fb2d]
 
 (1) Every statutory provision conferring or imposing a function on a district council confers power on the district council to enter into a contract with another person for the provision or making available of assets or services, or both, for the purposes of, or in connection with, the discharge of the function by the district council.
 
@@ -55,7 +55,7 @@ the statutory provision also confers power on the district council to enter into
 
 ### Certified contracts
 
-#### 2. Certified contracts to be intra vires[^key-56f81d67e31090cd5f6c7f2428a0fb2d]
+#### 2. Certified contracts to be intra vires[^c-56f81d67e31090cd5f6c7f2428a0fb2d]
 
 (1) Where a district council has entered into a contract, the contract shall, if it is a certified contract, have effect (and be deemed always to have had effect) as if the district council had had power to enter into it (and had exercised that power properly in entering into it).
 
@@ -70,14 +70,14 @@ the statutory provision also confers power on the district council to enter into
 
 (5) In this Part “**the certification period**”, in relation to a contract entered into by a district council, means the period of 6 weeks beginning with the day on which the district council entered into the contract.
 
-(6) Subsection (1) is subject to section 5 (special provisions about judicial reviews [^key-4144bf3720a33cdd5eef922c4f9ab761]...).
+(6) Subsection (1) is subject to section 5 (special provisions about judicial reviews [^c-4144bf3720a33cdd5eef922c4f9ab761]...).
 
 (7) The application of subsection (1) in relation to a contract entered into by a district council does not affect any claim for damages made by a person who is not (and has never been) a party to the contract in respect of a breach by the district council of any duty to do, or not to do, something before entering into the contract, including, in particular, any such duty imposed by—
 
 - (a) a statutory provision for giving effect to any Community obligation relating to public procurement; or
 - (b) Article 19(1) of the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 1992 (NI 6).
 
-#### 3. The certification requirements[^c20282771][^key-56f81d67e31090cd5f6c7f2428a0fb2d]
+#### 3. The certification requirements[^c20282771][^c-56f81d67e31090cd5f6c7f2428a0fb2d]
 
 (1) In this Part “**the certification requirements**”, in relation to a contract entered into by a district council, means the requirements specified in subsections (2) to (4).
 
@@ -107,7 +107,7 @@ the statutory provision also confers power on the district council to enter into
 
 (7) The Department may by regulations amend subsection (5) or (6).
 
-#### 4. Certified contracts: supplementary[^key-56f81d67e31090cd5f6c7f2428a0fb2d]
+#### 4. Certified contracts: supplementary[^c-56f81d67e31090cd5f6c7f2428a0fb2d]
 
 (1) This section applies where the certification requirements have been satisfied by a district council.
 
@@ -118,21 +118,21 @@ the statutory provision also confers power on the district council to enter into
 - (a) a copy of the certificate which has been issued is open to inspection by members of the public at all reasonable times without payment; and
 - (b) members of the public are afforded facilities for obtaining copies of that certificate on payment of a reasonable fee.
 
-#### 5. Special provision for judicial reviews ...[^key-56f81d67e31090cd5f6c7f2428a0fb2d][^key-4f819bf5ccd6fab6e91904f312e67b3d]
+#### 5. Special provision for judicial reviews ...[^c-56f81d67e31090cd5f6c7f2428a0fb2d][^c-4f819bf5ccd6fab6e91904f312e67b3d]
 
 (1) Section 2(1) does not apply for the purposes of determining any question arising on—
 
-- (a) an application for judicial review, [^key-d05f4c4012df87b9a1a06a2f4d33fee3]...
-- (b)[^key-d05f4c4012df87b9a1a06a2f4d33fee3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an application for judicial review, [^c-d05f4c4012df87b9a1a06a2f4d33fee3]...
+- (b)[^c-d05f4c4012df87b9a1a06a2f4d33fee3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 as to whether a district council had power to enter into a contract (or exercised any power properly in entering into a contract).
 
 (2) Section 2(1) has effect subject to any determination or order made in relation to a certified contract on—
 
-- (a) an application for judicial review, [^key-85791c06b6dea77028cd81cfde5b92f1]...
-- (b)[^key-85791c06b6dea77028cd81cfde5b92f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an application for judicial review, [^c-85791c06b6dea77028cd81cfde5b92f1]...
+- (b)[^c-85791c06b6dea77028cd81cfde5b92f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Where, on an application for judicial review [^key-3a64e48e1588605d525d07173c805358]... relating to a certified contract entered into by a district council, a court—
+(3) Where, on an application for judicial review [^c-3a64e48e1588605d525d07173c805358]... relating to a certified contract entered into by a district council, a court—
 
 - (a) is of the opinion that the district council did not have power to enter into the contract (or exercised any power improperly in entering into it), but
 - (b) (having regard in particular to the likely consequences for the financial position of the district council, and for the provision of services to the public, of a decision that the contract should not have effect) considers that the contract should have effect,
@@ -141,12 +141,12 @@ the court may determine that the contract has (and always has had) effect as if 
 
 (4) In this section and sections 6 and 7 references to an application for judicial review include any appeal (or further appeal) against a determination or order made on such an application.
 
-#### 6. Relevant discharge terms[^key-56f81d67e31090cd5f6c7f2428a0fb2d]
+#### 6. Relevant discharge terms[^c-56f81d67e31090cd5f6c7f2428a0fb2d]
 
 (1) No determination or order made in relation to a certified contract on—
 
-- (a) an application for judicial review, [^key-124b6814e3cb7e84fd6afcb7db10d29e]...
-- (b)[^key-124b6814e3cb7e84fd6afcb7db10d29e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) an application for judicial review, [^c-124b6814e3cb7e84fd6afcb7db10d29e]...
+- (b)[^c-124b6814e3cb7e84fd6afcb7db10d29e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 shall affect the enforceability of any relevant discharge terms relating to the contract.
 
@@ -154,7 +154,7 @@ shall affect the enforceability of any relevant discharge terms relating to the 
 
 - (a) which have been agreed by the district council and any person with whom the district council entered into the contract;
 - (b) which either form part of the contract or constitute or form part of another agreement entered into by them not later than the day on which the contract was entered into; and
-- (c) which provide for a consequence mentioned in subsection (3) to ensue in the event of the making of a determination or order in relation to the contract on an application for judicial review [^key-7b23d1ef4986c735c76930ee80a8aa89]....
+- (c) which provide for a consequence mentioned in subsection (3) to ensue in the event of the making of a determination or order in relation to the contract on an application for judicial review [^c-7b23d1ef4986c735c76930ee80a8aa89]....
 
 (3) Those consequences are—
 
@@ -164,11 +164,11 @@ shall affect the enforceability of any relevant discharge terms relating to the 
 
 (4) Where a district council has agreed relevant discharge terms with any person with whom it has entered into a contract and the contract is a certified contract, the relevant discharge terms shall have effect (and be deemed always to have had effect) as if the district council had had power to agree them (and had exercised that power properly in agreeing them).
 
-#### 7. Absence of relevant discharge terms[^key-56f81d67e31090cd5f6c7f2428a0fb2d]
+#### 7. Absence of relevant discharge terms[^c-56f81d67e31090cd5f6c7f2428a0fb2d]
 
 (1) Subsection (2) applies where—
 
-- (a) the result of a determination or order made by a court on an application for judicial review [^key-569d6325a775b1f8a087b51edd8ff7d5]... is that a certified contract does not have effect; and
+- (a) the result of a determination or order made by a court on an application for judicial review [^c-569d6325a775b1f8a087b51edd8ff7d5]... is that a certified contract does not have effect; and
 - (b) there are no relevant discharge terms having effect between the district council and a person who is a party to the contract.
 
 (2) That person shall be entitled to be paid by the district council such sums (if any) as that person would have been entitled to be paid by the district council if the contract—
@@ -176,16 +176,16 @@ shall affect the enforceability of any relevant discharge terms relating to the 
 - (a) had had effect until the time when the determination or order was made; but
 - (b) had been terminated at that time by acceptance by that person of a repudiatory breach by the district council.
 
-(3) For the purposes of this section the circumstances in which there are no relevant discharge terms having effect between the district council and a person who is a party to the contract include (as well as circumstances in which no such terms have been agreed) circumstances in which the result of a determination or order of a court, made (despite section 6(4)) on an application for judicial review [^key-2e81f24502595f6afbe83d6cde9c1d0a]..., is that such terms do not have effect.
+(3) For the purposes of this section the circumstances in which there are no relevant discharge terms having effect between the district council and a person who is a party to the contract include (as well as circumstances in which no such terms have been agreed) circumstances in which the result of a determination or order of a court, made (despite section 6(4)) on an application for judicial review [^c-2e81f24502595f6afbe83d6cde9c1d0a]..., is that such terms do not have effect.
 
-#### 8. Interpretation of this Part[^key-56f81d67e31090cd5f6c7f2428a0fb2d]
+#### 8. Interpretation of this Part[^c-56f81d67e31090cd5f6c7f2428a0fb2d]
 
 In this Part—
 
-- [^key-2bddb57484356e6abcd589c1371e837e]...**[^key-2bddb57484356e6abcd589c1371e837e]...**[^key-2bddb57484356e6abcd589c1371e837e]...
-  - (a) [^key-2bddb57484356e6abcd589c1371e837e]...[^key-2bddb57484356e6abcd589c1371e837e]...[^key-2bddb57484356e6abcd589c1371e837e]...
-  - (b) [^key-2bddb57484356e6abcd589c1371e837e]...
-  - (c) [^key-2bddb57484356e6abcd589c1371e837e]...
+- [^c-2bddb57484356e6abcd589c1371e837e]...**[^c-2bddb57484356e6abcd589c1371e837e]...**[^c-2bddb57484356e6abcd589c1371e837e]...
+  - (a) [^c-2bddb57484356e6abcd589c1371e837e]...[^c-2bddb57484356e6abcd589c1371e837e]...[^c-2bddb57484356e6abcd589c1371e837e]...
+  - (b) [^c-2bddb57484356e6abcd589c1371e837e]...
+  - (c) [^c-2bddb57484356e6abcd589c1371e837e]...
 - “**the certification period**” has the meaning given by section 2(5);
 - “**the certification requirements**” has the meaning given by section 3(1).
 
@@ -205,11 +205,11 @@ In this Part—
 - (a) “**successor council**”, in relation to an existing council, means the new council whose district is, in accordance with section 1 of the Local Government (Boundaries) Act (Northern Ireland) 2008, to incorporate the whole or the major part of the district of the existing council; and
 - (b) in relation to a new council, an existing council is a “predecessor council” if the whole or the major part of the district of the existing council is, in accordance with that section, to be incorporated in the district of the new council.
 
-### CHAPTER 2 — CONTROL OF DISPOSALS AND CONTRACTS OF EXISTING COUNCILSAND THEIR FINANCES[^key-d21465ffbef625011d05612a454becd0]
+### CHAPTER 2 — CONTROL OF DISPOSALS AND CONTRACTS OF EXISTING COUNCILSAND THEIR FINANCES[^c-d21465ffbef625011d05612a454becd0]
 
-#### 10. Control of disposals and contracts of existing councils and their finances[^key-9f7f8bb0ede6107da9fdfd961a74af3e]
+#### 10. Control of disposals and contracts of existing councils and their finances[^c-9f7f8bb0ede6107da9fdfd961a74af3e]
 
-(1) The Department may direct that, with effect from a specified date, an existing council shall not, without the written consent of its successor council or[^key-d524d03e07bf2f6301784b51daf05b08]a specified statutory transition committee—
+(1) The Department may direct that, with effect from a specified date, an existing council shall not, without the written consent of its successor council or[^c-d524d03e07bf2f6301784b51daf05b08]a specified statutory transition committee—
 
 - (a) dispose of any land if the consideration for the disposal exceeds a specified sum;
 - (b) enter into any capital contract—
@@ -218,7 +218,7 @@ In this Part—
 - (c) enter into any non-capital contract under which the consideration payable by the council exceeds a specified sum, where—
   - (i) the period of the contract extends beyond a specified date; or
   - (ii) under the terms of the contract, that period may be extended beyond that date.
-- (d)[^key-b22fa69a19d8f5d37ac74c924eebd632] borrow any sum exceeding a specified sum (or any sums exceeding in total any specified sum);
+- (d)[^c-b22fa69a19d8f5d37ac74c924eebd632] borrow any sum exceeding a specified sum (or any sums exceeding in total any specified sum);
 - (e) reduce any financial reserve of a specified description below a specified limit.
 
 (2) In subsection (1)—
@@ -227,7 +227,7 @@ In this Part—
 - “**capital expenditure**” means expenditure which falls to be capitalised in accordance with proper practices (within the meaning of Article 6(3) of the Local Government (Northern Ireland) Order 2005 (NI 18));
 - “**non-capital contract**” means a contract which is not a capital contract.
 
-(3) A direction under subsection (1)(b) or (c) may provide that the consent of a successor council or[^key-a91238fa6b23e1c6eb3e31d3f89e56c4]a specified statutory transition committee is not required in relation to a contract of a specified description.
+(3) A direction under subsection (1)(b) or (c) may provide that the consent of a successor council or[^c-a91238fa6b23e1c6eb3e31d3f89e56c4]a specified statutory transition committee is not required in relation to a contract of a specified description.
 
 (4) A direction—
 
@@ -261,7 +261,7 @@ In this Part—
 (4) Where—
 
 - (a) a question arises in relation to a direction as to the value of any consideration, and
-- (b) the existing council concerned and its successor council or[^key-bcbca33aebffdbcb29d846de09df622f] the specified statutory transition committee fail to reach agreement,
+- (b) the existing council concerned and its successor council or[^c-bcbca33aebffdbcb29d846de09df622f] the specified statutory transition committee fail to reach agreement,
 
 the value is to be determined by the Department.
 
@@ -280,12 +280,12 @@ the value is to be determined by the Department.
 
 (1) This section applies where—
 
-- (a) the consent ofa successor council or[^key-aff5fb1f303fe87de4827f7830d70eb9] a statutory transition committee is required in relation to a proposed disposal or contract of an existing council; and
-- (b) that consent is refused by the successor council or[^key-24bfa7db9228af965b9964212f6c166b] the statutory transition committee or is given subject to conditions.
+- (a) the consent ofa successor council or[^c-aff5fb1f303fe87de4827f7830d70eb9] a statutory transition committee is required in relation to a proposed disposal or contract of an existing council; and
+- (b) that consent is refused by the successor council or[^c-24bfa7db9228af965b9964212f6c166b] the statutory transition committee or is given subject to conditions.
 
-(2) The existing council may refer the decision of the successor council or[^key-e09a2a05e3829aa573856a7a21080528] the statutory transition committee to the Department.
+(2) The existing council may refer the decision of the successor council or[^c-e09a2a05e3829aa573856a7a21080528] the statutory transition committee to the Department.
 
-(3) Where the decision [^key-ba4fe64d1cc3f734d6c9f68fa7c39d4a]... is referred to the Department under this section, the Department may—
+(3) Where the decision [^c-ba4fe64d1cc3f734d6c9f68fa7c39d4a]... is referred to the Department under this section, the Department may—
 
 - (a) confirm that decision;
 - (b) if consent has been given subject to conditions, amend or revoke any such condition;
@@ -293,7 +293,7 @@ the value is to be determined by the Department.
 
 (4) The decision of the Department under this section in relation to any consent or conditions—
 
-- (a) has effect for the purposes of this Chapter (except this section) as if made by the successor council or[^key-a2baa1028fb0098caad4ff6c22c54d6e] statutory transition committee; and
+- (a) has effect for the purposes of this Chapter (except this section) as if made by the successor council or[^c-a2baa1028fb0098caad4ff6c22c54d6e] statutory transition committee; and
 - (b) is final.
 
 #### 14. Contravention of direction
@@ -368,7 +368,7 @@ the value is to be determined by the Department.
   - (b) the Local Government (Miscellaneous Provisions) (Northern Ireland) Order 2002 (NI 3);
   - (c) Part 2 of the Local Government (Northern Ireland) Order 2005 (NI 18);
   - (cc) the Local Government Finance Act (Northern Ireland) 2011;[^c22529341]
-  - (cd) the Local Government Act (Northern Ireland) 2014;[^key-7a3ed27a6a408a24d56f72d2de122834]
+  - (cd) the Local Government Act (Northern Ireland) 2014;[^c-7a3ed27a6a408a24d56f72d2de122834]
   - (d) Chapter 2; and
   - (e) any regulations or orders made under any of the above;
 - “**rating legislation**” means—
@@ -420,7 +420,7 @@ the value is to be determined by the Department.
 
 ### Acquisition of land otherwise than by agreement
 
-#### 21. Acquisition of land otherwise than by agreement[^c21959491][^c21959501][^key-633557b460c5551e0fcad0262fccd530][^key-101f6a9a2e42e65014c0ac44d4a3838a]
+#### 21. Acquisition of land otherwise than by agreement[^c21959491][^c21959501][^c-633557b460c5551e0fcad0262fccd530][^c-101f6a9a2e42e65014c0ac44d4a3838a]
 
 A district council may acquire land otherwise than by agreement for the purposes of Part 2 of the Waste and Contaminated Land (Northern Ireland) Order 1997 (NI 19).
 
@@ -428,7 +428,7 @@ A district council may acquire land otherwise than by agreement for the purposes
 
 #### 22. Exercise of waste management functions of councils
 
-(1)[^c21959511][^c21959521][^key-5b9be2e5db511d95cfbb7d6c4824a325][^key-fd9dc7e22f0ba0b99cdfcb5a88cf9ab3] For the purposes of this section—
+(1)[^c21959511][^c21959521][^c-5b9be2e5db511d95cfbb7d6c4824a325][^c-fd9dc7e22f0ba0b99cdfcb5a88cf9ab3] For the purposes of this section—
 
 - “**joint committee**” means a committee appointed by two or more district councils under section 19 of the Local Government Act (Northern Ireland) 1972 (c. 9) and “**incorporated joint committee**” means a joint committee in relation to which an order under subsection (9) of that section is in force;
 - “waste management functions” are functions exercisable by a district council or incorporated joint committee—
@@ -436,7 +436,7 @@ A district council may acquire land otherwise than by agreement for the purposes
   - (b) for the purposes of, or in connection with, the exercise of such functions;
 - “**waste management contract**” means a contract for the purposes of, or in connection with, the carrying out of waste management functions.
 
-(2)[^c21959531][^c21959541][^key-5b9be2e5db511d95cfbb7d6c4824a325][^key-fd9dc7e22f0ba0b99cdfcb5a88cf9ab3] A district council has power to enter into a waste management contract containing—
+(2)[^c21959531][^c21959541][^c-5b9be2e5db511d95cfbb7d6c4824a325][^c-fd9dc7e22f0ba0b99cdfcb5a88cf9ab3] A district council has power to enter into a waste management contract containing—
 
 - (a) terms under which the council guarantees, or provides warranties or indemnities in relation to, the performance by any other district council or any incorporated joint committee of its obligations under that or any other waste management contract;
 - (b) terms which impose joint or several liability on the council and any other district council or incorporated joint committee in respect of a breach of a term of that or any other waste management contract.
@@ -525,79 +525,79 @@ This Act may be cited as the Local Government (Miscellaneous Provisions) Act (No
 
 ## Annotations
 
-[^key-18e61bff9be0f4b3f91e1068197e7344]: Modification: [Act](https://www.legislation.gov.uk/nia/2010/7): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-18e61bff9be0f4b3f91e1068197e7344]: Modification: [Act](https://www.legislation.gov.uk/nia/2010/7): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/1) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-007a65b417cd94f6c4e07e3be85538f9]: Modification: Pt. 1 applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [9](https://www.legislation.gov.uk/nisr/2012/10/article/9)
+[^c-007a65b417cd94f6c4e07e3be85538f9]: Modification: Pt. 1 applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [9](https://www.legislation.gov.uk/nisr/2012/10/article/9)
 
 [^c21959471]: Modification: Pt. 1 applied by [S.R. 2004/49](https://www.legislation.gov.uk/nisr/2004/49), [art. 6A(a)](https://www.legislation.gov.uk/nisr/2004/49/article/6A/a) (as inserted (27.3.2010) by [Local Government (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 7)](https://www.legislation.gov.uk/nia/2010/7), [ss. 23(1)](https://www.legislation.gov.uk/nia/2010/7/section/23/1), [26(1)(c)](https://www.legislation.gov.uk/nia/2010/7/section/26/1/c))
 
 [^c21959481]: Modification: Pt. 1 applied by [S.R. 2008/310](https://www.legislation.gov.uk/nisr/2008/310), [art. 6A(a)](https://www.legislation.gov.uk/nisr/2008/310/article/6A/a) (as inserted (27.3.2010) by [Local Government (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 7)](https://www.legislation.gov.uk/nia/2010/7), [ss. 23(2)](https://www.legislation.gov.uk/nia/2010/7/section/23/2), [26(1)(c)](https://www.legislation.gov.uk/nia/2010/7/section/26/1/c))
 
-[^key-56f81d67e31090cd5f6c7f2428a0fb2d]: Modification: Ss. 1-8 applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [arts. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [9](https://www.legislation.gov.uk/nisr/2015/183/article/9)
+[^c-56f81d67e31090cd5f6c7f2428a0fb2d]: Modification: Ss. 1-8 applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [arts. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [9](https://www.legislation.gov.uk/nisr/2015/183/article/9)
 
-[^key-4144bf3720a33cdd5eef922c4f9ab761]: Textual amendment: Words in s. 2(6) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-4144bf3720a33cdd5eef922c4f9ab761]: Textual amendment: Words in s. 2(6) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
 [^c20282771]: Commencement: S. 3 wholly in operation at 1.8.2011; s. 3 in operation for specified purposes at 27.3.2010 see s. 26(1)(a); s. 3 in operation at 1.8.2011 in so far as not already in operation by [S.R. 2011/227](https://www.legislation.gov.uk/nisr/2011/227), [art. 2](https://www.legislation.gov.uk/nisr/2011/227/article/2)
 
-[^key-4f819bf5ccd6fab6e91904f312e67b3d]: Textual amendment: Words in heading to [s. 5](https://www.legislation.gov.uk/nia/2010/7/section/5/3) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-4f819bf5ccd6fab6e91904f312e67b3d]: Textual amendment: Words in heading to [s. 5](https://www.legislation.gov.uk/nia/2010/7/section/5/3) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-d05f4c4012df87b9a1a06a2f4d33fee3]: Textual amendment: S. 5(1)(b) and preceding word repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-d05f4c4012df87b9a1a06a2f4d33fee3]: Textual amendment: S. 5(1)(b) and preceding word repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-85791c06b6dea77028cd81cfde5b92f1]: Textual amendment: S. 5(2)(b) and preceding word repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-85791c06b6dea77028cd81cfde5b92f1]: Textual amendment: S. 5(2)(b) and preceding word repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-3a64e48e1588605d525d07173c805358]: Textual amendment: Words in s. 5(3) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-3a64e48e1588605d525d07173c805358]: Textual amendment: Words in s. 5(3) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-124b6814e3cb7e84fd6afcb7db10d29e]: Textual amendment: [S. 6(1)(b)](https://www.legislation.gov.uk/nia/2010/7/section/6/1/b) and preceding word repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-124b6814e3cb7e84fd6afcb7db10d29e]: Textual amendment: [S. 6(1)(b)](https://www.legislation.gov.uk/nia/2010/7/section/6/1/b) and preceding word repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-7b23d1ef4986c735c76930ee80a8aa89]: Textual amendment: Words in [s. 6(2)(c)](https://www.legislation.gov.uk/nia/2010/7/section/6/2/c) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-7b23d1ef4986c735c76930ee80a8aa89]: Textual amendment: Words in [s. 6(2)(c)](https://www.legislation.gov.uk/nia/2010/7/section/6/2/c) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-569d6325a775b1f8a087b51edd8ff7d5]: Textual amendment: Words in [s. 7(1)(a)](https://www.legislation.gov.uk/nia/2010/7/section/7/1/a) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-569d6325a775b1f8a087b51edd8ff7d5]: Textual amendment: Words in [s. 7(1)(a)](https://www.legislation.gov.uk/nia/2010/7/section/7/1/a) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-2e81f24502595f6afbe83d6cde9c1d0a]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/nia/2010/7/section/7/3) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-2e81f24502595f6afbe83d6cde9c1d0a]: Textual amendment: Words in [s. 7(3)](https://www.legislation.gov.uk/nia/2010/7/section/7/3) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-2bddb57484356e6abcd589c1371e837e]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/nia/2010/7/section/8) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-2bddb57484356e6abcd589c1371e837e]: Textual amendment: Words in [s. 8](https://www.legislation.gov.uk/nia/2010/7/section/8) repealed (1.4.2015) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
 
-[^key-d21465ffbef625011d05612a454becd0]: Textual amendment: Words in [Pt. 2 Ch. 2](https://www.legislation.gov.uk/nia/2010/7/part/2/chapter/2) added (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(2)](https://www.legislation.gov.uk/nia/2014/8/section/116/2), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-d21465ffbef625011d05612a454becd0]: Textual amendment: Words in [Pt. 2 Ch. 2](https://www.legislation.gov.uk/nia/2010/7/part/2/chapter/2) added (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(2)](https://www.legislation.gov.uk/nia/2014/8/section/116/2), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-9f7f8bb0ede6107da9fdfd961a74af3e]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/nia/2010/7/section/10) added (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(3)(a)](https://www.legislation.gov.uk/nia/2014/8/section/116/3/a), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-9f7f8bb0ede6107da9fdfd961a74af3e]: Textual amendment: Words in [s. 10](https://www.legislation.gov.uk/nia/2010/7/section/10) added (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(3)(a)](https://www.legislation.gov.uk/nia/2014/8/section/116/3/a), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-d524d03e07bf2f6301784b51daf05b08]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/nia/2010/7/section/10/1) added (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(3)(b)](https://www.legislation.gov.uk/nia/2014/8/section/116/3/b), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-d524d03e07bf2f6301784b51daf05b08]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/nia/2010/7/section/10/1) added (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(3)(b)](https://www.legislation.gov.uk/nia/2014/8/section/116/3/b), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-b22fa69a19d8f5d37ac74c924eebd632]: Textual amendment: [S. 10(1)(d)](https://www.legislation.gov.uk/nia/2010/7/section/10/1/d)[(e)](https://www.legislation.gov.uk/nia/2010/7/section/10/1/e) added (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(3)(c)](https://www.legislation.gov.uk/nia/2014/8/section/116/3/c), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-b22fa69a19d8f5d37ac74c924eebd632]: Textual amendment: [S. 10(1)(d)](https://www.legislation.gov.uk/nia/2010/7/section/10/1/d)[(e)](https://www.legislation.gov.uk/nia/2010/7/section/10/1/e) added (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(3)(c)](https://www.legislation.gov.uk/nia/2014/8/section/116/3/c), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-a91238fa6b23e1c6eb3e31d3f89e56c4]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/nia/2010/7/section/10/3) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(3)(d)](https://www.legislation.gov.uk/nia/2014/8/section/116/3/d), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-a91238fa6b23e1c6eb3e31d3f89e56c4]: Textual amendment: Words in [s. 10(3)](https://www.legislation.gov.uk/nia/2010/7/section/10/3) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(3)(d)](https://www.legislation.gov.uk/nia/2014/8/section/116/3/d), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-bcbca33aebffdbcb29d846de09df622f]: Textual amendment: Words in [s. 11(4)(b)](https://www.legislation.gov.uk/nia/2010/7/section/11/4/b) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(4)](https://www.legislation.gov.uk/nia/2014/8/section/116/4), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-bcbca33aebffdbcb29d846de09df622f]: Textual amendment: Words in [s. 11(4)(b)](https://www.legislation.gov.uk/nia/2010/7/section/11/4/b) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(4)](https://www.legislation.gov.uk/nia/2014/8/section/116/4), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-aff5fb1f303fe87de4827f7830d70eb9]: Textual amendment: Words in [s. 13(1)(a)](https://www.legislation.gov.uk/nia/2010/7/section/13/1/a) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(5)(a)(i)](https://www.legislation.gov.uk/nia/2014/8/section/116/5/a/i), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-aff5fb1f303fe87de4827f7830d70eb9]: Textual amendment: Words in [s. 13(1)(a)](https://www.legislation.gov.uk/nia/2010/7/section/13/1/a) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(5)(a)(i)](https://www.legislation.gov.uk/nia/2014/8/section/116/5/a/i), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-24bfa7db9228af965b9964212f6c166b]: Textual amendment: Words in [s. 13(1)(b)](https://www.legislation.gov.uk/nia/2010/7/section/13/1/b) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(5)(a)(ii)](https://www.legislation.gov.uk/nia/2014/8/section/116/5/a/ii), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-24bfa7db9228af965b9964212f6c166b]: Textual amendment: Words in [s. 13(1)(b)](https://www.legislation.gov.uk/nia/2010/7/section/13/1/b) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(5)(a)(ii)](https://www.legislation.gov.uk/nia/2014/8/section/116/5/a/ii), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-e09a2a05e3829aa573856a7a21080528]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/nia/2010/7/section/13/2) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(5)(b)](https://www.legislation.gov.uk/nia/2014/8/section/116/5/b), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-e09a2a05e3829aa573856a7a21080528]: Textual amendment: Words in [s. 13(2)](https://www.legislation.gov.uk/nia/2010/7/section/13/2) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(5)(b)](https://www.legislation.gov.uk/nia/2014/8/section/116/5/b), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-ba4fe64d1cc3f734d6c9f68fa7c39d4a]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/nia/2010/7/section/13/3) repealed (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(5)(c)](https://www.legislation.gov.uk/nia/2014/8/section/116/5/c), [129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Schs. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1 and words expressed to be repealed by Sch. 10 of said Act and SR 2015/209](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-ba4fe64d1cc3f734d6c9f68fa7c39d4a]: Textual amendment: Words in [s. 13(3)](https://www.legislation.gov.uk/nia/2010/7/section/13/3) repealed (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(5)(c)](https://www.legislation.gov.uk/nia/2014/8/section/116/5/c), [129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Schs. 10](https://www.legislation.gov.uk/nia/2014/8/schedule/10) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1 and words expressed to be repealed by Sch. 10 of said Act and SR 2015/209](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
-[^key-a2baa1028fb0098caad4ff6c22c54d6e]: Textual amendment: Words in [s. 13(4)(a)](https://www.legislation.gov.uk/nia/2010/7/section/13/4/a) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(5)(d)](https://www.legislation.gov.uk/nia/2014/8/section/116/5/d), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-a2baa1028fb0098caad4ff6c22c54d6e]: Textual amendment: Words in [s. 13(4)(a)](https://www.legislation.gov.uk/nia/2010/7/section/13/4/a) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [ss. 116(5)(d)](https://www.legislation.gov.uk/nia/2014/8/section/116/5/d), [129](https://www.legislation.gov.uk/nia/2014/8/section/129) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
 [^c22529341]: Textual amendment: S. 17(2)(cc) inserted (1.4.2012) by virtue of [Local Government Finance Act (Northern Ireland) 2011 (c. 10)](https://www.legislation.gov.uk/nia/2011/10), [ss. 45](https://www.legislation.gov.uk/nia/2011/10/section/45), [47(2)](https://www.legislation.gov.uk/nia/2011/10/section/47/2), [Sch. 1 para. 7](https://www.legislation.gov.uk/nia/2011/10/schedule/1/paragraph/7); [S.R. 2011/306](https://www.legislation.gov.uk/nisr/2011/306), [art. 2(3)](https://www.legislation.gov.uk/nisr/2011/306/article/2/3)
 
-[^key-7a3ed27a6a408a24d56f72d2de122834]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/nia/2010/7/section/17/2) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 9 para. 7](https://www.legislation.gov.uk/nia/2014/8/schedule/9/paragraph/7) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
+[^c-7a3ed27a6a408a24d56f72d2de122834]: Textual amendment: Words in [s. 17(2)](https://www.legislation.gov.uk/nia/2010/7/section/17/2) inserted (2.6.2014) by [Local Government Act (Northern Ireland) 2014 (c. 8)](https://www.legislation.gov.uk/nia/2014/8), [s. 129](https://www.legislation.gov.uk/nia/2014/8/section/129), [Sch. 9 para. 7](https://www.legislation.gov.uk/nia/2014/8/schedule/9/paragraph/7) (with [s. 124(4)](https://www.legislation.gov.uk/nia/2014/8/section/124/4)); [S.R. 2014/153](https://www.legislation.gov.uk/nisr/2014/153), [art. 2](https://www.legislation.gov.uk/nisr/2014/153/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2014/153/schedule/1)
 
 [^c21959491]: Modification: S. 21 applied by [S.R. 2004/49](https://www.legislation.gov.uk/nisr/2004/49), [art. 6A(b)](https://www.legislation.gov.uk/nisr/2004/49/article/6A/b) (as inserted (27.3.2010) by [Local Government (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 7)](https://www.legislation.gov.uk/nia/2010/7), [ss. 23(1)](https://www.legislation.gov.uk/nia/2010/7/section/23/1), [26(1)(c)](https://www.legislation.gov.uk/nia/2010/7/section/26/1/c))
 
 [^c21959501]: Modification: S. 21 applied by [S.R. 2008/310](https://www.legislation.gov.uk/nisr/2008/310), [art. 6A(b)](https://www.legislation.gov.uk/nisr/2008/310/article/6A/b) (as inserted (27.3.2010) by [Local Government (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 7)](https://www.legislation.gov.uk/nia/2010/7), [ss. 23(2)](https://www.legislation.gov.uk/nia/2010/7/section/23/2), [26(1)(c)](https://www.legislation.gov.uk/nia/2010/7/section/26/1/c))
 
-[^key-633557b460c5551e0fcad0262fccd530]: Modification: S. 21 applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [9](https://www.legislation.gov.uk/nisr/2012/10/article/9)
+[^c-633557b460c5551e0fcad0262fccd530]: Modification: S. 21 applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [9](https://www.legislation.gov.uk/nisr/2012/10/article/9)
 
-[^key-101f6a9a2e42e65014c0ac44d4a3838a]: Modification: S. 21 applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [arts. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [9](https://www.legislation.gov.uk/nisr/2015/183/article/9)
+[^c-101f6a9a2e42e65014c0ac44d4a3838a]: Modification: S. 21 applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [arts. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [9](https://www.legislation.gov.uk/nisr/2015/183/article/9)
 
 [^c21959511]: Modification: S. 22(1) applied by [S.R. 2004/49](https://www.legislation.gov.uk/nisr/2004/49), [art. 6A(c)](https://www.legislation.gov.uk/nisr/2004/49/article/6A/c) (as inserted (27.3.2010) by [Local Government (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 7)](https://www.legislation.gov.uk/nia/2010/7), [ss. 23(1)](https://www.legislation.gov.uk/nia/2010/7/section/23/1), [26(1)(c)](https://www.legislation.gov.uk/nia/2010/7/section/26/1/c))
 
 [^c21959521]: Modification: S. 22(1) applied by [S.R. 2008/310](https://www.legislation.gov.uk/nisr/2008/310), [art. 6A(c)](https://www.legislation.gov.uk/nisr/2008/310/article/6A/c) (as inserted (27.3.2010) by [Local Government (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 7)](https://www.legislation.gov.uk/nia/2010/7), [ss. 23(2)](https://www.legislation.gov.uk/nia/2010/7/section/23/2), [26(1)(c)](https://www.legislation.gov.uk/nia/2010/7/section/26/1/c))
 
-[^key-5b9be2e5db511d95cfbb7d6c4824a325]: Modification: S. 22(1)(2) applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [9](https://www.legislation.gov.uk/nisr/2012/10/article/9)
+[^c-5b9be2e5db511d95cfbb7d6c4824a325]: Modification: S. 22(1)(2) applied with modifications (2.4.2012) by [The Local Government (Constituting Joint Committees as Bodies Corporate) Order (Northern Ireland) 2012 (S.R. 2012/10)](https://www.legislation.gov.uk/nisr/2012/10), [arts. 1](https://www.legislation.gov.uk/nisr/2012/10/article/1), [9](https://www.legislation.gov.uk/nisr/2012/10/article/9)
 
-[^key-fd9dc7e22f0ba0b99cdfcb5a88cf9ab3]: Modification: S. 22(1)(2) applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [arts. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [9](https://www.legislation.gov.uk/nisr/2015/183/article/9)
+[^c-fd9dc7e22f0ba0b99cdfcb5a88cf9ab3]: Modification: S. 22(1)(2) applied (1.4.2015) by [The Local Government (Constituting a Joint Committee a Body Corporate) Order (Northern Ireland) 2015 (S.R. 2015/183)](https://www.legislation.gov.uk/nisr/2015/183), [arts. 1](https://www.legislation.gov.uk/nisr/2015/183/article/1), [9](https://www.legislation.gov.uk/nisr/2015/183/article/9)
 
 [^c21959531]: Modification: S. 22(2) applied by [S.R. 2004/49](https://www.legislation.gov.uk/nisr/2004/49), [art. 6A(c)](https://www.legislation.gov.uk/nisr/2004/49/article/6A/c) (as inserted (27.3.2010) by [Local Government (Miscellaneous Provisions) Act (Northern Ireland) 2010 (c. 7)](https://www.legislation.gov.uk/nia/2010/7), [ss. 23(1)](https://www.legislation.gov.uk/nia/2010/7/section/23/1), [26(1)(c)](https://www.legislation.gov.uk/nia/2010/7/section/26/1/c))
 

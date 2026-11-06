@@ -33,7 +33,7 @@ An Act for enabling Courts of Justice to admit Non-parochial Registers as eviden
 
 \[10th August 1840.\][^c557426][^c557427]
 
-## 1.] Certain registers to be deposited in the custody of the registrar general.[^key-305c41a63e384d255718b9a180210d2b]
+## 1.] Certain registers to be deposited in the custody of the registrar general.[^c-305c41a63e384d255718b9a180210d2b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -43,13 +43,13 @@ An Act for enabling Courts of Justice to admit Non-parochial Registers as eviden
 
 . . . . . . [^c557430]the execution of this Act shall be deemed to be a part of the business of the general register office.
 
-## 4. Commissioners to identify the registers deposited.[^key-24d6f3f63335a2c8320ac5ec3baf2859]
+## 4. Commissioners to identify the registers deposited.[^c-24d6f3f63335a2c8320ac5ec3baf2859]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Lists to be made; which shall be open to search; and certified extracts had therefrom.[^c557436][^key-9981537b73438e1c713b4a34790b0203][^c557435]
+## 5. Lists to be made; which shall be open to search; and certified extracts had therefrom.[^c557436][^c-9981537b73438e1c713b4a34790b0203][^c557435]
 
-The registrar general shall cause lists to be made of all the registers and records which may be placed in his custody by virtue of this Act; and every person shall be entitled, on payment of the fees herein-after mentioned, to search the said lists, and any register or record therein mentioned, at any time when the General Register Office is open for that purpose[^c557437], but subject to such regulations as may be made from time to time by the registrar general, with the approbation of the Secretary of State[^key-67a96061dfbae1e8f3aa0e7a4e2dcd7b], and to have a certified extract of any entry in the said registers or records; and for every search in any such register or record shall be paid the sum of 5p[^c557439], and for every such certified extract the sum of 12½p, and no more.
+The registrar general shall cause lists to be made of all the registers and records which may be placed in his custody by virtue of this Act; and every person shall be entitled, on payment of the fees herein-after mentioned, to search the said lists, and any register or record therein mentioned, at any time when the General Register Office is open for that purpose[^c557437], but subject to such regulations as may be made from time to time by the registrar general, with the approbation of the Secretary of State[^c-67a96061dfbae1e8f3aa0e7a4e2dcd7b], and to have a certified extract of any entry in the said registers or records; and for every search in any such register or record shall be paid the sum of 5p[^c557439], and for every such certified extract the sum of 12½p, and no more.
 
 ## 6. Registers deemed in legal custody, and shall be receivable in evidence.[^c557441]
 
@@ -99,7 +99,7 @@ In case any party shall intend to use in evidence in any ecclesiastical court, o
 
 In all criminal cases in which it shall be necessary to use in evidence any entry or entries contained in any of the said registers or records, such evidence shall be given by producing to the court the original register or record.
 
-## 17A. Application to registers or records deposited under the Births and Deaths Registration Act 1858.[^key-5a12b217978c8236d661b7c2a98d70c3]
+## 17A. Application to registers or records deposited under the Births and Deaths Registration Act 1858.[^c-5a12b217978c8236d661b7c2a98d70c3]
 
 Sections 5 to 17 shall apply to the registers or records deposited in the General Register Office under the Births and Deaths Registration Act 1858 as they apply to the registers or records deposited under this Act.
 
@@ -117,23 +117,23 @@ The several registers and records of baptisms and marriages performed at the Fle
 
 [^c557427]: Modification: Preamble, which recites appointment of commissioners to inquire into registers or records other than parochial registers and their report of commissioners, omitted under authority of [Statute Law Revision (No. 2) Act 1890 (c. 51)](https://www.legislation.gov.uk/ukpga/1890/51)
 
-[^key-305c41a63e384d255718b9a180210d2b]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Vict/3-4/92/section/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-305c41a63e384d255718b9a180210d2b]: Textual amendment: [S. 1](https://www.legislation.gov.uk/ukpga/Vict/3-4/92/section/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
 [^c557429]: Textual amendment: S. 2 repealed by [Statute Law Revision Act 1950 (c. 6)](https://www.legislation.gov.uk/ukpga/1950/6), [Sch. 1](https://www.legislation.gov.uk/ukpga/1950/6/schedule/1)
 
 [^c557430]: Textual amendment: Words repealed by [Registration Service Act 1953 (c. 37)](https://www.legislation.gov.uk/ukpga/1953/37), [Sch. 2](https://www.legislation.gov.uk/ukpga/1953/37/schedule/2)
 
-[^key-24d6f3f63335a2c8320ac5ec3baf2859]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/Vict/3-4/92/section/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
+[^c-24d6f3f63335a2c8320ac5ec3baf2859]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/Vict/3-4/92/section/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 10
 
 [^c557436]: Modification: S. 5: functions of the Secretary of State transferred (1.4.1996) to the Chancellor of the Exchequer by [S.I. 1996/273](https://www.legislation.gov.uk/uksi/1996/273), [art. 3(1)](https://www.legislation.gov.uk/uksi/1996/273/article/3/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1996/273/schedule/1/paragraph/1)
 
-[^key-9981537b73438e1c713b4a34790b0203]: Modification: S. 5 transfer of functions (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-9981537b73438e1c713b4a34790b0203]: Modification: S. 5 transfer of functions (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2008/678/schedule/1/paragraph/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
 [^c557435]: Modification: S. 5 extended by [Births and Deaths Registration Act 1858 (c. 25)](https://www.legislation.gov.uk/ukpga/1858/25), [s. 3](https://www.legislation.gov.uk/ukpga/1858/25/section/3)
 
 [^c557437]: Textual amendment: Words substituted by [Registration Service Act 1953 (c. 37)](https://www.legislation.gov.uk/ukpga/1953/37), [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1953/37/schedule/1/paragraph/2)
 
-[^key-67a96061dfbae1e8f3aa0e7a4e2dcd7b]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/Vict/3-4/92/section/5) substituted (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
+[^c-67a96061dfbae1e8f3aa0e7a4e2dcd7b]: Textual amendment: Words in [s. 5](https://www.legislation.gov.uk/ukpga/Vict/3-4/92/section/5) substituted (3.4.2008) by [Transfer of Functions (Registration) Order 2008 (S.I. 2008/678)](https://www.legislation.gov.uk/uksi/2008/678), [art. 1(2)](https://www.legislation.gov.uk/uksi/2008/678/article/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2008/678/schedule/2/paragraph/1) (with [art. 4](https://www.legislation.gov.uk/uksi/2008/678/article/4))
 
 [^c557439]: Textual amendment: Words substituted by virtue of [Decimal Currency Act 1969 (c. 19)](https://www.legislation.gov.uk/ukpga/1969/19), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1969/19/section/10/1)
 
@@ -177,7 +177,7 @@ The several registers and records of baptisms and marriages performed at the Fle
 
 [^c557461]: Modification: S. 17 extended by [Births and Deaths Registration Act 1858 (c. 25)](https://www.legislation.gov.uk/ukpga/1858/25), [s. 3](https://www.legislation.gov.uk/ukpga/1858/25/section/3)
 
-[^key-5a12b217978c8236d661b7c2a98d70c3]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukpga/Vict/3-4/92/section/17A) inserted (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/3)
+[^c-5a12b217978c8236d661b7c2a98d70c3]: Textual amendment: [S. 17A](https://www.legislation.gov.uk/ukpga/Vict/3-4/92/section/17A) inserted (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2004/14/schedule/2/paragraph/3)
 
 [^c557462]: Textual amendment: Ss. 18, 19, 21 repealed by [Statute Law Revision (No. 2) Act 1874 (c. 96)](https://www.legislation.gov.uk/ukpga/1874/96)
 

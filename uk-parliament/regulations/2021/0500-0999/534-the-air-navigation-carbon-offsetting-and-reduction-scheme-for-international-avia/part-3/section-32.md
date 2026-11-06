@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Reporting of CORSIA eligible fuels[^key-4819111a822f628b201cdc9ab3a3d75b]
+## 32. Reporting of CORSIA eligible fuels[^c-4819111a822f628b201cdc9ab3a3d75b]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,10 +28,10 @@ summary: ''
 
 (4) The information provided is through to the blend point, and includes information received from both the neat (unblended) fuel producer and the fuel blender.
 
-(5) If the aeroplane operator purchases fuel from a supplier downstream from the fuel blender, such as a distributor, another aeroplane operator, or an aerodrome-based fuel distributor, this fuel supplier must provide to the aeroplane operator all of the requisite documentation in order for the emissions reductions from the use of CORSIA eligible fuels to be claimed by the aeroplane operator in accordance with articles 29 and 41C[^key-ac54e4f906998ea8e9e104e5fb51b0f8].
+(5) If the aeroplane operator purchases fuel from a supplier downstream from the fuel blender, such as a distributor, another aeroplane operator, or an aerodrome-based fuel distributor, this fuel supplier must provide to the aeroplane operator all of the requisite documentation in order for the emissions reductions from the use of CORSIA eligible fuels to be claimed by the aeroplane operator in accordance with articles 29 and 41C[^c-ac54e4f906998ea8e9e104e5fb51b0f8].
 
 ## Annotations
 
-[^key-4819111a822f628b201cdc9ab3a3d75b]: Commencement: Art. 32 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-4819111a822f628b201cdc9ab3a3d75b]: Commencement: Art. 32 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-ac54e4f906998ea8e9e104e5fb51b0f8]: Textual amendment: Word in [art. 32(5)](https://www.legislation.gov.uk/uksi/2021/534/article/32/5) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [17](https://www.legislation.gov.uk/uksi/2022/1050/article/17)
+[^c-ac54e4f906998ea8e9e104e5fb51b0f8]: Textual amendment: Word in [art. 32(5)](https://www.legislation.gov.uk/uksi/2021/534/article/32/5) substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [17](https://www.legislation.gov.uk/uksi/2022/1050/article/17)

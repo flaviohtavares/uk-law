@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 90. Witness anonymity orders[^key-af1af93ec7247d3888c66c5275be0856]
+## 90. Witness anonymity orders[^c-af1af93ec7247d3888c66c5275be0856]
 
 *Extent: S*
 
@@ -307,4 +307,4 @@ summary: ''
 
 ## Annotations
 
-[^key-af1af93ec7247d3888c66c5275be0856]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2010/13/section/90) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-af1af93ec7247d3888c66c5275be0856]: Commencement: [S. 90](https://www.legislation.gov.uk/asp/2010/13/section/90) in force at 28.3.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

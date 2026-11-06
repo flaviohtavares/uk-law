@@ -45,15 +45,15 @@ Before making these Regulations, OFCOM have given notice of their proposal to do
 
 ## PART 1 — Introductory Provisions
 
-### 1. Citation and Commencement[^key-fa8e8e0bd170883362cb794948e90671]
+### 1. Citation and Commencement[^c-fa8e8e0bd170883362cb794948e90671]
 
 These Regulations may be cited as the Wireless Telegraphy (Mobile Repeater) (Exemption) Regulations 2022 and shall come into force on 16th June 2022.
 
-### 2. Revocation[^key-d4590a12471442f31448e1838bc8b0c2]
+### 2. Revocation[^c-d4590a12471442f31448e1838bc8b0c2]
 
 The Wireless Telegraphy (Mobile Repeater) (Exemption) Regulations 2018[^f00003] are hereby revoked.
 
-### 3. Interpretation[^key-fb6a05a3a365ab26d61760b8a4ad1003]
+### 3. Interpretation[^c-fb6a05a3a365ab26d61760b8a4ad1003]
 
 In these Regulations—
 
@@ -73,7 +73,7 @@ In these Regulations—
 - (n) “**indoors**” means inside premises, which—
   - (i) have a ceiling or a roof; and
   - (ii) except for any doors, windows or passageways, are wholly enclosed;
-- (o) “IR2102.2” means interface requirement “IR2102.2: Minimum requirements for the use of: low gain mobile phone repeaters for in-vehicle use” contained within the document entitled “UK Interface Requirement 2102 – Licence exempt mobile phone repeaters” published by OFCOM in February 2024[^key-99105d81774bd1d2d3674ffd230e1064];
+- (o) “IR2102.2” means interface requirement “IR2102.2: Minimum requirements for the use of: low gain mobile phone repeaters for in-vehicle use” contained within the document entitled “UK Interface Requirement 2102 – Licence exempt mobile phone repeaters” published by OFCOM in February 2024[^c-99105d81774bd1d2d3674ffd230e1064];
 - (p) “**LTE system**” means an electronic communications network that complies with standards EN 301 908-1[^f00006], EN 301 908-13[^f00007] and EN 301 908-14[^f00008] published by ETSI for the Long Term Evolution telecommunication system (also known as LTE);
 - (q) “**MHz**” means megahertz;
 - (r) “**mobile repeater device**” means a wireless telegraphy station or wireless telegraphy apparatus which amplifies the radio signals carried over frequencies licensed to one or more mobile network operators;
@@ -88,26 +88,26 @@ In these Regulations—
 
 ## PART 2 — Mobile repeater devices for indoor use
 
-### 4. Scope of exemption for indoor use[^key-4ad2761faae480cf64967d3e4ae14698]
+### 4. Scope of exemption for indoor use[^c-4ad2761faae480cf64967d3e4ae14698]
 
 The establishment, installation, or use of a mobile repeater device is exempt from the provisions of section 8(1) of the Act if—
 
 - (a) that device complies with the terms, provisions, and limitations specified in regulations 5 to 12[^f00013]; or if
-- (b) that device complies with the terms, provisions, and limitations specified in regulations 5 to 8 and regulations 14[^key-03e6a92cda91c4a95235ace057ac022f] to 17[^f00014].
+- (b) that device complies with the terms, provisions, and limitations specified in regulations 5 to 8 and regulations 14[^c-03e6a92cda91c4a95235ace057ac022f] to 17[^f00014].
 
 ### Terms, provisions and limitations for all mobile repeater devices
 
-#### 5. Limitations on transmissions[^key-e98977e899a738152205d0350ce01d37]
+#### 5. Limitations on transmissions[^c-e98977e899a738152205d0350ce01d37]
 
 (1) The mobile repeater device must only be established, installed, and used where the transmissions it makes on downlink frequencies are made indoors.
 
 (2) The mobile repeater device may only amplify signals carried over the downlink frequencies and the uplink frequencies.
 
-#### 6. Prohibition on undue interference[^key-17e1e163a3e198a53b81bc4998102688]
+#### 6. Prohibition on undue interference[^c-17e1e163a3e198a53b81bc4998102688]
 
 The establishment, installation, and use of the mobile repeater device must not cause or contribute to undue interference to other users of the electromagnetic spectrum.
 
-#### 7. Anti-oscillation requirements[^key-3f7eab36cdc710affb9f0da3ace333ef]
+#### 7. Anti-oscillation requirements[^c-3f7eab36cdc710affb9f0da3ace333ef]
 
 (1) The mobile repeater device must—
 
@@ -126,7 +126,7 @@ The establishment, installation, and use of the mobile repeater device must not 
 
 (7) For the purpose of this regulation, a mobile repeater device makes oscillations when the transmissions made by the mobile repeater device are received and subsequently re-amplified by that device, resulting in a fluctuation in the transmit power of that device (either in the frequency band being amplified or in another frequency band).
 
-#### 8. System noise figure limit[^key-8b60d516f4c219f7e183d5374ef58486]
+#### 8. System noise figure limit[^c-8b60d516f4c219f7e183d5374ef58486]
 
 (1) The system noise emanating from the mobile repeater device shall not exceed a system noise figure of 7 dB.
 
@@ -137,17 +137,17 @@ The establishment, installation, and use of the mobile repeater device must not 
 
 ### Additional terms, provisions and limitations for provider-specific mobile repeater devices
 
-#### 9. Frequencies to be amplified[^key-fdcb9c93ae0ed7d2758e74e9396c1698]
+#### 9. Frequencies to be amplified[^c-fdcb9c93ae0ed7d2758e74e9396c1698]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 10. Automatic standby requirement[^key-ba2c415da44d4cb6ae5bdf87b36bd99e]
+#### 10. Automatic standby requirement[^c-ba2c415da44d4cb6ae5bdf87b36bd99e]
 
 (1) Where the mobile repeater device does not serve an active connection between a mobile device operating on the network of a particular mobile network operator and that particular mobile network for five minutes or more, it must ensure that any transmissions it makes on the uplink frequencies licensed to that mobile network operator comply with the limit in paragraph (2).
 
 (2) The transmissions, when measured in any direction, must have an uplink noise power which does not exceed -70 dBm/MHz e.i.r.p.
 
-#### 11. Power limits[^key-084079d39a09e18a8e74edfc05317775]
+#### 11. Power limits[^c-084079d39a09e18a8e74edfc05317775]
 
 The mobile repeater device may only emit transmissions on frequencies licensed to a mobile network operator which—
 
@@ -176,7 +176,7 @@ The mobile repeater device may only emit transmissions on frequencies licensed t
   - (i) an e.i.r.p. no greater than 17 dBm; and
   - (ii) a power spectral density no greater than 10 dBm/5 MHz.
 
-#### 12. System gain limits[^key-2f871f0f35bce23e7b6ba6612ce497e1]
+#### 12. System gain limits[^c-2f871f0f35bce23e7b6ba6612ce497e1]
 
 (1) Where the mobile repeater device emits transmissions on frequencies licensed to one mobile network operator only, the uplink and downlink system gain must not exceed the limit in paragraph (3) where the uplink and downlink system gain is measured for each of the frequency bands being transmitted.
 
@@ -193,23 +193,23 @@ The mobile repeater device may only emit transmissions on frequencies licensed t
 
 ### Additional terms, provisions and limitations for multi-operator mobile repeater devices
 
-#### 13. Frequencies that must be amplified[^key-00e76b5af85aa18241ce3121106de963]
+#### 13. Frequencies that must be amplified[^c-00e76b5af85aa18241ce3121106de963]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 14. Automatic standby requirement[^key-8d93cdc7fc55d0d8635e1b0cf1e8f59c]
+#### 14. Automatic standby requirement[^c-8d93cdc7fc55d0d8635e1b0cf1e8f59c]
 
 (1) Where the mobile repeater device does not serve an active connection between a mobile device and a mobile network for five minutes or more, it must ensure that any transmissions it makes using the uplink frequencies comply with the limit in paragraph (2).
 
 (2) The transmissions, when measured in any direction, must have an uplink noise power which does not exceed -70 dBm/MHz e.i.r.p.
 
-#### 15. Limits on power spectral density[^key-967fc47975d5fda69352d45295f08300]
+#### 15. Limits on power spectral density[^c-967fc47975d5fda69352d45295f08300]
 
 (1) The mobile repeater device may only emit transmissions on uplink frequencies in a particular frequency band which, when measured in any direction, have a power spectral density no greater than 17 dBm/5 MHz.
 
 (2) The mobile repeater device may only emit transmissions on downlink frequencies in a particular frequency band which, when measured in any direction, have a power spectral density no greater than 10 dBm/5 MHz.
 
-#### 16. System gain limits[^key-bfc14fe06b624c7ba809ccb8016203db]
+#### 16. System gain limits[^c-bfc14fe06b624c7ba809ccb8016203db]
 
 (1) When measured separately for each of the frequency bands being transmitted—
 
@@ -220,7 +220,7 @@ The mobile repeater device may only emit transmissions on frequencies licensed t
 
 (2) In this regulation, “**RSSI**” means received signal strength indicator, which is the total downlink signal power received at the donor port of the mobile repeater device, for all base stations in the frequency band being transmitted (and which shall be measured in dBm).
 
-#### 17. Limit on transmitted intermodulation products[^key-23225c11dc4772d143c08ac1f535e908]
+#### 17. Limit on transmitted intermodulation products[^c-23225c11dc4772d143c08ac1f535e908]
 
 (1) For each frequency band that is being transmitted by the mobile repeater device, the power level of transmitted intermodulation products due to input signals within that frequency band shall not exceed −19dBm at the donor port and coverage port of that device.
 
@@ -228,11 +228,11 @@ The mobile repeater device may only emit transmissions on frequencies licensed t
 
 ## PART 3 — Mobile repeater devices for use in a motor vehicle
 
-### 18. Scope of exemption for use in a motor vehicle[^key-a35c2738f8dbe82c6be374137466eff5]
+### 18. Scope of exemption for use in a motor vehicle[^c-a35c2738f8dbe82c6be374137466eff5]
 
 (1) The establishment, installation and use of a mobile repeater device is also exempt from the provisions of section 8(1) of the Act where the terms, provisions, and limitations in this regulation are met.
 
-(2)[^key-af3dd5e0e9a5afcab7a676d8af11cdf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-af3dd5e0e9a5afcab7a676d8af11cdf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The establishment, installation, and use of the mobile repeater device must comply with IR2102.2.
 
@@ -270,19 +270,19 @@ A full regulatory impact assessment of the effect of these Regulations is availa
 
 [^f00002]: Footnote: Section 8(3) and section 122(7) were extended to the Bailiwick of Guernsey by article 2 of the Wireless Telegraphy (Guernsey) Order 2006 ([S.I. 2006/3325](https://www.legislation.gov.uk/uksi/2006/3325)); to the Bailiwick of Jersey by article 2 of the Wireless Telegraphy (Jersey) Order 2006 ([S.I. 2006/3324](https://www.legislation.gov.uk/uksi/2006/3324)); and to the Isle of Man by article 2 of the Wireless Telegraphy (Isle of Man) Order 2007 ([S.I. 2007/278](https://www.legislation.gov.uk/uksi/2007/278)).
 
-[^key-fa8e8e0bd170883362cb794948e90671]: Commencement: Reg. 1 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-fa8e8e0bd170883362cb794948e90671]: Commencement: Reg. 1 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-d4590a12471442f31448e1838bc8b0c2]: Commencement: Reg. 2 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-d4590a12471442f31448e1838bc8b0c2]: Commencement: Reg. 2 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2018/399](https://www.legislation.gov.uk/uksi/2018/399), as amended by [S.I. 2019/1450](https://www.legislation.gov.uk/uksi/2019/1450).
 
-[^key-fb6a05a3a365ab26d61760b8a4ad1003]: Commencement: Reg. 3 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-fb6a05a3a365ab26d61760b8a4ad1003]: Commencement: Reg. 3 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
 [^f00004]: Footnote: EN 301 502 (version 12.5.2) published in the Official Journal of the European Union (OJEU) No C180, 8.6.2017, p.14.
 
 [^f00005]: Footnote: EN 301 511 (version 9.0.2) published in OJEU No C180, 8.6.2017, p.14.
 
-[^key-99105d81774bd1d2d3674ffd230e1064]: Textual amendment: Words in [reg. 3(o)](https://www.legislation.gov.uk/uksi/2022/595/regulation/3/o) substituted (29.2.2024) by [The Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2024 (S.I. 2024/136)](https://www.legislation.gov.uk/uksi/2024/136), [regs. 1](https://www.legislation.gov.uk/uksi/2024/136/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/136/regulation/2/2)
+[^c-99105d81774bd1d2d3674ffd230e1064]: Textual amendment: Words in [reg. 3(o)](https://www.legislation.gov.uk/uksi/2022/595/regulation/3/o) substituted (29.2.2024) by [The Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2024 (S.I. 2024/136)](https://www.legislation.gov.uk/uksi/2024/136), [regs. 1](https://www.legislation.gov.uk/uksi/2024/136/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2024/136/regulation/2/2)
 
 [^f00006]: Footnote: EN 301 908–1 (version 11.1.1) published in OJEU No C180, 8.6.2017, p.17.
 
@@ -298,40 +298,40 @@ A full regulatory impact assessment of the effect of these Regulations is availa
 
 [^f00012]: Footnote: EN 301 908–22 (version 6.1.1) published in OJEU No C180, 8.6.2017, p.19.
 
-[^key-4ad2761faae480cf64967d3e4ae14698]: Commencement: Reg. 4 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-4ad2761faae480cf64967d3e4ae14698]: Commencement: Reg. 4 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
 [^f00013]: Footnote: Such a device is known as a provider-specific mobile repeater device.
 
-[^key-03e6a92cda91c4a95235ace057ac022f]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/595/regulation/4/b) substituted (29.2.2024) by [The Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2024 (S.I. 2024/136)](https://www.legislation.gov.uk/uksi/2024/136), [regs. 1](https://www.legislation.gov.uk/uksi/2024/136/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/136/regulation/2/3)
+[^c-03e6a92cda91c4a95235ace057ac022f]: Textual amendment: Word in [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/595/regulation/4/b) substituted (29.2.2024) by [The Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2024 (S.I. 2024/136)](https://www.legislation.gov.uk/uksi/2024/136), [regs. 1](https://www.legislation.gov.uk/uksi/2024/136/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2024/136/regulation/2/3)
 
 [^f00014]: Footnote: Such a device is known as a multi-operator mobile repeater device.
 
-[^key-e98977e899a738152205d0350ce01d37]: Commencement: Reg. 5 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-e98977e899a738152205d0350ce01d37]: Commencement: Reg. 5 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-17e1e163a3e198a53b81bc4998102688]: Commencement: Reg. 6 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-17e1e163a3e198a53b81bc4998102688]: Commencement: Reg. 6 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-3f7eab36cdc710affb9f0da3ace333ef]: Commencement: Reg. 7 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-3f7eab36cdc710affb9f0da3ace333ef]: Commencement: Reg. 7 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-8b60d516f4c219f7e183d5374ef58486]: Commencement: Reg. 8 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-8b60d516f4c219f7e183d5374ef58486]: Commencement: Reg. 8 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-fdcb9c93ae0ed7d2758e74e9396c1698]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/595/regulation/9) omitted (29.2.2024) by virtue of [The Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2024 (S.I. 2024/136)](https://www.legislation.gov.uk/uksi/2024/136), [regs. 1](https://www.legislation.gov.uk/uksi/2024/136/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/136/regulation/2/4)
+[^c-fdcb9c93ae0ed7d2758e74e9396c1698]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/2022/595/regulation/9) omitted (29.2.2024) by virtue of [The Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2024 (S.I. 2024/136)](https://www.legislation.gov.uk/uksi/2024/136), [regs. 1](https://www.legislation.gov.uk/uksi/2024/136/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/136/regulation/2/4)
 
-[^key-ba2c415da44d4cb6ae5bdf87b36bd99e]: Commencement: Reg. 10 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-ba2c415da44d4cb6ae5bdf87b36bd99e]: Commencement: Reg. 10 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-084079d39a09e18a8e74edfc05317775]: Commencement: Reg. 11 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-084079d39a09e18a8e74edfc05317775]: Commencement: Reg. 11 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-2f871f0f35bce23e7b6ba6612ce497e1]: Commencement: Reg. 12 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-2f871f0f35bce23e7b6ba6612ce497e1]: Commencement: Reg. 12 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-00e76b5af85aa18241ce3121106de963]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/595/regulation/13) omitted (29.2.2024) by virtue of [The Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2024 (S.I. 2024/136)](https://www.legislation.gov.uk/uksi/2024/136), [regs. 1](https://www.legislation.gov.uk/uksi/2024/136/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/136/regulation/2/4)
+[^c-00e76b5af85aa18241ce3121106de963]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/uksi/2022/595/regulation/13) omitted (29.2.2024) by virtue of [The Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2024 (S.I. 2024/136)](https://www.legislation.gov.uk/uksi/2024/136), [regs. 1](https://www.legislation.gov.uk/uksi/2024/136/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/136/regulation/2/4)
 
-[^key-8d93cdc7fc55d0d8635e1b0cf1e8f59c]: Commencement: Reg. 14 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-8d93cdc7fc55d0d8635e1b0cf1e8f59c]: Commencement: Reg. 14 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-967fc47975d5fda69352d45295f08300]: Commencement: Reg. 15 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-967fc47975d5fda69352d45295f08300]: Commencement: Reg. 15 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-bfc14fe06b624c7ba809ccb8016203db]: Commencement: Reg. 16 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-bfc14fe06b624c7ba809ccb8016203db]: Commencement: Reg. 16 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-23225c11dc4772d143c08ac1f535e908]: Commencement: Reg. 17 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-23225c11dc4772d143c08ac1f535e908]: Commencement: Reg. 17 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-a35c2738f8dbe82c6be374137466eff5]: Commencement: Reg. 18 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
+[^c-a35c2738f8dbe82c6be374137466eff5]: Commencement: Reg. 18 in force at 16.6.2022, see [reg. 1](https://www.legislation.gov.uk/uksi/2022/595/regulation/1)
 
-[^key-af3dd5e0e9a5afcab7a676d8af11cdf2]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/2022/595/regulation/18/2) omitted (29.2.2024) by virtue of [The Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2024 (S.I. 2024/136)](https://www.legislation.gov.uk/uksi/2024/136), [regs. 1](https://www.legislation.gov.uk/uksi/2024/136/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/136/regulation/2/4)
+[^c-af3dd5e0e9a5afcab7a676d8af11cdf2]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/uksi/2022/595/regulation/18/2) omitted (29.2.2024) by virtue of [The Wireless Telegraphy (Mobile Repeater) (Exemption) (Amendment) Regulations 2024 (S.I. 2024/136)](https://www.legislation.gov.uk/uksi/2024/136), [regs. 1](https://www.legislation.gov.uk/uksi/2024/136/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2024/136/regulation/2/4)

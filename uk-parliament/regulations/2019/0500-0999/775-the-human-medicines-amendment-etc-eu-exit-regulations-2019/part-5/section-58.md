@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 58. Substitution of regulation 53 (applications relating to similar biological medicinal products)[^M_I_9bb60729-126e-4ab5-bc90-521d3d5d74b8][^key-0df3d5cd47417f8b2e0665b36e83c2ca]
+## 58. Substitution of regulation 53 (applications relating to similar biological medicinal products)[^M_I_9bb60729-126e-4ab5-bc90-521d3d5d74b8][^c-0df3d5cd47417f8b2e0665b36e83c2ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,4 +79,4 @@ For regulation 53 substitute—
 
 [^M_I_9bb60729-126e-4ab5-bc90-521d3d5d74b8]: Commencement: Reg. 58 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-0df3d5cd47417f8b2e0665b36e83c2ca]: Textual amendment: Reg. 58 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/43)
+[^c-0df3d5cd47417f8b2e0665b36e83c2ca]: Textual amendment: Reg. 58 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 43](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/43)

@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## PART 1 — Overview of Act
 
-### 1. Overview of Act[^key-c90ab7e45310178e77121a37daf38cad]
+### 1. Overview of Act[^c-c90ab7e45310178e77121a37daf38cad]
 
 This Act is arranged as follows—
 
@@ -52,7 +52,7 @@ This Act is arranged as follows—
 
 #### Duty to promote sustainable forest management
 
-##### 2. Duty to promote sustainable forest management[^key-7408f04a3143cacc82c6d9df1831c050]
+##### 2. Duty to promote sustainable forest management[^c-7408f04a3143cacc82c6d9df1831c050]
 
 (1) The Scottish Ministers must promote sustainable forest management.
 
@@ -60,7 +60,7 @@ This Act is arranged as follows—
 
 #### Forestry strategy
 
-##### 3. Duty to prepare forestry strategy[^key-8c9e04ee5ded5ced6db9a05daa9cf2a3]
+##### 3. Duty to prepare forestry strategy[^c-8c9e04ee5ded5ced6db9a05daa9cf2a3]
 
 (1) The Scottish Ministers must prepare a forestry strategy.
 
@@ -87,7 +87,7 @@ This Act is arranged as follows—
 
 (5) If the Scottish Ministers have not revised the forestry strategy under subsection (4)(b) within the period of 9 years beginning with the day on which the strategy was last published, they must revise the strategy.
 
-##### 4. Preparation and revision of forestry strategy[^key-6dc0bf07640c2eb0e012c1355ccb5ede]
+##### 4. Preparation and revision of forestry strategy[^c-6dc0bf07640c2eb0e012c1355ccb5ede]
 
 (1) In preparing or revising the forestry strategy, the Scottish Ministers must—
 
@@ -101,7 +101,7 @@ This Act is arranged as follows—
 
 (2) The forestry strategy must be prepared and revised with a view to achieving consistency, so far as practicable, between the objectives, priorities and policies set out in the strategy and the Scottish Ministers' other functions.
 
-##### 5. Publication of forestry strategy[^key-5904c26f5667f5ae1765b18eef795f12]
+##### 5. Publication of forestry strategy[^c-5904c26f5667f5ae1765b18eef795f12]
 
 (1) The Scottish Ministers must publish the forestry strategy and each revision of it.
 
@@ -114,7 +114,7 @@ This Act is arranged as follows—
 
 (4) The Scottish Ministers must lay a copy of a report under subsection (3) before the Scottish Parliament.
 
-##### 6. Duty to have regard to forestry strategy[^key-9d92d0ef5cf2523509781298bd4c36ad]
+##### 6. Duty to have regard to forestry strategy[^c-9d92d0ef5cf2523509781298bd4c36ad]
 
 The Scottish Ministers must have regard to the forestry strategy when—
 
@@ -129,7 +129,7 @@ The Scottish Ministers must have regard to the forestry strategy when—
   - (iii) section 71 (financial assistance),
   - (iv) section 72 (charging).
 
-##### 7. Report on forestry strategy[^key-01763c0aefe50d656a1bdb9dfaa9937f]
+##### 7. Report on forestry strategy[^c-01763c0aefe50d656a1bdb9dfaa9937f]
 
 (1) The Scottish Ministers must, as soon as practicable after the end of each reporting period, prepare and publish a report setting out—
 
@@ -143,11 +143,11 @@ The Scottish Ministers must have regard to the forestry strategy when—
 
 #### Duty to make arrangements for research
 
-##### 8. Duty to make arrangements for research in relation to the promotion of sustainable forest management[^key-b557cd96b45a0394babccc2b9b86ed22]
+##### 8. Duty to make arrangements for research in relation to the promotion of sustainable forest management[^c-b557cd96b45a0394babccc2b9b86ed22]
 
 The Scottish Ministers must make arrangements for the carrying out of research in relation to matters relevant to their duty to promote sustainable forest management.
 
-#### Power to make further provision in relation to sustainable forest management[^key-e2a21a56a0de6c6b0aeb2a3696d32af4]
+#### Power to make further provision in relation to sustainable forest management[^c-e2a21a56a0de6c6b0aeb2a3696d32af4]
 
 ##### 8A. Sustainable forest management: further provision
 
@@ -179,11 +179,11 @@ The Scottish Ministers must make arrangements for the carrying out of research i
 
 ### CHAPTER 2 — Tree health and silvicultural material testing functions
 
-#### 9. Transfer of Plant Varieties and Seeds Act 1964 functions[^key-666d3fabf81171807e0999e3c39ec306]
+#### 9. Transfer of Plant Varieties and Seeds Act 1964 functions[^c-666d3fabf81171807e0999e3c39ec306]
 
 In section 29 of the Plant Varieties and Seeds Act 1964 (application of Part 2 to seed potatoes: silvicultural propagating and planting material), subsections (2) and (4) are repealed.
 
-#### 10. Transfer of Plant Health Act 1967 functions[^key-1826c78d5b86d9b26e154cd1ab8ed354]
+#### 10. Transfer of Plant Health Act 1967 functions[^c-1826c78d5b86d9b26e154cd1ab8ed354]
 
 (1) The Plant Health Act 1967 is amended as follows.
 
@@ -205,7 +205,7 @@ In section 29 of the Plant Varieties and Seeds Act 1964 (application of Part 2 t
 
 ### Management of forested land
 
-#### 11. Management of forested land[^key-554bd950044aaf48d128f7cb3a28e5ac]
+#### 11. Management of forested land[^c-554bd950044aaf48d128f7cb3a28e5ac]
 
 (1) The Scottish Ministers must manage forested land in a way that promotes sustainable forest management.
 
@@ -217,7 +217,7 @@ In section 29 of the Plant Varieties and Seeds Act 1964 (application of Part 2 t
 
 (3) This section is subject to section 17(4).
 
-#### 12. Meaning of “forested land”[^key-9577f4a0f7ea452fc840d4109a210f9a]
+#### 12. Meaning of “forested land”[^c-9577f4a0f7ea452fc840d4109a210f9a]
 
 (1) In this Act, “**forested land**” means—
 
@@ -228,7 +228,7 @@ In section 29 of the Plant Varieties and Seeds Act 1964 (application of Part 2 t
 
 (2) In this Act, “**forested**” includes undergoing afforestation.
 
-#### 13. Meaning of “national forest estate”[^key-4a0f1c265eeaf8a2c2ab9e3f7011ad9a]
+#### 13. Meaning of “national forest estate”[^c-4a0f1c265eeaf8a2c2ab9e3f7011ad9a]
 
 In this Act, the “**national forest estate**” means land in Scotland—
 
@@ -237,7 +237,7 @@ In this Act, the “**national forest estate**” means land in Scotland—
 
 ### Forestry information
 
-#### 14. Duty to publish information on forestry[^key-50b668700854eb8ab4a3ed028cdea478]
+#### 14. Duty to publish information on forestry[^c-50b668700854eb8ab4a3ed028cdea478]
 
 (1) The Scottish Ministers must gather and publish in such manner as they consider appropriate information on forest holdings in Scotland that do not fall within forested land as defined in section 12.
 
@@ -259,7 +259,7 @@ of such forest holdings.
 
 ### Management of land to further sustainable development
 
-#### 15. Management of land to further sustainable development[^key-59412a657617c50c40da4ae5e7a4ec1e]
+#### 15. Management of land to further sustainable development[^c-59412a657617c50c40da4ae5e7a4ec1e]
 
 (1) The Scottish Ministers must manage land mentioned in subsection (2) for the purpose of furthering the achievement of sustainable development.
 
@@ -275,7 +275,7 @@ of such forest holdings.
 
 ### Duty to publish map of land managed by Scottish Ministers
 
-#### 16. Duty to publish map of land managed by Scottish Ministers[^key-0b8630b5b655758d0798e8959c7b9284]
+#### 16. Duty to publish map of land managed by Scottish Ministers[^c-0b8630b5b655758d0798e8959c7b9284]
 
 The Scottish Ministers must publish a map setting out the areas of land that are, for the time being—
 
@@ -284,7 +284,7 @@ The Scottish Ministers must publish a map setting out the areas of land that are
 
 ### Power to enter into arrangements
 
-#### 17. Power to enter into arrangements[^key-e1da58846a5c134476b9dc2584646198]
+#### 17. Power to enter into arrangements[^c-e1da58846a5c134476b9dc2584646198]
 
 (1) The Scottish Ministers may, for the purposes of managing land under section 11 or 15, enter into arrangements with any person for the management by the Scottish Ministers of land that the person has the right to manage.
 
@@ -296,7 +296,7 @@ The Scottish Ministers must publish a map setting out the areas of land that are
 
 ### Acquisition and disposal of land
 
-#### 18. Power to acquire land by agreement[^key-5a44764ccd98d82c0286c0e8ad267fc1]
+#### 18. Power to acquire land by agreement[^c-5a44764ccd98d82c0286c0e8ad267fc1]
 
 (1) The Scottish Ministers may, if they consider it appropriate to do so, acquire by agreement land for the purpose of exercising their functions under—
 
@@ -309,7 +309,7 @@ The Scottish Ministers must publish a map setting out the areas of land that are
 - (b) to accept land as a gift,
 - (c) to acquire any right or interest in or over land.
 
-#### 19. Compulsory purchase of land[^key-a8a2330a2476e614ca5c1d5560928fe7]
+#### 19. Compulsory purchase of land[^c-a8a2330a2476e614ca5c1d5560928fe7]
 
 (1) The Scottish Ministers may compulsorily acquire land that they require for the purpose of exercising their functions under section 11.
 
@@ -326,7 +326,7 @@ The Scottish Ministers must publish a map setting out the areas of land that are
 - (a) to acquire any right or interest in or over land,
 - (b) to acquire a servitude or other right in or over land by the creation of a new right.
 
-#### 20. Power to dispose of land[^key-5d6f4ea04016ea4f3d73d6c80b6d4488]
+#### 20. Power to dispose of land[^c-5d6f4ea04016ea4f3d73d6c80b6d4488]
 
 (1) The Scottish Ministers may, if they consider it appropriate to do so, dispose of land mentioned in subsection (2).
 
@@ -350,7 +350,7 @@ The Scottish Ministers must publish a map setting out the areas of land that are
 
 ### CHAPTER 1 — Overview and key terms
 
-#### 21. Overview of Part 4[^key-caebb20a4b3499d090056ab9360c90d8]
+#### 21. Overview of Part 4[^c-caebb20a4b3499d090056ab9360c90d8]
 
 This Part is arranged as follows—
 
@@ -362,7 +362,7 @@ This Part is arranged as follows—
 - Chapter 8 is about compliance,
 - Chapter 9 is about appeals against decisions relating to felling.
 
-#### 22. Key terms in Part 4[^key-f990cfc082cf9e9e79c8447c8f0ca34d]
+#### 22. Key terms in Part 4[^c-f990cfc082cf9e9e79c8447c8f0ca34d]
 
 In this Part—
 
@@ -377,9 +377,9 @@ In this Part—
 
 ### CHAPTER 2 — Offence of unauthorised felling
 
-#### 23. Offence of unauthorised felling[^key-b2de30cdcb201ee4d2112284b4fbcc56]
+#### 23. Offence of unauthorised felling[^c-b2de30cdcb201ee4d2112284b4fbcc56]
 
-(1)[^key-eb01add292278fef00c6570a801bdeda] A person commits an offence if the person fells or knowingly causes or permits another person to fell[^key-baa9c48fb5d30721ef76791aaf0970e2] a tree unless—
+(1)[^c-eb01add292278fef00c6570a801bdeda] A person commits an offence if the person fells or knowingly causes or permits another person to fell[^c-baa9c48fb5d30721ef76791aaf0970e2] a tree unless—
 
 - (a) the felling is exempt under section 24, or
 - (b) the felling is carried out in accordance with—
@@ -394,9 +394,9 @@ In this Part—
 
 (3) Where an offence under subsection (1) is committed in respect of more than one tree, the maximum fine under subsection (2) is to be determined as if the person had been convicted of a separate offence in respect of each tree.
 
-(4)[^key-824584ef7f6c710e1093ee004eaa1e6d] It is a defence for a person charged with an offence under subsection (1) to show that the person reasonably believed that the felling was carried out in accordance with a permission, direction or notice mentioned in paragraph (b)(i) to (vi) of that subsection.
+(4)[^c-824584ef7f6c710e1093ee004eaa1e6d] It is a defence for a person charged with an offence under subsection (1) to show that the person reasonably believed that the felling was carried out in accordance with a permission, direction or notice mentioned in paragraph (b)(i) to (vi) of that subsection.
 
-#### 24. Unauthorised felling: exemptions[^key-088f7ad5bc9ca8a458c41ac33976f471]
+#### 24. Unauthorised felling: exemptions[^c-088f7ad5bc9ca8a458c41ac33976f471]
 
 (1) Section 23 does not apply to felling carried out in accordance with provision made in regulations made by the Scottish Ministers.
 
@@ -411,7 +411,7 @@ In this Part—
 
 ### CHAPTER 3 — Felling permission
 
-#### 25. Applications for felling permission[^key-b9962e3c44faf571040876903aeef8b7]
+#### 25. Applications for felling permission[^c-b9962e3c44faf571040876903aeef8b7]
 
 (1) A person mentioned in subsection (2) may apply to the Scottish Ministers for permission to fell a tree (a “felling permission”).
 
@@ -427,13 +427,13 @@ In this Part—
 - (a) the way in which applications are to be made,
 - (b) the information to be provided in applications.
 
-#### 26. False or misleading information in applications: offence[^key-1959b259b264c12d851a1146778266fc]
+#### 26. False or misleading information in applications: offence[^c-1959b259b264c12d851a1146778266fc]
 
 (1) A person commits an offence if the person knowingly or recklessly provides false or misleading information in an application for felling permission.
 
 (2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### 27. Decisions on applications[^key-e32d0b1c45477a53d215272e72b9b623]
+#### 27. Decisions on applications[^c-e32d0b1c45477a53d215272e72b9b623]
 
 (1) The Scottish Ministers may—
 
@@ -470,13 +470,13 @@ In this Part—
 - (d) the information which continuing conditions may require,
 - (e) situations in which persons who have made an unsuccessful application for felling permission may be restricted from making a further application in relation to the same circumstances.
 
-#### 28. Continuing conditions on felling permission: offence[^key-717f7f100b43088dd5d1a9a2155d2575]
+#### 28. Continuing conditions on felling permission: offence[^c-717f7f100b43088dd5d1a9a2155d2575]
 
 (1) A person commits an offence if the person fails, without reasonable excuse, to comply with a continuing condition on felling permission granted to the person.
 
 (2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-#### 29. Variation of felling permission[^key-98fc54a62e21acd15f8d0447ee2e9172]
+#### 29. Variation of felling permission[^c-98fc54a62e21acd15f8d0447ee2e9172]
 
 (1) The Scottish Ministers may vary a felling permission—
 
@@ -493,7 +493,7 @@ In this Part—
 - (b) specify the effect of the variation on the felling permission, and
 - (c) specify the date on which the variation takes effect (which must not be earlier than the date on which the notice is given under subsection (2)).
 
-#### 30. Suspension of felling permission[^key-d142d09e131de61f3610a50f3ffc325c]
+#### 30. Suspension of felling permission[^c-d142d09e131de61f3610a50f3ffc325c]
 
 (1) The Scottish Ministers may suspend a felling permission if subsection (2) or (3) applies.
 
@@ -519,7 +519,7 @@ In this Part—
 - (c) specify the date on which the suspension takes effect (which must not be earlier than the date on which the notice is given under subsection (4)), and
 - (d) specify the period for which the suspension is to have effect.
 
-#### 31. Revocation of felling permission[^key-b88439950c514457f246a1aa072e96ea]
+#### 31. Revocation of felling permission[^c-b88439950c514457f246a1aa072e96ea]
 
 (1) The Scottish Ministers may revoke a felling permission if—
 
@@ -535,7 +535,7 @@ In this Part—
 - (a) set out the Scottish Ministers' reasons for making the revocation, and
 - (b) specify the date on which the revocation takes effect (which must not be earlier than the date on which the notice is given under subsection (2)).
 
-#### 32. Compensation for refusal of felling permission[^key-026d499712080bd79e827fd5eeae7501]
+#### 32. Compensation for refusal of felling permission[^c-026d499712080bd79e827fd5eeae7501]
 
 (1) If the Scottish Ministers refuse an application for felling permission, a person who suffers loss as a result of the refusal is entitled to compensation in accordance with provision made in regulations made by the Scottish Ministers.
 
@@ -548,7 +548,7 @@ In this Part—
 - (e) the way in which any disputes about compensation are to be determined,
 - (f) appeals about decisions relating to compensation.
 
-#### 33. Felling of trees subject to tree preservation orders[^key-71e9ecaa5af76746e6f88382f8ed40fd]
+#### 33. Felling of trees subject to tree preservation orders[^c-71e9ecaa5af76746e6f88382f8ed40fd]
 
 (1) If an application for felling permission relates to a tree that is covered by a tree preservation order, the Scottish Ministers may—
 
@@ -586,7 +586,7 @@ In this Part—
 
 ### CHAPTER 4 — Felling directions
 
-#### 34. Felling directions[^key-2562e28e17f2bcf97ce0cbf1b0731c9c]
+#### 34. Felling directions[^c-2562e28e17f2bcf97ce0cbf1b0731c9c]
 
 (1) Subsection (2) applies if it appears to the Scottish Ministers that felling of trees is required—
 
@@ -614,7 +614,7 @@ In this Part—
 - (c) how felling directions are to be notified,
 - (d) the imposition of conditions on a felling direction (which may include steps that must be taken after the direction is complied with).
 
-#### 35. Felling directions: offence[^key-7ecd1aa518c369d70a9b03d2df7140e7]
+#### 35. Felling directions: offence[^c-7ecd1aa518c369d70a9b03d2df7140e7]
 
 (1) A person commits an offence if the person fails, without reasonable excuse, to comply with a felling direction (including any condition imposed on it) given to the person.
 
@@ -622,7 +622,7 @@ In this Part—
 
 ### CHAPTER 5 — Restocking directions
 
-#### 36. Restocking directions[^key-7d1eb53bfd3853e9aa515bfd69d36f70]
+#### 36. Restocking directions[^c-7d1eb53bfd3853e9aa515bfd69d36f70]
 
 (1) Subsection (2) applies if it appears to the Scottish Ministers that—
 
@@ -662,7 +662,7 @@ In this Part—
 - (d) how restocking directions are to be notified,
 - (e) the imposition of conditions on a restocking direction (which may include steps that must be taken after the direction is complied with).
 
-#### 37. Restocking directions: offence[^key-5a1c4d2d0d8b60ebecbf3be6d518cf39]
+#### 37. Restocking directions: offence[^c-5a1c4d2d0d8b60ebecbf3be6d518cf39]
 
 (1) A person commits an offence if the person fails, without reasonable excuse, to comply with a restocking direction (including any condition imposed on it) given to the person.
 
@@ -670,7 +670,7 @@ In this Part—
 
 ### CHAPTER 6 — Continuing conditions on felling permission, felling directions and restocking directions: notices to comply
 
-#### 38. Registration of notices to comply[^key-b5855722dcbf9b79c36a4c49456e1fa2]
+#### 38. Registration of notices to comply[^c-b5855722dcbf9b79c36a4c49456e1fa2]
 
 (1) This section applies—
 
@@ -686,7 +686,7 @@ In this Part—
 - (b) in the case of a felling direction or a restocking direction, the effect of the direction and, if relevant, the date by which it must be complied with,
 - (c) a description of the land to which the condition or direction relates.
 
-#### 39. Registered notices to comply: offence[^key-17847fe6f758b8abc3d03817964a9bfb]
+#### 39. Registered notices to comply: offence[^c-17847fe6f758b8abc3d03817964a9bfb]
 
 (1) An owner of the land to which a registered notice to comply relates commits an offence if that person fails, without reasonable excuse, to comply with the registered notice to comply.
 
@@ -694,7 +694,7 @@ In this Part—
 
 ### CHAPTER 7 — Registration of notices under Chapters 6 and 8
 
-#### 40. Registration of notices of variation[^key-241b8680f3983f284d09a7896fcb4b35]
+#### 40. Registration of notices of variation[^c-241b8680f3983f284d09a7896fcb4b35]
 
 (1) Subsection (3) applies where the Scottish Ministers and the owner of land to which a relevant registered notice relates agree in writing that the relevant registered notice is to be varied.
 
@@ -712,7 +712,7 @@ In this Part—
 
 (4) On registration, the notice of variation varies the relevant registered notice to which it relates as described in subsection (3)(d).
 
-#### 41. Registration of notices of discharge from compliance[^key-d8ccf9752f638c779e1f4181318e6eea]
+#### 41. Registration of notices of discharge from compliance[^c-d8ccf9752f638c779e1f4181318e6eea]
 
 (1) Subsection (2) applies where—
 
@@ -727,7 +727,7 @@ In this Part—
 
 (3) On registration, the notice of discharge from compliance discharges the relevant registered notice to which it relates.
 
-#### 42. Meaning of “register”[^key-7fcc2ab45fe78658babaeeeab20e8664]
+#### 42. Meaning of “register”[^c-7fcc2ab45fe78658babaeeeab20e8664]
 
 (1) In this Chapter and in Chapter 8, “**register**”, in relation to the notices mentioned in subsection (2), means register the information contained in the notice in question in the Land Register of Scotland or (as the case may be) record the notice in question in the General Register of Sasines, and “registered” and “registration” are to be construed accordingly.
 
@@ -740,14 +740,14 @@ In this Part—
 - (e) a notice of liability for expenses,
 - (f) a notice of discharge of liability for expenses.
 
-#### 43. Descriptions of land[^key-c099cb97b8dbd21ef7d464f27e8f5df4]
+#### 43. Descriptions of land[^c-c099cb97b8dbd21ef7d464f27e8f5df4]
 
 For the purposes of sections 38(2)(c), 40(3)(b), 41(2)(b), 56(b), 64(d) and 66(2)(c) the description of the land must—
 
 - (a) in the case of land registered in the Land Register of Scotland, include the title number of the land,
 - (b) in the case where the title to the land (or a larger area containing the land) is derived from a deed recorded in the General Register of Sasines, identify the land by reference to that deed.
 
-#### 44. Receipt of notices by Keeper[^key-7c6f881db341d872a8f895305e6eb66d]
+#### 44. Receipt of notices by Keeper[^c-7c6f881db341d872a8f895305e6eb66d]
 
 (1) The Keeper of the Registers of Scotland is not required to investigate or determine whether the information contained in a notice mentioned in subsection (2) that is submitted for registration is accurate.
 
@@ -764,7 +764,7 @@ For the purposes of sections 38(2)(c), 40(3)(b), 41(2)(b), 56(b), 64(d) and 66(2
 
 #### Temporary stop notices
 
-##### 45. Temporary stop notices[^key-95ef22e80d9b2adb7309a5d9d078564d]
+##### 45. Temporary stop notices[^c-95ef22e80d9b2adb7309a5d9d078564d]
 
 (1) Subsection (2) applies if—
 
@@ -816,7 +816,7 @@ For the purposes of sections 38(2)(c), 40(3)(b), 41(2)(b), 56(b), 64(d) and 66(2
 - (b) give a felling direction in relation to a tree that is located on land to which the notice relates,
 - (c) give a restocking direction in relation to land to which the notice relates.
 
-##### 46. Temporary stop notices: offence[^key-ee519f658280ca3f596a9b4cd9143aa8]
+##### 46. Temporary stop notices: offence[^c-ee519f658280ca3f596a9b4cd9143aa8]
 
 (1) A person commits an offence if the person fails, without reasonable excuse, to comply with a temporary stop notice (including any condition imposed on it)—
 
@@ -825,7 +825,7 @@ For the purposes of sections 38(2)(c), 40(3)(b), 41(2)(b), 56(b), 64(d) and 66(2
 
 (2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-##### 47. Temporary stop notices: compensation[^key-806f91e8b46a4bb8858434364c219fb8]
+##### 47. Temporary stop notices: compensation[^c-806f91e8b46a4bb8858434364c219fb8]
 
 (1) A person who—
 
@@ -851,7 +851,7 @@ is entitled to compensation in accordance with provision made in regulations mad
 
 #### Requests for information
 
-##### 48. Requests for information[^key-78871ba0eabb5e3e9b78e9b32fa09fa3]
+##### 48. Requests for information[^c-78871ba0eabb5e3e9b78e9b32fa09fa3]
 
 (1) The Scottish Ministers may request information described in subsection (2) from a person mentioned in subsection (3).
 
@@ -870,7 +870,7 @@ is entitled to compensation in accordance with provision made in regulations mad
 - (b) in the case of a felling direction or a restocking direction, the person to whom the direction was given or an occupier of the land to which the direction relates,
 - (c) in the case of a registered notice to comply, a remedial notice or a registered remedial notice, an owner or occupier of the land to which the notice relates.
 
-##### 49. Requests for information: offence[^key-3f6256516de89c2a35fd3e5733628d39]
+##### 49. Requests for information: offence[^c-3f6256516de89c2a35fd3e5733628d39]
 
 (1) A person commits an offence if the person knowingly or recklessly provides false or misleading information in response to a request for information under section 48.
 
@@ -878,7 +878,7 @@ is entitled to compensation in accordance with provision made in regulations mad
 
 #### Site visits
 
-##### 50. Site visits with consent of owner or occupier[^key-5af973a3cb13dbda85b7a30a52a310a5]
+##### 50. Site visits with consent of owner or occupier[^c-5af973a3cb13dbda85b7a30a52a310a5]
 
 (1) The Scottish Ministers may enter land mentioned in subsection (2) with the consent of an owner or occupier of that land in order to monitor compliance with—
 
@@ -899,7 +899,7 @@ is entitled to compensation in accordance with provision made in regulations mad
 
 #### Powers of entry
 
-##### 51. Power of entry: unauthorised felling[^key-4a654b626b158f05491cd19cb949034a]
+##### 51. Power of entry: unauthorised felling[^c-4a654b626b158f05491cd19cb949034a]
 
 (1) Subsection (2) applies if the Scottish Ministers have reason to believe that a tree has been felled or is being felled and—
 
@@ -914,7 +914,7 @@ is entitled to compensation in accordance with provision made in regulations mad
 
 (2) The Scottish Ministers may enter the land on which the tree was or is located for the purpose of determining whether the tree has been felled or is being felled as described in subsection (1)(a) or (b).
 
-##### 52. Power of entry: decision to give felling directions or restocking directions[^key-5807c0f72bd94ae1e68baaff551bb912]
+##### 52. Power of entry: decision to give felling directions or restocking directions[^c-5807c0f72bd94ae1e68baaff551bb912]
 
 (1) Subsection (2) applies if the Scottish Ministers have reason to believe that they may need to give—
 
@@ -923,7 +923,7 @@ is entitled to compensation in accordance with provision made in regulations mad
 
 (2) The Scottish Ministers may enter the land (or, in the case of a felling direction in relation to a tree, the land on which the tree is located) for the purpose of determining whether they need to give a felling direction or a restocking direction.
 
-##### 53. Power of entry: failure to comply[^key-78e197a45d2574ab79580c88ef0298eb]
+##### 53. Power of entry: failure to comply[^c-78e197a45d2574ab79580c88ef0298eb]
 
 (1) Subsection (2) applies if the Scottish Ministers have reason to believe that a person has failed or is failing to comply with—
 
@@ -946,7 +946,7 @@ is entitled to compensation in accordance with provision made in regulations mad
 
 #### Remedial notices
 
-##### 54. Remedial notices[^key-c1caf705b0c0bb31b9ca8a136274d2da]
+##### 54. Remedial notices[^c-c1caf705b0c0bb31b9ca8a136274d2da]
 
 (1) The Scottish Ministers may give a person a remedial notice if it appears to them that the person has failed or is failing to comply with—
 
@@ -973,20 +973,20 @@ is entitled to compensation in accordance with provision made in regulations mad
 
 (7) Regulations under subsection (6) may, in particular, include provision about the imposition of conditions on a remedial notice (which may include steps that must be taken after the notice is complied with).
 
-##### 55. Remedial notices: offence[^key-6d55d4a58ad021e4d9ce50147a1077db]
+##### 55. Remedial notices: offence[^c-6d55d4a58ad021e4d9ce50147a1077db]
 
 (1) A person commits an offence if the person fails, without reasonable excuse, to comply with a remedial notice (including any condition imposed on it) given to the person.
 
 (2) A person who commits an offence under subsection (1) is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-##### 56. Registration of remedial notices[^key-338407ad34b0387b1b0f3ee3b114929b]
+##### 56. Registration of remedial notices[^c-338407ad34b0387b1b0f3ee3b114929b]
 
 If a remedial notice (including any condition imposed on it) has been given in respect of land, the Scottish Ministers may apply to register a notice in relation to that land specifying—
 
 - (a) the effect of the notice and, if relevant, the date by which it must be complied with,
 - (b) a description of the land to which the notice relates.
 
-##### 57. Registered remedial notices: offence[^key-440d003c9cc150b7fd2538611955c199]
+##### 57. Registered remedial notices: offence[^c-440d003c9cc150b7fd2538611955c199]
 
 (1) An owner of the land to which a registered remedial notice relates commits an offence if that person fails, without reasonable excuse, to comply with the registered remedial notice.
 
@@ -994,7 +994,7 @@ If a remedial notice (including any condition imposed on it) has been given in r
 
 #### Giving documents to owner or occupier
 
-##### 58. Giving documents to owner or occupier[^key-50002e1ed10b876f8ab865582ec73409]
+##### 58. Giving documents to owner or occupier[^c-50002e1ed10b876f8ab865582ec73409]
 
 Where in this Part a notice or other document is to be given to a person as the owner or occupier of land and the person's name or address cannot be ascertained after reasonable enquiry, it may be given by—
 
@@ -1005,7 +1005,7 @@ Where in this Part a notice or other document is to be given to a person as the 
 
 #### Step-in power
 
-##### 59. Step-in power[^key-f1fe74d93611c7f32095bd5045c188c3]
+##### 59. Step-in power[^c-f1fe74d93611c7f32095bd5045c188c3]
 
 If a person fails to comply with a remedial notice (including any condition imposed on it) or a registered remedial notice within the period specified in it for compliance, the Scottish Ministers may—
 
@@ -1014,7 +1014,7 @@ If a person fails to comply with a remedial notice (including any condition impo
 
 #### Powers of entry and step-in power: application to court
 
-##### 60. Powers of entry and step-in power: application to court[^key-c8beca04bc0b6e5f5495066b0d6b88b0]
+##### 60. Powers of entry and step-in power: application to court[^c-c8beca04bc0b6e5f5495066b0d6b88b0]
 
 (1) This section applies to the powers in sections 45, 51, 52, 53 and 59.
 
@@ -1045,7 +1045,7 @@ If a person fails to comply with a remedial notice (including any condition impo
 
 #### Powers of entry and step-in power: offences
 
-##### 61. Powers of entry and step-in power: offences[^key-fa53726f27715fe89722d8e5e6289efd]
+##### 61. Powers of entry and step-in power: offences[^c-fa53726f27715fe89722d8e5e6289efd]
 
 (1) A person commits an offence if the person intentionally obstructs the Scottish Ministers in exercising their powers under section 45, 51, 52 or 53.
 
@@ -1055,7 +1055,7 @@ If a person fails to comply with a remedial notice (including any condition impo
 
 #### Powers of entry and step-in power: further provision
 
-##### 62. Powers of entry and step-in power: further provision[^key-16555b36a975786198e3b4199a96a857]
+##### 62. Powers of entry and step-in power: further provision[^c-16555b36a975786198e3b4199a96a857]
 
 (1) Subsections (2) to (8) apply to the powers in sections 45, 50, 51, 52, 53 and 59.
 
@@ -1097,7 +1097,7 @@ If a person fails to comply with a remedial notice (including any condition impo
 
 #### Step-in power: recovery of expenses
 
-##### 63. Step-in power: recovery of expenses[^key-717334a8cf326d9c3b4abe01075c83ee]
+##### 63. Step-in power: recovery of expenses[^c-717334a8cf326d9c3b4abe01075c83ee]
 
 (1) The Scottish Ministers may recover the expenses mentioned in subsection (2) from the person who failed to comply with the remedial notice (including any condition imposed on it) or (as the case may be) the registered remedial notice.
 
@@ -1113,7 +1113,7 @@ If a person fails to comply with a remedial notice (including any condition impo
 
 (5) Any sums recoverable under subsection (1) may be recovered as a debt.
 
-##### 64. Registration of notices of liability for expenses[^key-2c99d77851e220180d70dcf933d2a228]
+##### 64. Registration of notices of liability for expenses[^c-2c99d77851e220180d70dcf933d2a228]
 
 The Scottish Ministers may apply to register a notice (a “notice of liability for expenses”) specifying—
 
@@ -1123,7 +1123,7 @@ The Scottish Ministers may apply to register a notice (a “notice of liability 
 - (d) a description of the land in respect of which an owner is liable under section 59, and
 - (e) the effect of section 65 in relation to a new owner of that land.
 
-##### 65. Recovery of expenses from new owner of land[^key-2af257d00eca01a638f6c5ae693c9300]
+##### 65. Recovery of expenses from new owner of land[^c-2af257d00eca01a638f6c5ae693c9300]
 
 (1) Subsection (2) applies where—
 
@@ -1138,7 +1138,7 @@ The Scottish Ministers may apply to register a notice (a “notice of liability 
 
 (5) A person who is entitled to recover an amount under subsection (4) does not cease to be entitled to recover that amount by virtue only of ceasing to be the owner of the land.
 
-##### 66. Registration of notices of discharge of liability for expenses[^key-6df17e9216c4234324636c773e7d96c8]
+##### 66. Registration of notices of discharge of liability for expenses[^c-6df17e9216c4234324636c773e7d96c8]
 
 (1) This section applies where liability for expenses and interest to which a registered notice of liability for expenses has been discharged.
 
@@ -1153,7 +1153,7 @@ The Scottish Ministers may apply to register a notice (a “notice of liability 
 
 #### Time limit for prosecution
 
-##### 67. Time limit for prosecution[^key-1980d0a46310e08136c94c6550cda0d6]
+##### 67. Time limit for prosecution[^c-1980d0a46310e08136c94c6550cda0d6]
 
 (1) Proceedings for an offence under section 23, 26, 28, 35, 37, 39, 46, 49, 55 or 57 may be commenced within the period of 6 months beginning with the date on which evidence that the prosecutor believes is sufficient to justify the proceedings came to the prosecutor's knowledge.
 
@@ -1170,7 +1170,7 @@ The Scottish Ministers may apply to register a notice (a “notice of liability 
 
 ### CHAPTER 9 — Appeals
 
-#### 68. Appeals against decisions by Scottish Ministers[^key-9fcbf083304d908cf4b62f4527506a81]
+#### 68. Appeals against decisions by Scottish Ministers[^c-9fcbf083304d908cf4b62f4527506a81]
 
 (1) A person may appeal against—
 
@@ -1204,7 +1204,7 @@ The Scottish Ministers may apply to register a notice (a “notice of liability 
 
 ## PART 5 — General powers
 
-### 69. Information, research and education etc.[^key-191685510ebe27cfcb2cf6b75b5bc385]
+### 69. Information, research and education etc.[^c-191685510ebe27cfcb2cf6b75b5bc385]
 
 The Scottish Ministers may, for the purposes of or in connection with the carrying out of their functions under this Act—
 
@@ -1213,14 +1213,14 @@ The Scottish Ministers may, for the purposes of or in connection with the carryi
 - (c) provide education and training,
 - (d) encourage or assist other persons to do any of the things mentioned in paragraphs (a) to (c).
 
-### 70. Power to form companies etc.[^key-c31af560fb831738b0b9b7543cbdc12b]
+### 70. Power to form companies etc.[^c-c31af560fb831738b0b9b7543cbdc12b]
 
 The Scottish Ministers may, for the purposes of or in connection with the carrying out of their functions under this Act—
 
 - (a) form, or participate in the forming of, a body corporate,
 - (b) act, or appoint a person to act, as an officer of a body corporate.
 
-### 71. Financial assistance[^key-287aa56e7d41329587648fdfcc5a12e8]
+### 71. Financial assistance[^c-287aa56e7d41329587648fdfcc5a12e8]
 
 (1) The Scottish Ministers may, for the purposes of or in connection with the carrying out of their functions under this Act, provide such financial assistance to any person as they consider appropriate.
 
@@ -1228,17 +1228,17 @@ The Scottish Ministers may, for the purposes of or in connection with the carryi
 
 (3) The Scottish Ministers may attach conditions (including conditions as to repayment or the payment of interest) in respect of any financial assistance provided.
 
-### 72. Charging[^key-c4f4da8812a679cb246bf7fe423752b9]
+### 72. Charging[^c-c4f4da8812a679cb246bf7fe423752b9]
 
 The Scottish Ministers may, for the purposes of or in connection with the carrying out of their functions under this Act, impose charges of such amounts as they consider appropriate.
 
-### 73. Chief forester[^key-141339383605b0213ae5ef63576cfeaa]
+### 73. Chief forester[^c-141339383605b0213ae5ef63576cfeaa]
 
 (1) The Scottish Ministers must, for the purposes of assisting and advising them in the carrying out of their functions under this Act, appoint an officer to be known as the chief forester.
 
 (2) The Scottish Ministers must by regulations prescribe qualifications to be held by the person appointed as chief forester.
 
-### 74. Arrangements for carrying out forestry and land management functions[^key-25963e7d1602375102eac8425cf5b964]
+### 74. Arrangements for carrying out forestry and land management functions[^c-25963e7d1602375102eac8425cf5b964]
 
 (1) The Scottish Ministers must, in making administrative arrangements for the purposes of carrying out their forestry and land management functions, establish a single agency or two agencies comprising all members of staff of the Scottish Administration involved in carrying out such functions.
 
@@ -1247,7 +1247,7 @@ The Scottish Ministers may, for the purposes of or in connection with the carryi
 - (a) the Scottish Ministers' functions under Parts 2 to 4 and sections 69 to 72,
 - (b) such other functions relating to or in connection with forestry and land management as the Scottish Ministers may determine.
 
-### 75. Report on operation of administrative arrangements[^key-30db8d2a0432843d2acc6d5b3adc0e79]
+### 75. Report on operation of administrative arrangements[^c-30db8d2a0432843d2acc6d5b3adc0e79]
 
 (1) The Scottish Ministers must, as soon as practicable after the end of the 5 year period, lay before the Scottish Parliament a report on the operation of the administrative arrangements for the carrying out of relevant functions during that period.
 
@@ -1285,7 +1285,7 @@ The Scottish Ministers may, for the purposes of or in connection with the carryi
 
 (2) Regulations under the following provisions are subject to the affirmative procedure—
 
-- (za)[^key-f5d5cdcb58776b9d686340bb2aecd376] section 8A(1),
+- (za)[^c-f5d5cdcb58776b9d686340bb2aecd376] section 8A(1),
 - (a) section 24(1),
 - (b) section 77(1) (if the regulations add to, replace or omit any part of the text of an Act).
 
@@ -1311,17 +1311,17 @@ In this Act—
 - “**forestry dedication agreement**” has the meaning given by section 5 of the Forestry Act 1967,
 - “**owner**”, in relation to any land, means a person who has right to the land whether or not that person has completed title; but if, in relation to the land (or, if the land is held pro indiviso, in relation to any pro indiviso share in it) more than one person comes within that description of owner, then “**owner**” means such person as most recently acquired such right.
 
-### 79. Modifications of enactments and repeals[^key-45bd9d82628feaf67a875b06d07bccf1]
+### 79. Modifications of enactments and repeals[^c-45bd9d82628feaf67a875b06d07bccf1]
 
 (1) Schedule 1 contains modifications of enactments.
 
 (2) The enactments mentioned in the first column of schedule 2 are repealed to the extent set out in the second column.
 
-### 80. Saving of existing forestry dedication agreements[^key-145d53a9895b92e9c53d7d0788628b7e]
+### 80. Saving of existing forestry dedication agreements[^c-145d53a9895b92e9c53d7d0788628b7e]
 
 The repeal of section 5 and schedule 2 of the Forestry Act 1967 by section 79(2) and schedule 2 does not affect any forestry dedication agreement which is in force immediately before the date on which that repeal has effect.
 
-### 81. Forestry Commissioners' functions no longer exercisable in Scotland[^key-2ac6a141f2e43d148dbff8e588b3ee65]
+### 81. Forestry Commissioners' functions no longer exercisable in Scotland[^c-2ac6a141f2e43d148dbff8e588b3ee65]
 
 The functions of the Forestry Commissioners which are exercisable in or as regards Scotland immediately before the date on which this section comes into force are no longer exercisable in or as regards Scotland.
 
@@ -1407,7 +1407,7 @@ The short title of this Act is the Forestry and Land Management (Scotland) Act 2
 
 ### Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947
 
-**1.**[^key-a51fccba92bd65ff51df008f5e41bf69] In section 1(1) of the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (procedure for compulsory purchase of land etc.), after paragraph (d) insert—
+**1.**[^c-a51fccba92bd65ff51df008f5e41bf69] In section 1(1) of the Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (procedure for compulsory purchase of land etc.), after paragraph (d) insert—
 
 > - (da) by the Scottish Ministers under section 19 of the Forestry and Land Management (Scotland) Act 2018;
 
@@ -1415,13 +1415,13 @@ The short title of this Act is the Forestry and Land Management (Scotland) Act 2
 
 ### Town and Country Planning (Scotland) Act 1997
 
-**2.**[^key-8d07d1c00c56c36936a53bc814222aef] In section 160(7) of the Town and Country Planning (Scotland) Act 1997 (power to make tree preservation orders), for paragraph (b) substitute—
+**2.**[^c-8d07d1c00c56c36936a53bc814222aef] In section 160(7) of the Town and Country Planning (Scotland) Act 1997 (power to make tree preservation orders), for paragraph (b) substitute—
 
 > - (b) section 33 of the Forestry and Land Management (Scotland) Act 2018 (felling of trees subject to tree preservation orders).
 
 .
 
-## SCHEDULE 2 — REPEALS[^key-39658f1389a55f59d7d653bd6f5bcc8a]
+## SCHEDULE 2 — REPEALS[^c-39658f1389a55f59d7d653bd6f5bcc8a]
 
 (introduced by section 79(2))
 
@@ -1478,174 +1478,174 @@ The short title of this Act is the Forestry and Land Management (Scotland) Act 2
 
 ## Annotations
 
-[^key-c90ab7e45310178e77121a37daf38cad]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/8/section/1) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-c90ab7e45310178e77121a37daf38cad]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2018/8/section/1) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-7408f04a3143cacc82c6d9df1831c050]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/8/section/2) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-7408f04a3143cacc82c6d9df1831c050]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2018/8/section/2) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-8c9e04ee5ded5ced6db9a05daa9cf2a3]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/8/section/3) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-8c9e04ee5ded5ced6db9a05daa9cf2a3]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2018/8/section/3) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-6dc0bf07640c2eb0e012c1355ccb5ede]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/8/section/4) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-6dc0bf07640c2eb0e012c1355ccb5ede]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2018/8/section/4) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-5904c26f5667f5ae1765b18eef795f12]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/8/section/5) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-5904c26f5667f5ae1765b18eef795f12]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2018/8/section/5) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-9d92d0ef5cf2523509781298bd4c36ad]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/8/section/6) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-9d92d0ef5cf2523509781298bd4c36ad]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2018/8/section/6) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-01763c0aefe50d656a1bdb9dfaa9937f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/8/section/7) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-01763c0aefe50d656a1bdb9dfaa9937f]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2018/8/section/7) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-b557cd96b45a0394babccc2b9b86ed22]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/8/section/8) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-b557cd96b45a0394babccc2b9b86ed22]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2018/8/section/8) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-e2a21a56a0de6c6b0aeb2a3696d32af4]: Textual amendment: S. 8A and cross-heading inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 52(2)](https://www.legislation.gov.uk/asp/2026/6/section/52/2), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z7)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z7)
+[^c-e2a21a56a0de6c6b0aeb2a3696d32af4]: Textual amendment: S. 8A and cross-heading inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 52(2)](https://www.legislation.gov.uk/asp/2026/6/section/52/2), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z7)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z7)
 
-[^key-666d3fabf81171807e0999e3c39ec306]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/8/section/9) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-666d3fabf81171807e0999e3c39ec306]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2018/8/section/9) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-1826c78d5b86d9b26e154cd1ab8ed354]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/8/section/10) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-1826c78d5b86d9b26e154cd1ab8ed354]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2018/8/section/10) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-554bd950044aaf48d128f7cb3a28e5ac]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2018/8/section/11) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-554bd950044aaf48d128f7cb3a28e5ac]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2018/8/section/11) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-9577f4a0f7ea452fc840d4109a210f9a]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2018/8/section/12) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-9577f4a0f7ea452fc840d4109a210f9a]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2018/8/section/12) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-4a0f1c265eeaf8a2c2ab9e3f7011ad9a]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/8/section/13) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-4a0f1c265eeaf8a2c2ab9e3f7011ad9a]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2018/8/section/13) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-50b668700854eb8ab4a3ed028cdea478]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/8/section/14) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-50b668700854eb8ab4a3ed028cdea478]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2018/8/section/14) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-59412a657617c50c40da4ae5e7a4ec1e]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2018/8/section/15) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-59412a657617c50c40da4ae5e7a4ec1e]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2018/8/section/15) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-0b8630b5b655758d0798e8959c7b9284]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2018/8/section/16) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-0b8630b5b655758d0798e8959c7b9284]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2018/8/section/16) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-e1da58846a5c134476b9dc2584646198]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2018/8/section/17) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-e1da58846a5c134476b9dc2584646198]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2018/8/section/17) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-5a44764ccd98d82c0286c0e8ad267fc1]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2018/8/section/18) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-5a44764ccd98d82c0286c0e8ad267fc1]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2018/8/section/18) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-a8a2330a2476e614ca5c1d5560928fe7]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2018/8/section/19) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-a8a2330a2476e614ca5c1d5560928fe7]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2018/8/section/19) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-5d6f4ea04016ea4f3d73d6c80b6d4488]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2018/8/section/20) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-5d6f4ea04016ea4f3d73d6c80b6d4488]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2018/8/section/20) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-caebb20a4b3499d090056ab9360c90d8]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2018/8/section/21) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-caebb20a4b3499d090056ab9360c90d8]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2018/8/section/21) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-f990cfc082cf9e9e79c8447c8f0ca34d]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2018/8/section/22) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-f990cfc082cf9e9e79c8447c8f0ca34d]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2018/8/section/22) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-b2de30cdcb201ee4d2112284b4fbcc56]: Commencement: S. 23 in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-b2de30cdcb201ee4d2112284b4fbcc56]: Commencement: S. 23 in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-eb01add292278fef00c6570a801bdeda]: Modification: S. 23(1) excluded (1.4.2019) by [The Forestry (Exemptions) (Scotland) Regulations 2019 (S.S.I. 2019/126)](https://www.legislation.gov.uk/ssi/2019/126), [regs. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/126/regulation/3), [4](https://www.legislation.gov.uk/ssi/2019/126/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/ssi/2019/126/regulation/5))
+[^c-eb01add292278fef00c6570a801bdeda]: Modification: S. 23(1) excluded (1.4.2019) by [The Forestry (Exemptions) (Scotland) Regulations 2019 (S.S.I. 2019/126)](https://www.legislation.gov.uk/ssi/2019/126), [regs. 1](https://www.legislation.gov.uk/ssi/2019/126/regulation/1), [3](https://www.legislation.gov.uk/ssi/2019/126/regulation/3), [4](https://www.legislation.gov.uk/ssi/2019/126/regulation/4) (with [reg. 5](https://www.legislation.gov.uk/ssi/2019/126/regulation/5))
 
-[^key-baa9c48fb5d30721ef76791aaf0970e2]: Textual amendment: Words in s. 23(1) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 53(2)(a)](https://www.legislation.gov.uk/asp/2026/6/section/53/2/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z8)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z8)
+[^c-baa9c48fb5d30721ef76791aaf0970e2]: Textual amendment: Words in s. 23(1) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 53(2)(a)](https://www.legislation.gov.uk/asp/2026/6/section/53/2/a), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z8)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z8)
 
-[^key-824584ef7f6c710e1093ee004eaa1e6d]: Textual amendment: S. 23(4) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 53(2)(b)](https://www.legislation.gov.uk/asp/2026/6/section/53/2/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z8)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z8)
+[^c-824584ef7f6c710e1093ee004eaa1e6d]: Textual amendment: S. 23(4) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 53(2)(b)](https://www.legislation.gov.uk/asp/2026/6/section/53/2/b), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z8)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z8)
 
-[^key-088f7ad5bc9ca8a458c41ac33976f471]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2018/8/section/24) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-088f7ad5bc9ca8a458c41ac33976f471]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2018/8/section/24) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-b9962e3c44faf571040876903aeef8b7]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2018/8/section/25) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-b9962e3c44faf571040876903aeef8b7]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2018/8/section/25) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-1959b259b264c12d851a1146778266fc]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2018/8/section/26) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-1959b259b264c12d851a1146778266fc]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2018/8/section/26) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-e32d0b1c45477a53d215272e72b9b623]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2018/8/section/27) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-e32d0b1c45477a53d215272e72b9b623]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2018/8/section/27) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-717f7f100b43088dd5d1a9a2155d2575]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2018/8/section/28) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-717f7f100b43088dd5d1a9a2155d2575]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2018/8/section/28) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-98fc54a62e21acd15f8d0447ee2e9172]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2018/8/section/29) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-98fc54a62e21acd15f8d0447ee2e9172]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2018/8/section/29) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-d142d09e131de61f3610a50f3ffc325c]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2018/8/section/30) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-d142d09e131de61f3610a50f3ffc325c]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2018/8/section/30) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-b88439950c514457f246a1aa072e96ea]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2018/8/section/31) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-b88439950c514457f246a1aa072e96ea]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2018/8/section/31) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-026d499712080bd79e827fd5eeae7501]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2018/8/section/32) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-026d499712080bd79e827fd5eeae7501]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2018/8/section/32) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-71e9ecaa5af76746e6f88382f8ed40fd]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2018/8/section/33) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-71e9ecaa5af76746e6f88382f8ed40fd]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2018/8/section/33) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-2562e28e17f2bcf97ce0cbf1b0731c9c]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2018/8/section/34) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-2562e28e17f2bcf97ce0cbf1b0731c9c]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2018/8/section/34) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-7ecd1aa518c369d70a9b03d2df7140e7]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2018/8/section/35) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-7ecd1aa518c369d70a9b03d2df7140e7]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2018/8/section/35) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-7d1eb53bfd3853e9aa515bfd69d36f70]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2018/8/section/36) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-7d1eb53bfd3853e9aa515bfd69d36f70]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2018/8/section/36) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-5a1c4d2d0d8b60ebecbf3be6d518cf39]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2018/8/section/37) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-5a1c4d2d0d8b60ebecbf3be6d518cf39]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2018/8/section/37) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-b5855722dcbf9b79c36a4c49456e1fa2]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2018/8/section/38) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-b5855722dcbf9b79c36a4c49456e1fa2]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2018/8/section/38) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-17847fe6f758b8abc3d03817964a9bfb]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2018/8/section/39) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-17847fe6f758b8abc3d03817964a9bfb]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2018/8/section/39) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-241b8680f3983f284d09a7896fcb4b35]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2018/8/section/40) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-241b8680f3983f284d09a7896fcb4b35]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2018/8/section/40) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-d8ccf9752f638c779e1f4181318e6eea]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2018/8/section/41) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-d8ccf9752f638c779e1f4181318e6eea]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2018/8/section/41) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-7fcc2ab45fe78658babaeeeab20e8664]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2018/8/section/42) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-7fcc2ab45fe78658babaeeeab20e8664]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2018/8/section/42) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-c099cb97b8dbd21ef7d464f27e8f5df4]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2018/8/section/43) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-c099cb97b8dbd21ef7d464f27e8f5df4]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2018/8/section/43) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-7c6f881db341d872a8f895305e6eb66d]: Commencement: S. 44 in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-7c6f881db341d872a8f895305e6eb66d]: Commencement: S. 44 in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-95ef22e80d9b2adb7309a5d9d078564d]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2018/8/section/45) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-95ef22e80d9b2adb7309a5d9d078564d]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2018/8/section/45) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-ee519f658280ca3f596a9b4cd9143aa8]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2018/8/section/46) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-ee519f658280ca3f596a9b4cd9143aa8]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2018/8/section/46) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-806f91e8b46a4bb8858434364c219fb8]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2018/8/section/47) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-806f91e8b46a4bb8858434364c219fb8]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2018/8/section/47) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-78871ba0eabb5e3e9b78e9b32fa09fa3]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2018/8/section/48) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-78871ba0eabb5e3e9b78e9b32fa09fa3]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2018/8/section/48) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-3f6256516de89c2a35fd3e5733628d39]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2018/8/section/49) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-3f6256516de89c2a35fd3e5733628d39]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2018/8/section/49) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-5af973a3cb13dbda85b7a30a52a310a5]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2018/8/section/50) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-5af973a3cb13dbda85b7a30a52a310a5]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2018/8/section/50) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-4a654b626b158f05491cd19cb949034a]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2018/8/section/51) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-4a654b626b158f05491cd19cb949034a]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2018/8/section/51) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-5807c0f72bd94ae1e68baaff551bb912]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2018/8/section/52) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-5807c0f72bd94ae1e68baaff551bb912]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2018/8/section/52) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-78e197a45d2574ab79580c88ef0298eb]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2018/8/section/53) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-78e197a45d2574ab79580c88ef0298eb]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2018/8/section/53) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-c1caf705b0c0bb31b9ca8a136274d2da]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2018/8/section/54) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-c1caf705b0c0bb31b9ca8a136274d2da]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2018/8/section/54) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-6d55d4a58ad021e4d9ce50147a1077db]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2018/8/section/55) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-6d55d4a58ad021e4d9ce50147a1077db]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2018/8/section/55) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-338407ad34b0387b1b0f3ee3b114929b]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2018/8/section/56) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-338407ad34b0387b1b0f3ee3b114929b]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2018/8/section/56) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-440d003c9cc150b7fd2538611955c199]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2018/8/section/57) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-440d003c9cc150b7fd2538611955c199]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2018/8/section/57) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-50002e1ed10b876f8ab865582ec73409]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2018/8/section/58) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-50002e1ed10b876f8ab865582ec73409]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2018/8/section/58) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-f1fe74d93611c7f32095bd5045c188c3]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2018/8/section/59) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-f1fe74d93611c7f32095bd5045c188c3]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2018/8/section/59) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-c8beca04bc0b6e5f5495066b0d6b88b0]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2018/8/section/60) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-c8beca04bc0b6e5f5495066b0d6b88b0]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2018/8/section/60) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-fa53726f27715fe89722d8e5e6289efd]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2018/8/section/61) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-fa53726f27715fe89722d8e5e6289efd]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2018/8/section/61) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-16555b36a975786198e3b4199a96a857]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2018/8/section/62) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-16555b36a975786198e3b4199a96a857]: Commencement: [S. 62](https://www.legislation.gov.uk/asp/2018/8/section/62) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-717334a8cf326d9c3b4abe01075c83ee]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2018/8/section/63) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-717334a8cf326d9c3b4abe01075c83ee]: Commencement: [S. 63](https://www.legislation.gov.uk/asp/2018/8/section/63) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-2c99d77851e220180d70dcf933d2a228]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2018/8/section/64) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-2c99d77851e220180d70dcf933d2a228]: Commencement: [S. 64](https://www.legislation.gov.uk/asp/2018/8/section/64) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-2af257d00eca01a638f6c5ae693c9300]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2018/8/section/65) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-2af257d00eca01a638f6c5ae693c9300]: Commencement: [S. 65](https://www.legislation.gov.uk/asp/2018/8/section/65) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-6df17e9216c4234324636c773e7d96c8]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2018/8/section/66) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-6df17e9216c4234324636c773e7d96c8]: Commencement: [S. 66](https://www.legislation.gov.uk/asp/2018/8/section/66) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-1980d0a46310e08136c94c6550cda0d6]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2018/8/section/67) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-1980d0a46310e08136c94c6550cda0d6]: Commencement: [S. 67](https://www.legislation.gov.uk/asp/2018/8/section/67) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-9fcbf083304d908cf4b62f4527506a81]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2018/8/section/68) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-9fcbf083304d908cf4b62f4527506a81]: Commencement: [S. 68](https://www.legislation.gov.uk/asp/2018/8/section/68) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-191685510ebe27cfcb2cf6b75b5bc385]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2018/8/section/69) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-191685510ebe27cfcb2cf6b75b5bc385]: Commencement: [S. 69](https://www.legislation.gov.uk/asp/2018/8/section/69) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-c31af560fb831738b0b9b7543cbdc12b]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2018/8/section/70) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-c31af560fb831738b0b9b7543cbdc12b]: Commencement: [S. 70](https://www.legislation.gov.uk/asp/2018/8/section/70) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-287aa56e7d41329587648fdfcc5a12e8]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2018/8/section/71) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-287aa56e7d41329587648fdfcc5a12e8]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2018/8/section/71) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-c4f4da8812a679cb246bf7fe423752b9]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2018/8/section/72) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-c4f4da8812a679cb246bf7fe423752b9]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2018/8/section/72) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-141339383605b0213ae5ef63576cfeaa]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2018/8/section/73) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-141339383605b0213ae5ef63576cfeaa]: Commencement: [S. 73](https://www.legislation.gov.uk/asp/2018/8/section/73) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-25963e7d1602375102eac8425cf5b964]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2018/8/section/74) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-25963e7d1602375102eac8425cf5b964]: Commencement: [S. 74](https://www.legislation.gov.uk/asp/2018/8/section/74) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-30db8d2a0432843d2acc6d5b3adc0e79]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2018/8/section/75) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-30db8d2a0432843d2acc6d5b3adc0e79]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2018/8/section/75) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-f5d5cdcb58776b9d686340bb2aecd376]: Textual amendment: S. 76(2)(za) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 52(6)](https://www.legislation.gov.uk/asp/2026/6/section/52/6), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z7)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z7)
+[^c-f5d5cdcb58776b9d686340bb2aecd376]: Textual amendment: S. 76(2)(za) inserted (26.10.2026) by [Natural Environment (Scotland) Act 2026 (asp 6)](https://www.legislation.gov.uk/asp/2026/6), [ss. 52(6)](https://www.legislation.gov.uk/asp/2026/6/section/52/6), [59(2)](https://www.legislation.gov.uk/asp/2026/6/section/59/2); [S.S.I. 2026/275](https://www.legislation.gov.uk/ssi/2026/275), [reg. 2(z7)](https://www.legislation.gov.uk/ssi/2026/275/regulation/2/z7)
 
-[^key-45bd9d82628feaf67a875b06d07bccf1]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2018/8/section/79) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-45bd9d82628feaf67a875b06d07bccf1]: Commencement: [S. 79](https://www.legislation.gov.uk/asp/2018/8/section/79) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-145d53a9895b92e9c53d7d0788628b7e]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2018/8/section/80) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-145d53a9895b92e9c53d7d0788628b7e]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2018/8/section/80) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-2ac6a141f2e43d148dbff8e588b3ee65]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2018/8/section/81) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-2ac6a141f2e43d148dbff8e588b3ee65]: Commencement: [S. 81](https://www.legislation.gov.uk/asp/2018/8/section/81) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-a51fccba92bd65ff51df008f5e41bf69]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2018/8/schedule/1/paragraph/1) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-a51fccba92bd65ff51df008f5e41bf69]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2018/8/schedule/1/paragraph/1) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-8d07d1c00c56c36936a53bc814222aef]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/1/paragraph/2) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-8d07d1c00c56c36936a53bc814222aef]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/1/paragraph/2) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
 
-[^key-39658f1389a55f59d7d653bd6f5bcc8a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))
+[^c-39658f1389a55f59d7d653bd6f5bcc8a]: Commencement: [Sch. 2](https://www.legislation.gov.uk/asp/2018/8/schedule/2) in force at 1.4.2019 by [S.S.I. 2019/47](https://www.legislation.gov.uk/ssi/2019/47), [reg. 2](https://www.legislation.gov.uk/ssi/2019/47/regulation/2) (with [regs. 3-22](https://www.legislation.gov.uk/ssi/2019/47/regulation/3))

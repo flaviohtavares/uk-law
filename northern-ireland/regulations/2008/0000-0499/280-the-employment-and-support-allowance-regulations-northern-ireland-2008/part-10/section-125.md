@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 125. Date on which a... liable relative payment is to be treated as paid[^key-66460127d511783ac6c8c87dabe27e67][^key-0901f53516a7abec334864dff9b2f393]
+## 125. Date on which a... liable relative payment is to be treated as paid[^c-66460127d511783ac6c8c87dabe27e67][^c-0901f53516a7abec334864dff9b2f393]
 
 *Extent: N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-66460127d511783ac6c8c87dabe27e67]: Commencement: [Reg. 125](https://www.legislation.gov.uk/nisr/2008/280/regulation/125) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
+[^c-66460127d511783ac6c8c87dabe27e67]: Commencement: [Reg. 125](https://www.legislation.gov.uk/nisr/2008/280/regulation/125) in operation at 27.10.2008, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2008/280/regulation/1/1)
 
-[^key-0901f53516a7abec334864dff9b2f393]: Textual amendment: Words in [reg. 125](https://www.legislation.gov.uk/nisr/2008/280/regulation/125) heading omitted (coming into force in accordance with reg. 1(5)(c) of the amending Rule) by virtue of [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [reg. 8(5)](https://www.legislation.gov.uk/nisr/2009/338/regulation/8/5)
+[^c-0901f53516a7abec334864dff9b2f393]: Textual amendment: Words in [reg. 125](https://www.legislation.gov.uk/nisr/2008/280/regulation/125) heading omitted (coming into force in accordance with reg. 1(5)(c) of the amending Rule) by virtue of [The Social Security (Miscellaneous Amendments No. 4) Regulations (Northern Ireland) 2009 (S.R. 2009/338)](https://www.legislation.gov.uk/nisr/2009/338), [reg. 8(5)](https://www.legislation.gov.uk/nisr/2009/338/regulation/8/5)

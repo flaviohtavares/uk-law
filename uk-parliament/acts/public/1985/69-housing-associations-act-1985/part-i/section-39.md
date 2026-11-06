@@ -25,7 +25,7 @@ In this Part—
 - “[^c11836771]**assured tenancy**” has, in England and Wales, the same meaning as in Part I of the Housing Act 1988 and, in Scotland, the same meaning as in Part II of the Housing (Scotland) Act 1988;
 - “**assured agricultural occupancy**” has the same meaning as in Part I of the Housing Act 1988.
 - “[^c11836781]**mental disorder**” has the same meaning as in the[^c11836791] [^c11836801]Mental Health Act 1983 or the [^c11836811]Mental Health (Scotland) Act 1984;
-- “ *(Extent: W)*[^key-6691b4f998f26d09f54d39c48025ad55]**occupation contract *(Extent: W)***” has the same meaning as in section 7 of the Renting Homes (Wales) Act 2016 (anaw 1); *(Extent: W)*
+- “ *(Extent: W)*[^c-6691b4f998f26d09f54d39c48025ad55]**occupation contract *(Extent: W)***” has the same meaning as in section 7 of the Renting Homes (Wales) Act 2016 (anaw 1); *(Extent: W)*
 - “**secure tenancy**” has the same meaning as in section 79 of the [^c11836821]Housing Act 1985 or 44 of the Housing (Scotland) Act 1987[^c11836831];
 - [^c11836841]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -43,7 +43,7 @@ In this Part—
 
 [^c11836811]: Marginal citation: [1984 c. 36](https://www.legislation.gov.uk/ukpga/1984/36).
 
-[^key-6691b4f998f26d09f54d39c48025ad55]: Textual amendment: Words in [s. 39](https://www.legislation.gov.uk/ukpga/1985/69/section/39) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [12(3)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/12/3)
+[^c-6691b4f998f26d09f54d39c48025ad55]: Textual amendment: Words in [s. 39](https://www.legislation.gov.uk/ukpga/1985/69/section/39) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [12(3)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/12/3)
 
 [^c11836821]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 

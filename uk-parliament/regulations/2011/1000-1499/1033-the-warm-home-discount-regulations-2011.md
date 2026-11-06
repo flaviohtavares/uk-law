@@ -48,36 +48,36 @@ In accordance with section 31(2) of the Energy Act 2010 a draft of these Regulat
 
 ## PART 1 — Introduction
 
-### 1. Title and commencement[^key-a63335839322f5f29cee0ee6c33e234e]
+### 1. Title and commencement[^c-a63335839322f5f29cee0ee6c33e234e]
 
 (1) These Regulations may be cited as the Warm Home Discount Regulations 2011.
 
 (2) These Regulations come into force on the day after the day on which they are made.
 
-### 2. Interpretation[^key-d8787cee94d58a191a9a61474e412b77]
+### 2. Interpretation[^c-d8787cee94d58a191a9a61474e412b77]
 
 (1) In these Regulations—
 
 - “broader group customer” is to be interpreted in accordance with regulation 18(1);
 - “**commencement date**” means the date on which these Regulations come into force;
 - “**compulsory scheme electricity supplier**” has the meaning given in regulation 5(1);
-- “compulsory smaller electricity supplier” has the meaning given in regulation 5(6);[^key-a4dca6b850c1b550f4125fa45fdc5998]
+- “compulsory smaller electricity supplier” has the meaning given in regulation 5(6);[^c-a4dca6b850c1b550f4125fa45fdc5998]
 - “**core group customer**” has the meaning given in regulation 7(2);
-- “couple” means—[^key-c0eb60b2fe41828559eb4c5f901b9398]
+- “couple” means—[^c-c0eb60b2fe41828559eb4c5f901b9398]
   - (a) two people who are married to, or civil partners of, each other and are members of the same household; or
-  - (b) two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners[^key-d0d588f01748ad1bcb496b27f73b6614];
+  - (b) two people who are not married to, or civil partners of, each other but are living together as if they were a married couple or civil partners[^c-d0d588f01748ad1bcb496b27f73b6614];
 - “**domestic customer**” means an owner or occupier of domestic premises in Great Britain who is supplied with electricity or gas at those premises wholly or mainly for domestic purposes;
 - “**dual fuel**” means electricity and gas, where both are supplied to a domestic customer at the same domestic premises, by a person who is both a licensed electricity supplier and a licensed gas supplier;
-- “eligibility statement” means a document which describes the criteria adopted by the Secretary of State for the purpose of providing the prescribed rebate in a scheme year to persons living in fuel poverty or in a fuel poverty risk group;[^key-14a70254c1a7962dc01a211b8719fe49]
-- “eligible occupier of a mobile home” means an occupier of a mobile home—[^key-080995454e7ab7664b97d6c50928d600]
-  - (a) who is, or whose partner is, in receipt of guarantee credit,[^key-c1f35a42e20b30e0f4127f3a3012d158]
-  - (aa) who meets the criteria described in any eligibility statement for the scheme year consulted on and published by the Secretary of State before the start of the scheme year, or[^key-c3c071bf87b50cabc72ddaf3946f5ca2]
+- “eligibility statement” means a document which describes the criteria adopted by the Secretary of State for the purpose of providing the prescribed rebate in a scheme year to persons living in fuel poverty or in a fuel poverty risk group;[^c-14a70254c1a7962dc01a211b8719fe49]
+- “eligible occupier of a mobile home” means an occupier of a mobile home—[^c-080995454e7ab7664b97d6c50928d600]
+  - (a) who is, or whose partner is, in receipt of guarantee credit,[^c-c1f35a42e20b30e0f4127f3a3012d158]
+  - (aa) who meets the criteria described in any eligibility statement for the scheme year consulted on and published by the Secretary of State before the start of the scheme year, or[^c-c3c071bf87b50cabc72ddaf3946f5ca2]
   - (c) who would be eligible to be a broader group customer if they were a domestic customer of a scheme supplier;
 - “energy advice” means advice on reducing or preventing the wastage of energy in domestic premises;
-- “fifth commencement date” means the date on which the Warm Home Discount (Miscellaneous Amendments) Regulations 2021 come into force;[^key-37b8d16116d9406182347f195508e9c3]
-- “fourth commencement date” means the date on which the Warm Home Discount (Miscellaneous Amendments) Regulations 2018 come into force;[^key-4d5508b658d64da99bf7e2ab7ea45169]
+- “fifth commencement date” means the date on which the Warm Home Discount (Miscellaneous Amendments) Regulations 2021 come into force;[^c-37b8d16116d9406182347f195508e9c3]
+- “fourth commencement date” means the date on which the Warm Home Discount (Miscellaneous Amendments) Regulations 2018 come into force;[^c-4d5508b658d64da99bf7e2ab7ea45169]
 - “**group of companies**” means a holding company and the wholly-owned subsidiaries of that holding company; and “**holding company**” and “**wholly-owned subsidiary**” have the same meanings as in section 1159 of the Companies Act 2006[^f00003];
-- “guarantee credit” is to be construed in accordance with sections 1 and 2 of the State Pension Credit Act 2002;[^key-18a3471167caeac96768fdcde8f8ec90]
+- “guarantee credit” is to be construed in accordance with sections 1 and 2 of the State Pension Credit Act 2002;[^c-18a3471167caeac96768fdcde8f8ec90]
 - “**industry initiative**” has the meaning given in regulation 26(1);
 - “legacy spending”, and references to the amount of legacy spending incurred by a relevant supplier, are to be interpreted in accordance with regulation 21(2);
 - “mobile home” has the meaning given in section 5 of the Mobile Homes Act 1983;
@@ -93,71 +93,71 @@ In accordance with section 31(2) of the Energy Act 2010 a draft of these Regulat
   - (a) in scheme year 1, £120;
   - (b) in scheme year 2, £130;
   - (c) in scheme year 3, £135; and
-  - (d) in all other scheme years, £140;[^key-e1d5fc400e8c9e3daad2d577c3e2a43c]
+  - (d) in all other scheme years, £140;[^c-e1d5fc400e8c9e3daad2d577c3e2a43c]
 - “**relevant supplier**” means a compulsory scheme electricity supplier, or a scheme gas supplier which is connected to a compulsory scheme electricity supplier, which—
   - (a) made a voluntary commitment; and
   - (b) under that commitment, provided financial benefits to domestic customers in the period from 1st April 2010 to 31st March 2011;
-- “scheme electricity supplier” means—[^key-c751606c32a03f5118fcb87fe6082460]
+- “scheme electricity supplier” means—[^c-c751606c32a03f5118fcb87fe6082460]
   - (a) in relation to any of the scheme years 1 to 8, a compulsory scheme electricity supplier or a voluntary scheme electricity supplier;
   - (b) in relation to a subsequent scheme year, a compulsory scheme electricity supplier, a compulsory smaller electricity supplier or a voluntary scheme electricity supplier;
 - “**scheme gas supplier**” has the meaning given in regulation 5(5);
 - “**scheme supplier**” means a scheme electricity supplier or a scheme gas supplier;
-- “scheme year” means a period—[^key-8142da119bcf7b1484033144c6e8a93c]
+- “scheme year” means a period—[^c-8142da119bcf7b1484033144c6e8a93c]
   - (a) from the commencement date to 31st March 2012 (“scheme year 1”);
   - (b) of 12 months commencing on 1st April in any of the years 2012 to 2015 (and “scheme year” followed by a number from 2 to 5 means the scheme year commencing in 2012, 2013, 2014 or 2015, as the case may be);
-  - (c) from the third commencement date to 31st May 2017 (“scheme year 6”); [^key-c5e71fc37db408a997c019005817fa18]...
+  - (c) from the third commencement date to 31st May 2017 (“scheme year 6”); [^c-c5e71fc37db408a997c019005817fa18]...
   - (d) from 1st June 2017 to 31st March 2018 (“scheme year 7”);
-  - (e) from the fourth commencement date to 31st March 2019 (“scheme year 8”);[^key-c61c2ceb0f0d083d235f55c12a9f2640]
-  - (f) from 1st April 2019 to 31st March 2020 (“scheme year 9”); [^key-eed13768c1de49de255c6d96d29c1d8a]...
-  - (g) from 1st April 2020 to 31st March 2021 (“scheme year 10”); or[^key-59c7329f754ec25ec2a3eba077d63362]
-  - ((h)) from the fifth commencement date to 31st March 2022 (“scheme year 11”);[^key-72b933e6be4d85c131a0ddfa8596cbc4]
+  - (e) from the fourth commencement date to 31st March 2019 (“scheme year 8”);[^c-c61c2ceb0f0d083d235f55c12a9f2640]
+  - (f) from 1st April 2019 to 31st March 2020 (“scheme year 9”); [^c-eed13768c1de49de255c6d96d29c1d8a]...
+  - (g) from 1st April 2020 to 31st March 2021 (“scheme year 10”); or[^c-59c7329f754ec25ec2a3eba077d63362]
+  - ((h)) from the fifth commencement date to 31st March 2022 (“scheme year 11”);[^c-72b933e6be4d85c131a0ddfa8596cbc4]
 - “second commencement date” means the date on which the Warm Home Discount (Miscellaneous Amendments) Regulations 2015 come into force;
-- “smart meter advice” means advice on the benefits of using a smart meter in domestic premises;[^key-aceccec0bbbea7e8c2ea6e0e35e6d535]
-- “specified activity” has the meaning given in regulation 27A(1);[^key-7de27ddad26d66a7a1d214807ab2a803]
+- “smart meter advice” means advice on the benefits of using a smart meter in domestic premises;[^c-aceccec0bbbea7e8c2ea6e0e35e6d535]
+- “specified activity” has the meaning given in regulation 27A(1);[^c-7de27ddad26d66a7a1d214807ab2a803]
 - “**state pension credit**” has the meaning given by section 1 of the State Pension Credit Act 2002[^f00004];
-- “third commencement date” means the date on which the Warm Home Discount (Miscellaneous Amendments) Regulations 2016 come into force;[^key-ffb7479e5617917748f5f54f66900eec]
-- “**voluntary commitment**” means a commitment made by a licensed electricity supplier or a licensed gas supplier to the Secretary of State, in respect of the period from 1st April 2008 to 31st March 2011, to provide financial benefits to customers and carry out other initiatives, for the purpose of assisting persons in fuel poverty or in fuel poverty risk groups; [^key-b0aba1ce422317c63e7aebee577ec2d0]...
-- “**voluntary scheme electricity supplier**” has the meaning given in regulation 5(4) and (4A);[^key-82184e351364bebc693afc9fc0eb70ee];
-- “working days” means any day other than—[^key-4821e015e653564464aac845e5a27e93]
+- “third commencement date” means the date on which the Warm Home Discount (Miscellaneous Amendments) Regulations 2016 come into force;[^c-ffb7479e5617917748f5f54f66900eec]
+- “**voluntary commitment**” means a commitment made by a licensed electricity supplier or a licensed gas supplier to the Secretary of State, in respect of the period from 1st April 2008 to 31st March 2011, to provide financial benefits to customers and carry out other initiatives, for the purpose of assisting persons in fuel poverty or in fuel poverty risk groups; [^c-b0aba1ce422317c63e7aebee577ec2d0]...
+- “**voluntary scheme electricity supplier**” has the meaning given in regulation 5(4) and (4A);[^c-82184e351364bebc693afc9fc0eb70ee];
+- “working days” means any day other than—[^c-4821e015e653564464aac845e5a27e93]
   - (a) a Saturday or Sunday; or
   - (b) a day which is a bank holiday in England and Wales or in Scotland under section 1 of the Banking and Financial Dealings Act 1971.
 
 (2) For the purposes of these Regulations, an electricity supplier or gas supplier (A) is connected to an electricity supplier or gas supplier (B) if A and B are companies belonging to the same group of companies.
 
-(3)[^key-a67bf84761d230179048ee26afd1d789] For the purposes of these Regulations, a prescribed rebate is undelivered if—
+(3)[^c-a67bf84761d230179048ee26afd1d789] For the purposes of these Regulations, a prescribed rebate is undelivered if—
 
 - (a) the rebate was provided to a customer by tendering payment of the amount of the prescribed rebate to the customer, and the customer has not accepted that payment; or
 - (b) the rebate was provided to a customer who pre-pays for electricity or gas with credit in the amount of the prescribed rebate against the cost of future electricity or gas use, and the customer has not accepted that credit.
 
 ## PART 2 — The Scheme
 
-### 3. Name and duration of scheme[^key-967244c3a01a330babb389275d4a64c9]
+### 3. Name and duration of scheme[^c-967244c3a01a330babb389275d4a64c9]
 
 (1) These Regulations establish a scheme for reducing fuel poverty, to be known as the Warm Home Discount scheme.
 
-(2) The scheme has effect during the period from the commencement date to 31st March 2016[^key-e2fb5534aacd879bb6bcf74a2e4fe9b0] (“the first[^key-f0c782c5ad43d51ee334a51307198a3d] scheme period”).
+(2) The scheme has effect during the period from the commencement date to 31st March 2016[^c-e2fb5534aacd879bb6bcf74a2e4fe9b0] (“the first[^c-f0c782c5ad43d51ee334a51307198a3d] scheme period”).
 
-(3) The following duties and powers continue to apply after the end of the first[^key-fcd3329210b59e6e3824a909ea570e8c] scheme period—
+(3) The following duties and powers continue to apply after the end of the first[^c-fcd3329210b59e6e3824a909ea570e8c] scheme period—
 
 - (a) the duties of scheme suppliers under regulations 9(5) and (6), 24(2) and 30(3) and Part 1 of Schedule 3;
 - (b) the duty of the Secretary of State under regulation 10;
 - (c) the duties of the Authority under regulations 23 and 29 and Part 2 of Schedule 3; and
 - (d) the powers of the Authority under regulations 24(3) and 30(1) and (2).
 
-(4)[^key-26d53107dd4429f0ec999e9f8cec176d][^key-9f84db707caeadcc663b808d52667eba] The scheme also has effect during the period—
+(4)[^c-26d53107dd4429f0ec999e9f8cec176d][^c-9f84db707caeadcc663b808d52667eba] The scheme also has effect during the period—
 
 - (a) from the third commencement date to 31st March 2018 (“the second scheme period”);
 - (b) from the fourth commencement date to 31st March 2021 (“the third scheme period”); and
 - (c) from the fifth commencement date to 31st March 2022 (“the fourth scheme period”).
 
-(5) The following duties and powers continue to apply after the end of the second scheme period , after the end of the third scheme period and after the end of the fourth scheme period[^key-4a824fec582ce98428ec012263559623]—
+(5) The following duties and powers continue to apply after the end of the second scheme period , after the end of the third scheme period and after the end of the fourth scheme period[^c-4a824fec582ce98428ec012263559623]—
 
 - (a) the duties of scheme suppliers under regulations 9(6) and (7), 14(3A) and 30(3);
 - (b) the duty of the Secretary of State under regulation 10;
 - (c) the duties of the Authority under regulation 29; and
 - (d) the powers of the Authority under regulation 30(1) and (2).
 
-### 4. Notification by suppliers[^key-ef0916fb017930be107bf9543733ae58]
+### 4. Notification by suppliers[^c-ef0916fb017930be107bf9543733ae58]
 
 (1) Paragraph (2) applies to every—
 
@@ -166,24 +166,24 @@ In accordance with section 31(2) of the Energy Act 2010 a draft of these Regulat
 
 (2) A supplier to which this paragraph applies must notify the Authority by—
 
-- (a) 14 days after the commencement date; [^key-8c23c9d0998d7474fad3e13fe60f1c9e]...
-- (b) 14th February in each of the years 2012, 2013 , 2014[^key-90bf45c65808c2196d71c3ffdd1002eb] , 2017, 2019 and 2020[^key-fd3f47fc3330d35304abcb073bcc9b9b],
-- (c)[^key-a4c0b9391c4c901bb22ac9c7061df99a] 14 days after the second commencement date,
-- (d)[^key-6c0429bd6e0c1d68988edee50a309863] 14 days after the third commencement date,
-- (e)[^key-9a8d2944c75026afed1dec9bca922f2f] the 14th day after the fourth commencement date,
-- (f)[^key-8cff4105c74ef28b02d2b59f9e0f23b3] the 14th day after the fifth commencement date,
+- (a) 14 days after the commencement date; [^c-8c23c9d0998d7474fad3e13fe60f1c9e]...
+- (b) 14th February in each of the years 2012, 2013 , 2014[^c-90bf45c65808c2196d71c3ffdd1002eb] , 2017, 2019 and 2020[^c-fd3f47fc3330d35304abcb073bcc9b9b],
+- (c)[^c-a4c0b9391c4c901bb22ac9c7061df99a] 14 days after the second commencement date,
+- (d)[^c-6c0429bd6e0c1d68988edee50a309863] 14 days after the third commencement date,
+- (e)[^c-9a8d2944c75026afed1dec9bca922f2f] the 14th day after the fourth commencement date,
+- (f)[^c-8cff4105c74ef28b02d2b59f9e0f23b3] the 14th day after the fifth commencement date,
 
 of the number of that supplier’s domestic customers on the preceding 31st December.
 
 (3) If, before the commencement of these Regulations, a supplier has notified the Authority of the number of that supplier’s domestic customers on 31st December 2010, the Authority shall treat that as the supplier’s notification for the purposes of paragraph (2)(a).
 
-(3A)[^key-213df6ec7c44b1ab1ade58c788cb3722] If, before the second commencement date, a supplier has notified the Authority of the number of that supplier’s domestic customers on 31st December 2014, the Authority shall treat that as the supplier’s notification for the purposes of paragraph (2)(c).
+(3A)[^c-213df6ec7c44b1ab1ade58c788cb3722] If, before the second commencement date, a supplier has notified the Authority of the number of that supplier’s domestic customers on 31st December 2014, the Authority shall treat that as the supplier’s notification for the purposes of paragraph (2)(c).
 
-(3B)[^key-e8bfc41633ec81b6e3f7f51f9e5ab31c] If, before the third commencement date, a supplier has notified the Authority of the number of that supplier’s domestic customers on 31st December 2015, the Authority shall treat that as the supplier’s notification for the purposes of paragraph (2)(d).
+(3B)[^c-e8bfc41633ec81b6e3f7f51f9e5ab31c] If, before the third commencement date, a supplier has notified the Authority of the number of that supplier’s domestic customers on 31st December 2015, the Authority shall treat that as the supplier’s notification for the purposes of paragraph (2)(d).
 
-(3C)[^key-665c76d78ded0100a08f17d539ead1a0] If, before the fourth commencement date, a supplier has notified the Authority of the number of that supplier’s domestic customers on 31st December 2017, the Authority shall treat that as the supplier’s notification for the purposes of paragraph (2)(e).
+(3C)[^c-665c76d78ded0100a08f17d539ead1a0] If, before the fourth commencement date, a supplier has notified the Authority of the number of that supplier’s domestic customers on 31st December 2017, the Authority shall treat that as the supplier’s notification for the purposes of paragraph (2)(e).
 
-(3D)[^key-ecf77f44fff2dfcb64decbde8e1a7a00] If, before the fifth commencement date, a supplier has notified the Authority of the number of that supplier’s domestic customers on 31st December 2020, the Authority shall treat that as the supplier’s notification for the purposes of paragraph (2)(f).
+(3D)[^c-ecf77f44fff2dfcb64decbde8e1a7a00] If, before the fifth commencement date, a supplier has notified the Authority of the number of that supplier’s domestic customers on 31st December 2020, the Authority shall treat that as the supplier’s notification for the purposes of paragraph (2)(f).
 
 (4) If a supplier does not notify the Authority in accordance with paragraph (2), the Authority shall determine the number of that supplier’s domestic customers on the preceding 31st December.
 
@@ -197,7 +197,7 @@ with a supply of dual fuel being treated as a supply to two domestic customers.
 
 (6) For the purposes of the following regulations, a supplier’s number of domestic customers is the number notified or determined under this regulation.
 
-### 5. Scheme suppliers[^key-7e30df8768d4f34a935151f706c35a31]
+### 5. Scheme suppliers[^c-7e30df8768d4f34a935151f706c35a31]
 
 (1) In relation to any scheme year, a person is a compulsory scheme electricity supplier if—
 
@@ -215,24 +215,24 @@ with a supply of dual fuel being treated as a supply to two domestic customers.
 
 together had at least 250,000 domestic customers on that date.
 
-(4) In relation to any of the scheme years 1 to 7[^key-a24a0133882d4c68df037d58f108bea4], a licensed electricity supplier which is not a compulsory scheme electricity supplier is a voluntary scheme electricity supplier if the supplier gives notice to the Authority—
+(4) In relation to any of the scheme years 1 to 7[^c-a24a0133882d4c68df037d58f108bea4], a licensed electricity supplier which is not a compulsory scheme electricity supplier is a voluntary scheme electricity supplier if the supplier gives notice to the Authority—
 
 - (a) in relation to scheme year 1, by 14 days after the commencement date;
-- (b) in relation to scheme years 2, 3 , 4 and 7[^key-b14a205081a3ef08d25794e893186161], by 14th February preceding the start of the scheme year,
-- (c)[^key-6b0c1008ec67d226b5b70666f1920510] in relation to scheme year 5, by 14 days after the second commencement date,
-- (d)[^key-7baa19e6ea45f81869a0c3b68057400a] in relation to scheme year 6, by 14 days after the third commencement date,
+- (b) in relation to scheme years 2, 3 , 4 and 7[^c-b14a205081a3ef08d25794e893186161], by 14th February preceding the start of the scheme year,
+- (c)[^c-6b0c1008ec67d226b5b70666f1920510] in relation to scheme year 5, by 14 days after the second commencement date,
+- (d)[^c-7baa19e6ea45f81869a0c3b68057400a] in relation to scheme year 6, by 14 days after the third commencement date,
 
 that the supplier wishes Part 3 of these Regulations to apply to it.
 
-(4A)[^key-d4e0052d9cdcfffeb028db15775ff2cb] A licensed electricity supplier is a voluntary scheme electricity supplier—
+(4A)[^c-d4e0052d9cdcfffeb028db15775ff2cb] A licensed electricity supplier is a voluntary scheme electricity supplier—
 
 - (a) in relation to scheme year 8, if—
   - (i) the supplier is not a compulsory scheme electricity supplier; and
   - (ii) the supplier gives notice to the Authority on or before the 14th day after the fourth commencement date that the supplier wishes Part 3 of these Regulations to apply to it;
-- (b) in relation to scheme years 9 and 10[^key-04f3f33f15fbbb9a86312234541b76d7], if—
+- (b) in relation to scheme years 9 and 10[^c-04f3f33f15fbbb9a86312234541b76d7], if—
   - (i) the supplier is not a compulsory scheme electricity supplier or a compulsory smaller electricity supplier; and
   - (ii) the supplier gives notice to the Authority by 14th February preceding the start of the scheme year that the supplier wishes Part 3 of these Regulations to apply to it.
-- (c)[^key-a2e50530630de2d8480c8d3bfb6c021c] in relation to scheme year 11, if—
+- (c)[^c-a2e50530630de2d8480c8d3bfb6c021c] in relation to scheme year 11, if—
   - (i) the supplier is not a compulsory scheme electricity supplier or a compulsory smaller electricity supplier; and
   - (ii) the supplier gives notice to the Authority on or before the 14th day after the fifth commencement date that the supplier wishes Part 3 of these Regulations to apply to it.
 
@@ -242,7 +242,7 @@ that the supplier wishes Part 3 of these Regulations to apply to it.
 - (b) supplied gas to domestic customers on the 31st December preceding the start of the scheme year; and
 - (c) was, on the 31st December preceding the start of the scheme year, connected to a licensed electricity supplier which in the scheme year is a scheme electricity supplier.
 
-(6)[^key-5195fbcc93912e1e726ec2d3a637d279] In relation to scheme year 9, or a subsequent scheme year, a person is a compulsory smaller electricity supplier if—
+(6)[^c-5195fbcc93912e1e726ec2d3a637d279] In relation to scheme year 9, or a subsequent scheme year, a person is a compulsory smaller electricity supplier if—
 
 - (a) that person—
   - (i) is a licensed electricity supplier;
@@ -260,7 +260,7 @@ that the supplier wishes Part 3 of these Regulations to apply to it.
 - (a) in relation to scheme year 9, 200,000;
 - (b) in relation to a subsequent scheme year, 150,000.
 
-### 5A. Suppliers no longer participating in the scheme[^key-382d3964a8d0e761df8e39a91792f22d]
+### 5A. Suppliers no longer participating in the scheme[^c-382d3964a8d0e761df8e39a91792f22d]
 
 (1) This regulation applies to a licensed electricity supplier in any scheme year if—
 
@@ -288,16 +288,16 @@ that the supplier wishes Part 3 of these Regulations to apply to it.
 
 ## PART 3 — The core group
 
-### 6. Determination of scheme customers by the Secretary of State[^key-78f79711dfdc9c624487c1c3cc22d45d]
+### 6. Determination of scheme customers by the Secretary of State[^c-78f79711dfdc9c624487c1c3cc22d45d]
 
 (1) The Secretary of State may in any scheme year give one or more notices to a scheme electricity supplier specifying persons to whom, subject to regulations 7 and 8, the supplier must provide the prescribed rebate.
 
-(2) In scheme years 1 to 7,[^key-a1f3b82c625626cf7d35f616fa6a0f3b] A person may not be specified in a notice unless it appears to the Secretary of State that—
+(2) In scheme years 1 to 7,[^c-a1f3b82c625626cf7d35f616fa6a0f3b] A person may not be specified in a notice unless it appears to the Secretary of State that—
 
 - (a) the person is a domestic customer of the scheme electricity supplier; and
 - (b) the person, or the person’s partner, is in receipt of state pension credit.
 
-(2A)[^key-52c6886bf1a7d366ef9456aceffb094d] In scheme year 8, a person may not be specified in a notice unless it appears to the Secretary of State that—
+(2A)[^c-52c6886bf1a7d366ef9456aceffb094d] In scheme year 8, a person may not be specified in a notice unless it appears to the Secretary of State that—
 
 - (a) the person is a domestic customer of the scheme electricity supplier; and
 - (b) the person, or the person’s partner, is in receipt of guarantee credit.
@@ -309,26 +309,26 @@ that the supplier wishes Part 3 of these Regulations to apply to it.
   - (i) the person meets the criteria described in any eligibility statement for the scheme year consulted on and published, before the start of the scheme year, by the Secretary of State; or
   - (ii) where, before the start of the scheme year, the Secretary of State has not consulted on and published an eligibility statement for the scheme year, the person, or the person’s partner, is in receipt of guarantee credit.
 
-(2C)[^key-b776a2b5b54e80f66d28f28024a69463] In scheme year 11, a person may not be specified in a notice unless it appears to the Secretary of State that—
+(2C)[^c-b776a2b5b54e80f66d28f28024a69463] In scheme year 11, a person may not be specified in a notice unless it appears to the Secretary of State that—
 
 - (a) the person is a domestic customer of the scheme electricity supplier; and
 - (b) the person, or the person’s partner, is in receipt of guarantee credit.
 
-(3)[^key-b5ad0c4cc470f043619130a2a08176db] A notice containing personal information (within the meaning of section 40(5) of the Digital Economy Act 2017) may only be given if—
+(3)[^c-b5ad0c4cc470f043619130a2a08176db] A notice containing personal information (within the meaning of section 40(5) of the Digital Economy Act 2017) may only be given if—
 
 - (a) the personal information is given with the consent of the persons to whom it relates;
 - (b) regulations are in force under section 142 of the Pensions Act 2008 and those regulations authorise the Secretary of State to provide the electricity supplier with the personal information contained in the notice; or
 - (c) the Secretary of State is authorised by section 36 of the Digital Economy Act 2017 to provide the electricity supplier with the personal information contained in the notice.
 
-(4)[^key-1be9f0430c4905c699b2bdf8ac2d1b52] In scheme year 5, a notice may not be given after 1st March 2016.
+(4)[^c-1be9f0430c4905c699b2bdf8ac2d1b52] In scheme year 5, a notice may not be given after 1st March 2016.
 
-(5)[^key-7ca6ac7a8edc5f574d7bfa26a88e7a3f] In scheme year 7, a notice may not be given after 1st March 2018.
+(5)[^c-7ca6ac7a8edc5f574d7bfa26a88e7a3f] In scheme year 7, a notice may not be given after 1st March 2018.
 
-(6)[^key-a3bf590105727de66eee17b71dfc4605] In scheme year 10, a notice may not be given after 1st March 2021.
+(6)[^c-a3bf590105727de66eee17b71dfc4605] In scheme year 10, a notice may not be given after 1st March 2021.
 
-(7)[^key-77b6320e78ad448f034e7cc62d276b9d] In scheme year 11, a notice may not be given after 1st March 2022.
+(7)[^c-77b6320e78ad448f034e7cc62d276b9d] In scheme year 11, a notice may not be given after 1st March 2022.
 
-### 7. Provision of rebate to core group customers[^key-955796ba3db4d825469c55b9c9e2e37d]
+### 7. Provision of rebate to core group customers[^c-955796ba3db4d825469c55b9c9e2e37d]
 
 (1) A scheme electricity supplier which is given a notice under regulation 6(1) must, subject to regulation 8, provide the prescribed rebate in accordance with this regulation to each person specified in the notice who—
 
@@ -340,10 +340,10 @@ that the supplier wishes Part 3 of these Regulations to apply to it.
 (3) A scheme electricity supplier must provide the prescribed rebate to a core group customer by—
 
 - (a) crediting to the customer’s electricity account an amount as a result of which the amount (including Value Added Tax) charged to the customer is reduced by the amount of the prescribed rebate;
-- (aa)[^key-26ead26875c62b12dce19f553b6dd238] following a request by the customer, crediting to the customer’s gas account an amount as a result of which the amount (including Value Added Tax) charged to the customer is reduced by the amount of the prescribed rebate;
-- (b) tendering payment of the amount of the prescribed rebate to the customer; [^key-450cddac3ce76f9fab15b5e4f2d2c5b7]...
-- (c) providing a customer who pre-pays for electricity with credit in the amount of the prescribed rebate against the cost (including Value Added Tax) of future electricity use; or[^key-e931b576abaabb796844482bc9eea254]
-- (d)[^key-797a92c2603caa9167078d05c2989a33] following a request by the customer, providing a customer who pre-pays for gas with credit in the amount of the prescribed rebate against the cost (including Value Added Tax) of future gas use.
+- (aa)[^c-26ead26875c62b12dce19f553b6dd238] following a request by the customer, crediting to the customer’s gas account an amount as a result of which the amount (including Value Added Tax) charged to the customer is reduced by the amount of the prescribed rebate;
+- (b) tendering payment of the amount of the prescribed rebate to the customer; [^c-450cddac3ce76f9fab15b5e4f2d2c5b7]...
+- (c) providing a customer who pre-pays for electricity with credit in the amount of the prescribed rebate against the cost (including Value Added Tax) of future electricity use; or[^c-e931b576abaabb796844482bc9eea254]
+- (d)[^c-797a92c2603caa9167078d05c2989a33] following a request by the customer, providing a customer who pre-pays for gas with credit in the amount of the prescribed rebate against the cost (including Value Added Tax) of future gas use.
 
 (4) The date on which the prescribed rebate is provided to a core group customer is the date on which the scheme electricity supplier complies with paragraph (3).
 
@@ -361,22 +361,22 @@ that the customer has been given a rebate under the Warm Home Discount scheme.
 - (a) the scheme electricity supplier must provide the prescribed rebate to the core group customers specified in the notice within 30 days; and
 - (b) the prescribed rebate is to be treated as being provided in the scheme year in which the notice is given.
 
-### 8. Exceptions[^key-6eaecebc9e5b4bd7c2e8f86d382efd1f]
+### 8. Exceptions[^c-6eaecebc9e5b4bd7c2e8f86d382efd1f]
 
 If the Secretary of State is satisfied that there are circumstances in which it would not be reasonably practicable for scheme electricity suppliers to provide the prescribed rebate to core group customers, the Secretary of State may determine that regulation 7 does not apply in those circumstances.
 
-### 9. Provision of information by suppliers[^key-780423253e4306e9bedfbc91872db55c]
+### 9. Provision of information by suppliers[^c-780423253e4306e9bedfbc91872db55c]
 
 (1) Subject to paragraphs (2) and (3), the Secretary of State may direct scheme electricity suppliers to provide information to the Secretary of State about their domestic customers for the purpose of facilitating the exercise of the power in regulation 6(1).
 
 (2) If a direction is given, it—
 
-- (a) must be given to all scheme electricity suppliers , except for any scheme electricity supplier to whom information may not be disclosed under section 36(1) of the Digital Economy Act 2017[^key-2c32997a5ef0c4bbb096d189fe31a3ad];
+- (a) must be given to all scheme electricity suppliers , except for any scheme electricity supplier to whom information may not be disclosed under section 36(1) of the Digital Economy Act 2017[^c-2c32997a5ef0c4bbb096d189fe31a3ad];
 - (b) must specify the information to be provided;
 - (c) may specify a date on which, or by which, the information is to be provided;
 - (d) may specify the form in which the information is to be provided.
 
-(3)[^key-f3f10e657a5dccd89ad10efd2c42a213] A direction may only be given to a scheme electricity supplier if—
+(3)[^c-f3f10e657a5dccd89ad10efd2c42a213] A direction may only be given to a scheme electricity supplier if—
 
 - (a) regulations are in force under section 142 of the Pensions Act 2008 and those regulations authorise the scheme electricity supplier to disclose to the Secretary of State the information specified in the direction; or
 - (b) the scheme electricity supplier is authorised by section 37 of the Digital Economy Act 2017 to disclose to the Secretary of State the information specified in the direction.
@@ -391,39 +391,39 @@ If the Secretary of State is satisfied that there are circumstances in which it 
 - (b) the reasons why the supplier has not provided the prescribed rebate to those persons; and
 - (c) any steps taken by the supplier to attempt to provide the prescribed rebate to those persons.
 
-(7)[^key-0d3fe534ce4793be686c0ff56e52c410] For scheme years 6 to 11[^key-17b41f4a112ca88adafab088604d0648], a scheme electricity supplier must, within the period specified in paragraph (8), notify the Authority of the number of prescribed rebates provided, or treated as being provided, by the supplier under this Part in the scheme year which are undelivered as at the date of the notification.
+(7)[^c-0d3fe534ce4793be686c0ff56e52c410] For scheme years 6 to 11[^c-17b41f4a112ca88adafab088604d0648], a scheme electricity supplier must, within the period specified in paragraph (8), notify the Authority of the number of prescribed rebates provided, or treated as being provided, by the supplier under this Part in the scheme year which are undelivered as at the date of the notification.
 
 (8) The period specified for the purposes of paragraph (7) is—
 
 - (a) for scheme year 6, the period beginning on 1st July 2017 and ending on 30th September 2017;
 - (b) for scheme year 7, the period beginning on 1st April 2018 and ending on 31st August 2018.
-- (c)[^key-83586c5281951535b78c6516e3234579] for each subsequent scheme year, the period following the end of the scheme year beginning on 1st April and ending on 31st August.
+- (c)[^c-83586c5281951535b78c6516e3234579] for each subsequent scheme year, the period following the end of the scheme year beginning on 1st April and ending on 31st August.
 
-### 10. Provision of information by the Secretary of State[^key-7bac81cee9a679380a28877cf6985487]
+### 10. Provision of information by the Secretary of State[^c-7bac81cee9a679380a28877cf6985487]
 
 The Secretary of State must, in respect of each scheme electricity supplier, notify the Authority as soon as reasonably practicable after the end of each scheme year of—
 
 - (a) the number of persons specified in notices given to that supplier under regulation 6(1) during the scheme year; and
 - (b) the number of those persons in respect of which the supplier has given a notification under regulation 9(5).
 
-### 11. Part 3: Interpretation[^key-1cbde356f8be4ae4d27ba8d79bfa166e]
+### 11. Part 3: Interpretation[^c-1cbde356f8be4ae4d27ba8d79bfa166e]
 
-References in this Part to the Secretary of State, except the second and third references in regulation 6(2B), the references in regulation 8[^key-57776686bc319140dd82a491b64ed238] and the first reference in regulation 9(1), include a person providing services to the Secretary of State.
+References in this Part to the Secretary of State, except the second and third references in regulation 6(2B), the references in regulation 8[^c-57776686bc319140dd82a491b64ed238] and the first reference in regulation 9(1), include a person providing services to the Secretary of State.
 
 ## PART 4 — Non-core spending
 
 ### CHAPTER 1 — General
 
-#### 12. Determination and notification of non-core spending obligation[^key-fc3a284431698c14c336b79e3ae2375b]
+#### 12. Determination and notification of non-core spending obligation[^c-fc3a284431698c14c336b79e3ae2375b]
 
 (1) The Secretary of State must—
 
-- (a) for scheme year 1, by 7 days after the commencement date, [^key-70301a8f0d6ef11646047a9e57b794f7]...
-- (b) for scheme years 2, 3,[^key-5808e7c8c8f0a9c5a279585f557c3320] 4, 7, 9 and 10[^key-761027b8fb9dd6495febf1132c1ea462], by 14th February preceding the start of the scheme year,
-- (c)[^key-1c7fa7fd08b87851e394a851e87586e1] for scheme year 5, by 7 days after the second commencement date,
-- (d)[^key-8d1da63e08eb2069040c543b04536280] for scheme year 6, by 7 days after the third commencement date,
-- (e)[^key-f31d777fccc963e446bde4a1e4b0517d] for scheme year 8, on or before the 7th day after the fourth commencement date,
-- (f)[^key-fd1489149f39f2d3565bdc4a587d9dca] for scheme year 11, on or before the 7th day after the fifth commencement date,
+- (a) for scheme year 1, by 7 days after the commencement date, [^c-70301a8f0d6ef11646047a9e57b794f7]...
+- (b) for scheme years 2, 3,[^c-5808e7c8c8f0a9c5a279585f557c3320] 4, 7, 9 and 10[^c-761027b8fb9dd6495febf1132c1ea462], by 14th February preceding the start of the scheme year,
+- (c)[^c-1c7fa7fd08b87851e394a851e87586e1] for scheme year 5, by 7 days after the second commencement date,
+- (d)[^c-8d1da63e08eb2069040c543b04536280] for scheme year 6, by 7 days after the third commencement date,
+- (e)[^c-f31d777fccc963e446bde4a1e4b0517d] for scheme year 8, on or before the 7th day after the fourth commencement date,
+- (f)[^c-fd1489149f39f2d3565bdc4a587d9dca] for scheme year 11, on or before the 7th day after the fifth commencement date,
 
 determine and notify to the Authority the aggregate non-core spending obligation.
 
@@ -444,32 +444,32 @@ calculate for each compulsory scheme electricity supplier, and notify to that su
   - (ii) Chapter 4 (industry initiatives); and
   - (iii) Chapters 3 and 4 combined.
 
-(5)[^key-d357cab860124136ae436b2e972a1ce0] For scheme year 5 the Authority must, by 28 days after the second commencement date, calculate for each compulsory scheme electricity supplier, and notify to that supplier, the following amounts—
+(5)[^c-d357cab860124136ae436b2e972a1ce0] For scheme year 5 the Authority must, by 28 days after the second commencement date, calculate for each compulsory scheme electricity supplier, and notify to that supplier, the following amounts—
 
 - (a) the supplier’s non-core spending obligation (subject to any later adjustment under regulation 14);
 - (b) the amount of spending which the supplier must aim to make under Chapter 2 (the broader group); and
 - (c) the maximum amount of spending which the supplier may count towards meeting its non-core spending obligation under Chapter 4 (subject to any determination by the Authority under regulation 15(3A)(b)(ii)).
 
-(6)[^key-e626fd70a9e9ae0688ee241c2f69e7ac] The Authority must—
+(6)[^c-e626fd70a9e9ae0688ee241c2f69e7ac] The Authority must—
 
-- (a) for scheme year 6, by 28 days after the third commencement date, [^key-e041a1b42ef12510ca2373572650218a]...
+- (a) for scheme year 6, by 28 days after the third commencement date, [^c-e041a1b42ef12510ca2373572650218a]...
 - (b) for scheme year 7, by 14th March 2017,
-- (c)[^key-e0fd80bc5b0b576cd88d56fa11dbb7a3] for scheme year 8, on or before the 20th working day after the fourth commencement date,
-- (d) for scheme year 9, by 14th March 2019, [^key-0096360079863b57f4487c476f6b9015]...
-- (e) for scheme year 10, by 14th March 2020, and[^key-027e07be716dc50edff2ef172571513a]
-- (f)[^key-ddf5eca524033e7df2cd34aa3e0345f3] for scheme year 11, on or before the 20th working day after the fifth commencement date,
+- (c)[^c-e0fd80bc5b0b576cd88d56fa11dbb7a3] for scheme year 8, on or before the 20th working day after the fourth commencement date,
+- (d) for scheme year 9, by 14th March 2019, [^c-0096360079863b57f4487c476f6b9015]...
+- (e) for scheme year 10, by 14th March 2020, and[^c-027e07be716dc50edff2ef172571513a]
+- (f)[^c-ddf5eca524033e7df2cd34aa3e0345f3] for scheme year 11, on or before the 20th working day after the fifth commencement date,
 
 calculate for each compulsory scheme electricity supplier, and notify to that supplier, the amounts specified in paragraph (7).
 
 (7) The amounts specified for the purposes of paragraph (6) are—
 
 - (a) the supplier’s non-core spending obligation (subject to any later adjustment under regulation 14);
-- (b)[^key-293d3508b55a6def0e0ddf4d7389a3da] for a scheme year in which the aggregate non-core spending obligation exceeds £50 million, the amount of spending which the supplier is required to make under Chapter 2; and
-- (c) the maximum amount of spending which the supplier may count towards meeting its non-core spending obligation under Chapters 4 and 5 combined (subject to any determination by the Authority under regulation 15(3A)(ba)(ii) or 15B(3)(b)[^key-b65a80568bda0419f833d0db8cb55294]).
+- (b)[^c-293d3508b55a6def0e0ddf4d7389a3da] for a scheme year in which the aggregate non-core spending obligation exceeds £50 million, the amount of spending which the supplier is required to make under Chapter 2; and
+- (c) the maximum amount of spending which the supplier may count towards meeting its non-core spending obligation under Chapters 4 and 5 combined (subject to any determination by the Authority under regulation 15(3A)(ba)(ii) or 15B(3)(b)[^c-b65a80568bda0419f833d0db8cb55294]).
 
-#### 13. Calculation of non-core spending obligation[^key-0368944ca1c7311b691187e39c404798]
+#### 13. Calculation of non-core spending obligation[^c-0368944ca1c7311b691187e39c404798]
 
-(1) The non-core spending obligation of a compulsory scheme electricity supplier for a scheme year (subject to paragraphs (5) to (7) and[^key-2a532fedaf3f030a359d6c2b14b851dc] any adjustment under regulation 14) is the relevant percentage of the aggregate non-core spending obligation for that scheme year.
+(1) The non-core spending obligation of a compulsory scheme electricity supplier for a scheme year (subject to paragraphs (5) to (7) and[^c-2a532fedaf3f030a359d6c2b14b851dc] any adjustment under regulation 14) is the relevant percentage of the aggregate non-core spending obligation for that scheme year.
 
 (2) The relevant percentage, in relation to a compulsory scheme electricity supplier (“**C**”) and a scheme year, is [formula: see source](https://www.legislation.gov.uk/uksi/2011/1033)% where—
 
@@ -487,82 +487,82 @@ calculate for each compulsory scheme electricity supplier, and notify to that su
 - (a) references to a supplier’s number of domestic customers are to the supplier’s number of domestic customers on the 31st December preceding the start of the scheme year; and
 - (b) a supplier is to be treated as connected to another supplier if those suppliers were connected on the 31st December preceding the start of the scheme year (but not otherwise).
 
-(5)[^key-dede8816060bce2f5fcfa3a80517f57d] For scheme years 5 to 11[^key-6144b44ddc60690f3a8c12ced18bc64c], paragraph (6) applies if the Secretary of State has reduced or increased the overall spending target for the scheme year[^key-cef7051a68894ddc027250aaa69cfde1] under paragraph 5, or paragraph 6 (as applicable), of Schedule 1.
+(5)[^c-dede8816060bce2f5fcfa3a80517f57d] For scheme years 5 to 11[^c-6144b44ddc60690f3a8c12ced18bc64c], paragraph (6) applies if the Secretary of State has reduced or increased the overall spending target for the scheme year[^c-cef7051a68894ddc027250aaa69cfde1] under paragraph 5, or paragraph 6 (as applicable), of Schedule 1.
 
 (6) Where this paragraph applies, C’s non-core spending obligation (subject to any adjustment under regulation 14) is—
 
-- (a) A – B, if the overall spending target has been reduced under paragraph 5 of Schedule 1 and C was a compulsory scheme electricity supplier in the preceding scheme year[^key-8d5488a8348c20615bb893825ed68158];
-- (b) A + B, if the overall spending target has been increased under paragraph 6 of Schedule 1 and C was a compulsory scheme electricity supplier in the preceding scheme year[^key-881c12f5314cb0bb9f611fc8655037ce];
-- (c)[^key-6c5d845737e8c1157664e1624f200843] A, if C was not a compulsory scheme electricity supplier in the preceding scheme year.
+- (a) A – B, if the overall spending target has been reduced under paragraph 5 of Schedule 1 and C was a compulsory scheme electricity supplier in the preceding scheme year[^c-8d5488a8348c20615bb893825ed68158];
+- (b) A + B, if the overall spending target has been increased under paragraph 6 of Schedule 1 and C was a compulsory scheme electricity supplier in the preceding scheme year[^c-881c12f5314cb0bb9f611fc8655037ce];
+- (c)[^c-6c5d845737e8c1157664e1624f200843] A, if C was not a compulsory scheme electricity supplier in the preceding scheme year.
 
-(7)[^key-ac892200c82b1d6601c3b043e1fd2f1b] In paragraph (6)—
+(7)[^c-ac892200c82b1d6601c3b043e1fd2f1b] In paragraph (6)—
 
 - (a) A is C’s relevant percentage for the scheme year of the amount which would have been the aggregate non-core spending obligation for that scheme year if the overall spending target had not been reduced or increased under paragraph 5, or paragraph 6 (as applicable), of Schedule 1;
 - (b) B is C’s relevant percentage, as determined under paragraph (2) for the preceding scheme year, of the amount by which the overall spending target has been reduced or increased under paragraph 5, or paragraph 6 (as applicable), of Schedule 1.
 
-#### 14. Adjustments for banking and borrowing[^key-13cc0595487e5feb4e6692c5fc5a1d76]
+#### 14. Adjustments for banking and borrowing[^c-13cc0595487e5feb4e6692c5fc5a1d76]
 
-(1) In scheme years 2 to 11[^key-980e458bfbe8d3ee745f2e78e475c12e], if the amount of spending incurred under this Part (as determined by the Authority in accordance with regulation 29(d)) by a compulsory scheme electricity supplier in the preceding scheme year (“D<sub>t-1</sub>”) is greater or less than the supplier’s non-core spending obligation for the preceding scheme year (“S<sub>t-1</sub>”), the Authority must adjust the supplier’s non-core spending obligation for the current scheme year (“**S**”) in accordance with paragraphs (2) and (3).
+(1) In scheme years 2 to 11[^c-980e458bfbe8d3ee745f2e78e475c12e], if the amount of spending incurred under this Part (as determined by the Authority in accordance with regulation 29(d)) by a compulsory scheme electricity supplier in the preceding scheme year (“D<sub>t-1</sub>”) is greater or less than the supplier’s non-core spending obligation for the preceding scheme year (“S<sub>t-1</sub>”), the Authority must adjust the supplier’s non-core spending obligation for the current scheme year (“**S**”) in accordance with paragraphs (2) and (3).
 
 (2) If D<sub>t-1</sub> is less than S<sub>t-1</sub>, S is to be adjusted by adding (S<sub>t-1</sub> – D<sub>t-1</sub>).
 
 (3) If D<sub>t-1</sub> is greater than S<sub>t-1</sub>, S is to be adjusted by subtracting—
 
 - (a) (D<sub>t-1</sub> – S<sub>t-1</sub>), unless sub-paragraph (b) applies ; or
-- (b)[^key-53f0da71783462cb8e68c411aa368d59] in relation to—
-  - (i) scheme years 2 and 3, 1% of S<sub>t-1</sub>, if the amount determined under sub-paragraph (a) is greater than 1% of S<sub>t-1</sub>; [^key-8b5d4f7c8967e1440e0a876e37f39750]...
+- (b)[^c-53f0da71783462cb8e68c411aa368d59] in relation to—
+  - (i) scheme years 2 and 3, 1% of S<sub>t-1</sub>, if the amount determined under sub-paragraph (a) is greater than 1% of S<sub>t-1</sub>; [^c-8b5d4f7c8967e1440e0a876e37f39750]...
   - (ii) scheme year 4, 34% of S<sub>t-1</sub>, if the amount determined under sub-paragraph (a) is greater than 34% of S<sub>t-1</sub>;
-  - (iii)[^key-a345556a0606f78fd453a3d108252e29] subsequent scheme years[^key-9f1b36cc0a073d57f6bba1564c48ef12], 5% of S<sub>t-1</sub>, if the amount determined under sub-paragraph (a) is greater than 5% of S<sub>t-1</sub>.
+  - (iii)[^c-a345556a0606f78fd453a3d108252e29] subsequent scheme years[^c-9f1b36cc0a073d57f6bba1564c48ef12], 5% of S<sub>t-1</sub>, if the amount determined under sub-paragraph (a) is greater than 5% of S<sub>t-1</sub>.
 
-(3A)[^key-abbf64827029eda0832394085f7713e6] For scheme years 6 to 11[^key-1e1ffec0a8837b892937169aad8fa5fb], a compulsory scheme electricity supplier must, within the period specified in paragraph (3B), notify the Authority of the number of prescribed rebates provided by the supplier under Chapter 2 in the scheme year which are undelivered as at the date of the notification.
+(3A)[^c-abbf64827029eda0832394085f7713e6] For scheme years 6 to 11[^c-1e1ffec0a8837b892937169aad8fa5fb], a compulsory scheme electricity supplier must, within the period specified in paragraph (3B), notify the Authority of the number of prescribed rebates provided by the supplier under Chapter 2 in the scheme year which are undelivered as at the date of the notification.
 
 (3B) The period specified for the purposes of paragraph (3A) is—
 
 - (a) for scheme year 6, the period beginning on 1st July 2017 and ending on 30th September 2017;
 - (b) for scheme year 7, the period beginning on 1st April 2018 and ending on 31st August 2018;
-- (c)[^key-ebd664eef77b189f5cff8b26b4810b6d] for each subsequent scheme year, the period following the end of the scheme year beginning on 1st April and ending on 31st August.
+- (c)[^c-ebd664eef77b189f5cff8b26b4810b6d] for each subsequent scheme year, the period following the end of the scheme year beginning on 1st April and ending on 31st August.
 
-(3C)[^key-622c2933910ffc6e0d1fcdd726d31d74] In scheme years 7 to 11, whether or not an adjustment is also made under paragraph (1), the Authority must adjust each supplier’s non-core spending obligation by adding F, where F is £140 multiplied by the sum of—
+(3C)[^c-622c2933910ffc6e0d1fcdd726d31d74] In scheme years 7 to 11, whether or not an adjustment is also made under paragraph (1), the Authority must adjust each supplier’s non-core spending obligation by adding F, where F is £140 multiplied by the sum of—
 
 - (a) where the supplier has made a notification under regulation 9(7) in respect of the preceding scheme year, the number of prescribed rebates as stated in that notification; and
 - (b) where the supplier has made a notification under paragraph (3A) in respect of the preceding scheme year, the number of prescribed rebates as stated in that notification.
 
-(4) The Authority must notify each compulsory scheme electricity supplier by 30th September in scheme years 2, 3 , 4 and 5[^key-e0fada55a07fe6b9abbe839ad361ff1c] and by 31st October in[^key-e1a97f0392e839059864409158bd5f74] scheme years 7, 9 and 10[^key-cb6930b5bbc388aef48e27838474d8dc]—
+(4) The Authority must notify each compulsory scheme electricity supplier by 30th September in scheme years 2, 3 , 4 and 5[^c-e0fada55a07fe6b9abbe839ad361ff1c] and by 31st October in[^c-e1a97f0392e839059864409158bd5f74] scheme years 7, 9 and 10[^c-cb6930b5bbc388aef48e27838474d8dc]—
 
 - (a) whether any adjustment has been made under this regulation to its non-core spending obligation for that scheme year; and
 - (b) if so, the adjusted amount of the supplier’s non-core spending obligation.
 
-(5)[^key-0f22dcaca33fb34aaa781c22556b0879] In scheme year 6, the Authority must notify each compulsory scheme electricity supplier of the matters referred to sub-paragraphs (a) and (b) of paragraph (4) by 30th September 2016, or by 2 months after the third commencement date, whichever is the later.
+(5)[^c-0f22dcaca33fb34aaa781c22556b0879] In scheme year 6, the Authority must notify each compulsory scheme electricity supplier of the matters referred to sub-paragraphs (a) and (b) of paragraph (4) by 30th September 2016, or by 2 months after the third commencement date, whichever is the later.
 
-(6)[^key-a750f8beb4eef2fc8d65204e97d94ee5] In scheme year 8, the Authority must notify each compulsory scheme electricity supplier of the matters referred to in sub-paragraphs (a) and (b) of paragraph (4) by 30th September 2018, or within 2 months of the fourth commencement date, whichever is the later.
+(6)[^c-a750f8beb4eef2fc8d65204e97d94ee5] In scheme year 8, the Authority must notify each compulsory scheme electricity supplier of the matters referred to in sub-paragraphs (a) and (b) of paragraph (4) by 30th September 2018, or within 2 months of the fourth commencement date, whichever is the later.
 
-(7)[^key-21e80004389fea3ed0766689a311ee51] In scheme year 11, the Authority must notify each compulsory scheme electricity supplier of the matters referred to in sub-paragraphs (a) and (b) of paragraph (4) by 30th September 2021, or within two months of the fifth commencement date, whichever is the later.
+(7)[^c-21e80004389fea3ed0766689a311ee51] In scheme year 11, the Authority must notify each compulsory scheme electricity supplier of the matters referred to in sub-paragraphs (a) and (b) of paragraph (4) by 30th September 2021, or within two months of the fifth commencement date, whichever is the later.
 
-#### 15. Types and amounts of spending in scheme years 1 to 7[^key-e553ca9569c5fafb43d9da8bb49f024d][^key-12631b143d5226eb7a37d78422d6f795]
+#### 15. Types and amounts of spending in scheme years 1 to 7[^c-e553ca9569c5fafb43d9da8bb49f024d][^c-12631b143d5226eb7a37d78422d6f795]
 
-(1) In each of scheme years 1 to 7[^key-f6cde0b1b7a01b2ea3c422861e3cb74d] a compulsory scheme electricity supplier must, subject to paragraph (2), incur spending under this Part to the amount of its non-core spending obligation.
+(1) In each of scheme years 1 to 7[^c-f6cde0b1b7a01b2ea3c422861e3cb74d] a compulsory scheme electricity supplier must, subject to paragraph (2), incur spending under this Part to the amount of its non-core spending obligation.
 
 (2) In relation to scheme year 1, 2 or 3, a compulsory scheme electricity supplier is not in breach of paragraph (1) if the amount of spending incurred by the supplier under this Part (as determined by the Authority in accordance with regulation 29(d)) is equal to or greater than 99% of its non-core spending obligation.
 
 (3) The spending to be incurred by a compulsory scheme electricity supplier under this Part—
 
-- (a) must, in each of scheme years 1 to 7[^key-747b95fe93fbb367f715f99a18214dee], include the provision of rebates to broader group customers under Chapter 2 and in scheme[^key-79da7cd42865d327b795d179148f1885] years 5, 6 and 7[^key-ffa097cade503a3cd3640f8e1995e639] must, where reasonably practicable, be no less than the amount notified to the supplier under regulation 12(5)(b) or (7)(b) for the scheme year[^key-79e922b6f25d75ba3ce6301957752e82];
-- (b) if the supplier is a relevant supplier, may in scheme years 1, 2 and 3 include legacy spending under Chapter 3, subject to the limits in paragraph (4)(a) and (c); [^key-5d45a5a3a66024fe3c51a627eee763d7]...
-- (c) in scheme years 1 to 5,[^key-ea409cf6be6dd949999ef77e2df34828] may include spending on industry initiatives under Chapter 4, subject to the limits in paragraph (4)(b) and (c); and[^key-517bf3347e338b525b5d8b2ef3a3cdfc]
-- (d)[^key-008cce86b97919a477f7b7b878b80318] in scheme years 6 and 7, may include spending on industry initiatives under Chapter 4 and on specified activities under Chapter 5, subject to the limits in paragraphs (4)(d) and (4B).
+- (a) must, in each of scheme years 1 to 7[^c-747b95fe93fbb367f715f99a18214dee], include the provision of rebates to broader group customers under Chapter 2 and in scheme[^c-79da7cd42865d327b795d179148f1885] years 5, 6 and 7[^c-ffa097cade503a3cd3640f8e1995e639] must, where reasonably practicable, be no less than the amount notified to the supplier under regulation 12(5)(b) or (7)(b) for the scheme year[^c-79e922b6f25d75ba3ce6301957752e82];
+- (b) if the supplier is a relevant supplier, may in scheme years 1, 2 and 3 include legacy spending under Chapter 3, subject to the limits in paragraph (4)(a) and (c); [^c-5d45a5a3a66024fe3c51a627eee763d7]...
+- (c) in scheme years 1 to 5,[^c-ea409cf6be6dd949999ef77e2df34828] may include spending on industry initiatives under Chapter 4, subject to the limits in paragraph (4)(b) and (c); and[^c-517bf3347e338b525b5d8b2ef3a3cdfc]
+- (d)[^c-008cce86b97919a477f7b7b878b80318] in scheme years 6 and 7, may include spending on industry initiatives under Chapter 4 and on specified activities under Chapter 5, subject to the limits in paragraphs (4)(d) and (4B).
 
-(3A)[^key-bfbfc31c6ef3e89654962eda65eb2b8b] In scheme years 5, 6 and 7[^key-476b2b3bbb599f5aa8a3319a3b7fcfdf]—
+(3A)[^c-bfbfc31c6ef3e89654962eda65eb2b8b] In scheme years 5, 6 and 7[^c-476b2b3bbb599f5aa8a3319a3b7fcfdf]—
 
-- (a)[^key-92a2d3b7c156e0b1a085c1936a6ed97f] a compulsory scheme electricity supplier must notify the Authority by 15th December in the scheme year if it considers that it will not incur at least the amount of spending notified to the supplier under regulation 12(5)(b) or (7)(b) for the scheme year;
-- (b) in scheme year 5,[^key-ab2e8ca3efdd8f26fd6245dbb530b3c6] the Authority must, within 28 days of receiving such a notification—
+- (a)[^c-92a2d3b7c156e0b1a085c1936a6ed97f] a compulsory scheme electricity supplier must notify the Authority by 15th December in the scheme year if it considers that it will not incur at least the amount of spending notified to the supplier under regulation 12(5)(b) or (7)(b) for the scheme year;
+- (b) in scheme year 5,[^c-ab2e8ca3efdd8f26fd6245dbb530b3c6] the Authority must, within 28 days of receiving such a notification—
   - (i) determine whether, and if so the extent to which, the supplier may incur spending below that amount;
   - (ii) where the Authority determines that the supplier may incur spending below that amount, determine the amount by which the supplier must increase its spending under Chapter 4; and
-  - (iii) notify the supplier accordingly; [^key-fe5b611b7261acfc74f31d9a1dc55f64]...
-- (ba)[^key-a0087280fa029b6269fe6e7aa09c93a9] in scheme years 6 and 7, the Authority must, within 28 days of receiving such a notification—
+  - (iii) notify the supplier accordingly; [^c-fe5b611b7261acfc74f31d9a1dc55f64]...
+- (ba)[^c-a0087280fa029b6269fe6e7aa09c93a9] in scheme years 6 and 7, the Authority must, within 28 days of receiving such a notification—
   - (i) determine whether, and if so the extent to which, the supplier may incur spending below that amount;
   - (ii) where the Authority determines that the supplier may incur spending below that amount, determine the amount by which the supplier must increase its spending under Chapters 4 or 5; and
   - (iii) notify the supplier accordingly; and
-- (c) a supplier must comply with a determination notified to it under sub-paragraphs (b)(iii) or (ba)(iii)[^key-b5a4794b061ce8a2b67588bb4cf051ff].
+- (c) a supplier must comply with a determination notified to it under sub-paragraphs (b)(iii) or (ba)(iii)[^c-b5a4794b061ce8a2b67588bb4cf051ff].
 
 (4) The maximum amount of spending that a compulsory scheme electricity supplier may count towards its non-core spending obligation—
 
@@ -570,27 +570,27 @@ calculate for each compulsory scheme electricity supplier, and notify to that su
   - (i) £140 million in scheme year 1;
   - (ii) £70 million in scheme year 2; and
   - (iii) £35 million in scheme year 3;
-- (b)[^key-c2484c50762a23287e18e303dff5c6a4] under Chapter 4—
+- (b)[^c-c2484c50762a23287e18e303dff5c6a4] under Chapter 4—
   - (i) in scheme years 1 to 4, is the relevant percentage of £30 million; and
-  - (ii) in scheme year 5, is the relevant percentage of £30 million, unless the Authority has notified the supplier under paragraph (3A)(b)(iii) that spending in excess of that amount is necessary to meet the supplier’s non-core spending obligation; [^key-5d683eacd5ee4f58bf4dfa705163fe17]...
+  - (ii) in scheme year 5, is the relevant percentage of £30 million, unless the Authority has notified the supplier under paragraph (3A)(b)(iii) that spending in excess of that amount is necessary to meet the supplier’s non-core spending obligation; [^c-5d683eacd5ee4f58bf4dfa705163fe17]...
 - (c) under Chapters 3 and 4 combined, is the relevant percentage of—
   - (i) £150 million in scheme year 1;
   - (ii) £85 million in scheme year 2; and
-  - (iii) £53 million in scheme year 3; and[^key-5c12e385f3e203d7ec22dcb51492cd63]
-- (d)[^key-e800413803f5c2a0fe42bcae30bc0a4a] under Chapters 4 and 5 combined, in scheme years 6 and 7, is the relevant percentage of £30 million, unless the Authority has notified the supplier under paragraph (3A)(ba)(iii) that spending in excess of that amount is necessary to meet the supplier’s non-core spending obligation.
+  - (iii) £53 million in scheme year 3; and[^c-5c12e385f3e203d7ec22dcb51492cd63]
+- (d)[^c-e800413803f5c2a0fe42bcae30bc0a4a] under Chapters 4 and 5 combined, in scheme years 6 and 7, is the relevant percentage of £30 million, unless the Authority has notified the supplier under paragraph (3A)(ba)(iii) that spending in excess of that amount is necessary to meet the supplier’s non-core spending obligation.
 
-(4A)[^key-9e758214c4c806ddef4e5a2f2c723590] In scheme years 5, 6 and 7[^key-4aa251f6996b498fc9eb93d6fb33d329], the amount of spending that a compulsory scheme electricity supplier must aim to make under Chapter 2 is the relevant percentage of the amount calculated by subtracting £30 million from the aggregate non-core spending obligation.
+(4A)[^c-9e758214c4c806ddef4e5a2f2c723590] In scheme years 5, 6 and 7[^c-4aa251f6996b498fc9eb93d6fb33d329], the amount of spending that a compulsory scheme electricity supplier must aim to make under Chapter 2 is the relevant percentage of the amount calculated by subtracting £30 million from the aggregate non-core spending obligation.
 
-(4B)[^key-7190654468989cd0bd7e6a2469172993] The maximum amount of spending under Chapter 4 on debt write-off that a compulsory scheme electricity supplier may count towards its non-core spending obligation is the relevant percentage of—
+(4B)[^c-7190654468989cd0bd7e6a2469172993] The maximum amount of spending under Chapter 4 on debt write-off that a compulsory scheme electricity supplier may count towards its non-core spending obligation is the relevant percentage of—
 
 - (a) £15 million in scheme year 6; and
 - (b) £12 million in scheme year 7.
 
-(5) In paragraphs (4) to (4B)[^key-401add099650deafe5f138b35615814d], “**the relevant percentage**” means the percentage determined under regulation 13(2).
+(5) In paragraphs (4) to (4B)[^c-401add099650deafe5f138b35615814d], “**the relevant percentage**” means the percentage determined under regulation 13(2).
 
-(6)[^key-c3cea753c0e5f74141c5a1713dcc9e2e] In paragraph (4B), “debt write-off” means the provision of assistance to reduce or cancel debts for household electricity or gas supply by means of reducing or cancelling the debts.
+(6)[^c-c3cea753c0e5f74141c5a1713dcc9e2e] In paragraph (4B), “debt write-off” means the provision of assistance to reduce or cancel debts for household electricity or gas supply by means of reducing or cancelling the debts.
 
-#### 15A. Types and amounts of spending from scheme year 8[^key-8d36de0ca1c522519f4015e77561e9a9]
+#### 15A. Types and amounts of spending from scheme year 8[^c-8d36de0ca1c522519f4015e77561e9a9]
 
 (1) This regulation applies to a scheme year commencing on or after the fourth commencement date (“a relevant scheme year”).
 
@@ -609,14 +609,14 @@ calculate for each compulsory scheme electricity supplier, and notify to that su
 - (a) £10 million in scheme year 8;
 - (b) £8 million in scheme year 9;
 - (c) £6 million in scheme year 10.
-- (d)[^key-1814c52ea2430490c7a1937dbb821ac1] £6 million in scheme year 11.
+- (d)[^c-1814c52ea2430490c7a1937dbb821ac1] £6 million in scheme year 11.
 
 (6) Paragraph (5) does not apply in a scheme year in which the aggregate non-core spending obligation is equal to, or less than—
 
 - (a) £10 million in scheme year 8;
 - (b) £8 million in scheme year 9;
 - (c) £6 million in scheme year 10.
-- (d)[^key-66f2e41d0b99e9879ece50fd15d5e49d] £6 million in scheme year 11.
+- (d)[^c-66f2e41d0b99e9879ece50fd15d5e49d] £6 million in scheme year 11.
 
 (7) In this regulation—
 
@@ -641,7 +641,7 @@ calculate for each compulsory scheme electricity supplier, and notify to that su
 
 (5) In this regulation, “relevant scheme year” has the same meaning as in regulation 15A(1).
 
-#### 16. Spending by connected scheme suppliers[^key-2803baa181d901a7d104c3c8261d380f]
+#### 16. Spending by connected scheme suppliers[^c-2803baa181d901a7d104c3c8261d380f]
 
 (1) Paragraph (2) applies if a compulsory scheme electricity supplier (“**C**”) is connected to one or more scheme gas suppliers, but is not connected to another compulsory scheme electricity supplier.
 
@@ -653,7 +653,7 @@ calculate for each compulsory scheme electricity supplier, and notify to that su
 
 (5) In paragraph (4), “Z%” is C’s number of domestic customers as a percentage of the combined number of domestic customers of C and its connected compulsory scheme electricity suppliers.
 
-#### 17. Spending incurred before commencement date[^key-1f4511976e46d43390bec84ce74557f9]
+#### 17. Spending incurred before commencement date[^c-1f4511976e46d43390bec84ce74557f9]
 
 (1) Paragraph (2) applies if these Regulations come into force after 1st April 2011.
 
@@ -662,21 +662,21 @@ calculate for each compulsory scheme electricity supplier, and notify to that su
 - (a) was incurred between 1st April 2011 and the commencement date; and
 - (b) would have counted towards its non-core spending obligation by virtue of Chapter 3 or Chapter 4, if these Regulations had come into force on 1st April 2011.
 
-#### 17A. Scheme year 6 spending incurred before third commencement date[^key-79914f4da42f7b5c3a57348512bd1d71]
+#### 17A. Scheme year 6 spending incurred before third commencement date[^c-79914f4da42f7b5c3a57348512bd1d71]
 
 In scheme year 6, a compulsory scheme electricity supplier may treat as an amount of spending incurred under Chapter 4 any spending which—
 
 - (a) was incurred in the period beginning on 1st April 2016 and ending on the day before the third commencement date, and
 - (b) would count towards its non-core spending obligation by virtue of Chapter 4 if the Warm Home Discount (Miscellaneous Amendments) Regulations 2016 had come into force on 1st April 2016.
 
-#### 17B. Scheme year 8 spending before fourth commencement date[^key-059c3ae6d1986a24bff402f98d02bac1]
+#### 17B. Scheme year 8 spending before fourth commencement date[^c-059c3ae6d1986a24bff402f98d02bac1]
 
 In scheme year 8, a compulsory scheme electricity supplier may treat as an amount of spending incurred under Chapter 4 any spending which—
 
 - (a) takes place in the period beginning on 1st April 2018 and ending on the day before the fourth commencement date; and
 - (b) would count towards its non-core spending obligation by virtue of Chapter 4 if the Warm Home Discount (Miscellaneous Amendments) Regulations 2018 had come into force on 1st April 2018.
 
-#### 17C. Scheme year 11 spending before fifth commencement date[^key-0986170bdc1ec499778f95574cb91c3d]
+#### 17C. Scheme year 11 spending before fifth commencement date[^c-0986170bdc1ec499778f95574cb91c3d]
 
 In scheme year 11, a compulsory scheme electricity supplier may treat as an amount of spending incurred under Chapter 4 any spending which—
 
@@ -685,15 +685,15 @@ In scheme year 11, a compulsory scheme electricity supplier may treat as an amou
 
 ### CHAPTER 2 — The broader group
 
-#### 18. Broader group customers[^key-cd01888f73ff52bdbff02df8be9d5695]
+#### 18. Broader group customers[^c-cd01888f73ff52bdbff02df8be9d5695]
 
-(1) A compulsory scheme electricity supplier must, in each scheme year in which the aggregate non-core spending obligation exceeds £50 million[^key-6476a270ba628310637ba8f43c8f0e1e], provide the prescribed rebate to domestic customers selected by the supplier (“broader group customers”), who appear to the supplier to meet eligibility criteria determined by the supplier and approved by the Authority in accordance with this Chapter.
+(1) A compulsory scheme electricity supplier must, in each scheme year in which the aggregate non-core spending obligation exceeds £50 million[^c-6476a270ba628310637ba8f43c8f0e1e], provide the prescribed rebate to domestic customers selected by the supplier (“broader group customers”), who appear to the supplier to meet eligibility criteria determined by the supplier and approved by the Authority in accordance with this Chapter.
 
 (2) Paragraph (1) does not require a compulsory scheme electricity supplier to provide the prescribed rebate to every domestic customer meeting its eligibility criteria.
 
 (3) A compulsory scheme electricity supplier may not treat a rebate as being provided under this Chapter if it is provided to a core group customer pursuant to a notice under regulation 6.
 
-#### 19. Eligibility criteria and verification measures[^key-e4a698e015bb61bf29c6c118de4d0b23]
+#### 19. Eligibility criteria and verification measures[^c-e4a698e015bb61bf29c6c118de4d0b23]
 
 (1) A compulsory scheme electricity supplier must determine, and notify to the Authority—
 
@@ -713,41 +713,41 @@ In scheme year 11, a compulsory scheme electricity supplier may treat as an amou
 (4) The Authority must approve a supplier’s eligibility criteria if, but only if—
 
 - (a) they satisfy Condition 1; and
-- (b) in the case of eligibility criteria notified for the purposes of any of scheme years 2 to 11[^key-044c4bcfa20a2d59190199fb0cefed89], they also satisfy Condition 2.
+- (b) in the case of eligibility criteria notified for the purposes of any of scheme years 2 to 11[^c-044c4bcfa20a2d59190199fb0cefed89], they also satisfy Condition 2.
 
-(5)[^key-2f9a47e8c06793dcee7176dfd1fea611] Condition 1 is that—
+(5)[^c-2f9a47e8c06793dcee7176dfd1fea611] Condition 1 is that—
 
-- (a)[^key-2d619ccc006a902504aacf96e5cf5fc0] in the case of eligibility criteria notified for the purposes of any of scheme years 2 to 8 and 11[^key-bfe2a7209e40504cb013b5f0c84f30f0], the eligibility criteria include all the descriptions of persons in Part 1 of Schedule 2;
+- (a)[^c-2d619ccc006a902504aacf96e5cf5fc0] in the case of eligibility criteria notified for the purposes of any of scheme years 2 to 8 and 11[^c-bfe2a7209e40504cb013b5f0c84f30f0], the eligibility criteria include all the descriptions of persons in Part 1 of Schedule 2;
 - (aa) in the case of eligibility criteria notified for the purposes of any of scheme years 9 and 10, the Authority is satisfied that the eligibility criteria include all the descriptions of persons in Part 1 of Schedule 2 other than those persons meeting the criteria described in any relevant eligibility statement; and
 - (b) the Authority is satisfied that customers meeting any other criterion will wholly or mainly be persons in fuel poverty, or in a fuel poverty risk group.
 
-(6) Condition 2 is that the criteria are such as to ensure that in scheme years 2 to 11[^key-bf66d5909a7a7fc2c5879db5cc2fb869], customers meeting the criteria will wholly or mainly be persons who were not core group customers in the previous scheme year.
+(6) Condition 2 is that the criteria are such as to ensure that in scheme years 2 to 11[^c-bf66d5909a7a7fc2c5879db5cc2fb869], customers meeting the criteria will wholly or mainly be persons who were not core group customers in the previous scheme year.
 
 (7) The Authority must approve a supplier’s proposed verification measures if, but only if—
 
 - (a) they include all the measures specified in Part 2 of Schedule 2; or
 - (b) the Authority is satisfied that the measures will be at least as effective as those specified in Part 2 of Schedule 2 for the purpose of verifying so far as reasonably practicable that customers provided with the prescribed rebate under this Chapter meet the supplier’s eligibility criteria.
 
-(8)[^key-494f1463f4a6ba83563b1fcd60f070a3] In this regulation, “relevant eligibility statement” means an eligibility statement for the scheme year which has been consulted on and published by the Secretary of State before the start of the scheme year.
+(8)[^c-494f1463f4a6ba83563b1fcd60f070a3] In this regulation, “relevant eligibility statement” means an eligibility statement for the scheme year which has been consulted on and published by the Secretary of State before the start of the scheme year.
 
-#### 20. Provision of rebate to broader group customers[^key-3e21d04d402a901035d7c7611891777e]
+#### 20. Provision of rebate to broader group customers[^c-3e21d04d402a901035d7c7611891777e]
 
 (1) Where a compulsory scheme electricity supplier provides the prescribed rebate to a domestic customer, that rebate is only to be treated as being provided under this Chapter if—
 
 - (a) the supplier has notified eligibility criteria and verification measures to the Authority;
 - (b) either—
   - (i) the rebate is provided after the Authority has approved the eligibility criteria and verification measures; or
-  - (ii) in scheme years 1, 6, 8 and 11[^key-eee9f062b057b1715fe87811545f18d5], the rebate is provided before the Authority has decided whether to approve the eligibility criteria and verification measures, and the Authority subsequently approves them;
+  - (ii) in scheme years 1, 6, 8 and 11[^c-eee9f062b057b1715fe87811545f18d5], the rebate is provided before the Authority has decided whether to approve the eligibility criteria and verification measures, and the Authority subsequently approves them;
 - (c) the supplier applies its verification measures; and
 - (d) it appears to the supplier that the customer meets its eligibility criteria.
 
 (2) A compulsory scheme electricity supplier must provide the prescribed rebate to a broader group customer by—
 
 - (a) crediting to the customer’s electricity account an amount as a result of which the amount (including Value Added Tax) charged to the customer is reduced by the amount of the prescribed rebate;
-- (aa)[^key-28b11b9d98cc8dcc18d1c6cb08adbbe1] following a request by the customer, crediting to the customer’s gas account an amount as a result of which the amount (including Value Added Tax) charged to the customer is reduced by the amount of the prescribed rebate;
-- (b) tendering payment of the amount of the prescribed rebate to the customer; [^key-35078704f832d003b86909f29988bc92]...
-- (c) providing a customer who pre-pays for electricity with credit in the amount of the prescribed rebate against the cost (including Value Added Tax) of future electricity use; or[^key-617a96bf38d165cc4d8169fd07ba68a6]
-- (d)[^key-4b9d0df8daf8628c769d8d0809f61cdd] following a request by the customer, providing a customer who pre-pays for gas with credit in the amount of the prescribed rebate against the cost (including Value Added Tax) of future gas use.
+- (aa)[^c-28b11b9d98cc8dcc18d1c6cb08adbbe1] following a request by the customer, crediting to the customer’s gas account an amount as a result of which the amount (including Value Added Tax) charged to the customer is reduced by the amount of the prescribed rebate;
+- (b) tendering payment of the amount of the prescribed rebate to the customer; [^c-35078704f832d003b86909f29988bc92]...
+- (c) providing a customer who pre-pays for electricity with credit in the amount of the prescribed rebate against the cost (including Value Added Tax) of future electricity use; or[^c-617a96bf38d165cc4d8169fd07ba68a6]
+- (d)[^c-4b9d0df8daf8628c769d8d0809f61cdd] following a request by the customer, providing a customer who pre-pays for gas with credit in the amount of the prescribed rebate against the cost (including Value Added Tax) of future gas use.
 
 (3) The date on which a compulsory scheme electricity supplier provides the prescribed rebate to a customer is the date on which the supplier complies with paragraph (2).
 
@@ -760,11 +760,11 @@ that the customer has been given a rebate under the Warm Home Discount scheme.
 
 ### CHAPTER 3 — Legacy spending
 
-#### 21ZA. Scope of Chapter 3[^key-a91e98987aca779fb7aaf0a129a13269]
+#### 21ZA. Scope of Chapter 3[^c-a91e98987aca779fb7aaf0a129a13269]
 
-This Chapter does not apply in scheme years commencing on or after the third commencement date[^key-44b3a706d7a23eb65fe87cf1249711a5].
+This Chapter does not apply in scheme years commencing on or after the third commencement date[^c-44b3a706d7a23eb65fe87cf1249711a5].
 
-#### 21. Legacy spending[^key-30c8a5a77b6ad854f1dc3ca7618252a2]
+#### 21. Legacy spending[^c-30c8a5a77b6ad854f1dc3ca7618252a2]
 
 (1) Subject to regulation 15(4) and to paragraph (3), a compulsory scheme electricity supplier which is a relevant supplier may count towards its non-core spending obligation for a scheme year—
 
@@ -785,7 +785,7 @@ provided to eligible customers by that supplier in the scheme year.
 - (a) the compulsory scheme electricity supplier; or
 - (b) a connected scheme gas supplier.
 
-#### 22. Provision of rebates[^key-4feb7b9060333eabe070feef8d6a953a]
+#### 22. Provision of rebates[^c-4feb7b9060333eabe070feef8d6a953a]
 
 (1) A rebate to an eligible customer under this Chapter must be provided by—
 
@@ -795,7 +795,7 @@ provided to eligible customers by that supplier in the scheme year.
 
 (2) The date on which a relevant supplier provides a rebate to an eligible customer is the date on which the supplier complies with paragraph (1).
 
-#### 23. Reference tariffs[^key-edcfc6a126cf891137f89383b699032d]
+#### 23. Reference tariffs[^c-edcfc6a126cf891137f89383b699032d]
 
 (1) For each scheme year the Authority must, in relation to each relevant supplier, for each combination of—
 
@@ -819,7 +819,7 @@ designate a tariff offered by the supplier as a reference tariff for the purpose
 - (a) has been continuously available to new customers for a period of not less than one year; or
 - (b) the Authority is satisfied that the supplier intends to make continuously available to new customers for a period of not less than one year.
 
-#### 24. Calculation of legacy spending[^key-a16687bddfe60d9aaf288c4bebf1315d]
+#### 24. Calculation of legacy spending[^c-a16687bddfe60d9aaf288c4bebf1315d]
 
 (1) Each relevant supplier must provide to the Authority, within 8 weeks after the commencement date, details of—
 
@@ -834,7 +834,7 @@ designate a tariff offered by the supplier as a reference tariff for the purpose
 
 (5) Paragraphs (1) and (2) are without prejudice to the Authority’s power to request information under regulation 30.
 
-#### 25. Chapter 3: Interpretation[^key-f14c483dce9366caf0471dc746f265b6]
+#### 25. Chapter 3: Interpretation[^c-f14c483dce9366caf0471dc746f265b6]
 
 In this Chapter, and in Schedule 3—
 
@@ -858,14 +858,14 @@ In this Chapter, and in Schedule 3—
 
 ### CHAPTER 4 — Industry initiatives
 
-#### 26. Industry initiatives[^key-61828b320eac0de8ddecaf5ae40123ab]
+#### 26. Industry initiatives[^c-61828b320eac0de8ddecaf5ae40123ab]
 
-(1) Subject to regulation 15(4) and (4B)[^key-0240af74e545ea1fcdf5cbfc2204fc66] and to paragraphs (2) and (3), a compulsory scheme electricity supplier may in respect of any of scheme years 1 to 7[^key-9efe5060a6badf163704da3b59693190] count towards its non-core spending obligation spending (excluding Value Added Tax) incurred in that scheme year on an activity of a kind listed in the first column of the table in Schedule 4 (an “industry initiative”) by—
+(1) Subject to regulation 15(4) and (4B)[^c-0240af74e545ea1fcdf5cbfc2204fc66] and to paragraphs (2) and (3), a compulsory scheme electricity supplier may in respect of any of scheme years 1 to 7[^c-9efe5060a6badf163704da3b59693190] count towards its non-core spending obligation spending (excluding Value Added Tax) incurred in that scheme year on an activity of a kind listed in the first column of the table in Schedule 4 (an “industry initiative”) by—
 
 - (a) that supplier; or
 - (b) any connected scheme gas supplier, to the extent permitted by regulation 16.
 
-(1A)[^key-d37290fcbf5d1d39b2058a639819dc4e] Subject to regulation 15A(3) to (5), and to paragraphs (2) and (4), a compulsory scheme electricity supplier may in respect of any of scheme years 8 to 11[^key-c27c7891ce76c228f2440608107edf53] count towards its non-core spending obligation spending (excluding Value Added Tax) taking place in that scheme year on an industry initiative by—
+(1A)[^c-d37290fcbf5d1d39b2058a639819dc4e] Subject to regulation 15A(3) to (5), and to paragraphs (2) and (4), a compulsory scheme electricity supplier may in respect of any of scheme years 8 to 11[^c-c27c7891ce76c228f2440608107edf53] count towards its non-core spending obligation spending (excluding Value Added Tax) taking place in that scheme year on an industry initiative by—
 
 - (a) that supplier; or
 - (b) any connected scheme gas supplier, to the extent permitted by regulation 16.
@@ -881,16 +881,16 @@ In this Chapter, and in Schedule 3—
 - (a) the industry initiative has been notified to the Authority under regulation 27; and
 - (b) either—
   - (i) the spending is incurred after the Authority has approved the industry initiative; or
-  - (ii) in scheme years 1 and 6[^key-909e8319be35524f3a32f714c1c59380], the spending is incurred before the Authority has decided whether to approve the industry initiative, and the Authority subsequently approves it.
+  - (ii) in scheme years 1 and 6[^c-909e8319be35524f3a32f714c1c59380], the spending is incurred before the Authority has decided whether to approve the industry initiative, and the Authority subsequently approves it.
 
-(4)[^key-3819eb99d9818dad7b23e6f178dd8de9] Paragraph (1A) only applies in relation to spending on an industry initiative if—
+(4)[^c-3819eb99d9818dad7b23e6f178dd8de9] Paragraph (1A) only applies in relation to spending on an industry initiative if—
 
 - (a) the industry initiative has been notified to the Authority under regulation 27; and
 - (b) either—
   - (i) the spending takes place after the Authority has approved the industry initiative; or
-  - (ii) in scheme years 8 and 11[^key-09e42b47f7276a205743813c951d80b9], the spending takes place before the Authority has decided whether to approve the industry initiative, and the Authority subsequently approves it.
+  - (ii) in scheme years 8 and 11[^c-09e42b47f7276a205743813c951d80b9], the spending takes place before the Authority has decided whether to approve the industry initiative, and the Authority subsequently approves it.
 
-#### 27. Approval of industry initiatives[^key-48d1cf2201d13b1fa85a2bf238e6f0a8]
+#### 27. Approval of industry initiatives[^c-48d1cf2201d13b1fa85a2bf238e6f0a8]
 
 (1) A compulsory scheme electricity supplier that wishes to count spending on industry initiatives towards its non-core spending obligation must notify the Authority of the industry initiatives which it, or any connected scheme gas supplier, proposes to carry out.
 
@@ -902,22 +902,22 @@ In this Chapter, and in Schedule 3—
 (3) The Authority must approve a supplier’s notification if, but only if, it is satisfied that the supplier’s proposed industry initiatives—
 
 - (a) meet the criteria specified in an entry in the first column of the table in Schedule 4, and do not fall within an exception specified in a corresponding entry in the second column of the table;
-- (aa)[^key-7dd50710664619fc337721e1888cb85d] ensure, so far as reasonably practicable, that every domestic consumer provided with benefits under the initiatives will be provided with energy advice and smart meter advice[^key-b03d1ef3b02d39a6581bbe43e19338d2];
+- (aa)[^c-7dd50710664619fc337721e1888cb85d] ensure, so far as reasonably practicable, that every domestic consumer provided with benefits under the initiatives will be provided with energy advice and smart meter advice[^c-b03d1ef3b02d39a6581bbe43e19338d2];
 - (b) include adequate measures to ensure, so far as reasonably practicable, that benefits provided under the initiatives are provided wholly or mainly to persons in fuel poverty or in a fuel poverty risk group; and
 - (c) will provide value for money.
 
-### CHAPTER 5 — Specified Activities[^key-baba4fe13afcbc6092329921f8cad7d8]
+### CHAPTER 5 — Specified Activities[^c-baba4fe13afcbc6092329921f8cad7d8]
 
 #### 27A. Activities specified by the Secretary of State
 
-(1) Subject to regulations 15(4) and 15A(4)[^key-21ce14c1171dffee5d3e7cf1d36d6f1b] and paragraphs (3) and (4), a compulsory scheme electricity supplier may, in respect of scheme years 6 to 11[^key-c3d9dba344f5ea459534205492d988c4], count towards its non-core spending obligation financial contributions (excluding Value Added Tax) made by the supplier in the scheme year to fund an activity specified in a notice published by the Secretary of State in accordance with paragraph (2) (a “specified activity”).
+(1) Subject to regulations 15(4) and 15A(4)[^c-21ce14c1171dffee5d3e7cf1d36d6f1b] and paragraphs (3) and (4), a compulsory scheme electricity supplier may, in respect of scheme years 6 to 11[^c-c3d9dba344f5ea459534205492d988c4], count towards its non-core spending obligation financial contributions (excluding Value Added Tax) made by the supplier in the scheme year to fund an activity specified in a notice published by the Secretary of State in accordance with paragraph (2) (a “specified activity”).
 
 (2) The Secretary of State may publish a notice specifying an activity for the purposes of paragraph (1) where the Secretary of State is satisfied that—
 
 - (a) the funding of the activity is open to contributions from any compulsory scheme electricity supplier;
 - (b) the activity is of a kind listed in the first column of the table in Schedule 4 and does not fall within an exception in the second column of the table;
 - (c) the activity includes adequate measures to ensure, so far as reasonably practicable, that—
-  - (i) every domestic consumer provided with benefits under the activity will be provided with energy advice and smart meter advice[^key-173f7191ead79b3412c52f3017f202e6]; and
+  - (i) every domestic consumer provided with benefits under the activity will be provided with energy advice and smart meter advice[^c-173f7191ead79b3412c52f3017f202e6]; and
   - (ii) benefits under the activity will be provided wholly or mainly to persons in fuel poverty or in a fuel poverty risk group; and
 - (d) the activity will provide value for money.
 
@@ -930,7 +930,7 @@ In this Chapter, and in Schedule 3—
 
 ## PART 5 — Supplementary
 
-### 28. Approvals by the Authority: procedure[^key-5fc0827a52673a63d93a9a9105a816b9]
+### 28. Approvals by the Authority: procedure[^c-5fc0827a52673a63d93a9a9105a816b9]
 
 (1) This regulation applies to notifications to the Authority under regulation 19 or regulation 27.
 
@@ -943,31 +943,31 @@ In this Chapter, and in Schedule 3—
 
 (4) The period referred to in paragraph (3) is—
 
-- (a) 20 working days[^key-73b65b0fb51bd82ab8dd377a5ba6091c] after receipt of the notification, except where sub-paragraph (b) applies;
+- (a) 20 working days[^c-73b65b0fb51bd82ab8dd377a5ba6091c] after receipt of the notification, except where sub-paragraph (b) applies;
 - (b) 12 weeks after the commencement date, if the notification is received by the Authority within 8 weeks after the commencement date.
 
-(5) When a supplier replies to a request for further information, the Authority must within 20 working days[^key-da51d40a32fe2388992caf1497e11793] after receiving the reply—
+(5) When a supplier replies to a request for further information, the Authority must within 20 working days[^c-da51d40a32fe2388992caf1497e11793] after receiving the reply—
 
 - (a) notify the supplier of its decision; or
 - (b) if the Authority still requires further information before determining the notification, request that information from the supplier.
 
 (6) If the Authority refuses to approve a supplier’s notification, or part of a notification, the Authority must give reasons for its refusal.
 
-### 29. Determination of amounts spent by scheme suppliers[^key-9bc12929b1f2df9aaea0ac2975355162]
+### 29. Determination of amounts spent by scheme suppliers[^c-9bc12929b1f2df9aaea0ac2975355162]
 
 (1) The Authority must, in respect of each scheme year, determine as soon as reasonably practicable after the end of the scheme year—
 
 - (a) the total amount of rebates provided in the scheme year, or treated as being provided in the scheme year, by each scheme electricity supplier under Part 3;
 - (b) the total amount of rebates provided in the scheme year by each compulsory scheme electricity supplier under Chapter 2 of Part 4; and
 - (c) the total amounts of—
-  - (i) legacy spending under Chapter 3 of Part 4; [^key-05bb6948dd0861bca44b73c948488daa]...
-  - (ii) spending on industry initiatives under Chapter 4 of Part 4, and[^key-d924a0208e773178fb7dfc05c82b8174]
-  - (iii)[^key-31b71012ee37dc9fb6c920753ecbfef7] for scheme years 6 to 11[^key-61fcab1ce930397ad7f7029b04e0a1af], spending on specified activities under Chapter 5 of Part 4,
+  - (i) legacy spending under Chapter 3 of Part 4; [^c-05bb6948dd0861bca44b73c948488daa]...
+  - (ii) spending on industry initiatives under Chapter 4 of Part 4, and[^c-d924a0208e773178fb7dfc05c82b8174]
+  - (iii)[^c-31b71012ee37dc9fb6c920753ecbfef7] for scheme years 6 to 11[^c-61fcab1ce930397ad7f7029b04e0a1af], spending on specified activities under Chapter 5 of Part 4,
 
   incurred by, or treated as being incurred by, each compulsory scheme electricity supplier which that supplier may count towards its non-core spending obligation for the scheme year; and
 - (d) the total amount of spending incurred by, or treated as being incurred by, each compulsory scheme electricity supplier (being the sum of the amounts determined for that supplier under sub-paragraphs (b) and (c)) which that supplier may count towards its non-core spending obligation for the scheme year.
 
-### 30. Provision of information to the Authority[^key-835429d168c64b2dcfa043a31e710cdb]
+### 30. Provision of information to the Authority[^c-835429d168c64b2dcfa043a31e710cdb]
 
 (1) The Authority may request from a scheme supplier such information as the Authority requires for the purpose of carrying out any of its functions in relation to the Warm Home Discount scheme.
 
@@ -978,7 +978,7 @@ In this Chapter, and in Schedule 3—
 
 (3) A scheme supplier must comply with a request under paragraph (1).
 
-### 30A. Provision of information by the Authority[^key-7e9101fa09ebd6e9393be202ef4ea9ad]
+### 30A. Provision of information by the Authority[^c-7e9101fa09ebd6e9393be202ef4ea9ad]
 
 (1) If the Authority is notified by a supplier of last resort of that supplier’s intention to meet all or part of a failed supplier’s non-core spending obligation for a scheme year and the notification is made on or before 15th February in that scheme year, the Authority must inform the Secretary of State as soon as reasonably practicable after being so notified.
 
@@ -988,7 +988,7 @@ In this Chapter, and in Schedule 3—
 - “last resort supply direction” means a direction given by the Authority to a licensed electricity supplier to take over responsibility for the supply of electricity to domestic customers of a failed supplier;
 - “supplier of last resort” means a compulsory scheme electricity supplier which has been given a last resort supply direction.
 
-### 31. Reviews of the scheme[^key-36edbd5f0211bcfc485e5a176d178040]
+### 31. Reviews of the scheme[^c-36edbd5f0211bcfc485e5a176d178040]
 
 The Secretary of State must conduct a review—
 
@@ -1024,53 +1024,53 @@ Two of the Lords Commissioners of Her Majesty’s Treasury
 
 Regulation 12(2)
 
-### 1. Determination of aggregate non-core spending obligation[^key-f314c73eb32db3355d5456437a7764f0]
+### 1. Determination of aggregate non-core spending obligation[^c-f314c73eb32db3355d5456437a7764f0]
 
 Before determining the amount of the aggregate non-core spending obligation for a scheme year, the Secretary of State must estimate the aggregate amount of benefits (if any) to be provided by scheme suppliers under Part 3 in that scheme year (“the core group spending estimate”).
 
-**2.**[^key-e50fa23998cc804d07cde287d827beef] The amount of the aggregate non-core spending obligation for a scheme year (“year t”) is to be T – E where—
+**2.**[^c-e50fa23998cc804d07cde287d827beef] The amount of the aggregate non-core spending obligation for a scheme year (“year t”) is to be T – E where—
 
 - T is the overall spending target for year t; and
 - E is the core group spending estimate for year t.
 
-**3.**[^key-ae4aee0368a7c35d4a02bd987fbece0b] The overall spending target is—
+**3.**[^c-ae4aee0368a7c35d4a02bd987fbece0b] The overall spending target is—
 
 - (a) £250 million for scheme year 1; and
 - (b) subject to any adjustments under paragraphs 4 to 6, £275 million for scheme year 2;
 - (c) subject to any adjustments under paragraphs 4 to 9—
-  - (i) £300 million for scheme year 3; [^key-9ff277007a4a183d16fdcda669065b43]...
+  - (i) £300 million for scheme year 3; [^c-9ff277007a4a183d16fdcda669065b43]...
   - (ii) £310 million for scheme year 4;
-  - (iii)[^key-c272d4b782641b0877e6d1b63efac689] £320 million for scheme year 5;
-  - (iv)[^key-4fecc01932029b781e9f5a9f92463001] £323 million for scheme year 6;
+  - (iii)[^c-c272d4b782641b0877e6d1b63efac689] £320 million for scheme year 5;
+  - (iv)[^c-4fecc01932029b781e9f5a9f92463001] £323 million for scheme year 6;
   - (v) £329 million for scheme year 7.
-  - (vi)[^key-3bdaa71a5adc59da59bccce761e1c612] £340 million for scheme year 8;
+  - (vi)[^c-3bdaa71a5adc59da59bccce761e1c612] £340 million for scheme year 8;
   - (vii) for scheme year 9, £340 million increased or, as the case may be, decreased by the percentage increase or decrease in the consumer prices index over the 9 month period ending with 31st December 2018 (the resulting figure being rounded to the nearest million pounds sterling, with half a million being rounded upwards);
   - (viii) for scheme year 10, £340 million increased or, as the case may be, decreased by the percentage increase or decrease in the consumer prices index over the 21 month period ending with 31st December 2019 (the resulting figure being rounded to the nearest million pounds sterling, with half a million being rounded upwards).
-  - (ix)[^key-ffc4d5fbc652769ea8d73070cd24b289] £354 million for scheme year 11.
+  - (ix)[^c-ffc4d5fbc652769ea8d73070cd24b289] £354 million for scheme year 11.
 
-**4.**[^key-6297d9f5770601c6d71cadfeb98b857c] Before determining the amount of the aggregate non-core spending obligation for any of[^key-9fd702b7203369360a0f5cfc2c30aeb6] scheme years 2 to 11[^key-5e730cd1de49bb2a2a49418da4677c32], (“year t”), the Secretary of State must—
+**4.**[^c-6297d9f5770601c6d71cadfeb98b857c] Before determining the amount of the aggregate non-core spending obligation for any of[^c-9fd702b7203369360a0f5cfc2c30aeb6] scheme years 2 to 11[^c-5e730cd1de49bb2a2a49418da4677c32], (“year t”), the Secretary of State must—
 
 - (a) review the core group spending estimate for year t-1; and
 - (b) increase or reduce that estimate, if it appears to the Secretary of State that the aggregate amount of benefits provided under Part 3 in year t-1 will be greater or less than the estimate.
 
-**5.**[^key-c946c03ec46455b58a7f168352f44004] If the Secretary of State increases the core group spending estimate for year t-1, the overall spending target for year t is to be reduced by a corresponding amount.
+**5.**[^c-c946c03ec46455b58a7f168352f44004] If the Secretary of State increases the core group spending estimate for year t-1, the overall spending target for year t is to be reduced by a corresponding amount.
 
-**6.**[^key-e32967b9de846a4fc1251e2ab6e8d57f] If the Secretary of State reduces the core group spending estimate for year t-1, the Secretary of State may increase the overall spending target for year t by an amount not exceeding the amount of that reduction.
+**6.**[^c-e32967b9de846a4fc1251e2ab6e8d57f] If the Secretary of State reduces the core group spending estimate for year t-1, the Secretary of State may increase the overall spending target for year t by an amount not exceeding the amount of that reduction.
 
-**7.**[^key-aea1a3cda1e1e4dd692f97ff25b5dca7] Before determining the amount of the obligation for any of[^key-dc31aeb1052edb5799386e74ea39c5b2] scheme years 3 to 11[^key-f172555522abc634a48d8d9911b2cbb7] (“year t”), the Secretary of State must (in addition to the steps in paragraph 4 to 6) calculate the difference between—
+**7.**[^c-aea1a3cda1e1e4dd692f97ff25b5dca7] Before determining the amount of the obligation for any of[^c-dc31aeb1052edb5799386e74ea39c5b2] scheme years 3 to 11[^c-f172555522abc634a48d8d9911b2cbb7] (“year t”), the Secretary of State must (in addition to the steps in paragraph 4 to 6) calculate the difference between—
 
 - (a) the aggregate amount of benefits provided under Part 3 in year t-2 (“A<sub>t-2</sub>”); and
 - (b) the core group spending estimate (with any increase or reduction previously made to it) for year t-2 (“E<sub>t-2</sub>”).
 
-**8.**[^key-c2ff089fed13e38507459ccfe31f4f0c] If A<sub>t-2</sub> is greater than E<sub>t-2</sub>, the overall spending target for year t is to be reduced by an amount corresponding to the difference between A<sub>t-2</sub> and E<sub>t-2</sub>.
+**8.**[^c-c2ff089fed13e38507459ccfe31f4f0c] If A<sub>t-2</sub> is greater than E<sub>t-2</sub>, the overall spending target for year t is to be reduced by an amount corresponding to the difference between A<sub>t-2</sub> and E<sub>t-2</sub>.
 
-**9.**[^key-f2a6d8aac2c3c319df649008efc6c7e0] If A<sub>t-2</sub> is less than E<sub>t-2</sub>, the Secretary of State may increase the overall spending target for year t by an amount not exceeding the difference between A<sub>t-2</sub> and E<sub>t-2</sub>.
+**9.**[^c-f2a6d8aac2c3c319df649008efc6c7e0] If A<sub>t-2</sub> is less than E<sub>t-2</sub>, the Secretary of State may increase the overall spending target for year t by an amount not exceeding the difference between A<sub>t-2</sub> and E<sub>t-2</sub>.
 
-### 10. Interpretation[^key-99817c8515608f56a1050e231951bf94]
+### 10. Interpretation[^c-99817c8515608f56a1050e231951bf94]
 
 In this Schedule—
 
-- “consumer prices index” means—[^key-8f35bd460878491e126e2cc58c4867b6]
+- “consumer prices index” means—[^c-8f35bd460878491e126e2cc58c4867b6]
   - (a) the consumer prices index (CPI) published by the Office for National Statistics, or
   - (b) where the index is not published for a month, any substituted index or figures published by the Office for National Statistics;
 - “**year t-1**” means the scheme year preceding the scheme year for which the amount of the obligation is being determined; and
@@ -1082,29 +1082,29 @@ Regulation 19(5) and (7)
 
 ### PART 1 — Eligibility criteria: descriptions of persons satisfying Condition 1
 
-**1.**[^key-7cf631904513e43b627b7096db5f3850] A person who is in receipt of income support and—
+**1.**[^c-7cf631904513e43b627b7096db5f3850] A person who is in receipt of income support and—
 
 - (a) has parental responsibility for a child under the age of 5 who ordinarily resides with that person; or
 - (b) is in receipt of a qualifying component.
 
-**2.**[^key-077d848f0140d22c42b80ce4f8fd5f5e] A person who is in receipt of income-related employment and support allowance which includes a [^key-3a6b23957c8410bbb3013b9b4ae33089]... support component and—
+**2.**[^c-077d848f0140d22c42b80ce4f8fd5f5e] A person who is in receipt of income-related employment and support allowance which includes a [^c-3a6b23957c8410bbb3013b9b4ae33089]... support component and—
 
 - (a) has parental responsibility for a child under the age of 5 who ordinarily resides with that person; or
 - (b) is in receipt of a qualifying component.
 
-**2A.**[^key-390384871f8f12530d5c4aaf93b9c554] A person who is in receipt of income-related employment and support allowance and who is a member of the work-related activity group and—
+**2A.**[^c-390384871f8f12530d5c4aaf93b9c554] A person who is in receipt of income-related employment and support allowance and who is a member of the work-related activity group and—
 
 - (a) has parental responsibility for a child under the age of 5 who ordinarily resides with that person; or
 - (b) is in receipt of a qualifying component.
 
-**3.**[^key-dd355f3a8e3823dc5697bef31dbb6bb4] A person who is in receipt of income-based job seeker’s allowance and—
+**3.**[^c-dd355f3a8e3823dc5697bef31dbb6bb4] A person who is in receipt of income-based job seeker’s allowance and—
 
 - (a) has parental responsibility for a child under the age of 5 who ordinarily resides with that person; or
 - (b) is in receipt of a qualifying component.
 
-**4.**[^key-dc83ba6d3034c3131946d15d843422ed] A person who is in receipt of universal credit, and has an earned income of between £0 and £1,349 in at least one relevant assessment period[^key-90688eddd4309cef92450a89742330a6], and—
+**4.**[^c-dc83ba6d3034c3131946d15d843422ed] A person who is in receipt of universal credit, and has an earned income of between £0 and £1,349 in at least one relevant assessment period[^c-90688eddd4309cef92450a89742330a6], and—
 
-- (a)[^key-7a8c74286ed79a65f2ec1c3d01d998c2] has limited capability for work or limited capability for work and work-related activity as determined in accordance with Part 5 of the Universal Credit Regulations 2013;
+- (a)[^c-7a8c74286ed79a65f2ec1c3d01d998c2] has limited capability for work or limited capability for work and work-related activity as determined in accordance with Part 5 of the Universal Credit Regulations 2013;
 - (b) is in receipt of the disabled child element; or
 - (c) has parental responsibility for a child under the age of 5 who ordinarily resides with that person.
 
@@ -1115,24 +1115,24 @@ Regulation 19(5) and (7)
 
 ### PART 2 — Verification measures referred to in regulation 19(7)(a)
 
-**1.**[^key-1151cd36e6e861981916ecd76fb6ff8a] Obtaining from each customer, orally or in writing—
+**1.**[^c-1151cd36e6e861981916ecd76fb6ff8a] Obtaining from each customer, orally or in writing—
 
 - (a) the customer’s name, address and telephone number;
 - (b) a declaration that the customer meets the supplier’s eligibility criteria; and
 - (c) an explanation of how the customer meets those criteria.
 
-**2.**[^key-2cc71ca4d6cb8e347d6e9b9da0728c06] Explaining to each customer that the customer may be asked to provide further evidence of eligibility before receiving a rebate under the Warm Home Discount scheme.
+**2.**[^c-2cc71ca4d6cb8e347d6e9b9da0728c06] Explaining to each customer that the customer may be asked to provide further evidence of eligibility before receiving a rebate under the Warm Home Discount scheme.
 
-**3.**[^key-8cb9ea00297b416add3a06db9734abd0] In relation to at least 5% of the number of customers which the compulsory scheme electricity supplier provides with the prescribed rebate in a scheme year, obtaining documentary evidence before providing the prescribed rebate that the customer meets the supplier’s eligibility criteria.
+**3.**[^c-8cb9ea00297b416add3a06db9734abd0] In relation to at least 5% of the number of customers which the compulsory scheme electricity supplier provides with the prescribed rebate in a scheme year, obtaining documentary evidence before providing the prescribed rebate that the customer meets the supplier’s eligibility criteria.
 
-### PART 3 — Interpretation[^key-a3b496d70daa6d36018c0c1fac50ecd3]
+### PART 3 — Interpretation[^c-a3b496d70daa6d36018c0c1fac50ecd3]
 
 In this Schedule—
 
-- “annual income” means the income for the tax year calculated in accordance with the Tax Credits (Definition and Calculation of Income) Regulations 2002;[^key-640fe26b5910b8dd69dcf46c645e5c9b]
+- “annual income” means the income for the tax year calculated in accordance with the Tax Credits (Definition and Calculation of Income) Regulations 2002;[^c-640fe26b5910b8dd69dcf46c645e5c9b]
 - “child tax credit” has the meaning given in Part 1 of the Tax Credits Act 2002;
 - “**documentary evidence**” includes copies of documents;
-- “earned income” means a person’s earned income calculated in accordance with Chapter 2 of Part 6 of the Universal Credit Regulations 2013[^key-98143429e158001a3c7cf1cb2e89811f];
+- “earned income” means a person’s earned income calculated in accordance with Chapter 2 of Part 6 of the Universal Credit Regulations 2013[^c-98143429e158001a3c7cf1cb2e89811f];
 - “member of the work-related activity group” means a person who has or is treated as having limited capability for work under Part 5 of the Employment and Support Allowance Regulations 2008 other than by virtue of regulation 30 of those Regulations;
 - “parental responsibility” has the meaning given in section 3 of the Children Act 1989;
 - “**qualifying component**” means—
@@ -1140,7 +1140,7 @@ In this Schedule—
   - (b) a disabled child premium;
   - (c) a disability premium, enhanced disability premium or severe disability premium;
   - (d) a pensioner premium, higher pensioner premium or enhanced pensioner premium.
-- “relevant assessment period” means an assessment period beginning on a date no earlier than 6 months before the date on which the scheme year starts, where “assessment period” has the meaning given in regulation 21 of the Universal Credit Regulations 2013[^key-47110e5d5c967b7f07ea32514316795e];
+- “relevant assessment period” means an assessment period beginning on a date no earlier than 6 months before the date on which the scheme year starts, where “assessment period” has the meaning given in regulation 21 of the Universal Credit Regulations 2013[^c-47110e5d5c967b7f07ea32514316795e];
 - “universal credit” has the meaning given in section 1 of the Welfare Reform Act 2012;
 
 ## SCHEDULE 3 — Determination of legacy spending
@@ -1149,11 +1149,11 @@ Regulation 24(2) and (4)
 
 ### PART 1 — Information to be provided by relevant suppliers to the Authority
 
-**1.**[^key-b99508e2b3b13937555b888e5d582ee6] The mean annual household electricity consumption in the scheme year of all domestic customers supplied by the relevant supplier with electricity at a discounted tariff.
+**1.**[^c-b99508e2b3b13937555b888e5d582ee6] The mean annual household electricity consumption in the scheme year of all domestic customers supplied by the relevant supplier with electricity at a discounted tariff.
 
-**2.**[^key-df6300c93b6a65f97c06d4116fa8088f] The mean annual household gas consumption in the scheme year of all domestic customers supplied by the relevant supplier with gas at a discounted tariff.
+**2.**[^c-df6300c93b6a65f97c06d4116fa8088f] The mean annual household gas consumption in the scheme year of all domestic customers supplied by the relevant supplier with gas at a discounted tariff.
 
-**3.**[^key-4c896da0c5b6935ae6aaf382c0be8efb] For each combination of fuel type and payment method—
+**3.**[^c-4c896da0c5b6935ae6aaf382c0be8efb] For each combination of fuel type and payment method—
 
 - (a) the number of customers supplied at a discounted tariff (“discounted tariff customers”) on the last day of each month in the scheme year;
 - (b) unless sub-paragraph (d) applies, the price of the discounted tariff on the last day of each month in the scheme year;
@@ -1161,7 +1161,7 @@ Regulation 24(2) and (4)
 - (d) if the supplier charges different prices in different regions for the discounted tariff, the mean, on the last day of each month in the scheme year, of the prices of the discounted tariff in each region in which the supplier has customers on that tariff, and
 - (e) if the supplier charges different prices in different regions for the reference tariff, the mean, on the last day of each month in the scheme year, of the prices of the reference tariff in each region in which the supplier has customers on that tariff.
 
-**4.**[^key-742f6837124b73b3b03aded4a87c4031] For each combination of fuel type, payment method and month—
+**4.**[^c-742f6837124b73b3b03aded4a87c4031] For each combination of fuel type, payment method and month—
 
 - (a) the total annual cost of fuel for a discounted tariff customer (“**D**”), and
 - (b) the total annual cost of fuel for a customer paying a reference tariff (“**R**”),
@@ -1173,27 +1173,27 @@ on the assumptions that (in each case)—
 - (iii) the price of the tariff on the last day of that month remains unchanged for that year; and
 - (iv) if the supplier charges different prices in different regions for the tariff, the price paid by the customer is the mean of the prices charged in each region in which the supplier has customers on that tariff.
 
-**5.**[^key-9a68a170ff0c7de16f28ace37bc87a21] The amount of each rebate provided by the supplier under Chapter 3 of Part 4, and the number of customers provided with a rebate of that amount.
+**5.**[^c-9a68a170ff0c7de16f28ace37bc87a21] The amount of each rebate provided by the supplier under Chapter 3 of Part 4, and the number of customers provided with a rebate of that amount.
 
 ### PART 2 — Method to be used by the Authority to calculate the value of discounted tariffs provided by a relevant supplier
 
-**1.**[^key-1a3241fb8531e12ee720eb9dba856d43] In relation to each month in a scheme year—
+**1.**[^c-1a3241fb8531e12ee720eb9dba856d43] In relation to each month in a scheme year—
 
 - (a) for each combination of fuel type and payment method, (R – D) is to be multiplied by the relevant supplier’s number of discounted tariff customers on the last day of the month; and
 - (b) for each fuel type, the amounts calculated under sub-paragraph (a) for different payment methods are to be added together.
 
-**2.**[^key-f835e9f9459f87423d4c0ce2ca4da505] For each fuel type—
+**2.**[^c-f835e9f9459f87423d4c0ce2ca4da505] For each fuel type—
 
 - (a) in relation to each quarter, the mean of the amounts calculated under paragraph 1(b) for the months in that quarter is to be multiplied by the relevant weighting; and
 - (b) the amounts calculated under sub-paragraph (a) for each quarter in the scheme year are to be added together.
 
-**3.**[^key-be722683d7960ccc48c0f0db2d4f58e1] The amounts calculated under paragraph 2(b) for each fuel type are to be added together.
+**3.**[^c-be722683d7960ccc48c0f0db2d4f58e1] The amounts calculated under paragraph 2(b) for each fuel type are to be added together.
 
 ### PART 3 — Supplementary
 
-**1.**[^key-14ecfa34d5451b91031d8ce827c5a140] For the purposes of Part 1, all prices, costs and amounts are to be notified excluding Value Added Tax.
+**1.**[^c-14ecfa34d5451b91031d8ce827c5a140] For the purposes of Part 1, all prices, costs and amounts are to be notified excluding Value Added Tax.
 
-**2.**[^key-9ddeeea0a0e0ae1aa4382a89ab1dd2a4] In this Schedule—
+**2.**[^c-9ddeeea0a0e0ae1aa4382a89ab1dd2a4] In this Schedule—
 
 - “**quarter**” means—
   - (a) 1st April to 30th June;
@@ -1209,25 +1209,25 @@ on the assumptions that (in each case)—
   | 1st October to 31st December | 30% | 35% | 30% |
   | 1st January to 31st March | 30% | 40% | 35% |
 
-## SCHEDULE 4 — Industry initiatives[^key-897aa6db03639af47dc7dcd5537c76c9]
+## SCHEDULE 4 — Industry initiatives[^c-897aa6db03639af47dc7dcd5537c76c9]
 
-Regulations 15A(3) and[^key-1e2b9460d38ba4df04264f9f99b922d4] 26(1) and (2)
+Regulations 15A(3) and[^c-1e2b9460d38ba4df04264f9f99b922d4] 26(1) and (2)
 
-### PART 1 — Table of industry initiatives[^key-477b2dc155010db231682f8d76b4c740]
+### PART 1 — Table of industry initiatives[^c-477b2dc155010db231682f8d76b4c740]
 
 | Type of initiative | Exceptions |
 | --- | --- |
-| Payments to organisations which refer to electricity or gas suppliers, or facilitate the referral of, customers who—[^key-b45eaf02d1ab33d17f2691401c613c66]<br>- (a) are in fuel poverty or in a fuel poverty risk group; and<br>- (b) are, or may be, eligible for a benefit under these Regulations or for any other assistance from the supplier. |  |
+| Payments to organisations which refer to electricity or gas suppliers, or facilitate the referral of, customers who—[^c-b45eaf02d1ab33d17f2691401c613c66]<br>- (a) are in fuel poverty or in a fuel poverty risk group; and<br>- (b) are, or may be, eligible for a benefit under these Regulations or for any other assistance from the supplier. |  |
 | Providing, or funding the provision by other persons of—<br>- (a) benefit entitlement checks; or<br>- (b) benefit entitlement checks and assistance in claiming benefits. |  |
-| Providing to domestic energy users, or funding the provision by other persons to domestic energy consumers of—<br>- (a) energy efficiency measures;<br>- (b) thermal efficiency measures;<br>- (c) energy efficient appliances; or<br>- (d) microgeneration. | A supplier may not count costs arising from the installation of a boiler or central heating system unless the installation meets the requirements of Part 2 of this Schedule.[^key-03bce3a5b14397a9e31a4cc923c9f2dd] |
+| Providing to domestic energy users, or funding the provision by other persons to domestic energy consumers of—<br>- (a) energy efficiency measures;<br>- (b) thermal efficiency measures;<br>- (c) energy efficient appliances; or<br>- (d) microgeneration. | A supplier may not count costs arising from the installation of a boiler or central heating system unless the installation meets the requirements of Part 2 of this Schedule.[^c-03bce3a5b14397a9e31a4cc923c9f2dd] |
 | Providing, or funding the provision by other persons of, energy advice to domestic consumers. |  |
 | Training persons, or funding the training of persons, to provide energy advice to domestic consumers. | A supplier may not count costs of training its own employees or contractors, or the employees or contractors of a company in the same group of companies as the supplier. |
-| Providing assistance, or funding the provision by other persons of assistance, to reduce or cancel debts for household electricity or gas supply, where such assistance is provided as part of a package of measures aimed at providing customers with long-term relief from fuel poverty. | A supplier may not count—[^key-88fc71ad1ccc01c77071e6eb909407ee]<br>(a) costs arising from a billing error by the supplier;<br>(b)the part of any costs of debt write-off in relation to a domestic customer that exceeds £2,000 in a scheme year. |
-| Making, or funding the making by other persons of, payments to eligible occupiers of mobile homes.[^key-51d2795e68d54e50818b85ef9c3d8a90] |  |
-| Providing, or funding the provision by other persons, of energy advice or energy efficiency measures to domestic consumers who are in fuel poverty or in a fuel poverty risk group, and are—<br>- (a) living in domestic premises which are non-gas fuelled;<br>- (b) living in a household with a person who has significant health problems or a disability; or<br>- (c) living in a community where residents are wholly or mainly in fuel poverty, or in a fuel poverty risk group. | A supplier may not count costs arising from the installation of a boiler or central heating system unless the installation meets the requirements of Part 2 of this Schedule.[^key-9bc34147845132fc02f1530f62100f0c] |
-| Making, or funding the making by other persons of, payments towards the gas or electricity bills of domestic customers who are—[^key-480a8f7e0c2dacffaaab3ff0c3912aac]<br>(a) living in domestic premises which are non-gas fuelled;<br>(b) living in a household with a person who has significant health problems or a disability;<br>(c) living in a community where residents are wholly or mainly in fuel poverty, or in a fuel poverty risk group; or<br>(d) supplied with gas or electricity through a pre-payment meter. | A supplier may not count—<br>(a) the part of any payment in relation to a domestic customer that exceeds £140 in a scheme year;<br>(b) payments in relation to charges incurred by a domestic customer before the date on which the payment was made;<br>[^key-d2bafc0b040771fd2b73c0a2752b1cc7]... |
+| Providing assistance, or funding the provision by other persons of assistance, to reduce or cancel debts for household electricity or gas supply, where such assistance is provided as part of a package of measures aimed at providing customers with long-term relief from fuel poverty. | A supplier may not count—[^c-88fc71ad1ccc01c77071e6eb909407ee]<br>(a) costs arising from a billing error by the supplier;<br>(b)the part of any costs of debt write-off in relation to a domestic customer that exceeds £2,000 in a scheme year. |
+| Making, or funding the making by other persons of, payments to eligible occupiers of mobile homes.[^c-51d2795e68d54e50818b85ef9c3d8a90] |  |
+| Providing, or funding the provision by other persons, of energy advice or energy efficiency measures to domestic consumers who are in fuel poverty or in a fuel poverty risk group, and are—<br>- (a) living in domestic premises which are non-gas fuelled;<br>- (b) living in a household with a person who has significant health problems or a disability; or<br>- (c) living in a community where residents are wholly or mainly in fuel poverty, or in a fuel poverty risk group. | A supplier may not count costs arising from the installation of a boiler or central heating system unless the installation meets the requirements of Part 2 of this Schedule.[^c-9bc34147845132fc02f1530f62100f0c] |
+| Making, or funding the making by other persons of, payments towards the gas or electricity bills of domestic customers who are—[^c-480a8f7e0c2dacffaaab3ff0c3912aac]<br>(a) living in domestic premises which are non-gas fuelled;<br>(b) living in a household with a person who has significant health problems or a disability;<br>(c) living in a community where residents are wholly or mainly in fuel poverty, or in a fuel poverty risk group; or<br>(d) supplied with gas or electricity through a pre-payment meter. | A supplier may not count—<br>(a) the part of any payment in relation to a domestic customer that exceeds £140 in a scheme year;<br>(b) payments in relation to charges incurred by a domestic customer before the date on which the payment was made;<br>[^c-d2bafc0b040771fd2b73c0a2752b1cc7]... |
 
-### PART 2 — Requirements for installations of boilers and central heating systems[^key-f0a79f88722164dacadc4541ded5d679]
+### PART 2 — Requirements for installations of boilers and central heating systems[^c-f0a79f88722164dacadc4541ded5d679]
 
 **1.** The installation of a boiler meets the requirements of this Part if the conditions in paragraph 2 or 3 are met.
 
@@ -1289,528 +1289,528 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^f00002]: Footnote: [2010 c. 27](https://www.legislation.gov.uk/ukpga/2010/27).
 
-[^key-a63335839322f5f29cee0ee6c33e234e]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-a63335839322f5f29cee0ee6c33e234e]: Commencement: Reg. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-d8787cee94d58a191a9a61474e412b77]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-d8787cee94d58a191a9a61474e412b77]: Commencement: Reg. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-a4dca6b850c1b550f4125fa45fdc5998]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/a)
+[^c-a4dca6b850c1b550f4125fa45fdc5998]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/a)
 
-[^key-c0eb60b2fe41828559eb4c5f901b9398]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/3/1/a)
+[^c-c0eb60b2fe41828559eb4c5f901b9398]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [3(1)(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/3/1/a)
 
-[^key-d0d588f01748ad1bcb496b27f73b6614]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 94](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/94)
+[^c-d0d588f01748ad1bcb496b27f73b6614]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) substituted (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [Sch. 3 para. 94](https://www.legislation.gov.uk/uksi/2019/1458/schedule/3/paragraph/94)
 
-[^key-14a70254c1a7962dc01a211b8719fe49]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/b)
+[^c-14a70254c1a7962dc01a211b8719fe49]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/b)
 
-[^key-080995454e7ab7664b97d6c50928d600]: Textual amendment: Words in reg. 2(1) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/652/regulation/3/a)
+[^c-080995454e7ab7664b97d6c50928d600]: Textual amendment: Words in reg. 2(1) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2015/652/regulation/3/a)
 
-[^key-c1f35a42e20b30e0f4127f3a3012d158]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(c)(i)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/c/i)
+[^c-c1f35a42e20b30e0f4127f3a3012d158]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(c)(i)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/c/i)
 
-[^key-c3c071bf87b50cabc72ddaf3946f5ca2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/c/ii)
+[^c-c3c071bf87b50cabc72ddaf3946f5ca2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/c/ii)
 
-[^key-37b8d16116d9406182347f195508e9c3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/3/a)
+[^c-37b8d16116d9406182347f195508e9c3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/3/a)
 
-[^key-4d5508b658d64da99bf7e2ab7ea45169]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/d)
+[^c-4d5508b658d64da99bf7e2ab7ea45169]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/d)
 
 [^f00003]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-18a3471167caeac96768fdcde8f8ec90]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/e)
+[^c-18a3471167caeac96768fdcde8f8ec90]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/e)
 
-[^key-e1d5fc400e8c9e3daad2d577c3e2a43c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(f)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/f)
+[^c-e1d5fc400e8c9e3daad2d577c3e2a43c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(f)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/f)
 
-[^key-c751606c32a03f5118fcb87fe6082460]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(g)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/g)
+[^c-c751606c32a03f5118fcb87fe6082460]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(g)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/g)
 
-[^key-8142da119bcf7b1484033144c6e8a93c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/3/1/c)
+[^c-8142da119bcf7b1484033144c6e8a93c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [3(1)(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/3/1/c)
 
-[^key-c5e71fc37db408a997c019005817fa18]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) omitted (15.8.2018) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(h)(i)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/h/i)
+[^c-c5e71fc37db408a997c019005817fa18]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) omitted (15.8.2018) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(h)(i)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/h/i)
 
-[^key-c61c2ceb0f0d083d235f55c12a9f2640]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(h)(ii)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/h/ii)
+[^c-c61c2ceb0f0d083d235f55c12a9f2640]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(h)(ii)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/h/ii)
 
-[^key-eed13768c1de49de255c6d96d29c1d8a]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) omitted (25.6.2021) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2021/667/regulation/3/b/i)
+[^c-eed13768c1de49de255c6d96d29c1d8a]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) omitted (25.6.2021) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [3(b)(i)](https://www.legislation.gov.uk/uksi/2021/667/regulation/3/b/i)
 
-[^key-59c7329f754ec25ec2a3eba077d63362]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2021/667/regulation/3/b/ii)
+[^c-59c7329f754ec25ec2a3eba077d63362]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2021/667/regulation/3/b/ii)
 
-[^key-72b933e6be4d85c131a0ddfa8596cbc4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [3(b)(iii)](https://www.legislation.gov.uk/uksi/2021/667/regulation/3/b/iii)
+[^c-72b933e6be4d85c131a0ddfa8596cbc4]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [3(b)(iii)](https://www.legislation.gov.uk/uksi/2021/667/regulation/3/b/iii)
 
-[^key-aceccec0bbbea7e8c2ea6e0e35e6d535]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2021/667/regulation/3/c)
+[^c-aceccec0bbbea7e8c2ea6e0e35e6d535]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2021/667/regulation/3/c)
 
-[^key-7de27ddad26d66a7a1d214807ab2a803]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2016/806/regulation/3/1/d)
+[^c-7de27ddad26d66a7a1d214807ab2a803]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [3(1)(d)](https://www.legislation.gov.uk/uksi/2016/806/regulation/3/1/d)
 
 [^f00004]: Footnote: [2002 c. 16](https://www.legislation.gov.uk/ukpga/2002/16).
 
-[^key-ffb7479e5617917748f5f54f66900eec]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [3(1)(e)](https://www.legislation.gov.uk/uksi/2016/806/regulation/3/1/e)
+[^c-ffb7479e5617917748f5f54f66900eec]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [3(1)(e)](https://www.legislation.gov.uk/uksi/2016/806/regulation/3/1/e)
 
-[^key-b0aba1ce422317c63e7aebee577ec2d0]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) omitted (15.8.2018) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(i)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/i)
+[^c-b0aba1ce422317c63e7aebee577ec2d0]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) omitted (15.8.2018) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(i)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/i)
 
-[^key-82184e351364bebc693afc9fc0eb70ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(j)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/j)
+[^c-82184e351364bebc693afc9fc0eb70ee]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(j)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/j)
 
-[^key-4821e015e653564464aac845e5a27e93]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(k)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/k)
+[^c-4821e015e653564464aac845e5a27e93]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [3(k)](https://www.legislation.gov.uk/uksi/2018/909/regulation/3/k)
 
-[^key-a67bf84761d230179048ee26afd1d789]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/3) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/806/regulation/3/2)
+[^c-a67bf84761d230179048ee26afd1d789]: Textual amendment: [Reg. 2(3)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/2/3) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2016/806/regulation/3/2)
 
-[^key-967244c3a01a330babb389275d4a64c9]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-967244c3a01a330babb389275d4a64c9]: Commencement: Reg. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-e2fb5534aacd879bb6bcf74a2e4fe9b0]: Textual amendment: Word in reg. 3(2) substituted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/652/regulation/4)
+[^c-e2fb5534aacd879bb6bcf74a2e4fe9b0]: Textual amendment: Word in reg. 3(2) substituted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [4](https://www.legislation.gov.uk/uksi/2015/652/regulation/4)
 
-[^key-f0c782c5ad43d51ee334a51307198a3d]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/3/2) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/4/a)
+[^c-f0c782c5ad43d51ee334a51307198a3d]: Textual amendment: Word in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/3/2) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/4/a)
 
-[^key-fcd3329210b59e6e3824a909ea570e8c]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/3/3) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/4/b)
+[^c-fcd3329210b59e6e3824a909ea570e8c]: Textual amendment: Word in [reg. 3(3)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/3/3) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/4/b)
 
-[^key-26d53107dd4429f0ec999e9f8cec176d]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/3/5) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/4/c)
+[^c-26d53107dd4429f0ec999e9f8cec176d]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/3/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/3/5) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/4/c)
 
-[^key-9f84db707caeadcc663b808d52667eba]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/3/4) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/4/a)
+[^c-9f84db707caeadcc663b808d52667eba]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/3/4) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/4/a)
 
-[^key-4a824fec582ce98428ec012263559623]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/3/5) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/4/b)
+[^c-4a824fec582ce98428ec012263559623]: Textual amendment: Words in [reg. 3(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/3/5) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/4/b)
 
-[^key-ef0916fb017930be107bf9543733ae58]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-ef0916fb017930be107bf9543733ae58]: Commencement: Reg. 4 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-8c23c9d0998d7474fad3e13fe60f1c9e]: Textual amendment: Word in reg. 4(2)(a) omitted (11.3.2015) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/652/regulation/5/a)
+[^c-8c23c9d0998d7474fad3e13fe60f1c9e]: Textual amendment: Word in reg. 4(2)(a) omitted (11.3.2015) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2015/652/regulation/5/a)
 
-[^key-90bf45c65808c2196d71c3ffdd1002eb]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/2/b) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/5/a)
+[^c-90bf45c65808c2196d71c3ffdd1002eb]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/2/b) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/5/a)
 
-[^key-fd3f47fc3330d35304abcb073bcc9b9b]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/2/b) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/5/a)
+[^c-fd3f47fc3330d35304abcb073bcc9b9b]: Textual amendment: Words in [reg. 4(2)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/2/b) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/5/a)
 
-[^key-a4c0b9391c4c901bb22ac9c7061df99a]: Textual amendment: Reg. 4(2)(c) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/652/regulation/5/b)
+[^c-a4c0b9391c4c901bb22ac9c7061df99a]: Textual amendment: Reg. 4(2)(c) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2015/652/regulation/5/b)
 
-[^key-6c0429bd6e0c1d68988edee50a309863]: Textual amendment: [Reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/2/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/5/b)
+[^c-6c0429bd6e0c1d68988edee50a309863]: Textual amendment: [Reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/2/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/5/b)
 
-[^key-9a8d2944c75026afed1dec9bca922f2f]: Textual amendment: [Reg. 4(2)(e)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/2/e) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/5/b)
+[^c-9a8d2944c75026afed1dec9bca922f2f]: Textual amendment: [Reg. 4(2)(e)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/2/e) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/5/b)
 
-[^key-8cff4105c74ef28b02d2b59f9e0f23b3]: Textual amendment: [Reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/2/f) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/5/a)
+[^c-8cff4105c74ef28b02d2b59f9e0f23b3]: Textual amendment: [Reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/2/f) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [5(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/5/a)
 
-[^key-213df6ec7c44b1ab1ade58c788cb3722]: Textual amendment: Reg. 4(3A) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2015/652/regulation/5/c)
+[^c-213df6ec7c44b1ab1ade58c788cb3722]: Textual amendment: Reg. 4(3A) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2015/652/regulation/5/c)
 
-[^key-e8bfc41633ec81b6e3f7f51f9e5ab31c]: Textual amendment: [Reg. 4(3B)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/3B) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/5/c)
+[^c-e8bfc41633ec81b6e3f7f51f9e5ab31c]: Textual amendment: [Reg. 4(3B)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/3B) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/5/c)
 
-[^key-665c76d78ded0100a08f17d539ead1a0]: Textual amendment: [Reg. 4(3C)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/3C) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2018/909/regulation/5/c)
+[^c-665c76d78ded0100a08f17d539ead1a0]: Textual amendment: [Reg. 4(3C)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/3C) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2018/909/regulation/5/c)
 
-[^key-ecf77f44fff2dfcb64decbde8e1a7a00]: Textual amendment: [Reg. 4(3D)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/3D) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/5/b)
+[^c-ecf77f44fff2dfcb64decbde8e1a7a00]: Textual amendment: [Reg. 4(3D)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/4/3D) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [5(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/5/b)
 
-[^key-7e30df8768d4f34a935151f706c35a31]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-7e30df8768d4f34a935151f706c35a31]: Commencement: Reg. 5 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-a24a0133882d4c68df037d58f108bea4]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/4) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/6/a)
+[^c-a24a0133882d4c68df037d58f108bea4]: Textual amendment: Words in [reg. 5(4)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/4) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/6/a)
 
-[^key-b14a205081a3ef08d25794e893186161]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/4/b) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/6/a)
+[^c-b14a205081a3ef08d25794e893186161]: Textual amendment: Words in [reg. 5(4)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/4/b) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/6/a)
 
-[^key-6b0c1008ec67d226b5b70666f1920510]: Textual amendment: Reg. 5(4)(c) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/652/regulation/6)
+[^c-6b0c1008ec67d226b5b70666f1920510]: Textual amendment: Reg. 5(4)(c) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [6](https://www.legislation.gov.uk/uksi/2015/652/regulation/6)
 
-[^key-7baa19e6ea45f81869a0c3b68057400a]: Textual amendment: [Reg. 5(4)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/4/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/6/b)
+[^c-7baa19e6ea45f81869a0c3b68057400a]: Textual amendment: [Reg. 5(4)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/4/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/6/b)
 
-[^key-d4e0052d9cdcfffeb028db15775ff2cb]: Textual amendment: [Reg. 5(4A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/4A) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/6/b)
+[^c-d4e0052d9cdcfffeb028db15775ff2cb]: Textual amendment: [Reg. 5(4A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/4A) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/6/b)
 
-[^key-04f3f33f15fbbb9a86312234541b76d7]: Textual amendment: Words in [reg. 5(4A)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/4A/b) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/6/a)
+[^c-04f3f33f15fbbb9a86312234541b76d7]: Textual amendment: Words in [reg. 5(4A)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/4A/b) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [6(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/6/a)
 
-[^key-a2e50530630de2d8480c8d3bfb6c021c]: Textual amendment: [Reg. 5(4A)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/4A/c) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/6/b)
+[^c-a2e50530630de2d8480c8d3bfb6c021c]: Textual amendment: [Reg. 5(4A)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/4A/c) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [6(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/6/b)
 
-[^key-5195fbcc93912e1e726ec2d3a637d279]: Textual amendment: [Reg. 5(6)-(8)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/6) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2018/909/regulation/6/c)
+[^c-5195fbcc93912e1e726ec2d3a637d279]: Textual amendment: [Reg. 5(6)-(8)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5/6) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [6(c)](https://www.legislation.gov.uk/uksi/2018/909/regulation/6/c)
 
-[^key-382d3964a8d0e761df8e39a91792f22d]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5A) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/909/regulation/7)
+[^c-382d3964a8d0e761df8e39a91792f22d]: Textual amendment: [Reg. 5A](https://www.legislation.gov.uk/uksi/2011/1033/regulation/5A) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [7](https://www.legislation.gov.uk/uksi/2018/909/regulation/7)
 
-[^key-78f79711dfdc9c624487c1c3cc22d45d]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-78f79711dfdc9c624487c1c3cc22d45d]: Commencement: Reg. 6 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-a1f3b82c625626cf7d35f616fa6a0f3b]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/2) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/8/a)
+[^c-a1f3b82c625626cf7d35f616fa6a0f3b]: Textual amendment: Words in [reg. 6(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/2) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/8/a)
 
-[^key-52c6886bf1a7d366ef9456aceffb094d]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/2A)[(2B)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/2B) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/8/b)
+[^c-52c6886bf1a7d366ef9456aceffb094d]: Textual amendment: [Reg. 6(2A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/2A)[(2B)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/2B) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/8/b)
 
-[^key-b776a2b5b54e80f66d28f28024a69463]: Textual amendment: [Reg. 6(2C)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/2C) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/7/a)
+[^c-b776a2b5b54e80f66d28f28024a69463]: Textual amendment: [Reg. 6(2C)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/2C) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [7(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/7/a)
 
-[^key-b5ad0c4cc470f043619130a2a08176db]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/3) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2018/909/regulation/8/c)
+[^c-b5ad0c4cc470f043619130a2a08176db]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/3) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2018/909/regulation/8/c)
 
-[^key-1be9f0430c4905c699b2bdf8ac2d1b52]: Textual amendment: Reg. 6(4) substituted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/652/regulation/7)
+[^c-1be9f0430c4905c699b2bdf8ac2d1b52]: Textual amendment: Reg. 6(4) substituted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/652/regulation/7)
 
-[^key-7ca6ac7a8edc5f574d7bfa26a88e7a3f]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/5) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [7](https://www.legislation.gov.uk/uksi/2016/806/regulation/7)
+[^c-7ca6ac7a8edc5f574d7bfa26a88e7a3f]: Textual amendment: [Reg. 6(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/5) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [7](https://www.legislation.gov.uk/uksi/2016/806/regulation/7)
 
-[^key-a3bf590105727de66eee17b71dfc4605]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/6) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/8/d)
+[^c-a3bf590105727de66eee17b71dfc4605]: Textual amendment: [Reg. 6(6)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/6) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/8/d)
 
-[^key-77b6320e78ad448f034e7cc62d276b9d]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/7) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/7/b)
+[^c-77b6320e78ad448f034e7cc62d276b9d]: Textual amendment: [Reg. 6(7)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/6/7) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [7(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/7/b)
 
-[^key-955796ba3db4d825469c55b9c9e2e37d]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-955796ba3db4d825469c55b9c9e2e37d]: Commencement: Reg. 7 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-26ead26875c62b12dce19f553b6dd238]: Textual amendment: [Reg. 7(3)(aa)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/7/3/aa) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/8/a)
+[^c-26ead26875c62b12dce19f553b6dd238]: Textual amendment: [Reg. 7(3)(aa)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/7/3/aa) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/8/a)
 
-[^key-450cddac3ce76f9fab15b5e4f2d2c5b7]: Textual amendment: Word in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/7/3/b) omitted (23.7.2016) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/8/b)
+[^c-450cddac3ce76f9fab15b5e4f2d2c5b7]: Textual amendment: Word in [reg. 7(3)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/7/3/b) omitted (23.7.2016) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [8(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/8/b)
 
-[^key-e931b576abaabb796844482bc9eea254]: Textual amendment: Word in [reg. 7(3)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/7/3/c) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/8/c)
+[^c-e931b576abaabb796844482bc9eea254]: Textual amendment: Word in [reg. 7(3)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/7/3/c) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [8(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/8/c)
 
-[^key-797a92c2603caa9167078d05c2989a33]: Textual amendment: [Reg. 7(3)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/7/3/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2016/806/regulation/8/d)
+[^c-797a92c2603caa9167078d05c2989a33]: Textual amendment: [Reg. 7(3)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/7/3/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [8(d)](https://www.legislation.gov.uk/uksi/2016/806/regulation/8/d)
 
-[^key-6eaecebc9e5b4bd7c2e8f86d382efd1f]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-6eaecebc9e5b4bd7c2e8f86d382efd1f]: Commencement: Reg. 8 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-780423253e4306e9bedfbc91872db55c]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-780423253e4306e9bedfbc91872db55c]: Commencement: Reg. 9 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-2c32997a5ef0c4bbb096d189fe31a3ad]: Textual amendment: Words in reg. 9(2)(a) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/9/a)
+[^c-2c32997a5ef0c4bbb096d189fe31a3ad]: Textual amendment: Words in reg. 9(2)(a) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/9/a)
 
-[^key-f3f10e657a5dccd89ad10efd2c42a213]: Textual amendment: Reg. 9(3) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/9/b)
+[^c-f3f10e657a5dccd89ad10efd2c42a213]: Textual amendment: Reg. 9(3) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/9/b)
 
-[^key-0d3fe534ce4793be686c0ff56e52c410]: Textual amendment: Reg. 9(7)(8) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [9](https://www.legislation.gov.uk/uksi/2016/806/regulation/9)
+[^c-0d3fe534ce4793be686c0ff56e52c410]: Textual amendment: Reg. 9(7)(8) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [9](https://www.legislation.gov.uk/uksi/2016/806/regulation/9)
 
-[^key-17b41f4a112ca88adafab088604d0648]: Textual amendment: Words in [reg. 9(7)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/9/7) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [8](https://www.legislation.gov.uk/uksi/2021/667/regulation/8)
+[^c-17b41f4a112ca88adafab088604d0648]: Textual amendment: Words in [reg. 9(7)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/9/7) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [8](https://www.legislation.gov.uk/uksi/2021/667/regulation/8)
 
-[^key-83586c5281951535b78c6516e3234579]: Textual amendment: Reg. 9(8)(c) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [9(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/9/d)
+[^c-83586c5281951535b78c6516e3234579]: Textual amendment: Reg. 9(8)(c) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [9(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/9/d)
 
-[^key-7bac81cee9a679380a28877cf6985487]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-7bac81cee9a679380a28877cf6985487]: Commencement: Reg. 10 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-1cbde356f8be4ae4d27ba8d79bfa166e]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-1cbde356f8be4ae4d27ba8d79bfa166e]: Commencement: Reg. 11 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-57776686bc319140dd82a491b64ed238]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2011/1033/regulation/11) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/909/regulation/10)
+[^c-57776686bc319140dd82a491b64ed238]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2011/1033/regulation/11) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [10](https://www.legislation.gov.uk/uksi/2018/909/regulation/10)
 
-[^key-fc3a284431698c14c336b79e3ae2375b]: Commencement: Reg. 12 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-fc3a284431698c14c336b79e3ae2375b]: Commencement: Reg. 12 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-70301a8f0d6ef11646047a9e57b794f7]: Textual amendment: Word in reg. 12(1) omitted (11.3.2015) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [8(1)(a)](https://www.legislation.gov.uk/uksi/2015/652/regulation/8/1/a)
+[^c-70301a8f0d6ef11646047a9e57b794f7]: Textual amendment: Word in reg. 12(1) omitted (11.3.2015) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [8(1)(a)](https://www.legislation.gov.uk/uksi/2015/652/regulation/8/1/a)
 
-[^key-5808e7c8c8f0a9c5a279585f557c3320]: Textual amendment: Words in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/1/b) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/10/a)
+[^c-5808e7c8c8f0a9c5a279585f557c3320]: Textual amendment: Words in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/1/b) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [10(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/10/a)
 
-[^key-761027b8fb9dd6495febf1132c1ea462]: Textual amendment: Words in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/1/b) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/11/a)
+[^c-761027b8fb9dd6495febf1132c1ea462]: Textual amendment: Words in [reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/1/b) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/11/a)
 
-[^key-1c7fa7fd08b87851e394a851e87586e1]: Textual amendment: Reg. 12(1)(c) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2015/652/regulation/8/1/b)
+[^c-1c7fa7fd08b87851e394a851e87586e1]: Textual amendment: Reg. 12(1)(c) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [8(1)(b)](https://www.legislation.gov.uk/uksi/2015/652/regulation/8/1/b)
 
-[^key-8d1da63e08eb2069040c543b04536280]: Textual amendment: [Reg. 12(1)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/1/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/10/b)
+[^c-8d1da63e08eb2069040c543b04536280]: Textual amendment: [Reg. 12(1)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/1/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/10/b)
 
-[^key-f31d777fccc963e446bde4a1e4b0517d]: Textual amendment: [Reg. 12(1)(e)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/1/e) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/11/b)
+[^c-f31d777fccc963e446bde4a1e4b0517d]: Textual amendment: [Reg. 12(1)(e)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/1/e) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/11/b)
 
-[^key-fd1489149f39f2d3565bdc4a587d9dca]: Textual amendment: [Reg. 12(1)(f)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/1/f) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/9/a)
+[^c-fd1489149f39f2d3565bdc4a587d9dca]: Textual amendment: [Reg. 12(1)(f)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/1/f) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/9/a)
 
-[^key-d357cab860124136ae436b2e972a1ce0]: Textual amendment: Reg. 12(5) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/652/regulation/8/2)
+[^c-d357cab860124136ae436b2e972a1ce0]: Textual amendment: Reg. 12(5) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2015/652/regulation/8/2)
 
-[^key-e626fd70a9e9ae0688ee241c2f69e7ac]: Textual amendment: [Reg. 12(6)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/6)[(7)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/7) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/10/c)
+[^c-e626fd70a9e9ae0688ee241c2f69e7ac]: Textual amendment: [Reg. 12(6)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/6)[(7)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/7) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/10/c)
 
-[^key-e041a1b42ef12510ca2373572650218a]: Textual amendment: Word in [reg. 12(6)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/6/a) omitted (15.8.2018) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2018/909/regulation/11/c)
+[^c-e041a1b42ef12510ca2373572650218a]: Textual amendment: Word in [reg. 12(6)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/6/a) omitted (15.8.2018) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2018/909/regulation/11/c)
 
-[^key-e0fd80bc5b0b576cd88d56fa11dbb7a3]: Textual amendment: [Reg. 12(6)(c)-(e)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/6/c) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/11/d)
+[^c-e0fd80bc5b0b576cd88d56fa11dbb7a3]: Textual amendment: [Reg. 12(6)(c)-(e)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/6/c) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/11/d)
 
-[^key-0096360079863b57f4487c476f6b9015]: Textual amendment: Word in [reg. 12(6)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/6/d) omitted (25.6.2021) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [9(b)(i)](https://www.legislation.gov.uk/uksi/2021/667/regulation/9/b/i)
+[^c-0096360079863b57f4487c476f6b9015]: Textual amendment: Word in [reg. 12(6)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/6/d) omitted (25.6.2021) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [9(b)(i)](https://www.legislation.gov.uk/uksi/2021/667/regulation/9/b/i)
 
-[^key-027e07be716dc50edff2ef172571513a]: Textual amendment: Word in [reg. 12(6)(e)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/6/e) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2021/667/regulation/9/b/ii)
+[^c-027e07be716dc50edff2ef172571513a]: Textual amendment: Word in [reg. 12(6)(e)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/6/e) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [9(b)(ii)](https://www.legislation.gov.uk/uksi/2021/667/regulation/9/b/ii)
 
-[^key-ddf5eca524033e7df2cd34aa3e0345f3]: Textual amendment: [Reg. 12(6)(f)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/6/f) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [9(b)(iii)](https://www.legislation.gov.uk/uksi/2021/667/regulation/9/b/iii)
+[^c-ddf5eca524033e7df2cd34aa3e0345f3]: Textual amendment: [Reg. 12(6)(f)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/6/f) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [9(b)(iii)](https://www.legislation.gov.uk/uksi/2021/667/regulation/9/b/iii)
 
-[^key-293d3508b55a6def0e0ddf4d7389a3da]: Textual amendment: [Reg. 12(7)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/7/b) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2018/909/regulation/11/e)
+[^c-293d3508b55a6def0e0ddf4d7389a3da]: Textual amendment: [Reg. 12(7)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/7/b) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [11(e)](https://www.legislation.gov.uk/uksi/2018/909/regulation/11/e)
 
-[^key-b65a80568bda0419f833d0db8cb55294]: Textual amendment: Words in [reg. 12(7)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/7/c) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [11(f)](https://www.legislation.gov.uk/uksi/2018/909/regulation/11/f)
+[^c-b65a80568bda0419f833d0db8cb55294]: Textual amendment: Words in [reg. 12(7)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/12/7/c) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [11(f)](https://www.legislation.gov.uk/uksi/2018/909/regulation/11/f)
 
-[^key-0368944ca1c7311b691187e39c404798]: Commencement: Reg. 13 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-0368944ca1c7311b691187e39c404798]: Commencement: Reg. 13 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-2a532fedaf3f030a359d6c2b14b851dc]: Textual amendment: Words in reg. 13(1) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2015/652/regulation/9/a)
+[^c-2a532fedaf3f030a359d6c2b14b851dc]: Textual amendment: Words in reg. 13(1) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [9(a)](https://www.legislation.gov.uk/uksi/2015/652/regulation/9/a)
 
-[^key-dede8816060bce2f5fcfa3a80517f57d]: Textual amendment: Reg. 13(5)-(7) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2015/652/regulation/9/b)
+[^c-dede8816060bce2f5fcfa3a80517f57d]: Textual amendment: Reg. 13(5)-(7) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [9(b)](https://www.legislation.gov.uk/uksi/2015/652/regulation/9/b)
 
-[^key-6144b44ddc60690f3a8c12ced18bc64c]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/13/5) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [10](https://www.legislation.gov.uk/uksi/2021/667/regulation/10)
+[^c-6144b44ddc60690f3a8c12ced18bc64c]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/13/5) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [10](https://www.legislation.gov.uk/uksi/2021/667/regulation/10)
 
-[^key-cef7051a68894ddc027250aaa69cfde1]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/13/5) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [11(a)(ii)](https://www.legislation.gov.uk/uksi/2016/806/regulation/11/a/ii)
+[^c-cef7051a68894ddc027250aaa69cfde1]: Textual amendment: Words in [reg. 13(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/13/5) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [11(a)(ii)](https://www.legislation.gov.uk/uksi/2016/806/regulation/11/a/ii)
 
-[^key-8d5488a8348c20615bb893825ed68158]: Textual amendment: Words in [reg. 13(6)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/13/6/a) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2016/806/regulation/11/b/i)
+[^c-8d5488a8348c20615bb893825ed68158]: Textual amendment: Words in [reg. 13(6)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/13/6/a) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [11(b)(i)](https://www.legislation.gov.uk/uksi/2016/806/regulation/11/b/i)
 
-[^key-881c12f5314cb0bb9f611fc8655037ce]: Textual amendment: Words in [reg. 13(6)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/13/6/b) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2016/806/regulation/11/b/ii)
+[^c-881c12f5314cb0bb9f611fc8655037ce]: Textual amendment: Words in [reg. 13(6)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/13/6/b) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [11(b)(ii)](https://www.legislation.gov.uk/uksi/2016/806/regulation/11/b/ii)
 
-[^key-6c5d845737e8c1157664e1624f200843]: Textual amendment: [Reg. 13(6)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/13/6/c) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [11(b)(iii)](https://www.legislation.gov.uk/uksi/2016/806/regulation/11/b/iii)
+[^c-6c5d845737e8c1157664e1624f200843]: Textual amendment: [Reg. 13(6)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/13/6/c) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [11(b)(iii)](https://www.legislation.gov.uk/uksi/2016/806/regulation/11/b/iii)
 
-[^key-ac892200c82b1d6601c3b043e1fd2f1b]: Textual amendment: [Reg. 13(7)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/13/7) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/11/c)
+[^c-ac892200c82b1d6601c3b043e1fd2f1b]: Textual amendment: [Reg. 13(7)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/13/7) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/11/c)
 
-[^key-13cc0595487e5feb4e6692c5fc5a1d76]: Commencement: Reg. 14 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-13cc0595487e5feb4e6692c5fc5a1d76]: Commencement: Reg. 14 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-980e458bfbe8d3ee745f2e78e475c12e]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/1) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/11/a)
+[^c-980e458bfbe8d3ee745f2e78e475c12e]: Textual amendment: Words in [reg. 14(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/1) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/11/a)
 
-[^key-53f0da71783462cb8e68c411aa368d59]: Textual amendment: Reg. 14(3)(b) substituted (14.3.2014) by [The Warm Home Discount (Amendment) Regulations 2014 (S.I. 2014/695)](https://www.legislation.gov.uk/uksi/2014/695), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/695/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/695/regulation/2/2)
+[^c-53f0da71783462cb8e68c411aa368d59]: Textual amendment: Reg. 14(3)(b) substituted (14.3.2014) by [The Warm Home Discount (Amendment) Regulations 2014 (S.I. 2014/695)](https://www.legislation.gov.uk/uksi/2014/695), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/695/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2014/695/regulation/2/2)
 
-[^key-8b5d4f7c8967e1440e0a876e37f39750]: Textual amendment: Word in reg. 14(3)(b) omitted (11.3.2015) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2015/652/regulation/10/b)
+[^c-8b5d4f7c8967e1440e0a876e37f39750]: Textual amendment: Word in reg. 14(3)(b) omitted (11.3.2015) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [10(b)](https://www.legislation.gov.uk/uksi/2015/652/regulation/10/b)
 
-[^key-a345556a0606f78fd453a3d108252e29]: Textual amendment: Reg. 14(3)(b)(iii) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2015/652/regulation/10/c)
+[^c-a345556a0606f78fd453a3d108252e29]: Textual amendment: Reg. 14(3)(b)(iii) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [10(c)](https://www.legislation.gov.uk/uksi/2015/652/regulation/10/c)
 
-[^key-9f1b36cc0a073d57f6bba1564c48ef12]: Textual amendment: Words in [reg. 14(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/3/b/iii) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/13/b)
+[^c-9f1b36cc0a073d57f6bba1564c48ef12]: Textual amendment: Words in [reg. 14(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/3/b/iii) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [13(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/13/b)
 
-[^key-abbf64827029eda0832394085f7713e6]: Textual amendment: [Reg. 14(3A)-(3C)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/3A) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/12/c)
+[^c-abbf64827029eda0832394085f7713e6]: Textual amendment: [Reg. 14(3A)-(3C)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/3A) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [12(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/12/c)
 
-[^key-1e1ffec0a8837b892937169aad8fa5fb]: Textual amendment: Words in [reg. 14(3A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/3A) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/11/b)
+[^c-1e1ffec0a8837b892937169aad8fa5fb]: Textual amendment: Words in [reg. 14(3A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/3A) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/11/b)
 
-[^key-ebd664eef77b189f5cff8b26b4810b6d]: Textual amendment: [Reg. 14(3B)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/3B/c) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [13(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/13/d)
+[^c-ebd664eef77b189f5cff8b26b4810b6d]: Textual amendment: [Reg. 14(3B)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/3B/c) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [13(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/13/d)
 
-[^key-622c2933910ffc6e0d1fcdd726d31d74]: Textual amendment: [Reg. 14(3C)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/3C) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2021/667/regulation/11/c)
+[^c-622c2933910ffc6e0d1fcdd726d31d74]: Textual amendment: [Reg. 14(3C)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/3C) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2021/667/regulation/11/c)
 
-[^key-e0fada55a07fe6b9abbe839ad361ff1c]: Textual amendment: Words in reg. 14(4) substituted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2015/652/regulation/10/d)
+[^c-e0fada55a07fe6b9abbe839ad361ff1c]: Textual amendment: Words in reg. 14(4) substituted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [10(d)](https://www.legislation.gov.uk/uksi/2015/652/regulation/10/d)
 
-[^key-e1a97f0392e839059864409158bd5f74]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/4) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2016/806/regulation/12/d)
+[^c-e1a97f0392e839059864409158bd5f74]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/4) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [12(d)](https://www.legislation.gov.uk/uksi/2016/806/regulation/12/d)
 
-[^key-cb6930b5bbc388aef48e27838474d8dc]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/4) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [13(f)](https://www.legislation.gov.uk/uksi/2018/909/regulation/13/f)
+[^c-cb6930b5bbc388aef48e27838474d8dc]: Textual amendment: Words in [reg. 14(4)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/4) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [13(f)](https://www.legislation.gov.uk/uksi/2018/909/regulation/13/f)
 
-[^key-0f22dcaca33fb34aaa781c22556b0879]: Textual amendment: [Reg. 14(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/5) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [12(e)](https://www.legislation.gov.uk/uksi/2016/806/regulation/12/e)
+[^c-0f22dcaca33fb34aaa781c22556b0879]: Textual amendment: [Reg. 14(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/5) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [12(e)](https://www.legislation.gov.uk/uksi/2016/806/regulation/12/e)
 
-[^key-a750f8beb4eef2fc8d65204e97d94ee5]: Textual amendment: [Reg. 14(6)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/6) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [13(g)](https://www.legislation.gov.uk/uksi/2018/909/regulation/13/g)
+[^c-a750f8beb4eef2fc8d65204e97d94ee5]: Textual amendment: [Reg. 14(6)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/6) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [13(g)](https://www.legislation.gov.uk/uksi/2018/909/regulation/13/g)
 
-[^key-21e80004389fea3ed0766689a311ee51]: Textual amendment: [Reg. 14(7)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/7) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2021/667/regulation/11/d)
+[^c-21e80004389fea3ed0766689a311ee51]: Textual amendment: [Reg. 14(7)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/14/7) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2021/667/regulation/11/d)
 
-[^key-e553ca9569c5fafb43d9da8bb49f024d]: Commencement: Reg. 15 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-e553ca9569c5fafb43d9da8bb49f024d]: Commencement: Reg. 15 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-12631b143d5226eb7a37d78422d6f795]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15) heading inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [14(1)](https://www.legislation.gov.uk/uksi/2018/909/regulation/14/1)
+[^c-12631b143d5226eb7a37d78422d6f795]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15) heading inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [14(1)](https://www.legislation.gov.uk/uksi/2018/909/regulation/14/1)
 
-[^key-f6cde0b1b7a01b2ea3c422861e3cb74d]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/1) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/14/2/a)
+[^c-f6cde0b1b7a01b2ea3c422861e3cb74d]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/1) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [14(2)(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/14/2/a)
 
-[^key-747b95fe93fbb367f715f99a18214dee]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/a) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/14/2/b)
+[^c-747b95fe93fbb367f715f99a18214dee]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/a) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [14(2)(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/14/2/b)
 
-[^key-79da7cd42865d327b795d179148f1885]: Textual amendment: Words in reg. 15(3)(a) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2015/652/regulation/11/a)
+[^c-79da7cd42865d327b795d179148f1885]: Textual amendment: Words in reg. 15(3)(a) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [11(a)](https://www.legislation.gov.uk/uksi/2015/652/regulation/11/a)
 
-[^key-ffa097cade503a3cd3640f8e1995e639]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/a) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(1)(a)(i)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/1/a/i)
+[^c-ffa097cade503a3cd3640f8e1995e639]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/a) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(1)(a)(i)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/1/a/i)
 
-[^key-79e922b6f25d75ba3ce6301957752e82]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/a) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/1/a/ii)
+[^c-79e922b6f25d75ba3ce6301957752e82]: Textual amendment: Words in [reg. 15(3)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/a) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/1/a/ii)
 
-[^key-5d45a5a3a66024fe3c51a627eee763d7]: Textual amendment: Word in [reg. 15(3)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/b) omitted (23.7.2016) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(1)(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/1/b)
+[^c-5d45a5a3a66024fe3c51a627eee763d7]: Textual amendment: Word in [reg. 15(3)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/b) omitted (23.7.2016) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(1)(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/1/b)
 
-[^key-ea409cf6be6dd949999ef77e2df34828]: Textual amendment: Words in [reg. 15(3)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/c) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(1)(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/1/c)
+[^c-ea409cf6be6dd949999ef77e2df34828]: Textual amendment: Words in [reg. 15(3)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/c) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(1)(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/1/c)
 
-[^key-517bf3347e338b525b5d8b2ef3a3cdfc]: Textual amendment: Word in [reg. 15(3)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/c) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(1)(d)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/1/d)
+[^c-517bf3347e338b525b5d8b2ef3a3cdfc]: Textual amendment: Word in [reg. 15(3)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/c) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(1)(d)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/1/d)
 
-[^key-008cce86b97919a477f7b7b878b80318]: Textual amendment: [Reg. 15(3)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(1)(e)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/1/e)
+[^c-008cce86b97919a477f7b7b878b80318]: Textual amendment: [Reg. 15(3)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(1)(e)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/1/e)
 
-[^key-bfbfc31c6ef3e89654962eda65eb2b8b]: Textual amendment: Reg. 15(3A) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2015/652/regulation/11/b)
+[^c-bfbfc31c6ef3e89654962eda65eb2b8b]: Textual amendment: Reg. 15(3A) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [11(b)](https://www.legislation.gov.uk/uksi/2015/652/regulation/11/b)
 
-[^key-476b2b3bbb599f5aa8a3319a3b7fcfdf]: Textual amendment: Words in [reg. 15(3A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3A) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/2/a)
+[^c-476b2b3bbb599f5aa8a3319a3b7fcfdf]: Textual amendment: Words in [reg. 15(3A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3A) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/2/a)
 
-[^key-92a2d3b7c156e0b1a085c1936a6ed97f]: Textual amendment: [Reg. 15(3A)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3A/a) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/2/b)
+[^c-92a2d3b7c156e0b1a085c1936a6ed97f]: Textual amendment: [Reg. 15(3A)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3A/a) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/2/b)
 
-[^key-ab2e8ca3efdd8f26fd6245dbb530b3c6]: Textual amendment: Words in [reg. 15(3A)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3A/b) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(2)(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/2/c)
+[^c-ab2e8ca3efdd8f26fd6245dbb530b3c6]: Textual amendment: Words in [reg. 15(3A)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3A/b) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(2)(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/2/c)
 
-[^key-fe5b611b7261acfc74f31d9a1dc55f64]: Textual amendment: Word in [reg. 15(3A)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3A/b) omitted (23.7.2016) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(2)(d)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/2/d)
+[^c-fe5b611b7261acfc74f31d9a1dc55f64]: Textual amendment: Word in [reg. 15(3A)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3A/b) omitted (23.7.2016) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(2)(d)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/2/d)
 
-[^key-a0087280fa029b6269fe6e7aa09c93a9]: Textual amendment: [Reg. 15(3A)(ba)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3A/ba) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(2)(e)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/2/e)
+[^c-a0087280fa029b6269fe6e7aa09c93a9]: Textual amendment: [Reg. 15(3A)(ba)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3A/ba) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(2)(e)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/2/e)
 
-[^key-b5a4794b061ce8a2b67588bb4cf051ff]: Textual amendment: Words in [reg. 15(3A)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3A/c) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(2)(f)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/2/f)
+[^c-b5a4794b061ce8a2b67588bb4cf051ff]: Textual amendment: Words in [reg. 15(3A)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/3A/c) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(2)(f)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/2/f)
 
-[^key-c2484c50762a23287e18e303dff5c6a4]: Textual amendment: Reg. 15(4)(b) substituted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2015/652/regulation/11/c)
+[^c-c2484c50762a23287e18e303dff5c6a4]: Textual amendment: Reg. 15(4)(b) substituted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [11(c)](https://www.legislation.gov.uk/uksi/2015/652/regulation/11/c)
 
-[^key-5d683eacd5ee4f58bf4dfa705163fe17]: Textual amendment: Word in [reg. 15(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/4/b/ii) omitted (23.7.2016) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/3/a)
+[^c-5d683eacd5ee4f58bf4dfa705163fe17]: Textual amendment: Word in [reg. 15(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/4/b/ii) omitted (23.7.2016) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/3/a)
 
-[^key-5c12e385f3e203d7ec22dcb51492cd63]: Textual amendment: Word in [reg. 15(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/4/c/iii) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(3)(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/3/b)
+[^c-5c12e385f3e203d7ec22dcb51492cd63]: Textual amendment: Word in [reg. 15(4)(c)(iii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/4/c/iii) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(3)(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/3/b)
 
-[^key-e800413803f5c2a0fe42bcae30bc0a4a]: Textual amendment: [Reg. 15(4)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/4/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(3)(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/3/c)
+[^c-e800413803f5c2a0fe42bcae30bc0a4a]: Textual amendment: [Reg. 15(4)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/4/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(3)(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/3/c)
 
-[^key-9e758214c4c806ddef4e5a2f2c723590]: Textual amendment: Reg. 15(4A) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2015/652/regulation/11/d)
+[^c-9e758214c4c806ddef4e5a2f2c723590]: Textual amendment: Reg. 15(4A) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [11(d)](https://www.legislation.gov.uk/uksi/2015/652/regulation/11/d)
 
-[^key-4aa251f6996b498fc9eb93d6fb33d329]: Textual amendment: Words in [reg. 15(4A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/4A) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/4)
+[^c-4aa251f6996b498fc9eb93d6fb33d329]: Textual amendment: Words in [reg. 15(4A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/4A) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(4)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/4)
 
-[^key-7190654468989cd0bd7e6a2469172993]: Textual amendment: [Reg. 15(4B)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/4B) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(5)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/5)
+[^c-7190654468989cd0bd7e6a2469172993]: Textual amendment: [Reg. 15(4B)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/4B) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(5)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/5)
 
-[^key-401add099650deafe5f138b35615814d]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/5) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(6)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/6)
+[^c-401add099650deafe5f138b35615814d]: Textual amendment: Words in [reg. 15(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/5) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(6)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/6)
 
-[^key-c3cea753c0e5f74141c5a1713dcc9e2e]: Textual amendment: [Reg. 15(6)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/6) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(7)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/7)
+[^c-c3cea753c0e5f74141c5a1713dcc9e2e]: Textual amendment: [Reg. 15(6)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15/6) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [13(7)](https://www.legislation.gov.uk/uksi/2016/806/regulation/13/7)
 
-[^key-8d36de0ca1c522519f4015e77561e9a9]: Textual amendment: [Regs. 15A](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15A), [15B](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15B) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/909/regulation/15)
+[^c-8d36de0ca1c522519f4015e77561e9a9]: Textual amendment: [Regs. 15A](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15A), [15B](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15B) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [15](https://www.legislation.gov.uk/uksi/2018/909/regulation/15)
 
-[^key-1814c52ea2430490c7a1937dbb821ac1]: Textual amendment: [Reg. 15A(5)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15A/5/d) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/12/a)
+[^c-1814c52ea2430490c7a1937dbb821ac1]: Textual amendment: [Reg. 15A(5)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15A/5/d) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [12(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/12/a)
 
-[^key-66f2e41d0b99e9879ece50fd15d5e49d]: Textual amendment: [Reg. 15A(6)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15A/6/d) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/12/b)
+[^c-66f2e41d0b99e9879ece50fd15d5e49d]: Textual amendment: [Reg. 15A(6)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/15A/6/d) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/12/b)
 
-[^key-2803baa181d901a7d104c3c8261d380f]: Commencement: Reg. 16 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-2803baa181d901a7d104c3c8261d380f]: Commencement: Reg. 16 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-1f4511976e46d43390bec84ce74557f9]: Commencement: Reg. 17 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-1f4511976e46d43390bec84ce74557f9]: Commencement: Reg. 17 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-79914f4da42f7b5c3a57348512bd1d71]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2011/1033/regulation/17A) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [14](https://www.legislation.gov.uk/uksi/2016/806/regulation/14)
+[^c-79914f4da42f7b5c3a57348512bd1d71]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2011/1033/regulation/17A) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [14](https://www.legislation.gov.uk/uksi/2016/806/regulation/14)
 
-[^key-059c3ae6d1986a24bff402f98d02bac1]: Textual amendment: [Reg. 17B](https://www.legislation.gov.uk/uksi/2011/1033/regulation/17B) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [16](https://www.legislation.gov.uk/uksi/2018/909/regulation/16)
+[^c-059c3ae6d1986a24bff402f98d02bac1]: Textual amendment: [Reg. 17B](https://www.legislation.gov.uk/uksi/2011/1033/regulation/17B) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [16](https://www.legislation.gov.uk/uksi/2018/909/regulation/16)
 
-[^key-0986170bdc1ec499778f95574cb91c3d]: Textual amendment: [Reg. 17C](https://www.legislation.gov.uk/uksi/2011/1033/regulation/17C) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [13](https://www.legislation.gov.uk/uksi/2021/667/regulation/13)
+[^c-0986170bdc1ec499778f95574cb91c3d]: Textual amendment: [Reg. 17C](https://www.legislation.gov.uk/uksi/2011/1033/regulation/17C) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [13](https://www.legislation.gov.uk/uksi/2021/667/regulation/13)
 
-[^key-cd01888f73ff52bdbff02df8be9d5695]: Commencement: Reg. 18 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-cd01888f73ff52bdbff02df8be9d5695]: Commencement: Reg. 18 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-6476a270ba628310637ba8f43c8f0e1e]: Textual amendment: Words in reg. 18(1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/909/regulation/17)
+[^c-6476a270ba628310637ba8f43c8f0e1e]: Textual amendment: Words in reg. 18(1) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [17](https://www.legislation.gov.uk/uksi/2018/909/regulation/17)
 
-[^key-e4a698e015bb61bf29c6c118de4d0b23]: Commencement: Reg. 19 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-e4a698e015bb61bf29c6c118de4d0b23]: Commencement: Reg. 19 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-044c4bcfa20a2d59190199fb0cefed89]: Textual amendment: Words in [reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/19/4/b) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/14/a)
+[^c-044c4bcfa20a2d59190199fb0cefed89]: Textual amendment: Words in [reg. 19(4)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/19/4/b) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [14(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/14/a)
 
-[^key-2f9a47e8c06793dcee7176dfd1fea611]: Textual amendment: Reg. 19(5) substituted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2015/652/regulation/12/b)
+[^c-2f9a47e8c06793dcee7176dfd1fea611]: Textual amendment: Reg. 19(5) substituted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [12(b)](https://www.legislation.gov.uk/uksi/2015/652/regulation/12/b)
 
-[^key-2d619ccc006a902504aacf96e5cf5fc0]: Textual amendment: Reg. 19(5)(a)(aa) substituted for reg. 19(5)(a) (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/18/b)
+[^c-2d619ccc006a902504aacf96e5cf5fc0]: Textual amendment: Reg. 19(5)(a)(aa) substituted for reg. 19(5)(a) (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/18/b)
 
-[^key-bfe2a7209e40504cb013b5f0c84f30f0]: Textual amendment: Words in [reg. 19(5)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/19/5/a) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/14/b)
+[^c-bfe2a7209e40504cb013b5f0c84f30f0]: Textual amendment: Words in [reg. 19(5)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/19/5/a) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [14(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/14/b)
 
-[^key-bf66d5909a7a7fc2c5879db5cc2fb869]: Textual amendment: Words in [reg. 19(6)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/19/6) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [14(c)](https://www.legislation.gov.uk/uksi/2021/667/regulation/14/c)
+[^c-bf66d5909a7a7fc2c5879db5cc2fb869]: Textual amendment: Words in [reg. 19(6)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/19/6) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [14(c)](https://www.legislation.gov.uk/uksi/2021/667/regulation/14/c)
 
-[^key-494f1463f4a6ba83563b1fcd60f070a3]: Textual amendment: Reg. 19(8) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [18(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/18/d)
+[^c-494f1463f4a6ba83563b1fcd60f070a3]: Textual amendment: Reg. 19(8) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [18(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/18/d)
 
-[^key-3e21d04d402a901035d7c7611891777e]: Commencement: Reg. 20 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-3e21d04d402a901035d7c7611891777e]: Commencement: Reg. 20 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-eee9f062b057b1715fe87811545f18d5]: Textual amendment: Words in [reg. 20(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/20/1/b/ii) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [15](https://www.legislation.gov.uk/uksi/2021/667/regulation/15)
+[^c-eee9f062b057b1715fe87811545f18d5]: Textual amendment: Words in [reg. 20(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/20/1/b/ii) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [15](https://www.legislation.gov.uk/uksi/2021/667/regulation/15)
 
-[^key-28b11b9d98cc8dcc18d1c6cb08adbbe1]: Textual amendment: [Reg. 20(2)(aa)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/20/2/aa) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/16/2/a)
+[^c-28b11b9d98cc8dcc18d1c6cb08adbbe1]: Textual amendment: [Reg. 20(2)(aa)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/20/2/aa) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [16(2)(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/16/2/a)
 
-[^key-35078704f832d003b86909f29988bc92]: Textual amendment: Word in [reg. 20(2)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/20/2/b) omitted (23.7.2016) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/16/2/b)
+[^c-35078704f832d003b86909f29988bc92]: Textual amendment: Word in [reg. 20(2)(b)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/20/2/b) omitted (23.7.2016) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [16(2)(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/16/2/b)
 
-[^key-617a96bf38d165cc4d8169fd07ba68a6]: Textual amendment: Word in [reg. 20(2)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/20/2/c) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [16(2)(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/16/2/c)
+[^c-617a96bf38d165cc4d8169fd07ba68a6]: Textual amendment: Word in [reg. 20(2)(c)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/20/2/c) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [16(2)(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/16/2/c)
 
-[^key-4b9d0df8daf8628c769d8d0809f61cdd]: Textual amendment: [Reg. 20(2)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/20/2/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [16(2)(d)](https://www.legislation.gov.uk/uksi/2016/806/regulation/16/2/d)
+[^c-4b9d0df8daf8628c769d8d0809f61cdd]: Textual amendment: [Reg. 20(2)(d)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/20/2/d) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [16(2)(d)](https://www.legislation.gov.uk/uksi/2016/806/regulation/16/2/d)
 
-[^key-a91e98987aca779fb7aaf0a129a13269]: Textual amendment: Reg. 21ZA inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [17](https://www.legislation.gov.uk/uksi/2016/806/regulation/17)
+[^c-a91e98987aca779fb7aaf0a129a13269]: Textual amendment: Reg. 21ZA inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [17](https://www.legislation.gov.uk/uksi/2016/806/regulation/17)
 
-[^key-44b3a706d7a23eb65fe87cf1249711a5]: Textual amendment: Words in [reg. 21ZA](https://www.legislation.gov.uk/uksi/2011/1033/regulation/21ZA) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [20](https://www.legislation.gov.uk/uksi/2018/909/regulation/20)
+[^c-44b3a706d7a23eb65fe87cf1249711a5]: Textual amendment: Words in [reg. 21ZA](https://www.legislation.gov.uk/uksi/2011/1033/regulation/21ZA) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [20](https://www.legislation.gov.uk/uksi/2018/909/regulation/20)
 
-[^key-30c8a5a77b6ad854f1dc3ca7618252a2]: Commencement: Reg. 21 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-30c8a5a77b6ad854f1dc3ca7618252a2]: Commencement: Reg. 21 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-4feb7b9060333eabe070feef8d6a953a]: Commencement: Reg. 22 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-4feb7b9060333eabe070feef8d6a953a]: Commencement: Reg. 22 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-edcfc6a126cf891137f89383b699032d]: Commencement: Reg. 23 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-edcfc6a126cf891137f89383b699032d]: Commencement: Reg. 23 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-a16687bddfe60d9aaf288c4bebf1315d]: Commencement: Reg. 24 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-a16687bddfe60d9aaf288c4bebf1315d]: Commencement: Reg. 24 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-f14c483dce9366caf0471dc746f265b6]: Commencement: Reg. 25 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-f14c483dce9366caf0471dc746f265b6]: Commencement: Reg. 25 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-61828b320eac0de8ddecaf5ae40123ab]: Commencement: Reg. 26 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-61828b320eac0de8ddecaf5ae40123ab]: Commencement: Reg. 26 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-0240af74e545ea1fcdf5cbfc2204fc66]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/1) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/18/a)
+[^c-0240af74e545ea1fcdf5cbfc2204fc66]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/1) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/18/a)
 
-[^key-9efe5060a6badf163704da3b59693190]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/1) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/21/a)
+[^c-9efe5060a6badf163704da3b59693190]: Textual amendment: Words in [reg. 26(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/1) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/21/a)
 
-[^key-d37290fcbf5d1d39b2058a639819dc4e]: Textual amendment: [Reg. 26(1A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/1A) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/21/b)
+[^c-d37290fcbf5d1d39b2058a639819dc4e]: Textual amendment: [Reg. 26(1A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/1A) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/21/b)
 
-[^key-c27c7891ce76c228f2440608107edf53]: Textual amendment: Words in [reg. 26(1A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/1A) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/16/a)
+[^c-c27c7891ce76c228f2440608107edf53]: Textual amendment: Words in [reg. 26(1A)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/1A) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/16/a)
 
-[^key-909e8319be35524f3a32f714c1c59380]: Textual amendment: Words in [reg. 26(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/3/b/ii) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/18/b)
+[^c-909e8319be35524f3a32f714c1c59380]: Textual amendment: Words in [reg. 26(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/3/b/ii) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/18/b)
 
-[^key-3819eb99d9818dad7b23e6f178dd8de9]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/4) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [21(c)](https://www.legislation.gov.uk/uksi/2018/909/regulation/21/c)
+[^c-3819eb99d9818dad7b23e6f178dd8de9]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/4) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [21(c)](https://www.legislation.gov.uk/uksi/2018/909/regulation/21/c)
 
-[^key-09e42b47f7276a205743813c951d80b9]: Textual amendment: Words in [reg. 26(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/4/b/ii) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/16/b)
+[^c-09e42b47f7276a205743813c951d80b9]: Textual amendment: Words in [reg. 26(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/26/4/b/ii) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/16/b)
 
-[^key-48d1cf2201d13b1fa85a2bf238e6f0a8]: Commencement: Reg. 27 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-48d1cf2201d13b1fa85a2bf238e6f0a8]: Commencement: Reg. 27 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-7dd50710664619fc337721e1888cb85d]: Textual amendment: Reg. 27(3)(aa) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [13](https://www.legislation.gov.uk/uksi/2015/652/regulation/13)
+[^c-7dd50710664619fc337721e1888cb85d]: Textual amendment: Reg. 27(3)(aa) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [13](https://www.legislation.gov.uk/uksi/2015/652/regulation/13)
 
-[^key-b03d1ef3b02d39a6581bbe43e19338d2]: Textual amendment: Words in [reg. 27(3)(aa)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/27/3/aa) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [17](https://www.legislation.gov.uk/uksi/2021/667/regulation/17)
+[^c-b03d1ef3b02d39a6581bbe43e19338d2]: Textual amendment: Words in [reg. 27(3)(aa)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/27/3/aa) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [17](https://www.legislation.gov.uk/uksi/2021/667/regulation/17)
 
-[^key-baba4fe13afcbc6092329921f8cad7d8]: Textual amendment: [Pt. 4 Ch. 5](https://www.legislation.gov.uk/uksi/2011/1033/part/4/chapter/5) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [19](https://www.legislation.gov.uk/uksi/2016/806/regulation/19)
+[^c-baba4fe13afcbc6092329921f8cad7d8]: Textual amendment: [Pt. 4 Ch. 5](https://www.legislation.gov.uk/uksi/2011/1033/part/4/chapter/5) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [19](https://www.legislation.gov.uk/uksi/2016/806/regulation/19)
 
-[^key-21ce14c1171dffee5d3e7cf1d36d6f1b]: Textual amendment: Words in [reg. 27A(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/27A/1) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [22(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/22/a)
+[^c-21ce14c1171dffee5d3e7cf1d36d6f1b]: Textual amendment: Words in [reg. 27A(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/27A/1) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [22(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/22/a)
 
-[^key-c3d9dba344f5ea459534205492d988c4]: Textual amendment: Words in [reg. 27A(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/27A/1) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/18/a)
+[^c-c3d9dba344f5ea459534205492d988c4]: Textual amendment: Words in [reg. 27A(1)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/27A/1) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [18(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/18/a)
 
-[^key-173f7191ead79b3412c52f3017f202e6]: Textual amendment: Words in [reg. 27A(2)(c)(i)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/27A/2/c/i) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/18/b)
+[^c-173f7191ead79b3412c52f3017f202e6]: Textual amendment: Words in [reg. 27A(2)(c)(i)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/27A/2/c/i) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [18(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/18/b)
 
-[^key-5fc0827a52673a63d93a9a9105a816b9]: Commencement: Reg. 28 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-5fc0827a52673a63d93a9a9105a816b9]: Commencement: Reg. 28 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-73b65b0fb51bd82ab8dd377a5ba6091c]: Textual amendment: Words in [reg. 28(4)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/28/4/a) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/23/a)
+[^c-73b65b0fb51bd82ab8dd377a5ba6091c]: Textual amendment: Words in [reg. 28(4)(a)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/28/4/a) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [23(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/23/a)
 
-[^key-da51d40a32fe2388992caf1497e11793]: Textual amendment: Words in [reg. 28(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/28/5) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [23(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/23/b)
+[^c-da51d40a32fe2388992caf1497e11793]: Textual amendment: Words in [reg. 28(5)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/28/5) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [23(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/23/b)
 
-[^key-9bc12929b1f2df9aaea0ac2975355162]: Commencement: Reg. 29 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-9bc12929b1f2df9aaea0ac2975355162]: Commencement: Reg. 29 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-05bb6948dd0861bca44b73c948488daa]: Textual amendment: Word in [reg. 29(1)(c)(i)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/29/1/c/i) omitted (23.7.2016) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/20/a)
+[^c-05bb6948dd0861bca44b73c948488daa]: Textual amendment: Word in [reg. 29(1)(c)(i)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/29/1/c/i) omitted (23.7.2016) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [20(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/20/a)
 
-[^key-d924a0208e773178fb7dfc05c82b8174]: Textual amendment: Word in [reg. 29(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/29/1/c/ii) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/20/b)
+[^c-d924a0208e773178fb7dfc05c82b8174]: Textual amendment: Word in [reg. 29(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/29/1/c/ii) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [20(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/20/b)
 
-[^key-31b71012ee37dc9fb6c920753ecbfef7]: Textual amendment: [Reg. 29(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/29/1/c/iii) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [20(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/20/c)
+[^c-31b71012ee37dc9fb6c920753ecbfef7]: Textual amendment: [Reg. 29(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/29/1/c/iii) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [20(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/20/c)
 
-[^key-61fcab1ce930397ad7f7029b04e0a1af]: Textual amendment: Words in [reg. 29(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/29/1/c/iii) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [19](https://www.legislation.gov.uk/uksi/2021/667/regulation/19)
+[^c-61fcab1ce930397ad7f7029b04e0a1af]: Textual amendment: Words in [reg. 29(1)(c)(iii)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/29/1/c/iii) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [19](https://www.legislation.gov.uk/uksi/2021/667/regulation/19)
 
-[^key-835429d168c64b2dcfa043a31e710cdb]: Commencement: Reg. 30 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-835429d168c64b2dcfa043a31e710cdb]: Commencement: Reg. 30 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-7e9101fa09ebd6e9393be202ef4ea9ad]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/uksi/2011/1033/regulation/30A) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [20](https://www.legislation.gov.uk/uksi/2021/667/regulation/20)
+[^c-7e9101fa09ebd6e9393be202ef4ea9ad]: Textual amendment: [Reg. 30A](https://www.legislation.gov.uk/uksi/2011/1033/regulation/30A) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [20](https://www.legislation.gov.uk/uksi/2021/667/regulation/20)
 
-[^key-36edbd5f0211bcfc485e5a176d178040]: Textual amendment: Reg. 31 substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [25](https://www.legislation.gov.uk/uksi/2018/909/regulation/25)
+[^c-36edbd5f0211bcfc485e5a176d178040]: Textual amendment: Reg. 31 substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [25](https://www.legislation.gov.uk/uksi/2018/909/regulation/25)
 
-[^key-f314c73eb32db3355d5456437a7764f0]: Commencement: Sch. 1 para. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-f314c73eb32db3355d5456437a7764f0]: Commencement: Sch. 1 para. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-e50fa23998cc804d07cde287d827beef]: Commencement: Sch. 1 para. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-e50fa23998cc804d07cde287d827beef]: Commencement: Sch. 1 para. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-ae4aee0368a7c35d4a02bd987fbece0b]: Commencement: Sch. 1 para. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-ae4aee0368a7c35d4a02bd987fbece0b]: Commencement: Sch. 1 para. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-9ff277007a4a183d16fdcda669065b43]: Textual amendment: Word in Sch. 1 para. 3(c)(i) omitted (11.3.2015) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [14(a)(i)](https://www.legislation.gov.uk/uksi/2015/652/regulation/14/a/i)
+[^c-9ff277007a4a183d16fdcda669065b43]: Textual amendment: Word in Sch. 1 para. 3(c)(i) omitted (11.3.2015) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [14(a)(i)](https://www.legislation.gov.uk/uksi/2015/652/regulation/14/a/i)
 
-[^key-c272d4b782641b0877e6d1b63efac689]: Textual amendment: Sch. 1 para. 3(c)(iii) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [14(a)(ii)](https://www.legislation.gov.uk/uksi/2015/652/regulation/14/a/ii)
+[^c-c272d4b782641b0877e6d1b63efac689]: Textual amendment: Sch. 1 para. 3(c)(iii) inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [14(a)(ii)](https://www.legislation.gov.uk/uksi/2015/652/regulation/14/a/ii)
 
-[^key-4fecc01932029b781e9f5a9f92463001]: Textual amendment: Sch. 1 para. 3(c)(iv)(v) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/21/a)
+[^c-4fecc01932029b781e9f5a9f92463001]: Textual amendment: Sch. 1 para. 3(c)(iv)(v) inserted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2016/806/regulation/21/a)
 
-[^key-3bdaa71a5adc59da59bccce761e1c612]: Textual amendment: [Sch. 1 para. 3(c)(vi)-(viii)](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/3/c/vi) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [26(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/26/a)
+[^c-3bdaa71a5adc59da59bccce761e1c612]: Textual amendment: [Sch. 1 para. 3(c)(vi)-(viii)](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/3/c/vi) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [26(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/26/a)
 
-[^key-ffc4d5fbc652769ea8d73070cd24b289]: Textual amendment: [Sch. 1 para. 3(c)(ix)](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/3/c/ix) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/21/a)
+[^c-ffc4d5fbc652769ea8d73070cd24b289]: Textual amendment: [Sch. 1 para. 3(c)(ix)](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/3/c/ix) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [21(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/21/a)
 
-[^key-6297d9f5770601c6d71cadfeb98b857c]: Commencement: Sch. 1 para. 4 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-6297d9f5770601c6d71cadfeb98b857c]: Commencement: Sch. 1 para. 4 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-9fd702b7203369360a0f5cfc2c30aeb6]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/4) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/21/b)
+[^c-9fd702b7203369360a0f5cfc2c30aeb6]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/4) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2016/806/regulation/21/b)
 
-[^key-5e730cd1de49bb2a2a49418da4677c32]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/4) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/21/b)
+[^c-5e730cd1de49bb2a2a49418da4677c32]: Textual amendment: Words in [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/4) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [21(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/21/b)
 
-[^key-c946c03ec46455b58a7f168352f44004]: Commencement: Sch. 1 para. 5 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-c946c03ec46455b58a7f168352f44004]: Commencement: Sch. 1 para. 5 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-e32967b9de846a4fc1251e2ab6e8d57f]: Commencement: Sch. 1 para. 6 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-e32967b9de846a4fc1251e2ab6e8d57f]: Commencement: Sch. 1 para. 6 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-aea1a3cda1e1e4dd692f97ff25b5dca7]: Commencement: Sch. 1 para. 7 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-aea1a3cda1e1e4dd692f97ff25b5dca7]: Commencement: Sch. 1 para. 7 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-dc31aeb1052edb5799386e74ea39c5b2]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/7) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [21(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/21/c)
+[^c-dc31aeb1052edb5799386e74ea39c5b2]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/7) substituted (23.7.2016) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/806)](https://www.legislation.gov.uk/uksi/2016/806), [regs. 1](https://www.legislation.gov.uk/uksi/2016/806/regulation/1), [21(c)](https://www.legislation.gov.uk/uksi/2016/806/regulation/21/c)
 
-[^key-f172555522abc634a48d8d9911b2cbb7]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/7) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [21(c)](https://www.legislation.gov.uk/uksi/2021/667/regulation/21/c)
+[^c-f172555522abc634a48d8d9911b2cbb7]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/7) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [21(c)](https://www.legislation.gov.uk/uksi/2021/667/regulation/21/c)
 
-[^key-c2ff089fed13e38507459ccfe31f4f0c]: Commencement: Sch. 1 para. 8 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-c2ff089fed13e38507459ccfe31f4f0c]: Commencement: Sch. 1 para. 8 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-f2a6d8aac2c3c319df649008efc6c7e0]: Commencement: Sch. 1 para. 9 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-f2a6d8aac2c3c319df649008efc6c7e0]: Commencement: Sch. 1 para. 9 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-99817c8515608f56a1050e231951bf94]: Commencement: Sch. 1 para. 10 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-99817c8515608f56a1050e231951bf94]: Commencement: Sch. 1 para. 10 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-8f35bd460878491e126e2cc58c4867b6]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/10) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [26(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/26/d)
+[^c-8f35bd460878491e126e2cc58c4867b6]: Textual amendment: Words in [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2011/1033/schedule/1/paragraph/10) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [26(d)](https://www.legislation.gov.uk/uksi/2018/909/regulation/26/d)
 
-[^key-7cf631904513e43b627b7096db5f3850]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-7cf631904513e43b627b7096db5f3850]: Commencement: Sch. 2 Pt. 1 para. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-077d848f0140d22c42b80ce4f8fd5f5e]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-077d848f0140d22c42b80ce4f8fd5f5e]: Commencement: Sch. 2 Pt. 1 para. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-3a6b23957c8410bbb3013b9b4ae33089]: Textual amendment: Words in Sch. 2 Pt. 1 para. 2 omitted (15.8.2018) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [27(1)(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/27/1/a)
+[^c-3a6b23957c8410bbb3013b9b4ae33089]: Textual amendment: Words in Sch. 2 Pt. 1 para. 2 omitted (15.8.2018) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [27(1)(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/27/1/a)
 
-[^key-390384871f8f12530d5c4aaf93b9c554]: Textual amendment: Sch. 2 Pt. 1 para. 2A inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [27(1)(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/27/1/b)
+[^c-390384871f8f12530d5c4aaf93b9c554]: Textual amendment: Sch. 2 Pt. 1 para. 2A inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [27(1)(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/27/1/b)
 
-[^key-dd355f3a8e3823dc5697bef31dbb6bb4]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-dd355f3a8e3823dc5697bef31dbb6bb4]: Commencement: Sch. 2 Pt. 1 para. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-dc83ba6d3034c3131946d15d843422ed]: Textual amendment: Sch. 2 Pt. 1 paras. 4, 5 substituted for Sch. 2 Pt. 1 para. 4 (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [15(1)](https://www.legislation.gov.uk/uksi/2015/652/regulation/15/1)
+[^c-dc83ba6d3034c3131946d15d843422ed]: Textual amendment: Sch. 2 Pt. 1 paras. 4, 5 substituted for Sch. 2 Pt. 1 para. 4 (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [15(1)](https://www.legislation.gov.uk/uksi/2015/652/regulation/15/1)
 
-[^key-90688eddd4309cef92450a89742330a6]: Textual amendment: Words in Sch. 2 Pt. 1 para. 4 substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [27(1)(c)(i)](https://www.legislation.gov.uk/uksi/2018/909/regulation/27/1/c/i)
+[^c-90688eddd4309cef92450a89742330a6]: Textual amendment: Words in Sch. 2 Pt. 1 para. 4 substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [27(1)(c)(i)](https://www.legislation.gov.uk/uksi/2018/909/regulation/27/1/c/i)
 
-[^key-7a8c74286ed79a65f2ec1c3d01d998c2]: Textual amendment: Sch. 2 Pt. 1 para. 4(a) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [27(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/909/regulation/27/1/c/ii)
+[^c-7a8c74286ed79a65f2ec1c3d01d998c2]: Textual amendment: Sch. 2 Pt. 1 para. 4(a) substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [27(1)(c)(ii)](https://www.legislation.gov.uk/uksi/2018/909/regulation/27/1/c/ii)
 
-[^key-1151cd36e6e861981916ecd76fb6ff8a]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-1151cd36e6e861981916ecd76fb6ff8a]: Commencement: Sch. 2 Pt. 2 para. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-2cc71ca4d6cb8e347d6e9b9da0728c06]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-2cc71ca4d6cb8e347d6e9b9da0728c06]: Commencement: Sch. 2 Pt. 2 para. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-8cb9ea00297b416add3a06db9734abd0]: Commencement: Sch. 2 Pt. 2 para. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-8cb9ea00297b416add3a06db9734abd0]: Commencement: Sch. 2 Pt. 2 para. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-a3b496d70daa6d36018c0c1fac50ecd3]: Commencement: Sch. 2 Pt. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-a3b496d70daa6d36018c0c1fac50ecd3]: Commencement: Sch. 2 Pt. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-640fe26b5910b8dd69dcf46c645e5c9b]: Textual amendment: Words in Sch. 2 Pt. 3 inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2015/652/regulation/15/2)
+[^c-640fe26b5910b8dd69dcf46c645e5c9b]: Textual amendment: Words in Sch. 2 Pt. 3 inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [15(2)](https://www.legislation.gov.uk/uksi/2015/652/regulation/15/2)
 
-[^key-98143429e158001a3c7cf1cb2e89811f]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1033/schedule/2/part/3) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [27(2)(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/27/2/a)
+[^c-98143429e158001a3c7cf1cb2e89811f]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1033/schedule/2/part/3) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [27(2)(a)](https://www.legislation.gov.uk/uksi/2018/909/regulation/27/2/a)
 
-[^key-47110e5d5c967b7f07ea32514316795e]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1033/schedule/2/part/3) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [27(2)(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/27/2/b)
+[^c-47110e5d5c967b7f07ea32514316795e]: Textual amendment: Words in [Sch. 2 Pt. 3](https://www.legislation.gov.uk/uksi/2011/1033/schedule/2/part/3) inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [27(2)(b)](https://www.legislation.gov.uk/uksi/2018/909/regulation/27/2/b)
 
-[^key-b99508e2b3b13937555b888e5d582ee6]: Commencement: Sch. 3 Pt. 1 para. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-b99508e2b3b13937555b888e5d582ee6]: Commencement: Sch. 3 Pt. 1 para. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-df6300c93b6a65f97c06d4116fa8088f]: Commencement: Sch. 3 Pt. 1 para. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-df6300c93b6a65f97c06d4116fa8088f]: Commencement: Sch. 3 Pt. 1 para. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-4c896da0c5b6935ae6aaf382c0be8efb]: Commencement: Sch. 3 Pt. 1 para. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-4c896da0c5b6935ae6aaf382c0be8efb]: Commencement: Sch. 3 Pt. 1 para. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-742f6837124b73b3b03aded4a87c4031]: Commencement: Sch. 3 para. 4 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-742f6837124b73b3b03aded4a87c4031]: Commencement: Sch. 3 para. 4 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-9a68a170ff0c7de16f28ace37bc87a21]: Commencement: Sch. 3 para. 5 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-9a68a170ff0c7de16f28ace37bc87a21]: Commencement: Sch. 3 para. 5 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-1a3241fb8531e12ee720eb9dba856d43]: Commencement: Sch. 3 Pt. 2 para. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-1a3241fb8531e12ee720eb9dba856d43]: Commencement: Sch. 3 Pt. 2 para. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-f835e9f9459f87423d4c0ce2ca4da505]: Commencement: Sch. 3 Pt. 2 para. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-f835e9f9459f87423d4c0ce2ca4da505]: Commencement: Sch. 3 Pt. 2 para. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-be722683d7960ccc48c0f0db2d4f58e1]: Commencement: Sch. 3 Pt. 2 para. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-be722683d7960ccc48c0f0db2d4f58e1]: Commencement: Sch. 3 Pt. 2 para. 3 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-14ecfa34d5451b91031d8ce827c5a140]: Commencement: Sch. 3 Pt. 3 para. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-14ecfa34d5451b91031d8ce827c5a140]: Commencement: Sch. 3 Pt. 3 para. 1 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-9ddeeea0a0e0ae1aa4382a89ab1dd2a4]: Commencement: Sch. 3 Pt. 3 para. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-9ddeeea0a0e0ae1aa4382a89ab1dd2a4]: Commencement: Sch. 3 Pt. 3 para. 2 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-897aa6db03639af47dc7dcd5537c76c9]: Commencement: Sch. 4 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
+[^c-897aa6db03639af47dc7dcd5537c76c9]: Commencement: Sch. 4 in force at 1.4.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1033/regulation/1/2)
 
-[^key-1e2b9460d38ba4df04264f9f99b922d4]: Textual amendment: Words in Sch. 4 shoulder note substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [28(1)](https://www.legislation.gov.uk/uksi/2018/909/regulation/28/1)
+[^c-1e2b9460d38ba4df04264f9f99b922d4]: Textual amendment: Words in Sch. 4 shoulder note substituted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [28(1)](https://www.legislation.gov.uk/uksi/2018/909/regulation/28/1)
 
-[^key-477b2dc155010db231682f8d76b4c740]: Textual amendment: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/1) heading inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/b)
+[^c-477b2dc155010db231682f8d76b4c740]: Textual amendment: [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/1) heading inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(b)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/b)
 
-[^key-b45eaf02d1ab33d17f2691401c613c66]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4) table becomes Sch. 4 Pt. 1 (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/a)
+[^c-b45eaf02d1ab33d17f2691401c613c66]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4) table becomes Sch. 4 Pt. 1 (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(a)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/a)
 
-[^key-03bce3a5b14397a9e31a4cc923c9f2dd]: Textual amendment: Words in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/1) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(c)(i)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/c/i)
+[^c-03bce3a5b14397a9e31a4cc923c9f2dd]: Textual amendment: Words in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/1) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(c)(i)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/c/i)
 
-[^key-88fc71ad1ccc01c77071e6eb909407ee]: Textual amendment: Words in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/1) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(c)(ii)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/c/ii)
+[^c-88fc71ad1ccc01c77071e6eb909407ee]: Textual amendment: Words in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/1) substituted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(c)(ii)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/c/ii)
 
-[^key-51d2795e68d54e50818b85ef9c3d8a90]: Textual amendment: Words in Sch. 4 inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [16](https://www.legislation.gov.uk/uksi/2015/652/regulation/16)
+[^c-51d2795e68d54e50818b85ef9c3d8a90]: Textual amendment: Words in Sch. 4 inserted (11.3.2015) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2015 (S.I. 2015/652)](https://www.legislation.gov.uk/uksi/2015/652), [regs. 1](https://www.legislation.gov.uk/uksi/2015/652/regulation/1), [16](https://www.legislation.gov.uk/uksi/2015/652/regulation/16)
 
-[^key-9bc34147845132fc02f1530f62100f0c]: Textual amendment: Words in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/1) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(c)(iii)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/c/iii)
+[^c-9bc34147845132fc02f1530f62100f0c]: Textual amendment: Words in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/1) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(c)(iii)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/c/iii)
 
-[^key-480a8f7e0c2dacffaaab3ff0c3912aac]: Textual amendment: Words in Sch. 4 inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [28(2)](https://www.legislation.gov.uk/uksi/2018/909/regulation/28/2)
+[^c-480a8f7e0c2dacffaaab3ff0c3912aac]: Textual amendment: Words in Sch. 4 inserted (15.8.2018) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2018 (S.I. 2018/909)](https://www.legislation.gov.uk/uksi/2018/909), [regs. 1](https://www.legislation.gov.uk/uksi/2018/909/regulation/1), [28(2)](https://www.legislation.gov.uk/uksi/2018/909/regulation/28/2)
 
-[^key-d2bafc0b040771fd2b73c0a2752b1cc7]: Textual amendment: Words in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/1) omitted (25.6.2021) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(c)(iv)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/c/iv)
+[^c-d2bafc0b040771fd2b73c0a2752b1cc7]: Textual amendment: Words in [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/1) omitted (25.6.2021) by virtue of [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(c)(iv)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/c/iv)
 
-[^key-f0a79f88722164dacadc4541ded5d679]: Textual amendment: [Sch. 4 Pts. 2](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/2), [3](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/3) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(d)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/d)
+[^c-f0a79f88722164dacadc4541ded5d679]: Textual amendment: [Sch. 4 Pts. 2](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/2), [3](https://www.legislation.gov.uk/uksi/2011/1033/schedule/4/part/3) inserted (25.6.2021) by [The Warm Home Discount (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/667)](https://www.legislation.gov.uk/uksi/2021/667), [regs. 1](https://www.legislation.gov.uk/uksi/2021/667/regulation/1), [22(d)](https://www.legislation.gov.uk/uksi/2021/667/regulation/22/d)

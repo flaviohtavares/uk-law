@@ -56,8 +56,8 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (2) The extent of these Regulations is as follows—
 
-- (a) Parts 1 and 2 extend[^key-8cafc5b4604c69ffd58e5193a66a2da6] to England and Wales and Northern Ireland;
-- (b) Part 3 extends[^key-dd0378fe83af20e39d77f93218b9b7d8] to England and Wales;
+- (a) Parts 1 and 2 extend[^c-8cafc5b4604c69ffd58e5193a66a2da6] to England and Wales and Northern Ireland;
+- (b) Part 3 extends[^c-dd0378fe83af20e39d77f93218b9b7d8] to England and Wales;
 - (c) Part 4 extends to Northern Ireland.
 
 (3) In these Regulations—
@@ -70,7 +70,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
   - (b) in Northern Ireland, means a person who is 16 years or over who lacks capacity to understand the nature of an account forfeiture notice because of an impairment of, or a disturbance in the functioning of, the mind or brain;
   - (c) in Scotland, an adult who is incapable, within the meaning of the Adults with Incapacity (Scotland) Act 2000 [^c23089951], of understanding the nature of an account forfeiture notice.
 
-## PART 2 — Account Forfeiture Notices – Forfeiture of Money Held in Certain Accounts[^key-c2c76bcfbe8c4322baf954894e2ab410]
+## PART 2 — Account Forfeiture Notices – Forfeiture of Money Held in Certain Accounts[^c-c2c76bcfbe8c4322baf954894e2ab410]
 
 ### 2. Giving of an account forfeiture notice
 
@@ -325,9 +325,9 @@ An impact assessment has not been produced for this instrument as no impact is f
 
 [^c23089921]: Marginal citation: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29). Section 297A was inserted by section 65(1) of the [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26); amended by paragraphs 14 and 28 of Part 1 of Schedule 21 to the [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22); and amended by section 34(1) and (7) and paragraphs 1 and 19 of Schedule 1 to the [Criminal Finances Act 2017 (c.22)](https://www.legislation.gov.uk/ukpga/2017/22). Sections 303Z1 to 303Z19 were inserted by section 16 of the Criminal Finances Act 2017.
 
-[^key-8cafc5b4604c69ffd58e5193a66a2da6]: Textual amendment: Words in reg. 1(2)(a) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) (Amendment) Regulations 2021 (S.I. 2021/639)](https://www.legislation.gov.uk/uksi/2021/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/639/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/639/regulation/2/2/a)
+[^c-8cafc5b4604c69ffd58e5193a66a2da6]: Textual amendment: Words in reg. 1(2)(a) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) (Amendment) Regulations 2021 (S.I. 2021/639)](https://www.legislation.gov.uk/uksi/2021/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/639/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/639/regulation/2/2/a)
 
-[^key-dd0378fe83af20e39d77f93218b9b7d8]: Textual amendment: Words in reg. 1(2)(b) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) (Amendment) Regulations 2021 (S.I. 2021/639)](https://www.legislation.gov.uk/uksi/2021/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/639/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/639/regulation/2/2/b)
+[^c-dd0378fe83af20e39d77f93218b9b7d8]: Textual amendment: Words in reg. 1(2)(b) substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) (Amendment) Regulations 2021 (S.I. 2021/639)](https://www.legislation.gov.uk/uksi/2021/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/639/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/639/regulation/2/2/b)
 
 [^c23089931]: Marginal citation: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by paragraph 158 of Schedule 17 to the [Communications Act 2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21).
 
@@ -335,7 +335,7 @@ An impact assessment has not been produced for this instrument as no impact is f
 
 [^c23089951]: Marginal citation: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
-[^key-c2c76bcfbe8c4322baf954894e2ab410]: Textual amendment: Word in Pt. 2 heading substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) (Amendment) Regulations 2021 (S.I. 2021/639)](https://www.legislation.gov.uk/uksi/2021/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/639/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/639/regulation/2/3)
+[^c-c2c76bcfbe8c4322baf954894e2ab410]: Textual amendment: Word in Pt. 2 heading substituted (28.6.2021) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) (Amendment) Regulations 2021 (S.I. 2021/639)](https://www.legislation.gov.uk/uksi/2021/639), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/639/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2021/639/regulation/2/3)
 
 [^c23089961]: Marginal citation: [S.I. 2015/857](https://www.legislation.gov.uk/uksi/2015/857). Relevant amendments made by [S.I. 2015/1854](https://www.legislation.gov.uk/uksi/2015/1854).
 

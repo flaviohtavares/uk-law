@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Paragraph 2 (certificates as to margin of solvency)[^key-0f8c71558ddcc09e5cac48a14e8b1216]
+## 106. Paragraph 2 (certificates as to margin of solvency)[^c-0f8c71558ddcc09e5cac48a14e8b1216]
 
 *Extent: E+W+S+N.I.*
 
 (1) Paragraph 2 (certificates as to margin of solvency) is amended as follows.
 
-(2)[^key-0b67b0cbcfd01d36d35c5a420145d885] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0b67b0cbcfd01d36d35c5a420145d885] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In sub-paragraph (6)—
 
@@ -34,9 +34,9 @@ summary: ''
 
 ## Annotations
 
-[^key-0f8c71558ddcc09e5cac48a14e8b1216]: Commencement: Reg. 106 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-0f8c71558ddcc09e5cac48a14e8b1216]: Commencement: Reg. 106 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
-[^key-0b67b0cbcfd01d36d35c5a420145d885]: Textual amendment: Reg. 106(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/3), [9(6)](https://www.legislation.gov.uk/uksi/2019/680/regulation/9/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0b67b0cbcfd01d36d35c5a420145d885]: Textual amendment: Reg. 106(2) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Gibraltar (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/680)](https://www.legislation.gov.uk/uksi/2019/680), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/3), [9(6)](https://www.legislation.gov.uk/uksi/2019/680/regulation/9/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23658771]: Marginal citation: Paragraph (a) was amended by [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253); paragraph (aa) was substituted by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575).
 

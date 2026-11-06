@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Meaning of “alcohol”: inclusion of alcohol in any state[^c22719741][^key-51eb0b128c9d270cf5f80b3d87b145e4]
+## 135. Meaning of “alcohol”: inclusion of alcohol in any state[^c22719741][^c-51eb0b128c9d270cf5f80b3d87b145e4]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In the Licensing Act 2003, in section 191(1) (meaning of “alcohol”) after �
 
 [^c22719741]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2017/3/section/135) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-51eb0b128c9d270cf5f80b3d87b145e4]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2017/3/section/135) in force at 6.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/a)
+[^c-51eb0b128c9d270cf5f80b3d87b145e4]: Commencement: [S. 135](https://www.legislation.gov.uk/ukpga/2017/3/section/135) in force at 6.4.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2017/399/regulation/3/a)

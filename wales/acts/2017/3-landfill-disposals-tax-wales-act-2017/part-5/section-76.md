@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 76. Penalties for multiple failures to pay tax on time[^key-00b3cd366ecf4710b244415bbb66a733]
+## 76. Penalties for multiple failures to pay tax on time[^c-00b3cd366ecf4710b244415bbb66a733]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ After section 122 of TCMA (penalty for failure to pay tax on time) (substituted 
 
 ## Annotations
 
-[^key-00b3cd366ecf4710b244415bbb66a733]: Commencement: [S. 76](https://www.legislation.gov.uk/anaw/2017/3/section/76) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-00b3cd366ecf4710b244415bbb66a733]: Commencement: [S. 76](https://www.legislation.gov.uk/anaw/2017/3/section/76) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

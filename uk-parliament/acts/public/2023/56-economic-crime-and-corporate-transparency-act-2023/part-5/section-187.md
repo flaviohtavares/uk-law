@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Enhanced due diligence: designation of high-risk countries[^key-e0a5bf4d2b443546111384994fb75fe2][^key-dc2730a0918af849d42c6805b0a42680]
+## 187. Enhanced due diligence: designation of high-risk countries[^c-e0a5bf4d2b443546111384994fb75fe2][^c-dc2730a0918af849d42c6805b0a42680]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0a5bf4d2b443546111384994fb75fe2]: Commencement: S. 187 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-e0a5bf4d2b443546111384994fb75fe2]: Commencement: S. 187 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-dc2730a0918af849d42c6805b0a42680]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2023/56/section/187) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/g)
+[^c-dc2730a0918af849d42c6805b0a42680]: Commencement: [S. 187](https://www.legislation.gov.uk/ukpga/2023/56/section/187) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/g)

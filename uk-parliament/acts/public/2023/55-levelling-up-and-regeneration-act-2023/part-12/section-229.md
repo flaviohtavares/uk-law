@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 229. Pavement licences[^key-7ccd5113730c295e03aec6b54d5eca35][^key-7cc363405c19eaf22f7fe388ae6779bd]
+## 229. Pavement licences[^c-7ccd5113730c295e03aec6b54d5eca35][^c-7cc363405c19eaf22f7fe388ae6779bd]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ Schedule 22 makes—
 
 ## Annotations
 
-[^key-7ccd5113730c295e03aec6b54d5eca35]: Commencement: S. 229 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-7ccd5113730c295e03aec6b54d5eca35]: Commencement: S. 229 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
 
-[^key-7cc363405c19eaf22f7fe388ae6779bd]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2023/55/section/229) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/r) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/389/regulation/5))
+[^c-7cc363405c19eaf22f7fe388ae6779bd]: Commencement: [S. 229](https://www.legislation.gov.uk/ukpga/2023/55/section/229) in force at 31.3.2024 by [S.I. 2024/389](https://www.legislation.gov.uk/uksi/2024/389), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2024/389/regulation/2/r) (with [reg. 5](https://www.legislation.gov.uk/uksi/2024/389/regulation/5))

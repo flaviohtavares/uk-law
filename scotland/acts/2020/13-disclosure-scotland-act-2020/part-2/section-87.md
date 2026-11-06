@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Retention of scheme records after removal[^key-7a9fd8f4e5274d18d24da70e91925d46]
+## 87. Retention of scheme records after removal[^c-7a9fd8f4e5274d18d24da70e91925d46]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 61 (retention of scheme records after removal) of the PVG Act, after 
 
 ## Annotations
 
-[^key-7a9fd8f4e5274d18d24da70e91925d46]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2020/13/section/87) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)
+[^c-7a9fd8f4e5274d18d24da70e91925d46]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2020/13/section/87) in force at 10.12.2021 by [S.S.I. 2021/380](https://www.legislation.gov.uk/ssi/2021/380), [reg. 2](https://www.legislation.gov.uk/ssi/2021/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/380/schedule)

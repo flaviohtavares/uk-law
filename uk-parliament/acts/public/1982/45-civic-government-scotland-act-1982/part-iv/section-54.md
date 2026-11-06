@@ -38,7 +38,7 @@ so as to give any other person reasonable cause for annoyance and fails to desis
 
 (3) Subsection (1) above shall not apply to the operation of a loudspeaker—
 
-- (a) for police, fire-fighting[^key-f4aaf8a90ac5acbf6094de48e78d103b] or ambulance purposes, by Scottish Water[^c17714321] in the exercise of any of its functions, or by a local authority within its area;
+- (a) for police, fire-fighting[^c-f4aaf8a90ac5acbf6094de48e78d103b] or ambulance purposes, by Scottish Water[^c17714321] in the exercise of any of its functions, or by a local authority within its area;
 - (b) for communicating with persons on a vessel for the purpose of directing the movement of that or any other vessel;
 - (c) if the loudspeaker forms part of a public telephone system;
 - (d) if the loudspeaker—
@@ -51,9 +51,9 @@ so as to give any other person reasonable cause for annoyance and fails to desis
 
 [^c17714341]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-866637c7fcef7423307fe652f770d381] In subsection (3)(a), the reference to fire-fighting purposes is a reference to—
+(4)[^c-866637c7fcef7423307fe652f770d381] In subsection (3)(a), the reference to fire-fighting purposes is a reference to—
 
-- (a) the purposes of the Scottish Fire and Rescue Service[^key-9fa6b05110e7e2bf647295a27bfd233b] ; or
+- (a) the purposes of the Scottish Fire and Rescue Service[^c-9fa6b05110e7e2bf647295a27bfd233b] ; or
 - (b) fire-fighting functions of any other employer of fire-fighters.
 
 ## Annotations
@@ -62,7 +62,7 @@ so as to give any other person reasonable cause for annoyance and fails to desis
 
 [^c13374561]: Textual amendment: S. 54(2A)-(2C) inserted (1.12.1998) by [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37), [s. 24(2)](https://www.legislation.gov.uk/ukpga/1998/37/section/24/2); [S.I. 1998/2327](https://www.legislation.gov.uk/uksi/1998/2327), [art. 2(1)](https://www.legislation.gov.uk/uksi/1998/2327/article/2/1)
 
-[^key-f4aaf8a90ac5acbf6094de48e78d103b]: Textual amendment: Words in s. 54(3)(a) substituted (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 90](https://www.legislation.gov.uk/asp/2005/5/section/90), [sch. 3 para. 11(a)](https://www.legislation.gov.uk/asp/2005/5/schedule/3/paragraph/11/a) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
+[^c-f4aaf8a90ac5acbf6094de48e78d103b]: Textual amendment: Words in s. 54(3)(a) substituted (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 90](https://www.legislation.gov.uk/asp/2005/5/section/90), [sch. 3 para. 11(a)](https://www.legislation.gov.uk/asp/2005/5/schedule/3/paragraph/11/a) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
 
 [^c17714321]: Textual amendment: Words in s. 54(3)(a) substituted (1.4.2002) by [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), [s. 71(2)](https://www.legislation.gov.uk/asp/2002/3/section/71/2), [Sch. 7 para. 13(a)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/13/a), (with s. 67); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2](https://www.legislation.gov.uk/ssi/2002/118/article/2)
 
@@ -70,6 +70,6 @@ so as to give any other person reasonable cause for annoyance and fails to desis
 
 [^c17714341]: Textual amendment: Words in s. 54(3) repealed (1.4.2002) by [Water Industry (Scotland) Act 2002 (asp 3)](https://www.legislation.gov.uk/asp/2002/3), [s. 71(2)](https://www.legislation.gov.uk/asp/2002/3/section/71/2), [Sch. 7 para. 13(b)](https://www.legislation.gov.uk/asp/2002/3/schedule/7/paragraph/13/b), (with s. 67); [S.S.I. 2002/118](https://www.legislation.gov.uk/ssi/2002/118), [art. 2](https://www.legislation.gov.uk/ssi/2002/118/article/2)
 
-[^key-866637c7fcef7423307fe652f770d381]: Textual amendment: S. 54(4) inserted (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 90](https://www.legislation.gov.uk/asp/2005/5/section/90), [sch. 3 para. 11(b)](https://www.legislation.gov.uk/asp/2005/5/schedule/3/paragraph/11/b) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
+[^c-866637c7fcef7423307fe652f770d381]: Textual amendment: S. 54(4) inserted (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 90](https://www.legislation.gov.uk/asp/2005/5/section/90), [sch. 3 para. 11(b)](https://www.legislation.gov.uk/asp/2005/5/schedule/3/paragraph/11/b) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
 
-[^key-9fa6b05110e7e2bf647295a27bfd233b]: Textual amendment: Words in s. 54(4)(a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 53(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/53/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-9fa6b05110e7e2bf647295a27bfd233b]: Textual amendment: Words in s. 54(4)(a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [sch. 7 para. 53(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/53/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

@@ -40,10 +40,10 @@ summary: ''
 
 (7) In the case of any qualifying pre-commencement expenditure which is relevant R&D expenditure incurred by an SME, the amount of that expenditure is treated for the purposes of this Chapter as being equal to 150% of its actual amount.
 
-(8)[^key-06463de52f84b31c2c5712babe3c6f3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-06463de52f84b31c2c5712babe3c6f3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-06463de52f84b31c2c5712babe3c6f3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-06463de52f84b31c2c5712babe3c6f3e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-06463de52f84b31c2c5712babe3c6f3e]: Textual amendment: S. 312(8)(9) omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 24(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/24/2)
+[^c-06463de52f84b31c2c5712babe3c6f3e]: Textual amendment: S. 312(8)(9) omitted (with effect in accordance with Sch. 15 paras. 28, 29 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 15 para. 24(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/15/paragraph/24/2)

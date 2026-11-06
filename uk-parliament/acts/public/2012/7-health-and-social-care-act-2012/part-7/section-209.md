@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 209. Power to regulate social workers etc. in England[^key-827a06114e3ea97fd08df17fe0ec3adf]
+## 209. Power to regulate social workers etc. in England[^c-827a06114e3ea97fd08df17fe0ec3adf]
 
 *Extent: E+W*
 
@@ -95,4 +95,4 @@ summary: ''
 
 ## Annotations
 
-[^key-827a06114e3ea97fd08df17fe0ec3adf]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2012/7/section/209) in force at 1.8.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)
+[^c-827a06114e3ea97fd08df17fe0ec3adf]: Commencement: [S. 209](https://www.legislation.gov.uk/ukpga/2012/7/section/209) in force at 1.8.2012 by [S.I. 2012/1319](https://www.legislation.gov.uk/uksi/2012/1319), [art. 2(4)](https://www.legislation.gov.uk/uksi/2012/1319/article/2/4)

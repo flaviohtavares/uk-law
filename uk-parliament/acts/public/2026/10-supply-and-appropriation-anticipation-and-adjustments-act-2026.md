@@ -39,7 +39,7 @@ Be it therefore enacted by the King’s most Excellent Majesty, by and with the 
 
 ## Vote on Account for 2026-27
 
-### 1. Vote on account for 2026-27[^key-7aac8509a39d49fb2078e1c746b3b3c7]
+### 1. Vote on account for 2026-27[^c-7aac8509a39d49fb2078e1c746b3b3c7]
 
 (1) The use of resources for the year ending with 31 March 2027 is authorised up to the amount of £520,458,767,000.
 
@@ -57,7 +57,7 @@ up to the amount of £422,048,736,000.
 
 ## Supplementary provision for 2025-26
 
-### 2. Authorisation of supplementary provision for 2025-26[^key-2ae79a5b833dd763e6324e1ebcdf5c23]
+### 2. Authorisation of supplementary provision for 2025-26[^c-2ae79a5b833dd763e6324e1ebcdf5c23]
 
 (1) The amount up to which the authorisation was conferred for the use of resources for the year ending with 31 March 2026 is to be treated as further increased by £56,913,922,000.
 
@@ -75,7 +75,7 @@ is to be treated as reduced by £6,189,700,000.
 
 (4) The increases and reductions for which this section provides are to be treated as having had effect from the beginning of 1 April 2025.
 
-### 3. Appropriation of supplementary provision for 2025-26[^key-9bd266da493db5cc98321f3629ec6909]
+### 3. Appropriation of supplementary provision for 2025-26[^c-9bd266da493db5cc98321f3629ec6909]
 
 (1) For the purposes of—
 
@@ -109,7 +109,7 @@ the Main Estimates Act 2025 is to be treated as having effect with the adjustmen
 
 ## Excesses for 2024-25
 
-### 4. Authorisation of excesses for 2024-25[^key-7a679a62d0046806e2337d53adf761a0]
+### 4. Authorisation of excesses for 2024-25[^c-7a679a62d0046806e2337d53adf761a0]
 
 (1) The amount up to which authorisation was conferred for the use of resources for the year ending with 31 March 2025 is to be treated as further increased, for the purpose of making good excesses, by £2,566,041,000.
 
@@ -117,7 +117,7 @@ the Main Estimates Act 2025 is to be treated as having effect with the adjustmen
 
 (3) The increases for which this section provides are to be treated as having had effect from the beginning of 1 April 2024.
 
-### 5. Appropriation of excesses for 2024-25[^key-156757f99b7e8d621729fc7a81bd85bd]
+### 5. Appropriation of excesses for 2024-25[^c-156757f99b7e8d621729fc7a81bd85bd]
 
 (1) For the purpose of appropriating the amount of resources the use of which for the year ending with 31 March 2025 is authorised by section 4 (1), the Main Estimates Act 2024 is treated as having effect with the adjustments provided for in Schedule 2 to this Act.
 
@@ -138,7 +138,7 @@ the Main Estimates Act 2025 is to be treated as having effect with the adjustmen
 
 ## General
 
-### 6. Short title[^key-a87da64b351e6f469874781ef7b61d95]
+### 6. Short title[^c-a87da64b351e6f469874781ef7b61d95]
 
 This Act may be cited as the Supply and Appropriation (Anticipation and Adjustments) Act 2026.
 
@@ -148,7 +148,7 @@ Schedules
 
 Section 3
 
-**1.**[^key-fd7fc0d9b27a19a8fbd5d52639b8e796] (1) In this Schedule, where an asterisk (\*) appears at the beginning of a description of matters to which expenditure may relate, or from which income may arise, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2025 as originally enacted.
+**1.**[^c-fd7fc0d9b27a19a8fbd5d52639b8e796] (1) In this Schedule, where an asterisk (\*) appears at the beginning of a description of matters to which expenditure may relate, or from which income may arise, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2025 as originally enacted.
 
 (2) Text which follows an asterisk (\*) is added by this Schedule.
 
@@ -1235,7 +1235,7 @@ The Local Government Boundary Commission for England
 
 Section 5
 
-**1.**[^key-d95f49fcc443d7e91f425940ff51bdc5] (1) In this Schedule, where two asterisks (\*\*) appear at the beginning of any description of matters to which expenditure may relate, or from which income may arise, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2024 as originally enacted.
+**1.**[^c-d95f49fcc443d7e91f425940ff51bdc5] (1) In this Schedule, where two asterisks (\*\*) appear at the beginning of any description of matters to which expenditure may relate, or from which income may arise, the description is a description which was not included in the Schedule to the Supply and Appropriation (Main Estimates) Act 2024 as originally enacted.
 
 (2) Text which follows two asterisks (\*\*) is added by this Schedule.
 
@@ -1281,18 +1281,18 @@ House of Lords
 
 ## Annotations
 
-[^key-7aac8509a39d49fb2078e1c746b3b3c7]: Commencement: S. 1 in force at Royal Assent
+[^c-7aac8509a39d49fb2078e1c746b3b3c7]: Commencement: S. 1 in force at Royal Assent
 
-[^key-2ae79a5b833dd763e6324e1ebcdf5c23]: Commencement: S. 2 in force at Royal Assent
+[^c-2ae79a5b833dd763e6324e1ebcdf5c23]: Commencement: S. 2 in force at Royal Assent
 
-[^key-9bd266da493db5cc98321f3629ec6909]: Commencement: S. 3 in force at Royal Assent
+[^c-9bd266da493db5cc98321f3629ec6909]: Commencement: S. 3 in force at Royal Assent
 
-[^key-7a679a62d0046806e2337d53adf761a0]: Commencement: S. 4 in force at Royal Assent
+[^c-7a679a62d0046806e2337d53adf761a0]: Commencement: S. 4 in force at Royal Assent
 
-[^key-156757f99b7e8d621729fc7a81bd85bd]: Commencement: S. 5 in force at Royal Assent
+[^c-156757f99b7e8d621729fc7a81bd85bd]: Commencement: S. 5 in force at Royal Assent
 
-[^key-a87da64b351e6f469874781ef7b61d95]: Commencement: S. 6 in force at Royal Assent
+[^c-a87da64b351e6f469874781ef7b61d95]: Commencement: S. 6 in force at Royal Assent
 
-[^key-fd7fc0d9b27a19a8fbd5d52639b8e796]: Commencement: Sch. 1 para. 1 in force at Royal Assent
+[^c-fd7fc0d9b27a19a8fbd5d52639b8e796]: Commencement: Sch. 1 para. 1 in force at Royal Assent
 
-[^key-d95f49fcc443d7e91f425940ff51bdc5]: Commencement: Sch. 2 para. 1 in force at Royal Assent
+[^c-d95f49fcc443d7e91f425940ff51bdc5]: Commencement: Sch. 2 para. 1 in force at Royal Assent

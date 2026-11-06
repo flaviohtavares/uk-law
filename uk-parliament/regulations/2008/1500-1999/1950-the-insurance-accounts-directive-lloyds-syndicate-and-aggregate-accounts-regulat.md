@@ -44,7 +44,7 @@ Coming into force
 
 15th August 2008
 
-The Treasury, being a government department designated [^c19350791] for the purposes of section 2(2) of the European Communities Act 1972 [^c19350801] in relation to the authorisation of the carrying on of insurance business and the regulation of such business and its conduct, in exercise of the powers conferred on them by that section, make the following Regulations:[^key-b1effb887c757b71228cbc9a9af1d411]
+The Treasury, being a government department designated [^c19350791] for the purposes of section 2(2) of the European Communities Act 1972 [^c19350801] in relation to the authorisation of the carrying on of insurance business and the regulation of such business and its conduct, in exercise of the powers conferred on them by that section, make the following Regulations:[^c-b1effb887c757b71228cbc9a9af1d411]
 
 ## PART 1 — GENERAL
 
@@ -63,7 +63,7 @@ The Treasury, being a government department designated [^c19350791] for the purp
 - “**appropriate audit authority**” means—
   - (a) the Secretary of State, or
   - (b) if the Secretary of State has delegated functions under section 1252 of the Companies Act 2006 (delegation of the Secretary of State's functions) to a body whose functions include receiving notice that an auditor of a syndicate or of the aggregate accounts has ceased to hold office, that body;
-- “**the Authority**” means the Prudential Regulation Authority[^key-f9c9b9c348aaa963b658f4fdd2360bd3];
+- “**the Authority**” means the Prudential Regulation Authority[^c-f9c9b9c348aaa963b658f4fdd2360bd3];
 - “the Council of Lloyd's” means the Council constituted by section 3 of Lloyd's Act 1982 (the Council);
 - “**financial year**” means the period of 12 months beginning on 1st January;
 - “**Lloyd's byelaws**” means the byelaws made under Lloyd's Acts 1871 to 1982 [^c19350831];
@@ -164,7 +164,7 @@ Where a managing agent has sent accounts and reports to the Council of Lloyd's u
 - (a) make available, on reasonable notice, those accounts and reports for inspection by any person without charge and during business hours at the Council's head office for a period of three years from the date of signature of each document; and
 - (b) supply to any person upon request a copy of those accounts and reports (or such part of those accounts and reports as may be requested) at a price not exceeding the administrative cost of making the copy, for a period of three years from the date of signature of each document.
 
-### 10. Auditor's report[^key-bd6a69e645922fae652e97908f16f988]
+### 10. Auditor's report[^c-bd6a69e645922fae652e97908f16f988]
 
 (1) A syndicate’s auditor must make a written report to the syndicate’s members on all annual accounts of the syndicate of which copies are to be sent to the syndicate members during the auditor’s tenure of office.
 
@@ -210,13 +210,13 @@ Where a managing agent has sent accounts and reports to the Council of Lloyd's u
 - (a) that adequate accounting records have not been kept; or
 - (b) that the syndicate's annual accounts are not in agreement with the accounting records,
 
-the auditor must state that fact in the auditor’s report[^key-d4b441eca74b9348d23bf0dc907d17a7].
+the auditor must state that fact in the auditor’s report[^c-d4b441eca74b9348d23bf0dc907d17a7].
 
 (3) If the auditor fails to obtain all the information and explanations which, to the best of the auditor's knowledge and belief, are necessary for the purposes of the audit, the audit report shall state that fact.
 
 (4) If the requirements of paragraph 5 of Schedule 1 are not complied with in the annual accounts the audit report must include, so far as the auditor is reasonably able to do so, a statement giving the required particulars.
 
-(5)[^key-561b1971c87be6ad9f6f735f54c90338] Where more than one person is appointed as an auditor—
+(5)[^c-561b1971c87be6ad9f6f735f54c90338] Where more than one person is appointed as an auditor—
 
 - (a) all the persons appointed must jointly make a report under this regulation and the report must include a statement as to whether all the persons appointed agree on—
   - (i) the matters contained in the report,
@@ -231,13 +231,13 @@ the auditor must state that fact in the auditor’s report[^key-d4b441eca74b9348
 
 ### 12. Signature of auditor's report
 
-(1) The syndicate's auditor's report on the syndicate's annual accounts required under regulation 5(2), and on the underwriting year accounts required by regulation 6, must state the name of the auditor (or where more than one person is appointed as auditor, all of their names)[^key-81a3aff0a01e6df53906563edd50ffff] and be signed and dated.
+(1) The syndicate's auditor's report on the syndicate's annual accounts required under regulation 5(2), and on the underwriting year accounts required by regulation 6, must state the name of the auditor (or where more than one person is appointed as auditor, all of their names)[^c-81a3aff0a01e6df53906563edd50ffff] and be signed and dated.
 
 (2) Where the auditor is an individual, the report must be signed by that individual.
 
 (3) Where the auditor is a firm, the report must be signed by the senior statutory auditor in his or her own name, for and on behalf of the auditor.
 
-(4)[^key-c49b4122f1117de735f15f69b0dacd93] Where more than one person is appointed as auditor, the report must be signed by all of them.
+(4)[^c-c49b4122f1117de735f15f69b0dacd93] Where more than one person is appointed as auditor, the report must be signed by all of them.
 
 ### 13. Names to be stated in copies of auditor's report published or filed
 
@@ -246,13 +246,13 @@ the auditor must state that fact in the auditor’s report[^key-d4b441eca74b9348
 - (a) state the name of the auditor and (where the auditor is a firm) the name of the person who signed it as senior statutory auditor; or
 - (b) if the conditions in regulation 14 are met, state that a resolution has been passed and notified to the Authority in accordance with regulation 14(2)(b).
 
-(1A)[^key-acb4fc9920f812679c34211194beffa3] If more than one person is appointed as auditor, the reference in paragraph (1)(a) to the name of the auditor is to be read as a reference to the names of all the auditors.
+(1A)[^c-acb4fc9920f812679c34211194beffa3] If more than one person is appointed as auditor, the reference in paragraph (1)(a) to the name of the auditor is to be read as a reference to the names of all the auditors.
 
 (2) For the purposes of this regulation, the syndicate (or the Council) is regarded as publishing the report if it publishes, issues, circulates or otherwise makes it available for public inspection in a manner calculated to invite members of the public generally, or any class of members of the public, to read it.
 
 ### 14. Circumstances in which names may be omitted
 
-(1) An[^key-608c2091399890d29742f4448b12140a] auditor's name, and (where the auditor is a firm) the name of the person who signed the report as senior statutory auditor, may be omitted from copies of the report circulated, published, issued or delivered where the conditions in paragraph (2) are met.
+(1) An[^c-608c2091399890d29742f4448b12140a] auditor's name, and (where the auditor is a firm) the name of the person who signed the report as senior statutory auditor, may be omitted from copies of the report circulated, published, issued or delivered where the conditions in paragraph (2) are met.
 
 (2) The conditions referred to in paragraph (1) are that the managing agent responsible for preparing the syndicate's accounts—
 
@@ -343,12 +343,12 @@ Those accounts are referred to in these Regulations as the “**aggregate accoun
 - (a) be prepared within the period of 6 months beginning immediately after the end of the financial year; and
 - (b) state that they are prepared under these Regulations.
 
-(4) Subject to the modification in paragraph (4A),[^key-2ce856cba888989e940e36d09d01fcfc] the aggregate accounts must comply with the provisions of Schedule 3 to the 2008 Regulations (insurance companies: Companies Act individual accounts), other than the provisions (or parts of provisions) set out in paragraph (5) as to—
+(4) Subject to the modification in paragraph (4A),[^c-2ce856cba888989e940e36d09d01fcfc] the aggregate accounts must comply with the provisions of Schedule 3 to the 2008 Regulations (insurance companies: Companies Act individual accounts), other than the provisions (or parts of provisions) set out in paragraph (5) as to—
 
 - (a) the form and content of the aggregate balance sheet and aggregate profit and loss account; and
 - (b) additional information to be provided by way of notes to the accounts.
 
-(4A)[^key-db4b963030dcc7992f24e6b743ce0447] Paragraph 16 of Schedule 3 to the 2008 Regulations applies in relation to the syndicates as if it read “The syndicates are presumed to continue to write future business.
+(4A)[^c-db4b963030dcc7992f24e6b743ce0447] Paragraph 16 of Schedule 3 to the 2008 Regulations applies in relation to the syndicates as if it read “The syndicates are presumed to continue to write future business.
 
 (5) The provisions are the following—
 
@@ -381,7 +381,7 @@ The members of the Council of Lloyd's must prepare an annual report on the insur
 
 (3) The copy of the annual report which is delivered to the Authority must be signed on behalf of the Council by a member of the Council.
 
-### 22. Auditor's report[^key-a8ac7b2bb06a41798133a32a4ee90f52]
+### 22. Auditor's report[^c-a8ac7b2bb06a41798133a32a4ee90f52]
 
 (1) The members of the Council of Lloyd’s must obtain a written auditor’s report on the aggregate accounts.
 
@@ -422,13 +422,13 @@ The members of the Council of Lloyd's must prepare an annual report on the insur
 
 ### 23. Signature of auditor's report
 
-(1) The auditor's report must state the name of the auditor (or, where more than one person is appointed as auditor, all of their names)[^key-1b91cd7e61d5cab7763b88f6d09fa3ab] and be signed and dated.
+(1) The auditor's report must state the name of the auditor (or, where more than one person is appointed as auditor, all of their names)[^c-1b91cd7e61d5cab7763b88f6d09fa3ab] and be signed and dated.
 
 (2) Where the auditor is an individual, the report must be signed by that individual.
 
 (3) Where the auditor is a firm, the report must be signed by the senior statutory auditor in his own name, for and on behalf of the auditor.
 
-(4)[^key-b7e056cf1e64c8c2fcdb91bc5204160c] Where more than one person is appointed as auditor, the report must be signed by all of them.
+(4)[^c-b7e056cf1e64c8c2fcdb91bc5204160c] Where more than one person is appointed as auditor, the report must be signed by all of them.
 
 ### 24. Names to be stated in copies of auditor's report published or filed
 
@@ -437,7 +437,7 @@ The members of the Council of Lloyd's must prepare an annual report on the insur
 - (a) state the name of the auditor and (where the auditor is a firm) the name of the person who signed it as senior statutory auditor; or
 - (b) if the conditions in regulation 25 are met, state that a resolution has been passed and notified to the Authority in accordance with regulation 25(2)(b).
 
-(1A)[^key-76b93e8db4f9366022d6d398a73a0130] If more than one person is appointed as auditor, the reference in paragraph (1)(a) to the name of the auditor is to be read as a reference to the names of all the auditors.
+(1A)[^c-76b93e8db4f9366022d6d398a73a0130] If more than one person is appointed as auditor, the reference in paragraph (1)(a) to the name of the auditor is to be read as a reference to the names of all the auditors.
 
 (2) The copy of the auditor's report delivered to the Authority must be signed and dated by the auditor.
 
@@ -445,7 +445,7 @@ The members of the Council of Lloyd's must prepare an annual report on the insur
 
 ### 25. Circumstances in which names may be omitted
 
-(1) An[^key-f760a8bd7cceaf62770a8a7801344754] auditor's name, and (where the auditor is a firm) the name of the person who signed the report as senior statutory auditor, may be omitted from copies of the report circulated, published, issued or delivered where the conditions in paragraph (2) are met.
+(1) An[^c-f760a8bd7cceaf62770a8a7801344754] auditor's name, and (where the auditor is a firm) the name of the person who signed the report as senior statutory auditor, may be omitted from copies of the report circulated, published, issued or delivered where the conditions in paragraph (2) are met.
 
 (2) The conditions referred to in paragraph (1) are that the Council of Lloyd's—
 
@@ -462,7 +462,7 @@ The members of the Council of Lloyd's must prepare an annual report on the insur
 
 (3) If the auditor fails to obtain all the information and explanations which, to the best of the auditor's knowledge and belief, are necessary for the purposes of the auditor's report, that fact must be stated in the auditor's report.
 
-(4)[^key-72598af7ba426f24d671f5aa95ace95f] Where more than one person is appointed as auditor, the report must include a statement as to whether all the persons appointed agree on any statements given under paragraphs (2) and (3) and, if they cannot agree on those statements, the report must include the opinions of each person appointed and the reasons for the disagreement.
+(4)[^c-72598af7ba426f24d671f5aa95ace95f] Where more than one person is appointed as auditor, the report must include a statement as to whether all the persons appointed agree on any statements given under paragraphs (2) and (3) and, if they cannot agree on those statements, the report must include the opinions of each person appointed and the reasons for the disagreement.
 
 ### 27. Aggregate accounts and annual report of Council to be delivered to the Authority and published
 
@@ -528,7 +528,7 @@ The Insurance Accounts Directive (Lloyd's Syndicate and Aggregate Accounts) Regu
 
 (2) In relation to financial years beginning on or before 1st January 2008, subsection (1)(e) of that section is to continue to have effect without the substitution made by paragraph (1).
 
-### 32. Review[^key-9d2bf101ee9041391e5d109b8fa9b841]
+### 32. Review[^c-9d2bf101ee9041391e5d109b8fa9b841]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -558,12 +558,12 @@ Regulation 5(3) and (5)
 - (a) in the case of the balance sheet, give a true and fair view of the state of affairs of the syndicate as at the end of the financial year; and
 - (b) in the case of the profit and loss account, give a true and fair view of the profit or loss of the syndicate for the financial year.
 
-(4) Subject to sub-paragraphs (4A) and (5)[^key-33242a225427cc46fcce345732160895] the accounts must comply with the provisions of Schedule 3 to the 2008 Regulations, other than the provisions (or parts of provisions) set out in sub-paragraph (7) as to—
+(4) Subject to sub-paragraphs (4A) and (5)[^c-33242a225427cc46fcce345732160895] the accounts must comply with the provisions of Schedule 3 to the 2008 Regulations, other than the provisions (or parts of provisions) set out in sub-paragraph (7) as to—
 
 - (a) the form and content of the balance sheet and profit and loss account; and
 - (b) additional information to be provided by way of notes to the accounts.
 
-(4A)[^key-167d4714de0569771c4e063e93792684] Paragraph 16 of Schedule 3 to the 2008 Regulations applies in relation to a syndicate as if it read “The syndicate is presumed to continue to write future business.”.
+(4A)[^c-167d4714de0569771c4e063e93792684] Paragraph 16 of Schedule 3 to the 2008 Regulations applies in relation to a syndicate as if it read “The syndicate is presumed to continue to write future business.”.
 
 (5) The information required by paragraph 90 of Schedule 3 to the 2008 Regulations must be given by the managing agent in relation to any transactions entered into by the managing agent on behalf of the syndicate and must in addition—
 
@@ -917,7 +917,7 @@ Regulations 5(4) and (5) and 18(6)
 
 (5) Where more than one person has been appointed as auditor in respect of the financial year, separate disclosure is required in respect of the remuneration of each such person and his associates.
 
-(6) Disclosure is not required of remuneration receivable for the supply of services falling within paragraph 3(1)(h)[^key-20750cff2c452b24327cd4482217e923] supplied by a distant associate of the auditor where the total remuneration receivable for all those services supplied by that associate does not exceed either—
+(6) Disclosure is not required of remuneration receivable for the supply of services falling within paragraph 3(1)(h)[^c-20750cff2c452b24327cd4482217e923] supplied by a distant associate of the auditor where the total remuneration receivable for all those services supplied by that associate does not exceed either—
 
 - (a) £10,000; or
 - (b) 1% of the total audit remuneration received by the auditor in the most recent financial year of the auditor which ended no later than the end of the financial year of the syndicate or syndicates to which the syndicate accounts or aggregate accounts relate.
@@ -933,7 +933,7 @@ Regulations 5(4) and (5) and 18(6)
 
 ### 3. Disclosure of types of service
 
-(1)[^key-05415148c739247ce2aadcf239518b8c] The types of service in respect of which disclosure is required are—
+(1)[^c-05415148c739247ce2aadcf239518b8c] The types of service in respect of which disclosure is required are—
 
 - (a) either—
   - (i) the auditing of accounts of associates of the managing agent responsible for managing the syndicate, in the case of the syndicate’s annual accounts; or
@@ -1282,63 +1282,63 @@ An Impact Assessment has been prepared in relation to these Regulations, as has 
 
 [^c19350801]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-b1effb887c757b71228cbc9a9af1d411]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2008/1950): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-b1effb887c757b71228cbc9a9af1d411]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2008/1950): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^c19350811]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
 [^c19350821]: Marginal citation: [S.I. 2008/410](https://www.legislation.gov.uk/uksi/2008/410).
 
-[^key-f9c9b9c348aaa963b658f4fdd2360bd3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 144](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/144) (with [Sch. 2 para. 145](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/145))
+[^c-f9c9b9c348aaa963b658f4fdd2360bd3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/2/1) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 144](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/144) (with [Sch. 2 para. 145](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/145))
 
 [^c19350831]: Marginal citation: [1871 c. xxi](https://www.legislation.gov.uk/ukla/1871/21); [1911 c. lxii](https://www.legislation.gov.uk/ukla/1911/62); [1951 c. viii](https://www.legislation.gov.uk/ukla/1951/8); [1982 c. xiv](https://www.legislation.gov.uk/ukla/1982/14).
 
 [^c19350841]: Marginal citation: Section 1210 was amended by regulation 15(1) of [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565), and by regulation 14 of [S.I. 2008/567](https://www.legislation.gov.uk/uksi/2008/567).
 
-[^key-bd6a69e645922fae652e97908f16f988]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2008/1950/regulation/10) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/2)
+[^c-bd6a69e645922fae652e97908f16f988]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/2008/1950/regulation/10) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/2)
 
-[^key-d4b441eca74b9348d23bf0dc907d17a7]: Textual amendment: Words in reg. 11(2) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/3/a)
+[^c-d4b441eca74b9348d23bf0dc907d17a7]: Textual amendment: Words in reg. 11(2) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(3)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/3/a)
 
-[^key-561b1971c87be6ad9f6f735f54c90338]: Textual amendment: Reg. 11(5) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/3/b)
+[^c-561b1971c87be6ad9f6f735f54c90338]: Textual amendment: Reg. 11(5) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/3/b)
 
-[^key-81a3aff0a01e6df53906563edd50ffff]: Textual amendment: Words in reg. 12(1) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(4)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/4/a)
+[^c-81a3aff0a01e6df53906563edd50ffff]: Textual amendment: Words in reg. 12(1) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(4)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/4/a)
 
-[^key-c49b4122f1117de735f15f69b0dacd93]: Textual amendment: Reg. 12(4) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(4)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/4/b)
+[^c-c49b4122f1117de735f15f69b0dacd93]: Textual amendment: Reg. 12(4) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(4)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/4/b)
 
-[^key-acb4fc9920f812679c34211194beffa3]: Textual amendment: Reg. 13(1A) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/5)
+[^c-acb4fc9920f812679c34211194beffa3]: Textual amendment: Reg. 13(1A) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(5)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/5)
 
-[^key-608c2091399890d29742f4448b12140a]: Textual amendment: Word in reg. 14(1) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(6)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/6)
+[^c-608c2091399890d29742f4448b12140a]: Textual amendment: Word in reg. 14(1) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(6)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/6)
 
-[^key-2ce856cba888989e940e36d09d01fcfc]: Textual amendment: Words in reg. 18(4) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(7)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/7/a)
+[^c-2ce856cba888989e940e36d09d01fcfc]: Textual amendment: Words in reg. 18(4) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(7)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/7/a)
 
-[^key-db4b963030dcc7992f24e6b743ce0447]: Textual amendment: Reg. 18(4A) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(7)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/7/b)
+[^c-db4b963030dcc7992f24e6b743ce0447]: Textual amendment: Reg. 18(4A) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(7)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/7/b)
 
-[^key-a8ac7b2bb06a41798133a32a4ee90f52]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2008/1950/regulation/22) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(8)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/8)
+[^c-a8ac7b2bb06a41798133a32a4ee90f52]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2008/1950/regulation/22) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(8)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/8)
 
-[^key-1b91cd7e61d5cab7763b88f6d09fa3ab]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/23/1) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(9)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/9/a)
+[^c-1b91cd7e61d5cab7763b88f6d09fa3ab]: Textual amendment: Words in [reg. 23(1)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/23/1) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(9)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/9/a)
 
-[^key-b7e056cf1e64c8c2fcdb91bc5204160c]: Textual amendment: [Reg. 23(4)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/23/4) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(9)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/9/b)
+[^c-b7e056cf1e64c8c2fcdb91bc5204160c]: Textual amendment: [Reg. 23(4)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/23/4) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(9)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/9/b)
 
-[^key-76b93e8db4f9366022d6d398a73a0130]: Textual amendment: [Reg. 24(1A)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/24/1A) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(10)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/10)
+[^c-76b93e8db4f9366022d6d398a73a0130]: Textual amendment: [Reg. 24(1A)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/24/1A) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(10)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/10)
 
-[^key-f760a8bd7cceaf62770a8a7801344754]: Textual amendment: Word in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/25/1) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(11)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/11)
+[^c-f760a8bd7cceaf62770a8a7801344754]: Textual amendment: Word in [reg. 25(1)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/25/1) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(11)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/11)
 
-[^key-72598af7ba426f24d671f5aa95ace95f]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/26/4) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(12)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/12)
+[^c-72598af7ba426f24d671f5aa95ace95f]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/26/4) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(12)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/12)
 
 [^c19350851]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
 [^c19350861]: Marginal citation: [S.I. 2004/3219](https://www.legislation.gov.uk/uksi/2004/3219).
 
-[^key-9d2bf101ee9041391e5d109b8fa9b841]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1950) revoked (14.12.2023 for the revocation of reg. 32) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/i)
+[^c-9d2bf101ee9041391e5d109b8fa9b841]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1950) revoked (14.12.2023 for the revocation of reg. 32) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 2(c)(i)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/2/c/i)
 
-[^key-33242a225427cc46fcce345732160895]: Textual amendment: Words in [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2008/1950/schedule/1/paragraph/1/4) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(14)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/14/a)
+[^c-33242a225427cc46fcce345732160895]: Textual amendment: Words in [Sch. 1 para. 1(4)](https://www.legislation.gov.uk/uksi/2008/1950/schedule/1/paragraph/1/4) substituted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(14)(a)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/14/a)
 
-[^key-167d4714de0569771c4e063e93792684]: Textual amendment: [Sch. 1 para. 1(4A)](https://www.legislation.gov.uk/uksi/2008/1950/schedule/1/paragraph/1/4A) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(14)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/14/b)
+[^c-167d4714de0569771c4e063e93792684]: Textual amendment: [Sch. 1 para. 1(4A)](https://www.legislation.gov.uk/uksi/2008/1950/schedule/1/paragraph/1/4A) inserted (with effect in accordance with reg. 1(7) of the amending S.I.) by [The Statutory Auditors and Third Country Auditors Regulations 2017 (S.I. 2017/516)](https://www.legislation.gov.uk/uksi/2017/516), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/516/regulation/1/2), [15(14)(b)](https://www.legislation.gov.uk/uksi/2017/516/regulation/15/14/b)
 
 [^c19350871]: Marginal citation: O.J.L222 of 14.8.1978, page 11, and O.J. L193 of 18.7.1983, page 1, as amended in particular by Directives 2001/65/EEC and 2003/51/EEC of the European Parliament and of the Council (O.J. L238 of 27.12.2001, page 28, and O.J. L178 of 17.7.2003, page 16).
 
-[^key-20750cff2c452b24327cd4482217e923]: Textual amendment: Words in Sch. 2 para. 2(6) substituted (with application in relation to financial years beginning on or after 6.4.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/108)](https://www.legislation.gov.uk/uksi/2020/108), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)[(3)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/3), [16(a)](https://www.legislation.gov.uk/uksi/2020/108/regulation/16/a)
+[^c-20750cff2c452b24327cd4482217e923]: Textual amendment: Words in Sch. 2 para. 2(6) substituted (with application in relation to financial years beginning on or after 6.4.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/108)](https://www.legislation.gov.uk/uksi/2020/108), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)[(3)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/3), [16(a)](https://www.legislation.gov.uk/uksi/2020/108/regulation/16/a)
 
-[^key-05415148c739247ce2aadcf239518b8c]: Textual amendment: Sch. 2 para. 3(1) substituted (with application in relation to financial years beginning on or after 6.4.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/108)](https://www.legislation.gov.uk/uksi/2020/108), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)[(3)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/3), [16(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/16/b)
+[^c-05415148c739247ce2aadcf239518b8c]: Textual amendment: Sch. 2 para. 3(1) substituted (with application in relation to financial years beginning on or after 6.4.2020) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/108)](https://www.legislation.gov.uk/uksi/2020/108), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/2/b)[(3)](https://www.legislation.gov.uk/uksi/2020/108/regulation/1/3), [16(b)](https://www.legislation.gov.uk/uksi/2020/108/regulation/16/b)
 
 [^c19350901]: Marginal citation: [1986 c.45](https://www.legislation.gov.uk/ukpga/1986/45); [section 388](https://www.legislation.gov.uk/uksi/2008/1950/section/388) has been amended by section 4(2)(a) to (c) of the [Insolvency Act 2000 (c.39)](https://www.legislation.gov.uk/ukpga/2000/39), by section 11(1) of the [Bankruptcy (Scotland) Act 1993 (c.6)](https://www.legislation.gov.uk/ukpga/1993/6) and by [S.I. 1994/2421](https://www.legislation.gov.uk/uksi/1994/2421), 2002/1240 and 2002/2708.
 

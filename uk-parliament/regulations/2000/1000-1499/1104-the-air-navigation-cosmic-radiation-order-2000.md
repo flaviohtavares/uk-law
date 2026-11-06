@@ -31,7 +31,7 @@ summary: ''
 
 CIVIL AVIATION
 
-The Air Navigation (Cosmic Radiation) Order 2000 (revoked)[^key-8b821afe0660d5c0aebec243aba25d2e]
+The Air Navigation (Cosmic Radiation) Order 2000 (revoked)[^c-8b821afe0660d5c0aebec243aba25d2e]
 
 Made
 
@@ -51,48 +51,48 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-8b821afe0660d5c0aebec243aba25d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b821afe0660d5c0aebec243aba25d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8b821afe0660d5c0aebec243aba25d2e]
+## 1. Citation and commencement[^c-8b821afe0660d5c0aebec243aba25d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Protection of air crew from cosmic radiation[^key-8b821afe0660d5c0aebec243aba25d2e]
+## 2. Protection of air crew from cosmic radiation[^c-8b821afe0660d5c0aebec243aba25d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-8b821afe0660d5c0aebec243aba25d2e]
+## 3.[^c-8b821afe0660d5c0aebec243aba25d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-8b821afe0660d5c0aebec243aba25d2e]
+## 4.[^c-8b821afe0660d5c0aebec243aba25d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Keeping and production of records of exposure to cosmic radiation[^key-8b821afe0660d5c0aebec243aba25d2e]
+## 5. Keeping and production of records of exposure to cosmic radiation[^c-8b821afe0660d5c0aebec243aba25d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemptions[^key-8b821afe0660d5c0aebec243aba25d2e]
+## 6. Exemptions[^c-8b821afe0660d5c0aebec243aba25d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Penalties[^key-8b821afe0660d5c0aebec243aba25d2e]
+## 7. Penalties[^c-8b821afe0660d5c0aebec243aba25d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Competent authority[^key-8b821afe0660d5c0aebec243aba25d2e]
+## 8. Competent authority[^c-8b821afe0660d5c0aebec243aba25d2e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8b821afe0660d5c0aebec243aba25d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b821afe0660d5c0aebec243aba25d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8b821afe0660d5c0aebec243aba25d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8b821afe0660d5c0aebec243aba25d2e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8b821afe0660d5c0aebec243aba25d2e]: Textual amendment: Order revoked (19.7.2000) by [The Air Navigation Order 2000 (S.I. 2000/1562)](https://www.legislation.gov.uk/uksi/2000/1562), [art. 1](https://www.legislation.gov.uk/uksi/2000/1562/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/1562/schedule/1)
+[^c-8b821afe0660d5c0aebec243aba25d2e]: Textual amendment: Order revoked (19.7.2000) by [The Air Navigation Order 2000 (S.I. 2000/1562)](https://www.legislation.gov.uk/uksi/2000/1562), [art. 1](https://www.legislation.gov.uk/uksi/2000/1562/article/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/1562/schedule/1)

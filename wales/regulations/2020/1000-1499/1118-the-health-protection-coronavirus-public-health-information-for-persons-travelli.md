@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) (Amendment) Regulations 2020 (revoked)[^key-c9ab4a335e50660b5a7626f1f56c793d]
+The Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) (Amendment) Regulations 2020 (revoked)[^c-c9ab4a335e50660b5a7626f1f56c793d]
 
 Made
 
@@ -45,23 +45,23 @@ Coming into force
 
 4 November 2020
 
-[^key-c9ab4a335e50660b5a7626f1f56c793d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9ab4a335e50660b5a7626f1f56c793d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and coming into force[^key-c9ab4a335e50660b5a7626f1f56c793d]
+## 1. Title and coming into force[^c-c9ab4a335e50660b5a7626f1f56c793d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) Regulations 2020[^key-c9ab4a335e50660b5a7626f1f56c793d]
+## 2. Amendment of the Health Protection (Coronavirus, Public Health Information for Persons Travelling to Wales etc.) Regulations 2020[^c-c9ab4a335e50660b5a7626f1f56c793d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c9ab4a335e50660b5a7626f1f56c793d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c9ab4a335e50660b5a7626f1f56c793d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-c9ab4a335e50660b5a7626f1f56c793d]EXPLANATORY NOTE
+[^c-c9ab4a335e50660b5a7626f1f56c793d]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -69,8 +69,8 @@ The Health Protection (Coronavirus, Public Health Information for Persons Travel
 
 These Regulations amend the Information Regulations to—
 
-- (a)[^key-c9ab4a335e50660b5a7626f1f56c793d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-c9ab4a335e50660b5a7626f1f56c793d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c9ab4a335e50660b5a7626f1f56c793d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c9ab4a335e50660b5a7626f1f56c793d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Regulation 2(3) amends the regulation 3 of the Information Regulations to specify the updated information to be provided before a booking is made and before check-in is completed.
 
@@ -82,4 +82,4 @@ The Welsh Ministers Code of Practice on the carrying out of Regulatory Impact As
 
 ## Annotations
 
-[^key-c9ab4a335e50660b5a7626f1f56c793d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/1118) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 16](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/16)
+[^c-c9ab4a335e50660b5a7626f1f56c793d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/1118) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 16](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/16)

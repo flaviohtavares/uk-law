@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Authorisation of use etc. after examination: adult[^key-acd463a7f50b518da956d9755d22e9e9]
+## 42. Authorisation of use etc. after examination: adult[^c-acd463a7f50b518da956d9755d22e9e9]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ for one or more of the purposes referred to in section 39(b).
 
 ## Annotations
 
-[^key-acd463a7f50b518da956d9755d22e9e9]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2006/4/section/42) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-acd463a7f50b518da956d9755d22e9e9]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2006/4/section/42) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

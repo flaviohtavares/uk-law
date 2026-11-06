@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 402D. “Post-employment notice pay”[^key-3ada096baf0ee1fd1de90ac63d178ab2]
+## 402D. “Post-employment notice pay”[^c-3ada096baf0ee1fd1de90ac63d178ab2]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,7 +37,7 @@ T is the total of the amounts of any payment or benefit received in connection w
 
 (2) If the amount given by the formula in subsection (1) is a negative amount, the post-employment notice pay is nil.
 
-(3) Subject to subsections (5) , (6) and (6A)[^key-75a9b04ce3dc4844fa0385e6a278d3fb]—
+(3) Subject to subsections (5) , (6) and (6A)[^c-75a9b04ce3dc4844fa0385e6a278d3fb]—
 
 - BP is the employee's basic pay (see subsection (7)) from the employment in respect of the last pay period of the employee to end before the trigger date,
 - P is the number of days in that pay period, and
@@ -51,13 +51,13 @@ T is the total of the amounts of any payment or benefit received in connection w
 - P is the number of days in that period, and
 - D is the number of days in the post-employment notice period.
 
-(6) If the last pay period of the employee to end before the trigger date is a month, the employee's basic pay is paid in equal monthly instalments,[^key-60ba89c771db130e36a73950eef3d72d] the minimum notice (see section 402E) is given by contractual terms and is expressed to be a whole number of months, and the post-employment notice period is equal in length to the minimum notice or is otherwise a whole number of months, then—
+(6) If the last pay period of the employee to end before the trigger date is a month, the employee's basic pay is paid in equal monthly instalments,[^c-60ba89c771db130e36a73950eef3d72d] the minimum notice (see section 402E) is given by contractual terms and is expressed to be a whole number of months, and the post-employment notice period is equal in length to the minimum notice or is otherwise a whole number of months, then—
 
 - BP is the employee's basic pay from the employment in respect of the last pay period of the employee to end before the trigger date,
 - P is 1, and
 - D is the length of the post-employment notice period expressed in months.
 
-(6A)[^key-3e2247aa2b7ff1e9f5fc31a0e4f4a49a] In any other case where the last pay period of the employee to end before the trigger date is a month and the employee's basic pay is paid in equal monthly instalments, then—
+(6A)[^c-3e2247aa2b7ff1e9f5fc31a0e4f4a49a] In any other case where the last pay period of the employee to end before the trigger date is a month and the employee's basic pay is paid in equal monthly instalments, then—
 
 - BP is the employee's basic pay from the employment in respect of the last pay period of the employee to end before the trigger date,
 - P is 30.42, and
@@ -86,10 +86,10 @@ T is the total of the amounts of any payment or benefit received in connection w
 
 ## Annotations
 
-[^key-3ada096baf0ee1fd1de90ac63d178ab2]: Textual amendment: Ss. 402A-402E inserted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/3)
+[^c-3ada096baf0ee1fd1de90ac63d178ab2]: Textual amendment: Ss. 402A-402E inserted (with effect in accordance with s. 5(10) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 5(3)](https://www.legislation.gov.uk/ukpga/2017/32/section/5/3)
 
-[^key-75a9b04ce3dc4844fa0385e6a278d3fb]: Textual amendment: Words in [s. 402D(3)](https://www.legislation.gov.uk/ukpga/2003/1/section/402D/3) substituted (with effect in accordance with s. 22(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 22(7)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/22/7/a)
+[^c-75a9b04ce3dc4844fa0385e6a278d3fb]: Textual amendment: Words in [s. 402D(3)](https://www.legislation.gov.uk/ukpga/2003/1/section/402D/3) substituted (with effect in accordance with s. 22(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 22(7)(a)](https://www.legislation.gov.uk/ukpga/2021/26/section/22/7/a)
 
-[^key-60ba89c771db130e36a73950eef3d72d]: Textual amendment: Words in [s. 402D(6)](https://www.legislation.gov.uk/ukpga/2003/1/section/402D/6) inserted (with effect in accordance with s. 22(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 22(7)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/22/7/b)
+[^c-60ba89c771db130e36a73950eef3d72d]: Textual amendment: Words in [s. 402D(6)](https://www.legislation.gov.uk/ukpga/2003/1/section/402D/6) inserted (with effect in accordance with s. 22(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 22(7)(b)](https://www.legislation.gov.uk/ukpga/2021/26/section/22/7/b)
 
-[^key-3e2247aa2b7ff1e9f5fc31a0e4f4a49a]: Textual amendment: [S. 402D(6A)](https://www.legislation.gov.uk/ukpga/2003/1/section/402D/6A) inserted (with effect in accordance with s. 22(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 22(7)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/22/7/c)
+[^c-3e2247aa2b7ff1e9f5fc31a0e4f4a49a]: Textual amendment: [S. 402D(6A)](https://www.legislation.gov.uk/ukpga/2003/1/section/402D/6A) inserted (with effect in accordance with s. 22(8) of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [s. 22(7)(c)](https://www.legislation.gov.uk/ukpga/2021/26/section/22/7/c)

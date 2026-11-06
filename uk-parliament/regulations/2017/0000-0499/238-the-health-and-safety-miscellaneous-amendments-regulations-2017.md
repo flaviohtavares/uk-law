@@ -32,7 +32,7 @@ summary: ''
 
 Health And Safety
 
-The Health and Safety (Miscellaneous Amendments) Regulations 2017 (revoked)[^key-8aa0d65481b0262ba89c74aec95376cd]
+The Health and Safety (Miscellaneous Amendments) Regulations 2017 (revoked)[^c-8aa0d65481b0262ba89c74aec95376cd]
 
 Made
 
@@ -46,54 +46,54 @@ Coming into force
 
 6th April 2017
 
-[^key-8aa0d65481b0262ba89c74aec95376cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8aa0d65481b0262ba89c74aec95376cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **No longer in force.**
 
-## PART 1 — General[^key-8aa0d65481b0262ba89c74aec95376cd]
+## PART 1 — General[^c-8aa0d65481b0262ba89c74aec95376cd]
 
-### 2. Citation, extent, application outside Great Britain and commencement[^key-8aa0d65481b0262ba89c74aec95376cd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Miscellaneous Amendment to Primary Legislation[^key-8aa0d65481b0262ba89c74aec95376cd]
-
-### 3. The Natural Environment and Rural Communities Act 2006[^key-8aa0d65481b0262ba89c74aec95376cd]
+### 2. Citation, extent, application outside Great Britain and commencement[^c-8aa0d65481b0262ba89c74aec95376cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Miscellaneous Amendments to Secondary Legislation[^key-8aa0d65481b0262ba89c74aec95376cd]
+## PART 2 — Miscellaneous Amendment to Primary Legislation[^c-8aa0d65481b0262ba89c74aec95376cd]
 
-### 4. The Offshore Installations (Safety Zones) Regulations 1987[^key-8aa0d65481b0262ba89c74aec95376cd]
+### 3. The Natural Environment and Rural Communities Act 2006[^c-8aa0d65481b0262ba89c74aec95376cd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART 3 — Miscellaneous Amendments to Secondary Legislation[^c-8aa0d65481b0262ba89c74aec95376cd]
+
+### 4. The Offshore Installations (Safety Zones) Regulations 1987[^c-8aa0d65481b0262ba89c74aec95376cd]
 
 *Extent: N.I.*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013[^key-8aa0d65481b0262ba89c74aec95376cd]
+### 5. The Reporting of Injuries, Diseases and Dangerous Occurrences Regulations 2013[^c-8aa0d65481b0262ba89c74aec95376cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. The Control of Major Accident Hazards Regulations 2015[^key-8aa0d65481b0262ba89c74aec95376cd]
+### 6. The Control of Major Accident Hazards Regulations 2015[^c-8aa0d65481b0262ba89c74aec95376cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015[^key-8aa0d65481b0262ba89c74aec95376cd]
+### 7. The Offshore Installations (Offshore Safety Directive) (Safety Case etc.) Regulations 2015[^c-8aa0d65481b0262ba89c74aec95376cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. The Dangerous Goods in Harbour Areas Regulations 2016[^key-8aa0d65481b0262ba89c74aec95376cd]
+### 8. The Dangerous Goods in Harbour Areas Regulations 2016[^c-8aa0d65481b0262ba89c74aec95376cd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8aa0d65481b0262ba89c74aec95376cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8aa0d65481b0262ba89c74aec95376cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8aa0d65481b0262ba89c74aec95376cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8aa0d65481b0262ba89c74aec95376cd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8aa0d65481b0262ba89c74aec95376cd]: Textual amendment: Regulations revoked (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [reg. 8](https://www.legislation.gov.uk/uksi/2017/304/regulation/8)
+[^c-8aa0d65481b0262ba89c74aec95376cd]: Textual amendment: Regulations revoked (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [reg. 8](https://www.legislation.gov.uk/uksi/2017/304/regulation/8)

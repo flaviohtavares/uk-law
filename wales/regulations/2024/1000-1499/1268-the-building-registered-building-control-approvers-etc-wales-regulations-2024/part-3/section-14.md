@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Events causing initial notice to cease to be in force[^key-7b58a990dcaa4c9c4446b66b535afd47]
+## 14. Events causing initial notice to cease to be in force[^c-7b58a990dcaa4c9c4446b66b535afd47]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b58a990dcaa4c9c4446b66b535afd47]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2024/1268/regulation/14) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-7b58a990dcaa4c9c4446b66b535afd47]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2024/1268/regulation/14) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

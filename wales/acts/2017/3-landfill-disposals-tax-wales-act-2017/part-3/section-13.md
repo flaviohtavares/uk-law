@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Persons chargeable to tax[^key-e8b181c23318c5c83e9564d196ad3c36]
+## 13. Persons chargeable to tax[^c-e8b181c23318c5c83e9564d196ad3c36]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Tax chargeable on a taxable disposal of material made at an authorised landfill 
 
 ## Annotations
 
-[^key-e8b181c23318c5c83e9564d196ad3c36]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2017/3/section/13) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-e8b181c23318c5c83e9564d196ad3c36]: Commencement: [S. 13](https://www.legislation.gov.uk/anaw/2017/3/section/13) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Form of notice under section 51C of the 1984 Act[^key-833c85f3a36c866a7d4a74c01a0b6fbb]
+## 13. Form of notice under section 51C of the 1984 Act[^c-833c85f3a36c866a7d4a74c01a0b6fbb]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ When giving a notice under section 51C(2) of the 1984 Act (change of person inte
 
 ## Annotations
 
-[^key-833c85f3a36c866a7d4a74c01a0b6fbb]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2024/1268/regulation/13) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)
+[^c-833c85f3a36c866a7d4a74c01a0b6fbb]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2024/1268/regulation/13) in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2)

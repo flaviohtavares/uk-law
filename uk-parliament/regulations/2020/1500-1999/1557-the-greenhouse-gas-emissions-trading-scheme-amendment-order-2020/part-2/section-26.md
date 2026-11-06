@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Article 65 amended (failure to comply with enforcement notice)[^key-87cbc64fa4c3c446d295a01a0ab53c67][^key-555425721109207a5bf59b3b64a3d01d]
+## 26. Article 65 amended (failure to comply with enforcement notice)[^c-87cbc64fa4c3c446d295a01a0ab53c67][^c-555425721109207a5bf59b3b64a3d01d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-87cbc64fa4c3c446d295a01a0ab53c67]: Textual amendment: [Art. 26](https://www.legislation.gov.uk/uksi/2020/1557/article/26) omitted (14.4.2022) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2022 (S.I. 2022/454)](https://www.legislation.gov.uk/uksi/2022/454), [arts. 2](https://www.legislation.gov.uk/uksi/2022/454/article/2), [14(2)](https://www.legislation.gov.uk/uksi/2022/454/article/14/2)
+[^c-87cbc64fa4c3c446d295a01a0ab53c67]: Textual amendment: [Art. 26](https://www.legislation.gov.uk/uksi/2020/1557/article/26) omitted (14.4.2022) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) Order 2022 (S.I. 2022/454)](https://www.legislation.gov.uk/uksi/2022/454), [arts. 2](https://www.legislation.gov.uk/uksi/2022/454/article/2), [14(2)](https://www.legislation.gov.uk/uksi/2022/454/article/14/2)
 
-[^key-555425721109207a5bf59b3b64a3d01d]: Commencement: Art. 26 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)
+[^c-555425721109207a5bf59b3b64a3d01d]: Commencement: Art. 26 in force at 31.12.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1557/article/2/1)

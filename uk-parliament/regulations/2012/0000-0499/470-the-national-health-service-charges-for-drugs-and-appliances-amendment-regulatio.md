@@ -32,7 +32,7 @@ summary: ''
 
 National Health Service, England
 
-The National Health Service (Charges for Drugs and Appliances) Amendment Regulations 2012 (revoked)[^key-5a6a8b7760487ddcd46dae0d7f632e4b]
+The National Health Service (Charges for Drugs and Appliances) Amendment Regulations 2012 (revoked)[^c-5a6a8b7760487ddcd46dae0d7f632e4b]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2012
 
-[^key-5a6a8b7760487ddcd46dae0d7f632e4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a6a8b7760487ddcd46dae0d7f632e4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-5a6a8b7760487ddcd46dae0d7f632e4b]
+## 1. Citation, commencement and interpretation[^c-5a6a8b7760487ddcd46dae0d7f632e4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Charges Regulations to increase charges[^key-5a6a8b7760487ddcd46dae0d7f632e4b]
+## 2. Amendment of the Charges Regulations to increase charges[^c-5a6a8b7760487ddcd46dae0d7f632e4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision relating to the Charges Regulations[^key-5a6a8b7760487ddcd46dae0d7f632e4b]
+## 3. Transitional provision relating to the Charges Regulations[^c-5a6a8b7760487ddcd46dae0d7f632e4b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5a6a8b7760487ddcd46dae0d7f632e4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a6a8b7760487ddcd46dae0d7f632e4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-5a6a8b7760487ddcd46dae0d7f632e4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5a6a8b7760487ddcd46dae0d7f632e4b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5a6a8b7760487ddcd46dae0d7f632e4b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/470) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
+[^c-5a6a8b7760487ddcd46dae0d7f632e4b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2012/470) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)

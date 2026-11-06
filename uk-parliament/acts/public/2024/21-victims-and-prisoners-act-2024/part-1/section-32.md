@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Data protection[^key-894dff60b0dc6d2c1a30996b4be91772]
+## 32. Data protection[^c-894dff60b0dc6d2c1a30996b4be91772]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-894dff60b0dc6d2c1a30996b4be91772]: Commencement: S. 32 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-894dff60b0dc6d2c1a30996b4be91772]: Commencement: S. 32 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)

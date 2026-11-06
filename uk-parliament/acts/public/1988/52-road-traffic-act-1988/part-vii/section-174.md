@@ -55,8 +55,8 @@ is guilty of an offence.
 
 (5) A person who makes a false statement or withholds any material information for the purpose of obtaining the issue—
 
-- (a) of a certificate of insurance [^key-b35b9b1d83d111371076ae3ec65a081a]... under Part VI of this Act, or
-- (b) of any document issued under regulations made by the Secretary of State in pursuance of his power under section 165(2)(a) of this Act to prescribe evidence which may be produced in lieu of a certificate of insurance [^key-ba54b80f0b3c4fdfcacc3c133872853e]... ,
+- (a) of a certificate of insurance [^c-b35b9b1d83d111371076ae3ec65a081a]... under Part VI of this Act, or
+- (b) of any document issued under regulations made by the Secretary of State in pursuance of his power under section 165(2)(a) of this Act to prescribe evidence which may be produced in lieu of a certificate of insurance [^c-ba54b80f0b3c4fdfcacc3c133872853e]... ,
 
 is guilty of an offence.
 
@@ -66,6 +66,6 @@ is guilty of an offence.
 
 [^c13998291]: Textual amendment: S. 174(1)(dd) inserted (9.9.1996) by [1993 c. 31](https://www.legislation.gov.uk/ukpga/1993/31), [s. 6](https://www.legislation.gov.uk/ukpga/1993/31/section/6), [Sch. para. 10](https://www.legislation.gov.uk/ukpga/1993/31/schedule/paragraph/10); [S.I. 1996/1980](https://www.legislation.gov.uk/uksi/1996/1980), [art. 2](https://www.legislation.gov.uk/uksi/1996/1980/article/2)
 
-[^key-b35b9b1d83d111371076ae3ec65a081a]: Textual amendment: Words in [s. 174(5)(a)](https://www.legislation.gov.uk/ukpga/1988/52/section/174/5/a) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 27(2)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/27/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-b35b9b1d83d111371076ae3ec65a081a]: Textual amendment: Words in [s. 174(5)(a)](https://www.legislation.gov.uk/ukpga/1988/52/section/174/5/a) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 27(2)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/27/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
 
-[^key-ba54b80f0b3c4fdfcacc3c133872853e]: Textual amendment: Words in [s. 174(5)(b)](https://www.legislation.gov.uk/ukpga/1988/52/section/174/5/b) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 27(3)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/27/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))
+[^c-ba54b80f0b3c4fdfcacc3c133872853e]: Textual amendment: Words in [s. 174(5)(b)](https://www.legislation.gov.uk/ukpga/1988/52/section/174/5/b) omitted (1.11.2019) by virtue of [The Motor Vehicles (Compulsory Insurance) (Miscellaneous Amendments) Regulations 2019 (S.I. 2019/1047)](https://www.legislation.gov.uk/uksi/2019/1047), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1047/regulation/1), [Sch. 1 para. 27(3)](https://www.legislation.gov.uk/uksi/2019/1047/schedule/1/paragraph/27/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/1047/regulation/5))

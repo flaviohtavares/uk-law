@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Trees subject to tree preservation orders[^key-7ca671f7ff781031eb5498ca40be1ec1]
+## 41. Trees subject to tree preservation orders[^c-7ca671f7ff781031eb5498ca40be1ec1]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ca671f7ff781031eb5498ca40be1ec1]: Commencement: Art. 41 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)
+[^c-7ca671f7ff781031eb5498ca40be1ec1]: Commencement: Art. 41 in force at 24.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/817/article/1)

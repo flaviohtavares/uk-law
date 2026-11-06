@@ -25,11 +25,11 @@ summary: ''
 - (a) for inclusion in a pharmaceutical list as an NHS pharmacist; or
 - (b) from an NHS pharmacist included in such a list—
   - (i) to relocate to different pharmacy premises in the area of the relevant HWB, or
-  - (ii) to open, within the area of the relevant HWB, additional pharmacy premises at or[^key-0f3a89b059aa4a09ad03e2edb2384a93] from which to provide pharmaceutical services,
+  - (ii) to open, within the area of the relevant HWB, additional pharmacy premises at or[^c-0f3a89b059aa4a09ad03e2edb2384a93] from which to provide pharmaceutical services,
 
 where the applicant is seeking the listing of pharmacy premises which are in a controlled locality.
 
-(2) If NHS England[^key-fedf3951d93bcf656ad03378f887d7d5] receives an application (A1) to which paragraph (1) applies, it must refuse A1 (without needing to make any notification of that application under Part 3 of Schedule 2), where the applicant is seeking the listing of premises at a location which is—
+(2) If NHS England[^c-fedf3951d93bcf656ad03378f887d7d5] receives an application (A1) to which paragraph (1) applies, it must refuse A1 (without needing to make any notification of that application under Part 3 of Schedule 2), where the applicant is seeking the listing of premises at a location which is—
 
 - (a) in an area in relation to which outline consent has been granted under these Regulations, the 2012 Regulations or under the 2005 Regulations within the 5 year period—
   - (i) starting on the date on which the proceedings relating to the grant of outline consent reached their final outcome, and
@@ -44,14 +44,14 @@ unless NHS England is satisfied that since the date on which the 5 year period s
 
 (3) For the purposes of paragraphs (1) and (2), if no particular premises are proposed for listing in A1, the applicant is to be treated as seeking the listing of pharmacy premises at the location which is the best estimate that NHS England is able to make of where the proposed listed pharmacy premises would be, having regard to the best estimate given by the applicant under paragraph 1(7)(a)(ii) of Schedule 2.
 
-(4)[^key-c5fc7b0e37880d3e9b1508683b379dd7] Paragraph (2)(b) does not apply where NHS England is satisfied that there are reasonable grounds for believing the person making the refused application was motivated (wholly or partly) by a desire for that application to be refused.
+(4)[^c-c5fc7b0e37880d3e9b1508683b379dd7] Paragraph (2)(b) does not apply where NHS England is satisfied that there are reasonable grounds for believing the person making the refused application was motivated (wholly or partly) by a desire for that application to be refused.
 
 (5) The refusal of an application pursuant to paragraph (2)(b), or regulation 40(2)(b) of the 2012 Regulations (applications for new pharmacy premises in controlled localities: refusals because of preliminary matters), is to be ignored for the purposes of the calculation of a 5 year period pursuant to paragraph (2)(b).
 
 ## Annotations
 
-[^key-0f3a89b059aa4a09ad03e2edb2384a93]: Textual amendment: Words in [reg. 40(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/349/regulation/40/1/b/ii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2025/989/regulation/24)
+[^c-0f3a89b059aa4a09ad03e2edb2384a93]: Textual amendment: Words in [reg. 40(1)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/349/regulation/40/1/b/ii) inserted (1.10.2025) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Miscellaneous Amendments) Regulations 2025 (S.I. 2025/989)](https://www.legislation.gov.uk/uksi/2025/989), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/989/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2025/989/regulation/24)
 
-[^key-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-fedf3951d93bcf656ad03378f887d7d5]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-c5fc7b0e37880d3e9b1508683b379dd7]: Textual amendment: [Reg. 40(4)](https://www.legislation.gov.uk/uksi/2013/349/regulation/40/4)[(5)](https://www.legislation.gov.uk/uksi/2013/349/regulation/40/5) inserted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [14](https://www.legislation.gov.uk/uksi/2014/417/regulation/14)
+[^c-c5fc7b0e37880d3e9b1508683b379dd7]: Textual amendment: [Reg. 40(4)](https://www.legislation.gov.uk/uksi/2013/349/regulation/40/4)[(5)](https://www.legislation.gov.uk/uksi/2013/349/regulation/40/5) inserted (1.4.2014) by [The National Health Service (Pharmaceutical and Local Pharmaceutical Services) (Amendment and Transitional Provision) Regulations 2014 (S.I. 2014/417)](https://www.legislation.gov.uk/uksi/2014/417), [regs. 1](https://www.legislation.gov.uk/uksi/2014/417/regulation/1), [14](https://www.legislation.gov.uk/uksi/2014/417/regulation/14)

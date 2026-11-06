@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 68. Challenge to notice[^key-4874496fd895f7e8428484070ac93b5e]
+## 68. Challenge to notice[^c-4874496fd895f7e8428484070ac93b5e]
 
 *Extent: N.I.*
 
@@ -45,7 +45,7 @@ summary: ''
 
 (8) The court may accept service of such a declaration by that person after that period has expired; and a statutory declaration so accepted shall be taken to have been served as required by subsection (1).
 
-(9) In this section references to proceedings for enforcing payment of the sum registered are references to any process issued or other proceedings taken for or in connection with enforcing payment of that sum (including the making of a collection order)[^key-e9d3c3c0ba11d42bd0ca74921d2c8a1f] .
+(9) In this section references to proceedings for enforcing payment of the sum registered are references to any process issued or other proceedings taken for or in connection with enforcing payment of that sum (including the making of a collection order)[^c-e9d3c3c0ba11d42bd0ca74921d2c8a1f] .
 
 (10) For the purposes of this section, a person shall be taken to receive notice of the registration of a sum under section 67 for enforcement against that person as a fine when that person receives notice either of the registration as such or of any proceedings for enforcing payment of the sum registered.
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4874496fd895f7e8428484070ac93b5e]: Commencement: S. 68 in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
+[^c-4874496fd895f7e8428484070ac93b5e]: Commencement: S. 68 in operation at 6.6.2012 by [S.R. 2012/214](https://www.legislation.gov.uk/nisr/2012/214), [art. 2(m)](https://www.legislation.gov.uk/nisr/2012/214/article/2/m)
 
-[^key-e9d3c3c0ba11d42bd0ca74921d2c8a1f]: Textual amendment: Words in [s. 68(9)](https://www.legislation.gov.uk/nia/2011/24/section/68/9) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/7/3); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)
+[^c-e9d3c3c0ba11d42bd0ca74921d2c8a1f]: Textual amendment: Words in [s. 68(9)](https://www.legislation.gov.uk/nia/2011/24/section/68/9) inserted (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [s. 61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/nia/2016/21/schedule/2/paragraph/7/3); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(c)](https://www.legislation.gov.uk/nisr/2018/99/article/2/c)

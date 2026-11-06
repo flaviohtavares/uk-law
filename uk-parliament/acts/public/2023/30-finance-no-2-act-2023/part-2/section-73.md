@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Research and experiments[^M_I_7d259557-ad82-4102-c24d-569afe564247][^key-eefa310ee3409c9c47f1e5ce57778ff5]
+## 73. Research and experiments[^M_I_7d259557-ad82-4102-c24d-569afe564247][^c-eefa310ee3409c9c47f1e5ce57778ff5]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^M_I_7d259557-ad82-4102-c24d-569afe564247]: Commencement: S. 73 not in force at Royal Assent, see [s. 120(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/120/2)
 
-[^key-eefa310ee3409c9c47f1e5ce57778ff5]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/30/section/73) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-eefa310ee3409c9c47f1e5ce57778ff5]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2023/30/section/73) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

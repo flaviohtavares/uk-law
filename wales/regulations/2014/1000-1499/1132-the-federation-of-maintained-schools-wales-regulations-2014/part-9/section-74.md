@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Publication of minutes and papers[^key-84cb9be16b47828fbfbb5c6d8aa4b644]
+## 74. Publication of minutes and papers[^c-84cb9be16b47828fbfbb5c6d8aa4b644]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84cb9be16b47828fbfbb5c6d8aa4b644]: Commencement: Reg. 74 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-84cb9be16b47828fbfbb5c6d8aa4b644]: Commencement: Reg. 74 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

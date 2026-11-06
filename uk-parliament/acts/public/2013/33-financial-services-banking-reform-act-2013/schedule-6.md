@@ -22,29 +22,29 @@ summary: ''
 
 Section 121
 
-**1.**[^key-a76080f92dfe225951ca4aae17fdb6f0] The following provisions of this Schedule provide for—
+**1.**[^c-a76080f92dfe225951ca4aae17fdb6f0] The following provisions of this Schedule provide for—
 
 - (a) the general powers and duties of FMI administrators (by application of provisions about administrators), and
 - (b) the general process and effects of FMI administration (by application of provisions about administration).
 
-**2.**[^key-3f6632475b1a5a656e1c12e76ffc0f0d] The provisions set out in the Tables apply in relation to FMI administration as in relation to administration, with—
+**2.**[^c-3f6632475b1a5a656e1c12e76ffc0f0d] The provisions set out in the Tables apply in relation to FMI administration as in relation to administration, with—
 
 - (a) the modifications set out in paragraph 3,
 - (b) any other modification specified in the Tables, and
 - (c) any other necessary modification.
 
-**3.**[^key-3fc0e41a6651d2d60fc43181c89b6985] The modifications are that—
+**3.**[^c-3fc0e41a6651d2d60fc43181c89b6985] The modifications are that—
 
 - (a) a reference to the administrator is a reference to the FMI administrator,
 - (b) a reference to administration is a reference to FMI administration,
 - (c) a reference to an administration application is a reference to an FMI administration application,
 - (d) a reference to an administration order is a reference to an FMI administration order,
-- (e) except where otherwise specified in Table 2,[^key-ffc6d0a190ae4d2742d66fe1103054dd] a reference to a company is a reference to the infrastructure company, and
+- (e) except where otherwise specified in Table 2,[^c-ffc6d0a190ae4d2742d66fe1103054dd] a reference to a company is a reference to the infrastructure company, and
 - (f) a reference to the purpose of administration (other than the reference in paragraph 111(1) of Schedule B1) is a reference to the objective in section 115.
 
-**4.**[^key-bc33a4ddf03bb91e300fce401f48eaf2] Powers conferred by this Part of this Act and by the 1986 Act (as applied) are in addition to, and not in restriction of, any existing powers of instituting proceedings against any contributory or debtor of an infrastructure company, or the estate of any contributory or debtor, for the recovery of any call or other sum.
+**4.**[^c-bc33a4ddf03bb91e300fce401f48eaf2] Powers conferred by this Part of this Act and by the 1986 Act (as applied) are in addition to, and not in restriction of, any existing powers of instituting proceedings against any contributory or debtor of an infrastructure company, or the estate of any contributory or debtor, for the recovery of any call or other sum.
 
-**5.**[^key-ca125f4be2c0cc78966baa3f80f3ba80] A reference in an enactment or other document to anything done under a provision applied by this Part of this Act includes a reference to the provision as applied.
+**5.**[^c-ca125f4be2c0cc78966baa3f80f3ba80] A reference in an enactment or other document to anything done under a provision applied by this Part of this Act includes a reference to the provision as applied.
 
 TABLE 1 OF APPLIED PROVISIONS
 
@@ -85,7 +85,7 @@ SCHEDULE B1 TO THE INSOLVENCY ACT 1986
 | Para. 88 | Removal | An application for an order removing an FMI administrator from office may be made only by or with the consent of the Bank of England. |
 | Para. 89 | Disqualification | The notice under sub-para. (2) must be given to the Bank of England. |
 | Paras. 90 and 91 | Replacement | - (a) Para. 91(1) applies as if the only person who could make an application were the Bank of England.<br>- (b) Ignore para. 91(2). |
-| Para. 98 | Discharge | Ignore sub-paras. (2)(b) and (ba)[^key-a7ccb19c2a9d11f788418d1ed0d899ae] , (3) and (3A)[^key-633b3dab4193d5558ce99de090cfa1eb] . |
+| Para. 98 | Discharge | Ignore sub-paras. (2)(b) and (ba)[^c-a7ccb19c2a9d11f788418d1ed0d899ae] , (3) and (3A)[^c-633b3dab4193d5558ce99de090cfa1eb] . |
 | Para. 99 | Vacation of office: charges and liabilities | In the application of sub-para. (3), payments may be made only—<br>- (a) in accordance with directions of the Bank of England, and<br>- (b) if the Bank is satisfied that they will not prejudice the objective in section 115 of this Act. |
 | Paras. 100 to 103 | Joint administrators | An application under para. 103 may be made only by the Bank of England. |
 | Para. 104 | Validity |  |
@@ -101,7 +101,7 @@ OTHER PROVISIONS OF THE INSOLVENCY ACT 1986
 
 | *Section* | *Subject* | *Modification or comment* |
 | --- | --- | --- |
-| Section 176ZB[^key-03e3ef328582400e96dc33607d92803f] | Application of proceeds of office-holder claims |  |
+| Section 176ZB[^c-03e3ef328582400e96dc33607d92803f] | Application of proceeds of office-holder claims |  |
 | Section 233 | Utilities |  |
 | Section 234 | Getting in company's property |  |
 | Section 235 | Duty to co-operate with office-holder |  |
@@ -116,18 +116,18 @@ OTHER PROVISIONS OF THE INSOLVENCY ACT 1986
 | Section 244 | Extortionate credit transactions |  |
 | Section 245 | Avoidance of floating charges |  |
 | Section 246 | Unenforceability of liens |  |
-| Sections 246ZA to 246ZC[^key-775654e74a1f2110fd2b2dcc6cf7fb14] | Administration: penalisation of directors etc |  |
+| Sections 246ZA to 246ZC[^c-775654e74a1f2110fd2b2dcc6cf7fb14] | Administration: penalisation of directors etc |  |
 | Section 246ZD | Power to assign certain causes of action |  |
-| Sections 246ZE and 246ZF[^key-1b0cb49a76bce50096823bfb7902fc3c] | Decisions by creditors (company insolvency) |  |
+| Sections 246ZE and 246ZF[^c-1b0cb49a76bce50096823bfb7902fc3c] | Decisions by creditors (company insolvency) |  |
 | Section 246C | Creditors’ ability to opt out of receiving certain notices |  |
 | Section 248A | Meaning of “opted-out creditor” |  |
 | Sections 386 and 387, and Schedule 6 (and Schedule 4 to the Pension Schemes Act 1993) | Preferential debts |  |
 | Section 389 | Offence of acting without being qualified | Treat references to acting as an insolvency practitioner as references to acting as an FMI administrator. |
-| Sections 390 to 391T[^key-6c46fb10aa0fbef1bc74cb7691e7e3ea] | Authorisation and regulation of insolvency practitioners | (a) In section 390 treat references to acting as an insolvency practitioner as references to acting as an FMI administrator.<br>(b) For subsection (2) of that section there is to be taken to be substituted—<br>“(2) A person is not qualified to act as an FMI administrator at any time unless at that time the person is fully authorised to act as an insolvency practitioner or partially authorised to act as an insolvency practitioner only in relation to companies.”.<br>(c) An order under section 391 has effect in relation to any provision applied for the purposes of FMI administration.<br>(d) In sections 390A, 390B(1) and (3), 391O(1)(b) and 391R(3)(b), in a reference to authorisation or permission to act as an insolvency practitioner in relation to (or only in relation to) companies the reference to companies has effect without the modification in paragraph 3(e) of this Schedule.<br>(e) In sections 391Q(2)(b) and 391S(3)(e) the reference to a company has effect without the modification in paragraph 3(e) of this Schedule. |
+| Sections 390 to 391T[^c-6c46fb10aa0fbef1bc74cb7691e7e3ea] | Authorisation and regulation of insolvency practitioners | (a) In section 390 treat references to acting as an insolvency practitioner as references to acting as an FMI administrator.<br>(b) For subsection (2) of that section there is to be taken to be substituted—<br>“(2) A person is not qualified to act as an FMI administrator at any time unless at that time the person is fully authorised to act as an insolvency practitioner or partially authorised to act as an insolvency practitioner only in relation to companies.”.<br>(c) An order under section 391 has effect in relation to any provision applied for the purposes of FMI administration.<br>(d) In sections 390A, 390B(1) and (3), 391O(1)(b) and 391R(3)(b), in a reference to authorisation or permission to act as an insolvency practitioner in relation to (or only in relation to) companies the reference to companies has effect without the modification in paragraph 3(e) of this Schedule.<br>(e) In sections 391Q(2)(b) and 391S(3)(e) the reference to a company has effect without the modification in paragraph 3(e) of this Schedule. |
 | Sections 423 to 425 | Transactions defrauding creditors | In considering granting leave under section 424(1) or making an order in reliance on section 425, the court must have regard to the objective in section 115 of this Act. |
 | Sections 430 to 432 and Schedule 10 | Offences |  |
 
-**6.**[^key-6c1ea9326a469306b20eb3735169749d][^key-7d281f5a3fedce5af3a25f0557aa09e8] (1) The Treasury may by order amend this Schedule so as to make further modifications.
+**6.**[^c-6c1ea9326a469306b20eb3735169749d][^c-7d281f5a3fedce5af3a25f0557aa09e8] (1) The Treasury may by order amend this Schedule so as to make further modifications.
 
 (2) The further modifications that may be made are confined to such modifications of—
 
@@ -140,30 +140,30 @@ as the Treasury consider appropriate in relation to any provision made by or und
 
 ## Annotations
 
-[^key-a76080f92dfe225951ca4aae17fdb6f0]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/1) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
+[^c-a76080f92dfe225951ca4aae17fdb6f0]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/1) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
 
-[^key-3f6632475b1a5a656e1c12e76ffc0f0d]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/2) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
+[^c-3f6632475b1a5a656e1c12e76ffc0f0d]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/2) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
 
-[^key-3fc0e41a6651d2d60fc43181c89b6985]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/3) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
+[^c-3fc0e41a6651d2d60fc43181c89b6985]: Commencement: [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/3) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
 
-[^key-ffc6d0a190ae4d2742d66fe1103054dd]: Textual amendment: Words in Sch. 6 para. 3(e) inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2017/400/regulation/6/a)
+[^c-ffc6d0a190ae4d2742d66fe1103054dd]: Textual amendment: Words in Sch. 6 para. 3(e) inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [6(a)](https://www.legislation.gov.uk/uksi/2017/400/regulation/6/a)
 
-[^key-bc33a4ddf03bb91e300fce401f48eaf2]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/4) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
+[^c-bc33a4ddf03bb91e300fce401f48eaf2]: Commencement: [Sch. 6 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/4) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
 
-[^key-ca125f4be2c0cc78966baa3f80f3ba80]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/5) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
+[^c-ca125f4be2c0cc78966baa3f80f3ba80]: Commencement: [Sch. 6 para. 5](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/5) in force at 13.7.2018 for E.W. by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
 
-[^key-a7ccb19c2a9d11f788418d1ed0d899ae]: Textual amendment: Words in Sch. 6 para. 5 inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2017/400/regulation/6/b)
+[^c-a7ccb19c2a9d11f788418d1ed0d899ae]: Textual amendment: Words in Sch. 6 para. 5 inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [6(b)](https://www.legislation.gov.uk/uksi/2017/400/regulation/6/b)
 
-[^key-633b3dab4193d5558ce99de090cfa1eb]: Textual amendment: Words in Sch. 6 para. 5 Table 1 substituted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/6/a)
+[^c-633b3dab4193d5558ce99de090cfa1eb]: Textual amendment: Words in Sch. 6 para. 5 Table 1 substituted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [6(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/6/a)
 
-[^key-03e3ef328582400e96dc33607d92803f]: Textual amendment: Words in Sch. 6 para. 5 inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [6(c)(i)](https://www.legislation.gov.uk/uksi/2017/400/regulation/6/c/i)
+[^c-03e3ef328582400e96dc33607d92803f]: Textual amendment: Words in Sch. 6 para. 5 inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [6(c)(i)](https://www.legislation.gov.uk/uksi/2017/400/regulation/6/c/i)
 
-[^key-775654e74a1f2110fd2b2dcc6cf7fb14]: Textual amendment: Words in Sch. 6 para. 5 inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [6(c)(ii)](https://www.legislation.gov.uk/uksi/2017/400/regulation/6/c/ii)
+[^c-775654e74a1f2110fd2b2dcc6cf7fb14]: Textual amendment: Words in Sch. 6 para. 5 inserted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [6(c)(ii)](https://www.legislation.gov.uk/uksi/2017/400/regulation/6/c/ii)
 
-[^key-1b0cb49a76bce50096823bfb7902fc3c]: Textual amendment: Words in Sch. 6 para. 5 Table 2 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/6/b)
+[^c-1b0cb49a76bce50096823bfb7902fc3c]: Textual amendment: Words in Sch. 6 para. 5 Table 2 inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [6(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/6/b)
 
-[^key-6c46fb10aa0fbef1bc74cb7691e7e3ea]: Textual amendment: Words in Sch. 6 para. 5 substituted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [6(c)(iii)](https://www.legislation.gov.uk/uksi/2017/400/regulation/6/c/iii)
+[^c-6c46fb10aa0fbef1bc74cb7691e7e3ea]: Textual amendment: Words in Sch. 6 para. 5 substituted (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [6(c)(iii)](https://www.legislation.gov.uk/uksi/2017/400/regulation/6/c/iii)
 
-[^key-6c1ea9326a469306b20eb3735169749d]: Commencement: Sch. 6 para. 6 in force at 1.3.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2)
+[^c-6c1ea9326a469306b20eb3735169749d]: Commencement: Sch. 6 para. 6 in force at 1.3.2014 for specified purposes by [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2)
 
-[^key-7d281f5a3fedce5af3a25f0557aa09e8]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/6) in force at 13.7.2018 for E.W. in so far as not already in force by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)
+[^c-7d281f5a3fedce5af3a25f0557aa09e8]: Commencement: [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2013/33/schedule/6/paragraph/6) in force at 13.7.2018 for E.W. in so far as not already in force by [S.I. 2018/848](https://www.legislation.gov.uk/uksi/2018/848), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/848/article/2/b)

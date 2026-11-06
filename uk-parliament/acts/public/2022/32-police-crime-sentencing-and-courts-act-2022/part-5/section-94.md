@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Removal of requirement to deliver up licence where conditional offer[^key-02fb15d1be001fe2848985cc9bc9de69][^key-ecbea7e73646dc49418636e0204d5b71]
+## 94. Removal of requirement to deliver up licence where conditional offer[^c-02fb15d1be001fe2848985cc9bc9de69][^c-ecbea7e73646dc49418636e0204d5b71]
 
 *Extent: E+W+S*
 
@@ -70,6 +70,6 @@ summary: ''
 
 ## Annotations
 
-[^key-02fb15d1be001fe2848985cc9bc9de69]: Commencement: S. 94 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-02fb15d1be001fe2848985cc9bc9de69]: Commencement: S. 94 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-ecbea7e73646dc49418636e0204d5b71]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2022/32/section/94) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))
+[^c-ecbea7e73646dc49418636e0204d5b71]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2022/32/section/94) in force at 30.11.2022 by [S.I. 2022/1187](https://www.legislation.gov.uk/uksi/2022/1187), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2022/1187/regulation/4/a) (with [Pt. 3](https://www.legislation.gov.uk/uksi/2022/1187/part/3))

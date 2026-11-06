@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Control of loans etc to holders of elective office: compliance officers[^key-701944c3f6d1f29603cb97a5b223eec8]
+## 17. Control of loans etc to holders of elective office: compliance officers[^c-701944c3f6d1f29603cb97a5b223eec8]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ In Schedule 7A to the 2000 Act (control of loans etc to individuals etc), at the
 
 ## Annotations
 
-[^key-701944c3f6d1f29603cb97a5b223eec8]: Commencement: S. 17 in force at 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(f)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/f)
+[^c-701944c3f6d1f29603cb97a5b223eec8]: Commencement: S. 17 in force at 1.1.2010 by [S.I. 2009/3084](https://www.legislation.gov.uk/uksi/2009/3084), [art. 4(f)](https://www.legislation.gov.uk/uksi/2009/3084/article/4/f)

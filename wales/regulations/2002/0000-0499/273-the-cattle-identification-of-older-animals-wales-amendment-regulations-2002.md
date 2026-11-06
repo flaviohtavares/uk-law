@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Cattle (Identification of Older Animals) (Wales) (Amendment) Regulations 2002 (revoked)[^key-8aaa0c4d32b020f3133d452164846f31]
+The Cattle (Identification of Older Animals) (Wales) (Amendment) Regulations 2002 (revoked)[^c-8aaa0c4d32b020f3133d452164846f31]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into force
 
 11th February 2002
 
-[^key-8aaa0c4d32b020f3133d452164846f31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8aaa0c4d32b020f3133d452164846f31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-8aaa0c4d32b020f3133d452164846f31]
+## 1. Title, application and commencement[^c-8aaa0c4d32b020f3133d452164846f31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Cattle (Identification of Older Animals) Regulations 2000[^key-8aaa0c4d32b020f3133d452164846f31]
+## 2. Amendments to the Cattle (Identification of Older Animals) Regulations 2000[^c-8aaa0c4d32b020f3133d452164846f31]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8aaa0c4d32b020f3133d452164846f31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8aaa0c4d32b020f3133d452164846f31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8aaa0c4d32b020f3133d452164846f31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8aaa0c4d32b020f3133d452164846f31]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8aaa0c4d32b020f3133d452164846f31]: Textual amendment: Regulations revoked (6.4.2007) by [The Cattle Identification (Wales) Regulations 2007 (S.I. 2007/842)](https://www.legislation.gov.uk/uksi/2007/842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/842/regulation/1), [17(h)](https://www.legislation.gov.uk/uksi/2007/842/regulation/17/h)
+[^c-8aaa0c4d32b020f3133d452164846f31]: Textual amendment: Regulations revoked (6.4.2007) by [The Cattle Identification (Wales) Regulations 2007 (S.I. 2007/842)](https://www.legislation.gov.uk/uksi/2007/842), [regs. 1](https://www.legislation.gov.uk/uksi/2007/842/regulation/1), [17(h)](https://www.legislation.gov.uk/uksi/2007/842/regulation/17/h)

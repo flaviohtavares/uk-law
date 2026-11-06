@@ -33,7 +33,7 @@ summary: ''
 - (f) Part V;
 - (g) the provisions of Part VII with respect to premises where part of a building is a separate factory, subject to such modifications as may be made by regulations of the Minister;
 - (h) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14252871]
-- (j) the provisions of Part X with respect to . . . [^c14252881][^c14252891]. . ., [^key-d4e6619386ac503943bcabb269c4bdad]..., preservation of registers and records, but subject to such modifications as may be made by regulations of the Minister, . . . [^c14252901];
+- (j) the provisions of Part X with respect to . . . [^c14252881][^c14252891]. . ., [^c-d4e6619386ac503943bcabb269c4bdad]..., preservation of registers and records, but subject to such modifications as may be made by regulations of the Minister, . . . [^c14252901];
 - (k) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c14252911]
 - (l) Part XII; and
 - (m) Part XIV.
@@ -75,7 +75,7 @@ shall apply to the process of loading, unloading or coaling of any ship in any d
 
 [^c14252891]: Textual amendment: Words in s. 125(2)(j) repealed (1.1.1996) by [S.I. 1995/2923](https://www.legislation.gov.uk/uksi/1995/2923), [reg. 3(1)](https://www.legislation.gov.uk/uksi/1995/2923/regulation/3/1), [Sch. Pt. I](https://www.legislation.gov.uk/uksi/1995/2923/schedule/part/I)
 
-[^key-d4e6619386ac503943bcabb269c4bdad]: Textual amendment: Words in [s. 125(2)(j)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/125/2/j) repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2009/605/regulation/4/2/b)
+[^c-d4e6619386ac503943bcabb269c4bdad]: Textual amendment: Words in [s. 125(2)(j)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/34/section/125/2/j) repealed (6.4.2009) by [The Factories Act 1961 and Offices, Shops and Railway Premises Act 1963 (Repeals and Modifications) Regulations 2009 (S.I. 2009/605)](https://www.legislation.gov.uk/uksi/2009/605), [regs. 1](https://www.legislation.gov.uk/uksi/2009/605/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2009/605/regulation/4/2/b)
 
 [^c14252901]: Textual amendment: Words repealed by [S.I. 1975/1012](https://www.legislation.gov.uk/uksi/1975/1012), [Sch.](https://www.legislation.gov.uk/uksi/1975/1012/schedule)
 

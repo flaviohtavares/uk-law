@@ -46,15 +46,15 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with paragraph 1(3) of Schedule 7 to the European Union (Withdrawal) Act 2018, a draft of these Regulations has been laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-200a1271dc1285296953f79680e55e5a]
+## 1. Citation and commencement[^c-200a1271dc1285296953f79680e55e5a]
 
 These Regulations may be cited as the Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 and come into force immediately before exit day [^c23914681].
 
-## 2. Amendment of the Human Medicines (Amendment etc.) (EU Exit) Regulations 2019[^key-2a03178448c53ed09e3cfb495f72b9dd]
+## 2. Amendment of the Human Medicines (Amendment etc.) (EU Exit) Regulations 2019[^c-2a03178448c53ed09e3cfb495f72b9dd]
 
 The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 [^c23914691] are amended in accordance with Schedule 1.
 
-## 3. Amendment of the Medical Devices (Amendment etc.) (EU Exit) Regulations 2019[^key-74ceaea0a4dfc6cbb34c752dd2cd408a]
+## 3. Amendment of the Medical Devices (Amendment etc.) (EU Exit) Regulations 2019[^c-74ceaea0a4dfc6cbb34c752dd2cd408a]
 
 The Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 [^c23914701] are amended in accordance with Schedule 2.
 
@@ -70,41 +70,41 @@ Department of Health and Social Care
 
 Regulation 2
 
-### 1. Interpretation[^key-625d73f13c61c00b4d05c6020a635da1]
+### 1. Interpretation[^c-625d73f13c61c00b4d05c6020a635da1]
 
 In this Schedule, “**the 2012 Regulations**” means the Human Medicines Regulations 2012 [^c23914711].
 
-### 2. Amendment of regulation 15 (amendment of regulation 18 of the 2012 Regulations – wholesale dealing in medicinal products)[^key-74ef63222c96f651014733cea30f2641]
+### 2. Amendment of regulation 15 (amendment of regulation 18 of the 2012 Regulations – wholesale dealing in medicinal products)[^c-74ef63222c96f651014733cea30f2641]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of regulation 17 (amendment of regulation 19 of the 2012 Regulations – exemptions from requirement for wholesale dealer's licence)[^key-74ef63222c96f651014733cea30f2641]
+### 3. Amendment of regulation 17 (amendment of regulation 19 of the 2012 Regulations – exemptions from requirement for wholesale dealer's licence)[^c-74ef63222c96f651014733cea30f2641]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Amendment of regulation 47 (amendment of regulation 48 of the 2012 Regulations – application of Part 5)[^key-74ef63222c96f651014733cea30f2641]
+### 4. Amendment of regulation 47 (amendment of regulation 48 of the 2012 Regulations – application of Part 5)[^c-74ef63222c96f651014733cea30f2641]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Amendment of regulation 56 (substitution of regulation 51 of the 2012 Regulations - applications relating to generic medicinal products)[^key-74ef63222c96f651014733cea30f2641]
+### 5. Amendment of regulation 56 (substitution of regulation 51 of the 2012 Regulations - applications relating to generic medicinal products)[^c-74ef63222c96f651014733cea30f2641]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendment of regulation 58 (amendment of regulation 53 of the 2012 Regulations - applications relating to similar biological medicinal products)[^key-74ef63222c96f651014733cea30f2641]
+### 6. Amendment of regulation 58 (amendment of regulation 53 of the 2012 Regulations - applications relating to similar biological medicinal products)[^c-74ef63222c96f651014733cea30f2641]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of regulation 63 (amendment of Schedule 11 to the 2012 Regulations – advice and representations)[^key-d3861bd090b472e48efb32ab4b450849]
+### 7. Amendment of regulation 63 (amendment of Schedule 11 to the 2012 Regulations – advice and representations)[^c-d3861bd090b472e48efb32ab4b450849]
 
 (1) Regulation 63 is amended as follows.
 
@@ -269,13 +269,13 @@ In this Schedule, “**the 2012 Regulations**” means the Human Medicines Regul
 
 .
 
-### 8. Amendment of regulation 139 (amendment of regulation 177 of the 2012 Regulations – application of Part 11 (pharmacovigilance) and interpretation)[^key-61e5ac846ac7d6bf5ab1ff8e3065f422]
+### 8. Amendment of regulation 139 (amendment of regulation 177 of the 2012 Regulations – application of Part 11 (pharmacovigilance) and interpretation)[^c-61e5ac846ac7d6bf5ab1ff8e3065f422]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendment of Schedule 6 (insertion of Schedule 12A into the 2012 Regulations)[^key-755a9addc3c2d870b3300329a83b6e11]
+### 9. Amendment of Schedule 6 (insertion of Schedule 12A into the 2012 Regulations)[^c-755a9addc3c2d870b3300329a83b6e11]
 
 In Schedule 6, in Part 8 of inserted Schedule 12A to the 2012 Regulations (periodic safety update reports), in paragraph 27 (format of periodic safety update reports)—
 
@@ -289,7 +289,7 @@ In Schedule 6, in Part 8 of inserted Schedule 12A to the 2012 Regulations (perio
 
   .
 
-### 10. Amendment of Schedule 7 (insertion of Schedule 33A into the 2012 Regulations)[^key-2eff7fe9149c290de3c94142f1a58d68]
+### 10. Amendment of Schedule 7 (insertion of Schedule 33A into the 2012 Regulations)[^c-2eff7fe9149c290de3c94142f1a58d68]
 
 (1) Schedule 7 is amended as follows.
 
@@ -299,19 +299,19 @@ In Schedule 6, in Part 8 of inserted Schedule 12A to the 2012 Regulations (perio
 
 .
 
-(3)[^key-c10d2119e7f655db2ed7e29f93d901b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-c10d2119e7f655db2ed7e29f93d901b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-afbe63c9e1ee1917e8c550cd098519b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-afbe63c9e1ee1917e8c550cd098519b5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Amendment of the Medical Devices (Amendment etc.) (EU Exit) Regulations 2019
 
 Regulation 3
 
-### 1. Interpretation[^key-19fbf36d8d87eca01eb761580438506b]
+### 1. Interpretation[^c-19fbf36d8d87eca01eb761580438506b]
 
 In this Schedule, “**the 2002 Regulations**” means the Medical Devices Regulations 2002 [^c23914731].
 
-### 2. Amendment of regulation 3 (amendment of Part I of the 2002 Regulations)[^key-dbf40011d907f243af4b78800c121960]
+### 2. Amendment of regulation 3 (amendment of Part I of the 2002 Regulations)[^c-dbf40011d907f243af4b78800c121960]
 
 (1) Regulation 3 is amended as follows.
 
@@ -319,7 +319,7 @@ In this Schedule, “**the 2002 Regulations**” means the Medical Devices Regul
 
 - (a) for paragraph (1), substitute—
 
-  > (1) In Parts II, III and IV[^key-5b01a077d2066497550bb9c81b1f3b15] of these Regulations, a “**designated standard**” means—
+  > (1) In Parts II, III and IV[^c-5b01a077d2066497550bb9c81b1f3b15] of these Regulations, a “**designated standard**” means—
   >
   > - (a) a technical specification which is—
   >   - (i) adopted by a recognised standardisation body, for repeated or continuous application with which compliance is not compulsory; and
@@ -337,9 +337,9 @@ In this Schedule, “**the 2002 Regulations**” means the Medical Devices Regul
 
   [^c23914741].
 
-(3)[^key-3bd5583b1b4c2a140f4653509212e8c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3bd5583b1b4c2a140f4653509212e8c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of regulation 4 (amendment of Part II of the 2002 Regulations)[^key-fad0dd4f5f71e933d8461a74aff53524]
+### 3. Amendment of regulation 4 (amendment of Part II of the 2002 Regulations)[^c-fad0dd4f5f71e933d8461a74aff53524]
 
 In regulation 4(4), in inserted regulation 7A of the 2002 Regulations (registration of persons placing general medical devices on the market), after paragraph (2), insert—
 
@@ -347,7 +347,7 @@ In regulation 4(4), in inserted regulation 7A of the 2002 Regulations (registrat
 
 .
 
-### 4. Amendment of regulation 5 (amendment of Part III of the 2002 Regulations)[^key-30a0ea1b480ef8b62c11a23f76f5779f]
+### 4. Amendment of regulation 5 (amendment of Part III of the 2002 Regulations)[^c-30a0ea1b480ef8b62c11a23f76f5779f]
 
 In regulation 5(3), in inserted regulation 21A of the 2002 Regulations (registration of persons placing active implantable medical devices on the market) after paragraph (2), insert—
 
@@ -355,7 +355,7 @@ In regulation 5(3), in inserted regulation 21A of the 2002 Regulations (registra
 
 .
 
-### 5. Amendment of regulation 6 (amendment of Part IV of the 2002 Regulations)[^key-41cf20bda949e3ca2e1dc1c6cd5f1203]
+### 5. Amendment of regulation 6 (amendment of Part IV of the 2002 Regulations)[^c-41cf20bda949e3ca2e1dc1c6cd5f1203]
 
 In regulation 6(3), in inserted regulation 33A of the 2002 Regulations (registration etc. of persons placing in vitro diagnostic medical devices on the market) after paragraph (2), insert—
 
@@ -363,13 +363,13 @@ In regulation 6(3), in inserted regulation 33A of the 2002 Regulations (registra
 
 .
 
-### 6. Amendment of regulation 7 (amendment of Part V of the 2002 Regulations)[^key-3e07bd5d7ceb43590eef2e57901cf97c]
+### 6. Amendment of regulation 7 (amendment of Part V of the 2002 Regulations)[^c-3e07bd5d7ceb43590eef2e57901cf97c]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of regulation 8 (amendment of Part VI of the 2002 Regulations)[^key-704e883c10247a9d7b7305fdc1bfec7e]
+### 7. Amendment of regulation 8 (amendment of Part VI of the 2002 Regulations)[^c-704e883c10247a9d7b7305fdc1bfec7e]
 
 In regulation 8, for paragraph (4), substitute—
 
@@ -383,7 +383,7 @@ In regulation 8, for paragraph (4), substitute—
 
 .
 
-### 8. Amendment of regulation 9 (amendment of Part VII of the 2002 Regulations)[^key-391426e8437561fd2851843345f23551]
+### 8. Amendment of regulation 9 (amendment of Part VII of the 2002 Regulations)[^c-391426e8437561fd2851843345f23551]
 
 In regulation 9(3) (amendment of regulation 60 of the 2002 Regulations), for sub-paragraph (d), substitute—
 
@@ -393,19 +393,19 @@ In regulation 9(3) (amendment of regulation 60 of the 2002 Regulations), for sub
 
 .
 
-### 9. Amendment of regulation 10 (insertion of Part VIII into the 2002 Regulations)[^key-6880ef43f51eab89e23545f92801a5f8]
+### 9. Amendment of regulation 10 (insertion of Part VIII into the 2002 Regulations)[^c-6880ef43f51eab89e23545f92801a5f8]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendment of regulation 11 (insertion of new Part IX into the 2002 Regulations)[^key-6880ef43f51eab89e23545f92801a5f8]
+### 10. Amendment of regulation 11 (insertion of new Part IX into the 2002 Regulations)[^c-6880ef43f51eab89e23545f92801a5f8]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment of regulation 12 (new Schedules to the 2002 Regulations)[^key-6880ef43f51eab89e23545f92801a5f8]
+### 11. Amendment of regulation 12 (new Schedules to the 2002 Regulations)[^c-6880ef43f51eab89e23545f92801a5f8]
 
 **Not yet in force.**
 
@@ -453,60 +453,60 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23914671]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-200a1271dc1285296953f79680e55e5a]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-200a1271dc1285296953f79680e55e5a]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23914681]: Marginal citation: “Exit day” is defined in section 20 of the European Union (Withdrawal) Act 2018.
 
-[^key-2a03178448c53ed09e3cfb495f72b9dd]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2a03178448c53ed09e3cfb495f72b9dd]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23914691]: Marginal citation: [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).
 
-[^key-74ceaea0a4dfc6cbb34c752dd2cd408a]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-74ceaea0a4dfc6cbb34c752dd2cd408a]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23914701]: Marginal citation: [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791).
 
-[^key-625d73f13c61c00b4d05c6020a635da1]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-625d73f13c61c00b4d05c6020a635da1]: Commencement: Sch. 1 para. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23914711]: Marginal citation: [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916); relevant amendments were made by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775).
 
-[^key-74ef63222c96f651014733cea30f2641]: Textual amendment: Sch. 1 paras. 2-6 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/3/paragraph/1/a)
+[^c-74ef63222c96f651014733cea30f2641]: Textual amendment: Sch. 1 paras. 2-6 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 3 para. 1(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/3/paragraph/1/a)
 
-[^key-d3861bd090b472e48efb32ab4b450849]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-d3861bd090b472e48efb32ab4b450849]: Commencement: Sch. 1 para. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-61e5ac846ac7d6bf5ab1ff8e3065f422]: Textual amendment: Sch. 1 para. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/3/paragraph/1/b)
+[^c-61e5ac846ac7d6bf5ab1ff8e3065f422]: Textual amendment: Sch. 1 para. 8 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 3 para. 1(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/3/paragraph/1/b)
 
-[^key-755a9addc3c2d870b3300329a83b6e11]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-755a9addc3c2d870b3300329a83b6e11]: Commencement: Sch. 1 para. 9 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2eff7fe9149c290de3c94142f1a58d68]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2eff7fe9149c290de3c94142f1a58d68]: Commencement: Sch. 1 para. 10 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-c10d2119e7f655db2ed7e29f93d901b2]: Textual amendment: Sch. 1 para. 10(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 3 para. 1(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/3/paragraph/1/c)
+[^c-c10d2119e7f655db2ed7e29f93d901b2]: Textual amendment: Sch. 1 para. 10(3) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 3 para. 1(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/3/paragraph/1/c)
 
-[^key-afbe63c9e1ee1917e8c550cd098519b5]: Textual amendment: Sch. 1 para. 10(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 3 para. 1(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/3/paragraph/1/c)
+[^c-afbe63c9e1ee1917e8c550cd098519b5]: Textual amendment: Sch. 1 para. 10(4) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 3 para. 1(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/3/paragraph/1/c)
 
-[^key-19fbf36d8d87eca01eb761580438506b]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-19fbf36d8d87eca01eb761580438506b]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23914731]: Marginal citation: [S.I. 2002/618](https://www.legislation.gov.uk/uksi/2002/618); relevant amendments were made by [S.I. 2019/791](https://www.legislation.gov.uk/uksi/2019/791).
 
-[^key-dbf40011d907f243af4b78800c121960]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-dbf40011d907f243af4b78800c121960]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-5b01a077d2066497550bb9c81b1f3b15]: Textual amendment: Words in Sch. 2 para. 2(2)(a) substituted (9.12.2020) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/4/2/a/i)
+[^c-5b01a077d2066497550bb9c81b1f3b15]: Textual amendment: Words in Sch. 2 para. 2(2)(a) substituted (9.12.2020) by [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/2), [4(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/4/2/a/i)
 
 [^c23914741]: Marginal citation: Council of Europe (ETS No. 050), Strasbourg, 22.07.1964.
 
-[^key-3bd5583b1b4c2a140f4653509212e8c3]: Textual amendment: Sch. 2 para. 2(3) omitted (9.12.2020) by virtue of [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/4/2/a/ii)
+[^c-3bd5583b1b4c2a140f4653509212e8c3]: Textual amendment: Sch. 2 para. 2(3) omitted (9.12.2020) by virtue of [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/2), [4(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/4/2/a/ii)
 
-[^key-fad0dd4f5f71e933d8461a74aff53524]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-fad0dd4f5f71e933d8461a74aff53524]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-30a0ea1b480ef8b62c11a23f76f5779f]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-30a0ea1b480ef8b62c11a23f76f5779f]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-41cf20bda949e3ca2e1dc1c6cd5f1203]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-41cf20bda949e3ca2e1dc1c6cd5f1203]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-3e07bd5d7ceb43590eef2e57901cf97c]: Textual amendment: Sch. 2 para. 6 omitted (9.12.2020) by virtue of [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/4/2/b)
+[^c-3e07bd5d7ceb43590eef2e57901cf97c]: Textual amendment: Sch. 2 para. 6 omitted (9.12.2020) by virtue of [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/4/2/b)
 
-[^key-704e883c10247a9d7b7305fdc1bfec7e]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-704e883c10247a9d7b7305fdc1bfec7e]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23914751]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-391426e8437561fd2851843345f23551]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-391426e8437561fd2851843345f23551]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 immediately before IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-6880ef43f51eab89e23545f92801a5f8]: Textual amendment: Sch. 2 paras. 9-11 omitted (9.12.2020) by virtue of [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/4/2/c)
+[^c-6880ef43f51eab89e23545f92801a5f8]: Textual amendment: Sch. 2 paras. 9-11 omitted (9.12.2020) by virtue of [The Medical Devices (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1478)](https://www.legislation.gov.uk/uksi/2020/1478), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/1/2), [4(2)(c)](https://www.legislation.gov.uk/uksi/2020/1478/regulation/4/2/c)

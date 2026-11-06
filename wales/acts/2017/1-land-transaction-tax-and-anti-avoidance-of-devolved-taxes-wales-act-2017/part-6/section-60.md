@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Deferral requests: notices of WRA decisions[^key-28031bc1e09aa844f02f7e765363eb8e]
+## 60. Deferral requests: notices of WRA decisions[^c-28031bc1e09aa844f02f7e765363eb8e]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28031bc1e09aa844f02f7e765363eb8e]: Commencement: [S. 60](https://www.legislation.gov.uk/anaw/2017/1/section/60) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-28031bc1e09aa844f02f7e765363eb8e]: Commencement: [S. 60](https://www.legislation.gov.uk/anaw/2017/1/section/60) in force at 1.4.2018 by [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

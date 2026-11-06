@@ -32,7 +32,7 @@ summary: ''
 
 PESTICIDES
 
-The Plant Protection Products (Scotland) Amendment Regulations 2007 (revoked)[^key-05160a94150870126a3bd1902e889560]
+The Plant Protection Products (Scotland) Amendment Regulations 2007 (revoked)[^c-05160a94150870126a3bd1902e889560]
 
 Made
 
@@ -46,36 +46,36 @@ Coming into force
 
 31st March 2007
 
-[^key-05160a94150870126a3bd1902e889560]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05160a94150870126a3bd1902e889560]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-05160a94150870126a3bd1902e889560]
+## 1. Citation and commencement[^c-05160a94150870126a3bd1902e889560]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Protection Products (Scotland) Regulations 2005[^key-05160a94150870126a3bd1902e889560]
+## 2. Amendment of the Plant Protection Products (Scotland) Regulations 2005[^c-05160a94150870126a3bd1902e889560]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2 (interpretation)[^key-05160a94150870126a3bd1902e889560]
+## 3. Amendment of regulation 2 (interpretation)[^c-05160a94150870126a3bd1902e889560]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of Schedule 1 (instruments amending Council Directive [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414))[^key-05160a94150870126a3bd1902e889560]
+## 4. Amendment of Schedule 1 (instruments amending Council Directive [91/414/EEC](https://www.legislation.gov.uk/eudr/1991/414))[^c-05160a94150870126a3bd1902e889560]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-05160a94150870126a3bd1902e889560]
+## 5. Revocation[^c-05160a94150870126a3bd1902e889560]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-05160a94150870126a3bd1902e889560]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05160a94150870126a3bd1902e889560]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-05160a94150870126a3bd1902e889560]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-05160a94150870126a3bd1902e889560]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-05160a94150870126a3bd1902e889560]: Textual amendment: Regulations revoked (27.9.2007) by [The Plant Protection Products (Scotland) Amendment (No. 2) Regulations 2007 (S.S.I. 2007/410)](https://www.legislation.gov.uk/ssi/2007/410), [regs. 1](https://www.legislation.gov.uk/ssi/2007/410/regulation/1), [5](https://www.legislation.gov.uk/ssi/2007/410/regulation/5)
+[^c-05160a94150870126a3bd1902e889560]: Textual amendment: Regulations revoked (27.9.2007) by [The Plant Protection Products (Scotland) Amendment (No. 2) Regulations 2007 (S.S.I. 2007/410)](https://www.legislation.gov.uk/ssi/2007/410), [regs. 1](https://www.legislation.gov.uk/ssi/2007/410/regulation/1), [5](https://www.legislation.gov.uk/ssi/2007/410/regulation/5)

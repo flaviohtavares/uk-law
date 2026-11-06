@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 16. Applications for consent to market[^key-484fa0e59673747dee51285eb9e201ba]
+## 16. Applications for consent to market[^c-484fa0e59673747dee51285eb9e201ba]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-484fa0e59673747dee51285eb9e201ba]: Commencement: Reg. 16 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-484fa0e59673747dee51285eb9e201ba]: Commencement: Reg. 16 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

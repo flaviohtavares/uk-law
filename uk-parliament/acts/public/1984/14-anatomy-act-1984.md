@@ -39,7 +39,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 1. Definitions, and scope of Act.
 
-(1 (Extent: S))[^key-06da2dce3075fbe859c1401b1fdf43bb][^key-1e5052b42490263c498d4cd7793d84f2] In this Act, “ *(Extent: S)***anatomical examination *(Extent: S)***” means macroscopic examination of a body for the purposes of teaching or studying, or training in or researching into, the gross structure of the human body or surgical or clinical procedures by— *(Extent: S)*
+(1 (Extent: S))[^c-06da2dce3075fbe859c1401b1fdf43bb][^c-1e5052b42490263c498d4cd7793d84f2] In this Act, “ *(Extent: S)***anatomical examination *(Extent: S)***” means macroscopic examination of a body for the purposes of teaching or studying, or training in or researching into, the gross structure of the human body or surgical or clinical procedures by— *(Extent: S)*
 
 - (a (Extent: S)) dissection, *(Extent: S)*
 - (b (Extent: S)) removal of, or carrying out a procedure on or in relation to, one or more parts of the body, *(Extent: S)*
@@ -57,13 +57,13 @@ and where any part of the body is separated in the course of its anatomical exam
 
 *Extent: S*
 
-(2A)[^key-f6f17895183e715fdc56ecc8120f115d] An imported body is not an anatomical specimen until an authority for its anatomical examination has been given under section 4A(1).
+(2A)[^c-f6f17895183e715fdc56ecc8120f115d] An imported body is not an anatomical specimen until an authority for its anatomical examination has been given under section 4A(1).
 
 (3) In this Act “**body**” means the body of a deceased person.
 
-(4) Nothing in this Act applies to anything done for the purposes of a post-mortem examination requested or required or directed to be made by a procurator fiscal *(Extent: S)*[^key-be0b01ccdceb63721f0db6c721344bf0] or a post-mortem examination as defined in section 23 of the Human Tissue (Scotland) Act 2006 (asp 4) *(Extent: S)*[^key-2bde2d71cc66fcb45b75520f933ef9ec].
+(4) Nothing in this Act applies to anything done for the purposes of a post-mortem examination requested or required or directed to be made by a procurator fiscal *(Extent: S)*[^c-be0b01ccdceb63721f0db6c721344bf0] or a post-mortem examination as defined in section 23 of the Human Tissue (Scotland) Act 2006 (asp 4) *(Extent: S)*[^c-2bde2d71cc66fcb45b75520f933ef9ec].
 
-(5 (Extent: S))[^key-bfe52b4213ad0e7cfc93201ca412fe67] If a part of a body is authorised to be removed for transplantation, research, education, training *(Extent: S)* , audit or quality assurance *(Extent: S)*[^key-07b0fecf1d5ab3e38be441324f4f179e] *(Extent: S)* under section 6, *(Extent: S)* 6D, 6E, 6F, 6G, 6H, 8, 8D, 10 or 10A *(Extent: S)*[^key-9e5526cfb7e9214a8ca646f0cdbee901] *(Extent: S)* of the Human Tissue (Scotland) Act 2006 (asp 4), that Act (and not this Act) applies to the removal and use of the part, even if the transplantation, research, education, training *(Extent: S)* , audit or quality assurance *(Extent: S)* *(Extent: S)* consists of or involves anatomical examination; but the preceding provisions of this subsection do not prevent this Act applying as regards the body after such removal or where no such removal is made.
+(5 (Extent: S))[^c-bfe52b4213ad0e7cfc93201ca412fe67] If a part of a body is authorised to be removed for transplantation, research, education, training *(Extent: S)* , audit or quality assurance *(Extent: S)*[^c-07b0fecf1d5ab3e38be441324f4f179e] *(Extent: S)* under section 6, *(Extent: S)* 6D, 6E, 6F, 6G, 6H, 8, 8D, 10 or 10A *(Extent: S)*[^c-9e5526cfb7e9214a8ca646f0cdbee901] *(Extent: S)* of the Human Tissue (Scotland) Act 2006 (asp 4), that Act (and not this Act) applies to the removal and use of the part, even if the transplantation, research, education, training *(Extent: S)* , audit or quality assurance *(Extent: S)* *(Extent: S)* consists of or involves anatomical examination; but the preceding provisions of this subsection do not prevent this Act applying as regards the body after such removal or where no such removal is made.
 
 ## Anatomical examination
 
@@ -73,14 +73,14 @@ and where any part of the body is separated in the course of its anatomical exam
 
 - (a) he carries it out on premises which at the time of the examination are licensed under section 3(1),
 - (b) he is authorised to carry it out under section 3(3),
-- (c) at the time the examination is carried out it is lawful by virtue of sections 4 to 4B *(Extent: S)*[^key-5e6c32a7f8b070341aea532958fb269b], and
-- (d) death has been registered, in the case of the body concerned, under section 22 of the 1965 Act or, where the body concerned is an imported body, death has been registered or recorded (or the equivalent) under the law concerning such matters applicable in the country or territory in which the person died *(Extent: S)*[^key-a3cd3e6ff777a56054a978c978a42f92].
+- (c) at the time the examination is carried out it is lawful by virtue of sections 4 to 4B *(Extent: S)*[^c-5e6c32a7f8b070341aea532958fb269b], and
+- (d) death has been registered, in the case of the body concerned, under section 22 of the 1965 Act or, where the body concerned is an imported body, death has been registered or recorded (or the equivalent) under the law concerning such matters applicable in the country or territory in which the person died *(Extent: S)*[^c-a3cd3e6ff777a56054a978c978a42f92].
 
 (2) Subject to subsection (3), no person shall have an anatomical specimen in his possession unless—
 
 - (a) he is authorised to have possession under section 3(4),
-- (b) anatomical examination of the specimen is at the time concerned lawful by virtue of sections 4 to 4B *(Extent: S)*[^key-361dce95b977f18d628f3e0f64cabbf6], and
-- (c) a certificate of cause of death has been attested[^key-c092f8a6acf5ad375174298f488c8722], in the case of the body concerned, in accordance with section 24 of the 1965 Act or, where the body concerned is an imported body, a certificate or other document having the equivalent effect has been issued under the law concerning such matters applicable in the country or territory in which the person died *(Extent: S)*[^key-83c13e20b683937a2b7c5b8d76d46c5a].
+- (b) anatomical examination of the specimen is at the time concerned lawful by virtue of sections 4 to 4B *(Extent: S)*[^c-361dce95b977f18d628f3e0f64cabbf6], and
+- (c) a certificate of cause of death has been attested[^c-c092f8a6acf5ad375174298f488c8722], in the case of the body concerned, in accordance with section 24 of the 1965 Act or, where the body concerned is an imported body, a certificate or other document having the equivalent effect has been issued under the law concerning such matters applicable in the country or territory in which the person died *(Extent: S)*[^c-83c13e20b683937a2b7c5b8d76d46c5a].
 
 (3) Subsection (2) does not apply where a person come into lawful possession of a body immediately after death and retained possession prior to its removal to the place where anatomical examination is to take place.
 
@@ -116,9 +116,9 @@ shall—
 
 ### 4. Lawful examinations.
 
-(1) Subsection (2) applies if a person, who at the time the request is made is 12 years of age or over, requests *(Extent: S)*[^key-3f0107a2d6cb0c11850a75f029dec5a0] that his body be used after his death for anatomical examination.
+(1) Subsection (2) applies if a person, who at the time the request is made is 12 years of age or over, requests *(Extent: S)*[^c-3f0107a2d6cb0c11850a75f029dec5a0] that his body be used after his death for anatomical examination.
 
-(1A (Extent: S))[^key-6febd73031476fae421a506aeaffa81c] A request by a person under subsection (1) must be in writing and— *(Extent: S)*
+(1A (Extent: S))[^c-6febd73031476fae421a506aeaffa81c] A request by a person under subsection (1) must be in writing and— *(Extent: S)*
 
 - (a (Extent: S)) signed by the person and subject to subsection (1C)(a), witnessed by an adult who is a witness to both the signature and the content of, and signs, the writing, or *(Extent: S)*
 - (b (Extent: S)) subject to subsections (1C)(b) and (1D), if the person is blind or unable to write, signed by an adult (the signatory) on his behalf and witnessed by another adult who is a witness to both the signature and the content of, and signs, the writing. *(Extent: S)*
@@ -136,15 +136,15 @@ shall—
 
 (1D (Extent: S)) Nothing in paragraph (b) of subsection (1A) prevents a person who is blind from signing a request under subsection (1) in accordance with paragraph (a) of subsection (1A). *(Extent: S)*
 
-(2)[^key-145cdb9e4e559bcbab63c72d5c376294] If the person lawfully in possession of the body after death has no reason to believe that the request was withdrawn, he may authorise the use of the body in accordance with the request.
+(2)[^c-145cdb9e4e559bcbab63c72d5c376294] If the person lawfully in possession of the body after death has no reason to believe that the request was withdrawn, he may authorise the use of the body in accordance with the request.
 
 (3)[^M_F_4ba01c61-b3f7-46bc-8236-0a8803822845] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Subject to subsection (6) and section 4B(1) and (2) *(Extent: S)*[^key-bc65f079967b084329a6a2c0d93fc783], the anatomical examination of a body in accordance with an authority given in pursuance of this section is lawful by virtue of this section.
+(4) Subject to subsection (6) and section 4B(1) and (2) *(Extent: S)*[^c-bc65f079967b084329a6a2c0d93fc783], the anatomical examination of a body in accordance with an authority given in pursuance of this section is lawful by virtue of this section.
 
-(5)[^key-28bc4964dab34a8642dd8ba0aed26bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-28bc4964dab34a8642dd8ba0aed26bff] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) Where a person has reason to believe that an inquiry under the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016[^key-0c9c8ba1698ae29c141eb59f13009cdf] is to be held on any body or that a post-mortem examination of any body may be required by the procurator fiscal, he shall not, except with the procurator fiscal’s consent—
+(6) Where a person has reason to believe that an inquiry under the Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016[^c-0c9c8ba1698ae29c141eb59f13009cdf] is to be held on any body or that a post-mortem examination of any body may be required by the procurator fiscal, he shall not, except with the procurator fiscal’s consent—
 
 - (a) give any authority under this section in respect of the body, or
 - (b) act on such an authority given by any other person.
@@ -158,7 +158,7 @@ shall—
 (9) In the case of a body lying in
 
 - (a)[^c7570701] a hospital, nursing home[^c7570711] or other institution; or[^c7570721]
-- (b) accommodation provided by a care home service (as defined by paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010 (asp 8)[^key-238cc695d320ce0d85040fc78039f7ea],
+- (b) accommodation provided by a care home service (as defined by paragraph 2 of schedule 12 to the Public Services Reform (Scotland) Act 2010 (asp 8)[^c-238cc695d320ce0d85040fc78039f7ea],
 
 any authority under this section may be given on behalf of the person having the control and management of the institution or accommodation[^c7570731] by any officer or person designated for that purpose by the first-mentioned person.
 
@@ -168,7 +168,7 @@ any authority under this section may be given on behalf of the person having the
 
 (11)[^M_F_4c74e91c-d1e8-4dfc-9aa8-9c90f22b33b0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4A. Lawful examinations: imported bodies[^key-b96e59bf47de9bf3ce856962bb57716e]
+### 4A. Lawful examinations: imported bodies[^c-b96e59bf47de9bf3ce856962bb57716e]
 
 *Extent: S*
 
@@ -189,7 +189,7 @@ any authority under this section may be given on behalf of the person having the
 
 ### 4B (Extent: S). Lawful examinations: additional provision (Extent: S)
 
-(1 (Extent: S)) No authority may be given under section 4(2) or 4A(1) in respect of a body by a person entrusted with the body for the purpose only of its interment *(Extent: S)* , cremation or hydrolysis (within the meaning given by section 107 of the Burial and Cremation (Scotland) Act 2016)[^key-b3bcbaca2877fb6a0a79b4bc389ba552] *(Extent: S)*. *(Extent: S)*
+(1 (Extent: S)) No authority may be given under section 4(2) or 4A(1) in respect of a body by a person entrusted with the body for the purpose only of its interment *(Extent: S)* , cremation or hydrolysis (within the meaning given by section 107 of the Burial and Cremation (Scotland) Act 2016)[^c-b3bcbaca2877fb6a0a79b4bc389ba552] *(Extent: S)*. *(Extent: S)*
 
 (2 (Extent: S)) Authority under section 4(2) or 4A(1) expires at the end of the statutory period (even if the person lawfully in possession of the body concerned authorises its use under section 4(2) or, as the case may be, 4A(1) for a longer or a shorter period or for no particular period). *(Extent: S)*
 
@@ -201,7 +201,7 @@ any authority under this section may be given on behalf of the person having the
 
 ### 5. Control of possession after examination.
 
-(1 (Extent: S))[^key-5348c763b3288eb82062c3055ba46247] This section applies where— *(Extent: S)*
+(1 (Extent: S))[^c-5348c763b3288eb82062c3055ba46247] This section applies where— *(Extent: S)*
 
 - (a (Extent: S)) authority under section 4(2) or, as the case may be, 4A(1) to use a body for anatomical examination has expired, *(Extent: S)*
 - (b (Extent: S)) the anatomical examination of a body has been concluded before the expiry of such authority, or *(Extent: S)*
@@ -212,11 +212,11 @@ any authority under this section may be given on behalf of the person having the
 
 whether or not the body or part of the body has undergone any process to preserve it. *(Extent: S)*
 
-(2) Subject to subsections (3) , (4) and (4A) *(Extent: S)*[^key-2394f8dd59094412ae744d9e18946c25], no person shall have the body or part of the body in his possession.
+(2) Subject to subsections (3) , (4) and (4A) *(Extent: S)*[^c-2394f8dd59094412ae744d9e18946c25], no person shall have the body or part of the body in his possession.
 
 (3) Subsection (2) does not apply where a person has possession of the body or part for the purpose only of its decent disposal.
 
-(4 (Extent: S))[^key-c13f56912c396e27d8886bcf70f58438] Subsection (2) does not apply— *(Extent: S)*
+(4 (Extent: S))[^c-c13f56912c396e27d8886bcf70f58438] Subsection (2) does not apply— *(Extent: S)*
 
 - (a (Extent: S)) where— *(Extent: S)*
   - (i (Extent: S)) a person has possession of a part of a body whose anatomical examination has been concluded before the expiry of the authority under section 4(2) or, as the case may be, 4A(1), *(Extent: S)*
@@ -238,7 +238,7 @@ whether or not the body or part of the body has undergone any process to preserv
 - (d (Extent: S)) the body is such that the deceased cannot be recognised simply by examination of the body, and *(Extent: S)*
 - (e (Extent: S)) the person with possession of the body is authorised to have possession under subsection (5). *(Extent: S)*
 
-(5) If the Secretary of State thinks it desirable to do so in the interests of education, training *(Extent: S)*[^key-3e2844d09c52f3eeddd6aa5642fd8f38] or research, he may grant a licence to a person to have possession of parts of bodies or, as the case may be, *(Extent: S)*[^key-a4a18016f3cd82085cca04ff36eb7454] bodies, and a person is authorised under this subsection to have possession of a part of a body or *(Extent: S)*[^key-666d7ecb43eab49046ee5bf1004f506c] a body if—
+(5) If the Secretary of State thinks it desirable to do so in the interests of education, training *(Extent: S)*[^c-3e2844d09c52f3eeddd6aa5642fd8f38] or research, he may grant a licence to a person to have possession of parts of bodies or, as the case may be, *(Extent: S)*[^c-a4a18016f3cd82085cca04ff36eb7454] bodies, and a person is authorised under this subsection to have possession of a part of a body or *(Extent: S)*[^c-666d7ecb43eab49046ee5bf1004f506c] a body if—
 
 - (a) at the time he has possession he is licensed to do so under this subsection, or
 - (b) he has, from a person who is so licensed at that time, permission (general or particular) to have such possession.
@@ -247,22 +247,22 @@ whether or not the body or part of the body has undergone any process to preserv
 
 shall—
 
-- (a) compile such records in relation to bodies or *(Extent: S)*[^key-0eea900ea53ea964fa6609c3ad56b1b3] parts of bodies as may be specified by regulations made by the Secretary of State, and
+- (a) compile such records in relation to bodies or *(Extent: S)*[^c-0eea900ea53ea964fa6609c3ad56b1b3] parts of bodies as may be specified by regulations made by the Secretary of State, and
 - (b) retain for such period as may be so specified any records compiled in accordance with paragraph (a).
 
 (7) The power to make regulations under subsection (6) shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
 
 ### 6. Lawful possession.
 
-(1) Subsection (2) applies if [^M_F_734679bc-78bf-4cc7-9fce-996e945d11c3]... a request as mentioned in section 4(1), includes *(Extent: S)*[^key-4ca1c1d04d4227a04016e21397612799] permission for possession of parts (or any specified parts) of the person's *(Extent: S)*[^key-2795bb0e7d6d1253e7314a40939610f5] body to be held after its anatomical examination is concluded.
+(1) Subsection (2) applies if [^M_F_734679bc-78bf-4cc7-9fce-996e945d11c3]... a request as mentioned in section 4(1), includes *(Extent: S)*[^c-4ca1c1d04d4227a04016e21397612799] permission for possession of parts (or any specified parts) of the person's *(Extent: S)*[^c-2795bb0e7d6d1253e7314a40939610f5] body to be held after its anatomical examination is concluded.
 
-(2)[^key-67b93b25cb1a7e6a681732b7e1a54221] If the person lawfully in possession of the body after death has no reason to believe that the permission was withdrawn, he may, in giving authority under section 4(2), give authority for possession to be held in accordance with the permission.
+(2)[^c-67b93b25cb1a7e6a681732b7e1a54221] If the person lawfully in possession of the body after death has no reason to believe that the permission was withdrawn, he may, in giving authority under section 4(2), give authority for possession to be held in accordance with the permission.
 
-(3 (Extent: S))[^key-8a703c29cbfdbc44739fa7ccf8d9f57e] Authority given under section 4A(1) for the use of an imported body for anatomical examination may include authority for possession of parts (or any specified parts) of the body to be held in accordance with the authority after the examination is concluded. *(Extent: S)*
+(3 (Extent: S))[^c-8a703c29cbfdbc44739fa7ccf8d9f57e] Authority given under section 4A(1) for the use of an imported body for anatomical examination may include authority for possession of parts (or any specified parts) of the body to be held in accordance with the authority after the examination is concluded. *(Extent: S)*
 
 (4) It is lawful by virtue of this section to have possession of part of a body if possession is held in accordance with an authority given in pursuance of this section.
 
-## Control of public display[^key-039fa7fc3ed0885b413d34b45147ccba]
+## Control of public display[^c-039fa7fc3ed0885b413d34b45147ccba]
 
 *Extent: S*
 
@@ -288,7 +288,7 @@ subsection (1) does not apply as respects the public display of the part if the 
 
 (4) The condition is that where the lawful possession of the part by virtue of section 6 is—
 
-- (a)[^key-b4a36a3c297d2f785fb0ca6b3a6fdc94] in pursuance of a request under section 4(1), that request also includes permission for public display (and there is no reason to believe that permission was withdrawn), or
+- (a)[^c-b4a36a3c297d2f785fb0ca6b3a6fdc94] in pursuance of a request under section 4(1), that request also includes permission for public display (and there is no reason to believe that permission was withdrawn), or
 - (b) in pursuance of an authority under section 4A(1), that authorisation also includes authority for public display.
 
 (5) Where—
@@ -303,7 +303,7 @@ subsection (1) does not apply as respects the public display of the body or, as 
 
 (6) The condition is that where the anatomical examination is—
 
-- (a)[^key-6170defb7f7fb06fd52da37fa819eea6] in pursuance of a request under section 4(1), that request also includes permission for public display (and there is no reason to believe that permission was withdrawn), or
+- (a)[^c-6170defb7f7fb06fd52da37fa819eea6] in pursuance of a request under section 4(1), that request also includes permission for public display (and there is no reason to believe that permission was withdrawn), or
 - (b) in pursuance of an authority under section 4A(1), that authorisation also includes authority for public display.
 
 (7) Where—
@@ -367,20 +367,20 @@ is being carried out.
 - (b) he may at any time accept the surrender of a licence from the person to whom it was granted;
 - (c) if the person to whom the licence was granted dies the licence shall then expire (subject to subsection (9)).
 
-(7) Where the Secretary of State decides to revoke a licence under this Act, subject to subsection (7A), *(Extent: S)*[^key-fb4b60509b5a607371957325a1e11608] the revocation shall be ineffective unless he gives to the person to whom the licence was granted a written notice stating—
+(7) Where the Secretary of State decides to revoke a licence under this Act, subject to subsection (7A), *(Extent: S)*[^c-fb4b60509b5a607371957325a1e11608] the revocation shall be ineffective unless he gives to the person to whom the licence was granted a written notice stating—
 
 - (a) that he proposes to revoke the licence on a date which is specified in the notice and is at least 28 days after the date of the notice, and
 - (b) the reasons for his decision.
 
 *Extent: S*
 
-(7A)[^key-a9723329cb87f6e560fc719bb6f10a85] Subsection (7) does not apply in relation to a decision of the Scottish Ministers to revoke a licence under this Act if the Ministers consider that there would be a risk to public health if the requirements of that subsection were to apply, and where the Scottish Ministers consider that to be the case they shall notify the person to whom the licence was granted of the revocation and that for the reasons mentioned in this subsection the revocation takes effect on the date specified in the notification.
+(7A)[^c-a9723329cb87f6e560fc719bb6f10a85] Subsection (7) does not apply in relation to a decision of the Scottish Ministers to revoke a licence under this Act if the Ministers consider that there would be a risk to public health if the requirements of that subsection were to apply, and where the Scottish Ministers consider that to be the case they shall notify the person to whom the licence was granted of the revocation and that for the reasons mentioned in this subsection the revocation takes effect on the date specified in the notification.
 
-(8) A notice under subsection (7) or (7A) *(Extent: S)*[^key-1388ec2258bac211d6f148a1dedfc056] may be given by post.
+(8) A notice under subsection (7) or (7A) *(Extent: S)*[^c-1388ec2258bac211d6f148a1dedfc056] may be given by post.
 
 (9) Where a person holding a licence under this Act dies, any permission given by him under section 3(3)(b) or (4)(b) or 5(5)(b) (as the case may be), and effective immediately before his death, shall continue to be effective for a period of 21 days commencing with the date of his death; but if the period for which the licence was granted would have expired before the expiry of the 21 days, the permission shall expire when the licence would have expired.
 
-### 7A. Appeal to sheriff principal against licence decision[^key-6d7298acc956e4926ae57309328e5c24]
+### 7A. Appeal to sheriff principal against licence decision[^c-6d7298acc956e4926ae57309328e5c24]
 
 *Extent: S*
 
@@ -431,8 +431,8 @@ may, before the expiry of the period of 21 days beginning with the day the decis
 
 (1) The Secretary of State may make regulations—
 
-- (a) in relation to bodies the anatomical examination of which is lawful by virtue of section 4 or section 4A *(Extent: S)*[^key-102fbf8075f801e2dd2f27143a6918fa], with a view to securing their efficient and orderly examination and the decent disposal of the bodies (and parts of them) after their examination has been concluded;
-- (b) in relation to bodies or *(Extent: S)*[^key-d8481c2215fec0b450f7230e3ebf0583] parts of bodies the possession of which is authorised under section 5(5)[^M_F_83ace9df-1d68-45db-db29-ba90b18c2dbe], with a view to securing that they are decently cared for; *(Extent: S)*[^key-c197298d28f60a0b29f63be3f14e87a8]
+- (a) in relation to bodies the anatomical examination of which is lawful by virtue of section 4 or section 4A *(Extent: S)*[^c-102fbf8075f801e2dd2f27143a6918fa], with a view to securing their efficient and orderly examination and the decent disposal of the bodies (and parts of them) after their examination has been concluded;
+- (b) in relation to bodies or *(Extent: S)*[^c-d8481c2215fec0b450f7230e3ebf0583] parts of bodies the possession of which is authorised under section 5(5)[^M_F_83ace9df-1d68-45db-db29-ba90b18c2dbe], with a view to securing that they are decently cared for; *(Extent: S)*[^c-c197298d28f60a0b29f63be3f14e87a8]
 
 *Extent: S*
 
@@ -444,7 +444,7 @@ may, before the expiry of the period of 21 days beginning with the day the decis
 
 (4) The power to make regulations under this section shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 8A. Code of practice[^key-afec84897b9ee0bedd4289f09d3bb7a5]
+### 8A. Code of practice[^c-afec84897b9ee0bedd4289f09d3bb7a5]
 
 *Extent: S*
 
@@ -506,11 +506,11 @@ by the Scottish Ministers.
 
 ### 10. Power to inspect records and premises.
 
-(1) An inspector duly authorised in writing by the Secretary of State may (subject to subsections (3) and (4)) require the production of, and inspect and take copies of, any records which a person is required to retain by virtue of section 3(5), 5(6) or 6A(12) *(Extent: S)*[^key-e296ee83a87e7df6cf48c166c4b7b7e0].
+(1) An inspector duly authorised in writing by the Secretary of State may (subject to subsections (3) and (4)) require the production of, and inspect and take copies of, any records which a person is required to retain by virtue of section 3(5), 5(6) or 6A(12) *(Extent: S)*[^c-e296ee83a87e7df6cf48c166c4b7b7e0].
 
 (2) Where—
 
-- (a) an inspector has reasonable cause to believe that an offence under section 11(1) *(Extent: S)*[^key-dabfb3c09564974020c41efa4f93fba3] or (2) or against regulations under section 8 (as mentioned in section 11(4)) has been or is being committed on any premises, and
+- (a) an inspector has reasonable cause to believe that an offence under section 11(1) *(Extent: S)*[^c-dabfb3c09564974020c41efa4f93fba3] or (2) or against regulations under section 8 (as mentioned in section 11(4)) has been or is being committed on any premises, and
 - (b) he is duly authorised in writing by the Secretary of State to enter and inspect the premises with a view to ascertaining whether the offence has been or is being committed,
 
 he may (subject to subsections (3) to (5)) enter and inspect the premises for that purpose.
@@ -537,7 +537,7 @@ he may (subject to subsections (3) to (5)) enter and inspect the premises for th
 
 - (a) carries out an anatomical examination in contravention of section 2(1), or
 - (b) has in his possession an anatomical specimen in contravention of section 2(2), [^M_F_40862e15-434c-45dd-e63f-d19deb0833d2]...
-- (c) has in his possession a body or part of a body in contravention of section 5(2), or *(Extent: S)*[^key-132fb48f55c27e1526acee98883c922e]
+- (c) has in his possession a body or part of a body in contravention of section 5(2), or *(Extent: S)*[^c-132fb48f55c27e1526acee98883c922e]
 
 *Extent: S*
 
@@ -553,9 +553,9 @@ shall be guilty of an offence.
 
 (5) A person who—
 
-- (a) fails without reasonable excuse to comply with section 3(5), 5(6) or 6A(12) *(Extent: S)*[^key-03f937b89be633bcca9872c48f48b1f8], or
-- (b) in purported compliance with section 3(5), 5(6) or 6A(12) *(Extent: S)*[^key-dcc9bced3eba8760feec31e2d8b17033] compiles a record which he knows is false in a material particular, or
-- (c) alters a record compiled in compliance with section 3(5), 5(6) or 6A(12) *(Extent: S)*[^key-5ba45efe48a0ccc28dea8c8184669b8a] so that the record becomes to his knowledge false in a material particular, or
+- (a) fails without reasonable excuse to comply with section 3(5), 5(6) or 6A(12) *(Extent: S)*[^c-03f937b89be633bcca9872c48f48b1f8], or
+- (b) in purported compliance with section 3(5), 5(6) or 6A(12) *(Extent: S)*[^c-dcc9bced3eba8760feec31e2d8b17033] compiles a record which he knows is false in a material particular, or
+- (c) alters a record compiled in compliance with section 3(5), 5(6) or 6A(12) *(Extent: S)*[^c-5ba45efe48a0ccc28dea8c8184669b8a] so that the record becomes to his knowledge false in a material particular, or
 - (d) fails without reasonable excuse to comply with a requirement imposed by virtue of section 10(1), or
 - (e) intentionally obstructs an inspector in the exercise of his powers under section 10(1) or (2), or
 - (f) discloses information in contravention of section 10(6),
@@ -572,11 +572,11 @@ or (2) shall be liable on summary conviction to a fine not exceeding level 3 on 
 
 shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale [^c7570751]. . ..
 
-(9) Where an offence under this section or against regulations under section 8 is committed by a body corporate and is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of any director, member, *(Extent: S)*[^key-0fded1afed2bd011e05d2faffe2379e8] manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
+(9) Where an offence under this section or against regulations under section 8 is committed by a body corporate and is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of any director, member, *(Extent: S)*[^c-0fded1afed2bd011e05d2faffe2379e8] manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of the offence and shall be liable to be proceeded against and punished accordingly.
 
 *Extent: S*
 
-(9A)[^key-510771db86d1a2e7e8fdad7d88573fed] Where an offence under this section or against regulations under section 8 is committed by a Scottish partnership and is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of a partner or a person who was purporting to act in such capacity, that person, as well as the partnership, is guilty of the offence and liable to be proceeded against and punished accordingly.
+(9A)[^c-510771db86d1a2e7e8fdad7d88573fed] Where an offence under this section or against regulations under section 8 is committed by a Scottish partnership and is proved to have been committed with the consent or connivance of or to be attributable to any neglect on the part of a partner or a person who was purporting to act in such capacity, that person, as well as the partnership, is guilty of the offence and liable to be proceeded against and punished accordingly.
 
 *Extent: S*
 
@@ -584,7 +584,7 @@ shall be liable on summary conviction to a fine not exceeding level 3 on the sta
 
 (10) If a person carries out an anatomical examination or has possession of an anatomical specimen or of a body falling within section 5(1) or part of such a body, and the circumstances are such that he commits no offence under subsection (1) or (2) above or against regulations under section 8, he shall be guilty of no other offence of carrying out such examination or having such possession.
 
-### 11A. Interpretation[^key-3bc6a87b4533d56a4fc5a89639c0825d]
+### 11A. Interpretation[^c-3bc6a87b4533d56a4fc5a89639c0825d]
 
 *Extent: S*
 
@@ -625,31 +625,31 @@ may include such transitionals or savings as appear to the Secretary of State to
 
 [^M_F_3627c94d-4cab-4188-af1e-1c3fb7baac2c]: Textual amendment: Act repealed (E.W.) (1.9.2006) by [Human Tissue Act 2004 (c. 30)](https://www.legislation.gov.uk/ukpga/2004/30), [ss. 59(8)(9)](https://www.legislation.gov.uk/ukpga/2004/30/section/59/8/9), [60(2)](https://www.legislation.gov.uk/ukpga/2004/30/section/60/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/30/schedule/7/part/1) (with [s. 58](https://www.legislation.gov.uk/ukpga/2004/30/section/58)); [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
 
-[^key-06da2dce3075fbe859c1401b1fdf43bb]: Modification: S. 1(1) extended (S.) (1.9.2006) by [The Human Tissue (Scotland) Act 2006 (Anatomy Act 1984 Transitional Provisions) Order 2006 (S.S.I. 2006/340)](https://www.legislation.gov.uk/ssi/2006/340), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/340/article/1/1), [2](https://www.legislation.gov.uk/ssi/2006/340/article/2), [3](https://www.legislation.gov.uk/ssi/2006/340/article/3)
+[^c-06da2dce3075fbe859c1401b1fdf43bb]: Modification: S. 1(1) extended (S.) (1.9.2006) by [The Human Tissue (Scotland) Act 2006 (Anatomy Act 1984 Transitional Provisions) Order 2006 (S.S.I. 2006/340)](https://www.legislation.gov.uk/ssi/2006/340), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/340/article/1/1), [2](https://www.legislation.gov.uk/ssi/2006/340/article/2), [3](https://www.legislation.gov.uk/ssi/2006/340/article/3)
 
-[^key-1e5052b42490263c498d4cd7793d84f2]: Textual amendment: S. 1(1) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(2)(a)](https://www.legislation.gov.uk/asp/2006/4/section/53/2/a), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-1e5052b42490263c498d4cd7793d84f2]: Textual amendment: S. 1(1) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(2)(a)](https://www.legislation.gov.uk/asp/2006/4/section/53/2/a), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-f6f17895183e715fdc56ecc8120f115d]: Textual amendment: S. 1(2A) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(2)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/2/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-f6f17895183e715fdc56ecc8120f115d]: Textual amendment: S. 1(2A) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(2)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/2/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-be0b01ccdceb63721f0db6c721344bf0]: Textual amendment: Words in s. 1(4) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(2)(c)(i)](https://www.legislation.gov.uk/asp/2006/4/section/53/2/c/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-be0b01ccdceb63721f0db6c721344bf0]: Textual amendment: Words in s. 1(4) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(2)(c)(i)](https://www.legislation.gov.uk/asp/2006/4/section/53/2/c/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-2bde2d71cc66fcb45b75520f933ef9ec]: Textual amendment: Words in s. 1(4) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(2)(c)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/2/c/ii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-2bde2d71cc66fcb45b75520f933ef9ec]: Textual amendment: Words in s. 1(4) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(2)(c)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/2/c/ii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-bfe52b4213ad0e7cfc93201ca412fe67]: Textual amendment: Words in s. 1(5) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(2)(d)](https://www.legislation.gov.uk/asp/2006/4/section/53/2/d), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-bfe52b4213ad0e7cfc93201ca412fe67]: Textual amendment: Words in s. 1(5) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(2)(d)](https://www.legislation.gov.uk/asp/2006/4/section/53/2/d), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-07b0fecf1d5ab3e38be441324f4f179e]: Textual amendment: Words in s. 1(5) substituted (S.) (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 28(1)(a)](https://www.legislation.gov.uk/asp/2019/11/section/28/1/a), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-07b0fecf1d5ab3e38be441324f4f179e]: Textual amendment: Words in s. 1(5) substituted (S.) (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 28(1)(a)](https://www.legislation.gov.uk/asp/2019/11/section/28/1/a), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-9e5526cfb7e9214a8ca646f0cdbee901]: Textual amendment: Words in s. 1(5) substituted (S.) (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 28(1)(b)](https://www.legislation.gov.uk/asp/2019/11/section/28/1/b), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-9e5526cfb7e9214a8ca646f0cdbee901]: Textual amendment: Words in s. 1(5) substituted (S.) (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 28(1)(b)](https://www.legislation.gov.uk/asp/2019/11/section/28/1/b), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-5e6c32a7f8b070341aea532958fb269b]: Textual amendment: Words in s. 2(1)(c) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(3)(a)(i)](https://www.legislation.gov.uk/asp/2006/4/section/53/3/a/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-5e6c32a7f8b070341aea532958fb269b]: Textual amendment: Words in s. 2(1)(c) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(3)(a)(i)](https://www.legislation.gov.uk/asp/2006/4/section/53/3/a/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-a3cd3e6ff777a56054a978c978a42f92]: Textual amendment: Words in s. 2(1)(d) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(3)(a)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/3/a/ii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-a3cd3e6ff777a56054a978c978a42f92]: Textual amendment: Words in s. 2(1)(d) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(3)(a)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/3/a/ii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-361dce95b977f18d628f3e0f64cabbf6]: Textual amendment: Words in s. 2(2)(b) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(3)(b)(i)](https://www.legislation.gov.uk/asp/2006/4/section/53/3/b/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-361dce95b977f18d628f3e0f64cabbf6]: Textual amendment: Words in s. 2(2)(b) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(3)(b)(i)](https://www.legislation.gov.uk/asp/2006/4/section/53/3/b/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-c092f8a6acf5ad375174298f488c8722]: Textual amendment: Word in s. 2(2)(c) substituted (S.) (1.1.2007) by [The Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596)](https://www.legislation.gov.uk/ssi/2006/596), [arts. 1](https://www.legislation.gov.uk/ssi/2006/596/article/1), [3](https://www.legislation.gov.uk/ssi/2006/596/article/3)
+[^c-c092f8a6acf5ad375174298f488c8722]: Textual amendment: Word in s. 2(2)(c) substituted (S.) (1.1.2007) by [The Registration Services (Consequential Provisions) (Scotland) Order 2006 (S.S.I. 2006/596)](https://www.legislation.gov.uk/ssi/2006/596), [arts. 1](https://www.legislation.gov.uk/ssi/2006/596/article/1), [3](https://www.legislation.gov.uk/ssi/2006/596/article/3)
 
-[^key-83c13e20b683937a2b7c5b8d76d46c5a]: Textual amendment: Words in s. 2(2)(c) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(3)(b)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/3/b/ii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-83c13e20b683937a2b7c5b8d76d46c5a]: Textual amendment: Words in s. 2(2)(c) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(3)(b)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/3/b/ii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
 [^M_F_5d2a61fd-3cc4-4bdd-bead-ee84284ea7ea]: Textual amendment: Words in s. 2(4) repealed (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(3)(c)](https://www.legislation.gov.uk/asp/2006/4/section/53/3/c), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
@@ -657,19 +657,19 @@ may include such transitionals or savings as appear to the Secretary of State to
 
 [^M_F_b51e46e6-9349-4959-9893-e1a26d207662]: Textual amendment: Words in s. 3(3)(b) repealed (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(4)](https://www.legislation.gov.uk/asp/2006/4/section/53/4), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-3f0107a2d6cb0c11850a75f029dec5a0]: Textual amendment: Words in s. 4(1) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(5)(a)](https://www.legislation.gov.uk/asp/2006/4/section/53/5/a), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-3f0107a2d6cb0c11850a75f029dec5a0]: Textual amendment: Words in s. 4(1) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(5)(a)](https://www.legislation.gov.uk/asp/2006/4/section/53/5/a), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-6febd73031476fae421a506aeaffa81c]: Textual amendment: S. 4(1A)-(1D) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(5)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/5/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-6febd73031476fae421a506aeaffa81c]: Textual amendment: S. 4(1A)-(1D) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(5)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/5/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-145cdb9e4e559bcbab63c72d5c376294]: Modification: S. 4(2) applied (S.) (1.9.2006) by [The Human Tissue (Scotland) Act 2006 (Anatomy Act 1984 Transitional Provisions) Order 2006 (S.S.I. 2006/340)](https://www.legislation.gov.uk/ssi/2006/340), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/340/article/1/1), [2](https://www.legislation.gov.uk/ssi/2006/340/article/2), [3](https://www.legislation.gov.uk/ssi/2006/340/article/3)
+[^c-145cdb9e4e559bcbab63c72d5c376294]: Modification: S. 4(2) applied (S.) (1.9.2006) by [The Human Tissue (Scotland) Act 2006 (Anatomy Act 1984 Transitional Provisions) Order 2006 (S.S.I. 2006/340)](https://www.legislation.gov.uk/ssi/2006/340), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/340/article/1/1), [2](https://www.legislation.gov.uk/ssi/2006/340/article/2), [3](https://www.legislation.gov.uk/ssi/2006/340/article/3)
 
 [^M_F_4ba01c61-b3f7-46bc-8236-0a8803822845]: Textual amendment: S. 4(3) repealed (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(5)(c)](https://www.legislation.gov.uk/asp/2006/4/section/53/5/c), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-bc65f079967b084329a6a2c0d93fc783]: Textual amendment: Words in s. 4(4) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(5)(d)](https://www.legislation.gov.uk/asp/2006/4/section/53/5/d), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-bc65f079967b084329a6a2c0d93fc783]: Textual amendment: Words in s. 4(4) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(5)(d)](https://www.legislation.gov.uk/asp/2006/4/section/53/5/d), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-28bc4964dab34a8642dd8ba0aed26bff]: Textual amendment: S. 4(5) repealed (1.9.2006) by [Human Tissue Act 2004 (c. 30)](https://www.legislation.gov.uk/ukpga/2004/30), [ss. 59(8)(9)](https://www.legislation.gov.uk/ukpga/2004/30/section/59/8/9), [60(2)](https://www.legislation.gov.uk/ukpga/2004/30/section/60/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/30/schedule/7/part/1); [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4) , [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-28bc4964dab34a8642dd8ba0aed26bff]: Textual amendment: S. 4(5) repealed (1.9.2006) by [Human Tissue Act 2004 (c. 30)](https://www.legislation.gov.uk/ukpga/2004/30), [ss. 59(8)(9)](https://www.legislation.gov.uk/ukpga/2004/30/section/59/8/9), [60(2)](https://www.legislation.gov.uk/ukpga/2004/30/section/60/2), [Sch. 7 Pt. 1](https://www.legislation.gov.uk/ukpga/2004/30/schedule/7/part/1); [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4) , [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
 
-[^key-0c9c8ba1698ae29c141eb59f13009cdf]: Textual amendment: Words in s. 4(6) substituted (S.) (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/4); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-0c9c8ba1698ae29c141eb59f13009cdf]: Textual amendment: Words in s. 4(6) substituted (S.) (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 4](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/4); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
 [^M_F_4372f8f4-1017-46ce-e9c9-a03fff1ca94e]: Textual amendment: Words in s. 4(6) repealed (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(5)(e)](https://www.legislation.gov.uk/asp/2006/4/section/53/5/e), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
@@ -681,7 +681,7 @@ may include such transitionals or savings as appear to the Secretary of State to
 
 [^c7570721]: Textual amendment: S. 4(9)(b) and word inserted (S.) (1.4.2002) by [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8), [s. 79](https://www.legislation.gov.uk/asp/2001/8/section/79), [Sch. 3 para. 10(c)](https://www.legislation.gov.uk/asp/2001/8/schedule/3/paragraph/10/c); [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2002/162/article/1/2), [2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
-[^key-238cc695d320ce0d85040fc78039f7ea]: Textual amendment: Words in s. 4(9)(b) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/3)
+[^c-238cc695d320ce0d85040fc78039f7ea]: Textual amendment: Words in s. 4(9)(b) substituted (28.10.2011) by [The Public Services Reform (Scotland) Act 2010 (Consequential Modifications of Enactments) Order 2011 (S.I. 2011/2581)](https://www.legislation.gov.uk/uksi/2011/2581), [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2011/2581/article/1/2/b), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2011/2581/schedule/2/paragraph/3)
 
 [^c7570731]: Textual amendment: Words in s. 4(9) inserted (S.) (1.4.2002) by [2001 asp 8](https://www.legislation.gov.uk/asp/2001/8), [s. 79](https://www.legislation.gov.uk/asp/2001/8/section/79), [Sch. 3 para. 10(d)](https://www.legislation.gov.uk/asp/2001/8/schedule/3/paragraph/10/d); [S.S.I. 2002/162](https://www.legislation.gov.uk/ssi/2002/162), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2002/162/article/1/2), [2(h)](https://www.legislation.gov.uk/ssi/2002/162/article/2/h) (subject to [arts. 3-13](https://www.legislation.gov.uk/ssi/2002/162/article/3))
 
@@ -691,83 +691,83 @@ may include such transitionals or savings as appear to the Secretary of State to
 
 [^M_F_4c74e91c-d1e8-4dfc-9aa8-9c90f22b33b0]: Textual amendment: S. 4(11) repealed (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(5)(h)](https://www.legislation.gov.uk/asp/2006/4/section/53/5/h), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-b96e59bf47de9bf3ce856962bb57716e]: Textual amendment: Ss. 4A, 4B inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(6)](https://www.legislation.gov.uk/asp/2006/4/section/53/6), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
+[^c-b96e59bf47de9bf3ce856962bb57716e]: Textual amendment: Ss. 4A, 4B inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(6)](https://www.legislation.gov.uk/asp/2006/4/section/53/6), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
 
-[^key-b3bcbaca2877fb6a0a79b4bc389ba552]: Textual amendment: Words in [s. 4B(1)](https://www.legislation.gov.uk/ukpga/1984/14/section/4B/1) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2026/50/regulation/4)
+[^c-b3bcbaca2877fb6a0a79b4bc389ba552]: Textual amendment: Words in [s. 4B(1)](https://www.legislation.gov.uk/ukpga/1984/14/section/4B/1) substituted (2.3.2026) by [The Hydrolysis (Scotland) (No. 1) Regulations 2026 (S.S.I. 2026/50)](https://www.legislation.gov.uk/ssi/2026/50), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2026/50/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2026/50/regulation/4)
 
-[^key-5348c763b3288eb82062c3055ba46247]: Textual amendment: S. 5(1) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(a)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/a), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-5348c763b3288eb82062c3055ba46247]: Textual amendment: S. 5(1) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(a)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/a), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-2394f8dd59094412ae744d9e18946c25]: Textual amendment: Words in s. 5(2) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-2394f8dd59094412ae744d9e18946c25]: Textual amendment: Words in s. 5(2) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-c13f56912c396e27d8886bcf70f58438]: Textual amendment: S. 5(4)(4A) substituted for s. 5(4) (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(c)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/c), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-c13f56912c396e27d8886bcf70f58438]: Textual amendment: S. 5(4)(4A) substituted for s. 5(4) (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(c)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/c), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-3e2844d09c52f3eeddd6aa5642fd8f38]: Textual amendment: Word in s. 5(5) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(d)(i)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/d/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-3e2844d09c52f3eeddd6aa5642fd8f38]: Textual amendment: Word in s. 5(5) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(d)(i)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/d/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-a4a18016f3cd82085cca04ff36eb7454]: Textual amendment: Words in s. 5(5) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(d)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/d/ii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-a4a18016f3cd82085cca04ff36eb7454]: Textual amendment: Words in s. 5(5) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(d)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/d/ii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-666d7ecb43eab49046ee5bf1004f506c]: Textual amendment: Words in s. 5(5) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(d)(iii)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/d/iii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-666d7ecb43eab49046ee5bf1004f506c]: Textual amendment: Words in s. 5(5) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(d)(iii)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/d/iii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-0eea900ea53ea964fa6609c3ad56b1b3]: Textual amendment: Words in s. 5(6)(a) inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(e)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/e), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
+[^c-0eea900ea53ea964fa6609c3ad56b1b3]: Textual amendment: Words in s. 5(6)(a) inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(7)(e)](https://www.legislation.gov.uk/asp/2006/4/section/53/7/e), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
 
 [^M_F_734679bc-78bf-4cc7-9fce-996e945d11c3]: Textual amendment: Words in s. 6(1) repealed (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(8)(a)(i)](https://www.legislation.gov.uk/asp/2006/4/section/53/8/a/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-4ca1c1d04d4227a04016e21397612799]: Textual amendment: Word in s. 6(1) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(8)(a)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/8/a/ii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-4ca1c1d04d4227a04016e21397612799]: Textual amendment: Word in s. 6(1) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(8)(a)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/8/a/ii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-2795bb0e7d6d1253e7314a40939610f5]: Textual amendment: Words in s. 6(1) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(8)(a)(iii)](https://www.legislation.gov.uk/asp/2006/4/section/53/8/a/iii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-2795bb0e7d6d1253e7314a40939610f5]: Textual amendment: Words in s. 6(1) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(8)(a)(iii)](https://www.legislation.gov.uk/asp/2006/4/section/53/8/a/iii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-67b93b25cb1a7e6a681732b7e1a54221]: Modification: S. 6(2) applied (S.) (1.9.2006) by [The Human Tissue (Scotland) Act 2006 (Anatomy Act 1984 Transitional Provisions) Order 2006 (S.S.I. 2006/340)](https://www.legislation.gov.uk/ssi/2006/340), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/340/article/1/1), [2](https://www.legislation.gov.uk/ssi/2006/340/article/2), [3](https://www.legislation.gov.uk/ssi/2006/340/article/3)
+[^c-67b93b25cb1a7e6a681732b7e1a54221]: Modification: S. 6(2) applied (S.) (1.9.2006) by [The Human Tissue (Scotland) Act 2006 (Anatomy Act 1984 Transitional Provisions) Order 2006 (S.S.I. 2006/340)](https://www.legislation.gov.uk/ssi/2006/340), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/340/article/1/1), [2](https://www.legislation.gov.uk/ssi/2006/340/article/2), [3](https://www.legislation.gov.uk/ssi/2006/340/article/3)
 
-[^key-8a703c29cbfdbc44739fa7ccf8d9f57e]: Textual amendment: S. 6(3) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(8)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/8/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-8a703c29cbfdbc44739fa7ccf8d9f57e]: Textual amendment: S. 6(3) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(8)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/8/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-039fa7fc3ed0885b413d34b45147ccba]: Textual amendment: S. 6A and cross-heading inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(9)](https://www.legislation.gov.uk/asp/2006/4/section/53/9), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
+[^c-039fa7fc3ed0885b413d34b45147ccba]: Textual amendment: S. 6A and cross-heading inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(9)](https://www.legislation.gov.uk/asp/2006/4/section/53/9), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
 
-[^key-b4a36a3c297d2f785fb0ca6b3a6fdc94]: Modification: S. 6A(4)(a) modified (S.) (1.9.2006) by [The Human Tissue (Scotland) Act 2006 (Anatomy Act 1984 Transitional Provisions) Order 2006 (S.S.I. 2006/340)](https://www.legislation.gov.uk/ssi/2006/340), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/340/article/1/1), [4(1)](https://www.legislation.gov.uk/ssi/2006/340/article/4/1)
+[^c-b4a36a3c297d2f785fb0ca6b3a6fdc94]: Modification: S. 6A(4)(a) modified (S.) (1.9.2006) by [The Human Tissue (Scotland) Act 2006 (Anatomy Act 1984 Transitional Provisions) Order 2006 (S.S.I. 2006/340)](https://www.legislation.gov.uk/ssi/2006/340), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/340/article/1/1), [4(1)](https://www.legislation.gov.uk/ssi/2006/340/article/4/1)
 
-[^key-6170defb7f7fb06fd52da37fa819eea6]: Modification: S. 6A(6)(a) modified (S.) (1.9.2006) by [The Human Tissue (Scotland) Act 2006 (Anatomy Act 1984 Transitional Provisions) Order 2006 (S.S.I. 2006/340)](https://www.legislation.gov.uk/ssi/2006/340), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/340/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2006/340/article/4/3)
+[^c-6170defb7f7fb06fd52da37fa819eea6]: Modification: S. 6A(6)(a) modified (S.) (1.9.2006) by [The Human Tissue (Scotland) Act 2006 (Anatomy Act 1984 Transitional Provisions) Order 2006 (S.S.I. 2006/340)](https://www.legislation.gov.uk/ssi/2006/340), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2006/340/article/1/1), [4(3)](https://www.legislation.gov.uk/ssi/2006/340/article/4/3)
 
-[^key-fb4b60509b5a607371957325a1e11608]: Textual amendment: Words in s. 7(7) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(10)(a)](https://www.legislation.gov.uk/asp/2006/4/section/53/10/a), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-fb4b60509b5a607371957325a1e11608]: Textual amendment: Words in s. 7(7) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(10)(a)](https://www.legislation.gov.uk/asp/2006/4/section/53/10/a), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-a9723329cb87f6e560fc719bb6f10a85]: Textual amendment: S. 7(7A) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(10)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/10/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-a9723329cb87f6e560fc719bb6f10a85]: Textual amendment: S. 7(7A) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(10)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/10/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-1388ec2258bac211d6f148a1dedfc056]: Textual amendment: Words in s. 7(8) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(10)(c)](https://www.legislation.gov.uk/asp/2006/4/section/53/10/c), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-1388ec2258bac211d6f148a1dedfc056]: Textual amendment: Words in s. 7(8) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(10)(c)](https://www.legislation.gov.uk/asp/2006/4/section/53/10/c), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-6d7298acc956e4926ae57309328e5c24]: Textual amendment: S. 7A inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(11)](https://www.legislation.gov.uk/asp/2006/4/section/53/11), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-6d7298acc956e4926ae57309328e5c24]: Textual amendment: S. 7A inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(11)](https://www.legislation.gov.uk/asp/2006/4/section/53/11), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-102fbf8075f801e2dd2f27143a6918fa]: Textual amendment: Words in s. 8(1)(a) inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(12)(a)](https://www.legislation.gov.uk/asp/2006/4/section/53/12/a), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
+[^c-102fbf8075f801e2dd2f27143a6918fa]: Textual amendment: Words in s. 8(1)(a) inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(12)(a)](https://www.legislation.gov.uk/asp/2006/4/section/53/12/a), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
 
-[^key-d8481c2215fec0b450f7230e3ebf0583]: Textual amendment: Words in s. 8(1)(b) inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(12)(b)(i)](https://www.legislation.gov.uk/asp/2006/4/section/53/12/b/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
+[^c-d8481c2215fec0b450f7230e3ebf0583]: Textual amendment: Words in s. 8(1)(b) inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(12)(b)(i)](https://www.legislation.gov.uk/asp/2006/4/section/53/12/b/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
 
 [^M_F_83ace9df-1d68-45db-db29-ba90b18c2dbe]: Textual amendment: Words in s. 8(1)(b) substituted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(12)(b)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/12/b/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
 
-[^key-c197298d28f60a0b29f63be3f14e87a8]: Textual amendment: S. 8(1)(c) inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(12)(c)](https://www.legislation.gov.uk/asp/2006/4/section/53/12/c), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
+[^c-c197298d28f60a0b29f63be3f14e87a8]: Textual amendment: S. 8(1)(c) inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(12)(c)](https://www.legislation.gov.uk/asp/2006/4/section/53/12/c), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
 
-[^key-afec84897b9ee0bedd4289f09d3bb7a5]: Textual amendment: S. 8A inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(13)](https://www.legislation.gov.uk/asp/2006/4/section/53/13), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
+[^c-afec84897b9ee0bedd4289f09d3bb7a5]: Textual amendment: S. 8A inserted (S.) (12.5.2006 for specified purposes, 1.9.2006 in so far as not already in force) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(13)](https://www.legislation.gov.uk/asp/2006/4/section/53/13), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [arts. 2](https://www.legislation.gov.uk/ssi/2006/251/article/2), [3](https://www.legislation.gov.uk/ssi/2006/251/article/3), [sch.](https://www.legislation.gov.uk/ssi/2006/251/schedule)
 
 [^M_F_1b286b58-0ec1-488c-c277-0a35d4842e92]: Textual amendment: Words in s. 9(1) repealed (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(14)](https://www.legislation.gov.uk/asp/2006/4/section/53/14), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-e296ee83a87e7df6cf48c166c4b7b7e0]: Textual amendment: Words in s. 10(1) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(15)(a)](https://www.legislation.gov.uk/asp/2006/4/section/53/15/a), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-e296ee83a87e7df6cf48c166c4b7b7e0]: Textual amendment: Words in s. 10(1) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(15)(a)](https://www.legislation.gov.uk/asp/2006/4/section/53/15/a), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-dabfb3c09564974020c41efa4f93fba3]: Textual amendment: Words in s. 10(2)(a) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(15)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/15/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-dabfb3c09564974020c41efa4f93fba3]: Textual amendment: Words in s. 10(2)(a) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(15)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/15/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
 [^M_F_795e7ab8-ed71-4854-86da-ac8c212a4597]: Textual amendment: S. 10(5) repealed (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(15)(c)](https://www.legislation.gov.uk/asp/2006/4/section/53/15/c), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
 [^M_F_40862e15-434c-45dd-e63f-d19deb0833d2]: Textual amendment: Word in s. 11(1) repealed (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(a)(i)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/a/i), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-132fb48f55c27e1526acee98883c922e]: Textual amendment: S. 11(1)(d) and word inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(a)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/a/ii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-132fb48f55c27e1526acee98883c922e]: Textual amendment: S. 11(1)(d) and word inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(a)(ii)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/a/ii), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-03f937b89be633bcca9872c48f48b1f8]: Textual amendment: Words in s. 11(5)(a) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-03f937b89be633bcca9872c48f48b1f8]: Textual amendment: Words in s. 11(5)(a) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-dcc9bced3eba8760feec31e2d8b17033]: Textual amendment: Words in s. 11(5)(b) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-dcc9bced3eba8760feec31e2d8b17033]: Textual amendment: Words in s. 11(5)(b) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-5ba45efe48a0ccc28dea8c8184669b8a]: Textual amendment: Words in s. 11(5)(c) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-5ba45efe48a0ccc28dea8c8184669b8a]: Textual amendment: Words in s. 11(5)(c) substituted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(b)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/b), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
 [^c7570751]: Textual amendment: Words in s. 11(6)(7)(8) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.XIV](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/XIV) Group 2.
 
-[^key-0fded1afed2bd011e05d2faffe2379e8]: Textual amendment: Word in s. 11(9) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(c)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/c), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-0fded1afed2bd011e05d2faffe2379e8]: Textual amendment: Word in s. 11(9) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(c)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/c), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-510771db86d1a2e7e8fdad7d88573fed]: Textual amendment: S. 11(9A)(9B) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(d)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/d), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-510771db86d1a2e7e8fdad7d88573fed]: Textual amendment: S. 11(9A)(9B) inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(16)(d)](https://www.legislation.gov.uk/asp/2006/4/section/53/16/d), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
-[^key-3bc6a87b4533d56a4fc5a89639c0825d]: Textual amendment: S. 11A inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(17)](https://www.legislation.gov.uk/asp/2006/4/section/53/17), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-3bc6a87b4533d56a4fc5a89639c0825d]: Textual amendment: S. 11A inserted (S.) (1.9.2006) by [Human Tissue (Scotland) Act 2006 (asp 4)](https://www.legislation.gov.uk/asp/2006/4), [ss. 53(17)](https://www.legislation.gov.uk/asp/2006/4/section/53/17), [62(2)](https://www.legislation.gov.uk/asp/2006/4/section/62/2); [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
 
 [^c7570781]: Marginal citation: [1832 c. 75](https://www.legislation.gov.uk/ukpga/1832/75).
 

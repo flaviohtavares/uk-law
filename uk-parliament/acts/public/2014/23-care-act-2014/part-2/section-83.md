@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83. Imposition of licence conditions on NHS foundation trusts[^key-0e428bb1db2a0e9ac4f2a504c39af3d5]
+## 83. Imposition of licence conditions on NHS foundation trusts[^c-0e428bb1db2a0e9ac4f2a504c39af3d5]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e428bb1db2a0e9ac4f2a504c39af3d5]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2014/23/section/83) in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(v)](https://www.legislation.gov.uk/uksi/2015/993/article/2/v)
+[^c-0e428bb1db2a0e9ac4f2a504c39af3d5]: Commencement: [S. 83](https://www.legislation.gov.uk/ukpga/2014/23/section/83) in force at 1.4.2015 by [S.I. 2015/993](https://www.legislation.gov.uk/uksi/2015/993), [art. 2(v)](https://www.legislation.gov.uk/uksi/2015/993/article/2/v)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) If SFRS[^key-6d6989b382c9c47963fbf7d5030dc73e] requests Scottish Water to provide a supply or pressure of water for a purpose mentioned in section 17(2) that is greater than it would otherwise provide, it shall take all necessary steps in order to do so.
+(1) If SFRS[^c-6d6989b382c9c47963fbf7d5030dc73e] requests Scottish Water to provide a supply or pressure of water for a purpose mentioned in section 17(2) that is greater than it would otherwise provide, it shall take all necessary steps in order to do so.
 
 (2) For the purposes of complying with its obligation under subsection (1) Scottish Water may shut off the water from the mains and pipes in any area.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d6989b382c9c47963fbf7d5030dc73e]: Textual amendment: Word in s. 20(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(6)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/6); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-6d6989b382c9c47963fbf7d5030dc73e]: Textual amendment: Word in s. 20(1) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 68(6)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/68/6); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

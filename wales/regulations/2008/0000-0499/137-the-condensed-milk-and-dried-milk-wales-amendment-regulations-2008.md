@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Condensed Milk and Dried Milk (Wales) (Amendment) Regulations 2008 (revoked)[^key-a9c44850b8971bba8c87431b49449152]
+The Condensed Milk and Dried Milk (Wales) (Amendment) Regulations 2008 (revoked)[^c-a9c44850b8971bba8c87431b49449152]
 
 Made
 
@@ -45,40 +45,40 @@ Coming into force
 
 22 February 2008
 
-[^key-a9c44850b8971bba8c87431b49449152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9c44850b8971bba8c87431b49449152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title application and commencement[^key-a9c44850b8971bba8c87431b49449152]
+## 1. Title application and commencement[^c-a9c44850b8971bba8c87431b49449152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Condensed Milk and Dried Milk (Wales) Regulations 2003[^key-a9c44850b8971bba8c87431b49449152]
+## 2. Amendment of the Condensed Milk and Dried Milk (Wales) Regulations 2003[^c-a9c44850b8971bba8c87431b49449152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-a9c44850b8971bba8c87431b49449152]
+## 3.[^c-a9c44850b8971bba8c87431b49449152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-a9c44850b8971bba8c87431b49449152]
+## 4.[^c-a9c44850b8971bba8c87431b49449152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Consequential amendments[^key-a9c44850b8971bba8c87431b49449152]
+## 5. Consequential amendments[^c-a9c44850b8971bba8c87431b49449152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6.[^key-a9c44850b8971bba8c87431b49449152]
+## 6.[^c-a9c44850b8971bba8c87431b49449152]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a9c44850b8971bba8c87431b49449152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9c44850b8971bba8c87431b49449152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a9c44850b8971bba8c87431b49449152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a9c44850b8971bba8c87431b49449152]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a9c44850b8971bba8c87431b49449152]: Textual amendment: Regulations revoked (26.3.2018) by [The Condensed Milk and Dried Milk (Wales) Regulations 2018 (S.I. 2018/275)](https://www.legislation.gov.uk/wsi/2018/275), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2018/275/regulation/8)
+[^c-a9c44850b8971bba8c87431b49449152]: Textual amendment: Regulations revoked (26.3.2018) by [The Condensed Milk and Dried Milk (Wales) Regulations 2018 (S.I. 2018/275)](https://www.legislation.gov.uk/wsi/2018/275), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/275/regulation/1/3), [8](https://www.legislation.gov.uk/wsi/2018/275/regulation/8)

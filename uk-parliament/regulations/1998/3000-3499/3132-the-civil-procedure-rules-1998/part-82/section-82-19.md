@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82.19. Scope of this Section[^key-c2b447dcce072522f2e795ce120ccaaf]
+## 82.19. Scope of this Section[^c-c2b447dcce072522f2e795ce120ccaaf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Section contains rules about applications under section 6(2) of the Act (ap
 
 ## Annotations
 
-[^key-c2b447dcce072522f2e795ce120ccaaf]: Textual amendment: Pt. 82 inserted (27.6.2013) by [The Civil Procedure (Amendment No. 5) Rules 2013 (S.I. 2013/1571)](https://www.legislation.gov.uk/uksi/2013/1571), [rule 1](https://www.legislation.gov.uk/uksi/2013/1571/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/1571/schedule)
+[^c-c2b447dcce072522f2e795ce120ccaaf]: Textual amendment: Pt. 82 inserted (27.6.2013) by [The Civil Procedure (Amendment No. 5) Rules 2013 (S.I. 2013/1571)](https://www.legislation.gov.uk/uksi/2013/1571), [rule 1](https://www.legislation.gov.uk/uksi/2013/1571/rule/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/1571/schedule)

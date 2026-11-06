@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Temporary residents[^key-a239bbbffebb5424a4b9d8fe5d55016e]
+## 25. Temporary residents[^c-a239bbbffebb5424a4b9d8fe5d55016e]
 
 *Extent: N.I.*
 
@@ -37,6 +37,6 @@ it shall remove him from the doctor’s list of patients in the area of his form
 
 ## Annotations
 
-[^key-a239bbbffebb5424a4b9d8fe5d55016e]: Commencement: Reg. 25 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-a239bbbffebb5424a4b9d8fe5d55016e]: Commencement: Reg. 25 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
 
 [^f00025]: Footnote: [S.R. & O. (N.I.) 1970 No. 56](https://www.legislation.gov.uk/nisro/1970/56)

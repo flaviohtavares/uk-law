@@ -97,7 +97,7 @@ Article 63(1)
 
 ### The Housing (Northern Ireland) Order 1992 (NI 15)
 
-**18.**[^key-98c691876ec674ec9e582dd4165753ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-98c691876ec674ec9e582dd4165753ca] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Environment and Safety Information (Northern Ireland) Order 1993 (NI 14)
 
@@ -196,6 +196,6 @@ Article 63(1)
 
 [^c19585751]: Textual amendment: [Sch. 3 para. 9](https://www.legislation.gov.uk/nisi/2006/1254/schedule/3/paragraph/9) repealed (1.4.2007) by [Water and Sewerage Services (Northern Ireland) Order 2006 (S.I. 2006/3336 (N.I. 21))](https://www.legislation.gov.uk/nisi/2006/3336), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/1/2), [308(2)](https://www.legislation.gov.uk/nisi/2006/3336/article/308/2), [Sch. 13](https://www.legislation.gov.uk/nisi/2006/3336/schedule/13) (with [arts. 8(8)](https://www.legislation.gov.uk/nisi/2006/3336/article/8/8), [121(3)](https://www.legislation.gov.uk/nisi/2006/3336/article/121/3), [307](https://www.legislation.gov.uk/nisi/2006/3336/article/307)); [S.R. 2007/194](https://www.legislation.gov.uk/nisr/2007/194), [art. 2(2)](https://www.legislation.gov.uk/nisr/2007/194/article/2/2), [Sch. 1 Pt. II](https://www.legislation.gov.uk/nisr/2007/194/schedule/1/part/II) (subject to [art. 3](https://www.legislation.gov.uk/nisr/2007/194/article/3), [Sch. 2](https://www.legislation.gov.uk/nisr/2007/194/schedule/2))
 
-[^key-98c691876ec674ec9e582dd4165753ca]: Textual amendment: [Sch. 3 para. 18](https://www.legislation.gov.uk/nisi/2006/1254/schedule/3/paragraph/18) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-98c691876ec674ec9e582dd4165753ca]: Textual amendment: [Sch. 3 para. 18](https://www.legislation.gov.uk/nisi/2006/1254/schedule/3/paragraph/18) repealed (1.4.2019) by [Houses in Multiple Occupation Act (NorthernIreland) 2016 (c. 22)](https://www.legislation.gov.uk/nia/2016/22), [s. 90(2)](https://www.legislation.gov.uk/nia/2016/22/section/90/2), [Sch. 8](https://www.legislation.gov.uk/nia/2016/22/schedule/8); [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
 
 [^c21425821]: Textual amendment: [Sch. 3 para. 24](https://www.legislation.gov.uk/nisi/2006/1254/schedule/3/paragraph/24) omitted (21.7.2008) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [s. 72(3)(b)](https://www.legislation.gov.uk/ukpga/2008/9/section/72/3/b)

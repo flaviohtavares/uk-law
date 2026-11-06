@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 110. Income treated as capital[^key-ec6f8beb3650094ba333b6c840487fe1]
+## 110. Income treated as capital[^c-ec6f8beb3650094ba333b6c840487fe1]
 
 *Extent: N.I.*
 
@@ -53,6 +53,6 @@ shall be treated as capital.
 
 ## Annotations
 
-[^key-ec6f8beb3650094ba333b6c840487fe1]: Commencement: Reg. 110 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-ec6f8beb3650094ba333b6c840487fe1]: Commencement: Reg. 110 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00105]: Footnote: [1989 c. 41](https://www.legislation.gov.uk/ukpga/1989/41)

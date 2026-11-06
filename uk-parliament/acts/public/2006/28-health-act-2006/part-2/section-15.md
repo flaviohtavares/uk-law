@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Code of practice: effects on existing functions of Commission for Healthcare Audit and Inspection[^key-0711d53feb9bb904a7ae0c98d4a51a0e]
+## 15. Code of practice: effects on existing functions of Commission for Healthcare Audit and Inspection[^c-0711d53feb9bb904a7ae0c98d4a51a0e]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0711d53feb9bb904a7ae0c98d4a51a0e]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/28/section/15) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 2](https://www.legislation.gov.uk/uksi/2006/2603/article/2)
+[^c-0711d53feb9bb904a7ae0c98d4a51a0e]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2006/28/section/15) in force at 1.10.2006 by [S.I. 2006/2603](https://www.legislation.gov.uk/uksi/2006/2603), [art. 2](https://www.legislation.gov.uk/uksi/2006/2603/article/2)

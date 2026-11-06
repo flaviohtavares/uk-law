@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Issuing of notices[^key-8d4e144fcf450823390da74dc472e987]
+## 55. Issuing of notices[^c-8d4e144fcf450823390da74dc472e987]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d4e144fcf450823390da74dc472e987]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2014/12/section/55) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-8d4e144fcf450823390da74dc472e987]: Commencement: [S. 55](https://www.legislation.gov.uk/ukpga/2014/12/section/55) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)

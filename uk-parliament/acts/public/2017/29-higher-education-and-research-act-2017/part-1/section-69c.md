@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69C. Free speech complaints scheme[^key-3fe137a0764e69a92879a95a963cbb20]
+## 69C. Free speech complaints scheme[^c-3fe137a0764e69a92879a95a963cbb20]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6A contains provision for a scheme for the making and investigation of 
 
 ## Annotations
 
-[^key-3fe137a0764e69a92879a95a963cbb20]: Textual amendment: [S. 69C](https://www.legislation.gov.uk/ukpga/2017/29/section/69C) inserted (1.9.2026 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2023/16/section/8/1), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2026/654](https://www.legislation.gov.uk/uksi/2026/654), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/654/regulation/2/2)
+[^c-3fe137a0764e69a92879a95a963cbb20]: Textual amendment: [S. 69C](https://www.legislation.gov.uk/ukpga/2017/29/section/69C) inserted (1.9.2026 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2023/16/section/8/1), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2026/654](https://www.legislation.gov.uk/uksi/2026/654), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/654/regulation/2/2)

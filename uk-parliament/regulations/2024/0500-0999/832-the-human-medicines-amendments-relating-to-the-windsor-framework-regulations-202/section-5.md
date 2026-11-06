@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Amendment to regulation 4[^key-c225ad98bf308e072843c02ca05fa3d6]
+## 5. Amendment to regulation 4[^c-c225ad98bf308e072843c02ca05fa3d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 4 (special provisions for pharmacies etc.), omit paragraph (4)(d)(
 
 ## Annotations
 
-[^key-c225ad98bf308e072843c02ca05fa3d6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/832/regulation/5) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-c225ad98bf308e072843c02ca05fa3d6]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2024/832/regulation/5) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00005]: Footnote: Paragraph (ia) of paragraph (4)(d) was inserted by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

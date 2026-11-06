@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.42. When this Section applies[^key-46c828dbed6663730bfc3a93c56b546e]
+## 47.42. When this Section applies[^c-46c828dbed6663730bfc3a93c56b546e]
 
 *Extent: E+W*
 
@@ -35,7 +35,7 @@ This Section applies where—
 
 ## Annotations
 
-[^key-46c828dbed6663730bfc3a93c56b546e]: Commencement: Rule 47.42 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-46c828dbed6663730bfc3a93c56b546e]: Commencement: Rule 47.42 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01234]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 63D was inserted by section 1 of the Protection of Freedoms Act [2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9). Section 63R was inserted by section 14 of that Act.
 

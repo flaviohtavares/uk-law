@@ -44,13 +44,13 @@ Coming into force
 
 1st April 2017
 
-The Secretary of State makes the following Regulations in exercise of the power conferred by section 117P(4) of the Water Industry Act 1991[^f00001].[^key-bb8ae14fc47350a0860fbfb300a5c7df]
+The Secretary of State makes the following Regulations in exercise of the power conferred by section 117P(4) of the Water Industry Act 1991[^f00001].[^c-bb8ae14fc47350a0860fbfb300a5c7df]
 
-## 1. Citation and commencement[^key-1040cdda5173bb08d048a774010cedde]
+## 1. Citation and commencement[^c-1040cdda5173bb08d048a774010cedde]
 
 These Regulations may be cited as the Sewerage Services (Exception from Sewerage System Prohibition) (England) Regulations 2017 and come into force on 1st April 2017.
 
-## 2. Specified circumstances in which prohibition on use of a sewerage system does not apply[^key-5aef7e259992b8844df31ef02451199d]
+## 2. Specified circumstances in which prohibition on use of a sewerage system does not apply[^c-5aef7e259992b8844df31ef02451199d]
 
 (1) Section 117P(1) of the Water Industry Act 1991 (prohibition on unauthorised use of sewerage system) does not apply where—
 
@@ -90,11 +90,11 @@ No impact assessment has been prepared in respect of these Regulations. Impact a
 
 [^f00001]: Footnote: [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56); section 117P was inserted by Schedule 4 of the Water Act [2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-bb8ae14fc47350a0860fbfb300a5c7df]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/244) applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(x)](https://www.legislation.gov.uk/uksi/2020/214/article/5/x)
+[^c-bb8ae14fc47350a0860fbfb300a5c7df]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2017/244) applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2/1), [5(x)](https://www.legislation.gov.uk/uksi/2020/214/article/5/x)
 
-[^key-1040cdda5173bb08d048a774010cedde]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/244/regulation/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/244/regulation/1)
+[^c-1040cdda5173bb08d048a774010cedde]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2017/244/regulation/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/244/regulation/1)
 
-[^key-5aef7e259992b8844df31ef02451199d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/244/regulation/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/244/regulation/1)
+[^c-5aef7e259992b8844df31ef02451199d]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2017/244/regulation/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/244/regulation/1)
 
 [^f00002]: Footnote: Schedule 1 to the Interpretation Act [1978 (c. 30)](https://www.legislation.gov.uk/ukpga/1978/30) provides that “sewerage undertaker”, in relation to England and Wales, shall be construed in accordance with section 6 of the Water Industry Act 1991 (appointment of relevant undertakers).
 

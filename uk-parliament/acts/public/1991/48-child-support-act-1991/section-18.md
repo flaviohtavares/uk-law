@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Reviews of decisions of child support officers.[^key-688784f2e6c7426339fc1df6ac298ce2]
+## 18. Reviews of decisions of child support officers.[^c-688784f2e6c7426339fc1df6ac298ce2]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-688784f2e6c7426339fc1df6ac298ce2]: Textual amendment: S. 17 substituted for ss. 17–19 (4.3.1999 for specified purposes, 1.6.1999 in so far as not already in force) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 41](https://www.legislation.gov.uk/ukpga/1998/14/section/41), [87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2); [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule); [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(d)](https://www.legislation.gov.uk/uksi/1999/1510/article/2/d) (for a transitional provision see [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), art. 48(2))
+[^c-688784f2e6c7426339fc1df6ac298ce2]: Textual amendment: S. 17 substituted for ss. 17–19 (4.3.1999 for specified purposes, 1.6.1999 in so far as not already in force) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 41](https://www.legislation.gov.uk/ukpga/1998/14/section/41), [87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2); [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule); [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(d)](https://www.legislation.gov.uk/uksi/1999/1510/article/2/d) (for a transitional provision see [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), art. 48(2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 176. Resource limits for Local Health Boards[^key-ade053340f2b0712bd4006efeefd53aa]
+## 176. Resource limits for Local Health Boards[^c-ade053340f2b0712bd4006efeefd53aa]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ade053340f2b0712bd4006efeefd53aa]: Textual amendment: [S. 176](https://www.legislation.gov.uk/ukpga/2006/42/section/176) repealed (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(7)](https://www.legislation.gov.uk/anaw/2014/2/section/2/7), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)
+[^c-ade053340f2b0712bd4006efeefd53aa]: Textual amendment: [S. 176](https://www.legislation.gov.uk/ukpga/2006/42/section/176) repealed (1.4.2014) by [National Health Service Finance (Wales) Act 2014 (anaw 2)](https://www.legislation.gov.uk/anaw/2014/2), [ss. 2(7)](https://www.legislation.gov.uk/anaw/2014/2/section/2/7), [3(2)](https://www.legislation.gov.uk/anaw/2014/2/section/3/2)

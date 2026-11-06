@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Operational land for purposes of the 1990 Act[^key-9786ecd8aa7d48b15f8286a21028db78]
+## 42. Operational land for purposes of the 1990 Act[^c-9786ecd8aa7d48b15f8286a21028db78]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Development consent granted by this Order is to be treated as specific planning 
 
 ## Annotations
 
-[^key-9786ecd8aa7d48b15f8286a21028db78]: Commencement: Art. 42 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-9786ecd8aa7d48b15f8286a21028db78]: Commencement: Art. 42 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)

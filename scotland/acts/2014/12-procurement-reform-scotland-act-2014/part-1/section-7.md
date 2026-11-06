@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Dynamic purchasing systems[^key-ad77ee64da45e42b869e4f1557871a7e]
+## 7. Dynamic purchasing systems[^c-ad77ee64da45e42b869e4f1557871a7e]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ad77ee64da45e42b869e4f1557871a7e]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/12/section/7) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-ad77ee64da45e42b869e4f1557871a7e]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2014/12/section/7) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

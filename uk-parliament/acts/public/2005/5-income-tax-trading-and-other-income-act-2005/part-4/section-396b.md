@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 396B. Distributions in a winding up[^key-3ac1a21cf34a260696a767cf31844e30]
+## 396B. Distributions in a winding up[^c-3ac1a21cf34a260696a767cf31844e30]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ac1a21cf34a260696a767cf31844e30]: Textual amendment: S. 396B inserted (with effect in accordance with s. 35(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 35(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/35/1)
+[^c-3ac1a21cf34a260696a767cf31844e30]: Textual amendment: S. 396B inserted (with effect in accordance with s. 35(3) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 35(1)](https://www.legislation.gov.uk/ukpga/2016/24/section/35/1)

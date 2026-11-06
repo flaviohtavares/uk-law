@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Definition and exceptions[^key-6ac2169eb4dca0da1e8941a2eb121932]
+## 2. Definition and exceptions[^c-6ac2169eb4dca0da1e8941a2eb121932]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ where the purpose of the advocacy is to represent the views of the children or p
 
 ## Annotations
 
-[^key-6ac2169eb4dca0da1e8941a2eb121932]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2019/165/regulation/2) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-6ac2169eb4dca0da1e8941a2eb121932]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2019/165/regulation/2) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
 
 [^c23552481]: Marginal citation: [Section 174](https://www.legislation.gov.uk/wsi/2019/165/section/174) of the 2014 Act requires a local authority to establish a procedure for considering representations (including complaints) made to the authority in relation to a range of its social services functions in so far as they are exercisable in relation to a child.
 

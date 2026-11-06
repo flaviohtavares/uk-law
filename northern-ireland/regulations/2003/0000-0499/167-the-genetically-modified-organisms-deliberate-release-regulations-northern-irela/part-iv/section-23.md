@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 23. Duties of the Department in relation to applications for consent to market[^key-ee0a9e96f57883caa3ff23e7fa475027]
+## 23. Duties of the Department in relation to applications for consent to market[^c-ee0a9e96f57883caa3ff23e7fa475027]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ in the circumstances described in paragraph (1)(d)(i), before the end of a perio
 
 ## Annotations
 
-[^key-ee0a9e96f57883caa3ff23e7fa475027]: Commencement: Reg. 23 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)
+[^c-ee0a9e96f57883caa3ff23e7fa475027]: Commencement: Reg. 23 in operation at 15.4.2003, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/167/regulation/1)

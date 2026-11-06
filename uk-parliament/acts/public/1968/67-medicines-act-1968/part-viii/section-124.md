@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Offences by bodies corporate.[^c998879][^key-4fe05471d806c7f2f9cc16e27f808fda][^key-cfb3a3626834d33082b20906f89ca505][^key-91b0ca735663b3ca612d931873c4dafd][^c998878]
+## 124. Offences by bodies corporate.[^c998879][^c-4fe05471d806c7f2f9cc16e27f808fda][^c-cfb3a3626834d33082b20906f89ca505][^c-91b0ca735663b3ca612d931873c4dafd][^c998878]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 (2) In relation to a body corporate carrying on a retail pharmacy business as mentioned in subsection (1) of section 71 of this Act, the preceding subsection shall have effect in relation to a person who (not being such an officer of the body corporate as is mentioned in the preceding subsection)—
 
 - (a) is the superintendent referred to in subsection (1) of that section, or
-- (b) in respect of any premises at or from which[^key-81f270f6187506b1d18600c90654292d] the business is carried on, is the pharmacist referred to in subsection (4)(b)[^key-0506ae59e8762d92a0b1f686e6497a3f] of that section who acts under the directions of the superintendent,
+- (b) in respect of any premises at or from which[^c-81f270f6187506b1d18600c90654292d] the business is carried on, is the pharmacist referred to in subsection (4)(b)[^c-0506ae59e8762d92a0b1f686e6497a3f] of that section who acts under the directions of the superintendent,
 
 as if he were such an officer of the body corporate as is mentioned in the preceding subsection.
 
@@ -41,16 +41,16 @@ as if he were such an officer of the body corporate as is mentioned in the prece
 
     S. 124 applied (31.3.1997) by [S.I. 1997/322](https://www.legislation.gov.uk/uksi/1997/322), [reg. 34](https://www.legislation.gov.uk/uksi/1997/322/regulation/34), [Sch.5](https://www.legislation.gov.uk/uksi/1997/322/schedule/5)
 
-[^key-4fe05471d806c7f2f9cc16e27f808fda]: Modification: Ss. 121-125 applied (with modifications) (1.5.2004) by [Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [47](https://www.legislation.gov.uk/uksi/2004/1031/regulation/47), [Schs. 9](https://www.legislation.gov.uk/uksi/2004/1031/schedule/9)
+[^c-4fe05471d806c7f2f9cc16e27f808fda]: Modification: Ss. 121-125 applied (with modifications) (1.5.2004) by [Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031)](https://www.legislation.gov.uk/uksi/2004/1031), [regs. 1](https://www.legislation.gov.uk/uksi/2004/1031/regulation/1), [47](https://www.legislation.gov.uk/uksi/2004/1031/regulation/47), [Schs. 9](https://www.legislation.gov.uk/uksi/2004/1031/schedule/9)
 
-[^key-cfb3a3626834d33082b20906f89ca505]: Modification: Ss. 121-127 applied (with modifications) (30.10.2005) by [Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005 (S.I. 2005/2750)](https://www.legislation.gov.uk/uksi/2005/2750), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/1/a), [11](https://www.legislation.gov.uk/uksi/2005/2750/regulation/11), [Schs. 4](https://www.legislation.gov.uk/uksi/2005/2750/schedule/4) (with [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2750/schedule/6))
+[^c-cfb3a3626834d33082b20906f89ca505]: Modification: Ss. 121-127 applied (with modifications) (30.10.2005) by [Medicines (Traditional Herbal Medicinal Products for Human Use) Regulations 2005 (S.I. 2005/2750)](https://www.legislation.gov.uk/uksi/2005/2750), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2005/2750/regulation/1/a), [11](https://www.legislation.gov.uk/uksi/2005/2750/regulation/11), [Schs. 4](https://www.legislation.gov.uk/uksi/2005/2750/schedule/4) (with [Sch. 6](https://www.legislation.gov.uk/uksi/2005/2750/schedule/6))
 
-[^key-91b0ca735663b3ca612d931873c4dafd]: Modification: Ss. 121-125 amendment to earlier affecting provision SI 2004/1031 reg. 47 Sch. 9 (29.8.2006) by [Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2006/1928/regulation/32)
+[^c-91b0ca735663b3ca612d931873c4dafd]: Modification: Ss. 121-125 amendment to earlier affecting provision SI 2004/1031 reg. 47 Sch. 9 (29.8.2006) by [Medicines for Human Use (Clinical Trials) Amendment Regulations 2006 (S.I. 2006/1928)](https://www.legislation.gov.uk/uksi/2006/1928), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2006/1928/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2006/1928/regulation/32)
 
 [^c998878]: Modification: Pt. VIII (ss. 104–136) extended by S.I.s 1982/425, art. 3, 1984/187 art. 2; and extended with modifications by [S.I. 1985/403](https://www.legislation.gov.uk/uksi/1985/403), [art. 3(1)](https://www.legislation.gov.uk/uksi/1985/403/article/3/1)
 
 [^c998880]: Modification: S. 124(1)(3) applied (with modifications) (3.4.1992) by [S.I. 1992/605](https://www.legislation.gov.uk/uksi/1992/605), [reg. 2(1)(2)](https://www.legislation.gov.uk/uksi/1992/605/regulation/2/1/2),Sch.
 
-[^key-81f270f6187506b1d18600c90654292d]: Textual amendment: Words in [s. 124(2)(b)](https://www.legislation.gov.uk/ukpga/1968/67/section/124/2/b) substituted (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/21); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
+[^c-81f270f6187506b1d18600c90654292d]: Textual amendment: Words in [s. 124(2)(b)](https://www.legislation.gov.uk/ukpga/1968/67/section/124/2/b) substituted (1.12.2022) by [The Pharmacy (Responsible Pharmacists, Superintendent Pharmacists etc.) Order 2022 (S.I. 2022/849)](https://www.legislation.gov.uk/uksi/2022/849), [art. 1(3)](https://www.legislation.gov.uk/uksi/2022/849/article/1/3), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2022/849/schedule/2/paragraph/21); [S.I. 2022/1023](https://www.legislation.gov.uk/uksi/2022/1023), [art. 2](https://www.legislation.gov.uk/uksi/2022/1023/article/2)
 
-[^key-0506ae59e8762d92a0b1f686e6497a3f]: Textual amendment: Words in s. 124(2)(b) substituted (1.10.2009) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2006/28/section/28/2), [83(7)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/7); [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/a)
+[^c-0506ae59e8762d92a0b1f686e6497a3f]: Textual amendment: Words in s. 124(2)(b) substituted (1.10.2009) by [Health Act 2006 (c. 28)](https://www.legislation.gov.uk/ukpga/2006/28), [ss. 28(2)](https://www.legislation.gov.uk/ukpga/2006/28/section/28/2), [83(7)](https://www.legislation.gov.uk/ukpga/2006/28/section/83/7); [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/a)

@@ -31,7 +31,7 @@ summary: ''
 
 AGRICULTURE
 
-The Bovines and Bovine Products (Trade) Amendment (Scotland) Regulations 2002 (revoked)[^key-6428a8f3ddab7bc018ede80403e199e7]
+The Bovines and Bovine Products (Trade) Amendment (Scotland) Regulations 2002 (revoked)[^c-6428a8f3ddab7bc018ede80403e199e7]
 
 Made
 
@@ -45,43 +45,43 @@ Coming into force
 
 7th October 2002
 
-[^key-6428a8f3ddab7bc018ede80403e199e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6428a8f3ddab7bc018ede80403e199e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-6428a8f3ddab7bc018ede80403e199e7]
+## 1. Citation, commencement and extent[^c-6428a8f3ddab7bc018ede80403e199e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Bovines and Bovine Products (Trade) Regulations 1999[^key-6428a8f3ddab7bc018ede80403e199e7]
+## 2. Amendment of the Bovines and Bovine Products (Trade) Regulations 1999[^c-6428a8f3ddab7bc018ede80403e199e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Consequential Amendments[^key-6428a8f3ddab7bc018ede80403e199e7]
+## 3. Consequential Amendments[^c-6428a8f3ddab7bc018ede80403e199e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6428a8f3ddab7bc018ede80403e199e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6428a8f3ddab7bc018ede80403e199e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-6428a8f3ddab7bc018ede80403e199e7]
+## SCHEDULE[^c-6428a8f3ddab7bc018ede80403e199e7]
 
 Regulation 2(10)
 
-> **SCHEDULE 1 — Required methods of operation for DBES slaughterhouses[^key-6428a8f3ddab7bc018ede80403e199e7]**
+> **SCHEDULE 1 — Required methods of operation for DBES slaughterhouses[^c-6428a8f3ddab7bc018ede80403e199e7]**
 >
 > Regulation 10(3)(d)
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **SCHEDULE 2 — Required methods of operation for the preparation of DBES goods in export approved establishments[^key-6428a8f3ddab7bc018ede80403e199e7]**
+> **SCHEDULE 2 — Required methods of operation for the preparation of DBES goods in export approved establishments[^c-6428a8f3ddab7bc018ede80403e199e7]**
 >
 > Regulations 10(3)(e)(ii) and 12(3)(b)
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **SCHEDULE 3 — Required methods of operation for the preparation of foreign origin export eligible goods in export approved establishments[^key-6428a8f3ddab7bc018ede80403e199e7]**
+> **SCHEDULE 3 — Required methods of operation for the preparation of foreign origin export eligible goods in export approved establishments[^c-6428a8f3ddab7bc018ede80403e199e7]**
 >
 > Regulation 12(3)(b)
 >
@@ -89,8 +89,8 @@ Regulation 2(10)
 
 **May not be in force at this date. Check the source.**
 
-[^key-6428a8f3ddab7bc018ede80403e199e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6428a8f3ddab7bc018ede80403e199e7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6428a8f3ddab7bc018ede80403e199e7]: Textual amendment: Regulations revoked (3.5.2006) by [The TSE (Scotland) Amendment (No. 2) Regulations 2006 (S.S.I. 2006/231)](https://www.legislation.gov.uk/ssi/2006/231), [regs. 1](https://www.legislation.gov.uk/ssi/2006/231/regulation/1), [21](https://www.legislation.gov.uk/ssi/2006/231/regulation/21), [Sch.](https://www.legislation.gov.uk/ssi/2006/231/schedule)
+[^c-6428a8f3ddab7bc018ede80403e199e7]: Textual amendment: Regulations revoked (3.5.2006) by [The TSE (Scotland) Amendment (No. 2) Regulations 2006 (S.S.I. 2006/231)](https://www.legislation.gov.uk/ssi/2006/231), [regs. 1](https://www.legislation.gov.uk/ssi/2006/231/regulation/1), [21](https://www.legislation.gov.uk/ssi/2006/231/regulation/21), [Sch.](https://www.legislation.gov.uk/ssi/2006/231/schedule)

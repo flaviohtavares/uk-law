@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 
-## SCHEDULE 7 — REVOCATIONS[^key-3a4f4162d6cec2b4711591c1a31ea299]
+## SCHEDULE 7 — REVOCATIONS[^c-3a4f4162d6cec2b4711591c1a31ea299]
 
 **No longer in force.**
 
@@ -30,4 +30,4 @@ Regulation 133(4)
 
 ## Annotations
 
-[^key-3a4f4162d6cec2b4711591c1a31ea299]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2010/490/schedule/7) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
+[^c-3a4f4162d6cec2b4711591c1a31ea299]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/uksi/2010/490/schedule/7) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)

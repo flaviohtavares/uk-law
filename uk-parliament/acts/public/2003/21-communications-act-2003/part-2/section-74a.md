@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74A. Access-related conditions in certain cases involving use of radio spectrum[^key-52c4d70f9767a30461419282e3934e4e]
+## 74A. Access-related conditions in certain cases involving use of radio spectrum[^c-52c4d70f9767a30461419282e3934e4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
 
 (5) In exercising their powers under this section, OFCOM must have regard to—
 
-- (a) the need to maximise the coverage and availability of electronic communications services throughout the United Kingdom[^key-9a98c20a90f0a2992ff0304e866b48db], along major transport paths and in particular territorial areas;
+- (a) the need to maximise the coverage and availability of electronic communications services throughout the United Kingdom[^c-9a98c20a90f0a2992ff0304e866b48db], along major transport paths and in particular territorial areas;
 - (b) the desirability of significantly increasing choice, and improving the quality of service, for end-users;
 - (c) the desirability of promoting the efficient use of radio spectrum;
 - (d) the technical feasibility of network access and associated conditions;
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-52c4d70f9767a30461419282e3934e4e]: Textual amendment: Ss. 74A, 74B inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/32)
+[^c-52c4d70f9767a30461419282e3934e4e]: Textual amendment: Ss. 74A, 74B inserted (21.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/2), [Sch. 1 para. 32](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/32)
 
-[^key-9a98c20a90f0a2992ff0304e866b48db]: Textual amendment: Words in [s. 74A(5)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/74A/5/a) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/a), [Sch. 1 para. 71](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/71)
+[^c-9a98c20a90f0a2992ff0304e866b48db]: Textual amendment: Words in [s. 74A(5)(a)](https://www.legislation.gov.uk/ukpga/2003/21/section/74A/5/a) substituted (31.12.2020) by [The Electronic Communications and Wireless Telegraphy (Amendment) (European Electronic Communications Code and EU Exit) Regulations 2020 (S.I. 2020/1419)](https://www.legislation.gov.uk/uksi/2020/1419), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2020/1419/regulation/1/3/a), [Sch. 1 para. 71](https://www.legislation.gov.uk/uksi/2020/1419/schedule/1/paragraph/71)

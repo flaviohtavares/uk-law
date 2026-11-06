@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 335. Requirement to purchase parts of agricultural units unaffected by blight[^key-3f5f7e396fd3d121d03e9b7124fda413]
+## 335. Requirement to purchase parts of agricultural units unaffected by blight[^c-3f5f7e396fd3d121d03e9b7124fda413]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3f5f7e396fd3d121d03e9b7124fda413]: Commencement: S. 335 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-3f5f7e396fd3d121d03e9b7124fda413]: Commencement: S. 335 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

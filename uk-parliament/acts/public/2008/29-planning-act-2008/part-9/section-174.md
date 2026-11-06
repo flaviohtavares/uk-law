@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 174. Planning obligations[^key-66faab64384bb56eeba3243829510fbc]
+## 174. Planning obligations[^c-66faab64384bb56eeba3243829510fbc]
 
 *Extent: E+W+S*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66faab64384bb56eeba3243829510fbc]: Commencement: S. 174 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(k)](https://www.legislation.gov.uk/uksi/2010/101/article/3/k) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-66faab64384bb56eeba3243829510fbc]: Commencement: S. 174 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 3(k)](https://www.legislation.gov.uk/uksi/2010/101/article/3/k) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

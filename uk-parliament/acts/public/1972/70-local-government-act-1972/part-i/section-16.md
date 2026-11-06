@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Parish councillors.[^key-26c561e47165efe3c475589074ad4b76]
+## 16. Parish councillors.[^c-26c561e47165efe3c475589074ad4b76]
 
 *Extent: E*
 
@@ -31,7 +31,7 @@ summary: ''
 - (a) any arrangements about the election of councillors that are made in, or applicable by virtue of, provision made by virtue of section 245(6)(b) of the Local Government and Public Involvement in Health Act 2007 (transitional, saving or transitory provision), and
 - (b) any electoral arrangements applicable to the council by virtue of an order under section 7 or 10 or an order under section 86 of the Local Government and Public Involvement in Health Act 2007.
 
-(3)[^c15088791][^c19901191][^c19901111][^c19901081][^c19901001][^c19899821][^c19899731][^c20267421][^key-dc1a6be981c61c97159f45799e7c18f8][^key-085f5a44a26dc4887e744a53560cdde2][^key-ca10d53117bd9509f54c69ca23d48e0d][^key-e766a371e968d0853b71200d8aad9122][^key-b75687804f2840bdca713b60d227bdb8] Subject to any provision included in an order by virtue of section 67 below and to the provisions of paragraphs 12 and 13 of Schedule 3 to this Act, the ordinary elections of parish councillors shall take place in 1976, 1979 and every fourth year thereafter, their term of office shall be three years in the case of those elected at the ordinary elections in 1976 and four years in the case of those elected at ordinary elections held thereafter, and the whole number of parish councillors shall retire together in every ordinary year of election of such councillors on the fourth day after the ordinary day of election of such councillors, and the newly elected councillors shall come into office on the day on which their predecessors retire.
+(3)[^c15088791][^c19901191][^c19901111][^c19901081][^c19901001][^c19899821][^c19899731][^c20267421][^c-dc1a6be981c61c97159f45799e7c18f8][^c-085f5a44a26dc4887e744a53560cdde2][^c-ca10d53117bd9509f54c69ca23d48e0d][^c-e766a371e968d0853b71200d8aad9122][^c-b75687804f2840bdca713b60d227bdb8] Subject to any provision included in an order by virtue of section 67 below and to the provisions of paragraphs 12 and 13 of Schedule 3 to this Act, the ordinary elections of parish councillors shall take place in 1976, 1979 and every fourth year thereafter, their term of office shall be three years in the case of those elected at the ordinary elections in 1976 and four years in the case of those elected at ordinary elections held thereafter, and the whole number of parish councillors shall retire together in every ordinary year of election of such councillors on the fourth day after the ordinary day of election of such councillors, and the newly elected councillors shall come into office on the day on which their predecessors retire.
 
 (4) Where a parish is not divided into parish wards there shall be one election of parish councillors for the whole parish.
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-26c561e47165efe3c475589074ad4b76]: Modification: S. 16 excluded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2020/7/section/60/3), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
+[^c-26c561e47165efe3c475589074ad4b76]: Modification: S. 16 excluded (25.3.2020) by [Coronavirus Act 2020 (c. 7)](https://www.legislation.gov.uk/ukpga/2020/7), [ss. 60(3)](https://www.legislation.gov.uk/ukpga/2020/7/section/60/3), [87(1)](https://www.legislation.gov.uk/ukpga/2020/7/section/87/1)
 
 [^c19637771]: Textual amendment: Word in s. 16(1) inserted ((1.4.2008 for the purposes of making regulations under s. 16A and otherwise prosp) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 76(3)](https://www.legislation.gov.uk/ukpga/2007/28/section/76/3), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245); [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 4](https://www.legislation.gov.uk/uksi/2008/917/article/4)
 
@@ -79,14 +79,14 @@ summary: ''
 
 [^c20267421]: Modification: S. 16(3) excluded (26.2.2008) by [The Cornwall (Structural Change) Order 2008 (S.I. 2008/491)](https://www.legislation.gov.uk/uksi/2008/491), [arts. 1](https://www.legislation.gov.uk/uksi/2008/491/article/1), [13](https://www.legislation.gov.uk/uksi/2008/491/article/13)
 
-[^key-dc1a6be981c61c97159f45799e7c18f8]: Modification: S. 16(3) excluded (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [arts. 1](https://www.legislation.gov.uk/uksi/2018/648/article/1), [40](https://www.legislation.gov.uk/uksi/2018/648/article/40)
+[^c-dc1a6be981c61c97159f45799e7c18f8]: Modification: S. 16(3) excluded (26.5.2018) by [The Bournemouth, Dorset and Poole (Structural Changes) Order 2018 (S.I. 2018/648)](https://www.legislation.gov.uk/uksi/2018/648), [arts. 1](https://www.legislation.gov.uk/uksi/2018/648/article/1), [40](https://www.legislation.gov.uk/uksi/2018/648/article/40)
 
-[^key-085f5a44a26dc4887e744a53560cdde2]: Modification: S. 16(3) excluded (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [19](https://www.legislation.gov.uk/uksi/2019/957/article/19)
+[^c-085f5a44a26dc4887e744a53560cdde2]: Modification: S. 16(3) excluded (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [19](https://www.legislation.gov.uk/uksi/2019/957/article/19)
 
-[^key-ca10d53117bd9509f54c69ca23d48e0d]: Modification: S. 16(3) excluded (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [21](https://www.legislation.gov.uk/uksi/2020/156/article/21)
+[^c-ca10d53117bd9509f54c69ca23d48e0d]: Modification: S. 16(3) excluded (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [21](https://www.legislation.gov.uk/uksi/2020/156/article/21)
 
-[^key-e766a371e968d0853b71200d8aad9122]: Modification: [S. 16(3)](https://www.legislation.gov.uk/ukpga/1972/70/section/16/3) excluded (18.3.2022) by [The Somerset (Structural Changes) Order 2022 (S.I. 2022/329)](https://www.legislation.gov.uk/uksi/2022/329), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/329/article/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2022/329/article/15/1)
+[^c-e766a371e968d0853b71200d8aad9122]: Modification: [S. 16(3)](https://www.legislation.gov.uk/ukpga/1972/70/section/16/3) excluded (18.3.2022) by [The Somerset (Structural Changes) Order 2022 (S.I. 2022/329)](https://www.legislation.gov.uk/uksi/2022/329), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/329/article/1/1), [15(1)](https://www.legislation.gov.uk/uksi/2022/329/article/15/1)
 
-[^key-b75687804f2840bdca713b60d227bdb8]: Modification: [S. 16(3)](https://www.legislation.gov.uk/ukpga/1972/70/section/16/3) excluded (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2022/328/article/15/a)
+[^c-b75687804f2840bdca713b60d227bdb8]: Modification: [S. 16(3)](https://www.legislation.gov.uk/ukpga/1972/70/section/16/3) excluded (18.3.2022) by [The North Yorkshire (Structural Changes) Order 2022 (S.I. 2022/328)](https://www.legislation.gov.uk/uksi/2022/328), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/328/article/1/1), [15(a)](https://www.legislation.gov.uk/uksi/2022/328/article/15/a)
 
 [^c19637881]: Textual amendment: S. 16(6)-(9) inserted (13.2.2008) by Local Government and Public Involvement in [Health Act 2007 (c. 28)](https://www.legislation.gov.uk/ukpga/2007/28), [ss. 75(7)](https://www.legislation.gov.uk/ukpga/2007/28/section/75/7), [245](https://www.legislation.gov.uk/ukpga/2007/28/section/245); [S.I. 2008/337](https://www.legislation.gov.uk/uksi/2008/337), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/337/article/2/a)

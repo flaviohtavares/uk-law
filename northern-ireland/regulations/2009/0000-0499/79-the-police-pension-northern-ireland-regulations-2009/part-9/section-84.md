@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Survivors’ awards on death of servicemen[^key-4781a1b24e4d27ee86eaaced7043bf1f]
+## 84. Survivors’ awards on death of servicemen[^c-4781a1b24e4d27ee86eaaced7043bf1f]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4781a1b24e4d27ee86eaaced7043bf1f]: Commencement: Reg. 84 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-4781a1b24e4d27ee86eaaced7043bf1f]: Commencement: Reg. 84 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

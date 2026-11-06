@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Flight crew required by aircraft registered in the Isle of Man[^key-1f5c8545c06ec7cfc728fd8cfc40c1b5]
+## 37. Flight crew required by aircraft registered in the Isle of Man[^c-1f5c8545c06ec7cfc728fd8cfc40c1b5]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f5c8545c06ec7cfc728fd8cfc40c1b5]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2015/870/article/37) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-1f5c8545c06ec7cfc728fd8cfc40c1b5]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2015/870/article/37) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

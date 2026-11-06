@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263F. Revocation[^key-911319c8e422e2f8af20e7947bace390]
+## 263F. Revocation[^c-911319c8e422e2f8af20e7947bace390]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-911319c8e422e2f8af20e7947bace390]: Textual amendment: S. 263A-263G and crossheading omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/1), [164(3)(i)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/iv) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/4))
+[^c-911319c8e422e2f8af20e7947bace390]: Textual amendment: S. 263A-263G and crossheading omitted (26.5.2015) by virtue of [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 135(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/1), [164(3)(i)(iv)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/3/i/iv) (with [s. 135(4)](https://www.legislation.gov.uk/ukpga/2015/26/section/135/4))

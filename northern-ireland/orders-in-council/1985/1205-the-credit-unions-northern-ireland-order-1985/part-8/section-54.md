@@ -35,7 +35,7 @@ summary: ''
 - (a) keep at its registered office a duplicate register, containing the particulars in the register kept under paragraph (1) other than those entered under sub-paragraph (b) or (c) of that paragraph; or
 - (b) so construct the register kept under paragraph (1) that it is possible to open to inspection the particulars in the register other than the particulars entered under paragraph (1) (b) or (c) without exposing those last-mentioned particulars.
 
-(4) The FCA[^key-e2b5d050b183bdd1cf2ffb9be39c5c86] or a person acting on the FCA’s[^key-9d78bbf87358a5479e42b1c41549f936] behalf may at all reasonable hours inspect any particulars in any register or duplicate register kept under this Article.
+(4) The FCA[^c-e2b5d050b183bdd1cf2ffb9be39c5c86] or a person acting on the FCA’s[^c-9d78bbf87358a5479e42b1c41549f936] behalf may at all reasonable hours inspect any particulars in any register or duplicate register kept under this Article.
 
 (5) A credit union's register or duplicate register kept under this Article, or any other register or list of members or shares kept by the credit union, shall be prima facie evidence of any of the following particulars entered in the register, that is to say—
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e2b5d050b183bdd1cf2ffb9be39c5c86]: Textual amendment: Word in art. 54(4) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(j)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/j) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-e2b5d050b183bdd1cf2ffb9be39c5c86]: Textual amendment: Word in art. 54(4) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 2(j)](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/2/j) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
 
-[^key-9d78bbf87358a5479e42b1c41549f936]: Textual amendment: Words in art. 54(4) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/11) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))
+[^c-9d78bbf87358a5479e42b1c41549f936]: Textual amendment: Words in art. 54(4) substituted (6.4.2018 immediately after 2016 c. 16 (N.I.), s. 8(2) comes into force) by [The Financial Services Act 2012 (Mutual Societies) Order 2018 (S.I. 2018/323)](https://www.legislation.gov.uk/uksi/2018/323), [art. 1](https://www.legislation.gov.uk/uksi/2018/323/article/1), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2018/323/schedule/3/paragraph/11) (with [art. 3](https://www.legislation.gov.uk/uksi/2018/323/article/3))

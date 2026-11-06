@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Power to repeal section 4[^key-aa51f5269b4bca4a01502b597c4103ae][^key-31d9f273340b025a7714de65a4998cea][^key-40aa0a903e5d76a45e76202adb7c6270]
+## 15. Power to repeal section 4[^c-aa51f5269b4bca4a01502b597c4103ae][^c-31d9f273340b025a7714de65a4998cea][^c-40aa0a903e5d76a45e76202adb7c6270]
 
 *Extent: E+W*
 
@@ -26,8 +26,8 @@ summary: ''
 
 ## Annotations
 
-[^key-aa51f5269b4bca4a01502b597c4103ae]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2007/21/section/15) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 4(1)(k)](https://www.legislation.gov.uk/uksi/2008/504/article/4/1/k)[(2)](https://www.legislation.gov.uk/uksi/2008/504/article/4/2)
+[^c-aa51f5269b4bca4a01502b597c4103ae]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2007/21/section/15) in force at 1.4.2008 for specified purposes by [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 4(1)(k)](https://www.legislation.gov.uk/uksi/2008/504/article/4/1/k)[(2)](https://www.legislation.gov.uk/uksi/2008/504/article/4/2)
 
-[^key-31d9f273340b025a7714de65a4998cea]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2007/21/section/15) in force at 1.4.2009 for specified purposes by [S.I. 2009/547](https://www.legislation.gov.uk/uksi/2009/547), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2009/547/article/2/1/k)[(2)](https://www.legislation.gov.uk/uksi/2009/547/article/2/2)
+[^c-31d9f273340b025a7714de65a4998cea]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2007/21/section/15) in force at 1.4.2009 for specified purposes by [S.I. 2009/547](https://www.legislation.gov.uk/uksi/2009/547), [art. 2(1)(k)](https://www.legislation.gov.uk/uksi/2009/547/article/2/1/k)[(2)](https://www.legislation.gov.uk/uksi/2009/547/article/2/2)
 
-[^key-40aa0a903e5d76a45e76202adb7c6270]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2007/21/section/15) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/191](https://www.legislation.gov.uk/uksi/2010/191), [art. 2(11)](https://www.legislation.gov.uk/uksi/2010/191/article/2/11)
+[^c-40aa0a903e5d76a45e76202adb7c6270]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2007/21/section/15) in force at 1.4.2010 in so far as not already in force by [S.I. 2010/191](https://www.legislation.gov.uk/uksi/2010/191), [art. 2(11)](https://www.legislation.gov.uk/uksi/2010/191/article/2/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Aeronautical lights[^key-820d818b747310203844bc97b42d7b7d]
+## 163. Aeronautical lights[^c-820d818b747310203844bc97b42d7b7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-820d818b747310203844bc97b42d7b7d]: Commencement: [Art. 163](https://www.legislation.gov.uk/uksi/2013/2870/article/163) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-820d818b747310203844bc97b42d7b7d]: Commencement: [Art. 163](https://www.legislation.gov.uk/uksi/2013/2870/article/163) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

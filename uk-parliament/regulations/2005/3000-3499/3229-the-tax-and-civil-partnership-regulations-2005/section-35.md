@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35.[^key-bd1f6b2a4014dbf6a9a1ce6a8d739e60]
+## 35.[^c-bd1f6b2a4014dbf6a9a1ce6a8d739e60]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 191 (sale of land from deceased’s estate: the relief), in subsectio
 
 ## Annotations
 
-[^key-bd1f6b2a4014dbf6a9a1ce6a8d739e60]: Commencement: Reg. 35 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)
+[^c-bd1f6b2a4014dbf6a9a1ce6a8d739e60]: Commencement: Reg. 35 in force at 5.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1)

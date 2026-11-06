@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 312A. Power to require information relating to disqualifying arrangements[^key-2c6fe1157fea9e8d6a537fb465ffff62]
+## 312A. Power to require information relating to disqualifying arrangements[^c-2c6fe1157fea9e8d6a537fb465ffff62]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c6fe1157fea9e8d6a537fb465ffff62]: Textual amendment: S. 312A inserted (17.7.2012) (with effect in accordance with Sch. 8 para. 19 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/15)
+[^c-2c6fe1157fea9e8d6a537fb465ffff62]: Textual amendment: S. 312A inserted (17.7.2012) (with effect in accordance with Sch. 8 para. 19 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 8 para. 15](https://www.legislation.gov.uk/ukpga/2012/14/schedule/8/paragraph/15)

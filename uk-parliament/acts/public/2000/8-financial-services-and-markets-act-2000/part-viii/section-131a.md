@@ -25,13 +25,13 @@ summary: ''
 (2) The first condition is that the information or other matter—
 
 - (a) causes the person making the disclosure ( the discloser) to know or suspect, or
-- (b)[^key-8ae983af53fd3953d6026ca45febc2f6] gives him reasonable grounds for knowing or suspecting that another person has engaged in market abuse
+- (b)[^c-8ae983af53fd3953d6026ca45febc2f6] gives him reasonable grounds for knowing or suspecting that another person has engaged in market abuse
 
-that another person has contravened Article 14 (prohibition of insider dealing and of unlawful disclosure of inside information) or Article 15 (prohibition of market manipulation) of the market abuse regulation[^key-d62bb3841d2010a2bc33b5b4556dc213].
+that another person has contravened Article 14 (prohibition of insider dealing and of unlawful disclosure of inside information) or Article 15 (prohibition of market manipulation) of the market abuse regulation[^c-d62bb3841d2010a2bc33b5b4556dc213].
 
 (3) The second condition is that the information or other matter disclosed came to the discloser in the course of his trade, profession, business or employment.
 
-(4) The third condition is that the disclosure is made [^key-df303943beec8b242569a5399c1775b5]... to a nominated officer as soon as is practicable after the information or other matter comes to the discloser.
+(4) The third condition is that the disclosure is made [^c-df303943beec8b242569a5399c1775b5]... to a nominated officer as soon as is practicable after the information or other matter comes to the discloser.
 
 (5) A disclosure to a nominated officer is a disclosure which is made to a person nominated by the discloser's employer to receive disclosures under this section, and is made in the course of the discloser's employment and in accordance with the procedure established by the employer for the purpose.
 
@@ -41,8 +41,8 @@ that another person has contravened Article 14 (prohibition of insider dealing a
 
 [^c2075491]: Textual amendment: S. 131A inserted (1.7.2005) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2005 (S.I. 2005/381)](https://www.legislation.gov.uk/uksi/2005/381), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2005/381/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2005/381/regulation/5), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2005/381/schedule/2/paragraph/4)
 
-[^key-8ae983af53fd3953d6026ca45febc2f6]: Textual amendment: S. 131A(2)(b) substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(14)(a)(i)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/14/a/i)
+[^c-8ae983af53fd3953d6026ca45febc2f6]: Textual amendment: S. 131A(2)(b) substituted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(14)(a)(i)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/14/a/i)
 
-[^key-d62bb3841d2010a2bc33b5b4556dc213]: Textual amendment: Words in s. 131A(2) inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(14)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/14/a/ii)
+[^c-d62bb3841d2010a2bc33b5b4556dc213]: Textual amendment: Words in s. 131A(2) inserted (3.7.2016) by [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(14)(a)(ii)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/14/a/ii)
 
-[^key-df303943beec8b242569a5399c1775b5]: Textual amendment: Words in s. 131A(4) omitted (3.7.2016) by virtue of [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(14)(b)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/14/b)
+[^c-df303943beec8b242569a5399c1775b5]: Textual amendment: Words in s. 131A(4) omitted (3.7.2016) by virtue of [The Financial Services and Markets Act 2000 (Market Abuse) Regulations 2016 (S.I. 2016/680)](https://www.legislation.gov.uk/uksi/2016/680), [regs. 1](https://www.legislation.gov.uk/uksi/2016/680/regulation/1), [9(14)(b)](https://www.legislation.gov.uk/uksi/2016/680/regulation/9/14/b)

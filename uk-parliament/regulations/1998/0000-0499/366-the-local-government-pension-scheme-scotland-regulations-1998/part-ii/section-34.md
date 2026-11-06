@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 34. Requirements as to time of payment[^key-237502907ec75acb9583b79ec5d4cb95]
+## 34. Requirements as to time of payment[^c-237502907ec75acb9583b79ec5d4cb95]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-237502907ec75acb9583b79ec5d4cb95]: Commencement: Reg. 34 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)
+[^c-237502907ec75acb9583b79ec5d4cb95]: Commencement: Reg. 34 in force at 1.4.1998, see [reg. 1](https://www.legislation.gov.uk/uksi/1998/366/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249A. Financial penalties for certain housing offences in England[^key-eb962ac51f0039db0e98735790e709ca]
+## 249A. Financial penalties for certain housing offences in England[^c-eb962ac51f0039db0e98735790e709ca]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (3) Only one financial penalty under this section may be imposed on a person in respect of the same conduct.
 
-(4) The amount of a financial penalty imposed under this section is to be determined by the local housing authority, but must not be more than £40,000[^key-9fa8f36488807da7fd6a26bf0a56f12b].
+(4) The amount of a financial penalty imposed under this section is to be determined by the local housing authority, but must not be more than £40,000[^c-9fa8f36488807da7fd6a26bf0a56f12b].
 
 (5) The local housing authority may not impose a financial penalty in respect of any conduct amounting to a relevant housing offence if—
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eb962ac51f0039db0e98735790e709ca]: Textual amendment: S. 249A and cross-heading inserted (10.3.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/7); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [regs. 3(b)](https://www.legislation.gov.uk/uksi/2017/281/regulation/3/b), 4(f)
+[^c-eb962ac51f0039db0e98735790e709ca]: Textual amendment: S. 249A and cross-heading inserted (10.3.2017 for specified purposes, 6.4.2017 in so far as not already in force) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 9 para. 7](https://www.legislation.gov.uk/ukpga/2016/22/schedule/9/paragraph/7); [S.I. 2017/281](https://www.legislation.gov.uk/uksi/2017/281), [regs. 3(b)](https://www.legislation.gov.uk/uksi/2017/281/regulation/3/b), 4(f)
 
-[^key-9fa8f36488807da7fd6a26bf0a56f12b]: Textual amendment: Sum in s. 249A(4) substituted (1.5.2026) by [The Financial Penalties (Housing Offences and Breach of Banning Orders) Regulations 2026 (S.I. 2026/319)](https://www.legislation.gov.uk/uksi/2026/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/319/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/319/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/319/regulation/4))
+[^c-9fa8f36488807da7fd6a26bf0a56f12b]: Textual amendment: Sum in s. 249A(4) substituted (1.5.2026) by [The Financial Penalties (Housing Offences and Breach of Banning Orders) Regulations 2026 (S.I. 2026/319)](https://www.legislation.gov.uk/uksi/2026/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/319/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2026/319/regulation/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2026/319/regulation/4))

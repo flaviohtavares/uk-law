@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Duty to provide information to potential buyer[^c1897718][^key-e92185d2c3e9f6c0ad80a2a4b7179750]
+## 99. Duty to provide information to potential buyer[^c1897718][^c-e92185d2c3e9f6c0ad80a2a4b7179750]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c1897718]: Commencement: s. 99 not in force at Royal Assent see s. 195(3); s. 99 in force for certain purposes at 4.12.2006 by [S.S.I. 2006/569](https://www.legislation.gov.uk/ssi/2006/569), [art. 2](https://www.legislation.gov.uk/ssi/2006/569/article/2)
 
-[^key-e92185d2c3e9f6c0ad80a2a4b7179750]: Commencement: S. 99 in force at 1.12.2008 in so far as not already in force by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))
+[^c-e92185d2c3e9f6c0ad80a2a4b7179750]: Commencement: S. 99 in force at 1.12.2008 in so far as not already in force by [S.S.I. 2008/308](https://www.legislation.gov.uk/ssi/2008/308), [art. 3](https://www.legislation.gov.uk/ssi/2008/308/article/3) (with [art. 4](https://www.legislation.gov.uk/ssi/2008/308/article/4))

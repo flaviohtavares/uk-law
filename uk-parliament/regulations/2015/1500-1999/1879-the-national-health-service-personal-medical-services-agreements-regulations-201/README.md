@@ -154,7 +154,7 @@ The Secretary of State for Health, in exercise of the powers conferred by sectio
 
 - [Section 59 — Supply of medicines etc. by contractors providing out of hours services](part-10/section-59.md)
 
-### PART 10A — Vaccines and immunisations[^key-f51426e6fdab03ade6c6903a2e4987a4]
+### PART 10A — Vaccines and immunisations[^c-f51426e6fdab03ade6c6903a2e4987a4]
 
 - [Section 59A — Part 10A: interpretation](part-10a/section-59a.md)
 - [Section 59B — Vaccines and immunisations: duty of co-operation](part-10a/section-59b.md)
@@ -305,4 +305,4 @@ Part 15 (general transitional provision and saving and revocations) makes a gene
 
 [^c22689221]: Marginal citation: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). Section 93 of the National Health Service Act 2006 (“**the Act**”) was amended by paragraph 37 of Schedule 4 to the [Health and Social Care Act 2012 (c.7)](https://www.legislation.gov.uk/ukpga/2012/7) (“**the 2012 Act**”). Section 94 of the Act was amended by section 28(2) of, and paragraph 38(1) and (2) to, the 2012 Act, and by section 17(5) of, and paragraph 2(1)(b) and (2) of Schedule 9 to, the [Crime and Courts Act 2013 (c.22)](https://www.legislation.gov.uk/ukpga/2013/22). The powers exercised in making these Regulations are exercisable by the Secretary of State only in relation to England by virtue of section 271(1) of the Act. *See* section 275(1) of the Act for the meaning of “prescribed” and “regulations”.
 
-[^key-f51426e6fdab03ade6c6903a2e4987a4]: Textual amendment: Pt. 10A inserted (1.4.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2021 (S.I. 2021/331)](https://www.legislation.gov.uk/uksi/2021/331), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/331/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2021/331/schedule/2/paragraph/1)
+[^c-f51426e6fdab03ade6c6903a2e4987a4]: Textual amendment: Pt. 10A inserted (1.4.2021) by [The National Health Service (General Medical Services Contracts and Personal Medical Services Agreements) (Amendment) Regulations 2021 (S.I. 2021/331)](https://www.legislation.gov.uk/uksi/2021/331), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/331/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2021/331/schedule/2/paragraph/1)

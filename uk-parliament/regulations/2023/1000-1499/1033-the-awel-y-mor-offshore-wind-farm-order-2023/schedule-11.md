@@ -22,18 +22,18 @@ summary: ''
 
 Article 6
 
-### 1. Interpretation[^key-349e6bba7e1ffea9736032075087876a]
+### 1. Interpretation[^c-349e6bba7e1ffea9736032075087876a]
 
 In this Schedule “**application**” means an application for any consent, agreement or approval required by a requirement whether or not the application seeks to discharge a requirement in whole or in part.
 
-### 2. Applications made under requirements[^key-25cf04aef6852f3c405c3eea279cff5e]
+### 2. Applications made under requirements[^c-25cf04aef6852f3c405c3eea279cff5e]
 
 Where an application has been made to the relevant planning authority for any consent, agreement or approval required pursuant to a requirement included in this Order, the relevant planning authority must give notice to the undertaker of their decision, including the reasons, on the application, within a period of 13 weeks beginning with—
 
 - (a) the day immediately following that on which the application is received by the relevant planning authority; or
 - (b) such longer period as may be agreed by the undertaker and the relevant planning authority.
 
-### 3. Further information[^key-6489f96611b8b58ae5cea8979bd304c1]
+### 3. Further information[^c-6489f96611b8b58ae5cea8979bd304c1]
 
 (1) Where an application has been made under paragraph 2 the relevant planning authority has the right to request such reasonable further information from the undertaker as is necessary to enable it to consider the application.
 
@@ -43,19 +43,19 @@ Where an application has been made to the relevant planning authority for any co
 
 (4) In the event that the relevant planning authority does not give such notification as specified in sub-paragraphs (2) or (3) it is deemed to have sufficient information to consider the application and is not thereafter entitled to request further information without the prior agreement of the undertaker.
 
-### 4. Provision of information by Consultees[^key-ff71a8712ebf2ce115de12640f4657c5]
+### 4. Provision of information by Consultees[^c-ff71a8712ebf2ce115de12640f4657c5]
 
 (1) Any consultee who receives a consultation under paragraph 3(3) must respond to that request within 28 days from receipt unless sub-paragraph (2) of this paragraph applies.
 
 (2) Where any consultee requests further information in accordance with the timescales set out in paragraph 3(3) then they must respond to the consultation within ten working days from the receipt of the further information requested.
 
-### 5. Fees[^key-d37e440845b62aae12ad623dcd2de8d9]
+### 5. Fees[^c-d37e440845b62aae12ad623dcd2de8d9]
 
 (1) Where an application is made to the relevant planning authority for agreement or approval in respect of a requirement the fee for the discharge of conditions as specified in the Town and Country Planning (Fees for Applications, Deemed Applications, Requests and Site Visits) (Wales) Regulations 2015[^f00047] (or any regulations replacing the same) is to be paid by the undertaker to the relevant planning authority in accordance with these regulations.
 
 (2) Any fee paid under this Schedule must be refunded to the undertaker within four weeks of the application being rejected as invalidly made.
 
-### 6. Appeal[^key-8209bc3376a74d6cea15b8ea5b6a2817]
+### 6. Appeal[^c-8209bc3376a74d6cea15b8ea5b6a2817]
 
 (1) The undertaker may appeal in the event that—
 
@@ -95,16 +95,16 @@ Where an application has been made to the relevant planning authority for any co
 
 ## Annotations
 
-[^key-349e6bba7e1ffea9736032075087876a]: Commencement: Sch. 11 para. 1 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-349e6bba7e1ffea9736032075087876a]: Commencement: Sch. 11 para. 1 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
-[^key-25cf04aef6852f3c405c3eea279cff5e]: Commencement: Sch. 11 para. 2 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-25cf04aef6852f3c405c3eea279cff5e]: Commencement: Sch. 11 para. 2 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
-[^key-6489f96611b8b58ae5cea8979bd304c1]: Commencement: Sch. 11 para. 3 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-6489f96611b8b58ae5cea8979bd304c1]: Commencement: Sch. 11 para. 3 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
-[^key-ff71a8712ebf2ce115de12640f4657c5]: Commencement: Sch. 11 para. 4 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-ff71a8712ebf2ce115de12640f4657c5]: Commencement: Sch. 11 para. 4 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
-[^key-d37e440845b62aae12ad623dcd2de8d9]: Commencement: Sch. 11 para. 5 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-d37e440845b62aae12ad623dcd2de8d9]: Commencement: Sch. 11 para. 5 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
 
 [^f00047]: Footnote: [S.I. 2015/1522 (W.179)](https://www.legislation.gov.uk/wsi/2015/1522)
 
-[^key-8209bc3376a74d6cea15b8ea5b6a2817]: Commencement: Sch. 11 para. 6 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)
+[^c-8209bc3376a74d6cea15b8ea5b6a2817]: Commencement: Sch. 11 para. 6 in force at 11.10.2023, see [art. 1](https://www.legislation.gov.uk/uksi/2023/1033/article/1)

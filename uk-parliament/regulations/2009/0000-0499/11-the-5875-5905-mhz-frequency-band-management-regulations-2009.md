@@ -62,9 +62,9 @@ In these Regulations—
 
 ## 3. The 5875-5905 MHz frequency band
 
-(1)[^key-442e3df9a567d2318b7e187e9f9b2151] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-442e3df9a567d2318b7e187e9f9b2151] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) OFCOM shall [^key-43497f4bc50d59017ae525adad6f3feb]...-
+(2) OFCOM shall [^c-43497f4bc50d59017ae525adad6f3feb]...-
 
 - (a) by 5<sup>th</sup> February 2009, designate the 5875-5905 MHz frequency band for use for safety-related applications of Intelligent Transport Systems, in accordance with the parameters set out in the Annex to the Commission Decision; and
 - (b) as soon as reasonably practicable following such designation, make that frequency band available for such use on a non-exclusive basis.
@@ -95,6 +95,6 @@ A full Regulatory Impact Assessment and Transposition Note have been produced. C
 
 [^c19532041]: Marginal citation: [2002 c.11](https://www.legislation.gov.uk/ukpga/2002/11).
 
-[^key-442e3df9a567d2318b7e187e9f9b2151]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/11/regulation/3/1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-442e3df9a567d2318b7e187e9f9b2151]: Textual amendment: [Reg. 3(1)](https://www.legislation.gov.uk/uksi/2009/11/regulation/3/1) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/2/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-43497f4bc50d59017ae525adad6f3feb]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/11/regulation/3/2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-43497f4bc50d59017ae525adad6f3feb]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/2009/11/regulation/3/2) omitted (31.12.2020) by virtue of [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/1385/regulation/2/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

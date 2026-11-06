@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Annual report[^key-9f3107f8f080b72cc4a637e712cd72b4]
+## 13. Annual report[^c-9f3107f8f080b72cc4a637e712cd72b4]
 
 *Extent: S*
 
@@ -33,8 +33,8 @@ summary: ''
 - (a) the sentencing guidelines published or revised during the year (if any),
 - (b) any sentencing guidelines submitted during the year to the High Court of Justiciary for approval and of the Court's response to them,
 - (c) any draft sentencing guidelines being consulted upon,
-- (d) requests made by the Scottish Ministers under section 7 and of the Council's response to them, [^key-3a8983e7952943ac4774e4ba09e02d17]...
-- (e) requirements made by the High Court of Justiciary under section 8 and of the Council's response to them and[^key-70ac6bbfc1a74d39751245d9d3da667b]
+- (d) requests made by the Scottish Ministers under section 7 and of the Council's response to them, [^c-3a8983e7952943ac4774e4ba09e02d17]...
+- (e) requirements made by the High Court of Justiciary under section 8 and of the Council's response to them and[^c-70ac6bbfc1a74d39751245d9d3da667b]
 - (f) requirements made by the Sheriff Appeal Court under section 8A and of the Council's response to them.
 
 (4) The Council may include in the report such other information as it considers appropriate.
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9f3107f8f080b72cc4a637e712cd72b4]: Commencement: S. 13 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
+[^c-9f3107f8f080b72cc4a637e712cd72b4]: Commencement: S. 13 in force at 19.10.2015 by [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(a)](https://www.legislation.gov.uk/ssi/2015/336/article/2/a)
 
-[^key-3a8983e7952943ac4774e4ba09e02d17]: Textual amendment: Word in [s. 13(3)](https://www.legislation.gov.uk/asp/2010/13/section/13/3) repealed (19.10.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 17(5)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/17/5/a); [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/336/article/2/d)
+[^c-3a8983e7952943ac4774e4ba09e02d17]: Textual amendment: Word in [s. 13(3)](https://www.legislation.gov.uk/asp/2010/13/section/13/3) repealed (19.10.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 17(5)(a)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/17/5/a); [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/336/article/2/d)
 
-[^key-70ac6bbfc1a74d39751245d9d3da667b]: Textual amendment: [S. 13(3)(f)](https://www.legislation.gov.uk/asp/2010/13/section/13/3/f) and word inserted (19.10.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 17(5)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/17/5/b); [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/336/article/2/d)
+[^c-70ac6bbfc1a74d39751245d9d3da667b]: Textual amendment: [S. 13(3)(f)](https://www.legislation.gov.uk/asp/2010/13/section/13/3/f) and word inserted (19.10.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [s. 138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2), [Sch. 5 para. 17(5)(b)](https://www.legislation.gov.uk/asp/2014/18/schedule/5/paragraph/17/5/b); [S.S.I. 2015/336](https://www.legislation.gov.uk/ssi/2015/336), [art. 2(d)](https://www.legislation.gov.uk/ssi/2015/336/article/2/d)

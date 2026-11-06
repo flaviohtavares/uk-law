@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Prescribed criteria with respect to age and mental capacity[^key-6babb6f6deaf1674c39370fc539de43f]
+## 205. Prescribed criteria with respect to age and mental capacity[^c-6babb6f6deaf1674c39370fc539de43f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-6babb6f6deaf1674c39370fc539de43f]: Commencement: Reg. 205 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-6babb6f6deaf1674c39370fc539de43f]: Commencement: Reg. 205 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00058]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 

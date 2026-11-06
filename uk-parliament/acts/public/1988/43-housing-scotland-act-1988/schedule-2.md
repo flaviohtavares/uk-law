@@ -66,7 +66,7 @@ Sections 1 and 3.
 
 ### Housing (Scotland) Act 1987 c. 26.
 
-**7.**[^key-88023d99c6cbededf4e97f758d166572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-88023d99c6cbededf4e97f758d166572] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **8.** For section 23 (compulsory purchase of land by SSHA) there shall be substituted—
 
@@ -128,4 +128,4 @@ Sections 1 and 3.
 
 [^c10516961]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1988/43/schedule/2/paragraph/6) repealed (S.) (1.11.2001) by [2001 asp 10](https://www.legislation.gov.uk/asp/2001/10), [s. 112](https://www.legislation.gov.uk/asp/2001/10/section/112), [Sch. 10 para. 14(11)](https://www.legislation.gov.uk/asp/2001/10/schedule/10/paragraph/14/11); [S.S.I. 2001/336](https://www.legislation.gov.uk/ssi/2001/336), [art. 2(3)](https://www.legislation.gov.uk/ssi/2001/336/article/2/3), [Sch. Pt. II](https://www.legislation.gov.uk/ssi/2001/336/schedule/part/II) Table (subject to transitional provisions in art. 3)
 
-[^key-88023d99c6cbededf4e97f758d166572]: Textual amendment: Sch. 2 para. 7 repealed (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/5/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)
+[^c-88023d99c6cbededf4e97f758d166572]: Textual amendment: Sch. 2 para. 7 repealed (20.11.2014) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [s. 104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3), [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/asp/2014/14/schedule/2/paragraph/5/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule)

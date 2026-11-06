@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Felling or lopping of trees and removal of hedgerows[^key-74705b26e9b078cc104726b7f2a58a3b]
+## 39. Felling or lopping of trees and removal of hedgerows[^c-74705b26e9b078cc104726b7f2a58a3b]
 
 *Extent: E+W+S*
 
@@ -49,7 +49,7 @@ summary: ''
 
 ## Annotations
 
-[^key-74705b26e9b078cc104726b7f2a58a3b]: Commencement: Art. 39 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
+[^c-74705b26e9b078cc104726b7f2a58a3b]: Commencement: Art. 39 in force at 2.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/911/article/1)
 
 [^f00075]: Footnote: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69).
 

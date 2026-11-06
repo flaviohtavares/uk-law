@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 353. Protection of children of service families[^key-75c955f1dc4253389eb05d50716b302f][^key-b965b8186debf158f161b3e28b6a81fa]
+## 353. Protection of children of service families[^c-75c955f1dc4253389eb05d50716b302f][^c-b965b8186debf158f161b3e28b6a81fa]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 13 (amendments relating to protection of children of service families) 
 
 ## Annotations
 
-[^key-75c955f1dc4253389eb05d50716b302f]: Commencement: S. 353 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-75c955f1dc4253389eb05d50716b302f]: Commencement: S. 353 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-b965b8186debf158f161b3e28b6a81fa]: Commencement: S. 353 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-b965b8186debf158f161b3e28b6a81fa]: Commencement: S. 353 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

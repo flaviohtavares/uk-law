@@ -44,13 +44,13 @@ Coming into force in accordance with articles 1(2), 2 and 3
 
 The Secretary of State for Work and Pensions makes the following Order in exercise of the powers conferred by sections 53 and 54(5) of the Pensions Act 2014[^f00001].
 
-## 1. Citation and commencement[^key-36be3303a790ec8e444ad5c1ae8cab5b]
+## 1. Citation and commencement[^c-36be3303a790ec8e444ad5c1ae8cab5b]
 
 (1) This Order may be cited as the Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2017.
 
 (2) This Order comes into force on the day on which section 30 of the Pensions Act 2014 (bereavement support payment) comes into force for all purposes (this is subject to articles 2 and 3).
 
-## 2. Later commencement for abolition of bereavement payment and bereavement allowance[^key-a759d33188a6a2ef5628fab66a102bc1]
+## 2. Later commencement for abolition of bereavement payment and bereavement allowance[^c-a759d33188a6a2ef5628fab66a102bc1]
 
 *Extent: E+W+S*
 
@@ -70,7 +70,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 (4) On the date this article ceases to apply to a person, this Order comes into force for that person.
 
-## 3. Commencement for entitlement to bereavement payment and bereavement support payment[^key-4e48b037b42ef0660b38f1e7c04e7837]
+## 3. Commencement for entitlement to bereavement payment and bereavement support payment[^c-4e48b037b42ef0660b38f1e7c04e7837]
 
 *Extent: E+W+S*
 
@@ -90,7 +90,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 - (a) at the end of the period of 12 months starting on the day on which the death referred to in paragraph (2)(a) occurred, for the purposes of entitlement to bereavement payment for the death referred to in paragraph (2)(a); and
 - (b) on the day on which section 30 of the Pensions Act 2014 comes into force for all purposes, for the purposes of entitlement to bereavement support payment for the death referred to in paragraph (2)(d).
 
-## 4. Amendment of the Social Security (Credits) Regulations 1975[^key-f087ae6b3208bd79565212eed5c6b77f]
+## 4. Amendment of the Social Security (Credits) Regulations 1975[^c-f087ae6b3208bd79565212eed5c6b77f]
 
 *Extent: E+W+S*
 
@@ -128,7 +128,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 - (a) in paragraph (2)(b), omit “or bereavement allowance”; and
 - (b) omit paragraph (3)(e).
 
-## 5. Amendment of the Social Security Benefit (Persons Abroad) Regulations 1975[^key-4e6ce2350eac2524e1ad56be4c21523b]
+## 5. Amendment of the Social Security Benefit (Persons Abroad) Regulations 1975[^c-4e6ce2350eac2524e1ad56be4c21523b]
 
 *Extent: E+W+S*
 
@@ -144,7 +144,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 (6) In regulation 5A (rate of guaranteed minimum pension)[^f00019], omit “, bereavement allowance”.
 
-## 6. Amendment of the Social Security (Overlapping Benefits) Regulations 1979[^key-9fa3fa61add63da99f04b5c16cc750c0]
+## 6. Amendment of the Social Security (Overlapping Benefits) Regulations 1979[^c-9fa3fa61add63da99f04b5c16cc750c0]
 
 *Extent: E+W+S*
 
@@ -154,7 +154,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 (3) In the Schedule (personal benefits which are required to be adjusted)[^f00022] in paragraph 3 of column (1), omit “, bereavement allowance”.
 
-## 7. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations 1979[^key-0e38b22442bb678aa0d30407e097b4a1]
+## 7. Amendment of the Social Security (Widow’s Benefit and Retirement Pensions) Regulations 1979[^c-0e38b22442bb678aa0d30407e097b4a1]
 
 *Extent: E+W+S*
 
@@ -179,7 +179,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 .
 
-## 8. Amendment of the Social Security (General Benefit) Regulations 1982[^key-364d9006ffd45696ce747ecba652cc6e]
+## 8. Amendment of the Social Security (General Benefit) Regulations 1982[^c-364d9006ffd45696ce747ecba652cc6e]
 
 *Extent: E+W+S*
 
@@ -189,7 +189,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 (3) In regulation 2(2) (exceptions from disqualification for imprisonment etc.)[^f00030], for “bereavement benefit” substitute “widowed parent’s allowance”.
 
-## 9. Amendment of the Income Support (General) Regulations 1987[^key-33ab0ec3ac6828900d93d3fce580adad]
+## 9. Amendment of the Income Support (General) Regulations 1987[^c-33ab0ec3ac6828900d93d3fce580adad]
 
 *Extent: E+W+S*
 
@@ -216,7 +216,7 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
   .
 
-## 10. Amendment of the Social Security (Claims and Payments) Regulations 1987[^key-266597d7cfa54f1ff6c9da28233bee84]
+## 10. Amendment of the Social Security (Claims and Payments) Regulations 1987[^c-266597d7cfa54f1ff6c9da28233bee84]
 
 *Extent: E+W+S*
 
@@ -328,13 +328,13 @@ The Secretary of State for Work and Pensions makes the following Order in exerci
 
 .
 
-## 11. Amendment of the Social Fund (Recovery by Deductions from Benefits) Regulations 1988[^key-04b4384cd7c69ed2bf3f37f2b69e374e]
+## 11. Amendment of the Social Fund (Recovery by Deductions from Benefits) Regulations 1988[^c-04b4384cd7c69ed2bf3f37f2b69e374e]
 
 *Extent: E+W+S*
 
 In regulation 3 of the Social Fund (Recovery by Deductions from Benefits) Regulations 1988 (benefits from which an award may be recovered)[^f00050], omit paragraph (ff).
 
-## 12. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^key-9f7d19db0ab48266867f6b4f4b91f3cd]
+## 12. Amendment of the Child Support (Maintenance Assessments and Special Cases) Regulations 1992[^c-9f7d19db0ab48266867f6b4f4b91f3cd]
 
 *Extent: E+W+S*
 
@@ -344,7 +344,7 @@ In Schedule 2 to the Child Support (Maintenance Assessments and Special Cases) R
 
 .
 
-## 13. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988[^key-d9306071f67d9925ea3cd3fb34f8dfce]
+## 13. Amendment of the Social Security (Payments on account, Overpayments and Recovery) Regulations 1988[^c-d9306071f67d9925ea3cd3fb34f8dfce]
 
 *Extent: E+W+S*
 
@@ -358,7 +358,7 @@ In Schedule 2 to the Child Support (Maintenance Assessments and Special Cases) R
 
 .
 
-## 14. Amendment of the Jobseeker’s Allowance Regulations 1996[^key-848c40a053ea3883ef7115f0fe7ff4b3]
+## 14. Amendment of the Jobseeker’s Allowance Regulations 1996[^c-848c40a053ea3883ef7115f0fe7ff4b3]
 
 *Extent: E+W+S*
 
@@ -383,7 +383,7 @@ In Schedule 2 to the Child Support (Maintenance Assessments and Special Cases) R
 
   .
 
-## 15. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^key-c26dcd0335e208d721ca3995e33adb45]
+## 15. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations 1999[^c-c26dcd0335e208d721ca3995e33adb45]
 
 *Extent: E+W+S*
 
@@ -410,7 +410,7 @@ In Schedule 2 to the Child Support (Maintenance Assessments and Special Cases) R
   - (ii) in column 2 of the table, for the corresponding entry to “Bereavement support payment under section 30 of the Pensions Act 2014” (as inserted by paragraph (i)) substitute “the contribution conditions set out in section 31 of the Pensions Act 2014 (bereavement support payment: contribution condition and amendments)”; and
   - (iii) omit the row with “Bereavement payment” in column 1.
 
-## 16. Amendment of the Social Security (Claims and Information) Regulations 1999[^key-bcd98ebeb3f6bfcdfaf3fd70647e5c56]
+## 16. Amendment of the Social Security (Claims and Information) Regulations 1999[^c-bcd98ebeb3f6bfcdfaf3fd70647e5c56]
 
 *Extent: E+W+S*
 
@@ -420,13 +420,13 @@ In regulation 4(4) of the Social Security (Claims and Information) Regulations 1
 
 .
 
-## 17. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations 2000[^key-64e50ae7aeb2ab0c6d73795a01472bae]
+## 17. Amendment of the Child Support (Maintenance Calculations and Special Cases) Regulations 2000[^c-64e50ae7aeb2ab0c6d73795a01472bae]
 
 *Extent: E+W+S*
 
 In regulation 4(1)(a) of the Child Support (Maintenance Calculations and Special Cases) Regulations 2000 (flat rate)[^f00062], omit paragraph (i).
 
-## 18. Amendment of the Social Security (Contributions) Regulations 2001[^key-1af64fb001a25241c5dd269be67fcd32]
+## 18. Amendment of the Social Security (Contributions) Regulations 2001[^c-1af64fb001a25241c5dd269be67fcd32]
 
 In regulation 49 of the Social Security (Contributions) Regulations 2001 (precluded Class 3 contributions)[^f00063]—
 
@@ -435,7 +435,7 @@ In regulation 49 of the Social Security (Contributions) Regulations 2001 (preclu
   - (ii) in sub-paragraph (b), omit “bereavement payment or”; and
 - (b) in paragraph (3), omit “, bereavement allowance”.
 
-## 19. Amendment of the Social Security (Inherited SERPS) Regulations 2001[^key-364a8cbd2f389a9a91fdfbab54ad4132]
+## 19. Amendment of the Social Security (Inherited SERPS) Regulations 2001[^c-364a8cbd2f389a9a91fdfbab54ad4132]
 
 *Extent: E+W+S*
 
@@ -444,7 +444,7 @@ In regulation 2(3)(a) of the Social Security (Inherited SERPS) Regulations 2001 
 - (a) omit “and bereavement allowance”; and
 - (b) omit “except in so far as that section relates to the rate of a bereavement allowance”.
 
-## 20. Amendment of the Social Security (Loss of Benefit) Regulations 2001[^key-3bdc942b4104fed60061ee584a2fbc04]
+## 20. Amendment of the Social Security (Loss of Benefit) Regulations 2001[^c-3bdc942b4104fed60061ee584a2fbc04]
 
 *Extent: E+W+S*
 
@@ -454,7 +454,7 @@ In regulation 19 of the Social Security (Loss of Benefit) Regulations 2001 (soci
 
 .
 
-## 21. Amendment of the State Pension Credit Regulations 2002[^key-21949d9f2fc1fbeacb7ef2e70ab27593]
+## 21. Amendment of the State Pension Credit Regulations 2002[^c-21949d9f2fc1fbeacb7ef2e70ab27593]
 
 *Extent: E+W+S*
 
@@ -479,11 +479,11 @@ In regulation 19 of the Social Security (Loss of Benefit) Regulations 2001 (soci
 
   .
 
-## 22. Amendment of the Tax Credits (Definition and Calculation of Income) Regulations 2002[^key-aa711fe37906269b83bda15cf20ca585]
+## 22. Amendment of the Tax Credits (Definition and Calculation of Income) Regulations 2002[^c-aa711fe37906269b83bda15cf20ca585]
 
 In regulation 7(3) of the Tax Credits (Definition and Calculation of Income) Regulations 2002 (social security income)[^f00069] in Table 3, for row 3 substitute “3 A bereavement support payment under section 30 of the Pensions Act 2014.”.
 
-## 23. Amendment of the Non-Contentious Probate Fees Order 2004[^key-3fbab9b659126e8af9bca0383d348fb6]
+## 23. Amendment of the Non-Contentious Probate Fees Order 2004[^c-3fbab9b659126e8af9bca0383d348fb6]
 
 *Extent: E+W+S*
 
@@ -500,7 +500,7 @@ In Schedule 1A to the Non-Contentious Probate Fees Order 2004 (remissions and pa
 
   .
 
-## 24. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^key-e54123978135d88433ddab02f7d07c2e]
+## 24. Amendment of the Social Fund Maternity and Funeral Expenses (General) Regulations 2005[^c-e54123978135d88433ddab02f7d07c2e]
 
 *Extent: E+W+S*
 
@@ -510,7 +510,7 @@ In regulation 10(1A) of the Social Fund Maternity and Funeral Expenses (General)
 
 .
 
-## 25. Amendment of the Housing Benefit Regulations 2006[^key-34e2aedebc61930edb8622c79a9cba6b]
+## 25. Amendment of the Housing Benefit Regulations 2006[^c-34e2aedebc61930edb8622c79a9cba6b]
 
 *Extent: E+W+S*
 
@@ -535,7 +535,7 @@ In regulation 10(1A) of the Social Fund Maternity and Funeral Expenses (General)
 
   .
 
-## 26. Amendment of the Housing Benefit (Persons who have attained the qualifying age for State Pension Credit) Regulations 2006[^key-8de11b2ccf854252ce80fb7580cf7d1f]
+## 26. Amendment of the Housing Benefit (Persons who have attained the qualifying age for State Pension Credit) Regulations 2006[^c-8de11b2ccf854252ce80fb7580cf7d1f]
 
 *Extent: E+W+S*
 
@@ -560,7 +560,7 @@ In regulation 10(1A) of the Social Fund Maternity and Funeral Expenses (General)
 
   .
 
-## 27. Amendment of the Gender Recognition (Application Fees) Order 2006[^key-99a0b827662679e278b92b250842ad62]
+## 27. Amendment of the Gender Recognition (Application Fees) Order 2006[^c-99a0b827662679e278b92b250842ad62]
 
 *Extent: E+W+S*
 
@@ -577,7 +577,7 @@ In the Schedule to the Gender Recognition (Application Fees) Order 2006 (remissi
 
   .
 
-## 28. Amendment of the Transfer of State Pensions and Benefits Regulations 2007[^key-371dd0ef44c5c8d89507aeac6e8ccb1a]
+## 28. Amendment of the Transfer of State Pensions and Benefits Regulations 2007[^c-371dd0ef44c5c8d89507aeac6e8ccb1a]
 
 (1) The Transfer of State Pensions and Benefits Regulations 2007[^f00078] are amended as follows.
 
@@ -589,7 +589,7 @@ In the Schedule to the Gender Recognition (Application Fees) Order 2006 (remissi
 
 (3) In regulation 8(3) (effect of making a cash equivalent transfer payment)[^f00081], after “Part 1” in both places it occurs insert “or Part 5”.
 
-## 29. Amendment of the Court of Protection Fees Order 2007[^key-c7e4187a637c22c73545fbfb4610e337]
+## 29. Amendment of the Court of Protection Fees Order 2007[^c-c7e4187a637c22c73545fbfb4610e337]
 
 *Extent: E+W+S*
 
@@ -606,7 +606,7 @@ In Schedule 2 to the Court of Protection Fees Order 2007 (remissions and part re
 
   .
 
-## 30. Amendment of the Social Security (Claims and Information) Regulations 2007[^key-c42d9686320fc074f6a84acbeccf938c]
+## 30. Amendment of the Social Security (Claims and Information) Regulations 2007[^c-c42d9686320fc074f6a84acbeccf938c]
 
 *Extent: E+W+S*
 
@@ -616,7 +616,7 @@ In regulation 1(3) of the Social Security (Claims and Information) Regulations 2
 
 .
 
-## 31. Amendment of the Employment and Support Allowance Regulations 2008[^key-6b22a7dbb7b92547708f1534f1be2bbd]
+## 31. Amendment of the Employment and Support Allowance Regulations 2008[^c-6b22a7dbb7b92547708f1534f1be2bbd]
 
 *Extent: E+W+S*
 
@@ -645,7 +645,7 @@ In regulation 1(3) of the Social Security (Claims and Information) Regulations 2
 
   .
 
-## 32. Amendment of the Magistrates’ Courts Fees Order 2008[^key-8e02d7487825fa8c261c0351af6681c1]
+## 32. Amendment of the Magistrates’ Courts Fees Order 2008[^c-8e02d7487825fa8c261c0351af6681c1]
 
 *Extent: E+W+S*
 
@@ -662,7 +662,7 @@ In Schedule 2 to the Magistrates’ Courts Fees Order 2008 (remissions and part 
 
   .
 
-## 33. Amendment of the Civil Proceedings Fees Order 2008[^key-d128bb9044c0438fbbd26ff033cee87d]
+## 33. Amendment of the Civil Proceedings Fees Order 2008[^c-d128bb9044c0438fbbd26ff033cee87d]
 
 *Extent: E+W+S*
 
@@ -679,7 +679,7 @@ In Schedule 2 to the Civil Proceedings Fees Order 2008 (remissions and part remi
 
   .
 
-## 34. Amendment of the Family Proceedings Fees Order 2008[^key-c40250093a2a89e42736813b80aa723c]
+## 34. Amendment of the Family Proceedings Fees Order 2008[^c-c40250093a2a89e42736813b80aa723c]
 
 *Extent: E+W+S*
 
@@ -696,7 +696,7 @@ In Schedule 2 to the Family Proceedings Fees Order 2008 (remissions and part rem
 
   .
 
-## 35. Amendment of the Upper Tribunal (Lands Chamber) Fees Order 2009[^key-272f4d1fd09bb490a7ebf43d9f2b3580]
+## 35. Amendment of the Upper Tribunal (Lands Chamber) Fees Order 2009[^c-272f4d1fd09bb490a7ebf43d9f2b3580]
 
 *Extent: E+W+S*
 
@@ -713,13 +713,13 @@ In Schedule 2 to the Upper Tribunal (Lands Chamber) Fees Order 2009 (remissions 
 
   .
 
-## 36. Amendment of the Supreme Court Fees Order 2009[^key-f51d5c1b9cb270a61b3a011d959cc9e1]
+## 36. Amendment of the Supreme Court Fees Order 2009[^c-f51d5c1b9cb270a61b3a011d959cc9e1]
 
 *Extent: E+W+S*
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 37. Amendment of the First-tier Tribunal (Gambling) Fees Order 2010[^key-5a380238e6c82a601b7a81cf03c44969]
+## 37. Amendment of the First-tier Tribunal (Gambling) Fees Order 2010[^c-5a380238e6c82a601b7a81cf03c44969]
 
 *Extent: E+W+S*
 
@@ -736,13 +736,13 @@ In the Schedule to the First-tier Tribunal (Gambling) Fees Order 2010 (remission
 
   .
 
-## 38. Amendment of the Rate of Bereavement Benefits Regulations 2010[^key-a20fc1055f20f6f04ec2bf89894568d6]
+## 38. Amendment of the Rate of Bereavement Benefits Regulations 2010[^c-a20fc1055f20f6f04ec2bf89894568d6]
 
 *Extent: E+W+S*
 
 In regulation 3 of the Rate of Bereavement Benefits Regulations 2010 (rate of widowed parent’s allowance and bereavement allowance)[^f00093] and in the heading to regulation 3, omit “and bereavement allowance”.
 
-## 39. Amendment of the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^key-2d39460faf51b8ba2799641d7f0bcd30]
+## 39. Amendment of the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^c-2d39460faf51b8ba2799641d7f0bcd30]
 
 *Extent: E+W*
 
@@ -759,13 +759,13 @@ In Schedule 2 to the Upper Tribunal (Immigration and Asylum Chamber) (Judicial R
 
   .
 
-## 40. Amendment of the Child Support Maintenance Calculation Regulations 2012[^key-706e21210f756428b366d68617276211]
+## 40. Amendment of the Child Support Maintenance Calculation Regulations 2012[^c-706e21210f756428b366d68617276211]
 
 *Extent: E+W+S*
 
 In regulation 44(1)(a) of the Child Support Maintenance Calculation Regulations 2012 (flat rate)[^f00095], omit paragraph (i).
 
-## 41. Amendment of the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^key-8bce0c2e57fdacff5767fa1bcc60228b]
+## 41. Amendment of the Council Tax Reduction Schemes (Prescribed Requirements) (England) Regulations 2012[^c-8bce0c2e57fdacff5767fa1bcc60228b]
 
 *Extent: E+W*
 
@@ -775,7 +775,7 @@ In paragraph 16(1)(j) of Schedule 1 to the Council Tax Reduction Schemes (Prescr
 
 .
 
-## 42. Amendment of the Council Tax Reduction Schemes (Default Scheme) (England) Regulations 2012[^key-96af29922f639afb0e393c83e9ea9d2c]
+## 42. Amendment of the Council Tax Reduction Schemes (Default Scheme) (England) Regulations 2012[^c-96af29922f639afb0e393c83e9ea9d2c]
 
 *Extent: E+W*
 
@@ -785,7 +785,7 @@ In paragraph 39(1)(j) of the Schedule to the Council Tax Reduction Schemes (Defa
 
 .
 
-## 43. Amendment of the Universal Credit Regulations 2013[^key-935dc672b4307ff4d208295a8ef15048]
+## 43. Amendment of the Universal Credit Regulations 2013[^c-935dc672b4307ff4d208295a8ef15048]
 
 *Extent: E+W+S*
 
@@ -801,13 +801,13 @@ In paragraph 39(1)(j) of the Schedule to the Council Tax Reduction Schemes (Defa
 
 .
 
-## 44. Amendment of the Employment and Support Allowance Regulations 2013[^key-ca387ee017dd2ee60609e8968e0260c5]
+## 44. Amendment of the Employment and Support Allowance Regulations 2013[^c-ca387ee017dd2ee60609e8968e0260c5]
 
 *Extent: E+W+S*
 
 In regulation 100(b) of the Employment and Support Allowance Regulations 2013 (modification in the calculation of income)[^f00099], for “bereavement allowance” substitute “bereavement support payment under section 30 of the Pensions Act 2014”.
 
-## 45. Amendment of the Legal Aid (Information about Financial Resources) Regulations 2013[^key-93f19308611c0fbcf88fe778600183a5]
+## 45. Amendment of the Legal Aid (Information about Financial Resources) Regulations 2013[^c-93f19308611c0fbcf88fe778600183a5]
 
 *Extent: E+W+S*
 
@@ -820,7 +820,7 @@ In the Schedule to the Legal Aid (Information about Financial Resources) Regulat
 
   .
 
-## 46. Amendment of the First-tier Tribunal (Property Chamber) Fees Order 2013[^key-b19cbb3fc0588ca3e3b65d5ddaea4fa4]
+## 46. Amendment of the First-tier Tribunal (Property Chamber) Fees Order 2013[^c-b19cbb3fc0588ca3e3b65d5ddaea4fa4]
 
 *Extent: E+W+N.I.*
 
@@ -837,7 +837,7 @@ In Schedule 2 to the First-tier Tribunal (Property Chamber) Fees Order 2013 (rem
 
   .
 
-## 47. Amendment of the Employment Tribunals and the Employment Appeal Tribunal Fees Order 2013[^key-95adcf9995b290c7bf6c261388d7a778]
+## 47. Amendment of the Employment Tribunals and the Employment Appeal Tribunal Fees Order 2013[^c-95adcf9995b290c7bf6c261388d7a778]
 
 *Extent: E+W+S*
 
@@ -854,7 +854,7 @@ In Schedule 3 to the Employment Tribunals and the Employment Appeal Tribunal Fee
 
   .
 
-## 48. Amendment of the Courts and Tribunals Fee Remissions Order 2013[^key-b723b92ad60933bb1553fe4e7e28b7e9]
+## 48. Amendment of the Courts and Tribunals Fee Remissions Order 2013[^c-b723b92ad60933bb1553fe4e7e28b7e9]
 
 *Extent: E+W+S*
 
@@ -907,17 +907,17 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00001]: Footnote: [2014 c.19](https://www.legislation.gov.uk/ukpga/2014/19).
 
-[^key-36be3303a790ec8e444ad5c1ae8cab5b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/422/article/1) in force at 6.4.2017 in accordance with, see [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-36be3303a790ec8e444ad5c1ae8cab5b]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/422/article/1) in force at 6.4.2017 in accordance with, see [arts. 1(2)](https://www.legislation.gov.uk/uksi/2017/422/article/1/2), [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
-[^key-a759d33188a6a2ef5628fab66a102bc1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/422/article/2) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-a759d33188a6a2ef5628fab66a102bc1]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2017/422/article/2) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00002]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 36 was substituted by section 54 of the Welfare Reform and Pensions Act [1999 (c.30)](https://www.legislation.gov.uk/ukpga/1999/30) and amended by paragraph 16 of Schedule 24 to the Civil Partnership Act [2004 (c.33)](https://www.legislation.gov.uk/ukpga/2004/33) and S.I.s [2014/560](https://www.legislation.gov.uk/uksi/2014/560) and [3229](https://www.legislation.gov.uk/uksi/2014/3229) and [2016/408](https://www.legislation.gov.uk/uksi/2016/408).
 
 [^f00003]: Footnote: Section 39B was inserted by section 55(2) of the Welfare Reform and Pensions Act 1999 and amended by paragraph 21 of Schedule 24 and Schedule 30 to the Civil Partnership Act 2004 and S.I.s [2014/560](https://www.legislation.gov.uk/uksi/2014/560) and [3229](https://www.legislation.gov.uk/uksi/2014/3229).
 
-[^key-4e48b037b42ef0660b38f1e7c04e7837]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/422/article/3) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-4e48b037b42ef0660b38f1e7c04e7837]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2017/422/article/3) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
-[^key-f087ae6b3208bd79565212eed5c6b77f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/422/article/4) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-f087ae6b3208bd79565212eed5c6b77f]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2017/422/article/4) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00004]: Footnote: [S.I. 1975/556](https://www.legislation.gov.uk/uksi/1975/556).
 
@@ -939,7 +939,7 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00013]: Footnote: Regulation 9F was inserted by [S.I. 2011/709](https://www.legislation.gov.uk/uksi/2011/709).
 
-[^key-4e6ce2350eac2524e1ad56be4c21523b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2017/422/article/5) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-4e6ce2350eac2524e1ad56be4c21523b]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2017/422/article/5) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00014]: Footnote: [S.I. 1975/563](https://www.legislation.gov.uk/uksi/1975/563).
 
@@ -953,7 +953,7 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00019]: Footnote: Regulation 5A was inserted by [S.I. 1990/621](https://www.legislation.gov.uk/uksi/1990/621) and amended by [S.I. 2000/2876](https://www.legislation.gov.uk/uksi/2000/2876).
 
-[^key-9fa3fa61add63da99f04b5c16cc750c0]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2017/422/article/6) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-9fa3fa61add63da99f04b5c16cc750c0]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2017/422/article/6) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00020]: Footnote: [S.I. 1979/597](https://www.legislation.gov.uk/uksi/1979/597).
 
@@ -961,7 +961,7 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00022]: Footnote: Paragraph 3 of column 1 was amended by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483).
 
-[^key-0e38b22442bb678aa0d30407e097b4a1]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2017/422/article/7) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-0e38b22442bb678aa0d30407e097b4a1]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2017/422/article/7) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00023]: Footnote: [S.I. 1979/642](https://www.legislation.gov.uk/uksi/1979/642).
 
@@ -973,7 +973,7 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00027]: Footnote: *See* [S.I. 2016/408](https://www.legislation.gov.uk/uksi/2016/408) for transitional provisions relating to paragraph 3 of Schedule 3.
 
-[^key-364d9006ffd45696ce747ecba652cc6e]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2017/422/article/8) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-364d9006ffd45696ce747ecba652cc6e]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2017/422/article/8) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00028]: Footnote: [S.I. 1982/1408](https://www.legislation.gov.uk/uksi/1982/1408).
 
@@ -981,7 +981,7 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00030]: Footnote: The words “bereavement benefit” were inserted into regulation 2 by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483).
 
-[^key-33ab0ec3ac6828900d93d3fce580adad]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/422/article/9) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-33ab0ec3ac6828900d93d3fce580adad]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2017/422/article/9) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00031]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
@@ -993,7 +993,7 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00035]: Footnote: [S.I. 2017/410](https://www.legislation.gov.uk/uksi/2017/410).
 
-[^key-266597d7cfa54f1ff6c9da28233bee84]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2017/422/article/10) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-266597d7cfa54f1ff6c9da28233bee84]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2017/422/article/10) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00036]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968). Those Regulations were revoked by [S.I. 2003/492](https://www.legislation.gov.uk/uksi/2003/492) for the purposes of child benefit and guardian’s allowance.
 
@@ -1023,15 +1023,15 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00049]: Footnote: Schedule 9ZC was inserted by [S.I. 2003/2800](https://www.legislation.gov.uk/uksi/2003/2800). Paragraph 2(1) was substituted by [S.I. 2016/544](https://www.legislation.gov.uk/uksi/2016/544).
 
-[^key-04b4384cd7c69ed2bf3f37f2b69e374e]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2017/422/article/11) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-04b4384cd7c69ed2bf3f37f2b69e374e]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2017/422/article/11) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00050]: Footnote: [S.I. 1988/35](https://www.legislation.gov.uk/uksi/1988/35). Paragraph (ff) was inserted by [S.I. 2000/3223](https://www.legislation.gov.uk/uksi/2000/3223).
 
-[^key-9f7d19db0ab48266867f6b4f4b91f3cd]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2017/422/article/12) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-9f7d19db0ab48266867f6b4f4b91f3cd]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2017/422/article/12) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00051]: Footnote: [S.I. 1992/1815](https://www.legislation.gov.uk/uksi/1992/1815). Paragraph 7A was inserted by [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630). [S.I. 1992/1815](https://www.legislation.gov.uk/uksi/1992/1815) was revoked for some cases by [S.I. 2012/2785](https://www.legislation.gov.uk/uksi/2012/2785).
 
-[^key-d9306071f67d9925ea3cd3fb34f8dfce]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2017/422/article/13) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-d9306071f67d9925ea3cd3fb34f8dfce]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2017/422/article/13) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00052]: Footnote: [S.I. 1988/664](https://www.legislation.gov.uk/uksi/1988/664). Those Regulations were revoked by [S.I. 2003/492](https://www.legislation.gov.uk/uksi/2003/492) for the purposes of child benefit and guardian’s allowance.
 
@@ -1039,7 +1039,7 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00054]: Footnote: Regulation 8(1)(i) was inserted by [S.I. 2000/1483](https://www.legislation.gov.uk/uksi/2000/1483).
 
-[^key-848c40a053ea3883ef7115f0fe7ff4b3]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2017/422/article/14) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-848c40a053ea3883ef7115f0fe7ff4b3]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2017/422/article/14) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00055]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207).
 
@@ -1047,7 +1047,7 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00057]: Footnote: Sub-paragraph (1) of paragraph 12 was numbered as sub-paragraph (1) by [S.I. 2002/2380](https://www.legislation.gov.uk/uksi/2002/2380). Paragraph 12(1)(d) was inserted by [S.I. 2001/2333](https://www.legislation.gov.uk/uksi/2001/2333). Paragraph 64 of Schedule 8 was inserted by [S.I. 2014/2103](https://www.legislation.gov.uk/uksi/2014/2103).
 
-[^key-c26dcd0335e208d721ca3995e33adb45]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2017/422/article/15) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-c26dcd0335e208d721ca3995e33adb45]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2017/422/article/15) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00058]: Footnote: [S.I. 1999/991](https://www.legislation.gov.uk/uksi/1999/991).
 
@@ -1055,27 +1055,27 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00060]: Footnote: Regulation 3(5ZB) was inserted by [S.I. 2007/2582](https://www.legislation.gov.uk/uksi/2007/2582). Regulation 3(8G) was inserted by [S.I. 2016/1145](https://www.legislation.gov.uk/uksi/2016/1145). Regulation 3 was revoked by [S.I. 2003/916](https://www.legislation.gov.uk/uksi/2003/916) for the purposes of child benefit and guardian’s allowance.
 
-[^key-bcd98ebeb3f6bfcdfaf3fd70647e5c56]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2017/422/article/16) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-bcd98ebeb3f6bfcdfaf3fd70647e5c56]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2017/422/article/16) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00061]: Footnote: [S.I. 1999/3108](https://www.legislation.gov.uk/uksi/1999/3108).
 
-[^key-64e50ae7aeb2ab0c6d73795a01472bae]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2017/422/article/17) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-64e50ae7aeb2ab0c6d73795a01472bae]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2017/422/article/17) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00062]: Footnote: [S.I. 2001/155](https://www.legislation.gov.uk/uksi/2001/155). Those Regulations were revoked for some cases by [S.I. 2012/2785](https://www.legislation.gov.uk/uksi/2012/2785).
 
-[^key-1af64fb001a25241c5dd269be67fcd32]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2017/422/article/18) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-1af64fb001a25241c5dd269be67fcd32]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2017/422/article/18) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00063]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004). Regulation 49(2) was amended by [S.I. 2001/3728](https://www.legislation.gov.uk/uksi/2001/3728). In regulation 49(3), the words “bereavement allowance” were inserted by [S.I. 2001/3728](https://www.legislation.gov.uk/uksi/2001/3728).
 
-[^key-364a8cbd2f389a9a91fdfbab54ad4132]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2017/422/article/19) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-364a8cbd2f389a9a91fdfbab54ad4132]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2017/422/article/19) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00064]: Footnote: [S.I. 2001/1085](https://www.legislation.gov.uk/uksi/2001/1085)
 
-[^key-3bdc942b4104fed60061ee584a2fbc04]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2017/422/article/20) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-3bdc942b4104fed60061ee584a2fbc04]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2017/422/article/20) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00065]: Footnote: [S.I. 2001/4022](https://www.legislation.gov.uk/uksi/2001/4022).
 
-[^key-21949d9f2fc1fbeacb7ef2e70ab27593]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2017/422/article/21) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-21949d9f2fc1fbeacb7ef2e70ab27593]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2017/422/article/21) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00066]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792).
 
@@ -1083,19 +1083,19 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00068]: Footnote: Paragraph 20(2)(p) of Schedule V was inserted by [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630). Paragraph 23D was inserted by [S.I. 2016/732](https://www.legislation.gov.uk/uksi/2016/732).
 
-[^key-aa711fe37906269b83bda15cf20ca585]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2017/422/article/22) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-aa711fe37906269b83bda15cf20ca585]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2017/422/article/22) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00069]: Footnote: [S.I. 2002/2006](https://www.legislation.gov.uk/uksi/2002/2006).
 
-[^key-3fbab9b659126e8af9bca0383d348fb6]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2017/422/article/23) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-3fbab9b659126e8af9bca0383d348fb6]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2017/422/article/23) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00070]: Footnote: [S.I. 2004/3120](https://www.legislation.gov.uk/uksi/2004/3120). Schedule 1A was inserted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302). The definition of “excluded benefit” was substituted by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590).
 
-[^key-e54123978135d88433ddab02f7d07c2e]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2017/422/article/24) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-e54123978135d88433ddab02f7d07c2e]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2017/422/article/24) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00071]: Footnote: [S.I. 2005/3061](https://www.legislation.gov.uk/uksi/2005/3061). Regulation 10(1A) was inserted by [S.I. 2013/247](https://www.legislation.gov.uk/uksi/2013/247).
 
-[^key-34e2aedebc61930edb8622c79a9cba6b]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2017/422/article/25) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-34e2aedebc61930edb8622c79a9cba6b]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2017/422/article/25) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00072]: Footnote: [S.I. 2006/213](https://www.legislation.gov.uk/uksi/2006/213).
 
@@ -1103,17 +1103,17 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00074]: Footnote: Paragraph 9(1)(g) of Schedule 6 was inserted by [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630) and paragraph 61 was inserted by [S.I. 2014/2103](https://www.legislation.gov.uk/uksi/2014/2103).
 
-[^key-8de11b2ccf854252ce80fb7580cf7d1f]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2017/422/article/26) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-8de11b2ccf854252ce80fb7580cf7d1f]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2017/422/article/26) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00075]: Footnote: [S.I. 2006/214](https://www.legislation.gov.uk/uksi/2006/214).
 
 [^f00076]: Footnote: Paragraph 21(2)(o) of Schedule 6 was inserted by [S.I. 2013/630](https://www.legislation.gov.uk/uksi/2013/630) and paragraph 26G was inserted by [S.I. 2016/732](https://www.legislation.gov.uk/uksi/2016/732).
 
-[^key-99a0b827662679e278b92b250842ad62]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2017/422/article/27) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-99a0b827662679e278b92b250842ad62]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2017/422/article/27) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00077]: Footnote: [S.I. 2006/758](https://www.legislation.gov.uk/uksi/2006/758). The Schedule was inserted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302). The definition of “excluded benefits” was substituted by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590).
 
-[^key-371dd0ef44c5c8d89507aeac6e8ccb1a]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2017/422/article/28) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-371dd0ef44c5c8d89507aeac6e8ccb1a]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2017/422/article/28) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00078]: Footnote: [S.I. 2007/1398](https://www.legislation.gov.uk/uksi/2007/1398).
 
@@ -1123,15 +1123,15 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00081]: Footnote: The words “Part 1” were inserted by [S.I. 2015/1985](https://www.legislation.gov.uk/uksi/2015/1985).
 
-[^key-c7e4187a637c22c73545fbfb4610e337]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2017/422/article/29) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-c7e4187a637c22c73545fbfb4610e337]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2017/422/article/29) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00082]: Footnote: [S.I. 2007/1745](https://www.legislation.gov.uk/uksi/2007/1745). Schedule 2 was inserted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302). The definition of “excluded benefits” was substituted by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590).
 
-[^key-c42d9686320fc074f6a84acbeccf938c]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2017/422/article/30) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-c42d9686320fc074f6a84acbeccf938c]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2017/422/article/30) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00083]: Footnote: [S.I. 2007/2911](https://www.legislation.gov.uk/uksi/2007/2911).
 
-[^key-6b22a7dbb7b92547708f1534f1be2bbd]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2017/422/article/31) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-6b22a7dbb7b92547708f1534f1be2bbd]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2017/422/article/31) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00084]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794).
 
@@ -1139,68 +1139,68 @@ A full impact assessment has not been published for this Order as it has no impa
 
 [^f00086]: Footnote: Paragraph 59 of Schedule 9 was inserted by [S.I. 2014/2103](https://www.legislation.gov.uk/uksi/2014/2103).
 
-[^key-8e02d7487825fa8c261c0351af6681c1]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2017/422/article/32) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-8e02d7487825fa8c261c0351af6681c1]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2017/422/article/32) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00087]: Footnote: [S.I. 2008/1052](https://www.legislation.gov.uk/uksi/2008/1052). Schedule 2 was inserted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302). The definition of “excluded benefits” was substituted by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590).
 
-[^key-d128bb9044c0438fbbd26ff033cee87d]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2017/422/article/33) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-d128bb9044c0438fbbd26ff033cee87d]: Commencement: [Art. 33](https://www.legislation.gov.uk/uksi/2017/422/article/33) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00088]: Footnote: [S.I. 2008/1053](https://www.legislation.gov.uk/uksi/2008/1053). Schedule 2 was inserted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302). The definition of “excluded benefits” was substituted by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590).
 
-[^key-c40250093a2a89e42736813b80aa723c]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2017/422/article/34) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-c40250093a2a89e42736813b80aa723c]: Commencement: [Art. 34](https://www.legislation.gov.uk/uksi/2017/422/article/34) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00089]: Footnote: [S.I. 2008/1054](https://www.legislation.gov.uk/uksi/2008/1054). Schedule 2 was inserted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302). The definition of “excluded benefits” was substituted by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590).
 
-[^key-272f4d1fd09bb490a7ebf43d9f2b3580]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2017/422/article/35) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-272f4d1fd09bb490a7ebf43d9f2b3580]: Commencement: [Art. 35](https://www.legislation.gov.uk/uksi/2017/422/article/35) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00090]: Footnote: [S.I. 2009/1114](https://www.legislation.gov.uk/uksi/2009/1114). Schedule 2 was inserted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302). The definition of “excluded benefits” was substituted by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590).
 
-[^key-f51d5c1b9cb270a61b3a011d959cc9e1]: Textual amendment: [Art. 36](https://www.legislation.gov.uk/uksi/2017/422/article/36) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
+[^c-f51d5c1b9cb270a61b3a011d959cc9e1]: Textual amendment: [Art. 36](https://www.legislation.gov.uk/uksi/2017/422/article/36) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
 
-[^key-5a380238e6c82a601b7a81cf03c44969]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2017/422/article/37) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-5a380238e6c82a601b7a81cf03c44969]: Commencement: [Art. 37](https://www.legislation.gov.uk/uksi/2017/422/article/37) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00092]: Footnote: [S.I. 2010/42](https://www.legislation.gov.uk/uksi/2010/42). Schedule 2 was inserted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302). The definition of “excluded benefits” was substituted by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590).
 
-[^key-a20fc1055f20f6f04ec2bf89894568d6]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2017/422/article/38) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-a20fc1055f20f6f04ec2bf89894568d6]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2017/422/article/38) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00093]: Footnote: [S.I. 2010/2818](https://www.legislation.gov.uk/uksi/2010/2818).
 
-[^key-2d39460faf51b8ba2799641d7f0bcd30]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2017/422/article/39) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-2d39460faf51b8ba2799641d7f0bcd30]: Commencement: [Art. 39](https://www.legislation.gov.uk/uksi/2017/422/article/39) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00094]: Footnote: [S.I. 2011/2344](https://www.legislation.gov.uk/uksi/2011/2344). Schedule 2 was inserted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302). The definition of “excluded benefits” was substituted by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590).
 
-[^key-706e21210f756428b366d68617276211]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2017/422/article/40) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-706e21210f756428b366d68617276211]: Commencement: [Art. 40](https://www.legislation.gov.uk/uksi/2017/422/article/40) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00095]: Footnote: [S.I. 2012/2677](https://www.legislation.gov.uk/uksi/2012/2677).
 
-[^key-8bce0c2e57fdacff5767fa1bcc60228b]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2017/422/article/41) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-8bce0c2e57fdacff5767fa1bcc60228b]: Commencement: [Art. 41](https://www.legislation.gov.uk/uksi/2017/422/article/41) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00096]: Footnote: [S.I. 2012/2885](https://www.legislation.gov.uk/uksi/2012/2885).
 
-[^key-96af29922f639afb0e393c83e9ea9d2c]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2017/422/article/42) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-96af29922f639afb0e393c83e9ea9d2c]: Commencement: [Art. 42](https://www.legislation.gov.uk/uksi/2017/422/article/42) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00097]: Footnote: [S.I. 2012/2886](https://www.legislation.gov.uk/uksi/2012/2886).
 
-[^key-935dc672b4307ff4d208295a8ef15048]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2017/422/article/43) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-935dc672b4307ff4d208295a8ef15048]: Commencement: [Art. 43](https://www.legislation.gov.uk/uksi/2017/422/article/43) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00098]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
-[^key-ca387ee017dd2ee60609e8968e0260c5]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2017/422/article/44) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-ca387ee017dd2ee60609e8968e0260c5]: Commencement: [Art. 44](https://www.legislation.gov.uk/uksi/2017/422/article/44) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00099]: Footnote: [S.I. 2013/379](https://www.legislation.gov.uk/uksi/2013/379).
 
-[^key-93f19308611c0fbcf88fe778600183a5]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2017/422/article/45) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-93f19308611c0fbcf88fe778600183a5]: Commencement: [Art. 45](https://www.legislation.gov.uk/uksi/2017/422/article/45) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00100]: Footnote: [S.I. 2013/628](https://www.legislation.gov.uk/uksi/2013/628).
 
-[^key-b19cbb3fc0588ca3e3b65d5ddaea4fa4]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2017/422/article/46) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-b19cbb3fc0588ca3e3b65d5ddaea4fa4]: Commencement: [Art. 46](https://www.legislation.gov.uk/uksi/2017/422/article/46) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00101]: Footnote: [S.I. 2013/1179](https://www.legislation.gov.uk/uksi/2013/1179). Schedule 2 was substituted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302). The definition of “excluded benefits” was substituted by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590).
 
-[^key-95adcf9995b290c7bf6c261388d7a778]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2017/422/article/47) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-95adcf9995b290c7bf6c261388d7a778]: Commencement: [Art. 47](https://www.legislation.gov.uk/uksi/2017/422/article/47) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00102]: Footnote: [S.I. 2013/1893](https://www.legislation.gov.uk/uksi/2013/1893). Schedule 3 was substituted by [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302). The definition of “excluded benefits” was substituted by [S.I. 2014/590](https://www.legislation.gov.uk/uksi/2014/590).
 
-[^key-b723b92ad60933bb1553fe4e7e28b7e9]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2017/422/article/48) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
+[^c-b723b92ad60933bb1553fe4e7e28b7e9]: Commencement: [Art. 48](https://www.legislation.gov.uk/uksi/2017/422/article/48) in force at 6.4.2017 in accordance with, see [arts. 1(2),](https://www.legislation.gov.uk/uksi/2017/422/article/1/2) [2,](https://www.legislation.gov.uk/uksi/2017/422/article/2) [3](https://www.legislation.gov.uk/uksi/2017/422/article/3)
 
 [^f00103]: Footnote: [S.I. 2013/2302](https://www.legislation.gov.uk/uksi/2013/2302).

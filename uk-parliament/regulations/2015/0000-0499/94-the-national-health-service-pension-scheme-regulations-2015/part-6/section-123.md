@@ -41,11 +41,11 @@ FP is the amount of full retirement earned pension which, if at the date of deat
 A is the aggregate of the amounts of all of the member's pensions from pensionable service on the day after the member's last day of pensionable service (L+1)—
 
 - (i) disregarding any additional pension; and
-- (ii) including any increases applied by virtue of the Pensions (Increase) Act 1971 [^c22361641] on L+1[^key-589700917edb360bd8b5a6f09247c1ee];
+- (ii) including any increases applied by virtue of the Pensions (Increase) Act 1971 [^c22361641] on L+1[^c-589700917edb360bd8b5a6f09247c1ee];
 
 B is the period counted in days which is the greater of—
 
-- (i) the aggregate of the total period of pensionable service counted in days over which the pensions referred to in A were accrued and 50% of the length of the period starting on L+1 and ending on the day before[^key-7114ce44121649c97299ee0aef194033] the deceased would have reached prospective normal pension age; and
+- (i) the aggregate of the total period of pensionable service counted in days over which the pensions referred to in A were accrued and 50% of the length of the period starting on L+1 and ending on the day before[^c-7114ce44121649c97299ee0aef194033] the deceased would have reached prospective normal pension age; and
 - (ii) 10 years;
 
 C is the total period of pensionable service counted in days over which the pensions aggregated to find A were accrued,
@@ -90,6 +90,6 @@ Table
 
 [^c22361641]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-589700917edb360bd8b5a6f09247c1ee]: Textual amendment: Words in [reg. 123(3)](https://www.legislation.gov.uk/uksi/2015/94/regulation/123/3) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [41](https://www.legislation.gov.uk/uksi/2017/275/regulation/41)
+[^c-589700917edb360bd8b5a6f09247c1ee]: Textual amendment: Words in [reg. 123(3)](https://www.legislation.gov.uk/uksi/2015/94/regulation/123/3) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [41](https://www.legislation.gov.uk/uksi/2017/275/regulation/41)
 
-[^key-7114ce44121649c97299ee0aef194033]: Textual amendment: Word in reg. 123(3) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [71](https://www.legislation.gov.uk/uksi/2016/245/regulation/71) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))
+[^c-7114ce44121649c97299ee0aef194033]: Textual amendment: Word in reg. 123(3) inserted (1.4.2015) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2016 (S.I. 2016/245)](https://www.legislation.gov.uk/uksi/2016/245), [regs. 1(8)](https://www.legislation.gov.uk/uksi/2016/245/regulation/1/8), [71](https://www.legislation.gov.uk/uksi/2016/245/regulation/71) (with [reg. 105](https://www.legislation.gov.uk/uksi/2016/245/regulation/105))

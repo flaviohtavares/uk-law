@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) The independent investment manager conditions are met in relation to an investment transaction carried out on behalf of a non-UK resident by an investment manager in the United Kingdom if conditions A to E are met.[^key-cb00659ebc1bcf53848c9981758be717]
+(1) The independent investment manager conditions are met in relation to an investment transaction carried out on behalf of a non-UK resident by an investment manager in the United Kingdom if conditions A to E are met.[^c-cb00659ebc1bcf53848c9981758be717]
 
 (2) Condition A is that at the time of the transaction the investment manager is carrying on a business of providing investment management services.
 
@@ -28,20 +28,20 @@ summary: ''
 
 (4) Condition C is that, when the investment manager acts on behalf of the non-UK resident in relation to the transaction, the relationship between them, having regard to its legal, financial and commercial characteristics, is a relationship between persons carrying on independent businesses dealing with each other at arm's length.
 
-(5)[^key-f93bd2e808f4b2f70cd3ae54f77ec2c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-f93bd2e808f4b2f70cd3ae54f77ec2c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Condition E is that the remuneration which the investment manager receives in respect of the transaction for the provision of investment management services to the non-UK resident is not less than is customary for that class of business.
 
-(7)[^key-d8a750af045a7be89528f2dbf2ef5cc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-d8a750af045a7be89528f2dbf2ef5cc2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-82b90ccc5f340899e4618ba34035d04a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-82b90ccc5f340899e4618ba34035d04a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cb00659ebc1bcf53848c9981758be717]: Textual amendment: Words in s. 818(1) substituted (21.7.2008 with effect in accordance with Sch. 16 para. 11(3) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 16 para. 10(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/10/2)
+[^c-cb00659ebc1bcf53848c9981758be717]: Textual amendment: Words in s. 818(1) substituted (21.7.2008 with effect in accordance with Sch. 16 para. 11(3) of the amending Act) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 16 para. 10(2)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/10/2)
 
-[^key-f93bd2e808f4b2f70cd3ae54f77ec2c3]: Textual amendment: S. 818(5) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 23(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/23/1), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-f93bd2e808f4b2f70cd3ae54f77ec2c3]: Textual amendment: S. 818(5) omitted (for chargeable periods beginning on or after 1.1.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 23(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/23/1), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
 
-[^key-d8a750af045a7be89528f2dbf2ef5cc2]: Textual amendment: S. 818(7) omitted (21.7.2008 with effect in accordance with Sch. 16 para. 11(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 16 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/10/3)
+[^c-d8a750af045a7be89528f2dbf2ef5cc2]: Textual amendment: S. 818(7) omitted (21.7.2008 with effect in accordance with Sch. 16 para. 11(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 16 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/10/3)
 
-[^key-82b90ccc5f340899e4618ba34035d04a]: Textual amendment: S. 818(8) omitted (21.7.2008 with effect in accordance with Sch. 16 para. 11(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 16 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/10/3)
+[^c-82b90ccc5f340899e4618ba34035d04a]: Textual amendment: S. 818(8) omitted (21.7.2008 with effect in accordance with Sch. 16 para. 11(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 16 para. 10(3)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/16/paragraph/10/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Power to require interviews[^key-1fb4548384b8d580afbefd2a4cc7b9f9][^key-c0200376e8eb9981011dff7c6aea9091]
+## 106. Power to require interviews[^c-1fb4548384b8d580afbefd2a4cc7b9f9][^c-c0200376e8eb9981011dff7c6aea9091]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1fb4548384b8d580afbefd2a4cc7b9f9]: Commencement: S. 106 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-1fb4548384b8d580afbefd2a4cc7b9f9]: Commencement: S. 106 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-c0200376e8eb9981011dff7c6aea9091]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2023/50/section/106) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z9)
+[^c-c0200376e8eb9981011dff7c6aea9091]: Commencement: [S. 106](https://www.legislation.gov.uk/ukpga/2023/50/section/106) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z9)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Conduct of administration, transfer schemes etc[^key-22a5acc3e144041b6df62915d989bc23]
+## 73. Conduct of administration, transfer schemes etc[^c-22a5acc3e144041b6df62915d989bc23]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22a5acc3e144041b6df62915d989bc23]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2011/5/section/73) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-22a5acc3e144041b6df62915d989bc23]: Commencement: [S. 73](https://www.legislation.gov.uk/ukpga/2011/5/section/73) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

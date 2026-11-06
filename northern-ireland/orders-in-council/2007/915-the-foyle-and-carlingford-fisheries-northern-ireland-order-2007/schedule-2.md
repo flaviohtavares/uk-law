@@ -48,7 +48,7 @@ Article 34(1)
 
 (4) In section 16(1)(f) after “Londonderry Area” insert “ or the Newry Area ”.
 
-(5)[^key-b4516f8173d99e416cbb41ff6a561e40] In section 26, in subsection (1) after paragraph (j) insert—
+(5)[^c-b4516f8173d99e416cbb41ff6a561e40] In section 26, in subsection (1) after paragraph (j) insert—
 
 > - (jj) the regulation or prohibition of the sale of any species of fish caught by rod and line;
 
@@ -152,6 +152,6 @@ Article 34(1)
 
 [^c21188551]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisi/2007/915/schedule/2/paragraph/2) partly in operation; [Sch. 2 para. 2](https://www.legislation.gov.uk/nisi/2007/915/schedule/2/paragraph/2) not in operation at date Order made see [art. 1(3)](https://www.legislation.gov.uk/nisi/2007/915/article/1/3); [Sch. 2 para. 2(3)](https://www.legislation.gov.uk/nisi/2007/915/schedule/2/paragraph/2/3), [2(4)](https://www.legislation.gov.uk/nisi/2007/915/schedule/2/paragraph/2/4) and 2(6) to 2(13), 2(14)(a) in operation at 1.6.2008 by [S.R. 2008/232](https://www.legislation.gov.uk/nisr/2008/232), [art. 2](https://www.legislation.gov.uk/nisr/2008/232/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/232/schedule); [Sch. 2 para. 2(14)(b)](https://www.legislation.gov.uk/nisi/2007/915/schedule/2/paragraph/2/14/b) in operation in so far as it inserts subsection (1B) into section 212 of the 1966 Act at 1.6.2008 by [S.R. 2008/232](https://www.legislation.gov.uk/nisr/2008/232), [art. 2](https://www.legislation.gov.uk/nisr/2008/232/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2008/232/schedule)
 
-[^key-b4516f8173d99e416cbb41ff6a561e40]: Commencement: [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/nisi/2007/915/schedule/2/paragraph/2/5) in operation at 17.9.2012 by [S.R. 2012/336](https://www.legislation.gov.uk/nisr/2012/336), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/336/article/2/b)
+[^c-b4516f8173d99e416cbb41ff6a561e40]: Commencement: [Sch. 2 para. 2(5)](https://www.legislation.gov.uk/nisi/2007/915/schedule/2/paragraph/2/5) in operation at 17.9.2012 by [S.R. 2012/336](https://www.legislation.gov.uk/nisr/2012/336), [art. 2(b)](https://www.legislation.gov.uk/nisr/2012/336/article/2/b)
 
 [^c21466581]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisi/2007/915/schedule/2/paragraph/4) never in operation and repealed (27.3.2009) by [Aquatic Animal Health Regulations (Northern Ireland) 2009 (S.R. 2009/129)](https://www.legislation.gov.uk/nisr/2009/129), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2009/129/regulation/1/1), [59](https://www.legislation.gov.uk/nisr/2009/129/regulation/59), [Sch. 2](https://www.legislation.gov.uk/nisr/2009/129/schedule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Disapplication of legislative provisions[^key-e7ef0f81c833d99a18a8f19e62e04c01]
+## 3. Disapplication of legislative provisions[^c-e7ef0f81c833d99a18a8f19e62e04c01]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
 
 ## Annotations
 
-[^key-e7ef0f81c833d99a18a8f19e62e04c01]: Commencement: Art. 3 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
+[^c-e7ef0f81c833d99a18a8f19e62e04c01]: Commencement: Art. 3 in force at 8.9.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/934/article/1)
 
 [^f00026]: Footnote: [2017 c. 20](https://www.legislation.gov.uk/ukpga/2017/20).
 

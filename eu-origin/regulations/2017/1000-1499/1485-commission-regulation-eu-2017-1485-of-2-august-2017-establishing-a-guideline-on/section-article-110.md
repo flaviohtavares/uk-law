@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1.[^key-cdfb323332d9dde08fea934dedf8a857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+1.[^c-cdfb323332d9dde08fea934dedf8a857] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 2. Where a bidding zone covers only one control area, the geographical scope of the scheduling area is equal to the bidding zone. Where a control area covers several bidding zones, the geographical scope of the scheduling area is equal to the bidding zone. Where a bidding zone covers several control areas, TSOs within that bidding zone may jointly decide to operate a common scheduling process, otherwise, each control area within that bidding zone is considered a separate scheduling area.
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cdfb323332d9dde08fea934dedf8a857]: Textual amendment: [Art. 110(1)](https://www.legislation.gov.uk/eur/2017/1485/article/110/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 74](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/74) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cdfb323332d9dde08fea934dedf8a857]: Textual amendment: [Art. 110(1)](https://www.legislation.gov.uk/eur/2017/1485/article/110/1) omitted (E.W.S.) (31.12.2020) by virtue of [The Electricity Network Codes and Guidelines (System Operation and Connection) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/533)](https://www.legislation.gov.uk/uksi/2019/533), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/533/regulation/1/2), [Sch. 1 para. 74](https://www.legislation.gov.uk/uksi/2019/533/schedule/1/paragraph/74) (as amended by [S.I. 2020/1016](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/6/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

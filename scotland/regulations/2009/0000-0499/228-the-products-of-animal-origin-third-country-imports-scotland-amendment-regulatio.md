@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Products of Animal Origin (Third Country Imports) (Scotland) Amendment Regulations 2009 (revoked)[^key-f2b8d179c5f73f093285dd550b7947bd]
+The Products of Animal Origin (Third Country Imports) (Scotland) Amendment Regulations 2009 (revoked)[^c-f2b8d179c5f73f093285dd550b7947bd]
 
 Made
 
@@ -46,38 +46,38 @@ Coming into force
 
 26th June 2009
 
-[^key-f2b8d179c5f73f093285dd550b7947bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2b8d179c5f73f093285dd550b7947bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f2b8d179c5f73f093285dd550b7947bd]
+## 1. Citation, commencement and interpretation[^c-f2b8d179c5f73f093285dd550b7947bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the 2007 Regulations[^key-f2b8d179c5f73f093285dd550b7947bd]
+## 2. Amendment to the 2007 Regulations[^c-f2b8d179c5f73f093285dd550b7947bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-f2b8d179c5f73f093285dd550b7947bd]
+## 3. Revocation[^c-f2b8d179c5f73f093285dd550b7947bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2b8d179c5f73f093285dd550b7947bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2b8d179c5f73f093285dd550b7947bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Replacement Schedule[^key-f2b8d179c5f73f093285dd550b7947bd]
+## SCHEDULE — Replacement Schedule[^c-f2b8d179c5f73f093285dd550b7947bd]
 
 Regulation 2(3)
 
-[^key-f2b8d179c5f73f093285dd550b7947bd]
+[^c-f2b8d179c5f73f093285dd550b7947bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f2b8d179c5f73f093285dd550b7947bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2b8d179c5f73f093285dd550b7947bd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f2b8d179c5f73f093285dd550b7947bd]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/1/b), [38(n)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/n) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))
+[^c-f2b8d179c5f73f093285dd550b7947bd]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/1/b), [38(n)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/n) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 27. Amendment of regulation 57 (effect of notices etc. during consideration of appeal)[^key-5d97a4b1d3eae7378e308eec8678534d]
+## 27. Amendment of regulation 57 (effect of notices etc. during consideration of appeal)[^c-5d97a4b1d3eae7378e308eec8678534d]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ In regulation 57(2) (effect of notices etc. during consideration of appeal), at 
 
 ## Annotations
 
-[^key-5d97a4b1d3eae7378e308eec8678534d]: Commencement: Reg. 27 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-5d97a4b1d3eae7378e308eec8678534d]: Commencement: Reg. 27 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

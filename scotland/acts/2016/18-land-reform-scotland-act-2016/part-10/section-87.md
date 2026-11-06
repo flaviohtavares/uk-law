@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. Modern limited duration tenancies: termination and continuation[^key-e959fda031111605730d2185c5a62e1b]
+## 87. Modern limited duration tenancies: termination and continuation[^c-e959fda031111605730d2185c5a62e1b]
 
 *Extent: S*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e959fda031111605730d2185c5a62e1b]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2016/18/section/87) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)
+[^c-e959fda031111605730d2185c5a62e1b]: Commencement: [S. 87](https://www.legislation.gov.uk/asp/2016/18/section/87) in force at 30.11.2017 by [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule)

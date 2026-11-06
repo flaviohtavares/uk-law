@@ -127,7 +127,7 @@ and paragraph (d)(i) shall be omitted.
 
 ### The Licensing (Scotland) Act 1976[^c10884501]
 
-**18.**[^key-db7914e9264ef278721fedebbc0a305c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-db7914e9264ef278721fedebbc0a305c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Concessionary Travel for Handicapped Persons (Scotland) Act 1980[^c10884511]
 
@@ -272,7 +272,7 @@ and paragraph (d)(i) shall be omitted.
 
 [^c10884501]: Marginal citation: [1976 c. 66](https://www.legislation.gov.uk/ukpga/1976/66).
 
-[^key-db7914e9264ef278721fedebbc0a305c]: Textual amendment: Sch. 7 para. 18 repealed (S.) (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-db7914e9264ef278721fedebbc0a305c]: Textual amendment: Sch. 7 para. 18 repealed (S.) (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
 [^c10884511]: Marginal citation: [1980 c. 29](https://www.legislation.gov.uk/ukpga/1980/29)
 

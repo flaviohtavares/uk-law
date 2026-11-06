@@ -39,7 +39,7 @@ summary: ''
 
 (4) Any rule or regulation under Part XIII or this Part may make different provision with respect to different cases or descriptions of cases, including different provision for different areas.
 
-(5)[^key-01d92e946bd09165548a1c3d11806c7a] In making regulations under this section, the Secretary of State must have regard to the regulatory objectives (as defined by section 391C(3)).
+(5)[^c-01d92e946bd09165548a1c3d11806c7a] In making regulations under this section, the Secretary of State must have regard to the regulatory objectives (as defined by section 391C(3)).
 
 ## Annotations
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c15584531]: Modification: S. 419 applied with modifications by [S.I. 1986/1999](https://www.legislation.gov.uk/uksi/1986/1999), [art. 3](https://www.legislation.gov.uk/uksi/1986/1999/article/3), [Sch. 1 Pt. II](https://www.legislation.gov.uk/uksi/1986/1999/schedule/1/part/II)
 
-[^key-01d92e946bd09165548a1c3d11806c7a]: Textual amendment: S. 419(5) inserted (1.10.2015 immediately after 2015 c. 20, s. 17 comes into force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 138(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/138/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
+[^c-01d92e946bd09165548a1c3d11806c7a]: Textual amendment: S. 419(5) inserted (1.10.2015 immediately after 2015 c. 20, s. 17 comes into force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 138(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/138/2), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)

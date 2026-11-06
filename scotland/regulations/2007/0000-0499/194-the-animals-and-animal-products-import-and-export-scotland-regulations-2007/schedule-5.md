@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — APPROVAL OF LABORATORIES UNDER THE POULTRY HEALTH SCHEME[^key-4e3e00fcab8e3c106fb8d5852aa93b18]
+## SCHEDULE 5 — APPROVAL OF LABORATORIES UNDER THE POULTRY HEALTH SCHEME[^c-4e3e00fcab8e3c106fb8d5852aa93b18]
 
 *Extent: S*
 
@@ -24,28 +24,28 @@ summary: ''
 
 Regulation 10
 
-### PART I — Approval[^key-4e3e00fcab8e3c106fb8d5852aa93b18]
+### PART I — Approval[^c-4e3e00fcab8e3c106fb8d5852aa93b18]
 
-**1.**[^key-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART II — Annual Approval Fee[^key-4e3e00fcab8e3c106fb8d5852aa93b18]
+### PART II — Annual Approval Fee[^c-4e3e00fcab8e3c106fb8d5852aa93b18]
 
-**1.**[^key-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-4e3e00fcab8e3c106fb8d5852aa93b18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4e3e00fcab8e3c106fb8d5852aa93b18]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/b), [38(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))
+[^c-4e3e00fcab8e3c106fb8d5852aa93b18]: Textual amendment: Regulations revoked (1.7.2012) by [The Trade in Animals and Related Products (Scotland) Regulations 2012 (S.S.I. 2012/177)](https://www.legislation.gov.uk/ssi/2012/177), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/b), [38(b)](https://www.legislation.gov.uk/ssi/2012/177/regulation/38/b) (with [reg. 3](https://www.legislation.gov.uk/ssi/2012/177/regulation/3))

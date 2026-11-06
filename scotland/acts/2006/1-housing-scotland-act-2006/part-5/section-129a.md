@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 129A. Preliminary refusal: breach of planning control[^key-732e4c780896f350d4b322ec6d868834]
+## 129A. Preliminary refusal: breach of planning control[^c-732e4c780896f350d4b322ec6d868834]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ in respect of the occupation of the living accommodation as an HMO.
 
 ## Annotations
 
-[^key-732e4c780896f350d4b322ec6d868834]: Textual amendment: [S. 129A](https://www.legislation.gov.uk/asp/2006/1/section/129A) inserted (31.1.2012) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 13(2)](https://www.legislation.gov.uk/asp/2011/14/section/13/2), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/2/article/3))
+[^c-732e4c780896f350d4b322ec6d868834]: Textual amendment: [S. 129A](https://www.legislation.gov.uk/asp/2006/1/section/129A) inserted (31.1.2012) by [Private Rented Housing (Scotland) Act 2011 (asp 14)](https://www.legislation.gov.uk/asp/2011/14), [ss. 13(2)](https://www.legislation.gov.uk/asp/2011/14/section/13/2), [41(3)](https://www.legislation.gov.uk/asp/2011/14/section/41/3); [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/2/article/3))

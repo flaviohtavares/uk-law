@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Revocation[^key-364a06379b1f444bcf496bc22d51182b]
+## 2. Revocation[^c-364a06379b1f444bcf496bc22d51182b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The Regulations specified in Schedule 4 are hereby revoked.
 
 ## Annotations
 
-[^key-364a06379b1f444bcf496bc22d51182b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1988/1478/regulation/2) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)
+[^c-364a06379b1f444bcf496bc22d51182b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1988/1478/regulation/2) in force at 23.9.1988, see [reg. 1](https://www.legislation.gov.uk/uksi/1988/1478/regulation/1)

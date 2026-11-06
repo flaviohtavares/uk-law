@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Duty to provide accommodation for children in need[^key-936bc8fb96e1b5af29818f05863375cd]
+## 20. Duty to provide accommodation for children in need[^c-936bc8fb96e1b5af29818f05863375cd]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-936bc8fb96e1b5af29818f05863375cd]: Commencement: S. 20 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)
+[^c-936bc8fb96e1b5af29818f05863375cd]: Commencement: S. 20 not in force at Royal Assent, see [s. 70(2)](https://www.legislation.gov.uk/asp/2026/16/section/70/2)

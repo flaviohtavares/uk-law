@@ -31,7 +31,7 @@ summary: ''
 
 EDUCATION
 
-The Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2007 (revoked)[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+The Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2007 (revoked)[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 Made
 
@@ -41,90 +41,90 @@ Coming into operation
 
 1st September 2007
 
-[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+## 1. Citation and commencement[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+## 2. Interpretation[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Application[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+## 3. Application[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Eligible Students[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+## 4. Eligible Students[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Designated courses[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+## 5. Designated courses[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Applying for support and provision of information[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+## 6. Applying for support and provision of information[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Payments[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+## 7. Payments[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+## 8. Revocation[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — ELIGIBLE STUDENTS[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+## SCHEDULE 1 — ELIGIBLE STUDENTS[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 Regulation 4
 
-### PART 1 — Interpretation[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+### PART 1 — Interpretation[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
-**1.**[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Categories[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+### PART 2 — Categories[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
-#### 2. Persons who are settled in the United Kingdom[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**3.**[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 4. Refugees and their family members[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+#### 2. Persons who are settled in the United Kingdom[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 5. Persons with leave to enter or remain and their family members[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+**3.**[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 4. Refugees and their family members[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Workers and their family members[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+#### 5. Persons with leave to enter or remain and their family members[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 7. EC nationals[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+#### 6. Workers and their family members[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 8. Children of Swiss Nationals[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+#### 7. EC nationals[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 9. Children of Turkish Workers[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+#### 8. Children of Swiss Nationals[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### 9. Children of Turkish Workers[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-eca6f8b462e7c39f96bf8d4ecb6dd1bf]: Textual amendment: Regulations revoked (1.9.2008) by [The Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2008 (S.R. 2008/324)](https://www.legislation.gov.uk/nisr/2008/324), [regs. 1](https://www.legislation.gov.uk/nisr/2008/324/regulation/1), [8](https://www.legislation.gov.uk/nisr/2008/324/regulation/8)
+[^c-eca6f8b462e7c39f96bf8d4ecb6dd1bf]: Textual amendment: Regulations revoked (1.9.2008) by [The Further Education (Student Support) (Eligibility) Regulations (Northern Ireland) 2008 (S.R. 2008/324)](https://www.legislation.gov.uk/nisr/2008/324), [regs. 1](https://www.legislation.gov.uk/nisr/2008/324/regulation/1), [8](https://www.legislation.gov.uk/nisr/2008/324/regulation/8)

@@ -190,7 +190,7 @@ but the regulations may not create criminal offences.
 
 ### Reports
 
-#### 5. Reports on decarbonisation and CCS progress[^key-cf10fd3b4e67cf3cac182275404094d9]
+#### 5. Reports on decarbonisation and CCS progress[^c-cf10fd3b4e67cf3cac182275404094d9]
 
 (1) The Secretary of State must, for each reporting period, prepare a report on progress during the reporting period—
 
@@ -280,7 +280,7 @@ In this Part—
 
 (1) The Secretary of State may by regulations make one or more schemes for the purpose of reducing fuel poverty.
 
-(1A)[^key-5d322a9ec15b394f557ffdc9874b4389] In relation to Scotland, that is subject to section 14A (power of the Scottish Ministers to make schemes).
+(1A)[^c-5d322a9ec15b394f557ffdc9874b4389] In relation to Scotland, that is subject to section 14A (power of the Scottish Ministers to make schemes).
 
 (2) A scheme under this section (“a support scheme”) must make provision requiring benefits to be provided by licensed suppliers to whom the scheme applies.
 
@@ -392,7 +392,7 @@ and the support scheme may provide for any such determination to be made subject
 
 (1) The Secretary of State may, for the purpose of enabling or facilitating the establishment or operation of a reconciliation mechanism, modify—
 
-- (a) a condition of a particular licence under section 6(1)(b), (d) or (da) of the Electricity Act 1989 (transmission, supply and electricity system operator licences)[^key-a7496c38a915bbc834ac50c1e1ff3df7];
+- (a) a condition of a particular licence under section 6(1)(b), (d) or (da) of the Electricity Act 1989 (transmission, supply and electricity system operator licences)[^c-a7496c38a915bbc834ac50c1e1ff3df7];
 - (b) the standard conditions incorporated in licences under those provisions by virtue of section 8A of that Act;
 - (c) a document maintained in accordance with the conditions of licences under section 6(1) of that Act, or an agreement that gives effect to a document so maintained.
 
@@ -442,7 +442,7 @@ except following a review of the current scheme conducted in accordance with pro
 
 (6) Nothing in subsection (5) is to be taken to prevent a support scheme or any part of it being renewed at the end of the scheme period by regulations under section 9 which provide for it to have effect for a further scheme period.
 
-### 14A. Power of the Scottish Ministers to make schemes under Part 2[^key-b9059cf0daf2d676ccb3b1d36cbf6532]
+### 14A. Power of the Scottish Ministers to make schemes under Part 2[^c-b9059cf0daf2d676ccb3b1d36cbf6532]
 
 (1) Subject to the following provisions of this section the power under section 9 to make a scheme in relation to Scotland is exercisable by the Secretary of State so as to make only—
 
@@ -621,7 +621,7 @@ and the Scottish Ministers have failed to comply with a request made to them by 
 
 ### Exploitation of electricity trading and transmission arrangements
 
-#### 18. Power to make modifications[^key-f631eedecd2815edd7202fd601c989ed]
+#### 18. Power to make modifications[^c-f631eedecd2815edd7202fd601c989ed]
 
 (1) The Secretary of State may modify—
 
@@ -686,7 +686,7 @@ in connection with a reduction in electricity generation in the relevant period.
 - “**electricity trading and transmission arrangements**” means arrangements relating to the trading and transmission of electricity in Great Britain that are in place under Chapter 1 of Part 3 of the Energy Act 2004;
 - “**transmission system operator**” means the person operating the national transmission system for Great Britain (and for this purpose “**transmission system**” has the same meaning as in the Electricity Act 1989 — see section 4(4) of that Act).
 
-#### 19. The Authority's interpretation and enforcement of modifications[^key-718eacb58c72bac61ecfc2272b796f7b]
+#### 19. The Authority's interpretation and enforcement of modifications[^c-718eacb58c72bac61ecfc2272b796f7b]
 
 (1) The Authority must publish a document setting out advice and information on the Authority's intended approach to the interpretation and enforcement of modifications.
 
@@ -700,7 +700,7 @@ in connection with a reduction in electricity generation in the relevant period.
 
 (4) In this section “**modification**” means a modification under section 18(1).
 
-#### 20. Final and provisional orders: appeals[^key-e6dbc8dfb6ff001012fceecb6c4c2bec]
+#### 20. Final and provisional orders: appeals[^c-e6dbc8dfb6ff001012fceecb6c4c2bec]
 
 (1) This section applies in relation to any final or provisional order under section 25 of the Electricity Act 1989 which relates to a relevant condition (within the meaning of that section) that has effect by virtue of the exercise of the power in section 18(1).
 
@@ -731,7 +731,7 @@ in connection with a reduction in electricity generation in the relevant period.
 - “**Tribunal**” means the Competition Appeal Tribunal;
 - “**Tribunal rules**” means rules under section 15 of the Enterprise Act 2002.
 
-#### 21. Penalties: appeals[^key-7a20b16e1e4fd3b8c9b06c5f27f50d6e]
+#### 21. Penalties: appeals[^c-7a20b16e1e4fd3b8c9b06c5f27f50d6e]
 
 (1) This section applies in relation to any penalty under section 27A of the Electricity Act 1989 which relates to a relevant condition (within the meaning of that section) that has effect by virtue of the exercise of the power in section 18(1).
 
@@ -764,7 +764,7 @@ in connection with a reduction in electricity generation in the relevant period.
 - “**Tribunal**” means the Competition Appeal Tribunal;
 - “**Tribunal rules**” means rules under section 15 of the Enterprise Act 2002.
 
-#### 22. Further appeals[^key-530fbed40ad6f86a72fe354dfae460db]
+#### 22. Further appeals[^c-530fbed40ad6f86a72fe354dfae460db]
 
 (1) An appeal lies to the appropriate court—
 
@@ -784,7 +784,7 @@ in connection with a reduction in electricity generation in the relevant period.
   - (b) in the case of an appeal from Tribunal proceedings in Scotland, the Court of Session;
 - “**Tribunal**” means the Competition Appeal Tribunal.
 
-#### 23. Expiry of power[^key-ca600c7194bdfbe025e29fa86416fdd5]
+#### 23. Expiry of power[^c-ca600c7194bdfbe025e29fa86416fdd5]
 
 (1) The power in section 18(1) may not be exercised after—
 
@@ -1023,7 +1023,7 @@ and must consider any representations or objections which are duly made and not 
 
 (1) Orders and regulations under this Act are to be made by statutory instrument.
 
-(1A)[^key-3aff2052176908bea883829e0727b383] Subsection (1) does not apply to regulations made by the Scottish Ministers (see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010: functions exercisable by Scottish statutory instrument).
+(1A)[^c-3aff2052176908bea883829e0727b383] Subsection (1) does not apply to regulations made by the Scottish Ministers (see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010: functions exercisable by Scottish statutory instrument).
 
 (2) A statutory instrument containing regulations under—
 
@@ -1047,7 +1047,7 @@ and, in such a case, the instrument is subject to annulment in pursuance of a re
 
 is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(4A)[^key-dfed00ab28e53c18d5415eb4b22da6a2] Regulations made by the Scottish Ministers under section 9 are subject to the affirmative procedure (see section 29 of the Interpretative and Legislative Reform (Scotland) Act 2010).
+(4A)[^c-dfed00ab28e53c18d5415eb4b22da6a2] Regulations made by the Scottish Ministers under section 9 are subject to the affirmative procedure (see section 29 of the Interpretative and Legislative Reform (Scotland) Act 2010).
 
 (5) An order or regulations under this Act may—
 
@@ -1055,9 +1055,9 @@ is subject to annulment in pursuance of a resolution of either House of Parliame
 - (b) make transitory or transitional provision or savings;
 - (c) make different provision for different cases or circumstances or for different purposes.
 
-(6) Regulations made by the Secretary of State[^key-0abc73841c5426e9e025d7a2969ee6d0] under Part 1 or 2 may impose obligations or confer functions on a person (including the Secretary of State).
+(6) Regulations made by the Secretary of State[^c-0abc73841c5426e9e025d7a2969ee6d0] under Part 1 or 2 may impose obligations or confer functions on a person (including the Secretary of State).
 
-(6A)[^key-64f7f38e3f536101bd356e54b8a9fecc] Regulations made by the Scottish Ministers may impose obligations or confer functions on a person (including the Scottish Ministers).
+(6A)[^c-64f7f38e3f536101bd356e54b8a9fecc] Regulations made by the Scottish Ministers may impose obligations or confer functions on a person (including the Scottish Ministers).
 
 (7) Regulations under Part 1 may amend provision made by or under an Act or an Act of the Scottish Parliament (whenever passed or made).
 
@@ -1116,7 +1116,7 @@ is subject to annulment in pursuance of a resolution of either House of Parliame
 
 In this Act “**the Authority**” means the Gas and Electricity Markets Authority.
 
-### 35. Consequential amendments[^c2030424][^key-548250132882095da8ef057fc11696ba]
+### 35. Consequential amendments[^c2030424][^c-548250132882095da8ef057fc11696ba]
 
 The Schedule (consequential amendments) has effect.
 
@@ -1170,7 +1170,7 @@ Section 35
 
 ### Electricity Act 1989
 
-**5.**[^c2030426][^key-a8c83a0751149251ea49af24de7e99bc] The Electricity Act 1989 is amended as follows.
+**5.**[^c2030426][^c-a8c83a0751149251ea49af24de7e99bc] The Electricity Act 1989 is amended as follows.
 
 **6.** (1) In section 25(8) (orders for securing compliance), in the definition of “relevant requirement”—
 
@@ -1179,13 +1179,13 @@ Section 35
 
 (2) Nothing in sub-paragraph (1)(b) is to be taken to limit the kind of provision that can be made by regulations under section 9 or 11 about enforcement of a requirement imposed by, or payment of a sum due under, the regulations.
 
-**7.**[^key-650825ebf7a321d5f6631d79c07db320] In section 27 (validity and effect of orders), after subsection (8) insert—
+**7.**[^c-650825ebf7a321d5f6631d79c07db320] In section 27 (validity and effect of orders), after subsection (8) insert—
 
 > (9) Subsections (1) to (3) do not apply in the case of a final or provisional order that relates to a relevant condition imposed by the exercise of the power in section 18(1) of the Energy Act 2010 (prevention of exploitation of electricity trading and transmission arrangements).
 >
 > (10) For provision about appeals relating to such orders, see section 20 of the Energy Act 2010.
 
-**8.**[^key-a7bc8865b9dd3f1d52083ed33e40c4ad] In section 27E (appeals), after subsection (9) insert—
+**8.**[^c-a7bc8865b9dd3f1d52083ed33e40c4ad] In section 27E (appeals), after subsection (9) insert—
 
 > (10) This section does not apply in the case of a penalty that relates to a relevant condition imposed by the exercise of the power in section 18(1) of the Energy Act 2010 (prevention of exploitation of electricity trading and transmission arrangements).
 >
@@ -1224,44 +1224,44 @@ Section 35
 
 ## Annotations
 
-[^key-cf10fd3b4e67cf3cac182275404094d9]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/2010/27/section/5) power to repeal conferred (18.12.2013) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 1(8)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/1/8/b), [156(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/3)
+[^c-cf10fd3b4e67cf3cac182275404094d9]: Modification: [S. 5](https://www.legislation.gov.uk/ukpga/2010/27/section/5) power to repeal conferred (18.12.2013) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [ss. 1(8)(b)](https://www.legislation.gov.uk/ukpga/2013/32/section/1/8/b), [156(3)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/3)
 
-[^key-5d322a9ec15b394f557ffdc9874b4389]: Textual amendment: [S. 9(1A)](https://www.legislation.gov.uk/ukpga/2010/27/section/9/1A) inserted (1.12.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/2), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/9)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
+[^c-5d322a9ec15b394f557ffdc9874b4389]: Textual amendment: [S. 9(1A)](https://www.legislation.gov.uk/ukpga/2010/27/section/9/1A) inserted (1.12.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 58(2)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/2), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/9)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
 
-[^key-a7496c38a915bbc834ac50c1e1ff3df7]: Textual amendment: Words in [s. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2010/27/section/12/1/a) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/706/regulation/8); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
+[^c-a7496c38a915bbc834ac50c1e1ff3df7]: Textual amendment: Words in [s. 12(1)(a)](https://www.legislation.gov.uk/ukpga/2010/27/section/12/1/a) substituted (1.10.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/1), [8](https://www.legislation.gov.uk/uksi/2024/706/regulation/8); [S.I. 2024/957](https://www.legislation.gov.uk/uksi/2024/957), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2024/957/regulation/2/a)
 
-[^key-b9059cf0daf2d676ccb3b1d36cbf6532]: Textual amendment: S. 14A inserted (1.12.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/3), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/9)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
+[^c-b9059cf0daf2d676ccb3b1d36cbf6532]: Textual amendment: S. 14A inserted (1.12.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 58(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/3), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/9)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
 
-[^key-f631eedecd2815edd7202fd601c989ed]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2010/27/section/18) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/a)
+[^c-f631eedecd2815edd7202fd601c989ed]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2010/27/section/18) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/a)
 
-[^key-718eacb58c72bac61ecfc2272b796f7b]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2010/27/section/19) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/a)
+[^c-718eacb58c72bac61ecfc2272b796f7b]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2010/27/section/19) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/a)
 
-[^key-e6dbc8dfb6ff001012fceecb6c4c2bec]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2010/27/section/20) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/a)
+[^c-e6dbc8dfb6ff001012fceecb6c4c2bec]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2010/27/section/20) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/a)
 
-[^key-7a20b16e1e4fd3b8c9b06c5f27f50d6e]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2010/27/section/21) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/a)
+[^c-7a20b16e1e4fd3b8c9b06c5f27f50d6e]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2010/27/section/21) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/a)
 
-[^key-530fbed40ad6f86a72fe354dfae460db]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2010/27/section/22) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/a)
+[^c-530fbed40ad6f86a72fe354dfae460db]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2010/27/section/22) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/a)
 
-[^key-ca600c7194bdfbe025e29fa86416fdd5]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2010/27/section/23) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/a)
+[^c-ca600c7194bdfbe025e29fa86416fdd5]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2010/27/section/23) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/a)
 
-[^key-3aff2052176908bea883829e0727b383]: Textual amendment: [S. 31(1A)](https://www.legislation.gov.uk/ukpga/2010/27/section/31/1A) inserted (1.12.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 58(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/5), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/9)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
+[^c-3aff2052176908bea883829e0727b383]: Textual amendment: [S. 31(1A)](https://www.legislation.gov.uk/ukpga/2010/27/section/31/1A) inserted (1.12.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 58(5)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/5), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/9)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
 
-[^key-dfed00ab28e53c18d5415eb4b22da6a2]: Textual amendment: [S. 31(4A)](https://www.legislation.gov.uk/ukpga/2010/27/section/31/4A) inserted (1.12.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 58(6)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/6), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/9)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
+[^c-dfed00ab28e53c18d5415eb4b22da6a2]: Textual amendment: [S. 31(4A)](https://www.legislation.gov.uk/ukpga/2010/27/section/31/4A) inserted (1.12.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 58(6)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/6), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/9)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
 
-[^key-0abc73841c5426e9e025d7a2969ee6d0]: Textual amendment: Words in [s. 31(6)](https://www.legislation.gov.uk/ukpga/2010/27/section/31/6) inserted (1.12.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/7), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/9)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
+[^c-0abc73841c5426e9e025d7a2969ee6d0]: Textual amendment: Words in [s. 31(6)](https://www.legislation.gov.uk/ukpga/2010/27/section/31/6) inserted (1.12.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 58(7)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/7), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/9)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
 
-[^key-64f7f38e3f536101bd356e54b8a9fecc]: Textual amendment: [S. 31(6A)](https://www.legislation.gov.uk/ukpga/2010/27/section/31/6A) inserted (1.12.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 58(8)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/8), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/9)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
+[^c-64f7f38e3f536101bd356e54b8a9fecc]: Textual amendment: [S. 31(6A)](https://www.legislation.gov.uk/ukpga/2010/27/section/31/6A) inserted (1.12.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 58(8)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/8), [72(4)(d)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/d) (with [s. 58(9)](https://www.legislation.gov.uk/ukpga/2016/11/section/58/9)); [S.I. 2017/1157](https://www.legislation.gov.uk/uksi/2017/1157), [regs. 3(a)](https://www.legislation.gov.uk/uksi/2017/1157/regulation/3/a), [4](https://www.legislation.gov.uk/uksi/2017/1157/regulation/4)
 
 [^c2030424]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2010/27/section/35) partly in force; [s. 35](https://www.legislation.gov.uk/ukpga/2010/27/section/35) in force for specified purposes at 8.6.2010 see [s. 38(2)(b)](https://www.legislation.gov.uk/ukpga/2010/27/section/38/2/b)
 
-[^key-548250132882095da8ef057fc11696ba]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2010/27/section/35) in force for specified purposes at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/b)
+[^c-548250132882095da8ef057fc11696ba]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2010/27/section/35) in force for specified purposes at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/b)
 
 [^c2030425]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/1) partly in force; [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/1) in force for specified purposes at 8.6.2010 see [s. 38(2)(b)](https://www.legislation.gov.uk/ukpga/2010/27/section/38/2/b)
 
 [^c2030426]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/5) partly in force; [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/5) in force for specified purposes at 8.6.2010 see [s. 38(2)(b)](https://www.legislation.gov.uk/ukpga/2010/27/section/38/2/b)
 
-[^key-a8c83a0751149251ea49af24de7e99bc]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/5) in force for specified purposes at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/b)
+[^c-a8c83a0751149251ea49af24de7e99bc]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/5) in force for specified purposes at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/b)
 
-[^key-650825ebf7a321d5f6631d79c07db320]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/7) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/b)
+[^c-650825ebf7a321d5f6631d79c07db320]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/7) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/b)
 
-[^key-a7bc8865b9dd3f1d52083ed33e40c4ad]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/8) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/b)
+[^c-a7bc8865b9dd3f1d52083ed33e40c4ad]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2010/27/schedule/paragraph/8) in force at 16.7.2012 by [S.I. 2012/1841](https://www.legislation.gov.uk/uksi/2012/1841), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1841/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80. Exchange gains and losses: alternative calculations[^key-d07cf15b317809d93239ca61d024db68]
+## 80. Exchange gains and losses: alternative calculations[^c-d07cf15b317809d93239ca61d024db68]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d07cf15b317809d93239ca61d024db68]: Commencement: Art. 80 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-d07cf15b317809d93239ca61d024db68]: Commencement: Art. 80 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

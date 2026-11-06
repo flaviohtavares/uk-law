@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Provisions relating to the Railways Act 1993[^key-b5956b8f4a25977b588b7c81b418c4f1]
+## 86. Provisions relating to the Railways Act 1993[^c-b5956b8f4a25977b588b7c81b418c4f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5956b8f4a25977b588b7c81b418c4f1]: Commencement: Art. 86 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-b5956b8f4a25977b588b7c81b418c4f1]: Commencement: Art. 86 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
 
 [^f00099]: Footnote: [1993 c. 43](https://www.legislation.gov.uk/ukpga/1993/43).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 5 — Minimum number of sampling points[^key-4691bce6a5fe599879f30fcbb36db03c]
+## SCHEDULE 5 — Minimum number of sampling points[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 *Extent: S*
 
@@ -24,48 +24,48 @@ summary: ''
 
 Regulation 15(1), (4), (5) and (7)
 
-### PART 1 — Group A pollutants: human health based limit values and alert thresholds[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 1 — Group A pollutants: human health based limit values and alert thresholds[^c-4691bce6a5fe599879f30fcbb36db03c]
 
-**1.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Diffuse sources[^key-4691bce6a5fe599879f30fcbb36db03c]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### 2. Point sources[^key-4691bce6a5fe599879f30fcbb36db03c]
+#### Diffuse sources[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — Group A pollutants: limit values for the protection of ecosystems or vegetation[^key-4691bce6a5fe599879f30fcbb36db03c]
-
-**3.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### PART 3 — Group B pollutants[^key-4691bce6a5fe599879f30fcbb36db03c]
-
-**5.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-#### Diffuse sources[^key-4691bce6a5fe599879f30fcbb36db03c]
+#### 2. Point sources[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 6. Point sources[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 2 — Group A pollutants: limit values for the protection of ecosystems or vegetation[^c-4691bce6a5fe599879f30fcbb36db03c]
+
+**3.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**4.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### PART 3 — Group B pollutants[^c-4691bce6a5fe599879f30fcbb36db03c]
+
+**5.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+#### Diffuse sources[^c-4691bce6a5fe599879f30fcbb36db03c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — Ozone[^key-4691bce6a5fe599879f30fcbb36db03c]
+#### 6. Point sources[^c-4691bce6a5fe599879f30fcbb36db03c]
 
-**7.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5 — Ozone: minimum number of sampling points for fixed measurements for zones attaining the long-term objectives[^key-4691bce6a5fe599879f30fcbb36db03c]
+### PART 4 — Ozone[^c-4691bce6a5fe599879f30fcbb36db03c]
 
-**8.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### PART 5 — Ozone: minimum number of sampling points for fixed measurements for zones attaining the long-term objectives[^c-4691bce6a5fe599879f30fcbb36db03c]
 
-**10.**[^key-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**9.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**10.**[^c-4691bce6a5fe599879f30fcbb36db03c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)
+[^c-4691bce6a5fe599879f30fcbb36db03c]: Textual amendment: Regulations revoked (11.6.2010) by [The Air Quality Standards (Scotland) Regulations 2010 (S.S.I. 2010/204)](https://www.legislation.gov.uk/ssi/2010/204), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2010/204/regulation/1), [29](https://www.legislation.gov.uk/ssi/2010/204/regulation/29)

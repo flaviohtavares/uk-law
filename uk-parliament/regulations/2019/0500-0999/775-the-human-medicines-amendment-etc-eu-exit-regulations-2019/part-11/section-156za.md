@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156ZA. Amendment of regulation 196 (urgent action)[^M_I_abcd60ee-3e87-477b-8fee-9cbb4f4b7cdb][^key-2faef837bbd533b6b59e99a6a445bf71]
+## 156ZA. Amendment of regulation 196 (urgent action)[^M_I_abcd60ee-3e87-477b-8fee-9cbb4f4b7cdb][^c-2faef837bbd533b6b59e99a6a445bf71]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ In regulation 196—
 
 [^M_I_abcd60ee-3e87-477b-8fee-9cbb4f4b7cdb]: Commencement: Reg. 156ZA in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2faef837bbd533b6b59e99a6a445bf71]: Textual amendment: Reg. 156ZA inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/123)
+[^c-2faef837bbd533b6b59e99a6a445bf71]: Textual amendment: Reg. 156ZA inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 123](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/123)

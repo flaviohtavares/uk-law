@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 106. Cancellation[^key-dbc2dd44790c2afd7868d9548d5719e3]
+## Article 106. Cancellation[^c-dbc2dd44790c2afd7868d9548d5719e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ Where the Secretary of State makes a decision to cancel under the first paragrap
 
 ## Annotations
 
-[^key-dbc2dd44790c2afd7868d9548d5719e3]: Textual amendment: [Art. 106](https://www.legislation.gov.uk/eur/2013/1308/article/106) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [3(9)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/3/9)
+[^c-dbc2dd44790c2afd7868d9548d5719e3]: Textual amendment: [Art. 106](https://www.legislation.gov.uk/eur/2013/1308/article/106) substituted (31.12.2020) by [The Common Organisation of the Markets in Agricultural Products (Producer Organisations and Wine) (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1446)](https://www.legislation.gov.uk/uksi/2020/1446), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/1/3), [3(9)](https://www.legislation.gov.uk/uksi/2020/1446/regulation/3/9)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Details to appear on election publications[^key-1b194105d24a14093c7c8717b5e3a31e]
+## 72. Details to appear on election publications[^c-1b194105d24a14093c7c8717b5e3a31e]
 
 *Extent: S*
 
@@ -33,7 +33,7 @@ summary: ''
 - (b) the name and address of the promoter of the material; and
 - (c) the name and address of any person on behalf of whom the material is being published (and who is not the promoter).
 
-(3A)[^key-9d8177531c54528d8d5d1dc2d92d98a0] Subject to paragraph (3B), for the purposes of paragraphs (4) to (6), the relevant details (as defined in paragraph (3)) must conform to the following specifications—
+(3A)[^c-9d8177531c54528d8d5d1dc2d92d98a0] Subject to paragraph (3B), for the purposes of paragraphs (4) to (6), the relevant details (as defined in paragraph (3)) must conform to the following specifications—
 
 - (a) type size of at least 11 points as measured in font ‘Times New Roman’ not narrowed, and
 - (b) space between text lines of at least 3mm.
@@ -91,7 +91,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (13) In this article—
 
-- “address” means postal address;[^key-c332a9d32cfa366ae8e7e551f33bb9fb]
+- “address” means postal address;[^c-c332a9d32cfa366ae8e7e551f33bb9fb]
 - “print” means print by whatever means, and “printer” shall be construed accordingly;
 - “the promoter”, in relation to any material to which this article applies, means the person causing the material to be published;
 - “publish” means make available to the public at large, or any section of the public, in whatever form and by whatever means (including by electronic means).
@@ -102,10 +102,10 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 ## Annotations
 
-[^key-1b194105d24a14093c7c8717b5e3a31e]: Commencement: Art. 72 in force at 16.12.2015 in accordance with art. 1(1)
+[^c-1b194105d24a14093c7c8717b5e3a31e]: Commencement: Art. 72 in force at 16.12.2015 in accordance with art. 1(1)
 
 [^f00045]: Footnote: Section 143 was amended by the 2000 Act, section 66(2).
 
-[^key-9d8177531c54528d8d5d1dc2d92d98a0]: Textual amendment: [Art. 72(3A)](https://www.legislation.gov.uk/ssi/2015/425/article/72/3A)[(3B)](https://www.legislation.gov.uk/ssi/2015/425/article/72/3B) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [11(2)](https://www.legislation.gov.uk/ssi/2020/426/article/11/2) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-9d8177531c54528d8d5d1dc2d92d98a0]: Textual amendment: [Art. 72(3A)](https://www.legislation.gov.uk/ssi/2015/425/article/72/3A)[(3B)](https://www.legislation.gov.uk/ssi/2015/425/article/72/3B) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [11(2)](https://www.legislation.gov.uk/ssi/2020/426/article/11/2) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
 
-[^key-c332a9d32cfa366ae8e7e551f33bb9fb]: Textual amendment: Words in [art. 72(13)](https://www.legislation.gov.uk/ssi/2015/425/article/72/13) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [11(3)](https://www.legislation.gov.uk/ssi/2020/426/article/11/3) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))
+[^c-c332a9d32cfa366ae8e7e551f33bb9fb]: Textual amendment: Words in [art. 72(13)](https://www.legislation.gov.uk/ssi/2015/425/article/72/13) inserted (11.12.2020) by [The Scottish Parliament (Elections etc.) (Miscellaneous Amendments) Order 2020 (S.S.I. 2020/426)](https://www.legislation.gov.uk/ssi/2020/426), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/426/article/1/1), [11(3)](https://www.legislation.gov.uk/ssi/2020/426/article/11/3) (with [art. 1(2)](https://www.legislation.gov.uk/ssi/2020/426/article/1/2))

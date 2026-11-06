@@ -27,7 +27,7 @@ summary: ''
 - (a) reducing crime and disorder;
 - (b) reducing re-offending;
 - (c) combating the misuse of drugs, alcohol and other substances.
-- (d)[^key-a86a5a9bc1ef85514cdb2b5cd1e1ffff] preventing people from becoming involved in serious violence;
+- (d)[^c-a86a5a9bc1ef85514cdb2b5cd1e1ffff] preventing people from becoming involved in serious violence;
 - (e) reducing instances of serious violence.
 
 (3) Subsections (4) to (6) apply if a combined area in relation to a combination agreement includes (wholly or party) the area of more than one police area.
@@ -53,12 +53,12 @@ summary: ''
 
 (9) In this section “**combination agreement**”, “**combined area**” and “**relevant local policing body**” have the same meanings as in section 5.
 
-(10)[^key-9fbc3a642afbf642079bc0929b38ddb3] References in this section to serious violence and to becoming involved in serious violence are to be construed in accordance with section 18.
+(10)[^c-9fbc3a642afbf642079bc0929b38ddb3] References in this section to serious violence and to becoming involved in serious violence are to be construed in accordance with section 18.
 
 ## Annotations
 
 [^c21414801]: Textual amendment: S. 5A inserted (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 88](https://www.legislation.gov.uk/ukpga/2011/13/section/88), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1), [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2011/13/schedule/11/paragraph/3); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1) para. (iii) (as amended by [S.I. 2012/75](https://www.legislation.gov.uk/uksi/2012/75), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2012/75/article/2/2/d))
 
-[^key-a86a5a9bc1ef85514cdb2b5cd1e1ffff]: Textual amendment: [S. 5A(2)(d)](https://www.legislation.gov.uk/ukpga/1998/37/section/5A/2/d)[(e)](https://www.legislation.gov.uk/ukpga/1998/37/section/5A/2/e) inserted (28.4.2022 for specified purposes, 31.1.2023 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/20/2/a), [208(4)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/f); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/l)
+[^c-a86a5a9bc1ef85514cdb2b5cd1e1ffff]: Textual amendment: [S. 5A(2)(d)](https://www.legislation.gov.uk/ukpga/1998/37/section/5A/2/d)[(e)](https://www.legislation.gov.uk/ukpga/1998/37/section/5A/2/e) inserted (28.4.2022 for specified purposes, 31.1.2023 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 20(2)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/20/2/a), [208(4)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/f); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/l)
 
-[^key-9fbc3a642afbf642079bc0929b38ddb3]: Textual amendment: [S. 5A(10)](https://www.legislation.gov.uk/ukpga/1998/37/section/5A/10) inserted (28.4.2022 for specified purposes, 31.1.2023 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/20/2/b), [208(4)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/f); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/l)
+[^c-9fbc3a642afbf642079bc0929b38ddb3]: Textual amendment: [S. 5A(10)](https://www.legislation.gov.uk/ukpga/1998/37/section/5A/10) inserted (28.4.2022 for specified purposes, 31.1.2023 in so far as not already in force) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 20(2)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/20/2/b), [208(4)(f)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/f); [S.I. 2022/1227](https://www.legislation.gov.uk/uksi/2022/1227), [reg. 4(l)](https://www.legislation.gov.uk/uksi/2022/1227/regulation/4/l)

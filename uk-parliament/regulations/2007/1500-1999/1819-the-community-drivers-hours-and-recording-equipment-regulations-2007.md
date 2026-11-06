@@ -59,7 +59,7 @@ Accordingly, the Secretary of State for Transport makes the following Regulation
 (2) In these Regulations—
 
 - “the Community Drivers' Hours Regulation” means Regulation [(EC) No 561/2006](https://www.legislation.gov.uk/eur/2006/561) of the European Parliament and of the Council [^c18768321] as amended from time to time;
-- **“the[^key-9b584d6c76feb6613a96de5e3b926fb9] EU Tachographs Regulation**” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council on tachographs in road transport
+- **“the[^c-9b584d6c76feb6613a96de5e3b926fb9] EU Tachographs Regulation**” means Regulation (EU) No. 165/2014 of the European Parliament and of the Council on tachographs in road transport
 - “**the 1968 Act**” means the Transport Act 1968.
 
 (3) Any expression used in these Regulations which is used in the Community Drivers' Hours Regulation has the same meaning as in that Regulation.
@@ -75,26 +75,26 @@ Accordingly, the Secretary of State for Transport makes the following Regulation
 
 ## 2. Exemption from the Community Drivers' Hours Regulation
 
-(1) [^key-8995d40b9ebec196dd35908b872f3a5c]... Exemption is granted from Articles 6, 7, 8 and 9 of the Community Drivers' Hours Regulation[^key-f21945a71f49afb96a21e850a31c2405] in respect of—
+(1) [^c-8995d40b9ebec196dd35908b872f3a5c]... Exemption is granted from Articles 6, 7, 8 and 9 of the Community Drivers' Hours Regulation[^c-f21945a71f49afb96a21e850a31c2405] in respect of—
 
 - (a) any vehicle falling within a description specified in Part 1 of the Schedule to these Regulations, and
 - (b) any vehicle—
   - (i) which has a maximum permissible mass not exceeding 7.5 tonnes,
   - (ii) which is being used to deliver items as part of a universal service by a universal service provider as defined in Article 2(13) of Directive [97/67/EC](https://www.legislation.gov.uk/eudr/1997/67) [^c18768401] of the European Parliament and of the Council on common rules for the development of the internal market of Community postal services,
-  - (iii) which is being used within a 100[^key-7edfb14ecc692f07b624562d957ed124] kilometre radius from the base of the universal service provider, and
+  - (iii) which is being used within a 100[^c-7edfb14ecc692f07b624562d957ed124] kilometre radius from the base of the universal service provider, and
   - (iv) the driving of which does not constitute the driver's main activity.
 
-(2) [^key-d1a7c33baa7a0ca866885fae9751ddfb]... Exemption is granted from Articles 6, 7, 8 and 9 of the Community Drivers' Hours Regulation[^key-6a81bd04d6ae78c976162cd69ffa9d96] in respect of any vehicle falling within a description specified in Part 2 of the Schedule to these Regulations.
+(2) [^c-d1a7c33baa7a0ca866885fae9751ddfb]... Exemption is granted from Articles 6, 7, 8 and 9 of the Community Drivers' Hours Regulation[^c-6a81bd04d6ae78c976162cd69ffa9d96] in respect of any vehicle falling within a description specified in Part 2 of the Schedule to these Regulations.
 
 ## 3. Supplementary provisions relating to the Community Drivers' Hours Regulation
 
-For the purpose of Article 3(i) of the Community Drivers' Hours Regulation and Article 2.2(k) of the European Agreement concerning the Work of Crews of Vehicles Engaged in International Road Transport (as applied by Article 2(3) of that Regulation)[^key-c27b75e6db8980b82e3b4d92d292ca58] a vehicle has a historic status if it is a vehicle which is by virtue of its construction and equipment suitable for carrying passengers or goods and which was manufactured more than 25 years before the date on which it is being driven.
+For the purpose of Article 3(i) of the Community Drivers' Hours Regulation and Article 2.2(k) of the European Agreement concerning the Work of Crews of Vehicles Engaged in International Road Transport (as applied by Article 2(3) of that Regulation)[^c-c27b75e6db8980b82e3b4d92d292ca58] a vehicle has a historic status if it is a vehicle which is by virtue of its construction and equipment suitable for carrying passengers or goods and which was manufactured more than 25 years before the date on which it is being driven.
 
-## 4. Exemption from the EU Tachographs Regulation[^key-be2516509b816c0783dfe6e532d683c1]
+## 4. Exemption from the EU Tachographs Regulation[^c-be2516509b816c0783dfe6e532d683c1]
 
-(1) [^key-d661c19eac5f80101cca87628d10ec83]... Exemption is granted from the provisions of the EU Tachographs Regulation[^key-f7d8627b12fd3d5ce196b7b5e1beb1fe] in respect of any vehicle falling within a description specified in Part 1 of the Schedule to these Regulations.
+(1) [^c-d661c19eac5f80101cca87628d10ec83]... Exemption is granted from the provisions of the EU Tachographs Regulation[^c-f7d8627b12fd3d5ce196b7b5e1beb1fe] in respect of any vehicle falling within a description specified in Part 1 of the Schedule to these Regulations.
 
-(2) [^key-0fae132a2a7e15d88c4251462fa6333a]... Exemption is granted from the provisions of the EU Tachographs Regulation[^key-87f47c25bfc4e914ba193d4d8cecda86] in respect of:
+(2) [^c-0fae132a2a7e15d88c4251462fa6333a]... Exemption is granted from the provisions of the EU Tachographs Regulation[^c-87f47c25bfc4e914ba193d4d8cecda86] in respect of:
 
 - (a) any vehicle falling within a description specified in Part 2 of the Schedule to these Regulations; and
 - (b) any vehicle being used for collecting sea coal.
@@ -174,7 +174,7 @@ Regulations 2 and 4
 (2) A vehicle does not fall within the description specified in this paragraph unless the vehicle—
 
 - (a) is being used for the provision of ambulance services—
-  - (i) by a relevant NHS body, [^key-3ac4e4bdeaae611c5e18c51d1dfcf53e]...
+  - (i) by a relevant NHS body, [^c-3ac4e4bdeaae611c5e18c51d1dfcf53e]...
   - (ii) in pursuance of arrangements made by or at the request of a relevant NHS body, or made with the Secretary of State or with the Welsh or Scottish Ministers; or[^M_F_c1b7c31d-8ced-4aa5-d5b9-cc732def511c]
   - (iii) services for persons who are aged 18 or over and have a disability within the meaning given by section 6 of the Equality Act 2010 (disability).
 - (b) is being used for the transport of organs, blood, equipment, medical supplies or personnel—
@@ -185,7 +185,7 @@ Regulations 2 and 4
   - (ii) services for persons to whom section 29 of the National Assistance Act 1948 [^c18768421] (welfare arrangements for physically and mentally handicapped persons) applies;
 - (d) is being used by Her Majesty's Coastguard, a general lighthouse authority or a local lighthouse authority;
 - (e) is being used for the purpose of maintaining railways by the British Railways Board, any holder of a network licence (within the meaning of Part 1 of the Railways Act 1993) [^c18768431] which is a company wholly owned by the Crown (within the meaning of that Act), Transport for London, any wholly owned subsidiary of Transport for London, a Passenger Transport Executive or a local authority;
-- (f) is being used by the British Waterways Board or Canal & River Trust[^key-42d2cf413d2f2ca14c8f5aea4e82de76] for the purpose of maintaining navigable waterways.
+- (f) is being used by the British Waterways Board or Canal & River Trust[^c-42d2cf413d2f2ca14c8f5aea4e82de76] for the purpose of maintaining navigable waterways.
 
 (3) In this paragraph—
 
@@ -194,7 +194,7 @@ Regulations 2 and 4
   - (a) in relation to England and Wales, a county or district council, a London borough council or the Common Council of the City of London; and
   - (b) in relation to Scotland, a regional, islands or district council;
 - “**relevant NHS body**” means—
-  - (a) in England, NHS England[^key-73adaa02e4abe82c4d448dc8a6740770], an integrated care board[^key-12f36dc3e25bf1b0d4de5f18f4e8e777], a National Health Service Trust, a Special Health Authority, and an NHS foundation trust;
+  - (a) in England, NHS England[^c-73adaa02e4abe82c4d448dc8a6740770], an integrated care board[^c-12f36dc3e25bf1b0d4de5f18f4e8e777], a National Health Service Trust, a Special Health Authority, and an NHS foundation trust;
   - (b) in Wales, a Local Health Board, a National Health Service Trust, and a Special Health Authority; and
   - (c) in Scotland, a Health Board, a Special Health Board, or the Common Services Agency for the Scottish Health Service;
 - “social services functions”—
@@ -211,11 +211,11 @@ Regulations 2 and 4
 
 **3.** Any tractor which is used for agricultural or forestry work within a 100 kilometre radius of the base of the undertaking which owns, hires or leases the tractor.
 
-**4.**[^key-bead2a17b834fdb58860623adccbc6b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-bead2a17b834fdb58860623adccbc6b9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.** Any vehicle which operates exclusively on an island which does not exceed 2300 square kilometres in area and is not linked to the rest of Great Britain by a bridge, ford or tunnel open for use by motor vehicles.
 
-**6.**[^key-e52d9452ed54588c84ed8de1bc3bb74b] (1) Any zero-emission vehicle which is used by an undertaking for the carriage of goods and has a maximum permissible mass, including the mass of any trailer or semi-trailer drawn by it, exceeding 3.5 tonnes but not exceeding 4.25 tonnes.
+**6.**[^c-e52d9452ed54588c84ed8de1bc3bb74b] (1) Any zero-emission vehicle which is used by an undertaking for the carriage of goods and has a maximum permissible mass, including the mass of any trailer or semi-trailer drawn by it, exceeding 3.5 tonnes but not exceeding 4.25 tonnes.
 
 (2) Any vehicle, not being a zero-emission vehicle to which paragraph 6(1) applies, which—
 
@@ -252,7 +252,7 @@ Regulations 2 and 4
 
 (2) For the purposes of this paragraph, examples of “hub facilities” include ports, interports and railway terminals.
 
-**15.** Any vehicle which is being used to carry live animals from a farm to a market, or from a market to a slaughterhouse, where the distance between the farm and the market, or between the market and the slaughterhouse, does not exceed 100[^key-7b3e4ef9e0b48e92257a01579b7c5561] kilometres.
+**15.** Any vehicle which is being used to carry live animals from a farm to a market, or from a market to a slaughterhouse, where the distance between the farm and the market, or between the market and the slaughterhouse, does not exceed 100[^c-7b3e4ef9e0b48e92257a01579b7c5561] kilometres.
 
 ### PART 2 — Vehicles Exempted by Regulations 2(2) and 4(2)
 
@@ -288,7 +288,7 @@ A copy of the Community Drivers' Hours Regulation can be obtained from the Offic
 
 [^c18768321]: Marginal citation: O.J. No.L102, 11.04.06, p.1.
 
-[^key-9b584d6c76feb6613a96de5e3b926fb9]: Textual amendment: Words in reg. 1(2) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/21/2)
+[^c-9b584d6c76feb6613a96de5e3b926fb9]: Textual amendment: Words in reg. 1(2) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [21(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/21/2)
 
 [^c18768341]: Marginal citation: [S.I. 1986/1456](https://www.legislation.gov.uk/uksi/1986/1456).
 
@@ -302,33 +302,33 @@ A copy of the Community Drivers' Hours Regulation can be obtained from the Offic
 
 [^c18768391]: Marginal citation: [S.I. 1994/857](https://www.legislation.gov.uk/uksi/1994/857).
 
-[^key-8995d40b9ebec196dd35908b872f3a5c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/2/1) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [52(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/52/2/a) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8995d40b9ebec196dd35908b872f3a5c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/2/1) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [52(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/52/2/a) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f21945a71f49afb96a21e850a31c2405]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/2/1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [52(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/52/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f21945a71f49afb96a21e850a31c2405]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/2/1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [52(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/52/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18768401]: Marginal citation: O.J. No. L15, 21.01.98 p14-25. Directive 97/67/EC has been amended by Directive 2002/39/EC and by Regulation 1882/2003 but these do not amend Article 2 (13).
 
-[^key-7edfb14ecc692f07b624562d957ed124]: Textual amendment: Word in [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/2/1/b/iii) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2016/248/regulation/21/3)
+[^c-7edfb14ecc692f07b624562d957ed124]: Textual amendment: Word in [reg. 2(1)(b)(iii)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/2/1/b/iii) substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [21(3)](https://www.legislation.gov.uk/uksi/2016/248/regulation/21/3)
 
-[^key-d1a7c33baa7a0ca866885fae9751ddfb]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/2/2) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [52(3)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/52/3/a) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d1a7c33baa7a0ca866885fae9751ddfb]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/2/2) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [52(3)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/52/3/a) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6a81bd04d6ae78c976162cd69ffa9d96]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/2/2) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [52(3)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/52/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6a81bd04d6ae78c976162cd69ffa9d96]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/2/2) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [52(3)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/52/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c27b75e6db8980b82e3b4d92d292ca58]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2007/1819/regulation/3) inserted (26.3.2019) by [The Drivers Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2019/453/regulation/28)
+[^c-c27b75e6db8980b82e3b4d92d292ca58]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/2007/1819/regulation/3) inserted (26.3.2019) by [The Drivers Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/2), [28](https://www.legislation.gov.uk/uksi/2019/453/regulation/28)
 
-[^key-be2516509b816c0783dfe6e532d683c1]: Textual amendment: Words in reg. 4 heading substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2016/248/regulation/21/4)
+[^c-be2516509b816c0783dfe6e532d683c1]: Textual amendment: Words in reg. 4 heading substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [21(4)](https://www.legislation.gov.uk/uksi/2016/248/regulation/21/4)
 
-[^key-d661c19eac5f80101cca87628d10ec83]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/4/1) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [53(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/53/2/a) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d661c19eac5f80101cca87628d10ec83]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/4/1) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [53(2)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/53/2/a) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f7d8627b12fd3d5ce196b7b5e1beb1fe]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/4/1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [53(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/53/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7d8627b12fd3d5ce196b7b5e1beb1fe]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/4/1) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [53(2)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/53/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0fae132a2a7e15d88c4251462fa6333a]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/4/2) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [53(3)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/53/3/a) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0fae132a2a7e15d88c4251462fa6333a]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/4/2) omitted (31.12.2020) by virtue of [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [53(3)(a)](https://www.legislation.gov.uk/uksi/2019/453/regulation/53/3/a) (with [reg. 114](https://www.legislation.gov.uk/uksi/2019/453/regulation/114)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-87f47c25bfc4e914ba193d4d8cecda86]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/4/2) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [53(3)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/53/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-87f47c25bfc4e914ba193d4d8cecda86]: Textual amendment: Words in [reg. 4(2)](https://www.legislation.gov.uk/uksi/2007/1819/regulation/4/2) substituted (31.12.2020) by [The Drivers' Hours and Tachographs (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/453)](https://www.legislation.gov.uk/uksi/2019/453), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/453/regulation/1/3), [53(3)(b)](https://www.legislation.gov.uk/uksi/2019/453/regulation/53/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c18768411]: Marginal citation: Cmnd 7401, Cmnd 8572, Cmnd. 9037, Cm 1776, Cm 3042 and Cm 3135.
 
-[^key-3ac4e4bdeaae611c5e18c51d1dfcf53e]: Textual amendment: Word in Sch. para. 1(2)(c)(i) omitted (1.4.2015) by virtue of [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 28(a)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/28/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4)); S.I. 2015/993, art. 2(a)
+[^c-3ac4e4bdeaae611c5e18c51d1dfcf53e]: Textual amendment: Word in Sch. para. 1(2)(c)(i) omitted (1.4.2015) by virtue of [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 28(a)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/28/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4)); S.I. 2015/993, art. 2(a)
 
 [^M_F_c1b7c31d-8ced-4aa5-d5b9-cc732def511c]: Textual amendment: Word in Sch. para. 1(2)(c)(iii) inserted (1.4.2015) by virtue of [The Care Act 2014 (Consequential Amendments) (Secondary Legislation) Order 2015 (S.I. 2015/643)](https://www.legislation.gov.uk/uksi/2015/643), [art. 1(2)](https://www.legislation.gov.uk/uksi/2015/643/article/1/2), [Sch. para. 28(b)](https://www.legislation.gov.uk/uksi/2015/643/schedule/paragraph/28/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2015/643/article/4)); S.I. 2015/993, art. 2(a)
 
@@ -336,13 +336,13 @@ A copy of the Community Drivers' Hours Regulation can be obtained from the Offic
 
 [^c18768431]: Marginal citation: [1993 c.21](https://www.legislation.gov.uk/ukpga/1993/21).
 
-[^key-42d2cf413d2f2ca14c8f5aea4e82de76]: Textual amendment: Words in Sch. para. 1(2)(f) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 36](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/36) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-42d2cf413d2f2ca14c8f5aea4e82de76]: Textual amendment: Words in Sch. para. 1(2)(f) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 3 para. 36](https://www.legislation.gov.uk/uksi/2012/1659/schedule/3/paragraph/36) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c18768441]: Marginal citation: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21).
 
-[^key-73adaa02e4abe82c4d448dc8a6740770]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-73adaa02e4abe82c4d448dc8a6740770]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-12f36dc3e25bf1b0d4de5f18f4e8e777]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-12f36dc3e25bf1b0d4de5f18f4e8e777]: Textual amendment: Words in Regulations substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
 
 [^c18768451]: Marginal citation: [1970 c.42](https://www.legislation.gov.uk/ukpga/1970/42). Section 1A was inserted by section 102(3) of the [Local Government Act 2000 (c.22)](https://www.legislation.gov.uk/ukpga/2000/22).
 
@@ -350,8 +350,8 @@ A copy of the Community Drivers' Hours Regulation can be obtained from the Offic
 
 [^c18768471]: Marginal citation: [1985 c.6](https://www.legislation.gov.uk/ukpga/1985/6); section 736 was substituted by section 144(1) of the [Companies Act 1989 (c.40)](https://www.legislation.gov.uk/ukpga/1989/40). A further amendment to that section is not relevant to these Regulations.
 
-[^key-bead2a17b834fdb58860623adccbc6b9]: Textual amendment: Sch. para. 4 omitted (2.3.2016) by virtue of [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [21(5)(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/21/5/a)
+[^c-bead2a17b834fdb58860623adccbc6b9]: Textual amendment: Sch. para. 4 omitted (2.3.2016) by virtue of [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [21(5)(a)](https://www.legislation.gov.uk/uksi/2016/248/regulation/21/5/a)
 
-[^key-e52d9452ed54588c84ed8de1bc3bb74b]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2007/1819/schedule/paragraph/6) substituted (1.6.2026) by [The Goods Vehicles (Testing, Drivers’ Hours and Tachographs etc.) (Amendment) Regulations 2026 (S.I. 2026/501)](https://www.legislation.gov.uk/uksi/2026/501), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/501/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2026/501/regulation/5/2)
+[^c-e52d9452ed54588c84ed8de1bc3bb74b]: Textual amendment: [Sch. para. 6](https://www.legislation.gov.uk/uksi/2007/1819/schedule/paragraph/6) substituted (1.6.2026) by [The Goods Vehicles (Testing, Drivers’ Hours and Tachographs etc.) (Amendment) Regulations 2026 (S.I. 2026/501)](https://www.legislation.gov.uk/uksi/2026/501), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/501/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2026/501/regulation/5/2)
 
-[^key-7b3e4ef9e0b48e92257a01579b7c5561]: Textual amendment: Word in Sch. para. 15 substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [21(5)(b)](https://www.legislation.gov.uk/uksi/2016/248/regulation/21/5/b)
+[^c-7b3e4ef9e0b48e92257a01579b7c5561]: Textual amendment: Word in Sch. para. 15 substituted (2.3.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations 2016 (S.I. 2016/248)](https://www.legislation.gov.uk/uksi/2016/248), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/248/regulation/1/2), [21(5)(b)](https://www.legislation.gov.uk/uksi/2016/248/regulation/21/5/b)

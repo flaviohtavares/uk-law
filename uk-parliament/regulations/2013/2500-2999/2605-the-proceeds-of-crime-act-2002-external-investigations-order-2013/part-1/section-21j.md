@@ -43,7 +43,7 @@ summary: ''
 (6 (Extent: E+W)) The court in deciding whether to make an exclusion for the purposes of enabling a person to meet legal expenses in respect of proceedings under this Order— *(Extent: E+W)*
 
 - (a (Extent: E+W)) must have regard to the desirability of the person being represented in any proceedings under this Part in which the person is a participant, and *(Extent: E+W)*
-- (b (Extent: E+W)) must disregard the possibility that legal representation of the person in any such proceedings might, were an exclusion not made *(Extent: E+W)* —[^key-6b669adab8ea2ebad233e8baa4950863] *(Extent: E+W)*
+- (b (Extent: E+W)) must disregard the possibility that legal representation of the person in any such proceedings might, were an exclusion not made *(Extent: E+W)* —[^c-6b669adab8ea2ebad233e8baa4950863] *(Extent: E+W)*
   - (i (Extent: E+W)) be made available under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012, or *(Extent: E+W)*
   - (ii (Extent: E+W)) be funded by the Legal Services Agency Northern Ireland. *(Extent: E+W)*
 
@@ -53,4 +53,4 @@ summary: ''
 
 [^M_F_6f5a60ae-0a79-45ea-f23d-57ee03aae285]: Textual amendment: Arts. 21H-21P inserted (12.11.2018) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [8](https://www.legislation.gov.uk/uksi/2018/1078/article/8)
 
-[^key-6b669adab8ea2ebad233e8baa4950863]: Textual amendment: [Art. 21J(6)(b)(i)(ii)](https://www.legislation.gov.uk/uksi/2013/2605/article/21J/6/b/i/ii) substituted for words (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [49](https://www.legislation.gov.uk/uksi/2021/638/article/49)
+[^c-6b669adab8ea2ebad233e8baa4950863]: Textual amendment: [Art. 21J(6)(b)(i)(ii)](https://www.legislation.gov.uk/uksi/2013/2605/article/21J/6/b/i/ii) substituted for words (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [49](https://www.legislation.gov.uk/uksi/2021/638/article/49)

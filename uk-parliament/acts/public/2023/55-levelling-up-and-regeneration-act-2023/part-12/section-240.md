@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 240. Blue plaques in England[^key-406e1063c68095659b7df1f4336354f4]
+## 240. Blue plaques in England[^c-406e1063c68095659b7df1f4336354f4]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In paragraph 4 of Schedule 2 to the Local Government Act 1985 (Listed Buildings,
 
 ## Annotations
 
-[^key-406e1063c68095659b7df1f4336354f4]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2023/55/section/240) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)
+[^c-406e1063c68095659b7df1f4336354f4]: Commencement: [S. 240](https://www.legislation.gov.uk/ukpga/2023/55/section/240) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)

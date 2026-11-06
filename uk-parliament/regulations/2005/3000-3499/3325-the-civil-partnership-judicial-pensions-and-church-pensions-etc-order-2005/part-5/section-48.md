@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**48.**[^key-b92bda9fde88cb2ff7431a6af82cd2f9] (1) Section 10 (judicial pensions (increase of widow’s and children’s pensions)), as applied by subsection (8) of that section, is amended as follows.
+**48.**[^c-b92bda9fde88cb2ff7431a6af82cd2f9] (1) Section 10 (judicial pensions (increase of widow’s and children’s pensions)), as applied by subsection (8) of that section, is amended as follows.
 
 (2) In subsection (1), for “widow’s or widower's”, in both places, substitute “widow's, widower’s or surviving civil partner's”.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b92bda9fde88cb2ff7431a6af82cd2f9]: Commencement: Art. 48 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-b92bda9fde88cb2ff7431a6af82cd2f9]: Commencement: Art. 48 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

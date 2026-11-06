@@ -29,39 +29,39 @@ Seal Fisheries (North Pacific) Act 1912 (repealed)
 
 1912 c.10
 
-[^key-aed5494e4ed7319f738e62002c756bb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aed5494e4ed7319f738e62002c756bb5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Extension of area within which pelagic sealing may be prohibited.[^key-aed5494e4ed7319f738e62002c756bb5][^key-aed5494e4ed7319f738e62002c756bb5]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Power to prohibit killing and hunting of sea otters.[^key-aed5494e4ed7319f738e62002c756bb5][^key-aed5494e4ed7319f738e62002c756bb5]
+## 1. Extension of area within which pelagic sealing may be prohibited.[^c-aed5494e4ed7319f738e62002c756bb5][^c-aed5494e4ed7319f738e62002c756bb5]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition of using ports for purposes of pelagic sealing contrary to Order.[^key-aed5494e4ed7319f738e62002c756bb5][^key-aed5494e4ed7319f738e62002c756bb5]
+## 2. Power to prohibit killing and hunting of sea otters.[^c-aed5494e4ed7319f738e62002c756bb5][^c-aed5494e4ed7319f738e62002c756bb5]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibition of importation of skins of seals captured in contravention of Order.[^key-aed5494e4ed7319f738e62002c756bb5][^key-aed5494e4ed7319f738e62002c756bb5]
+## 3. Prohibition of using ports for purposes of pelagic sealing contrary to Order.[^c-aed5494e4ed7319f738e62002c756bb5][^c-aed5494e4ed7319f738e62002c756bb5]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Power to extend certain provisions outside the United Kingdom.[^key-aed5494e4ed7319f738e62002c756bb5][^key-aed5494e4ed7319f738e62002c756bb5]
+## 4. Prohibition of importation of skins of seals captured in contravention of Order.[^c-aed5494e4ed7319f738e62002c756bb5][^c-aed5494e4ed7319f738e62002c756bb5]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Short title and construction.[^key-aed5494e4ed7319f738e62002c756bb5][^key-aed5494e4ed7319f738e62002c756bb5]
+## 5. Power to extend certain provisions outside the United Kingdom.[^c-aed5494e4ed7319f738e62002c756bb5][^c-aed5494e4ed7319f738e62002c756bb5]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 6. Short title and construction.[^c-aed5494e4ed7319f738e62002c756bb5][^c-aed5494e4ed7319f738e62002c756bb5]
 
 **No longer in force.**
 
@@ -69,4 +69,4 @@ Seal Fisheries (North Pacific) Act 1912 (repealed)
 
 ## Annotations
 
-[^key-aed5494e4ed7319f738e62002c756bb5]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/2-3/10) repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 234(g)](https://www.legislation.gov.uk/ukpga/2009/23/section/234/g), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pts. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/11)[Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)
+[^c-aed5494e4ed7319f738e62002c756bb5]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/Geo5/2-3/10) repealed (1.4.2010) by [Marine and Coastal Access Act 2009 (c. 23)](https://www.legislation.gov.uk/ukpga/2009/23), [ss. 234(g)](https://www.legislation.gov.uk/ukpga/2009/23/section/234/g), [324(3)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/3), [Sch. 22 Pts. 5(C)](https://www.legislation.gov.uk/ukpga/2009/23/schedule/22/part/5/C); [S.I. 2010/298](https://www.legislation.gov.uk/uksi/2010/298), [art. 2](https://www.legislation.gov.uk/uksi/2010/298/article/2), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/11)[Sch. para. 12](https://www.legislation.gov.uk/uksi/2010/298/schedule/paragraph/12)

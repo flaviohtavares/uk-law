@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Article 10 of Commission Regulation [(EC) No 29/2009](https://www.legislation.gov.uk/eur/2009/29)[^key-3f3d398e83363cde10e25e3da0b5bd7a]
+## 130. Article 10 of Commission Regulation [(EC) No 29/2009](https://www.legislation.gov.uk/eur/2009/29)[^c-3f3d398e83363cde10e25e3da0b5bd7a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 10 (safety requirements) for “Member States” substitute “ The C
 
 ## Annotations
 
-[^key-3f3d398e83363cde10e25e3da0b5bd7a]: Commencement: Reg. 130 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-3f3d398e83363cde10e25e3da0b5bd7a]: Commencement: Reg. 130 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

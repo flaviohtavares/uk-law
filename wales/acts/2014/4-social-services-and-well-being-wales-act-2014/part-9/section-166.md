@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 166. Partnership arrangements[^key-3a77b02012cc363e2d0bfef3525b5148]
+## 166. Partnership arrangements[^c-3a77b02012cc363e2d0bfef3525b5148]
 
 *Extent: E+W*
 
@@ -32,7 +32,7 @@ summary: ''
   - (ii) in the opinion of the Welsh Ministers, have an effect on, or are affected by, a local authority's social services functions, or
 - (b) functions specified in regulations of—
   - (i) a Local Health Board, or
-  - (ii) an NHS[^key-0eb2ba7ac537b7722ddc5e47a8fac63b] Trust.
+  - (ii) an NHS[^c-0eb2ba7ac537b7722ddc5e47a8fac63b] Trust.
 
 (3) Regulations under subsection (1) must make provision—
 
@@ -68,6 +68,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a77b02012cc363e2d0bfef3525b5148]: Commencement: S. 166 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
+[^c-3a77b02012cc363e2d0bfef3525b5148]: Commencement: S. 166 in force at 6.4.2016 by [S.I. 2016/412](https://www.legislation.gov.uk/wsi/2016/412), [art. 2](https://www.legislation.gov.uk/wsi/2016/412/article/2) (with [art. 4](https://www.legislation.gov.uk/wsi/2016/412/article/4), [Schs. 1](https://www.legislation.gov.uk/wsi/2016/412/schedule/1), [2](https://www.legislation.gov.uk/wsi/2016/412/schedule/2))
 
-[^key-0eb2ba7ac537b7722ddc5e47a8fac63b]: Textual amendment: Words in s. 166(2)(b)(ii) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [313](https://www.legislation.gov.uk/wsi/2016/413/regulation/313)
+[^c-0eb2ba7ac537b7722ddc5e47a8fac63b]: Textual amendment: Words in s. 166(2)(b)(ii) substituted (6.4.2016) by [The Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 (S.I. 2016/413)](https://www.legislation.gov.uk/wsi/2016/413), [regs. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1), [313](https://www.legislation.gov.uk/wsi/2016/413/regulation/313)

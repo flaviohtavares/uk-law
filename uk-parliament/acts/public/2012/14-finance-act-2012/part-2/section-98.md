@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 98. Commercial allocation[^key-09989e7a904842aabab4d568eba89aff]
+## 98. Commercial allocation[^c-09989e7a904842aabab4d568eba89aff]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ that, for the purposes of Chapter 3, are to be regarded as referable to its basi
 
 ## Annotations
 
-[^key-09989e7a904842aabab4d568eba89aff]: Modification: S. 98 modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2012/3008/regulation/11) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))
+[^c-09989e7a904842aabab4d568eba89aff]: Modification: S. 98 modified (31.12.2012) by [The Friendly Societies (Modifications of the Tax Acts) Regulations 2012 (S.I. 2012/3008)](https://www.legislation.gov.uk/uksi/2012/3008), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2012/3008/regulation/11) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2012/3008/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2012/3008/regulation/2))

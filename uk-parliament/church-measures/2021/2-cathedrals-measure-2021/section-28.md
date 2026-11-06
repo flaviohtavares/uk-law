@@ -38,7 +38,7 @@ summary: ''
 
 (5) The Church Commissioners may make grants to the Chapter of a cathedral for the purpose of securing the better provision of houses for clerks in Holy Orders who hold office in the cathedral.
 
-(6)[^key-ac6f8808a0652f1d7dff60c43cea0533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ac6f8808a0652f1d7dff60c43cea0533] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) The Church Commissioners may make grants for the purpose of supporting cathedrals to such bodies as appear to the Church Commissioners to represent cathedrals.
 
@@ -46,10 +46,10 @@ summary: ''
 
 (9) In the application of this section to each cathedral of the diocese of Leeds, subsection (1) has effect as if for “two full-time equivalent residentiary canons” there were substituted “ one full-time equivalent residentiary canon ”; but, in the case of each of those cathedrals, this subsection applies to that cathedral only if the Bishop of Leeds has given consent for it to apply to it.
 
-(10)[^key-018b016450f522a7c62efc96dd2fca7c] This section (including as it is applied by subsection (9)) does not apply to a lay residentiary canon.
+(10)[^c-018b016450f522a7c62efc96dd2fca7c] This section (including as it is applied by subsection (9)) does not apply to a lay residentiary canon.
 
 ## Annotations
 
-[^key-ac6f8808a0652f1d7dff60c43cea0533]: Textual amendment: [S. 28(6)](https://www.legislation.gov.uk/ukcm/2021/2/section/28/6) ceases to have effect (1.10.2025) by virtue of [Chancel Repair (Church Commissioners’ Liability) Measure 2025 (No. 1)](https://www.legislation.gov.uk/ukcm/2025/1), [ss. 4(4)](https://www.legislation.gov.uk/ukcm/2025/1/section/4/4), [6(3)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/3) (with [s. 6(5)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/5)); [S.I. 2025/1041](https://www.legislation.gov.uk/uksi/2025/1041), [art. 2](https://www.legislation.gov.uk/uksi/2025/1041/article/2)
+[^c-ac6f8808a0652f1d7dff60c43cea0533]: Textual amendment: [S. 28(6)](https://www.legislation.gov.uk/ukcm/2021/2/section/28/6) ceases to have effect (1.10.2025) by virtue of [Chancel Repair (Church Commissioners’ Liability) Measure 2025 (No. 1)](https://www.legislation.gov.uk/ukcm/2025/1), [ss. 4(4)](https://www.legislation.gov.uk/ukcm/2025/1/section/4/4), [6(3)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/3) (with [s. 6(5)](https://www.legislation.gov.uk/ukcm/2025/1/section/6/5)); [S.I. 2025/1041](https://www.legislation.gov.uk/uksi/2025/1041), [art. 2](https://www.legislation.gov.uk/uksi/2025/1041/article/2)
 
-[^key-018b016450f522a7c62efc96dd2fca7c]: Textual amendment: [S. 28(10)](https://www.legislation.gov.uk/ukcm/2021/2/section/28/10) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/23)
+[^c-018b016450f522a7c62efc96dd2fca7c]: Textual amendment: [S. 28(10)](https://www.legislation.gov.uk/ukcm/2021/2/section/28/10) inserted (coming into force in accordance with s. 22(3) of the amending Measure) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/ukcm/2024/1/schedule/1/paragraph/23)

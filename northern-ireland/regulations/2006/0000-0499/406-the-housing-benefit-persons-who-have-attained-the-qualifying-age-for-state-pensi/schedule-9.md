@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 9 — Matters to be included in decision notice[^key-771039f401281af5bd2f60439de88f89]
+## SCHEDULE 9 — Matters to be included in decision notice[^c-771039f401281af5bd2f60439de88f89]
 
 *Extent: N.I.*
 
@@ -24,30 +24,30 @@ Regulation 67
 
 ### PART I — General
 
-**1.**[^key-31d4005b44e2405b2e3421a9d4fe116c] The statement of matters to be included in any decision notice issued by a relevant authority to a person, and referred to in regulation 67 and in regulation 10 of the Decisions and Appeals Regulations are those matters set out in the following provisions of this Schedule.
+**1.**[^c-31d4005b44e2405b2e3421a9d4fe116c] The statement of matters to be included in any decision notice issued by a relevant authority to a person, and referred to in regulation 67 and in regulation 10 of the Decisions and Appeals Regulations are those matters set out in the following provisions of this Schedule.
 
-**2.**[^key-11d43985c51c82fa7e2a46ea8a2bdf9d] Every decision notice shall include a statement as to the right of any person affected by that decision to request a written statement under regulation 67(2) and the manner and time in which to do so.
+**2.**[^c-11d43985c51c82fa7e2a46ea8a2bdf9d] Every decision notice shall include a statement as to the right of any person affected by that decision to request a written statement under regulation 67(2) and the manner and time in which to do so.
 
-**3.**[^key-e068c5950550ed7bf547f4bbced045d2] Every decision notice shall include a statement as to the right of any person affected by that decision to make an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations and, where appropriate, to appeal against that decision and the manner and time in which to do so.
+**3.**[^c-e068c5950550ed7bf547f4bbced045d2] Every decision notice shall include a statement as to the right of any person affected by that decision to make an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations and, where appropriate, to appeal against that decision and the manner and time in which to do so.
 
-**4.**[^key-c64d9ae7fac44f6c46098756cde08707] Every decision notice following an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations shall include a statement as to whether the original decision in respect of which the person made his representations has been confirmed or revised and where the relevant authority has not revised the decision the reasons why not.
+**4.**[^c-c64d9ae7fac44f6c46098756cde08707] Every decision notice following an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations shall include a statement as to whether the original decision in respect of which the person made his representations has been confirmed or revised and where the relevant authority has not revised the decision the reasons why not.
 
-**5.**[^key-2959409e1b467a1b848dbbdfabb365a0] Every decision notice following an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations shall, if the original decision has been revised, include a statement as to the right of any person affected by that decision to apply for a revision in accordance with regulation 4(1)(a) of those Regulations and the manner and time in which to do so.
+**5.**[^c-2959409e1b467a1b848dbbdfabb365a0] Every decision notice following an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations shall, if the original decision has been revised, include a statement as to the right of any person affected by that decision to apply for a revision in accordance with regulation 4(1)(a) of those Regulations and the manner and time in which to do so.
 
-**6.**[^key-8d9a31496fe04501c570abe17577b291] An authority may include in the decision notice any other matters not prescribed by this Schedule which it sees fit, whether expressly or by reference to some other document available without charge to the person.
+**6.**[^c-8d9a31496fe04501c570abe17577b291] An authority may include in the decision notice any other matters not prescribed by this Schedule which it sees fit, whether expressly or by reference to some other document available without charge to the person.
 
-**7.**[^key-7d89fdfb8b5c05f3981008ebb897ad81] Parts II, III and VI shall apply only to the decision notice given on a claim.
+**7.**[^c-7d89fdfb8b5c05f3981008ebb897ad81] Parts II, III and VI shall apply only to the decision notice given on a claim.
 
-**8.**[^key-13559b8073e40278d301e0658f32d9c2] Where a decision notice is given following a revision of an earlier decision—
+**8.**[^c-13559b8073e40278d301e0658f32d9c2] Where a decision notice is given following a revision of an earlier decision—
 
 - (a) made of the authority’s own motion which results in a revision of that earlier decision; or
 - (b) made following an application for a revision in accordance with regulation 4(1)(a) of the Decisions and Appeals Regulations, whether or not resulting in a revision of that earlier decision,
 
 that notice shall, subject to paragraph 6, contain a statement only as to all the matters revised.
 
-### PART II — Awards where state pension credit or an extended payment (qualifying contributory benefits) is payable[^key-8b5e48f909ffc8f0a4c6c3c569685170]
+### PART II — Awards where state pension credit or an extended payment (qualifying contributory benefits) is payable[^c-8b5e48f909ffc8f0a4c6c3c569685170]
 
-**9.**[^key-48166e30e4c2e78886e51599792e6787] (1) Where a person on state pension credit is awarded housing benefit, the decision notice shall include a statement as to—
+**9.**[^c-48166e30e4c2e78886e51599792e6787] (1) Where a person on state pension credit is awarded housing benefit, the decision notice shall include a statement as to—
 
 - (a) his weekly eligible rates, if any;
 - (b) his weekly eligible rent, if any;
@@ -66,11 +66,11 @@ that notice shall, subject to paragraph 6, contain a statement only as to all th
 - (d) any modification of the claimant’s income or capital made in accordance with regulation 25; and
 - (e) the amount of the claimant’s capital if regulation 25(7) applies in his case.
 
-(3)[^key-986e0eb1f3170eac8cb7d6b2356df282] Where a claimant is entitled to an extended payment (qualifying contributory benefits) in accordance with regulation 51, the decision notice shall include a statement as to the matters set out in paragraph 9(1).
+(3)[^c-986e0eb1f3170eac8cb7d6b2356df282] Where a claimant is entitled to an extended payment (qualifying contributory benefits) in accordance with regulation 51, the decision notice shall include a statement as to the matters set out in paragraph 9(1).
 
 ### PART III — Awards where no state pension credit is payable
 
-**10.**[^key-97fe8731fe004d32254d10d16effa5d2] Where a person is not on state pension credit but is awarded housing benefit, the decision notice shall include a statement as to—
+**10.**[^c-97fe8731fe004d32254d10d16effa5d2] Where a person is not on state pension credit but is awarded housing benefit, the decision notice shall include a statement as to—
 
 - (a) the matters set out in paragraph 9;
 - (b) his applicable amount and how it is calculated;
@@ -79,7 +79,7 @@ that notice shall, subject to paragraph 6, contain a statement only as to all th
 
 ### PART IV — Awards where direct payments made to landlords
 
-**11.**[^key-5ebac7b67ba466a6d42281ca4ef9d72f] Where a decision has been made under regulation 73 or 74, the decision notice shall include a statement—
+**11.**[^c-5ebac7b67ba466a6d42281ca4ef9d72f] Where a decision has been made under regulation 73 or 74, the decision notice shall include a statement—
 
 - (a) as to the amount of housing benefit which is to be paid direct to the landlord and the date from which it is to be paid;
 - (b) informing the landlord of the duty imposed upon him to notify the Executive of—
@@ -89,28 +89,28 @@ that notice shall, subject to paragraph 6, contain a statement only as to all th
 
 and the notice shall be sent both to the claimant and to the landlord.
 
-**12.**[^key-c830823bbb0b3f82180aa8b6db253f9f] In this Schedule, “**landlord**” has the same meaning as in regulation 73.
+**12.**[^c-c830823bbb0b3f82180aa8b6db253f9f] In this Schedule, “**landlord**” has the same meaning as in regulation 73.
 
 ### PART V — Notice where income of non-dependant is treated as claimant’s
 
-**13.**[^key-cb4bfdb128eb9dc6e82db98e0904b5a7] Where an authority makes a decision under regulation 22 the decision notice shall contain a statement as to—
+**13.**[^c-cb4bfdb128eb9dc6e82db98e0904b5a7] Where an authority makes a decision under regulation 22 the decision notice shall contain a statement as to—
 
 - (a) the fact that a decision has been made by reference to the income and capital of the claimant’s non-dependant; and
 - (b) the relevant authority’s reasons for making that decision.
 
 ### PART VI — Notice where no award is made
 
-**14.**[^key-983a7dd9ad7a8edb4c916cfe08381d10] (...)[^key-ab2d5a6e62b397718a9da94417b05d50] Where a person is not awarded housing benefit—
+**14.**[^c-983a7dd9ad7a8edb4c916cfe08381d10] (...)[^c-ab2d5a6e62b397718a9da94417b05d50] Where a person is not awarded housing benefit—
 
 - (a) either on grounds of income or because the amount of any housing benefit is less than the minimum housing benefit prescribed by regulation 54, the decision notice shall include a statement as to—
   - (i) the matters set out in paragraph 9(1)(a) to (d), and in a case where the amount of entitlement is less than the minimum amount of housing benefit prescribed, paragraph 9(1)(e) also;
-  - (ii) the matters set out in paragraph 10(b) to (d) where the person is not on state pension credit[^key-0edb8b18086a90533aa2ec6231442375] , and
+  - (ii) the matters set out in paragraph 10(b) to (d) where the person is not on state pension credit[^c-0edb8b18086a90533aa2ec6231442375] , and
   - (iii) where the amount of entitlement is less than the minimum amount of housing benefit prescribed, that fact and that such entitlement is not payable;
 - (b) for any reason other than one mentioned in sub-paragraph (a), the decision notice shall include a statement as to the reason why no award has been made.
 
 ### PART VII — Notice where recoverable overpayment
 
-**15.**[^key-2ef4f57903e33257c721e44b1ff13e44] (1) Where the appropriate authority makes a decision that there is a recoverable overpayment within the meaning of regulation 78, the decision notice shall include a statement as to—
+**15.**[^c-2ef4f57903e33257c721e44b1ff13e44] (1) Where the appropriate authority makes a decision that there is a recoverable overpayment within the meaning of regulation 78, the decision notice shall include a statement as to—
 
 - (a) the fact that there is a recoverable overpayment;
 - (b) the reason why there is a recoverable overpayment;
@@ -132,7 +132,7 @@ the decision notice sent to that landlord shall identify both—
 
 ### PART VIII — Notice following a decision on a work-focused interview
 
-**16.**[^key-c46fd3aadcaff3aab71edce9bc393d66] (1) This Part applies in a case where a decision has been made in accordance with regulation 10 of the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2003[^f00190] that a person has failed to take part in a work-focused interview.
+**16.**[^c-c46fd3aadcaff3aab71edce9bc393d66] (1) This Part applies in a case where a decision has been made in accordance with regulation 10 of the Social Security (Work-focused Interviews) Regulations (Northern Ireland) 2003[^f00190] that a person has failed to take part in a work-focused interview.
 
 (2) In a case where one of the consequences specified in sub-paragraphs (3) and (4) apply, the decision notice shall include a statement as to the person’s right of appeal against the decision that he failed to take part in a work-focused interview.
 
@@ -154,46 +154,46 @@ the decision notice sent to that landlord shall identify both—
 
 ## Annotations
 
-[^key-771039f401281af5bd2f60439de88f89]: Modification: [Sch. 9](https://www.legislation.gov.uk/nisr/2006/406/schedule/9) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [29(2)](https://www.legislation.gov.uk/nisr/2007/203/regulation/29/2)
+[^c-771039f401281af5bd2f60439de88f89]: Modification: [Sch. 9](https://www.legislation.gov.uk/nisr/2006/406/schedule/9) applied (with modifications) (1.4.2007) by [The Rate Relief (Qualifying Age) Regulations (Northern Ireland) 2007 (S.R. 2007/203)](https://www.legislation.gov.uk/nisr/2007/203), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/203/regulation/1/1), [29(2)](https://www.legislation.gov.uk/nisr/2007/203/regulation/29/2)
 
-[^key-31d4005b44e2405b2e3421a9d4fe116c]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/1) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-31d4005b44e2405b2e3421a9d4fe116c]: Commencement: [Sch. 9 para. 1](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/1) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-11d43985c51c82fa7e2a46ea8a2bdf9d]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/2) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-11d43985c51c82fa7e2a46ea8a2bdf9d]: Commencement: [Sch. 9 para. 2](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/2) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-e068c5950550ed7bf547f4bbced045d2]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/3) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-e068c5950550ed7bf547f4bbced045d2]: Commencement: [Sch. 9 para. 3](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/3) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-c64d9ae7fac44f6c46098756cde08707]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/4) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-c64d9ae7fac44f6c46098756cde08707]: Commencement: [Sch. 9 para. 4](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/4) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-2959409e1b467a1b848dbbdfabb365a0]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/5) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-2959409e1b467a1b848dbbdfabb365a0]: Commencement: [Sch. 9 para. 5](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/5) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-8d9a31496fe04501c570abe17577b291]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/6) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-8d9a31496fe04501c570abe17577b291]: Commencement: [Sch. 9 para. 6](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/6) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-7d89fdfb8b5c05f3981008ebb897ad81]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/7) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-7d89fdfb8b5c05f3981008ebb897ad81]: Commencement: [Sch. 9 para. 7](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/7) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-13559b8073e40278d301e0658f32d9c2]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/8) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-13559b8073e40278d301e0658f32d9c2]: Commencement: [Sch. 9 para. 8](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/8) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-8b5e48f909ffc8f0a4c6c3c569685170]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/part/II) heading inserted (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/nisr/2008/285/regulation/3/6/a)
+[^c-8b5e48f909ffc8f0a4c6c3c569685170]: Textual amendment: Words in [Sch. 9 Pt. II](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/part/II) heading inserted (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [3(6)(a)](https://www.legislation.gov.uk/nisr/2008/285/regulation/3/6/a)
 
-[^key-48166e30e4c2e78886e51599792e6787]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/9) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-48166e30e4c2e78886e51599792e6787]: Commencement: [Sch. 9 para. 9](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/9) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-986e0eb1f3170eac8cb7d6b2356df282]: Textual amendment: [Sch. 9 para. 9(3)](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/9/3) added (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2008/285/regulation/3/6/b)
+[^c-986e0eb1f3170eac8cb7d6b2356df282]: Textual amendment: [Sch. 9 para. 9(3)](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/9/3) added (6.10.2008) by [The Housing Benefit (Extended Payments) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/285)](https://www.legislation.gov.uk/nisr/2008/285), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/285/regulation/1/1), [3(6)(b)](https://www.legislation.gov.uk/nisr/2008/285/regulation/3/6/b)
 
-[^key-97fe8731fe004d32254d10d16effa5d2]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/10) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-97fe8731fe004d32254d10d16effa5d2]: Commencement: [Sch. 9 para. 10](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/10) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-5ebac7b67ba466a6d42281ca4ef9d72f]: Commencement: [Sch. 9 para. 11](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/11) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-5ebac7b67ba466a6d42281ca4ef9d72f]: Commencement: [Sch. 9 para. 11](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/11) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-c830823bbb0b3f82180aa8b6db253f9f]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/12) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-c830823bbb0b3f82180aa8b6db253f9f]: Commencement: [Sch. 9 para. 12](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/12) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-cb4bfdb128eb9dc6e82db98e0904b5a7]: Commencement: [Sch. 9 para. 13](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/13) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-cb4bfdb128eb9dc6e82db98e0904b5a7]: Commencement: [Sch. 9 para. 13](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/13) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-983a7dd9ad7a8edb4c916cfe08381d10]: Commencement: [Sch. 9 para. 14](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/14) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-983a7dd9ad7a8edb4c916cfe08381d10]: Commencement: [Sch. 9 para. 14](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/14) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-ab2d5a6e62b397718a9da94417b05d50]: Textual amendment: Word in [Sch. 9 para. 14](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/14) omitted (1.6.2007) by virtue of [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/266)](https://www.legislation.gov.uk/nisr/2007/266), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1), [4(7)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/7)
+[^c-ab2d5a6e62b397718a9da94417b05d50]: Textual amendment: Word in [Sch. 9 para. 14](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/14) omitted (1.6.2007) by virtue of [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/266)](https://www.legislation.gov.uk/nisr/2007/266), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/266/regulation/1/1), [4(7)](https://www.legislation.gov.uk/nisr/2007/266/regulation/4/7)
 
-[^key-0edb8b18086a90533aa2ec6231442375]: Textual amendment: Words in [Sch. 9 para. 14(a)(ii)](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/14/a/ii) substituted (6.4.2009) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2008 (S.R. 2008/428)](https://www.legislation.gov.uk/nisr/2008/428), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/428/regulation/1/2), [7(5)](https://www.legislation.gov.uk/nisr/2008/428/regulation/7/5)
+[^c-0edb8b18086a90533aa2ec6231442375]: Textual amendment: Words in [Sch. 9 para. 14(a)(ii)](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/14/a/ii) substituted (6.4.2009) by [The Social Security (Miscellaneous Amendments No. 5) Regulations (Northern Ireland) 2008 (S.R. 2008/428)](https://www.legislation.gov.uk/nisr/2008/428), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2008/428/regulation/1/2), [7(5)](https://www.legislation.gov.uk/nisr/2008/428/regulation/7/5)
 
-[^key-2ef4f57903e33257c721e44b1ff13e44]: Commencement: [Sch. 9 para. 15](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/15) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-2ef4f57903e33257c721e44b1ff13e44]: Commencement: [Sch. 9 para. 15](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/15) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-c46fd3aadcaff3aab71edce9bc393d66]: Commencement: [Sch. 9 para. 16](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/16) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-c46fd3aadcaff3aab71edce9bc393d66]: Commencement: [Sch. 9 para. 16](https://www.legislation.gov.uk/nisr/2006/406/schedule/9/paragraph/16) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
 [^f00190]: Footnote: [S.R. 2003 No. 274](https://www.legislation.gov.uk/nisr/2003/274)

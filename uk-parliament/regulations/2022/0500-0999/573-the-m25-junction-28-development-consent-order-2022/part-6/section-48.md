@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Amendment of local legislation[^key-10b3076788f2e2e4f35def16bdefe34d]
+## 48. Amendment of local legislation[^c-10b3076788f2e2e4f35def16bdefe34d]
 
 *Extent: E+W*
 
@@ -51,7 +51,7 @@ summary: ''
 
 ## Annotations
 
-[^key-10b3076788f2e2e4f35def16bdefe34d]: Commencement: Art. 48 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-10b3076788f2e2e4f35def16bdefe34d]: Commencement: Art. 48 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
 
 [^f00094]: Footnote: [1811 c. clxxxvii](https://www.legislation.gov.uk/ukpga/1811/187).
 

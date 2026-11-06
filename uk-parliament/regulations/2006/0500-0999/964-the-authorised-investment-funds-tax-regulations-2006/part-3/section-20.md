@@ -34,12 +34,12 @@ In these Regulations “**qualifying investments**”, in relation to an authori
 - Category 4
 
   Qualifying units in another authorised investment fund.
-- Category 4A[^key-fdac2b614f5997dddf068eff1935b1eb]
+- Category 4A[^c-fdac2b614f5997dddf068eff1935b1eb]
 
   Qualifying units in an offshore fund.
 - Category 5
 
-  Derivative contracts whose underlying subject matter consists wholly of any one or more of the matters referred to in categories 1 to 4A[^key-295c65a3894483984ceb1d81e74a4ae6] and currency.
+  Derivative contracts whose underlying subject matter consists wholly of any one or more of the matters referred to in categories 1 to 4A[^c-295c65a3894483984ceb1d81e74a4ae6] and currency.
 - Category 6
 
   Contracts for differences whose underlying subject matter consists wholly of any one or more of interest rates, creditworthiness and currency.
@@ -52,6 +52,6 @@ In these Regulations “**qualifying investments**”, in relation to an authori
 
 ## Annotations
 
-[^key-fdac2b614f5997dddf068eff1935b1eb]: Textual amendment: Words in reg. 20 inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2010/294/regulation/10)
+[^c-fdac2b614f5997dddf068eff1935b1eb]: Textual amendment: Words in reg. 20 inserted (with effect in accordance with reg. 1(3) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [10](https://www.legislation.gov.uk/uksi/2010/294/regulation/10)
 
-[^key-295c65a3894483984ceb1d81e74a4ae6]: Textual amendment: Word in [reg. 20](https://www.legislation.gov.uk/uksi/2006/964/regulation/20) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2011 (S.I. 2011/2192)](https://www.legislation.gov.uk/uksi/2011/2192), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2192/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/2192/regulation/5)
+[^c-295c65a3894483984ceb1d81e74a4ae6]: Textual amendment: Word in [reg. 20](https://www.legislation.gov.uk/uksi/2006/964/regulation/20) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2011 (S.I. 2011/2192)](https://www.legislation.gov.uk/uksi/2011/2192), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2192/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/2192/regulation/5)

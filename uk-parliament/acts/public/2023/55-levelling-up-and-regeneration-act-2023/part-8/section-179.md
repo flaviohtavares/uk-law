@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Removal of limits on borrowing of urban development corporations and new town development corporations[^key-b43b1cce741c24c5ac04378f9d6de6a5][^key-71036e7fc46a61db440a5d99ea022d98]
+## 179. Removal of limits on borrowing of urban development corporations and new town development corporations[^c-b43b1cce741c24c5ac04378f9d6de6a5][^c-71036e7fc46a61db440a5d99ea022d98]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b43b1cce741c24c5ac04378f9d6de6a5]: Commencement: S. 179 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
+[^c-b43b1cce741c24c5ac04378f9d6de6a5]: Commencement: S. 179 not in force at Royal Assent, see [s. 255(7)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/7)
 
-[^key-71036e7fc46a61db440a5d99ea022d98]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2023/55/section/179) in force at 14.4.2026 by [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/f)
+[^c-71036e7fc46a61db440a5d99ea022d98]: Commencement: [S. 179](https://www.legislation.gov.uk/ukpga/2023/55/section/179) in force at 14.4.2026 by [S.I. 2026/168](https://www.legislation.gov.uk/uksi/2026/168), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2026/168/regulation/2/f)

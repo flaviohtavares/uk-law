@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Power to impose attendance centre requirement on fine defaulter[^key-1894a038aca5f68f32709e32ed9ac306]
+## 40. Power to impose attendance centre requirement on fine defaulter[^c-1894a038aca5f68f32709e32ed9ac306]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1894a038aca5f68f32709e32ed9ac306]: Commencement: S. 40 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/20)
+[^c-1894a038aca5f68f32709e32ed9ac306]: Commencement: S. 40 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/20)

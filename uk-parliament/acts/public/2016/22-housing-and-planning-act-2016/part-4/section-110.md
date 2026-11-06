@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Indemnities where housing administration order is made[^key-6ff36ed64907283405e3f8d3d44e1da7]
+## 110. Indemnities where housing administration order is made[^c-6ff36ed64907283405e3f8d3d44e1da7]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6ff36ed64907283405e3f8d3d44e1da7]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2016/22/section/110) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)
+[^c-6ff36ed64907283405e3f8d3d44e1da7]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2016/22/section/110) in force at 5.7.2018 by [S.I. 2018/805](https://www.legislation.gov.uk/uksi/2018/805), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/805/regulation/3/a)

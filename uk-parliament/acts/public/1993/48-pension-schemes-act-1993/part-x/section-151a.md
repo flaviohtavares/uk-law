@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 151A. Interest on late payment of benefit[^key-a2a8b724ecd0a72df4a64007cb6eb90d]
+## 151A. Interest on late payment of benefit[^c-a2a8b724ecd0a72df4a64007cb6eb90d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Where under this Part the Pensions Ombudsman directs a person responsible for th
 
 ## Annotations
 
-[^key-a2a8b724ecd0a72df4a64007cb6eb90d]: Textual amendment: [S. 151A](https://www.legislation.gov.uk/ukpga/1993/48/section/151A) inserted (1.6.1996 for specified purposes, 6.4.1997 in so far as not already in force) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [ss. 160](https://www.legislation.gov.uk/ukpga/1995/26/section/160), [180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1); [S.I. 1996/1412](https://www.legislation.gov.uk/uksi/1996/1412), art. 2(2), Sch. Pt. 2; [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), art. 2(3), Sch. Pt. 2
+[^c-a2a8b724ecd0a72df4a64007cb6eb90d]: Textual amendment: [S. 151A](https://www.legislation.gov.uk/ukpga/1993/48/section/151A) inserted (1.6.1996 for specified purposes, 6.4.1997 in so far as not already in force) by [Pensions Act 1995 (c. 26)](https://www.legislation.gov.uk/ukpga/1995/26), [ss. 160](https://www.legislation.gov.uk/ukpga/1995/26/section/160), [180(1)](https://www.legislation.gov.uk/ukpga/1995/26/section/180/1); [S.I. 1996/1412](https://www.legislation.gov.uk/uksi/1996/1412), art. 2(2), Sch. Pt. 2; [S.I. 1997/664](https://www.legislation.gov.uk/uksi/1997/664), art. 2(3), Sch. Pt. 2

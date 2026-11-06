@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Chief constables[^key-eda69a595278b79947cedc13edf0d1e6]
+## SCHEDULE 2 — Chief constables[^c-eda69a595278b79947cedc13edf0d1e6]
 
 *Extent: E+W*
 
@@ -24,17 +24,17 @@ Section 2
 
 ### Introduction
 
-**1.**[^key-fcfa15c0c7a8a6f2784cda1aa933ccee] This Schedule applies to the chief constables established under section 2.
+**1.**[^c-fcfa15c0c7a8a6f2784cda1aa933ccee] This Schedule applies to the chief constables established under section 2.
 
 ### Status, name etc
 
-**2.**[^key-3e2fb490159f4d105cab8aaf8a26c1a5] A chief constable is a corporation sole.
+**2.**[^c-3e2fb490159f4d105cab8aaf8a26c1a5] A chief constable is a corporation sole.
 
-**3.**[^key-76c8f1cbe7b4d6404b529f47bda738c8] The name of the chief constable for a police force is “the Chief Constable of” with the addition of the name of the police force.
+**3.**[^c-76c8f1cbe7b4d6404b529f47bda738c8] The name of the chief constable for a police force is “the Chief Constable of” with the addition of the name of the police force.
 
 ### Civilian staff
 
-**4.**[^key-4c25dc20fb710c91884118a0f5f64ea1] (1) The chief constable of a police force must appoint a person to be responsible for the proper administration of the police force's financial affairs (referred to in this Part as the police force's chief finance officer).
+**4.**[^c-4c25dc20fb710c91884118a0f5f64ea1] (1) The chief constable of a police force must appoint a person to be responsible for the proper administration of the police force's financial affairs (referred to in this Part as the police force's chief finance officer).
 
 (2) The chief constable of a police force may appoint such other staff as the chief constable thinks appropriate—
 
@@ -43,7 +43,7 @@ Section 2
 
 (3) Section 113 of the Local Government Finance Act 1988 applies to the chief finance officer of a chief constable as it applies to the persons having responsibility for the administration of financial affairs mentioned in that section.
 
-**5.**[^key-ee2d2945a7bd8241aef0a9193e14caf5] (1) A chief constable must appoint a qualified person to act as chief finance officer, if and for as long as—
+**5.**[^c-ee2d2945a7bd8241aef0a9193e14caf5] (1) A chief constable must appoint a qualified person to act as chief finance officer, if and for as long as—
 
 - (a) that post is vacant, or
 - (b) the holder of that post is, in the chief constable's opinion, unable to carry out the duties of that post.
@@ -54,7 +54,7 @@ Section 2
 
 ### Remuneration etc of staff
 
-**6.**[^key-7b64ca2e1b2d9f71201b1537d5c0333e] (1) A chief constable may pay remuneration, allowances and gratuities to the members of the police force's civilian staff.
+**6.**[^c-7b64ca2e1b2d9f71201b1537d5c0333e] (1) A chief constable may pay remuneration, allowances and gratuities to the members of the police force's civilian staff.
 
 (2) A chief constable may pay—
 
@@ -65,14 +65,14 @@ Section 2
 
 ### Incidental powers
 
-**7.**[^key-f88a05d36a52f6ad625c057d82c33fbe] (1) A chief constable may do anything which is calculated to facilitate, or is conducive or incidental to, the exercise of the functions of chief constable.
+**7.**[^c-f88a05d36a52f6ad625c057d82c33fbe] (1) A chief constable may do anything which is calculated to facilitate, or is conducive or incidental to, the exercise of the functions of chief constable.
 
 (2) That includes—
 
 - (a) entering into contracts and other agreements (whether legally binding or not), but only with the consent of the relevant police and crime commissioner;
 - (b) acquiring and disposing of property, apart from land, but only with the consent of the relevant police and crime commissioner.
 
-(3)[^key-42809c3c10b587be59904d44c87eae41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-42809c3c10b587be59904d44c87eae41] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Sub-paragraph (2)(a) does not require the chief constable to obtain the consent of the relevant police and crime commissioner in order to enter into a contract or other agreement with a person—
 
@@ -81,7 +81,7 @@ Section 2
 
 (5) This paragraph is subject to the other provisions of this Act and to any other enactment about the powers of chief constables.
 
-### Financial arrangements etc[^key-473fbd82e21844647af7aa442f9d5221]
+### Financial arrangements etc[^c-473fbd82e21844647af7aa442f9d5221]
 
 **7A.** (1) A chief constable may, by way of temporary loan or overdraft from a bank or otherwise, borrow sums temporarily required by the chief constable, but only—
 
@@ -129,7 +129,7 @@ but only with the consent of the relevant police and crime commissioner.
 
 ### Damages and costs in legal proceedings
 
-**8.**[^key-ed89b3973b9996457f0aae35477699d6] (1) The following amounts must be paid out of the police fund kept by the relevant police and crime commissioner—
+**8.**[^c-ed89b3973b9996457f0aae35477699d6] (1) The following amounts must be paid out of the police fund kept by the relevant police and crime commissioner—
 
 - (a) any damages or costs awarded against a chief constable in any proceedings brought against the chief constable in respect of the acts or omissions of a member of the relevant police force's civilian staff;
 - (b) any costs incurred by a chief constable in any such proceedings so far as not recovered by the chief constable in the proceedings; and
@@ -143,30 +143,30 @@ but only with the consent of the relevant police and crime commissioner.
 
 ### Disciplinary action etc
 
-**9.**[^key-5c55775854e58f683e8cdc9e5288016a] Paragraph 2 does not affect the application of regulations under section 50 of the Police Act 1996 to the constable who occupies the office of chief constable.
+**9.**[^c-5c55775854e58f683e8cdc9e5288016a] Paragraph 2 does not affect the application of regulations under section 50 of the Police Act 1996 to the constable who occupies the office of chief constable.
 
 ## Annotations
 
-[^key-eda69a595278b79947cedc13edf0d1e6]: Modification: Sch. 2 modified (temp.) (31.3.2014) by [The Police Reform and Social Responsibility Act 2011 (Transitional Provision) Order 2013 (S.I. 2013/2319)](https://www.legislation.gov.uk/uksi/2013/2319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2319/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2013/2319/article/2/1)
+[^c-eda69a595278b79947cedc13edf0d1e6]: Modification: Sch. 2 modified (temp.) (31.3.2014) by [The Police Reform and Social Responsibility Act 2011 (Transitional Provision) Order 2013 (S.I. 2013/2319)](https://www.legislation.gov.uk/uksi/2013/2319), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/2319/article/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2013/2319/article/2/1)
 
-[^key-fcfa15c0c7a8a6f2784cda1aa933ccee]: Commencement: Sch. 2 para. 1 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
+[^c-fcfa15c0c7a8a6f2784cda1aa933ccee]: Commencement: Sch. 2 para. 1 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
 
-[^key-3e2fb490159f4d105cab8aaf8a26c1a5]: Commencement: Sch. 2 para. 2 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
+[^c-3e2fb490159f4d105cab8aaf8a26c1a5]: Commencement: Sch. 2 para. 2 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
 
-[^key-76c8f1cbe7b4d6404b529f47bda738c8]: Commencement: Sch. 2 para. 3 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
+[^c-76c8f1cbe7b4d6404b529f47bda738c8]: Commencement: Sch. 2 para. 3 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
 
-[^key-4c25dc20fb710c91884118a0f5f64ea1]: Commencement: Sch. 2 para. 4 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
+[^c-4c25dc20fb710c91884118a0f5f64ea1]: Commencement: Sch. 2 para. 4 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
 
-[^key-ee2d2945a7bd8241aef0a9193e14caf5]: Commencement: Sch. 2 para. 5 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
+[^c-ee2d2945a7bd8241aef0a9193e14caf5]: Commencement: Sch. 2 para. 5 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
 
-[^key-7b64ca2e1b2d9f71201b1537d5c0333e]: Commencement: Sch. 2 para. 6 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
+[^c-7b64ca2e1b2d9f71201b1537d5c0333e]: Commencement: Sch. 2 para. 6 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
 
-[^key-f88a05d36a52f6ad625c057d82c33fbe]: Commencement: Sch. 2 para. 7 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
+[^c-f88a05d36a52f6ad625c057d82c33fbe]: Commencement: Sch. 2 para. 7 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
 
-[^key-42809c3c10b587be59904d44c87eae41]: Textual amendment: [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/2/paragraph/7/3) repealed (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 99](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/99) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 23(i)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/23/i)
+[^c-42809c3c10b587be59904d44c87eae41]: Textual amendment: [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/ukpga/2011/13/schedule/2/paragraph/7/3) repealed (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 99](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/99) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 23(i)](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/23/i)
 
-[^key-473fbd82e21844647af7aa442f9d5221]: Textual amendment: Sch. 2 para. 7A and cross-heading inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 141(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/141/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/11)
+[^c-473fbd82e21844647af7aa442f9d5221]: Textual amendment: Sch. 2 para. 7A and cross-heading inserted (13.5.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 141(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/141/1), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/11)
 
-[^key-ed89b3973b9996457f0aae35477699d6]: Commencement: Sch. 2 para. 8 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
+[^c-ed89b3973b9996457f0aae35477699d6]: Commencement: Sch. 2 para. 8 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
 
-[^key-5c55775854e58f683e8cdc9e5288016a]: Commencement: Sch. 2 para. 9 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)
+[^c-5c55775854e58f683e8cdc9e5288016a]: Commencement: Sch. 2 para. 9 in force at 22.11.2012 by [S.I. 2012/2892](https://www.legislation.gov.uk/uksi/2012/2892), [art. 2(c)](https://www.legislation.gov.uk/uksi/2012/2892/article/2/c)

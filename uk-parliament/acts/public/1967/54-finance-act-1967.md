@@ -45,16 +45,16 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 
 ### 5.
 
-(1 (Extent: S) (affected by repeal, see note))[^key-ab0294de969309731f357211bca1a24c] As from 1st October 1967, an excise licence shall not be required for the sale by retail of intoxicating liquor or for the supply of such liquor in a registered club to members of that club and their guests *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c][^key-4150b243fc93fb4b3605d4c069f754cd]... *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c]
+(1 (Extent: S) (affected by repeal, see note))[^c-ab0294de969309731f357211bca1a24c] As from 1st October 1967, an excise licence shall not be required for the sale by retail of intoxicating liquor or for the supply of such liquor in a registered club to members of that club and their guests *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c][^c-4150b243fc93fb4b3605d4c069f754cd]... *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c]
 
-- (a (Extent: S) (affected by repeal, see note)), (b)[^key-ab0294de969309731f357211bca1a24c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c] [^c669051]
-- (c (Extent: S) (affected by repeal, see note))[^key-9d31c587bf5d8afb5c51f144c7e783bc][^c669052][^key-ab0294de969309731f357211bca1a24c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c]
-- (d (Extent: S) (affected by repeal, see note))[^key-ab0294de969309731f357211bca1a24c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c] [^c669053]
-- (e (Extent: S) (affected by repeal, see note))[^key-e1b12447f13294a2b863f3454d182cba][^c669052][^key-ab0294de969309731f357211bca1a24c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c]
+- (a (Extent: S) (affected by repeal, see note)), (b)[^c-ab0294de969309731f357211bca1a24c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c] [^c669051]
+- (c (Extent: S) (affected by repeal, see note))[^c-9d31c587bf5d8afb5c51f144c7e783bc][^c669052][^c-ab0294de969309731f357211bca1a24c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c]
+- (d (Extent: S) (affected by repeal, see note))[^c-ab0294de969309731f357211bca1a24c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c] [^c669053]
+- (e (Extent: S) (affected by repeal, see note))[^c-e1b12447f13294a2b863f3454d182cba][^c669052][^c-ab0294de969309731f357211bca1a24c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-ab0294de969309731f357211bca1a24c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c] [^c669055]
+(2 (Extent: S) (affected by repeal, see note))[^c-ab0294de969309731f357211bca1a24c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c] [^c669055]
 
-(3 (Extent: S) (affected by repeal, see note))[^c669052][^key-ab0294de969309731f357211bca1a24c] In this section the expression “ *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c]**registered club *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c]**” means a club *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c] [^key-07c8a89ef37fc0db93facf1cf1f1c8bd]... which is a registered club within the meaning of the Licensing (Scotland) Act *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c] [^c669058]1976[^c669057] *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c]. *(Extent: S)* *(affected by repeal, see note)*[^key-ab0294de969309731f357211bca1a24c]
+(3 (Extent: S) (affected by repeal, see note))[^c669052][^c-ab0294de969309731f357211bca1a24c] In this section the expression “ *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c]**registered club *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c]**” means a club *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c] [^c-07c8a89ef37fc0db93facf1cf1f1c8bd]... which is a registered club within the meaning of the Licensing (Scotland) Act *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c] [^c669058]1976[^c669057] *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c]. *(Extent: S)* *(affected by repeal, see note)*[^c-ab0294de969309731f357211bca1a24c]
 
 ### 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c669059]
 
@@ -93,7 +93,7 @@ An Act to grant certain duties, to alter other duties, and to amend the law rela
 >
 > (3) The ownership referred to in subsection (2) above is ownership either directly or through another body corporate or other bodies corporate, or partly directly and partly through another body corporate or other bodies corporate, and Part I of Schedule 4 to the (determination of amount of capital held through other bodies corporate) shall apply for the purposes of this section with the substitution of references to issued share capital for references to ordinary share capital.
 
-(3)[^key-3f090d307cfff0c2f19129f9bf45477b] The said section 42 shall not apply to any instrument executed on or after the said 1st August unless it is also shown to the satisfaction of the Commissioners that the instrument was not executed in pursuance of or in connection with an arrangement whereunder—
+(3)[^c-3f090d307cfff0c2f19129f9bf45477b] The said section 42 shall not apply to any instrument executed on or after the said 1st August unless it is also shown to the satisfaction of the Commissioners that the instrument was not executed in pursuance of or in connection with an arrangement whereunder—
 
 - (a) the consideration, or any part of the consideration, for the conveyance or transfer was to be provided or received, directly or indirectly, by a person other than a body corporate which at the time of the execution of the instrument was associated within the meaning of the said section 42 with either the transferor or the transferee (meaning, respectively, the body from whom and the body to whom the beneficial interest was conveyed or transferred), or
 - (b) the said interest was previously conveyed or transferred, directly or indirectly, by such a person, or
@@ -137,7 +137,7 @@ This subsection shall, as respects instruments executed on or after the said 1st
 
 (1) This Act may be cited as the Finance Act 1967.
 
-(2)[^key-3f903552b7c936bdd30a5773a1f8ab02][^c669106] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3f903552b7c936bdd30a5773a1f8ab02][^c669106] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In this Act—
 
@@ -145,11 +145,11 @@ This subsection shall, as respects instruments executed on or after the said 1st
 - (b) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c669108]
 - (c)[^c669109] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d)—(e) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c669110]
-- (f)[^key-8e535949460b77c89200a1a14b77c122][^c669106] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-8e535949460b77c89200a1a14b77c122][^c669106] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) Part V shall be construed as one with the [^c669113]Stamp Act 1891, and
 - (h) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c669114]
 
-(4)[^key-dc36c6afbe6f2db2a174fa55efeee605] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-dc36c6afbe6f2db2a174fa55efeee605] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The following provisions of this Act, namely, section 5(1) so far as it relates to the Licensing (Scotland) Acts 1959 and 1962 and Schedule 8, shall be included in the enactments which may be cited together as the Licensing (Scotland) Acts 1959 to 1967.
 
@@ -179,61 +179,61 @@ This subsection shall, as respects instruments executed on or after the said 1st
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c669121]
 
-## SCHEDULE 7 — MODIFICATIONS OF LICENSING ACT 1964 CONSEQUENTIAL ON ABOLITION OF RETAILER’S LICENCES, ETC.[^key-1095188ac6c58a89dbba33ea4acec37c]
+## SCHEDULE 7 — MODIFICATIONS OF LICENSING ACT 1964 CONSEQUENTIAL ON ABOLITION OF RETAILER’S LICENCES, ETC.[^c-1095188ac6c58a89dbba33ea4acec37c]
 
 **No longer in force.**
 
 Section 5
 
-**1.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Transitional provision[^key-1095188ac6c58a89dbba33ea4acec37c]
+### Transitional provision[^c-1095188ac6c58a89dbba33ea4acec37c]
 
-**24.**[^key-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-1095188ac6c58a89dbba33ea4acec37c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULES 8—[^c669128][^c669128]
 
@@ -463,23 +463,23 @@ The above repeals shall have effect—
 
 [^c669050]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1967/54/section/4) repealed by [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2), [s. 177](https://www.legislation.gov.uk/ukpga/1979/2/section/177) (3), Sch. 6 Pt. I; [Alcoholic Liquor Duties Act 1979 (c. 4)](https://www.legislation.gov.uk/ukpga/1979/4), [s. 92(2)](https://www.legislation.gov.uk/ukpga/1979/4/section/92/2), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1979/4/schedule/4/part/I).
 
-[^key-ab0294de969309731f357211bca1a24c]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1967/54/section/5) repealed (S.) (1.9.2009) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/248/schedule/2)
+[^c-ab0294de969309731f357211bca1a24c]: Textual amendment: [S. 5](https://www.legislation.gov.uk/ukpga/1967/54/section/5) repealed (S.) (1.9.2009) by [The Licensing (Scotland) Act 2005 (Consequential Provisions) Order 2009 (S.S.I. 2009/248)](https://www.legislation.gov.uk/ssi/2009/248), [art. 1(1)](https://www.legislation.gov.uk/ssi/2009/248/article/1/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/248/schedule/2)
 
-[^key-4150b243fc93fb4b3605d4c069f754cd]: Textual amendment: Words in s. 5(1) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-4150b243fc93fb4b3605d4c069f754cd]: Textual amendment: Words in s. 5(1) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c669051]: Textual amendment: S.5(1)(a)(b) repealed by [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1979/2/schedule/6/part/I);
 
-[^key-9d31c587bf5d8afb5c51f144c7e783bc]: Textual amendment: S. 5(1)(c) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 37(a)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/37/a), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-9d31c587bf5d8afb5c51f144c7e783bc]: Textual amendment: S. 5(1)(c) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 37(a)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/37/a), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c669052]: Modification: The text of ss. 5(1)(c)(e)(3), 27(2), 45(2)(3)(c)(f)(8), Schs. 7, 16, is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as indicated, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
 [^c669053]: Textual amendment: S. 5(1)(d) repealed (S.) by [Licensing (Scotland) Act 1976 (c. 66)](https://www.legislation.gov.uk/ukpga/1976/66), [s. 136](https://www.legislation.gov.uk/ukpga/1976/66/section/136) (2), Sch. 8
 
-[^key-e1b12447f13294a2b863f3454d182cba]: Textual amendment: S. 5(1)(e) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-e1b12447f13294a2b863f3454d182cba]: Textual amendment: S. 5(1)(e) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c669055]: Textual amendment: S. 5(2) repealed by [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1979/2/schedule/6/part/I)
 
-[^key-07c8a89ef37fc0db93facf1cf1f1c8bd]: Textual amendment: Words in s. 5(3) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 37(b)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/37/b), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-07c8a89ef37fc0db93facf1cf1f1c8bd]: Textual amendment: Words in s. 5(3) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 6 para. 37(b)](https://www.legislation.gov.uk/ukpga/2003/17/schedule/6/paragraph/37/b), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c669058]: Marginal citation: [1976 c. 66](https://www.legislation.gov.uk/ukpga/1976/66).
 
@@ -509,7 +509,7 @@ The above repeals shall have effect—
 
 [^c669077]: Marginal citation: [1930 c. 28](https://www.legislation.gov.uk/ukpga/1930/28)
 
-[^key-3f090d307cfff0c2f19129f9bf45477b]: Modification: [S. 27(3)](https://www.legislation.gov.uk/ukpga/1967/54/section/27/3) modified (25.2.2011) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2004/25/section/4/3/b), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
+[^c-3f090d307cfff0c2f19129f9bf45477b]: Modification: [S. 27(3)](https://www.legislation.gov.uk/ukpga/1967/54/section/27/3) modified (25.2.2011) by [Horserace Betting and Olympic Lottery Act 2004 (c. 25)](https://www.legislation.gov.uk/ukpga/2004/25), [ss. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2004/25/section/4/3/b), [40](https://www.legislation.gov.uk/ukpga/2004/25/section/40); [S.I. 2011/462](https://www.legislation.gov.uk/uksi/2011/462), [art. 2](https://www.legislation.gov.uk/uksi/2011/462/article/2)
 
 [^c669078]: Textual amendment: Words in [s. 27(3)(c)](https://www.legislation.gov.uk/ukpga/1967/54/section/27/3/c) substituted (1.5.1995) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 149(6)(7)](https://www.legislation.gov.uk/ukpga/1995/4/section/149/6/7)
 
@@ -543,7 +543,7 @@ The above repeals shall have effect—
 
 [^c669093]: Textual amendment: [S. 44](https://www.legislation.gov.uk/ukpga/1967/54/section/44) repealed by [Finance Act 1970 (c. 24)](https://www.legislation.gov.uk/ukpga/1970/24), [s. 36(8)](https://www.legislation.gov.uk/ukpga/1970/24/section/36/8), [Sch. 8 Pt. VI](https://www.legislation.gov.uk/ukpga/1970/24/schedule/8/part/VI).
 
-[^key-3f903552b7c936bdd30a5773a1f8ab02]: Textual amendment: S. 45(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 3
+[^c-3f903552b7c936bdd30a5773a1f8ab02]: Textual amendment: S. 45(2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 3
 
 [^c669106]: Modification: The text of ss. 5(1)(c)(e)(3), 27(2), 45(2)(3)(c)(f)(8), Schs. 7, 16, is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as indicated, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
@@ -555,13 +555,13 @@ The above repeals shall have effect—
 
 [^c669110]: Textual amendment: S. 45(3)(d)(e) repealed by [Income and Corporation Taxes Act 1970 (c. 10)](https://www.legislation.gov.uk/ukpga/1970/10), [ss. 538](https://www.legislation.gov.uk/ukpga/1970/10/section/538) (1), 539 (1), Sch. 16
 
-[^key-8e535949460b77c89200a1a14b77c122]: Textual amendment: S. 45(3)(f) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 3
+[^c-8e535949460b77c89200a1a14b77c122]: Textual amendment: S. 45(3)(f) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 3
 
 [^c669113]: Marginal citation: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39).
 
 [^c669114]: Textual amendment: S. 45(3)(h) repealed by [Capital Gains Tax Act 1979 (c. 14)](https://www.legislation.gov.uk/ukpga/1979/14), [Sch. 8](https://www.legislation.gov.uk/ukpga/1979/14/schedule/8)
 
-[^key-dc36c6afbe6f2db2a174fa55efeee605]: Textual amendment: [S. 45(4)](https://www.legislation.gov.uk/ukpga/1967/54/section/45/4) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-dc36c6afbe6f2db2a174fa55efeee605]: Textual amendment: [S. 45(4)](https://www.legislation.gov.uk/ukpga/1967/54/section/45/4) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c669117]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/ukpga/1967/54/schedule/1) repealed by [Finance Act 1968 (c. 44)](https://www.legislation.gov.uk/ukpga/1968/44), [s. 61(10)](https://www.legislation.gov.uk/ukpga/1968/44/section/61/10), [Sch. 20 Pt. I](https://www.legislation.gov.uk/ukpga/1968/44/schedule/20/part/I)
 
@@ -573,7 +573,7 @@ The above repeals shall have effect—
 
 [^c669121]: Textual amendment: [Sch. 6](https://www.legislation.gov.uk/ukpga/1967/54/schedule/6) repealed by [Customs and Excise Management Act 1979 (c. 2)](https://www.legislation.gov.uk/ukpga/1979/2), [s. 177](https://www.legislation.gov.uk/ukpga/1979/2/section/177) (3), Sch. 6 Pt. I; [Alcoholic Liquor Duties Act 1979 (c. 4)](https://www.legislation.gov.uk/ukpga/1979/4), [s. 92(2)](https://www.legislation.gov.uk/ukpga/1979/4/section/92/2), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1979/4/schedule/4/part/I)
 
-[^key-1095188ac6c58a89dbba33ea4acec37c]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/1967/54/schedule/7) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
+[^c-1095188ac6c58a89dbba33ea4acec37c]: Textual amendment: [Sch. 7](https://www.legislation.gov.uk/ukpga/1967/54/schedule/7) repealed (24.11.2005) by [Licensing Act 2003 (c. 17)](https://www.legislation.gov.uk/ukpga/2003/17), [s. 201(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/201/2), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/17/schedule/7) (with [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2003/17/section/2/3), [15(2)](https://www.legislation.gov.uk/ukpga/2003/17/section/15/2), [195](https://www.legislation.gov.uk/ukpga/2003/17/section/195)); [S.I. 2005/3056](https://www.legislation.gov.uk/uksi/2005/3056), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3056/article/2/2) (with [art. 4](https://www.legislation.gov.uk/uksi/2005/3056/article/4))
 
 [^c669128]: Textual amendment: [Sch. 8](https://www.legislation.gov.uk/ukpga/1967/54/schedule/8) repealed (S.) by [Licensing (Scotland) Act 1976 (c. 66)](https://www.legislation.gov.uk/ukpga/1976/66), [Sch. 6](https://www.legislation.gov.uk/ukpga/1976/66/schedule/6)
 

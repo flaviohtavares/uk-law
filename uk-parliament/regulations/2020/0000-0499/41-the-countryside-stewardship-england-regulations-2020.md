@@ -48,13 +48,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by section 98 of the Environment Act 1995 [^c23964271], with the consent of the Treasury, makes the following Regulations:
 
-## 1. Citation, commencement, extent and application[^key-4fa0e68d3c837e95f9a832dc717b7728]
+## 1. Citation, commencement, extent and application[^c-4fa0e68d3c837e95f9a832dc717b7728]
 
 (1) These Regulations may be cited as the Countryside Stewardship (England) Regulations 2020 and come into force on 11th February 2020.
 
 (2) These Regulations extend to England and Wales but apply to England only.
 
-## 2. Interpretation[^key-be33a9d3e08d14fae254ceb31c4c1f49]
+## 2. Interpretation[^c-be33a9d3e08d14fae254ceb31c4c1f49]
 
 (1) In these Regulations—
 
@@ -109,7 +109,7 @@ The Secretary of State, in exercise of the powers conferred by section 98 of the
   - (ii) is required under any other form of legally binding obligation;
 - (b) on which solar panels generate electricity other than for a use connected to those activities.
 
-## 3. Power to make grants under countryside stewardship agreements[^key-668737806eccc9163197448f208f8f16]
+## 3. Power to make grants under countryside stewardship agreements[^c-668737806eccc9163197448f208f8f16]
 
 (1) The Secretary of State may make a grant to any eligible person who undertakes to carry out, in relation to eligible land, at least one of the activities listed in column 1 of Part 2 or 3 of the Schedule, those activities being, in the opinion of the Secretary of State, conducive to one of the purposes set out in section 98(1) of the Environment Act 1995.
 
@@ -134,11 +134,11 @@ The Secretary of State, in exercise of the powers conferred by section 98 of the
 - (a) agreement with the CS agreement holder, or
 - (b) serving notice on the CS agreement holder.
 
-## 4. Rates of payment for countryside stewardship agreements[^key-981c795b410cc904fd8b56ce705f9644]
+## 4. Rates of payment for countryside stewardship agreements[^c-981c795b410cc904fd8b56ce705f9644]
 
 The rate of payment for each activity must not exceed that specified in column 3 of Parts 2 or 3 of the Schedule.
 
-## 5. Notification of change in management control[^key-cfd68ea7bf233a02035815b66b3bf749]
+## 5. Notification of change in management control[^c-cfd68ea7bf233a02035815b66b3bf749]
 
 (1) The CS agreement holder is released from the countryside stewardship agreement if—
 
@@ -150,9 +150,9 @@ The rate of payment for each activity must not exceed that specified in column 3
 
 (2) Paragraph (1) does not release the CS agreement holder in respect of any breach or other matter occurring before the acceptance by the Secretary of State of the transferee's undertaking.
 
-(3) Paragraph (1) does not apply in relation to a countryside stewardship agreement only[^key-a76e11d355fb419a4dcb253e76c2c070] to carry out an[^key-726320938c7443074add50f9312664de] activity or matter specified in Part 3 of the Schedule.
+(3) Paragraph (1) does not apply in relation to a countryside stewardship agreement only[^c-a76e11d355fb419a4dcb253e76c2c070] to carry out an[^c-726320938c7443074add50f9312664de] activity or matter specified in Part 3 of the Schedule.
 
-## 6. Power to make grants under facilitation agreements[^key-18f790c70c111849afb6ec1e79d14ce2]
+## 6. Power to make grants under facilitation agreements[^c-18f790c70c111849afb6ec1e79d14ce2]
 
 (1) The Secretary of State may make a grant to a qualified person who undertakes to provide facilitation services to help a group of land managers carry out, in relation to eligible land, any activity which, in the opinion of the Secretary of State, is conducive to one of the purposes set out in section 98(1) of the Environment Act 1995.
 
@@ -177,7 +177,7 @@ The rate of payment for each activity must not exceed that specified in column 3
 - (a) agreement with the facilitation agreement holder, or
 - (b) serving notice on the facilitation agreement holder.
 
-## 7. Amount of grant for facilitation agreement[^key-945557be619921ceee001a6ce43246f0]
+## 7. Amount of grant for facilitation agreement[^c-945557be619921ceee001a6ce43246f0]
 
 The Secretary of State must determine the amount of grant payable under regulation 6 as follows—
 
@@ -186,7 +186,7 @@ The Secretary of State must determine the amount of grant payable under regulati
 
 and the total payment for each agreement must not exceed £60,000 per agreement year.
 
-## 8. Applications for grant[^key-0d14fbc2f048db7851c865c1475ed7af]
+## 8. Applications for grant[^c-0d14fbc2f048db7851c865c1475ed7af]
 
 The Secretary of State may, in relation to any application under these Regulations, specify requirements concerning—
 
@@ -194,19 +194,19 @@ The Secretary of State may, in relation to any application under these Regulatio
 - (b) the form of the application, and
 - (c) information to accompany or be contained in the application.
 
-## 9. Claims for payment of grant[^key-c61cf14ef3c90c133f382beb4c7d845e]
+## 9. Claims for payment of grant[^c-c61cf14ef3c90c133f382beb4c7d845e]
 
 A claim for a payment under these Regulations must be made at such time and in such form as the Secretary of State reasonably requires and must contain or be accompanied by such information as the Secretary of State reasonably requires.
 
-## 10. Time for making payment[^key-fc42a0318311195691953a1ff3ecd399]
+## 10. Time for making payment[^c-fc42a0318311195691953a1ff3ecd399]
 
 A payment in accordance with these Regulations may be made at any time during or after the agreement year as the Secretary of State reasonably determines.
 
-## 11. Powers of inspection[^key-7dd426feae5c4f88ce981cd765f2fcaf]
+## 11. Powers of inspection[^c-7dd426feae5c4f88ce981cd765f2fcaf]
 
 The Secretary of State may carry out, for the purposes of verifying that an agreement holder has complied with the terms and conditions of their agreement under these Regulations, such inspection as the Secretary of State may specify in that agreement.
 
-## 12. Breaches of conditions for grant[^key-4c700b7892bc533eb1533849021f3760]
+## 12. Breaches of conditions for grant[^c-4c700b7892bc533eb1533849021f3760]
 
 (1) The Secretary of State may determine, in relation to a grant made under these Regulations, that—
 
@@ -228,7 +228,7 @@ The Secretary of State may carry out, for the purposes of verifying that an agre
 
 (3) The Secretary of State must consider any written representations received from the agreement holder before making a determination.
 
-## 13. Recovery of grant payment[^key-8762ecb9167f01b65cc0dbad60c5a9c4]
+## 13. Recovery of grant payment[^c-8762ecb9167f01b65cc0dbad60c5a9c4]
 
 (1) Where the Secretary of State makes a determination under regulation 12(1), the Secretary of State, may—
 
@@ -241,15 +241,15 @@ The Secretary of State may carry out, for the purposes of verifying that an agre
 
 (4) The powers conferred on the Secretary of State by paragraphs (2) and (3) shall be exercisable by serving notice on the agreement holder.
 
-## 14. Recovery of interest[^key-8741823d3e9bec0316657b5a913188d5]
+## 14. Recovery of interest[^c-8741823d3e9bec0316657b5a913188d5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Sums payable to be recoverable as a debt[^key-b3f5288c5801a6970938eaf198f65357]
+## 15. Sums payable to be recoverable as a debt[^c-b3f5288c5801a6970938eaf198f65357]
 
-Where an agreement holder is liable to repay all or part of any payment in accordance with regulation 13(1)(b), the amount of the repayment[^key-4c0abfa0ac8fb0008d612ae219a9b9a1]... is recoverable as a debt.
+Where an agreement holder is liable to repay all or part of any payment in accordance with regulation 13(1)(b), the amount of the repayment[^c-4c0abfa0ac8fb0008d612ae219a9b9a1]... is recoverable as a debt.
 
-## 16. Appeals[^key-84e2ccee24683ae3be63e30def96a7b7]
+## 16. Appeals[^c-84e2ccee24683ae3be63e30def96a7b7]
 
 (1) An agreement holder may appeal in writing to the Secretary of State against a determination made under regulation 12(1), or against any other decision made by the Secretary of State under these Regulations, on any of the following grounds—
 
@@ -268,13 +268,13 @@ Where an agreement holder is liable to repay all or part of any payment in accor
 (6) The Secretary of State may—
 
 - (a) pay to the appointed person such reasonable remuneration in respect of that person's functions in this regard, and such travelling and other allowances, as the Secretary of State may determine, and
-- (b)[^key-d3423d4995525821a097671ead44ddb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-d3423d4995525821a097671ead44ddb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Following receipt of a report pursuant to paragraph (5), the Secretary of State must make a final determination.
 
-(8)[^key-fb3bbe501a4391fe9e26f5d5422c678a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-fb3bbe501a4391fe9e26f5d5422c678a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Notices[^key-92c2abbc8f772cd2512c659e500201ae]
+## 17. Notices[^c-92c2abbc8f772cd2512c659e500201ae]
 
 (1) For the purposes of regulations 3, 6 and 13, any notice required to be served on a person may be served by—
 
@@ -332,7 +332,7 @@ Two of the Lords Commissioners of Her Majesty's Treasury
 
 Regulation 3(1)
 
-### PART 1 — INTERPRETATION[^key-e5d24a3964a1afdd93f5f87b2630b9ff]
+### PART 1 — INTERPRETATION[^c-e5d24a3964a1afdd93f5f87b2630b9ff]
 
 In this Schedule—
 
@@ -387,7 +387,7 @@ In this Schedule—
   - (c) hollowing of the trunk;
 - “**water meadow**” means a meadow which is periodically inundated with water through a system of sluices and carriers.
 
-### PART 2 — MANAGEMENT ACTIVITIES[^key-e8a58da47a50f98d7db518edaaba6424]
+### PART 2 — MANAGEMENT ACTIVITIES[^c-e8a58da47a50f98d7db518edaaba6424]
 
 |  | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- | --- |
@@ -621,7 +621,7 @@ In this Schedule—
 | --- | --- | --- | --- |
 | (a) | Education access | Permitting and making provision for access to farm land for educational visits | £363 per visit |
 
-### PART 3 — CAPITAL ACTIVITIES[^key-a48c729a88dba0289b2a7ed893def463]
+### PART 3 — CAPITAL ACTIVITIES[^c-a48c729a88dba0289b2a7ed893def463]
 
 <table>
 <tbody>
@@ -765,7 +765,7 @@ In this Schedule—
 </tbody>
 </table>
 
-[^key-66f03b4e671dca602d1484163aec2718][^key-e9ac84cd346f28181f18178179e58548][^key-670ccd05df4bac262d1c7d2506adcd12][^key-d63df52225617317f2e404fe08c5601c][^key-d63ee1fff51daa1b8276b592728d62f8]
+[^c-66f03b4e671dca602d1484163aec2718][^c-e9ac84cd346f28181f18178179e58548][^c-670ccd05df4bac262d1c7d2506adcd12][^c-d63df52225617317f2e404fe08c5601c][^c-d63ee1fff51daa1b8276b592728d62f8]
 
 *(This note is not part of the Regulations)*
 
@@ -795,9 +795,9 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23964271]: Marginal citation: [1995 c.25](https://www.legislation.gov.uk/ukpga/1995/25), as amended by the [Scotland Act 1998 (Consequential Modifications) (No.2) Order 1999 (S.I. 1999/1820)](https://www.legislation.gov.uk/uksi/1999/1820). Section 98(5) defines the appropriate Minister. The functions of the Minister of Agriculture, Fisheries and Food (which related only to England) were transferred to the Secretary of State by virtue of article 2(2) of the [Ministry of Agriculture, Fisheries and Food (Dissolution) Order 2002 (S.I. 2002/794)](https://www.legislation.gov.uk/uksi/2002/794).
 
-[^key-4fa0e68d3c837e95f9a832dc717b7728]: Commencement: Reg. 1 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-4fa0e68d3c837e95f9a832dc717b7728]: Commencement: Reg. 1 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-be33a9d3e08d14fae254ceb31c4c1f49]: Commencement: Reg. 2 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-be33a9d3e08d14fae254ceb31c4c1f49]: Commencement: Reg. 2 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
 [^c23964281]: Marginal citation: [2006 c. 16](https://www.legislation.gov.uk/ukpga/2006/16).
 
@@ -809,51 +809,51 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23964321]: Marginal citation: [1981 c. 69](https://www.legislation.gov.uk/ukpga/1981/69); [section 37A](https://www.legislation.gov.uk/uksi/2020/41/section/37A) was inserted by the [Countryside and Rights of Way Act 2000 (c. 37)](https://www.legislation.gov.uk/ukpga/2000/37), [section 77](https://www.legislation.gov.uk/ukpga/2000/37/section/77), and placed under a new heading by the [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [Schedule 11](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11) (1), paragraph 84.
 
-[^key-668737806eccc9163197448f208f8f16]: Commencement: Reg. 3 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-668737806eccc9163197448f208f8f16]: Commencement: Reg. 3 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-981c795b410cc904fd8b56ce705f9644]: Commencement: Reg. 4 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-981c795b410cc904fd8b56ce705f9644]: Commencement: Reg. 4 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-cfd68ea7bf233a02035815b66b3bf749]: Commencement: Reg. 5 in force at 11.2.2020, see reg. 1(1)
+[^c-cfd68ea7bf233a02035815b66b3bf749]: Commencement: Reg. 5 in force at 11.2.2020, see reg. 1(1)
 
-[^key-a76e11d355fb419a4dcb253e76c2c070]: Textual amendment: Word in reg. 5(3) inserted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/2/a)
+[^c-a76e11d355fb419a4dcb253e76c2c070]: Textual amendment: Word in reg. 5(3) inserted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/2/a)
 
-[^key-726320938c7443074add50f9312664de]: Textual amendment: Word in reg. 5(3) substituted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/2/b)
+[^c-726320938c7443074add50f9312664de]: Textual amendment: Word in reg. 5(3) substituted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/2/b)
 
-[^key-18f790c70c111849afb6ec1e79d14ce2]: Commencement: Reg. 6 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-18f790c70c111849afb6ec1e79d14ce2]: Commencement: Reg. 6 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-945557be619921ceee001a6ce43246f0]: Commencement: Reg. 7 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-945557be619921ceee001a6ce43246f0]: Commencement: Reg. 7 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-0d14fbc2f048db7851c865c1475ed7af]: Commencement: Reg. 8 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-0d14fbc2f048db7851c865c1475ed7af]: Commencement: Reg. 8 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-c61cf14ef3c90c133f382beb4c7d845e]: Commencement: Reg. 9 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-c61cf14ef3c90c133f382beb4c7d845e]: Commencement: Reg. 9 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-fc42a0318311195691953a1ff3ecd399]: Commencement: Reg. 10 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-fc42a0318311195691953a1ff3ecd399]: Commencement: Reg. 10 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-7dd426feae5c4f88ce981cd765f2fcaf]: Commencement: Reg. 11 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-7dd426feae5c4f88ce981cd765f2fcaf]: Commencement: Reg. 11 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-4c700b7892bc533eb1533849021f3760]: Commencement: Reg. 12 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-4c700b7892bc533eb1533849021f3760]: Commencement: Reg. 12 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-8762ecb9167f01b65cc0dbad60c5a9c4]: Commencement: Reg. 13 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-8762ecb9167f01b65cc0dbad60c5a9c4]: Commencement: Reg. 13 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-8741823d3e9bec0316657b5a913188d5]: Textual amendment: Reg. 14 omitted (8.2.2021) by virtue of [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/3)
+[^c-8741823d3e9bec0316657b5a913188d5]: Textual amendment: Reg. 14 omitted (8.2.2021) by virtue of [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/3)
 
-[^key-b3f5288c5801a6970938eaf198f65357]: Commencement: Reg. 15 in force at 11.2.2020, see reg. 1(1)
+[^c-b3f5288c5801a6970938eaf198f65357]: Commencement: Reg. 15 in force at 11.2.2020, see reg. 1(1)
 
-[^key-4c0abfa0ac8fb0008d612ae219a9b9a1]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2020/41/regulation/15) omitted (8.2.2021) by virtue of [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/4)
+[^c-4c0abfa0ac8fb0008d612ae219a9b9a1]: Textual amendment: Words in [reg. 15](https://www.legislation.gov.uk/uksi/2020/41/regulation/15) omitted (8.2.2021) by virtue of [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/4)
 
-[^key-84e2ccee24683ae3be63e30def96a7b7]: Commencement: Reg. 16 in force at 11.2.2020, see reg. 1(1)
+[^c-84e2ccee24683ae3be63e30def96a7b7]: Commencement: Reg. 16 in force at 11.2.2020, see reg. 1(1)
 
-[^key-d3423d4995525821a097671ead44ddb3]: Textual amendment: [Reg. 16(6)(b)](https://www.legislation.gov.uk/uksi/2020/41/regulation/16/6/b) omitted (8.2.2021) by virtue of [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/3)
+[^c-d3423d4995525821a097671ead44ddb3]: Textual amendment: [Reg. 16(6)(b)](https://www.legislation.gov.uk/uksi/2020/41/regulation/16/6/b) omitted (8.2.2021) by virtue of [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/3)
 
-[^key-fb3bbe501a4391fe9e26f5d5422c678a]: Textual amendment: [Reg. 16(8)](https://www.legislation.gov.uk/uksi/2020/41/regulation/16/8) omitted (8.2.2021) by virtue of [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/3)
+[^c-fb3bbe501a4391fe9e26f5d5422c678a]: Textual amendment: [Reg. 16(8)](https://www.legislation.gov.uk/uksi/2020/41/regulation/16/8) omitted (8.2.2021) by virtue of [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/3)
 
-[^key-92c2abbc8f772cd2512c659e500201ae]: Commencement: Reg. 17 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-92c2abbc8f772cd2512c659e500201ae]: Commencement: Reg. 17 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-e5d24a3964a1afdd93f5f87b2630b9ff]: Commencement: Sch. Pt. 1 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-e5d24a3964a1afdd93f5f87b2630b9ff]: Commencement: Sch. Pt. 1 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-e8a58da47a50f98d7db518edaaba6424]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/41/schedule/part/2) substituted (8.4.2024) by [The Countryside Stewardship (England) (Amendment) Regulations 2024 (S.I. 2024/391)](https://www.legislation.gov.uk/uksi/2024/391), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/391/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/391/schedule)
+[^c-e8a58da47a50f98d7db518edaaba6424]: Textual amendment: [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2020/41/schedule/part/2) substituted (8.4.2024) by [The Countryside Stewardship (England) (Amendment) Regulations 2024 (S.I. 2024/391)](https://www.legislation.gov.uk/uksi/2024/391), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/391/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2024/391/schedule)
 
-[^f01000]: Footnote: (1)[^key-e8a58da47a50f98d7db518edaaba6424]
+[^f01000]: Footnote: (1)[^c-e8a58da47a50f98d7db518edaaba6424]
 
     “SDA” is defined in Part 1 of the Schedule to [S.I. 2020/41](https://www.legislation.gov.uk/uksi/2020/41).
 
@@ -865,14 +865,14 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
     “Priority Species” is defined in regulation 2(1) of [S.I. 2020/41](https://www.legislation.gov.uk/uksi/2020/41).
 
-[^key-a48c729a88dba0289b2a7ed893def463]: Commencement: Sch. Pt. 3 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
+[^c-a48c729a88dba0289b2a7ed893def463]: Commencement: Sch. Pt. 3 in force at 11.2.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/41/regulation/1/1)
 
-[^key-66f03b4e671dca602d1484163aec2718]: Textual amendment: Words in Sch. Pt. 3 inserted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/5/b/i)
+[^c-66f03b4e671dca602d1484163aec2718]: Textual amendment: Words in Sch. Pt. 3 inserted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(5)(b)(i)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/5/b/i)
 
-[^key-e9ac84cd346f28181f18178179e58548]: Textual amendment: Words in Sch. Pt. 3 substituted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/5/b/ii)
+[^c-e9ac84cd346f28181f18178179e58548]: Textual amendment: Words in Sch. Pt. 3 substituted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(5)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/5/b/ii)
 
-[^key-670ccd05df4bac262d1c7d2506adcd12]: Textual amendment: Words in Sch. Pt. 3 inserted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(5)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/5/b/iii/aa)
+[^c-670ccd05df4bac262d1c7d2506adcd12]: Textual amendment: Words in Sch. Pt. 3 inserted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(5)(b)(iii)(aa)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/5/b/iii/aa)
 
-[^key-d63df52225617317f2e404fe08c5601c]: Textual amendment: Words in Sch. Pt. 3 inserted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(5)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/5/b/iii/bb)
+[^c-d63df52225617317f2e404fe08c5601c]: Textual amendment: Words in Sch. Pt. 3 inserted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(5)(b)(iii)(bb)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/5/b/iii/bb)
 
-[^key-d63ee1fff51daa1b8276b592728d62f8]: Textual amendment: Words in Sch. Pt. 3 inserted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/5/b/iv)
+[^c-d63ee1fff51daa1b8276b592728d62f8]: Textual amendment: Words in Sch. Pt. 3 inserted (8.2.2021) by [The Countryside Stewardship (England) (Amendment) Regulations 2021 (S.I. 2021/42)](https://www.legislation.gov.uk/uksi/2021/42), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/42/regulation/1/1), [2(5)(b)(iv)](https://www.legislation.gov.uk/uksi/2021/42/regulation/2/5/b/iv)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120. Credit ceilings of combined and superseded fire authorities[^key-9d398bb96150469bb3cb6fea149f29eb]
+## 120. Credit ceilings of combined and superseded fire authorities[^c-9d398bb96150469bb3cb6fea149f29eb]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9d398bb96150469bb3cb6fea149f29eb]: Commencement: Reg. 120 in force at 30.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/a)
+[^c-9d398bb96150469bb3cb6fea149f29eb]: Commencement: Reg. 120 in force at 30.3.1997, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/a)
 
 [^f00100]: Footnote: [1947 c. 41](https://www.legislation.gov.uk/ukpga/1947/41).
 

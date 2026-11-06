@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Consultation etc in respect of certain applications relating to planning permission[^c22542931][^key-f38410f3dd4d084da9c3cf701f7f6d3b]
+## 37. Consultation etc in respect of certain applications relating to planning permission[^c22542931][^c-f38410f3dd4d084da9c3cf701f7f6d3b]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ In TCPA 1990, after section 100 insert—
 
 [^c22542931]: Commencement: [S. 37](https://www.legislation.gov.uk/anaw/2015/4/section/37) partly in force; [s. 37](https://www.legislation.gov.uk/anaw/2015/4/section/37) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-f38410f3dd4d084da9c3cf701f7f6d3b]: Commencement: [S. 37](https://www.legislation.gov.uk/anaw/2015/4/section/37) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b)
+[^c-f38410f3dd4d084da9c3cf701f7f6d3b]: Commencement: [S. 37](https://www.legislation.gov.uk/anaw/2015/4/section/37) in force at 16.3.2016 in so far as not already in force by [S.I. 2016/52](https://www.legislation.gov.uk/wsi/2016/52), [art. 5(b)](https://www.legislation.gov.uk/wsi/2016/52/article/5/b)

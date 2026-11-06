@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9R. Interpretation of Part 1A[^key-d0889913e49d5ad41844633fd2ce02d1]
+## 9R. Interpretation of Part 1A[^c-d0889913e49d5ad41844633fd2ce02d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,15 +30,15 @@ summary: ''
 - “**executive**”, in relation to a local authority, is to be construed in accordance with section 9C,
 - “**executive arrangements**” has the meaning given by section 9B,
 - “**executive leader**” has the meaning given by section 9C(3)(a),
-- [^key-1714d2df6084be84bbfc066609e58e16]...
+- [^c-1714d2df6084be84bbfc066609e58e16]...
 - “**leader and cabinet executive (England)**” has the meaning given by section 9C(3),
 - “**local authority**” means a county council in England, a district council or a London borough council,
 - “**local government elector**” has the meaning given by section 270(1) of the Local Government Act 1972,
 - “**mayor and cabinet executive**” has the meaning given by section 9C(2),
 - “**ordinary day of election**”, in relation to a local authority, means the day of ordinary elections of councillors of the authority,
 - “**the political balance requirements**” means the provisions made by or under sections 15 to 17 of, and Schedule 1 to, the Local Government and Housing Act 1989,
-- [^key-d5be884620739be4a863db15e6776aa4]...
-- [^key-1714d2df6084be84bbfc066609e58e16]...
+- [^c-d5be884620739be4a863db15e6776aa4]...
+- [^c-1714d2df6084be84bbfc066609e58e16]...
 
 (2) In this Part “**relevant election years**”, in relation to a local authority, means the years specified in the second column of the following table in relation to that type of authority.
 
@@ -72,8 +72,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d0889913e49d5ad41844633fd2ce02d1]: Textual amendment: Pt. 1A inserted (3.12.2011 for specified purposes, 15.1.2012 for the insertion of Pt. 1A Ch. 4 so far as not already in force and ss. 9B, 9C and 9R for specified purposes, 9.3.2012 for the insertion of ss. 9H-9HE in so far as not already in force and s. 9R for specified purposes, 4.5.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/e); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/628/article/2/a); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
+[^c-d0889913e49d5ad41844633fd2ce02d1]: Textual amendment: Pt. 1A inserted (3.12.2011 for specified purposes, 15.1.2012 for the insertion of Pt. 1A Ch. 4 so far as not already in force and ss. 9B, 9C and 9R for specified purposes, 9.3.2012 for the insertion of ss. 9H-9HE in so far as not already in force and s. 9R for specified purposes, 4.5.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/2/paragraph/1); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(e)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/e); [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(b)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/b) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/628/article/2/a); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 4(b)](https://www.legislation.gov.uk/uksi/2012/1008/article/4/b)
 
-[^key-1714d2df6084be84bbfc066609e58e16]: Textual amendment: Words in [s. 9R(1)](https://www.legislation.gov.uk/ukpga/2000/22/section/9R/1) omitted (26.10.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(10)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/10), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
+[^c-1714d2df6084be84bbfc066609e58e16]: Textual amendment: Words in [s. 9R(1)](https://www.legislation.gov.uk/ukpga/2000/22/section/9R/1) omitted (26.10.2022) by virtue of [Elections Act 2022 (c. 37)](https://www.legislation.gov.uk/ukpga/2022/37), [ss. 13(10)](https://www.legislation.gov.uk/ukpga/2022/37/section/13/10), [67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1); [S.I. 2022/1093](https://www.legislation.gov.uk/uksi/2022/1093), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1093/regulation/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1093/regulation/3))
 
-[^key-d5be884620739be4a863db15e6776aa4]: Textual amendment: Words in [s. 9R(1)](https://www.legislation.gov.uk/ukpga/2000/22/section/9R/1) omitted (29.6.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 29 para. 5(5)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/5/5)
+[^c-d5be884620739be4a863db15e6776aa4]: Textual amendment: Words in [s. 9R(1)](https://www.legislation.gov.uk/ukpga/2000/22/section/9R/1) omitted (29.6.2026) by virtue of [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/5), [Sch. 29 para. 5(5)](https://www.legislation.gov.uk/ukpga/2026/23/schedule/29/paragraph/5/5)

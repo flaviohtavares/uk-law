@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Requirements in connection with publication of accounts and reports[^key-d0f972a1f67d07a35985bc080950a223]
+## 16. Requirements in connection with publication of accounts and reports[^c-d0f972a1f67d07a35985bc080950a223]
 
 *Extent: E+W+S+N.I.*
 
 Sections 433 to 436 apply to LLPs, modified so that they read as follows—
 
-> **433. Name of signatory to be stated in published copies of accounts and reports[^key-c0c35ef556ebec7711572fccaf57e19f]**
+> **433. Name of signatory to be stated in published copies of accounts and reports[^c-c0c35ef556ebec7711572fccaf57e19f]**
 >
-> (1) Every copy of the LLP's balance sheet , strategic report[^key-568123581cde90e48bf25d207924f991] and energy and carbon report[^key-91bae3066821d582ac7c387a83639549] that is published by or on behalf of the LLP must state the name of the person who signed it on behalf of the members of the LLP.
+> (1) Every copy of the LLP's balance sheet , strategic report[^c-568123581cde90e48bf25d207924f991] and energy and carbon report[^c-91bae3066821d582ac7c387a83639549] that is published by or on behalf of the LLP must state the name of the person who signed it on behalf of the members of the LLP.
 >
 > (2) If a copy is published without the required statement of the signatory's name, an offence is committed by—
 >
@@ -76,11 +76,11 @@ Sections 433 to 436 apply to LLPs, modified so that they read as follows—
 >
 > (6) A person guilty of an offence under this section is liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 >
-> **436. Meaning of “publication” in relation to accounts and reports[^key-73456b945505614e94bdce991c2da832]**
+> **436. Meaning of “publication” in relation to accounts and reports[^c-73456b945505614e94bdce991c2da832]**
 >
 > (1) This section has effect for the purposes of—
 >
-> - section 433 (name of signatory to be stated in published copies of accounts and reports[^key-f70adf78d5dff369ebe9f999ad3a0d12] ),
+> - section 433 (name of signatory to be stated in published copies of accounts and reports[^c-f70adf78d5dff369ebe9f999ad3a0d12] ),
 > - section 434 (requirements in connection with publication of statutory accounts), and
 > - section 435 (requirements in connection with publication of non-statutory accounts).
 >
@@ -88,14 +88,14 @@ Sections 433 to 436 apply to LLPs, modified so that they read as follows—
 
 ## Annotations
 
-[^key-d0f972a1f67d07a35985bc080950a223]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1911/regulation/16) heading substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2021/153/regulation/9/2)
+[^c-d0f972a1f67d07a35985bc080950a223]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1911/regulation/16) heading substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2021/153/regulation/9/2)
 
-[^key-c0c35ef556ebec7711572fccaf57e19f]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1911/regulation/16) substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2021/153/regulation/9/3/a)
+[^c-c0c35ef556ebec7711572fccaf57e19f]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1911/regulation/16) substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [9(3)(a)](https://www.legislation.gov.uk/uksi/2021/153/regulation/9/3/a)
 
-[^key-568123581cde90e48bf25d207924f991]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1911/regulation/16) inserted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2021/153/regulation/9/3/b)
+[^c-568123581cde90e48bf25d207924f991]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1911/regulation/16) inserted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [9(3)(b)](https://www.legislation.gov.uk/uksi/2021/153/regulation/9/3/b)
 
-[^key-91bae3066821d582ac7c387a83639549]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1911/regulation/16) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/15/3/b)
+[^c-91bae3066821d582ac7c387a83639549]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1911/regulation/16) inserted (1.4.2019) by [The Companies (Directors Report) and Limited Liability Partnerships (Energy and Carbon Report) Regulations 2018 (S.I. 2018/1155)](https://www.legislation.gov.uk/uksi/2018/1155), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1155/regulation/2), [15(3)(b)](https://www.legislation.gov.uk/uksi/2018/1155/regulation/15/3/b)
 
-[^key-73456b945505614e94bdce991c2da832]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1911/regulation/16) substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2021/153/regulation/9/4/a)
+[^c-73456b945505614e94bdce991c2da832]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1911/regulation/16) substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [9(4)(a)](https://www.legislation.gov.uk/uksi/2021/153/regulation/9/4/a)
 
-[^key-f70adf78d5dff369ebe9f999ad3a0d12]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1911/regulation/16) substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2021/153/regulation/9/4/b)
+[^c-f70adf78d5dff369ebe9f999ad3a0d12]: Textual amendment: Words in [reg. 16](https://www.legislation.gov.uk/uksi/2008/1911/regulation/16) substituted (with effect for financial years beginning on or after 6.4.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [regs. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [9(4)(b)](https://www.legislation.gov.uk/uksi/2021/153/regulation/9/4/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 99. Documents issuing from Secretary of State[^key-420173f175794e3fcfcee9e80472c95b]
+## 99. Documents issuing from Secretary of State[^c-420173f175794e3fcfcee9e80472c95b]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ is conclusive evidence of the matters dealt with in the certificate.
 
 ## Annotations
 
-[^key-420173f175794e3fcfcee9e80472c95b]: Commencement: [Rule 99](https://www.legislation.gov.uk/uksi/2007/3141/rule/99) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-420173f175794e3fcfcee9e80472c95b]: Commencement: [Rule 99](https://www.legislation.gov.uk/uksi/2007/3141/rule/99) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

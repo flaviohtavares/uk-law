@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Abolition of higher amount of the child element for first child or qualifying young person – saving where claimant responsible for a child or qualifying young person born before 6th April 2017[^key-b19646e3024c161510e54618420a8281]
+## 43. Abolition of higher amount of the child element for first child or qualifying young person – saving where claimant responsible for a child or qualifying young person born before 6th April 2017[^c-b19646e3024c161510e54618420a8281]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 14(5)(b) of the Welfare Reform and Work Act 2016 (which amends the Unive
 
 ## Annotations
 
-[^key-b19646e3024c161510e54618420a8281]: Textual amendment: Pt. 3 inserted (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/376/regulation/3/3)
+[^c-b19646e3024c161510e54618420a8281]: Textual amendment: Pt. 3 inserted (6.4.2017) by [The Social Security (Restrictions on Amounts for Children and Qualifying Young Persons) Amendment Regulations 2017 (S.I. 2017/376)](https://www.legislation.gov.uk/uksi/2017/376), [regs. 1](https://www.legislation.gov.uk/uksi/2017/376/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2017/376/regulation/3/3)

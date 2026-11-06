@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Appointment of nominees[^key-58853cc0fe091a1f61a169b4f71d65bd]
+## 23. Appointment of nominees[^c-58853cc0fe091a1f61a169b4f71d65bd]
 
 *Extent: S*
 
@@ -66,14 +66,14 @@ summary: ''
 
 (11) The trustees are to exercise either or both of the powers mentioned in subsection (10)(b) if they consider that there is a need to do so.
 
-(12)[^key-913823a94b9e0de766dc666998f3e347] The Scottish Ministers may, by regulations, specify particular circumstances which may constitute a good cause for the purpose of subsection (8).
+(12)[^c-913823a94b9e0de766dc666998f3e347] The Scottish Ministers may, by regulations, specify particular circumstances which may constitute a good cause for the purpose of subsection (8).
 
-(13)[^key-913823a94b9e0de766dc666998f3e347] Regulations under this section are subject to the negative procedure.
+(13)[^c-913823a94b9e0de766dc666998f3e347] Regulations under this section are subject to the negative procedure.
 
 (14) This section applies irrespective of when the trust was created.
 
 ## Annotations
 
-[^key-58853cc0fe091a1f61a169b4f71d65bd]: Commencement: S. 23 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-58853cc0fe091a1f61a169b4f71d65bd]: Commencement: S. 23 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
 
-[^key-913823a94b9e0de766dc666998f3e347]: Commencement: [S. 23(12)](https://www.legislation.gov.uk/asp/2024/2/section/23/12)[(13)](https://www.legislation.gov.uk/asp/2024/2/section/23/13) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-913823a94b9e0de766dc666998f3e347]: Commencement: [S. 23(12)](https://www.legislation.gov.uk/asp/2024/2/section/23/12)[(13)](https://www.legislation.gov.uk/asp/2024/2/section/23/13) in force at 26.6.2024 by [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)

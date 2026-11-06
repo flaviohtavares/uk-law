@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Investigations: National Policing Improvement Agency involvement[^key-3c27c50ae5655ec223b16e966a1addbd]
+## 16A. Investigations: National Policing Improvement Agency involvement[^c-3c27c50ae5655ec223b16e966a1addbd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c27c50ae5655ec223b16e966a1addbd]: Textual amendment: S. 16A omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/6/paragraph/13); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(q)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/q)
+[^c-3c27c50ae5655ec223b16e966a1addbd]: Textual amendment: S. 16A omitted (7.10.2013) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(2)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/2), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2013/22/schedule/6/paragraph/13); [S.I. 2013/1682](https://www.legislation.gov.uk/uksi/2013/1682), [art. 3(q)](https://www.legislation.gov.uk/uksi/2013/1682/article/3/q)

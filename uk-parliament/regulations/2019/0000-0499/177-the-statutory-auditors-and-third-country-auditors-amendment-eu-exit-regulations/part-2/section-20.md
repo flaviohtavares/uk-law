@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20.[^key-a4a17982b3c3d0d7de6d2bbc3d2f68bd]
+## 20.[^c-a4a17982b3c3d0d7de6d2bbc3d2f68bd]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ In section 1253D (restriction on transfer of audit working papers to third count
 
 ## Annotations
 
-[^key-a4a17982b3c3d0d7de6d2bbc3d2f68bd]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
+[^c-a4a17982b3c3d0d7de6d2bbc3d2f68bd]: Commencement: Reg. 20 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2)
 
 [^c23586421]: Marginal citation: Section 1253D was inserted by regulation 15(1) of [S.I. 2007/3494](https://www.legislation.gov.uk/uksi/2007/3494), and substituted by regulation 2 of [S.I. 2010/2537](https://www.legislation.gov.uk/uksi/2010/2537).
 

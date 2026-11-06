@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Power to require information etc.[^key-810e999b163371121c19117324975174][^key-8df0678c49a29e1b2ed45388759eeee5]
+## 141. Power to require information etc.[^c-810e999b163371121c19117324975174][^c-8df0678c49a29e1b2ed45388759eeee5]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-810e999b163371121c19117324975174]: Commencement: S. 141 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-810e999b163371121c19117324975174]: Commencement: S. 141 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
 
-[^key-8df0678c49a29e1b2ed45388759eeee5]: Modification: [S. 141](https://www.legislation.gov.uk/ukpga/2006/40/section/141) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/1)
+[^c-8df0678c49a29e1b2ed45388759eeee5]: Modification: [S. 141](https://www.legislation.gov.uk/ukpga/2006/40/section/141) applied (9.11.2015) by [The Children Act 2004 (Joint Area Reviews) Regulations 2015 (S.I. 2015/1792)](https://www.legislation.gov.uk/uksi/2015/1792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/1792/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2015/1792/schedule/paragraph/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Rights under or over streets[^key-5b6ce9c9fca8c0129b63f58d1a2bb247]
+## 30. Rights under or over streets[^c-5b6ce9c9fca8c0129b63f58d1a2bb247]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b6ce9c9fca8c0129b63f58d1a2bb247]: Commencement: Art. 30 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)
+[^c-5b6ce9c9fca8c0129b63f58d1a2bb247]: Commencement: Art. 30 in force at 25.6.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/795/article/1)

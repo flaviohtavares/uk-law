@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. The Non-Domestic Rating (Unoccupied Property) (Wales) Regulations 2008[^key-cff856acd35b18fb92833e1750b8ca32]
+## 43. The Non-Domestic Rating (Unoccupied Property) (Wales) Regulations 2008[^c-cff856acd35b18fb92833e1750b8ca32]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ In regulation 4 of the Non-Domestic Rating (Unoccupied Property) (Wales) Regulat
 
 ## Annotations
 
-[^key-cff856acd35b18fb92833e1750b8ca32]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2024/924/regulation/43) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
+[^c-cff856acd35b18fb92833e1750b8ca32]: Commencement: [Reg. 43](https://www.legislation.gov.uk/wsi/2024/924/regulation/43) in force at 4.11.2024, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2024/924/regulation/1/2)
 
 [^f00027]: Footnote: [S.I. 2008/2499 (W. 217)](https://www.legislation.gov.uk/wsi/2008/2499), to which there are amendments not relevant to these Regulations.

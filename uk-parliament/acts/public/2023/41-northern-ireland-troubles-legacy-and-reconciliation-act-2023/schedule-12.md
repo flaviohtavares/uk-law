@@ -22,13 +22,13 @@ summary: ''
 
 Section 48
 
-### 1. Amendment and saving of legislation[^key-bc2d0a7fbb212fdc0d8d233ca93fa56c]
+### 1. Amendment and saving of legislation[^c-bc2d0a7fbb212fdc0d8d233ca93fa56c]
 
 (1) The Northern Ireland (Sentences) Act 1998 is amended in accordance with this Schedule.
 
 (2) Those amendments do not apply in relation to any application for a declaration made to the Commissioners under section 3(1) of the Northern Ireland (Sentences) Act 1998 before this Schedule comes into force.
 
-### 2. Qualifying offences: offences committed between 1966 and 1973[^key-1b044e504316a35d6c28a6812d3d8845]
+### 2. Qualifying offences: offences committed between 1966 and 1973[^c-1b044e504316a35d6c28a6812d3d8845]
 
 (1) Section 3 (applications to the Sentence Review Commissioners) is amended in accordance with this paragraph.
 
@@ -61,7 +61,7 @@ Section 48
 >
 > (7B) In deciding whether an offence would have been a scheduled offence, the Director of Public Prosecutions for Northern Ireland must ignore the possibility of a certificate by the Attorney General for Northern Ireland that the offence was not to be treated as a scheduled offence.
 
-### 3. Offences equivalent to qualifying offences: offences committed between 1966 and 1973[^key-a7e6fdcd05b742000057982d635ff05d]
+### 3. Offences equivalent to qualifying offences: offences committed between 1966 and 1973[^c-a7e6fdcd05b742000057982d635ff05d]
 
 (1) In Schedule 3 (sentences passed outside Northern Ireland), paragraph 2 (equivalent offences) is amended in accordance with this paragraph.
 
@@ -99,7 +99,7 @@ Section 48
 
 (5) In sub-paragraph (2), after “sub-paragraph (1)(c)” insert “or (1A)(c)”.
 
-### 4. Interpretation of the 1998 Act[^key-9e5a8f263321166fad8bce30c6ab1d82]
+### 4. Interpretation of the 1998 Act[^c-9e5a8f263321166fad8bce30c6ab1d82]
 
 After section 13 insert—
 
@@ -109,10 +109,10 @@ After section 13 insert—
 
 ## Annotations
 
-[^key-bc2d0a7fbb212fdc0d8d233ca93fa56c]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/12/paragraph/1) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-bc2d0a7fbb212fdc0d8d233ca93fa56c]: Commencement: [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2023/41/schedule/12/paragraph/1) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
 
-[^key-1b044e504316a35d6c28a6812d3d8845]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/12/paragraph/2) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-1b044e504316a35d6c28a6812d3d8845]: Commencement: [Sch. 12 para. 2](https://www.legislation.gov.uk/ukpga/2023/41/schedule/12/paragraph/2) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
 
-[^key-a7e6fdcd05b742000057982d635ff05d]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/12/paragraph/3) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-a7e6fdcd05b742000057982d635ff05d]: Commencement: [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2023/41/schedule/12/paragraph/3) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
 
-[^key-9e5a8f263321166fad8bce30c6ab1d82]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2023/41/schedule/12/paragraph/4) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)
+[^c-9e5a8f263321166fad8bce30c6ab1d82]: Commencement: [Sch. 12 para. 4](https://www.legislation.gov.uk/ukpga/2023/41/schedule/12/paragraph/4) in force at 1.5.2024, see [s. 63(3)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/3)

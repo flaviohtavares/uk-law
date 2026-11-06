@@ -24,11 +24,11 @@ summary: ''
 
 (2) If an ill-health pension becomes payable to M in consequence of a claim made before the end of the refund period—
 
-- (a) any periodic payments that have been made under the election must be repaid to M; and[^key-bbcaaa06ea4362c602bcd414361f38f3]
-- (b)[^key-b0a5541d184f41880b57aefdd4fe2759] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) any periodic payments that have been made under the election must be repaid to M; and[^c-bbcaaa06ea4362c602bcd414361f38f3]
+- (b)[^c-b0a5541d184f41880b57aefdd4fe2759] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) the amount of accrued additional pension attributable to the election as at the last day of pensionable service must be disregarded.
 
-(3)[^key-35b5c2438b9cd8f2b85f5e97434787d8] If an ill-health pension becomes payable to M in consequence of a claim made after the end of the refund period—
+(3)[^c-35b5c2438b9cd8f2b85f5e97434787d8] If an ill-health pension becomes payable to M in consequence of a claim made after the end of the refund period—
 
 - (a) the periodic payments under the additional pension election are treated as being paid until the end of the contributions payment period for the election; and
 - (b) paragraph (4) applies.
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-bbcaaa06ea4362c602bcd414361f38f3]: Textual amendment: Word in [reg. 70(2)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/70/2/a) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [38(2)(a)](https://www.legislation.gov.uk/uksi/2017/275/regulation/38/2/a)
+[^c-bbcaaa06ea4362c602bcd414361f38f3]: Textual amendment: Word in [reg. 70(2)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/70/2/a) inserted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [38(2)(a)](https://www.legislation.gov.uk/uksi/2017/275/regulation/38/2/a)
 
-[^key-b0a5541d184f41880b57aefdd4fe2759]: Textual amendment: [Reg. 70(2)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/70/2/b) omitted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by virtue of [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [38(2)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/38/2/b)
+[^c-b0a5541d184f41880b57aefdd4fe2759]: Textual amendment: [Reg. 70(2)(b)](https://www.legislation.gov.uk/uksi/2015/94/regulation/70/2/b) omitted (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by virtue of [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [38(2)(b)](https://www.legislation.gov.uk/uksi/2017/275/regulation/38/2/b)
 
-[^key-35b5c2438b9cd8f2b85f5e97434787d8]: Textual amendment: [Reg. 70(3)](https://www.legislation.gov.uk/uksi/2015/94/regulation/70/3)[(4)](https://www.legislation.gov.uk/uksi/2015/94/regulation/70/4) substituted for [reg. 70(3)](https://www.legislation.gov.uk/uksi/2015/94/regulation/70/3) (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [38(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/38/3)
+[^c-35b5c2438b9cd8f2b85f5e97434787d8]: Textual amendment: [Reg. 70(3)](https://www.legislation.gov.uk/uksi/2015/94/regulation/70/3)[(4)](https://www.legislation.gov.uk/uksi/2015/94/regulation/70/4) substituted for [reg. 70(3)](https://www.legislation.gov.uk/uksi/2015/94/regulation/70/3) (with effect in accordance with reg. 1(2)(a) of the amending S.I.) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [38(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/38/3)

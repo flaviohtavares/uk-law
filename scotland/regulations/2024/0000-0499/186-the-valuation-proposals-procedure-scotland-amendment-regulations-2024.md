@@ -32,7 +32,7 @@ summary: ''
 
 Rating And Valuation
 
-The Valuation (Proposals Procedure) (Scotland) Amendment Regulations 2024 (revoked)[^key-f790e40c4031427b0089660c232cda7a]
+The Valuation (Proposals Procedure) (Scotland) Amendment Regulations 2024 (revoked)[^c-f790e40c4031427b0089660c232cda7a]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 29th September 2024
 
-[^key-f790e40c4031427b0089660c232cda7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f790e40c4031427b0089660c232cda7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f790e40c4031427b0089660c232cda7a]
+## 1. Citation and commencement[^c-f790e40c4031427b0089660c232cda7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Valuation (Proposals Procedure) (Scotland) Regulations 2022[^key-f790e40c4031427b0089660c232cda7a]
+## 2. Amendment of the Valuation (Proposals Procedure) (Scotland) Regulations 2022[^c-f790e40c4031427b0089660c232cda7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f790e40c4031427b0089660c232cda7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f790e40c4031427b0089660c232cda7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f790e40c4031427b0089660c232cda7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f790e40c4031427b0089660c232cda7a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f790e40c4031427b0089660c232cda7a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2024/186) revoked (with application in accordance with reg. 3 of the amending S.S.I.) by [The Valuation (Proposals Procedure) (Scotland) Regulations 2025 (S.S.I. 2025/146)](https://www.legislation.gov.uk/ssi/2025/146), [regs. 1](https://www.legislation.gov.uk/ssi/2025/146/regulation/1), [23(1)(c)](https://www.legislation.gov.uk/ssi/2025/146/regulation/23/1/c) (with [regs. 3](https://www.legislation.gov.uk/ssi/2025/146/regulation/3), [23(2)](https://www.legislation.gov.uk/ssi/2025/146/regulation/23/2))
+[^c-f790e40c4031427b0089660c232cda7a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2024/186) revoked (with application in accordance with reg. 3 of the amending S.S.I.) by [The Valuation (Proposals Procedure) (Scotland) Regulations 2025 (S.S.I. 2025/146)](https://www.legislation.gov.uk/ssi/2025/146), [regs. 1](https://www.legislation.gov.uk/ssi/2025/146/regulation/1), [23(1)(c)](https://www.legislation.gov.uk/ssi/2025/146/regulation/23/1/c) (with [regs. 3](https://www.legislation.gov.uk/ssi/2025/146/regulation/3), [23(2)](https://www.legislation.gov.uk/ssi/2025/146/regulation/23/2))

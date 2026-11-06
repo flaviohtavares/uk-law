@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Requirement for manager of site to be fit and proper person[^key-ebda3322cc9857bf4edb5b65aa21ffa1]
+## 28. Requirement for manager of site to be fit and proper person[^c-ebda3322cc9857bf4edb5b65aa21ffa1]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ebda3322cc9857bf4edb5b65aa21ffa1]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2013/6/section/28) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-ebda3322cc9857bf4edb5b65aa21ffa1]: Commencement: [S. 28](https://www.legislation.gov.uk/anaw/2013/6/section/28) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/b) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

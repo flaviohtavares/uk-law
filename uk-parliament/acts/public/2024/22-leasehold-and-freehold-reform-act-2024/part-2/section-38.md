@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Costs of enfranchisement and extension under the LRA 1967[^key-467a49b6fa1be9de55e442c1f1cf3b23]
+## 38. Costs of enfranchisement and extension under the LRA 1967[^c-467a49b6fa1be9de55e442c1f1cf3b23]
 
 *Extent: E+W*
 
@@ -190,4 +190,4 @@ summary: ''
 
 ## Annotations
 
-[^key-467a49b6fa1be9de55e442c1f1cf3b23]: Commencement: S. 38 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-467a49b6fa1be9de55e442c1f1cf3b23]: Commencement: S. 38 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

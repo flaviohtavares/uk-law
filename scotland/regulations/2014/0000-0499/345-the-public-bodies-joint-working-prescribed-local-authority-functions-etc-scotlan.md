@@ -46,7 +46,7 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 In accordance with section 69(2) of that Act, a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and interpretation[^key-75a4c652c5d49d53dc197a973d605f08]
+## 1. Citation, commencement and interpretation[^c-75a4c652c5d49d53dc197a973d605f08]
 
 (1) These Regulations may be cited as the Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Regulations 2014 and come into force on the day after the day on which they are made.
 
@@ -58,7 +58,7 @@ In accordance with section 69(2) of that Act, a draft of this instrument has bee
   - (a) means any service which provides support, assistance, advice or counselling to a person for the purpose of enabling that person to occupy, or to continue to occupy, accommodation as their sole or main residence;
   - (b) does not include any service which involves the installation or maintenance of an aid or adaptation; or any service which is provided to a person as, or in conjunction with, personal care or personal support services provided in the person’s place of residence.
 
-## 2. Prescribed functions[^key-28d95f190589ec67b4ed9429b423b3cb]
+## 2. Prescribed functions[^c-28d95f190589ec67b4ed9429b423b3cb]
 
 (1) The functions conferred by the enactments listed in column A of the table in Part 1 of the Schedule are prescribed for the purposes of section 1(7) of the Act.
 
@@ -68,7 +68,7 @@ In accordance with section 69(2) of that Act, a draft of this instrument has bee
 
 (4) Where an entry in column B of the table in the Schedule specifies a limitation in relation to a function listed in column A, that function is prescribed subject to that limitation.
 
-## 3. Amendment of the schedule to the Act[^key-9247dbfdd71507acddd1e6d97216d9a1]
+## 3. Amendment of the schedule to the Act[^c-9247dbfdd71507acddd1e6d97216d9a1]
 
 In Part 1 of the schedule to the Act—
 
@@ -91,7 +91,7 @@ Edinburgh
 
 Regulation 2
 
-### PART 1 — Functions prescribed for the purposes of section 1(7) of the Public Bodies (Joint Working) (Scotland) Act 2014[^key-b44a7e5a1f4a7ad7b14f21d5871b34d1]
+### PART 1 — Functions prescribed for the purposes of section 1(7) of the Public Bodies (Joint Working) (Scotland) Act 2014[^c-b44a7e5a1f4a7ad7b14f21d5871b34d1]
 
 <table>
 <thead>
@@ -192,9 +192,9 @@ Regulation 2
 </tbody>
 </table>
 
-[^f00006][^f00007][^f00008][^key-8ee11311b235832b13c223177a2a8062][^f00009][^f00010][^f00011][^f00012][^f00013][^f00014][^f00015][^f00016][^f00017][^key-a2d9432fc4fe5c3bcee71c2e79e51367][^key-a2747e8c96208ace613336748bffe5ad][^key-0bcca6611d02f7b99ff6c49f72425a93][^key-05a636abb6b6431c4163f7e16c3c896a]
+[^f00006][^f00007][^f00008][^c-8ee11311b235832b13c223177a2a8062][^f00009][^f00010][^f00011][^f00012][^f00013][^f00014][^f00015][^f00016][^f00017][^c-a2d9432fc4fe5c3bcee71c2e79e51367][^c-a2747e8c96208ace613336748bffe5ad][^c-0bcca6611d02f7b99ff6c49f72425a93][^c-05a636abb6b6431c4163f7e16c3c896a]
 
-### PART 2 — Functions, conferred by virtue of enactments, prescribed for the purposes of section 1(7) of the Public Bodies (Joint Working) (Scotland) Act 2014[^key-3ccf5e98806c7235ef72b0a7624405c5]
+### PART 2 — Functions, conferred by virtue of enactments, prescribed for the purposes of section 1(7) of the Public Bodies (Joint Working) (Scotland) Act 2014[^c-3ccf5e98806c7235ef72b0a7624405c5]
 
 <table>
 <thead>
@@ -226,11 +226,11 @@ Regulation 3 makes amendments to remove certain enactments from the schedule to 
 
 [^f00001]: Footnote: [2014 asp 9](https://www.legislation.gov.uk/asp/2014/9).
 
-[^key-75a4c652c5d49d53dc197a973d605f08]: Commencement: Reg. 1 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1)
+[^c-75a4c652c5d49d53dc197a973d605f08]: Commencement: Reg. 1 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1)
 
-[^key-28d95f190589ec67b4ed9429b423b3cb]: Commencement: Reg. 2 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1)
+[^c-28d95f190589ec67b4ed9429b423b3cb]: Commencement: Reg. 2 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1)
 
-[^key-9247dbfdd71507acddd1e6d97216d9a1]: Commencement: Reg. 3 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1)
+[^c-9247dbfdd71507acddd1e6d97216d9a1]: Commencement: Reg. 3 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1)
 
 [^f00002]: Footnote: [1948 c.29](https://www.legislation.gov.uk/ukpga/1948/29), (11 and 12 Geo. 6).
 
@@ -240,7 +240,7 @@ Regulation 3 makes amendments to remove certain enactments from the schedule to 
 
 [^f00005]: Footnote: [1987 c.26](https://www.legislation.gov.uk/ukpga/1987/26); section 5A was inserted by the Leasehold Reform, Housing and Urban Development Act [1993 (c.28)](https://www.legislation.gov.uk/ukpga/1993/28) section 149.
 
-[^key-b44a7e5a1f4a7ad7b14f21d5871b34d1]: Commencement: Sch. Pt. 1 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1)
+[^c-b44a7e5a1f4a7ad7b14f21d5871b34d1]: Commencement: Sch. Pt. 1 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1)
 
 [^f00006]: Footnote: [1948 c.29](https://www.legislation.gov.uk/ukpga/1948/29); section 48 was amended by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 31(4) and the Adult Support and Protection (Scotland) Act [2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10) schedule 2, paragraph 1.
 
@@ -248,7 +248,7 @@ Regulation 3 makes amendments to remove certain enactments from the schedule to 
 
 [^f00008]: Footnote: [1968 c.49](https://www.legislation.gov.uk/ukpga/1968/49); section 1 was relevantly amended by the National Health Service (Scotland) Act [1972 (c.58)](https://www.legislation.gov.uk/ukpga/1972/58), Schedule 7; the Children Act [1989 (c.41)](https://www.legislation.gov.uk/ukpga/1989/41), Schedule 15; the National Health Service and Community Care Act [1990 (c.19)](https://www.legislation.gov.uk/ukpga/1990/19) (“the 1990 Act”), Schedule 10; [S.S.I. 2005/465](https://www.legislation.gov.uk/ssi/2005/465) and [S.S.I. 2013/211](https://www.legislation.gov.uk/ssi/2013/211). Section 4 was amended by the 1990 Act, Schedule 9, the Children (Scotland) Act [1995 (c.36)](https://www.legislation.gov.uk/ukpga/1995/36) (“the 1995 Act”), Schedule 4; the Mental Health (Care and Treatment) (Scotland) Act [2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13) (“the 2003 Act”), schedule 4; and [S.S.I. 2013/211](https://www.legislation.gov.uk/ssi/2013/211). Section 10 was relevantly amended by the Children Act [1975 (c.72)](https://www.legislation.gov.uk/ukpga/1975/72), Schedule 2; the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13; the Regulation of Care (Scotland) Act [2001 (asp 8)](https://www.legislation.gov.uk/asp/2001/8) (“the 2001 Act”) schedule 3; [S.S.I. 2010/21](https://www.legislation.gov.uk/ssi/2010/21) and [S.S.I. 2011/211](https://www.legislation.gov.uk/ssi/2011/211). Section 12 was relevantly amended by the 1990 Act, section 66 and Schedule 9; the 1995 Act, Schedule 4; and the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33), section 120(2). Section 12A was inserted by the 1990 Act, section 55, and amended by the Carers (Recognition and Services) Act [1995 (c.12)](https://www.legislation.gov.uk/ukpga/1995/12), section 2(3) and the Community Care and Health (Scotland) Act [2002 (asp 5)](https://www.legislation.gov.uk/asp/2002/5) (“the 2002 Act”), sections 8 and 9(1). Section 12AZA was inserted by the Social Care (Self Directed Support) (Scotland) Act [2013 (asp 1)](https://www.legislation.gov.uk/asp/2013/1), section 17. Section 12AA and 12AB were inserted by the 2002 Act, section 9(2). Section 13 was amended by the Community Care (Direct Payments) Act [1996 (c.30)](https://www.legislation.gov.uk/ukpga/1996/30), section 5. Section 13ZA was inserted by the Adult Support and Protection (Scotland) Act [2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), section 64. Section 13A was inserted by the 1990 Act, section 56 and amended by the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33), section 120(2); the 2001 Act, section 72 and schedule 3; the 2002 Act, schedule 2 and by [S.S.I. 2011/211](https://www.legislation.gov.uk/ssi/2011/211). Section 13B was inserted by the 1990 Act sections 56 and 67(2) and amended by the Immigration and Asylum Act [1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33), section 120(3). Section 14 was amended by the Health Services and Public Health Act [1968 (c.46)](https://www.legislation.gov.uk/ukpga/1968/46), sections 13, 44 and 45; the National Health Service (Scotland) Act [1972 (c.58)](https://www.legislation.gov.uk/ukpga/1972/58), Schedule 7; the Guardianship Act [1973 (c.29)](https://www.legislation.gov.uk/ukpga/1973/29), section 11(5); the Health and Social Service and Social Security Adjudications Act [1983 (c.41)](https://www.legislation.gov.uk/ukpga/1983/41), Schedule 10 and the 1990 Act, Schedule 9. Section 28 was amended by the Social Security Act [1986 (c.50)](https://www.legislation.gov.uk/ukpga/1986/50), Schedule 11 and the 1995 Act, Schedule 4. Section 29 was amended by the 1995 Act, Schedule 4. Section 59 was amended by the 1990 Act, Schedule 9; the 2001 Act, section 72(c); the 2003 Act, section 25(4) and schedule 4 and by [S.S.I. 2013/211](https://www.legislation.gov.uk/ssi/2013/211).
 
-[^key-8ee11311b235832b13c223177a2a8062]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/345/schedule/part/1) omitted (1.4.2018) by virtue of [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/449)](https://www.legislation.gov.uk/ssi/2017/449), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/449/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2017/449/regulation/3/2/a)
+[^c-8ee11311b235832b13c223177a2a8062]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/345/schedule/part/1) omitted (1.4.2018) by virtue of [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/449)](https://www.legislation.gov.uk/ssi/2017/449), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/449/regulation/1/2), [3(2)(a)](https://www.legislation.gov.uk/ssi/2017/449/regulation/3/2/a)
 
 [^f00009]: Footnote: [1982 c.43](https://www.legislation.gov.uk/ukpga/1982/43); section 24(1) was amended by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13.
 
@@ -268,15 +268,15 @@ Regulation 3 makes amendments to remove certain enactments from the schedule to 
 
 [^f00017]: Footnote: [2013 asp 1](https://www.legislation.gov.uk/asp/2013/1).
 
-[^key-a2d9432fc4fe5c3bcee71c2e79e51367]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/345/schedule/part/1) omitted (1.4.2018) by virtue of [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/449)](https://www.legislation.gov.uk/ssi/2017/449), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/449/regulation/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2017/449/regulation/3/2/b/i)
+[^c-a2d9432fc4fe5c3bcee71c2e79e51367]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/345/schedule/part/1) omitted (1.4.2018) by virtue of [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/449)](https://www.legislation.gov.uk/ssi/2017/449), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/449/regulation/1/2), [3(2)(b)(i)](https://www.legislation.gov.uk/ssi/2017/449/regulation/3/2/b/i)
 
-[^key-a2747e8c96208ace613336748bffe5ad]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/345/schedule/part/1) omitted (1.4.2018) by virtue of [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/449)](https://www.legislation.gov.uk/ssi/2017/449), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/449/regulation/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2017/449/regulation/3/2/b/ii)
+[^c-a2747e8c96208ace613336748bffe5ad]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/345/schedule/part/1) omitted (1.4.2018) by virtue of [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/449)](https://www.legislation.gov.uk/ssi/2017/449), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2017/449/regulation/1/2), [3(2)(b)(ii)](https://www.legislation.gov.uk/ssi/2017/449/regulation/3/2/b/ii)
 
-[^key-0bcca6611d02f7b99ff6c49f72425a93]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/345/schedule/part/1) inserted (16.6.2017) by [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/190)](https://www.legislation.gov.uk/ssi/2017/190), [regs. 1](https://www.legislation.gov.uk/ssi/2017/190/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/190/regulation/2/2)
+[^c-0bcca6611d02f7b99ff6c49f72425a93]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/345/schedule/part/1) inserted (16.6.2017) by [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Amendment Regulations 2017 (S.S.I. 2017/190)](https://www.legislation.gov.uk/ssi/2017/190), [regs. 1](https://www.legislation.gov.uk/ssi/2017/190/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/190/regulation/2/2)
 
-[^key-05a636abb6b6431c4163f7e16c3c896a]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/345/schedule/part/1) inserted (13.12.2017) by [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/449)](https://www.legislation.gov.uk/ssi/2017/449), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2017/449/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/ssi/2017/449/regulation/3/2/c)
+[^c-05a636abb6b6431c4163f7e16c3c896a]: Textual amendment: Words in [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2014/345/schedule/part/1) inserted (13.12.2017) by [The Public Bodies (Joint Working) (Prescribed Local Authority Functions etc.) (Scotland) Amendment (No. 2) Regulations 2017 (S.S.I. 2017/449)](https://www.legislation.gov.uk/ssi/2017/449), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2017/449/regulation/1/3), [3(2)(c)](https://www.legislation.gov.uk/ssi/2017/449/regulation/3/2/c)
 
-[^key-3ccf5e98806c7235ef72b0a7624405c5]: Commencement: Sch. Pt. 2 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1)
+[^c-3ccf5e98806c7235ef72b0a7624405c5]: Commencement: Sch. Pt. 2 in force at 28.11.2014, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2014/345/regulation/1/1)
 
 [^f00018]: Footnote: Section 4 was amended by the Mental Health (Care and Treatment) (Scotland) Act [2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), schedule 4 and the Adult Support and Protection (Scotland) Act [2007 (asp 10)](https://www.legislation.gov.uk/asp/2007/10), section 62(3).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. The national procurement policy statement[^key-3005cd391580734ff14c6b46949f9a32][^key-25a62adc23e97da4db40534f98bfc1c0]
+## 13. The national procurement policy statement[^c-3005cd391580734ff14c6b46949f9a32][^c-25a62adc23e97da4db40534f98bfc1c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3005cd391580734ff14c6b46949f9a32]: Commencement: S. 13 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-3005cd391580734ff14c6b46949f9a32]: Commencement: S. 13 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-25a62adc23e97da4db40534f98bfc1c0]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/54/section/13) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/d)
+[^c-25a62adc23e97da4db40534f98bfc1c0]: Commencement: [S. 13](https://www.legislation.gov.uk/ukpga/2023/54/section/13) in force at 12.3.2024 by [S.I. 2024/361](https://www.legislation.gov.uk/uksi/2024/361), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2024/361/regulation/2/d)

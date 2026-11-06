@@ -34,12 +34,12 @@ summary: ''
 
 (4) If, having had regard to any matters falling within subsection (3)(a) or (b), the assessor considers that there are exceptional circumstances which justify doing so, the assessor may determine that the amount of compensation payable under section 133 is to be a nominal amount only.
 
-(5) The total amount of compensation payable to or in respect of a person under section 133 for a particular miscarriage of justice must not exceed the overall compensation limit. In the case of compensation payable by the Department of Justice in Northern Ireland, that[^key-78b5e8a501210171af0d818162621666] limit is—
+(5) The total amount of compensation payable to or in respect of a person under section 133 for a particular miscarriage of justice must not exceed the overall compensation limit. In the case of compensation payable by the Department of Justice in Northern Ireland, that[^c-78b5e8a501210171af0d818162621666] limit is—
 
 - (a) £1 million in a case to which section 133B applies, and
 - (b) £500,000 in any other case.
 
-(5A)[^key-91611bb59de338b1567c3e265dd2aba7] In the case of compensation payable by the Secretary of State, the overall compensation limit for the purposes of subsection (5) is—
+(5A)[^c-91611bb59de338b1567c3e265dd2aba7] In the case of compensation payable by the Secretary of State, the overall compensation limit for the purposes of subsection (5) is—
 
 - (a) £1,300,000 in a case to which section 133B applies, and
 - (b) £650,000 in any other case.
@@ -64,8 +64,8 @@ That limit is an amount equal to 1.5 times the median annual gross earnings acco
 
 [^c20673501]: Textual amendment: Ss. 133A, 133B inserted (E.W.N.I) (1.12.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 61(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/61/7) , [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153) (with [Sch. 27 para. 22](https://www.legislation.gov.uk/ukpga/2008/4/schedule/27/paragraph/22)); [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/a)
 
-[^key-78b5e8a501210171af0d818162621666]: Textual amendment: Words in [s. 133A(5)](https://www.legislation.gov.uk/ukpga/1988/33/section/133A/5) substituted (29.10.2025) by [The Compensation for Miscarriages of Justice (Alteration of Overall Compensation Limits) Order 2025 (S.I. 2025/1139)](https://www.legislation.gov.uk/uksi/2025/1139), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1139/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/1139/article/2/2/a) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2025/1139/article/4/1))
+[^c-78b5e8a501210171af0d818162621666]: Textual amendment: Words in [s. 133A(5)](https://www.legislation.gov.uk/ukpga/1988/33/section/133A/5) substituted (29.10.2025) by [The Compensation for Miscarriages of Justice (Alteration of Overall Compensation Limits) Order 2025 (S.I. 2025/1139)](https://www.legislation.gov.uk/uksi/2025/1139), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1139/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2025/1139/article/2/2/a) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2025/1139/article/4/1))
 
-[^key-91611bb59de338b1567c3e265dd2aba7]: Textual amendment: [S. 133A(5A)](https://www.legislation.gov.uk/ukpga/1988/33/section/133A/5A) inserted (29.10.2025) by [The Compensation for Miscarriages of Justice (Alteration of Overall Compensation Limits) Order 2025 (S.I. 2025/1139)](https://www.legislation.gov.uk/uksi/2025/1139), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1139/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1139/article/2/2/b) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2025/1139/article/4/1))
+[^c-91611bb59de338b1567c3e265dd2aba7]: Textual amendment: [S. 133A(5A)](https://www.legislation.gov.uk/ukpga/1988/33/section/133A/5A) inserted (29.10.2025) by [The Compensation for Miscarriages of Justice (Alteration of Overall Compensation Limits) Order 2025 (S.I. 2025/1139)](https://www.legislation.gov.uk/uksi/2025/1139), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1139/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2025/1139/article/2/2/b) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2025/1139/article/4/1))
 
 [^M_F_75ab3656-14a8-46a6-b867-6cf2808c3925]: Textual amendment: [S. 133A(9)-(12)](https://www.legislation.gov.uk/ukpga/1988/33/section/133A/9) inserted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 6 para. 3](https://www.legislation.gov.uk/uksi/2010/976/schedule/6/paragraph/3) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Requirements for authorisation[^key-9406416c3c13578e84c9fa18d27d34d6]
+## 15. Requirements for authorisation[^c-9406416c3c13578e84c9fa18d27d34d6]
 
 *Extent: N.I.*
 
 (1) The requirements referred to in regulation 14(1)(a) are as follows.
 
-(2) The company and its instrument of incorporation must comply with the requirements of these Regulations and FCA rules[^key-17a9141fb993bcb8fc32d9b21cf6070f].
+(2) The company and its instrument of incorporation must comply with the requirements of these Regulations and FCA rules[^c-17a9141fb993bcb8fc32d9b21cf6070f].
 
 (3) The head office of the company must be situated in Northern Ireland.
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9406416c3c13578e84c9fa18d27d34d6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2004/335/regulation/15) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-9406416c3c13578e84c9fa18d27d34d6]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2004/335/regulation/15) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
 
-[^key-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)
+[^c-17a9141fb993bcb8fc32d9b21cf6070f]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/nisr/2004/335) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 87(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/87/2)

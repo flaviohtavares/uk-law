@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Consents, agreements and approvals[^key-22e3d01212b4c1e2288efa01c13792bc]
+## 66. Consents, agreements and approvals[^c-22e3d01212b4c1e2288efa01c13792bc]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22e3d01212b4c1e2288efa01c13792bc]: Commencement: Art. 66 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-22e3d01212b4c1e2288efa01c13792bc]: Commencement: Art. 66 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

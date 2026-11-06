@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6H. Authorisation for purpose other than transplantation by nearest relative[^key-98b1ca25a5d8c31b1b871cc908358348]
+## 6H. Authorisation for purpose other than transplantation by nearest relative[^c-98b1ca25a5d8c31b1b871cc908358348]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98b1ca25a5d8c31b1b871cc908358348]: Textual amendment: S. 6H inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 11(2)](https://www.legislation.gov.uk/asp/2019/11/section/11/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-98b1ca25a5d8c31b1b871cc908358348]: Textual amendment: S. 6H inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 11(2)](https://www.legislation.gov.uk/asp/2019/11/section/11/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

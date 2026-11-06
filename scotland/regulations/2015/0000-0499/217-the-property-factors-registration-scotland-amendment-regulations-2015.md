@@ -32,7 +32,7 @@ summary: ''
 
 Property Factors
 
-The Property Factors (Registration) (Scotland) Amendment Regulations 2015 (revoked)[^key-b1fb6ebf56372656fa5eda0b186b90f6]
+The Property Factors (Registration) (Scotland) Amendment Regulations 2015 (revoked)[^c-b1fb6ebf56372656fa5eda0b186b90f6]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st July 2015
 
-[^key-b1fb6ebf56372656fa5eda0b186b90f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1fb6ebf56372656fa5eda0b186b90f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b1fb6ebf56372656fa5eda0b186b90f6]
+## 1. Citation and commencement[^c-b1fb6ebf56372656fa5eda0b186b90f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Property Factors (Registration) (Scotland) Regulations 2012 - fees[^key-b1fb6ebf56372656fa5eda0b186b90f6]
+## 2. Amendment of the Property Factors (Registration) (Scotland) Regulations 2012 - fees[^c-b1fb6ebf56372656fa5eda0b186b90f6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b1fb6ebf56372656fa5eda0b186b90f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1fb6ebf56372656fa5eda0b186b90f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b1fb6ebf56372656fa5eda0b186b90f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b1fb6ebf56372656fa5eda0b186b90f6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b1fb6ebf56372656fa5eda0b186b90f6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2015/217) revoked (29.11.2024) by [The Property Factors (Registration) (Scotland) Regulations 2024 (S.S.I. 2024/274)](https://www.legislation.gov.uk/ssi/2024/274), [regs. 1](https://www.legislation.gov.uk/ssi/2024/274/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2024/274/regulation/6/b)
+[^c-b1fb6ebf56372656fa5eda0b186b90f6]: Textual amendment: [Regulations](https://www.legislation.gov.uk/ssi/2015/217) revoked (29.11.2024) by [The Property Factors (Registration) (Scotland) Regulations 2024 (S.S.I. 2024/274)](https://www.legislation.gov.uk/ssi/2024/274), [regs. 1](https://www.legislation.gov.uk/ssi/2024/274/regulation/1), [6(b)](https://www.legislation.gov.uk/ssi/2024/274/regulation/6/b)

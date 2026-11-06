@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Overnight stays in visitor accommodation[^key-06183caeed5d20461d9435ab8985988b]
+## 29. Overnight stays in visitor accommodation[^c-06183caeed5d20461d9435ab8985988b]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06183caeed5d20461d9435ab8985988b]: Commencement: S. 29 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-06183caeed5d20461d9435ab8985988b]: Commencement: S. 29 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

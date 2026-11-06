@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59H. Balancing of instalments for the purposes of section 59G[^key-c4158c27f438ac85a0012ed81fd9e3d3]
+## 59H. Balancing of instalments for the purposes of section 59G[^c-c4158c27f438ac85a0012ed81fd9e3d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ T is the number of days before, or after, the due date that the instalment is to
 
 ## Annotations
 
-[^key-c4158c27f438ac85a0012ed81fd9e3d3]: Textual amendment: Ss. 59G, 59H inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 80](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/80) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-c4158c27f438ac85a0012ed81fd9e3d3]: Textual amendment: Ss. 59G, 59H inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 7 para. 80](https://www.legislation.gov.uk/ukpga/2010/8/schedule/7/paragraph/80) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

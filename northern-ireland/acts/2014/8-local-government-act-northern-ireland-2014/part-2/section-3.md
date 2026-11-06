@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 3. Disqualifications for being councillors[^key-dfe5dcecdcf88303eff3891f7aecefc9]
+## 3. Disqualifications for being councillors[^c-dfe5dcecdcf88303eff3891f7aecefc9]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ is disqualified for being a councillor.
 
 ## Annotations
 
-[^key-dfe5dcecdcf88303eff3891f7aecefc9]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2014/8/section/3) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)
+[^c-dfe5dcecdcf88303eff3891f7aecefc9]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2014/8/section/3) in operation at 1.4.2015 by [S.R. 2015/209](https://www.legislation.gov.uk/nisr/2015/209), [art. 2](https://www.legislation.gov.uk/nisr/2015/209/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/209/schedule/1)

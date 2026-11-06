@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Appeals against sanction imposed[^key-e428734bfbe4f6bccce22012a8f614aa]
+## 52. Appeals against sanction imposed[^c-e428734bfbe4f6bccce22012a8f614aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,4 +73,4 @@ confirm, vary or cancel the sanction notice in question accordingly.
 
 ## Annotations
 
-[^key-e428734bfbe4f6bccce22012a8f614aa]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2016/20/section/52) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)
+[^c-e428734bfbe4f6bccce22012a8f614aa]: Commencement: [S. 52](https://www.legislation.gov.uk/ukpga/2016/20/section/52) in force at 1.10.2016 by [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/b)

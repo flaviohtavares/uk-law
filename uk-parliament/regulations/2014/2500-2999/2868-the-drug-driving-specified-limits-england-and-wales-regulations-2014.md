@@ -44,13 +44,13 @@ The Secretary of State makes the following Regulations in exercise of the power 
 
 A draft of these Regulations was laid before Parliament in accordance with section 195(4)[^f00002] of the Road Traffic Act 1988 and approved by a resolution of each House of Parliament.
 
-## 1. Citation, commencement and extent[^key-d6511286ceeef98ff00920bdfce127fe]
+## 1. Citation, commencement and extent[^c-d6511286ceeef98ff00920bdfce127fe]
 
 (1) These Regulations may be cited as the Drug Driving (Specified Limits) (England and Wales) Regulations 2014 and come into force on 2nd March 2015.
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Specified controlled drugs and specified limits for the purposes of section 5A of the Road Traffic Act 1988[^key-7ed999e926b8acd5a9352ab6704162eb]
+## 2. Specified controlled drugs and specified limits for the purposes of section 5A of the Road Traffic Act 1988[^c-7ed999e926b8acd5a9352ab6704162eb]
 
 The table below specifies the controlled drugs[^f00003] and, in each case, the limit in blood for the purposes of the offence in section 5A of the Road Traffic Act 1988.
 
@@ -58,7 +58,7 @@ Table
 
 | Controlled drug | Limit (microgrammes per litre of blood) |
 | --- | --- |
-| Amphetamine[^key-8c0353103ab786ad9c08dc599d9e3616] | 250 |
+| Amphetamine[^c-8c0353103ab786ad9c08dc599d9e3616] | 250 |
 | Benzoylecgonine | 50 |
 | Clonazepam | 50 |
 | Cocaine | 10 |
@@ -100,10 +100,10 @@ An impact assessment of the effect that the offence will have on the costs of bu
 
 [^f00002]: Footnote: Section 195(4) was amended by section 56(3) of the Crime and Courts Act 2013 and regulation 4 of [S.I. 1992/3105](https://www.legislation.gov.uk/uksi/1992/3105).
 
-[^key-d6511286ceeef98ff00920bdfce127fe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2868/regulation/1) in force at 2.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2868/regulation/1/1)
+[^c-d6511286ceeef98ff00920bdfce127fe]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2014/2868/regulation/1) in force at 2.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2868/regulation/1/1)
 
-[^key-7ed999e926b8acd5a9352ab6704162eb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2868/regulation/2) in force at 2.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2868/regulation/1/1)
+[^c-7ed999e926b8acd5a9352ab6704162eb]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2014/2868/regulation/2) in force at 2.3.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/2868/regulation/1/1)
 
 [^f00003]: Footnote: Section 11(2) of the Road Traffic Act 1988 provides that the term “controlled drug” has the meaning given by section 2 of the Misuse of Drugs Act [1971 (c.38)](https://www.legislation.gov.uk/ukpga/1971/38). The definition of “controlled drug” was inserted into the Road Traffic Act 1988 by section 56(2) of the Crime and Courts Act 2013.
 
-[^key-8c0353103ab786ad9c08dc599d9e3616]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2868/regulation/2) Table inserted (14.4.2015) by [The Drug Driving (Specified Limits) (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/911)](https://www.legislation.gov.uk/uksi/2015/911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/911/regulation/1/1), [2(a)(b)](https://www.legislation.gov.uk/uksi/2015/911/regulation/2)
+[^c-8c0353103ab786ad9c08dc599d9e3616]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/2868/regulation/2) Table inserted (14.4.2015) by [The Drug Driving (Specified Limits) (England and Wales) (Amendment) Regulations 2015 (S.I. 2015/911)](https://www.legislation.gov.uk/uksi/2015/911), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/911/regulation/1/1), [2(a)(b)](https://www.legislation.gov.uk/uksi/2015/911/regulation/2)

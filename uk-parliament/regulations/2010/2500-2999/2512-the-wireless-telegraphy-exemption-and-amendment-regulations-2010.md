@@ -71,31 +71,31 @@ In these Regulations—
     > | 1805.1–1880 (BTx) |
   - (ii) in Part IV (interface requirement), for “June 2005”, substitute “ October 2010 ”.
 
-## 4. Railway level crossing radar[^key-d1b52e77145fd46ae390d90abb238207]
+## 4. Railway level crossing radar[^c-d1b52e77145fd46ae390d90abb238207]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Short range devices[^key-8176b93770a216e0bc0803bdb9fc4739]
+## 5. Short range devices[^c-8176b93770a216e0bc0803bdb9fc4739]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Fixed wireless systems[^key-5d57ed34b10d542dcddd895af10a49ed]
+## 6. Fixed wireless systems[^c-5d57ed34b10d542dcddd895af10a49ed]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. High density fixed satellite service systems[^key-e27dd2cf1183e260f0569b05c72f7516]
+## 7. High density fixed satellite service systems[^c-e27dd2cf1183e260f0569b05c72f7516]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Personal locator beacons[^key-e35711d1c75fecb8d7c38a81f7be9153]
+## 8. Personal locator beacons[^c-e35711d1c75fecb8d7c38a81f7be9153]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Earth stations on mobile platforms[^key-b30eb56ddded3dea464f2273f05ffd42]
+## 9. Earth stations on mobile platforms[^c-b30eb56ddded3dea464f2273f05ffd42]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Citizens’ Band Radio Equipment[^key-557d85953d07fca254300af4cc928688]
+## 10. Citizens’ Band Radio Equipment[^c-557d85953d07fca254300af4cc928688]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -144,16 +144,16 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^c20505121]: Marginal citation: [S.I. 2003/74](https://www.legislation.gov.uk/uksi/2003/74) amended by [S.I. 2003/2155](https://www.legislation.gov.uk/uksi/2003/2155), [S.I](https://www.legislation.gov.uk/uksi/2003/2155/section/I). 2005/3481, [S.I. 2006/2994](https://www.legislation.gov.uk/uksi/2006/2994), [S.I](https://www.legislation.gov.uk/uksi/2006/2994/section/I). 2008/236 and [S.I. 2008/2426](https://www.legislation.gov.uk/uksi/2008/2426).
 
-[^key-d1b52e77145fd46ae390d90abb238207]: Textual amendment: Reg. 4 revoked (17.6.2020) by [The Wireless Telegraphy (Exemption and Amendment) (Amendment) Regulations 2020 (S.I. 2020/549)](https://www.legislation.gov.uk/uksi/2020/549), [regs. 1](https://www.legislation.gov.uk/uksi/2020/549/regulation/1), [3(2)](https://editorial.legislation.gov.uk/uksi/2020/549/regulation/3/2020-06-17)
+[^c-d1b52e77145fd46ae390d90abb238207]: Textual amendment: Reg. 4 revoked (17.6.2020) by [The Wireless Telegraphy (Exemption and Amendment) (Amendment) Regulations 2020 (S.I. 2020/549)](https://www.legislation.gov.uk/uksi/2020/549), [regs. 1](https://www.legislation.gov.uk/uksi/2020/549/regulation/1), [3(2)](https://editorial.legislation.gov.uk/uksi/2020/549/regulation/3/2020-06-17)
 
-[^key-8176b93770a216e0bc0803bdb9fc4739]: Textual amendment: Reg. 5 revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
+[^c-8176b93770a216e0bc0803bdb9fc4739]: Textual amendment: Reg. 5 revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
 
-[^key-5d57ed34b10d542dcddd895af10a49ed]: Textual amendment: Reg. 6 revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
+[^c-5d57ed34b10d542dcddd895af10a49ed]: Textual amendment: Reg. 6 revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
 
-[^key-e27dd2cf1183e260f0569b05c72f7516]: Textual amendment: Reg. 7 revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
+[^c-e27dd2cf1183e260f0569b05c72f7516]: Textual amendment: Reg. 7 revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
 
-[^key-e35711d1c75fecb8d7c38a81f7be9153]: Textual amendment: Reg. 8 revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
+[^c-e35711d1c75fecb8d7c38a81f7be9153]: Textual amendment: Reg. 8 revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
 
-[^key-b30eb56ddded3dea464f2273f05ffd42]: Textual amendment: Reg. 9 revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
+[^c-b30eb56ddded3dea464f2273f05ffd42]: Textual amendment: Reg. 9 revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
 
-[^key-557d85953d07fca254300af4cc928688]: Textual amendment: Reg. 10 revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)
+[^c-557d85953d07fca254300af4cc928688]: Textual amendment: Reg. 10 revoked (12.5.2021) by [The Wireless Telegraphy (Exemption) Regulations 2021 (S.I. 2021/493)](https://www.legislation.gov.uk/uksi/2021/493), [reg. 1](https://www.legislation.gov.uk/uksi/2021/493/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2021/493/schedule)

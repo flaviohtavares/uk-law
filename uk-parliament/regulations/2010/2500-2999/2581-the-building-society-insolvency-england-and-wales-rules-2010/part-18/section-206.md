@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 206. Procedure where detailed assessment required[^key-6a5d97a7627661e37a17218f64cb089b]
+## 206. Procedure where detailed assessment required[^c-6a5d97a7627661e37a17218f64cb089b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 7.35 of the 1986 Rules. Ignore paragraph (6).
 
 ## Annotations
 
-[^key-6a5d97a7627661e37a17218f64cb089b]: Commencement: Rule 206 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-6a5d97a7627661e37a17218f64cb089b]: Commencement: Rule 206 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

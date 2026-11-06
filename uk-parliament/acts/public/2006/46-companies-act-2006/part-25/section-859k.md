@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 859K. Registration of enforcement of security[^c22574171][^key-a12fdb7a9b6d75aae30fd14d73de4447][^key-f877065e7dc5f3d12d84d67f3565a940][^c22573541]
+## 859K. Registration of enforcement of security[^c22574171][^c-a12fdb7a9b6d75aae30fd14d73de4447][^c-f877065e7dc5f3d12d84d67f3565a940][^c22573541]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,9 +65,9 @@ summary: ''
 
 [^c22574171]: Modification: Ss. 859A-859Q applied (with modifications) (6.4.2013) by [The Limited Liability Partnerships (Application of Companies Act 2006) (Amendment) Regulations 2013 (S.I. 2013/618)](https://www.legislation.gov.uk/uksi/2013/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/618/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2013/618/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/618/schedule) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/618/regulation/8))
 
-[^key-a12fdb7a9b6d75aae30fd14d73de4447]: Modification: [S. 859K](https://www.legislation.gov.uk/ukpga/2006/46/section/859K) power to apply (with or without modifications) conferred (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 8](https://www.legislation.gov.uk/ukpga/2017/19/section/8), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
+[^c-a12fdb7a9b6d75aae30fd14d73de4447]: Modification: [S. 859K](https://www.legislation.gov.uk/ukpga/2006/46/section/859K) power to apply (with or without modifications) conferred (31.1.2019) by [Technical and Further Education Act 2017 (c. 19)](https://www.legislation.gov.uk/ukpga/2017/19), [ss. 8](https://www.legislation.gov.uk/ukpga/2017/19/section/8), [47(2)](https://www.legislation.gov.uk/ukpga/2017/19/section/47/2); [S.I. 2018/1161](https://www.legislation.gov.uk/uksi/2018/1161), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2018/1161/regulation/3/a)
 
-[^key-f877065e7dc5f3d12d84d67f3565a940]: Modification: [S. 859K](https://www.legislation.gov.uk/ukpga/2006/46/section/859K) modified (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/4/1), [39(c)](https://www.legislation.gov.uk/uksi/2019/138/regulation/39/c) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/c))
+[^c-f877065e7dc5f3d12d84d67f3565a940]: Modification: [S. 859K](https://www.legislation.gov.uk/ukpga/2006/46/section/859K) modified (31.1.2019) by [The Further Education Bodies (Insolvency) Regulations 2019 (S.I. 2019/138)](https://www.legislation.gov.uk/uksi/2019/138), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/1), [4(1)](https://www.legislation.gov.uk/uksi/2019/138/regulation/4/1), [39(c)](https://www.legislation.gov.uk/uksi/2019/138/regulation/39/c) (with [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/138/regulation/1/2), [3(c)](https://www.legislation.gov.uk/uksi/2019/138/regulation/3/c))
 
 [^c22573541]: Textual amendment: Pt. 25 Ch. A1 inserted (6.4.2013) by [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [regs. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/600/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/600/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
 

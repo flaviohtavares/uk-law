@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5.43. Reporting distribution of property to creditors under rule 5.13[^key-f834ea15850b14d09eecd4af3a204bb7]
+## 5.43. Reporting distribution of property to creditors under rule 5.13[^c-f834ea15850b14d09eecd4af3a204bb7]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f834ea15850b14d09eecd4af3a204bb7]: Commencement: Rule 5.43 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-f834ea15850b14d09eecd4af3a204bb7]: Commencement: Rule 5.43 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Meaning of “associated”[^key-87dbad388aa13be5d779f126afb49af3]
+## 67. Meaning of “associated”[^c-87dbad388aa13be5d779f126afb49af3]
 
 *Extent: E+W+N.I.*
 
@@ -49,10 +49,10 @@ summary: ''
 - (a) for “has a significant interest in” in each place there were substituted “ controls ”, and
 - (b) for “20%” in each place there were substituted “ 50% ”.
 
-(8)[^key-c454b49f2b604361d3efd76574c6b09c] This section is subject to section 67A.
+(8)[^c-c454b49f2b604361d3efd76574c6b09c] This section is subject to section 67A.
 
 ## Annotations
 
-[^key-87dbad388aa13be5d779f126afb49af3]: Commencement: S. 67 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-87dbad388aa13be5d779f126afb49af3]: Commencement: S. 67 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
 
-[^key-c454b49f2b604361d3efd76574c6b09c]: Textual amendment: [S. 67(8)](https://www.legislation.gov.uk/ukpga/2008/32/section/67/8) inserted (31.3.2022) by [Nuclear Energy (Financing) Act 2022 (c. 15)](https://www.legislation.gov.uk/ukpga/2022/15), [ss. 40(1)](https://www.legislation.gov.uk/ukpga/2022/15/section/40/1), [44(1)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/d)
+[^c-c454b49f2b604361d3efd76574c6b09c]: Textual amendment: [S. 67(8)](https://www.legislation.gov.uk/ukpga/2008/32/section/67/8) inserted (31.3.2022) by [Nuclear Energy (Financing) Act 2022 (c. 15)](https://www.legislation.gov.uk/ukpga/2022/15), [ss. 40(1)](https://www.legislation.gov.uk/ukpga/2022/15/section/40/1), [44(1)(d)](https://www.legislation.gov.uk/ukpga/2022/15/section/44/1/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Application of Part to qualifying sub-contracts[^key-c3fe7e4cfc97decc27cd7b59e87a1d4b][^key-804f6eace9377e51d6d3a3103a4e8bb6]
+## 30. Application of Part to qualifying sub-contracts[^c-c3fe7e4cfc97decc27cd7b59e87a1d4b][^c-804f6eace9377e51d6d3a3103a4e8bb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,17 +36,17 @@ summary: ''
 
 (4) The provision that may be made under subsection (3)(b) includes provision—
 
-- (a) for the primary contractor or[^key-4af5c96dd5377d9b04cd77bcd25d0f1c] sub-contractor to give notice to the SSRO that, in their opinion[^key-9df39db9933d9a48447d0f83cf628350], this Part and the regulations should cease to apply to the qualifying sub-contract, and
+- (a) for the primary contractor or[^c-4af5c96dd5377d9b04cd77bcd25d0f1c] sub-contractor to give notice to the SSRO that, in their opinion[^c-9df39db9933d9a48447d0f83cf628350], this Part and the regulations should cease to apply to the qualifying sub-contract, and
 - (b) for the SSRO to be able to overrule such a notice (and accordingly for this Part and the regulations to continue to apply).
 
 (5) The regulations may contain provision excluding the application of this Part and the regulations, by virtue of subsection (1), to a qualifying sub-contract in respect of which no notice is given under section 29(2)(b) or (4)(b).
 
 ## Annotations
 
-[^key-c3fe7e4cfc97decc27cd7b59e87a1d4b]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2014/20/section/30) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(n)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/n)
+[^c-c3fe7e4cfc97decc27cd7b59e87a1d4b]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2014/20/section/30) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(n)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/n)
 
-[^key-804f6eace9377e51d6d3a3103a4e8bb6]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2014/20/section/30) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-804f6eace9377e51d6d3a3103a4e8bb6]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2014/20/section/30) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
 
-[^key-4af5c96dd5377d9b04cd77bcd25d0f1c]: Textual amendment: Words in [s. 30(4)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/30/4/a) inserted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 16(a)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/16/a); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-4af5c96dd5377d9b04cd77bcd25d0f1c]: Textual amendment: Words in [s. 30(4)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/30/4/a) inserted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 16(a)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/16/a); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
 
-[^key-9df39db9933d9a48447d0f83cf628350]: Textual amendment: Words in [s. 30(4)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/30/4/a) substituted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 16(b)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/16/b); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))
+[^c-9df39db9933d9a48447d0f83cf628350]: Textual amendment: Words in [s. 30(4)(a)](https://www.legislation.gov.uk/ukpga/2014/20/section/30/4/a) substituted (19.1.2024) by [Procurement Act 2023 (c. 54)](https://www.legislation.gov.uk/ukpga/2023/54), [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2), [Sch. 10 para. 16(b)](https://www.legislation.gov.uk/ukpga/2023/54/schedule/10/paragraph/16/b); [S.I. 2024/61](https://www.legislation.gov.uk/uksi/2024/61), [reg. 2(1)(b)(vii)](https://www.legislation.gov.uk/uksi/2024/61/regulation/2/1/b/vii) (with [reg. 3](https://www.legislation.gov.uk/uksi/2024/61/regulation/3))

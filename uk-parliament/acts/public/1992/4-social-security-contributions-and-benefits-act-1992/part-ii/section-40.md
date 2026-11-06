@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Long-term incapacity benefit for widows.[^key-805463a276f5b93d8e7f2768a00aae58][^M_F_28970be0-d485-4699-84c8-0b9ee6bb5452]
+## 40. Long-term incapacity benefit for widows.[^c-805463a276f5b93d8e7f2768a00aae58][^M_F_28970be0-d485-4699-84c8-0b9ee6bb5452]
 
 *Extent: E+W+S*
 
@@ -62,6 +62,6 @@ For the purposes of this subsection a woman is terminally ill if she suffers fro
 
 ## Annotations
 
-[^key-805463a276f5b93d8e7f2768a00aae58]: Modification: S. 40 excluded (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/22/a)
+[^c-805463a276f5b93d8e7f2768a00aae58]: Modification: S. 40 excluded (1.10.2010) by [The Employment and Support Allowance (Transitional Provisions, Housing Benefit and Council Tax Benefit) (Existing Awards) (No. 2) Regulations 2010 (S.I. 2010/1907)](https://www.legislation.gov.uk/uksi/2010/1907), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2010/1907/regulation/22/a)
 
 [^M_F_28970be0-d485-4699-84c8-0b9ee6bb5452]: Textual amendment: S. 40 substituted (13.4.1995) by [Social Security (Incapacity for Work) Act 1994 (c. 18)](https://www.legislation.gov.uk/ukpga/1994/18), [s. 16(3)](https://www.legislation.gov.uk/ukpga/1994/18/section/16/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/ukpga/1994/18/schedule/1/paragraph/8); [S.I. 1994/2926](https://www.legislation.gov.uk/uksi/1994/2926), [art. 2(4)](https://www.legislation.gov.uk/uksi/1994/2926/article/2/4), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/1994/2926/schedule/part/4)

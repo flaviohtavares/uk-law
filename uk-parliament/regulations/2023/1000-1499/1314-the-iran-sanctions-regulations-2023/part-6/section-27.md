@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Interpretation of other expressions used in this Part[^key-f03fb18cb3695992b39cb1e80f9ff5e0]
+## 27. Interpretation of other expressions used in this Part[^c-f03fb18cb3695992b39cb1e80f9ff5e0]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f03fb18cb3695992b39cb1e80f9ff5e0]: Commencement: Reg. 27 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-f03fb18cb3695992b39cb1e80f9ff5e0]: Commencement: Reg. 27 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

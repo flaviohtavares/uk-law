@@ -253,7 +253,7 @@ as may be required for any purpose for which that land may be acquired under tha
 
 (2) The powers conferred by subsection (1) above may be exercised in relation to a road or place without the authorised undertaker being required to acquire any part of the road or place or any servitude or right in relation to it.
 
-(3)[^key-985f83b11bd5f5ef8e384b30325a6f3c] The powers conferred by this section constitute a real right.
+(3)[^c-985f83b11bd5f5ef8e384b30325a6f3c] The powers conferred by this section constitute a real right.
 
 (4) Any person, who is an owner or occupier of land in respect of which the power of appropriation conferred by subsection (1) above is exercised without the authorised undertaker acquiring any part of that person's interest in the land, and who suffers loss by reason of the exercise of that power, shall be entitled to compensation to be determined, in case of dispute, under the 1963 Act.
 
@@ -496,7 +496,7 @@ as the case may be, the sheriff shall certify the fact accordingly.
 
 #### 27. Period for compulsory acquisition of land
 
-(1)[^key-b026b80216f254607d78afd2db11d75d] The authority given by sections 13 and 15 above for the compulsory acquisition of land and new rights for the purposes of this Act shall cease five years from the date on which this Act comes into force.
+(1)[^c-b026b80216f254607d78afd2db11d75d] The authority given by sections 13 and 15 above for the compulsory acquisition of land and new rights for the purposes of this Act shall cease five years from the date on which this Act comes into force.
 
 (2) The powers conferred by sections 13, 14 and 15 above for the compulsory acquisition of such land and servitudes or other rights shall, for the purposes of this section, be deemed to have been exercised in relation to any land, servitude or right if before the expiry of five years from the date on which this Act comes into force notice to treat has been served in respect of that land, servitude or right.
 
@@ -1805,6 +1805,6 @@ and shall implement such detailed mitigation measures regarding such matters as 
 
 ## Annotations
 
-[^key-985f83b11bd5f5ef8e384b30325a6f3c]: Textual amendment: S. 16(3) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 49](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/49) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13, 16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-985f83b11bd5f5ef8e384b30325a6f3c]: Textual amendment: S. 16(3) substituted (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 49](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/49) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13, 16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
 
-[^key-b026b80216f254607d78afd2db11d75d]: Modification: [S. 27(1)](https://www.legislation.gov.uk/asp/2006/13/section/27/1) modified (1.3.2011) by [The Waverley Railway (Scotland) Act 2006 (Extension of Time for Land Acquisition) Order 2011 (S.S.I. 2011/14)](https://www.legislation.gov.uk/ssi/2011/14), [arts. 1](https://www.legislation.gov.uk/ssi/2011/14/article/1), [2](https://www.legislation.gov.uk/ssi/2011/14/article/2)
+[^c-b026b80216f254607d78afd2db11d75d]: Modification: [S. 27(1)](https://www.legislation.gov.uk/asp/2006/13/section/27/1) modified (1.3.2011) by [The Waverley Railway (Scotland) Act 2006 (Extension of Time for Land Acquisition) Order 2011 (S.S.I. 2011/14)](https://www.legislation.gov.uk/ssi/2011/14), [arts. 1](https://www.legislation.gov.uk/ssi/2011/14/article/1), [2](https://www.legislation.gov.uk/ssi/2011/14/article/2)

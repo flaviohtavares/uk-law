@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Power to require application-to-acceptance information[^key-9b145abaf5d4e9041455e126c327e71c]
+## 79. Power to require application-to-acceptance information[^c-9b145abaf5d4e9041455e126c327e71c]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b145abaf5d4e9041455e126c327e71c]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2017/29/section/79) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/j)
+[^c-9b145abaf5d4e9041455e126c327e71c]: Commencement: [S. 79](https://www.legislation.gov.uk/ukpga/2017/29/section/79) in force at 1.4.2018 by [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/j)

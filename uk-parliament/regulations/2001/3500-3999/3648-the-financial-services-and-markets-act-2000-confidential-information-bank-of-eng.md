@@ -47,11 +47,11 @@ The Treasury in exercise of their powers under sections 426 and 427 of the Finan
 
 ## PART I — PRELIMINARY
 
-### 1. Citation and commencement[^key-f3a7044a2ce3eb77614150d7e60277f9]
+### 1. Citation and commencement[^c-f3a7044a2ce3eb77614150d7e60277f9]
 
 This Order may be cited as the Financial Services and Markets Act 2000 (Confidential Information) (Bank of England) (Consequential Provisions) Order 2001 and comes into force on the 1st of December 2001.
 
-### 2. Interpretation[^key-bf6d81ed56183e785767d7f9d98e43ba]
+### 2. Interpretation[^c-bf6d81ed56183e785767d7f9d98e43ba]
 
 (1) In these Regulations—
 
@@ -59,7 +59,7 @@ This Order may be cited as the Financial Services and Markets Act 2000 (Confiden
 - “the Act” means the Financial Services and Markets Act 2000;
 - “the Bank” means the Bank of England;
 - “commencement” means the beginning of the day on which section 19 of the Act comes into force;
-- “an EEA regulatory authority” means a competent authority of an EEA State other than the United Kingdom for the purposes of the capital requirements directive[^key-0232b19de08ba5f1e987db3a158f3057];
+- “an EEA regulatory authority” means a competent authority of an EEA State other than the United Kingdom for the purposes of the capital requirements directive[^c-0232b19de08ba5f1e987db3a158f3057];
 - “a non-EEA regulatory authority” means an authority in a country or territory outside the EEA which has regulatory functions in relation to the acceptance of deposits from the public;
 - “the Disclosure Regulations” means the Financial Services and Markets Act 2000 (Disclosure of Confidential Information) Regulations 2001[^f00003];
 - “overseas regulatory authority” means an EEA regulatory authority or a non-EEA regulatory authority;
@@ -75,12 +75,12 @@ This Order may be cited as the Financial Services and Markets Act 2000 (Confiden
 
 ## PART II — INFORMATION SUPPLIED TO THE BANK BY AN OVERSEAS REGULATORY AUTHORITY
 
-### 3. Information to which this Part applies[^key-c7a8971a7805f03366201528749174ab]
+### 3. Information to which this Part applies[^c-c7a8971a7805f03366201528749174ab]
 
 (1) This Part applies to information (“overseas regulatory information”) which—
 
-- (a) is supplied to the Bank after commencement for the purposes of any relevant functions by an overseas regulatory authority .[^key-b4510943040d885434678ffdc2378986]
-- (b)[^key-61c995bd3fe73e1786698a02acdb9364] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is supplied to the Bank after commencement for the purposes of any relevant functions by an overseas regulatory authority .[^c-b4510943040d885434678ffdc2378986]
+- (b)[^c-61c995bd3fe73e1786698a02acdb9364] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subject to paragraphs (3) and (4) and article 4, sections 348, 349 and 352 of the Act apply in relation to overseas regulatory information in the same way as they apply in relation to confidential information within the meaning of section 348(2) of the Act.
 
@@ -88,17 +88,17 @@ This Order may be cited as the Financial Services and Markets Act 2000 (Confiden
 
 (4) For the purposes of this Part, section 348 of the Act and the Disclosure Regulations have effect as if the primary recipients mentioned in section 348 (5) included the Bank.
 
-### 4. Information to be treated as specified confidential EU law information[^key-680c8a8bc5c970e702946a8e8d7cf76c][^key-933b58ecee5803e6aa5b16d366a2a99b]
+### 4. Information to be treated as specified confidential EU law information[^c-680c8a8bc5c970e702946a8e8d7cf76c][^c-933b58ecee5803e6aa5b16d366a2a99b]
 
-(1)[^key-c8291a3fbfa9f735cd0335b2e1d307cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-c8291a3fbfa9f735cd0335b2e1d307cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-4dc173b6cd76a9852fd3b70ab6498076] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-4dc173b6cd76a9852fd3b70ab6498076] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) For the purposes of this Part, Part III of the Disclosure Regulations (disclosure of specified confidential EU law information[^key-cc00b6d99f90ce02bba24ea70f11991e]) has effect as if references to the Authority included a reference to the Bank.
+(3) For the purposes of this Part, Part III of the Disclosure Regulations (disclosure of specified confidential EU law information[^c-cc00b6d99f90ce02bba24ea70f11991e]) has effect as if references to the Authority included a reference to the Bank.
 
 ## PART III — DISCLOSURE OF INFORMATION OBTAINED UNDER COMPANIES LEGISLATION
 
-### 5. Information to which this Part applies[^key-9d1a812d227135840592ee4530d62c1e]
+### 5. Information to which this Part applies[^c-9d1a812d227135840592ee4530d62c1e]
 
 (1) This Part applies to information disclosed after commencement to the Bank—
 
@@ -112,25 +112,25 @@ in its capacity as a competent authority under section 449(3) of that Act or Art
 - (a) it were confidential information within the meaning of section 348(2) of the Act; and
 - (b) the Bank were a primary recipient of the information.
 
-(3) The Bank may disclose companies information in accordance with Part IV of the Disclosure Regulations only with the consent of the Secretary of State[^key-f158d824965c784594a687df3aef0faf].
+(3) The Bank may disclose companies information in accordance with Part IV of the Disclosure Regulations only with the consent of the Secretary of State[^c-f158d824965c784594a687df3aef0faf].
 
-(4) A person other than the Bank must not disclose such information under paragraph (2) except with the consent of the Secretary of State[^key-c5c5b5f66763a8e2385b1494998b3c3d].
+(4) A person other than the Bank must not disclose such information under paragraph (2) except with the consent of the Secretary of State[^c-c5c5b5f66763a8e2385b1494998b3c3d].
 
 ## PART IV — TRANSITIONAL PROVISIONS
 
-### 6. Information supplied before commencement by an overseas regulatory authority[^key-353fe3ab968909343678ab23b0f637ae]
+### 6. Information supplied before commencement by an overseas regulatory authority[^c-353fe3ab968909343678ab23b0f637ae]
 
 (1) This article applies to information which fell within section 86(1) of the Banking Act 1987[^f00006] and immediately before commencement was subject to restrictions on disclosure by virtue of section 82 of that Act, as those sections had effect by virtue of paragraph 57 of Schedule 5 to the 1998 Act (“transitional overseas regulatory information”).
 
 (2) Subject to paragraphs (3) and (4), regulation 15 of the Disclosure Regulations (disclosure of transitional information) has effect in relation to transitional overseas regulatory information which the Bank holds after commencement as if the persons to be treated as a primary recipient by virtue of paragraph (3)(a) of that regulation included the Bank in relation to such information.
 
-(3) Transitional overseas regulatory information which fell within section 86(1)(a) of the Banking Act 1987 and was supplied by an EEA regulatory authority is to be treated for the purposes of the Disclosure Regulations as specified confidential EU law information[^key-3ceca03199a3aa961ff4e8af72e7e993] (within the meaning of those Regulations).
+(3) Transitional overseas regulatory information which fell within section 86(1)(a) of the Banking Act 1987 and was supplied by an EEA regulatory authority is to be treated for the purposes of the Disclosure Regulations as specified confidential EU law information[^c-3ceca03199a3aa961ff4e8af72e7e993] (within the meaning of those Regulations).
 
-(4) Transitional overseas regulatory information which fell within section 86(1)(b) of the Banking Act 1987 is to be treated for the purposes of the Disclosure Regulations as specified confidential EU law information[^key-6f31e7a9e7631bc6bebab52fbf161cc0] which is obtained in the course of an on-the-spot verification of the kind referred to in Articles 52 and 159 of the capital requirements directive[^key-5e8207f694ec33d3458b5eb90e020351].
+(4) Transitional overseas regulatory information which fell within section 86(1)(b) of the Banking Act 1987 is to be treated for the purposes of the Disclosure Regulations as specified confidential EU law information[^c-6f31e7a9e7631bc6bebab52fbf161cc0] which is obtained in the course of an on-the-spot verification of the kind referred to in Articles 52 and 159 of the capital requirements directive[^c-5e8207f694ec33d3458b5eb90e020351].
 
-(5) For the purposes of this article, references in Part III of the Disclosure Regulations (disclosure of specified confidential EU law information[^key-f7d47dcfa070abf00ac9648987a5252d]) to the Authority are to be treated as including the Bank.
+(5) For the purposes of this article, references in Part III of the Disclosure Regulations (disclosure of specified confidential EU law information[^c-f7d47dcfa070abf00ac9648987a5252d]) to the Authority are to be treated as including the Bank.
 
-### 7. Companies information supplied before commencement[^key-765041a97ee7340b8b2f04a436e33818]
+### 7. Companies information supplied before commencement[^c-765041a97ee7340b8b2f04a436e33818]
 
 (1) This article applies to information (“transitional companies information”)—
 
@@ -142,11 +142,11 @@ in its capacity as a competent authority under section 449(3) of that Act or Art
 - (a) it were confidential information within the meaning of section 348(2) of the Act; and
 - (b) the Bank were a primary recipient of the information.
 
-(3) The Bank may disclose transitional companies information in accordance with Part IV of the Disclosure Regulations only with the consent of the Secretary of State[^key-e3a0ff5810b377d59ccad5d18482a84e].
+(3) The Bank may disclose transitional companies information in accordance with Part IV of the Disclosure Regulations only with the consent of the Secretary of State[^c-e3a0ff5810b377d59ccad5d18482a84e].
 
-(4) A person other than the Bank must not disclose such information under paragraph (2) except with the consent of the Secretary of State[^key-ca71c20eac7b2533f7f9e6bda3a96fa1].
+(4) A person other than the Bank must not disclose such information under paragraph (2) except with the consent of the Secretary of State[^c-ca71c20eac7b2533f7f9e6bda3a96fa1].
 
-### 8. Information supplied before commencement by the Building Societies Commission[^key-ebbc2963cd11f48377a1e0d3273727cc]
+### 8. Information supplied before commencement by the Building Societies Commission[^c-ebbc2963cd11f48377a1e0d3273727cc]
 
 (1) This article applies to information (“transitional building societies information”)—
 
@@ -178,60 +178,60 @@ Part IV makes transitional provision in relation to information falling within s
 
 [^f00001]: Footnote: [2000 c. 8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-f3a7044a2ce3eb77614150d7e60277f9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
+[^c-f3a7044a2ce3eb77614150d7e60277f9]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
 
-[^key-bf6d81ed56183e785767d7f9d98e43ba]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2001/3648/article/2) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
+[^c-bf6d81ed56183e785767d7f9d98e43ba]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2001/3648/article/2) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
 
 [^f00002]: Footnote: [1998 c. 11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-0232b19de08ba5f1e987db3a158f3057]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3648/article/2/1) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 58(2)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/58/2)
+[^c-0232b19de08ba5f1e987db3a158f3057]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/3648/article/2/1) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 58(2)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/58/2)
 
 [^f00003]: Footnote: S.I. [2001/2188](https://www.legislation.gov.uk/uksi/2001/2188), as amended by S.I. [2001/3437](https://www.legislation.gov.uk/uksi/2001/3437) and S.I. [2001/3624](https://www.legislation.gov.uk/uksi/2001/3624).
 
-[^key-c7a8971a7805f03366201528749174ab]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2001/3648/article/3) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
+[^c-c7a8971a7805f03366201528749174ab]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2001/3648/article/3) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
 
-[^key-b4510943040d885434678ffdc2378986]: Textual amendment: [Art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2001/3648/article/3/1/a): punctuation substituted for word (31.12.2020) by The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 ([S.I. 2019/681](https://www.legislation.gov.uk/uksi/2019/681)), regs. 1(3), 5(2)(a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4510943040d885434678ffdc2378986]: Textual amendment: [Art. 3(1)(a)](https://www.legislation.gov.uk/uksi/2001/3648/article/3/1/a): punctuation substituted for word (31.12.2020) by The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 ([S.I. 2019/681](https://www.legislation.gov.uk/uksi/2019/681)), regs. 1(3), 5(2)(a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-61c995bd3fe73e1786698a02acdb9364]: Textual amendment: [Art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2001/3648/article/3/1/b) omitted (31.12.2020) by virtue of [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-61c995bd3fe73e1786698a02acdb9364]: Textual amendment: [Art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2001/3648/article/3/1/b) omitted (31.12.2020) by virtue of [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(2)(b)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-680c8a8bc5c970e702946a8e8d7cf76c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2001/3648/article/4) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
+[^c-680c8a8bc5c970e702946a8e8d7cf76c]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2001/3648/article/4) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
 
-[^key-933b58ecee5803e6aa5b16d366a2a99b]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2001/3648/article/4) heading substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-933b58ecee5803e6aa5b16d366a2a99b]: Textual amendment: Words in [art. 4](https://www.legislation.gov.uk/uksi/2001/3648/article/4) heading substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c8291a3fbfa9f735cd0335b2e1d307cb]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/uksi/2001/3648/article/4/1) omitted (31.12.2020) by virtue of [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(4)(a)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8291a3fbfa9f735cd0335b2e1d307cb]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/uksi/2001/3648/article/4/1) omitted (31.12.2020) by virtue of [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(4)(a)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4dc173b6cd76a9852fd3b70ab6498076]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/2001/3648/article/4/2) omitted (31.12.2020) by virtue of [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(4)(a)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4dc173b6cd76a9852fd3b70ab6498076]: Textual amendment: [Art. 4(2)](https://www.legislation.gov.uk/uksi/2001/3648/article/4/2) omitted (31.12.2020) by virtue of [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(4)(a)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cc00b6d99f90ce02bba24ea70f11991e]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2001/3648/article/4/3) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(4)(b)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-cc00b6d99f90ce02bba24ea70f11991e]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2001/3648/article/4/3) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(4)(b)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d1a812d227135840592ee4530d62c1e]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2001/3648/article/5) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
+[^c-9d1a812d227135840592ee4530d62c1e]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2001/3648/article/5) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
 
 [^f00004]: Footnote: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6).
 
 [^f00005]: Footnote: S.I. [1986/1032 (N.I. 6)](https://www.legislation.gov.uk/nisi/1986/1032).
 
-[^key-f158d824965c784594a687df3aef0faf]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2001/3648/article/5/3) substituted for art. 5(3)(a)(b) (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/21/2/a)
+[^c-f158d824965c784594a687df3aef0faf]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2001/3648/article/5/3) substituted for art. 5(3)(a)(b) (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [21(2)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/21/2/a)
 
-[^key-c5c5b5f66763a8e2385b1494998b3c3d]: Textual amendment: Words in [art. 5(4)](https://www.legislation.gov.uk/uksi/2001/3648/article/5/4) substituted for art. 5(4)(a)(b) (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/21/2/b)
+[^c-c5c5b5f66763a8e2385b1494998b3c3d]: Textual amendment: Words in [art. 5(4)](https://www.legislation.gov.uk/uksi/2001/3648/article/5/4) substituted for art. 5(4)(a)(b) (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [21(2)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/21/2/b)
 
-[^key-353fe3ab968909343678ab23b0f637ae]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2001/3648/article/6) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
+[^c-353fe3ab968909343678ab23b0f637ae]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2001/3648/article/6) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
 
 [^f00006]: Footnote: [1987 c. 22](https://www.legislation.gov.uk/ukpga/1987/22). The Banking Act 1987 was repealed by article 3 of the Financial Services and Markets Act 2000 (Consequential Amendments and Repeals) Order 2001, S.I. [2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-3ceca03199a3aa961ff4e8af72e7e993]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/uksi/2001/3648/article/6/3) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(5)(a)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ceca03199a3aa961ff4e8af72e7e993]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/uksi/2001/3648/article/6/3) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(5)(a)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/5/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6f31e7a9e7631bc6bebab52fbf161cc0]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/uksi/2001/3648/article/6/4) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(5)(b)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6f31e7a9e7631bc6bebab52fbf161cc0]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/uksi/2001/3648/article/6/4) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(5)(b)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/5/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5e8207f694ec33d3458b5eb90e020351]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/uksi/2001/3648/article/6/4) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 58(4)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/58/4)
+[^c-5e8207f694ec33d3458b5eb90e020351]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/uksi/2001/3648/article/6/4) substituted (1.1.2014) by [The Capital Requirements Regulations 2013 (S.I. 2013/3115)](https://www.legislation.gov.uk/uksi/2013/3115), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2013/3115/regulation/1/2), [Sch. 2 para. 58(4)](https://www.legislation.gov.uk/uksi/2013/3115/schedule/2/paragraph/58/4)
 
-[^key-f7d47dcfa070abf00ac9648987a5252d]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/uksi/2001/3648/article/6/5) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(5)(c)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f7d47dcfa070abf00ac9648987a5252d]: Textual amendment: Words in [art. 6(5)](https://www.legislation.gov.uk/uksi/2001/3648/article/6/5) substituted (31.12.2020) by [The Public Record, Disclosure of Information and Co-operation (Financial Services) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/681)](https://www.legislation.gov.uk/uksi/2019/681), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/681/regulation/1/3), [5(5)(c)](https://www.legislation.gov.uk/uksi/2019/681/regulation/5/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-765041a97ee7340b8b2f04a436e33818]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2001/3648/article/7) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
+[^c-765041a97ee7340b8b2f04a436e33818]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2001/3648/article/7) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
 
-[^key-e3a0ff5810b377d59ccad5d18482a84e]: Textual amendment: Words in [art. 7(3)](https://www.legislation.gov.uk/uksi/2001/3648/article/7/3) substituted for art. 7(3)(a)(b) (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/21/3/a)
+[^c-e3a0ff5810b377d59ccad5d18482a84e]: Textual amendment: Words in [art. 7(3)](https://www.legislation.gov.uk/uksi/2001/3648/article/7/3) substituted for art. 7(3)(a)(b) (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [21(3)(a)](https://www.legislation.gov.uk/uksi/2011/1265/article/21/3/a)
 
-[^key-ca71c20eac7b2533f7f9e6bda3a96fa1]: Textual amendment: Words in [art. 7(4)](https://www.legislation.gov.uk/uksi/2001/3648/article/7/4) substituted for art. 7(4)(a)(b) (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/21/3/b)
+[^c-ca71c20eac7b2533f7f9e6bda3a96fa1]: Textual amendment: Words in [art. 7(4)](https://www.legislation.gov.uk/uksi/2001/3648/article/7/4) substituted for art. 7(4)(a)(b) (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1265/article/1/2), [21(3)(b)](https://www.legislation.gov.uk/uksi/2011/1265/article/21/3/b)
 
-[^key-ebbc2963cd11f48377a1e0d3273727cc]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2001/3648/article/8) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
+[^c-ebbc2963cd11f48377a1e0d3273727cc]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2001/3648/article/8) in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3648/article/1)
 
 [^f00007]: Footnote: Subsection (3A) was inserted by the Banking Coordination (Second Council Directive) Regulations 1992, S.I. [1992/3218](https://www.legislation.gov.uk/uksi/1992/3218), regulation 42.

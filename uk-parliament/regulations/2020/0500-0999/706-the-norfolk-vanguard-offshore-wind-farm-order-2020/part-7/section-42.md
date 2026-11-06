@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42. Crown rights[^key-16de9a207d86df91191d967345b14df3]
+## 42. Crown rights[^c-16de9a207d86df91191d967345b14df3]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-16de9a207d86df91191d967345b14df3]: Commencement: Art. 42 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)
+[^c-16de9a207d86df91191d967345b14df3]: Commencement: Art. 42 in force at 22.7.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/706/article/1)

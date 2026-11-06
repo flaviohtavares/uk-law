@@ -33,7 +33,7 @@ Animals, England
 
 Prevention Of Cruelty
 
-The Spring Traps Approval (Variation) (England) Order 2015 (revoked)[^key-b49e786d87d28d4c6e29d30089b0bc12]
+The Spring Traps Approval (Variation) (England) Order 2015 (revoked)[^c-b49e786d87d28d4c6e29d30089b0bc12]
 
 Made
 
@@ -43,24 +43,24 @@ Coming into force
 
 21st July 2015
 
-[^key-b49e786d87d28d4c6e29d30089b0bc12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b49e786d87d28d4c6e29d30089b0bc12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b49e786d87d28d4c6e29d30089b0bc12]
+## 1. Citation and commencement[^c-b49e786d87d28d4c6e29d30089b0bc12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Variation of the Spring Traps Approval (England) Order 2012[^key-b49e786d87d28d4c6e29d30089b0bc12]
+## 2. Variation of the Spring Traps Approval (England) Order 2012[^c-b49e786d87d28d4c6e29d30089b0bc12]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b49e786d87d28d4c6e29d30089b0bc12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b49e786d87d28d4c6e29d30089b0bc12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b49e786d87d28d4c6e29d30089b0bc12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b49e786d87d28d4c6e29d30089b0bc12]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b49e786d87d28d4c6e29d30089b0bc12]: Textual amendment: Order revoked (1.1.2019) by [The Spring Traps Approval (England) Order 2018 (S.I. 2018/1190)](https://www.legislation.gov.uk/uksi/2018/1190), [arts.1(b)](https://www.legislation.gov.uk/uksi/2018/1190/article/1/b), [3(b)](https://www.legislation.gov.uk/uksi/2018/1190/article/3/b)
+[^c-b49e786d87d28d4c6e29d30089b0bc12]: Textual amendment: Order revoked (1.1.2019) by [The Spring Traps Approval (England) Order 2018 (S.I. 2018/1190)](https://www.legislation.gov.uk/uksi/2018/1190), [arts.1(b)](https://www.legislation.gov.uk/uksi/2018/1190/article/1/b), [3(b)](https://www.legislation.gov.uk/uksi/2018/1190/article/3/b)

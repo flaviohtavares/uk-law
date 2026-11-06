@@ -44,11 +44,11 @@ Coming into force
 
 The Minister of Agriculture, Fisheries and Food and the Secretary of State, being Ministers designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, acting jointly in exercise of the powers conferred on them by that section and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Title, extent and commencement[^key-4332ea88527b4777c4058bb133369e18]
+## 1. Title, extent and commencement[^c-4332ea88527b4777c4058bb133369e18]
 
 These Regulations may be cited as the Suckler Cow Premium (Amendment) (No. 2) Regulations 1995, shall extend to Great Britain and shall come into force on 1st July 1995.
 
-## 2. Amendments to the Suckler Cow Premium Regulations 1993[^key-a384b9fe15bac70fd44b05c15afe1be7]
+## 2. Amendments to the Suckler Cow Premium Regulations 1993[^c-a384b9fe15bac70fd44b05c15afe1be7]
 
 (1) The Suckler Cow Premium Regulations 1993[^f00003] shall be amended in accordance with the following paragraphs of this regulation.
 
@@ -152,9 +152,9 @@ Scottish Office
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68).
 
-[^key-4332ea88527b4777c4058bb133369e18]: Commencement: Reg. 1 in force at 1.7.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1446/regulation/1)
+[^c-4332ea88527b4777c4058bb133369e18]: Commencement: Reg. 1 in force at 1.7.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1446/regulation/1)
 
-[^key-a384b9fe15bac70fd44b05c15afe1be7]: Commencement: Reg. 2 in force at 1.7.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1446/regulation/1)
+[^c-a384b9fe15bac70fd44b05c15afe1be7]: Commencement: Reg. 2 in force at 1.7.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/1446/regulation/1)
 
 [^f00003]: Footnote: S.I. [1993/1441](https://www.legislation.gov.uk/uksi/1993/1441), amended by S.I. [1994/1528](https://www.legislation.gov.uk/uksi/1994/1528) and [1995/15](https://www.legislation.gov.uk/uksi/1995/15).
 

@@ -29,7 +29,7 @@ summary: ''
 
 - TB is the total benefit value of the policy or contract (see section 492),
 - TD is the total allowable deductions for the policy or contract (see section 494), and
-- PG is the total amount of gains treated as arising on calculation events occurring in relation to the policy or contract before the chargeable event in question but only in so far as those gains have been, or fall to be, taken into account in calculating the total income of a person as a result of this Chapter or Chapter 2 of Part 13 of ITA 2007[^key-689b03193bcfdf1e74f749f8c7cd2cee] .
+- PG is the total amount of gains treated as arising on calculation events occurring in relation to the policy or contract before the chargeable event in question but only in so far as those gains have been, or fall to be, taken into account in calculating the total income of a person as a result of this Chapter or Chapter 2 of Part 13 of ITA 2007[^c-689b03193bcfdf1e74f749f8c7cd2cee] .
 
 (3) The gain is equal to the excess.
 
@@ -59,4 +59,4 @@ and so on.
 
 ## Annotations
 
-[^key-689b03193bcfdf1e74f749f8c7cd2cee]: Textual amendment: Words in s. 491(2) inserted (with effect in accordance with s. 11(4)-(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/11/2)
+[^c-689b03193bcfdf1e74f749f8c7cd2cee]: Textual amendment: Words in s. 491(2) inserted (with effect in accordance with s. 11(4)-(6) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 11(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/11/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Design notification and safety case for non-production installation to be converted[^key-be2ffe5be93ec40ba5beda256e8fefa2]
+## 19. Design notification and safety case for non-production installation to be converted[^c-be2ffe5be93ec40ba5beda256e8fefa2]
 
 *Extent: N.I.*
 
@@ -56,4 +56,4 @@ the operator shall notify the competent authority of that change as soon as prac
 
 ## Annotations
 
-[^key-be2ffe5be93ec40ba5beda256e8fefa2]: Commencement: Reg. 19 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)
+[^c-be2ffe5be93ec40ba5beda256e8fefa2]: Commencement: Reg. 19 in operation at 19.12.2016, see [reg. 1](https://www.legislation.gov.uk/nisr/2016/406/regulation/1)

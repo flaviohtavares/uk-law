@@ -24,8 +24,8 @@ summary: ''
 
 (2) A credit union shall have a lien on the shares of any member for any debt due to the credit union by that member, and may set off any sum credited to the member on those shares in or towards the payment of that debt.
 
-(3)[^key-0646a422e24ec2e602340147ed39940d] Where any debt arises in respect of shares held by, or a loan made to, an individual who is a corporate member, paragraphs (1) and (2) are to be read subject to Articles 23(2A) and (2B) (transfer of shares) and 28(1C) and (1D) (transfer of loans).
+(3)[^c-0646a422e24ec2e602340147ed39940d] Where any debt arises in respect of shares held by, or a loan made to, an individual who is a corporate member, paragraphs (1) and (2) are to be read subject to Articles 23(2A) and (2B) (transfer of shares) and 28(1C) and (1D) (transfer of loans).
 
 ## Annotations
 
-[^key-0646a422e24ec2e602340147ed39940d]: Textual amendment: Art. 16(3) inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17](https://www.legislation.gov.uk/nia/2016/16/section/17), [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/5)
+[^c-0646a422e24ec2e602340147ed39940d]: Textual amendment: Art. 16(3) inserted (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (NorthernIreland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17](https://www.legislation.gov.uk/nia/2016/16/section/17), [Sch. 1 para. 5](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/5)

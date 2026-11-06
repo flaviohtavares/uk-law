@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5EA. Company directors[^key-882b889dc5ff6c5da16b3b4e46de8b7c][^key-01851bca60742079d40afd132f077a46]
+## 5EA. Company directors[^c-882b889dc5ff6c5da16b3b4e46de8b7c][^c-01851bca60742079d40afd132f077a46]
 
 *Extent: E+W+S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-882b889dc5ff6c5da16b3b4e46de8b7c]: Textual amendment: Reg. 5EA - Reg. 5EB inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/311/regulation/4/3)
+[^c-882b889dc5ff6c5da16b3b4e46de8b7c]: Textual amendment: Reg. 5EA - Reg. 5EB inserted (6.4.2016) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/311)](https://www.legislation.gov.uk/uksi/2016/311), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/311/regulation/1/1), [4(3)](https://www.legislation.gov.uk/uksi/2016/311/regulation/4/3)
 
-[^key-01851bca60742079d40afd132f077a46]: Textual amendment: Regs. 5B-5F inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/501/regulation/5)
+[^c-01851bca60742079d40afd132f077a46]: Textual amendment: Regs. 5B-5F inserted (1.4.2015) by [The Occupational and Personal Pension Schemes (Automatic Enrolment) (Amendment) Regulations 2015 (S.I. 2015/501)](https://www.legislation.gov.uk/uksi/2015/501), [regs. 1](https://www.legislation.gov.uk/uksi/2015/501/regulation/1), [5](https://www.legislation.gov.uk/uksi/2015/501/regulation/5)

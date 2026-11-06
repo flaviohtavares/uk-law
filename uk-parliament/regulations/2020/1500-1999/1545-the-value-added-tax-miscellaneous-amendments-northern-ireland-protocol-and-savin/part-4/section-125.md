@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125.[^key-a2699283fa535432a3a6316154829b29]
+## 125.[^c-a2699283fa535432a3a6316154829b29]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a2699283fa535432a3a6316154829b29]: Commencement: Reg. 125 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
+[^c-a2699283fa535432a3a6316154829b29]: Commencement: Reg. 125 in force at 31.12.2020 by [S.I. 2020/1641](https://www.legislation.gov.uk/uksi/2020/1641), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1641/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1641/schedule)
 
 [^c24395901]: Marginal citation: [S.I. 1995/2518](https://www.legislation.gov.uk/uksi/1995/2518). A new regulation 121D is substituted by regulation 67 of this instrument.

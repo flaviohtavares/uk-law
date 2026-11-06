@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 162. Changes to registered details[^key-e1cb5c0dbdba6b768cf2cd5790c8fb05][^key-d1f4a22ef4a2ee26c253d32939c3bdcc][^key-26ba81c800855f30b2fa7f9509f30faa]
+## 162. Changes to registered details[^c-e1cb5c0dbdba6b768cf2cd5790c8fb05][^c-d1f4a22ef4a2ee26c253d32939c3bdcc][^c-26ba81c800855f30b2fa7f9509f30faa]
 
 *Extent: E+W*
 
@@ -54,8 +54,8 @@ those standards will continue to be met in relation to the school.
 
 ## Annotations
 
-[^key-e1cb5c0dbdba6b768cf2cd5790c8fb05]: Commencement: S. 162 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
+[^c-e1cb5c0dbdba6b768cf2cd5790c8fb05]: Commencement: S. 162 in force at 1.9.2003 except in relation to W. by [S.I. 2003/1667](https://www.legislation.gov.uk/uksi/2003/1667), [art. 4](https://www.legislation.gov.uk/uksi/2003/1667/article/4)
 
-[^key-d1f4a22ef4a2ee26c253d32939c3bdcc]: Commencement: S. 162 in force at 1.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)
+[^c-d1f4a22ef4a2ee26c253d32939c3bdcc]: Commencement: S. 162 in force at 1.1.2004 for W. by [S.I. 2003/2961](https://www.legislation.gov.uk/uksi/2003/2961), [art. 6](https://www.legislation.gov.uk/uksi/2003/2961/article/6), [Sch. Pt. III](https://www.legislation.gov.uk/uksi/2003/2961/schedule/part/III)
 
-[^key-26ba81c800855f30b2fa7f9509f30faa]: Modification: S. 162 modified (1.1.2004) by [The Independent Schools (Provision of Information) (Wales) Regulations 2003 (S.I. 2003/3230)](https://www.legislation.gov.uk/uksi/2003/3230), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3230/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2003/3230/regulation/9)
+[^c-26ba81c800855f30b2fa7f9509f30faa]: Modification: S. 162 modified (1.1.2004) by [The Independent Schools (Provision of Information) (Wales) Regulations 2003 (S.I. 2003/3230)](https://www.legislation.gov.uk/uksi/2003/3230), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2003/3230/regulation/1/1), [9](https://www.legislation.gov.uk/uksi/2003/3230/regulation/9)

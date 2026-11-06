@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Contracts register[^key-9381ae985312eac52c04b18706297ee6]
+## 35. Contracts register[^c-9381ae985312eac52c04b18706297ee6]
 
 *Extent: S*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9381ae985312eac52c04b18706297ee6]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2014/12/section/35) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))
+[^c-9381ae985312eac52c04b18706297ee6]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2014/12/section/35) in force at 18.4.2016 by [S.S.I. 2016/30](https://www.legislation.gov.uk/ssi/2016/30), [art. 3](https://www.legislation.gov.uk/ssi/2016/30/article/3) (with [art. 5](https://www.legislation.gov.uk/ssi/2016/30/article/5))

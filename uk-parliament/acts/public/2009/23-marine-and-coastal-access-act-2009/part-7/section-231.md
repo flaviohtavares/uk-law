@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 231. Tweed and Esk fisheries[^c2008404][^key-c3fa6f1535bd004a30d9a5f2d3b7f6d1]
+## 231. Tweed and Esk fisheries[^c2008404][^c-c3fa6f1535bd004a30d9a5f2d3b7f6d1]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c2008404]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2009/23/section/231) partly in force; [s. 231](https://www.legislation.gov.uk/ukpga/2009/23/section/231) in force for specified purposes at Royal Assent see [s. 324(1)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/324/1/c)
 
-[^key-c3fa6f1535bd004a30d9a5f2d3b7f6d1]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2009/23/section/231) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)
+[^c-c3fa6f1535bd004a30d9a5f2d3b7f6d1]: Commencement: [S. 231](https://www.legislation.gov.uk/ukpga/2009/23/section/231) in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 14](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/14)

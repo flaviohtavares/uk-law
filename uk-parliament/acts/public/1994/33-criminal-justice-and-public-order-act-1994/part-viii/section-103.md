@@ -26,7 +26,7 @@ summary: ''
 - (b) to investigate and report to the Scottish Ministers on any allegations made against prisoner custody officers acting in pursuance of the arrangements; and
 - (c) to report to the Scottish Ministers on any alleged breaches of discipline on the part of prisoners for whose transfer or custody such officers so acting are responsible.
 
-(2)[^key-c7802f5748315a88413df9f7c1e4e88e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c7802f5748315a88413df9f7c1e4e88e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c13104131]: Textual amendment: Words in s. 103(1) substituted (1.7.1999) by [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), [arts. 1(2)](https://www.legislation.gov.uk/uksi/1999/1820/article/1/2), [4](https://www.legislation.gov.uk/uksi/1999/1820/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/1999/1820/schedule/2), [Pt. I](https://www.legislation.gov.uk/uksi/1999/1820/part/I), [para. 115(2)(b)](https://www.legislation.gov.uk/uksi/1999/1820/paragraph/115/2/b); [S.I. 1998/3178](https://www.legislation.gov.uk/uksi/1998/3178), [art. 2](https://www.legislation.gov.uk/uksi/1998/3178/article/2)
 
-[^key-c7802f5748315a88413df9f7c1e4e88e]: Textual amendment: S. 103(2) repealed (S.) (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [sch. para. 3(2)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/3/2)
+[^c-c7802f5748315a88413df9f7c1e4e88e]: Textual amendment: S. 103(2) repealed (S.) (31.8.2015) by [The Public Services Reform (Inspection and Monitoring of Prisons) (Scotland) Order 2015 (S.S.I. 2015/39)](https://www.legislation.gov.uk/ssi/2015/39), [art. 1](https://www.legislation.gov.uk/ssi/2015/39/article/1), [sch. para. 3(2)](https://www.legislation.gov.uk/ssi/2015/39/schedule/paragraph/3/2)

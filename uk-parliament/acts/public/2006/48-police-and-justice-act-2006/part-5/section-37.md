@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Making, supplying or obtaining articles for use in computer misuse offences[^key-4080adecd8015b8efc5f167cce630b88][^key-3c69a0c231c6108251886f5b88f51589]
+## 37. Making, supplying or obtaining articles for use in computer misuse offences[^c-4080adecd8015b8efc5f167cce630b88][^c-3c69a0c231c6108251886f5b88f51589]
 
 *Extent: E+W*
 
@@ -40,6 +40,6 @@ After section 3 of the 1990 Act there is inserted—
 
 ## Annotations
 
-[^key-4080adecd8015b8efc5f167cce630b88]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/48/section/37) in force at 1.10.2007 for S. by [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/434/article/2/a)
+[^c-4080adecd8015b8efc5f167cce630b88]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/48/section/37) in force at 1.10.2007 for S. by [S.S.I. 2007/434](https://www.legislation.gov.uk/ssi/2007/434), [art. 2(a)](https://www.legislation.gov.uk/ssi/2007/434/article/2/a)
 
-[^key-3c69a0c231c6108251886f5b88f51589]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/48/section/37) in force at 1.10.2008 for E.W.N.I. by [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2503/article/2/a)
+[^c-3c69a0c231c6108251886f5b88f51589]: Commencement: [S. 37](https://www.legislation.gov.uk/ukpga/2006/48/section/37) in force at 1.10.2008 for E.W.N.I. by [S.I. 2008/2503](https://www.legislation.gov.uk/uksi/2008/2503), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2503/article/2/a)

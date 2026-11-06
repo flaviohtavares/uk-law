@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Licence fee payable by a winning bidder for a 3.6 GHz licence[^key-bad050a71f91877f8489e20d91ad4cde]
+## 110. Licence fee payable by a winning bidder for a 3.6 GHz licence[^c-bad050a71f91877f8489e20d91ad4cde]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The licence fee payable by a winning bidder for a 3.6 GHz licence shall be an am
 
 ## Annotations
 
-[^key-bad050a71f91877f8489e20d91ad4cde]: Commencement: Reg. 110 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-bad050a71f91877f8489e20d91ad4cde]: Commencement: Reg. 110 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

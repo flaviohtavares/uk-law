@@ -24,7 +24,7 @@ Section 316
 
 ### Part 1 — Amendments to TCTA 2018
 
-**1.**[^M_I_0fce2a7e-f481-4812-d5ef-a92301dd0f93][^key-fd2ba68fa5e6ee165b4d4f3b0b669662] (1) Section 13 of TCTA 2018 is amended as follows.
+**1.**[^M_I_0fce2a7e-f481-4812-d5ef-a92301dd0f93][^c-fd2ba68fa5e6ee165b4d4f3b0b669662] (1) Section 13 of TCTA 2018 is amended as follows.
 
 (2) In subsection (1)—
 
@@ -41,7 +41,7 @@ Section 316
 
 (5) In subsection (4), in the words before paragraph (a), for “Schedule 4 or 5” substitute “Schedule 4, 5 or 5A”.
 
-**2.**[^M_I_640bf67e-4f55-4298-92d7-f0130cc85471][^key-1178f77de9f31088e3ae3dee3820059c] After Schedule 5 of that Act insert—
+**2.**[^M_I_640bf67e-4f55-4298-92d7-f0130cc85471][^c-1178f77de9f31088e3ae3dee3820059c] After Schedule 5 of that Act insert—
 
 > **Schedule 5A — Increase in imports as a result of free trade agreement causing serious injury to UK producers**
 >
@@ -328,7 +328,7 @@ Section 316
 
 ### Part 2 — Commencement
 
-**3.**[^M_I_b4a85ae7-4646-4be8-ee3c-5af120d13d47][^key-91b527d7631459e22d4b52a1ca3965eb] (1) Any power to make regulations under or by virtue of this Schedule comes into force on the day on which this Act is passed.
+**3.**[^M_I_b4a85ae7-4646-4be8-ee3c-5af120d13d47][^c-91b527d7631459e22d4b52a1ca3965eb] (1) Any power to make regulations under or by virtue of this Schedule comes into force on the day on which this Act is passed.
 
 (2) The remaining provisions of this Schedule come into force on such day as the Secretary of State may by regulations appoint.
 
@@ -342,12 +342,12 @@ Section 316
 
 [^M_I_0fce2a7e-f481-4812-d5ef-a92301dd0f93]: Commencement: Sch. 20 para. 1 not in force at Royal Assent, see [Sch. 20 para. 3(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/3/2)
 
-[^key-fd2ba68fa5e6ee165b4d4f3b0b669662]: Commencement: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/1) in force at 13.5.2024 by [S.I. 2024/522](https://www.legislation.gov.uk/uksi/2024/522), [reg. 2](https://www.legislation.gov.uk/uksi/2024/522/regulation/2)
+[^c-fd2ba68fa5e6ee165b4d4f3b0b669662]: Commencement: [Sch. 20 para. 1](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/1) in force at 13.5.2024 by [S.I. 2024/522](https://www.legislation.gov.uk/uksi/2024/522), [reg. 2](https://www.legislation.gov.uk/uksi/2024/522/regulation/2)
 
 [^M_I_640bf67e-4f55-4298-92d7-f0130cc85471]: Commencement: Sch. 20 para. 2 in force at Royal Assent for specified purposes, see [Sch. 20 para. 3(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/3/1)
 
-[^key-1178f77de9f31088e3ae3dee3820059c]: Commencement: [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/2) in force at 13.5.2024 in so far as not already in force by [S.I. 2024/522](https://www.legislation.gov.uk/uksi/2024/522), [reg. 2](https://www.legislation.gov.uk/uksi/2024/522/regulation/2)
+[^c-1178f77de9f31088e3ae3dee3820059c]: Commencement: [Sch. 20 para. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/2) in force at 13.5.2024 in so far as not already in force by [S.I. 2024/522](https://www.legislation.gov.uk/uksi/2024/522), [reg. 2](https://www.legislation.gov.uk/uksi/2024/522/regulation/2)
 
 [^M_I_b4a85ae7-4646-4be8-ee3c-5af120d13d47]: Commencement: Sch. 20 para. 3 in force at Royal Assent for specified purposes, see [Sch. 20 para. 3(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/3/1)
 
-[^key-91b527d7631459e22d4b52a1ca3965eb]: Commencement: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/3) in force at 13.5.2024 in so far as not already in force by [S.I. 2024/522](https://www.legislation.gov.uk/uksi/2024/522), [reg. 2](https://www.legislation.gov.uk/uksi/2024/522/regulation/2)
+[^c-91b527d7631459e22d4b52a1ca3965eb]: Commencement: [Sch. 20 para. 3](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/3) in force at 13.5.2024 in so far as not already in force by [S.I. 2024/522](https://www.legislation.gov.uk/uksi/2024/522), [reg. 2](https://www.legislation.gov.uk/uksi/2024/522/regulation/2)

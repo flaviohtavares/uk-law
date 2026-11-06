@@ -24,21 +24,21 @@ Section 146
 
 ### Part 1 — The new definition
 
-**1.**[^key-49d29640bc110485b2b530d0e41942e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-49d29640bc110485b2b530d0e41942e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-49d29640bc110485b2b530d0e41942e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-49d29640bc110485b2b530d0e41942e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-49d29640bc110485b2b530d0e41942e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-49d29640bc110485b2b530d0e41942e7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Minor and consequential amendments
 
 #### The Taxes Act 1988
 
-**4.**[^key-73338586cc386538fddb766a31c100ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-73338586cc386538fddb766a31c100ac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Taxes Act 1988
 
-**5.**[^key-27b16bd6cae4de0d181bc32f8a37cd6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-27b16bd6cae4de0d181bc32f8a37cd6f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Finance Act 2000 (c. 17)
 
@@ -145,8 +145,8 @@ Section 146
 
 ## Annotations
 
-[^key-49d29640bc110485b2b530d0e41942e7]: Textual amendment: [Sch. 27 paras. 1-3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-49d29640bc110485b2b530d0e41942e7]: Textual amendment: [Sch. 27 paras. 1-3](https://www.legislation.gov.uk/ukpga/2004/12/schedule/27/paragraph/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-73338586cc386538fddb766a31c100ac]: Textual amendment: Sch. 27 para. 4 repealed (with effect in accordance with s. 1034(1)(3) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [Sch. 3 Pts. 1, 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-73338586cc386538fddb766a31c100ac]: Textual amendment: Sch. 27 para. 4 repealed (with effect in accordance with s. 1034(1)(3) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [Sch. 3 Pts. 1, 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/2) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-27b16bd6cae4de0d181bc32f8a37cd6f]: Textual amendment: Sch. 27 para. 5 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-27b16bd6cae4de0d181bc32f8a37cd6f]: Textual amendment: Sch. 27 para. 5 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

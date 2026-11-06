@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 91. Warrants for ejection[^key-33c8b4e1ff4f67a56b4548552934feb4]
+## 91. Warrants for ejection[^c-33c8b4e1ff4f67a56b4548552934feb4]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ After section 47 of the Court of Session Act 1988, insert—
 
 ## Annotations
 
-[^key-33c8b4e1ff4f67a56b4548552934feb4]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2014/18/section/91) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-33c8b4e1ff4f67a56b4548552934feb4]: Commencement: [S. 91](https://www.legislation.gov.uk/asp/2014/18/section/91) in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

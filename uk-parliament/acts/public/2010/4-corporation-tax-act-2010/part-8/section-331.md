@@ -30,13 +30,13 @@ summary: ''
 - (b) any exchange gain or loss from a debtor relationship of the company in relation to debt finance,
 - (c) any credit or debit falling to be brought into account in accordance with Part 7 of CTA 2009 (derivative contracts) in relation to debt finance,
 - (d) the financing cost implicit in a payment under a finance lease,
-- (da)[^key-e92a382c32ca69f34abedc6153daed67] if the company is the lessee under a right-of-use lease which is a long funding finance lease, any costs falling, in accordance with generally accepted accounting practice, to be treated in the accounts of the company as interest expenses,
+- (da)[^c-e92a382c32ca69f34abedc6153daed67] if the company is the lessee under a right-of-use lease which is a long funding finance lease, any costs falling, in accordance with generally accepted accounting practice, to be treated in the accounts of the company as interest expenses,
 - (e) if the company is the lessee under a long funding operating lease, the amount deductible in respect of payments under the lease in calculating the profits of the lessee for corporation tax purposes (after first making against any such amount any reductions falling to be made as a result of section 379 (lessee under long funding operating lease)), and,
 - (f) any other costs arising from what would be considered in accordance with generally accepted accounting practice to be a financing transaction.
 
 (4) If an amount representing the whole or part of a payment falling to be made by a company—
 
-- (a) falls (or would fall) to be treated as a finance charge, or an interest expense,[^key-20c65d3ebe08f3920796080378b923b1] under a finance lease for the purposes of accounts which relate to that company and one or more other companies and are prepared in accordance with generally accepted accounting practice, but
+- (a) falls (or would fall) to be treated as a finance charge, or an interest expense,[^c-20c65d3ebe08f3920796080378b923b1] under a finance lease for the purposes of accounts which relate to that company and one or more other companies and are prepared in accordance with generally accepted accounting practice, but
 - (b) is not so treated in the accounts of the company,
 
 the amount is to be treated as a financing cost within subsection (3)(d).
@@ -48,7 +48,7 @@ the amount is to be treated as a financing cost within subsection (3)(d).
 
 the repayment is also to be left out of account in calculating the adjusted ring fence profits of the company for any accounting period.
 
-(6)[^key-73b0884992d3d851158bad7b68642d2b] In this section “finance lease” means a lease which—
+(6)[^c-73b0884992d3d851158bad7b68642d2b] In this section “finance lease” means a lease which—
 
 - (a) under generally accepted accounting practice—
   - (i) falls (or would fall) to be treated, in the accounts of the lessee or a person connected with the lessee, as a finance lease or loan, or
@@ -69,19 +69,19 @@ the repayment is also to be left out of account in calculating the adjusted ring
   - (a) relate to two or more companies of which that company is one, and
   - (b) are drawn up in accordance with generally accepted accounting practice,
 - “**debtor relationship**” has the meaning given by section 302(6) of CTA 2009,
-- “exchange gains” and “exchange losses” are to be read in accordance with section 475 of CTA 2009, [^key-024e5a63ed9163c55aec06a8eb1b8f92]...
-- “lease” means any arrangements which provide for an asset to be leased or otherwise made available by a person to another person (“the lessee”), and[^key-06ef00dd7daaba375a3988a578ef13a6]
+- “exchange gains” and “exchange losses” are to be read in accordance with section 475 of CTA 2009, [^c-024e5a63ed9163c55aec06a8eb1b8f92]...
+- “lease” means any arrangements which provide for an asset to be leased or otherwise made available by a person to another person (“the lessee”), and[^c-06ef00dd7daaba375a3988a578ef13a6]
 - “long funding finance lease”, “long funding operating lease” and “right-of-use lease” have the meanings given in Part 2 of CAA 2001 (see section 70YI(1) of that Act).
 - “**long funding operating lease**” means a long funding operating lease for the purposes of Part 2 of CAA 2001 (see section 70YI(1) of that Act).
 
 ## Annotations
 
-[^key-e92a382c32ca69f34abedc6153daed67]: Textual amendment: S. 331(3)(da) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/3/a)
+[^c-e92a382c32ca69f34abedc6153daed67]: Textual amendment: S. 331(3)(da) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(3)(a)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/3/a)
 
-[^key-20c65d3ebe08f3920796080378b923b1]: Textual amendment: Words in s. 331(4)(a) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/3/b)
+[^c-20c65d3ebe08f3920796080378b923b1]: Textual amendment: Words in s. 331(4)(a) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(3)(b)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/3/b)
 
-[^key-73b0884992d3d851158bad7b68642d2b]: Textual amendment: S. 331(6) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/3/c)
+[^c-73b0884992d3d851158bad7b68642d2b]: Textual amendment: S. 331(6) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(3)(c)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/3/c)
 
-[^key-024e5a63ed9163c55aec06a8eb1b8f92]: Textual amendment: Word in s. 331(9) omitted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/3/d/i)
+[^c-024e5a63ed9163c55aec06a8eb1b8f92]: Textual amendment: Word in s. 331(9) omitted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by virtue of [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(3)(d)(i)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/3/d/i)
 
-[^key-06ef00dd7daaba375a3988a578ef13a6]: Textual amendment: Words in s. 331(9) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/3/d/ii)
+[^c-06ef00dd7daaba375a3988a578ef13a6]: Textual amendment: Words in s. 331(9) inserted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(3)(d)(ii)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/3/d/ii)

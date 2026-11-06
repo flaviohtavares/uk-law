@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 14. Provision for review of these General Directions[^key-f12dbc46a99c23fa1ef67d593f714c31]
+## 14. Provision for review of these General Directions[^c-f12dbc46a99c23fa1ef67d593f714c31]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f12dbc46a99c23fa1ef67d593f714c31]: Commencement: [Dir. 14](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/14) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)
+[^c-f12dbc46a99c23fa1ef67d593f714c31]: Commencement: [Dir. 14](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/14) in force at 22.4.2016, see [dir. 1(b)](https://www.legislation.gov.uk/uksi/2016/362/part/2/regulation/1)

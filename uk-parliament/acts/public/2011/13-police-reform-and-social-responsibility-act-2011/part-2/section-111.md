@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Reducing the burden: other situations[^key-3d989771e98fa5b368110692080bbbe9]
+## 111. Reducing the burden: other situations[^c-3d989771e98fa5b368110692080bbbe9]
 
 *Extent: E+W*
 
@@ -24,11 +24,11 @@ summary: ''
 
 (2) In section 105(2)(b) (counter notice following police objection), for “necessary” substitute “ appropriate ”.
 
-(3)[^key-eb50d5e8cf345cd9db930678cf98ae56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-eb50d5e8cf345cd9db930678cf98ae56] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-1d04ad69aa14c06487328a5ccabf5362] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-1d04ad69aa14c06487328a5ccabf5362] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-b289295493166f81909dba70262c87d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-b289295493166f81909dba70262c87d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In section 167(5)(b) (review of premises licence following closure order), for “necessary” substitute “ appropriate ”.
 
@@ -40,10 +40,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3d989771e98fa5b368110692080bbbe9]: Commencement: S. 111 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-3d989771e98fa5b368110692080bbbe9]: Commencement: S. 111 in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
-[^key-eb50d5e8cf345cd9db930678cf98ae56]: Textual amendment: [S. 111(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/111/3) omitted (6.4.2017) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/32); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-eb50d5e8cf345cd9db930678cf98ae56]: Textual amendment: [S. 111(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/111/3) omitted (6.4.2017) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/32); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
 
-[^key-1d04ad69aa14c06487328a5ccabf5362]: Textual amendment: S. 111(4) omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/15) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)
+[^c-1d04ad69aa14c06487328a5ccabf5362]: Textual amendment: S. 111(4) omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 15](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/15) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)
 
-[^key-b289295493166f81909dba70262c87d0]: Textual amendment: [S. 111(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/111/5) omitted (6.4.2017) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/32); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)
+[^c-b289295493166f81909dba70262c87d0]: Textual amendment: [S. 111(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/111/5) omitted (6.4.2017) by virtue of [Immigration Act 2016 (c. 19)](https://www.legislation.gov.uk/ukpga/2016/19), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2016/19/section/94/1), [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2016/19/schedule/4/paragraph/32); [S.I. 2017/380](https://www.legislation.gov.uk/uksi/2017/380), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/380/regulation/2/b)

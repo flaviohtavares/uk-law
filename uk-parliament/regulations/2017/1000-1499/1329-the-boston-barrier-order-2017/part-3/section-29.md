@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Survey of tidal works[^key-5091d97175fbe9beb1d62e97e35ed5cd]
+## 29. Survey of tidal works[^c-5091d97175fbe9beb1d62e97e35ed5cd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If the Secretary of State or the Harbour Authority deems it expedient, the Secre
 
 ## Annotations
 
-[^key-5091d97175fbe9beb1d62e97e35ed5cd]: Commencement: Art. 29 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)
+[^c-5091d97175fbe9beb1d62e97e35ed5cd]: Commencement: Art. 29 in force at 2.1.2018, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1329/article/1)

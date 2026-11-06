@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**36.**[^key-7b82c3f6d7013d3759b50436a174f579] For the purpose of regulation 35(b)—
+**36.**[^c-7b82c3f6d7013d3759b50436a174f579] For the purpose of regulation 35(b)—
 
 - (a) the reference in regulation 27 of the Constitution Regulations 2012 to “governing bodies” is treated as a reference to “temporary governing bodies”; and
 - (b) references in regulation 29 of the Constitution Regulations 2012 to—
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b82c3f6d7013d3759b50436a174f579]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2012/1035/regulation/36) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-7b82c3f6d7013d3759b50436a174f579]: Commencement: [Reg. 36](https://www.legislation.gov.uk/uksi/2012/1035/regulation/36) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

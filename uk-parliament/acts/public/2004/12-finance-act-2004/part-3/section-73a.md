@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73A. Designated international organisations: exemption from section 59[^key-089940f637055691458d66b6b1956e2b]
+## 73A. Designated international organisations: exemption from section 59[^c-089940f637055691458d66b6b1956e2b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-089940f637055691458d66b6b1956e2b]: Textual amendment: S. 73A inserted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 461](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/461) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-089940f637055691458d66b6b1956e2b]: Textual amendment: S. 73A inserted (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 1 para. 461](https://www.legislation.gov.uk/ukpga/2007/3/schedule/1/paragraph/461) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

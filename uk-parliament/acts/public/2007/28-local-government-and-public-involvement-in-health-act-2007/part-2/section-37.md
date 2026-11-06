@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Resolution for elections by halves[^key-2ddb85d42972b98a1469ecdb4977cca5]
+## 37. Resolution for elections by halves[^c-2ddb85d42972b98a1469ecdb4977cca5]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ may resolve that it is to revert to being subject to a scheme for elections by h
 
 ## Annotations
 
-[^key-2ddb85d42972b98a1469ecdb4977cca5]: Commencement: S. 37 in force at 30.12.2007, see s. 245(2)
+[^c-2ddb85d42972b98a1469ecdb4977cca5]: Commencement: S. 37 in force at 30.12.2007, see s. 245(2)

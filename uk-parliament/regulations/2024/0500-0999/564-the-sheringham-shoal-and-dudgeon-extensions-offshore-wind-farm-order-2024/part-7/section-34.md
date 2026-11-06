@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Trees subject to tree preservation orders[^key-78b91b49f80823659cec2d5deeb96afb]
+## 34. Trees subject to tree preservation orders[^c-78b91b49f80823659cec2d5deeb96afb]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-78b91b49f80823659cec2d5deeb96afb]: Commencement: Art. 34 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-78b91b49f80823659cec2d5deeb96afb]: Commencement: Art. 34 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
 [^f00041]: Footnote: Section 206(1) was amended by paragraph 11 of Schedule 8 to the Planning Act [2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29).

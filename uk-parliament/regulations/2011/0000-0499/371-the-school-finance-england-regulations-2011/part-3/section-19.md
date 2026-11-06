@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. Minimum funding guarantee[^key-2c39424498e0c31d6dcca4bcf861b2b6]
+## 19. Minimum funding guarantee[^c-2c39424498e0c31d6dcca4bcf861b2b6]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c39424498e0c31d6dcca4bcf861b2b6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2011/371/regulation/19) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)
+[^c-2c39424498e0c31d6dcca4bcf861b2b6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2011/371/regulation/19) in force at 15.3.2011, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/371/regulation/1/1)

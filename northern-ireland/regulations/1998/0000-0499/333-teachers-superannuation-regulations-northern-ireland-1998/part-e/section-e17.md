@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E17. Short service incapacity grant[^key-b3552528f2d3193e90c6ff4c04ed69e3]
+## E17. Short service incapacity grant[^c-b3552528f2d3193e90c6ff4c04ed69e3]
 
 *Extent: N.I.*
 
@@ -48,4 +48,4 @@ where—
 
 ## Annotations
 
-[^key-b3552528f2d3193e90c6ff4c04ed69e3]: Commencement: Reg. E17 in operation at 2.11.1998, see reg. A1
+[^c-b3552528f2d3193e90c6ff4c04ed69e3]: Commencement: Reg. E17 in operation at 2.11.1998, see reg. A1

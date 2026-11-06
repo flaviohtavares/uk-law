@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Unaccompanied children and power to provide for exceptions[^key-ca2961b2242744e30449a8b12284ecfd]
+## 4. Unaccompanied children and power to provide for exceptions[^c-ca2961b2242744e30449a8b12284ecfd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca2961b2242744e30449a8b12284ecfd]: Textual amendment: [Ss. 1-6](https://www.legislation.gov.uk/ukpga/2023/37/section/1) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/a), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)
+[^c-ca2961b2242744e30449a8b12284ecfd]: Textual amendment: [Ss. 1-6](https://www.legislation.gov.uk/ukpga/2023/37/section/1) repealed (2.12.2025) by [Border Security, Asylum and Immigration Act 2025 (c. 31)](https://www.legislation.gov.uk/ukpga/2025/31), [ss. 41(1)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/41/1/a), [65(3)(a)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/3/a)

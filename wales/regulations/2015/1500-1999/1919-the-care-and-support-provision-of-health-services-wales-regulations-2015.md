@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers in exercise of the powers conferred by sections 47(6)(a), 47(8)(a) and 196(2) of the Social Services and Well-being (Wales) Act 2014[^f00001], make the following Regulations:
 
-## 1. Title, commencement and application[^key-9994478c267ff479eafd74aff945f42e]
+## 1. Title, commencement and application[^c-9994478c267ff479eafd74aff945f42e]
 
 (1) The title of these Regulations is the Care and Support (Provision of Health Services) (Wales) Regulations 2015 and they come into force on 6 April 2016.
 
 (2) These Regulations apply in relation to Wales.
 
-## 2. Interpretation[^key-c947f187315238f48796ba71a6eef488]
+## 2. Interpretation[^c-c947f187315238f48796ba71a6eef488]
 
 In these Regulations—
 
@@ -61,17 +61,17 @@ In these Regulations—
 - “health body” (“*corff iechyd*”) has the same meaning as in section 47(10) of the 2014 Act;
 - “health service” (“*gwasanaeth iechyd*”) means the health service continued under section 1(1) of the National Health Service (Wales) Act 2006[^f00002].
 
-## 3. The specified health body for the purposes of section 47(6) of the 2014 Act[^key-c4367b69dfd64dc80e6d24518bf1e4a4]
+## 3. The specified health body for the purposes of section 47(6) of the 2014 Act[^c-c4367b69dfd64dc80e6d24518bf1e4a4]
 
 (1) Where a local authority, in reliance on section 47(6) of the 2014 Act, is making arrangements for the provision of accommodation together with nursing care[^f00003] by a registered nurse, the health body from which the local authority must obtain consent is—
 
 - (a) where the local authority proposes to accommodate A in Wales, the Local Health Board for the area in which the accommodation is provided;
 - (b) where the local authority proposes to accommodate A in Scotland or Northern Ireland, the Local Health Board for the area in which that local authority is located;
-- (c) where the local authority proposes to accommodate A in England, the responsible integrated care board[^key-589143eea260c48f0d5fae389a87e425].
+- (c) where the local authority proposes to accommodate A in England, the responsible integrated care board[^c-589143eea260c48f0d5fae389a87e425].
 
-(2) For the purposes of this regulation, the responsible integrated care board[^key-e125dd708dba56bd354150b3c284fe0e] in respect of any person is the integrated care board which has responsibility for arranging for the provision of nursing care by a registered nurse in respect of that person, pursuant to the provisions of section 3(1), (1A) and (1E) of the National Health Service Act 2006[^f00004] and any regulations made under section 3(1B) or (1D) of that Act.
+(2) For the purposes of this regulation, the responsible integrated care board[^c-e125dd708dba56bd354150b3c284fe0e] in respect of any person is the integrated care board which has responsibility for arranging for the provision of nursing care by a registered nurse in respect of that person, pursuant to the provisions of section 3(1), (1A) and (1E) of the National Health Service Act 2006[^f00004] and any regulations made under section 3(1B) or (1D) of that Act.
 
-## 4. Arrangements for the resolution of disputes for the purposes of section 47(8) of the 2014 Act[^key-f9d10e6123a971b81b14fb58be796f2f]
+## 4. Arrangements for the resolution of disputes for the purposes of section 47(8) of the 2014 Act[^c-f9d10e6123a971b81b14fb58be796f2f]
 
 (1) A local authority must make arrangements in connection with the resolution of disputes between the authority and a health body about whether or not a service or facility is required to be provided under a health enactment.
 
@@ -108,20 +108,20 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2014 anaw 4](https://www.legislation.gov.uk/anaw/2014/4).
 
-[^key-9994478c267ff479eafd74aff945f42e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1919/regulation/1) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1919/regulation/1/1)
+[^c-9994478c267ff479eafd74aff945f42e]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1919/regulation/1) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1919/regulation/1/1)
 
-[^key-c947f187315238f48796ba71a6eef488]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1919/regulation/2) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1919/regulation/1/1)
+[^c-c947f187315238f48796ba71a6eef488]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1919/regulation/2) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1919/regulation/1/1)
 
 [^f00002]: Footnote: [2006 c. 42](https://www.legislation.gov.uk/ukpga/2006/42).
 
-[^key-c4367b69dfd64dc80e6d24518bf1e4a4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1919/regulation/3) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1919/regulation/1/1)
+[^c-c4367b69dfd64dc80e6d24518bf1e4a4]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1919/regulation/3) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1919/regulation/1/1)
 
 [^f00003]: Footnote: “Nursing care” has the meaning given in section 47(10) of the 2014 Act.
 
-[^key-589143eea260c48f0d5fae389a87e425]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/wsi/2015/1919/regulation/3/1/c) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [88(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/88/2/a)
+[^c-589143eea260c48f0d5fae389a87e425]: Textual amendment: Words in [reg. 3(1)(c)](https://www.legislation.gov.uk/wsi/2015/1919/regulation/3/1/c) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [88(2)(a)](https://www.legislation.gov.uk/uksi/2022/634/regulation/88/2/a)
 
-[^key-e125dd708dba56bd354150b3c284fe0e]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2015/1919/regulation/3/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [88(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/88/2/b)
+[^c-e125dd708dba56bd354150b3c284fe0e]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/wsi/2015/1919/regulation/3/2) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [88(2)(b)](https://www.legislation.gov.uk/uksi/2022/634/regulation/88/2/b)
 
 [^f00004]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
-[^key-f9d10e6123a971b81b14fb58be796f2f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1919/regulation/4) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1919/regulation/1/1)
+[^c-f9d10e6123a971b81b14fb58be796f2f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1919/regulation/4) in force at 6.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2015/1919/regulation/1/1)

@@ -29,7 +29,7 @@ summary: ''
 
 (3) Any condition in a conditions of practice order under this section shall be imposed so as to have effect for a period specified in the order.
 
-(4) At any time while a conditions of practice order is in force under this section or under section 30 or by virtue of a decision of a court on an appeal under section 31[^key-7ff4d7c3943f0101bb2ff289a1345a7e] , the Committee may (whether or not of its own motion)—
+(4) At any time while a conditions of practice order is in force under this section or under section 30 or by virtue of a decision of a court on an appeal under section 31[^c-7ff4d7c3943f0101bb2ff289a1345a7e] , the Committee may (whether or not of its own motion)—
 
 - (a) extend, or further extend, the period for which the order has effect; or
 - (b) make a suspension order with respect to the chiropractor concerned.
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ff4d7c3943f0101bb2ff289a1345a7e]: Textual amendment: Words in s. 23(4)(5)(6) substituted (1.4.2003) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 34(4)](https://www.legislation.gov.uk/ukpga/2002/17/section/34/4), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3); [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/833/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))
+[^c-7ff4d7c3943f0101bb2ff289a1345a7e]: Textual amendment: Words in s. 23(4)(5)(6) substituted (1.4.2003) by [National Health Service Reform and Health Care Professions Act 2002 (c. 17)](https://www.legislation.gov.uk/ukpga/2002/17), [ss. 34(4)](https://www.legislation.gov.uk/ukpga/2002/17/section/34/4), [42(3)](https://www.legislation.gov.uk/ukpga/2002/17/section/42/3); [S.I. 2003/833](https://www.legislation.gov.uk/uksi/2003/833), [art. 3(a)](https://www.legislation.gov.uk/uksi/2003/833/article/3/a) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/833/article/4))

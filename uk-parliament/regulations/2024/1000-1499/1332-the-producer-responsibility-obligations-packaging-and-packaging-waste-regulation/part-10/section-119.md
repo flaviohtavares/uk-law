@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Penalties for offences[^key-fc93900a4d07f220cf1218f0df909a78]
+## 119. Penalties for offences[^c-fc93900a4d07f220cf1218f0df909a78]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ An offence under any of regulations 115 to 118 is punishable—
 
 ## Annotations
 
-[^key-fc93900a4d07f220cf1218f0df909a78]: Commencement: Reg. 119 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-fc93900a4d07f220cf1218f0df909a78]: Commencement: Reg. 119 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Disclosure of non-identifying information by the Revenue and Customs[^key-18e18879a1a5a7f9536822e3a4fd2189]
+## 74. Disclosure of non-identifying information by the Revenue and Customs[^c-18e18879a1a5a7f9536822e3a4fd2189]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18e18879a1a5a7f9536822e3a4fd2189]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2017/30/section/74) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/q)
+[^c-18e18879a1a5a7f9536822e3a4fd2189]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2017/30/section/74) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(q)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/q)

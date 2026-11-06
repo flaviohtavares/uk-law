@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Insertion of new regulations E2A, E2B and E2C[^key-a1e24c1fddce5e48fb95615702320b41]
+## 11. Insertion of new regulations E2A, E2B and E2C[^c-a1e24c1fddce5e48fb95615702320b41]
 
 *Extent: E+W*
 
@@ -191,4 +191,4 @@ After regulation E2 insert—
 
 ## Annotations
 
-[^key-a1e24c1fddce5e48fb95615702320b41]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-a1e24c1fddce5e48fb95615702320b41]: Commencement: Reg. 11 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Power of appellate courts in Northern Ireland to suspend disqualification[^key-bd632e8013ce572e9bc7a2ad42332e0d]
+## 62. Power of appellate courts in Northern Ireland to suspend disqualification[^c-bd632e8013ce572e9bc7a2ad42332e0d]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) Where the person makes an application in respect of the decision of the court under Article 146 of the Magistrates' Courts (Northern Ireland) Order 1981 (S.I. 1981/ 1675 (N.I. 26)) (statement of case), the Court of Appeal may, if it thinks fit, suspend the disqualification.
 
-(4) Where the person has appealed, or applied for leave to appeal, to the Supreme Court[^key-655961aa703bcdfc0c480195657614ae] under section 41 of the Judicature (Northern Ireland) Act 1978 (c. 23) from any decision of the Court of Appeal which is material to the disqualification, the Court of Appeal may, if it thinks fit, suspend the disqualification.
+(4) Where the person has appealed, or applied for leave to appeal, to the Supreme Court[^c-655961aa703bcdfc0c480195657614ae] under section 41 of the Judicature (Northern Ireland) Act 1978 (c. 23) from any decision of the Court of Appeal which is material to the disqualification, the Court of Appeal may, if it thinks fit, suspend the disqualification.
 
 (5) Any power of a court under this section to suspend the disqualification is a power to do so on such terms as the court thinks fit.
 
@@ -41,6 +41,6 @@ as the Department may determine.
 
 ## Annotations
 
-[^key-bd632e8013ce572e9bc7a2ad42332e0d]: Commencement: S. 62 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)
+[^c-bd632e8013ce572e9bc7a2ad42332e0d]: Commencement: S. 62 in force at 28.1.2010 for specified purposes by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/4)
 
-[^key-655961aa703bcdfc0c480195657614ae]: Textual amendment: Words in s. 62(4) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 79](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/79); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-655961aa703bcdfc0c480195657614ae]: Textual amendment: Words in s. 62(4) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 9 para. 79](https://www.legislation.gov.uk/ukpga/2005/4/schedule/9/paragraph/79); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Custody of certificate[^key-82c4920a9cda913dba9cf800108b06d1][^key-9fc227c0371623a6b9c93434a41a7451]
+## 109. Custody of certificate[^c-82c4920a9cda913dba9cf800108b06d1][^c-9fc227c0371623a6b9c93434a41a7451]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-82c4920a9cda913dba9cf800108b06d1]: Commencement: [Reg. 109](https://www.legislation.gov.uk/uksi/1993/3138/regulation/109) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
+[^c-82c4920a9cda913dba9cf800108b06d1]: Commencement: [Reg. 109](https://www.legislation.gov.uk/uksi/1993/3138/regulation/109) in force at 21.3.1994, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1993/3138/regulation/1/1)
 
-[^key-9fc227c0371623a6b9c93434a41a7451]: Modification: [Reg. 109](https://www.legislation.gov.uk/uksi/1993/3138/regulation/109) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2)
+[^c-9fc227c0371623a6b9c93434a41a7451]: Modification: [Reg. 109](https://www.legislation.gov.uk/uksi/1993/3138/regulation/109) applied (with modifications) (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [art. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [Sch. 1 paras. 1](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/1), [2](https://www.legislation.gov.uk/uksi/2023/35/schedule/1/paragraph/2)

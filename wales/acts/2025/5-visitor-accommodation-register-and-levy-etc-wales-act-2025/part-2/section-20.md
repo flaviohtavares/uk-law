@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Payment of penalties[^key-b90050c9a4a3dea50599811f1bb2091f]
+## 20. Payment of penalties[^c-b90050c9a4a3dea50599811f1bb2091f]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A penalty under this Part must be paid before the end of the period of 30 days b
 
 ## Annotations
 
-[^key-b90050c9a4a3dea50599811f1bb2091f]: Commencement: S. 20 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)
+[^c-b90050c9a4a3dea50599811f1bb2091f]: Commencement: S. 20 not in force at Royal Assent, see [s. 67(2)](https://www.legislation.gov.uk/asc/2025/5/section/67/2)

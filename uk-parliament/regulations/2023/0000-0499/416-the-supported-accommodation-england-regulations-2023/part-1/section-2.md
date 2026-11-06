@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-0c1381189f2590d0848adbbe5356e20c]
+## 2. Interpretation[^c-0c1381189f2590d0848adbbe5356e20c]
 
 *Extent: E+W*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0c1381189f2590d0848adbbe5356e20c]: Commencement: Reg. 2 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
+[^c-0c1381189f2590d0848adbbe5356e20c]: Commencement: Reg. 2 in force at 28.4.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/416/regulation/1/2)
 
 [^f00003]: Footnote: [S.I. 2022/808](https://www.legislation.gov.uk/uksi/2022/808).
 

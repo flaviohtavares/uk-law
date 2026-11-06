@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 450. Other persons: payments ineligible for relief[^key-5482fe0d7f1984ff59c99c97875e3630]
+## 450. Other persons: payments ineligible for relief[^c-5482fe0d7f1984ff59c99c97875e3630]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ the payment, or the part concerned, is ineligible for relief.
 
 ## Annotations
 
-[^key-5482fe0d7f1984ff59c99c97875e3630]: Modification: S. 450 applied (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [19(2)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/19/2)
+[^c-5482fe0d7f1984ff59c99c97875e3630]: Modification: S. 450 applied (6.4.2014) by [The Unauthorised Unit Trusts (Tax) Regulations 2013 (S.I. 2013/2819)](https://www.legislation.gov.uk/uksi/2013/2819), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/1/3), [19(2)](https://www.legislation.gov.uk/uksi/2013/2819/regulation/19/2)

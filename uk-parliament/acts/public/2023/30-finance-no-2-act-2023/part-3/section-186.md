@@ -25,7 +25,7 @@ summary: ''
 - (a) is calculated on the basis of a tax rate of less than 15%, and
 - (b) is attributable to an accounting period in which the member’s adjusted profits were a loss.
 
-(2)[^key-891be7f8ca041291c9a1e66ce43a9b6d] But this section only applies in relation to a deferred tax asset of the member falling within subsection (1) if the filing member accounts for all such assets of the member in accordance with this section in an information return submitted to HMRC or a qualifying authority (see paragraph 10(5) of Schedule 14).
+(2)[^c-891be7f8ca041291c9a1e66ce43a9b6d] But this section only applies in relation to a deferred tax asset of the member falling within subsection (1) if the filing member accounts for all such assets of the member in accordance with this section in an information return submitted to HMRC or a qualifying authority (see paragraph 10(5) of Schedule 14).
 
 (3) Subsection (4) applies where the loss for the accounting period upon which the value of that asset was calculated does not exceed the loss established on determining the member’s adjusted profits for that period.
 
@@ -37,10 +37,10 @@ summary: ''
 
 (7) The “relevant part” of the asset means so much of the asset derived from an amount of loss that does not exceed the loss established on determining the member’s adjusted profits.
 
-(8)[^key-3a4d655033a4d422f830a933ed19856d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-3a4d655033a4d422f830a933ed19856d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-891be7f8ca041291c9a1e66ce43a9b6d]: Textual amendment: [S. 186(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/186/2) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 51(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/51/2/a)
+[^c-891be7f8ca041291c9a1e66ce43a9b6d]: Textual amendment: [S. 186(2)](https://www.legislation.gov.uk/ukpga/2023/30/section/186/2) substituted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 51(2)(a)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/51/2/a)
 
-[^key-3a4d655033a4d422f830a933ed19856d]: Textual amendment: [S. 186(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/186/8) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 51(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/51/2/b)
+[^c-3a4d655033a4d422f830a933ed19856d]: Textual amendment: [S. 186(8)](https://www.legislation.gov.uk/ukpga/2023/30/section/186/8) omitted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by virtue of [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 51(2)(b)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/51/2/b)

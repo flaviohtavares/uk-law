@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Scheme employment[^key-895a68052f1262cc20d24f7aac1789fb]
+## 6. Scheme employment[^c-895a68052f1262cc20d24f7aac1789fb]
 
 *Extent: S*
 
@@ -27,10 +27,10 @@ summary: ''
 - (a) resolving operational incidents; or
 - (b) leading and supporting others in the resolution of operational incidents.
 
-(3)[^key-d184aad1cbd144a432442c8498805b81] A person who is a member of the 1992 Scheme or of the NFPS satisfies the requirement in this paragraph.
+(3)[^c-d184aad1cbd144a432442c8498805b81] A person who is a member of the 1992 Scheme or of the NFPS satisfies the requirement in this paragraph.
 
 ## Annotations
 
-[^key-895a68052f1262cc20d24f7aac1789fb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/19/regulation/6) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
+[^c-895a68052f1262cc20d24f7aac1789fb]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2015/19/regulation/6) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2015/19/regulation/1/2)
 
-[^key-d184aad1cbd144a432442c8498805b81]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/ssi/2015/19/regulation/6/3) substituted (1.4.2015) by [The Firefighters' Pension Schemes (Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/141)](https://www.legislation.gov.uk/ssi/2015/141), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/141/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2015/141/regulation/5)
+[^c-d184aad1cbd144a432442c8498805b81]: Textual amendment: [Reg. 6(3)](https://www.legislation.gov.uk/ssi/2015/19/regulation/6/3) substituted (1.4.2015) by [The Firefighters' Pension Schemes (Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/141)](https://www.legislation.gov.uk/ssi/2015/141), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/141/regulation/1/2), [5](https://www.legislation.gov.uk/ssi/2015/141/regulation/5)

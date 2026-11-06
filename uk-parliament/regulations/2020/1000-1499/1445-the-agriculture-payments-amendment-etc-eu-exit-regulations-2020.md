@@ -48,7 +48,7 @@ In accordance with section 6(5) of the Direct Payments to Farmers (Legislative C
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-f62ee056f7f9b0ce7430591814e45754]
+### 1. Citation and commencement[^c-f62ee056f7f9b0ce7430591814e45754]
 
 (1) These Regulations may be cited as the Agriculture (Payments) (Amendment, etc.) (EU Exit) Regulations 2020.
 
@@ -59,14 +59,14 @@ In accordance with section 6(5) of the Direct Payments to Farmers (Legislative C
 
 ## PART 2 — CAP Horizontal Legislation
 
-### 2. Treatment of CAP Horizontal Legislation[^key-85fa905053f75c19f396bba17cf3d2ee]
+### 2. Treatment of CAP Horizontal Legislation[^c-85fa905053f75c19f396bba17cf3d2ee]
 
 (1) On IP completion day, each of the Regulations listed in paragraph (2) is to be treated as though section 3 of the European Union (Withdrawal) Act 2018 resulted in that Regulation forming part of domestic law in the form in which it applied on exit day, but—
 
-- (a)[^key-c955c14c83c44079c2b2757adfc504c3] insofar as it applies to the CAP direct payment schemes— *(affected by repeal, see note)*[^key-c955c14c83c44079c2b2757adfc504c3]
-  - (i) excluding any Articles or parts of Articles which were not incorporated by virtue of section 1 of the Direct Payments to Farmers (Legislative Continuity) Act 2020; and *(affected by repeal, see note)*[^key-c955c14c83c44079c2b2757adfc504c3]
-  - (ii (affected by repeal, see note))[^key-c955c14c83c44079c2b2757adfc504c3] insofar as it applies in each constituent nation, amended in accordance with any amendments in force in the constituent nation immediately before IP completion day; *(affected by repeal, see note)*[^key-c955c14c83c44079c2b2757adfc504c3]
-- (b) in all other cases, *(affected by repeal, see note)*[^key-5539266705056d9496f8f992687675ea] amended in accordance with any amendments made to the Regulation as it had effect in EU law by the European Commission or the European Parliament and the Council between exit day and the coming into force of this regulation.
+- (a)[^c-c955c14c83c44079c2b2757adfc504c3] insofar as it applies to the CAP direct payment schemes— *(affected by repeal, see note)*[^c-c955c14c83c44079c2b2757adfc504c3]
+  - (i) excluding any Articles or parts of Articles which were not incorporated by virtue of section 1 of the Direct Payments to Farmers (Legislative Continuity) Act 2020; and *(affected by repeal, see note)*[^c-c955c14c83c44079c2b2757adfc504c3]
+  - (ii (affected by repeal, see note))[^c-c955c14c83c44079c2b2757adfc504c3] insofar as it applies in each constituent nation, amended in accordance with any amendments in force in the constituent nation immediately before IP completion day; *(affected by repeal, see note)*[^c-c955c14c83c44079c2b2757adfc504c3]
+- (b) in all other cases, *(affected by repeal, see note)*[^c-5539266705056d9496f8f992687675ea] amended in accordance with any amendments made to the Regulation as it had effect in EU law by the European Commission or the European Parliament and the Council between exit day and the coming into force of this regulation.
 
 (2) The Regulations referred to in paragraph (1) are—
 
@@ -78,7 +78,7 @@ In accordance with section 6(5) of the Direct Payments to Farmers (Legislative C
 
 (3) In this regulation “**constituent nation**” means England, Wales, Scotland or Northern Ireland, as the case may be.
 
-### 3. The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-6fb9791200b25b149d5ca7b083868542]
+### 3. The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-6fb9791200b25b149d5ca7b083868542]
 
 (1) The Common Agricultural Policy (Financing, Management and Monitoring) (Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c24365441] is amended as follows.
 
@@ -346,15 +346,15 @@ In accordance with section 6(5) of the Direct Payments to Farmers (Legislative C
 
 (12) Omit Part 3.
 
-### 4. The Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-02f4e07eb34668833242cbc4f8395bf9]
+### 4. The Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-02f4e07eb34668833242cbc4f8395bf9]
 
 The Common Agricultural Policy (Financing, Management and Monitoring Supplementary Provisions) (Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c24365491] are amended in accordance with regulations 5 to 9.
 
-### 5.[^key-6bbff43ab47c324c5c0333c102e3f0d7]
+### 5.[^c-6bbff43ab47c324c5c0333c102e3f0d7]
 
 In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direct payments and”.
 
-### 6.[^key-8a1e996d7e0c09cc2b446876cf50d69b]
+### 6.[^c-8a1e996d7e0c09cc2b446876cf50d69b]
 
 (1) Regulation 3 is amended as follows.
 
@@ -380,7 +380,7 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
 
 (8) In paragraph (28), for “Annex 5” substitute “ Annexes 5 and 6 ”.
 
-### 7.[^key-12913628f9fbd95a72da156230ed5a97]
+### 7.[^c-12913628f9fbd95a72da156230ed5a97]
 
 (1) Regulation 4 is amended as follows.
 
@@ -417,7 +417,7 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
 
 .
 
-### 8.[^key-b8371855163c11402baa1362db714e67]
+### 8.[^c-b8371855163c11402baa1362db714e67]
 
 (1) Regulation 5 is amended as follows.
 
@@ -480,25 +480,25 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
 
 .
 
-(7 (Extent: W) (affected by repeal, see note))[^key-cdb0849cc8e3b65b5f5755792545c543] For paragraph (5) substitute— *(Extent: W)* *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]
+(7 (Extent: W) (affected by repeal, see note))[^c-cdb0849cc8e3b65b5f5755792545c543] For paragraph (5) substitute— *(Extent: W)* *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]
 
-> (5 (Extent: W) (affected by repeal, see note))[^key-cdb0849cc8e3b65b5f5755792545c543] In Article 5— *(Extent: W)* *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]
+> (5 (Extent: W) (affected by repeal, see note))[^c-cdb0849cc8e3b65b5f5755792545c543] In Article 5— *(Extent: W)* *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]
 >
-> - (a (Extent: W) (affected by repeal, see note))[^key-cdb0849cc8e3b65b5f5755792545c543] in the first paragraph, omit “direct payment schemes or”; *(Extent: W)* *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]
-> - (b (Extent: W) (affected by repeal, see note))[^key-cdb0849cc8e3b65b5f5755792545c543] in the second paragraph, for “Union or national law” substitute *(Extent: W)* *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543] “ the law applying in the constituent nation ” *(Extent: W)* *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]. *(Extent: W)* *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]
+> - (a (Extent: W) (affected by repeal, see note))[^c-cdb0849cc8e3b65b5f5755792545c543] in the first paragraph, omit “direct payment schemes or”; *(Extent: W)* *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]
+> - (b (Extent: W) (affected by repeal, see note))[^c-cdb0849cc8e3b65b5f5755792545c543] in the second paragraph, for “Union or national law” substitute *(Extent: W)* *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543] “ the law applying in the constituent nation ” *(Extent: W)* *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]. *(Extent: W)* *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]
 
-. *(Extent: W)* *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]
+. *(Extent: W)* *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]
 
-(8) For paragraph (6) substitute— *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]
+(8) For paragraph (6) substitute— *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]
 
-> (6) In Article 6— *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]
+> (6) In Article 6— *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]
 >
-> - (a) omit paragraph 1; *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]
-> - (b) in paragraph 2— *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]
->   - (i) omit the words from “each”, in the first place it occurs, to “and for”; *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]
->   - (ii (affected by repeal, see note))[^key-cdb0849cc8e3b65b5f5755792545c543] omit point (f); *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]
-> - (c) omit paragraph 3; *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543]
-> - (d) in paragraph 4, for “paragraph 3” substitute *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543] “ paragraph 2 ” *(affected by repeal, see note)*[^key-cdb0849cc8e3b65b5f5755792545c543].
+> - (a) omit paragraph 1; *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]
+> - (b) in paragraph 2— *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]
+>   - (i) omit the words from “each”, in the first place it occurs, to “and for”; *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]
+>   - (ii (affected by repeal, see note))[^c-cdb0849cc8e3b65b5f5755792545c543] omit point (f); *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]
+> - (c) omit paragraph 3; *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543]
+> - (d) in paragraph 4, for “paragraph 3” substitute *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543] “ paragraph 2 ” *(affected by repeal, see note)*[^c-cdb0849cc8e3b65b5f5755792545c543].
 
 .
 
@@ -863,76 +863,76 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
 
 .
 
-(31 (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] For paragraph (51) substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+(31 (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] For paragraph (51) substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-> (51 (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] In Article 64— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+> (51 (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] In Article 64— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 >
-> - (a (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] in point (a), omit “national”; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
-> - (b (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] in point (d), omit the words from “and the maintenance of permanent pasture” to the end. *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+> - (a (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] in point (a), omit “national”; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+> - (b (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] in point (d), omit the words from “and the maintenance of permanent pasture” to the end. *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-(32 (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] In paragraph (54), for sub-paragraph (a) substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+(32 (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] In paragraph (54), for sub-paragraph (a) substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-> - (a (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] in paragraph 1— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
->   - (i (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] for the first subparagraph substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+> - (a (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] in paragraph 1— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+>   - (i (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] for the first subparagraph substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 >
->     > **1 (Extent: E) (affected by repeal, see note).[^key-044de142b9d94eedd8a0255996477e1f]**
+>     > **1 (Extent: E) (affected by repeal, see note).[^c-044de142b9d94eedd8a0255996477e1f]**
 >     >
->     > The competent control authority shall, with regard to the requirements and standards for which it is responsible, carry out on-the-spot checks on at least 1% of the total number of the beneficiaries receiving annual premia referred to in Article 92 of Regulation (EU) No 1306/2013 and the other beneficiaries receiving direct payment support. *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+>     > The competent control authority shall, with regard to the requirements and standards for which it is responsible, carry out on-the-spot checks on at least 1% of the total number of the beneficiaries receiving annual premia referred to in Article 92 of Regulation (EU) No 1306/2013 and the other beneficiaries receiving direct payment support. *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 >
->     ; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
->   - (ii (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] in the fourth subparagraph, for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f] “ the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+>     ; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+>   - (ii (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] in the fourth subparagraph, for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f] “ the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-(33 (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] For paragraph (55) substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+(33 (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] For paragraph (55) substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-> (55 (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] In Article 69— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+> (55 (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] In Article 69— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 >
-> - (a (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] in paragraph 1, in the third subparagraph, for “A Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f] “ The relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
-> - (b (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] in paragraph 5, omit the last sentence; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
-> - (c (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] for paragraph 6 substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+> - (a (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] in paragraph 1, in the third subparagraph, for “A Member State” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f] “ The relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+> - (b (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] in paragraph 5, omit the last sentence; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+> - (c (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] for paragraph 6 substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 >
->   > **6 (Extent: E) (affected by repeal, see note).[^key-044de142b9d94eedd8a0255996477e1f]**
+>   > **6 (Extent: E) (affected by repeal, see note).[^c-044de142b9d94eedd8a0255996477e1f]**
 >   >
->   > By way of derogation from Article 68(1), the samples of beneficiaries to be checked on the spot may be selected at the minimum rate of 1% of the beneficiaries receiving annual premia under Article 21(1)(a) and (b) and Articles 28 to 31, 33 and 34 of Regulation (EU) No 1305/2013. *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+>   > By way of derogation from Article 68(1), the samples of beneficiaries to be checked on the spot may be selected at the minimum rate of 1% of the beneficiaries receiving annual premia under Article 21(1)(a) and (b) and Articles 28 to 31, 33 and 34 of Regulation (EU) No 1305/2013. *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 >
->   ; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+>   ; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-(34 (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] After paragraph (55) insert— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+(34 (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] After paragraph (55) insert— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-> (55A (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] In Article 70a, in paragraph 3— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+> (55A (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] In Article 70a, in paragraph 3— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 >
-> - (a (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] omit “direct payment schemes,”; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
-> - (b (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] for “Articles 30, 31, 32 and 68 for on-the-spot checks of direct payments schemes,” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f] “ Articles 32 and 68 for on-the-spot checks of ” *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]. *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+> - (a (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] omit “direct payment schemes,”; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+> - (b (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] for “Articles 30, 31, 32 and 68 for on-the-spot checks of direct payments schemes,” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f] “ Articles 32 and 68 for on-the-spot checks of ” *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]. *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 >
-> (55B (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] Omit Article 70b. *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+> (55B (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] Omit Article 70b. *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-(35 (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] In paragraph (56), after sub-paragraph (d) insert— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+(35 (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] In paragraph (56), after sub-paragraph (d) insert— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-> - (e (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] in paragraph 6— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
->   - (i (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] omit “aid applications, and/or”; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
->   - (ii (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] omit the words from “or, as regards to the applications” to the end. *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+> - (e (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] in paragraph 6— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+>   - (i (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] omit “aid applications, and/or”; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+>   - (ii (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] omit the words from “or, as regards to the applications” to the end. *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-. *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+. *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-(36 (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] For paragraph (58) substitute— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+(36 (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] For paragraph (58) substitute— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
-> (58 (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] In Article 73— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+> (58 (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] In Article 73— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 >
-> - (a (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] in paragraph 1— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
->   - (i (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] for the words from “different schemes listed” to “Member States”, in the first place it occurs, substitute *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f] “ measures referred to in Article 21(1)(a) and (b) and Articles 28 to 31, 33 and 34 of Regulation (EU) No 1305/2013, the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
->   - (ii (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] for “Member States”, in the second place it occurs, substitute *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f] “ The relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
-> - (b (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] in paragraph 4— *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
->   - (i (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] in point (a), omit “aid applications or”; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
->   - (ii (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] omit point (b) and the preceding “and/or”; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
->   - (iii (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] omit the second subparagraph; *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
-> - (c (Extent: E) (affected by repeal, see note))[^key-044de142b9d94eedd8a0255996477e1f] in paragraph 5, for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f] “ the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]. *(Extent: E)* *(affected by repeal, see note)*[^key-044de142b9d94eedd8a0255996477e1f]
+> - (a (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] in paragraph 1— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+>   - (i (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] for the words from “different schemes listed” to “Member States”, in the first place it occurs, substitute *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f] “ measures referred to in Article 21(1)(a) and (b) and Articles 28 to 31, 33 and 34 of Regulation (EU) No 1305/2013, the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+>   - (ii (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] for “Member States”, in the second place it occurs, substitute *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f] “ The relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+> - (b (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] in paragraph 4— *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+>   - (i (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] in point (a), omit “aid applications or”; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+>   - (ii (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] omit point (b) and the preceding “and/or”; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+>   - (iii (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] omit the second subparagraph; *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
+> - (c (Extent: E) (affected by repeal, see note))[^c-044de142b9d94eedd8a0255996477e1f] in paragraph 5, for “Member States” substitute *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f] “ the relevant authority ” *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]. *(Extent: E)* *(affected by repeal, see note)*[^c-044de142b9d94eedd8a0255996477e1f]
 
 .
 
@@ -942,7 +942,7 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
 
 .
 
-### 9.[^key-e77c97d3e4b8717ba1436d30539a320f]
+### 9.[^c-e77c97d3e4b8717ba1436d30539a320f]
 
 (1) Regulation 6 is amended as follows.
 
@@ -961,9 +961,9 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
   > - (za) in paragraph 1, in the first subparagraph, omit “in Article 4(1) of Regulation (EU) No 1307/2013 and”;
 
   ;
-- (b)[^key-e8adb4ec6c5b769d6b7932bf5da407fc] in sub-paragraph (a), before paragraph (i) insert— *(affected by repeal, see note)*[^key-e8adb4ec6c5b769d6b7932bf5da407fc]
+- (b)[^c-e8adb4ec6c5b769d6b7932bf5da407fc] in sub-paragraph (a), before paragraph (i) insert— *(affected by repeal, see note)*[^c-e8adb4ec6c5b769d6b7932bf5da407fc]
 
-  > - (ai (affected by repeal, see note))[^key-e8adb4ec6c5b769d6b7932bf5da407fc] in point (1), omit the words from “a farmer” to “that Regulation, *(affected by repeal, see note)*[^key-e8adb4ec6c5b769d6b7932bf5da407fc]
+  > - (ai (affected by repeal, see note))[^c-e8adb4ec6c5b769d6b7932bf5da407fc] in point (1), omit the words from “a farmer” to “that Regulation, *(affected by repeal, see note)*[^c-e8adb4ec6c5b769d6b7932bf5da407fc]
 
   ;
 - (c) after sub-paragraph (a)(iii), insert—
@@ -1196,11 +1196,11 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
 
 .
 
-### 10. The Agriculture (Legislative Functions) (EU Exit) Regulations 2019[^key-138979c7ab3c4eff9e09ecd882fea52f]
+### 10. The Agriculture (Legislative Functions) (EU Exit) Regulations 2019[^c-138979c7ab3c4eff9e09ecd882fea52f]
 
 (1) The Agriculture (Legislative Functions) (EU Exit) Regulations 2019 [^c24365541] are amended as follows.
 
-(2)[^key-af935335c085ef1b668403e4320db506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-af935335c085ef1b668403e4320db506] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In regulation 5, before sub-paragraph (a) insert—
 
@@ -1271,7 +1271,7 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
 
 ## PART 3 — Amendment of subordinate legislation
 
-### 11. The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019[^key-31d5588bd38174fda67416ad0dda8e77]
+### 11. The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019[^c-31d5588bd38174fda67416ad0dda8e77]
 
 (1) The Common Agricultural Policy and Agriculture and Horticulture Development Board (Amendment etc.) (EU Exit) Regulations 2019 [^c24365551] are amended as follows.
 
@@ -1303,7 +1303,7 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
 
 .
 
-### 12. The Rural Development (Amendment) (EU Exit) Regulations 2019[^key-f38425a24bd24c9c05ce2d44faf2a20d]
+### 12. The Rural Development (Amendment) (EU Exit) Regulations 2019[^c-f38425a24bd24c9c05ce2d44faf2a20d]
 
 (1) The Rural Development (Amendment) (EU Exit) Regulations 2019 [^c24365591] are amended as follows.
 
@@ -1344,7 +1344,7 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
 
 .
 
-### 13. The Rural Development (Rules and Decisions) (Amendment) (EU Exit) Regulations 2019[^key-e1582ec4bebc8ec3b7c40cd9bb3e668b]
+### 13. The Rural Development (Rules and Decisions) (Amendment) (EU Exit) Regulations 2019[^c-e1582ec4bebc8ec3b7c40cd9bb3e668b]
 
 (1) The Rural Development (Rules and Decisions) (Amendment) (EU Exit) Regulations 2019 [^c24365601] are amended as follows.
 
@@ -1363,13 +1363,13 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
 
   .
 
-### 14. The European Structural Investment Funds (Common Provisions) (Amendment) (EU Exit) Regulations 2019[^key-856ede658432dc3d30a4069b399891e6]
+### 14. The European Structural Investment Funds (Common Provisions) (Amendment) (EU Exit) Regulations 2019[^c-856ede658432dc3d30a4069b399891e6]
 
 (1) The European Structural Investment Funds (Common Provisions) (Amendment) (EU Exit) Regulations 2019 [^c24365611] is amended as follows.
 
 (2) In regulation 4(2), for “exit day”, in each place it occurs, substitute “ IP completion day ”.
 
-### 15. The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019[^key-34cf238f4b68bd9e4b14a7eac1fa780c]
+### 15. The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019[^c-34cf238f4b68bd9e4b14a7eac1fa780c]
 
 (1) The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 [^c24365621] are amended as follows.
 
@@ -1400,7 +1400,7 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
 
   .
 
-### 16. The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019[^key-29dd342960dcc47d91f5747d7c2123ac]
+### 16. The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019[^c-29dd342960dcc47d91f5747d7c2123ac]
 
 (1) The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 [^c24365631] are amended as follows.
 
@@ -1462,41 +1462,41 @@ In regulation 2, in paragraphs (2), (3)(a)(i) and (8)(a)(iii)(aa), omit “direc
 
 (9) Omit regulation 62.
 
-### 17. The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-88599624f9bc345288e208eaf0fc46d3]
+### 17. The Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-88599624f9bc345288e208eaf0fc46d3]
 
 In the Agriculture (Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c24365641], in regulation 5(13)(a), for “laying down” substitute “ Article 227 ”.
 
-### 18. The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019[^key-17ff681828d6d547fd96a88c0cb77e3a]
+### 18. The Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019[^c-17ff681828d6d547fd96a88c0cb77e3a]
 
 In the Common Agricultural Policy and Common Organisation of the Markets in Agricultural Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 [^c24365651], in regulation 3, omit paragraphs (4)(a) and (5).
 
-### 19. The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019[^key-74d4924dca0f9117fa68d7c2545c079a]
+### 19. The Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No. 2) Regulations 2019[^c-74d4924dca0f9117fa68d7c2545c079a]
 
 In the Common Organisation of the Markets in Agricultural Products and Common Agricultural Policy (Miscellaneous Amendments etc.) (EU Exit) (No.2) Regulations 2019 [^c24365661], in regulation 4(11)(a), in the substituted text, for “ marketing ” substitute “marking”.
 
-## PART 4 — Amendment of retained direct EU legislation[^key-a84dfc39e06c491c9d22fdc205aed490]
+## PART 4 — Amendment of retained direct EU legislation[^c-a84dfc39e06c491c9d22fdc205aed490]
 
 **No longer in force.**
 
-### 20. Commission Implementing Regulation (EU) No 543/2011[^key-a84dfc39e06c491c9d22fdc205aed490]
+### 20. Commission Implementing Regulation (EU) No 543/2011[^c-a84dfc39e06c491c9d22fdc205aed490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Commission Delegated Regulation (EU) 2017/891[^key-a84dfc39e06c491c9d22fdc205aed490]
+### 21. Commission Delegated Regulation (EU) 2017/891[^c-a84dfc39e06c491c9d22fdc205aed490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Commission Implementing Regulation (EU) 2017/892[^key-a84dfc39e06c491c9d22fdc205aed490]
+### 22. Commission Implementing Regulation (EU) 2017/892[^c-a84dfc39e06c491c9d22fdc205aed490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Commission Implementing Regulation (EU) 2017/1185[^key-a84dfc39e06c491c9d22fdc205aed490]
+### 23. Commission Implementing Regulation (EU) 2017/1185[^c-a84dfc39e06c491c9d22fdc205aed490]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Revocations
 
-### 24. Revocations[^key-0b8063f5ceae050609b508d02c954095]
+### 24. Revocations[^c-0b8063f5ceae050609b508d02c954095]
 
 The following are revoked—
 
@@ -1541,13 +1541,13 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24365381]: Marginal citation: [2020 c. 2](https://www.legislation.gov.uk/ukpga/2020/2).
 
-[^key-f62ee056f7f9b0ce7430591814e45754]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
+[^c-f62ee056f7f9b0ce7430591814e45754]: Commencement: Reg. 1 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
 
-[^key-85fa905053f75c19f396bba17cf3d2ee]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
+[^c-85fa905053f75c19f396bba17cf3d2ee]: Commencement: Reg. 2 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
 
-[^key-c955c14c83c44079c2b2757adfc504c3]: Textual amendment: [Reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/2/1/a) omitted (E.) (1.1.2024) by virtue of [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 10(a)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/10/a)
+[^c-c955c14c83c44079c2b2757adfc504c3]: Textual amendment: [Reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/2/1/a) omitted (E.) (1.1.2024) by virtue of [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 10(a)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/10/a)
 
-[^key-5539266705056d9496f8f992687675ea]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/2/1/b) omitted (E.) (1.1.2024) by virtue of [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 10(b)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/10/b)
+[^c-5539266705056d9496f8f992687675ea]: Textual amendment: Words in [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/2/1/b) omitted (E.) (1.1.2024) by virtue of [The Agriculture (Delinked Payments and Consequential Provisions) (England) Regulations 2023 (S.I. 2023/1430)](https://www.legislation.gov.uk/uksi/2023/1430), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2023/1430/regulation/1/2/a), [Sch. 4 para. 10(b)](https://www.legislation.gov.uk/uksi/2023/1430/schedule/4/paragraph/10/b)
 
 [^c24365391]: Marginal citation: EUR 2013/1306, amended in relation to direct payment schemes by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90) and 576. EUR 2013/1306 is also amended prospectively with effect from IP completion day by [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748) (as amended by [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831)), 763 (as amended by [S.I. 2019/812](https://www.legislation.gov.uk/uksi/2019/812)), 831 and 1402.
 
@@ -1559,7 +1559,7 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24365431]: Marginal citation: EUR 2014/640, amended in relation to direct payment schemes by [S.I. 2020/90](https://www.legislation.gov.uk/uksi/2020/90), in relation to direct payment schemes in England by [S.I. 2020/551](https://www.legislation.gov.uk/uksi/2020/551) and in relation to direct payment schemes in Northern Ireland by [S.R. 2020/94](https://www.legislation.gov.uk/nisr/2020/94). EUR 2014/640 is also amended prospectively with effect from IP completion day by [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765).
 
-[^key-6fb9791200b25b149d5ca7b083868542]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
+[^c-6fb9791200b25b149d5ca7b083868542]: Commencement: Reg. 3 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
 
 [^c24365441]: Marginal citation: [S.I. 2019/763](https://www.legislation.gov.uk/uksi/2019/763); amended by [S.I. 2019/812](https://www.legislation.gov.uk/uksi/2019/812).
 
@@ -1571,41 +1571,41 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24365481]: Marginal citation: EUR 2013/1305, amended prospectively with effect from IP completion day by [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748) and 764.
 
-[^key-02f4e07eb34668833242cbc4f8395bf9]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
+[^c-02f4e07eb34668833242cbc4f8395bf9]: Commencement: Reg. 4 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
 
 [^c24365491]: Marginal citation: [S.I. 2019/765](https://www.legislation.gov.uk/uksi/2019/765); amended by [S.I. 2019/1405](https://www.legislation.gov.uk/uksi/2019/1405).
 
-[^key-6bbff43ab47c324c5c0333c102e3f0d7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1445/regulation/5) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
+[^c-6bbff43ab47c324c5c0333c102e3f0d7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2020/1445/regulation/5) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
 
-[^key-8a1e996d7e0c09cc2b446876cf50d69b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
+[^c-8a1e996d7e0c09cc2b446876cf50d69b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2020/1445/regulation/6) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
 
 [^c24365501]: Marginal citation: The Direct Payments to [Farmers (Legislative Continuity) Act 2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2) incorporated Regulation (EU) 907/2014 with effect from exit day insofar as it relates to direct payment schemes and that Regulation has been amended in relation to direct payment schemes only. Under Article 138 of the withdrawal agreement and s7[A of the European Union (Withdrawal Agreement) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) certain common organisation of the markets and rural development measures committed under the MFF 2014-20 and previous financial perspectives continue to be governed by directly applicable EU law.
 
-[^key-12913628f9fbd95a72da156230ed5a97]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
+[^c-12913628f9fbd95a72da156230ed5a97]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1445/regulation/7) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
 
 [^c24365511]: Marginal citation: The Direct Payments to [Farmers (Legislative Continuity) Act 2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2) incorporated Regulation (EU) 908/2014 with effect from exit day insofar as it relates to direct payment schemes and that Regulation has been amended in relation to direct payment schemes. Under Article 138 of the withdrawal agreement and s7[A of the European Union (Withdrawal Agreement) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) certain common organisation of the markets and rural development measures committed under the MFF 2014-20 and previous financial perspectives continue to be governed by directly applicable EU law.
 
-[^key-b8371855163c11402baa1362db714e67]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
+[^c-b8371855163c11402baa1362db714e67]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
 
 [^c24365521]: Marginal citation: The Direct Payments to [Farmers (Legislative Continuity) Act 2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2) incorporated Regulation (EU) 809/2014 with effect from exit day insofar as it relates to direct payment schemes and that Regulation has been amended in relation to direct payment schemes. Under Article 138 of the withdrawal agreement and s7[A of the European Union (Withdrawal Agreement) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) certain common organisation of the markets and rural development measures committed under the MFF 2014-20 and previous financial perspectives continue to be governed by directly applicable EU law.
 
-[^key-cdb0849cc8e3b65b5f5755792545c543]: Textual amendment: [Reg. 8(7)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/7)[(8)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/8) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-cdb0849cc8e3b65b5f5755792545c543]: Textual amendment: [Reg. 8(7)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/7)[(8)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/8) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-044de142b9d94eedd8a0255996477e1f]: Textual amendment: [Reg. 8(31)-(36)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/31) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-044de142b9d94eedd8a0255996477e1f]: Textual amendment: [Reg. 8(31)-(36)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/8/31) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-e77c97d3e4b8717ba1436d30539a320f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
+[^c-e77c97d3e4b8717ba1436d30539a320f]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9) in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
 
 [^c24365531]: Marginal citation: The Direct Payments to [Farmers (Legislative Continuity) Act 2020 (c. 2)](https://www.legislation.gov.uk/ukpga/2020/2) incorporated Regulation (EU) 640/2014 with effect from exit day insofar as it relates to direct payment schemes and the Regulation has subsequently been amended in relation to direct payment schemes. Under Article 138 of the withdrawal agreement and s7[A of the European Union (Withdrawal Agreement) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) certain common organisation of the markets and rural development measures committed under the MFF 2014-20 and previous financial perspectives continue to be governed by directly applicable EU law.
 
-[^key-e8adb4ec6c5b769d6b7932bf5da407fc]: Textual amendment: [Reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/4/b) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
+[^c-e8adb4ec6c5b769d6b7932bf5da407fc]: Textual amendment: [Reg. 9(4)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/9/4/b) revoked (E.) (1.1.2024) by [The Agriculture (Removal of Cross-Compliance and Miscellaneous Revocations and Amendments, etc.) (England) Regulations 2023 (S.I. 2023/816)](https://www.legislation.gov.uk/uksi/2023/816), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/816/regulation/1/1), [Sch. Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/1/paragraph/1) Table 2 (with [Sch. Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2023/816/schedule/part/2/paragraph/2))
 
-[^key-138979c7ab3c4eff9e09ecd882fea52f]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
+[^c-138979c7ab3c4eff9e09ecd882fea52f]: Commencement: Reg. 10 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
 
 [^c24365541]: Marginal citation: [S.I. 2019/748](https://www.legislation.gov.uk/uksi/2019/748), as amended by [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831).
 
-[^key-af935335c085ef1b668403e4320db506]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/2) revoked (26.2.2022) by [The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190)](https://www.legislation.gov.uk/uksi/2022/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2022/190/regulation/25)
+[^c-af935335c085ef1b668403e4320db506]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/10/2) revoked (26.2.2022) by [The Waste and Agriculture (Legislative Functions) Regulations 2022 (S.I. 2022/190)](https://www.legislation.gov.uk/uksi/2022/190), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/190/regulation/1/1), [25](https://www.legislation.gov.uk/uksi/2022/190/regulation/25)
 
-[^key-31d5588bd38174fda67416ad0dda8e77]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
+[^c-31d5588bd38174fda67416ad0dda8e77]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
 
 [^c24365551]: Marginal citation: [S.I. 2019/733](https://www.legislation.gov.uk/uksi/2019/733).
 
@@ -1615,41 +1615,41 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c24365581]: Marginal citation: [S.I. 2014/3260](https://www.legislation.gov.uk/uksi/2014/3260), amended by [S.I. 2019/733](https://www.legislation.gov.uk/uksi/2019/733).
 
-[^key-f38425a24bd24c9c05ce2d44faf2a20d]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
+[^c-f38425a24bd24c9c05ce2d44faf2a20d]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
 
 [^c24365591]: Marginal citation: [S.I. 2019/764](https://www.legislation.gov.uk/uksi/2019/764).
 
-[^key-e1582ec4bebc8ec3b7c40cd9bb3e668b]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
+[^c-e1582ec4bebc8ec3b7c40cd9bb3e668b]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
 
 [^c24365601]: Marginal citation: [S.I. 2019/770](https://www.legislation.gov.uk/uksi/2019/770).
 
-[^key-856ede658432dc3d30a4069b399891e6]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
+[^c-856ede658432dc3d30a4069b399891e6]: Commencement: Reg. 14 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
 
 [^c24365611]: Marginal citation: [S.I. 2019/785](https://www.legislation.gov.uk/uksi/2019/785).
 
-[^key-34cf238f4b68bd9e4b14a7eac1fa780c]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
+[^c-34cf238f4b68bd9e4b14a7eac1fa780c]: Commencement: Reg. 15 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
 
 [^c24365621]: Marginal citation: [S.I. 2019/823](https://www.legislation.gov.uk/uksi/2019/823).
 
-[^key-29dd342960dcc47d91f5747d7c2123ac]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
+[^c-29dd342960dcc47d91f5747d7c2123ac]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
 
 [^c24365631]: Marginal citation: [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831).
 
-[^key-88599624f9bc345288e208eaf0fc46d3]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
+[^c-88599624f9bc345288e208eaf0fc46d3]: Commencement: Reg. 17 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
 
 [^c24365641]: Marginal citation: SI. 2019/1402.
 
-[^key-17ff681828d6d547fd96a88c0cb77e3a]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
+[^c-17ff681828d6d547fd96a88c0cb77e3a]: Commencement: Reg. 18 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
 
 [^c24365651]: Marginal citation: [S.I. 2019/1405](https://www.legislation.gov.uk/uksi/2019/1405).
 
-[^key-74d4924dca0f9117fa68d7c2545c079a]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
+[^c-74d4924dca0f9117fa68d7c2545c079a]: Commencement: Reg. 19 in force at 31.12.2020 on IP completion day, see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a)
 
 [^c24365661]: Marginal citation: [S.I. 2019/1422](https://www.legislation.gov.uk/uksi/2019/1422).
 
-[^key-a84dfc39e06c491c9d22fdc205aed490]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1445/part/4) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/a)
+[^c-a84dfc39e06c491c9d22fdc205aed490]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1445/part/4) revoked (25.6.2021) by [The Common Organisation of the Markets in Agricultural Products (Fruit and Vegetable Producer Organisations, Tariff Quotas and Wine) (Amendment etc.) Regulations 2021 (S.I. 2021/756)](https://www.legislation.gov.uk/uksi/2021/756), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/756/regulation/1/2), [7(a)](https://www.legislation.gov.uk/uksi/2021/756/regulation/7/a)
 
-[^key-0b8063f5ceae050609b508d02c954095]: Commencement: Reg. 24 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
+[^c-0b8063f5ceae050609b508d02c954095]: Commencement: Reg. 24 in force at 31.12.2020 immediately before IP completion day, see [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/b)
 
 [^c24365861]: Marginal citation: [S.I. 2019/207](https://www.legislation.gov.uk/uksi/2019/207), amended by [S.I. 2019/759](https://www.legislation.gov.uk/uksi/2019/759), 812.
 

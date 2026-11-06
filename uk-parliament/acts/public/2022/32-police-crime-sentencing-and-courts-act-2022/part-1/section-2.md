@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Increase in penalty for assault on emergency worker[^key-11b4ce19ab538be1bdff32a9ff5b2bd3]
+## 2. Increase in penalty for assault on emergency worker[^c-11b4ce19ab538be1bdff32a9ff5b2bd3]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11b4ce19ab538be1bdff32a9ff5b2bd3]: Commencement: S. 2 in force at 28.6.2022, see [s. 208(5)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/a)
+[^c-11b4ce19ab538be1bdff32a9ff5b2bd3]: Commencement: S. 2 in force at 28.6.2022, see [s. 208(5)(a)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/a)

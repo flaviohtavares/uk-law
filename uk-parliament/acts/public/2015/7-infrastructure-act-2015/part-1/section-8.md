@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Exercise of delegated functions[^key-97c1a87bd2acaad0a1c95967ab25607b]
+## 8. Exercise of delegated functions[^c-97c1a87bd2acaad0a1c95967ab25607b]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-97c1a87bd2acaad0a1c95967ab25607b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2015/7/section/8) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-97c1a87bd2acaad0a1c95967ab25607b]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2015/7/section/8) in force at 5.3.2015 by [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-e006882318b91ffb3af36651629242e2] A credit union must, on demand, give a copy of its registered rules—
+(1)[^c-e006882318b91ffb3af36651629242e2] A credit union must, on demand, give a copy of its registered rules—
 
 - (a) free of charge to any member of the credit union who has not previously been given a copy of those rules;
 - (b) to any other person upon payment of such fee (not exceeding £5) as the credit union may determine.
@@ -36,4 +36,4 @@ he shall be guilty of an offence and shall be liable on summary conviction to a 
 
 ## Annotations
 
-[^key-e006882318b91ffb3af36651629242e2]: Textual amendment: Art. 12(1)-(1A) substituted for art. 12(1) (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 5](https://www.legislation.gov.uk/nia/2016/16/section/5), [17](https://www.legislation.gov.uk/nia/2016/16/section/17)
+[^c-e006882318b91ffb3af36651629242e2]: Textual amendment: Art. 12(1)-(1A) substituted for art. 12(1) (23.4.2016) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [ss. 5](https://www.legislation.gov.uk/nia/2016/16/section/5), [17](https://www.legislation.gov.uk/nia/2016/16/section/17)

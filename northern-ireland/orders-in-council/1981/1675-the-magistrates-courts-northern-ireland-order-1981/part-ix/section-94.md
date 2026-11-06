@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 94. Supervision of person under twenty-one until payment of sum adjudged to be paid by a conviction[^key-bfb2c0991a44c0735fded10593973158]
+## 94. Supervision of person under twenty-one until payment of sum adjudged to be paid by a conviction[^c-bfb2c0991a44c0735fded10593973158]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bfb2c0991a44c0735fded10593973158]: Textual amendment: [Art. 94](https://www.legislation.gov.uk/nisi/1981/1675/article/94) repealed (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 30(11)](https://www.legislation.gov.uk/nia/2016/21/section/30/11), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2) (with [s. 30(12)](https://www.legislation.gov.uk/nia/2016/21/section/30/12)); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-bfb2c0991a44c0735fded10593973158]: Textual amendment: [Art. 94](https://www.legislation.gov.uk/nisi/1981/1675/article/94) repealed (1.6.2018) by [Justice Act (Northern Ireland) 2016 (c. 21)](https://www.legislation.gov.uk/nia/2016/21), [ss. 30(11)](https://www.legislation.gov.uk/nia/2016/21/section/30/11), [61(2)](https://www.legislation.gov.uk/nia/2016/21/section/61/2) (with [s. 30(12)](https://www.legislation.gov.uk/nia/2016/21/section/30/12)); [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

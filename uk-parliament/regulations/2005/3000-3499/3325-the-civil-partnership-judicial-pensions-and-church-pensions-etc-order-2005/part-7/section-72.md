@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**72.**[^key-669c6b5856781d6ef9b0ada37f736f52] (1) Section 8 (rate of children’s pension) is amended as follows.
+**72.**[^c-669c6b5856781d6ef9b0ada37f736f52] (1) Section 8 (rate of children’s pension) is amended as follows.
 
 (2) In subsection (1), after “surviving spouse” insert “or surviving civil partner”.
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-669c6b5856781d6ef9b0ada37f736f52]: Commencement: Art. 72 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-669c6b5856781d6ef9b0ada37f736f52]: Commencement: Art. 72 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

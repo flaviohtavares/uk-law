@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Meaning of core functions[^key-33926c5aa2a4155d782ee2d445ab35a7]
+## 26. Meaning of core functions[^c-33926c5aa2a4155d782ee2d445ab35a7]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In section 70 (interpretation) of the 2002 Act, for subsection (2) there is subs
 
 ## Annotations
 
-[^key-33926c5aa2a4155d782ee2d445ab35a7]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2013/5/section/26) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)
+[^c-33926c5aa2a4155d782ee2d445ab35a7]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2013/5/section/26) in force at 21.12.2013 by [S.S.I. 2013/342](https://www.legislation.gov.uk/ssi/2013/342), [art. 2(a)](https://www.legislation.gov.uk/ssi/2013/342/article/2/a)

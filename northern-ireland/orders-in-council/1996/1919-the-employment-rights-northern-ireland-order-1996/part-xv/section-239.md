@@ -27,11 +27,11 @@ summary: ''
 - (a) Part II;
 - (b) Chapters[^c17628011] II and III of Part VI;
 - (c) Articles 92 to 95;
-- (d) Articles 221 to 222[^key-c898d383551f159aaee7ab0524707d24] .
+- (d) Articles 221 to 222[^c-c898d383551f159aaee7ab0524707d24] .
 
 (3) Chapters II and III of Part VI do not apply to employment where under his contract personally to do work or perform services a worker who is not an employee works outside Northern Ireland.
 
-(4)[^key-7c3a7b40e403c5b36b80f6ae19539f0e] For the purposes of paragraph (1) as it relates to Articles 221 to 222, employment on board a ship registered in the United Kingdom is to be treated as employment where under his contract a person ordinarily works in Northern Ireland.
+(4)[^c-7c3a7b40e403c5b36b80f6ae19539f0e] For the purposes of paragraph (1) as it relates to Articles 221 to 222, employment on board a ship registered in the United Kingdom is to be treated as employment where under his contract a person ordinarily works in Northern Ireland.
 
 ## Annotations
 
@@ -39,6 +39,6 @@ summary: ''
 
 [^c17628011]: Textual amendment: [2004 NI 19](https://www.legislation.gov.uk/nisi/2004)
 
-[^key-c898d383551f159aaee7ab0524707d24]: Textual amendment: Words in [art. 239(2)(d)](https://www.legislation.gov.uk/nisi/1996/1919/article/239/2/d) substituted (26.1.2020) by [The Seafarers (Collective Redundancies, Information and Consultation and Insolvency Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/12)](https://www.legislation.gov.uk/nisr/2020/12), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/12/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2020/12/regulation/3/3/a) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2020/12/regulation/3/5))
+[^c-c898d383551f159aaee7ab0524707d24]: Textual amendment: Words in [art. 239(2)(d)](https://www.legislation.gov.uk/nisi/1996/1919/article/239/2/d) substituted (26.1.2020) by [The Seafarers (Collective Redundancies, Information and Consultation and Insolvency Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/12)](https://www.legislation.gov.uk/nisr/2020/12), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/12/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/nisr/2020/12/regulation/3/3/a) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2020/12/regulation/3/5))
 
-[^key-7c3a7b40e403c5b36b80f6ae19539f0e]: Textual amendment: [Art. 239(4)](https://www.legislation.gov.uk/nisi/1996/1919/article/239/4) inserted (26.1.2020) by [The Seafarers (Collective Redundancies, Information and Consultation and Insolvency Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/12)](https://www.legislation.gov.uk/nisr/2020/12), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/12/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2020/12/regulation/3/3/b) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2020/12/regulation/3/5))
+[^c-7c3a7b40e403c5b36b80f6ae19539f0e]: Textual amendment: [Art. 239(4)](https://www.legislation.gov.uk/nisi/1996/1919/article/239/4) inserted (26.1.2020) by [The Seafarers (Collective Redundancies, Information and Consultation and Insolvency Miscellaneous Amendments) Regulations (Northern Ireland) 2020 (S.R. 2020/12)](https://www.legislation.gov.uk/nisr/2020/12), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/12/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/nisr/2020/12/regulation/3/3/b) (with [reg. 3(5)](https://www.legislation.gov.uk/nisr/2020/12/regulation/3/5))

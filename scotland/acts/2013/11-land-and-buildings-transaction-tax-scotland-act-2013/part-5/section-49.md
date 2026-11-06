@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Partnerships[^key-34e7e8af84745a5d838b7afdbebeea18]
+## 49. Partnerships[^c-34e7e8af84745a5d838b7afdbebeea18]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-34e7e8af84745a5d838b7afdbebeea18]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2013/11/section/49) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)
+[^c-34e7e8af84745a5d838b7afdbebeea18]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2013/11/section/49) in force at 1.4.2015 by [S.S.I. 2015/108](https://www.legislation.gov.uk/ssi/2015/108), [art. 2](https://www.legislation.gov.uk/ssi/2015/108/article/2)

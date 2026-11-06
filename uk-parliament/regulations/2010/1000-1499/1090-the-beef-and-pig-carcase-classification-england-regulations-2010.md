@@ -46,7 +46,7 @@ Coming into force
 
 1st June 2010
 
-[^key-4258cd6cf0e7cc5d1df21b34c3c85721]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4258cd6cf0e7cc5d1df21b34c3c85721]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
@@ -280,4 +280,4 @@ A full impact assessment has been produced and placed in the library of each Hou
 
 ## Annotations
 
-[^key-4258cd6cf0e7cc5d1df21b34c3c85721]: Textual amendment: Reguations revoked (3.12.2018) by [The Carcase Classification and Price Reporting (England) Regulations 2018 (S.I. 2018/1164)](https://www.legislation.gov.uk/uksi/2018/1164), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2018/1164/regulation/5/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/1164/regulation/3), [7](https://www.legislation.gov.uk/uksi/2018/1164/regulation/7), [13](https://www.legislation.gov.uk/uksi/2018/1164/regulation/13))
+[^c-4258cd6cf0e7cc5d1df21b34c3c85721]: Textual amendment: Reguations revoked (3.12.2018) by [The Carcase Classification and Price Reporting (England) Regulations 2018 (S.I. 2018/1164)](https://www.legislation.gov.uk/uksi/2018/1164), [reg. 5(a)](https://www.legislation.gov.uk/uksi/2018/1164/regulation/5/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/1164/regulation/3), [7](https://www.legislation.gov.uk/uksi/2018/1164/regulation/7), [13](https://www.legislation.gov.uk/uksi/2018/1164/regulation/13))

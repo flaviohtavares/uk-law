@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Use of Community Infrastructure Levy[^key-ccb37725a07c5b5780955c2715c925ba]
+## 115. Use of Community Infrastructure Levy[^c-ccb37725a07c5b5780955c2715c925ba]
 
 *Extent: E+W*
 
@@ -122,4 +122,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccb37725a07c5b5780955c2715c925ba]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2011/20/section/115) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(g)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/g) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-ccb37725a07c5b5780955c2715c925ba]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2011/20/section/115) in force at 15.1.2012 by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(g)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/g) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))

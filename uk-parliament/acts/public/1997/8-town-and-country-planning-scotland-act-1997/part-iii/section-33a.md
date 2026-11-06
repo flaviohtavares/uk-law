@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33A. Notice requiring application for planning permission for development already carried out[^key-fa0d1d26dd825858e6639f30b6304879]
+## 33A. Notice requiring application for planning permission for development already carried out[^c-fa0d1d26dd825858e6639f30b6304879]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ Where there is a breach of planning control the planning authority may issue a n
 
 ## Annotations
 
-[^key-fa0d1d26dd825858e6639f30b6304879]: Textual amendment: [S. 33A](https://www.legislation.gov.uk/ukpga/1997/8/section/33A) inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 9(1)](https://www.legislation.gov.uk/asp/2006/17/section/9/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)
+[^c-fa0d1d26dd825858e6639f30b6304879]: Textual amendment: [S. 33A](https://www.legislation.gov.uk/ukpga/1997/8/section/33A) inserted (12.12.2008 for specified purposes, 3.8.2009 in so far as not already in force) by [Planning etc. (Scotland) Act 2006 (asp 17)](https://www.legislation.gov.uk/asp/2006/17), [ss. 9(1)](https://www.legislation.gov.uk/asp/2006/17/section/9/1), [59(2)](https://www.legislation.gov.uk/asp/2006/17/section/59/2); [S.S.I. 2008/411](https://www.legislation.gov.uk/ssi/2008/411), [art. 2(2)](https://www.legislation.gov.uk/ssi/2008/411/article/2/2)[(3)(a)](https://www.legislation.gov.uk/ssi/2008/411/article/2/3/a); [S.S.I. 2009/219](https://www.legislation.gov.uk/ssi/2009/219), [art. 2](https://www.legislation.gov.uk/ssi/2009/219/article/2), [sch.](https://www.legislation.gov.uk/ssi/2009/219/schedule)

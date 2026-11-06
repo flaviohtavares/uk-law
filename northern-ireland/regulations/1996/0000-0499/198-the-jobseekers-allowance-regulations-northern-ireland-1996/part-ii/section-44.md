@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 44. Appeals to the Commissioner[^key-46048a2e55cc43f264c8ba41e782b49e]
+## 44. Appeals to the Commissioner[^c-46048a2e55cc43f264c8ba41e782b49e]
 
 *Extent: N.I.*
 
@@ -26,6 +26,6 @@ The Social Security Commissioners Procedure Regulations (Northern Ireland) 1987[
 
 ## Annotations
 
-[^key-46048a2e55cc43f264c8ba41e782b49e]: Commencement: Reg. 44 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
+[^c-46048a2e55cc43f264c8ba41e782b49e]: Commencement: Reg. 44 in operation at 7.10.1996, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1996/198/regulation/1/1)
 
 [^f00045]: Footnote: [S.R. 1987 No. 112](https://www.legislation.gov.uk/nisr/1987/112)

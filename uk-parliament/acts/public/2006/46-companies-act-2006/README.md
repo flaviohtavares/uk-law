@@ -37,11 +37,11 @@ Companies Act 2006
 
 \[8th November 2006\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b5a3204faf6c44a59a51bbc1d5001e02][^key-312d3a63271453d2fec735263296a608][^key-966bbb99899816b89b9ae35e0a0258f1][^key-accb3d68c20380c8c23a7302ef902541][^key-ab05f19aad5613a739f84051ea944322][^key-7901574dcc735063b25709f987d52ed4][^key-ec9d670c802f585d4ea8aa441b3347c1][^key-d2d740d209de7fc4c425c47a2b5d3021][^key-188ddc76d0dd167688b91b7a1c90e5e2][^M_C_9080f9ef-4c79-4c99-8419-8c2354ac19bb][^key-a8988ff0d597b15f2a71f3cc0f54bba4][^key-7814da3b709439863a02dc9e4a1e23ba][^key-0f1dfebd9eb34182489afc23189118bc][^key-bc1811772beb9eb2403c999c75d1a0f7][^key-c75f3b28f5652e56dc8b8b534576b8a1][^key-3787024ae900f0ce9dacfdb8947742d6][^key-0a0974e2a42cde7fd1485a5772747b05][^key-06cff047986dc950da027b94899c74df][^key-3f777c6a061e9b17e5f95c2e2d9d62f8]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b5a3204faf6c44a59a51bbc1d5001e02][^c-312d3a63271453d2fec735263296a608][^c-966bbb99899816b89b9ae35e0a0258f1][^c-accb3d68c20380c8c23a7302ef902541][^c-ab05f19aad5613a739f84051ea944322][^c-7901574dcc735063b25709f987d52ed4][^c-ec9d670c802f585d4ea8aa441b3347c1][^c-d2d740d209de7fc4c425c47a2b5d3021][^c-188ddc76d0dd167688b91b7a1c90e5e2][^M_C_9080f9ef-4c79-4c99-8419-8c2354ac19bb][^c-a8988ff0d597b15f2a71f3cc0f54bba4][^c-7814da3b709439863a02dc9e4a1e23ba][^c-0f1dfebd9eb34182489afc23189118bc][^c-bc1811772beb9eb2403c999c75d1a0f7][^c-c75f3b28f5652e56dc8b8b534576b8a1][^c-3787024ae900f0ce9dacfdb8947742d6][^c-0a0974e2a42cde7fd1485a5772747b05][^c-06cff047986dc950da027b94899c74df][^c-3f777c6a061e9b17e5f95c2e2d9d62f8]
 
 ## Contents
 
-### Part 1 — General introductory provisions[^key-016cd5a86776d76aca52b18fc6b93113][^c21176771]
+### Part 1 — General introductory provisions[^c-016cd5a86776d76aca52b18fc6b93113][^c21176771]
 
 #### Companies and Companies Acts
 
@@ -55,7 +55,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 5 — Companies limited by guarantee and having share capital](part-1/section-5.md)
 - [Section 6 — Community interest companies](part-1/section-6.md)
 
-### Part 2 — Company formation[^key-016cd5a86776d76aca52b18fc6b93113][^c21176791]
+### Part 2 — Company formation[^c-016cd5a86776d76aca52b18fc6b93113][^c21176791]
 
 #### General
 
@@ -81,7 +81,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 15 — Issue of certificate of incorporation](part-2/section-15.md)
 - [Section 16 — Effect of registration](part-2/section-16.md)
 
-### Part 3 — A company's constitution[^key-016cd5a86776d76aca52b18fc6b93113][^c21176801]
+### Part 3 — A company's constitution[^c-016cd5a86776d76aca52b18fc6b93113][^c21176801]
 
 #### Chapter 1 — Introductory
 
@@ -109,7 +109,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 28 — Existing companies: provisions of memorandum treated as provisions of articles](part-3/section-28.md)
 
-#### Chapter 3 — Resolutions and agreements affecting a company's constitution[^c19688321][^c19925461][^key-286f65e56d93bde4877c609742e71562]
+#### Chapter 3 — Resolutions and agreements affecting a company's constitution[^c19688321][^c19925461][^c-286f65e56d93bde4877c609742e71562]
 
 - [Section 29 — Resolutions and agreements affecting a company's constitution](part-3/section-29.md)
 - [Section 30 — Copies of resolutions or agreements to be forwarded to registrar](part-3/section-30.md)
@@ -135,7 +135,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 37 — Right to participate in profits otherwise than as member void](part-3/section-37.md)
 - [Section 38 — Application to single member companies of enactments and rules of law](part-3/section-38.md)
 
-### Part 4 — A company's capacity and related matters[^key-016cd5a86776d76aca52b18fc6b93113][^c21176811]
+### Part 4 — A company's capacity and related matters[^c-016cd5a86776d76aca52b18fc6b93113][^c21176811]
 
 #### Capacity of company and power of directors to bind it
 
@@ -165,7 +165,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 51 — Pre-incorporation contracts, deeds and obligations](part-4/section-51.md)
 - [Section 52 — Bills of exchange and promissory notes](part-4/section-52.md)
 
-### Part 5 — A company's name[^key-8c4d59f7506a518068d0cf35f6f05706][^key-7e48e20bbea5f57c5f17ef82035fe031][^key-016cd5a86776d76aca52b18fc6b93113][^c21176821]
+### Part 5 — A company's name[^c-8c4d59f7506a518068d0cf35f6f05706][^c-7e48e20bbea5f57c5f17ef82035fe031][^c-016cd5a86776d76aca52b18fc6b93113][^c21176821]
 
 *Extent: E+W+S+N.I.*
 
@@ -187,11 +187,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 57 — Permitted characters etc](part-5/section-57.md)
 
-##### Computer code[^key-7f1c912a51d968d42d3ca676960fab84]
+##### Computer code[^c-7f1c912a51d968d42d3ca676960fab84]
 
 - [Section 57A — Names containing computer code](part-5/section-57a.md)
 
-##### Prohibitions where a company has been required to change a name[^key-a8e773878fc0ca74ac627c7eb4007dcd]
+##### Prohibitions where a company has been required to change a name[^c-a8e773878fc0ca74ac627c7eb4007dcd]
 
 - [Section 57B — Prohibition on re-registering name following direction](part-5/section-57b.md)
 - [Section 57C — Name that another company has been directed to change](part-5/section-57c.md)
@@ -231,31 +231,31 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 73 — Order requiring name to be changed](part-5/section-73.md)
 - [Section 74 — Appeal from adjudicator's decision](part-5/section-74.md)
 
-#### Chapter 4 — Other powers of the Secretary of State and the registrar[^key-5b68d08518a1bf96a49c635e65e3ee9a]
+#### Chapter 4 — Other powers of the Secretary of State and the registrar[^c-5b68d08518a1bf96a49c635e65e3ee9a]
 
-##### Provision of misleading information[^key-6e4535cd57f5eeb0a352264616060c34]
+##### Provision of misleading information[^c-6e4535cd57f5eeb0a352264616060c34]
 
 - [Section 75 — Provision of misleading information etc](part-5/section-75.md)
 
-##### Misleading indication of activities and names used for criminal purposes[^key-f53a6fe1eec1cf2ac79bb0e46ef72dd6]
+##### Misleading indication of activities and names used for criminal purposes[^c-f53a6fe1eec1cf2ac79bb0e46ef72dd6]
 
 - [Section 76 — Misleading indication of activities](part-5/section-76.md)
 - [Section 76A — Power to direct change of name used for criminal purposes](part-5/section-76a.md)
 
-##### Direction to change name wrongly registered[^key-47df93587e650ff2a531e87ebb347cbd]
+##### Direction to change name wrongly registered[^c-47df93587e650ff2a531e87ebb347cbd]
 
 - [Section 76B — Direction to change name wrongly registered](part-5/section-76b.md)
 
-##### Registrar’s powers to change names[^key-443cbb696912f17f90fd0e1add866fa5]
+##### Registrar’s powers to change names[^c-443cbb696912f17f90fd0e1add866fa5]
 
 - [Section 76C — Registrar’s power to change name containing computer code](part-5/section-76c.md)
 - [Section 76D — Registrar’s power to change name for failure to comply with direction](part-5/section-76d.md)
 
-#### CHAPTER 4A — Exceptions[^key-0a837ba888140909c28cfdb52088fb9a]
+#### CHAPTER 4A — Exceptions[^c-0a837ba888140909c28cfdb52088fb9a]
 
 - [Section 76E — Exceptions based on national security etc](part-5/section-76e.md)
 
-#### Chapter 5 — Change of name[^key-016cd5a86776d76aca52b18fc6b93113]
+#### Chapter 5 — Change of name[^c-016cd5a86776d76aca52b18fc6b93113]
 
 - [Section 77 — Change of name](part-5/section-77.md)
 - [Section 78 — Change of name by special resolution](part-5/section-78.md)
@@ -270,7 +270,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 84 — Criminal consequences of failure to make required disclosures](part-5/section-84.md)
 - [Section 85 — Minor variations in form of name to be left out of account](part-5/section-85.md)
 
-### Part 6 — A company's registered office and email address[^key-016cd5a86776d76aca52b18fc6b93113][^c21176831][^key-1ddaf0e6b186287c08bfcc3db4932cde]
+### Part 6 — A company's registered office and email address[^c-016cd5a86776d76aca52b18fc6b93113][^c21176831][^c-1ddaf0e6b186287c08bfcc3db4932cde]
 
 #### General
 
@@ -281,12 +281,12 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 88 — Welsh companies](part-6/section-88.md)
 
-#### Registered email address[^key-91553d4e39b9ebcae9a8e37891bcec2e]
+#### Registered email address[^c-91553d4e39b9ebcae9a8e37891bcec2e]
 
 - [Section 88A — Duty to maintain a registered email address](part-6/section-88a.md)
 - [Section 88B — Change of registered email address](part-6/section-88b.md)
 
-### Part 7 — Re-registration as a means of altering a company's status[^key-016cd5a86776d76aca52b18fc6b93113]
+### Part 7 — Re-registration as a means of altering a company's status[^c-016cd5a86776d76aca52b18fc6b93113]
 
 #### Introductory
 
@@ -329,7 +329,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 110 — Application and accompanying documents](part-7/section-110.md)
 - [Section 111 — Issue of certificate of incorporation on re-registration](part-7/section-111.md)
 
-### Part 8 — A company's members[^key-016cd5a86776d76aca52b18fc6b93113][^c21176841]
+### Part 8 — A company's members[^c-016cd5a86776d76aca52b18fc6b93113][^c21176841]
 
 *Extent: E+W+S+N.I.*
 
@@ -341,7 +341,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 #### Chapter 2 — Register of members
 
-##### General (affected by repeal, see note) Duty to keep register[^key-d6e2540cc582d6bc65d3b430a3b33bd8]
+##### General (affected by repeal, see note) Duty to keep register[^c-d6e2540cc582d6bc65d3b430a3b33bd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -357,11 +357,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 113H — Basic false statement offences in connection with sections 113D to 113F](part-8/section-113h.md)
 - [Section 113I — Aggravated false statement offences in connection with sections 113D to 113F](part-8/section-113i.md)
 
-##### Duty to keep index of members[^key-2383461a8656da8b14ab015ce40ce5d0]
+##### Duty to keep index of members[^c-2383461a8656da8b14ab015ce40ce5d0]
 
 - [Section 113J — Index of members](part-8/section-113j.md)
 
-##### Inspection etc of register and index of members[^key-4923e5bca91c109bd8d84bd17bbf101a]
+##### Inspection etc of register and index of members[^c-4923e5bca91c109bd8d84bd17bbf101a]
 
 - [Section 114 — Register to be kept available for inspection](part-8/section-114.md)
 - [Section 115 — Index of members](part-8/section-115.md)
@@ -373,7 +373,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 120A — Power to make regulations protecting material](part-8/section-120a.md)
 - [Section 120B — Offence of failing to comply with regulations under section 120A](part-8/section-120b.md)
 
-##### Removal of entries from register of members[^key-c1514100da7257f6efc0fd4359887981]
+##### Removal of entries from register of members[^c-c1514100da7257f6efc0fd4359887981]
 
 - [Section 121 — Removal of entries relating to former members](part-8/section-121.md)
 
@@ -391,7 +391,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 128 — Time limit for claims arising from entry in register](part-8/section-128.md)
 - [Section 128ZA — Transitional provision where information kept on central register](part-8/section-128za.md)
 
-#### CHAPTER 2A — Option to keep information on central register[^key-1b31cc575fbf3cea5194d3feb194076f]
+#### CHAPTER 2A — Option to keep information on central register[^c-1b31cc575fbf3cea5194d3feb194076f]
 
 **No longer in force.**
 
@@ -417,7 +417,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 134 — Jurisdiction of local courts](part-8/section-134.md)
 - [Section 135 — Discontinuance of overseas branch register](part-8/section-135.md)
 
-#### Chapter 4 — Prohibition on subsidiary being member of its holding company[^key-016cd5a86776d76aca52b18fc6b93113]
+#### Chapter 4 — Prohibition on subsidiary being member of its holding company[^c-016cd5a86776d76aca52b18fc6b93113]
 
 ##### General prohibition
 
@@ -440,7 +440,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 143 — Application of provisions to companies not limited by shares](part-8/section-143.md)
 - [Section 144 — Application of provisions to nominees](part-8/section-144.md)
 
-### Part 9 — Exercise of members' rights[^key-016cd5a86776d76aca52b18fc6b93113][^c21176851]
+### Part 9 — Exercise of members' rights[^c-016cd5a86776d76aca52b18fc6b93113][^c21176851]
 
 #### Effect of provisions in company's articles
 
@@ -460,11 +460,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 152 — Exercise of rights where shares held on behalf of others: exercise in different ways](part-9/section-152.md)
 - [Section 153 — Exercise of rights where shares held on behalf of others: members' requests](part-9/section-153.md)
 
-### Part 10 — A company's directors[^key-016cd5a86776d76aca52b18fc6b93113][^c21176861]
+### Part 10 — A company's directors[^c-016cd5a86776d76aca52b18fc6b93113][^c21176861]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Appointment and removal of directors[^key-016cd5a86776d76aca52b18fc6b93113]
+#### Chapter 1 — Appointment and removal of directors[^c-016cd5a86776d76aca52b18fc6b93113]
 
 *Extent: E+W+S+N.I.*
 
@@ -486,7 +486,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 160 — Appointment of directors of public company to be voted on individually](part-10/section-160.md)
 - [Section 161 — Validity of acts of directors](part-10/section-161.md)
 
-##### ...[^key-26ac7e02cf8a6598c7d6204efcdcaf78]
+##### ...[^c-26ac7e02cf8a6598c7d6204efcdcaf78]
 
 *Extent: E+W+S+N.I.*
 
@@ -509,7 +509,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 167E — Withdrawing the election](part-10/section-167e.md)
 - [Section 167F — Power to extend option to public companies](part-10/section-167f.md)
 
-##### Notification of information about directors[^key-a9f415e9976f1743cf9b438bc3c2e2ac]
+##### Notification of information about directors[^c-a9f415e9976f1743cf9b438bc3c2e2ac]
 
 - [Section 167G — Duty to notify registrar of change in directors](part-10/section-167g.md)
 - [Section 167H — Duty to notify registrar of changes of information](part-10/section-167h.md)
@@ -518,7 +518,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 167K — Required information about a director: corporate directors and firms](part-10/section-167k.md)
 - [Section 167L — Directors: offence of failure to notify of changes](part-10/section-167l.md)
 
-##### Directors: duties relating to ID verification and notification[^key-e23c66feafc3861d6135c9fef4ec9abe]
+##### Directors: duties relating to ID verification and notification[^c-e23c66feafc3861d6135c9fef4ec9abe]
 
 - [Section 167M — Prohibition on director acting unless ID verified](part-10/section-167m.md)
 - [Section 167N — Prohibition on acting unless directorship notified](part-10/section-167n.md)
@@ -619,21 +619,21 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 225 — Cases where approval is required under more than one provision](part-10/section-225.md)
 - [Section 226 — Requirement of consent of Charity Commission: companies that are charities](part-10/section-226.md)
 
-#### CHAPTER 4A — Directors of quoted companies ...: special provision[^key-f3c4339cb80075dc81295f5c317ae996][^key-e6972b1eec87be6bb4569abecb7f907e]
+#### CHAPTER 4A — Directors of quoted companies ...: special provision[^c-f3c4339cb80075dc81295f5c317ae996][^c-e6972b1eec87be6bb4569abecb7f907e]
 
 *Extent: E+W+S+N.I.*
 
-##### Interpretation[^key-f3c4339cb80075dc81295f5c317ae996]
+##### Interpretation[^c-f3c4339cb80075dc81295f5c317ae996]
 
 - [Section 226A — Key definitions](part-10/section-226a.md)
 
-##### Restrictions relating to remuneration or loss of office payments[^key-f3c4339cb80075dc81295f5c317ae996]
+##### Restrictions relating to remuneration or loss of office payments[^c-f3c4339cb80075dc81295f5c317ae996]
 
 - [Section 226B — Remuneration payments](part-10/section-226b.md)
 - [Section 226C — Loss of office payments](part-10/section-226c.md)
 - [Section 226D — Sections 226B and 226C: supplementary](part-10/section-226d.md)
 
-##### Supplementary[^key-f3c4339cb80075dc81295f5c317ae996]
+##### Supplementary[^c-f3c4339cb80075dc81295f5c317ae996]
 
 - [Section 226E — Payments made without approval: civil consequences](part-10/section-226e.md)
 - [Section 226F — Relationship with requirements under Chapter 4](part-10/section-226f.md)
@@ -707,7 +707,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 258 — Power to increase financial limits](part-10/section-258.md)
 - [Section 259 — Transactions under foreign law](part-10/section-259.md)
 
-### Part 11 — Derivative claims and proceedings by members[^key-016cd5a86776d76aca52b18fc6b93113][^c20596951][^c21176871]
+### Part 11 — Derivative claims and proceedings by members[^c-016cd5a86776d76aca52b18fc6b93113][^c20596951][^c21176871]
 
 #### Chapter 1 — Derivative claims in England and Wales or Northern Ireland
 
@@ -725,7 +725,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 268 — Granting of leave](part-11/section-268.md)
 - [Section 269 — Application by member to be substituted for member pursuing derivative proceedings](part-11/section-269.md)
 
-### Part 12 — Company secretaries[^key-016cd5a86776d76aca52b18fc6b93113][^c21176881]
+### Part 12 — Company secretaries[^c-016cd5a86776d76aca52b18fc6b93113][^c21176881]
 
 *Extent: E+W+S+N.I.*
 
@@ -751,7 +751,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 278 — Particulars of secretaries to be registered: corporate secretaries and firms](part-12/section-278.md)
 - [Section 279 — Particulars of secretaries to be registered: power to make regulations](part-12/section-279.md)
 
-#### ...[^key-7be107f375569961c22ca4b81c6b78c7]
+#### ...[^c-7be107f375569961c22ca4b81c6b78c7]
 
 - [Section 279A — Right to make an election](part-12/section-279a.md)
 - [Section 279B — Effective date of election](part-12/section-279b.md)
@@ -760,7 +760,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 279E — Withdrawing the election](part-12/section-279e.md)
 - [Section 279F — Power to extend option to public companies](part-12/section-279f.md)
 
-#### Notification of information about secretaries[^key-941bc19f85a83c9a83cceb128b4bacfc]
+#### Notification of information about secretaries[^c-941bc19f85a83c9a83cceb128b4bacfc]
 
 - [Section 279G — Duty to notify registrar of change in secretary or joint secretary](part-12/section-279g.md)
 - [Section 279H — Duty to notify registrar of changes of information](part-12/section-279h.md)
@@ -770,11 +770,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 279L — Firms all of whose partners are joint secretaries](part-12/section-279l.md)
 - [Section 279M — Secretary or joint secretary: offence of failure to notify of changes](part-12/section-279m.md)
 
-#### Person acting in dual capacity[^key-941bc19f85a83c9a83cceb128b4bacfc]
+#### Person acting in dual capacity[^c-941bc19f85a83c9a83cceb128b4bacfc]
 
 - [Section 280 — Acts done by person in dual capacity](part-12/section-280.md)
 
-### Part 13 — Resolutions and meetings[^key-016cd5a86776d76aca52b18fc6b93113][^key-060fbe922df595816e9e5552acee9a77][^c21176891]
+### Part 13 — Resolutions and meetings[^c-016cd5a86776d76aca52b18fc6b93113][^c-060fbe922df595816e9e5552acee9a77][^c21176891]
 
 #### Chapter 1 — General provisions about resolutions
 
@@ -816,7 +816,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 299 — Publication of written resolution on website](part-13/section-299.md)
 - [Section 300 — Relationship between this Chapter and provisions of company's articles](part-13/section-300.md)
 
-#### Chapter 3 — Resolutions at meetings[^key-060fbe922df595816e9e5552acee9a77]
+#### Chapter 3 — Resolutions at meetings[^c-060fbe922df595816e9e5552acee9a77]
 
 ##### General provisions about resolutions at meetings
 
@@ -954,7 +954,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 360C — Meaning of “traded company”](part-13/section-360c.md)
 - [Section 361 — Meaning of “quoted company”](part-13/section-361.md)
 
-### Part 14 — Control of political donations and expenditure[^key-016cd5a86776d76aca52b18fc6b93113][^c20615201][^c21176901]
+### Part 14 — Control of political donations and expenditure[^c-016cd5a86776d76aca52b18fc6b93113][^c20615201][^c21176901]
 
 #### Introductory
 
@@ -992,7 +992,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 379 — Minor definitions](part-14/section-379.md)
 
-### Part 15 — Accounts and reports[^key-757e16b50d5ab53843c81eee7f45db41][^key-016cd5a86776d76aca52b18fc6b93113][^c19924971][^c19925001][^c20615211][^c21176911]
+### Part 15 — Accounts and reports[^c-757e16b50d5ab53843c81eee7f45db41][^c-016cd5a86776d76aca52b18fc6b93113][^c19924971][^c19925001][^c20615211][^c21176911]
 
 *Extent: E+W+S+N.I.*
 
@@ -1017,7 +1017,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 385 — Quoted and unquoted companies](part-15/section-385.md)
 
-#### Chapter 2 — Accounting records[^key-bb74edde599e941367fda806636ae023]
+#### Chapter 2 — Accounting records[^c-bb74edde599e941367fda806636ae023]
 
 - [Section 386 — Duty to keep accounting records](part-15/section-386.md)
 - [Section 387 — Duty to keep accounting records: offence](part-15/section-387.md)
@@ -1030,7 +1030,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 391 — Accounting reference periods and accounting reference date](part-15/section-391.md)
 - [Section 392 — Alteration of accounting reference date](part-15/section-392.md)
 
-#### Chapter 4 — Annual accounts[^c19925131][^key-e7e9f3163e56da8cc0f68b54574b5002][^key-5ae825c42562b2970c356ed25a77ebcd][^key-1b36097d8d8307af4a7c61fabbe0699a][^key-016cd5a86776d76aca52b18fc6b93113]
+#### Chapter 4 — Annual accounts[^c19925131][^c-e7e9f3163e56da8cc0f68b54574b5002][^c-5ae825c42562b2970c356ed25a77ebcd][^c-1b36097d8d8307af4a7c61fabbe0699a][^c-016cd5a86776d76aca52b18fc6b93113]
 
 *Extent: E+W+S+N.I.*
 
@@ -1050,13 +1050,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 396 — Companies Act individual accounts](part-15/section-396.md)
 - [Section 397 — IAS individual accounts](part-15/section-397.md)
 
-##### ...[^key-3d385ec0f69e3619fdf91b40c1eb0958]
+##### ...[^c-3d385ec0f69e3619fdf91b40c1eb0958]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 398 — Option to prepare group accounts](part-15/section-398.md)
 
-##### Group accounts ...[^key-a29103ae0f5f573e0ea14b930e1e9dfe]
+##### Group accounts ...[^c-a29103ae0f5f573e0ea14b930e1e9dfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -1091,7 +1091,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 414 — Approval and signing of accounts](part-15/section-414.md)
 
-#### CHAPTER   4A — STRATEGIC REPORT[^key-bc472f1eab209e28ccdd03d205cc9047][^key-dad63577b1944f4e84da593288ed18df]
+#### CHAPTER   4A — STRATEGIC REPORT[^c-bc472f1eab209e28ccdd03d205cc9047][^c-dad63577b1944f4e84da593288ed18df]
 
 *Extent: E+W+S+N.I.*
 
@@ -1103,7 +1103,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 414CB — Contents of non-financial and sustainability information statement](part-15/section-414cb.md)
 - [Section 414D — Approval and signing of strategic report](part-15/section-414d.md)
 
-#### Chapter 5 — Directors' report[^c19925151][^key-737d601676830bf673c58aed5f097c21][^key-8f706f30784d8bfae2dfd08655070287]
+#### Chapter 5 — Directors' report[^c19925151][^c-737d601676830bf673c58aed5f097c21][^c-8f706f30784d8bfae2dfd08655070287]
 
 *Extent: E+W+S+N.I.*
 
@@ -1119,7 +1119,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 419 — Approval and signing of directors' report](part-15/section-419.md)
 - [Section 419A — Approval and signing of separate corporate governance statement](part-15/section-419a.md)
 
-#### Chapter 6 — Quoted companies ...: directors' remuneration report[^key-d492dd4a3c60d169ffe366cbc1f156c8]
+#### Chapter 6 — Quoted companies ...: directors' remuneration report[^c-d492dd4a3c60d169ffe366cbc1f156c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -1128,7 +1128,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 422 — Approval and signing of directors' remuneration report](part-15/section-422.md)
 - [Section 422A — Revisions to directors' remuneration policy](part-15/section-422a.md)
 
-#### Chapter 7 — Publication of accounts and reports[^key-b75b0f36b57d06affb4c0ad927691cd6]
+#### Chapter 7 — Publication of accounts and reports[^c-b75b0f36b57d06affb4c0ad927691cd6]
 
 *Extent: E+W+S+N.I.*
 
@@ -1145,7 +1145,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 426 — Option to provide strategic report with supplementary material](part-15/section-426.md)
 - [Section 426A — Supplementary material](part-15/section-426a.md)
 
-##### Section 172(1) statement: requirements as to website publication[^key-979f199e2ce68b9304667512bc634c82]
+##### Section 172(1) statement: requirements as to website publication[^c-979f199e2ce68b9304667512bc634c82]
 
 *Extent: E+W+S+N.I.*
 
@@ -1154,7 +1154,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 428 — Form and contents of summary financial statement: quoted companies](part-15/section-428.md)
 - [Section 429 — Summary financial statements: offences](part-15/section-429.md)
 
-##### Quoted companies ...: requirements as to website publication[^key-4f036bed36d466aa75cf9263f72760b8]
+##### Quoted companies ...: requirements as to website publication[^c-4f036bed36d466aa75cf9263f72760b8]
 
 - [Section 430 — Quoted companies ...: annual accounts and reports to be made available on website](part-15/section-430.md)
 
@@ -1175,7 +1175,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 437 — Public companies: laying of accounts and reports before general meeting](part-15/section-437.md)
 - [Section 438 — Public companies: offence of failure to lay accounts and reports](part-15/section-438.md)
 
-#### Chapter 9 — Quoted companies ...: members' approval of directors' remuneration report[^key-bc6fa95781f12a47842ec8fd461ae61a]
+#### Chapter 9 — Quoted companies ...: members' approval of directors' remuneration report[^c-bc6fa95781f12a47842ec8fd461ae61a]
 
 *Extent: E+W+S+N.I.*
 
@@ -1183,7 +1183,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 439A — Quoted companies ...: members' approval of directors' remuneration policy](part-15/section-439a.md)
 - [Section 440 — Quoted companies ...: offences in connection with procedure for approval](part-15/section-440.md)
 
-#### Chapter 10 — Filing of accounts and reports[^key-757e16b50d5ab53843c81eee7f45db41][^key-016cd5a86776d76aca52b18fc6b93113]
+#### Chapter 10 — Filing of accounts and reports[^c-757e16b50d5ab53843c81eee7f45db41][^c-016cd5a86776d76aca52b18fc6b93113]
 
 *Extent: E+W+S+N.I.*
 
@@ -1223,7 +1223,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 452 — Default in filing accounts and reports: court order](part-15/section-452.md)
 - [Section 453 — Civil penalty for failure to file accounts and reports](part-15/section-453.md)
 
-#### Chapter 11 — Revision of defective accounts and reports[^key-fc9b04c9692cf1e536a8232d83c8fa21][^key-757e16b50d5ab53843c81eee7f45db41]
+#### Chapter 11 — Revision of defective accounts and reports[^c-fc9b04c9692cf1e536a8232d83c8fa21][^c-757e16b50d5ab53843c81eee7f45db41]
 
 *Extent: E+W+S+N.I.*
 
@@ -1260,7 +1260,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 *Extent: E+W+S+N.I.*
 
-##### Liability for false or misleading statements in reports and statements[^key-8b230030809017f941af80f8b6129cc1]
+##### Liability for false or misleading statements in reports and statements[^c-8b230030809017f941af80f8b6129cc1]
 
 - [Section 463 — Liability for false or misleading statements in reports and statements](part-15/section-463.md)
 
@@ -1293,9 +1293,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 473 — Parliamentary procedure for certain regulations under this Part](part-15/section-473.md)
 - [Section 474 — Minor definitions](part-15/section-474.md)
 
-### Part 16 — Audit[^key-5f2738f3a2b559c8eaa09431993f5339][^key-0eb5917805cafee8eeb92a971ee6e740][^key-b8900aa84ea819f26cec19c7ba27df32][^key-016cd5a86776d76aca52b18fc6b93113][^key-bebdc767b03c7719646c45fa40c86559][^key-b9f211d614f9c0e7b885abe7df5ef426][^key-b7eaac3f137628d9c5e84838844a3700][^key-1c1e4479291d57bc084b7b73462dcadd][^key-d26573da92c5814978b31a3236bd78c0][^c21176921]
+### Part 16 — Audit[^c-5f2738f3a2b559c8eaa09431993f5339][^c-0eb5917805cafee8eeb92a971ee6e740][^c-b8900aa84ea819f26cec19c7ba27df32][^c-016cd5a86776d76aca52b18fc6b93113][^c-bebdc767b03c7719646c45fa40c86559][^c-b9f211d614f9c0e7b885abe7df5ef426][^c-b7eaac3f137628d9c5e84838844a3700][^c-1c1e4479291d57bc084b7b73462dcadd][^c-d26573da92c5814978b31a3236bd78c0][^c21176921]
 
-#### Chapter 1 — Requirement for audited accounts[^c19925161][^c19925201][^key-59659ccaa95afb8782c81f1e34d76854][^key-1b36097d8d8307af4a7c61fabbe0699a][^key-016cd5a86776d76aca52b18fc6b93113][^key-45bde77cd8810a924d9f5457b1d4f238][^key-4bf451fa7a5fcc32ba96dcc307ff7401][^key-962da6e101c6b9002697800aaaec89f2][^key-75527e12c49f6b0094b2bf947d08dfda][^key-733e40c175794e2e2a18151e546358b0]
+#### Chapter 1 — Requirement for audited accounts[^c19925161][^c19925201][^c-59659ccaa95afb8782c81f1e34d76854][^c-1b36097d8d8307af4a7c61fabbe0699a][^c-016cd5a86776d76aca52b18fc6b93113][^c-45bde77cd8810a924d9f5457b1d4f238][^c-4bf451fa7a5fcc32ba96dcc307ff7401][^c-962da6e101c6b9002697800aaaec89f2][^c-75527e12c49f6b0094b2bf947d08dfda][^c-733e40c175794e2e2a18151e546358b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -1336,7 +1336,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 484 — General power of amendment by regulations](part-16/section-484.md)
 
-#### Chapter 2 — Appointment of auditors[^key-016cd5a86776d76aca52b18fc6b93113]
+#### Chapter 2 — Appointment of auditors[^c-016cd5a86776d76aca52b18fc6b93113]
 
 *Extent: E+W+S+N.I.*
 
@@ -1377,7 +1377,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 494ZA — The maximum engagement period](part-16/section-494za.md)
 - [Section 494A — Interpretation](part-16/section-494a.md)
 
-#### Chapter 3 — Functions of auditor[^key-016cd5a86776d76aca52b18fc6b93113]
+#### Chapter 3 — Functions of auditor[^c-016cd5a86776d76aca52b18fc6b93113]
 
 *Extent: E+W+S+N.I.*
 
@@ -1416,7 +1416,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 508 — Guidance for regulatory and prosecuting authorities: England, Wales and Northern Ireland](part-16/section-508.md)
 - [Section 509 — Guidance for regulatory authorities: Scotland](part-16/section-509.md)
 
-#### Chapter 4 — Removal, resignation, etc of auditors[^key-7e34c800fcd1b6c8a17ef465e8998c60]
+#### Chapter 4 — Removal, resignation, etc of auditors[^c-7e34c800fcd1b6c8a17ef465e8998c60]
 
 *Extent: E+W+S+N.I.*
 
@@ -1489,11 +1489,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 538 — Disclosure of agreement by company](part-16/section-538.md)
 - [Section 538A — Meaning of “corporate governance statement” etc](part-16/section-538a.md)
 
-#### Chapter 7 — Supplementary provisions[^key-016cd5a86776d76aca52b18fc6b93113]
+#### Chapter 7 — Supplementary provisions[^c-016cd5a86776d76aca52b18fc6b93113]
 
 - [Section 539 — Minor definitions](part-16/section-539.md)
 
-### Part 17 — A company's share capital[^key-016cd5a86776d76aca52b18fc6b93113][^c21176931]
+### Part 17 — A company's share capital[^c-016cd5a86776d76aca52b18fc6b93113][^c21176931]
 
 #### Chapter 1 — Shares and share capital of a company
 
@@ -1540,7 +1540,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 558 — When shares are allotted](part-17/section-558.md)
 - [Section 559 — Provisions about allotment not applicable to shares taken on formation](part-17/section-559.md)
 
-#### Chapter 3 — Allotment of equity securities: existing shareholders' right of pre-emption[^key-3062e25615789502584627c1ac5ac09e]
+#### Chapter 3 — Allotment of equity securities: existing shareholders' right of pre-emption[^c-3062e25615789502584627c1ac5ac09e]
 
 ##### Introductory
 
@@ -1586,7 +1586,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 578 — Public companies: allotment where issue not fully subscribed](part-17/section-578.md)
 - [Section 579 — Public companies: effect of irregular allotment where issue not fully subscribed](part-17/section-579.md)
 
-#### Chapter 5 — Payment for shares[^key-a8a36dafe8503203f456c584b6b3d383]
+#### Chapter 5 — Payment for shares[^c-a8a36dafe8503203f456c584b6b3d383]
 
 ##### General rules
 
@@ -1742,7 +1742,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 656 — Public companies: duty of directors to call meeting on serious loss of capital](part-17/section-656.md)
 - [Section 657 — General power to make further provision by regulations](part-17/section-657.md)
 
-### Part 18 — Acquisition by limited company of its own shares[^key-016cd5a86776d76aca52b18fc6b93113][^c21176941]
+### Part 18 — Acquisition by limited company of its own shares[^c-016cd5a86776d76aca52b18fc6b93113][^c21176941]
 
 #### Chapter 1 — General provisions
 
@@ -1908,7 +1908,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 736 — Meaning of “distributable profits”](part-18/section-736.md)
 - [Section 737 — General power to make further provision by regulations](part-18/section-737.md)
 
-### Part 19 — Debentures[^key-016cd5a86776d76aca52b18fc6b93113][^c21176951]
+### Part 19 — Debentures[^c-016cd5a86776d76aca52b18fc6b93113][^c21176951]
 
 #### General provisions
 
@@ -1936,7 +1936,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 753 — Deposit of debentures to secure advances](part-19/section-753.md)
 - [Section 754 — Priorities where debentures secured by floating charge](part-19/section-754.md)
 
-### Part 20 — Private and public companies[^key-016cd5a86776d76aca52b18fc6b93113][^c21176961]
+### Part 20 — Private and public companies[^c-016cd5a86776d76aca52b18fc6b93113][^c21176961]
 
 #### Chapter 1 — Prohibition of public offers by private companies
 
@@ -1957,7 +1957,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 766 — Authorised minimum: application where shares denominated in different currencies etc](part-20/section-766.md)
 - [Section 767 — Consequences of doing business etc without a trading certificate](part-20/section-767.md)
 
-### Part 21 — Certification and transfer of securities[^key-016cd5a86776d76aca52b18fc6b93113][^c19925631][^c21176971]
+### Part 21 — Certification and transfer of securities[^c-016cd5a86776d76aca52b18fc6b93113][^c19925631][^c21176971]
 
 #### Chapter 1 — Certification and transfer of securities: general
 
@@ -2016,11 +2016,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 789 — Duty to consult](part-21/section-789.md)
 - [Section 790 — Resolutions to be forwarded to registrar](part-21/section-790.md)
 
-### PART 21A — Information about people with significant control[^key-016cd5a86776d76aca52b18fc6b93113][^key-25bb38e9575e6451e141c16a39f97d46]
+### PART 21A — Information about people with significant control[^c-016cd5a86776d76aca52b18fc6b93113][^c-25bb38e9575e6451e141c16a39f97d46]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER 1 — Introduction[^key-25bb38e9575e6451e141c16a39f97d46]
+#### CHAPTER 1 — Introduction[^c-25bb38e9575e6451e141c16a39f97d46]
 
 *Extent: E+W+S+N.I.*
 
@@ -2029,11 +2029,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 790C — Key terms](part-21a/section-790c.md)
 - [Section 790CA — References to “confirmation” etc of information](part-21a/section-790ca.md)
 
-#### CHAPTER 2 — Information-gathering[^key-25bb38e9575e6451e141c16a39f97d46]
+#### CHAPTER 2 — Information-gathering[^c-25bb38e9575e6451e141c16a39f97d46]
 
 *Extent: E+W+S+N.I.*
 
-##### Duty on companies[^key-25bb38e9575e6451e141c16a39f97d46]
+##### Duty on companies[^c-25bb38e9575e6451e141c16a39f97d46]
 
 - [Section 790CB — Duty to find out about persons with significant control](part-21a/section-790cb.md)
 - [Section 790D — Company’s duty to give notices to persons with significant control](part-21a/section-790d.md)
@@ -2047,43 +2047,43 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 790EF — Company’s duty to notify that court has ended restrictions](part-21a/section-790ef.md)
 - [Section 790F — Failure by company to comply with information duties](part-21a/section-790f.md)
 
-##### Duty on others[^key-25bb38e9575e6451e141c16a39f97d46]
+##### Duty on others[^c-25bb38e9575e6451e141c16a39f97d46]
 
 - [Section 790G — Duty to notify company on becoming PSC](part-21a/section-790g.md)
 - [Section 790H — Duty to notify company of changes in PSC information](part-21a/section-790h.md)
 - [Section 790HA — Duty to notify company of ceasing to be a PSC](part-21a/section-790ha.md)
 
-##### Compliance[^key-25bb38e9575e6451e141c16a39f97d46]
+##### Compliance[^c-25bb38e9575e6451e141c16a39f97d46]
 
 - [Section 790I — Enforcement of disclosure requirements](part-21a/section-790i.md)
 
-##### Power to impose further duties[^key-dfedb3b0e5026ac4227889c405b3aa0e][^key-25bb38e9575e6451e141c16a39f97d46]
+##### Power to impose further duties[^c-dfedb3b0e5026ac4227889c405b3aa0e][^c-25bb38e9575e6451e141c16a39f97d46]
 
 - [Section 790IA — Power to impose further duties involving nominee shareholders](part-21a/section-790ia.md)
 
-##### Exemption from information and registration requirements[^key-25bb38e9575e6451e141c16a39f97d46]
+##### Exemption from information and registration requirements[^c-25bb38e9575e6451e141c16a39f97d46]
 
 - [Section 790J — Power to make exemptions](part-21a/section-790j.md)
 
-##### Required particulars[^key-25bb38e9575e6451e141c16a39f97d46]
+##### Required particulars[^c-25bb38e9575e6451e141c16a39f97d46]
 
 - [Section 790K — Required particulars](part-21a/section-790k.md)
 - [Section 790L — Required particulars: power to amend](part-21a/section-790l.md)
 
-#### CHAPTER 2A — Duty to notify registrar of persons with significant control and ID verification[^key-77330d37e1fc27737fb7170e5b780fe7][^key-25bb38e9575e6451e141c16a39f97d46]
+#### CHAPTER 2A — Duty to notify registrar of persons with significant control and ID verification[^c-77330d37e1fc27737fb7170e5b780fe7][^c-25bb38e9575e6451e141c16a39f97d46]
 
-##### Duty to notify registrar of persons with significant control[^key-77330d37e1fc27737fb7170e5b780fe7][^key-25bb38e9575e6451e141c16a39f97d46]
+##### Duty to notify registrar of persons with significant control[^c-77330d37e1fc27737fb7170e5b780fe7][^c-25bb38e9575e6451e141c16a39f97d46]
 
 - [Section 790LA — Duty to notify registrar of confirmed persons with significant control](part-21a/section-790la.md)
 - [Section 790LB — Option to provide ID verification information in notice of change](part-21a/section-790lb.md)
 - [Section 790LC — Duty to notify registrar of unconfirmed persons with significant control](part-21a/section-790lc.md)
 
-##### Duty to notify registrar of changes in required particulars[^key-77330d37e1fc27737fb7170e5b780fe7][^key-25bb38e9575e6451e141c16a39f97d46]
+##### Duty to notify registrar of changes in required particulars[^c-77330d37e1fc27737fb7170e5b780fe7][^c-25bb38e9575e6451e141c16a39f97d46]
 
 - [Section 790LD — Duties to notify of changes in required particulars](part-21a/section-790ld.md)
 - [Section 790LE — Duty to notify of pre-incorporation changes in required particulars](part-21a/section-790le.md)
 
-##### Duty to notify registrar of person ceasing to be person with significant control etc[^key-77330d37e1fc27737fb7170e5b780fe7][^key-25bb38e9575e6451e141c16a39f97d46]
+##### Duty to notify registrar of person ceasing to be person with significant control etc[^c-77330d37e1fc27737fb7170e5b780fe7][^c-25bb38e9575e6451e141c16a39f97d46]
 
 - [Section 790LF — Duty to notify registrar when person ceases to have significant control](part-21a/section-790lf.md)
 - [Section 790LG — Notification of someone not becoming person with significant control on incorporation](part-21a/section-790lg.md)
@@ -2093,7 +2093,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 790LK — Power of court to order company to remedy defaults or delay](part-21a/section-790lk.md)
 - [Section 790LL — Information as to whether information has been delivered](part-21a/section-790ll.md)
 
-##### Identity verification obligations for persons with significant control[^key-689e5a47c0a7b11c8c942ac162153172][^key-25bb38e9575e6451e141c16a39f97d46]
+##### Identity verification obligations for persons with significant control[^c-689e5a47c0a7b11c8c942ac162153172][^c-25bb38e9575e6451e141c16a39f97d46]
 
 - [Section 790LM — Initial identity verification: registrable persons](part-21a/section-790lm.md)
 - [Section 790LN — Initial identity verification for registrable persons: transitional cases](part-21a/section-790ln.md)
@@ -2104,7 +2104,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 790LS — Registrable relevant legal entities: change of registered relevant officer](part-21a/section-790ls.md)
 - [Section 790LT — Offence of failing to comply with sections 790LM to 790LR](part-21a/section-790lt.md)
 
-#### CHAPTER 3 — Register of people with significant control[^key-d58fe9f0a692d7fb33ba890798a8fd0c][^key-25bb38e9575e6451e141c16a39f97d46]
+#### CHAPTER 3 — Register of people with significant control[^c-d58fe9f0a692d7fb33ba890798a8fd0c][^c-25bb38e9575e6451e141c16a39f97d46]
 
 *Extent: E+W+S+N.I.*
 
@@ -2122,7 +2122,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 790V — Power of court to rectify register](part-21a/section-790v.md)
 - [Section 790VA — Notification of changes to the registrar](part-21a/section-790va.md)
 
-#### CHAPTER 4 — Alternative method of record-keeping[^key-fd5a1237f1d510512fab050f1cff6058][^key-25bb38e9575e6451e141c16a39f97d46]
+#### CHAPTER 4 — Alternative method of record-keeping[^c-fd5a1237f1d510512fab050f1cff6058][^c-25bb38e9575e6451e141c16a39f97d46]
 
 *Extent: E+W+S+N.I.*
 
@@ -2136,7 +2136,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 790ZD — Withdrawing the election](part-21a/section-790zd.md)
 - [Section 790ZE — Power to extend option to public companies](part-21a/section-790ze.md)
 
-#### CHAPTER 5 — Protection from disclosure[^key-25bb38e9575e6451e141c16a39f97d46]
+#### CHAPTER 5 — Protection from disclosure[^c-25bb38e9575e6451e141c16a39f97d46]
 
 *Extent: E+W+S+N.I.*
 
@@ -2144,7 +2144,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 790ZG — Power to make regulations protecting material](part-21a/section-790zg.md)
 - [Section 790ZH — Offence of failing to comply with regulations under section 790ZG](part-21a/section-790zh.md)
 
-### Part 22 — Information about interests in a company's shares[^key-016cd5a86776d76aca52b18fc6b93113][^c21176981]
+### Part 22 — Information about interests in a company's shares[^c-016cd5a86776d76aca52b18fc6b93113][^c21176981]
 
 #### Introductory
 
@@ -2205,7 +2205,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 827 — Reckoning of periods for fulfilling obligations](part-22/section-827.md)
 - [Section 828 — Power to make further provision by regulations](part-22/section-828.md)
 
-### Part 23 — Distributions[^key-016cd5a86776d76aca52b18fc6b93113][^c21176991][^c21179241]
+### Part 23 — Distributions[^c-016cd5a86776d76aca52b18fc6b93113][^c21176991][^c21179241]
 
 #### Chapter 1 — Restrictions on when distributions may be made
 
@@ -2218,7 +2218,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 830 — Distributions to be made only out of profits available for the purpose](part-23/section-830.md)
 - [Section 831 — Net asset restriction on distributions by public companies](part-23/section-831.md)
 
-##### Distributions by investment companies or Solvency 2 insurance companies[^key-4cddf2becfa34ef9681512e95d5053c8]
+##### Distributions by investment companies or Solvency 2 insurance companies[^c-4cddf2becfa34ef9681512e95d5053c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -2271,7 +2271,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 852 — Saving for other restrictions on distributions](part-23/section-852.md)
 - [Section 853 — Minor definitions](part-23/section-853.md)
 
-### PART 24 — Annual confirmation of accuracy of information on register[^c21177001][^key-ea9d2d7fdd0e2a9fd896dc8bfade6b46][^key-016cd5a86776d76aca52b18fc6b93113]
+### PART 24 — Annual confirmation of accuracy of information on register[^c21177001][^c-ea9d2d7fdd0e2a9fd896dc8bfade6b46][^c-016cd5a86776d76aca52b18fc6b93113]
 
 *Extent: E+W+S+N.I.*
 
@@ -2300,11 +2300,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 858 — Failure to deliver annual return](part-24/section-858.md)
 - [Section 859 — Application of provisions to shadow directors](part-24/section-859.md)
 
-### Part 25 — Company charges[^key-f20547d36b7be1b059aa2957aa3ab372][^key-ed2bd120b30cbbba89c3d960c3b0907d][^key-e080a46c950cf5566cbd927d7dd04565][^key-016cd5a86776d76aca52b18fc6b93113][^c20596431][^c21177011]
+### Part 25 — Company charges[^c-f20547d36b7be1b059aa2957aa3ab372][^c-ed2bd120b30cbbba89c3d960c3b0907d][^c-e080a46c950cf5566cbd927d7dd04565][^c-016cd5a86776d76aca52b18fc6b93113][^c20596431][^c21177011]
 
 *Extent: E+W+S+N.I.*
 
-#### CHAPTER A1 — Registration of company charges[^key-f20547d36b7be1b059aa2957aa3ab372][^key-ed2bd120b30cbbba89c3d960c3b0907d][^c22573541]
+#### CHAPTER A1 — Registration of company charges[^c-f20547d36b7be1b059aa2957aa3ab372][^c-ed2bd120b30cbbba89c3d960c3b0907d][^c22573541]
 
 ##### Company charges[^c22573541]
 
@@ -2472,7 +2472,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 893 — Power to make provision for effect of registration in special register](part-25/section-893.md)
 - [Section 894 — General power to make amendments to this Part](part-25/section-894.md)
 
-### Part 26 — Arrangements and reconstructions: general[^key-63296486a6d7df7caf67431d426519e0][^key-016cd5a86776d76aca52b18fc6b93113][^key-346c587e1419105b4612a1cf85767a0b][^c19925281][^c19925221][^c21177021][^key-2b10853fac3af650247a8a5ebc6198b5][^key-7940720dcf394b11630160a347ac636d]
+### Part 26 — Arrangements and reconstructions: general[^c-63296486a6d7df7caf67431d426519e0][^c-016cd5a86776d76aca52b18fc6b93113][^c-346c587e1419105b4612a1cf85767a0b][^c19925281][^c19925221][^c21177021][^c-2b10853fac3af650247a8a5ebc6198b5][^c-7940720dcf394b11630160a347ac636d]
 
 *Extent: E+W+S+N.I.*
 
@@ -2490,7 +2490,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 899 — Court sanction for compromise or arrangement](part-26/section-899.md)
 
-#### Special cases[^key-4e6e561b5255b02bbb4e720d536c09ed]
+#### Special cases[^c-4e6e561b5255b02bbb4e720d536c09ed]
 
 - [Section 899A — Moratorium debts, etc](part-26/section-899a.md)
 
@@ -2502,51 +2502,51 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 901 — Obligations of company with respect to articles etc](part-26/section-901.md)
 
-### PART 26A — Arrangements and reconstructions: companies in financial difficulty[^key-6dd49e12aff18f8378967ccc4912550c][^key-016cd5a86776d76aca52b18fc6b93113][^key-346c587e1419105b4612a1cf85767a0b][^key-ac89852855d24441a2c54d2d1a7c13a2]
+### PART 26A — Arrangements and reconstructions: companies in financial difficulty[^c-6dd49e12aff18f8378967ccc4912550c][^c-016cd5a86776d76aca52b18fc6b93113][^c-346c587e1419105b4612a1cf85767a0b][^c-ac89852855d24441a2c54d2d1a7c13a2]
 
 *Extent: E+W+S+N.I.*
 
-#### Application of this Part[^key-ac89852855d24441a2c54d2d1a7c13a2]
+#### Application of this Part[^c-ac89852855d24441a2c54d2d1a7c13a2]
 
 - [Section 901A — Application of this Part](part-26a/section-901a.md)
 - [Section 901B — Power to exclude companies providing financial services, etc](part-26a/section-901b.md)
 
-#### Meeting of creditors or members[^key-ac89852855d24441a2c54d2d1a7c13a2]
+#### Meeting of creditors or members[^c-ac89852855d24441a2c54d2d1a7c13a2]
 
 - [Section 901C — Court order for holding of meeting](part-26a/section-901c.md)
 - [Section 901D — Statement to be circulated or made available](part-26a/section-901d.md)
 - [Section 901E — Duty of directors and trustees to provide information](part-26a/section-901e.md)
 
-#### Court sanction for compromise or arrangement[^key-ac89852855d24441a2c54d2d1a7c13a2]
+#### Court sanction for compromise or arrangement[^c-ac89852855d24441a2c54d2d1a7c13a2]
 
 - [Section 901F — Court sanction for compromise or arrangement](part-26a/section-901f.md)
 - [Section 901G — Sanction for compromise or arrangement where one or more classes dissent](part-26a/section-901g.md)
 
-#### Special cases[^key-ac89852855d24441a2c54d2d1a7c13a2]
+#### Special cases[^c-ac89852855d24441a2c54d2d1a7c13a2]
 
 - [Section 901H — Moratorium debts, etc](part-26a/section-901h.md)
 - [Section 901I — Pension schemes](part-26a/section-901i.md)
 
-#### Reconstructions and amalgamations[^key-ac89852855d24441a2c54d2d1a7c13a2]
+#### Reconstructions and amalgamations[^c-ac89852855d24441a2c54d2d1a7c13a2]
 
 - [Section 901J — Powers of court to facilitate reconstruction or amalgamation](part-26a/section-901j.md)
 
-#### Obligations of company with respect to articles etc[^key-ac89852855d24441a2c54d2d1a7c13a2]
+#### Obligations of company with respect to articles etc[^c-ac89852855d24441a2c54d2d1a7c13a2]
 
 - [Section 901K — Obligations of company with respect to articles etc](part-26a/section-901k.md)
 
-#### Power to amend Act[^key-ac89852855d24441a2c54d2d1a7c13a2]
+#### Power to amend Act[^c-ac89852855d24441a2c54d2d1a7c13a2]
 
 - [Section 901L — Power to amend Act](part-26a/section-901l.md)
 
-### Part 27 — Mergers and divisions of public companies[^key-016cd5a86776d76aca52b18fc6b93113][^c21177031][^c19925321][^c19925241]
+### Part 27 — Mergers and divisions of public companies[^c-016cd5a86776d76aca52b18fc6b93113][^c21177031][^c19925321][^c19925241]
 
 #### Chapter 1 — Introductory
 
 - [Section 902 — Application of this Part](part-27/section-902.md)
 - [Section 903 — Relationship of this Part to Parts 26 and 26A](part-27/section-903.md)
 
-#### Chapter 2 — Merger[^key-016cd5a86776d76aca52b18fc6b93113]
+#### Chapter 2 — Merger[^c-016cd5a86776d76aca52b18fc6b93113]
 
 *Extent: E+W+S+N.I.*
 
@@ -2658,9 +2658,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 941 — Meaning of “liabilities” and “property”](part-27/section-941.md)
 
-### Part 28 — Takeovers etc[^key-83ddd871ef487ccfde924188f74d62c1][^key-016cd5a86776d76aca52b18fc6b93113][^key-1f9584af276849fe7ab444ae317d204b][^c21177041]
+### Part 28 — Takeovers etc[^c-83ddd871ef487ccfde924188f74d62c1][^c-016cd5a86776d76aca52b18fc6b93113][^c-1f9584af276849fe7ab444ae317d204b][^c21177041]
 
-#### Chapter 1 — The Takeover Panel[^c19925711][^key-016cd5a86776d76aca52b18fc6b93113][^key-2f0806497efa0de1046c25b6d14d5a49]
+#### Chapter 1 — The Takeover Panel[^c19925711][^c-016cd5a86776d76aca52b18fc6b93113][^c-2f0806497efa0de1046c25b6d14d5a49]
 
 ##### The Panel and its rules
 
@@ -2765,11 +2765,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 992 — Matters to be dealt with in directors' report](part-28/section-992.md)
 
-### Part 29 — Fraudulent trading[^key-016cd5a86776d76aca52b18fc6b93113][^c21177051]
+### Part 29 — Fraudulent trading[^c-016cd5a86776d76aca52b18fc6b93113][^c21177051]
 
 - [Section 993 — Offence of fraudulent trading](part-29/section-993.md)
 
-### Part 30 — Protection of members against unfair prejudice[^key-016cd5a86776d76aca52b18fc6b93113][^c21177061]
+### Part 30 — Protection of members against unfair prejudice[^c-016cd5a86776d76aca52b18fc6b93113][^c21177061]
 
 #### Main provisions
 
@@ -2783,7 +2783,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 998 — Copy of order affecting company's constitution to be delivered to registrar](part-30/section-998.md)
 - [Section 999 — Supplementary provisions where company's constitution altered](part-30/section-999.md)
 
-### Part 31 — Dissolution and restoration to the register[^key-5e9f12747fb22a93c6b6dee3c60fdfe3][^key-59ca3a1253b9e77afa886df21c528261][^key-016cd5a86776d76aca52b18fc6b93113][^c21177071]
+### Part 31 — Dissolution and restoration to the register[^c-5e9f12747fb22a93c6b6dee3c60fdfe3][^c-59ca3a1253b9e77afa886df21c528261][^c-016cd5a86776d76aca52b18fc6b93113][^c21177071]
 
 *Extent: E+W+S+N.I.*
 
@@ -2795,7 +2795,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1001 — Duty to act in case of company being wound up](part-31/section-1001.md)
 - [Section 1002 — Supplementary provisions as to service of communication or notice](part-31/section-1002.md)
 
-##### Registrar’s power to strike off company registered on false basis[^key-149ca0852d760d76d1019906755e8bb3]
+##### Registrar’s power to strike off company registered on false basis[^c-149ca0852d760d76d1019906755e8bb3]
 
 - [Section 1002A — Power to strike off company registered on false basis](part-31/section-1002a.md)
 
@@ -2839,7 +2839,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 1023 — Liability for rentcharge on company's land after dissolution](part-31/section-1023.md)
 
-#### Chapter 3 — Restoration to the register[^key-4c4ee2aa00c414a060a7b4da458ec11e]
+#### Chapter 3 — Restoration to the register[^c-4c4ee2aa00c414a060a7b4da458ec11e]
 
 ##### Administrative restoration to the register
 
@@ -2867,7 +2867,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1033 — Company's name on restoration](part-31/section-1033.md)
 - [Section 1034 — Effect of restoration to the register where property has vested as bona vacantia](part-31/section-1034.md)
 
-### Part 32 — Company investigations: amendments[^key-016cd5a86776d76aca52b18fc6b93113][^c21177081]
+### Part 32 — Company investigations: amendments[^c-016cd5a86776d76aca52b18fc6b93113][^c21177081]
 
 - [Section 1035 — Powers of Secretary of State to give directions to inspectors](part-32/section-1035.md)
 - [Section 1036 — Resignation, removal and replacement of inspectors](part-32/section-1036.md)
@@ -2875,7 +2875,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1038 — Power to require production of documents](part-32/section-1038.md)
 - [Section 1039 — Disqualification orders: consequential amendments](part-32/section-1039.md)
 
-### Part 33 — UK companies not formed under companies legislation[^key-016cd5a86776d76aca52b18fc6b93113][^c21177091]
+### Part 33 — UK companies not formed under companies legislation[^c-016cd5a86776d76aca52b18fc6b93113][^c21177091]
 
 #### Chapter 1 — Companies not formed under companies legislation but authorised to register
 
@@ -2887,7 +2887,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 1043 — Unregistered companies](part-33/section-1043.md)
 
-### Part 34 — Overseas companies[^key-016cd5a86776d76aca52b18fc6b93113][^c21177101]
+### Part 34 — Overseas companies[^c-016cd5a86776d76aca52b18fc6b93113][^c21177101]
 
 #### Introductory
 
@@ -2919,7 +2919,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1058 — Duty to give notice of ceasing to have registrable presence](part-34/section-1058.md)
 - [Section 1059 — Application of provisions in case of relocation of branch](part-34/section-1059.md)
 
-### Part 35 — The registrar of companies[^key-016cd5a86776d76aca52b18fc6b93113][^key-c826d3930ac5b783350eae84078afc8e][^key-37233123735906656f25085833957bc8][^c20584861][^c21178031][^c21177111]
+### Part 35 — The registrar of companies[^c-016cd5a86776d76aca52b18fc6b93113][^c-c826d3930ac5b783350eae84078afc8e][^c-37233123735906656f25085833957bc8][^c20584861][^c21178031][^c21177111]
 
 *Extent: E+W+S+N.I.*
 
@@ -2947,7 +2947,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1066 — Company's registered numbers](part-35/section-1066.md)
 - [Section 1067 — Registered numbers of UK establishments of overseas company](part-35/section-1067.md)
 
-#### Who may deliver documents to the registrar[^key-690456854aaad0dad21d02982563dd60]
+#### Who may deliver documents to the registrar[^c-690456854aaad0dad21d02982563dd60]
 
 - [Section 1067A — Delivery of documents: identity verification requirements etc](part-35/section-1067a.md)
 - [Section 1067B — Disqualification from delivering documents](part-35/section-1067b.md)
@@ -2978,7 +2978,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1079 — Effect of failure to give public notice](part-35/section-1079.md)
 - [Section 1079A — Provision of information for publication on European e-Justice portal](part-35/section-1079a.md)
 
-#### Notice of receipt of documents about new directors[^key-1873d28c6570bfa257b044df93230b88]
+#### Notice of receipt of documents about new directors[^c-1873d28c6570bfa257b044df93230b88]
 
 - [Section 1079B — Duty to notify directors](part-35/section-1079b.md)
 
@@ -3011,7 +3011,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1091 — Certification of copies as accurate](part-35/section-1091.md)
 - [Section 1092 — Issue of process for production of records kept by the registrar](part-35/section-1092.md)
 
-#### Additional information[^key-7b90f33031223faf53c6055937e37787]
+#### Additional information[^c-7b90f33031223faf53c6055937e37787]
 
 - [Section 1092A — Power to require information](part-35/section-1092a.md)
 - [Section 1092B — Offence relating to provision of information](part-35/section-1092b.md)
@@ -3034,7 +3034,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1097C — Rectification of register: principal office addresses](part-35/section-1097c.md)
 - [Section 1098 — Public notice of removal of certain material from the register](part-35/section-1098.md)
 
-#### Authorised corporate service providers[^key-2af4d793f788fb4cb88de82d4eea4f3d]
+#### Authorised corporate service providers[^c-2af4d793f788fb4cb88de82d4eea4f3d]
 
 - [Section 1098A — Meaning of “authorised corporate service provider”](part-35/section-1098a.md)
 - [Section 1098B — Application to become authorised corporate service provider](part-35/section-1098b.md)
@@ -3068,17 +3068,17 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1109 — Transliteration of names and addresses: voluntary transliteration into Roman characters](part-35/section-1109.md)
 - [Section 1110 — Transliteration of names and addresses: certification](part-35/section-1110.md)
 
-#### Identity verification[^key-ae710e1b5ff928bd5ba73c0fc2492dae]
+#### Identity verification[^c-ae710e1b5ff928bd5ba73c0fc2492dae]
 
 - [Section 1110A — Meaning of “identity is verified”](part-35/section-1110a.md)
 - [Section 1110B — Verification requirements](part-35/section-1110b.md)
 - [Section 1110C — Identity verification: exemption on national security grounds etc](part-35/section-1110c.md)
 
-#### Discrepancy reporting[^key-18a2c98b619db84c9c0813b35a06a71a]
+#### Discrepancy reporting[^c-18a2c98b619db84c9c0813b35a06a71a]
 
 - [Section 1110D — Power to require businesses to report discrepancies](part-35/section-1110d.md)
 
-#### Disclosure of information[^key-4b4644097c99afcb8ff3075833ea0ef5]
+#### Disclosure of information[^c-4b4644097c99afcb8ff3075833ea0ef5]
 
 - [Section 1110E — Disclosure to the registrar](part-35/section-1110e.md)
 - [Section 1110F — Disclosure by the registrar](part-35/section-1110f.md)
@@ -3099,7 +3099,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1119 — Contracting out of registrar's functions](part-35/section-1119.md)
 - [Section 1120 — Application of this Part to overseas companies](part-35/section-1120.md)
 
-### Part 36 — Offences under the Companies Acts and financial penalties[^key-016cd5a86776d76aca52b18fc6b93113][^c21177121][^key-d44285ab652e68de89cf426092c3583d]
+### Part 36 — Offences under the Companies Acts and financial penalties[^c-016cd5a86776d76aca52b18fc6b93113][^c21177121][^c-d44285ab652e68de89cf426092c3583d]
 
 *Extent: E+W+S+N.I.*
 
@@ -3127,7 +3127,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 1132 — Production and inspection of documents where offence suspected](part-36/section-1132.md)
 
-#### Financial penalties[^key-b8d167414f9879ac99b96110dcd01be0]
+#### Financial penalties[^c-b8d167414f9879ac99b96110dcd01be0]
 
 - [Section 1132A — Power to make provision for financial penalties](part-36/section-1132a.md)
 
@@ -3135,7 +3135,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 1133 — Transitional provision](part-36/section-1133.md)
 
-### Part 37 — Companies: supplementary provisions[^key-016cd5a86776d76aca52b18fc6b93113][^c21177131]
+### Part 37 — Companies: supplementary provisions[^c-016cd5a86776d76aca52b18fc6b93113][^c21177131]
 
 #### Company records
 
@@ -3181,7 +3181,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1156 — Meaning of “the court”](part-37/section-1156.md)
 - [Section 1157 — Power of court to grant relief in certain cases](part-37/section-1157.md)
 
-### Part 38 — Companies: interpretation[^key-016cd5a86776d76aca52b18fc6b93113][^c21177141]
+### Part 38 — Companies: interpretation[^c-016cd5a86776d76aca52b18fc6b93113][^c21177141]
 
 #### Meaning of “UK-registered company”
 
@@ -3219,7 +3219,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1173 — Minor definitions: general](part-38/section-1173.md)
 - [Section 1174 — Index of defined expressions](part-38/section-1174.md)
 
-### Part 39 — Companies: minor amendments[^key-016cd5a86776d76aca52b18fc6b93113][^c21177151]
+### Part 39 — Companies: minor amendments[^c-016cd5a86776d76aca52b18fc6b93113][^c21177151]
 
 - [Section 1175 — Removal of special provisions about accounts and audit of charitable companies](part-39/section-1175.md)
 - [Section 1176 — Power of Secretary of State to bring civil proceedings on company's behalf](part-39/section-1176.md)
@@ -3253,7 +3253,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1190 — Statements: whether to be made public](part-40/section-1190.md)
 - [Section 1191 — Offences](part-40/section-1191.md)
 
-### Part 41 — Business names[^key-39a68c41f94a97e47cbbe597d64312d4]
+### Part 41 — Business names[^c-39a68c41f94a97e47cbbe597d64312d4]
 
 #### Chapter 1 — Restricted or prohibited names
 
@@ -3274,7 +3274,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1197 — Name containing inappropriate indication of company type or legal form](part-41/section-1197.md)
 - [Section 1198 — Name giving misleading indication of activities](part-41/section-1198.md)
 
-##### Restrictions where a company has been required to change a name[^key-c7f5f9560711adfbc635bd37604cdc4e]
+##### Restrictions where a company has been required to change a name[^c-c7f5f9560711adfbc635bd37604cdc4e]
 
 - [Section 1198A — Name that a company has been required to change](part-41/section-1198a.md)
 - [Section 1198B — Name that another company has been required to change](part-41/section-1198b.md)
@@ -3307,7 +3307,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1207 — Application of general provisions about offences](part-41/section-1207.md)
 - [Section 1208 — Interpretation](part-41/section-1208.md)
 
-### Part 42 — Statutory Auditors[^key-7fe6ed7c5a91a4d5d00a024f7b033a4e][^c19688391][^c19925831][^c19925871][^key-c0ac08fa575fd74707948f89b170fbca]
+### Part 42 — Statutory Auditors[^c-7fe6ed7c5a91a4d5d00a024f7b033a4e][^c19688391][^c19925831][^c19925871][^c-c0ac08fa575fd74707948f89b170fbca]
 
 *Extent: E+W+S+N.I.*
 
@@ -3421,11 +3421,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1239 — The register of auditors](part-42/section-1239.md)
 - [Section 1240 — Information to be made available to public](part-42/section-1240.md)
 
-#### CHAPTER 4A — Equivalent Third Countries and Transitional Third Countries[^key-ce470e0dea68034376ec3d749c3d8b19]
+#### CHAPTER 4A — Equivalent Third Countries and Transitional Third Countries[^c-ce470e0dea68034376ec3d749c3d8b19]
 
 - [Section 1240A — Power to approve third countries as equivalent or transitional third countries](part-42/section-1240a.md)
 
-#### CHAPTER 4B — Approved Third Country Competent Authorities[^key-ce470e0dea68034376ec3d749c3d8b19]
+#### CHAPTER 4B — Approved Third Country Competent Authorities[^c-ce470e0dea68034376ec3d749c3d8b19]
 
 - [Section 1240B — Power to approve third country competent authorities](part-42/section-1240b.md)
 
@@ -3582,14 +3582,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 1283 — Amendment of memorandum or articles of commonhold association](part-44/section-1283.md)
 
-### Part 45 — Northern Ireland[^key-ff4eaed48a5ae4fa8dab711c669b592c][^c21177161]
+### Part 45 — Northern Ireland[^c-ff4eaed48a5ae4fa8dab711c669b592c][^c21177161]
 
 - [Section 1284 — Extension of Companies Acts to Northern Ireland](part-45/section-1284.md)
 - [Section 1285 — Extension of GB enactments relating to UK Societas](part-45/section-1285.md)
 - [Section 1286 — Extension of GB enactments relating to certain other forms of business organisation](part-45/section-1286.md)
 - [Section 1287 — Extension of enactments relating to business names](part-45/section-1287.md)
 
-### Part 46 — General supplementary provisions[^key-ff4eaed48a5ae4fa8dab711c669b592c][^c21177171][^c19688521]
+### Part 46 — General supplementary provisions[^c-ff4eaed48a5ae4fa8dab711c669b592c][^c21177171][^c19688521]
 
 *Extent: E+W+S+N.I.*
 
@@ -3601,7 +3601,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1291 — Regulations and orders: approval after being made](part-46/section-1291.md)
 - [Section 1292 — Regulations and orders: supplementary](part-46/section-1292.md)
 
-#### “Bank of England”[^key-18e4c845a2b70d5ef94d5c86636bd6e3]
+#### “Bank of England”[^c-18e4c845a2b70d5ef94d5c86636bd6e3]
 
 - [Section 1292A — “Bank of England”](part-46/section-1292a.md)
 
@@ -3616,7 +3616,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 1296 — Power to make transitional provision and savings](part-46/section-1296.md)
 - [Section 1297 — Continuity of the law](part-46/section-1297.md)
 
-### Part 47 — Final provisions[^key-ff4eaed48a5ae4fa8dab711c669b592c][^c21177181][^c19688551]
+### Part 47 — Final provisions[^c-ff4eaed48a5ae4fa8dab711c669b592c][^c21177181][^c19688551]
 
 - [Section 1298 — Short title](part-47/section-1298.md)
 - [Section 1299 — Extent](part-47/section-1299.md)
@@ -3685,45 +3685,45 @@ SCHEDULES
 
 [^c20895921]: Modification: Act excluded (1.4.2012) by [Housing (Scotland) Act 2010 (asp 17)](https://www.legislation.gov.uk/asp/2010/17), [ss. 106(7)(c)](https://www.legislation.gov.uk/asp/2010/17/section/106/7/c), [166(2)](https://www.legislation.gov.uk/asp/2010/17/section/166/2); [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
 
-[^key-b5a3204faf6c44a59a51bbc1d5001e02]: Modification: Act applied in part (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Receipt of Accounts and Reports) Regulations 2013 (S.I. 2013/1973)](https://www.legislation.gov.uk/uksi/2013/1973), [reg. 9(1)](https://www.legislation.gov.uk/uksi/2013/1973/regulation/9/1)
+[^c-b5a3204faf6c44a59a51bbc1d5001e02]: Modification: Act applied in part (with application in accordance with reg. 1(2) of the amending S.I.) by [The Companies (Receipt of Accounts and Reports) Regulations 2013 (S.I. 2013/1973)](https://www.legislation.gov.uk/uksi/2013/1973), [reg. 9(1)](https://www.legislation.gov.uk/uksi/2013/1973/regulation/9/1)
 
-[^key-312d3a63271453d2fec735263296a608]: Modification: Act applied (with modifications) (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 220(4)](https://www.legislation.gov.uk/uksi/2014/3348/article/220/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3348/schedule/4) (as amended (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [60](https://www.legislation.gov.uk/uksi/2020/1350/regulation/60); (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1313/regulation/5))
+[^c-312d3a63271453d2fec735263296a608]: Modification: Act applied (with modifications) (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 220(4)](https://www.legislation.gov.uk/uksi/2014/3348/article/220/4), [Sch. 4](https://www.legislation.gov.uk/uksi/2014/3348/schedule/4) (as amended (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [60](https://www.legislation.gov.uk/uksi/2020/1350/regulation/60); (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2023/1313/regulation/5))
 
-[^key-966bbb99899816b89b9ae35e0a0258f1]: Modification: Act excluded (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 217](https://www.legislation.gov.uk/uksi/2014/3348/article/217)
+[^c-966bbb99899816b89b9ae35e0a0258f1]: Modification: Act excluded (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 217](https://www.legislation.gov.uk/uksi/2014/3348/article/217)
 
-[^key-accb3d68c20380c8c23a7302ef902541]: Modification: Act excluded (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 220(3)](https://www.legislation.gov.uk/uksi/2014/3348/article/220/3)
+[^c-accb3d68c20380c8c23a7302ef902541]: Modification: Act excluded (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [art. 220(3)](https://www.legislation.gov.uk/uksi/2014/3348/article/220/3)
 
-[^key-ab05f19aad5613a739f84051ea944322]: Modification: Act excluded (12.7.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/1/3), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/a) (as substituted by [S.I. 2016/710](https://www.legislation.gov.uk/uksi/2016/710), reg. 2)
+[^c-ab05f19aad5613a739f84051ea944322]: Modification: Act excluded (12.7.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/1/3), [84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3); [S.I. 2016/602](https://www.legislation.gov.uk/uksi/2016/602), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2016/602/regulation/3/a) (as substituted by [S.I. 2016/710](https://www.legislation.gov.uk/uksi/2016/710), reg. 2)
 
-[^key-7901574dcc735063b25709f987d52ed4]: Modification: Act applied (with modifications) by [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348), [art. 220A](https://www.legislation.gov.uk/uksi/2014/3348/article/220A) (as inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [41(16)](https://www.legislation.gov.uk/uksi/2016/1239/article/41/16); and as amended (1.12.2025) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/1115)](https://www.legislation.gov.uk/uksi/2024/1115), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/2/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/4/3))
+[^c-7901574dcc735063b25709f987d52ed4]: Modification: Act applied (with modifications) by [S.I. 2014/3348](https://www.legislation.gov.uk/uksi/2014/3348), [art. 220A](https://www.legislation.gov.uk/uksi/2014/3348/article/220A) (as inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [41(16)](https://www.legislation.gov.uk/uksi/2016/1239/article/41/16); and as amended (1.12.2025) by [The Financial Services and Markets Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/1115)](https://www.legislation.gov.uk/uksi/2024/1115), [regs. 2(3)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/2/3), [4(3)](https://www.legislation.gov.uk/uksi/2024/1115/regulation/4/3))
 
-[^key-ec9d670c802f585d4ea8aa441b3347c1]: Modification: Act applied (26.6.2017) by [The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)](https://www.legislation.gov.uk/uksi/2017/694), [reg. 77(2)](https://www.legislation.gov.uk/uksi/2017/694/regulation/77/2)
+[^c-ec9d670c802f585d4ea8aa441b3347c1]: Modification: Act applied (26.6.2017) by [The Scottish Partnerships (Register of People with Significant Control) Regulations 2017 (S.I. 2017/694)](https://www.legislation.gov.uk/uksi/2017/694), [reg. 77(2)](https://www.legislation.gov.uk/uksi/2017/694/regulation/77/2)
 
-[^key-d2d740d209de7fc4c425c47a2b5d3021]: Modification: Act excluded in part by [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5), [s. 271B(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/271B/2) (as inserted (with effect in accordance with [Sch. 2 para. 64](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/64) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/13))
+[^c-d2d740d209de7fc4c425c47a2b5d3021]: Modification: Act excluded in part by [2005 c. 5](https://www.legislation.gov.uk/ukpga/2005/5), [s. 271B(2)](https://www.legislation.gov.uk/ukpga/2005/5/section/271B/2) (as inserted (with effect in accordance with [Sch. 2 para. 64](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/64) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/13))
 
-[^key-188ddc76d0dd167688b91b7a1c90e5e2]: Modification: Act excluded (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [12(8)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/12/8) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-188ddc76d0dd167688b91b7a1c90e5e2]: Modification: Act excluded (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [12(8)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/12/8) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
 [^M_C_9080f9ef-4c79-4c99-8419-8c2354ac19bb]: Modification: Act applied in part (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 paras. 2](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/3) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4))
 
-[^key-a8988ff0d597b15f2a71f3cc0f54bba4]: Modification: Act: power to apply (with modifications) conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
+[^c-a8988ff0d597b15f2a71f3cc0f54bba4]: Modification: Act: power to apply (with modifications) conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
 
-[^key-7814da3b709439863a02dc9e4a1e23ba]: Modification: Act: power to modify conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 13](https://www.legislation.gov.uk/ukpga/2023/29/section/13), [17](https://www.legislation.gov.uk/ukpga/2023/29/section/17), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/h)[(l)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/l)
+[^c-7814da3b709439863a02dc9e4a1e23ba]: Modification: Act: power to modify conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 13](https://www.legislation.gov.uk/ukpga/2023/29/section/13), [17](https://www.legislation.gov.uk/ukpga/2023/29/section/17), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/h)[(l)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/l)
 
-[^key-0f1dfebd9eb34182489afc23189118bc]: Modification: Act: power to amend or repeal conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 15](https://www.legislation.gov.uk/ukpga/2023/29/section/15), [17](https://www.legislation.gov.uk/ukpga/2023/29/section/17), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(j)(l)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/j/l)
+[^c-0f1dfebd9eb34182489afc23189118bc]: Modification: Act: power to amend or repeal conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 15](https://www.legislation.gov.uk/ukpga/2023/29/section/15), [17](https://www.legislation.gov.uk/ukpga/2023/29/section/17), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(j)(l)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/j/l)
 
-[^key-bc1811772beb9eb2403c999c75d1a0f7]: Modification: Act: power to amend or repeal conferred (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [1907 c. 24](https://www.legislation.gov.uk/ukpga/1907/24), [s. 7A](https://www.legislation.gov.uk/ukpga/1907/24/section/7A) (as inserted by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 149](https://www.legislation.gov.uk/ukpga/2023/56/section/149), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b))
+[^c-bc1811772beb9eb2403c999c75d1a0f7]: Modification: Act: power to amend or repeal conferred (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [1907 c. 24](https://www.legislation.gov.uk/ukpga/1907/24), [s. 7A](https://www.legislation.gov.uk/ukpga/1907/24/section/7A) (as inserted by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 149](https://www.legislation.gov.uk/ukpga/2023/56/section/149), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b))
 
-[^key-c75f3b28f5652e56dc8b8b534576b8a1]: Modification: Act applied (with modifications) (temp.) (8.1.2024) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) Regulations 2023 (S.I. 2023/1398)](https://www.legislation.gov.uk/uksi/2023/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1398/regulation/6), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1398/schedule/part/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2023/1398/regulation/13))
+[^c-c75f3b28f5652e56dc8b8b534576b8a1]: Modification: Act applied (with modifications) (temp.) (8.1.2024) by [The Financial Services and Markets Act 2023 (Digital Securities Sandbox) Regulations 2023 (S.I. 2023/1398)](https://www.legislation.gov.uk/uksi/2023/1398), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1398/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2023/1398/regulation/6), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2023/1398/schedule/part/4) (with [reg. 13](https://www.legislation.gov.uk/uksi/2023/1398/regulation/13))
 
-[^key-3787024ae900f0ce9dacfdb8947742d6]: Modification: Act: power to modify conferred (1.10.2010 for specified purposes, 12.1.2024 in so far as not already in force) by [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56), [s. 23(2E)-(2G)](https://www.legislation.gov.uk/ukpga/1991/56/section/23/2E) (as inserted by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/3) (with [s. 49(1)(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule); [S.I. 2024/35](https://www.legislation.gov.uk/uksi/2024/35), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/35/article/2/b))
+[^c-3787024ae900f0ce9dacfdb8947742d6]: Modification: Act: power to modify conferred (1.10.2010 for specified purposes, 12.1.2024 in so far as not already in force) by [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56), [s. 23(2E)-(2G)](https://www.legislation.gov.uk/ukpga/1991/56/section/23/2E) (as inserted by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2010/29/schedule/5/paragraph/3) (with [s. 49(1)(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule); [S.I. 2024/35](https://www.legislation.gov.uk/uksi/2024/35), [art. 2(b)](https://www.legislation.gov.uk/uksi/2024/35/article/2/b))
 
-[^key-0a0974e2a42cde7fd1485a5772747b05]: Modification: Act applied in part (with modifications) (6.4.2008) by [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638), [reg. 18](https://www.legislation.gov.uk/uksi/1989/638/regulation/18), [Sch. 4](https://www.legislation.gov.uk/uksi/1989/638/schedule/4) (as amended by: [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/948/article/3/1), [Sch. 1 paras. 163](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/163), [164](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/164) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12)); (1.10.2009) by [The European Economic Interest Grouping (Amendment) Regulations 2009 (S.I. 2009/2399)](https://www.legislation.gov.uk/uksi/2009/2399), [regs. 19](https://www.legislation.gov.uk/uksi/2009/2399/regulation/19), [23](https://www.legislation.gov.uk/uksi/2009/2399/regulation/23) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2399/regulation/2)); and (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/1))
+[^c-0a0974e2a42cde7fd1485a5772747b05]: Modification: Act applied in part (with modifications) (6.4.2008) by [S.I. 1989/638](https://www.legislation.gov.uk/uksi/1989/638), [reg. 18](https://www.legislation.gov.uk/uksi/1989/638/regulation/18), [Sch. 4](https://www.legislation.gov.uk/uksi/1989/638/schedule/4) (as amended by: [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/948/article/3/1), [Sch. 1 paras. 163](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/163), [164](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/164) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12)); (1.10.2009) by [The European Economic Interest Grouping (Amendment) Regulations 2009 (S.I. 2009/2399)](https://www.legislation.gov.uk/uksi/2009/2399), [regs. 19](https://www.legislation.gov.uk/uksi/2009/2399/regulation/19), [23](https://www.legislation.gov.uk/uksi/2009/2399/regulation/23) (with [reg. 2](https://www.legislation.gov.uk/uksi/2009/2399/regulation/2)); and (21.3.2024) by [The Economic Crime and Corporate Transparency Act 2023 (Consequential, Supplementary and Incidental Provisions) Regulations 2024 (S.I. 2024/410)](https://www.legislation.gov.uk/uksi/2024/410), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/410/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2024/410/schedule/2/paragraph/1))
 
-[^key-06cff047986dc950da027b94899c74df]: Modification: Act excluded in part (15.5.2025) by [Great British Energy Act 2025 (c. 16)](https://www.legislation.gov.uk/ukpga/2025/16), [ss. 1(7)](https://www.legislation.gov.uk/ukpga/2025/16/section/1/7), [10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2) (with [s. 2](https://www.legislation.gov.uk/ukpga/2025/16/section/2))
+[^c-06cff047986dc950da027b94899c74df]: Modification: Act excluded in part (15.5.2025) by [Great British Energy Act 2025 (c. 16)](https://www.legislation.gov.uk/ukpga/2025/16), [ss. 1(7)](https://www.legislation.gov.uk/ukpga/2025/16/section/1/7), [10(2)](https://www.legislation.gov.uk/ukpga/2025/16/section/10/2) (with [s. 2](https://www.legislation.gov.uk/ukpga/2025/16/section/2))
 
-[^key-3f777c6a061e9b17e5f95c2e2d9d62f8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/46) applied (with modifications) (temp.) (5.6.2025) by [The Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025 (S.I. 2025/583)](https://www.legislation.gov.uk/uksi/2025/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/583/regulation/12), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/583/schedule/1/paragraph/2) (with [reg. 20](https://www.legislation.gov.uk/uksi/2025/583/regulation/20))
+[^c-3f777c6a061e9b17e5f95c2e2d9d62f8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2006/46) applied (with modifications) (temp.) (5.6.2025) by [The Financial Services and Markets Act 2023 (Private Intermittent Securities and Capital Exchange System Sandbox) Regulations 2025 (S.I. 2025/583)](https://www.legislation.gov.uk/uksi/2025/583), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/583/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2025/583/regulation/12), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2025/583/schedule/1/paragraph/2) (with [reg. 20](https://www.legislation.gov.uk/uksi/2025/583/regulation/20))
 
-[^key-016cd5a86776d76aca52b18fc6b93113]: Modification: Pts. 1-39 modified (31.12.2020) by Regulation (EC) No. 2157/2001, Art. AAA1(3) (as inserted by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-016cd5a86776d76aca52b18fc6b93113]: Modification: Pts. 1-39 modified (31.12.2020) by Regulation (EC) No. 2157/2001, Art. AAA1(3) (as inserted by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c21176771]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
@@ -3735,63 +3735,63 @@ SCHEDULES
 
 [^c19925461]: Modification: Pt. 3 Ch. 3 excluded (N.I.) (prosp.) by [Charities Act (Northern Ireland) 2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12) (N.I.), {ss. 112(7)}, 185
 
-[^key-286f65e56d93bde4877c609742e71562]: Modification: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/ukpga/2006/46/part/3/chapter/3) excluded (E.W.) (1.1.2018) by [The Charitable Incorporated Organisations (Conversion) Regulations 2017 (S.I. 2017/1232)](https://www.legislation.gov.uk/uksi/2017/1232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1232/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2017/1232/regulation/4/5)
+[^c-286f65e56d93bde4877c609742e71562]: Modification: [Pt. 3 Ch. 3](https://www.legislation.gov.uk/ukpga/2006/46/part/3/chapter/3) excluded (E.W.) (1.1.2018) by [The Charitable Incorporated Organisations (Conversion) Regulations 2017 (S.I. 2017/1232)](https://www.legislation.gov.uk/uksi/2017/1232), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1232/regulation/1/1), [4(5)](https://www.legislation.gov.uk/uksi/2017/1232/regulation/4/5)
 
 [^c21176811]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-8c4d59f7506a518068d0cf35f6f05706]: Modification: Pt. 5 power to apply (with modifications) conferred (E.W.S.) (1.12.2013) by [Co-operative and Community Benefit Societies and Credit Unions Act 2010 (c. 7)](https://www.legislation.gov.uk/ukpga/2010/7), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2010/7/section/4/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2010/7/section/4/2/b)[, 8(2)](https://www.legislation.gov.uk/ukpga/2010/7/section/8/2); [S.I. 2013/2936](https://www.legislation.gov.uk/uksi/2013/2936), [art. 2](https://www.legislation.gov.uk/uksi/2013/2936/article/2)
+[^c-8c4d59f7506a518068d0cf35f6f05706]: Modification: Pt. 5 power to apply (with modifications) conferred (E.W.S.) (1.12.2013) by [Co-operative and Community Benefit Societies and Credit Unions Act 2010 (c. 7)](https://www.legislation.gov.uk/ukpga/2010/7), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2010/7/section/4/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2010/7/section/4/2/b)[, 8(2)](https://www.legislation.gov.uk/ukpga/2010/7/section/8/2); [S.I. 2013/2936](https://www.legislation.gov.uk/uksi/2013/2936), [art. 2](https://www.legislation.gov.uk/uksi/2013/2936/article/2)
 
-[^key-7e48e20bbea5f57c5f17ef82035fe031]: Modification: Pt. 5 power to apply (with modifications) conferred (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 135](https://www.legislation.gov.uk/ukpga/2014/14/section/135), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-7e48e20bbea5f57c5f17ef82035fe031]: Modification: Pt. 5 power to apply (with modifications) conferred (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 135](https://www.legislation.gov.uk/ukpga/2014/14/section/135), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c21176821]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-7f1c912a51d968d42d3ca676960fab84]: Textual amendment: [S. 57A and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/1/crossheading/computer-code) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/10/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/f)
+[^c-7f1c912a51d968d42d3ca676960fab84]: Textual amendment: [S. 57A and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/1/crossheading/computer-code) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 10(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/10/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/f)
 
-[^key-a8e773878fc0ca74ac627c7eb4007dcd]: Textual amendment: [S. 57B and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/1/crossheading/prohibitions-where-a-company-has-been-required-to-change-a-name) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/11/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/g)
+[^c-a8e773878fc0ca74ac627c7eb4007dcd]: Textual amendment: [S. 57B and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/1/crossheading/prohibitions-where-a-company-has-been-required-to-change-a-name) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/11/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/g)
 
-[^key-5b68d08518a1bf96a49c635e65e3ee9a]: Textual amendment: Words in [Pt. 5 Ch. 4](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4) heading inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/19/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/o)
+[^c-5b68d08518a1bf96a49c635e65e3ee9a]: Textual amendment: Words in [Pt. 5 Ch. 4](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4) heading inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/19/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/o)
 
-[^key-6e4535cd57f5eeb0a352264616060c34]: Textual amendment: [S. 75 cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4/crossheading/provision-of-misleading-information) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/17/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/m)
+[^c-6e4535cd57f5eeb0a352264616060c34]: Textual amendment: [S. 75 cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4/crossheading/provision-of-misleading-information) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 17(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/17/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/m)
 
-[^key-f53a6fe1eec1cf2ac79bb0e46ef72dd6]: Textual amendment: [S. 76 cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4/crossheading/misleading-indication-of-activities-and-names-used-for-criminal-purposes) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/17/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/m)
+[^c-f53a6fe1eec1cf2ac79bb0e46ef72dd6]: Textual amendment: [S. 76 cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4/crossheading/misleading-indication-of-activities-and-names-used-for-criminal-purposes) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 17(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/17/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/m)
 
-[^key-47df93587e650ff2a531e87ebb347cbd]: Textual amendment: [S. 76B and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4/crossheading/direction-to-change-name-wrongly-registered) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/18/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/n)
+[^c-47df93587e650ff2a531e87ebb347cbd]: Textual amendment: [S. 76B and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4/crossheading/direction-to-change-name-wrongly-registered) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/18/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/n)
 
-[^key-443cbb696912f17f90fd0e1add866fa5]: Textual amendment: [S. 76C and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4/crossheading/registrars-powers-to-change-names) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/19/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/o)
+[^c-443cbb696912f17f90fd0e1add866fa5]: Textual amendment: [S. 76C and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4/crossheading/registrars-powers-to-change-names) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 19(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/19/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(o)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/o)
 
-[^key-0a837ba888140909c28cfdb52088fb9a]: Textual amendment: [Pt. 5 Ch. 4A](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4A) inserted (26.10.2023 for specified purposes, 15.1.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 22](https://www.legislation.gov.uk/ukpga/2023/56/section/22), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/a)
+[^c-0a837ba888140909c28cfdb52088fb9a]: Textual amendment: [Pt. 5 Ch. 4A](https://www.legislation.gov.uk/ukpga/2006/46/part/5/chapter/4A) inserted (26.10.2023 for specified purposes, 15.1.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 22](https://www.legislation.gov.uk/ukpga/2023/56/section/22), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/a)
 
 [^c21176831]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-1ddaf0e6b186287c08bfcc3db4932cde]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/ukpga/2006/46/part/6) heading inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 29(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/29/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/w)
+[^c-1ddaf0e6b186287c08bfcc3db4932cde]: Textual amendment: Words in [Pt. 6](https://www.legislation.gov.uk/ukpga/2006/46/part/6) heading inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 29(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/29/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/w)
 
-[^key-91553d4e39b9ebcae9a8e37891bcec2e]: Textual amendment: [Ss. 88A, 88B and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/6/crossheading/registered-email-address) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/29/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/w)
+[^c-91553d4e39b9ebcae9a8e37891bcec2e]: Textual amendment: [Ss. 88A, 88B and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/6/crossheading/registered-email-address) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 29(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/29/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/w)
 
 [^c21176841]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-d6e2540cc582d6bc65d3b430a3b33bd8]: Textual amendment: [Pt. 8 Ch. 2](https://www.legislation.gov.uk/ukpga/2006/46/part/8/chapter/2) cross-heading substituted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/46/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-d6e2540cc582d6bc65d3b430a3b33bd8]: Textual amendment: [Pt. 8 Ch. 2](https://www.legislation.gov.uk/ukpga/2006/46/part/8/chapter/2) cross-heading substituted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 46(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/46/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
 
-[^key-2383461a8656da8b14ab015ce40ce5d0]: Textual amendment: [S. 113J](https://www.legislation.gov.uk/ukpga/2006/46/section/113J) cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 46(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/46/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-2383461a8656da8b14ab015ce40ce5d0]: Textual amendment: [S. 113J](https://www.legislation.gov.uk/ukpga/2006/46/section/113J) cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 46(5)](https://www.legislation.gov.uk/ukpga/2023/56/section/46/5), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
 
-[^key-4923e5bca91c109bd8d84bd17bbf101a]: Textual amendment: [S. 114 cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/8/chapter/2/crossheading/general) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2023/56/section/46/8), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-4923e5bca91c109bd8d84bd17bbf101a]: Textual amendment: [S. 114 cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/8/chapter/2/crossheading/general) inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 46(8)](https://www.legislation.gov.uk/ukpga/2023/56/section/46/8), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
 
-[^key-c1514100da7257f6efc0fd4359887981]: Textual amendment: [S. 121](https://www.legislation.gov.uk/ukpga/2006/46/section/121) cross-heaing inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 46(9)](https://www.legislation.gov.uk/ukpga/2023/56/section/46/9), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-c1514100da7257f6efc0fd4359887981]: Textual amendment: [S. 121](https://www.legislation.gov.uk/ukpga/2006/46/section/121) cross-heaing inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 46(9)](https://www.legislation.gov.uk/ukpga/2023/56/section/46/9), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
 
-[^key-1b31cc575fbf3cea5194d3feb194076f]: Textual amendment: Pt. 8 Ch. 2A omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 49(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/49/2/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
+[^c-1b31cc575fbf3cea5194d3feb194076f]: Textual amendment: Pt. 8 Ch. 2A omitted (26.10.2023 for specified purposes, 26.1.2026 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 49(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/49/2/b), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2026/57](https://www.legislation.gov.uk/uksi/2026/57), [reg. 2](https://www.legislation.gov.uk/uksi/2026/57/regulation/2)
 
 [^c21176851]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
 [^c21176861]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-26ac7e02cf8a6598c7d6204efcdcaf78]: Textual amendment: [S. 161A](https://www.legislation.gov.uk/ukpga/2006/46/section/161A) cross-heading omitted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/2/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4)
+[^c-26ac7e02cf8a6598c7d6204efcdcaf78]: Textual amendment: [S. 161A](https://www.legislation.gov.uk/ukpga/2006/46/section/161A) cross-heading omitted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b), [Sch. 2 para. 2(b)](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/2/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4)
 
-[^key-a9f415e9976f1743cf9b438bc3c2e2ac]: Textual amendment: [Ss. 167G-167L](https://www.legislation.gov.uk/ukpga/2006/46/section/167G) and cross-heading inserted (26.10.2023 for specified purposes, 4.3.2024 for the insertion of ss. 167H, 167J, 167K for specified purposes, 18.11.2025 in so far as not already in force, except for the insertion of ss. 167G(3)(d)-(f)(4), 167K(1)(c)) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1118/regulation/6))
+[^c-a9f415e9976f1743cf9b438bc3c2e2ac]: Textual amendment: [Ss. 167G-167L](https://www.legislation.gov.uk/ukpga/2006/46/section/167G) and cross-heading inserted (26.10.2023 for specified purposes, 4.3.2024 for the insertion of ss. 167H, 167J, 167K for specified purposes, 18.11.2025 in so far as not already in force, except for the insertion of ss. 167G(3)(d)-(f)(4), 167K(1)(c)) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b), [Sch. 2 para. 3](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/3); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1118/regulation/6))
 
-[^key-e23c66feafc3861d6135c9fef4ec9abe]: Textual amendment: [S. 167M and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/chapter/1/crossheading/directors-duties-relating-to-id-verification-and-notification) inserted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 43](https://www.legislation.gov.uk/ukpga/2023/56/section/43), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1118/regulation/4))
+[^c-e23c66feafc3861d6135c9fef4ec9abe]: Textual amendment: [S. 167M and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/chapter/1/crossheading/directors-duties-relating-to-id-verification-and-notification) inserted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 43](https://www.legislation.gov.uk/ukpga/2023/56/section/43), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2025/1118/regulation/4))
 
-[^key-f3c4339cb80075dc81295f5c317ae996]: Textual amendment: Pt. 10 Ch. 4A inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 80](https://www.legislation.gov.uk/ukpga/2013/24/section/80), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)
+[^c-f3c4339cb80075dc81295f5c317ae996]: Textual amendment: Pt. 10 Ch. 4A inserted (1.10.2013) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 80](https://www.legislation.gov.uk/ukpga/2013/24/section/80), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(h)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/h)
 
-[^key-e6972b1eec87be6bb4569abecb7f907e]: Textual amendment: Words in [Pt. 10 Ch. 4A](https://www.legislation.gov.uk/ukpga/2006/46/part/10/chapter/4A) heading omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/4/2)
+[^c-e6972b1eec87be6bb4569abecb7f907e]: Textual amendment: Words in [Pt. 10 Ch. 4A](https://www.legislation.gov.uk/ukpga/2006/46/part/10/chapter/4A) heading omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/4/2)
 
 [^c20596951]: Modification: Pt. 11 excluded (retrospective to 30.3.2009 at 8.00 a.m.) by The Amendments to [Law (Resolution of Dunfermline Building Society) Order 2009 (S.I. 2009/814)](https://www.legislation.gov.uk/uksi/2009/814), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2009/814/article/1/2), [6](https://www.legislation.gov.uk/uksi/2009/814/article/6)
 
@@ -3799,11 +3799,11 @@ SCHEDULES
 
 [^c21176881]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-7be107f375569961c22ca4b81c6b78c7]: Textual amendment: [S. 274A-279F and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/12/crossheading/option-to-keep-information-on-the-central-register) omitted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/5); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-7be107f375569961c22ca4b81c6b78c7]: Textual amendment: [S. 274A-279F and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/12/crossheading/option-to-keep-information-on-the-central-register) omitted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 5](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/5); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-941bc19f85a83c9a83cceb128b4bacfc]: Textual amendment: [S. 279G 279M and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/12/crossheading/notification-of-information-about-secretaries) inserted (26.10.2023 for specified purposes, 4.3.2024 for the insertion of ss. 279H, 279J, 279K for specified purposes, 18.11.2025 in so far as not already in force, except for the insertion of s. 279K(1)(c)) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/6); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1118/regulation/6))
+[^c-941bc19f85a83c9a83cceb128b4bacfc]: Textual amendment: [S. 279G 279M and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/12/crossheading/notification-of-information-about-secretaries) inserted (26.10.2023 for specified purposes, 4.3.2024 for the insertion of ss. 279H, 279J, 279K for specified purposes, 18.11.2025 in so far as not already in force, except for the insertion of s. 279K(1)(c)) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/6); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4) (with [reg. 6](https://www.legislation.gov.uk/uksi/2025/1118/regulation/6))
 
-[^key-060fbe922df595816e9e5552acee9a77]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/2006/46/part/13) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
+[^c-060fbe922df595816e9e5552acee9a77]: Modification: [Pt. 13](https://www.legislation.gov.uk/ukpga/2006/46/part/13) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1313/regulation/4)
 
 [^c21176891]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
@@ -3815,7 +3815,7 @@ SCHEDULES
 
 [^c21176901]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-757e16b50d5ab53843c81eee7f45db41]: Modification: Pt. 15 applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [162](https://www.legislation.gov.uk/uksi/2017/1212/regulation/162), [163](https://www.legislation.gov.uk/uksi/2017/1212/regulation/163) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-757e16b50d5ab53843c81eee7f45db41]: Modification: Pt. 15 applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [162](https://www.legislation.gov.uk/uksi/2017/1212/regulation/162), [163](https://www.legislation.gov.uk/uksi/2017/1212/regulation/163) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
 [^c19924971]: Modification: Pt. 15 applied (with modifications) (6.4.2008) by [The Bank Accounts Directive (Miscellaneous Banks) Regulations 2008 (S.I. 2008/567)](https://www.legislation.gov.uk/uksi/2008/567), [reg. 4](https://www.legislation.gov.uk/uksi/2008/567/regulation/4), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2008/567/schedule/paragraph/1) (with [Sch. para. 11](https://www.legislation.gov.uk/uksi/2008/567/schedule/paragraph/11))
 
@@ -3825,61 +3825,61 @@ SCHEDULES
 
 [^c21176911]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-bb74edde599e941367fda806636ae023]: Modification: Pt. 15 Ch. 2 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
+[^c-bb74edde599e941367fda806636ae023]: Modification: Pt. 15 Ch. 2 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
 
 [^c19925131]: Modification: Pt. 15 Ch. 4 applied (with modifications) (6.4.2008) by [The Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008 (S.I. 2008/565)](https://www.legislation.gov.uk/uksi/2008/565), [reg. 3](https://www.legislation.gov.uk/uksi/2008/565/regulation/3)
 
-[^key-e7e9f3163e56da8cc0f68b54574b5002]: Modification: Pt. 15 Ch. 4 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
+[^c-e7e9f3163e56da8cc0f68b54574b5002]: Modification: Pt. 15 Ch. 4 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
 
-[^key-5ae825c42562b2970c356ed25a77ebcd]: Modification: Pt. 15 Ch. 4 applied (with modifications) by S.I. 2008/565, reg. 3 (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
+[^c-5ae825c42562b2970c356ed25a77ebcd]: Modification: Pt. 15 Ch. 4 applied (with modifications) by S.I. 2008/565, reg. 3 (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
 
-[^key-1b36097d8d8307af4a7c61fabbe0699a]: Modification: Pt. 16 Ch. 1 applied (with modifications) (E.W.S.) (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations 2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [9(4)-(8)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/9/4)
+[^c-1b36097d8d8307af4a7c61fabbe0699a]: Modification: Pt. 16 Ch. 1 applied (with modifications) (E.W.S.) (1.10.2018) by [The Occupational Pension Schemes (Master Trusts) Regulations 2018 (S.I. 2018/1030)](https://www.legislation.gov.uk/uksi/2018/1030), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/1/2), [9(4)-(8)](https://www.legislation.gov.uk/uksi/2018/1030/regulation/9/4)
 
-[^key-3d385ec0f69e3619fdf91b40c1eb0958]: Textual amendment: S. 398 cross-heading omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Non-Financial Reporting) Regulations 2016 (S.I. 2016/1245)](https://www.legislation.gov.uk/uksi/2016/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1245/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/1245/regulation/3/2/b)
+[^c-3d385ec0f69e3619fdf91b40c1eb0958]: Textual amendment: S. 398 cross-heading omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Non-Financial Reporting) Regulations 2016 (S.I. 2016/1245)](https://www.legislation.gov.uk/uksi/2016/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1245/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2016/1245/regulation/3/2/b)
 
-[^key-a29103ae0f5f573e0ea14b930e1e9dfe]: Textual amendment: Words in s. 399 cross-heading omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Non-Financial Reporting) Regulations 2016 (S.I. 2016/1245)](https://www.legislation.gov.uk/uksi/2016/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1245/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/1245/regulation/3/3)
+[^c-a29103ae0f5f573e0ea14b930e1e9dfe]: Textual amendment: Words in s. 399 cross-heading omitted (with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Companies, Partnerships and Groups (Accounts and Non-Financial Reporting) Regulations 2016 (S.I. 2016/1245)](https://www.legislation.gov.uk/uksi/2016/1245), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/1245/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2016/1245/regulation/3/3)
 
-[^key-bc472f1eab209e28ccdd03d205cc9047]: Modification: Pt. 15 Ch. 4A applied in part (with modifications) by [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565), [reg. 3](https://www.legislation.gov.uk/uksi/2008/565/regulation/3) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3) (with [reg. 2(6)(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6/7)))
+[^c-bc472f1eab209e28ccdd03d205cc9047]: Modification: Pt. 15 Ch. 4A applied in part (with modifications) by [S.I. 2008/565](https://www.legislation.gov.uk/uksi/2008/565), [reg. 3](https://www.legislation.gov.uk/uksi/2008/565/regulation/3) (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3) (with [reg. 2(6)(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6/7)))
 
-[^key-dad63577b1944f4e84da593288ed18df]: Textual amendment: Pt. 15 Ch. 4A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3),[3](https://www.legislation.gov.uk/uksi/2013/1970/regulation/3)
+[^c-dad63577b1944f4e84da593288ed18df]: Textual amendment: Pt. 15 Ch. 4A inserted (with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/3),[3](https://www.legislation.gov.uk/uksi/2013/1970/regulation/3)
 
 [^c19925151]: Modification: Pt. 15 Ch. 5 applied (with modifications) (6.4.2008) by [The Insurance Accounts Directive (Miscellaneous Insurance Undertakings) Regulations 2008 (S.I. 2008/565)](https://www.legislation.gov.uk/uksi/2008/565), [reg. 3](https://www.legislation.gov.uk/uksi/2008/565/regulation/3)
 
-[^key-737d601676830bf673c58aed5f097c21]: Modification: Pt. 15 Ch. 5 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
+[^c-737d601676830bf673c58aed5f097c21]: Modification: Pt. 15 Ch. 5 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
 
-[^key-8f706f30784d8bfae2dfd08655070287]: Modification: Pt. 15 Ch. 5 applied (with modifications) by S.I. 2008/565, reg. 3 (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
+[^c-8f706f30784d8bfae2dfd08655070287]: Modification: Pt. 15 Ch. 5 applied (with modifications) by S.I. 2008/565, reg. 3 (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
 
-[^key-d492dd4a3c60d169ffe366cbc1f156c8]: Textual amendment: Words in [Pt. 15 Ch. 6](https://www.legislation.gov.uk/ukpga/2006/46/part/15/chapter/6) heading omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [5(1)](https://www.legislation.gov.uk/uksi/2025/439/regulation/5/1)
+[^c-d492dd4a3c60d169ffe366cbc1f156c8]: Textual amendment: Words in [Pt. 15 Ch. 6](https://www.legislation.gov.uk/ukpga/2006/46/part/15/chapter/6) heading omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [5(1)](https://www.legislation.gov.uk/uksi/2025/439/regulation/5/1)
 
-[^key-b75b0f36b57d06affb4c0ad927691cd6]: Modification: Pt. 15 Ch. 7 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
+[^c-b75b0f36b57d06affb4c0ad927691cd6]: Modification: Pt. 15 Ch. 7 applied (with modifications) (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
 
 [^c22568141]: Textual amendment: Words in s. 426 cross-heading substituted (6.8.2013 for specified purposes and otherwise with effect in accordance with reg. 1(4) of the amending S.I.) by [The Companies Act 2006 (Strategic Report and Directors' Report) Regulations 2013 (S.I. 2013/1970)](https://www.legislation.gov.uk/uksi/2013/1970), [regs. 1(2)(3)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/1/2/3), [10(2)](https://www.legislation.gov.uk/uksi/2013/1970/regulation/10/2)
 
-[^key-979f199e2ce68b9304667512bc634c82]: Textual amendment: S. 426B and cross-heading inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2018/860/regulation/5)
+[^c-979f199e2ce68b9304667512bc634c82]: Textual amendment: S. 426B and cross-heading inserted (with application in accordance with reg. 1(4) of the amending S.I.) by [The Companies (Miscellaneous Reporting) Regulations 2018 (S.I. 2018/860)](https://www.legislation.gov.uk/uksi/2018/860), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/860/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2018/860/regulation/5)
 
-[^key-4f036bed36d466aa75cf9263f72760b8]: Textual amendment: Words in [s. 430 cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/15/chapter/7/crossheading/quoted-companies-requirements-as-to-website-publication) omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/6/2)
+[^c-4f036bed36d466aa75cf9263f72760b8]: Textual amendment: Words in [s. 430 cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/15/chapter/7/crossheading/quoted-companies-requirements-as-to-website-publication) omitted (11.5.2025) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/6/2)
 
-[^key-bc6fa95781f12a47842ec8fd461ae61a]: Textual amendment: Words in [Pt. 15 Ch. 9](https://www.legislation.gov.uk/ukpga/2006/46/part/15/chapter/9) heading omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [7(1)](https://www.legislation.gov.uk/uksi/2025/439/regulation/7/1)
+[^c-bc6fa95781f12a47842ec8fd461ae61a]: Textual amendment: Words in [Pt. 15 Ch. 9](https://www.legislation.gov.uk/ukpga/2006/46/part/15/chapter/9) heading omitted (11.5.2025 in relation to accounts and reports for a financial year of a company beginning on or after that date) by virtue of [The Companies (Directors' Remuneration and Audit) (Amendment) Regulations 2025 (S.I. 2025/439)](https://www.legislation.gov.uk/uksi/2025/439), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/439/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/439/regulation/2/3), [7(1)](https://www.legislation.gov.uk/uksi/2025/439/regulation/7/1)
 
-[^key-fc9b04c9692cf1e536a8232d83c8fa21]: Modification: Pt. 15 Ch. 11 applied (with modifications) in part (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
+[^c-fc9b04c9692cf1e536a8232d83c8fa21]: Modification: Pt. 15 Ch. 11 applied (with modifications) in part (31.7.2015) by [The European Grouping of Territorial Cooperation Regulations 2015 (S.I. 2015/1493)](https://www.legislation.gov.uk/uksi/2015/1493), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2015/1493/regulation/7/1) (with [reg. 11](https://www.legislation.gov.uk/uksi/2015/1493/regulation/11))
 
-[^key-8b230030809017f941af80f8b6129cc1]: Textual amendment: Words in s. 463 cross-heading inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 13(c)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/13/c) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
+[^c-8b230030809017f941af80f8b6129cc1]: Textual amendment: Words in s. 463 cross-heading inserted (with effect in accordance with reg. 2(3) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 1 para. 13(c)](https://www.legislation.gov.uk/uksi/2017/1164/schedule/1/paragraph/13/c) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7))
 
-[^key-5f2738f3a2b559c8eaa09431993f5339]: Modification: Pt. 16 applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [162](https://www.legislation.gov.uk/uksi/2017/1212/regulation/162), [163](https://www.legislation.gov.uk/uksi/2017/1212/regulation/163) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-5f2738f3a2b559c8eaa09431993f5339]: Modification: Pt. 16 applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [162](https://www.legislation.gov.uk/uksi/2017/1212/regulation/162), [163](https://www.legislation.gov.uk/uksi/2017/1212/regulation/163) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
-[^key-0eb5917805cafee8eeb92a971ee6e740]: Modification: Pt. 16 excluded (8.4.2020) by [Parliamentary Buildings (Restoration and Renewal) Act 2019 (c. 27)](https://www.legislation.gov.uk/ukpga/2019/27), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2019/27/section/14/2)[(3)](https://www.legislation.gov.uk/ukpga/2019/27/section/14/3), [Sch. 2 para. 9(9)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/9/9)
+[^c-0eb5917805cafee8eeb92a971ee6e740]: Modification: Pt. 16 excluded (8.4.2020) by [Parliamentary Buildings (Restoration and Renewal) Act 2019 (c. 27)](https://www.legislation.gov.uk/ukpga/2019/27), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2019/27/section/14/2)[(3)](https://www.legislation.gov.uk/ukpga/2019/27/section/14/3), [Sch. 2 para. 9(9)](https://www.legislation.gov.uk/ukpga/2019/27/schedule/2/paragraph/9/9)
 
-[^key-b8900aa84ea819f26cec19c7ba27df32]: Modification: Pt. 16 excluded (S.) (26.11.2020) by [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2020 (S.S.I. 2020/402)](https://www.legislation.gov.uk/ssi/2020/402), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/402/article/1/1), [3](https://www.legislation.gov.uk/ssi/2020/402/article/3)
+[^c-b8900aa84ea819f26cec19c7ba27df32]: Modification: Pt. 16 excluded (S.) (26.11.2020) by [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2020 (S.S.I. 2020/402)](https://www.legislation.gov.uk/ssi/2020/402), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2020/402/article/1/1), [3](https://www.legislation.gov.uk/ssi/2020/402/article/3)
 
-[^key-bebdc767b03c7719646c45fa40c86559]: Modification: Pt. 16 excluded (S.) (10.3.2021) by [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2021 (S.S.I. 2021/129)](https://www.legislation.gov.uk/ssi/2021/129), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/129/article/1/1), [3](https://www.legislation.gov.uk/ssi/2021/129/article/3)
+[^c-bebdc767b03c7719646c45fa40c86559]: Modification: Pt. 16 excluded (S.) (10.3.2021) by [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2021 (S.S.I. 2021/129)](https://www.legislation.gov.uk/ssi/2021/129), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2021/129/article/1/1), [3](https://www.legislation.gov.uk/ssi/2021/129/article/3)
 
-[^key-b9f211d614f9c0e7b885abe7df5ef426]: Modification: Pt. 16 excluded (S.) (15.6.2022) by [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2022 (S.S.I. 2022/207)](https://www.legislation.gov.uk/ssi/2022/207), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/207/article/1/1), [3](https://www.legislation.gov.uk/ssi/2022/207/article/3)
+[^c-b9f211d614f9c0e7b885abe7df5ef426]: Modification: Pt. 16 excluded (S.) (15.6.2022) by [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2022 (S.S.I. 2022/207)](https://www.legislation.gov.uk/ssi/2022/207), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/207/article/1/1), [3](https://www.legislation.gov.uk/ssi/2022/207/article/3)
 
-[^key-b7eaac3f137628d9c5e84838844a3700]: Modification: [Pt. 16](https://www.legislation.gov.uk/ukpga/2006/46/part/16) excluded (S.) (30.10.2022) by [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) (No. 2) Order 2022 (S.S.I. 2022/308)](https://www.legislation.gov.uk/ssi/2022/308), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/308/article/1/1), [3](https://www.legislation.gov.uk/ssi/2022/308/article/3)
+[^c-b7eaac3f137628d9c5e84838844a3700]: Modification: [Pt. 16](https://www.legislation.gov.uk/ukpga/2006/46/part/16) excluded (S.) (30.10.2022) by [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) (No. 2) Order 2022 (S.S.I. 2022/308)](https://www.legislation.gov.uk/ssi/2022/308), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/308/article/1/1), [3](https://www.legislation.gov.uk/ssi/2022/308/article/3)
 
-[^key-1c1e4479291d57bc084b7b73462dcadd]: Modification: [Pt. 16](https://www.legislation.gov.uk/ukpga/2006/46/part/16) excluded (S.) (1.10.2024) by [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2024 (S.S.I. 2024/266)](https://www.legislation.gov.uk/ssi/2024/266), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/266/article/1/1), [3](https://www.legislation.gov.uk/ssi/2024/266/article/3)
+[^c-1c1e4479291d57bc084b7b73462dcadd]: Modification: [Pt. 16](https://www.legislation.gov.uk/ukpga/2006/46/part/16) excluded (S.) (1.10.2024) by [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2024 (S.S.I. 2024/266)](https://www.legislation.gov.uk/ssi/2024/266), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2024/266/article/1/1), [3](https://www.legislation.gov.uk/ssi/2024/266/article/3)
 
-[^key-d26573da92c5814978b31a3236bd78c0]: Modification: [Pt. 16](https://www.legislation.gov.uk/ukpga/2006/46/part/16) excluded (S.) (23.1.2026) by [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2026 (S.S.I. 2026/21)](https://www.legislation.gov.uk/ssi/2026/21), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/21/article/1/1), [3](https://www.legislation.gov.uk/ssi/2026/21/article/3)
+[^c-d26573da92c5814978b31a3236bd78c0]: Modification: [Pt. 16](https://www.legislation.gov.uk/ukpga/2006/46/part/16) excluded (S.) (23.1.2026) by [The Companies Act 2006 (Scottish public sector companies to be audited by the Auditor General for Scotland) Order 2026 (S.S.I. 2026/21)](https://www.legislation.gov.uk/ssi/2026/21), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2026/21/article/1/1), [3](https://www.legislation.gov.uk/ssi/2026/21/article/3)
 
 [^c21176921]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
@@ -3887,29 +3887,29 @@ SCHEDULES
 
 [^c19925201]: Modification: Pt. 16 Ch. 1 applied (with modifications) (6.4.2008) by [The Partnerships (Accounts) Regulations 2008 (S.I. 2008/569)](https://www.legislation.gov.uk/uksi/2008/569), [regs. 4](https://www.legislation.gov.uk/uksi/2008/569/regulation/4), [7](https://www.legislation.gov.uk/uksi/2008/569/regulation/7), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2008/569/schedule/part/1)
 
-[^key-59659ccaa95afb8782c81f1e34d76854]: Modification: Pt. 16 Ch. 1 applied (with modifications) by S.I. 2008/565, reg. 3 (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
+[^c-59659ccaa95afb8782c81f1e34d76854]: Modification: Pt. 16 Ch. 1 applied (with modifications) by S.I. 2008/565, reg. 3 (as substituted (with effect in accordance with reg. 2(4) of the amending S.I.) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/3), [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/2017/1164/schedule/2/paragraph/3) (with [reg. 2(6)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6)[(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/7)))
 
-[^key-45bde77cd8810a924d9f5457b1d4f238]: Modification: Pt. 16 Ch. 1 applied (with modifications) (N.I.) (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [9(4)-(8)](https://www.legislation.gov.uk/nisr/2022/121/regulation/9/4)
+[^c-45bde77cd8810a924d9f5457b1d4f238]: Modification: Pt. 16 Ch. 1 applied (with modifications) (N.I.) (6.4.2022) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2022 (S.R. 2022/121)](https://www.legislation.gov.uk/nisr/2022/121), [regs. 1](https://www.legislation.gov.uk/nisr/2022/121/regulation/1), [9(4)-(8)](https://www.legislation.gov.uk/nisr/2022/121/regulation/9/4)
 
-[^key-4bf451fa7a5fcc32ba96dcc307ff7401]: Modification: Pt. 16 Ch. 1 applied (with modifications) (N.I.) (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [9(4)-(8)](https://www.legislation.gov.uk/nisr/2022/234/regulation/9/4)
+[^c-4bf451fa7a5fcc32ba96dcc307ff7401]: Modification: Pt. 16 Ch. 1 applied (with modifications) (N.I.) (3.10.2022) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2022 (S.R. 2022/234)](https://www.legislation.gov.uk/nisr/2022/234), [regs. 1](https://www.legislation.gov.uk/nisr/2022/234/regulation/1), [9(4)-(8)](https://www.legislation.gov.uk/nisr/2022/234/regulation/9/4)
 
-[^key-962da6e101c6b9002697800aaaec89f2]: Modification: Pt. 16 Ch. 1 applied (with modifications) (N.I.) (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [9(5)(a)](https://www.legislation.gov.uk/nisr/2023/59/regulation/9/5/a)
+[^c-962da6e101c6b9002697800aaaec89f2]: Modification: Pt. 16 Ch. 1 applied (with modifications) (N.I.) (1.4.2023) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2023 (S.R. 2023/59)](https://www.legislation.gov.uk/nisr/2023/59), [regs. 1](https://www.legislation.gov.uk/nisr/2023/59/regulation/1), [9(5)(a)](https://www.legislation.gov.uk/nisr/2023/59/regulation/9/5/a)
 
-[^key-75527e12c49f6b0094b2bf947d08dfda]: Modification: [Pt. 16 Ch. 1](https://www.legislation.gov.uk/ukpga/2006/46/part/16/chapter/1) applied (with modifications) (N.I.) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [9(4)-(8)](https://www.legislation.gov.uk/nisr/2023/148/regulation/9/4)
+[^c-75527e12c49f6b0094b2bf947d08dfda]: Modification: [Pt. 16 Ch. 1](https://www.legislation.gov.uk/ukpga/2006/46/part/16/chapter/1) applied (with modifications) (N.I.) (29.9.2023) by [The Occupational Pension Schemes (Master Trusts) (No. 2) Regulations (Northern Ireland) 2023 (S.R. 2023/148)](https://www.legislation.gov.uk/nisr/2023/148), [regs. 1](https://www.legislation.gov.uk/nisr/2023/148/regulation/1), [9(4)-(8)](https://www.legislation.gov.uk/nisr/2023/148/regulation/9/4)
 
-[^key-733e40c175794e2e2a18151e546358b0]: Modification: [Pt. 16 Ch. 1](https://www.legislation.gov.uk/ukpga/2006/46/part/16/chapter/1) applied (with modifications) (N.I.) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [9(5)(a)](https://www.legislation.gov.uk/nisr/2024/78/regulation/9/5/a)
+[^c-733e40c175794e2e2a18151e546358b0]: Modification: [Pt. 16 Ch. 1](https://www.legislation.gov.uk/ukpga/2006/46/part/16/chapter/1) applied (with modifications) (N.I.) (27.3.2024) by [The Occupational Pension Schemes (Master Trusts) Regulations (Northern Ireland) 2024 (S.R. 2024/78)](https://www.legislation.gov.uk/nisr/2024/78), [regs. 1](https://www.legislation.gov.uk/nisr/2024/78/regulation/1), [9(5)(a)](https://www.legislation.gov.uk/nisr/2024/78/regulation/9/5/a)
 
 [^c21737421]: Textual amendment: Ss. 479A-479C and cross-heading inserted (1.10.2012 with application in accordance with reg. 2 of the amending S.I.) by [The Companies and Limited Liability Partnerships (Accounts and Audit Exemptions and Change of Accounting Framework) Regulations 2012 (S.I. 2012/2301)](https://www.legislation.gov.uk/uksi/2012/2301), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2301/regulation/1), [7](https://www.legislation.gov.uk/uksi/2012/2301/regulation/7)
 
 [^M_C_e5503503-c29d-422c-913e-ac23337e7c31]: Modification: Ss. 495-497 applied (with modifications) by [S.I. 2008/373](https://www.legislation.gov.uk/uksi/2008/373), [reg. 7(1)(1A)](https://www.legislation.gov.uk/uksi/2008/373/regulation/7/1/1A) (as substituted and inserted (1.1.2018) by [The Statutory Auditors Regulations 2017 (S.I. 2017/1164)](https://www.legislation.gov.uk/uksi/2017/1164), [reg. 1(2)(3)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/1/2/3), [9](https://www.legislation.gov.uk/uksi/2017/1164/regulation/9) (with [reg. 2(6)(7)](https://www.legislation.gov.uk/uksi/2017/1164/regulation/2/6/7)))
 
-[^key-7e34c800fcd1b6c8a17ef465e8998c60]: Textual amendment: [Ss. 519-526](https://www.legislation.gov.uk/ukpga/2006/46/section/519) amendment to earlier affecting provision S.I. 2008/1911, reg. 46 (6.5.2021) by [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2021/465/article/6/5) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
+[^c-7e34c800fcd1b6c8a17ef465e8998c60]: Textual amendment: [Ss. 519-526](https://www.legislation.gov.uk/ukpga/2006/46/section/519) amendment to earlier affecting provision S.I. 2008/1911, reg. 46 (6.5.2021) by [The Supervision of Accounts and Reports (Prescribed Body) and Companies (Defective Accounts and Reports) (Authorised Person) Order 2021 (S.I. 2021/465)](https://www.legislation.gov.uk/uksi/2021/465), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/465/article/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2021/465/article/6/5) (with [art. 9](https://www.legislation.gov.uk/uksi/2021/465/article/9))
 
 [^c21176931]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-3062e25615789502584627c1ac5ac09e]: Modification: [Pt. 17 Ch. 3](https://www.legislation.gov.uk/ukpga/2006/46/part/17/chapter/3) excluded (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [176(4)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/176/4) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-3062e25615789502584627c1ac5ac09e]: Modification: [Pt. 17 Ch. 3](https://www.legislation.gov.uk/ukpga/2006/46/part/17/chapter/3) excluded (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [176(4)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/176/4) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
-[^key-a8a36dafe8503203f456c584b6b3d383]: Modification: [Pt. 17 Ch. 5](https://www.legislation.gov.uk/ukpga/2006/46/part/17/chapter/5) excluded (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [176(4)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/176/4) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-a8a36dafe8503203f456c584b6b3d383]: Modification: [Pt. 17 Ch. 5](https://www.legislation.gov.uk/ukpga/2006/46/part/17/chapter/5) excluded (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [176(4)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/176/4) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
 [^c21176941]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
@@ -3923,17 +3923,17 @@ SCHEDULES
 
 [^c21176971]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-25bb38e9575e6451e141c16a39f97d46]: Textual amendment: Pt. 21A inserted (26.5.2015 for specified purposes, 6.4.2016 except for the insertion of ss. 790M(9)(c), 790W-790ZE and 30.6.2016 so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a); [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [regs. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a), [5(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/5/a)
+[^c-25bb38e9575e6451e141c16a39f97d46]: Textual amendment: Pt. 21A inserted (26.5.2015 for specified purposes, 6.4.2016 except for the insertion of ss. 790M(9)(c), 790W-790ZE and 30.6.2016 so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/26/schedule/3/paragraph/1); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/a); [S.I. 2015/2029](https://www.legislation.gov.uk/uksi/2015/2029), [regs. 4(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/4/a), [5(a)](https://www.legislation.gov.uk/uksi/2015/2029/regulation/5/a)
 
-[^key-dfedb3b0e5026ac4227889c405b3aa0e]: Textual amendment: [S. 790IA and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/21A/chapter/2/crossheading/power-to-impose-further-duties) inserted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/14); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-dfedb3b0e5026ac4227889c405b3aa0e]: Textual amendment: [S. 790IA and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/21A/chapter/2/crossheading/power-to-impose-further-duties) inserted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 14](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/14); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
-[^key-77330d37e1fc27737fb7170e5b780fe7]: Textual amendment: [Pt. 21A Ch. 2A](https://www.legislation.gov.uk/ukpga/2006/46/part/21A/chapter/2A) inserted (26.10.2023 for specified purposes, 4.3.2024 for the insertion of s. 790LD for specified purposes, 18.11.2025 in force in so far as not already in force, except for the insertion of s. 790LB(2)(3) and s. 790LB(4) for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/18); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2025/1118/regulation/7))
+[^c-77330d37e1fc27737fb7170e5b780fe7]: Textual amendment: [Pt. 21A Ch. 2A](https://www.legislation.gov.uk/ukpga/2006/46/part/21A/chapter/2A) inserted (26.10.2023 for specified purposes, 4.3.2024 for the insertion of s. 790LD for specified purposes, 18.11.2025 in force in so far as not already in force, except for the insertion of s. 790LB(2)(3) and s. 790LB(4) for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/18); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z10); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4) (with [reg. 7](https://www.legislation.gov.uk/uksi/2025/1118/regulation/7))
 
-[^key-689e5a47c0a7b11c8c942ac162153172]: Textual amendment: [Ss. 790LM-790LT and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/21A/chapter/2A/crossheading/identity-verification-obligations-for-persons-with-significant-control) inserted (26.10.2023 for specified purposes, 18.11.2025 except for the insertion of ss. 790LO, 790LP, 790LR, 790LS and s. 790LT for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/64/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/k)[(5)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2025/1118/regulation/5))
+[^c-689e5a47c0a7b11c8c942ac162153172]: Textual amendment: [Ss. 790LM-790LT and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/21A/chapter/2A/crossheading/identity-verification-obligations-for-persons-with-significant-control) inserted (26.10.2023 for specified purposes, 18.11.2025 except for the insertion of ss. 790LO, 790LP, 790LR, 790LS and s. 790LT for specified purposes) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 64(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/64/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(k)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/k)[(5)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/5) (with [reg. 5](https://www.legislation.gov.uk/uksi/2025/1118/regulation/5))
 
-[^key-d58fe9f0a692d7fb33ba890798a8fd0c]: Textual amendment: [Pt. 21A Ch. 3](https://www.legislation.gov.uk/ukpga/2006/46/part/21A/chapter/3) omitted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/19); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4)
+[^c-d58fe9f0a692d7fb33ba890798a8fd0c]: Textual amendment: [Pt. 21A Ch. 3](https://www.legislation.gov.uk/ukpga/2006/46/part/21A/chapter/3) omitted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/19); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i/4)
 
-[^key-fd5a1237f1d510512fab050f1cff6058]: Textual amendment: [Pt. 21A Ch. 4](https://www.legislation.gov.uk/ukpga/2006/46/part/21A/chapter/4) omitted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/19); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
+[^c-fd5a1237f1d510512fab050f1cff6058]: Textual amendment: [Pt. 21A Ch. 4](https://www.legislation.gov.uk/ukpga/2006/46/part/21A/chapter/4) omitted (26.10.2023 for specified purposes, 18.11.2025 in so far as not already in force) by virtue of [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [s. 219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b), [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/2023/56/schedule/2/paragraph/19); [S.I. 2025/1118](https://www.legislation.gov.uk/uksi/2025/1118), [reg. 2(1)(i)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/1/i)[(4)](https://www.legislation.gov.uk/uksi/2025/1118/regulation/2/4)
 
 [^c21176981]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
@@ -3941,17 +3941,17 @@ SCHEDULES
 
 [^c21179241]: Modification: Pt. 23 excluded (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [ss. 8](https://www.legislation.gov.uk/ukpga/2011/5/section/8), [93](https://www.legislation.gov.uk/ukpga/2011/5/section/93), [Sch. 1 para. 18(a)](https://www.legislation.gov.uk/ukpga/2011/5/schedule/1/paragraph/18/a); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
 
-[^key-4cddf2becfa34ef9681512e95d5053c8]: Textual amendment: Words in s. 832 cross-heading inserted (30.12.2016) by [The Companies Act 2006 (Distributions of Insurance Companies) Regulations 2016 (S.I. 2016/1194)](https://www.legislation.gov.uk/uksi/2016/1194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1194/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/1194/regulation/2/3)
+[^c-4cddf2becfa34ef9681512e95d5053c8]: Textual amendment: Words in s. 832 cross-heading inserted (30.12.2016) by [The Companies Act 2006 (Distributions of Insurance Companies) Regulations 2016 (S.I. 2016/1194)](https://www.legislation.gov.uk/uksi/2016/1194), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1194/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2016/1194/regulation/2/3)
 
 [^c21177001]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-ea9d2d7fdd0e2a9fd896dc8bfade6b46]: Textual amendment: Pt. 24 substituted (1.5.2016 for specified purposes, otherwise 30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 92](https://www.legislation.gov.uk/ukpga/2015/26/section/92), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [regs. 5](https://www.legislation.gov.uk/uksi/2016/321/regulation/5), [6(a)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/a) (with [Sch. para. 5](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/5))
+[^c-ea9d2d7fdd0e2a9fd896dc8bfade6b46]: Textual amendment: Pt. 24 substituted (1.5.2016 for specified purposes, otherwise 30.6.2016) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 92](https://www.legislation.gov.uk/ukpga/2015/26/section/92), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1); [S.I. 2016/321](https://www.legislation.gov.uk/uksi/2016/321), [regs. 5](https://www.legislation.gov.uk/uksi/2016/321/regulation/5), [6(a)](https://www.legislation.gov.uk/uksi/2016/321/regulation/6/a) (with [Sch. para. 5](https://www.legislation.gov.uk/uksi/2016/321/schedule/paragraph/5))
 
-[^key-f20547d36b7be1b059aa2957aa3ab372]: Modification: Pt. 25 modified (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/3/3)
+[^c-f20547d36b7be1b059aa2957aa3ab372]: Modification: Pt. 25 modified (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/3/3)
 
-[^key-ed2bd120b30cbbba89c3d960c3b0907d]: Modification: Pt. 25 modified (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2016/1239/article/28/3)
+[^c-ed2bd120b30cbbba89c3d960c3b0907d]: Modification: Pt. 25 modified (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [28(3)](https://www.legislation.gov.uk/uksi/2016/1239/article/28/3)
 
-[^key-e080a46c950cf5566cbd927d7dd04565]: Modification: [Pt. 25](https://www.legislation.gov.uk/ukpga/2006/46/part/25) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [155(1)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/155/1)[(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/155/2) (with [regs. 161](https://www.legislation.gov.uk/uksi/2017/1212/regulation/161), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-e080a46c950cf5566cbd927d7dd04565]: Modification: [Pt. 25](https://www.legislation.gov.uk/ukpga/2006/46/part/25) applied (with modifications) (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [155(1)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/155/1)[(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/155/2) (with [regs. 161](https://www.legislation.gov.uk/uksi/2017/1212/regulation/161), [189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
 [^c20596431]: Modification: Pt. 25 excluded (17.2.2009 for certain purposes, otherwise 21.2.2009) by [Banking Act 2001 (c. 1)](https://www.legislation.gov.uk/ukpga/2001/1), [s. 252(1)](https://www.legislation.gov.uk/ukpga/2001/1/section/252/1) (with [s. 247](https://www.legislation.gov.uk/ukpga/2001/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2009/296/schedule)
 
@@ -3963,9 +3963,9 @@ SCHEDULES
 
 [^c22573531]: Textual amendment: Pt. 25 Chs. 1, 2 repealed (6.4.2013) by [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [regs. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/600/regulation/3)
 
-[^key-63296486a6d7df7caf67431d426519e0]: Modification: Pt. 26 power to apply (with modifications) conferred (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 118(1)](https://www.legislation.gov.uk/ukpga/2014/14/section/118/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/14/section/118/2)[154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-63296486a6d7df7caf67431d426519e0]: Modification: Pt. 26 power to apply (with modifications) conferred (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 118(1)](https://www.legislation.gov.uk/ukpga/2014/14/section/118/1)[(2)](https://www.legislation.gov.uk/ukpga/2014/14/section/118/2)[154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-346c587e1419105b4612a1cf85767a0b]: Modification: [Pts. 26](https://www.legislation.gov.uk/ukpga/2006/46/part/26), [26A](https://www.legislation.gov.uk/ukpga/2006/46/part/26A) applied (with modifications) (E.W.) (15.3.2024) by [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [55-63](https://www.legislation.gov.uk/uksi/2024/205/regulation/55) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
+[^c-346c587e1419105b4612a1cf85767a0b]: Modification: [Pts. 26](https://www.legislation.gov.uk/ukpga/2006/46/part/26), [26A](https://www.legislation.gov.uk/ukpga/2006/46/part/26A) applied (with modifications) (E.W.) (15.3.2024) by [The Water Industry (Special Administration) Regulations 2024 (S.I. 2024/205)](https://www.legislation.gov.uk/uksi/2024/205), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2024/205/regulation/2/2), [55-63](https://www.legislation.gov.uk/uksi/2024/205/regulation/55) (with [reg. 64](https://www.legislation.gov.uk/uksi/2024/205/regulation/64))
 
 [^c19925281]: Modification: Pt. 26 applied (6.4.2008) by [S.I. 2001/1228](https://www.legislation.gov.uk/uksi/2001/1228), [Sch. 6 paras. 5](https://www.legislation.gov.uk/uksi/2001/1228/schedule/6/paragraph/5), [6](https://www.legislation.gov.uk/uksi/2001/1228/schedule/6/paragraph/6) (as amended by [The Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/948/article/3/1), [Sch. 1 para. 223(4)](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/223/4) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12)))
 
@@ -3973,15 +3973,15 @@ SCHEDULES
 
 [^c21177021]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-2b10853fac3af650247a8a5ebc6198b5]: Modification: Pt. 26 applied (with modifications) (E.W.S.) (6.4.2014) by [The Industrial and Provident Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 (S.I. 2014/229)](https://www.legislation.gov.uk/uksi/2014/229), [arts. 1](https://www.legislation.gov.uk/uksi/2014/229/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/229/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/229/schedule/2) (as amended (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [6](https://www.legislation.gov.uk/uksi/2014/1822/article/6))
+[^c-2b10853fac3af650247a8a5ebc6198b5]: Modification: Pt. 26 applied (with modifications) (E.W.S.) (6.4.2014) by [The Industrial and Provident Societies and Credit Unions (Arrangements, Reconstructions and Administration) Order 2014 (S.I. 2014/229)](https://www.legislation.gov.uk/uksi/2014/229), [arts. 1](https://www.legislation.gov.uk/uksi/2014/229/article/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/229/article/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2014/229/schedule/2) (as amended (1.8.2014) by [The Co-operative and Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) Order 2014 (S.I. 2014/1822)](https://www.legislation.gov.uk/uksi/2014/1822), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/1822/article/1/2), [6](https://www.legislation.gov.uk/uksi/2014/1822/article/6))
 
-[^key-7940720dcf394b11630160a347ac636d]: Textual amendment: Pt. 26 heading substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 35(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/35/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-7940720dcf394b11630160a347ac636d]: Textual amendment: Pt. 26 heading substituted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 35(2)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/35/2) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-4e6e561b5255b02bbb4e720d536c09ed]: Textual amendment: S. 899A and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 35(5)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/35/5) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-4e6e561b5255b02bbb4e720d536c09ed]: Textual amendment: S. 899A and cross-heading inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 35(5)](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/35/5) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
-[^key-6dd49e12aff18f8378967ccc4912550c]: Modification: [Pt. 26A](https://www.legislation.gov.uk/ukpga/2006/46/part/26A) applied (with modifications) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(4)](https://www.legislation.gov.uk/uksi/2014/229/article/2/4), [Sch. 2A](https://www.legislation.gov.uk/uksi/2014/229/schedule/2A) (as inserted (18.7.2020) by The Co-operative and [Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [7(c)](https://www.legislation.gov.uk/uksi/2020/744/article/7/c), [12](https://www.legislation.gov.uk/uksi/2020/744/article/12))
+[^c-6dd49e12aff18f8378967ccc4912550c]: Modification: [Pt. 26A](https://www.legislation.gov.uk/ukpga/2006/46/part/26A) applied (with modifications) by [S.I. 2014/229](https://www.legislation.gov.uk/uksi/2014/229), [art. 2(4)](https://www.legislation.gov.uk/uksi/2014/229/article/2/4), [Sch. 2A](https://www.legislation.gov.uk/uksi/2014/229/schedule/2A) (as inserted (18.7.2020) by The Co-operative and [Community Benefit Societies and Credit Unions (Arrangements, Reconstructions and Administration) (Amendment) and Consequential Amendments Order 2020 (S.I. 2020/744)](https://www.legislation.gov.uk/uksi/2020/744), [arts. 1](https://www.legislation.gov.uk/uksi/2020/744/article/1), [7(c)](https://www.legislation.gov.uk/uksi/2020/744/article/7/c), [12](https://www.legislation.gov.uk/uksi/2020/744/article/12))
 
-[^key-ac89852855d24441a2c54d2d1a7c13a2]: Textual amendment: Pt. 26A inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
+[^c-ac89852855d24441a2c54d2d1a7c13a2]: Textual amendment: Pt. 26A inserted (26.6.2020) by [Corporate Insolvency and Governance Act 2020 (c. 12)](https://www.legislation.gov.uk/ukpga/2020/12), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2020/12/section/49/1), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2020/12/schedule/9/paragraph/1) (with [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/2/2), [5(2)](https://www.legislation.gov.uk/ukpga/2020/12/section/5/2))
 
 [^c21177031]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
@@ -3991,15 +3991,15 @@ SCHEDULES
 
 [^c21176751]: Textual amendment: S. 940A and cross-heading inserted (1.8.2011 with application in accordance with reg. 1(2)) by [The Companies (Reporting Requirements in Mergers and Divisions) Regulations 2011 (S.I. 2011/1606)](https://www.legislation.gov.uk/uksi/2011/1606), [reg. 31](https://www.legislation.gov.uk/uksi/2011/1606/regulation/31)
 
-[^key-83ddd871ef487ccfde924188f74d62c1]: Modification: Pt. 28 modified (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [219(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/219/2)
+[^c-83ddd871ef487ccfde924188f74d62c1]: Modification: Pt. 28 modified (10.1.2015) by [The Bank Recovery and Resolution (No. 2) Order 2014 (S.I. 2014/3348)](https://www.legislation.gov.uk/uksi/2014/3348), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/1/2), [219(2)](https://www.legislation.gov.uk/uksi/2014/3348/article/219/2)
 
-[^key-1f9584af276849fe7ab444ae317d204b]: Modification: [Pt. 28](https://www.legislation.gov.uk/ukpga/2006/46/part/28) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1313/regulation/3)
+[^c-1f9584af276849fe7ab444ae317d204b]: Modification: [Pt. 28](https://www.legislation.gov.uk/ukpga/2006/46/part/28) modified (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2023/1313/regulation/3)
 
 [^c21177041]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
 [^c19925711]: Modification: Pt. 28 Ch. 1 extended (Isle of Man) (with modifications) (1.3.2009) by [The Companies Act 2006 (Extension of Takeover Panel Provisions) (Isle of Man) Order 2008 (S.I. 2008/3122)](https://www.legislation.gov.uk/uksi/2008/3122), [art. 2](https://www.legislation.gov.uk/uksi/2008/3122/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/3122/schedule)
 
-[^key-2f0806497efa0de1046c25b6d14d5a49]: Modification: Pt. 28 Ch. 1 extended (Isle of Man) (with modifications) (31.12.2020) by [The Companies Act 2006 (Extension of Takeover Panel Provisions) (Isle of Man) Order 2019 (S.I. 2019/567)](https://www.legislation.gov.uk/uksi/2019/567), [regs. 1](https://www.legislation.gov.uk/uksi/2019/567/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/567/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/567/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f0806497efa0de1046c25b6d14d5a49]: Modification: Pt. 28 Ch. 1 extended (Isle of Man) (with modifications) (31.12.2020) by [The Companies Act 2006 (Extension of Takeover Panel Provisions) (Isle of Man) Order 2019 (S.I. 2019/567)](https://www.legislation.gov.uk/uksi/2019/567), [regs. 1](https://www.legislation.gov.uk/uksi/2019/567/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/567/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2019/567/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19688361]: Modification: Pt. 28 Ch. 2 applied (6.4.2007) by [The Companies Acts (Unregistered Companies) Regulations 2007 (S.I. 2007/318)](https://www.legislation.gov.uk/uksi/2007/318), [reg. 3](https://www.legislation.gov.uk/uksi/2007/318/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/318/schedule) (with [reg. 6](https://www.legislation.gov.uk/uksi/2007/318/regulation/6))
 
@@ -4009,15 +4009,15 @@ SCHEDULES
 
 [^c21177061]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-5e9f12747fb22a93c6b6dee3c60fdfe3]: Modification: Pt. 31 power to apply (with modifications) conferred (E.W.S.) (1.12.2013) by [Co-operative and Community Benefit Societies and Credit Unions Act 2010 (c. 7)](https://www.legislation.gov.uk/ukpga/2010/7), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2010/7/section/4/1)[(2)(c),](https://www.legislation.gov.uk/ukpga/2010/7/section/4/2/c) [8(2)](https://www.legislation.gov.uk/ukpga/2010/7/section/8/2); [S.I. 2013/2936](https://www.legislation.gov.uk/uksi/2013/2936), [art. 2](https://www.legislation.gov.uk/uksi/2013/2936/article/2)
+[^c-5e9f12747fb22a93c6b6dee3c60fdfe3]: Modification: Pt. 31 power to apply (with modifications) conferred (E.W.S.) (1.12.2013) by [Co-operative and Community Benefit Societies and Credit Unions Act 2010 (c. 7)](https://www.legislation.gov.uk/ukpga/2010/7), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2010/7/section/4/1)[(2)(c),](https://www.legislation.gov.uk/ukpga/2010/7/section/4/2/c) [8(2)](https://www.legislation.gov.uk/ukpga/2010/7/section/8/2); [S.I. 2013/2936](https://www.legislation.gov.uk/uksi/2013/2936), [art. 2](https://www.legislation.gov.uk/uksi/2013/2936/article/2)
 
-[^key-59ca3a1253b9e77afa886df21c528261]: Modification: Pt. 31 power to apply (with modifications) conferred (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 135](https://www.legislation.gov.uk/ukpga/2014/14/section/135), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-59ca3a1253b9e77afa886df21c528261]: Modification: Pt. 31 power to apply (with modifications) conferred (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [ss. 135](https://www.legislation.gov.uk/ukpga/2014/14/section/135), [154](https://www.legislation.gov.uk/ukpga/2014/14/section/154) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
 [^c21177071]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-149ca0852d760d76d1019906755e8bb3]: Textual amendment: [S. 1002A](https://www.legislation.gov.uk/ukpga/2006/46/section/1002A) and cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, 18.3.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 70(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/70/2), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/c)
+[^c-149ca0852d760d76d1019906755e8bb3]: Textual amendment: [S. 1002A](https://www.legislation.gov.uk/ukpga/2006/46/section/1002A) and cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, 18.3.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 70(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/70/2), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/c)
 
-[^key-4c4ee2aa00c414a060a7b4da458ec11e]: Modification: Pt. 31 Ch. 3 applied (with modifications) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/233/regulation/23); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
+[^c-4c4ee2aa00c414a060a7b4da458ec11e]: Modification: Pt. 31 Ch. 3 applied (with modifications) (4.3.2024) by [The Registered Office Address (Rectification of Register) Regulations 2024 (S.I. 2024/233)](https://www.legislation.gov.uk/uksi/2024/233), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/233/regulation/1/2), [23](https://www.legislation.gov.uk/uksi/2024/233/regulation/23); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z42)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z42)
 
 [^c21177081]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
@@ -4025,9 +4025,9 @@ SCHEDULES
 
 [^c21177101]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-c826d3930ac5b783350eae84078afc8e]: Modification: Pt. 35 applied (with modifications) (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c826d3930ac5b783350eae84078afc8e]: Modification: Pt. 35 applied (with modifications) (31.12.2020) by [The International Accounting Standards and European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/685)](https://www.legislation.gov.uk/uksi/2019/685), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/685/regulation/1/2), [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2019/685/schedule/3/paragraph/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-37233123735906656f25085833957bc8]: Modification: [Pt. 35](https://www.legislation.gov.uk/ukpga/2006/46/part/35) modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 para. 5(b)](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/5/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(7)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/7/a))
+[^c-37233123735906656f25085833957bc8]: Modification: [Pt. 35](https://www.legislation.gov.uk/ukpga/2006/46/part/35) modified (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [reg. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [Sch. 3 para. 5(b)](https://www.legislation.gov.uk/uksi/2021/716/schedule/3/paragraph/5/b) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [21(7)(a)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/21/7/a))
 
 [^c20584861]: Modification: Pt. 35 modified (21.2.2009) by [The Banking Act 2009 (Parts 2 and 3 Consequential Amendments) Order 2009 (S.I. 2009/317)](https://www.legislation.gov.uk/uksi/2009/317), [art. 6(1)(3)](https://www.legislation.gov.uk/uksi/2009/317/article/6/1/3)
 
@@ -4037,25 +4037,25 @@ SCHEDULES
 
 [^c20613441]: Textual amendment: S. 1059A and preceding cross-heading inserted (1.10.2009) by [The Companies Act 2006 (Part 35) (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1802)](https://www.legislation.gov.uk/uksi/2009/1802), [art. 3](https://www.legislation.gov.uk/uksi/2009/1802/article/3)
 
-[^key-690456854aaad0dad21d02982563dd60]: Textual amendment: [S. 1067A](https://www.legislation.gov.uk/ukpga/2006/46/section/1067A) and cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 72(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/72/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
+[^c-690456854aaad0dad21d02982563dd60]: Textual amendment: [S. 1067A](https://www.legislation.gov.uk/ukpga/2006/46/section/1067A) and cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, otherwise prosp.) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 72(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/72/4), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b)
 
-[^key-1873d28c6570bfa257b044df93230b88]: Textual amendment: S. 1079B and cross-heading. inserted (10.10.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/101/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/101/2)); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/4/b)
+[^c-1873d28c6570bfa257b044df93230b88]: Textual amendment: S. 1079B and cross-heading. inserted (10.10.2015) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [ss. 101(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/101/1), [164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1) (with [s. 101(2)](https://www.legislation.gov.uk/ukpga/2015/26/section/101/2)); [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/4/b)
 
-[^key-7b90f33031223faf53c6055937e37787]: Textual amendment: [Ss. 1092A-1092C](https://www.legislation.gov.uk/ukpga/2006/46/section/1092A) and cross-heading inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/83/2), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z25)
+[^c-7b90f33031223faf53c6055937e37787]: Textual amendment: [Ss. 1092A-1092C](https://www.legislation.gov.uk/ukpga/2006/46/section/1092A) and cross-heading inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 83(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/83/2), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z25)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z25)
 
-[^key-2af4d793f788fb4cb88de82d4eea4f3d]: Textual amendment: [S. 1098A-1098H](https://www.legislation.gov.uk/ukpga/2006/46/section/1098A) and cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, 18.3.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 66(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/66/4), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/a)
+[^c-2af4d793f788fb4cb88de82d4eea4f3d]: Textual amendment: [S. 1098A-1098H](https://www.legislation.gov.uk/ukpga/2006/46/section/1098A) and cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, 18.3.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 66(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/66/4), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/a)
 
-[^key-ae710e1b5ff928bd5ba73c0fc2492dae]: Textual amendment: [Ss. 1110A](https://www.legislation.gov.uk/ukpga/2006/46/section/1110A), [1110B](https://www.legislation.gov.uk/ukpga/2006/46/section/1110B) and cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, 18.3.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 65(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/65/4), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/a)
+[^c-ae710e1b5ff928bd5ba73c0fc2492dae]: Textual amendment: [Ss. 1110A](https://www.legislation.gov.uk/ukpga/2006/46/section/1110A), [1110B](https://www.legislation.gov.uk/ukpga/2006/46/section/1110B) and cross-heading inserted (26.10.2023 but only so far as it confers a power to make regulations or relates to the exercise of the power, 18.3.2025 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 65(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/65/4), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2025/349](https://www.legislation.gov.uk/uksi/2025/349), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/349/regulation/2/a)
 
-[^key-18a2c98b619db84c9c0813b35a06a71a]: Textual amendment: [S. 1110D and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/35/crossheading/discrepancy-reporting) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 87(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/87/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z29)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z29)
+[^c-18a2c98b619db84c9c0813b35a06a71a]: Textual amendment: [S. 1110D and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/35/crossheading/discrepancy-reporting) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 87(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/87/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z29)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z29)
 
-[^key-4b4644097c99afcb8ff3075833ea0ef5]: Textual amendment: [Ss. 1110E-1110G](https://www.legislation.gov.uk/ukpga/2006/46/section/1110E) and cross-heading inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 94(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/94/4), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z36)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z36)
+[^c-4b4644097c99afcb8ff3075833ea0ef5]: Textual amendment: [Ss. 1110E-1110G](https://www.legislation.gov.uk/ukpga/2006/46/section/1110E) and cross-heading inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 94(4)](https://www.legislation.gov.uk/ukpga/2023/56/section/94/4), [219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z36)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z36)
 
 [^c21177121]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-d44285ab652e68de89cf426092c3583d]: Textual amendment: Words in [Pt. 36](https://www.legislation.gov.uk/ukpga/2006/46/part/36) heading inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/104/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z41)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z41)
+[^c-d44285ab652e68de89cf426092c3583d]: Textual amendment: Words in [Pt. 36](https://www.legislation.gov.uk/ukpga/2006/46/part/36) heading inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/104/2), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z41)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z41)
 
-[^key-b8d167414f9879ac99b96110dcd01be0]: Textual amendment: [S. 1132A and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/36/crossheading/financial-penalties) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 104(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/104/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z41)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z41)
+[^c-b8d167414f9879ac99b96110dcd01be0]: Textual amendment: [S. 1132A and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/part/36/crossheading/financial-penalties) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 104(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/104/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z41)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z41)
 
 [^c21177131]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
@@ -4063,11 +4063,11 @@ SCHEDULES
 
 [^c21177151]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669), 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
-[^key-39a68c41f94a97e47cbbe597d64312d4]: Modification: [Pt. 41](https://www.legislation.gov.uk/ukpga/2006/46/part/41) applied (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [12(8)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/12/8) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
+[^c-39a68c41f94a97e47cbbe597d64312d4]: Modification: [Pt. 41](https://www.legislation.gov.uk/ukpga/2006/46/part/41) applied (8.12.2017) by [The Risk Transformation Regulations 2017 (S.I. 2017/1212)](https://www.legislation.gov.uk/uksi/2017/1212), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/1/2), [12(8)](https://www.legislation.gov.uk/uksi/2017/1212/regulation/12/8) (with [reg. 189](https://www.legislation.gov.uk/uksi/2017/1212/regulation/189))
 
-[^key-c7f5f9560711adfbc635bd37604cdc4e]: Textual amendment: [S. 1198A and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/chapter/1/crossheading/restrictions-where-a-company-has-been-required-to-change-a-name) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/25/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/t)
+[^c-c7f5f9560711adfbc635bd37604cdc4e]: Textual amendment: [S. 1198A and cross-heading](https://www.legislation.gov.uk/ukpga/2006/46/chapter/1/crossheading/restrictions-where-a-company-has-been-required-to-change-a-name) inserted (26.10.2023 for specified purposes, 4.3.2024 in so far as not already in force) by [Economic Crime and Corporate Transparency Act 2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2023/56/section/25/3), [219(1)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)[(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/b); [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/t)
 
-[^key-7fe6ed7c5a91a4d5d00a024f7b033a4e]: Modification: Pt. 42 applied (with modifications) (4.4.2014 for specified purposes, 16.12.2014 in so far as not already in force) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 5 paras. 1-27](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/1) (with [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2014/2/schedule/13/paragraph/11)); [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), [art. 2(j)](https://www.legislation.gov.uk/uksi/2014/900/article/2/j); [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e) (as amended: (31.12.2020) by [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [57](https://www.legislation.gov.uk/uksi/2019/177/regulation/57); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) and [S.I. 2019/504](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [3-6](https://www.legislation.gov.uk/uksi/2019/504/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1); and (1.7.2022) by [2022 c. 31](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 216](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/216), [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/28); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)); and (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 82](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/82))
+[^c-7fe6ed7c5a91a4d5d00a024f7b033a4e]: Modification: Pt. 42 applied (with modifications) (4.4.2014 for specified purposes, 16.12.2014 in so far as not already in force) by [Local Audit and Accountability Act 2014 (c. 2)](https://www.legislation.gov.uk/ukpga/2014/2), [s. 49(1)](https://www.legislation.gov.uk/ukpga/2014/2/section/49/1), [Sch. 5 paras. 1-27](https://www.legislation.gov.uk/ukpga/2014/2/schedule/5/paragraph/1) (with [Sch. 13 para. 11](https://www.legislation.gov.uk/ukpga/2014/2/schedule/13/paragraph/11)); [S.I. 2014/900](https://www.legislation.gov.uk/uksi/2014/900), [art. 2(j)](https://www.legislation.gov.uk/uksi/2014/900/article/2/j); [S.I. 2014/3319](https://www.legislation.gov.uk/uksi/2014/3319), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/3319/article/2/e) (as amended: (31.12.2020) by [S.I. 2019/177](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2](https://www.legislation.gov.uk/uksi/2019/177/regulation/2), [57](https://www.legislation.gov.uk/uksi/2019/177/regulation/57); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) and [S.I. 2019/504](https://www.legislation.gov.uk/uksi/2019/504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/504/regulation/1/2), [3-6](https://www.legislation.gov.uk/uksi/2019/504/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1); and (1.7.2022) by [2022 c. 31](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 216](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/216), [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/2022/31/schedule/7/paragraph/28); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30)); and (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 82](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/82))
 
 [^c19688391]: Modification: Pt. 42 modified (6.4.2008) by [The Statutory Auditors and Third Country Auditors Regulations 2007 (S.I. 2007/3494)](https://www.legislation.gov.uk/uksi/2007/3494), [reg. 43](https://www.legislation.gov.uk/uksi/2007/3494/regulation/43)
 
@@ -4075,9 +4075,9 @@ SCHEDULES
 
 [^c19925871]: Modification: Pt. 42 applied (with modifications) (15.8.2008) by [The Insurance Accounts Directive (Lloyd's Syndicate and Aggregate Accounts) Regulations 2008 (S.I. 2008/1950)](https://www.legislation.gov.uk/uksi/2008/1950), [reg. 6(5)](https://www.legislation.gov.uk/uksi/2008/1950/regulation/6/5)
 
-[^key-c0ac08fa575fd74707948f89b170fbca]: Modification: Pt. 42: functions transferred in part (2.7.2012) by [The Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012 (S.I. 2012/1741)](https://www.legislation.gov.uk/uksi/2012/1741), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1741/article/1/2), [7](https://www.legislation.gov.uk/uksi/2012/1741/article/7), [8](https://www.legislation.gov.uk/uksi/2012/1741/article/8), [9](https://www.legislation.gov.uk/uksi/2012/1741/article/9) (with [art. 16](https://www.legislation.gov.uk/uksi/2012/1741/article/16))
+[^c-c0ac08fa575fd74707948f89b170fbca]: Modification: Pt. 42: functions transferred in part (2.7.2012) by [The Statutory Auditors (Amendment of Companies Act 2006 and Delegation of Functions etc) Order 2012 (S.I. 2012/1741)](https://www.legislation.gov.uk/uksi/2012/1741), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2012/1741/article/1/2), [7](https://www.legislation.gov.uk/uksi/2012/1741/article/7), [8](https://www.legislation.gov.uk/uksi/2012/1741/article/8), [9](https://www.legislation.gov.uk/uksi/2012/1741/article/9) (with [art. 16](https://www.legislation.gov.uk/uksi/2012/1741/article/16))
 
-[^key-ce470e0dea68034376ec3d749c3d8b19]: Textual amendment: Pt. 42 Chs. 4A, 4B inserted (13.11.2019) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2019/177/regulation/2/a), [14](https://www.legislation.gov.uk/uksi/2019/177/regulation/14) (as amended by [S.I. 2019/1392](https://www.legislation.gov.uk/uksi/2019/1392), regs. 1(2), 3)
+[^c-ce470e0dea68034376ec3d749c3d8b19]: Textual amendment: Pt. 42 Chs. 4A, 4B inserted (13.11.2019) by [The Statutory Auditors and Third Country Auditors (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/177)](https://www.legislation.gov.uk/uksi/2019/177), [regs. 2(a)](https://www.legislation.gov.uk/uksi/2019/177/regulation/2/a), [14](https://www.legislation.gov.uk/uksi/2019/177/regulation/14) (as amended by [S.I. 2019/1392](https://www.legislation.gov.uk/uksi/2019/1392), regs. 1(2), 3)
 
 [^c19703111]: Textual amendment: S. 1251A and cross-heading inserted (6.4.2008) by [The Statutory Auditors and Third Country Auditors Regulations 2007 (S.I. 2007/3494)](https://www.legislation.gov.uk/uksi/2007/3494), [reg. 11](https://www.legislation.gov.uk/uksi/2007/3494/regulation/11)
 
@@ -4085,7 +4085,7 @@ SCHEDULES
 
 [^c19704071]: Textual amendment: Ss. 1253D-1253F and cross-heading inserted (6.4.2008) by [The Statutory Auditors and Third Country Auditors Regulations 2007 (S.I. 2007/3494)](https://www.legislation.gov.uk/uksi/2007/3494), [reg. 15(1)](https://www.legislation.gov.uk/uksi/2007/3494/regulation/15/1) (with [reg. 15(2)](https://www.legislation.gov.uk/uksi/2007/3494/regulation/15/2) (as amended by [S.I. 2008/499](https://www.legislation.gov.uk/uksi/2008/499)), [reg. 2(4)](https://www.legislation.gov.uk/uksi/2008/499/regulation/2/4)))
 
-[^key-ff4eaed48a5ae4fa8dab711c669b592c]: Modification: Pts. 45-47 modified (31.12.2020) by Regulation (EC) No. 2157/2001, Art. AAA1(3) (as inserted by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-ff4eaed48a5ae4fa8dab711c669b592c]: Modification: Pts. 45-47 modified (31.12.2020) by Regulation (EC) No. 2157/2001, Art. AAA1(3) (as inserted by [The European Public Limited-Liability Company (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1298)](https://www.legislation.gov.uk/uksi/2018/1298), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1298/regulation/1), [97](https://www.legislation.gov.uk/uksi/2018/1298/regulation/97) (with [regs. 140-145](https://www.legislation.gov.uk/uksi/2018/1298/regulation/140)) (as amended by [S.I. 2020/523](https://www.legislation.gov.uk/uksi/2020/523), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/523/regulation/1/2), [5(a)-(f)](https://www.legislation.gov.uk/uksi/2020/523/regulation/5/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
 [^c21177161]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669) and Pts. 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 
@@ -4093,7 +4093,7 @@ SCHEDULES
 
 [^c19688521]: Modification: Pt. 46 applied (6.4.2007) ([The Companies Acts (Unregistered Companies) Regulations 2007 (S.I. 2007/318)](https://www.legislation.gov.uk/uksi/2007/318), [reg. 3](https://www.legislation.gov.uk/uksi/2007/318/regulation/3), [Sch.](https://www.legislation.gov.uk/uksi/2007/318/schedule) (with [reg. 6](https://www.legislation.gov.uk/uksi/2007/318/regulation/6))
 
-[^key-18e4c845a2b70d5ef94d5c86636bd6e3]: Textual amendment: S. 1292A and crossheading inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/18)
+[^c-18e4c845a2b70d5ef94d5c86636bd6e3]: Textual amendment: S. 1292A and crossheading inserted (1.3.2017) by [The Bank of England and Financial Services (Consequential Amendments) Regulations 2017 (S.I. 2017/80)](https://www.legislation.gov.uk/uksi/2017/80), [reg. 1](https://www.legislation.gov.uk/uksi/2017/80/regulation/1), [Sch. para. 18](https://www.legislation.gov.uk/uksi/2017/80/schedule/paragraph/18)
 
 [^c21177181]: Modification: Pts. 1-39 (except for Pt. 7 and ss. 662-669) and Pts. 45-47 extended (12.5.2011) by [The Companies Act 2006 (Consequential Amendments and Transitional Provisions) Order 2011 (S.I. 2011/1265)](https://www.legislation.gov.uk/uksi/2011/1265), [art. 5(1)](https://www.legislation.gov.uk/uksi/2011/1265/article/5/1), [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/2011/1265/schedule/1/paragraph/2)
 

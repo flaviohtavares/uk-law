@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Collagen and Gelatine (Intra-Community Trade) (Scotland) Amendment Regulations 2003 (revoked)[^key-aadda20acd211218c5eacecd6ea540b3]
+The Collagen and Gelatine (Intra-Community Trade) (Scotland) Amendment Regulations 2003 (revoked)[^c-aadda20acd211218c5eacecd6ea540b3]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 29th June 2003
 
-[^key-aadda20acd211218c5eacecd6ea540b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aadda20acd211218c5eacecd6ea540b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-aadda20acd211218c5eacecd6ea540b3]
+## 1. Citation, commencement and extent[^c-aadda20acd211218c5eacecd6ea540b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Collagen and Gelatine (Intra-Community Trade) (Scotland) Regulations 2003[^key-aadda20acd211218c5eacecd6ea540b3]
+## 2. Amendment of the Collagen and Gelatine (Intra-Community Trade) (Scotland) Regulations 2003[^c-aadda20acd211218c5eacecd6ea540b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-aadda20acd211218c5eacecd6ea540b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aadda20acd211218c5eacecd6ea540b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-aadda20acd211218c5eacecd6ea540b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-aadda20acd211218c5eacecd6ea540b3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aadda20acd211218c5eacecd6ea540b3]: Textual amendment: Regulations revoked (30.9.2003) by [The Collagen and Gelatine (Intra Community Trade) (Scotland) Revocation Regulations 2003 (S.S.I. 2003/466)](https://www.legislation.gov.uk/ssi/2003/466), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/466/regulation/1), [2](https://www.legislation.gov.uk/ssi/2003/466/regulation/2)
+[^c-aadda20acd211218c5eacecd6ea540b3]: Textual amendment: Regulations revoked (30.9.2003) by [The Collagen and Gelatine (Intra Community Trade) (Scotland) Revocation Regulations 2003 (S.S.I. 2003/466)](https://www.legislation.gov.uk/ssi/2003/466), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2003/466/regulation/1), [2](https://www.legislation.gov.uk/ssi/2003/466/regulation/2)

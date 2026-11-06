@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 57ZB. Prohibition of loyalty schemes[^key-3dfdda1877e2d7001c54d3f17b2fa81b]
+## 57ZB. Prohibition of loyalty schemes[^c-3dfdda1877e2d7001c54d3f17b2fa81b]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dfdda1877e2d7001c54d3f17b2fa81b]: Textual amendment: [Art. 57ZB](https://www.legislation.gov.uk/nisi/1996/3158/article/57ZB) inserted (6.4.2023) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 20(1)](https://www.legislation.gov.uk/nia/2021/7/section/20/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [3](https://www.legislation.gov.uk/nisr/2022/180/article/3)
+[^c-3dfdda1877e2d7001c54d3f17b2fa81b]: Textual amendment: [Art. 57ZB](https://www.legislation.gov.uk/nisi/1996/3158/article/57ZB) inserted (6.4.2023) by [Licensing and Registration of Clubs (Amendment) Act (Northern Ireland) 2021 (c. 7)](https://www.legislation.gov.uk/nia/2021/7), [ss. 20(1)](https://www.legislation.gov.uk/nia/2021/7/section/20/1), [47(2)](https://www.legislation.gov.uk/nia/2021/7/section/47/2); [S.R. 2022/180](https://www.legislation.gov.uk/nisr/2022/180), [arts. 1(2)](https://www.legislation.gov.uk/nisr/2022/180/article/1/2), [3](https://www.legislation.gov.uk/nisr/2022/180/article/3)

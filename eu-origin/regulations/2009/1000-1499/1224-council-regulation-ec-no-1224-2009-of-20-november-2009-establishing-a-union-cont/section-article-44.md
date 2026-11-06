@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. All catches of demersal stocks subject to a multiannual plan retained on board a United Kingdom[^key-95dc59becc12f66016986285f52b93ce] fishing vessel of 12 metres’ length overall or more shall be placed in boxes, compartments or containers separately for each of such stocks in such a way that they are identifiable from other boxes, compartments or containers.
+1. All catches of demersal stocks subject to a multiannual plan retained on board a United Kingdom[^c-95dc59becc12f66016986285f52b93ce] fishing vessel of 12 metres’ length overall or more shall be placed in boxes, compartments or containers separately for each of such stocks in such a way that they are identifiable from other boxes, compartments or containers.
 
 2. Masters of United Kingdom fishing vessels shall keep the catches of demersal stocks subject to a multiannual plan according to a stowage plan that describes the location of the different species in the holds.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95dc59becc12f66016986285f52b93ce]: Textual amendment: Words in [Art. 44](https://www.legislation.gov.uk/eur/2009/1224/article/44) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(42)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-95dc59becc12f66016986285f52b93ce]: Textual amendment: Words in [Art. 44](https://www.legislation.gov.uk/eur/2009/1224/article/44) substituted (31.12.2020) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/739)](https://www.legislation.gov.uk/uksi/2019/739), [regs. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1), [4(42)](https://www.legislation.gov.uk/uksi/2019/739/regulation/4/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

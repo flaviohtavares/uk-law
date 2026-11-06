@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 36. Notice of absence[^key-28683f71ce02699d85a6a3e2aa16bffa]
+## 36. Notice of absence[^c-28683f71ce02699d85a6a3e2aa16bffa]
 
 *Extent: N.I.*
 
@@ -25,7 +25,7 @@ summary: ''
 - (a) the registered provider, if he is the person in day to day charge of the children’s home; or
 - (b) the registered manager,
 
-proposes to be absent from the home for a continuous period of 28 days or more, the registered person shall give notice in writing to the RQIA[^key-4ca5e5950155e725f54604a422e453f9] of the proposed absence.
+proposes to be absent from the home for a continuous period of 28 days or more, the registered person shall give notice in writing to the RQIA[^c-4ca5e5950155e725f54604a422e453f9] of the proposed absence.
 
 (2) Except in the case of an emergency, the notice referred to in paragraph (1) shall be given no later than one month before the proposed absence commences, or within such shorter period as may be agreed with the RQIA and the notice shall specify with respect to the proposed absence –
 
@@ -48,6 +48,6 @@ has been absent from the children’s home for a continuous period of 28 days or
 
 ## Annotations
 
-[^key-28683f71ce02699d85a6a3e2aa16bffa]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2005/176/regulation/36) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-28683f71ce02699d85a6a3e2aa16bffa]: Commencement: [Reg. 36](https://www.legislation.gov.uk/nisr/2005/176/regulation/36) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
 
-[^key-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))
+[^c-4ca5e5950155e725f54604a422e453f9]: Textual amendment: Words in Regulation substituted (11.4.2014) by [Health and Social Care (Amendment) Act (Northern Ireland) 2014 (c. 5)](https://www.legislation.gov.uk/nia/2014/5), [Sch. para. 1(1)(a)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/1/a) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/nia/2014/5/schedule/paragraph/1/2))

@@ -68,7 +68,7 @@ Section 112.
 
 ### The Control of Pollution (Amendment) Act 1989
 
-**3 (Extent: S) (affected by repeal, see note).**[^key-ae84382e53fa7e31eb2eca1551164d78] In section 7(3)(b) of the *(Extent: S)* *(affected by repeal, see note)*[^key-ae84382e53fa7e31eb2eca1551164d78] [^c14547871]Control of Pollution (Amendment) Act 1989 (offences of making false statements), after the word “false” in each place where it occurs there shall be inserted the words *(Extent: S)* *(affected by repeal, see note)*[^key-ae84382e53fa7e31eb2eca1551164d78] “ or misleading ” *(Extent: S)* *(affected by repeal, see note)*[^key-ae84382e53fa7e31eb2eca1551164d78]. *(Extent: S)* *(affected by repeal, see note)*[^key-ae84382e53fa7e31eb2eca1551164d78]
+**3 (Extent: S) (affected by repeal, see note).**[^c-ae84382e53fa7e31eb2eca1551164d78] In section 7(3)(b) of the *(Extent: S)* *(affected by repeal, see note)*[^c-ae84382e53fa7e31eb2eca1551164d78] [^c14547871]Control of Pollution (Amendment) Act 1989 (offences of making false statements), after the word “false” in each place where it occurs there shall be inserted the words *(Extent: S)* *(affected by repeal, see note)*[^c-ae84382e53fa7e31eb2eca1551164d78] “ or misleading ” *(Extent: S)* *(affected by repeal, see note)*[^c-ae84382e53fa7e31eb2eca1551164d78]. *(Extent: S)* *(affected by repeal, see note)*[^c-ae84382e53fa7e31eb2eca1551164d78]
 
 ### The Environmental Protection Act 1990
 
@@ -115,28 +115,28 @@ Section 112.
 
 ### The Radioactive Substances Act 1993
 
-**6.** After section 34 of the *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb] [^c14547901]Radioactive Substances Act 1993 (offences relating to disclosure of information about trade secrets *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb] etc *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]) there shall be inserted— *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]
+**6.** After section 34 of the *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb] [^c14547901]Radioactive Substances Act 1993 (offences relating to disclosure of information about trade secrets *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb] etc *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]) there shall be inserted— *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]
 
-> **34A (Extent: S) (affected by repeal, see note). Offences of making false or misleading statements or false entries. (Extent: S) (affected by repeal, see note)[^key-20828a035364cf75551b8e0d064894bb][^key-20828a035364cf75551b8e0d064894bb]**
+> **34A (Extent: S) (affected by repeal, see note). Offences of making false or misleading statements or false entries. (Extent: S) (affected by repeal, see note)[^c-20828a035364cf75551b8e0d064894bb][^c-20828a035364cf75551b8e0d064894bb]**
 >
-> (1 (Extent: S) (affected by repeal, see note))[^key-20828a035364cf75551b8e0d064894bb] Any person who— *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]
+> (1 (Extent: S) (affected by repeal, see note))[^c-20828a035364cf75551b8e0d064894bb] Any person who— *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-20828a035364cf75551b8e0d064894bb] for the purpose of obtaining for himself or another any registration under section 7 or 10, any authorisation under section 13 or 14 or any variation of such an authorisation under section 17, or *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]
-> - (b (Extent: S) (affected by repeal, see note))[^key-20828a035364cf75551b8e0d064894bb] in purported compliance with a requirement to furnish information imposed under section 31(1)(d), *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]
+> - (a (Extent: S) (affected by repeal, see note))[^c-20828a035364cf75551b8e0d064894bb] for the purpose of obtaining for himself or another any registration under section 7 or 10, any authorisation under section 13 or 14 or any variation of such an authorisation under section 17, or *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]
+> - (b (Extent: S) (affected by repeal, see note))[^c-20828a035364cf75551b8e0d064894bb] in purported compliance with a requirement to furnish information imposed under section 31(1)(d), *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]
 >
-> makes a statement which he knows to be false or misleading in a material particular, or recklessly makes a statement which is false or misleading in a material particular, shall be guilty of an offence. *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]
+> makes a statement which he knows to be false or misleading in a material particular, or recklessly makes a statement which is false or misleading in a material particular, shall be guilty of an offence. *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]
 >
-> (2 (Extent: S) (affected by repeal, see note))[^key-20828a035364cf75551b8e0d064894bb] Any person who intentionally makes a false entry in any record— *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]
+> (2 (Extent: S) (affected by repeal, see note))[^c-20828a035364cf75551b8e0d064894bb] Any person who intentionally makes a false entry in any record— *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-20828a035364cf75551b8e0d064894bb] which is required to be kept by virtue of a registration under section 7 or 10 or an authorisation under section 13 or 14, or *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]
-> - (b (Extent: S) (affected by repeal, see note))[^key-20828a035364cf75551b8e0d064894bb] which is kept in purported compliance with a condition which must be complied with if a person is to have the benefit of an exemption under section 8, 11 or 15, *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]
+> - (a (Extent: S) (affected by repeal, see note))[^c-20828a035364cf75551b8e0d064894bb] which is required to be kept by virtue of a registration under section 7 or 10 or an authorisation under section 13 or 14, or *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]
+> - (b (Extent: S) (affected by repeal, see note))[^c-20828a035364cf75551b8e0d064894bb] which is kept in purported compliance with a condition which must be complied with if a person is to have the benefit of an exemption under section 8, 11 or 15, *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]
 >
-> shall be guilty of an offence. *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]
+> shall be guilty of an offence. *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]
 >
-> (3 (Extent: S) (affected by repeal, see note))[^key-20828a035364cf75551b8e0d064894bb] A person guilty of an offence under this section shall be liable— *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]
+> (3 (Extent: S) (affected by repeal, see note))[^c-20828a035364cf75551b8e0d064894bb] A person guilty of an offence under this section shall be liable— *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]
 >
-> - (a (Extent: S) (affected by repeal, see note))[^key-20828a035364cf75551b8e0d064894bb] on summary conviction, to a fine not exceeding the statutory maximum; *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]
-> - (b (Extent: S) (affected by repeal, see note))[^key-20828a035364cf75551b8e0d064894bb] on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years, or to both. *(Extent: S)* *(affected by repeal, see note)*[^key-20828a035364cf75551b8e0d064894bb]
+> - (a (Extent: S) (affected by repeal, see note))[^c-20828a035364cf75551b8e0d064894bb] on summary conviction, to a fine not exceeding the statutory maximum; *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]
+> - (b (Extent: S) (affected by repeal, see note))[^c-20828a035364cf75551b8e0d064894bb] on conviction on indictment, to a fine or to imprisonment for a term not exceeding two years, or to both. *(Extent: S)* *(affected by repeal, see note)*[^c-20828a035364cf75551b8e0d064894bb]
 
 ## Annotations
 
@@ -144,7 +144,7 @@ Section 112.
 
 [^c14547861]: Marginal citation: [1980 c. 45](https://www.legislation.gov.uk/ukpga/1980/45).
 
-[^key-ae84382e53fa7e31eb2eca1551164d78]: Textual amendment: Sch. 19 para. 3 repealed (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-ae84382e53fa7e31eb2eca1551164d78]: Textual amendment: Sch. 19 para. 3 repealed (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c14547871]: Marginal citation: [1989 c. 14](https://www.legislation.gov.uk/ukpga/1989/14).
 
@@ -152,6 +152,6 @@ Section 112.
 
 [^c14547891]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-20828a035364cf75551b8e0d064894bb]: Textual amendment: [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/1995/25/schedule/19/paragraph/6) repealed (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
+[^c-20828a035364cf75551b8e0d064894bb]: Textual amendment: [Sch. 19 para. 6](https://www.legislation.gov.uk/ukpga/1995/25/schedule/19/paragraph/6) repealed (S.) (1.9.2018) by [The Environmental Authorisations (Scotland) Regulations 2018 (S.S.I. 2018/219)](https://www.legislation.gov.uk/ssi/2018/219), [reg. 1](https://www.legislation.gov.uk/ssi/2018/219/regulation/1), [sch. 7 para. 1](https://www.legislation.gov.uk/ssi/2018/219/schedule/7/paragraph/1) (with [reg. 78](https://www.legislation.gov.uk/ssi/2018/219/regulation/78), [sch. 5 para. 2](https://www.legislation.gov.uk/ssi/2018/219/schedule/5/paragraph/2))
 
 [^c14547901]: Marginal citation: [1993 c. 12](https://www.legislation.gov.uk/ukpga/1993/12).

@@ -24,7 +24,7 @@ Section 85
 
 ### Public Passenger Vehicles Act 1981 (c. 14)
 
-**1.**[^key-3fdf248b81c6837ea7a54e4422fb9bc8] In section 46 of the Public Passenger Vehicles Act 1981 (fare-paying passengers on school buses), in subsection (3), in the definition of “free school transport”—
+**1.**[^c-3fdf248b81c6837ea7a54e4422fb9bc8] In section 46 of the Public Passenger Vehicles Act 1981 (fare-paying passengers on school buses), in subsection (3), in the definition of “free school transport”—
 
 - (a) after “under” insert “ section 508B(1), section 508C(1), section 508F(1), ” and
 - (b) after “1996,” insert—
@@ -35,7 +35,7 @@ Section 85
 
 ### Transport Act 1985 (c. 67)
 
-**2.**[^key-2d911a79f2b156baaabe6aa952306855] (1) Section 6 of the Transport Act 1985 (registration of local services) is amended as follows.
+**2.**[^c-2d911a79f2b156baaabe6aa952306855] (1) Section 6 of the Transport Act 1985 (registration of local services) is amended as follows.
 
 (2) In subsection (1) after “London local service” insert “ nor a service which falls within subsection (1A) below ”.
 
@@ -57,31 +57,31 @@ Section 85
 
 ### Education Act 1996 (c. 56)
 
-**3.**[^key-9017220f76eec46a64e21ca5c6d3ea1c] In section 455(1) of EA 1996 (permitted charges), in paragraph (c), for “509(2)” substitute “ 508B(1), 508F(3) or 509(2), or section 508E(2)(d) and paragraph 5(2) of Schedule 35C, ”.
+**3.**[^c-9017220f76eec46a64e21ca5c6d3ea1c] In section 455(1) of EA 1996 (permitted charges), in paragraph (c), for “509(2)” substitute “ 508B(1), 508F(3) or 509(2), or section 508E(2)(d) and paragraph 5(2) of Schedule 35C, ”.
 
-**4.**[^key-2e7b3b09d3b8fae9a51dd97e9526ef97][^key-1493fa6bde8d22e7e6422cc1cfcb02ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2e7b3b09d3b8fae9a51dd97e9526ef97][^c-1493fa6bde8d22e7e6422cc1cfcb02ec] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-32a91e898697859f6d2cb45c3df61ed8] In section 509AB of EA 1996 (further provision about transport policy statements)—
+**5.**[^c-32a91e898697859f6d2cb45c3df61ed8] In section 509AB of EA 1996 (further provision about transport policy statements)—
 
 - (a) after subsection (3) insert—
 
   > (3A) In considering whether or not it is necessary to make arrangements for those purposes in relation to a particular person, a local education authority in England shall have regard (amongst other things) to the nature of the route, or alternative routes, which he could reasonably be expected to take.
 
   , and
-- (b)[^key-466cc0ffd5f64ca1c170cf4b69f03c54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-466cc0ffd5f64ca1c170cf4b69f03c54] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3fdf248b81c6837ea7a54e4422fb9bc8]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2006/40/schedule/10/paragraph/1) in force at 1.9.2007 for specified purposes by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(l)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/l)
+[^c-3fdf248b81c6837ea7a54e4422fb9bc8]: Commencement: [Sch. 10 para. 1](https://www.legislation.gov.uk/ukpga/2006/40/schedule/10/paragraph/1) in force at 1.9.2007 for specified purposes by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(l)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/l)
 
-[^key-2d911a79f2b156baaabe6aa952306855]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2006/40/schedule/10/paragraph/2) in force at 1.9.2007 for specified purposes by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(l)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/l)
+[^c-2d911a79f2b156baaabe6aa952306855]: Commencement: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/2006/40/schedule/10/paragraph/2) in force at 1.9.2007 for specified purposes by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(l)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/l)
 
-[^key-9017220f76eec46a64e21ca5c6d3ea1c]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/10/paragraph/3) in force at 1.9.2007 for specified purposes by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(l)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/l)
+[^c-9017220f76eec46a64e21ca5c6d3ea1c]: Commencement: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/10/paragraph/3) in force at 1.9.2007 for specified purposes by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(l)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/l)
 
-[^key-2e7b3b09d3b8fae9a51dd97e9526ef97]: Textual amendment: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2006/40/schedule/10/paragraph/4) repealed (4.1.2010) by [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2), [s. 28(2)](https://www.legislation.gov.uk/mwa/2008/2/section/28/2), [Sch. 2](https://www.legislation.gov.uk/mwa/2008/2/schedule/2); [S.I. 2009/2819](https://www.legislation.gov.uk/wsi/2009/2819), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2009/2819/article/2/1/d)
+[^c-2e7b3b09d3b8fae9a51dd97e9526ef97]: Textual amendment: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/2006/40/schedule/10/paragraph/4) repealed (4.1.2010) by [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2), [s. 28(2)](https://www.legislation.gov.uk/mwa/2008/2/section/28/2), [Sch. 2](https://www.legislation.gov.uk/mwa/2008/2/schedule/2); [S.I. 2009/2819](https://www.legislation.gov.uk/wsi/2009/2819), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2009/2819/article/2/1/d)
 
-[^key-1493fa6bde8d22e7e6422cc1cfcb02ec]: Commencement: Sch. 10 para. 4 in force at 1.9.2007 by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(l)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/l) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2007/1801/article/5/1))
+[^c-1493fa6bde8d22e7e6422cc1cfcb02ec]: Commencement: Sch. 10 para. 4 in force at 1.9.2007 by [S.I. 2007/1801](https://www.legislation.gov.uk/uksi/2007/1801), [art. 4(l)](https://www.legislation.gov.uk/uksi/2007/1801/article/4/l) (with [art. 5(1)](https://www.legislation.gov.uk/uksi/2007/1801/article/5/1))
 
-[^key-32a91e898697859f6d2cb45c3df61ed8]: Commencement: Sch. 10 para. 5 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(ee)](https://www.legislation.gov.uk/uksi/2007/935/article/5/ee)
+[^c-32a91e898697859f6d2cb45c3df61ed8]: Commencement: Sch. 10 para. 5 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(ee)](https://www.legislation.gov.uk/uksi/2007/935/article/5/ee)
 
-[^key-466cc0ffd5f64ca1c170cf4b69f03c54]: Textual amendment: [Sch. 10 para. 5(b)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/10/paragraph/5/b) repealed (6.3.2009) by [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2), [s. 28(2)](https://www.legislation.gov.uk/mwa/2008/2/section/28/2), [Sch. 2](https://www.legislation.gov.uk/mwa/2008/2/schedule/2); [S.I. 2009/371](https://www.legislation.gov.uk/wsi/2009/371), [art. 2(1)](https://www.legislation.gov.uk/wsi/2009/371/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2009/371/schedule/part/1)
+[^c-466cc0ffd5f64ca1c170cf4b69f03c54]: Textual amendment: [Sch. 10 para. 5(b)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/10/paragraph/5/b) repealed (6.3.2009) by [Learner Travel (Wales) Measure 2008 (nawm 2)](https://www.legislation.gov.uk/mwa/2008/2), [s. 28(2)](https://www.legislation.gov.uk/mwa/2008/2/section/28/2), [Sch. 2](https://www.legislation.gov.uk/mwa/2008/2/schedule/2); [S.I. 2009/371](https://www.legislation.gov.uk/wsi/2009/371), [art. 2(1)](https://www.legislation.gov.uk/wsi/2009/371/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/wsi/2009/371/schedule/part/1)

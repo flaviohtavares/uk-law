@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Operating leases[^key-8aa6e91667aa336de62a8efdf78a9018]
+## 20. Operating leases[^c-8aa6e91667aa336de62a8efdf78a9018]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8aa6e91667aa336de62a8efdf78a9018]: Commencement: Reg. 20 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-8aa6e91667aa336de62a8efdf78a9018]: Commencement: Reg. 20 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

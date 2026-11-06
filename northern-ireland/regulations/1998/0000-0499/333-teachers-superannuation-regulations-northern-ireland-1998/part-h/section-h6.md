@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## H6. Determination of Questions[^key-62688baf59fb382359526a5fe4d1adec]
+## H6. Determination of Questions[^c-62688baf59fb382359526a5fe4d1adec]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ All questions arising under these Regulations shall be determined by the Departm
 
 ## Annotations
 
-[^key-62688baf59fb382359526a5fe4d1adec]: Commencement: Reg. H6 in operation at 2.11.1998, see reg. A1
+[^c-62688baf59fb382359526a5fe4d1adec]: Commencement: Reg. H6 in operation at 2.11.1998, see reg. A1

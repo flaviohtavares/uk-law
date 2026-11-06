@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 11. Satisfactory management arrangements[^key-05872e217e7a408e8f4b80b492ab1af8]
+## 11. Satisfactory management arrangements[^c-05872e217e7a408e8f4b80b492ab1af8]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ In deciding for the purposes of section8(2)(c) whether the proposed management a
 
 ## Annotations
 
-[^key-05872e217e7a408e8f4b80b492ab1af8]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/22/section/11) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-05872e217e7a408e8f4b80b492ab1af8]: Commencement: [S. 11](https://www.legislation.gov.uk/nia/2016/22/section/11) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

@@ -35,7 +35,7 @@ summary: ''
 - (a) to make different provision for different cases; and
 - (b) to make such supplemental, consequential and transitional provision as the Secretary of State considers appropriate.
 
-(3A)[^key-c603aace09d2bf6de9cb6d71f9a2973b] For the investigatory powers available to a person for the purposes of the duty imposed by subsection (1), see Schedule 5 to the Consumer Rights Act 2015 (as well as section 29).
+(3A)[^c-c603aace09d2bf6de9cb6d71f9a2973b] For the investigatory powers available to a person for the purposes of the duty imposed by subsection (1), see Schedule 5 to the Consumer Rights Act 2015 (as well as section 29).
 
 (4) Nothing in this section shall authorise any weights and measures authority, or any person on whom functions are conferred by regulations under subsection (2) above, to bring proceedings in Scotland for an offence.
 
@@ -47,4 +47,4 @@ summary: ''
 
 [^c18721461]: Modification: Functions under s. 27(2)(3) made exercisable concurrently (29.7.2004 for certain purposes) by [The Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2004 (S.I. 2004/2030)](https://www.legislation.gov.uk/uksi/2004/2030), [art. 4](https://www.legislation.gov.uk/uksi/2004/2030/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2004/2030/schedule)
 
-[^key-c603aace09d2bf6de9cb6d71f9a2973b]: Textual amendment: [S. 27(3A)](https://www.legislation.gov.uk/ukpga/1987/43/section/27/3A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/38); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))
+[^c-c603aace09d2bf6de9cb6d71f9a2973b]: Textual amendment: [S. 27(3A)](https://www.legislation.gov.uk/ukpga/1987/43/section/27/3A) inserted (1.10.2015) by [Consumer Rights Act 2015 (c. 15)](https://www.legislation.gov.uk/ukpga/2015/15), [s. 100(5)](https://www.legislation.gov.uk/ukpga/2015/15/section/100/5), [Sch. 6 para. 38](https://www.legislation.gov.uk/ukpga/2015/15/schedule/6/paragraph/38); [S.I. 2015/1630](https://www.legislation.gov.uk/uksi/2015/1630), [art. 3(i)](https://www.legislation.gov.uk/uksi/2015/1630/article/3/i) (with [art. 8](https://www.legislation.gov.uk/uksi/2015/1630/article/8))

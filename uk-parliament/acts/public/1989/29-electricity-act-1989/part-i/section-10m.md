@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10M. Prohibition on the exercise of certain shareholder rights and rights of appointment[^key-0ad53e4f3cafa17a3266363ef95540bb]
+## 10M. Prohibition on the exercise of certain shareholder rights and rights of appointment[^c-0ad53e4f3cafa17a3266363ef95540bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ad53e4f3cafa17a3266363ef95540bb]: Textual amendment: Ss. 10A-10O and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/2704/regulation/5)
+[^c-0ad53e4f3cafa17a3266363ef95540bb]: Textual amendment: Ss. 10A-10O and cross-heading inserted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2011/2704/regulation/5)

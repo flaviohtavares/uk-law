@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Authorisation of persons other than constables[^key-9773b29b9634c539c3449cab4812ca23]
+## 112. Authorisation of persons other than constables[^c-9773b29b9634c539c3449cab4812ca23]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In section 108 (interpretation of Part III) of the Police Act 1997, after subsec
 
 ## Annotations
 
-[^key-9773b29b9634c539c3449cab4812ca23]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2016/1/section/112) in force at 1.7.2016 by [S.S.I. 2016/199](https://www.legislation.gov.uk/ssi/2016/199), [art. 2](https://www.legislation.gov.uk/ssi/2016/199/article/2)
+[^c-9773b29b9634c539c3449cab4812ca23]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2016/1/section/112) in force at 1.7.2016 by [S.S.I. 2016/199](https://www.legislation.gov.uk/ssi/2016/199), [art. 2](https://www.legislation.gov.uk/ssi/2016/199/article/2)

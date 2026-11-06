@@ -24,13 +24,13 @@ Section 108.
 
 ### The Alkali, &c. Works Regulation Act 1906
 
-**1.**[^key-6be970d37d76af011d5127fa31e396a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-6be970d37d76af011d5127fa31e396a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-6be970d37d76af011d5127fa31e396a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6be970d37d76af011d5127fa31e396a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-6be970d37d76af011d5127fa31e396a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-6be970d37d76af011d5127fa31e396a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-6be970d37d76af011d5127fa31e396a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-6be970d37d76af011d5127fa31e396a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.**[^c2464061] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -52,7 +52,7 @@ Section 108.
 
 ### The Salmon and Freshwater Fisheries (Protection) (Scotland) Act 1951[^c2464231]
 
-**11.**[^key-8263e093dabfc864fc8d25e10cdfddd0][^key-b0d99d297219cb211869078661f9577e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-8263e093dabfc864fc8d25e10cdfddd0][^c-b0d99d297219cb211869078661f9577e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Rivers (Prevention of Pollution) (Scotland) Act 1951
 
@@ -76,7 +76,7 @@ Section 108.
 
 ### The Public Health Act 1961[^c2464481]
 
-**18.**[^key-17d07ac7ab6ae996a6791721db5a2b4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-17d07ac7ab6ae996a6791721db5a2b4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The London Government Act 1963[^c2464501]
 
@@ -124,7 +124,7 @@ Section 108.
 
 ## Annotations
 
-[^key-6be970d37d76af011d5127fa31e396a8]: Textual amendment: Sch. 3 paras. 1-4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
+[^c-6be970d37d76af011d5127fa31e396a8]: Textual amendment: Sch. 3 paras. 1-4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/13)
 
 [^c2464061]: Textual amendment: Sch. 3 para. 5 repealed by [Salmon and Freshwater Fisheries Act 1975 (c. 51)](https://www.legislation.gov.uk/ukpga/1975/51), [s. 42(1)](https://www.legislation.gov.uk/ukpga/1975/51/section/42/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/1975/51/schedule/5)
 
@@ -152,9 +152,9 @@ Section 108.
 
 [^c2464231]: Marginal citation: [1951 c. 26](https://www.legislation.gov.uk/ukpga/1951/26).
 
-[^key-8263e093dabfc864fc8d25e10cdfddd0]: Textual amendment: Sch. 3 para. 11 repealed (15.11.2006) by [The Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/part/2)
+[^c-8263e093dabfc864fc8d25e10cdfddd0]: Textual amendment: Sch. 3 para. 11 repealed (15.11.2006) by [The Scotland Act 1998 (River Tweed) Order 2006 (S.I. 2006/2913)](https://www.legislation.gov.uk/uksi/2006/2913), [art. 1(2)](https://www.legislation.gov.uk/uksi/2006/2913/article/1/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/uksi/2006/2913/schedule/4/part/2)
 
-[^key-b0d99d297219cb211869078661f9577e]: Textual amendment: Sch. 3 para. 11 repealed (S.) (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [s. 71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2003/15/schedule/4/part/2) (with [s. 71(3)](https://www.legislation.gov.uk/asp/2003/15/section/71/3)[(4)](https://www.legislation.gov.uk/asp/2003/15/section/71/4)[(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-b0d99d297219cb211869078661f9577e]: Textual amendment: Sch. 3 para. 11 repealed (S.) (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [s. 71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2), [Sch. 4 Pt. 2](https://www.legislation.gov.uk/asp/2003/15/schedule/4/part/2) (with [s. 71(3)](https://www.legislation.gov.uk/asp/2003/15/section/71/3)[(4)](https://www.legislation.gov.uk/asp/2003/15/section/71/4)[(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
 [^c18915881]: Textual amendment: Sch. 3 para. 12 repealed (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120(3)](https://www.legislation.gov.uk/ukpga/1995/25/section/120/3), [Sch. 24](https://www.legislation.gov.uk/ukpga/1995/25/schedule/24) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
@@ -172,7 +172,7 @@ Section 108.
 
 [^c2464481]: Marginal citation: [1961 c. 64](https://www.legislation.gov.uk/ukpga/1961/64)
 
-[^key-17d07ac7ab6ae996a6791721db5a2b4a]: Textual amendment: Sch. 3 para. 18 repealed (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 23](https://www.legislation.gov.uk/uksi/2007/3538/schedule/23) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4))
+[^c-17d07ac7ab6ae996a6791721db5a2b4a]: Textual amendment: Sch. 3 para. 18 repealed (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 23](https://www.legislation.gov.uk/uksi/2007/3538/schedule/23) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4))
 
 [^c2464501]: Marginal citation: [1963 c. 33](https://www.legislation.gov.uk/ukpga/1963/33).
 

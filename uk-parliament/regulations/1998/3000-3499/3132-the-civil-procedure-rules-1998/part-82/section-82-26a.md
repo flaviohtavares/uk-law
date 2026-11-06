@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82.26A. Special advocate’s position statement[^key-5db795c66e5475df2020bfe1953ac76b]
+## 82.26A. Special advocate’s position statement[^c-5db795c66e5475df2020bfe1953ac76b]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ provided that it does not contradict the specially represented party’s stateme
 
 ## Annotations
 
-[^key-5db795c66e5475df2020bfe1953ac76b]: Textual amendment: [Rule 82.26A](https://www.legislation.gov.uk/uksi/1998/3132/rule/82.26A) inserted (6.4.2026) by [The Civil Procedure (Amendment) Rules 2026 (S.I. 2026/97)](https://www.legislation.gov.uk/uksi/2026/97), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/97/rule/1/2/a), [8(3)](https://www.legislation.gov.uk/uksi/2026/97/rule/8/3)
+[^c-5db795c66e5475df2020bfe1953ac76b]: Textual amendment: [Rule 82.26A](https://www.legislation.gov.uk/uksi/1998/3132/rule/82.26A) inserted (6.4.2026) by [The Civil Procedure (Amendment) Rules 2026 (S.I. 2026/97)](https://www.legislation.gov.uk/uksi/2026/97), [rules 1(2)(a)](https://www.legislation.gov.uk/uksi/2026/97/rule/1/2/a), [8(3)](https://www.legislation.gov.uk/uksi/2026/97/rule/8/3)

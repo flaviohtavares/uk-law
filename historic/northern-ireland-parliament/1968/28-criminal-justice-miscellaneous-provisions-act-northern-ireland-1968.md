@@ -67,7 +67,7 @@ An Act to amend the law and practice relating to certain proceedings in criminal
 - (c) by sending it in a registered letter or by the recorded delivery service addressed to him at his usual or last known place of abode or place of business or addressed to his solicitor at his office; or
 - (d) in the case of a body corporate, by delivering it to the secretary or clerk of the body at its registered or principal office or sending it in a registered letter or by the recorded delivery service addressed to the secretary or clerk of that body at that office; and in this paragraph references to the secretary, in relation to a limited liability partnership, are to any designated member of the limited liability partnership.[^c11588831].
 
-(9) This section shall apply to every criminal proceeding other than a preliminary inquiry into[^key-3dc1d10bac04df59f85368d07951a5fc] an indictable offence conducted under the Magistrates' Courts (Northern Ireland) Order 1981[^c11588851].
+(9) This section shall apply to every criminal proceeding other than a preliminary inquiry into[^c-3dc1d10bac04df59f85368d07951a5fc] an indictable offence conducted under the Magistrates' Courts (Northern Ireland) Order 1981[^c11588851].
 
 *Subs. (10) rep. by 1975 c. 59*
 
@@ -144,7 +144,7 @@ shall be guilty of an offence and shall be liable—
 
 *S. 8 substitutes s. 2 of 1960 c. 3 (NI)*
 
-## 9. Riotous, disorderly and indecent behaviour, etc.[^key-0b4b99373c5f512e18e4fa6f6eb89750]
+## 9. Riotous, disorderly and indecent behaviour, etc.[^c-0b4b99373c5f512e18e4fa6f6eb89750]
 
 (1)[^c11588911] Any person—
 
@@ -213,7 +213,7 @@ Nothing in this Act shall affect any term of imprisonment or the amount of any f
 
 [^c11588831]: Textual amendment: SR 2004/307
 
-[^key-3dc1d10bac04df59f85368d07951a5fc]: Textual amendment: Words in [s. 1(9)](https://www.legislation.gov.uk/apni/1968/28/section/1/9) substituted (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 4](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/4); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-3dc1d10bac04df59f85368d07951a5fc]: Textual amendment: Words in [s. 1(9)](https://www.legislation.gov.uk/apni/1968/28/section/1/9) substituted (17.10.2022) by [Criminal Justice (Committal Reform) Act (Northern Ireland) 2022 (c. 4)](https://www.legislation.gov.uk/nia/2022/4), [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2), [Sch. para. 4](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/4); [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
 [^c11588851]: Textual amendment: [1981 NI 26](https://www.legislation.gov.uk/1981/ni26)
 
@@ -227,7 +227,7 @@ Nothing in this Act shall affect any term of imprisonment or the amount of any f
 
 [^c20358971]: Textual amendment: [S. 7(2)](https://www.legislation.gov.uk/apni/1968/28/section/7/2) repealed (1.3.2007) by [Police and Criminal Evidence (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/288 (N.I. 2))](https://www.legislation.gov.uk/nisi/2007/288), [arts. 1(2)](https://www.legislation.gov.uk/nisi/2007/288/article/1/2), [15(4)](https://www.legislation.gov.uk/nisi/2007/288/article/15/4), [41(2)](https://www.legislation.gov.uk/nisi/2007/288/article/41/2), [Sch. 1 para. 14](https://www.legislation.gov.uk/nisi/2007/288/schedule/1/paragraph/14), [Sch. 2](https://www.legislation.gov.uk/nisi/2007/288/schedule/2)
 
-[^key-0b4b99373c5f512e18e4fa6f6eb89750]: Modification: [S. 9](https://www.legislation.gov.uk/apni/1968/28/section/9) excluded (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 31 para. 26(2)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/31/paragraph/26/2) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-0b4b99373c5f512e18e4fa6f6eb89750]: Modification: [S. 9](https://www.legislation.gov.uk/apni/1968/28/section/9) excluded (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 31 para. 26(2)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/31/paragraph/26/2) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
 
 [^c11588911]: Textual amendment: [1987 NI 7](https://www.legislation.gov.uk/1987/ni7)
 

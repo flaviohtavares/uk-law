@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Section 191A (objection by the appropriate regulator)[^key-fcbfa6be58b07015c4635dd9e50e773f]
+## 55. Section 191A (objection by the appropriate regulator)[^c-fcbfa6be58b07015c4635dd9e50e773f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 191A (objection by the appropriate regulator), omit subsection (5) [^
 
 ## Annotations
 
-[^key-fcbfa6be58b07015c4635dd9e50e773f]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-fcbfa6be58b07015c4635dd9e50e773f]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23657921]: Marginal citation: Section 191A was substituted by [S.I. 2009/534](https://www.legislation.gov.uk/uksi/2009/534); subsection (5) was amended by section 26(2) of the Financial Services Act 2012.

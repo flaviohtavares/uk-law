@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Pilot schemes for local elections in England and Wales.[^c9549431][^c20083841][^c20083871][^c20083891][^c20083911][^key-803049c7bd28a810130180e742cf65b0][^key-7e9b87c40cb3f74350810c8abbb8ac2d][^key-85e25fe997549a1923a7e473a245fd91][^key-24cb0290e1c136c9a4a7df90638f2ee0][^key-4d641e451da028b07501e50b30110651]
+## 10. Pilot schemes for local elections in England and Wales.[^c9549431][^c20083841][^c20083871][^c20083891][^c20083911][^c-803049c7bd28a810130180e742cf65b0][^c-7e9b87c40cb3f74350810c8abbb8ac2d][^c-85e25fe997549a1923a7e473a245fd91][^c-24cb0290e1c136c9a4a7df90638f2ee0][^c-4d641e451da028b07501e50b30110651]
 
 *Extent: E+W*
 
@@ -93,10 +93,10 @@ and that authority shall publish the report in their area, in such manner as the
 
 (11) In this section “**relevant local authority**” means—
 
-- (a) the following authorities in[^key-11fc499c6c7fd246aba1103c31e7b5ed] England—
+- (a) the following authorities in[^c-11fc499c6c7fd246aba1103c31e7b5ed] England—
   - (i) a county council, a district council or a London borough council, or
   - (ii) once established, the Greater London Authority;
-- (b)[^key-a6f90d7d278f8485a712362eb5422c85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-a6f90d7d278f8485a712362eb5422c85] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) For the purposes of this section proposals falling within subsection (1) and submitted to the Secretary of State before the date on which this Act is passed shall be as effective as those so submitted on or after that date.
 
@@ -116,15 +116,15 @@ and that authority shall publish the report in their area, in such manner as the
 
 [^c20083911]: Modification: S. 10 applied (with modifications) (W.) (24.7.2008) by [The Local Authorities (Conduct of Referendums) (Wales) Regulations 2008 (S.I. 2008/1848)](https://www.legislation.gov.uk/uksi/2008/1848), [reg. 8](https://www.legislation.gov.uk/uksi/2008/1848/regulation/8), {Sch. 4 para. 1 Table 2}
 
-[^key-803049c7bd28a810130180e742cf65b0]: Modification: S. 10 applied (with modifications) (E.) (9.2.2012) by [The Local Authorities (Conduct of Referendums) (England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1) Table 3
+[^c-803049c7bd28a810130180e742cf65b0]: Modification: S. 10 applied (with modifications) (E.) (9.2.2012) by [The Local Authorities (Conduct of Referendums) (England) Regulations 2012 (S.I. 2012/323)](https://www.legislation.gov.uk/uksi/2012/323), [reg. 1](https://www.legislation.gov.uk/uksi/2012/323/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/323/schedule/4/paragraph/1) Table 3
 
-[^key-7e9b87c40cb3f74350810c8abbb8ac2d]: Modification: S. 10 applied (with modifications) (E.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) Table 3 (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
+[^c-7e9b87c40cb3f74350810c8abbb8ac2d]: Modification: S. 10 applied (with modifications) (E.) (18.2.2012) by [The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 (S.I. 2012/444)](https://www.legislation.gov.uk/uksi/2012/444), [reg. 1](https://www.legislation.gov.uk/uksi/2012/444/regulation/1), [Sch. 4 para. 1](https://www.legislation.gov.uk/uksi/2012/444/schedule/4/paragraph/1) Table 3 (with [reg. 27](https://www.legislation.gov.uk/uksi/2012/444/regulation/27))
 
-[^key-85e25fe997549a1923a7e473a245fd91]: Modification: S. 10 applied (with modifications) (E.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1) Table 3
+[^c-85e25fe997549a1923a7e473a245fd91]: Modification: S. 10 applied (with modifications) (E.) (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [8](https://www.legislation.gov.uk/uksi/2012/2031/regulation/8), [12](https://www.legislation.gov.uk/uksi/2012/2031/regulation/12), [13](https://www.legislation.gov.uk/uksi/2012/2031/regulation/13), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2012/2031/schedule/4/part/1) Table 3
 
-[^key-24cb0290e1c136c9a4a7df90638f2ee0]: Modification: S. 10 applied (with modifications) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), reg. 17, Sch. 8 Table 2 (as inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/798/regulation/7), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/798/schedule/3))
+[^c-24cb0290e1c136c9a4a7df90638f2ee0]: Modification: S. 10 applied (with modifications) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), reg. 17, Sch. 8 Table 2 (as inserted (6.4.2013) by [The Neighbourhood Planning (Referendums) (Amendment) Regulations 2013 (S.I. 2013/798)](https://www.legislation.gov.uk/uksi/2013/798), [regs. 1](https://www.legislation.gov.uk/uksi/2013/798/regulation/1), [7](https://www.legislation.gov.uk/uksi/2013/798/regulation/7), [Sch. 3](https://www.legislation.gov.uk/uksi/2013/798/schedule/3))
 
-[^key-4d641e451da028b07501e50b30110651]: Modification: S. 10 modified by S.I. 2017/67, Sch. 2 para. 3(1A) (as inserted (coming into force in accordance with of the amending S.I.) by [The Combined Authorities (Mayoral Elections) (Amendment) Order 2018 (S.I. 2018/19)](https://www.legislation.gov.uk/uksi/2018/19), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/19/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/19/article/3/2))
+[^c-4d641e451da028b07501e50b30110651]: Modification: S. 10 modified by S.I. 2017/67, Sch. 2 para. 3(1A) (as inserted (coming into force in accordance with of the amending S.I.) by [The Combined Authorities (Mayoral Elections) (Amendment) Order 2018 (S.I. 2018/19)](https://www.legislation.gov.uk/uksi/2018/19), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/19/article/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2018/19/article/3/2))
 
 [^c9549441]: Modification: S. 10(1) amended (1.7.2001) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [s. 9(1)(a)](https://www.legislation.gov.uk/ukpga/2000/41/section/9/1/a) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6)); [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 4](https://www.legislation.gov.uk/uksi/2001/222/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/222/schedule/2) (with [Sch. 2 Pt. II para. 1](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/II/paragraph/1))
 
@@ -140,6 +140,6 @@ and that authority shall publish the report in their area, in such manner as the
 
 [^c9549501]: Textual amendment: S. 10(10) substituted (1.7.2001) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [s. 158](https://www.legislation.gov.uk/ukpga/2000/41/section/158), [Sch. 21 para. 16(7)](https://www.legislation.gov.uk/ukpga/2000/41/schedule/21/paragraph/16/7) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6)); [S.I. 2001/222](https://www.legislation.gov.uk/uksi/2001/222), [art. 4](https://www.legislation.gov.uk/uksi/2001/222/article/4), [Sch. 2](https://www.legislation.gov.uk/uksi/2001/222/schedule/2) (with [Sch. 2 Pt. II para. 2](https://www.legislation.gov.uk/uksi/2001/222/schedule/2/part/II/paragraph/2))
 
-[^key-11fc499c6c7fd246aba1103c31e7b5ed]: Textual amendment: Words in [s. 10(11)(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/10/11/a) substituted (10.9.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a), [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/3/2/a)
+[^c-11fc499c6c7fd246aba1103c31e7b5ed]: Textual amendment: Words in [s. 10(11)(a)](https://www.legislation.gov.uk/ukpga/2000/2/section/10/11/a) substituted (10.9.2024) by [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a), [Sch. 1 para. 3(2)(a)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/3/2/a)
 
-[^key-a6f90d7d278f8485a712362eb5422c85]: Textual amendment: [S. 10(11)(b)](https://www.legislation.gov.uk/ukpga/2000/2/section/10/11/b) omitted (10.9.2024) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a), [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/3/2/b)
+[^c-a6f90d7d278f8485a712362eb5422c85]: Textual amendment: [S. 10(11)(b)](https://www.legislation.gov.uk/ukpga/2000/2/section/10/11/b) omitted (10.9.2024) by virtue of [Elections and Elected Bodies (Wales) Act 2024 (asc 5)](https://www.legislation.gov.uk/asc/2024/5), [s. 72(1)(a)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/a), [Sch. 1 para. 3(2)(b)](https://www.legislation.gov.uk/asc/2024/5/schedule/1/paragraph/3/2/b)

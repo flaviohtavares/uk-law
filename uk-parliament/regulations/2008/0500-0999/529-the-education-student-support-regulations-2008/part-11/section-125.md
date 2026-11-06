@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Information[^key-881e109ea54a593f9b38ae89aa5a8869]
+## 125. Information[^c-881e109ea54a593f9b38ae89aa5a8869]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ Schedule 3 deals with the provision of information.
 
 ## Annotations
 
-[^key-881e109ea54a593f9b38ae89aa5a8869]: Commencement: Reg. 125 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-881e109ea54a593f9b38ae89aa5a8869]: Commencement: Reg. 125 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

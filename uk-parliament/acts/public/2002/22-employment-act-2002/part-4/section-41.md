@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Power to confer rights on individuals: amendment[^key-a35c3b3fe7c03dc440572af2cba4e2c1]
+## 41. Power to confer rights on individuals: amendment[^c-a35c3b3fe7c03dc440572af2cba4e2c1]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a35c3b3fe7c03dc440572af2cba4e2c1]: Textual amendment: S. 41 repealed (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [s. 59(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4)
+[^c-a35c3b3fe7c03dc440572af2cba4e2c1]: Textual amendment: S. 41 repealed (6.4.2005) by [Employment Relations Act 2004 (c. 24)](https://www.legislation.gov.uk/ukpga/2004/24), [s. 59(3)](https://www.legislation.gov.uk/ukpga/2004/24/section/59/3), [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/24/schedule/2); [S.I. 2005/872](https://www.legislation.gov.uk/uksi/2005/872), [art. 4](https://www.legislation.gov.uk/uksi/2005/872/article/4)

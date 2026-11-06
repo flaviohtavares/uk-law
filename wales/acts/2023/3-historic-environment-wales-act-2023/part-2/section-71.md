@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Treatment and preservation of finds[^key-46c03c6d78e39ad41ab395845f64e1f5][^key-66ac6a82fcf4927899f25e274bf7ac32]
+## 71. Treatment and preservation of finds[^c-46c03c6d78e39ad41ab395845f64e1f5][^c-66ac6a82fcf4927899f25e274bf7ac32]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-46c03c6d78e39ad41ab395845f64e1f5]: Commencement: S. 71 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-46c03c6d78e39ad41ab395845f64e1f5]: Commencement: S. 71 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-66ac6a82fcf4927899f25e274bf7ac32]: Commencement: [S. 71](https://www.legislation.gov.uk/asc/2023/3/section/71) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-66ac6a82fcf4927899f25e274bf7ac32]: Commencement: [S. 71](https://www.legislation.gov.uk/asc/2023/3/section/71) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 257PA. Entitlement to claim[^key-aaf10c7dc329529b2ca19087f01e69e7]
+## 257PA. Entitlement to claim[^c-aaf10c7dc329529b2ca19087f01e69e7]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-150c3b62fbf3024e5f1f2e8638811054] The investor is entitled to make a claim for SI relief in respect of the amount invested if the investor has received from the social enterprise a compliance certificate in respect of that amount.
+(1)[^c-150c3b62fbf3024e5f1f2e8638811054] The investor is entitled to make a claim for SI relief in respect of the amount invested if the investor has received from the social enterprise a compliance certificate in respect of that amount.
 
 (2) For the purposes of PAYE regulations, no regard is to be had to SI relief unless a claim for it has been duly made.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
+[^c-aaf10c7dc329529b2ca19087f01e69e7]: Textual amendment: Pt. 5B inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2014/26/schedule/11/paragraph/1)
 
-[^key-150c3b62fbf3024e5f1f2e8638811054]: Modification: S. 257PA(1) applied (with modifications) by 1992 c. 12, Sch. 8B para. 8(1) (as inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/12/paragraph/3))
+[^c-150c3b62fbf3024e5f1f2e8638811054]: Modification: S. 257PA(1) applied (with modifications) by 1992 c. 12, Sch. 8B para. 8(1) (as inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 12 para. 3](https://www.legislation.gov.uk/ukpga/2014/26/schedule/12/paragraph/3))

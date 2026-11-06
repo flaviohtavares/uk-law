@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-1. AIFMs can only carry out an AIF order in aggregate with an order of another AIF, a UK UCITS[^key-c4b34954e87cb50f2c8b167a6dc8c825] or a client or with an order made when investing their own funds where:
+1. AIFMs can only carry out an AIF order in aggregate with an order of another AIF, a UK UCITS[^c-c4b34954e87cb50f2c8b167a6dc8c825] or a client or with an order made when investing their own funds where:
 
 - (a) it can be reasonably expected that the aggregation of orders will not work overall to the disadvantage of any AIF, UK UCITS or clients whose order is to be aggregated;
 - (b) an order allocation policy is established and implemented, providing in sufficiently precise terms for the fair allocation of aggregated orders, including how the volume and price of orders determines allocations and the treatment of partial executions.
@@ -35,4 +35,4 @@ However, if the AIFM is able to demonstrate to the AIF or to the client on reaso
 
 ## Annotations
 
-[^key-c4b34954e87cb50f2c8b167a6dc8c825]: Textual amendment: Words in Art. 29 substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [24(5)](https://www.legislation.gov.uk/uksi/2019/328/regulation/24) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c4b34954e87cb50f2c8b167a6dc8c825]: Textual amendment: Words in Art. 29 substituted (31.12.2020) by [The Alternative Investment Fund Managers (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/328)](https://www.legislation.gov.uk/uksi/2019/328), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/328/regulation/1), [24(5)](https://www.legislation.gov.uk/uksi/2019/328/regulation/24) (as amended by [S.I. 2019/325](https://www.legislation.gov.uk/uksi/2019/325), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/325/regulation/1/3), [58](https://www.legislation.gov.uk/uksi/2019/325/regulation/58)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

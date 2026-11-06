@@ -47,7 +47,7 @@ summary: ''
 >
 >   for purposes to which this Part of this Act applies.
 
-(2)[^key-de5efe64beeb32034cc000692cbb913d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-de5efe64beeb32034cc000692cbb913d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (6) of that section—
 
@@ -58,4 +58,4 @@ summary: ''
 
 [^c10456521]: Marginal citation: [1982 c. 36](https://www.legislation.gov.uk/ukpga/1982/36).
 
-[^key-de5efe64beeb32034cc000692cbb913d]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/3/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)
+[^c-de5efe64beeb32034cc000692cbb913d]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/3/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 4](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/4)

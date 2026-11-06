@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Services from outside the United Kingdom[^key-ad3b11293d9e0acaac0e1df34908617f][^key-0dcc1b40643111c68a6802e364a941a7]
+## 82. Services from outside the United Kingdom[^c-ad3b11293d9e0acaac0e1df34908617f][^c-0dcc1b40643111c68a6802e364a941a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ shall be treated as being supplied on 31st December 2009.
 
 ## Annotations
 
-[^key-ad3b11293d9e0acaac0e1df34908617f]: Modification: [Reg. 82](https://www.legislation.gov.uk/uksi/1995/2518/regulation/82) modified (1.7.1997) by [The Value Added Tax (Reverse Charge) (Anti-avoidance) Order 1997 (S.I. 1997/1523)](https://www.legislation.gov.uk/uksi/1997/1523), [arts. 1](https://www.legislation.gov.uk/uksi/1997/1523/article/1), [4(1)](https://www.legislation.gov.uk/uksi/1997/1523/article/4/1)
+[^c-ad3b11293d9e0acaac0e1df34908617f]: Modification: [Reg. 82](https://www.legislation.gov.uk/uksi/1995/2518/regulation/82) modified (1.7.1997) by [The Value Added Tax (Reverse Charge) (Anti-avoidance) Order 1997 (S.I. 1997/1523)](https://www.legislation.gov.uk/uksi/1997/1523), [arts. 1](https://www.legislation.gov.uk/uksi/1997/1523/article/1), [4(1)](https://www.legislation.gov.uk/uksi/1997/1523/article/4/1)
 
-[^key-0dcc1b40643111c68a6802e364a941a7]: Textual amendment: [Reg. 82](https://www.legislation.gov.uk/uksi/1995/2518/regulation/82) substituted (1.1.2010) by [The Value Added Tax (Amendment) (No. 5) Regulations 2009 (S.I. 2009/3241)](https://www.legislation.gov.uk/uksi/2009/3241), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3241/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/3241/regulation/10) (with [reg. 18](https://www.legislation.gov.uk/uksi/2009/3241/regulation/18))
+[^c-0dcc1b40643111c68a6802e364a941a7]: Textual amendment: [Reg. 82](https://www.legislation.gov.uk/uksi/1995/2518/regulation/82) substituted (1.1.2010) by [The Value Added Tax (Amendment) (No. 5) Regulations 2009 (S.I. 2009/3241)](https://www.legislation.gov.uk/uksi/2009/3241), [regs. 1](https://www.legislation.gov.uk/uksi/2009/3241/regulation/1), [10](https://www.legislation.gov.uk/uksi/2009/3241/regulation/10) (with [reg. 18](https://www.legislation.gov.uk/uksi/2009/3241/regulation/18))

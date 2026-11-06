@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Guarantees in respect of payment of compensation[^key-d4cc1cf1e4b29cf01e34ed31d0b3f3e2]
+## 45. Guarantees in respect of payment of compensation[^c-d4cc1cf1e4b29cf01e34ed31d0b3f3e2]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4cc1cf1e4b29cf01e34ed31d0b3f3e2]: Commencement: Art. 45 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)
+[^c-d4cc1cf1e4b29cf01e34ed31d0b3f3e2]: Commencement: Art. 45 in force at 29.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1396/article/1)

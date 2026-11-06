@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1) On the declaration of any suspect premises the Secretary of State may[^key-172acf6cf0bb2075564871df0fa2496d] also declare an area around those premises of such size as she considers fit to prevent the spread of disease to be a temporary control zone.
+(1) On the declaration of any suspect premises the Secretary of State may[^c-172acf6cf0bb2075564871df0fa2496d] also declare an area around those premises of such size as she considers fit to prevent the spread of disease to be a temporary control zone.
 
 (2) If the Secretary of State is satisfied that an animal or carcase in Scotland or Wales is suspected of being infected or contaminated, she may declare a temporary control zone of such size as she considers fit to prevent the spread of disease.
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-172acf6cf0bb2075564871df0fa2496d]: Textual amendment: Word in [art. 16(1)](https://www.legislation.gov.uk/uksi/2006/182/article/16/1) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [6](https://www.legislation.gov.uk/uksi/2021/443/article/6)
+[^c-172acf6cf0bb2075564871df0fa2496d]: Textual amendment: Word in [art. 16(1)](https://www.legislation.gov.uk/uksi/2006/182/article/16/1) substituted (21.4.2021) by [The Specified Diseases (Notification and Control) (Amendment, etc.) (England) Order 2021 (S.I. 2021/443)](https://www.legislation.gov.uk/uksi/2021/443), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2021/443/article/1/1), [6](https://www.legislation.gov.uk/uksi/2021/443/article/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 63. Other pension accounts[^key-e9508807265239e84e8d6b17bf8bd257]
+## 63. Other pension accounts[^c-e9508807265239e84e8d6b17bf8bd257]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ If a pension credit member of this scheme is also an active member, deferred mem
 
 ## Annotations
 
-[^key-e9508807265239e84e8d6b17bf8bd257]: Commencement: Reg. 63 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-e9508807265239e84e8d6b17bf8bd257]: Commencement: Reg. 63 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

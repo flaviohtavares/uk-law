@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Online marketplace operators[^key-2a8c36fbc9b644740064d22edcd1e1fc]
+## 20. Online marketplace operators[^c-2a8c36fbc9b644740064d22edcd1e1fc]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a8c36fbc9b644740064d22edcd1e1fc]: Commencement: Reg. 20 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-2a8c36fbc9b644740064d22edcd1e1fc]: Commencement: Reg. 20 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

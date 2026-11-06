@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. Meaning of “the Troubles” and other key expressions[^key-62b416b502d4548b16d42f6d713f0d4c]
+## 1. Meaning of “the Troubles” and other key expressions[^c-62b416b502d4548b16d42f6d713f0d4c]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ any other event or conduct relating to Northern Ireland affairs.
 
 ## Annotations
 
-[^key-62b416b502d4548b16d42f6d713f0d4c]: Commencement: S. 1 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)
+[^c-62b416b502d4548b16d42f6d713f0d4c]: Commencement: S. 1 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)

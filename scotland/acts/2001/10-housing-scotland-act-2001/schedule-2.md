@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 2 — SCOTTISH SECURE TENANCY: GROUNDS FOR RECOVERY OF POSSESSION OR TERMINATION OF JOINT TENANT'S INTEREST[^c1582221][^key-d156914e58007f73a6530f1bc03284e3]
+## SCHEDULE 2 — SCOTTISH SECURE TENANCY: GROUNDS FOR RECOVERY OF POSSESSION OR TERMINATION OF JOINT TENANT'S INTEREST[^c1582221][^c-d156914e58007f73a6530f1bc03284e3]
 
 *Extent: S*
 
 *(introduced by sections 14, 16, 19, 21 and 22)*
 
-### PART 1 — GROUNDS ON WHICH COURT MAY ORDER RECOVERY OF POSSESSION OR TERMINATION OF JOINT TENANT'S INTEREST[^key-dd71de0dd9b694bf39c42cf276375508]
+### PART 1 — GROUNDS ON WHICH COURT MAY ORDER RECOVERY OF POSSESSION OR TERMINATION OF JOINT TENANT'S INTEREST[^c-dd71de0dd9b694bf39c42cf276375508]
 
 **1.** Rent lawfully due from the tenant has not been paid, or any other obligation of the tenancy has been broken.
 
@@ -39,8 +39,8 @@ summary: ''
 
 **5.** The tenant and—
 
-- (a) the tenant’s spouse or civil partner[^key-6d4bfd96d6c9eb7633dad4e7ca008941] , or
-- (b) any person with whom the tenant has, for a period of at least 6 months immediately prior to the commencement of the period referred to below, been living in the house as husband and wife or in a relationship which has the characteristics of the relationship between civil partners[^key-62977fc2a14e8f59048c0fcde1d2866c] ,
+- (a) the tenant’s spouse or civil partner[^c-6d4bfd96d6c9eb7633dad4e7ca008941] , or
+- (b) any person with whom the tenant has, for a period of at least 6 months immediately prior to the commencement of the period referred to below, been living in the house as husband and wife or in a relationship which has the characteristics of the relationship between civil partners[^c-62977fc2a14e8f59048c0fcde1d2866c] ,
 
 have been absent from the house without reasonable cause for a continuous period exceeding 6 months or have ceased to occupy the house as their principal home.
 
@@ -76,12 +76,12 @@ and in the opinion of the landlord it is appropriate in the circumstances to req
 
 **11.** The house has been designed or adapted for occupation by a person whose special needs require accommodation of the kind provided by the house and—
 
-- (a) there is no [^key-b6ac8902fa9f893d5cffa5dd8a55fb70]... person with such special needs occupying the house, and
+- (a) there is no [^c-b6ac8902fa9f893d5cffa5dd8a55fb70]... person with such special needs occupying the house, and
 - (b) the landlord requires it for occupation (whether alone or with other members of the person’s family) by a person who has such special needs.
 
 **12.** The house forms part of a group of houses which has been designed, or which has been provided with or located near facilities, for persons with special needs, and—
 
-- (a) there is no [^key-20d7597cf79e8a874de279145fcbbb67]... person with such a need occupying the house, and
+- (a) there is no [^c-20d7597cf79e8a874de279145fcbbb67]... person with such a need occupying the house, and
 - (b) the landlord requires it for occupation (whether alone or with other members of the person’s family) by a person who has such a need.
 
 **13.** The interest of the landlord in the house is that of a lessee under a lease and that lease either—
@@ -99,12 +99,12 @@ and in the opinion of the landlord it is appropriate in the circumstances to req
 
 **15.** The landlord wishes to transfer the tenancy of the house to—
 
-- (a) the tenant’s spouse or civil partner (or former spouse or former civil partner)[^key-bd98f7146a88100a2f0968484a011226] , or
-- (b) a person with whom the tenant has, for a period of at least 6 months immediately prior to the date of the application for transfer, been living in the house as husband and wife or in a relationship which has the characteristics of the relationship between civil partners[^key-eb93c1ebbcdf0a7edaa830daa44ed93b] ,
+- (a) the tenant’s spouse or civil partner (or former spouse or former civil partner)[^c-bd98f7146a88100a2f0968484a011226] , or
+- (b) a person with whom the tenant has, for a period of at least 6 months immediately prior to the date of the application for transfer, been living in the house as husband and wife or in a relationship which has the characteristics of the relationship between civil partners[^c-eb93c1ebbcdf0a7edaa830daa44ed93b] ,
 
 who has applied to the landlord for such transfer; and the tenant or (as the case may be) the spouse or other person no longer wishes to live together with the other in the house.
 
-**15A.**[^key-6b29deff43a5f5d3823cd8498c6cac99] (1) A person (“person T”) who is the tenant or one of the joint tenants has engaged in behaviour which is abusive of a person (“person P”) who is a partner or ex-partner of person T, and the conditions in sub-paragraph (2) are met.
+**15A.**[^c-6b29deff43a5f5d3823cd8498c6cac99] (1) A person (“person T”) who is the tenant or one of the joint tenants has engaged in behaviour which is abusive of a person (“person P”) who is a partner or ex-partner of person T, and the conditions in sub-paragraph (2) are met.
 
 (2) The conditions are—
 
@@ -129,7 +129,7 @@ who has applied to the landlord for such transfer; and the tenant or (as the cas
 
 **16.** For the purposes of sections 16(4), 19(5), 21(5) and 22(7), accommodation is suitable if—
 
-- (a) it consists of premises which are to be let as a separate dwelling under a Scottish secure tenancy or under a private residential tenancy[^key-2908215fe5ddc0021bd87733b3cb9aed] , and
+- (a) it consists of premises which are to be let as a separate dwelling under a Scottish secure tenancy or under a private residential tenancy[^c-2908215fe5ddc0021bd87733b3cb9aed] , and
 - (b) it is reasonably suitable to the needs of the tenant and the tenant’s family.
 
 **17.** In determining whether accommodation is reasonably suitable to the needs of the tenant and the tenant’s family, regard is to be had to—
@@ -150,22 +150,22 @@ who has applied to the landlord for such transfer; and the tenant or (as the cas
 
 [^c1582221]: Commencement: Sch. 2 wholly in force at 30.9.2002, see [s. 113(1)(2)](https://www.legislation.gov.uk/asp/2001/10/section/113/1/2) and [S.S.I. 2002/321](https://www.legislation.gov.uk/ssi/2002/321), [art. 2](https://www.legislation.gov.uk/ssi/2002/321/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2002/321/schedule) (subject to transitional provisions and savings in [arts. 3-5](https://www.legislation.gov.uk/ssi/2002/321/article/3))
 
-[^key-d156914e58007f73a6530f1bc03284e3]: Textual amendment: Sch. 2 heading substituted (1.8.2026) by [Domestic Abuse (Protection) (Scotland) Act 2021 (asp 16)](https://www.legislation.gov.uk/asp/2021/16), [ss. 22(7)](https://www.legislation.gov.uk/asp/2021/16/section/22/7), [24(2)](https://www.legislation.gov.uk/asp/2021/16/section/24/2); [S.S.I. 2025/400](https://www.legislation.gov.uk/ssi/2025/400), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/400/regulation/2/b)
+[^c-d156914e58007f73a6530f1bc03284e3]: Textual amendment: Sch. 2 heading substituted (1.8.2026) by [Domestic Abuse (Protection) (Scotland) Act 2021 (asp 16)](https://www.legislation.gov.uk/asp/2021/16), [ss. 22(7)](https://www.legislation.gov.uk/asp/2021/16/section/22/7), [24(2)](https://www.legislation.gov.uk/asp/2021/16/section/24/2); [S.S.I. 2025/400](https://www.legislation.gov.uk/ssi/2025/400), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/400/regulation/2/b)
 
-[^key-dd71de0dd9b694bf39c42cf276375508]: Textual amendment: Sch. 2 Pt. 1 heading substituted (1.8.2026) by [Domestic Abuse (Protection) (Scotland) Act 2021 (asp 16)](https://www.legislation.gov.uk/asp/2021/16), [ss. 22(8)](https://www.legislation.gov.uk/asp/2021/16/section/22/8), [24(2)](https://www.legislation.gov.uk/asp/2021/16/section/24/2); [S.S.I. 2025/400](https://www.legislation.gov.uk/ssi/2025/400), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/400/regulation/2/b)
+[^c-dd71de0dd9b694bf39c42cf276375508]: Textual amendment: Sch. 2 Pt. 1 heading substituted (1.8.2026) by [Domestic Abuse (Protection) (Scotland) Act 2021 (asp 16)](https://www.legislation.gov.uk/asp/2021/16), [ss. 22(8)](https://www.legislation.gov.uk/asp/2021/16/section/22/8), [24(2)](https://www.legislation.gov.uk/asp/2021/16/section/24/2); [S.S.I. 2025/400](https://www.legislation.gov.uk/ssi/2025/400), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/400/regulation/2/b)
 
-[^key-6d4bfd96d6c9eb7633dad4e7ca008941]: Textual amendment: Words in sch. 2 para. 5(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 65(2)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/65/2/a); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [arts. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c), [4](https://www.legislation.gov.uk/ssi/2005/604/article/4)
+[^c-6d4bfd96d6c9eb7633dad4e7ca008941]: Textual amendment: Words in sch. 2 para. 5(a) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 65(2)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/65/2/a); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [arts. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c), [4](https://www.legislation.gov.uk/ssi/2005/604/article/4)
 
-[^key-62977fc2a14e8f59048c0fcde1d2866c]: Textual amendment: Words in sch. 2 para. 5(b) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 65(2)(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/65/2/b); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [arts. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c), [4](https://www.legislation.gov.uk/ssi/2005/604/article/4)
+[^c-62977fc2a14e8f59048c0fcde1d2866c]: Textual amendment: Words in sch. 2 para. 5(b) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 65(2)(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/65/2/b); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [arts. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c), [4](https://www.legislation.gov.uk/ssi/2005/604/article/4)
 
-[^key-b6ac8902fa9f893d5cffa5dd8a55fb70]: Textual amendment: Words in sch. 2 para. 11(a) repealed (1.5.2019) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 15(a)](https://www.legislation.gov.uk/asp/2014/14/section/15/a), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2018/153/article/5), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-b6ac8902fa9f893d5cffa5dd8a55fb70]: Textual amendment: Words in sch. 2 para. 11(a) repealed (1.5.2019) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 15(a)](https://www.legislation.gov.uk/asp/2014/14/section/15/a), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2018/153/article/5), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
 
-[^key-20d7597cf79e8a874de279145fcbbb67]: Textual amendment: Words in sch. 2 para. 12(a) repealed (1.5.2019) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 15(b)](https://www.legislation.gov.uk/asp/2014/14/section/15/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2018/153/article/5), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-20d7597cf79e8a874de279145fcbbb67]: Textual amendment: Words in sch. 2 para. 12(a) repealed (1.5.2019) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 15(b)](https://www.legislation.gov.uk/asp/2014/14/section/15/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 5](https://www.legislation.gov.uk/ssi/2018/153/article/5), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
 
-[^key-bd98f7146a88100a2f0968484a011226]: Textual amendment: Words in sch. 2 para. 15(a) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 65(3)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/65/3/a); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [arts. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c), [4](https://www.legislation.gov.uk/ssi/2005/604/article/4)
+[^c-bd98f7146a88100a2f0968484a011226]: Textual amendment: Words in sch. 2 para. 15(a) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 65(3)(a)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/65/3/a); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [arts. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c), [4](https://www.legislation.gov.uk/ssi/2005/604/article/4)
 
-[^key-eb93c1ebbcdf0a7edaa830daa44ed93b]: Textual amendment: Words in sch. 2 para. 15(b) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 65(3)(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/65/3/b); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [arts. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c), [4](https://www.legislation.gov.uk/ssi/2005/604/article/4)
+[^c-eb93c1ebbcdf0a7edaa830daa44ed93b]: Textual amendment: Words in sch. 2 para. 15(b) substituted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [s. 263(10)(c)](https://www.legislation.gov.uk/ukpga/2004/33/section/263/10/c), [Sch. 28 para. 65(3)(b)](https://www.legislation.gov.uk/ukpga/2004/33/schedule/28/paragraph/65/3/b); [S.S.I. 2005/604](https://www.legislation.gov.uk/ssi/2005/604), [arts. 2(c)](https://www.legislation.gov.uk/ssi/2005/604/article/2/c), [4](https://www.legislation.gov.uk/ssi/2005/604/article/4)
 
-[^key-6b29deff43a5f5d3823cd8498c6cac99]: Textual amendment: Sch. 2 para. 15A inserted (1.8.2026) by [Domestic Abuse (Protection) (Scotland) Act 2021 (asp 16)](https://www.legislation.gov.uk/asp/2021/16), [ss. 22(4)](https://www.legislation.gov.uk/asp/2021/16/section/22/4), [24(2)](https://www.legislation.gov.uk/asp/2021/16/section/24/2); [S.S.I. 2025/400](https://www.legislation.gov.uk/ssi/2025/400), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/400/regulation/2/b)
+[^c-6b29deff43a5f5d3823cd8498c6cac99]: Textual amendment: Sch. 2 para. 15A inserted (1.8.2026) by [Domestic Abuse (Protection) (Scotland) Act 2021 (asp 16)](https://www.legislation.gov.uk/asp/2021/16), [ss. 22(4)](https://www.legislation.gov.uk/asp/2021/16/section/22/4), [24(2)](https://www.legislation.gov.uk/asp/2021/16/section/24/2); [S.S.I. 2025/400](https://www.legislation.gov.uk/ssi/2025/400), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/400/regulation/2/b)
 
-[^key-2908215fe5ddc0021bd87733b3cb9aed]: Textual amendment: Words in sch. 2 para. 16(a) substituted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 7(5)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/7/5); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)
+[^c-2908215fe5ddc0021bd87733b3cb9aed]: Textual amendment: Words in sch. 2 para. 16(a) substituted (1.12.2017) by [Private Housing (Tenancies) (Scotland) Act 2016 (asp 19)](https://www.legislation.gov.uk/asp/2016/19), [s. 79(2)](https://www.legislation.gov.uk/asp/2016/19/section/79/2), [sch. 4 para. 7(5)](https://www.legislation.gov.uk/asp/2016/19/schedule/4/paragraph/7/5); [S.S.I. 2017/346](https://www.legislation.gov.uk/ssi/2017/346), [reg. 2](https://www.legislation.gov.uk/ssi/2017/346/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/346/schedule)

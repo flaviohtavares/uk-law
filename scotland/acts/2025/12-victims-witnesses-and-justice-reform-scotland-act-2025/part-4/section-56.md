@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Parole Board rules: safety and security of victims and victims’ family[^key-f3b06ae38a7d165c8fa1afd61218b1bc][^key-bd6beaf312a889749c91f93753192b48]
+## 56. Parole Board rules: safety and security of victims and victims’ family[^c-f3b06ae38a7d165c8fa1afd61218b1bc][^c-bd6beaf312a889749c91f93753192b48]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3b06ae38a7d165c8fa1afd61218b1bc]: Commencement: S. 56 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-f3b06ae38a7d165c8fa1afd61218b1bc]: Commencement: S. 56 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
 
-[^key-bd6beaf312a889749c91f93753192b48]: Commencement: S. 56 in force at 11.2.2026 by [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/2/b) (as amended by [S.S.I. 2026/66](https://www.legislation.gov.uk/ssi/2026/66), [regs. 1](https://www.legislation.gov.uk/ssi/2026/66/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/66/regulation/2/2))
+[^c-bd6beaf312a889749c91f93753192b48]: Commencement: S. 56 in force at 11.2.2026 by [S.S.I. 2025/393](https://www.legislation.gov.uk/ssi/2025/393), [reg. 2(2)(b)](https://www.legislation.gov.uk/ssi/2025/393/regulation/2/2/b) (as amended by [S.S.I. 2026/66](https://www.legislation.gov.uk/ssi/2026/66), [regs. 1](https://www.legislation.gov.uk/ssi/2026/66/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2026/66/regulation/2/2))

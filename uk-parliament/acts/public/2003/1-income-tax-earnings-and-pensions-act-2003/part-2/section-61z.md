@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61Z. Relevant parties[^key-b3ef2e4f9ad73de8011825192c065b54]
+## 61Z. Relevant parties[^c-b3ef2e4f9ad73de8011825192c065b54]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ the person who is UK resident and is closest, by reference to that series of con
 
 ## Annotations
 
-[^key-b3ef2e4f9ad73de8011825192c065b54]: Textual amendment: [Pt. 2 Ch. 11](https://www.legislation.gov.uk/ukpga/2003/1/part/2/chapter/11) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 24(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/2)[(11)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/11)
+[^c-b3ef2e4f9ad73de8011825192c065b54]: Textual amendment: [Pt. 2 Ch. 11](https://www.legislation.gov.uk/ukpga/2003/1/part/2/chapter/11) inserted (with effect in accordance with s. 24(11) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 24(2)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/2)[(11)](https://www.legislation.gov.uk/ukpga/2026/11/section/24/11)

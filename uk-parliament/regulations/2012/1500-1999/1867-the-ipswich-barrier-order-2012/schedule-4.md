@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — ACQUISITION OF NEW RIGHTS ONLY[^key-3bc4f9ded2e30d6990d8ded68c77eddc]
+## SCHEDULE 4 — ACQUISITION OF NEW RIGHTS ONLY[^c-3bc4f9ded2e30d6990d8ded68c77eddc]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ Article 26
 
 ## Annotations
 
-[^key-3bc4f9ded2e30d6990d8ded68c77eddc]: Commencement: Sch. 4 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)
+[^c-3bc4f9ded2e30d6990d8ded68c77eddc]: Commencement: Sch. 4 in force at 7.8.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/1867/article/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52.19. Orders to limit the recoverable costs of an appeal – general[^key-80838474f749f7ae040b777947f28e75][^key-223fa98200eb13674e38a5e6a7cb36ed]
+## 52.19. Orders to limit the recoverable costs of an appeal – general[^c-80838474f749f7ae040b777947f28e75][^c-223fa98200eb13674e38a5e6a7cb36ed]
 
 *Extent: E+W*
 
-(1) Subject to rule 52.19A, in[^key-3e4510be47d0f276ce0d63deb09e32d7] any proceedings in which costs recovery is normally limited or excluded at first instance, an appeal court may make an order that the recoverable costs of an appeal will be limited to the extent which the court specifies.
+(1) Subject to rule 52.19A, in[^c-3e4510be47d0f276ce0d63deb09e32d7] any proceedings in which costs recovery is normally limited or excluded at first instance, an appeal court may make an order that the recoverable costs of an appeal will be limited to the extent which the court specifies.
 
 (2) In making such an order the court will have regard to—
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
+[^c-80838474f749f7ae040b777947f28e75]: Textual amendment: Pt. 52 substituted (3.10.2016) by [The Civil Procedure (Amendment No. 3) Rules 2016 (S.I. 2016/788)](https://www.legislation.gov.uk/uksi/2016/788), [rule 2](https://www.legislation.gov.uk/uksi/2016/788/rule/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/788/schedule) (with [rule 16](https://www.legislation.gov.uk/uksi/2016/788/rule/16))
 
-[^key-223fa98200eb13674e38a5e6a7cb36ed]: Textual amendment: Word in [rule 52.19 heading](https://www.legislation.gov.uk/uksi/1998/3132/part/52/crossheading/4) inserted (28.2.2017) by [The Civil Procedure (Amendment) Rules 2017 (S.I. 2017/95)](https://www.legislation.gov.uk/uksi/2017/95), [rules 2(a)](https://www.legislation.gov.uk/uksi/2017/95/rule/2/a), [9(1)(a)](https://www.legislation.gov.uk/uksi/2017/95/rule/9/1/a) (with [rule 13(3)](https://www.legislation.gov.uk/uksi/2017/95/rule/13/3))
+[^c-223fa98200eb13674e38a5e6a7cb36ed]: Textual amendment: Word in [rule 52.19 heading](https://www.legislation.gov.uk/uksi/1998/3132/part/52/crossheading/4) inserted (28.2.2017) by [The Civil Procedure (Amendment) Rules 2017 (S.I. 2017/95)](https://www.legislation.gov.uk/uksi/2017/95), [rules 2(a)](https://www.legislation.gov.uk/uksi/2017/95/rule/2/a), [9(1)(a)](https://www.legislation.gov.uk/uksi/2017/95/rule/9/1/a) (with [rule 13(3)](https://www.legislation.gov.uk/uksi/2017/95/rule/13/3))
 
-[^key-3e4510be47d0f276ce0d63deb09e32d7]: Textual amendment: Words in rule 52.19(1) substituted (28.2.2017) by [The Civil Procedure (Amendment) Rules 2017 (S.I. 2017/95)](https://www.legislation.gov.uk/uksi/2017/95), [rules 2(a)](https://www.legislation.gov.uk/uksi/2017/95/rule/2/a), [9(1)(b)](https://www.legislation.gov.uk/uksi/2017/95/rule/9/1/b) (with [rule 13(3)](https://www.legislation.gov.uk/uksi/2017/95/rule/13/3))
+[^c-3e4510be47d0f276ce0d63deb09e32d7]: Textual amendment: Words in rule 52.19(1) substituted (28.2.2017) by [The Civil Procedure (Amendment) Rules 2017 (S.I. 2017/95)](https://www.legislation.gov.uk/uksi/2017/95), [rules 2(a)](https://www.legislation.gov.uk/uksi/2017/95/rule/2/a), [9(1)(b)](https://www.legislation.gov.uk/uksi/2017/95/rule/9/1/b) (with [rule 13(3)](https://www.legislation.gov.uk/uksi/2017/95/rule/13/3))

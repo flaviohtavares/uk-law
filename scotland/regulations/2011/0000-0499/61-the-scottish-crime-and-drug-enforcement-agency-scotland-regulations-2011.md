@@ -52,11 +52,11 @@ In accordance with section 62(1A) of the Police Act 1996[^f00003], the Scottish
 
 ## PART 1 — COMMENCEMENT AND INTERPRETATION
 
-### 1. Citation and commencement[^key-f88d2e9b183498167156fb4a55dc030d]
+### 1. Citation and commencement[^c-f88d2e9b183498167156fb4a55dc030d]
 
 These Regulations may be cited as the Scottish Crime and Drug Enforcement Agency (Scotland) Regulations 2011 and come into force on 30th March 2011.
 
-### 2. Interpretation[^key-1358ac887c6d3d044cb78b3084f183d9]
+### 2. Interpretation[^c-1358ac887c6d3d044cb78b3084f183d9]
 
 In these Regulations—
 
@@ -71,7 +71,7 @@ In these Regulations—
 - “representative bodies” means the Police Federation for Scotland and all bodies for the time being recognised by the Scottish Ministers for the purposes of section 64 of the Police Act 1996[^f00005]; and
 - “university scholar” means a police member on a course of university study nominated by the Scottish Ministers or by the Authority following arrangements approved by the Scottish Ministers.
 
-### 3. Transfers[^key-e856bcde432fb10adadd541c5291b793]
+### 3. Transfers[^c-e856bcde432fb10adadd541c5291b793]
 
 (1) A reference in these Regulations to a person transferring from a police force to the Agency is to be construed as a reference to that person leaving a police force voluntarily for the purpose of taking up an appointment as a police member under paragraph 7(2)(c) of schedule 2 to the 2006 Act where no break occurs between service with that police force and service with the Agency.
 
@@ -92,7 +92,7 @@ In these Regulations—
 
 ## PART 2 — GOVERNMENT
 
-### 4. Ranks[^key-e5a7a7589ddca2f0f734515ebb96fd75]
+### 4. Ranks[^c-e5a7a7589ddca2f0f734515ebb96fd75]
 
 The ranks which may be held in the Agency by police members are—
 
@@ -103,7 +103,7 @@ The ranks which may be held in the Agency by police members are—
 - (e) Sergeant;
 - (f) Constable.
 
-### 5. Part-time appointments[^key-fa861b61227e59f456406ddfa2a76901]
+### 5. Part-time appointments[^c-fa861b61227e59f456406ddfa2a76901]
 
 (1) The Director General may, after consultation with the representative bodies, authorise police members to perform part-time service in any rank.
 
@@ -129,13 +129,13 @@ The ranks which may be held in the Agency by police members are—
   ; and
 - (b) paragraph (4) is omitted.
 
-### 6. Restrictions on the private life of police members[^key-0b8cecf65f807ae6fd805d5607ce2bdd]
+### 6. Restrictions on the private life of police members[^c-0b8cecf65f807ae6fd805d5607ce2bdd]
 
 (1) The restrictions on the private life of police members contained in Schedule 1 (restrictions on the private life of police members) apply.
 
 (2) Subject to regulation 7 no additional restrictions on the private life of police members, except those designed to secure the proper exercise of the functions of a constable, may be imposed by the Authority or the Director General.
 
-### 7. Business interests[^key-589fcaf057e67855a40521878a5c439d]
+### 7. Business interests[^c-589fcaf057e67855a40521878a5c439d]
 
 (1) A police member is not permitted to have a business interest without the consent of―
 
@@ -165,7 +165,7 @@ that member must immediately give written notice of that interest to the Directo
   - (i) a man and a woman who are living together as if they are husband and wife; or
   - (ii) two people of the same sex who are living together as if they are civil partners.
 
-### 8. Qualifications for appointment[^key-005f6bb947fc118f7f1b8f7131dd3db9]
+### 8. Qualifications for appointment[^c-005f6bb947fc118f7f1b8f7131dd3db9]
 
 (1) The Scottish Crime and Drug Enforcement Agency (Appointment of Police Members) Regulations 2007[^f00007] are amended as follows.
 
@@ -180,13 +180,13 @@ that member must immediately give written notice of that interest to the Directo
 
 .
 
-### 9. Retirement[^key-ad1f6d7d4d9ec3e6818381139ae2cb81]
+### 9. Retirement[^c-ad1f6d7d4d9ec3e6818381139ae2cb81]
 
 (1) Police members may retire in such circumstances as the Scottish Ministers determine.
 
 (2) Where a determination under paragraph (1) sets a requirement for giving notice to the Authority of intention to retire, the Authority may nonetheless accept a shorter period of notice.
 
-### 10. Content of personal records[^key-32919091744b90432791bc135ddd1988]
+### 10. Content of personal records[^c-32919091744b90432791bc135ddd1988]
 
 (1) The Director General must cause a personal record to be kept for each police member.
 
@@ -204,11 +204,11 @@ that member must immediately give written notice of that interest to the Directo
 
 (3) A police member is entitled, on request, to inspect that member’s personal record.
 
-### 11. Transfer of personal records[^key-e18f4234fce10f963e9d31a95e3654e3]
+### 11. Transfer of personal records[^c-e18f4234fce10f963e9d31a95e3654e3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Personal record of police member leaving the Agency[^key-5257609a85373117ecedce7de030f822]
+### 12. Personal record of police member leaving the Agency[^c-5257609a85373117ecedce7de030f822]
 
 (1) Where a person ceases to be a police member and does not transfer to a police force that person must be given a certificate setting out that person’s―
 
@@ -223,9 +223,9 @@ that member must immediately give written notice of that interest to the Directo
 
 (3) Where a person ceases to be a police member and is not appointed as a constable of a police force, that person’s personal record is to be kept for such period of time as the Director General thinks fit and is then to be destroyed.
 
-(4)[^key-5f7236e9cb9d9940c8201f377e2dc2d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-5f7236e9cb9d9940c8201f377e2dc2d8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Fingerprints and samples[^key-741bcc211cc860300bc77a96d742693f]
+### 13. Fingerprints and samples[^c-741bcc211cc860300bc77a96d742693f]
 
 (1) All police members must have―
 
@@ -261,11 +261,11 @@ must be destroyed as soon as practicable after that person ceases to be a police
 
 ## PART 3 — DUTY
 
-### 14. Duty to carry out lawful orders[^key-e74012ae4c6c2d8493c346edc03102e3]
+### 14. Duty to carry out lawful orders[^c-e74012ae4c6c2d8493c346edc03102e3]
 
 Every police member must carry out all lawful orders and at all times punctually and promptly perform all appointed duties and attend to all matters within the scope of that member’s office as a constable of the Agency.
 
-### 15. Duty[^key-d6b7d06af43a2a5dec7da36883223d4d]
+### 15. Duty[^c-d6b7d06af43a2a5dec7da36883223d4d]
 
 (1) Subject to section 23(5) of the 2006 Act, the Scottish Ministers must determine―
 
@@ -289,7 +289,7 @@ Every police member must carry out all lawful orders and at all times punctually
   - (a) where that member is required to perform that member’s normal period of duty in more than one tour of duty, between two tours; or
   - (b) where that member is recalled to duty between two tours of duty, in consequence of that member’s recall.
 
-### 16. Meetings of Scottish Police Federation treated as police duty[^key-aade0d1457d99db53f022f9582af0ea7]
+### 16. Meetings of Scottish Police Federation treated as police duty[^c-aade0d1457d99db53f022f9582af0ea7]
 
 (1) The attendance of a police member at a meeting of the Scottish Police Federation mentioned in paragraph (3) is to be treated as police duty.
 
@@ -313,7 +313,7 @@ Every police member must carry out all lawful orders and at all times punctually
 
 ## PART 4 — PAY
 
-### 17. Pay[^key-17669dd7b6c0beace10d4327ea643499]
+### 17. Pay[^c-17669dd7b6c0beace10d4327ea643499]
 
 (1) The pay of police members is to be determined by the Scottish Ministers and in making a determination under this regulation they may―
 
@@ -348,7 +348,7 @@ Every police member must carry out all lawful orders and at all times punctually
 
 (5) A determination under paragraph (1) has effect in relation to a university scholar subject to the provisions of any determination for the time being in force under regulation 25.
 
-### 18. Overtime[^key-6f703b52a0d8d8e96c902ca29dd48d67]
+### 18. Overtime[^c-6f703b52a0d8d8e96c902ca29dd48d67]
 
 (1) The Scottish Ministers must determine the circumstances and manner in which a police member is to be compensated for overtime.
 
@@ -371,7 +371,7 @@ Every police member must carry out all lawful orders and at all times punctually
 - “recall” does not include a warning to be ready for duty if required; and
 - “tour of duty”, in relation to a police member for whom variable shift arrangements are in operation, has the meaning given by regulation 15(4).
 
-### 19. Public holidays and rest days[^key-aecb61acb573ab6829f303ba2326b6a6]
+### 19. Public holidays and rest days[^c-aecb61acb573ab6829f303ba2326b6a6]
 
 (1) The Scottish Ministers must determine the circumstances and manner in which a police member is to be granted leave or otherwise compensated in respect of time spent on duty on―
 
@@ -389,20 +389,20 @@ Every police member must carry out all lawful orders and at all times punctually
 - “public holiday” means Christmas Day, New Year’s Day and each of 6 other days, being as far as practicable local public holidays and in any year where Christmas Day, 26th December or New Year’s Day falls on a Saturday or Sunday the 6 other days are to be increased by 1 for each day on which Christmas Day, 26th December or New Year’s Day falls on a Saturday or Sunday; and
 - “rostered rest day” means a day which according to the duty roster was, immediately before a police member was required to do duty, to have been a rest day for that member.
 
-### 20. Temporary salary and temporary promotion[^key-4d4604602e629d23c3d7eb7580f3d6cb]
+### 20. Temporary salary and temporary promotion[^c-4d4604602e629d23c3d7eb7580f3d6cb]
 
 The Scottish Ministers must determine―
 
 - (a) the circumstances in which police members are entitled to receive a temporary salary and the rate of that salary; and
 - (b) the rate of salary of police members while temporarily promoted.
 
-### 21. Sick pay[^key-34ebf3e3d5c419a922998d0cf8dde77b]
+### 21. Sick pay[^c-34ebf3e3d5c419a922998d0cf8dde77b]
 
 (1) The Scottish Ministers must determine the entitlement of police members to pay during periods of sick leave taken in accordance with a determination under regulation 26.
 
 (2) In making a determination under paragraph (1) the Scottish Ministers may confer on the Director General discretion to allow a police member to receive more pay than that specified in the determination.
 
-### 22. Maternity pay, maternity support leave pay, adoption pay and adoption support leave pay[^key-82a2dcd732017160b36ad462e33a2aa7]
+### 22. Maternity pay, maternity support leave pay, adoption pay and adoption support leave pay[^c-82a2dcd732017160b36ad462e33a2aa7]
 
 The Scottish Ministers must determine the entitlement of police members to pay during periods of―
 
@@ -411,13 +411,13 @@ The Scottish Ministers must determine the entitlement of police members to pay d
 - (c) adoption leave; and
 - (d) adoption support leave.
 
-### 23. Fixing of pay day and calculation of monthly, weekly and daily pay[^key-9e6a05415642595bf9f0c19ad0b037a2]
+### 23. Fixing of pay day and calculation of monthly, weekly and daily pay[^c-9e6a05415642595bf9f0c19ad0b037a2]
 
 (1) The intervals at which police members are to be paid are to be fixed by the Authority in accordance with such rules as the Scottish Ministers may determine.
 
 (2) The Scottish Ministers must determine the manner of calculating monthly, weekly and daily pay of police members.
 
-### 24. Deductions from pay of social security benefits and statutory sick pay[^key-642b6c99aefc66daf984d36f901ade81]
+### 24. Deductions from pay of social security benefits and statutory sick pay[^c-642b6c99aefc66daf984d36f901ade81]
 
 (1) There is to be deducted from the pay of a police member who is in receipt of full pay―
 
@@ -430,7 +430,7 @@ The Scottish Ministers must determine the entitlement of police members to pay d
 
 (4) In this regulation, “full pay” means pay at the rate ascertained from regulation 17 and the determination made thereunder.
 
-### 25. University scholars[^key-4216549fbf2e71e840e6ebbbe2e52c00]
+### 25. University scholars[^c-4216549fbf2e71e840e6ebbbe2e52c00]
 
 (1) The Scottish Ministers must determine how Part 3 and this Part of these Regulations and any determination made under these Regulations are to have effect in relation to a university scholar.
 
@@ -438,7 +438,7 @@ The Scottish Ministers must determine the entitlement of police members to pay d
 
 ## PART 5 — LEAVE
 
-### 26. Leave[^key-7832f3817949fd69bf14a48a1e46f6ef]
+### 26. Leave[^c-7832f3817949fd69bf14a48a1e46f6ef]
 
 (1) Every police member is, so far as the exigencies of duty permit, to be granted in each annual leave year such annual leave as may be determined by the Scottish Ministers.
 
@@ -495,7 +495,7 @@ The Scottish Ministers must determine the entitlement of police members to pay d
 
 ## PART 6 — ALLOWANCES AND EXPENSES
 
-### 27. Allowances[^key-1cfaf2e90be54c4d3659efbd29ad9cc8]
+### 27. Allowances[^c-1cfaf2e90be54c4d3659efbd29ad9cc8]
 
 (1) The Scottish Ministers must determine the entitlement of police members to any allowance and in making such a determination the Scottish Ministers may confer on the Authority or the Director General such functions as they think fit―
 
@@ -513,13 +513,13 @@ The Scottish Ministers must determine the entitlement of police members to pay d
 - (b) in respect of which no allowance is payable under these Regulations; and
 - (c) in respect of which no determination has been made under regulation 28.
 
-### 28. Expenses[^key-031a0a659bb89cdabc0b83011d7a99bb]
+### 28. Expenses[^c-031a0a659bb89cdabc0b83011d7a99bb]
 
 (1) The Scottish Ministers must determine the entitlement of a police member to reimbursement of any expenses incurred by that member in or in connection with the performance of that member’s duties.
 
 (2) In any determination under paragraph (1) the Scottish Ministers may specify conditions subject to which expenses are to be reimbursed and in doing so may confer on the Authority or the Director General such functions in relation to those conditions as they think fit.
 
-### 29. Continuance of allowances when member ill[^key-bc0a309e834d553a3ac54714b43cc5de]
+### 29. Continuance of allowances when member ill[^c-bc0a309e834d553a3ac54714b43cc5de]
 
 (1) This regulation applies where conditions 1, 2 and 3 are satisfied.
 
@@ -537,17 +537,17 @@ The Scottish Ministers must determine the entitlement of police members to pay d
 - (a) must be paid during the member’s absence from duty for a period not exceeding 1 month; and
 - (b) may then, during the remainder of the member’s absence from duty, be suspended at the discretion of the Director General.
 
-### 30. Replacement allowance[^key-c9a7de9978b91ce3c99ffe1611dc05b6]
+### 30. Replacement allowance[^c-c9a7de9978b91ce3c99ffe1611dc05b6]
 
 Schedule 2 (replacement allowance) has effect.
 
-### 31. Restriction on payments for private employment of SCDEA[^key-8ad47ff19a6623493b60a4be44373ba1]
+### 31. Restriction on payments for private employment of SCDEA[^c-8ad47ff19a6623493b60a4be44373ba1]
 
 Without prejudice to the generality of regulation 27, a police member who is engaged on duty at the request of any person who has agreed to pay the Authority for that member’s services is not entitled to any payment for those services except as provided by or under these Regulations.
 
 ## PART 7 — RECKONING OF SERVICE
 
-### 32. Reckoning of service in a specified police force[^key-585c093fbb7fbba5cb47a5e14ed38587]
+### 32. Reckoning of service in a specified police force[^c-585c093fbb7fbba5cb47a5e14ed38587]
 
 (1) A person who becomes a police member having transferred from a specified police force for that purpose is, for the purposes of regulation 17, to be treated as though that person’s service in any rank in such a force were service in the corresponding rank in the Agency.
 
@@ -570,13 +570,13 @@ Without prejudice to the generality of regulation 27, a police member who is eng
   - (xi) the Port of Tilbury Constabulary or, before the coming into force of the Port of Tilbury Transfer Scheme 1991 Confirmation Order 1992[^f00020], the Port of London Authority’s police force, that is to say the force of constables appointed under section 154 of the Port of London Act 1968[^f00021]; and
   - (xii) an aerodrome constabulary within the meaning given by section 31(1) of the Aviation Security Act 1982[^f00022].
 
-### 33. Reckoning of service in the Agency[^key-9843baacb2ce06bc9030f92188b8d30d]
+### 33. Reckoning of service in the Agency[^c-9843baacb2ce06bc9030f92188b8d30d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 8 — UNIFORM AND EQUIPMENT
 
-### 34. Issue of uniform and equipment[^key-dbdbc0c10f499686f26f237d1697b2fa]
+### 34. Issue of uniform and equipment[^c-dbdbc0c10f499686f26f237d1697b2fa]
 
 (1) Police members of the rank of superintendent and below are entitled to receive from the Authority such uniform and equipment as the Authority deems necessary―
 
@@ -589,7 +589,7 @@ Without prejudice to the generality of regulation 27, a police member who is eng
 
 ## PART 9 — DETERMINATIONS
 
-### 35. Determinations[^key-b881c947ddbe899634d7427e081537e7]
+### 35. Determinations[^c-b881c947ddbe899634d7427e081537e7]
 
 (1) Before making a determination under any provision of these Regulations relating to the matters mentioned in section 61(1)[^f00023] of the Police Act 1996, the Scottish Ministers must―
 
@@ -621,34 +621,34 @@ Edinburgh
 
 Regulation 6(1)
 
-**1.**[^key-36423f4db1eb5066fe5e6e20eb66ffd0] A police member must at all times abstain from―
+**1.**[^c-36423f4db1eb5066fe5e6e20eb66ffd0] A police member must at all times abstain from―
 
 - (a) any activity likely to interfere, or likely to give the impression of interference, with the impartial discharge of that member’s duties; and
 - (b) taking any active part in politics.
 
-**2.**[^key-1bf2d2c6f83dc04795909a66ccbf4c61] A police member must not wilfully refuse or neglect to discharge any lawful debt.
+**2.**[^c-1bf2d2c6f83dc04795909a66ccbf4c61] A police member must not wilfully refuse or neglect to discharge any lawful debt.
 
-**3.**[^key-874b78f15a53bb2877a9e263978ae8f2] A police member in receipt of a replacement allowance must not, unless that member has previously given written notice to the Director General, receive a lodger in a house in which that member resides.
+**3.**[^c-874b78f15a53bb2877a9e263978ae8f2] A police member in receipt of a replacement allowance must not, unless that member has previously given written notice to the Director General, receive a lodger in a house in which that member resides.
 
 ## SCHEDULE 2 — REPLACEMENT ALLOWANCE
 
 Regulation 30
 
-### 1. Replacement allowance[^key-eb132f5057b8c1cb91f0e37c2b7bbd6d]
+### 1. Replacement allowance[^c-eb132f5057b8c1cb91f0e37c2b7bbd6d]
 
 Paragraph 2 applies to a police member who, immediately before transferring to the Agency, was entitled by virtue of the operation of Schedule 3 to the 2004 Regulations to—
 
 - (a) a replacement allowance; or
 - (b) occupy a house or quarters provided free of rent.
 
-**2.**[^key-91898b66033e594420cfc8b27f1ef83c] A person to whom this paragraph applies is entitled to receive from the Authority a replacement allowance under this Schedule.
+**2.**[^c-91898b66033e594420cfc8b27f1ef83c] A person to whom this paragraph applies is entitled to receive from the Authority a replacement allowance under this Schedule.
 
-**3.**[^key-e58e9f0a2064ab34769c287ba9ca3e43] The replacement allowance under this Schedule is—
+**3.**[^c-e58e9f0a2064ab34769c287ba9ca3e43] The replacement allowance under this Schedule is—
 
 - (a) in the case of a police member who, immediately prior to transferring to the Agency, received a replacement allowance under Schedule 3 to the 2004 Regulations, an allowance equal to the rate of that allowance; and
 - (b) in the case of a police member who, immediately prior to transferring to the Agency, was entitled to occupy a house or quarters with which that member was provided free of rent, an allowance at a rate equal to the rate of replacement allowance which would have been payable to that person under paragraph 2 or paragraph 4 (as the case may be) of Schedule 3 to the 2004 Regulations if that person had, while a member of a police force, ceased to occupy a house or quarters with which that member was provided free of rent.
 
-### 4. Amendment of the 2004 Regulations[^key-66efdb99d22df15c7bd23ce52214c8c0]
+### 4. Amendment of the 2004 Regulations[^c-66efdb99d22df15c7bd23ce52214c8c0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -742,41 +742,41 @@ Regulation 35(3) provides that any determination relating to pay and allowances 
 
 [^f00003]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16). Section 62 has been amended by the Police Act [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50), section 143 and Schedules 9 and 10; the Police (Northern Ireland) Act [1998 (c.32)](https://www.legislation.gov.uk/ukpga/1998/32), section 34; the Criminal Justice and Police Act [2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16), section 128 and Schedule 6; the Police Reform Act [2002 (c.30)](https://www.legislation.gov.uk/ukpga/2002/30), sections 90 and 91 and Schedules 7 and 8; the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), Schedules 4 and 17; the Police, Public Order and Criminal Justice (Scotland) Act [2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), schedule 6; the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), Schedule 1; and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820) article 4 and Schedule 2.
 
-[^key-f88d2e9b183498167156fb4a55dc030d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-f88d2e9b183498167156fb4a55dc030d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-1358ac887c6d3d044cb78b3084f183d9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/61/regulation/2) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-1358ac887c6d3d044cb78b3084f183d9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2011/61/regulation/2) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
 [^f00004]: Footnote: [S.S.I. 2004/257](https://www.legislation.gov.uk/ssi/2004/257).
 
 [^f00005]: Footnote: Section 64 has been amended by the Police Act [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50), section 134 and Schedule 9, paragraph 84; the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), Schedule 4, paragraph 79 and Schedule 17, Part 2; the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), Schedule 1, paragraph 69; [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), article. 349; and [S.I. 2007/1098](https://www.legislation.gov.uk/uksi/2007/1098), Schedule 1, paragraph 3.
 
-[^key-e856bcde432fb10adadd541c5291b793]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/61/regulation/3) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-e856bcde432fb10adadd541c5291b793]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2011/61/regulation/3) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
 [^f00006]: Footnote: Section 1 has been amended by the Local Government etc. (Scotland) Act [1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39), Schedule 13, paragraph 71(2).
 
-[^key-e5a7a7589ddca2f0f734515ebb96fd75]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/61/regulation/4) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-e5a7a7589ddca2f0f734515ebb96fd75]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2011/61/regulation/4) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-fa861b61227e59f456406ddfa2a76901]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/61/regulation/5) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-fa861b61227e59f456406ddfa2a76901]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/61/regulation/5) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-0b8cecf65f807ae6fd805d5607ce2bdd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/61/regulation/6) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-0b8cecf65f807ae6fd805d5607ce2bdd]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2011/61/regulation/6) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-589fcaf057e67855a40521878a5c439d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/61/regulation/7) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-589fcaf057e67855a40521878a5c439d]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2011/61/regulation/7) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-005f6bb947fc118f7f1b8f7131dd3db9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/61/regulation/8) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-005f6bb947fc118f7f1b8f7131dd3db9]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2011/61/regulation/8) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
 [^f00007]: Footnote: [S.S.I. 2007/90](https://www.legislation.gov.uk/ssi/2007/90).
 
-[^key-ad1f6d7d4d9ec3e6818381139ae2cb81]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/61/regulation/9) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-ad1f6d7d4d9ec3e6818381139ae2cb81]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2011/61/regulation/9) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-32919091744b90432791bc135ddd1988]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/61/regulation/10) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-32919091744b90432791bc135ddd1988]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2011/61/regulation/10) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-e18f4234fce10f963e9d31a95e3654e3]: Textual amendment: Reg. 11 revoked (1.4.2013) by [The Police Service of Scotland Regulations 2013 (S.S.I. 2013/35)](https://www.legislation.gov.uk/ssi/2013/35), [reg. 1](https://www.legislation.gov.uk/ssi/2013/35/regulation/1), [sch. 3 para. 20](https://www.legislation.gov.uk/ssi/2013/35/schedule/3/paragraph/20)
+[^c-e18f4234fce10f963e9d31a95e3654e3]: Textual amendment: Reg. 11 revoked (1.4.2013) by [The Police Service of Scotland Regulations 2013 (S.S.I. 2013/35)](https://www.legislation.gov.uk/ssi/2013/35), [reg. 1](https://www.legislation.gov.uk/ssi/2013/35/regulation/1), [sch. 3 para. 20](https://www.legislation.gov.uk/ssi/2013/35/schedule/3/paragraph/20)
 
-[^key-5257609a85373117ecedce7de030f822]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2011/61/regulation/12) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-5257609a85373117ecedce7de030f822]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2011/61/regulation/12) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-5f7236e9cb9d9940c8201f377e2dc2d8]: Textual amendment: Reg. 12(4) revoked (1.4.2013) by [The Police Service of Scotland Regulations 2013 (S.S.I. 2013/35)](https://www.legislation.gov.uk/ssi/2013/35), [reg. 1](https://www.legislation.gov.uk/ssi/2013/35/regulation/1), [sch. 3 para. 20](https://www.legislation.gov.uk/ssi/2013/35/schedule/3/paragraph/20)
+[^c-5f7236e9cb9d9940c8201f377e2dc2d8]: Textual amendment: Reg. 12(4) revoked (1.4.2013) by [The Police Service of Scotland Regulations 2013 (S.S.I. 2013/35)](https://www.legislation.gov.uk/ssi/2013/35), [reg. 1](https://www.legislation.gov.uk/ssi/2013/35/regulation/1), [sch. 3 para. 20](https://www.legislation.gov.uk/ssi/2013/35/schedule/3/paragraph/20)
 
-[^key-741bcc211cc860300bc77a96d742693f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2011/61/regulation/13) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-741bcc211cc860300bc77a96d742693f]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2011/61/regulation/13) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
 [^f00008]: Footnote: [1995 c.46](https://www.legislation.gov.uk/ukpga/1995/46). Section 18 has been amended by the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48), sections 47 and 62 and Schedule 3; the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), section 119 and Schedule 8, paragraph 117; the Terrorism Act [2000 (c.11)](https://www.legislation.gov.uk/ukpga/2000/11), section 41 and Schedule 8, paragraph 20; the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), section 55; and the Police, Public Order and Criminal Justice (Scotland) Act [2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), section 83 and Schedule 6, paragraph 4.
 
@@ -792,29 +792,29 @@ Regulation 35(3) provides that any determination relating to pay and allowances 
 
 [^f00014]: Footnote: Regulation 19 has been amended by [S.S.I. 2007/134](https://www.legislation.gov.uk/ssi/2007/134), regulation 8.
 
-[^key-e74012ae4c6c2d8493c346edc03102e3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2011/61/regulation/14) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-e74012ae4c6c2d8493c346edc03102e3]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2011/61/regulation/14) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-d6b7d06af43a2a5dec7da36883223d4d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2011/61/regulation/15) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-d6b7d06af43a2a5dec7da36883223d4d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2011/61/regulation/15) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-aade0d1457d99db53f022f9582af0ea7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2011/61/regulation/16) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-aade0d1457d99db53f022f9582af0ea7]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2011/61/regulation/16) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
 [^f00015]: Footnote: [S.I. 1985/1531](https://www.legislation.gov.uk/uksi/1985/1531).
 
-[^key-17669dd7b6c0beace10d4327ea643499]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2011/61/regulation/17) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-17669dd7b6c0beace10d4327ea643499]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2011/61/regulation/17) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-6f703b52a0d8d8e96c902ca29dd48d67]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2011/61/regulation/18) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-6f703b52a0d8d8e96c902ca29dd48d67]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2011/61/regulation/18) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-aecb61acb573ab6829f303ba2326b6a6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2011/61/regulation/19) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-aecb61acb573ab6829f303ba2326b6a6]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2011/61/regulation/19) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-4d4604602e629d23c3d7eb7580f3d6cb]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2011/61/regulation/20) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-4d4604602e629d23c3d7eb7580f3d6cb]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2011/61/regulation/20) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-34ebf3e3d5c419a922998d0cf8dde77b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2011/61/regulation/21) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-34ebf3e3d5c419a922998d0cf8dde77b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2011/61/regulation/21) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-82a2dcd732017160b36ad462e33a2aa7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2011/61/regulation/22) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-82a2dcd732017160b36ad462e33a2aa7]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2011/61/regulation/22) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-9e6a05415642595bf9f0c19ad0b037a2]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2011/61/regulation/23) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-9e6a05415642595bf9f0c19ad0b037a2]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2011/61/regulation/23) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-642b6c99aefc66daf984d36f901ade81]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2011/61/regulation/24) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-642b6c99aefc66daf984d36f901ade81]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2011/61/regulation/24) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
 [^f00016]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -822,21 +822,21 @@ Regulation 35(3) provides that any determination relating to pay and allowances 
 
 [^f00018]: Footnote: Section 19 has been amended by the Social Security Contributions (Transfer of Functions, etc.) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2), section 2 and Schedule 3, paragraph 19 and by the National Insurance Contributions Act [2008 (c.19)](https://www.legislation.gov.uk/ukpga/2008/19), Schedule 1, paragraph 5.
 
-[^key-4216549fbf2e71e840e6ebbbe2e52c00]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2011/61/regulation/25) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-4216549fbf2e71e840e6ebbbe2e52c00]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2011/61/regulation/25) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-7832f3817949fd69bf14a48a1e46f6ef]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2011/61/regulation/26) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-7832f3817949fd69bf14a48a1e46f6ef]: Commencement: [Reg. 26](https://www.legislation.gov.uk/ssi/2011/61/regulation/26) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-1cfaf2e90be54c4d3659efbd29ad9cc8]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2011/61/regulation/27) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-1cfaf2e90be54c4d3659efbd29ad9cc8]: Commencement: [Reg. 27](https://www.legislation.gov.uk/ssi/2011/61/regulation/27) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-031a0a659bb89cdabc0b83011d7a99bb]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2011/61/regulation/28) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-031a0a659bb89cdabc0b83011d7a99bb]: Commencement: [Reg. 28](https://www.legislation.gov.uk/ssi/2011/61/regulation/28) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-bc0a309e834d553a3ac54714b43cc5de]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2011/61/regulation/29) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-bc0a309e834d553a3ac54714b43cc5de]: Commencement: [Reg. 29](https://www.legislation.gov.uk/ssi/2011/61/regulation/29) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-c9a7de9978b91ce3c99ffe1611dc05b6]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2011/61/regulation/30) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-c9a7de9978b91ce3c99ffe1611dc05b6]: Commencement: [Reg. 30](https://www.legislation.gov.uk/ssi/2011/61/regulation/30) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-8ad47ff19a6623493b60a4be44373ba1]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2011/61/regulation/31) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-8ad47ff19a6623493b60a4be44373ba1]: Commencement: [Reg. 31](https://www.legislation.gov.uk/ssi/2011/61/regulation/31) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-585c093fbb7fbba5cb47a5e14ed38587]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2011/61/regulation/32) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-585c093fbb7fbba5cb47a5e14ed38587]: Commencement: [Reg. 32](https://www.legislation.gov.uk/ssi/2011/61/regulation/32) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
 [^f00019]: Footnote: [1987 c.4](https://www.legislation.gov.uk/ukpga/1987/4). Section 1 has been amended by the Police Act [1996 (c.16)](https://www.legislation.gov.uk/ukpga/1996/16), Schedule 7, paragraph 41; the Police (Northern Ireland) Act [1998 (c.32)](https://www.legislation.gov.uk/ukpga/1998/32), section 74 and Schedule 4, paragraph 16; and the Police Reform Act [2002 (c.30)](https://www.legislation.gov.uk/ukpga/2002/30), section 79.
 
@@ -846,26 +846,26 @@ Regulation 35(3) provides that any determination relating to pay and allowances 
 
 [^f00022]: Footnote: [1982 c.36](https://www.legislation.gov.uk/ukpga/1982/36). Section 31 has been amended by the Greater London Authority Act [1999 (c.29)](https://www.legislation.gov.uk/ukpga/1999/29), sections 325 and 423, Schedule 27, paragraph 46 and Schedule 34, Part VII; the Police (Northern Ireland) Act [2000 (c.32)](https://www.legislation.gov.uk/ukpga/2000/32), section 78 and Schedule 6, paragraph 8; the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), Schedule 14, paragraph 8; and the Policing and Crime Act [2009 (c.26)](https://www.legislation.gov.uk/ukpga/2009/26), Schedule 6, paragraph 12 and Schedule 8, Part 7.
 
-[^key-9843baacb2ce06bc9030f92188b8d30d]: Textual amendment: Reg. 33 revoked (1.4.2013) by [The Police Service of Scotland Regulations 2013 (S.S.I. 2013/35)](https://www.legislation.gov.uk/ssi/2013/35), [reg. 1](https://www.legislation.gov.uk/ssi/2013/35/regulation/1), [sch. 3 para. 20](https://www.legislation.gov.uk/ssi/2013/35/schedule/3/paragraph/20)
+[^c-9843baacb2ce06bc9030f92188b8d30d]: Textual amendment: Reg. 33 revoked (1.4.2013) by [The Police Service of Scotland Regulations 2013 (S.S.I. 2013/35)](https://www.legislation.gov.uk/ssi/2013/35), [reg. 1](https://www.legislation.gov.uk/ssi/2013/35/regulation/1), [sch. 3 para. 20](https://www.legislation.gov.uk/ssi/2013/35/schedule/3/paragraph/20)
 
-[^key-dbdbc0c10f499686f26f237d1697b2fa]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2011/61/regulation/34) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-dbdbc0c10f499686f26f237d1697b2fa]: Commencement: [Reg. 34](https://www.legislation.gov.uk/ssi/2011/61/regulation/34) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-b881c947ddbe899634d7427e081537e7]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2011/61/regulation/35) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-b881c947ddbe899634d7427e081537e7]: Commencement: [Reg. 35](https://www.legislation.gov.uk/ssi/2011/61/regulation/35) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
 [^f00023]: Footnote: Section 61 has been amended by the Police Act [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50), section 134 and Schedule 9, paragraph 81; the Police (Northern Ireland) Act [2000 (c.32)](https://www.legislation.gov.uk/ukpga/2000/32), section 78 and Schedule 6, paragraph 12; the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), Schedule 4, paragraph 76 and Schedule 17, Part 2; the [Police, Public Order and Criminal Justice (Scotland) Act 2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), schedule 6, paragraph 5; the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), Schedule 1, paragraph 66; and [S.I. 1999/1747](https://www.legislation.gov.uk/uksi/1999/1747), article 3 and schedule 21, paragraph 2.
 
 [^f00024]: Footnote: Section 62 has been amended by the Police Act [1997 (c.50)](https://www.legislation.gov.uk/ukpga/1997/50), section 134, Schedule 9, paragraph 82 and Schedule 10; the Police (Northern Ireland) Act [1998 (c.32)](https://www.legislation.gov.uk/ukpga/1998/32), section 34; the Criminal Justice and Police Act [2001 (c.16)](https://www.legislation.gov.uk/ukpga/2001/16), section 128 and Schedule 6, paragraph 77; the Police Reform Act [2002 (c.30)](https://www.legislation.gov.uk/ukpga/2002/30), sections 90 and 91 and Schedule 7, paragraph 16 and Schedule 8; the Serious Organised Crime and Police Act [2005 (c.15)](https://www.legislation.gov.uk/ukpga/2005/15), Schedule 4, paragraph 77 and Schedule 17, Part 2; the Police, Public Order and Criminal Justice (Scotland) Act [2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), schedule 6, paragraph 5; the Police and Justice Act [2006 (c.48)](https://www.legislation.gov.uk/ukpga/2006/48), Schedule 1, paragraph 67; and [S.I. 1999/1820](https://www.legislation.gov.uk/uksi/1999/1820), article 4 and Schedule 12.
 
-[^key-36423f4db1eb5066fe5e6e20eb66ffd0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2011/61/schedule/1/paragraph/1) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-36423f4db1eb5066fe5e6e20eb66ffd0]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2011/61/schedule/1/paragraph/1) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-1bf2d2c6f83dc04795909a66ccbf4c61]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2011/61/schedule/1/paragraph/2) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-1bf2d2c6f83dc04795909a66ccbf4c61]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2011/61/schedule/1/paragraph/2) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-874b78f15a53bb2877a9e263978ae8f2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2011/61/schedule/1/paragraph/3) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-874b78f15a53bb2877a9e263978ae8f2]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2011/61/schedule/1/paragraph/3) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-eb132f5057b8c1cb91f0e37c2b7bbd6d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2011/61/schedule/2/paragraph/1) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-eb132f5057b8c1cb91f0e37c2b7bbd6d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2011/61/schedule/2/paragraph/1) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-91898b66033e594420cfc8b27f1ef83c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2011/61/schedule/2/paragraph/2) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-91898b66033e594420cfc8b27f1ef83c]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2011/61/schedule/2/paragraph/2) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-e58e9f0a2064ab34769c287ba9ca3e43]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2011/61/schedule/2/paragraph/3) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
+[^c-e58e9f0a2064ab34769c287ba9ca3e43]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2011/61/schedule/2/paragraph/3) in force at 30.3.2011, see [reg. 1](https://www.legislation.gov.uk/ssi/2011/61/regulation/1)
 
-[^key-66efdb99d22df15c7bd23ce52214c8c0]: Textual amendment: Sch. 2 para. 4 revoked (1.4.2013) by [The Police Service of Scotland Regulations 2013 (S.S.I. 2013/35)](https://www.legislation.gov.uk/ssi/2013/35), [reg. 1](https://www.legislation.gov.uk/ssi/2013/35/regulation/1), [sch. 3 para. 20](https://www.legislation.gov.uk/ssi/2013/35/schedule/3/paragraph/20)
+[^c-66efdb99d22df15c7bd23ce52214c8c0]: Textual amendment: Sch. 2 para. 4 revoked (1.4.2013) by [The Police Service of Scotland Regulations 2013 (S.S.I. 2013/35)](https://www.legislation.gov.uk/ssi/2013/35), [reg. 1](https://www.legislation.gov.uk/ssi/2013/35/regulation/1), [sch. 3 para. 20](https://www.legislation.gov.uk/ssi/2013/35/schedule/3/paragraph/20)

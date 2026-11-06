@@ -35,7 +35,7 @@ Police
 
 Roads
 
-The Road Traffic Act 1988 (Police Driving: Prescribed Training) Regulations 2022 (revoked)[^key-5bffd020e0e161baa641272bbdc127a9]
+The Road Traffic Act 1988 (Police Driving: Prescribed Training) Regulations 2022 (revoked)[^c-5bffd020e0e161baa641272bbdc127a9]
 
 Made
 
@@ -49,50 +49,50 @@ Coming into force
 
 30th November 2022
 
-[^key-5bffd020e0e161baa641272bbdc127a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5bffd020e0e161baa641272bbdc127a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-5bffd020e0e161baa641272bbdc127a9]
+## 1. Citation, commencement and extent[^c-5bffd020e0e161baa641272bbdc127a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-5bffd020e0e161baa641272bbdc127a9]
+## 2. Interpretation[^c-5bffd020e0e161baa641272bbdc127a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescribed training provided in England and Wales[^key-5bffd020e0e161baa641272bbdc127a9]
+## 3. Prescribed training provided in England and Wales[^c-5bffd020e0e161baa641272bbdc127a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Required refresher training frequency for training provided in England and Wales[^key-5bffd020e0e161baa641272bbdc127a9]
+## 4. Required refresher training frequency for training provided in England and Wales[^c-5bffd020e0e161baa641272bbdc127a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Prescribed training provided in Scotland[^key-5bffd020e0e161baa641272bbdc127a9]
+## 5. Prescribed training provided in Scotland[^c-5bffd020e0e161baa641272bbdc127a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Required refresher training frequency for training provided in Scotland[^key-5bffd020e0e161baa641272bbdc127a9]
+## 6. Required refresher training frequency for training provided in Scotland[^c-5bffd020e0e161baa641272bbdc127a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Prescribed training completed prior to the commencement of these Regulations[^key-5bffd020e0e161baa641272bbdc127a9]
+## 7. Prescribed training completed prior to the commencement of these Regulations[^c-5bffd020e0e161baa641272bbdc127a9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5bffd020e0e161baa641272bbdc127a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5bffd020e0e161baa641272bbdc127a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-5bffd020e0e161baa641272bbdc127a9]
+## SCHEDULE[^c-5bffd020e0e161baa641272bbdc127a9]
 
 Regulations 3, 4, 5, 6 and 7
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5bffd020e0e161baa641272bbdc127a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5bffd020e0e161baa641272bbdc127a9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5bffd020e0e161baa641272bbdc127a9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/1112) revoked (20.3.2023) by [The Road Traffic Act 1988 (Police Driving: Prescribed Training) Regulations 2023 (S.I. 2023/185)](https://www.legislation.gov.uk/uksi/2023/185), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/185/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2023/185/regulation/1/3)
+[^c-5bffd020e0e161baa641272bbdc127a9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2022/1112) revoked (20.3.2023) by [The Road Traffic Act 1988 (Police Driving: Prescribed Training) Regulations 2023 (S.I. 2023/185)](https://www.legislation.gov.uk/uksi/2023/185), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/185/regulation/1/1)[(3)](https://www.legislation.gov.uk/uksi/2023/185/regulation/1/3)

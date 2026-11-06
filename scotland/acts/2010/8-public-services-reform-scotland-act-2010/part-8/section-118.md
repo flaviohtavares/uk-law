@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Amendment of Public Finance and Accountability (Scotland) Act 2000[^key-d2f29c2c49f96b37276d394b65f63886]
+## 118. Amendment of Public Finance and Accountability (Scotland) Act 2000[^c-d2f29c2c49f96b37276d394b65f63886]
 
 *Extent: S*
 
@@ -116,4 +116,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d2f29c2c49f96b37276d394b65f63886]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2010/8/section/118) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)
+[^c-d2f29c2c49f96b37276d394b65f63886]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2010/8/section/118) in force at 1.10.2010 by [S.S.I. 2010/321](https://www.legislation.gov.uk/ssi/2010/321), [art. 3](https://www.legislation.gov.uk/ssi/2010/321/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/321/schedule)

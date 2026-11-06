@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Ships and aircraft: licensing offences[^key-791b91da072afd2cb774e3a2892fa512][^key-faccd2a022bde9cf08f58685a142e9e9]
+## 97. Ships and aircraft: licensing offences[^c-791b91da072afd2cb774e3a2892fa512][^c-faccd2a022bde9cf08f58685a142e9e9]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ for the purpose of obtaining a transport licence (whether for P or anyone else).
 
 ## Annotations
 
-[^key-791b91da072afd2cb774e3a2892fa512]: Commencement: Reg. 97 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-791b91da072afd2cb774e3a2892fa512]: Commencement: Reg. 97 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-faccd2a022bde9cf08f58685a142e9e9]: Commencement: Reg. 97 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-faccd2a022bde9cf08f58685a142e9e9]: Commencement: Reg. 97 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

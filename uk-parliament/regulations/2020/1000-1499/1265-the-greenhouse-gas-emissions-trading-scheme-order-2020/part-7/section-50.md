@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Installations: carrying out regulated activity without permit contrary to article 26[^key-04c689285d3345b976c3636d41fa0deb]
+## 50. Installations: carrying out regulated activity without permit contrary to article 26[^c-04c689285d3345b976c3636d41fa0deb]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ in accordance with a direction given by the relevant national authority under se
 
 ## Annotations
 
-[^key-04c689285d3345b976c3636d41fa0deb]: Commencement: Art. 50 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)
+[^c-04c689285d3345b976c3636d41fa0deb]: Commencement: Art. 50 in force at 12.11.2020, see [art. 2(1)](https://www.legislation.gov.uk/uksi/2020/1265/article/2/1)

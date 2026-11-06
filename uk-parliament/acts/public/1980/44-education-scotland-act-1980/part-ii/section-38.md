@@ -25,7 +25,7 @@ summary: ''
 (2) In an attendance order in respect of a child—
 
 - (a) a school at which the parent will be required to pay fees shall not be named except at the request of the parent; and
-- (b)[^c9694301] a special school shall not be named unless the child has additional support needs requiring the education or special facilities normally provided at the school[^key-2e836cfe3871d3c912f83c6503824b62].
+- (b)[^c9694301] a special school shall not be named unless the child has additional support needs requiring the education or special facilities normally provided at the school[^c-2e836cfe3871d3c912f83c6503824b62].
 
 (3) Before making an attendance order under section 36 or 37 of this Act, the education authority shall consider any views expressed by the parent as to the school which he desires his child to attend.
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c9694301]: Textual amendment: S. 38(2)(b) substituted by [Education (Scotland) Act 1981 (c. 58)](https://www.legislation.gov.uk/ukpga/1981/58), [Sch. 2 Pt. II para. 5](https://www.legislation.gov.uk/ukpga/1981/58/schedule/2/part/II/paragraph/5), [Sch. 8](https://www.legislation.gov.uk/ukpga/1981/58/schedule/8)
 
-[^key-2e836cfe3871d3c912f83c6503824b62]: Textual amendment: Words in s. 38(2)(b) substituted (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(9)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/9); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-2e836cfe3871d3c912f83c6503824b62]: Textual amendment: Words in s. 38(2)(b) substituted (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(9)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/9); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)

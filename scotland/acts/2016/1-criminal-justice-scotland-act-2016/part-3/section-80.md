@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Duty of parties to communicate[^key-9462a1052fe9313409a366f21c95a57d]
+## 80. Duty of parties to communicate[^c-9462a1052fe9313409a366f21c95a57d]
 
 *Extent: S*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9462a1052fe9313409a366f21c95a57d]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2016/1/section/80) in force at 29.5.2017 for specified purposes by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 3(1)](https://www.legislation.gov.uk/ssi/2017/99/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2017/99/article/3/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/99/article/6))
+[^c-9462a1052fe9313409a366f21c95a57d]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2016/1/section/80) in force at 29.5.2017 for specified purposes by [S.S.I. 2017/99](https://www.legislation.gov.uk/ssi/2017/99), [art. 3(1)](https://www.legislation.gov.uk/ssi/2017/99/article/3/1)[(2)](https://www.legislation.gov.uk/ssi/2017/99/article/3/2) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/99/article/6))

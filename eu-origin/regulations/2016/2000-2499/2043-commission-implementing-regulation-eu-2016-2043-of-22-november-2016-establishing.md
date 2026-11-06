@@ -33,22 +33,22 @@ of 22 November 2016
 
 establishing the standard import values for determining the entry price of certain fruit and vegetables (revoked)
 
-[^key-c0d28ea2951fe533c20d8fcc66a802fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0d28ea2951fe533c20d8fcc66a802fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-c0d28ea2951fe533c20d8fcc66a802fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c0d28ea2951fe533c20d8fcc66a802fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c0d28ea2951fe533c20d8fcc66a802fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c0d28ea2951fe533c20d8fcc66a802fc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c0d28ea2951fe533c20d8fcc66a802fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c0d28ea2951fe533c20d8fcc66a802fc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Standard import values for determining the entry price of certain fruit and vegetables[^key-c0d28ea2951fe533c20d8fcc66a802fc]
+## ANNEX — Standard import values for determining the entry price of certain fruit and vegetables[^c-c0d28ea2951fe533c20d8fcc66a802fc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c0d28ea2951fe533c20d8fcc66a802fc]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-c0d28ea2951fe533c20d8fcc66a802fc]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

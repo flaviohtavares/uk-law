@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Religious observance[^key-63f5491aaf97c05ea6fc2ac61a6bee6c]
+## 18. Religious observance[^c-63f5491aaf97c05ea6fc2ac61a6bee6c]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ the religious persuasion to which he belongs.
 
 ## Annotations
 
-[^key-63f5491aaf97c05ea6fc2ac61a6bee6c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/176/regulation/18) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)
+[^c-63f5491aaf97c05ea6fc2ac61a6bee6c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2005/176/regulation/18) in operation at 1.4.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2005/176/regulation/1)

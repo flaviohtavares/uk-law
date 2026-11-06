@@ -35,7 +35,7 @@ An Act to enable the Department for the Economy to make regulations to close the
 
 Be it enacted by being passed by the Northern Ireland Assembly and assented to by His Majesty as follows:
 
-## 1. Power to make regulations[^key-695d5e8aeae6057786454a3555f663c9]
+## 1. Power to make regulations[^c-695d5e8aeae6057786454a3555f663c9]
 
 (1) Subject to this section are—
 
@@ -98,7 +98,7 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 - “**the scheme**” means the scheme established by (and provided for in) the 2012 Regulations, and
 - “**the Department**” means the Department for the Economy.
 
-## 2. Commencement and short title[^key-9ba69837c4601175821ee52cc04926da]
+## 2. Commencement and short title[^c-9ba69837c4601175821ee52cc04926da]
 
 (1) This Act comes into operation on the day after receiving Royal Assent.
 
@@ -106,6 +106,6 @@ Be it enacted by being passed by the Northern Ireland Assembly and assented to b
 
 ## Annotations
 
-[^key-695d5e8aeae6057786454a3555f663c9]: Commencement: S. 1 in operation at 18.6.2026
+[^c-695d5e8aeae6057786454a3555f663c9]: Commencement: S. 1 in operation at 18.6.2026
 
-[^key-9ba69837c4601175821ee52cc04926da]: Commencement: S. 2 in operation at 18.6.2026
+[^c-9ba69837c4601175821ee52cc04926da]: Commencement: S. 2 in operation at 18.6.2026

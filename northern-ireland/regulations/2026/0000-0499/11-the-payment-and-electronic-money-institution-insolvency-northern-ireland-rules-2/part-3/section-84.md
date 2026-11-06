@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 84. Members dealing with the institution[^key-949d01cb7f08595d2a5c5e4d8fb7ce88]
+## 84. Members dealing with the institution[^c-949d01cb7f08595d2a5c5e4d8fb7ce88]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-949d01cb7f08595d2a5c5e4d8fb7ce88]: Commencement: [Rule 84](https://www.legislation.gov.uk/nisr/2026/11/rule/84) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-949d01cb7f08595d2a5c5e4d8fb7ce88]: Commencement: [Rule 84](https://www.legislation.gov.uk/nisr/2026/11/rule/84) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

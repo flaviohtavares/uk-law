@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Making, varying or discharging account monitoring orders[^key-c4d1cba4002fd305d37089e8f1bf1017]
+## 41. Making, varying or discharging account monitoring orders[^c-c4d1cba4002fd305d37089e8f1bf1017]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c4d1cba4002fd305d37089e8f1bf1017]: Commencement: S. 41 in force at 11.6.2006 by [S.S.I. 2006/281](https://www.legislation.gov.uk/ssi/2006/281), [art. 2](https://www.legislation.gov.uk/ssi/2006/281/article/2)
+[^c-c4d1cba4002fd305d37089e8f1bf1017]: Commencement: S. 41 in force at 11.6.2006 by [S.S.I. 2006/281](https://www.legislation.gov.uk/ssi/2006/281), [art. 2](https://www.legislation.gov.uk/ssi/2006/281/article/2)

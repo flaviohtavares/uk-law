@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Gating orders[^key-f71a619f3f7e7a26a71202961a5f352b]
+## 1. Gating orders[^c-f71a619f3f7e7a26a71202961a5f352b]
 
 *Extent: N.I.*
 
@@ -133,4 +133,4 @@ In the Roads (Northern Ireland) Order 1993 (NI 15), after Article 69 insert—
 
 ## Annotations
 
-[^key-f71a619f3f7e7a26a71202961a5f352b]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/23/section/1) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)
+[^c-f71a619f3f7e7a26a71202961a5f352b]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2011/23/section/1) in operation at 1.4.2012 by [S.R. 2012/13](https://www.legislation.gov.uk/nisr/2012/13), [art. 2(2)](https://www.legislation.gov.uk/nisr/2012/13/article/2/2), [Sch. 2](https://www.legislation.gov.uk/nisr/2012/13/schedule/2)

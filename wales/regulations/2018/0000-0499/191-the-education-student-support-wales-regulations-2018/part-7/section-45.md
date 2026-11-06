@@ -26,11 +26,11 @@ Table 3
 
 | *Column 1**Academic year* | *Column 2**Base grant available* |
 | --- | --- |
-| Beginning on or after 1 September 2018 but before 1 September 2026[^key-d4ca455b0de885612fe89f8141925492] | £1,000 for a full-time course<br>£1,000 multiplied by the intensity of study for a part-time course |
-| Beginning on or after 1 September 2026[^key-e918d22a8673e16621093defe782399c] | £1,020 for a full-time course<br>£1,020 multiplied by the intensity of study for a part-time course |
+| Beginning on or after 1 September 2018 but before 1 September 2026[^c-d4ca455b0de885612fe89f8141925492] | £1,000 for a full-time course<br>£1,000 multiplied by the intensity of study for a part-time course |
+| Beginning on or after 1 September 2026[^c-e918d22a8673e16621093defe782399c] | £1,020 for a full-time course<br>£1,020 multiplied by the intensity of study for a part-time course |
 
 ## Annotations
 
-[^key-d4ca455b0de885612fe89f8141925492]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/wsi/2018/191/regulation/45) Table 3 inserted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [32(a)](https://www.legislation.gov.uk/wsi/2026/11/regulation/32/a)
+[^c-d4ca455b0de885612fe89f8141925492]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/wsi/2018/191/regulation/45) Table 3 inserted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [32(a)](https://www.legislation.gov.uk/wsi/2026/11/regulation/32/a)
 
-[^key-e918d22a8673e16621093defe782399c]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/wsi/2018/191/regulation/45) Table 3 inserted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [32(b)](https://www.legislation.gov.uk/wsi/2026/11/regulation/32/b)
+[^c-e918d22a8673e16621093defe782399c]: Textual amendment: Words in [reg. 45](https://www.legislation.gov.uk/wsi/2018/191/regulation/45) Table 3 inserted (12.2.2026 with application in accordance with reg. 2(1)(a) of the amending S.I.) by [The Education (Student Finance) (Amounts) (Miscellaneous Amendments) (Wales) Regulations 2026 (W.S.I. 2026/11)](https://www.legislation.gov.uk/wsi/2026/11), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/11/regulation/1/2), [32(b)](https://www.legislation.gov.uk/wsi/2026/11/regulation/32/b)

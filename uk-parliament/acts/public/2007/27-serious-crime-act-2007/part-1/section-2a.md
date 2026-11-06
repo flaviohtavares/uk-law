@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. Involvement in serious crime: Scotland orders[^key-a42ab97e8b6adece5893951cf6f32ce7]
+## 2A. Involvement in serious crime: Scotland orders[^c-a42ab97e8b6adece5893951cf6f32ce7]
 
 *Extent: E+W+N.I.*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a42ab97e8b6adece5893951cf6f32ce7]: Textual amendment: S. 2A inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/4); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)
+[^c-a42ab97e8b6adece5893951cf6f32ce7]: Textual amendment: S. 2A inserted (1.3.2016) by [Serious Crime Act 2015 (c. 9)](https://www.legislation.gov.uk/ukpga/2015/9), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2015/9/section/88/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/2015/9/schedule/1/paragraph/4); [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/f)

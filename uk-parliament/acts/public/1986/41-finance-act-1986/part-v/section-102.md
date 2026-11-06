@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Gifts with reservation.[^key-e251d1b490cedca2123fcc7a1789b152][^key-f6db16db52756f553fc09ae47e1de90f]
+## 102. Gifts with reservation.[^c-e251d1b490cedca2123fcc7a1789b152][^c-f6db16db52756f553fc09ae47e1de90f]
 
 *Extent: E+W+S+N.I.*
 
-(1) Subject to subsections (5), (6) and (7A)[^key-329c9c4364113fb91ea6e354e45bad13] below, this section applies where, on or after 28th March 1986, an individual disposes of any property by way of gift and either—
+(1) Subject to subsections (5), (6) and (7A)[^c-329c9c4364113fb91ea6e354e45bad13] below, this section applies where, on or after 28th March 1986, an individual disposes of any property by way of gift and either—
 
 - (a) possession and enjoyment of the property is not bona fide assumed by the donee at or before the beginning of the relevant period; or
 - (b) at any time in the relevant period the property is not enjoyed to the entire exclusion, or virtually to the entire exclusion, of the donor and of any benefit to him by contract or otherwise;
@@ -34,28 +34,28 @@ and in this section “**the relevant period**” means a period ending on the d
 
 the property is referred to (in relation to the gift and the donor) as property subject to a reservation.
 
-(3)[^key-3fa271f26174bb75e7765a27e14ba88d][^key-33179faf93c5141dc5f7701a06d0aaf3] If, immediately before the death of the donor, there is any property which, in relation to him, is property subject to a reservation then, to the extent that the property would not, apart from this section, form part of the donor’s estate immediately before his death, that property shall be treated for the purposes of the 1984 Act as property to which he was beneficially entitled immediately before his death.
+(3)[^c-3fa271f26174bb75e7765a27e14ba88d][^c-33179faf93c5141dc5f7701a06d0aaf3] If, immediately before the death of the donor, there is any property which, in relation to him, is property subject to a reservation then, to the extent that the property would not, apart from this section, form part of the donor’s estate immediately before his death, that property shall be treated for the purposes of the 1984 Act as property to which he was beneficially entitled immediately before his death.
 
-(4)[^key-3fa271f26174bb75e7765a27e14ba88d][^key-33179faf93c5141dc5f7701a06d0aaf3] If, at a time before the end of the relevant period, any property ceases to be property subject to a reservation, the donor shall be treated for the purposes of the 1984 Act as having at that time made a disposition of the property by a disposition which is a potentially exempt transfer.
+(4)[^c-3fa271f26174bb75e7765a27e14ba88d][^c-33179faf93c5141dc5f7701a06d0aaf3] If, at a time before the end of the relevant period, any property ceases to be property subject to a reservation, the donor shall be treated for the purposes of the 1984 Act as having at that time made a disposition of the property by a disposition which is a potentially exempt transfer.
 
 (5) This section does not apply if or, as the case may be, to the extent that the disposal of the property by way of gift is an exempt transfer by virtue of any of the following provisions of Part II of the 1984 Act,—
 
-- (a) section 18 (transfers between spouses or civil partners[^key-b5ec9bcdb071b33d546bc1d4463aa25d]) , except as provided by subsections (5A) and (5B) below[^key-a1f0a9a380c89bf2f4dc28727d079062];
+- (a) section 18 (transfers between spouses or civil partners[^c-b5ec9bcdb071b33d546bc1d4463aa25d]) , except as provided by subsections (5A) and (5B) below[^c-a1f0a9a380c89bf2f4dc28727d079062];
 - (b) section 20 (small gifts);
-- (c) section 22 (gifts in consideration of marriage or civil partnership[^key-a78b0dc12d323765e26baf38ef95271a]);
+- (c) section 22 (gifts in consideration of marriage or civil partnership[^c-a78b0dc12d323765e26baf38ef95271a]);
 - (d) section 23 (gifts to charities);
 - (e) section 24 (gifts to political parties);
 - (ee)[^c13533991] section 24A (gifts to housing associations);
 - (f) section 25 (gifts for national purposes, etc);
 - (g)[^c13534001] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (h) section 27 (maintenance funds for historic buildings); [^key-64735c6ab7f11b8174a13888b0176fb2]...
-- (i) section 28 (employee trusts); and[^key-6f5d78b6f8f606d9c51e1725f9392585]
+- (h) section 27 (maintenance funds for historic buildings); [^c-64735c6ab7f11b8174a13888b0176fb2]...
+- (i) section 28 (employee trusts); and[^c-6f5d78b6f8f606d9c51e1725f9392585]
 - (j) section 28A (employee-ownership trusts).
 
-(5A)[^key-231acac2f9b105f7d43c6b6533973a85] Subsection (5)(a) above does not prevent this section from applying if or, as the case may be, to the extent that—
+(5A)[^c-231acac2f9b105f7d43c6b6533973a85] Subsection (5)(a) above does not prevent this section from applying if or, as the case may be, to the extent that—
 
 - (a) the property becomes settled property by virtue of the gift,
-- (b) by reason of the donor’s spouse or civil partner[^key-85fbf0ccb25417f5517ad3bb55950109] (“**the relevant beneficiary**”) becoming beneficially entitled to an interest in possession in the settled property, the disposal is or, as the case may be, is to any extent an exempt transfer by virtue of section 18 of the 1984 Act in consequence of the operation of section 49 of that Act (treatment of interests in possession),
+- (b) by reason of the donor’s spouse or civil partner[^c-85fbf0ccb25417f5517ad3bb55950109] (“**the relevant beneficiary**”) becoming beneficially entitled to an interest in possession in the settled property, the disposal is or, as the case may be, is to any extent an exempt transfer by virtue of section 18 of the 1984 Act in consequence of the operation of section 49 of that Act (treatment of interests in possession),
 - (c) at some time after the disposal, but before the death of the donor, the relevant beneficiary’s interest in possession comes to an end, and
 - (d) on the occasion on which that interest comes to an end, the relevant beneficiary does not become beneficially entitled to the settled property or to another interest in possession in the settled property.
 
@@ -70,13 +70,13 @@ the property is referred to (in relation to the gift and the donor) as property 
 
 (7) If a policy issued as mentioned in subsection (6) above confers an option or other power under which benefits and premiums may be increased to take account of increases in the retail price index (as defined in section 8(3) of the 1984 Act) or any similar index pecified in the policy, then, to the extent that the right to exercise on or before 1st August 1986, the exercise of that option or power before that date shall be disregarded for the purposes of subsection (6) above.
 
-(7A)[^key-e9458079a793c328d4858cc5fdd49927] This section does not apply if—
+(7A)[^c-e9458079a793c328d4858cc5fdd49927] This section does not apply if—
 
 - (a) the disposal of property by way of gift took place before 30 October 2024,
 - (b) the property became settled property by virtue of the disposal and remained settled property at all times after the disposal and before the relevant time,
 - (c) immediately before 30 October 2024, the property was excluded property for the purposes of the 1984 Act by virtue of section 48(3) or (3A) (as it had effect at that time), and
 - (d) immediately before the relevant time, the property—
-  - (i) was situated outside the United Kingdom and was not property to which paragraph 2 or 3 of Schedule A1 to the 1984 Act applied (overseas property with value attributable to UK residential property or UK agricultural property[^key-3e47afc0cc4511fea1f4882abcf92f94]), or
+  - (i) was situated outside the United Kingdom and was not property to which paragraph 2 or 3 of Schedule A1 to the 1984 Act applied (overseas property with value attributable to UK residential property or UK agricultural property[^c-3e47afc0cc4511fea1f4882abcf92f94]), or
   - (ii) was a holding in an authorised unit trust or a share in an open-ended investment company (within the meaning, in either case, of the 1984 Act).
 
 (7B) In subsection (7A), “**the relevant time**” means—
@@ -90,34 +90,34 @@ the property is referred to (in relation to the gift and the donor) as property 
 
 ## Annotations
 
-[^key-e251d1b490cedca2123fcc7a1789b152]: Modification: Pt. 5 modified (with effect in accordance with s. 84(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 15 para. 22(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/22/2/b/i)
+[^c-e251d1b490cedca2123fcc7a1789b152]: Modification: Pt. 5 modified (with effect in accordance with s. 84(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 15 para. 22(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/22/2/b/i)
 
-[^key-f6db16db52756f553fc09ae47e1de90f]: Modification: Pt. 5 modified (with effect in accordance with s. 84(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 15 para. 21(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/21/2/b/i)
+[^c-f6db16db52756f553fc09ae47e1de90f]: Modification: Pt. 5 modified (with effect in accordance with s. 84(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 15 para. 21(2)(b)(i)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/21/2/b/i)
 
-[^key-329c9c4364113fb91ea6e354e45bad13]: Textual amendment: Words in s. 102(1) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 31(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/31/2), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-329c9c4364113fb91ea6e354e45bad13]: Textual amendment: Words in s. 102(1) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 31(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/31/2), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-3fa271f26174bb75e7765a27e14ba88d]: Modification: S. 102(3)(4) applied (with effect in accordance with s. 84(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 15 para. 21(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/21/2/b/ii)
+[^c-3fa271f26174bb75e7765a27e14ba88d]: Modification: S. 102(3)(4) applied (with effect in accordance with s. 84(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 15 para. 21(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/21/2/b/ii)
 
-[^key-33179faf93c5141dc5f7701a06d0aaf3]: Modification: S. 102(3)(4) applied (with effect in accordance with s. 84(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 15 para. 22(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/22/2/b/ii)
+[^c-33179faf93c5141dc5f7701a06d0aaf3]: Modification: S. 102(3)(4) applied (with effect in accordance with s. 84(2) of the amending Act) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [Sch. 15 para. 22(2)(b)(ii)](https://www.legislation.gov.uk/ukpga/2004/12/schedule/15/paragraph/22/2/b/ii)
 
-[^key-b5ec9bcdb071b33d546bc1d4463aa25d]: Textual amendment: Words in s. 102(5)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [44(2)(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/44/2/a)
+[^c-b5ec9bcdb071b33d546bc1d4463aa25d]: Textual amendment: Words in s. 102(5)(a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [44(2)(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/44/2/a)
 
-[^key-a1f0a9a380c89bf2f4dc28727d079062]: Textual amendment: Words in s. 102(5)(a) inserted (with effect in accordance with s. 185(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 185(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/185/2)
+[^c-a1f0a9a380c89bf2f4dc28727d079062]: Textual amendment: Words in s. 102(5)(a) inserted (with effect in accordance with s. 185(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 185(2)](https://www.legislation.gov.uk/ukpga/2003/14/section/185/2)
 
-[^key-a78b0dc12d323765e26baf38ef95271a]: Textual amendment: Words in s. 102(5)(c) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [44(2)(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/44/2/b)
+[^c-a78b0dc12d323765e26baf38ef95271a]: Textual amendment: Words in s. 102(5)(c) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [44(2)(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/44/2/b)
 
 [^c13533991]: Textual amendment: [Finance Act 1989 (c. 26, SIF 63:1, 2)](https://www.legislation.gov.uk/ukpga/1989/26), [s. 171(5)](https://www.legislation.gov.uk/ukpga/1989/26/section/171/5), with effect from 14 March 1989
 
 [^c13534001]: Textual amendment: S. 102(5)(g) repealed (31.7.1998 with effect as mentioned in Sch. 27 Note 2 of the amending Act) [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. IV](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/IV)
 
-[^key-64735c6ab7f11b8174a13888b0176fb2]: Textual amendment: Word in s. 102(5) omitted (with effect in accordance with Sch. 37 para. 17(2) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 17(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/17/1)
+[^c-64735c6ab7f11b8174a13888b0176fb2]: Textual amendment: Word in s. 102(5) omitted (with effect in accordance with Sch. 37 para. 17(2) of the amending Act) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 17(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/17/1)
 
-[^key-6f5d78b6f8f606d9c51e1725f9392585]: Textual amendment: S. 102(5)(j) and word inserted (with effect in accordance with Sch. 37 para. 17(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 17(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/17/1)
+[^c-6f5d78b6f8f606d9c51e1725f9392585]: Textual amendment: S. 102(5)(j) and word inserted (with effect in accordance with Sch. 37 para. 17(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 37 para. 17(1)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/37/paragraph/17/1)
 
-[^key-231acac2f9b105f7d43c6b6533973a85]: Textual amendment: S. 102(5A)-(5C) inserted (with effect in accordance with s. 185(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 185(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/185/3)
+[^c-231acac2f9b105f7d43c6b6533973a85]: Textual amendment: S. 102(5A)-(5C) inserted (with effect in accordance with s. 185(4) of the amending Act) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [s. 185(3)](https://www.legislation.gov.uk/ukpga/2003/14/section/185/3)
 
-[^key-85fbf0ccb25417f5517ad3bb55950109]: Textual amendment: Words in s. 102(5A)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [44(3)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/44/3)
+[^c-85fbf0ccb25417f5517ad3bb55950109]: Textual amendment: Words in s. 102(5A)(b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [44(3)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/44/3)
 
-[^key-e9458079a793c328d4858cc5fdd49927]: Textual amendment: S. 102(7A)-(7C) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 31(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/31/3), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-e9458079a793c328d4858cc5fdd49927]: Textual amendment: S. 102(7A)-(7C) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 31(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/31/3), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-3e47afc0cc4511fea1f4882abcf92f94]: Textual amendment: Words in s. 102(7A)(d)(i) inserted (with effect in accordance with Sch. 12 para. 20 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 19(6)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/19/6), [20](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/20)
+[^c-3e47afc0cc4511fea1f4882abcf92f94]: Textual amendment: Words in s. 102(7A)(d)(i) inserted (with effect in accordance with Sch. 12 para. 20 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 19(6)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/19/6), [20](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/20)

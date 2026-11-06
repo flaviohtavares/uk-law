@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Offences relating to members of the Court Martial[^key-9f3dad949e196d96567eb58914349ab7]
+## SCHEDULE 2A — Offences relating to members of the Court Martial[^c-9f3dad949e196d96567eb58914349ab7]
 
 *Extent: E+W+S+N.I.*
 
@@ -230,4 +230,4 @@ to consider whether conduct of a lay member in connection with those proceedings
 
 ## Annotations
 
-[^key-9f3dad949e196d96567eb58914349ab7]: Textual amendment: Sch. 2A inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2015/2/schedule/14/paragraph/3); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80) (with [Sch. 2 paras. 3(c)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/c), [4(c)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/c))
+[^c-9f3dad949e196d96567eb58914349ab7]: Textual amendment: Sch. 2A inserted (13.4.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 14 para. 3](https://www.legislation.gov.uk/ukpga/2015/2/schedule/14/paragraph/3); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 80](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/80) (with [Sch. 2 paras. 3(c)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/3/c), [4(c)](https://www.legislation.gov.uk/uksi/2015/778/schedule/2/paragraph/4/c))

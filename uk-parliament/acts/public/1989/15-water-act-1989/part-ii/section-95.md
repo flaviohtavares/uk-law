@@ -65,7 +65,7 @@ the successor company shall be treated as the original creditor for those purpos
 
 (10)[^c3797281] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(11) The vesting in accordance with a scheme under Schedule 2 to this Act in a successor company of any liability for a loan made to a water authority shall not affect any direction in respect of the loan which has been given, or has effect as if given, under section 755 of the Income Tax (Trading and Other Income) Act 2005[^key-78cc15739171c0902d51e35d3ddeacd0] (income tax exemption for interest on foreign currency securities).
+(11) The vesting in accordance with a scheme under Schedule 2 to this Act in a successor company of any liability for a loan made to a water authority shall not affect any direction in respect of the loan which has been given, or has effect as if given, under section 755 of the Income Tax (Trading and Other Income) Act 2005[^c-78cc15739171c0902d51e35d3ddeacd0] (income tax exemption for interest on foreign currency securities).
 
 ## Annotations
 
@@ -81,4 +81,4 @@ the successor company shall be treated as the original creditor for those purpos
 
 [^c3797281]: Textual amendment: S. 95(10) repealed (29.4.1996 with effect in accordance with Chapter II of [Pt. IV](https://www.legislation.gov.uk/ukpga/1996/8/part/IV) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [ss. 105](https://www.legislation.gov.uk/ukpga/1996/8/section/105), [205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V(3)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/3)
 
-[^key-78cc15739171c0902d51e35d3ddeacd0]: Textual amendment: Words in [s. 95(11)](https://www.legislation.gov.uk/ukpga/1989/15/section/95/11) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 405](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/405) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))
+[^c-78cc15739171c0902d51e35d3ddeacd0]: Textual amendment: Words in [s. 95(11)](https://www.legislation.gov.uk/ukpga/1989/15/section/95/11) substituted (6.4.2005) by [Income Tax (Trading and Other Income) Act 2005 (c. 5)](https://www.legislation.gov.uk/ukpga/2005/5), [s. 883(1)](https://www.legislation.gov.uk/ukpga/2005/5/section/883/1), [Sch. 1 para. 405](https://www.legislation.gov.uk/ukpga/2005/5/schedule/1/paragraph/405) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2005/5/schedule/2))

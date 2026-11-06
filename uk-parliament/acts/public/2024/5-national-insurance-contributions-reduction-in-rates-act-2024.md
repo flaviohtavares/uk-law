@@ -36,7 +36,7 @@ An Act to make provision for and in connection with reducing the main rates of p
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Reduction in rates[^key-b6ceebfcbb870028c1b78567378feadf]
+## 1. Reduction in rates[^c-b6ceebfcbb870028c1b78567378feadf]
 
 (1) In the following provisions—
 
@@ -56,7 +56,7 @@ for “9 per cent” substitute “6%”.
 
 (4) Section 2 of the National Insurance Contributions (Reduction in Rates) Act 2023 is superseded by subsection (3) and accordingly is to be treated as never having had effect.
 
-## 2. Annual maximum contributions[^key-665edb06aaa197963a146263adbe8014]
+## 2. Annual maximum contributions[^c-665edb06aaa197963a146263adbe8014]
 
 (1) The Social Security (Contributions) Regulations 2001 (as they had effect immediately before the day on which this Act comes into force) are amended as follows.
 
@@ -69,7 +69,7 @@ for “9 per cent” substitute “6%”.
 
 (4) Paragraph 3 of the Schedule to the National Insurance Contributions (Reduction in Rates) Act 2023 is superseded by this section and accordingly is to be treated as never having had effect.
 
-## 3. Commencement and short title[^key-923852900b52aeac66c56e8cb1a5fa4c]
+## 3. Commencement and short title[^c-923852900b52aeac66c56e8cb1a5fa4c]
 
 (1) This Act comes into force on 6 April 2024.
 
@@ -77,8 +77,8 @@ for “9 per cent” substitute “6%”.
 
 ## Annotations
 
-[^key-b6ceebfcbb870028c1b78567378feadf]: Commencement: S. 1 in force at 6.4.2024, see [s. 3(1)](https://www.legislation.gov.uk/ukpga/2024/5/section/3/1)
+[^c-b6ceebfcbb870028c1b78567378feadf]: Commencement: S. 1 in force at 6.4.2024, see [s. 3(1)](https://www.legislation.gov.uk/ukpga/2024/5/section/3/1)
 
-[^key-665edb06aaa197963a146263adbe8014]: Commencement: S. 2 in force at 6.4.2024, see [s. 3(1)](https://www.legislation.gov.uk/ukpga/2024/5/section/3/1)
+[^c-665edb06aaa197963a146263adbe8014]: Commencement: S. 2 in force at 6.4.2024, see [s. 3(1)](https://www.legislation.gov.uk/ukpga/2024/5/section/3/1)
 
-[^key-923852900b52aeac66c56e8cb1a5fa4c]: Commencement: S. 3 in force at 6.4.2024, see [s. 3(1)](https://www.legislation.gov.uk/ukpga/2024/5/section/3/1)
+[^c-923852900b52aeac66c56e8cb1a5fa4c]: Commencement: S. 3 in force at 6.4.2024, see [s. 3(1)](https://www.legislation.gov.uk/ukpga/2024/5/section/3/1)

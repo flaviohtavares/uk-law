@@ -25,7 +25,7 @@ summary: ''
 - (a) anything required by or under this Act to be done to or in relation to the debtor or hirer shall be done to or in relation to each of them; and
 - (b) anything done under this Act by or on behalf of one of them shall have effect as if done by or on behalf of all of them.
 
-(1A)[^key-19fab0ceb5259ac7cef5893a6e8a7ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-19fab0ceb5259ac7cef5893a6e8a7ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c18854581] Notwithstanding subsection (1)(a), where credit is provided under an agreement to two or more debtors jointly, in performing his duties—
 
@@ -57,7 +57,7 @@ is a consumer credit agreement or consumer hire agreement if it would have been 
 
 ## Annotations
 
-[^key-19fab0ceb5259ac7cef5893a6e8a7ef4]: Textual amendment: S. 185(1A) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(59)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/59)
+[^c-19fab0ceb5259ac7cef5893a6e8a7ef4]: Textual amendment: S. 185(1A) omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(59)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/59)
 
 [^c18854581]: Textual amendment: S. 185(2)-(2D) substituted (1.10.2008) for s. 185(2) by [Consumer Credit Act 2006 (c. 14)](https://www.legislation.gov.uk/ukpga/2006/14), ss. {7(3)}, 71(2) (with Sch. 3 para. 4); [S.I. 2007/3300](https://www.legislation.gov.uk/uksi/2007/3300), [art. 3(3)](https://www.legislation.gov.uk/uksi/2007/3300/article/3/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3300/schedule/3)
 

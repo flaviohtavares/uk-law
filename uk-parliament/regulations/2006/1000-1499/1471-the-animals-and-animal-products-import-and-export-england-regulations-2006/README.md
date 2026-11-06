@@ -34,7 +34,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Animals and Animal Products (Import and Export) (England) Regulations 2006 (revoked)[^key-efec508bd317d4537b18a46347a58bfc]
+The Animals and Animal Products (Import and Export) (England) Regulations 2006 (revoked)[^c-efec508bd317d4537b18a46347a58bfc]
 
 Made
 
@@ -48,11 +48,11 @@ Coming into force
 
 29th June 2006
 
-[^key-efec508bd317d4537b18a46347a58bfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efec508bd317d4537b18a46347a58bfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-efec508bd317d4537b18a46347a58bfc]
+### PART 1 — Introduction[^c-efec508bd317d4537b18a46347a58bfc]
 
 **No longer in force.**
 
@@ -60,7 +60,7 @@ Coming into force
 - [Section 2 — Exception](part-1/section-2.md)
 - [Section 3 — Enforcement](part-1/section-3.md)
 
-### PART 2 — Intra-Community Trade[^key-efec508bd317d4537b18a46347a58bfc]
+### PART 2 — Intra-Community Trade[^c-efec508bd317d4537b18a46347a58bfc]
 
 *Extent: E+W+S*
 
@@ -77,7 +77,7 @@ Coming into force
 - [Section 12 — Assembly centres and slaughterhouses](part-2/section-12.md)
 - [Section 13 — Illegal consignments](part-2/section-13.md)
 
-### PART 3 — Third Country Imports[^key-efec508bd317d4537b18a46347a58bfc]
+### PART 3 — Third Country Imports[^c-efec508bd317d4537b18a46347a58bfc]
 
 *Extent: E+W+S*
 
@@ -95,7 +95,7 @@ Coming into force
 - [Section 23 — Arrival at the place of destination](part-3/section-23.md)
 - [Section 24 — Post-import controls](part-3/section-24.md)
 
-### PART 4 — Imports Where Checks Have Been Carried Out in Another Member State[^key-efec508bd317d4537b18a46347a58bfc]
+### PART 4 — Imports Where Checks Have Been Carried Out in Another Member State[^c-efec508bd317d4537b18a46347a58bfc]
 
 **No longer in force.**
 
@@ -103,14 +103,14 @@ Coming into force
 - [Section 26 — Imports](part-4/section-26.md)
 - [Section 27 — Import procedure](part-4/section-27.md)
 
-### PART 4A — Third Country Exports[^key-efec508bd317d4537b18a46347a58bfc]
+### PART 4A — Third Country Exports[^c-efec508bd317d4537b18a46347a58bfc]
 
 **No longer in force.**
 
 - [Section 27A — Application of Part 4A](part-4a/section-27a.md)
 - [Section 27B — Exports to third countries](part-4a/section-27b.md)
 
-### PART 5 — General[^key-efec508bd317d4537b18a46347a58bfc]
+### PART 5 — General[^c-efec508bd317d4537b18a46347a58bfc]
 
 **No longer in force.**
 
@@ -139,14 +139,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-efec508bd317d4537b18a46347a58bfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efec508bd317d4537b18a46347a58bfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
 **May not be in force at this date. Check the source.**
 
-[^key-efec508bd317d4537b18a46347a58bfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-efec508bd317d4537b18a46347a58bfc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-efec508bd317d4537b18a46347a58bfc]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [reg. 44(f)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))
+[^c-efec508bd317d4537b18a46347a58bfc]: Textual amendment: Regulations revoked (25.5.2011) by [The Trade in Animals and Related Products Regulations 2011 (S.I. 2011/1197)](https://www.legislation.gov.uk/uksi/2011/1197), [reg. 44(f)](https://www.legislation.gov.uk/uksi/2011/1197/regulation/44/f) (with [reg. 3](https://www.legislation.gov.uk/uksi/2011/1197/regulation/3))

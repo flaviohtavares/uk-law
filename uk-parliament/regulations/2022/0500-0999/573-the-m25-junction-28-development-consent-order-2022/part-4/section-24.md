@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Trees subject to tree preservation orders[^key-24e2cf931ffc8d1645ab2a01a3262cfb]
+## 24. Trees subject to tree preservation orders[^c-24e2cf931ffc8d1645ab2a01a3262cfb]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-24e2cf931ffc8d1645ab2a01a3262cfb]: Commencement: Art. 24 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-24e2cf931ffc8d1645ab2a01a3262cfb]: Commencement: Art. 24 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
 
 [^f00062]: Footnote: Section 206(1) was amended by paragraph 11 of Schedule 8 to the 2008 Act.

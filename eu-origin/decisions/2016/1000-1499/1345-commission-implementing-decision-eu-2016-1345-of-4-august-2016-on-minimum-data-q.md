@@ -35,65 +35,65 @@ on minimum data quality standards for fingerprint records within the second gene
 
 *(notified under document C(2016) 4988)* (revoked)
 
-[^key-57385c9a9ae4a928519e61e7c50288bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57385c9a9ae4a928519e61e7c50288bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-57385c9a9ae4a928519e61e7c50288bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-57385c9a9ae4a928519e61e7c50288bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-57385c9a9ae4a928519e61e7c50288bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-57385c9a9ae4a928519e61e7c50288bc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57385c9a9ae4a928519e61e7c50288bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-57385c9a9ae4a928519e61e7c50288bc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX[^key-57385c9a9ae4a928519e61e7c50288bc]
+## ANNEX[^c-57385c9a9ae4a928519e61e7c50288bc]
 
-[^key-57385c9a9ae4a928519e61e7c50288bc]1.
+[^c-57385c9a9ae4a928519e61e7c50288bc]1.
 
 **OBJECTIVE**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57385c9a9ae4a928519e61e7c50288bc]2.
+[^c-57385c9a9ae4a928519e61e7c50288bc]2.
 
 **FILE AND COMPRESSION FORMAT**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57385c9a9ae4a928519e61e7c50288bc]3.
+[^c-57385c9a9ae4a928519e61e7c50288bc]3.
 
 **DEVICES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57385c9a9ae4a928519e61e7c50288bc]3.1.
+[^c-57385c9a9ae4a928519e61e7c50288bc]3.1.
 
 **Image format and Resolution**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57385c9a9ae4a928519e61e7c50288bc]4.
+[^c-57385c9a9ae4a928519e61e7c50288bc]4.
 
 **REQUIREMENTS**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57385c9a9ae4a928519e61e7c50288bc]4.1.
+[^c-57385c9a9ae4a928519e61e7c50288bc]4.1.
 
 **Quality**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57385c9a9ae4a928519e61e7c50288bc]5.
+[^c-57385c9a9ae4a928519e61e7c50288bc]5.
 
 **USE OF FINGERPRINTS FOR STORING AND INSERTING**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57385c9a9ae4a928519e61e7c50288bc]6.
+[^c-57385c9a9ae4a928519e61e7c50288bc]6.
 
 **USE OF FINGERPRINTS FOR BIOMETRIC IDENTIFICATIONS AND SEARCHES**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-57385c9a9ae4a928519e61e7c50288bc]7.
+[^c-57385c9a9ae4a928519e61e7c50288bc]7.
 
 **USE OF FINGERPRINTS FOR BIOMETRIC VERIFICATIONS**
 
@@ -101,4 +101,4 @@ on minimum data quality standards for fingerprint records within the second gene
 
 ## Annotations
 
-[^key-57385c9a9ae4a928519e61e7c50288bc]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [119(2)(g)](https://www.legislation.gov.uk/uksi/2019/742/regulation/119/2/g) (with [regs. 120](https://www.legislation.gov.uk/uksi/2019/742/regulation/120), [121](https://www.legislation.gov.uk/uksi/2019/742/regulation/121)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [35](https://www.legislation.gov.uk/uksi/2020/1408/regulation/35), [36](https://www.legislation.gov.uk/uksi/2020/1408/regulation/36), [37](https://www.legislation.gov.uk/uksi/2020/1408/regulation/37)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-57385c9a9ae4a928519e61e7c50288bc]: Textual amendment: Decision revoked (31.12.2020) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/742)](https://www.legislation.gov.uk/uksi/2019/742), [regs. 1](https://www.legislation.gov.uk/uksi/2019/742/regulation/1), [119(2)(g)](https://www.legislation.gov.uk/uksi/2019/742/regulation/119/2/g) (with [regs. 120](https://www.legislation.gov.uk/uksi/2019/742/regulation/120), [121](https://www.legislation.gov.uk/uksi/2019/742/regulation/121)) (as amended by [S.I. 2020/1408](https://www.legislation.gov.uk/uksi/2020/1408), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1408/regulation/1), [35](https://www.legislation.gov.uk/uksi/2020/1408/regulation/35), [36](https://www.legislation.gov.uk/uksi/2020/1408/regulation/36), [37](https://www.legislation.gov.uk/uksi/2020/1408/regulation/37)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -42,11 +42,11 @@ Section 18
 
 and which (in either case) is not a flat.
 
-(2) The local housing authority must serve the notice on whichever of the following the authority considers ought to take the action specified in it[^key-15a039fd62d96974d1dcc819c449fed1]—
+(2) The local housing authority must serve the notice on whichever of the following the authority considers ought to take the action specified in it[^c-15a039fd62d96974d1dcc819c449fed1]—
 
-- (a) (in the case of a dwelling) [^key-2217445de4118da5f78675b6b860c03f]... the person having control of the dwelling;
-- (b) (in the case of an HMO) either [^key-57e8dddd8305697b75ecb68221f4bf79]... the person having control of the HMO or [^key-57e8dddd8305697b75ecb68221f4bf79]... the person managing it;
-- (c)[^key-56d646ce9e670d648c6788205280799a] (in either case) if the premises or any part of them are let under a tenancy that is periodic or was granted for a term of 21 years or less, or are occupied under a licence—
+- (a) (in the case of a dwelling) [^c-2217445de4118da5f78675b6b860c03f]... the person having control of the dwelling;
+- (b) (in the case of an HMO) either [^c-57e8dddd8305697b75ecb68221f4bf79]... the person having control of the HMO or [^c-57e8dddd8305697b75ecb68221f4bf79]... the person managing it;
+- (c)[^c-56d646ce9e670d648c6788205280799a] (in either case) if the premises or any part of them are let under a tenancy that is periodic or was granted for a term of 21 years or less, or are occupied under a licence—
   - (i) the landlord or licensor;
   - (ii) any superior landlord or licensor.
 
@@ -153,7 +153,7 @@ on the persons on whom they would be required to serve an improvement notice and
 
 #### Appeal against improvement notice
 
-**10.**[^c2051549] (1) The person on whom an improvement notice is served may appeal to the appropriate tribunal[^key-7dfb26e0095b2a950397ba165f06ff06] against the notice.
+**10.**[^c2051549] (1) The person on whom an improvement notice is served may appeal to the appropriate tribunal[^c-7dfb26e0095b2a950397ba165f06ff06] against the notice.
 
 (2) Paragraphs 11 and 12 set out two specific grounds on which an appeal may be made under this paragraph, but they do not affect the generality of sub-paragraph (1).
 
@@ -174,7 +174,7 @@ on the persons on whom they would be required to serve an improvement notice and
 
 #### Appeal against decision relating to variation or revocation of improvement notice
 
-**13.**[^c2051554] (1) The relevant person may appeal to the appropriate tribunal[^key-4a6b9b664a43ac1d98851cf0cde75db4] against—
+**13.**[^c2051554] (1) The relevant person may appeal to the appropriate tribunal[^c-4a6b9b664a43ac1d98851cf0cde75db4] against—
 
 - (a) a decision by the local housing authority to vary an improvement notice, or
 - (b) a decision by the authority to refuse to revoke or vary an improvement notice.
@@ -190,11 +190,11 @@ on the persons on whom they would be required to serve an improvement notice and
 
 (2) Any appeal under paragraph 13 must be made within the period of 28 days beginning with the date specified in the notice under paragraph 6 or 8 as the date on which the decision concerned was made.
 
-(3) the appropriate tribunal[^key-c1823f43e995a79b2d6b1257a724f7b3] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (1) or (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
+(3) the appropriate tribunal[^c-c1823f43e995a79b2d6b1257a724f7b3] may allow an appeal to be made to it after the end of the period mentioned in sub-paragraph (1) or (2) if it is satisfied that there is a good reason for the failure to appeal before the end of that period (and for any delay since then in applying for permission to appeal out of time).
 
-#### Powers of ... tribunal on appeal under paragraph 10[^key-7a864fc5612d981307c68b0793cce54d]
+#### Powers of ... tribunal on appeal under paragraph 10[^c-7a864fc5612d981307c68b0793cce54d]
 
-**15.**[^c2051556] (1) This paragraph applies to an appeal to the appropriate tribunal[^key-f30040d32ae685eb881a72c73867af11] under paragraph 10.
+**15.**[^c2051556] (1) This paragraph applies to an appeal to the appropriate tribunal[^c-f30040d32ae685eb881a72c73867af11] under paragraph 10.
 
 (2) The appeal—
 
@@ -233,9 +233,9 @@ on the persons on whom they would be required to serve an improvement notice and
 
 (4) The tribunal must, if requested to do so by the appellant or the local housing authority, include in its decision a finding to that effect and identifying the course of action concerned.
 
-#### Powers of ... tribunal on appeal under paragraph 13[^key-afafbdfbaef3273c0ff642e9ffac191a]
+#### Powers of ... tribunal on appeal under paragraph 13[^c-afafbdfbaef3273c0ff642e9ffac191a]
 
-**18.**[^c2051561] (1) This paragraph applies to an appeal to the appropriate tribunal[^key-c9c07a4f0392d93c8d5420e712b165df] under paragraph 13.
+**18.**[^c2051561] (1) This paragraph applies to an appeal to the appropriate tribunal[^c-c9c07a4f0392d93c8d5420e712b165df] under paragraph 13.
 
 (2) Paragraph 15(2) applies to such an appeal as it applies to an appeal under paragraph 10.
 
@@ -284,13 +284,13 @@ on the persons on whom they would be required to serve an improvement notice and
 
 [^c2051524]: Commencement: Sch. 1 wholly in force at 16.6.2006; Sch. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-15a039fd62d96974d1dcc819c449fed1]: Textual amendment: Words in Sch. 1 para. 2(2) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 106(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/106/a), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/m)
+[^c-15a039fd62d96974d1dcc819c449fed1]: Textual amendment: Words in Sch. 1 para. 2(2) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 106(a)](https://www.legislation.gov.uk/ukpga/2025/26/section/106/a), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/m)
 
-[^key-2217445de4118da5f78675b6b860c03f]: Textual amendment: Word in Sch. 1 para. 2(2)(a) omitted (1.5.2026) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 106(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/106/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/m)
+[^c-2217445de4118da5f78675b6b860c03f]: Textual amendment: Word in Sch. 1 para. 2(2)(a) omitted (1.5.2026) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 106(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/106/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/m)
 
-[^key-57e8dddd8305697b75ecb68221f4bf79]: Textual amendment: Word in Sch. 1 para. 2(2)(b) omitted (1.5.2026) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 106(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/106/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/m)
+[^c-57e8dddd8305697b75ecb68221f4bf79]: Textual amendment: Word in Sch. 1 para. 2(2)(b) omitted (1.5.2026) by virtue of [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 106(b)](https://www.legislation.gov.uk/ukpga/2025/26/section/106/b), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/m)
 
-[^key-56d646ce9e670d648c6788205280799a]: Textual amendment: Sch. 1 para. 2(2)(c) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 106(c)](https://www.legislation.gov.uk/ukpga/2025/26/section/106/c), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/m)
+[^c-56d646ce9e670d648c6788205280799a]: Textual amendment: Sch. 1 para. 2(2)(c) inserted (1.5.2026) by [Renters’ Rights Act 2025 (c. 26)](https://www.legislation.gov.uk/ukpga/2025/26), [ss. 106(c)](https://www.legislation.gov.uk/ukpga/2025/26/section/106/c), [145(1)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1)[(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/7) (with [s. 138](https://www.legislation.gov.uk/ukpga/2025/26/section/138)); [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 3(m)](https://www.legislation.gov.uk/uksi/2026/421/regulation/3/m)
 
 [^c2051527]: Commencement: Sch. 1 wholly in force at 16.6.2006; Sch. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); Sch. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
@@ -308,7 +308,7 @@ on the persons on whom they would be required to serve an improvement notice and
 
 [^c2051549]: Commencement: Sch. 1 wholly in force at 16.6.2006; Sch. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-7dfb26e0095b2a950397ba165f06ff06]: Textual amendment: Words in Sch. 1 para. 10(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-7dfb26e0095b2a950397ba165f06ff06]: Textual amendment: Words in Sch. 1 para. 10(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051552]: Commencement: Sch. 1 wholly in force at 16.6.2006; Sch. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
@@ -316,27 +316,27 @@ on the persons on whom they would be required to serve an improvement notice and
 
 [^c2051554]: Commencement: Sch. 1 wholly in force at 16.6.2006; Sch. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-4a6b9b664a43ac1d98851cf0cde75db4]: Textual amendment: Words in Sch. 1 para. 13(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-4a6b9b664a43ac1d98851cf0cde75db4]: Textual amendment: Words in Sch. 1 para. 13(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051555]: Commencement: Sch. 1 wholly in force at 16.6.2006; Sch. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-c1823f43e995a79b2d6b1257a724f7b3]: Textual amendment: Words in Sch. 1 para. 14(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-c1823f43e995a79b2d6b1257a724f7b3]: Textual amendment: Words in Sch. 1 para. 14(3) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
-[^key-7a864fc5612d981307c68b0793cce54d]: Textual amendment: Words in Sch. 1 para. 15 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-7a864fc5612d981307c68b0793cce54d]: Textual amendment: Words in Sch. 1 para. 15 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051556]: Commencement: Sch. 1 wholly in force at 16.6.2006; Sch. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-f30040d32ae685eb881a72c73867af11]: Textual amendment: Words in Sch. 1 para. 15(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-f30040d32ae685eb881a72c73867af11]: Textual amendment: Words in Sch. 1 para. 15(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051557]: Commencement: Sch. 1 wholly in force at 16.6.2006; Sch. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
 [^c2051560]: Commencement: Sch. 1 wholly in force at 16.6.2006; Sch. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-afafbdfbaef3273c0ff642e9ffac191a]: Textual amendment: Words in Sch. 1 para. 18 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-afafbdfbaef3273c0ff642e9ffac191a]: Textual amendment: Words in Sch. 1 para. 18 heading omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(b)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/b) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051561]: Commencement: Sch. 1 wholly in force at 16.6.2006; Sch. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 
-[^key-c9c07a4f0392d93c8d5420e712b165df]: Textual amendment: Words in Sch. 1 para. 18(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-c9c07a4f0392d93c8d5420e712b165df]: Textual amendment: Words in Sch. 1 para. 18(1) substituted (1.7.2013) by [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 181(a)](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/181/a) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
 
 [^c2051562]: Commencement: Sch. 1 wholly in force at 16.6.2006; Sch. 1 not in force at Royal Assent see s. 270(4)(5); Sch. 1 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060) , [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule) ); Sch. 1 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535) , [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule) )
 

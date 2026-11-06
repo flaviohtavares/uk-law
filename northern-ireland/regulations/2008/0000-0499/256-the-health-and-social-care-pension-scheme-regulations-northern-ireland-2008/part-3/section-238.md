@@ -22,7 +22,7 @@ summary: ''
 
 (1) The general rule in regulation 237 does not apply if—
 
-- (a) at the time that the member first becomes entitled to a pension under this Section of[^key-6dd3199395db08c1ea8a9b8c1193e45e] the Scheme in respect of the earlier service or the later service, or
+- (a) at the time that the member first becomes entitled to a pension under this Section of[^c-6dd3199395db08c1ea8a9b8c1193e45e] the Scheme in respect of the earlier service or the later service, or
 - (b) if it is earlier, at the time of the member's death,
 
 in the opinion of the Department the benefits payable to or in respect of the member would be more valuable if that general rule were disregarded.
@@ -36,4 +36,4 @@ in the opinion of the Department the benefits payable to or in respect of the me
 
 ## Annotations
 
-[^key-6dd3199395db08c1ea8a9b8c1193e45e]: Textual amendment: Words in [reg. 238(1)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/238/1/a) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and [Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)
+[^c-6dd3199395db08c1ea8a9b8c1193e45e]: Textual amendment: Words in [reg. 238(1)(a)](https://www.legislation.gov.uk/nisr/2008/256/regulation/238/1/a) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by The Health and Personal Social Services (Superannuation Scheme, Compensation for Premature Retirement and Additional Voluntary Contributions), and [Health and Social Care (Pension Scheme) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/22)](https://www.legislation.gov.uk/nisr/2010/22), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2010/22/regulation/1/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/nisr/2010/22/schedule/2/part/1)

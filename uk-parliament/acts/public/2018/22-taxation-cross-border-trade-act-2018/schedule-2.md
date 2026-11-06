@@ -24,14 +24,14 @@ Section 3(6)
 
 ### PART 1 — Entitlement to declare goods for special customs procedures
 
-**1.**[^c23537621][^key-b2fb346a98542160ebf72bc6380d8c34] (1) HMRC Commissioners may by regulations make provision entitling a person to declare goods for a special Customs procedure only if—
+**1.**[^c23537621][^c-b2fb346a98542160ebf72bc6380d8c34] (1) HMRC Commissioners may by regulations make provision entitling a person to declare goods for a special Customs procedure only if—
 
 - (a) the person is authorised in accordance with provision made by or under the regulations, and
 - (b) any other specified conditions are met in relation to the making of the declaration (for example, the giving of information or documents to HMRC).
 
 (2) The provision that the regulations may make in respect of authorisations includes (among other things)—
 
-- (a) provision for an authorisation to be granted only to persons established (as determined in accordance with provision made by the regulations) in, or outside, a specified place[^key-716ed5a8462a9731bf9eb385346af6ea],
+- (a) provision for an authorisation to be granted only to persons established (as determined in accordance with provision made by the regulations) in, or outside, a specified place[^c-716ed5a8462a9731bf9eb385346af6ea],
 - (b) provision for an authorisation to be granted only to persons meeting such other conditions as to their suitability as may be specified (which may be framed by reference to the judgment of any person),
 - (c) provision specifying other criteria for the granting of authorisations,
 - (d) provision about the period for which an authorisation is to have effect,
@@ -54,7 +54,7 @@ Section 3(6)
 
 #### Meaning of goods declared for “a storage procedure”
 
-**2.**[^c23537631][^key-9eab8150cb9c43c64d8c7081fba21ecc] (1) A declaration of goods for “a storage procedure” is a declaration that the goods—
+**2.**[^c23537631][^c-9eab8150cb9c43c64d8c7081fba21ecc] (1) A declaration of goods for “a storage procedure” is a declaration that the goods—
 
 - (a) are to be kept in premises approved by HMRC, or
 - (b) are to be kept in a free zone,
@@ -76,7 +76,7 @@ including provision as to what, or as to the extent to which, other activities m
 
 #### Keeping of goods in premises approved by HMRC
 
-**3.**[^c23545131][^key-495a019cfd9d0a2cedf8abf5406803d4] In the case of goods kept in premises approved by HMRC, each of the following is an example of the kind of provision that may be made by regulations under paragraph 2—
+**3.**[^c23545131][^c-495a019cfd9d0a2cedf8abf5406803d4] In the case of goods kept in premises approved by HMRC, each of the following is an example of the kind of provision that may be made by regulations under paragraph 2—
 
 - (a) provision establishing the criteria for approval,
 - (b) provision about the person to whom approval is to be granted,
@@ -86,7 +86,7 @@ including provision as to what, or as to the extent to which, other activities m
 
 #### Keeping of goods in free zones
 
-**4.**[^c23545171][^key-433cb0b511588e240547df935cc460a8] In the case of goods kept in free zones, each of the following is an example of the kind of provision that may be made by regulations under paragraph 2—
+**4.**[^c23545171][^c-433cb0b511588e240547df935cc460a8] In the case of goods kept in free zones, each of the following is an example of the kind of provision that may be made by regulations under paragraph 2—
 
 - (a) provision authorising any processing of goods, or the carrying on of any other activity, in a free zone (subject only to restrictions or other limitations, exceptions or conditions that are specified),
 - (b) provision treating any chargeable goods entering a free zone as if they had been declared for a storage procedure,
@@ -98,9 +98,9 @@ including provision as to what, or as to the extent to which, other activities m
 
 #### Meaning of goods declared for “a transit procedure”
 
-**5.**[^c23545181][^key-d5957a79e9f3e3d42a1b72e6e9d3b4a5] (1) A declaration of goods for “a transit procedure” is a declaration—
+**5.**[^c23545181][^c-d5957a79e9f3e3d42a1b72e6e9d3b4a5] (1) A declaration of goods for “a transit procedure” is a declaration—
 
-- (a) that goods are to move from one place in Great Britain[^key-3e4c16ecf7a34a42b593b8a461d3ae1d] to another place in Great Britain, and
+- (a) that goods are to move from one place in Great Britain[^c-3e4c16ecf7a34a42b593b8a461d3ae1d] to another place in Great Britain, and
 - (b) that the goods, so long as they are in Great Britain, are to be subject to requirements in relation to their movement in Great Britain imposed on any person by or under regulations made by HMRC Commissioners.
 
 (2) Each of the following is an example of the kind of requirements that may be imposed by the regulations—
@@ -113,7 +113,7 @@ including provision as to what, or as to the extent to which, other activities m
 
 #### Other requirements in relation to transit procedure
 
-**6.**[^c23545191][^key-67c5e7c6fd3760280cf0ae0f5c606e3a] (1) HMRC Commissioners may by regulations make provision imposing any other requirements on any person in relation to a transit procedure in respect of goods declared for the procedure.
+**6.**[^c23545191][^c-67c5e7c6fd3760280cf0ae0f5c606e3a] (1) HMRC Commissioners may by regulations make provision imposing any other requirements on any person in relation to a transit procedure in respect of goods declared for the procedure.
 
 (2) Each of the following is an example of the kind of requirements that may be imposed by the regulations—
 
@@ -124,7 +124,7 @@ including provision as to what, or as to the extent to which, other activities m
 
 #### Deeming a declaration for a transit procedure to be made
 
-**7.**[^c23545201][^key-ea71f707d57c54d57436861f0692b5eb] (1) Regulations made by HMRC Commissioners may make provision, in specified cases, for treating a person as having declared goods for a transit procedure.
+**7.**[^c23545201][^c-ea71f707d57c54d57436861f0692b5eb] (1) Regulations made by HMRC Commissioners may make provision, in specified cases, for treating a person as having declared goods for a transit procedure.
 
 (2) The regulations may make provision for treating a transit procedure for which goods are declared as a result of this paragraph as discharged in specified cases.
 
@@ -132,16 +132,16 @@ including provision as to what, or as to the extent to which, other activities m
 
 #### Introduction
 
-**8.**[^c23545331][^key-79f7aeb14f2abb743dc1c1cab7d2488a] A declaration of goods for “an inward processing procedure” may be—
+**8.**[^c23545331][^c-79f7aeb14f2abb743dc1c1cab7d2488a] A declaration of goods for “an inward processing procedure” may be—
 
 - (a) a declaration in the standard form (which is dealt with by paragraphs 9 and 10), or
 - (b) a declaration in the supplementary form (which is dealt with by paragraphs 11 and 12).
 
 #### Meaning of goods declared for “an inward processing procedure” in the standard form
 
-**9.**[^c23545211][^key-733a0b01fb23e692403befe7e427f134][^key-78a8ec6aeccd91c25e908341efb3e552] (1) A declaration of goods for “an inward processing procedure” in the standard form is a declaration—
+**9.**[^c23545211][^c-733a0b01fb23e692403befe7e427f134][^c-78a8ec6aeccd91c25e908341efb3e552] (1) A declaration of goods for “an inward processing procedure” in the standard form is a declaration—
 
-- (a) that the goods are to be imported into the United Kingdom in order to be processed in Great Britain[^key-5754c20eb014115223b26af4426bd079],
+- (a) that the goods are to be imported into the United Kingdom in order to be processed in Great Britain[^c-5754c20eb014115223b26af4426bd079],
 - (b) that the processing is to take place during a temporary period,
 - (c) that the processing is to consist of qualifying processing activities, and
 - (d) that the processing of the goods is to be carried out in accordance with requirements imposed on any person by or under regulations made by HMRC Commissioners.
@@ -157,11 +157,11 @@ including provision as to what, or as to the extent to which, other activities m
 - (c) the processing is the use of production accessories, or
 - (d) the processing is the destruction of the goods.
 
-(5) If an inward processing procedure in the standard form has effect in relation to any goods, the goods may be exported in accordance with the applicable export provisions , or removed to Northern Ireland,[^key-1833e1b0e8973eab996dc681786df7d8] for a temporary period for processing outside Great Britain[^key-9b93a1f189b14b845e8ab30e30c2293d] without discharging the procedure.
+(5) If an inward processing procedure in the standard form has effect in relation to any goods, the goods may be exported in accordance with the applicable export provisions , or removed to Northern Ireland,[^c-1833e1b0e8973eab996dc681786df7d8] for a temporary period for processing outside Great Britain[^c-9b93a1f189b14b845e8ab30e30c2293d] without discharging the procedure.
 
 (6) The inward processing procedure in the standard form is not discharged in accordance with sub-paragraph (5) only if—
 
-- (a) the processing of the goods outside Great Britain[^key-af340b5e8afb300dfe6f05b766bda5b0] is carried out in accordance with requirements imposed on any person by or under regulations made by HMRC Commissioners,
+- (a) the processing of the goods outside Great Britain[^c-af340b5e8afb300dfe6f05b766bda5b0] is carried out in accordance with requirements imposed on any person by or under regulations made by HMRC Commissioners,
 - (b) the processing takes place during a period specified in a notice given to the person making the declaration by an HMRC officer (and sub-paragraph (3) also applies for the purposes of this sub-paragraph), and
 - (c) any other conditions specified in regulations made by HMRC Commissioners are met.
 
@@ -180,19 +180,19 @@ including provision as to what, or as to the extent to which, other activities m
 
 #### Other requirements in relation to inward processing procedure in the standard form
 
-**10.**[^c23545231][^key-e277f9163490a8051a02e1cd73551fe2] HMRC Commissioners may by regulations make provision imposing any other requirements on any person in relation to an inward processing procedure in the standard form in respect of goods declared for the procedure.
+**10.**[^c23545231][^c-e277f9163490a8051a02e1cd73551fe2] HMRC Commissioners may by regulations make provision imposing any other requirements on any person in relation to an inward processing procedure in the standard form in respect of goods declared for the procedure.
 
 #### Meaning of goods declared for “an inward processing procedure” in the supplementary form
 
-**11.**[^c23545341][^key-a3c1c29e6dbaeeaf04cd53ba0e8f5b26] A declaration of goods for “an inward processing procedure” in the supplementary form is a declaration—
+**11.**[^c23545341][^c-a3c1c29e6dbaeeaf04cd53ba0e8f5b26] A declaration of goods for “an inward processing procedure” in the supplementary form is a declaration—
 
-- (a)[^key-905508e074bd6109013cf224bf3e4f38] that the goods are to be subject to any operation designed to secure that they comply with requirements that must be met before the goods can lawfully be released for free circulation in Great Britain,[^key-df9fdbd6af41d29afe0f2487c3cf7560]
-- (aa)[^key-6a569253237363c00d49f5d3b0d62f3e] that the goods are to be subject to any operation designed to secure that they comply with requirements that must be met before the goods can lawfully be released in accordance with Union customs legislation to a procedure corresponding to the free-circulation procedure, or
+- (a)[^c-905508e074bd6109013cf224bf3e4f38] that the goods are to be subject to any operation designed to secure that they comply with requirements that must be met before the goods can lawfully be released for free circulation in Great Britain,[^c-df9fdbd6af41d29afe0f2487c3cf7560]
+- (aa)[^c-6a569253237363c00d49f5d3b0d62f3e] that the goods are to be subject to any operation designed to secure that they comply with requirements that must be met before the goods can lawfully be released in accordance with Union customs legislation to a procedure corresponding to the free-circulation procedure, or
 - (b) that the goods are to be subject to any operation designed to preserve them, improve their appearance or marketable quality or otherwise prepare them for distribution or resale.
 
 #### Requirements in relation to inward processing procedure in the supplementary form
 
-**12.**[^c23545241][^key-94db21af39ec1f3f05dc353c89be97d4] (1) HMRC Commissioners may by regulations make provision imposing requirements on any person in relation to an inward processing procedure in the supplementary form in respect of goods declared for the procedure.
+**12.**[^c23545241][^c-94db21af39ec1f3f05dc353c89be97d4] (1) HMRC Commissioners may by regulations make provision imposing requirements on any person in relation to an inward processing procedure in the supplementary form in respect of goods declared for the procedure.
 
 (2) The provision that may be made by the regulations includes provision that may be made by or under paragraph 9 or 10.
 
@@ -200,30 +200,30 @@ including provision as to what, or as to the extent to which, other activities m
 
 #### Meaning of goods declared for “an authorised use procedure”
 
-**13.**[^c23545351][^key-63e29c4ededb3bc7e00a6b501daec37c] A declaration of goods for “an authorised use procedure” is a declaration that the goods are to be subject to use of a description specified in regulations made by HMRC Commissioners.
+**13.**[^c23545351][^c-63e29c4ededb3bc7e00a6b501daec37c] A declaration of goods for “an authorised use procedure” is a declaration that the goods are to be subject to use of a description specified in regulations made by HMRC Commissioners.
 
 #### Other requirements in relation to authorised use procedure
 
-**14.**[^c23545251][^key-146a38b787b25bb1ca2431ef85e5fecd] HMRC Commissioners may by regulations make provision imposing any other requirements on any person in relation to an authorised use procedure in respect of goods declared for the procedure.
+**14.**[^c23545251][^c-146a38b787b25bb1ca2431ef85e5fecd] HMRC Commissioners may by regulations make provision imposing any other requirements on any person in relation to an authorised use procedure in respect of goods declared for the procedure.
 
 ### PART 6 — Temporary admission procedure
 
 #### Meaning of goods declared for “a temporary admission procedure”
 
-**15.**[^c23545361][^key-634ed625fdc2e591fbf107da87a16a4a] A declaration of goods for “a temporary admission procedure” is a declaration—
+**15.**[^c23545361][^c-634ed625fdc2e591fbf107da87a16a4a] A declaration of goods for “a temporary admission procedure” is a declaration—
 
 - (a) that the goods are of a description specified in regulations made by HMRC Commissioners, and
-- (b)[^key-f3351f35c6286349162b9c96877362d7] that the goods are to be used for a period specified in regulations made by HMRC Commissioners before the goods are exported from the United Kingdom in accordance with the applicable export provisions or are removed to Northern Ireland[^key-a1984478d715bc63a1c97a11d17c3c1b].
+- (b)[^c-f3351f35c6286349162b9c96877362d7] that the goods are to be used for a period specified in regulations made by HMRC Commissioners before the goods are exported from the United Kingdom in accordance with the applicable export provisions or are removed to Northern Ireland[^c-a1984478d715bc63a1c97a11d17c3c1b].
 
 #### Other requirements in relation to temporary admission procedure
 
-**16.**[^c23545371][^key-1894c6551f8e0e347dee14ab3b9280a6] HMRC Commissioners may by regulations make provision imposing any other requirements on any person in relation to a temporary admission procedure in respect of goods declared for the procedure.
+**16.**[^c23545371][^c-1894c6551f8e0e347dee14ab3b9280a6] HMRC Commissioners may by regulations make provision imposing any other requirements on any person in relation to a temporary admission procedure in respect of goods declared for the procedure.
 
 ### PART 7 — Supplementary provisions
 
 #### Records
 
-**17.**[^c23545261][^key-fd32605e84ed9870353c30be40c8ecc3] (1) HMRC Commissioners may by regulations make provision about the keeping of records in respect of goods that are subject to a special Customs procedure.
+**17.**[^c23545261][^c-fd32605e84ed9870353c30be40c8ecc3] (1) HMRC Commissioners may by regulations make provision about the keeping of records in respect of goods that are subject to a special Customs procedure.
 
 (2) The regulations may provide for requirements to be imposed, in respect of records of a specified description, on—
 
@@ -234,9 +234,9 @@ including provision as to what, or as to the extent to which, other activities m
 
 #### Discharge of special Customs procedures: rules applicable to all procedures
 
-**18.**[^c23545271][^key-8ec5f60e2034055d43d6b039d5a29eff] (1) The provision made by or under this Schedule in relation to goods declared for a special Customs procedure has effect from the time at which the goods are released to the procedure until the time at which the procedure is discharged in accordance with this paragraph or paragraph 19.
+**18.**[^c23545271][^c-8ec5f60e2034055d43d6b039d5a29eff] (1) The provision made by or under this Schedule in relation to goods declared for a special Customs procedure has effect from the time at which the goods are released to the procedure until the time at which the procedure is discharged in accordance with this paragraph or paragraph 19.
 
-(2)[^key-f684fd5883fed16d0e7a54d18bbcd43b] A special Customs procedure is discharged if—
+(2)[^c-f684fd5883fed16d0e7a54d18bbcd43b] A special Customs procedure is discharged if—
 
 - (a) the goods are declared for another Customs procedure, and
 - (b) HMRC accept the declaration.
@@ -264,13 +264,13 @@ the goods are treated for the purposes of this Part of this Act as if, at the ti
 
 #### Discharge of special Customs procedures: rules applicable to particular procedures
 
-**19.**[^c23545281][^key-925eb4f862f272e41b24249e56815d80] (1) This paragraph specifies further cases in which particular special Customs procedures are discharged.
+**19.**[^c23545281][^c-925eb4f862f272e41b24249e56815d80] (1) This paragraph specifies further cases in which particular special Customs procedures are discharged.
 
 (2) A transit procedure is discharged in accordance with provision made by regulations made by HMRC Commissioners.
 
-(3)[^key-fc84079e5c94d2345903ecfbe9fffadd] A storage procedure, an inward processing procedure, an authorised use procedure or a temporary admission procedure is discharged if—
+(3)[^c-fc84079e5c94d2345903ecfbe9fffadd] A storage procedure, an inward processing procedure, an authorised use procedure or a temporary admission procedure is discharged if—
 
-- (a) the goods are exported from the United Kingdom in accordance with the applicable export provisions or are removed to Northern Ireland[^key-85e4cace0320e647faf3938b4731ba4b],
+- (a) the goods are exported from the United Kingdom in accordance with the applicable export provisions or are removed to Northern Ireland[^c-85e4cace0320e647faf3938b4731ba4b],
 - (b) the goods are destroyed, or
 - (c) the goods are liable to forfeiture.
 
@@ -278,7 +278,7 @@ the goods are treated for the purposes of this Part of this Act as if, at the ti
 
 #### Discharge of special Customs procedures: other provision
 
-**20.**[^c23545291][^key-a44558e32229bc5e566a95c36ac44a29] (1) Despite the provision made by paragraph 18 or 19, a special Customs procedure in respect of any goods is not discharged if a liability to import duty is incurred in respect of the goods while the procedure has effect and—
+**20.**[^c23545291][^c-a44558e32229bc5e566a95c36ac44a29] (1) Despite the provision made by paragraph 18 or 19, a special Customs procedure in respect of any goods is not discharged if a liability to import duty is incurred in respect of the goods while the procedure has effect and—
 
 - (a) a guarantee has not been given in accordance with regulations under paragraph 6 of Schedule 6 that has effect in relation to the goods, or
 - (b) if no guarantee is given, the import duty has not been paid.
@@ -289,13 +289,13 @@ the goods are treated for the purposes of this Part of this Act as if, at the ti
 
 #### Liability to import duty imposed on persons other than declarant etc
 
-**21.**[^c23545301][^key-d9c3de26f03159cf94072caea2500453] (1) HMRC Commissioners may by regulations impose a liability to import duty on any person who, at any time while a special Customs procedure has effect, breaches a requirement imposed on the person by provision made by or under this Schedule.
+**21.**[^c23545301][^c-d9c3de26f03159cf94072caea2500453] (1) HMRC Commissioners may by regulations impose a liability to import duty on any person who, at any time while a special Customs procedure has effect, breaches a requirement imposed on the person by provision made by or under this Schedule.
 
 (2) The regulations may provide for cases in which the person is not liable to import duty even though the person breaches a requirement.
 
 #### Changes in nature of goods while subject to a special Customs procedure etc
 
-**22.**[^c23545311][^key-a93bee6395f554582cc9954a8b06805a] (1) If at any time while a special Customs procedure has effect in relation to any goods—
+**22.**[^c23545311][^c-a93bee6395f554582cc9954a8b06805a] (1) If at any time while a special Customs procedure has effect in relation to any goods—
 
 - (a) there is a change in the goods, and
 - (b) a liability to import duty is incurred,
@@ -328,7 +328,7 @@ if there is a change in any goods at any time while a special Customs procedure 
 
 #### Use of equivalent domestic goods
 
-**23.**[^c23545381][^key-8f703568d5d877be6fceeaaecf25764f] (1) HMRC Commissioners may, in cases where goods (“the imported goods”) are intended to be declared for a special Customs procedure, by regulations make provision for requirements in relation to the procedure to be met by reference to equivalent domestic goods.
+**23.**[^c23545381][^c-8f703568d5d877be6fceeaaecf25764f] (1) HMRC Commissioners may, in cases where goods (“the imported goods”) are intended to be declared for a special Customs procedure, by regulations make provision for requirements in relation to the procedure to be met by reference to equivalent domestic goods.
 
 (2) Goods are “equivalent domestic goods” if they are domestic goods that are of the same, or of substantially the same, description as the imported goods.
 
@@ -345,132 +345,132 @@ if there is a change in any goods at any time while a special Customs procedure 
 
 #### Directions
 
-**24.**[^c23545321][^key-f3c271dda9dd88e70589f29f3295186f] Any directions given by the Treasury or HMRC Commissioners under this Schedule may be amended or revoked.
+**24.**[^c23545321][^c-f3c271dda9dd88e70589f29f3295186f] Any directions given by the Treasury or HMRC Commissioners under this Schedule may be amended or revoked.
 
 ## Annotations
 
 [^c23537621]: Commencement: Sch. 2 para. 1 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-b2fb346a98542160ebf72bc6380d8c34]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-b2fb346a98542160ebf72bc6380d8c34]: Commencement: Sch. 2 para. 1 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-716ed5a8462a9731bf9eb385346af6ea]: Textual amendment: Words in Sch. 2 para. 1(2)(a) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/2) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-716ed5a8462a9731bf9eb385346af6ea]: Textual amendment: Words in Sch. 2 para. 1(2)(a) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(2)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/2) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c23537631]: Commencement: Sch. 2 para. 2 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-9eab8150cb9c43c64d8c7081fba21ecc]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-9eab8150cb9c43c64d8c7081fba21ecc]: Commencement: Sch. 2 para. 2 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545131]: Commencement: Sch. 2 para. 3 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-495a019cfd9d0a2cedf8abf5406803d4]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-495a019cfd9d0a2cedf8abf5406803d4]: Commencement: Sch. 2 para. 3 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545171]: Commencement: Sch. 2 para. 4 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-433cb0b511588e240547df935cc460a8]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-433cb0b511588e240547df935cc460a8]: Commencement: Sch. 2 para. 4 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545181]: Commencement: Sch. 2 para. 5 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-d5957a79e9f3e3d42a1b72e6e9d3b4a5]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-d5957a79e9f3e3d42a1b72e6e9d3b4a5]: Commencement: Sch. 2 para. 5 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-3e4c16ecf7a34a42b593b8a461d3ae1d]: Textual amendment: Words in Sch. 2 para. 5(1) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/3) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-3e4c16ecf7a34a42b593b8a461d3ae1d]: Textual amendment: Words in Sch. 2 para. 5(1) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(3)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/3) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c23545191]: Commencement: Sch. 2 para. 6 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-67c5e7c6fd3760280cf0ae0f5c606e3a]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-67c5e7c6fd3760280cf0ae0f5c606e3a]: Commencement: Sch. 2 para. 6 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545201]: Commencement: Sch. 2 para. 7 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-ea71f707d57c54d57436861f0692b5eb]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-ea71f707d57c54d57436861f0692b5eb]: Commencement: Sch. 2 para. 7 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545331]: Commencement: Sch. 2 para. 8 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-79f7aeb14f2abb743dc1c1cab7d2488a]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-79f7aeb14f2abb743dc1c1cab7d2488a]: Commencement: Sch. 2 para. 8 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545211]: Commencement: Sch. 2 para. 9 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-733a0b01fb23e692403befe7e427f134]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-733a0b01fb23e692403befe7e427f134]: Commencement: Sch. 2 para. 9 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-78a8ec6aeccd91c25e908341efb3e552]: Modification: Sch. 2 para. 9 modified (31.12.2020) by [The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 (S.I. 2019/385)](https://www.legislation.gov.uk/uksi/2019/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/385/regulation/2)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule) (as amended by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(2)(3)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/2/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule))
+[^c-78a8ec6aeccd91c25e908341efb3e552]: Modification: Sch. 2 para. 9 modified (31.12.2020) by [The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 (S.I. 2019/385)](https://www.legislation.gov.uk/uksi/2019/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/5) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/385/regulation/2)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule) (as amended by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(2)(3)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/2/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule))
 
-[^key-5754c20eb014115223b26af4426bd079]: Textual amendment: Words in Sch. 2 para. 9(1)(a) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(4)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/4/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-5754c20eb014115223b26af4426bd079]: Textual amendment: Words in Sch. 2 para. 9(1)(a) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(4)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/4/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-1833e1b0e8973eab996dc681786df7d8]: Textual amendment: Words in Sch. 2 para. 9(5) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/4/b/i) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-1833e1b0e8973eab996dc681786df7d8]: Textual amendment: Words in Sch. 2 para. 9(5) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(4)(b)(i)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/4/b/i) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-9b93a1f189b14b845e8ab30e30c2293d]: Textual amendment: Words in Sch. 2 para. 9(5) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/4/b/ii) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-9b93a1f189b14b845e8ab30e30c2293d]: Textual amendment: Words in Sch. 2 para. 9(5) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(4)(b)(ii)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/4/b/ii) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-af340b5e8afb300dfe6f05b766bda5b0]: Textual amendment: Words in Sch. 2 para. 9(6)(a) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(4)(c)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/4/c) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-af340b5e8afb300dfe6f05b766bda5b0]: Textual amendment: Words in Sch. 2 para. 9(6)(a) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(4)(c)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/4/c) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c23545231]: Commencement: Sch. 2 para. 10 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-e277f9163490a8051a02e1cd73551fe2]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-e277f9163490a8051a02e1cd73551fe2]: Commencement: Sch. 2 para. 10 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545341]: Commencement: Sch. 2 para. 11 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-a3c1c29e6dbaeeaf04cd53ba0e8f5b26]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-a3c1c29e6dbaeeaf04cd53ba0e8f5b26]: Commencement: Sch. 2 para. 11 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-905508e074bd6109013cf224bf3e4f38]: Modification: Sch. 2 para. 11(a) modified (31.12.2020) by [The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 (S.I. 2019/385)](https://www.legislation.gov.uk/uksi/2019/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/385/regulation/2)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule) (as amended by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(2)(3)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/2/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule))
+[^c-905508e074bd6109013cf224bf3e4f38]: Modification: Sch. 2 para. 11(a) modified (31.12.2020) by [The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 (S.I. 2019/385)](https://www.legislation.gov.uk/uksi/2019/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/6) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/385/regulation/2)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule) (as amended by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(2)(3)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/2/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule))
 
-[^key-df9fdbd6af41d29afe0f2487c3cf7560]: Textual amendment: Words in Sch. 2 para. 11(a) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(5)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/5/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-df9fdbd6af41d29afe0f2487c3cf7560]: Textual amendment: Words in Sch. 2 para. 11(a) substituted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(5)(a)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/5/a) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
-[^key-6a569253237363c00d49f5d3b0d62f3e]: Textual amendment: Sch. 2 para. 11(aa) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(5)(b)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/5/b) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-6a569253237363c00d49f5d3b0d62f3e]: Textual amendment: Sch. 2 para. 11(aa) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(5)(b)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/5/b) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c23545241]: Commencement: Sch. 2 para. 12 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-94db21af39ec1f3f05dc353c89be97d4]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-94db21af39ec1f3f05dc353c89be97d4]: Commencement: Sch. 2 para. 12 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545351]: Commencement: Sch. 2 para. 13 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-63e29c4ededb3bc7e00a6b501daec37c]: Commencement: Sch. 2 para. 13 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-63e29c4ededb3bc7e00a6b501daec37c]: Commencement: Sch. 2 para. 13 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545251]: Commencement: Sch. 2 para. 14 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-146a38b787b25bb1ca2431ef85e5fecd]: Commencement: Sch. 2 para. 14 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-146a38b787b25bb1ca2431ef85e5fecd]: Commencement: Sch. 2 para. 14 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545361]: Commencement: Sch. 2 para. 15 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-634ed625fdc2e591fbf107da87a16a4a]: Commencement: Sch. 2 para. 15 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-634ed625fdc2e591fbf107da87a16a4a]: Commencement: Sch. 2 para. 15 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-f3351f35c6286349162b9c96877362d7]: Modification: Sch. 2 para. 15(b) modified (31.12.2020) by [The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 (S.I. 2019/385)](https://www.legislation.gov.uk/uksi/2019/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/385/regulation/2)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule) (as amended by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(2)(3)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/2/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule))
+[^c-f3351f35c6286349162b9c96877362d7]: Modification: Sch. 2 para. 15(b) modified (31.12.2020) by [The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 (S.I. 2019/385)](https://www.legislation.gov.uk/uksi/2019/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/7) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/385/regulation/2)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule) (as amended by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(2)(3)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/2/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule))
 
-[^key-a1984478d715bc63a1c97a11d17c3c1b]: Textual amendment: Words in Sch. 2 para. 15(b) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(6)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/6) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-a1984478d715bc63a1c97a11d17c3c1b]: Textual amendment: Words in Sch. 2 para. 15(b) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(6)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/6) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c23545371]: Commencement: Sch. 2 para. 16 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-1894c6551f8e0e347dee14ab3b9280a6]: Commencement: Sch. 2 para. 16 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-1894c6551f8e0e347dee14ab3b9280a6]: Commencement: Sch. 2 para. 16 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545261]: Commencement: Sch. 2 para. 17 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-fd32605e84ed9870353c30be40c8ecc3]: Commencement: Sch. 2 para. 17 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-fd32605e84ed9870353c30be40c8ecc3]: Commencement: Sch. 2 para. 17 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545271]: Commencement: Sch. 2 para. 18 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-8ec5f60e2034055d43d6b039d5a29eff]: Commencement: Sch. 2 para. 18 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-8ec5f60e2034055d43d6b039d5a29eff]: Commencement: Sch. 2 para. 18 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-f684fd5883fed16d0e7a54d18bbcd43b]: Modification: Sch. 2 para. 18(2) modified (31.12.2020) by [The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 (S.I. 2019/385)](https://www.legislation.gov.uk/uksi/2019/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/8) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/385/regulation/2)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule) (as amended by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(2)(3)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/2/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule))
+[^c-f684fd5883fed16d0e7a54d18bbcd43b]: Modification: Sch. 2 para. 18(2) modified (31.12.2020) by [The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 (S.I. 2019/385)](https://www.legislation.gov.uk/uksi/2019/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2), [3(8)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/8) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/385/regulation/2)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule) (as amended by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(2)(3)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/2/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule))
 
 [^c23545281]: Commencement: Sch. 2 para. 19 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-925eb4f862f272e41b24249e56815d80]: Commencement: Sch. 2 para. 19 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-925eb4f862f272e41b24249e56815d80]: Commencement: Sch. 2 para. 19 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-fc84079e5c94d2345903ecfbe9fffadd]: Modification: Sch. 2 para. 19(3) modified (31.12.2020) by [The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 (S.I. 2019/385)](https://www.legislation.gov.uk/uksi/2019/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/9) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/385/regulation/2)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule) (as amended by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(2)(3)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/2/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule))
+[^c-fc84079e5c94d2345903ecfbe9fffadd]: Modification: Sch. 2 para. 19(3) modified (31.12.2020) by [The Customs (Crown Dependencies Customs Union) (EU Exit) Regulations 2019 (S.I. 2019/385)](https://www.legislation.gov.uk/uksi/2019/385), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/385/regulation/1/2), [3(9)](https://www.legislation.gov.uk/uksi/2019/385/regulation/3/9) (with [reg. 2](https://www.legislation.gov.uk/uksi/2019/385/regulation/2)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule) (as amended by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [40(2)(3)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/40/2/3); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule))
 
-[^key-85e4cace0320e647faf3938b4731ba4b]: Textual amendment: Words in Sch. 2 para. 19(3)(a) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(7)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/7) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
+[^c-85e4cace0320e647faf3938b4731ba4b]: Textual amendment: Words in Sch. 2 para. 19(3)(a) inserted (17.12.2020 for specified purposes, 31.12.2020 in so far as not already in force) by [Taxation (Post-transition Period) Act 2020 (c. 26)](https://www.legislation.gov.uk/ukpga/2020/26), [s. 11(1)(e)](https://www.legislation.gov.uk/ukpga/2020/26/section/11/1/e), [Sch. 1 para. 9(7)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/1/paragraph/9/7) (with [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 9](https://www.legislation.gov.uk/uksi/2020/1642/regulation/9)
 
 [^c23545291]: Commencement: Sch. 2 para. 20 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-a44558e32229bc5e566a95c36ac44a29]: Commencement: Sch. 2 para. 20 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-a44558e32229bc5e566a95c36ac44a29]: Commencement: Sch. 2 para. 20 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545301]: Commencement: Sch. 2 para. 21 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-d9c3de26f03159cf94072caea2500453]: Commencement: Sch. 2 para. 21 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-d9c3de26f03159cf94072caea2500453]: Commencement: Sch. 2 para. 21 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545311]: Commencement: Sch. 2 para. 22 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-a93bee6395f554582cc9954a8b06805a]: Commencement: Sch. 2 para. 22 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-a93bee6395f554582cc9954a8b06805a]: Commencement: Sch. 2 para. 22 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545381]: Commencement: Sch. 2 para. 23 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-8f703568d5d877be6fceeaaecf25764f]: Commencement: Sch. 2 para. 23 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-8f703568d5d877be6fceeaaecf25764f]: Commencement: Sch. 2 para. 23 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
 [^c23545321]: Commencement: Sch. 2 para. 24 in force for specified purposes at 13.9.2018, see [s. 57(1)(a)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/1/a)
 
-[^key-f3c271dda9dd88e70589f29f3295186f]: Commencement: Sch. 2 para. 24 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-f3c271dda9dd88e70589f29f3295186f]: Commencement: Sch. 2 para. 24 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)

@@ -46,11 +46,11 @@ Coming into force
 
 The Lord Chancellor makes the following Regulations in exercise of the powers conferred by sections 25(4)(b) and 149 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012[^f00001].
 
-## 1. Citation, commencement and interpretation[^key-505a8a485216687af15046758a148731]
+## 1. Citation, commencement and interpretation[^c-505a8a485216687af15046758a148731]
 
 These Regulations may be cited as the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 and come into force on 1st April 2013.
 
-**2.**[^key-ec1ff67d305f4bcda235a30ae98b6897] In these Regulations—
+**2.**[^c-ec1ff67d305f4bcda235a30ae98b6897] In these Regulations—
 
 - “the Act” means the Legal Aid, Sentencing and Punishment of Offenders Act 2012;
 - “the 1999 Act” means the Access to Justice Act 1999[^f00002];
@@ -80,14 +80,14 @@ These Regulations may be cited as the Legal Aid, Sentencing and Punishment of Of
 
   and “Controlled Work” and “Other Grant or Contract Work” are defined in Part A of Part 2 of the Funding Code (Funding Code: Procedures).
 
-## 3. Pre-commencement application for funding under the Community Legal Service[^key-a3c1d99eed0a99e1de3e49edebabd2d1]
+## 3. Pre-commencement application for funding under the Community Legal Service[^c-a3c1d99eed0a99e1de3e49edebabd2d1]
 
 A “pre-commencement application for funding under the Community Legal Service” means an application for funding under the Community Legal Service that—
 
 - (a) is made before 1st April 2013; or
 - (b) is a new application for funding under the Community Legal Service described in regulation 5.
 
-**4.**[^key-a6cff9c06f6ef5d840d56cc3fd657531] (1) For the purpose of regulation 3(a) an application, other than an application made to the CLA Helpline, is made before 1<sup>st</sup> April 2013—
+**4.**[^c-a6cff9c06f6ef5d840d56cc3fd657531] (1) For the purpose of regulation 3(a) an application, other than an application made to the CLA Helpline, is made before 1<sup>st</sup> April 2013—
 
 - (a) if the application is for Controlled Work and the application is signed and dated before 1st April 2013;
 - (b) if the application is in paper form for Certificated Work, other than an application for emergency representation, and the application—
@@ -118,7 +118,7 @@ A “pre-commencement application for funding under the Community Legal Service�
 - (a) an “application for emergency representation” means an application made under Section 3 of Part C of Part 2 of the Funding Code (Funding Code: Procedures); and
 - (b) an “application for exceptional funding under the 1999 Act” means an application under section 6(8)(b) of the 1999 Act made in accordance with paragraphs 15.1 to 15.3 of Part 2 of the Funding Code (Funding Code: Procedures).
 
-**5.**[^key-7a975bc2885a7d73080e5b626cc799c6] (1) An application is a new application for funding referred to in regulation 3(b) if either paragraph (2) or (3) applies.
+**5.**[^c-7a975bc2885a7d73080e5b626cc799c6] (1) An application is a new application for funding referred to in regulation 3(b) if either paragraph (2) or (3) applies.
 
 (2) This paragraph applies where a further application for funding is made after 31st March 2013 and the following conditions are met—
 
@@ -134,7 +134,7 @@ A “pre-commencement application for funding under the Community Legal Service�
 - (b) the further application for funding relates to the case for which the funded services were provided as a result of the original application; and
 - (c) as a result of the further application for funding, it is decided under paragraph 35.1 of Part C of Part 2 of the Funding Code (Funding Code: Procedures) that the certificate should cover more than one set of proceedings.
 
-## 6. Saving and transitional provisions[^key-a150c3033685e4353075c5da3c5f2d13]
+## 6. Saving and transitional provisions[^c-a150c3033685e4353075c5da3c5f2d13]
 
 (1) The provisions commenced by article 3(a) and (e) to (i) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Commencement No. 6) Order 2013[^f00007] (“the Commencement No. 6 Order”), with the exception of section 38(1) of the Act (abolition of the Legal Services Commission), do not apply to a pre-commencement case.
 
@@ -170,7 +170,7 @@ A “pre-commencement application for funding under the Community Legal Service�
 - (h) paragraph 71 (Terrorist Asset-Freezing etc. Act 2010[^f00015]); and
 - (i) the entries in the Table in Part 2 of Schedule 5 (repeals consequential on Part 1 of this Schedule) relating to paragraphs 1, 11 and 12 of Schedule 4 to the 1999 Act.
 
-**7.**[^key-96a7ba5468e7f862973782e19bf101b1] (1) After 31st March 2013, any power, duty or other function of the Commission to which paragraph (2) applies may be exercised in relation to a pre-commencement case—
+**7.**[^c-96a7ba5468e7f862973782e19bf101b1] (1) After 31st March 2013, any power, duty or other function of the Commission to which paragraph (2) applies may be exercised in relation to a pre-commencement case—
 
 - (a) by the Director, to the extent that the power, duty or other function relates to a decision in an individual case about any of the following—
   - (i) whether to fund, or continue to fund, funded services for an individual;
@@ -195,14 +195,14 @@ and any reference to the Commission, or to any person exercising a power, duty o
 
 (5) Delegations referred to in regulation 6(3)(c) continue to apply in relation to a pre-commencement case as if they were authorisations made by the Director or the Lord Chancellor under paragraph (4).
 
-**8.**[^key-b3213dc878333f590d268c24ffb81929] After 31st March 2013, in relation to a pre-commencement case—
+**8.**[^c-b3213dc878333f590d268c24ffb81929] After 31st March 2013, in relation to a pre-commencement case—
 
 - (a) any reference to the Community Legal Service Fund[^f00017] in any enactment and in the Funding Code, authorisations, directions and guidance made under Part 1 of the 1999 Act must be construed as a reference to the Lord Chancellor or, in relation to costs payable out of the Community Legal Service Fund, as a reference to costs payable by the Lord Chancellor in relation to funded services provided under the Community Legal Service;
 - (b) in paragraph 6.4 of Section 6 of Part 1 of the Funding Code (Funding Code: Criteria) the reference to “Central Budget” must be construed as a reference to the Lord Chancellor;
 - (c) any reference in the Funding Code, orders, regulations, authorisations, directions and guidance made under Part 1 of the 1999 Act to an Independent Funding Adjudicator appointed by the Commission must be construed as if it were a reference to an independent funding adjudicator appointed by the Lord Chancellor under section 2(1) of the Act (arrangements); and
 - (d) any reference in the Funding Code, orders, regulations, authorisations, directions and guidance made under Part 1 of the 1999 Act to the Special Controls Review Panel appointed by the Commission must be construed as if it were a reference to the special controls review panel appointed by the Lord Chancellor under section 2(1) of the Act.
 
-## 9. Assessment of resources[^key-ac34da811eaeea19e3d8b659160845d9]
+## 9. Assessment of resources[^c-ac34da811eaeea19e3d8b659160845d9]
 
 (1) In this regulation—
 
@@ -233,7 +233,7 @@ and any reference to the Commission, or to any person exercising a power, duty o
   | paragraph 10(b) of Schedule 3 | regulation 32B(2) | regulation 39(2) |
   |  | regulation 35(1)(c) | regulation 41(1)(b) |
 
-## 9A. Costs[^key-f9ac004cd8392eaa4424955c6fca77dd]
+## 9A. Costs[^c-f9ac004cd8392eaa4424955c6fca77dd]
 
 (1) This regulation applies if a legally aided party has received in a pre-commencement case funded services made available under the Community Legal Service in connection with relevant proceedings.
 
@@ -247,7 +247,7 @@ and any reference to the Commission, or to any person exercising a power, duty o
 
 (3) In paragraph (1), “legally aided party” and “relevant proceedings” have the same meaning as in the Civil Legal Aid (Costs) Regulations 2013.
 
-## 10. Statutory charge[^key-49ba97dab52e52fcffbade4712c2c5c0]
+## 10. Statutory charge[^c-49ba97dab52e52fcffbade4712c2c5c0]
 
 (1) This regulation applies if a legally aided party has received in a pre-commencement case funded services made available under the Community Legal Service in connection with a relevant dispute or relevant proceedings.
 
@@ -269,18 +269,18 @@ and any reference to the Commission, or to any person exercising a power, duty o
 
 (5) In this regulation “legally aided party”, “relevant dispute” and “relevant proceedings” have the same meaning as in the Civil Legal Aid (Statutory Charge) Regulations 2013.
 
-## 11. Criminal legal aid[^key-f3ee88041d3b29c4f32381ac0b6f269d]
+## 11. Criminal legal aid[^c-f3ee88041d3b29c4f32381ac0b6f269d]
 
 Where an application for advice and assistance under section 13 of the 1999 Act (advice and assistance) or an application for a grant of a right to representation under section 14 of the 1999 Act (representation) is not considered until after 31st March 2013, the application must be treated as an application for advice and assistance under section 13 or 15 of the Act or as an application for representation for the purposes of criminal proceedings under section 16 of the Act.
 
-**12.**[^key-92dcb4faa41905531cb00269b4318ca7] Where both—
+**12.**[^c-92dcb4faa41905531cb00269b4318ca7] Where both—
 
 - (a) a grant to a right to representation under section 14 of the 1999 Act which was granted before 1st April 2013; and
 - (b) a determination for representation for the purposes of criminal proceedings under section 16 of the Act,
 
 exist in the same proceedings, the Criminal Defence Service (Funding) Order 2007 applies and the Criminal Legal Aid (Remuneration) Regulations 2013[^f00022] do not apply.
 
-## 13. Exclusion from legal aid work[^key-02f20acd8ea4ad1053dfb7c0c25aeddb]
+## 13. Exclusion from legal aid work[^c-02f20acd8ea4ad1053dfb7c0c25aeddb]
 
 (1) After 31st March 2013, the exclusion from legal aid work or from providing representation funded by the Commission as part of the Criminal Defence Service before that date of any barrister by virtue of section 42 of the Administration of Justice Act 1985[^f00023] or of any solicitor by virtue of section 47 of the Solicitors Act 1974[^f00024] also takes effect as an exclusion from criminal legal aid work.
 
@@ -289,7 +289,7 @@ exist in the same proceedings, the Criminal Defence Service (Funding) Order 2007
 - (a) “criminal legal aid work” means the provision under arrangements made for the purposes of Part 1 of the Act of the types of advice, assistance and representation that are required to be made available under sections 13 (advice and assistance for individuals in custody), 15 (advice and assistance for criminal proceedings) and 16 (representation for criminal proceedings) of the Act; and
 - (b) “legal aid work” means the provision of services under the Legal Aid Act 1988.
 
-## 14. Consequential amendments to secondary legislation[^key-6788b975b21ac966be9f5a13721d2c55]
+## 14. Consequential amendments to secondary legislation[^c-6788b975b21ac966be9f5a13721d2c55]
 
 (1) Subject to paragraph (2), the consequential amendments set out in the Schedule take effect.
 
@@ -316,7 +316,7 @@ Regulation 14
 
 ### PART 1
 
-#### 1. Amendment of the Costs in Criminal Cases (General) Regulations 1986[^key-928874fa98ddc7eb3755c96a23a1cf0e]
+#### 1. Amendment of the Costs in Criminal Cases (General) Regulations 1986[^c-928874fa98ddc7eb3755c96a23a1cf0e]
 
 (1) In this paragraph “the 1986 Regulations” means the Costs in Criminal Cases (General) Regulations 1986[^f00028].
 
@@ -331,7 +331,7 @@ Regulation 14
 
 (5) In regulation 26 of the 1986 Regulations (directions by the Lord Chancellor) after each occurrence of “as part of the Criminal Defence Service” insert “, or by the Lord Chancellor under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012”.
 
-#### 2. Amendment of the Civil Procedure Rules 1998[^key-b1c84422f5041b8cfdced7eea3672b4d]
+#### 2. Amendment of the Civil Procedure Rules 1998[^c-b1c84422f5041b8cfdced7eea3672b4d]
 
 In the Civil Procedure Rules 1998[^f00029]—
 
@@ -350,15 +350,15 @@ In the Civil Procedure Rules 1998[^f00029]—
   - (ii) after “Community Legal Services Fund” insert “or by the Lord Chancellor under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012”; and
 - (f) in paragraph (3) of rule 47.18 for “or the assisted person” substitute “, the assisted person or the person to whom legal aid is provided”.
 
-#### 3. Amendment of European Communities (Lawyer’s Practice) Regulations 2000[^key-ad3d9e5c069879b04deb48ef98433bbb]
+#### 3. Amendment of European Communities (Lawyer’s Practice) Regulations 2000[^c-ad3d9e5c069879b04deb48ef98433bbb]
 
 In Part 1 of Schedule 3 to the European Communities (Lawyer’s Practice) Regulations 2000[^f00030] (enactments relating to the provision of legal advice and assistance and legal aid) at the end of the list of enactments insert “Legal Aid, Sentencing and Punishment of Offenders Act 2012”.
 
-#### 4. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^key-1e8068a4d01aaf3e60f59b52dad41f1a]
+#### 4. Amendment of the Civil Legal Aid (Scotland) Regulations 2002[^c-1e8068a4d01aaf3e60f59b52dad41f1a]
 
 In regulation 44(2) of the Civil Legal Aid (Scotland) Regulations 2002[^f00031], for “the Legal Services Commission” substitute “the Director of Legal Aid Casework (within the meaning of section 4 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012)”.
 
-#### 5. Amendment of Land Registration Rules 2003[^key-6848db03bf779e592db618efe85212ea]
+#### 5. Amendment of Land Registration Rules 2003[^c-6848db03bf779e592db618efe85212ea]
 
 (1) In rule 93(w) of the Land Registration Rules 2003[^f00032] (persons regarded as having sufficient interest to apply for a restriction)—
 
@@ -370,7 +370,7 @@ In regulation 44(2) of the Civil Legal Aid (Scotland) Regulations 2002[^f00031],
 - (a) in the title of Form JJ, for “Legal Services Commission” substitute “the Lord Chancellor”; and
 - (b) for “written notice of the disposition was given to the Legal Services Commission, Land Charge Department, at \[address and Commission’s reference number\]” substitute “written notice of the disposition was given to the Lord Chancellor at \[address and Lord Chancellor’s reference number\]”.
 
-#### 6. Amendment of the Serious Crime Act 2007 (Appeals under Section 24) Order 2008[^key-f8be52fd77b91f0de86f599725b450fb]
+#### 6. Amendment of the Serious Crime Act 2007 (Appeals under Section 24) Order 2008[^c-f8be52fd77b91f0de86f599725b450fb]
 
 In the Serious Crime Act 2007 (Appeals under Section 24) Order 2008[^f00033]—
 
@@ -379,7 +379,7 @@ In the Serious Crime Act 2007 (Appeals under Section 24) Order 2008[^f00033]—
 - (c) in article 17(6) (wasted costs order) after “the Legal Services Commission” insert “or made available for that person under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012”; and
 - (d) in article 31 (recovery of sums due under a third party costs order) after “the Legal Services Commission” insert “or made available for that person under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012”.
 
-#### 7. Amendment of the Civil Proceedings Fees Order 2008[^key-f86434c2e923bb4ad401618f6e9f0957]
+#### 7. Amendment of the Civil Proceedings Fees Order 2008[^c-f86434c2e923bb4ad401618f6e9f0957]
 
 In the Civil Proceedings Fees Order 2008[^f00034]—
 
@@ -392,7 +392,7 @@ In the Civil Proceedings Fees Order 2008[^f00034]—
 - (c) in paragraph 5.5 of column 1 in the table in Schedule 1, after “the Community Legal Service Fund” insert “or by the Lord Chancellor under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012”; and
 - (d) in the entry below paragraph 5.5 of column 1 in the table in Schedule 1, after “Community Legal Service Fund” insert “or against the Lord Chancellor under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012”.
 
-#### 8. Amendment of the Family Proceedings Fees Order 2008[^key-994d4a94dc74cf0471bee3d822093cb4]
+#### 8. Amendment of the Family Proceedings Fees Order 2008[^c-994d4a94dc74cf0471bee3d822093cb4]
 
 In the Family Proceedings Fees Order 2008[^f00035]—
 
@@ -405,7 +405,7 @@ In the Family Proceedings Fees Order 2008[^f00035]—
 - (c) in paragraph 8.5 of column 1 in the table in Schedule 1, after “the Community Legal Service Fund” insert “or by the Lord Chancellor under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012”; and
 - (d) in the entry below paragraph 8.5 of column 1 in the table in Schedule 1, after “Community Legal Service Fund” insert “or against the Lord Chancellor under Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012”.
 
-#### 9. Amendment of the Court Funds Rules 2011[^key-338007fb662a0a979bca013e30d35646]
+#### 9. Amendment of the Court Funds Rules 2011[^c-338007fb662a0a979bca013e30d35646]
 
 In rule 28 of the Court Funds Rules 2011[^f00036] (payment where the claimant’s legal representation has been funded by the Legal Services Commission)—
 
@@ -413,15 +413,15 @@ In rule 28 of the Court Funds Rules 2011[^f00036] (payment where the claimant’
 - (b) in paragraph (1)(b), after “funded by the Legal Services Commission” insert “or provided under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012”; and
 - (c) in paragraph (1)(c), after “regulation 18(1) of the Community Legal Service (Costs) Regulations 2000[^f00037]” insert “or regulation 13(1) of the Civil Legal Aid (Statutory Charge) Regulations 2013”.
 
-#### 10. Amendment of the Equality Act 2010 (Specific Duties) Regulations 2011[^key-bf68816caa1be57a991ac2e8a4f0aed4]
+#### 10. Amendment of the Equality Act 2010 (Specific Duties) Regulations 2011[^c-bf68816caa1be57a991ac2e8a4f0aed4]
 
 In Schedule 1 to the Equality Act 2010 (Specific Duties) Regulations 2011[^f00038] (public authorities required to publish information by 31<sup>st</sup> January 2012 and subsequently at intervals of not greater than one year) omit “The Legal Services Commission”.
 
-#### 11. Amendment of the Legal Services Act (Designation as a Licensing Authority) (No. 2) Order 2011[^key-1734d7e25fd392f122018e85913efae8]
+#### 11. Amendment of the Legal Services Act (Designation as a Licensing Authority) (No. 2) Order 2011[^c-1734d7e25fd392f122018e85913efae8]
 
 In article 6 of the Legal Services Act (Designation as a Licensing Authority) (No. 2) Order 2011[^f00039] (powers of Solicitors Disciplinary Tribunal in respect of legal aid complaints) after “representation funded by the Legal Services Commission as part of the Criminal Defence Service” insert “or from providing criminal legal aid work (within the meaning of section 47(3C) of the 1974 Act)”.
 
-#### 12. Amendment of asset-freezing and financial sanctions subordinate legislation[^key-5f6cbfb77339b516025ce0ce820dd4fb]
+#### 12. Amendment of asset-freezing and financial sanctions subordinate legislation[^c-5f6cbfb77339b516025ce0ce820dd4fb]
 
 (1) In paragraph 5(1)(d) of the Schedule (general power to disclose information) to each enactment referred to in paragraph (2), omit “the Legal Services Commission,”.
 
@@ -435,7 +435,7 @@ In article 6 of the Legal Services Act (Designation as a Licensing Authority) (N
 - (f) the Eritrea (Asset-Freezing) Regulations 2012[^f00045];
 - (g) the Guinea-Bissau (Asset-Freezing) Regulations 2012[^f00046];
 - (h) the Iran (Asset-Freezing) Regulations 2011[^f00047];
-- (i)[^key-162261086b5a2cf675683db7296c4ad0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (i)[^c-162261086b5a2cf675683db7296c4ad0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (j) the Lebanon and Syria (Asset-Freezing) Regulations 2012[^f00049];
 - (k) the Liberia (Asset-Freezing) Regulations 2012[^f00050];
 - (l) the Libya (Asset-Freezing) Regulations 2011[^f00051];
@@ -454,7 +454,7 @@ In article 6 of the Legal Services Act (Designation as a Licensing Authority) (N
 
 ### PART 2
 
-#### 13. Amendment of the Civil Procedure Rules 1998[^key-bd58cc9278c7081ec764604c3063f01d]
+#### 13. Amendment of the Civil Procedure Rules 1998[^c-bd58cc9278c7081ec764604c3063f01d]
 
 In the Civil Procedure Rules 1998[^f00062]—
 
@@ -473,7 +473,7 @@ In the Civil Procedure Rules 1998[^f00062]—
     ; and
 - (b) in paragraph (1)(d) of rule 74.13 (evidence in support) for “an assisted person or an LSC funded client, as defined in rule 43.2(1)(h) and (i)” substitute “a person to whom legal aid, as defined in rule 44.1, was provided”.
 
-#### 14. Amendment of the Non-Contentious Probate Fees Order 2004[^key-2ea2cf392817f55a75ad3d6ee2879a0b]
+#### 14. Amendment of the Non-Contentious Probate Fees Order 2004[^c-2ea2cf392817f55a75ad3d6ee2879a0b]
 
 In Schedule 1A to the Non-Contentious Probate Fees Order 2004[^f00064]—
 
@@ -484,18 +484,18 @@ In Schedule 1A to the Non-Contentious Probate Fees Order 2004[^f00064]—
   - (iv) omit the definition of “LSC”; and
 - (b) in paragraph 1(2), for “who is in receipt of funding provided by the LSC for the purposes of the proceedings for which a certificate has been issued under the Funding Code” substitute “for whom civil legal services, for which a certificate has been issued under the Civil Legal Aid (Procedure) Regulations 2012, have been made available under arrangements made for the purposes of Part 1 of that Act for the purposes of the proceedings”.
 
-#### 15. Amendment of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005[^key-3f2fda9964c5b439c9bbbb195095856f]
+#### 15. Amendment of the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005[^c-3f2fda9964c5b439c9bbbb195095856f]
 
 In the Proceeds of Crime Act 2002 (External Requests and Orders) Order 2005[^f00067]—
 
 - (a) in article 149(6)(b) (property freezing orders: exclusions) for “funded by the Legal Services Commission or” substitute “made available under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 or be funded by”; and
 - (b) in article 157(5)(b) (interim receiving orders: restrictions on dealing etc with property) for “funded by the Legal Services Commission or” substitute “made available under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 or be funded by”.
 
-#### 16. Amendment of the Fines Collection Regulations 2006[^key-d76efd3985fd9e944db7bd7dd3da4b51]
+#### 16. Amendment of the Fines Collection Regulations 2006[^c-d76efd3985fd9e944db7bd7dd3da4b51]
 
 In the modification of rule 15 (consolidated attachment orders) of the Magistrates’ Courts (Attachment of Earnings) Rules 1971[^f00068] made by regulation 30(g)(viii) of the Fines Collection Regulations 2006[^f00069], for “under section 17(2) of the Access to Justice Act 1999 (recovery of criminal defence costs in publicly funded cases)” substitute “under the Criminal Legal Aid (Recovery of Defence Costs) Regulations 2013[^f00070]”.
 
-#### 17. Amendment of the Court of Protection Rules 2007[^key-89676c8ecd78416fc728f60a4ff4cb01]
+#### 17. Amendment of the Court of Protection Rules 2007[^c-89676c8ecd78416fc728f60a4ff4cb01]
 
 In the Court of Protection Rules 2007[^f00071]—
 
@@ -513,7 +513,7 @@ In the Court of Protection Rules 2007[^f00071]—
 
   .
 
-#### 18. Amendment of the Civil Proceedings Fees Order 2008[^key-8957af83cc79b5b6e5d024fee4505b1b]
+#### 18. Amendment of the Civil Proceedings Fees Order 2008[^c-8957af83cc79b5b6e5d024fee4505b1b]
 
 In Schedule 2 to the Civil Proceedings Fees Order 2008—
 
@@ -523,7 +523,7 @@ In Schedule 2 to the Civil Proceedings Fees Order 2008—
   - (iii) omit the definition of “the Funding Code”; and
 - (b) in paragraph 1(2)(a), for “who is in receipt of funding provided by the LSC for the purposes of the proceedings for which a certificate has been issue under the Funding Code” substitute “for whom civil legal services, for which a certificate has been issued under the Civil Legal Aid (Procedure) Regulations 2012, have been made available under arrangements made for the purposes of Part 1 of that Act for the purposes of the proceedings”.
 
-#### 19. Amendment of the Family Proceedings Fees Order 2008[^key-1e38a9c8b13d95845bc298a41fa8d1e4]
+#### 19. Amendment of the Family Proceedings Fees Order 2008[^c-1e38a9c8b13d95845bc298a41fa8d1e4]
 
 In Schedule 2 to the Family Proceedings Fees Order 2008—
 
@@ -533,7 +533,7 @@ In Schedule 2 to the Family Proceedings Fees Order 2008—
   - (iii) omit the definition of “the Funding Code”; and
 - (b) in paragraph 1(2)(a), for “who is in receipt of funding provided by the LSC for the purposes of the proceedings for which a certificate has been issue under the Funding Code” substitute “for whom civil legal services, for which a certificate has been issued under the Civil Legal Aid (Procedure) Regulations 2012, have been made available under arrangements made for the purposes of Part 1 of that Act for the purposes of the proceedings”.
 
-#### 20. Amendment of the Magistrates’ Courts Fees Order 2008[^key-f5b2a1e4f9e1905ecf7cf2c95614dd4c]
+#### 20. Amendment of the Magistrates’ Courts Fees Order 2008[^c-f5b2a1e4f9e1905ecf7cf2c95614dd4c]
 
 In Schedule 2 to the Magistrates’ Courts Fees Order 2008[^f00072]—
 
@@ -544,11 +544,11 @@ In Schedule 2 to the Magistrates’ Courts Fees Order 2008[^f00072]—
   - (iv) omit the definition of “LSC”; and
 - (b) in paragraph 1(2)(a), for “who is in receipt of funding provided by the LSC for the purposes of the proceedings for which a certificate has been issue under the Funding Code” substitute “for whom civil legal services, for which a certificate has been issued under the Civil Legal Aid (Procedure) Regulations 2012, have been made available under arrangements made for the purposes of Part 1 of that Act for the purposes of the proceedings”.
 
-#### 21. Amendment of the Supreme Court Fees Order 2009[^key-3c0eea35e05db70c026e37d263148038]
+#### 21. Amendment of the Supreme Court Fees Order 2009[^c-3c0eea35e05db70c026e37d263148038]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Amendment of the Family Procedure Rules 2010[^key-af229888718b06d5426ed75789bcb365]
+#### 22. Amendment of the Family Procedure Rules 2010[^c-af229888718b06d5426ed75789bcb365]
 
 In the Family Procedure Rules 2010[^f00074]—
 
@@ -565,7 +565,7 @@ In the Family Procedure Rules 2010[^f00074]—
 
     .
 
-#### 23. Amendment of the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^key-ad1c781d8dc10d83a99cd2e5bdc43a31]
+#### 23. Amendment of the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^c-ad1c781d8dc10d83a99cd2e5bdc43a31]
 
 For article 5(3)(a) of the First-tier Tribunal (Immigration and Asylum Chamber) Fees Order 2011[^f00075] (exemption from fees) substitute—
 
@@ -573,7 +573,7 @@ For article 5(3)(a) of the First-tier Tribunal (Immigration and Asylum Chamber) 
 
 .
 
-#### 24. Amendment of the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^key-75715b24c5ebc3a9654b175fda6b2625]
+#### 24. Amendment of the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^c-75715b24c5ebc3a9654b175fda6b2625]
 
 In Schedule 2 to the Upper Tribunal (Immigration and Asylum Chamber) (Judicial Review) (England and Wales) Fees Order 2011[^f00076]—
 
@@ -583,11 +583,11 @@ In Schedule 2 to the Upper Tribunal (Immigration and Asylum Chamber) (Judicial R
   - (iii) omit the definition of “the Funding Code”; and
 - (b) in paragraph 1(2), for “who is in receipt of funding provided by the LSC for the purposes of the proceedings for which a certificate has been issued under the Funding Code” substitute “for whom civil legal services, for which a certificate has been issued under the Civil Legal Aid (Procedure) Regulations 2012, have been made available under arrangements made for the purposes of Part 1 of that Act for the purposes of the proceedings”.
 
-#### 25. Amendment of the Magistrates’ Courts (Enforcement or Variation of Orders Made in Family Proceedings and Miscellaneous Provisions) Rules 2011[^key-684298b87fabcca0a932c5f433131a35]
+#### 25. Amendment of the Magistrates’ Courts (Enforcement or Variation of Orders Made in Family Proceedings and Miscellaneous Provisions) Rules 2011[^c-684298b87fabcca0a932c5f433131a35]
 
 In paragraph 11(1)(d) of Schedule 4 to the Magistrates’ Courts (Enforcement or Variation of Orders Made in Family Proceedings and Miscellaneous Provisions) Rules 2011[^f00077] (confidentiality of documents) for “the Legal Services Commission” substitute “the Director of Legal Aid Casework (within the meaning of section 4 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012)”.
 
-#### 26. Amendment of the Damages-Based Agreements Regulations 2013[^key-e5a0ce2ea10eca3ca7fbd963916323d9]
+#### 26. Amendment of the Damages-Based Agreements Regulations 2013[^c-e5a0ce2ea10eca3ca7fbd963916323d9]
 
 In regulation 5(2)(c)(i) of the Damages-Based Agreements Regulations 2013 (information required to be given before an agreement is made in an employment matter), for “the Community Legal Service” substitute “arrangements made for the purposes of Part 1 (legal aid) of the Legal Aid, Sentencing and Punishment of Offenders Act 2012.
 
@@ -617,9 +617,9 @@ Regulation 14 and the Schedule make consequential amendments to secondary legisl
 
 [^f00001]: Footnote: [2012 c. 10](https://www.legislation.gov.uk/ukpga/2012/10).
 
-[^key-505a8a485216687af15046758a148731]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-505a8a485216687af15046758a148731]: Commencement: Reg. 1 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
-[^key-ec1ff67d305f4bcda235a30ae98b6897]: Commencement: Reg. 2 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-ec1ff67d305f4bcda235a30ae98b6897]: Commencement: Reg. 2 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00002]: Footnote: [1999 c. 22](https://www.legislation.gov.uk/ukpga/1999/22).
 
@@ -631,13 +631,13 @@ Regulation 14 and the Schedule make consequential amendments to secondary legisl
 
 [^f00006]: Footnote: [S.I. 2001/916 (C. 32)](https://www.legislation.gov.uk/uksi/2001/916).
 
-[^key-a3c1d99eed0a99e1de3e49edebabd2d1]: Commencement: Reg. 3 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-a3c1d99eed0a99e1de3e49edebabd2d1]: Commencement: Reg. 3 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
-[^key-a6cff9c06f6ef5d840d56cc3fd657531]: Commencement: Reg. 4 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-a6cff9c06f6ef5d840d56cc3fd657531]: Commencement: Reg. 4 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
-[^key-7a975bc2885a7d73080e5b626cc799c6]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-7a975bc2885a7d73080e5b626cc799c6]: Commencement: Reg. 5 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
-[^key-a150c3033685e4353075c5da3c5f2d13]: Commencement: Reg. 6 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-a150c3033685e4353075c5da3c5f2d13]: Commencement: Reg. 6 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00007]: Footnote: [S.I. 2013/453 (C. 19)](https://www.legislation.gov.uk/uksi/2013/453).
 
@@ -657,15 +657,15 @@ Regulation 14 and the Schedule make consequential amendments to secondary legisl
 
 [^f00015]: Footnote: [2010 c. 38](https://www.legislation.gov.uk/ukpga/2010/38).
 
-[^key-96a7ba5468e7f862973782e19bf101b1]: Commencement: Reg. 7 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-96a7ba5468e7f862973782e19bf101b1]: Commencement: Reg. 7 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00016]: Footnote: [S.I. 2007/1174](https://www.legislation.gov.uk/uksi/2007/1174).
 
-[^key-b3213dc878333f590d268c24ffb81929]: Commencement: Reg. 8 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-b3213dc878333f590d268c24ffb81929]: Commencement: Reg. 8 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00017]: Footnote: Under section 5(1) of the Access to Justice Act 1999 (repealed by [S.I. 2013/453 (C. 19)](https://www.legislation.gov.uk/uksi/2013/453)), the Legal Services Commission was required to establish and maintain a fund known as the Community Legal Service Fund.
 
-[^key-ac34da811eaeea19e3d8b659160845d9]: Commencement: Reg. 9 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-ac34da811eaeea19e3d8b659160845d9]: Commencement: Reg. 9 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00018]: Footnote: [S.I. 1989/338](https://www.legislation.gov.uk/uksi/1989/338). This instrument lapsed on 1st April 2000 on the repeal of the enabling provision, subject to savings in relation to certain existing cases by virtue of article 5 of [S.I. 2000/774](https://www.legislation.gov.uk/uksi/2000/774).
 
@@ -673,25 +673,25 @@ Regulation 14 and the Schedule make consequential amendments to secondary legisl
 
 [^f00020]: Footnote: [S.I. 2013/480](https://www.legislation.gov.uk/uksi/2013/480).
 
-[^key-f9ac004cd8392eaa4424955c6fca77dd]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2013/534/regulation/9A) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) (Amendment) Regulations 2013 (S.I. 2013/621)](https://www.legislation.gov.uk/uksi/2013/621), [regs. 1](https://www.legislation.gov.uk/uksi/2013/621/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/621/regulation/3)
+[^c-f9ac004cd8392eaa4424955c6fca77dd]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2013/534/regulation/9A) inserted (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) (Amendment) Regulations 2013 (S.I. 2013/621)](https://www.legislation.gov.uk/uksi/2013/621), [regs. 1](https://www.legislation.gov.uk/uksi/2013/621/regulation/1), [3](https://www.legislation.gov.uk/uksi/2013/621/regulation/3)
 
-[^key-49ba97dab52e52fcffbade4712c2c5c0]: Commencement: Reg. 10 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-49ba97dab52e52fcffbade4712c2c5c0]: Commencement: Reg. 10 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00021]: Footnote: [S.I. 2013/503](https://www.legislation.gov.uk/uksi/2013/503).
 
-[^key-f3ee88041d3b29c4f32381ac0b6f269d]: Commencement: Reg. 11 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-f3ee88041d3b29c4f32381ac0b6f269d]: Commencement: Reg. 11 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
-[^key-92dcb4faa41905531cb00269b4318ca7]: Commencement: Reg. 12 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-92dcb4faa41905531cb00269b4318ca7]: Commencement: Reg. 12 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00022]: Footnote: [S.I. 2013/435](https://www.legislation.gov.uk/uksi/2013/435).
 
-[^key-02f20acd8ea4ad1053dfb7c0c25aeddb]: Commencement: Reg. 13 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-02f20acd8ea4ad1053dfb7c0c25aeddb]: Commencement: Reg. 13 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00023]: Footnote: [1985 c. 61](https://www.legislation.gov.uk/ukpga/1985/61).
 
 [^f00024]: Footnote: [1974 c. 47](https://www.legislation.gov.uk/ukpga/1974/47).
 
-[^key-6788b975b21ac966be9f5a13721d2c55]: Commencement: Reg. 14 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-6788b975b21ac966be9f5a13721d2c55]: Commencement: Reg. 14 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00025]: Footnote: [S.I. 2008/2698](https://www.legislation.gov.uk/uksi/2008/2698).
 
@@ -699,53 +699,53 @@ Regulation 14 and the Schedule make consequential amendments to secondary legisl
 
 [^f00027]: Footnote: [S.I. 1998/3132 (L. 17)](https://www.legislation.gov.uk/uksi/1998/3132). Rule 43.2 is revoked, and rule 46.2(2)(a)(i) is substituted, on 1st April 2013 by [S.I. 2013/262 (L. 1)](https://www.legislation.gov.uk/uksi/2013/262).
 
-[^key-928874fa98ddc7eb3755c96a23a1cf0e]: Commencement: Sch. para. 1 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-928874fa98ddc7eb3755c96a23a1cf0e]: Commencement: Sch. para. 1 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00028]: Footnote: [S.I. 1986/1335](https://www.legislation.gov.uk/uksi/1986/1335). Relevant amending instruments are [S.I. 1991/789](https://www.legislation.gov.uk/uksi/1991/789), [2004/2408](https://www.legislation.gov.uk/uksi/2004/2408) and [2008/2448](https://www.legislation.gov.uk/uksi/2008/2448).
 
-[^key-b1c84422f5041b8cfdced7eea3672b4d]: Commencement: Sch. para. 2 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-b1c84422f5041b8cfdced7eea3672b4d]: Commencement: Sch. para. 2 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00029]: Footnote: [S.I. 1998/3132 (L. 17)](https://www.legislation.gov.uk/uksi/1998/3132). Rules 46 and 47 are substituted on 1st April 2013 by [S.I. 2013/262 (L. 1)](https://www.legislation.gov.uk/uksi/2013/262).
 
-[^key-ad3d9e5c069879b04deb48ef98433bbb]: Commencement: Sch. para. 3 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-ad3d9e5c069879b04deb48ef98433bbb]: Commencement: Sch. para. 3 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00030]: Footnote: [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119).
 
-[^key-1e8068a4d01aaf3e60f59b52dad41f1a]: Commencement: Sch. para. 4 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-1e8068a4d01aaf3e60f59b52dad41f1a]: Commencement: Sch. para. 4 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00031]: Footnote: [S.S.I. 2002/494](https://www.legislation.gov.uk/ssi/2002/494).
 
-[^key-6848db03bf779e592db618efe85212ea]: Commencement: Sch. para. 5 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-6848db03bf779e592db618efe85212ea]: Commencement: Sch. para. 5 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00032]: Footnote: [S.I. 2003/1417](https://www.legislation.gov.uk/uksi/2003/1417). Relevant amending instruments are [S.I. 2005/1766](https://www.legislation.gov.uk/uksi/2005/1766), [S.I. 2008/1919](https://www.legislation.gov.uk/uksi/2008/1919) and [2012/2421](https://www.legislation.gov.uk/uksi/2012/2421).
 
-[^key-f8be52fd77b91f0de86f599725b450fb]: Commencement: Sch. para. 6 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-f8be52fd77b91f0de86f599725b450fb]: Commencement: Sch. para. 6 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00033]: Footnote: [S.I. 2008/1863](https://www.legislation.gov.uk/uksi/2008/1863).
 
-[^key-f86434c2e923bb4ad401618f6e9f0957]: Commencement: Sch. para. 7 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-f86434c2e923bb4ad401618f6e9f0957]: Commencement: Sch. para. 7 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00034]: Footnote: [S.I. 2008/1053 (L. 5)](https://www.legislation.gov.uk/uksi/2008/1053). Schedule 1 was substituted by [S.I. 2011/586 (L. 2)](https://www.legislation.gov.uk/uksi/2011/586).
 
-[^key-994d4a94dc74cf0471bee3d822093cb4]: Commencement: Sch. para. 8 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-994d4a94dc74cf0471bee3d822093cb4]: Commencement: Sch. para. 8 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00035]: Footnote: [S.I. 2008/1054 (L. 6)](https://www.legislation.gov.uk/uksi/2008/1054). Schedule 1 was substituted by [S.I. 2010/1916 (L. 10)](https://www.legislation.gov.uk/uksi/2010/1916).
 
-[^key-338007fb662a0a979bca013e30d35646]: Commencement: Sch. para. 9 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-338007fb662a0a979bca013e30d35646]: Commencement: Sch. para. 9 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00036]: Footnote: [S.I. 2011/1734](https://www.legislation.gov.uk/uksi/2011/1734).
 
 [^f00037]: Footnote: [S.I. 2000/441](https://www.legislation.gov.uk/uksi/2000/441).
 
-[^key-bf68816caa1be57a991ac2e8a4f0aed4]: Commencement: Sch. para. 10 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-bf68816caa1be57a991ac2e8a4f0aed4]: Commencement: Sch. para. 10 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00038]: Footnote: [S.I. 2011/2260](https://www.legislation.gov.uk/uksi/2011/2260).
 
-[^key-1734d7e25fd392f122018e85913efae8]: Commencement: Sch. para. 11 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-1734d7e25fd392f122018e85913efae8]: Commencement: Sch. para. 11 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00039]: Footnote: [S.I. 2011/2866](https://www.legislation.gov.uk/uksi/2011/2866).
 
-[^key-5f6cbfb77339b516025ce0ce820dd4fb]: Commencement: Sch. para. 12 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-5f6cbfb77339b516025ce0ce820dd4fb]: Commencement: Sch. para. 12 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00040]: Footnote: [S.I. 2011/1893](https://www.legislation.gov.uk/uksi/2011/1893).
 
@@ -763,7 +763,7 @@ Regulation 14 and the Schedule make consequential amendments to secondary legisl
 
 [^f00047]: Footnote: [S.I. 2011/1129](https://www.legislation.gov.uk/uksi/2011/1129).
 
-[^key-162261086b5a2cf675683db7296c4ad0]: Textual amendment: [Sch. para. 12(2)(i)](https://www.legislation.gov.uk/uksi/2013/534/schedule/Pt/paragraph/12/2/i) revoked (30.9.2016) by [The Côte d’Ivoire (Asset-Freezing) (Revocation) Regulations 2016 (S.I. 2016/893)](https://www.legislation.gov.uk/uksi/2016/893), [regs. 1](https://www.legislation.gov.uk/uksi/2016/893/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2016/893/regulation/2/d)
+[^c-162261086b5a2cf675683db7296c4ad0]: Textual amendment: [Sch. para. 12(2)(i)](https://www.legislation.gov.uk/uksi/2013/534/schedule/Pt/paragraph/12/2/i) revoked (30.9.2016) by [The Côte d’Ivoire (Asset-Freezing) (Revocation) Regulations 2016 (S.I. 2016/893)](https://www.legislation.gov.uk/uksi/2016/893), [regs. 1](https://www.legislation.gov.uk/uksi/2016/893/regulation/1), [2(d)](https://www.legislation.gov.uk/uksi/2016/893/regulation/2/d)
 
 [^f00049]: Footnote: [S.I. 2012/1517](https://www.legislation.gov.uk/uksi/2012/1517).
 
@@ -791,13 +791,13 @@ Regulation 14 and the Schedule make consequential amendments to secondary legisl
 
 [^f00061]: Footnote: [S.I. 2012/925](https://www.legislation.gov.uk/uksi/2012/925).
 
-[^key-bd58cc9278c7081ec764604c3063f01d]: Commencement: Sch. para. 13 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-bd58cc9278c7081ec764604c3063f01d]: Commencement: Sch. para. 13 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00062]: Footnote: [S.I. 1998/3132 (L. 17)](https://www.legislation.gov.uk/uksi/1998/3132). Paragraph (6) and (7) of rule 42.2 was substituted by [S.I. 2000/1317 (L. 11)](https://www.legislation.gov.uk/uksi/2000/1317) and rule 74.13 was inserted by [S.I. 2002/2058 (L. 10)](https://www.legislation.gov.uk/uksi/2002/2058).
 
 [^f00063]: Footnote: [S.I. 2012/3098](https://www.legislation.gov.uk/uksi/2012/3098).
 
-[^key-2ea2cf392817f55a75ad3d6ee2879a0b]: Commencement: Sch. para. 14 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-2ea2cf392817f55a75ad3d6ee2879a0b]: Commencement: Sch. para. 14 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00064]: Footnote: [S.I. 2004/3120 (L. 22)](https://www.legislation.gov.uk/uksi/2004/3120). Schedule 1A was inserted by [S.I. 2007/2174 (L. 14)](https://www.legislation.gov.uk/uksi/2007/2174) and substituted by [S.I. 2009/1497 (L. 14)](https://www.legislation.gov.uk/uksi/2009/1497).
 
@@ -805,11 +805,11 @@ Regulation 14 and the Schedule make consequential amendments to secondary legisl
 
 [^f00066]: Footnote: [S.I. 2013/471](https://www.legislation.gov.uk/uksi/2013/471).
 
-[^key-3f2fda9964c5b439c9bbbb195095856f]: Commencement: Sch. para. 15 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-3f2fda9964c5b439c9bbbb195095856f]: Commencement: Sch. para. 15 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00067]: Footnote: [S.I. 2005/3181](https://www.legislation.gov.uk/uksi/2005/3181).
 
-[^key-d76efd3985fd9e944db7bd7dd3da4b51]: Commencement: Sch. para. 16 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-d76efd3985fd9e944db7bd7dd3da4b51]: Commencement: Sch. para. 16 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00068]: Footnote: [S.I. 1971/809](https://www.legislation.gov.uk/uksi/1971/809).
 
@@ -817,34 +817,34 @@ Regulation 14 and the Schedule make consequential amendments to secondary legisl
 
 [^f00070]: Footnote: [S.I. 2013/511](https://www.legislation.gov.uk/uksi/2013/511).
 
-[^key-89676c8ecd78416fc728f60a4ff4cb01]: Commencement: Sch. para. 17 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-89676c8ecd78416fc728f60a4ff4cb01]: Commencement: Sch. para. 17 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00071]: Footnote: [S.I. 2007/1744 (L. 12)](https://www.legislation.gov.uk/uksi/2007/1744).
 
-[^key-8957af83cc79b5b6e5d024fee4505b1b]: Commencement: Sch. para. 18 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-8957af83cc79b5b6e5d024fee4505b1b]: Commencement: Sch. para. 18 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
-[^key-1e38a9c8b13d95845bc298a41fa8d1e4]: Commencement: Sch. para. 19 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-1e38a9c8b13d95845bc298a41fa8d1e4]: Commencement: Sch. para. 19 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
-[^key-f5b2a1e4f9e1905ecf7cf2c95614dd4c]: Commencement: Sch. para. 20 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-f5b2a1e4f9e1905ecf7cf2c95614dd4c]: Commencement: Sch. para. 20 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00072]: Footnote: [S.I. 2008/1052 (L. 4)](https://www.legislation.gov.uk/uksi/2008/1052).
 
-[^key-3c0eea35e05db70c026e37d263148038]: Textual amendment: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/21) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
+[^c-3c0eea35e05db70c026e37d263148038]: Textual amendment: [Sch. para. 21](https://www.legislation.gov.uk/uksi/2013/534/schedule/paragraph/21) revoked (1.4.2024) by [The Supreme Court Fees Order 2024 (S.I. 2024/148)](https://www.legislation.gov.uk/uksi/2024/148), [art. 1(1)](https://www.legislation.gov.uk/uksi/2024/148/article/1/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2024/148/schedule/3)
 
-[^key-af229888718b06d5426ed75789bcb365]: Commencement: Sch. para. 22 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-af229888718b06d5426ed75789bcb365]: Commencement: Sch. para. 22 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00074]: Footnote: [S.I. 2010/2955 (L. 17)](https://www.legislation.gov.uk/uksi/2010/2955).
 
-[^key-ad1c781d8dc10d83a99cd2e5bdc43a31]: Commencement: Sch. para. 23 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-ad1c781d8dc10d83a99cd2e5bdc43a31]: Commencement: Sch. para. 23 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00075]: Footnote: [S.I. 2011/2841](https://www.legislation.gov.uk/uksi/2011/2841).
 
-[^key-75715b24c5ebc3a9654b175fda6b2625]: Commencement: Sch. para. 24 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-75715b24c5ebc3a9654b175fda6b2625]: Commencement: Sch. para. 24 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00076]: Footnote: [S.I. 2011/2344](https://www.legislation.gov.uk/uksi/2011/2344).
 
-[^key-684298b87fabcca0a932c5f433131a35]: Commencement: Sch. para. 25 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
+[^c-684298b87fabcca0a932c5f433131a35]: Commencement: Sch. para. 25 in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1)
 
 [^f00077]: Footnote: [S.I. 2011/1329 (L. 10)](https://www.legislation.gov.uk/uksi/2011/1329).
 
-[^key-e5a0ce2ea10eca3ca7fbd963916323d9]: Textual amendment: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2013/534/schedule/2/paragraph/26) inserted (1.4.2013) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) (Amendment) Regulations 2013 (S.I. 2013/621)](https://www.legislation.gov.uk/uksi/2013/621), [regs. 1](https://www.legislation.gov.uk/uksi/2013/621/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/621/regulation/4)
+[^c-e5a0ce2ea10eca3ca7fbd963916323d9]: Textual amendment: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2013/534/schedule/2/paragraph/26) inserted (1.4.2013) by virtue of [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) (Amendment) Regulations 2013 (S.I. 2013/621)](https://www.legislation.gov.uk/uksi/2013/621), [regs. 1](https://www.legislation.gov.uk/uksi/2013/621/regulation/1), [4](https://www.legislation.gov.uk/uksi/2013/621/regulation/4)

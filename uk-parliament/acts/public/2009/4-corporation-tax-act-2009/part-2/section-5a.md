@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5A. Arrangements for avoiding tax[^key-109dc2b042ea3cdbf2aba700139f8dbb]
+## 5A. Arrangements for avoiding tax[^c-109dc2b042ea3cdbf2aba700139f8dbb]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-109dc2b042ea3cdbf2aba700139f8dbb]: Textual amendment: Ss. 5A, 5B inserted (with effect in accordance with s. 81 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 76(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/76/5) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/2))
+[^c-109dc2b042ea3cdbf2aba700139f8dbb]: Textual amendment: Ss. 5A, 5B inserted (with effect in accordance with s. 81 of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 76(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/76/5) (and also with effect in accordance with [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 39(1)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/1)[(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/39/2))

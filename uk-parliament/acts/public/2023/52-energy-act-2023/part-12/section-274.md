@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 274. Duty to report incidents[^key-ccbf62c9dcc5021dc81de7d38f1e1fb8][^key-ef207b8d75947fa5f99257ebbbe62d4a]
+## 274. Duty to report incidents[^c-ccbf62c9dcc5021dc81de7d38f1e1fb8][^c-ef207b8d75947fa5f99257ebbbe62d4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ the continuity of supply of core fuels.
 
 ## Annotations
 
-[^key-ccbf62c9dcc5021dc81de7d38f1e1fb8]: Commencement: S. 274 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-ccbf62c9dcc5021dc81de7d38f1e1fb8]: Commencement: S. 274 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-ef207b8d75947fa5f99257ebbbe62d4a]: Commencement: [S. 274](https://www.legislation.gov.uk/ukpga/2023/52/section/274) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/iv)
+[^c-ef207b8d75947fa5f99257ebbbe62d4a]: Commencement: [S. 274](https://www.legislation.gov.uk/ukpga/2023/52/section/274) in force at 11.1.2024 by [S.I. 2024/32](https://www.legislation.gov.uk/uksi/2024/32), [reg. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2024/32/regulation/2/c/iv)

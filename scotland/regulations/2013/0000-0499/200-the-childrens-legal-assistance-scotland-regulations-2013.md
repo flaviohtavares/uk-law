@@ -48,41 +48,41 @@ In accordance with section 37(2) of that Act, a draft of these Regulations has b
 
 ## PART 1 — GENERAL
 
-### 1. Citation and Commencement[^key-3cbdbfe7614e3a5aaa580aa0cd53fdeb]
+### 1. Citation and Commencement[^c-3cbdbfe7614e3a5aaa580aa0cd53fdeb]
 
 These Regulations may be cited as the Children’s Legal Assistance (Scotland) Regulations 2013 and come into force on 24th June 2013.
 
-### 2. Interpretation[^key-03ef22bf99ba3a878feea1977e6af734]
+### 2. Interpretation[^c-03ef22bf99ba3a878feea1977e6af734]
 
 (1) In these Regulations—
 
 - “the Act” means the Legal Aid (Scotland) Act 1986;
 - “the 1992 Act” means the Social Security Contributions and Benefits Act 1992[^f00002];
 - “the 2011 Act” means the Children’s Hearings (Scotland) Act 2011;
-- “the 2021 Act” means the Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021;[^key-3b8b157c38dc2d2d3bd9b859e12efc79]
-- “[^key-0d886c3354a0ade8cfefa79777069f4c]**the 2022 Act**” means the Social Security (Additional Payments) Act 2022;
-- “[^key-356590ab26bb1b547bec4495e4026cc8]**the 2023 Act**” means the Social Security (Additional Payments) Act 2023;
-- “[^key-3e8be9d42c88d26e86c29c76a7393e4e]**additional payment**” means a payment within the meaning given in section 9(1) (interpretation) of the 2022 Act or that given in section 10(1) (interpretation) of the 2023 Act;
-- “the 2019 Act” means the Age of Criminal Responsibility (Scotland) Act 2019,[^key-cc7c5a8d62a649e87f27db1a19373360]
+- “the 2021 Act” means the Redress for Survivors (Historical Child Abuse in Care) (Scotland) Act 2021;[^c-3b8b157c38dc2d2d3bd9b859e12efc79]
+- “[^c-0d886c3354a0ade8cfefa79777069f4c]**the 2022 Act**” means the Social Security (Additional Payments) Act 2022;
+- “[^c-356590ab26bb1b547bec4495e4026cc8]**the 2023 Act**” means the Social Security (Additional Payments) Act 2023;
+- “[^c-3e8be9d42c88d26e86c29c76a7393e4e]**additional payment**” means a payment within the meaning given in section 9(1) (interpretation) of the 2022 Act or that given in section 10(1) (interpretation) of the 2023 Act;
+- “the 2019 Act” means the Age of Criminal Responsibility (Scotland) Act 2019,[^c-cc7c5a8d62a649e87f27db1a19373360]
 - “assisted person” means a person who is or has been in receipt of children’s legal aid[^f00003]in the proceedings or hearings in question;
-- “[^key-cd978ff192905a7eef31ce24ac992707]**care leaver payment**” means care experience assistance paid by virtue of regulations made under section 93A(1) of the Social Security (Scotland) Act 2018;
-- “[^key-a3e03da923d14e2b0952a7e824f0e680]**carer support [^key-dbbe56de49d649a2d5143e2f238fc3c2]...**” means carer’s assistance given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023,
-- “child”—[^key-05a06d31723a5ea521c34bfb20441b73]
+- “[^c-cd978ff192905a7eef31ce24ac992707]**care leaver payment**” means care experience assistance paid by virtue of regulations made under section 93A(1) of the Social Security (Scotland) Act 2018;
+- “[^c-a3e03da923d14e2b0952a7e824f0e680]**carer support [^c-dbbe56de49d649a2d5143e2f238fc3c2]...**” means carer’s assistance given in accordance with the Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023,
+- “child”—[^c-05a06d31723a5ea521c34bfb20441b73]
   - (a) in relation to proceedings under the 2011 Act has the meaning given in section 199 of that Act,
   - (b) in relation to proceedings under the 2019 Act has the meaning given in section 80 of that Act,
 - “children’s hearing” has the meaning given in section 5 of the 2011 Act;
-- “[^key-ddbca173f0a211ef0f43346c491871e0]**Grenfell Tower payment**” means any payment made to a person by way of compensation, damages or legal expenses in connection with the Grenfell Tower fire of 14 June 2017, including under any settlement arrived at to prevent or bring legal proceedings to an end,
+- “[^c-ddbca173f0a211ef0f43346c491871e0]**Grenfell Tower payment**” means any payment made to a person by way of compensation, damages or legal expenses in connection with the Grenfell Tower fire of 14 June 2017, including under any settlement arrived at to prevent or bring legal proceedings to an end,
 - “**human trafficking or exploitation victim payment**” means any payment by way of support or assistance provided under section 9 of the Human Trafficking and Exploitation (Scotland) Act 2015 or under regulations made under section 10 of that Act, or any payment made by way of support provided under a Modern Slavery Victim Care Contract,
 - “**Infected Blood Compensation Scheme**” means the scheme made by the Secretary of State or the Minister for the Cabinet Office in exercise of powers conferred by section 49 of the Victims and Prisoners Act 2024,
-- “redress scheme” has the meaning given in section 2 of the 2021 Act;[^key-0f1881e32928388101880fab9fee36a8]
+- “redress scheme” has the meaning given in section 2 of the 2021 Act;[^c-0f1881e32928388101880fab9fee36a8]
 - “relevant payment” means any payment described in section 42(2) (deduction of previous payment from redress payment) read with section 42(3) and (7) as adjusted in accordance with sections 42(5) and 43 of the 2021 Act;
-- “interested person”, in relation to proceedings relating to an application for an order under section 34 (application for order authorising search in relation to child under 12), 42 (application for child interview order) or 61 (application for order authorising taking of prints and samples from child) of the 2019 Act means any other person the sheriff considers to have an interest in the application,[^key-374271c46588df4fa36bfe1be4d27db2]
-- “[^key-47e77117c97a7ee4b5d730ac03abd9b5]**miscarriage of justice payment**” means any payment made by the Secretary of State, the Scottish Ministers or the Department of Justice (Northern Ireland) for the purpose of compensating a person for a miscarriage of justice,
+- “interested person”, in relation to proceedings relating to an application for an order under section 34 (application for order authorising search in relation to child under 12), 42 (application for child interview order) or 61 (application for order authorising taking of prints and samples from child) of the 2019 Act means any other person the sheriff considers to have an interest in the application,[^c-374271c46588df4fa36bfe1be4d27db2]
+- “[^c-47e77117c97a7ee4b5d730ac03abd9b5]**miscarriage of justice payment**” means any payment made by the Secretary of State, the Scottish Ministers or the Department of Justice (Northern Ireland) for the purpose of compensating a person for a miscarriage of justice,
 - “parent”, in respect of proceedings under Part 4 of the 2019 Act has the meaning given in section 76 of that Act,
-- “relevant person” has the meaning given in section 200 of the 2011 Act, and includes a person deemed to be a relevant person by virtue of section 81(3), 160(4)(b) or 164(3)(a) of that Act; [^key-ce82acb7f7798e7db2f4dae1e39f1be7]...
+- “relevant person” has the meaning given in section 200 of the 2011 Act, and includes a person deemed to be a relevant person by virtue of section 81(3), 160(4)(b) or 164(3)(a) of that Act; [^c-ce82acb7f7798e7db2f4dae1e39f1be7]...
 - “safeguarder” means a safeguarder appointed to a child under section 30 or 31 of the 2011 Act;
-- “Scottish child payment” means any payment under Part 3 of the Scottish Child Payment Regulations 2020;[^key-7c3eef7681d29d88460a425cd40e84d0]
-- “[^key-8abad550b883a3b4be32770fc30275ac]**Scottish Infected Blood Support Scheme**” means the scheme of that name made by the Scottish Ministers in exercise of powers conferred by section 28 of the Smoking, Health and Social Care (Scotland) Act 2005;”,
+- “Scottish child payment” means any payment under Part 3 of the Scottish Child Payment Regulations 2020;[^c-7c3eef7681d29d88460a425cd40e84d0]
+- “[^c-8abad550b883a3b4be32770fc30275ac]**Scottish Infected Blood Support Scheme**” means the scheme of that name made by the Scottish Ministers in exercise of powers conferred by section 28 of the Smoking, Health and Social Care (Scotland) Act 2005;”,
 - “**social fund winter fuel payment**” means the winter fuel payment paid by virtue of the Social Fund Winter Fuel Payment Regulations 2000;
 - “Windrush Compensation Scheme” means the scheme of that name set out in the Windrush Compensation Scheme (Expenditure) Act 2020; and
 - “Windrush connected payment” means a payment where—
@@ -94,7 +94,7 @@ These Regulations may be cited as the Children’s Legal Assistance (Scotland) R
 
 ## PART 2 — CHILDREN’S ASSISTANCE BY WAY OF REPRESENTATION
 
-### 3. Amendment of the Advice and Assistance (Assistance By Way Of Representation) (Scotland) Regulations 2003[^key-976f9285bd6371358bdaa0e16324b611]
+### 3. Amendment of the Advice and Assistance (Assistance By Way Of Representation) (Scotland) Regulations 2003[^c-976f9285bd6371358bdaa0e16324b611]
 
 (1) The Advice and Assistance (Assistance By Way Of Representation) (Scotland) Regulations 2003[^f00004] are amended as follows.
 
@@ -170,7 +170,7 @@ These Regulations may be cited as the Children’s Legal Assistance (Scotland) R
 
 .
 
-### 4. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^key-e7536706f8c00f83ae37cbbf1b633092]
+### 4. Amendment of the Advice and Assistance (Scotland) Regulations 1996[^c-e7536706f8c00f83ae37cbbf1b633092]
 
 (1) The Advice and Assistance (Scotland) Regulations 1996[^f00005] are amended as follows.
 
@@ -205,9 +205,9 @@ These Regulations may be cited as the Children’s Legal Assistance (Scotland) R
 
 ## PART 3 — CHILDREN’S LEGAL AID
 
-### 5. Children’s legal aid: individual[^key-053df2cb94e3cc491224a0a7e4bf4b00]
+### 5. Children’s legal aid: individual[^c-053df2cb94e3cc491224a0a7e4bf4b00]
 
-(1)[^key-574088ff6cf34627180613cb8f445966] Children’s legal aid is available to—
+(1)[^c-574088ff6cf34627180613cb8f445966] Children’s legal aid is available to—
 
 - (a) an individual to whom section 126 of the 2011 Act refers in respect of any proceedings before a sheriff, sheriff principal or in the Sheriff Appeal Court or the Court of Session in connection with a hearing under that section, where the conditions in paragraph (2) are met,
 - (b) an individual who is a parent or interested person in respect of proceedings under Part 4 of the 2019 Act, where the conditions in paragraph (2)(c) are met.
@@ -224,9 +224,9 @@ These Regulations may be cited as the Children’s Legal Assistance (Scotland) R
 - (b) the ability of the individual, with the assistance of any accompanying person, to consider and challenge any document or information before the proceedings; and
 - (c) the ability of the individual, with the assistance of any accompanying person, to give his or her views in the proceedings in an effective manner.
 
-### 6. Distinct proceedings[^key-f80c9b776d611068e95e34b20b54773e]
+### 6. Distinct proceedings[^c-f80c9b776d611068e95e34b20b54773e]
 
-(1) In this regulation , except where otherwise specified,[^key-affbdf8d5a1abafe2dd72451e43ecf0a] any reference to a numbered section is to a section bearing that number in the 2011 Act.
+(1) In this regulation , except where otherwise specified,[^c-affbdf8d5a1abafe2dd72451e43ecf0a] any reference to a numbered section is to a section bearing that number in the 2011 Act.
 
 (2) For the purposes of children’s legal aid the following are treated as distinct proceedings—
 
@@ -239,27 +239,27 @@ These Regulations may be cited as the Children’s Legal Assistance (Scotland) R
 - (g) an appeal to the sheriff against a relevant person determination under section 160;
 - (h) an appeal to the sheriff against a decision relating to a contact or permanence order under section 161;
 - (i) an appeal to the sheriff against a decision to implement a secure accommodation authorisation under section 162;
-- (j) an appeal to the Sheriff Appeal Court[^key-243dc08e7871fa6f9668018aa0a61f65] or the Court of Session against a determination or decision of a sheriff under section 163;
-- (k) an appeal to the Sheriff Appeal Court[^key-4f0710b066036d7907846ac7a2438f26] or the Court of Session against a decision of a sheriff in an appeal against a relevant person determination under section 164;
-- (l) an appeal to the Sheriff Appeal Court[^key-d6789d53e1f812d2e1bb28baab3137c0] or the Court of Session against a decision of a sheriff in an appeal relating to a contact or permanence order under section 165;
-- (m) an appeal to the Court of Session against a determination or decision of the Sheriff Appeal Court[^key-8fe2362e23cf258b772326fefc9d2833] under section 163;
-- (n) an appeal to the Court of Session against a decision of the Sheriff Appeal Court[^key-f48fc8ad5067f092e392d43b9ff264a2] in an appeal against a relevant person determination under section 164;
-- (o) an appeal to the Court of Session against a decision of the Sheriff Appeal Court[^key-1a94533dff795cfd9e43f2ccab3c6b5e] in an appeal relating to a contact or permanence order under section 165;
+- (j) an appeal to the Sheriff Appeal Court[^c-243dc08e7871fa6f9668018aa0a61f65] or the Court of Session against a determination or decision of a sheriff under section 163;
+- (k) an appeal to the Sheriff Appeal Court[^c-4f0710b066036d7907846ac7a2438f26] or the Court of Session against a decision of a sheriff in an appeal against a relevant person determination under section 164;
+- (l) an appeal to the Sheriff Appeal Court[^c-d6789d53e1f812d2e1bb28baab3137c0] or the Court of Session against a decision of a sheriff in an appeal relating to a contact or permanence order under section 165;
+- (m) an appeal to the Court of Session against a determination or decision of the Sheriff Appeal Court[^c-8fe2362e23cf258b772326fefc9d2833] under section 163;
+- (n) an appeal to the Court of Session against a decision of the Sheriff Appeal Court[^c-f48fc8ad5067f092e392d43b9ff264a2] in an appeal against a relevant person determination under section 164;
+- (o) an appeal to the Court of Session against a decision of the Sheriff Appeal Court[^c-1a94533dff795cfd9e43f2ccab3c6b5e] in an appeal relating to a contact or permanence order under section 165;
 - (p) an application to the sheriff for review of a decision or determination imposing a duty on a local authority under section 166; and
-- (q) an appeal to the Sheriff Appeal Court[^key-a75d8b82e13fd1bdccc64c2913cad02f] against a determination of a review, or the making of an order, by a sheriff under section 167.
+- (q) an appeal to the Sheriff Appeal Court[^c-a75d8b82e13fd1bdccc64c2913cad02f] against a determination of a review, or the making of an order, by a sheriff under section 167.
 
 (3) An application under paragraph (2)(b) or (c) is not to be treated as distinct proceedings where—
 
 - (a) the application arises as part of other proceedings under the 2011 Act; and
 - (b) the person, who would otherwise be required by virtue of paragraph (2) to apply for children’s legal aid, has already been granted children’s legal aid.
 
-(4)[^key-67faac6edaa77806715f52c46b656b58] For the purposes of children’s legal aid each of the following (or one or more parts of them) is to be treated as a single set of proceedings—
+(4)[^c-67faac6edaa77806715f52c46b656b58] For the purposes of children’s legal aid each of the following (or one or more parts of them) is to be treated as a single set of proceedings—
 
 - (a) proceedings relating to an application under section 34 of the 2019 Act for an order authorising a search in relation to a child under 12 years of age, an application to appeal to the Sheriff Appeal Court against a decision taken by a sheriff under section 36 of the 2019 Act in respect of that application, and where permission is given the proceedings relating to such an appeal,
 - (b) proceedings relating to an application under section 42 of the 2019 Act for a child interview order, an application to appeal to the Sheriff Appeal Court against a decision taken by a sheriff under section 44 of the 2019 Act in respect of that application, and where permission is given the proceedings relating to such an appeal,
 - (c) proceedings relating to an application under section 61 of the 2019 Act for an order authorising the taking of prints and samples from a child, an application to appeal to the Sheriff Appeal Court against a decision taken by a sheriff under section 63 of the 2019 Act in respect of that application, and where permission is given the proceedings relating to such an appeal.
 
-### 7. Form of application[^key-362c4d6ea5a977a9187703f40e52ba0a]
+### 7. Form of application[^c-362c4d6ea5a977a9187703f40e52ba0a]
 
 (1) Subject to regulations 8 (applications by or on behalf of children) and 18 (matters of special urgency), an application for children’s legal aid under Part 5A of the Act[^f00007] or under regulation 5 must be in such form as the Board may require, which may include an online form.
 
@@ -272,13 +272,13 @@ and must be accompanied by a statement itemising the applicant’s disposable in
 
 (3) The requirements of paragraph (2) may be waived in whole or in part by the Board where it is satisfied that compliance with them would cause serious difficulty, inconvenience or delay and the application satisfies the requirements of paragraph (1).
 
-### 8. Applications by or on behalf of children[^key-3a282dd49bc852d2894934f41b2b05a6]
+### 8. Applications by or on behalf of children[^c-3a282dd49bc852d2894934f41b2b05a6]
 
 (1) Without prejudice to any right of a child to apply under regulation 7 (form of application), an application on behalf of a child may be made by the child’s relevant person, safeguarder or other representative of the child (other than a solicitor).
 
 (2) An application by or on behalf of a child in terms of paragraph (1) is to be determined in accordance with regulations 10 to 14.
 
-### 9. Attendance for interview and supply of information[^key-29839468f5d72f6ddf76f24122988733]
+### 9. Attendance for interview and supply of information[^c-29839468f5d72f6ddf76f24122988733]
 
 (1) An applicant for children’s legal aid must, if required by the Board to do so, attend for interview by a representative of the Board or supply such further information or documents as the Board may require to enable it to determine the application or to make determination as to the amount of contribution to the Fund.
 
@@ -287,11 +287,11 @@ and must be accompanied by a statement itemising the applicant’s disposable in
 - (a) the Board may treat the application as having been abandoned, and where it does so it must give intimation of the abandonment to the applicant; and
 - (b) the Board has the right to recover from the applicant the amount paid out of the Fund in respect of fees and outlays of the applicant’s solicitors and counsel, less any amount received from that person by way of contribution.
 
-### 10. Determination of disposable income and disposable capital[^key-af7d1d830c3f35a6e53d1d7018786bc4]
+### 10. Determination of disposable income and disposable capital[^c-af7d1d830c3f35a6e53d1d7018786bc4]
 
 Unless otherwise provided in these Regulations, the disposable income and disposable capital of a person is to be respectively determined at amounts calculated in accordance with Schedules 1 and 2 to these Regulations.
 
-### 11. Circumstances in which resources of spouse not to be taken into account and resources of cohabitees[^key-c7ae1f5d975d9ad71b5fc94f8d83f4a8]
+### 11. Circumstances in which resources of spouse not to be taken into account and resources of cohabitees[^c-c7ae1f5d975d9ad71b5fc94f8d83f4a8]
 
 (1) The resources of a person’s spouse are not to be treated as the person’s resources if—
 
@@ -300,7 +300,7 @@ Unless otherwise provided in these Regulations, the disposable income and dispos
 
 (2) For the purposes of section 42 of the Act, two persons living together as husband and wife or in a relationship which has the characteristics of the relationship between husband and wife except that the persons are of the same sex are to be treated as if they were spouses of each other.
 
-### 12. Deprivation or conversion of resources[^key-7bcfde0c47c8ad9f6c1a0adcf5987f37]
+### 12. Deprivation or conversion of resources[^c-7bcfde0c47c8ad9f6c1a0adcf5987f37]
 
 (1) If it appears to the Board that a person (A) has, with intent to reduce A’s disposable income or disposable capital, whether for the purpose of making A eligible for children’s legal aid, reducing A’s liability to pay a contribution or otherwise—
 
@@ -311,7 +311,7 @@ the resources of which A has been so deprived or which have been so converted ar
 
 (2) Where it appears to the Board that an assisted person has acted in the way described in paragraph (1) it may make an amended determination in accordance with regulation 28 (power of the Board to amend determination).
 
-### 13. Assessment of disposable income, etc. in relation to appellate proceedings[^key-051135b13aab13539be673d977a20dd9]
+### 13. Assessment of disposable income, etc. in relation to appellate proceedings[^c-051135b13aab13539be673d977a20dd9]
 
 (1) Subject to paragraph (2), where an application relates to any of the proceedings specified in regulation 6 (distinct proceedings), and the applicant was previously an assisted person in relation to that matter, the Board must not redetermine the applicant’s disposable income and disposable capital but must assess the amount of the maximum contribution, if any, payable in respect of the proceedings at an amount not greater than the maximum contribution assessed in relation to the earlier proceedings, less any amount assessed by the Board to be paid in respect of those proceedings.
 
@@ -321,13 +321,13 @@ the resources of which A has been so deprived or which have been so converted ar
 - (b) any decrease in the amount of that person’s disposable income by an amount greater than £300; and
 - (c) any increase in the amount of that person’s disposable capital by an amount greater than £750.
 
-### 14. Assessment of resources, etc. of person making application in representative, fiduciary, official or other capacity[^key-9ecd8df7785e770a08c5890a8737bdda]
+### 14. Assessment of resources, etc. of person making application in representative, fiduciary, official or other capacity[^c-9ecd8df7785e770a08c5890a8737bdda]
 
 (1) Where the applicant is a person who is concerned in the proceedings only in a representative, fiduciary or official capacity, then for the purpose of determining that person’s disposable income and disposable capital, and the amount of any contribution required under section 28K of the Act[^f00008], the personal resources of the applicant are to be disregarded, but regard must be had to the value of any property or the amount of any fund out of which the applicant is entitled to be indemnified and to the disposable income and disposable capital of any persons (including the applicant if appropriate) who might benefit from the outcome of the proceedings.
 
 (2) Where a person applies for children’s legal aid in connection with any proceedings in which that person is concerned in a representative, fiduciary or official capacity and it appears to the Board that the applicant is entitled, whether by an order of the court or otherwise, to be indemnified in respect of the applicant’s expenses in connection with the proceedings out of a fund or by a third party, it must not grant children’s legal aid unless it is satisfied that the Fund cannot reasonably be expected to bear the expense of the proceedings or, as the case may be, that the third party would, if a party to the proceedings, be entitled to children’s legal aid.
 
-### 15. Applicant having rights and facilities in relation to litigation[^key-54c4c0c57fc0bf95c85c9309040a2739]
+### 15. Applicant having rights and facilities in relation to litigation[^c-54c4c0c57fc0bf95c85c9309040a2739]
 
 (1) Subject to paragraph (2), where it appears to the Board that an applicant has available rights and facilities making it unnecessary for that applicant to obtain children’s legal aid or has a reasonable expectation of obtaining financial or other help from a body of which that applicant is a member, the Board must not approve the application unless the applicant has not succeeded in enforcing or obtaining such rights, facilities or help, after having taken, in the opinion of the Board, all reasonable steps to enforce or obtain them:
 
@@ -335,7 +335,7 @@ the resources of which A has been so deprived or which have been so converted ar
 
 (3) Where the Board approves an application by a person who is a member of a body which might reasonably have been expected to give that person financial help towards the expenses of the proceedings, the Board must require that person to sign an undertaking to pay to the Board, in addition to a contribution if any, any sum received from that body on account of the expenses of the proceedings.
 
-### 16. Contributions in respect of children’s legal aid[^key-2c403af112300bbafe091f6c20c18c6d]
+### 16. Contributions in respect of children’s legal aid[^c-2c403af112300bbafe091f6c20c18c6d]
 
 Where the Board grants an application for children’s legal aid, it must make a determination as to—
 
@@ -344,18 +344,18 @@ Where the Board grants an application for children’s legal aid, it must make a
 - (c) the amount or amounts of any instalments; and
 - (d) the date or dates on which the contribution is, or any instalments are, payable.
 
-### 17. Liability to pay a contribution to the Fund[^key-ec907dd012f7d1616c43866c1357791c]
+### 17. Liability to pay a contribution to the Fund[^c-ec907dd012f7d1616c43866c1357791c]
 
 For the purposes of section 28K(2)(a) of the Act, the proportion of the excess is prescribed to be 67.1%.
 
-### 18. Matters of special urgency[^key-a351572befffb776568cb41173b0ca97]
+### 18. Matters of special urgency[^c-a351572befffb776568cb41173b0ca97]
 
-(1)[^key-09ffe696717b7fa797185f0c30b855f6] The Board may make children’s legal aid available for specially urgent work undertaken before an application for children’s legal aid is determined, if it appears to the Board that it is reasonable in the particular circumstances of the case that the applicant should receive children’s legal aid, in either of the following circumstances—
+(1)[^c-09ffe696717b7fa797185f0c30b855f6] The Board may make children’s legal aid available for specially urgent work undertaken before an application for children’s legal aid is determined, if it appears to the Board that it is reasonable in the particular circumstances of the case that the applicant should receive children’s legal aid, in either of the following circumstances—
 
 - (a) where the application is made by a parent or interested person in relation to proceedings under Part 4 of the 2019 Act and any of the steps specified in paragraph (1A) has required to be taken as a matter of special urgency to protect the applicant’s position, or
 - (b) in any other circumstances the Board is satisfied on application that participation in proceedings is required as a matter of special urgency to protect the applicant’s position.
 
-(1A)[^key-251d3abac2dab791df38c7e3df17e24f] The steps referred to in paragraph (1)(a) are—
+(1A)[^c-251d3abac2dab791df38c7e3df17e24f] The steps referred to in paragraph (1)(a) are—
 
 - (a) such steps as may be appropriate to intimate an intention to make representations in respect of an application for an order,
 - (b) such steps as may be appropriate to make representations in respect of an application for an order,
@@ -366,7 +366,7 @@ For the purposes of section 28K(2)(a) of the Act, the proportion of the excess i
 
 (2) This paragraph applies where—
 
-- (a) at the time the Board receives an application under paragraph (1)(b)[^key-f19ce9866c5ea821d38a934fb2b4ee4a]—
+- (a) at the time the Board receives an application under paragraph (1)(b)[^c-f19ce9866c5ea821d38a934fb2b4ee4a]—
   - (i) an application for children’s legal aid by the applicant in relation to the same proceedings has been refused or treated as abandoned; or
   - (ii) the Board has ceased to make children’s legal aid in respect of the same proceedings available to the applicant;
 - (b) the Board has given the applicant an opportunity to show that there is a realistic prospect that children’s legal aid will be granted following an application for review or a further application; and
@@ -374,7 +374,7 @@ For the purposes of section 28K(2)(a) of the Act, the proportion of the excess i
 
 (3) This paragraph applies where—
 
-- (a) the Board, on receipt of an application under paragraph (1)(b)[^key-42fd8f3f3f3260cd3af6b63474a87f12], has called on the applicant to provide the Board with sufficient information to enable the Board to determine whether the conditions mentioned in Part 5A of the Act or regulation 5 are met;
+- (a) the Board, on receipt of an application under paragraph (1)(b)[^c-42fd8f3f3f3260cd3af6b63474a87f12], has called on the applicant to provide the Board with sufficient information to enable the Board to determine whether the conditions mentioned in Part 5A of the Act or regulation 5 are met;
 - (b) the Board is satisfied either—
   - (i) that the applicant has had sufficient opportunity to provide the information called for; or
   - (ii) that the applicant would have had sufficient opportunity to provide the information called for but for the undue delay on the part of the solicitor in submitting the application under paragraph (1)(b); and
@@ -402,7 +402,7 @@ For the purposes of section 28K(2)(a) of the Act, the proportion of the excess i
 - (a) the solicitor had reasonable grounds for believing, on the information available at the time the work was done, that the applicant would be eligible for children’s legal aid in terms of the Act; and
 - (b) the work was actually, necessarily and reasonably done, due regard being had to economy.
 
-### 19. Notification of decision[^key-63f8a5b226207f68b475f3c69f251070]
+### 19. Notification of decision[^c-63f8a5b226207f68b475f3c69f251070]
 
 (1) The Board must give notice of its decision to grant or, as the case may be, refuse, legal aid to the applicant and the applicant’s solicitor.
 
@@ -436,7 +436,7 @@ For the purposes of section 28K(2)(a) of the Act, the proportion of the excess i
 
 (5) Where the Board refuses an application it must inform the applicant and the applicant’s solicitor that the applicant may apply for a review under section 28H of the Act[^f00011], except where the refusal follows a review under that section.
 
-### 20. Application for review or review of conditions[^key-921492647362ab7b1def52b77b84968c]
+### 20. Application for review or review of conditions[^c-921492647362ab7b1def52b77b84968c]
 
 (1) An application for a review of an application for children’s legal aid under section 28H of the Act must—
 
@@ -448,7 +448,7 @@ For the purposes of section 28K(2)(a) of the Act, the proportion of the excess i
 - (a) be lodged with the Board within 15 days of the time when the applicant was notified of the conditions imposed by the Board under section 28G[^f00013] of the Act (or such longer time as the Board may in the circumstances allow); and
 - (b) include a statement of any matters which the applicant wishes the Board to take into account in reviewing the conditions.
 
-### 21. Employment of counsel and expert witnesses and prior approval of the Board in cases of work of an unusual nature or likely to involve unusually large expenditure[^key-2058569bb9ab0c6bf89bdee365e5d605]
+### 21. Employment of counsel and expert witnesses and prior approval of the Board in cases of work of an unusual nature or likely to involve unusually large expenditure[^c-2058569bb9ab0c6bf89bdee365e5d605]
 
 (1) Subject to paragraph (2), the prior approval of the Board is required—
 
@@ -460,7 +460,7 @@ For the purposes of section 28K(2)(a) of the Act, the proportion of the excess i
 
 (2) Paragraph (1) does not apply where the Board, on an application made to it for retrospective approval for the employment of counsel, of an expert witness, for work of an unusual nature, or, as the case may be, work likely to involve unusually large expenditure, considers that that employment or work would have been approved by it and that there was special reason why prior approval was not applied for.
 
-### 22. Duty to report changes of circumstances[^key-62f900ebaba22deb242113e28f71bd2c]
+### 22. Duty to report changes of circumstances[^c-62f900ebaba22deb242113e28f71bd2c]
 
 (1) It is the duty of an applicant, an assisted person or a person acting on behalf of an applicant or assisted person where the facts are within the knowledge of that person, immediately to inform the Board of—
 
@@ -476,11 +476,11 @@ For the purposes of section 28K(2)(a) of the Act, the proportion of the excess i
 
 (4) No solicitor or counsel is precluded, by reason of any privilege arising out of the relationship between counsel, solicitor and client from informing the Board of, or drawing the Board’s attention to, any matter specified in paragraphs (1) and (2).
 
-**23.**[^key-babd2efd7b700c681a87670bb3aa3f92] (1) The Board from time to time may directly request from the applicant or assisted person, or a solicitor or counsel acting for the applicant or assisted person, information relating to any change in circumstances, financial or otherwise.
+**23.**[^c-babd2efd7b700c681a87670bb3aa3f92] (1) The Board from time to time may directly request from the applicant or assisted person, or a solicitor or counsel acting for the applicant or assisted person, information relating to any change in circumstances, financial or otherwise.
 
 (2) No solicitor or counsel is precluded, by reason of any privilege arising out of the relationship between counsel, solicitor and client from providing the Board with any information requested in accordance with paragraph (1).
 
-### 24. Duty to report abuse of children’s legal aid[^key-bdc2735aa2b32cd713a8d008002bfa82]
+### 24. Duty to report abuse of children’s legal aid[^c-bdc2735aa2b32cd713a8d008002bfa82]
 
 (1) Where an assisted person’s solicitor or counsel has reason to believe that the assisted person has—
 
@@ -491,7 +491,7 @@ the solicitor or counsel must immediately draw this matter to the attention of t
 
 (2) No solicitor or counsel is precluded, by reason of any privilege arising out of the relationship between counsel, solicitor and client, from disclosing to the Board any information, or from giving any opinion, which that solicitor or counsel is required to disclose or give to the Board under the Act or these Regulations, or which may enable the Board to perform its functions thereunder.
 
-### 25. Change of nominated solicitor[^key-7953bf99bfe11655201441b237fb220e]
+### 25. Change of nominated solicitor[^c-7953bf99bfe11655201441b237fb220e]
 
 (1) Where the solicitor nominated by an assisted person determines that he or she should cease to act for that person, the solicitor must—
 
@@ -507,17 +507,17 @@ the solicitor or counsel must immediately draw this matter to the attention of t
 
 (4) On receipt of an application under paragraph (3) the Board, if it is satisfied that there is good reason for the application and that it is reasonable in the particular circumstances of the case for the assisted person to continue to receive legal aid, may grant the application.
 
-### 26. Duty to report[^key-4310eb1731bf8aa54cbe653cbc07dd31]
+### 26. Duty to report[^c-4310eb1731bf8aa54cbe653cbc07dd31]
 
 (1) It is the duty of the solicitor acting for an applicant or assisted person to report to the Board on such matters and in such form as the Board may require, which may include an online form, and in accordance with any guidance issued from time to time by the Board.
 
 (2) No solicitor is precluded, by reason of any privilege arising out of the relationship between solicitor and client, from making such a report as is referred to in paragraph (1).
 
-### 27. Power of Board to modify or impose conditions[^key-a70f8b1c7b6d6d220c0ce8c121637af4]
+### 27. Power of Board to modify or impose conditions[^c-a70f8b1c7b6d6d220c0ce8c121637af4]
 
 Where the Board has made children’s legal aid available in relation to any proceedings under the 2011 Act, the Board may, at any time prior to the conclusion of the proceedings, if it considers it expedient, modify any conditions imposed by it under section 28G of the Act, or impose conditions (or as the case may be additional conditions) by virtue of that section.
 
-### 28. Power of Board to amend determination[^key-35173c2b5358b25a1e1326dfd0f03758]
+### 28. Power of Board to amend determination[^c-35173c2b5358b25a1e1326dfd0f03758]
 
 (1) If the Board is satisfied that—
 
@@ -535,7 +535,7 @@ it may redetermine that person’s disposable income, disposable capital and max
 
 (3) Where the amount of the actual contribution required to be paid by the assisted person has been fixed at a sum less than the maximum contribution which that person could be required to contribute, and it appears to the Board that the cost of the proceedings is likely to exceed or has exceeded the amount of that actual contribution, it may increase the actual contribution which is required to be paid.
 
-### 29. Power of Board to suspend availability of children’s legal aid[^key-e1adc75ee24b676f6d0869dca19973c8]
+### 29. Power of Board to suspend availability of children’s legal aid[^c-e1adc75ee24b676f6d0869dca19973c8]
 
 (1) The Board may suspend for a period of up to 90 days the availability of children’s legal aid to an assisted person (and, in that event, must notify the assisted person in terms of regulation 19 (notification of decision) where satisfied that—
 
@@ -551,7 +551,7 @@ it may redetermine that person’s disposable income, disposable capital and max
 - (b) suspend the availability of children’s legal aid to the assisted person for one further period of up to 90 days; or
 - (c) cease to make such children’s legal aid available to the assisted person in terms of regulations 30, 31 and 33.
 
-### 30. Termination of children’s legal aid on change of circumstances[^key-796a4dfcfff25794f36a45f1df052017]
+### 30. Termination of children’s legal aid on change of circumstances[^c-796a4dfcfff25794f36a45f1df052017]
 
 The Board may cease to make children’s legal aid available to an assisted person if—
 
@@ -564,7 +564,7 @@ The Board may cease to make children’s legal aid available to an assisted pers
 - (c) in the case of children’s legal aid under section 28D of the Act[^f00015], it is no longer in the best interests of the child in the particular circumstances of the case that children’s legal aid be made available to the child; or
 - (d) in the case of children’s legal aid under section 28E(5) or section 28F of the Act[^f00016], the assisted person no longer has substantial grounds for making or responding to the appeal.
 
-### 31. Termination of children’s legal aid other than on change of circumstances[^key-ec66005697fa76befcdb655d1909ddee]
+### 31. Termination of children’s legal aid other than on change of circumstances[^c-ec66005697fa76befcdb655d1909ddee]
 
 The Board may cease to make children’s legal aid available to an assisted person—
 
@@ -574,9 +574,9 @@ The Board may cease to make children’s legal aid available to an assisted pers
   - (iii) has failed without reasonable excuse to attend for an interview or to provide information or documents when so required under these Regulations; or
 - (b) if it is satisfied that there has been an error or mistake in the assessment as to whether it is reasonable in the particular circumstances of the case that the assisted person should receive children’s legal aid, and that children’s legal aid should never have been made available.
 
-**32.**[^key-7d01868b7ac74f4fab889b85090a0f02] If an applicant or assisted person fails to provide information requested by the Board under regulation 23 (duty to report changes of circumstances), the Board has the right to recover from that person the amount paid out of the Fund in respect of the fees and outlays of that person’s solicitors and counsel less any amount received from that person by way of contribution.
+**32.**[^c-7d01868b7ac74f4fab889b85090a0f02] If an applicant or assisted person fails to provide information requested by the Board under regulation 23 (duty to report changes of circumstances), the Board has the right to recover from that person the amount paid out of the Fund in respect of the fees and outlays of that person’s solicitors and counsel less any amount received from that person by way of contribution.
 
-### 33. Termination of children’s legal aid in cases of false information, etc.[^key-06429cdfb6fdbf743509669ef48ff433]
+### 33. Termination of children’s legal aid in cases of false information, etc.[^c-06429cdfb6fdbf743509669ef48ff433]
 
 (1) This regulation applies where after giving a person an opportunity of submitting representations, the Board is satisfied that that person has—
 
@@ -595,7 +595,7 @@ The Board may cease to make children’s legal aid available to an assisted pers
 - (b) to children’s legal aid in relation to any later stages of the same proceedings in the same children’s hearing, court or any court to which those proceedings may be remitted; and
 - (c) to children’s legal aid in any appellate proceedings in relation to the same action, cause or matter, unless the Board considers that there is special reason to make children’s legal aid available for such appellate proceedings.
 
-### 34. Termination on request by assisted person[^key-8cdd0aa1359ac8eb41455db7cd0a16fa]
+### 34. Termination on request by assisted person[^c-8cdd0aa1359ac8eb41455db7cd0a16fa]
 
 (1) The Board will cease to make children’s legal aid available to an assisted person where the conditions in paragraph (2) are satisfied.
 
@@ -607,7 +607,7 @@ The Board may cease to make children’s legal aid available to an assisted pers
 
 ## PART 4 — CHILDREN’S LEGAL AID: DUTY SOLICITOR SCHEME
 
-**35.**[^key-077443f071ecf9d594ce0bf32227658a] In circumstances where the Board has arranged, in accordance with section 31(8) of the Act, that a solicitor is to be available for the purpose of providing to a child children’s legal aid under section 28C of the Act[^f00017]
+**35.**[^c-077443f071ecf9d594ce0bf32227658a] In circumstances where the Board has arranged, in accordance with section 31(8) of the Act, that a solicitor is to be available for the purpose of providing to a child children’s legal aid under section 28C of the Act[^f00017]
 
 - (a) section 31(1) of the Act[^f00018] does not apply; and
 - (b) the children’s legal aid referred to must be provided only by the solicitor so made available.
@@ -626,13 +626,13 @@ Edinburgh
 
 Regulation 10
 
-**1.**[^key-971ccc1ef603234e91cd017ea6c2d72a] (1) The income of the person concerned from any source is taken to be the income which that person may reasonably expect to receive (in cash or in kind) during the period of computation.
+**1.**[^c-971ccc1ef603234e91cd017ea6c2d72a] (1) The income of the person concerned from any source is taken to be the income which that person may reasonably expect to receive (in cash or in kind) during the period of computation.
 
 (2) In this paragraph “period of computation” means the period of one calendar month immediately preceding the date of application for children’s legal aid, or such other period as in the particular circumstances of any case the Board may consider to be appropriate.
 
-**2.**[^key-496a524ea77897ef7fd86627b498ac43] The income in respect of any emolument, benefit or privilege receivable otherwise than in cash is to be estimated at such a sum as in all the circumstances is just and equitable.
+**2.**[^c-496a524ea77897ef7fd86627b498ac43] The income in respect of any emolument, benefit or privilege receivable otherwise than in cash is to be estimated at such a sum as in all the circumstances is just and equitable.
 
-**3.**[^key-74cde0cdd1ed9e49839e1b35a08763b1] (1) The income from a trade, business or gainful occupation other than an employment at a wage or salary is deemed to be whichever of the following the Board considers more appropriate and practicable—
+**3.**[^c-74cde0cdd1ed9e49839e1b35a08763b1] (1) The income from a trade, business or gainful occupation other than an employment at a wage or salary is deemed to be whichever of the following the Board considers more appropriate and practicable—
 
 - (a) the profits which have accrued or will accrue to the person concerned in respect of the period of computation; or
 - (b) the drawings of the person concerned.
@@ -642,14 +642,14 @@ Regulation 10
 - (a) the Board may have regard to the profits of the last accounting period of such trade, business or gainful occupation for which accounts have been prepared; and
 - (b) there is to be deducted all sums necessarily expended to earn those profits, but no deduction is to be made in respect of the living expenses of the person concerned or any member of that person’s family or household, except in so far as that person is wholly or mainly employed in that trade or business and such living expenses form part of that person’s remuneration.
 
-**4.**[^key-af8ab5254962087f15b56baa84f14526] In computing the income of the person concerned there is to be left out of account—
+**4.**[^c-af8ab5254962087f15b56baa84f14526] In computing the income of the person concerned there is to be left out of account—
 
 - (a) any income tax paid or payable on income treated under the provisions of this Schedule as the person’s income;
 - (b) the amount estimated to have been paid by way of contributions under the 1992 Act or any scheme made under that Act in the calendar month immediately preceding the date of application for children’s legal aid;
 - (c) when it would be reasonable to do so, an amount to provide for the care of any dependent child living with the person concerned during the time that person is absent from the home by reason of employment; and
 - (d) the amount of any contribution paid, whether under a legal obligation or not, to an occupational pension scheme within the meaning of the Social Security Pensions Act 1975[^f00019] or to a personal pension scheme within the meaning of section 1 of the Pension Schemes Act 1993[^f00020].
 
-**5.**[^key-462cac2a016ff6b92f7e87953b385c52] In computing the disposable income of the person concerned, there is to be disregarded any payments made in accordance with—
+**5.**[^c-462cac2a016ff6b92f7e87953b385c52] In computing the disposable income of the person concerned, there is to be disregarded any payments made in accordance with—
 
 - (a) income support;
 - (b) income-based jobseeker’s allowance;
@@ -658,37 +658,37 @@ Regulation 10
 - (e) universal credit;
 - (f) personal independence payment;
 - (g) armed forces independence payment;
-- (h)[^key-e479c2e5f4ff6757a1270ac92456ffe0] any Scottish child payment;
-- (i)[^key-b3c1c6d74fcd0c7ba37b31bb299e2656] child disability payment given in accordance with the Disability Assistance for Children and Young People (Scotland) Regulations 2021,
+- (h)[^c-e479c2e5f4ff6757a1270ac92456ffe0] any Scottish child payment;
+- (i)[^c-b3c1c6d74fcd0c7ba37b31bb299e2656] child disability payment given in accordance with the Disability Assistance for Children and Young People (Scotland) Regulations 2021,
 - (j) short-term assistance given in accordance with Part 1 of the schedule (short-term assistance) of those Regulations;
-- (k)[^key-34f263258b8ad9b996b16f2b46af9d3b] adult disability payment given in accordance with the Disability Assistance for Working Age People (Scotland) Regulations 2022,
+- (k)[^c-34f263258b8ad9b996b16f2b46af9d3b] adult disability payment given in accordance with the Disability Assistance for Working Age People (Scotland) Regulations 2022,
 - (l) short-term assistance given in accordance with Part 1 of schedule 2 (short-term assistance) of the Regulations mentioned in sub-paragraph (k);
-- (la)[^key-1310d6cf34da2425ae9ae2311063ade7] Scottish adult disability living allowance given in accordance with the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025,
+- (la)[^c-1310d6cf34da2425ae9ae2311063ade7] Scottish adult disability living allowance given in accordance with the Disability Assistance (Scottish Adult Disability Living Allowance) Regulations 2025,
 - (lb) short-term assistance given in accordance with Part 1 of schedule 1 (short-term assistance) of those Regulations,
-- (m)[^key-9fe4d8c29f246d3173ac4c46c7b4c968] any means-tested additional payment made under section 1 or 4 of the 2022 Act[^key-be47867050fc6f024f9f648208c97983];
+- (m)[^c-9fe4d8c29f246d3173ac4c46c7b4c968] any means-tested additional payment made under section 1 or 4 of the 2022 Act[^c-be47867050fc6f024f9f648208c97983];
 - (n) any disability additional payment made under section 5 of the 2022 Act;
-- (o)[^key-2788f95439a2d92e8a813d14112a3215] any means-tested additional payment made under section 1 of the 2023 Act, at any time since the coming into force of that Act;
+- (o)[^c-2788f95439a2d92e8a813d14112a3215] any means-tested additional payment made under section 1 of the 2023 Act, at any time since the coming into force of that Act;
 - (p) any disability additional payment made under section 5 of the 2023 Act, at any time since the coming into force of that Act;
-- (q)[^key-9fbd79e1de9dd70858f80599b1561faf] carer support[^key-9e81763370a0d41108e35cf563af89d5];
-- (r)[^key-613e1cc6b08aeec0631eb655da63c22d] any carer’s allowance paid under section 70 of the 1992 Act or[^key-544163b63866405cb5702e346a08789b] carer’s allowance supplement under section 81 of the Social Security (Scotland) Act 2018;
+- (q)[^c-9fbd79e1de9dd70858f80599b1561faf] carer support[^c-9e81763370a0d41108e35cf563af89d5];
+- (r)[^c-613e1cc6b08aeec0631eb655da63c22d] any carer’s allowance paid under section 70 of the 1992 Act or[^c-544163b63866405cb5702e346a08789b] carer’s allowance supplement under section 81 of the Social Security (Scotland) Act 2018;
 - (s) an allowance known as a care experienced students bursary paid under regulation 3(1) of the Student Support (Scotland) Regulations 2022;
-- (t)[^key-cd87261b4ba863dd2c3d4f2ff9909ff0] any human trafficking or exploitation victim payment,
+- (t)[^c-cd87261b4ba863dd2c3d4f2ff9909ff0] any human trafficking or exploitation victim payment,
 - (u) any miscarriage of justice payment,
 - (v) any Grenfell Tower payment,
 - (w) any payment made under the Infected Blood Compensation Scheme;
-- (x)[^key-cb6a92693d53a14781843d1865e07705] any care leaver payment.
+- (x)[^c-cb6a92693d53a14781843d1865e07705] any care leaver payment.
 
-**6.**[^key-d1c38c8c84ccfefcf46ee9eb032cb04d] In computing the disposable income of the person concerned, there is to be disregarded a payment by a local authority in exercise of the power in section 20 of the Local Government in Scotland Act 2003[^f00021] (power to advance well-being) and using funds provided by Scottish Ministers from the Scottish Welfare Fund where the payment is—
+**6.**[^c-d1c38c8c84ccfefcf46ee9eb032cb04d] In computing the disposable income of the person concerned, there is to be disregarded a payment by a local authority in exercise of the power in section 20 of the Local Government in Scotland Act 2003[^f00021] (power to advance well-being) and using funds provided by Scottish Ministers from the Scottish Welfare Fund where the payment is—
 
 - (a) a crisis payment made for the purpose of meeting an immediate short term need; or
 - (b) made for the purpose of meeting a need for community care.
 
-**7.**[^key-66ad5317ac26e4a3f620cfc967c074b0] There is to be a deduction in respect of the amounts payable or estimated to be payable in the calendar month immediately following the application by the person concerned in respect of—
+**7.**[^c-66ad5317ac26e4a3f620cfc967c074b0] There is to be a deduction in respect of the amounts payable or estimated to be payable in the calendar month immediately following the application by the person concerned in respect of—
 
 - (a) the council tax and the rate as defined in section 99(1) and (2)(a) of the Local Government Finance Act 1992[^f00022]; and
 - (b) charges payable under an order made by virtue of section 37 of the Water Industry (Scotland) Act 2002[^f00023].
 
-**8.**[^key-d4bf608358762a0d8a90b2e197c2b36f] (1) Subject to sub-paragraph (2), there is to be a deduction, in respect of rent of the main or only dwelling in the case of a householder, of the amount of the net rent paid or such part of the net rent paid as is reasonable in the circumstances.
+**8.**[^c-d4bf608358762a0d8a90b2e197c2b36f] (1) Subject to sub-paragraph (2), there is to be a deduction, in respect of rent of the main or only dwelling in the case of a householder, of the amount of the net rent paid or such part of the net rent paid as is reasonable in the circumstances.
 
 (2) Any contributions received from any other person towards that payment of rent is taken into account as income, and the Board is to decide which is the main dwelling, where the person concerned resides in more than one dwelling in which that person has an interest.
 
@@ -702,9 +702,9 @@ Regulation 10
 - (a) the rent less any proceeds of subletting any part of the premises in respect of which the rent is paid or the outgoings incurred; or
 - (b) where any person or persons other than the person concerned, any spouse of that person or persons, or any dependent of that person or persons is accommodated, otherwise than as a subtenant, in the premises for which the rent is paid, the rent less such an amount as the Board may determine to be reasonably attributable to the accommodation of such person.
 
-**9.**[^key-a8faab50e4d563661410ed8382e49487] If the person concerned is not a householder, there is to be a deduction in respect of the cost of that person’s living accommodation of such amount as is reasonable in the circumstances.
+**9.**[^c-a8faab50e4d563661410ed8382e49487] If the person concerned is not a householder, there is to be a deduction in respect of the cost of that person’s living accommodation of such amount as is reasonable in the circumstances.
 
-**10.**[^key-33a07a357c2c8d5426a70dcfd1a34868] (1) There is to be a deduction in respect of the maintenance of the spouse of the person concerned, if the spouses are living together and in respect of the maintenance of any person wholly or substantially maintained by the person concerned, being a member of his or her household, (“a dependent person”) at the following rates—
+**10.**[^c-33a07a357c2c8d5426a70dcfd1a34868] (1) There is to be a deduction in respect of the maintenance of the spouse of the person concerned, if the spouses are living together and in respect of the maintenance of any person wholly or substantially maintained by the person concerned, being a member of his or her household, (“a dependent person”) at the following rates—
 
 - (a) in the case of a spouse, at a rate equivalent to the difference, as at the date when the computation period began, between the income support allowance for a couple where both members are aged not less than 18 (which is specified in column (2) of paragraph 1(3)(d) of Part 1 of Schedule 2 to the Income Support (General) Regulations 1987[^f00025], and the allowance for a single person aged not less than 25 (which is specified in column (2) of paragraph 1(1)(e) of Part 1 of Schedule 2 to those Regulations);
 - (b) in the case of a dependent person aged under 19, at a rate equivalent to the amount specified in column (2) of paragraph 2(1) of Part 1 of Schedule 2 to the Income Support (General) Regulations 1987 appropriate to that person as at the date when the computation period began;
@@ -712,17 +712,17 @@ Regulation 10
 
 (2) In ascertaining whether a person is a dependent person regard is to be had to their income and other resources.
 
-**11.**[^key-ac2ae4453a71fab0485abc93103ffc0a] If the person concerned is making and, throughout such period as the Board may consider adequate, has regularly made payments in good faith for the maintenance of a spouse who is living apart, of a former spouse, of a child or of a relative who is not (in any such cases) a member of the household of the person concerned, there is to be a deduction at the rate of such payments or at such rate, not exceeding the rate of such payments, as in all the circumstances is reasonable.
+**11.**[^c-ac2ae4453a71fab0485abc93103ffc0a] If the person concerned is making and, throughout such period as the Board may consider adequate, has regularly made payments in good faith for the maintenance of a spouse who is living apart, of a former spouse, of a child or of a relative who is not (in any such cases) a member of the household of the person concerned, there is to be a deduction at the rate of such payments or at such rate, not exceeding the rate of such payments, as in all the circumstances is reasonable.
 
-**12.**[^key-837774ec84d79a7530d8258948cdb166] Where the person concerned must provide for any other matter the Board may make an allowance of such amount as it considers to be reasonable in the circumstances of the case.
+**12.**[^c-837774ec84d79a7530d8258948cdb166] Where the person concerned must provide for any other matter the Board may make an allowance of such amount as it considers to be reasonable in the circumstances of the case.
 
-**13.**[^key-d1ee753593cc867ebdcec95e5a55a858] In computing the income from any source there is to be disregarded such amount, if any, as the Board considers to be reasonable having regard to the nature of the income or to any other circumstances of the case.
+**13.**[^c-d1ee753593cc867ebdcec95e5a55a858] In computing the income from any source there is to be disregarded such amount, if any, as the Board considers to be reasonable having regard to the nature of the income or to any other circumstances of the case.
 
 ## SCHEDULE 2 — ASSESSMENT OF DISPOSABLE CAPITAL FOR THE PURPOSES OF CHILDREN’S LEGAL AID
 
 Regulation 10
 
-**1.**[^key-dc4c61474d5f82c806ece0873aabb525] (1) Subject to these Regulations, there is to be included in the computation of the amount of the capital of the person concerned the amount or value of every resource of a capital nature ascertained as on the date of the application for legal aid.
+**1.**[^c-dc4c61474d5f82c806ece0873aabb525] (1) Subject to these Regulations, there is to be included in the computation of the amount of the capital of the person concerned the amount or value of every resource of a capital nature ascertained as on the date of the application for legal aid.
 
 (2) Where it is brought to the notice of the Board that between the date of the application and the determination—
 
@@ -733,67 +733,67 @@ Regulation 10
 
 the Board is to compute the capital resources of that person in the light of such facts, and the resources as so computed are to be taken into account in the determination.
 
-**2.**[^key-70e6f24d2b54e24d015e3152e236de7a] So far as any resource does not consist of money, the amount or value of the resource is to be taken to be—
+**2.**[^c-70e6f24d2b54e24d015e3152e236de7a] So far as any resource does not consist of money, the amount or value of the resource is to be taken to be—
 
 - (a) the amount which that resource would realise if sold in the open market; or
 - (b) if there is only a restricted market for that resource, the amount which it would realise in that market; or
 - (c) the amount or value of the resource assessed in such manner as appears to the Board to be just and equitable.
 
-**3.**[^key-6101aad5ba011d0bd8869ab6df1e2796] Where money is due to the person concerned, whether immediately payable or otherwise and whether the payment the money is secured or not, the value is taken to be the present value of the money.
+**3.**[^c-6101aad5ba011d0bd8869ab6df1e2796] Where money is due to the person concerned, whether immediately payable or otherwise and whether the payment the money is secured or not, the value is taken to be the present value of the money.
 
-**4.**[^key-14684709882dceaf58ed3285a6c5fe75] If the person concerned stands in relation to a company in a position analogous to that of a sole owner or partner in the business of that company, the Board may, instead of ascertaining the value of stocks, shares, bonds or debentures in that company, treat the person as if that person were such a sole owner or partner and compute the amount of the person’s capital in respect of that resource in accordance with paragraph 5 of this Schedule.
+**4.**[^c-14684709882dceaf58ed3285a6c5fe75] If the person concerned stands in relation to a company in a position analogous to that of a sole owner or partner in the business of that company, the Board may, instead of ascertaining the value of stocks, shares, bonds or debentures in that company, treat the person as if that person were such a sole owner or partner and compute the amount of the person’s capital in respect of that resource in accordance with paragraph 5 of this Schedule.
 
-**5.**[^key-42362ab16756a39059a695b3c0abf56b] Where the person concerned is, or is to be treated as, the sole owner of or a partner in any business, the value of such business or that person’s share in the business to that person is taken to be either—
+**5.**[^c-42362ab16756a39059a695b3c0abf56b] Where the person concerned is, or is to be treated as, the sole owner of or a partner in any business, the value of such business or that person’s share in the business to that person is taken to be either—
 
 - (a) such sum, or that person’s share of such sum, as the case may be, as could be withdrawn from the assets of such business without substantially impairing the profits of such business or the normal development of the business; or
 - (b) such sum as that person could borrow on the security of his or her interest in such business without substantially injuring the commercial credit of that business, whichever is the greater.
 
-**6.**[^key-bd7a756d7e7e254eab8dff0db4a37dbc] The value of any interest, whether vested or contingent, of the person concerned in the fee of any heritable or moveable property forming the whole or part of any trust or other estate, is to be computed by the Board in such manner as appears to it to be both equitable and practicable.
+**6.**[^c-bd7a756d7e7e254eab8dff0db4a37dbc] The value of any interest, whether vested or contingent, of the person concerned in the fee of any heritable or moveable property forming the whole or part of any trust or other estate, is to be computed by the Board in such manner as appears to it to be both equitable and practicable.
 
-**7.**[^key-db397cbf1ddd4725a5b1b274352c41f4] In computing the amount of capital of the person concerned where that person is in receipt of income support under section 124 of the 1992 Act, income-related employment and support allowance or universal credit, there is disregarded any amount which exceeds the sum for the time being specified as the disposable capital limit under section 28K(2)(b)[^f00026] of the Act.
+**7.**[^c-db397cbf1ddd4725a5b1b274352c41f4] In computing the amount of capital of the person concerned where that person is in receipt of income support under section 124 of the 1992 Act, income-related employment and support allowance or universal credit, there is disregarded any amount which exceeds the sum for the time being specified as the disposable capital limit under section 28K(2)(b)[^f00026] of the Act.
 
-**8.**[^key-d98003bb0f5c27b8f47c4ecbb0e1abfa] In computing the amount of capital of the person concerned, there is wholly disregarded—
+**8.**[^c-d98003bb0f5c27b8f47c4ecbb0e1abfa] In computing the amount of capital of the person concerned, there is wholly disregarded—
 
 - (a) a back to work bonus (payable under the Jobseekers Act 1995)[^f00027];
-- (b) any payment made under the Community Care (Direct Payments) Act 1996[^f00028] or as a direct payment as defined in section 4(2) of the Social Care (Self-directed Support) (Scotland) Act 2013[^key-a8c4d545d9c9aa50ecbe8f80ed602730];
+- (b) any payment made under the Community Care (Direct Payments) Act 1996[^f00028] or as a direct payment as defined in section 4(2) of the Social Care (Self-directed Support) (Scotland) Act 2013[^c-a8c4d545d9c9aa50ecbe8f80ed602730];
 - (c) a payment by a local authority in exercise of the powers in section 20 of the Local Government in Scotland Act 2003[^f00030] (power to advance well-being) and using funds provided by the Scottish Ministers from the Scottish Welfare Fund where the payment is—
   - (i) a crisis payment made for the purpose of meeting an immediate short term need; or
   - (ii) made for the purpose of meeting a need for community care;
-- (d)[^key-b978df7bf66733adebb68c5830a94bf9] any payment made under the Windrush Compensation Scheme;
+- (d)[^c-b978df7bf66733adebb68c5830a94bf9] any payment made under the Windrush Compensation Scheme;
 - (e) any Windrush connected payment;
 - (f) any Scottish child payment;
-- (g)[^key-0250ca074a12e30294b2e7c5e6b94aae] any payment made under Part 4 of the 2021 Act (financial redress for historical child abuse), or any relevant payment made or to be made prior to the date of commencement of the redress scheme;
-- (h)[^key-c56ff1ac673879d0f3f39eea8c057413] any payment made under the Scottish Infected Blood Support Scheme;
-- (i) any additional payment made under either the 2022 Act or the 2023 Act, at any time since the coming into force of those Acts[^key-1f37b2f3bcd06a1b784656a50877c9f5];
-- (j) any temporary additional amount to the social fund winter fuel payment paid by virtue of the Social Fund Winter Fuel Payment (Temporary Increase) Regulations 2022 or the Social Fund Winter Fuel Payment (Temporary Increase) Regulations 2023[^key-87f7727ea1345ea4e636afa924fad4a7];
-- (k)[^key-a2df606e619e0a370e8f4c9a43c48a3f] any payment of carer support[^key-8d02626a5fb35ca98210207c91ce4843];
-- (l)[^key-6d871c93bda7c10764916e22d61233eb] any carer’s allowance paid under section 70 of the 1992 Act or[^key-ba84936122edf570e485300095eee1c3] carer’s allowance supplement paid under section 81 of the Social Security (Scotland) Act 2018;
+- (g)[^c-0250ca074a12e30294b2e7c5e6b94aae] any payment made under Part 4 of the 2021 Act (financial redress for historical child abuse), or any relevant payment made or to be made prior to the date of commencement of the redress scheme;
+- (h)[^c-c56ff1ac673879d0f3f39eea8c057413] any payment made under the Scottish Infected Blood Support Scheme;
+- (i) any additional payment made under either the 2022 Act or the 2023 Act, at any time since the coming into force of those Acts[^c-1f37b2f3bcd06a1b784656a50877c9f5];
+- (j) any temporary additional amount to the social fund winter fuel payment paid by virtue of the Social Fund Winter Fuel Payment (Temporary Increase) Regulations 2022 or the Social Fund Winter Fuel Payment (Temporary Increase) Regulations 2023[^c-87f7727ea1345ea4e636afa924fad4a7];
+- (k)[^c-a2df606e619e0a370e8f4c9a43c48a3f] any payment of carer support[^c-8d02626a5fb35ca98210207c91ce4843];
+- (l)[^c-6d871c93bda7c10764916e22d61233eb] any carer’s allowance paid under section 70 of the 1992 Act or[^c-ba84936122edf570e485300095eee1c3] carer’s allowance supplement paid under section 81 of the Social Security (Scotland) Act 2018;
 - (m) any payment made by way of an allowance known as a care experienced students bursary paid under regulation 3(1) of the Student Support (Scotland) Regulations 2022;
-- (n)[^key-f2e790f8d8ab5bc072b434ffd651def2] any human trafficking or exploitation victim payment,
+- (n)[^c-f2e790f8d8ab5bc072b434ffd651def2] any human trafficking or exploitation victim payment,
 - (o) any miscarriage of justice payment,
 - (p) any Grenfell Tower payment,
 - (q) any payment made under the Infected Blood Compensation Scheme.
-- (r)[^key-997252a3ad55398e4e38c5080d7c88a8] any care leaver payment.
+- (r)[^c-997252a3ad55398e4e38c5080d7c88a8] any care leaver payment.
 
-**9.**[^key-4670e6293f9eca65da2b8fc36c27cda8] Save in exceptional circumstances, nothing is to be included in the amount of capital of the person concerned in respect of—
+**9.**[^c-4670e6293f9eca65da2b8fc36c27cda8] Save in exceptional circumstances, nothing is to be included in the amount of capital of the person concerned in respect of—
 
 - (a) the household furniture and effects of the dwelling house occupied by that person;
 - (b) articles of personal clothing; and
 - (c) the personal tools and equipment of that person’s trade, not being part of the plant or equipment of a business to which the provisions of paragraph 5 of this Schedule apply.
 
-**10.**[^key-c7236c5e1c728a7eacdd989fb8145b96] (1) In computing the amount of capital of the person concerned, the value of any interest in the main or only dwelling in which that person resides is to be wholly disregarded.
+**10.**[^c-c7236c5e1c728a7eacdd989fb8145b96] (1) In computing the amount of capital of the person concerned, the value of any interest in the main or only dwelling in which that person resides is to be wholly disregarded.
 
 (2) Where the person concerned resides in more than one dwelling in which that person has an interest, the Board is to decide which is the main dwelling and is to take into account, in respect of the value to that person of any interest in a dwelling which is not the main dwelling, any sum which might be obtained by borrowing money on the security of that dwelling.
 
-**11.**[^key-0e4e74b12afffd9a0b795eafd8ec4ff9] Where the person concerned has received or is entitled to receive from a body of which that person is a member a sum of money by way of financial assistance towards the cost of the proceedings in respect of which legal aid is applied for, such sum is disregarded.
+**11.**[^c-0e4e74b12afffd9a0b795eafd8ec4ff9] Where the person concerned has received or is entitled to receive from a body of which that person is a member a sum of money by way of financial assistance towards the cost of the proceedings in respect of which legal aid is applied for, such sum is disregarded.
 
-**12.**[^key-1ed7e43ee5c17a405b49cfd0c1e93f50] The value of any life assurance or endowment policy is taken to be the amount which the person concerned could readily borrow on the security of that life assurance or endowment policy.
+**12.**[^c-1ed7e43ee5c17a405b49cfd0c1e93f50] The value of any life assurance or endowment policy is taken to be the amount which the person concerned could readily borrow on the security of that life assurance or endowment policy.
 
-**13.**[^key-44b414f76fdb7e1cc213d35e1a09c2fb] Where under any statute, bond, agreement, indemnity, guarantee or other instrument the person concerned is under a contingent liability to pay any sum or is liable to pay a sum not yet ascertained, an allowance is to be made of such an amount as is reasonably likely to become payable within the 12 months immediately following the date of application for children’s legal aid.
+**13.**[^c-44b414f76fdb7e1cc213d35e1a09c2fb] Where under any statute, bond, agreement, indemnity, guarantee or other instrument the person concerned is under a contingent liability to pay any sum or is liable to pay a sum not yet ascertained, an allowance is to be made of such an amount as is reasonably likely to become payable within the 12 months immediately following the date of application for children’s legal aid.
 
-**14.**[^key-014c8b7694501e343d5a0446c515f65d] An allowance may be made in respect of any debt owed by the person concerned (other than a debt secured on the dwelling or dwellings in which that person resides) to the extent to which the Board considers reasonable, provided that the person concerned produces evidence to the Board’s satisfaction that the debt or part of the debt will be discharged within the twelve months immediately following the date of the application.
+**14.**[^c-014c8b7694501e343d5a0446c515f65d] An allowance may be made in respect of any debt owed by the person concerned (other than a debt secured on the dwelling or dwellings in which that person resides) to the extent to which the Board considers reasonable, provided that the person concerned produces evidence to the Board’s satisfaction that the debt or part of the debt will be discharged within the twelve months immediately following the date of the application.
 
-**15.**[^key-39a4973322c2411cdfa82fd04ad055cf] (1) Where the person concerned is of pensionable age and his or her annual disposable income (excluding any net income derived from capital) is less than the figure prescribed in section 28K(2)(a) of the Act there is disregarded the amount of capital as specified in the following table—
+**15.**[^c-39a4973322c2411cdfa82fd04ad055cf] (1) Where the person concerned is of pensionable age and his or her annual disposable income (excluding any net income derived from capital) is less than the figure prescribed in section 28K(2)(a) of the Act there is disregarded the amount of capital as specified in the following table—
 
 | *Annual disposable income (excluding net income derived from capital* | *Amount of capital disregarded* |
 | --- | --- |
@@ -807,7 +807,7 @@ the Board is to compute the capital resources of that person in the light of suc
 
 (2) In this Schedule “pensionable age” means the age of 60.
 
-**16.**[^key-34ac7693f0d4b816679d6e12206f0a61] In computing the amount of capital there is disregarded such an amount of capital, if any, as the Board in the circumstances of the case may in its discretion decide.
+**16.**[^c-34ac7693f0d4b816679d6e12206f0a61] In computing the amount of capital there is disregarded such an amount of capital, if any, as the Board in the circumstances of the case may in its discretion decide.
 
 EXPLANATORY NOTE
 
@@ -829,296 +829,296 @@ Regulation 35 relates to a children’s legal aid duty solicitor scheme. Under t
 
 [^f00001]: Footnote: [1986 c.47](https://www.legislation.gov.uk/ukpga/1986/47) (“the Act”); section 9(2)(dd) was inserted by section 32 of the Access to Justice Act [1999 (c.22)](https://www.legislation.gov.uk/ukpga/1999/22), sections 28K and 28L were inserted by section 191 of the Children’s Hearings (Scotland) Act [2011 (asp 1](https://www.legislation.gov.uk/asp/2011/1); “the 2011 Act”), and section 31(9) was amended by section 74 and paragraph 36(14) of Schedule 8 to the Law Reform (Miscellaneous Provisions) (Scotland) Act [1990 (c.40)](https://www.legislation.gov.uk/ukpga/1990/40). The functions of the Secretary of State under the Act were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act [1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46). The powers to make these Regulations are exercised by virtue of section 33(2) of the Interpretation and Legislative Reform (Scotland) Act [2010 (asp 10)](https://www.legislation.gov.uk/asp/2010/10). These regulations are subject to the affirmative procedure by virtue of section 33(3) of that Act.
 
-[^key-3cbdbfe7614e3a5aaa580aa0cd53fdeb]: Commencement: Reg. 1 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-3cbdbfe7614e3a5aaa580aa0cd53fdeb]: Commencement: Reg. 1 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-03ef22bf99ba3a878feea1977e6af734]: Commencement: Reg. 2 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-03ef22bf99ba3a878feea1977e6af734]: Commencement: Reg. 2 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00002]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 
-[^key-3b8b157c38dc2d2d3bd9b859e12efc79]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (26.11.2021) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2021 (S.S.I. 2021/333)](https://www.legislation.gov.uk/ssi/2021/333), [regs. 1](https://www.legislation.gov.uk/ssi/2021/333/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2021/333/regulation/4/2/a)
+[^c-3b8b157c38dc2d2d3bd9b859e12efc79]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (26.11.2021) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2021 (S.S.I. 2021/333)](https://www.legislation.gov.uk/ssi/2021/333), [regs. 1](https://www.legislation.gov.uk/ssi/2021/333/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2021/333/regulation/4/2/a)
 
-[^key-0d886c3354a0ade8cfefa79777069f4c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2023/11/regulation/5/2/a)
+[^c-0d886c3354a0ade8cfefa79777069f4c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/ssi/2023/11/regulation/5/2/a)
 
-[^key-356590ab26bb1b547bec4495e4026cc8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (21.9.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2023 (S.S.I. 2023/178)](https://www.legislation.gov.uk/ssi/2023/178), [regs. 1](https://www.legislation.gov.uk/ssi/2023/178/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/ssi/2023/178/regulation/7/2/a)
+[^c-356590ab26bb1b547bec4495e4026cc8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (21.9.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2023 (S.S.I. 2023/178)](https://www.legislation.gov.uk/ssi/2023/178), [regs. 1](https://www.legislation.gov.uk/ssi/2023/178/regulation/1), [7(2)(a)](https://www.legislation.gov.uk/ssi/2023/178/regulation/7/2/a)
 
-[^key-3e8be9d42c88d26e86c29c76a7393e4e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) substituted (21.9.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2023 (S.S.I. 2023/178)](https://www.legislation.gov.uk/ssi/2023/178), [regs. 1](https://www.legislation.gov.uk/ssi/2023/178/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2023/178/regulation/7/2/b)
+[^c-3e8be9d42c88d26e86c29c76a7393e4e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) substituted (21.9.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2023 (S.S.I. 2023/178)](https://www.legislation.gov.uk/ssi/2023/178), [regs. 1](https://www.legislation.gov.uk/ssi/2023/178/regulation/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2023/178/regulation/7/2/b)
 
-[^key-cc7c5a8d62a649e87f27db1a19373360]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/2/a)
+[^c-cc7c5a8d62a649e87f27db1a19373360]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(2)(a)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/2/a)
 
 [^f00003]: Footnote: Children’s legal aid” is defined in section 28B of the Act; that section was inserted by section 191 of the 2011 Act.
 
-[^key-cd978ff192905a7eef31ce24ac992707]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2026/117/regulation/7/2)
+[^c-cd978ff192905a7eef31ce24ac992707]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [7(2)](https://www.legislation.gov.uk/ssi/2026/117/regulation/7/2)
 
-[^key-a3e03da923d14e2b0952a7e824f0e680]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (15.11.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 4) Regulations 2023 (S.S.I. 2023/313)](https://www.legislation.gov.uk/ssi/2023/313), [regs. 1](https://www.legislation.gov.uk/ssi/2023/313/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2023/313/regulation/10/2)
+[^c-a3e03da923d14e2b0952a7e824f0e680]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (15.11.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 4) Regulations 2023 (S.S.I. 2023/313)](https://www.legislation.gov.uk/ssi/2023/313), [regs. 1](https://www.legislation.gov.uk/ssi/2023/313/regulation/1), [10(2)](https://www.legislation.gov.uk/ssi/2023/313/regulation/10/2)
 
-[^key-dbbe56de49d649a2d5143e2f238fc3c2]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [sch. 1 para. 9(2)](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/9/2) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-dbbe56de49d649a2d5143e2f238fc3c2]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) omitted (15.3.2026) by virtue of [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [sch. 1 para. 9(2)](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/9/2) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-05a06d31723a5ea521c34bfb20441b73]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/2/b)
+[^c-05a06d31723a5ea521c34bfb20441b73]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(2)(b)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/2/b)
 
-[^key-ddbca173f0a211ef0f43346c491871e0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (12.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2024 (S.S.I. 2024/216)](https://www.legislation.gov.uk/ssi/2024/216), [regs. 1](https://www.legislation.gov.uk/ssi/2024/216/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2024/216/regulation/6/2/a)
+[^c-ddbca173f0a211ef0f43346c491871e0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (12.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2024 (S.S.I. 2024/216)](https://www.legislation.gov.uk/ssi/2024/216), [regs. 1](https://www.legislation.gov.uk/ssi/2024/216/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2024/216/regulation/6/2/a)
 
-[^key-0f1881e32928388101880fab9fee36a8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (26.11.2021) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2021 (S.S.I. 2021/333)](https://www.legislation.gov.uk/ssi/2021/333), [regs. 1](https://www.legislation.gov.uk/ssi/2021/333/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2021/333/regulation/4/2/b)
+[^c-0f1881e32928388101880fab9fee36a8]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (26.11.2021) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2021 (S.S.I. 2021/333)](https://www.legislation.gov.uk/ssi/2021/333), [regs. 1](https://www.legislation.gov.uk/ssi/2021/333/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2021/333/regulation/4/2/b)
 
-[^key-374271c46588df4fa36bfe1be4d27db2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(2)(c)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/2/c)
+[^c-374271c46588df4fa36bfe1be4d27db2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(2)(c)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/2/c)
 
-[^key-47e77117c97a7ee4b5d730ac03abd9b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (12.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2024 (S.S.I. 2024/216)](https://www.legislation.gov.uk/ssi/2024/216), [regs. 1](https://www.legislation.gov.uk/ssi/2024/216/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2024/216/regulation/6/2/b)
+[^c-47e77117c97a7ee4b5d730ac03abd9b5]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (12.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2024 (S.S.I. 2024/216)](https://www.legislation.gov.uk/ssi/2024/216), [regs. 1](https://www.legislation.gov.uk/ssi/2024/216/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2024/216/regulation/6/2/b)
 
-[^key-ce82acb7f7798e7db2f4dae1e39f1be7]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) omitted (5.2.2021) by virtue of [The Legal Aid and Advice and Assistance (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/424)](https://www.legislation.gov.uk/ssi/2020/424), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/424/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/ssi/2020/424/regulation/4/2/a)
+[^c-ce82acb7f7798e7db2f4dae1e39f1be7]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) omitted (5.2.2021) by virtue of [The Legal Aid and Advice and Assistance (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/424)](https://www.legislation.gov.uk/ssi/2020/424), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/424/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/ssi/2020/424/regulation/4/2/a)
 
-[^key-7c3eef7681d29d88460a425cd40e84d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (5.2.2021) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/424)](https://www.legislation.gov.uk/ssi/2020/424), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/424/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/ssi/2020/424/regulation/4/2/b)
+[^c-7c3eef7681d29d88460a425cd40e84d0]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (5.2.2021) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/424)](https://www.legislation.gov.uk/ssi/2020/424), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/424/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/ssi/2020/424/regulation/4/2/b)
 
-[^key-8abad550b883a3b4be32770fc30275ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2023/11/regulation/5/2/b)
+[^c-8abad550b883a3b4be32770fc30275ac]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/2/1) inserted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/ssi/2023/11/regulation/5/2/b)
 
-[^key-976f9285bd6371358bdaa0e16324b611]: Commencement: Reg. 3 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-976f9285bd6371358bdaa0e16324b611]: Commencement: Reg. 3 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00004]: Footnote: [S.S.I. 2003/179](https://www.legislation.gov.uk/ssi/2003/179); relevant amending instruments are [S.S.I. 2005/165](https://www.legislation.gov.uk/ssi/2005/165), [2006/615](https://www.legislation.gov.uk/ssi/2006/615) and [2011/216](https://www.legislation.gov.uk/ssi/2011/216).
 
-[^key-e7536706f8c00f83ae37cbbf1b633092]: Commencement: Reg. 4 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-e7536706f8c00f83ae37cbbf1b633092]: Commencement: Reg. 4 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1996/2447](https://www.legislation.gov.uk/uksi/1996/2447); relevant amending instruments are [S.S.I. 2000/399](https://www.legislation.gov.uk/ssi/2000/399), [2003/421](https://www.legislation.gov.uk/ssi/2003/421), [2005/445](https://www.legislation.gov.uk/ssi/2005/445) and [2010/462](https://www.legislation.gov.uk/ssi/2010/462).
 
 [^f00006]: Footnote: [2011 asp 1](https://www.legislation.gov.uk/asp/2011/1).
 
-[^key-053df2cb94e3cc491224a0a7e4bf4b00]: Commencement: Reg. 5 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-053df2cb94e3cc491224a0a7e4bf4b00]: Commencement: Reg. 5 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-574088ff6cf34627180613cb8f445966]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/5/1) substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(3)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/3)
+[^c-574088ff6cf34627180613cb8f445966]: Textual amendment: [Reg. 5(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/5/1) substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(3)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/3)
 
-[^key-f80c9b776d611068e95e34b20b54773e]: Commencement: Reg. 6 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-f80c9b776d611068e95e34b20b54773e]: Commencement: Reg. 6 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-affbdf8d5a1abafe2dd72451e43ecf0a]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/1) inserted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(4)(a)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/4/a)
+[^c-affbdf8d5a1abafe2dd72451e43ecf0a]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/1) inserted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(4)(a)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/4/a)
 
-[^key-243dc08e7871fa6f9668018aa0a61f65]: Textual amendment: Words in [reg. 6(2)(j)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/j) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(a)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/a) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-243dc08e7871fa6f9668018aa0a61f65]: Textual amendment: Words in [reg. 6(2)(j)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/j) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(a)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/a) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-4f0710b066036d7907846ac7a2438f26]: Textual amendment: Words in [reg. 6(2)(k)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/k) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(b)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/b) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-4f0710b066036d7907846ac7a2438f26]: Textual amendment: Words in [reg. 6(2)(k)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/k) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(b)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/b) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-d6789d53e1f812d2e1bb28baab3137c0]: Textual amendment: Words in [reg. 6(2)(l)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/l) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(c)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/c) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-d6789d53e1f812d2e1bb28baab3137c0]: Textual amendment: Words in [reg. 6(2)(l)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/l) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(c)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/c) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-8fe2362e23cf258b772326fefc9d2833]: Textual amendment: Words in [reg. 6(2)(m)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/m) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(d)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/d) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-8fe2362e23cf258b772326fefc9d2833]: Textual amendment: Words in [reg. 6(2)(m)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/m) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(d)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/d) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-f48fc8ad5067f092e392d43b9ff264a2]: Textual amendment: Words in [reg. 6(2)(n)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/n) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(e)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/e) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-f48fc8ad5067f092e392d43b9ff264a2]: Textual amendment: Words in [reg. 6(2)(n)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/n) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(e)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/e) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-1a94533dff795cfd9e43f2ccab3c6b5e]: Textual amendment: Words in [reg. 6(2)(o)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/o) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(f)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/f) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-1a94533dff795cfd9e43f2ccab3c6b5e]: Textual amendment: Words in [reg. 6(2)(o)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/o) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(f)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/f) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-a75d8b82e13fd1bdccc64c2913cad02f]: Textual amendment: Words in [reg. 6(2)(q)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/q) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(g)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/g) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
+[^c-a75d8b82e13fd1bdccc64c2913cad02f]: Textual amendment: Words in [reg. 6(2)(q)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/2/q) substituted (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 3 para. 9(3)(g)](https://www.legislation.gov.uk/ssi/2016/387/schedule/3/paragraph/9/3/g) (with [art. 4(2)](https://www.legislation.gov.uk/ssi/2016/387/article/4/2))
 
-[^key-67faac6edaa77806715f52c46b656b58]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/4) inserted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/4/b)
+[^c-67faac6edaa77806715f52c46b656b58]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/ssi/2013/200/regulation/6/4) inserted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/4/b)
 
-[^key-362c4d6ea5a977a9187703f40e52ba0a]: Commencement: Reg. 7 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-362c4d6ea5a977a9187703f40e52ba0a]: Commencement: Reg. 7 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00007]: Footnote: Part 5A was inserted by section 191 of the 2011 Act.
 
-[^key-3a282dd49bc852d2894934f41b2b05a6]: Commencement: Reg. 8 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-3a282dd49bc852d2894934f41b2b05a6]: Commencement: Reg. 8 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-29839468f5d72f6ddf76f24122988733]: Commencement: Reg. 9 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-29839468f5d72f6ddf76f24122988733]: Commencement: Reg. 9 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-af7d1d830c3f35a6e53d1d7018786bc4]: Commencement: Reg. 10 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-af7d1d830c3f35a6e53d1d7018786bc4]: Commencement: Reg. 10 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-c7ae1f5d975d9ad71b5fc94f8d83f4a8]: Commencement: Reg. 11 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-c7ae1f5d975d9ad71b5fc94f8d83f4a8]: Commencement: Reg. 11 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-7bcfde0c47c8ad9f6c1a0adcf5987f37]: Commencement: Reg. 12 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-7bcfde0c47c8ad9f6c1a0adcf5987f37]: Commencement: Reg. 12 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-051135b13aab13539be673d977a20dd9]: Commencement: Reg. 13 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-051135b13aab13539be673d977a20dd9]: Commencement: Reg. 13 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-9ecd8df7785e770a08c5890a8737bdda]: Commencement: Reg. 14 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-9ecd8df7785e770a08c5890a8737bdda]: Commencement: Reg. 14 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00008]: Footnote: Section 28K was inserted by section 191 of the 2011 Act.
 
-[^key-54c4c0c57fc0bf95c85c9309040a2739]: Commencement: Reg. 15 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-54c4c0c57fc0bf95c85c9309040a2739]: Commencement: Reg. 15 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-2c403af112300bbafe091f6c20c18c6d]: Commencement: Reg. 16 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-2c403af112300bbafe091f6c20c18c6d]: Commencement: Reg. 16 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-ec907dd012f7d1616c43866c1357791c]: Commencement: Reg. 17 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-ec907dd012f7d1616c43866c1357791c]: Commencement: Reg. 17 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-a351572befffb776568cb41173b0ca97]: Commencement: Reg. 18 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-a351572befffb776568cb41173b0ca97]: Commencement: Reg. 18 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-09ffe696717b7fa797185f0c30b855f6]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/18/1) substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(5)(a)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/5/a)
+[^c-09ffe696717b7fa797185f0c30b855f6]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/ssi/2013/200/regulation/18/1) substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(5)(a)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/5/a)
 
-[^key-251d3abac2dab791df38c7e3df17e24f]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/ssi/2013/200/regulation/18/1A) inserted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(5)(b)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/5/b)
+[^c-251d3abac2dab791df38c7e3df17e24f]: Textual amendment: [Reg. 18(1A)](https://www.legislation.gov.uk/ssi/2013/200/regulation/18/1A) inserted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(5)(b)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/5/b)
 
-[^key-f19ce9866c5ea821d38a934fb2b4ee4a]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/ssi/2013/200/regulation/18/2) substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(5)(c)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/5/c)
+[^c-f19ce9866c5ea821d38a934fb2b4ee4a]: Textual amendment: Words in [reg. 18(2)](https://www.legislation.gov.uk/ssi/2013/200/regulation/18/2) substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(5)(c)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/5/c)
 
-[^key-42fd8f3f3f3260cd3af6b63474a87f12]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/ssi/2013/200/regulation/18/3) substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(5)(c)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/5/c)
+[^c-42fd8f3f3f3260cd3af6b63474a87f12]: Textual amendment: Words in [reg. 18(3)](https://www.legislation.gov.uk/ssi/2013/200/regulation/18/3) substituted (8.11.2021) by [The Children’s Legal Assistance (Miscellaneous Amendments and Consequential Provisions) (Scotland) Regulations 2021 (S.S.I. 2021/368)](https://www.legislation.gov.uk/ssi/2021/368), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/368/regulation/1/1), [7(5)(c)](https://www.legislation.gov.uk/ssi/2021/368/regulation/7/5/c)
 
 [^f00009]: Footnote: Relevant amendments to section 4 were made by section 44 and paragraph 1(a) of Schedule 4 to the Legal Aid Act [1988 (c.34)](https://www.legislation.gov.uk/ukpga/1988/34); section 62(1) and paragraph 12(2)(a) of Schedule 1 to the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48); and sections 67 and 68 of the Legal Profession and Legal Aid (Scotland) Act [2007 (asp 5)](https://www.legislation.gov.uk/asp/2007/5).
 
-[^key-63f8a5b226207f68b475f3c69f251070]: Commencement: Reg. 19 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-63f8a5b226207f68b475f3c69f251070]: Commencement: Reg. 19 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00010]: Footnote: Section 28G was inserted by section 191 of the 2011 Act.
 
 [^f00011]: Footnote: Section 28H was inserted by section 191 of the 2011 Act.
 
-[^key-921492647362ab7b1def52b77b84968c]: Commencement: Reg. 20 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-921492647362ab7b1def52b77b84968c]: Commencement: Reg. 20 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00012]: Footnote: Section 28J was inserted by section 191 of the 2011 Act.
 
 [^f00013]: Footnote: Section 28G was inserted by section 191 of the 2011 Act.
 
-[^key-2058569bb9ab0c6bf89bdee365e5d605]: Commencement: Reg. 21 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-2058569bb9ab0c6bf89bdee365e5d605]: Commencement: Reg. 21 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-62f900ebaba22deb242113e28f71bd2c]: Commencement: Reg. 22 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-62f900ebaba22deb242113e28f71bd2c]: Commencement: Reg. 22 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-babd2efd7b700c681a87670bb3aa3f92]: Commencement: Reg. 23 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-babd2efd7b700c681a87670bb3aa3f92]: Commencement: Reg. 23 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-bdc2735aa2b32cd713a8d008002bfa82]: Commencement: Reg. 24 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-bdc2735aa2b32cd713a8d008002bfa82]: Commencement: Reg. 24 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-7953bf99bfe11655201441b237fb220e]: Commencement: Reg. 25 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-7953bf99bfe11655201441b237fb220e]: Commencement: Reg. 25 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-4310eb1731bf8aa54cbe653cbc07dd31]: Commencement: Reg. 26 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-4310eb1731bf8aa54cbe653cbc07dd31]: Commencement: Reg. 26 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-a70f8b1c7b6d6d220c0ce8c121637af4]: Commencement: Reg. 27 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-a70f8b1c7b6d6d220c0ce8c121637af4]: Commencement: Reg. 27 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-35173c2b5358b25a1e1326dfd0f03758]: Commencement: Reg. 28 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-35173c2b5358b25a1e1326dfd0f03758]: Commencement: Reg. 28 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-e1adc75ee24b676f6d0869dca19973c8]: Commencement: Reg. 29 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-e1adc75ee24b676f6d0869dca19973c8]: Commencement: Reg. 29 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00014]: Footnote: Section 28K was inserted by section 191 of the 2011 Act.
 
-[^key-796a4dfcfff25794f36a45f1df052017]: Commencement: Reg. 30 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-796a4dfcfff25794f36a45f1df052017]: Commencement: Reg. 30 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00015]: Footnote: Section 28D was inserted by section 191 of the 2011 Act.
 
 [^f00016]: Footnote: Section 28E and 28F were inserted by section 191 of the 2011 Act.
 
-[^key-ec66005697fa76befcdb655d1909ddee]: Commencement: Reg. 31 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-ec66005697fa76befcdb655d1909ddee]: Commencement: Reg. 31 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-7d01868b7ac74f4fab889b85090a0f02]: Commencement: Reg. 32 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-7d01868b7ac74f4fab889b85090a0f02]: Commencement: Reg. 32 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-06429cdfb6fdbf743509669ef48ff433]: Commencement: Reg. 33 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-06429cdfb6fdbf743509669ef48ff433]: Commencement: Reg. 33 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-8cdd0aa1359ac8eb41455db7cd0a16fa]: Commencement: Reg. 34 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-8cdd0aa1359ac8eb41455db7cd0a16fa]: Commencement: Reg. 34 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-077443f071ecf9d594ce0bf32227658a]: Commencement: Reg. 35 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-077443f071ecf9d594ce0bf32227658a]: Commencement: Reg. 35 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00017]: Footnote: Section 28C was inserted by section 191 of the 2011 Act.
 
 [^f00018]: Footnote: Section 31(1) was amended by section 62(1) and paragraph 12(8)(a) of Schedule 1 to the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48).
 
-[^key-971ccc1ef603234e91cd017ea6c2d72a]: Commencement: Sch. 1 para. 1 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-971ccc1ef603234e91cd017ea6c2d72a]: Commencement: Sch. 1 para. 1 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-496a524ea77897ef7fd86627b498ac43]: Commencement: Sch. 1 para. 2 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-496a524ea77897ef7fd86627b498ac43]: Commencement: Sch. 1 para. 2 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-74cde0cdd1ed9e49839e1b35a08763b1]: Commencement: Sch. 1 para. 3 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-74cde0cdd1ed9e49839e1b35a08763b1]: Commencement: Sch. 1 para. 3 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-af8ab5254962087f15b56baa84f14526]: Commencement: Sch. 1 para. 4 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-af8ab5254962087f15b56baa84f14526]: Commencement: Sch. 1 para. 4 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00019]: Footnote: [1975 c.60](https://www.legislation.gov.uk/ukpga/1975/60).
 
 [^f00020]: Footnote: [1993 c.48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-462cac2a016ff6b92f7e87953b385c52]: Commencement: Sch. 1 para. 5 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-462cac2a016ff6b92f7e87953b385c52]: Commencement: Sch. 1 para. 5 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-e479c2e5f4ff6757a1270ac92456ffe0]: Textual amendment: [Sch. 1 para. 5(h)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/h) inserted (5.2.2021) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/424)](https://www.legislation.gov.uk/ssi/2020/424), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/424/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2020/424/regulation/4/3)
+[^c-e479c2e5f4ff6757a1270ac92456ffe0]: Textual amendment: [Sch. 1 para. 5(h)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/h) inserted (5.2.2021) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/424)](https://www.legislation.gov.uk/ssi/2020/424), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/424/regulation/1/2), [4(3)](https://www.legislation.gov.uk/ssi/2020/424/regulation/4/3)
 
-[^key-b3c1c6d74fcd0c7ba37b31bb299e2656]: Textual amendment: [Sch. 1 para. 5(i)(j)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/i/j) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [16](https://www.legislation.gov.uk/ssi/2021/73/regulation/16) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
+[^c-b3c1c6d74fcd0c7ba37b31bb299e2656]: Textual amendment: [Sch. 1 para. 5(i)(j)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/i/j) inserted (26.7.2021) by [The Disability Assistance for Children and Young People (Consequential Amendment and Transitional Provision) (Scotland) Regulations 2021 (S.S.I. 2021/73)](https://www.legislation.gov.uk/ssi/2021/73), [regs. 1](https://www.legislation.gov.uk/ssi/2021/73/regulation/1), [16](https://www.legislation.gov.uk/ssi/2021/73/regulation/16) (with [reg. 19](https://www.legislation.gov.uk/ssi/2021/73/regulation/19))
 
-[^key-34f263258b8ad9b996b16f2b46af9d3b]: Textual amendment: [Sch. 1 para. 5(k)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/k)[(l)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/l) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [16](https://www.legislation.gov.uk/ssi/2022/31/regulation/16) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
+[^c-34f263258b8ad9b996b16f2b46af9d3b]: Textual amendment: [Sch. 1 para. 5(k)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/k)[(l)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/l) inserted (21.3.2022) by [The Disability Assistance for Working Age People (Consequential and Miscellaneous Amendment and Transitional Provision) (Scotland) Regulations 2022 (S.S.I. 2022/31)](https://www.legislation.gov.uk/ssi/2022/31), [regs. 1](https://www.legislation.gov.uk/ssi/2022/31/regulation/1), [16](https://www.legislation.gov.uk/ssi/2022/31/regulation/16) (with [reg. 20](https://www.legislation.gov.uk/ssi/2022/31/regulation/20))
 
-[^key-1310d6cf34da2425ae9ae2311063ade7]: Textual amendment: [Sch. 1 para. 5(la)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/la)[(lb)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/lb) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [16](https://www.legislation.gov.uk/ssi/2024/311/regulation/16)
+[^c-1310d6cf34da2425ae9ae2311063ade7]: Textual amendment: [Sch. 1 para. 5(la)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/la)[(lb)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/lb) inserted (21.3.2025) by [The Disability Assistance (Scottish Adult Disability Living Allowance) (Consequential Amendment, Revocation and Saving Provision) Regulations 2024 (S.S.I. 2024/311)](https://www.legislation.gov.uk/ssi/2024/311), [regs. 1](https://www.legislation.gov.uk/ssi/2024/311/regulation/1), [16](https://www.legislation.gov.uk/ssi/2024/311/regulation/16)
 
-[^key-9fe4d8c29f246d3173ac4c46c7b4c968]: Textual amendment: [Sch. 1 para. 5(1)(m)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/1/m)[(n)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/1/n) inserted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2023/11/regulation/5/3)
+[^c-9fe4d8c29f246d3173ac4c46c7b4c968]: Textual amendment: [Sch. 1 para. 5(1)(m)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/1/m)[(n)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/1/n) inserted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [5(3)](https://www.legislation.gov.uk/ssi/2023/11/regulation/5/3)
 
-[^key-be47867050fc6f024f9f648208c97983]: Textual amendment: Words in [sch. 1 para. 5(m)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/m) substituted (21.9.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2023 (S.S.I. 2023/178)](https://www.legislation.gov.uk/ssi/2023/178), [regs. 1](https://www.legislation.gov.uk/ssi/2023/178/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2023/178/regulation/7/3/a)
+[^c-be47867050fc6f024f9f648208c97983]: Textual amendment: Words in [sch. 1 para. 5(m)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/m) substituted (21.9.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2023 (S.S.I. 2023/178)](https://www.legislation.gov.uk/ssi/2023/178), [regs. 1](https://www.legislation.gov.uk/ssi/2023/178/regulation/1), [7(3)(a)](https://www.legislation.gov.uk/ssi/2023/178/regulation/7/3/a)
 
-[^key-2788f95439a2d92e8a813d14112a3215]: Textual amendment: [Sch. 1 para. 5(o)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/o)[(p)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/p) inserted (21.9.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2023 (S.S.I. 2023/178)](https://www.legislation.gov.uk/ssi/2023/178), [regs. 1](https://www.legislation.gov.uk/ssi/2023/178/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2023/178/regulation/7/3/b)
+[^c-2788f95439a2d92e8a813d14112a3215]: Textual amendment: [Sch. 1 para. 5(o)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/o)[(p)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/p) inserted (21.9.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2023 (S.S.I. 2023/178)](https://www.legislation.gov.uk/ssi/2023/178), [regs. 1](https://www.legislation.gov.uk/ssi/2023/178/regulation/1), [7(3)(b)](https://www.legislation.gov.uk/ssi/2023/178/regulation/7/3/b)
 
-[^key-9fbd79e1de9dd70858f80599b1561faf]: Textual amendment: [Sch. 1 para. 5(q)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/q) inserted (15.11.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 4) Regulations 2023 (S.S.I. 2023/313)](https://www.legislation.gov.uk/ssi/2023/313), [regs. 1](https://www.legislation.gov.uk/ssi/2023/313/regulation/1), [10(3)](https://www.legislation.gov.uk/ssi/2023/313/regulation/10/3)
+[^c-9fbd79e1de9dd70858f80599b1561faf]: Textual amendment: [Sch. 1 para. 5(q)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/q) inserted (15.11.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 4) Regulations 2023 (S.S.I. 2023/313)](https://www.legislation.gov.uk/ssi/2023/313), [regs. 1](https://www.legislation.gov.uk/ssi/2023/313/regulation/1), [10(3)](https://www.legislation.gov.uk/ssi/2023/313/regulation/10/3)
 
-[^key-9e81763370a0d41108e35cf563af89d5]: Textual amendment: Words in [sch. 1 para. 5(q)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/q) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [sch. 1 para. 9(3)](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/9/3) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-9e81763370a0d41108e35cf563af89d5]: Textual amendment: Words in [sch. 1 para. 5(q)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/q) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [sch. 1 para. 9(3)](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/9/3) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-613e1cc6b08aeec0631eb655da63c22d]: Textual amendment: [Sch. 1 para. 5(r)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/r)[(s)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/s) inserted (3.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/178)](https://www.legislation.gov.uk/ssi/2024/178), [regs. 1](https://www.legislation.gov.uk/ssi/2024/178/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2024/178/regulation/4/2)
+[^c-613e1cc6b08aeec0631eb655da63c22d]: Textual amendment: [Sch. 1 para. 5(r)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/r)[(s)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/s) inserted (3.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/178)](https://www.legislation.gov.uk/ssi/2024/178), [regs. 1](https://www.legislation.gov.uk/ssi/2024/178/regulation/1), [4(2)](https://www.legislation.gov.uk/ssi/2024/178/regulation/4/2)
 
-[^key-544163b63866405cb5702e346a08789b]: Textual amendment: Words in [sch. 1 para. 5(r)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/r) inserted (12.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2024 (S.S.I. 2024/216)](https://www.legislation.gov.uk/ssi/2024/216), [regs. 1](https://www.legislation.gov.uk/ssi/2024/216/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2024/216/regulation/6/3/a)
+[^c-544163b63866405cb5702e346a08789b]: Textual amendment: Words in [sch. 1 para. 5(r)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/r) inserted (12.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2024 (S.S.I. 2024/216)](https://www.legislation.gov.uk/ssi/2024/216), [regs. 1](https://www.legislation.gov.uk/ssi/2024/216/regulation/1), [6(3)(a)](https://www.legislation.gov.uk/ssi/2024/216/regulation/6/3/a)
 
-[^key-cd87261b4ba863dd2c3d4f2ff9909ff0]: Textual amendment: [Sch. 1 para. 5(t)-(w)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/t) inserted (12.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2024 (S.S.I. 2024/216)](https://www.legislation.gov.uk/ssi/2024/216), [regs. 1](https://www.legislation.gov.uk/ssi/2024/216/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2024/216/regulation/6/3/b)
+[^c-cd87261b4ba863dd2c3d4f2ff9909ff0]: Textual amendment: [Sch. 1 para. 5(t)-(w)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/t) inserted (12.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2024 (S.S.I. 2024/216)](https://www.legislation.gov.uk/ssi/2024/216), [regs. 1](https://www.legislation.gov.uk/ssi/2024/216/regulation/1), [6(3)(b)](https://www.legislation.gov.uk/ssi/2024/216/regulation/6/3/b)
 
-[^key-cb6a92693d53a14781843d1865e07705]: Textual amendment: [Sch. 1 para. 5(x)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/x) inserted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2026/117/regulation/7/3)
+[^c-cb6a92693d53a14781843d1865e07705]: Textual amendment: [Sch. 1 para. 5(x)](https://www.legislation.gov.uk/ssi/2013/200/schedule/1/paragraph/5/x) inserted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [7(3)](https://www.legislation.gov.uk/ssi/2026/117/regulation/7/3)
 
-[^key-d1c38c8c84ccfefcf46ee9eb032cb04d]: Commencement: Sch. 1 para. 6 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-d1c38c8c84ccfefcf46ee9eb032cb04d]: Commencement: Sch. 1 para. 6 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00021]: Footnote: [2003 asp 1](https://www.legislation.gov.uk/asp/2003/1).
 
-[^key-66ad5317ac26e4a3f620cfc967c074b0]: Commencement: Sch. 1 para. 7 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-66ad5317ac26e4a3f620cfc967c074b0]: Commencement: Sch. 1 para. 7 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00022]: Footnote: [1992 c.14](https://www.legislation.gov.uk/ukpga/1992/14).
 
 [^f00023]: Footnote: [2002 asp 3](https://www.legislation.gov.uk/asp/2002/3).
 
-[^key-d4bf608358762a0d8a90b2e197c2b36f]: Commencement: Sch. 1 para. 8 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-d4bf608358762a0d8a90b2e197c2b36f]: Commencement: Sch. 1 para. 8 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00024]: Footnote: [1970 c.35](https://www.legislation.gov.uk/ukpga/1970/35).
 
-[^key-a8faab50e4d563661410ed8382e49487]: Commencement: Sch. 1 para. 9 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-a8faab50e4d563661410ed8382e49487]: Commencement: Sch. 1 para. 9 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-33a07a357c2c8d5426a70dcfd1a34868]: Commencement: Sch. 1 para. 10 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-33a07a357c2c8d5426a70dcfd1a34868]: Commencement: Sch. 1 para. 10 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00025]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967).
 
-[^key-ac2ae4453a71fab0485abc93103ffc0a]: Commencement: Sch. 1 para. 11 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-ac2ae4453a71fab0485abc93103ffc0a]: Commencement: Sch. 1 para. 11 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-837774ec84d79a7530d8258948cdb166]: Commencement: Sch. 1 para. 12 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-837774ec84d79a7530d8258948cdb166]: Commencement: Sch. 1 para. 12 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-d1ee753593cc867ebdcec95e5a55a858]: Commencement: Sch. 1 para. 13 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-d1ee753593cc867ebdcec95e5a55a858]: Commencement: Sch. 1 para. 13 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-dc4c61474d5f82c806ece0873aabb525]: Commencement: Sch. 2 para. 1 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-dc4c61474d5f82c806ece0873aabb525]: Commencement: Sch. 2 para. 1 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-70e6f24d2b54e24d015e3152e236de7a]: Commencement: Sch. 2 para. 2 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-70e6f24d2b54e24d015e3152e236de7a]: Commencement: Sch. 2 para. 2 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-6101aad5ba011d0bd8869ab6df1e2796]: Commencement: Sch. 2 para. 3 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-6101aad5ba011d0bd8869ab6df1e2796]: Commencement: Sch. 2 para. 3 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-14684709882dceaf58ed3285a6c5fe75]: Commencement: Sch. 2 para. 4 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-14684709882dceaf58ed3285a6c5fe75]: Commencement: Sch. 2 para. 4 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-42362ab16756a39059a695b3c0abf56b]: Commencement: Sch. 2 para. 5 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-42362ab16756a39059a695b3c0abf56b]: Commencement: Sch. 2 para. 5 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-bd7a756d7e7e254eab8dff0db4a37dbc]: Commencement: Sch. 2 para. 6 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-bd7a756d7e7e254eab8dff0db4a37dbc]: Commencement: Sch. 2 para. 6 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-db397cbf1ddd4725a5b1b274352c41f4]: Commencement: Sch. 2 para. 7 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-db397cbf1ddd4725a5b1b274352c41f4]: Commencement: Sch. 2 para. 7 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00026]: Footnote: Section 28K was inserted by section 191 of the 2011 Act.
 
-[^key-d98003bb0f5c27b8f47c4ecbb0e1abfa]: Commencement: Sch. 2 para. 8 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-d98003bb0f5c27b8f47c4ecbb0e1abfa]: Commencement: Sch. 2 para. 8 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
 [^f00027]: Footnote: [1995 c.18](https://www.legislation.gov.uk/ukpga/1995/18).
 
 [^f00028]: Footnote: [1996 c.30](https://www.legislation.gov.uk/ukpga/1996/30).
 
-[^key-a8c4d545d9c9aa50ecbe8f80ed602730]: Textual amendment: Words in [sch. 2 para. 8(b)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/b) substituted (1.4.2014) by [The Social Care (Self-directed Support) (Scotland) Act 2013 (Consequential and Saving Provisions) Order 2014 (S.S.I. 2014/90)](https://www.legislation.gov.uk/ssi/2014/90), [art. 1](https://www.legislation.gov.uk/ssi/2014/90/article/1), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/90/schedule/part/3) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/90/article/3))
+[^c-a8c4d545d9c9aa50ecbe8f80ed602730]: Textual amendment: Words in [sch. 2 para. 8(b)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/b) substituted (1.4.2014) by [The Social Care (Self-directed Support) (Scotland) Act 2013 (Consequential and Saving Provisions) Order 2014 (S.S.I. 2014/90)](https://www.legislation.gov.uk/ssi/2014/90), [art. 1](https://www.legislation.gov.uk/ssi/2014/90/article/1), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2014/90/schedule/part/3) (with [art. 3](https://www.legislation.gov.uk/ssi/2014/90/article/3))
 
 [^f00030]: Footnote: [2003 asp 1](https://www.legislation.gov.uk/asp/2003/1).
 
-[^key-b978df7bf66733adebb68c5830a94bf9]: Textual amendment: [Sch. 2 para. 8(d)-(f)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/d/f) inserted (5.2.2021) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/424)](https://www.legislation.gov.uk/ssi/2020/424), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/424/regulation/1/2), [4(4)](https://www.legislation.gov.uk/ssi/2020/424/regulation/4/4)
+[^c-b978df7bf66733adebb68c5830a94bf9]: Textual amendment: [Sch. 2 para. 8(d)-(f)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/d/f) inserted (5.2.2021) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendments) (Scotland) Regulations 2020 (S.S.I. 2020/424)](https://www.legislation.gov.uk/ssi/2020/424), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2020/424/regulation/1/2), [4(4)](https://www.legislation.gov.uk/ssi/2020/424/regulation/4/4)
 
-[^key-0250ca074a12e30294b2e7c5e6b94aae]: Textual amendment: [Sch. 2 para. 8(g)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/g) inserted (26.11.2021) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2021 (S.S.I. 2021/333)](https://www.legislation.gov.uk/ssi/2021/333), [regs. 1](https://www.legislation.gov.uk/ssi/2021/333/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2021/333/regulation/4/3)
+[^c-0250ca074a12e30294b2e7c5e6b94aae]: Textual amendment: [Sch. 2 para. 8(g)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/g) inserted (26.11.2021) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2021 (S.S.I. 2021/333)](https://www.legislation.gov.uk/ssi/2021/333), [regs. 1](https://www.legislation.gov.uk/ssi/2021/333/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2021/333/regulation/4/3)
 
-[^key-c56ff1ac673879d0f3f39eea8c057413]: Textual amendment: [Sch. 2 paras. 8(h)-(j)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/h) inserted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [5(4)](https://www.legislation.gov.uk/ssi/2023/11/regulation/5/4)
+[^c-c56ff1ac673879d0f3f39eea8c057413]: Textual amendment: [Sch. 2 paras. 8(h)-(j)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/h) inserted (23.1.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2023 (S.S.I. 2023/11)](https://www.legislation.gov.uk/ssi/2023/11), [regs. 1](https://www.legislation.gov.uk/ssi/2023/11/regulation/1), [5(4)](https://www.legislation.gov.uk/ssi/2023/11/regulation/5/4)
 
-[^key-1f37b2f3bcd06a1b784656a50877c9f5]: Textual amendment: Words in [sch. 2 para. 8(i)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/i) substituted (21.9.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2023 (S.S.I. 2023/178)](https://www.legislation.gov.uk/ssi/2023/178), [regs. 1](https://www.legislation.gov.uk/ssi/2023/178/regulation/1), [7(4)(a)](https://www.legislation.gov.uk/ssi/2023/178/regulation/7/4/a)
+[^c-1f37b2f3bcd06a1b784656a50877c9f5]: Textual amendment: Words in [sch. 2 para. 8(i)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/i) substituted (21.9.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2023 (S.S.I. 2023/178)](https://www.legislation.gov.uk/ssi/2023/178), [regs. 1](https://www.legislation.gov.uk/ssi/2023/178/regulation/1), [7(4)(a)](https://www.legislation.gov.uk/ssi/2023/178/regulation/7/4/a)
 
-[^key-87f7727ea1345ea4e636afa924fad4a7]: Textual amendment: Words in [sch. 2 para. 8(j)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/j) inserted (21.9.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2023 (S.S.I. 2023/178)](https://www.legislation.gov.uk/ssi/2023/178), [regs. 1](https://www.legislation.gov.uk/ssi/2023/178/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/ssi/2023/178/regulation/7/4/b)
+[^c-87f7727ea1345ea4e636afa924fad4a7]: Textual amendment: Words in [sch. 2 para. 8(j)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/j) inserted (21.9.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 3) Regulations 2023 (S.S.I. 2023/178)](https://www.legislation.gov.uk/ssi/2023/178), [regs. 1](https://www.legislation.gov.uk/ssi/2023/178/regulation/1), [7(4)(b)](https://www.legislation.gov.uk/ssi/2023/178/regulation/7/4/b)
 
-[^key-a2df606e619e0a370e8f4c9a43c48a3f]: Textual amendment: [Sch. 2 para. 8(k)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/k) inserted (15.11.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 4) Regulations 2023 (S.S.I. 2023/313)](https://www.legislation.gov.uk/ssi/2023/313), [regs. 1](https://www.legislation.gov.uk/ssi/2023/313/regulation/1), [10(4)](https://www.legislation.gov.uk/ssi/2023/313/regulation/10/4)
+[^c-a2df606e619e0a370e8f4c9a43c48a3f]: Textual amendment: [Sch. 2 para. 8(k)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/k) inserted (15.11.2023) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 4) Regulations 2023 (S.S.I. 2023/313)](https://www.legislation.gov.uk/ssi/2023/313), [regs. 1](https://www.legislation.gov.uk/ssi/2023/313/regulation/1), [10(4)](https://www.legislation.gov.uk/ssi/2023/313/regulation/10/4)
 
-[^key-8d02626a5fb35ca98210207c91ce4843]: Textual amendment: Words in [sch. 2 para. 8(k)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/k) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [sch. 1 para. 9(4)](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/9/4) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
+[^c-8d02626a5fb35ca98210207c91ce4843]: Textual amendment: Words in [sch. 2 para. 8(k)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/k) substituted (15.3.2026) by [The Carer’s Assistance (Miscellaneous and Consequential Amendments, Revocation, Transitional and Saving Provisions) (Scotland) Regulations 2025 (S.S.I. 2025/340)](https://www.legislation.gov.uk/ssi/2025/340), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/340/regulation/1/2), [sch. 1 para. 9(4)](https://www.legislation.gov.uk/ssi/2025/340/schedule/1/paragraph/9/4) (with [reg. 5(1)](https://www.legislation.gov.uk/ssi/2025/340/regulation/5/1))
 
-[^key-6d871c93bda7c10764916e22d61233eb]: Textual amendment: [Sch. 2 para. 8(l)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/l)[(m)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/m) inserted (3.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/178)](https://www.legislation.gov.uk/ssi/2024/178), [regs. 1](https://www.legislation.gov.uk/ssi/2024/178/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2024/178/regulation/4/3)
+[^c-6d871c93bda7c10764916e22d61233eb]: Textual amendment: [Sch. 2 para. 8(l)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/l)[(m)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/m) inserted (3.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/178)](https://www.legislation.gov.uk/ssi/2024/178), [regs. 1](https://www.legislation.gov.uk/ssi/2024/178/regulation/1), [4(3)](https://www.legislation.gov.uk/ssi/2024/178/regulation/4/3)
 
-[^key-ba84936122edf570e485300095eee1c3]: Textual amendment: Words in [sch. 2 para. 8(l)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/l) inserted (12.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2024 (S.S.I. 2024/216)](https://www.legislation.gov.uk/ssi/2024/216), [regs. 1](https://www.legislation.gov.uk/ssi/2024/216/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/ssi/2024/216/regulation/6/4/a)
+[^c-ba84936122edf570e485300095eee1c3]: Textual amendment: Words in [sch. 2 para. 8(l)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/l) inserted (12.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2024 (S.S.I. 2024/216)](https://www.legislation.gov.uk/ssi/2024/216), [regs. 1](https://www.legislation.gov.uk/ssi/2024/216/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/ssi/2024/216/regulation/6/4/a)
 
-[^key-f2e790f8d8ab5bc072b434ffd651def2]: Textual amendment: [Sch. 2 paras. 8(n)-(q)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/n) inserted (12.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2024 (S.S.I. 2024/216)](https://www.legislation.gov.uk/ssi/2024/216), [regs. 1](https://www.legislation.gov.uk/ssi/2024/216/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/ssi/2024/216/regulation/6/4/b)
+[^c-f2e790f8d8ab5bc072b434ffd651def2]: Textual amendment: [Sch. 2 paras. 8(n)-(q)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/n) inserted (12.10.2024) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) (No. 2) Regulations 2024 (S.S.I. 2024/216)](https://www.legislation.gov.uk/ssi/2024/216), [regs. 1](https://www.legislation.gov.uk/ssi/2024/216/regulation/1), [6(4)(b)](https://www.legislation.gov.uk/ssi/2024/216/regulation/6/4/b)
 
-[^key-997252a3ad55398e4e38c5080d7c88a8]: Textual amendment: [Sch. 2 para. 8(r)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/r) inserted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2026/117/regulation/7/4)
+[^c-997252a3ad55398e4e38c5080d7c88a8]: Textual amendment: [Sch. 2 para. 8(r)](https://www.legislation.gov.uk/ssi/2013/200/schedule/2/paragraph/8/r) inserted (1.6.2026) by [The Legal Aid and Advice and Assistance (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/117)](https://www.legislation.gov.uk/ssi/2026/117), [regs. 1](https://www.legislation.gov.uk/ssi/2026/117/regulation/1), [7(4)](https://www.legislation.gov.uk/ssi/2026/117/regulation/7/4)
 
-[^key-4670e6293f9eca65da2b8fc36c27cda8]: Commencement: Sch. 2 para. 9 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-4670e6293f9eca65da2b8fc36c27cda8]: Commencement: Sch. 2 para. 9 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-c7236c5e1c728a7eacdd989fb8145b96]: Commencement: Sch. 2 para. 10 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-c7236c5e1c728a7eacdd989fb8145b96]: Commencement: Sch. 2 para. 10 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-0e4e74b12afffd9a0b795eafd8ec4ff9]: Commencement: Sch. 2 para. 11 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-0e4e74b12afffd9a0b795eafd8ec4ff9]: Commencement: Sch. 2 para. 11 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-1ed7e43ee5c17a405b49cfd0c1e93f50]: Commencement: Sch. 2 para. 12 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-1ed7e43ee5c17a405b49cfd0c1e93f50]: Commencement: Sch. 2 para. 12 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-44b414f76fdb7e1cc213d35e1a09c2fb]: Commencement: Sch. 2 para. 13 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-44b414f76fdb7e1cc213d35e1a09c2fb]: Commencement: Sch. 2 para. 13 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-014c8b7694501e343d5a0446c515f65d]: Commencement: Sch. 2 para. 14 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-014c8b7694501e343d5a0446c515f65d]: Commencement: Sch. 2 para. 14 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-39a4973322c2411cdfa82fd04ad055cf]: Commencement: Sch. 2 para. 15 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-39a4973322c2411cdfa82fd04ad055cf]: Commencement: Sch. 2 para. 15 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
 
-[^key-34ac7693f0d4b816679d6e12206f0a61]: Commencement: Sch. 2 para. 16 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)
+[^c-34ac7693f0d4b816679d6e12206f0a61]: Commencement: Sch. 2 para. 16 in force at 24.6.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/200/regulation/1)

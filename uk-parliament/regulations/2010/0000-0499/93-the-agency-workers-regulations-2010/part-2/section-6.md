@@ -35,7 +35,7 @@ summary: ''
 
 - (a) any payment by way of occupational sick pay;
 - (b) any payment by way of a pension, allowance or gratuity in connection with the worker's retirement or as compensation for loss of office;
-- (c) any payment in respect of maternity, paternity, parental bereavement[^key-7bf6446d2a2bcaf4fbf618fab06ae055] or adoption leave;
+- (c) any payment in respect of maternity, paternity, parental bereavement[^c-7bf6446d2a2bcaf4fbf618fab06ae055] or adoption leave;
 - (d) any payment referable to the worker's redundancy;
 - (e) any payment or reward made pursuant to a financial participation scheme;
 - (f) any bonus, incentive payment or reward which is not directly attributable to the amount or quality of the work done by a worker, and which is given to a worker for a reason other than the amount or quality of work done such as to encourage the worker's loyalty or to reward the worker's long-term service;
@@ -77,7 +77,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7bf6446d2a2bcaf4fbf618fab06ae055]: Textual amendment: Words in reg. 6(3)(c) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/21/2)
+[^c-7bf6446d2a2bcaf4fbf618fab06ae055]: Textual amendment: Words in reg. 6(3)(c) inserted (6.4.2020) by [The Parental Bereavement Leave and Pay (Consequential Amendments to Subordinate Legislation) Regulations 2020 (S.I. 2020/354)](https://www.legislation.gov.uk/uksi/2020/354), [regs. 1](https://www.legislation.gov.uk/uksi/2020/354/regulation/1), [21(2)](https://www.legislation.gov.uk/uksi/2020/354/regulation/21/2)
 
 [^c20080971]: Marginal citation: [1992 c.52](https://www.legislation.gov.uk/ukpga/1992/52); section 169 was amended by the [Employment Act 2002 (c.31)](https://www.legislation.gov.uk/ukpga/2002/31), [sections 43](https://www.legislation.gov.uk/ukpga/2002/31/section/43) (1) and (3).
 

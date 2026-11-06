@@ -22,9 +22,9 @@ summary: ''
 
 (1) This section applies for the purpose of calculating the profits of a trade if the person carrying on the trade makes a site restoration payment in the course of carrying it on.
 
-(2) Subject to subsection (3A),[^key-b8233f4ddaf438ebffe3e8d0a58f676e] A deduction is allowed for the unrelieved amount of the payment.
+(2) Subject to subsection (3A),[^c-b8233f4ddaf438ebffe3e8d0a58f676e] A deduction is allowed for the unrelieved amount of the payment.
 
-(3)[^key-70bb19f72249bb4ba2bcb20f31712669] The deduction is allowed—
+(3)[^c-70bb19f72249bb4ba2bcb20f31712669] The deduction is allowed—
 
 - (a) (if the payment is made, whether directly or indirectly, to a connected person) for the period of account in which that part of the restoration work to which the payment relates is completed, or
 - (b) (in any other case) for the period of account in which the payment is made.
@@ -52,12 +52,12 @@ summary: ''
 - (c) a planning obligation entered into under section 106 of the Town and Country Planning Act 1990 (as substituted by section 12 of the Planning and Compensation Act 1991 (c. 34)) or any corresponding provision for the time being in force in Northern Ireland, or
 - (d) a planning obligation entered into under section 299A of the Town and Country Planning Act 1990 or any corresponding provision for the time being in force in Northern Ireland.
 
-(7)[^key-7676441ac4fd68129b9508fe9d95aa6b] Arrangements” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
+(7)[^c-7676441ac4fd68129b9508fe9d95aa6b] Arrangements” includes any agreement, understanding, scheme, transaction or series of transactions (whether or not legally enforceable).
 
 ## Annotations
 
-[^key-b8233f4ddaf438ebffe3e8d0a58f676e]: Textual amendment: Words in s. 168(2) inserted (with effect in accordance with s. 53(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/53/1)
+[^c-b8233f4ddaf438ebffe3e8d0a58f676e]: Textual amendment: Words in s. 168(2) inserted (with effect in accordance with s. 53(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 53(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/53/1)
 
-[^key-70bb19f72249bb4ba2bcb20f31712669]: Textual amendment: S. 168(3)(3A) substituted for s. 168(3) (with effect in accordance with s. 53(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/53/2)
+[^c-70bb19f72249bb4ba2bcb20f31712669]: Textual amendment: S. 168(3)(3A) substituted for s. 168(3) (with effect in accordance with s. 53(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 53(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/53/2)
 
-[^key-7676441ac4fd68129b9508fe9d95aa6b]: Textual amendment: S. 168(7) inserted (with effect in accordance with s. 53(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 53(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/53/3)
+[^c-7676441ac4fd68129b9508fe9d95aa6b]: Textual amendment: S. 168(7) inserted (with effect in accordance with s. 53(7)(8) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 53(3)](https://www.legislation.gov.uk/ukpga/2012/14/section/53/3)

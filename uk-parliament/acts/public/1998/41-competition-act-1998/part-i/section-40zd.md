@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40ZD. Information relating to transferred EU anti-trust commitments and transferred EU anti-trust directions[^key-cde41cf726b6cf23a02c8e7c46dd4af9]
+## 40ZD. Information relating to transferred EU anti-trust commitments and transferred EU anti-trust directions[^c-cde41cf726b6cf23a02c8e7c46dd4af9]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 
 (3) The powers conferred by subsections (1) and (2) are to be exercised by a notice in writing which
 
-- (a)[^key-242b0dad9dbea504aa020fecdb6ddb06] indicates the subject matter and purpose of the demand (including identifying the transferred EU anti-trust commitments or transferred EU anti-trust direction in question) , and[^key-9c1c85892b26f8bd2a419ac25736c3b4]
+- (a)[^c-242b0dad9dbea504aa020fecdb6ddb06] indicates the subject matter and purpose of the demand (including identifying the transferred EU anti-trust commitments or transferred EU anti-trust direction in question) , and[^c-9c1c85892b26f8bd2a419ac25736c3b4]
 - (b) includes information about the possible consequences of failing to comply with the notice.
 
 (4) The CMA may also specify in the notice—
@@ -57,8 +57,8 @@ summary: ''
 
 ## Annotations
 
-[^key-cde41cf726b6cf23a02c8e7c46dd4af9]: Textual amendment: [Ss. 40ZA-40ZD](https://www.legislation.gov.uk/ukpga/1998/41/section/40ZA) inserted by S.I. 2019/93, reg. 13A (as inserted 31.12.2020 by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1343/regulation/4))
+[^c-cde41cf726b6cf23a02c8e7c46dd4af9]: Textual amendment: [Ss. 40ZA-40ZD](https://www.legislation.gov.uk/ukpga/1998/41/section/40ZA) inserted by S.I. 2019/93, reg. 13A (as inserted 31.12.2020 by [The Competition (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1343)](https://www.legislation.gov.uk/uksi/2020/1343), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1343/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2020/1343/regulation/4))
 
-[^key-242b0dad9dbea504aa020fecdb6ddb06]: Textual amendment: Words in s. 40ZD(3) renumbered as s. 40ZD(3)(a) (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 10 para. 6(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/10/paragraph/6/2); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(14)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/14)
+[^c-242b0dad9dbea504aa020fecdb6ddb06]: Textual amendment: Words in s. 40ZD(3) renumbered as s. 40ZD(3)(a) (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 10 para. 6(2)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/10/paragraph/6/2); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(14)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/14)
 
-[^key-9c1c85892b26f8bd2a419ac25736c3b4]: Textual amendment: S. 40ZD(3)(b) and word inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 10 para. 6(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/10/paragraph/6/3); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(14)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/14)
+[^c-9c1c85892b26f8bd2a419ac25736c3b4]: Textual amendment: S. 40ZD(3)(b) and word inserted (1.1.2025) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1), [Sch. 10 para. 6(3)](https://www.legislation.gov.uk/ukpga/2024/13/schedule/10/paragraph/6/3); [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(14)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/14)

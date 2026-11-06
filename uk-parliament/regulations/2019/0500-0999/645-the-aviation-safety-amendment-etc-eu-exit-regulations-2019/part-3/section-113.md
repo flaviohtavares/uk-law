@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Amendment of Article 36 of Regulation (EU) No 2018/1139[^key-2f260fd315cde6e6fc8b8a02bfbe0d61]
+## 113. Amendment of Article 36 of Regulation (EU) No 2018/1139[^c-2f260fd315cde6e6fc8b8a02bfbe0d61]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f260fd315cde6e6fc8b8a02bfbe0d61]: Commencement: Reg. 113 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2f260fd315cde6e6fc8b8a02bfbe0d61]: Commencement: Reg. 113 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

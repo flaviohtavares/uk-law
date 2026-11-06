@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 1[^key-c3777e30c303b8c675d19c365c78c756]
+## SCHEDULE 1[^c-c3777e30c303b8c675d19c365c78c756]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ Regulation 3(13)
 
 ## Annotations
 
-[^key-c3777e30c303b8c675d19c365c78c756]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)
+[^c-c3777e30c303b8c675d19c365c78c756]: Commencement: Sch. 1 in force at 31.12.2020 on IP completion day, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2)

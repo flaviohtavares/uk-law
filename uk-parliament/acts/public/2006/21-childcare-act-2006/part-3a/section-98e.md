@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98E. Obstruction of power of entry, etc.[^key-5d7282497b1b5c4b9f439be03c111e43]
+## 98E. Obstruction of power of entry, etc.[^c-5d7282497b1b5c4b9f439be03c111e43]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d7282497b1b5c4b9f439be03c111e43]: Textual amendment: Pt. 3A inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) , [ss. 199](https://www.legislation.gov.uk/ukpga/2009/22/section/199) , [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2)
+[^c-5d7282497b1b5c4b9f439be03c111e43]: Textual amendment: Pt. 3A inserted (12.1.2010) by [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22) , [ss. 199](https://www.legislation.gov.uk/ukpga/2009/22/section/199) , [269(2)](https://www.legislation.gov.uk/ukpga/2009/22/section/269/2)

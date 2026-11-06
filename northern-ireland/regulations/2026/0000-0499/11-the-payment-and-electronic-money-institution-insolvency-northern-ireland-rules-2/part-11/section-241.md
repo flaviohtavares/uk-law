@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 241. Second excepted case[^key-0762c89d1015b60d61a67322b8a910fa]
+## 241. Second excepted case[^c-0762c89d1015b60d61a67322b8a910fa]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0762c89d1015b60d61a67322b8a910fa]: Commencement: [Rule 241](https://www.legislation.gov.uk/nisr/2026/11/rule/241) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-0762c89d1015b60d61a67322b8a910fa]: Commencement: [Rule 241](https://www.legislation.gov.uk/nisr/2026/11/rule/241) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

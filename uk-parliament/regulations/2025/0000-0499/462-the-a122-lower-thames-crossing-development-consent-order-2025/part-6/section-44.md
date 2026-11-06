@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44. Power to operate, use and close the tunnel area[^key-ccc9e7eda508eed969670d82c4e8501c]
+## 44. Power to operate, use and close the tunnel area[^c-ccc9e7eda508eed969670d82c4e8501c]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccc9e7eda508eed969670d82c4e8501c]: Commencement: Art. 44 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-ccc9e7eda508eed969670d82c4e8501c]: Commencement: Art. 44 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

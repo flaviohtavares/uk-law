@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 68. Out of hours services to patients not registered with general medical services contractors or default contractors[^key-b18e877e44a32a79cd9b53dd327fe997]
+## 68. Out of hours services to patients not registered with general medical services contractors or default contractors[^c-b18e877e44a32a79cd9b53dd327fe997]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b18e877e44a32a79cd9b53dd327fe997]: Commencement: Art. 68 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-b18e877e44a32a79cd9b53dd327fe997]: Commencement: Art. 68 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

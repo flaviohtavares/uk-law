@@ -63,9 +63,9 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 Section 16(3) of the 1993 Act (revaluation of earnings factors: early leavers) shall continue to have effect as if this Order had not come into force in relation to an earner whose service in contracted-out employment in relation to the scheme in question has terminated before the principal appointed day [^c16767171].
 
-### 4. Termination of contracted-out or appropriate scheme status and state scheme premiums[^key-c90a506b3d0f474fdd560f44695daff4]
+### 4. Termination of contracted-out or appropriate scheme status and state scheme premiums[^c-c90a506b3d0f474fdd560f44695daff4]
 
-(1)[^key-a52505b358d77ad3fc831f97c24ef635] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-a52505b358d77ad3fc831f97c24ef635] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Sections 55 to 68, 170(1) and 171(1) of the 1993 Act (state scheme premiums) shall continue to have effect as if this Order had not come into force in relation to any state scheme premium which has been paid before the principal appointed day or is payable immediately before that day, and nothing in this Order shall affect the operation of any other provision of the 1993 Act or any provision of any other Act in relation to any such premium.
 
@@ -114,7 +114,7 @@ Notwithstanding section 140(3) of the 1995 Act, section 48 of the 1993 Act shall
 
 (2) In paragraph (1) above “scheme year" has the same meaning as in the Occupational Pension Schemes (Scheme Administration) Regulations 1996 [^c16767201].
 
-### 13. The National Insurance (Non-participation-Certificates) Regulation 1959—functions of the Board[^key-52e830871a085e26b01f93313ea63e05]
+### 13. The National Insurance (Non-participation-Certificates) Regulation 1959—functions of the Board[^c-52e830871a085e26b01f93313ea63e05]
 
 Any function of the Board under the National Insurance (Non-participation-Certificates) Regulations 1959 [^c16767211] falling to be exercised on or after the principal appointed day, or which fell to be exercised before that day but which has not been exercised may be exercised by the Secretary of State.
 
@@ -384,9 +384,9 @@ The following provisions have been brought into force by:—
 
 [^c16767171]: Marginal citation: 6th April 1997:*see* section 135 of the Pensions Act 1995 and the Pensions Act 1995 (Commencement No. 3) Order 1996, [S.I. 1996/778](https://www.legislation.gov.uk/uksi/1996/778) (C.13).
 
-[^key-c90a506b3d0f474fdd560f44695daff4]: Modification: Art. 4 cert. functs trans. (pt.prosp.) (coming into force in accordance with art. 2(b) Sch. 2 of the amending Act) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1999/2/section/1/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/2/schedule/2)
+[^c-c90a506b3d0f474fdd560f44695daff4]: Modification: Art. 4 cert. functs trans. (pt.prosp.) (coming into force in accordance with art. 2(b) Sch. 2 of the amending Act) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1999/2/section/1/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/2/schedule/2)
 
-[^key-a52505b358d77ad3fc831f97c24ef635]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/uksi/1997/664/article/4/1) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [11](https://www.legislation.gov.uk/uksi/2016/200/article/11)
+[^c-a52505b358d77ad3fc831f97c24ef635]: Textual amendment: [Art. 4(1)](https://www.legislation.gov.uk/uksi/1997/664/article/4/1) omitted (6.4.2016) by virtue of [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/200/article/1/2), [11](https://www.legislation.gov.uk/uksi/2016/200/article/11)
 
 [^c16767181]: Marginal citation: [S.I](https://www.legislation.gov.uk/uksi/1997/664/section/I). [1990 No. 2021](https://www.legislation.gov.uk/ukcm/1990/2021); the relevant amending instruments are [S.I. 1994/1062](https://www.legislation.gov.uk/uksi/1994/1062) and [S.I. 1996/2156](https://www.legislation.gov.uk/uksi/1996/2156).
 
@@ -394,6 +394,6 @@ The following provisions have been brought into force by:—
 
 [^c16767201]: Marginal citation: [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715).
 
-[^key-52e830871a085e26b01f93313ea63e05]: Modification: [Art. 13](https://www.legislation.gov.uk/uksi/1997/664/article/13) cert. functs trans. (pt.prosp.) (coming into force in accordance with art. 2(b) Sch. 2 of the amending Act) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1999/2/section/1/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/2/schedule/2)
+[^c-52e830871a085e26b01f93313ea63e05]: Modification: [Art. 13](https://www.legislation.gov.uk/uksi/1997/664/article/13) cert. functs trans. (pt.prosp.) (coming into force in accordance with art. 2(b) Sch. 2 of the amending Act) by [Social Security Contributions (Transfer of Functions, etc.) Act 1999 (c. 2)](https://www.legislation.gov.uk/ukpga/1999/2), [s. 1(2)](https://www.legislation.gov.uk/ukpga/1999/2/section/1/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1999/2/schedule/2)
 
 [^c16767211]: Marginal citation: [S.I. 1959/1860](https://www.legislation.gov.uk/uksi/1959/1860); the relevant amending instruments are [S.I. 1961/2176](https://www.legislation.gov.uk/uksi/1961/2176), [S.I](https://www.legislation.gov.uk/uksi/1961/2176/section/I). 1963/676, [S.I. 1965/40](https://www.legislation.gov.uk/uksi/1965/40) and [S.I. 1983/118](https://www.legislation.gov.uk/uksi/1983/118).

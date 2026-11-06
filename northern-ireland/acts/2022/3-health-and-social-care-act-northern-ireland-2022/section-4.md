@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Duty to establish bodies for local areas[^key-801639acf2532aa20ea5acc06a7cd192]
+## 4. Duty to establish bodies for local areas[^c-801639acf2532aa20ea5acc06a7cd192]
 
 *Extent: N.I.*
 
@@ -103,4 +103,4 @@ summary: ''
 
 ## Annotations
 
-[^key-801639acf2532aa20ea5acc06a7cd192]: Commencement: S. 4 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)
+[^c-801639acf2532aa20ea5acc06a7cd192]: Commencement: S. 4 in operation at Royal Assent, see [s. 8(2)](https://www.legislation.gov.uk/nia/2022/3/section/8/2)

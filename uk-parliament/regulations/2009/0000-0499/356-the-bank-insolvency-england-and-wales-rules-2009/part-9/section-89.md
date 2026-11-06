@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Advertisement of resignation[^key-627819e90ce612f616d1bee89b9cc148]
+## 89. Advertisement of resignation[^c-627819e90ce612f616d1bee89b9cc148]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.112 of the 1986 Rules.
 
 ## Annotations
 
-[^key-627819e90ce612f616d1bee89b9cc148]: Commencement: Rule 89 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-627819e90ce612f616d1bee89b9cc148]: Commencement: Rule 89 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

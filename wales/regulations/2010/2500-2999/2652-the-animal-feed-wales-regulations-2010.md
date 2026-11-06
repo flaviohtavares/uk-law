@@ -47,7 +47,7 @@ The Welsh Ministers make the following Regulations in exercise of the powers con
 
 These Regulations make provision for a purpose mentioned in section 2(2) of the European Communities Act 1972 and it appears to the Welsh Ministers that it is expedient for references to the Annexes to the EU instruments mentioned in regulation 2(3) to be construed as references to those Annexes as they may be amended from time to time.
 
-There has been open and transparent public consultation during the preparation of these Regulations in accordance with the requirements of Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c20584371] or, in the case of provisions relating to feed for non food-producing animals, of section 84(1) of the Agriculture Act 1970.[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+There has been open and transparent public consultation during the preparation of these Regulations in accordance with the requirements of Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety [^c20584371] or, in the case of provisions relating to feed for non food-producing animals, of section 84(1) of the Agriculture Act 1970.[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 ## PART 1 — Introductory and general
 
@@ -65,66 +65,66 @@ The title of these Regulations is the Animal Feed (Wales) Regulations 2010, they
 - [^c20584401]“**Regulation 1831/2003**” (“***Rheoliad 1831/2003***”) means Regulation [(EC) No. 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) of the European Parliament and of the Council on additives for use in animal nutrition ;
 - [^c20584411]“**Directive 2008/38**” (“***Cyfarwyddeb 2008/38***”) means Commission Directive [2008/38/EC](https://www.legislation.gov.uk/european/directive/2008/0038) establishing a list of intended uses of animal feedingstuffs for particular nutritional purposes ;
 - [^c20584421]“**Regulation 767/2009**” (“***Rheoliad 767/2009***”) means Regulation [(EC) No. 767/2009](https://www.legislation.gov.uk/european/regulation/2009/0767) of the European Parliament and of the Council on the placing on the market and use of feed, amending European Parliament and Council Regulation [(EC) No 1831/2003](https://www.legislation.gov.uk/european/regulation/2003/1831) and repealing Council Directive [79/373/EEC](https://www.legislation.gov.uk/european/directive/1979/0373), Commission Directive [80/511/EEC](https://www.legislation.gov.uk/european/directive/1980/0511), Council Directives [82/471/EEC](https://www.legislation.gov.uk/european/directive/1982/0471), [83/228/EEC](https://www.legislation.gov.uk/european/directive/1983/0228), [93/74/EEC](https://www.legislation.gov.uk/european/directive/1993/0074), [93/113/EC](https://www.legislation.gov.uk/european/directive/1993/0113) and [96/25/EC](https://www.legislation.gov.uk/european/directive/1996/0025) and Commission Decision [2004/217/EC](https://www.legislation.gov.uk/european/decision/2004/0217) ;
-- [^key-4b54d7b3e6ccee08e37613e27a42bd56]...
+- [^c-4b54d7b3e6ccee08e37613e27a42bd56]...
 - “**feed authority**” (“***awdurdod bwyd anifeiliaid***”) means an authority identified in section 67(1A) of the Act as having the duty to enforce Part IV of the Act within its area.
 
 (2) Any expression used in these Regulations and in Regulation 1831/2003 or Regulation 767/2009 has the meaning in these Regulations that it bears in the Regulation concerned.
 
-(3)[^key-8eda4a0bfa8f4d3ba795ea0ebab070af] Any reference to an Annex to Directive 82/475, Directive 2002/32, Directive 2008/38 or Regulation 767/2009 is a reference to that Annex as it may be amended from time to time.
+(3)[^c-8eda4a0bfa8f4d3ba795ea0ebab070af] Any reference to an Annex to Directive 82/475, Directive 2002/32, Directive 2008/38 or Regulation 767/2009 is a reference to that Annex as it may be amended from time to time.
 
 (4) These Regulations do not apply to any feed additive in category (d) or (e) of Article 6(1) of Regulation 1831/2003, with the exception of those in the functional groups listed in paragraph 4(a), (b) and (c) of Annex I to that Regulation [^c20584441].
 
 ## PART 2 — Marketing and use of feed
 
-### 3. Interpretation of this Part and Schedule 1[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 3. Interpretation of this Part and Schedule 1[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Enforcement of requirements of Regulation 767/2009[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 4. Enforcement of requirements of Regulation 767/2009[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Competent authorities for the purposes of Regulation 767/2009[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 5. Competent authorities for the purposes of Regulation 767/2009[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — Feed additives
 
-### 6. Interpretation of this Part[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 6. Interpretation of this Part[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Enforcement of requirements of Regulation 1831/2003[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 7. Enforcement of requirements of Regulation 1831/2003[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Undesirable substances in feed
 
-### 8. Interpretation of this Part[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 8. Interpretation of this Part[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Control of animal feeds containing undesirable substances[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 9. Control of animal feeds containing undesirable substances[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Feeds for particular nutritional purposes
 
-### 10. Interpretation of this Part[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 10. Interpretation of this Part[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Control of feed intended for particular nutritional purposes[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 11. Control of feed intended for particular nutritional purposes[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 6 — Administration and enforcement
 
-### 12. Penalties for offences under these Regulations[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 12. Penalties for offences under these Regulations[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Duties to enforce[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 13. Duties to enforce[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -195,15 +195,15 @@ The title of these Regulations is the Animal Feed (Wales) Regulations 2010, they
 
 ## PART 8 — Amendments to Regulations
 
-### 15. Amendment of the Feed (Hygiene and Enforcement) (Wales) Regulations 2005[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 15. Amendment of the Feed (Hygiene and Enforcement) (Wales) Regulations 2005[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendment of the Official Feed and Food Controls (Wales) Regulations 2009[^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### 16. Amendment of the Official Feed and Food Controls (Wales) Regulations 2009[^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### .... Revocations[^key-95468ccdcfd3590318c0c8d9c9b4360f][^key-95468ccdcfd3590318c0c8d9c9b4360f]
+### .... Revocations[^c-95468ccdcfd3590318c0c8d9c9b4360f][^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -211,53 +211,53 @@ Gwenda Thomas
 
 Deputy Minister for Social Services, under authority of the Minister for Health and Social Services, one of the Welsh Ministers
 
-## SCHEDULE 1 — ...[^key-95468ccdcfd3590318c0c8d9c9b4360f][^key-95468ccdcfd3590318c0c8d9c9b4360f]
+## SCHEDULE 1 — ...[^c-95468ccdcfd3590318c0c8d9c9b4360f][^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
-[^key-95468ccdcfd3590318c0c8d9c9b4360f]...
+[^c-95468ccdcfd3590318c0c8d9c9b4360f]...
 
-| *[^key-95468ccdcfd3590318c0c8d9c9b4360f]...* |  |
+| *[^c-95468ccdcfd3590318c0c8d9c9b4360f]...* |  |
 | --- | --- |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
-| [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^key-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
+| [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . | [^c-95468ccdcfd3590318c0c8d9c9b4360f]. . . |
 
-## SCHEDULE 2 — ...[^key-95468ccdcfd3590318c0c8d9c9b4360f][^key-95468ccdcfd3590318c0c8d9c9b4360f]
+## SCHEDULE 2 — ...[^c-95468ccdcfd3590318c0c8d9c9b4360f][^c-95468ccdcfd3590318c0c8d9c9b4360f]
 
-[^key-95468ccdcfd3590318c0c8d9c9b4360f]...
+[^c-95468ccdcfd3590318c0c8d9c9b4360f]...
 
-**1.**[^key-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-95468ccdcfd3590318c0c8d9c9b4360f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -300,7 +300,7 @@ Deputy Minister for Social Services, under authority of the Minister for Health 
 
 [^c20584371]: Marginal citation: OJ No. L31, 1.2.2002, p.1, as last amended by Regulation (EC) No. 596/2009 of the European Parliament and of the Council adapting a number of instruments subject to the procedure referred to in Article 251 of the Treaty to Council Decision 1999/468 with regard to the regulatory procedure with scrutiny: Adaptation to the regulatory procedure with scrutiny — Part Four (OJ No. L188, 18.7.2009, p.14).
 
-[^key-95468ccdcfd3590318c0c8d9c9b4360f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/2652) revoked in part (12.5.2016) by [The Animal Feed (Composition, Marketing and Use) (Wales) Regulations 2016 (S.I. 2016/386)](https://www.legislation.gov.uk/wsi/2016/386), [Sch. 2](https://www.legislation.gov.uk/wsi/2016/386/schedule/2) (with [reg. 2(4)](https://www.legislation.gov.uk/wsi/2016/386/regulation/2/4))
+[^c-95468ccdcfd3590318c0c8d9c9b4360f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2010/2652) revoked in part (12.5.2016) by [The Animal Feed (Composition, Marketing and Use) (Wales) Regulations 2016 (S.I. 2016/386)](https://www.legislation.gov.uk/wsi/2016/386), [Sch. 2](https://www.legislation.gov.uk/wsi/2016/386/schedule/2) (with [reg. 2(4)](https://www.legislation.gov.uk/wsi/2016/386/regulation/2/4))
 
 [^c20584381]: Marginal citation: OJ No. L 213, 21.7.1982, p.27. This Directive was last amended by Commission Directive 98/67/EC (OJ No. L261, 24.9.1998, p.10).
 
@@ -312,8 +312,8 @@ Deputy Minister for Social Services, under authority of the Minister for Health 
 
 [^c20584421]: Marginal citation: OJ No. L229, 1.9.2009, p.1. This Regulation was last amended by Commission Regulation (EC) No. 568/2010 (OJ No. L163, 30.6.2010, p.30).
 
-[^key-4b54d7b3e6ccee08e37613e27a42bd56]: Textual amendment: Words in reg. 2(1) omitted (12.1.2014) by virtue of [The Feed (Hygiene and Enforcement) and the Animal Feed (Wales) (Amendment) Regulations 2013 (S.I. 2013/3207)](https://www.legislation.gov.uk/wsi/2013/3207), [regs. 1](https://www.legislation.gov.uk/wsi/2013/3207/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2013/3207/regulation/3/2/a)
+[^c-4b54d7b3e6ccee08e37613e27a42bd56]: Textual amendment: Words in reg. 2(1) omitted (12.1.2014) by virtue of [The Feed (Hygiene and Enforcement) and the Animal Feed (Wales) (Amendment) Regulations 2013 (S.I. 2013/3207)](https://www.legislation.gov.uk/wsi/2013/3207), [regs. 1](https://www.legislation.gov.uk/wsi/2013/3207/regulation/1), [3(2)(a)](https://www.legislation.gov.uk/wsi/2013/3207/regulation/3/2/a)
 
-[^key-8eda4a0bfa8f4d3ba795ea0ebab070af]: Textual amendment: Reg. 2(3) substituted (12.1.2014) by [The Feed (Hygiene and Enforcement) and the Animal Feed (Wales) (Amendment) Regulations 2013 (S.I. 2013/3207)](https://www.legislation.gov.uk/wsi/2013/3207), [regs. 1](https://www.legislation.gov.uk/wsi/2013/3207/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2013/3207/regulation/3/2/b)
+[^c-8eda4a0bfa8f4d3ba795ea0ebab070af]: Textual amendment: Reg. 2(3) substituted (12.1.2014) by [The Feed (Hygiene and Enforcement) and the Animal Feed (Wales) (Amendment) Regulations 2013 (S.I. 2013/3207)](https://www.legislation.gov.uk/wsi/2013/3207), [regs. 1](https://www.legislation.gov.uk/wsi/2013/3207/regulation/1), [3(2)(b)](https://www.legislation.gov.uk/wsi/2013/3207/regulation/3/2/b)
 
 [^c20584441]: Marginal citation: Categories (d) and (e) of Article 6(1) comprise respectively zootechnical additives and coccidiostats and histomonostats. Functional groups listed in paragraphs 4(a), (b) and (c) of Annex I comprise preservatives, antioxidants and emulsifiers.

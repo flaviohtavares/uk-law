@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Eligibility for help under this Chapter[^key-828612cc3cc867bd813ad0db1071933f]
+## 61. Eligibility for help under this Chapter[^c-828612cc3cc867bd813ad0db1071933f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 2 has effect for the purposes of determining whether an applicant is el
 
 ## Annotations
 
-[^key-828612cc3cc867bd813ad0db1071933f]: Commencement: [S. 61](https://www.legislation.gov.uk/anaw/2014/7/section/61) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 12](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/12) (with [art. 5](https://www.legislation.gov.uk/wsi/2015/1272/article/5))
+[^c-828612cc3cc867bd813ad0db1071933f]: Commencement: [S. 61](https://www.legislation.gov.uk/anaw/2014/7/section/61) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 12](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/12) (with [art. 5](https://www.legislation.gov.uk/wsi/2015/1272/article/5))

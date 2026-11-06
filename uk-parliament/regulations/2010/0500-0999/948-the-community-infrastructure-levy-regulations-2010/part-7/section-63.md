@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Infrastructure: amendment to section 216 of the Planning Act 2008[^key-a52e9221181356def9a4f30b26a5f415]
+## 63. Infrastructure: amendment to section 216 of the Planning Act 2008[^c-a52e9221181356def9a4f30b26a5f415]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a52e9221181356def9a4f30b26a5f415]: Commencement: Reg. 63 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-a52e9221181356def9a4f30b26a5f415]: Commencement: Reg. 63 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

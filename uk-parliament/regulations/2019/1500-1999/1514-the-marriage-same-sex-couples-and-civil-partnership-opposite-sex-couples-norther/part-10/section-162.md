@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162. Probation Board for Northern Ireland Victim Information Scheme 2005[^key-85840df790403c904a50fbf99d4489a7]
+## 162. Probation Board for Northern Ireland Victim Information Scheme 2005[^c-85840df790403c904a50fbf99d4489a7]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In Article 3(4)(a) of the Probation Board for Northern Ireland Victim Informatio
 
 ## Annotations
 
-[^key-85840df790403c904a50fbf99d4489a7]: Commencement: Reg. 162 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-85840df790403c904a50fbf99d4489a7]: Commencement: Reg. 162 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00271]: Footnote: [S.R. (N.I.) 2005/432](https://www.legislation.gov.uk/nisr/2005/432).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Safeguards relating to examination of material[^key-934c42b7090795bbded2c2d1177fdf5e]
+## 152. Safeguards relating to examination of material[^c-934c42b7090795bbded2c2d1177fdf5e]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ It does not matter for the purposes of this subsection whether the identity of t
 
 ## Annotations
 
-[^key-934c42b7090795bbded2c2d1177fdf5e]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2016/25/section/152) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a) (with [reg. 16(5)](https://www.legislation.gov.uk/uksi/2018/652/regulation/16/5))
+[^c-934c42b7090795bbded2c2d1177fdf5e]: Commencement: [S. 152](https://www.legislation.gov.uk/ukpga/2016/25/section/152) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a) (with [reg. 16(5)](https://www.legislation.gov.uk/uksi/2018/652/regulation/16/5))

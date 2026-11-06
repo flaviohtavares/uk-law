@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Applicability of other regulations relating to the carriage of dangerous goods and the applicability of ADR and the provisions of these Regulations relating to carriage by road to piggyback transport[^key-e727cdaa973037c823281c6eec5746c8]
+## 37. Applicability of other regulations relating to the carriage of dangerous goods and the applicability of ADR and the provisions of these Regulations relating to carriage by road to piggyback transport[^c-e727cdaa973037c823281c6eec5746c8]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e727cdaa973037c823281c6eec5746c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1573) revoked (1.7.2009) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 (S.I. 2009/1348)](https://www.legislation.gov.uk/uksi/2009/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1348/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/1348/regulation/33)
+[^c-e727cdaa973037c823281c6eec5746c8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1573) revoked (1.7.2009) by [The Carriage of Dangerous Goods and Use of Transportable Pressure Equipment Regulations 2009 (S.I. 2009/1348)](https://www.legislation.gov.uk/uksi/2009/1348), [regs. 1](https://www.legislation.gov.uk/uksi/2009/1348/regulation/1), [33](https://www.legislation.gov.uk/uksi/2009/1348/regulation/33)

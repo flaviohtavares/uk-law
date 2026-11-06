@@ -42,7 +42,7 @@ Coming into operation
 
 The Department for Communities[^f00001] makes the following Regulations in exercise of the powers conferred by sections 134(2) and 171(1), and (3) to (5) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00002], sections 5(1)(a) and (j), 5A(2) and 165(1), (4), (5) and (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00003], and Articles 16(1) and 74(1) of, and paragraph 3 of Schedule 4 to, the Social Security (Northern Ireland) Order 1998[^f00004] and now vested in it[^f00005].
 
-## 1. Citation, commencement and interpretation[^key-4c6dfc471867849c8233362b275695f8]
+## 1. Citation, commencement and interpretation[^c-4c6dfc471867849c8233362b275695f8]
 
 (1) These Regulations may be cited as the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2025 and shall come into operation on 15th September 2025.
 
@@ -79,14 +79,14 @@ The Department for Communities[^f00001] makes the following Regulations in exerc
   throughout the qualifying week and the period of at least 12 weeks ending immediately before the qualifying week;
 - (b) lives with a person if, disregarding any period of temporary absence, they share accommodation with one or more persons as their mutual home and they are not in residential care.
 
-## 2. Entitlement to a Winter Fuel Payment[^key-eaea0e9264e1dada0ffd9ec977846406]
+## 2. Entitlement to a Winter Fuel Payment[^c-eaea0e9264e1dada0ffd9ec977846406]
 
 Subject to regulation 4, the Department must pay a winter fuel payment out of the social fund to a person (“**P**”) where—
 
 - (a) in or before the qualifying week, P has reached pensionable age, and
 - (b) in respect of any day falling within the qualifying week, P is ordinarily resident in Northern Ireland.
 
-## 3. Amount of a Winter Fuel Payment[^key-0267a1b7507861186d1176be58658d76]
+## 3. Amount of a Winter Fuel Payment[^c-0267a1b7507861186d1176be58658d76]
 
 (1) Subject to paragraphs (2) and (3), where P has not reached the age of 80 in or before the qualifying week, the amount of a winter fuel payment is £200.
 
@@ -116,7 +116,7 @@ Subject to regulation 4, the Department must pay a winter fuel payment out of th
   - (i) in that week, living with a person entitled to a winter fuel payment under regulation 2 in respect of the qualifying week and that person has reached the age of 80, or
   - (ii) in residential care.
 
-## 4. Persons not entitled to a Winter Fuel Payment[^key-df3464ca0073583dc2a72a952d3eb4a9]
+## 4. Persons not entitled to a Winter Fuel Payment[^c-df3464ca0073583dc2a72a952d3eb4a9]
 
 (1) Regulation 2 does not apply to P if any of the circumstances in paragraphs (2) to (5) applies.
 
@@ -137,7 +137,7 @@ Subject to regulation 4, the Department must pay a winter fuel payment out of th
 - (a) a winter fuel payment has been made by virtue of regulation 5(1) in respect of the qualifying week, or
 - (b) regulation 5(2) applies.
 
-## 5. Making a Winter Fuel Payment without a claim[^key-00a25de0b9042401c8dbeebf711a8352]
+## 5. Making a Winter Fuel Payment without a claim[^c-00a25de0b9042401c8dbeebf711a8352]
 
 (1) The Department may, on or before the 31st March following the qualifying week, pay to P a winter fuel payment if (disregarding regulation 4(5)) P appears to the Department to be entitled to a winter fuel payment under regulation 2.
 
@@ -147,11 +147,11 @@ Subject to regulation 4, the Department must pay a winter fuel payment out of th
 
 (4) Paragraph (3) does not apply so as to exclude the revision of a decision under Article 10 (revision of decisions) of the Social Security (Northern Ireland) Order 1998[^f00017] or the supersession of a decision under Article 11 (decisions superseding earlier decisions) of that Order or the consideration of fresh evidence in connection with the revision or supersession of a decision.
 
-## 6. Consequential amendment to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^key-d6f46c59cc9a8d4210721d4560408ced]
+## 6. Consequential amendment to the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^c-d6f46c59cc9a8d4210721d4560408ced]
 
 In regulation 4(6A)(a)(ii) (making a claim for benefit) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00018] for “regulation 4(1)(c) of the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024” substitute “regulation 4(5) of the Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2025”.
 
-## 7. Revocations[^key-e4f2b89a76344605e48836bc5563f805]
+## 7. Revocations[^c-e4f2b89a76344605e48836bc5563f805]
 
 The following Regulations are revoked—
 
@@ -219,7 +219,7 @@ A regulatory impact assessment has not been produced for these Regulations as th
 
 [^f00005]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-4c6dfc471867849c8233362b275695f8]: Commencement: Reg. 1 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
+[^c-4c6dfc471867849c8233362b275695f8]: Commencement: Reg. 1 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
@@ -241,23 +241,23 @@ A regulatory impact assessment has not been produced for these Regulations as th
 
 [^f00015]: Footnote: [1947 c. 19](https://www.legislation.gov.uk/ukpga/1947/19). Section 3(1) was amended by paragraph 3(1) of Schedule 6 to the Ministry of Social Security Act [1966 (c. 20)](https://www.legislation.gov.uk/ukpga/1966/20) and paragraph 1 of Schedule 4 to the Social Security Act [1980 (c. 30)](https://www.legislation.gov.uk/ukpga/1980/30)
 
-[^key-eaea0e9264e1dada0ffd9ec977846406]: Commencement: Reg. 2 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
+[^c-eaea0e9264e1dada0ffd9ec977846406]: Commencement: Reg. 2 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
 
-[^key-0267a1b7507861186d1176be58658d76]: Commencement: Reg. 3 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
+[^c-0267a1b7507861186d1176be58658d76]: Commencement: Reg. 3 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
 
-[^key-df3464ca0073583dc2a72a952d3eb4a9]: Commencement: Reg. 4 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
+[^c-df3464ca0073583dc2a72a952d3eb4a9]: Commencement: Reg. 4 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
 
-[^key-00a25de0b9042401c8dbeebf711a8352]: Commencement: Reg. 5 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
+[^c-00a25de0b9042401c8dbeebf711a8352]: Commencement: Reg. 5 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
 
 [^f00016]: Footnote: [1999 c. 33](https://www.legislation.gov.uk/ukpga/1999/33). Section 115(1) was amended by section 4(2) of the State Pension Credit Act [2002 (c. 16)](https://www.legislation.gov.uk/ukpga/2002/16), paragraph 19 of Schedule 3 to the Welfare Reform Act [2007 (c. 5)](https://www.legislation.gov.uk/ukpga/2007/5), section 138(2) of the Health and Social Care Act [2008 (c. 14)](https://www.legislation.gov.uk/ukpga/2008/14), paragraph 54 of Schedule 2 and paragraph 44 of Schedule 9, to the Welfare Reform Act [2012 (c. 5)](https://www.legislation.gov.uk/ukpga/2012/5) and [S.I. 2002/1457](https://www.legislation.gov.uk/uksi/2002/1457) and [2015/2006](https://www.legislation.gov.uk/uksi/2015/2006)
 
 [^f00017]: Footnote: [S.I. 1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506); Articles 10 and 11 were amended by Part 7 of Schedule 12 to the Welfare Reform (Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I. 1)](https://www.legislation.gov.uk/nisi/2015/2006))
 
-[^key-d6f46c59cc9a8d4210721d4560408ced]: Commencement: Reg. 6 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
+[^c-d6f46c59cc9a8d4210721d4560408ced]: Commencement: Reg. 6 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
 
 [^f00018]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465), relevant amending instrument is [S.R. 2024 No. 160](https://www.legislation.gov.uk/nisr/2024/160)
 
-[^key-e4f2b89a76344605e48836bc5563f805]: Commencement: Reg. 7 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
+[^c-e4f2b89a76344605e48836bc5563f805]: Commencement: Reg. 7 in operation at 15.9.2025, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2025/142/regulation/1/1)
 
 [^f00019]: Footnote: [S.R. 2024 No. 160](https://www.legislation.gov.uk/nisr/2024/160), relevant amending instrument is [S.R. 2024 No. 189](https://www.legislation.gov.uk/nisr/2024/189)
 

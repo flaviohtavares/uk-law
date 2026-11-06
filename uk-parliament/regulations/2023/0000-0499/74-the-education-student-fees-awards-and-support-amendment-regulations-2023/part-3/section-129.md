@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 129. Amendment relating to the family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^key-d7a2ff008e48c06f63202571104c6b3d]
+## 129. Amendment relating to the family members of persons granted leave under one of the Afghan Schemes or one of the Ukraine Schemes[^c-d7a2ff008e48c06f63202571104c6b3d]
 
 *Extent: E+W*
 
@@ -41,17 +41,17 @@ In regulation 3(5) (eligible students)[^f00095]—
 
   .
 
-**130.**[^key-1bd4ef4b7fcb5021e432a23040ed821e] In regulation 6 (students who cease to be eligible students before the start of an HE short course)[^f00096]—
+**130.**[^c-1bd4ef4b7fcb5021e432a23040ed821e] In regulation 6 (students who cease to be eligible students before the start of an HE short course)[^f00096]—
 
 - (a) in paragraph (9)(a), after “Schemes” insert “or the spouse, civil partner, child or step-child of a person granted leave under one of the Afghan Schemes”;
 - (b) in paragraph (9A)(a), after “Schemes” insert “or the spouse, civil partner, child or step-child of a person granted leave under one of the Ukraine Schemes”.
 
-**131.**[^key-873dd146b700d3d095f16cf2c768813e] In regulation 7 (students who become eligible after the start of an HE short course) (as amended by regulation 128 of these Regulations), in paragraph (2)—
+**131.**[^c-873dd146b700d3d095f16cf2c768813e] In regulation 7 (students who become eligible after the start of an HE short course) (as amended by regulation 128 of these Regulations), in paragraph (2)—
 
 - (a) in sub-paragraph (g), after “the student” insert “, or the student’s spouse, civil partner, parent or step-parent,”;
 - (b) in sub-paragraph (l), after “the student” insert “, or the student’s spouse, civil partner, parent or step-parent,”.
 
-**132.**[^key-b0af6539cb896d2ff3a70f554723c613] (1) Schedule 1 (eligible students) is amended as follows.
+**132.**[^c-b0af6539cb896d2ff3a70f554723c613] (1) Schedule 1 (eligible students) is amended as follows.
 
 (2) In Part 1 (interpretation), in paragraph 1(1) (as amended by regulation 126 of these Regulations)—
 
@@ -124,16 +124,16 @@ In regulation 3(5) (eligible students)[^f00095]—
 
 ## Annotations
 
-[^key-d7a2ff008e48c06f63202571104c6b3d]: Commencement: Reg. 129 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-d7a2ff008e48c06f63202571104c6b3d]: Commencement: Reg. 129 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00095]: Footnote: Sub-paragraph (i) was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).
 
-[^key-1bd4ef4b7fcb5021e432a23040ed821e]: Commencement: Reg. 130 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-1bd4ef4b7fcb5021e432a23040ed821e]: Commencement: Reg. 130 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00096]: Footnote: Paragraph (9A) was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).
 
-[^key-873dd146b700d3d095f16cf2c768813e]: Commencement: Reg. 131 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-873dd146b700d3d095f16cf2c768813e]: Commencement: Reg. 131 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
-[^key-b0af6539cb896d2ff3a70f554723c613]: Commencement: Reg. 132 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
+[^c-b0af6539cb896d2ff3a70f554723c613]: Commencement: Reg. 132 in force at 16.2.2023, see [reg. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1)
 
 [^f00097]: Footnote: Paragraph 28 was inserted by [S.I. 2022/534](https://www.legislation.gov.uk/uksi/2022/534).

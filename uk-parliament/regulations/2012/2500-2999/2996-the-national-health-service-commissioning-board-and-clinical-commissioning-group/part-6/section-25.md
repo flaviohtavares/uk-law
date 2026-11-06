@@ -23,7 +23,7 @@ summary: ''
 (1) A person is disqualified for appointment as a chair if that person is—
 
 - (a) the chair, a member (other than a member of an NHS foundation trust), a director, a governor or an employee of an NHS body;
-- (b) the chair or a member of the governing body of an integrated care board[^key-c9e790b8be2bf585774066cdc13bd366] ; or
+- (b) the chair or a member of the governing body of an integrated care board[^c-c9e790b8be2bf585774066cdc13bd366] ; or
 - (c) an elected member or employee of a social services authority in England and Wales or of an equivalent body in Scotland or Northern Ireland.
 
 (2) A person is disqualified for appointment as an integrated care board member or social services authority member if that person is—
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c9e790b8be2bf585774066cdc13bd366]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2996) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))
+[^c-c9e790b8be2bf585774066cdc13bd366]: Textual amendment: Words in [Regulations](https://www.legislation.gov.uk/uksi/2012/2996) substituted (1.7.2022) by [The Health and Care Act 2022 (Consequential and Related Amendments and Transitional Provisions) Regulations 2022 (S.I. 2022/634)](https://www.legislation.gov.uk/uksi/2022/634), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/regulation/1/2), [Sch. para. 1(1)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/1)[(3)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/3) (with [Sch. para. 1(2)](https://www.legislation.gov.uk/uksi/2022/634/schedule/paragraph/1/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Investigations of supplier: exclusion grounds[^key-3227eee55acc6d1cdc36f05d89fd7aa1][^key-393a087e1ca62dfd662417f85a424f77]
+## 60. Investigations of supplier: exclusion grounds[^c-3227eee55acc6d1cdc36f05d89fd7aa1][^c-393a087e1ca62dfd662417f85a424f77]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3227eee55acc6d1cdc36f05d89fd7aa1]: Commencement: S. 60 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-3227eee55acc6d1cdc36f05d89fd7aa1]: Commencement: S. 60 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-393a087e1ca62dfd662417f85a424f77]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/54/section/60) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-393a087e1ca62dfd662417f85a424f77]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2023/54/section/60) in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

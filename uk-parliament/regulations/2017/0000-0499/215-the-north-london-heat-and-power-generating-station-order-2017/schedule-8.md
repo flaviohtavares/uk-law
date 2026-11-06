@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — STREETS TO BE TEMPORARILY STOPPED UP[^key-e4a47455677ce98a58b951749d148692]
+## SCHEDULE 8 — STREETS TO BE TEMPORARILY STOPPED UP[^c-e4a47455677ce98a58b951749d148692]
 
 *Extent: E+W+S*
 
@@ -33,10 +33,10 @@ Article 13
 | In the London Borough of Enfield. | Cycle path on Lower Hall Lane within plot 20, as shown on the land plans and on drawing C\_0014 Rev 01 of the works plans. | For approximately 59 metres across the part of Lower Hall Lane bordering the access from Lower Hall Lane to the temporary laydown area, within plot 20, as shown on the land plans, drawing C\_0014 Rev 01 of the works plans and in more detail on diagram 15 on page 16 of the DCO Schedules 6-8 explanatory diagrams. |
 | In the London Borough of Enfield. | The section of pavement on the north side of Advent Way, within plots 30 and 31, as shown on the land plans and on drawing C\_0013 Rev 00 of the works plans. | For approximately 41 metres on Advent Way and into the southern entrance to the Edmonton EcoPark, within plots 30 and 31, as shown on the land plans, drawing C\_0013 Rev 00 of the works plans and in more detail on diagram 16 on page 17 of the DCO Schedules 6-8 explanatory diagrams. |
 | In the London Borough of Enfield. | The section of footpath and pavement running parallel with Advent Way to the junction of Advent Way with Lee Park Way within plots 22, 24, 27, 28 and 29, as shown on the land plans and drawing C\_0014 Rev 01 of the works plans. | For approximately 130 metres within plots 27, 24, 28, 22 and 29, as shown on the land plans, drawing C\_0014 Rev 01 of the works plans and in more detail on diagram 17 on page 18 of the DCO Schedules 6-8 explanatory diagrams. |
-| In the London Borough of Enfield. | Footpath leading from Lee Park Way to the tow path on the River Lee Navigation within plot 21 as shown on the land plans and drawing C\_0014 Rev 01 of the works plans. | For approximately 37 metres from the point of the access to be constructed to the temporary laydown area from Lee Park Way towards the eastern bank of the River Lee Navigation (north of the bridge over the River Lee Navigation), within plot 21, as shown on the land plans, drawing C\_0014 Rev 01 of the works plans[^key-ce2a140ad6a0adbd566fdf7cfe3b71e4] and in more detail on diagram 18 on page 19 of the DCO Schedules 6-8 explanatory diagrams. |
+| In the London Borough of Enfield. | Footpath leading from Lee Park Way to the tow path on the River Lee Navigation within plot 21 as shown on the land plans and drawing C\_0014 Rev 01 of the works plans. | For approximately 37 metres from the point of the access to be constructed to the temporary laydown area from Lee Park Way towards the eastern bank of the River Lee Navigation (north of the bridge over the River Lee Navigation), within plot 21, as shown on the land plans, drawing C\_0014 Rev 01 of the works plans[^c-ce2a140ad6a0adbd566fdf7cfe3b71e4] and in more detail on diagram 18 on page 19 of the DCO Schedules 6-8 explanatory diagrams. |
 
 ## Annotations
 
-[^key-e4a47455677ce98a58b951749d148692]: Commencement: Sch. 8 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-e4a47455677ce98a58b951749d148692]: Commencement: Sch. 8 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
 
-[^key-ce2a140ad6a0adbd566fdf7cfe3b71e4]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2017/215/schedule/8) substituted (6.7.2018) by [The North London Heat and Power Generating Station (Correction) Order 2018 (S.I. 2018/822)](https://www.legislation.gov.uk/uksi/2018/822), [art. 1](https://www.legislation.gov.uk/uksi/2018/822/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/822/schedule)
+[^c-ce2a140ad6a0adbd566fdf7cfe3b71e4]: Textual amendment: Words in [Sch. 8](https://www.legislation.gov.uk/uksi/2017/215/schedule/8) substituted (6.7.2018) by [The North London Heat and Power Generating Station (Correction) Order 2018 (S.I. 2018/822)](https://www.legislation.gov.uk/uksi/2018/822), [art. 1](https://www.legislation.gov.uk/uksi/2018/822/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/822/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74A. List C Articles[^key-fee4c7369ba353bfdda0b18bfd7d7fba]
+## 74A. List C Articles[^c-fee4c7369ba353bfdda0b18bfd7d7fba]
 
 *Extent: E+W*
 
@@ -32,12 +32,12 @@ A List C article is any article or substance in the following list—
 - (h) books;
 - (i) tools;
 - (j) information technology equipment.
-- (k)[^key-356915c9499602928551f153a3b9ce91] electronic cigarettes;
+- (k)[^c-356915c9499602928551f153a3b9ce91] electronic cigarettes;
 - (l) matches;
 - (m) lighters.
 
 ## Annotations
 
-[^key-fee4c7369ba353bfdda0b18bfd7d7fba]: Textual amendment: [Rule 74A](https://www.legislation.gov.uk/uksi/2000/3371/rule/74A) inserted (1.4.2008) by [The Young Offender Institution (Amendment) Rules 2008 (S.I. 2008/599)](https://www.legislation.gov.uk/uksi/2008/599), [rules 1](https://www.legislation.gov.uk/uksi/2008/599/rule/1), [6](https://www.legislation.gov.uk/uksi/2008/599/rule/6)
+[^c-fee4c7369ba353bfdda0b18bfd7d7fba]: Textual amendment: [Rule 74A](https://www.legislation.gov.uk/uksi/2000/3371/rule/74A) inserted (1.4.2008) by [The Young Offender Institution (Amendment) Rules 2008 (S.I. 2008/599)](https://www.legislation.gov.uk/uksi/2008/599), [rules 1](https://www.legislation.gov.uk/uksi/2008/599/rule/1), [6](https://www.legislation.gov.uk/uksi/2008/599/rule/6)
 
-[^key-356915c9499602928551f153a3b9ce91]: Textual amendment: [Rule 74A(k)-(m)](https://www.legislation.gov.uk/uksi/2000/3371/rule/74A/k) inserted (22.5.2018) by [The Prison and Young Offender Institution (Amendment) Rules 2018 (S.I. 2018/549)](https://www.legislation.gov.uk/uksi/2018/549), [rules 1](https://www.legislation.gov.uk/uksi/2018/549/rule/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/549/rule/3/4)
+[^c-356915c9499602928551f153a3b9ce91]: Textual amendment: [Rule 74A(k)-(m)](https://www.legislation.gov.uk/uksi/2000/3371/rule/74A/k) inserted (22.5.2018) by [The Prison and Young Offender Institution (Amendment) Rules 2018 (S.I. 2018/549)](https://www.legislation.gov.uk/uksi/2018/549), [rules 1](https://www.legislation.gov.uk/uksi/2018/549/rule/1), [3(4)](https://www.legislation.gov.uk/uksi/2018/549/rule/3/4)

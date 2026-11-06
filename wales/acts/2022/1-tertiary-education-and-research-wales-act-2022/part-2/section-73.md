@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Duty to co-operate[^key-b84970bb83ebd7b41fa9ad566eddb771][^key-bf8c0fdb6d470333d9c9219aa19d7b5f]
+## 73. Duty to co-operate[^c-b84970bb83ebd7b41fa9ad566eddb771][^c-bf8c0fdb6d470333d9c9219aa19d7b5f]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b84970bb83ebd7b41fa9ad566eddb771]: Commencement: S. 73 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-b84970bb83ebd7b41fa9ad566eddb771]: Commencement: S. 73 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-bf8c0fdb6d470333d9c9219aa19d7b5f]: Commencement: [S. 73](https://www.legislation.gov.uk/asc/2022/1/section/73) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(v)](https://www.legislation.gov.uk/wsi/2025/432/article/2/v)
+[^c-bf8c0fdb6d470333d9c9219aa19d7b5f]: Commencement: [S. 73](https://www.legislation.gov.uk/asc/2022/1/section/73) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(v)](https://www.legislation.gov.uk/wsi/2025/432/article/2/v)

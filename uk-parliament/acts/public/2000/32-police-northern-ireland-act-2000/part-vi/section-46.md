@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Discrimination in appointments.[^c1055559][^key-343f747f97b659322943aad4159a84bb][^key-cf403e8a89788dbb1b62271d23f50614][^key-f3c71216c16b4030e7b7f01b40f844d4]
+## 46. Discrimination in appointments.[^c1055559][^c-343f747f97b659322943aad4159a84bb][^c-cf403e8a89788dbb1b62271d23f50614][^c-f3c71216c16b4030e7b7f01b40f844d4]
 
 *Extent: N.I.*
 
-(1)[^key-bfe9e54487e717cd667eebfc07aeec9c] Subject to subsection (2), in making appointments under section 39 on any occasion, the Chief Constable shall proceed as set out in subsections (1A) to (1F).
+(1)[^c-bfe9e54487e717cd667eebfc07aeec9c] Subject to subsection (2), in making appointments under section 39 on any occasion, the Chief Constable shall proceed as set out in subsections (1A) to (1F).
 
 (1A) He shall provisionally appoint from the pool of applicants formed by virtue of section 44(5) an even number of persons of whom—
 
@@ -54,7 +54,7 @@ the Chief Constable shall confirm the appointment.
 
 (3) The Secretary of State shall not make an order under subsection (2) in relation to the making of appointments under section 39 on any occasion unless he is satisfied that—
 
-- (a) were those appointments to be made in compliance with subsections (1) to (1F)[^key-2b910fb4145382eb298204569f4fe48f] the number of police trainees which the Chief Constable requires to be appointed on that occasion could not be appointed; or
+- (a) were those appointments to be made in compliance with subsections (1) to (1F)[^c-2b910fb4145382eb298204569f4fe48f] the number of police trainees which the Chief Constable requires to be appointed on that occasion could not be appointed; or
 - (b) one or more orders under subsection (2) have been made in the previous three years and he considers that it is appropriate to make the order for the purpose of redressing, or partially redressing, the imbalance occurring during that period.
 
 (4) No order may be made under subsection (2) as a result of subsection (3)(b) which has the effect, as respects an occasion specified in the order, of requiring more than three-quarters of the persons appointed on that occasion to be—
@@ -62,7 +62,7 @@ the Chief Constable shall confirm the appointment.
 - (a) the persons who are treated as Roman Catholic; or
 - (b) the persons who are not so treated.
 
-(5)[^key-6cbd683fc712557874f47a8674aa71cf] Subject to subsection (6), in making appointments to relevant posts in the police support staff under subsection (3) of section 4 on any occasion, the Chief Constable (acting by virtue of subsection (5) of that section) shall proceed as set out in subsections (5A) to (5F).
+(5)[^c-6cbd683fc712557874f47a8674aa71cf] Subject to subsection (6), in making appointments to relevant posts in the police support staff under subsection (3) of section 4 on any occasion, the Chief Constable (acting by virtue of subsection (5) of that section) shall proceed as set out in subsections (5A) to (5F).
 
 (5A) He shall provisionally appoint from the pool of applicants formed by virtue of section 44(6) an even number of persons of whom—
 
@@ -92,9 +92,9 @@ the Chief Constable shall confirm the appointment.
 
 (6) The Secretary of State may, after consultation with the Board and the Chief Constable, by order amend any of subsections (5) to (5F) in their application to the making of appointments under section 4(3) on any occasion specified in the order.
 
-(7) The Secretary of State shall not make an order under subsection (6) in relation to the making of appointments under section 4 on any occasion unless he is satisfied that were those appointments to be made in compliance with subsections (5) to (5F)[^key-7c46b02c178990c87084c7270124ccc3] the number of police support staff which the Chief Constable requires to be appointed on that occasion could not be appointed.
+(7) The Secretary of State shall not make an order under subsection (6) in relation to the making of appointments under section 4 on any occasion unless he is satisfied that were those appointments to be made in compliance with subsections (5) to (5F)[^c-7c46b02c178990c87084c7270124ccc3] the number of police support staff which the Chief Constable requires to be appointed on that occasion could not be appointed.
 
-(8) In this section[^key-2b98084f933f8484f6ff4dafc70329ec] “**treated as Roman Catholic**” means treated by the Chief Constable in accordance with the Monitoring Regulations as belonging to the Roman Catholic community in Northern Ireland.
+(8) In this section[^c-2b98084f933f8484f6ff4dafc70329ec] “**treated as Roman Catholic**” means treated by the Chief Constable in accordance with the Monitoring Regulations as belonging to the Roman Catholic community in Northern Ireland.
 
 (9) In subsection (8) “**the Monitoring Regulations**” means the [^c1055560]Fair Employment (Monitoring) Regulations (Northern Ireland) 1999 or any regulations replacing those regulations and for the time being in operation.
 
@@ -120,21 +120,21 @@ the Chief Constable shall confirm the appointment.
 
 [^c1055559]: Modification: S. 46 shall expire on the third anniversary of the comencement date unless continued by order as mentioned in s. 47.
 
-[^key-343f747f97b659322943aad4159a84bb]: Modification: S. 46 continued (30.3.2004) (temp. until 28.3.2007) by [Police (Northern Ireland) Act 2000 (Renewal of Temporary Provisions) Order 2004 (S.R. 2004/114)](https://www.legislation.gov.uk/nisr/2004/114), [art. 2](https://www.legislation.gov.uk/nisr/2004/114/article/2)
+[^c-343f747f97b659322943aad4159a84bb]: Modification: S. 46 continued (30.3.2004) (temp. until 28.3.2007) by [Police (Northern Ireland) Act 2000 (Renewal of Temporary Provisions) Order 2004 (S.R. 2004/114)](https://www.legislation.gov.uk/nisr/2004/114), [art. 2](https://www.legislation.gov.uk/nisr/2004/114/article/2)
 
-[^key-cf403e8a89788dbb1b62271d23f50614]: Modification: S. 46 continued (29.3.2007) (temp. from 28.3.2007 until 28.3.2010) by [Police (Northern Ireland) Act 2000 (Renewal of Temporary Provisions) Order 2007 (S.R. 2007/214)](https://www.legislation.gov.uk/nisr/2007/214), [arts. 1](https://www.legislation.gov.uk/nisr/2007/214/article/1), [2](https://www.legislation.gov.uk/nisr/2007/214/article/2)
+[^c-cf403e8a89788dbb1b62271d23f50614]: Modification: S. 46 continued (29.3.2007) (temp. from 28.3.2007 until 28.3.2010) by [Police (Northern Ireland) Act 2000 (Renewal of Temporary Provisions) Order 2007 (S.R. 2007/214)](https://www.legislation.gov.uk/nisr/2007/214), [arts. 1](https://www.legislation.gov.uk/nisr/2007/214/article/1), [2](https://www.legislation.gov.uk/nisr/2007/214/article/2)
 
-[^key-f3c71216c16b4030e7b7f01b40f844d4]: Modification: S. 46 continued (29.3.2010 with effect in accordance with art. 2 of the amending S.R.) by [Police (Northern Ireland) Act 2000 (Renewal of Temporary Provisions) Order 2010 (S.R. 2010/112)](https://www.legislation.gov.uk/nisr/2010/112), [arts. 1](https://www.legislation.gov.uk/nisr/2010/112/article/1), [2](https://www.legislation.gov.uk/nisr/2010/112/article/2)
+[^c-f3c71216c16b4030e7b7f01b40f844d4]: Modification: S. 46 continued (29.3.2010 with effect in accordance with art. 2 of the amending S.R.) by [Police (Northern Ireland) Act 2000 (Renewal of Temporary Provisions) Order 2010 (S.R. 2010/112)](https://www.legislation.gov.uk/nisr/2010/112), [arts. 1](https://www.legislation.gov.uk/nisr/2010/112/article/1), [2](https://www.legislation.gov.uk/nisr/2010/112/article/2)
 
-[^key-bfe9e54487e717cd667eebfc07aeec9c]: Textual amendment: S. 46(1)-(2) substituted for s. 46(1)(2) (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [8(2)](https://www.legislation.gov.uk/nisi/2007/912/article/8/2)
+[^c-bfe9e54487e717cd667eebfc07aeec9c]: Textual amendment: S. 46(1)-(2) substituted for s. 46(1)(2) (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [8(2)](https://www.legislation.gov.uk/nisi/2007/912/article/8/2)
 
-[^key-2b910fb4145382eb298204569f4fe48f]: Textual amendment: Words in s. 46(3)(a) substituted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [8(3)(a)](https://www.legislation.gov.uk/nisi/2007/912/article/8/3/a)
+[^c-2b910fb4145382eb298204569f4fe48f]: Textual amendment: Words in s. 46(3)(a) substituted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [8(3)(a)](https://www.legislation.gov.uk/nisi/2007/912/article/8/3/a)
 
-[^key-6cbd683fc712557874f47a8674aa71cf]: Textual amendment: S. 46(5)-(6) substituted for s. 46(5)(6) (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [9(3)](https://www.legislation.gov.uk/nisi/2007/912/article/9/3)
+[^c-6cbd683fc712557874f47a8674aa71cf]: Textual amendment: S. 46(5)-(6) substituted for s. 46(5)(6) (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [9(3)](https://www.legislation.gov.uk/nisi/2007/912/article/9/3)
 
-[^key-7c46b02c178990c87084c7270124ccc3]: Textual amendment: Words in s. 46(7) substituted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [9(4)](https://www.legislation.gov.uk/nisi/2007/912/article/9/4)
+[^c-7c46b02c178990c87084c7270124ccc3]: Textual amendment: Words in s. 46(7) substituted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [9(4)](https://www.legislation.gov.uk/nisi/2007/912/article/9/4)
 
-[^key-2b98084f933f8484f6ff4dafc70329ec]: Textual amendment: Words in s. 46(8) substituted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [8(3)(b)](https://www.legislation.gov.uk/nisi/2007/912/article/8/3/b)
+[^c-2b98084f933f8484f6ff4dafc70329ec]: Textual amendment: Words in s. 46(8) substituted (22.4.2007) by [The Policing (Miscellaneous Provisions) (Northern Ireland) Order 2007 (S.I. 2007/912 (N.I. 6))](https://www.legislation.gov.uk/nisi/2007/912), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/912/article/1/3), [8(3)(b)](https://www.legislation.gov.uk/nisi/2007/912/article/8/3/b)
 
 [^c1055560]: Marginal citation: SR [1999 No. 148](https://www.legislation.gov.uk/ukcm/1999/148).
 

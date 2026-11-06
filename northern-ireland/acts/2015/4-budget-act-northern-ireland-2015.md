@@ -32,75 +32,75 @@ Budget Act (Northern Ireland) 2015 (repealed)
 
 2015 CHAPTER 4
 
-[^key-7195dc9bd6924221aaa16c2969f66501]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7195dc9bd6924221aaa16c2969f66501]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Issue of sum out of the Consolidated Fund for the year ending 31st March 2015 and appropriation of that sum[^key-7195dc9bd6924221aaa16c2969f66501]
+## 1. Issue of sum out of the Consolidated Fund for the year ending 31st March 2015 and appropriation of that sum[^c-7195dc9bd6924221aaa16c2969f66501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Use of resources (other than accruing resources) in the year ending 31st March 2015[^key-7195dc9bd6924221aaa16c2969f66501]
+## 2. Use of resources (other than accruing resources) in the year ending 31st March 2015[^c-7195dc9bd6924221aaa16c2969f66501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revised limits on use of certain accruing resources in the year ending 31st March 2015[^key-7195dc9bd6924221aaa16c2969f66501]
+## 3. Revised limits on use of certain accruing resources in the year ending 31st March 2015[^c-7195dc9bd6924221aaa16c2969f66501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Issue of sum out of the Consolidated Fund for the year ending 31st March 2016 and appropriation of that sum[^key-7195dc9bd6924221aaa16c2969f66501]
+## 4. Issue of sum out of the Consolidated Fund for the year ending 31st March 2016 and appropriation of that sum[^c-7195dc9bd6924221aaa16c2969f66501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Power of the Department of Finance and Personnel to borrow[^key-7195dc9bd6924221aaa16c2969f66501]
+## 5. Power of the Department of Finance and Personnel to borrow[^c-7195dc9bd6924221aaa16c2969f66501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Use of resources (other than accruing resources) in the year ending 31st March 2016[^key-7195dc9bd6924221aaa16c2969f66501]
+## 6. Use of resources (other than accruing resources) in the year ending 31st March 2016[^c-7195dc9bd6924221aaa16c2969f66501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Use of resources (other than accruing resources) in the year ending 31st March 2016 by the Department of Justice: Northern Ireland Judicial Pension Scheme[^key-7195dc9bd6924221aaa16c2969f66501]
+## 7. Use of resources (other than accruing resources) in the year ending 31st March 2016 by the Department of Justice: Northern Ireland Judicial Pension Scheme[^c-7195dc9bd6924221aaa16c2969f66501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Limits on use of certain accruing resources in the year ending 31st March 2016: Northern Ireland Judicial Pension Scheme[^key-7195dc9bd6924221aaa16c2969f66501]
+## 8. Limits on use of certain accruing resources in the year ending 31st March 2016: Northern Ireland Judicial Pension Scheme[^c-7195dc9bd6924221aaa16c2969f66501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Short title[^key-7195dc9bd6924221aaa16c2969f66501]
+## 9. Short title[^c-7195dc9bd6924221aaa16c2969f66501]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-7195dc9bd6924221aaa16c2969f66501]SCHEDULES
+[^c-7195dc9bd6924221aaa16c2969f66501]SCHEDULES
 
-## SCHEDULE 1 — Sums granted for the year ending 31st March 2015[^key-7195dc9bd6924221aaa16c2969f66501]
+## SCHEDULE 1 — Sums granted for the year ending 31st March 2015[^c-7195dc9bd6924221aaa16c2969f66501]
 
 Section 1.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Amounts of resources authorised for use and amounts of accruing resources which may be used in year ending 31st March 2015[^key-7195dc9bd6924221aaa16c2969f66501]
+## SCHEDULE 2 — Amounts of resources authorised for use and amounts of accruing resources which may be used in year ending 31st March 2015[^c-7195dc9bd6924221aaa16c2969f66501]
 
 Sections 2 and 3.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Sums granted for the year ending 31st March 2016[^key-7195dc9bd6924221aaa16c2969f66501]
+## SCHEDULE 3 — Sums granted for the year ending 31st March 2016[^c-7195dc9bd6924221aaa16c2969f66501]
 
 Section 4.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 4 — Amounts of resources authorised for use in the year ending 31st March 2016[^key-7195dc9bd6924221aaa16c2969f66501]
+## SCHEDULE 4 — Amounts of resources authorised for use in the year ending 31st March 2016[^c-7195dc9bd6924221aaa16c2969f66501]
 
 Section 6.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 5 — Amounts of resources authorised for use and amounts of accruing resources which may be used in year ending 31st March 2016 by the Department of Justice: Northern Ireland Judicial Pension Scheme[^key-7195dc9bd6924221aaa16c2969f66501]
+## SCHEDULE 5 — Amounts of resources authorised for use and amounts of accruing resources which may be used in year ending 31st March 2016 by the Department of Justice: Northern Ireland Judicial Pension Scheme[^c-7195dc9bd6924221aaa16c2969f66501]
 
 Sections 7 and 8.
 
@@ -108,4 +108,4 @@ Sections 7 and 8.
 
 ## Annotations
 
-[^key-7195dc9bd6924221aaa16c2969f66501]: Textual amendment: [Act](https://www.legislation.gov.uk/nia/2015/4) repealed (19.7.2018) by [Northern Ireland Budget Act 2018 (c. 20)](https://www.legislation.gov.uk/ukpga/2018/20), [s. 6](https://www.legislation.gov.uk/ukpga/2018/20/section/6)
+[^c-7195dc9bd6924221aaa16c2969f66501]: Textual amendment: [Act](https://www.legislation.gov.uk/nia/2015/4) repealed (19.7.2018) by [Northern Ireland Budget Act 2018 (c. 20)](https://www.legislation.gov.uk/ukpga/2018/20), [s. 6](https://www.legislation.gov.uk/ukpga/2018/20/section/6)

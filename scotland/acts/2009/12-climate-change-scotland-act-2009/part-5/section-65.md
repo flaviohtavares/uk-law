@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Duty of local authorities to establish energy efficiency discount schemes[^key-e0cf7db1df19bc818e58ca0433b220ea]
+## 65. Duty of local authorities to establish energy efficiency discount schemes[^c-e0cf7db1df19bc818e58ca0433b220ea]
 
 *Extent: S*
 
@@ -86,4 +86,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0cf7db1df19bc818e58ca0433b220ea]: Commencement: S. 65 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)
+[^c-e0cf7db1df19bc818e58ca0433b220ea]: Commencement: S. 65 in force at 1.4.2010 by [S.S.I. 2009/341](https://www.legislation.gov.uk/ssi/2009/341), [art. 2(3)](https://www.legislation.gov.uk/ssi/2009/341/article/2/3)

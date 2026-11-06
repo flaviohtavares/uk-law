@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Patients not seen within three years[^key-33f6dd7d670903c622935625cbd1100d]
+## 29. Patients not seen within three years[^c-33f6dd7d670903c622935625cbd1100d]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ The term of a general medical services contract which gives effect to paragraph 
 
 ## Annotations
 
-[^key-33f6dd7d670903c622935625cbd1100d]: Commencement: Art. 29 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)
+[^c-33f6dd7d670903c622935625cbd1100d]: Commencement: Art. 29 in force at 1.4.2004, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2004/1016/article/1/1)

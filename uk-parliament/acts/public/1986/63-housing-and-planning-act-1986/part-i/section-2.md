@@ -45,7 +45,7 @@ summary: ''
 
 .
 
-(2)[^key-a79dd51097e4820e4e7e2d120520d81b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-a79dd51097e4820e4e7e2d120520d81b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In the following provisions (which in the case of disposals at a discount require a covenant for repayment of a proportion of the discount if the dwelling-house is disposed of within five years)—
 
@@ -65,6 +65,6 @@ for “five years” substitute “three years” and for “20 per cent.” sub
 
 [^c11871661]: Marginal citation: [1985 c. 68](https://www.legislation.gov.uk/ukpga/1985/68).
 
-[^key-a79dd51097e4820e4e7e2d120520d81b]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/2/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-a79dd51097e4820e4e7e2d120520d81b]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/1986/63/section/2/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
 [^c11871681]: Textual amendment: Entry in s. 2(3) repealed (1.10.1996) by [S.I. 1996/2325](https://www.legislation.gov.uk/uksi/1996/2325), [art. 4(1)-(3)](https://www.legislation.gov.uk/uksi/1996/2325/article/4/1), [Sch. 1 Pt. I](https://www.legislation.gov.uk/uksi/1996/2325/schedule/1/part/I)

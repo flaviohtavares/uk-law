@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 205. Power to make consequential provision[^key-a9114380df1bd46c2d4a10181ee5f03b]
+## 205. Power to make consequential provision[^c-a9114380df1bd46c2d4a10181ee5f03b]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9114380df1bd46c2d4a10181ee5f03b]: Commencement: S. 205 in force at Royal Assent, see [s. 208(4)(ac)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/ac)
+[^c-a9114380df1bd46c2d4a10181ee5f03b]: Commencement: S. 205 in force at Royal Assent, see [s. 208(4)(ac)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/4/ac)

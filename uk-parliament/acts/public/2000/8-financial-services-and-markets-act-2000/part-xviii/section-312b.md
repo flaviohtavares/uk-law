@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 312B. Removal of passport rights from EEA market operator[^key-7b6d2284191737daa68a651f0f502b90]
+## 312B. Removal of passport rights from EEA market operator[^c-7b6d2284191737daa68a651f0f502b90]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b6d2284191737daa68a651f0f502b90]: Textual amendment: Pt. 18 Ch. 3A omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/662/regulation/7) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b6d2284191737daa68a651f0f502b90]: Textual amendment: Pt. 18 Ch. 3A omitted (31.12.2020) by virtue of [The Investment Exchanges, Clearing Houses and Central Securities Depositories (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/662)](https://www.legislation.gov.uk/uksi/2019/662), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/662/regulation/1/3), [7](https://www.legislation.gov.uk/uksi/2019/662/regulation/7) (with savings in [S.I. 2019/680](https://www.legislation.gov.uk/uksi/2019/680), [reg. 11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

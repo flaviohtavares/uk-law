@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.14. Allocation and sending for Crown Court trial[^key-8d3ee5eb5f7250cf70b4e2b136a25254]
+## 9.14. Allocation and sending for Crown Court trial[^c-8d3ee5eb5f7250cf70b4e2b136a25254]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8d3ee5eb5f7250cf70b4e2b136a25254]: Commencement: [Rule 9.14](https://www.legislation.gov.uk/uksi/2025/909/rule/9.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-8d3ee5eb5f7250cf70b4e2b136a25254]: Commencement: [Rule 9.14](https://www.legislation.gov.uk/uksi/2025/909/rule/9.14) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00286]: Footnote: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43); section 21 was amended by paragraphs 1 and 7 of Schedule 3 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 

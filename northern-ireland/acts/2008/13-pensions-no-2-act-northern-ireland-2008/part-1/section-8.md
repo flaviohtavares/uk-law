@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 8. Jobholder's right to opt out[^c19555551][^key-663adbbaebd2f550c69d47af23c60540][^key-295e4dd8d1f46032118beafb1e305989]
+## 8. Jobholder's right to opt out[^c19555551][^c-663adbbaebd2f550c69d47af23c60540][^c-295e4dd8d1f46032118beafb1e305989]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 [^c19555551]: Commencement: S. 8 partly in force; s. 8 in force for certain purposes at Royal Assent see s. 118(2)
 
-[^key-663adbbaebd2f550c69d47af23c60540]: Commencement: S. 8 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
+[^c-663adbbaebd2f550c69d47af23c60540]: Commencement: S. 8 in operation at 30.6.2012 in so far as not already in operation by [S.R. 2012/266](https://www.legislation.gov.uk/nisr/2012/266), [art. 2](https://www.legislation.gov.uk/nisr/2012/266/article/2), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2012/266/schedule/part/1)
 
-[^key-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))
+[^c-295e4dd8d1f46032118beafb1e305989]: Modification: Pt. 1 applied (with modifications) (1.7.2012) by [The Automatic Enrolment (Offshore Employment) Order 2012 (S.I. 2012/1388)](https://www.legislation.gov.uk/uksi/2012/1388), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2012/1388/article/1/1), [2](https://www.legislation.gov.uk/uksi/2012/1388/article/2) (with [art. 5](https://www.legislation.gov.uk/uksi/2012/1388/article/5))

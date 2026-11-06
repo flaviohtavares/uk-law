@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 26. Meaning of “tenement”[^key-2f743f4c6326ec57ad4cd151f19b86da]
+## 26. Meaning of “tenement”[^c-2f743f4c6326ec57ad4cd151f19b86da]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ treating the building or part for that purpose as if it were a tenement.
 
 ## Annotations
 
-[^key-2f743f4c6326ec57ad4cd151f19b86da]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2004/11/section/26) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-2f743f4c6326ec57ad4cd151f19b86da]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2004/11/section/26) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

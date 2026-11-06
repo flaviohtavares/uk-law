@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Education and training for persons over compulsory school age: general duty[^key-51a65c2f93049c999123c693e6aaf9a0]
+## 41. Education and training for persons over compulsory school age: general duty[^c-51a65c2f93049c999123c693e6aaf9a0]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ Before section 15A of the Education Act 1996 (c. 56) insert—
 
 > **15ZA. Duty in respect of education and training for persons over compulsory school age: England**
 >
-> (1) A local authority[^key-539a148a152b679b0b2f5402f58a05e0] in England must secure that enough suitable education and training is provided to meet the reasonable needs of—
+> (1) A local authority[^c-539a148a152b679b0b2f5402f58a05e0] in England must secure that enough suitable education and training is provided to meet the reasonable needs of—
 >
 > - (a) persons in their area who are over compulsory school age but under 19, and
 > - (b) persons in their area who are aged 19 or over but under 25 and are subject to learning difficulty assessment.
@@ -80,12 +80,12 @@ Before section 15A of the Education Act 1996 (c. 56) insert—
 >
 > **15ZB. Co-operation in performance of section 15ZA duty**
 >
-> Local authorities[^key-062d27e760c356996de33ee6a2c9d7a4] in England must co-operate with each other in performing their duties under section 15ZA(1).
+> Local authorities[^c-062d27e760c356996de33ee6a2c9d7a4] in England must co-operate with each other in performing their duties under section 15ZA(1).
 
 ## Annotations
 
-[^key-51a65c2f93049c999123c693e6aaf9a0]: Commencement: S. 41 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
+[^c-51a65c2f93049c999123c693e6aaf9a0]: Commencement: S. 41 in force at 1.4.2010 by [S.I. 2010/303](https://www.legislation.gov.uk/uksi/2010/303), [art. 3](https://www.legislation.gov.uk/uksi/2010/303/article/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/303/schedule/2) (with [arts. 9-11](https://www.legislation.gov.uk/uksi/2010/303/article/9))
 
-[^key-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
+[^c-539a148a152b679b0b2f5402f58a05e0]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158) , [Sch. 2 para. 16(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/2)
 
-[^key-062d27e760c356996de33ee6a2c9d7a4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/3)
+[^c-062d27e760c356996de33ee6a2c9d7a4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children's Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 16(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/16/3)

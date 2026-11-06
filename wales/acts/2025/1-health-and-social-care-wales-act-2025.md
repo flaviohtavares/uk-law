@@ -46,7 +46,7 @@ An Act of Senedd Cymru to make provision about the regulation and provision of s
 
 #### Overview of Chapter
 
-##### 1. Overview of Chapter 1[^key-357778adae97cf7769fbf0754c7e8f55]
+##### 1. Overview of Chapter 1[^c-357778adae97cf7769fbf0754c7e8f55]
 
 (1) This Chapter makes provision to restrict the making of profit in the provision of care home services provided wholly or mainly to children (children’s home services), fostering services and secure accommodation services (referred to as “**restricted children’s services**”).
 
@@ -68,7 +68,7 @@ An Act of Senedd Cymru to make provision about the regulation and provision of s
 
 #### Regulation of social care services provided to children
 
-##### 2. Restricted children’s services[^key-a8cab80bc52bc860d1d2742a3f7e8782][^key-fa40fbe3bedb77047d96b11876d5eed8]
+##### 2. Restricted children’s services[^c-a8cab80bc52bc860d1d2742a3f7e8782][^c-fa40fbe3bedb77047d96b11876d5eed8]
 
 In the 2016 Act—
 
@@ -99,15 +99,15 @@ In the 2016 Act—
   >
   > (3B) In sub-paragraph (3A), “looked after children‍ means children who are looked after by local authorities as described in section 74(1) of the 2014 Act.
 
-##### 3. Applications for registration in respect of restricted children’s services[^key-901685dabffc8ec8d3c5b5ebe2101460]
+##### 3. Applications for registration in respect of restricted children’s services[^c-901685dabffc8ec8d3c5b5ebe2101460]
 
-(1)[^key-2e487dd77c0d1715796f58ed7ada19c5] The 2016 Act is amended as follows.
+(1)[^c-2e487dd77c0d1715796f58ed7ada19c5] The 2016 Act is amended as follows.
 
-(2)[^key-2e487dd77c0d1715796f58ed7ada19c5] In section 6, after subsection (1) insert—
+(2)[^c-2e487dd77c0d1715796f58ed7ada19c5] In section 6, after subsection (1) insert—
 
 > (1A) In the case of a person, other than a local authority, who wants to provide a restricted children’s service, the application must also include such information as may be prescribed to satisfy the Welsh Ministers that the person meets the requirement in section 6A(1).
 
-(3)[^key-31dd6765d13fd8506194b8c3ba67ca01] After section 6 insert—
+(3)[^c-31dd6765d13fd8506194b8c3ba67ca01] After section 6 insert—
 
 > **6A. Registration in respect of a restricted children’s service**
 >
@@ -169,17 +169,17 @@ In the 2016 Act—
 > - (a) references to a company’s liability being “limited by guarantee” have the meaning given by section 3(3) of the Companies Act 2006, and
 > - (b) a company does not have a share capital if it does not have power under its constitution to issue shares‍.
 
-##### 4. Registration in respect of a restricted children’s service: transitional arrangements[^key-a5592f65c7c1acdeafb9c16da1440a84]
+##### 4. Registration in respect of a restricted children’s service: transitional arrangements[^c-a5592f65c7c1acdeafb9c16da1440a84]
 
-(1)[^key-d93302ffb66297b87307a643b875f4bf] The 2016 Act is amended as follows.
+(1)[^c-d93302ffb66297b87307a643b875f4bf] The 2016 Act is amended as follows.
 
-(2)[^key-b89c3fdec7fc11d33c7e7baf902fb226][^key-2ba16a4007b45dbd9cfea8a078250493] After section 6B (as inserted by section 3) insert—
+(2)[^c-b89c3fdec7fc11d33c7e7baf902fb226][^c-2ba16a4007b45dbd9cfea8a078250493] After section 6B (as inserted by section 3) insert—
 
 > **6C. Registration in respect of a restricted children’s service: transitional arrangements**
 >
 > Schedule 1A makes provision for transitional arrangements in respect of service providers registered prior to the coming into force of section 6A(1).
 
-(3)[^key-b89c3fdec7fc11d33c7e7baf902fb226][^key-2ba16a4007b45dbd9cfea8a078250493] After Schedule 1 insert—
+(3)[^c-b89c3fdec7fc11d33c7e7baf902fb226][^c-2ba16a4007b45dbd9cfea8a078250493] After Schedule 1 insert—
 
 > **SCHEDULE 1A — RESTRICTED CHILDREN’S SERVICES: TRANSITIONAL REGISTRATION ARRANGEMENTS FOR EXISTING SERVICE PROVIDERS**
 >
@@ -286,9 +286,9 @@ In the 2016 Act—
 > - (a) “**looked after children**” means children who are looked after by local authorities as described in section 74(1) of the 2014 Act;
 > - (b) references to the “register are to the register maintained under section 38 of this Act.
 
-(4)[^key-d470b85d1925fb3d2c89148cd4c049ee] In section 45, after “section 27 or 37(2)(a)” insert “or under paragraph 3(1) of Schedule 1A”.
+(4)[^c-d470b85d1925fb3d2c89148cd4c049ee] In section 45, after “section 27 or 37(2)(a)” insert “or under paragraph 3(1) of Schedule 1A”.
 
-##### 5. Grant or refusal of registration in respect of a restricted children’s service[^key-93ecbeeac6ab7464410c6d9ac863725f][^key-062884bb85791db62b9949265b5dde24]
+##### 5. Grant or refusal of registration in respect of a restricted children’s service[^c-93ecbeeac6ab7464410c6d9ac863725f][^c-062884bb85791db62b9949265b5dde24]
 
 (1) The 2016 Act is amended as follows.
 
@@ -307,7 +307,7 @@ In the 2016 Act—
 
   .
 
-##### 6. Fit and proper person: relevant considerations[^key-5c32a6b8de139a6aae1fbd8b9be7cbf5][^key-345994495a422b770ef986dc0e7c3d81]
+##### 6. Fit and proper person: relevant considerations[^c-5c32a6b8de139a6aae1fbd8b9be7cbf5][^c-345994495a422b770ef986dc0e7c3d81]
 
 (1) The 2016 Act is amended as follows.
 
@@ -394,7 +394,7 @@ In the 2016 Act—
 > - “**person**” (“***person***”) includes a body corporate, a partnership and an unincorporated association;
 > - “**subsidiary**” (“*is-gorff*) has the meaning given by section 1159 of the [Companies Act 2006 (c. 46)](https://www.legislation.gov.uk/ukpga/2006/46).
 
-##### 7. Providers of restricted children’s services: information contained in annual return[^key-1efec65d175eab54f6c705a5e821f07f][^key-e6730bbfae4ffc12e114da39405e9642]
+##### 7. Providers of restricted children’s services: information contained in annual return[^c-1efec65d175eab54f6c705a5e821f07f][^c-e6730bbfae4ffc12e114da39405e9642]
 
 In the 2016 Act, in section 10—
 
@@ -424,24 +424,24 @@ In the 2016 Act, in section 10—
 
     .
 
-##### 8. Variation or cancellation of registration as a provider of a restricted children’s service[^key-f1ad8e365dcb63c7c91c6dd8816bb5a7]
+##### 8. Variation or cancellation of registration as a provider of a restricted children’s service[^c-f1ad8e365dcb63c7c91c6dd8816bb5a7]
 
-(1)[^key-962ac254e502936c4bcb9600e5525083] The 2016 Act is amended as follows.
+(1)[^c-962ac254e502936c4bcb9600e5525083] The 2016 Act is amended as follows.
 
-(2)[^key-962ac254e502936c4bcb9600e5525083] In section 11, after subsection (3) insert—
+(2)[^c-962ac254e502936c4bcb9600e5525083] In section 11, after subsection (3) insert—
 
 > (4) In the case of an application under subsection (1)(a)(i) to provide a restricted children’s service, the application must also contain such information as may be prescribed to satisfy the Welsh Ministers that the service provider meets the requirement in section 6A(1)
 
 .
 
-(3)[^key-30d9ac47a9ed84640df066922c7bbccb] In section 12—
+(3)[^c-30d9ac47a9ed84640df066922c7bbccb] In section 12—
 
 - (a) in subsection (1), for “subsection (2)” substitute “subsections (1A) and (2)”;
 - (b) after subsection (1) insert—
 
   > (1A) In the case of an application under section 11(1)(a)(i) to provide a restricted children’s service, the Welsh Ministers may only grant an application if they are satisfied that the service provider meets the requirement in section 6A(1).
 
-(4)[^key-30d9ac47a9ed84640df066922c7bbccb] In section 13, in subsection (3)—
+(4)[^c-30d9ac47a9ed84640df066922c7bbccb] In section 13, in subsection (3)—
 
 - (a) at the end of paragraph (a) omit “or”
 - (b) at the end of paragraph (b) insert “, or”;
@@ -449,11 +449,11 @@ In the 2016 Act, in section 10—
 
   > - (c) where the service is a restricted children’s service, the service provider does not meet the requirement in section 6A(1).
 
-(5)[^key-30d9ac47a9ed84640df066922c7bbccb] In section 13, after subsection (3) insert—
+(5)[^c-30d9ac47a9ed84640df066922c7bbccb] In section 13, after subsection (3) insert—
 
 > (3A) See also paragraph 3(4)(a) of Schedule 1A, in respect of variation of a service provider’s registration to remove a restricted children’s service during the transitional period defined in that Schedule.
 
-(6)[^key-30d9ac47a9ed84640df066922c7bbccb] In section 15—
+(6)[^c-30d9ac47a9ed84640df066922c7bbccb] In section 15—
 
 - (a) in subsection (1), after paragraph (f) insert—
 
@@ -466,7 +466,7 @@ In the 2016 Act, in section 10—
 
   > (1A) See also paragraph 3(4)(b) of Schedule 1A, in respect of cancellation of the registration of a service provider in respect of a restricted children’s service during the transitional period defined in that Schedule.
 
-##### 9. Restricted children’s services: information contained in the register of service providers[^key-aff1333d54cb017a66436d4683441ac7][^key-687f58ce9f6440bc9f4afe9f7300819e]
+##### 9. Restricted children’s services: information contained in the register of service providers[^c-aff1333d54cb017a66436d4683441ac7][^c-687f58ce9f6440bc9f4afe9f7300819e]
 
 In the 2016 Act, in section 3‍8‍—
 
@@ -489,7 +489,7 @@ In the 2016 Act, in section 3‍8‍—
 
 #### Local authority functions in respect of accommodation for looked after children
 
-##### 10. Local authority duty to secure sufficient accommodation[^key-e00eb912c6768c34464569938e7c516e][^key-386693e3bdb9cb76a8dd0dd1038e57b0]
+##### 10. Local authority duty to secure sufficient accommodation[^c-e00eb912c6768c34464569938e7c516e][^c-386693e3bdb9cb76a8dd0dd1038e57b0]
 
 (1) The 2014 Act is amended as follows.
 
@@ -519,7 +519,7 @@ In the 2016 Act, in section 3‍8‍—
 
 (7) In section 197(1), in the definition of “children’s home”, in paragraph (b), at the beginning insert “except in sections 75 and 75A,”.
 
-##### 11. Duty to prepare and publish an annual sufficiency plan[^key-37364f5c6c575a9c40bb250cdc366dc1][^key-65e34881feae46fe596d1f5f4dbb35e1][^key-c5684e6222dca263e127544ac9781759]
+##### 11. Duty to prepare and publish an annual sufficiency plan[^c-37364f5c6c575a9c40bb250cdc366dc1][^c-65e34881feae46fe596d1f5f4dbb35e1][^c-c5684e6222dca263e127544ac9781759]
 
 In the 2014 Act, after section 75 insert—
 
@@ -587,7 +587,7 @@ In the 2014 Act, after section 75 insert—
 >
 > (5) Subsections (2) and (3) apply where the Welsh Ministers decide not to approve a further draft submitted to them under this section as they apply where the Welsh Ministers decide not to approve a draft submitted to them under section 75B.
 
-##### 12. Duty to secure accommodation: reporting[^key-08cec34bfb287c783baafc2461b40c65][^key-47a60feb937c2e8dc0a04c302d75ee97]
+##### 12. Duty to secure accommodation: reporting[^c-08cec34bfb287c783baafc2461b40c65][^c-47a60feb937c2e8dc0a04c302d75ee97]
 
 In the 2014 Act, after section 75C (as inserted by section 11) insert—
 
@@ -599,7 +599,7 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
 > - (b) the number of applications the local authority made in that financial year for approval to place children in a supplementary placement in accordance with section 81B;
 > - (c) the reasons for any difference between the number of applications provided under paragraph (b) and the number of applications the local authority had estimated under section 75A(3)(d)(i) it would make during the year.
 
-##### 13. Ways in which looked after children are to be accommodated[^key-a36df6a099aa56ef023a85a1c998d9dc]
+##### 13. Ways in which looked after children are to be accommodated[^c-a36df6a099aa56ef023a85a1c998d9dc]
 
 **Not yet in force.**
 
@@ -729,16 +729,16 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
 
 #### Regulation of social care services: registration etc. of social care services providers
 
-##### 14. Duty to submit and publish annual return[^key-3f92c77f69af9fc7fd0a7ef72f83e7a6]
+##### 14. Duty to submit and publish annual return[^c-3f92c77f69af9fc7fd0a7ef72f83e7a6]
 
-(1)[^key-cce618fb43dd02a89d168e87596bb797] Subsections (2) and (3) amend the 2016 Act—
+(1)[^c-cce618fb43dd02a89d168e87596bb797] Subsections (2) and (3) amend the 2016 Act—
 
 - (a) to change the requirement in section 10, for the Welsh Ministers to publish an annual return submitted by a service provider, to a requirement that the service provider must publish such a return and make copies of it available on request, and
 - (b) to make failure to publish an annual return an offence.
 
 (2) In section 10 of the 2016 Act—
 
-- (a)[^key-cce618fb43dd02a89d168e87596bb797] in subsection (1), for the words from “submit” to the end substitute
+- (a)[^c-cce618fb43dd02a89d168e87596bb797] in subsection (1), for the words from “submit” to the end substitute
 
   > , following the end of each financial year during which the provider is registered—
   >
@@ -746,19 +746,19 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
   > - (b) publish that return on its website.
 
   ;
-- (b)[^key-cce618fb43dd02a89d168e87596bb797] after subsection (1) insert—
+- (b)[^c-cce618fb43dd02a89d168e87596bb797] after subsection (1) insert—
 
   > (1A) A service provider must make available, on request, a copy of an annual return published on its website.
-- (c)[^key-d2d7463823caeb045ec4d1a84e60f888] after subsection (4) insert—
+- (c)[^c-d2d7463823caeb045ec4d1a84e60f888] after subsection (4) insert—
 
   > (4A) An annual return must be published within the prescribed time limit.
   >
   > (4B) But if disclosure of information contained in the annual return is prohibited by any enactment or other rule of law, that information must be redacted from the annual return before it is published.
 
   ;
-- (d)[^key-cce618fb43dd02a89d168e87596bb797] omit subsection (5).
+- (d)[^c-cce618fb43dd02a89d168e87596bb797] omit subsection (5).
 
-(3)[^key-cce618fb43dd02a89d168e87596bb797] In section 48 of the 2016 Act—
+(3)[^c-cce618fb43dd02a89d168e87596bb797] In section 48 of the 2016 Act—
 
 - (a) in the heading, after “submit” insert “or publish”;
 - (b) for the words from “fail” to the end substitute
@@ -768,7 +768,7 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
   > - (a) fail to submit an annual return to the Welsh Ministers within the time limit prescribed under section 10(4), or
   > - (b) fail to publish an annual return on its website within the time limit prescribed under section 10(4A).
 
-##### 15. Application for cancellation of service provider’s registration: information to be provided[^key-bc6f08b35df9b717f5c25e0ed5b03dd1][^key-339b4714081afb75a19599509026d764]
+##### 15. Application for cancellation of service provider’s registration: information to be provided[^c-bc6f08b35df9b717f5c25e0ed5b03dd1][^c-339b4714081afb75a19599509026d764]
 
 (1) Subsection (2) amends the 2016 Act to confer a power on the Welsh Ministers to prescribe the information that is to be provided with an application a service provider makes to cancel the provider’s registration under the Act.
 
@@ -779,7 +779,7 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
 > - (a) contain such information as the Welsh Ministers may prescribe;
 > - (b) be in the prescribed form.
 
-##### 16. Cancellation and variation of service provider’s registration without application: notice procedures[^key-ddf29fba8ae21bb8d329ac82e832821a]
+##### 16. Cancellation and variation of service provider’s registration without application: notice procedures[^c-ddf29fba8ae21bb8d329ac82e832821a]
 
 (1) Subsections (2) and (3) amend the 2016 Act to apply the notice of proposal procedure (see section 18 of that Act), rather than the improvement notice procedure (see section 16 of that Act), to the variation or cancellation of a service provider’s registration by the Welsh Ministers in certain circumstances where no improvement is possible.
 
@@ -830,11 +830,11 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
 
 #### Regulation of social care services: information, inspections and investigations
 
-##### 17. Information, inspection and investigations[^key-1fe67c73fe38fa276d983741249004eb]
+##### 17. Information, inspection and investigations[^c-1fe67c73fe38fa276d983741249004eb]
 
-(1)[^key-572f944529c78f02c5942b605254423f] This section amends Chapter 3 of the 2016 Act to make further provision in relation to the Welsh Ministers’ powers to carry out inspections and to require information to be provided, including in respect of investigating offences‍.
+(1)[^c-572f944529c78f02c5942b605254423f] This section amends Chapter 3 of the 2016 Act to make further provision in relation to the Welsh Ministers’ powers to carry out inspections and to require information to be provided, including in respect of investigating offences‍.
 
-(2)[^key-572f944529c78f02c5942b605254423f] In section 32 of the 2016 Act—
+(2)[^c-572f944529c78f02c5942b605254423f] In section 32 of the 2016 Act—
 
 - (a) in subsection (1)—
   - (i) for “The Welsh Ministers may require a relevant person to provide them with any” substitute “Subsections (1A) and (1B) apply where the Welsh Ministers consider that a relevant person may have”;
@@ -885,7 +885,7 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
 >   - (i) evidence relating to the information is adduced by or on behalf of P, or
 >   - (ii) a question relating to it is asked by or on behalf of P.
 
-(4)[^key-572f944529c78f02c5942b605254423f] In section 33—
+(4)[^c-572f944529c78f02c5942b605254423f] In section 33—
 
 - (a) in subsection (1)(b), for “and” substitute “, management or”;
 - (b) after subsection (1) insert—
@@ -895,7 +895,7 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
   ;
 - (c) in subsection (2), at the end, insert “or an investigation”.
 
-(5)[^key-572f944529c78f02c5942b605254423f] In section 34—
+(5)[^c-572f944529c78f02c5942b605254423f] In section 34—
 
 - (a) in subsection (1)—
   - (i) after “inspection” insert “or an investigation”;
@@ -904,7 +904,7 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
 - (c) in subsection (3), after “inspection” insert “or an investigation”;
 - (d) in subsection (4), at the beginning insert “When carrying out an inspection or an investigation,”.
 
-(6)[^key-572f944529c78f02c5942b605254423f] In section 35—
+(6)[^c-572f944529c78f02c5942b605254423f] In section 35—
 
 - (a) in subsection (1)—
   - (i) after “inspection” insert “or an investigation”;
@@ -924,7 +924,7 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
   >   - (ii) P is given the opportunity to obtain legal representation.
 - (d) in subsection (4), after “may” insert “for the purposes of carrying out an inspection”.
 
-(7)[^key-572f944529c78f02c5942b605254423f] In section 36—
+(7)[^c-572f944529c78f02c5942b605254423f] In section 36—
 
 - (a) in subsection (2), after “must” insert “, to the extent that the Welsh Ministers consider proportionate,”;
 - (b) after subsection (3) insert—
@@ -933,7 +933,7 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
 
 #### Social care workers: registration and fitness to practise
 
-##### 18. Meaning of social care worker: childcare workers[^key-323f0f2ffba7fa8a340105ad062c086d]
+##### 18. Meaning of social care worker: childcare workers[^c-323f0f2ffba7fa8a340105ad062c086d]
 
 **Not yet in force.**
 
@@ -963,7 +963,7 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
 
   > (3A) In subsection (3), “childcare means care and supervision that is provided for children.
 
-##### 19. Fitness to practise cases: powers to extend interim orders[^key-f0a0abbbcc9327808bb93a4ea781dbe6][^key-dff65f895d08c3f776742f4d54053035]
+##### 19. Fitness to practise cases: powers to extend interim orders[^c-f0a0abbbcc9327808bb93a4ea781dbe6][^c-dff65f895d08c3f776742f4d54053035]
 
 (1) Subsection (2) amends the 2016 Act to give a panel hearing interim order proceedings the power to extend an interim orde‍r.
 
@@ -996,13 +996,13 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
 
 #### Local authority social services functions
 
-##### 20. Direct payments in social care[^key-b5a55c13c4daffcf2bb7e3fc77a4eceb]
+##### 20. Direct payments in social care[^c-b5a55c13c4daffcf2bb7e3fc77a4eceb]
 
-(1)[^key-5849a52677f2e535ebd5bacffaaece0c] Subsection (2) amends the 2014 Act to supplement the ways in which a local authority can make payments directly to a person, towards the cost of meeting a person’s needs for care and support under sections 35 to 40, 42 and 45 of that Act, or in respect of after-care services under section 117 of the [Mental Health Act 1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20), by providing that such payments can be made to a person nominated by the person to whom the payment could otherwise have been made.
+(1)[^c-5849a52677f2e535ebd5bacffaaece0c] Subsection (2) amends the 2014 Act to supplement the ways in which a local authority can make payments directly to a person, towards the cost of meeting a person’s needs for care and support under sections 35 to 40, 42 and 45 of that Act, or in respect of after-care services under section 117 of the [Mental Health Act 1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20), by providing that such payments can be made to a person nominated by the person to whom the payment could otherwise have been made.
 
 (2) The 2014 Act is amended as follows—
 
-- (a)[^key-097d87db7ddd457ecbd00d9f4420083c] after the cross heading that precedes section 50 insert—
+- (a)[^c-097d87db7ddd457ecbd00d9f4420083c] after the cross heading that precedes section 50 insert—
 
   > **49A. Direct payments**
   >
@@ -1021,7 +1021,7 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
   > (3) A payment under this section is referred to in this Act as a “direct payment.
 
   ;
-- (b)[^key-ee66906ec29984c81d6de53b4cf71dfc] for sections 50 to 52 substitute—
+- (b)[^c-ee66906ec29984c81d6de53b4cf71dfc] for sections 50 to 52 substitute—
 
   > **50. Direct payments: conditions for payment to meet an adult’s needs**
   >
@@ -1129,14 +1129,14 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
   > - (e) N has consented to receive the payments.
 
   ;
-- (c)[^key-149c80bef4887da315d6e6f8cb221674][^key-b48fcf60b9e3e0f9887eb88e384f0826] after section 53 insert—
+- (c)[^c-149c80bef4887da315d6e6f8cb221674][^c-b48fcf60b9e3e0f9887eb88e384f0826] after section 53 insert—
 
   > **53A. Direct payments: after-care under the Mental Health Act 1983**
   >
   > The ways in which a local authority may discharge its duty under section 117 of the Mental Health Act 1983 include by making direct payments, and for that purpose Schedule A1 has effect.
 
   ;
-- (d)[^key-149c80bef4887da315d6e6f8cb221674][^key-b48fcf60b9e3e0f9887eb88e384f0826] for Schedule A1 substitute—
+- (d)[^c-149c80bef4887da315d6e6f8cb221674][^c-b48fcf60b9e3e0f9887eb88e384f0826] for Schedule A1 substitute—
 
   > **SCHEDULE A1 — DIRECT PAYMENTS: AFTER-CARE UNDER THE MENTAL HEALTH ACT 1983**
   >
@@ -1252,7 +1252,7 @@ In the 2014 Act, after section 75C (as inserted by section 11) insert—
   >
   > **8.** A person to whom a local authority makes a direct payment may, subject to regulations made under this Schedule, use the payment to purchase after-care services from any person (including, among others, the authority that made the payment).
 
-##### 21. Accommodation of children[^key-f51a318ebd2552aced4eec6dc012c755]
+##### 21. Accommodation of children[^c-f51a318ebd2552aced4eec6dc012c755]
 
 (1) Subsections (2) and (3) amend the 2014 Act to restrict—
 
@@ -1271,13 +1271,13 @@ to a person named in the child arrangements order as someone with whom the child
 
 #### Minor and consequential amendments
 
-##### 22. Social care: minor and consequential amendments[^key-3cada17b7f652c02cf80d9fd03d0cce0][^key-d196e830d0672ea8a741d629c08388b6][^key-9ca8f60e67db15a6f1f1ca9370f15f7a][^key-6f8ef8f8b298c32cdf668fc61a5aa5b5]
+##### 22. Social care: minor and consequential amendments[^c-3cada17b7f652c02cf80d9fd03d0cce0][^c-d196e830d0672ea8a741d629c08388b6][^c-9ca8f60e67db15a6f1f1ca9370f15f7a][^c-6f8ef8f8b298c32cdf668fc61a5aa5b5]
 
 Schedule 1 makes minor and consequential amendments relating to the provisions in this Part.
 
 ## PART 2 — HEALTH CARE
 
-### 23. Overview of Part 2[^key-982839d3ae041f0dc84d77e0b6ae7ca2]
+### 23. Overview of Part 2[^c-982839d3ae041f0dc84d77e0b6ae7ca2]
 
 (1) Sections 24 and 25 make provision for and in connection with allowing payments to be made directly to a patient or a person nominated by the patients for the purpose of the patient securing services or goods that otherwise must or may be provided under the [National Health Service (Wales) Act 2006 (c. 42)](https://www.legislation.gov.uk/ukpga/2006/42) (“**the 2006 Act**”) or under section 117 of the [Mental Health Act 1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20).
 
@@ -1286,7 +1286,7 @@ Schedule 1 makes minor and consequential amendments relating to the provisions i
 - (a) providing the services or facilities would be incidental or ancillary to certain care and support services that the local authority may or must provide under the 2014 Act, and
 - (b) they are of a nature that the local authority can be expected to provide.
 
-### 24. Direct payments for health care[^key-8b16141639b2520a12746413ddbc5ecf][^key-1963a11668094d04f3e7a64c2444f02e]
+### 24. Direct payments for health care[^c-8b16141639b2520a12746413ddbc5ecf][^c-1963a11668094d04f3e7a64c2444f02e]
 
 (1) The 2006 Act is amended as follows.
 
@@ -1370,11 +1370,11 @@ Schedule 1 makes minor and consequential amendments relating to the provisions i
 - (a) after “section 10A(1),” insert “section 10C(1) (direct payments),”;
 - (b) after “section 82A (pharmaceutical needs assessments)” insert “or the first regulations under section 10B(6) (direct payments by Local Health Boards)”.
 
-### 25. Direct payments for health care: minor and consequential amendments[^key-c92a70c179c84c77cbea6f9b1ab15ad8][^key-03b32cfa8cc82d78425f945c3c963168]
+### 25. Direct payments for health care: minor and consequential amendments[^c-c92a70c179c84c77cbea6f9b1ab15ad8][^c-03b32cfa8cc82d78425f945c3c963168]
 
 Schedule 2 makes minor and consequential amendments relating to direct payments for health care.
 
-### 26. Provision of health services by local authorities[^key-fe3242e7598d1d577f7496121275efc9]
+### 26. Provision of health services by local authorities[^c-fe3242e7598d1d577f7496121275efc9]
 
 (1) The 2014 Act is amended as follows.
 
@@ -1398,7 +1398,7 @@ Schedule 2 makes minor and consequential amendments relating to direct payments 
 
 ## PART 3 — GENERAL
 
-### 27. General interpretation[^key-4f0c8655676de40993dfc2b8d506c47b]
+### 27. General interpretation[^c-4f0c8655676de40993dfc2b8d506c47b]
 
 In this Act—
 
@@ -1406,7 +1406,7 @@ In this Act—
 - “**the 2014 Act**” (*“Deddf 2014”*) means the [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4);
 - “**the 2016 Act**” (*“Deddf 2016”*) means the [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2).
 
-### 28. Consequential and transitional provision etc.[^key-ed85eba0ccc58ece222789753214c5d4]
+### 28. Consequential and transitional provision etc.[^c-ed85eba0ccc58ece222789753214c5d4]
 
 (1) The Welsh Ministers may by regulations—
 
@@ -1428,7 +1428,7 @@ In this Act—
 - (b) a Measure of the National Assembly for Wales;
 - (c) an Act of the Parliament of the United Kingdom.
 
-### 29. Coming into force[^key-1f2f0ef1213daf70191bf1349a8099c4]
+### 29. Coming into force[^c-1f2f0ef1213daf70191bf1349a8099c4]
 
 (1) The following provisions come into force on the day after the day on which this Act receives Royal Assent—
 
@@ -1442,7 +1442,7 @@ In this Act—
 
 (3) An order under subsection (2) may make transitional or saving provision.
 
-### 30. Short title[^key-5f5df0d06ec3a66b07d91422c911e061]
+### 30. Short title[^c-5f5df0d06ec3a66b07d91422c911e061]
 
 The short title of this Act is the Health and Social Care (Wales) Act 2025.
 
@@ -1452,7 +1452,7 @@ The short title of this Act is the Health and Social Care (Wales) Act 2025.
 
 ### PART 1 — PROVISION OF SOCIAL CARE SERVICES TO CHILDREN: MINOR AND CONSEQUENTIAL AMENDMENTS
 
-#### 1. [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4)[^key-d138e8061556df82b09788cd50b15459]
+#### 1. [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4)[^c-d138e8061556df82b09788cd50b15459]
 
 **Not yet in force.**
 
@@ -1486,11 +1486,11 @@ The short title of this Act is the Health and Social Care (Wales) Act 2025.
 
 .
 
-#### 2. [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2)[^key-b660e4a7346d95e88af5c89be4c0a8c0]
+#### 2. [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2)[^c-b660e4a7346d95e88af5c89be4c0a8c0]
 
-(1)[^key-b660e4a7346d95e88af5c89be4c0a8c0] The 2016 Act is amended as follows.
+(1)[^c-b660e4a7346d95e88af5c89be4c0a8c0] The 2016 Act is amended as follows.
 
-(2)[^key-0bfec79e2dd10e0ed49c537bcf418790] In section 13, in subsection (5), for paragraph (a) substitute—
+(2)[^c-0bfec79e2dd10e0ed49c537bcf418790] In section 13, in subsection (5), for paragraph (a) substitute—
 
 > - (a) in the case of variation—
 >   - (i) under subsection (1), (3)(a) or (c) or (4)(a), or
@@ -1500,7 +1500,7 @@ The short title of this Act is the Health and Social Care (Wales) Act 2025.
 
 .
 
-(3)[^key-0bfec79e2dd10e0ed49c537bcf418790] In section 15, in subsection (3), for paragraph (a) substitute—
+(3)[^c-0bfec79e2dd10e0ed49c537bcf418790] In section 15, in subsection (3), for paragraph (a) substitute—
 
 > - (a) in the case of—
 >   - (i) cancellation on the grounds set out in subsection (1)(a), (b), (ba) or (g), or
@@ -1510,7 +1510,7 @@ The short title of this Act is the Health and Social Care (Wales) Act 2025.
 
 .
 
-(4)[^key-0bfec79e2dd10e0ed49c537bcf418790] In section 64, in the appropriate places insert—
+(4)[^c-0bfec79e2dd10e0ed49c537bcf418790] In section 64, in the appropriate places insert—
 
 > - “**children’s home service**” (*“gwasanaeth cartref plant”*) has the meaning given by section 2A;
 
@@ -1520,7 +1520,7 @@ The short title of this Act is the Health and Social Care (Wales) Act 2025.
 
 .
 
-(5)[^key-0bfec79e2dd10e0ed49c537bcf418790] In section 187, in subsection (2)—
+(5)[^c-0bfec79e2dd10e0ed49c537bcf418790] In section 187, in subsection (2)—
 
 - (a) after paragraph (c) insert—
 
@@ -1531,7 +1531,7 @@ The short title of this Act is the Health and Social Care (Wales) Act 2025.
 
   > - (x) paragraphs 1(1)(b) and 3(1) of Schedule 1A (regulations in relation to transitional period for restricted children’s services).
 
-(6)[^key-b660e4a7346d95e88af5c89be4c0a8c0] In Schedule 1—
+(6)[^c-b660e4a7346d95e88af5c89be4c0a8c0] In Schedule 1—
 
 - (a) in paragraph 1(1)—
   - (i) for the words “at a place” substitute “,”;
@@ -1551,18 +1551,18 @@ The short title of this Act is the Health and Social Care (Wales) Act 2025.
 
 ### PART 2 — MISCELLANEOUS AMENDMENTS IN RELATION TO SOCIAL CARE SERVICES ETC.: MINOR AND CONSEQUENTIAL AMENDMENTS
 
-#### 3. [Mental Health Act 1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20)[^key-774b859f34a9aef6ea984ac520307faa]
+#### 3. [Mental Health Act 1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20)[^c-774b859f34a9aef6ea984ac520307faa]
 
 In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983/20), in section 117(2C)—
 
-- (a)[^key-fdf20933d4c154b1cbc5e19fa7da8393] in paragraph (a)(ii)—
+- (a)[^c-fdf20933d4c154b1cbc5e19fa7da8393] in paragraph (a)(ii)—
   - (i) for “sections 50, 51 and 53 of” substitute “Schedule A1 to”;
   - (ii) omit the words in parentheses;
-- (b)[^key-774b859f34a9aef6ea984ac520307faa] in paragraph (b), for the words from “be provided” to the end substitute “otherwise be provided under this section”.
+- (b)[^c-774b859f34a9aef6ea984ac520307faa] in paragraph (b), for the words from “be provided” to the end substitute “otherwise be provided under this section”.
 
-#### 4. [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47)[^key-c8c5dbf0a282396fdf91b71bf2d073bd]
+#### 4. [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47)[^c-c8c5dbf0a282396fdf91b71bf2d073bd]
 
-(1)[^key-4e488bc77a1897ecea0db96766b20965] The Safeguarding Vulnerable Groups Act 2006 is amended as follows.
+(1)[^c-4e488bc77a1897ecea0db96766b20965] The Safeguarding Vulnerable Groups Act 2006 is amended as follows.
 
 (2) In section 6, after subsection (8G) (as inserted by paragraph 4(2) of Schedule 2) insert—
 
@@ -1570,22 +1570,22 @@ In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983
 >
 > (8I) A person (P) who is authorised as mentioned in subsection (5)(a) of section 50 of, or paragraph 4(5)(a) of Schedule A1 to, the Social Services and Well-being (Wales) Act 2014 does not make arrangements for another to engage in a regulated activity by virtue of anything that P does under subsection (5)(b) or (6)(b) of section 50 or paragraph 4(5)(b) or (6)(b) of Schedule A1.
 
-(3)[^key-4e488bc77a1897ecea0db96766b20965] In section 30(8), for “sections 50 to 53 of” substitute “section 49A of, or Schedule A1 to,”.
+(3)[^c-4e488bc77a1897ecea0db96766b20965] In section 30(8), for “sections 50 to 53 of” substitute “section 49A of, or Schedule A1 to,”.
 
-#### 5. [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4)[^key-fc2bc8874d125e0e4ebf36e9e0e671c9]
+#### 5. [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4)[^c-fc2bc8874d125e0e4ebf36e9e0e671c9]
 
-(1)[^key-fc2bc8874d125e0e4ebf36e9e0e671c9] The 2014 Act is amended as follows.
+(1)[^c-fc2bc8874d125e0e4ebf36e9e0e671c9] The 2014 Act is amended as follows.
 
-(2)[^key-d37b92e1be5b5623eb3d9b194d4fb91a] In section 49(1)(a), for “sections 50 to 53” substitute “sections 49A to 53A”.
+(2)[^c-d37b92e1be5b5623eb3d9b194d4fb91a] In section 49(1)(a), for “sections 50 to 53” substitute “sections 49A to 53A”.
 
 (3) In section 53—
 
-- (a)[^key-d37b92e1be5b5623eb3d9b194d4fb91a] for “50, 51 or 52” each time it appears, substitute “49A”;
-- (b)[^key-d37b92e1be5b5623eb3d9b194d4fb91a] in subsection (1)(k), for “50” substitute “49A”;
-- (c)[^key-d37b92e1be5b5623eb3d9b194d4fb91a] in subsection (7), for “51” substitute “49A(1)(b)”;
-- (d)[^key-878403cc1c40244e4fce4cb5691fa3c1] omit subsection (11).
+- (a)[^c-d37b92e1be5b5623eb3d9b194d4fb91a] for “50, 51 or 52” each time it appears, substitute “49A”;
+- (b)[^c-d37b92e1be5b5623eb3d9b194d4fb91a] in subsection (1)(k), for “50” substitute “49A”;
+- (c)[^c-d37b92e1be5b5623eb3d9b194d4fb91a] in subsection (7), for “51” substitute “49A(1)(b)”;
+- (d)[^c-878403cc1c40244e4fce4cb5691fa3c1] omit subsection (11).
 
-(4)[^key-fc2bc8874d125e0e4ebf36e9e0e671c9] In section 124(9), in the Welsh language text, after “Nid yw’r adran hon yn gymwys” insert
+(4)[^c-fc2bc8874d125e0e4ebf36e9e0e671c9] In section 124(9), in the Welsh language text, after “Nid yw’r adran hon yn gymwys” insert
 
 > —
 >
@@ -1594,14 +1594,14 @@ In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983
 
 .
 
-(5)[^key-d37b92e1be5b5623eb3d9b194d4fb91a] In section 187(2), for “section 50 or 51” substitute “section 49A or Schedule A1”.
+(5)[^c-d37b92e1be5b5623eb3d9b194d4fb91a] In section 187(2), for “section 50 or 51” substitute “section 49A or Schedule A1”.
 
-(6)[^key-d37b92e1be5b5623eb3d9b194d4fb91a] In section 189—
+(6)[^c-d37b92e1be5b5623eb3d9b194d4fb91a] In section 189—
 
 - (a) in subsection (5)(a)(ii), for “section 50 or 52” substitute “section 49A(1)(a) or (c)”;
 - (b) in subsection (7)(b), for “section 50 or 52” substitute “section 49A(1)(a) or (c)”.
 
-#### 6. [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2)[^key-3c66fbfdceac70e215713221e0d94e2a][^key-3820e178e4fd144df50cd49f495c7998]
+#### 6. [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2)[^c-3c66fbfdceac70e215713221e0d94e2a][^c-3820e178e4fd144df50cd49f495c7998]
 
 (1) The Criminal Justice and Courts Act 2015 is amended as follows.
 
@@ -1610,18 +1610,18 @@ In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983
 > - (d) Schedule A1 to the [Social Services and Well-being (Wales) Act 2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4) (direct payments for after-care made by local authorities);
 > - (e) regulations under section 49A of the Social Services and Well-being (Wales) Act 2014 (direct payments for care and support) where the payment is made towards the cost of meeting the needs of an adult or a carer who is an adult.
 
-#### 7. [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2)[^key-596a6cfd34f2d1c7f8c66a2b419df35a]
+#### 7. [Regulation and Inspection of Social Care (Wales) Act 2016 (anaw 2)](https://www.legislation.gov.uk/anaw/2016/2)[^c-596a6cfd34f2d1c7f8c66a2b419df35a]
 
-(1)[^key-596a6cfd34f2d1c7f8c66a2b419df35a] The 2016 Act is amended as follows.
+(1)[^c-596a6cfd34f2d1c7f8c66a2b419df35a] The 2016 Act is amended as follows.
 
-(2)[^key-04e15365b11fabdb9391cdb43e88dddb] In section 1, in paragraph (c), at the end insert “and investigations”.
+(2)[^c-04e15365b11fabdb9391cdb43e88dddb] In section 1, in paragraph (c), at the end insert “and investigations”.
 
-(3)[^key-596a6cfd34f2d1c7f8c66a2b419df35a] In section 16, in subsection‍ (1)—
+(3)[^c-596a6cfd34f2d1c7f8c66a2b419df35a] In section 16, in subsection‍ (1)—
 
 - (a) in paragraph (a), for “section 15” substitute “section 15(1)(c), (d), (e) or (f)”;
 - (b) in paragraph (b), for “section 13(3) or (4)” substitute “section 13(3)(b) or (4)(b), (ba) or (c)”.
 
-(4)[^key-596a6cfd34f2d1c7f8c66a2b419df35a] In section 18, in subsection (1)—
+(4)[^c-596a6cfd34f2d1c7f8c66a2b419df35a] In section 18, in subsection (1)—
 
 - (a) at the end of paragraph (b) omit “or”;
 - (b) in paragraph (c)(ii), for “section 13(3) or (4), 23(1)(b) or 25(2)(a).” substitute “section 13(3)(b) or (4)(b), (ba) or (c), 23(1)(b) or 25(2)(a), or”;
@@ -1629,27 +1629,27 @@ In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983
 
   > - (d) cancel the registration of a service provider‍ other than under section 15(1)(c), (d), (e) and (f).
 
-(5)[^key-04e15365b11fabdb9391cdb43e88dddb] In the heading of Chapter 3, for the words “and inspections” substitute “, inspections and investigations”.
+(5)[^c-04e15365b11fabdb9391cdb43e88dddb] In the heading of Chapter 3, for the words “and inspections” substitute “, inspections and investigations”.
 
-(6)[^key-04e15365b11fabdb9391cdb43e88dddb] In the heading of section 33, after the word “inspections” insert “, investigations”.
+(6)[^c-04e15365b11fabdb9391cdb43e88dddb] In the heading of section 33, after the word “inspections” insert “, investigations”.
 
-(7)[^key-04e15365b11fabdb9391cdb43e88dddb] In the heading of section 34, omit “and inspect”.
+(7)[^c-04e15365b11fabdb9391cdb43e88dddb] In the heading of section 34, omit “and inspect”.
 
-(8)[^key-04e15365b11fabdb9391cdb43e88dddb] In the heading of section 50, at the end insert “and investigations”.
+(8)[^c-04e15365b11fabdb9391cdb43e88dddb] In the heading of section 50, at the end insert “and investigations”.
 
-(9)[^key-dab3b904b51cac536015521855bd7ca0] In section 144, in subsection (6), for the words “; see section 148 (extension of interim order by the tribunal)” substitute “by the tribunal under section 148”.
+(9)[^c-dab3b904b51cac536015521855bd7ca0] In section 144, in subsection (6), for the words “; see section 148 (extension of interim order by the tribunal)” substitute “by the tribunal under section 148”.
 
-(10)[^key-dab3b904b51cac536015521855bd7ca0] In section 146, in subsection (9), in paragraph (a) omit “by the tribunal”.
+(10)[^c-dab3b904b51cac536015521855bd7ca0] In section 146, in subsection (9), in paragraph (a) omit “by the tribunal”.
 
-(11)[^key-dab3b904b51cac536015521855bd7ca0] In section 149, in subsection (4)(a), for “by the tribunal” substitute “(whether by a panel or the tribunal)”
+(11)[^c-dab3b904b51cac536015521855bd7ca0] In section 149, in subsection (4)(a), for “by the tribunal” substitute “(whether by a panel or the tribunal)”
 
-(12)[^key-dab3b904b51cac536015521855bd7ca0] In section 161, in subsection (6)(b), for “or vary” substitute “, vary or extend”.
+(12)[^c-dab3b904b51cac536015521855bd7ca0] In section 161, in subsection (6)(b), for “or vary” substitute “, vary or extend”.
 
-(13)[^key-dab3b904b51cac536015521855bd7ca0] In section 163, in subsection (1)(d), for “or varied” substitute “, varied or extended”.
+(13)[^c-dab3b904b51cac536015521855bd7ca0] In section 163, in subsection (1)(d), for “or varied” substitute “, varied or extended”.
 
-(14)[^key-596a6cfd34f2d1c7f8c66a2b419df35a] In Schedule 2, in paragraph 15(3)(d), for “of the National Assembly” substitute “of Senedd Cymru”.
+(14)[^c-596a6cfd34f2d1c7f8c66a2b419df35a] In Schedule 2, in paragraph 15(3)(d), for “of the National Assembly” substitute “of Senedd Cymru”.
 
-(15)[^key-596a6cfd34f2d1c7f8c66a2b419df35a] In the following provisions, in each place that it appears, for “the National Assembly for Wales” substitute “Senedd Cymru”—
+(15)[^c-596a6cfd34f2d1c7f8c66a2b419df35a] In the following provisions, in each place that it appears, for “the National Assembly for Wales” substitute “Senedd Cymru”—
 
 - (a) section 10(6);
 - (b) section 27(5);
@@ -1659,7 +1659,7 @@ In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983
 - (f) section 187(2) and (3);
 - (g) Schedule 2, paragraphs 15(3)(d) and 16(4)(b).
 
-#### 8. Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 ([S.I. 2016/413 (W. 131)](https://www.legislation.gov.uk/wsi/2016/413))[^key-65acaf0d458ed0b97599647873a90a23]
+#### 8. Social Services and Well-being (Wales) Act 2014 (Consequential Amendments) Regulations 2016 ([S.I. 2016/413 (W. 131)](https://www.legislation.gov.uk/wsi/2016/413))[^c-65acaf0d458ed0b97599647873a90a23]
 
 **Not yet in force.**
 
@@ -1674,7 +1674,7 @@ In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983
 
 (as introduced by section 25)
 
-### 1. [Mental Health Act 1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20)[^key-51bb479b5690ae2e2e686905d9121e70][^key-299bef5c882ecf45c041fb2c9dff0e30]
+### 1. [Mental Health Act 1983 (c. 20)](https://www.legislation.gov.uk/ukpga/1983/20)[^c-51bb479b5690ae2e2e686905d9121e70][^c-299bef5c882ecf45c041fb2c9dff0e30]
 
 (1) The Mental Health Act 1983 is amended as follows.
 
@@ -1688,7 +1688,7 @@ In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983
 
   .
 
-### 2. [Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)](https://www.legislation.gov.uk/ukpga/1986/33)[^key-61c672486fc0423eee7c77ef1bdcdef5][^key-21c3bf44dcdd16cfacd3beb922441cfb]
+### 2. [Disabled Persons (Services, Consultation and Representation) Act 1986 (c. 33)](https://www.legislation.gov.uk/ukpga/1986/33)[^c-61c672486fc0423eee7c77ef1bdcdef5][^c-21c3bf44dcdd16cfacd3beb922441cfb]
 
 (1) The Disabled Persons (Services, Consultation and Representation) Act 1986 is amended as follows.
 
@@ -1698,7 +1698,7 @@ In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983
 
 .
 
-### 3. [National Health Service (Wales) Act 2006 (c. 42)](https://www.legislation.gov.uk/ukpga/2006/42)[^key-39e7d622e25b274191f6e4f4e6fbf179][^key-11a3c2007403a46a7bf653d500a9ab3d]
+### 3. [National Health Service (Wales) Act 2006 (c. 42)](https://www.legislation.gov.uk/ukpga/2006/42)[^c-39e7d622e25b274191f6e4f4e6fbf179][^c-11a3c2007403a46a7bf653d500a9ab3d]
 
 (1) The National Health Service (Wales) Act 2006 is amended as follows.
 
@@ -1740,7 +1740,7 @@ In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983
 > | --- | --- |
 > | direct payment service provider | section 187(3) |
 
-### 4. [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47)[^key-0d26d1bbe0f223d975d06df1df43ffed]
+### 4. [Safeguarding Vulnerable Groups Act 2006 (c. 47)](https://www.legislation.gov.uk/ukpga/2006/47)[^c-0d26d1bbe0f223d975d06df1df43ffed]
 
 **Not yet in force.**
 
@@ -1752,7 +1752,7 @@ In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983
 >
 > (8G) A Local Health Board does not make arrangements for another to engage in a regulated activity by virtue of anything it does under regulations under section 10B(6) of the National Health Services (Wales) Act 2006.
 
-### 5. [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2)[^key-624d8bd7b6801d2c86f82d3284610d98][^key-053a7adc0cd0ddbff60f396953afecc7]
+### 5. [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2)[^c-624d8bd7b6801d2c86f82d3284610d98][^c-053a7adc0cd0ddbff60f396953afecc7]
 
 (1) The Criminal Justice and Courts Act 2015 is amended as follows.
 
@@ -1763,7 +1763,7 @@ In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983
 
 .
 
-### 6. [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3)[^key-80082090a60eae2264ce7fa92a9794b2][^key-b617200f8b3eae4b3ae0ae1cf9cd05e6]
+### 6. [Public Services Ombudsman (Wales) Act 2019 (anaw 3)](https://www.legislation.gov.uk/anaw/2019/3)[^c-80082090a60eae2264ce7fa92a9794b2][^c-b617200f8b3eae4b3ae0ae1cf9cd05e6]
 
 (1) The Public Services Ombudsman (Wales) Act 2019 is amended as follows.
 
@@ -1863,180 +1863,180 @@ In the [Mental Health Act 1983 (c.20)](https://www.legislation.gov.uk/ukpga/1983
 
 ## Annotations
 
-[^key-357778adae97cf7769fbf0754c7e8f55]: Commencement: S. 1 in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(i)
+[^c-357778adae97cf7769fbf0754c7e8f55]: Commencement: S. 1 in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(i)
 
-[^key-a8cab80bc52bc860d1d2742a3f7e8782]: Commencement: S. 2 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-a8cab80bc52bc860d1d2742a3f7e8782]: Commencement: S. 2 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-fa40fbe3bedb77047d96b11876d5eed8]: Commencement: S. 2 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
+[^c-fa40fbe3bedb77047d96b11876d5eed8]: Commencement: S. 2 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
 
-[^key-901685dabffc8ec8d3c5b5ebe2101460]: Commencement: S. 3 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-901685dabffc8ec8d3c5b5ebe2101460]: Commencement: S. 3 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-2e487dd77c0d1715796f58ed7ada19c5]: Commencement: S. 3(1)(2) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/a)
+[^c-2e487dd77c0d1715796f58ed7ada19c5]: Commencement: S. 3(1)(2) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/a)
 
-[^key-31dd6765d13fd8506194b8c3ba67ca01]: Commencement: S. 3(3) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2025/1257/article/5))
+[^c-31dd6765d13fd8506194b8c3ba67ca01]: Commencement: S. 3(3) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2025/1257/article/5))
 
-[^key-a5592f65c7c1acdeafb9c16da1440a84]: Commencement: S. 4 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-a5592f65c7c1acdeafb9c16da1440a84]: Commencement: S. 4 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-d93302ffb66297b87307a643b875f4bf]: Commencement: S. 4(1) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(b)(i)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/b/i)
+[^c-d93302ffb66297b87307a643b875f4bf]: Commencement: S. 4(1) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(b)(i)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/b/i)
 
-[^key-b89c3fdec7fc11d33c7e7baf902fb226]: Commencement: S. 4(2)(3) in force at 1.1.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/b/ii)
+[^c-b89c3fdec7fc11d33c7e7baf902fb226]: Commencement: S. 4(2)(3) in force at 1.1.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/b/ii)
 
-[^key-2ba16a4007b45dbd9cfea8a078250493]: Commencement: S. 4(2)(3) in force at 1.4.2026 in so far as not already in force by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2025/1257/article/5))
+[^c-2ba16a4007b45dbd9cfea8a078250493]: Commencement: S. 4(2)(3) in force at 1.4.2026 in so far as not already in force by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a) (with [art. 5](https://www.legislation.gov.uk/wsi/2025/1257/article/5))
 
-[^key-d470b85d1925fb3d2c89148cd4c049ee]: Commencement: S. 4(4) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
+[^c-d470b85d1925fb3d2c89148cd4c049ee]: Commencement: S. 4(4) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
 
-[^key-93ecbeeac6ab7464410c6d9ac863725f]: Commencement: S. 5 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-93ecbeeac6ab7464410c6d9ac863725f]: Commencement: S. 5 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-062884bb85791db62b9949265b5dde24]: Commencement: S. 5 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
+[^c-062884bb85791db62b9949265b5dde24]: Commencement: S. 5 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
 
-[^key-5c32a6b8de139a6aae1fbd8b9be7cbf5]: Commencement: S. 6 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-5c32a6b8de139a6aae1fbd8b9be7cbf5]: Commencement: S. 6 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-345994495a422b770ef986dc0e7c3d81]: Commencement: S. 6 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
+[^c-345994495a422b770ef986dc0e7c3d81]: Commencement: S. 6 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
 
-[^key-1efec65d175eab54f6c705a5e821f07f]: Commencement: S. 7 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-1efec65d175eab54f6c705a5e821f07f]: Commencement: S. 7 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-e6730bbfae4ffc12e114da39405e9642]: Commencement: S. 7 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/c)
+[^c-e6730bbfae4ffc12e114da39405e9642]: Commencement: S. 7 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(c)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/c)
 
-[^key-f1ad8e365dcb63c7c91c6dd8816bb5a7]: Commencement: S. 8 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-f1ad8e365dcb63c7c91c6dd8816bb5a7]: Commencement: S. 8 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-962ac254e502936c4bcb9600e5525083]: Commencement: S. 8(1)(2) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/d)
+[^c-962ac254e502936c4bcb9600e5525083]: Commencement: S. 8(1)(2) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/d)
 
-[^key-30d9ac47a9ed84640df066922c7bbccb]: Commencement: S. 8(3)-(6) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
+[^c-30d9ac47a9ed84640df066922c7bbccb]: Commencement: S. 8(3)-(6) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
 
-[^key-aff1333d54cb017a66436d4683441ac7]: Commencement: S. 9 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-aff1333d54cb017a66436d4683441ac7]: Commencement: S. 9 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-687f58ce9f6440bc9f4afe9f7300819e]: Commencement: S. 9 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
+[^c-687f58ce9f6440bc9f4afe9f7300819e]: Commencement: S. 9 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
 
-[^key-e00eb912c6768c34464569938e7c516e]: Commencement: S. 10 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-e00eb912c6768c34464569938e7c516e]: Commencement: S. 10 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-386693e3bdb9cb76a8dd0dd1038e57b0]: Commencement: S. 10 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
+[^c-386693e3bdb9cb76a8dd0dd1038e57b0]: Commencement: S. 10 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/a)
 
-[^key-37364f5c6c575a9c40bb250cdc366dc1]: Commencement: S. 11 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-37364f5c6c575a9c40bb250cdc366dc1]: Commencement: S. 11 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-65e34881feae46fe596d1f5f4dbb35e1]: Commencement: S. 11 in force at 1.1.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/e)
+[^c-65e34881feae46fe596d1f5f4dbb35e1]: Commencement: S. 11 in force at 1.1.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/1/e)
 
-[^key-c5684e6222dca263e127544ac9781759]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2025/1/section/11) in force at 1.7.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(3)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/3)
+[^c-c5684e6222dca263e127544ac9781759]: Commencement: [S. 11](https://www.legislation.gov.uk/asc/2025/1/section/11) in force at 1.7.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(3)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/3)
 
-[^key-08cec34bfb287c783baafc2461b40c65]: Commencement: S. 12 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-08cec34bfb287c783baafc2461b40c65]: Commencement: S. 12 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-47a60feb937c2e8dc0a04c302d75ee97]: Commencement: S. 12 in force at 1.4.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/b)
+[^c-47a60feb937c2e8dc0a04c302d75ee97]: Commencement: S. 12 in force at 1.4.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 2(2)(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/2/2/b)
 
-[^key-a36df6a099aa56ef023a85a1c998d9dc]: Commencement: S. 13 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-a36df6a099aa56ef023a85a1c998d9dc]: Commencement: S. 13 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-3f92c77f69af9fc7fd0a7ef72f83e7a6]: Commencement: S. 14 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-3f92c77f69af9fc7fd0a7ef72f83e7a6]: Commencement: S. 14 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-cce618fb43dd02a89d168e87596bb797]: Commencement: S. 14(1)(2)(a)(b)(d)(3) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/a)
+[^c-cce618fb43dd02a89d168e87596bb797]: Commencement: S. 14(1)(2)(a)(b)(d)(3) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/a)
 
-[^key-d2d7463823caeb045ec4d1a84e60f888]: Commencement: S. 14(2)(c) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/a)
+[^c-d2d7463823caeb045ec4d1a84e60f888]: Commencement: S. 14(2)(c) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/a)
 
-[^key-bc6f08b35df9b717f5c25e0ed5b03dd1]: Commencement: S. 15 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-bc6f08b35df9b717f5c25e0ed5b03dd1]: Commencement: S. 15 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-339b4714081afb75a19599509026d764]: Commencement: S. 15 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/b)
+[^c-339b4714081afb75a19599509026d764]: Commencement: S. 15 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/b)
 
-[^key-ddf29fba8ae21bb8d329ac82e832821a]: Commencement: S. 16 in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(i)
+[^c-ddf29fba8ae21bb8d329ac82e832821a]: Commencement: S. 16 in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(i)
 
-[^key-1fe67c73fe38fa276d983741249004eb]: Commencement: S. 17 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-1fe67c73fe38fa276d983741249004eb]: Commencement: S. 17 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-572f944529c78f02c5942b605254423f]: Commencement: S. 17(1)(2)(4)-(7) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/uksi/2025/1257), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1257/article/3/2/b)
+[^c-572f944529c78f02c5942b605254423f]: Commencement: S. 17(1)(2)(4)-(7) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/uksi/2025/1257), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2025/1257/article/3/2/b)
 
-[^key-323f0f2ffba7fa8a340105ad062c086d]: Commencement: S. 18 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-323f0f2ffba7fa8a340105ad062c086d]: Commencement: S. 18 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-f0a0abbbcc9327808bb93a4ea781dbe6]: Commencement: S. 19 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-f0a0abbbcc9327808bb93a4ea781dbe6]: Commencement: S. 19 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-dff65f895d08c3f776742f4d54053035]: Commencement: S. 19 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(c)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/c)
+[^c-dff65f895d08c3f776742f4d54053035]: Commencement: S. 19 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(c)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/c)
 
-[^key-b5a55c13c4daffcf2bb7e3fc77a4eceb]: Commencement: S. 20 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-b5a55c13c4daffcf2bb7e3fc77a4eceb]: Commencement: S. 20 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-5849a52677f2e535ebd5bacffaaece0c]: Commencement: S. 20(1) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(d)(i)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/d/i)
+[^c-5849a52677f2e535ebd5bacffaaece0c]: Commencement: S. 20(1) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(d)(i)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/d/i)
 
-[^key-097d87db7ddd457ecbd00d9f4420083c]: Commencement: S. 20(2)(a) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(d)(ii)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/d/ii)
+[^c-097d87db7ddd457ecbd00d9f4420083c]: Commencement: S. 20(2)(a) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(d)(ii)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/d/ii)
 
-[^key-ee66906ec29984c81d6de53b4cf71dfc]: Commencement: S. 20(2)(b) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/e)
+[^c-ee66906ec29984c81d6de53b4cf71dfc]: Commencement: S. 20(2)(b) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/e)
 
-[^key-149c80bef4887da315d6e6f8cb221674]: Commencement: S. 20(2)(c)(d) in force at 1.1.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(d)(iii)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/d/iii)
+[^c-149c80bef4887da315d6e6f8cb221674]: Commencement: S. 20(2)(c)(d) in force at 1.1.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(d)(iii)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/d/iii)
 
-[^key-b48fcf60b9e3e0f9887eb88e384f0826]: Commencement: S. 20(2)(c)(d) in force at 1.4.2026 in so far as not already in force by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/e)
+[^c-b48fcf60b9e3e0f9887eb88e384f0826]: Commencement: S. 20(2)(c)(d) in force at 1.4.2026 in so far as not already in force by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/e)
 
-[^key-f51a318ebd2552aced4eec6dc012c755]: Commencement: S. 21 in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(i)
+[^c-f51a318ebd2552aced4eec6dc012c755]: Commencement: S. 21 in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(i)
 
-[^key-3cada17b7f652c02cf80d9fd03d0cce0]: Commencement: S. 22 in force at 25.3.2025 for specified purposes, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(i)
+[^c-3cada17b7f652c02cf80d9fd03d0cce0]: Commencement: S. 22 in force at 25.3.2025 for specified purposes, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(i)
 
-[^key-d196e830d0672ea8a741d629c08388b6]: Commencement: S. 22 in force at 1.1.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/c)
+[^c-d196e830d0672ea8a741d629c08388b6]: Commencement: S. 22 in force at 1.1.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(c)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/c)
 
-[^key-9ca8f60e67db15a6f1f1ca9370f15f7a]: Commencement: S. 22 in force at 1.4.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/d)[(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-9ca8f60e67db15a6f1f1ca9370f15f7a]: Commencement: S. 22 in force at 1.4.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/d)[(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
 
-[^key-6f8ef8f8b298c32cdf668fc61a5aa5b5]: Commencement: S. 22 in force at 30.10.2026 for specified purposes by [W.S.I. 2026/130](https://www.legislation.gov.uk/wsi/2026/130), [art. 2](https://www.legislation.gov.uk/wsi/2026/130/article/2)
+[^c-6f8ef8f8b298c32cdf668fc61a5aa5b5]: Commencement: S. 22 in force at 30.10.2026 for specified purposes by [W.S.I. 2026/130](https://www.legislation.gov.uk/wsi/2026/130), [art. 2](https://www.legislation.gov.uk/wsi/2026/130/article/2)
 
-[^key-982839d3ae041f0dc84d77e0b6ae7ca2]: Commencement: S. 23 in force at 25.3.2025, see [s. 29(1)(b)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/b)
+[^c-982839d3ae041f0dc84d77e0b6ae7ca2]: Commencement: S. 23 in force at 25.3.2025, see [s. 29(1)(b)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/b)
 
-[^key-8b16141639b2520a12746413ddbc5ecf]: Commencement: S. 24 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-8b16141639b2520a12746413ddbc5ecf]: Commencement: S. 24 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-1963a11668094d04f3e7a64c2444f02e]: Commencement: S. 24 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/a)
+[^c-1963a11668094d04f3e7a64c2444f02e]: Commencement: S. 24 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(a)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/a)
 
-[^key-c92a70c179c84c77cbea6f9b1ab15ad8]: Commencement: S. 25 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-c92a70c179c84c77cbea6f9b1ab15ad8]: Commencement: S. 25 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-03b32cfa8cc82d78425f945c3c963168]: Commencement: S. 25 in force at 1.1.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-03b32cfa8cc82d78425f945c3c963168]: Commencement: S. 25 in force at 1.1.2026 for specified purposes by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
 
-[^key-fe3242e7598d1d577f7496121275efc9]: Commencement: S. 26 in force at 25.3.2025, see [s. 29(1)(b)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/b)
+[^c-fe3242e7598d1d577f7496121275efc9]: Commencement: S. 26 in force at 25.3.2025, see [s. 29(1)(b)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/b)
 
-[^key-4f0c8655676de40993dfc2b8d506c47b]: Commencement: S. 27 in force at 25.3.2025, see [s. 29(1)(c)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/c)
+[^c-4f0c8655676de40993dfc2b8d506c47b]: Commencement: S. 27 in force at 25.3.2025, see [s. 29(1)(c)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/c)
 
-[^key-ed85eba0ccc58ece222789753214c5d4]: Commencement: S. 28 in force at 25.3.2025, see [s. 29(1)(c)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/c)
+[^c-ed85eba0ccc58ece222789753214c5d4]: Commencement: S. 28 in force at 25.3.2025, see [s. 29(1)(c)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/c)
 
-[^key-1f2f0ef1213daf70191bf1349a8099c4]: Commencement: S. 29 in force at 25.3.2025, see [s. 29(1)(c)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/c)
+[^c-1f2f0ef1213daf70191bf1349a8099c4]: Commencement: S. 29 in force at 25.3.2025, see [s. 29(1)(c)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/c)
 
-[^key-5f5df0d06ec3a66b07d91422c911e061]: Commencement: S. 30 in force at 25.3.2025, see [s. 29(1)(c)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/c)
+[^c-5f5df0d06ec3a66b07d91422c911e061]: Commencement: S. 30 in force at 25.3.2025, see [s. 29(1)(c)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/c)
 
-[^key-d138e8061556df82b09788cd50b15459]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-d138e8061556df82b09788cd50b15459]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-b660e4a7346d95e88af5c89be4c0a8c0]: Commencement: Sch. 1 para. 2(1)(6) in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(ii)
+[^c-b660e4a7346d95e88af5c89be4c0a8c0]: Commencement: Sch. 1 para. 2(1)(6) in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(ii)
 
-[^key-0bfec79e2dd10e0ed49c537bcf418790]: Commencement: [Sch. 1 para. 2(2)-(5)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/2/2) in force at 30.10.2026 by [W.S.I. 2026/130](https://www.legislation.gov.uk/wsi/2026/130), [art. 2](https://www.legislation.gov.uk/wsi/2026/130/article/2)
+[^c-0bfec79e2dd10e0ed49c537bcf418790]: Commencement: [Sch. 1 para. 2(2)-(5)](https://www.legislation.gov.uk/asc/2025/1/schedule/1/paragraph/2/2) in force at 30.10.2026 by [W.S.I. 2026/130](https://www.legislation.gov.uk/wsi/2026/130), [art. 2](https://www.legislation.gov.uk/wsi/2026/130/article/2)
 
-[^key-774b859f34a9aef6ea984ac520307faa]: Commencement: Sch. 1 para. 3(b) in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(ii)
+[^c-774b859f34a9aef6ea984ac520307faa]: Commencement: Sch. 1 para. 3(b) in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(ii)
 
-[^key-fdf20933d4c154b1cbc5e19fa7da8393]: Commencement: Sch. 1 para. 3(a) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-fdf20933d4c154b1cbc5e19fa7da8393]: Commencement: Sch. 1 para. 3(a) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
 
-[^key-c8c5dbf0a282396fdf91b71bf2d073bd]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-c8c5dbf0a282396fdf91b71bf2d073bd]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-4e488bc77a1897ecea0db96766b20965]: Commencement: Sch. 1 para. 4(1)(3) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-4e488bc77a1897ecea0db96766b20965]: Commencement: Sch. 1 para. 4(1)(3) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
 
-[^key-fc2bc8874d125e0e4ebf36e9e0e671c9]: Commencement: Sch. 1 para. 5(1)(4) in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(ii)
+[^c-fc2bc8874d125e0e4ebf36e9e0e671c9]: Commencement: Sch. 1 para. 5(1)(4) in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(ii)
 
-[^key-d37b92e1be5b5623eb3d9b194d4fb91a]: Commencement: Sch. 1 para. 5(2)(3)(a)-(c)(5)(6) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-d37b92e1be5b5623eb3d9b194d4fb91a]: Commencement: Sch. 1 para. 5(2)(3)(a)-(c)(5)(6) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
 
-[^key-878403cc1c40244e4fce4cb5691fa3c1]: Commencement: Sch. 1 para. 5(3)(d) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/e)
+[^c-878403cc1c40244e4fce4cb5691fa3c1]: Commencement: Sch. 1 para. 5(3)(d) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(1)(e)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/1/e)
 
-[^key-3c66fbfdceac70e215713221e0d94e2a]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-3c66fbfdceac70e215713221e0d94e2a]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-3820e178e4fd144df50cd49f495c7998]: Commencement: Sch. 1 para. 6 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
+[^c-3820e178e4fd144df50cd49f495c7998]: Commencement: Sch. 1 para. 6 in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(f)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/f)
 
-[^key-596a6cfd34f2d1c7f8c66a2b419df35a]: Commencement: Sch. 1 para. 7(1)(3)(4)(14)(15) in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(ii)
+[^c-596a6cfd34f2d1c7f8c66a2b419df35a]: Commencement: Sch. 1 para. 7(1)(3)(4)(14)(15) in force at 25.3.2025, see [s. 29(1)(a)](https://www.legislation.gov.uk/asc/2025/1/section/29/1/a)(ii)
 
-[^key-04e15365b11fabdb9391cdb43e88dddb]: Commencement: Sch. 1 para. 7(2)(5)-(8) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/uksi/2025/1257), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2025/1257/article/3/1/c)
+[^c-04e15365b11fabdb9391cdb43e88dddb]: Commencement: Sch. 1 para. 7(2)(5)-(8) in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/uksi/2025/1257), [art. 3(1)(c)](https://www.legislation.gov.uk/uksi/2025/1257/article/3/1/c)
 
-[^key-dab3b904b51cac536015521855bd7ca0]: Commencement: Sch. 1 para. 7(9)-(13) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/d)
+[^c-dab3b904b51cac536015521855bd7ca0]: Commencement: Sch. 1 para. 7(9)-(13) in force at 1.4.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 3(2)(d)](https://www.legislation.gov.uk/wsi/2025/1257/article/3/2/d)
 
-[^key-65acaf0d458ed0b97599647873a90a23]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-65acaf0d458ed0b97599647873a90a23]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-51bb479b5690ae2e2e686905d9121e70]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-51bb479b5690ae2e2e686905d9121e70]: Commencement: Sch. 2 para. 1 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-299bef5c882ecf45c041fb2c9dff0e30]: Commencement: Sch. 2 para. 1 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-299bef5c882ecf45c041fb2c9dff0e30]: Commencement: Sch. 2 para. 1 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
 
-[^key-61c672486fc0423eee7c77ef1bdcdef5]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-61c672486fc0423eee7c77ef1bdcdef5]: Commencement: Sch. 2 para. 2 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-21c3bf44dcdd16cfacd3beb922441cfb]: Commencement: Sch. 2 para. 2 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-21c3bf44dcdd16cfacd3beb922441cfb]: Commencement: Sch. 2 para. 2 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
 
-[^key-39e7d622e25b274191f6e4f4e6fbf179]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-39e7d622e25b274191f6e4f4e6fbf179]: Commencement: Sch. 2 para. 3 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-11a3c2007403a46a7bf653d500a9ab3d]: Commencement: Sch. 2 para. 3 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-11a3c2007403a46a7bf653d500a9ab3d]: Commencement: Sch. 2 para. 3 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
 
-[^key-0d26d1bbe0f223d975d06df1df43ffed]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-0d26d1bbe0f223d975d06df1df43ffed]: Commencement: Sch. 2 para. 4 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-624d8bd7b6801d2c86f82d3284610d98]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-624d8bd7b6801d2c86f82d3284610d98]: Commencement: Sch. 2 para. 5 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-053a7adc0cd0ddbff60f396953afecc7]: Commencement: Sch. 2 para. 5 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-053a7adc0cd0ddbff60f396953afecc7]: Commencement: Sch. 2 para. 5 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
 
-[^key-80082090a60eae2264ce7fa92a9794b2]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
+[^c-80082090a60eae2264ce7fa92a9794b2]: Commencement: Sch. 2 para. 6 not in force at Royal Assent, see [s. 29(2)](https://www.legislation.gov.uk/asc/2025/1/section/29/2)
 
-[^key-b617200f8b3eae4b3ae0ae1cf9cd05e6]: Commencement: Sch. 2 para. 6 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)
+[^c-b617200f8b3eae4b3ae0ae1cf9cd05e6]: Commencement: Sch. 2 para. 6 in force at 1.1.2026 by [S.I. 2025/1257](https://www.legislation.gov.uk/wsi/2025/1257), [art. 4(b)](https://www.legislation.gov.uk/wsi/2025/1257/article/4/b)

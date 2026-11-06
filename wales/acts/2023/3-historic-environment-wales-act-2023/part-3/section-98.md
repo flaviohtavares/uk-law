@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Condition about period within which works must start[^key-f00dead754606f3371682a748dfbd5c7][^key-acb28e0032074da544cd190dc7fdc318]
+## 98. Condition about period within which works must start[^c-f00dead754606f3371682a748dfbd5c7][^c-acb28e0032074da544cd190dc7fdc318]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f00dead754606f3371682a748dfbd5c7]: Commencement: S. 98 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-f00dead754606f3371682a748dfbd5c7]: Commencement: S. 98 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-acb28e0032074da544cd190dc7fdc318]: Commencement: [S. 98](https://www.legislation.gov.uk/asc/2023/3/section/98) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)
+[^c-acb28e0032074da544cd190dc7fdc318]: Commencement: [S. 98](https://www.legislation.gov.uk/asc/2023/3/section/98) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(b)](https://www.legislation.gov.uk/wsi/2024/860/article/3/b)

@@ -36,7 +36,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ## Part 1 — Registration of private landlords
 
-### 1. Fit and proper person: considerations[^key-699161b2123a66b86f4b82c9de5f1a55]
+### 1. Fit and proper person: considerations[^c-699161b2123a66b86f4b82c9de5f1a55]
 
 (1) In section 85 of the 2004 Act (section 84: considerations)—
 
@@ -77,7 +77,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (2) In section 141(4)(a) of that Act (orders and regulations), after “83(7),” insert “ 85(9), ”.
 
-### 2. Fit and proper person: criminal record certificate[^key-0b2f23b600d361789e4b6ba0fd21fc7d]
+### 2. Fit and proper person: criminal record certificate[^c-0b2f23b600d361789e4b6ba0fd21fc7d]
 
 After section 85 of the 2004 Act insert—
 
@@ -94,7 +94,7 @@ After section 85 of the 2004 Act insert—
 
 .
 
-### 3. Landlord registration number[^key-b87c60d7975a778ac6a0dd71c2dd7ce8]
+### 3. Landlord registration number[^c-b87c60d7975a778ac6a0dd71c2dd7ce8]
 
 (1) In section 84 of the 2004 Act (registration), after subsection (5) insert—
 
@@ -118,7 +118,7 @@ After section 85 of the 2004 Act insert—
 
 In section 88 of the 2004 Act (registered person: appointment of agent)—
 
-- (a)[^key-d7d5318b660c893271673f77e0aca59e][^key-6225e44a6526e4158f3a63da23e4c3b6] after subsection (2) insert—
+- (a)[^c-d7d5318b660c893271673f77e0aca59e][^c-6225e44a6526e4158f3a63da23e4c3b6] after subsection (2) insert—
 
   > (2A) Subject to subsections (2B) and (2C), the notice shall be accompanied by such fee as the local authority may determine.
   >
@@ -134,7 +134,7 @@ In section 88 of the 2004 Act (registered person: appointment of agent)—
   > - (c) other cases in which no fee shall be payable.
 
   ,
-- (b)[^key-93d5a18719b245cbe9544fd2b0da6ad5] after subsection (8) insert—
+- (b)[^c-93d5a18719b245cbe9544fd2b0da6ad5] after subsection (8) insert—
 
   > (9) A registered person is guilty of an offence who, without reasonable excuse—
   >
@@ -145,7 +145,7 @@ In section 88 of the 2004 Act (registered person: appointment of agent)—
 
   .
 
-### 5. Access to register: additional information[^key-c59ef49e7e2cd710c77d322d8cea794c]
+### 5. Access to register: additional information[^c-c59ef49e7e2cd710c77d322d8cea794c]
 
 (1) In section 88A(1) of the 2004 Act (access to register)—
 
@@ -213,7 +213,7 @@ In section 88 of the 2004 Act (registered person: appointment of agent)—
 
 .
 
-### 6. Duty to include certain information in advertisements[^key-1f2d99a37104977db8c82dce115f4621]
+### 6. Duty to include certain information in advertisements[^c-1f2d99a37104977db8c82dce115f4621]
 
 After section 92A of the 2004 Act insert—
 
@@ -252,11 +252,11 @@ After section 92A of the 2004 Act insert—
 
 .
 
-### 7. Penalty for acting as unregistered landlord etc.[^key-1956975e9cbc6a4da0920b1b18766fd3]
+### 7. Penalty for acting as unregistered landlord etc.[^c-1956975e9cbc6a4da0920b1b18766fd3]
 
 In section 93(7) of the 2004 Act (offences), for “level 5 on the standard scale” substitute “ £50,000 ”.
 
-### 8. Disqualification orders for unregistered landlords[^key-375ca2d3d46ba519d8e476de47b7b933]
+### 8. Disqualification orders for unregistered landlords[^c-375ca2d3d46ba519d8e476de47b7b933]
 
 After section 93 of the 2004 Act insert—
 
@@ -287,7 +287,7 @@ After section 93 of the 2004 Act insert—
 
 .
 
-### 9. Power to obtain information[^key-081cb9ce051c8628203e64d867793db8]
+### 9. Power to obtain information[^c-081cb9ce051c8628203e64d867793db8]
 
 After section 97 of the 2004 Act insert—
 
@@ -363,7 +363,7 @@ After section 97 of the 2004 Act insert—
 
 .
 
-### 10. Part 8 of the 2004 Act: guidance[^key-08ed798ed321811ca6ae9e4604e9e530]
+### 10. Part 8 of the 2004 Act: guidance[^c-08ed798ed321811ca6ae9e4604e9e530]
 
 After section 99 of the 2004 Act, insert—
 
@@ -383,7 +383,7 @@ After section 99 of the 2004 Act, insert—
 
 .
 
-### 11. Information to be given to local authority[^key-97118a67324e57f89b5b4c0c249db403]
+### 11. Information to be given to local authority[^c-97118a67324e57f89b5b4c0c249db403]
 
 After section 22 of the 2006 Act insert—
 
@@ -401,7 +401,7 @@ After section 22 of the 2006 Act insert—
 
 .
 
-### 12. Minor and consequential amendments[^key-91933abaafabfc2de3ce121c8ed3bffc]
+### 12. Minor and consequential amendments[^c-91933abaafabfc2de3ce121c8ed3bffc]
 
 The schedule to this Act (which makes minor modifications and modifications consequential on this Part) has effect.
 
@@ -409,7 +409,7 @@ The schedule to this Act (which makes minor modifications and modifications cons
 
 ### 13. Amendment of HMO licensing regime
 
-(1)[^key-a069348c06f920f256ede300d5b3f243] In section 125 of the 2006 Act (meaning of “house in multiple occupation”)—
+(1)[^c-a069348c06f920f256ede300d5b3f243] In section 125 of the 2006 Act (meaning of “house in multiple occupation”)—
 
 - (a) in subsection (1)—
   - (i) for the words from “Any” to second “is” substitute “ “**HMO**” means any living accommodation ”, and
@@ -433,7 +433,7 @@ The schedule to this Act (which makes minor modifications and modifications cons
   ,
 - (c) subsection (4)(a) is repealed.
 
-(2)[^key-0598e0280019ee2a1664e151ac854446] After section 129 of the 2006 Act insert—
+(2)[^c-0598e0280019ee2a1664e151ac854446] After section 129 of the 2006 Act insert—
 
 > **129A. Preliminary refusal: breach of planning control**
 >
@@ -463,14 +463,14 @@ The schedule to this Act (which makes minor modifications and modifications cons
 
 .
 
-(3)[^key-a069348c06f920f256ede300d5b3f243] In section 131 of the 2006 Act (suitability of living accommodation), after subsection (2)(d) insert—
+(3)[^c-a069348c06f920f256ede300d5b3f243] In section 131 of the 2006 Act (suitability of living accommodation), after subsection (2)(d) insert—
 
 > - (da) whether any rooms within it have been subdivided,
 > - (db) whether any rooms within it have been adapted and that has resulted in an alteration to the situation of the water and drainage pipes within it,
 
 .
 
-(4)[^key-0598e0280019ee2a1664e151ac854446] After section 131 of the 2006 Act insert—
+(4)[^c-0598e0280019ee2a1664e151ac854446] After section 131 of the 2006 Act insert—
 
 > **131A. Overprovision**
 >
@@ -502,7 +502,7 @@ The schedule to this Act (which makes minor modifications and modifications cons
 
 .
 
-(5)[^key-0598e0280019ee2a1664e151ac854446] In section 135 of the 2006 Act (application for new HMO licence: effect on existing HMO licence)—
+(5)[^c-0598e0280019ee2a1664e151ac854446] In section 135 of the 2006 Act (application for new HMO licence: effect on existing HMO licence)—
 
 - (a) in subsection (2)—
   - (i) the word “and” immediately following paragraph (a) is repealed,
@@ -523,13 +523,13 @@ The schedule to this Act (which makes minor modifications and modifications cons
 
   .
 
-(6)[^key-a069348c06f920f256ede300d5b3f243] In section 191(4)(a) of the 2006 Act (orders and regulations), after “section” insert “ 125(1)(b), ”.
+(6)[^c-a069348c06f920f256ede300d5b3f243] In section 191(4)(a) of the 2006 Act (orders and regulations), after “section” insert “ 125(1)(b), ”.
 
-### 14. Penalty for certain offences in relation to houses in multiple occupation[^key-758bbf4d558dc7d05a5c01445f25755e]
+### 14. Penalty for certain offences in relation to houses in multiple occupation[^c-758bbf4d558dc7d05a5c01445f25755e]
 
 In section 156(1)(a) of the 2006 Act (penalties etc.), for “£20,000” substitute “ £50,000 ”.
 
-### 15. Reasons for decisions[^key-a2763714c0baa5b1971fef7364660a1b]
+### 15. Reasons for decisions[^c-a2763714c0baa5b1971fef7364660a1b]
 
 (1) In section 158 of the 2006 Act (notice of decisions)—
 
@@ -554,13 +554,13 @@ In section 156(1)(a) of the 2006 Act (penalties etc.), for “£20,000” substi
 
 .
 
-### 16. Guidance[^key-41c370d054fd375e6d279f1d16a440e3]
+### 16. Guidance[^c-41c370d054fd375e6d279f1d16a440e3]
 
 In section 163(1) of the 2006 Act (guidance), after “Part” insert “ and section 186 (so far as that section relates to this Part) ”.
 
 ## Part 3 — Overcrowding statutory notices
 
-### 17. Overcrowding in private rented housing: statutory notice[^key-ebaa1014ec1d00fe4247685353055333]
+### 17. Overcrowding in private rented housing: statutory notice[^c-ebaa1014ec1d00fe4247685353055333]
 
 (1) A local authority may, subject to section 18, require the landlord of a house to which subsection (2) applies to take steps to ensure the house is not overcrowded.
 
@@ -620,7 +620,7 @@ In section 163(1) of the 2006 Act (guidance), after “Part” insert “ and se
 
 (4) For the purposes of subsection (3), whether a person is homeless or threatened with homelessness is to be determined in accordance with section 24 of the Housing (Scotland) Act 1987 (c.26).
 
-### 19. Information and advice for occupiers[^key-a1b12370c786e79c631a58b7dce6d04f]
+### 19. Information and advice for occupiers[^c-a1b12370c786e79c631a58b7dce6d04f]
 
 (1) This section applies where a local authority serves an overcrowding statutory notice in relation to a house.
 
@@ -812,7 +812,7 @@ the latest of the dates set out in subsection (2).
 
 (7) A notice which is sent by electronic means must be received in a form which is legible and capable of being used for subsequent reference.
 
-### 29. Guidance[^key-2a091fbbf38865320aa0b58b6852164b]
+### 29. Guidance[^c-2a091fbbf38865320aa0b58b6852164b]
 
 (1) A local authority must have regard to any guidance issued by the Scottish Ministers about—
 
@@ -864,12 +864,12 @@ the latest of the dates set out in subsection (2).
 
 ### 32. Premiums
 
-(1)[^key-b6e980e42456a53e938eb1677389c650] In section 82 of the Rent (Scotland) Act 1984 (c. 58) (prohibition of premiums and loans on grant of protected tenancies)—
+(1)[^c-b6e980e42456a53e938eb1677389c650] In section 82 of the Rent (Scotland) Act 1984 (c. 58) (prohibition of premiums and loans on grant of protected tenancies)—
 
 - (a) in subsection (1), “, in addition to the rent,” is repealed,
 - (b) in subsection (2), “in addition to the rent” is repealed.
 
-(2)[^key-d8b144dbeb38faf1d1f4c105ffa3d294][^key-770e7d1c3300a58e0ae59aae77ab847b] After section 89 of that Act insert—
+(2)[^c-d8b144dbeb38faf1d1f4c105ffa3d294][^c-770e7d1c3300a58e0ae59aae77ab847b] After section 89 of that Act insert—
 
 > **89A. Premiums: regulations**
 >
@@ -899,19 +899,19 @@ the latest of the dates set out in subsection (2).
 
 .
 
-(3)[^key-b6e980e42456a53e938eb1677389c650] In section 90(1) of that Act (interpretation of Part 8), for the entry for “premium” substitute—
+(3)[^c-b6e980e42456a53e938eb1677389c650] In section 90(1) of that Act (interpretation of Part 8), for the entry for “premium” substitute—
 
 > “**premium**” means any fine, sum or pecuniary consideration, other than the rent, and includes any service or administration fee or charge;
 
 .
 
-(4)[^key-b6e980e42456a53e938eb1677389c650] In section 115(1) of that Act (interpretation), for the entry for “premium” substitute—
+(4)[^c-b6e980e42456a53e938eb1677389c650] In section 115(1) of that Act (interpretation), for the entry for “premium” substitute—
 
 > “**premium**” has the meaning given in section 90;
 
 .
 
-### 33. Tenant information packs[^key-7bc2f0bb785c295708fa41a991eda826][^key-fbb85c4e8ecead6a097ef838e8f93cb3]
+### 33. Tenant information packs[^c-7bc2f0bb785c295708fa41a991eda826][^c-fbb85c4e8ecead6a097ef838e8f93cb3]
 
 After section 30 of the 1988 Act insert—
 
@@ -955,7 +955,7 @@ After section 30 of the 1988 Act insert—
 
 .
 
-### 34. Notices required for termination of short assured tenancy[^key-72e2f694abf9efe1e6c771cc7da2b269]
+### 34. Notices required for termination of short assured tenancy[^c-72e2f694abf9efe1e6c771cc7da2b269]
 
 In section 33 of the 1988 Act (recovery of possession on termination of a short assured tenancy), after subsection (4) insert—
 
@@ -965,9 +965,9 @@ In section 33 of the 1988 Act (recovery of possession on termination of a short 
 
 ### 35. Landlord application to private rented housing panel
 
-(1)[^key-8d4b96ded0685a31499a7849b2dac670] The 2006 Act is amended as follows.
+(1)[^c-8d4b96ded0685a31499a7849b2dac670] The 2006 Act is amended as follows.
 
-(2)[^key-fd80f11c16ae6d9c687e8cfc3da637df] In section 21 (naming of panel and re-naming of committees)—
+(2)[^c-fd80f11c16ae6d9c687e8cfc3da637df] In section 21 (naming of panel and re-naming of committees)—
 
 - (a) in subsection (3), after “panel,” where it first occurs, insert “ the members of the panel, ”,
 - (b) in subsection (4)—
@@ -978,9 +978,9 @@ In section 33 of the 1988 Act (recovery of possession on termination of a short 
 
     .
 
-(3)[^key-9a0945f0bf229c94a7d613ce6a88f026] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-9a0945f0bf229c94a7d613ce6a88f026] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-981ee3fad0491c269332121e2c590a49][^key-9248adbb060a68d747f4f8f001135a30] After section 28 insert—
+(4)[^c-981ee3fad0491c269332121e2c590a49][^c-9248adbb060a68d747f4f8f001135a30] After section 28 insert—
 
 > **28A. Landlord application to private rented housing panel**
 >
@@ -1078,7 +1078,7 @@ In section 33 of the 1988 Act (recovery of possession on termination of a short 
 
 .
 
-(5)[^key-fd80f11c16ae6d9c687e8cfc3da637df] In section 29 (annual report)—
+(5)[^c-fd80f11c16ae6d9c687e8cfc3da637df] In section 29 (annual report)—
 
 - (a) in subsection (1), after “panel” where it second occurs insert “ , by the members of the panel ”,
 - (b) in subsection (2)—
@@ -1093,21 +1093,21 @@ In section 33 of the 1988 Act (recovery of possession on termination of a short 
 
     .
 
-(6)[^key-fd80f11c16ae6d9c687e8cfc3da637df] In section 181 (rights of entry: general), after subsection (2) insert—
+(6)[^c-fd80f11c16ae6d9c687e8cfc3da637df] In section 181 (rights of entry: general), after subsection (2) insert—
 
 > (2A) A member of the private rented housing panel, and any other person authorised by any such member, is entitled to enter any house in respect of which a decision has been made under section 28A(3) to assist the landlord's exercise of the landlord's right of entry under subsection (4) of this section for the purpose of enabling the landlord to exercise such right of entry.
 
 .
 
-(7)[^key-fd80f11c16ae6d9c687e8cfc3da637df] In section 182(1) (warrants authorising entry), for “or (2)” substitute “ , (2) or (2A) ”.
+(7)[^c-fd80f11c16ae6d9c687e8cfc3da637df] In section 182(1) (warrants authorising entry), for “or (2)” substitute “ , (2) or (2A) ”.
 
-(8)[^key-12c2dc38a58cd891a7f313813c14b2c6] In section 191 (orders and regulations), after subsection (4) insert—
+(8)[^c-12c2dc38a58cd891a7f313813c14b2c6] In section 191 (orders and regulations), after subsection (4) insert—
 
 > (4A) Regulations under subsection (1) of section 28B (other than such regulations containing only provision under subsection (2)(b) of that section) are not to be made unless a draft of the statutory instrument containing the regulations has been laid before, and approved by resolution of, the Scottish Parliament.
 
 .
 
-### 36. Relaxation of residential restriction on leases of more than 20 years[^key-2f743a661436a041e09c11a52c0b2f13]
+### 36. Relaxation of residential restriction on leases of more than 20 years[^c-2f743a661436a041e09c11a52c0b2f13]
 
 (1) Section 8 of the Land Tenure Reform (Scotland) Act 1974 (c. 38) (property let under a future long lease, etc. not to be used as a private dwelling) is amended as follows.
 
@@ -1143,7 +1143,7 @@ In section 33 of the 1988 Act (recovery of possession on termination of a short 
 
 .
 
-### 37. Restriction of right to redeem heritable securities after 20 years[^key-108b921f9323058e8881fc36cf24bef6]
+### 37. Restriction of right to redeem heritable securities after 20 years[^c-108b921f9323058e8881fc36cf24bef6]
 
 (1) Section 11 of the Land Tenure Reform (Scotland) Act 1974 (c. 38) (right to redeem heritable security after 20 years where security subjects used as a private dwelling) is amended as follows.
 
@@ -1214,9 +1214,9 @@ In this Act—
 
 ### Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)
 
-**1.**[^key-9105739fb6cbe0c55c2bd1969a1eaa75] The 2004 Act is amended as follows.
+**1.**[^c-9105739fb6cbe0c55c2bd1969a1eaa75] The 2004 Act is amended as follows.
 
-**2.**[^key-2485c911bf97660b82b9eebb952aaa5b] In section 84 (registration)—
+**2.**[^c-2485c911bf97660b82b9eebb952aaa5b] In section 84 (registration)—
 
 - (a) in subsection (2), after “Where” insert “ (subject to subsections (7) and (8)) ”,
 - (b) after subsection (6) add—
@@ -1227,12 +1227,12 @@ In this Act—
 
   .
 
-**3.**[^key-c670e9d23e6aa0dade30efc396edc651] In section 86 (notification of registration or refusal to register)—
+**3.**[^c-c670e9d23e6aa0dade30efc396edc651] In section 86 (notification of registration or refusal to register)—
 
 - (a) in subsection (1)(b), after “section” insert “ or subsection (7) or (8) of section 84 ”,
 - (b) in subsection (2), after “84(2)(b),” insert “ (7) or (8), ”.
 
-**4.**[^key-2529fa1bb20a92d51d39489c8a41da67] In section 89 (removal from register), after subsection (3) add—
+**4.**[^c-2529fa1bb20a92d51d39489c8a41da67] In section 89 (removal from register), after subsection (3) add—
 
 > (4) Where a registered person, without reasonable excuse, fails to comply with the duty imposed by section 92B(1) the authority may remove the person from the register.
 >
@@ -1245,16 +1245,16 @@ In this Act—
 
 .
 
-**5.**[^key-8d83ed813e8cbe31524f29e311e0a310] In section 90(1) (notification of removal from register: registered person), after “89(1)” insert “ , (4) or (5) ”.
+**5.**[^c-8d83ed813e8cbe31524f29e311e0a310] In section 90(1) (notification of removal from register: registered person), after “89(1)” insert “ , (4) or (5) ”.
 
-**6.**[^key-7bb3f09bd768c9a3382d170907661bf3] In section 91(1) (notification of removal from register: other persons), after “89(1)” insert “ , (4) or (5) ”.
+**6.**[^c-7bb3f09bd768c9a3382d170907661bf3] In section 91(1) (notification of removal from register: other persons), after “89(1)” insert “ , (4) or (5) ”.
 
-**7.**[^key-7f207f393e73d64e3c2f9976c6998101] In section 92(1) (appeal against refusal to register or removal from register)—
+**7.**[^c-7f207f393e73d64e3c2f9976c6998101] In section 92(1) (appeal against refusal to register or removal from register)—
 
 - (a) in paragraph (a), after “84(2)(b)” insert “ , (7) or (8) ”,
 - (b) in paragraph (b), after “89(1)” insert “ or (4) ”.
 
-**8.**[^key-daac905aa4a018682af7097d60d8a265] In section 93(5) (offences), after paragraph (aa) insert—
+**8.**[^c-daac905aa4a018682af7097d60d8a265] In section 93(5) (offences), after paragraph (aa) insert—
 
 > - (aaa) the relevant person is not disqualified from being registered by virtue of an order under section 93A(2);
 
@@ -1262,90 +1262,90 @@ In this Act—
 
 ## Annotations
 
-[^key-699161b2123a66b86f4b82c9de5f1a55]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/14/section/1) in force at 1.7.2012 by [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/150/article/2/1)
+[^c-699161b2123a66b86f4b82c9de5f1a55]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2011/14/section/1) in force at 1.7.2012 by [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(1)](https://www.legislation.gov.uk/ssi/2012/150/article/2/1)
 
-[^key-0b2f23b600d361789e4b6ba0fd21fc7d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/14/section/2) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-0b2f23b600d361789e4b6ba0fd21fc7d]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2011/14/section/2) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-b87c60d7975a778ac6a0dd71c2dd7ce8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/14/section/3) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-b87c60d7975a778ac6a0dd71c2dd7ce8]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2011/14/section/3) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-d7d5318b660c893271673f77e0aca59e]: Commencement: [S. 4(a)](https://www.legislation.gov.uk/asp/2011/14/section/4/a) in force for specified purposes at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-d7d5318b660c893271673f77e0aca59e]: Commencement: [S. 4(a)](https://www.legislation.gov.uk/asp/2011/14/section/4/a) in force for specified purposes at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-6225e44a6526e4158f3a63da23e4c3b6]: Commencement: [S. 4(a)](https://www.legislation.gov.uk/asp/2011/14/section/4/a) in force in so far as not already in force at 1.7.2012 by [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(2)](https://www.legislation.gov.uk/ssi/2012/150/article/2/2)
+[^c-6225e44a6526e4158f3a63da23e4c3b6]: Commencement: [S. 4(a)](https://www.legislation.gov.uk/asp/2011/14/section/4/a) in force in so far as not already in force at 1.7.2012 by [S.S.I. 2012/150](https://www.legislation.gov.uk/ssi/2012/150), [art. 2(2)](https://www.legislation.gov.uk/ssi/2012/150/article/2/2)
 
-[^key-93d5a18719b245cbe9544fd2b0da6ad5]: Commencement: [S. 4(b)](https://www.legislation.gov.uk/asp/2011/14/section/4/b) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-93d5a18719b245cbe9544fd2b0da6ad5]: Commencement: [S. 4(b)](https://www.legislation.gov.uk/asp/2011/14/section/4/b) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-c59ef49e7e2cd710c77d322d8cea794c]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/14/section/5) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-c59ef49e7e2cd710c77d322d8cea794c]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2011/14/section/5) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-1f2d99a37104977db8c82dce115f4621]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/14/section/6) in force at 1.6.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(2)](https://www.legislation.gov.uk/ssi/2013/82/article/2/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/82/article/3/1))
+[^c-1f2d99a37104977db8c82dce115f4621]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2011/14/section/6) in force at 1.6.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(2)](https://www.legislation.gov.uk/ssi/2013/82/article/2/2) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2013/82/article/3/1))
 
-[^key-1956975e9cbc6a4da0920b1b18766fd3]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/14/section/7) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/270/article/3))
+[^c-1956975e9cbc6a4da0920b1b18766fd3]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2011/14/section/7) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/270/article/3))
 
-[^key-375ca2d3d46ba519d8e476de47b7b933]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/14/section/8) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2013/82/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2013/82/article/3/3))
+[^c-375ca2d3d46ba519d8e476de47b7b933]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2011/14/section/8) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2013/82/article/3/2)[(3)](https://www.legislation.gov.uk/ssi/2013/82/article/3/3))
 
-[^key-081cb9ce051c8628203e64d867793db8]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/14/section/9) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-081cb9ce051c8628203e64d867793db8]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2011/14/section/9) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-08ed798ed321811ca6ae9e4604e9e530]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/14/section/10) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-08ed798ed321811ca6ae9e4604e9e530]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2011/14/section/10) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-97118a67324e57f89b5b4c0c249db403]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/14/section/11) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-97118a67324e57f89b5b4c0c249db403]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2011/14/section/11) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-91933abaafabfc2de3ce121c8ed3bffc]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/14/section/12) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-91933abaafabfc2de3ce121c8ed3bffc]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2011/14/section/12) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-a069348c06f920f256ede300d5b3f243]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/asp/2011/14/section/13/1)[(3)](https://www.legislation.gov.uk/asp/2011/14/section/13/3)[(6)](https://www.legislation.gov.uk/asp/2011/14/section/13/6) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-a069348c06f920f256ede300d5b3f243]: Commencement: [S. 13(1)](https://www.legislation.gov.uk/asp/2011/14/section/13/1)[(3)](https://www.legislation.gov.uk/asp/2011/14/section/13/3)[(6)](https://www.legislation.gov.uk/asp/2011/14/section/13/6) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-0598e0280019ee2a1664e151ac854446]: Commencement: [S. 13(2)](https://www.legislation.gov.uk/asp/2011/14/section/13/2)[(4)](https://www.legislation.gov.uk/asp/2011/14/section/13/4)[(5)](https://www.legislation.gov.uk/asp/2011/14/section/13/5) in force at 31.1.2012 by [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/2/article/3))
+[^c-0598e0280019ee2a1664e151ac854446]: Commencement: [S. 13(2)](https://www.legislation.gov.uk/asp/2011/14/section/13/2)[(4)](https://www.legislation.gov.uk/asp/2011/14/section/13/4)[(5)](https://www.legislation.gov.uk/asp/2011/14/section/13/5) in force at 31.1.2012 by [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2012/2/article/3))
 
-[^key-758bbf4d558dc7d05a5c01445f25755e]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/14/section/14) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-758bbf4d558dc7d05a5c01445f25755e]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2011/14/section/14) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-a2763714c0baa5b1971fef7364660a1b]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/14/section/15) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-a2763714c0baa5b1971fef7364660a1b]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2011/14/section/15) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-41c370d054fd375e6d279f1d16a440e3]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/14/section/16) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-41c370d054fd375e6d279f1d16a440e3]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2011/14/section/16) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-ebaa1014ec1d00fe4247685353055333]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2011/14/section/17) in force for specified purposes at 31.1.2012 by [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule)
+[^c-ebaa1014ec1d00fe4247685353055333]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2011/14/section/17) in force for specified purposes at 31.1.2012 by [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule)
 
-[^key-a1b12370c786e79c631a58b7dce6d04f]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2011/14/section/19) in force for specified purposes at 31.1.2012 by [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule)
+[^c-a1b12370c786e79c631a58b7dce6d04f]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2011/14/section/19) in force for specified purposes at 31.1.2012 by [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule)
 
-[^key-2a091fbbf38865320aa0b58b6852164b]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2011/14/section/29) in force for specified purposes at 31.1.2012 by [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule)
+[^c-2a091fbbf38865320aa0b58b6852164b]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2011/14/section/29) in force for specified purposes at 31.1.2012 by [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule)
 
-[^key-b6e980e42456a53e938eb1677389c650]: Commencement: [S. 32(1)](https://www.legislation.gov.uk/asp/2011/14/section/32/1)[(3)](https://www.legislation.gov.uk/asp/2011/14/section/32/3)[(4)](https://www.legislation.gov.uk/asp/2011/14/section/32/4) in force at 30.11.2012 by [S.S.I. 2012/267](https://www.legislation.gov.uk/ssi/2012/267), [art. 2](https://www.legislation.gov.uk/ssi/2012/267/article/2)
+[^c-b6e980e42456a53e938eb1677389c650]: Commencement: [S. 32(1)](https://www.legislation.gov.uk/asp/2011/14/section/32/1)[(3)](https://www.legislation.gov.uk/asp/2011/14/section/32/3)[(4)](https://www.legislation.gov.uk/asp/2011/14/section/32/4) in force at 30.11.2012 by [S.S.I. 2012/267](https://www.legislation.gov.uk/ssi/2012/267), [art. 2](https://www.legislation.gov.uk/ssi/2012/267/article/2)
 
-[^key-d8b144dbeb38faf1d1f4c105ffa3d294]: Commencement: [S. 32(2)](https://www.legislation.gov.uk/asp/2011/14/section/32/2) in force for specified purposes at 31.1.2012 by [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule)
+[^c-d8b144dbeb38faf1d1f4c105ffa3d294]: Commencement: [S. 32(2)](https://www.legislation.gov.uk/asp/2011/14/section/32/2) in force for specified purposes at 31.1.2012 by [S.S.I. 2012/2](https://www.legislation.gov.uk/ssi/2012/2), [art. 2](https://www.legislation.gov.uk/ssi/2012/2/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/2/schedule)
 
-[^key-770e7d1c3300a58e0ae59aae77ab847b]: Commencement: [S. 32(2)](https://www.legislation.gov.uk/asp/2011/14/section/32/2) in force in so far as not already in force at 30.11.2012 by [S.S.I. 2012/267](https://www.legislation.gov.uk/ssi/2012/267), [art. 2](https://www.legislation.gov.uk/ssi/2012/267/article/2)
+[^c-770e7d1c3300a58e0ae59aae77ab847b]: Commencement: [S. 32(2)](https://www.legislation.gov.uk/asp/2011/14/section/32/2) in force in so far as not already in force at 30.11.2012 by [S.S.I. 2012/267](https://www.legislation.gov.uk/ssi/2012/267), [art. 2](https://www.legislation.gov.uk/ssi/2012/267/article/2)
 
-[^key-7bc2f0bb785c295708fa41a991eda826]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2011/14/section/33) in force for specified purposes at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-7bc2f0bb785c295708fa41a991eda826]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2011/14/section/33) in force for specified purposes at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-fbb85c4e8ecead6a097ef838e8f93cb3]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2011/14/section/33) in force in so far as not already in force at 1.5.2013 by [S.S.I. 2013/19](https://www.legislation.gov.uk/ssi/2013/19), [art. 2](https://www.legislation.gov.uk/ssi/2013/19/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/19/article/3))
+[^c-fbb85c4e8ecead6a097ef838e8f93cb3]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2011/14/section/33) in force in so far as not already in force at 1.5.2013 by [S.S.I. 2013/19](https://www.legislation.gov.uk/ssi/2013/19), [art. 2](https://www.legislation.gov.uk/ssi/2013/19/article/2) (with [art. 3](https://www.legislation.gov.uk/ssi/2013/19/article/3))
 
-[^key-72e2f694abf9efe1e6c771cc7da2b269]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2011/14/section/34) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-72e2f694abf9efe1e6c771cc7da2b269]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2011/14/section/34) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-8d4b96ded0685a31499a7849b2dac670]: Commencement: S. 35(1) in force at 22.9.2015 by [S.S.I. 2015/326](https://www.legislation.gov.uk/ssi/2015/326), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2015/326/article/2/2/a)
+[^c-8d4b96ded0685a31499a7849b2dac670]: Commencement: S. 35(1) in force at 22.9.2015 by [S.S.I. 2015/326](https://www.legislation.gov.uk/ssi/2015/326), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2015/326/article/2/2/a)
 
-[^key-fd80f11c16ae6d9c687e8cfc3da637df]: Commencement: S. 35(2) s. 35(5)-(7) in force at 1.12.2015 by [S.S.I. 2015/326](https://www.legislation.gov.uk/ssi/2015/326), [art. 2(3)](https://www.legislation.gov.uk/ssi/2015/326/article/2/3)
+[^c-fd80f11c16ae6d9c687e8cfc3da637df]: Commencement: S. 35(2) s. 35(5)-(7) in force at 1.12.2015 by [S.S.I. 2015/326](https://www.legislation.gov.uk/ssi/2015/326), [art. 2(3)](https://www.legislation.gov.uk/ssi/2015/326/article/2/3)
 
-[^key-9a0945f0bf229c94a7d613ce6a88f026]: Textual amendment: [S. 35(3)](https://www.legislation.gov.uk/asp/2011/14/section/35/3) repealed (1.12.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 25(11)](https://www.legislation.gov.uk/asp/2014/14/section/25/11), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/349](https://www.legislation.gov.uk/ssi/2015/349), [art. 3](https://www.legislation.gov.uk/ssi/2015/349/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/349/schedule)
+[^c-9a0945f0bf229c94a7d613ce6a88f026]: Textual amendment: [S. 35(3)](https://www.legislation.gov.uk/asp/2011/14/section/35/3) repealed (1.12.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 25(11)](https://www.legislation.gov.uk/asp/2014/14/section/25/11), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/349](https://www.legislation.gov.uk/ssi/2015/349), [art. 3](https://www.legislation.gov.uk/ssi/2015/349/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/349/schedule)
 
-[^key-981ee3fad0491c269332121e2c590a49]: Commencement: S. 35(4) in force at 22.9.2015 for specified purposes by [S.S.I. 2015/326](https://www.legislation.gov.uk/ssi/2015/326), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2015/326/article/2/2/b)
+[^c-981ee3fad0491c269332121e2c590a49]: Commencement: S. 35(4) in force at 22.9.2015 for specified purposes by [S.S.I. 2015/326](https://www.legislation.gov.uk/ssi/2015/326), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2015/326/article/2/2/b)
 
-[^key-9248adbb060a68d747f4f8f001135a30]: Commencement: S. 35(4) in force at 1.12.2015 in so far as not already in force by [S.S.I. 2015/326](https://www.legislation.gov.uk/ssi/2015/326), [art. 2(3)](https://www.legislation.gov.uk/ssi/2015/326/article/2/3)
+[^c-9248adbb060a68d747f4f8f001135a30]: Commencement: S. 35(4) in force at 1.12.2015 in so far as not already in force by [S.S.I. 2015/326](https://www.legislation.gov.uk/ssi/2015/326), [art. 2(3)](https://www.legislation.gov.uk/ssi/2015/326/article/2/3)
 
-[^key-12c2dc38a58cd891a7f313813c14b2c6]: Commencement: S. 35(8) in force at 22.9.2015 by [S.S.I. 2015/326](https://www.legislation.gov.uk/ssi/2015/326), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2015/326/article/2/2/c)
+[^c-12c2dc38a58cd891a7f313813c14b2c6]: Commencement: S. 35(8) in force at 22.9.2015 by [S.S.I. 2015/326](https://www.legislation.gov.uk/ssi/2015/326), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2015/326/article/2/2/c)
 
-[^key-2f743a661436a041e09c11a52c0b2f13]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2011/14/section/36) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-2f743a661436a041e09c11a52c0b2f13]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2011/14/section/36) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-108b921f9323058e8881fc36cf24bef6]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2011/14/section/37) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
+[^c-108b921f9323058e8881fc36cf24bef6]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2011/14/section/37) in force at 31.8.2011 by [S.S.I. 2011/270](https://www.legislation.gov.uk/ssi/2011/270), [art. 2](https://www.legislation.gov.uk/ssi/2011/270/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/270/schedule)
 
-[^key-9105739fb6cbe0c55c2bd1969a1eaa75]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/1) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-9105739fb6cbe0c55c2bd1969a1eaa75]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/1) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-2485c911bf97660b82b9eebb952aaa5b]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/2) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-2485c911bf97660b82b9eebb952aaa5b]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/2) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-c670e9d23e6aa0dade30efc396edc651]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/3) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-c670e9d23e6aa0dade30efc396edc651]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/3) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-2529fa1bb20a92d51d39489c8a41da67]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/4) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-2529fa1bb20a92d51d39489c8a41da67]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/4) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-8d83ed813e8cbe31524f29e311e0a310]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/5) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-8d83ed813e8cbe31524f29e311e0a310]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/5) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-7bb3f09bd768c9a3382d170907661bf3]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/6) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-7bb3f09bd768c9a3382d170907661bf3]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/6) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-7f207f393e73d64e3c2f9976c6998101]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/7) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-7f207f393e73d64e3c2f9976c6998101]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/7) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
 
-[^key-daac905aa4a018682af7097d60d8a265]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/8) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)
+[^c-daac905aa4a018682af7097d60d8a265]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/asp/2011/14/schedule/paragraph/8) in force at 1.4.2013 by [S.S.I. 2013/82](https://www.legislation.gov.uk/ssi/2013/82), [art. 2(1)](https://www.legislation.gov.uk/ssi/2013/82/article/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2013/82/schedule)

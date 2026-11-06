@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 282. Extended sentences for offences committed before 4 April 2005[^key-d744c99ad110cfb0c4ac1cbac1b58f6a]
+## 282. Extended sentences for offences committed before 4 April 2005[^c-d744c99ad110cfb0c4ac1cbac1b58f6a]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ In section 280(1)(a) and section 281(4)(b), references to a specified offence, a
 
 ## Annotations
 
-[^key-d744c99ad110cfb0c4ac1cbac1b58f6a]: Commencement: S. 282 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d744c99ad110cfb0c4ac1cbac1b58f6a]: Commencement: S. 282 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

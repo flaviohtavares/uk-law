@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 3. Disapplication of legislative provisions[^key-4910153ef6036c1bb773fa27a223c63f]
+## 3. Disapplication of legislative provisions[^c-4910153ef6036c1bb773fa27a223c63f]
 
 *Extent: E+W+S*
 
@@ -26,13 +26,13 @@ summary: ''
 - (b) the provisions of any byelaws made under section 66[^f00036] (powers to make byelaws) of the Land Drainage Act 1991;
 - (c) the provisions of any byelaws made under, or having effect as if made under, paragraph 5 of Schedule 25 (byelaw – making powers of the appropriate agency) to the Water Resources Act 1991[^f00037];
 - (d) regulation 12 (requirement for environmental permit) of the Environmental Permitting (England and Wales) Regulations 2016[^f00038] in respect of a flood risk activity only; and
-- (e) the provisions of the Neighbourhood Planning Act 2017[^f00039] insofar as they relate to temporary possession of land under articles 31[^key-beb275866516bfacc01f83ab6c007373] (temporary use of land for carrying out the authorised project) and 32 (temporary use of land for maintaining the authorised project) of this Order.
+- (e) the provisions of the Neighbourhood Planning Act 2017[^f00039] insofar as they relate to temporary possession of land under articles 31[^c-beb275866516bfacc01f83ab6c007373] (temporary use of land for carrying out the authorised project) and 32 (temporary use of land for maintaining the authorised project) of this Order.
 
 (2) Sections 25 (penalties for improper deposit of hard materials in the river) and 26 (no mud to be cast into the river except as Admiralty direct) of the River Humber Conservancy Act 1852[^f00040], sections 5 (removal of obstructions) and 9 (licences for execution of works) of the Humber Conservancy Act 1899[^f00041] and sections 6 (no erections in Humber below river lines or without licence above river lines) and 8 (sand not to be removed from bed or foreshore of River Humber without licence of Commissioners) of the Humber Conservancy Act 1905[^f00042] do not apply to the authorised project.
 
 ## Annotations
 
-[^key-4910153ef6036c1bb773fa27a223c63f]: Commencement: Art. 3 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
+[^c-4910153ef6036c1bb773fa27a223c63f]: Commencement: Art. 3 in force at 27.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/165/article/1)
 
 [^f00035]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59). Section 23 was amended by paragraph 192(2) of Schedule 22 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25), paragraph 32 of Schedule 2 to the Flood and Water Management Act [2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29) and [S.I. 2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 
@@ -44,7 +44,7 @@ summary: ''
 
 [^f00039]: Footnote: [2017 c. 20](https://www.legislation.gov.uk/ukpga/2017/20).
 
-[^key-beb275866516bfacc01f83ab6c007373]: Textual amendment: Words in [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2025/165/article/3/1/e) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
+[^c-beb275866516bfacc01f83ab6c007373]: Textual amendment: Words in [art. 3(1)(e)](https://www.legislation.gov.uk/uksi/2025/165/article/3/1/e) substituted (2.7.2025) by [The Associated British Ports (Immingham Green Energy Terminal) (Corrections) Order 2025 (S.I. 2025/781)](https://www.legislation.gov.uk/uksi/2025/781), [art. 1](https://www.legislation.gov.uk/uksi/2025/781/article/1), [Sch. Table](https://www.legislation.gov.uk/uksi/2025/781/schedule)
 
 [^f00040]: Footnote: [1852 c. cxxx](https://www.legislation.gov.uk/ukla/1852/130).
 

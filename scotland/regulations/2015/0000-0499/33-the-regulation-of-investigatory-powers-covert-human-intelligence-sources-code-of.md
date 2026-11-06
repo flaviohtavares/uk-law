@@ -32,7 +32,7 @@ summary: ''
 
 Investigatory Powers
 
-The Regulation of Investigatory Powers (Covert Human Intelligence Sources – Code of Practice) (Scotland) Order 2015 (revoked)[^key-2d1bf5549ebb04c837481fc025d81c44]
+The Regulation of Investigatory Powers (Covert Human Intelligence Sources – Code of Practice) (Scotland) Order 2015 (revoked)[^c-2d1bf5549ebb04c837481fc025d81c44]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into force
 
 2nd February 2015
 
-[^key-2d1bf5549ebb04c837481fc025d81c44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d1bf5549ebb04c837481fc025d81c44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2d1bf5549ebb04c837481fc025d81c44]
+## 1. Citation and commencement[^c-2d1bf5549ebb04c837481fc025d81c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Revised code of practice[^key-2d1bf5549ebb04c837481fc025d81c44]
+## 2. Revised code of practice[^c-2d1bf5549ebb04c837481fc025d81c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-2d1bf5549ebb04c837481fc025d81c44]
+## 3. Revocation[^c-2d1bf5549ebb04c837481fc025d81c44]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d1bf5549ebb04c837481fc025d81c44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d1bf5549ebb04c837481fc025d81c44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2d1bf5549ebb04c837481fc025d81c44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d1bf5549ebb04c837481fc025d81c44]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d1bf5549ebb04c837481fc025d81c44]: Textual amendment: Order revoked (28.2.2018) by [The Regulation of Investigatory Powers (Covert Human Intelligence Sources – Code of Practice) (Scotland) Order 2018 (S.S.I. 2018/53)](https://www.legislation.gov.uk/ssi/2018/53), [arts. 1](https://www.legislation.gov.uk/ssi/2018/53/article/1), [3](https://www.legislation.gov.uk/ssi/2018/53/article/3)
+[^c-2d1bf5549ebb04c837481fc025d81c44]: Textual amendment: Order revoked (28.2.2018) by [The Regulation of Investigatory Powers (Covert Human Intelligence Sources – Code of Practice) (Scotland) Order 2018 (S.S.I. 2018/53)](https://www.legislation.gov.uk/ssi/2018/53), [arts. 1](https://www.legislation.gov.uk/ssi/2018/53/article/1), [3](https://www.legislation.gov.uk/ssi/2018/53/article/3)

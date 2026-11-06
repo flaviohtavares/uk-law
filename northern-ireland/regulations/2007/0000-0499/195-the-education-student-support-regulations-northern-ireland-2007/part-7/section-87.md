@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 87. Transfers[^key-b578c50f756456869c509ad527b6d40c]
+## 87. Transfers[^c-b578c50f756456869c509ad527b6d40c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ Despite regulation 8, where a qualifying student transfers from one qualifying c
 
 ## Annotations
 
-[^key-b578c50f756456869c509ad527b6d40c]: Commencement: [Reg. 87](https://www.legislation.gov.uk/nisr/2007/195/regulation/87) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-b578c50f756456869c509ad527b6d40c]: Commencement: [Reg. 87](https://www.legislation.gov.uk/nisr/2007/195/regulation/87) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

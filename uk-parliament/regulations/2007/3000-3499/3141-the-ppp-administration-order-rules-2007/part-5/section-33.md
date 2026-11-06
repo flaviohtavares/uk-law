@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33. Fixing of remuneration[^key-b0fe84c76b15ded074acc90c012b434f]
+## 33. Fixing of remuneration[^c-b0fe84c76b15ded074acc90c012b434f]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0fe84c76b15ded074acc90c012b434f]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2007/3141/rule/33) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-b0fe84c76b15ded074acc90c012b434f]: Commencement: [Rule 33](https://www.legislation.gov.uk/uksi/2007/3141/rule/33) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

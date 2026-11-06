@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 350. Enhanced protection for structured settlement annuitants[^key-e731e2364a3641cfdf40383acd465f6a]
+## 350. Enhanced protection for structured settlement annuitants[^c-e731e2364a3641cfdf40383acd465f6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,4 +66,4 @@ In section 4 of the Damages Act 1996—
 
 ## Annotations
 
-[^key-e731e2364a3641cfdf40383acd465f6a]: Commencement: Art. 350 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-e731e2364a3641cfdf40383acd465f6a]: Commencement: Art. 350 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

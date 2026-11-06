@@ -46,20 +46,20 @@ Coming into force
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 297A(3) and (4) and 459(2)(a) of the Proceeds of Crime Act 2002[^f00001].
 
-## 1. Citation, commencement and extent[^key-28496afeeb104e72e20dc4f4e0d169e9]
+## 1. Citation, commencement and extent[^c-28496afeeb104e72e20dc4f4e0d169e9]
 
 (1) These Regulations may be cited as the Administrative Forfeiture of Cash (Forfeiture Notices) (Northern Ireland) Regulations 2016, and come into force on 1st March 2016.
 
 (2) These Regulations extend to Northern Ireland only.
 
-## 2. Interpretation[^key-e443ec7ff447f18abc8da57e749c8964]
+## 2. Interpretation[^c-e443ec7ff447f18abc8da57e749c8964]
 
 In these Regulations—
 
 - “the Act” means the Proceeds of Crime Act 2002; and
 - “electronic communication” has the meaning given by section 15(1) of the Electronic Communications Act 2000[^f00002].
 
-## 3. Giving of a forfeiture notice[^key-5ed15e4faed877ed8477ea96972c942e]
+## 3. Giving of a forfeiture notice[^c-5ed15e4faed877ed8477ea96972c942e]
 
 (1) Subject to paragraph (2), a forfeiture notice[^f00003] must be given by a senior officer[^f00004] in accordance with regulation 4 to—
 
@@ -73,25 +73,25 @@ In these Regulations—
 
 the forfeiture notice must be given by way of publication in accordance with regulation 4(2).
 
-(3)[^key-aa69d1e0c55f3e8e727ba1573028c7d0] Where a forfeiture notice is to be given outside the United Kingdom—
+(3)[^c-aa69d1e0c55f3e8e727ba1573028c7d0] Where a forfeiture notice is to be given outside the United Kingdom—
 
 - (a) nothing in these Regulations authorises or requires any person to do anything which is contrary to the law of the country where the account forfeiture notice is to be given, and
 - (b) the duty for the account forfeiture notice to be given by way of publication under paragraph (2)(b) does not apply.
 
-## 4. Manner in which a forfeiture notice must be given[^key-0d2e05d8ced072b71b3f59b8c831e4f2]
+## 4. Manner in which a forfeiture notice must be given[^c-0d2e05d8ced072b71b3f59b8c831e4f2]
 
 (1) A forfeiture notice which is given to a person must be given—
 
 - (a) by post in accordance with regulation 5; or
 - (b) by means of electronic communication in accordance with regulation 6.
 
-(2)[^key-727fd462b1d82732d831e043c2e53fef] An account forfeiture notice which is required to be given by way of publication must be published—
+(2)[^c-727fd462b1d82732d831e043c2e53fef] An account forfeiture notice which is required to be given by way of publication must be published—
 
 - (a) in the London Gazette, if the senior officer believes any affected person may be in England or Wales;
 - (b) in the Belfast Gazette, if the senior officer believes any affected person may be in Northern Ireland;
 - (c) in the Edinburgh Gazette, if senior officer believes any affected person may be in Scotland.
 
-## 5. Giving a forfeiture notice by post[^key-86882da59eedd2e4a19129b25666243e]
+## 5. Giving a forfeiture notice by post[^c-86882da59eedd2e4a19129b25666243e]
 
 (1) In order to give a forfeiture notice to a person by post, it must be sent by properly addressing, pre-paying and posting to an address which has been given by that person for the purpose of receipt of a forfeiture notice under these Regulations.
 
@@ -108,7 +108,7 @@ the forfeiture notice must be given by way of publication in accordance with reg
 
 (3) The forfeiture notice is to be treated as having been given at the time at which the notice would be delivered in the ordinary course of post.
 
-## 6. Giving a forfeiture notice by means of electronic communication[^key-b1839bf28427d83bec1ed0838a8b1eb7]
+## 6. Giving a forfeiture notice by means of electronic communication[^c-b1839bf28427d83bec1ed0838a8b1eb7]
 
 (1) A forfeiture notice may be given by means of fax, email or other means of electronic communication where the intended recipient has previously indicated in writing—
 
@@ -123,14 +123,14 @@ the forfeiture notice must be given by way of publication in accordance with reg
 
 (5) If the electronic communication is sent or transmitted after 4.30pm, the notice is to be treated as having been given the following day.
 
-## 7. Giving a forfeiture notice to a child or a protected person[^key-08b30314c620860e2734e1ac2599f46a]
+## 7. Giving a forfeiture notice to a child or a protected person[^c-08b30314c620860e2734e1ac2599f46a]
 
-(1) Where the intended recipient of a forfeiture notice is known to be a child who is not also a protected person, the forfeiture notice must be given to the child and[^key-79ffc766f15a2ad56c1f936047ffcc36]—
+(1) Where the intended recipient of a forfeiture notice is known to be a child who is not also a protected person, the forfeiture notice must be given to the child and[^c-79ffc766f15a2ad56c1f936047ffcc36]—
 
 - (a) one of the child’s parents or guardians; or
 - (b) if there is no parent or guardian, an adult with whom the child resides or in whose care the child is.
 
-(2)[^key-915a2b185fc85730f92eb6b85bb96a9c] Where the intended recipient of a forfeiture notice is known to be a protected person, the forfeiture notice must be given to the protected person and—
+(2)[^c-915a2b185fc85730f92eb6b85bb96a9c] Where the intended recipient of a forfeiture notice is known to be a protected person, the forfeiture notice must be given to the protected person and—
 
 - (a) where the protected person is resident in England and Wales, to one of the following persons—
   - (i) the attorney under a registered enduring power of attorney that relates to the protected person;
@@ -158,7 +158,7 @@ a senior officer may not give a forfeiture notice to a person who is known to be
 (5) In this regulation—
 
 - “child” means a person under 18 years; and
-- “[^key-6fcc0137cca56ff83a702b44b25ad79d]**protected person**” means—
+- “[^c-6fcc0137cca56ff83a702b44b25ad79d]**protected person**” means—
 -
   - (a) in England and Wales, a person who lacks capacity within the meaning of the Mental Capacity Act 2005 in relation to a forfeiture notice;
   - (b) in Northern Ireland, means a person who is 16 years or over who lacks capacity to understand the nature of a forfeiture notice because of an impairment of, or a disturbance in the functioning of, the mind or brain;
@@ -192,34 +192,34 @@ A full impact assessment has not been produced for this instrument as no impact 
 
 [^f00001]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29). Section 297(A) was inserted by section 65 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), and amended by the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), section 55(14) and Schedule 21, Pt 1, paragraphs 14 and 28.
 
-[^key-28496afeeb104e72e20dc4f4e0d169e9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/70/regulation/1) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
+[^c-28496afeeb104e72e20dc4f4e0d169e9]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2016/70/regulation/1) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
 
-[^key-e443ec7ff447f18abc8da57e749c8964]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/70/regulation/2) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
+[^c-e443ec7ff447f18abc8da57e749c8964]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2016/70/regulation/2) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
 
 [^f00002]: Footnote: [2000 c. 7](https://www.legislation.gov.uk/ukpga/2000/7). Section 15(1) was amended by the Communications Act [2003 (c. 21)](https://www.legislation.gov.uk/ukpga/2003/21), section 406(1) and Schedule 17, paragraph 158.
 
-[^key-5ed15e4faed877ed8477ea96972c942e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/70/regulation/3) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
+[^c-5ed15e4faed877ed8477ea96972c942e]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2016/70/regulation/3) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
 
 [^f00003]: Footnote: See section 297A(8) of the Act for the meaning of “forfeiture notice”.
 
 [^f00004]: Footnote: See section 297A(6) of the Act for the meaning of “senior officer”.
 
-[^key-aa69d1e0c55f3e8e727ba1573028c7d0]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2016/70/regulation/3/3) inserted (31.1.2018) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) Regulations 2017 (S.I. 2017/1223)](https://www.legislation.gov.uk/uksi/2017/1223), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/8/2)
+[^c-aa69d1e0c55f3e8e727ba1573028c7d0]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/2016/70/regulation/3/3) inserted (31.1.2018) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) Regulations 2017 (S.I. 2017/1223)](https://www.legislation.gov.uk/uksi/2017/1223), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/1/1), [8(2)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/8/2)
 
-[^key-0d2e05d8ced072b71b3f59b8c831e4f2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/70/regulation/4) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
+[^c-0d2e05d8ced072b71b3f59b8c831e4f2]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2016/70/regulation/4) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
 
-[^key-727fd462b1d82732d831e043c2e53fef]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/70/regulation/4/2) substituted (31.1.2018) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) Regulations 2017 (S.I. 2017/1223)](https://www.legislation.gov.uk/uksi/2017/1223), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/8/3)
+[^c-727fd462b1d82732d831e043c2e53fef]: Textual amendment: [Reg. 4(2)](https://www.legislation.gov.uk/uksi/2016/70/regulation/4/2) substituted (31.1.2018) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) Regulations 2017 (S.I. 2017/1223)](https://www.legislation.gov.uk/uksi/2017/1223), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/1/1), [8(3)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/8/3)
 
-[^key-86882da59eedd2e4a19129b25666243e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/70/regulation/5) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
+[^c-86882da59eedd2e4a19129b25666243e]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2016/70/regulation/5) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
 
 [^f00005]: Footnote: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12).
 
-[^key-b1839bf28427d83bec1ed0838a8b1eb7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/70/regulation/6) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
+[^c-b1839bf28427d83bec1ed0838a8b1eb7]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2016/70/regulation/6) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
 
-[^key-08b30314c620860e2734e1ac2599f46a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/70/regulation/7) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
+[^c-08b30314c620860e2734e1ac2599f46a]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2016/70/regulation/7) in force at 1.3.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/1/1)
 
-[^key-79ffc766f15a2ad56c1f936047ffcc36]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/7/1) inserted (31.1.2018) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) Regulations 2017 (S.I. 2017/1223)](https://www.legislation.gov.uk/uksi/2017/1223), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/8/4/a)
+[^c-79ffc766f15a2ad56c1f936047ffcc36]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2016/70/regulation/7/1) inserted (31.1.2018) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) Regulations 2017 (S.I. 2017/1223)](https://www.legislation.gov.uk/uksi/2017/1223), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/1/1), [8(4)(a)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/8/4/a)
 
-[^key-915a2b185fc85730f92eb6b85bb96a9c]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2016/70/regulation/7/2) substituted (31.1.2018) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) Regulations 2017 (S.I. 2017/1223)](https://www.legislation.gov.uk/uksi/2017/1223), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/1/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/8/4/b)
+[^c-915a2b185fc85730f92eb6b85bb96a9c]: Textual amendment: [Reg. 7(2)](https://www.legislation.gov.uk/uksi/2016/70/regulation/7/2) substituted (31.1.2018) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) Regulations 2017 (S.I. 2017/1223)](https://www.legislation.gov.uk/uksi/2017/1223), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/1/1), [8(4)(b)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/8/4/b)
 
-[^key-6fcc0137cca56ff83a702b44b25ad79d]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2016/70/regulation/7/5) substituted (31.1.2018) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) Regulations 2017 (S.I. 2017/1223)](https://www.legislation.gov.uk/uksi/2017/1223), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/1/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/8/4/c)
+[^c-6fcc0137cca56ff83a702b44b25ad79d]: Textual amendment: Words in [reg. 7(5)](https://www.legislation.gov.uk/uksi/2016/70/regulation/7/5) substituted (31.1.2018) by [The Proceeds of Crime Act 2002 (Administrative Forfeiture Notices) (England and Wales and Northern Ireland) Regulations 2017 (S.I. 2017/1223)](https://www.legislation.gov.uk/uksi/2017/1223), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/1/1), [8(4)(c)](https://www.legislation.gov.uk/uksi/2017/1223/regulation/8/4/c)

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-These Regulations do not apply to waste from a mine or quarry before 15 May 2007[^key-4249f22da5ce79c71227cdfeead5f39d], but apply on and after that date to such waste whenever it became waste.
+These Regulations do not apply to waste from a mine or quarry before 15 May 2007[^c-4249f22da5ce79c71227cdfeead5f39d], but apply on and after that date to such waste whenever it became waste.
 
 ## Annotations
 
-[^key-4249f22da5ce79c71227cdfeead5f39d]: Textual amendment: Words in reg. 17 substituted (15.5.2006) by [The Waste Management (England and Wales) Regulations 2006 (S.I. 2006/937)](https://www.legislation.gov.uk/uksi/2006/937), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/937/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2006/937/regulation/11/3/a)
+[^c-4249f22da5ce79c71227cdfeead5f39d]: Textual amendment: Words in reg. 17 substituted (15.5.2006) by [The Waste Management (England and Wales) Regulations 2006 (S.I. 2006/937)](https://www.legislation.gov.uk/uksi/2006/937), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/937/regulation/1/2), [11(3)(a)](https://www.legislation.gov.uk/uksi/2006/937/regulation/11/3/a)

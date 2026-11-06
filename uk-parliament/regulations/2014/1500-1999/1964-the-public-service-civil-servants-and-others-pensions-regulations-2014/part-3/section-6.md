@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Civil Service Pension Board: establishment[^key-4f0d20d0400919071bf112eff06803b2]
+## 6. Civil Service Pension Board: establishment[^c-4f0d20d0400919071bf112eff06803b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4f0d20d0400919071bf112eff06803b2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/1964/regulation/6) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
+[^c-4f0d20d0400919071bf112eff06803b2]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2014/1964/regulation/6) in force at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/1964/regulation/1/3)
 
 [^f00042]: Footnote: See section 5(8) of the Act for the meaning of “pension board”.

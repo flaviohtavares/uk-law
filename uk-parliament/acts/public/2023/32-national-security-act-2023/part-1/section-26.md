@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Account monitoring orders[^key-784038824bda9be6200ae9369054f8e7][^key-05f5cb4cf6b73684187a14fb4a08eaf1]
+## 26. Account monitoring orders[^c-784038824bda9be6200ae9369054f8e7][^c-05f5cb4cf6b73684187a14fb4a08eaf1]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Schedule 5 makes provision for account monitoring orders.
 
 ## Annotations
 
-[^key-784038824bda9be6200ae9369054f8e7]: Commencement: S. 26 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
+[^c-784038824bda9be6200ae9369054f8e7]: Commencement: S. 26 not in force at Royal Assent, see [s. 100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1)
 
-[^key-05f5cb4cf6b73684187a14fb4a08eaf1]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2023/32/section/26) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-05f5cb4cf6b73684187a14fb4a08eaf1]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2023/32/section/26) in force at 20.12.2023 by [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

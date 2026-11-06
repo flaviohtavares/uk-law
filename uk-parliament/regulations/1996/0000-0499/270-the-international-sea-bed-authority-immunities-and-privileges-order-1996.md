@@ -50,7 +50,7 @@ Now, therefore, Her Majesty, by virtue and in exercise of the powers conferred o
 
 ## PART I — GENERAL
 
-### 1. Citation and Entry into Force[^key-127640813ca57a1acd7b68a97e07460a]
+### 1. Citation and Entry into Force[^c-127640813ca57a1acd7b68a97e07460a]
 
 (1) This Order may be cited as the International Sea-Bed Authority (Immunities and Privileges) Order 1996.
 
@@ -58,7 +58,7 @@ Now, therefore, Her Majesty, by virtue and in exercise of the powers conferred o
 
 (3) Article 13 shall come into force on the date, to be notified in the London, Edinburgh and Belfast Gazettes, on which the Enterprise operates independently of the Secretariat of the Authority.
 
-### 2. Interpretation[^key-bd272e5f8b5fa213bb772c65ca8b4809]
+### 2. Interpretation[^c-bd272e5f8b5fa213bb772c65ca8b4809]
 
 In this Order:
 
@@ -69,29 +69,29 @@ In this Order:
 
 ## PART II — THE AUTHORITY
 
-**3.**[^key-e71373fe4f66c25674265a22cb4c9aed] The Authority is an organisation of which the United Kingdom and other sovereign Powers are members.
+**3.**[^c-e71373fe4f66c25674265a22cb4c9aed] The Authority is an organisation of which the United Kingdom and other sovereign Powers are members.
 
-**4.**[^key-888cefcf578491aa78792a8aa82c301f] The Authority (including the Enterprise) shall have the legal capacities of a body corporate.
+**4.**[^c-888cefcf578491aa78792a8aa82c301f] The Authority (including the Enterprise) shall have the legal capacities of a body corporate.
 
-**5.**[^key-4212a240b31886c763c5ee3305d376e9] The Authority, its property and assets shall enjoy immunity from suit and legal process, except to the extent that the Authority expressly waives this immunity in a particular case.
+**5.**[^c-4212a240b31886c763c5ee3305d376e9] The Authority, its property and assets shall enjoy immunity from suit and legal process, except to the extent that the Authority expressly waives this immunity in a particular case.
 
-**6.**[^key-3a6144364e8d178a660ae2f024b563eb] The Authority shall have the like inviolability in respect of its premises and archives as, in accordance with the 1961 Convention Articles, is accorded in respect of the official premises and archives of a diplomatic mission.
+**6.**[^c-3a6144364e8d178a660ae2f024b563eb] The Authority shall have the like inviolability in respect of its premises and archives as, in accordance with the 1961 Convention Articles, is accorded in respect of the official premises and archives of a diplomatic mission.
 
-**7.**[^key-d6357acbef0f528a7c55f95db0aa6aa4] Within the scope of its official activities, the Authority, its assets and property, its income, and its operations and transactions, authorised by the Convention, shall have exemption from income tax, capital gains tax and corporation tax.
+**7.**[^c-d6357acbef0f528a7c55f95db0aa6aa4] Within the scope of its official activities, the Authority, its assets and property, its income, and its operations and transactions, authorised by the Convention, shall have exemption from income tax, capital gains tax and corporation tax.
 
-**8.**[^key-aa3ece3878988f38ec549f0cc6aaa39e] The Authority shall have the like relief from rates as in accordance with Article 23 of the 1961 Convention Articles is accorded in respect of the premises of a diplomatic mission.
+**8.**[^c-aa3ece3878988f38ec549f0cc6aaa39e] The Authority shall have the like relief from rates as in accordance with Article 23 of the 1961 Convention Articles is accorded in respect of the premises of a diplomatic mission.
 
-**9.**[^key-9b3a6230a8e1d158dff57fba60d8682f] The Authority shall have exemption from customs duties and taxes on the importation of goods for its official use in the United Kingdom.
+**9.**[^c-9b3a6230a8e1d158dff57fba60d8682f] The Authority shall have exemption from customs duties and taxes on the importation of goods for its official use in the United Kingdom.
 
-**10.**[^key-26b7088823a858f2deacb4d93a4632fe] The Authority shall have relief, under arrangements made by the Commissioners of Customs and Excise, by way of refund of customs duty paid on imported hydrocarbon oil (within the meaning of the Hydrocarbon Oil Duties Act 1979[^f00005]) or value added tax paid on the importation of such oil which is bought in the United Kingdom and used for the official purposes of the Authority, such relief to be subject to the compliance with the conditions as may be imposed in accordance with the arrangements.
+**10.**[^c-26b7088823a858f2deacb4d93a4632fe] The Authority shall have relief, under arrangements made by the Commissioners of Customs and Excise, by way of refund of customs duty paid on imported hydrocarbon oil (within the meaning of the Hydrocarbon Oil Duties Act 1979[^f00005]) or value added tax paid on the importation of such oil which is bought in the United Kingdom and used for the official purposes of the Authority, such relief to be subject to the compliance with the conditions as may be imposed in accordance with the arrangements.
 
-**11.**[^key-9225ebbf6b55ee22fd28190b3ef1dbc3] The Authority shall have relief, under arrangements made by the Secretary of State, by way of refund of value added tax paid on the purchase of new motor vehicles of United Kingdom manufacture and of value added tax on the supply of any goods or services which are used for the official purposes of the Authority, such relief to be subject to compliance with the conditions as may be imposed in accordance with the arrangements.
+**11.**[^c-9225ebbf6b55ee22fd28190b3ef1dbc3] The Authority shall have relief, under arrangements made by the Secretary of State, by way of refund of value added tax paid on the purchase of new motor vehicles of United Kingdom manufacture and of value added tax on the supply of any goods or services which are used for the official purposes of the Authority, such relief to be subject to compliance with the conditions as may be imposed in accordance with the arrangements.
 
 ## PART III — THE ENTERPRISE
 
-**12.**[^key-89839cea433109c78a9fbbe2ec3ad018] Artices 5 to 11 of this Order shall not apply to the Enterprise.
+**12.**[^c-89839cea433109c78a9fbbe2ec3ad018] Artices 5 to 11 of this Order shall not apply to the Enterprise.
 
-**13.**[^key-e9d11c93718a4df2fc23e5b8fd51c79d] Except to the extent that the Enterprise shall have waived such immunity, the Enterprise shall have immunity from suit and legal process—
+**13.**[^c-e9d11c93718a4df2fc23e5b8fd51c79d] Except to the extent that the Enterprise shall have waived such immunity, the Enterprise shall have immunity from suit and legal process—
 
 - (a) where the Enterprise has no office in the United Kingdom, has not appointed any agent in the United Kingdom for the purpose of accepting service or notice of process, has not entered into a contract for goods or services in the United Kingdom, has not issued securities in the United Kingdom and has not otherwise engaged in commercial activity in the United Kingdom;
 - (b) in respect of all forms of seizure, attachment or execution before the delivery of final judgment against the Enterprise; and
@@ -99,7 +99,7 @@ In this Order:
 
 ## PART IV — REPRESENTATIVES
 
-**14.**[^key-10be95a06d64a96edcc79d5421dae4ae] (1) Representatives shall enjoy immunity from suit and legal process with respect to acts performed by them in the exercise of their functions, except to the extent that the State which they represent expressly waives this immunity in a particular case.
+**14.**[^c-10be95a06d64a96edcc79d5421dae4ae] (1) Representatives shall enjoy immunity from suit and legal process with respect to acts performed by them in the exercise of their functions, except to the extent that the State which they represent expressly waives this immunity in a particular case.
 
 (2) Part IV of Schedule 1 to the Act shall not operate so as to confer any privilege or immunity on—
 
@@ -110,7 +110,7 @@ In this Order:
 
 ## PART IV — OFFICIALS
 
-**15.**[^key-649e461d0fd9c99ebfd6ee67101db198] (1) The Secretary-General and staff of the Authority shall enjoy immunity from suit and legal process with respect to acts performed by them in the exercise of their functions, except to the extent that the Authority expressly waives this immunity in a particular case.
+**15.**[^c-649e461d0fd9c99ebfd6ee67101db198] (1) The Secretary-General and staff of the Authority shall enjoy immunity from suit and legal process with respect to acts performed by them in the exercise of their functions, except to the extent that the Authority expressly waives this immunity in a particular case.
 
 (2) The Secretary-General and staff of the Authority, who are not British citizens, British Dependent Territories citizens, British Overseas citizens, or British Nationals (Overseas) shall enjoy exemption from income tax in respect of emoluments received by them from the Authority.
 
@@ -120,7 +120,7 @@ In this Order:
 
 ## PART V — EXPERTS PERFORMING MISSIONS
 
-**16.**[^key-8c2339f163c8fb06e77b4618919bb4cc] Experts perfoming missions for the Authority who are not British citizens, British Dependent Territories citizens, British Overseas citizens, or British Nationals (Overseas) shall enjoy exemption from income tax in respect of emoluments received by them from the Authority.
+**16.**[^c-8c2339f163c8fb06e77b4618919bb4cc] Experts perfoming missions for the Authority who are not British citizens, British Dependent Territories citizens, British Overseas citizens, or British Nationals (Overseas) shall enjoy exemption from income tax in respect of emoluments received by them from the Authority.
 
 N. H. Nicholls
 
@@ -136,40 +136,40 @@ This Order confers privileges and immunities on the International Sea-Bed Author
 
 [^f00002]: Footnote: As amended by section 1 of the International Organisations Act [1981 (c. 9](https://www.legislation.gov.uk/ukpga/1981/9).).
 
-[^key-127640813ca57a1acd7b68a97e07460a]: Commencement: Art. 1 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-127640813ca57a1acd7b68a97e07460a]: Commencement: Art. 1 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
 [^f00003]: Footnote: Cmnd. 8941.
 
-[^key-bd272e5f8b5fa213bb772c65ca8b4809]: Commencement: Art. 2 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-bd272e5f8b5fa213bb772c65ca8b4809]: Commencement: Art. 2 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
 [^f00004]: Footnote: [1964 c. 81](https://www.legislation.gov.uk/ukpga/1964/81).
 
-[^key-e71373fe4f66c25674265a22cb4c9aed]: Commencement: Art. 3 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-e71373fe4f66c25674265a22cb4c9aed]: Commencement: Art. 3 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
-[^key-888cefcf578491aa78792a8aa82c301f]: Commencement: Art. 4 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-888cefcf578491aa78792a8aa82c301f]: Commencement: Art. 4 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
-[^key-4212a240b31886c763c5ee3305d376e9]: Commencement: Art. 5 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-4212a240b31886c763c5ee3305d376e9]: Commencement: Art. 5 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
-[^key-3a6144364e8d178a660ae2f024b563eb]: Commencement: Art. 6 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-3a6144364e8d178a660ae2f024b563eb]: Commencement: Art. 6 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
-[^key-d6357acbef0f528a7c55f95db0aa6aa4]: Commencement: Art. 7 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-d6357acbef0f528a7c55f95db0aa6aa4]: Commencement: Art. 7 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
-[^key-aa3ece3878988f38ec549f0cc6aaa39e]: Commencement: Art. 8 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-aa3ece3878988f38ec549f0cc6aaa39e]: Commencement: Art. 8 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
-[^key-9b3a6230a8e1d158dff57fba60d8682f]: Commencement: Art. 9 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-9b3a6230a8e1d158dff57fba60d8682f]: Commencement: Art. 9 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
-[^key-26b7088823a858f2deacb4d93a4632fe]: Commencement: Art. 10 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-26b7088823a858f2deacb4d93a4632fe]: Commencement: Art. 10 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
 [^f00005]: Footnote: [1979 c. 5](https://www.legislation.gov.uk/ukpga/1979/5).
 
-[^key-9225ebbf6b55ee22fd28190b3ef1dbc3]: Commencement: Art. 11 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-9225ebbf6b55ee22fd28190b3ef1dbc3]: Commencement: Art. 11 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
-[^key-89839cea433109c78a9fbbe2ec3ad018]: Commencement: Art. 12 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-89839cea433109c78a9fbbe2ec3ad018]: Commencement: Art. 12 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
-[^key-e9d11c93718a4df2fc23e5b8fd51c79d]: Commencement: Art. 13 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-e9d11c93718a4df2fc23e5b8fd51c79d]: Commencement: Art. 13 not in force at made date, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
-[^key-10be95a06d64a96edcc79d5421dae4ae]: Commencement: Art. 14 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-10be95a06d64a96edcc79d5421dae4ae]: Commencement: Art. 14 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
-[^key-649e461d0fd9c99ebfd6ee67101db198]: Commencement: Art. 15 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-649e461d0fd9c99ebfd6ee67101db198]: Commencement: Art. 15 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
 
-[^key-8c2339f163c8fb06e77b4618919bb4cc]: Commencement: Art. 16 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)
+[^c-8c2339f163c8fb06e77b4618919bb4cc]: Commencement: Art. 16 in force at 24.8.1997 as notified in the London Gazette dated 27.8.1997, see [art. 1(2)](https://www.legislation.gov.uk/uksi/1996/270/article/1/2)

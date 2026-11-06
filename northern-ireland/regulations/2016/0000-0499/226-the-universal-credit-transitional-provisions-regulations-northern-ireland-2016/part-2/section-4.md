@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 4. Exclusion of claims for certain existing benefits[^key-d385543dad1c67de4279caf5b640d7f7]
+## 4. Exclusion of claims for certain existing benefits[^c-d385543dad1c67de4279caf5b640d7f7]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d385543dad1c67de4279caf5b640d7f7]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/226/regulation/4) revoked (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/194/regulation/3)
+[^c-d385543dad1c67de4279caf5b640d7f7]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2016/226/regulation/4) revoked (1.8.2022) by [The Universal Credit (Transitional Provisions) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/194)](https://www.legislation.gov.uk/nisr/2022/194), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2022/194/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2022/194/regulation/3)

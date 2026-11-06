@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Other services treated as general ophthalmic services[^key-97e8e53763c779032697d25722ad8480]
+## 7. Other services treated as general ophthalmic services[^c-97e8e53763c779032697d25722ad8480]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ during the provision of the sight test, the person is shown to meet the eligibil
 
 ## Annotations
 
-[^key-97e8e53763c779032697d25722ad8480]: Commencement: Reg. 7 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-97e8e53763c779032697d25722ad8480]: Commencement: Reg. 7 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00017]: Footnote: [S.I. 1997/818](https://www.legislation.gov.uk/uksi/1997/818), to which there are amendments not relevant to these Regulations.

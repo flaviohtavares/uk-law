@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 614. Change of basis of accounting involving change of value[^key-3e61f05883a415a4f136c6505d09d516]
+## 614. Change of basis of accounting involving change of value[^c-3e61f05883a415a4f136c6505d09d516]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ a credit or debit (as the case may be) of an amount equal to the difference must
 
 ## Annotations
 
-[^key-3e61f05883a415a4f136c6505d09d516]: Textual amendment: S. 614 substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 76](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/76)
+[^c-3e61f05883a415a4f136c6505d09d516]: Textual amendment: S. 614 substituted (with effect in accordance with Sch. 7 Pt. 6 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 7 para. 76](https://www.legislation.gov.uk/ukpga/2015/33/schedule/7/paragraph/76)

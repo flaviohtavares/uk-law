@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Exclusion of proof by the court[^key-4324e71313d53b7f476a76cdbb2950b5]
+## 127. Exclusion of proof by the court[^c-4324e71313d53b7f476a76cdbb2950b5]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4324e71313d53b7f476a76cdbb2950b5]: Commencement: Rule 127 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-4324e71313d53b7f476a76cdbb2950b5]: Commencement: Rule 127 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

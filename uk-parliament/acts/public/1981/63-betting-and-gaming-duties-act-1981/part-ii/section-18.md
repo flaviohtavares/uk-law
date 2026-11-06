@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Accounting period[^key-4c1b508cd4210474f70a76cff1059f26]
+## 18. Accounting period[^c-4c1b508cd4210474f70a76cff1059f26]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4c1b508cd4210474f70a76cff1059f26]: Textual amendment: Ss. 17-20C omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))
+[^c-4c1b508cd4210474f70a76cff1059f26]: Textual amendment: Ss. 17-20C omitted (1.4.2026) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 88(1)(a)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/1/a)[(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/88/3) (with [Sch. 13 para. 21](https://www.legislation.gov.uk/ukpga/2026/11/schedule/13/paragraph/21))

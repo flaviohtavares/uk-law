@@ -32,7 +32,7 @@ summary: ''
 
 Security Industry
 
-The Private Security Industry Act 2001 (Exemption) (Aviation Security) Regulations 2006 (Amendment) Regulations 2009 (revoked)[^key-2273ba474e2293a219524c9ce88104a8]
+The Private Security Industry Act 2001 (Exemption) (Aviation Security) Regulations 2006 (Amendment) Regulations 2009 (revoked)[^c-2273ba474e2293a219524c9ce88104a8]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 1st December 2009
 
-[^key-2273ba474e2293a219524c9ce88104a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2273ba474e2293a219524c9ce88104a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2273ba474e2293a219524c9ce88104a8]
+## 1. Citation and commencement[^c-2273ba474e2293a219524c9ce88104a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Private Security Industry Act 2001 (Exemption) (Aviation Security) Regulations 2006[^key-2273ba474e2293a219524c9ce88104a8]
+## 2. Amendments to the Private Security Industry Act 2001 (Exemption) (Aviation Security) Regulations 2006[^c-2273ba474e2293a219524c9ce88104a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2273ba474e2293a219524c9ce88104a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2273ba474e2293a219524c9ce88104a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-2273ba474e2293a219524c9ce88104a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2273ba474e2293a219524c9ce88104a8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2273ba474e2293a219524c9ce88104a8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2964) revoked (14.1.2011) by [The Private Security Industry Act 2001 (Exemption) (Aviation Security) Regulations 2010 (S.I. 2010/3018)](https://www.legislation.gov.uk/uksi/2010/3018), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3018/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2010/3018/regulation/5/c)
+[^c-2273ba474e2293a219524c9ce88104a8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/2964) revoked (14.1.2011) by [The Private Security Industry Act 2001 (Exemption) (Aviation Security) Regulations 2010 (S.I. 2010/3018)](https://www.legislation.gov.uk/uksi/2010/3018), [regs. 1](https://www.legislation.gov.uk/uksi/2010/3018/regulation/1), [5(c)](https://www.legislation.gov.uk/uksi/2010/3018/regulation/5/c)

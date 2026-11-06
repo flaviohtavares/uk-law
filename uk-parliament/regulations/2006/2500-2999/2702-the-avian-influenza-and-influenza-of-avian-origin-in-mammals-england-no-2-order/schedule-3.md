@@ -54,7 +54,7 @@ This Part applies to the cleansing and disinfecting of infected premises except 
 
 #### 3. Cleansing and disinfection - timing
 
-Cleansing and disinfection must be carried out during and after the killing of poultry , other captive birds or kept mammals[^key-61ec9a0593d28c6db96a04a05e6d63e6] and in accordance with a veterinary inspector's instructions.
+Cleansing and disinfection must be carried out during and after the killing of poultry , other captive birds or kept mammals[^c-61ec9a0593d28c6db96a04a05e6d63e6] and in accordance with a veterinary inspector's instructions.
 
 #### 4. Cleansing and disinfection precautions
 
@@ -76,10 +76,10 @@ Following killing—
   - (i) parts where the poultry or other captive birds were housed;
   - (ii) parts contaminated during the killing of the poultry or other captive birds;
   - (iii) parts contaminated during any post-mortem examination;
-  - (iv)[^key-7d88ddcd24864c9d2b1e760c659dece2] such other parts of the premises as a veterinary inspector directs on the grounds that they might have been contaminated with avian influenza virus.
+  - (iv)[^c-7d88ddcd24864c9d2b1e760c659dece2] such other parts of the premises as a veterinary inspector directs on the grounds that they might have been contaminated with avian influenza virus.
 - (d) any tissue or blood spilled during the killing or any post-mortem must be collected and disposed of with the killed poultry or other captive birds;
 - (e) disinfectant must remain on the surfaces to which it has been applied for at least 24 hours.
-- (f)[^key-836cc0ac78006a34e08e85f666351802] the following parts of the infected premises must have disinfectant applied to them as soon as the killed or slaughtered mammals have been removed—
+- (f)[^c-836cc0ac78006a34e08e85f666351802] the following parts of the infected premises must have disinfectant applied to them as soon as the killed or slaughtered mammals have been removed—
   - (i) parts where the mammals were housed;
   - (ii) parts where the mammals were slaughtered or killed;
   - (iii) parts contaminated during any post-mortem examination of mammals;
@@ -117,8 +117,8 @@ Following preliminary cleansing and disinfection—
 
 ## Annotations
 
-[^key-61ec9a0593d28c6db96a04a05e6d63e6]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2006/2702/schedule/3/paragraph/3) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(42)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/42/a/i)
+[^c-61ec9a0593d28c6db96a04a05e6d63e6]: Textual amendment: Words in [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/2006/2702/schedule/3/paragraph/3) substituted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(42)(a)(i)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/42/a/i)
 
-[^key-7d88ddcd24864c9d2b1e760c659dece2]: Textual amendment: [Sch. 3 para. 5(c)(iv)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/3/paragraph/5/c/iv) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(42)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/42/a/ii/aa)
+[^c-7d88ddcd24864c9d2b1e760c659dece2]: Textual amendment: [Sch. 3 para. 5(c)(iv)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/3/paragraph/5/c/iv) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(42)(a)(ii)(aa)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/42/a/ii/aa)
 
-[^key-836cc0ac78006a34e08e85f666351802]: Textual amendment: [Sch. 3 para. 5(f)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/3/paragraph/5/f) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(42)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/42/a/ii/bb)
+[^c-836cc0ac78006a34e08e85f666351802]: Textual amendment: [Sch. 3 para. 5(f)](https://www.legislation.gov.uk/uksi/2006/2702/schedule/3/paragraph/5/f) inserted (20.12.2023) by [The Exotic Disease (Amendment) (England) Order 2023 (S.I. 2023/1415)](https://www.legislation.gov.uk/uksi/2023/1415), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/1415/article/1/1), [4(42)(a)(ii)(bb)](https://www.legislation.gov.uk/uksi/2023/1415/article/4/42/a/ii/bb)

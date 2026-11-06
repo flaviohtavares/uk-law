@@ -22,10 +22,10 @@ summary: ''
 
 Expenditure is not qualifying expenditure if it is incurred on—
 
-- (a)[^key-3b7dc064c42b369d09707850aea30839] animals or other creatures to which section 30 of ITTOIA 2005 or section 50 of CTA 2009 (animals kept for trade purposes) applies,
+- (a)[^c-3b7dc064c42b369d09707850aea30839] animals or other creatures to which section 30 of ITTOIA 2005 or section 50 of CTA 2009 (animals kept for trade purposes) applies,
 - (b) animals or other creatures to which Chapter 8 of Part 2 of ITTOIA 2005 or Chapter 8 of Part 3 of CTA 2009 (herd basis rules) applies, or
 - (c) shares in animals or creatures such as are mentioned in paragraph (a) or (b).
 
 ## Annotations
 
-[^key-3b7dc064c42b369d09707850aea30839]: Textual amendment: S. 38(a)-(c) substituted for s. 38(a)(b) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 481](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/481) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-3b7dc064c42b369d09707850aea30839]: Textual amendment: S. 38(a)-(c) substituted for s. 38(a)(b) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 481](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/481) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

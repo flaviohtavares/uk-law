@@ -84,15 +84,15 @@ An Act to make provision about the constitution, regulation, financial arrangeme
 
 - [Section 9 — Consequential amendments.](part-i/section-9.md)
 
-### PART 1A — Financial Stability[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+### PART 1A — Financial Stability[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 *Extent: E+W+S+N.I.*
 
-#### Financial stability strategy of the Bank[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+#### Financial stability strategy of the Bank[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 - [Section 9A — Financial stability strategy](part-1a/section-9a.md)
 
-#### Financial Policy Committee of the Bank[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+#### Financial Policy Committee of the Bank[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 - [Section 9B — Financial Policy Committee](part-1a/section-9b.md)
 - [Section 9C — Objectives of the Financial Policy Committee](part-1a/section-9c.md)
@@ -101,7 +101,7 @@ An Act to make provision about the constitution, regulation, financial arrangeme
 - [Section 9F — Other general duties](part-1a/section-9f.md)
 - [Section 9G — Functions of the Financial Policy Committee](part-1a/section-9g.md)
 
-#### Directions by Financial Policy Committee[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+#### Directions by Financial Policy Committee[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 - [Section 9H — Directions to FCA or PRA requiring macro-prudential measures](part-1a/section-9h.md)
 - [Section 9I — Compliance with directions under section 9H](part-1a/section-9i.md)
@@ -111,42 +111,42 @@ An Act to make provision about the constitution, regulation, financial arrangeme
 - [Section 9M — Statements of policy by Financial Policy Committee](part-1a/section-9m.md)
 - [Section 9N — Parliamentary control of orders under section 9L](part-1a/section-9n.md)
 
-#### Recommendations by Financial Policy Committee[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+#### Recommendations by Financial Policy Committee[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 - [Section 9O — Making of recommendations within the Bank](part-1a/section-9o.md)
 - [Section 9P — Recommendations to Treasury](part-1a/section-9p.md)
 - [Section 9Q — Recommendations to FCA and PRA](part-1a/section-9q.md)
 - [Section 9R — Recommendations to other persons](part-1a/section-9r.md)
 
-#### Explanation[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+#### Explanation[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 - [Section 9S — Duty to prepare explanation](part-1a/section-9s.md)
 
-#### Review[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+#### Review[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 - [Section 9T — Duty to review directions and recommendations](part-1a/section-9t.md)
 
-#### Publication of record of meetings[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+#### Publication of record of meetings[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 - [Section 9U — Publication of record of meetings](part-1a/section-9u.md)
 - [Section 9V — Deferred publication](part-1a/section-9v.md)
 
-#### Financial stability reports by Financial Policy Committee[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+#### Financial stability reports by Financial Policy Committee[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 - [Section 9W — Financial stability reports by Financial Policy Committee](part-1a/section-9w.md)
 
-#### Meetings between Governor and Chancellor of the Exchequer[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+#### Meetings between Governor and Chancellor of the Exchequer[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 - [Section 9X — Meetings between Governor and Chancellor of the Exchequer](part-1a/section-9x.md)
 
-#### Power of Bank to require FCA ... to provide information[^key-9edc8998d9c0b7c4f92d78ed8c779b0d][^key-de014a395ac70e5473f68598d40708de]
+#### Power of Bank to require FCA ... to provide information[^c-9edc8998d9c0b7c4f92d78ed8c779b0d][^c-de014a395ac70e5473f68598d40708de]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 9Y — Directions requiring information or documents](part-1a/section-9y.md)
 - [Section 9Z — Further provisions about directions under section 9Y](part-1a/section-9z.md)
 
-#### Supplementary[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]
+#### Supplementary[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]
 
 - [Section 9ZA — Interpretation of Part 1A](part-1a/section-9za.md)
 
@@ -190,7 +190,7 @@ An Act to make provision about the constitution, regulation, financial arrangeme
 - [Section 22 — Supplementary provisions.](part-iii/section-22.md)
 - [Section 23 — Consequential amendments.](part-iii/section-23.md)
 
-#### ...[^key-e102c9c4b77ad650f751abdac3cfc0c4]
+#### ...[^c-e102c9c4b77ad650f751abdac3cfc0c4]
 
 - [Section 24 — Status.](part-iii/section-24.md)
 - [Section 25 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-iii/section-25.md)
@@ -208,13 +208,13 @@ An Act to make provision about the constitution, regulation, financial arrangeme
 
 - [Section 30 — Interpretation of Part III.](part-iii/section-30.md)
 
-### PART 3A — Prudential regulation[^key-f3da190dc0f437f0cf78a8dfd03369e8]
+### PART 3A — Prudential regulation[^c-f3da190dc0f437f0cf78a8dfd03369e8]
 
 - [Section 30A — Prudential Regulation Committee](part-3a/section-30a.md)
 - [Section 30B — Recommendations by Treasury](part-3a/section-30b.md)
 - [Section 30C — Operational independence](part-3a/section-30c.md)
 
-### PART 3B — Central counterparties and central securities depositories[^key-6c07c234324ec9540e92ccb602873e99]
+### PART 3B — Central counterparties and central securities depositories[^c-6c07c234324ec9540e92ccb602873e99]
 
 - [Section 30D — Exercise of functions relating to CCPs and CSDs](part-3b/section-30d.md)
 - [Section 30E — Regulatory principles](part-3b/section-30e.md)
@@ -271,14 +271,14 @@ SCHEDULES
 
 [^c1119760]: Extent: Act's amending, repealing and revoking provisions are coextensive with the enactments they affect: see [s. 44(3)](https://www.legislation.gov.uk/ukpga/1998/11/section/44/3).
 
-[^key-9edc8998d9c0b7c4f92d78ed8c779b0d]: Textual amendment: Pt. 1A inserted (24.1.2013 for the insertion of ss. 9I(2), 9L, 9N for specified purposes and for the insertion of s. 9ZA, 19.2.2013 for the insertion of s. 9B for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), 4; S.I. 2013/423, art. 3, Sch.
+[^c-9edc8998d9c0b7c4f92d78ed8c779b0d]: Textual amendment: Pt. 1A inserted (24.1.2013 for the insertion of ss. 9I(2), 9L, 9N for specified purposes and for the insertion of s. 9ZA, 19.2.2013 for the insertion of s. 9B for specified purposes, 1.4.2013 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2012/21/section/4/1), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/b)[(c)(2)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/c), [Sch. Pts. 2](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/2), [3](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/3), 4; S.I. 2013/423, art. 3, Sch.
 
-[^key-de014a395ac70e5473f68598d40708de]: Textual amendment: Words in s. 9Y cross-heading omitted (1.3.2017) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/13/5) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)
+[^c-de014a395ac70e5473f68598d40708de]: Textual amendment: Words in s. 9Y cross-heading omitted (1.3.2017) by virtue of [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [s. 41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3), [Sch. 2 para. 13(5)](https://www.legislation.gov.uk/ukpga/2016/14/schedule/2/paragraph/13/5) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/g)
 
 [^M_F_2ea09f60-21b7-4ace-d59e-5a8507e2b6fc]: Textual amendment: S. 21 cross-heading omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 85(3)(a)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/85/3/c) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-e102c9c4b77ad650f751abdac3cfc0c4]: Textual amendment: S. 24 and cross-heading omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 85(3)(c)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/85/3/c) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-e102c9c4b77ad650f751abdac3cfc0c4]: Textual amendment: S. 24 and cross-heading omitted (1.4.2013) by virtue of [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 18 para. 85(3)(c)](https://www.legislation.gov.uk/ukpga/2012/21/schedule/18/paragraph/85/3/c) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-f3da190dc0f437f0cf78a8dfd03369e8]: Textual amendment: Pt. 3A inserted (1.3.2017) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/13/2), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/d)
+[^c-f3da190dc0f437f0cf78a8dfd03369e8]: Textual amendment: Pt. 3A inserted (1.3.2017) by [Bank of England and Financial Services Act 2016 (c. 14)](https://www.legislation.gov.uk/ukpga/2016/14), [ss. 13(2)](https://www.legislation.gov.uk/ukpga/2016/14/section/13/2), [41(3)](https://www.legislation.gov.uk/ukpga/2016/14/section/41/3) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2016/14/schedule/3)); [S.I. 2017/43](https://www.legislation.gov.uk/uksi/2017/43), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2017/43/regulation/2/d)
 
-[^key-6c07c234324ec9540e92ccb602873e99]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/1998/11/part/3B) inserted (1.1.2024 at 1.00 a.m. for the insertion of ss. 30E(1)(c), 30I(2) for specified purposes, 1.1.2025 for the insertion of s. 30E(1)(c) for specified purposes, 1.2.2025 for the insertion of s. 30I(2) so far as not already on force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 48](https://www.legislation.gov.uk/ukpga/2023/29/section/48), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [regs. 10(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/d), [12(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/12/b), [13](https://www.legislation.gov.uk/uksi/2023/1382/regulation/13) (with [reg. 16(1)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/16/1))
+[^c-6c07c234324ec9540e92ccb602873e99]: Textual amendment: [Pt. 3B](https://www.legislation.gov.uk/ukpga/1998/11/part/3B) inserted (1.1.2024 at 1.00 a.m. for the insertion of ss. 30E(1)(c), 30I(2) for specified purposes, 1.1.2025 for the insertion of s. 30E(1)(c) for specified purposes, 1.2.2025 for the insertion of s. 30I(2) so far as not already on force) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 48](https://www.legislation.gov.uk/ukpga/2023/29/section/48), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [regs. 10(d)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/10/d), [12(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/12/b), [13](https://www.legislation.gov.uk/uksi/2023/1382/regulation/13) (with [reg. 16(1)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/16/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Interpretation[^key-8a1345ee94e0bfa8a8b66241c4218ac2]
+## 187. Interpretation[^c-8a1345ee94e0bfa8a8b66241c4218ac2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 2(1) of the Insurance Companies (Overseas Life Assurance Business)
 
 ## Annotations
 
-[^key-8a1345ee94e0bfa8a8b66241c4218ac2]: Commencement: Art. 187 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-8a1345ee94e0bfa8a8b66241c4218ac2]: Commencement: Art. 187 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 109. Offences by bodies corporate.[^key-b0bf0e3286eb8c2b83da859b640332be]
+## 109. Offences by bodies corporate.[^c-b0bf0e3286eb8c2b83da859b640332be]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ Section 20(2) and (3) of the [^c14898201]Interpretation Act (Northern Ireland) 1
 
 ## Annotations
 
-[^key-b0bf0e3286eb8c2b83da859b640332be]: Modification: S. 109 applied (with modifications) (27.11.2006) by [The Healthy Start Scheme and Day Care Food Scheme Regulations (Northern Ireland) 2006 (S.R. 2006/478)](https://www.legislation.gov.uk/nisr/2006/478), [reg. 1](https://www.legislation.gov.uk/nisr/2006/478/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2006/478/schedule/5)
+[^c-b0bf0e3286eb8c2b83da859b640332be]: Modification: S. 109 applied (with modifications) (27.11.2006) by [The Healthy Start Scheme and Day Care Food Scheme Regulations (Northern Ireland) 2006 (S.R. 2006/478)](https://www.legislation.gov.uk/nisr/2006/478), [reg. 1](https://www.legislation.gov.uk/nisr/2006/478/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2006/478/schedule/5)
 
 [^c14898201]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33).

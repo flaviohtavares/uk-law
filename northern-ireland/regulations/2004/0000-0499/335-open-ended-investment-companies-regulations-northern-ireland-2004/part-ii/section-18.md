@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 18. Registrar’s approval of names[^key-c8395fce64e5ec42c281739a27c96d0c]
+## 18. Registrar’s approval of names[^c-c8395fce64e5ec42c281739a27c96d0c]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8395fce64e5ec42c281739a27c96d0c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2004/335/regulation/18) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-c8395fce64e5ec42c281739a27c96d0c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2004/335/regulation/18) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 202. Introductory[^key-8363e81a531a279df7c42eeaa8bf78c5]
+## 202. Introductory[^c-8363e81a531a279df7c42eeaa8bf78c5]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part of the Rules has effect for their interpretation and application; and 
 
 ## Annotations
 
-[^key-8363e81a531a279df7c42eeaa8bf78c5]: Commencement: [Rule 202](https://www.legislation.gov.uk/uksi/2013/3208/rule/202) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-8363e81a531a279df7c42eeaa8bf78c5]: Commencement: [Rule 202](https://www.legislation.gov.uk/uksi/2013/3208/rule/202) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

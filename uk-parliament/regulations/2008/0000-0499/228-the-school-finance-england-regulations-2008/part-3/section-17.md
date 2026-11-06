@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Special arrangements for pupils in maintained nursery schools and nursery classes[^key-6c3e2747df5fdade64e877a6ae81e348]
+## 17. Special arrangements for pupils in maintained nursery schools and nursery classes[^c-6c3e2747df5fdade64e877a6ae81e348]
 
 *Extent: E+W*
 
@@ -56,4 +56,4 @@ except where paragraph (4) applies, and except in the circumstances referred to 
 
 ## Annotations
 
-[^key-6c3e2747df5fdade64e877a6ae81e348]: Commencement: Reg. 17 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)
+[^c-6c3e2747df5fdade64e877a6ae81e348]: Commencement: Reg. 17 in force at 29.2.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/228/regulation/1/1)

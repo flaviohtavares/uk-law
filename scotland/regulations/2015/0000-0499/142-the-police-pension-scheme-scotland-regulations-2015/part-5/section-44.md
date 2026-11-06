@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Closure and adjustment of pension accounts on transfer out[^key-460a7c33be658d769596ae0d76c53cca]
+## 44. Closure and adjustment of pension accounts on transfer out[^c-460a7c33be658d769596ae0d76c53cca]
 
 *Extent: S*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-460a7c33be658d769596ae0d76c53cca]: Commencement: Reg. 44 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-460a7c33be658d769596ae0d76c53cca]: Commencement: Reg. 44 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00039]: Footnote: Regulation 167 provides for extinguishment of rights following the refund of all members’ contributions and payments for added pension made by the member. Regulation 176 provides for extinguishment of rights following the making of a transfer value payment.

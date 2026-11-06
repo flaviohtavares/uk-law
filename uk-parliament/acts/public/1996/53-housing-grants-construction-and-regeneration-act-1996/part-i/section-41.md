@@ -23,7 +23,7 @@ summary: ''
 (1) This section applies where an application for a [^c17539611]. . . grant has been approved and before the certified date—
 
 - (a) the works cease to be necessary or appropriate to meet the needs of the disabled occupant, or
-- (b) the disabled occupant ceases to occupy the dwelling , qualifying houseboat,[^c17539631] caravan[^key-f452ede1826542f1eb80bbb1ad0b67eb] or flat concerned or it ceases to be the intention that he should occupy it, or
+- (b) the disabled occupant ceases to occupy the dwelling , qualifying houseboat,[^c17539631] caravan[^c-f452ede1826542f1eb80bbb1ad0b67eb] or flat concerned or it ceases to be the intention that he should occupy it, or
 - (c) the disabled occupant dies.
 
 Where the application related to more than one disabled occupant, this section applies if any of paragraphs (a) to (c) applies in relation to any of them.
@@ -46,4 +46,4 @@ Where the application related to more than one disabled occupant, this section a
 
 [^c17539631]: Textual amendment: Words in s. 41(1)(b) inserted (19.7.2003) by [The Regulatory Reform (Housing Assistance) (England and Wales) Order 2002 (S.I. 2002/1860)](https://www.legislation.gov.uk/uksi/2002/1860), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2002/1860/article/1/3), [11(1)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/1), [Sch. 3 para. 17(b)](https://www.legislation.gov.uk/uksi/2002/1860/schedule/3/paragraph/17/b) (with [art. 11(2)](https://www.legislation.gov.uk/uksi/2002/1860/article/11/2))
 
-[^key-f452ede1826542f1eb80bbb1ad0b67eb]: Textual amendment: Word in [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/1996/53/section/41/1/b) substituted (18.1.2005) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 224(5)(d)](https://www.legislation.gov.uk/ukpga/2004/34/section/224/5/d), [270(3)(a)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/3/a) (with [s. 224(9)](https://www.legislation.gov.uk/ukpga/2004/34/section/224/9))
+[^c-f452ede1826542f1eb80bbb1ad0b67eb]: Textual amendment: Word in [s. 41(1)(b)](https://www.legislation.gov.uk/ukpga/1996/53/section/41/1/b) substituted (18.1.2005) by [Housing Act 2004 (c. 34)](https://www.legislation.gov.uk/ukpga/2004/34), [ss. 224(5)(d)](https://www.legislation.gov.uk/ukpga/2004/34/section/224/5/d), [270(3)(a)](https://www.legislation.gov.uk/ukpga/2004/34/section/270/3/a) (with [s. 224(9)](https://www.legislation.gov.uk/ukpga/2004/34/section/224/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3 — Sewerage licences: authorisations[^key-443527fddd3baf98dc78128df0693562]
+## SCHEDULE 3 — Sewerage licences: authorisations[^c-443527fddd3baf98dc78128df0693562]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ Section 4
 
 ## Annotations
 
-[^key-443527fddd3baf98dc78128df0693562]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2014/21/schedule/3) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/e)
+[^c-443527fddd3baf98dc78128df0693562]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/2014/21/schedule/3) in force at 1.1.2016 by [S.I. 2015/1938](https://www.legislation.gov.uk/uksi/2015/1938), [art. 3(e)](https://www.legislation.gov.uk/uksi/2015/1938/article/3/e)

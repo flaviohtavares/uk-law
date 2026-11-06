@@ -24,7 +24,7 @@ summary: ''
 
 (2) This section does not apply to—
 
-- (a)[^key-f274154f5ddede0e07378497f52cde28] health and social care bodies,
+- (a)[^c-f274154f5ddede0e07378497f52cde28] health and social care bodies,
 - (b) general health care providers,
 - (c) independent providers,
 - (d) the universities referred to in section 18.
@@ -33,4 +33,4 @@ summary: ''
 
 [^c22561821]: Commencement: S. 14 wholly in operation at 1.10.2016; s. 14(1)(2)(a)-(c) in operation at 1.4.2016 see s. 64(1); s. 14(2)(d) in operation at 1.10.2016 see s. 64(3)(a)
 
-[^key-f274154f5ddede0e07378497f52cde28]: Modification: [S. 14(2)(a)](https://www.legislation.gov.uk/nia/2016/4/section/14/2/a) modified (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(c)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/c), [Sch. 2 para. 9(c)](https://www.legislation.gov.uk/nia/2022/3/schedule/2/paragraph/9/c); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/102/article/2/c)
+[^c-f274154f5ddede0e07378497f52cde28]: Modification: [S. 14(2)(a)](https://www.legislation.gov.uk/nia/2016/4/section/14/2/a) modified (1.4.2022) by [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(c)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/c), [Sch. 2 para. 9(c)](https://www.legislation.gov.uk/nia/2022/3/schedule/2/paragraph/9/c); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/102/article/2/c)

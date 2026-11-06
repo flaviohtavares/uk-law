@@ -50,7 +50,7 @@ summary: ''
 (6) Provision made under subsection (1) must include provision requiring a pub-owning business to offer a tied pub tenant a market rent only option—
 
 - (a) in connection with the renewal of any of the pub arrangements;
-- (b) in connection with a rent assessment or assessment of money payable by the tenant in lieu of rent (whether or not it results in a proposal that the rent, or amount of money payable, should increase)[^key-602e4f8f4f0b581f4b89ac2dd159cf29];
+- (b) in connection with a rent assessment or assessment of money payable by the tenant in lieu of rent (whether or not it results in a proposal that the rent, or amount of money payable, should increase)[^c-602e4f8f4f0b581f4b89ac2dd159cf29];
 - (c) in connection with a significant increase in the price at which any product or service which is subject to a product or service tie is supplied to the tied pub tenant where the increase was not reasonably foreseeable—
   - (i) when the tenancy or licence was granted, or
   - (ii) if there has been an assessment of a kind mentioned in paragraph (b), when the last assessment was concluded;
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-602e4f8f4f0b581f4b89ac2dd159cf29]: Textual amendment: Words in [s. 43(6)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/43/6/b) inserted (21.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 39](https://www.legislation.gov.uk/ukpga/2016/12/section/39), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 4(a)](https://www.legislation.gov.uk/uksi/2016/695/article/4/a)
+[^c-602e4f8f4f0b581f4b89ac2dd159cf29]: Textual amendment: Words in [s. 43(6)(b)](https://www.legislation.gov.uk/ukpga/2015/26/section/43/6/b) inserted (21.7.2016) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [ss. 39](https://www.legislation.gov.uk/ukpga/2016/12/section/39), [44(5)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/5); [S.I. 2016/695](https://www.legislation.gov.uk/uksi/2016/695), [art. 4(a)](https://www.legislation.gov.uk/uksi/2016/695/article/4/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Handling of complaints by the appropriate authority[^key-789e8c33679db80f7eec0af5f02a5164]
+## 17. Handling of complaints by the appropriate authority[^c-789e8c33679db80f7eec0af5f02a5164]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-789e8c33679db80f7eec0af5f02a5164]: Commencement: Reg. 17 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-789e8c33679db80f7eec0af5f02a5164]: Commencement: Reg. 17 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

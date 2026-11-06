@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 32C. Fee for relevant permanent site application[^key-818409832dab261966f68144f9387d36][^key-15d4648741df976fd01e718f2983f63d][^key-818409832dab261966f68144f9387d36]
+## 32C. Fee for relevant permanent site application[^c-818409832dab261966f68144f9387d36][^c-15d4648741df976fd01e718f2983f63d][^c-818409832dab261966f68144f9387d36]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-818409832dab261966f68144f9387d36]: Modification: Pt. 1A excluded (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 83(3)](https://www.legislation.gov.uk/asp/2014/14/section/83/3), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-818409832dab261966f68144f9387d36]: Modification: Pt. 1A excluded (S.) (1.5.2017) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 83(3)](https://www.legislation.gov.uk/asp/2014/14/section/83/3), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
 
-[^key-15d4648741df976fd01e718f2983f63d]: Textual amendment: Ss. 32B, 32C and cross-heading inserted (20.11.2014 for specified purposes, 1.5.2017 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 64](https://www.legislation.gov.uk/asp/2014/14/section/64), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)
+[^c-15d4648741df976fd01e718f2983f63d]: Textual amendment: Ss. 32B, 32C and cross-heading inserted (20.11.2014 for specified purposes, 1.5.2017 in so far as not already in force) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 64](https://www.legislation.gov.uk/asp/2014/14/section/64), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2014/264](https://www.legislation.gov.uk/ssi/2014/264), [art. 2](https://www.legislation.gov.uk/ssi/2014/264/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/264/schedule); [S.S.I. 2016/412](https://www.legislation.gov.uk/ssi/2016/412), [art. 2](https://www.legislation.gov.uk/ssi/2016/412/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/412/schedule)

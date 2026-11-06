@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 52. Enforcement[^key-d623fe12afc934ee7a599ee87c969e55]
+## 52. Enforcement[^c-d623fe12afc934ee7a599ee87c969e55]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d623fe12afc934ee7a599ee87c969e55]: Commencement: Reg. 52 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)
+[^c-d623fe12afc934ee7a599ee87c969e55]: Commencement: Reg. 52 in force at 8.12.2016, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1107/regulation/1/1)

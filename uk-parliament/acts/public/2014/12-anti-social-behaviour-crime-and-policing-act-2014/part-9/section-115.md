@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Use of premises for child sex offences[^key-3354a1c1a3720ffb701ee91a930716e1]
+## 115. Use of premises for child sex offences[^c-3354a1c1a3720ffb701ee91a930716e1]
 
 *Extent: E+W+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3354a1c1a3720ffb701ee91a930716e1]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2014/12/section/115) in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/373/article/2/c)
+[^c-3354a1c1a3720ffb701ee91a930716e1]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2014/12/section/115) in force at 8.3.2015 by [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/373/article/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22.6. Representations in response[^key-555595cc8efd227c5a9ff24a26376d6b]
+## 22.6. Representations in response[^c-555595cc8efd227c5a9ff24a26376d6b]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-555595cc8efd227c5a9ff24a26376d6b]: Commencement: [Rule 22.6](https://www.legislation.gov.uk/uksi/2025/909/rule/22.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-555595cc8efd227c5a9ff24a26376d6b]: Commencement: [Rule 22.6](https://www.legislation.gov.uk/uksi/2025/909/rule/22.6) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

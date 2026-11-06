@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Offences made and declared by and under this Act.[^key-13e98f70a8edea242bf86357c5b5828e]
+## 72. Offences made and declared by and under this Act.[^c-13e98f70a8edea242bf86357c5b5828e]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ A person is guilty of an offence against this Act who, without lawful authority 
 
 ## Annotations
 
-[^key-13e98f70a8edea242bf86357c5b5828e]: Modification: S. 72 applied (S.) (25.1.2007) by [Welfare of Animals (Transport) (Scotland) Regulations 2006 (S.S.I. 2006/606)](https://www.legislation.gov.uk/ssi/2006/606), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2006/606/regulation/1/b), [28(3)](https://www.legislation.gov.uk/ssi/2006/606/regulation/28/3)
+[^c-13e98f70a8edea242bf86357c5b5828e]: Modification: S. 72 applied (S.) (25.1.2007) by [Welfare of Animals (Transport) (Scotland) Regulations 2006 (S.S.I. 2006/606)](https://www.legislation.gov.uk/ssi/2006/606), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2006/606/regulation/1/b), [28(3)](https://www.legislation.gov.uk/ssi/2006/606/regulation/28/3)

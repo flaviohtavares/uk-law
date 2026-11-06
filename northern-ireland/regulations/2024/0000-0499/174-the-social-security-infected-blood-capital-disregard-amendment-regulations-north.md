@@ -44,13 +44,13 @@ The Department for Communities[^f00001], makes the following Regulations in exer
 
 Regulation 2(1)(d) and (e) is made with the consent of the Department of Finance[^f00007].
 
-## 1. Citation, commencement and interpretation[^key-f150ae2390878d93c1a4abe120d6f6ac]
+## 1. Citation, commencement and interpretation[^c-f150ae2390878d93c1a4abe120d6f6ac]
 
 (1) These Regulations may be cited as the Social Security (Infected Blood Capital Disregard) (Amendment) Regulations (Northern Ireland) 2024 and come into operation on 10th October 2024.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00008] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Disregard for payment from estate[^key-63e53d64cb2a23f2cafc5bde7861be81]
+## 2. Disregard for payment from estate[^c-63e53d64cb2a23f2cafc5bde7861be81]
 
 (1) After each of the following provisions insert the provision in paragraph (2)—
 
@@ -118,11 +118,11 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00007]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I. 1993/1579 (N.I. 8))](https://www.legislation.gov.uk/nisi/1993/1579); see also Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(4) of the Departments Act (Northern Ireland) [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-f150ae2390878d93c1a4abe120d6f6ac]: Commencement: Reg. 1 in operation at 10.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/174/regulation/1/1)
+[^c-f150ae2390878d93c1a4abe120d6f6ac]: Commencement: Reg. 1 in operation at 10.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/174/regulation/1/1)
 
 [^f00008]: Footnote: [1954 c. (N.I.)33](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-63e53d64cb2a23f2cafc5bde7861be81]: Commencement: Reg. 2 in operation at 10.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/174/regulation/1/1)
+[^c-63e53d64cb2a23f2cafc5bde7861be81]: Commencement: Reg. 2 in operation at 10.10.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/174/regulation/1/1)
 
 [^f00009]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); paragraph 22(5A) was inserted by regulation 2 of [S.R. 2023 No. 118](https://www.legislation.gov.uk/nisr/2023/118)
 

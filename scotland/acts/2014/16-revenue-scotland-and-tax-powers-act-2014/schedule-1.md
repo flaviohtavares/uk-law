@@ -24,7 +24,7 @@ summary: ''
 
 ### Membership
 
-**1.**[^key-56eccd70b667434606af9b03d0be8fd1] (1) Revenue Scotland is to consist of no fewer than 5 and no more than 9 members appointed by the Scottish Ministers.
+**1.**[^c-56eccd70b667434606af9b03d0be8fd1] (1) Revenue Scotland is to consist of no fewer than 5 and no more than 9 members appointed by the Scottish Ministers.
 
 (2) Ministers are to appoint one of the members to chair Revenue Scotland (“the Chair”).
 
@@ -38,7 +38,7 @@ summary: ''
 
 ### Disqualification
 
-**2.**[^key-1d7a3a6703b5de013b4b360e39d40441] (1) A person may not be appointed as a member of Revenue Scotland (and may not continue as a member) if that person—
+**2.**[^c-1d7a3a6703b5de013b4b360e39d40441] (1) A person may not be appointed as a member of Revenue Scotland (and may not continue as a member) if that person—
 
 - (a) is (or becomes)—
   - (i) a member of the Scottish Parliament,
@@ -64,7 +64,7 @@ summary: ''
 
 ### Removal of members
 
-**3.**[^key-041520d895ccad723f2eb7733ed1f6fd] The Scottish Ministers may, by giving notice in writing, remove a member if—
+**3.**[^c-041520d895ccad723f2eb7733ed1f6fd] The Scottish Ministers may, by giving notice in writing, remove a member if—
 
 - (a) any of sub-paragraphs (1)(a) to (d) of paragraph 2 apply to the member,
 - (b) the member has been absent from meetings of Revenue Scotland for a period longer than 6 months without permission from Revenue Scotland, or
@@ -72,7 +72,7 @@ summary: ''
 
 ### Remuneration and expenses
 
-**4.**[^key-747ef7d481f932b07ffee92a7ecff846] (1) Revenue Scotland may pay to—
+**4.**[^c-747ef7d481f932b07ffee92a7ecff846] (1) Revenue Scotland may pay to—
 
 - (a) its members, and
 - (b) the members of any committee established by it,
@@ -88,7 +88,7 @@ such sums as it may, with the approval of Ministers, determine by way of reimbur
 
 ### Committees
 
-**5.**[^key-fa83452aafa76af16bf3da9b0833ab34] (1) Revenue Scotland may establish committees for any purpose relating to its functions.
+**5.**[^c-fa83452aafa76af16bf3da9b0833ab34] (1) Revenue Scotland may establish committees for any purpose relating to its functions.
 
 (2) Revenue Scotland may determine the composition of its committees.
 
@@ -96,7 +96,7 @@ such sums as it may, with the approval of Ministers, determine by way of reimbur
 
 ### Procedure
 
-**6.**[^key-563afa6e78e9930f5def6d14e21bf26b] (1) Revenue Scotland may regulate its own procedure (including quorum) and that of any committee.
+**6.**[^c-563afa6e78e9930f5def6d14e21bf26b] (1) Revenue Scotland may regulate its own procedure (including quorum) and that of any committee.
 
 (2) The validity of any proceedings or acts of Revenue Scotland (or of any committee) is not affected by—
 
@@ -106,7 +106,7 @@ such sums as it may, with the approval of Ministers, determine by way of reimbur
 
 ### Internal delegation by Revenue Scotland
 
-**7.**[^key-3d1ae48c86f9cd1cf765617ef4d9724c] (1) Revenue Scotland may authorise—
+**7.**[^c-3d1ae48c86f9cd1cf765617ef4d9724c] (1) Revenue Scotland may authorise—
 
 - (a) a member,
 - (b) a committee, or
@@ -118,7 +118,7 @@ to exercise such of its functions (and to such extent) as it may determine.
 
 ### Chief executive and other staff
 
-**8.**[^key-b21cbbee473d533cbf191f51a440cdb6] (1) Revenue Scotland is to employ a chief executive.
+**8.**[^c-b21cbbee473d533cbf191f51a440cdb6] (1) Revenue Scotland is to employ a chief executive.
 
 (2) The person employed as chief executive may not be a member of Revenue Scotland.
 
@@ -132,27 +132,27 @@ to exercise such of its functions (and to such extent) as it may determine.
 
 ### Powers
 
-**9.**[^key-43f900e0ff942c8f7e3ee38298d67537] In addition to any other powers it has, Revenue Scotland may do anything which it considers—
+**9.**[^c-43f900e0ff942c8f7e3ee38298d67537] In addition to any other powers it has, Revenue Scotland may do anything which it considers—
 
 - (a) necessary or expedient in connection with the exercise of its functions,
 - (b) incidental or conducive to the exercise of those functions.
 
 ## Annotations
 
-[^key-56eccd70b667434606af9b03d0be8fd1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/1) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-56eccd70b667434606af9b03d0be8fd1]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/1) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-1d7a3a6703b5de013b4b360e39d40441]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/2) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-1d7a3a6703b5de013b4b360e39d40441]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/2) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-041520d895ccad723f2eb7733ed1f6fd]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/3) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-041520d895ccad723f2eb7733ed1f6fd]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/3) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-747ef7d481f932b07ffee92a7ecff846]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/4) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-747ef7d481f932b07ffee92a7ecff846]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/4) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-fa83452aafa76af16bf3da9b0833ab34]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/5) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-fa83452aafa76af16bf3da9b0833ab34]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/5) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-563afa6e78e9930f5def6d14e21bf26b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/6) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-563afa6e78e9930f5def6d14e21bf26b]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/6) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-3d1ae48c86f9cd1cf765617ef4d9724c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/7) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-3d1ae48c86f9cd1cf765617ef4d9724c]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/7) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-b21cbbee473d533cbf191f51a440cdb6]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/8) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-b21cbbee473d533cbf191f51a440cdb6]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/8) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
 
-[^key-43f900e0ff942c8f7e3ee38298d67537]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/9) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)
+[^c-43f900e0ff942c8f7e3ee38298d67537]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/asp/2014/16/schedule/1/paragraph/9) in force at 1.1.2015 by [S.S.I. 2014/370](https://www.legislation.gov.uk/ssi/2014/370), [art. 2](https://www.legislation.gov.uk/ssi/2014/370/article/2), [sch.](https://www.legislation.gov.uk/ssi/2014/370/schedule)

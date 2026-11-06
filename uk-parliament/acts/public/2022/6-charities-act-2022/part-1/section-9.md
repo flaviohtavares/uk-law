@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Definition of “permanent endowment”[^key-edafe6b7db5181ba3c95942370f35bed][^key-f1d55a6334de4f2a04b44aa70440aa6c]
+## 9. Definition of “permanent endowment”[^c-edafe6b7db5181ba3c95942370f35bed][^c-f1d55a6334de4f2a04b44aa70440aa6c]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ In section 353 of the Charities Act 2011 (minor definitions), for subsection (3)
 
 ## Annotations
 
-[^key-edafe6b7db5181ba3c95942370f35bed]: Commencement: S. 9 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-edafe6b7db5181ba3c95942370f35bed]: Commencement: S. 9 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-f1d55a6334de4f2a04b44aa70440aa6c]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/6/section/9) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/643/regulation/4), [5](https://www.legislation.gov.uk/uksi/2023/643/regulation/5))
+[^c-f1d55a6334de4f2a04b44aa70440aa6c]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2022/6/section/9) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/1) (with [regs. 4](https://www.legislation.gov.uk/uksi/2023/643/regulation/4), [5](https://www.legislation.gov.uk/uksi/2023/643/regulation/5))

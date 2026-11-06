@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — Mandatory testing after arrival in England[^key-1727cc7e9b7deeb37438179fa5ee3643]
+## SCHEDULE 8 — Mandatory testing after arrival in England[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 *Extent: E+W*
 
@@ -24,66 +24,66 @@ summary: ''
 
 Regulation 6(10)
 
-### 1. Interpretation of this Schedule[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 1. Interpretation of this Schedule[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Requirement to self-isolate on failure to undertake a mandatory test[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 2. Requirement to self-isolate on failure to undertake a mandatory test[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Consequences of test results[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 3. Consequences of test results[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Optional tests[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 4. Optional tests[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Tests other than in accordance with these Regulations[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 5. Tests other than in accordance with these Regulations[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Day 2 tests: general test requirements[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 6. Day 2 tests: general test requirements[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Day 2 tests: private provider requirements[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 7. Day 2 tests: private provider requirements[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7A. Day 2 tests: general requirements for lateral flow device tests[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 7A. Day 2 tests: general requirements for lateral flow device tests[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7B. Day 2 tests: private provider requirements for lateral flow device tests[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 7B. Day 2 tests: private provider requirements for lateral flow device tests[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Day 8 tests: general test requirements[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 8. Day 8 tests: general test requirements[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Day 8 tests: private provider requirements[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 9. Day 8 tests: private provider requirements[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Required circumstances for undertaking a day 2 test or a day 8 test[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 10. Required circumstances for undertaking a day 2 test or a day 8 test[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Notification of test results[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 11. Notification of test results[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11A. Notification of test results: lateral flow device tests[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 11A. Notification of test results: lateral flow device tests[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Charge for day 2 tests and day 8 tests[^key-1727cc7e9b7deeb37438179fa5ee3643]
+### 12. Charge for day 2 tests and day 8 tests[^c-1727cc7e9b7deeb37438179fa5ee3643]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1727cc7e9b7deeb37438179fa5ee3643]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/582) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/317/regulation/2)
+[^c-1727cc7e9b7deeb37438179fa5ee3643]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/582) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel and Operator Liability) (Revocation) (England) Regulations 2022 (S.I. 2022/317)](https://www.legislation.gov.uk/uksi/2022/317), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/317/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/317/regulation/2)

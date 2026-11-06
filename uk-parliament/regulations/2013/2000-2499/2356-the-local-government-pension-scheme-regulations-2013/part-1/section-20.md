@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to regulation 21 (assumed pensionable pay) and regulation 21A (lost pensionable pay)[^key-6cc807fc38b3fc21b6dc7b720b54bb58], an employee's pensionable pay is the total of—
+(1) Subject to regulation 21 (assumed pensionable pay) and regulation 21A (lost pensionable pay)[^c-6cc807fc38b3fc21b6dc7b720b54bb58], an employee's pensionable pay is the total of—
 
 - (a) all the salary, wages, fees and other payments paid to the employee, and
 - (b) any benefit specified in the employee's contract of employment as being a pensionable emolument.
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6cc807fc38b3fc21b6dc7b720b54bb58]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/20/1) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [10](https://www.legislation.gov.uk/uksi/2026/226/regulation/10)
+[^c-6cc807fc38b3fc21b6dc7b720b54bb58]: Textual amendment: Words in [reg. 20(1)](https://www.legislation.gov.uk/uksi/2013/2356/regulation/20/1) inserted (1.4.2026) by [The Local Government Pension Scheme (Miscellaneous Amendments) (Member Benefits) Regulations 2026 (S.I. 2026/226)](https://www.legislation.gov.uk/uksi/2026/226), [regs. 1(2)(d)](https://www.legislation.gov.uk/uksi/2026/226/regulation/1/2/d), [10](https://www.legislation.gov.uk/uksi/2026/226/regulation/10)
 
 [^M_C_ab2683f3-dfe7-412b-8f15-45e1d2797e32]: Modification: Reg. 20(2)(f) restricted (1.4.2014) by [The Local Government Pension Scheme (Transitional Provisions, Savings and Amendment) Regulations 2014 (S.I. 2014/525)](https://www.legislation.gov.uk/uksi/2014/525), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/525/regulation/1/3), [8(2)](https://www.legislation.gov.uk/uksi/2014/525/regulation/8/2)

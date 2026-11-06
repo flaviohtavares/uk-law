@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 187. Amendment of Commission Implementing Decision 2013/327/EU[^key-e555f309333ccb0433d3e2fe8014e3d1][^key-770e90ab9fcfbfedeae50eeb46313640]
+## 187. Amendment of Commission Implementing Decision 2013/327/EU[^c-e555f309333ccb0433d3e2fe8014e3d1][^c-770e90ab9fcfbfedeae50eeb46313640]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Commission Implementing Decision 2013/327/EU authorising the placing on the mark
 
 ## Annotations
 
-[^key-e555f309333ccb0433d3e2fe8014e3d1]: Commencement: Reg. 187 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-e555f309333ccb0433d3e2fe8014e3d1]: Commencement: Reg. 187 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-770e90ab9fcfbfedeae50eeb46313640]: Textual amendment: Reg. 187 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/15)
+[^c-770e90ab9fcfbfedeae50eeb46313640]: Textual amendment: Reg. 187 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [17(15)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/17/15)

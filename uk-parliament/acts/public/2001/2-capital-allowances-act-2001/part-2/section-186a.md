@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186A. Fixtures on which a business premises renovation allowance has been made[^key-6482de3836c355544e9f8d22283b54c0]
+## 186A. Fixtures on which a business premises renovation allowance has been made[^c-6482de3836c355544e9f8d22283b54c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,4 +57,4 @@ R is the qualifying expenditure incurred by the past owner on the Part 3A asset 
 
 ## Annotations
 
-[^key-6482de3836c355544e9f8d22283b54c0]: Textual amendment: S. 186A inserted (with effect in accordance with Sch. 10 para. 12 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/6)
+[^c-6482de3836c355544e9f8d22283b54c0]: Textual amendment: S. 186A inserted (with effect in accordance with Sch. 10 para. 12 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 10 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/10/paragraph/6)

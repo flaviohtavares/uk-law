@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 127A. Determinations under Article 127[^key-d5ffd9e732fe83bbd3293cc3fa33e3a6][^key-5f9d8a402aac0b26d771cbb8a4215488][^key-d5ffd9e732fe83bbd3293cc3fa33e3a6]
+## 127A. Determinations under Article 127[^c-d5ffd9e732fe83bbd3293cc3fa33e3a6][^c-5f9d8a402aac0b26d771cbb8a4215488][^c-d5ffd9e732fe83bbd3293cc3fa33e3a6]
 
 *Extent: N.I.*
 
@@ -50,6 +50,6 @@ This paragraph is subject to Article 156(3) and (4) (treatment of fraud compensa
 
 ## Annotations
 
-[^key-d5ffd9e732fe83bbd3293cc3fa33e3a6]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/2005/255/part/III) amendment to earlier affecting provision S.R. 2005/91 (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/270/regulation/2)
+[^c-d5ffd9e732fe83bbd3293cc3fa33e3a6]: Modification: [Pt. III](https://www.legislation.gov.uk/nisi/2005/255/part/III) amendment to earlier affecting provision S.R. 2005/91 (23.7.2012) by [The Pension Protection Fund (Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/270)](https://www.legislation.gov.uk/nisr/2012/270), [regs. 1](https://www.legislation.gov.uk/nisr/2012/270/regulation/1), [2](https://www.legislation.gov.uk/nisr/2012/270/regulation/2)
 
-[^key-5f9d8a402aac0b26d771cbb8a4215488]: Textual amendment: [Art. 127A](https://www.legislation.gov.uk/nisi/2005/255/article/127A) inserted (2.7.2012 for specified purposes, 23.7.2012 in so far as not already in operation) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 6](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/6); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/3/a/ii)
+[^c-5f9d8a402aac0b26d771cbb8a4215488]: Textual amendment: [Art. 127A](https://www.legislation.gov.uk/nisi/2005/255/article/127A) inserted (2.7.2012 for specified purposes, 23.7.2012 in so far as not already in operation) by [Pensions Act (Northern Ireland) 2012 (c. 3)](https://www.legislation.gov.uk/nia/2012/3), [s. 34(3)](https://www.legislation.gov.uk/nia/2012/3/section/34/3), [Sch. 4 para. 6](https://www.legislation.gov.uk/nia/2012/3/schedule/4/paragraph/6); [S.R. 2012/265](https://www.legislation.gov.uk/nisr/2012/265), [art. 2(3)(a)(ii)](https://www.legislation.gov.uk/nisr/2012/265/article/2/3/a/ii)

@@ -31,7 +31,7 @@ summary: ''
 
 FOOD, WALES
 
-The Meat (Official Controls Charges) (Wales) Regulations 2008 (revoked)[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+The Meat (Official Controls Charges) (Wales) Regulations 2008 (revoked)[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 Made
 
@@ -45,96 +45,96 @@ Coming into force
 
 31 March 2008
 
-[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, application and commencement[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+## 1. Title, application and commencement[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+## 2. Interpretation[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Charges[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+## 3. Charges[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Withdrawal of official controls[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+## 4. Withdrawal of official controls[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Information[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+## 5. Information[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocation[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+## 6. Revocation[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DEFINITIONS OF COMMUNITY LEGISLATION[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+## SCHEDULE 1 — DEFINITIONS OF COMMUNITY LEGISLATION[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 Regulation 2
 
-[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — CALCULATION OF THE OFFICIAL CONTROLS CHARGE[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+## SCHEDULE 2 — CALCULATION OF THE OFFICIAL CONTROLS CHARGE[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 Regulation 2
 
-### 1. The official controls charge[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+### 1. The official controls charge[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. The standard charge[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**4.**[^key-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**5.**[^key-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. The additional charge[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+### 3. The standard charge[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Time costs[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+**5.**[^c-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 6. The additional charge[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 8. Time costs[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
-**11.**[^key-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**11.**[^c-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**12.**[^c-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+**13.**[^c-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: W*
 
-**14.**[^key-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-0b80aa61b8ee0e0f0904f2bc731ab49e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Definitions[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]
+### 15. Definitions[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0b80aa61b8ee0e0f0904f2bc731ab49e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2008/601) revoked (28.9.2009) by [The Meat (Official Controls Charges) (Wales) Regulations 2009 (S.I. 2009/1557)](https://www.legislation.gov.uk/wsi/2009/1557), [reg. 6](https://www.legislation.gov.uk/wsi/2009/1557/regulation/6)
+[^c-0b80aa61b8ee0e0f0904f2bc731ab49e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2008/601) revoked (28.9.2009) by [The Meat (Official Controls Charges) (Wales) Regulations 2009 (S.I. 2009/1557)](https://www.legislation.gov.uk/wsi/2009/1557), [reg. 6](https://www.legislation.gov.uk/wsi/2009/1557/regulation/6)

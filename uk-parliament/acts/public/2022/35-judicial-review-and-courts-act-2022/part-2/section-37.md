@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Exercise of tribunal functions by authorised persons[^key-d3348f72bb267a13450a33057977921c]
+## 37. Exercise of tribunal functions by authorised persons[^c-d3348f72bb267a13450a33057977921c]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3348f72bb267a13450a33057977921c]: Commencement: S. 37 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-d3348f72bb267a13450a33057977921c]: Commencement: S. 37 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

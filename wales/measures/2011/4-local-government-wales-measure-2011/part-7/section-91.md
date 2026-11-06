@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 91. Action following receipt of notice of the convening of a community meeting[^key-a93d43f1d18802fd7607385c8768f9c6]
+## 91. Action following receipt of notice of the convening of a community meeting[^c-a93d43f1d18802fd7607385c8768f9c6]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ After paragraph 30C of Schedule 12 to the Local Government Act 1972 insert the f
 
 ## Annotations
 
-[^key-a93d43f1d18802fd7607385c8768f9c6]: Commencement: [S. 91](https://www.legislation.gov.uk/mwa/2011/4/section/91) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/k)
+[^c-a93d43f1d18802fd7607385c8768f9c6]: Commencement: [S. 91](https://www.legislation.gov.uk/mwa/2011/4/section/91) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(k)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/k)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Investigations by the Commissioner[^key-700fe2472df657f27e42b12f1f895bb1]
+## 5. Investigations by the Commissioner[^c-700fe2472df657f27e42b12f1f895bb1]
 
 *Extent: S*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-700fe2472df657f27e42b12f1f895bb1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/8/section/5) in force at 7.8.2017 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(4)](https://www.legislation.gov.uk/ssi/2016/254/article/3/4) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/254/article/4))
+[^c-700fe2472df657f27e42b12f1f895bb1]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2014/8/section/5) in force at 7.8.2017 by [S.S.I. 2016/254](https://www.legislation.gov.uk/ssi/2016/254), [art. 3(4)](https://www.legislation.gov.uk/ssi/2016/254/article/3/4) (with [art. 4](https://www.legislation.gov.uk/ssi/2016/254/article/4))

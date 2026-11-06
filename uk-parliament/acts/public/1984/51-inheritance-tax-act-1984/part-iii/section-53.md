@@ -44,15 +44,15 @@ and that is the case irrespective of whether the person's beneficial entitlement
 - (a) the settlor’s spouse or civil partner[^c19772811], or
 - (b) where the settlor has died less than two years earlier, the settlor’s widow or widower or surviving civil partner[^c19772831],
 
-becomes beneficially entitled to the settled property and is a long-term UK resident[^key-3a7fbb00790e66ef1efa2a8462cc3f73].
+becomes beneficially entitled to the settled property and is a long-term UK resident[^c-3a7fbb00790e66ef1efa2a8462cc3f73].
 
-(4A)[^key-397d31e92ad5a2fc4eb43eb2516fb020] Tax shall not be chargeable under section 52 above if—
+(4A)[^c-397d31e92ad5a2fc4eb43eb2516fb020] Tax shall not be chargeable under section 52 above if—
 
 - (a) the settled property became comprised in the settlement before 30 October 2024,
 - (b) immediately before 30 October 2024, the settled property was excluded property by virtue of section 48(3) or (3A) (as it had effect at that time),
 - (c) the person whose interest comes to an end became beneficially entitled to the interest before 30 October 2024, and
 - (d) immediately before the person’s interest in possession in it comes to an end, the settled property—
-  - (i) was situated outside the United Kingdom and was not property to which paragraph 2 or 3 of Schedule A1 applied (overseas property with value attributable to UK residential property or UK agricultural property[^key-0c7a6ced19b75a01023c7a726239e6ff]), or
+  - (i) was situated outside the United Kingdom and was not property to which paragraph 2 or 3 of Schedule A1 applied (overseas property with value attributable to UK residential property or UK agricultural property[^c-0c7a6ced19b75a01023c7a726239e6ff]), or
   - (ii) was a holding in an authorised unit trust or a share in an open-ended investment company.
 
 (5) Subsections (3) and (4) above shall not apply in any case where—
@@ -78,11 +78,11 @@ becomes beneficially entitled to the settled property and is a long-term UK resi
 
 [^c19772831]: Textual amendment: Words in [s. 53(4)(b)](https://www.legislation.gov.uk/ukpga/1984/51/section/53/4/b) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/13/2/b)
 
-[^key-3a7fbb00790e66ef1efa2a8462cc3f73]: Textual amendment: Words in [s. 53(4)](https://www.legislation.gov.uk/ukpga/1984/51/section/53/4) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 8(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/8/2), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-3a7fbb00790e66ef1efa2a8462cc3f73]: Textual amendment: Words in [s. 53(4)](https://www.legislation.gov.uk/ukpga/1984/51/section/53/4) substituted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 8(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/8/2), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-397d31e92ad5a2fc4eb43eb2516fb020]: Textual amendment: [S. 53(4A)](https://www.legislation.gov.uk/ukpga/1984/51/section/53/4A) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 8(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/8/3), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
+[^c-397d31e92ad5a2fc4eb43eb2516fb020]: Textual amendment: [S. 53(4A)](https://www.legislation.gov.uk/ukpga/1984/51/section/53/4A) inserted (6.4.2025) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 13 paras. 8(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/8/3), [45(1)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/13/paragraph/45/1)
 
-[^key-0c7a6ced19b75a01023c7a726239e6ff]: Textual amendment: Words in [s. 53(4A)(d)(i)](https://www.legislation.gov.uk/ukpga/1984/51/section/53/4A/d/i) inserted (with effect in accordance with Sch. 12 para. 20 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 19(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/19/3), [20](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/20)
+[^c-0c7a6ced19b75a01023c7a726239e6ff]: Textual amendment: Words in [s. 53(4A)(d)(i)](https://www.legislation.gov.uk/ukpga/1984/51/section/53/4A/d/i) inserted (with effect in accordance with Sch. 12 para. 20 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 12 paras. 19(3)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/19/3), [20](https://www.legislation.gov.uk/ukpga/2026/11/schedule/12/paragraph/20)
 
 [^c19772861]: Textual amendment: Words in [s. 53(5)(a)](https://www.legislation.gov.uk/ukpga/1984/51/section/53/5/a) inserted (5.12.2005) by [The Tax and Civil Partnership Regulations 2005 (S.I. 2005/3229)](https://www.legislation.gov.uk/uksi/2005/3229), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/1/1), [13(3)(a)](https://www.legislation.gov.uk/uksi/2005/3229/regulation/13/3/a)
 

@@ -22,7 +22,7 @@ summary: ''
 
 (1) An application for the renewal of a traditional herbal registration must be made to the licensing authority.
 
-(2) The applicant , where it is applying for renewal of—[^key-7944a2879642913201e502f4e19b400e]
+(2) The applicant , where it is applying for renewal of—[^c-7944a2879642913201e502f4e19b400e]
 
 - (a) a THR(NI)—
   - (i) in accordance with Chapter 4 of Title III of the 2001 Directive, must be established in the European Union;
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7944a2879642913201e502f4e19b400e]: Textual amendment: Reg. 133(2)(a)-(c) substituted for words in reg. 133(2) (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 18](https://www.legislation.gov.uk/uksi/2019/775/regulation/18) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 89](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/89)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7944a2879642913201e502f4e19b400e]: Textual amendment: Reg. 133(2)(a)-(c) substituted for words in reg. 133(2) (31.12.2020) by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 18](https://www.legislation.gov.uk/uksi/2019/775/regulation/18) (as amended by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 89](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/89)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

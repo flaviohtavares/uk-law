@@ -44,19 +44,19 @@ Coming into force in accordance with regulation 1.
 
 The Treasury make the following Regulations in exercise of the powers conferred by sections 132A(1) and (2) and 189(4) and (5) of the Social Security Administration Act 1992[^f00001].
 
-## 1. Citation and commencement[^key-660809be2eaf7e7115f83541687b65bf]
+## 1. Citation and commencement[^c-660809be2eaf7e7115f83541687b65bf]
 
 (1) These Regulations may be cited as the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) Regulations 2017.
 
 (2) Subject to paragraph (3) these Regulations come into force on 21st December 2017.
 
-(3) Regulations 5(b), 10 and 13(2)(c)[^key-73f1380e1f6bc0dcfbee17280f33b5e6] come into force on 6th April 2018.
+(3) Regulations 5(b), 10 and 13(2)(c)[^c-73f1380e1f6bc0dcfbee17280f33b5e6] come into force on 6th April 2018.
 
-## 2. Amendment of the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012[^key-2bc72b10728e4a268cf3ab50ba4a33b4]
+## 2. Amendment of the National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012[^c-2bc72b10728e4a268cf3ab50ba4a33b4]
 
 The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) Regulations 2012[^f00002] are amended as follows.
 
-**3.**[^key-7607c0958205c85266793a61aa5b92ee] In regulation 2 (interpretation) after the definition of “the Descriptions Regulations” insert—
+**3.**[^c-7607c0958205c85266793a61aa5b92ee] In regulation 2 (interpretation) after the definition of “the Descriptions Regulations” insert—
 
 > - “employer” means the secondary contributor determined under—
 >   - (a) section 7 of the Social Security Contributions and Benefits Act 1992[^f00003];
@@ -65,11 +65,11 @@ The National Insurance Contributions (Application of Part 7 of the Finance Act 2
 
 .
 
-**4.**[^key-4ad4aea02739fac2e0585ae03d769075] In regulation 3 (structure of the regulations) in paragraph (1) for “21” substitute “21D”.
+**4.**[^c-4ad4aea02739fac2e0585ae03d769075] In regulation 3 (structure of the regulations) in paragraph (1) for “21” substitute “21D”.
 
-**5.**[^key-828e52fe9a66967a7811f4c51ac39f16][^key-8ea04a2934511d90a20c9dc9f1190aed] In the table at regulation 5(2) (provisions corresponding to Part 7 of the Finance Act 2004)[^f00006]—
+**5.**[^c-828e52fe9a66967a7811f4c51ac39f16][^c-8ea04a2934511d90a20c9dc9f1190aed] In the table at regulation 5(2) (provisions corresponding to Part 7 of the Finance Act 2004)[^f00006]—
 
-- (a)[^key-828e52fe9a66967a7811f4c51ac39f16] after the row relating to section 310B (failure to provide information under section 310A: application to the Tribunal) insert—
+- (a)[^c-828e52fe9a66967a7811f4c51ac39f16] after the row relating to section 310B (failure to provide information under section 310A: application to the Tribunal) insert—
 
   > |  |  |
   > | --- | --- |
@@ -81,7 +81,7 @@ The National Insurance Contributions (Application of Part 7 of the Finance Act 2
   |  |  |
   | --- | --- |
   | “Section 313ZC (duty of employer to notify HMRC of details of employees etc)”; and | Regulation 16B |
-- (c)[^key-828e52fe9a66967a7811f4c51ac39f16] after the row relating to section 316 (information to be provided in form and manner specified by Board) insert—
+- (c)[^c-828e52fe9a66967a7811f4c51ac39f16] after the row relating to section 316 (information to be provided in form and manner specified by Board) insert—
 
   > |  |  |
   > | --- | --- |
@@ -92,7 +92,7 @@ The National Insurance Contributions (Application of Part 7 of the Finance Act 2
 
   .
 
-**6.**[^key-8bbb54ab96bdabfef8cc7da392dbe889] After regulation 11B (failure to provide information under regulation 11A: application to the Tribunal )[^f00007] insert—
+**6.**[^c-8bbb54ab96bdabfef8cc7da392dbe889] After regulation 11B (failure to provide information under regulation 11A: application to the Tribunal )[^f00007] insert—
 
 > **11C. Duty of promoters to provide updated information**
 >
@@ -116,9 +116,9 @@ The National Insurance Contributions (Application of Part 7 of the Finance Act 2
 
 .
 
-**7.**[^key-5b33930c35d481b48ec3ac4448151f69] In regulation 12(1)(a) (arrangements to be given reference number), for “30 days” substitute “90 days”.
+**7.**[^c-5b33930c35d481b48ec3ac4448151f69] In regulation 12(1)(a) (arrangements to be given reference number), for “30 days” substitute “90 days”.
 
-**8.**[^key-dccac105001af33899db6da1482afa98] (1) In regulation 14 (duty of client to notify parties of number) after paragraph (2) insert—
+**8.**[^c-dccac105001af33899db6da1482afa98] (1) In regulation 14 (duty of client to notify parties of number) after paragraph (2) insert—
 
 > (2A) Where the client—
 >
@@ -141,13 +141,13 @@ The National Insurance Contributions (Application of Part 7 of the Finance Act 2
 
 .
 
-**9.**[^key-e318eba28b9027897a9b0ba1ee6fd592] In regulation 15 (duty of parties to notifiable contribution arrangements to notify HMRC of number etc) after paragraph (2) insert—
+**9.**[^c-e318eba28b9027897a9b0ba1ee6fd592] In regulation 15 (duty of parties to notifiable contribution arrangements to notify HMRC of number etc) after paragraph (2) insert—
 
 > (3) The duty under paragraph (1) does not apply in prescribed circumstances.
 
 .
 
-**10.**[^key-0fe0859a24ad52cddaaa087b3729a54e] After regulation 16A (enquiry following disclosure of client details)[^f00008] insert—
+**10.**[^c-0fe0859a24ad52cddaaa087b3729a54e] After regulation 16A (enquiry following disclosure of client details)[^f00008] insert—
 
 > **16B. Duty of employer to notify HMRC of details of employees etc**
 >
@@ -172,7 +172,7 @@ The National Insurance Contributions (Application of Part 7 of the Finance Act 2
 
 .
 
-**11.**[^key-eafb4399b2293e8bf611f06a69158f84] In regulation 19 (information provided to introducers)—
+**11.**[^c-eafb4399b2293e8bf611f06a69158f84] In regulation 19 (information provided to introducers)—
 
 - (a) for the heading substitute “Provision of information to HMRC by introducers”,
 - (b) for paragraph (1) substitute—
@@ -193,7 +193,7 @@ The National Insurance Contributions (Application of Part 7 of the Finance Act 2
   , and
 - (d) in paragraph (3) for “paragraph (1)” substitute “paragraph (1A)”.
 
-**12.**[^key-92f359e621878d55a5260a356bbaefab] (1) In regulation 21 (information to be provided in form and manner specified by HMRC)[^f00009]—
+**12.**[^c-92f359e621878d55a5260a356bbaefab] (1) In regulation 21 (information to be provided in form and manner specified by HMRC)[^f00009]—
 
 - (a) in paragraph (2) after “11A,” insert “11C,”, and
 - (b) for “and 16(3)” insert “, 16(3) and 16B(5)”.
@@ -274,7 +274,7 @@ The National Insurance Contributions (Application of Part 7 of the Finance Act 2
 
 .
 
-**13.**[^key-a135be8c4ed2d8bf64219ee76ce5402f][^key-450169e3045576ed95f47d701ecd6a64] (1) Regulation 22 (notification under Part 2) is amended as follows.
+**13.**[^c-a135be8c4ed2d8bf64219ee76ce5402f][^c-450169e3045576ed95f47d701ecd6a64] (1) Regulation 22 (notification under Part 2) is amended as follows.
 
 (2) In paragraph 2—
 
@@ -309,7 +309,7 @@ The National Insurance Contributions (Application of Part 7 of the Finance Act 2
 - (b) in sub-paragraph (b) for “£500” substitute “£7,500”,
 - (c) in sub-paragraph (c) for “£1000” substitute “£10,000”.
 
-**14.**[^key-325974b9bc9790e5ada1faf2d438db8a] In regulation 26 (the information regulations)—
+**14.**[^c-325974b9bc9790e5ada1faf2d438db8a] In regulation 26 (the information regulations)—
 
 - (a) omit paragraph (6), and
 - (b) in paragraph (8) for the substituted regulation 10(3) substitute—
@@ -374,15 +374,15 @@ A Tax Information and Impact Note covering these Regulations was published on 10
 
 [^f00001]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5); section 132A was inserted by section 7(1) and (2) of the National Insurance Contributions Act [2006 (c. 10)](https://www.legislation.gov.uk/ukpga/2006/10). Section 189(4) was amended by Part 1 of the Schedule to the Public Bodies (Abolition of the Disability Living Allowance Advisory Board) Order 2013 ([S.I. 2013/252](https://www.legislation.gov.uk/uksi/2013/252)). Section 189(4) and (5) was amended by paragraph 109 of Schedule 7 and Schedule 8 to the Social Security Act [1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14) and by [S.I. 2013/252](https://www.legislation.gov.uk/uksi/2013/252).
 
-[^key-660809be2eaf7e7115f83541687b65bf]: Commencement: Reg. 1 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-660809be2eaf7e7115f83541687b65bf]: Commencement: Reg. 1 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
-[^key-73f1380e1f6bc0dcfbee17280f33b5e6]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3) substituted (20.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) (Amendment) Regulations 2017 (S.I. 2017/1308)](https://www.legislation.gov.uk/uksi/2017/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1308/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3)
+[^c-73f1380e1f6bc0dcfbee17280f33b5e6]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3) substituted (20.12.2017) by [The National Insurance Contributions (Application of Part 7 of the Finance Act 2004) (Amendment) (Amendment) Regulations 2017 (S.I. 2017/1308)](https://www.legislation.gov.uk/uksi/2017/1308), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1308/regulation/1), [3](https://www.legislation.gov.uk/uksi/2017/1308/regulation/3)
 
-[^key-2bc72b10728e4a268cf3ab50ba4a33b4]: Commencement: Reg. 2 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-2bc72b10728e4a268cf3ab50ba4a33b4]: Commencement: Reg. 2 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2012/1868](https://www.legislation.gov.uk/uksi/2012/1868).
 
-[^key-7607c0958205c85266793a61aa5b92ee]: Commencement: Reg. 3 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-7607c0958205c85266793a61aa5b92ee]: Commencement: Reg. 3 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
 [^f00003]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -390,44 +390,44 @@ A Tax Information and Impact Note covering these Regulations was published on 10
 
 [^f00005]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).
 
-[^key-4ad4aea02739fac2e0585ae03d769075]: Commencement: Reg. 4 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-4ad4aea02739fac2e0585ae03d769075]: Commencement: Reg. 4 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
-[^key-828e52fe9a66967a7811f4c51ac39f16]: Commencement: Reg. 5(a)(c) in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-828e52fe9a66967a7811f4c51ac39f16]: Commencement: Reg. 5(a)(c) in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
-[^key-8ea04a2934511d90a20c9dc9f1190aed]: Commencement: Reg. 5(b) in force at 6.4.2018, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3)
+[^c-8ea04a2934511d90a20c9dc9f1190aed]: Commencement: Reg. 5(b) in force at 6.4.2018, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3)
 
 [^f00006]: Footnote: The table entries relating to “Section 310A” and “Section 310B” were inserted by [S.I. 2015/531](https://www.legislation.gov.uk/uksi/2015/531) and the table entries relating to “Section 312B” and “Section 313ZB” were inserted by [S.I. 2013/2600](https://www.legislation.gov.uk/uksi/2013/2600).
 
-[^key-8bbb54ab96bdabfef8cc7da392dbe889]: Commencement: Reg. 6 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-8bbb54ab96bdabfef8cc7da392dbe889]: Commencement: Reg. 6 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
 [^f00007]: Footnote: Regulation 11B was inserted by [S.I. 2015/531](https://www.legislation.gov.uk/uksi/2015/531).
 
-[^key-5b33930c35d481b48ec3ac4448151f69]: Commencement: Reg. 7 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-5b33930c35d481b48ec3ac4448151f69]: Commencement: Reg. 7 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
-[^key-dccac105001af33899db6da1482afa98]: Commencement: Reg. 8 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-dccac105001af33899db6da1482afa98]: Commencement: Reg. 8 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
-[^key-e318eba28b9027897a9b0ba1ee6fd592]: Commencement: Reg. 9 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-e318eba28b9027897a9b0ba1ee6fd592]: Commencement: Reg. 9 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
-[^key-0fe0859a24ad52cddaaa087b3729a54e]: Commencement: Reg. 10 in force at 6.4.2018, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3)
+[^c-0fe0859a24ad52cddaaa087b3729a54e]: Commencement: Reg. 10 in force at 6.4.2018, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3)
 
 [^f00008]: Footnote: Regulation 16A was inserted by [S.I. 2013/2600](https://www.legislation.gov.uk/uksi/2013/2600).
 
-[^key-eafb4399b2293e8bf611f06a69158f84]: Commencement: Reg. 11 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-eafb4399b2293e8bf611f06a69158f84]: Commencement: Reg. 11 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
-[^key-92f359e621878d55a5260a356bbaefab]: Commencement: Reg. 12 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-92f359e621878d55a5260a356bbaefab]: Commencement: Reg. 12 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
 [^f00009]: Footnote: Regulation 21 was amended by [S.I. 2015/531](https://www.legislation.gov.uk/uksi/2015/531).
 
 [^f00010]: Footnote: [2014 c. 26](https://www.legislation.gov.uk/ukpga/2014/26). Section 219 was amended by section 157(18) to (20) of the Finance Act [2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24). Section 219 has been applied to “relevant contributions” by paragraph 1 of Part 1 of Schedule 2 to the National Insurance Contributions Act [2015 (c.5)](https://www.legislation.gov.uk/ukpga/2015/5) with the modifications contained in the rest of that part of the Schedule. Paragraph 22 defines “relevant contributions” for the purposes of the application of Part 4 of the Finance Act 2014 to national insurance contributions. Paragraph 16 makes specific modifications to section 219.
 
-[^key-a135be8c4ed2d8bf64219ee76ce5402f]: Commencement: [Reg. 13(a)(b)(d)-(f)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/a/b/d/e/f) in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-a135be8c4ed2d8bf64219ee76ce5402f]: Commencement: [Reg. 13(a)(b)(d)-(f)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/13/a/b/d/e/f) in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
-[^key-450169e3045576ed95f47d701ecd6a64]: Commencement: Reg. 13(c) in force at 6.4.2018, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3)
+[^c-450169e3045576ed95f47d701ecd6a64]: Commencement: Reg. 13(c) in force at 6.4.2018, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/3)
 
 [^f00011]: Footnote: Sub-paragraph (ca) was inserted by [S.I 2015/531](https://www.legislation.gov.uk/uksi/2015/531).
 
 [^f00012]: Footnote: Sub-paragraph (fa) was inserted by [S.I. 2013/2600](https://www.legislation.gov.uk/uksi/2013/2600).
 
-[^key-325974b9bc9790e5ada1faf2d438db8a]: Commencement: Reg. 14 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
+[^c-325974b9bc9790e5ada1faf2d438db8a]: Commencement: Reg. 14 in force at 21.12.2017, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1174/regulation/1/2)
 
 [^f00013]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004).

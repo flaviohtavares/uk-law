@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Notification of vacancies and appointments[^key-0423ac50790e0d07f50ceb47492b3926]
+## 32. Notification of vacancies and appointments[^c-0423ac50790e0d07f50ceb47492b3926]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0423ac50790e0d07f50ceb47492b3926]: Commencement: Reg. 32 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)
+[^c-0423ac50790e0d07f50ceb47492b3926]: Commencement: Reg. 32 in force at 22.5.2014, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2014/1132/regulation/1/1)

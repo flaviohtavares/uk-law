@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 105. Payments to joint claimants[^key-1e64cd951a3d10f47e29b3cda446d774]
+## 105. Payments to joint claimants[^c-1e64cd951a3d10f47e29b3cda446d774]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ In section 5 of the Administration Act (regulations about claims and payments), 
 
 ## Annotations
 
-[^key-1e64cd951a3d10f47e29b3cda446d774]: Commencement: [Art. 105](https://www.legislation.gov.uk/nisi/2015/2006/article/105) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(a)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/a)
+[^c-1e64cd951a3d10f47e29b3cda446d774]: Commencement: [Art. 105](https://www.legislation.gov.uk/nisi/2015/2006/article/105) in operation at 2.5.2016 by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(6)(a)](https://www.legislation.gov.uk/nisr/2016/215/article/2/6/a)

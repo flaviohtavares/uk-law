@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Members affected by court orders to former spouses and civil partners on death[^key-3ba80f711ffe02cc4f016b4a1bdcf253]
+## 115. Members affected by court orders to former spouses and civil partners on death[^c-3ba80f711ffe02cc4f016b4a1bdcf253]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ba80f711ffe02cc4f016b4a1bdcf253]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2015/182/regulation/115) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-3ba80f711ffe02cc4f016b4a1bdcf253]: Commencement: [Reg. 115](https://www.legislation.gov.uk/uksi/2015/182/regulation/115) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

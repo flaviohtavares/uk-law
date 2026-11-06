@@ -34,19 +34,19 @@ summary: ''
 
 ### Schemes of financial assistance
 
-**4.**[^key-b98ea649d8643123014bb4ce7bcd1eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b98ea649d8643123014bb4ce7bcd1eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Levies
 
-**5.**[^key-b98ea649d8643123014bb4ce7bcd1eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b98ea649d8643123014bb4ce7bcd1eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Lending limit
 
-**6.**[^key-b98ea649d8643123014bb4ce7bcd1eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b98ea649d8643123014bb4ce7bcd1eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Accounts
 
-**7.**[^key-b98ea649d8643123014bb4ce7bcd1eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b98ea649d8643123014bb4ce7bcd1eb5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Other statutory functions
 
@@ -71,7 +71,7 @@ are transferred to the Authority, and those enactments are amended as follows,
 
 ## Annotations
 
-[^key-b98ea649d8643123014bb4ce7bcd1eb5]: Textual amendment: [Sch. 3 paras. 4-7](https://www.legislation.gov.uk/ukpga/1981/29/schedule/3/paragraph/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 6
+[^c-b98ea649d8643123014bb4ce7bcd1eb5]: Textual amendment: [Sch. 3 paras. 4-7](https://www.legislation.gov.uk/ukpga/1981/29/schedule/3/paragraph/4) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 5](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/5) Group 6
 
 [^c8103051]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40).
 

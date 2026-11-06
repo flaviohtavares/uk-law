@@ -35,7 +35,7 @@ An Act to authorise the use of resources for the year ending with 31 March 2020;
 
 Whereas the Commons of the United Kingdom in Parliament assembled have resolved to authorise the use of resources and the issue of sums out of the Consolidated Fund towards making good the supply which they have granted to Her Majesty in this Session of Parliament:—
 
-Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-533fb66b7cb440c3d1bf6e1a1758fe27][^key-8c1ebe000ee36837205d09d920c8a857]
+Be it therefore enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-533fb66b7cb440c3d1bf6e1a1758fe27][^c-8c1ebe000ee36837205d09d920c8a857]
 
 ## 1. Main authorisation for use of resources for 2019-20
 
@@ -1074,6 +1074,6 @@ The Local Government Boundary Commission for England The Local Government Bounda
 
 ## Annotations
 
-[^key-533fb66b7cb440c3d1bf6e1a1758fe27]: Modification: Act modified (with effect in accordance with s. 3(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2020 (c. 4)](https://www.legislation.gov.uk/ukpga/2020/4), [s. 3](https://www.legislation.gov.uk/ukpga/2020/4/section/3), [Sch.](https://www.legislation.gov.uk/ukpga/2020/4/schedule)
+[^c-533fb66b7cb440c3d1bf6e1a1758fe27]: Modification: Act modified (with effect in accordance with s. 3(8) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2020 (c. 4)](https://www.legislation.gov.uk/ukpga/2020/4), [s. 3](https://www.legislation.gov.uk/ukpga/2020/4/section/3), [Sch.](https://www.legislation.gov.uk/ukpga/2020/4/schedule)
 
-[^key-8c1ebe000ee36837205d09d920c8a857]: Modification: Act modified (with effect in accordance with s. 5(7) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2021 (c. 6)](https://www.legislation.gov.uk/ukpga/2021/6), [s. 5](https://www.legislation.gov.uk/ukpga/2021/6/section/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2021/6/schedule/2)
+[^c-8c1ebe000ee36837205d09d920c8a857]: Modification: Act modified (with effect in accordance with s. 5(7) of the amending Act) by [Supply and Appropriation (Anticipation and Adjustments) Act 2021 (c. 6)](https://www.legislation.gov.uk/ukpga/2021/6), [s. 5](https://www.legislation.gov.uk/ukpga/2021/6/section/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2021/6/schedule/2)

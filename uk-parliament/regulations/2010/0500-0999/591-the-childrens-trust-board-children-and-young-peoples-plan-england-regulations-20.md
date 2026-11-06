@@ -32,7 +32,7 @@ summary: ''
 
 Children And Young Persons, England
 
-The Children’s Trust Board (Children and Young People’s Plan) (England) Regulations 2010 (revoked)[^key-712b1d1bd878649ff3f7a156bb76bc27]
+The Children’s Trust Board (Children and Young People’s Plan) (England) Regulations 2010 (revoked)[^c-712b1d1bd878649ff3f7a156bb76bc27]
 
 Made
 
@@ -46,52 +46,52 @@ Coming into force
 
 1st April 2010
 
-[^key-712b1d1bd878649ff3f7a156bb76bc27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-712b1d1bd878649ff3f7a156bb76bc27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-712b1d1bd878649ff3f7a156bb76bc27]
+## 1. Citation and commencement[^c-712b1d1bd878649ff3f7a156bb76bc27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-712b1d1bd878649ff3f7a156bb76bc27]
+## 2. Interpretation[^c-712b1d1bd878649ff3f7a156bb76bc27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requirement to prepare and publish a plan[^key-712b1d1bd878649ff3f7a156bb76bc27]
+## 3. Requirement to prepare and publish a plan[^c-712b1d1bd878649ff3f7a156bb76bc27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Matters to be dealt with in the plan[^key-712b1d1bd878649ff3f7a156bb76bc27]
+## 4. Matters to be dealt with in the plan[^c-712b1d1bd878649ff3f7a156bb76bc27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Matters to be taken into account[^key-712b1d1bd878649ff3f7a156bb76bc27]
+## 5. Matters to be taken into account[^c-712b1d1bd878649ff3f7a156bb76bc27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Timing and manner of publication of the plan[^key-712b1d1bd878649ff3f7a156bb76bc27]
+## 6. Timing and manner of publication of the plan[^c-712b1d1bd878649ff3f7a156bb76bc27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Consultation during the preparation of the plan[^key-712b1d1bd878649ff3f7a156bb76bc27]
+## 7. Consultation during the preparation of the plan[^c-712b1d1bd878649ff3f7a156bb76bc27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Review of the plan[^key-712b1d1bd878649ff3f7a156bb76bc27]
+## 8. Review of the plan[^c-712b1d1bd878649ff3f7a156bb76bc27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Transitional provision[^key-712b1d1bd878649ff3f7a156bb76bc27]
+## 9. Transitional provision[^c-712b1d1bd878649ff3f7a156bb76bc27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-712b1d1bd878649ff3f7a156bb76bc27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-712b1d1bd878649ff3f7a156bb76bc27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-712b1d1bd878649ff3f7a156bb76bc27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-712b1d1bd878649ff3f7a156bb76bc27]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-712b1d1bd878649ff3f7a156bb76bc27]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/591) revoked (31.10.2010) by [The Children’s Trust Board (Children and Young People’s Plan) (England) (Revocation) Regulations 2010 (S.I. 2010/2129)](https://www.legislation.gov.uk/uksi/2010/2129), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2129/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/2129/regulation/2)
+[^c-712b1d1bd878649ff3f7a156bb76bc27]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/591) revoked (31.10.2010) by [The Children’s Trust Board (Children and Young People’s Plan) (England) (Revocation) Regulations 2010 (S.I. 2010/2129)](https://www.legislation.gov.uk/uksi/2010/2129), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2129/regulation/1), [2](https://www.legislation.gov.uk/uksi/2010/2129/regulation/2)

@@ -31,7 +31,7 @@ summary: ''
 
 Social Security
 
-The Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 2015 (revoked)[^key-df3fab8090e949337e14b1b09ce982f9]
+The Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 2015 (revoked)[^c-df3fab8090e949337e14b1b09ce982f9]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 6th April 2015
 
-[^key-df3fab8090e949337e14b1b09ce982f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df3fab8090e949337e14b1b09ce982f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-df3fab8090e949337e14b1b09ce982f9]
+## 1. Citation and commencement[^c-df3fab8090e949337e14b1b09ce982f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^key-df3fab8090e949337e14b1b09ce982f9]
+## 2. Amendment of the Social Security (Invalid Care Allowance) Regulations[^c-df3fab8090e949337e14b1b09ce982f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-df3fab8090e949337e14b1b09ce982f9]
+## 3. Revocation[^c-df3fab8090e949337e14b1b09ce982f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-df3fab8090e949337e14b1b09ce982f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df3fab8090e949337e14b1b09ce982f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-df3fab8090e949337e14b1b09ce982f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-df3fab8090e949337e14b1b09ce982f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df3fab8090e949337e14b1b09ce982f9]: Textual amendment: Regulations revoked (10.4.2017) by [The Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/67)](https://www.legislation.gov.uk/nisr/2017/67), [regs. 1](https://www.legislation.gov.uk/nisr/2017/67/regulation/1), [3](https://www.legislation.gov.uk/nisr/2017/67/regulation/3)
+[^c-df3fab8090e949337e14b1b09ce982f9]: Textual amendment: Regulations revoked (10.4.2017) by [The Social Security (Invalid Care Allowance) (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/67)](https://www.legislation.gov.uk/nisr/2017/67), [regs. 1](https://www.legislation.gov.uk/nisr/2017/67/regulation/1), [3](https://www.legislation.gov.uk/nisr/2017/67/regulation/3)

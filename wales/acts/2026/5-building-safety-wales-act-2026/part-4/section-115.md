@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Remediation contribution orders[^key-2d5c12218dce86e7cebb1f8059cd4148]
+## 115. Remediation contribution orders[^c-2d5c12218dce86e7cebb1f8059cd4148]
 
 *Extent: E+W*
 
@@ -66,4 +66,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d5c12218dce86e7cebb1f8059cd4148]: Commencement: S. 115 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-2d5c12218dce86e7cebb1f8059cd4148]: Commencement: S. 115 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

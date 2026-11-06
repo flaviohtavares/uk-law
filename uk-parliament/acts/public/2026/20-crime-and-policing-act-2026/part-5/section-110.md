@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Online pornography (age and consent verification): power to make regulations[^key-8bb8fad8ba3e744ea5d28dda588a7044]
+## 110. Online pornography (age and consent verification): power to make regulations[^c-8bb8fad8ba3e744ea5d28dda588a7044]
 
 *Extent: E+W+S+N.I.*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8bb8fad8ba3e744ea5d28dda588a7044]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2026/20/section/110) in force at 29.6.2026, see [s. 255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)
+[^c-8bb8fad8ba3e744ea5d28dda588a7044]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2026/20/section/110) in force at 29.6.2026, see [s. 255(3)(c)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/3/c)

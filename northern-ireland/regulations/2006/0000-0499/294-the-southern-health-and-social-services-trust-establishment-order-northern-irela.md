@@ -43,7 +43,7 @@ The Department of Health, Social Services and Public Safety[^f00001] makes the f
 
 In accordance with Article 10(2) of that Order it has consulted with Health and Social Services Councils and such other persons and bodies as the Department considered appropriate.
 
-## 1. Citation, commencement and interpretation[^key-d34e42f187a28473fb8533fed8da4146]
+## 1. Citation, commencement and interpretation[^c-d34e42f187a28473fb8533fed8da4146]
 
 (1) This Order may be cited as the Southern Health and Social Services Trust (Establishment) Order (Northern Ireland) 2006 and shall come into operation on 1st August 2006.
 
@@ -55,42 +55,42 @@ In accordance with Article 10(2) of that Order it has consulted with Health and 
 - “relevant functions” has the meaning assigned to it by Article 3(2) of the Health and Personal Social Services (Northern Ireland) Order 1994[^f00003]; and
 - “the trust” means the Southern Health and Social Services Trust established by Article 2.
 
-## 2. Establishment of the trust[^key-6fe81fb332604e143a86ffbfa2ea64c7]
+## 2. Establishment of the trust[^c-6fe81fb332604e143a86ffbfa2ea64c7]
 
 There is established an HSS trust which shall be called the Southern Health and Social Services Trust.
 
-## 3. Nature and functions of the trust[^key-0eb7c893dad42d661515fba52f72c446]
+## 3. Nature and functions of the trust[^c-0eb7c893dad42d661515fba52f72c446]
 
 (1) The trust is established for the purposes specified in Article 10(1) of the Order.
 
-(2)[^key-1c1433d16488c414fab70703884bb158] The trust’s functions shall be—
+(2)[^c-1c1433d16488c414fab70703884bb158] The trust’s functions shall be—
 
 - (a) to provide goods and services for the purposes of the health and personal social services; and
 - (b) to exercise on behalf of Health and Social Services Boards, such relevant functions as are so exercisable by the trust by virtue of authorisations for the time being in operation under Article 3(1) of the Health and Personal Social Services (Northern Ireland) Order 1994.
 
-## 4. Operational area of the trust[^key-84714025656872de107e368cde06d1a5]
+## 4. Operational area of the trust[^c-84714025656872de107e368cde06d1a5]
 
 The operational area of the trust shall be—
 
 - (a) for the purposes of the statutory provisions specified in Part I of the Schedule, the local government districts of Armagh, Banbridge, Craigavon, Dungannon and Newry and Mourne;
 - (b) for the purposes of the statutory provisions specified in Part II of the Schedule, Northern Ireland.
 
-## 5. Directors of the trust[^key-82668014f94f70bc7b3cb2fb621488f7]
+## 5. Directors of the trust[^c-82668014f94f70bc7b3cb2fb621488f7]
 
 The trust shall have, in addition to the chairman, 7 non-executive directors and 5 executive directors.
 
-## 6. Operational date of the trust[^key-d09c90ff425eaa889825a9fa98587030]
+## 6. Operational date of the trust[^c-d09c90ff425eaa889825a9fa98587030]
 
 The operational date of the trust shall be 1st April 2007.
 
-## 7. Limited functions before operational date[^key-9366d4978e8a88184d0aafc617b2a54a]
+## 7. Limited functions before operational date[^c-9366d4978e8a88184d0aafc617b2a54a]
 
 Between its establishment date and operational date, the trust shall have the functions of doing such things as are reasonably necessary for the purpose of enabling it to begin to operate satisfactorily with effect from the operational date including—
 
 - (a) of entering into HSS contracts; and
 - (b) of entering into other contracts including contracts of employment.
 
-## 8. Assistance by a relevant body before operational date[^key-80b0982532f078a54bc2218f40240e7b]
+## 8. Assistance by a relevant body before operational date[^c-80b0982532f078a54bc2218f40240e7b]
 
 (1) The Agency shall discharge the liabilities of the trust, reasonably incurred between the establishment date and the operational date, that are of a description specified in paragraph (2).
 
@@ -112,7 +112,7 @@ Department of Health, Social Services and Public Safety
 
 Article 4
 
-### PART 1[^key-ac293b299fbf8f5307ac970838efb6c3]
+### PART 1[^c-ac293b299fbf8f5307ac970838efb6c3]
 
 <table>
 <thead>
@@ -142,7 +142,7 @@ Article 4
 
 [^f01000][^f01001][^f01002][^f01003][^f01004][^f01005][^f01006][^f01007]
 
-### PART II[^key-38521c645aa6ae9d6060171a55b6356d]
+### PART II[^c-38521c645aa6ae9d6060171a55b6356d]
 
 | Statutory Provision | Relevant Function |
 | --- | --- |
@@ -166,29 +166,29 @@ The Order also specifies the operational date of the trust (Article 6) and speci
 
 [^f00002]: Footnote: [S.I. 1991/194 (N.I. 1)](https://www.legislation.gov.uk/nisi/1991/194); Article 10 and Schedule 3 were amended by [S.I. 1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429) and [2001c3 (N.I.)](https://www.legislation.gov.uk/nia/2001/3)
 
-[^key-d34e42f187a28473fb8533fed8da4146]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2006/294/article/1) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
+[^c-d34e42f187a28473fb8533fed8da4146]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2006/294/article/1) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
 
 [^f00003]: Footnote: S.I. [1994/429 (N.I. 2)](https://www.legislation.gov.uk/nisi/1994/429); the relevant functions are specified in [S.R. 1994 No. 64](https://www.legislation.gov.uk/nisr/1994/64) as amended by [S.R. 1996 No. 439](https://www.legislation.gov.uk/nisr/1996/439) and [S.R. 2003 No. 200](https://www.legislation.gov.uk/nisr/2003/200)
 
-[^key-6fe81fb332604e143a86ffbfa2ea64c7]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2006/294/article/2) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
+[^c-6fe81fb332604e143a86ffbfa2ea64c7]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2006/294/article/2) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
 
-[^key-0eb7c893dad42d661515fba52f72c446]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2006/294/article/3) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
+[^c-0eb7c893dad42d661515fba52f72c446]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2006/294/article/3) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
 
-[^key-1c1433d16488c414fab70703884bb158]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/nisr/2006/294/article/3/2) substituted (24.11.2008) by [The Health and Social Services Trusts (Establishment) (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/426)](https://www.legislation.gov.uk/nisr/2008/426), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/426/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2008/426/article/2/2)
+[^c-1c1433d16488c414fab70703884bb158]: Textual amendment: [Art. 3(2)](https://www.legislation.gov.uk/nisr/2006/294/article/3/2) substituted (24.11.2008) by [The Health and Social Services Trusts (Establishment) (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/426)](https://www.legislation.gov.uk/nisr/2008/426), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/426/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2008/426/article/2/2)
 
-[^key-84714025656872de107e368cde06d1a5]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2006/294/article/4) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
+[^c-84714025656872de107e368cde06d1a5]: Commencement: [Art. 4](https://www.legislation.gov.uk/nisr/2006/294/article/4) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
 
-[^key-82668014f94f70bc7b3cb2fb621488f7]: Textual amendment: Art. 5 substituted for art. 5(1) (1.4.2007) by [The Health and Social Services Trusts (Establishment) (Amendment) Order (Northern Ireland) 2007 (S.R. 2007/269)](https://www.legislation.gov.uk/nisr/2007/269), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2007/269/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2007/269/article/2/2)
+[^c-82668014f94f70bc7b3cb2fb621488f7]: Textual amendment: Art. 5 substituted for art. 5(1) (1.4.2007) by [The Health and Social Services Trusts (Establishment) (Amendment) Order (Northern Ireland) 2007 (S.R. 2007/269)](https://www.legislation.gov.uk/nisr/2007/269), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2007/269/article/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2007/269/article/2/2)
 
-[^key-d09c90ff425eaa889825a9fa98587030]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2006/294/article/6) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
+[^c-d09c90ff425eaa889825a9fa98587030]: Commencement: [Art. 6](https://www.legislation.gov.uk/nisr/2006/294/article/6) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
 
-[^key-9366d4978e8a88184d0aafc617b2a54a]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2006/294/article/7) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
+[^c-9366d4978e8a88184d0aafc617b2a54a]: Commencement: [Art. 7](https://www.legislation.gov.uk/nisr/2006/294/article/7) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
 
-[^key-80b0982532f078a54bc2218f40240e7b]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2006/294/article/8) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
+[^c-80b0982532f078a54bc2218f40240e7b]: Commencement: [Art. 8](https://www.legislation.gov.uk/nisr/2006/294/article/8) in operation at 1.8.2006, see [art. 1(1)](https://www.legislation.gov.uk/nisr/2006/294/article/1/1)
 
-[^key-ac293b299fbf8f5307ac970838efb6c3]: Textual amendment: [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2006/294/schedule/part/I) substituted (24.11.2008) by [The Health and Social Services Trusts (Establishment) (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/426)](https://www.legislation.gov.uk/nisr/2008/426), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/426/article/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/426/article/2/3)
+[^c-ac293b299fbf8f5307ac970838efb6c3]: Textual amendment: [Sch. Pt. I](https://www.legislation.gov.uk/nisr/2006/294/schedule/part/I) substituted (24.11.2008) by [The Health and Social Services Trusts (Establishment) (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/426)](https://www.legislation.gov.uk/nisr/2008/426), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/426/article/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2008/426/article/2/3)
 
-[^f01000]: Footnote: (1)[^key-ac293b299fbf8f5307ac970838efb6c3]
+[^f01000]: Footnote: (1)[^c-ac293b299fbf8f5307ac970838efb6c3]
 
     [1968 c.34 (N.I.)](https://www.legislation.gov.uk/apni/1968/34)
 
@@ -220,4 +220,4 @@ The Order also specifies the operational date of the trust (Article 6) and speci
 
     [2002 c.6 (N.I.)](https://www.legislation.gov.uk/nia/2002/6)
 
-[^key-38521c645aa6ae9d6060171a55b6356d]: Textual amendment: [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2006/294/schedule/part/II) substituted (24.11.2008) by [The Health and Social Services Trusts (Establishment) (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/426)](https://www.legislation.gov.uk/nisr/2008/426), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/426/article/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2008/426/article/2/4)
+[^c-38521c645aa6ae9d6060171a55b6356d]: Textual amendment: [Sch. Pt. II](https://www.legislation.gov.uk/nisr/2006/294/schedule/part/II) substituted (24.11.2008) by [The Health and Social Services Trusts (Establishment) (Amendment) Order (Northern Ireland) 2008 (S.R. 2008/426)](https://www.legislation.gov.uk/nisr/2008/426), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2008/426/article/1/1), [2(4)](https://www.legislation.gov.uk/nisr/2008/426/article/2/4)

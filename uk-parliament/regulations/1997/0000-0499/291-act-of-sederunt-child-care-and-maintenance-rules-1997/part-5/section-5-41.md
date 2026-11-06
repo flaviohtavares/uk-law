@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5.41. Appeal by party against whom enforcement is authorised[^key-ce06776df0dae9b64e3305dcdfd2a717]
+## 5.41. Appeal by party against whom enforcement is authorised[^c-ce06776df0dae9b64e3305dcdfd2a717]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce06776df0dae9b64e3305dcdfd2a717]: Commencement: Rule 5.41 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-ce06776df0dae9b64e3305dcdfd2a717]: Commencement: Rule 5.41 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)

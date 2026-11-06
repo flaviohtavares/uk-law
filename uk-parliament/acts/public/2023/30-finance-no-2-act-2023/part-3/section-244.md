@@ -27,7 +27,7 @@ summary: ''
 
 (2) An indirect ownership interest is to be ignored if—
 
-- (a) it is an indirect ownership interest held by an individual or by[^key-4ac2a0c4817102c89488a432c37fc1e8] an entity that is not a member of B, or
+- (a) it is an indirect ownership interest held by an individual or by[^c-4ac2a0c4817102c89488a432c37fc1e8] an entity that is not a member of B, or
 - (b) it is an indirect ownership interest held by a member of B through another entity that is a member of B.
 
 (3) Where a member of B holds an indirect ownership interest in A solely through an entity, or entities, that are not members of B, the direct ownership interest from which it is derived is to be reduced by the amount of that indirect ownership interest.
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4ac2a0c4817102c89488a432c37fc1e8]: Textual amendment: Words in [s. 244(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/244/2/a) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/4)
+[^c-4ac2a0c4817102c89488a432c37fc1e8]: Textual amendment: Words in [s. 244(2)(a)](https://www.legislation.gov.uk/ukpga/2023/30/section/244/2/a) inserted (22.2.2024 with effect for accounting periods beginning on or after 31.12.2023 in accordance with Sch. 12 para. 1(2) of the amending Act) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 12 para. 56(4)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/12/paragraph/56/4)

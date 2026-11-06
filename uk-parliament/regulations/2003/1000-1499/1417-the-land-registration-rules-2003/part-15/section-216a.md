@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 216A. Interrupted day[^key-d7dad8e47f1b572b29315a69381bad8c]
+## 216A. Interrupted day[^c-d7dad8e47f1b572b29315a69381bad8c]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ to include an additional number of working days equal to the number of interrupt
 
 ## Annotations
 
-[^key-d7dad8e47f1b572b29315a69381bad8c]: Textual amendment: [Rule 216A](https://www.legislation.gov.uk/uksi/2003/1417/rule/216A) inserted (16.4.2020) by [The Land Registration (Amendment) Rules 2020 (S.I. 2020/425)](https://www.legislation.gov.uk/uksi/2020/425), [rules 1](https://www.legislation.gov.uk/uksi/2020/425/rule/1), [5](https://www.legislation.gov.uk/uksi/2020/425/rule/5)
+[^c-d7dad8e47f1b572b29315a69381bad8c]: Textual amendment: [Rule 216A](https://www.legislation.gov.uk/uksi/2003/1417/rule/216A) inserted (16.4.2020) by [The Land Registration (Amendment) Rules 2020 (S.I. 2020/425)](https://www.legislation.gov.uk/uksi/2020/425), [rules 1](https://www.legislation.gov.uk/uksi/2020/425/rule/1), [5](https://www.legislation.gov.uk/uksi/2020/425/rule/5)

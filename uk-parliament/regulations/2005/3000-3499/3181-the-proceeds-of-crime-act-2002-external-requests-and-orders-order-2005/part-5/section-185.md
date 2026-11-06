@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 185. Consequential adjustment of liabilities under pension schemes[^key-7026ee0ea14dbcc351ccdd97ab74e802]
+## 185. Consequential adjustment of liabilities under pension schemes[^c-7026ee0ea14dbcc351ccdd97ab74e802]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7026ee0ea14dbcc351ccdd97ab74e802]: Commencement: [Art. 185](https://www.legislation.gov.uk/uksi/2005/3181/article/185) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-7026ee0ea14dbcc351ccdd97ab74e802]: Commencement: [Art. 185](https://www.legislation.gov.uk/uksi/2005/3181/article/185) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

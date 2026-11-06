@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11C. Higher amount for dwellings occupied periodically: England[^key-29f87de1dd103d19a0b29f118d70af0d]
+## 11C. Higher amount for dwellings occupied periodically: England[^c-29f87de1dd103d19a0b29f118d70af0d]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-29f87de1dd103d19a0b29f118d70af0d]: Textual amendment: [Ss. 11C](https://www.legislation.gov.uk/ukpga/1992/14/section/11C), [11D](https://www.legislation.gov.uk/ukpga/1992/14/section/11D) inserted (26.10.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/80/2), [255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q) (with [ss. 80(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/80/4), [247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-29f87de1dd103d19a0b29f118d70af0d]: Textual amendment: [Ss. 11C](https://www.legislation.gov.uk/ukpga/1992/14/section/11C), [11D](https://www.legislation.gov.uk/ukpga/1992/14/section/11D) inserted (26.10.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/80/2), [255(2)(q)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/q) (with [ss. 80(4)](https://www.legislation.gov.uk/ukpga/2023/55/section/80/4), [247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))

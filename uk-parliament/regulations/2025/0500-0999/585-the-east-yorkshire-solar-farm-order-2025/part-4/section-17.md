@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Not used[^key-8203e37a241811ff3bbef4ddd3141634]
+## 17. Not used[^c-8203e37a241811ff3bbef4ddd3141634]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Not used.
 
 ## Annotations
 
-[^key-8203e37a241811ff3bbef4ddd3141634]: Commencement: Art. 17 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)
+[^c-8203e37a241811ff3bbef4ddd3141634]: Commencement: Art. 17 in force at 31.5.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/585/article/1)

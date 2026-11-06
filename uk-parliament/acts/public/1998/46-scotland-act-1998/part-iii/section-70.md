@@ -40,7 +40,7 @@ summary: ''
 
 (4) Scottish legislation may make further provision for the purpose of ensuring that persons who receive sums derived from the Fund are accountable including, in particular, provision for any person to whom subsection (1)(a) does not apply to be accountable for his expenditure and receipts in respect of functions for which he receives sums derived from the Fund.
 
-(5) Persons (other than the Auditor General for Scotland) charged with the exercise of any function mentioned in subsection (2) or other like function conferred by Scottish legislation shall not, in the exercise of that or any ancillary function, be subject to the direction or control of any member of the Scottish Government[^key-1a6eec0a223077253e974615c6946a62] or of the Parliament.
+(5) Persons (other than the Auditor General for Scotland) charged with the exercise of any function mentioned in subsection (2) or other like function conferred by Scottish legislation shall not, in the exercise of that or any ancillary function, be subject to the direction or control of any member of the Scottish Government[^c-1a6eec0a223077253e974615c6946a62] or of the Parliament.
 
 (6)[^c12394631][^c16149671][^c20286071][^c20293051][^c20335211] Scottish legislation may not require any cross-border public authority to prepare accounts if any other legislation requires—
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
+[^c-1a6eec0a223077253e974615c6946a62]: Textual amendment: Words in Act substituted (3.7.2012) by [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/2/a), [44(5)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/5) (with [s. 12(3)](https://www.legislation.gov.uk/ukpga/2012/11/section/12/3)); [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(f)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/f)
 
 [^c12394631]: Modification: S. 70(6) extended (1.4.2000) by [1999 c. 28](https://www.legislation.gov.uk/ukpga/1999/28), [s. 35(1)(b)](https://www.legislation.gov.uk/ukpga/1999/28/section/35/1/b) (with [s. 38](https://www.legislation.gov.uk/ukpga/1999/28/section/38)); [S.I. 2000/1066](https://www.legislation.gov.uk/uksi/2000/1066), [art. 2](https://www.legislation.gov.uk/uksi/2000/1066/article/2)
 

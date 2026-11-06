@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Trees subject to tree preservation orders[^key-b9a79a0d764a164fd71a2269ae5979f5]
+## 38. Trees subject to tree preservation orders[^c-b9a79a0d764a164fd71a2269ae5979f5]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9a79a0d764a164fd71a2269ae5979f5]: Commencement: Art. 38 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)
+[^c-b9a79a0d764a164fd71a2269ae5979f5]: Commencement: Art. 38 in force at 6.8.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1873/article/1)

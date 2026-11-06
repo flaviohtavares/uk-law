@@ -31,7 +31,7 @@ Animal Health Act 1981
 
 An Act to consolidate the Diseases of Animals Act 1935, the Diseases of Animals Act 1950, the Ponies Act 1969, the Rabies Act 1974, the Diseases of Animals Act 1975, and certain related enactments.
 
-\[11th June 1981\][^c10344241][^c10344251][^c10344261][^key-002744974dd1276d7bd49e6d4c24f5f8][^key-aa398edcb1f572b40493526a609f1047][^key-3405fd52a18c5dd8bdbae41ef08c5635][^key-43fde5b78027aac770f271e1a73c3d37][^key-a35166e744fb0824556c86f987b0725f][^key-d54361d77eaaee84918181f4737e1ab2][^key-e7a199adf2935415f74cba895f4a1b0f][^key-82fbdc5ec4ba103f4642da9fba8ebaeb]
+\[11th June 1981\][^c10344241][^c10344251][^c10344261][^c-002744974dd1276d7bd49e6d4c24f5f8][^c-aa398edcb1f572b40493526a609f1047][^c-3405fd52a18c5dd8bdbae41ef08c5635][^c-43fde5b78027aac770f271e1a73c3d37][^c-a35166e744fb0824556c86f987b0725f][^c-d54361d77eaaee84918181f4737e1ab2][^c-e7a199adf2935415f74cba895f4a1b0f][^c-82fbdc5ec4ba103f4642da9fba8ebaeb]
 
 ## Contents
 
@@ -152,19 +152,19 @@ An Act to consolidate the Diseases of Animals Act 1935, the Diseases of Animals 
 - [Section 36ZA — Seizure of carcases etc.: further provision for Scotland](part-ii/section-36za.md)
 - [Section 36ZB — Compensation for seizure](part-ii/section-36zb.md)
 
-### Part 2A — Scrapie[^key-c9f6f67eea322f655b3aff03bdabe8e8]
+### Part 2A — Scrapie[^c-c9f6f67eea322f655b3aff03bdabe8e8]
 
 *Extent: E+W*
 
 **No longer in force.**
 
-#### Sheep genotypes[^key-c9f6f67eea322f655b3aff03bdabe8e8]
+#### Sheep genotypes[^c-c9f6f67eea322f655b3aff03bdabe8e8]
 
 **No longer in force.**
 
 - [Section 36A — Power of Secretary of State to specify sheep genotypes](part-2a/section-36a.md)
 
-#### Genetically susceptible sheep[^key-c9f6f67eea322f655b3aff03bdabe8e8]
+#### Genetically susceptible sheep[^c-c9f6f67eea322f655b3aff03bdabe8e8]
 
 **No longer in force.**
 
@@ -172,14 +172,14 @@ An Act to consolidate the Diseases of Animals Act 1935, the Diseases of Animals 
 - [Section 36C — Restrictions on breeding from genetically susceptible sheep](part-2a/section-36c.md)
 - [Section 36D — Appeals](part-2a/section-36d.md)
 
-#### Enforcement[^key-c9f6f67eea322f655b3aff03bdabe8e8]
+#### Enforcement[^c-c9f6f67eea322f655b3aff03bdabe8e8]
 
 **No longer in force.**
 
 - [Section 36E — Secretary of State’s powers of enforcement](part-2a/section-36e.md)
 - [Section 36F — Offences](part-2a/section-36f.md)
 
-#### Power of entry[^key-c9f6f67eea322f655b3aff03bdabe8e8]
+#### Power of entry[^c-c9f6f67eea322f655b3aff03bdabe8e8]
 
 **No longer in force.**
 
@@ -188,7 +188,7 @@ An Act to consolidate the Diseases of Animals Act 1935, the Diseases of Animals 
 - [Section 36I — Supplementary](part-2a/section-36i.md)
 - [Section 36J — Offences](part-2a/section-36j.md)
 
-#### General[^key-c9f6f67eea322f655b3aff03bdabe8e8]
+#### General[^c-c9f6f67eea322f655b3aff03bdabe8e8]
 
 **No longer in force.**
 
@@ -196,35 +196,35 @@ An Act to consolidate the Diseases of Animals Act 1935, the Diseases of Animals 
 - [Section 36L — Orders and Regulations](part-2a/section-36l.md)
 - [Section 36M — Interpretation](part-2a/section-36m.md)
 
-### Part 2B — TSE: Scotland[^key-c7c572a5d4dd871dcacbe5fbd47ef548]
+### Part 2B — TSE: Scotland[^c-c7c572a5d4dd871dcacbe5fbd47ef548]
 
 *Extent: S*
 
-#### Livestock genotypes (Extent: S)[^key-c7c572a5d4dd871dcacbe5fbd47ef548]
+#### Livestock genotypes (Extent: S)[^c-c7c572a5d4dd871dcacbe5fbd47ef548]
 
 - [Section 36N — Power to specify livestock genotypes and TSEs](part-2b/section-36n.md)
 - [Section 36O — Ascertaining genotypes and identifying livestock](part-2b/section-36o.md)
 - [Section 36P — Restrictions on breeding](part-2b/section-36p.md)
 - [Section 36Q — Review](part-2b/section-36q.md)
 
-#### Enforcement (Extent: S)[^key-c7c572a5d4dd871dcacbe5fbd47ef548]
+#### Enforcement (Extent: S)[^c-c7c572a5d4dd871dcacbe5fbd47ef548]
 
 - [Section 36R — Scottish Ministers' powers of enforcement](part-2b/section-36r.md)
 - [Section 36S — Offences](part-2b/section-36s.md)
 
-#### Powers of slaughter (Extent: S)[^key-c7c572a5d4dd871dcacbe5fbd47ef548]
+#### Powers of slaughter (Extent: S)[^c-c7c572a5d4dd871dcacbe5fbd47ef548]
 
 - [Section 36T — Powers of slaughter: TSE](part-2b/section-36t.md)
 
-#### Powers of entry (Extent: S)[^key-c7c572a5d4dd871dcacbe5fbd47ef548]
+#### Powers of entry (Extent: S)[^c-c7c572a5d4dd871dcacbe5fbd47ef548]
 
 - [Section 36U — Powers of entry](part-2b/section-36u.md)
 
-#### Compensation (Extent: S)[^key-c7c572a5d4dd871dcacbe5fbd47ef548]
+#### Compensation (Extent: S)[^c-c7c572a5d4dd871dcacbe5fbd47ef548]
 
 - [Section 36V — Compensation](part-2b/section-36v.md)
 
-#### General (Extent: S)[^key-c7c572a5d4dd871dcacbe5fbd47ef548]
+#### General (Extent: S)[^c-c7c572a5d4dd871dcacbe5fbd47ef548]
 
 - [Section 36W — Orders and regulations](part-2b/section-36w.md)
 - [Section 36X — Interpretation](part-2b/section-36x.md)
@@ -412,22 +412,22 @@ SCHEDULES
 
     Act extended (E.) (11.2.2002) (*temp.* until 1.12.2002) by [S.I. 2002/242](https://www.legislation.gov.uk/uksi/2002/242), [arts. 1](https://www.legislation.gov.uk/uksi/2002/242/article/1), [12](https://www.legislation.gov.uk/uksi/2002/242/article/12)
 
-[^key-002744974dd1276d7bd49e6d4c24f5f8]: Modification: Act modified (W.) (19.2.2003) by [Bluetongue (Wales) Order 2003 (S.I. 2003/326)](https://www.legislation.gov.uk/uksi/2003/326), [art. 14](https://www.legislation.gov.uk/uksi/2003/326/article/14) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/326/article/4))
+[^c-002744974dd1276d7bd49e6d4c24f5f8]: Modification: Act modified (W.) (19.2.2003) by [Bluetongue (Wales) Order 2003 (S.I. 2003/326)](https://www.legislation.gov.uk/uksi/2003/326), [art. 14](https://www.legislation.gov.uk/uksi/2003/326/article/14) (with [art. 4](https://www.legislation.gov.uk/uksi/2003/326/article/4))
 
-[^key-aa398edcb1f572b40493526a609f1047]: Modification: Act certain functions transferred (31.12.2004) by [The National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. 2004/3044)](https://www.legislation.gov.uk/uksi/2004/3044), [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3044/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3044/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/3044/article/3))
+[^c-aa398edcb1f572b40493526a609f1047]: Modification: Act certain functions transferred (31.12.2004) by [The National Assembly for Wales (Transfer of Functions) Order 2004 (S.I. 2004/3044)](https://www.legislation.gov.uk/uksi/2004/3044), [art. 1(2)](https://www.legislation.gov.uk/uksi/2004/3044/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/3044/schedule/1) (with [art. 3](https://www.legislation.gov.uk/uksi/2004/3044/article/3))
 
-[^key-3405fd52a18c5dd8bdbae41ef08c5635]: Modification: Act modified (E.) (27.4.2006 at 6.00 p.m.) by [Avian Influenza and Influenza of Avian Origin In Mammals (England) Order 2006 (S.I. 2006/1197)](https://www.legislation.gov.uk/uksi/2006/1197), [art. 5(3)](https://www.legislation.gov.uk/uksi/2006/1197/article/5/3)
+[^c-3405fd52a18c5dd8bdbae41ef08c5635]: Modification: Act modified (E.) (27.4.2006 at 6.00 p.m.) by [Avian Influenza and Influenza of Avian Origin In Mammals (England) Order 2006 (S.I. 2006/1197)](https://www.legislation.gov.uk/uksi/2006/1197), [art. 5(3)](https://www.legislation.gov.uk/uksi/2006/1197/article/5/3)
 
-[^key-43fde5b78027aac770f271e1a73c3d37]: Modification: Act definitions extended (E.) (28.4.2008) by [Specified Animal Pathogens Order 2008 (S.I. 2008/944)](https://www.legislation.gov.uk/uksi/2008/944), [art. 2](https://www.legislation.gov.uk/uksi/2008/944/article/2)
+[^c-43fde5b78027aac770f271e1a73c3d37]: Modification: Act definitions extended (E.) (28.4.2008) by [Specified Animal Pathogens Order 2008 (S.I. 2008/944)](https://www.legislation.gov.uk/uksi/2008/944), [art. 2](https://www.legislation.gov.uk/uksi/2008/944/article/2)
 
-[^key-a35166e744fb0824556c86f987b0725f]: Modification: Act powers extended (W.) (10.5.2008) by [The Specified Animal Pathogens (Wales) Order 2008 (S.I. 2008/1270)](https://www.legislation.gov.uk/uksi/2008/1270), [art. 6](https://www.legislation.gov.uk/uksi/2008/1270/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1270/schedule/2)
+[^c-a35166e744fb0824556c86f987b0725f]: Modification: Act powers extended (W.) (10.5.2008) by [The Specified Animal Pathogens (Wales) Order 2008 (S.I. 2008/1270)](https://www.legislation.gov.uk/uksi/2008/1270), [art. 6](https://www.legislation.gov.uk/uksi/2008/1270/article/6), [Sch. 2](https://www.legislation.gov.uk/uksi/2008/1270/schedule/2)
 
-[^key-d54361d77eaaee84918181f4737e1ab2]: Modification: Act definitions extended (W.) (10.5.2008) by [The Specified Animal Pathogens (Wales) Order 2008 (S.I. 2008/1270)](https://www.legislation.gov.uk/uksi/2008/1270), [art. 2](https://www.legislation.gov.uk/uksi/2008/1270/article/2)
+[^c-d54361d77eaaee84918181f4737e1ab2]: Modification: Act definitions extended (W.) (10.5.2008) by [The Specified Animal Pathogens (Wales) Order 2008 (S.I. 2008/1270)](https://www.legislation.gov.uk/uksi/2008/1270), [art. 2](https://www.legislation.gov.uk/uksi/2008/1270/article/2)
 
-[^key-e7a199adf2935415f74cba895f4a1b0f]: Modification: Act definitions extended (S.) (1.3.2009) by [Specified Animal Pathogens (Scotland) Order 2009 (S.S.I. 2009/45)](https://www.legislation.gov.uk/ssi/2009/45), [art. 2](https://www.legislation.gov.uk/ssi/2009/45/article/2)
+[^c-e7a199adf2935415f74cba895f4a1b0f]: Modification: Act definitions extended (S.) (1.3.2009) by [Specified Animal Pathogens (Scotland) Order 2009 (S.S.I. 2009/45)](https://www.legislation.gov.uk/ssi/2009/45), [art. 2](https://www.legislation.gov.uk/ssi/2009/45/article/2)
 
-[^key-82fbdc5ec4ba103f4642da9fba8ebaeb]: Modification: Act applied in part (with modifications) (S.) (22.2.2021) by [S.I. 1989/285](https://www.legislation.gov.uk/uksi/1989/285), [art. 4(3)](https://www.legislation.gov.uk/uksi/1989/285/article/4/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1989/285/schedule/1) (as inserted by [The Zoonoses Amendment (Coronavirus) (Scotland) Order 2021 (S.S.I. 2021/83)](https://www.legislation.gov.uk/ssi/2021/83), [arts. 1](https://www.legislation.gov.uk/ssi/2021/83/article/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2021/83/article/2/3/c))
+[^c-82fbdc5ec4ba103f4642da9fba8ebaeb]: Modification: Act applied in part (with modifications) (S.) (22.2.2021) by [S.I. 1989/285](https://www.legislation.gov.uk/uksi/1989/285), [art. 4(3)](https://www.legislation.gov.uk/uksi/1989/285/article/4/3), [Sch. 1](https://www.legislation.gov.uk/uksi/1989/285/schedule/1) (as inserted by [The Zoonoses Amendment (Coronavirus) (Scotland) Order 2021 (S.S.I. 2021/83)](https://www.legislation.gov.uk/ssi/2021/83), [arts. 1](https://www.legislation.gov.uk/ssi/2021/83/article/1), [2(3)(c)](https://www.legislation.gov.uk/ssi/2021/83/article/2/3/c))
 
-[^key-c9f6f67eea322f655b3aff03bdabe8e8]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/1981/22/part/2A) repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 37](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/37)
+[^c-c9f6f67eea322f655b3aff03bdabe8e8]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/ukpga/1981/22/part/2A) repealed (26.5.2015) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(r)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/r), [Sch. 23 para. 37](https://www.legislation.gov.uk/ukpga/2015/20/schedule/23/paragraph/37)
 
-[^key-c7c572a5d4dd871dcacbe5fbd47ef548]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/ukpga/1981/22/part/2B) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 11](https://www.legislation.gov.uk/asp/2006/11/section/11), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)
+[^c-c7c572a5d4dd871dcacbe5fbd47ef548]: Textual amendment: [Pt. 2B](https://www.legislation.gov.uk/ukpga/1981/22/part/2B) inserted (S.) (6.10.2006) by [Animal Health and Welfare (Scotland) Act 2006 (asp 11)](https://www.legislation.gov.uk/asp/2006/11), [ss. 11](https://www.legislation.gov.uk/asp/2006/11/section/11), [55(1)](https://www.legislation.gov.uk/asp/2006/11/section/55/1) (with [s. 54](https://www.legislation.gov.uk/asp/2006/11/section/54)); [S.S.I. 2006/482](https://www.legislation.gov.uk/ssi/2006/482), [art. 2](https://www.legislation.gov.uk/ssi/2006/482/article/2)

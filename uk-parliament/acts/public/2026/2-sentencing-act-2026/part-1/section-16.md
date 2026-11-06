@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Drinking establishment entry prohibition requirement[^key-74437d5ef9a074f74c07bf9ae129b8d7][^key-b389b4d9fe52bb73ca2cff25a7be0472]
+## 16. Drinking establishment entry prohibition requirement[^c-74437d5ef9a074f74c07bf9ae129b8d7][^c-b389b4d9fe52bb73ca2cff25a7be0472]
 
 *Extent: E+W*
 
@@ -81,6 +81,6 @@ summary: ''
 
 ## Annotations
 
-[^key-74437d5ef9a074f74c07bf9ae129b8d7]: Commencement: S. 16 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
+[^c-74437d5ef9a074f74c07bf9ae129b8d7]: Commencement: S. 16 not in force at Royal Assent, see [s. 49(1)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/1)
 
-[^key-b389b4d9fe52bb73ca2cff25a7be0472]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2026/2/section/16) in force at 1.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/g) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))
+[^c-b389b4d9fe52bb73ca2cff25a7be0472]: Commencement: [S. 16](https://www.legislation.gov.uk/ukpga/2026/2/section/16) in force at 1.10.2026 by [S.I. 2026/772](https://www.legislation.gov.uk/uksi/2026/772), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2026/772/regulation/3/g) (as amended by S.I. 2026/948, [reg. 2](https://www.legislation.gov.uk/uksi/2026/948/regulation/2))

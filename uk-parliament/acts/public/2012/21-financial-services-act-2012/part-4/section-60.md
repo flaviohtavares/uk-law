@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Circumstances in which Treasury power of direction exercisable[^key-157ac88e48c01343d2019a94052ed04e]
+## 60. Circumstances in which Treasury power of direction exercisable[^c-157ac88e48c01343d2019a94052ed04e]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 (5) For the purposes of this Part qualifying financial assistance is provided if, and only if—
 
 - (a) the Treasury or the Secretary of State provide financial assistance to or in respect of a financial institution,
-- (b) the Treasury incur expenditure in connection with the exercise by the Treasury, the Bank, the PRA, the FCA or the Secretary of State of any of their powers under Parts 1 to 3 of the Banking Act 2009 or under Schedule 11 to the Financial Services and Markets Act 2023[^key-f73047d56879c94d66da75849f7405b6],
+- (b) the Treasury incur expenditure in connection with the exercise by the Treasury, the Bank, the PRA, the FCA or the Secretary of State of any of their powers under Parts 1 to 3 of the Banking Act 2009 or under Schedule 11 to the Financial Services and Markets Act 2023[^c-f73047d56879c94d66da75849f7405b6],
 - (c) the Treasury arrange a loan from the National Loans Fund in pursuance of a request by the scheme manager of the Financial Services Compensation Scheme under section 223B of FSMA 2000, or
 - (d) the Treasury provide financial assistance to the scheme manager of that scheme for the purpose of funding expenses incurred or expected to be incurred under it.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-157ac88e48c01343d2019a94052ed04e]: Commencement: S. 60 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-157ac88e48c01343d2019a94052ed04e]: Commencement: S. 60 in force at 1.4.2013 by [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-f73047d56879c94d66da75849f7405b6]: Textual amendment: Words in [s. 60(5)(b)](https://www.legislation.gov.uk/ukpga/2012/21/section/60/5/b) inserted (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/1313/regulation/14)
+[^c-f73047d56879c94d66da75849f7405b6]: Textual amendment: Words in [s. 60(5)(b)](https://www.legislation.gov.uk/ukpga/2012/21/section/60/5/b) inserted (31.12.2023) by [The Resolution of Central Counterparties (Modified Application of Corporate Law and Consequential Amendments) Regulations 2023 (S.I. 2023/1313)](https://www.legislation.gov.uk/uksi/2023/1313), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1313/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2023/1313/regulation/14)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Protection for nests of certain birds which re-use their nests[^key-50191a71f486225aa9ce108fafed2086]
+## 47. Protection for nests of certain birds which re-use their nests[^c-50191a71f486225aa9ce108fafed2086]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ after “Schedule” insert “ ZA1 or ”.
 
 ## Annotations
 
-[^key-50191a71f486225aa9ce108fafed2086]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2006/16/section/47) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)
+[^c-50191a71f486225aa9ce108fafed2086]: Commencement: [S. 47](https://www.legislation.gov.uk/ukpga/2006/16/section/47) in force at 31.5.2006 by [S.I. 2006/1382](https://www.legislation.gov.uk/uksi/2006/1382), [art. 2](https://www.legislation.gov.uk/uksi/2006/1382/article/2)

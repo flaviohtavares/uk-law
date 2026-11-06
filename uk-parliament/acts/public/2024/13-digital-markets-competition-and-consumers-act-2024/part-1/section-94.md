@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. False or misleading information[^key-b5b3a016dec609cdfc1492b6c4e55517][^key-b18279230b8d4f29ea679679fddf705a]
+## 94. False or misleading information[^c-b5b3a016dec609cdfc1492b6c4e55517][^c-b18279230b8d4f29ea679679fddf705a]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b5b3a016dec609cdfc1492b6c4e55517]: Commencement: S. 94 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-b5b3a016dec609cdfc1492b6c4e55517]: Commencement: S. 94 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-b18279230b8d4f29ea679679fddf705a]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2024/13/section/94) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-b18279230b8d4f29ea679679fddf705a]: Commencement: [S. 94](https://www.legislation.gov.uk/ukpga/2024/13/section/94) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

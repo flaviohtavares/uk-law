@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Failure to make appointments in accordance with section 70[^key-9c62e6a5452cf6d978ecb11b5428ea74]
+## 71. Failure to make appointments in accordance with section 70[^c-9c62e6a5452cf6d978ecb11b5428ea74]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ each committee chair not so appointed is to be appointed by the committee which 
 
 ## Annotations
 
-[^key-9c62e6a5452cf6d978ecb11b5428ea74]: Commencement: [S. 71](https://www.legislation.gov.uk/mwa/2011/4/section/71) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)
+[^c-9c62e6a5452cf6d978ecb11b5428ea74]: Commencement: [S. 71](https://www.legislation.gov.uk/mwa/2011/4/section/71) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(h)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/h)

@@ -22,7 +22,7 @@ summary: ''
 
 Article ‎13
 
-### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^key-45da71a01702bf01bf3f13dc8cef65be]
+### PART 1 — PERMANENT MEANS OF ACCESS TO WORKS[^c-45da71a01702bf01bf3f13dc8cef65be]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of means of access* |
 | --- | --- | --- |
@@ -35,7 +35,7 @@ Article ‎13
 | District of West Lindsey | Till Bridge Lane (A1500), Marton, via Stow Park Road (unclassified) | The provision of a permanent means of access to the authorised development from the point marked AC7 and AC113 on sheet 6 of the access plan. |
 | District of West Lindsey | Stow Park Road (A1500), Marton | The provision of a permanent means of access to the authorised development from the point marked AC8 on sheet 6 of the access plan. |
 
-### PART 2 — TEMPORARY MEANS OF ACCESS[^key-548a3c6b4bdc930dbddec80037b3ec13]
+### PART 2 — TEMPORARY MEANS OF ACCESS[^c-548a3c6b4bdc930dbddec80037b3ec13]
 
 | *(1)*<br>*Area* | *(2)*<br>*Street* | *(3)*<br>*Description of means of access* |
 | --- | --- | --- |
@@ -57,6 +57,6 @@ Article ‎13
 
 ## Annotations
 
-[^key-45da71a01702bf01bf3f13dc8cef65be]: Commencement: Sch. 7 Pt. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-45da71a01702bf01bf3f13dc8cef65be]: Commencement: Sch. 7 Pt. 1 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
 
-[^key-548a3c6b4bdc930dbddec80037b3ec13]: Commencement: Sch. 7 Pt. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)
+[^c-548a3c6b4bdc930dbddec80037b3ec13]: Commencement: Sch. 7 Pt. 2 in force at 15.2.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/116/article/1)

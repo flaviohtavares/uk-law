@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (revoked)[^key-6c6af6ee781aab624044272a4d63f793]
+The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers) (Wales) (Miscellaneous Amendments) Regulations 2021 (revoked)[^c-6c6af6ee781aab624044272a4d63f793]
 
 Made
 
@@ -45,123 +45,123 @@ Coming into force
 
 at 6.00 a.m. on 17 May 2021
 
-[^key-6c6af6ee781aab624044272a4d63f793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c6af6ee781aab624044272a4d63f793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## PART 1 — General[^key-6c6af6ee781aab624044272a4d63f793]
+## PART 1 — General[^c-6c6af6ee781aab624044272a4d63f793]
 
-### 1. Title, interpretation and coming into force[^key-6c6af6ee781aab624044272a4d63f793]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART 2 — Amendments to the International Travel Regulations[^key-6c6af6ee781aab624044272a4d63f793]
-
-### 2. Amendments to the International Travel Regulations[^key-6c6af6ee781aab624044272a4d63f793]
+### 1. Title, interpretation and coming into force[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. New regulation 6AB (requirement to book and undertake tests)[^key-6c6af6ee781aab624044272a4d63f793]
+## PART 2 — Amendments to the International Travel Regulations[^c-6c6af6ee781aab624044272a4d63f793]
+
+### 2. Amendments to the International Travel Regulations[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. New regulations 6DA and 6DB (requirement to isolate on failure to take tests)[^key-6c6af6ee781aab624044272a4d63f793]
+### 3. New regulation 6AB (requirement to book and undertake tests)[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Substitution of regulation 6E (consequences of positive test result)[^key-6c6af6ee781aab624044272a4d63f793]
+### 4. New regulations 6DA and 6DB (requirement to isolate on failure to take tests)[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Amendments to regulation 6F[^key-6c6af6ee781aab624044272a4d63f793]
+### 5. Substitution of regulation 6E (consequences of positive test result)[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment to regulation 6G[^key-6c6af6ee781aab624044272a4d63f793]
+### 6. Amendments to regulation 6F[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. New regulations 6HA and 6HB (consequences of receiving inconclusive test result)[^key-6c6af6ee781aab624044272a4d63f793]
+### 7. Amendment to regulation 6G[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Amendments to regulation 14[^key-6c6af6ee781aab624044272a4d63f793]
+### 8. New regulations 6HA and 6HB (consequences of receiving inconclusive test result)[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Amendments to regulation 16[^key-6c6af6ee781aab624044272a4d63f793]
+### 9. Amendments to regulation 14[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendments to regulation 17[^key-6c6af6ee781aab624044272a4d63f793]
+### 10. Amendments to regulation 16[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 12. Amendments to Schedule 1[^key-6c6af6ee781aab624044272a4d63f793]
+### 11. Amendments to regulation 17[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Amendments to Schedule 1B[^key-6c6af6ee781aab624044272a4d63f793]
+### 12. Amendments to Schedule 1[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Amendments to Schedule 1C[^key-6c6af6ee781aab624044272a4d63f793]
+### 13. Amendments to Schedule 1B[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Amendments to Schedule 3[^key-6c6af6ee781aab624044272a4d63f793]
+### 14. Amendments to Schedule 1C[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Amendments to the Operator Liability Regulations[^key-6c6af6ee781aab624044272a4d63f793]
-
-### 16. Amendments to the Operator Liability Regulations[^key-6c6af6ee781aab624044272a4d63f793]
+### 15. Amendments to Schedule 3[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Amendment to regulation 4[^key-6c6af6ee781aab624044272a4d63f793]
+## PART 3 — Amendments to the Operator Liability Regulations[^c-6c6af6ee781aab624044272a4d63f793]
+
+### 16. Amendments to the Operator Liability Regulations[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Amendments to regulation 5A[^key-6c6af6ee781aab624044272a4d63f793]
+### 17. Amendment to regulation 4[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Amendment to regulation 9[^key-6c6af6ee781aab624044272a4d63f793]
+### 18. Amendments to regulation 5A[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 4 — Amendments to the Public Health Information Regulations[^key-6c6af6ee781aab624044272a4d63f793]
-
-### 20. Amendments to the Public Health Information Regulations[^key-6c6af6ee781aab624044272a4d63f793]
+### 19. Amendment to regulation 9[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Amendments to regulation 2[^key-6c6af6ee781aab624044272a4d63f793]
+## PART 4 — Amendments to the Public Health Information Regulations[^c-6c6af6ee781aab624044272a4d63f793]
+
+### 20. Amendments to the Public Health Information Regulations[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Amendments to regulation 3[^key-6c6af6ee781aab624044272a4d63f793]
+### 21. Amendments to regulation 2[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Amendments to regulation 3A[^key-6c6af6ee781aab624044272a4d63f793]
+### 22. Amendments to regulation 3[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Amendments to regulation 6[^key-6c6af6ee781aab624044272a4d63f793]
+### 23. Amendments to regulation 3A[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Substitution of the Schedule[^key-6c6af6ee781aab624044272a4d63f793]
+### 24. Amendments to regulation 6[^c-6c6af6ee781aab624044272a4d63f793]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c6af6ee781aab624044272a4d63f793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### 25. Substitution of the Schedule[^c-6c6af6ee781aab624044272a4d63f793]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-6c6af6ee781aab624044272a4d63f793]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-6c6af6ee781aab624044272a4d63f793]EXPLANATORY NOTE
+[^c-6c6af6ee781aab624044272a4d63f793]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -185,4 +185,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-6c6af6ee781aab624044272a4d63f793]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/584) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 39](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/39)
+[^c-6c6af6ee781aab624044272a4d63f793]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2021/584) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 39](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/39)

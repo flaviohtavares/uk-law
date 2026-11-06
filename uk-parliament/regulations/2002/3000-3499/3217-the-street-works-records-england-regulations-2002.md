@@ -45,13 +45,13 @@ Coming into force
 
 The Secretary of State for Transport in exercise of the powers conferred by section 79 and section 104(1) of the New Roads and Street Works Act 1991[^f00001] and of all other powers enabling him in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and application[^key-f4a6593e45c9c11592bd9cd9ba111760]
+## 1. Citation, commencement and application[^c-f4a6593e45c9c11592bd9cd9ba111760]
 
 (1) These Regulations may be cited as the Street Works (Records) (England) Regulations 2002 and shall come into force on 1st May 2003.
 
 (2) These Regulations apply as respects England only.
 
-## 2. Interpretation[^key-8db9378f75b798e95e76242582a4a422]
+## 2. Interpretation[^c-8db9378f75b798e95e76242582a4a422]
 
 In these Regulations—
 
@@ -65,7 +65,7 @@ In these Regulations—
 
   and includes works which cannot reasonably be severed from such works.
 
-## 3. Form and manner of records[^key-70bb22bf2997b8173956dba7b0bf6b5a]
+## 3. Form and manner of records[^c-70bb22bf2997b8173956dba7b0bf6b5a]
 
 (1) Subject to regulation 5, a record of every item of apparatus belonging to an undertaker and placed in the street shall be kept by that undertaker on paper, or, subject to regulation 4, in the form of an electronic record or a combination of both, and shall be prepared in the form of:
 
@@ -78,11 +78,11 @@ In these Regulations—
 
 (3) In preparing the record, the location and route of the apparatus shall be recorded so that the measured position shall be within 300mm of the actual position and the recorded position shall be within 500mm of the actual position.
 
-## 4. Electronic Records[^key-f9ee2ed5881ff690eb46a0317831c453]
+## 4. Electronic Records[^c-f9ee2ed5881ff690eb46a0317831c453]
 
 Where an electronic record is kept pursuant to regulation 3 above, it must be capable of being reproduced in a sufficiently legible form to comply with the duty imposed by section 79(3) of the Act (duty to make records available for inspection).
 
-## 5. Exceptions[^key-ea6ff7feca70d453ae952fdcbe877246]
+## 5. Exceptions[^c-ea6ff7feca70d453ae952fdcbe877246]
 
 The duty in section 79(1) of the Act to keep a record of the location of every item of apparatus shall not apply:—
 
@@ -113,12 +113,12 @@ These Regulations prescribe the form of records of apparatus placed in streets t
 
 [^f00001]: Footnote: [1991 c. 22](https://www.legislation.gov.uk/ukpga/1991/22); the functions of the Secretary of State under sections 79 and 104 are transferred so far as exercisable in relation to Wales, to the National Assembly for Wales by the National Assembly for Wales (Transfer of Functions) Order 1999 (S.I. [1999/672](https://www.legislation.gov.uk/uksi/1999/672)) article 2(a).
 
-[^key-f4a6593e45c9c11592bd9cd9ba111760]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2002/3217/regulation/1) in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3217/regulation/1/1)
+[^c-f4a6593e45c9c11592bd9cd9ba111760]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2002/3217/regulation/1) in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3217/regulation/1/1)
 
-[^key-8db9378f75b798e95e76242582a4a422]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2002/3217/regulation/2) in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3217/regulation/1/1)
+[^c-8db9378f75b798e95e76242582a4a422]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2002/3217/regulation/2) in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3217/regulation/1/1)
 
-[^key-70bb22bf2997b8173956dba7b0bf6b5a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2002/3217/regulation/3) in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3217/regulation/1/1)
+[^c-70bb22bf2997b8173956dba7b0bf6b5a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2002/3217/regulation/3) in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3217/regulation/1/1)
 
-[^key-f9ee2ed5881ff690eb46a0317831c453]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/3217/regulation/4) in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3217/regulation/1/1)
+[^c-f9ee2ed5881ff690eb46a0317831c453]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2002/3217/regulation/4) in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3217/regulation/1/1)
 
-[^key-ea6ff7feca70d453ae952fdcbe877246]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/3217/regulation/5) in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3217/regulation/1/1)
+[^c-ea6ff7feca70d453ae952fdcbe877246]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2002/3217/regulation/5) in force at 1.5.2003, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2002/3217/regulation/1/1)

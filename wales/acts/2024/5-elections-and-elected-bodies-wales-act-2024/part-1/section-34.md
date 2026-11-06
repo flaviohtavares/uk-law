@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Codes of practice on expenses[^key-4a6e0c218879d1a93839dae0d2381e91][^key-b794676d63c4d58e9a4c3a04f37e99e1]
+## 34. Codes of practice on expenses[^c-4a6e0c218879d1a93839dae0d2381e91][^c-b794676d63c4d58e9a4c3a04f37e99e1]
 
 *Extent: E+W*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4a6e0c218879d1a93839dae0d2381e91]: Commencement: S. 34 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-4a6e0c218879d1a93839dae0d2381e91]: Commencement: S. 34 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-b794676d63c4d58e9a4c3a04f37e99e1]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2024/5/section/34) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(i)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/i)
+[^c-b794676d63c4d58e9a4c3a04f37e99e1]: Commencement: [S. 34](https://www.legislation.gov.uk/asc/2024/5/section/34) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(i)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/i)

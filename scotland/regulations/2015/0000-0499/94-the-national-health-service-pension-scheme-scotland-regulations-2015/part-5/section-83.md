@@ -30,7 +30,7 @@ summary: ''
 
 (2) In paragraph (1), M is subject to a relevant reduction if—
 
-- (a) where M is neither a practitioner nor a non-GP provider, M's pensionable earnings in employment mentioned in paragraph (1)(b) are reduced (disregarding any reduction in pensionable earnings resulting from the member entering into a salary sacrifice arrangement)[^key-b7a277ca3a8c5e2c98c73be08ab7583d] to 90% or less of the amount of M's pensionable earnings during the period of 12 months ending with the election day;
+- (a) where M is neither a practitioner nor a non-GP provider, M's pensionable earnings in employment mentioned in paragraph (1)(b) are reduced (disregarding any reduction in pensionable earnings resulting from the member entering into a salary sacrifice arrangement)[^c-b7a277ca3a8c5e2c98c73be08ab7583d] to 90% or less of the amount of M's pensionable earnings during the period of 12 months ending with the election day;
 - (b) where M is a practitioner or a non-GP provider, M's engagement in the employment is reduced to 90% or less of its level during that period.
 
 (3) If this regulation applies M may elect to claim immediate payment of pension as specified in the election pursuant to paragraphs (a) and (b)—
@@ -49,8 +49,8 @@ summary: ''
 
 - (a) the amount of the pension to which M becomes entitled as a result of the election—
   - (i) is not less than 20% of the pension that would have been payable if M had ceased to be employed in all M's employments at the end of the election day; and
-  - (ii) taken together with any increase to which M is entitled in consequence of the election, is not less than 0.05% of M's lump sum and death benefit allowance[^key-b20cc288ab683bf126955ea30012246b] on the election day;
-- (b)[^key-9aa0ec637524216de617b60f9e1f1283] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) taken together with any increase to which M is entitled in consequence of the election, is not less than 0.05% of M's lump sum and death benefit allowance[^c-b20cc288ab683bf126955ea30012246b] on the election day;
+- (b)[^c-9aa0ec637524216de617b60f9e1f1283] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In applying paragraph (5)—
 
@@ -77,8 +77,8 @@ N is the number of days in that period on which M was an active member.
 
 ## Annotations
 
-[^key-b7a277ca3a8c5e2c98c73be08ab7583d]: Textual amendment: Words in [reg. 83(2)(a)](https://www.legislation.gov.uk/ssi/2015/94/regulation/83/2/a) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [50(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/50/2)
+[^c-b7a277ca3a8c5e2c98c73be08ab7583d]: Textual amendment: Words in [reg. 83(2)(a)](https://www.legislation.gov.uk/ssi/2015/94/regulation/83/2/a) inserted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [50(2)](https://www.legislation.gov.uk/ssi/2024/272/regulation/50/2)
 
-[^key-b20cc288ab683bf126955ea30012246b]: Textual amendment: Words in [reg. 83(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/94/regulation/83/5/a/ii) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [50(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/50/3)
+[^c-b20cc288ab683bf126955ea30012246b]: Textual amendment: Words in [reg. 83(5)(a)(ii)](https://www.legislation.gov.uk/ssi/2015/94/regulation/83/5/a/ii) substituted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [50(3)](https://www.legislation.gov.uk/ssi/2024/272/regulation/50/3)
 
-[^key-9aa0ec637524216de617b60f9e1f1283]: Textual amendment: [Reg. 83(5)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/83/5/b) omitted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [50(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/50/4)
+[^c-9aa0ec637524216de617b60f9e1f1283]: Textual amendment: [Reg. 83(5)(b)](https://www.legislation.gov.uk/ssi/2015/94/regulation/83/5/b) omitted (with effect in accordance with reg. 1(6) of the amending S.S.I.) by virtue of [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1), [50(4)](https://www.legislation.gov.uk/ssi/2024/272/regulation/50/4)

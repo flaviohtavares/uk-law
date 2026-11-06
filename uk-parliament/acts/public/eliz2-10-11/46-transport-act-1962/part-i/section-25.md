@@ -29,7 +29,7 @@ summary: ''
 
 (2) The Minister may give to a Board such directions as appear to him appropriate for ensuring that the Board carry out the duty imposed on them by the foregoing subsection.
 
-(2A)[^key-1eda0807fe62a033e94e3bcaa5404830] In the application of this section to the British Waterways Board, references to the Minister are to be read as references to the Scottish Ministers.
+(2A)[^c-1eda0807fe62a033e94e3bcaa5404830] In the application of this section to the British Waterways Board, references to the Minister are to be read as references to the Scottish Ministers.
 
 (3), (4) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c4791771]
 
@@ -39,6 +39,6 @@ summary: ''
 
 [^c4791751]: Modification: S. 25(1) excluded by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [s. 51(6)](https://www.legislation.gov.uk/ukpga/1968/73/section/51/6)
 
-[^key-1eda0807fe62a033e94e3bcaa5404830]: Textual amendment: [S. 25(2A)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/25/2A) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/16) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-1eda0807fe62a033e94e3bcaa5404830]: Textual amendment: [S. 25(2A)](https://www.legislation.gov.uk/ukpga/Eliz2/10-11/46/section/25/2A) substituted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 16](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/16) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c4791771]: Textual amendment: S. 25(3)(4) repealed by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [Sch. 18 Pt. I](https://www.legislation.gov.uk/ukpga/1968/73/schedule/18/part/I)

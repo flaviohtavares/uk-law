@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 108. Records[^key-c93fe60b963a8838a825e16e4f6eee2a]
+## Article 108. Records[^c-c93fe60b963a8838a825e16e4f6eee2a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c93fe60b963a8838a825e16e4f6eee2a]: Textual amendment: [Art. 108](https://www.legislation.gov.uk/eur/2013/389/article/108) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(15)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/15)
+[^c-c93fe60b963a8838a825e16e4f6eee2a]: Textual amendment: [Art. 108](https://www.legislation.gov.uk/eur/2013/389/article/108) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [8(15)](https://www.legislation.gov.uk/uksi/2021/511/regulation/8/15)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 60. Appointment of replacement trustee[^key-9b2f402268e4aaa4b240fdd72cc05827]
+## 60. Appointment of replacement trustee[^c-9b2f402268e4aaa4b240fdd72cc05827]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9b2f402268e4aaa4b240fdd72cc05827]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2016/21/section/60) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-9b2f402268e4aaa4b240fdd72cc05827]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2016/21/section/60) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

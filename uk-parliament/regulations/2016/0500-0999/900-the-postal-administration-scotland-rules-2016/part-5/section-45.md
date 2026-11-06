@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Liabilities and rights of co-obligants[^key-8d10cbb60336140ad2c38af6508f0200]
+## 45. Liabilities and rights of co-obligants[^c-8d10cbb60336140ad2c38af6508f0200]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ the co-obligant shall account to the postal administrator so as to put the compa
 
 ## Annotations
 
-[^key-8d10cbb60336140ad2c38af6508f0200]: Commencement: Rule 45 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-8d10cbb60336140ad2c38af6508f0200]: Commencement: Rule 45 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)

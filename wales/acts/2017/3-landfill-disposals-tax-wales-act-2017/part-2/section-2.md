@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. The tax[^key-1624c181a80f192f616ed92927f6932a]
+## 2. The tax[^c-1624c181a80f192f616ed92927f6932a]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1624c181a80f192f616ed92927f6932a]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2017/3/section/2) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-1624c181a80f192f616ed92927f6932a]: Commencement: [S. 2](https://www.legislation.gov.uk/anaw/2017/3/section/2) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

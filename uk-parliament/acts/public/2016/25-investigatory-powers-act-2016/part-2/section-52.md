@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Interception in accordance with overseas requests[^key-526ced161049a38d5b4272efd7d1fc91]
+## 52. Interception in accordance with overseas requests[^c-526ced161049a38d5b4272efd7d1fc91]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) Condition B is that the interception is carried out in response to a request made in accordance with a relevant international agreement by the competent authorities of a country or territory outside the United Kingdom.
 
-In this subsection “**relevant international agreement**” means an international agreement to which the United Kingdom is a party and which is designated as a relevant international agreement by regulations made by the Secretary of State (see further subsections (6) and (7))[^key-5bae7c59fd7bc542bb01760c34f575a8].
+In this subsection “**relevant international agreement**” means an international agreement to which the United Kingdom is a party and which is designated as a relevant international agreement by regulations made by the Secretary of State (see further subsections (6) and (7))[^c-5bae7c59fd7bc542bb01760c34f575a8].
 
 (4) Condition C is that the interception is carried out for the purpose of obtaining information about the communications of an individual—
 
@@ -40,7 +40,7 @@ In this subsection “**relevant international agreement**” means an internati
 
 (5) Condition D is that any further conditions specified in regulations made by the Secretary of State for the purposes of this section are met.
 
-(6)[^key-43ebffecf255a55e0bce8996aa56c5d0] Subsection (7) applies where an international agreement provides for requests for the interception of a communication to be made by the competent authorities of a country or territory, or of more than one country or territory, in which a person found guilty of a criminal offence may be sentenced to death for the offence under the general criminal law of the country or territory concerned.
+(6)[^c-43ebffecf255a55e0bce8996aa56c5d0] Subsection (7) applies where an international agreement provides for requests for the interception of a communication to be made by the competent authorities of a country or territory, or of more than one country or territory, in which a person found guilty of a criminal offence may be sentenced to death for the offence under the general criminal law of the country or territory concerned.
 
 Such an offence is referred to in subsection (7) as a “death penalty offence”.
 
@@ -48,8 +48,8 @@ Such an offence is referred to in subsection (7) as a “death penalty offence�
 
 ## Annotations
 
-[^key-526ced161049a38d5b4272efd7d1fc91]: Commencement: S. 52 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(q)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/q)
+[^c-526ced161049a38d5b4272efd7d1fc91]: Commencement: S. 52 in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(q)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/q)
 
-[^key-5bae7c59fd7bc542bb01760c34f575a8]: Textual amendment: Words in [s. 52(3)](https://www.legislation.gov.uk/ukpga/2016/25/section/52/3) inserted (9.10.2019) by [Crime (Overseas Production Orders) Act 2019 (c. 5)](https://www.legislation.gov.uk/ukpga/2019/5), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2019/5/section/16/2), [20(1)](https://www.legislation.gov.uk/ukpga/2019/5/section/20/1); [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/1/c)
+[^c-5bae7c59fd7bc542bb01760c34f575a8]: Textual amendment: Words in [s. 52(3)](https://www.legislation.gov.uk/ukpga/2016/25/section/52/3) inserted (9.10.2019) by [Crime (Overseas Production Orders) Act 2019 (c. 5)](https://www.legislation.gov.uk/ukpga/2019/5), [ss. 16(2)](https://www.legislation.gov.uk/ukpga/2019/5/section/16/2), [20(1)](https://www.legislation.gov.uk/ukpga/2019/5/section/20/1); [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/1/c)
 
-[^key-43ebffecf255a55e0bce8996aa56c5d0]: Textual amendment: [S. 52(6)](https://www.legislation.gov.uk/ukpga/2016/25/section/52/6)[(7)](https://www.legislation.gov.uk/ukpga/2016/25/section/52/7) inserted (9.10.2019) by [Crime (Overseas Production Orders) Act 2019 (c. 5)](https://www.legislation.gov.uk/ukpga/2019/5), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2019/5/section/16/3), [20(1)](https://www.legislation.gov.uk/ukpga/2019/5/section/20/1); [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/1/c)
+[^c-43ebffecf255a55e0bce8996aa56c5d0]: Textual amendment: [S. 52(6)](https://www.legislation.gov.uk/ukpga/2016/25/section/52/6)[(7)](https://www.legislation.gov.uk/ukpga/2016/25/section/52/7) inserted (9.10.2019) by [Crime (Overseas Production Orders) Act 2019 (c. 5)](https://www.legislation.gov.uk/ukpga/2019/5), [ss. 16(3)](https://www.legislation.gov.uk/ukpga/2019/5/section/16/3), [20(1)](https://www.legislation.gov.uk/ukpga/2019/5/section/20/1); [S.I. 2019/1318](https://www.legislation.gov.uk/uksi/2019/1318), [reg. 2(1)(c)](https://www.legislation.gov.uk/uksi/2019/1318/regulation/2/1/c)

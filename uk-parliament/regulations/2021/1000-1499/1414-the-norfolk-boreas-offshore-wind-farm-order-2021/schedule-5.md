@@ -22,7 +22,7 @@ summary: ''
 
 Article 12
 
-### PART 1 — Scenario 1[^key-fd650f959ae54bb594d647cf08c310c5]
+### PART 1 — Scenario 1[^c-fd650f959ae54bb594d647cf08c310c5]
 
 | (1) Area | (2) Description of access |
 | --- | --- |
@@ -187,7 +187,7 @@ Article 12
 | District of Breckland | Vehicular access from A47 to the East marked point at AC178 on the access to works plan |
 | District of Breckland | Vehicular access from A47 to the East & West marked point at AC180 on the access to works plan |
 
-### PART 2 — Scenario 2[^key-7c8e128195b240ad155b7274a25c2192]
+### PART 2 — Scenario 2[^c-7c8e128195b240ad155b7274a25c2192]
 
 | (1) Area | (2) Description of access |
 | --- | --- |
@@ -375,6 +375,6 @@ Article 12
 
 ## Annotations
 
-[^key-fd650f959ae54bb594d647cf08c310c5]: Commencement: Sch. 5 Pt. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-fd650f959ae54bb594d647cf08c310c5]: Commencement: Sch. 5 Pt. 1 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
 
-[^key-7c8e128195b240ad155b7274a25c2192]: Commencement: Sch. 5 Pt. 2 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)
+[^c-7c8e128195b240ad155b7274a25c2192]: Commencement: Sch. 5 Pt. 2 in force at 1.1.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2021/1414/article/1)

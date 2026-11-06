@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 30. Police barred list and police advisory list[^c22718631][^key-c901c34bd78e15ade5ef0883b3cde778]
+## 30. Police barred list and police advisory list[^c22718631][^c-c901c34bd78e15ade5ef0883b3cde778]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 [^c22718631]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/3/section/30) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c901c34bd78e15ade5ef0883b3cde778]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/3/section/30) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/c) (as amended by S.I 2017/1162, reg. 2)
+[^c-c901c34bd78e15ade5ef0883b3cde778]: Commencement: [S. 30](https://www.legislation.gov.uk/ukpga/2017/3/section/30) in force at 15.12.2017 in so far as not already in force by [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2017/1139/regulation/2/c) (as amended by S.I 2017/1162, reg. 2)

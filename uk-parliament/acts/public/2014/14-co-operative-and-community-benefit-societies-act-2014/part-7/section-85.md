@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Duty to obtain report in certain cases where section 83 is disapplied[^M_C_2c920afb-0edd-4ff2-ab7b-0a1bdf6e7e73][^key-c895ec9a7cd9dbe8150c056cc6ad47bd]
+## 85. Duty to obtain report in certain cases where section 83 is disapplied[^M_C_2c920afb-0edd-4ff2-ab7b-0a1bdf6e7e73][^c-c895ec9a7cd9dbe8150c056cc6ad47bd]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 [^M_C_2c920afb-0edd-4ff2-ab7b-0a1bdf6e7e73]: Modification: S. 85 modified (1.8.2014) by 1996 c. 52, Sch. 1 para. 17(2) (as substituted by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 65(12)(b)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/65/12/b) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
 
-[^key-c895ec9a7cd9dbe8150c056cc6ad47bd]: Modification: S. 85 applied (with modifications) by 2008 c. 17, s. 134(2) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 125(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/125/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))
+[^c-c895ec9a7cd9dbe8150c056cc6ad47bd]: Modification: S. 85 applied (with modifications) by 2008 c. 17, s. 134(2) (as substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 125(2)](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/125/2) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5)))

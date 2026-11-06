@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Information.[^key-f5717e2956135e3e26e8530446858d9e]
+## 235. Information.[^c-f5717e2956135e3e26e8530446858d9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f5717e2956135e3e26e8530446858d9e]: Textual amendment: S. 235 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/32)
+[^c-f5717e2956135e3e26e8530446858d9e]: Textual amendment: S. 235 omitted (13.8.2009) by virtue of [The Finance Act 2009, Schedule 47 (Consequential Amendments) Order 2009 (S.I. 2009/2035)](https://www.legislation.gov.uk/uksi/2009/2035), [art. 1](https://www.legislation.gov.uk/uksi/2009/2035/article/1), [Sch. para. 32](https://www.legislation.gov.uk/uksi/2009/2035/schedule/paragraph/32)

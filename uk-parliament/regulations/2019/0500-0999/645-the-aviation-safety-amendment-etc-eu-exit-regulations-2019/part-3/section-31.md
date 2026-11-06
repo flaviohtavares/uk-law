@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Amendment of Article 15 of Regulation [(EC) No 2111/2005](https://www.legislation.gov.uk/eur/2005/2111)[^key-2bca8afeb3666e6f6c2f4db4e3b7bcc0]
+## 31. Amendment of Article 15 of Regulation [(EC) No 2111/2005](https://www.legislation.gov.uk/eur/2005/2111)[^c-2bca8afeb3666e6f6c2f4db4e3b7bcc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ For Article 15 (including the heading) substitute—
 
 ## Annotations
 
-[^key-2bca8afeb3666e6f6c2f4db4e3b7bcc0]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-2bca8afeb3666e6f6c2f4db4e3b7bcc0]: Commencement: Reg. 31 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: S*
 
-(1) Compensation shall not be recoverable by the landlord under section 45 or 45A[^key-6bc3de5144ee2a450238f55278b57800] of this Act, unless the landlord has, not later than 3 months before the termination of the tenancy, given notice in writing to the tenant of his intention to claim compensation thereunder.
+(1) Compensation shall not be recoverable by the landlord under section 45 or 45A[^c-6bc3de5144ee2a450238f55278b57800] of this Act, unless the landlord has, not later than 3 months before the termination of the tenancy, given notice in writing to the tenant of his intention to claim compensation thereunder.
 
 (2) Subsection (3) below shall apply to compensation—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6bc3de5144ee2a450238f55278b57800]: Textual amendment: Words in s. 47(1) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 51(2)](https://www.legislation.gov.uk/asp/2003/11/section/51/2), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-6bc3de5144ee2a450238f55278b57800]: Textual amendment: Words in s. 47(1) substituted (27.11.2003) by [Agricultural Holdings (Scotland) Act 2003 (asp 11)](https://www.legislation.gov.uk/asp/2003/11), [ss. 51(2)](https://www.legislation.gov.uk/asp/2003/11/section/51/2), [95(3)](https://www.legislation.gov.uk/asp/2003/11/section/95/3), [95(4)](https://www.legislation.gov.uk/asp/2003/11/section/95/4) (with [s. 95(2)](https://www.legislation.gov.uk/asp/2003/11/section/95/2)); [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/548/article/2/d) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

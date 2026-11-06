@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Control of sex establishments.[^c2548641][^key-525bd8d91fce91d0b08208d1b5405966]
+## 2. Control of sex establishments.[^c2548641][^c-525bd8d91fce91d0b08208d1b5405966]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 [^c2548641]: Modification: S. 2: functions of local authority not to be the responsibility of an authority's executive (E.) (16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
-[^key-525bd8d91fce91d0b08208d1b5405966]: Modification: S. 2 applied (6.4.2010 for E., 8.5.2010 for W.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/4), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/3/paragraph/2/3); [S.I. 2010/722](https://www.legislation.gov.uk/uksi/2010/722), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/722/article/3/b) (with [arts. 4-12](https://www.legislation.gov.uk/uksi/2010/722/article/4)); [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/3/b) (with transitional and saving provisions in [S.I. 2010/1395](https://www.legislation.gov.uk/uksi/2010/1395), [arts. 3-11](https://www.legislation.gov.uk/uksi/2010/1395/article/3))
+[^c-525bd8d91fce91d0b08208d1b5405966]: Modification: S. 2 applied (6.4.2010 for E., 8.5.2010 for W.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(4)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/4), [Sch. 3 para. 2(3)](https://www.legislation.gov.uk/ukpga/2009/26/schedule/3/paragraph/2/3); [S.I. 2010/722](https://www.legislation.gov.uk/uksi/2010/722), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/722/article/3/b) (with [arts. 4-12](https://www.legislation.gov.uk/uksi/2010/722/article/4)); [S.I. 2010/1375](https://www.legislation.gov.uk/uksi/2010/1375), [art. 3(b)](https://www.legislation.gov.uk/uksi/2010/1375/article/3/b) (with transitional and saving provisions in [S.I. 2010/1395](https://www.legislation.gov.uk/uksi/2010/1395), [arts. 3-11](https://www.legislation.gov.uk/uksi/2010/1395/article/3))

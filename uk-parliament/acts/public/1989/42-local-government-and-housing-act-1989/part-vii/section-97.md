@@ -25,7 +25,7 @@ summary: ''
 - (a) for the purpose of survey and examination where it appears to the authority or the Secretary of State that survey or examination is necessary in order to determine whether any powers under this Part should be exercised;or
 - (b) for the purpose of survey or valuation where the authority are authorised by this Part to acquire the premises compulsorily.
 
-(1A)[^key-8b806bf33126100c9680257f43deb6a9] A person may not be authorised by a local housing authority under subsection (1)(a) to enter and survey or value land in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
+(1A)[^c-8b806bf33126100c9680257f43deb6a9] A person may not be authorised by a local housing authority under subsection (1)(a) to enter and survey or value land in connection with a proposal to acquire an interest in or a right over land (but see section 172 of the Housing and Planning Act 2016).
 
 (2) An authorisation for the purposes of this section—
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8b806bf33126100c9680257f43deb6a9]: Textual amendment: [S. 97(1A)](https://www.legislation.gov.uk/ukpga/1989/42/section/97/1A) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/17); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))
+[^c-8b806bf33126100c9680257f43deb6a9]: Textual amendment: [S. 97(1A)](https://www.legislation.gov.uk/ukpga/1989/42/section/97/1A) inserted (13.7.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 14 para. 17](https://www.legislation.gov.uk/ukpga/2016/22/schedule/14/paragraph/17); [S.I. 2016/733](https://www.legislation.gov.uk/uksi/2016/733), [reg. 3(h)](https://www.legislation.gov.uk/uksi/2016/733/regulation/3/h) (with [reg. 6](https://www.legislation.gov.uk/uksi/2016/733/regulation/6))

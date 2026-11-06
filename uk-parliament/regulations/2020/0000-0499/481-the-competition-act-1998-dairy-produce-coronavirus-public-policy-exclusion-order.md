@@ -32,7 +32,7 @@ summary: ''
 
 Competition
 
-The Competition Act 1998 (Dairy Produce) (Coronavirus) (Public Policy Exclusion) Order 2020 (revoked)[^key-3cc80989139dcfef3fed8ceb34075aef]
+The Competition Act 1998 (Dairy Produce) (Coronavirus) (Public Policy Exclusion) Order 2020 (revoked)[^c-3cc80989139dcfef3fed8ceb34075aef]
 
 Made
 
@@ -44,56 +44,56 @@ Laid before Parliament
 
 Coming into force in accordance with article 1
 
-[^key-3cc80989139dcfef3fed8ceb34075aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cc80989139dcfef3fed8ceb34075aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-3cc80989139dcfef3fed8ceb34075aef]
+## 1. Citation and commencement[^c-3cc80989139dcfef3fed8ceb34075aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-3cc80989139dcfef3fed8ceb34075aef]
+## 2. Interpretation[^c-3cc80989139dcfef3fed8ceb34075aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Qualifying activities by dairy produce suppliers[^key-3cc80989139dcfef3fed8ceb34075aef]
+## 3. Qualifying activities by dairy produce suppliers[^c-3cc80989139dcfef3fed8ceb34075aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Qualifying activities by logistics service providers[^key-3cc80989139dcfef3fed8ceb34075aef]
+## 4. Qualifying activities by logistics service providers[^c-3cc80989139dcfef3fed8ceb34075aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Exclusion from the Chapter I prohibition in relation to dairy produce suppliers[^key-3cc80989139dcfef3fed8ceb34075aef]
+## 5. Exclusion from the Chapter I prohibition in relation to dairy produce suppliers[^c-3cc80989139dcfef3fed8ceb34075aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exclusion from the Chapter I prohibition in relation to logistics service providers[^key-3cc80989139dcfef3fed8ceb34075aef]
+## 6. Exclusion from the Chapter I prohibition in relation to logistics service providers[^c-3cc80989139dcfef3fed8ceb34075aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. End of dairy produce demand disruption period[^key-3cc80989139dcfef3fed8ceb34075aef]
+## 7. End of dairy produce demand disruption period[^c-3cc80989139dcfef3fed8ceb34075aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Notification to the Secretary of State[^key-3cc80989139dcfef3fed8ceb34075aef]
+## 8. Notification to the Secretary of State[^c-3cc80989139dcfef3fed8ceb34075aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Register of agreements[^key-3cc80989139dcfef3fed8ceb34075aef]
+## 9. Register of agreements[^c-3cc80989139dcfef3fed8ceb34075aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Expiry[^key-3cc80989139dcfef3fed8ceb34075aef]
+## 10. Expiry[^c-3cc80989139dcfef3fed8ceb34075aef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3cc80989139dcfef3fed8ceb34075aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cc80989139dcfef3fed8ceb34075aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3cc80989139dcfef3fed8ceb34075aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3cc80989139dcfef3fed8ceb34075aef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3cc80989139dcfef3fed8ceb34075aef]: Textual amendment: Order revoked (25.9.2020) by [The Competition Act 1998 (Coronavirus) (Public Policy Exclusions) (Amendment and Revocation) Order 2020 (S.I. 2020/933)](https://www.legislation.gov.uk/uksi/2020/933), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/933/article/1/2), [3](https://www.legislation.gov.uk/uksi/2020/933/article/3)
+[^c-3cc80989139dcfef3fed8ceb34075aef]: Textual amendment: Order revoked (25.9.2020) by [The Competition Act 1998 (Coronavirus) (Public Policy Exclusions) (Amendment and Revocation) Order 2020 (S.I. 2020/933)](https://www.legislation.gov.uk/uksi/2020/933), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/933/article/1/2), [3](https://www.legislation.gov.uk/uksi/2020/933/article/3)

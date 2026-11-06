@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 123. Introductory[^key-8c3d2df0f5eab197206f19060f161de6]
+## 123. Introductory[^c-8c3d2df0f5eab197206f19060f161de6]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-8c3d2df0f5eab197206f19060f161de6]: Commencement: Rule 123 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-8c3d2df0f5eab197206f19060f161de6]: Commencement: Rule 123 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
 
 [^f00020]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 170. Commencement and transitional provision[^key-d4e8472e67696cefaa6e4887d14c5d4a]
+## 170. Commencement and transitional provision[^c-d4e8472e67696cefaa6e4887d14c5d4a]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d4e8472e67696cefaa6e4887d14c5d4a]: Commencement: S. 170 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)
+[^c-d4e8472e67696cefaa6e4887d14c5d4a]: Commencement: S. 170 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Alternative method for submission of primary bid form[^key-70befe896dc1656cd323e28b45745c8a]
+## 55. Alternative method for submission of primary bid form[^c-70befe896dc1656cd323e28b45745c8a]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-70befe896dc1656cd323e28b45745c8a]: Commencement: Reg. 55 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-70befe896dc1656cd323e28b45745c8a]: Commencement: Reg. 55 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

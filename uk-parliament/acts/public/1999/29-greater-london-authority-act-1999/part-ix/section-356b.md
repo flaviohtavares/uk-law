@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 356B. Supplemental provision concerning the Board[^key-8d61584666a9240d83b38aef937cb1c9]
+## 356B. Supplemental provision concerning the Board[^c-8d61584666a9240d83b38aef937cb1c9]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ and the property of the Board shall not be regarded as property of, or property 
 
 ## Annotations
 
-[^key-8d61584666a9240d83b38aef937cb1c9]: Textual amendment: Ss. 356A, 356B inserted (23.10.2007 for specified purposes, 24.7.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/38/1), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/2037](https://www.legislation.gov.uk/uksi/2008/2037), [art. 2](https://www.legislation.gov.uk/uksi/2008/2037/article/2)
+[^c-8d61584666a9240d83b38aef937cb1c9]: Textual amendment: Ss. 356A, 356B inserted (23.10.2007 for specified purposes, 24.7.2008 in so far as not already in force) by [Greater London Authority Act 2007 (c. 24)](https://www.legislation.gov.uk/ukpga/2007/24), [ss. 38(1)](https://www.legislation.gov.uk/ukpga/2007/24/section/38/1), [59(4)(b)](https://www.legislation.gov.uk/ukpga/2007/24/section/59/4/b); [S.I. 2008/2037](https://www.legislation.gov.uk/uksi/2008/2037), [art. 2](https://www.legislation.gov.uk/uksi/2008/2037/article/2)

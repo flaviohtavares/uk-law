@@ -32,7 +32,7 @@ summary: ''
 
 FOOD
 
-The Curd Cheese (Restriction on Placing on the Market) (Scotland) Regulations 2006 (revoked)[^key-045dcbfc95d030e5ca47cf8846c1299c]
+The Curd Cheese (Restriction on Placing on the Market) (Scotland) Regulations 2006 (revoked)[^c-045dcbfc95d030e5ca47cf8846c1299c]
 
 Made
 
@@ -46,42 +46,42 @@ Coming into force
 
 20th October 2006
 
-[^key-045dcbfc95d030e5ca47cf8846c1299c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-045dcbfc95d030e5ca47cf8846c1299c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-045dcbfc95d030e5ca47cf8846c1299c]
+## 1. Citation, commencement and extent[^c-045dcbfc95d030e5ca47cf8846c1299c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-045dcbfc95d030e5ca47cf8846c1299c]
+## 2. Interpretation[^c-045dcbfc95d030e5ca47cf8846c1299c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibition on the placing on the market of curd cheese[^key-045dcbfc95d030e5ca47cf8846c1299c]
+## 3. Prohibition on the placing on the market of curd cheese[^c-045dcbfc95d030e5ca47cf8846c1299c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Application of various provisions of the Food Safety Act 1990[^key-045dcbfc95d030e5ca47cf8846c1299c]
+## 4. Application of various provisions of the Food Safety Act 1990[^c-045dcbfc95d030e5ca47cf8846c1299c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Inspection and seizure of suspected products[^key-045dcbfc95d030e5ca47cf8846c1299c]
+## 5. Inspection and seizure of suspected products[^c-045dcbfc95d030e5ca47cf8846c1299c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Offences and penalties[^key-045dcbfc95d030e5ca47cf8846c1299c]
+## 6. Offences and penalties[^c-045dcbfc95d030e5ca47cf8846c1299c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Enforcement[^key-045dcbfc95d030e5ca47cf8846c1299c]
+## 7. Enforcement[^c-045dcbfc95d030e5ca47cf8846c1299c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-045dcbfc95d030e5ca47cf8846c1299c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-045dcbfc95d030e5ca47cf8846c1299c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-045dcbfc95d030e5ca47cf8846c1299c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-045dcbfc95d030e5ca47cf8846c1299c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-045dcbfc95d030e5ca47cf8846c1299c]: Textual amendment: Regulations revoked (8.3.2007) by [The Curd Cheese (Restriction on Placing on the Market) (Scotland) Revocation Regulations 2007 (S.S.I. 2007/188)](https://www.legislation.gov.uk/ssi/2007/188), [regs. 1](https://www.legislation.gov.uk/ssi/2007/188/regulation/1), [2](https://www.legislation.gov.uk/ssi/2007/188/regulation/2)
+[^c-045dcbfc95d030e5ca47cf8846c1299c]: Textual amendment: Regulations revoked (8.3.2007) by [The Curd Cheese (Restriction on Placing on the Market) (Scotland) Revocation Regulations 2007 (S.S.I. 2007/188)](https://www.legislation.gov.uk/ssi/2007/188), [regs. 1](https://www.legislation.gov.uk/ssi/2007/188/regulation/1), [2](https://www.legislation.gov.uk/ssi/2007/188/regulation/2)

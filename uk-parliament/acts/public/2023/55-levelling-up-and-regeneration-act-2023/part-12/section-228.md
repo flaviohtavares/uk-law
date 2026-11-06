@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 228. Registration of short-term rental properties[^key-2ecfcb5c7c9026a418ba4e5c33f1dc8b]
+## 228. Registration of short-term rental properties[^c-2ecfcb5c7c9026a418ba4e5c33f1dc8b]
 
 *Extent: E+W*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ecfcb5c7c9026a418ba4e5c33f1dc8b]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2023/55/section/228) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)
+[^c-2ecfcb5c7c9026a418ba4e5c33f1dc8b]: Commencement: [S. 228](https://www.legislation.gov.uk/ukpga/2023/55/section/228) in force at 26.12.2023, see [s. 255(9)(b)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/b)

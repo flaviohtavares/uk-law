@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 63. Treatment of payments from access funds[^key-fda48c2e5761bb1cea1d882c74783acd]
+## 63. Treatment of payments from access funds[^c-fda48c2e5761bb1cea1d882c74783acd]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) A payment from access funds, other than a payment to which paragraph (3) applies, shall be disregarded as income.
 
-(3) Subject to paragraph (5) and paragraph 35 of Schedule 6, any payments from access funds which are intended and used for food, household fuel, rent or rates or both or ordinary clothing or footwear, of a single claimant or any other member of his family , and any payments from access funds which are used for any water charges for which that claimant or member is liable[^key-9a670ccfb6d441f60211fada693eebf0] shall be disregarded as income to the extent of £20 per week.
+(3) Subject to paragraph (5) and paragraph 35 of Schedule 6, any payments from access funds which are intended and used for food, household fuel, rent or rates or both or ordinary clothing or footwear, of a single claimant or any other member of his family , and any payments from access funds which are used for any water charges for which that claimant or member is liable[^c-9a670ccfb6d441f60211fada693eebf0] shall be disregarded as income to the extent of £20 per week.
 
 (4) For the purposes of paragraph (3), “**rent or rates**” means eligible rent or rates less any deductions in respect of non-dependants which fall to be made under regulation 72.
 
@@ -37,6 +37,6 @@ that payment shall be disregarded as income.
 
 ## Annotations
 
-[^key-fda48c2e5761bb1cea1d882c74783acd]: Commencement: [Reg. 63](https://www.legislation.gov.uk/nisr/2006/405/regulation/63) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
+[^c-fda48c2e5761bb1cea1d882c74783acd]: Commencement: [Reg. 63](https://www.legislation.gov.uk/nisr/2006/405/regulation/63) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/405/regulation/1/1)
 
-[^key-9a670ccfb6d441f60211fada693eebf0]: Textual amendment: Words in [reg. 63(3)](https://www.legislation.gov.uk/nisr/2006/405/regulation/63/3) inserted (2.4.2007) by [The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/196)](https://www.legislation.gov.uk/nisr/2007/196), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1), [7(7)](https://www.legislation.gov.uk/nisr/2007/196/regulation/7/7)
+[^c-9a670ccfb6d441f60211fada693eebf0]: Textual amendment: Words in [reg. 63(3)](https://www.legislation.gov.uk/nisr/2006/405/regulation/63/3) inserted (2.4.2007) by [The Social Security and Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/196)](https://www.legislation.gov.uk/nisr/2007/196), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/196/regulation/1/1), [7(7)](https://www.legislation.gov.uk/nisr/2007/196/regulation/7/7)

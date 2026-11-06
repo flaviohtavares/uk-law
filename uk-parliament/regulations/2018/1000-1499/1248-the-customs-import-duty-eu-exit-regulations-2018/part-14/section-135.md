@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 135. Requested attendance further to section 159(1) of CEMA 1979[^key-9d78f7ea686f0bd5929927fdfc84d0da][^key-60e2efcc2f85928a995ae98dd1574c9c][^key-60e2efcc2f85928a995ae98dd1574c9c]
+## 135. Requested attendance further to section 159(1) of CEMA 1979[^c-9d78f7ea686f0bd5929927fdfc84d0da][^c-60e2efcc2f85928a995ae98dd1574c9c][^c-60e2efcc2f85928a995ae98dd1574c9c]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,8 +29,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9d78f7ea686f0bd5929927fdfc84d0da]: Commencement: Reg. 135 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-9d78f7ea686f0bd5929927fdfc84d0da]: Commencement: Reg. 135 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-60e2efcc2f85928a995ae98dd1574c9c]: Modification: Pt. 14 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-60e2efcc2f85928a995ae98dd1574c9c]: Modification: Pt. 14 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
 [^c23522591]: Marginal citation: Section 159(1) of CEMA 1979 is amended by Schedule 1 to the Isle of Man Act 1979, Schedule 4 to the [Finance Act 1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43), [section 117](https://www.legislation.gov.uk/ukpga/1984/43/section/117) of the [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9) and paragraph 107 of Schedule 7 to the Act.

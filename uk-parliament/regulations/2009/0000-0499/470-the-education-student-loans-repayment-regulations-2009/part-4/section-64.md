@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Death of employer[^key-2c71cb902dec4a0ccfd5bda7bca0d01d]
+## 64. Death of employer[^c-2c71cb902dec4a0ccfd5bda7bca0d01d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If an employer dies, anything which that employer would have been liable to do u
 
 ## Annotations
 
-[^key-2c71cb902dec4a0ccfd5bda7bca0d01d]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2009/470/regulation/64) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)
+[^c-2c71cb902dec4a0ccfd5bda7bca0d01d]: Commencement: [Reg. 64](https://www.legislation.gov.uk/uksi/2009/470/regulation/64) in force at 6.4.2009, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2009/470/regulation/1/1)

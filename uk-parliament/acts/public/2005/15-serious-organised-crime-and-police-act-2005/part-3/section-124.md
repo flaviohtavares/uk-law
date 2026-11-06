@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Interpretation of Part 3[^key-bda146146dd24c335c894a9f8d261859]
+## 124. Interpretation of Part 3[^c-bda146146dd24c335c894a9f8d261859]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In this Part, “**PACE**” means the Police and Criminal Evidence Act 1984 (c.
 
 ## Annotations
 
-[^key-bda146146dd24c335c894a9f8d261859]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2005/15/section/124) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(l)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/l)
+[^c-bda146146dd24c335c894a9f8d261859]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2005/15/section/124) in force at 1.7.2005 by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 3(1)(l)](https://www.legislation.gov.uk/uksi/2005/1521/article/3/1/l)

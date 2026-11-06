@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Contrary provision to Schedule 1 and consequential modification of enactments etc. as a result[^key-b104416d9cfc35621454c21834bc97a9]
+## 5. Contrary provision to Schedule 1 and consequential modification of enactments etc. as a result[^c-b104416d9cfc35621454c21834bc97a9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b104416d9cfc35621454c21834bc97a9]: Commencement: Art. 5 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)
+[^c-b104416d9cfc35621454c21834bc97a9]: Commencement: Art. 5 in force at 16.12.2014, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3229/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 472. Meaning of “control”[^key-19bffc69f2e9e923723258d95cd7c542][^key-4e5eac5855cfaed5973f003d77485d79][^key-4e5eac5855cfaed5973f003d77485d79]
+## 472. Meaning of “control”[^c-19bffc69f2e9e923723258d95cd7c542][^c-4e5eac5855cfaed5973f003d77485d79][^c-4e5eac5855cfaed5973f003d77485d79]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 (4) For the purposes of subsection (3) shares held by a company are trading shares if—
 
 - (a) a profit on a sale of the shares would be treated as a trading receipt of a trade carried on by the company, and
-- (b) the shares are not assets held by an insurance company for the purposes of its long-term business[^key-daaabf0b37f79f5d1601f0411587c5c2].
+- (b) the shares are not assets held by an insurance company for the purposes of its long-term business[^c-daaabf0b37f79f5d1601f0411587c5c2].
 
 (5) Subsection (6) applies in the case of any firm to which section 1259 (calculation of firm's profits and losses) applies.
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-19bffc69f2e9e923723258d95cd7c542]: Modification: S. 472 applied by 2010 c. 4, s. 357BC(10) (as inserted (with effect in accordance with Sch. 2 para. 7 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1))
+[^c-19bffc69f2e9e923723258d95cd7c542]: Modification: S. 472 applied by 2010 c. 4, s. 357BC(10) (as inserted (with effect in accordance with Sch. 2 para. 7 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/2/paragraph/1/1))
 
-[^key-4e5eac5855cfaed5973f003d77485d79]: Modification: Pt. 5 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-4e5eac5855cfaed5973f003d77485d79]: Modification: Pt. 5 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
 
-[^key-daaabf0b37f79f5d1601f0411587c5c2]: Textual amendment: Words in s. 472(4)(b) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 160](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/160)
+[^c-daaabf0b37f79f5d1601f0411587c5c2]: Textual amendment: Words in s. 472(4)(b) substituted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 16 para. 160](https://www.legislation.gov.uk/ukpga/2012/14/schedule/16/paragraph/160)

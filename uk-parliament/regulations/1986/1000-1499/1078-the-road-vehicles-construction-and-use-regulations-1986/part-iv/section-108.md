@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 108. Securing of suspended implements[^key-a60cc60b4f2f6e10a6a30bc4202d37fc]
+## 108. Securing of suspended implements[^c-a60cc60b4f2f6e10a6a30bc4202d37fc]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Where a vehicle is fitted with any apparatus or appliance designed for lifting a
 
 ## Annotations
 
-[^key-a60cc60b4f2f6e10a6a30bc4202d37fc]: Commencement: [Reg. 108](https://www.legislation.gov.uk/uksi/1986/1078/regulation/108) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-a60cc60b4f2f6e10a6a30bc4202d37fc]: Commencement: [Reg. 108](https://www.legislation.gov.uk/uksi/1986/1078/regulation/108) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

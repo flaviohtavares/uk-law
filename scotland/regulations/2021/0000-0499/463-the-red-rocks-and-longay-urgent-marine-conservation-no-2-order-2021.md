@@ -34,7 +34,7 @@ Environmental Protection
 
 Marine Management
 
-The Red Rocks and Longay Urgent Marine Conservation (No. 2) Order 2021 (revoked) [^key-ee049bc0d99f5413baf8162e90416c8b]
+The Red Rocks and Longay Urgent Marine Conservation (No. 2) Order 2021 (revoked) [^c-ee049bc0d99f5413baf8162e90416c8b]
 
 Made
 
@@ -48,46 +48,46 @@ Coming into force
 
 16th December 2021
 
-[^key-ee049bc0d99f5413baf8162e90416c8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee049bc0d99f5413baf8162e90416c8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and duration in force[^key-ee049bc0d99f5413baf8162e90416c8b]
+## 1. Citation, commencement and duration in force[^c-ee049bc0d99f5413baf8162e90416c8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-ee049bc0d99f5413baf8162e90416c8b]
+## 2. Interpretation[^c-ee049bc0d99f5413baf8162e90416c8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The protected area[^key-ee049bc0d99f5413baf8162e90416c8b]
+## 3. The protected area[^c-ee049bc0d99f5413baf8162e90416c8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prohibited and regulated activities[^key-ee049bc0d99f5413baf8162e90416c8b]
+## 4. Prohibited and regulated activities[^c-ee049bc0d99f5413baf8162e90416c8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Authorisation of particular activities for the purpose of scientific research[^key-ee049bc0d99f5413baf8162e90416c8b]
+## 5. Authorisation of particular activities for the purpose of scientific research[^c-ee049bc0d99f5413baf8162e90416c8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Delegation of authorisation[^key-ee049bc0d99f5413baf8162e90416c8b]
+## 6. Delegation of authorisation[^c-ee049bc0d99f5413baf8162e90416c8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Disapplication of exception to the offences under sections 94 and 95 of the Marine (Scotland) Act 2010[^key-ee049bc0d99f5413baf8162e90416c8b]
+## 7. Disapplication of exception to the offences under sections 94 and 95 of the Marine (Scotland) Act 2010[^c-ee049bc0d99f5413baf8162e90416c8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Revocation[^key-ee049bc0d99f5413baf8162e90416c8b]
+## 8. Revocation[^c-ee049bc0d99f5413baf8162e90416c8b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ee049bc0d99f5413baf8162e90416c8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee049bc0d99f5413baf8162e90416c8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ee049bc0d99f5413baf8162e90416c8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ee049bc0d99f5413baf8162e90416c8b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ee049bc0d99f5413baf8162e90416c8b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2021/463) revoked (9.2.2023) by [The Red Rocks and Longay Marine Conservation Order 2022 (S.S.I. 2022/372)](https://www.legislation.gov.uk/ssi/2022/372), [arts. 1](https://www.legislation.gov.uk/ssi/2022/372/article/1), [8](https://www.legislation.gov.uk/ssi/2022/372/article/8)
+[^c-ee049bc0d99f5413baf8162e90416c8b]: Textual amendment: [Order](https://www.legislation.gov.uk/ssi/2021/463) revoked (9.2.2023) by [The Red Rocks and Longay Marine Conservation Order 2022 (S.S.I. 2022/372)](https://www.legislation.gov.uk/ssi/2022/372), [arts. 1](https://www.legislation.gov.uk/ssi/2022/372/article/1), [8](https://www.legislation.gov.uk/ssi/2022/372/article/8)

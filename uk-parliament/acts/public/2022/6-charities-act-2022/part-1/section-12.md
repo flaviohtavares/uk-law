@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Power to borrow from permanent endowment[^key-a83e4b72a1389a5c1e55d4e70c48a9cc][^key-09c919e04e2071998ed513b2fff1983d]
+## 12. Power to borrow from permanent endowment[^c-a83e4b72a1389a5c1e55d4e70c48a9cc][^c-09c919e04e2071998ed513b2fff1983d]
 
 *Extent: E+W*
 
@@ -139,6 +139,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a83e4b72a1389a5c1e55d4e70c48a9cc]: Commencement: S. 12 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-a83e4b72a1389a5c1e55d4e70c48a9cc]: Commencement: S. 12 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-09c919e04e2071998ed513b2fff1983d]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/6/section/12) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/4)
+[^c-09c919e04e2071998ed513b2fff1983d]: Commencement: [S. 12](https://www.legislation.gov.uk/ukpga/2022/6/section/12) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — REPEALS AND REVOCATIONS[^key-a05ebb47155b6bb76b6cd1fa08570430][^key-10193c8ef69ec19cee99b15cba3970e2]
+## SCHEDULE 2 — REPEALS AND REVOCATIONS[^c-a05ebb47155b6bb76b6cd1fa08570430][^c-10193c8ef69ec19cee99b15cba3970e2]
 
 *Extent: E+W+S+N.I.*
 
@@ -115,6 +115,6 @@ Article 3(2)
 
 ## Annotations
 
-[^key-a05ebb47155b6bb76b6cd1fa08570430]: Commencement: Sch. 2 in force at 26.3.2001 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2)
+[^c-a05ebb47155b6bb76b6cd1fa08570430]: Commencement: Sch. 2 in force at 26.3.2001 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/2)
 
-[^key-10193c8ef69ec19cee99b15cba3970e2]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2) in force at 1.5.2007 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/3)
+[^c-10193c8ef69ec19cee99b15cba3970e2]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2001/1149/schedule/2) in force at 1.5.2007 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/uksi/2001/1149/article/1/3)

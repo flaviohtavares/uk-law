@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by section 53)
 
-**1.**[^key-2da74c7949919236b1edae446da3a16e] (1) Section 69 of the 1980 Act is repealed.
+**1.**[^c-2da74c7949919236b1edae446da3a16e] (1) Section 69 of the 1980 Act is repealed.
 
 (2) In the Natural Heritage (Scotland) Act 1991—
 
@@ -30,10 +30,10 @@ summary: ''
 - (b) section 24 is repealed,
 - (c) Schedules 7, 8 and 9 are repealed.
 
-**2.**[^key-6595c929bd06a306aab714834ab2ec80] Section 26 of the 2003 Act is repealed.
+**2.**[^c-6595c929bd06a306aab714834ab2ec80] Section 26 of the 2003 Act is repealed.
 
 ## Annotations
 
-[^key-2da74c7949919236b1edae446da3a16e]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2013/5/schedule/4/paragraph/1) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-2da74c7949919236b1edae446da3a16e]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2013/5/schedule/4/paragraph/1) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
 
-[^key-6595c929bd06a306aab714834ab2ec80]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2013/5/schedule/4/paragraph/2) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)
+[^c-6595c929bd06a306aab714834ab2ec80]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2013/5/schedule/4/paragraph/2) in force at 10.6.2013 by [S.S.I. 2013/163](https://www.legislation.gov.uk/ssi/2013/163), [art. 3](https://www.legislation.gov.uk/ssi/2013/163/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2013/163/schedule)

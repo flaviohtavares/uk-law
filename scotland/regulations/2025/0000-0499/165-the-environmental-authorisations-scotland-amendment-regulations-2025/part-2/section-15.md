@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Amendment of regulation 28 (effect of transfer)[^key-50d3e6ea5dadb79fffc79dec16469a4a]
+## 15. Amendment of regulation 28 (effect of transfer)[^c-50d3e6ea5dadb79fffc79dec16469a4a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation 28(1) (effect of transfer), for “permit being transferred”, su
 
 ## Annotations
 
-[^key-50d3e6ea5dadb79fffc79dec16469a4a]: Commencement: Reg. 15 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)
+[^c-50d3e6ea5dadb79fffc79dec16469a4a]: Commencement: Reg. 15 in force at 1.6.2025, see [reg. 1(3)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/3)

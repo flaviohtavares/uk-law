@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Meaning of “assumed pay”[^key-3c3ee60cce4973d2bc85fe9f1b9cc3f2]
+## 24. Meaning of “assumed pay”[^c-3c3ee60cce4973d2bc85fe9f1b9cc3f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c3ee60cce4973d2bc85fe9f1b9cc3f2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/182/regulation/24) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-3c3ee60cce4973d2bc85fe9f1b9cc3f2]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2015/182/regulation/24) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

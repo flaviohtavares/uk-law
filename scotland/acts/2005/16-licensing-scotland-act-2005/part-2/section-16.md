@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Training of Licensing Standards Officers[^key-d5b8986d44222f0e9f9d2a3ea9e4eb1a]
+## 16. Training of Licensing Standards Officers[^c-d5b8986d44222f0e9f9d2a3ea9e4eb1a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5b8986d44222f0e9f9d2a3ea9e4eb1a]: Commencement: S. 16 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-d5b8986d44222f0e9f9d2a3ea9e4eb1a]: Commencement: S. 16 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

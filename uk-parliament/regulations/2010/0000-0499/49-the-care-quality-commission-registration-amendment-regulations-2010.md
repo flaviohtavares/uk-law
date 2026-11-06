@@ -38,7 +38,7 @@ Social Care, England
 
 Public Health, England
 
-The Care Quality Commission (Registration) Amendment Regulations 2010 (revoked)[^key-039e7e665a852a78f3a25bef2f830d90]
+The Care Quality Commission (Registration) Amendment Regulations 2010 (revoked)[^c-039e7e665a852a78f3a25bef2f830d90]
 
 Made
 
@@ -52,24 +52,24 @@ Coming into force
 
 1st April 2010
 
-[^key-039e7e665a852a78f3a25bef2f830d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-039e7e665a852a78f3a25bef2f830d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-039e7e665a852a78f3a25bef2f830d90]
+## 1. Citation and commencement[^c-039e7e665a852a78f3a25bef2f830d90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Penalty notices for offences created by regulation 25 of the Care Quality Commission (Registration) Regulations 2009[^key-039e7e665a852a78f3a25bef2f830d90]
+## 2. Penalty notices for offences created by regulation 25 of the Care Quality Commission (Registration) Regulations 2009[^c-039e7e665a852a78f3a25bef2f830d90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-039e7e665a852a78f3a25bef2f830d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-039e7e665a852a78f3a25bef2f830d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-039e7e665a852a78f3a25bef2f830d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-039e7e665a852a78f3a25bef2f830d90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-039e7e665a852a78f3a25bef2f830d90]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/49) revoked (18.6.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a), [12](https://www.legislation.gov.uk/uksi/2012/921/regulation/12)
+[^c-039e7e665a852a78f3a25bef2f830d90]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/49) revoked (18.6.2012) by [The Care Quality Commission (Registration) and (Additional Functions) and Health and Social Care Act 2008 (Regulated Activities) (Amendment) Regulations 2012 (S.I. 2012/921)](https://www.legislation.gov.uk/uksi/2012/921), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2012/921/regulation/1/2/a), [12](https://www.legislation.gov.uk/uksi/2012/921/regulation/12)

@@ -64,7 +64,7 @@ there shall be substituted “ Transport for London ”.
 
 #### The London Hackney Carriage (No. 2) Act 1853
 
-**4.**[^key-2def7494744a51aa1d069e0e13ed6204] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-2def7494744a51aa1d069e0e13ed6204] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Metropolitan Public Carriage Act 1869
 
@@ -337,14 +337,14 @@ shall have effect as from the coming force of that paragraph as if it had been i
 
 #### The London Hackney Carriage (No. 2) Act 1853
 
-**13.**[^key-b0c3c1153007bf27d848947b5c7234c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-b0c3c1153007bf27d848947b5c7234c7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Metropolitan Public Carriage Act 1869
 
 **14.** (1) Any order—
 
 - (a) made by or on behalf of the Secretary of State under or by virtue of any enactment contained in the [^c12810801]Metropolitan Public Carriage Act 1869, and
-- (b) in force immediately before the coming into force of any provision of paragraph 5[^key-24c5a9c48ad7f4059d0b4c884115edeb] above in relation to that enactment,
+- (b) in force immediately before the coming into force of any provision of paragraph 5[^c-24c5a9c48ad7f4059d0b4c884115edeb] above in relation to that enactment,
 
 shall, to the extent that the provision made by the order could be made by Transport for London, have effect as from the coming into force of that provision in relation to that enactment as a London cab order, but with the substitution for references to the Secretary of State of references to Transport for London.
 
@@ -386,7 +386,7 @@ shall, to the extent that the provision made by the order could be made by Trans
 
 [^c12810691]: Marginal citation: [1853 c. 33](https://www.legislation.gov.uk/ukpga/1853/33).
 
-[^key-2def7494744a51aa1d069e0e13ed6204]: Textual amendment: Sch. 20 para. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-2def7494744a51aa1d069e0e13ed6204]: Textual amendment: Sch. 20 para. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c12810711]: Marginal citation: [1869 c. 115](https://www.legislation.gov.uk/ukpga/1869/115).
 
@@ -404,11 +404,11 @@ shall, to the extent that the provision made by the order could be made by Trans
 
 [^c12810781]: Marginal citation: [1853 c. 33](https://www.legislation.gov.uk/ukpga/1853/33).
 
-[^key-b0c3c1153007bf27d848947b5c7234c7]: Textual amendment: Sch. 20 para. 13 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-b0c3c1153007bf27d848947b5c7234c7]: Textual amendment: Sch. 20 para. 13 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c12810801]: Marginal citation: [1869 c. 115](https://www.legislation.gov.uk/ukpga/1869/115).
 
-[^key-24c5a9c48ad7f4059d0b4c884115edeb]: Textual amendment: Words in Sch. 20 para. 14(1)(b) substituted (4.7.2016) by [Transport for London Act 2016 (c. i)](https://www.legislation.gov.uk/ukla/2016/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2016/1/section/1/1), [7](https://www.legislation.gov.uk/ukla/2016/1/section/7)
+[^c-24c5a9c48ad7f4059d0b4c884115edeb]: Textual amendment: Words in Sch. 20 para. 14(1)(b) substituted (4.7.2016) by [Transport for London Act 2016 (c. i)](https://www.legislation.gov.uk/ukla/2016/1), [ss. 1(1)](https://www.legislation.gov.uk/ukla/2016/1/section/1/1), [7](https://www.legislation.gov.uk/ukla/2016/1/section/7)
 
 [^c12810811]: Marginal citation: [1907 c. 55](https://www.legislation.gov.uk/ukpga/1907/55).
 

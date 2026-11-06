@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 101. Interpretation[^key-dd7568ff30a84cb6f468bdbe490278c5]
+## 101. Interpretation[^c-dd7568ff30a84cb6f468bdbe490278c5]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd7568ff30a84cb6f468bdbe490278c5]: Commencement: S. 101 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)
+[^c-dd7568ff30a84cb6f468bdbe490278c5]: Commencement: S. 101 in force at Royal Assent, see [s. 108(1)(a)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/a)

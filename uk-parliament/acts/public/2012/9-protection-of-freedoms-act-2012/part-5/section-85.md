@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Inclusion of cautions etc. in national police records[^key-1b75e112e6c89577cf6f1de2b8fa9244]
+## 85. Inclusion of cautions etc. in national police records[^c-1b75e112e6c89577cf6f1de2b8fa9244]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ After subsection (4) of section 27 of the Police and Criminal Evidence Act 1984 
 
 ## Annotations
 
-[^key-1b75e112e6c89577cf6f1de2b8fa9244]: Commencement: S. 85 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(w)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/w)
+[^c-1b75e112e6c89577cf6f1de2b8fa9244]: Commencement: S. 85 in force at 1.7.2012 by [S.I. 2012/1205](https://www.legislation.gov.uk/uksi/2012/1205), [art. 3(w)](https://www.legislation.gov.uk/uksi/2012/1205/article/3/w)

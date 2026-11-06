@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection
 
-The Regulatory Reform (Specification of Basic Safety Standards Directive) (Scotland) Order 2018 (revoked)[^key-38bee400d8495abc6d1ca9b22a457a87]
+The Regulatory Reform (Specification of Basic Safety Standards Directive) (Scotland) Order 2018 (revoked)[^c-38bee400d8495abc6d1ca9b22a457a87]
 
 Made
 
@@ -46,23 +46,23 @@ Coming into force
 
 27th June 2018
 
-[^key-38bee400d8495abc6d1ca9b22a457a87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38bee400d8495abc6d1ca9b22a457a87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-38bee400d8495abc6d1ca9b22a457a87]
+## 1. Citation and commencement[^c-38bee400d8495abc6d1ca9b22a457a87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specification[^key-38bee400d8495abc6d1ca9b22a457a87]
+## 2. Specification[^c-38bee400d8495abc6d1ca9b22a457a87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-38bee400d8495abc6d1ca9b22a457a87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-38bee400d8495abc6d1ca9b22a457a87]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-38bee400d8495abc6d1ca9b22a457a87]EXPLANATORY NOTE
+[^c-38bee400d8495abc6d1ca9b22a457a87]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -76,4 +76,4 @@ No business and regulatory impact assessment has been prepared for this Order as
 
 ## Annotations
 
-[^key-38bee400d8495abc6d1ca9b22a457a87]: Textual amendment: Order revoked (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [reg. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2019/436/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-38bee400d8495abc6d1ca9b22a457a87]: Textual amendment: Order revoked (31.12.2020) by [The Environment (EU Exit) (Scotland) (Amendment etc.) (No. 2) Regulations 2019 (S.S.I. 2019/436)](https://www.legislation.gov.uk/ssi/2019/436), [reg. 1](https://www.legislation.gov.uk/ssi/2019/436/regulation/1), [sch.](https://www.legislation.gov.uk/ssi/2019/436/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

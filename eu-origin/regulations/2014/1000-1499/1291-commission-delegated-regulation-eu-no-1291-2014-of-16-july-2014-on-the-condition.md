@@ -59,7 +59,7 @@ HAS ADOPTED THIS REGULATION:
 
 **Article 2.** This Regulation shall enter into force on the twentieth day following that of its publication in the *Official Journal of the European Union*.
 
-[^key-c1d101a685023767cc3d6cf9e7f2e0a5]This Regulation shall be binding in its entirety and directly applicable in all Member States.
+[^c-c1d101a685023767cc3d6cf9e7f2e0a5]This Regulation shall be binding in its entirety and directly applicable in all Member States.
 
 Done at Brussels, 16 July 2014.
 
@@ -113,7 +113,7 @@ José Manuel Barroso
 
 [^f00002]: Footnote: Commission Decision 2000/367/EC of 3 May 2000 implementing Council Directive 89/106/EEC as regards the classification of the resistance to fire performance of construction products, construction works and parts thereof ([OJ L 133, 6.6.2000, p. 26](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2000.133.01.0026.01.ENG)).
 
-[^key-c1d101a685023767cc3d6cf9e7f2e0a5]: Modification: [Signature](https://www.legislation.gov.uk/eur/2014/1291/signature) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/7) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(j)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/j)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c1d101a685023767cc3d6cf9e7f2e0a5]: Modification: [Signature](https://www.legislation.gov.uk/eur/2014/1291/signature) modified (31.12.2020) by [The Construction Products (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/465)](https://www.legislation.gov.uk/uksi/2019/465), [reg. 1](https://www.legislation.gov.uk/uksi/2019/465/regulation/1), [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/2019/465/schedule/3/paragraph/7) (as amended by [S.I. 2020/1359](https://www.legislation.gov.uk/uksi/2020/1359), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1359/regulation/1), [3(4)(j)](https://www.legislation.gov.uk/uksi/2020/1359/regulation/3/4/j)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00003]: Footnote: Mounted directly on any substrate without an air gap.
 

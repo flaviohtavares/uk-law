@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 6 — Revocation of instruments[^key-38086a448d2716c70448019026e0b786]
+## SCHEDULE 6 — Revocation of instruments[^c-38086a448d2716c70448019026e0b786]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ Regulation 49
 
 ## Annotations
 
-[^key-38086a448d2716c70448019026e0b786]: Commencement: Sch. 6 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)
+[^c-38086a448d2716c70448019026e0b786]: Commencement: Sch. 6 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/421/regulation/1/1)

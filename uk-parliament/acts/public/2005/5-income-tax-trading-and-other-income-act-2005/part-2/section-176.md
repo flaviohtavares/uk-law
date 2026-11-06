@@ -22,7 +22,7 @@ summary: ''
 
 (1) The value of trading stock is determined in accordance with this section if—
 
-- (a) it is sold to a person who carries on, or intends to carry on, a trade, profession or vocation[^key-1dad3ae3a6c6550c8565869d529888da] in the United Kingdom and is entitled to deduct the cost of the stock as an expense in calculating the profits of that trade, profession or vocation for income or corporation tax purposes, and
+- (a) it is sold to a person who carries on, or intends to carry on, a trade, profession or vocation[^c-1dad3ae3a6c6550c8565869d529888da] in the United Kingdom and is entitled to deduct the cost of the stock as an expense in calculating the profits of that trade, profession or vocation for income or corporation tax purposes, and
 - (b) the buyer is not connected with the seller.
 
 (2) The value is taken to be the amount in fact realised on the sale.
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dad3ae3a6c6550c8565869d529888da]: Textual amendment: Words in s. 176(1)(a) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 606](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/606) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-1dad3ae3a6c6550c8565869d529888da]: Textual amendment: Words in s. 176(1)(a) inserted (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 606](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/606) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## C2. Ordinary contributions[^key-0f29dadb686b30898a3562ef89861803]
+## C2. Ordinary contributions[^c-0f29dadb686b30898a3562ef89861803]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f29dadb686b30898a3562ef89861803]: Commencement: Reg. C2 in operation at 2.11.1998, see reg. A1
+[^c-0f29dadb686b30898a3562ef89861803]: Commencement: Reg. C2 in operation at 2.11.1998, see reg. A1

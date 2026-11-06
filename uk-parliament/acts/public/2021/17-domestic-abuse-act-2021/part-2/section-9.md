@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Advice and assistance[^key-793f21302f2a8768e81cb9fef4116bdd]
+## 9. Advice and assistance[^c-793f21302f2a8768e81cb9fef4116bdd]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-793f21302f2a8768e81cb9fef4116bdd]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/17/section/9) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)
+[^c-793f21302f2a8768e81cb9fef4116bdd]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2021/17/section/9) in force at 1.11.2021 by [S.I. 2021/1038](https://www.legislation.gov.uk/uksi/2021/1038), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2021/1038/regulation/3/b)

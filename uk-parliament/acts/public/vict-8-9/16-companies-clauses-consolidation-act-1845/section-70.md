@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Northern Ireland.
 
-## 70. Extraordinary meetings may be required by shareholders.[^key-84a6fa364981d55719d3b8c0f185b903]
+## 70. Extraordinary meetings may be required by shareholders.[^c-84a6fa364981d55719d3b8c0f185b903]
 
 *Extent: E+W+N.I.*
 
@@ -24,4 +24,4 @@ It shall be lawful for the prescribed number of shareholders, holding in the agg
 
 ## Annotations
 
-[^key-84a6fa364981d55719d3b8c0f185b903]: Modification: [S. 70](https://www.legislation.gov.uk/ukpga/Vict/8-9/16/section/70) applied (with modifications) (25.3.2022) by [The Caernarfon and Dinas Welsh Highland Railway (Transfer and Governance) Order 2022 (S.I. 2022/375)](https://www.legislation.gov.uk/wsi/2022/375), [arts. 1](https://www.legislation.gov.uk/wsi/2022/375/article/1), [7](https://www.legislation.gov.uk/wsi/2022/375/article/7)
+[^c-84a6fa364981d55719d3b8c0f185b903]: Modification: [S. 70](https://www.legislation.gov.uk/ukpga/Vict/8-9/16/section/70) applied (with modifications) (25.3.2022) by [The Caernarfon and Dinas Welsh Highland Railway (Transfer and Governance) Order 2022 (S.I. 2022/375)](https://www.legislation.gov.uk/wsi/2022/375), [arts. 1](https://www.legislation.gov.uk/wsi/2022/375/article/1), [7](https://www.legislation.gov.uk/wsi/2022/375/article/7)

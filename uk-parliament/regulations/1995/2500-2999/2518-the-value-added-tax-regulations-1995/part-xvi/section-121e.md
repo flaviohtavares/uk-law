@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 121E. Repayment of import VAT to certain taxable persons[^key-59956cc5faeaf936db7d6139709ed794]
+## 121E. Repayment of import VAT to certain taxable persons[^c-59956cc5faeaf936db7d6139709ed794]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-59956cc5faeaf936db7d6139709ed794]: Textual amendment: [Reg. 121E](https://www.legislation.gov.uk/uksi/1995/2518/regulation/121E) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [28](https://www.legislation.gov.uk/uksi/2022/226/regulation/28)
+[^c-59956cc5faeaf936db7d6139709ed794]: Textual amendment: [Reg. 121E](https://www.legislation.gov.uk/uksi/1995/2518/regulation/121E) inserted (1.4.2022) by [The Value Added Tax (Enforcement Related to Distance Selling and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/226)](https://www.legislation.gov.uk/uksi/2022/226), [regs. 1](https://www.legislation.gov.uk/uksi/2022/226/regulation/1), [28](https://www.legislation.gov.uk/uksi/2022/226/regulation/28)

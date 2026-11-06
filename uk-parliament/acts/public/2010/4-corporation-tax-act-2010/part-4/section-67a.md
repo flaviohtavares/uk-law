@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67A. EEA furnished holiday lettings business treated as trade[^key-d5899d6f2269e6794c2f31ccb52b6ef8]
+## 67A. EEA furnished holiday lettings business treated as trade[^c-d5899d6f2269e6794c2f31ccb52b6ef8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5899d6f2269e6794c2f31ccb52b6ef8]: Textual amendment: [S. 67A](https://www.legislation.gov.uk/ukpga/2010/4/section/67A) omitted (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 6(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/6/3), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/17), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))
+[^c-d5899d6f2269e6794c2f31ccb52b6ef8]: Textual amendment: [S. 67A](https://www.legislation.gov.uk/ukpga/2010/4/section/67A) omitted (for the purposes of corporation tax in relation to accounting periods beginning on or after 1.4.2025) by virtue of [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [Sch. 5 paras. 6(3)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/6/3), [12(2)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/12/2) (with [Sch. 5 paras. 15](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/15), [17](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/17), [18(4)](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/18/4), [19](https://www.legislation.gov.uk/ukpga/2025/8/schedule/5/paragraph/19))

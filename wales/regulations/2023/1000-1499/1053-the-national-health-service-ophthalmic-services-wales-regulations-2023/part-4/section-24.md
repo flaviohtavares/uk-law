@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Procedure on suspension from a combined list[^key-caff524f63a0a0f34b88f27b68686746]
+## 24. Procedure on suspension from a combined list[^c-caff524f63a0a0f34b88f27b68686746]
 
 *Extent: E+W*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-caff524f63a0a0f34b88f27b68686746]: Commencement: Reg. 24 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-caff524f63a0a0f34b88f27b68686746]: Commencement: Reg. 24 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00025]: Footnote: Section 111 was amended by [S.I. 2010/22](https://www.legislation.gov.uk/uksi/2010/22), Schedule 2, paragraph 136.

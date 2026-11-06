@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269DO. Interpretation[^key-3e03660a4275e6ae3aa881f06df8542c]
+## 269DO. Interpretation[^c-3e03660a4275e6ae3aa881f06df8542c]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,19 +52,19 @@ summary: ''
 - (a) accepting deposits is ancillary to asset management activities the entity carries on, and
 - (b) the entity would not accept deposits but for the fact that it carries on asset management activities.
 
-(5A)[^key-5420954bc3823d3cd9ff4f4ce1fa6787] For the purposes of section 269BA(1A) (extension of certain exclusions under subsection (1) of that section) a line of business carried on by a company is not regarded as involving the relevant regulated activity described in the provision mentioned in section 269BB(a) if—
+(5A)[^c-5420954bc3823d3cd9ff4f4ce1fa6787] For the purposes of section 269BA(1A) (extension of certain exclusions under subsection (1) of that section) a line of business carried on by a company is not regarded as involving the relevant regulated activity described in the provision mentioned in section 269BB(a) if—
 
 - (a) the carrying on of that activity is ancillary to asset management activities the company carries on, and
 - (b) the company would not carry that activity on but for the fact that it carries on asset management activities.
 
-(6) In subsections (5) and (5A)[^key-78338db2f9fbe368efc442922673d0de] “**asset management activities**” has the meaning given by section 269BC(2).
+(6) In subsections (5) and (5A)[^c-78338db2f9fbe368efc442922673d0de] “**asset management activities**” has the meaning given by section 269BC(2).
 
 (7) For the purposes of subsections (3) to (5) references to accepting deposits are to carrying on activity which is (or, if it were carried on in the United Kingdom, would be) a regulated activity for the purposes of FISMA 2000 by virtue of article 5 of the Financial Services and Markets Act 2000 (Regulated Activities) Order 2001 (S.I. 2001/544) (accepting deposits).
 
 ## Annotations
 
-[^key-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)
+[^c-3e03660a4275e6ae3aa881f06df8542c]: Textual amendment: Pt. 7A Ch. 4 inserted (with effect in accordance with Sch. 3 Pt. 3 of the amending Act) by [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2015/33/schedule/3/paragraph/1)
 
-[^key-5420954bc3823d3cd9ff4f4ce1fa6787]: Textual amendment: S. 269DO(5A) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(9)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/9/a)
+[^c-5420954bc3823d3cd9ff4f4ce1fa6787]: Textual amendment: S. 269DO(5A) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(9)(a)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/9/a)
 
-[^key-78338db2f9fbe368efc442922673d0de]: Textual amendment: Words in s. 269DO(6) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(9)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/9/b)
+[^c-78338db2f9fbe368efc442922673d0de]: Textual amendment: Words in s. 269DO(6) substituted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 56(9)(b)](https://www.legislation.gov.uk/ukpga/2016/24/section/56/9/b)

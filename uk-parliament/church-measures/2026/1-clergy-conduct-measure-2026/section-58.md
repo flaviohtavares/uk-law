@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 58. Archbishops’ list[^key-ff8592e407c1f7ef540729f1d56f0291]
+## 58. Archbishops’ list[^c-ff8592e407c1f7ef540729f1d56f0291]
 
 *Extent: E*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff8592e407c1f7ef540729f1d56f0291]: Commencement: S. 58 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)
+[^c-ff8592e407c1f7ef540729f1d56f0291]: Commencement: S. 58 not in force at Royal Assent, see [s. 73(3)](https://www.legislation.gov.uk/ukcm/2026/1/section/73/3)

@@ -31,11 +31,11 @@ summary: ''
 - (a) a vehicle licence or trade licence is in force for or in respect of the vehicle,
 - (b) the vehicle is an exempt vehicle in respect of which regulations under this Act require a nil licence to be in force and a nil licence is in force in respect of it,
 - (c) the vehicle is an exempt vehicle that is not one in respect of which regulations under this Act require a nil licence to be in force, or
-- (d) the vehicle is neither kept nor used on a public road and the declarations and particulars required to be delivered by regulations under section 22(1D) have been delivered in relation to it in accordance with the regulations [^key-f755af1caf36534c1d03dc470202e87a]... .
+- (d) the vehicle is neither kept nor used on a public road and the declarations and particulars required to be delivered by regulations under section 22(1D) have been delivered in relation to it in accordance with the regulations [^c-f755af1caf36534c1d03dc470202e87a]... .
 
-(1B) Where a vehicle for [^key-1ff730e35a65ce2744658e55f93e3489]... which a vehicle licence is in force is transferred by the holder of the vehicle licence to another person, the vehicle licence is to be treated for the purposes of subsection (1A) as no longer in force [^key-7f3d7e18e7a5010e7244db25eb45e029]... .
+(1B) Where a vehicle for [^c-1ff730e35a65ce2744658e55f93e3489]... which a vehicle licence is in force is transferred by the holder of the vehicle licence to another person, the vehicle licence is to be treated for the purposes of subsection (1A) as no longer in force [^c-7f3d7e18e7a5010e7244db25eb45e029]... .
 
-(1C)[^key-2cd8f6d2bda14410449ea589de3c1d11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1C)[^c-2cd8f6d2bda14410449ea589de3c1d11] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (1D) In subsection (1)(b) “**the relevant prescribed period**” means such period beginning with the date on which the vehicle ceased to be appropriately covered as is prescribed.
 
@@ -78,13 +78,13 @@ summary: ''
 
 [^c19865351]: Textual amendment: S. 7A(1A)-(1D) inserted (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 66(4)](https://www.legislation.gov.uk/ukpga/2005/22/section/66/4)
 
-[^key-f755af1caf36534c1d03dc470202e87a]: Textual amendment: Words in s. 7A(1A)(d) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 189(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/189/2)
+[^c-f755af1caf36534c1d03dc470202e87a]: Textual amendment: Words in s. 7A(1A)(d) omitted (17.7.2013) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 189(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/189/2)
 
-[^key-1ff730e35a65ce2744658e55f93e3489]: Textual amendment: Words in [s. 7A(1B)](https://www.legislation.gov.uk/ukpga/1994/22/section/7A/1B) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/3/2/a), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-1ff730e35a65ce2744658e55f93e3489]: Textual amendment: Words in [s. 7A(1B)](https://www.legislation.gov.uk/ukpga/1994/22/section/7A/1B) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 3(2)(a)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/3/2/a), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
 
-[^key-7f3d7e18e7a5010e7244db25eb45e029]: Textual amendment: Words in [s. 7A(1B)](https://www.legislation.gov.uk/ukpga/1994/22/section/7A/1B) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/3/2/b), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-7f3d7e18e7a5010e7244db25eb45e029]: Textual amendment: Words in [s. 7A(1B)](https://www.legislation.gov.uk/ukpga/1994/22/section/7A/1B) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 3(2)(b)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/3/2/b), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
 
-[^key-2cd8f6d2bda14410449ea589de3c1d11]: Textual amendment: [S. 7A(1C)](https://www.legislation.gov.uk/ukpga/1994/22/section/7A/1C) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 3(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/3/3), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
+[^c-2cd8f6d2bda14410449ea589de3c1d11]: Textual amendment: [S. 7A(1C)](https://www.legislation.gov.uk/ukpga/1994/22/section/7A/1C) omitted (1.10.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 19 paras. 3(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/3/3), [22](https://www.legislation.gov.uk/ukpga/2014/26/schedule/19/paragraph/22)
 
 [^c19865361]: Textual amendment: S. 7A(2)(c)(i)(ii) substituted (20.7.2005) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 66(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/66/5)
 

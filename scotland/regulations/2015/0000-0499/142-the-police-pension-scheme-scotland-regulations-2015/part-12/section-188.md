@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 188. Employer cost cap[^key-2cf2bcd3fdb53c118312c9e28c2ccd25]
+## 188. Employer cost cap[^c-2cf2bcd3fdb53c118312c9e28c2ccd25]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cf2bcd3fdb53c118312c9e28c2ccd25]: Commencement: Reg. 188 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-2cf2bcd3fdb53c118312c9e28c2ccd25]: Commencement: Reg. 188 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

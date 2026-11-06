@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 199. Fees for planning applications[^key-5bb75997983c2c29441d7505bfc96038][^key-c8e541fb50c835c20b5ff48631a8f4fa]
+## 199. Fees for planning applications[^c-5bb75997983c2c29441d7505bfc96038][^c-c8e541fb50c835c20b5ff48631a8f4fa]
 
 *Extent: E+W+S*
 
@@ -71,6 +71,6 @@ For section 303 of TCPA 1990 substitute—
 
 ## Annotations
 
-[^key-5bb75997983c2c29441d7505bfc96038]: Commencement: S. 199 in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(e)](https://www.legislation.gov.uk/uksi/2009/400/article/5/e)
+[^c-5bb75997983c2c29441d7505bfc96038]: Commencement: S. 199 in force at 6.4.2009 for E. by [S.I. 2009/400](https://www.legislation.gov.uk/uksi/2009/400), [art. 5(e)](https://www.legislation.gov.uk/uksi/2009/400/article/5/e)
 
-[^key-c8e541fb50c835c20b5ff48631a8f4fa]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2008/29/section/199) in force at 8.8.2014 for W. by [S.I. 2014/1769](https://www.legislation.gov.uk/wsi/2014/1769), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/1769/article/2/b)
+[^c-c8e541fb50c835c20b5ff48631a8f4fa]: Commencement: [S. 199](https://www.legislation.gov.uk/ukpga/2008/29/section/199) in force at 8.8.2014 for W. by [S.I. 2014/1769](https://www.legislation.gov.uk/wsi/2014/1769), [art. 2(b)](https://www.legislation.gov.uk/wsi/2014/1769/article/2/b)

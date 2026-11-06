@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 787. Company ceasing to be member of group because of exempt distribution[^key-2c255c5108376ece0fb09b52b8e9150b]
+## 787. Company ceasing to be member of group because of exempt distribution[^c-2c255c5108376ece0fb09b52b8e9150b]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,8 +30,8 @@ summary: ''
 
 (5) In this section—
 
-- “**exempt distribution**” means a distribution that is exempt because of section 1076 or 1077 of CTA 2010[^key-1c6ef95428c5fb91f2f106548d6f2213] (distributions involving shares in 75% subsidiaries), and
-- “**chargeable payment**” has the meaning given in section 1088(1) of CTA 2010[^key-afb3e6ce364f8ef82efe982d68c08d53].
+- “**exempt distribution**” means a distribution that is exempt because of section 1076 or 1077 of CTA 2010[^c-1c6ef95428c5fb91f2f106548d6f2213] (distributions involving shares in 75% subsidiaries), and
+- “**chargeable payment**” has the meaning given in section 1088(1) of CTA 2010[^c-afb3e6ce364f8ef82efe982d68c08d53].
 
 (6) Subsections (7) and (8) apply for determining for the purposes of this section whether one company is a 75% subsidiary of another company.
 
@@ -44,8 +44,8 @@ summary: ''
 
 ## Annotations
 
-[^key-2c255c5108376ece0fb09b52b8e9150b]: Modification: Pt. 8 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
+[^c-2c255c5108376ece0fb09b52b8e9150b]: Modification: Pt. 8 modified (with effect in accordance with s. 148 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 88(1)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/1)[(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/2)[(7)](https://www.legislation.gov.uk/ukpga/2012/14/section/88/7) (with [s. 147](https://www.legislation.gov.uk/ukpga/2012/14/section/147), [Sch. 17](https://www.legislation.gov.uk/ukpga/2012/14/schedule/17))
 
-[^key-1c6ef95428c5fb91f2f106548d6f2213]: Textual amendment: Words in s. 787(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 651(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/651/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-1c6ef95428c5fb91f2f106548d6f2213]: Textual amendment: Words in s. 787(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 651(a)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/651/a) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-afb3e6ce364f8ef82efe982d68c08d53]: Textual amendment: Words in s. 787(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 651(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/651/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-afb3e6ce364f8ef82efe982d68c08d53]: Textual amendment: Words in s. 787(5) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 651(b)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/651/b) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

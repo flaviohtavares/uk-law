@@ -43,9 +43,9 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by section 89(6) of the Local Government Act 1972[^f00001] and sections 36A(1), (3) to (6) and (9) and 187(1) of the Representation of the People Act 1983[^f00002], make the following Rules.
 
-In accordance with section 36A(7) of the Representation of the People Act 1983, the Welsh Ministers have consulted such persons as they considered appropriate.[^key-2c7a062ebd6ed6d7a1a88153382492ad]
+In accordance with section 36A(7) of the Representation of the People Act 1983, the Welsh Ministers have consulted such persons as they considered appropriate.[^c-2c7a062ebd6ed6d7a1a88153382492ad]
 
-In accordance with section 36A(10) of the Representation of the People Act 1983, a draft of this instrument has been laid before and approved by a resolution of Senedd Cymru.[^key-2c7a062ebd6ed6d7a1a88153382492ad]
+In accordance with section 36A(10) of the Representation of the People Act 1983, a draft of this instrument has been laid before and approved by a resolution of Senedd Cymru.[^c-2c7a062ebd6ed6d7a1a88153382492ad]
 
 ## Contents
 
@@ -214,4 +214,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2). Section 36A was inserted by section 13(3) of the Local Government and Elections (Wales) Act 2021. Section 187(1) was amended by paragraph 64 of Schedule 4 to the Representation of the People Act [1985 (c. 50)](https://www.legislation.gov.uk/ukpga/1985/50), paragraph 124 of Schedule 1 to the Electoral Administration Act [2006 (c. 22)](https://www.legislation.gov.uk/ukpga/2006/22) and by paragraph 2(16) of Schedule 2 to the Local Government and Elections (Wales) Act 2021.
 
-[^key-2c7a062ebd6ed6d7a1a88153382492ad]: Modification: Rules applied (with modifications) (10.3.2022) by [S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236), [Sch. 4 Pt. 4](https://www.legislation.gov.uk/uksi/2007/236/schedule/4/part/4) (as substituted by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/uksi/2022/263), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/263/regulation/1/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2022/263/schedule/3/paragraph/5) (with [reg. 12(f)](https://www.legislation.gov.uk/uksi/2022/263/regulation/12/f)))
+[^c-2c7a062ebd6ed6d7a1a88153382492ad]: Modification: Rules applied (with modifications) (10.3.2022) by [S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236), [Sch. 4 Pt. 4](https://www.legislation.gov.uk/uksi/2007/236/schedule/4/part/4) (as substituted by [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/uksi/2022/263), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2022/263/regulation/1/2), [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/2022/263/schedule/3/paragraph/5) (with [reg. 12(f)](https://www.legislation.gov.uk/uksi/2022/263/regulation/12/f)))

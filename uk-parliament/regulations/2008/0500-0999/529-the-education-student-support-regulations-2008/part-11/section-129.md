@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Payment of grants for fees[^key-3dba5906c823633676c4d0b261cf2a2d]
+## 129. Payment of grants for fees[^c-3dba5906c823633676c4d0b261cf2a2d]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3dba5906c823633676c4d0b261cf2a2d]: Commencement: Reg. 129 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-3dba5906c823633676c4d0b261cf2a2d]: Commencement: Reg. 129 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

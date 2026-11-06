@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. The Equine (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019[^key-07fe5475a144bff55250695847a57cfd]
+## 27. The Equine (Records, Identification and Movement) (Amendment) (EU Exit) Regulations 2019[^c-07fe5475a144bff55250695847a57cfd]
 
 *Extent: E+W+S+N.I.*
 
@@ -381,6 +381,6 @@ summary: ''
 
 ## Annotations
 
-[^key-07fe5475a144bff55250695847a57cfd]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2020/1388/regulation/27) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
+[^c-07fe5475a144bff55250695847a57cfd]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2020/1388/regulation/27) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
 
 [^f00060]: Footnote: [S.I. 2019/591](https://www.legislation.gov.uk/uksi/2019/591).

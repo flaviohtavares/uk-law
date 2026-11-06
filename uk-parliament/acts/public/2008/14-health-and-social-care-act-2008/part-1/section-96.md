@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Application of Part 1 to Crown[^key-a171c10ad6fa04e7f0f67016569a63d7]
+## 96. Application of Part 1 to Crown[^c-a171c10ad6fa04e7f0f67016569a63d7]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ those powers are not exercisable in relation to those premises or (as the case m
 
 ## Annotations
 
-[^key-a171c10ad6fa04e7f0f67016569a63d7]: Commencement: S. 96 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/31)
+[^c-a171c10ad6fa04e7f0f67016569a63d7]: Commencement: S. 96 in force at 1.4.2009 by [S.I. 2009/462](https://www.legislation.gov.uk/uksi/2009/462), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/462/article/2/1), [Sch. 1 para. 31](https://www.legislation.gov.uk/uksi/2009/462/schedule/1/paragraph/31)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 5A — Increase in imports as a result of free trade agreement causing serious injury to UK producers[^key-af4ab80a6de572204a9e57c03c1d3939]
+## Schedule 5A — Increase in imports as a result of free trade agreement causing serious injury to UK producers[^c-af4ab80a6de572204a9e57c03c1d3939]
 
 *Extent: E+W+S+N.I.*
 
@@ -303,4 +303,4 @@ The provisions of Schedule 5 imposing a requirement on the Secretary of State to
 
 ## Annotations
 
-[^key-af4ab80a6de572204a9e57c03c1d3939]: Textual amendment: Sch. 5A inserted (11.7.2023 for specified purposes, 13.5.2024 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 20 paras. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/2), [3(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/3/1); [S.I. 2024/522](https://www.legislation.gov.uk/uksi/2024/522), [reg. 2](https://www.legislation.gov.uk/uksi/2024/522/regulation/2)
+[^c-af4ab80a6de572204a9e57c03c1d3939]: Textual amendment: Sch. 5A inserted (11.7.2023 for specified purposes, 13.5.2024 in so far as not already in force) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 20 paras. 2](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/2), [3(1)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/20/paragraph/3/1); [S.I. 2024/522](https://www.legislation.gov.uk/uksi/2024/522), [reg. 2](https://www.legislation.gov.uk/uksi/2024/522/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 142. Late night levy requirements[^c22719811][^key-b030169c13b5305fb2d02cbd49776dfe]
+## 142. Late night levy requirements[^c22719811][^c-b030169c13b5305fb2d02cbd49776dfe]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c22719811]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2017/3/section/142) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-b030169c13b5305fb2d02cbd49776dfe]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2017/3/section/142) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/a)
+[^c-b030169c13b5305fb2d02cbd49776dfe]: Commencement: [S. 142](https://www.legislation.gov.uk/ukpga/2017/3/section/142) in force at 13.7.2023 in so far as not already in force by [S.I. 2023/789](https://www.legislation.gov.uk/uksi/2023/789), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/789/regulation/2/a)

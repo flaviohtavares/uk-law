@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) For the purpose of maintaining and improving the quality of controlled waters the Secretary of State may, by serving a notice on the appropriate agency[^key-1b77ce4916776b2a7e913f6601d68158] specifying—
+(1) For the purpose of maintaining and improving the quality of controlled waters the Secretary of State may, by serving a notice on the appropriate agency[^c-1b77ce4916776b2a7e913f6601d68158] specifying—
 
 - (a) one or more of the classifications for the time being prescribed under section 82 above; and
 - (b) in relation to each specified classification, a date,
@@ -64,4 +64,4 @@ and, if he decides, after considering any such representations or objections, to
 
     S. 83 modified (25.3.1998) by [S.I. 1998/389](https://www.legislation.gov.uk/uksi/1998/389), [reg. 5](https://www.legislation.gov.uk/uksi/1998/389/regulation/5)
 
-[^key-1b77ce4916776b2a7e913f6601d68158]: Textual amendment: Words in [s. 83](https://www.legislation.gov.uk/ukpga/1991/57/section/83) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 272](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/272) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-1b77ce4916776b2a7e913f6601d68158]: Textual amendment: Words in [s. 83](https://www.legislation.gov.uk/ukpga/1991/57/section/83) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 272](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/272) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

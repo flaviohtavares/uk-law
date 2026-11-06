@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 71. Duration of Scheme membership[^key-e04e76585fbc4d90f006256c3665ee2b]
+## 71. Duration of Scheme membership[^c-e04e76585fbc4d90f006256c3665ee2b]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ After section 45 of the PVG Act insert—
 
 ## Annotations
 
-[^key-e04e76585fbc4d90f006256c3665ee2b]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2020/13/section/71) in force at 1.4.2026 by [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)
+[^c-e04e76585fbc4d90f006256c3665ee2b]: Commencement: [S. 71](https://www.legislation.gov.uk/asp/2020/13/section/71) in force at 1.4.2026 by [S.S.I. 2025/352](https://www.legislation.gov.uk/ssi/2025/352), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2025/352/regulation/2/2), [sch. 1](https://www.legislation.gov.uk/ssi/2025/352/schedule/1)

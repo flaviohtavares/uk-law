@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. General[^key-bae0009c660c1500f6f94e80c8fef6ac]
+## 80. General[^c-bae0009c660c1500f6f94e80c8fef6ac]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ An eligible student or person treated as an eligible student qualifies for a col
 
 ## Annotations
 
-[^key-bae0009c660c1500f6f94e80c8fef6ac]: Commencement: [Reg. 80](https://www.legislation.gov.uk/nisr/2007/195/regulation/80) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-bae0009c660c1500f6f94e80c8fef6ac]: Commencement: [Reg. 80](https://www.legislation.gov.uk/nisr/2007/195/regulation/80) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

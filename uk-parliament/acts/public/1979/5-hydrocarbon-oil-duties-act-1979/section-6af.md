@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6AF. Application to bioethanol and bioethanol blend of provisions relating to hydrocarbon oil[^key-9592a68301ce53f3e87283fd39e9290a]
+## 6AF. Application to bioethanol and bioethanol blend of provisions relating to hydrocarbon oil[^c-9592a68301ce53f3e87283fd39e9290a]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9592a68301ce53f3e87283fd39e9290a]: Textual amendment: Ss. 6AD-6AF inserted (1.1.2005) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 10(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/10/3)[(10)](https://www.legislation.gov.uk/ukpga/2004/12/section/10/10) (with [s. 10(11)](https://www.legislation.gov.uk/ukpga/2004/12/section/10/11))
+[^c-9592a68301ce53f3e87283fd39e9290a]: Textual amendment: Ss. 6AD-6AF inserted (1.1.2005) by [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12), [s. 10(3)](https://www.legislation.gov.uk/ukpga/2004/12/section/10/3)[(10)](https://www.legislation.gov.uk/ukpga/2004/12/section/10/10) (with [s. 10(11)](https://www.legislation.gov.uk/ukpga/2004/12/section/10/11))

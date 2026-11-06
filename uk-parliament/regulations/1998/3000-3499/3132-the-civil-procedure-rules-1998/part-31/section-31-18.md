@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31.18. Rules not to limit other powers of the court to order disclosure[^key-306baa77679fea9931cfac9daf2d1a57]
+## 31.18. Rules not to limit other powers of the court to order disclosure[^c-306baa77679fea9931cfac9daf2d1a57]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Rules 31.16 and 31.17 do not limit any other power which the court may have to o
 
 ## Annotations
 
-[^key-306baa77679fea9931cfac9daf2d1a57]: Commencement: [Rule 31.18](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.18) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)
+[^c-306baa77679fea9931cfac9daf2d1a57]: Commencement: [Rule 31.18](https://www.legislation.gov.uk/uksi/1998/3132/rule/31.18) in force at 26.4.1999, see [Signature](https://www.legislation.gov.uk/uksi/1998/3132/signature)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Appointment of wardens to secure compliance with protection order[^key-a3db6ebef49763f6b259365878b80388]
+## 49. Appointment of wardens to secure compliance with protection order[^c-a3db6ebef49763f6b259365878b80388]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3db6ebef49763f6b259365878b80388]: Commencement: S. 49 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-a3db6ebef49763f6b259365878b80388]: Commencement: S. 49 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

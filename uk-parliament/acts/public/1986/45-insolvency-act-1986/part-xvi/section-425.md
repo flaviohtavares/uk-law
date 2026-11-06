@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 425. Provision which may be made by order under s. 423.[^c15584941][^c20441201][^c20441221][^key-e832b5baf6e91cf974c32483c9d56fd5]
+## 425. Provision which may be made by order under s. 423.[^c15584941][^c20441201][^c20441221][^c-e832b5baf6e91cf974c32483c9d56fd5]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 [^c20441221]: Modification: Ss. 423-425 applied (with modifications) (17.2.2009 for certain purposes, otherwise 21.2.2009) by [Banking Act 2009 (c. 1)](https://www.legislation.gov.uk/ukpga/2009/1), [ss. 145](https://www.legislation.gov.uk/ukpga/2009/1/section/145), [263(1)(2)](https://www.legislation.gov.uk/ukpga/2009/1/section/263/1/2) (with [s. 247](https://www.legislation.gov.uk/ukpga/2009/1/section/247)); [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/3)
 
-[^key-e832b5baf6e91cf974c32483c9d56fd5]: Modification: S. 425 applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [regs. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [37](https://www.legislation.gov.uk/uksi/2021/716/regulation/37) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [11](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11))
+[^c-e832b5baf6e91cf974c32483c9d56fd5]: Modification: S. 425 applied (with modifications) (8.7.2021) by [The Payment and Electronic Money Institution Insolvency Regulations 2021 (S.I. 2021/716)](https://www.legislation.gov.uk/uksi/2021/716), [regs. 2](https://www.legislation.gov.uk/uksi/2021/716/regulation/2), [37](https://www.legislation.gov.uk/uksi/2021/716/regulation/37) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/716/regulation/5)) (as amended (4.1.2024) by [S.I. 2023/1399](https://www.legislation.gov.uk/uksi/2023/1399), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1399/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2023/1399/regulation/4), [11](https://www.legislation.gov.uk/uksi/2023/1399/regulation/11))

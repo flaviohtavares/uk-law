@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131B. Meaning of “exempt continuation proposal”[^key-c05adb8597f2acc398b3fefbd54794ff][^key-d18bea504dba68488435152a8b2c51e4]
+## 131B. Meaning of “exempt continuation proposal”[^c-c05adb8597f2acc398b3fefbd54794ff][^c-d18bea504dba68488435152a8b2c51e4]
 
 *Extent: E+W*
 
@@ -60,6 +60,6 @@ and any reference to the coming into force of a scheme includes a reference to t
 
 ## Annotations
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-d18bea504dba68488435152a8b2c51e4]: Textual amendment: S. 131B inserted (11.1.2010 for E.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/32/1), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)
+[^c-d18bea504dba68488435152a8b2c51e4]: Textual amendment: S. 131B inserted (11.1.2010 for E.) by [Local Transport Act 2008 (c. 26)](https://www.legislation.gov.uk/ukpga/2008/26), [ss. 32(1)](https://www.legislation.gov.uk/ukpga/2008/26/section/32/1), [134(4)](https://www.legislation.gov.uk/ukpga/2008/26/section/134/4); [S.I. 2009/3242](https://www.legislation.gov.uk/uksi/2009/3242), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/3242/article/2/1/a)

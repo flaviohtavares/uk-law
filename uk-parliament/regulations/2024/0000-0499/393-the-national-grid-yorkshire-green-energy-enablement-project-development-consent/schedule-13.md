@@ -22,7 +22,7 @@ summary: ''
 
 Article 25
 
-### PART 1 — NATIONAL GRID[^key-da6dd33864601cdca2decc494cd47527]
+### PART 1 — NATIONAL GRID[^c-da6dd33864601cdca2decc494cd47527]
 
 City of York Council
 
@@ -95,7 +95,7 @@ North Yorkshire Council
 | E7-19, E7-28, E7-29, E7-30, E7-32, E7-33, E7-38, E7-38a, E7-40, E7-41, E7-41a, E7-44, E7-44a, E7-45, E7-46, E7-47, E7-48, E7-49, E7-50, E7-51, E7-52, F1-13, F1-14, F1-18, F1-20, F1-27, F1-33, F1-36, F1-39 | Compulsory acquisition of rights for the authorised development | Work No. 10 |
 | F1-03, F1-04 | Compulsory acquisition of rights for the authorised development | Work No. 11 |
 
-### PART 2 — NPG[^key-9977702be4638254071bc322d5dd1e2c]
+### PART 2 — NPG[^c-9977702be4638254071bc322d5dd1e2c]
 
 City of York Council
 
@@ -122,7 +122,7 @@ North Yorkshire Council
 | E6-12, E6-41, E6-42, E6-43, E6-44, E6-46, E6-47 | Compulsory acquisition of rights for the authorised development | Work Nos. 9, U13 |
 | E7-30, E7-38a, E7-41a, E7-44a | Compulsory acquisition of rights for the authorised development | Work No. 10 |
 
-### PART 3 — NGN[^key-950fcc4c87cd7458978773182bb462c2]
+### PART 3 — NGN[^c-950fcc4c87cd7458978773182bb462c2]
 
 North Yorkshire Council
 
@@ -133,8 +133,8 @@ North Yorkshire Council
 
 ## Annotations
 
-[^key-da6dd33864601cdca2decc494cd47527]: Commencement: Sch. 13 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-da6dd33864601cdca2decc494cd47527]: Commencement: Sch. 13 Pt. 1 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-9977702be4638254071bc322d5dd1e2c]: Commencement: Sch. 13 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-9977702be4638254071bc322d5dd1e2c]: Commencement: Sch. 13 Pt. 2 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
 
-[^key-950fcc4c87cd7458978773182bb462c2]: Commencement: Sch. 13 Pt. 3 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)
+[^c-950fcc4c87cd7458978773182bb462c2]: Commencement: Sch. 13 Pt. 3 in force at 5.4.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/393/article/1)

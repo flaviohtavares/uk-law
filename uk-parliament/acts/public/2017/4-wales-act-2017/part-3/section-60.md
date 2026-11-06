@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. President of Welsh Tribunals[^key-649fe112b40dbf846b43585cd05d7ba0]
+## 60. President of Welsh Tribunals[^c-649fe112b40dbf846b43585cd05d7ba0]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-649fe112b40dbf846b43585cd05d7ba0]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2017/4/section/60) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)
+[^c-649fe112b40dbf846b43585cd05d7ba0]: Commencement: [S. 60](https://www.legislation.gov.uk/ukpga/2017/4/section/60) in force at 10.7.2017 or the first day on which regulations made under 2017 c. 4, Sch. 5 para. 7(1) come into force, whichever is the later by [S.I. 2017/351](https://www.legislation.gov.uk/uksi/2017/351), [reg. 2](https://www.legislation.gov.uk/uksi/2017/351/regulation/2)

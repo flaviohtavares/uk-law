@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 138. Residential restriction on a long lease[^key-071279f58d37d800cbb3eba784e8b8d8]
+## 138. Residential restriction on a long lease[^c-071279f58d37d800cbb3eba784e8b8d8]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ In section 8 of the Land Tenure Reform (Scotland) Act 1974 (c.38), after subsect
 
 ## Annotations
 
-[^key-071279f58d37d800cbb3eba784e8b8d8]: Commencement: S. 138 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-071279f58d37d800cbb3eba784e8b8d8]: Commencement: S. 138 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

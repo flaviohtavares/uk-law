@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Orders under Part 1[^key-3a0f42d9ccbfca7dcab8c3a40922e186]
+## 11. Orders under Part 1[^c-3a0f42d9ccbfca7dcab8c3a40922e186]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3a0f42d9ccbfca7dcab8c3a40922e186]: Commencement: S. 11 in force at 25.3.2013 by [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 2](https://www.legislation.gov.uk/uksi/2013/702/article/2)
+[^c-3a0f42d9ccbfca7dcab8c3a40922e186]: Commencement: S. 11 in force at 25.3.2013 by [S.I. 2013/702](https://www.legislation.gov.uk/uksi/2013/702), [art. 2](https://www.legislation.gov.uk/uksi/2013/702/article/2)

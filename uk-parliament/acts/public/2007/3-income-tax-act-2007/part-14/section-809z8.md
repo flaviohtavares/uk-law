@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 809Z8. Meaning of “the disposal proceeds”[^key-c60af6b599be0bd2a6efac987ac9b9ee]
+## 809Z8. Meaning of “the disposal proceeds”[^c-c60af6b599be0bd2a6efac987ac9b9ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c60af6b599be0bd2a6efac987ac9b9ee]: Textual amendment: Ss. 809Z8-809Z10 inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/16)
+[^c-c60af6b599be0bd2a6efac987ac9b9ee]: Textual amendment: Ss. 809Z8-809Z10 inserted (17.7.2012) (with effect in accordance with Sch. 12 para. 17 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 12 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/12/paragraph/16)

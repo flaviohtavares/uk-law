@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 148. HMO amenity notices: revocation[^key-b692ad325eaafb64b647b4abb57c277b]
+## 148. HMO amenity notices: revocation[^c-b692ad325eaafb64b647b4abb57c277b]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b692ad325eaafb64b647b4abb57c277b]: Commencement: [S. 148](https://www.legislation.gov.uk/asp/2006/1/section/148) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)
+[^c-b692ad325eaafb64b647b4abb57c277b]: Commencement: [S. 148](https://www.legislation.gov.uk/asp/2006/1/section/148) in force at 31.8.2011 by [S.S.I. 2010/159](https://www.legislation.gov.uk/ssi/2010/159), [art. 3](https://www.legislation.gov.uk/ssi/2010/159/article/3)

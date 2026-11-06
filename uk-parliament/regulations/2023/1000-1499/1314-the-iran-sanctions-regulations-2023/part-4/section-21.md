@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Director disqualification sanctions[^key-a60e1b57253b7cce5c443b83c5a01d48]
+## 21. Director disqualification sanctions[^c-a60e1b57253b7cce5c443b83c5a01d48]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ A person who is designated under regulation 5 (power to designate persons) for t
 
 ## Annotations
 
-[^key-a60e1b57253b7cce5c443b83c5a01d48]: Commencement: Reg. 21 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-a60e1b57253b7cce5c443b83c5a01d48]: Commencement: Reg. 21 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
 [^f00005]: Footnote: [1986 c. 46](https://www.legislation.gov.uk/ukpga/1986/46). Section 11A was inserted by section 36 of the Economic Crime and Corporate Transparency 2023.
 

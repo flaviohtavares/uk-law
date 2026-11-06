@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Power to direct authority to withdraw plan[^key-f97f7c9fe1df4a71aafc4d7f37d52852]
+## 27. Power to direct authority to withdraw plan[^c-f97f7c9fe1df4a71aafc4d7f37d52852]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f97f7c9fe1df4a71aafc4d7f37d52852]: Commencement: S. 27 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-f97f7c9fe1df4a71aafc4d7f37d52852]: Commencement: S. 27 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

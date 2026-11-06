@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: N.I.*
 
-**38.**[^key-433ef7cbf6980ccc4b4d6afd9634d146] (1) Section 5 (widows' and widowers' pensions) is amended as follows.
+**38.**[^c-433ef7cbf6980ccc4b4d6afd9634d146] (1) Section 5 (widows' and widowers' pensions) is amended as follows.
 
 (2) For the heading substitute “Widows', widowers' and surviving civil partners' pensions”.
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-433ef7cbf6980ccc4b4d6afd9634d146]: Commencement: Art. 38 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-433ef7cbf6980ccc4b4d6afd9634d146]: Commencement: Art. 38 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

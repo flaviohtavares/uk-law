@@ -48,7 +48,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 ## PART 1 — GENERAL
 
-### 1. Citation, commencement and application[^key-f8c2e5c40b52419dc7cc8bd11f4a746e]
+### 1. Citation, commencement and application[^c-f8c2e5c40b52419dc7cc8bd11f4a746e]
 
 (1) This Order may be cited as the General Dental Services, Personal Dental Services and Abolition of the Dental Practice Board Transitional and Consequential Provisions Order 2006 and shall come into force on 1st April 2006.
 
@@ -60,7 +60,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 (5) The amendment of provisions made by article 48 and Schedule 2 (which relate to the abolition of the Dental Practice Board) has the same extent as the provision amended.
 
-### 2. Interpretation[^key-6d369f6d55721445d0cf9519d77acec5]
+### 2. Interpretation[^c-6d369f6d55721445d0cf9519d77acec5]
 
 (1) In this Order—
 
@@ -88,7 +88,7 @@ The Secretary of State makes the following Order in exercise of the powers confe
 
 ## PART 2 — TRANSITIONAL PROVISIONS IN RESPECT OF GENERAL DENTAL SERVICES PROVIDED BEFORE 1ST APRIL 2006
 
-### 3. Interpretation of Part 2[^key-db16a7befe9d7ee37f2ebdc01d299fe0]
+### 3. Interpretation of Part 2[^c-db16a7befe9d7ee37f2ebdc01d299fe0]
 
 For the purposes of this Part—
 
@@ -101,7 +101,7 @@ For the purposes of this Part—
     - (ii) has been entered into by a dental corporation of which the relevant dental practitioner is a director, chief executive or secretary; or
   - (b) the personal dental services agreement which the relevant dental practitioner has entered into as a consequence of article 15, 16 or 17 of the Transitional Order.
 
-### 4. Applications for general dental services[^key-8fed631ee7a3a765819373d52905e709]
+### 4. Applications for general dental services[^c-8fed631ee7a3a765819373d52905e709]
 
 Where, before 1st April 2006—
 
@@ -110,7 +110,7 @@ Where, before 1st April 2006—
 
 that application shall be treated as a request made to the succeeding contractor for services under the term of the contract giving effect to paragraph 1 of Schedule 3 to the GDS Contracts Regulations or under the term of the agreement giving effect to paragraph 1 of Schedule 3 to the PDS Agreements Regulations.
 
-### 5. Investigation of outstanding complaints[^key-e26f7983a16fda6e839a0c2780d11659]
+### 5. Investigation of outstanding complaints[^c-e26f7983a16fda6e839a0c2780d11659]
 
 (1) Subject to paragraph (2), where before 1st April 2006—
 
@@ -141,7 +141,7 @@ that complaint must, on or after 1st April 2006, be investigated, or in an appro
 
 (6) Where, under this article, a complaint falls to be investigated by a Primary Care Trust the investigation shall be carried out in accordance with the National Health Service (Complaints) Regulations 2004[^f00017].
 
-### 6. Complaints relating to general dental services made after 31st March 2006[^key-1c3e0d88b0d4308f16122a2d9a4b5d6f]
+### 6. Complaints relating to general dental services made after 31st March 2006[^c-1c3e0d88b0d4308f16122a2d9a4b5d6f]
 
 (1) Subject to paragraph (2), the complaints procedure established and operated by a succeeding contractor under the term of its—
 
@@ -154,7 +154,7 @@ shall apply to any complaint which a patient or former patient of the relevant d
 
 (3) Where a complaint falls to be investigated by a Primary Care Trust as a consequence of paragraph (2), the investigation shall be carried out in accordance with the National Health Service (Complaints) Regulations 2004.
 
-### 7. Patient information leaflet[^key-05ea639bdd07caf3e961c30845ed09bb]
+### 7. Patient information leaflet[^c-05ea639bdd07caf3e961c30845ed09bb]
 
 (1) This article applies where a relevant dental practitioner had compiled a patient information leaflet which met the requirements of paragraph 32 of Schedule 1 and Schedule 5 to the 1992 Regulations[^f00018] on 31st March 2006 and that leaflet was, on that date, available to patients.
 
@@ -175,7 +175,7 @@ shall apply to any complaint which a patient or former patient of the relevant d
 - (f) the telephone number of NHS Direct and details of NHS Direct online; and
 - (g) the name, postal and website address and telephone number of the Primary Care Trust which is a party to the contract or agreement and from whom details of primary dental services in the area may be obtained.
 
-### 8. Recovery of Overpayments[^key-73e0e6900a00acfc729670fac59bc208]
+### 8. Recovery of Overpayments[^c-73e0e6900a00acfc729670fac59bc208]
 
 (1) Where, before 1st April 2006, a dental practitioner had admitted an overpayment drawn to its attention by a Primary Care Trust or the Board under regulation 22 of the 1992 Regulations (recovery of overpayments) but the overpayment, or any part of it, had not been recovered, the amount overpaid, or any part of it not recovered before 1st April 2006, shall notwithstanding the revocation of the 1992 Regulations continue to be recoverable by that Primary Care Trust and shall be treated as a debt owed by that dental practitioner to that Primary Care Trust.
 
@@ -191,7 +191,7 @@ shall apply to any complaint which a patient or former patient of the relevant d
 - (a) the arrangements for appeals referred in regulation 22(1)(b) of the 1992 Regulations as in force on 31st March 2006, as those arrangements had effect on 31st March 2006, shall apply; and
 - (b) if he has not appealed or does not appeal, or is unsuccessful in an appeal, the Primary Care Trust may recover the amount as a civil debt.
 
-### 9. Remuneration of Dentists[^key-8d5c20f27478dd495dc9a414f42271ed]
+### 9. Remuneration of Dentists[^c-8d5c20f27478dd495dc9a414f42271ed]
 
 (1) Notwithstanding the revocation of the 1992 Regulations, claims may still be made for payments under the SDR by a dental practitioner who may be entitled to such a payment (claims by virtue of article 38 are to be made to the NHS Business Services Authority), provided that the claim is made within any period stipulated in the SDR as being the period during which a claim for the payment is to be made.
 
@@ -205,19 +205,19 @@ shall apply to any complaint which a patient or former patient of the relevant d
 
 in relation to general dental services provided before 1st April 2006.
 
-### 10. Emergency dental services[^key-2b480dce2b5927a8814024e7348b4e14]
+### 10. Emergency dental services[^c-2b480dce2b5927a8814024e7348b4e14]
 
 Notwithstanding the revocation of the 1992 Regulations, where arrangements made under regulation 14 of the 1992 Regulations are in place immediately before 1st April 2006, those arrangements shall continue to subsist until terminated by the Primary Care Trust or the dentist in accordance with the terms of those arrangements.
 
-### 11. Service of documents[^key-a8410090fccbf3a98d5059448621aeb7]
+### 11. Service of documents[^c-a8410090fccbf3a98d5059448621aeb7]
 
 Where any notice or other document is required to be given or sent as a consequence of regulation 32 of the 1992 Regulations[^f00019] and has not be given or sent before 1st April 2006, notwithstanding the revocation of the 1992 Regulations, regulation 32 of those Regulations shall continue to have effect as in force on 31st March 2006 in respect of such a notice or document.
 
-### 12. Repair and replacement of restorations[^key-5b6f7f388a93c13692bcafad0e4c35bb]
+### 12. Repair and replacement of restorations[^c-5b6f7f388a93c13692bcafad0e4c35bb]
 
 Where, on or before 31st March 2006, a relevant dental practitioner has provided a restoration and that restoration requires repair or replacement which he would have been required to repair or replace under paragraph 7 of Schedule 1 to the 1992 Regulations, the succeeding contractor shall repair or replace the restoration in accordance with the terms of the contract giving effect to paragraph 11 of Schedule 3 to the GDS Contracts Regulations or the terms of the agreement giving effect to paragraph 12 of Schedule 3 to the PDS Agreements Regulations.
 
-### 13. Violent patients[^key-1ac5ce549552c4ecf9b5d6251674bf1c]
+### 13. Violent patients[^c-1ac5ce549552c4ecf9b5d6251674bf1c]
 
 (1) Where—
 
@@ -228,7 +228,7 @@ notwithstanding the revocation of the 1992 Regulations and subject to paragraph 
 
 (2) The notification given in accordance with paragraph 11A(4) of Schedule 1 to the 1992 Regulations on or after 1st April 2006 shall be treated as though it were a notification that the succeeding contractor does not wish to provide care and treatment to the person concerned under the general dental services contract or the personal dental services agreement.
 
-### 14. Referral to another dentist, to a hospital or other service and treatment on referral[^key-fe7263b7c1f5ae307d0d3f43da39e0e6]
+### 14. Referral to another dentist, to a hospital or other service and treatment on referral[^c-fe7263b7c1f5ae307d0d3f43da39e0e6]
 
 (1) Where a patient has been referred on or before 31st March 2006 in accordance with paragraph 12(1) of Schedule 1 to the 1992 Regulations, and—
 
@@ -239,7 +239,7 @@ notwithstanding the revocation of the 1992 Regulations, paragraph 12(2) of Sched
 
 (2) Where, on or before 31st March 2006, a relevant dental practitioner has provided a restoration in the course of treatment on referral and that restoration requires repair or replacement which he would have been required to repair or replace under paragraph 13 of Schedule 1 to the 1992 Regulations, the succeeding contractor shall repair or replace the restoration in accordance with the terms of the contract giving effect to paragraph 11 of Schedule 3 to the GDS Contracts Regulations or the terms of the agreement giving effect to paragraph 12 of Schedule 3 to the PDS Agreement Regulations.
 
-### 15. Inability to complete treatment[^key-e27c556c5e6739948597cb7771b9db63]
+### 15. Inability to complete treatment[^c-e27c556c5e6739948597cb7771b9db63]
 
 (1) Where a dentist—
 
@@ -250,11 +250,11 @@ notwithstanding the revocation of the 1992 Regulations, paragraph 14 of Schedule
 
 (2) Where paragraph (1) applies, on or after 1st April 2006, paragraph 14 of Schedule 1 to the 1992 Regulations shall be read as if the reference to the Board in that paragraph were a reference to the NHS Business Services Authority.
 
-### 16. Care and Treatment summaries[^key-bc4a4f8c6298a6927e16e3d75e06da8b]
+### 16. Care and Treatment summaries[^c-bc4a4f8c6298a6927e16e3d75e06da8b]
 
 Where, on or before 31st March 2006, a patient requested a summary of the care and treatment in accordance with paragraph 15 of Schedule 1 to the 1992 Regulations and the dentist has not provided that summary before 1st April 2006, notwithstanding the revocation of the 1992 Regulations, paragraph 15 of Schedule 1 to those Regulations shall continue to have effect as in force on 31st March 2006 in respect of that request.
 
-### 17. Occasional treatment[^key-af63cf98ee516c56076d141ab6a44eea]
+### 17. Occasional treatment[^c-af63cf98ee516c56076d141ab6a44eea]
 
 (1) Where a dentist—
 
@@ -279,7 +279,7 @@ the succeeding contractor shall repair or replace the filling or root filling in
 
 notwithstanding the revocation of the 1992 Regulations, paragraph 18(2) and (3) of Schedule 1 to those Regulations shall continue to have effect as in force on 31st March 2006 in respect of the referral of that patient.
 
-### 18. Records[^key-b6108cb9a71b717c89bfe7682822a999]
+### 18. Records[^c-b6108cb9a71b717c89bfe7682822a999]
 
 Notwithstanding the revocation of the 1992 Regulations, a dentist shall continue to keep a record in respect of the matters referred to in paragraph 25(1) of Schedule 1 to the 1992 Regulations (records) and that paragraph and paragraph 41 of that Schedule—
 
@@ -288,7 +288,7 @@ Notwithstanding the revocation of the 1992 Regulations, a dentist shall continue
 
 ## PART 3 — TRANSITIONAL PROVISIONS IN RESPECT OF PERSONAL DENTAL SERVICES PROVIDED BEFORE 1ST APRIL 2006
 
-### 19. Interpretation of Part 3[^key-7e9e401885d1ad5decd47f9a58899643]
+### 19. Interpretation of Part 3[^c-7e9e401885d1ad5decd47f9a58899643]
 
 In this Part—
 
@@ -297,7 +297,7 @@ In this Part—
   - (a) the general dental services contract which the relevant pilot scheme provider has entered into as a consequence of article 6 of the Transitional Order; or
   - (b) the personal dental services agreement which the relevant pilot scheme provider has entered into as a consequence of article 14 of the Transitional Order.
 
-### 20. Applications for personal dental services[^key-75393c74225a3d1e68ad6f780ea260a9]
+### 20. Applications for personal dental services[^c-75393c74225a3d1e68ad6f780ea260a9]
 
 Where, before 1st April 2006—
 
@@ -306,7 +306,7 @@ Where, before 1st April 2006—
 
 that application shall be treated as a request made to the succeeding contractor for services under the term of the agreement giving effect to paragraph 1 of Schedule 3 to the PDS Agreements Regulations or under the term of the contract giving effect to paragraph 1 of Schedule 3 to the GDS Contracts Regulations.
 
-### 21. Investigation of outstanding complaints[^key-ad2447c0290d81ba2a0e11edb37e762d]
+### 21. Investigation of outstanding complaints[^c-ad2447c0290d81ba2a0e11edb37e762d]
 
 (1) Subject to paragraph (2), where before 1st April 2006 a complaint had been made in accordance with the provisions in the pilot scheme agreement which give effect to the procedure set out in the PDS Directions, that complaint must, from 1st April 2006 be investigated or continue to be investigated by the succeeding contractor in accordance with the terms of the pilot scheme agreement as it had effect on 31st March 2006.
 
@@ -314,7 +314,7 @@ that application shall be treated as a request made to the succeeding contractor
 
 (3) Where a complaint falls to be investigated by a Primary Care Trust as a consequence of paragraph (2), the investigation shall be carried out in accordance with the National Health Service (Complaints) Regulations 2004[^f00024].
 
-### 22. Complaints relating to personal dental services made after 31st March 2006[^key-a1638718937e42fa38ec1874f7eb824d]
+### 22. Complaints relating to personal dental services made after 31st March 2006[^c-a1638718937e42fa38ec1874f7eb824d]
 
 (1) Subject to paragraph (2), the complaints procedure established and operated by a succeeding contractor—
 
@@ -327,7 +327,7 @@ shall apply to any complaint which a patient or former patient of the relevant p
 
 (3) Where a complaint falls to be investigated by a Primary Care Trust as a consequence of paragraph (2), the investigation shall be carried out in accordance with the National Health Service (Complaints) Regulations 2004.
 
-### 23. Patient information leaflet[^key-429433343eb551d539082d726b24a16e]
+### 23. Patient information leaflet[^c-429433343eb551d539082d726b24a16e]
 
 (1) This article applies where a relevant pilot scheme provider had produced a pilot leaflet in accordance with the terms in the pilot scheme agreement which give effect to the requirements in the PDS Directions and that leaflet was, on 31st March 2006, available to patients.
 
@@ -348,7 +348,7 @@ shall apply to any complaint which a patient or former patient of the relevant p
 - (f) how patients may make a complaint or comment on the provision of services; and
 - (g) the name, postal and website address and telephone number of the Primary Care Trust with whom the contractor is a party to the agreement or contract.
 
-### 24. Overpayments under a pilot scheme[^key-8f4c318a409d3fea03d9f995b54f57cf]
+### 24. Overpayments under a pilot scheme[^c-8f4c318a409d3fea03d9f995b54f57cf]
 
 (1) Where, on or before 31st March 2006, a pilot scheme provider has admitted an overpayment drawn to its attention by the Primary Care Trust or the Board but the overpayment, or any part of it, had not been recovered, the amount overpaid, or any part of it not recovered before 31st March 2006, shall be recoverable by the Primary Care Trust in accordance with the arrangements for the recovery of overpayments provided for in the pilot scheme agreement as it had effect on 31st March 2006, and—
 
@@ -366,7 +366,7 @@ shall apply to any complaint which a patient or former patient of the relevant p
 
 (5) This article is without prejudice to any arrangement for the recovery of dental charges set out in directions under sections 28E(3A) and 28N of the 1977 Act.
 
-### 25. Remuneration of pilot scheme providers[^key-022feaf86d7a2e83c47df51987dc0c96]
+### 25. Remuneration of pilot scheme providers[^c-022feaf86d7a2e83c47df51987dc0c96]
 
 (1) Subject to paragraphs (2) and (3), claims for remuneration under the terms of a pilot scheme agreement may still be made and acceded to in accordance with a pilot scheme agreement, where a pilot scheme provider is entitled to a payment—
 
@@ -379,7 +379,7 @@ and the claim is made or deemed to have been made within any period stipulated i
 
 (3) This article is without prejudice to any arrangements for the recovery of dental charges set out in directions under sections 28E(3A) and 28N of the 1977 Act.
 
-### 26. Violent patients[^key-4b7e2d80fab61fb81c7c183552382996]
+### 26. Violent patients[^c-4b7e2d80fab61fb81c7c183552382996]
 
 Where—
 
@@ -389,7 +389,7 @@ Where—
 
 the Primary Care Trust shall take such steps to inform that person that the relevant pilot scheme provider does not wish to provide, on or after 1st April 2006, primary dental services to that person under the personal dental services agreement or the general dental services contract.
 
-### 27. Repair or replacement of restorations[^key-0da4e72c22abfa8f90e75cb8716c93d1]
+### 27. Repair or replacement of restorations[^c-0da4e72c22abfa8f90e75cb8716c93d1]
 
 Where—
 
@@ -398,7 +398,7 @@ Where—
 
 the succeeding contractor shall repair or replace the restoration in accordance with the terms of the personal dental services agreement which give effect to paragraph 12 of Schedule 3 to the PDS Agreements Regulations or the terms of the general dental services contract which give effect to paragraph 11 of Schedule 3 to the GDS Contracts Regulations.
 
-### 28. Provision of information[^key-307f1e0084e2d4c7651effe6a897bfc7]
+### 28. Provision of information[^c-307f1e0084e2d4c7651effe6a897bfc7]
 
 (1) Where—
 
@@ -414,11 +414,11 @@ the period in which that information is to be submitted and the manner of submis
 
 (3) For the purposes of the application of paragraphs (1) and (2), any reference to the Board in a pilot scheme agreement shall be read as including a reference to the NHS Business Services Authority.
 
-### 29. Records[^key-3f41e42bea32ed8204a44788f95087ac]
+### 29. Records[^c-3f41e42bea32ed8204a44788f95087ac]
 
 A pilot scheme provider shall continue to keep records in respect of services provided under the pilot scheme agreement in accordance with the terms of that agreement and such terms shall continue to apply to such records until 1st April 2008.
 
-### 30. Disputes[^key-39e3d8642f40babb7bf19be82175c001]
+### 30. Disputes[^c-39e3d8642f40babb7bf19be82175c001]
 
 (1) Where a dispute in respect of a pilot scheme agreement is pending on 31st March 2006 under the NHS dispute resolution procedure or a procedure specified in the terms of the pilot scheme agreement that gives effect to direction 19 of, and Schedule 3 to, the PDS Directions, the adjudicator shall proceed to determine the dispute in accordance with the dispute resolution procedure that had effect on 31st March 2006 in respect of that dispute.
 
@@ -429,7 +429,7 @@ A pilot scheme provider shall continue to keep records in respect of services pr
 
 ## PART 4 — TRANSITIONAL ARRANGEMENTS: THE NATIONAL HEALTH SERVICE (SERVICE COMMITTEES AND TRIBUNAL) REGULATIONS 1992
 
-### 31. Interpretation[^key-1ec17e6563e233c60fc13d3b4f6deccd]
+### 31. Interpretation[^c-1ec17e6563e233c60fc13d3b4f6deccd]
 
 (1) In this Part—
 
@@ -458,7 +458,7 @@ A pilot scheme provider shall continue to keep records in respect of services pr
 - (a) a numbered regulation is to the regulation bearing that number in the Service Committees Regulations; and
 - (b) a numbered Schedule is to the Schedule to the Service Committees Regulations bearing that number.
 
-### 32. Cases where no decision has been made before the relevant date as to whether disciplinary action should be taken (regulation 4)[^key-7fd545200ba58d38776d5cfa281635a1]
+### 32. Cases where no decision has been made before the relevant date as to whether disciplinary action should be taken (regulation 4)[^c-7fd545200ba58d38776d5cfa281635a1]
 
 (1) Where, before the relevant date, or on or after the relevant date in respect of a matter that occurred before the relevant date, a Primary Care Trust receives, or has received, information that could amount to an allegation that a dentist had failed to comply with his terms of service and—
 
@@ -477,7 +477,7 @@ paragraph (2) shall apply.
 - (a) that Primary Care Trust (B) shall investigate the matter and report to the appropriate PCT as if the amendments to regulations 2 to 8 and Schedules 2 and 4 had not taken effect; and
 - (b) the appropriate PCT shall be entitled, subject to article 35, to take any action it could have taken pursuant to the Service Committees Regulations as if those amendments had not taken effect.
 
-### 33. Referrals to investigating discipline committees before the relevant date (regulation 5)[^key-f0920775147193f5042b905b9475eddd]
+### 33. Referrals to investigating discipline committees before the relevant date (regulation 5)[^c-f0920775147193f5042b905b9475eddd]
 
 Where a Primary Care Trust (A) has, before the relevant date, referred a matter in respect of a dentist to another Primary Care Trust (B) in accordance with regulation 4(2)(a) or (7) and—
 
@@ -486,7 +486,7 @@ Where a Primary Care Trust (A) has, before the relevant date, referred a matter 
   - (ii) the Primary Care Trust (A) shall be entitled to take any action it could have taken pursuant to the Service Committees Regulations as if those amendments had not taken effect, subject to article 35; or
 - (b) that Primary Care Trust (A) has received the report of the discipline committee of the Primary Care Trust (B) but has not yet determined what (if any) action to take as a result of the report, the Primary Care Trust (A) shall be entitled to take any action it could have taken pursuant to the Service Committees Regulations as if the amendments to regulations 2 to 8 had not taken effect, subject to article 35.
 
-### 34. Determination of a Primary Care Trust or the Secretary of State made before the relevant date (regulations 8, 9, 10 and 11)[^key-6072b0725c0d0f75d4c3032095a42a48]
+### 34. Determination of a Primary Care Trust or the Secretary of State made before the relevant date (regulations 8, 9, 10 and 11)[^c-6072b0725c0d0f75d4c3032095a42a48]
 
 (1) Where, before the relevant date, a Primary Care Trust (or where relevant, the Secretary of State) has determined pursuant to regulation 8(5)(a), regulation 9(3) or regulation 11 that an amount should be recovered from the dentist, in so far as any of that amount has not been recovered before the relevant date, it shall continue to be recoverable by the Primary Care Trust that was the appropriate PCT for the purposes of the Service Committees Regulations in respect of that matter, and it shall be treated as a debt owed by that dentist to that Trust.
 
@@ -499,7 +499,7 @@ Where a Primary Care Trust (A) has, before the relevant date, referred a matter 
 
 (4) Where a Performers List PCT has record of, or receives notification of, an adverse determination pursuant to regulation 8, 9, 10, 11 or 12 made before the relevant date in respect of a dentist (where, in the case of a determination under regulation 8, such a determination was not overturned on appeal) it may take that determination into account in determining what (if any) action it should take in respect of that dentist pursuant to its powers under the Performers Lists Regulations.
 
-### 35. Determination of a Primary Care Trust made on or after the relevant date (regulation 8)[^key-240bc8461d48002033240debcc1e92b4]
+### 35. Determination of a Primary Care Trust made on or after the relevant date (regulation 8)[^c-240bc8461d48002033240debcc1e92b4]
 
 (1) Where, on or after the relevant date, an appropriate PCT is determining what (if any) action to take pursuant to regulation 8 in accordance with provision made in this Part, it shall make such a determination in accordance with such limitation and modifications to that regulation as are specified in this article.
 
@@ -528,7 +528,7 @@ and if it makes any one or more of the decisions specified in sub-paragraphs (b)
 
 it shall consider what (if any) action it should take in respect of that dentist pursuant to its powers under the Performers Lists Regulations.
 
-### 36. Appeals to the Secretary of State against determinations of Primary Care Trusts (regulations 9, 10 and 11)[^key-401b412bfdec78a32759df925e3b5e15]
+### 36. Appeals to the Secretary of State against determinations of Primary Care Trusts (regulations 9, 10 and 11)[^c-401b412bfdec78a32759df925e3b5e15]
 
 (1) Where—
 
@@ -567,7 +567,7 @@ she shall, in addition to the persons specified in regulation 10(14), notify the
 
 (10) Where a Performers List PCT has received notification from the Secretary of State pursuant to paragraph (4) or (5), whether or not the Performers List PCT is also the appropriate PCT, it shall consider what (if any) action it should take in respect of that dentist pursuant to its powers under the Performers Lists Regulations.
 
-### 37. Functions of Local Dental Committees[^key-8cc80c31947e38b0a09611b3396fdc1a]
+### 37. Functions of Local Dental Committees[^c-8cc80c31947e38b0a09611b3396fdc1a]
 
 Where—
 
@@ -578,7 +578,7 @@ the Local Dental Committee that is recognised by a Primary Care Trust pursuant t
 
 ## PART 5 — TRANSITIONAL PROVISIONS: ABOLITION OF THE BOARD
 
-### 38. Functions of the Board in respect of general dental services[^key-1434afcf006b63388efed278f067faad]
+### 38. Functions of the Board in respect of general dental services[^c-1434afcf006b63388efed278f067faad]
 
 (1) Subject to paragraph (3), the functions of the Board under the 1992 Regulations which are specified in paragraph (2) shall be exercisable by the NHS Business Services Authority in respect of general dental services provided before 1st April 2006.
 
@@ -594,7 +594,7 @@ the Local Dental Committee that is recognised by a Primary Care Trust pursuant t
 
 (3) Notwithstanding the revocation of the 1992 Regulations, for the purposes of the NHS Business Services Authority exercising the functions of the Board, the provisions specified in paragraph (2) shall continue to have effect as on 31st March 2006 and references to the Board in those provisions shall be read as a reference to the NHS Business Services Authority.
 
-### 39. Appeals from decisions of the Board[^key-d53a520bf4c78a74bbdef3adb9a99a00]
+### 39. Appeals from decisions of the Board[^c-d53a520bf4c78a74bbdef3adb9a99a00]
 
 (1) Notwithstanding the revocation of the 1992 Regulations and subject to the following paragraphs, regulation 30A of the 1992 Regulations[^f00029] will continue to have effect in respect—
 
@@ -614,7 +614,7 @@ the Local Dental Committee that is recognised by a Primary Care Trust pursuant t
 - (a) the reference in regulation 30A(1) to (3), (6), (10) and (11) of the 1992 Regulations to the Board shall be read as if it were a reference to the Board or the NHS Business Services Authority; and
 - (b) the reference in regulation 30A(5), (8), (9) and (14) of the 1992 Regulations to the Board shall be read as if it were a reference to the NHS Business Services Authority.
 
-### 40. Local Dental Committees in respect of appeals[^key-15dbfb48b1b964d3d9234dc3f89defc9]
+### 40. Local Dental Committees in respect of appeals[^c-15dbfb48b1b964d3d9234dc3f89defc9]
 
 Where—
 
@@ -623,7 +623,7 @@ Where—
 
 the Local Dental Committee that is recognised by a Primary Care Trust pursuant to section 45B of the 1977 Act shall be the Committee to be consulted or to make the nomination for the purpose of the continuing application of regulation 30A(6) and (7) of the 1992 Regulations.
 
-### 41. Functions of the Board in respect of personal dental services[^key-816bbe0eb39b8e0f951ddb4e645d7e9a]
+### 41. Functions of the Board in respect of personal dental services[^c-816bbe0eb39b8e0f951ddb4e645d7e9a]
 
 (1) In respect of the provision of personal dental services on or before 31st March 2006, the functions of the Board which are exercisable as a consequence of—
 
@@ -639,7 +639,7 @@ of the Dental Practice Board (Personal Dental Services) Regulations 1998[^f00030
 
 (4) In relation to the terms of a pilot scheme agreement which give effect to the directions mentioned in paragraph (3), any reference to the Board in that agreement shall be read as a reference to the NHS Business Services Authority for the purposes of the exercise of functions by that Authority.
 
-### 42. Rights and transfer of liabilities of the Board[^key-57771279911fc157649a3b529d170f80]
+### 42. Rights and transfer of liabilities of the Board[^c-57771279911fc157649a3b529d170f80]
 
 (1) Any right that was on or before 31st March 2006 enforceable by or against the Board shall, on or after that date, be enforceable by or against the NHS Business Services Authority.
 
@@ -647,7 +647,7 @@ of the Dental Practice Board (Personal Dental Services) Regulations 1998[^f00030
 
 (3) Anything done by or on behalf of the Board in relation to the rights and liabilities of the Board shall be treated, from the 1st April 2006 as having been done by or on behalf of the NHS Business Services Authority.
 
-### 43. Transfer of Board officers[^key-00ec541d17e3e65f6e9355d7903771cd]
+### 43. Transfer of Board officers[^c-00ec541d17e3e65f6e9355d7903771cd]
 
 (1) In this article, “officer” has the same meaning as in the Dental Practice Board Regulations 1992[^f00032].
 
@@ -671,21 +671,21 @@ of the Dental Practice Board (Personal Dental Services) Regulations 1998[^f00030
 
 (8) This article is without prejudice to any right of an officer to terminate his contract of employment if a substantial change is made to his detriment in his working conditions; but no such right shall arise by reason only that, under this article, the identity of his employer changes unless the officer shows that, in all the circumstances, the change is a significant change and is to his detriment.
 
-### 44. Transfer of property[^key-2de03771f66b89f81f5b4bd189cb70fd]
+### 44. Transfer of property[^c-2de03771f66b89f81f5b4bd189cb70fd]
 
 On 1st April 2006 all property of the Board is transferred to the NHS Business Services Authority.
 
-### 45. Outstanding accounts of the Board[^key-d5bbf785cf09c3866b7885558ff30e64]
+### 45. Outstanding accounts of the Board[^c-d5bbf785cf09c3866b7885558ff30e64]
 
 The NHS Business Services Authority may take such steps as may be necessary in connection with matters arising in relation to the accounts of the Board and the performance of all statutory duties relating to those accounts.
 
 ## PART 6 — MISCELLANEOUS TRANSITIONAL, CONSEQUENTIAL AND REVOCATIONS PROVISIONS
 
-### 46. Transitional provision in relation to the Family Health Services Appeal Authority (Procedure) Rules 2001[^key-35d42d2e106c5aee96a05ac65e77e402]
+### 46. Transitional provision in relation to the Family Health Services Appeal Authority (Procedure) Rules 2001[^c-35d42d2e106c5aee96a05ac65e77e402]
 
 Notwithstanding the amendments made to the Family Health Services Appeal Authority (Procedure) Rules 2001[^f00034] by paragraph 10 of Schedule 1, those Rules shall, in relation to any decision of a Primary Care Trust made before 1st April 2006, continue to apply as they had effect on 31st March 2006 and as if those amendments had not been made.
 
-### 47. Amendment to the Transitional Order[^key-8a0abd0eb96fbcbdfcc006005ffb990c]
+### 47. Amendment to the Transitional Order[^c-8a0abd0eb96fbcbdfcc006005ffb990c]
 
 For articles 4(3)(b) and 5(3)(b) (entitlement to a general dental services contract) and 16(2)(b) and 17(2)(b) (entitlement to a personal dental services agreement) of the Transitional Order, there shall be substituted—
 
@@ -696,11 +696,11 @@ For articles 4(3)(b) and 5(3)(b) (entitlement to a general dental services contr
 
 .
 
-### 48. Minor and consequential amendments[^key-65cb22aeae931511171f93521a4e3f71]
+### 48. Minor and consequential amendments[^c-65cb22aeae931511171f93521a4e3f71]
 
 The provisions listed in Schedules 1 and 2 are amended as there specified.
 
-### 49. Revocations[^key-86088c3228d401a235e4acae2c5e21f7]
+### 49. Revocations[^c-86088c3228d401a235e4acae2c5e21f7]
 
 The provisions listed in Schedule 3 are revoked to the extent there specified.
 
@@ -718,7 +718,7 @@ Date 3rd March 2006
 
 Article 48
 
-### 1. The Medicines (Pharmacy and General Sale – Exemption) Order 1980[^key-2f3b22ae8917189abb36539a113124fe]
+### 1. The Medicines (Pharmacy and General Sale – Exemption) Order 1980[^c-2f3b22ae8917189abb36539a113124fe]
 
 (1) The Medicines (Pharmacy and General Sale – Exemption) Order 1980[^f00035] shall be amended as provided in this paragraph.
 
@@ -733,7 +733,7 @@ Article 48
 
   .
 
-### 2. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^key-b2f0f9a2ab5d5eb9558a9e7bdad3b4fb]
+### 2. The National Health Service Trusts (Membership and Procedure) Regulations 1990[^c-b2f0f9a2ab5d5eb9558a9e7bdad3b4fb]
 
 (1) The National Health Service Trusts (Membership and Procedure) Regulations 1990[^f00037] shall be amended as provided in this paragraph.
 
@@ -747,15 +747,15 @@ Article 48
   - (i) after “a company that” insert “or a director of a body corporate that”, and
   - (ii) after “primary medical services” insert “or primary dental services”.
 
-### 3. The National Health Service (Service Committees and Tribunal) Regulations 1992[^key-99bbac19571ff2a11b19291530404b83]
+### 3. The National Health Service (Service Committees and Tribunal) Regulations 1992[^c-99bbac19571ff2a11b19291530404b83]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. The Medicines for Human Use (Marketing Authorisations etc) Regulations 1994[^key-0909fcfc74b759a57822e9ffd6197a32]
+### 4. The Medicines for Human Use (Marketing Authorisations etc) Regulations 1994[^c-0909fcfc74b759a57822e9ffd6197a32]
 
 In the Medicines for Human Use (Marketing Authorisations etc) Regulations 1994[^f00039], in Schedule 1 (exemptions and exceptions from the provisions of regulation 3), in paragraph 3(1)(a) for the words “general dental services” substitute “primary dental services”.
 
-### 5. The Health Authorities (Membership and Procedure) Regulations 1996[^key-10d637f6a0810f4be32885c2ec2524e7]
+### 5. The Health Authorities (Membership and Procedure) Regulations 1996[^c-10d637f6a0810f4be32885c2ec2524e7]
 
 (1) The Health Authorities (Membership and Procedure) Regulations 1996[^f00040] shall be amended as provided in this paragraph.
 
@@ -771,7 +771,7 @@ In the Medicines for Human Use (Marketing Authorisations etc) Regulations 1994[^
 
 (5) In regulation 16 (disability of chairman and members in proceedings on account of pecuniary interest), in paragraph (6)(b), after “primary medical services” insert “or primary dental services”.
 
-### 6. The Prescription Only Medicines (Human Use) Order 1997[^key-65adb70685f55bab66a728e2676990a2]
+### 6. The Prescription Only Medicines (Human Use) Order 1997[^c-65adb70685f55bab66a728e2676990a2]
 
 (1) The Prescription Only Medicines (Human Use) Order 1997[^f00041] shall be amended as provided in this paragraph.
 
@@ -788,7 +788,7 @@ In the Medicines for Human Use (Marketing Authorisations etc) Regulations 1994[^
 
   .
 
-### 7. The Primary Care Trusts (Consultation on Establishment, Dissolution and Transfer of Staff) Regulations 1999[^key-43495835ce9108802baed39812ad2309]
+### 7. The Primary Care Trusts (Consultation on Establishment, Dissolution and Transfer of Staff) Regulations 1999[^c-43495835ce9108802baed39812ad2309]
 
 (1) The Primary Care Trusts (Consultation on Establishment, Dissolution and Transfer of Staff) Regulations 1999[^f00043] shall be amended as provided in this paragraph.
 
@@ -807,7 +807,7 @@ In the Medicines for Human Use (Marketing Authorisations etc) Regulations 1994[^
 - (a) in paragraph (i), after “primary medical services” insert “primary dental services,”; and
 - (b) after paragraph (i), omit the word “or” and paragraph (ii).
 
-### 8. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^key-b5a2196b8dc976ff0d583114c6f3db6c]
+### 8. The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^c-b5a2196b8dc976ff0d583114c6f3db6c]
 
 (1) The Primary Care Trusts (Membership, Procedure and Administration Arrangements) Regulations 2000[^f00044] shall be amended as provided in this paragraph.
 
@@ -835,19 +835,19 @@ In the Medicines for Human Use (Marketing Authorisations etc) Regulations 1994[^
   - (ii) omit paragraph (ii); and
 - (b) in sub-paragraph (i), omit “or a pilot scheme health service body”.
 
-### 9. The National Health Service (Charges for Drugs and Appliances) Regulations 2000[^key-59f465edabbc951eff39990b4ff3262a]
+### 9. The National Health Service (Charges for Drugs and Appliances) Regulations 2000[^c-59f465edabbc951eff39990b4ff3262a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. The Family Health Services Appeal Authority (Procedure) Rules 2001[^key-e31848b84337b05a5170c7c4d4d6ac49]
+### 10. The Family Health Services Appeal Authority (Procedure) Rules 2001[^c-e31848b84337b05a5170c7c4d4d6ac49]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. The Abolition of the NHS Tribunal (Consequential Provisions) Regulations 2002[^key-3a41bfb6d225b57e413dda0d9741bfc3]
+### 11. The Abolition of the NHS Tribunal (Consequential Provisions) Regulations 2002[^c-3a41bfb6d225b57e413dda0d9741bfc3]
 
 In the Abolition of the NHS Tribunal (Consequential Provisions) Regulations 2002[^f00047], omit regulation 10.
 
-### 12. The National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) Regulations 2002[^key-103ed5dbf04187e4daa88a4cf1a09b9d]
+### 12. The National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) Regulations 2002[^c-103ed5dbf04187e4daa88a4cf1a09b9d]
 
 In the National Health Service (Functions of Strategic Health Authorities and Primary Care Trusts and Administration Arrangements) (England) Regulations 2002[^f00048]—
 
@@ -858,7 +858,7 @@ In the National Health Service (Functions of Strategic Health Authorities and Pr
 - (c) in Part 1 of Schedule 1 (Secretary of State Functions Exercisable by Strategic Health Authorities and by Primary Care Trusts), for the entry in column 2 relating to section 26(2) of the 1977 Act, substitute “Supplying prescribed goods, materials or other facilities to persons providing general ophthalmic services or pharmaceutical services or providing services under a general medical services contract or a general dental services contract or in accordance with section 28C arrangements or providing local pharmaceutical services”; and
 - (d) in the Table in Schedule 3 omit the entry for the 1997 Act in column 1 and the corresponding entry in column 2.
 
-### 13. The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002[^key-7b1b1abd55cbb81de1fba71d57252732]
+### 13. The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002[^c-7b1b1abd55cbb81de1fba71d57252732]
 
 In the National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002[^f00049]—
 
@@ -871,11 +871,11 @@ In the National Health Service Reform and Health Care Professions Act 2002 (Supp
   - (i) National Health Service (General Dental Services) Regulations 1992, and
   - (ii) National Health Service (Functions of Health Authorities) (General Dental Services Incentive Schemes) Regulations 2001.
 
-### 14. The Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002[^key-ac5cc8283c09548ca141ad9cc09f5436]
+### 14. The Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002[^c-ac5cc8283c09548ca141ad9cc09f5436]
 
 In regulation 4 of the Local Authority (Overview and Scrutiny Committees Health Scrutiny Functions) Regulations 2002[^f00051] (consultation of committees), omit paragraph (2)(b).
 
-### 15. The Patients' Forums (Functions) Regulations 2003[^key-a8d3dddf52058d652b1d5555eb7177a2]
+### 15. The Patients' Forums (Functions) Regulations 2003[^c-a8d3dddf52058d652b1d5555eb7177a2]
 
 In regulation 3(3) of the Patients' Forums (Functions) Regulations 2003[^f00052] (entry and inspection of premises)—
 
@@ -886,7 +886,7 @@ In regulation 3(3) of the Patients' Forums (Functions) Regulations 2003[^f00052]
   ; and
 - (b) in sub-paragraph (e), omit “or under a personal dental services pilot scheme established under Part 1 of the National Health Service (Primary Care) Act 1997”.
 
-### 16. The National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^key-47eb98930d0b52d8afb0b43ed1ddf978]
+### 16. The National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^c-47eb98930d0b52d8afb0b43ed1ddf978]
 
 (1) The National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^f00053] is amended in accordance with this paragraph.
 
@@ -921,7 +921,7 @@ In regulation 3(3) of the Patients' Forums (Functions) Regulations 2003[^f00052]
 
 .
 
-### 17. The Delayed Discharges (England) Regulations 2003[^key-794dace5ef6b9e047f4e2324d9bab189]
+### 17. The Delayed Discharges (England) Regulations 2003[^c-794dace5ef6b9e047f4e2324d9bab189]
 
 In regulation 2 of the Delayed Discharges (England) Regulations 2003[^f00056] (interpretation), in the definition of “health service body”, for paragraph (d) substitute—
 
@@ -929,19 +929,19 @@ In regulation 2 of the Delayed Discharges (England) Regulations 2003[^f00056] (i
 
 .
 
-### 18. The National Health Service (General Medical Services etc) (Patients' Forums) Amendment Regulations 2003[^key-bd7954c590fa6225c25731b1097f19b6]
+### 18. The National Health Service (General Medical Services etc) (Patients' Forums) Amendment Regulations 2003[^c-bd7954c590fa6225c25731b1097f19b6]
 
 In the National Health Service (General Medical Services etc) (Patients' Forums) Amendment Regulations 2003[^f00059], omit regulation 3 (amendment of the General Dental Services Regulations).
 
-### 19. The Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004[^key-3233c92b921f2e0fc2e45d3628e91393]
+### 19. The Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004[^c-3233c92b921f2e0fc2e45d3628e91393]
 
 In the table in Schedule 2 to the Health and Social Care (Community Health and Standards) Act 2003 (Supplementary and Consequential Provision) (NHS Foundation Trusts) Order 2004[^f00060] (enactments where after “National Health Service Trust” or “NHS Trust” there is inserted “NHS Foundation Trust”, omit the entry relating to the National Health Service (General Dental Services) Regulations 1992.
 
-### 20. The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004[^key-492344165a30029080b0f6a154dc2d06]
+### 20. The General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004[^c-492344165a30029080b0f6a154dc2d06]
 
 In Schedule 1 to the General Medical Services and Personal Medical Services Transitional and Consequential Provisions Order 2004[^f00061], omit paragraph 9 (the National Health Service (General Dental Services) Regulations 1992).
 
-### 21. The National Health Service (Complaints) Regulations 2004[^key-155f1900698cb20fe75f3cdcb78ffd48]
+### 21. The National Health Service (Complaints) Regulations 2004[^c-155f1900698cb20fe75f3cdcb78ffd48]
 
 In regulation 2 of the National Health Service (Complaints) Regulations 2004[^f00062] (interpretation)—
 
@@ -957,11 +957,11 @@ In regulation 2 of the National Health Service (Complaints) Regulations 2004[^f0
 
   .
 
-### 22. The Special Health Authorities Abolition Order 2005[^key-a543bb6eaee595b17bf439f6f7cd2b7f]
+### 22. The Special Health Authorities Abolition Order 2005[^c-a543bb6eaee595b17bf439f6f7cd2b7f]
 
 In Schedule 2 to the Special Health Authorities Abolition Order 2005[^f00063] (amendments consequential on the abolition of the Special Health Authorities), omit paragraph 5 (the National Health Service (General Dental Services Supplementary List) and (General Dental Services) Amendment Regulations 2003).
 
-### 23. The National Health Service (Pharmaceutical Services) Regulations 2005[^key-ad900e337776b4a1af0507d56b824219][^key-4f87b547c9d74125d4a24566f9485e2a]
+### 23. The National Health Service (Pharmaceutical Services) Regulations 2005[^c-ad900e337776b4a1af0507d56b824219][^c-4f87b547c9d74125d4a24566f9485e2a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -969,30 +969,30 @@ In Schedule 2 to the Special Health Authorities Abolition Order 2005[^f00063] (a
 
 Article 48
 
-### 1. The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002[^key-04e70c672a8255038bff304e060264fd]
+### 1. The National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002[^c-04e70c672a8255038bff304e060264fd]
 
 In the National Health Service Reform and Health Care Professions Act 2002 (Supplementary, Consequential etc. Provisions) Regulations 2002[^f00065], in Schedule 1 omit paragraph 55.
 
-### 2. The Government Resources and Accounts Act 2000 (Audit of Health Service Bodies) Order 2003[^key-06803cbf549b698c020834585b78d8f2]
+### 2. The Government Resources and Accounts Act 2000 (Audit of Health Service Bodies) Order 2003[^c-06803cbf549b698c020834585b78d8f2]
 
 In the Government Resources and Accounts Act 2000 (Audit of Health Service Bodies) Order 2003[^f00066]—
 
 - (a) for the heading to article 2, there shall be substituted “Special Health Authorities”; and
 - (b) in Schedule 1, the words “Dental Practice Board” shall be omitted.
 
-### 3. The National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^key-1960318bfe0b7e0e7abdc0c4470c03a3]
+### 3. The National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^c-1960318bfe0b7e0e7abdc0c4470c03a3]
 
 In regulation 12 of the National Health Service (Travel Expenses and Remission of Charges) Regulations 2003[^f00067] (repayments), omit paragraph (4).
 
-### 4. The Community Health Councils Regulations 2004[^key-98f72bdc03240b483b5d8b0c28f6f0aa]
+### 4. The Community Health Councils Regulations 2004[^c-98f72bdc03240b483b5d8b0c28f6f0aa]
 
-In regulation 9 of the Community Health Councils Regulations 2004 *(affected by repeal, see note)*[^key-78556a78e7325db0806369725126146b][^f00068] (disqualification for membership), omit paragraph (2)(h). *(affected by repeal, see note)*[^key-78556a78e7325db0806369725126146b]
+In regulation 9 of the Community Health Councils Regulations 2004 *(affected by repeal, see note)*[^c-78556a78e7325db0806369725126146b][^f00068] (disqualification for membership), omit paragraph (2)(h). *(affected by repeal, see note)*[^c-78556a78e7325db0806369725126146b]
 
-### 5. The Medicines for Human Use (Clinical Trials) Regulations 2004[^key-f24b2bed7c4f8dbdb287544b466d314c]
+### 5. The Medicines for Human Use (Clinical Trials) Regulations 2004[^c-f24b2bed7c4f8dbdb287544b466d314c]
 
 In regulation 2(1) of the Medicines for Human Use (Clinical Trials) Regulations 2004[^f00069] (interpretation), in the definition of “health service body”, omit paragraph (e).
 
-## SCHEDULE 3 — REVOCATIONS[^key-f6a4281857fee507272b765ecff772e6]
+## SCHEDULE 3 — REVOCATIONS[^c-f6a4281857fee507272b765ecff772e6]
 
 Article 49
 
@@ -1055,9 +1055,9 @@ A Regulatory Impact Assessment has been prepared in respect of the National Heal
 
 [^f00001]: Footnote: [2003 c. 43](https://www.legislation.gov.uk/ukpga/2003/43).
 
-[^key-f8c2e5c40b52419dc7cc8bd11f4a746e]: Commencement: Art. 1 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-f8c2e5c40b52419dc7cc8bd11f4a746e]: Commencement: Art. 1 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-6d369f6d55721445d0cf9519d77acec5]: Commencement: Art. 2 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-6d369f6d55721445d0cf9519d77acec5]: Commencement: Art. 2 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00002]: Footnote: [1977 c. 49](https://www.legislation.gov.uk/ukpga/1977/49).
 
@@ -1083,203 +1083,203 @@ A Regulatory Impact Assessment has been prepared in respect of the National Heal
 
 [^f00013]: Footnote: The Statement of Dental Remuneration is available on www.dh.gov.uk.
 
-[^key-db16a7befe9d7ee37f2ebdc01d299fe0]: Commencement: Art. 3 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-db16a7befe9d7ee37f2ebdc01d299fe0]: Commencement: Art. 3 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-8fed631ee7a3a765819373d52905e709]: Commencement: Art. 4 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-8fed631ee7a3a765819373d52905e709]: Commencement: Art. 4 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00014]: Footnote: “General dental services” has the meaning given to it in section 35(1A) of the 1977 Act.
 
 [^f00015]: Footnote: [S.I. 1998/2222](https://www.legislation.gov.uk/uksi/1998/2222).
 
-[^key-e26f7983a16fda6e839a0c2780d11659]: Commencement: Art. 5 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-e26f7983a16fda6e839a0c2780d11659]: Commencement: Art. 5 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00016]: Footnote: Paragraph 31A was inserted into the 1992 Regulations by [S.I. 1996/704](https://www.legislation.gov.uk/uksi/1996/704).
 
 [^f00017]: Footnote: [S.I. 2004/1768](https://www.legislation.gov.uk/uksi/2004/1768).
 
-[^key-1c3e0d88b0d4308f16122a2d9a4b5d6f]: Commencement: Art. 6 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-1c3e0d88b0d4308f16122a2d9a4b5d6f]: Commencement: Art. 6 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-05ea639bdd07caf3e961c30845ed09bb]: Commencement: Art. 7 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-05ea639bdd07caf3e961c30845ed09bb]: Commencement: Art. 7 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00018]: Footnote: Relevant amending instruments are [S.I. 2001/2421](https://www.legislation.gov.uk/uksi/2001/2421) and [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).
 
-[^key-73e0e6900a00acfc729670fac59bc208]: Commencement: Art. 8 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-73e0e6900a00acfc729670fac59bc208]: Commencement: Art. 8 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-8d5c20f27478dd495dc9a414f42271ed]: Commencement: Art. 9 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-8d5c20f27478dd495dc9a414f42271ed]: Commencement: Art. 9 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-2b480dce2b5927a8814024e7348b4e14]: Commencement: Art. 10 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-2b480dce2b5927a8814024e7348b4e14]: Commencement: Art. 10 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-a8410090fccbf3a98d5059448621aeb7]: Commencement: Art. 11 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-a8410090fccbf3a98d5059448621aeb7]: Commencement: Art. 11 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00019]: Footnote: Regulation 32 was substituted by regulation 6 of [S.I. 1993/2209](https://www.legislation.gov.uk/uksi/1993/2209).
 
-[^key-5b6f7f388a93c13692bcafad0e4c35bb]: Commencement: Art. 12 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-5b6f7f388a93c13692bcafad0e4c35bb]: Commencement: Art. 12 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-1ac5ce549552c4ecf9b5d6251674bf1c]: Commencement: Art. 13 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-1ac5ce549552c4ecf9b5d6251674bf1c]: Commencement: Art. 13 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00020]: Footnote: Paragraph 11A was inserted into Schedule 1 to the 1992 Regulations by [S.I 1998/1648](https://www.legislation.gov.uk/uksi/1998/1648) and amended by [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).
 
-[^key-fe7263b7c1f5ae307d0d3f43da39e0e6]: Commencement: Art. 14 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-fe7263b7c1f5ae307d0d3f43da39e0e6]: Commencement: Art. 14 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-e27c556c5e6739948597cb7771b9db63]: Commencement: Art. 15 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-e27c556c5e6739948597cb7771b9db63]: Commencement: Art. 15 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-bc4a4f8c6298a6927e16e3d75e06da8b]: Commencement: Art. 16 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-bc4a4f8c6298a6927e16e3d75e06da8b]: Commencement: Art. 16 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-af63cf98ee516c56076d141ab6a44eea]: Commencement: Art. 17 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-af63cf98ee516c56076d141ab6a44eea]: Commencement: Art. 17 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00021]: Footnote: Paragraph 17 of Schedule 1 to the 1992 Regulations was substituted by [S.I. 2001/1746](https://www.legislation.gov.uk/uksi/2001/1746).
 
-[^key-b6108cb9a71b717c89bfe7682822a999]: Commencement: Art. 18 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-b6108cb9a71b717c89bfe7682822a999]: Commencement: Art. 18 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-7e9e401885d1ad5decd47f9a58899643]: Commencement: Art. 19 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-7e9e401885d1ad5decd47f9a58899643]: Commencement: Art. 19 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-75393c74225a3d1e68ad6f780ea260a9]: Commencement: Art. 20 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-75393c74225a3d1e68ad6f780ea260a9]: Commencement: Art. 20 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00022]: Footnote: “Personal dental services” has the meaning given to it in section 28C(7) of the 1977 Act prior to its repeal by 2003 Act.
 
 [^f00023]: Footnote: [S.I. 1998/2222](https://www.legislation.gov.uk/uksi/1998/2222).
 
-[^key-ad2447c0290d81ba2a0e11edb37e762d]: Commencement: Art. 21 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-ad2447c0290d81ba2a0e11edb37e762d]: Commencement: Art. 21 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00024]: Footnote: [S.I. 2004/1768](https://www.legislation.gov.uk/uksi/2004/1768).
 
-[^key-a1638718937e42fa38ec1874f7eb824d]: Commencement: Art. 22 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-a1638718937e42fa38ec1874f7eb824d]: Commencement: Art. 22 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-429433343eb551d539082d726b24a16e]: Commencement: Art. 23 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-429433343eb551d539082d726b24a16e]: Commencement: Art. 23 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-8f4c318a409d3fea03d9f995b54f57cf]: Commencement: Art. 24 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-8f4c318a409d3fea03d9f995b54f57cf]: Commencement: Art. 24 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-022feaf86d7a2e83c47df51987dc0c96]: Commencement: Art. 25 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-022feaf86d7a2e83c47df51987dc0c96]: Commencement: Art. 25 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-4b7e2d80fab61fb81c7c183552382996]: Commencement: Art. 26 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-4b7e2d80fab61fb81c7c183552382996]: Commencement: Art. 26 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-0da4e72c22abfa8f90e75cb8716c93d1]: Commencement: Art. 27 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-0da4e72c22abfa8f90e75cb8716c93d1]: Commencement: Art. 27 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-307f1e0084e2d4c7651effe6a897bfc7]: Commencement: Art. 28 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-307f1e0084e2d4c7651effe6a897bfc7]: Commencement: Art. 28 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-3f41e42bea32ed8204a44788f95087ac]: Commencement: Art. 29 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-3f41e42bea32ed8204a44788f95087ac]: Commencement: Art. 29 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-39e3d8642f40babb7bf19be82175c001]: Commencement: Art. 30 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-39e3d8642f40babb7bf19be82175c001]: Commencement: Art. 30 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00025]: Footnote: [1990 c. 19](https://www.legislation.gov.uk/ukpga/1990/19).
 
-[^key-1ec17e6563e233c60fc13d3b4f6deccd]: Commencement: Art. 31 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-1ec17e6563e233c60fc13d3b4f6deccd]: Commencement: Art. 31 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00026]: Footnote: [S.I. 1992/664](https://www.legislation.gov.uk/uksi/1992/664) as amended by [S.I. 1996/703](https://www.legislation.gov.uk/uksi/1996/703), [1998/674](https://www.legislation.gov.uk/uksi/1998/674), [2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2003/1397](https://www.legislation.gov.uk/uksi/2003/1397).
 
 [^f00027]: Footnote: [S.I. 2004/585](https://www.legislation.gov.uk/uksi/2004/585); as amended by [S.I. 2004/2694](https://www.legislation.gov.uk/uksi/2004/2694) and [2005/502](https://www.legislation.gov.uk/uksi/2005/502), [893](https://www.legislation.gov.uk/uksi/2005/893) and [3491](https://www.legislation.gov.uk/uksi/2005/3491).
 
-[^key-7fd545200ba58d38776d5cfa281635a1]: Commencement: Art. 32 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-7fd545200ba58d38776d5cfa281635a1]: Commencement: Art. 32 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-f0920775147193f5042b905b9475eddd]: Commencement: Art. 33 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-f0920775147193f5042b905b9475eddd]: Commencement: Art. 33 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-6072b0725c0d0f75d4c3032095a42a48]: Commencement: Art. 34 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-6072b0725c0d0f75d4c3032095a42a48]: Commencement: Art. 34 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-240bc8461d48002033240debcc1e92b4]: Commencement: Art. 35 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-240bc8461d48002033240debcc1e92b4]: Commencement: Art. 35 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-401b412bfdec78a32759df925e3b5e15]: Commencement: Art. 36 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-401b412bfdec78a32759df925e3b5e15]: Commencement: Art. 36 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-8cc80c31947e38b0a09611b3396fdc1a]: Commencement: Art. 37 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-8cc80c31947e38b0a09611b3396fdc1a]: Commencement: Art. 37 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00028]: Footnote: Section 45B is inserted into the 1977 Act by the 2003 Act, Schedule 11, paragraph 23.
 
-[^key-1434afcf006b63388efed278f067faad]: Commencement: Art. 38 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-1434afcf006b63388efed278f067faad]: Commencement: Art. 38 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-d53a520bf4c78a74bbdef3adb9a99a00]: Commencement: Art. 39 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-d53a520bf4c78a74bbdef3adb9a99a00]: Commencement: Art. 39 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00029]: Footnote: Regulation 30A is inserted by regulation 4 of [S.I. 1996/704](https://www.legislation.gov.uk/uksi/1996/704).
 
-[^key-15dbfb48b1b964d3d9234dc3f89defc9]: Commencement: Art. 40 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-15dbfb48b1b964d3d9234dc3f89defc9]: Commencement: Art. 40 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-816bbe0eb39b8e0f951ddb4e645d7e9a]: Commencement: Art. 41 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-816bbe0eb39b8e0f951ddb4e645d7e9a]: Commencement: Art. 41 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00030]: Footnote: [S.I 1998/2223](https://www.legislation.gov.uk/uksi/1998/2223) amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).
 
 [^f00031]: Footnote: The Directions to the Dental Practice Board Concerning Functions Relating To Personal Dental Services Pilot Schemes were made on 11th September 1998 and are available on www.dh.gov.uk.
 
-[^key-57771279911fc157649a3b529d170f80]: Commencement: Art. 42 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-57771279911fc157649a3b529d170f80]: Commencement: Art. 42 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-00ec541d17e3e65f6e9355d7903771cd]: Commencement: Art. 43 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-00ec541d17e3e65f6e9355d7903771cd]: Commencement: Art. 43 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00032]: Footnote: [S.I. 1992/655](https://www.legislation.gov.uk/uksi/1992/655).
 
 [^f00033]: Footnote: Section 37(1C) was inserted by the Health and Medicines Act [1988 (c. 49)](https://www.legislation.gov.uk/ukpga/1988/49), section 12(3).
 
-[^key-2de03771f66b89f81f5b4bd189cb70fd]: Commencement: Art. 44 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-2de03771f66b89f81f5b4bd189cb70fd]: Commencement: Art. 44 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-d5bbf785cf09c3866b7885558ff30e64]: Commencement: Art. 45 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-d5bbf785cf09c3866b7885558ff30e64]: Commencement: Art. 45 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-35d42d2e106c5aee96a05ac65e77e402]: Commencement: Art. 46 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-35d42d2e106c5aee96a05ac65e77e402]: Commencement: Art. 46 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00034]: Footnote: [S.I. 2001/3750](https://www.legislation.gov.uk/uksi/2001/3750).
 
-[^key-8a0abd0eb96fbcbdfcc006005ffb990c]: Commencement: Art. 47 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-8a0abd0eb96fbcbdfcc006005ffb990c]: Commencement: Art. 47 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-65cb22aeae931511171f93521a4e3f71]: Commencement: Art. 48 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-65cb22aeae931511171f93521a4e3f71]: Commencement: Art. 48 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-86088c3228d401a235e4acae2c5e21f7]: Commencement: Art. 49 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-86088c3228d401a235e4acae2c5e21f7]: Commencement: Art. 49 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-2f3b22ae8917189abb36539a113124fe]: Commencement: Sch. 1 para. 1 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-2f3b22ae8917189abb36539a113124fe]: Commencement: Sch. 1 para. 1 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00035]: Footnote: [S.I. 1980/1924](https://www.legislation.gov.uk/uksi/1980/1924).
 
 [^f00036]: Footnote: Article 4B was inserted by [S.I. 2000/1919](https://www.legislation.gov.uk/uksi/2000/1919) and amended by [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865), [1016](https://www.legislation.gov.uk/uksi/2004/1016), [2261](https://www.legislation.gov.uk/uksi/2004/2261) and [3038](https://www.legislation.gov.uk/uksi/2004/3038) and [S.S.I. 2004/212](https://www.legislation.gov.uk/ssi/2004/212).
 
-[^key-b2f0f9a2ab5d5eb9558a9e7bdad3b4fb]: Commencement: Sch. 1 para. 2 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-b2f0f9a2ab5d5eb9558a9e7bdad3b4fb]: Commencement: Sch. 1 para. 2 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00037]: Footnote: [S.I. 1990/2024](https://www.legislation.gov.uk/uksi/1990/2024), amended by [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865); there are other amending instruments, but none are relevant.
 
-[^key-99bbac19571ff2a11b19291530404b83]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2006/562/schedule/1/paragraph/3) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 1(3)(f)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/1/3/f) (with [Sch. 7 para. 14(2)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/7/paragraph/14/2))
+[^c-99bbac19571ff2a11b19291530404b83]: Textual amendment: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/2006/562/schedule/1/paragraph/3) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 1(3)(f)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/1/3/f) (with [Sch. 7 para. 14(2)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/7/paragraph/14/2))
 
-[^key-0909fcfc74b759a57822e9ffd6197a32]: Commencement: Sch. 1 para. 4 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-0909fcfc74b759a57822e9ffd6197a32]: Commencement: Sch. 1 para. 4 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00039]: Footnote: [S.I. 1994/3144](https://www.legislation.gov.uk/uksi/1994/3144); relevant amending instruments are [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [1016](https://www.legislation.gov.uk/uksi/2004/1016).
 
-[^key-10d637f6a0810f4be32885c2ec2524e7]: Commencement: Sch. 1 para. 5 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-10d637f6a0810f4be32885c2ec2524e7]: Commencement: Sch. 1 para. 5 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00040]: Footnote: [S.I. 1996/707](https://www.legislation.gov.uk/uksi/1996/707). These Regulations (but not the title) were amended, for England, to relate to Strategic Health Authorities by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469). Other relevant amending instruments are [S.I. 1997/2991](https://www.legislation.gov.uk/uksi/1997/2991), [1998/646](https://www.legislation.gov.uk/uksi/1998/646) and [2621](https://www.legislation.gov.uk/uksi/1998/2621), [1999/1901](https://www.legislation.gov.uk/uksi/1999/1901), [2000/696](https://www.legislation.gov.uk/uksi/2000/696) and [2002/556](https://www.legislation.gov.uk/uksi/2002/556) and [2004/865](https://www.legislation.gov.uk/uksi/2004/865).
 
-[^key-65adb70685f55bab66a728e2676990a2]: Commencement: Sch. 1 para. 6 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-65adb70685f55bab66a728e2676990a2]: Commencement: Sch. 1 para. 6 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00041]: Footnote: [S.I. 1997/1830](https://www.legislation.gov.uk/uksi/1997/1830).
 
 [^f00042]: Footnote: Article 12B was inserted by [S.I. 2000/1917](https://www.legislation.gov.uk/uksi/2000/1917) and amended by [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469), [2004/865](https://www.legislation.gov.uk/uksi/2004/865), [1016](https://www.legislation.gov.uk/uksi/2004/1016), [2261](https://www.legislation.gov.uk/uksi/2004/2261), [3038](https://www.legislation.gov.uk/uksi/2004/3038) and [S.S.I. 2004/212](https://www.legislation.gov.uk/ssi/2004/212).
 
-[^key-43495835ce9108802baed39812ad2309]: Commencement: Sch. 1 para. 7 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-43495835ce9108802baed39812ad2309]: Commencement: Sch. 1 para. 7 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00043]: Footnote: [S.I. 1999/2337](https://www.legislation.gov.uk/uksi/1999/2337); relevant amending instruments are [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2004/865](https://www.legislation.gov.uk/uksi/2004/865).
 
-[^key-b5a2196b8dc976ff0d583114c6f3db6c]: Commencement: Sch. 1 para. 8 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-b5a2196b8dc976ff0d583114c6f3db6c]: Commencement: Sch. 1 para. 8 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00044]: Footnote: [S.I. 2000/89](https://www.legislation.gov.uk/uksi/2000/89); relevant amending instruments are [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469) and [2861](https://www.legislation.gov.uk/uksi/2002/2861), [2003/1616](https://www.legislation.gov.uk/uksi/2003/1616) and [2004/696](https://www.legislation.gov.uk/uksi/2004/696), [865](https://www.legislation.gov.uk/uksi/2004/865) and [1771](https://www.legislation.gov.uk/uksi/2004/1771).
 
-[^key-59f465edabbc951eff39990b4ff3262a]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2006/562/schedule/1/paragraph/9) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
+[^c-59f465edabbc951eff39990b4ff3262a]: Textual amendment: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2006/562/schedule/1/paragraph/9) revoked (1.4.2015) by [The National Health Service (Charges for Drugs and Appliances) Regulations 2015 (S.I. 2015/570)](https://www.legislation.gov.uk/uksi/2015/570), [reg. 1](https://www.legislation.gov.uk/uksi/2015/570/regulation/1), [Sch. 3](https://www.legislation.gov.uk/uksi/2015/570/schedule/3)
 
-[^key-e31848b84337b05a5170c7c4d4d6ac49]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2006/562/schedule/1/paragraph/10) revoked (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)
+[^c-e31848b84337b05a5170c7c4d4d6ac49]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2006/562/schedule/1/paragraph/10) revoked (18.1.2010) by [The Transfer of Tribunal Functions Order 2010 (S.I. 2010/22)](https://www.legislation.gov.uk/uksi/2010/22), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/22/article/1/1), [Sch. 4 Pt. 1](https://www.legislation.gov.uk/uksi/2010/22/schedule/4/part/1)
 
-[^key-3a41bfb6d225b57e413dda0d9741bfc3]: Commencement: Sch. 1 para. 11 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-3a41bfb6d225b57e413dda0d9741bfc3]: Commencement: Sch. 1 para. 11 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00047]: Footnote: [S.I. 2002/1920](https://www.legislation.gov.uk/uksi/2002/1920).
 
-[^key-103ed5dbf04187e4daa88a4cf1a09b9d]: Commencement: Sch. 1 para. 12 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-103ed5dbf04187e4daa88a4cf1a09b9d]: Commencement: Sch. 1 para. 12 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00048]: Footnote: [S.I. 2002/2375](https://www.legislation.gov.uk/uksi/2002/2375).
 
-[^key-7b1b1abd55cbb81de1fba71d57252732]: Commencement: Sch. 1 para. 13 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-7b1b1abd55cbb81de1fba71d57252732]: Commencement: Sch. 1 para. 13 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00049]: Footnote: [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).
 
 [^f00050]: Footnote: Relevant amending instruments are [S.I. 2004/641](https://www.legislation.gov.uk/uksi/2004/641), [865](https://www.legislation.gov.uk/uksi/2004/865) and [1016](https://www.legislation.gov.uk/uksi/2004/1016).
 
-[^key-ac5cc8283c09548ca141ad9cc09f5436]: Commencement: Sch. 1 para. 14 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-ac5cc8283c09548ca141ad9cc09f5436]: Commencement: Sch. 1 para. 14 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00051]: Footnote: [S.I. 2002/3048](https://www.legislation.gov.uk/uksi/2002/3048); the relevant amending instrument is [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696).
 
-[^key-a8d3dddf52058d652b1d5555eb7177a2]: Commencement: Sch. 1 para. 15 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-a8d3dddf52058d652b1d5555eb7177a2]: Commencement: Sch. 1 para. 15 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00052]: Footnote: [S.I. 2003/2124](https://www.legislation.gov.uk/uksi/2003/2124); relevant amending instruments are [S.I. 2004/540](https://www.legislation.gov.uk/uksi/2004/540), [696](https://www.legislation.gov.uk/uksi/2004/696) and [865](https://www.legislation.gov.uk/uksi/2004/865).
 
-[^key-47eb98930d0b52d8afb0b43ed1ddf978]: Commencement: Sch. 1 para. 16 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-47eb98930d0b52d8afb0b43ed1ddf978]: Commencement: Sch. 1 para. 16 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00053]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382).
 
@@ -1287,7 +1287,7 @@ A Regulatory Impact Assessment has been prepared in respect of the National Heal
 
 [^f00055]: Footnote: Regulation 3 has been previously amended by [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865) and [696](https://www.legislation.gov.uk/uksi/2004/696).
 
-[^key-794dace5ef6b9e047f4e2324d9bab189]: Commencement: Sch. 1 para. 17 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-794dace5ef6b9e047f4e2324d9bab189]: Commencement: Sch. 1 para. 17 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00056]: Footnote: [S.I. 2003/2277](https://www.legislation.gov.uk/uksi/2003/2277).
 
@@ -1295,50 +1295,50 @@ A Regulatory Impact Assessment has been prepared in respect of the National Heal
 
 [^f00058]: Footnote: [S.I. 2005/3373](https://www.legislation.gov.uk/uksi/2005/3373).
 
-[^key-bd7954c590fa6225c25731b1097f19b6]: Commencement: Sch. 1 para. 18 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-bd7954c590fa6225c25731b1097f19b6]: Commencement: Sch. 1 para. 18 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00059]: Footnote: [S.I. 2003/2863](https://www.legislation.gov.uk/uksi/2003/2863).
 
-[^key-3233c92b921f2e0fc2e45d3628e91393]: Commencement: Sch. 1 para. 19 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-3233c92b921f2e0fc2e45d3628e91393]: Commencement: Sch. 1 para. 19 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00060]: Footnote: [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696).
 
-[^key-492344165a30029080b0f6a154dc2d06]: Commencement: Sch. 1 para. 20 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-492344165a30029080b0f6a154dc2d06]: Commencement: Sch. 1 para. 20 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00061]: Footnote: [S.I. 2004/865](https://www.legislation.gov.uk/uksi/2004/865).
 
-[^key-155f1900698cb20fe75f3cdcb78ffd48]: Commencement: Sch. 1 para. 21 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-155f1900698cb20fe75f3cdcb78ffd48]: Commencement: Sch. 1 para. 21 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00062]: Footnote: [S.I. 2004/1768](https://www.legislation.gov.uk/uksi/2004/1768).
 
-[^key-a543bb6eaee595b17bf439f6f7cd2b7f]: Commencement: Sch. 1 para. 22 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-a543bb6eaee595b17bf439f6f7cd2b7f]: Commencement: Sch. 1 para. 22 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00063]: Footnote: [S.I. 2005/502](https://www.legislation.gov.uk/uksi/2005/502).
 
-[^key-ad900e337776b4a1af0507d56b824219]: Textual amendment: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2006/562/schedule/1/paragraph/23) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 9(2)(e)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/9/2/e)
+[^c-ad900e337776b4a1af0507d56b824219]: Textual amendment: [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2006/562/schedule/1/paragraph/23) revoked (1.9.2012) by [The National Health Service (Pharmaceutical Services) Regulations 2012 (S.I. 2012/1909)](https://www.legislation.gov.uk/uksi/2012/1909), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1909/regulation/1), [Sch. 8 para. 9(2)(e)](https://www.legislation.gov.uk/uksi/2012/1909/schedule/8/paragraph/9/2/e)
 
-[^key-4f87b547c9d74125d4a24566f9485e2a]: Commencement: Sch. 1 para. 23 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-4f87b547c9d74125d4a24566f9485e2a]: Commencement: Sch. 1 para. 23 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-04e70c672a8255038bff304e060264fd]: Commencement: Sch. 2 para. 1 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-04e70c672a8255038bff304e060264fd]: Commencement: Sch. 2 para. 1 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00065]: Footnote: [S.I. 2002/2469](https://www.legislation.gov.uk/uksi/2002/2469).
 
-[^key-06803cbf549b698c020834585b78d8f2]: Commencement: Sch. 2 para. 2 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-06803cbf549b698c020834585b78d8f2]: Commencement: Sch. 2 para. 2 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00066]: Footnote: [S.I. 2003/1324](https://www.legislation.gov.uk/uksi/2003/1324).
 
-[^key-1960318bfe0b7e0e7abdc0c4470c03a3]: Commencement: Sch. 2 para. 3 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-1960318bfe0b7e0e7abdc0c4470c03a3]: Commencement: Sch. 2 para. 3 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00067]: Footnote: [S.I. 2003/2382](https://www.legislation.gov.uk/uksi/2003/2382). Regulation 12 was previously amended by [S.I. 2004/696](https://www.legislation.gov.uk/uksi/2004/696) and [2005/578](https://www.legislation.gov.uk/uksi/2005/578).
 
-[^key-98f72bdc03240b483b5d8b0c28f6f0aa]: Commencement: Sch. 2 para. 4 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-98f72bdc03240b483b5d8b0c28f6f0aa]: Commencement: Sch. 2 para. 4 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
-[^key-78556a78e7325db0806369725126146b]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2006/562/schedule/2/paragraph/4) revoked (W.) (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2023/299/schedule/1/paragraph/6)
+[^c-78556a78e7325db0806369725126146b]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2006/562/schedule/2/paragraph/4) revoked (W.) (1.4.2023) by [The Health and Social Care (Quality and Engagement) (Wales) Act 2020 (Consequential, Supplementary and Incidental Amendments and Revocations) (Secondary Legislation) Regulations 2023 (S.I. 2023/299)](https://www.legislation.gov.uk/wsi/2023/299), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/299/regulation/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2023/299/schedule/1/paragraph/6)
 
 [^f00068]: Footnote: [S.I. 2004/905](https://www.legislation.gov.uk/uksi/2004/905).
 
-[^key-f24b2bed7c4f8dbdb287544b466d314c]: Commencement: Sch. 2 para. 5 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-f24b2bed7c4f8dbdb287544b466d314c]: Commencement: Sch. 2 para. 5 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
 
 [^f00069]: Footnote: [S.I. 2004/1031](https://www.legislation.gov.uk/uksi/2004/1031).
 
-[^key-f6a4281857fee507272b765ecff772e6]: Commencement: Sch. 3 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)
+[^c-f6a4281857fee507272b765ecff772e6]: Commencement: Sch. 3 in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2006/562/article/1/1)

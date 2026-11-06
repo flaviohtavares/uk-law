@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Saving for rights of joint holders, etc.[^key-5f72652cedb8805bb5e1b2b15a2effd8]
+## 77. Saving for rights of joint holders, etc.[^c-5f72652cedb8805bb5e1b2b15a2effd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5f72652cedb8805bb5e1b2b15a2effd8]: Commencement: Reg. 77 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-5f72652cedb8805bb5e1b2b15a2effd8]: Commencement: Reg. 77 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

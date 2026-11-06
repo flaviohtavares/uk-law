@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Taxation[^key-7c0d1b1432ddf7c251f63b2420577f42]
+## 23. Taxation[^c-7c0d1b1432ddf7c251f63b2420577f42]
 
 *Extent: E+W+S+N.I.*
 
@@ -63,4 +63,4 @@ by or under, or in consequence of, an order made under this Part.
 
 ## Annotations
 
-[^key-7c0d1b1432ddf7c251f63b2420577f42]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/5/section/23) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-7c0d1b1432ddf7c251f63b2420577f42]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2011/5/section/23) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

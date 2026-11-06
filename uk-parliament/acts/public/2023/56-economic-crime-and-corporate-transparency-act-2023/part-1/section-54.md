@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Filing obligations of small companies other than micro-entities[^key-3b6476aaf111f252afa58d418a165f3a]
+## 54. Filing obligations of small companies other than micro-entities[^c-3b6476aaf111f252afa58d418a165f3a]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ For section 444 of the Companies Act 2006 substitute—
 
 ## Annotations
 
-[^key-3b6476aaf111f252afa58d418a165f3a]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-3b6476aaf111f252afa58d418a165f3a]: Commencement: S. 54 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

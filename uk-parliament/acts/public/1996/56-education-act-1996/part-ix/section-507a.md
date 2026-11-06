@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 507A. Local authorities in England: functions in respect of recreational and training facilities for children under 13[^key-e55c8e5718f853ccdca46d9f9f6d50d8][^key-df82d42709314c7296748c08b3554faa]
+## 507A. Local authorities in England: functions in respect of recreational and training facilities for children under 13[^c-e55c8e5718f853ccdca46d9f9f6d50d8][^c-df82d42709314c7296748c08b3554faa]
 
 *Extent: E+W*
 
-(1) A local authority[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] in England must secure that the facilities for primary and secondary education provided for their area include adequate facilities for recreation and social and physical training for children who have not attained the age of 13.
+(1) A local authority[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41] in England must secure that the facilities for primary and secondary education provided for their area include adequate facilities for recreation and social and physical training for children who have not attained the age of 13.
 
 (2) For the purposes of subsection (1) a local authority may—
 
@@ -36,8 +36,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e55c8e5718f853ccdca46d9f9f6d50d8]: Textual amendment: S. 507A - S. 507B inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/6/1), [188(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/2)
+[^c-e55c8e5718f853ccdca46d9f9f6d50d8]: Textual amendment: S. 507A - S. 507B inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/6/1), [188(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/2)
 
-[^key-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-df82d42709314c7296748c08b3554faa]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(3)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/3) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
 
-[^key-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))
+[^c-6f7ad3e2cc8ee9e0ff2977c70c6c2e41]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 7(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/2) (with [Sch. 2 para. 7(4)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/4)[(5)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/7/5))

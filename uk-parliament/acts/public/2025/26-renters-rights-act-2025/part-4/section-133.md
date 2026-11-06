@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 133. Additional powers of seizure under [Criminal Justice and Police Act 2001](https://www.legislation.gov.uk/ukpga/2001/16)[^key-ec60ed882b7ae58fc27c2c5cfe3c8d1b]
+## 133. Additional powers of seizure under [Criminal Justice and Police Act 2001](https://www.legislation.gov.uk/ukpga/2001/16)[^c-ec60ed882b7ae58fc27c2c5cfe3c8d1b]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In Part 1 of Schedule 1 to the [Criminal Justice and Police Act 2001](https://ww
 
 ## Annotations
 
-[^key-ec60ed882b7ae58fc27c2c5cfe3c8d1b]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2025/26/section/133) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-ec60ed882b7ae58fc27c2c5cfe3c8d1b]: Commencement: [S. 133](https://www.legislation.gov.uk/ukpga/2025/26/section/133) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 257. Assignment of right to dividend[^key-962184b704f4b1f2f5a9ca5b0c9a2c47]
+## 257. Assignment of right to dividend[^c-962184b704f4b1f2f5a9ca5b0c9a2c47]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 11.11 of the 1986 Rules.
 
 ## Annotations
 
-[^key-962184b704f4b1f2f5a9ca5b0c9a2c47]: Commencement: Rule 257 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-962184b704f4b1f2f5a9ca5b0c9a2c47]: Commencement: Rule 257 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

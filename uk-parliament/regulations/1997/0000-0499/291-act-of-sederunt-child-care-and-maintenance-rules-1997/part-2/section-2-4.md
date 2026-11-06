@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.4. Timetables under section 25A of the Act[^key-251888ffc48e6ddeebd78bc18300b32f]
+## 2.4. Timetables under section 25A of the Act[^c-251888ffc48e6ddeebd78bc18300b32f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-251888ffc48e6ddeebd78bc18300b32f]: Textual amendment: Rule 2.4 revoked (28.9.2009) by [Act of Sederunt (Sheriff Court Rules Amendment) (Adoption and Children (Scotland) Act 2007) 2009 (S.S.I. 2009/284)](https://www.legislation.gov.uk/ssi/2009/284), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/1/1), [4(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/1/a/ii) (with [para. 4(7)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/7))
+[^c-251888ffc48e6ddeebd78bc18300b32f]: Textual amendment: Rule 2.4 revoked (28.9.2009) by [Act of Sederunt (Sheriff Court Rules Amendment) (Adoption and Children (Scotland) Act 2007) 2009 (S.S.I. 2009/284)](https://www.legislation.gov.uk/ssi/2009/284), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/1/1), [4(1)(a)(ii)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/1/a/ii) (with [para. 4(7)](https://www.legislation.gov.uk/ssi/2009/284/paragraph/4/7))

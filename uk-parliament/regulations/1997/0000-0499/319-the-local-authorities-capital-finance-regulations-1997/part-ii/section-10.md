@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 10. Expenditure on certain investments[^key-67d5ac693576b1689d1c7295eb91fd4e]
+## 10. Expenditure on certain investments[^c-67d5ac693576b1689d1c7295eb91fd4e]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-67d5ac693576b1689d1c7295eb91fd4e]: Commencement: Reg. 10 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-67d5ac693576b1689d1c7295eb91fd4e]: Commencement: Reg. 10 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00004]: Footnote: [S.I. 1990/426](https://www.legislation.gov.uk/uksi/1990/426); amended by [S.I. 1991/501](https://www.legislation.gov.uk/uksi/1991/501) and [S.I. 1992/1353](https://www.legislation.gov.uk/uksi/1992/1353).

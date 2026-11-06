@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23. Advice before setting or modifying limits on use of carbon units etc.[^key-2d7696c9fa354bcf240efe8d7556dc4f]
+## 23. Advice before setting or modifying limits on use of carbon units etc.[^c-2d7696c9fa354bcf240efe8d7556dc4f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d7696c9fa354bcf240efe8d7556dc4f]: Textual amendment: S. 23 repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 4](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/4); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)
+[^c-2d7696c9fa354bcf240efe8d7556dc4f]: Textual amendment: S. 23 repealed (23.3.2020) by [Climate Change (Emissions Reduction Targets) (Scotland) Act 2019 (asp 15)](https://www.legislation.gov.uk/asp/2019/15), [s. 32(2)](https://www.legislation.gov.uk/asp/2019/15/section/32/2), [sch. para. 4](https://www.legislation.gov.uk/asp/2019/15/schedule/paragraph/4); [S.S.I. 2020/66](https://www.legislation.gov.uk/ssi/2020/66), [reg. 2](https://www.legislation.gov.uk/ssi/2020/66/regulation/2)

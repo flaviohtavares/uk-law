@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 52. Consents, agreements and approvals[^key-736edac3a152a92faa4fa82757fa3807]
+## 52. Consents, agreements and approvals[^c-736edac3a152a92faa4fa82757fa3807]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-736edac3a152a92faa4fa82757fa3807]: Commencement: Art. 52 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-736edac3a152a92faa4fa82757fa3807]: Commencement: Art. 52 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

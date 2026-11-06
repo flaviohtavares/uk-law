@@ -67,7 +67,7 @@ These Regulations may be cited as the Collective Management of Copyright (EU Dir
   - (c) is organised on a for profit basis;
 - “**management fees**” means the amounts charged, deducted or offset by a collective management organisation from rights revenue or from any income arising from the investment of rights revenue in order to cover the costs of its management of copyright or related rights;
 - “**member**” means a right holder or an entity representing right holders, including other collective management organisations and associations of right holders, fulfilling the membership requirements of the collective management organisation and admitted by it;
-- “**multi-territorial licence**” means a licence which covers the territory of the United Kingdom and at least one member State[^key-3172ac1286fa821cd0898d25d3c66ab2];
+- “**multi-territorial licence**” means a licence which covers the territory of the United Kingdom and at least one member State[^c-3172ac1286fa821cd0898d25d3c66ab2];
 - “**non-distributable**”, in relation to amounts due to right holders, is construed in accordance with regulation 12(9);
 - “**online rights in musical works**” means any of the rights of an author in a musical work provided for under articles 2 and 3 of Directive [2001/29/EC](https://www.legislation.gov.uk/european/directive/2001/0029) of the European Parliament and of the Council of 22 May 2001 [^c23107731] which are required for the provision of an online service;
 - “**online service provider**” means a user who is an online service provider referred to in Part 3 of these Regulations;
@@ -115,7 +115,7 @@ A collective management organisation must ensure that—
   - (iii) types of works, and
   - (iv) other subject matter,
 
-  of their choice, for the territory of their choice irrespective of the country[^key-858c13ba5a420d11cf16f3a7f5b47dfc] of nationality, residence or establishment of either the collective management organisation or the right holder;
+  of their choice, for the territory of their choice irrespective of the country[^c-858c13ba5a420d11cf16f3a7f5b47dfc] of nationality, residence or establishment of either the collective management organisation or the right holder;
 - (b) it manages the matters referred to in paragraph (a)(i) to (iv) provided that the management of these matters falls within the scope of its activity or unless it has objectively justified reasons to refuse management;
 - (c) right holders have the right to grant licences for non-commercial uses of any of the matters referred to in paragraph (a)(i) to (iv) that they may choose;
 - (d) right holders have the right—
@@ -327,7 +327,7 @@ to the extent those powers are delegated to the supervisory board.
 
 (4) A collective management organisation must ensure that its staff training procedures for employees, agents and representatives include appropriate training about conduct that complies with its obligations under these Regulations (but see paragraph (5)).
 
-(5) Paragraph (4) does not apply where the collective management organisation is a company that qualifies as a micro-entity under section 384A of the Companies Act 2006.[^key-a6036fa3c84ff8b4ab924a85e8f13ab7]
+(5) Paragraph (4) does not apply where the collective management organisation is a company that qualifies as a micro-entity under section 384A of the Companies Act 2006.[^c-a6036fa3c84ff8b4ab924a85e8f13ab7]
 
 ### 10. Collection and use of rights revenue
 
@@ -464,7 +464,7 @@ unless the other collective management organisation that is party to the represe
 
 (2) A collective management organisation must ensure that licensing terms are based on objective and non-discriminatory criteria (but see paragraph (3)).
 
-(3) Paragraph (2) does not require a collective management organisation to use as a precedent for other online services licensing terms agreed with a user where the user is providing a new type of online service which has been available to the public in the United Kingdom[^key-1fe114d2555220c5a26b953bb152aec6] for less than 3 years.
+(3) Paragraph (2) does not require a collective management organisation to use as a precedent for other online services licensing terms agreed with a user where the user is providing a new type of online service which has been available to the public in the United Kingdom[^c-1fe114d2555220c5a26b953bb152aec6] for less than 3 years.
 
 (4) A collective management organisation must ensure that—
 
@@ -485,7 +485,7 @@ unless the other collective management organisation that is party to the represe
 - (c) allow users to communicate with it by electronic means, including, where appropriate, for the purpose of reporting on the use of the licence; and
 - (d) after giving a user a licence, treat that user in good faith (but see paragraph (6)).
 
-(6) Paragraph 5(d) does not apply where the collective management organisation is a company that qualifies as a micro-entity under section 384A of the Companies Act 2006.[^key-97169eb908c26d91da6e64dd5ec722c6]
+(6) Paragraph 5(d) does not apply where the collective management organisation is a company that qualifies as a micro-entity under section 384A of the Companies Act 2006.[^c-97169eb908c26d91da6e64dd5ec722c6]
 
 ### 16. Users' obligations
 
@@ -606,8 +606,8 @@ in the period to which the information relates, at least the information specifi
 (2) The annual transparency report referred to in paragraph (1) must—
 
 - (a) contain at least the information specified in paragraph (4);
-- (b)[^key-0bd6e09c64625a91c1a70740b2e9f846] be audited by a person who is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006 in respect of the accounting information referred to in paragraph (4)(a), (g), (h), (i), (j) and (k) included in the report (but see paragraph (6)); and
-- (c)[^key-77a70d37a1f00534b7b40dadc5da3d52] reproduce in full the audit report including any qualifications to that report (but see paragraph (6)).
+- (b)[^c-0bd6e09c64625a91c1a70740b2e9f846] be audited by a person who is eligible for appointment as a statutory auditor under Part 42 of the Companies Act 2006 in respect of the accounting information referred to in paragraph (4)(a), (g), (h), (i), (j) and (k) included in the report (but see paragraph (6)); and
+- (c)[^c-77a70d37a1f00534b7b40dadc5da3d52] reproduce in full the audit report including any qualifications to that report (but see paragraph (6)).
 
 (3) The special report referred to in paragraph (1)(a) must address the use of the amounts deducted for the purposes of social, cultural and educational services and must contain at least the information specified in paragraph (5).
 
@@ -654,7 +654,7 @@ in the period to which the information relates, at least the information specifi
 - (a) the amounts deducted for the purposes of social, cultural and educational services in the financial year, with a breakdown for each type of purpose and, for each type of purpose, with a breakdown for each category of rights managed and for each type of use; and
 - (b) an explanation of the use of those amounts with a breakdown for each type of purpose including costs of managing amounts deducted to fund social, cultural and educational services and of the separate amounts used for social, cultural and educational services.
 
-(6)[^key-69a26809c05dc1eed81a3fdcbc6a731f] Paragraph (2)(b) and (c) do not apply to the annual transparency report for a financial year in relation to which the collective management organisation was a company that qualified as small under section 382(1) to (6) of the Companies Act 2006.
+(6)[^c-69a26809c05dc1eed81a3fdcbc6a731f] Paragraph (2)(b) and (c) do not apply to the annual transparency report for a financial year in relation to which the collective management organisation was a company that qualified as small under section 382(1) to (6) of the Companies Act 2006.
 
 ## PART 3 — Multi-territorial Licensing and Collective Management Organisations
 
@@ -662,7 +662,7 @@ in the period to which the information relates, at least the information specifi
 
 (1) The obligations of a collective management organisation in this Part apply to a collective management organisation established in the United Kingdom managing authors' rights in musical works for online use on a multi-territorial basis (but see paragraphs (2) and (3)).
 
-(2) The obligations of a collective management organisation in this Part do not apply to a collective management organisation when it grants, on the basis of the voluntary aggregation of the required rights, in compliance with the competition rules under Part I of the Competition Act 1998[^key-31cacc66f899808f2b14ee51fd99a4a7] a multi-territorial licence for—
+(2) The obligations of a collective management organisation in this Part do not apply to a collective management organisation when it grants, on the basis of the voluntary aggregation of the required rights, in compliance with the competition rules under Part I of the Competition Act 1998[^c-31cacc66f899808f2b14ee51fd99a4a7] a multi-territorial licence for—
 
 - (a) the online rights in musical works required by a broadcaster to communicate or make available to the public its radio or television programmes simultaneously with or after their initial broadcast; and
 - (b) any online material, including previews, produced by or for the broadcaster which is ancillary to the initial broadcast of its radio or television programmes.
@@ -878,7 +878,7 @@ effective and timely procedures for dealing with complaints.
 - (a) respond in writing to complaints; and
 - (b) give reasons where it rejects a complaint.
 
-(4) Paragraph (1)(d) does not apply where the collective management organisation is a company that qualifies as a micro-entity under section 384A of the Companies Act 2006.[^key-27a4f3eebd565ed81c29d50ed43c726f]
+(4) Paragraph (1)(d) does not apply where the collective management organisation is a company that qualifies as a micro-entity under section 384A of the Companies Act 2006.[^c-27a4f3eebd565ed81c29d50ed43c726f]
 
 ### 32. Alternative dispute resolution procedures
 
@@ -900,7 +900,7 @@ can be submitted to an independent and impartial alternative dispute resolution 
 - (b) a right holder regarding compliance with regulations 24, 25, 26, 27 (payment to right holders), 28 (agreements between collective management organisations), 29 (representation of other collective management organisations) and 30 (access to multi-territorial licensing); and
 - (c) another collective management organisation regarding compliance with regulations 24, 25, 26, 27, 28 and 29.
 
-(4) Paragraph (1)(a) does not apply where the collective management organisation is a company that qualifies as a micro-entity under section 384A of the Companies Act 2006.[^key-e8ce81f00f60aec207344ea40c129861]
+(4) Paragraph (1)(a) does not apply where the collective management organisation is a company that qualifies as a micro-entity under section 384A of the Companies Act 2006.[^c-e8ce81f00f60aec207344ea40c129861]
 
 ### 33. Right of right holders in relation to a breach of regulation 4
 
@@ -1155,7 +1155,7 @@ Despite the revocation by these Regulations of regulation 14(2)(c) of the Copyri
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2)[^key-b3840e8a7bda42a37747317138411eb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-b3840e8a7bda42a37747317138411eb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -1193,33 +1193,33 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^c23107711]: Marginal citation: [1972 c.68](https://www.legislation.gov.uk/ukpga/1972/68); [section 2(2)](https://www.legislation.gov.uk/uksi/2016/221/section/2/2) was amended by section 27(1)(a) of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51) and section 3(3) of, and Part 1 of the Schedule to, the [European Union (Amendment) Act 2008 (c.7)](https://www.legislation.gov.uk/ukpga/2008/7).
 
-[^key-3172ac1286fa821cd0898d25d3c66ab2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/221/regulation/2/1) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/32/2) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3172ac1286fa821cd0898d25d3c66ab2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/221/regulation/2/1) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [32(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/32/2) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23107731]: Marginal citation: OJ No. L167, 22.6.2001, p.10.
 
-[^key-858c13ba5a420d11cf16f3a7f5b47dfc]: Textual amendment: Word in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/221/regulation/4/a) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2019/605/regulation/32/3) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-858c13ba5a420d11cf16f3a7f5b47dfc]: Textual amendment: Word in [reg. 4(a)](https://www.legislation.gov.uk/uksi/2016/221/regulation/4/a) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [32(3)](https://www.legislation.gov.uk/uksi/2019/605/regulation/32/3) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23107741]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-a6036fa3c84ff8b4ab924a85e8f13ab7]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2016/221/regulation/9/5) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/7/1)
+[^c-a6036fa3c84ff8b4ab924a85e8f13ab7]: Textual amendment: Words in [reg. 9(5)](https://www.legislation.gov.uk/uksi/2016/221/regulation/9/5) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [7(1)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/7/1)
 
-[^key-1fe114d2555220c5a26b953bb152aec6]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2016/221/regulation/15/3) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [32(4)](https://www.legislation.gov.uk/uksi/2019/605/regulation/32/4) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fe114d2555220c5a26b953bb152aec6]: Textual amendment: Words in [reg. 15(3)](https://www.legislation.gov.uk/uksi/2016/221/regulation/15/3) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [32(4)](https://www.legislation.gov.uk/uksi/2019/605/regulation/32/4) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-97169eb908c26d91da6e64dd5ec722c6]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/uksi/2016/221/regulation/15/6) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/7/2)
+[^c-97169eb908c26d91da6e64dd5ec722c6]: Textual amendment: Words in [reg. 15(6)](https://www.legislation.gov.uk/uksi/2016/221/regulation/15/6) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [7(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/7/2)
 
 [^c23107751]: Marginal citation: [1988 c.48](https://www.legislation.gov.uk/ukpga/1988/48).
 
-[^key-0bd6e09c64625a91c1a70740b2e9f846]: Textual amendment: [Reg. 21(2)(b)](https://www.legislation.gov.uk/uksi/2016/221/regulation/21/2/b) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/8/2/a)
+[^c-0bd6e09c64625a91c1a70740b2e9f846]: Textual amendment: [Reg. 21(2)(b)](https://www.legislation.gov.uk/uksi/2016/221/regulation/21/2/b) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [8(2)(a)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/8/2/a)
 
-[^key-77a70d37a1f00534b7b40dadc5da3d52]: Textual amendment: [Reg. 21(2)(c)](https://www.legislation.gov.uk/uksi/2016/221/regulation/21/2/c) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/8/2/b)
+[^c-77a70d37a1f00534b7b40dadc5da3d52]: Textual amendment: [Reg. 21(2)(c)](https://www.legislation.gov.uk/uksi/2016/221/regulation/21/2/c) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [8(2)(b)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/8/2/b)
 
-[^key-69a26809c05dc1eed81a3fdcbc6a731f]: Textual amendment: [Reg. 21(6)](https://www.legislation.gov.uk/uksi/2016/221/regulation/21/6) inserted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/8/3)
+[^c-69a26809c05dc1eed81a3fdcbc6a731f]: Textual amendment: [Reg. 21(6)](https://www.legislation.gov.uk/uksi/2016/221/regulation/21/6) inserted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/8/3)
 
-[^key-31cacc66f899808f2b14ee51fd99a4a7]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2016/221/regulation/22/2) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [32(5)](https://www.legislation.gov.uk/uksi/2019/605/regulation/32/5) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-31cacc66f899808f2b14ee51fd99a4a7]: Textual amendment: Words in [reg. 22(2)](https://www.legislation.gov.uk/uksi/2016/221/regulation/22/2) substituted (31.12.2020) by [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [32(5)](https://www.legislation.gov.uk/uksi/2019/605/regulation/32/5) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-27a4f3eebd565ed81c29d50ed43c726f]: Textual amendment: Words in [reg. 31(4)](https://www.legislation.gov.uk/uksi/2016/221/regulation/31/4) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/7/3)
+[^c-27a4f3eebd565ed81c29d50ed43c726f]: Textual amendment: Words in [reg. 31(4)](https://www.legislation.gov.uk/uksi/2016/221/regulation/31/4) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/7/3)
 
-[^key-e8ce81f00f60aec207344ea40c129861]: Textual amendment: Words in [reg. 32(4)](https://www.legislation.gov.uk/uksi/2016/221/regulation/32/4) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/7/4)
+[^c-e8ce81f00f60aec207344ea40c129861]: Textual amendment: Words in [reg. 32(4)](https://www.legislation.gov.uk/uksi/2016/221/regulation/32/4) substituted (1.1.2024) by [The Design Right, Artist’s Resale Right and Copyright (Amendment) Regulations 2023 (S.I. 2023/1285)](https://www.legislation.gov.uk/uksi/2023/1285), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2023/1285/regulation/7/4)
 
 [^c23107781]: Marginal citation: [2007 c.15](https://www.legislation.gov.uk/ukpga/2007/15).
 
@@ -1233,4 +1233,4 @@ A transposition note and an impact assessment of the effect that this instrument
 
 [^c23107831]: Marginal citation: [S.I. 2014/2588](https://www.legislation.gov.uk/uksi/2014/2588).
 
-[^key-b3840e8a7bda42a37747317138411eb3]: Textual amendment: [Reg. 51(2)](https://www.legislation.gov.uk/uksi/2016/221/regulation/51/2) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [32(6)](https://www.legislation.gov.uk/uksi/2019/605/regulation/32/6) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3840e8a7bda42a37747317138411eb3]: Textual amendment: [Reg. 51(2)](https://www.legislation.gov.uk/uksi/2016/221/regulation/51/2) omitted (31.12.2020) by virtue of [The Intellectual Property (Copyright and Related Rights) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/605)](https://www.legislation.gov.uk/uksi/2019/605), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/605/regulation/1/2), [32(6)](https://www.legislation.gov.uk/uksi/2019/605/regulation/32/6) (with [reg. 38](https://www.legislation.gov.uk/uksi/2019/605/regulation/38)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2020/1050/regulation/4)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

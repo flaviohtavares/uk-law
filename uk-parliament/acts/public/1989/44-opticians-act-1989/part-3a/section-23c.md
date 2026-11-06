@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23C. Powers of the Council to make rules[^key-4be6831b60d6149c70886030f19057eb]
+## 23C. Powers of the Council to make rules[^c-4be6831b60d6149c70886030f19057eb]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ summary: ''
 - (c) for enabling any party to the proceedings to be represented at the hearing by—
   - (i) a person with a general qualification (within the meaning of section 71 of the Courts and Legal Services Act 1990);
   - (ii) an advocate in Scotland, or a solicitor entitled to appear in the Court of Session and the High Court of Justiciary;
-  - (iii) a member of the Bar of Northern Ireland or solicitor of the Court of Judicature of Northern Ireland[^key-122f7e02e85b5b08eaa7bf80520d52ee] ; or
+  - (iii) a member of the Bar of Northern Ireland or solicitor of the Court of Judicature of Northern Ireland[^c-122f7e02e85b5b08eaa7bf80520d52ee] ; or
   - (iv) a person of such other description as may be specified in rules if the rules so allow and the person appearing so elects;
 - (d) for proceedings before the Committee to be held in public, except and to the extent that rules provide otherwise;
 - (e) (except in relation to proceedings before the Registration Appeals Committee), if in the case of a registered optometrist, a registered dispensing optician or a student registrant it is alleged that his fitness to practise or, as the case may be, fitness to undertake training is impaired, but the Committee judge that he is fit to practise or, as the case may be, fit to undertake training—
@@ -72,6 +72,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4be6831b60d6149c70886030f19057eb]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(2)](https://www.legislation.gov.uk/uksi/2005/848/article/17/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-4be6831b60d6149c70886030f19057eb]: Textual amendment: Pt. 3A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 17(2)](https://www.legislation.gov.uk/uksi/2005/848/article/17/2) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
 
-[^key-122f7e02e85b5b08eaa7bf80520d52ee]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-122f7e02e85b5b08eaa7bf80520d52ee]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/5); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

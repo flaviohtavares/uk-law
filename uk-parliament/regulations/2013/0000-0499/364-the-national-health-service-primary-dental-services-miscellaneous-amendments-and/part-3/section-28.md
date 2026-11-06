@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Amendment of regulation 7[^key-0940a6899e21f48ae2422d95e5c52f4b]
+## 28. Amendment of regulation 7[^c-0940a6899e21f48ae2422d95e5c52f4b]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ In regulation 7 (appeal) for “the Relevant Body” substitute “the Board”.
 
 ## Annotations
 
-[^key-0940a6899e21f48ae2422d95e5c52f4b]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/364/regulation/28) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)
+[^c-0940a6899e21f48ae2422d95e5c52f4b]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2013/364/regulation/28) in force at 1.4.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/364/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Commutation supplement: small pensions[^key-05bc99aa6dff165263ac8ee33efa6f9d]
+## 122. Commutation supplement: small pensions[^c-05bc99aa6dff165263ac8ee33efa6f9d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,6 +38,6 @@ P is entitled to be paid an additional amount (a “commutation supplement”) c
 
 ## Annotations
 
-[^key-05bc99aa6dff165263ac8ee33efa6f9d]: Commencement: Reg. 122 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-05bc99aa6dff165263ac8ee33efa6f9d]: Commencement: Reg. 122 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
 
 [^f00045]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12).

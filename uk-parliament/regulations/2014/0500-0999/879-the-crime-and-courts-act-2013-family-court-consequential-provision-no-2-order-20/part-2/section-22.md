@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Amendments to the Insolvency Rules 1986[^key-d76836431f42e23e7f0815134d3a20a1]
+## 22. Amendments to the Insolvency Rules 1986[^c-d76836431f42e23e7f0815134d3a20a1]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ for “which applies the Magistrates’ Courts Act 1980 and” substitute “whi
 
 ## Annotations
 
-[^key-d76836431f42e23e7f0815134d3a20a1]: Commencement: Art. 22 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-d76836431f42e23e7f0815134d3a20a1]: Commencement: Art. 22 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
 
 [^f00007]: Footnote: [S.I. 1986/1925](https://www.legislation.gov.uk/uksi/1986/1925). Relevant amending instruments are [S.I. 1987/1919](https://www.legislation.gov.uk/uksi/1987/1919), [1989/397](https://www.legislation.gov.uk/uksi/1989/397), [1993/602](https://www.legislation.gov.uk/uksi/1993/602), [2003/1730](https://www.legislation.gov.uk/uksi/2003/1730), [2005/527](https://www.legislation.gov.uk/uksi/2005/527), [2009/642](https://www.legislation.gov.uk/uksi/2009/642), [2010/686](https://www.legislation.gov.uk/uksi/2010/686) and [2012/469](https://www.legislation.gov.uk/uksi/2012/469).

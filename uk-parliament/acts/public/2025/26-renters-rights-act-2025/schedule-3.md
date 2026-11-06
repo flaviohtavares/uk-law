@@ -24,11 +24,11 @@ summary: ''
 
 Section 73
 
-### 1. Local Government Act 1974[^key-5895bc39122b2fdce83596a5dec85732]
+### 1. Local Government Act 1974[^c-5895bc39122b2fdce83596a5dec85732]
 
 The [Local Government Act 1974](https://www.legislation.gov.uk/ukpga/1974/7) is amended in accordance with paragraphs 2 to 5.
 
-**2.**[^key-e8af9130b93b165bc505c507f9254723] (1) Section 33 (consultation between Local Commissioner and other Commissioners and Ombudsmen) is amended as follows.
+**2.**[^c-e8af9130b93b165bc505c507f9254723] (1) Section 33 (consultation between Local Commissioner and other Commissioners and Ombudsmen) is amended as follows.
 
 (2) In the heading, for the words from “Local Commissioner” to the end substitute “Local Commissioner and other appropriate persons”.
 
@@ -86,7 +86,7 @@ The [Local Government Act 1974](https://www.legislation.gov.uk/ukpga/1974/7) is 
 > </tbody>
 > </table>
 
-**3.**[^key-79053315c16472a52da9c422a7aa77a4] (1) Section 33ZA (collaborative working between Local Commissioners and others) is amended as follows.
+**3.**[^c-79053315c16472a52da9c422a7aa77a4] (1) Section 33ZA (collaborative working between Local Commissioners and others) is amended as follows.
 
 (2) In subsection (1), for the words from “jurisdiction of” to the end substitute “jurisdiction of an appropriate person, the Local Commissioner may, subject to subsection (2) below, conduct an investigation under this Part jointly with that appropriate person and any other appropriate person who, in the opinion of the Local Commissioner, has jurisdiction in relation to the matters which are the subject of the Local Commissioner’s investigation.”
 
@@ -109,7 +109,7 @@ The [Local Government Act 1974](https://www.legislation.gov.uk/ukpga/1974/7) is 
 >   - (ii) a landlord redress scheme;
 > - (c) a matter is within the jurisdiction of an individual who investigates complaints under a redress scheme if it is a matter which could be the subject of an investigation under that scheme.
 
-**4.**[^key-5395509d9b4424d419ee942b95463cc9] In section 33ZB (arrangements for provision of administrative and other services), for subsection (4) substitute—
+**4.**[^c-5395509d9b4424d419ee942b95463cc9] In section 33ZB (arrangements for provision of administrative and other services), for subsection (4) substitute—
 
 > (4) The persons within this subsection are—
 >
@@ -122,7 +122,7 @@ The [Local Government Act 1974](https://www.legislation.gov.uk/ukpga/1974/7) is 
 > - the administrator of a leasehold and estate management redress scheme;
 > - the administrator of a landlord redress scheme.
 
-**5.**[^key-a8190d60491e6f2f8e68e0cc233fd6e9] In section 34 (interpretation), in subsection (1), at the appropriate places insert—
+**5.**[^c-a8190d60491e6f2f8e68e0cc233fd6e9] In section 34 (interpretation), in subsection (1), at the appropriate places insert—
 
 > - “**head of landlord redress**”, in relation to a landlord redress scheme, means the person responsible for overseeing and monitoring the investigation and determination of complaints under the scheme;
 
@@ -130,7 +130,7 @@ The [Local Government Act 1974](https://www.legislation.gov.uk/ukpga/1974/7) is 
 
 .
 
-### 6. Housing Act 1996[^key-70a1883d7826dd36d2155c6b04d81b96]
+### 6. Housing Act 1996[^c-70a1883d7826dd36d2155c6b04d81b96]
 
 (1) Paragraph 10A of Schedule 2 to the [Housing Act 1996](https://www.legislation.gov.uk/ukpga/1996/52) (housing complaints: collaborative working with Local Commissioners) is amended as follows.
 
@@ -157,26 +157,26 @@ The [Local Government Act 1974](https://www.legislation.gov.uk/ukpga/1974/7) is 
 >   - (ii) a landlord redress scheme within the meaning of section 64(2) of the Renters’ Rights Act 2025;
 > - (c) a matter is within the jurisdiction of an individual who investigates complaints under a redress scheme if it is a matter which could be the subject of an investigation under that scheme.
 
-### 7. Government of Wales Act 1998[^key-c7fde08691574b04e7f90a394c22ed41]
+### 7. Government of Wales Act 1998[^c-c7fde08691574b04e7f90a394c22ed41]
 
 In paragraph 17 of Schedule 12 to the [Government of Wales Act 1998](https://www.legislation.gov.uk/ukpga/1998/38) (minor and consequential amendments), omit sub-paragraphs (2) and (3).
 
-### 8. Public Services Ombudsman (Wales) Act 2005[^key-cf41e0acc8ee63ceaddbd7724dcde0cb]
+### 8. Public Services Ombudsman (Wales) Act 2005[^c-cf41e0acc8ee63ceaddbd7724dcde0cb]
 
 In paragraph 15 of Schedule 6 to the [Public Services Ombudsman (Wales) Act 2005](https://www.legislation.gov.uk/ukpga/2005/10) (consequential amendments)—
 
 - (a) in sub-paragraph (2), omit paragraphs (c) and (e);
 - (b) omit sub-paragraph (3).
 
-### 9. Localism Act 2011[^key-5e11f35a9ab498cc4c56cf784837e99b]
+### 9. Localism Act 2011[^c-5e11f35a9ab498cc4c56cf784837e99b]
 
 In section 182 of the [Localism Act 2011](https://www.legislation.gov.uk/ukpga/2011/20) (transfer of functions to housing ombudsman), omit subsections (2) to (6).
 
-### 10. Building Safety Act 2022[^key-d2190e700cd512452642d0191342cdab]
+### 10. Building Safety Act 2022[^c-d2190e700cd512452642d0191342cdab]
 
 The [Building Safety Act 2022](https://www.legislation.gov.uk/ukpga/2022/30) is amended in accordance with paragraphs 11 and 12.
 
-**11.**[^key-d41350a036ed5926059b2c086d976d6b] In Schedule 3 (cooperation and information sharing), in paragraph 3, for sub-paragraph (5) substitute—
+**11.**[^c-d41350a036ed5926059b2c086d976d6b] In Schedule 3 (cooperation and information sharing), in paragraph 3, for sub-paragraph (5) substitute—
 
 > (5) “**Relevant scheme**” means any of the following—
 >
@@ -187,36 +187,36 @@ The [Building Safety Act 2022](https://www.legislation.gov.uk/ukpga/2022/30) is 
 > - a redress scheme within the meaning of section 100(4) of the [Leasehold and Freehold Reform Act 2024](https://www.legislation.gov.uk/ukpga/2024/22) (leasehold and estate management redress schemes);
 > - a landlord redress scheme within the meaning of section 64(2) of the Renters’ Rights Act 2025.
 
-**12.**[^key-56f4da440644dc958a0f7b35eecdb604] In Schedule 10 (amendments in connection with new homes ombudsman), omit paragraphs 1 to 5.
+**12.**[^c-56f4da440644dc958a0f7b35eecdb604] In Schedule 10 (amendments in connection with new homes ombudsman), omit paragraphs 1 to 5.
 
-### 13. Leasehold and Freehold Reform Act 2024[^key-0db06a95cfaf8fc4d2b0f92eb0177250]
+### 13. Leasehold and Freehold Reform Act 2024[^c-0db06a95cfaf8fc4d2b0f92eb0177250]
 
 In Schedule 13 to the [Leasehold and Freehold Reform Act 2024](https://www.legislation.gov.uk/ukpga/2024/22) (amendments in connection with leasehold and estate management redress schemes), omit paragraphs 2, 3, 4, 6 and 7.
 
 ## Annotations
 
-[^key-5895bc39122b2fdce83596a5dec85732]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-5895bc39122b2fdce83596a5dec85732]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-e8af9130b93b165bc505c507f9254723]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-e8af9130b93b165bc505c507f9254723]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-79053315c16472a52da9c422a7aa77a4]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-79053315c16472a52da9c422a7aa77a4]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-5395509d9b4424d419ee942b95463cc9]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-5395509d9b4424d419ee942b95463cc9]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-a8190d60491e6f2f8e68e0cc233fd6e9]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-a8190d60491e6f2f8e68e0cc233fd6e9]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-70a1883d7826dd36d2155c6b04d81b96]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-70a1883d7826dd36d2155c6b04d81b96]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-c7fde08691574b04e7f90a394c22ed41]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-c7fde08691574b04e7f90a394c22ed41]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-cf41e0acc8ee63ceaddbd7724dcde0cb]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-cf41e0acc8ee63ceaddbd7724dcde0cb]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-5e11f35a9ab498cc4c56cf784837e99b]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-5e11f35a9ab498cc4c56cf784837e99b]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-d2190e700cd512452642d0191342cdab]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-d2190e700cd512452642d0191342cdab]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-d41350a036ed5926059b2c086d976d6b]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-d41350a036ed5926059b2c086d976d6b]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-56f4da440644dc958a0f7b35eecdb604]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-56f4da440644dc958a0f7b35eecdb604]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-0db06a95cfaf8fc4d2b0f92eb0177250]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-0db06a95cfaf8fc4d2b0f92eb0177250]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)

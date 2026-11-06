@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Modifications to subsidies and schemes[^key-ce6b61b51edd9ca089d56602b2214aac][^key-1c00a18da4eed3b0b3711f0d9d4b0f31]
+## 81. Modifications to subsidies and schemes[^c-ce6b61b51edd9ca089d56602b2214aac][^c-1c00a18da4eed3b0b3711f0d9d4b0f31]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ce6b61b51edd9ca089d56602b2214aac]: Commencement: S. 81 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
+[^c-ce6b61b51edd9ca089d56602b2214aac]: Commencement: S. 81 not in force at Royal Assent, see [s. 91(2)](https://www.legislation.gov.uk/ukpga/2022/23/section/91/2)
 
-[^key-1c00a18da4eed3b0b3711f0d9d4b0f31]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2022/23/section/81) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)
+[^c-1c00a18da4eed3b0b3711f0d9d4b0f31]: Commencement: [S. 81](https://www.legislation.gov.uk/ukpga/2022/23/section/81) in force at 4.1.2023 by [S.I. 2022/1359](https://www.legislation.gov.uk/uksi/2022/1359), [reg. 2](https://www.legislation.gov.uk/uksi/2022/1359/regulation/2)

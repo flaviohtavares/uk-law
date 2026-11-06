@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Acquisition and guardianship of land in the vicinity of an ancient monument.[^key-c2ec74edbbc532a3921b29a32070b43e][^key-ba45a667a141c3d80d457d15c385b649]
+## 15. Acquisition and guardianship of land in the vicinity of an ancient monument.[^c-c2ec74edbbc532a3921b29a32070b43e][^c-ba45a667a141c3d80d457d15c385b649]
 
 *Extent: E+W+S*
 
@@ -34,14 +34,14 @@ Land may be acquired, or taken into guardianship, by the Commission by virtue of
 
 (2) Land may be acquired or taken into guardianship by virtue of this section for any of the purposes relating to an ancient monument mentioned in subsection (1) above either at the same time as the monument or subsequently.
 
-(3) The Secretary of State and the Commission[^c250887] and any local authority shall have full control and management of any land which is under their guardianship by virtue of this Act after being taken into guardianship by virtue of this section for a purpose relating to any ancient monument, and without prejudice to that generality *(Extent: S)*[^key-7e8414efc7481af9fb5cae0ab68fa784] shall have power to do all such things as may be necessary—
+(3) The Secretary of State and the Commission[^c250887] and any local authority shall have full control and management of any land which is under their guardianship by virtue of this Act after being taken into guardianship by virtue of this section for a purpose relating to any ancient monument, and without prejudice to that generality *(Extent: S)*[^c-7e8414efc7481af9fb5cae0ab68fa784] shall have power to do all such things as may be necessary—
 
 - (a) for the exercise by them of proper control and management with respect to the land; and
 - (b) for the use of the land for any of the purposes relating to the monument mentioned in subsection (1) above.
 
 *Extent: S*
 
-(3A)[^key-a3cdd838798aefd0f5628cd0cfb4cfc4] The power of full control and management of land under guardianship conferred by subsection (3) above includes power—
+(3A)[^c-a3cdd838798aefd0f5628cd0cfb4cfc4] The power of full control and management of land under guardianship conferred by subsection (3) above includes power—
 
 - (a) to control the holding of events on associated land;
 - (b) to control and manage such events;
@@ -52,7 +52,7 @@ Land may be acquired, or taken into guardianship, by the Commission by virtue of
 
 *Extent: S*
 
-(4A)[^key-58e2fa8a5e47ef9b8307e4df8d027d73] Subsections (3), (3A) and (4) are subject to any provision to the contrary in the guardianship deed.
+(4A)[^c-58e2fa8a5e47ef9b8307e4df8d027d73] Subsections (3), (3A) and (4) are subject to any provision to the contrary in the guardianship deed.
 
 (5) Section 14(1) and (2) of this Act shall apply in relation to any land taken into guardianship by virtue of this section for any purpose relating to an ancient monument as they apply in relation to a monument, but, apart from any termination of guardianship by virtue of that section, any such land shall also cease to be under guardianship if the monument in question ceases to be under guardianship otherwise than by virtue of being acquired by its guardians or ceases to exist.
 
@@ -60,16 +60,16 @@ Land may be acquired, or taken into guardianship, by the Commission by virtue of
 
 *Extent: S*
 
-(7)[^key-e33cb655d6d5d96bea4ff368174a5364] In subsection (3A) above—
+(7)[^c-e33cb655d6d5d96bea4ff368174a5364] In subsection (3A) above—
 
 - (a) “**events**” includes functions and any other organised activities;
 - (b) references to the holding of events, in relation to organised activities, are to be construed as references to the carrying out of such activities.
 
 ## Annotations
 
-[^key-c2ec74edbbc532a3921b29a32070b43e]: Modification: Ss. 12-17: functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [25(2)(xxvi)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/xxvi) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
+[^c-c2ec74edbbc532a3921b29a32070b43e]: Modification: Ss. 12-17: functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Cotswolds Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1777)](https://www.legislation.gov.uk/uksi/2004/1777), [arts. 1](https://www.legislation.gov.uk/uksi/2004/1777/article/1), [25(2)(xxvi)](https://www.legislation.gov.uk/uksi/2004/1777/article/25/2/xxvi) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1777/article/35))
 
-[^key-ba45a667a141c3d80d457d15c385b649]: Modification: [Ss. 12-17](https://www.legislation.gov.uk/ukpga/1979/46/section/12): functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(2)(xxvi)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/xxvi) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
+[^c-ba45a667a141c3d80d457d15c385b649]: Modification: [Ss. 12-17](https://www.legislation.gov.uk/ukpga/1979/46/section/12): functions made exercisable concurrently (E.W.) (with effect in accordance with art. 25(1) of the amending S.I.) by [The Chilterns Area of Outstanding Natural Beauty (Establishment of Conservation Board) Order 2004 (S.I. 2004/1778)](https://www.legislation.gov.uk/uksi/2004/1778), [arts. 2](https://www.legislation.gov.uk/uksi/2004/1778/article/2), [25(2)(xxvi)](https://www.legislation.gov.uk/uksi/2004/1778/article/25/2/xxvi) (with [art. 35](https://www.legislation.gov.uk/uksi/2004/1778/article/35))
 
 [^c250885]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 41(2)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/41/2)
 
@@ -77,12 +77,12 @@ Land may be acquired, or taken into guardianship, by the Commission by virtue of
 
 [^c250887]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 41(3)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/41/3)
 
-[^key-7e8414efc7481af9fb5cae0ab68fa784]: Textual amendment: Words in s. 15(3) inserted (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(3)(a)](https://www.legislation.gov.uk/asp/2011/3/section/7/3/a), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-7e8414efc7481af9fb5cae0ab68fa784]: Textual amendment: Words in s. 15(3) inserted (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(3)(a)](https://www.legislation.gov.uk/asp/2011/3/section/7/3/a), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-a3cdd838798aefd0f5628cd0cfb4cfc4]: Textual amendment: S. 15(3A) inserted (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(3)(b)](https://www.legislation.gov.uk/asp/2011/3/section/7/3/b), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-a3cdd838798aefd0f5628cd0cfb4cfc4]: Textual amendment: S. 15(3A) inserted (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(3)(b)](https://www.legislation.gov.uk/asp/2011/3/section/7/3/b), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
-[^key-58e2fa8a5e47ef9b8307e4df8d027d73]: Textual amendment: S. 15(4A) inserted (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(3)(c)](https://www.legislation.gov.uk/asp/2011/3/section/7/3/c), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-58e2fa8a5e47ef9b8307e4df8d027d73]: Textual amendment: S. 15(4A) inserted (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(3)(c)](https://www.legislation.gov.uk/asp/2011/3/section/7/3/c), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
 
 [^c250889]: Textual amendment: Words inserted by [National Heritage Act 1983 (c. 47, SIF 78)](https://www.legislation.gov.uk/ukpga/1983/47), [s. 41](https://www.legislation.gov.uk/ukpga/1983/47/section/41), [Sch. 4 para. 41(4)](https://www.legislation.gov.uk/ukpga/1983/47/schedule/4/paragraph/41/4)
 
-[^key-e33cb655d6d5d96bea4ff368174a5364]: Textual amendment: S. 15(7) added (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(3)(d)](https://www.legislation.gov.uk/asp/2011/3/section/7/3/d), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)
+[^c-e33cb655d6d5d96bea4ff368174a5364]: Textual amendment: S. 15(7) added (S.) (30.6.2011) by [Historic Environment (Amendment) (Scotland) Act 2011 (asp 3)](https://www.legislation.gov.uk/asp/2011/3), [ss. 7(3)(d)](https://www.legislation.gov.uk/asp/2011/3/section/7/3/d), [33(2)](https://www.legislation.gov.uk/asp/2011/3/section/33/2); [S.S.I. 2011/174](https://www.legislation.gov.uk/ssi/2011/174), [art. 2](https://www.legislation.gov.uk/ssi/2011/174/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/174/schedule)

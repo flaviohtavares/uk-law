@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9.9. Adult defendant: guilty plea[^key-9e2cc5b09528400ea8a028c0e1611868]
+## 9.9. Adult defendant: guilty plea[^c-9e2cc5b09528400ea8a028c0e1611868]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9e2cc5b09528400ea8a028c0e1611868]: Commencement: [Rule 9.9](https://www.legislation.gov.uk/uksi/2025/909/rule/9.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-9e2cc5b09528400ea8a028c0e1611868]: Commencement: [Rule 9.9](https://www.legislation.gov.uk/uksi/2025/909/rule/9.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

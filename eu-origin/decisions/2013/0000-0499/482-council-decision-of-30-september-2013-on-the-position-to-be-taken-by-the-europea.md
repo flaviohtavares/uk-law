@@ -35,14 +35,14 @@ on the position to be taken by the European Union within the Joint Committee set
 
 (2013/482/EU) (revoked)
 
-[^key-9b3cb2cdf24ac3b6db0e33dc8c1d383d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b3cb2cdf24ac3b6db0e33dc8c1d383d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-9b3cb2cdf24ac3b6db0e33dc8c1d383d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-9b3cb2cdf24ac3b6db0e33dc8c1d383d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-9b3cb2cdf24ac3b6db0e33dc8c1d383d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-9b3cb2cdf24ac3b6db0e33dc8c1d383d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-9b3cb2cdf24ac3b6db0e33dc8c1d383d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9b3cb2cdf24ac3b6db0e33dc8c1d383d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9b3cb2cdf24ac3b6db0e33dc8c1d383d]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 37](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b3cb2cdf24ac3b6db0e33dc8c1d383d]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 37](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

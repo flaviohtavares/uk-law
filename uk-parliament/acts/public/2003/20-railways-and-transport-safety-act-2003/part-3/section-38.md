@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Police regulations: cadets[^key-52e8eeb8c38948e0dc4a65b169bfbeb0]
+## 38. Police regulations: cadets[^c-52e8eeb8c38948e0dc4a65b169bfbeb0]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52e8eeb8c38948e0dc4a65b169bfbeb0]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2003/20/section/38) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(u)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/u)
+[^c-52e8eeb8c38948e0dc4a65b169bfbeb0]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2003/20/section/38) in force at 1.7.2004 by [S.I. 2004/1572](https://www.legislation.gov.uk/uksi/2004/1572), [art. 3(u)](https://www.legislation.gov.uk/uksi/2004/1572/article/3/u)

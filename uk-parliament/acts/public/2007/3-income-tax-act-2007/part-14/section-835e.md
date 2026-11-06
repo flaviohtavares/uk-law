@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 835E. Branch or agency treated as UK representative[^key-4680ae1db14aacb297a4ecf4a68cd173]
+## 835E. Branch or agency treated as UK representative[^c-4680ae1db14aacb297a4ecf4a68cd173]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,10 +35,10 @@ summary: ''
 
 (4) For further rules that apply where a trade or profession carried on by a non-UK resident in the United Kingdom is carried on in partnership, see section 835F.
 
-(5) This section needs to be read with sections 835G to 835J[^key-758b3238e825dd58c08069860504fdb0] (which provide for descriptions of persons who are not to be regarded as the UK representative of a non-UK resident if certain conditions are met).
+(5) This section needs to be read with sections 835G to 835J[^c-758b3238e825dd58c08069860504fdb0] (which provide for descriptions of persons who are not to be regarded as the UK representative of a non-UK resident if certain conditions are met).
 
 ## Annotations
 
-[^key-4680ae1db14aacb297a4ecf4a68cd173]: Textual amendment: S. 835E and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-4680ae1db14aacb297a4ecf4a68cd173]: Textual amendment: S. 835E and cross-heading inserted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 6 para. 3](https://www.legislation.gov.uk/ukpga/2010/8/schedule/6/paragraph/3) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-758b3238e825dd58c08069860504fdb0]: Textual amendment: Word in s. 835E(5) substituted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 26](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/26), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)
+[^c-758b3238e825dd58c08069860504fdb0]: Textual amendment: Word in s. 835E(5) substituted (for chargeable periods beginning on or after 1.1.2026) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 7 paras. 26](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/26), [30](https://www.legislation.gov.uk/ukpga/2026/11/schedule/7/paragraph/30)

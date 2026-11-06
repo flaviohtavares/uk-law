@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45. Further provision applying to transferee companies[^key-e939b20d2713f6e7910c6a994b0644cf]
+## 45. Further provision applying to transferee companies[^c-e939b20d2713f6e7910c6a994b0644cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ and the corresponding amendment shall also be made in Part 3 of Schedule 1 to th
 
 ## Annotations
 
-[^key-e939b20d2713f6e7910c6a994b0644cf]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2004/20/section/45) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-e939b20d2713f6e7910c6a994b0644cf]: Commencement: [S. 45](https://www.legislation.gov.uk/ukpga/2004/20/section/45) in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)

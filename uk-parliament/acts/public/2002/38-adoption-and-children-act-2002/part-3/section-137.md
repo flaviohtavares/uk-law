@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 137. Extension of the Hague Convention to British overseas territories[^key-8e0a12e869cdd54383de197913c86789]
+## 137. Extension of the Hague Convention to British overseas territories[^c-8e0a12e869cdd54383de197913c86789]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e0a12e869cdd54383de197913c86789]: Commencement: S. 137 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(m)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/m) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)
+[^c-8e0a12e869cdd54383de197913c86789]: Commencement: S. 137 in force at 30.12.2005 by [S.I. 2005/2213](https://www.legislation.gov.uk/uksi/2005/2213), [art. 2(m)](https://www.legislation.gov.uk/uksi/2005/2213/article/2/m) (with savings and transitional provisions in [S.I. 2005/2897](https://www.legislation.gov.uk/uksi/2005/2897), arts. 3-16)

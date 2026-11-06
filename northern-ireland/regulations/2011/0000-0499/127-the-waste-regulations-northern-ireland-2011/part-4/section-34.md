@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Amendment to the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^key-d8971686ec8fab2012df6ed526e2cd64]
+## 34. Amendment to the Pollution Prevention and Control Regulations (Northern Ireland) 2003[^c-d8971686ec8fab2012df6ed526e2cd64]
 
 *Extent: N.I.*
 
@@ -52,7 +52,7 @@ summary: ''
 
   > - hazardous waste” means any solid or liquid waste which is hazardous waste as defined in Articles 3(2) and 7 of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) except for—
   >   - (a) combustible liquid wastes including waste oils ad defined in Article 3(3) of Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) provided that they meet the following criteria—
-  >     - (i) the mass content of polychlorinated aromatic hydrocarbons, e.g. polychlorinated biphenyls (PCB) or pentachlorinated phenol (PCP) amounts to concentrations no higher than those set out in the relevant EU[^key-7f6d050af46dc18a58f2e3c8311fe309] legislation;
+  >     - (i) the mass content of polychlorinated aromatic hydrocarbons, e.g. polychlorinated biphenyls (PCB) or pentachlorinated phenol (PCP) amounts to concentrations no higher than those set out in the relevant EU[^c-7f6d050af46dc18a58f2e3c8311fe309] legislation;
   >     - (ii) these wastes are not rendered hazardous by virtue of displaying properties set out in Annex III to Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098);
   >     - (iii) the net calorific value amounts to at least 30 MJ per kilogramme: and
   >   - (b) any combustible liquid wastes which cannot cause, in the flue gas directly resulting from their combustion, emissions other than those from gas oil as defined in Article 2(2) of Council Directive [1999/32/EC](https://www.legislation.gov.uk/european/directive/1999/0032) relating to a reduction in the sulphur content of certain liquid fuels, as amended by Directive [2005/33/EC](https://www.legislation.gov.uk/european/directive/2005/0033) or a higher concentration pf emissions than those resulting from the combustion of gas oil as so defined;
@@ -76,10 +76,10 @@ summary: ''
 
 ## Annotations
 
-[^key-d8971686ec8fab2012df6ed526e2cd64]: Commencement: Reg. 34 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
+[^c-d8971686ec8fab2012df6ed526e2cd64]: Commencement: Reg. 34 in operation at 8.4.2011, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2011/127/regulation/1/1)
 
 [^f00021]: Footnote: [S.R.2003 No.46](https://www.legislation.gov.uk/nisr/2003/46) as amended by [S.R.2003 No.390](https://www.legislation.gov.uk/nisr/2003/390), [S.R. No.496](https://www.legislation.gov.uk/nisr/2003/496), [S.I. 2003/3311](https://www.legislation.gov.uk/uksi/2003/3311). [S.R. 2004 No.36](https://www.legislation.gov.uk/nisr/2004/36), [S.R.2004 No.507](https://www.legislation.gov.uk/nisr/2004/507), [S.R.2005 No.285](https://www.legislation.gov.uk/nisr/2005/285), [S.R. 2005 No.300](https://www.legislation.gov.uk/nisr/2005/300), [S.R. 2005 No.454](https://www.legislation.gov.uk/nisr/2005/454), [S.R.2006 No.98](https://www.legislation.gov.uk/nisr/2006/98), [S.R. 2006 No.280](https://www.legislation.gov.uk/nisr/2006/280), [S.R. 2007 No.245](https://www.legislation.gov.uk/nisr/2007/245), [S.I.2007/2325](https://www.legislation.gov.uk/uksi/2007/2325), [S.R. 2009 No.159](https://www.legislation.gov.uk/nisr/2009/159), [S.R.2009 No.403](https://www.legislation.gov.uk/nisr/2009/403) and [S.R.2010 No.165](https://www.legislation.gov.uk/nisr/2010/165)
 
 [^f00022]: Footnote: O.J.L.312.22.11.2008.p.3.
 
-[^key-7f6d050af46dc18a58f2e3c8311fe309]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)
+[^c-7f6d050af46dc18a58f2e3c8311fe309]: Textual amendment: Words in Regulations substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3-6](https://www.legislation.gov.uk/uksi/2011/1043/article/3)

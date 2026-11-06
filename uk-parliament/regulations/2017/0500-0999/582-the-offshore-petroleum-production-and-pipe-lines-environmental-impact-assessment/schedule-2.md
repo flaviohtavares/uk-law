@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2[^key-7e80c8ea29b38314d7297ce54980c32b]
+## SCHEDULE 2[^c-7e80c8ea29b38314d7297ce54980c32b]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ Regulation 21
 
 ## Annotations
 
-[^key-7e80c8ea29b38314d7297ce54980c32b]: Commencement: Sch. 2 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
+[^c-7e80c8ea29b38314d7297ce54980c32b]: Commencement: Sch. 2 in force at 16.5.2017, see [reg. 1](https://www.legislation.gov.uk/uksi/2017/582/regulation/1)
 
 [^f00031]: Footnote: OJ L 197 24.7.2012. p.1
 

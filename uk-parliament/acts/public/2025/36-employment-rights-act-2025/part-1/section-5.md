@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Collective agreements: contracting out[^key-ea6566b1f4ede22cd2e631fda06dc64f]
+## 5. Collective agreements: contracting out[^c-ea6566b1f4ede22cd2e631fda06dc64f]
 
 *Extent: E+W+S*
 
-(1)[^key-a0f7d3f94d953e7e42ab3a62c2292fae] The Employment Rights Act 1996 is amended as follows.
+(1)[^c-a0f7d3f94d953e7e42ab3a62c2292fae] The Employment Rights Act 1996 is amended as follows.
 
-(2)[^key-a0f7d3f94d953e7e42ab3a62c2292fae] After section 27BV (inserted by section 4) insert—
+(2)[^c-a0f7d3f94d953e7e42ab3a62c2292fae] After section 27BV (inserted by section 4) insert—
 
 > **Chapter 6 — Collective agreements: contracting out**
 >
@@ -163,6 +163,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ea6566b1f4ede22cd2e631fda06dc64f]: Commencement: S. 5 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-ea6566b1f4ede22cd2e631fda06dc64f]: Commencement: S. 5 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-a0f7d3f94d953e7e42ab3a62c2292fae]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/5/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/5/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/e)
+[^c-a0f7d3f94d953e7e42ab3a62c2292fae]: Commencement: [S. 5(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/5/1)[(2)](https://www.legislation.gov.uk/ukpga/2025/36/section/5/2) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(e)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/e)

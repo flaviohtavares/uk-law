@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Constituency returning officers[^key-8860ca9d04575fe5d4e9baa1fcb88319]
+## 14. Constituency returning officers[^c-8860ca9d04575fe5d4e9baa1fcb88319]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ The constituency returning officer for a Scottish parliamentary election shall b
 
 ## Annotations
 
-[^key-8860ca9d04575fe5d4e9baa1fcb88319]: Commencement: Art. 14 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-8860ca9d04575fe5d4e9baa1fcb88319]: Commencement: Art. 14 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

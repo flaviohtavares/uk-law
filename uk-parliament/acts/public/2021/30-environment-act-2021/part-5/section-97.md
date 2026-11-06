@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Disclosure of Revenue and Customs information[^key-519a45813fb64b52ea7640af133cfc51]
+## 97. Disclosure of Revenue and Customs information[^c-519a45813fb64b52ea7640af133cfc51]
 
 *Extent: E+W+S+N.I.*
 
@@ -167,4 +167,4 @@ summary: ''
 
 ## Annotations
 
-[^key-519a45813fb64b52ea7640af133cfc51]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2021/30/section/97) in force at 9.1.2022, see [s. 147(2)(n)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/n)
+[^c-519a45813fb64b52ea7640af133cfc51]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2021/30/section/97) in force at 9.1.2022, see [s. 147(2)(n)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/n)

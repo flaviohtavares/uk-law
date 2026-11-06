@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Grants[^key-e76ac4c84317d2c1779f95cbcbe0c330]
+## 116. Grants[^c-e76ac4c84317d2c1779f95cbcbe0c330]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e76ac4c84317d2c1779f95cbcbe0c330]: Textual amendment: S. 116 omitted (retrospective to 1.4.2026) by virtue of [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 126(2)](https://www.legislation.gov.uk/ukpga/2026/22/section/126/2), [133(11)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/d)
+[^c-e76ac4c84317d2c1779f95cbcbe0c330]: Textual amendment: S. 116 omitted (retrospective to 1.4.2026) by virtue of [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 126(2)](https://www.legislation.gov.uk/ukpga/2026/22/section/126/2), [133(11)(d)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/d)

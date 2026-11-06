@@ -43,7 +43,7 @@ summary: ''
 
 (7) The bodies referred to in subsection (1)(b) above are—
 
-- (a)[^key-78e0ef082978ea795601d480486378e4] the Chapter of the cathedral of the diocese or, in the case of the cathedral church of Christ in Oxford, the dean and canons;
+- (a)[^c-78e0ef082978ea795601d480486378e4] the Chapter of the cathedral of the diocese or, in the case of the cathedral church of Christ in Oxford, the dean and canons;
 - (b) the dean and chapter of the collegiate church of St. Peter in Westminster;
 - (c) the dean and canons of the collegiate church of St. George, Windsor;
 - (d) any diocesan board of patronage;
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78e0ef082978ea795601d480486378e4]: Textual amendment: [S. 8(7)(a)](https://www.legislation.gov.uk/ukcm/1986/3/section/8/7/a) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/22) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))
+[^c-78e0ef082978ea795601d480486378e4]: Textual amendment: [S. 8(7)(a)](https://www.legislation.gov.uk/ukcm/1986/3/section/8/7/a) substituted (coming into force in accordance with s. 53(3) of the amending Measure) by [Cathedrals Measure 2021 (No. 2)](https://www.legislation.gov.uk/ukcm/2021/2), [Sch. 4 para. 22](https://www.legislation.gov.uk/ukcm/2021/2/schedule/4/paragraph/22) (with [ss. 42(4)](https://www.legislation.gov.uk/ukcm/2021/2/section/42/4), [48](https://www.legislation.gov.uk/ukcm/2021/2/section/48), [52(1)](https://www.legislation.gov.uk/ukcm/2021/2/section/52/1))

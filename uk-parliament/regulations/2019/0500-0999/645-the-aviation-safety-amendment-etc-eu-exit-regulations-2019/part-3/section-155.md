@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Amendment of Articles 84 to 86 of Regulation (EU) No 2018/1139[^key-69124fb04e7c3a0ea30f4e21aae36c20]
+## 155. Amendment of Articles 84 to 86 of Regulation (EU) No 2018/1139[^c-69124fb04e7c3a0ea30f4e21aae36c20]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ Omit the following—
 
 ## Annotations
 
-[^key-69124fb04e7c3a0ea30f4e21aae36c20]: Commencement: Reg. 155 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-69124fb04e7c3a0ea30f4e21aae36c20]: Commencement: Reg. 155 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

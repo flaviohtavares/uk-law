@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Membership[^key-c5db98d71f98b80b12344a685aa082aa]
+## 24. Membership[^c-c5db98d71f98b80b12344a685aa082aa]
 
 *Extent: E+W*
 
-The Secretary of State[^key-fc47e62f714bf2a35546e832362770b9] may by regulations make provision about—
+The Secretary of State[^c-fc47e62f714bf2a35546e832362770b9] may by regulations make provision about—
 
 - (a) the number of members of a Regional Flood and Coastal Committee,
 - (b) conditions of eligibility for appointment,
@@ -29,6 +29,6 @@ The Secretary of State[^key-fc47e62f714bf2a35546e832362770b9] may by regulations
 
 ## Annotations
 
-[^key-c5db98d71f98b80b12344a685aa082aa]: Commencement: S. 24 in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-c5db98d71f98b80b12344a685aa082aa]: Commencement: S. 24 in force at 1.10.2010 by [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-fc47e62f714bf2a35546e832362770b9]: Textual amendment: Words in [s. 24](https://www.legislation.gov.uk/ukpga/2010/29/section/24) substituted (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 25(7)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/25/7); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)
+[^c-fc47e62f714bf2a35546e832362770b9]: Textual amendment: Words in [s. 24](https://www.legislation.gov.uk/ukpga/2010/29/section/24) substituted (14.7.2017) by [Environment (Wales) Act 2016 (anaw 3)](https://www.legislation.gov.uk/anaw/2016/3), [s. 88(3)(c)](https://www.legislation.gov.uk/anaw/2016/3/section/88/3/c), [Sch. 2 para. 25(7)](https://www.legislation.gov.uk/anaw/2016/3/schedule/2/paragraph/25/7); [S.I. 2017/714](https://www.legislation.gov.uk/wsi/2017/714), [art. 2](https://www.legislation.gov.uk/wsi/2017/714/article/2)

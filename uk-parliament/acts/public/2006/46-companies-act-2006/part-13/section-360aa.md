@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 360AA. Traded companies: confirmation of receipt of electronic voting[^key-50542a74e4fe951f17c7c00c4fc62a99]
+## 360AA. Traded companies: confirmation of receipt of electronic voting[^c-50542a74e4fe951f17c7c00c4fc62a99]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50542a74e4fe951f17c7c00c4fc62a99]: Textual amendment: [S. 360AA](https://www.legislation.gov.uk/ukpga/2006/46/section/360AA) inserted (3.9.2020) by [The Companies (Shareholders Rights to Voting Confirmations) Regulations 2020 (S.I. 2020/717)](https://www.legislation.gov.uk/uksi/2020/717), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/717/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2020/717/regulation/4/1) (with [reg. 2](https://www.legislation.gov.uk/uksi/2020/717/regulation/2))
+[^c-50542a74e4fe951f17c7c00c4fc62a99]: Textual amendment: [S. 360AA](https://www.legislation.gov.uk/ukpga/2006/46/section/360AA) inserted (3.9.2020) by [The Companies (Shareholders Rights to Voting Confirmations) Regulations 2020 (S.I. 2020/717)](https://www.legislation.gov.uk/uksi/2020/717), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/717/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2020/717/regulation/4/1) (with [reg. 2](https://www.legislation.gov.uk/uksi/2020/717/regulation/2))

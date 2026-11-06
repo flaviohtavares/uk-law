@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Appeals from Tribunal.[^c13350832][^key-69beee248567b6376f55d458e8313913]
+## 49. Appeals from Tribunal.[^c13350832][^c-69beee248567b6376f55d458e8313913]
 
 *Extent: E+W*
 
@@ -48,7 +48,7 @@ shall be final.
 
     [S. 49](https://www.legislation.gov.uk/ukpga/1974/47/section/49) extended (22.5.2000) by [S.I. 2000/1119](https://www.legislation.gov.uk/uksi/2000/1119), [regs. 1](https://www.legislation.gov.uk/uksi/2000/1119/regulation/1), [37(3)](https://www.legislation.gov.uk/uksi/2000/1119/regulation/37/3), [Sch. 4 para. 10](https://www.legislation.gov.uk/uksi/2000/1119/schedule/4/paragraph/10) (as amended (1.7.2009) by [The Legal Services Act 2007 (Registered European Lawyers) Order 2009 (S.I. 2009/1587)](https://www.legislation.gov.uk/uksi/2009/1587), [art. 3(10)](https://www.legislation.gov.uk/uksi/2009/1587/article/3/10))
 
-[^key-69beee248567b6376f55d458e8313913]: Modification: [S. 49](https://www.legislation.gov.uk/ukpga/1974/47/section/49) applied in part (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
+[^c-69beee248567b6376f55d458e8313913]: Modification: [S. 49](https://www.legislation.gov.uk/ukpga/1974/47/section/49) applied in part (1.1.2025) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) (Extension to Switzerland etc.) Regulations 2024 (S.I. 2024/1379)](https://www.legislation.gov.uk/uksi/2024/1379), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2024/1379/regulation/1/4), [25](https://www.legislation.gov.uk/uksi/2024/1379/regulation/25)
 
 [^c19665291]: Textual amendment: Words in [s. 49(1)](https://www.legislation.gov.uk/ukpga/1974/47/section/49/1) substituted (1.7.2009) by [Legal Services Act 2007 (c. 29)](https://www.legislation.gov.uk/ukpga/2007/29), [ss. 177](https://www.legislation.gov.uk/ukpga/2007/29/section/177), [211](https://www.legislation.gov.uk/ukpga/2007/29/section/211), [Sch. 16 para. 51(2)](https://www.legislation.gov.uk/ukpga/2007/29/schedule/16/paragraph/51/2) (with [ss. 29](https://www.legislation.gov.uk/ukpga/2007/29/section/29), [192](https://www.legislation.gov.uk/ukpga/2007/29/section/192), [193](https://www.legislation.gov.uk/ukpga/2007/29/section/193)); [S.I. 2009/1365](https://www.legislation.gov.uk/uksi/2009/1365), [art. 2(a)(iii)](https://www.legislation.gov.uk/uksi/2009/1365/article/2/a/iii) (subject to [art. 4](https://www.legislation.gov.uk/uksi/2009/1365/article/4))
 

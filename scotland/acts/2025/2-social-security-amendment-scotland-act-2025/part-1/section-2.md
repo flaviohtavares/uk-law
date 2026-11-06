@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2. Care experience assistance[^key-144853f982981e273d9d66db871cd28d][^key-46e6d18a30ea4497ffce848615d1022c]
+## 2. Care experience assistance[^c-144853f982981e273d9d66db871cd28d][^c-46e6d18a30ea4497ffce848615d1022c]
 
 *Extent: S*
 
@@ -89,6 +89,6 @@ summary: ''
 
 ## Annotations
 
-[^key-144853f982981e273d9d66db871cd28d]: Commencement: S. 2 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
+[^c-144853f982981e273d9d66db871cd28d]: Commencement: S. 2 not in force at Royal Assent, see [s. 27(2)](https://www.legislation.gov.uk/asp/2025/2/section/27/2)
 
-[^key-46e6d18a30ea4497ffce848615d1022c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/2/section/2) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)
+[^c-46e6d18a30ea4497ffce848615d1022c]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2025/2/section/2) in force at 10.5.2025 by [S.S.I. 2025/119](https://www.legislation.gov.uk/ssi/2025/119), [reg. 2](https://www.legislation.gov.uk/ssi/2025/119/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2025/119/schedule)

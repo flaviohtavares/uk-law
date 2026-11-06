@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 33. Precautions against inrushes[^key-2020ba3b29fde0f9f769bda0924fd635]
+## 33. Precautions against inrushes[^c-2020ba3b29fde0f9f769bda0924fd635]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ is prevented.
 
 ## Annotations
 
-[^key-2020ba3b29fde0f9f769bda0924fd635]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2016/427/regulation/33) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-2020ba3b29fde0f9f769bda0924fd635]: Commencement: [Reg. 33](https://www.legislation.gov.uk/nisr/2016/427/regulation/33) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

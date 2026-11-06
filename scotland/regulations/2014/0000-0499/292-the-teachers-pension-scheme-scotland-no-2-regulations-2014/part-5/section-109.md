@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 109. When ill-health pension does not become payable[^key-1c6a8a78b5cb38f94227155cf2eb9d2f]
+## 109. When ill-health pension does not become payable[^c-1c6a8a78b5cb38f94227155cf2eb9d2f]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c6a8a78b5cb38f94227155cf2eb9d2f]: Commencement: [Reg. 109](https://www.legislation.gov.uk/ssi/2014/292/regulation/109) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-1c6a8a78b5cb38f94227155cf2eb9d2f]: Commencement: [Reg. 109](https://www.legislation.gov.uk/ssi/2014/292/regulation/109) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Designation of group of companies[^key-00721df3fb971a75d5a842a145a9bb55]
+## 77. Designation of group of companies[^c-00721df3fb971a75d5a842a145a9bb55]
 
 *Extent: E+W*
 
@@ -48,13 +48,13 @@ summary: ''
 
 - (a) an amount of tax;
 - (b) a penalty under an enactment relating to the tax;
-- (ba)[^key-911f0253124628d6eb0c0cd5d8975607] an amount payable in respect of a tax credit;
-- (c) interest on an amount within paragraph (a), (b) or (ba)[^key-c8a379cf8927f2ee7d60b3d8f132f502].
+- (ba)[^c-911f0253124628d6eb0c0cd5d8975607] an amount payable in respect of a tax credit;
+- (c) interest on an amount within paragraph (a), (b) or (ba)[^c-c8a379cf8927f2ee7d60b3d8f132f502].
 
 ## Annotations
 
-[^key-00721df3fb971a75d5a842a145a9bb55]: Commencement: S. 77 in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(w)](https://www.legislation.gov.uk/wsi/2018/35/article/2/w)
+[^c-00721df3fb971a75d5a842a145a9bb55]: Commencement: S. 77 in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(w)](https://www.legislation.gov.uk/wsi/2018/35/article/2/w)
 
-[^key-911f0253124628d6eb0c0cd5d8975607]: Textual amendment: S. 77(8)(ba) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 5(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/5/a)
+[^c-911f0253124628d6eb0c0cd5d8975607]: Textual amendment: S. 77(8)(ba) inserted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 5(a)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/5/a)
 
-[^key-c8a379cf8927f2ee7d60b3d8f132f502]: Textual amendment: Words in s. 77(8)(c) substituted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 5(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/5/b)
+[^c-c8a379cf8927f2ee7d60b3d8f132f502]: Textual amendment: Words in s. 77(8)(c) substituted (1.4.2018) by [The Landfill Disposals Tax (Administration) (Wales) Regulations 2018 (S.I. 2018/101)](https://www.legislation.gov.uk/wsi/2018/101), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/101/regulation/1/2), [Sch. para. 5(b)](https://www.legislation.gov.uk/wsi/2018/101/schedule/paragraph/5/b)

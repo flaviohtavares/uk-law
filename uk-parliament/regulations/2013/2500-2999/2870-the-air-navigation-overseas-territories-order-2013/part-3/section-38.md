@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Aircraft weight schedule[^key-ce0def16af86afe44552b0942de35f19]
+## 38. Aircraft weight schedule[^c-ce0def16af86afe44552b0942de35f19]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce0def16af86afe44552b0942de35f19]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2013/2870/article/38) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-ce0def16af86afe44552b0942de35f19]: Commencement: [Art. 38](https://www.legislation.gov.uk/uksi/2013/2870/article/38) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

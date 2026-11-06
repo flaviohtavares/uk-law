@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10D. Withdrawal by person who is blind or unable to write[^key-3fb17353ac258319052925512d4f51ad]
+## 10D. Withdrawal by person who is blind or unable to write[^c-3fb17353ac258319052925512d4f51ad]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fb17353ac258319052925512d4f51ad]: Textual amendment: S. 10D inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 20(2)](https://www.legislation.gov.uk/asp/2019/11/section/20/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-3fb17353ac258319052925512d4f51ad]: Textual amendment: S. 10D inserted (26.3.2021) by [Human Tissue (Authorisation) (Scotland) Act 2019 (asp 11)](https://www.legislation.gov.uk/asp/2019/11), [ss. 20(2)](https://www.legislation.gov.uk/asp/2019/11/section/20/2), [29(2)](https://www.legislation.gov.uk/asp/2019/11/section/29/2); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

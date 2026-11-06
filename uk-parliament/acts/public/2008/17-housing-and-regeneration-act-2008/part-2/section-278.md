@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 278. Transitional[^key-ccc4c2fa1d5fdf0919abb2bbbc5d96f7]
+## 278. Transitional[^c-ccc4c2fa1d5fdf0919abb2bbbc5d96f7]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ccc4c2fa1d5fdf0919abb2bbbc5d96f7]: Commencement: S. 278 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-ccc4c2fa1d5fdf0919abb2bbbc5d96f7]: Commencement: S. 278 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

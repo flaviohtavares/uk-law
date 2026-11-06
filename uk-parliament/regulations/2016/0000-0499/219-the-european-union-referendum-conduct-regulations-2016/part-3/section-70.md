@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Overview and interpretation[^key-5a4bc2050bcaf5f8c179698a8570f0a4]
+## 70. Overview and interpretation[^c-5a4bc2050bcaf5f8c179698a8570f0a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5a4bc2050bcaf5f8c179698a8570f0a4]: Commencement: Reg. 70 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-5a4bc2050bcaf5f8c179698a8570f0a4]: Commencement: Reg. 70 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
 [^f00046]: Footnote: [S.I. 2008/1741](https://www.legislation.gov.uk/uksi/2008/1741). Relevant amendments were made by section 14 of the Northern Ireland (Miscellaneous Provisions) Act [2014 (c.13)](https://www.legislation.gov.uk/ukpga/2014/13); [S.I. 2010/278](https://www.legislation.gov.uk/uksi/2010/278); [2011/2085](https://www.legislation.gov.uk/uksi/2011/2085); and [2014/1808](https://www.legislation.gov.uk/uksi/2014/1808).

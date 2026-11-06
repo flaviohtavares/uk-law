@@ -22,14 +22,14 @@ summary: ''
 
 Articles 17 and 28
 
-**1.**[^key-9b3f2496dc5079f33765b4faf72da041] In relating this Schedule to the rights of way and access plans, the provisions described in this Schedule are shown on the rights of way and access plans in the following manner—
+**1.**[^c-9b3f2496dc5079f33765b4faf72da041] In relating this Schedule to the rights of way and access plans, the provisions described in this Schedule are shown on the rights of way and access plans in the following manner—
 
 - (a) Existing highways to be stopped up, as described in column (2) of Part 1 of this Schedule, are shown by red boxed hatching (as shown in the key on the rights of way and access plans) over the extent of the area to be stopped up, which is described in column (3) of Part 1 of this Schedule.
 - (b) New highways which are to be substituted for a highway to be stopped up (or which are otherwise to be provided), as are included in column (4) of Part 1 of this Schedule, are shown by green shading (for motorways), pink shading (for trunk roads), yellow shading (for other classified roads and highways) and blue, yellow or purple shading (for public rights of way) (as shown in the key on the rights of way and access plans) and are given a reference label (a capital letter in a circle) and will be a road unless otherwise stated beneath its reference letter in column (4) of Part 1 of this Schedule.
 - (c) Private means of access to be stopped up, as described in column (2) of Part 2 of this Schedule, are shown by blue shading (as shown in the key on the rights of way and access plans) over the extent of stopping up described in column (3) of Part 2 of this Schedule, and are given a reference label (a lower case letter in a circle).
 - (d) New private means of access to be substituted for a private means of access to be stopped up (or which are otherwise to be provided), as are included in column (4) of Part 2 of this Schedule, are shown by blue shading (as shown in the key on the rights of way and access plans) and are given a reference label (a number in a circle).
 
-### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^key-d9cd7cf6ffcc47dbb1d863804455bd63]
+### PART 1 — HIGHWAYS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW HIGHWAYS WHICH ARE OTHERWISE TO BE PROVIDED[^c-d9cd7cf6ffcc47dbb1d863804455bd63]
 
 | *(1)*<br>*Area* | *(2)*<br>*Highway to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New Highway to be substituted/provided* |
 | --- | --- | --- | --- |
@@ -48,7 +48,7 @@ Articles 17 and 28
 | Hampshire County Council (Winchester) | Existing public right of way to be stopped up | 290 metres of existing public right of way between points 5 and 6 as shown on sheets 6 and 7 of the rights of way and access plans. | New public right of way as identified between points 1 and 2, 3 and 4, for a length of 1679 metres as shown on sheets 4, 6 and 7 of the rights of way and access plans. |
 | Hampshire County Council (Winchester) | Existing footway / footpath between to be stopped up | 1719 metres of existing footway / footpath between points 7 and 8, 9 and 10, 11 and 12, 13 and 14 as shown on sheets 3, 5, 6 and 7 of the rights of way and access plans. | New public right of way as per reference F/C 1 between points 4, 15 and 16, for a length of 2693 metres as shown on sheets 3, 5, 6 and 7 of the rights of way and access plans. |
 
-### PART 2 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^key-599707fac50a6b2af51d0abcabdb7431]
+### PART 2 — PRIVATE MEANS OF ACCESS TO BE STOPPED UP FOR WHICH A SUBSTITUTE IS TO BE PROVIDED AND NEW PRIVATE MEANS OF ACCESS WHICH ARE OTHERWISE TO BE PROVIDED[^c-599707fac50a6b2af51d0abcabdb7431]
 
 | *(1)*<br>*Area* | *(2)*<br>*Private means of access to be stopped up* | *(3)*<br>*Extent of stopping up* | *(4)*<br>*New private means of access to be substituted/provided* |
 | --- | --- | --- | --- |
@@ -57,8 +57,8 @@ Articles 17 and 28
 
 ## Annotations
 
-[^key-9b3f2496dc5079f33765b4faf72da041]: Commencement: Sch. 4 para. 1 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-9b3f2496dc5079f33765b4faf72da041]: Commencement: Sch. 4 para. 1 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-d9cd7cf6ffcc47dbb1d863804455bd63]: Commencement: Sch. 4 Pt. 1 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-d9cd7cf6ffcc47dbb1d863804455bd63]: Commencement: Sch. 4 Pt. 1 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
 
-[^key-599707fac50a6b2af51d0abcabdb7431]: Commencement: Sch. 4 Pt. 2 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))
+[^c-599707fac50a6b2af51d0abcabdb7431]: Commencement: Sch. 4 Pt. 2 in force at 9.10.2024, see art. 1 (as amended by [S.I. 2024/1020](https://www.legislation.gov.uk/uksi/2024/1020), [Sch.](https://www.legislation.gov.uk/uksi/2024/1020/schedule))

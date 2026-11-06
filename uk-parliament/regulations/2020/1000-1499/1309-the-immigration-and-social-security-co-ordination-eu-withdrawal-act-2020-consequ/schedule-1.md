@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 24
 
-### 1. Provision consequential or connected with regulation 5 (amendment and saving of the Immigration Act 1971)[^key-897455186acd818bb37022ec3f1c0a63][^M_I_14e0a0e9-cf3d-44b4-b3a1-77b9a1f5c20c]
+### 1. Provision consequential or connected with regulation 5 (amendment and saving of the Immigration Act 1971)[^c-897455186acd818bb37022ec3f1c0a63][^M_I_14e0a0e9-cf3d-44b4-b3a1-77b9a1f5c20c]
 
 (1) In the Immigration Act 1971—
 
@@ -56,11 +56,11 @@ Regulation 24
 
 (5) The amendments and repeals made by sub-paragraphs (1) to (4) do not apply where section 25B of the Immigration Act 1971 continues to apply by virtue of regulation 5(6) of these Regulations.
 
-### 2. Provision consequential or connected with regulation 6 (amendment of the Rent Act 1977) and regulation 8 (amendment of the Housing Act 1988)[^key-fa99567eaf0278f9397554fc5a08cc92][^M_I_f2151c71-4899-4be0-ab66-8ba035bac767]
+### 2. Provision consequential or connected with regulation 6 (amendment of the Rent Act 1977) and regulation 8 (amendment of the Housing Act 1988)[^c-fa99567eaf0278f9397554fc5a08cc92][^M_I_f2151c71-4899-4be0-ab66-8ba035bac767]
 
 In the Immigration Act 2016, in section 42 (extension to Wales, Scotland and Northern Ireland of certain provisions to do with residential tenancies), the reference in the definition of “the residential tenancies provisions” in subsection (5) to the amendments made by section 41 of the Immigration Act 2016 is to be read as a reference to those amendments as further amended by regulations 6 and 8 of these Regulations.
 
-### 3. Provision consequential or connected with regulation 13 (amendment of the Nationality, Immigration and Asylum Act 2002)[^key-818aca47b86f370fe0575fc3a6689f42][^M_I_bfa8ac6b-87b8-4d13-bc4f-93996c8ce4f0]
+### 3. Provision consequential or connected with regulation 13 (amendment of the Nationality, Immigration and Asylum Act 2002)[^c-818aca47b86f370fe0575fc3a6689f42][^M_I_bfa8ac6b-87b8-4d13-bc4f-93996c8ce4f0]
 
 In Immigration Act 2016, in Schedule 12 (availability of local authority support: amendments to Schedule 3 to the Nationality, Immigration and Asylum Act 2002)—
 
@@ -71,7 +71,7 @@ In Immigration Act 2016, in Schedule 12 (availability of local authority support
 
 ## Annotations
 
-[^key-897455186acd818bb37022ec3f1c0a63]: Commencement: Sch. 1 para. 1 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-897455186acd818bb37022ec3f1c0a63]: Commencement: Sch. 1 para. 1 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_14e0a0e9-cf3d-44b4-b3a1-77b9a1f5c20c]: Commencement: Sch. 1 para. 1 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
@@ -81,10 +81,10 @@ In Immigration Act 2016, in Schedule 12 (availability of local authority support
 
 [^c24399441]: Marginal citation: [2007 c. 27](https://www.legislation.gov.uk/ukpga/2007/27).
 
-[^key-fa99567eaf0278f9397554fc5a08cc92]: Commencement: Sch. 1 para. 2 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-fa99567eaf0278f9397554fc5a08cc92]: Commencement: Sch. 1 para. 2 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_f2151c71-4899-4be0-ab66-8ba035bac767]: Commencement: Sch. 1 para. 2 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)
 
-[^key-818aca47b86f370fe0575fc3a6689f42]: Commencement: Sch. 1 para. 3 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
+[^c-818aca47b86f370fe0575fc3a6689f42]: Commencement: Sch. 1 para. 3 not in force at made date, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/1309/regulation/1)
 
 [^M_I_bfa8ac6b-87b8-4d13-bc4f-93996c8ce4f0]: Commencement: Sch. 1 para. 3 in force at 31.12.2020, see reg. 1(2) and [S.I. 2020/1279](https://www.legislation.gov.uk/uksi/2020/1279), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2020/1279/regulation/4/c)

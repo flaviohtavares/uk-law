@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-The relevant authority[^key-48c5a372ad97ee6960c342077a78aeca] shall ensure that equality between men and women and the integration of gender perspective are taken into account and promoted throughout the preparation and implementation of programmes, including in relation to monitoring, reporting and evaluation.
+The relevant authority[^c-48c5a372ad97ee6960c342077a78aeca] shall ensure that equality between men and women and the integration of gender perspective are taken into account and promoted throughout the preparation and implementation of programmes, including in relation to monitoring, reporting and evaluation.
 
 The relevant authority shall take appropriate steps to prevent any discrimination based on sex, racial or ethnic origin, religion or belief, disability, age or sexual orientation during the preparation and implementation of programmes. In particular, accessibility for persons with disabilities shall be taken into account throughout the preparation and implementation of programmes.
 
 ## Annotations
 
-[^key-48c5a372ad97ee6960c342077a78aeca]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2013/1303/article/7) substituted (31.12.2020) by [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2019/785/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48c5a372ad97ee6960c342077a78aeca]: Textual amendment: Words in [Art. 7](https://www.legislation.gov.uk/eur/2013/1303/article/7) substituted (31.12.2020) by [The European Structural and Investment Funds Common Provisions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/785)](https://www.legislation.gov.uk/uksi/2019/785), [regs. 1](https://www.legislation.gov.uk/uksi/2019/785/regulation/1), [5(6)](https://www.legislation.gov.uk/uksi/2019/785/regulation/5/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

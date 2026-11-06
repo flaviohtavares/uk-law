@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-9486ff1e9187143763f4fdbbcca751b5] In section 3 of the Local Government and Housing Act 1989 (c. 42) (grant and supervision of exemptions from political restriction of posts)—
+(1)[^c-9486ff1e9187143763f4fdbbcca751b5] In section 3 of the Local Government and Housing Act 1989 (c. 42) (grant and supervision of exemptions from political restriction of posts)—
 
 - (a) at the end of the sidenote, insert “ : Scotland and Wales ”;
 - (b) in subsection (1) for the words “It shall be the duty of the Secretary of State to appoint a person” substitute “ It shall be the duty of the Scottish Ministers to appoint in relation to Scotland, and the duty of the Welsh Ministers to appoint in relation to Wales, a person ”;
 - (c) omit subsection (8)(a);
 - (d) in subsection (8)(b), for “that subsection” substitute “ subsection (1) ”.
 
-(2)[^key-ad1c2b85f9b9465636816a3749e5c3e0][^key-fe3cc70ad77870a589c0030a1bbf98a7] After that section insert—
+(2)[^c-ad1c2b85f9b9465636816a3749e5c3e0][^c-fe3cc70ad77870a589c0030a1bbf98a7] After that section insert—
 
 > **3A. Grant and supervision of exemptions from political restriction: England**
 >
@@ -85,8 +85,8 @@ summary: ''
 
 ## Annotations
 
-[^key-9486ff1e9187143763f4fdbbcca751b5]: Commencement: S. 202(1) in force at 1.4.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 9(1)](https://www.legislation.gov.uk/uksi/2008/172/article/9/1)
+[^c-9486ff1e9187143763f4fdbbcca751b5]: Commencement: S. 202(1) in force at 1.4.2008 by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 9(1)](https://www.legislation.gov.uk/uksi/2008/172/article/9/1)
 
-[^key-ad1c2b85f9b9465636816a3749e5c3e0]: Commencement: S. 202(2) in force at 31.1.2008 for specified purposes by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 9(2)](https://www.legislation.gov.uk/uksi/2008/172/article/9/2)
+[^c-ad1c2b85f9b9465636816a3749e5c3e0]: Commencement: S. 202(2) in force at 31.1.2008 for specified purposes by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 9(2)](https://www.legislation.gov.uk/uksi/2008/172/article/9/2)
 
-[^key-fe3cc70ad77870a589c0030a1bbf98a7]: Commencement: S. 202(2) in force at 1.4.2008 in so far as not already in force by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 9(3)](https://www.legislation.gov.uk/uksi/2008/172/article/9/3)
+[^c-fe3cc70ad77870a589c0030a1bbf98a7]: Commencement: S. 202(2) in force at 1.4.2008 in so far as not already in force by [S.I. 2008/172](https://www.legislation.gov.uk/uksi/2008/172), [art. 9(3)](https://www.legislation.gov.uk/uksi/2008/172/article/9/3)

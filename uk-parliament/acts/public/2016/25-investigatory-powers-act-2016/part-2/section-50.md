@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Interception in psychiatric hospitals etc.[^key-ba567bbe06a2807446518f2a75ff798d]
+## 50. Interception in psychiatric hospitals etc.[^c-ba567bbe06a2807446518f2a75ff798d]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ The reference to section 2(5) of that Act is to that provision as applied by Art
 
 ## Annotations
 
-[^key-ba567bbe06a2807446518f2a75ff798d]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2016/25/section/50) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)
+[^c-ba567bbe06a2807446518f2a75ff798d]: Commencement: [S. 50](https://www.legislation.gov.uk/ukpga/2016/25/section/50) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 8(p)](https://www.legislation.gov.uk/uksi/2018/652/regulation/8/p)

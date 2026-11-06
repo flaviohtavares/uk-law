@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Commission [Decision 2008/896/EC](https://www.legislation.gov.uk/european/decision/2008/0896)[^key-913f3c2e9dd490200a513320a95e8213]
+## 7. Commission [Decision 2008/896/EC](https://www.legislation.gov.uk/european/decision/2008/0896)[^c-913f3c2e9dd490200a513320a95e8213]
 
 *Extent: E+W+S*
 
@@ -123,6 +123,6 @@ summary: ''
 
 ## Annotations
 
-[^key-913f3c2e9dd490200a513320a95e8213]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1388/regulation/7) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
+[^c-913f3c2e9dd490200a513320a95e8213]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2020/1388/regulation/7) in force at 31.12.2020, see [reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/c)
 
 [^f00016]: Footnote: EUR 1251/2008.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Amendment of regulation D2[^key-73c8ae1ebb43ff0cfc33f039aedf771a]
+## 5. Amendment of regulation D2[^c-73c8ae1ebb43ff0cfc33f039aedf771a]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ In regulation D2 (contributions and other payments by employing authorities)—
 
 ## Annotations
 
-[^key-73c8ae1ebb43ff0cfc33f039aedf771a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/364/regulation/5) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-73c8ae1ebb43ff0cfc33f039aedf771a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2011/364/regulation/5) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

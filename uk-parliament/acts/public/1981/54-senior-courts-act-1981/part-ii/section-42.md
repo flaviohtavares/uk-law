@@ -22,7 +22,7 @@ summary: ''
 
 (1) If, on an application made by the Attorney General under this section, the High Court is satisfied that any person has habitually and persistently and without any reasonable ground—
 
-- (a) instituted vexatious civil[^c12333121] proceedings, whether in the High Court or the family court[^key-6dd47f24fddcd3573d8447cd7fb2f5e3] or any inferior court, and whether against the same person or against different persons; or
+- (a) instituted vexatious civil[^c12333121] proceedings, whether in the High Court or the family court[^c-6dd47f24fddcd3573d8447cd7fb2f5e3] or any inferior court, and whether against the same person or against different persons; or
 - (b) made vexatious applications in any civil proceedings, whether in the High Court or the family court or any inferior court, and whether instituted by him or another, or[^c12333141]
 - (c) instituted vexatious prosecutions (whether against the same person or different persons),
 
@@ -57,7 +57,7 @@ the court may, after hearing that person or giving him an opportunity of being h
 
 [^c12333121]: Textual amendment: Word substituted by [Prosecution of Offences Act 1985 (c. 23, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1985/23), [s. 24(2)](https://www.legislation.gov.uk/ukpga/1985/23/section/24/2)(*a*)
 
-[^key-6dd47f24fddcd3573d8447cd7fb2f5e3]: Textual amendment: Words in s. 42(1)(a)(b) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 60](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/60); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-6dd47f24fddcd3573d8447cd7fb2f5e3]: Textual amendment: Words in s. 42(1)(a)(b) inserted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 60](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/60); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
 
 [^c12333141]: Textual amendment: S. 42(1)*(c)* and word “or” preceding it inserted by [Prosecution of Offences Act 1985 (c. 23, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1985/23), [s.24(2)](https://www.legislation.gov.uk/ukpga/1985/23/section/24/2)(*b*)
 

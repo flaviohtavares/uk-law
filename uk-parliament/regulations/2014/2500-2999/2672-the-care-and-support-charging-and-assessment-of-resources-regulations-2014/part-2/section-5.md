@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Costs of putting in place arrangements to meet needs[^key-c98288cbca933eab853f64f602af10e6]
+## 5. Costs of putting in place arrangements to meet needs[^c-c98288cbca933eab853f64f602af10e6]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where a local authority is meeting needs because Condition 2 in section 18, or C
 
 ## Annotations
 
-[^key-c98288cbca933eab853f64f602af10e6]: Commencement: Reg. 5 in force at 1.4.2015 in accordance with reg. 1
+[^c-c98288cbca933eab853f64f602af10e6]: Commencement: Reg. 5 in force at 1.4.2015 in accordance with reg. 1

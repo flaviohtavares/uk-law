@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Combination of polls at Senedd and Police and Crime Commissioner elections[^key-8bba9cfb6d7fc58ef332a62e696e7449]
+## 16. Combination of polls at Senedd and Police and Crime Commissioner elections[^c-8bba9cfb6d7fc58ef332a62e696e7449]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8bba9cfb6d7fc58ef332a62e696e7449]: Commencement: Art. 16 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-8bba9cfb6d7fc58ef332a62e696e7449]: Commencement: Art. 16 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
 
 [^f00039]: Footnote: Section 50 was amended by section 8 of the Wales Act [2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4) and [S.I. 2021/1265](https://www.legislation.gov.uk/uksi/2021/1265).
 

@@ -33,7 +33,7 @@ Parliamentary Constituencies Act 1986
 
 \[7th November 1986\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-a69ce4b458b84ffa02a2661afd468c65][^key-00bc8ba1745f125d806486649a274f81][^key-d7638105832560cf157f34aba679743a][^key-7e66b30984ca368565185ae736259e07][^key-183bc6c96ac8a4804d0eaf404429c282][^key-e5ede7f3f0c7bc190bafe4235990295a][^key-0172eb9e123e082e2864ad22bfce7068]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-a69ce4b458b84ffa02a2661afd468c65][^c-00bc8ba1745f125d806486649a274f81][^c-d7638105832560cf157f34aba679743a][^c-7e66b30984ca368565185ae736259e07][^c-183bc6c96ac8a4804d0eaf404429c282][^c-e5ede7f3f0c7bc190bafe4235990295a][^c-0172eb9e123e082e2864ad22bfce7068]
 
 ## 1. Parliamentary constituencies.
 
@@ -47,20 +47,20 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (2) Schedule 1 to this Act shall have effect with respect to the constitution of, and other matters relating to, the Boundary Commissions.
 
-## 3. Reports of the Commissions.[^key-ad446c2af5735bbc1d0a6ec92707c4f9][^key-d1b8977dd5ac322da6c4de79f0ee9e12]
+## 3. Reports of the Commissions.[^c-ad446c2af5735bbc1d0a6ec92707c4f9][^c-d1b8977dd5ac322da6c4de79f0ee9e12]
 
-(1)[^c814241] Each Boundary Commission shall keep under review the representation in the House of Commons of the part of the United Kingdom with which they are concerned and shall, in accordance with subsection (2) below, submit to the Speaker of the House of Commons[^key-23e112f2aa5b3ef84292c7e41b917be0] reports with respect to the whole of that part of the United Kingdom, either—
+(1)[^c814241] Each Boundary Commission shall keep under review the representation in the House of Commons of the part of the United Kingdom with which they are concerned and shall, in accordance with subsection (2) below, submit to the Speaker of the House of Commons[^c-23e112f2aa5b3ef84292c7e41b917be0] reports with respect to the whole of that part of the United Kingdom, either—
 
-- (a) Showing the constituencies into which they recommend that it should be divided in order to give effect to the rules set out in Schedule 2 to this Act[^key-1aab91f78304b29a07deb4df00e159ef], or
-- (b) stating that, in the opinion of the Commission, no alteration is required to be made in respect of that part of the United Kingdom in order to give effect to the said rules [^key-1bbcbc1ad91fc61b5b9619611f1abadc]....
+- (a) Showing the constituencies into which they recommend that it should be divided in order to give effect to the rules set out in Schedule 2 to this Act[^c-1aab91f78304b29a07deb4df00e159ef], or
+- (b) stating that, in the opinion of the Commission, no alteration is required to be made in respect of that part of the United Kingdom in order to give effect to the said rules [^c-1bbcbc1ad91fc61b5b9619611f1abadc]....
 
-(2)[^key-4a8996dc61d5245a54addc81333ed67a] Each Boundary Commission must submit a report under subsection (1)—
+(2)[^c-4a8996dc61d5245a54addc81333ed67a] Each Boundary Commission must submit a report under subsection (1)—
 
 - (a) before 1 July 2023,
 - (b) before 1 October 2031, and
 - (c) before 1 October of every eighth year after that.
 
-(2ZA)[^key-fd38b18dc45adc73cef845c7aba5a445][^key-5894396b84c3c410795129351e867b38] On submitting a report to the Speaker under subsection (1), a Boundary Commission must send a copy of it to the Secretary of State [^key-7c6e63e8b57baa4e99fa9deb03275011]....
+(2ZA)[^c-fd38b18dc45adc73cef845c7aba5a445][^c-5894396b84c3c410795129351e867b38] On submitting a report to the Speaker under subsection (1), a Boundary Commission must send a copy of it to the Secretary of State [^c-7c6e63e8b57baa4e99fa9deb03275011]....
 
 (2ZB) On receiving a report under subsection (1), the Speaker must lay it before Parliament.
 
@@ -68,14 +68,14 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (2A)[^c814271] A failure by a Boundary Commission to submit a report within the time limit which is appropriate to that report shall not be regarded as invalidating the report for the purposes of any enactment.
 
-(2B)[^key-252fe563e77145de93a632439fd08423] In relation to any report which a Boundary Commission are required by subsection (2) above to submit before a particular date but have not yet submitted (a “pending boundary report”), the Commission shall submit to the Speaker of the House of Commons—
+(2B)[^c-252fe563e77145de93a632439fd08423] In relation to any report which a Boundary Commission are required by subsection (2) above to submit before a particular date but have not yet submitted (a “pending boundary report”), the Commission shall submit to the Speaker of the House of Commons—
 
-- (a) during the relevant January[^key-614c75ae234e9c02730ca8dd647756d4], and
+- (a) during the relevant January[^c-614c75ae234e9c02730ca8dd647756d4], and
 - (b) during each subsequent January,
 
 a report setting out what progress they have made with the preparation of the pending boundary report, with particular reference to the requirement in subsection (2) above.
 
-(2BA)[^key-3a88162f065d43928983cd49628908d5] For the purposes of subsection (2B), “**the relevant January**” means—
+(2BA)[^c-3a88162f065d43928983cd49628908d5] For the purposes of subsection (2B), “**the relevant January**” means—
 
 - (a) January 2022, in the case of a report required by subsection (2) to be submitted before 1 July 2023, and
 - (b) in the case of any other report required by subsection (2) to be submitted before a particular date, the January that begins one year and nine months before that date.
@@ -84,25 +84,25 @@ a report setting out what progress they have made with the preparation of the pe
 
 (2C) On receiving a report under subsection (2B) above, the Speaker shall lay it before Parliament.
 
-(3)[^key-213aa6c1ce17d4d4cfb85e7835502f5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-213aa6c1ce17d4d4cfb85e7835502f5d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) A report of a Boundary Commission under this Act showing the constituencies into which they recommend that any area should be divided shall state, as respects each constituency, the name by which they recommend that it should be known, and whether they recommend that it should be a county constituency or a borough constituency (or in Scotland a county constituency or a burgh constituency).
 
-(5)[^key-91aca53285bc639e87f36b608adcaaf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-91aca53285bc639e87f36b608adcaaf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5A)[^key-91aca53285bc639e87f36b608adcaaf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5A)[^c-91aca53285bc639e87f36b608adcaaf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5B)[^key-91aca53285bc639e87f36b608adcaaf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5B)[^c-91aca53285bc639e87f36b608adcaaf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5C)[^key-91aca53285bc639e87f36b608adcaaf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5C)[^c-91aca53285bc639e87f36b608adcaaf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) Schedule 2 to this Act which contains the rules referred to above [^key-216bc86cd6c3e92d9329fae571d720f0]... shall have effect.
+(6) Schedule 2 to this Act which contains the rules referred to above [^c-216bc86cd6c3e92d9329fae571d720f0]... shall have effect.
 
-(7)[^key-fb4193173458105015a1b3abcc4b9d28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-fb4193173458105015a1b3abcc4b9d28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7A)[^key-6ddf0ee6219e9b17c4d9300754da5da3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7A)[^c-6ddf0ee6219e9b17c4d9300754da5da3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(8)[^key-fb4193173458105015a1b3abcc4b9d28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-fb4193173458105015a1b3abcc4b9d28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 3A. Reviews and proposed recommendations by Boundary Committees.[^M_F_dd3fc675-e63c-4594-d767-7fc900796768]
 
@@ -110,9 +110,9 @@ a report setting out what progress they have made with the preparation of the pe
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Orders in Council.[^c814481][^key-ad446c2af5735bbc1d0a6ec92707c4f9][^key-14fa97bca5c7489ad0f9511ca29bd5a8][^key-0c4f5f77ddcb91b3c918f6e59449525f]
+## 4. Orders in Council.[^c814481][^c-ad446c2af5735bbc1d0a6ec92707c4f9][^c-14fa97bca5c7489ad0f9511ca29bd5a8][^c-0c4f5f77ddcb91b3c918f6e59449525f]
 
-(1)[^key-eceaf17b875375047bf780df97fce51f] After all four reports under section 3(1) which are required by section 3(2) to be submitted before a particular date have been laid before Parliament under section 3(2ZB), the Secretary of State [^key-bf730ce2d8fe226a86958a63c3349142]... must submit to Her Majesty in Council a draft of an Order in Council for giving effect to the recommendations in those of the four reports (if any) which are reports under section 3(1)(a) (report with recommendations).
+(1)[^c-eceaf17b875375047bf780df97fce51f] After all four reports under section 3(1) which are required by section 3(2) to be submitted before a particular date have been laid before Parliament under section 3(2ZB), the Secretary of State [^c-bf730ce2d8fe226a86958a63c3349142]... must submit to Her Majesty in Council a draft of an Order in Council for giving effect to the recommendations in those of the four reports (if any) which are reports under section 3(1)(a) (report with recommendations).
 
 (2) The draft of an Order in Council must be submitted under subsection (1)—
 
@@ -121,7 +121,7 @@ a report setting out what progress they have made with the preparation of the pe
 
 (3) “**The four month period**” means the period of four months beginning with the first date on which all four reports have been laid before Parliament as mentioned in subsection (1).
 
-(4) If the draft of an Order in Council is not submitted under subsection (1) before the end of the four month period, the Secretary of State [^key-8ba33dec5bec6f534df9b4e2fd2b8019]... must lay one or more statements before Parliament in accordance with subsection (4A) specifying the exceptional circumstances.
+(4) If the draft of an Order in Council is not submitted under subsection (1) before the end of the four month period, the Secretary of State [^c-8ba33dec5bec6f534df9b4e2fd2b8019]... must lay one or more statements before Parliament in accordance with subsection (4A) specifying the exceptional circumstances.
 
 (4A) A statement must be laid—
 
@@ -131,21 +131,21 @@ a report setting out what progress they have made with the preparation of the pe
 (4B) A draft of an Order in Council submitted under subsection (1)—
 
 - (a) may give effect to recommendations in the reports with modifications only if that is required under section 4A, and
-- (b) may make provision for any matters which appear to the Secretary of State [^key-1a2a4c0d052f0f8e2eee2163febf160a]... to be incidental to, or consequential on—
+- (b) may make provision for any matters which appear to the Secretary of State [^c-1a2a4c0d052f0f8e2eee2163febf160a]... to be incidental to, or consequential on—
   - (i) the recommendations in the reports, or
   - (ii) those recommendations together with the modifications that the draft is required to give effect to under section 4A.
 
 (5) Where the draft of an Order in Council is submitted to Her Majesty in Council under this Act, Her Majesty in Council may make an Order in terms of the draft which (subject to subsection (6) below) shall come into force on such date as may be specified in the Order and shall have effect notwithstanding anything in any enactment.
 
-(6) The coming into force of any such Order shall not affect any parliamentary election or[^key-f725396e01c59ef4989056f28ec0723b] the constitution of the House of Commons until the dissolution of the Parliament then in being.
+(6) The coming into force of any such Order shall not affect any parliamentary election or[^c-f725396e01c59ef4989056f28ec0723b] the constitution of the House of Commons until the dissolution of the Parliament then in being.
 
-(7) The validity of any Order in Council purporting to be made under this Act [^key-ec1203407c681bdfc4442f78e9ba4a91]... shall not be called in question in any legal proceedings whatsoever.
+(7) The validity of any Order in Council purporting to be made under this Act [^c-ec1203407c681bdfc4442f78e9ba4a91]... shall not be called in question in any legal proceedings whatsoever.
 
-(7A)[^key-8b11647f72d02475e0660aaade19d2ef] In this section, “**sitting day**” means a day on which both Houses of Parliament sit; and for that purpose a day is only a day on which a House sits if the House begins to sit on that day.
+(7A)[^c-8b11647f72d02475e0660aaade19d2ef] In this section, “**sitting day**” means a day on which both Houses of Parliament sit; and for that purpose a day is only a day on which a House sits if the House begins to sit on that day.
 
-(8)[^key-2809e5e747d14ad1008b6e0f7d1091a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-2809e5e747d14ad1008b6e0f7d1091a9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A. Modifications of recommendations in reports[^key-91ce16ef41885e41675a1b3458c47cc0][^key-6757bfde0eed09e7b66c8e666befe60f]
+## 4A. Modifications of recommendations in reports[^c-91ce16ef41885e41675a1b3458c47cc0][^c-6757bfde0eed09e7b66c8e666befe60f]
 
 (1) Subsection (2) applies where—
 
@@ -158,7 +158,7 @@ a report setting out what progress they have made with the preparation of the pe
 - (a) the modifications which they consider should be made to the recommendations in the report in order to correct any error in those recommendations, and
 - (b) their reasons for those modifications.
 
-(3) On submitting a statement of modifications to the Speaker under subsection (2), the Commission must send a copy of it to the Secretary of State [^key-966342155138e88b51f7c4e991da0c2d]....
+(3) On submitting a statement of modifications to the Speaker under subsection (2), the Commission must send a copy of it to the Secretary of State [^c-966342155138e88b51f7c4e991da0c2d]....
 
 (4) On receiving a statement of modifications under subsection (2), the Speaker must lay it before Parliament.
 
@@ -166,65 +166,65 @@ a report setting out what progress they have made with the preparation of the pe
 
 (6) Where a statement of modifications in relation to a report has been laid under subsection (4), the draft of the Order in Council to be submitted under section 4(1) in relation to the report must give effect to the recommendations in the report with the modifications specified in the statement.
 
-## 5. Publicity and consultation[^key-2e09706aed23c236171df97762b912d7]
+## 5. Publicity and consultation[^c-2e09706aed23c236171df97762b912d7]
 
 (1) Once a Boundary Commission have decided what constituencies they propose to recommend in a report under section 3(1)(a) above—
 
 - (a) the Commission shall take such steps as they think fit to inform people in each of the proposed constituencies—
   - (i) what the proposals are,
   - (ii) that a copy of the proposals is open to inspection at a specified place within the proposed constituency, and
-  - (iii) that written representations with respect to the proposals may be made to the Commission during a specified period of eight weeks[^key-c1f1e17ef20900ea7cb63590c4908f6b] (“the initial consultation period”);
-- (b)[^key-1f9dc73b8789c9994fd38c8fc752e4f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii) that written representations with respect to the proposals may be made to the Commission during a specified period of eight weeks[^c-c1f1e17ef20900ea7cb63590c4908f6b] (“the initial consultation period”);
+- (b)[^c-1f9dc73b8789c9994fd38c8fc752e4f1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subsection (1)(a)(ii) above does not apply to a constituency with respect to which no alteration is proposed.
 
-(3)[^key-4e03a7c80df0dd13f6059972acecfbd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4e03a7c80df0dd13f6059972acecfbd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After the end of the initial consultation period the Commission—
 
-- (a) shall publish, in such manner as they think fit, representations made as mentioned in subsection (1)(a) above [^key-5c4d791ee595d74b934370dad91ed6d8]...;
-- (b) shall take such steps as they think fit to inform people in the proposed constituencies that further written representations with respect to the representations[^key-5aae171122df10e651a5b88c6b24ed6d] published under paragraph (a) above may be made to the Commission during a specified period of eight weeks[^key-d6795228781758e76899398206bb6489] (“the secondary consultation period”).
-- (c)[^key-e60ffbd0f55385c2216dc965a6d75213] shall cause public hearings to be held at such times during the secondary consultation period as they think fit.
+- (a) shall publish, in such manner as they think fit, representations made as mentioned in subsection (1)(a) above [^c-5c4d791ee595d74b934370dad91ed6d8]...;
+- (b) shall take such steps as they think fit to inform people in the proposed constituencies that further written representations with respect to the representations[^c-5aae171122df10e651a5b88c6b24ed6d] published under paragraph (a) above may be made to the Commission during a specified period of eight weeks[^c-d6795228781758e76899398206bb6489] (“the secondary consultation period”).
+- (c)[^c-e60ffbd0f55385c2216dc965a6d75213] shall cause public hearings to be held at such times during the secondary consultation period as they think fit.
 
-(4A)[^key-64f61edd7caad4e478a863a7841c756c] Schedule 2A contains further provision about public hearings under subsection (4)(c).
+(4A)[^c-64f61edd7caad4e478a863a7841c756c] Schedule 2A contains further provision about public hearings under subsection (4)(c).
 
 (4B) After the end of the secondary consultation period, the Commission—
 
 - (a) must publish, in such manner as they think fit, records of public hearings held under subsection (4)(c), and
 - (b) must take such steps as they think fit to inform people in the proposed constituencies that written representations with respect to those records may be made to the Commission during a specified period of eight weeks (“the third consultation period”).
 
-(5) If after the end of the secondary consultation period the Commission are minded to revise their original proposals so as to recommend different constituencies, they shall take such steps as they see fit to inform people in each of those revised proposed constituencies before the beginning of the third consultation period[^key-87286c3f42b2450656f64391d69a28cb]—
+(5) If after the end of the secondary consultation period the Commission are minded to revise their original proposals so as to recommend different constituencies, they shall take such steps as they see fit to inform people in each of those revised proposed constituencies before the beginning of the third consultation period[^c-87286c3f42b2450656f64391d69a28cb]—
 
 - (a) what the revised proposals are,
 - (b) that a copy of the revised proposals is open to inspection at a specified place within the revised proposed constituency, and
-- (c) that written representations with respect to the revised proposals may be made to the Commission during the third consultation period[^key-3d8cd4e6c2e7d83f842c79a96ce434be].
+- (c) that written representations with respect to the revised proposals may be made to the Commission during the third consultation period[^c-3d8cd4e6c2e7d83f842c79a96ce434be].
 
 (6) Subsection (5) above does not apply to any proposals to make further revisions.
 
-(7) Steps taken under subsection (4) , (4B)[^key-8d3d4d3fd35d0036813f479f41ef4d6e] or (5) above need not be of the same kind as those taken under subsection (1) above.
+(7) Steps taken under subsection (4) , (4B)[^c-8d3d4d3fd35d0036813f479f41ef4d6e] or (5) above need not be of the same kind as those taken under subsection (1) above.
 
 (8) A Boundary Commission shall take into consideration—
 
-- (a) written representations duly made to them as mentioned in subsection (1)(a), (4)(b) , (4B)(b)[^key-d619f495f9e3a4b6bb0824ed01622e80] or (5)(c) above, and
-- (b) representations made at public hearings under subsection (4)(c)[^key-023165a12fa3253a90dc1fba7e21519e] above.
+- (a) written representations duly made to them as mentioned in subsection (1)(a), (4)(b) , (4B)(b)[^c-d619f495f9e3a4b6bb0824ed01622e80] or (5)(c) above, and
+- (b) representations made at public hearings under subsection (4)(c)[^c-023165a12fa3253a90dc1fba7e21519e] above.
 
 (9) Except as provided by this section and Schedule 2A to this Act, a Boundary Commission shall not cause any public hearing or inquiry to be held for the purposes of a report under this Act.
 
 (10) Where a Boundary Commission publish—
 
 - (a) general information about how they propose to carry out their functions (including, in the case of the Boundary Commission for England, information about the extent (if any) to which they propose to take into account the boundaries mentioned in rule 5(2) of Schedule 2 to this Act), or
-- (b) anything else to which subsection (1), (4) , (4B)[^key-6d2b5195ecebb5e1fbcbee782c27b25c] or (5) above does not apply,
+- (b) anything else to which subsection (1), (4) , (4B)[^c-6d2b5195ecebb5e1fbcbee782c27b25c] or (5) above does not apply,
 
 it is for the Commission to determine whether to invite representations and, if they decide to do so, the procedure that is to apply.
 
-(11)[^key-6d87647bf92b6024c1a718c8981a85c7] If the report mentioned in subsection (1) is a 2023 report, this section applies in relation to that report as if—
+(11)[^c-6d87647bf92b6024c1a718c8981a85c7] If the report mentioned in subsection (1) is a 2023 report, this section applies in relation to that report as if—
 
 - (a) in subsection (4)(b), the reference to eight weeks were a reference to six weeks, and
 - (b) in subsection (4B)(b), the reference to eight weeks were a reference to four weeks.
 
 (12) In subsection (11), a “**2023 report**” means a report that is required by section 3(2) to be submitted before 1 July 2023.
 
-## 6. Local inquiries.[^key-1d338b148c388b5455cf969d4252c9b1]
+## 6. Local inquiries.[^c-1d338b148c388b5455cf969d4252c9b1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -236,7 +236,7 @@ it is for the Commission to determine whether to invite representations and, if 
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6C. Functions of the Minister for the Cabinet Office[^key-30fc2ab5d16749f653c2cedebd1bef5f]
+## 6C. Functions of the Minister for the Cabinet Office[^c-30fc2ab5d16749f653c2cedebd1bef5f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -250,7 +250,7 @@ Schedule 3 to this Act shall have effect.
 
 (2) Article 2(7) of the [^c814741]Local Government Reorganisation (Consequential Provisions) (Northern Ireland) Order 1973 is hereby revoked.
 
-(3)[^key-d42339d8aa6ee37faae9d8c4c563bf3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d42339d8aa6ee37faae9d8c4c563bf3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 9. Citation commencement and extent.
 
@@ -262,7 +262,7 @@ Schedule 3 to this Act shall have effect.
 
 SCHEDULES
 
-## SCHEDULE 1 — The Boundary Commissions[^key-33b9dab1f1ec71bf6f162cc9af8d3f48][^key-894e197519582990b590bfa594d4c783]
+## SCHEDULE 1 — The Boundary Commissions[^c-33b9dab1f1ec71bf6f162cc9af8d3f48][^c-894e197519582990b590bfa594d4c783]
 
 Section 2.
 
@@ -270,7 +270,7 @@ Section 2.
 
 **1.** The Speaker of the House of Commons shall be the chairman of each of the four Commissions.
 
-**2.** Each of the four Commissions shall consist of the chairman, a deputy chairman and two other members appointed by the Secretary of State [^key-219a5bae975a48ed17f011e78d08d0aa]....
+**2.** Each of the four Commissions shall consist of the chairman, a deputy chairman and two other members appointed by the Secretary of State [^c-219a5bae975a48ed17f011e78d08d0aa]....
 
 **3.** The deputy chairman—
 
@@ -281,7 +281,7 @@ Section 2.
 
 **4.** A Member of any Commission (other than the chairman) shall hold his appointment for such term and on such conditions as may be determined before his appointment by the person appointing him.
 
-**4A.**[^c17679861][^c17679851] In the case of a member of a Commission other than the chairman or deputy chairman, the conditions referred to in paragraph 4 above may include such provisions with respect to remuneration as the Secretary of State [^key-bc4c3ca6c4731885a8ba9754367c9a03]... may determine with the approval of the Treasury.
+**4A.**[^c17679861][^c17679851] In the case of a member of a Commission other than the chairman or deputy chairman, the conditions referred to in paragraph 4 above may include such provisions with respect to remuneration as the Secretary of State [^c-bc4c3ca6c4731885a8ba9754367c9a03]... may determine with the approval of the Treasury.
 
 ### Officers
 
@@ -290,13 +290,13 @@ Section 2.
 - (a)[^c20067991] in the case of the Commission for England, the Statistics Board[^c20067941] and the Director General of Ordnance Survey,
 - (b) in the case of the Commission for Scotland, the Registrar General of Births, Deaths and Marriages for Scotland and the Director General of Ordnance Survey,
 - (c)[^c20067991] in the case of the Commission for Wales, the Statistics Board and the Director General of Ordnance Survey,
-- (d) in the case of the Commission for Northern Ireland, the Registrar General of Births and Deaths in Northern Ireland, the Commissioner of Valuation for Northern Ireland , the[^key-71370f9d7b1bc49655f923df88b5ff64] Chief Electoral Officer for Northern Ireland and the Chief Survey Officer of Land and Property Services[^key-0c8659bf99952ada23f17046d864ba79].
+- (d) in the case of the Commission for Northern Ireland, the Registrar General of Births and Deaths in Northern Ireland, the Commissioner of Valuation for Northern Ireland , the[^c-71370f9d7b1bc49655f923df88b5ff64] Chief Electoral Officer for Northern Ireland and the Chief Survey Officer of Land and Property Services[^c-0c8659bf99952ada23f17046d864ba79].
 
-**6.** (1) The Secretary of State [^key-1df27ab178eaa0669a809da266fc3720]... may, at the request of any Commission, appoint one or more assistant Commissioners to assist the Commission in the discharge of their functions.[^key-3a13bf862de19a07235d9b01d44e9aa6]
+**6.** (1) The Secretary of State [^c-1df27ab178eaa0669a809da266fc3720]... may, at the request of any Commission, appoint one or more assistant Commissioners to assist the Commission in the discharge of their functions.[^c-3a13bf862de19a07235d9b01d44e9aa6]
 
-(2) Any such assistant Commissioner shall be appointed either for a certain term or for the purposes of a particular matter[^key-b2d76fefec367496865f4dd90391c72a], and on such conditions as to remuneration and otherwise as may be determined before his appointment by the Secretary of State [^key-eaf203d6206a8539442e450b6f701531]... with the approval of the Treasury.
+(2) Any such assistant Commissioner shall be appointed either for a certain term or for the purposes of a particular matter[^c-b2d76fefec367496865f4dd90391c72a], and on such conditions as to remuneration and otherwise as may be determined before his appointment by the Secretary of State [^c-eaf203d6206a8539442e450b6f701531]... with the approval of the Treasury.
 
-**7.** The Secretary of State [^key-b4f12382e2d9f6b7f071339ceddbef9d]... shall appoint a secretary to each of the Commissions, and may appoint such other officers of any Commission as he may determine with the approval of the Treasury, and the term and conditions of any such appointment shall be such as may be so determined.
+**7.** The Secretary of State [^c-b4f12382e2d9f6b7f071339ceddbef9d]... shall appoint a secretary to each of the Commissions, and may appoint such other officers of any Commission as he may determine with the approval of the Treasury, and the term and conditions of any such appointment shall be such as may be so determined.
 
 ### Expenses
 
@@ -312,17 +312,17 @@ Section 2.
 
 **12.** Every document purporting to be an instrument made or issued by a Commission and to be signed by the secretary or any person authorised to act in that behalf, shall be received in evidence and shall, until the contrary is proved, be deemed to be an instrument made or issued by the Commission.
 
-### ...[^key-3e5791d4ef8ea610bd2eaf782bc9c15a]
+### ...[^c-3e5791d4ef8ea610bd2eaf782bc9c15a]
 
-**13.**[^key-3e5791d4ef8ea610bd2eaf782bc9c15a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-3e5791d4ef8ea610bd2eaf782bc9c15a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Rules for distribution of seats[^key-317818b1c8bbe2edb9cbe007cfcabed3]
+## SCHEDULE 2 — Rules for distribution of seats[^c-317818b1c8bbe2edb9cbe007cfcabed3]
 
 Section 3
 
 ### Number of constituencies
 
-**1.** The number of constituencies in the United Kingdom shall be 650[^key-d8092e7e7a5c174ba670d2a86f22c21f].
+**1.** The number of constituencies in the United Kingdom shall be 650[^c-d8092e7e7a5c174ba670d2a86f22c21f].
 
 ### Electorate per constituency
 
@@ -333,7 +333,7 @@ Section 3
 
 (2) This rule is subject to rules 4(2), 6(3) and 7.
 
-(3) In this Schedule the “ **United Kingdom electoral quota** ” means—[^key-3586782cd1318f20e8ad8d01e0802a9d]
+(3) In this Schedule the “ **United Kingdom electoral quota** ” means—[^c-3586782cd1318f20e8ad8d01e0802a9d]
 
 [formula: see source](https://www.legislation.gov.uk/ukpga/1986/56)
 
@@ -359,16 +359,16 @@ where U is the electorate of the United Kingdom minus the electorate of the cons
 **5.** (1) A Boundary Commission may take into account, if and to such extent as they think fit—
 
 - (a) special geographical considerations, including in particular the size, shape and accessibility of a constituency;
-- (b)[^key-9bef2e325a1a789f9144178485c431b3] local government boundaries which exist, or are prospective, on the review date;
+- (b)[^c-9bef2e325a1a789f9144178485c431b3] local government boundaries which exist, or are prospective, on the review date;
 - (c) boundaries of existing constituencies;
 - (d) any local ties that would be broken by changes in constituencies;
 - (e) the inconveniences attendant on such changes.
 
-(1A)[^key-8a8f16ee5d11430ea3a1714ea00d466a] In the case of a local government boundary which is prospective on the review date, it is that boundary rather than any existing boundary which it replaces, which may be taken into account under sub-paragraph (1)(b).
+(1A)[^c-8a8f16ee5d11430ea3a1714ea00d466a] In the case of a local government boundary which is prospective on the review date, it is that boundary rather than any existing boundary which it replaces, which may be taken into account under sub-paragraph (1)(b).
 
-(2) The Boundary Commission for England may take into account, if and to such extent as they think fit, boundaries of the English regions specified in sub-paragraph (2A) as they exist on the most recent ordinary council-election day before the review date[^key-381e034afcd77f68041dae6a30a9ae2a].
+(2) The Boundary Commission for England may take into account, if and to such extent as they think fit, boundaries of the English regions specified in sub-paragraph (2A) as they exist on the most recent ordinary council-election day before the review date[^c-381e034afcd77f68041dae6a30a9ae2a].
 
-(2A)[^key-ed48f0067376fabe13a31dbb6b4ce169] The English regions listed in column (1) of the Table below comprise the areas specified in column (2) of the Table (and a reference to an area specified in column (2) of the Table is to that area as it is for the time being).
+(2A)[^c-ed48f0067376fabe13a31dbb6b4ce169] The English regions listed in column (1) of the Table below comprise the areas specified in column (2) of the Table (and a reference to an area specified in column (2) of the Table is to that area as it is for the time being).
 
 Table
 
@@ -464,7 +464,7 @@ Table
 </tbody>
 </table>
 
-[^key-912df1efe284b37d5dee303f7aa7c8f3]
+[^c-912df1efe284b37d5dee303f7aa7c8f3]
 
 (3) This rule has effect subject to rules 2 and 4.
 
@@ -475,7 +475,7 @@ Table
 (2) There shall continue to be—
 
 - (a) a constituency named Orkney and Shetland, comprising the areas of the Orkney Islands Council and the Shetland Islands Council;
-- (b) a constituency named Na h-Eileanan an Iar, comprising the area of Comhairle nan Eilean Siar;[^key-9dac403962796363e3219e76468b1aa6]
+- (b) a constituency named Na h-Eileanan an Iar, comprising the area of Comhairle nan Eilean Siar;[^c-9dac403962796363e3219e76468b1aa6]
 - (c) a constituency named Ynys Môn, comprising the area of the Isle of Anglesey County Council.
 
 (3) Rule 2 does not apply to these constituencies.
@@ -528,30 +528,30 @@ where C is the number of constituencies already allocated to that part.
 (5) This rule does not apply to the constituencies mentioned in rule 6, and accordingly—
 
 - (a) the electorate of England shall be treated for the purposes of this rule as reduced by the electorate of the constituencies mentioned in rule 6(1);
-- (b) the electorate of Scotland shall be treated for the purposes of this rule as reduced by the electorate of the constituencies mentioned in rule 6(2)(a) and (b)[^key-0c0d1ba27729d468512505d46144c9d0];[^key-40043d5c7dc5d4326dc175d95b5a41d2]
+- (b) the electorate of Scotland shall be treated for the purposes of this rule as reduced by the electorate of the constituencies mentioned in rule 6(2)(a) and (b)[^c-0c0d1ba27729d468512505d46144c9d0];[^c-40043d5c7dc5d4326dc175d95b5a41d2]
 - (c) the electorate of Wales shall be treated for the purposes of this rule as reduced by the electorate of the constituency mentioned in rule 6(2)(c).
 
 ### Interpretation
 
 **9.** (1) This rule has effect for the purposes of this Schedule.
 
-(2) Subject to sub-paragraph (2A), the[^key-1ba573d036f24426a3557155eced4622] “electorate” of the United Kingdom, or of a part of the United Kingdom or a constituency, is the total number of persons whose names appear on the relevant version of a register of parliamentary electors in respect of addresses in the United Kingdom, or in that part or that constituency.
+(2) Subject to sub-paragraph (2A), the[^c-1ba573d036f24426a3557155eced4622] “electorate” of the United Kingdom, or of a part of the United Kingdom or a constituency, is the total number of persons whose names appear on the relevant version of a register of parliamentary electors in respect of addresses in the United Kingdom, or in that part or that constituency.
 
 For this purpose the relevant version of a register is the version that is required by virtue of subsection (1) of section 13 of the Representation of the People Act 1983 to be published no later than the review date, or would be so required but for—
 
 - (a) any power under that section to prescribe a later date, or
 - (b) subsection (1A) of that section.
 
-(2A)[^key-348f44d9963bb61fde8e6d7bc85f7bfa] In relation to a report under section 3(1) that a Boundary Commission is required (by section 3(2)) to submit before 1 July 2023, the “electorate” of the United Kingdom, or of a part of the United Kingdom or a constituency, is the total number of persons whose names appear on a register of parliamentary electors (maintained under section 9 of the Representation of the People Act 1983) in respect of addresses in the United Kingdom, or in that part or that constituency, as that register has effect on 2 March 2020.
+(2A)[^c-348f44d9963bb61fde8e6d7bc85f7bfa] In relation to a report under section 3(1) that a Boundary Commission is required (by section 3(2)) to submit before 1 July 2023, the “electorate” of the United Kingdom, or of a part of the United Kingdom or a constituency, is the total number of persons whose names appear on a register of parliamentary electors (maintained under section 9 of the Representation of the People Act 1983) in respect of addresses in the United Kingdom, or in that part or that constituency, as that register has effect on 2 March 2020.
 
 (3) “Local government boundaries” are—
 
 - (a) in England, the boundaries of counties and their electoral divisions, districts and their wards, London boroughs and their wards and the City of London,
-- (b) in Wales, the boundaries of counties, county boroughs, electoral wards[^key-e278f99a19c515f97ef80ea270cd5edb], communities and community wards,
+- (b) in Wales, the boundaries of counties, county boroughs, electoral wards[^c-e278f99a19c515f97ef80ea270cd5edb], communities and community wards,
 - (c) in Scotland, the boundaries of local government areas and the electoral wards into which they are divided under section 1 of the Local Governance (Scotland) Act 2004, and
 - (d) in Northern Ireland, the boundaries of wards.
 
-(3A)[^key-703d7413931d3526381118170543d023] A local government boundary is “prospective” on a particular date if, on that date—
+(3A)[^c-703d7413931d3526381118170543d023] A local government boundary is “prospective” on a particular date if, on that date—
 
 - (a) it is specified in a provision of primary or secondary legislation, but
 - (b) that provision is not yet in force for all purposes.
@@ -571,7 +571,7 @@ For this purpose the relevant version of a register is the version that is requi
 - (b) in relation to Scotland, the day on which the poll is held at ordinary elections of councillors for local government areas;
 - (c) in relation to Northern Ireland, the day of an election for any district council (other than an election to fill a casual vacancy).
 
-(5) The “ **review date** ”, in relation to a report under section 3(1) of this Act that a Boundary Commission is required (by section 3(2)) to submit before a particular date, is —[^key-f527d02a56398ca5fb43e3a7b32fa010]
+(5) The “ **review date** ”, in relation to a report under section 3(1) of this Act that a Boundary Commission is required (by section 3(2)) to submit before a particular date, is —[^c-f527d02a56398ca5fb43e3a7b32fa010]
 
 - (a) 1 December 2020, in the case of a report required to be submitted before 1 July 2023, and
 - (b) in the case of a report required to be submitted before any other particular date, the date which is two years and 10 months before that date.
@@ -580,9 +580,9 @@ For this purpose the relevant version of a register is the version that is requi
 
 (6) “ **The United Kingdom electoral quota** ” has the meaning given by rule 2(3).
 
-(7) A reference in rule 6(2)(a) or (b)[^key-d7d9def10642079274a6bf637a791f0d] to an area is to the area as it existed on the coming into force of Part 2 of the Parliamentary Voting System and Constituencies Act 2011 , and the reference in rule 6(2)(c) to the area of the Isle of Anglesey County Council is to the area as it existed on the coming into force of the Schedule to the Parliamentary Constituencies Act 2020[^key-be0a00469251de61a1706b0621aae570].
+(7) A reference in rule 6(2)(a) or (b)[^c-d7d9def10642079274a6bf637a791f0d] to an area is to the area as it existed on the coming into force of Part 2 of the Parliamentary Voting System and Constituencies Act 2011 , and the reference in rule 6(2)(c) to the area of the Isle of Anglesey County Council is to the area as it existed on the coming into force of the Schedule to the Parliamentary Constituencies Act 2020[^c-be0a00469251de61a1706b0621aae570].
 
-## SCHEDULE 2A — Public hearings about Boundary Commission proposals[^key-3b4b3897ae20a9bfffed18d20a1b1b56]
+## SCHEDULE 2A — Public hearings about Boundary Commission proposals[^c-3b4b3897ae20a9bfffed18d20a1b1b56]
 
 Section 5
 
@@ -622,7 +622,7 @@ Section 5
 **6.** The chair shall make arrangements for a public hearing to begin with an explanation of—
 
 - (a) the proposals with which the hearing is concerned;
-- (b) how written representations about the proposals may be made (as mentioned in section 5(1)(a), (4)(b) , (4B)(b)[^key-6a81f1fc6068a4394f253648451a5231] or (5)(c) of this Act).
+- (b) how written representations about the proposals may be made (as mentioned in section 5(1)(a), (4)(b) , (4B)(b)[^c-6a81f1fc6068a4394f253648451a5231] or (5)(c) of this Act).
 
 **7.** (1) The chair of a public hearing must allow representations to be made—
 
@@ -654,8 +654,8 @@ in whatever way the chair decides.
 **9.** In this Schedule—
 
 - “**the chair**” means the person appointed under paragraph 3 above;
-- “[^key-ea9f29ce8dfa12a5da2e34f5bdb50661]**English region**” means a region specified in rule 5(2A) of Schedule 2 as the region existed on the day referred to in rule 5(2) of that Schedule;
-- “**public hearing**” means a hearing under section 5(4)(c)[^key-d94cb8036fd6afdf9a088b5da14e8848] of this Act;
+- “[^c-ea9f29ce8dfa12a5da2e34f5bdb50661]**English region**” means a region specified in rule 5(2A) of Schedule 2 as the region existed on the day referred to in rule 5(2) of that Schedule;
+- “**public hearing**” means a hearing under section 5(4)(c)[^c-d94cb8036fd6afdf9a088b5da14e8848] of this Act;
 - “**qualifying party**” means a party that is registered under Part 2 of the Political Parties, Elections and Referendums Act 2000 and either—
   - (a) has at least one Member of the House of Commons representing a constituency in the region, or (as the case may be) the part of the United Kingdom, in which the hearing is held, or
   - (b) received at least 10% of the votes cast in that region or part in the most recent parliamentary general election.
@@ -794,123 +794,123 @@ Section 8.
 
 [^c20059791]: Modification: Act: functions transferred (19.8.2003) by virtue of the [The Secretary of State for Constitutional Affairs Order 2003 (S.I. 2003/1887)](https://www.legislation.gov.uk/uksi/2003/1887), [art. 4](https://www.legislation.gov.uk/uksi/2003/1887/article/4), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/1887/schedule/1)
 
-[^key-a69ce4b458b84ffa02a2661afd468c65]: Modification: Act functions made exercisable concurrently (18.8.2010) by [Lord President of the Council Order 2010 (S.I. 2010/1837)](https://www.legislation.gov.uk/uksi/2010/1837), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2), [3](https://www.legislation.gov.uk/uksi/2010/1837/article/3)
+[^c-a69ce4b458b84ffa02a2661afd468c65]: Modification: Act functions made exercisable concurrently (18.8.2010) by [Lord President of the Council Order 2010 (S.I. 2010/1837)](https://www.legislation.gov.uk/uksi/2010/1837), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1837/article/1/2), [3](https://www.legislation.gov.uk/uksi/2010/1837/article/3)
 
-[^key-00bc8ba1745f125d806486649a274f81]: Modification: Act modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 13(6)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/6) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-00bc8ba1745f125d806486649a274f81]: Modification: Act modified (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 13(6)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/6) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-d7638105832560cf157f34aba679743a]: Modification: Act power to apply or incorporate (with modifications) conferred (15.9.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 58(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/1), [(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/7)
+[^c-d7638105832560cf157f34aba679743a]: Modification: Act power to apply or incorporate (with modifications) conferred (15.9.2011) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 58(1)-(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/1), [(7)](https://www.legislation.gov.uk/ukpga/2011/13/section/58/7)
 
-[^key-7e66b30984ca368565185ae736259e07]: Modification: Act power to apply or incorporate (with modifications) conferred (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 54(2)-(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/54/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
+[^c-7e66b30984ca368565185ae736259e07]: Modification: Act power to apply or incorporate (with modifications) conferred (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [s. 54(2)-(5)](https://www.legislation.gov.uk/ukpga/2011/13/section/54/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/b)
 
-[^key-183bc6c96ac8a4804d0eaf404429c282]: Modification: Act functions transferred (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/1376/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1376/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
+[^c-183bc6c96ac8a4804d0eaf404429c282]: Modification: Act functions transferred (22.6.2015) by [The Chancellor of the Duchy of Lancaster Order 2015 (S.I. 2015/1376)](https://www.legislation.gov.uk/uksi/2015/1376), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1376/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2015/1376/article/3/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/1376/schedule/1) (with [art. 9](https://www.legislation.gov.uk/uksi/2015/1376/article/9))
 
-[^key-e5ede7f3f0c7bc190bafe4235990295a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/56) power to apply (with modifications) conferred by 1998 c. 46, ss. 12(4), 12(5) (as substituted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/4/1), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/b))
+[^c-e5ede7f3f0c7bc190bafe4235990295a]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/56) power to apply (with modifications) conferred by 1998 c. 46, ss. 12(4), 12(5) (as substituted (18.5.2017) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2016/11/section/4/1), [72(4)(a)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/4/a); [S.I. 2017/608](https://www.legislation.gov.uk/uksi/2017/608), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2017/608/regulation/2/1/b))
 
-[^key-0172eb9e123e082e2864ad22bfce7068]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/56) excluded (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/10/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-0172eb9e123e082e2864ad22bfce7068]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1986/56) excluded (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 10(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/10/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
 [^c814221]: Marginal citation: [1948 c. 65](https://www.legislation.gov.uk/ukpga/1948/65).
 
-[^key-ad446c2af5735bbc1d0a6ec92707c4f9]: Modification: Ss. 3, 4 functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [5](https://www.legislation.gov.uk/uksi/2016/997/article/5) (with [arts. 6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-ad446c2af5735bbc1d0a6ec92707c4f9]: Modification: Ss. 3, 4 functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [5](https://www.legislation.gov.uk/uksi/2016/997/article/5) (with [arts. 6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-d1b8977dd5ac322da6c4de79f0ee9e12]: Modification: S. 3 concurrent functions transferred (25.7.2018) by [The Transfer of Functions (Parliamentary Constituencies Act 1986) Order 2018 (S.I. 2018/780)](https://www.legislation.gov.uk/uksi/2018/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/780/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/780/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2018/780/article/4), [5](https://www.legislation.gov.uk/uksi/2018/780/article/5))
+[^c-d1b8977dd5ac322da6c4de79f0ee9e12]: Modification: S. 3 concurrent functions transferred (25.7.2018) by [The Transfer of Functions (Parliamentary Constituencies Act 1986) Order 2018 (S.I. 2018/780)](https://www.legislation.gov.uk/uksi/2018/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/780/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/780/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2018/780/article/4), [5](https://www.legislation.gov.uk/uksi/2018/780/article/5))
 
 [^c814241]: Modification: S. 3(1) amended (12.11.1992) by [Boundary Commissions Act 1992 (c. 55)](https://www.legislation.gov.uk/ukpga/1992/55), [s. 2(1)(2)](https://www.legislation.gov.uk/ukpga/1992/55/section/2/1/2)
 
-[^key-23e112f2aa5b3ef84292c7e41b917be0]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/1) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/1/2), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-23e112f2aa5b3ef84292c7e41b917be0]: Textual amendment: Words in [s. 3(1)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/1) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/1/2), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-1aab91f78304b29a07deb4df00e159ef]: Textual amendment: Words in s. 3(1)(a) substituted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/2/a), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-1aab91f78304b29a07deb4df00e159ef]: Textual amendment: Words in s. 3(1)(a) substituted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(2)(a)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/2/a), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-1bbcbc1ad91fc61b5b9619611f1abadc]: Textual amendment: Words in s. 3(1)(b) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(2)(b)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/2/b), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-1bbcbc1ad91fc61b5b9619611f1abadc]: Textual amendment: Words in s. 3(1)(b) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(2)(b)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/2/b), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-4a8996dc61d5245a54addc81333ed67a]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/2) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2020/25/section/1/3), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-4a8996dc61d5245a54addc81333ed67a]: Textual amendment: [S. 3(2)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/2) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2020/25/section/1/3), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-fd38b18dc45adc73cef845c7aba5a445]: Modification: S. 3(2ZA) functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/c) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-fd38b18dc45adc73cef845c7aba5a445]: Modification: S. 3(2ZA) functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/c) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-5894396b84c3c410795129351e867b38]: Textual amendment: [S. 3(2ZA)-(2ZC)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/2ZA) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2020/25/section/1/4), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-5894396b84c3c410795129351e867b38]: Textual amendment: [S. 3(2ZA)-(2ZC)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/2ZA) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2020/25/section/1/4), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-7c6e63e8b57baa4e99fa9deb03275011]: Textual amendment: Words in [s. 3(2ZA)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/2ZA) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-7c6e63e8b57baa4e99fa9deb03275011]: Textual amendment: Words in [s. 3(2ZA)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/2ZA) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(2)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/2) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^c814271]: Textual amendment: S. 3(2A) inserted (12.11.1992) by [Boundary Commissions Act 1992 (c. 55)](https://www.legislation.gov.uk/ukpga/1992/55), [s. 2(4)](https://www.legislation.gov.uk/ukpga/1992/55/section/2/4)
 
-[^key-252fe563e77145de93a632439fd08423]: Textual amendment: S. 3(2B)(2C) inserted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/4), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-252fe563e77145de93a632439fd08423]: Textual amendment: S. 3(2B)(2C) inserted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(4)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/4), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-614c75ae234e9c02730ca8dd647756d4]: Textual amendment: Words in [s. 3(2B)(a)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/2B/a) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2020/25/section/1/5), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-614c75ae234e9c02730ca8dd647756d4]: Textual amendment: Words in [s. 3(2B)(a)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/2B/a) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 1(5)](https://www.legislation.gov.uk/ukpga/2020/25/section/1/5), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-3a88162f065d43928983cd49628908d5]: Textual amendment: [S. 3(2BA)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/2BA) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2020/25/section/1/6), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-3a88162f065d43928983cd49628908d5]: Textual amendment: [S. 3(2BA)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/2BA) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 1(6)](https://www.legislation.gov.uk/ukpga/2020/25/section/1/6), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-213aa6c1ce17d4d4cfb85e7835502f5d]: Textual amendment: S. 3(3) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/5), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-213aa6c1ce17d4d4cfb85e7835502f5d]: Textual amendment: S. 3(3) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/5), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-91aca53285bc639e87f36b608adcaaf2]: Textual amendment: [S. 3(5)-(5C)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/5) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 1(7)](https://www.legislation.gov.uk/ukpga/2020/25/section/1/7), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-91aca53285bc639e87f36b608adcaaf2]: Textual amendment: [S. 3(5)-(5C)](https://www.legislation.gov.uk/ukpga/1986/56/section/3/5) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 1(7)](https://www.legislation.gov.uk/ukpga/2020/25/section/1/7), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-216bc86cd6c3e92d9329fae571d720f0]: Textual amendment: Words in s. 3(6) omitted (16.2.2011) by virtue of [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/2) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-216bc86cd6c3e92d9329fae571d720f0]: Textual amendment: Words in s. 3(6) omitted (16.2.2011) by virtue of [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/2) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-fb4193173458105015a1b3abcc4b9d28]: Textual amendment: S. 3(7)(8) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(7)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/7), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-fb4193173458105015a1b3abcc4b9d28]: Textual amendment: S. 3(7)(8) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(7)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/7), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-6ddf0ee6219e9b17c4d9300754da5da3]: Textual amendment: S. 3(7A) omitted (25.7.2018) by virtue of [The Transfer of Functions (Parliamentary Constituencies Act 1986) Order 2018 (S.I. 2018/780)](https://www.legislation.gov.uk/uksi/2018/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/780/article/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2018/780/article/6/3/a)
+[^c-6ddf0ee6219e9b17c4d9300754da5da3]: Textual amendment: S. 3(7A) omitted (25.7.2018) by virtue of [The Transfer of Functions (Parliamentary Constituencies Act 1986) Order 2018 (S.I. 2018/780)](https://www.legislation.gov.uk/uksi/2018/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/780/article/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2018/780/article/6/3/a)
 
 [^M_F_dd3fc675-e63c-4594-d767-7fc900796768]: Textual amendment: S. 3A inserted (prosp.) by [2000 c. 41](https://www.legislation.gov.uk/ukpga/2000/41), [ss. 16](https://www.legislation.gov.uk/ukpga/2000/41/section/16), [163(2)](https://www.legislation.gov.uk/ukpga/2000/41/section/163/2), [Sch. 3 Pt. I para. 3](https://www.legislation.gov.uk/ukpga/2000/41/schedule/3/part/I/paragraph/3) (with [s. 156(6)](https://www.legislation.gov.uk/ukpga/2000/41/section/156/6)) (which amending Sch. 3 Pt. 1 was repealed (1.4.2010) by [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20), [ss. 61(3)(d)](https://www.legislation.gov.uk/ukpga/2009/20/section/61/3/d)[(e)](https://www.legislation.gov.uk/ukpga/2009/20/section/61/3/e), [148(3)(b)](https://www.legislation.gov.uk/ukpga/2009/20/section/148/3/b), [Sch. 7 Pt. 3](https://www.legislation.gov.uk/ukpga/2009/20/schedule/7/part/3); [S.I. 2009/3318](https://www.legislation.gov.uk/uksi/2009/3318), [art. 4(j)(hh)](https://www.legislation.gov.uk/uksi/2009/3318/article/4/j/hh))
 
 [^c814481]: Modification: S. 4 modified (19.11.1998) by [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46), [s. 1](https://www.legislation.gov.uk/ukpga/1998/46/section/1), [Sch. 1 para. 4](https://www.legislation.gov.uk/ukpga/1998/46/schedule/1/paragraph/4) (with s. 126(3)-(11)
 
-[^key-14fa97bca5c7489ad0f9511ca29bd5a8]: Modification: S. 4 concurrent functions transferred (25.7.2018) by [The Transfer of Functions (Parliamentary Constituencies Act 1986) Order 2018 (S.I. 2018/780)](https://www.legislation.gov.uk/uksi/2018/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/780/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/780/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2018/780/article/4), [5](https://www.legislation.gov.uk/uksi/2018/780/article/5))
+[^c-14fa97bca5c7489ad0f9511ca29bd5a8]: Modification: S. 4 concurrent functions transferred (25.7.2018) by [The Transfer of Functions (Parliamentary Constituencies Act 1986) Order 2018 (S.I. 2018/780)](https://www.legislation.gov.uk/uksi/2018/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/780/article/1/2), [3](https://www.legislation.gov.uk/uksi/2018/780/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2018/780/article/4), [5](https://www.legislation.gov.uk/uksi/2018/780/article/5))
 
-[^key-0c4f5f77ddcb91b3c918f6e59449525f]: Modification: S. 4 functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/c) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-0c4f5f77ddcb91b3c918f6e59449525f]: Modification: S. 4 functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/c) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-eceaf17b875375047bf780df97fce51f]: Textual amendment: [S. 4(1)-(4B)](https://www.legislation.gov.uk/ukpga/1986/56/section/4/1) substituted for s. 4(1)-(4) (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/2/2), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-eceaf17b875375047bf780df97fce51f]: Textual amendment: [S. 4(1)-(4B)](https://www.legislation.gov.uk/ukpga/1986/56/section/4/1) substituted for s. 4(1)-(4) (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/2/2), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-bf730ce2d8fe226a86958a63c3349142]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1986/56/section/4/1) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/3/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-bf730ce2d8fe226a86958a63c3349142]: Textual amendment: Words in [s. 4(1)](https://www.legislation.gov.uk/ukpga/1986/56/section/4/1) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/3/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-8ba33dec5bec6f534df9b4e2fd2b8019]: Textual amendment: Words in [s. 4(4)](https://www.legislation.gov.uk/ukpga/1986/56/section/4/4) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/3/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-8ba33dec5bec6f534df9b4e2fd2b8019]: Textual amendment: Words in [s. 4(4)](https://www.legislation.gov.uk/ukpga/1986/56/section/4/4) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(3)(a)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/3/a) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-1a2a4c0d052f0f8e2eee2163febf160a]: Textual amendment: Words in [s. 4(4B)](https://www.legislation.gov.uk/ukpga/1986/56/section/4/4B) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/3/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-1a2a4c0d052f0f8e2eee2163febf160a]: Textual amendment: Words in [s. 4(4B)](https://www.legislation.gov.uk/ukpga/1986/56/section/4/4B) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(3)(b)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/3/b) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-f725396e01c59ef4989056f28ec0723b]: Textual amendment: Word in s. 4(6) substituted (15.9.2011) by [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/17) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))
+[^c-f725396e01c59ef4989056f28ec0723b]: Textual amendment: Word in s. 4(6) substituted (15.9.2011) by [Fixed-term Parliaments Act 2011 (c. 14)](https://www.legislation.gov.uk/ukpga/2011/14), [s. 7(2)](https://www.legislation.gov.uk/ukpga/2011/14/section/7/2), [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2011/14/schedule/paragraph/17) (with [s. 6](https://www.legislation.gov.uk/ukpga/2011/14/section/6))
 
-[^key-ec1203407c681bdfc4442f78e9ba4a91]: Textual amendment: Words in [s. 4(7)](https://www.legislation.gov.uk/ukpga/1986/56/section/4/7) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2020/25/section/2/3), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-ec1203407c681bdfc4442f78e9ba4a91]: Textual amendment: Words in [s. 4(7)](https://www.legislation.gov.uk/ukpga/1986/56/section/4/7) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 2(3)](https://www.legislation.gov.uk/ukpga/2020/25/section/2/3), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-8b11647f72d02475e0660aaade19d2ef]: Textual amendment: [S. 4(7A)](https://www.legislation.gov.uk/ukpga/1986/56/section/4/7A) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2020/25/section/2/4), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-8b11647f72d02475e0660aaade19d2ef]: Textual amendment: [S. 4(7A)](https://www.legislation.gov.uk/ukpga/1986/56/section/4/7A) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 2(4)](https://www.legislation.gov.uk/ukpga/2020/25/section/2/4), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-2809e5e747d14ad1008b6e0f7d1091a9]: Textual amendment: S. 4(8) omitted (25.7.2018) by virtue of [The Transfer of Functions (Parliamentary Constituencies Act 1986) Order 2018 (S.I. 2018/780)](https://www.legislation.gov.uk/uksi/2018/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/780/article/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2018/780/article/6/3/b)
+[^c-2809e5e747d14ad1008b6e0f7d1091a9]: Textual amendment: S. 4(8) omitted (25.7.2018) by virtue of [The Transfer of Functions (Parliamentary Constituencies Act 1986) Order 2018 (S.I. 2018/780)](https://www.legislation.gov.uk/uksi/2018/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/780/article/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2018/780/article/6/3/b)
 
-[^key-91ce16ef41885e41675a1b3458c47cc0]: Modification: S. 4A functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/c) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-91ce16ef41885e41675a1b3458c47cc0]: Modification: S. 4A functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/c) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-6757bfde0eed09e7b66c8e666befe60f]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/1986/56/section/4A) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 3](https://www.legislation.gov.uk/ukpga/2020/25/section/3), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-6757bfde0eed09e7b66c8e666befe60f]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/ukpga/1986/56/section/4A) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 3](https://www.legislation.gov.uk/ukpga/2020/25/section/3), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-966342155138e88b51f7c4e991da0c2d]: Textual amendment: Words in [s. 4A(3)](https://www.legislation.gov.uk/ukpga/1986/56/section/4A/3) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-966342155138e88b51f7c4e991da0c2d]: Textual amendment: Words in [s. 4A(3)](https://www.legislation.gov.uk/ukpga/1986/56/section/4A/3) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-2e09706aed23c236171df97762b912d7]: Textual amendment: S. 5 substituted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/12/1), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1)
+[^c-2e09706aed23c236171df97762b912d7]: Textual amendment: S. 5 substituted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 12(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/12/1), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1)
 
-[^key-c1f1e17ef20900ea7cb63590c4908f6b]: Textual amendment: Words in [s. 5(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/1/a/iii) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/2), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-c1f1e17ef20900ea7cb63590c4908f6b]: Textual amendment: Words in [s. 5(1)(a)(iii)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/1/a/iii) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/2), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-1f9dc73b8789c9994fd38c8fc752e4f1]: Textual amendment: [S. 5(1)(b)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/1/b) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/3), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-1f9dc73b8789c9994fd38c8fc752e4f1]: Textual amendment: [S. 5(1)(b)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/1/b) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/3), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-4e03a7c80df0dd13f6059972acecfbd4]: Textual amendment: [S. 5(3)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/3) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/3), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-4e03a7c80df0dd13f6059972acecfbd4]: Textual amendment: [S. 5(3)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/3) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(3)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/3), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-5c4d791ee595d74b934370dad91ed6d8]: Textual amendment: Words in [s. 5(4)(a)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/4/a) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/4), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-5c4d791ee595d74b934370dad91ed6d8]: Textual amendment: Words in [s. 5(4)(a)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/4/a) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(4)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/4), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-5aae171122df10e651a5b88c6b24ed6d]: Textual amendment: Word in [s. 5(4)(b)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/4/b) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(5)(a)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/5/a), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-5aae171122df10e651a5b88c6b24ed6d]: Textual amendment: Word in [s. 5(4)(b)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/4/b) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(5)(a)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/5/a), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-d6795228781758e76899398206bb6489]: Textual amendment: Words in [s. 5(4)(b)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/4/b) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/5/b), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-d6795228781758e76899398206bb6489]: Textual amendment: Words in [s. 5(4)(b)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/4/b) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(5)(b)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/5/b), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-e60ffbd0f55385c2216dc965a6d75213]: Textual amendment: [S. 5(4)(c)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/c) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(6)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/6), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-e60ffbd0f55385c2216dc965a6d75213]: Textual amendment: [S. 5(4)(c)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/c) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(6)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/6), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-64f61edd7caad4e478a863a7841c756c]: Textual amendment: [S. 5(4A)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/4A)[(4B)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/4B) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(7)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/7), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-64f61edd7caad4e478a863a7841c756c]: Textual amendment: [S. 5(4A)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/4A)[(4B)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/4B) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(7)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/7), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-87286c3f42b2450656f64391d69a28cb]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/5) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(8)(a)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/8/a), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-87286c3f42b2450656f64391d69a28cb]: Textual amendment: Words in [s. 5(5)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/5) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(8)(a)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/8/a), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-3d8cd4e6c2e7d83f842c79a96ce434be]: Textual amendment: Words in [s. 5(5)(c)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/5/c) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(8)(b)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/8/b), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-3d8cd4e6c2e7d83f842c79a96ce434be]: Textual amendment: Words in [s. 5(5)(c)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/5/c) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(8)(b)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/8/b), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-8d3d4d3fd35d0036813f479f41ef4d6e]: Textual amendment: Word in [s. 5(7)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/7) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(9)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/9), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-8d3d4d3fd35d0036813f479f41ef4d6e]: Textual amendment: Word in [s. 5(7)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/7) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(9)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/9), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-d619f495f9e3a4b6bb0824ed01622e80]: Textual amendment: Word in [s. 5(8)(a)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/8/a) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(10)(a)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/10/a), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-d619f495f9e3a4b6bb0824ed01622e80]: Textual amendment: Word in [s. 5(8)(a)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/8/a) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(10)(a)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/10/a), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-023165a12fa3253a90dc1fba7e21519e]: Textual amendment: Word in [s. 5(8)(b)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/8/b) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(10)(b)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/10/b), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-023165a12fa3253a90dc1fba7e21519e]: Textual amendment: Word in [s. 5(8)(b)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/8/b) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(10)(b)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/10/b), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-6d2b5195ecebb5e1fbcbee782c27b25c]: Textual amendment: Word in [s. 5(10)(b)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/10/b) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(11)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/11), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-6d2b5195ecebb5e1fbcbee782c27b25c]: Textual amendment: Word in [s. 5(10)(b)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/10/b) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(11)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/11), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-6d87647bf92b6024c1a718c8981a85c7]: Textual amendment: [S. 5(11)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/11)[(12)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/12) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(12)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/12), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-6d87647bf92b6024c1a718c8981a85c7]: Textual amendment: [S. 5(11)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/11)[(12)](https://www.legislation.gov.uk/ukpga/1986/56/section/5/12) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 4(12)](https://www.legislation.gov.uk/ukpga/2020/25/section/4/12), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-1d338b148c388b5455cf969d4252c9b1]: Textual amendment: S. 6 repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2011/1/section/12/3), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12)
+[^c-1d338b148c388b5455cf969d4252c9b1]: Textual amendment: S. 6 repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 12(3)](https://www.legislation.gov.uk/ukpga/2011/1/section/12/3), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12)
 
 [^c3396681]: Textual amendment: S. 6A inserted (25.11.2002) by [The Transfer of Functions (Transport, Local Government and the Regions) Order 2002 (S.I. 2002/2626)](https://www.legislation.gov.uk/uksi/2002/2626), [art. 20](https://www.legislation.gov.uk/uksi/2002/2626/article/20), [Sch. 2](https://www.legislation.gov.uk/uksi/2002/2626/schedule/2) {para. 14}
 
@@ -918,89 +918,89 @@ Section 8.
 
 [^M_F_7a0aeb5c-e8f7-45e6-a038-5aa11c56994b]: Textual amendment: S.6B omitted (9.11.2016) by [S.I. 2016/997](https://www.legislation.gov.uk/uksi/2016/997), [Sch. 2 para. 5(4)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/5/4) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12), [1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2))
 
-[^key-30fc2ab5d16749f653c2cedebd1bef5f]: Textual amendment: [S. 6C](https://www.legislation.gov.uk/ukpga/1986/56/section/6C) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-30fc2ab5d16749f653c2cedebd1bef5f]: Textual amendment: [S. 6C](https://www.legislation.gov.uk/ukpga/1986/56/section/6C) omitted (14.12.2020) by virtue of [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
 [^c814741]: Marginal citation: [S.I. 1973/2095](https://www.legislation.gov.uk/uksi/1973/2095).
 
-[^key-d42339d8aa6ee37faae9d8c4c563bf3c]: Textual amendment: S. 8(3) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/2) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-d42339d8aa6ee37faae9d8c4c563bf3c]: Textual amendment: S. 8(3) repealed (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 12 Pt. 2](https://www.legislation.gov.uk/ukpga/2011/1/schedule/12/part/2) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-33b9dab1f1ec71bf6f162cc9af8d3f48]: Modification: Sch. 1 functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/997/article/3/1), [Sch. 1(c)](https://www.legislation.gov.uk/uksi/2016/997/schedule/1/c) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2016/997/article/3/2), [6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-33b9dab1f1ec71bf6f162cc9af8d3f48]: Modification: Sch. 1 functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/997/article/3/1), [Sch. 1(c)](https://www.legislation.gov.uk/uksi/2016/997/schedule/1/c) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2016/997/article/3/2), [6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
 
-[^key-894e197519582990b590bfa594d4c783]: Modification: Sch. 1 functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/c) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-894e197519582990b590bfa594d4c783]: Modification: Sch. 1 functions cease to be exercisable concurrently (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [9](https://www.legislation.gov.uk/uksi/2021/1265/article/9), [Sch. 1(c)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/1/c) (with [arts. 11](https://www.legislation.gov.uk/uksi/2021/1265/article/11), [12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-219a5bae975a48ed17f011e78d08d0aa]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1986/56/schedule/1/paragraph/2) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-219a5bae975a48ed17f011e78d08d0aa]: Textual amendment: Words in [Sch. 1 para. 2](https://www.legislation.gov.uk/ukpga/1986/56/schedule/1/paragraph/2) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^c17679861]: Textual amendment: Sch. 1 para. 4A explained (12.11.1992) by [Boundary Commissions Act 1992 (c. 55)](https://www.legislation.gov.uk/ukpga/1992/55), [s. 1(3)](https://www.legislation.gov.uk/ukpga/1992/55/section/1/3)
 
 [^c17679851]: Textual amendment: Sch. 1 para. 4A inserted (12.11.1992) by [Boundary Commissions Act 1992 (c. 55)](https://www.legislation.gov.uk/ukpga/1992/55), [s. 1(1)(2)](https://www.legislation.gov.uk/ukpga/1992/55/section/1/1/2)
 
-[^key-bc4c3ca6c4731885a8ba9754367c9a03]: Textual amendment: Words in [Sch. 1 para. 4A](https://www.legislation.gov.uk/ukpga/1986/56/schedule/1/paragraph/4A) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-bc4c3ca6c4731885a8ba9754367c9a03]: Textual amendment: Words in [Sch. 1 para. 4A](https://www.legislation.gov.uk/ukpga/1986/56/schedule/1/paragraph/4A) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^c20067991]: Modification: Sch. 1 para. 5(a)(c): functions transferred (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 25(2)(c)](https://www.legislation.gov.uk/ukpga/2007/18/section/25/2/c), [74](https://www.legislation.gov.uk/ukpga/2007/18/section/74); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
 [^c20067941]: Textual amendment: Words in Sch. 1 para. 5(a)(c) substituted (1.4.2008) by [Statistics and Registration Service Act 2007 (c. 18)](https://www.legislation.gov.uk/ukpga/2007/18), [ss. 25(3)](https://www.legislation.gov.uk/ukpga/2007/18/section/25/3), [74](https://www.legislation.gov.uk/ukpga/2007/18/section/74), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2007/18/schedule/1/paragraph/10); [S.I. 2008/839](https://www.legislation.gov.uk/uksi/2008/839), [art. 2](https://www.legislation.gov.uk/uksi/2008/839/article/2)
 
-[^key-71370f9d7b1bc49655f923df88b5ff64]: Textual amendment: Word in Sch. 1 para. 5(d) substituted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(9)(a)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/9/a), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-71370f9d7b1bc49655f923df88b5ff64]: Textual amendment: Word in Sch. 1 para. 5(d) substituted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(9)(a)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/9/a), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-0c8659bf99952ada23f17046d864ba79]: Textual amendment: Words in Sch. 1 para. 5(d) inserted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(9)(b)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/9/b), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-0c8659bf99952ada23f17046d864ba79]: Textual amendment: Words in Sch. 1 para. 5(d) inserted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(9)(b)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/9/b), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-1df27ab178eaa0669a809da266fc3720]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/1/paragraph/6/1) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-1df27ab178eaa0669a809da266fc3720]: Textual amendment: Words in [Sch. 1 para. 6(1)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/1/paragraph/6/1) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-3a13bf862de19a07235d9b01d44e9aa6]: Textual amendment: Words in Sch. 1 para. 6(1) substituted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(10)(a)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/10/a), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-3a13bf862de19a07235d9b01d44e9aa6]: Textual amendment: Words in Sch. 1 para. 6(1) substituted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(10)(a)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/10/a), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-b2d76fefec367496865f4dd90391c72a]: Textual amendment: Word in Sch. 1 para. 6(2) substituted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(10)(b)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/10/b), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-b2d76fefec367496865f4dd90391c72a]: Textual amendment: Word in Sch. 1 para. 6(2) substituted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 10(10)(b)](https://www.legislation.gov.uk/ukpga/2011/1/section/10/10/b), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-eaf203d6206a8539442e450b6f701531]: Textual amendment: Words in [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/1/paragraph/6/2) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-eaf203d6206a8539442e450b6f701531]: Textual amendment: Words in [Sch. 1 para. 6(2)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/1/paragraph/6/2) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-b4f12382e2d9f6b7f071339ceddbef9d]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1986/56/schedule/1/paragraph/7) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-b4f12382e2d9f6b7f071339ceddbef9d]: Textual amendment: Words in [Sch. 1 para. 7](https://www.legislation.gov.uk/ukpga/1986/56/schedule/1/paragraph/7) omitted (8.12.2021) by virtue of [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 5(5)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/5/5) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^c814801]: Textual amendment: Words in Sch. 1 para. 8 substituted (12.11.1992) by [Boundary Commissions Act 1992 (c. 55)](https://www.legislation.gov.uk/ukpga/1992/55), [s. 1(4)](https://www.legislation.gov.uk/ukpga/1992/55/section/1/4)
 
-[^key-3e5791d4ef8ea610bd2eaf782bc9c15a]: Textual amendment: Sch. 1 para. 13 and cross-heading omitted (25.7.2018) by virtue of [The Transfer of Functions (Parliamentary Constituencies Act 1986) Order 2018 (S.I. 2018/780)](https://www.legislation.gov.uk/uksi/2018/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/780/article/1/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2018/780/article/6/3/c)
+[^c-3e5791d4ef8ea610bd2eaf782bc9c15a]: Textual amendment: Sch. 1 para. 13 and cross-heading omitted (25.7.2018) by virtue of [The Transfer of Functions (Parliamentary Constituencies Act 1986) Order 2018 (S.I. 2018/780)](https://www.legislation.gov.uk/uksi/2018/780), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/780/article/1/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2018/780/article/6/3/c)
 
-[^key-317818b1c8bbe2edb9cbe007cfcabed3]: Textual amendment: Sch. 2 substituted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/11/1), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-317818b1c8bbe2edb9cbe007cfcabed3]: Textual amendment: Sch. 2 substituted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [ss. 11(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/11/1), [19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-d8092e7e7a5c174ba670d2a86f22c21f]: Textual amendment: Word in [Sch. 2 rule 1](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/1) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 5](https://www.legislation.gov.uk/ukpga/2020/25/section/5), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-d8092e7e7a5c174ba670d2a86f22c21f]: Textual amendment: Word in [Sch. 2 rule 1](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/1) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 5](https://www.legislation.gov.uk/ukpga/2020/25/section/5), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-3586782cd1318f20e8ad8d01e0802a9d]: Textual amendment: Sch. 2 rule 2(3) formula: "645" substituted for "596" (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/4/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-3586782cd1318f20e8ad8d01e0802a9d]: Textual amendment: Sch. 2 rule 2(3) formula: "645" substituted for "596" (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 4(2)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/4/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-9bef2e325a1a789f9144178485c431b3]: Textual amendment: [Sch. 2 rule 5(1)(b)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/5/1/b) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/6/2), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-9bef2e325a1a789f9144178485c431b3]: Textual amendment: [Sch. 2 rule 5(1)(b)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/5/1/b) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 6(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/6/2), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-8a8f16ee5d11430ea3a1714ea00d466a]: Textual amendment: [Sch. 2 rule 5(1A)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/5/1A) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2020/25/section/6/3), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-8a8f16ee5d11430ea3a1714ea00d466a]: Textual amendment: [Sch. 2 rule 5(1A)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/5/1A) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 6(3)](https://www.legislation.gov.uk/ukpga/2020/25/section/6/3), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-381e034afcd77f68041dae6a30a9ae2a]: Textual amendment: Words in [Sch. 2 rule 5(2)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/5/2) substituted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/1/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-381e034afcd77f68041dae6a30a9ae2a]: Textual amendment: Words in [Sch. 2 rule 5(2)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/5/2) substituted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/1/2) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-ed48f0067376fabe13a31dbb6b4ce169]: Textual amendment: [Sch. 2 rule 5(2A)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/5/2A) inserted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/1/3) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-ed48f0067376fabe13a31dbb6b4ce169]: Textual amendment: [Sch. 2 rule 5(2A)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/5/2A) inserted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/1/3) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-912df1efe284b37d5dee303f7aa7c8f3]: Textual amendment: Words in [Sch. 2 rule 5(2A)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/5/2A) Table inserted (31.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [Sch. paras. 4(3)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/4/3)[(4)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/4/4) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-912df1efe284b37d5dee303f7aa7c8f3]: Textual amendment: Words in [Sch. 2 rule 5(2A)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/5/2A) Table inserted (31.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [Sch. paras. 4(3)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/4/3)[(4)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/4/4) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-9dac403962796363e3219e76468b1aa6]: Textual amendment: [Sch. 2 rule 6(2)(c)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/6/2/c) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/7/2), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-9dac403962796363e3219e76468b1aa6]: Textual amendment: [Sch. 2 rule 6(2)(c)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/6/2/c) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 7(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/7/2), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-0c0d1ba27729d468512505d46144c9d0]: Textual amendment: Words in [Sch. 2 rule 8(5)(b)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/8/5/b) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2020/25/section/7/3/a), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-0c0d1ba27729d468512505d46144c9d0]: Textual amendment: Words in [Sch. 2 rule 8(5)(b)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/8/5/b) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 7(3)(a)](https://www.legislation.gov.uk/ukpga/2020/25/section/7/3/a), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-40043d5c7dc5d4326dc175d95b5a41d2]: Textual amendment: [Sch. 2 rule 8(5)(c)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/8/5/c) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2020/25/section/7/3/b), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-40043d5c7dc5d4326dc175d95b5a41d2]: Textual amendment: [Sch. 2 rule 8(5)(c)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/8/5/c) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 7(3)(b)](https://www.legislation.gov.uk/ukpga/2020/25/section/7/3/b), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-1ba573d036f24426a3557155eced4622]: Textual amendment: Words in [Sch. 2 rule 9(2)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/2) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2020/25/section/8/1), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-1ba573d036f24426a3557155eced4622]: Textual amendment: Words in [Sch. 2 rule 9(2)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/2) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2020/25/section/8/1), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-348f44d9963bb61fde8e6d7bc85f7bfa]: Textual amendment: [Sch. 2 rule 9(2A)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/2A) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/8/2), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-348f44d9963bb61fde8e6d7bc85f7bfa]: Textual amendment: [Sch. 2 rule 9(2A)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/2A) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/8/2), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-e278f99a19c515f97ef80ea270cd5edb]: Textual amendment: Word in [Sch. 2 rule 9(3)(b)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/3/b) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 4](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/4)
+[^c-e278f99a19c515f97ef80ea270cd5edb]: Textual amendment: Word in [Sch. 2 rule 9(3)(b)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/3/b) substituted (20.3.2021) by [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f), [Sch. 2 para. 4](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/4)
 
-[^key-703d7413931d3526381118170543d023]: Textual amendment: [Sch. 2 rule 9(3A)(3B)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/3A) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2020/25/section/6/4), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-703d7413931d3526381118170543d023]: Textual amendment: [Sch. 2 rule 9(3A)(3B)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/3A) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2020/25/section/6/4), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-f527d02a56398ca5fb43e3a7b32fa010]: Textual amendment: Words in [Sch. 2 rule 9(5)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/5) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 9](https://www.legislation.gov.uk/ukpga/2020/25/section/9), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-f527d02a56398ca5fb43e3a7b32fa010]: Textual amendment: Words in [Sch. 2 rule 9(5)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/5) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 9](https://www.legislation.gov.uk/ukpga/2020/25/section/9), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-d7d9def10642079274a6bf637a791f0d]: Textual amendment: Words in [Sch. 2 rule 9(7)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/7) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 7(4)(a)](https://www.legislation.gov.uk/ukpga/2020/25/section/7/4/a), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-d7d9def10642079274a6bf637a791f0d]: Textual amendment: Words in [Sch. 2 rule 9(7)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/7) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 7(4)(a)](https://www.legislation.gov.uk/ukpga/2020/25/section/7/4/a), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-be0a00469251de61a1706b0621aae570]: Textual amendment: Words in [Sch. 2 rule 9(7)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/7) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 7(4)(b)](https://www.legislation.gov.uk/ukpga/2020/25/section/7/4/b), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-be0a00469251de61a1706b0621aae570]: Textual amendment: Words in [Sch. 2 rule 9(7)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2/rule/9/7) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [ss. 7(4)(b)](https://www.legislation.gov.uk/ukpga/2020/25/section/7/4/b), [14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-3b4b3897ae20a9bfffed18d20a1b1b56]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2A) inserted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 11](https://www.legislation.gov.uk/ukpga/2011/1/schedule/11) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
+[^c-3b4b3897ae20a9bfffed18d20a1b1b56]: Textual amendment: [Sch. 2A](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2A) inserted (16.2.2011) by [Parliamentary Voting System and Constituencies Act 2011 (c. 1)](https://www.legislation.gov.uk/ukpga/2011/1), [s. 19(1)](https://www.legislation.gov.uk/ukpga/2011/1/section/19/1), [Sch. 11](https://www.legislation.gov.uk/ukpga/2011/1/schedule/11) (with [s. 13(5)](https://www.legislation.gov.uk/ukpga/2011/1/section/13/5))
 
-[^key-6a81f1fc6068a4394f253648451a5231]: Textual amendment: Word in [Sch. 2A para. 6(b)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2A/paragraph/6/b) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/5/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-6a81f1fc6068a4394f253648451a5231]: Textual amendment: Word in [Sch. 2A para. 6(b)](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2A/paragraph/6/b) inserted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 5(2)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/5/2) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
-[^key-ea9f29ce8dfa12a5da2e34f5bdb50661]: Textual amendment: Words in [Sch. 2A para. 9](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2A/paragraph/9) substituted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/1/4) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
+[^c-ea9f29ce8dfa12a5da2e34f5bdb50661]: Textual amendment: Words in [Sch. 2A para. 9](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2A/paragraph/9) substituted (31.12.2020) by [The European Parliamentary Elections Etc. (Repeal, Revocation, Amendment and Saving Provisions) (United Kingdom and Gibraltar) (EU Exit) Regulations 2018 (S.I. 2018/1310)](https://www.legislation.gov.uk/uksi/2018/1310), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1310/regulation/1), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2018/1310/schedule/2/paragraph/1/4) (as amended by [S.I. 2019/1389](https://www.legislation.gov.uk/uksi/2019/1389), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1389/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2019/1389/regulation/2/2))
 
-[^key-d94cb8036fd6afdf9a088b5da14e8848]: Textual amendment: Words in [Sch. 2A para. 9](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2A/paragraph/9) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 5(3)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/5/3) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
+[^c-d94cb8036fd6afdf9a088b5da14e8848]: Textual amendment: Words in [Sch. 2A para. 9](https://www.legislation.gov.uk/ukpga/1986/56/schedule/2A/paragraph/9) substituted (14.12.2020) by [Parliamentary Constituencies Act 2020 (c. 25)](https://www.legislation.gov.uk/ukpga/2020/25), [s. 14(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/14/2), [Sch. para. 5(3)](https://www.legislation.gov.uk/ukpga/2020/25/schedule/paragraph/5/3) (with [s. 13(2)](https://www.legislation.gov.uk/ukpga/2020/25/section/13/2))
 
 [^c815051]: Textual amendment: Sch. 3 para. 1 repealed (2.12.1999) by [1998 c. 47](https://www.legislation.gov.uk/ukpga/1998/47), [s. 100(2)](https://www.legislation.gov.uk/ukpga/1998/47/section/100/2), [Sch. 15](https://www.legislation.gov.uk/ukpga/1998/47/schedule/15) (with [s. 95](https://www.legislation.gov.uk/ukpga/1998/47/section/95)): [S.I. 1999/3209](https://www.legislation.gov.uk/uksi/1999/3209), [art. 2](https://www.legislation.gov.uk/uksi/1999/3209/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1999/3209/schedule)
 

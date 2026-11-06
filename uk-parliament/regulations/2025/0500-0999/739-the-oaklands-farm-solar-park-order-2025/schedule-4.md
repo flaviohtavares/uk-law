@@ -22,14 +22,14 @@ summary: ''
 
 Article 10
 
-### PART 1 — PERMANENT PRIVATE MEANS OF ACCESS TO WORKS[^key-9bee856a906b3038aa89d712935e77a1]
+### PART 1 — PERMANENT PRIVATE MEANS OF ACCESS TO WORKS[^c-9bee856a906b3038aa89d712935e77a1]
 
 | (1) Area | (2) Reference as shown on the streets, access and rights of way plan | (3) Description of access |
 | --- | --- | --- |
 | Derbyshire | AC-D1 to AC-D2 | Improved permanent construction and decommissioning access, as shown on sheet 4 of the streets, access and rights of way plan |
 | Derbyshire | AC-D3 to AC-D4 | Improved permanent construction and decommissioning access, as shown on sheet 4 of the streets, access and rights of way plan |
 
-### PART 2 — TEMPORARY PRIVATE MEANS OF ACCESS[^key-ad68840814a0d57aa46c5ba90b1122fd]
+### PART 2 — TEMPORARY PRIVATE MEANS OF ACCESS[^c-ad68840814a0d57aa46c5ba90b1122fd]
 
 | (1) Area | (2) Reference as shown on the streets, access and rights of way plan | (3) Description of access |
 | --- | --- | --- |
@@ -42,6 +42,6 @@ Article 10
 
 ## Annotations
 
-[^key-9bee856a906b3038aa89d712935e77a1]: Commencement: Sch. 4 Pt. 1 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-9bee856a906b3038aa89d712935e77a1]: Commencement: Sch. 4 Pt. 1 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
 
-[^key-ad68840814a0d57aa46c5ba90b1122fd]: Commencement: Sch. 4 Pt. 2 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)
+[^c-ad68840814a0d57aa46c5ba90b1122fd]: Commencement: Sch. 4 Pt. 2 in force at 11.7.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/739/article/1)

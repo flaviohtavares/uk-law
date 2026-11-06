@@ -33,7 +33,7 @@ summary: ''
 
 DISABLED PERSONS
 
-The Disability Discrimination Act 1995 (Pensions) Regulations 2003 (revoked)[^key-abd813a653dade6bb784c78ac0e00d92]
+The Disability Discrimination Act 1995 (Pensions) Regulations 2003 (revoked)[^c-abd813a653dade6bb784c78ac0e00d92]
 
 Made
 
@@ -47,32 +47,32 @@ Coming into force
 
 1st October 2004
 
-[^key-abd813a653dade6bb784c78ac0e00d92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abd813a653dade6bb784c78ac0e00d92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, extent and interpretation[^key-abd813a653dade6bb784c78ac0e00d92]
+## 1. Citation, commencement, extent and interpretation[^c-abd813a653dade6bb784c78ac0e00d92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 1995 Act[^key-abd813a653dade6bb784c78ac0e00d92]
+## 2. Amendment of the 1995 Act[^c-abd813a653dade6bb784c78ac0e00d92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Occupational pension schemes[^key-abd813a653dade6bb784c78ac0e00d92]
+## 3. Occupational pension schemes[^c-abd813a653dade6bb784c78ac0e00d92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Consequential amendments[^key-abd813a653dade6bb784c78ac0e00d92]
+## 4. Consequential amendments[^c-abd813a653dade6bb784c78ac0e00d92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-abd813a653dade6bb784c78ac0e00d92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abd813a653dade6bb784c78ac0e00d92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-abd813a653dade6bb784c78ac0e00d92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-abd813a653dade6bb784c78ac0e00d92]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-abd813a653dade6bb784c78ac0e00d92]: Textual amendment: Regulations revoked (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 27 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/2) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(f)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/f) (with [arts. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15), [16](https://www.legislation.gov.uk/uksi/2010/2317/article/16))
+[^c-abd813a653dade6bb784c78ac0e00d92]: Textual amendment: Regulations revoked (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 27 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/2) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(f)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/f) (with [arts. 15](https://www.legislation.gov.uk/uksi/2010/2317/article/15), [16](https://www.legislation.gov.uk/uksi/2010/2317/article/16))

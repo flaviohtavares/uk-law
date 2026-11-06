@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Amendment to regulation 188[^key-fdda6e2609e62a6c0635b19c680911ee]
+## 79. Amendment to regulation 188[^c-fdda6e2609e62a6c0635b19c680911ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ In regulation 188 (reporting obligations on holders)[^f00089]—
 
 ## Annotations
 
-[^key-fdda6e2609e62a6c0635b19c680911ee]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2024/832/regulation/79) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
+[^c-fdda6e2609e62a6c0635b19c680911ee]: Commencement: [Reg. 79](https://www.legislation.gov.uk/uksi/2024/832/regulation/79) in force at 1.1.2025, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1)
 
 [^f00089]: Footnote: Relevant amendments to regulation 188 were made by by [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775) as amended by [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488).

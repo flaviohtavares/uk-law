@@ -45,7 +45,7 @@ In accordance with section 37(3) of the 2013 Act, more than 6 weeks have elapsed
 
 The Welsh Ministers make the following Order in exercise of their powers conferred by section 37(1) of the 2013 Act.
 
-## 1. Title, commencement and interpretation[^key-86e6638d34032c574a8b1e6a0a7417b2][^key-6b8f3f85e43fd72aa83f585e8257301d]
+## 1. Title, commencement and interpretation[^c-86e6638d34032c574a8b1e6a0a7417b2][^c-6b8f3f85e43fd72aa83f585e8257301d]
 
 (1) The title of this Order is the County Borough of the Vale of Glamorgan (Electoral Arrangements) Order 2021.
 
@@ -56,9 +56,9 @@ The Welsh Ministers make the following Order in exercise of their powers conferr
 (4) In this Order—
 
 - “electoral ward” (“*ward etholiadol*”) means any area for which members are elected to the County Borough of the Vale of Glamorgan Council;
-- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^key-b9949525c8c088ae563c7c96213cbc43], except so far as a contrary intention appears.
+- words and expressions used in this Order have the same meaning as they have in Part 3 of the Democracy and Boundary Commission Cymru etc. Act 2013[^c-b9949525c8c088ae563c7c96213cbc43], except so far as a contrary intention appears.
 
-## 2. Electoral arrangements for the County Borough of the Vale of Glamorgan[^key-b3ae2acce66d97af1708d7195ca67112][^key-9002b9b26fb268aca39e334506e677f1]
+## 2. Electoral arrangements for the County Borough of the Vale of Glamorgan[^c-b3ae2acce66d97af1708d7195ca67112][^c-9002b9b26fb268aca39e334506e677f1]
 
 (1) The electoral wards of the County Borough of the Vale of Glamorgan, as they exist immediately before the ordinary day of election of councillors in 2022, are abolished.
 
@@ -74,7 +74,7 @@ Rebecca Evans
 
 Minister for Finance and Local Government, one of the Welsh Ministers
 
-## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^key-f47011b90c0ecb5fc7b022807abe2fb6][^key-92c68c5b329578bdb04df37aebbda8e1]
+## SCHEDULE — NAMES AND AREAS OF ELECTORAL WARDS AND NUMBER OF MEMBERS OF THE COUNCIL[^c-f47011b90c0ecb5fc7b022807abe2fb6][^c-92c68c5b329578bdb04df37aebbda8e1]
 
 Article 2
 
@@ -113,7 +113,7 @@ Table
 </tbody>
 </table>
 
-[^key-bd0c769bcb4c777a13830135a08c79b5][^key-5f2074792e1334edeb712337795f8e30][^key-9064f123f33be8c8717eec207c7b4a3d]
+[^c-bd0c769bcb4c777a13830135a08c79b5][^c-5f2074792e1334edeb712337795f8e30][^c-9064f123f33be8c8717eec207c7b4a3d]
 
 EXPLANATORY NOTE
 
@@ -133,28 +133,28 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: [2013 anaw 4](https://www.legislation.gov.uk/anaw/2013/4).
 
-[^key-86e6638d34032c574a8b1e6a0a7417b2]: Commencement: Art. 1 in force at 13.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/2)
+[^c-86e6638d34032c574a8b1e6a0a7417b2]: Commencement: Art. 1 in force at 13.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/2)
 
-[^key-6b8f3f85e43fd72aa83f585e8257301d]: Commencement: Art. 1 in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/3)
+[^c-6b8f3f85e43fd72aa83f585e8257301d]: Commencement: Art. 1 in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/3)
 
 [^f00003]: Footnote: [S.I. 1976/246](https://www.legislation.gov.uk/uksi/1976/246). Section 74(3) of the 2013 Act provides that these Regulations continue to have effect in relation to orders made under Part 3 of the 2013 Act, as if those orders were made under Part 4 of the 1972 Act.
 
 [^f00004]: Footnote: The Local Authorities (Change to the Years of Ordinary Elections) (Wales) Order 2019 ([S.I. 2019/1269 (W. 220)](https://www.legislation.gov.uk/wsi/2019/1269)) amends section 26(1) of the 1972 Act to provide that the year in which the ordinary elections of councillors of local authorities shall take place is 2022 instead of 2021.
 
-[^key-b9949525c8c088ae563c7c96213cbc43]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/4) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/18)
+[^c-b9949525c8c088ae563c7c96213cbc43]: Textual amendment: Words in [art. 1(4)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/4) substituted (25.6.2024) by [Senedd Cymru (Members and Elections) Act 2024 (asc 4)](https://www.legislation.gov.uk/asc/2024/4), [s. 25(1)(a)](https://www.legislation.gov.uk/asc/2024/4/section/25/1/a), [Sch. 1 para. 18](https://www.legislation.gov.uk/asc/2024/4/schedule/1/paragraph/18)
 
-[^key-b3ae2acce66d97af1708d7195ca67112]: Commencement: Art. 2 in force at 13.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/2)
+[^c-b3ae2acce66d97af1708d7195ca67112]: Commencement: Art. 2 in force at 13.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/2)
 
-[^key-9002b9b26fb268aca39e334506e677f1]: Commencement: Art. 2 in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/3)
+[^c-9002b9b26fb268aca39e334506e677f1]: Commencement: Art. 2 in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/3)
 
 [^f00005]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70); section 58 of the 1972 Act was repealed by section 73(2) of, and Schedule 2 to, the 2013 Act, subject to savings provisions specified in section 74 of the 2013 Act.
 
-[^key-f47011b90c0ecb5fc7b022807abe2fb6]: Commencement: Sch. in force at 13.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/2)
+[^c-f47011b90c0ecb5fc7b022807abe2fb6]: Commencement: Sch. in force at 13.10.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/2)
 
-[^key-92c68c5b329578bdb04df37aebbda8e1]: Commencement: Sch. in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/3)
+[^c-92c68c5b329578bdb04df37aebbda8e1]: Commencement: Sch. in force at 5.5.2022 in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1138/article/1/3)
 
-[^key-bd0c769bcb4c777a13830135a08c79b5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2021/1138/schedule) Table substituted (11.3.2022) by [The County Borough of the Vale of Glamorgan (Electoral Arrangements) (Amendment) Order 2022 (S.I. 2022/248)](https://www.legislation.gov.uk/wsi/2022/248), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/248/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2022/248/article/2/2/a)
+[^c-bd0c769bcb4c777a13830135a08c79b5]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2021/1138/schedule) Table substituted (11.3.2022) by [The County Borough of the Vale of Glamorgan (Electoral Arrangements) (Amendment) Order 2022 (S.I. 2022/248)](https://www.legislation.gov.uk/wsi/2022/248), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/248/article/1/2), [2(2)(a)](https://www.legislation.gov.uk/wsi/2022/248/article/2/2/a)
 
-[^key-5f2074792e1334edeb712337795f8e30]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2021/1138/schedule) Table substituted (11.3.2022) by [The County Borough of the Vale of Glamorgan (Electoral Arrangements) (Amendment) Order 2022 (S.I. 2022/248)](https://www.legislation.gov.uk/wsi/2022/248), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/248/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2022/248/article/2/2/b)
+[^c-5f2074792e1334edeb712337795f8e30]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2021/1138/schedule) Table substituted (11.3.2022) by [The County Borough of the Vale of Glamorgan (Electoral Arrangements) (Amendment) Order 2022 (S.I. 2022/248)](https://www.legislation.gov.uk/wsi/2022/248), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/248/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/wsi/2022/248/article/2/2/b)
 
-[^key-9064f123f33be8c8717eec207c7b4a3d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2021/1138/schedule) Table substituted (11.3.2022) by [The County Borough of the Vale of Glamorgan (Electoral Arrangements) (Amendment) Order 2022 (S.I. 2022/248)](https://www.legislation.gov.uk/wsi/2022/248), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/248/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2022/248/article/2/2/c)
+[^c-9064f123f33be8c8717eec207c7b4a3d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2021/1138/schedule) Table substituted (11.3.2022) by [The County Borough of the Vale of Glamorgan (Electoral Arrangements) (Amendment) Order 2022 (S.I. 2022/248)](https://www.legislation.gov.uk/wsi/2022/248), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2022/248/article/1/2), [2(2)(c)](https://www.legislation.gov.uk/wsi/2022/248/article/2/2/c)

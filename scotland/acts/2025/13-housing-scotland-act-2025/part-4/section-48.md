@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Private residential tenancies: succession[^key-683b8a6f0e27e1a547bbf93c7762d70f][^key-a908d41ea6426acb43bb928c826941f5]
+## 48. Private residential tenancies: succession[^c-683b8a6f0e27e1a547bbf93c7762d70f][^c-a908d41ea6426acb43bb928c826941f5]
 
 *Extent: S*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-683b8a6f0e27e1a547bbf93c7762d70f]: Commencement: S. 48 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-683b8a6f0e27e1a547bbf93c7762d70f]: Commencement: S. 48 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-a908d41ea6426acb43bb928c826941f5]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2025/13/section/48) in force at 6.10.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/3)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/3)
+[^c-a908d41ea6426acb43bb928c826941f5]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2025/13/section/48) in force at 6.10.2026 by [S.S.I. 2026/115](https://www.legislation.gov.uk/ssi/2026/115), [reg. 2(3)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/3)[(5)](https://www.legislation.gov.uk/ssi/2026/115/regulation/2/5), [sch. Pt. 3](https://www.legislation.gov.uk/ssi/2026/115/schedule/part/3)

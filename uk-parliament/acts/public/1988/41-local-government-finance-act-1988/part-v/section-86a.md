@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 86A. Additional grant: Wales[^key-93d712fc7e22da88493dd527302c4a4a]
+## 86A. Additional grant: Wales[^c-93d712fc7e22da88493dd527302c4a4a]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93d712fc7e22da88493dd527302c4a4a]: Textual amendment: Ss. 86A, 86B and cross-heading inserted (25.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/34)
+[^c-93d712fc7e22da88493dd527302c4a4a]: Textual amendment: Ss. 86A, 86B and cross-heading inserted (25.5.2007) by [The Government of Wales Act 2006 (Consequential Modifications and Transitional Provisions) Order 2007 (S.I. 2007/1388)](https://www.legislation.gov.uk/uksi/2007/1388), [art. 1(2)](https://www.legislation.gov.uk/uksi/2007/1388/article/1/2), [Sch. 1 para. 34](https://www.legislation.gov.uk/uksi/2007/1388/schedule/1/paragraph/34)

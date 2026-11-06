@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Sentence with fixed licence period: Scotland[^key-1c064055e759dd53d403624442d33f93]
+## 8. Sentence with fixed licence period: Scotland[^c-1c064055e759dd53d403624442d33f93]
 
 *Extent: E+W*
 
@@ -135,4 +135,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c064055e759dd53d403624442d33f93]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/2/section/8) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)
+[^c-1c064055e759dd53d403624442d33f93]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/2/section/8) in force at 22.3.2026, see [s. 49(4)](https://www.legislation.gov.uk/ukpga/2026/2/section/49/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 15. Duty to keep complainant and other interested persons informed[^c22718481][^key-543b029ce4e9f428d94fde2b0219aa2b]
+## 15. Duty to keep complainant and other interested persons informed[^c22718481][^c-543b029ce4e9f428d94fde2b0219aa2b]
 
 *Extent: E+W*
 
@@ -109,4 +109,4 @@ summary: ''
 
 [^c22718481]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/3/section/15) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-543b029ce4e9f428d94fde2b0219aa2b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/3/section/15) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/c) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-543b029ce4e9f428d94fde2b0219aa2b]: Commencement: [S. 15](https://www.legislation.gov.uk/ukpga/2017/3/section/15) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/c) (with [reg. 3(1)](https://www.legislation.gov.uk/uksi/2020/5/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2020/5/article/3/2)[(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))

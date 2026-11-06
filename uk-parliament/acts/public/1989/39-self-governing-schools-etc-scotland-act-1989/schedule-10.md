@@ -28,11 +28,11 @@ Section 82(1).
 
 ### The Teaching Council (Scotland) Act 1965 (c. 19)
 
-**2.**[^key-1be26d0ccda74ca47436c0e54de98fc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-1be26d0ccda74ca47436c0e54de98fc3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Local Authorities (Goods and Services) Act 1970 (c. 39)
 
-**3.**[^key-49e1827257b158b265b3eba2ff4d1121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-49e1827257b158b265b3eba2ff4d1121] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Tribunals and Inquiries Act 1971 (c. 62)
 
@@ -102,7 +102,7 @@ Section 82(1).
 
 **8.** (1) The 1980 Act shall be amended as follows.
 
-(2)[^key-10acee84ae6fabc3228b1b319abc148b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-10acee84ae6fabc3228b1b319abc148b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 8 (religious instruction)—
 
@@ -216,9 +216,9 @@ Section 82(1).
 
 (18) In section 86 (admissibility of documents), for the words “(e) or (f)” there shall be substituted the words “or (e)”.
 
-(19)[^key-029d11ff912679224a5a72e28112eca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(19)[^c-029d11ff912679224a5a72e28112eca3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(20)[^key-519da93155ff744fbbefd85b9a4dd72c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(20)[^c-519da93155ff744fbbefd85b9a4dd72c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (21) In section 123 (work experience in last year of compulsory schooling)—
 
@@ -262,13 +262,13 @@ Section 82(1).
 
 ### The School Boards (Scotland) Act 1988 (c. 47)
 
-**10.**[^key-decad18fe56fa8c57efbe75564bad997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-decad18fe56fa8c57efbe75564bad997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1be26d0ccda74ca47436c0e54de98fc3]: Textual amendment: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/2) repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-1be26d0ccda74ca47436c0e54de98fc3]: Textual amendment: [Sch. 10 para. 2](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/2) repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
 
-[^key-49e1827257b158b265b3eba2ff4d1121]: Textual amendment: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/3) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
+[^c-49e1827257b158b265b3eba2ff4d1121]: Textual amendment: [Sch. 10 para. 3](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/3) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
 
 [^c1019470]: Textual amendment: [Sch. 10 para. 4](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/4) repealed (1. 10. 1992) by [Tribunals and Inquiries Act 1992 (c. 53)](https://www.legislation.gov.uk/ukpga/1992/53), [ss. 18(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/18/2), [19(2)](https://www.legislation.gov.uk/ukpga/1992/53/section/19/2), [Sch. 4 Pt.I](https://www.legislation.gov.uk/ukpga/1992/53/schedule/4/part/I).
 
@@ -276,10 +276,10 @@ Section 82(1).
 
 [^c1019472]: Textual amendment: [Sch. 10 para. 7](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/7) repealed (22.8.1996) by [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18), [ss. 242](https://www.legislation.gov.uk/ukpga/1996/18/section/242), [243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt.I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191-195](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202))
 
-[^key-10acee84ae6fabc3228b1b319abc148b]: Textual amendment: [Sch. 10 para. 8(2)](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/8/2) repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 6(c)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/6/c); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-10acee84ae6fabc3228b1b319abc148b]: Textual amendment: [Sch. 10 para. 8(2)](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/8/2) repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 6(c)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/6/c); [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
 
-[^key-029d11ff912679224a5a72e28112eca3]: Textual amendment: Sch. 10 para. 8(19) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
+[^c-029d11ff912679224a5a72e28112eca3]: Textual amendment: Sch. 10 para. 8(19) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
 
-[^key-519da93155ff744fbbefd85b9a4dd72c]: Textual amendment: Sch. 10 para. 8(20) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
+[^c-519da93155ff744fbbefd85b9a4dd72c]: Textual amendment: Sch. 10 para. 8(20) repealed (31.12.2004) by [Standards in Scotland’s Schools etc. Act 2000 (asp 6)](https://www.legislation.gov.uk/asp/2000/6), [s. 61(2)](https://www.legislation.gov.uk/asp/2000/6/section/61/2), [sch. 3](https://www.legislation.gov.uk/asp/2000/6/schedule/3); [S.S.I. 2004/528](https://www.legislation.gov.uk/ssi/2004/528), [art. 2(b)](https://www.legislation.gov.uk/ssi/2004/528/article/2/b)
 
-[^key-decad18fe56fa8c57efbe75564bad997]: Textual amendment: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/10) repealed (1.8.2007) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [s. 24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2), [sch.](https://www.legislation.gov.uk/asp/2006/8/schedule); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)
+[^c-decad18fe56fa8c57efbe75564bad997]: Textual amendment: [Sch. 10 para. 10](https://www.legislation.gov.uk/ukpga/1989/39/schedule/10/paragraph/10) repealed (1.8.2007) by [Scottish Schools (Parental Involvement) Act 2006 (asp 8)](https://www.legislation.gov.uk/asp/2006/8), [s. 24(2)](https://www.legislation.gov.uk/asp/2006/8/section/24/2), [sch.](https://www.legislation.gov.uk/asp/2006/8/schedule); [S.S.I. 2007/31](https://www.legislation.gov.uk/ssi/2007/31), [art. 2(b)](https://www.legislation.gov.uk/ssi/2007/31/article/2/b), [sch. 2](https://www.legislation.gov.uk/ssi/2007/31/schedule/2)

@@ -120,7 +120,7 @@ and to do so in such manner as may be specified in the notice regarding where, w
 - (a) “**disposal**” has the same meaning as in Directive [2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098) on waste [^c21544151];
 - (b) “**local authority collected municipal waste**” has the meaning given in section 21(4) [^c21544161] of the Waste and Emissions Trading Act 2003;
 - (c) “**monitored year**” means a year beginning with 1st April in any of 2013 to 2019;
-- (d) “**recovery**” has the same meaning as in [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)[^key-e7a00de00d4998829ff6f7617148d137] of the European Parliament and of the Council on waste;
+- (d) “**recovery**” has the same meaning as in [Directive 2008/98/EC](https://www.legislation.gov.uk/european/directive/2008/0098)[^c-e7a00de00d4998829ff6f7617148d137] of the European Parliament and of the Council on waste;
 - (e) “**waste**” has the meaning given in section 37 [^c21544171] of the Waste and Emissions Trading Act 2003;
 - (f) “**waste collection authority**” has the same meaning as in Part 2 of the Environmental Protection Act 1990 [^c21544181]; and
 - (g) “**waste facility**” means a facility for the disposal or recovery of waste other than a landfill.
@@ -232,7 +232,7 @@ An impact assessment of the effect that this instrument will have on the costs o
 
 [^c21544161]: Marginal citation: Section 21(4) was substituted by [S.I. 2011/2499](https://www.legislation.gov.uk/uksi/2011/2499), [regulations 2](https://www.legislation.gov.uk/uksi/2011/2499/regulation/2) and 6(2)(c).
 
-[^key-e7a00de00d4998829ff6f7617148d137]: Textual amendment: Words in reg. 4(10)(d) substituted (3.8.2016) by [The Waste (Meaning of Recovery) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/738)](https://www.legislation.gov.uk/uksi/2016/738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2016/738/regulation/12)
+[^c-e7a00de00d4998829ff6f7617148d137]: Textual amendment: Words in reg. 4(10)(d) substituted (3.8.2016) by [The Waste (Meaning of Recovery) (Miscellaneous Amendments) Regulations 2016 (S.I. 2016/738)](https://www.legislation.gov.uk/uksi/2016/738), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2016/738/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2016/738/regulation/12)
 
 [^c21544171]: Marginal citation: Section 37(2) was substituted by [S.I. 2011/988](https://www.legislation.gov.uk/uksi/2011/988), [regulation 48(3)](https://www.legislation.gov.uk/uksi/2011/988/regulation/48/3) and Part 1, paragraph 6 of Schedule 4.
 

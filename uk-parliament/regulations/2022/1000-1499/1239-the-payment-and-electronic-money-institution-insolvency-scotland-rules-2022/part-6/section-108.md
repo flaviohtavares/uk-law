@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 108. Notifying potential claimants after bar date has passed[^key-c2c0982931600b9696b4c285413ed0f2]
+## 108. Notifying potential claimants after bar date has passed[^c-c2c0982931600b9696b4c285413ed0f2]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c2c0982931600b9696b4c285413ed0f2]: Commencement: Rule 108 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-c2c0982931600b9696b4c285413ed0f2]: Commencement: Rule 108 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

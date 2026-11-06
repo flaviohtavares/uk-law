@@ -37,13 +37,13 @@ Made
 
 The Welsh Ministers, in exercise of the powers conferred upon them by sections 24(2) and 26(3) of the Education (Wales) Measure 2009[^f00001], make the following Order:
 
-## 1. Title and interpretation[^key-89e3f5fbf0838ebccc2b788f083540df]
+## 1. Title and interpretation[^c-89e3f5fbf0838ebccc2b788f083540df]
 
 (1) The title of this Order is the Education (Wales) Measure 2009 (Commencement No.3 and Transitional Provisions) Order 2012.
 
 (2) In this Order, “the 2009 Measure” (“*Mesu 2009*”) means the Education (Wales) Measure 2009.
 
-## 2. Provisions coming into force on 10 February 2012[^key-771ba16cae958f6c73a2b55efee11993]
+## 2. Provisions coming into force on 10 February 2012[^c-771ba16cae958f6c73a2b55efee11993]
 
 The following provisions in Part 1 (education appeals and claims by children) of the 2009 Measure come into force on 10 February 2012—
 
@@ -58,7 +58,7 @@ The following provisions in Part 1 (education appeals and claims by children) of
 - (i) section 23 (minor and consequential amendments) in so far as it relates to paragraphs 1 and 4 of the Schedule; and
 - (j) paragraphs 1 and 4 of the Schedule.
 
-## 3. Provisions coming into force on 6 March 2012[^key-5781db007ef509ca22df9c505a0a4198]
+## 3. Provisions coming into force on 6 March 2012[^c-5781db007ef509ca22df9c505a0a4198]
 
 The following provisions of Part 1 (education appeals and claims by children) of the 2009 Measure come into force on 6 March 2012—
 
@@ -76,7 +76,7 @@ The following provisions of Part 1 (education appeals and claims by children) of
 - (l) section 23 in so far as it relates to paragraphs 2, 3 and 5 of the Schedule; and
 - (m) paragraphs 2, 3 and 5 of the Schedule.
 
-## 4. Transitional provisions[^key-dc7cff4a04dd94524ff3d065a7ed73aa]
+## 4. Transitional provisions[^c-dc7cff4a04dd94524ff3d065a7ed73aa]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -138,14 +138,14 @@ The following provisions of the 2009 Measure have been brought into force in rel
 
 [^f00001]: Footnote: [2009 nawm 5](https://www.legislation.gov.uk/mwa/2009/5). Sections 9 to 19, 26 and the Schedule to the 2009 Measure were amended by [S.I. 2011/1651 (W. 187)](https://www.legislation.gov.uk/wsi/2011/1651).
 
-[^key-89e3f5fbf0838ebccc2b788f083540df]: Commencement: Art. 1 in force at made date
+[^c-89e3f5fbf0838ebccc2b788f083540df]: Commencement: Art. 1 in force at made date
 
-[^key-771ba16cae958f6c73a2b55efee11993]: Commencement: Art. 2 in force at made date
+[^c-771ba16cae958f6c73a2b55efee11993]: Commencement: Art. 2 in force at made date
 
 [^f00002]: Footnote: Section 11 was amended by [S.I. 2011/1651](https://www.legislation.gov.uk/uksi/2011/1651), article 5.
 
 [^f00003]: Footnote: Section 12 was amended by [S.I. 2011/1651](https://www.legislation.gov.uk/uksi/2011/1651), article 6.
 
-[^key-5781db007ef509ca22df9c505a0a4198]: Commencement: Art. 3 in force at made date
+[^c-5781db007ef509ca22df9c505a0a4198]: Commencement: Art. 3 in force at made date
 
-[^key-dc7cff4a04dd94524ff3d065a7ed73aa]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/wsi/2012/320/article/4) revoked (5.1.2015) by [The Education (Wales) Measure 2009 (Pilot) (Revocation) Regulations 2014 (S.I. 2014/3267)](https://www.legislation.gov.uk/wsi/2014/3267), [regs. 1](https://www.legislation.gov.uk/wsi/2014/3267/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2014/3267/regulation/2/2)
+[^c-dc7cff4a04dd94524ff3d065a7ed73aa]: Textual amendment: [Art. 4](https://www.legislation.gov.uk/wsi/2012/320/article/4) revoked (5.1.2015) by [The Education (Wales) Measure 2009 (Pilot) (Revocation) Regulations 2014 (S.I. 2014/3267)](https://www.legislation.gov.uk/wsi/2014/3267), [regs. 1](https://www.legislation.gov.uk/wsi/2014/3267/regulation/1), [2(2)](https://www.legislation.gov.uk/wsi/2014/3267/regulation/2/2)

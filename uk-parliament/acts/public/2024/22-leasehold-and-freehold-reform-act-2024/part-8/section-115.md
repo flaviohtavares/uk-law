@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Remediation orders[^key-32d29923438513ba529784bdc516f811][^key-ccd3f52b315f53f58cb47c8ab6d6b050]
+## 115. Remediation orders[^c-32d29923438513ba529784bdc516f811][^c-ccd3f52b315f53f58cb47c8ab6d6b050]
 
 *Extent: E+W*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-32d29923438513ba529784bdc516f811]: Commencement: S. 115 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-32d29923438513ba529784bdc516f811]: Commencement: S. 115 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-ccd3f52b315f53f58cb47c8ab6d6b050]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2024/22/section/115) in force at 31.10.2024 by [S.I. 2024/1018](https://www.legislation.gov.uk/uksi/2024/1018), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/1018/regulation/2/b)
+[^c-ccd3f52b315f53f58cb47c8ab6d6b050]: Commencement: [S. 115](https://www.legislation.gov.uk/ukpga/2024/22/section/115) in force at 31.10.2024 by [S.I. 2024/1018](https://www.legislation.gov.uk/uksi/2024/1018), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2024/1018/regulation/2/b)

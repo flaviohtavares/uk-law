@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 2 — Schedule 4A to the New Roads and Street Works Act 1991[^key-57962ed5baaf77a86a9776c4a1ae5fb5][^key-c2fc42358a264f8aa3b62b924827f20b]
+## SCHEDULE 2 — Schedule 4A to the New Roads and Street Works Act 1991[^c-57962ed5baaf77a86a9776c4a1ae5fb5][^c-c2fc42358a264f8aa3b62b924827f20b]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ Section 41
 
 ## Annotations
 
-[^key-57962ed5baaf77a86a9776c4a1ae5fb5]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/18/schedule/2) in force at 12.5.2008 for E. by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1890/article/3))
+[^c-57962ed5baaf77a86a9776c4a1ae5fb5]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/18/schedule/2) in force at 12.5.2008 for E. by [S.I. 2007/1890](https://www.legislation.gov.uk/uksi/2007/1890), [art. 2](https://www.legislation.gov.uk/uksi/2007/1890/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2007/1890/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2007/1890/article/3))
 
-[^key-c2fc42358a264f8aa3b62b924827f20b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/18/schedule/2) in force at 12.5.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule) (with [art. 3](https://www.legislation.gov.uk/wsi/2007/3174/article/3))
+[^c-c2fc42358a264f8aa3b62b924827f20b]: Commencement: [Sch. 2](https://www.legislation.gov.uk/ukpga/2004/18/schedule/2) in force at 12.5.2008 for W. by [S.I. 2007/3174](https://www.legislation.gov.uk/wsi/2007/3174), [art. 2](https://www.legislation.gov.uk/wsi/2007/3174/article/2), [Sch.](https://www.legislation.gov.uk/wsi/2007/3174/schedule) (with [art. 3](https://www.legislation.gov.uk/wsi/2007/3174/article/3))

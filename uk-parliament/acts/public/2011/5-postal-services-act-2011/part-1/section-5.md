@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Report on transfer of interest in a Post Office company to a relevant mutual[^key-c86d5e20029c052d9a1f0bb89dac5c47]
+## 5. Report on transfer of interest in a Post Office company to a relevant mutual[^c-c86d5e20029c052d9a1f0bb89dac5c47]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c86d5e20029c052d9a1f0bb89dac5c47]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2011/5/section/5) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-c86d5e20029c052d9a1f0bb89dac5c47]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2011/5/section/5) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

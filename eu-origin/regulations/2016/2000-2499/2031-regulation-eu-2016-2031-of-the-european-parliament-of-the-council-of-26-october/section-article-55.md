@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 55. Information to be provided to travellers and clients of postal services as regards GB pest-free areas[^key-007961c2ebdf29687fbd80643800df52]
+## Article 55. Information to be provided to travellers and clients of postal services as regards GB pest-free areas[^c-007961c2ebdf29687fbd80643800df52]
 
 *Extent: E+W+S+N.I.*
 
-Article 45 shall apply *mutatis mutandis* to the introduction into, or the movement within, GB pest-free areas[^key-17a7c10462451f88b8ea53d3c2c48e08] of plants, plant products and other objects.
+Article 45 shall apply *mutatis mutandis* to the introduction into, or the movement within, GB pest-free areas[^c-17a7c10462451f88b8ea53d3c2c48e08] of plants, plant products and other objects.
 
 ## Annotations
 
-[^key-007961c2ebdf29687fbd80643800df52]: Textual amendment: Words in Art. 55 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(19)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/19/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-007961c2ebdf29687fbd80643800df52]: Textual amendment: Words in Art. 55 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(19)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/19/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-17a7c10462451f88b8ea53d3c2c48e08]: Textual amendment: Words in Art. 55 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(19)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/19/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-17a7c10462451f88b8ea53d3c2c48e08]: Textual amendment: Words in Art. 55 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [29(19)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/29/19/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

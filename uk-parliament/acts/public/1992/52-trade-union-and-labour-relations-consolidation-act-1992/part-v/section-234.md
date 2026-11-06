@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-cb1dcfee6c6c41a6daeade6a67a4252e] Industrial action that is regarded as having the support of a ballot shall cease to be so regarded at the end of the period of 12 months beginning with the date of the ballot[^key-c1db2c67cec2f812d99ddc39ab562536].
+(1)[^c-cb1dcfee6c6c41a6daeade6a67a4252e] Industrial action that is regarded as having the support of a ballot shall cease to be so regarded at the end of the period of 12 months beginning with the date of the ballot[^c-c1db2c67cec2f812d99ddc39ab562536].
 
 (1A) Subsection (1) has effect—
 
@@ -39,7 +39,7 @@ the trade union may apply to the court for an order that the period during which
 - (a) to the court by virtue of whose decision it ceases to have effect, or
 - (b) where an order lapses or an undertaking ceases to bind without any such decision, to the court by which the order was made or to which the undertaking was given;
 
-[^key-596f951c29d2e596928276aa8e5733a1]...
+[^c-596f951c29d2e596928276aa8e5733a1]...
 
 (4) The court shall not make an order if it appears to the court—
 
@@ -50,16 +50,16 @@ the trade union may apply to the court for an order that the period during which
 
 (6) The period between the making of an application under this section and its determination does not count towards the period referred to in subsection (1).
 
-[^key-8fe63d0619e2fe198b8d6ce5f51d84a0]...
+[^c-8fe63d0619e2fe198b8d6ce5f51d84a0]...
 
 ## Annotations
 
 [^c14520731]: Modification: S. 234 applied (14.8.2000) by [S.I. 2000/1828](https://www.legislation.gov.uk/uksi/2000/1828), [art. 2(5)(c)](https://www.legislation.gov.uk/uksi/2000/1828/article/2/5/c)
 
-[^key-cb1dcfee6c6c41a6daeade6a67a4252e]: Textual amendment: S. 234(1)(1A) substituted for s. 234(1) (1.3.2017) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/9/1), [25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1) (with [s. 9(2)](https://www.legislation.gov.uk/ukpga/2016/15/section/9/2)); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/g)
+[^c-cb1dcfee6c6c41a6daeade6a67a4252e]: Textual amendment: S. 234(1)(1A) substituted for s. 234(1) (1.3.2017) by [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [ss. 9(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/9/1), [25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1) (with [s. 9(2)](https://www.legislation.gov.uk/ukpga/2016/15/section/9/2)); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/g)
 
-[^key-c1db2c67cec2f812d99ddc39ab562536]: Textual amendment: Words in s. 234(1) substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 72](https://www.legislation.gov.uk/ukpga/2025/36/section/72), [159(2)(i)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/i) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/9))
+[^c-c1db2c67cec2f812d99ddc39ab562536]: Textual amendment: Words in s. 234(1) substituted (18.2.2026) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 72](https://www.legislation.gov.uk/ukpga/2025/36/section/72), [159(2)(i)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/i) (with transitional provisions and savings in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/9))
 
-[^key-596f951c29d2e596928276aa8e5733a1]: Textual amendment: Words in s. 234(3) omitted (1.3.2017) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 14(a)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/14/a) (with [s. 9(2)](https://www.legislation.gov.uk/ukpga/2016/15/section/9/2)); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/i)
+[^c-596f951c29d2e596928276aa8e5733a1]: Textual amendment: Words in s. 234(3) omitted (1.3.2017) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 14(a)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/14/a) (with [s. 9(2)](https://www.legislation.gov.uk/ukpga/2016/15/section/9/2)); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/i)
 
-[^key-8fe63d0619e2fe198b8d6ce5f51d84a0]: Textual amendment: Words in s. 234(6) omitted (1.3.2017) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 14(b)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/14/b) (with [s. 9(2)](https://www.legislation.gov.uk/ukpga/2016/15/section/9/2)); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/i)
+[^c-8fe63d0619e2fe198b8d6ce5f51d84a0]: Textual amendment: Words in s. 234(6) omitted (1.3.2017) by virtue of [Trade Union Act 2016 (c. 15)](https://www.legislation.gov.uk/ukpga/2016/15), [s. 25(1)](https://www.legislation.gov.uk/ukpga/2016/15/section/25/1), [Sch. 4 para. 14(b)](https://www.legislation.gov.uk/ukpga/2016/15/schedule/4/paragraph/14/b) (with [s. 9(2)](https://www.legislation.gov.uk/ukpga/2016/15/section/9/2)); [S.I. 2017/139](https://www.legislation.gov.uk/uksi/2017/139), [reg. 2(n)(i)](https://www.legislation.gov.uk/uksi/2017/139/regulation/2/n/i)

@@ -22,7 +22,7 @@ summary: ''
 
 In this Act—
 
-- “ballot” means—[^key-99a8af5b7a184a5b4007cffd1b42fae4]
+- “ballot” means—[^c-99a8af5b7a184a5b4007cffd1b42fae4]
   - (a) a postal ballot (within the meaning of paragraph 8 of Schedule 12),
   - (b) an electronic ballot (within the meaning of paragraph 8A of that Schedule), or
   - (c) a combined ballot (within the meaning of paragraph 8B of that Schedule);
@@ -35,4 +35,4 @@ In this Act—
 
 [^c15387651]: Commencement: [Ss. 116-119](https://www.legislation.gov.uk/ukpga/1992/40/section/116) wholly in force at 8.6.1992 see [s. 126(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/126/2) and [S.I. 1992/1325](https://www.legislation.gov.uk/uksi/1992/1325), [art. 2(c)](https://www.legislation.gov.uk/uksi/1992/1325/article/2/c).
 
-[^key-99a8af5b7a184a5b4007cffd1b42fae4]: Textual amendment: Words in [s. 116](https://www.legislation.gov.uk/ukpga/1992/40/section/116) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [18](https://www.legislation.gov.uk/uksi/2011/593/article/18)
+[^c-99a8af5b7a184a5b4007cffd1b42fae4]: Textual amendment: Words in [s. 116](https://www.legislation.gov.uk/ukpga/1992/40/section/116) inserted (12.4.2011) by [The Mutual Societies (Electronic Communications) Order 2011 (S.I. 2011/593)](https://www.legislation.gov.uk/uksi/2011/593), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/593/article/1/1), [18](https://www.legislation.gov.uk/uksi/2011/593/article/18)

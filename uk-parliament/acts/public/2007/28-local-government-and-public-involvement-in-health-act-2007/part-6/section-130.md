@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 130. Fixed penalties for breach of byelaws[^key-c7ce1bc3a0d63b9532851c508e0ae04a]
+## 130. Fixed penalties for breach of byelaws[^c-c7ce1bc3a0d63b9532851c508e0ae04a]
 
 *Extent: E+W*
 
@@ -129,4 +129,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7ce1bc3a0d63b9532851c508e0ae04a]: Commencement: S. 130 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/112/article/2/b)
+[^c-c7ce1bc3a0d63b9532851c508e0ae04a]: Commencement: S. 130 in force at 27.1.2010 by [S.I. 2010/112](https://www.legislation.gov.uk/uksi/2010/112), [art. 2(b)](https://www.legislation.gov.uk/uksi/2010/112/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Consequential amendments relating to Part 4[^key-8298f16b6e6f5b42765cbdc2a06f109c][^key-3b3aa5df9bfaf7cade8f07b8aa760712]
+## 134. Consequential amendments relating to Part 4[^c-8298f16b6e6f5b42765cbdc2a06f109c][^c-3b3aa5df9bfaf7cade8f07b8aa760712]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Schedule 15 contains amendments consequential on this Part.
 
 ## Annotations
 
-[^key-8298f16b6e6f5b42765cbdc2a06f109c]: Commencement: S. 134 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-8298f16b6e6f5b42765cbdc2a06f109c]: Commencement: S. 134 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-3b3aa5df9bfaf7cade8f07b8aa760712]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2022/31/section/134) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-3b3aa5df9bfaf7cade8f07b8aa760712]: Commencement: [S. 134](https://www.legislation.gov.uk/ukpga/2022/31/section/134) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

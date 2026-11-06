@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Interpretation of Part 4[^key-9c9e6ab9b2fb6f026962d519dab5b8d9][^key-e7bcef558f5bf0b67d3ea2a808fa3527]
+## 33. Interpretation of Part 4[^c-9c9e6ab9b2fb6f026962d519dab5b8d9][^c-e7bcef558f5bf0b67d3ea2a808fa3527]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,9 +48,9 @@ are to be read with section 22 of the Financial Services and Markets Act 2000 [^
 
 ## Annotations
 
-[^key-9c9e6ab9b2fb6f026962d519dab5b8d9]: Commencement: Reg. 33 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-9c9e6ab9b2fb6f026962d519dab5b8d9]: Commencement: Reg. 33 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-e7bcef558f5bf0b67d3ea2a808fa3527]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2019/411/regulation/33) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7bcef558f5bf0b67d3ea2a808fa3527]: Commencement: [Reg. 33](https://www.legislation.gov.uk/uksi/2019/411/regulation/33) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23636441]: Marginal citation: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 

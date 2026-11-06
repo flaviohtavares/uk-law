@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 25. Survey of tidal works[^key-48d9d240d4d3fab6ed20ca5f89226899]
+## 25. Survey of tidal works[^c-48d9d240d4d3fab6ed20ca5f89226899]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ If the Secretary of State considers it expedient to do so, the Secretary of Stat
 
 ## Annotations
 
-[^key-48d9d240d4d3fab6ed20ca5f89226899]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2014/2935/article/25) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)
+[^c-48d9d240d4d3fab6ed20ca5f89226899]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2014/2935/article/25) in force at 29.10.2014, see [Introductory Text](https://www.legislation.gov.uk/uksi/2014/2935/introduction)

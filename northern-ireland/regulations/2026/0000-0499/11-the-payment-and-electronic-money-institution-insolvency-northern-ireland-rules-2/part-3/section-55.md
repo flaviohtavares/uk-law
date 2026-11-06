@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 55. Entitlement to vote (customers)[^key-8e0c8b2e2a51b967dec810cb1780b768]
+## 55. Entitlement to vote (customers)[^c-8e0c8b2e2a51b967dec810cb1780b768]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8e0c8b2e2a51b967dec810cb1780b768]: Commencement: [Rule 55](https://www.legislation.gov.uk/nisr/2026/11/rule/55) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-8e0c8b2e2a51b967dec810cb1780b768]: Commencement: [Rule 55](https://www.legislation.gov.uk/nisr/2026/11/rule/55) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

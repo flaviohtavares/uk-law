@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Eviction[^key-0d7af90910b8231ee9d75a615a1e40fc][^key-957d6d67ff1c4bebdf44d4bb541ea041]
+## 40. Eviction[^c-0d7af90910b8231ee9d75a615a1e40fc][^c-957d6d67ff1c4bebdf44d4bb541ea041]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,6 +112,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0d7af90910b8231ee9d75a615a1e40fc]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2016/19/section/40) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/b)
+[^c-0d7af90910b8231ee9d75a615a1e40fc]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2016/19/section/40) in force at 1.11.2016 for specified purposes by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/2/b)
 
-[^key-957d6d67ff1c4bebdf44d4bb541ea041]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2016/19/section/40) in force at 1.12.2016 in so far as not already in force by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/d)
+[^c-957d6d67ff1c4bebdf44d4bb541ea041]: Commencement: [S. 40](https://www.legislation.gov.uk/ukpga/2016/19/section/40) in force at 1.12.2016 in so far as not already in force by [S.I. 2016/1037](https://www.legislation.gov.uk/uksi/2016/1037), [reg. 5(d)](https://www.legislation.gov.uk/uksi/2016/1037/regulation/5/d)

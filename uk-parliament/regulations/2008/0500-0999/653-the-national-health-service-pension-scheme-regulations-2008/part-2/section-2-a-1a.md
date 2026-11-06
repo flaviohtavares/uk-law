@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.A.1A. Civil partnerships and marriage of same sex couples[^key-9f0e73fe8a9012f1109cd1b4a9477424]
+## 2.A.1A. Civil partnerships and marriage of same sex couples[^c-9f0e73fe8a9012f1109cd1b4a9477424]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9f0e73fe8a9012f1109cd1b4a9477424]: Textual amendment: [Reg. 2.A.1A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.1A) inserted (13.3.2014) by [The National Health Service Pension Scheme, Additional Voluntary Contributions, Compensation for Premature Retirement and Injury Benefits (Amendment) Regulations 2014 (S.I. 2014/78)](https://www.legislation.gov.uk/uksi/2014/78), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/78/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2014/78/regulation/12)
+[^c-9f0e73fe8a9012f1109cd1b4a9477424]: Textual amendment: [Reg. 2.A.1A](https://www.legislation.gov.uk/uksi/2008/653/regulation/2.A.1A) inserted (13.3.2014) by [The National Health Service Pension Scheme, Additional Voluntary Contributions, Compensation for Premature Retirement and Injury Benefits (Amendment) Regulations 2014 (S.I. 2014/78)](https://www.legislation.gov.uk/uksi/2014/78), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2014/78/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2014/78/regulation/12)

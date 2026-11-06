@@ -30,7 +30,7 @@ summary: ''
 
 LOCAL GOVERNMENT
 
-Local Government (Compensation for Premature Retirement) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^key-f06d21ab5af330923101ebc3a56be5f9]
+Local Government (Compensation for Premature Retirement) (Amendment) Regulations (Northern Ireland) 1998 (revoked)[^c-f06d21ab5af330923101ebc3a56be5f9]
 
 Made
 
@@ -40,24 +40,24 @@ Coming into operation
 
 1st October 1998
 
-[^key-f06d21ab5af330923101ebc3a56be5f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f06d21ab5af330923101ebc3a56be5f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-f06d21ab5af330923101ebc3a56be5f9]
+## 1. Citation and commencement[^c-f06d21ab5af330923101ebc3a56be5f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-f06d21ab5af330923101ebc3a56be5f9]
+## 2. Amendment[^c-f06d21ab5af330923101ebc3a56be5f9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f06d21ab5af330923101ebc3a56be5f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f06d21ab5af330923101ebc3a56be5f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f06d21ab5af330923101ebc3a56be5f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f06d21ab5af330923101ebc3a56be5f9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f06d21ab5af330923101ebc3a56be5f9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/286) revoked (28.8.2001) by [The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001 (S.R. 2001/279)](https://www.legislation.gov.uk/nisr/2001/279), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1), [42(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/42/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2001/279/schedule/4) (with [reg. 41(2)](https://www.legislation.gov.uk/nisr/2001/279/regulation/41/2))
+[^c-f06d21ab5af330923101ebc3a56be5f9]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1998/286) revoked (28.8.2001) by [The Local Government (Discretionary Payments) Regulations (Northern Ireland) 2001 (S.R. 2001/279)](https://www.legislation.gov.uk/nisr/2001/279), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/1/1), [42(1)](https://www.legislation.gov.uk/nisr/2001/279/regulation/42/1), [Sch. 4](https://www.legislation.gov.uk/nisr/2001/279/schedule/4) (with [reg. 41(2)](https://www.legislation.gov.uk/nisr/2001/279/regulation/41/2))

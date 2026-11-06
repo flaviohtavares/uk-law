@@ -36,14 +36,14 @@ the employer shall be entitled, but shall not be required, on that day to operat
 
 he shall not include in any sum deducted from the net earnings of the debtor on a subsequent pay-day under the arrestment or order any sum in respect of the debtor’s net earnings on the previous pay-day.
 
-(4)[^key-a1d1cf9ebed1c84d4af7d1614e0fd7c7] No claim may be made by—
+(4)[^c-a1d1cf9ebed1c84d4af7d1614e0fd7c7] No claim may be made by—
 
 - (a) the debtor or the creditor against the employer in respect of any deduction which has, or ought to have, been made by the employer from the debtor’s net earnings, or any payment which has been, or ought to have been, made by him, under an earnings arrestment or a current maintenance arrestment; or
 - (b) the debtor, the sheriff clerk or any creditor against the employer in respect of any such deduction or payment which has been, or ought to have been, made under a conjoined arrestment order,
 
 more than one year after the date when the deduction or payment has, or ought to have, been made.
 
-(5)[^key-a1d1cf9ebed1c84d4af7d1614e0fd7c7] The employer shall not be liable to the debtor for any deduction made by him from the debtor’s net earnings—
+(5)[^c-a1d1cf9ebed1c84d4af7d1614e0fd7c7] The employer shall not be liable to the debtor for any deduction made by him from the debtor’s net earnings—
 
 - (a) under an earnings arrestment unless and until he receives intimation—
   - (i) from the creditor under section 57(4) of this Act that the debt recoverable has been paid or otherwise extinguished or has ceased to be enforceable by diligence;
@@ -58,4 +58,4 @@ more than one year after the date when the deduction or payment has, or ought to
 
 ## Annotations
 
-[^key-a1d1cf9ebed1c84d4af7d1614e0fd7c7]: Modification: S. 69(4)(5) applied (12.3.2008) by [The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3, Savings and Transitionals) Order 2008 (S.S.I. 2008/115)](https://www.legislation.gov.uk/ssi/2008/115), [art. 13](https://www.legislation.gov.uk/ssi/2008/115/article/13)
+[^c-a1d1cf9ebed1c84d4af7d1614e0fd7c7]: Modification: S. 69(4)(5) applied (12.3.2008) by [The Bankruptcy and Diligence etc. (Scotland) Act 2007 (Commencement No. 3, Savings and Transitionals) Order 2008 (S.S.I. 2008/115)](https://www.legislation.gov.uk/ssi/2008/115), [art. 13](https://www.legislation.gov.uk/ssi/2008/115/article/13)

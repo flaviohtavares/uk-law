@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Compulsory acquisition of rights[^key-7b20053f1a7efc723bb9efd81b86f915]
+## 16. Compulsory acquisition of rights[^c-7b20053f1a7efc723bb9efd81b86f915]
 
 *Extent: E+W+S*
 
 (1) In the case of the Order land specified in column (1) of Schedule 5 (land in which new rights etc., may be acquired) the undertaker may acquire compulsorily such new rights by creating them as may be required for the purpose specified in relation to that land in column (2) of that Schedule.
 
-(2) Subject to section 8 of the 1965 Act (as substituted by paragraph 3 of Part 2[^key-171b3ac261502d41c4a028add76e572b] of Schedule 6 (modification of compensation and compulsory purchase enactments for creation of new rights)), where the undertaker acquires a right over land the undertaker is not required to acquire a greater interest in that land.
+(2) Subject to section 8 of the 1965 Act (as substituted by paragraph 3 of Part 2[^c-171b3ac261502d41c4a028add76e572b] of Schedule 6 (modification of compensation and compulsory purchase enactments for creation of new rights)), where the undertaker acquires a right over land the undertaker is not required to acquire a greater interest in that land.
 
 (3) Schedule 6 has effect for the purpose of modifying the enactments relating to compensation and the provisions of the 1965 Act in their application in relation to the compulsory acquisition under this article of a right over land by the creation of a new right.
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7b20053f1a7efc723bb9efd81b86f915]: Commencement: Art. 16 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
+[^c-7b20053f1a7efc723bb9efd81b86f915]: Commencement: Art. 16 in force at 31.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3331/article/1)
 
-[^key-171b3ac261502d41c4a028add76e572b]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2014/3331/article/16/2) substituted (1.5.2015) by [The Hornsea One Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1280)](https://www.legislation.gov.uk/uksi/2015/1280), [art. 1](https://www.legislation.gov.uk/uksi/2015/1280/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1280/schedule)
+[^c-171b3ac261502d41c4a028add76e572b]: Textual amendment: Words in [art. 16(2)](https://www.legislation.gov.uk/uksi/2014/3331/article/16/2) substituted (1.5.2015) by [The Hornsea One Offshore Wind Farm (Correction) Order 2015 (S.I. 2015/1280)](https://www.legislation.gov.uk/uksi/2015/1280), [art. 1](https://www.legislation.gov.uk/uksi/2015/1280/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2015/1280/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 112. Reimbursement arrangements: penalties[^key-0786b4d602f713ce235b40ed167960bd]
+## 112. Reimbursement arrangements: penalties[^c-0786b4d602f713ce235b40ed167960bd]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0786b4d602f713ce235b40ed167960bd]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2014/16/section/112) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)
+[^c-0786b4d602f713ce235b40ed167960bd]: Commencement: [S. 112](https://www.legislation.gov.uk/asp/2014/16/section/112) in force at 1.4.2015 by [S.S.I. 2015/110](https://www.legislation.gov.uk/ssi/2015/110), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/110/article/2/1)

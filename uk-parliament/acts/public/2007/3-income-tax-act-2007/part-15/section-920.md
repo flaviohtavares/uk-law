@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 920. Foreign payers of manufactured interest: the reverse charge[^key-f8d45cdaf1909a7ddc2984e91e74661f]
+## 920. Foreign payers of manufactured interest: the reverse charge[^c-f8d45cdaf1909a7ddc2984e91e74661f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8d45cdaf1909a7ddc2984e91e74661f]: Textual amendment: S. 920 omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 23](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/23)
+[^c-f8d45cdaf1909a7ddc2984e91e74661f]: Textual amendment: S. 920 omitted (1.1.2014) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 1 para. 52](https://www.legislation.gov.uk/ukpga/2013/29/schedule/1/paragraph/52), [Sch. 29 para. 23](https://www.legislation.gov.uk/ukpga/2013/29/schedule/29/paragraph/23)

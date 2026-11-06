@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 76. Disclosure of non-identifying information by Revenue Scotland[^key-acd430b2845b4c5634d58e47bfe37046]
+## 76. Disclosure of non-identifying information by Revenue Scotland[^c-acd430b2845b4c5634d58e47bfe37046]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acd430b2845b4c5634d58e47bfe37046]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2017/30/section/76) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/r)
+[^c-acd430b2845b4c5634d58e47bfe37046]: Commencement: [S. 76](https://www.legislation.gov.uk/ukpga/2017/30/section/76) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/r)

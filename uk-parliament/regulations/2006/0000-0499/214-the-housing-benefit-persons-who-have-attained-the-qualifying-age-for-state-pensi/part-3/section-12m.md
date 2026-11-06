@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 12M. Transitional protection – reduction in LHA[^key-92db9d0d2316875e90000ecf4372b1bd]
+## 12M. Transitional protection – reduction in LHA[^c-92db9d0d2316875e90000ecf4372b1bd]
 
 (1) This regulation applies where—
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-92db9d0d2316875e90000ecf4372b1bd]: Textual amendment: Reg. 12M and cross-heading inserted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/3/5)
+[^c-92db9d0d2316875e90000ecf4372b1bd]: Textual amendment: Reg. 12M and cross-heading inserted (1.4.2011) by [The Housing Benefit (Amendment) Regulations 2010 (S.I. 2010/2835)](https://www.legislation.gov.uk/uksi/2010/2835), [regs. 1](https://www.legislation.gov.uk/uksi/2010/2835/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2010/2835/regulation/3/5)

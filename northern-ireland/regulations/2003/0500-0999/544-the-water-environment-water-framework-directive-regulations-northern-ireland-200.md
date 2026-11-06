@@ -33,7 +33,7 @@ EUROPEAN COMMUNITIES
 
 ENVIRONMENTAL PROTECTION
 
-The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2003 (revoked)[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2003 (revoked)[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 Made
 
@@ -43,164 +43,164 @@ Coming into operation
 
 12th January 2004
 
-[^key-60b82627f7eaef1ee358ab4a356aa0b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60b82627f7eaef1ee358ab4a356aa0b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 1. Citation and commencement[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 2. Interpretation[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. General duties[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 3. General duties[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. River basin district and international river basin districts[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 4. River basin district and international river basin districts[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Characterisation of river basin district and international river basin districts[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 5. Characterisation of river basin district and international river basin districts[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Economic analysis of water use in river basin district and international river basin districts[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 6. Economic analysis of water use in river basin district and international river basin districts[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Bodies of water used for the abstraction of drinking water[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 7. Bodies of water used for the abstraction of drinking water[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Register of protected areas[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 8. Register of protected areas[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Monitoring[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 9. Monitoring[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Recovery of costs for water services and provision of incentives for efficient water use[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 10. Recovery of costs for water services and provision of incentives for efficient water use[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Environmental objectives and programmes of measures[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 11. Environmental objectives and programmes of measures[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. River basin management plans[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 12. River basin management plans[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. River basin management plans: public participation[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 13. River basin management plans: public participation[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. River basin management plans: publication[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 14. River basin management plans: publication[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. River basin management plans: review[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 15. River basin management plans: review[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Supplementary plans[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 16. Supplementary plans[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Duty to have regard to river basin management plans and supplementary plans[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 17. Duty to have regard to river basin management plans and supplementary plans[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Publication of information[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 18. Publication of information[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Provision of information and assistance by public bodies[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 19. Provision of information and assistance by public bodies[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Guidance to public bodies[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## 20. Guidance to public bodies[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60b82627f7eaef1ee358ab4a356aa0b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60b82627f7eaef1ee358ab4a356aa0b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — DIRECTIVE DEFINITIONS[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## SCHEDULE 1 — DIRECTIVE DEFINITIONS[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 Regulation 2(2)
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — ENACTMENTS IN RELATION TO WHICH DUTIES IN REGULATION 3 APPLY[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+## SCHEDULE 2 — ENACTMENTS IN RELATION TO WHICH DUTIES IN REGULATION 3 APPLY[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
 Regulation 3(3)
 
-### PART 1[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+### PART 1[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
-**1.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2[^key-60b82627f7eaef1ee358ab4a356aa0b8]
+### PART 2[^c-60b82627f7eaef1ee358ab4a356aa0b8]
 
-**11.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**16.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**25.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**26.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-60b82627f7eaef1ee358ab4a356aa0b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-60b82627f7eaef1ee358ab4a356aa0b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-60b82627f7eaef1ee358ab4a356aa0b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-60b82627f7eaef1ee358ab4a356aa0b8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/544) revoked with savings (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 34](https://www.legislation.gov.uk/nisr/2017/81/regulation/34) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))
+[^c-60b82627f7eaef1ee358ab4a356aa0b8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/544) revoked with savings (with application in accordance with reg. 1(b), 4(1) of the amending Rule) by [The Water Environment (Water Framework Directive) Regulations (Northern Ireland) 2017 (S.R. 2017/81)](https://www.legislation.gov.uk/nisr/2017/81), [reg. 34](https://www.legislation.gov.uk/nisr/2017/81/regulation/34) (with [reg. 37](https://www.legislation.gov.uk/nisr/2017/81/regulation/37))

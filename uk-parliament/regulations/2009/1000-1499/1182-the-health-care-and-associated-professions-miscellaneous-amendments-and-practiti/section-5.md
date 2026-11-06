@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transitory and transitional provisions relating to the introduction of statutory registration of practitioner psychologists[^key-2f4c97d743b5e46b521da92fb0454415]
+## 5. Transitory and transitional provisions relating to the introduction of statutory registration of practitioner psychologists[^c-2f4c97d743b5e46b521da92fb0454415]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,4 +56,4 @@ and any order under this paragraph may include such supplementary, incidental or
 
 ## Annotations
 
-[^key-2f4c97d743b5e46b521da92fb0454415]: Commencement: Art. 5 in force at 14.5.2009, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a)
+[^c-2f4c97d743b5e46b521da92fb0454415]: Commencement: Art. 5 in force at 14.5.2009, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 7 — Revocations[^key-f9d84c6d37d4dcdefd93ada75d409c59]
+## SCHEDULE 7 — Revocations[^c-f9d84c6d37d4dcdefd93ada75d409c59]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ Regulation 25
 
 ## Annotations
 
-[^key-f9d84c6d37d4dcdefd93ada75d409c59]: Commencement: Sch. 7 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)
+[^c-f9d84c6d37d4dcdefd93ada75d409c59]: Commencement: Sch. 7 in force at 1.3.2006, see [reg. 1](https://www.legislation.gov.uk/uksi/2006/68/regulation/1)

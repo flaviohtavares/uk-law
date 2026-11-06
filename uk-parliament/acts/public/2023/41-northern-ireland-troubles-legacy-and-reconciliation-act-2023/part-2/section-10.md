@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Requests for reviews of other harmful conduct forming part of the Troubles[^key-88359b9d2ac3047ef606ff997e238d8a][^key-ae08e4e5c35aabd2a33d7dba4c896464]
+## 10. Requests for reviews of other harmful conduct forming part of the Troubles[^c-88359b9d2ac3047ef606ff997e238d8a][^c-ae08e4e5c35aabd2a33d7dba4c896464]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88359b9d2ac3047ef606ff997e238d8a]: Commencement: S. 10 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-88359b9d2ac3047ef606ff997e238d8a]: Commencement: S. 10 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-ae08e4e5c35aabd2a33d7dba4c896464]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/41/section/10) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/g) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-ae08e4e5c35aabd2a33d7dba4c896464]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/41/section/10) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/g) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

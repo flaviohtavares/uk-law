@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Power to designate joint planning area and establish joint planning board[^key-61d793d2cdfd7316796988a736afecaf]
+## 8. Power to designate joint planning area and establish joint planning board[^c-61d793d2cdfd7316796988a736afecaf]
 
 *Extent: E+W*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61d793d2cdfd7316796988a736afecaf]: Commencement: S. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-61d793d2cdfd7316796988a736afecaf]: Commencement: S. 8 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

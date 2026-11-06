@@ -31,7 +31,7 @@ summary: ''
 
 Education, Wales
 
-The National Curriculum (Assessment Arrangements for the Foundation Phase and the Second and Third Key Stages) (Wales) Order 2014 (revoked)[^key-c4bb3e37bb263fa1302267178381d889]
+The National Curriculum (Assessment Arrangements for the Foundation Phase and the Second and Third Key Stages) (Wales) Order 2014 (revoked)[^c-c4bb3e37bb263fa1302267178381d889]
 
 Made
 
@@ -45,30 +45,30 @@ Coming into force
 
 1 September 2014
 
-[^key-c4bb3e37bb263fa1302267178381d889]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4bb3e37bb263fa1302267178381d889]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-c4bb3e37bb263fa1302267178381d889]
+## 1. Title, commencement and application[^c-c4bb3e37bb263fa1302267178381d889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-c4bb3e37bb263fa1302267178381d889]
+## 2. Interpretation[^c-c4bb3e37bb263fa1302267178381d889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Teacher Assessment: foundation phase[^key-c4bb3e37bb263fa1302267178381d889]
+## 3. Teacher Assessment: foundation phase[^c-c4bb3e37bb263fa1302267178381d889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Teacher Assessment: second and third key stages[^key-c4bb3e37bb263fa1302267178381d889]
+## 4. Teacher Assessment: second and third key stages[^c-c4bb3e37bb263fa1302267178381d889]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4bb3e37bb263fa1302267178381d889]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4bb3e37bb263fa1302267178381d889]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c4bb3e37bb263fa1302267178381d889]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c4bb3e37bb263fa1302267178381d889]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c4bb3e37bb263fa1302267178381d889]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2014/1999) revoked (1.9.2024) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2022/517/regulation/6/3)
+[^c-c4bb3e37bb263fa1302267178381d889]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2014/1999) revoked (1.9.2024) by [The Education (Revocation of Assessment Arrangements in the National Curriculum and Miscellaneous Amendments) (Wales) Regulations 2022 (S.I. 2022/517)](https://www.legislation.gov.uk/wsi/2022/517), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/517/regulation/1/2), [6(3)](https://www.legislation.gov.uk/wsi/2022/517/regulation/6/3)

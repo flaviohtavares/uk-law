@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 130. Control of advertisements[^key-561f2417ebe6d3d6192f687b9bbe2555][^key-4fc75f77b430cfb2d81d76e1f77ac3dd][^key-97e39ce414f03726ecb058ab715dd8c1][^key-323eda43319f52f0646660f5acc40a68][^key-97e39ce414f03726ecb058ab715dd8c1]
+## 130. Control of advertisements[^c-561f2417ebe6d3d6192f687b9bbe2555][^c-4fc75f77b430cfb2d81d76e1f77ac3dd][^c-97e39ce414f03726ecb058ab715dd8c1][^c-323eda43319f52f0646660f5acc40a68][^c-97e39ce414f03726ecb058ab715dd8c1]
 
 *Extent: N.I.*
 
@@ -40,18 +40,18 @@ summary: ''
 
 before the order is made or approved.
 
-(6)[^key-9afe75a7e45f88c041323891b866bb84][^key-00594f019b07dc8ea54e29d776419ed6] Where the display of advertisements in accordance with regulations made under this section involves development of land, planning permission for that development shall be deemed to be granted by virtue of this section, and no application shall be necessary in that behalf under Part 3.
+(6)[^c-9afe75a7e45f88c041323891b866bb84][^c-00594f019b07dc8ea54e29d776419ed6] Where the display of advertisements in accordance with regulations made under this section involves development of land, planning permission for that development shall be deemed to be granted by virtue of this section, and no application shall be necessary in that behalf under Part 3.
 
 ## Annotations
 
-[^key-561f2417ebe6d3d6192f687b9bbe2555]: Commencement: S. 130 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
+[^c-561f2417ebe6d3d6192f687b9bbe2555]: Commencement: S. 130 in operation at 13.2.2015 for specified purposes by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1)
 
-[^key-4fc75f77b430cfb2d81d76e1f77ac3dd]: Commencement: S. 130 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
+[^c-4fc75f77b430cfb2d81d76e1f77ac3dd]: Commencement: S. 130 in operation at 1.4.2015 in so far as not already in operation by [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [art. 3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2)) (as amended (16.3.2016) by [S.R. 2016/159](https://www.legislation.gov.uk/nisr/2016/159), art. 2)
 
-[^key-97e39ce414f03726ecb058ab715dd8c1]: Modification: Pt. 4 (except chpts. 1, 2) applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
+[^c-97e39ce414f03726ecb058ab715dd8c1]: Modification: Pt. 4 (except chpts. 1, 2) applied with modification(s) (1.4.2015) by [The Planning General Regulations (Northern Ireland) 2015 (S.R. 2015/39)](https://www.legislation.gov.uk/nisr/2015/39), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2015/39/regulation/1/1), [2](https://www.legislation.gov.uk/nisr/2015/39/regulation/2) (with [regs. 3-10](https://www.legislation.gov.uk/nisr/2015/39/regulation/3))
 
-[^key-323eda43319f52f0646660f5acc40a68]: Modification: [Ss. 105-155](https://www.legislation.gov.uk/nia/2011/25/section/105): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-323eda43319f52f0646660f5acc40a68]: Modification: [Ss. 105-155](https://www.legislation.gov.uk/nia/2011/25/section/105): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-9afe75a7e45f88c041323891b866bb84]: Modification: S. 130(6) excluded (1.4.2015) by [The Planning (General Permitted Development) Order (Northern Ireland) 2015 (S.R. 2015/70)](https://www.legislation.gov.uk/nisr/2015/70), [art. 1(3)](https://www.legislation.gov.uk/nisr/2015/70/article/1/3)[(4)](https://www.legislation.gov.uk/nisr/2015/70/article/1/4) (with [art. 8(2)](https://www.legislation.gov.uk/nisr/2015/70/article/8/2))
+[^c-9afe75a7e45f88c041323891b866bb84]: Modification: S. 130(6) excluded (1.4.2015) by [The Planning (General Permitted Development) Order (Northern Ireland) 2015 (S.R. 2015/70)](https://www.legislation.gov.uk/nisr/2015/70), [art. 1(3)](https://www.legislation.gov.uk/nisr/2015/70/article/1/3)[(4)](https://www.legislation.gov.uk/nisr/2015/70/article/1/4) (with [art. 8(2)](https://www.legislation.gov.uk/nisr/2015/70/article/8/2))
 
-[^key-00594f019b07dc8ea54e29d776419ed6]: Modification: S. 130(6) excluded (1.4.2015) by [The Planning (General Development Procedure) Order (Northern Ireland) 2015 (S.R. 2015/72)](https://www.legislation.gov.uk/nisr/2015/72), [art. 1(1)](https://www.legislation.gov.uk/nisr/2015/72/article/1/1)[(3)](https://www.legislation.gov.uk/nisr/2015/72/article/1/3)
+[^c-00594f019b07dc8ea54e29d776419ed6]: Modification: S. 130(6) excluded (1.4.2015) by [The Planning (General Development Procedure) Order (Northern Ireland) 2015 (S.R. 2015/72)](https://www.legislation.gov.uk/nisr/2015/72), [art. 1(1)](https://www.legislation.gov.uk/nisr/2015/72/article/1/1)[(3)](https://www.legislation.gov.uk/nisr/2015/72/article/1/3)

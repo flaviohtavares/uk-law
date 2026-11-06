@@ -88,10 +88,10 @@ The following Regulations are revoked—
 - “**the Crew Regulations**” means the Merchant Shipping (Local Passenger Vessels) (Crew) Regulations 2006;
 - “**bareboat charter terms**” has the meaning given in section 17(11) of the Act;
 - “**boatmaster**” has the meaning given in regulation 7;
-- [^key-311eb879c86f5db97d93f26f56161be7]...
+- [^c-311eb879c86f5db97d93f26f56161be7]...
 - “**boatmaster's licence**” means a licence issued by the Secretary of State under Part 2;
 - “**crew**” includes every person, other than a master or a pilot, employed or engaged in any capacity on board a vessel;
-- [^key-c9f13f8b4f5e14bc915e643cba06434e]...
+- [^c-c9f13f8b4f5e14bc915e643cba06434e]...
 - “**MCA**” means the Maritime and Coastguard Agency, an executive agency of the Department for Transport;
 - “**master**” includes every person (except a pilot) having command or charge of a vessel;
 - “**Merchant Shipping Notice**” means a notice described as such and issued by the MCA, and a reference to a particular Merchant Shipping Notice includes a reference to a Merchant Shipping Notice amending or replacing that Notice which is stated to be considered by the Secretary of State to be relevant from time to time;
@@ -156,7 +156,7 @@ The following Regulations are revoked—
 
 is a reference to a licence or endorsement of that class as specified in Table 2 in regulation 14.
 
-(5)[^key-3de0bf5df976aec1641690ef8e1dc557] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-3de0bf5df976aec1641690ef8e1dc557] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 5. Extension of provisions to non-United Kingdom ships
 
@@ -191,23 +191,23 @@ is a reference to a licence or endorsement of that class as specified in Table 2
     - (ii) 15 miles from its point of arrival; and
   - (b) never more than 5 miles from land;
 - “**liquefied gas carrier**” means a vessel constructed or adapted and used for the carriage in bulk of any liquefied gas or other product listed in chapter 19 of the International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk (1993 Edition) [^c22390921], published by the International Maritime Organization;
-- “[^key-2976823a467a390712aebe0612fc5895]**normal duties**”, in relation to the holder of a boatmaster’s licence, means the duties normally performed by a person holding a boatmaster’s licence (with or without endorsement);
+- “[^c-2976823a467a390712aebe0612fc5895]**normal duties**”, in relation to the holder of a boatmaster’s licence, means the duties normally performed by a person holding a boatmaster’s licence (with or without endorsement);
 - “**oil tanker**” means a vessel constructed and used for the carriage of petroleum and petroleum products in bulk;
 - “**pilotage exemption certificate**” has the meaning given in section 8(1) of the Pilotage Act 1987 [^c22390931];
 - “**Port of London area**” means the River Thames from Putney Bridge to Margaretness;
 - “**prescribed fee**” means the fee prescribed by the Secretary of State under section 302 of the Act;
 - “**qualifying service**” means service which has been undertaken—
-  - (a) in the United Kingdom [^key-a626f451041c48298bd2b8370642f050]...,
+  - (a) in the United Kingdom [^c-a626f451041c48298bd2b8370642f050]...,
   - (b) in the appropriate deck capacity, and
-  - (c) in the waters and on vessels of a type appropriate to the class of boatmaster's licence or endorsement [^key-92a8a69d32bfa74da11978f5555f4f18]... applied for;
+  - (c) in the waters and on vessels of a type appropriate to the class of boatmaster's licence or endorsement [^c-92a8a69d32bfa74da11978f5555f4f18]... applied for;
 - “**qualifying service time**” has the meaning given in regulation 19(1)(b);
 - “**relevant local knowledge**” means knowledge of local regulations and other navigation requirements and of the hazards, other features and situations specific to an area of water which affect safe navigation in that area;
 - “**relevant local knowledge endorsement**” means an endorsement authorising operations in specified waters (or in a specified part of the waters) for which relevant local knowledge is required; “**relevant medical condition**” means a medical condition or disability which affects a person's ability to perform normal duties;
-- [^key-fe8fdfd7fe7b937a00c093ba4e8d6a43]...
+- [^c-fe8fdfd7fe7b937a00c093ba4e8d6a43]...
 - “**Ro-Ro vessel**” means a vessel in which vehicles or cargo can be loaded or unloaded in a horizontal direction**;**
 - “**specialist towing and pushing operations**” means operations involving the towing or pushing of vessels, including ship towage with tugs (other than emergency towing assistance and rigid pushing operations on waters of category A or B or waters of category C if not linked to other waters);
-- [^key-503a71a3ba18b447c7636e78ac1be86c]...
-- [^key-52845a24377f934ce9d3a777a1ffc302]...
+- [^c-503a71a3ba18b447c7636e78ac1be86c]...
+- [^c-52845a24377f934ce9d3a777a1ffc302]...
 
 ### Persons and vessels to which Part 2 applies
 
@@ -234,14 +234,14 @@ This Part does not apply to a person serving as master of a vessel specified by 
 
 - (a) a boatmaster's licence of the Tier and level specified in column (1) of Table 2 in Regulation 14 which authorises that person to serve as master of the vessel being navigated in the category of waters in which it is being navigated, together with—
   - (i) the endorsements listed in that Table, or an equivalent qualification specified by the Secretary of State, which are required to authorise that person to serve as master on that vessel or engage in operations which the vessel is undertaking, and
-  - (ii) unless regulation 12 applies, the relevant local knowledge endorsements which are required by regulation 17 to authorise the master to navigate the waters being navigated; or[^key-30a20950ff761004be5627fc020c3dac]
-- (b)[^key-f235b3e3ac87aaa032e5e3fc9375016d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-c63983408f0158984d899e7df8429ccc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) unless regulation 12 applies, the relevant local knowledge endorsements which are required by regulation 17 to authorise the master to navigate the waters being navigated; or[^c-30a20950ff761004be5627fc020c3dac]
+- (b)[^c-f235b3e3ac87aaa032e5e3fc9375016d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-c63983408f0158984d899e7df8429ccc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) such other qualification, in such circumstances and subject to such conditions, as may be specified by the Secretary of State.
 
 (2) A person does not contravene this regulation while that person —
 
-- (a) is navigating a vessel as part of the qualifying service required under regulations 19, 20, 21, 22, 24 [^key-91d92ec0591a61a0991989cc6982ae70]... under the direction of a person who is qualified in accordance with this regulation,
+- (a) is navigating a vessel as part of the qualifying service required under regulations 19, 20, 21, 22, 24 [^c-91d92ec0591a61a0991989cc6982ae70]... under the direction of a person who is qualified in accordance with this regulation,
 - (b) is undergoing a practical test of seamanship and vessel handling skill which is—
   - (i) conducted on board a vessel of a kind reasonably representative of the class of vessel the command of which the licence or endorsement would authorise, and
   - (ii) in waters appropriate to that class of licence or endorsement, or
@@ -258,7 +258,7 @@ This Part does not apply to a person serving as master of a vessel specified by 
 
 (2) In this regulation “**pilotage direction**” has the meaning given in section 7(1) of the Pilotage Act 1987.
 
-#### 11. Restrictions on holders of a Rhine navigation licence[^key-886fb2f0ad9be8dddfc3fd9fcf8db65b]
+#### 11. Restrictions on holders of a Rhine navigation licence[^c-886fb2f0ad9be8dddfc3fd9fcf8db65b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -266,9 +266,9 @@ This Part does not apply to a person serving as master of a vessel specified by 
 
 (1) This regulation applies to a boatmaster who—
 
-- (a) is required by regulation 9(1)(a)(ii) to hold a relevant local knowledge endorsement; or[^key-80b7339289fd2391fcf799bbc2648335]
-- (b)[^key-833e7507138c7b8ed8724f03c4fbeea5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-be83ccf5af1f6aae9b23ffb30170000f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) is required by regulation 9(1)(a)(ii) to hold a relevant local knowledge endorsement; or[^c-80b7339289fd2391fcf799bbc2648335]
+- (b)[^c-833e7507138c7b8ed8724f03c4fbeea5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-be83ccf5af1f6aae9b23ffb30170000f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) in any other circumstances, would be required to hold a relevant local knowledge endorsement if that person held a boatmaster's licence.
 
 (2) A boatmaster to whom this regulation applies is qualified to serve as master of a vessel engaged on a voyage in waters where a relevant local knowledge endorsement is or would be required, where—
@@ -489,7 +489,7 @@ appropriate to the nature of the vessel and operations being undertaken.
 
 ### Boatmasters' certificates
 
-#### 27. Boatmasters' certificates: classes of certificate[^key-e2d8640172ae128d5f9e9fd1c65b389e]
+#### 27. Boatmasters' certificates: classes of certificate[^c-e2d8640172ae128d5f9e9fd1c65b389e]
 
 **No longer in force.**
 
@@ -517,7 +517,7 @@ appropriate to the nature of the vessel and operations being undertaken.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 33. Rhine navigation licences: medical fitness[^key-e2d8640172ae128d5f9e9fd1c65b389e]
+#### 33. Rhine navigation licences: medical fitness[^c-e2d8640172ae128d5f9e9fd1c65b389e]
 
 **No longer in force.**
 
@@ -550,22 +550,22 @@ appropriate to the nature of the vessel and operations being undertaken.
 
 (1) Subject to paragraph (2), the Secretary of State must keep a record of—
 
-- (a) every boatmaster's licence (including endorsements) [^key-c9bdcbc43171cb9c8725fcf56da677b1]... issued pursuant to these Regulations and currently valid,
-- (b) every licence, certificate or other qualification previously held by the holder of a boatmaster's licence [^key-5e6c351ac40f504927161a6f2dcc77ab]...,
+- (a) every boatmaster's licence (including endorsements) [^c-c9bdcbc43171cb9c8725fcf56da677b1]... issued pursuant to these Regulations and currently valid,
+- (b) every licence, certificate or other qualification previously held by the holder of a boatmaster's licence [^c-5e6c351ac40f504927161a6f2dcc77ab]...,
 - (c) every suspension, revocation or alteration of those licences, certificates or other qualifications, and
 - (d) all examination and assessment evidence, application forms, documents relating to applications (including medical evidence) and other matters affecting current and previous licences, certificates and other qualifications.
 
 (2) The Secretary of State need not retain a record of any document—
 
 - (a) mentioned in paragraph (1)(a) or (b) for a period of more than 10 years after the date when that document expired or otherwise ceased to be valid;
-- (b) mentioned in paragraph 1(c) or (d) for a period of more than 10 years after the date when the boatmaster's licence [^key-e7b70f19dcdb12019691434fb5f5a9fe]... to which the document relates has expired or otherwise ceased to be valid.
+- (b) mentioned in paragraph 1(c) or (d) for a period of more than 10 years after the date when the boatmaster's licence [^c-e7b70f19dcdb12019691434fb5f5a9fe]... to which the document relates has expired or otherwise ceased to be valid.
 
 #### 36. Loss of documents
 
-If the holder of a boatmaster's licence [^key-26a20d51535ad718fc091e5bd8bfc7a8]... loses it, the Secretary of State may—
+If the holder of a boatmaster's licence [^c-26a20d51535ad718fc091e5bd8bfc7a8]... loses it, the Secretary of State may—
 
-- (a) if satisfied that the loss occurred through no fault of the holder, issue a replacement of the licence [^key-b84037a1553ed07b31de9cd767af1ebd]... to the holder free of charge, or
-- (b) if not so satisfied, issue a replacement licence [^key-b84037a1553ed07b31de9cd767af1ebd]... to the holder on payment of the prescribed fee.
+- (a) if satisfied that the loss occurred through no fault of the holder, issue a replacement of the licence [^c-b84037a1553ed07b31de9cd767af1ebd]... to the holder free of charge, or
+- (b) if not so satisfied, issue a replacement licence [^c-b84037a1553ed07b31de9cd767af1ebd]... to the holder on payment of the prescribed fee.
 
 ## PART 3 — LOCAL PASSENGER VESSELS: QUALIFICATIONS OF CREW MEMBERS
 
@@ -577,8 +577,8 @@ This Part applies to a United Kingdom passenger ship of Class IV, V, VI and VI(A
 
 The owner of a vessel to which this Part applies must give notice in writing to the Secretary of State proposing either that it is appropriate or that it is not appropriate that, when the vessel is engaged on a voyage, a member of the crew should be a holder of—
 
-- (a) a boatmaster's licence of any class, or[^key-b3ed4777e74b6969892e593546415b7f]
-- (b)[^key-b8b03be701e4a660edd3fa5095712e86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) a boatmaster's licence of any class, or[^c-b3ed4777e74b6969892e593546415b7f]
+- (b)[^c-b8b03be701e4a660edd3fa5095712e86] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) any other qualification which it would be appropriate for the master of the vessel to hold and which is prescribed for those purposes in Part 2.
 
 ### 39. Secretary of State's approval
@@ -639,9 +639,9 @@ This Part applies to a person who—
   - (ii) a hovercraft carrying more than 12 passengers, and
 - (b) is not a person to whom the following apply—
   - (i) the Working Time Regulations 1998 [^c22390991],
-  - (ii)[^key-e3fb38bd7a906f5540c9c4b47d5299d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-e3fb38bd7a906f5540c9c4b47d5299d0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) the Merchant Shipping (Working Time: Inland Waterways) Regulations 2003 [^c22391011].
-  - (iv)[^key-ff5c9b4e16266e15dfd58d5aaae33d01] the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018.
+  - (iv)[^c-ff5c9b4e16266e15dfd58d5aaae33d01] the Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018.
 
 ### 44. Self-employed masters' hours of work
 
@@ -679,9 +679,9 @@ the master must take a rest period of not less than 30 minutes at the end of tha
 
 ### 46. Offence: failing to disclose a medical condition
 
-(1) A person who contravenes regulation 25(1) [^key-11625d4357ca8862e0ef40745f551b09]... is guilty of an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(1) A person who contravenes regulation 25(1) [^c-11625d4357ca8862e0ef40745f551b09]... is guilty of an offence and is liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-(2) The owner of a vessel who causes or permits it to begin a voyage when the person serving as its master is a person who contravenes regulation 25(1) [^key-11625d4357ca8862e0ef40745f551b09]... is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
+(2) The owner of a vessel who causes or permits it to begin a voyage when the person serving as its master is a person who contravenes regulation 25(1) [^c-11625d4357ca8862e0ef40745f551b09]... is guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
 (3) It is a defence to a charge under this regulation that the person charged took all reasonable steps to avoid commission of the offence.
 
@@ -741,7 +741,7 @@ the master must take a rest period of not less than 30 minutes at the end of tha
 (1) This regulation applies to a person who, immediately before these Regulations come into force, holds one or both of the following issued under the 2006 Regulations (“**a qualification under the 2006 Regulations**”)—
 
 - (a) a boatmaster's licence with or without an endorsement,
-- (b)[^key-c743a9d8af618fbd0957dd35a4265e66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c743a9d8af618fbd0957dd35a4265e66] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Notwithstanding the revocation of the 2006 Regulations, a person to whom this regulation applies is to be treated as qualified to serve as master of a vessel engaged on a voyage authorised by a qualification under the 2006 Regulations until whichever is the earlier of—
 
@@ -901,15 +901,15 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22390851]: Marginal citation: [S.I. 2006/2055](https://www.legislation.gov.uk/uksi/2006/2055), as amended by [S.I. 2006/3225](https://www.legislation.gov.uk/uksi/2006/3225); there is another amending instrument, which is not relevant.
 
-[^key-311eb879c86f5db97d93f26f56161be7]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/4/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-311eb879c86f5db97d93f26f56161be7]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/4/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(2)(a)(i)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/2/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c9f13f8b4f5e14bc915e643cba06434e]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/4/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9f13f8b4f5e14bc915e643cba06434e]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/4/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/2/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22390871]: Marginal citation: [S.I. 1992/2356](https://www.legislation.gov.uk/uksi/1992/2356), in which category A, B, C and D waters are defined by reference to MSN 1827(M) (which superseded MSN M1504).
 
 [^c22390881]: Marginal citation: [S.I. 1996/75](https://www.legislation.gov.uk/uksi/1996/75), amended by [S.I. 2004/302](https://www.legislation.gov.uk/uksi/2004/302).
 
-[^key-3de0bf5df976aec1641690ef8e1dc557]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2015/410/regulation/4/5) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3de0bf5df976aec1641690ef8e1dc557]: Textual amendment: [Reg. 4(5)](https://www.legislation.gov.uk/uksi/2015/410/regulation/4/5) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(2)(b)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22390891]: Marginal citation: [1987 c. 21](https://www.legislation.gov.uk/ukpga/1987/21). Section 3 was amended by [S.I. 2001/2237](https://www.legislation.gov.uk/uksi/2001/2237), 2002/808, 2003/1230 and 2006/1031.
 
@@ -919,67 +919,67 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22390921]: Marginal citation: ISBN 9789280112771.
 
-[^key-2976823a467a390712aebe0612fc5895]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/6/1) substituted (31.12.2020) by [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2976823a467a390712aebe0612fc5895]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/6/1) substituted (31.12.2020) by [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(3)(a)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22390931]: Marginal citation: [Section 8(1)](https://www.legislation.gov.uk/uksi/2015/410/section/8/1) was amended by the [Marine Navigation Act 2013 (c. 23)](https://www.legislation.gov.uk/ukpga/2013/23), [sections 2](https://www.legislation.gov.uk/ukpga/2013/23/section/2) and 3.
 
-[^key-a626f451041c48298bd2b8370642f050]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/6/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a626f451041c48298bd2b8370642f050]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/6/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-92a8a69d32bfa74da11978f5555f4f18]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/6/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-92a8a69d32bfa74da11978f5555f4f18]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/6/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/3/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fe8fdfd7fe7b937a00c093ba4e8d6a43]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/6/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(3)(c)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe8fdfd7fe7b937a00c093ba4e8d6a43]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/6/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(3)(c)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-503a71a3ba18b447c7636e78ac1be86c]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/6/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(3)(d)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-503a71a3ba18b447c7636e78ac1be86c]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/6/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(3)(d)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/3/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-52845a24377f934ce9d3a777a1ffc302]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/6/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(3)(e)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-52845a24377f934ce9d3a777a1ffc302]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/410/regulation/6/1) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(3)(e)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/3/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-30a20950ff761004be5627fc020c3dac]: Textual amendment: Word in [reg. 9(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/410/regulation/9/1/a/ii) inserted (31.12.2020) by [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30a20950ff761004be5627fc020c3dac]: Textual amendment: Word in [reg. 9(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2015/410/regulation/9/1/a/ii) inserted (31.12.2020) by [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(4)(a)(i)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/4/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f235b3e3ac87aaa032e5e3fc9375016d]: Textual amendment: [Reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2015/410/regulation/9/1/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f235b3e3ac87aaa032e5e3fc9375016d]: Textual amendment: [Reg. 9(1)(b)](https://www.legislation.gov.uk/uksi/2015/410/regulation/9/1/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/4/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c63983408f0158984d899e7df8429ccc]: Textual amendment: [Reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2015/410/regulation/9/1/c) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/4/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c63983408f0158984d899e7df8429ccc]: Textual amendment: [Reg. 9(1)(c)](https://www.legislation.gov.uk/uksi/2015/410/regulation/9/1/c) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/4/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-91d92ec0591a61a0991989cc6982ae70]: Textual amendment: Words in [reg. 9(2)(a)](https://www.legislation.gov.uk/uksi/2015/410/regulation/9/2/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-91d92ec0591a61a0991989cc6982ae70]: Textual amendment: Words in [reg. 9(2)(a)](https://www.legislation.gov.uk/uksi/2015/410/regulation/9/2/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(4)(b)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-886fb2f0ad9be8dddfc3fd9fcf8db65b]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/410/regulation/11) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-886fb2f0ad9be8dddfc3fd9fcf8db65b]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2015/410/regulation/11) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(5)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-80b7339289fd2391fcf799bbc2648335]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2015/410/regulation/12/1/a) inserted (31.12.2020) by [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-80b7339289fd2391fcf799bbc2648335]: Textual amendment: Word in [reg. 12(1)(a)](https://www.legislation.gov.uk/uksi/2015/410/regulation/12/1/a) inserted (31.12.2020) by [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(6)(a)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/6/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-833e7507138c7b8ed8724f03c4fbeea5]: Textual amendment: [Reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2015/410/regulation/12/1/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-833e7507138c7b8ed8724f03c4fbeea5]: Textual amendment: [Reg. 12(1)(b)](https://www.legislation.gov.uk/uksi/2015/410/regulation/12/1/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(6)(b)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/6/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-be83ccf5af1f6aae9b23ffb30170000f]: Textual amendment: [Reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2015/410/regulation/12/1/c) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-be83ccf5af1f6aae9b23ffb30170000f]: Textual amendment: [Reg. 12(1)(c)](https://www.legislation.gov.uk/uksi/2015/410/regulation/12/1/c) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(6)(c)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/6/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e2d8640172ae128d5f9e9fd1c65b389e]: Textual amendment: [Regs. 27-33](https://www.legislation.gov.uk/uksi/2015/410/regulation/27) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e2d8640172ae128d5f9e9fd1c65b389e]: Textual amendment: [Regs. 27-33](https://www.legislation.gov.uk/uksi/2015/410/regulation/27) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(7)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/7); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22390961]: Marginal citation: [1968 c. xxxii](https://www.legislation.gov.uk/ukla/1968/32).
 
 [^c22390971]: Marginal citation: [1964 c. 40](https://www.legislation.gov.uk/ukpga/1964/40). Section 14 was amended by: the [Transport Act 1981 (c. 56)](https://www.legislation.gov.uk/ukpga/1981/56), [section 18](https://www.legislation.gov.uk/ukpga/1981/56/section/18) and Schedule 6 paragraphs 2, 3, 12 and 14 and Schedule 12, Part II; the [Criminal Justice Act 1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), [sections 37](https://www.legislation.gov.uk/ukpga/1982/48/section/37) and 46; the [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), [section 63](https://www.legislation.gov.uk/ukpga/1992/42/section/63) and Schedule 3, paragraph 1; the [Planning Act 2008 (c. 29)](https://www.legislation.gov.uk/ukpga/2008/29), [section 36](https://www.legislation.gov.uk/ukpga/2008/29/section/36) and Schedule 2, paragraphs 8 and 9; [S.I. 2006/1177](https://www.legislation.gov.uk/uksi/2006/1177) and [S.I. 2009/1941](https://www.legislation.gov.uk/uksi/2009/1941).
 
-[^key-c9bdcbc43171cb9c8725fcf56da677b1]: Textual amendment: Words in [reg. 35(1)(a)](https://www.legislation.gov.uk/uksi/2015/410/regulation/35/1/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(8)(a)(i)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/8/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c9bdcbc43171cb9c8725fcf56da677b1]: Textual amendment: Words in [reg. 35(1)(a)](https://www.legislation.gov.uk/uksi/2015/410/regulation/35/1/a) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(8)(a)(i)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/8/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5e6c351ac40f504927161a6f2dcc77ab]: Textual amendment: Words in [reg. 35(1)(b)](https://www.legislation.gov.uk/uksi/2015/410/regulation/35/1/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/8/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5e6c351ac40f504927161a6f2dcc77ab]: Textual amendment: Words in [reg. 35(1)(b)](https://www.legislation.gov.uk/uksi/2015/410/regulation/35/1/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(8)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/8/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e7b70f19dcdb12019691434fb5f5a9fe]: Textual amendment: Words in [reg. 35(2)(b)](https://www.legislation.gov.uk/uksi/2015/410/regulation/35/2/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e7b70f19dcdb12019691434fb5f5a9fe]: Textual amendment: Words in [reg. 35(2)(b)](https://www.legislation.gov.uk/uksi/2015/410/regulation/35/2/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(8)(b)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-26a20d51535ad718fc091e5bd8bfc7a8]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2015/410/regulation/36) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(9)(a)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-26a20d51535ad718fc091e5bd8bfc7a8]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2015/410/regulation/36) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(9)(a)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/9/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b84037a1553ed07b31de9cd767af1ebd]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2015/410/regulation/36) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(9)(b)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b84037a1553ed07b31de9cd767af1ebd]: Textual amendment: Words in [reg. 36](https://www.legislation.gov.uk/uksi/2015/410/regulation/36) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(9)(b)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/9/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b3ed4777e74b6969892e593546415b7f]: Textual amendment: Word in [reg. 38(a)](https://www.legislation.gov.uk/uksi/2015/410/regulation/38/a) inserted (31.12.2020) by [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(10)(a)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3ed4777e74b6969892e593546415b7f]: Textual amendment: Word in [reg. 38(a)](https://www.legislation.gov.uk/uksi/2015/410/regulation/38/a) inserted (31.12.2020) by [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(10)(a)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b8b03be701e4a660edd3fa5095712e86]: Textual amendment: [Reg. 38(b)](https://www.legislation.gov.uk/uksi/2015/410/regulation/38/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(10)(b)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b8b03be701e4a660edd3fa5095712e86]: Textual amendment: [Reg. 38(b)](https://www.legislation.gov.uk/uksi/2015/410/regulation/38/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(10)(b)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22390981]: Marginal citation: [1968 c. 59](https://www.legislation.gov.uk/ukpga/1968/59).
 
 [^c22390991]: Marginal citation: [S.I. 1998/1833](https://www.legislation.gov.uk/uksi/1998/1833); the relevant amending instruments are [S.I. 2002/3128](https://www.legislation.gov.uk/uksi/2002/3128), 2003/1684, 2003/3049, 2004/1713, 2007/2079 and 2014/308.
 
-[^key-e3fb38bd7a906f5540c9c4b47d5299d0]: Textual amendment: [Reg. 43(b)(ii)](https://www.legislation.gov.uk/uksi/2015/410/regulation/43/b/ii) omitted (6.4.2018) by virtue of [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 1](https://www.legislation.gov.uk/uksi/2018/58/regulation/1), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2018/58/schedule/2/paragraph/9/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
+[^c-e3fb38bd7a906f5540c9c4b47d5299d0]: Textual amendment: [Reg. 43(b)(ii)](https://www.legislation.gov.uk/uksi/2015/410/regulation/43/b/ii) omitted (6.4.2018) by virtue of [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 1](https://www.legislation.gov.uk/uksi/2018/58/regulation/1), [Sch. 2 para. 9(a)](https://www.legislation.gov.uk/uksi/2018/58/schedule/2/paragraph/9/a) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
 
 [^c22391011]: Marginal citation: [S.I. 2003/3049](https://www.legislation.gov.uk/uksi/2003/3049), amended by S.I 2006/3223.
 
-[^key-ff5c9b4e16266e15dfd58d5aaae33d01]: Textual amendment: [Reg. 43(b)(iv)](https://www.legislation.gov.uk/uksi/2015/410/regulation/43/b/iv) inserted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 1](https://www.legislation.gov.uk/uksi/2018/58/regulation/1), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2018/58/schedule/2/paragraph/9/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
+[^c-ff5c9b4e16266e15dfd58d5aaae33d01]: Textual amendment: [Reg. 43(b)(iv)](https://www.legislation.gov.uk/uksi/2015/410/regulation/43/b/iv) inserted (6.4.2018) by [The Merchant Shipping (Maritime Labour Convention) (Hours of Work) Regulations 2018 (S.I. 2018/58)](https://www.legislation.gov.uk/uksi/2018/58), [reg. 1](https://www.legislation.gov.uk/uksi/2018/58/regulation/1), [Sch. 2 para. 9(b)](https://www.legislation.gov.uk/uksi/2018/58/schedule/2/paragraph/9/b) (with [regs. 3](https://www.legislation.gov.uk/uksi/2018/58/regulation/3), [4](https://www.legislation.gov.uk/uksi/2018/58/regulation/4))
 
-[^key-11625d4357ca8862e0ef40745f551b09]: Textual amendment: Words in [reg. 46](https://www.legislation.gov.uk/uksi/2015/410/regulation/46) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-11625d4357ca8862e0ef40745f551b09]: Textual amendment: Words in [reg. 46](https://www.legislation.gov.uk/uksi/2015/410/regulation/46) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(11)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/11); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22391021]: Marginal citation: [Section 258(1)](https://www.legislation.gov.uk/uksi/2015/410/section/258/1) was amended by the [Merchant Shipping and Maritime Security Act 1997 (c. 28)](https://www.legislation.gov.uk/ukpga/1997/28), [section 9](https://www.legislation.gov.uk/ukpga/1997/28/section/9) and Schedule 1, paragraph 4 and Schedule 7, part 1.
 
@@ -987,6 +987,6 @@ A full impact assessment of the effect that this instrument will have on the cos
 
 [^c22391041]: Marginal citation: [Section 284](https://www.legislation.gov.uk/uksi/2015/410/section/284) was amended by the Merchant Shipping and Maritime Security Act 1997, section 9 and Schedule 1, paragraph 5.
 
-[^key-c743a9d8af618fbd0957dd35a4265e66]: Textual amendment: [Reg. 50(1)(b)](https://www.legislation.gov.uk/uksi/2015/410/regulation/50/1/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(12)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c743a9d8af618fbd0957dd35a4265e66]: Textual amendment: [Reg. 50(1)(b)](https://www.legislation.gov.uk/uksi/2015/410/regulation/50/1/b) omitted (31.12.2020) by virtue of [The Merchant Shipping (Inland Waterways) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/808)](https://www.legislation.gov.uk/uksi/2019/808), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/808/regulation/1/2), [3(12)](https://www.legislation.gov.uk/uksi/2019/808/regulation/3/12); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22391051]: Marginal citation: [S.I. 1993/1213](https://www.legislation.gov.uk/uksi/1993/1213). The relevant provisions of the Merchant Shipping (Local Passenger Vessels) (Masters' Licences and Hours, Manning and Training) Regulations 1993 were revoked by the Crew Regulations, but by virtue of regulation 5 of the Crew Regulations approvals granted under the 1993 Regulations continued to have effect until a date on which an approval under the Crew Regulations took effect.

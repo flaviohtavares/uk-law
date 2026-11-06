@@ -45,7 +45,7 @@ Coming into force
 
 The Welsh Ministers, in exercise of the powers conferred by sections 50, 51, 52, 53 and 196(2) of the Social Services and Well-being (Wales) Act 2014[^f00001][^f00002], make the following Regulations.
 
-## 1. Title, commencement, application and interpretation[^key-5da1da1eda80e830cb5c8f1b561b0b9d]
+## 1. Title, commencement, application and interpretation[^c-5da1da1eda80e830cb5c8f1b561b0b9d]
 
 (1) The title of these Regulations is the Care and Support (Direct Payments) (Wales) Regulations 2015.
 
@@ -73,7 +73,7 @@ The Welsh Ministers, in exercise of the powers conferred by sections 50, 51, 52,
 
 (5) In these Regulations references to a person’s needs “for care and support” are to be read as a person’s “needs for support” where the person is a carer.
 
-## 2. Duty to make direct payments[^key-ac06dafeae9c1afdd86a452a16ceb026]
+## 2. Duty to make direct payments[^c-ac06dafeae9c1afdd86a452a16ceb026]
 
 Where—
 
@@ -86,11 +86,11 @@ Where—
 
 a local authority must make direct payments towards the cost of meeting that person’s needs for care and support unless the person is a person to whom regulation 14 applies.
 
-## 3. Effect of making payments[^key-16d41aca9a37e203979d33fe1589c35a]
+## 3. Effect of making payments[^c-16d41aca9a37e203979d33fe1589c35a]
 
 Where a local authority makes direct payments to a person, the making of the payments displaces the local authority’s duty or power to provide, directly or indirectly, to meet the needs, or that aspect of the needs, in relation to which the payments are made and for the duration of the period for which payments are made.
 
-## 4. Steps to enable informed choices about direct payments[^key-93b007499fc2e49c71516a1c60feecb3]
+## 4. Steps to enable informed choices about direct payments[^c-93b007499fc2e49c71516a1c60feecb3]
 
 (1) When a local authority—
 
@@ -113,7 +113,7 @@ it must provide information to A to ensure that A is able to make an informed ch
 
 (4) Where A is a child aged 16 or 17 who does not have capacity, or is a child below the age of 16 who does not have sufficient understanding to make an informed decision, the local authority must instead provide the information to a person with parental responsibility for A.
 
-## 5. Duty to consult and take other steps for persons without capacity[^key-89cdd3c6162a159f71fdb87c81ca1455]
+## 5. Duty to consult and take other steps for persons without capacity[^c-89cdd3c6162a159f71fdb87c81ca1455]
 
 Before considering whether direct payments are an appropriate way of meeting the needs of A where A is an adult without capacity, a local authority must—
 
@@ -128,7 +128,7 @@ Before considering whether direct payments are an appropriate way of meeting the
   - (iii) any other relevant factors that A would in the local authority’s view be likely to consider, if able to do so; and
 - (c) obtain an enhanced criminal record certificate issued under section 113B of the Police Act 1997[^f00007] in respect of P where P is an individual but is neither a relative of A nor a friend of A who is involved in A’s care.
 
-## 6. Conditions about using direct payments to pay relatives[^key-aa3290bcbee9733d07986b494724904c]
+## 6. Conditions about using direct payments to pay relatives[^c-aa3290bcbee9733d07986b494724904c]
 
 (1) A local authority may authorise the use of direct payments to pay a relative of A who is living in the same household if it considers that it is necessary to promote the well-being of A.
 
@@ -141,7 +141,7 @@ Before considering whether direct payments are an appropriate way of meeting the
 
 (4) Where a local authority does not consider that it is necessary to promote A’s well-being, it must impose a condition that direct payments are not to be used to pay a relative of A who is living in the same household.
 
-## 7. Conditions requiring vetting[^key-1aae125b1c5de644353637a46723f476]
+## 7. Conditions requiring vetting[^c-1aae125b1c5de644353637a46723f476]
 
 (1) Where a local authority makes direct payments under section 50 of the Act to P because A lacks capacity, it must impose conditions as set out in this regulation.
 
@@ -162,7 +162,7 @@ in respect of any person from whom a service is secured being a service for whic
 - (a) a relative of A; or
 - (b) a friend of A who is involved in the provision of care for A.
 
-## 8. Further conditions which a local authority may apply to the making of direct payments[^key-ba34eb09b53a8c802256e2337db5043a]
+## 8. Further conditions which a local authority may apply to the making of direct payments[^c-ba34eb09b53a8c802256e2337db5043a]
 
 (1) A local authority may make a direct payment subject to further conditions.
 
@@ -173,20 +173,20 @@ in respect of any person from whom a service is secured being a service for whic
 
 (3) A condition imposed under paragraph (2)(a) must not require that A’s needs may only be met by a particular person.
 
-## 9. Net payments or gross payments[^key-5e719e6583d656f228c8f847961d6036]
+## 9. Net payments or gross payments[^c-5e719e6583d656f228c8f847961d6036]
 
 (1) When a local authority decides to make direct payments, whether under regulation 2 or regulation 14 of these Regulations[^f00008], it must decide whether to make them as net payments or gross payments.
 
 (2) In deciding whether to make net payments or gross payments a local authority must take into account the effect on A having regard to A’s financial circumstances.
 
-## 10. Repayment of direct payments[^key-49f9ad5a95166f6a753714fca561a6e0]
+## 10. Repayment of direct payments[^c-49f9ad5a95166f6a753714fca561a6e0]
 
 A local authority may terminate its arrangements for making direct payments and may require repayment of all or part of the direct payments which it has made if it is satisfied either—
 
 - (a) that the payments have not been used to meet the need to which they relate; or
 - (b) that a condition imposed under regulation 6, 7, 8 or 14 has not been complied with.
 
-## 11. Reviews[^key-f95aa1edcf2120357f27806b5ec3397c]
+## 11. Reviews[^c-f95aa1edcf2120357f27806b5ec3397c]
 
 (1) A local authority must review the arrangements for the making of direct payments and the use which is being made of them—
 
@@ -220,7 +220,7 @@ A local authority may terminate its arrangements for making direct payments and 
 
 (5) In this regulation “person in a parental role” (“*person mewn rôl rhiant*”) includes a parent, a person with parental responsibility or other person who is looking after the child.
 
-## 12. Direct payments for a child[^key-faa467eeb922be659bbf72ee9daf52d4]
+## 12. Direct payments for a child[^c-faa467eeb922be659bbf72ee9daf52d4]
 
 (1) Where A is a child and a local authority makes direct payments under section 51 of the Act towards the cost of meeting that child’s care and support needs, if the condition in paragraph (2) is met then the local authority must meet the requirements of paragraph (3).
 
@@ -246,7 +246,7 @@ A local authority may terminate its arrangements for making direct payments and 
 - (d) “income-related employment and support allowance” (“*lwfans cyflogaeth a chymorth yn seiliedig ar incwm*”) means an income-related allowance under Part 1 of the Welfare Reform Act 2007[^f00012] (employment and support allowance);
 - (e) “universal credit” (“*credyd cynhwysol*”) is construed in accordance with Part 1 of the Welfare Reform Act 2012[^f00013].
 
-## 13. Direct payments for an adult who no longer has capacity[^key-58a89e3135fa25a85f5db0009fa1d950]
+## 13. Direct payments for an adult who no longer has capacity[^c-58a89e3135fa25a85f5db0009fa1d950]
 
 (1) A local authority need not terminate the making of direct payments under section 50 of the Act in relation to A where A is an adult to whom paragraph (2) applies and one of the circumstances in paragraph (3) applies.
 
@@ -259,7 +259,7 @@ A local authority may terminate its arrangements for making direct payments and 
   - (ii) another person who appears to the authority to be capable of managing the payments is prepared to accept and manage the payments on behalf of A during the periods of A’s incapacity; or
 - (b) condition 2 in subsection (4) of section 50 of the Act is met.
 
-## 14. Persons subject to requirements imposed in relation to drug or alcohol use[^key-9ac73b38954281f78e3e3f2925e1feb9]
+## 14. Persons subject to requirements imposed in relation to drug or alcohol use[^c-9ac73b38954281f78e3e3f2925e1feb9]
 
 (1) This regulation applies to persons listed in the Schedule.
 
@@ -272,7 +272,7 @@ A local authority may terminate its arrangements for making direct payments and 
 
 (4) The further condition is that the local authority is satisfied that B is an appropriate person to receive and manage payments on A’s behalf.
 
-## 15. Section 117 of the Mental Health Act 1983[^key-64456c4ef31d01f1033776af279f9026]
+## 15. Section 117 of the Mental Health Act 1983[^c-64456c4ef31d01f1033776af279f9026]
 
 (1) Where a local authority is under a duty to provide after-care services for a person under section 117 of the Mental Health Act 1983[^f00014] and the conditions in sections 50, 51 and 52 of the Act (as modified by Schedule A1) are met, then it must make direct payments to discharge its duty.
 
@@ -320,16 +320,16 @@ Minister for Health and Social Services, one of the Welsh Ministers
 
 21 October 2015
 
-## SCHEDULE — Adults whose needs the local authority may meet by making direct payments subject to certain conditions[^key-86b8c3ea3ac244fece927c036bdbb2da]
+## SCHEDULE — Adults whose needs the local authority may meet by making direct payments subject to certain conditions[^c-86b8c3ea3ac244fece927c036bdbb2da]
 
 Regulation 14(1)
 
-[^key-86b8c3ea3ac244fece927c036bdbb2da]
+[^c-86b8c3ea3ac244fece927c036bdbb2da]
 
 This Schedule applies to a person if they are—
 
-- (a) subject to a drug rehabilitation requirement, as defined by section 209 of the Criminal Justice Act 2003[^f00015] or paragraph 19 of Schedule 9 to the Sentencing Code[^key-f0685045d16ad8197b5706177d9403dc] , imposed by a community order within the meaning of section 177 of that Act or section 200 of that Code[^key-9ef4ebbca105089e2f57ac758e212138], or by a suspended sentence of imprisonment, within the meaning of section 189 of that Act or section 286 of that Code[^key-d03aaaf6bb00004ddc5cf74edd257996];
-- (b) subject to an alcohol treatment requirement as defined by section 212 of the Criminal Justice Act 2003 or paragraph 23 of Schedule 9 to the Sentencing Code[^key-c649e2318937f1011f19fe5bcf233162], imposed by a community order within the meaning of section 177 of that Act or section 200 of that Code[^key-1d498b06368b4dedb3cd008a2d175c4d], or by a suspended sentence of imprisonment, within the meaning of section 189 of that Act or section 286 of that Code[^key-56d647881c3a1d773a025fc1fbf017ea];
+- (a) subject to a drug rehabilitation requirement, as defined by section 209 of the Criminal Justice Act 2003[^f00015] or paragraph 19 of Schedule 9 to the Sentencing Code[^c-f0685045d16ad8197b5706177d9403dc] , imposed by a community order within the meaning of section 177 of that Act or section 200 of that Code[^c-9ef4ebbca105089e2f57ac758e212138], or by a suspended sentence of imprisonment, within the meaning of section 189 of that Act or section 286 of that Code[^c-d03aaaf6bb00004ddc5cf74edd257996];
+- (b) subject to an alcohol treatment requirement as defined by section 212 of the Criminal Justice Act 2003 or paragraph 23 of Schedule 9 to the Sentencing Code[^c-c649e2318937f1011f19fe5bcf233162], imposed by a community order within the meaning of section 177 of that Act or section 200 of that Code[^c-1d498b06368b4dedb3cd008a2d175c4d], or by a suspended sentence of imprisonment, within the meaning of section 189 of that Act or section 286 of that Code[^c-56d647881c3a1d773a025fc1fbf017ea];
 - (c) released on licence under Part 2 of the Criminal Justice Act 1991[^f00016], Chapter 6 of Part 12 of the Criminal Justice Act 2003 or Chapter 2 of the Crime (Sentences) Act 1997[^f00017], subject to a non standard licence condition requiring the offender to undertake offending behaviour work to address drug or alcohol related behaviour;
 - (d) required to submit to treatment for their drug or alcohol dependency by virtue of a community rehabilitation order within the meaning of section 41 of the Powers of Criminal Courts (Sentencing) Act 2000[^f00018] or a community punishment and rehabilitation order within the meaning of section 51 of that Act;
 - (e) subject to a drug treatment and testing order imposed under section 52 of the Powers of Criminal Courts (Sentencing) Act 2000;
@@ -370,41 +370,41 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: Sections 50 to 53 of the Act are modified in relation to persons to whom section 117 of the Mental Health Act 1983 applies by the provisions in Schedule A1 to the Act (inserted by section 75 of and Part 2 of Schedule 4 to the Care Act [2014 (c. 23)](https://www.legislation.gov.uk/ukpga/2014/23)).
 
-[^key-5da1da1eda80e830cb5c8f1b561b0b9d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-5da1da1eda80e830cb5c8f1b561b0b9d]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
 [^f00003]: Footnote: “Suitable person” is defined in section 50(5) of the Act.
 
 [^f00004]: Footnote: “Parental responsibility” is defined in in section 197(1) of the Act by reference to section 3 of the Children Act [1989 (c. 41)](https://www.legislation.gov.uk/ukpga/1989/41).
 
-[^key-ac06dafeae9c1afdd86a452a16ceb026]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1815/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-ac06dafeae9c1afdd86a452a16ceb026]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2015/1815/regulation/2) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
-[^key-16d41aca9a37e203979d33fe1589c35a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1815/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-16d41aca9a37e203979d33fe1589c35a]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2015/1815/regulation/3) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
-[^key-93b007499fc2e49c71516a1c60feecb3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1815/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-93b007499fc2e49c71516a1c60feecb3]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2015/1815/regulation/4) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
 [^f00005]: Footnote: One of the conditions for triggering a requirement or a discretion to make direct payments to meet a person’s need for care and support is that the local authority is satisfied that direct payments are an appropriate way of meeting the person’s needs – *see* sections 50(3)(c)(i), 50(4)(d)(i), 51(5)(a) and 52(5)(a) of the Act.
 
 [^f00006]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-89cdd3c6162a159f71fdb87c81ca1455]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1815/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-89cdd3c6162a159f71fdb87c81ca1455]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2015/1815/regulation/5) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
 [^f00007]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-aa3290bcbee9733d07986b494724904c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1815/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-aa3290bcbee9733d07986b494724904c]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2015/1815/regulation/6) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
-[^key-1aae125b1c5de644353637a46723f476]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1815/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-1aae125b1c5de644353637a46723f476]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2015/1815/regulation/7) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
-[^key-ba34eb09b53a8c802256e2337db5043a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1815/regulation/8) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-ba34eb09b53a8c802256e2337db5043a]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2015/1815/regulation/8) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
-[^key-5e719e6583d656f228c8f847961d6036]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1815/regulation/9) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-5e719e6583d656f228c8f847961d6036]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2015/1815/regulation/9) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
 [^f00008]: Footnote: Before making a decision about whether to make direct payments a local authority will have carried out a financial assessment in accordance with regulation 6 of the Care and Support (Financial Assessment) (Wales) Regulations 2015 ([S.I. 2015/1844 (W. 272)](https://www.legislation.gov.uk/wsi/2015/1844)) and will have made a determination in accordance with regulation 20 of the Care and Support (Charging) (Wales) Regulations 2015 ([S.I. 2015/1843 (W. 271)](https://www.legislation.gov.uk/wsi/2015/1843)).
 
-[^key-49f9ad5a95166f6a753714fca561a6e0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/1815/regulation/10) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-49f9ad5a95166f6a753714fca561a6e0]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2015/1815/regulation/10) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
-[^key-f95aa1edcf2120357f27806b5ec3397c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2015/1815/regulation/11) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-f95aa1edcf2120357f27806b5ec3397c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2015/1815/regulation/11) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
-[^key-faa467eeb922be659bbf72ee9daf52d4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2015/1815/regulation/12) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-faa467eeb922be659bbf72ee9daf52d4]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2015/1815/regulation/12) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
 [^f00009]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -416,29 +416,29 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00013]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-58a89e3135fa25a85f5db0009fa1d950]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2015/1815/regulation/13) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-58a89e3135fa25a85f5db0009fa1d950]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2015/1815/regulation/13) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
-[^key-9ac73b38954281f78e3e3f2925e1feb9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/1815/regulation/14) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-9ac73b38954281f78e3e3f2925e1feb9]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2015/1815/regulation/14) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
-[^key-64456c4ef31d01f1033776af279f9026]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2015/1815/regulation/15) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-64456c4ef31d01f1033776af279f9026]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2015/1815/regulation/15) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
 [^f00014]: Footnote: [1983 c. 20](https://www.legislation.gov.uk/ukpga/1983/20).
 
-[^key-86b8c3ea3ac244fece927c036bdbb2da]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
+[^c-86b8c3ea3ac244fece927c036bdbb2da]: Commencement: [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) in force at 6.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/1815/regulation/1/2)
 
 [^f00015]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-f0685045d16ad8197b5706177d9403dc]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 433(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/433/2/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-f0685045d16ad8197b5706177d9403dc]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 433(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/433/2/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-9ef4ebbca105089e2f57ac758e212138]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 433(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/433/2/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9ef4ebbca105089e2f57ac758e212138]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 433(2)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/433/2/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-d03aaaf6bb00004ddc5cf74edd257996]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 433(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/433/2/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-d03aaaf6bb00004ddc5cf74edd257996]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 433(2)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/433/2/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c649e2318937f1011f19fe5bcf233162]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 433(4)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/433/4/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c649e2318937f1011f19fe5bcf233162]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 433(4)(a)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/433/4/a) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-1d498b06368b4dedb3cd008a2d175c4d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 433(4)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/433/4/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1d498b06368b4dedb3cd008a2d175c4d]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 433(4)(b)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/433/4/b) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-56d647881c3a1d773a025fc1fbf017ea]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 433(4)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/433/4/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-56d647881c3a1d773a025fc1fbf017ea]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/wsi/2015/1815/schedule) inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 433(4)(c)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/433/4/c) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
 [^f00016]: Footnote: [1991 c. 53](https://www.legislation.gov.uk/ukpga/1991/53).
 

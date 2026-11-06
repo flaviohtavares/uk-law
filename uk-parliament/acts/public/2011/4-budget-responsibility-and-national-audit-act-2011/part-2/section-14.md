@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Resignation or removal[^key-4001643e2dfe3f277a98d136f4a45490]
+## 14. Resignation or removal[^c-4001643e2dfe3f277a98d136f4a45490]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4001643e2dfe3f277a98d136f4a45490]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/4/section/14) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)
+[^c-4001643e2dfe3f277a98d136f4a45490]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2011/4/section/14) in force at 1.4.2012 by [S.I. 2011/2576](https://www.legislation.gov.uk/uksi/2011/2576), [art. 5](https://www.legislation.gov.uk/uksi/2011/2576/article/5)

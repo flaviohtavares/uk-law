@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Records of small trailers[^key-96e40065bafea190965858be5572fb06]
+## 25. Records of small trailers[^c-96e40065bafea190965858be5572fb06]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ must, as soon as reasonably possible after making that supply or putting the tra
 
 ## Annotations
 
-[^key-96e40065bafea190965858be5572fb06]: Commencement: Reg. 25 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)
+[^c-96e40065bafea190965858be5572fb06]: Commencement: Reg. 25 in force at 1.9.2020, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b)

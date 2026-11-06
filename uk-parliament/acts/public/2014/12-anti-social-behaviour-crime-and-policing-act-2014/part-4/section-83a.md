@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 83A. Power of Secretary of State to change maximum duration of closure orders[^key-4de13bbc800207652a6001a49159a22b]
+## 83A. Power of Secretary of State to change maximum duration of closure orders[^c-4de13bbc800207652a6001a49159a22b]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4de13bbc800207652a6001a49159a22b]: Textual amendment: [S. 83A](https://www.legislation.gov.uk/ukpga/2014/12/section/83A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/3/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/a)
+[^c-4de13bbc800207652a6001a49159a22b]: Textual amendment: [S. 83A](https://www.legislation.gov.uk/ukpga/2014/12/section/83A) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 3(5)](https://www.legislation.gov.uk/ukpga/2026/20/section/3/5), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/a)

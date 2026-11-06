@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 14. Supply of information[^key-168734e8fd881e3bf0d720891896868e][^key-04cef63dec12cc6597a85d4d31435cb1]
+## 14. Supply of information[^c-168734e8fd881e3bf0d720891896868e][^c-04cef63dec12cc6597a85d4d31435cb1]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ is to be determined by the Commissioner for Investigations, who may vary the not
 
 ## Annotations
 
-[^key-168734e8fd881e3bf0d720891896868e]: Commencement: S. 14 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
+[^c-168734e8fd881e3bf0d720891896868e]: Commencement: S. 14 not in force at Royal Assent, see [s. 63(4)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/4)
 
-[^key-04cef63dec12cc6597a85d4d31435cb1]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/41/section/14) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/j) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))
+[^c-04cef63dec12cc6597a85d4d31435cb1]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2023/41/section/14) in force at 1.5.2024 by [S.I. 2024/584](https://www.legislation.gov.uk/uksi/2024/584), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2024/584/regulation/2/j) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/584/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/584/regulation/4))

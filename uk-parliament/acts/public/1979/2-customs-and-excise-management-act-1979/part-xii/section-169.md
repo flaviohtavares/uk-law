@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. False scales, etc.[^key-371a8e80e66e78c12d789115f76a2806]
+## 169. False scales, etc.[^c-371a8e80e66e78c12d789115f76a2806]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-371a8e80e66e78c12d789115f76a2806]: Textual amendment: S. 169 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 52(1)(a)(viii)](https://www.legislation.gov.uk/ukpga/2005/11/section/52/1/a/viii), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/i)
+[^c-371a8e80e66e78c12d789115f76a2806]: Textual amendment: S. 169 repealed (18.4.2005) by [Commissioners for Revenue and Customs Act 2005 (c. 11)](https://www.legislation.gov.uk/ukpga/2005/11), [ss. 52(1)(a)(viii)](https://www.legislation.gov.uk/ukpga/2005/11/section/52/1/a/viii), [53(1)](https://www.legislation.gov.uk/ukpga/2005/11/section/53/1), [Sch. 5](https://www.legislation.gov.uk/ukpga/2005/11/schedule/5); [S.I. 2005/1126](https://www.legislation.gov.uk/uksi/2005/1126), [art. 2(2)(i)](https://www.legislation.gov.uk/uksi/2005/1126/article/2/2/i)

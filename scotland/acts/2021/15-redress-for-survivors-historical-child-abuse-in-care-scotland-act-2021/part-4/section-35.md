@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Decision-making panels[^key-596e3957859f98f57f12f924328ffced]
+## 35. Decision-making panels[^c-596e3957859f98f57f12f924328ffced]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-596e3957859f98f57f12f924328ffced]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2021/15/section/35) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-596e3957859f98f57f12f924328ffced]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2021/15/section/35) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

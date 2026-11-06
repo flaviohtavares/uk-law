@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 54. Certificate under section 53: revocation[^key-d3572cb5f3ee06a1d3df5e79c1eba448]
+## 54. Certificate under section 53: revocation[^c-d3572cb5f3ee06a1d3df5e79c1eba448]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ that the certificate be revoked, the responsible medical officer may revoke the 
 
 ## Annotations
 
-[^key-d3572cb5f3ee06a1d3df5e79c1eba448]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2003/13/section/54) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-d3572cb5f3ee06a1d3df5e79c1eba448]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2003/13/section/54) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

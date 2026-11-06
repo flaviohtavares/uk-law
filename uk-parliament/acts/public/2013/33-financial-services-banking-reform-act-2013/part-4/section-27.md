@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Statement of policy[^key-c6300eb682e8f1c95eb77916d8ce516e]
+## 27. Statement of policy[^c-c6300eb682e8f1c95eb77916d8ce516e]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ After section 63ZC of FSMA 2000 (inserted by section 26 above) insert—
 
 ## Annotations
 
-[^key-c6300eb682e8f1c95eb77916d8ce516e]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2013/33/section/27) in force at 25.7.2014 by [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/1/b)
+[^c-c6300eb682e8f1c95eb77916d8ce516e]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2013/33/section/27) in force at 25.7.2014 by [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/1/b)

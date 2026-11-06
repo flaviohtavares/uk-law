@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 267. Gazette notices relating to an institution that is a company[^key-dc55e3f7fb11993bcefb7515d6950a00]
+## 267. Gazette notices relating to an institution that is a company[^c-dc55e3f7fb11993bcefb7515d6950a00]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ In addition to the information required by rule 266 a notice relating to an inst
 
 ## Annotations
 
-[^key-dc55e3f7fb11993bcefb7515d6950a00]: Commencement: Rule 267 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-dc55e3f7fb11993bcefb7515d6950a00]: Commencement: Rule 267 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

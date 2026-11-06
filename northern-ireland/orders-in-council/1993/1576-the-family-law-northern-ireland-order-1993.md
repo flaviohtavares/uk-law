@@ -544,7 +544,7 @@ After Article 22 of the Domestic Proceedings (Northern Ireland) Order 1980[^c168
 
 *Article 11—Amendments*
 
-## Special measures directions in family proceedings[^key-12609a444507ec4eda94fe794b6cf711]
+## Special measures directions in family proceedings[^c-12609a444507ec4eda94fe794b6cf711]
 
 ### 11K. Special measures in family proceedings: victims of abusive behaviour
 
@@ -610,7 +610,7 @@ After Article 22 of the Domestic Proceedings (Northern Ireland) Order 1980[^c168
 - (d) may modify or exclude the application of any such rules or of any provision of the County Courts (Northern Ireland) Order 1980[^c16854411];
 - (e) without prejudice to sub-paragraph (a), may make with respect to proceedings in a county court any provision regarding the Official Solicitor or any solicitor of the Court of Judicature[^c20040861] which could be made by rules of court with respect to proceedings in the High Court;
 - (f) may provide for the enforcement of orders made in a county court as if they were orders of the High Court, and for that purpose apply any statutory provision, with or without modification;
-- (g)[^key-f60b9375bb138bf5f84778a0021ea721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-f60b9375bb138bf5f84778a0021ea721] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) which relate to the costs of proceedings, may—
   - (i) amend or repeal any statutory provision relating to the practice and procedure of the Court of Judicature[^c20040871] or county courts so far as may be necessary in consequence of provision made by the rules; and
   - (ii) notwithstanding anything in the Legal Aid, Advice and Assistance (Northern Ireland) Order 1981[^c16854551], make different provision according to whether each or any of the parties is entitled to legal aid under Part II of that Order in connection with the proceedings.
@@ -768,7 +768,7 @@ Article 4(3) and (4) of the Domestic Proceedings (Northern Ireland) Order 1980[^
 
 [^c16854361]: Textual amendment: [1992 c. 18](https://www.legislation.gov.uk/ukpga/1992/18)
 
-[^key-12609a444507ec4eda94fe794b6cf711]: Textual amendment: [Arts. 11K](https://www.legislation.gov.uk/nisi/1993/1576/article/11K), [11L](https://www.legislation.gov.uk/nisi/1993/1576/article/11L) and cross-heading inserted (28.11.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [ss. 37](https://www.legislation.gov.uk/nia/2021/2/section/37), [40(4)](https://www.legislation.gov.uk/nia/2021/2/section/40/4); [S.R. 2022/253](https://www.legislation.gov.uk/nisr/2022/253), [art. 2](https://www.legislation.gov.uk/nisr/2022/253/article/2)
+[^c-12609a444507ec4eda94fe794b6cf711]: Textual amendment: [Arts. 11K](https://www.legislation.gov.uk/nisi/1993/1576/article/11K), [11L](https://www.legislation.gov.uk/nisi/1993/1576/article/11L) and cross-heading inserted (28.11.2022) by [Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021 (c. 2)](https://www.legislation.gov.uk/nia/2021/2), [ss. 37](https://www.legislation.gov.uk/nia/2021/2/section/37), [40(4)](https://www.legislation.gov.uk/nia/2021/2/section/40/4); [S.R. 2022/253](https://www.legislation.gov.uk/nisr/2022/253), [art. 2](https://www.legislation.gov.uk/nisr/2022/253/article/2)
 
 [^c20032411]: Textual amendment: Words in art. 12(1) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(2)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/2), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 5 para. 90(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/5/paragraph/90/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 10](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/10), [12(b)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/12/b)
 
@@ -782,7 +782,7 @@ Article 4(3) and (4) of the Domestic Proceedings (Northern Ireland) Order 1980[^
 
 [^c20040861]: Textual amendment: Words in art. 12(3)(e) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
-[^key-f60b9375bb138bf5f84778a0021ea721]: Textual amendment: [Art. 12(3)(g)](https://www.legislation.gov.uk/nisi/1993/1576/article/12/3) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 49(2)](https://www.legislation.gov.uk/nisi/2003/435/article/49/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
+[^c-f60b9375bb138bf5f84778a0021ea721]: Textual amendment: [Art. 12(3)(g)](https://www.legislation.gov.uk/nisi/1993/1576/article/12/3) repealed (1.4.2015) by [Access to Justice (Northern Ireland) Order 2003 (S.I. 2003/435)](https://www.legislation.gov.uk/nisi/2003/435), [art. 49(2)](https://www.legislation.gov.uk/nisi/2003/435/article/49/2), [Sch. 5](https://www.legislation.gov.uk/nisi/2003/435/schedule/5); [S.R. 2015/194](https://www.legislation.gov.uk/nisr/2015/194), [art. 2](https://www.legislation.gov.uk/nisr/2015/194/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2015/194/schedule) (with [art. 3](https://www.legislation.gov.uk/nisr/2015/194/article/3))
 
 [^c20040871]: Textual amendment: Words in art. 12(3)(h)(i) substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 59(5)](https://www.legislation.gov.uk/ukpga/2005/4/section/59/5), [148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/6); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 

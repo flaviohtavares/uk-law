@@ -31,10 +31,10 @@ summary: ''
 
 of 29 March 1999 concerning the conclusion of a cooperation Agreement between the European Atomic Energy Community and the Republic of Kazakhstan in the field of nuclear safety (revoked)
 
-[^key-e09f8677ff0c87746c5707803b76e9f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e09f8677ff0c87746c5707803b76e9f8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-e09f8677ff0c87746c5707803b76e9f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-e09f8677ff0c87746c5707803b76e9f8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e09f8677ff0c87746c5707803b76e9f8]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-e09f8677ff0c87746c5707803b76e9f8]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2)[, Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

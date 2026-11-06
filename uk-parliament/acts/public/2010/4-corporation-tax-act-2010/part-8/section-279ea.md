@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 279EA. Interpretation etc[^key-699c8ed48decf38f19b78c828aa399d4][^key-1ef3ee755b0a762d132ac36869e8ff08]
+## 279EA. Interpretation etc[^c-699c8ed48decf38f19b78c828aa399d4][^c-1ef3ee755b0a762d132ac36869e8ff08]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-699c8ed48decf38f19b78c828aa399d4]: Textual amendment: [S. 279EA](https://www.legislation.gov.uk/ukpga/2010/4/section/279EA) and cross-heading inserted (with effect in accordance with Sch. 1 para. 34 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/10)
+[^c-699c8ed48decf38f19b78c828aa399d4]: Textual amendment: [S. 279EA](https://www.legislation.gov.uk/ukpga/2010/4/section/279EA) and cross-heading inserted (with effect in accordance with Sch. 1 para. 34 of the amending Act) by [Finance Act 2021 (c. 26)](https://www.legislation.gov.uk/ukpga/2021/26), [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/2021/26/schedule/1/paragraph/10)
 
-[^key-1ef3ee755b0a762d132ac36869e8ff08]: Textual amendment: Pt. 8 Ch. 3A inserted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/5/3)
+[^c-1ef3ee755b0a762d132ac36869e8ff08]: Textual amendment: Pt. 8 Ch. 3A inserted (with effect in accordance with Sch. 1 para. 22 of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 1 para. 5(3)](https://www.legislation.gov.uk/ukpga/2014/26/schedule/1/paragraph/5/3)

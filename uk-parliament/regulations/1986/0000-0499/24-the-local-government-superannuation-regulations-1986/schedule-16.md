@@ -24,7 +24,7 @@ Regulations 12 to 14, J8, J14 and Q2
 
 ### PART I
 
-**1.**[^key-8fa4b3ceaf38240034bfc2c96518b2c4] The transfer value payable under regulation 12, 13(1), 114 or G2(2) in respect of any person is an amount equal to—
+**1.**[^c-8fa4b3ceaf38240034bfc2c96518b2c4] The transfer value payable under regulation 12, 13(1), 114 or G2(2) in respect of any person is an amount equal to—
 
 (1) the aggregate of the sums calculated in accordance with paragraph 2 below in respect of his accrued pension, accrued retiring allowance and, if the person is a man, his accrued widow's pension, less—
 
@@ -41,7 +41,7 @@ together with—
 
 (2) compound interest calculated in accordance with regulation J7 in respect of the period beginning immediately after the date on which the person ceased to be employed in his local government employment and ending with the date on which the transfer value is paid (but no interest is to be included in the transfer value if that period is less than 6 months).
 
-**2.**[^key-1946c7169868cc0fdf07827f676e07b7] (1) The sums in respect of accrued pension, accrued retiring allowance and accrued modification shall be calculated by muliplying the accrued pension by the pension factor, the accrued retiring allowance by the retiring allowance factor and the accrued modification by the modification factor, such factors being the factors, in the appropriate table in Part II of this Schedule where regulation J14 or Q2(2) applies and Part III of this Schedule where regulation J2 or J3(1) applies, which are applicable to the person's age when he ceased to be employed in his local government employment.
+**2.**[^c-1946c7169868cc0fdf07827f676e07b7] (1) The sums in respect of accrued pension, accrued retiring allowance and accrued modification shall be calculated by muliplying the accrued pension by the pension factor, the accrued retiring allowance by the retiring allowance factor and the accrued modification by the modification factor, such factors being the factors, in the appropriate table in Part II of this Schedule where regulation J14 or Q2(2) applies and Part III of this Schedule where regulation J2 or J3(1) applies, which are applicable to the person's age when he ceased to be employed in his local government employment.
 
 (2) The sum in respect of accrued widow's pension shall be calculated by multiplying the accrued widow's pension by 2.4 where regulation J14 or Q2(2) applies and by 4 where regulation J2 or J3(1) applies.
 
@@ -49,7 +49,7 @@ together with—
 
 (4) The guaranteed minimum shall be calculated in accordance with section 35 of the Pensions Act (except that subsections (7) and (8) shall be ignored) by reference to the regulations applying in relation to that section, and the orders in force under section 21 of that Act, when the person ceased to be employed in his local government employment, and the annual equivalent of his guaranteed minimum shall be calculated by multiplying the guaranteed minimum by 52.18.
 
-**3.**[^key-210396b9a5bad1064a34a46ceed810b8] In this Schedule—
+**3.**[^c-210396b9a5bad1064a34a46ceed810b8] In this Schedule—
 
 - “**accrued pension**” means the annual retirement pension (however named) to which, having regard to regulations E1(3) and E31(2) and apart from any reduction falling to be made to that pension in connection with a retirement pension under section 28 of the Social Security Act 1975 or corresponding provisions of earlier legislation or graduated retirement benefit under section 36 of the Insurance Act or corresponding provisions of earlier legislation, the person would have become entitled if, on the date when he ceased to be employed in his local government employment—
   - (1) he had reached the age of 65; and
@@ -74,7 +74,7 @@ together with—
   - (3) he had died;
 - “**accrued modification**” means the amount by which the accrued pension would be reduced in connection with the retirement pension under section 28 of the Social Security Act 1975 or corresponding provisions of earlier legislation and graduated retirement benefit under section 36 of the Insurance Act or corresponding provisions of earlier legislation.
 
-### PART II[^key-7502782b8bcb83f1b8b8c553cb133a74]
+### PART II[^c-7502782b8bcb83f1b8b8c553cb133a74]
 
 TABLE 1—MEN
 
@@ -173,7 +173,7 @@ TABLE 2—WOMEN
 | 58 | 8.30 | 0.87 | 7.20 |
 | 59 | 8.60 | 0.89 | 8.00 |
 
-### PART III[^key-80128e06be90c6482769407ba109b6db]
+### PART III[^c-80128e06be90c6482769407ba109b6db]
 
 TABLE 1—MEN
 
@@ -289,7 +289,7 @@ TABLE 2—WOMEN
 | 69 | 10.35 | 1.00 | 10.35 |
 | 70 | 10.00 | 1.00 | 10.00 |
 
-### PART IV[^key-0723e521ddc0aa9f86537e0dc9ddaaea]
+### PART IV[^c-0723e521ddc0aa9f86537e0dc9ddaaea]
 
 TABLE 1—MEN
 
@@ -394,7 +394,7 @@ TABLE 2—WOMEN
 
 Regulation Q2(1)
 
-**1.**[^key-39073de0ddc16b55bac376db2e634c4a] The transfer value payable under regulation Q2(1) in respect of a person is to be calculated in accordance with the following formula if the service he is entitled to reckon in his new local government employment which he was also entitled to reckon in his previous local government employment exceeds 182 days—
+**1.**[^c-39073de0ddc16b55bac376db2e634c4a] The transfer value payable under regulation Q2(1) in respect of a person is to be calculated in accordance with the following formula if the service he is entitled to reckon in his new local government employment which he was also entitled to reckon in his previous local government employment exceeds 182 days—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1986/24)
 
@@ -422,7 +422,7 @@ Regulation Q2(1)
 - R is the annual rate of his remuneration in his previous local government employment at the date on which he ceased to be employed in that employment, and
 - A is the amount of any additional contributory payments remaining outstanding when he ceased to be employed in his previous local government employment.
 
-**2.**[^key-4273efa6b538716ea2a86ae4a39b17ab] In any case not falling within paragraph 1 the transfer value payable under regulation Q2(1) in respect of a person is to be calculated in accordance with the following formula—
+**2.**[^c-4273efa6b538716ea2a86ae4a39b17ab] In any case not falling within paragraph 1 the transfer value payable under regulation Q2(1) in respect of a person is to be calculated in accordance with the following formula—
 
 [formula: see source](https://www.legislation.gov.uk/uksi/1986/24)
 
@@ -433,13 +433,13 @@ Regulation Q2(1)
 
 but the amount of the transfer value shall be zero if the person becomes employed in his new local government employment on or after 1st October 1981.
 
-**3.**[^key-7b87db5bee23d19ea237dc7a6b30814e] In ascertaining for the purposes of this Part the length of reckonable service which a person is or was entitled to reckon, the reckonable service is to count at the length at which it would reckon in calculating the amount of a retirement pension under regulationn E2(1)(b)(ii), except that—
+**3.**[^c-7b87db5bee23d19ea237dc7a6b30814e] In ascertaining for the purposes of this Part the length of reckonable service which a person is or was entitled to reckon, the reckonable service is to count at the length at which it would reckon in calculating the amount of a retirement pension under regulationn E2(1)(b)(ii), except that—
 
 - (a) any period of reckonable service which was reckonable under section 17 of the Act of 1937 (which related to teachers) is to be ignored,
 - (b) it is to be assumed that he had completed the payment of any additional contributory payments, and
 - (c) if additional contributions under regulation D10 of the 1974 regulations (or any corresponding provision of an earlier enactment) or regulation C6 have been paid but not all those for which he was originally liable, the apportionment formula in paragraph 3 of Schedule 8 is to be applied.
 
-**4.**[^key-ab1b2b8fd8cf4c48aabe9000113b0c20] Subject to paragraph 5, in ascertaining for the purposes of this Part the annual rate of a person's remuneration at the date on which he ceased to be employed in his previous local government employment—
+**4.**[^c-ab1b2b8fd8cf4c48aabe9000113b0c20] Subject to paragraph 5, in ascertaining for the purposes of this Part the annual rate of a person's remuneration at the date on which he ceased to be employed in his previous local government employment—
 
 - (a) the annual rate of any fluctuating element of his remuneration is to be estimated by reference to an average taken over a representative period,
 - (b) the annual rate of any benefit in kind included in his remuneration is to be the estimated annual value of the benefit in kind at the date on which he ceased to be employed,
@@ -449,7 +449,7 @@ but the amount of the transfer value shall be zero if the person becomes employe
 - (f) if his previous local government employment was part-time the annual rate of remuneration of a single comparable whole-time employment is to be used, and
 - (g) if the annual rate of his remuneration exceeds £100 it is to be rounded down to the nearest £100.
 
-**5.**[^key-d15b0c1251dc91a532c95fd94e682320] If—
+**5.**[^c-d15b0c1251dc91a532c95fd94e682320] If—
 
 - (a) during the 13 years ending on the cessation of the person's previous local government employment his remuneration was reduced, and
 - (b) his employing authority certified under regulation E24 that the reduction was material, and
@@ -457,11 +457,11 @@ but the amount of the transfer value shall be zero if the person becomes employe
 
 it is to be assumed for the purposes of this Part that he was earning at the higher rate at the date on which he ceased to be employed in his previous local government employment.
 
-**6.**[^key-b5d33935ce69b8f840e4aae54fd22602] Where the person has made a payment to his new fund authority under regulation D1(2) of the 1974 regulations, the transfer value payable under regulation Q2(1) is to be reduced by an amount equal to that payment.
+**6.**[^c-b5d33935ce69b8f840e4aae54fd22602] Where the person has made a payment to his new fund authority under regulation D1(2) of the 1974 regulations, the transfer value payable under regulation Q2(1) is to be reduced by an amount equal to that payment.
 
-**7.**[^key-4d8cab750b542d6782e42b2e5b9ad0ba] Compound interest calculated in accordance with regulation J7 is to be paid on the transfer value payable under regulation Q2(1) for the period beginning with the date on which the person ceased to be employed in his previous local government employment and ending on the date on which the transfer value is paid (but no interest is to be paid if that period is less than 6 months).
+**7.**[^c-4d8cab750b542d6782e42b2e5b9ad0ba] Compound interest calculated in accordance with regulation J7 is to be paid on the transfer value payable under regulation Q2(1) for the period beginning with the date on which the person ceased to be employed in his previous local government employment and ending on the date on which the transfer value is paid (but no interest is to be paid if that period is less than 6 months).
 
-### PART VI[^key-dd2a2fc3c9bb1e8b08e437d375e2a171]
+### PART VI[^c-dd2a2fc3c9bb1e8b08e437d375e2a171]
 
 Regulations J4(2) and J8(5)
 
@@ -552,32 +552,32 @@ TABLE
 
 ## Annotations
 
-[^key-8fa4b3ceaf38240034bfc2c96518b2c4]: Commencement: [Sch. 16 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/I/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-8fa4b3ceaf38240034bfc2c96518b2c4]: Commencement: [Sch. 16 Pt. 1 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/I/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-1946c7169868cc0fdf07827f676e07b7]: Commencement: [Sch. 16 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/I/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-1946c7169868cc0fdf07827f676e07b7]: Commencement: [Sch. 16 Pt. 1 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/I/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-210396b9a5bad1064a34a46ceed810b8]: Commencement: [Sch. 16 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/I/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-210396b9a5bad1064a34a46ceed810b8]: Commencement: [Sch. 16 Pt. 1 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/I/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-7502782b8bcb83f1b8b8c553cb133a74]: Commencement: [Sch. 16 Pt. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/II) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-7502782b8bcb83f1b8b8c553cb133a74]: Commencement: [Sch. 16 Pt. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/II) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-80128e06be90c6482769407ba109b6db]: Commencement: [Sch. 16 Pt. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/III) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-80128e06be90c6482769407ba109b6db]: Commencement: [Sch. 16 Pt. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/III) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-0723e521ddc0aa9f86537e0dc9ddaaea]: Commencement: [Sch. 16 Pt. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/IV) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-0723e521ddc0aa9f86537e0dc9ddaaea]: Commencement: [Sch. 16 Pt. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/IV) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-39073de0ddc16b55bac376db2e634c4a]: Commencement: [Sch. 16 Pt. 5 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/V/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-39073de0ddc16b55bac376db2e634c4a]: Commencement: [Sch. 16 Pt. 5 para. 1](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/V/paragraph/1) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-4273efa6b538716ea2a86ae4a39b17ab]: Commencement: [Sch. 16 Pt. 5 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/V/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-4273efa6b538716ea2a86ae4a39b17ab]: Commencement: [Sch. 16 Pt. 5 para. 2](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/V/paragraph/2) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-7b87db5bee23d19ea237dc7a6b30814e]: Commencement: [Sch. 16 Pt. 5 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/V/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-7b87db5bee23d19ea237dc7a6b30814e]: Commencement: [Sch. 16 Pt. 5 para. 3](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/V/paragraph/3) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-ab1b2b8fd8cf4c48aabe9000113b0c20]: Commencement: [Sch. 16 Pt. 5 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-ab1b2b8fd8cf4c48aabe9000113b0c20]: Commencement: [Sch. 16 Pt. 5 para. 4](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/paragraph/4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-d15b0c1251dc91a532c95fd94e682320]: Commencement: [Sch. 16 Pt. 5 para. 5](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/paragraph/5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-d15b0c1251dc91a532c95fd94e682320]: Commencement: [Sch. 16 Pt. 5 para. 5](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/paragraph/5) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-b5d33935ce69b8f840e4aae54fd22602]: Commencement: [Sch. 16 Pt. 5 para. 6](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/paragraph/6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-b5d33935ce69b8f840e4aae54fd22602]: Commencement: [Sch. 16 Pt. 5 para. 6](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/paragraph/6) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-4d8cab750b542d6782e42b2e5b9ad0ba]: Commencement: [Sch. 16 Pt. 5 para. 7](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/paragraph/7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-4d8cab750b542d6782e42b2e5b9ad0ba]: Commencement: [Sch. 16 Pt. 5 para. 7](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/paragraph/7) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
-[^key-dd2a2fc3c9bb1e8b08e437d375e2a171]: Commencement: [Sch. 16 Pt. 6](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/VI) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-dd2a2fc3c9bb1e8b08e437d375e2a171]: Commencement: [Sch. 16 Pt. 6](https://www.legislation.gov.uk/uksi/1986/24/schedule/16/part/VI) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
 
 [^f00145]: Footnote: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).

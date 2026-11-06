@@ -31,7 +31,7 @@ summary: ''
 
 Highways, England
 
-The Severn Bridges Tolls Order 2012 (revoked)[^key-ca0e1b189845756a310157b664c8bafe]
+The Severn Bridges Tolls Order 2012 (revoked)[^c-ca0e1b189845756a310157b664c8bafe]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into force
 
 1st January 2013
 
-[^key-ca0e1b189845756a310157b664c8bafe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca0e1b189845756a310157b664c8bafe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ca0e1b189845756a310157b664c8bafe]
+## 1. Citation and commencement[^c-ca0e1b189845756a310157b664c8bafe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Level of tolls[^key-ca0e1b189845756a310157b664c8bafe]
+## 2. Level of tolls[^c-ca0e1b189845756a310157b664c8bafe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-ca0e1b189845756a310157b664c8bafe]
+## 3. Revocation[^c-ca0e1b189845756a310157b664c8bafe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ca0e1b189845756a310157b664c8bafe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca0e1b189845756a310157b664c8bafe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ca0e1b189845756a310157b664c8bafe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ca0e1b189845756a310157b664c8bafe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ca0e1b189845756a310157b664c8bafe]: Textual amendment: Order revoked (1.1.2014) by [The Severn Bridges Tolls Order 2013 (S.I. 2013/3246)](https://www.legislation.gov.uk/uksi/2013/3246), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3246/article/1), [3](https://www.legislation.gov.uk/uksi/2013/3246/article/3)
+[^c-ca0e1b189845756a310157b664c8bafe]: Textual amendment: Order revoked (1.1.2014) by [The Severn Bridges Tolls Order 2013 (S.I. 2013/3246)](https://www.legislation.gov.uk/uksi/2013/3246), [arts. 1](https://www.legislation.gov.uk/uksi/2013/3246/article/1), [3](https://www.legislation.gov.uk/uksi/2013/3246/article/3)

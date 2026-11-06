@@ -43,7 +43,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 ## PART I — GENERAL
 
-### 1. Citation, commencement, duration and interpretation[^key-ce8ac5069e0eff3894279d4190ed754b]
+### 1. Citation, commencement, duration and interpretation[^c-ce8ac5069e0eff3894279d4190ed754b]
 
 (1) These Regulations may be cited as the Tax Credits (Appeals) Regulations (Northern Ireland) 2002 and shall come into operation on 1st January 2003.
 
@@ -86,7 +86,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 - “single claim” means a claim made under section 3(3)(b) of the Act;
 - “tax credit” means child tax credit or working tax credit, construing those terms in accordance with section 1(1) and (2) of the Act, and any reference in these Regulations to “child tax credit” or “working tax credit” shall be construed accordingly.
 
-### 2. Service of notices or documents[^key-ce7d2cc47a1e1c4a94d6241f7a787c47]
+### 2. Service of notices or documents[^c-ce7d2cc47a1e1c4a94d6241f7a787c47]
 
 Where, by any provision of these Regulations–
 
@@ -95,7 +95,7 @@ Where, by any provision of these Regulations–
 
 ## PART II — GENERAL APPEAL MATTERS
 
-### 3. Other persons with a right of appeal or a right to make an application for a direction[^key-ac76a548bd993e347305ca07222ccb76]
+### 3. Other persons with a right of appeal or a right to make an application for a direction[^c-ac76a548bd993e347305ca07222ccb76]
 
 For the purposes of Article 13(1) of the Order (as applied and modified by the Appeals Regulations), where–
 
@@ -108,13 +108,13 @@ the following other persons have a right of appeal to an appeal tribunal or a ri
 - (ii) a person appointed under regulation 33(1) of the Social Security (Claims and Payments) Regulations (Northern Ireland) 1987[^f00007] (persons unable to act),
 - (iii) where there is no person mentioned in sub-paragraph (ii) in relation to the person who is unable to act, a person who has applied in writing to the Board to be appointed to act on behalf of the person who is unable to act and, if an individual, is aged 18 years or more and who has been so appointed by the Board for the purposes of this sub-paragraph.
 
-### 4. Time within which an appeal is to be brought[^key-a7f95335060c0f23ddd6250f91f39cbc]
+### 4. Time within which an appeal is to be brought[^c-a7f95335060c0f23ddd6250f91f39cbc]
 
 (1) Where a dispute arises as to whether an appeal was brought within the time limit specified in section 39(1) of the Act, the dispute shall be referred to, and be determined by, a legally qualified panel member.
 
 (2) The time limit specified in section 39(1) of the Act may be extended in accordance with regulation 5.
 
-### 5. Late appeals[^key-2ac1bbe39a1cc8dddd4fcebee569dd89]
+### 5. Late appeals[^c-2ac1bbe39a1cc8dddd4fcebee569dd89]
 
 (1) The time within which an appeal must be brought may be extended where the conditions specified in paragraphs (2) to (8) are satisfied, but no appeal shall in any event be brought more than one year after the expiry of the last day for appealing under section 39(1) of the Act.
 
@@ -155,7 +155,7 @@ and as a result of those special circumstances, it was not practicable for the a
 
 (12) In this regulation “Commissioner” includes a Commissioner within the meaning of section 39(1) of the Social Security Act 1998[^f00008].
 
-### 6. Making of an application for an extension of time[^key-1557498762b7e78e7f8f835de6182893]
+### 6. Making of an application for an extension of time[^c-1557498762b7e78e7f8f835de6182893]
 
 An application for an extension of time for making an appeal to an appeal tribunal shall be made in writing to the Board and shall–
 
@@ -165,7 +165,7 @@ An application for an extension of time for making an appeal to an appeal tribun
   - (iii) the grounds on which the extension of time is sought; and
 - (b) be signed by or on behalf of the appellant.
 
-### 7. Making an application for a direction[^key-7d2e78681cd04443ac5a2f82233e05b4]
+### 7. Making an application for a direction[^c-7d2e78681cd04443ac5a2f82233e05b4]
 
 An application for a direction to be made by an appeal tribunal shall–
 
@@ -173,7 +173,7 @@ An application for a direction to be made by an appeal tribunal shall–
 - (b) contain sufficient information for the Board to determine the identity of the applicant; and
 - (c) be signed by or on behalf of the appellant.
 
-### 8. Death of a party to an appeal or an application for a direction[^key-4cdcb22767e1826ac576b6d2870d435b]
+### 8. Death of a party to an appeal or an application for a direction[^c-4cdcb22767e1826ac576b6d2870d435b]
 
 (1) In any proceedings relating to an appeal or an application for a direction, on the death of a party to those proceedings (other than the Board) the following persons may proceed with the appeal or application for a direction in the place of such deceased party–
 
@@ -194,7 +194,7 @@ An application for a direction to be made by an appeal tribunal shall–
 
 ### CHAPTER I — Appeal tribunals
 
-#### 9. Composition of appeal tribunals[^key-19116e755a66bc474e95c68f5a6f81fe]
+#### 9. Composition of appeal tribunals[^c-19116e755a66bc474e95c68f5a6f81fe]
 
 (1) Subject to the following provisions of this regulation, an appeal tribunal, for the purposes of these Regulations, shall consist of a legally qualified panel member.
 
@@ -218,13 +218,13 @@ An application for a direction to be made by an appeal tribunal shall–
 
 (6) A person shall not act as a medically qualified panel member of an appeal tribunal in any appeal if he has at any time advised or prepared a report on any person whose medical condition is relevant to the issue in the appeal, or has at any time regularly attended such a person.
 
-#### 10. Assignment of clerks to appeal tribunals[^key-8ec8617a6bab4792d69be63337d37af1]
+#### 10. Assignment of clerks to appeal tribunals[^c-8ec8617a6bab4792d69be63337d37af1]
 
 The Department shall assign a clerk to service each appeal tribunal and the clerk so assigned shall be responsible for summoning members of the panel to serve on the tribunal.
 
 ### CHAPTER II — Procedure in connection with determination of appeals, applications for directions and penalty proceedings
 
-#### 11. Consideration and determination of appeals, applications for a direction and penalty proceedings[^key-3ecccca18cafeacd94f5b271e056d338]
+#### 11. Consideration and determination of appeals, applications for a direction and penalty proceedings[^c-3ecccca18cafeacd94f5b271e056d338]
 
 (1) The procedure in connection with the consideration and determination of an appeal, an application for a direction or penalty proceedings shall, subject to the following provisions of these Regulations, be such as a legally qualified panel member shall determine.
 
@@ -232,7 +232,7 @@ The Department shall assign a clerk to service each appeal tribunal and the cler
 
 (3) Where the clerk to the appeal tribunal is authorised to take steps in relation to the procedure of the tribunal he may give directions requiring any party to the proceedings to comply with any provision of these Regulations.
 
-#### 12. Directions concerning oral hearings[^key-21ea82cc2e3a7c8ff01edccde5a242c3]
+#### 12. Directions concerning oral hearings[^c-21ea82cc2e3a7c8ff01edccde5a242c3]
 
 (1) Where an appeal or an application for a direction is made to an appeal tribunal, the clerk to the appeal tribunal shall direct the appellant or applicant and any other party to the proceedings to notify the clerk to the appeal tribunal in writing whether he wishes to have an oral hearing of that appeal or that application, or whether he is content for that appeal or that application to proceed without an oral hearing.
 
@@ -244,7 +244,7 @@ The Department shall assign a clerk to service each appeal tribunal and the cler
 
 (5) The chairman, or in the case of an appeal tribunal which has only one member, that member, may of his own motion direct that an oral hearing of the appeal or application for a direction be held if he is satisfied that such a hearing is necessary to enable the appeal tribunal to reach a decision.
 
-#### 13. Withdrawal of application for a direction or penalty proceedings[^key-a2894f983d3075d98e25e6b64f3b85fe]
+#### 13. Withdrawal of application for a direction or penalty proceedings[^c-a2894f983d3075d98e25e6b64f3b85fe]
 
 (1) An application for a direction may be withdrawn by the applicant, or penalty proceedings may be withdrawn by the Board, at any time before that application is, or those proceedings are, determined, either–
 
@@ -255,7 +255,7 @@ The Department shall assign a clerk to service each appeal tribunal and the cler
 
 (3) If an application for a direction is, or penalty proceedings are, withdrawn in accordance with paragraph (1)(b), the clerk to the appeal tribunal shall send notice in writing to every party to the proceedings informing them that the application for a direction has, or penalty proceedings have, been withdrawn.
 
-#### 14. Non-disclosure of medical advice or evidence[^key-8bce1ac52ab9f67721177858c6cdc8a7]
+#### 14. Non-disclosure of medical advice or evidence[^c-8bce1ac52ab9f67721177858c6cdc8a7]
 
 (1) Where, in connection with an appeal, an application for a direction or penalty proceedings, there is medical advice or medical evidence relating to a person which has not been disclosed to him and in the opinion of a legally qualified panel member, the disclosure to that person of that advice or evidence would be harmful to his health, such advice or evidence shall not be required to be disclosed to that person.
 
@@ -269,7 +269,7 @@ unless a legally qualified panel member is satisfied that it is in the interests
 
 (3) A tribunal shall not be precluded from taking into account for the purposes of the determination advice or evidence which has not been disclosed to a person under the provisions of paragraph (1) or (2).
 
-#### 15. Summoning of witnesses and administration of oaths[^key-f95b42959e2194ed94ba698f527d981a]
+#### 15. Summoning of witnesses and administration of oaths[^c-f95b42959e2194ed94ba698f527d981a]
 
 (1) A chairman or, in the case of an appeal tribunal which has only one member, that member, may by summons require any person in Northern Ireland to attend as a witness at a hearing of an appeal, an application for a direction or penalty proceedings, at such time and place as shall be specified in the summons and, subject to paragraph (2), at the hearing to answer any question or produce any documents in his custody or under his control which relate to any matter in question in that appeal, application or those proceedings but–
 
@@ -286,7 +286,7 @@ unless a legally qualified panel member is satisfied that it is in the interests
 
 ### CHAPTER III — Striking out appeals and applications for a direction
 
-#### 16. Cases which may be struck out[^key-bab006c23a996c925cf4ae781aee49e5]
+#### 16. Cases which may be struck out[^c-bab006c23a996c925cf4ae781aee49e5]
 
 (1) Subject to paragraphs (2) and (3), a case may be struck out by the clerk to the appeal tribunal–
 
@@ -297,7 +297,7 @@ unless a legally qualified panel member is satisfied that it is in the interests
 
 (3) The clerk to the appeal tribunal may refer any matter for determination under this regulation to a legally qualified panel member for decision by the panel member rather than the clerk to the appeal tribunal.
 
-#### 17. Reinstatement of struck out cases[^key-e0e7ad76c32b26e06d11a92f3d3a6698]
+#### 17. Reinstatement of struck out cases[^c-e0e7ad76c32b26e06d11a92f3d3a6698]
 
 (1) The clerk to the appeal tribunal may reinstate a case which has been struck out in accordance with regulation 16(1)(b) where–
 
@@ -315,7 +315,7 @@ but if the clerk to the appeal tribunal is not satisfied that there are reasonab
 
 ### CHAPTER IV — Oral hearings
 
-#### 18. Procedure at oral hearings[^key-aa2a560a3973a33286bf81c7df14978c]
+#### 18. Procedure at oral hearings[^c-aa2a560a3973a33286bf81c7df14978c]
 
 (1) Subject to the following provisions of this Part, the procedure for an oral hearing shall be such as the chairman, or in the case of an appeal tribunal which has only one member, such as that member, shall determine.
 
@@ -374,7 +374,7 @@ may remain present at any such sitting.
 
 (14) In this regulation “live television link” means a live television link or other facilities which allow a person who is not physically present at an oral hearing to see and hear the proceedings and be seen and heard by those physically present.
 
-#### 19. Manner of providing expert assistance[^key-3eb5466d8548536163e8f38fe3e34017]
+#### 19. Manner of providing expert assistance[^c-3eb5466d8548536163e8f38fe3e34017]
 
 (1) Where an appeal tribunal requires one or more experts to provide assistance to it in dealing with a question of fact of special difficulty under Article 8(4) of the Order, such an expert shall, if the chairman or, in the case of an appeal tribunal which has only one member, that member, so requests, attend at the hearing and give evidence.
 
@@ -382,7 +382,7 @@ may remain present at any such sitting.
 
 (3) A copy of any written report received from an expert in accordance with paragraph (2) shall be supplied to every party to the proceedings.
 
-#### 20. Postponement and adjournment[^key-7fe6d88128eeda40a84d14a04df72cd1]
+#### 20. Postponement and adjournment[^c-7fe6d88128eeda40a84d14a04df72cd1]
 
 (1) Where a person to whom–
 
@@ -402,7 +402,7 @@ wishes to request a postponement of that hearing he shall do so in writing to th
 
 ### CHAPTER V — Decisions of appeal tribunals and related matters
 
-#### 21. Decisions of appeal tribunals[^key-49121e8915e88992fa637df54e05ddb0]
+#### 21. Decisions of appeal tribunals[^c-49121e8915e88992fa637df54e05ddb0]
 
 (1) Every decision of an appeal tribunal shall be recorded in summary by the chairman or, in the case of an appeal tribunal which has only one member, by that member and shall be referred to as a decision notice.
 
@@ -419,7 +419,7 @@ wishes to request a postponement of that hearing he shall do so in writing to th
 
 (6) If the decision is not unanimous, the decision notice specified in paragraph (1) shall record that one of the members dissented and the statement of reasons referred to in paragraph (5) shall include the reasons given by that member for dissenting.
 
-#### 22. Late applications for a statement of reasons for tribunal decision[^key-b66434c3a79117e0e4afeae67b2b5764]
+#### 22. Late applications for a statement of reasons for tribunal decision[^c-b66434c3a79117e0e4afeae67b2b5764]
 
 (1) The time for making an application for the statement of reasons for an appeal tribunal’s decision may be extended where the conditions specified in paragraphs (2) to (8) are satisfied, but, subject to paragraph (13), no application shall in any event be brought more than three months after the date of the sending or giving of the notice of the decision of the appeal tribunal.
 
@@ -464,19 +464,19 @@ and as a result of those special circumstances it was not practicable for the ap
 
 (14) In this regulation “Commissioner” includes a Commissioner within the meaning of section 39(1) of the Social Security Act 1998.
 
-#### 23. Record of tribunal proceedings[^key-b58e83eadd090e77c727d09ebbca76f0]
+#### 23. Record of tribunal proceedings[^c-b58e83eadd090e77c727d09ebbca76f0]
 
 (1) A record of the proceedings at an oral hearing, which is sufficient to indicate the evidence taken, shall be made by the chairman or, in the case of an appeal tribunal which has only one member, by that member, in such medium as he may determine.
 
 (2) Such record shall be preserved by the clerk to the appeal tribunal for six months from the date of the decision made by the appeal tribunal to which the record relates and any party to the proceedings may within that period apply in writing for a copy of that record and a copy shall be supplied to him.
 
-#### 24. Correction of accidental errors[^key-37143af45c3af93ba8c4f58110c0e100]
+#### 24. Correction of accidental errors[^c-37143af45c3af93ba8c4f58110c0e100]
 
 (1) The clerk to the appeal tribunal or a legally qualified panel member may at any time correct accidental errors in any decision, or the record of any such decision, of an appeal tribunal made pursuant to the Act.
 
 (2) A correction made to, or to the record of, a decision shall be deemed to be part of the decision or record of that decision and written notice of it shall be given as soon as practicable to every party to the proceedings.
 
-#### 25. Setting aside decisions on certain grounds[^key-8b142966e896fe850b1e0240d8d988c6]
+#### 25. Setting aside decisions on certain grounds[^c-8b142966e896fe850b1e0240d8d988c6]
 
 (1) On an application made by a party to the proceedings a decision of an appeal tribunal made pursuant to the Act may be set aside by a legally qualified panel member in a case where it appears just to set the decision aside on the ground that–
 
@@ -526,7 +526,7 @@ and as a result of those special circumstances, it was not practicable for the a
 
 (12) An application under this regulation for an extension of time which has been refused may not be renewed.
 
-#### 26. Provisions common to regulations 24 and 25[^key-e1f777d5fb69ce2c0d718f8212d91a01]
+#### 26. Provisions common to regulations 24 and 25[^c-e1f777d5fb69ce2c0d718f8212d91a01]
 
 (1) In calculating any time specified for appealing to a Commissioner from a decision of an appeal tribunal there shall be disregarded any day falling before the day on which notice was given of–
 
@@ -537,7 +537,7 @@ and as a result of those special circumstances, it was not practicable for the a
 
 (3) Nothing in this Chapter shall be construed as derogating from any power to correct errors or set aside decisions which is exercisable apart from these Regulations.
 
-#### 27. Application for leave to appeal to a Commissioner from a decision of an appeal tribunal[^key-791d2ad150186f7adda833349f8def63]
+#### 27. Application for leave to appeal to a Commissioner from a decision of an appeal tribunal[^c-791d2ad150186f7adda833349f8def63]
 
 (1) Subject to Article 15 of the Order (as applied and modified by the Appeals Regulations), an application for leave to appeal to a Commissioner from a decision of an appeal tribunal under Article 13 or 14 of the Order (as applied and modified by the Appeals Regulations) shall–
 
@@ -583,7 +583,7 @@ These Regulations do not impose a charge on business.
 
 [^f00002]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-ce8ac5069e0eff3894279d4190ed754b]: Commencement: Reg. 1 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-ce8ac5069e0eff3894279d4190ed754b]: Commencement: Reg. 1 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
 [^f00003]: Footnote: [2002 c. 21](https://www.legislation.gov.uk/ukpga/2002/21)
 
@@ -593,62 +593,62 @@ These Regulations do not impose a charge on business.
 
 [^f00006]: Footnote: Paragraph 3 was amended by regulation 2(21) of [S.R. 2002 No. 189](https://www.legislation.gov.uk/nisr/2002/189)
 
-[^key-ce7d2cc47a1e1c4a94d6241f7a787c47]: Commencement: Reg. 2 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-ce7d2cc47a1e1c4a94d6241f7a787c47]: Commencement: Reg. 2 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-ac76a548bd993e347305ca07222ccb76]: Commencement: Reg. 3 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-ac76a548bd993e347305ca07222ccb76]: Commencement: Reg. 3 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1987 No. 465](https://www.legislation.gov.uk/nisr/1987/465)
 
-[^key-a7f95335060c0f23ddd6250f91f39cbc]: Commencement: Reg. 4 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-a7f95335060c0f23ddd6250f91f39cbc]: Commencement: Reg. 4 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-2ac1bbe39a1cc8dddd4fcebee569dd89]: Commencement: Reg. 5 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-2ac1bbe39a1cc8dddd4fcebee569dd89]: Commencement: Reg. 5 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
 [^f00008]: Footnote: [1998 c. 14](https://www.legislation.gov.uk/ukpga/1998/14)
 
-[^key-1557498762b7e78e7f8f835de6182893]: Commencement: Reg. 6 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-1557498762b7e78e7f8f835de6182893]: Commencement: Reg. 6 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-7d2e78681cd04443ac5a2f82233e05b4]: Commencement: Reg. 7 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-7d2e78681cd04443ac5a2f82233e05b4]: Commencement: Reg. 7 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-4cdcb22767e1826ac576b6d2870d435b]: Commencement: Reg. 8 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-4cdcb22767e1826ac576b6d2870d435b]: Commencement: Reg. 8 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-19116e755a66bc474e95c68f5a6f81fe]: Commencement: Reg. 9 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-19116e755a66bc474e95c68f5a6f81fe]: Commencement: Reg. 9 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
 [^f00009]: Footnote: S.I. [2002/2005](https://www.legislation.gov.uk/uksi/2002/2005)
 
 [^f00010]: Footnote: S.I. [2002/2007](https://www.legislation.gov.uk/uksi/2002/2007)
 
-[^key-8ec8617a6bab4792d69be63337d37af1]: Commencement: Reg. 10 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-8ec8617a6bab4792d69be63337d37af1]: Commencement: Reg. 10 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-3ecccca18cafeacd94f5b271e056d338]: Commencement: Reg. 11 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-3ecccca18cafeacd94f5b271e056d338]: Commencement: Reg. 11 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-21ea82cc2e3a7c8ff01edccde5a242c3]: Commencement: Reg. 12 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-21ea82cc2e3a7c8ff01edccde5a242c3]: Commencement: Reg. 12 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-a2894f983d3075d98e25e6b64f3b85fe]: Commencement: Reg. 13 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-a2894f983d3075d98e25e6b64f3b85fe]: Commencement: Reg. 13 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-8bce1ac52ab9f67721177858c6cdc8a7]: Commencement: Reg. 14 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-8bce1ac52ab9f67721177858c6cdc8a7]: Commencement: Reg. 14 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-f95b42959e2194ed94ba698f527d981a]: Commencement: Reg. 15 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-f95b42959e2194ed94ba698f527d981a]: Commencement: Reg. 15 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-bab006c23a996c925cf4ae781aee49e5]: Commencement: Reg. 16 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-bab006c23a996c925cf4ae781aee49e5]: Commencement: Reg. 16 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-e0e7ad76c32b26e06d11a92f3d3a6698]: Commencement: Reg. 17 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-e0e7ad76c32b26e06d11a92f3d3a6698]: Commencement: Reg. 17 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-aa2a560a3973a33286bf81c7df14978c]: Commencement: Reg. 18 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-aa2a560a3973a33286bf81c7df14978c]: Commencement: Reg. 18 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-3eb5466d8548536163e8f38fe3e34017]: Commencement: Reg. 19 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-3eb5466d8548536163e8f38fe3e34017]: Commencement: Reg. 19 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-7fe6d88128eeda40a84d14a04df72cd1]: Commencement: Reg. 20 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-7fe6d88128eeda40a84d14a04df72cd1]: Commencement: Reg. 20 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-49121e8915e88992fa637df54e05ddb0]: Commencement: Reg. 21 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-49121e8915e88992fa637df54e05ddb0]: Commencement: Reg. 21 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-b66434c3a79117e0e4afeae67b2b5764]: Commencement: Reg. 22 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-b66434c3a79117e0e4afeae67b2b5764]: Commencement: Reg. 22 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-b58e83eadd090e77c727d09ebbca76f0]: Commencement: Reg. 23 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-b58e83eadd090e77c727d09ebbca76f0]: Commencement: Reg. 23 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-37143af45c3af93ba8c4f58110c0e100]: Commencement: Reg. 24 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-37143af45c3af93ba8c4f58110c0e100]: Commencement: Reg. 24 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-8b142966e896fe850b1e0240d8d988c6]: Commencement: Reg. 25 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-8b142966e896fe850b1e0240d8d988c6]: Commencement: Reg. 25 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-e1f777d5fb69ce2c0d718f8212d91a01]: Commencement: Reg. 26 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-e1f777d5fb69ce2c0d718f8212d91a01]: Commencement: Reg. 26 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
 
-[^key-791d2ad150186f7adda833349f8def63]: Commencement: Reg. 27 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)
+[^c-791d2ad150186f7adda833349f8def63]: Commencement: Reg. 27 in operation at 1.1.2003, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2002/403/regulation/1/1)

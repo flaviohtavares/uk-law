@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 32. Use of subsoil[^key-1d603c1b2ebc42b29e2d370b47af63bc]
+## 32. Use of subsoil[^c-1d603c1b2ebc42b29e2d370b47af63bc]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1d603c1b2ebc42b29e2d370b47af63bc]: Commencement: Art. 32 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-1d603c1b2ebc42b29e2d370b47af63bc]: Commencement: Art. 32 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
 
 [^f00023]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).

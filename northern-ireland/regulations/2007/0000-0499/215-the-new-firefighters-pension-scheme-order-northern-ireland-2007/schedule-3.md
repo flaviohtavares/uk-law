@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-### 13. Regular firefighters who became members of the 2007 scheme on or after 6th April 2006[^key-666c638be8d8e62aafd73bbaa123db93]
+### 13. Regular firefighters who became members of the 2007 scheme on or after 6th April 2006[^c-666c638be8d8e62aafd73bbaa123db93]
 
 (1) The following provisions of this paragraph apply in relation to regular firefighters who became members of the 2007 Scheme on or after 6th April 2006 and before the coming into operation of this Order.
 
@@ -39,7 +39,7 @@ summary: ''
 
   .
 
-### 14. Options for pre-6th April 2006 members of the 2007 Scheme[^key-92ed0db165cdd59df7182ec8ca7a243c]
+### 14. Options for pre-6th April 2006 members of the 2007 Scheme[^c-92ed0db165cdd59df7182ec8ca7a243c]
 
 (1) Sub-paragraph (2) applies in relation to each person who—
 
@@ -85,7 +85,7 @@ would exceed 45 years by the time of his 60th birthday.
 - (b) nothing in paragraph (a) shall affect his entitlement to make an election under article 66 of the new Scheme (election to purchase additional service); and
 - (c) for the purposes of article 65(4), the calculation under sub-paragraph (a) or, as the case may be, the determination under sub-paragraph (b), shall be made on the basis of his age at the time of his election under article 62 of the 2007 Scheme.
 
-### 15. Calculation of transferred-in pensionable service[^key-e094570b11eb28b6ed30e5619257a983]
+### 15. Calculation of transferred-in pensionable service[^c-e094570b11eb28b6ed30e5619257a983]
 
 For the purposes of calculating the pensionable service that a person is treated as having accrued in the new scheme on the transfer of his accrued rights under the 2007 Scheme, the Board shall—
 
@@ -94,8 +94,8 @@ For the purposes of calculating the pensionable service that a person is treated
 
 ## Annotations
 
-[^key-666c638be8d8e62aafd73bbaa123db93]: Commencement: Sch. 3 para. 13 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-666c638be8d8e62aafd73bbaa123db93]: Commencement: Sch. 3 para. 13 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-92ed0db165cdd59df7182ec8ca7a243c]: Commencement: Sch. 3 para. 14 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-92ed0db165cdd59df7182ec8ca7a243c]: Commencement: Sch. 3 para. 14 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
 
-[^key-e094570b11eb28b6ed30e5619257a983]: Commencement: Sch. 3 para. 15 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)
+[^c-e094570b11eb28b6ed30e5619257a983]: Commencement: Sch. 3 para. 15 in operation at 30.3.2007 (with effect in accordance with [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)), see [art. 2(1)](https://www.legislation.gov.uk/nisr/2007/215/article/2/1)

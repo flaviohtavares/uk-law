@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. General advice and information with regard to exercise of functions[^key-b3b46520da065007e91f9fa8a5251542]
+## 39. General advice and information with regard to exercise of functions[^c-b3b46520da065007e91f9fa8a5251542]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3b46520da065007e91f9fa8a5251542]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2020/27/section/39) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/f)
+[^c-b3b46520da065007e91f9fa8a5251542]: Commencement: [S. 39](https://www.legislation.gov.uk/ukpga/2020/27/section/39) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/f)

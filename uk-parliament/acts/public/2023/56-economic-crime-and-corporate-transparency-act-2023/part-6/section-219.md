@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 219. Commencement[^key-6c705eaafd2ea3dd91b414ab292e72c5]
+## 219. Commencement[^c-6c705eaafd2ea3dd91b414ab292e72c5]
 
 *Extent: E+W+S+N.I.*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c705eaafd2ea3dd91b414ab292e72c5]: Commencement: S. 219 in force at Royal Assent, see [s. 219(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/a)
+[^c-6c705eaafd2ea3dd91b414ab292e72c5]: Commencement: S. 219 in force at Royal Assent, see [s. 219(2)(a)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/2/a)

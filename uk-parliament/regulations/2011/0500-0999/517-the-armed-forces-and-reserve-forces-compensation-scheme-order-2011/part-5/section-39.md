@@ -22,15 +22,15 @@ summary: ''
 
 (1) This article applies where a person is entitled to guaranteed income payment, survivor's guaranteed income payment or child's payment for any period during which the person is also entitled to—
 
-- (a)[^key-3ead5535613f1b8b3ea886031f43f903] a pension under the AFPS 1975, the AFPS 2005, the AFPS 2015 or the Gurkha Pension Scheme (“a pension”); or
-- (b) a payment under the Armed Forces Early Departure Payments Scheme Order 2005 [^c2072347] or the Armed Forces Early Departure Payments Scheme Regulations 2014[^key-30dcd0c8f8a91004731d510fd19f9063] (“a payment”).
+- (a)[^c-3ead5535613f1b8b3ea886031f43f903] a pension under the AFPS 1975, the AFPS 2005, the AFPS 2015 or the Gurkha Pension Scheme (“a pension”); or
+- (b) a payment under the Armed Forces Early Departure Payments Scheme Order 2005 [^c2072347] or the Armed Forces Early Departure Payments Scheme Regulations 2014[^c-30dcd0c8f8a91004731d510fd19f9063] (“a payment”).
 
 (2) Guaranteed income payment, the survivor's guaranteed income payment or the child's payment, as the case may be, is to be adjusted in accordance with paragraphs (3) or (4).
 
 (3) Where a person is entitled to guaranteed income payment for any period during which the person is also entitled—
 
 - (a) to a payment, or to a pension which is not an ill-health pension paid for the same injury for which the guaranteed income payment is paid, then the amount of the guaranteed income payment is reduced by 75% of the amount of that pension or payment;
-- (b)[^key-8a0c05b691f88a29ee71fcc301d4297a] to a payment or to an ill-health pension which is paid for the same injury for which the guaranteed income payment is paid, then the amount of the guaranteed income payment is reduced by the full amount of the payment or, as the case may be, the ill-health pension.
+- (b)[^c-8a0c05b691f88a29ee71fcc301d4297a] to a payment or to an ill-health pension which is paid for the same injury for which the guaranteed income payment is paid, then the amount of the guaranteed income payment is reduced by the full amount of the payment or, as the case may be, the ill-health pension.
 
 (4) Where a person is entitled to survivor's guaranteed income payment or child's payment for any period during which the person is also entitled to a pension, then the amount of survivor's guaranteed income payment or child's payment is reduced by 75% of the amount of that pension.
 
@@ -40,10 +40,10 @@ summary: ''
 
 ## Annotations
 
-[^key-3ead5535613f1b8b3ea886031f43f903]: Textual amendment: Art. 39(1)(a) substituted (6.4.2015) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2015 (S.I. 2015/413)](https://www.legislation.gov.uk/uksi/2015/413), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/413/article/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2015/413/article/7/a)
+[^c-3ead5535613f1b8b3ea886031f43f903]: Textual amendment: Art. 39(1)(a) substituted (6.4.2015) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2015 (S.I. 2015/413)](https://www.legislation.gov.uk/uksi/2015/413), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/413/article/1/1), [7(a)](https://www.legislation.gov.uk/uksi/2015/413/article/7/a)
 
 [^c2072347]: Marginal citation: [S.I. 2005/437](https://www.legislation.gov.uk/uksi/2005/437), as amended by [S.I. 2006/717](https://www.legislation.gov.uk/uksi/2006/717), 2007/2608, 2008/229 and 2009/544.
 
-[^key-30dcd0c8f8a91004731d510fd19f9063]: Textual amendment: Words in art. 39(1)(b) inserted (6.4.2015) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2015 (S.I. 2015/413)](https://www.legislation.gov.uk/uksi/2015/413), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/413/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2015/413/article/7/b)
+[^c-30dcd0c8f8a91004731d510fd19f9063]: Textual amendment: Words in art. 39(1)(b) inserted (6.4.2015) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2015 (S.I. 2015/413)](https://www.legislation.gov.uk/uksi/2015/413), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/413/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2015/413/article/7/b)
 
-[^key-8a0c05b691f88a29ee71fcc301d4297a]: Textual amendment: [Art. 39(3)(b)](https://www.legislation.gov.uk/uksi/2011/517/article/39/3/b) substituted (9.4.2018) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2018 (S.I. 2018/293)](https://www.legislation.gov.uk/uksi/2018/293), [arts. 1](https://www.legislation.gov.uk/uksi/2018/293/article/1), [6](https://www.legislation.gov.uk/uksi/2018/293/article/6)
+[^c-8a0c05b691f88a29ee71fcc301d4297a]: Textual amendment: [Art. 39(3)(b)](https://www.legislation.gov.uk/uksi/2011/517/article/39/3/b) substituted (9.4.2018) by [The Armed Forces and Reserve Forces (Compensation Scheme) (Amendment) Order 2018 (S.I. 2018/293)](https://www.legislation.gov.uk/uksi/2018/293), [arts. 1](https://www.legislation.gov.uk/uksi/2018/293/article/1), [6](https://www.legislation.gov.uk/uksi/2018/293/article/6)

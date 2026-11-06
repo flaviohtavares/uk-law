@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Firearms Act 1968: meaning of “firearm” etc[^c22719641][^key-c2a3c09cebf2bced550b79c4dd6a6b2e]
+## 125. Firearms Act 1968: meaning of “firearm” etc[^c22719641][^c-c2a3c09cebf2bced550b79c4dd6a6b2e]
 
 *Extent: E+W+S*
 
@@ -88,4 +88,4 @@ summary: ''
 
 [^c22719641]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2017/3/section/125) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-c2a3c09cebf2bced550b79c4dd6a6b2e]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2017/3/section/125) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/b)
+[^c-c2a3c09cebf2bced550b79c4dd6a6b2e]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2017/3/section/125) in force at 2.5.2017 in so far as not already in force by [S.I. 2017/399](https://www.legislation.gov.uk/uksi/2017/399), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2017/399/regulation/4/b)

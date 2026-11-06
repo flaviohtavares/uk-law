@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 45ZA. Sunday working for shop workers: additional hours[^key-39d8cd290cc0f357c982a94495dcf87e]
+## 45ZA. Sunday working for shop workers: additional hours[^c-39d8cd290cc0f357c982a94495dcf87e]
 
 *Extent: E+W+S*
 
@@ -56,4 +56,4 @@ summary: ''
 
 ## Annotations
 
-[^key-39d8cd290cc0f357c982a94495dcf87e]: Textual amendment: S. 45ZA inserted (4.5.2016 for specified purposes) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(d)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/d), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2016/12/schedule/5/paragraph/7)
+[^c-39d8cd290cc0f357c982a94495dcf87e]: Textual amendment: S. 45ZA inserted (4.5.2016 for specified purposes) by [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12), [s. 44(1)(d)](https://www.legislation.gov.uk/ukpga/2016/12/section/44/1/d), [Sch. 5 para. 7](https://www.legislation.gov.uk/ukpga/2016/12/schedule/5/paragraph/7)

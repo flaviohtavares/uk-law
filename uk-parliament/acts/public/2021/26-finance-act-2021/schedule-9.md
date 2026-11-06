@@ -279,7 +279,7 @@ the Commissioners must notify R that the joint and several liability notice is r
   - (iii) involved in the marketing or sale of chargeable plastic packaging components by P as an operator of an online marketplace or fulfilment business, and
 - (b) references to acting in the course of a related business include—
   - (i) in relation to a business that is carried on by a body corporate, being a director, manager, secretary, chief executive or member of the committee of management, or a person purporting to act in such a capacity, and
-  - (ii) in relation to a business that is carried on by an unincorporated body (other than a partnership)[^key-0dbc964d0b305b6115999f505e6ec34b], being an officer of the the body[^key-415998a4bdd424fc0e01ac92248efbcc] or a member of its governing body, or a person purporting to act in such a capacity.
+  - (ii) in relation to a business that is carried on by an unincorporated body (other than a partnership)[^c-0dbc964d0b305b6115999f505e6ec34b], being an officer of the the body[^c-415998a4bdd424fc0e01ac92248efbcc] or a member of its governing body, or a person purporting to act in such a capacity.
 
 #### Interpretation: general
 
@@ -386,9 +386,9 @@ the Commissioners must notify R that the joint and several liability notice is r
 
 [^M_I_77765627-6caa-41df-88f7-19e0ab5cf50b]: Commencement: Sch. 9 para. 21 in force at 1.4.2022 in so far as not already in force by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 4](https://www.legislation.gov.uk/uksi/2021/1409/regulation/4)
 
-[^key-0dbc964d0b305b6115999f505e6ec34b]: Textual amendment: Words in [Sch. 9 para. 21(b)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/9/paragraph/21/b/ii) substituted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 7(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/7/a)
+[^c-0dbc964d0b305b6115999f505e6ec34b]: Textual amendment: Words in [Sch. 9 para. 21(b)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/9/paragraph/21/b/ii) substituted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 7(a)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/7/a)
 
-[^key-415998a4bdd424fc0e01ac92248efbcc]: Textual amendment: Words in [Sch. 9 para. 21(b)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/9/paragraph/21/b/ii) substituted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 7(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/7/b)
+[^c-415998a4bdd424fc0e01ac92248efbcc]: Textual amendment: Words in [Sch. 9 para. 21(b)(ii)](https://www.legislation.gov.uk/ukpga/2021/26/schedule/9/paragraph/21/b/ii) substituted (24.2.2022) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 12 para. 7(b)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/12/paragraph/7/b)
 
 [^M_I_ac98d564-4dc5-4f1b-ccb4-411a64e7ef71]: Commencement: [Sch. 9 para. 22](https://www.legislation.gov.uk/ukpga/2021/26/schedule/9/paragraph/22) in force at 10.12.2021 for specified purposes by [S.I. 2021/1409](https://www.legislation.gov.uk/uksi/2021/1409), [reg. 3](https://www.legislation.gov.uk/uksi/2021/1409/regulation/3)
 

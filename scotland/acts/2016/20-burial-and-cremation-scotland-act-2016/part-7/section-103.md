@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Offences by bodies corporate etc.[^key-38c2fee18f47cf4773c297aa1998bf98]
+## 103. Offences by bodies corporate etc.[^c-38c2fee18f47cf4773c297aa1998bf98]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-38c2fee18f47cf4773c297aa1998bf98]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2016/20/section/103) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-38c2fee18f47cf4773c297aa1998bf98]: Commencement: [S. 103](https://www.legislation.gov.uk/asp/2016/20/section/103) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

@@ -34,7 +34,7 @@ An Act to make provision for the holding of a referendum in the United Kingdom a
 
 \[17th December 2015\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-2c49dcf6baec9ca65ef346f0b0d6ef36]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-2c49dcf6baec9ca65ef346f0b0d6ef36]
 
 ## Contents
 
@@ -69,4 +69,4 @@ SCHEDULES
 
 ## Annotations
 
-[^key-2c49dcf6baec9ca65ef346f0b0d6ef36]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2015/36) functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/997/article/3/1), [Sch. 1(w)](https://www.legislation.gov.uk/uksi/2016/997/schedule/1/w) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2016/997/article/3/2), [6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-2c49dcf6baec9ca65ef346f0b0d6ef36]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2015/36) functions transferred (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [3(1)](https://www.legislation.gov.uk/uksi/2016/997/article/3/1), [Sch. 1(w)](https://www.legislation.gov.uk/uksi/2016/997/schedule/1/w) (with [arts. 3(2)](https://www.legislation.gov.uk/uksi/2016/997/article/3/2), [6](https://www.legislation.gov.uk/uksi/2016/997/article/6), [12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

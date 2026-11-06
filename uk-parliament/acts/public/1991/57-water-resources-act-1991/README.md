@@ -33,7 +33,7 @@ An Act to consolidate enactments relating to the National Rivers Authority and t
 
 \[25th July 1991\] [^c18728401]
 
-[^c18728411][^c18728421][^c18728431][^c18728441]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-c2fba4b2c321fc89db5007f77771f625][^key-ccdba1268e1c648b9b42f713fa1846ab][^key-b87b4129628b3ed05347e1688abda0b6][^key-18f943128f9e1bed719ef96b5df5a7c3][^key-004970a8f2310196d58588472c4d0669][^key-43404f65e9e94652dc1344b13cbbbe49][^key-3fc283a827048fd10ea6068d865ec06b]
+[^c18728411][^c18728421][^c18728431][^c18728441]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-c2fba4b2c321fc89db5007f77771f625][^c-ccdba1268e1c648b9b42f713fa1846ab][^c-b87b4129628b3ed05347e1688abda0b6][^c-18f943128f9e1bed719ef96b5df5a7c3][^c-004970a8f2310196d58588472c4d0669][^c-43404f65e9e94652dc1344b13cbbbe49][^c-3fc283a827048fd10ea6068d865ec06b]
 
 ## Contents
 
@@ -92,7 +92,7 @@ An Act to consolidate enactments relating to the National Rivers Authority and t
 - [Section 22 — Directions to the appropriate agency to consider minimum acceptable flow.](part-ii/section-22.md)
 - [Section 23 — Minimum acceptable level or volume of inland waters.](part-ii/section-23.md)
 
-#### Chapter II — ABSTRACTION AND IMPOUNDING[^c18729661][^c18729671][^key-d82bd025605a6e1473542238a46f5501][^key-9da6bf01c9a099b3cc9fe14ce253b3d2][^key-b5a262d53a6af8ac9e8739c139e49136][^key-5e85536fcc29a9cf14142fde02e085e0][^key-10a7e42e9d04fbc08a803e58a647cf01][^key-d03a1c2014783593603da8c600cb60db][^key-8a892c7b2d5ad5d3c2bb0b09ceb05ca3][^key-6a0da700614b55ffd682a3c9d818f869][^key-6a7f4d8c8e22160b4912c2acdb1df180]
+#### Chapter II — ABSTRACTION AND IMPOUNDING[^c18729661][^c18729671][^c-d82bd025605a6e1473542238a46f5501][^c-9da6bf01c9a099b3cc9fe14ce253b3d2][^c-b5a262d53a6af8ac9e8739c139e49136][^c-5e85536fcc29a9cf14142fde02e085e0][^c-10a7e42e9d04fbc08a803e58a647cf01][^c-d03a1c2014783593603da8c600cb60db][^c-8a892c7b2d5ad5d3c2bb0b09ceb05ca3][^c-6a0da700614b55ffd682a3c9d818f869][^c-6a7f4d8c8e22160b4912c2acdb1df180]
 
 *Extent: E+W*
 
@@ -186,7 +186,7 @@ An Act to consolidate enactments relating to the National Rivers Authority and t
 - [Section 58](part-ii/section-58.md)
 - [Section 59 — Regulations with respect to modification applications.](part-ii/section-59.md)
 
-##### Transfer and apportionment of licences[^key-0f4c17c9431d4be34ae11e4f1ecc6448]
+##### Transfer and apportionment of licences[^c-0f4c17c9431d4be34ae11e4f1ecc6448]
 
 *Extent: E+W*
 
@@ -334,7 +334,7 @@ An Act to consolidate enactments relating to the National Rivers Authority and t
 - [Section 115 — Fisheries orders.](part-v/section-115.md)
 - [Section 116 — Power to give effect to international obligations etc.](part-v/section-116.md)
 
-### Part VI — FINANCIAL PROVISIONS IN RELATION TO THE APPROPRIATE AGENCY[^key-5180afe58c42b0749419cfce59f7b49d]
+### Part VI — FINANCIAL PROVISIONS IN RELATION TO THE APPROPRIATE AGENCY[^c-5180afe58c42b0749419cfce59f7b49d]
 
 *Extent: E+W*
 
@@ -442,7 +442,7 @@ An Act to consolidate enactments relating to the National Rivers Authority and t
 
 *Extent: E+W+S*
 
-#### chapter I — POWERS OF THE APPROPRIATE AGENCY[^key-77698165731c58ae5d0ed18a18c00ea6]
+#### chapter I — POWERS OF THE APPROPRIATE AGENCY[^c-77698165731c58ae5d0ed18a18c00ea6]
 
 *Extent: E+W+S*
 
@@ -468,7 +468,7 @@ An Act to consolidate enactments relating to the National Rivers Authority and t
 - [Section 159 — Powers to lay pipes in streets.](part-vii/section-159.md)
 - [Section 160 — Power to lay pipes in other land.](part-vii/section-160.md)
 
-##### Restoration and improvement works for controlled waters[^key-7a8cf06b029cd351a65f7776688b1ceb]
+##### Restoration and improvement works for controlled waters[^c-7a8cf06b029cd351a65f7776688b1ceb]
 
 *Extent: E+W*
 
@@ -521,7 +521,7 @@ An Act to consolidate enactments relating to the National Rivers Authority and t
 
 *Extent: E+W*
 
-##### Vesting of pipes in the appropriate agency[^key-27f251530379244500f24579b73a40e6]
+##### Vesting of pipes in the appropriate agency[^c-27f251530379244500f24579b73a40e6]
 
 *Extent: E+W*
 
@@ -564,7 +564,7 @@ An Act to consolidate enactments relating to the National Rivers Authority and t
 - [Section 187 — . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .](part-viii/section-187.md)
 - [Section 188 — Duty of the Agency and NRBW to publish information](part-viii/section-188.md)
 
-#### Registers etc. to be kept by the appropriate agency[^key-d41226d5e03694891c0cac8d372e2155]
+#### Registers etc. to be kept by the appropriate agency[^c-d41226d5e03694891c0cac8d372e2155]
 
 *Extent: E+W*
 
@@ -575,7 +575,7 @@ An Act to consolidate enactments relating to the National Rivers Authority and t
 - [Section 191B — Exclusion from registers of certain confidential information.](part-viii/section-191b.md)
 - [Section 192 — Maps of fresh-water limits.](part-viii/section-192.md)
 
-#### Main river map for England[^key-6c4978ad850b75fccd4d94bdcc9b90f0]
+#### Main river map for England[^c-6c4978ad850b75fccd4d94bdcc9b90f0]
 
 - [Section 193 — The main river map for England](part-viii/section-193.md)
 - [Section 193A — Inspection and copies](part-viii/section-193a.md)
@@ -584,7 +584,7 @@ An Act to consolidate enactments relating to the National Rivers Authority and t
 - [Section 193D — Appeals](part-viii/section-193d.md)
 - [Section 193E — Guidance](part-viii/section-193e.md)
 
-#### Main river map for Wales[^key-6c4978ad850b75fccd4d94bdcc9b90f0]
+#### Main river map for Wales[^c-6c4978ad850b75fccd4d94bdcc9b90f0]
 
 - [Section 194 — The main river map for Wales](part-viii/section-194.md)
 - [Section 194A — Inspection and copies](part-viii/section-194a.md)
@@ -721,19 +721,19 @@ SCHEDULES
 
 [^c18728441]: Modification: Act: transfer of certain functions (1.7.1999) by 1999/672, art. 2, Sch. 1
 
-[^key-c2fba4b2c321fc89db5007f77771f625]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57) applied (with modifications) (24.3.2005) by [New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/5/2)
+[^c-c2fba4b2c321fc89db5007f77771f625]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57) applied (with modifications) (24.3.2005) by [New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/5/2)
 
-[^key-ccdba1268e1c648b9b42f713fa1846ab]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57) applied (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/497/schedule/3/paragraph/4/2)
+[^c-ccdba1268e1c648b9b42f713fa1846ab]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57) applied (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [Sch. 3 para. 4(2)](https://www.legislation.gov.uk/uksi/2010/497/schedule/3/paragraph/4/2)
 
-[^key-b87b4129628b3ed05347e1688abda0b6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57): power to amend conferred (1.10.2010) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 28](https://www.legislation.gov.uk/ukpga/2010/29/section/28), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
+[^c-b87b4129628b3ed05347e1688abda0b6]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57): power to amend conferred (1.10.2010) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [ss. 28](https://www.legislation.gov.uk/ukpga/2010/29/section/28), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2010/2169](https://www.legislation.gov.uk/uksi/2010/2169), [art. 4](https://www.legislation.gov.uk/uksi/2010/2169/article/4), [Sch.](https://www.legislation.gov.uk/uksi/2010/2169/schedule)
 
-[^key-18f943128f9e1bed719ef96b5df5a7c3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57): power to apply conferred (18.1.2011) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 39(12)-(14)](https://www.legislation.gov.uk/ukpga/2010/29/section/39/12), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2011/95](https://www.legislation.gov.uk/uksi/2011/95), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/95/article/2/c)
+[^c-18f943128f9e1bed719ef96b5df5a7c3]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57): power to apply conferred (18.1.2011) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 39(12)-(14)](https://www.legislation.gov.uk/ukpga/2010/29/section/39/12), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2011/95](https://www.legislation.gov.uk/uksi/2011/95), [art. 2(c)](https://www.legislation.gov.uk/uksi/2011/95/article/2/c)
 
-[^key-004970a8f2310196d58588472c4d0669]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57): power to apply conferred (18.1.2011) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 38(8)-(10)](https://www.legislation.gov.uk/ukpga/2010/29/section/38/8), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2011/95](https://www.legislation.gov.uk/uksi/2011/95), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/95/article/2/b)
+[^c-004970a8f2310196d58588472c4d0669]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57): power to apply conferred (18.1.2011) by [Flood and Water Management Act 2010 (c. 29)](https://www.legislation.gov.uk/ukpga/2010/29), [s. 38(8)-(10)](https://www.legislation.gov.uk/ukpga/2010/29/section/38/8), [49(3)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/3) (with [s. 49(1)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/1)[(6)](https://www.legislation.gov.uk/ukpga/2010/29/section/49/6)); [S.I. 2011/95](https://www.legislation.gov.uk/uksi/2011/95), [art. 2(b)](https://www.legislation.gov.uk/uksi/2011/95/article/2/b)
 
-[^key-43404f65e9e94652dc1344b13cbbbe49]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57) applied (with modifications) (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2015/770/schedule/3/paragraph/5/2)
+[^c-43404f65e9e94652dc1344b13cbbbe49]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57) applied (with modifications) (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [Sch. 3 para. 5(2)](https://www.legislation.gov.uk/uksi/2015/770/schedule/3/paragraph/5/2)
 
-[^key-3fc283a827048fd10ea6068d865ec06b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57) applied in part (Isles of Scilly) (with modifications) (E.W.) (27.3.2020 for specified purposes, otherwise 1.10.2021) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [art. 3](https://www.legislation.gov.uk/uksi/2020/214/article/3)
+[^c-3fc283a827048fd10ea6068d865ec06b]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1991/57) applied in part (Isles of Scilly) (with modifications) (E.W.) (27.3.2020 for specified purposes, otherwise 1.10.2021) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [art. 3](https://www.legislation.gov.uk/uksi/2020/214/article/3)
 
 [^c18729001]: Modification: Pt. II: transfer of functions to the Environment Agency (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 2(1)(a)(i)](https://www.legislation.gov.uk/ukpga/1995/25/section/2/1/a/i) (with [ss. 115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
@@ -741,25 +741,25 @@ SCHEDULES
 
 [^c18729671]: Modification: Chapter II of Part II modified (18.12.1996) by [1996 c. 61](https://www.legislation.gov.uk/ukpga/1996/61), [s. 52](https://www.legislation.gov.uk/ukpga/1996/61/section/52), [Sch. 15 Pt. III para. 11](https://www.legislation.gov.uk/ukpga/1996/61/schedule/15/part/III/paragraph/11)
 
-[^key-d82bd025605a6e1473542238a46f5501]: Modification: Pt. II Ch. II modified (22.3.2005) by [Midland Metro (Wednesbury to Brierley Hill and Miscellaneous Amendments) Order 2005 (S.I. 2005/927)](https://www.legislation.gov.uk/uksi/2005/927), [Sch. 11 para. 11](https://www.legislation.gov.uk/uksi/2005/927/schedule/11/paragraph/11) (with [art. 51](https://www.legislation.gov.uk/uksi/2005/927/article/51))
+[^c-d82bd025605a6e1473542238a46f5501]: Modification: Pt. II Ch. II modified (22.3.2005) by [Midland Metro (Wednesbury to Brierley Hill and Miscellaneous Amendments) Order 2005 (S.I. 2005/927)](https://www.legislation.gov.uk/uksi/2005/927), [Sch. 11 para. 11](https://www.legislation.gov.uk/uksi/2005/927/schedule/11/paragraph/11) (with [art. 51](https://www.legislation.gov.uk/uksi/2005/927/article/51))
 
-[^key-9da6bf01c9a099b3cc9fe14ce253b3d2]: Modification: Pt. II Ch. II modified (26.8.2005) by [River Tyne (Tunnels) Order 2005 (S.I. 2005/2222)](https://www.legislation.gov.uk/uksi/2005/2222), [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1), [Sch. 10 para. 14](https://www.legislation.gov.uk/uksi/2005/2222/schedule/10/paragraph/14) (with [arts. 45(1)](https://www.legislation.gov.uk/uksi/2005/2222/article/45/1), [48](https://www.legislation.gov.uk/uksi/2005/2222/article/48), [Sch. 10 paras. 21](https://www.legislation.gov.uk/uksi/2005/2222/schedule/10/paragraph/21), [29](https://www.legislation.gov.uk/uksi/2005/2222/schedule/10/paragraph/29))
+[^c-9da6bf01c9a099b3cc9fe14ce253b3d2]: Modification: Pt. II Ch. II modified (26.8.2005) by [River Tyne (Tunnels) Order 2005 (S.I. 2005/2222)](https://www.legislation.gov.uk/uksi/2005/2222), [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1), [Sch. 10 para. 14](https://www.legislation.gov.uk/uksi/2005/2222/schedule/10/paragraph/14) (with [arts. 45(1)](https://www.legislation.gov.uk/uksi/2005/2222/article/45/1), [48](https://www.legislation.gov.uk/uksi/2005/2222/article/48), [Sch. 10 paras. 21](https://www.legislation.gov.uk/uksi/2005/2222/schedule/10/paragraph/21), [29](https://www.legislation.gov.uk/uksi/2005/2222/schedule/10/paragraph/29))
 
-[^key-b5a262d53a6af8ac9e8739c139e49136]: Modification: Pt. II Ch. II modified (19.3.2007) by [Ouseburn Barrage Order 2007 (S.I. 2007/608)](https://www.legislation.gov.uk/uksi/2007/608), [art. 1](https://www.legislation.gov.uk/uksi/2007/608/article/1), [Sch. 6 para. 18](https://www.legislation.gov.uk/uksi/2007/608/schedule/6/paragraph/18) (with [arts. 46-48](https://www.legislation.gov.uk/uksi/2007/608/article/46), [Sch. 6 paras. 17(5)](https://www.legislation.gov.uk/uksi/2007/608/schedule/6/paragraph/17/5), [23](https://www.legislation.gov.uk/uksi/2007/608/schedule/6/paragraph/23))
+[^c-b5a262d53a6af8ac9e8739c139e49136]: Modification: Pt. II Ch. II modified (19.3.2007) by [Ouseburn Barrage Order 2007 (S.I. 2007/608)](https://www.legislation.gov.uk/uksi/2007/608), [art. 1](https://www.legislation.gov.uk/uksi/2007/608/article/1), [Sch. 6 para. 18](https://www.legislation.gov.uk/uksi/2007/608/schedule/6/paragraph/18) (with [arts. 46-48](https://www.legislation.gov.uk/uksi/2007/608/article/46), [Sch. 6 paras. 17(5)](https://www.legislation.gov.uk/uksi/2007/608/schedule/6/paragraph/17/5), [23](https://www.legislation.gov.uk/uksi/2007/608/schedule/6/paragraph/23))
 
-[^key-5e85536fcc29a9cf14142fde02e085e0]: Modification: Pt. II Ch. II modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 17 para. 11](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/paragraph/11)
+[^c-5e85536fcc29a9cf14142fde02e085e0]: Modification: Pt. II Ch. II modified (22.7.2008) by [Crossrail Act 2008 (c. 18)](https://www.legislation.gov.uk/ukpga/2008/18), [Sch. 17 para. 11](https://www.legislation.gov.uk/ukpga/2008/18/schedule/17/paragraph/11)
 
-[^key-10a7e42e9d04fbc08a803e58a647cf01]: Modification: Pt. II Ch. II modified (9.6.2009) by [Nottingham Express Transit System Order 2009 (S.I. 2009/1300)](https://www.legislation.gov.uk/uksi/2009/1300), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1), [71(12)](https://www.legislation.gov.uk/uksi/2009/1300/article/71/12) (with [Sch. 13 para. 14(2)](https://www.legislation.gov.uk/uksi/2009/1300/schedule/13/paragraph/14/2), [Sch. 14 para. 19](https://www.legislation.gov.uk/uksi/2009/1300/schedule/14/paragraph/19), [Sch. 16](https://www.legislation.gov.uk/uksi/2009/1300/schedule/16))
+[^c-10a7e42e9d04fbc08a803e58a647cf01]: Modification: Pt. II Ch. II modified (9.6.2009) by [Nottingham Express Transit System Order 2009 (S.I. 2009/1300)](https://www.legislation.gov.uk/uksi/2009/1300), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1), [71(12)](https://www.legislation.gov.uk/uksi/2009/1300/article/71/12) (with [Sch. 13 para. 14(2)](https://www.legislation.gov.uk/uksi/2009/1300/schedule/13/paragraph/14/2), [Sch. 14 para. 19](https://www.legislation.gov.uk/uksi/2009/1300/schedule/14/paragraph/19), [Sch. 16](https://www.legislation.gov.uk/uksi/2009/1300/schedule/16))
 
-[^key-d03a1c2014783593603da8c600cb60db]: Modification: Pt. II Ch. II modified (20.7.2010) by [The Network Rail (Nuneaton North Chord) Order 2010 (S.I. 2010/1721)](https://www.legislation.gov.uk/uksi/2010/1721), [art. 1](https://www.legislation.gov.uk/uksi/2010/1721/article/1), [Sch. 11 para. 12](https://www.legislation.gov.uk/uksi/2010/1721/schedule/11/paragraph/12)
+[^c-d03a1c2014783593603da8c600cb60db]: Modification: Pt. II Ch. II modified (20.7.2010) by [The Network Rail (Nuneaton North Chord) Order 2010 (S.I. 2010/1721)](https://www.legislation.gov.uk/uksi/2010/1721), [art. 1](https://www.legislation.gov.uk/uksi/2010/1721/article/1), [Sch. 11 para. 12](https://www.legislation.gov.uk/uksi/2010/1721/schedule/11/paragraph/12)
 
-[^key-8a892c7b2d5ad5d3c2bb0b09ceb05ca3]: Modification: Pt. II Ch. II modified (27.8.2010) by [The Llangollen and Corwen Railway Order 2010 (S.I. 2010/2136)](https://www.legislation.gov.uk/uksi/2010/2136), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2136/article/1/1), [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2010/2136/schedule/4/paragraph/12)
+[^c-8a892c7b2d5ad5d3c2bb0b09ceb05ca3]: Modification: Pt. II Ch. II modified (27.8.2010) by [The Llangollen and Corwen Railway Order 2010 (S.I. 2010/2136)](https://www.legislation.gov.uk/uksi/2010/2136), [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2136/article/1/1), [Sch. 4 para. 12](https://www.legislation.gov.uk/uksi/2010/2136/schedule/4/paragraph/12)
 
-[^key-6a0da700614b55ffd682a3c9d818f869]: Modification: Pt. II Ch. II modified (1.9.2010) by [The Port of Bristol (Deep Sea Container Terminal) Harbour Revision Order 2010 (S.I. 2010/2020)](https://www.legislation.gov.uk/uksi/2010/2020), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/2), [Sch. 6 para. 11(1)](https://www.legislation.gov.uk/uksi/2010/2020/schedule/6/paragraph/11/1) (with [arts. 18](https://www.legislation.gov.uk/uksi/2010/2020/article/18), [19](https://www.legislation.gov.uk/uksi/2010/2020/article/19))
+[^c-6a0da700614b55ffd682a3c9d818f869]: Modification: Pt. II Ch. II modified (1.9.2010) by [The Port of Bristol (Deep Sea Container Terminal) Harbour Revision Order 2010 (S.I. 2010/2020)](https://www.legislation.gov.uk/uksi/2010/2020), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2020/article/1/2), [Sch. 6 para. 11(1)](https://www.legislation.gov.uk/uksi/2010/2020/schedule/6/paragraph/11/1) (with [arts. 18](https://www.legislation.gov.uk/uksi/2010/2020/article/18), [19](https://www.legislation.gov.uk/uksi/2010/2020/article/19))
 
-[^key-6a7f4d8c8e22160b4912c2acdb1df180]: Modification: Pt. II Ch. II modified (1.2.2011) by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1), [Sch. 10 para. 41(1)](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/41/1) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68)[85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85))
+[^c-6a7f4d8c8e22160b4912c2acdb1df180]: Modification: Pt. II Ch. II modified (1.2.2011) by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1), [Sch. 10 para. 41(1)](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/41/1) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68)[85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85))
 
-[^key-0f4c17c9431d4be34ae11e4f1ecc6448]: Textual amendment: Ss. 59A-59D and cross-heading inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/23/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(m)](https://www.legislation.gov.uk/uksi/2006/984/article/2/m) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/3))
+[^c-0f4c17c9431d4be34ae11e4f1ecc6448]: Textual amendment: Ss. 59A-59D and cross-heading inserted (1.4.2006) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 23(1)](https://www.legislation.gov.uk/ukpga/2003/37/section/23/1), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(m)](https://www.legislation.gov.uk/uksi/2006/984/article/2/m) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/3))
 
 [^c18732251]: Modification: [Pt. III](https://www.legislation.gov.uk/ukpga/1991/57/part/III) (ss. 82-104) modified (subject to other provisions of the amending Act) (1.2.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 5(5)(g)](https://www.legislation.gov.uk/ukpga/1995/25/section/5/5/g) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); S,I. 1996/186, art. 2
 
@@ -775,7 +775,7 @@ SCHEDULES
 
 [^c18734721]: Modification: [Pt. V](https://www.legislation.gov.uk/ukpga/1991/57/part/V) (ss. 114-116): certain functions transferred to the Environment Agency (subject to other provisions of the amending Act) (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 2(1)(a)(v)](https://www.legislation.gov.uk/ukpga/1995/25/section/2/1/a/v) (with [ss. 115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/1996/186/article/4))
 
-[^key-5180afe58c42b0749419cfce59f7b49d]: Textual amendment: Words in Pt. 6 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 274(e)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/274/e) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-5180afe58c42b0749419cfce59f7b49d]: Textual amendment: Words in Pt. 6 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 274(e)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/274/e) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18735721]: Textual amendment: Word in cross-heading to s. 133 substituted (subject to other provisions of amending Act) (1.4.1996) by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 120](https://www.legislation.gov.uk/ukpga/1995/25/section/120), [Sch. 22 para. 128](https://www.legislation.gov.uk/ukpga/1995/25/schedule/22/paragraph/128) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
@@ -783,12 +783,12 @@ SCHEDULES
 
 [^c18736751]: Modification: Pt. VII (ss. 154-186): Transfer of functions (1.4.1996) to the Agency by [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25), [s. 2(1)(a)(iv)](https://www.legislation.gov.uk/ukpga/1995/25/section/2/1/a/iv) (with [ss. 7(6)](https://www.legislation.gov.uk/ukpga/1995/25/section/7/6), [115](https://www.legislation.gov.uk/ukpga/1995/25/section/115), [117](https://www.legislation.gov.uk/ukpga/1995/25/section/117)); [S.I. 1996/186](https://www.legislation.gov.uk/uksi/1996/186), [art. 3](https://www.legislation.gov.uk/uksi/1996/186/article/3)
 
-[^key-77698165731c58ae5d0ed18a18c00ea6]: Textual amendment: Words in Pt. 7 Ch. 1 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 277](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/277) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-77698165731c58ae5d0ed18a18c00ea6]: Textual amendment: Words in Pt. 7 Ch. 1 heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 277](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/277) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-7a8cf06b029cd351a65f7776688b1ceb]: Textual amendment: Ss. 161-161AB substituted for s. 161 (22.12.2009) by [Water Resources Act 1991 (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/3104)](https://www.legislation.gov.uk/uksi/2009/3104), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c), [5](https://www.legislation.gov.uk/uksi/2009/3104/regulation/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/3104/regulation/7))
+[^c-7a8cf06b029cd351a65f7776688b1ceb]: Textual amendment: Ss. 161-161AB substituted for s. 161 (22.12.2009) by [Water Resources Act 1991 (Amendment) (England and Wales) Regulations 2009 (S.I. 2009/3104)](https://www.legislation.gov.uk/uksi/2009/3104), [regs. 1(c)](https://www.legislation.gov.uk/uksi/2009/3104/regulation/1/c), [5](https://www.legislation.gov.uk/uksi/2009/3104/regulation/5) (with [reg. 7](https://www.legislation.gov.uk/uksi/2009/3104/regulation/7))
 
-[^key-27f251530379244500f24579b73a40e6]: Textual amendment: Words in [s. 175 cross-heading](https://www.legislation.gov.uk/ukpga/1991/57/part/VII/chapter/III/crossheading/vesting-of-pipes-in-the-authority) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 294](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/294) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-27f251530379244500f24579b73a40e6]: Textual amendment: Words in [s. 175 cross-heading](https://www.legislation.gov.uk/ukpga/1991/57/part/VII/chapter/III/crossheading/vesting-of-pipes-in-the-authority) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 294](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/294) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-d41226d5e03694891c0cac8d372e2155]: Textual amendment: Words in s. 189 cross-heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-d41226d5e03694891c0cac8d372e2155]: Textual amendment: Words in s. 189 cross-heading substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 299](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/299) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-6c4978ad850b75fccd4d94bdcc9b90f0]: Textual amendment: Ss. 193-194E substituted for ss. 193, 194 (1.10.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/59/2), [94](https://www.legislation.gov.uk/ukpga/2014/21/section/94); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 3](https://www.legislation.gov.uk/uksi/2014/1823/article/3)
+[^c-6c4978ad850b75fccd4d94bdcc9b90f0]: Textual amendment: Ss. 193-194E substituted for ss. 193, 194 (1.10.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 59(2)](https://www.legislation.gov.uk/ukpga/2014/21/section/59/2), [94](https://www.legislation.gov.uk/ukpga/2014/21/section/94); [S.I. 2014/1823](https://www.legislation.gov.uk/uksi/2014/1823), [art. 3](https://www.legislation.gov.uk/uksi/2014/1823/article/3)

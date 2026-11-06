@@ -55,7 +55,7 @@ In this Measure, and in every Measure passed by the General Synod[^c887793] afte
 - The expression “**church**” means any church or chapel which has been consecrated for the purpose of public worship according to the rites and ceremonies of the Church of England.
 - The expression “**the Constitution**” means the Constitution of the Church Assembly set forth in the Appendix to the Addresses presented to His Majesty by the Convocations of Canterbury and York on the tenth day of May, nineteen hundred and nineteen, and laid before both Houses of Parliament, subject to such alterations and additions as have been or may hereafter be made in the said Constitution by any Act of Parliament or Measure.
 - The expression “**Church Assembly**” means the National Assembly of the Church of England as provided for by the Constitution.
-- [^key-d99928dad7922221bbc8146ad899e59e]...
+- [^c-d99928dad7922221bbc8146ad899e59e]...
 - The expression “Regulation” when used of a Regulation made by the Church Assembly means a Regulation making provision in regard to matters concerning the Church of England where such provision does not require Parliamentary sanction.
 - The expression “**House of Bishops**” means the House of Bishops of the Church Assembly.
 - The expression “**House of Clergy**” means the House of Clergy of the Church Assembly.
@@ -64,7 +64,7 @@ In this Measure, and in every Measure passed by the General Synod[^c887793] afte
 - The expression “**Diocesan Board of Finance**” means the body constituted as such for any diocese under the provisions of any Measure, and, pending the passing of such a Measure, the body recognised by the Bishop as the board of finance of the diocese.
 - The expression “**Parochial Church Council**” means a Parochial Church Council as provided for by the Constitution.
 
-## 4. Meaning of “Diocesan Conference” in the Constitution.[^key-e2a51111d53ff159a35821374e6a5a22]
+## 4. Meaning of “Diocesan Conference” in the Constitution.[^c-e2a51111d53ff159a35821374e6a5a22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -96,6 +96,6 @@ This Measure may be cited as the Interpretation Measure 1925.
 
 [^c887794]: Marginal citation: [1662 c. 4](https://www.legislation.gov.uk/aep/1662/4).
 
-[^key-d99928dad7922221bbc8146ad899e59e]: Textual amendment: Words in s. 3 omitted (1.1.2020) by virtue of [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/1); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-d99928dad7922221bbc8146ad899e59e]: Textual amendment: Words in s. 3 omitted (1.1.2020) by virtue of [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/1); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
-[^key-e2a51111d53ff159a35821374e6a5a22]: Textual amendment: S. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 5
+[^c-e2a51111d53ff159a35821374e6a5a22]: Textual amendment: S. 4 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 6](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/6) Group 5

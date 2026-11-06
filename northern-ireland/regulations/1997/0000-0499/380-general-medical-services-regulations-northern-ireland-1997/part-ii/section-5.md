@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Amendment of or withdrawal from the medical list[^key-ca23e5be9519bd1325432532debe0603]
+## 5. Amendment of or withdrawal from the medical list[^c-ca23e5be9519bd1325432532debe0603]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca23e5be9519bd1325432532debe0603]: Commencement: Reg. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-ca23e5be9519bd1325432532debe0603]: Commencement: Reg. 5 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

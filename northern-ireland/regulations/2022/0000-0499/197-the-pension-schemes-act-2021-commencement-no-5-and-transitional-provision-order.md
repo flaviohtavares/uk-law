@@ -37,20 +37,20 @@ Made
 
 The Department for Communities makes the following Order in exercise of the powers conferred by section 131(2), (4) and (6) of the Pension Schemes Act 2021[^f00001].
 
-## 1. Citation and interpretation[^key-57d47aed4829e5e2cb3440555729ef18][^key-57d47aed4829e5e2cb3440555729ef18]
+## 1. Citation and interpretation[^c-57d47aed4829e5e2cb3440555729ef18][^c-57d47aed4829e5e2cb3440555729ef18]
 
 (1) The Order may be cited as the Pension Schemes Act 2021 (Commencement No. 5 and Transitional Provision) Order (Northern Ireland) 2022.
 
 (2) In this Order “**the Act**” means the Pension Schemes Act 2021.
 
-## 2. Provisions coming into operation on 28th July 2022[^key-c156548c2645eea8ea7b9adbec5b0bfd][^key-3cc2dd1bff8e76168b0249a773134672]
+## 2. Provisions coming into operation on 28th July 2022[^c-c156548c2645eea8ea7b9adbec5b0bfd][^c-3cc2dd1bff8e76168b0249a773134672]
 
 The day appointed for the coming into operation of the following provisions of the Act is 28th July 2022—
 
 - (a) section 117(b) (the Pensions Regulator: Northern Ireland) and paragraph 16 of Schedule 8 (amendments of the Pensions (Northern Ireland) Order 2005) in so far as they relate to the provisions specified in paragraph (b), and
 - (b) paragraphs 27 to 31 of Schedule 8 (minor and consequential amendments).
 
-## 3. Provisions coming into operation on 1st August 2022[^key-aaf5847eb15caab631f91d47909ff392][^key-23f7f14e39d19d4c7771ebb32538a59b]
+## 3. Provisions coming into operation on 1st August 2022[^c-aaf5847eb15caab631f91d47909ff392][^c-23f7f14e39d19d4c7771ebb32538a59b]
 
 The day appointed for the coming into operation of the following provisions of the Act is 1st August 2022—
 
@@ -62,7 +62,7 @@ The day appointed for the coming into operation of the following provisions of t
 - (f) paragraph 16 of Schedule 11 (categories of pension schemes: repeal of provisions of Pension Schemes Act (Northern Ireland) 2016), except for sub-paragraph (c) in so far as it omits section 44 of the Pension Schemes Act (Northern Ireland) 2016[^f00003] (removal of requirement to maintain register of independent trustees), and
 - (g) section 129(b) (further provision relating to pension schemes: Northern Ireland) in so far as it relates to the provisions specified in paragraph (f).
 
-## 4. Transitional provision in respect of schemes which were established before 1st August 2022[^key-88d7765ab5aca1348e555295a29a3697][^key-88d7765ab5aca1348e555295a29a3697]
+## 4. Transitional provision in respect of schemes which were established before 1st August 2022[^c-88d7765ab5aca1348e555295a29a3697][^c-88d7765ab5aca1348e555295a29a3697]
 
 (1) Subject to paragraph (2), section 54 of the Act (qualifying schemes) does not apply to a pension scheme which was established before 1st August 2022.
 
@@ -140,18 +140,18 @@ The following provisions of the Pension Schemes Act 2021 have been brought into 
 
 [^f00001]: Footnote: [2021 c. 1](https://www.legislation.gov.uk/ukpga/2021/1)
 
-[^key-57d47aed4829e5e2cb3440555729ef18]: Commencement: Art. 1 in operation at 27.7.2022
+[^c-57d47aed4829e5e2cb3440555729ef18]: Commencement: Art. 1 in operation at 27.7.2022
 
-[^key-c156548c2645eea8ea7b9adbec5b0bfd]: Commencement: Art. 2 in operation at 28.7.2022
+[^c-c156548c2645eea8ea7b9adbec5b0bfd]: Commencement: Art. 2 in operation at 28.7.2022
 
-[^key-3cc2dd1bff8e76168b0249a773134672]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2022/197/article/2) in operation at 27.7.2022, see [Rule](https://www.legislation.gov.uk/nisr/2022/197)
+[^c-3cc2dd1bff8e76168b0249a773134672]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2022/197/article/2) in operation at 27.7.2022, see [Rule](https://www.legislation.gov.uk/nisr/2022/197)
 
-[^key-aaf5847eb15caab631f91d47909ff392]: Commencement: Art. 3 in operation at 1.8.2022
+[^c-aaf5847eb15caab631f91d47909ff392]: Commencement: Art. 3 in operation at 1.8.2022
 
-[^key-23f7f14e39d19d4c7771ebb32538a59b]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2022/197/article/3) in operation at 27.7.2022, see [Rule](https://www.legislation.gov.uk/nisr/2022/197)
+[^c-23f7f14e39d19d4c7771ebb32538a59b]: Commencement: [Art. 3](https://www.legislation.gov.uk/nisr/2022/197/article/3) in operation at 27.7.2022, see [Rule](https://www.legislation.gov.uk/nisr/2022/197)
 
 [^f00002]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); Article 75A was inserted by paragraph 12 of Schedule 8 to the Pension Schemes Act 2021
 
 [^f00003]: Footnote: [2016 c. 1 (N.I. 1)](https://www.legislation.gov.uk/nia/2016/1)
 
-[^key-88d7765ab5aca1348e555295a29a3697]: Commencement: Art. 4 in operation at 27.7.2022
+[^c-88d7765ab5aca1348e555295a29a3697]: Commencement: Art. 4 in operation at 27.7.2022

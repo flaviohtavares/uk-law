@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Transport rules[^key-bf0e598b5ce13e7d6eb7039b7fd6820a]
+## 42. Transport rules[^c-bf0e598b5ce13e7d6eb7039b7fd6820a]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Rules required by regulation 12 shall include rules for the purpose of ensuring 
 
 ## Annotations
 
-[^key-bf0e598b5ce13e7d6eb7039b7fd6820a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2016/427/regulation/42) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-bf0e598b5ce13e7d6eb7039b7fd6820a]: Commencement: [Reg. 42](https://www.legislation.gov.uk/nisr/2016/427/regulation/42) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

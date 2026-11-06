@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Existing assured tenancies to continue as [section 4A](https://www.legislation.gov.uk/ukpga/1988/50/section/4A) assured tenancies[^key-a1942783531ca4d1d1a587260e4f0563]
+## 146. Existing assured tenancies to continue as [section 4A](https://www.legislation.gov.uk/ukpga/1988/50/section/4A) assured tenancies[^c-a1942783531ca4d1d1a587260e4f0563]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1942783531ca4d1d1a587260e4f0563]: Commencement: S. 146 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)
+[^c-a1942783531ca4d1d1a587260e4f0563]: Commencement: S. 146 in force at Royal Assent, see [s. 145(6)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/6)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Imposition, modification or revocation of regulatory conditions[^key-f0350857fdc904fb7cb0ca8d5065d9df]
+## 53. Imposition, modification or revocation of regulatory conditions[^c-f0350857fdc904fb7cb0ca8d5065d9df]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 6 contains general provision about the imposition of regulatory conditi
 
 ## Annotations
 
-[^key-f0350857fdc904fb7cb0ca8d5065d9df]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2011/5/section/53) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-f0350857fdc904fb7cb0ca8d5065d9df]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2011/5/section/53) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

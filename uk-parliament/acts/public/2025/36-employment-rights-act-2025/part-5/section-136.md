@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 136. Disclosure of information: supplementary provision[^key-0cf02f36427e0a42f213c37f7a869579][^key-8b1a966befab85269a4084dd42574b74]
+## 136. Disclosure of information: supplementary provision[^c-0cf02f36427e0a42f213c37f7a869579][^c-8b1a966befab85269a4084dd42574b74]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0cf02f36427e0a42f213c37f7a869579]: Commencement: S. 136 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-0cf02f36427e0a42f213c37f7a869579]: Commencement: S. 136 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-8b1a966befab85269a4084dd42574b74]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2025/36/section/136) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(37)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/37)
+[^c-8b1a966befab85269a4084dd42574b74]: Commencement: [S. 136](https://www.legislation.gov.uk/ukpga/2025/36/section/136) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(37)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/37)

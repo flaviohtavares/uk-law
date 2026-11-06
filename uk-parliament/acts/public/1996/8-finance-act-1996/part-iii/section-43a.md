@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Contaminated land.[^key-0da03924e8064dd5b2281265d1749f72]
+## 43A. Contaminated land.[^c-0da03924e8064dd5b2281265d1749f72]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0da03924e8064dd5b2281265d1749f72]: Textual amendment: [S. 43A](https://www.legislation.gov.uk/ukpga/1996/8/section/43A) omitted (1.4.2012) by virtue of [The Landfill Tax (Material from Contaminated Land) (Phasing out of Exemption) Order 2008 (S.I. 2008/2669)](https://www.legislation.gov.uk/uksi/2008/2669), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2008/2669/article/1/2/c), [4(a)](https://www.legislation.gov.uk/uksi/2008/2669/article/4/a)
+[^c-0da03924e8064dd5b2281265d1749f72]: Textual amendment: [S. 43A](https://www.legislation.gov.uk/ukpga/1996/8/section/43A) omitted (1.4.2012) by virtue of [The Landfill Tax (Material from Contaminated Land) (Phasing out of Exemption) Order 2008 (S.I. 2008/2669)](https://www.legislation.gov.uk/uksi/2008/2669), [arts. 1(2)(c)](https://www.legislation.gov.uk/uksi/2008/2669/article/1/2/c), [4(a)](https://www.legislation.gov.uk/uksi/2008/2669/article/4/a)

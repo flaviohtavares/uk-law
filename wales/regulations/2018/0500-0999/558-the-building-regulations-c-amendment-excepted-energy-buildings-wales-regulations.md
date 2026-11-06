@@ -49,7 +49,7 @@ The Welsh Ministers, in exercise of the powers conferred on them by section 2(2)
 
 ## PART 1 — Preliminary
 
-### 1. Title, commencement, application and interpretation[^key-6ac07581f97e5ad20abd1d252529d524]
+### 1. Title, commencement, application and interpretation[^c-6ac07581f97e5ad20abd1d252529d524]
 
 (1) The title of these Regulations is the Building Regulations &c. (Amendment) (Excepted Energy Buildings) (Wales) Regulations 2018.
 
@@ -61,11 +61,11 @@ The Welsh Ministers, in exercise of the powers conferred on them by section 2(2)
 
 ## PART 2 — The Building Regulations 2010
 
-### 2. Amendment to the Building Regulations 2010[^key-7abcec97edd9200be957c996635cb3a5]
+### 2. Amendment to the Building Regulations 2010[^c-7abcec97edd9200be957c996635cb3a5]
 
 The Building Regulations 2010[^f00007] are amended as set out in regulations 3 to 16.
 
-### 3. Part 1 (general)[^key-7e6c604d40b0285afd26575ecddf13ef]
+### 3. Part 1 (general)[^c-7e6c604d40b0285afd26575ecddf13ef]
 
 In regulation 2 (interpretation) in paragraph (1)—
 
@@ -74,7 +74,7 @@ In regulation 2 (interpretation) in paragraph (1)—
   - (ii) for “40 and 43” substitute “and 40”;
 - (b) omit “excepted energy building”, “new dwelling”, “optional requirement” and “planning permission” and their respective definitions.
 
-### 4. Part 2 (control of building work)[^key-2085e5ca1b68e37564ec99d517fe8916]
+### 4. Part 2 (control of building work)[^c-2085e5ca1b68e37564ec99d517fe8916]
 
 (1) In regulation 4 (requirements relating to building work)—
 
@@ -104,7 +104,7 @@ In regulation 2 (interpretation) in paragraph (1)—
 - (a) after “25B” omit “and”;
 - (b) after “paragraph R1” omit “(in-building physical infrastructure for high-speed electronic communications networks)”.
 
-### 5. Part 3 (notices, plans and certificates)[^key-635aafcbfdf02790ddbbb3b75bcdd56a]
+### 5. Part 3 (notices, plans and certificates)[^c-635aafcbfdf02790ddbbb3b75bcdd56a]
 
 (1) In regulation 12 (giving of a building notice or deposit of plans)—
 
@@ -151,7 +151,7 @@ In regulation 2 (interpretation) in paragraph (1)—
 
   .
 
-### 6. Part 5 (self-certification schemes and third party certification schemes)[^key-76511fa44c034e593fb615a6f144b4e6]
+### 6. Part 5 (self-certification schemes and third party certification schemes)[^c-76511fa44c034e593fb615a6f144b4e6]
 
 (1) In the heading of Part 5 omit “and third party certification schemes”.
 
@@ -166,7 +166,7 @@ In regulation 2 (interpretation) in paragraph (1)—
 
 (3) Omit regulation 20A (provisions applicable to third party certification schemes).
 
-### 7. Part 6 (energy efficiency requirements)[^key-0025f715f446de87c1d097b7777c537c]
+### 7. Part 6 (energy efficiency requirements)[^c-0025f715f446de87c1d097b7777c537c]
 
 (1) In regulation 21 (application of energy efficiency requirements) in paragraph (4)—
 
@@ -254,7 +254,7 @@ In regulation 2 (interpretation) in paragraph (1)—
 
 (10) In regulation 35 (interpretation of Part 6) omit “fabric energy efficiency” and “new dwelling” and their respective definitions.
 
-### 8. Part 7 (water efficiency)[^key-221f8369bee71db0d2d3687d780c8aaa]
+### 8. Part 7 (water efficiency)[^c-221f8369bee71db0d2d3687d780c8aaa]
 
 (1) For regulation 36 (water efficiency of new dwellings) substitute—
 
@@ -269,7 +269,7 @@ In regulation 2 (interpretation) in paragraph (1)—
 
 > (1) Where regulation 36 applies, the person carrying out the work must give the local authority a notice which specifies the potential consumption of wholesome water per person per day calculated in accordance with the methodology referred to in that regulation in relation to the completed dwelling.
 
-### 9. Part 7A Automatic Fire Suppression Systems[^key-c48ba662ebff6b7db626dd7ce30135b7]
+### 9. Part 7A Automatic Fire Suppression Systems[^c-c48ba662ebff6b7db626dd7ce30135b7]
 
 After Part 7 insert—
 
@@ -307,11 +307,11 @@ After Part 7 insert—
 >
 > For the purposes of regulation 37A(3), the requirements of an automatic fire suppression system are the requirements set out in any document approved and issued under section 6 of the Building Act 1984 for the purpose of providing practical guidance as to the requirements of regulation 37A.
 
-### 10. Part 9 (testing and commissioning)[^key-a90566bc9419b63511a1948327338091]
+### 10. Part 9 (testing and commissioning)[^c-a90566bc9419b63511a1948327338091]
 
 In regulation 43 (pressure testing) in paragraph (2) omit “and regulation 26A”.
 
-### 11. Part 9A (physical infrastructure for high-speed electronic communications networks)[^key-d8f476cd5bf379c0262ccb0cd491f50c]
+### 11. Part 9A (physical infrastructure for high-speed electronic communications networks)[^c-d8f476cd5bf379c0262ccb0cd491f50c]
 
 (1) For regulation 44A (application of paragraph R1 of Schedule 1 to educational buildings, buildings of statutory undertakers and Crown buildings) substitute—
 
@@ -331,13 +331,13 @@ In regulation 43 (pressure testing) in paragraph (2) omit “and regulation 26A�
 
   .
 
-### 12. Part 10 (miscellaneous)[^key-657baba8acac2a93369b4b88a7b08e80]
+### 12. Part 10 (miscellaneous)[^c-657baba8acac2a93369b4b88a7b08e80]
 
 For regulation 47 (contravention of certain regulations not to be an offence) substitute—
 
 > **47.** Regulations 17, 17A, 25A, 27, 27A, 27B, 37, 41, 42, 43 and 44 are designated as provisions to which section 35 of the Act (penalty for contravening building regulations) does not apply.
 
-### 13. Schedule 1 (requirements in relation to building work)[^key-3fe8130022cd3f31c0c5852264b4429d]
+### 13. Schedule 1 (requirements in relation to building work)[^c-3fe8130022cd3f31c0c5852264b4429d]
 
 In Schedule 1—
 
@@ -393,15 +393,15 @@ In Schedule 1—
   > </table>
 - (e) omit Part Q (security).
 
-### 14. Schedule 2 (exempt buildings and work)[^key-34adbdd18de45cfb0aa6f7e9f716b8cf]
+### 14. Schedule 2 (exempt buildings and work)[^c-34adbdd18de45cfb0aa6f7e9f716b8cf]
 
 In Class 7 (extensions) for “Part K4, K5.1, K5.2, K5.3, and K5.4” substitute “Part N”.
 
-### 15. Schedule 3A (third party certification schemes and exemptions from requirement to give building notice or deposit full plans)[^key-950ddd6ae0f0cf2f3234b9d680228331]
+### 15. Schedule 3A (third party certification schemes and exemptions from requirement to give building notice or deposit full plans)[^c-950ddd6ae0f0cf2f3234b9d680228331]
 
 Omit Schedule 3A.
 
-### 16. Schedule 4 (descriptions of work where no building notice or deposit of full plans required)[^key-94763f58170bafbdc11f3c62962c16c0]
+### 16. Schedule 4 (descriptions of work where no building notice or deposit of full plans required)[^c-94763f58170bafbdc11f3c62962c16c0]
 
 (1) In paragraph 1—
 
@@ -450,57 +450,57 @@ Omit Schedule 3A.
 
 ## PART 3 — The Building (Approved Inspectors etc.) Regulations 2010
 
-### 17. Amendments to the Building (Approved Inspectors etc.) Regulations 2010[^key-3c3c7b6e167da73f42e328605be6abf7]
+### 17. Amendments to the Building (Approved Inspectors etc.) Regulations 2010[^c-3c3c7b6e167da73f42e328605be6abf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Part 1 (general)[^key-3c3c7b6e167da73f42e328605be6abf7]
+### 18. Part 1 (general)[^c-3c3c7b6e167da73f42e328605be6abf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Part 2 (grant and withdrawal of approval)[^key-3c3c7b6e167da73f42e328605be6abf7]
+### 19. Part 2 (grant and withdrawal of approval)[^c-3c3c7b6e167da73f42e328605be6abf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Part 3 (supervision of work by approved inspectors)[^key-3c3c7b6e167da73f42e328605be6abf7]
+### 20. Part 3 (supervision of work by approved inspectors)[^c-3c3c7b6e167da73f42e328605be6abf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 21. Part 4 (application of provisions of the principal regulations)[^key-3c3c7b6e167da73f42e328605be6abf7]
+### 21. Part 4 (application of provisions of the principal regulations)[^c-3c3c7b6e167da73f42e328605be6abf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Schedule 1 (forms)[^key-3c3c7b6e167da73f42e328605be6abf7]
+### 22. Schedule 1 (forms)[^c-3c3c7b6e167da73f42e328605be6abf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Schedule 2 (grounds for rejecting an initial notice, an amendment notice, or a plans certificate combined with an initial notice)[^key-3c3c7b6e167da73f42e328605be6abf7]
+### 23. Schedule 2 (grounds for rejecting an initial notice, an amendment notice, or a plans certificate combined with an initial notice)[^c-3c3c7b6e167da73f42e328605be6abf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Schedule 3 (grounds for rejecting a plans certificate or a plans certificate combined with an initial notice)[^key-3c3c7b6e167da73f42e328605be6abf7]
+### 24. Schedule 3 (grounds for rejecting a plans certificate or a plans certificate combined with an initial notice)[^c-3c3c7b6e167da73f42e328605be6abf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Schedule 4 (grounds for rejecting a final certificate)[^key-3c3c7b6e167da73f42e328605be6abf7]
+### 25. Schedule 4 (grounds for rejecting a final certificate)[^c-3c3c7b6e167da73f42e328605be6abf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Schedule 5 (grounds for rejecting a public body’s notice, or a combined public body’s notice and plans certificate)[^key-3c3c7b6e167da73f42e328605be6abf7]
+### 26. Schedule 5 (grounds for rejecting a public body’s notice, or a combined public body’s notice and plans certificate)[^c-3c3c7b6e167da73f42e328605be6abf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Schedule 6 (grounds for rejecting a public body’s plans certificate, or a combined public body’s notice and plans certificate)[^key-3c3c7b6e167da73f42e328605be6abf7]
+### 27. Schedule 6 (grounds for rejecting a public body’s plans certificate, or a combined public body’s notice and plans certificate)[^c-3c3c7b6e167da73f42e328605be6abf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Schedule 7 (grounds for rejecting a public body’s final certificate)[^key-3c3c7b6e167da73f42e328605be6abf7]
+### 28. Schedule 7 (grounds for rejecting a public body’s final certificate)[^c-3c3c7b6e167da73f42e328605be6abf7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Transitional Provision
 
-### 29. Transitional provision[^key-b781ddf7418486b2bd059128006fad05]
+### 29. Transitional provision[^c-b781ddf7418486b2bd059128006fad05]
 
 The amendments made by these Regulations do not apply in any case where before the date these Regulations come into force in relation to an energy excepted building—
 
@@ -541,50 +541,50 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00005]: Footnote: Section 14(7) was added by the 2009 Order.
 
-[^key-6ac07581f97e5ad20abd1d252529d524]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2018/558/regulation/1) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-6ac07581f97e5ad20abd1d252529d524]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2018/558/regulation/1) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
 [^f00006]: Footnote: [S.I. 2009/3019](https://www.legislation.gov.uk/uksi/2009/3019).
 
-[^key-7abcec97edd9200be957c996635cb3a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2018/558/regulation/2) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-7abcec97edd9200be957c996635cb3a5]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2018/558/regulation/2) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
 [^f00007]: Footnote: [S.I. 2010/2214](https://www.legislation.gov.uk/uksi/2010/2214); relevant amending instruments in relation to excepted energy buildings in Wales are [S.I. 2012/718](https://www.legislation.gov.uk/uksi/2012/718), [2012/3119](https://www.legislation.gov.uk/uksi/2012/3119), [2013/181](https://www.legislation.gov.uk/uksi/2013/181), [2013/1105](https://www.legislation.gov.uk/uksi/2013/1105), [2013/1959](https://www.legislation.gov.uk/uksi/2013/1959), [2014/579](https://www.legislation.gov.uk/uksi/2014/579), [2015/767](https://www.legislation.gov.uk/uksi/2015/767), [2016/285](https://www.legislation.gov.uk/uksi/2016/285) and [2016/490](https://www.legislation.gov.uk/uksi/2016/490) and in relation to other buildings in Wales are [S.I. 2013/181](https://www.legislation.gov.uk/uksi/2013/181), [2013/747 (W. 89)](https://www.legislation.gov.uk/wsi/2013/747), [2013/2730 (W. 264)](https://www.legislation.gov.uk/wsi/2013/2730), [2014/110 (W. 10)](https://www.legislation.gov.uk/wsi/2014/110), [2016/361 (W. 113)](https://www.legislation.gov.uk/wsi/2016/361) and [2016/611 (W. 168)](https://www.legislation.gov.uk/wsi/2016/611).
 
-[^key-7e6c604d40b0285afd26575ecddf13ef]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2018/558/regulation/3) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-7e6c604d40b0285afd26575ecddf13ef]: Commencement: [Reg. 3](https://www.legislation.gov.uk/wsi/2018/558/regulation/3) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
-[^key-2085e5ca1b68e37564ec99d517fe8916]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2018/558/regulation/4) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-2085e5ca1b68e37564ec99d517fe8916]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2018/558/regulation/4) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
-[^key-635aafcbfdf02790ddbbb3b75bcdd56a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2018/558/regulation/5) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-635aafcbfdf02790ddbbb3b75bcdd56a]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2018/558/regulation/5) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
-[^key-76511fa44c034e593fb615a6f144b4e6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2018/558/regulation/6) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-76511fa44c034e593fb615a6f144b4e6]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2018/558/regulation/6) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
-[^key-0025f715f446de87c1d097b7777c537c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2018/558/regulation/7) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-0025f715f446de87c1d097b7777c537c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2018/558/regulation/7) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
-[^key-221f8369bee71db0d2d3687d780c8aaa]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2018/558/regulation/8) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-221f8369bee71db0d2d3687d780c8aaa]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2018/558/regulation/8) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
-[^key-c48ba662ebff6b7db626dd7ce30135b7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2018/558/regulation/9) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-c48ba662ebff6b7db626dd7ce30135b7]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2018/558/regulation/9) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
 [^f00008]: Footnote: [1990 c. 9](https://www.legislation.gov.uk/ukpga/1990/9). Section 1 was amended by section 26 of the Historic Environment (Wales) Act [2016 (anaw 4)](https://www.legislation.gov.uk/anaw/2016/4) (“the 2016 Act”). Other amendments are not relevant.
 
 [^f00009]: Footnote: [1979 c. 46](https://www.legislation.gov.uk/ukpga/1979/46). Section 1 was amended by section 4 of the 2016 Act. Other amendments are not relevant.
 
-[^key-a90566bc9419b63511a1948327338091]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2018/558/regulation/10) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-a90566bc9419b63511a1948327338091]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2018/558/regulation/10) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
-[^key-d8f476cd5bf379c0262ccb0cd491f50c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2018/558/regulation/11) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-d8f476cd5bf379c0262ccb0cd491f50c]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2018/558/regulation/11) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
-[^key-657baba8acac2a93369b4b88a7b08e80]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2018/558/regulation/12) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-657baba8acac2a93369b4b88a7b08e80]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2018/558/regulation/12) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
-[^key-3fe8130022cd3f31c0c5852264b4429d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2018/558/regulation/13) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-3fe8130022cd3f31c0c5852264b4429d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2018/558/regulation/13) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
-[^key-34adbdd18de45cfb0aa6f7e9f716b8cf]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2018/558/regulation/14) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-34adbdd18de45cfb0aa6f7e9f716b8cf]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2018/558/regulation/14) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
-[^key-950ddd6ae0f0cf2f3234b9d680228331]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2018/558/regulation/15) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-950ddd6ae0f0cf2f3234b9d680228331]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2018/558/regulation/15) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
-[^key-94763f58170bafbdc11f3c62962c16c0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2018/558/regulation/16) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-94763f58170bafbdc11f3c62962c16c0]: Commencement: [Reg. 16](https://www.legislation.gov.uk/wsi/2018/558/regulation/16) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
 
 [^f00010]: Footnote: [S.I. 2016/1101](https://www.legislation.gov.uk/uksi/2016/1101).
 
 [^f00011]: Footnote: ISBN 978-0-86341-844-0.
 
-[^key-3c3c7b6e167da73f42e328605be6abf7]: Textual amendment: [Regs. 17-28](https://www.legislation.gov.uk/wsi/2018/558/regulation/17) revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(e)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/e)
+[^c-3c3c7b6e167da73f42e328605be6abf7]: Textual amendment: [Regs. 17-28](https://www.legislation.gov.uk/wsi/2018/558/regulation/17) revoked (1.1.2025) by [The Building (Registered Building Control Approvers etc.) (Wales) Regulations 2024 (S.I. 2024/1268)](https://www.legislation.gov.uk/wsi/2024/1268), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/1/2), [42(2)(e)](https://www.legislation.gov.uk/wsi/2024/1268/regulation/42/2/e)
 
-[^key-b781ddf7418486b2bd059128006fad05]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2018/558/regulation/29) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)
+[^c-b781ddf7418486b2bd059128006fad05]: Commencement: [Reg. 29](https://www.legislation.gov.uk/wsi/2018/558/regulation/29) in force at 8.6.2018, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2018/558/regulation/1/2)

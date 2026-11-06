@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Amendment of regulation 3[^key-a6049c7221f99009152080376d22c781]
+## 123. Amendment of regulation 3[^c-a6049c7221f99009152080376d22c781]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ In regulation 3 (persons to whom the Regulations apply)—
 
 ## Annotations
 
-[^key-a6049c7221f99009152080376d22c781]: Commencement: [Reg. 123](https://www.legislation.gov.uk/ssi/2011/364/regulation/123) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-a6049c7221f99009152080376d22c781]: Commencement: [Reg. 123](https://www.legislation.gov.uk/ssi/2011/364/regulation/123) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 49. Limited extension of pastoral schemes to other dioceses[^key-43fc58e0cacf1016a44cd79dafb8aad6]
+## 49. Limited extension of pastoral schemes to other dioceses[^c-43fc58e0cacf1016a44cd79dafb8aad6]
 
 *Extent: E*
 
@@ -41,4 +41,4 @@ and may also provide, in relation to any benefice, parish or extra-parochial pla
 
 ## Annotations
 
-[^key-43fc58e0cacf1016a44cd79dafb8aad6]: Commencement: S. 49 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-43fc58e0cacf1016a44cd79dafb8aad6]: Commencement: S. 49 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

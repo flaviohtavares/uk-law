@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 86. Opening of covering envelopes[^key-9d70b129fb66daf80d8d1033fd544db1]
+## 86. Opening of covering envelopes[^c-9d70b129fb66daf80d8d1033fd544db1]
 
 *Extent: N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 
 the returning officer shall mark the covering envelope “rejected”, attach its contents (if any) and place it in the receptacle for rejected votes.
 
-(5)[^key-6c83b335d2a779d8f79bdc3889c3c30b] In carrying out the procedures in this regulation and regulations 87 and 88, the returning officer—
+(5)[^c-6c83b335d2a779d8f79bdc3889c3c30b] In carrying out the procedures in this regulation and regulations 87 and 88, the returning officer—
 
 - (a) must keep the ballot papers face downwards and must take proper precautions for preventing any person from seeing the votes made on the ballot papers, and
 - (b) is not permitted to view the corresponding number list used at the issue of postal ballot papers.
@@ -52,6 +52,6 @@ the returning officer shall mark the covering envelope “rejected”, attach it
 
 ## Annotations
 
-[^key-9d70b129fb66daf80d8d1033fd544db1]: Modification: [Reg. 86](https://www.legislation.gov.uk/uksi/2008/1741/regulation/86) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 98](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/98)
+[^c-9d70b129fb66daf80d8d1033fd544db1]: Modification: [Reg. 86](https://www.legislation.gov.uk/uksi/2008/1741/regulation/86) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 98](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/98)
 
-[^key-6c83b335d2a779d8f79bdc3889c3c30b]: Textual amendment: [Reg. 86(5)-(8)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/86/5) inserted (26.3.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/319/regulation/7) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/3))
+[^c-6c83b335d2a779d8f79bdc3889c3c30b]: Textual amendment: [Reg. 86(5)-(8)](https://www.legislation.gov.uk/uksi/2008/1741/regulation/86/5) inserted (26.3.2024) by [The Representation of the People (Postal Vote Handling etc.) (Northern Ireland) (Amendment) Regulations 2024 (S.I. 2024/319)](https://www.legislation.gov.uk/uksi/2024/319), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2024/319/regulation/7) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2024/319/regulation/1/3))

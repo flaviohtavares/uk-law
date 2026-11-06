@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35B. Prisoners’ food and drink: preparation of meals by prisoner for own consumption[^key-b281d7372661ced14b28a09bfb190e7e]
+## 35B. Prisoners’ food and drink: preparation of meals by prisoner for own consumption[^c-b281d7372661ced14b28a09bfb190e7e]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b281d7372661ced14b28a09bfb190e7e]: Textual amendment: [Rule 35B](https://www.legislation.gov.uk/ssi/2011/331/rule/35B) inserted (4.7.2022) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2022 (S.S.I. 2022/194)](https://www.legislation.gov.uk/ssi/2022/194), [rules 1](https://www.legislation.gov.uk/ssi/2022/194/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/194/rule/2/3)
+[^c-b281d7372661ced14b28a09bfb190e7e]: Textual amendment: [Rule 35B](https://www.legislation.gov.uk/ssi/2011/331/rule/35B) inserted (4.7.2022) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2022 (S.S.I. 2022/194)](https://www.legislation.gov.uk/ssi/2022/194), [rules 1](https://www.legislation.gov.uk/ssi/2022/194/rule/1), [2(3)](https://www.legislation.gov.uk/ssi/2022/194/rule/2/3)

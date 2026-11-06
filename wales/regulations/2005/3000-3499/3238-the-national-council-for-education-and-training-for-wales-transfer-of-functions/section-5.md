@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Provision for continuity in the exercise of functions[^key-647227678ee4ffb2c046aa009428ef37]
+## 5. Provision for continuity in the exercise of functions[^c-647227678ee4ffb2c046aa009428ef37]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Anything done by or in relation to the Council which has effect immediately befo
 
 ## Annotations
 
-[^key-647227678ee4ffb2c046aa009428ef37]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2005/3238/article/5) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
+[^c-647227678ee4ffb2c046aa009428ef37]: Commencement: [Art. 5](https://www.legislation.gov.uk/wsi/2005/3238/article/5) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)

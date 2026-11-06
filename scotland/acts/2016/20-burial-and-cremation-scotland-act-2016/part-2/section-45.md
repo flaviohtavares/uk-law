@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Meaning of “cremation” and “ashes”[^key-31e9defc4c5a4120f5f9321171cdfd5f]
+## 45. Meaning of “cremation” and “ashes”[^c-31e9defc4c5a4120f5f9321171cdfd5f]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-31e9defc4c5a4120f5f9321171cdfd5f]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2016/20/section/45) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-31e9defc4c5a4120f5f9321171cdfd5f]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2016/20/section/45) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [reg. 8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

@@ -31,7 +31,7 @@ summary: ''
 
 or if he is in the opinion of the Secretary of State or, as the case may be, the Lord Chancellor otherwise unable or unfit to perform his duties as member.
 
-(3A)[^c13757001] A person who is the chairman or a deputy chairman of the Tribunal shall vacate his office on the day on which he attains the age of 75[^key-879535dda4cbcebda43f8d3949c59dba].
+(3A)[^c13757001] A person who is the chairman or a deputy chairman of the Tribunal shall vacate his office on the day on which he attains the age of 75[^c-879535dda4cbcebda43f8d3949c59dba].
 
 (4) If a member of the Tribunal is by reason of illness, absence or other reasonable cause for the time being unable to perform the duties of his office, either generally or in relation to particular proceedings, a person may be appointed to discharge his duties for a period not exceeding six months at one time or, as the case may be, in relation to those proceedings.
 
@@ -64,7 +64,7 @@ and a person so appointed shall have during the period of his appointment, or in
 
 [^c13757001]: Textual amendment: S. 146(3A) inserted (31.3.1995) by [1993 c. 8](https://www.legislation.gov.uk/ukpga/1993/8), [s. 26](https://www.legislation.gov.uk/ukpga/1993/8/section/26), [Sch. 6 para.49](https://www.legislation.gov.uk/ukpga/1993/8/schedule/6/paragraph/49); [S.I. 1995/631](https://www.legislation.gov.uk/uksi/1995/631), [art. 2](https://www.legislation.gov.uk/uksi/1995/631/article/2)
 
-[^key-879535dda4cbcebda43f8d3949c59dba]: Textual amendment: Word in [s. 146(3A)](https://www.legislation.gov.uk/ukpga/1988/48/section/146/3A) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/22) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-879535dda4cbcebda43f8d3949c59dba]: Textual amendment: Word in [s. 146(3A)](https://www.legislation.gov.uk/ukpga/1988/48/section/146/3A) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 22](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/22) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c19424691]: Textual amendment: S. 146(7)-(11) inserted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/15/1), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 199(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/199/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 paras. 10](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/10), [11(r)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/r)
 

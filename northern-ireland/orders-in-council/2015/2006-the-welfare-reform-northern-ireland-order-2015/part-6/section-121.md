@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 121. Information-sharing in relation to welfare services etc.[^key-883577975073d1d9e9f00ecafebc7e10]
+## 121. Information-sharing in relation to welfare services etc.[^c-883577975073d1d9e9f00ecafebc7e10]
 
 *Extent: N.I.*
 
@@ -66,7 +66,7 @@ for a prescribed purpose relating to a relevant social security benefit.
 - “**relevant information**” means information relating to—
   - (a) any relevant social security benefit, or
   - (b) welfare services;
-- “**relevant social security benefit**” means—[^key-583ff7ef1eae7077a1b7f4d0a4034131]
+- “**relevant social security benefit**” means—[^c-583ff7ef1eae7077a1b7f4d0a4034131]
   - (a) a relevant social security benefit as defined in section 115CA(7) of the Administration Act, or
   - (b) a loan under Article 13 of the Welfare Reform and Work (Northern Ireland) Order 2016 (loans for mortgage interest, etc.);
 - “**welfare services**” includes—
@@ -77,8 +77,8 @@ for a prescribed purpose relating to a relevant social security benefit.
 
 ## Annotations
 
-[^key-883577975073d1d9e9f00ecafebc7e10]: Commencement: Art. 121 in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(f)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/f)
+[^c-883577975073d1d9e9f00ecafebc7e10]: Commencement: Art. 121 in operation at 17.2.2016 by [S.R. 2016/46](https://www.legislation.gov.uk/nisr/2016/46), [art. 3(4)(f)](https://www.legislation.gov.uk/nisr/2016/46/article/3/4/f)
 
 [^M_F_8646ea8c-5fe8-46f8-acd4-f60cc8f8be15]: Textual amendment: Words in art. 121(7)(c) substituted (13.10.2016) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/uksi/2016/999), [arts. 2(2)(d)](https://www.legislation.gov.uk/uksi/2016/999/article/2/2/d), [21](https://www.legislation.gov.uk/uksi/2016/999/article/21)
 
-[^key-583ff7ef1eae7077a1b7f4d0a4034131]: Textual amendment: Words in [art. 121(8)](https://www.legislation.gov.uk/nisi/2015/2006/article/121/8) substituted (4.9.2017) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(11)](https://www.legislation.gov.uk/nisi/2016/999/article/15/11); [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/166/article/2/c)
+[^c-583ff7ef1eae7077a1b7f4d0a4034131]: Textual amendment: Words in [art. 121(8)](https://www.legislation.gov.uk/nisi/2015/2006/article/121/8) substituted (4.9.2017) by [The Welfare Reform and Work (Northern Ireland) Order 2016 (S.I. 2016/999)](https://www.legislation.gov.uk/nisi/2016/999), [arts. 2(1)](https://www.legislation.gov.uk/nisi/2016/999/article/2/1), [15(11)](https://www.legislation.gov.uk/nisi/2016/999/article/15/11); [S.R. 2017/166](https://www.legislation.gov.uk/nisr/2017/166), [art. 2(c)](https://www.legislation.gov.uk/nisr/2017/166/article/2/c)

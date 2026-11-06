@@ -32,7 +32,7 @@ summary: ''
 
 AGRICULTURE
 
-The Agricultural Processing, Marketing and Co-operation Grants (Scotland) Regulations 2008 (revoked)[^key-152c38cb885a02b36ca31a1248dfece7]
+The Agricultural Processing, Marketing and Co-operation Grants (Scotland) Regulations 2008 (revoked)[^c-152c38cb885a02b36ca31a1248dfece7]
 
 Made
 
@@ -46,68 +46,68 @@ Coming into force
 
 24th March 2008
 
-[^key-152c38cb885a02b36ca31a1248dfece7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-152c38cb885a02b36ca31a1248dfece7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-152c38cb885a02b36ca31a1248dfece7]
+## 1. Citation, commencement and extent[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-152c38cb885a02b36ca31a1248dfece7]
+## 2. Interpretation[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Projects which may be considered for grant[^key-152c38cb885a02b36ca31a1248dfece7]
+## 3. Projects which may be considered for grant[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Supported project costs[^key-152c38cb885a02b36ca31a1248dfece7]
+## 4. Supported project costs[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Determination of applications[^key-152c38cb885a02b36ca31a1248dfece7]
+## 5. Determination of applications[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Payment of grant[^key-152c38cb885a02b36ca31a1248dfece7]
+## 6. Payment of grant[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Guidance[^key-152c38cb885a02b36ca31a1248dfece7]
+## 7. Guidance[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Information and records[^key-152c38cb885a02b36ca31a1248dfece7]
+## 8. Information and records[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Powers of authorised persons[^key-152c38cb885a02b36ca31a1248dfece7]
+## 9. Powers of authorised persons[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Revocation or variation of approval and withholding or recovery of grant[^key-152c38cb885a02b36ca31a1248dfece7]
+## 10. Revocation or variation of approval and withholding or recovery of grant[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Interest[^key-152c38cb885a02b36ca31a1248dfece7]
+## 11. Interest[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Offences[^key-152c38cb885a02b36ca31a1248dfece7]
+## 12. Offences[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Offences by bodies corporate[^key-152c38cb885a02b36ca31a1248dfece7]
+## 13. Offences by bodies corporate[^c-152c38cb885a02b36ca31a1248dfece7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-152c38cb885a02b36ca31a1248dfece7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-152c38cb885a02b36ca31a1248dfece7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-152c38cb885a02b36ca31a1248dfece7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-152c38cb885a02b36ca31a1248dfece7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-152c38cb885a02b36ca31a1248dfece7]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1), [Sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))
+[^c-152c38cb885a02b36ca31a1248dfece7]: Textual amendment: Regulations revoked (12.6.2015) by [The Rural Development (Scotland) Regulations 2015 (S.S.I. 2015/192)](https://www.legislation.gov.uk/ssi/2015/192), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2015/192/regulation/1/1), [Sch.](https://www.legislation.gov.uk/ssi/2015/192/schedule) (with [reg. 22(2)](https://www.legislation.gov.uk/ssi/2015/192/regulation/22/2))

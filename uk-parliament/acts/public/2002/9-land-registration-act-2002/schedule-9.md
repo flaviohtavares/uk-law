@@ -16,41 +16,31 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 9 — The adjudicator[^key-b843128d5279dd2bd45f33d81c9b1679]
+## SCHEDULE 9 — The adjudicator[^c-b843128d5279dd2bd45f33d81c9b1679]
 
 *Extent: E+W*
 
 Section 107
 
-### 1. Holding of office[^key-b843128d5279dd2bd45f33d81c9b1679][^key-b843128d5279dd2bd45f33d81c9b1679]
+### 1. Holding of office[^c-b843128d5279dd2bd45f33d81c9b1679][^c-b843128d5279dd2bd45f33d81c9b1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Remuneration[^key-b843128d5279dd2bd45f33d81c9b1679][^key-b843128d5279dd2bd45f33d81c9b1679]
+### 2. Remuneration[^c-b843128d5279dd2bd45f33d81c9b1679][^c-b843128d5279dd2bd45f33d81c9b1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Staff[^key-b843128d5279dd2bd45f33d81c9b1679][^key-b843128d5279dd2bd45f33d81c9b1679]
+### 3. Staff[^c-b843128d5279dd2bd45f33d81c9b1679][^c-b843128d5279dd2bd45f33d81c9b1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Conduct of business[^key-b843128d5279dd2bd45f33d81c9b1679][^key-b843128d5279dd2bd45f33d81c9b1679]
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-**May not be in force at this date. Check the source.**
-
-**5.**[^key-b843128d5279dd2bd45f33d81c9b1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 6. Finances[^key-b843128d5279dd2bd45f33d81c9b1679][^key-b843128d5279dd2bd45f33d81c9b1679]
+### 4. Conduct of business[^c-b843128d5279dd2bd45f33d81c9b1679][^c-b843128d5279dd2bd45f33d81c9b1679]
 
 **No longer in force.**
 
@@ -58,15 +48,25 @@ Section 107
 
 **May not be in force at this date. Check the source.**
 
-**7.**[^key-b843128d5279dd2bd45f33d81c9b1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b843128d5279dd2bd45f33d81c9b1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Application of Tribunals and Inquiries Act 1992[^key-b843128d5279dd2bd45f33d81c9b1679][^key-b843128d5279dd2bd45f33d81c9b1679]
+### 6. Finances[^c-b843128d5279dd2bd45f33d81c9b1679][^c-b843128d5279dd2bd45f33d81c9b1679]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Parliamentary disqualification[^key-b843128d5279dd2bd45f33d81c9b1679][^key-b843128d5279dd2bd45f33d81c9b1679]
+**May not be in force at this date. Check the source.**
+
+**7.**[^c-b843128d5279dd2bd45f33d81c9b1679] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 8. Application of Tribunals and Inquiries Act 1992[^c-b843128d5279dd2bd45f33d81c9b1679][^c-b843128d5279dd2bd45f33d81c9b1679]
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9. Parliamentary disqualification[^c-b843128d5279dd2bd45f33d81c9b1679][^c-b843128d5279dd2bd45f33d81c9b1679]
 
 **No longer in force.**
 
@@ -74,4 +74,4 @@ Section 107
 
 ## Annotations
 
-[^key-b843128d5279dd2bd45f33d81c9b1679]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/9/schedule/9) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 238](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/238) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))
+[^c-b843128d5279dd2bd45f33d81c9b1679]: Textual amendment: [Sch. 9](https://www.legislation.gov.uk/ukpga/2002/9/schedule/9) omitted (1.7.2013) by virtue of [The Transfer of Tribunal Functions Order 2013 (S.I. 2013/1036)](https://www.legislation.gov.uk/uksi/2013/1036), [art. 1](https://www.legislation.gov.uk/uksi/2013/1036/article/1), [Sch. 1 para. 238](https://www.legislation.gov.uk/uksi/2013/1036/schedule/1/paragraph/238) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2013/1036/schedule/3))

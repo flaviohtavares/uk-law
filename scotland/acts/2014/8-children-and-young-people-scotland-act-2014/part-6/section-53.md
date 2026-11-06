@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 53. Interpretation of Part 6[^key-f30c7ee3c71bbd6be217ca8ee0bdf23e]
+## 53. Interpretation of Part 6[^c-f30c7ee3c71bbd6be217ca8ee0bdf23e]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In this Part—
 
 ## Annotations
 
-[^key-f30c7ee3c71bbd6be217ca8ee0bdf23e]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2014/8/section/53) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)
+[^c-f30c7ee3c71bbd6be217ca8ee0bdf23e]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2014/8/section/53) in force at 1.8.2014 by [S.S.I. 2014/131](https://www.legislation.gov.uk/ssi/2014/131), [art. 2(2)](https://www.legislation.gov.uk/ssi/2014/131/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2014/131/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2014/131/schedule)

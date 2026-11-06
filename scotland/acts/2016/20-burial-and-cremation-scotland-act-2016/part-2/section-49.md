@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 49. Section 48: offences[^key-329c0f7bc34e4d7a8fc6c061385faca3]
+## 49. Section 48: offences[^c-329c0f7bc34e4d7a8fc6c061385faca3]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-329c0f7bc34e4d7a8fc6c061385faca3]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2016/20/section/49) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2018/380/regulation/4), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))
+[^c-329c0f7bc34e4d7a8fc6c061385faca3]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2016/20/section/49) in force at 4.4.2019 by [S.S.I. 2018/380](https://www.legislation.gov.uk/ssi/2018/380), [reg. 2](https://www.legislation.gov.uk/ssi/2018/380/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2018/380/schedule) (with [regs. 4](https://www.legislation.gov.uk/ssi/2018/380/regulation/4), [8](https://www.legislation.gov.uk/ssi/2018/380/regulation/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 276. Notifications relating to other events[^key-1f698220810e48be18cd53c428be6491]
+## 276. Notifications relating to other events[^c-1f698220810e48be18cd53c428be6491]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ In addition to the information required by rule 272 of these Rules, a notificati
 
 ## Annotations
 
-[^key-1f698220810e48be18cd53c428be6491]: Commencement: [Rule 276](https://www.legislation.gov.uk/nisr/2026/11/rule/276) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-1f698220810e48be18cd53c428be6491]: Commencement: [Rule 276](https://www.legislation.gov.uk/nisr/2026/11/rule/276) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

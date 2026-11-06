@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288K. Specified hearings[^key-847f09caa2b314654a04766a22dc0e7f]
+## 288K. Specified hearings[^c-847f09caa2b314654a04766a22dc0e7f]
 
 *Extent: S*
 
-(1) The Lord Justice General may by directions specify types of hearing at the High Court, Sheriff Appeal Court,[^key-642e5d96befd58f9f8cd8d5ea42ee8e7] sheriff court and JP court in which a detained person may participate in accordance with section 288H(1).
+(1) The Lord Justice General may by directions specify types of hearing at the High Court, Sheriff Appeal Court,[^c-642e5d96befd58f9f8cd8d5ea42ee8e7] sheriff court and JP court in which a detained person may participate in accordance with section 288H(1).
 
 (2) Directions under subsection (1) may specify types of hearing by reference to—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-847f09caa2b314654a04766a22dc0e7f]: Textual amendment: Ss. 288H-288L and cross-heading inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 110(1)](https://www.legislation.gov.uk/asp/2016/1/section/110/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-847f09caa2b314654a04766a22dc0e7f]: Textual amendment: Ss. 288H-288L and cross-heading inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 110(1)](https://www.legislation.gov.uk/asp/2016/1/section/110/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
 
-[^key-642e5d96befd58f9f8cd8d5ea42ee8e7]: Textual amendment: Words in s. 288K(1) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 12(3)](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/12/3)
+[^c-642e5d96befd58f9f8cd8d5ea42ee8e7]: Textual amendment: Words in s. 288K(1) inserted (25.1.2018) by [The Criminal Justice (Scotland) Act 2016 (Consequential and Supplementary Modifications) Regulations 2017 (S.S.I. 2017/452)](https://www.legislation.gov.uk/ssi/2017/452), [reg. 1](https://www.legislation.gov.uk/ssi/2017/452/regulation/1), [sch. para. 12(3)](https://www.legislation.gov.uk/ssi/2017/452/schedule/paragraph/12/3)

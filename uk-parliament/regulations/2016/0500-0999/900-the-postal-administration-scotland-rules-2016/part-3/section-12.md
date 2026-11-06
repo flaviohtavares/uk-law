@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Statements of affairs and statements of concurrence[^key-67924e7b566002a1c201bad8df7c2f42]
+## 12. Statements of affairs and statements of concurrence[^c-67924e7b566002a1c201bad8df7c2f42]
 
 *Extent: S*
 
@@ -32,13 +32,13 @@ summary: ''
 
 (6) A statement of concurrence shall be a statutory declaration.
 
-(7) Subject to Rule 13[^key-2065892b5ab88d4e5b718c3acd5fa1f4], the postal administrator shall—
+(7) Subject to Rule 13[^c-2065892b5ab88d4e5b718c3acd5fa1f4], the postal administrator shall—
 
 - (a) as soon as is reasonably practicable, file a copy of the statement of affairs and any statement of concurrence with the registrar of companies in Form PA9(S); and
 - (b) insert any statement of affairs submitted to the postal administrator, together with any statement of concurrence, in the sederunt book.
 
 ## Annotations
 
-[^key-67924e7b566002a1c201bad8df7c2f42]: Commencement: Rule 12 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
+[^c-67924e7b566002a1c201bad8df7c2f42]: Commencement: Rule 12 in force at 1.10.2016, see [rule 1](https://www.legislation.gov.uk/uksi/2016/900/rule/1)
 
-[^key-2065892b5ab88d4e5b718c3acd5fa1f4]: Textual amendment: Words in [rule 12](https://www.legislation.gov.uk/uksi/2016/900/rule/12) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)
+[^c-2065892b5ab88d4e5b718c3acd5fa1f4]: Textual amendment: Words in [rule 12](https://www.legislation.gov.uk/uksi/2016/900/rule/12) substituted (13.4.2017) by [The Postal Administration (Scotland) (Amendment) Rules 2017 (S.I. 2017/441)](https://www.legislation.gov.uk/uksi/2017/441), [rules 1](https://www.legislation.gov.uk/uksi/2017/441/rule/1), [2(11)](https://www.legislation.gov.uk/uksi/2017/441/rule/2/11)

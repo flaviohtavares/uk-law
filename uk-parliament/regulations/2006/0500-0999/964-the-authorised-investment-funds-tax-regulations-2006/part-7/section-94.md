@@ -44,11 +44,11 @@ summary: ''
 
 .
 
-(4A)[^key-c900c8ed98259330d1496dab32ecda2c] After paragraph (b) of section 432A(1ZA) of ICTA (apportionment of income and gains), there is treated as inserted—
+(4A)[^c-c900c8ed98259330d1496dab32ecda2c] After paragraph (b) of section 432A(1ZA) of ICTA (apportionment of income and gains), there is treated as inserted—
 
 > - (ba) income from property income distributions to which regulation 69Z15 of the Authorised Investment Funds (Tax) Regulations 2006 apply (property income distributions by an open-ended investment company.
 
-(5) In section 832 (interpretation of the Tax Acts) after subsection (2) the following subsection is treated as inserted[^key-283d8dee186fa09e85aba8b53db409f6] —
+(5) In section 832 (interpretation of the Tax Acts) after subsection (2) the following subsection is treated as inserted[^c-283d8dee186fa09e85aba8b53db409f6] —
 
 > (2A) The definition of “**ordinary share capital**” does not include the issued share capital of an open-ended investment company.
 
@@ -66,6 +66,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c900c8ed98259330d1496dab32ecda2c]: Textual amendment: Reg. 94(4A) inserted (with effect in accordance with reg. 1(2)(4) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2008/3159/regulation/28)
+[^c-c900c8ed98259330d1496dab32ecda2c]: Textual amendment: Reg. 94(4A) inserted (with effect in accordance with reg. 1(2)(4) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [28](https://www.legislation.gov.uk/uksi/2008/3159/regulation/28)
 
-[^key-283d8dee186fa09e85aba8b53db409f6]: Textual amendment: Words in reg. 94(5) substituted (6.4.2007) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2007 (S.I. 2007/794)](https://www.legislation.gov.uk/uksi/2007/794), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/794/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2007/794/regulation/6)
+[^c-283d8dee186fa09e85aba8b53db409f6]: Textual amendment: Words in reg. 94(5) substituted (6.4.2007) by [The Authorised Investment Funds (Tax) (Amendment No. 2) Regulations 2007 (S.I. 2007/794)](https://www.legislation.gov.uk/uksi/2007/794), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/794/regulation/1/1), [6](https://www.legislation.gov.uk/uksi/2007/794/regulation/6)

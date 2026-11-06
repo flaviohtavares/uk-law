@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-16daa4c0575019859151a138ab7146c0] There shall be as part of the Business and Property Division—
+(1)[^c-16daa4c0575019859151a138ab7146c0] There shall be as part of the Business and Property Division—
 
 - (a) a Patents Court,
 - (b) an Admiralty Court, and
@@ -32,7 +32,7 @@ summary: ''
 
 ## Annotations
 
-[^key-16daa4c0575019859151a138ab7146c0]: Textual amendment: [S. 6(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/6/1) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/723/article/2/3)
+[^c-16daa4c0575019859151a138ab7146c0]: Textual amendment: [S. 6(1)](https://www.legislation.gov.uk/ukpga/1981/54/section/6/1) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/723/article/2/3)
 
 [^c20657061]: Textual amendment: Words in [s. 6(2)](https://www.legislation.gov.uk/ukpga/1981/54/section/6/2) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [ss. 15](https://www.legislation.gov.uk/ukpga/2005/4/section/15), [148](https://www.legislation.gov.uk/ukpga/2005/4/section/148), [Sch. 4 para. 119(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/119/2); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(j)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/j)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 245C. Exclusions[^key-a996036f14dbbbe93393716ab95ec6e3]
+## 245C. Exclusions[^c-a996036f14dbbbe93393716ab95ec6e3]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,7 +43,7 @@ summary: ''
 (6) The court, in deciding whether to make an exclusion for the purpose of enabling a person to meet legal expenses of his in respect of proceedings under this Part—
 
 - (a) must have regard (in particular) to the desirability of the person being represented in any proceedings under this Part in which he is a participant, and
-- (b) must, where the person is the respondent, disregard the possibility that legal representation of the person in any such proceedings might, were an exclusion not made, be made available under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 or funded by[^key-5553b298461ba58ff4449d4532c94768] the Department of Justice *(Extent: N.I.)*[^key-5b9e2b8eac4ba0825fe08772331e796a].
+- (b) must, where the person is the respondent, disregard the possibility that legal representation of the person in any such proceedings might, were an exclusion not made, be made available under arrangements made for the purposes of Part 1 of the Legal Aid, Sentencing and Punishment of Offenders Act 2012 or funded by[^c-5553b298461ba58ff4449d4532c94768] the Department of Justice *(Extent: N.I.)*[^c-5b9e2b8eac4ba0825fe08772331e796a].
 
 (7) If excluded property is not specified in the order it must be described in the order in general terms.
 
@@ -53,8 +53,8 @@ summary: ''
 
 ## Annotations
 
-[^key-a996036f14dbbbe93393716ab95ec6e3]: Textual amendment: Ss. 245A-245D and cross-heading inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/98/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/a)
+[^c-a996036f14dbbbe93393716ab95ec6e3]: Textual amendment: Ss. 245A-245D and cross-heading inserted (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 98(1)](https://www.legislation.gov.uk/ukpga/2005/15/section/98/1), [178(8)](https://www.legislation.gov.uk/ukpga/2005/15/section/178/8); [S.I. 2005/3136](https://www.legislation.gov.uk/uksi/2005/3136), [art. 3(a)](https://www.legislation.gov.uk/uksi/2005/3136/article/3/a)
 
-[^key-5553b298461ba58ff4449d4532c94768]: Textual amendment: Words in s. 245C(6)(b) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 59](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/59); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
+[^c-5553b298461ba58ff4449d4532c94768]: Textual amendment: Words in s. 245C(6)(b) substituted (1.4.2013) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 5 para. 59](https://www.legislation.gov.uk/ukpga/2012/10/schedule/5/paragraph/59); [S.I. 2013/453](https://www.legislation.gov.uk/uksi/2013/453), [art. 3(h)](https://www.legislation.gov.uk/uksi/2013/453/article/3/h) (with savings and transitional provisions in [S.I. 2013/534](https://www.legislation.gov.uk/uksi/2013/534), art. 6)
 
-[^key-5b9e2b8eac4ba0825fe08772331e796a]: Textual amendment: Words in s. 245C(6)(b) substituted (N.I.) (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/4) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)
+[^c-5b9e2b8eac4ba0825fe08772331e796a]: Textual amendment: Words in s. 245C(6)(b) substituted (N.I.) (1.4.2015) by [Legal Aid and Coroners‘ Courts Act (Northern Ireland) 2014 (c. 11)](https://www.legislation.gov.uk/nia/2014/11), [s. 12(1)](https://www.legislation.gov.uk/nia/2014/11/section/12/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/nia/2014/11/schedule/2/paragraph/4) (with [ss. 2(3)](https://www.legislation.gov.uk/nia/2014/11/section/2/3), [9](https://www.legislation.gov.uk/nia/2014/11/section/9), [Sch. 1 para. 3(3)](https://www.legislation.gov.uk/nia/2014/11/schedule/1/paragraph/3/3)); [S.R. 2015/193](https://www.legislation.gov.uk/nisr/2015/193), [art. 2(e)](https://www.legislation.gov.uk/nisr/2015/193/article/2/e)

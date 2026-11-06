@@ -31,10 +31,10 @@ summary: ''
 
 (4) The Settlement Body must issue a credit note to C under paragraph (2)(b)—
 
-- (a) by no later than the 28[^key-e2f2002e7e42ea808f180503df3e51ba]<sup>th</sup> working day after the end of month M; but
+- (a) by no later than the 28[^c-e2f2002e7e42ea808f180503df3e51ba]<sup>th</sup> working day after the end of month M; but
 - (b) if C is liable to pay a capacity provider penalty charge in respect of month M, not earlier than the day after the day by which C is required to pay that charge.
 
-(5) Paragraphs (1) to (4) do not apply unless by the 26[^key-d909167b96e0cf0beb4c6d5313cdcfab]<sup>th</sup> working day after the end of month M the Settlement Body has received capacity market supplier charges in respect of month M.
+(5) Paragraphs (1) to (4) do not apply unless by the 26[^c-d909167b96e0cf0beb4c6d5313cdcfab]<sup>th</sup> working day after the end of month M the Settlement Body has received capacity market supplier charges in respect of month M.
 
 (6) If by the day referred to in paragraph (5) the Settlement Body has received capacity market supplier charges in respect of month M the total of which is less than the sum of [formula: see source](https://www.legislation.gov.uk/uksi/2014/2043) for all capacity providers, the amount of each capacity payment which would otherwise be determined under paragraph (2) must be reduced by the same proportion so that the total amount of capacity payments payable to capacity providers is equal to the total amount of capacity market supplier charges received.
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e2f2002e7e42ea808f180503df3e51ba]: Textual amendment: Word in [reg. 40(4)(a)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/40/4/a) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 52(a)](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/52/a)
+[^c-e2f2002e7e42ea808f180503df3e51ba]: Textual amendment: Word in [reg. 40(4)(a)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/40/4/a) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 52(a)](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/52/a)
 
-[^key-d909167b96e0cf0beb4c6d5313cdcfab]: Textual amendment: Word in [reg. 40(5)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/40/5) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 52(b)](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/52/b)
+[^c-d909167b96e0cf0beb4c6d5313cdcfab]: Textual amendment: Word in [reg. 40(5)](https://www.legislation.gov.uk/uksi/2014/2043/regulation/40/5) substituted (14.7.2016) by [The Electricity Capacity (Amendment) Regulations 2016 (S.I. 2016/742)](https://www.legislation.gov.uk/uksi/2016/742), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/742/regulation/1/2), [Sch. 1 para. 52(b)](https://www.legislation.gov.uk/uksi/2016/742/schedule/1/paragraph/52/b)

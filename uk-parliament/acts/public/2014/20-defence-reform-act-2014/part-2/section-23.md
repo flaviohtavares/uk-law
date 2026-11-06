@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Records[^key-c01dc49afd94bf38eb20e6f0279e70bb][^key-0cfc11f9f353a36236e1571a50dd19ba]
+## 23. Records[^c-c01dc49afd94bf38eb20e6f0279e70bb][^c-0cfc11f9f353a36236e1571a50dd19ba]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c01dc49afd94bf38eb20e6f0279e70bb]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/20/section/23) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(h)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/h)
+[^c-c01dc49afd94bf38eb20e6f0279e70bb]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/20/section/23) in force at 14.7.2014 for specified purposes by [S.I. 2014/1751](https://www.legislation.gov.uk/uksi/2014/1751), [art. 4(h)](https://www.legislation.gov.uk/uksi/2014/1751/article/4/h)
 
-[^key-0cfc11f9f353a36236e1571a50dd19ba]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/20/section/23) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)
+[^c-0cfc11f9f353a36236e1571a50dd19ba]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2014/20/section/23) in force at 5.12.2014 in so far as not already in force by [S.I. 2014/3162](https://www.legislation.gov.uk/uksi/2014/3162), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/3162/article/3/c)

@@ -31,7 +31,7 @@ summary: ''
 
 (3)[^c15577281] A debt is not to be regarded for the purposes of subsection (2) as a debt for a liquidated sum by reason only that the amount of the debt is specified in a criminal bankruptcy order.
 
-(4) “**The bankruptcy level**” is £5,000[^key-b20759b10e4a360ce7e81f3bb89d55bb] but the Secretary of State may by order in a statutory instrument substitute any amount specified in the order for that amount or (as the case may be) for the amount which by virtue of such an order is for the time being the amount of the bankruptcy level.
+(4) “**The bankruptcy level**” is £5,000[^c-b20759b10e4a360ce7e81f3bb89d55bb] but the Secretary of State may by order in a statutory instrument substitute any amount specified in the order for that amount or (as the case may be) for the amount which by virtue of such an order is for the time being the amount of the bankruptcy level.
 
 (5) An order shall not be made under subsection (4) unless a draft of it has been laid before, and approved by a resolution of, each House of Parliament.
 
@@ -55,4 +55,4 @@ summary: ''
 
 [^c15577281]: Textual amendment: S. 267(3) repealed (*prosp.*) by [Criminal Justice Act 1988 (c. 33, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1988/33), [ss. 123](https://www.legislation.gov.uk/ukpga/1988/33/section/123), [170](https://www.legislation.gov.uk/ukpga/1988/33/section/170), [171](https://www.legislation.gov.uk/ukpga/1988/33/section/171), [Sch. 8 para. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/16), [Sch. 16](https://www.legislation.gov.uk/ukpga/1988/33/schedule/16)
 
-[^key-b20759b10e4a360ce7e81f3bb89d55bb]: Textual amendment: Word in s. 267(4) substituted (1.10.2015) by [The Insolvency Act 1986 (Amendment) Order 2015 (S.I. 2015/922)](https://www.legislation.gov.uk/uksi/2015/922), [arts. 1](https://www.legislation.gov.uk/uksi/2015/922/article/1), [2](https://www.legislation.gov.uk/uksi/2015/922/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/922/article/3))
+[^c-b20759b10e4a360ce7e81f3bb89d55bb]: Textual amendment: Word in s. 267(4) substituted (1.10.2015) by [The Insolvency Act 1986 (Amendment) Order 2015 (S.I. 2015/922)](https://www.legislation.gov.uk/uksi/2015/922), [arts. 1](https://www.legislation.gov.uk/uksi/2015/922/article/1), [2](https://www.legislation.gov.uk/uksi/2015/922/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2015/922/article/3))

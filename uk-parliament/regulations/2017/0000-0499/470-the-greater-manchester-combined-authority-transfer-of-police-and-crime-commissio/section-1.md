@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1. Citation and commencement[^key-28d2f8efb0b13222d06c521f08853ebf]
+## 1. Citation and commencement[^c-28d2f8efb0b13222d06c521f08853ebf]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28d2f8efb0b13222d06c521f08853ebf]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/470/article/1) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)
+[^c-28d2f8efb0b13222d06c521f08853ebf]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2017/470/article/1) in force at 8.5.2017, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2017/470/article/1/2)

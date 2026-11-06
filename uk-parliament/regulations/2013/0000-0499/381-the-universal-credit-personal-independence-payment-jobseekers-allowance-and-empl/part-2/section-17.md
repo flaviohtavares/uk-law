@@ -30,7 +30,7 @@ summary: ''
 
 (2) A decision may be revised where, by virtue of regulation 6C (treatment of Class 3 contributions paid under section 13A of the Act) of the Crediting Regulations [^c2167598], a contribution is treated as paid on a date which falls on or before the date on which the decision was made.
 
-(3)[^key-9c783eddb97ca1b4a98fbbbc22a80b9f] A decision in relation to a claim for a jobseeker’s allowance or an employment and support allowance may be revised at any time where—
+(3)[^c-9c783eddb97ca1b4a98fbbbc22a80b9f] A decision in relation to a claim for a jobseeker’s allowance or an employment and support allowance may be revised at any time where—
 
 - (a) on or after the date of the decision a contribution is treated as paid as set out in regulation 7A of the Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations 2001 (treatment of Class 2 contributions paid on or before the due date); and
 - (b) by virtue of the contribution being so treated, the person satisfies the contribution conditions of entitlement specified in paragraph (6) in relation to that benefit.
@@ -63,4 +63,4 @@ summary: ''
 
 [^c2167598]: Marginal citation: Regulation 6C was inserted by [S.I. 2009/659](https://www.legislation.gov.uk/uksi/2009/659).
 
-[^key-9c783eddb97ca1b4a98fbbbc22a80b9f]: Textual amendment: [Reg. 17(3)-(7)](https://www.legislation.gov.uk/uksi/2013/381/regulation/17/3) inserted (1.1.2017) by [The Social Security (Credits, and Crediting and Treatment of Contributions) (Consequential and Miscellaneous Amendments) Regulations 2016 (S.I. 2016/1145)](https://www.legislation.gov.uk/uksi/2016/1145), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1145/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/1145/regulation/6/2)
+[^c-9c783eddb97ca1b4a98fbbbc22a80b9f]: Textual amendment: [Reg. 17(3)-(7)](https://www.legislation.gov.uk/uksi/2013/381/regulation/17/3) inserted (1.1.2017) by [The Social Security (Credits, and Crediting and Treatment of Contributions) (Consequential and Miscellaneous Amendments) Regulations 2016 (S.I. 2016/1145)](https://www.legislation.gov.uk/uksi/2016/1145), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1145/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2016/1145/regulation/6/2)

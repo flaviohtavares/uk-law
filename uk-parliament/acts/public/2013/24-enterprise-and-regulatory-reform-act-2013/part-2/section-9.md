@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Extended power to define “relevant proceedings” for conciliation purposes[^c2181315][^key-de29f769c8449a12fcbd714690a95003]
+## 9. Extended power to define “relevant proceedings” for conciliation purposes[^c2181315][^c-de29f769c8449a12fcbd714690a95003]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 [^c2181315]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/24/section/9) partly in force; [s. 9](https://www.legislation.gov.uk/ukpga/2013/24/section/9) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-de29f769c8449a12fcbd714690a95003]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/24/section/9) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/253/article/3/d)
+[^c-de29f769c8449a12fcbd714690a95003]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2013/24/section/9) in force at 6.4.2014 in so far as not already in force by [S.I. 2014/253](https://www.legislation.gov.uk/uksi/2014/253), [art. 3(d)](https://www.legislation.gov.uk/uksi/2014/253/article/3/d)

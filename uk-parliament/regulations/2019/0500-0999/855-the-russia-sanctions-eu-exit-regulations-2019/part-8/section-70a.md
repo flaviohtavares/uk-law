@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70A. Designated persons: reporting obligations[^key-de96e70cbeffd1dd8d914fb904115d23]
+## 70A. Designated persons: reporting obligations[^c-de96e70cbeffd1dd8d914fb904115d23]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-de96e70cbeffd1dd8d914fb904115d23]: Textual amendment: Reg. 70A inserted (26.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2023/1364/regulation/17)
+[^c-de96e70cbeffd1dd8d914fb904115d23]: Textual amendment: Reg. 70A inserted (26.12.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 4) Regulations 2023 (S.I. 2023/1364)](https://www.legislation.gov.uk/uksi/2023/1364), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1364/regulation/1/2), [17](https://www.legislation.gov.uk/uksi/2023/1364/regulation/17)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Termination of appointment[^key-5fa3cfefe16ce668e4e6028b5eb799bc]
+## 36. Termination of appointment[^c-5fa3cfefe16ce668e4e6028b5eb799bc]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fa3cfefe16ce668e4e6028b5eb799bc]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2011/1301/rule/36) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-5fa3cfefe16ce668e4e6028b5eb799bc]: Commencement: [Rule 36](https://www.legislation.gov.uk/uksi/2011/1301/rule/36) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

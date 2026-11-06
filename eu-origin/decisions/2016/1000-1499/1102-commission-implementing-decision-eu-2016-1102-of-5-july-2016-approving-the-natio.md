@@ -35,24 +35,24 @@ approving the national programmes to improve the production and marketing of api
 
 *(notified under document C(2016) 4133)* (revoked)
 
-[^key-5092b2e8c840b0bd92eaac3ee60d112c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5092b2e8c840b0bd92eaac3ee60d112c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-5092b2e8c840b0bd92eaac3ee60d112c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-5092b2e8c840b0bd92eaac3ee60d112c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-5092b2e8c840b0bd92eaac3ee60d112c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-5092b2e8c840b0bd92eaac3ee60d112c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-5092b2e8c840b0bd92eaac3ee60d112c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-5092b2e8c840b0bd92eaac3ee60d112c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-5092b2e8c840b0bd92eaac3ee60d112c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-5092b2e8c840b0bd92eaac3ee60d112c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Amount of the Union contribution to the national apiculture programmes for the 2017, 2018 and 2019 apiculture years[^key-5092b2e8c840b0bd92eaac3ee60d112c]
+## ANNEX — Amount of the Union contribution to the national apiculture programmes for the 2017, 2018 and 2019 apiculture years[^c-5092b2e8c840b0bd92eaac3ee60d112c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-5092b2e8c840b0bd92eaac3ee60d112c]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)
+[^c-5092b2e8c840b0bd92eaac3ee60d112c]: Textual amendment: Decision revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/2)

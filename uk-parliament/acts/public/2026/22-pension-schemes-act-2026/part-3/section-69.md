@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Governance and structure[^key-ffad180c47be3e4e3daea359ccef0df1]
+## 69. Governance and structure[^c-ffad180c47be3e4e3daea359ccef0df1]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffad180c47be3e4e3daea359ccef0df1]: Commencement: S. 69 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-ffad180c47be3e4e3daea359ccef0df1]: Commencement: S. 69 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

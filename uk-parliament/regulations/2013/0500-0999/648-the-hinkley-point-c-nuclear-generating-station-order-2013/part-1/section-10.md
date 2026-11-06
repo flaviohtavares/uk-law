@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 10. Application of the 1990 Act[^key-b588ee562fdaa2cca46debe5aac42076]
+## 10. Application of the 1990 Act[^c-b588ee562fdaa2cca46debe5aac42076]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b588ee562fdaa2cca46debe5aac42076]: Commencement: Art. 10 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-b588ee562fdaa2cca46debe5aac42076]: Commencement: Art. 10 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

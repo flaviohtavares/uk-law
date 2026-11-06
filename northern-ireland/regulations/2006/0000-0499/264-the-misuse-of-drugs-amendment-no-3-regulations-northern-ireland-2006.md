@@ -41,27 +41,27 @@ The Department of Health, Social Services and Public Safety makes the following 
 
 In accordance with section 31(3) of that Act, it has consulted with the Advisory Council on the Misuse of Drugs.
 
-## 1. Citation[^key-ad079abc5f4dff10b1a6aa3062de2f6e]
+## 1. Citation[^c-ad079abc5f4dff10b1a6aa3062de2f6e]
 
 These Regulations may be cited as the Misuse of Drugs (Amendment) (No. 3) Regulations (Northern Ireland) 2006.
 
-## 2. Commencement[^key-85fcc46730e0eddef8c57d16697a5eb0]
+## 2. Commencement[^c-85fcc46730e0eddef8c57d16697a5eb0]
 
-(1) [^key-8126a2a5261f634c441ae1f6584b357b]... These Regulations shall come into operation on 7th July 2006.
+(1) [^c-8126a2a5261f634c441ae1f6584b357b]... These Regulations shall come into operation on 7th July 2006.
 
-(2)[^key-0ab6b5ab8274a3714786905106318f40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-0ab6b5ab8274a3714786905106318f40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Interpretation[^key-931aa15c4fa82db01b324b97f4e2cac4]
+## 3. Interpretation[^c-931aa15c4fa82db01b324b97f4e2cac4]
 
 (1) The Interpretation Act (Northern Ireland) 1954[^f00003] shall apply to these Regulations as it applies to an Act of the Assembly.
 
 (2) In these Regulations, “the 2002 Regulations” means the Misuse of Drugs Regulations (Northern Ireland) 2002[^f00004].
 
-## 4. Amendment of the Misuse of Drugs Regulations 2002[^key-fd8f0dc84b982f7e9c11f18131e047ac]
+## 4. Amendment of the Misuse of Drugs Regulations 2002[^c-fd8f0dc84b982f7e9c11f18131e047ac]
 
 The 2002 Regulations, shall be amended in accordance with regulations 5 to 12.
 
-## 5.[^key-718cd8786f966a52f10b91baa65bf6cc]
+## 5.[^c-718cd8786f966a52f10b91baa65bf6cc]
 
 In regulation 2(2)—
 
@@ -91,7 +91,7 @@ In regulation 2(2)—
 - (i) after the definition of “registered ophthalmic optician”, insert ““registered orthotist and prosthetist” has the same meaning as in the Prescription Only Medicines (Human Use) Order 1997[^f00011];”;
 - (j) after the definition of “registered pharmacy”, insert ““relevant National Health Service agency” means, for England and Wales, the NHS Business Services Authority; for Scotland, the Common Services Agency for the health service, and for Northern Ireland, the Northern Ireland Central Services Agency for the Health and Social Services;”.
 
-## 6.[^key-8bfce7b7c3a8365db30d6fd9c745483e]
+## 6.[^c-8bfce7b7c3a8365db30d6fd9c745483e]
 
 (1) In regulation 15(1)—
 
@@ -104,7 +104,7 @@ In regulation 2(2)—
 >
 > (1B) Nothing in this regulation prevents the issue of a prescription, other than a health prescription, which is not written on a prescription form provided by a Primary Care Trust or equivalent body for the purposes of private prescribing, containing a controlled drug other than a drug specified in Schedule 4 or 5. where the person issuing the description believes on reasonable grounds that the drug will be supplied by a pharmacist in a hospital.
 
-## 7.[^key-1d1f8469f2adf4f4aa1ff9d5cb9b0446]
+## 7.[^c-1d1f8469f2adf4f4aa1ff9d5cb9b0446]
 
 (1) In regulation 16(1), before “A person”, insert “subject to paragraph (5),”.
 
@@ -157,29 +157,29 @@ In regulation 2(2)—
 
 .
 
-## 8.[^key-20496d1e4bafbe05ba38d4ba086a7f6d]
+## 8.[^c-20496d1e4bafbe05ba38d4ba086a7f6d]
 
-(1)[^key-b51eb94381d957fdab15cd0e109e8577] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-b51eb94381d957fdab15cd0e109e8577] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-20496d1e4bafbe05ba38d4ba086a7f6d] After regulation 19(2), insert—
+(2)[^c-20496d1e4bafbe05ba38d4ba086a7f6d] After regulation 19(2), insert—
 
 > (2A) Subject to regulation 20(e), nothing in paragraphs (1) and (2) shall prevent the use of a register to record additional information to that required or allowed under those provisions.
 
-## 9.[^key-573ba8e5c0b6b6ade2f62dea7872aa2a]
+## 9.[^c-573ba8e5c0b6b6ade2f62dea7872aa2a]
 
 In regulation 20(e), for “the purposes of”, substitute “purposes related to”.
 
-## 10.[^key-e7e3d50fe779889f9fed181ce09fdf19]
+## 10.[^c-e7e3d50fe779889f9fed181ce09fdf19]
 
 After Regulation 23(3), insert—
 
 > (4) Every prescription (other than a health prescription) on which a controlled drug other than a drug specified in Schedule 4 or 5 is supplied, or a copy of such prescription, must be sent to the relevant National Health agency in accordance with arrangements specified by that agency.
 
-## 11.[^key-9d59bbd1ea21f33550ab2ae30e5098e7]
+## 11.[^c-9d59bbd1ea21f33550ab2ae30e5098e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12.[^key-53052dd4841d8ffa62995a8a598642a0]
+## 12.[^c-53052dd4841d8ffa62995a8a598642a0]
 
 In Schedule 8, after paragraph (h), insert—
 
@@ -188,7 +188,7 @@ In Schedule 8, after paragraph (h), insert—
 
 .
 
-## 13. Transitional provision[^key-790aed38353148fd38a6a06c2ed23e0f]
+## 13. Transitional provision[^c-790aed38353148fd38a6a06c2ed23e0f]
 
 The amendments to the 2002 Regulations made by regulation 7(4) and (6) so far as it relates to the insertion of regulation 16(4) into the 2002 Regulations, apply only to prescriptions issued on or after 7th July 2006.
 
@@ -224,23 +224,23 @@ Regulations 9, 10 and 12 make minor amendments to the 2002 Regulations, and regu
 
 [^f00002]: Footnote: [S.R. & O. (N.I.) 1973 No. 504](https://www.legislation.gov.uk/nisro/1973/504); Article 5(a) and [S.I. 1999/283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283); Article 3(6)
 
-[^key-ad079abc5f4dff10b1a6aa3062de2f6e]: Commencement: Reg. 1 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
+[^c-ad079abc5f4dff10b1a6aa3062de2f6e]: Commencement: Reg. 1 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
 
-[^key-85fcc46730e0eddef8c57d16697a5eb0]: Commencement: Reg. 2 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
+[^c-85fcc46730e0eddef8c57d16697a5eb0]: Commencement: Reg. 2 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
 
-[^key-8126a2a5261f634c441ae1f6584b357b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1) omitted (20.8.2007) by virtue of [The Misuse of Drugs and Misuse of Drugs (Safe Custody) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/348)](https://www.legislation.gov.uk/nisr/2007/348), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2007/348/regulation/2/1), [6(2)(a)](https://www.legislation.gov.uk/nisr/2007/348/regulation/6/2/a)
+[^c-8126a2a5261f634c441ae1f6584b357b]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1) omitted (20.8.2007) by virtue of [The Misuse of Drugs and Misuse of Drugs (Safe Custody) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/348)](https://www.legislation.gov.uk/nisr/2007/348), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2007/348/regulation/2/1), [6(2)(a)](https://www.legislation.gov.uk/nisr/2007/348/regulation/6/2/a)
 
-[^key-0ab6b5ab8274a3714786905106318f40]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/2) omitted (20.8.2007) by virtue of [The Misuse of Drugs and Misuse of Drugs (Safe Custody) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/348)](https://www.legislation.gov.uk/nisr/2007/348), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2007/348/regulation/2/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2007/348/regulation/6/2/b)
+[^c-0ab6b5ab8274a3714786905106318f40]: Textual amendment: [Reg. 2(2)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/2) omitted (20.8.2007) by virtue of [The Misuse of Drugs and Misuse of Drugs (Safe Custody) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/348)](https://www.legislation.gov.uk/nisr/2007/348), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2007/348/regulation/2/1), [6(2)(b)](https://www.legislation.gov.uk/nisr/2007/348/regulation/6/2/b)
 
-[^key-931aa15c4fa82db01b324b97f4e2cac4]: Commencement: Reg. 3 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
+[^c-931aa15c4fa82db01b324b97f4e2cac4]: Commencement: Reg. 3 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
 
 [^f00003]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
 [^f00004]: Footnote: [S.R. 2002 No. 1](https://www.legislation.gov.uk/nisr/2002/1); the relevant amending Regulations are [S.R. 2003 No. 420](https://www.legislation.gov.uk/nisr/2003/420); [S.R. 2005 Nos. 119](https://www.legislation.gov.uk/nisr/2005/119) and [564](https://www.legislation.gov.uk/nisr/2005/564), and [S.R. 2006 No. 214](https://www.legislation.gov.uk/nisr/2006/214)
 
-[^key-fd8f0dc84b982f7e9c11f18131e047ac]: Commencement: Reg. 4 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
+[^c-fd8f0dc84b982f7e9c11f18131e047ac]: Commencement: Reg. 4 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
 
-[^key-718cd8786f966a52f10b91baa65bf6cc]: Commencement: Reg. 5 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
+[^c-718cd8786f966a52f10b91baa65bf6cc]: Commencement: Reg. 5 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
 
 [^f00005]: Footnote: [1978 c. 29](https://www.legislation.gov.uk/ukpga/1978/29); Section 10 of that Act has been amended by paragraph 2(4) of Schedule 2 to the [Smoking Health and Social Care (Scotland) Act 2005 asp. 13](https://www.legislation.gov.uk/asp/2005/13)
 
@@ -256,22 +256,22 @@ Regulations 9, 10 and 12 make minor amendments to the 2002 Regulations, and regu
 
 [^f00011]: Footnote: [S.I. 1997/1830](https://www.legislation.gov.uk/uksi/1997/1830); the definition of “registered orthotist and prosthetist” was inserted by [S.I. 2004/1189](https://www.legislation.gov.uk/uksi/2004/1189)
 
-[^key-8bfce7b7c3a8365db30d6fd9c745483e]: Commencement: Reg. 6 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
+[^c-8bfce7b7c3a8365db30d6fd9c745483e]: Commencement: Reg. 6 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
 
-[^key-1d1f8469f2adf4f4aa1ff9d5cb9b0446]: Commencement: Reg. 7 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
+[^c-1d1f8469f2adf4f4aa1ff9d5cb9b0446]: Commencement: Reg. 7 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
 
 [^f00012]: Footnote: Article 15C is inserted by Article 21 of the [S.I. 1997/1177 (N.I. 7)](https://www.legislation.gov.uk/nisi/1997/1177) and amended by Article 6 of [S.I. 2004/311 (N.I. 2)](https://www.legislation.gov.uk/nisi/2004/311)
 
-[^key-20496d1e4bafbe05ba38d4ba086a7f6d]: Commencement: Reg. 8(2) in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
+[^c-20496d1e4bafbe05ba38d4ba086a7f6d]: Commencement: Reg. 8(2) in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
 
-[^key-b51eb94381d957fdab15cd0e109e8577]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/8/1) omitted (20.8.2007) by virtue of [The Misuse of Drugs and Misuse of Drugs (Safe Custody) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/348)](https://www.legislation.gov.uk/nisr/2007/348), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2007/348/regulation/2/1), [6(3)](https://www.legislation.gov.uk/nisr/2007/348/regulation/6/3)
+[^c-b51eb94381d957fdab15cd0e109e8577]: Textual amendment: [Reg. 8(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/8/1) omitted (20.8.2007) by virtue of [The Misuse of Drugs and Misuse of Drugs (Safe Custody) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/348)](https://www.legislation.gov.uk/nisr/2007/348), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2007/348/regulation/2/1), [6(3)](https://www.legislation.gov.uk/nisr/2007/348/regulation/6/3)
 
-[^key-573ba8e5c0b6b6ade2f62dea7872aa2a]: Commencement: Reg. 9 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
+[^c-573ba8e5c0b6b6ade2f62dea7872aa2a]: Commencement: Reg. 9 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
 
-[^key-e7e3d50fe779889f9fed181ce09fdf19]: Commencement: Reg. 10 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
+[^c-e7e3d50fe779889f9fed181ce09fdf19]: Commencement: Reg. 10 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
 
-[^key-9d59bbd1ea21f33550ab2ae30e5098e7]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/264/regulation/11) omitted (20.8.2007) by virtue of [The Misuse of Drugs and Misuse of Drugs (Safe Custody) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/348)](https://www.legislation.gov.uk/nisr/2007/348), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2007/348/regulation/2/1), [6(3)](https://www.legislation.gov.uk/nisr/2007/348/regulation/6/3)
+[^c-9d59bbd1ea21f33550ab2ae30e5098e7]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/nisr/2006/264/regulation/11) omitted (20.8.2007) by virtue of [The Misuse of Drugs and Misuse of Drugs (Safe Custody) (Amendment) Regulations (Northern Ireland) 2007 (S.R. 2007/348)](https://www.legislation.gov.uk/nisr/2007/348), [regs. 2(1)](https://www.legislation.gov.uk/nisr/2007/348/regulation/2/1), [6(3)](https://www.legislation.gov.uk/nisr/2007/348/regulation/6/3)
 
-[^key-53052dd4841d8ffa62995a8a598642a0]: Commencement: Reg. 12 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
+[^c-53052dd4841d8ffa62995a8a598642a0]: Commencement: Reg. 12 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
 
-[^key-790aed38353148fd38a6a06c2ed23e0f]: Commencement: Reg. 13 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)
+[^c-790aed38353148fd38a6a06c2ed23e0f]: Commencement: Reg. 13 in operation at 7.7.2006, see [reg. 2(1)](https://www.legislation.gov.uk/nisr/2006/264/regulation/2/1)

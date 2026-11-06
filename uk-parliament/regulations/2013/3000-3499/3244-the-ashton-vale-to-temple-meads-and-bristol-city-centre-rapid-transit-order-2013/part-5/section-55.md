@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 55. Exclusion of double liability[^key-2759e6f70598f0d2d4279df06cea30ef]
+## 55. Exclusion of double liability[^c-2759e6f70598f0d2d4279df06cea30ef]
 
 *Extent: E+W+S*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2759e6f70598f0d2d4279df06cea30ef]: Commencement: Art. 55 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
+[^c-2759e6f70598f0d2d4279df06cea30ef]: Commencement: Art. 55 in force at 9.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/3244/article/1)
 
 [^f00027]: Footnote: [1981 c. 14](https://www.legislation.gov.uk/ukpga/1981/14).

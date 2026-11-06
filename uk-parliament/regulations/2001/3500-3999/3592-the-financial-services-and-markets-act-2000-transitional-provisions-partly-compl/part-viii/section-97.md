@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. EEA firms seeking to provide services[^key-c75a9dc5e5d542a4f4b8062f9515db4e]
+## 97. EEA firms seeking to provide services[^c-c75a9dc5e5d542a4f4b8062f9515db4e]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c75a9dc5e5d542a4f4b8062f9515db4e]: Commencement: Art. 97 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)
+[^c-c75a9dc5e5d542a4f4b8062f9515db4e]: Commencement: Art. 97 in force at 1.12.2001, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2001/3592/article/1/2)

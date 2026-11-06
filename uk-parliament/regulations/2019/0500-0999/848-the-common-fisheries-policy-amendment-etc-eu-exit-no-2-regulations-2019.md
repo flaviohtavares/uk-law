@@ -46,21 +46,21 @@ In accordance with paragraph 1(1) of Schedule 7 to that Act, a draft of this ins
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation and commencement[^key-28806c0000797b062e296ef06476e774]
+### 1. Citation and commencement[^c-28806c0000797b062e296ef06476e774]
 
 These Regulations may be cited as the Common Fisheries Policy (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 and come into force on the later of exit day or the day after the day on which they are made.
 
 ## PART 2 — AMENDMENT OF THE DISCARD PLANS
 
-### 2. Commission Delegated Regulation (EU) 2018/2034 establishing a discard plan for certain demersal fisheries in North-Western waters for the period 2019-2021[^key-488a96bce3aeb25aff81841336c6fc56]
+### 2. Commission Delegated Regulation (EU) 2018/2034 establishing a discard plan for certain demersal fisheries in North-Western waters for the period 2019-2021[^c-488a96bce3aeb25aff81841336c6fc56]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Commission Delegated Regulation (EU) 2018/2035 specifying details of implementation of the landing obligation for certain demersal fisheries in the North Sea for the period 2019-2021[^key-292c42a4465e6bbaac996ab9897963a7]
+### 3. Commission Delegated Regulation (EU) 2018/2035 specifying details of implementation of the landing obligation for certain demersal fisheries in the North Sea for the period 2019-2021[^c-292c42a4465e6bbaac996ab9897963a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Commission Delegated Regulation (EU) No 1395/2014 establishing a discard plan for certain small pelagic fisheries and fisheries for industrial purposes in the North Sea[^key-5002dac6d16f83089ac8c091919cfafc]
+### 4. Commission Delegated Regulation (EU) No 1395/2014 establishing a discard plan for certain small pelagic fisheries and fisheries for industrial purposes in the North Sea[^c-5002dac6d16f83089ac8c091919cfafc]
 
 (1) Commission Delegated Regulation (EU) No 1395/2014 establishing a discard plan for certain small pelagic fisheries and fisheries for industrial purposes in the North Sea is amended as follows.
 
@@ -79,7 +79,7 @@ These Regulations may be cited as the Common Fisheries Policy (Amendment etc.) (
 
 ## PART 3 — AMENDMENT OF THE DEEP SEA FISHING REGULATION
 
-### 5. Council Regulation (EU) 2018/2025 fixing for 2019 and 2020 the fishing opportunities for Union fishing vessels for certain deep-sea fish stocks[^key-4dd53a336f5ac1c868514ab6cf7dfe63]
+### 5. Council Regulation (EU) 2018/2025 fixing for 2019 and 2020 the fishing opportunities for Union fishing vessels for certain deep-sea fish stocks[^c-4dd53a336f5ac1c868514ab6cf7dfe63]
 
 (1) Council Regulation (EU) 2018/2025 fixing for 2019 and 2020 the fishing opportunities for Union fishing vessels for certain deep-sea fish stocks is amended as follows.
 
@@ -89,14 +89,14 @@ These Regulations may be cited as the Common Fisheries Policy (Amendment etc.) (
 
 - (a) in paragraph 1—
   - (i) omit point (a),
-  - (ii)[^key-71f8c0a06b8452a17033ef4c172b07c8] omit point (b),
+  - (ii)[^c-71f8c0a06b8452a17033ef4c172b07c8] omit point (b),
   - (iii) in point (c) for “State” substitute “ state or country ”, and
   - (iv) omit point (d); and
 - (b) in paragraph 2 omit point (b).
 
-(4) Omit Articles 3 to 6[^key-37086c434da9c1b63a8060d6230965be].
+(4) Omit Articles 3 to 6[^c-37086c434da9c1b63a8060d6230965be].
 
-(5)[^key-12d78df887a41f0b085e7c00ec72fbdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-12d78df887a41f0b085e7c00ec72fbdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In Article 7—
 
@@ -112,11 +112,11 @@ These Regulations may be cited as the Common Fisheries Policy (Amendment etc.) (
 - (a) in Part 1, omit paragraph 1 and the table immediately following it; and
 - (b) omit Part 2.
 
-## PART 4 — AMENDMENT OF THE TAC AND QUOTA REGULATION[^key-fb7c438a56a93d5c2a6dba4bc8d87b20]
+## PART 4 — AMENDMENT OF THE TAC AND QUOTA REGULATION[^c-fb7c438a56a93d5c2a6dba4bc8d87b20]
 
 **No longer in force.**
 
-### 6. Council Regulation (EU) 2019/124 fixing for 2019 the fishing opportunities for certain fish stocks and groups of fish stocks, applicable in Union waters and, for Union fishing vessels, in certain non-Union waters[^key-fb7c438a56a93d5c2a6dba4bc8d87b20]
+### 6. Council Regulation (EU) 2019/124 fixing for 2019 the fishing opportunities for certain fish stocks and groups of fish stocks, applicable in Union waters and, for Union fishing vessels, in certain non-Union waters[^c-fb7c438a56a93d5c2a6dba4bc8d87b20]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -138,20 +138,20 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23711881]: Marginal citation: [2018 c. 16](https://www.legislation.gov.uk/ukpga/2018/16).
 
-[^key-28806c0000797b062e296ef06476e774]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-28806c0000797b062e296ef06476e774]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-488a96bce3aeb25aff81841336c6fc56]: Textual amendment: Reg. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1542/regulation/3)
+[^c-488a96bce3aeb25aff81841336c6fc56]: Textual amendment: Reg. 2 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1542/regulation/3)
 
-[^key-292c42a4465e6bbaac996ab9897963a7]: Textual amendment: Reg. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1542/regulation/3)
+[^c-292c42a4465e6bbaac996ab9897963a7]: Textual amendment: Reg. 3 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1542/regulation/3)
 
-[^key-5002dac6d16f83089ac8c091919cfafc]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-5002dac6d16f83089ac8c091919cfafc]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-4dd53a336f5ac1c868514ab6cf7dfe63]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4dd53a336f5ac1c868514ab6cf7dfe63]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-71f8c0a06b8452a17033ef4c172b07c8]: Textual amendment: Reg. 5(3)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/16/a)
+[^c-71f8c0a06b8452a17033ef4c172b07c8]: Textual amendment: Reg. 5(3)(a)(ii) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [16(a)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/16/a)
 
-[^key-37086c434da9c1b63a8060d6230965be]: Textual amendment: Word in reg. 5(4) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/16/b)
+[^c-37086c434da9c1b63a8060d6230965be]: Textual amendment: Word in reg. 5(4) substituted (31.12.2020 immediately before IP completion day) by [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [16(b)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/16/b)
 
-[^key-12d78df887a41f0b085e7c00ec72fbdb]: Textual amendment: Reg. 5(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [16(c)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/16/c)
+[^c-12d78df887a41f0b085e7c00ec72fbdb]: Textual amendment: Reg. 5(5) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [16(c)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/16/c)
 
-[^key-fb7c438a56a93d5c2a6dba4bc8d87b20]: Textual amendment: Pt. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1542/regulation/3)
+[^c-fb7c438a56a93d5c2a6dba4bc8d87b20]: Textual amendment: Pt. 4 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Common Fisheries Policy (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1542)](https://www.legislation.gov.uk/uksi/2020/1542), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1542/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2020/1542/regulation/3)

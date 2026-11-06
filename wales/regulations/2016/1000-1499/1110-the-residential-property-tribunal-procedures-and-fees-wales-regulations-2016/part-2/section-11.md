@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Applications under the 2013 Act relating to detrimental effect of mobile homes on the amenity of the site[^key-a7c72cbc71b3df0169a5ef7b87998180]
+## 11. Applications under the 2013 Act relating to detrimental effect of mobile homes on the amenity of the site[^c-a7c72cbc71b3df0169a5ef7b87998180]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7c72cbc71b3df0169a5ef7b87998180]: Commencement: Reg. 11 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)
+[^c-a7c72cbc71b3df0169a5ef7b87998180]: Commencement: Reg. 11 in force at 23.11.2016, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2016/1110/regulation/1/1)

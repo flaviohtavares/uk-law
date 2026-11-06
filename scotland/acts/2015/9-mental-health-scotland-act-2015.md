@@ -58,7 +58,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 2. Information where order extended[^key-58362cf5b45e12ddc2661b02c5a8acec]
+#### 2. Information where order extended[^c-58362cf5b45e12ddc2661b02c5a8acec]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -107,7 +107,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 3. Transfer to another hospital[^key-dc81eaae634fbab56ae1ef44b52c646c]
+#### 3. Transfer to another hospital[^c-dc81eaae634fbab56ae1ef44b52c646c]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -125,7 +125,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Emergency, short-term and temporary steps
 
-#### 4. Emergency detention in hospital[^key-11479f382736ae51a20426b4b1107c2c]
+#### 4. Emergency detention in hospital[^c-11479f382736ae51a20426b4b1107c2c]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -158,7 +158,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) In subsection (4) of section 42 (certificate under section 41: revocation), after the word “inform” there is inserted “ the Commission and ”.
 
-#### 5. Short-term detention in hospital[^key-b00d2e488e5fa5118b3cf74faadc012e]
+#### 5. Short-term detention in hospital[^c-b00d2e488e5fa5118b3cf74faadc012e]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -177,7 +177,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-#### 6. Meaning of temporary compulsion[^key-82cc01ba9ee52aa4fdeee79cded1f2f4]
+#### 6. Meaning of temporary compulsion[^c-82cc01ba9ee52aa4fdeee79cded1f2f4]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -191,7 +191,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Suspension of orders and measures
 
-#### 7. Suspension of orders on emergency detention[^key-a42aadd823d28fdf2cab5bd378b9e274]
+#### 7. Suspension of orders on emergency detention[^c-a42aadd823d28fdf2cab5bd378b9e274]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -216,7 +216,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) its title becomes “ **Effect of emergency detention certificate on certain orders** ”,
 - (b) the italic heading immediately preceding it becomes “ *Effect of emergency detention certificate on certain orders* ”.
 
-#### 8. Suspension of orders on short-term detention[^key-b913a818ca4752349359f8df16077421]
+#### 8. Suspension of orders on short-term detention[^c-b913a818ca4752349359f8df16077421]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -245,7 +245,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (a) its title becomes “ **Effect of short-term detention certificate etc. on certain orders** ”,
 - (b) the italic heading immediately preceding it becomes “ *Effect of short-term detention certificate etc. on certain orders* ”.
 
-#### 9. Suspension of detention for certain purposes[^key-e8ba665d23eda9d4de04a55feb52199f]
+#### 9. Suspension of detention for certain purposes[^c-e8ba665d23eda9d4de04a55feb52199f]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -331,7 +331,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-#### 10. Maximum suspension of particular measures[^key-700619ed8e06b57e94a4b6a9d1e726dc]
+#### 10. Maximum suspension of particular measures[^c-700619ed8e06b57e94a4b6a9d1e726dc]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -378,7 +378,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Specification of hospital units
 
-#### 11. Specification for detention measures[^key-6cc1b79909105e6267a7e3a6f224222b]
+#### 11. Specification for detention measures[^c-6cc1b79909105e6267a7e3a6f224222b]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -408,7 +408,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 12. Transfer of prisoner to hospital unit[^key-a39c9566fcf3bef22be733b2e6b8a04e]
+#### 12. Transfer of prisoner to hospital unit[^c-a39c9566fcf3bef22be733b2e6b8a04e]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -420,7 +420,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 13. Transfer from specified unit[^key-5aadb862841f1d9b6f9c6b1c87a3aeb5]
+#### 13. Transfer from specified unit[^c-5aadb862841f1d9b6f9c6b1c87a3aeb5]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -450,7 +450,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Orders regarding level of security
 
-#### 14. Requirement for medical report[^key-6585512a74dfb14f42855ce5d2c7b14d]
+#### 14. Requirement for medical report[^c-6585512a74dfb14f42855ce5d2c7b14d]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -472,7 +472,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 15. Process for enforcement of orders[^key-7bd48c8d6c967b30d9b7b0a8907e1b9f]
+#### 15. Process for enforcement of orders[^c-7bd48c8d6c967b30d9b7b0a8907e1b9f]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -509,7 +509,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-#### 16. Orders relating to non-state hospitals[^key-2f395916b982c7f1c9cb9beca0adb41a]
+#### 16. Orders relating to non-state hospitals[^c-2f395916b982c7f1c9cb9beca0adb41a]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -584,7 +584,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (3) Regulations made by virtue of subsection (1) may not come into force before the day on which section 16(5) comes into force.
 
-#### 18. Meaning of hospital in sections 264 to 273 of the 2003 Act[^key-f6f753ed54263282f045737e27ef5a49]
+#### 18. Meaning of hospital in sections 264 to 273 of the 2003 Act[^c-f6f753ed54263282f045737e27ef5a49]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -601,7 +601,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Removal and detention of patients
 
-#### 19. Notifying decisions on removal orders[^key-b55dc57d871c1d6eeca9214dcc4b9606]
+#### 19. Notifying decisions on removal orders[^c-b55dc57d871c1d6eeca9214dcc4b9606]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -622,7 +622,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 20. Detention pending medical examination[^key-54bc92c83f822ef13147a3b256bec01e]
+#### 20. Detention pending medical examination[^c-54bc92c83f822ef13147a3b256bec01e]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -636,7 +636,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Periodical referral of cases
 
-#### 21. Periodical referral of cases[^key-a6ef19f12bf8fd4a43f342c749ef9c49]
+#### 21. Periodical referral of cases[^c-a6ef19f12bf8fd4a43f342c749ef9c49]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -660,7 +660,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Representation by named persons
 
-#### 22. Named person not to be automatic[^key-eefc394d2184618a001b816d265ff3c9]
+#### 22. Named person not to be automatic[^c-eefc394d2184618a001b816d265ff3c9]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -672,9 +672,9 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 #### 23. Consent to being named person
 
-(1)[^key-bf148c06ad6e5a700d9f0e2c734eaa8f][^key-4e079eef26545a4e9ca0f61e268a1a6f] The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
+(1)[^c-bf148c06ad6e5a700d9f0e2c734eaa8f][^c-4e079eef26545a4e9ca0f61e268a1a6f] The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
-(2)[^key-bf148c06ad6e5a700d9f0e2c734eaa8f][^key-4e079eef26545a4e9ca0f61e268a1a6f] In section 250 (nomination of named person)—
+(2)[^c-bf148c06ad6e5a700d9f0e2c734eaa8f][^c-4e079eef26545a4e9ca0f61e268a1a6f] In section 250 (nomination of named person)—
 
 - (a) in subsection (1), for the words “(3) and (6)” there is substituted “ (2A), (3) and (6) ”,
 - (b) after subsection (2) there is inserted—
@@ -688,7 +688,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   ,
 - (c) in subsection (6), for the words “may decline” there is substituted “ ceases ”.
 
-(3)[^key-e8ff72e1416702058415f53e384fb671] In section 257 (named person: Tribunal's powers)—
+(3)[^c-e8ff72e1416702058415f53e384fb671] In section 257 (named person: Tribunal's powers)—
 
 - (a) in subsection (3), after the word “(4)” there is inserted “ or (5) ”,
 - (b) after subsection (4) there is inserted—
@@ -706,7 +706,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-#### 24. Appointment of named person[^key-4c43fb70bf5b761cfaa7f52a5d36fde7]
+#### 24. Appointment of named person[^c-4c43fb70bf5b761cfaa7f52a5d36fde7]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -735,7 +735,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) In section 320 (appeal to sheriff principal against certain decisions of the Tribunal), paragraph (t) of subsection (1) is repealed.
 
-#### 25. Ability to act if no named person[^key-bf52e1f488e20b4ba5fb283d9085cef0]
+#### 25. Ability to act if no named person[^c-bf52e1f488e20b4ba5fb283d9085cef0]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -779,7 +779,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Advance statements and patients' rights
 
-#### 26. Advance statements to be registered[^key-3e0fb4fb8a385f9ef9fee8e442825c12]
+#### 26. Advance statements to be registered[^c-3e0fb4fb8a385f9ef9fee8e442825c12]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -823,7 +823,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 27. Information about advocacy services[^key-b642cb91552c8254553ba76faf2467ff]
+#### 27. Information about advocacy services[^c-b642cb91552c8254553ba76faf2467ff]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -844,7 +844,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 28. Communication at medical examination etc.[^key-00fb37bcc1b863dcacf8da641ba04b8a]
+#### 28. Communication at medical examination etc.[^c-00fb37bcc1b863dcacf8da641ba04b8a]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -885,7 +885,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 29. Conflicts of interest to be avoided[^key-efdc8d54efdfe67565de0dd630f89863][^key-2ca2c6a24414e45b25855f8fce141df7]
+#### 29. Conflicts of interest to be avoided[^c-efdc8d54efdfe67565de0dd630f89863][^c-2ca2c6a24414e45b25855f8fce141df7]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -919,7 +919,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
   - (ii) subsection (5),
 - (d) in section 58 (medical examination: requirements), subsection (5).
 
-#### 30. Safeguarding the patient's interest[^key-d1f97966cc5ea920d34d6137e06d379d]
+#### 30. Safeguarding the patient's interest[^c-d1f97966cc5ea920d34d6137e06d379d]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -935,7 +935,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Services and accommodation for mothers
 
-#### 31. Services and accommodation for mothers[^key-595020a8f84f5f7a6258d8900dfff5aa]
+#### 31. Services and accommodation for mothers[^c-595020a8f84f5f7a6258d8900dfff5aa]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -959,7 +959,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Cross-border transfers and absconding patients
 
-#### 32. Cross-border transfer of patients[^key-795158bd957421390195a8796c2d692b][^key-5345638cd2b5b5e71f5f7659fff38662]
+#### 32. Cross-border transfer of patients[^c-795158bd957421390195a8796c2d692b][^c-5345638cd2b5b5e71f5f7659fff38662]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -1003,7 +1003,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-#### 33. Dealing with absconding patients[^key-ff354fadc2164efec908253555af86ef][^key-e76550ecfdca3040c0820895051cb383]
+#### 33. Dealing with absconding patients[^c-ff354fadc2164efec908253555af86ef][^c-e76550ecfdca3040c0820895051cb383]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -1040,7 +1040,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Arrangements for treatment of prisoners
 
-#### 34. Agreement to transfer of prisoners[^key-31950620db9f055337ec063731b37afa]
+#### 34. Agreement to transfer of prisoners[^c-31950620db9f055337ec063731b37afa]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -1052,7 +1052,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 35. Compulsory treatment of prisoners[^key-8226f70f72e2371b1e10662f701e4cfb]
+#### 35. Compulsory treatment of prisoners[^c-8226f70f72e2371b1e10662f701e4cfb]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -1082,7 +1082,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Provision of information by the Commission
 
-#### 36. Provision of information by the Commission[^key-499621d6c2220b5020d9801c1a2bf321]
+#### 36. Provision of information by the Commission[^c-499621d6c2220b5020d9801c1a2bf321]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -1101,7 +1101,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Review of deaths of patients in hospital for treatment
 
-#### 37. Review of deaths of patients in hospital for treatment[^key-0195b149eecffa199554840c3e4b0ab2]
+#### 37. Review of deaths of patients in hospital for treatment[^c-0195b149eecffa199554840c3e4b0ab2]
 
 (1) The Scottish Ministers must carry out a review of the arrangements for investigating the deaths of patients who, at the time of death, were—
 
@@ -1127,7 +1127,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Making and effect of disposals
 
-#### 38. Making certain orders in remand cases[^key-805ce4d62bec32384951e1f0b782b86e]
+#### 38. Making certain orders in remand cases[^c-805ce4d62bec32384951e1f0b782b86e]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -1142,7 +1142,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 - (g) in section 52M (treatment order), in subsection (9)(d)(i) and (ii),
 - (h) in section 52P (treatment order: supplementary), in subsection (2)(a) and (b)(ii).
 
-#### 39. Detention under compulsion orders[^key-3c640340c387a8d74e9099c27c0578b6]
+#### 39. Detention under compulsion orders[^c-3c640340c387a8d74e9099c27c0578b6]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -1155,7 +1155,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-#### 40. Periods for assessment orders[^key-05133522ceeb85d8bbdcf5e426cf1d69]
+#### 40. Periods for assessment orders[^c-05133522ceeb85d8bbdcf5e426cf1d69]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -1204,7 +1204,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-#### 41. Periods for treatment orders[^key-5a91ed1d9dc02759a9effca2368bb9e3]
+#### 41. Periods for treatment orders[^c-5a91ed1d9dc02759a9effca2368bb9e3]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -1227,7 +1227,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-#### 42. Periods for short-term compulsion[^key-38b58c7411ad58ab9e0192b662565f64]
+#### 42. Periods for short-term compulsion[^c-38b58c7411ad58ab9e0192b662565f64]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -1271,7 +1271,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (5) In section 54 (unfitness for trial: further provision), in subsection (2B)(a), for the words “expiry of the period of” there is substituted “ end of the day following the ”.
 
-#### 43. Periods for compulsion orders[^key-37fd6ecc028444278d614c60377e493b]
+#### 43. Periods for compulsion orders[^c-37fd6ecc028444278d614c60377e493b]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -1292,7 +1292,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 (4) In section 57D (compulsion order: supplementary), in subsection (1), for the words “expiry of the period of” there is substituted “ end of the day following the ”.
 
-#### 44. Periods for hospital directions[^key-38b130b54df1710bada89f527b5c70f0]
+#### 44. Periods for hospital directions[^c-38b130b54df1710bada89f527b5c70f0]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -1305,7 +1305,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Variation of certain orders
 
-#### 45. Variation of interim compulsion orders[^key-7e221c64e4ce20753f2ef0a19ca0b2ff]
+#### 45. Variation of interim compulsion orders[^c-7e221c64e4ce20753f2ef0a19ca0b2ff]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -1327,7 +1327,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
   .
 
-#### 46. Transfer of patient to suitable hospital[^key-354488c197d8fd8bb9d0a4d0e2732f81]
+#### 46. Transfer of patient to suitable hospital[^c-354488c197d8fd8bb9d0a4d0e2732f81]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -1380,7 +1380,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 ### Specification of hospital units
 
-#### 47. Specification of unit[^key-310a9a744fb8a825074d75005a5be5cd]
+#### 47. Specification of unit[^c-310a9a744fb8a825074d75005a5be5cd]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -1401,7 +1401,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 48. Transfer from specified unit[^key-a7922f0907a81098c58b3ac4ef5e9b02]
+#### 48. Transfer from specified unit[^c-a7922f0907a81098c58b3ac4ef5e9b02]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -1432,7 +1432,7 @@ The Bill for this Act of the Scottish Parliament was passed by the Parliament on
 
 .
 
-#### 49. Consequential repeals[^key-3f6b96b00f4c7c0d76ea36d6b2a1d29d]
+#### 49. Consequential repeals[^c-3f6b96b00f4c7c0d76ea36d6b2a1d29d]
 
 The following enactments are repealed—
 
@@ -1441,7 +1441,7 @@ The following enactments are repealed—
 
 ### Miscellaneous amendments
 
-#### 50. Information on extension of compulsion order[^key-29679dbe1db743a923cda42f04489a21]
+#### 50. Information on extension of compulsion order[^c-29679dbe1db743a923cda42f04489a21]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -1490,7 +1490,7 @@ The following enactments are repealed—
 
 .
 
-#### 51. Notification of changes to compulsion order[^key-7003b0025dfc836e0e61aaaec91ee2da]
+#### 51. Notification of changes to compulsion order[^c-7003b0025dfc836e0e61aaaec91ee2da]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -1498,13 +1498,13 @@ The following enactments are repealed—
 
 (3) In section 160 (application for variation of compulsion order: notification), for the word “(f)” there is substituted “ (e) ”.
 
-#### 52. Effect of revocation of restriction order[^key-a6301cfd3dfdfc3f1d8c8d13be4a7354]
+#### 52. Effect of revocation of restriction order[^c-a6301cfd3dfdfc3f1d8c8d13be4a7354]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
 (2) In subsection (2) of section 198 (effect of revocation of restriction order), for the words “Tribunal revoked the restriction order” there is substituted “ order revoking the restriction order has effect in accordance with section 196 of this Act ”.
 
-#### 53. Clarification of meaning of compulsion order[^key-6c60e633b78083d9cdd9ea23bf707182]
+#### 53. Clarification of meaning of compulsion order[^c-6c60e633b78083d9cdd9ea23bf707182]
 
 (1) The Criminal Procedure (Scotland) Act 1995 is amended as follows.
 
@@ -1528,7 +1528,7 @@ The following enactments are repealed—
 
 ### Information and representations
 
-#### 54. Right to information: offender imprisoned[^key-1eddb6b3c680eb3fc4f1268f79b1b6f1][^key-110fc48bc46a5a4be2e898778a47ded0][^key-3f62f5d1281e8db875ad1b14125cde18]
+#### 54. Right to information: offender imprisoned[^c-1eddb6b3c680eb3fc4f1268f79b1b6f1][^c-110fc48bc46a5a4be2e898778a47ded0][^c-3f62f5d1281e8db875ad1b14125cde18]
 
 (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
 
@@ -1560,7 +1560,7 @@ The following enactments are repealed—
 
   .
 
-#### 55. Right to information: compulsion order[^key-8ef029b48f3b016bd2dc6a37619b6481][^key-5707ff71efa7bfc5d17eb856c527be64]
+#### 55. Right to information: compulsion order[^c-8ef029b48f3b016bd2dc6a37619b6481][^c-5707ff71efa7bfc5d17eb856c527be64]
 
 (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
 
@@ -1649,7 +1649,7 @@ The following enactments are repealed—
 
 .
 
-#### 56. Right to make representations[^key-328055ef2b62b4369ad94369cf5b6d8e][^key-0e9ccd7f991b25b777ac6b487c70491d]
+#### 56. Right to make representations[^c-328055ef2b62b4369ad94369cf5b6d8e][^c-0e9ccd7f991b25b777ac6b487c70491d]
 
 (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
 
@@ -1713,7 +1713,7 @@ The following enactments are repealed—
 
 ### Additional provisions
 
-#### 57. Information sharing[^key-3d104ff6290c239bef1e088b98a32203]
+#### 57. Information sharing[^c-3d104ff6290c239bef1e088b98a32203]
 
 (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
 
@@ -1739,7 +1739,7 @@ The following enactments are repealed—
 
 .
 
-#### 58. Associated definitions[^key-0c68a5bda860766c36e425f4bf1ad074][^key-1bbd88ef7d8352b658ad07062ef457c3]
+#### 58. Associated definitions[^c-0c68a5bda860766c36e425f4bf1ad074][^c-1bbd88ef7d8352b658ad07062ef457c3]
 
 (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
 
@@ -1776,7 +1776,7 @@ The following enactments are repealed—
 
 .
 
-#### 59. Power to make modifications[^key-b728c37197f5a0caa00ba52b823fecdc]
+#### 59. Power to make modifications[^c-b728c37197f5a0caa00ba52b823fecdc]
 
 (1) The Criminal Justice (Scotland) Act 2003 is amended as follows.
 
@@ -1806,7 +1806,7 @@ The following enactments are repealed—
 
 (3) In section 88 (orders), after “16(4)” there is inserted “ , 18B ”.
 
-#### 60. Amendments to the 2003 Act[^key-6b5701b08803305bfe6034fdbb649f32]
+#### 60. Amendments to the 2003 Act[^c-6b5701b08803305bfe6034fdbb649f32]
 
 (1) The Mental Health (Care and Treatment) (Scotland) Act 2003 is amended as follows.
 
@@ -1855,138 +1855,138 @@ The short title of this Act is the Mental Health (Scotland) Act 2015.
 
 ## Annotations
 
-[^key-58362cf5b45e12ddc2661b02c5a8acec]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2015/9/section/2) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2017/197/article/3))
+[^c-58362cf5b45e12ddc2661b02c5a8acec]: Commencement: [S. 2](https://www.legislation.gov.uk/asp/2015/9/section/2) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2017/197/article/3))
 
-[^key-dc81eaae634fbab56ae1ef44b52c646c]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2015/9/section/3) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-dc81eaae634fbab56ae1ef44b52c646c]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2015/9/section/3) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-11479f382736ae51a20426b4b1107c2c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/9/section/4) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2017/197/article/5))
+[^c-11479f382736ae51a20426b4b1107c2c]: Commencement: [S. 4](https://www.legislation.gov.uk/asp/2015/9/section/4) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 5](https://www.legislation.gov.uk/ssi/2017/197/article/5))
 
-[^key-b00d2e488e5fa5118b3cf74faadc012e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2015/9/section/5) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/197/article/6))
+[^c-b00d2e488e5fa5118b3cf74faadc012e]: Commencement: [S. 5](https://www.legislation.gov.uk/asp/2015/9/section/5) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 6](https://www.legislation.gov.uk/ssi/2017/197/article/6))
 
-[^key-82cc01ba9ee52aa4fdeee79cded1f2f4]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2015/9/section/6) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-82cc01ba9ee52aa4fdeee79cded1f2f4]: Commencement: [S. 6](https://www.legislation.gov.uk/asp/2015/9/section/6) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-a42aadd823d28fdf2cab5bd378b9e274]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2015/9/section/7) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2017/197/article/7))
+[^c-a42aadd823d28fdf2cab5bd378b9e274]: Commencement: [S. 7](https://www.legislation.gov.uk/asp/2015/9/section/7) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 7](https://www.legislation.gov.uk/ssi/2017/197/article/7))
 
-[^key-b913a818ca4752349359f8df16077421]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2015/9/section/8) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2017/197/article/8))
+[^c-b913a818ca4752349359f8df16077421]: Commencement: [S. 8](https://www.legislation.gov.uk/asp/2015/9/section/8) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 8](https://www.legislation.gov.uk/ssi/2017/197/article/8))
 
-[^key-e8ba665d23eda9d4de04a55feb52199f]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2015/9/section/9) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-e8ba665d23eda9d4de04a55feb52199f]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2015/9/section/9) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-700619ed8e06b57e94a4b6a9d1e726dc]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2015/9/section/10) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2017/197/article/9))
+[^c-700619ed8e06b57e94a4b6a9d1e726dc]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2015/9/section/10) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 9](https://www.legislation.gov.uk/ssi/2017/197/article/9))
 
-[^key-6cc1b79909105e6267a7e3a6f224222b]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2015/9/section/11) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-6cc1b79909105e6267a7e3a6f224222b]: Commencement: [S. 11](https://www.legislation.gov.uk/asp/2015/9/section/11) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-a39c9566fcf3bef22be733b2e6b8a04e]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2015/9/section/12) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-a39c9566fcf3bef22be733b2e6b8a04e]: Commencement: [S. 12](https://www.legislation.gov.uk/asp/2015/9/section/12) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-5aadb862841f1d9b6f9c6b1c87a3aeb5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2015/9/section/13) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-5aadb862841f1d9b6f9c6b1c87a3aeb5]: Commencement: [S. 13](https://www.legislation.gov.uk/asp/2015/9/section/13) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-6585512a74dfb14f42855ce5d2c7b14d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2015/9/section/14) in force at 16.11.2015 by [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2015/361/article/3), [6](https://www.legislation.gov.uk/ssi/2015/361/article/6))
+[^c-6585512a74dfb14f42855ce5d2c7b14d]: Commencement: [S. 14](https://www.legislation.gov.uk/asp/2015/9/section/14) in force at 16.11.2015 by [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 3](https://www.legislation.gov.uk/ssi/2015/361/article/3), [6](https://www.legislation.gov.uk/ssi/2015/361/article/6))
 
-[^key-7bd48c8d6c967b30d9b7b0a8907e1b9f]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2015/9/section/15) in force at 16.11.2015 by [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2015/361/article/4))
+[^c-7bd48c8d6c967b30d9b7b0a8907e1b9f]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2015/9/section/15) in force at 16.11.2015 by [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/ssi/2015/361/article/4))
 
-[^key-2f395916b982c7f1c9cb9beca0adb41a]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2015/9/section/16) in force at 16.11.2015 by [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2)
+[^c-2f395916b982c7f1c9cb9beca0adb41a]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2015/9/section/16) in force at 16.11.2015 by [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2)
 
-[^key-f6f753ed54263282f045737e27ef5a49]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2015/9/section/18) in force at 16.11.2015 by [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2)
+[^c-f6f753ed54263282f045737e27ef5a49]: Commencement: [S. 18](https://www.legislation.gov.uk/asp/2015/9/section/18) in force at 16.11.2015 by [S.S.I. 2015/361](https://www.legislation.gov.uk/ssi/2015/361), [art. 2](https://www.legislation.gov.uk/ssi/2015/361/article/2)
 
-[^key-b55dc57d871c1d6eeca9214dcc4b9606]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2015/9/section/19) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2017/197/article/10))
+[^c-b55dc57d871c1d6eeca9214dcc4b9606]: Commencement: [S. 19](https://www.legislation.gov.uk/asp/2015/9/section/19) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 10](https://www.legislation.gov.uk/ssi/2017/197/article/10))
 
-[^key-54bc92c83f822ef13147a3b256bec01e]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2015/9/section/20) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 11](https://www.legislation.gov.uk/ssi/2017/197/article/11))
+[^c-54bc92c83f822ef13147a3b256bec01e]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2015/9/section/20) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 11](https://www.legislation.gov.uk/ssi/2017/197/article/11))
 
-[^key-a6ef19f12bf8fd4a43f342c749ef9c49]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2015/9/section/21) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 12](https://www.legislation.gov.uk/ssi/2017/197/article/12))
+[^c-a6ef19f12bf8fd4a43f342c749ef9c49]: Commencement: [S. 21](https://www.legislation.gov.uk/asp/2015/9/section/21) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 12](https://www.legislation.gov.uk/ssi/2017/197/article/12))
 
-[^key-eefc394d2184618a001b816d265ff3c9]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2015/9/section/22) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [arts. 13-15](https://www.legislation.gov.uk/ssi/2017/197/article/13))
+[^c-eefc394d2184618a001b816d265ff3c9]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2015/9/section/22) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [arts. 13-15](https://www.legislation.gov.uk/ssi/2017/197/article/13))
 
-[^key-bf148c06ad6e5a700d9f0e2c734eaa8f]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/asp/2015/9/section/23/1)[(2)](https://www.legislation.gov.uk/asp/2015/9/section/23/2) in force at 5.5.2017 for specified purposes by [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule)
+[^c-bf148c06ad6e5a700d9f0e2c734eaa8f]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/asp/2015/9/section/23/1)[(2)](https://www.legislation.gov.uk/asp/2015/9/section/23/2) in force at 5.5.2017 for specified purposes by [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule)
 
-[^key-4e079eef26545a4e9ca0f61e268a1a6f]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/asp/2015/9/section/23/1)[(2)](https://www.legislation.gov.uk/asp/2015/9/section/23/2) in force at 30.6.2017 for specified purposes by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 16(a)](https://www.legislation.gov.uk/ssi/2017/197/article/16/a))
+[^c-4e079eef26545a4e9ca0f61e268a1a6f]: Commencement: [S. 23(1)](https://www.legislation.gov.uk/asp/2015/9/section/23/1)[(2)](https://www.legislation.gov.uk/asp/2015/9/section/23/2) in force at 30.6.2017 for specified purposes by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 16(a)](https://www.legislation.gov.uk/ssi/2017/197/article/16/a))
 
-[^key-e8ff72e1416702058415f53e384fb671]: Commencement: [S. 23(3)](https://www.legislation.gov.uk/asp/2015/9/section/23/3) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 16(b)](https://www.legislation.gov.uk/ssi/2017/197/article/16/b))
+[^c-e8ff72e1416702058415f53e384fb671]: Commencement: [S. 23(3)](https://www.legislation.gov.uk/asp/2015/9/section/23/3) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 16(b)](https://www.legislation.gov.uk/ssi/2017/197/article/16/b))
 
-[^key-4c43fb70bf5b761cfaa7f52a5d36fde7]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2015/9/section/24) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-4c43fb70bf5b761cfaa7f52a5d36fde7]: Commencement: [S. 24](https://www.legislation.gov.uk/asp/2015/9/section/24) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-bf52e1f488e20b4ba5fb283d9085cef0]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2015/9/section/25) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-bf52e1f488e20b4ba5fb283d9085cef0]: Commencement: [S. 25](https://www.legislation.gov.uk/asp/2015/9/section/25) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-3e0fb4fb8a385f9ef9fee8e442825c12]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2015/9/section/26) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-3e0fb4fb8a385f9ef9fee8e442825c12]: Commencement: [S. 26](https://www.legislation.gov.uk/asp/2015/9/section/26) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-b642cb91552c8254553ba76faf2467ff]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2015/9/section/27) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-b642cb91552c8254553ba76faf2467ff]: Commencement: [S. 27](https://www.legislation.gov.uk/asp/2015/9/section/27) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-00fb37bcc1b863dcacf8da641ba04b8a]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2015/9/section/28) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-00fb37bcc1b863dcacf8da641ba04b8a]: Commencement: [S. 28](https://www.legislation.gov.uk/asp/2015/9/section/28) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-efdc8d54efdfe67565de0dd630f89863]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2015/9/section/29) in force at 5.5.2017 for specified purposes by [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule)
+[^c-efdc8d54efdfe67565de0dd630f89863]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2015/9/section/29) in force at 5.5.2017 for specified purposes by [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule)
 
-[^key-2ca2c6a24414e45b25855f8fce141df7]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2015/9/section/29) in force at 30.6.2017 in so far as not already in force by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-2ca2c6a24414e45b25855f8fce141df7]: Commencement: [S. 29](https://www.legislation.gov.uk/asp/2015/9/section/29) in force at 30.6.2017 in so far as not already in force by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-d1f97966cc5ea920d34d6137e06d379d]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2015/9/section/30) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-d1f97966cc5ea920d34d6137e06d379d]: Commencement: [S. 30](https://www.legislation.gov.uk/asp/2015/9/section/30) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-595020a8f84f5f7a6258d8900dfff5aa]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2015/9/section/31) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-595020a8f84f5f7a6258d8900dfff5aa]: Commencement: [S. 31](https://www.legislation.gov.uk/asp/2015/9/section/31) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-795158bd957421390195a8796c2d692b]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2015/9/section/32) in force at 5.5.2017 for specified purposes by [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule)
+[^c-795158bd957421390195a8796c2d692b]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2015/9/section/32) in force at 5.5.2017 for specified purposes by [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule)
 
-[^key-5345638cd2b5b5e71f5f7659fff38662]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2015/9/section/32) in force at 30.6.2017 in so far as not already in force by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-5345638cd2b5b5e71f5f7659fff38662]: Commencement: [S. 32](https://www.legislation.gov.uk/asp/2015/9/section/32) in force at 30.6.2017 in so far as not already in force by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-ff354fadc2164efec908253555af86ef]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2015/9/section/33) in force at 5.5.2017 for specified purposes by [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule)
+[^c-ff354fadc2164efec908253555af86ef]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2015/9/section/33) in force at 5.5.2017 for specified purposes by [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule)
 
-[^key-e76550ecfdca3040c0820895051cb383]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2015/9/section/33) in force at 30.6.2017 in so far as not already in force by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-e76550ecfdca3040c0820895051cb383]: Commencement: [S. 33](https://www.legislation.gov.uk/asp/2015/9/section/33) in force at 30.6.2017 in so far as not already in force by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-31950620db9f055337ec063731b37afa]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2015/9/section/34) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-31950620db9f055337ec063731b37afa]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2015/9/section/34) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-8226f70f72e2371b1e10662f701e4cfb]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2015/9/section/35) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 17](https://www.legislation.gov.uk/ssi/2017/197/article/17))
+[^c-8226f70f72e2371b1e10662f701e4cfb]: Commencement: [S. 35](https://www.legislation.gov.uk/asp/2015/9/section/35) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 17](https://www.legislation.gov.uk/ssi/2017/197/article/17))
 
-[^key-499621d6c2220b5020d9801c1a2bf321]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2015/9/section/36) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 18](https://www.legislation.gov.uk/ssi/2017/197/article/18))
+[^c-499621d6c2220b5020d9801c1a2bf321]: Commencement: [S. 36](https://www.legislation.gov.uk/asp/2015/9/section/36) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 18](https://www.legislation.gov.uk/ssi/2017/197/article/18))
 
-[^key-0195b149eecffa199554840c3e4b0ab2]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2015/9/section/37) in force at 24.12.2015 by [S.S.I. 2015/417](https://www.legislation.gov.uk/ssi/2015/417), [art. 2](https://www.legislation.gov.uk/ssi/2015/417/article/2)
+[^c-0195b149eecffa199554840c3e4b0ab2]: Commencement: [S. 37](https://www.legislation.gov.uk/asp/2015/9/section/37) in force at 24.12.2015 by [S.S.I. 2015/417](https://www.legislation.gov.uk/ssi/2015/417), [art. 2](https://www.legislation.gov.uk/ssi/2015/417/article/2)
 
-[^key-805ce4d62bec32384951e1f0b782b86e]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2015/9/section/38) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-805ce4d62bec32384951e1f0b782b86e]: Commencement: [S. 38](https://www.legislation.gov.uk/asp/2015/9/section/38) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-3c640340c387a8d74e9099c27c0578b6]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2015/9/section/39) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-3c640340c387a8d74e9099c27c0578b6]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2015/9/section/39) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-05133522ceeb85d8bbdcf5e426cf1d69]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2015/9/section/40) in force at 30.9.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 19](https://www.legislation.gov.uk/ssi/2017/197/article/19))
+[^c-05133522ceeb85d8bbdcf5e426cf1d69]: Commencement: [S. 40](https://www.legislation.gov.uk/asp/2015/9/section/40) in force at 30.9.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 19](https://www.legislation.gov.uk/ssi/2017/197/article/19))
 
-[^key-5a91ed1d9dc02759a9effca2368bb9e3]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2015/9/section/41) in force at 30.9.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 20](https://www.legislation.gov.uk/ssi/2017/197/article/20))
+[^c-5a91ed1d9dc02759a9effca2368bb9e3]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2015/9/section/41) in force at 30.9.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 20](https://www.legislation.gov.uk/ssi/2017/197/article/20))
 
-[^key-38b58c7411ad58ab9e0192b662565f64]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2015/9/section/42) in force at 30.9.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 21](https://www.legislation.gov.uk/ssi/2017/197/article/21))
+[^c-38b58c7411ad58ab9e0192b662565f64]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2015/9/section/42) in force at 30.9.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 21](https://www.legislation.gov.uk/ssi/2017/197/article/21))
 
-[^key-37fd6ecc028444278d614c60377e493b]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2015/9/section/43) in force at 30.9.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 22](https://www.legislation.gov.uk/ssi/2017/197/article/22))
+[^c-37fd6ecc028444278d614c60377e493b]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2015/9/section/43) in force at 30.9.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 22](https://www.legislation.gov.uk/ssi/2017/197/article/22))
 
-[^key-38b130b54df1710bada89f527b5c70f0]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2015/9/section/44) in force at 30.9.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 23](https://www.legislation.gov.uk/ssi/2017/197/article/23))
+[^c-38b130b54df1710bada89f527b5c70f0]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2015/9/section/44) in force at 30.9.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 23](https://www.legislation.gov.uk/ssi/2017/197/article/23))
 
-[^key-7e221c64e4ce20753f2ef0a19ca0b2ff]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2015/9/section/45) in force at 30.9.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-7e221c64e4ce20753f2ef0a19ca0b2ff]: Commencement: [S. 45](https://www.legislation.gov.uk/asp/2015/9/section/45) in force at 30.9.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-354488c197d8fd8bb9d0a4d0e2732f81]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2015/9/section/46) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-354488c197d8fd8bb9d0a4d0e2732f81]: Commencement: [S. 46](https://www.legislation.gov.uk/asp/2015/9/section/46) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-310a9a744fb8a825074d75005a5be5cd]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2015/9/section/47) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-310a9a744fb8a825074d75005a5be5cd]: Commencement: [S. 47](https://www.legislation.gov.uk/asp/2015/9/section/47) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-a7922f0907a81098c58b3ac4ef5e9b02]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2015/9/section/48) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-a7922f0907a81098c58b3ac4ef5e9b02]: Commencement: [S. 48](https://www.legislation.gov.uk/asp/2015/9/section/48) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-3f6b96b00f4c7c0d76ea36d6b2a1d29d]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2015/9/section/49) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 24](https://www.legislation.gov.uk/ssi/2017/197/article/24))
+[^c-3f6b96b00f4c7c0d76ea36d6b2a1d29d]: Commencement: [S. 49](https://www.legislation.gov.uk/asp/2015/9/section/49) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 24](https://www.legislation.gov.uk/ssi/2017/197/article/24))
 
-[^key-29679dbe1db743a923cda42f04489a21]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2015/9/section/50) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/197/article/4))
+[^c-29679dbe1db743a923cda42f04489a21]: Commencement: [S. 50](https://www.legislation.gov.uk/asp/2015/9/section/50) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 4](https://www.legislation.gov.uk/ssi/2017/197/article/4))
 
-[^key-7003b0025dfc836e0e61aaaec91ee2da]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2015/9/section/51) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-7003b0025dfc836e0e61aaaec91ee2da]: Commencement: [S. 51](https://www.legislation.gov.uk/asp/2015/9/section/51) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-a6301cfd3dfdfc3f1d8c8d13be4a7354]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2015/9/section/52) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 25](https://www.legislation.gov.uk/ssi/2017/197/article/25))
+[^c-a6301cfd3dfdfc3f1d8c8d13be4a7354]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2015/9/section/52) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule) (with [art. 25](https://www.legislation.gov.uk/ssi/2017/197/article/25))
 
-[^key-6c60e633b78083d9cdd9ea23bf707182]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2015/9/section/53) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
+[^c-6c60e633b78083d9cdd9ea23bf707182]: Commencement: [S. 53](https://www.legislation.gov.uk/asp/2015/9/section/53) in force at 30.6.2017 by [S.S.I. 2017/197](https://www.legislation.gov.uk/ssi/2017/197), [art. 2](https://www.legislation.gov.uk/ssi/2017/197/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/197/schedule)
 
-[^key-1eddb6b3c680eb3fc4f1268f79b1b6f1]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2015/9/section/54) in force at 5.5.2017 for specified purposes by [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule)
+[^c-1eddb6b3c680eb3fc4f1268f79b1b6f1]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2015/9/section/54) in force at 5.5.2017 for specified purposes by [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule)
 
-[^key-110fc48bc46a5a4be2e898778a47ded0]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2015/9/section/54) in force at 15.9.2017 for specified purposes by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/a) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/234/article/3), [4](https://www.legislation.gov.uk/ssi/2017/234/article/4))
+[^c-110fc48bc46a5a4be2e898778a47ded0]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2015/9/section/54) in force at 15.9.2017 for specified purposes by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(a)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/a) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/234/article/3), [4](https://www.legislation.gov.uk/ssi/2017/234/article/4))
 
-[^key-3f62f5d1281e8db875ad1b14125cde18]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2015/9/section/54) in force at 30.9.2017 in so far as not already in force by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/a)
+[^c-3f62f5d1281e8db875ad1b14125cde18]: Commencement: [S. 54](https://www.legislation.gov.uk/asp/2015/9/section/54) in force at 30.9.2017 in so far as not already in force by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/a)
 
-[^key-8ef029b48f3b016bd2dc6a37619b6481]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2015/9/section/55) in force at 15.9.2017 for specified purposes by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/b)[(3)](https://www.legislation.gov.uk/ssi/2017/234/article/2/3) (with [arts. 5-8](https://www.legislation.gov.uk/ssi/2017/234/article/5))
+[^c-8ef029b48f3b016bd2dc6a37619b6481]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2015/9/section/55) in force at 15.9.2017 for specified purposes by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/b)[(3)](https://www.legislation.gov.uk/ssi/2017/234/article/2/3) (with [arts. 5-8](https://www.legislation.gov.uk/ssi/2017/234/article/5))
 
-[^key-5707ff71efa7bfc5d17eb856c527be64]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2015/9/section/55) in force at 30.9.2017 in so far as not already in force by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/a)
+[^c-5707ff71efa7bfc5d17eb856c527be64]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2015/9/section/55) in force at 30.9.2017 in so far as not already in force by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/a)
 
-[^key-328055ef2b62b4369ad94369cf5b6d8e]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/9/section/56) in force at 15.9.2017 for specified purposes by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/c)
+[^c-328055ef2b62b4369ad94369cf5b6d8e]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/9/section/56) in force at 15.9.2017 for specified purposes by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/c)
 
-[^key-0e9ccd7f991b25b777ac6b487c70491d]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/9/section/56) in force at 30.9.2017 in so far as not already in force by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/a)
+[^c-0e9ccd7f991b25b777ac6b487c70491d]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2015/9/section/56) in force at 30.9.2017 in so far as not already in force by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(2)(a)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/a)
 
-[^key-3d104ff6290c239bef1e088b98a32203]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2015/9/section/57) in force at 15.9.2017 by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/d)
+[^c-3d104ff6290c239bef1e088b98a32203]: Commencement: [S. 57](https://www.legislation.gov.uk/asp/2015/9/section/57) in force at 15.9.2017 by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(d)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/d)
 
-[^key-0c68a5bda860766c36e425f4bf1ad074]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2015/9/section/58) in force at 5.5.2017 for specified purposes by [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule)
+[^c-0c68a5bda860766c36e425f4bf1ad074]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2015/9/section/58) in force at 5.5.2017 for specified purposes by [S.S.I. 2017/126](https://www.legislation.gov.uk/ssi/2017/126), [art. 2](https://www.legislation.gov.uk/ssi/2017/126/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/126/schedule)
 
-[^key-1bbd88ef7d8352b658ad07062ef457c3]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2015/9/section/58) in force at 15.9.2017 in so far as not already in force by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/e)
+[^c-1bbd88ef7d8352b658ad07062ef457c3]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2015/9/section/58) in force at 15.9.2017 in so far as not already in force by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(e)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/e)
 
-[^key-b728c37197f5a0caa00ba52b823fecdc]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2015/9/section/59) in force at 30.9.2017 by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/b)
+[^c-b728c37197f5a0caa00ba52b823fecdc]: Commencement: [S. 59](https://www.legislation.gov.uk/asp/2015/9/section/59) in force at 30.9.2017 by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(2)(b)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/b)
 
-[^key-6b5701b08803305bfe6034fdbb649f32]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2015/9/section/60) in force at 30.9.2017 by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/c)
+[^c-6b5701b08803305bfe6034fdbb649f32]: Commencement: [S. 60](https://www.legislation.gov.uk/asp/2015/9/section/60) in force at 30.9.2017 by [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(2)(c)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/c)

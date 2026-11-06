@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34.2. Consequential amendment[^key-4ee59453f9d857b045f672b3c00b1af6]
+## 34.2. Consequential amendment[^c-4ee59453f9d857b045f672b3c00b1af6]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4ee59453f9d857b045f672b3c00b1af6]: Commencement: Para. 34.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-4ee59453f9d857b045f672b3c00b1af6]: Commencement: Para. 34.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
 
 [^f00042]: Footnote: Rule 16.4(8) was inserted by [S.S.I. 2016/315](https://www.legislation.gov.uk/ssi/2016/315).

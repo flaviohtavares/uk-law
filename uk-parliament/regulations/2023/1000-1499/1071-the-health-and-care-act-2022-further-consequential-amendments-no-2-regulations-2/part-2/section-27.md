@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Amendment of the National Health Service Pension Scheme Regulations 2008[^key-dc511c8598c72a38e8de13cd5db5158f]
+## 27. Amendment of the National Health Service Pension Scheme Regulations 2008[^c-dc511c8598c72a38e8de13cd5db5158f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-dc511c8598c72a38e8de13cd5db5158f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2023/1071/regulation/27) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-dc511c8598c72a38e8de13cd5db5158f]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2023/1071/regulation/27) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00022]: Footnote: [S.I. 2008/653](https://www.legislation.gov.uk/uksi/2008/653), relevant amending instruments are [S.I. 2013/413](https://www.legislation.gov.uk/uksi/2013/413), [S.I. 2014/570](https://www.legislation.gov.uk/uksi/2014/570), [S.I. 2017/275](https://www.legislation.gov.uk/uksi/2017/275), [S.I. 2019/418](https://www.legislation.gov.uk/uksi/2019/418) and [S.I. 2022/634](https://www.legislation.gov.uk/uksi/2022/634).

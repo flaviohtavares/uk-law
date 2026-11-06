@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Tribunal Procedure Rules to be made in respect of costs orders etc[^key-aebd02e718b62516ceafef23ba7592ce]
+## 81. Tribunal Procedure Rules to be made in respect of costs orders etc[^c-aebd02e718b62516ceafef23ba7592ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aebd02e718b62516ceafef23ba7592ce]: Commencement: S. 81 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)
+[^c-aebd02e718b62516ceafef23ba7592ce]: Commencement: S. 81 not in force at Royal Assent, see [s. 87(1)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/1)

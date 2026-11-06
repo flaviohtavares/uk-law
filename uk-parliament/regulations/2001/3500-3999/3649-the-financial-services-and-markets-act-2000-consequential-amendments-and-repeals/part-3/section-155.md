@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 155. Disclosure of information by the Occupational Pensions Regulatory Authority[^key-41c78bb7f5962a8f7f49c0a9b47eb46b]
+## 155. Disclosure of information by the Occupational Pensions Regulatory Authority[^c-41c78bb7f5962a8f7f49c0a9b47eb46b]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-41c78bb7f5962a8f7f49c0a9b47eb46b]: Commencement: Art. 155 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-41c78bb7f5962a8f7f49c0a9b47eb46b]: Commencement: Art. 155 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00121]: Footnote: The entry relating to the Financial Services Authority was inserted by the Bank of England Act [1998 (c. 11)](https://www.legislation.gov.uk/ukpga/1998/11) Schedule 5 paragraph 72.

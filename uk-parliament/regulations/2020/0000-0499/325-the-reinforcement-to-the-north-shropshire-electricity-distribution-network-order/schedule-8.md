@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 8 — REMOVAL OF IMPORTANT HEDGEROWS[^key-cac9d1f3073173b35ee3fc6cb737252b]
+## SCHEDULE 8 — REMOVAL OF IMPORTANT HEDGEROWS[^c-cac9d1f3073173b35ee3fc6cb737252b]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ Table 4
 
 ## Annotations
 
-[^key-cac9d1f3073173b35ee3fc6cb737252b]: Commencement: Sch. 8 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)
+[^c-cac9d1f3073173b35ee3fc6cb737252b]: Commencement: Sch. 8 in force at 14.4.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/325/article/1)

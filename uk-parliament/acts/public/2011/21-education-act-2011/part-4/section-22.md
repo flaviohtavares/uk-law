@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. The qualifications standards objective[^key-bb2dd77af349cf5a1e3827f4c31a54da]
+## 22. The qualifications standards objective[^c-bb2dd77af349cf5a1e3827f4c31a54da]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ In section 128 of ASCLA 2009 (Ofqual's objectives) for subsection (2) (the quali
 
 ## Annotations
 
-[^key-bb2dd77af349cf5a1e3827f4c31a54da]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2011/21/section/22) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)
+[^c-bb2dd77af349cf5a1e3827f4c31a54da]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2011/21/section/22) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3)

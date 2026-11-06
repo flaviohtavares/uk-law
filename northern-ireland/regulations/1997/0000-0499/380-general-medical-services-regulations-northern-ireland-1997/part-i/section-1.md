@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-1a7e5d77775a3bb9d85a9d106e6897cb]
+## 1. Citation and commencement[^c-1a7e5d77775a3bb9d85a9d106e6897cb]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ These Regulations may be cited as the General Medical Services Regulations (Nort
 
 ## Annotations
 
-[^key-1a7e5d77775a3bb9d85a9d106e6897cb]: Commencement: Reg. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-1a7e5d77775a3bb9d85a9d106e6897cb]: Commencement: Reg. 1 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

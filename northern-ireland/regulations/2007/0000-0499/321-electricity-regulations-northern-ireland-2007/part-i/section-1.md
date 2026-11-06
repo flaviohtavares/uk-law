@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 1. Citation and commencement[^key-3c99c4a3bb89207e9a90c5dc5c4224a4]
+## 1. Citation and commencement[^c-3c99c4a3bb89207e9a90c5dc5c4224a4]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3c99c4a3bb89207e9a90c5dc5c4224a4]: Commencement: Reg. 1 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)
+[^c-3c99c4a3bb89207e9a90c5dc5c4224a4]: Commencement: Reg. 1 in operation at 3.7.2007, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2007/321/regulation/1/1)

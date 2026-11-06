@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56A. Transitional provision for existing cryptoasset businesses: requirement to register[^key-911adcafc09b526787e08e22b48d368c]
+## 56A. Transitional provision for existing cryptoasset businesses: requirement to register[^c-911adcafc09b526787e08e22b48d368c]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-911adcafc09b526787e08e22b48d368c]: Textual amendment: Reg. 56A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(12)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/12)
+[^c-911adcafc09b526787e08e22b48d368c]: Textual amendment: Reg. 56A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [7(12)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/7/12)

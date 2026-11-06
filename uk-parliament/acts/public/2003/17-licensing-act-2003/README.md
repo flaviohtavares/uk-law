@@ -34,7 +34,7 @@ An Act to make provision about the regulation of the sale and supply of alcohol,
 
 [^c22729751]\[10th July 2003\]
 
-Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-da320619dbdb8bc79c146e7043efaedd]
+Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-da320619dbdb8bc79c146e7043efaedd]
 
 ## Contents
 
@@ -100,7 +100,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 25 — Theft, loss, etc. of premises licence or summary](part-3/section-25.md)
 - [Section 25A — Grant of premises licence: supply of alcohol from community premises](part-3/section-25a.md)
 
-#### Power of Mayor of London to determine licence applications[^key-a413b69964a9e38254db50fa22cf9eac]
+#### Power of Mayor of London to determine licence applications[^c-a413b69964a9e38254db50fa22cf9eac]
 
 - [Section 25B — Power of the Mayor of London to determine applications](part-3/section-25b.md)
 - [Section 25C — Directions by the Mayor of London](part-3/section-25c.md)
@@ -135,7 +135,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 40 — Duty of applicant following determination under section 39](part-3/section-40.md)
 - [Section 41 — Request to be removed as designated premises supervisor](part-3/section-41.md)
 
-#### Power of Mayor of London to determine applications to vary[^key-53ee138e1a439660433c64ab8f26062a]
+#### Power of Mayor of London to determine applications to vary[^c-53ee138e1a439660433c64ab8f26062a]
 
 - [Section 41ZA — Power of the Mayor of London to determine applications to vary](part-3/section-41za.md)
 - [Section 41ZB — Directions by the Mayor of London](part-3/section-41zb.md)
@@ -310,7 +310,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 102 — Acknowledgement of notice](part-5/section-102.md)
 - [Section 103 — Withdrawal of notice](part-5/section-103.md)
 
-#### Objections[^key-a8d33d84b56e4f76fba4c91e8b1910fc]
+#### Objections[^c-a8d33d84b56e4f76fba4c91e8b1910fc]
 
 *Extent: E+W*
 
@@ -346,7 +346,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 115 — Period of validity of personal licence](part-6/section-115.md)
 - [Section 116 — Surrender of personal licence](part-6/section-116.md)
 
-#### Grant ... of licences[^key-9d5954a7012c975199d5825ff073f5bd]
+#### Grant ... of licences[^c-9d5954a7012c975199d5825ff073f5bd]
 
 - [Section 117 — Application for grant ... of personal licence](part-6/section-117.md)
 - [Section 118 — Individual permitted to hold only one personal licence](part-6/section-118.md)
@@ -499,7 +499,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - [Section 172D — Variation and revocation of early morning alcohol restriction order](part-9/section-172d.md)
 - [Section 172E — Exceptions from effect of early morning alcohol restriction order](part-9/section-172e.md)
 
-#### ...[^key-b81a6e09954b1341fb8716011f555e15]
+#### ...[^c-b81a6e09954b1341fb8716011f555e15]
 
 *Extent: E+W*
 
@@ -598,11 +598,11 @@ SCHEDULES
 
 [^c22729751]: Modification: Act modified (28.11.2008) by [S.I. 2008/2867](https://www.legislation.gov.uk/uksi/2008/2867), [reg. 12(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2008/2867/regulation/12/1/a/ii)
 
-[^key-da320619dbdb8bc79c146e7043efaedd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2003/17) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/2/a)[(7)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-da320619dbdb8bc79c146e7043efaedd]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2003/17) modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [reg. 18(2)(a)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/2/a)[(7)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/18/7) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-a413b69964a9e38254db50fa22cf9eac]: Textual amendment: [Ss. 25B-25D](https://www.legislation.gov.uk/ukpga/2003/17/section/25B) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/12) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
+[^c-a413b69964a9e38254db50fa22cf9eac]: Textual amendment: [Ss. 25B-25D](https://www.legislation.gov.uk/ukpga/2003/17/section/25B) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 12](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/12) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
 
-[^key-53ee138e1a439660433c64ab8f26062a]: Textual amendment: [Ss. 41ZA-41ZD](https://www.legislation.gov.uk/ukpga/2003/17/section/41ZA) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 15](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/15) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
+[^c-53ee138e1a439660433c64ab8f26062a]: Textual amendment: [Ss. 41ZA-41ZD](https://www.legislation.gov.uk/ukpga/2003/17/section/41ZA) and cross-heading inserted (29.4.2026 for specified purposes, 29.6.2026 in so far as not already in force) by [English Devolution and Community Empowerment Act 2026 (c. 23)](https://www.legislation.gov.uk/ukpga/2026/23), [s. 108(1)(5)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/5), [Sch. 26 para. 15](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/15) (with [s. 102](https://www.legislation.gov.uk/ukpga/2026/23/section/102), [Sch. 26 para. 21](https://www.legislation.gov.uk/ukpga/2026/23/schedule/26/paragraph/21))
 
 [^c21001661]: Textual amendment: Ss. 41A-41C and cross-heading inserted (1.7.2009 for certain purposes and 29.7.2009 otherwise) by [The Legislative Reform (Minor Variations to Premises Licences and Club Premises Certificates) Order 2009 (S.I. 2009/1772)](https://www.legislation.gov.uk/uksi/2009/1772), [art. 2](https://www.legislation.gov.uk/uksi/2009/1772/article/2)
 
@@ -610,12 +610,12 @@ SCHEDULES
 
 [^c21016951]: Textual amendment: Ss. 86A-86C and cross-heading inserted (1.7.2009 for certain purposes and 29.7.2009 otherwise) by [The Legislative Reform (Minor Variations to Premises Licences and Club Premises Certificates) Order 2009 (S.I. 2009/1772)](https://www.legislation.gov.uk/uksi/2009/1772), [arts. 1](https://www.legislation.gov.uk/uksi/2009/1772/article/1), [3](https://www.legislation.gov.uk/uksi/2009/1772/article/3)
 
-[^key-a8d33d84b56e4f76fba4c91e8b1910fc]: Textual amendment: Word in [s. 104 cross-heading](https://www.legislation.gov.uk/ukpga/2003/17/part/5/crossheading/police-objections) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 112(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/112/3), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 112(14)](https://www.legislation.gov.uk/ukpga/2011/13/section/112/14)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-a8d33d84b56e4f76fba4c91e8b1910fc]: Textual amendment: Word in [s. 104 cross-heading](https://www.legislation.gov.uk/ukpga/2003/17/part/5/crossheading/police-objections) substituted (25.4.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 112(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/112/3), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 112(14)](https://www.legislation.gov.uk/ukpga/2011/13/section/112/14)); [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
 
-[^key-9d5954a7012c975199d5825ff073f5bd]: Textual amendment: Words in s. 117 cross-heading omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 4(1)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/4/1) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)
+[^c-9d5954a7012c975199d5825ff073f5bd]: Textual amendment: Words in s. 117 cross-heading omitted (1.4.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 18 para. 4(1)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/18/paragraph/4/1) (with [s. 69(2)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/2)[(3)](https://www.legislation.gov.uk/ukpga/2015/20/section/69/3)); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 2(c)](https://www.legislation.gov.uk/uksi/2015/994/article/2/c)
 
 [^c21937181]: Textual amendment: Ss. 169A, 169B and preceding cross-heading inserted (6.4.2007) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 24(1)](https://www.legislation.gov.uk/ukpga/2006/38/section/24/1), [66(2)(3)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/2/3); [S.I. 2007/858](https://www.legislation.gov.uk/uksi/2007/858), [art. 2(a)](https://www.legislation.gov.uk/uksi/2007/858/article/2/a)
 
 [^c21018051]: Textual amendment: Ss. 172A-172E and cross-heading inserted by [Crime and Security Act 2010 (c. 17)](https://www.legislation.gov.uk/ukpga/2010/17), [ss. 55(2)](https://www.legislation.gov.uk/ukpga/2010/17/section/55/2), [59](https://www.legislation.gov.uk/ukpga/2010/17/section/59) and ss. 172A-172E substituted (31.10.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 119(3)](https://www.legislation.gov.uk/ukpga/2011/13/section/119/3), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1); [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/a) (as amended by S.I. 2012/1659, art. 1(2), Sch. 3 para. 22 (with arts. 4-6))
 
-[^key-b81a6e09954b1341fb8716011f555e15]: Textual amendment: [Ss. 172F-172L](https://www.legislation.gov.uk/ukpga/2003/17/section/172F) and cross-heading inserted (temp. until 1.4.2025) (22.7.2020) by virtue of [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/2), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [s. 11(13)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/13)) (as amended: (16.9.2021) by [S.I. 2021/1049](https://www.legislation.gov.uk/uksi/2021/1049), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1049/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1049/regulation/2); (29.9.2022) by [S.I. 2022/978](https://www.legislation.gov.uk/uksi/2022/978), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/978/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/978/regulation/2); and (28.9.2023) by [S.I. 2023/990](https://www.legislation.gov.uk/uksi/2023/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/990/regulation/2))
+[^c-b81a6e09954b1341fb8716011f555e15]: Textual amendment: [Ss. 172F-172L](https://www.legislation.gov.uk/ukpga/2003/17/section/172F) and cross-heading inserted (temp. until 1.4.2025) (22.7.2020) by virtue of [Business and Planning Act 2020 (c. 16)](https://www.legislation.gov.uk/ukpga/2020/16), [ss. 11(2)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/2), [25(1)](https://www.legislation.gov.uk/ukpga/2020/16/section/25/1) (with [s. 11(13)](https://www.legislation.gov.uk/ukpga/2020/16/section/11/13)) (as amended: (16.9.2021) by [S.I. 2021/1049](https://www.legislation.gov.uk/uksi/2021/1049), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1049/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/1049/regulation/2); (29.9.2022) by [S.I. 2022/978](https://www.legislation.gov.uk/uksi/2022/978), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/978/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2022/978/regulation/2); and (28.9.2023) by [S.I. 2023/990](https://www.legislation.gov.uk/uksi/2023/990), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/990/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2023/990/regulation/2))

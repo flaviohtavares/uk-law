@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Exercise of regulatory functions: economic growth[^key-b7bb5269791cd870748b96c5d2293ab1][^key-7326fc4cc9789fea25aef0080453e975]
+## 108. Exercise of regulatory functions: economic growth[^c-b7bb5269791cd870748b96c5d2293ab1][^c-7326fc4cc9789fea25aef0080453e975]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7bb5269791cd870748b96c5d2293ab1]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2015/20/section/108) in force at 9.3.2017 by [S.I. 2017/331](https://www.legislation.gov.uk/uksi/2017/331), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/331/article/2/b)
+[^c-b7bb5269791cd870748b96c5d2293ab1]: Commencement: [S. 108](https://www.legislation.gov.uk/ukpga/2015/20/section/108) in force at 9.3.2017 by [S.I. 2017/331](https://www.legislation.gov.uk/uksi/2017/331), [art. 2(b)](https://www.legislation.gov.uk/uksi/2017/331/article/2/b)
 
-[^key-7326fc4cc9789fea25aef0080453e975]: Modification: [S. 108](https://www.legislation.gov.uk/ukpga/2015/20/section/108) applied (29.3.2017 coming into force in accordance with ) by [The Economic Growth (Regulatory Functions) Order 2017 (S.I. 2017/267)](https://www.legislation.gov.uk/uksi/2017/267), [arts. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2017/267/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/267/schedule)
+[^c-7326fc4cc9789fea25aef0080453e975]: Modification: [S. 108](https://www.legislation.gov.uk/ukpga/2015/20/section/108) applied (29.3.2017 coming into force in accordance with ) by [The Economic Growth (Regulatory Functions) Order 2017 (S.I. 2017/267)](https://www.legislation.gov.uk/uksi/2017/267), [arts. 1](https://www.legislation.gov.uk/uksi/2017/267/article/1), [2(1)](https://www.legislation.gov.uk/uksi/2017/267/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/2017/267/schedule)

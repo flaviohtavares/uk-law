@@ -39,7 +39,7 @@ An Act to amend the Law relating to the Confirmation of Executors in Scotland, a
 
 ## 2. Petition to Commissary to be substituted. †Form of petition as in Schedule A.[^c562936]
 
-Every person desirous of being decerned executor of a deceased person as disponee, next of kin, creditor, or in any other character whatsoever now competent, or of having some other person, possessed of such character, decerned executor to a deceased person, shall . . . . . . [^c562937] present a petition to the commissary for the appointment of an executor; which petition . . . . . . [^c562938] shall be subscribed by the petitioner or by his agent or by an executry practitioner[^c562939] or a recognised financial institution providing executry services *(Extent: S)* *(affected by repeal, see note)*[^key-19365c8a2d89b51c82a0adf31078f25e] within the meaning of section 23 of the Law Reform (Miscellaneous Provisions)(Scotland) Act 1990.
+Every person desirous of being decerned executor of a deceased person as disponee, next of kin, creditor, or in any other character whatsoever now competent, or of having some other person, possessed of such character, decerned executor to a deceased person, shall . . . . . . [^c562937] present a petition to the commissary for the appointment of an executor; which petition . . . . . . [^c562938] shall be subscribed by the petitioner or by his agent or by an executry practitioner[^c562939] or a recognised financial institution providing executry services *(Extent: S)* *(affected by repeal, see note)*[^c-19365c8a2d89b51c82a0adf31078f25e] within the meaning of section 23 of the Law Reform (Miscellaneous Provisions)(Scotland) Act 1990.
 
 ## 3. To whom petition to be presented.
 
@@ -57,7 +57,7 @@ The commissary clerk, after receiving the certified copy of the printed and publ
 
 On the expiration of nine days after the commissary clerk shall have certified the intimation and publication of a petition for the appointment of an executor as aforesaid, the same may be called in court, and an executor decerned, or other procedure may take place, according to the forms now in use in case of edicts of executry, and with the like force and effect; and decree dative may be extracted on the expiration of three lawful days after it has been pronounced, but not sooner: Provided always, that nothing herein contained shall alter or affect the law as to executors finding caution; and that bonds of caution for executors may be partly printed and partly written.
 
-## 6A. Restrictions on appointment of executor dative[^key-daa846a094b3e1194aade653666628cb]
+## 6A. Restrictions on appointment of executor dative[^c-daa846a094b3e1194aade653666628cb]
 
 (1) This section applies where a sheriff is in receipt of a petition for the appointment of a person (“**P**”) as an executor dative in respect of the estate of a deceased person (“**D**”).
 
@@ -213,7 +213,7 @@ and signed by the clerk of court at \[*specify place*\], the \[*specify date*\].
 
 [^c562939]: Textual amendment: Words added (1.3.1997 except in relation to a recognised financial institution, as to which*prosp.*.) by Law Reform (Miscellaneous Provisions)(Scotland) Act 1990 (c. 40, SIF 76:2), s. 74(1), Sch. 8 para. 22(1); [S.I. 1996/2894](https://www.legislation.gov.uk/uksi/1996/2894), [art. 3](https://www.legislation.gov.uk/uksi/1996/2894/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1996/2894/schedule) (as amended by [S.I. 1996/2966](https://www.legislation.gov.uk/uksi/1996/2966), [art. 2](https://www.legislation.gov.uk/uksi/1996/2966/article/2))
 
-[^key-19365c8a2d89b51c82a0adf31078f25e]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukpga/Vict/21-22/56/section/2) repealed (S.) (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/1); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
+[^c-19365c8a2d89b51c82a0adf31078f25e]: Textual amendment: Words in [s. 2](https://www.legislation.gov.uk/ukpga/Vict/21-22/56/section/2) repealed (S.) (15.8.2003) by [Public Appointments and Public Bodies etc. (Scotland) Act 2003 (asp 4)](https://www.legislation.gov.uk/asp/2003/4), [s. 21(2)](https://www.legislation.gov.uk/asp/2003/4/section/21/2), [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2003/4/schedule/4/paragraph/1); [S.S.I. 2003/384](https://www.legislation.gov.uk/ssi/2003/384), [art. 2(d)](https://www.legislation.gov.uk/ssi/2003/384/article/2/d)
 
 [^c562940]: Textual amendment: Word repealed by [S. I. 1964/1143](https://www.legislation.gov.uk/uksi/1964/1143)
 
@@ -225,7 +225,7 @@ and signed by the clerk of court at \[*specify place*\], the \[*specify date*\].
 
 [^c562944]: Textual amendment: Word repealed by [S. I. 1964/1143](https://www.legislation.gov.uk/uksi/1964/1143)
 
-[^key-daa846a094b3e1194aade653666628cb]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/Vict/21-22/56/section/6A) inserted (26.6.2024) by [Trusts and Succession (Scotland) Act 2024 (asp 2)](https://www.legislation.gov.uk/asp/2024/2), [ss. 80](https://www.legislation.gov.uk/asp/2024/2/section/80), [88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3); [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
+[^c-daa846a094b3e1194aade653666628cb]: Textual amendment: [S. 6A](https://www.legislation.gov.uk/ukpga/Vict/21-22/56/section/6A) inserted (26.6.2024) by [Trusts and Succession (Scotland) Act 2024 (asp 2)](https://www.legislation.gov.uk/asp/2024/2), [ss. 80](https://www.legislation.gov.uk/asp/2024/2/section/80), [88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3); [S.S.I. 2024/164](https://www.legislation.gov.uk/ssi/2024/164), [reg. 2](https://www.legislation.gov.uk/ssi/2024/164/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2024/164/schedule)
 
 [^c562945]: Textual amendment: Word repealed by [S. I. 1964/1143](https://www.legislation.gov.uk/uksi/1964/1143)
 

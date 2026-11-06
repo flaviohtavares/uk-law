@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 65. Commission rules as to practice and procedure[^key-cd5b30d4f10f5162e276957c60decdea]
+## 65. Commission rules as to practice and procedure[^c-cd5b30d4f10f5162e276957c60decdea]
 
 *Extent: S*
 
@@ -122,4 +122,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd5b30d4f10f5162e276957c60decdea]: Commencement: S. 65 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-cd5b30d4f10f5162e276957c60decdea]: Commencement: S. 65 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

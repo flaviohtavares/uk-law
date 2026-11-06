@@ -44,11 +44,11 @@ Coming into force
 
 The Secretary of State for the Environment as respects England and the Secretary of State for Wales as respects Wales, in exercise of the powers conferred on them by sections 110 and 185(2)©) to (e) of the Water Act 1989[^f00001] and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-b12d3b9c9d53860ae62d7af57f6dcfdd]
+## 1. Citation and commencement[^c-b12d3b9c9d53860ae62d7af57f6dcfdd]
 
 These Regulations may be cited as the Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) Regulations 1991 and shall come into force on 1st September 1991.
 
-## 2. Interpretation[^key-01b645032a0152075f492a7fdde33375]
+## 2. Interpretation[^c-01b645032a0152075f492a7fdde33375]
 
 In these Regulations, unless the context otherwise requires—
 
@@ -58,7 +58,7 @@ In these Regulations, unless the context otherwise requires—
   - (a) any animals kept for the production of food or wool; or
   - (b) any birds kept for the production of food;
 - “reception pit” means a pit used for the collection of slurry before it is transferred into a slurry storage tank or for the collection of slurry discharged from such a tank;
-- “relevant substance” means slurry, fuel oil, a crop being made into silage or silage which is being stored;[^key-b1cb18364c7dfe22d06dc59367f1dde2]
+- “relevant substance” means slurry, fuel oil, a crop being made into silage or silage which is being stored;[^c-b1cb18364c7dfe22d06dc59367f1dde2]
 - “silage effluent” means effluent from silage or a crop being made into silage;
 - “silo” means any structure used for making or storing silage;
 - “slurry” means—
@@ -72,17 +72,17 @@ In these Regulations, unless the context otherwise requires—
   - (c) any channels and pipes used in connection with the slurry storage tank, any reception pit or any effluent tank; and
 - “slurry storage tank” includes a lagoon, pit (other than a reception pit) or tower used for the storage of slurry.
 
-## 3. Making of silage[^key-fc3d340b5b56ffd443fda2ec881e5350][^key-773e215f26fbcb78c57389abef84e7af]
+## 3. Making of silage[^c-fc3d340b5b56ffd443fda2ec881e5350][^c-773e215f26fbcb78c57389abef84e7af]
 
-(1) Subject to paragraph (1A) below,[^key-7a67b60042a9433b2e382c56c9fc602f] no person shall have custody or control of any crop which is being made into silage or any silage which is being stored[^key-b5a483cd549c7718bcbdce5c1138defc] unless —
+(1) Subject to paragraph (1A) below,[^c-7a67b60042a9433b2e382c56c9fc602f] no person shall have custody or control of any crop which is being made into silage or any silage which is being stored[^c-b5a483cd549c7718bcbdce5c1138defc] unless —
 
-- (a) subject to paragraph (1B) below,[^key-9848c2691e283d1ea0de0397f5911af1] it is kept in a silo in relation to which the requirements of Schedule 1 are satisfied or which is an exempt structure by virtue of regulation 6 below; or
-- (b) it is compressed in the form of bales which are wrapped and sealed within impermeable membranes (or are enclosed in impermeable bags) and are stored at least 10 metres from any inland freshwaters or coastal waters[^key-aba1bf30d18e0f44c235e1378e296f8f] which effluent escaping from the bales could enter ; or[^key-ebe445a35fb37b90e38feef8bd1cf47a]
+- (a) subject to paragraph (1B) below,[^c-9848c2691e283d1ea0de0397f5911af1] it is kept in a silo in relation to which the requirements of Schedule 1 are satisfied or which is an exempt structure by virtue of regulation 6 below; or
+- (b) it is compressed in the form of bales which are wrapped and sealed within impermeable membranes (or are enclosed in impermeable bags) and are stored at least 10 metres from any inland freshwaters or coastal waters[^c-aba1bf30d18e0f44c235e1378e296f8f] which effluent escaping from the bales could enter ; or[^c-ebe445a35fb37b90e38feef8bd1cf47a]
 - (c) it is a crop being made into field silage or silage which is being stored on open land and —
   - (i) the Agency is given notice of the place where the silage is to be made or stored at least 14 days before it is first used for that purpose; and
   - (ii) the place is at least 10 metres from any inland freshwaters or coastal waters, and at least the specified distance from any protected water supply source, which silage effluent could enter if it escaped.
 
-(1A)[^key-ecbfd61e67123859889b322f1ce9434e] Paragraph (1) above shall not apply to silage whilst it is stored temporarily in a container, trailer or vehicle in connection with its transport about the farm or elsewhere.
+(1A)[^c-ecbfd61e67123859889b322f1ce9434e] Paragraph (1) above shall not apply to silage whilst it is stored temporarily in a container, trailer or vehicle in connection with its transport about the farm or elsewhere.
 
 (1B) The Agency may by notice relax the requirements of paragraph (1)(a) above subject to such conditions (if any) as are specified in the notice where a silo is used solely for the purpose of storing silage made elsewhere if it is satisfied that there is no significant risk of pollution of controlled waters from that use of the silo.
 
@@ -93,9 +93,9 @@ In these Regulations, unless the context otherwise requires—
 
 (1D) The specified distance in relation to a protected water supply source is 50 metres from the nearest relevant abstraction point.
 
-(2) No person having custody or control of any crop which is being, or has been, made into silage in the manner described in paragraph (1)(b) above shall open or remove the wrapping of any bales unless he does so at a place at least 10 metres from any inland freshwaters or coastal waters[^key-5e32dc7f310409ba69341df5dad3a0d1] which silage effluent could enter as a result.
+(2) No person having custody or control of any crop which is being, or has been, made into silage in the manner described in paragraph (1)(b) above shall open or remove the wrapping of any bales unless he does so at a place at least 10 metres from any inland freshwaters or coastal waters[^c-5e32dc7f310409ba69341df5dad3a0d1] which silage effluent could enter as a result.
 
-(3)[^key-6aaa19182bc16fe79bc159267f5dfa2a] In this regulation —
+(3)[^c-6aaa19182bc16fe79bc159267f5dfa2a] In this regulation —
 
 - “field silage” means silage made on open land by a method which is different from that described in paragraph (1)(b) above;
 - “relevant abstraction” means the abstraction of water from inland freshwaters or ground waters for use for —
@@ -103,13 +103,13 @@ In these Regulations, unless the context otherwise requires—
   - (b) for manufacturing food or drink for human consumption;
 - “water supply source” means inland freshwaters or ground waters from which any relevant abstraction is made or licensed to be made.
 
-## 4. Storage of slurry[^key-1866a86d800c0bebc7a70809597b09e5]
+## 4. Storage of slurry[^c-1866a86d800c0bebc7a70809597b09e5]
 
 (1) Subject to paragraph (2) below, a person having custody or control of slurry shall store it only in a slurry storage system in relation to which the requirements of Schedule 2 are satisfied or which is an exempt structure by virtue of regulation 6 below.
 
 (2) Paragraph (1) above shall not apply to slurry whilst it is stored temporarily in a tanker with a capacity not exceeding 18,000 litres which is used for transporting slurry on roads or about a farm.
 
-## 5. Storage of fuel oil on farms[^key-c70edca5863c666de7abc1683c105c6b]
+## 5. Storage of fuel oil on farms[^c-c70edca5863c666de7abc1683c105c6b]
 
 (1) Subject to paragraph (2) below, no person shall have custody or control of fuel oil on a farm unless it is stored—
 
@@ -121,7 +121,7 @@ In these Regulations, unless the context otherwise requires—
 
 (2) Paragraph (1) above shall not apply if the total quantity of fuel stored on the farm does not exceed 1500 litres.
 
-## 6. Exemptions[^key-3299c578422c1805707b8e78ec8c9134]
+## 6. Exemptions[^c-3299c578422c1805707b8e78ec8c9134]
 
 A silo, slurry storage system or fuel storage tank is for the time being an exempt structure if—
 
@@ -131,22 +131,22 @@ A silo, slurry storage system or fuel storage tank is for the time being an exem
 
 and it has not ceased to be an exempt structure by virtue of regulation 8(1) below.
 
-**7.**[^key-c35e6530f4521c5a2f2b5c0f33ad2f1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-c35e6530f4521c5a2f2b5c0f33ad2f1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Loss of exemption[^key-9abf02d76e008ed18f3ae0dec38915bc]
+## 8. Loss of exemption[^c-9abf02d76e008ed18f3ae0dec38915bc]
 
 (1) A structure which is an exempt structure by virtue of regulation 6 above shall cease to be an exempt structure if—
 
 - (a) any requirement of a notice under regulation 9 below is not complied with within the period stated in the notice; or
 - (b) at any time on or after 1st March 1991 it is substantially enlarged or substantially reconstructed unless a contract for the work was entered into or the work was commenced before that date and in either case the work was completed before 1st September 1991.
 
-(2)[^key-c7c48527bc1036bd36af64485742a80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c7c48527bc1036bd36af64485742a80c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) Any reference in paragraph (1)[^key-90ffc22f9582a1be70e4db2cca231018] above to the period stated in a notice is to that period as extended if it has been extended under regulation 9(4) below or by virtue of regulation 10(5) below; and any reference in those paragraphs to a requirement of a notice is to that requirement as modified if it has been modified under regulation 9(4) below.
+(3) Any reference in paragraph (1)[^c-90ffc22f9582a1be70e4db2cca231018] above to the period stated in a notice is to that period as extended if it has been extended under regulation 9(4) below or by virtue of regulation 10(5) below; and any reference in those paragraphs to a requirement of a notice is to that requirement as modified if it has been modified under regulation 9(4) below.
 
-## 9. Notice requiring works etc.[^key-cb39bfca975a45b88ec4284c4136d656]
+## 9. Notice requiring works etc.[^c-cb39bfca975a45b88ec4284c4136d656]
 
-(1)[^key-bf7bc82be87b53d8cc42d6364f09ff02] The Agency may serve notice on any person, who has custody or control of any relevant substance in circumstances in which these Regulations apply, requiring him to carry out such works, take such precautions or such other steps as are specified in the notice and which, in the opinion of the Agency, are appropriate, having regard to any requirements of these Regulations in relation to that substance, for reducing to a minimum any significant risk of pollution of controlled waters arising from the custody or control of that substance.
+(1)[^c-bf7bc82be87b53d8cc42d6364f09ff02] The Agency may serve notice on any person, who has custody or control of any relevant substance in circumstances in which these Regulations apply, requiring him to carry out such works, take such precautions or such other steps as are specified in the notice and which, in the opinion of the Agency, are appropriate, having regard to any requirements of these Regulations in relation to that substance, for reducing to a minimum any significant risk of pollution of controlled waters arising from the custody or control of that substance.
 
 (2) The notice shall specify or describe the works, precautions or other steps which the person is required to carry out or take, state the period within which any such requirement is to be complied with and inform him of the effect in relation to the notice of regulation 10 below.
 
@@ -160,7 +160,7 @@ and it has not ceased to be an exempt structure by virtue of regulation 8(1) bel
 
 and shall do so if so directed by the Secretary of State under regulation 10(4) below.
 
-## 10. Appeals against notices requiring works etc.[^key-c71f188da369f2ea0b5ab19e63b0a8c4]
+## 10. Appeals against notices requiring works etc.[^c-c71f188da369f2ea0b5ab19e63b0a8c4]
 
 (1) A person served with a notice under regulation 9 above may within the period of 28 days beginning with the day on which that notice is served (or within such longer period as the Secretary of State may allow) appeal to the Secretary of State against the notice.
 
@@ -170,13 +170,13 @@ and shall do so if so directed by the Secretary of State under regulation 10(4) 
 
 (4) On determining an appeal under this regulation the Secretary of State shall have power to direct the Authority to withdraw the notice under regulation 9 above, to modify any of its requirements, to extend the period for compliance with any requirement or to dismiss the appeal.
 
-(5) The period for compliance with a notice under regulation 9 above shall, subject to any direction under paragraph (4) above, be extended so that it expires[^key-8f16cea815c797f990c23314ca235189] on the date on which the Secretary of State finally determines the appeal or, if the appeal is withdrawn, the date on which it is withdrawn.
+(5) The period for compliance with a notice under regulation 9 above shall, subject to any direction under paragraph (4) above, be extended so that it expires[^c-8f16cea815c797f990c23314ca235189] on the date on which the Secretary of State finally determines the appeal or, if the appeal is withdrawn, the date on which it is withdrawn.
 
-## 11. Notice of construction etc.[^key-a1e50a5d741c83ef2f617b1761fc8130]
+## 11. Notice of construction etc.[^c-a1e50a5d741c83ef2f617b1761fc8130]
 
 A person who proposes to have custody or control of any relevant substance which is to be kept or stored on a farm in a silo, slurry storage system or, as the case may be, fuel storage area constructed, substantially enlarged or substantially reconstructed on or after I st September 1991 shall serve notice on the Authority specifying the type of structure to be used and its location at least 14 days before it is to be used for such keeping or storage.
 
-## 12. Criminal offences[^key-507491722af199ab630115cb154b719c]
+## 12. Criminal offences[^c-507491722af199ab630115cb154b719c]
 
 (1) A person who contravenes regulation 3(1) or (2), 4(1) or 5(1) above shall be guilty of an offence and liable—
 
@@ -201,51 +201,51 @@ Secretary of State for Wales
 
 Regulation 3(1)(a)
 
-**1.**[^key-d3f8b2a96a281442aa452aa74b246af7] The requirements which have to be satisfied in relation to a silo are that—
+**1.**[^c-d3f8b2a96a281442aa452aa74b246af7] The requirements which have to be satisfied in relation to a silo are that—
 
 - (a) it complies with the following provisions of this Schedule; or
 - (b) it is designed and constructed in accordance with the standard on cylindrical forage tower silos published by the British Standards Institution and numbered BS 5061: 1974[^f00002].
 
-**2.**[^key-b444c78e04c07fde2390227e6e548d08] The base of the silo shall extend beyond any walls of the silo and shall be provided at its perimeter with channels designed and constructed so as to collect any silage effluent which may escape from the silo and adequate provision shall be made for the drainage of that effluent from those channels to an effluent tank through a channel or pipe.
+**2.**[^c-b444c78e04c07fde2390227e6e548d08] The base of the silo shall extend beyond any walls of the silo and shall be provided at its perimeter with channels designed and constructed so as to collect any silage effluent which may escape from the silo and adequate provision shall be made for the drainage of that effluent from those channels to an effluent tank through a channel or pipe.
 
-**3.**[^key-6e7f66b9604bd4467ae9e3e0234cb5be] The capacity of the effluent tank—
+**3.**[^c-6e7f66b9604bd4467ae9e3e0234cb5be] The capacity of the effluent tank—
 
 - (a) in the case of a silo with a capacity of less than 1500 cubic metres, shall be not less than 20 litres for each cubic metre of silo capacity; and
 - (b) in the case of a silo with a capacity of 1500 cubic metres or more, shall be not less than 30 cubic metres plus 6.7 litres for each cubic metre of silo capacity in excess of 1500 cubic metres.
 
-**4.**[^key-1998649f285e3cac07a5c11ccfa0f2cc] The base of the silo, the base and walls of its effluent tank and channels and the walls of any pipes shall be impermeable.
+**4.**[^c-1998649f285e3cac07a5c11ccfa0f2cc] The base of the silo, the base and walls of its effluent tank and channels and the walls of any pipes shall be impermeable.
 
-**5.**[^key-1cf7e6919b4739b9026aa74701cfd342] The base and any walls of the silo, its effluent tank and channels and the walls of any pipes shall, so far as reasonably practicable, be resistant to attack by silage effluent.
+**5.**[^c-1cf7e6919b4739b9026aa74701cfd342] The base and any walls of the silo, its effluent tank and channels and the walls of any pipes shall, so far as reasonably practicable, be resistant to attack by silage effluent.
 
-**6.**[^key-ecbbf220ebc427ca33cfac062a705214] No part of the silo, its effluent tank or channels or any pipes shall be situated within 10 metres of any inland freshwaters or coastal waters[^key-2ac993e51c52ae4425653a08b4a7c437] which silage effluent could enter if it were to escape.
+**6.**[^c-ecbbf220ebc427ca33cfac062a705214] No part of the silo, its effluent tank or channels or any pipes shall be situated within 10 metres of any inland freshwaters or coastal waters[^c-2ac993e51c52ae4425653a08b4a7c437] which silage effluent could enter if it were to escape.
 
-**7.**[^key-fb3cdfb90b58cfa1ab6928abdd45a512] If the silo has retaining walls—
+**7.**[^c-fb3cdfb90b58cfa1ab6928abdd45a512] If the silo has retaining walls—
 
 - (a) the retaining walls shall be capable of withstanding minimum wall loadings calculated on the assumptions and in the manner indicated by paragraphs 13.9.1 to 13.9.9 of the code of practice on buildings and structures for agriculture published by the British Standards Institution and numbered BS 5502: Part 22: 1987[^f00003];
 - (b) the silo shall at no time be loaded to a depth exceeding the maximum depth consistent with the design assumption made in respect of the loadings of the retaining walls; and
 - (c) notices shall be displayed on the retaining walls in accordance with paragraph 13.9.9 of that code of practice.
 
-**8.**[^key-54278b66f65fa28838f0a0387ca1c967] Subject to paragraph 9 below, the silo, its effluent tank and channels and any pipes shall be designed and constructed so that with proper maintenance they are likely to satisfy the requirements of paragraphs 2 to 5 and, if applicable, 7(a) above for a period of at least 20 years.
+**8.**[^c-54278b66f65fa28838f0a0387ca1c967] Subject to paragraph 9 below, the silo, its effluent tank and channels and any pipes shall be designed and constructed so that with proper maintenance they are likely to satisfy the requirements of paragraphs 2 to 5 and, if applicable, 7(a) above for a period of at least 20 years.
 
-**9.**[^key-b04ec3f6f476cb2ee74eb19f0b3e9d81] Where any part of an effluent tank is installed below ground level, the tank shall be designed and constructed so that without maintenance it is likely to satisfy the requirements of paragraphs 4 and 5 above for a period of at least 20 years.
+**9.**[^c-b04ec3f6f476cb2ee74eb19f0b3e9d81] Where any part of an effluent tank is installed below ground level, the tank shall be designed and constructed so that without maintenance it is likely to satisfy the requirements of paragraphs 4 and 5 above for a period of at least 20 years.
 
 ## SCHEDULE 2 — REQUIREMENTS FOR SLURRY STORAGE SYSTEMS
 
 Regulation 4(1)
 
-**1.**[^key-4886babc6584cced69f6da3c9ccbeec9] The requirements which have to be satisfied in relation to a slurry storage system are as follows.
+**1.**[^c-4886babc6584cced69f6da3c9ccbeec9] The requirements which have to be satisfied in relation to a slurry storage system are as follows.
 
-**2.**[^key-3faa2e18004fbfa30f9c04ad2f446f15] The base of the slurry storage tank, the base and walls of any effluent tank, channels and reception pit and the walls of any pipes shall be impermeable.
+**2.**[^c-3faa2e18004fbfa30f9c04ad2f446f15] The base of the slurry storage tank, the base and walls of any effluent tank, channels and reception pit and the walls of any pipes shall be impermeable.
 
-**3.**[^key-842c621c3490af61fbb5891a11ec42ff] The base and walls of the slurry storage tank, any effluent tank, channels and reception pit and the walls of any pipes shall be protected against corrosion in accordance with paragraph 7.2 of the code of practice on buildings and structures for agriculture published by the British Standards Institution and numbered BS 5502: Part 50: 1989[^f00004].
+**3.**[^c-842c621c3490af61fbb5891a11ec42ff] The base and walls of the slurry storage tank, any effluent tank, channels and reception pit and the walls of any pipes shall be protected against corrosion in accordance with paragraph 7.2 of the code of practice on buildings and structures for agriculture published by the British Standards Institution and numbered BS 5502: Part 50: 1989[^f00004].
 
-**4.**[^key-a81d8dddcb8543200d7b49773d58774d] The base and walls of the slurry storage tank and of any reception pit shall be capable of withstanding characteristic loads calculated on the assumptions and in the manner indicated by paragraph 5 of that code of practice.
+**4.**[^c-a81d8dddcb8543200d7b49773d58774d] The base and walls of the slurry storage tank and of any reception pit shall be capable of withstanding characteristic loads calculated on the assumptions and in the manner indicated by paragraph 5 of that code of practice.
 
-**5.**[^key-ce7bc72102e864ad800f985bd1c39384] (1) Any facilities used for the temporary storage of slurry before it is transferred to a slurry storage tank shall have adequate capacity to store the maximum quantity of slurry which (disregarding any slurry which will be transferred directly into a slurry storage tank) is likely to be produced on the premises in any two day period or such smaller capacity as the Agency may agree in writing is adequate to avoid any significant risk of pollution of controlled waters[^key-4ed502727d54e9bf21249012aa7d8201].
+**5.**[^c-ce7bc72102e864ad800f985bd1c39384] (1) Any facilities used for the temporary storage of slurry before it is transferred to a slurry storage tank shall have adequate capacity to store the maximum quantity of slurry which (disregarding any slurry which will be transferred directly into a slurry storage tank) is likely to be produced on the premises in any two day period or such smaller capacity as the Agency may agree in writing is adequate to avoid any significant risk of pollution of controlled waters[^c-4ed502727d54e9bf21249012aa7d8201].
 
 (2) Where slurry flows into a channel before discharging into a reception pit and the flow of slurry out of the channel is controlled by means of a sluice, the capacity of the reception pit shall be adequate to store the maximum quantity of slurry which can be released by opening the sluice.
 
-**6.**[^key-580a59daaf1bcb5612f0c69beccb243d] (1) Subject to sub-paragraph (2) below, the slurry storage tank shall have adequate storage capacity for the likely quantities of slurry produced from time to time on the premises in question having regard to—
+**6.**[^c-580a59daaf1bcb5612f0c69beccb243d] (1) Subject to sub-paragraph (2) below, the slurry storage tank shall have adequate storage capacity for the likely quantities of slurry produced from time to time on the premises in question having regard to—
 
 - (a) the proposed method of disposal of the slurry (including the likely rates and times of disposal); and
 - (b) the matters mentioned in sub-paragraph (3) below.
@@ -258,25 +258,25 @@ Regulation 4(1)
 - (b) the likely quantities of rainfall (including any fall of snow, hail or sleet) which may fall or drain into the slurry storage tank during the likely maximum storage period; and
 - (c) the need to make provision for not less than 750 millimetres of freeboard in the case of a tank with walls made of earth and 300 millimetres of freeboard in all other cases.
 
-**7.**[^key-40c67e81a435f81cc1194f7d71b13ad7] No part of the slurry storage tank or any effluent tank, channels or reception pit shall be situated within 10 metres of any inland freshwaters or coastal waters[^key-d484fa00408f52d9f9578adbd3ba6005] which slurry could enter if it were to escape unless such precautions are taken as the Agency may agree in writing are adequate to avoid any significant risk of pollution of controlled waters[^key-b40706144b20e7683da8f407afc4b786].
+**7.**[^c-40c67e81a435f81cc1194f7d71b13ad7] No part of the slurry storage tank or any effluent tank, channels or reception pit shall be situated within 10 metres of any inland freshwaters or coastal waters[^c-d484fa00408f52d9f9578adbd3ba6005] which slurry could enter if it were to escape unless such precautions are taken as the Agency may agree in writing are adequate to avoid any significant risk of pollution of controlled waters[^c-b40706144b20e7683da8f407afc4b786].
 
-**8.**[^key-088f4c4dfa8029dc6ceab2b226010428] The slurry storage tank and any effluent tank, channels, pipes and reception pit shall be designed and constructed so that with proper maintenance they are likely to satisfy the requirements of paragraphs 2 to 4 above for a period of at least 20 years.
+**8.**[^c-088f4c4dfa8029dc6ceab2b226010428] The slurry storage tank and any effluent tank, channels, pipes and reception pit shall be designed and constructed so that with proper maintenance they are likely to satisfy the requirements of paragraphs 2 to 4 above for a period of at least 20 years.
 
-**9.**[^key-7ddac4236252c0e152d1b1782d06bd54] Where the walls of the slurry storage tank are not impermeable, the base of the tank shall extend beyond its walls and shall be provided with channels designed and constructed so as to collect any slurry which may escape from the tank and adequate provision shall be made for the drainage of the slurry from those channels to an effluent tank through a channel or pipe.
+**9.**[^c-7ddac4236252c0e152d1b1782d06bd54] Where the walls of the slurry storage tank are not impermeable, the base of the tank shall extend beyond its walls and shall be provided with channels designed and constructed so as to collect any slurry which may escape from the tank and adequate provision shall be made for the drainage of the slurry from those channels to an effluent tank through a channel or pipe.
 
-**10.**[^key-928f8ee03b3641671f7d4994c1e760e0] (1) Subject to sub-paragraph (2) below, where the slurry storage tank, any effluent tank or reception pit is fitted with a drainage pipe there shall be two valves in series on the pipe and each valve shall be capable of shutting off the flow of slurry through the pipe and shall be kept shut and locked in that position when not in use.
+**10.**[^c-928f8ee03b3641671f7d4994c1e760e0] (1) Subject to sub-paragraph (2) below, where the slurry storage tank, any effluent tank or reception pit is fitted with a drainage pipe there shall be two valves in series on the pipe and each valve shall be capable of shutting off the flow of slurry through the pipe and shall be kept shut and locked in that position when not in use.
 
 (2) Sub-paragraph (1) above does not apply in relation to a slurry storage tank which drains through the pipe into another slurry storage tank of equal or greater capacity or where the tops of the tanks are at the same level.
 
-**11.**[^key-b528f7cbd1177c33155cebf54dc5f2d1] In the case of a slurry storage tank with walls which are made of earth the tank shall not be filled to a level which allows less than 750 millimetres of freeboard.
+**11.**[^c-b528f7cbd1177c33155cebf54dc5f2d1] In the case of a slurry storage tank with walls which are made of earth the tank shall not be filled to a level which allows less than 750 millimetres of freeboard.
 
 ## SCHEDULE 3 — REQUIREMENTS FOR FUEL OIL STORAGE AREAS
 
 Regulation 5(1)(a)
 
-**1.**[^key-7edd1a6b5a8856c51b6aea89c4bd9288] The requirements which have to be satisfied in relation to a fuel oil storage area are as follows.
+**1.**[^c-7edd1a6b5a8856c51b6aea89c4bd9288] The requirements which have to be satisfied in relation to a fuel oil storage area are as follows.
 
-**2.**[^key-c35775fa77487adf32e30df66c5c8fdf] The fuel storage area shall be surrounded by a bund capable of retaining within the area—
+**2.**[^c-c35775fa77487adf32e30df66c5c8fdf] The fuel storage area shall be surrounded by a bund capable of retaining within the area—
 
 - (a) in a case where there is only one fuel storage tank within the fuel storage area and fuel oil is not otherwise stored there, a volume of fuel oil not less than 110 per cent of the capacity of the tank;
 - (b) in a case where there is more than one fuel storage tank within the fuel storage area and fuel oil is not otherwise stored there, a volume of fuel oil not less than whichever is the greater of—
@@ -288,18 +288,18 @@ Regulation 5(1)(a)
   - (ii) where there is more than one fuel storage tank within the fuel storage area, 25 per cent of the total volume of such oil which could be stored in the tanks within the area;
   - (iii) 25 per cent of the total volume of such oil at any time stored within the area.
 
-**3.**[^key-34cf4c245a3b8d86ffce06dfe763c8b3] The bund and the base of the storage area shall be impermeable and shall be designed and constructed so that with proper maintenance they are likely to remain so for a period of at least 20 years.
+**3.**[^c-34cf4c245a3b8d86ffce06dfe763c8b3] The bund and the base of the storage area shall be impermeable and shall be designed and constructed so that with proper maintenance they are likely to remain so for a period of at least 20 years.
 
-**4.**[^key-71425b77ca9fde4c6b2c8fcf2cb242a5] Every part of any fuel storage tank shall be within the bund.
+**4.**[^c-71425b77ca9fde4c6b2c8fcf2cb242a5] Every part of any fuel storage tank shall be within the bund.
 
-**5.**[^key-7f03eccbea46551b94e826874a2a0ebf] Any tap or valve permanently fixed to the tank through which fuel oil can be discharged to the open shall also be within the bund, shall be so arranged as to discharge vertically downwards and shall be shut and locked in that position when not in use.
+**5.**[^c-7f03eccbea46551b94e826874a2a0ebf] Any tap or valve permanently fixed to the tank through which fuel oil can be discharged to the open shall also be within the bund, shall be so arranged as to discharge vertically downwards and shall be shut and locked in that position when not in use.
 
-**6.**[^key-f487f4855e123a9fa9c9690dba2f08d8] Where fuel from the tank is delivered through a flexible pipe which is permanently attached to the tank—
+**6.**[^c-f487f4855e123a9fa9c9690dba2f08d8] Where fuel from the tank is delivered through a flexible pipe which is permanently attached to the tank—
 
 - (a) it shall be fitted with a tap or valve at its end which closes automatically when not in use; and
 - (b) it shall be locked in a way which ensures that it is kept within the bund when not in use.
 
-**7.**[^key-d4e14cdb224497cdd57d70d14d771076] No part of the fuel storage area or the bund enclosing it shall be situated within 10 metres of any inland freshwaters or coastal waters[^key-53686b6ac9c6d45fc9501856adec42c1] which fuel oil could enter if it were to escape.
+**7.**[^c-d4e14cdb224497cdd57d70d14d771076] No part of the fuel storage area or the bund enclosing it shall be situated within 10 metres of any inland freshwaters or coastal waters[^c-53686b6ac9c6d45fc9501856adec42c1] which fuel oil could enter if it were to escape.
 
 (This note is not part of the Regulations)
 
@@ -313,124 +313,124 @@ Copies of the documents published by the British Standards Institution referred 
 
 [^f00001]: Footnote: [1989 c. 15](https://www.legislation.gov.uk/ukpga/1989/15); and see the definition of “prescribed” in section 189(1).
 
-[^key-b12d3b9c9d53860ae62d7af57f6dcfdd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-b12d3b9c9d53860ae62d7af57f6dcfdd]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-01b645032a0152075f492a7fdde33375]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1991/324/regulation/2) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-01b645032a0152075f492a7fdde33375]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/1991/324/regulation/2) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-b1cb18364c7dfe22d06dc59367f1dde2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1991/324/regulation/2) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/2)
+[^c-b1cb18364c7dfe22d06dc59367f1dde2]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/1991/324/regulation/2) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/2)
 
-[^key-fc3d340b5b56ffd443fda2ec881e5350]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1991/324/regulation/3) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-fc3d340b5b56ffd443fda2ec881e5350]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/1991/324/regulation/3) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-773e215f26fbcb78c57389abef84e7af]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/1991/324/regulation/3) applied (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/4)
+[^c-773e215f26fbcb78c57389abef84e7af]: Modification: [Reg. 3](https://www.legislation.gov.uk/uksi/1991/324/regulation/3) applied (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/4)
 
-[^key-7a67b60042a9433b2e382c56c9fc602f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/1) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/a/i)
+[^c-7a67b60042a9433b2e382c56c9fc602f]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/1) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(a)(i)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/a/i)
 
-[^key-b5a483cd549c7718bcbdce5c1138defc]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/1) inserted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/a/ii)
+[^c-b5a483cd549c7718bcbdce5c1138defc]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/1) inserted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(a)(ii)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/a/ii)
 
-[^key-9848c2691e283d1ea0de0397f5911af1]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/1/a) inserted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/a/iii)
+[^c-9848c2691e283d1ea0de0397f5911af1]: Textual amendment: Words in [reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/1/a) inserted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(a)(iii)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/a/iii)
 
-[^key-aba1bf30d18e0f44c235e1378e296f8f]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/1/b) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(a)(iv)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/a/iv)
+[^c-aba1bf30d18e0f44c235e1378e296f8f]: Textual amendment: Words in [reg. 3(1)(b)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/1/b) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(a)(iv)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/a/iv)
 
-[^key-ebe445a35fb37b90e38feef8bd1cf47a]: Textual amendment: [Reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/1/c) and word added (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(a)(v)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/a/v)
+[^c-ebe445a35fb37b90e38feef8bd1cf47a]: Textual amendment: [Reg. 3(1)(c)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/1/c) and word added (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(a)(v)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/a/v)
 
-[^key-ecbfd61e67123859889b322f1ce9434e]: Textual amendment: [Reg. 3(1A)-(1D)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/1A) added (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/b)
+[^c-ecbfd61e67123859889b322f1ce9434e]: Textual amendment: [Reg. 3(1A)-(1D)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/1A) added (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/b)
 
-[^key-5e32dc7f310409ba69341df5dad3a0d1]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/2) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/c)
+[^c-5e32dc7f310409ba69341df5dad3a0d1]: Textual amendment: Words in [reg. 3(2)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/2) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/c)
 
-[^key-6aaa19182bc16fe79bc159267f5dfa2a]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/3) added (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/d)
+[^c-6aaa19182bc16fe79bc159267f5dfa2a]: Textual amendment: [Reg. 3(3)](https://www.legislation.gov.uk/uksi/1991/324/regulation/3/3) added (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/3/d)
 
-[^key-1866a86d800c0bebc7a70809597b09e5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1991/324/regulation/4) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-1866a86d800c0bebc7a70809597b09e5]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/1991/324/regulation/4) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-c70edca5863c666de7abc1683c105c6b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1991/324/regulation/5) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-c70edca5863c666de7abc1683c105c6b]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/1991/324/regulation/5) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-3299c578422c1805707b8e78ec8c9134]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1991/324/regulation/6) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-3299c578422c1805707b8e78ec8c9134]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1991/324/regulation/6) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-c35e6530f4521c5a2f2b5c0f33ad2f1d]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1991/324/regulation/7) omitted (1.4.1997) by virtue of [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/4) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/4))
+[^c-c35e6530f4521c5a2f2b5c0f33ad2f1d]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/1991/324/regulation/7) omitted (1.4.1997) by virtue of [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/4) (with [reg. 2(4)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/4))
 
-[^key-9abf02d76e008ed18f3ae0dec38915bc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1991/324/regulation/8) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-9abf02d76e008ed18f3ae0dec38915bc]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/1991/324/regulation/8) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-c7c48527bc1036bd36af64485742a80c]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/1991/324/regulation/8/2) omitted (1.4.1997) by virtue of [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/4)
+[^c-c7c48527bc1036bd36af64485742a80c]: Textual amendment: [Reg. 8(2)](https://www.legislation.gov.uk/uksi/1991/324/regulation/8/2) omitted (1.4.1997) by virtue of [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/4)
 
-[^key-90ffc22f9582a1be70e4db2cca231018]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/1991/324/regulation/8/3) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/5)
+[^c-90ffc22f9582a1be70e4db2cca231018]: Textual amendment: Words in [reg. 8(3)](https://www.legislation.gov.uk/uksi/1991/324/regulation/8/3) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/5)
 
-[^key-cb39bfca975a45b88ec4284c4136d656]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1991/324/regulation/9) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-cb39bfca975a45b88ec4284c4136d656]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/1991/324/regulation/9) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-bf7bc82be87b53d8cc42d6364f09ff02]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/uksi/1991/324/regulation/9/1) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/6)
+[^c-bf7bc82be87b53d8cc42d6364f09ff02]: Textual amendment: [Reg. 9(1)](https://www.legislation.gov.uk/uksi/1991/324/regulation/9/1) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/6)
 
-[^key-c71f188da369f2ea0b5ab19e63b0a8c4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1991/324/regulation/10) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-c71f188da369f2ea0b5ab19e63b0a8c4]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/1991/324/regulation/10) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-8f16cea815c797f990c23314ca235189]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/1991/324/regulation/10/5) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/7)
+[^c-8f16cea815c797f990c23314ca235189]: Textual amendment: Words in [reg. 10(5)](https://www.legislation.gov.uk/uksi/1991/324/regulation/10/5) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(7)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/7)
 
-[^key-a1e50a5d741c83ef2f617b1761fc8130]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1991/324/regulation/11) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-a1e50a5d741c83ef2f617b1761fc8130]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/1991/324/regulation/11) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-507491722af199ab630115cb154b719c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1991/324/regulation/12) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-507491722af199ab630115cb154b719c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/1991/324/regulation/12) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-d3f8b2a96a281442aa452aa74b246af7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/1) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-d3f8b2a96a281442aa452aa74b246af7]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/1) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
 [^f00002]: Footnote: The International Standard Book Number (ISBN) in respect of BS 5061: 1974 is 0 580 080706.
 
-[^key-b444c78e04c07fde2390227e6e548d08]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/2) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-b444c78e04c07fde2390227e6e548d08]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/2) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-6e7f66b9604bd4467ae9e3e0234cb5be]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/3) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-6e7f66b9604bd4467ae9e3e0234cb5be]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/3) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-1998649f285e3cac07a5c11ccfa0f2cc]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/4) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-1998649f285e3cac07a5c11ccfa0f2cc]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/4) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-1cf7e6919b4739b9026aa74701cfd342]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/5) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-1cf7e6919b4739b9026aa74701cfd342]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/5) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-ecbbf220ebc427ca33cfac062a705214]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/6) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-ecbbf220ebc427ca33cfac062a705214]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/6) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-2ac993e51c52ae4425653a08b4a7c437]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/6) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/8)
+[^c-2ac993e51c52ae4425653a08b4a7c437]: Textual amendment: Words in [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/6) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(8)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/8)
 
-[^key-fb3cdfb90b58cfa1ab6928abdd45a512]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/7) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-fb3cdfb90b58cfa1ab6928abdd45a512]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/7) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
 [^f00003]: Footnote: The International Standard Book Number (ISBN) in respect of BS 5502: Part 22: 1987 is 0 580 162869.
 
-[^key-54278b66f65fa28838f0a0387ca1c967]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/8) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-54278b66f65fa28838f0a0387ca1c967]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/8) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-b04ec3f6f476cb2ee74eb19f0b3e9d81]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/9) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-b04ec3f6f476cb2ee74eb19f0b3e9d81]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/1991/324/schedule/1/paragraph/9) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-4886babc6584cced69f6da3c9ccbeec9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/1) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-4886babc6584cced69f6da3c9ccbeec9]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/1) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-3faa2e18004fbfa30f9c04ad2f446f15]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/2) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-3faa2e18004fbfa30f9c04ad2f446f15]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/2) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-842c621c3490af61fbb5891a11ec42ff]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/3) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-842c621c3490af61fbb5891a11ec42ff]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/3) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
 [^f00004]: Footnote: The International Standard Book Number (ISBN) in respect of BS 5502: Part 50: 1989 is 0 580 172112.
 
-[^key-a81d8dddcb8543200d7b49773d58774d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/4) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-a81d8dddcb8543200d7b49773d58774d]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/4) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-ce7bc72102e864ad800f985bd1c39384]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/5) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-ce7bc72102e864ad800f985bd1c39384]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/5) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-4ed502727d54e9bf21249012aa7d8201]: Textual amendment: Words in [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/5/1) added (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/9/a)
+[^c-4ed502727d54e9bf21249012aa7d8201]: Textual amendment: Words in [Sch. 2 para. 5(1)](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/5/1) added (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(9)(a)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/9/a)
 
-[^key-580a59daaf1bcb5612f0c69beccb243d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/6) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-580a59daaf1bcb5612f0c69beccb243d]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/6) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-40c67e81a435f81cc1194f7d71b13ad7]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/7) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-40c67e81a435f81cc1194f7d71b13ad7]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/7) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-d484fa00408f52d9f9578adbd3ba6005]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/7) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/9/b)
+[^c-d484fa00408f52d9f9578adbd3ba6005]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/7) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/9/b)
 
-[^key-b40706144b20e7683da8f407afc4b786]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/7) added (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/9/b)
+[^c-b40706144b20e7683da8f407afc4b786]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/7) added (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(9)(b)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/9/b)
 
-[^key-088f4c4dfa8029dc6ceab2b226010428]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/8) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-088f4c4dfa8029dc6ceab2b226010428]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/8) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-7ddac4236252c0e152d1b1782d06bd54]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/9) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-7ddac4236252c0e152d1b1782d06bd54]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/9) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-928f8ee03b3641671f7d4994c1e760e0]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/10) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-928f8ee03b3641671f7d4994c1e760e0]: Commencement: [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/10) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-b528f7cbd1177c33155cebf54dc5f2d1]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/11) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-b528f7cbd1177c33155cebf54dc5f2d1]: Commencement: [Sch. 2 para. 11](https://www.legislation.gov.uk/uksi/1991/324/schedule/2/paragraph/11) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-7edd1a6b5a8856c51b6aea89c4bd9288]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/1) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-7edd1a6b5a8856c51b6aea89c4bd9288]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/1) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-c35775fa77487adf32e30df66c5c8fdf]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/2) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-c35775fa77487adf32e30df66c5c8fdf]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/2) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-34cf4c245a3b8d86ffce06dfe763c8b3]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/3) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-34cf4c245a3b8d86ffce06dfe763c8b3]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/3) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-71425b77ca9fde4c6b2c8fcf2cb242a5]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/4) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-71425b77ca9fde4c6b2c8fcf2cb242a5]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/4) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-7f03eccbea46551b94e826874a2a0ebf]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/5) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-7f03eccbea46551b94e826874a2a0ebf]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/5) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-f487f4855e123a9fa9c9690dba2f08d8]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/6) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-f487f4855e123a9fa9c9690dba2f08d8]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/6) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-d4e14cdb224497cdd57d70d14d771076]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/7) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
+[^c-d4e14cdb224497cdd57d70d14d771076]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/7) in force at 1.9.1991, see [reg. 1](https://www.legislation.gov.uk/uksi/1991/324/regulation/1)
 
-[^key-53686b6ac9c6d45fc9501856adec42c1]: Textual amendment: Words in [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/7) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/10)
+[^c-53686b6ac9c6d45fc9501856adec42c1]: Textual amendment: Words in [Sch. 3 para. 7](https://www.legislation.gov.uk/uksi/1991/324/schedule/3/paragraph/7) substituted (1.4.1997) by [The Control of Pollution (Silage, Slurry and Agricultural Fuel Oil) (Amendment) Regulations 1997 (S.I. 1997/547)](https://www.legislation.gov.uk/uksi/1997/547), [regs. 1](https://www.legislation.gov.uk/uksi/1997/547/regulation/1), [2(10)](https://www.legislation.gov.uk/uksi/1997/547/regulation/2/10)

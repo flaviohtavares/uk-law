@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## G3. Widow's pension when member dies after pension becomes payable[^key-acf3cd7582bf2a273844e9ff4b241324]
+## G3. Widow's pension when member dies after pension becomes payable[^c-acf3cd7582bf2a273844e9ff4b241324]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
   - (ii) a Waiting Period Joiner within the meaning of regulation 2.L.1 or 3.L.1 of that Section, and
 - (b) on the date of the member's death the member is an active or non-contributing member of that Section.
 
-(4) Except while the widow's pension is payable at the rate mentioned in paragraph (2), the widow's pension will be equal to one half of the member's pension calculated without regard to any reduction under regulation E11 or regulation E11A[^key-03b9f344cc137dcb196ff08d9bf75b91].
+(4) Except while the widow's pension is payable at the rate mentioned in paragraph (2), the widow's pension will be equal to one half of the member's pension calculated without regard to any reduction under regulation E11 or regulation E11A[^c-03b9f344cc137dcb196ff08d9bf75b91].
 
 (5) If a member who was in receipt of a substitute pension under regulation E5 (further employment after a benefit is paid under regulation E3) dies before the end of the protection period that applies to the member under regulation E5(6)(a) or (b), the member's pension referred to in paragraph (2) means that member's original upper tier pension.
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-acf3cd7582bf2a273844e9ff4b241324]: Modification: Reg. G3 applied (with modifications) (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [25(7)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/7/a)
+[^c-acf3cd7582bf2a273844e9ff4b241324]: Modification: Reg. G3 applied (with modifications) (1.4.2015) by [The National Health Service Pension Scheme (Transitional and Consequential Provisions) (Scotland) Regulations 2015 (S.S.I. 2015/95)](https://www.legislation.gov.uk/ssi/2015/95), [regs. 1(b)](https://www.legislation.gov.uk/ssi/2015/95/regulation/1/b), [25(7)(a)](https://www.legislation.gov.uk/ssi/2015/95/regulation/25/7/a)
 
-[^key-03b9f344cc137dcb196ff08d9bf75b91]: Textual amendment: Words in reg. G3(4) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [17](https://www.legislation.gov.uk/ssi/2024/272/regulation/17)
+[^c-03b9f344cc137dcb196ff08d9bf75b91]: Textual amendment: Words in reg. G3(4) inserted (with effect from 1.10.2023) by [The National Health Service Superannuation and Pension Schemes (Miscellaneous Amendment) (Scotland) Regulations 2024 (S.S.I. 2024/272)](https://www.legislation.gov.uk/ssi/2024/272), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/1)[(5)](https://www.legislation.gov.uk/ssi/2024/272/regulation/1/5), [17](https://www.legislation.gov.uk/ssi/2024/272/regulation/17)

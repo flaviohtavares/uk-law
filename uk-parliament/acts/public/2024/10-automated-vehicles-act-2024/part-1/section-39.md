@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Duty with respect to incidents with potential regulatory consequences[^key-ef761f9a88adc283f09a2e28a6ca7b0a]
+## 39. Duty with respect to incidents with potential regulatory consequences[^c-ef761f9a88adc283f09a2e28a6ca7b0a]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef761f9a88adc283f09a2e28a6ca7b0a]: Commencement: S. 39 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-ef761f9a88adc283f09a2e28a6ca7b0a]: Commencement: S. 39 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

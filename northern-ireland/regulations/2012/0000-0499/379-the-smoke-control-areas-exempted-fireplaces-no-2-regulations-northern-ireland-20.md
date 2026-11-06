@@ -32,7 +32,7 @@ summary: ''
 
 Clean Air
 
-The Smoke Control Areas (Exempted Fireplaces) (No. 2) Regulations (Northern Ireland) 2012 (revoked)[^key-8d9687d104ffdddf3b0b5cf2daf03bba]
+The Smoke Control Areas (Exempted Fireplaces) (No. 2) Regulations (Northern Ireland) 2012 (revoked)[^c-8d9687d104ffdddf3b0b5cf2daf03bba]
 
 Made
 
@@ -42,27 +42,27 @@ Coming into operation
 
 21st November 2012
 
-[^key-8d9687d104ffdddf3b0b5cf2daf03bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d9687d104ffdddf3b0b5cf2daf03bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-8d9687d104ffdddf3b0b5cf2daf03bba]
+## 1. Citation and commencement[^c-8d9687d104ffdddf3b0b5cf2daf03bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Exempted Fireplaces[^key-8d9687d104ffdddf3b0b5cf2daf03bba]
+## 2. Exempted Fireplaces[^c-8d9687d104ffdddf3b0b5cf2daf03bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-8d9687d104ffdddf3b0b5cf2daf03bba]
+## 3. Revocation[^c-8d9687d104ffdddf3b0b5cf2daf03bba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8d9687d104ffdddf3b0b5cf2daf03bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d9687d104ffdddf3b0b5cf2daf03bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-8d9687d104ffdddf3b0b5cf2daf03bba]
+## SCHEDULE[^c-8d9687d104ffdddf3b0b5cf2daf03bba]
 
 Regulation 2
 
@@ -70,8 +70,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-8d9687d104ffdddf3b0b5cf2daf03bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8d9687d104ffdddf3b0b5cf2daf03bba]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8d9687d104ffdddf3b0b5cf2daf03bba]: Textual amendment: Regulations revoked (23.8.2013) by [The Smoke Control Areas (Exempted Fireplaces) Regulations (Northern Ireland) 2013 (S.R. 2013/198)](https://www.legislation.gov.uk/nisr/2013/198), [regs. 1](https://www.legislation.gov.uk/nisr/2013/198/regulation/1), [3](https://www.legislation.gov.uk/nisr/2013/198/regulation/3)
+[^c-8d9687d104ffdddf3b0b5cf2daf03bba]: Textual amendment: Regulations revoked (23.8.2013) by [The Smoke Control Areas (Exempted Fireplaces) Regulations (Northern Ireland) 2013 (S.R. 2013/198)](https://www.legislation.gov.uk/nisr/2013/198), [regs. 1](https://www.legislation.gov.uk/nisr/2013/198/regulation/1), [3](https://www.legislation.gov.uk/nisr/2013/198/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 225C. Emergency remedial action: power to enter without warrant[^key-cb5e61c73093969c8caa526632014f3f]
+## 225C. Emergency remedial action: power to enter without warrant[^c-cb5e61c73093969c8caa526632014f3f]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ except where the relevant person in respect of the notice consents.
 
 ## Annotations
 
-[^key-cb5e61c73093969c8caa526632014f3f]: Textual amendment: [Ss. 225A-225H](https://www.legislation.gov.uk/ukpga/2008/17/section/225A) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 32](https://www.legislation.gov.uk/ukpga/2023/36/section/32), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/s)
+[^c-cb5e61c73093969c8caa526632014f3f]: Textual amendment: [Ss. 225A-225H](https://www.legislation.gov.uk/ukpga/2008/17/section/225A) and cross-heading inserted (1.4.2024) by [Social Housing (Regulation) Act 2023 (c. 36)](https://www.legislation.gov.uk/ukpga/2023/36), [ss. 32](https://www.legislation.gov.uk/ukpga/2023/36/section/32), [46(3)](https://www.legislation.gov.uk/ukpga/2023/36/section/46/3); [S.I. 2024/437](https://www.legislation.gov.uk/uksi/2024/437), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/437/regulation/2/s)

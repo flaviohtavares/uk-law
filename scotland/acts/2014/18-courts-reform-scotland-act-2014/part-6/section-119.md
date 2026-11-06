@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 119. Appeals from the Sheriff Appeal Court to the High Court[^key-df1696324be58ea94c6ca2149ad26296][^key-47bf7a32fa5590341ead2c4fc02618fa]
+## 119. Appeals from the Sheriff Appeal Court to the High Court[^c-df1696324be58ea94c6ca2149ad26296][^c-47bf7a32fa5590341ead2c4fc02618fa]
 
 *Extent: S*
 
@@ -166,6 +166,6 @@ In the Criminal Procedure (Scotland) Act 1995, after Part X (appeals from summar
 
 ## Annotations
 
-[^key-df1696324be58ea94c6ca2149ad26296]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2014/18/section/119) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-df1696324be58ea94c6ca2149ad26296]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2014/18/section/119) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-47bf7a32fa5590341ead2c4fc02618fa]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2014/18/section/119) in force at 22.9.2015 in so far as not already in force by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)
+[^c-47bf7a32fa5590341ead2c4fc02618fa]: Commencement: [S. 119](https://www.legislation.gov.uk/asp/2014/18/section/119) in force at 22.9.2015 in so far as not already in force by [S.S.I. 2015/247](https://www.legislation.gov.uk/ssi/2015/247), [art. 2](https://www.legislation.gov.uk/ssi/2015/247/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/247/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Statement of entitlement[^key-86051023c956cf51043a51ff7c125d97]
+## 113. Statement of entitlement[^c-86051023c956cf51043a51ff7c125d97]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86051023c956cf51043a51ff7c125d97]: Commencement: Reg. 113 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-86051023c956cf51043a51ff7c125d97]: Commencement: Reg. 113 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

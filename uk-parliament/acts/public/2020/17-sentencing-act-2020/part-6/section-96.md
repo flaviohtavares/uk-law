@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Agreement of youth offender contract with offender[^key-86b65589ba5ea604d7648af4947d5326]
+## 96. Agreement of youth offender contract with offender[^c-86b65589ba5ea604d7648af4947d5326]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-86b65589ba5ea604d7648af4947d5326]: Commencement: S. 96 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-86b65589ba5ea604d7648af4947d5326]: Commencement: S. 96 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Notice of decision following improvement notice[^key-bb085b3fca95b9602d14eae5a612acb3]
+## 17. Notice of decision following improvement notice[^c-bb085b3fca95b9602d14eae5a612acb3]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ within the time limit specified in the notice they must notify the service provi
 
 ## Annotations
 
-[^key-bb085b3fca95b9602d14eae5a612acb3]: Commencement: S. 17 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)
+[^c-bb085b3fca95b9602d14eae5a612acb3]: Commencement: S. 17 in force at 2.4.2018 by [S.I. 2017/1326](https://www.legislation.gov.uk/wsi/2017/1326), [art. 2(3)(d)](https://www.legislation.gov.uk/wsi/2017/1326/article/2/3/d)

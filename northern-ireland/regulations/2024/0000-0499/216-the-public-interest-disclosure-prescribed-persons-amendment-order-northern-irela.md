@@ -32,7 +32,7 @@ summary: ''
 
 Employment
 
-The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2024 (revoked)[^key-7103a9f5f7f3edfb7d890743b448c5fe]
+The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2024 (revoked)[^c-7103a9f5f7f3edfb7d890743b448c5fe]
 
 Made
 
@@ -40,24 +40,24 @@ Made
 
 Coming into operation in accordance with Article 1
 
-[^key-7103a9f5f7f3edfb7d890743b448c5fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7103a9f5f7f3edfb7d890743b448c5fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7103a9f5f7f3edfb7d890743b448c5fe]
+## 1. Citation and commencement[^c-7103a9f5f7f3edfb7d890743b448c5fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment[^key-7103a9f5f7f3edfb7d890743b448c5fe]
+## 2. Amendment[^c-7103a9f5f7f3edfb7d890743b448c5fe]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7103a9f5f7f3edfb7d890743b448c5fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7103a9f5f7f3edfb7d890743b448c5fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7103a9f5f7f3edfb7d890743b448c5fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7103a9f5f7f3edfb7d890743b448c5fe]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7103a9f5f7f3edfb7d890743b448c5fe]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2024/216) revoked (12.2.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/13)](https://www.legislation.gov.uk/nisr/2025/13), [arts. 1](https://www.legislation.gov.uk/nisr/2025/13/article/1), [3](https://www.legislation.gov.uk/nisr/2025/13/article/3)
+[^c-7103a9f5f7f3edfb7d890743b448c5fe]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2024/216) revoked (12.2.2025) by [The Public Interest Disclosure (Prescribed Persons) (Amendment) Order (Northern Ireland) 2025 (S.R. 2025/13)](https://www.legislation.gov.uk/nisr/2025/13), [arts. 1](https://www.legislation.gov.uk/nisr/2025/13/article/1), [3](https://www.legislation.gov.uk/nisr/2025/13/article/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. The Trade Repositories (Amendment and Transitional Provision) (EU Exit) Regulations 2018[^key-27aa91736f654992c1f6e41bcb290d1f]
+## 47. The Trade Repositories (Amendment and Transitional Provision) (EU Exit) Regulations 2018[^c-27aa91736f654992c1f6e41bcb290d1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,7 +102,7 @@ summary: ''
 
 ## Annotations
 
-[^key-27aa91736f654992c1f6e41bcb290d1f]: Commencement: Reg. 47 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
+[^c-27aa91736f654992c1f6e41bcb290d1f]: Commencement: Reg. 47 in force at 27.11.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1385/regulation/1/2)
 
 [^f00025]: Footnote: [S.I. 2018/1318](https://www.legislation.gov.uk/uksi/2018/1318), as amended by [S.I 2019/1416](https://www.legislation.gov.uk/uksi/2019/1416) and [2020/646](https://www.legislation.gov.uk/uksi/2020/646).
 

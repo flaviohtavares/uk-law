@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The measures in article 31A and Schedules 4 and 8[^key-5afc661035f3b11d70470e2a138ff93f] apply in respect of a protection zone, subject to paragraphs (2) and (3) and articles 33 and 35.
+(1) The measures in article 31A and Schedules 4 and 8[^c-5afc661035f3b11d70470e2a138ff93f] apply in respect of a protection zone, subject to paragraphs (2) and (3) and articles 33 and 35.
 
 (2) Paragraph (3) applies if the National Assembly has carried out a risk assessment and does not believe that the disapplication of any measure under that paragraph would endanger disease control.
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5afc661035f3b11d70470e2a138ff93f]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/wsi/2006/2927/article/30/1) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [21](https://www.legislation.gov.uk/wsi/2025/1357/article/21)
+[^c-5afc661035f3b11d70470e2a138ff93f]: Textual amendment: Words in [art. 30(1)](https://www.legislation.gov.uk/wsi/2006/2927/article/30/1) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [21](https://www.legislation.gov.uk/wsi/2025/1357/article/21)

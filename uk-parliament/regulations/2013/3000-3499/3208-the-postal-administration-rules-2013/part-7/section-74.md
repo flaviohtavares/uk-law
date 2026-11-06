@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Disqualification from dividend[^key-66b08cba22aed091262ce18ee057ad50]
+## 74. Disqualification from dividend[^c-66b08cba22aed091262ce18ee057ad50]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ If a creditor contravenes any provision of the 1986 Act or the Rules relating to
 
 ## Annotations
 
-[^key-66b08cba22aed091262ce18ee057ad50]: Commencement: [Rule 74](https://www.legislation.gov.uk/uksi/2013/3208/rule/74) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-66b08cba22aed091262ce18ee057ad50]: Commencement: [Rule 74](https://www.legislation.gov.uk/uksi/2013/3208/rule/74) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

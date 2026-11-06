@@ -51,11 +51,11 @@ The Welsh Ministers have been designated for the purposes of that section in rel
 
 As required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00003] there has been open and transparent public consultation during the preparation and evaluation of the following Regulations.
 
-## 1. Title, application and commencement[^key-22984534c9d5381444bfef7424fab60a]
+## 1. Title, application and commencement[^c-22984534c9d5381444bfef7424fab60a]
 
 The title of these Regulations is the Transmissible Spongiform Encephalopathies (Wales) (Amendment) Regulations 2008, they apply in relation to Wales and they come into force on 26 April 2008.
 
-## 2. Amendment of the Transmissible Spongiform (Encephalopathies) (Wales) Regulations 2006[^key-ac5a477c6b9117043489e8bfd776189c]
+## 2. Amendment of the Transmissible Spongiform (Encephalopathies) (Wales) Regulations 2006[^c-ac5a477c6b9117043489e8bfd776189c]
 
 (1) The Transmissible Spongiform Encephalopathies (Wales) Regulations 2006[^f00004] are amended in accordance with paragraphs (2) to (4).
 
@@ -81,7 +81,7 @@ The title of these Regulations is the Transmissible Spongiform Encephalopathies 
 
 .
 
-## 3. Revocation[^key-7298383b031079ca0724a1d95a4d36e7]
+## 3. Revocation[^c-7298383b031079ca0724a1d95a4d36e7]
 
 The Beef Bones Regulations 1997[^f00007] are revoked in as far as they apply in relation to Wales.
 
@@ -91,7 +91,7 @@ Under authority of the Minister for Health and Social Services, one of the Welsh
 
 25 April 2008
 
-## THE SCHEDULE — SCHEDULE SUBSTITUTED FOR SCHEDULE 6 TO THE TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHIES (WALES) REGULATIONS 2006[^key-5e4844863a6ad9ac707ef6c2c1c94108]
+## THE SCHEDULE — SCHEDULE SUBSTITUTED FOR SCHEDULE 6 TO THE TRANSMISSIBLE SPONGIFORM ENCEPHALOPATHIES (WALES) REGULATIONS 2006[^c-5e4844863a6ad9ac707ef6c2c1c94108]
 
 Regulation 2(3)
 
@@ -385,9 +385,9 @@ Regulation 2(3)
 
 [^f00003]: Footnote: OJ No. L31, 1.2.2002, p.1, as last amended by Commission Regulation [(EC) No. 575/2006](https://www.legislation.gov.uk/european/regulation/2006/0575) amending Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council as regards the number and names of the permanent Scientific Panels of the European Food Safety Authority (OJ No. L100, 8.4.2006, p.3).
 
-[^key-22984534c9d5381444bfef7424fab60a]: Commencement: Reg. 1 in force at 26.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/1182/regulation/1)
+[^c-22984534c9d5381444bfef7424fab60a]: Commencement: Reg. 1 in force at 26.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/1182/regulation/1)
 
-[^key-ac5a477c6b9117043489e8bfd776189c]: Commencement: Reg. 2 in force at 26.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/1182/regulation/1)
+[^c-ac5a477c6b9117043489e8bfd776189c]: Commencement: Reg. 2 in force at 26.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/1182/regulation/1)
 
 [^f00004]: Footnote: S.I. [2006/1226 (W.117)](https://www.legislation.gov.uk/wsi/2006/1226), amended by S.I. [2007/2244 (W.176)](https://www.legislation.gov.uk/wsi/2007/2244).
 
@@ -395,11 +395,11 @@ Regulation 2(3)
 
 [^f00006]: Footnote: OJ No. L 111, 23.4.2008, p.3.
 
-[^key-7298383b031079ca0724a1d95a4d36e7]: Commencement: Reg. 3 in force at 26.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/1182/regulation/1)
+[^c-7298383b031079ca0724a1d95a4d36e7]: Commencement: Reg. 3 in force at 26.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/1182/regulation/1)
 
 [^f00007]: Footnote: S.I. [1997/2959](https://www.legislation.gov.uk/uksi/1997/2959).
 
-[^key-5e4844863a6ad9ac707ef6c2c1c94108]: Commencement: Sch. in force at 26.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/1182/regulation/1)
+[^c-5e4844863a6ad9ac707ef6c2c1c94108]: Commencement: Sch. in force at 26.4.2008, see [reg. 1](https://www.legislation.gov.uk/wsi/2008/1182/regulation/1)
 
 [^f00008]: Footnote: OJ No. L 204, 11.8.2000, p.1.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Duties of landlords etc, penalties and offences: interpretation[^key-ca58a8b0d4fe2c28a5a16c012de129a5][^key-a6dfa95e1fa2860655dfd77a241c7f74]
+## 17. Duties of landlords etc, penalties and offences: interpretation[^c-ca58a8b0d4fe2c28a5a16c012de129a5][^c-a6dfa95e1fa2860655dfd77a241c7f74]
 
 *Extent: E+W*
 
@@ -76,6 +76,6 @@ In the 1988 Act, after section 16L (inserted by section 15 of this Act) insertâ€
 
 ## Annotations
 
-[^key-ca58a8b0d4fe2c28a5a16c012de129a5]: Commencement: S. 17 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
+[^c-ca58a8b0d4fe2c28a5a16c012de129a5]: Commencement: S. 17 not in force at Royal Assent, see [s. 145(1)(8)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/8)
 
-[^key-a6dfa95e1fa2860655dfd77a241c7f74]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2025/26/section/17) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)
+[^c-a6dfa95e1fa2860655dfd77a241c7f74]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2025/26/section/17) in force at 1.5.2026 for specified purposes by [S.I. 2026/421](https://www.legislation.gov.uk/uksi/2026/421), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/421/regulation/2/a)

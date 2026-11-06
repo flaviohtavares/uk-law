@@ -59,9 +59,9 @@ These Regulations may be cited as the Occupational Pension Schemes (Scheme Fundi
 - “**the 1995 Act**” means the Pensions Act 1995;
 - “**the 2004 Act**” means the Pensions Act 2004;
 - “**the actuary**”, in relation to a scheme, means the actuary appointed under section 47(1)(b) of the 1995 Act (professional advisers) in relation to that scheme;
-- [^key-c88f68887a147afa33cc42bd32e60cde]...
+- [^c-c88f68887a147afa33cc42bd32e60cde]...
 - “**the commencement date**” means 30th December 2005;
-- “[^key-4be947a2023c3bd9115d118425824925]**the Funding and Investment Strategy Regulations**” means the Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024;
+- “[^c-4be947a2023c3bd9115d118425824925]**the Funding and Investment Strategy Regulations**” means the Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024;
 - “**insurance policy**” means an insurance policy which is a contract on human life or a contract of annuity on human life, but excluding a contract which is linked to investment funds;
 - “**pension credit rights**” has the meaning given by section 124(1) of the 1995 Act [^c1241965];
 - “**relevant date**” has the meaning given by regulation 2 of the Funding and Investment Strategy Regulations;
@@ -138,7 +138,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Scheme Fundi
 - (c) the mortality tables used and the demographic assumptions made must be based on prudent principles, having regard to the main characteristics of the members as a group and expected changes in the risks to the scheme, and
 - (d) any change from the method or assumptions used on the last occasion on which the scheme's technical provisions were calculated must be justified by a change of legal, demographic or economic circumstances.
 
-## 6. Statement of funding principles[^key-3ec59121f73f6ca7639359a5fa2a74ca]
+## 6. Statement of funding principles[^c-3ec59121f73f6ca7639359a5fa2a74ca]
 
 (1) A statement under section 223 of the 2004 Act must include the following matters, in addition to those specified in that section—
 
@@ -149,7 +149,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Scheme Fundi
 - (e) the policy of the trustees or managers regarding the reduction of the cash equivalent of benefits which have accrued to or in respect of members on account of the state of the funding of the scheme, and
 - (f) the intervals at which the trustees or managers will obtain actuarial valuations in accordance with section 224(1)(a) of the 2004 Act, and the circumstances in which and occasions on which they will, or will consider whether to, obtain actuarial valuations in addition to those obtained at such intervals.
 
-(2)[^key-b03070436b37939ace89f77c1d6a5b46] The first statement under section 223 of the 2004 Act in respect of a scheme must be prepared by the trustees or managers within 15 months after the effective date of the first actuarial valuation obtained by them under section 224 of that Act.
+(2)[^c-b03070436b37939ace89f77c1d6a5b46] The first statement under section 223 of the 2004 Act in respect of a scheme must be prepared by the trustees or managers within 15 months after the effective date of the first actuarial valuation obtained by them under section 224 of that Act.
 
 (3) A statement under section 223 must be reviewed, and if necessary revised—
 
@@ -158,7 +158,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Scheme Fundi
 
 (4) A statement under section 223 must specify the date on which it was prepared, or, if it has been revised, the date on which it was last revised.
 
-## 7. Actuarial valuations and reports[^key-ef3a0e711f0423077f2f92d74b2cea63]
+## 7. Actuarial valuations and reports[^c-ef3a0e711f0423077f2f92d74b2cea63]
 
 (1) In addition to the regular valuations provided for in section 224(1)(a) of the 2004 Act, the trustees or managers of a scheme must obtain an actuarial valuation where the Regulator has given directions under section 231(2)(b)(i) of that Act as to the manner in which the scheme's technical provisions are to be calculated.
 
@@ -174,19 +174,19 @@ These Regulations may be cited as the Occupational Pension Schemes (Scheme Fundi
 
 (4) An actuarial valuation must include—
 
-- (a) the actuary's certification of the calculation of the technical provisions, in the relevant form set out in Schedule 1, [^key-9db7a678c2ab7d938a73356b7b927ec3]...
-- (b) the actuary's estimate of the solvency of the scheme[^key-67acce2c2b0744ae20c60ce28bd988d2]..., and[^key-a4fb1267847394a2f8b880bbfb88a159]
+- (a) the actuary's certification of the calculation of the technical provisions, in the relevant form set out in Schedule 1, [^c-9db7a678c2ab7d938a73356b7b927ec3]...
+- (b) the actuary's estimate of the solvency of the scheme[^c-67acce2c2b0744ae20c60ce28bd988d2]..., and[^c-a4fb1267847394a2f8b880bbfb88a159]
 - (c) the actuary’s estimate of—
   - (i) the maturity of the scheme as at the effective date of the valuation,
   - (ii) the maturity of the scheme as at the relevant date, where the relevant date is different from the effective date of the valuation,
   - (iii) the date on which the scheme is expected to (or, if applicable, did) reach significant maturity, and
   - (iv) the funding level of the scheme as at the effective date of the valuation, calculated in accordance with the requirements in regulation 9(2) of the Funding and Investment Strategy Regulations (actuarial methods and assumptions for purposes of funding level) and expressed as a ratio.
 
-(4A)[^key-d652dfd210f60f36fa53106904f0e8b6] Where, for the purposes of the actuary’s estimates in paragraph (4)(c), the actuary is required to use actuarial assumptions, the actuary must use the assumptions chosen by the trustees or managers of the scheme, in accordance with the Funding and Investment Strategy Regulations, for the purposes of the determination or revision of the funding and investment strategy for which the actuarial valuation is the actuarial valuation to which the funding and investment strategy relates.
+(4A)[^c-d652dfd210f60f36fa53106904f0e8b6] Where, for the purposes of the actuary’s estimates in paragraph (4)(c), the actuary is required to use actuarial assumptions, the actuary must use the assumptions chosen by the trustees or managers of the scheme, in accordance with the Funding and Investment Strategy Regulations, for the purposes of the determination or revision of the funding and investment strategy for which the actuarial valuation is the actuarial valuation to which the funding and investment strategy relates.
 
 (5) An actuarial report must include an assessment by the actuary of changes in the value of the scheme's assets since the last actuarial valuation was prepared.
 
-(6) In paragraph (4)(b)[^key-41f03b0af26ad9518f07096c10c06a1b] , “**the actuary's estimate of the solvency of the scheme**” means—
+(6) In paragraph (4)(b)[^c-41f03b0af26ad9518f07096c10c06a1b] , “**the actuary's estimate of the solvency of the scheme**” means—
 
 - (a) except in the case referred to in sub-paragraph (b), an estimate by the actuary of whether, on the effective date of a valuation, the value of assets of the scheme to be taken into account under paragraph (1) of regulation 3 exceeded or fell short of the sum of—
   - (i) the cost of purchasing annuities, of the type described in section 74(3)(c) of the 1995 Act [^c1241968] (discharge of liabilities by purchase of annuities satisfying prescribed requirements) and on terms consistent with those in the available market, which would be sufficient to satisfy the liabilities taken into account under paragraph (2) of regulation 3, and
@@ -197,32 +197,32 @@ These Regulations may be cited as the Occupational Pension Schemes (Scheme Fundi
 
 (7) Where the actuary's estimate of solvency is made under paragraph (6)(b), the valuation must include a brief account of the principles adopted in making the estimate.
 
-(8)[^key-5435352cc4ccf114bf172a0f8b316d1b] For the purposes of paragraph (4)(c)(i) to (iii), the estimates are to be determined in accordance with the principles in regulation 4(1) to (4) of the Funding and Investment Strategy Regulations (scheme maturity).
+(8)[^c-5435352cc4ccf114bf172a0f8b316d1b] For the purposes of paragraph (4)(c)(i) to (iii), the estimates are to be determined in accordance with the principles in regulation 4(1) to (4) of the Funding and Investment Strategy Regulations (scheme maturity).
 
 (9) In paragraph (4A), “**the actuarial valuation to which the funding and investment strategy relates**” has the meaning given by regulation 2 of the Funding and Investment Strategy Regulations (interpretation).
 
 (10) Paragraphs (4)(c), (4A) and (8) apply only in relation to actuarial valuations with an effective date on or after 22nd September 2024.
 
-## 8. Recovery plan[^key-c6351e96df88424134f21a45c42b647c]
+## 8. Recovery plan[^c-c6351e96df88424134f21a45c42b647c]
 
 (1) Where section 226(1) of the 2004 Act applies, and the trustees or managers of a scheme are required, following an actuarial valuation, either to prepare a recovery plan or to review and if necessary revise an existing recovery plan, they must do so—
 
-- (a)[^key-6eeda5599f52cacbce28d25f69cb22c6] in the case of the first actuarial valuation obtained by them under section 224 of the Act and each subsequent valuation under section 224(1)(a), within 15 months after the effective date of the valuation;
+- (a)[^c-6eeda5599f52cacbce28d25f69cb22c6] in the case of the first actuarial valuation obtained by them under section 224 of the Act and each subsequent valuation under section 224(1)(a), within 15 months after the effective date of the valuation;
 - (b) in the case of a valuation under section 224(1)(b) and regulation 7(1), within whichever period is applicable under regulation 7(2)(b).
 
-(1A)[^key-dcc6e2c79ee3e2751dbd38e9c79fc344] For the purposes of section 226(3A) of the 2004 Act (principles to be followed in determining whether a recovery plan is appropriate), in determining whether a recovery plan is appropriate having regard to the nature and circumstances of the scheme, the trustees or managers must follow the principle that the period specified for the purposes of section 226(2)(b) of the 2004 Act (recovery plan: period within which steps to be taken to meet the statutory funding objective is to be achieved) must be as soon as the employer can reasonably afford.
+(1A)[^c-dcc6e2c79ee3e2751dbd38e9c79fc344] For the purposes of section 226(3A) of the 2004 Act (principles to be followed in determining whether a recovery plan is appropriate), in determining whether a recovery plan is appropriate having regard to the nature and circumstances of the scheme, the trustees or managers must follow the principle that the period specified for the purposes of section 226(2)(b) of the 2004 Act (recovery plan: period within which steps to be taken to meet the statutory funding objective is to be achieved) must be as soon as the employer can reasonably afford.
 
 (2) In preparing or revising a recovery plan, the trustees or managers must take account of the following matters—
 
 - (a) the asset and liability structure of the scheme;
 - (b) its risk profile;
 - (c) its liquidity requirements;
-- (d) the age profile of the members;[^key-1b76f0ed8e9d03484c96aade139b2ebd]
+- (d) the age profile of the members;[^c-1b76f0ed8e9d03484c96aade139b2ebd]
 - (e) in the case of a scheme under which the rates of contributions payable by the employer are determined—
   - (i) by or in accordance with the advice of a person other than the trustees or managers, and
   - (ii) without the agreement of the employer,
 
-  the recommendations of that person, and[^key-c53845d58bd79a0aa4b63e5288526120]
+  the recommendations of that person, and[^c-c53845d58bd79a0aa4b63e5288526120]
 - (f) the impact of the recovery plan on the sustainable growth of the employer
 
 (3) A recovery plan must be reviewed, and if necessary revised, where the Regulator has given directions under section 231(2)(b)(ii) of the 2004 Act as to the period within which, and manner in which, a failure to meet the statutory funding objective is to be remedied.
@@ -238,15 +238,15 @@ These Regulations may be cited as the Occupational Pension Schemes (Scheme Fundi
 - (a) in a case where the plan has been prepared or revised following an actuarial valuation, by a summary of the information contained in the valuation, and
 - (b) in a case where the plan has been revised in the circumstances described in paragraph (5), by an explanation of the reasons for the revision.
 
-(7A)[^key-e2519f55a99da7a4aee77cb4cc5642e2] The requirement in paragraph (7)(a) does not apply where the effective date of the actuarial valuation to which the recovery plan relates is on or after 22nd September 2024.
+(7A)[^c-e2519f55a99da7a4aee77cb4cc5642e2] The requirement in paragraph (7)(a) does not apply where the effective date of the actuarial valuation to which the recovery plan relates is on or after 22nd September 2024.
 
 (7B) Paragraphs (1A) and (2)(f) apply only in relation to recovery plans where the effective date of the actuarial valuation to which the recovery plan relates is on or after 22nd September 2024.
 
-(8)[^key-e9a18867dd82fe4508755e5f6bf68723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-e9a18867dd82fe4508755e5f6bf68723] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Schedule of contributions[^key-4f08eff7441cc96844ec378af2e92a08]
+## 9. Schedule of contributions[^c-4f08eff7441cc96844ec378af2e92a08]
 
-(1)[^key-722ae4b826ad3b391db88ad5e3d0699c] A schedule of contributions for a scheme must be prepared within 15 months after the effective date of the first actuarial valuation following the establishment of the scheme.
+(1)[^c-722ae4b826ad3b391db88ad5e3d0699c] A schedule of contributions for a scheme must be prepared within 15 months after the effective date of the first actuarial valuation following the establishment of the scheme.
 
 (2) Where a schedule of contributions has been prepared, it must be reviewed, and if necessary revised—
 
@@ -254,7 +254,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Scheme Fundi
 - (b) within whichever period is applicable under regulation 7(2)(b) after any valuation under section 224(1)(b) and regulation 7(1), and
 - (c) within a reasonable period after any revision of a recovery plan under regulation 8(3) or (5).
 
-## 10. Content and certification of schedules of contributions[^key-a5f77d43ab74f01c214b1ea8e724d8db]
+## 10. Content and certification of schedules of contributions[^c-a5f77d43ab74f01c214b1ea8e724d8db]
 
 (1) A schedule of contributions must show the rates and due dates of all contributions (other than voluntary contributions) payable towards the scheme by or on behalf of the employer and the active members during the relevant period.
 
@@ -296,7 +296,7 @@ The trustees or managers of a scheme are not required to give notice, under sect
 - (a) section 49(9)(b) of the 1995 Act [^c1241969] (failure to remit deductions from members' earnings), or
 - (b) section 30(7)(c) of the 2004 Act (failure to pay employer's contributions in accordance with Regulator's order).
 
-## 13. Period for obtaining employer's agreement[^key-cbf6706807979faff8e855721e8c216f]
+## 13. Period for obtaining employer's agreement[^c-cbf6706807979faff8e855721e8c216f]
 
 Where, following an actuarial valuation, the trustees or managers of a scheme are required under section 229(1) of the 2004 Act to obtain the agreement of the employer to any of the matters mentioned in paragraphs (a) to (d) of that provision, they must do so within 15 months after the effective date of the valuation.
 
@@ -306,9 +306,9 @@ Where, following an actuarial valuation, the trustees or managers of a scheme ar
 
 (2) In exercising the power in section 231(2)(b)(i) to give directions as to the manner in which a scheme's technical provisions are to be calculated, the Regulator must include a direction specifying the effective date by reference to which assets are valued and the amount of liabilities is determined.
 
-## 15. Guidance relating to actuarial advice[^key-ca809ecad1a58798c0f2368eb774f388]
+## 15. Guidance relating to actuarial advice[^c-ca809ecad1a58798c0f2368eb774f388]
 
-When advising the trustees or managers of a scheme on any of the matters specified in section 230(1) of the 2004 Act, the actuary shall have regard to any guidance or standards adopted or prepared, and from time to time revised, by the Financial Reporting Council Limited[^key-1b73789dccdaa6cb950172266da66267] which are relevant to the matters specified in that section.
+When advising the trustees or managers of a scheme on any of the matters specified in section 230(1) of the 2004 Act, the actuary shall have regard to any guidance or standards adopted or prepared, and from time to time revised, by the Financial Reporting Council Limited[^c-1b73789dccdaa6cb950172266da66267] which are relevant to the matters specified in that section.
 
 ## 16. Modification of shared cost schemes
 
@@ -334,7 +334,7 @@ When advising the trustees or managers of a scheme on any of the matters specifi
 - (a) voluntary contributions by members and any associated contributions by the employer, and
 - (b) any temporary suspension of the liability to make contributions, or alteration in the proportions in which the contributions are payable, under any provision of the scheme allowing such a suspension or alteration in any circumstances.
 
-## 17. Exemptions - general[^key-088ffa061cccb4e015143f4c02a7b156]
+## 17. Exemptions - general[^c-088ffa061cccb4e015143f4c02a7b156]
 
 (1) Part 3 of the 2004 Act does not apply to—
 
@@ -343,27 +343,27 @@ When advising the trustees or managers of a scheme on any of the matters specifi
   - (ii) is guaranteed by a public authority;
 - (b) a pay-as-you-go scheme;
 - (c) a scheme which is made under section 2 of the Parliamentary and other Pensions Act 1987 [^c1241971] (power to provide for pensions for Members of the House of Commons etc.);
-- (ca)[^key-cf5dac28de1225acf0ea2c9b6909ee04] a scheme, provision for which is made by virtue of section 81(3) of the Scotland Act 1998 (remuneration of members of the Parliament and Executive);
-- (d)[^key-bc392471deb1b6cd4d723bb9282d4355] a scheme which is treated as such by virtue of paragraph 4 or 5 of Schedule 2 to these Regulations and applies to members in employment outside the United Kingdom;
+- (ca)[^c-cf5dac28de1225acf0ea2c9b6909ee04] a scheme, provision for which is made by virtue of section 81(3) of the Scotland Act 1998 (remuneration of members of the Parliament and Executive);
+- (d)[^c-bc392471deb1b6cd4d723bb9282d4355] a scheme which is treated as such by virtue of paragraph 4 or 5 of Schedule 2 to these Regulations and applies to members in employment outside the United Kingdom;
 - (e) a scheme which—
   - (i) provides relevant benefits;
   - (ii) is neither a relevant statutory scheme nor a tax approved scheme, or, from 6th April 2006, is not a tax registered scheme, and
   - (iii) has fewer than 100 members;
 - (f) a section 615(6) scheme which has fewer than 100 members;
 - (g) a scheme which has fewer than two members;
-- (h) a scheme with[^key-3071affed978dbf25f7d85a5254426b9] fewer than 12 members, where all the members are trustees of the scheme and either—
-  - (i) the provisions of the scheme provide that any decision made by the trustees is[^key-db4ee70d2d49f4a5db1526ca42d577b9] made by the unanimous agreement of the trustees who are members of the scheme, or
-  - (ii) the scheme has a trustee who is independent[^key-b75c6937cc47124f79c9408160e25bed] in relation to the scheme for the purposes of section 23 of the 1995 Act [^c1241972] (power to appoint independent trustees) and is registered in the register maintained by the Authority in accordance with regulations made under subsection (4) of that section;
-- (i) a scheme with[^key-ff3994e0dca3d27bc634b2caadfc0b50] fewer than 12 members, where a company is the sole trustee[^key-897ab149f6e585decdfae9086dd5035e] of the scheme and all the members of the scheme are directors of the company and either—
-  - (i) the provisions of the scheme provide that any decision made by the company in its capacity as trustee is made by the unanimous agreement[^key-129718550fd73a129d697728fc175587] of the directors who are members of the scheme, or
-  - (ii) one of the directors of the company[^key-8a8092e535b8e217d1403adee7604fb4] is independent in relation to the scheme for the purposes of section 23 of the 1995 Act and is registered in the register maintained by the Authority in accordance with regulations made under subsection (4) of that section;
+- (h) a scheme with[^c-3071affed978dbf25f7d85a5254426b9] fewer than 12 members, where all the members are trustees of the scheme and either—
+  - (i) the provisions of the scheme provide that any decision made by the trustees is[^c-db4ee70d2d49f4a5db1526ca42d577b9] made by the unanimous agreement of the trustees who are members of the scheme, or
+  - (ii) the scheme has a trustee who is independent[^c-b75c6937cc47124f79c9408160e25bed] in relation to the scheme for the purposes of section 23 of the 1995 Act [^c1241972] (power to appoint independent trustees) and is registered in the register maintained by the Authority in accordance with regulations made under subsection (4) of that section;
+- (i) a scheme with[^c-ff3994e0dca3d27bc634b2caadfc0b50] fewer than 12 members, where a company is the sole trustee[^c-897ab149f6e585decdfae9086dd5035e] of the scheme and all the members of the scheme are directors of the company and either—
+  - (i) the provisions of the scheme provide that any decision made by the company in its capacity as trustee is made by the unanimous agreement[^c-129718550fd73a129d697728fc175587] of the directors who are members of the scheme, or
+  - (ii) one of the directors of the company[^c-8a8092e535b8e217d1403adee7604fb4] is independent in relation to the scheme for the purposes of section 23 of the 1995 Act and is registered in the register maintained by the Authority in accordance with regulations made under subsection (4) of that section;
 - (j) a scheme under which the only benefits provided for (other than money purchase benefits) are death benefits, if the death benefits are secured by insurance policies or annuity contracts;
 - (k) a scheme which is the subject of a scheme failure notice under section 122 or 130 of the 2004 Act;
-- (l) subject to paragraph (1A) and regulation 18[^key-0ed5c12379eb17495e4d0c987599667b], a scheme or a section of a scheme[^key-0361e7033fbc125201324635280d046b] which is being wound up, [^key-8887e19bb505f78a29276f7a9cdcdab3]...
-- (m) the Chatsworth Settlement Estate Pension Scheme , or[^key-cda4b88ab337e6b6c506fb7db1003e13]
-- (n)[^key-da04d48d11bc75b17c9b7c061e266ca7] a scheme or a section of a scheme which is a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021.
+- (l) subject to paragraph (1A) and regulation 18[^c-0ed5c12379eb17495e4d0c987599667b], a scheme or a section of a scheme[^c-0361e7033fbc125201324635280d046b] which is being wound up, [^c-8887e19bb505f78a29276f7a9cdcdab3]...
+- (m) the Chatsworth Settlement Estate Pension Scheme , or[^c-cda4b88ab337e6b6c506fb7db1003e13]
+- (n)[^c-da04d48d11bc75b17c9b7c061e266ca7] a scheme or a section of a scheme which is a collective money purchase scheme for the purposes of Part 1 of the Pension Schemes Act 2021.
 
-(1A)[^key-eb1f0ec6ce6c7a4015d6458ba1bf425e] Section 231A of the 2004 Act applies to a scheme where—
+(1A)[^c-eb1f0ec6ce6c7a4015d6458ba1bf425e] Section 231A of the 2004 Act applies to a scheme where—
 
 - (a) a recovery plan has been prepared under section 226 of the 2004 Act, and
 - (b) the scheme begins to wind up during the recovery period.
@@ -381,11 +381,11 @@ When advising the trustees or managers of a scheme on any of the matters specifi
 - “**relevant benefits**” has the meaning given in section 612(1) of the Income and Corporation Taxes Act 1988 [^c1241974] (interpretation) or, from 6th April 2006, section 393B of the Income Tax (Earnings and Pensions) Act 2003 [^c1241975] (relevant benefits);
 - “**relevant statutory scheme**” has the meaning given in section 611A(1) of the Income and Corporation Taxes Act 1988 [^c1241976] (definition of relevant statutory scheme);
 - “**section 615(6) scheme**” means a scheme with such a superannuation fund as is mentioned in section 615(6) of the Income and Corporation Taxes Act 1988 [^c1241977] (funds for the provision of benefits in respect of employment outside the United Kingdom);
-- “a section of a scheme” means a section of a multi-employer scheme where a specified part or proportion of the assets of the scheme is attributable to that section and cannot be used for the purposes of any other section of the scheme;[^key-5a9088e604169e767a2a46dca7f0d63e]
+- “a section of a scheme” means a section of a multi-employer scheme where a specified part or proportion of the assets of the scheme is attributable to that section and cannot be used for the purposes of any other section of the scheme;[^c-5a9088e604169e767a2a46dca7f0d63e]
 - “**a tax approved scheme**” means a scheme which is approved or was formerly approved under section 590 or 591 of the Income and Corporation Taxes Act 1988 [^c1241978] (approval of retirement benefit schemes) or in respect of which an application for such approval has been duly made but has not been determined;
 - “**a tax registered scheme**” means a scheme which is, or is treated as, registered under Chapter 2 of Part 4 of the Finance Act 2004 (registration of pension schemes).
 
-(2A)[^key-487143fff5ceada866cc5a986c18d069] In paragraph (1A) “recovery period” means the period specified in the scheme’s recovery plan in accordance with section 226(2)(b) of the 2004 Act;
+(2A)[^c-487143fff5ceada866cc5a986c18d069] In paragraph (1A) “recovery period” means the period specified in the scheme’s recovery plan in accordance with section 226(2)(b) of the 2004 Act;
 
 (3) In paragraph (2), “**local authority**” means—
 
@@ -396,7 +396,7 @@ When advising the trustees or managers of a scheme on any of the matters specifi
 
 (4) Where Part 3 of the 2004 Act ceases to apply to a scheme to which it previously applied, because the scheme satisfies any of the criteria for exemption in paragraph (1), that does not affect any rights or obligations arising before Part 3 ceased to apply.
 
-## 18. Exemption connected with winding up[^key-bed2d49105140b094f02c7c07de17a99]
+## 18. Exemption connected with winding up[^c-bed2d49105140b094f02c7c07de17a99]
 
 (1) Where the winding up of a scheme begins on or after the commencement date, the exemption provided for in regulation 17(1)(l) is subject to the condition set out in paragraph (2).
 
@@ -460,7 +460,7 @@ Regulation 19
 - (a) a scheme in relation to which there is more than one employer is divided into two or more sections, and
 - (b) the provisions of the scheme are such that they meet conditions A and B,
 
-Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-30ffcb1c8e792945b60d081dde366ea6] and these Regulations shall apply as if each section of the scheme were a separate scheme.
+Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^c-30ffcb1c8e792945b60d081dde366ea6] and these Regulations shall apply as if each section of the scheme were a separate scheme.
 
 (2) Condition A is that contributions payable to the scheme by an employer, or by a member in employment under that employer, are allocated to that employer's section (or, if more than one section applies to the employer, to the section which is appropriate in respect of the employment in question).
 
@@ -473,11 +473,11 @@ Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-30
 - (c) the provisions of which have not been amended so as to prevent conditions A and B being met in relation to two or more sections, and
 - (d) in relation to one or more sections of which those conditions have ceased to be met at any time by reason only of there being no members in pensionable service under the section and no contributions which are to be allocated to it,
 
-Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-e14c38fcaf1f5c5aa748fd32365eca34] and these Regulations apply as if the section in relation to which those conditions have ceased to be satisfied were a separate scheme.
+Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^c-e14c38fcaf1f5c5aa748fd32365eca34] and these Regulations apply as if the section in relation to which those conditions have ceased to be satisfied were a separate scheme.
 
 (5) For the purposes of sub-paragraphs (1) to (4), any provisions of the scheme by virtue of which contributions or transfers of assets may be made to make provision for death benefits are disregarded.
 
-(6) But if sub-paragraph (1) or (4) applies and, by virtue of any provisions of the scheme, contributions or transfers of assets to make provision for death benefits are made to a section (“**the death benefits section**”) the assets of which may only be applied for the provision of death benefits, the death benefits section is also to be treated as if it were a seperate scheme for the purpose of Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-67eb30c823c2003d034865c90383527c] and these Regulations.
+(6) But if sub-paragraph (1) or (4) applies and, by virtue of any provisions of the scheme, contributions or transfers of assets to make provision for death benefits are made to a section (“**the death benefits section**”) the assets of which may only be applied for the provision of death benefits, the death benefits section is also to be treated as if it were a seperate scheme for the purpose of Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^c-67eb30c823c2003d034865c90383527c] and these Regulations.
 
 (7) For the purpose of this paragraph, any provisions of a scheme by virtue of which assets attributable to one section may on the winding up of the scheme or a section be used for the purposes of another section are disregarded.
 
@@ -493,11 +493,11 @@ Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-e1
 
 ### Frozen or paid-up schemes
 
-**3.**[^key-3670ddb632e54f2d1b0fcbbb317c1f15] (1) In the application of Part 3 of the 2004 Act and these Regulations to a scheme which has no active members, references to the employer have effect as if they were references to the person who was the employer immediately before the occurrence of the event after which the scheme ceased to have any active members (“the freezing event”).
+**3.**[^c-3670ddb632e54f2d1b0fcbbb317c1f15] (1) In the application of Part 3 of the 2004 Act and these Regulations to a scheme which has no active members, references to the employer have effect as if they were references to the person who was the employer immediately before the occurrence of the event after which the scheme ceased to have any active members (“the freezing event”).
 
-(2) A person shall cease to be treated as an employer under sub-paragraph (1)[^key-11f49e47a7b906079d8716f79421744e] if after the freezing event he ceases to be treated as a former employer under regulation 9 of the Occupational Pension Schemes (Employer Debt) Regulations 2005.
+(2) A person shall cease to be treated as an employer under sub-paragraph (1)[^c-11f49e47a7b906079d8716f79421744e] if after the freezing event he ceases to be treated as a former employer under regulation 9 of the Occupational Pension Schemes (Employer Debt) Regulations 2005.
 
-### Employers in periods of grace[^key-f7889e0368b07d4fb90bcbd4b6a0e0f1]
+### Employers in periods of grace[^c-f7889e0368b07d4fb90bcbd4b6a0e0f1]
 
 **3A.** (1) This paragraph applies where an employer is treated under regulation 6A(1) of the Occupational Pension Schemes (Employer Debt) Regulations 2005 (employment-cessation events: periods of grace) as if it employed at least one person who is an active member of a scheme.
 
@@ -505,7 +505,7 @@ Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-e1
 
 (3) This paragraph ceases to apply where the period of grace referred to in regulation 6A of the Occupational Pension Schemes (Employer Debt) Regulations 2005 in respect of the employer comes to an end in accordance with that regulation.
 
-### Period of grace followed by a deferred debt arrangement[^key-9e24ed932440aacc92acea3b67d43e08]
+### Period of grace followed by a deferred debt arrangement[^c-9e24ed932440aacc92acea3b67d43e08]
 
 **3B.** (1) This paragraph applies where an employer is treated under regulation 6A(1) of the Occupational Pension Schemes (Employer Debt) Regulations 2005 (employment-cessation events: periods of grace) as if it employed at least one person who is an active member of a scheme.
 
@@ -530,16 +530,16 @@ Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-e1
 (2) The first case referred to in sub-paragraph (1) is where a scheme—
 
 - (a) has its main administration in the United Kingdom;
-- (b) applies to members in employment in the United Kingdom[^key-76477b33c4ac4887d5344a883b5bbc73] and members in employment outside the United Kingdom;
+- (b) applies to members in employment in the United Kingdom[^c-76477b33c4ac4887d5344a883b5bbc73] and members in employment outside the United Kingdom;
 - (c) is divided into two or more sections, and
 - (d) makes provision whereby—
-  - (i) different sections of the scheme apply to members in employment in the United Kingdom[^key-40666394c060917284ab8b056c17e5ce] and to members in employment outside the United Kingdom;
+  - (i) different sections of the scheme apply to members in employment in the United Kingdom[^c-40666394c060917284ab8b056c17e5ce] and to members in employment outside the United Kingdom;
   - (ii) contributions payable to the scheme in respect of a member are allocated to the section applying to that member's employment, and
   - (iii) a specified part or proportion of the assets of the scheme is attributable to each section and cannot be used for the purposes of any other section.
 
 (3) The second case referred to in sub-paragraph (1) is where a scheme—
 
-- (a) has its main administration outside the United Kingdom[^key-7e9925736d6de8c8e36912880a7ccde0];
+- (a) has its main administration outside the United Kingdom[^c-7e9925736d6de8c8e36912880a7ccde0];
 - (b) applies to members in employment in the United Kingdom and members in employment outside the United Kingdom;
 - (c) is divided into two or more sections, and
 - (d) makes provision whereby—
@@ -547,7 +547,7 @@ Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-e1
   - (ii) contributions payable to the scheme in respect of a member are allocated to the section applying to that member's employment, and
   - (iii) a specified part or proportion of the assets of the scheme is attributable to each section and cannot be used for the purposes of any other section.
 
-(4) Where this paragraph applies, Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-b204772e2645f91b8f3245be7a5d3356] and these Regulations shall apply as if each section of the scheme were a separate scheme.
+(4) Where this paragraph applies, Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^c-b204772e2645f91b8f3245be7a5d3356] and these Regulations shall apply as if each section of the scheme were a separate scheme.
 
 **5.** (1) This paragraph applies in the case described in sub-paragraph (2).
 
@@ -558,15 +558,15 @@ Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-e1
 
 and part of the scheme is or was treated as a separate scheme under section 611(3) of the Income and Corporation Taxes Act 1988 [^c1241985].
 
-(3) Where this paragraph applies, Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-a9faa6cac7484fc03cff56d2553d9b5d] and these Regulations shall apply as if the separated parts of the scheme were separate schemes.
+(3) Where this paragraph applies, Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^c-a9faa6cac7484fc03cff56d2553d9b5d] and these Regulations shall apply as if the separated parts of the scheme were separate schemes.
 
 ### Schemes undertaking cross-border activities
 
-**6.**[^key-0a223228ace6191593523557e7515227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-0a223228ace6191593523557e7515227] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Schemes with a partial guarantee by a public authority
 
-**7.** Where such a guarantee has been given as is mentioned in regulation 17(1)(a)(ii) in respect of only part of a scheme, Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-ab3b08e8da6773ca8194a6dde592cfde] and these Regulations shall apply as if that part and the other part of the scheme were separate schemes.
+**7.** Where such a guarantee has been given as is mentioned in regulation 17(1)(a)(ii) in respect of only part of a scheme, Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^c-ab3b08e8da6773ca8194a6dde592cfde] and these Regulations shall apply as if that part and the other part of the scheme were separate schemes.
 
 ### Schemes relating to certain defence contractors
 
@@ -602,17 +602,17 @@ section 229 of the 2004 Act and regulation 13 shall apply as if they were subjec
 
 (4) Where the power of the trustees or managers to determine the rates of contributions payable by the employer without the employer's agreement is subject to conditions, the modifications provided for in sub-paragraphs (2) and (3) have effect only in circumstances where the conditions are satisfied.
 
-(5) In the case of a scheme under which any of[^key-cedf4344905b735ceeea8cdebea8eb94] the rates of contributions payable by the employer are determined by the actuary without the agreement of the employer, section 227(6) of the 2004 Act shall apply as if it required that, in addition to the matters specified there, the actuary's certificate must state that any such rates forming part of[^key-88cfcbcd342a15473fb501c1a69dc48f] the schedule of contributions are not lower than the rates he would have provided for if he, rather than the trustees or managers of the scheme, had the responsibility of preparing or revising the schedule, the statement of funding principles and any recovery plan.
+(5) In the case of a scheme under which any of[^c-cedf4344905b735ceeea8cdebea8eb94] the rates of contributions payable by the employer are determined by the actuary without the agreement of the employer, section 227(6) of the 2004 Act shall apply as if it required that, in addition to the matters specified there, the actuary's certificate must state that any such rates forming part of[^c-88cfcbcd342a15473fb501c1a69dc48f] the schedule of contributions are not lower than the rates he would have provided for if he, rather than the trustees or managers of the scheme, had the responsibility of preparing or revising the schedule, the statement of funding principles and any recovery plan.
 
-(6) In the case to which sub-paragraph (5) applies, regulation 10(6) and Schedule 1 apply as if the form of certification of the adequacy of the rates of contributions shown in the schedule of contributions included an additional statement that— “ I also certify that any rates of contributions forming part of this schedule which the scheme requires me to determine[^key-61ae8ee99ccf4861a8172e15b0becbb0] are not lower than I would have provided for had I had responsibility for preparing or revising the schedule, the statement of funding principles and any recovery plan ”.
+(6) In the case to which sub-paragraph (5) applies, regulation 10(6) and Schedule 1 apply as if the form of certification of the adequacy of the rates of contributions shown in the schedule of contributions included an additional statement that— “ I also certify that any rates of contributions forming part of this schedule which the scheme requires me to determine[^c-61ae8ee99ccf4861a8172e15b0becbb0] are not lower than I would have provided for had I had responsibility for preparing or revising the schedule, the statement of funding principles and any recovery plan ”.
 
-(7) Where the power of the actuary to determine any of[^key-b7b4f160d92bbc31754a3d7c069aef48] the rates of contributions payable by the employer without the employer's agreement is subject to conditions, the modifications provided for in sub-paragraphs (5) and (6) have effect only in circumstances where the conditions are satisfied.
+(7) Where the power of the actuary to determine any of[^c-b7b4f160d92bbc31754a3d7c069aef48] the rates of contributions payable by the employer without the employer's agreement is subject to conditions, the modifications provided for in sub-paragraphs (5) and (6) have effect only in circumstances where the conditions are satisfied.
 
 (8) In the case of a scheme to which paragraph 8 applies, the references to the employer's agreement in sub-paragraphs (4), (5) and (7) of this paragraph shall be read as if the extended meaning of “employer” given by paragraph 8(2) applied.
 
 ### Schemes which are not required to appoint an actuary
 
-**10.** Where a scheme is exempt from the application of section 47(1)(b) of the 1995 Act (requirement to appoint a scheme actuary) by virtue of regulations made under subsection (5) of that section, Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^key-2107dd397f4af01022a679edcfbdc3d6] and these Regulations shall apply as if references to the actuary were to an actuary authorised by the trustees or managers to provide such valuations and certifications as may be required under that Part and these Regulations.
+**10.** Where a scheme is exempt from the application of section 47(1)(b) of the 1995 Act (requirement to appoint a scheme actuary) by virtue of regulations made under subsection (5) of that section, Part 3 of the 2004 Act , the Funding and Investment Strategy Regulations[^c-2107dd397f4af01022a679edcfbdc3d6] and these Regulations shall apply as if references to the actuary were to an actuary authorised by the trustees or managers to provide such valuations and certifications as may be required under that Part and these Regulations.
 
 ### Schemes with fewer than 100 members
 
@@ -703,9 +703,9 @@ Regulation 20(1)
 
 ### Occupational Pension Schemes (Disclosure of Information) Regulations 1996
 
-**2.**[^key-0ae369b5b9f3f59f1107e9186ced5f40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-0ae369b5b9f3f59f1107e9186ced5f40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-0ae369b5b9f3f59f1107e9186ced5f40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-0ae369b5b9f3f59f1107e9186ced5f40] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Occupational Pension Schemes (Scheme Administration) Regulations 1996
 
@@ -928,9 +928,9 @@ Regulation 20(2)
 - (a) immediately before the commencement date, the trustees or managers were required under section 57(2)(a) of the 1995 Act to obtain an actuarial valuation by virtue of a certificate in the terms set out in that provision, or
 - (b) on or after the commencement date, the trustees or managers receive a certificate in the terms set out in section 57(2)(a) of the 1995 Act in consequence of the requirements saved by paragraph 15 of this Schedule,
 
-[^key-431cf089b1713ce8ebd9fe6f17e12c51]...
+[^c-431cf089b1713ce8ebd9fe6f17e12c51]...
 
-(5) Where this sub-paragraph applies, the trustees or managers must obtain the first valuation under the 2004 Act by reference to an effective date which is no earlier than 22nd September 2005 and not more than three years after the effective date of the last valuation they received under the 1995 Act.[^key-80cd0941726a89ea716f0cde4a3322f1]
+(5) Where this sub-paragraph applies, the trustees or managers must obtain the first valuation under the 2004 Act by reference to an effective date which is no earlier than 22nd September 2005 and not more than three years after the effective date of the last valuation they received under the 1995 Act.[^c-80cd0941726a89ea716f0cde4a3322f1]
 
 (6) Subject to sub-paragraph (8), sub-paragraph (7) applies where—
 
@@ -1069,9 +1069,9 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^c1241964]: Marginal citation: [1993 c. 48](https://www.legislation.gov.uk/ukpga/1993/48).
 
-[^key-c88f68887a147afa33cc42bd32e60cde]: Textual amendment: Words in reg. 2(1) omitted (9.8.2012) by virtue of [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/8/a)
+[^c-c88f68887a147afa33cc42bd32e60cde]: Textual amendment: Words in reg. 2(1) omitted (9.8.2012) by virtue of [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 8(a)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/8/a)
 
-[^key-4be947a2023c3bd9115d118425824925]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/2/1) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/2)
+[^c-4be947a2023c3bd9115d118425824925]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/2/1) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(2)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/2)
 
 [^c1241965]: Marginal citation: The definition of “pension credit rights” was inserted into section 124(1) of the 1995 Act by paragraph 61(3) of Schedule 12 to the [Welfare Reform and Pensions Act 1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30).
 
@@ -1079,89 +1079,89 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^c1241967]: Marginal citation: [Section 75](https://www.legislation.gov.uk/uksi/2005/3377/section/75) was amended by section 271 of the Pensions Act 2004.
 
-[^key-3ec59121f73f6ca7639359a5fa2a74ca]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/3377/regulation/6) modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/a)
+[^c-3ec59121f73f6ca7639359a5fa2a74ca]: Modification: [Reg. 6](https://www.legislation.gov.uk/uksi/2005/3377/regulation/6) modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/a)
 
-[^key-b03070436b37939ace89f77c1d6a5b46]: Modification: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/6/2) modified (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [66(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/66/2) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c 19 - see S.I. 2014/1683, art. 2
+[^c-b03070436b37939ace89f77c1d6a5b46]: Modification: [Reg. 6(2)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/6/2) modified (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [66(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/66/2) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c 19 - see S.I. 2014/1683, art. 2
 
-[^key-ef3a0e711f0423077f2f92d74b2cea63]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7) modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/a)
+[^c-ef3a0e711f0423077f2f92d74b2cea63]: Modification: [Reg. 7](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7) modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/a)
 
-[^key-9db7a678c2ab7d938a73356b7b927ec3]: Textual amendment: Word in [reg. 7(4)(a)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7/4/a) omitted (6.4.2024) by virtue of [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/3/a/i)
+[^c-9db7a678c2ab7d938a73356b7b927ec3]: Textual amendment: Word in [reg. 7(4)(a)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7/4/a) omitted (6.4.2024) by virtue of [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(3)(a)(i)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/3/a/i)
 
-[^key-67acce2c2b0744ae20c60ce28bd988d2]: Textual amendment: [Reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7/4/b) full stop omitted (6.4.2024) by virtue of [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/3/a/ii)
+[^c-67acce2c2b0744ae20c60ce28bd988d2]: Textual amendment: [Reg. 7(4)(b)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7/4/b) full stop omitted (6.4.2024) by virtue of [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/3/a/ii)
 
-[^key-a4fb1267847394a2f8b880bbfb88a159]: Textual amendment: [Reg. 7(4)(c)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7/4/c) and word inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/3/a/ii)
+[^c-a4fb1267847394a2f8b880bbfb88a159]: Textual amendment: [Reg. 7(4)(c)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7/4/c) and word inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/3/a/ii)
 
-[^key-d652dfd210f60f36fa53106904f0e8b6]: Textual amendment: [Reg. 7(4A)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7/4A) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(3)(b)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/3/b)
+[^c-d652dfd210f60f36fa53106904f0e8b6]: Textual amendment: [Reg. 7(4A)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7/4A) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(3)(b)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/3/b)
 
-[^key-41f03b0af26ad9518f07096c10c06a1b]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7/6) substituted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(3)(c)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/3/c)
+[^c-41f03b0af26ad9518f07096c10c06a1b]: Textual amendment: Words in [reg. 7(6)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7/6) substituted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(3)(c)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/3/c)
 
 [^c1241968]: Marginal citation: [Section 74(3)(c)](https://www.legislation.gov.uk/uksi/2005/3377/section/74/3/c) was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
-[^key-5435352cc4ccf114bf172a0f8b316d1b]: Textual amendment: [Reg. 7(8)-(10)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7/8) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(3)(d)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/3/d)
+[^c-5435352cc4ccf114bf172a0f8b316d1b]: Textual amendment: [Reg. 7(8)-(10)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/7/8) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(3)(d)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/3/d)
 
-[^key-c6351e96df88424134f21a45c42b647c]: Modification: Reg. 8 modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/b)
+[^c-c6351e96df88424134f21a45c42b647c]: Modification: Reg. 8 modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(b)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/b)
 
-[^key-6eeda5599f52cacbce28d25f69cb22c6]: Modification: [Reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/1/a) modified (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [66(3)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/66/3) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c 19 - see S.I. 2014/1683, art. 2
+[^c-6eeda5599f52cacbce28d25f69cb22c6]: Modification: [Reg. 8(1)(a)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/1/a) modified (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [66(3)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/66/3) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c 19 - see S.I. 2014/1683, art. 2
 
-[^key-dcc6e2c79ee3e2751dbd38e9c79fc344]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/1A) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(4)(a)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/4/a)
+[^c-dcc6e2c79ee3e2751dbd38e9c79fc344]: Textual amendment: [Reg. 8(1A)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/1A) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(4)(a)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/4/a)
 
-[^key-1b76f0ed8e9d03484c96aade139b2ebd]: Textual amendment: [Reg. 8(2)(d)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/2/d) substituted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/4/b/i)
+[^c-1b76f0ed8e9d03484c96aade139b2ebd]: Textual amendment: [Reg. 8(2)(d)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/2/d) substituted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(4)(b)(i)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/4/b/i)
 
-[^key-c53845d58bd79a0aa4b63e5288526120]: Textual amendment: [Reg. 8(2)(f)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/2/f) and word inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/4/b/ii)
+[^c-c53845d58bd79a0aa4b63e5288526120]: Textual amendment: [Reg. 8(2)(f)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/2/f) and word inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/4/b/ii)
 
-[^key-e2519f55a99da7a4aee77cb4cc5642e2]: Textual amendment: [Reg. 8(7A)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/7A)[(7B)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/7B) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(4)(c)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/4/c)
+[^c-e2519f55a99da7a4aee77cb4cc5642e2]: Textual amendment: [Reg. 8(7A)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/7A)[(7B)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/7B) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(4)(c)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/4/c)
 
-[^key-e9a18867dd82fe4508755e5f6bf68723]: Textual amendment: [Reg. 8(8)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/8) omitted (24.7.2006) by virtue of [Occupational Pension Schemes (Winding up Procedure Requirement) Regulations 2006 (S.I. 2006/1733)](https://www.legislation.gov.uk/uksi/2006/1733), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1733/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2006/1733/regulation/5/2)
+[^c-e9a18867dd82fe4508755e5f6bf68723]: Textual amendment: [Reg. 8(8)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/8/8) omitted (24.7.2006) by virtue of [Occupational Pension Schemes (Winding up Procedure Requirement) Regulations 2006 (S.I. 2006/1733)](https://www.legislation.gov.uk/uksi/2006/1733), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1733/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2006/1733/regulation/5/2)
 
-[^key-4f08eff7441cc96844ec378af2e92a08]: Modification: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/3377/regulation/9) modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/a)
+[^c-4f08eff7441cc96844ec378af2e92a08]: Modification: [Reg. 9](https://www.legislation.gov.uk/uksi/2005/3377/regulation/9) modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/a)
 
-[^key-722ae4b826ad3b391db88ad5e3d0699c]: Modification: [Reg. 9(1)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/9/1) modified (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [66(4)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/66/4) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c 19 - see S.I. 2014/1683, art. 2
+[^c-722ae4b826ad3b391db88ad5e3d0699c]: Modification: [Reg. 9(1)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/9/1) modified (24.7.2014) by [The Pensions Act 2011 (Transitional, Consequential and Supplementary Provisions) Regulations 2014 (S.I. 2014/1711)](https://www.legislation.gov.uk/uksi/2014/1711), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/1/1), [66(4)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/66/4) (with [regs. 6](https://www.legislation.gov.uk/uksi/2014/1711/regulation/6), [41](https://www.legislation.gov.uk/uksi/2014/1711/regulation/41), [44(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/44/1), [47(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/47/1), [69(2)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/69/2), [72(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/72/1), [76(1)](https://www.legislation.gov.uk/uksi/2014/1711/regulation/76/1)); coming into force immediately after s. 29 of 2011 c 19 - see S.I. 2014/1683, art. 2
 
-[^key-a5f77d43ab74f01c214b1ea8e724d8db]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/3377/regulation/10) modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/c/i)
+[^c-a5f77d43ab74f01c214b1ea8e724d8db]: Modification: [Reg. 10](https://www.legislation.gov.uk/uksi/2005/3377/regulation/10) modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(c)(i)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/c/i)
 
 [^c1241969]: Marginal citation: [Section 49(9)(b)](https://www.legislation.gov.uk/uksi/2005/3377/section/49/9/b) of the 1995 Act was inserted by section 10(1) of the Welfare Reform and Pensions Act 1999.
 
-[^key-cbf6706807979faff8e855721e8c216f]: Modification: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/3377/regulation/13) modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/a)
+[^c-cbf6706807979faff8e855721e8c216f]: Modification: [Reg. 13](https://www.legislation.gov.uk/uksi/2005/3377/regulation/13) modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(a)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/a)
 
-[^key-ca809ecad1a58798c0f2368eb774f388]: Textual amendment: Reg. 15 substituted (6.4.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/499)](https://www.legislation.gov.uk/uksi/2010/499), [regs. 1](https://www.legislation.gov.uk/uksi/2010/499/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2010/499/regulation/6/2)
+[^c-ca809ecad1a58798c0f2368eb774f388]: Textual amendment: Reg. 15 substituted (6.4.2010) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/499)](https://www.legislation.gov.uk/uksi/2010/499), [regs. 1](https://www.legislation.gov.uk/uksi/2010/499/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2010/499/regulation/6/2)
 
-[^key-1b73789dccdaa6cb950172266da66267]: Textual amendment: Words in reg. 15 substituted (9.8.2012) by [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/8/b)
+[^c-1b73789dccdaa6cb950172266da66267]: Textual amendment: Words in reg. 15 substituted (9.8.2012) by [The Occupational and Personal Pension Schemes (Prescribed Bodies) Regulations 2012 (S.I. 2012/1817)](https://www.legislation.gov.uk/uksi/2012/1817), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1817/regulation/1), [Sch. para. 8(b)](https://www.legislation.gov.uk/uksi/2012/1817/schedule/paragraph/8/b)
 
-[^key-088ffa061cccb4e015143f4c02a7b156]: Modification: Reg. 17 modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/d)
+[^c-088ffa061cccb4e015143f4c02a7b156]: Modification: Reg. 17 modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/d)
 
 [^c1241971]: Marginal citation: [1987 c. 45](https://www.legislation.gov.uk/ukpga/1987/45).
 
-[^key-cf5dac28de1225acf0ea2c9b6909ee04]: Textual amendment: Reg. 17(1)(ca) inserted (1.9.2009) by [Occupational Pension Schemes (Scottish Parliamentary Pensions Act 2009) Regulations 2009 (S.I. 2009/1906)](https://www.legislation.gov.uk/uksi/2009/1906), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1906/regulation/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/1906/schedule/paragraph/7)
+[^c-cf5dac28de1225acf0ea2c9b6909ee04]: Textual amendment: Reg. 17(1)(ca) inserted (1.9.2009) by [Occupational Pension Schemes (Scottish Parliamentary Pensions Act 2009) Regulations 2009 (S.I. 2009/1906)](https://www.legislation.gov.uk/uksi/2009/1906), [reg. 1](https://www.legislation.gov.uk/uksi/2009/1906/regulation/1), [Sch. para. 7](https://www.legislation.gov.uk/uksi/2009/1906/schedule/paragraph/7)
 
-[^key-bc392471deb1b6cd4d723bb9282d4355]: Textual amendment: [Reg. 17(1)(d)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/17/1/d) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [28(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/28/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bc392471deb1b6cd4d723bb9282d4355]: Textual amendment: [Reg. 17(1)(d)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/17/1/d) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [28(2)](https://www.legislation.gov.uk/uksi/2019/192/regulation/28/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3071affed978dbf25f7d85a5254426b9]: Textual amendment: Words in reg. 17(1)(h) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(a)(i)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/a/i)
+[^c-3071affed978dbf25f7d85a5254426b9]: Textual amendment: Words in reg. 17(1)(h) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(a)(i)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/a/i)
 
-[^key-db4ee70d2d49f4a5db1526ca42d577b9]: Textual amendment: Words in reg. 17(1)(h)(i) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/a/ii)
+[^c-db4ee70d2d49f4a5db1526ca42d577b9]: Textual amendment: Words in reg. 17(1)(h)(i) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/a/ii)
 
-[^key-b75c6937cc47124f79c9408160e25bed]: Textual amendment: Words in reg. 17(1)(h)(ii) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/a/iii)
+[^c-b75c6937cc47124f79c9408160e25bed]: Textual amendment: Words in reg. 17(1)(h)(ii) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(a)(iii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/a/iii)
 
 [^c1241972]: Marginal citation: Section 23 was substituted by the Pensions Act 2004, section 36(3).
 
-[^key-ff3994e0dca3d27bc634b2caadfc0b50]: Textual amendment: Words in reg. 17(1)(i) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(b)(i)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/b/i)
+[^c-ff3994e0dca3d27bc634b2caadfc0b50]: Textual amendment: Words in reg. 17(1)(i) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(b)(i)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/b/i)
 
-[^key-897ab149f6e585decdfae9086dd5035e]: Textual amendment: Words in reg. 17(1)(i) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/b/ii)
+[^c-897ab149f6e585decdfae9086dd5035e]: Textual amendment: Words in reg. 17(1)(i) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/b/ii)
 
-[^key-129718550fd73a129d697728fc175587]: Textual amendment: Words in reg. 17(1)(i)(i) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/b/iii)
+[^c-129718550fd73a129d697728fc175587]: Textual amendment: Words in reg. 17(1)(i)(i) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/b/iii)
 
-[^key-8a8092e535b8e217d1403adee7604fb4]: Textual amendment: Words in reg. 17(1)(i)(ii) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/b/iv)
+[^c-8a8092e535b8e217d1403adee7604fb4]: Textual amendment: Words in reg. 17(1)(i)(ii) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(2)(b)(iv)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/2/b/iv)
 
-[^key-0ed5c12379eb17495e4d0c987599667b]: Textual amendment: Words in reg. 17(1)(l) substituted (24.7.2006) by [Occupational Pension Schemes (Winding up Procedure Requirement) Regulations 2006 (S.I. 2006/1733)](https://www.legislation.gov.uk/uksi/2006/1733), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1733/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2006/1733/regulation/5/3/a)
+[^c-0ed5c12379eb17495e4d0c987599667b]: Textual amendment: Words in reg. 17(1)(l) substituted (24.7.2006) by [Occupational Pension Schemes (Winding up Procedure Requirement) Regulations 2006 (S.I. 2006/1733)](https://www.legislation.gov.uk/uksi/2006/1733), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1733/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2006/1733/regulation/5/3/a)
 
-[^key-0361e7033fbc125201324635280d046b]: Textual amendment: Words in reg. 17(1)(l) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2009/615/regulation/18/2/a)
+[^c-0361e7033fbc125201324635280d046b]: Textual amendment: Words in reg. 17(1)(l) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [18(2)(a)](https://www.legislation.gov.uk/uksi/2009/615/regulation/18/2/a)
 
-[^key-8887e19bb505f78a29276f7a9cdcdab3]: Textual amendment: Word in [reg. 17(1)(l)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/17/1/l) omitted (1.8.2022) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [9(a)](https://www.legislation.gov.uk/uksi/2022/337/regulation/9/a)
+[^c-8887e19bb505f78a29276f7a9cdcdab3]: Textual amendment: Word in [reg. 17(1)(l)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/17/1/l) omitted (1.8.2022) by virtue of [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [9(a)](https://www.legislation.gov.uk/uksi/2022/337/regulation/9/a)
 
-[^key-cda4b88ab337e6b6c506fb7db1003e13]: Textual amendment: Word in [reg. 17(1)(m)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/17/1/m) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [9(b)](https://www.legislation.gov.uk/uksi/2022/337/regulation/9/b)
+[^c-cda4b88ab337e6b6c506fb7db1003e13]: Textual amendment: Word in [reg. 17(1)(m)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/17/1/m) substituted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [9(b)](https://www.legislation.gov.uk/uksi/2022/337/regulation/9/b)
 
-[^key-da04d48d11bc75b17c9b7c061e266ca7]: Textual amendment: [Reg. 17(1)(n)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/17/1/n) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [9(c)](https://www.legislation.gov.uk/uksi/2022/337/regulation/9/c)
+[^c-da04d48d11bc75b17c9b7c061e266ca7]: Textual amendment: [Reg. 17(1)(n)](https://www.legislation.gov.uk/uksi/2005/3377/regulation/17/1/n) inserted (1.8.2022) by [The Occupational Pension Schemes (Collective Money Purchase Schemes) (Modifications and Consequential and Miscellaneous Amendments) Regulations 2022 (S.I. 2022/337)](https://www.legislation.gov.uk/uksi/2022/337), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2022/337/regulation/1/3), [9(c)](https://www.legislation.gov.uk/uksi/2022/337/regulation/9/c)
 
-[^key-eb1f0ec6ce6c7a4015d6458ba1bf425e]: Textual amendment: Reg. 17(1A) inserted (24.7.2006) by [Occupational Pension Schemes (Winding up Procedure Requirement) Regulations 2006 (S.I. 2006/1733)](https://www.legislation.gov.uk/uksi/2006/1733), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1733/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2006/1733/regulation/5/3/b)
+[^c-eb1f0ec6ce6c7a4015d6458ba1bf425e]: Textual amendment: Reg. 17(1A) inserted (24.7.2006) by [Occupational Pension Schemes (Winding up Procedure Requirement) Regulations 2006 (S.I. 2006/1733)](https://www.legislation.gov.uk/uksi/2006/1733), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1733/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2006/1733/regulation/5/3/b)
 
 [^c1241973]: Marginal citation: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
 
@@ -1173,67 +1173,67 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^c1241977]: Marginal citation: Section 615(6) was amended by paragraph 11 of Schedule 10 to the Finance Act 1999.
 
-[^key-5a9088e604169e767a2a46dca7f0d63e]: Textual amendment: Words in reg. 17(2) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/18/2/b)
+[^c-5a9088e604169e767a2a46dca7f0d63e]: Textual amendment: Words in reg. 17(2) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [18(2)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/18/2/b)
 
 [^c1241978]: Marginal citation: Section 590 is amended by paragraph 3 of Schedule 6 to the Finance Act 1989.
 
-[^key-487143fff5ceada866cc5a986c18d069]: Textual amendment: Reg. 17(2A) inserted (24.7.2006) by [Occupational Pension Schemes (Winding up Procedure Requirement) Regulations 2006 (S.I. 2006/1733)](https://www.legislation.gov.uk/uksi/2006/1733), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1733/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2006/1733/regulation/5/4)
+[^c-487143fff5ceada866cc5a986c18d069]: Textual amendment: Reg. 17(2A) inserted (24.7.2006) by [Occupational Pension Schemes (Winding up Procedure Requirement) Regulations 2006 (S.I. 2006/1733)](https://www.legislation.gov.uk/uksi/2006/1733), [regs. 1](https://www.legislation.gov.uk/uksi/2006/1733/regulation/1), [5(4)](https://www.legislation.gov.uk/uksi/2006/1733/regulation/5/4)
 
 [^c1241979]: Marginal citation: [1994 c. 39](https://www.legislation.gov.uk/ukpga/1994/39).
 
 [^c1241980]: Marginal citation: [S.I. 1997/1612](https://www.legislation.gov.uk/uksi/1997/1612).
 
-[^key-bed2d49105140b094f02c7c07de17a99]: Modification: [Reg. 18](https://www.legislation.gov.uk/uksi/2005/3377/regulation/18) modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/d)
+[^c-bed2d49105140b094f02c7c07de17a99]: Modification: [Reg. 18](https://www.legislation.gov.uk/uksi/2005/3377/regulation/18) modified (30.12.2005) by [Occupational Pension Schemes (Regulatory Own Funds) Regulations 2005 (S.I. 2005/3380)](https://www.legislation.gov.uk/uksi/2005/3380), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3380/regulation/1), [5(2)(d)](https://www.legislation.gov.uk/uksi/2005/3380/regulation/5/2/d)
 
 [^c1241981]: Marginal citation: [Section 74(3)(c)](https://www.legislation.gov.uk/uksi/2005/3377/section/74/3/c) was amended by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649).
 
 [^c1241982]: Marginal citation: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255).
 
-[^key-30ffcb1c8e792945b60d081dde366ea6]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/1/1) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
+[^c-30ffcb1c8e792945b60d081dde366ea6]: Textual amendment: Words in [Sch. 2 para. 1(1)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/1/1) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
 
-[^key-e14c38fcaf1f5c5aa748fd32365eca34]: Textual amendment: Words in [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/1/4) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
+[^c-e14c38fcaf1f5c5aa748fd32365eca34]: Textual amendment: Words in [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/1/4) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
 
-[^key-67eb30c823c2003d034865c90383527c]: Textual amendment: Words in [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/1/6) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
+[^c-67eb30c823c2003d034865c90383527c]: Textual amendment: Words in [Sch. 2 para. 1(6)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/1/6) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
 
-[^key-3670ddb632e54f2d1b0fcbbb317c1f15]: Textual amendment: Sch. 2 para. 3 substituted (6.4.2008) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/731)](https://www.legislation.gov.uk/uksi/2008/731), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2008/731/regulation/2/1), [20](https://www.legislation.gov.uk/uksi/2008/731/regulation/20) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/uksi/2008/731/regulation/2/3))
+[^c-3670ddb632e54f2d1b0fcbbb317c1f15]: Textual amendment: Sch. 2 para. 3 substituted (6.4.2008) by [Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2008 (S.I. 2008/731)](https://www.legislation.gov.uk/uksi/2008/731), [regs. 2(1)](https://www.legislation.gov.uk/uksi/2008/731/regulation/2/1), [20](https://www.legislation.gov.uk/uksi/2008/731/regulation/20) (with [reg. 2(3)-(8)](https://www.legislation.gov.uk/uksi/2008/731/regulation/2/3))
 
-[^key-11f49e47a7b906079d8716f79421744e]: Textual amendment: Words in Sch. 2 para. 3(2) substituted (6.4.2010) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2010/725/regulation/21)
+[^c-11f49e47a7b906079d8716f79421744e]: Textual amendment: Words in Sch. 2 para. 3(2) substituted (6.4.2010) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2010 (S.I. 2010/725)](https://www.legislation.gov.uk/uksi/2010/725), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2010/725/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2010/725/regulation/21)
 
-[^key-f7889e0368b07d4fb90bcbd4b6a0e0f1]: Textual amendment: Sch. 2 para. 3A inserted (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2973)](https://www.legislation.gov.uk/uksi/2011/2973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2011/2973/regulation/15)
+[^c-f7889e0368b07d4fb90bcbd4b6a0e0f1]: Textual amendment: Sch. 2 para. 3A inserted (27.1.2012) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2011 (S.I. 2011/2973)](https://www.legislation.gov.uk/uksi/2011/2973), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/2973/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2011/2973/regulation/15)
 
-[^key-9e24ed932440aacc92acea3b67d43e08]: Textual amendment: Sch. 2 paras. 3B-3D inserted (6.4.2018) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/237)](https://www.legislation.gov.uk/uksi/2018/237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/237/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2018/237/regulation/12/2)
+[^c-9e24ed932440aacc92acea3b67d43e08]: Textual amendment: Sch. 2 paras. 3B-3D inserted (6.4.2018) by [The Occupational Pension Schemes (Employer Debt and Miscellaneous Amendments) Regulations 2018 (S.I. 2018/237)](https://www.legislation.gov.uk/uksi/2018/237), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/237/regulation/1/2), [12(2)](https://www.legislation.gov.uk/uksi/2018/237/regulation/12/2)
 
-[^key-76477b33c4ac4887d5344a883b5bbc73]: Textual amendment: Words in [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/4/2/b) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [28(3)(a)](https://www.legislation.gov.uk/uksi/2019/192/regulation/28/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76477b33c4ac4887d5344a883b5bbc73]: Textual amendment: Words in [Sch. 2 para. 4(2)(b)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/4/2/b) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [28(3)(a)](https://www.legislation.gov.uk/uksi/2019/192/regulation/28/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-40666394c060917284ab8b056c17e5ce]: Textual amendment: Words in [Sch. 2 para. 4(2)(d)(i)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/4/2/d/i) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [28(3)(a)](https://www.legislation.gov.uk/uksi/2019/192/regulation/28/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-40666394c060917284ab8b056c17e5ce]: Textual amendment: Words in [Sch. 2 para. 4(2)(d)(i)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/4/2/d/i) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [28(3)(a)](https://www.legislation.gov.uk/uksi/2019/192/regulation/28/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7e9925736d6de8c8e36912880a7ccde0]: Textual amendment: Words in [Sch. 2 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/4/3/a) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [28(3)(a)](https://www.legislation.gov.uk/uksi/2019/192/regulation/28/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7e9925736d6de8c8e36912880a7ccde0]: Textual amendment: Words in [Sch. 2 para. 4(3)(a)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/4/3/a) substituted (31.12.2020) by [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [28(3)(a)](https://www.legislation.gov.uk/uksi/2019/192/regulation/28/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b204772e2645f91b8f3245be7a5d3356]: Textual amendment: Words in [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/4/4) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
+[^c-b204772e2645f91b8f3245be7a5d3356]: Textual amendment: Words in [Sch. 2 para. 4(4)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/4/4) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
 
 [^c1241985]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 611 is repealed by Part 3 of Schedule 42 to the Finance Act 2004 with effect from 6th April 2006.
 
-[^key-a9faa6cac7484fc03cff56d2553d9b5d]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/5/3) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
+[^c-a9faa6cac7484fc03cff56d2553d9b5d]: Textual amendment: Words in [Sch. 2 para. 5(3)](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/5/3) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
 
-[^key-0a223228ace6191593523557e7515227]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/6) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [28(3)(b)](https://www.legislation.gov.uk/uksi/2019/192/regulation/28/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0a223228ace6191593523557e7515227]: Textual amendment: [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/6) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/192)](https://www.legislation.gov.uk/uksi/2019/192), [regs. 1](https://www.legislation.gov.uk/uksi/2019/192/regulation/1), [28(3)(b)](https://www.legislation.gov.uk/uksi/2019/192/regulation/28/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab3b08e8da6773ca8194a6dde592cfde]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/7) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
+[^c-ab3b08e8da6773ca8194a6dde592cfde]: Textual amendment: Words in [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/7) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
 
 [^c1241987]: Marginal citation: [1985 c. 6](https://www.legislation.gov.uk/ukpga/1985/6); section 736 was substituted by section 144(1) of the [Companies Act 1989 (c. 40)](https://www.legislation.gov.uk/ukpga/1989/40).
 
-[^key-cedf4344905b735ceeea8cdebea8eb94]: Textual amendment: Words in Sch. 2 para. 9(5) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [18(3)(a)(i)](https://www.legislation.gov.uk/uksi/2009/615/regulation/18/3/a/i)
+[^c-cedf4344905b735ceeea8cdebea8eb94]: Textual amendment: Words in Sch. 2 para. 9(5) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [18(3)(a)(i)](https://www.legislation.gov.uk/uksi/2009/615/regulation/18/3/a/i)
 
-[^key-88cfcbcd342a15473fb501c1a69dc48f]: Textual amendment: Words in Sch. 2 para. 9(5) substituted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [18(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/615/regulation/18/3/a/ii)
+[^c-88cfcbcd342a15473fb501c1a69dc48f]: Textual amendment: Words in Sch. 2 para. 9(5) substituted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [18(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2009/615/regulation/18/3/a/ii)
 
-[^key-61ae8ee99ccf4861a8172e15b0becbb0]: Textual amendment: Words in Sch. 2 para. 9(6) substituted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [18(3)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/18/3/b)
+[^c-61ae8ee99ccf4861a8172e15b0becbb0]: Textual amendment: Words in Sch. 2 para. 9(6) substituted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [18(3)(b)](https://www.legislation.gov.uk/uksi/2009/615/regulation/18/3/b)
 
-[^key-b7b4f160d92bbc31754a3d7c069aef48]: Textual amendment: Words in Sch. 2 para. 9(7) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [18(3)(c)](https://www.legislation.gov.uk/uksi/2009/615/regulation/18/3/c)
+[^c-b7b4f160d92bbc31754a3d7c069aef48]: Textual amendment: Words in Sch. 2 para. 9(7) inserted (6.4.2009) by [Occupational, Personal and Stakeholder Pensions (Miscellaneous Amendments) Regulations 2009 (S.I. 2009/615)](https://www.legislation.gov.uk/uksi/2009/615), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/615/regulation/1/2), [18(3)(c)](https://www.legislation.gov.uk/uksi/2009/615/regulation/18/3/c)
 
-[^key-2107dd397f4af01022a679edcfbdc3d6]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/10) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
+[^c-2107dd397f4af01022a679edcfbdc3d6]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2005/3377/schedule/2/paragraph/10) inserted (6.4.2024) by [The Occupational Pension Schemes (Funding and Investment Strategy and Amendment) Regulations 2024 (S.I. 2024/462)](https://www.legislation.gov.uk/uksi/2024/462), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/462/regulation/1/1), [20(5)](https://www.legislation.gov.uk/uksi/2024/462/regulation/20/5)
 
 [^c1241988]: Marginal citation: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172); relevant amending instruments are [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786) and 2002/681.
 
-[^key-0ae369b5b9f3f59f1107e9186ced5f40]: Textual amendment: Sch. 3 para. 3 omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 14](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/14)
+[^c-0ae369b5b9f3f59f1107e9186ced5f40]: Textual amendment: Sch. 3 para. 3 omitted (6.4.2014) by virtue of [The Occupational and Personal Pension Schemes (Disclosure of Information) Regulations 2013 (S.I. 2013/2734)](https://www.legislation.gov.uk/uksi/2013/2734), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/2734/regulation/1/1), [Sch. 9 para. 14](https://www.legislation.gov.uk/uksi/2013/2734/schedule/9/paragraph/14)
 
 [^c1241992]: Marginal citation: [S.I. 1996/1715](https://www.legislation.gov.uk/uksi/1996/1715); relevant amending instruments are [S.I. 2000/679](https://www.legislation.gov.uk/uksi/2000/679) and 2005/2426.
 
@@ -1263,9 +1263,9 @@ An assessment of the impact on business, charities and the voluntary sector of t
 
 [^c1242005]: Marginal citation: [S.I. 1996/1536](https://www.legislation.gov.uk/uksi/1996/1536); relevant amending instruments are [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786) and 1997/3038.
 
-[^key-431cf089b1713ce8ebd9fe6f17e12c51]: Textual amendment: Words in Sch. 4 para. 3(4) omitted (6.4.2007) by virtue of [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(4)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/4/a)
+[^c-431cf089b1713ce8ebd9fe6f17e12c51]: Textual amendment: Words in Sch. 4 para. 3(4) omitted (6.4.2007) by virtue of [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(4)(a)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/4/a)
 
-[^key-80cd0941726a89ea716f0cde4a3322f1]: Textual amendment: Words in Sch. 4 para. 3(5) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(4)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/4/b)
+[^c-80cd0941726a89ea716f0cde4a3322f1]: Textual amendment: Words in Sch. 4 para. 3(5) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [15(4)(b)](https://www.legislation.gov.uk/uksi/2007/814/regulation/15/4/b)
 
 [^c1242006]: Marginal citation: [S.I. 1996/1172](https://www.legislation.gov.uk/uksi/1996/1172); relevant amending instruments are [S.I. 1997/786](https://www.legislation.gov.uk/uksi/1997/786) and 2002/681.
 

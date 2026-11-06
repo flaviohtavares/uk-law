@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Aiding, abetting, counselling or procuring[^key-7a666f82e2beb53fb3e0da1a2eae6e3a][^key-ab8cb2fc3d4253c355fc3dd14cbd7f8f]
+## 41. Aiding, abetting, counselling or procuring[^c-7a666f82e2beb53fb3e0da1a2eae6e3a][^c-ab8cb2fc3d4253c355fc3dd14cbd7f8f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7a666f82e2beb53fb3e0da1a2eae6e3a]: Commencement: S. 41 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-7a666f82e2beb53fb3e0da1a2eae6e3a]: Commencement: S. 41 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-ab8cb2fc3d4253c355fc3dd14cbd7f8f]: Commencement: S. 41 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-ab8cb2fc3d4253c355fc3dd14cbd7f8f]: Commencement: S. 41 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

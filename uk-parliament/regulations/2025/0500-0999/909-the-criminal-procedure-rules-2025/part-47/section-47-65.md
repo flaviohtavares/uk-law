@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47.65. Application for order[^key-1ad827d0824e42733c41d1b9acbda690]
+## 47.65. Application for order[^c-1ad827d0824e42733c41d1b9acbda690]
 
 *Extent: E+W*
 
@@ -84,4 +84,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ad827d0824e42733c41d1b9acbda690]: Commencement: Rule 47.65 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1ad827d0824e42733c41d1b9acbda690]: Commencement: Rule 47.65 in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

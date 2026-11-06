@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 177. Publication of reports etc by Commissioners[^key-74ab5ba4394a53d35b346d2eb3609212]
+## 177. Publication of reports etc by Commissioners[^c-74ab5ba4394a53d35b346d2eb3609212]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ After section 31A of the Local Government Act 1974 (c. 7) insert—
 
 ## Annotations
 
-[^key-74ab5ba4394a53d35b346d2eb3609212]: Commencement: S. 177 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/j)
+[^c-74ab5ba4394a53d35b346d2eb3609212]: Commencement: S. 177 in force at 1.4.2008 by [S.I. 2008/917](https://www.legislation.gov.uk/uksi/2008/917), [art. 2(1)(j)](https://www.legislation.gov.uk/uksi/2008/917/article/2/1/j)

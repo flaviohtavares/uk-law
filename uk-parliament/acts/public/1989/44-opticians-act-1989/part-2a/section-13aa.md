@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13AA. Information to be provided to specified state professionals[^key-fe5a4dec4253cb5ca72688637a66392b][^key-972a3774dc0bacc972bd8abfe5f33ba4]
+## 13AA. Information to be provided to specified state professionals[^c-fe5a4dec4253cb5ca72688637a66392b][^c-972a3774dc0bacc972bd8abfe5f33ba4]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fe5a4dec4253cb5ca72688637a66392b]: Textual amendment: [S. 13AA](https://www.legislation.gov.uk/ukpga/1989/44/section/13AA) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 40](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/40)
+[^c-fe5a4dec4253cb5ca72688637a66392b]: Textual amendment: [S. 13AA](https://www.legislation.gov.uk/ukpga/1989/44/section/13AA) inserted (1.12.2023) by [The Recognition of Professional Qualifications and Implementation of International Recognition Agreements (Amendment) Regulations 2023 (S.I. 2023/1286)](https://www.legislation.gov.uk/uksi/2023/1286), [reg. 1](https://www.legislation.gov.uk/uksi/2023/1286/regulation/1), [Sch. 3 para. 40](https://www.legislation.gov.uk/uksi/2023/1286/schedule/3/paragraph/40)
 
-[^key-972a3774dc0bacc972bd8abfe5f33ba4]: Textual amendment: Pt. 2A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 16](https://www.legislation.gov.uk/uksi/2005/848/article/16) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))
+[^c-972a3774dc0bacc972bd8abfe5f33ba4]: Textual amendment: Pt. 2A inserted (coming into force in accordance with art. 1(3)-(6) of the amending S.I.) by [The Opticians Act 1989 (Amendment) Order 2005 (S.I. 2005/848)](https://www.legislation.gov.uk/uksi/2005/848), [art. 16](https://www.legislation.gov.uk/uksi/2005/848/article/16) (with [Sch. 2](https://www.legislation.gov.uk/uksi/2005/848/schedule/2))

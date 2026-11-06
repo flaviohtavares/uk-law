@@ -75,7 +75,7 @@ In these Regulations—
 - “**complainant**” means a person who makes a complaint to the court under regulation 9;
 - “**court**” means the County Court;
 - “**enforcement agent**” has the meaning given in paragraph 2(1) of Schedule 12 (enforcement agents);
-- [^key-ee4dd377a951984d8cf84856c6afff60]...
+- [^c-ee4dd377a951984d8cf84856c6afff60]...
 - “**Schedule 12**” means Schedule 12 to the Act;
 - “**the security**” means the security required by regulation 6(1) of these Regulations.
 
@@ -136,11 +136,11 @@ No application for a certificate to be issued will be heard before the date in r
 
 #### 7. Duration of certificates
 
-(1) Subject to paragraph (3), a[^key-840d37ada94a6965aba168042dcb3e04] certificate has effect, unless cancelled, for two years from the date on which it was issued, subject in the case of a replacement certificate to regulation 8(3).
+(1) Subject to paragraph (3), a[^c-840d37ada94a6965aba168042dcb3e04] certificate has effect, unless cancelled, for two years from the date on which it was issued, subject in the case of a replacement certificate to regulation 8(3).
 
-(2) Subject to paragraph (3), every[^key-acf4240a612e124c9982df0f31bad5a0] certificate must state the date on which it ceases to have effect.
+(2) Subject to paragraph (3), every[^c-acf4240a612e124c9982df0f31bad5a0] certificate must state the date on which it ceases to have effect.
 
-(3)[^key-22940be8c3613d2b360355e8782454fa] If the relevant day during the period beginning with 26th December 2019 and ending on 23rd August 2020, the certificate will continue to have effect for a period of 9 months beginning with the relevant day.[^key-0b6c2517c951693288e89631a19932f2]
+(3)[^c-22940be8c3613d2b360355e8782454fa] If the relevant day during the period beginning with 26th December 2019 and ending on 23rd August 2020, the certificate will continue to have effect for a period of 9 months beginning with the relevant day.[^c-0b6c2517c951693288e89631a19932f2]
 
 (4) For the purposes of paragraph (3), the relevant day is the day 3 months before the expiry of the period referred to in paragraph (1).
 
@@ -254,7 +254,7 @@ Ministry of Justice
 
 Regulation 3
 
-Notice of enforcement[^key-29adf954af965fdf1738845d6f9d4ecf]
+Notice of enforcement[^c-29adf954af965fdf1738845d6f9d4ecf]
 
 [image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_epp_001.gif)[image: see source](https://www.legislation.gov.uk/uksi/2014/421/images/uksi_20140421_en_epp_002.gif)
 
@@ -295,14 +295,14 @@ An Impact Assessment was carried out to consider the impact of the introduction 
 
 [^c22022261]: Marginal citation: [S.I. 1988/2050](https://www.legislation.gov.uk/uksi/1988/2050), amended by [S.I. 1999/2360](https://www.legislation.gov.uk/uksi/1999/2360), 1999/2564, 1999/3186, 2000/1481, 2000/2737, 2001/4026, 2003/1858, 2003/2141 and 2009/873.
 
-[^key-ee4dd377a951984d8cf84856c6afff60]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/421/regulation/2) omitted (24.6.2020) by virtue of [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (No. 2) (Coronavirus) Regulations 2020 (S.I. 2020/614)](https://www.legislation.gov.uk/uksi/2020/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/3/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/2))
+[^c-ee4dd377a951984d8cf84856c6afff60]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2014/421/regulation/2) omitted (24.6.2020) by virtue of [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (No. 2) (Coronavirus) Regulations 2020 (S.I. 2020/614)](https://www.legislation.gov.uk/uksi/2020/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/3/2) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/2))
 
-[^key-840d37ada94a6965aba168042dcb3e04]: Textual amendment: Words in reg. 7(1) substituted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2020/451/regulation/3/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+[^c-840d37ada94a6965aba168042dcb3e04]: Textual amendment: Words in reg. 7(1) substituted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [3(3)(a)](https://www.legislation.gov.uk/uksi/2020/451/regulation/3/3/a) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
 
-[^key-acf4240a612e124c9982df0f31bad5a0]: Textual amendment: Words in reg. 7(2) substituted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/451/regulation/3/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+[^c-acf4240a612e124c9982df0f31bad5a0]: Textual amendment: Words in reg. 7(2) substituted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [3(3)(b)](https://www.legislation.gov.uk/uksi/2020/451/regulation/3/3/b) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
 
-[^key-22940be8c3613d2b360355e8782454fa]: Textual amendment: Reg. 7(3)(4) inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2020/451/regulation/3/3/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
+[^c-22940be8c3613d2b360355e8782454fa]: Textual amendment: Reg. 7(3)(4) inserted (25.4.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (Coronavirus) Regulations 2020 (S.I. 2020/451)](https://www.legislation.gov.uk/uksi/2020/451), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/1), [3(3)(c)](https://www.legislation.gov.uk/uksi/2020/451/regulation/3/3/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/451/regulation/1/2))
 
-[^key-0b6c2517c951693288e89631a19932f2]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2014/421/regulation/7/3) substituted (24.6.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (No. 2) (Coronavirus) Regulations 2020 (S.I. 2020/614)](https://www.legislation.gov.uk/uksi/2020/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/614/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/2))
+[^c-0b6c2517c951693288e89631a19932f2]: Textual amendment: Words in [reg. 7(3)](https://www.legislation.gov.uk/uksi/2014/421/regulation/7/3) substituted (24.6.2020) by [The Taking Control of Goods and Certification of Enforcement Agents (Amendment) (No. 2) (Coronavirus) Regulations 2020 (S.I. 2020/614)](https://www.legislation.gov.uk/uksi/2020/614), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/1), [3(3)](https://www.legislation.gov.uk/uksi/2020/614/regulation/3/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/614/regulation/1/2))
 
-[^key-29adf954af965fdf1738845d6f9d4ecf]: Textual amendment: Sch. Form substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/366/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))
+[^c-29adf954af965fdf1738845d6f9d4ecf]: Textual amendment: Sch. Form substituted (1.5.2026) by [The Taking Control of Goods (Miscellaneous Amendments) Regulations 2026 (S.I. 2026/366)](https://www.legislation.gov.uk/uksi/2026/366), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/366/schedule) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2026/366/regulation/1/3))

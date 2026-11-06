@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38A. Protection of funds set aside for the purposes of abandonment programme[^key-28bc5944108b762883855a3bd6b5024f][^key-5d45d630ed16292f59ddc26418ac7288][^key-40d8558b9de1253151db0b79639f5305][^key-28bc5944108b762883855a3bd6b5024f]
+## 38A. Protection of funds set aside for the purposes of abandonment programme[^c-28bc5944108b762883855a3bd6b5024f][^c-5d45d630ed16292f59ddc26418ac7288][^c-40d8558b9de1253151db0b79639f5305][^c-28bc5944108b762883855a3bd6b5024f]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,8 +45,8 @@ summary: ''
 
 ## Annotations
 
-[^key-28bc5944108b762883855a3bd6b5024f]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) applied (with modifications) (26.12.2023) by [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32), [s. 30(1AA)(1AB)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1AA/1AB) (as inserted by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/3), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b))
+[^c-28bc5944108b762883855a3bd6b5024f]: Modification: [Pt. 4](https://www.legislation.gov.uk/ukpga/1998/17/part/4) applied (with modifications) (26.12.2023) by [2008 c. 32](https://www.legislation.gov.uk/ukpga/2008/32), [s. 30(1AA)(1AB)](https://www.legislation.gov.uk/ukpga/2008/32/section/30/1AA/1AB) (as inserted by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(3)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/3), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b))
 
-[^key-5d45d630ed16292f59ddc26418ac7288]: Modification: [S. 38A](https://www.legislation.gov.uk/ukpga/1998/17/section/38A) modified (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(10)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/10), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-5d45d630ed16292f59ddc26418ac7288]: Modification: [S. 38A](https://www.legislation.gov.uk/ukpga/1998/17/section/38A) modified (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 95(10)](https://www.legislation.gov.uk/ukpga/2023/52/section/95/10), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-40d8558b9de1253151db0b79639f5305]: Textual amendment: Ss. 38A, 38B inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/32/section/74), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/b/i)
+[^c-40d8558b9de1253151db0b79639f5305]: Textual amendment: Ss. 38A, 38B inserted (26.1.2009) by [Energy Act 2008 (c. 32)](https://www.legislation.gov.uk/ukpga/2008/32), [ss. 74](https://www.legislation.gov.uk/ukpga/2008/32/section/74), [110(2)](https://www.legislation.gov.uk/ukpga/2008/32/section/110/2); [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/2/b/i)

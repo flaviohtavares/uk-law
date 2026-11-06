@@ -34,7 +34,7 @@ National Health Service, England
 
 Public Health, England
 
-The Health and Social Care Act 2008 (Primary Dental Services, Private Ambulance Services and Primary Medical Services) (Regulated Activities) (Transitory and Transitional Provisions**)** (Amendment) Order 2011 (revoked)[^key-8ae145371cd74d48249022a5ef8589b8]
+The Health and Social Care Act 2008 (Primary Dental Services, Private Ambulance Services and Primary Medical Services) (Regulated Activities) (Transitory and Transitional Provisions**)** (Amendment) Order 2011 (revoked)[^c-8ae145371cd74d48249022a5ef8589b8]
 
 Made
 
@@ -48,32 +48,32 @@ Coming into force
 
 16th January 2012
 
-[^key-8ae145371cd74d48249022a5ef8589b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ae145371cd74d48249022a5ef8589b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-8ae145371cd74d48249022a5ef8589b8]
+## 1. Citation, commencement and interpretation[^c-8ae145371cd74d48249022a5ef8589b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of article 1 of the 2010 Order[^key-8ae145371cd74d48249022a5ef8589b8]
+## 2. Amendment of article 1 of the 2010 Order[^c-8ae145371cd74d48249022a5ef8589b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of article 11 of the 2010 Order[^key-8ae145371cd74d48249022a5ef8589b8]
+## 3. Amendment of article 11 of the 2010 Order[^c-8ae145371cd74d48249022a5ef8589b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Insertion of new Part 4 into the 2010 Order and amendment of the title of Part 3 of the 2010 Order[^key-8ae145371cd74d48249022a5ef8589b8]
+## 4. Insertion of new Part 4 into the 2010 Order and amendment of the title of Part 3 of the 2010 Order[^c-8ae145371cd74d48249022a5ef8589b8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-8ae145371cd74d48249022a5ef8589b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ae145371cd74d48249022a5ef8589b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-8ae145371cd74d48249022a5ef8589b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-8ae145371cd74d48249022a5ef8589b8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-8ae145371cd74d48249022a5ef8589b8]: Textual amendment: Order revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(o)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/o)
+[^c-8ae145371cd74d48249022a5ef8589b8]: Textual amendment: Order revoked (1.7.2015) by [The Health and Social Care (Miscellaneous Revocations etc.) Order 2015 (S.I. 2015/864)](https://www.legislation.gov.uk/uksi/2015/864), [arts 1(2)](https://www.legislation.gov.uk/uksi/2015/864/article/1/2), [2(1)(o)](https://www.legislation.gov.uk/uksi/2015/864/article/2/1/o)

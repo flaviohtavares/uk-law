@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.49. Creditor’s election to opt out[^key-9535e2b2552fdf1ac2f9f57c24969477]
+## 7.49. Creditor’s election to opt out[^c-9535e2b2552fdf1ac2f9f57c24969477]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9535e2b2552fdf1ac2f9f57c24969477]: Commencement: Rule 7.49 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-9535e2b2552fdf1ac2f9f57c24969477]: Commencement: Rule 7.49 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

@@ -31,7 +31,7 @@ summary: ''
 
 SOCIAL CARE, WALES
 
-The Care Council for Wales (Specification of Student Social Workers) (Registration) Order 2004 (revoked)[^key-80de52336b5f593504b05d89ce7dc109]
+The Care Council for Wales (Specification of Student Social Workers) (Registration) Order 2004 (revoked)[^c-80de52336b5f593504b05d89ce7dc109]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into force
 
 1st April 2004
 
-[^key-80de52336b5f593504b05d89ce7dc109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80de52336b5f593504b05d89ce7dc109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-80de52336b5f593504b05d89ce7dc109]
+## 1. Citation, commencement and interpretation[^c-80de52336b5f593504b05d89ce7dc109]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Specification of student social workers[^key-80de52336b5f593504b05d89ce7dc109]
+## 2. Specification of student social workers[^c-80de52336b5f593504b05d89ce7dc109]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80de52336b5f593504b05d89ce7dc109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80de52336b5f593504b05d89ce7dc109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-80de52336b5f593504b05d89ce7dc109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80de52336b5f593504b05d89ce7dc109]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80de52336b5f593504b05d89ce7dc109]: Textual amendment: Order revoked (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/uksi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/52/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/52/schedule/2)
+[^c-80de52336b5f593504b05d89ce7dc109]: Textual amendment: Order revoked (3.4.2017) by [The Regulation and Inspection of Social Care (Wales) Act 2016 (Consequential Amendments to Secondary Legislation) Regulations 2017 (S.I. 2017/52)](https://www.legislation.gov.uk/uksi/2017/52), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/52/regulation/1/2), [Sch. 2](https://www.legislation.gov.uk/uksi/2017/52/schedule/2)

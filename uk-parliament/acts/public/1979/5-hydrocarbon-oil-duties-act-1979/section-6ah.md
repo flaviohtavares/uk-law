@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6AH. Application to aqua methanol of provisions relating to hydrocarbon oil[^key-ce471d0dc36ff895d4319738b9cdcaa1]
+## 6AH. Application to aqua methanol of provisions relating to hydrocarbon oil[^c-ce471d0dc36ff895d4319738b9cdcaa1]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce471d0dc36ff895d4319738b9cdcaa1]: Textual amendment: Ss. 6AG, 6AH inserted (15.9.2016 for specified purposes, 14.11.2016 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 17 paras. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/4), [14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/14)
+[^c-ce471d0dc36ff895d4319738b9cdcaa1]: Textual amendment: Ss. 6AG, 6AH inserted (15.9.2016 for specified purposes, 14.11.2016 in so far as not already in force) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 17 paras. 4](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/4), [14](https://www.legislation.gov.uk/ukpga/2016/24/schedule/17/paragraph/14)

@@ -42,49 +42,49 @@ Coming into operation
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 1(6), 3(2) and (3), 10A(7), 159(3), 167(5) and 171(1) to (3) of, and paragraphs 3(5), 5A, 6 and 8(1)(g), (l), (m), (n) and (q) of Schedule 1 to, the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and of all other powers enabling it in that behalf, and with the concurrence of the Inland Revenue in so far as their concurrence is required, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-a5f8b170c7fee7fc1d18251d35b28f0a]
+## 1. Citation, commencement and interpretation[^c-a5f8b170c7fee7fc1d18251d35b28f0a]
 
 (1) These Regulations may be cited as the Social Security (Contributions), Statutory Maternity Pay and Statutory Sick Pay (Miscellaneous Amendments) Regulations (Northern Ireland) 1999 and shall come into operation on 6th April 1999.
 
 (2) In these Regulations “the principal Regulations” means the Social Security (Contributions) Regulations (Northern Ireland) 1979[^f00002].
 
-## 2. Amendment of regulation 18 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+## 2. Amendment of regulation 18 of the principal Regulations[^c-18f1898b7df3c76876740dd1a6824434]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 19 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+## 3. Amendment of regulation 19 of the principal Regulations[^c-18f1898b7df3c76876740dd1a6824434]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Insertion of Part IIB into the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+## 4. Insertion of Part IIB into the principal Regulations[^c-18f1898b7df3c76876740dd1a6824434]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 31 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+## 5. Amendment of regulation 31 of the principal Regulations[^c-18f1898b7df3c76876740dd1a6824434]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 32 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+## 6. Amendment of regulation 32 of the principal Regulations[^c-18f1898b7df3c76876740dd1a6824434]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 46 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+## 7. Amendment of regulation 46 of the principal Regulations[^c-18f1898b7df3c76876740dd1a6824434]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of regulation 111 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+## 8. Amendment of regulation 111 of the principal Regulations[^c-18f1898b7df3c76876740dd1a6824434]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 112 of the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+## 9. Amendment of regulation 112 of the principal Regulations[^c-18f1898b7df3c76876740dd1a6824434]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Amendment of Schedule 1 to the principal Regulations[^key-18f1898b7df3c76876740dd1a6824434]
+## 10. Amendment of Schedule 1 to the principal Regulations[^c-18f1898b7df3c76876740dd1a6824434]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of the Statutory Sick Pay (General) Regulations[^key-0e51b3e6615e3cbc78beae45cf637bba]
+## 11. Amendment of the Statutory Sick Pay (General) Regulations[^c-0e51b3e6615e3cbc78beae45cf637bba]
 
 For paragraph (2) of regulation 17 of the Statutory Sick Pay (General) Regulations (Northern Ireland) 1982[^f00052] (meaning of “earnings”) there shall be substituted the following paragraph—
 
@@ -95,7 +95,7 @@ For paragraph (2) of regulation 17 of the Statutory Sick Pay (General) Regulatio
 
 .
 
-## 12. Amendment of the Statutory Maternity Pay (General) Regulations[^key-34856ad90a086f3bb4cf15fee1ce9068]
+## 12. Amendment of the Statutory Maternity Pay (General) Regulations[^c-34856ad90a086f3bb4cf15fee1ce9068]
 
 For paragraph (2) of regulation 20 of the Statutory Maternity Pay (General) Regulations (Northern Ireland) 1987[^f00054] (meaning of “earnings”) there shall be substituted the following paragraph—
 
@@ -106,7 +106,7 @@ For paragraph (2) of regulation 20 of the Statutory Maternity Pay (General) Regu
 
 .
 
-## 13. Revocations[^key-cf008089a3d8a53e53ff4518265e3062]
+## 13. Revocations[^c-cf008089a3d8a53e53ff4518265e3062]
 
 The following regulations are hereby revoked—
 
@@ -176,23 +176,23 @@ These Regulations correspond to provision contained in Regulations made by the S
 
 [^f00001]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); section 1(6) was amended by paragraph 38(3) of Schedule 6 to, section 10A was inserted by Article 50 of, paragraph 3(5) was added by Article 52(b) of, paragraph 5A was inserted, and paragraphs 6 and 8(1)(l) were amended, by paragraph 58(7) to (9), (11) and (16) of Schedule 6 to, the Social Security (Northern Ireland) Order 1998 (S.I. [1998/1506 (N.I. 10)](https://www.legislation.gov.uk/nisi/1998/1506)); paragraph 8(1)(g) was amended by paragraph 11 of Schedule 3 to the Pensions (Northern Ireland) Order 1995 (S.I. [1995/3213 (N.I. 22)](https://www.legislation.gov.uk/nisi/1995/3213))
 
-[^key-a5f8b170c7fee7fc1d18251d35b28f0a]: Commencement: Reg. 1 in operation at 6.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1)
+[^c-a5f8b170c7fee7fc1d18251d35b28f0a]: Commencement: Reg. 1 in operation at 6.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); relevant amending regulations are [S.R. 1981 No. 30](https://www.legislation.gov.uk/nisr/1981/30), [S.R. 1982 No. 267](https://www.legislation.gov.uk/nisr/1982/267), [S.R. 1984 No. 43](https://www.legislation.gov.uk/nisr/1984/43), [S.R. 1985 No. 59](https://www.legislation.gov.uk/nisr/1985/59), [S.R. 1990 No. 110](https://www.legislation.gov.uk/nisr/1990/110), [S.R. 1991 Nos. 310](https://www.legislation.gov.uk/nisr/1991/310) and [490](https://www.legislation.gov.uk/nisr/1991/490), [S.R. 1992 Nos. 41](https://www.legislation.gov.uk/nisr/1992/41), [126](https://www.legislation.gov.uk/nisr/1992/126) and [280](https://www.legislation.gov.uk/nisr/1992/280), [S.R. 1993 No. 130](https://www.legislation.gov.uk/nisr/1993/130), [S.R. 1995 No. 91](https://www.legislation.gov.uk/nisr/1995/91), [S.R. 1996 Nos. 30](https://www.legislation.gov.uk/nisr/1996/30), [433](https://www.legislation.gov.uk/nisr/1996/433) and [566](https://www.legislation.gov.uk/nisr/1996/566), [S.R. 1997 No. 163](https://www.legislation.gov.uk/nisr/1997/163) and [S.R. 1998 Nos. 317](https://www.legislation.gov.uk/nisr/1998/317), [332](https://www.legislation.gov.uk/nisr/1998/332) and [416](https://www.legislation.gov.uk/nisr/1998/416)
 
-[^key-18f1898b7df3c76876740dd1a6824434]: Textual amendment: [Regs. 2-10](https://www.legislation.gov.uk/nisr/1999/117/regulation/2) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)
+[^c-18f1898b7df3c76876740dd1a6824434]: Textual amendment: [Regs. 2-10](https://www.legislation.gov.uk/nisr/1999/117/regulation/2) revoked (6.4.2001) by [The Social Security (Contributions) Regulations 2001 (S.I. 2001/1004)](https://www.legislation.gov.uk/uksi/2001/1004), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/1004/regulation/1/1), [Sch. 8 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/8/part/II)
 
-[^key-0e51b3e6615e3cbc78beae45cf637bba]: Commencement: Reg. 11 in operation at 6.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1)
+[^c-0e51b3e6615e3cbc78beae45cf637bba]: Commencement: Reg. 11 in operation at 6.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1)
 
 [^f00052]: Footnote: [S.R. 1982 No. 263](https://www.legislation.gov.uk/nisr/1982/263); paragraph (2) was substituted by [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453)
 
 [^f00053]: Footnote: [S.R. 1979 No. 186](https://www.legislation.gov.uk/nisr/1979/186); relevant amending regulations are [S.R. 1984 No. 43](https://www.legislation.gov.uk/nisr/1984/43), [S.R. 1987 Nos. 143](https://www.legislation.gov.uk/nisr/1987/143), [348](https://www.legislation.gov.uk/nisr/1987/348) and [468](https://www.legislation.gov.uk/nisr/1987/468), [S.R. 1988 No. 204](https://www.legislation.gov.uk/nisr/1988/204), [S.R. 1991 Nos. 106](https://www.legislation.gov.uk/nisr/1991/106) and [490](https://www.legislation.gov.uk/nisr/1991/490), [S.R. 1993 Nos. 64](https://www.legislation.gov.uk/nisr/1993/64), [114](https://www.legislation.gov.uk/nisr/1993/114) and [437](https://www.legislation.gov.uk/nisr/1993/437), [S.R. 1995 No. 257](https://www.legislation.gov.uk/nisr/1995/257), [S.R. 1996 Nos. 89](https://www.legislation.gov.uk/nisr/1996/89) and [566](https://www.legislation.gov.uk/nisr/1996/566), [S.R. 1997 Nos. 163](https://www.legislation.gov.uk/nisr/1997/163) and [180](https://www.legislation.gov.uk/nisr/1997/180) and [S.R. 1998 Nos. 103](https://www.legislation.gov.uk/nisr/1998/103) and [317](https://www.legislation.gov.uk/nisr/1998/317)
 
-[^key-34856ad90a086f3bb4cf15fee1ce9068]: Commencement: Reg. 12 in operation at 6.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1)
+[^c-34856ad90a086f3bb4cf15fee1ce9068]: Commencement: Reg. 12 in operation at 6.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1)
 
 [^f00054]: Footnote: [S.R. 1987 No. 30](https://www.legislation.gov.uk/nisr/1987/30); paragraph (2) was substituted by [S.R. 1992 No. 453](https://www.legislation.gov.uk/nisr/1992/453)
 
-[^key-cf008089a3d8a53e53ff4518265e3062]: Commencement: Reg. 13 in operation at 6.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1)
+[^c-cf008089a3d8a53e53ff4518265e3062]: Commencement: Reg. 13 in operation at 6.4.1999, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/1999/117/regulation/1/1)
 
 [^f00055]: Footnote: [S.R. 1982 No. 267](https://www.legislation.gov.uk/nisr/1982/267)
 

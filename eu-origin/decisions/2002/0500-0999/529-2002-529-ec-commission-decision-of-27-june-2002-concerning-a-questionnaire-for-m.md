@@ -31,10 +31,10 @@ summary: ''
 
 of 27 June 2002 concerning a questionnaire for Member States reports on the implementation of Directive 1999/13/EC on the limitation of emissions of volatile organic compounds due to the use of organic solvents in certain activities and installations (notified under document number C(2002) 2234) (revoked)
 
-[^key-17ee42adbb18219f5fa21f1316ace2b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-17ee42adbb18219f5fa21f1316ace2b7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-17ee42adbb18219f5fa21f1316ace2b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-17ee42adbb18219f5fa21f1316ace2b7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-17ee42adbb18219f5fa21f1316ace2b7]: Textual amendment: Decision revoked (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/1407/schedule/1/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-17ee42adbb18219f5fa21f1316ace2b7]: Textual amendment: Decision revoked (31.12.2020) by [The Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018 (S.I. 2018/1407)](https://www.legislation.gov.uk/uksi/2018/1407), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1407/regulation/1), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2018/1407/schedule/1/paragraph/1); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

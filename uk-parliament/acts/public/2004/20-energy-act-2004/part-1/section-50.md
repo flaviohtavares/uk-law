@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50. Interpretation of Chapter 2 of Part 1[^key-70a112a6b7d782ab3b050585755a2eba]
+## 50. Interpretation of Chapter 2 of Part 1[^c-70a112a6b7d782ab3b050585755a2eba]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,10 +41,10 @@ summary: ''
 - (e) a publicly owned company; or
 - (f) a nominee of a person falling within paragraphs (a) to (e).
 
-(5) In this section “**company**” means a company as defined in section 1(1) of the Companies Act 2006[^key-a081e5c786907764ab2aa8e65bbc9d96].
+(5) In this section “**company**” means a company as defined in section 1(1) of the Companies Act 2006[^c-a081e5c786907764ab2aa8e65bbc9d96].
 
 ## Annotations
 
-[^key-70a112a6b7d782ab3b050585755a2eba]: Commencement: S. 50 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-70a112a6b7d782ab3b050585755a2eba]: Commencement: S. 50 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-a081e5c786907764ab2aa8e65bbc9d96]: Textual amendment: Words in s. 50(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 220(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/220/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-a081e5c786907764ab2aa8e65bbc9d96]: Textual amendment: Words in s. 50(5) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 220(3)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/220/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))

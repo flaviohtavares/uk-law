@@ -31,7 +31,7 @@ summary: ''
 
 SEA FISHERIES
 
-The Fishery Limits Act 1976 (Guernsey) Order 1989 (revoked)[^key-b0486c9aebfb78de8c81ae6f7755a5d3]
+The Fishery Limits Act 1976 (Guernsey) Order 1989 (revoked)[^c-b0486c9aebfb78de8c81ae6f7755a5d3]
 
 Made
 
@@ -47,36 +47,36 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-b0486c9aebfb78de8c81ae6f7755a5d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0486c9aebfb78de8c81ae6f7755a5d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b0486c9aebfb78de8c81ae6f7755a5d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0486c9aebfb78de8c81ae6f7755a5d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — EXCEPTIONS, ADAPTATIONS AND MODIFICATIONS IN THE EXTENSION OF PROVISIONS OF THE FISHERY LIMITS ACT 1976 TO THE BAILIWICK OF GUERNSEY[^key-b0486c9aebfb78de8c81ae6f7755a5d3]
+## SCHEDULE — EXCEPTIONS, ADAPTATIONS AND MODIFICATIONS IN THE EXTENSION OF PROVISIONS OF THE FISHERY LIMITS ACT 1976 TO THE BAILIWICK OF GUERNSEY[^c-b0486c9aebfb78de8c81ae6f7755a5d3]
 
 Article 2
 
-**1.**[^key-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b0486c9aebfb78de8c81ae6f7755a5d3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-b0486c9aebfb78de8c81ae6f7755a5d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0486c9aebfb78de8c81ae6f7755a5d3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b0486c9aebfb78de8c81ae6f7755a5d3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1989/2407) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-b0486c9aebfb78de8c81ae6f7755a5d3]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1989/2407) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/5) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

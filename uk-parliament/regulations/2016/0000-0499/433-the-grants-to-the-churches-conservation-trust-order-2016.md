@@ -32,7 +32,7 @@ summary: ''
 
 Ecclesiastical Law, England And Wales
 
-The Grants to the Churches Conservation Trust Order 2016 (revoked)[^key-a2f1600fb698777766838a648d7a4d46]
+The Grants to the Churches Conservation Trust Order 2016 (revoked)[^c-a2f1600fb698777766838a648d7a4d46]
 
 Made
 
@@ -42,32 +42,32 @@ Coming into force
 
 1st April 2016
 
-[^key-a2f1600fb698777766838a648d7a4d46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2f1600fb698777766838a648d7a4d46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-a2f1600fb698777766838a648d7a4d46]
+## 1. Citation and commencement[^c-a2f1600fb698777766838a648d7a4d46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Period for grants to the Churches Conservation Trust[^key-a2f1600fb698777766838a648d7a4d46]
+## 2. Period for grants to the Churches Conservation Trust[^c-a2f1600fb698777766838a648d7a4d46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Aggregate amount of grants[^key-a2f1600fb698777766838a648d7a4d46]
+## 3. Aggregate amount of grants[^c-a2f1600fb698777766838a648d7a4d46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of previous Order[^key-a2f1600fb698777766838a648d7a4d46]
+## 4. Revocation of previous Order[^c-a2f1600fb698777766838a648d7a4d46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2f1600fb698777766838a648d7a4d46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2f1600fb698777766838a648d7a4d46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-a2f1600fb698777766838a648d7a4d46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a2f1600fb698777766838a648d7a4d46]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a2f1600fb698777766838a648d7a4d46]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/433) revoked (1.4.2020) by [The Grants to the Churches Conservation Trust Order 2020 (S.I. 2020/403)](https://www.legislation.gov.uk/uksi/2020/403), [arts. 1](https://www.legislation.gov.uk/uksi/2020/403/article/1), [4](https://www.legislation.gov.uk/uksi/2020/403/article/4)
+[^c-a2f1600fb698777766838a648d7a4d46]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2016/433) revoked (1.4.2020) by [The Grants to the Churches Conservation Trust Order 2020 (S.I. 2020/403)](https://www.legislation.gov.uk/uksi/2020/403), [arts. 1](https://www.legislation.gov.uk/uksi/2020/403/article/1), [4](https://www.legislation.gov.uk/uksi/2020/403/article/4)

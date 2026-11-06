@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 183. Testing of persons in police detention for presence of controlled drugs[^key-c62e7eb32cd2f48accef4fa47b20f0ae]
+## 183. Testing of persons in police detention for presence of controlled drugs[^c-c62e7eb32cd2f48accef4fa47b20f0ae]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c62e7eb32cd2f48accef4fa47b20f0ae]: Commencement: S. 183 in force at Royal Assent for specified purposes, see [s. 255(2)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/f)
+[^c-c62e7eb32cd2f48accef4fa47b20f0ae]: Commencement: S. 183 in force at Royal Assent for specified purposes, see [s. 255(2)(f)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/2/f)

@@ -24,9 +24,9 @@ Section 76.
 
 ### 1. Meaning of “investment LLP” and “property investment LLP”
 
-(1)[^key-7eeb50cea1cf90c5e04ec1b98df252ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-7eeb50cea1cf90c5e04ec1b98df252ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-6d1e47671265409f3d097ce48652b69f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-6d1e47671265409f3d097ce48652b69f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 288(1) of the Taxation of Chargeable Gains Act 1992 (c. 12) (interpretation), at the appropriate place insert—
 
@@ -59,7 +59,7 @@ In Chapter 6 of Part 14 of the Taxes Act 1988 (pension schemes, &c.: miscellaneo
 
 .
 
-### 3. Pension funds, &c.: exclusion of exemption from trusts rate in case of income from property investment LLPs[^key-8b00bb83c2277988448fffd443894a92]
+### 3. Pension funds, &c.: exclusion of exemption from trusts rate in case of income from property investment LLPs[^c-8b00bb83c2277988448fffd443894a92]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -71,11 +71,11 @@ In section 271 of the Taxation of Chargeable Gains Act 1992 (c. 12) (miscellaneo
 
 .
 
-### 5. Insurance companies: treatment of income or gains arising from property investment LLP[^key-3b63205df462fcfe043873cdb8243ee9]
+### 5. Insurance companies: treatment of income or gains arising from property investment LLP[^c-3b63205df462fcfe043873cdb8243ee9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Insurance companies: double taxation relief[^key-a4ec744ff02f1a7c636faf7f5b566d7a]
+### 6. Insurance companies: double taxation relief[^c-a4ec744ff02f1a7c636faf7f5b566d7a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -89,26 +89,26 @@ In section 545 of the Capital Allowances Act 2001 (c. 2) (life assurance busines
 
 .
 
-### 8. Friendly societies: exclusion of exemptions from tax[^key-3d39760381bc3798b81f94453d08e220]
+### 8. Friendly societies: exclusion of exemptions from tax[^c-3d39760381bc3798b81f94453d08e220]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Exclusion of relief on loans to buy into investment LLP[^key-86e11804005ca6b5d24b8336210c3bf5]
+### 9. Exclusion of relief on loans to buy into investment LLP[^c-86e11804005ca6b5d24b8336210c3bf5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7eeb50cea1cf90c5e04ec1b98df252ef]: Textual amendment: [Sch. 25 para. 1(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/25/paragraph/1/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-7eeb50cea1cf90c5e04ec1b98df252ef]: Textual amendment: [Sch. 25 para. 1(1)](https://www.legislation.gov.uk/ukpga/2001/9/schedule/25/paragraph/1/1) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-6d1e47671265409f3d097ce48652b69f]: Textual amendment: Sch. 25 para. 1(2) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-6d1e47671265409f3d097ce48652b69f]: Textual amendment: Sch. 25 para. 1(2) repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-8b00bb83c2277988448fffd443894a92]: Textual amendment: Sch. 25 para. 3 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-8b00bb83c2277988448fffd443894a92]: Textual amendment: Sch. 25 para. 3 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
 
-[^key-3b63205df462fcfe043873cdb8243ee9]: Textual amendment: [Sch. 25 para. 5](https://www.legislation.gov.uk/ukpga/2001/9/schedule/25/paragraph/5) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
+[^c-3b63205df462fcfe043873cdb8243ee9]: Textual amendment: [Sch. 25 para. 5](https://www.legislation.gov.uk/ukpga/2001/9/schedule/25/paragraph/5) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
 
-[^key-a4ec744ff02f1a7c636faf7f5b566d7a]: Textual amendment: [Sch. 25 para. 6](https://www.legislation.gov.uk/ukpga/2001/9/schedule/25/paragraph/6) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
+[^c-a4ec744ff02f1a7c636faf7f5b566d7a]: Textual amendment: [Sch. 25 para. 6](https://www.legislation.gov.uk/ukpga/2001/9/schedule/25/paragraph/6) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
 
-[^key-3d39760381bc3798b81f94453d08e220]: Textual amendment: [Sch. 25 para. 8](https://www.legislation.gov.uk/ukpga/2001/9/schedule/25/paragraph/8) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
+[^c-3d39760381bc3798b81f94453d08e220]: Textual amendment: [Sch. 25 para. 8](https://www.legislation.gov.uk/ukpga/2001/9/schedule/25/paragraph/8) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(7)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/7)
 
-[^key-86e11804005ca6b5d24b8336210c3bf5]: Textual amendment: Sch. 25 para. 9 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))
+[^c-86e11804005ca6b5d24b8336210c3bf5]: Textual amendment: Sch. 25 para. 9 repealed (with effect in accordance with s. 1034(1) of the amending Act) by [Income Tax Act 2007 (c. 3)](https://www.legislation.gov.uk/ukpga/2007/3), [s. 1034(1)](https://www.legislation.gov.uk/ukpga/2007/3/section/1034/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/3/schedule/3/part/1) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2007/3/schedule/2))

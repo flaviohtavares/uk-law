@@ -103,7 +103,7 @@ is inadequate or unsuitable, he may give to the managers such directions as he t
 
 #### 21. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6606531]
 
-#### 22. Penalties for assisting escape from prison, etc.[^key-d2c9e4af941a1a96633aa5e5a1fbeda3]
+#### 22. Penalties for assisting escape from prison, etc.[^c-d2c9e4af941a1a96633aa5e5a1fbeda3]
 
 (1)[^c6606601] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -127,13 +127,13 @@ is inadequate or unsuitable, he may give to the managers such directions as he t
 
 Provided that in relation to a prisoner committed to prison in default of payment of any sum of money, the rules shall provide for the application of any money withheld as aforesaid in or towards the satisfaction of the amount due from him unless, upon being informed of the receipt of the money, he objects to its being so applied.
 
-(3)[^c6606851] A prisoner who would, apart from this subsection, be discharged on any of the days to which this subsection applies in his case shall (subject to subsection (3B))[^key-8d62a35e80cc1eb1befea82395006efa] be discharged on the next preceding day which is not one of those days.
+(3)[^c6606851] A prisoner who would, apart from this subsection, be discharged on any of the days to which this subsection applies in his case shall (subject to subsection (3B))[^c-8d62a35e80cc1eb1befea82395006efa] be discharged on the next preceding day which is not one of those days.
 
-The days[^key-f0c567bdcabac08743d227eee950dac2] to which this subsection applies are Sunday, Christmas Day, Good Friday and any day which under the [^c6606861]Bank Holidays Act 1871 is a bank holiday in England and Wales and, in the case of a person who is serving a term of more than five days[^c6606871], any Saturday.
+The days[^c-f0c567bdcabac08743d227eee950dac2] to which this subsection applies are Sunday, Christmas Day, Good Friday and any day which under the [^c6606861]Bank Holidays Act 1871 is a bank holiday in England and Wales and, in the case of a person who is serving a term of more than five days[^c6606871], any Saturday.
 
-(3A)[^key-431c304a473b08b21c746a7ddfcff708] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3A)[^c-431c304a473b08b21c746a7ddfcff708] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3B)[^key-141c2888fdc69a4020178f0c9fe84804] The Secretary of State may direct that a prisoner who would, apart from this subsection, be discharged on a working day immediately before a non-working day, must instead be discharged on a day referred to in subsection (3C).
+(3B)[^c-141c2888fdc69a4020178f0c9fe84804] The Secretary of State may direct that a prisoner who would, apart from this subsection, be discharged on a working day immediately before a non-working day, must instead be discharged on a day referred to in subsection (3C).
 
 (3C) The days are—
 
@@ -148,9 +148,9 @@ The days[^key-f0c567bdcabac08743d227eee950dac2] to which this subsection applies
   - (b) any day that is a bank holiday under section 1 of the Banking and Financial Dealings Act 1971 in England and Wales;
 - “**working day**” means a day that is not a non-working day.
 
-(4) In this section the references to prisons and prisoners include references respectively to a young offender institution[^M_F_5dae2a5a-b1f2-40b1-bc96-c80e1fb039c0] , a secure college[^key-fef94eed74414b4d975315746ae5e7ee] secure training centres[^c6606891] and remand centres and to persons detained therein.
+(4) In this section the references to prisons and prisoners include references respectively to a young offender institution[^M_F_5dae2a5a-b1f2-40b1-bc96-c80e1fb039c0] , a secure college[^c-fef94eed74414b4d975315746ae5e7ee] secure training centres[^c6606891] and remand centres and to persons detained therein.
 
-(5)[^key-fc7c24d906aa4a3291365d5b77e13cc8] In subsections (3), (3B) and (3C), the references to a prisoner also include references to a person detained in—
+(5)[^c-fc7c24d906aa4a3291365d5b77e13cc8] In subsections (3), (3B) and (3C), the references to a prisoner also include references to a person detained in—
 
 - (a) a secure children’s home, or
 - (b) a secure 16 to 19 Academy,
@@ -342,13 +342,13 @@ In any case where a court is required by this Act to consider a report made by o
 (2)[^c6607991] For the purposes of any provisions of this Act referring to a person who is serving or has served a sentence of any description, the expression “**sentence**” includes—
 
 - (a) in any case, a sentence of that description passed by a court in Scotland, Northern Ireland, any of the Channel Islands or the Isle of Man; and
-- (b) in the case of imprisonment, [^key-f79097085bb6a198c05faddd25797c5b]... a sentence which is treated by virtue of the [^c6608031]Colonial Prisoners Removal Act 1884 as a sentence passed by a court in England and Wales.
+- (b) in the case of imprisonment, [^c-f79097085bb6a198c05faddd25797c5b]... a sentence which is treated by virtue of the [^c6608031]Colonial Prisoners Removal Act 1884 as a sentence passed by a court in England and Wales.
 
 (3)[^c6607991] [^c6608051]For the purposes . . .of sections twenty-two and thirty-four of this Act—
 
-- (a)[^c6608061] the expression “**imprisonment or detention**” means imprisonment, custody for life, detention in a young offender[^key-770396be1bf018d35fe9e2bb689eba56] institution or in a secure training centre or secure college[^key-b8d56a1b9689755561d1f84ad8e14835] or detention under an equivalent sentence passed by a court in the Channel Islands or the Isle of Man;
-- (b) the expression “**sentence**” includes [^key-4a2ba91269757a52d93102ae4bf39f09]... any order made by any court imposing imprisonment or detention, and “**sentenced**” shall be construed accordingly.
-- (c)[^c6608071] any reference to a person serving a sentence of, or sentenced to, imprisonment or detention shall be construed as including a reference to a person who, under any enactment relating to children and young persons in force in any part of the United Kingdom or any of the Channel Islands or the Isle of Man, has been sentenced by a court to be detained for an offence and is liable to be detained in accordance with a determination of the Secretary of State or of a person authorised by him, in accordance with arrangements made by the Secretary of State or in accordance with[^key-c0fb569f66d6112d9f540182e0feaf27] directions given by the Secretary of State, . . . [^c6608081] or by the Governor of the Isle of Man with the concurrence of the Secretary of State, and any other reference to a sentence of imprisonment or detention shall be construed accordingly.
+- (a)[^c6608061] the expression “**imprisonment or detention**” means imprisonment, custody for life, detention in a young offender[^c-770396be1bf018d35fe9e2bb689eba56] institution or in a secure training centre or secure college[^c-b8d56a1b9689755561d1f84ad8e14835] or detention under an equivalent sentence passed by a court in the Channel Islands or the Isle of Man;
+- (b) the expression “**sentence**” includes [^c-4a2ba91269757a52d93102ae4bf39f09]... any order made by any court imposing imprisonment or detention, and “**sentenced**” shall be construed accordingly.
+- (c)[^c6608071] any reference to a person serving a sentence of, or sentenced to, imprisonment or detention shall be construed as including a reference to a person who, under any enactment relating to children and young persons in force in any part of the United Kingdom or any of the Channel Islands or the Isle of Man, has been sentenced by a court to be detained for an offence and is liable to be detained in accordance with a determination of the Secretary of State or of a person authorised by him, in accordance with arrangements made by the Secretary of State or in accordance with[^c-c0fb569f66d6112d9f540182e0feaf27] directions given by the Secretary of State, . . . [^c6608081] or by the Governor of the Isle of Man with the concurrence of the Secretary of State, and any other reference to a sentence of imprisonment or detention shall be construed accordingly.
 
 (4)[^c6607991] For the purposes of any reference in this Act to a term of imprisonment or of detention in a detention centre or to a term of imprisonment or detention, consecutive terms and terms which are wholly or partly concurrent shall be treated as a single term.
 
@@ -369,7 +369,7 @@ and “**sentenced**” shall be construed accordingly.
 (1) In this Act, unless the context otherwise requires, the following expressions have the meanings hereby assigned to them, that is to say:—
 
 - “[^c6608241][^c6608231]**appropriate institution**”, in relation to any person, means, subject to subsection (1A) of this section, any institution which would be appropriate for the detention of an offender of the same age serving an equivalent sentence passed by a court in the place to which he has been transferred;
-- [^key-f3a6f5e1142ed595f7ea1757b0ed8368]...
+- [^c-f3a6f5e1142ed595f7ea1757b0ed8368]...
 - “**default**” means failure to pay, or want of sufficient distress to satisfy, any fine or other sum of money, or failure to do or abstain from doing any thing required to be done or left undone;
 - “**enactment**” includes an enactment of the Parliament of Northern Ireland;
 - “**prison**” does not include a naval, military or air force prison;
@@ -379,7 +379,7 @@ and “**sentenced**” shall be construed accordingly.
 
 . . . [^c6608271]
 
-(1ZA)[^key-43009474e7c3959c74f9d1365e9275ad] In the definition of “default” in subsection (1) the reference to want of sufficient distress to satisfy a fine or other sum includes a reference to circumstances where—
+(1ZA)[^c-43009474e7c3959c74f9d1365e9275ad] In the definition of “default” in subsection (1) the reference to want of sufficient distress to satisfy a fine or other sum includes a reference to circumstances where—
 
 - (a) there is power to use the procedure in Schedule 12 to the Tribunals, Courts and Enforcement Act 2007 to recover the fine or other sum from a person, but
 - (b) it appears, after an attempt has been made to exercise the power, that the person's goods are insufficient to pay the amount outstanding (as defined by paragraph 50(3) of that Schedule).
@@ -388,7 +388,7 @@ and “**sentenced**” shall be construed accordingly.
 
 (1B) Any reference in this Act to a sentence being equivalent to another sentence is to be construed as a reference to its having been so designated under section 38(6) of this Act.
 
-(2) Except as otherwise expressly provided, references in this Act to a court do not include the Court Martial, the Summary Appeal Court, the Service Civilian Court, the Court Martial Appeal Court or the Supreme Court on an appeal brought from the Court Martial Appeal Court.[^key-f13b10f8380546c83a5d35b9b92e3c35]
+(2) Except as otherwise expressly provided, references in this Act to a court do not include the Court Martial, the Summary Appeal Court, the Service Civilian Court, the Court Martial Appeal Court or the Supreme Court on an appeal brought from the Court Martial Appeal Court.[^c-f13b10f8380546c83a5d35b9b92e3c35]
 
 (3) Where the age of any person at any time is material for the purposes of any provision of this Act regulating the powers of a court or justice of the peace, his age at the material time shall be deemed to be or to have been that which appears to the court or justice, after considering any available evidence, to be or to have been his age at that time.
 
@@ -489,7 +489,7 @@ Section 41.
 | The Criminal Justice Act, 1948. 11 & 12 Geo. 6. c. 58. | Section eighteen shall cease to have effect. |
 | The Criminal Justice Act, 1948. 11 & 12 Geo. 6. c. 58 | [^c6609321]. . . |
 |  | In section thirty-eight , in subsection (4), for the words “ The Second Schedule to this Act” there shall be substituted the words “section forty five of the Prison Act, 1952” |
-|  | [^key-25cb4b8f3374048bb089153acb4a2a4e]. . . |
+|  | [^c-25cb4b8f3374048bb089153acb4a2a4e]. . . |
 |  | [^c6609321]. . . |
 |  | In section fifty-two, subsection (2) shall cease to have effect. |
 |  | [^c6609321]. . .. |
@@ -547,7 +547,7 @@ Section 41.
 
 [^c6606531]: Textual amendment: [S. 21](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/39/section/21) repealed by [Statute Law (Repeals) Act 1974 (c. 22)](https://www.legislation.gov.uk/ukpga/1974/22), [Sch. Pt. XI](https://www.legislation.gov.uk/ukpga/1974/22/schedule/part/XI)
 
-[^key-d2c9e4af941a1a96633aa5e5a1fbeda3]: Modification: S. 22 modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/8)
+[^c-d2c9e4af941a1a96633aa5e5a1fbeda3]: Modification: S. 22 modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 8](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/8)
 
 [^c6606601]: Textual amendment: S. 22(1) repealed (16.5.1992) by [Prison Security Act 1992 (c. 25)](https://www.legislation.gov.uk/ukpga/1992/25), [ss. 2(3)(4)](https://www.legislation.gov.uk/ukpga/1992/25/section/2/3/4), [3(2)](https://www.legislation.gov.uk/ukpga/1992/25/section/3/2).
 
@@ -563,25 +563,25 @@ Section 41.
 
 [^c6606851]: Modification: S. 23(3) excluded (1.9.2001) by [2001 c. 17](https://www.legislation.gov.uk/ukpga/2001/17), [s. 42](https://www.legislation.gov.uk/ukpga/2001/17/section/42), [Sch. 7 para. 2(1)(c)](https://www.legislation.gov.uk/ukpga/2001/17/schedule/7/paragraph/2/1/c); [S.I. 2001/2161](https://www.legislation.gov.uk/uksi/2001/2161), [art. 2](https://www.legislation.gov.uk/uksi/2001/2161/article/2)
 
-[^key-8d62a35e80cc1eb1befea82395006efa]: Textual amendment: Words in s. 23(3) inserted (12.12.2023) by [Offenders (Day of Release from Detention) Act 2023 (c. 25)](https://www.legislation.gov.uk/ukpga/2023/25), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2023/25/section/1/2), [3(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/3/3); [S.I. 2023/1329](https://www.legislation.gov.uk/uksi/2023/1329), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1329/regulation/2)
+[^c-8d62a35e80cc1eb1befea82395006efa]: Textual amendment: Words in s. 23(3) inserted (12.12.2023) by [Offenders (Day of Release from Detention) Act 2023 (c. 25)](https://www.legislation.gov.uk/ukpga/2023/25), [ss. 1(2)](https://www.legislation.gov.uk/ukpga/2023/25/section/1/2), [3(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/3/3); [S.I. 2023/1329](https://www.legislation.gov.uk/uksi/2023/1329), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1329/regulation/2)
 
-[^key-f0c567bdcabac08743d227eee950dac2]: Textual amendment: Words in s. 23(3) substituted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 2(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/2/a); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-f0c567bdcabac08743d227eee950dac2]: Textual amendment: Words in s. 23(3) substituted (3.12.2012) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 2(a)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/2/a); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
 
 [^c6606861]: Marginal citation: [1871 c. 17](https://www.legislation.gov.uk/ukpga/1871/17).
 
 [^c6606871]: Textual amendment: Words substituted by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [Sch. 14 para. 10](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14/paragraph/10)(*a*)
 
-[^key-431c304a473b08b21c746a7ddfcff708]: Textual amendment: S. 23(3A) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 2(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/2/b); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-431c304a473b08b21c746a7ddfcff708]: Textual amendment: S. 23(3A) omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 2(b)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/2/b); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
 
-[^key-141c2888fdc69a4020178f0c9fe84804]: Textual amendment: S. 23(3B)-(3D) inserted (12.12.2023) by [Offenders (Day of Release from Detention) Act 2023 (c. 25)](https://www.legislation.gov.uk/ukpga/2023/25), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/1/3), [3(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/3/3); [S.I. 2023/1329](https://www.legislation.gov.uk/uksi/2023/1329), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1329/regulation/2)
+[^c-141c2888fdc69a4020178f0c9fe84804]: Textual amendment: S. 23(3B)-(3D) inserted (12.12.2023) by [Offenders (Day of Release from Detention) Act 2023 (c. 25)](https://www.legislation.gov.uk/ukpga/2023/25), [ss. 1(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/1/3), [3(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/3/3); [S.I. 2023/1329](https://www.legislation.gov.uk/uksi/2023/1329), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1329/regulation/2)
 
 [^M_F_5dae2a5a-b1f2-40b1-bc96-c80e1fb039c0]: Textual amendment: Words in Act substituted (1.10.1988) by [Criminal Justice Act 1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), [Sch. 8 para. 1](https://www.legislation.gov.uk/ukpga/1988/33/schedule/8/paragraph/1)
 
-[^key-fef94eed74414b4d975315746ae5e7ee]: Textual amendment: Words in s. 23(4) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/6); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
+[^c-fef94eed74414b4d975315746ae5e7ee]: Textual amendment: Words in s. 23(4) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 6](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/6); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
 
 [^c6606891]: Textual amendment: Words in s. 23(4) inserted (3.2.1995) by [1994 c. 33](https://www.legislation.gov.uk/ukpga/1994/33), [s. 168(2)](https://www.legislation.gov.uk/ukpga/1994/33/section/168/2), [Sch. 10 para. 11](https://www.legislation.gov.uk/ukpga/1994/33/schedule/10/paragraph/11); [S.I. 1995/127](https://www.legislation.gov.uk/uksi/1995/127), [art. 2(1)](https://www.legislation.gov.uk/uksi/1995/127/article/2/1), [Sch.](https://www.legislation.gov.uk/uksi/1995/127/schedule) Appendix B
 
-[^key-fc7c24d906aa4a3291365d5b77e13cc8]: Textual amendment: S. 23(5)(6) inserted (12.12.2023) by [Offenders (Day of Release from Detention) Act 2023 (c. 25)](https://www.legislation.gov.uk/ukpga/2023/25), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2023/25/section/1/4), [3(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/3/3); [S.I. 2023/1329](https://www.legislation.gov.uk/uksi/2023/1329), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1329/regulation/2)
+[^c-fc7c24d906aa4a3291365d5b77e13cc8]: Textual amendment: S. 23(5)(6) inserted (12.12.2023) by [Offenders (Day of Release from Detention) Act 2023 (c. 25)](https://www.legislation.gov.uk/ukpga/2023/25), [ss. 1(4)](https://www.legislation.gov.uk/ukpga/2023/25/section/1/4), [3(3)](https://www.legislation.gov.uk/ukpga/2023/25/section/3/3); [S.I. 2023/1329](https://www.legislation.gov.uk/uksi/2023/1329), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1329/regulation/2)
 
 [^c6606901]: Marginal citation: [1952 c. 52](https://www.legislation.gov.uk/ukpga/1952/52).
 
@@ -707,7 +707,7 @@ Section 41.
 
 [^c6607991]: Modification: S. 38(2)–(5) extended by [Criminal Justice Act 1967 (c. 80)](https://www.legislation.gov.uk/ukpga/1967/80), [s. 14(4)](https://www.legislation.gov.uk/ukpga/1967/80/section/14/4)
 
-[^key-f79097085bb6a198c05faddd25797c5b]: Textual amendment: Words in s. 38(2)(b) repealed (28.3.2009 for specified purposes) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-f79097085bb6a198c05faddd25797c5b]: Textual amendment: Words in s. 38(2)(b) repealed (28.3.2009 for specified purposes) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
 [^c6608031]: Marginal citation: [1884 c. 31](https://www.legislation.gov.uk/ukpga/1884/31).
 
@@ -715,15 +715,15 @@ Section 41.
 
 [^c6608061]: Textual amendment: S. 38(3)(a) substituted (1.3.1998) by 1994 by virtue of c. 33, s. 168(2), Sch. 10 para. 12(5); [S.I. 1998/277](https://www.legislation.gov.uk/uksi/1998/277), [art. 3(2)](https://www.legislation.gov.uk/uksi/1998/277/article/3/2)
 
-[^key-770396be1bf018d35fe9e2bb689eba56]: Textual amendment: Words in [s. 38(3)(a)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/39/section/38/3/a) substituted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 7(a)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/7/a); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
+[^c-770396be1bf018d35fe9e2bb689eba56]: Textual amendment: Words in [s. 38(3)(a)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/39/section/38/3/a) substituted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 7(a)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/7/a); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
 
-[^key-b8d56a1b9689755561d1f84ad8e14835]: Textual amendment: Words in [s. 38(3)(a)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/39/section/38/3/a) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 7(b)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/7/b); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
+[^c-b8d56a1b9689755561d1f84ad8e14835]: Textual amendment: Words in [s. 38(3)(a)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/39/section/38/3/a) inserted (20.3.2015) by [Criminal Justice and Courts Act 2015 (c. 2)](https://www.legislation.gov.uk/ukpga/2015/2), [s. 95(1)](https://www.legislation.gov.uk/ukpga/2015/2/section/95/1), [Sch. 9 para. 7(b)](https://www.legislation.gov.uk/ukpga/2015/2/schedule/9/paragraph/7/b); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 2(1)(c)](https://www.legislation.gov.uk/uksi/2015/778/article/2/1/c)
 
-[^key-4a2ba91269757a52d93102ae4bf39f09]: Textual amendment: Words in s. 38(3)(b) repealed (28.3.2009 for specified purposes) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-4a2ba91269757a52d93102ae4bf39f09]: Textual amendment: Words in s. 38(3)(b) repealed (28.3.2009 for specified purposes) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
 [^c6608071]: Textual amendment: S. 38(3)(*c*) added by [Criminal Justice Act 1967 (c. 80)](https://www.legislation.gov.uk/ukpga/1967/80), [s. 69(1)](https://www.legislation.gov.uk/ukpga/1967/80/section/69/1)
 
-[^key-c0fb569f66d6112d9f540182e0feaf27]: Textual amendment: Words in s. 38(3)(c) inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/4); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 48(c)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/48/c)
+[^c-c0fb569f66d6112d9f540182e0feaf27]: Textual amendment: Words in s. 38(3)(c) inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [s. 153(7)](https://www.legislation.gov.uk/ukpga/2008/4/section/153/7), [Sch. 26 para. 4](https://www.legislation.gov.uk/ukpga/2008/4/schedule/26/paragraph/4); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 48(c)](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/48/c)
 
 [^c6608081]: Textual amendment: Words repealed by [S.I. 1973/2163](https://www.legislation.gov.uk/uksi/1973/2163), [Sch. 6](https://www.legislation.gov.uk/uksi/1973/2163/schedule/6)
 
@@ -739,19 +739,19 @@ Section 41.
 
 [^c6608231]: Textual amendment: Definition substituted by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [Sch. 14 para. 16(a)](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14/paragraph/16/a)
 
-[^key-f3a6f5e1142ed595f7ea1757b0ed8368]: Textual amendment: Words in s. 39(1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f3a6f5e1142ed595f7ea1757b0ed8368]: Textual amendment: Words in s. 39(1) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c6608261]: Textual amendment: Words substituted by [Criminal Law Act 1977 (c. 45)](https://www.legislation.gov.uk/ukpga/1977/45), [Sch. 12](https://www.legislation.gov.uk/ukpga/1977/45/schedule/12)
 
 [^c6608271]: Textual amendment: Definition repealed by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [Sch. 16](https://www.legislation.gov.uk/ukpga/1982/48/schedule/16)
 
-[^key-43009474e7c3959c74f9d1365e9275ad]: Textual amendment: [S. 39(1ZA)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/39/section/39/1ZA) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 26](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/26) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
+[^c-43009474e7c3959c74f9d1365e9275ad]: Textual amendment: [S. 39(1ZA)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/39/section/39/1ZA) inserted (6.4.2014) by [Tribunals, Courts and Enforcement Act 2007 (c. 15)](https://www.legislation.gov.uk/ukpga/2007/15), [s. 148](https://www.legislation.gov.uk/ukpga/2007/15/section/148), [Sch. 13 para. 26](https://www.legislation.gov.uk/ukpga/2007/15/schedule/13/paragraph/26) (with [s. 89](https://www.legislation.gov.uk/ukpga/2007/15/section/89)); [S.I. 2014/768](https://www.legislation.gov.uk/uksi/2014/768), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/768/article/2/1/b)
 
 [^c6608291]: Textual amendment: S. 39(1A) repealed (E.W.)(1.10.1997) by [1997 c. 43](https://www.legislation.gov.uk/ukpga/1997/43), [s. 56(2)](https://www.legislation.gov.uk/ukpga/1997/43/section/56/2), [Sch. 6](https://www.legislation.gov.uk/ukpga/1997/43/schedule/6); [S.I. 1997/2200](https://www.legislation.gov.uk/uksi/1997/2200), [art. 2(1)(o)](https://www.legislation.gov.uk/uksi/1997/2200/article/2/1/o)
 
 [^c6608281]: Textual amendment: S. 39(1A)(1B) inserted by [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [Sch. 14 para. 16(b)](https://www.legislation.gov.uk/ukpga/1982/48/schedule/14/paragraph/16/b)
 
-[^key-f13b10f8380546c83a5d35b9b92e3c35]: Textual amendment: S. 39(2) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 47](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/47); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-f13b10f8380546c83a5d35b9b92e3c35]: Textual amendment: S. 39(2) substituted (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 16 para. 47](https://www.legislation.gov.uk/ukpga/2006/52/schedule/16/paragraph/47); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c6608331]: Textual amendment: [S. 40(1)](https://www.legislation.gov.uk/ukpga/Eliz2/9-10/39/section/40/1) repealed by [Northern Ireland Constitution Act 1973 (c. 36)](https://www.legislation.gov.uk/ukpga/1973/36), [Sch. 6 Pt. I](https://www.legislation.gov.uk/ukpga/1973/36/schedule/6/part/I)
 
@@ -779,7 +779,7 @@ Section 41.
 
 [^c6609321]: Textual amendment: Words and entries in Schedule 4 repealed severally by [Criminal Justice (Scotland) Act 1963 (c. 39, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1963/39), [s. 52(2)(3)](https://www.legislation.gov.uk/ukpga/1963/39/section/52/2/3), [Sch. 6](https://www.legislation.gov.uk/ukpga/1963/39/schedule/6), Statute Law Repeals Act 1963, [Children And Young Persons Act 1963 (c. 37, SIF 20)](https://www.legislation.gov.uk/ukpga/1963/37), [s. 64(3)](https://www.legislation.gov.uk/ukpga/1963/37/section/64/3), [Sch. 5](https://www.legislation.gov.uk/ukpga/1963/37/schedule/5), Statute Law Repeals Act 1965, [Children and Young Persons Act 1969 (c. 54, SIF 20)](https://www.legislation.gov.uk/ukpga/1969/54), [s. 72(4)](https://www.legislation.gov.uk/ukpga/1969/54/section/72/4), [Sch. 6](https://www.legislation.gov.uk/ukpga/1969/54/schedule/6), [Domestic Proceedings and Magistrates' Courts Act 1978 (c. 22, SIF 49:3)](https://www.legislation.gov.uk/ukpga/1978/22)), s. 89, Sch. 3, [Magistrates' Courts Act 1980 (c. 43, SIF 82)](https://www.legislation.gov.uk/ukpga/1980/43), [s. 154](https://www.legislation.gov.uk/ukpga/1980/43/section/154), [Sch. 9](https://www.legislation.gov.uk/ukpga/1980/43/schedule/9), [Supreme Court Act 1981 (c. 54, SIF 37)](https://www.legislation.gov.uk/ukpga/1981/54), [s. 152(4)](https://www.legislation.gov.uk/ukpga/1981/54/section/152/4), [Sch. 7](https://www.legislation.gov.uk/ukpga/1981/54/schedule/7), [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [s. 78](https://www.legislation.gov.uk/ukpga/1982/48/section/78), [Sch. 16](https://www.legislation.gov.uk/ukpga/1982/48/schedule/16),
 
-[^key-25cb4b8f3374048bb089153acb4a2a4e]: Textual amendment: Words in Sch. 4 repealed (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 7 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/2/1); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(m)](https://www.legislation.gov.uk/uksi/2003/708/article/2/m)
+[^c-25cb4b8f3374048bb089153acb4a2a4e]: Textual amendment: Words in Sch. 4 repealed (1.4.2003) by [Criminal Justice and Police Act 2001 (c. 16)](https://www.legislation.gov.uk/ukpga/2001/16), [s. 138(2)](https://www.legislation.gov.uk/ukpga/2001/16/section/138/2), [Sch. 7 Pt. 2(1)](https://www.legislation.gov.uk/ukpga/2001/16/schedule/7/part/2/1); [S.I. 2003/708](https://www.legislation.gov.uk/uksi/2003/708), [art. 2(m)](https://www.legislation.gov.uk/uksi/2003/708/article/2/m)
 
 [^c6609491]: Textual amendment: Entry in Sch. 4 repealed (16.5.1992) by [Prison Security Act 1992 (c. 25)](https://www.legislation.gov.uk/ukpga/1992/25), [ss. 2(3)(4)](https://www.legislation.gov.uk/ukpga/1992/25/section/2/3/4), [3(2)](https://www.legislation.gov.uk/ukpga/1992/25/section/3/2).
 

@@ -33,30 +33,30 @@ of 10 September 2015
 
 amending Regulation (EU) No 1333/2014 concerning statistics on the money markets (ECB/2015/30) (revoked)
 
-[^key-726a56fa2611cf28638826cd0af822ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-726a56fa2611cf28638826cd0af822ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments[^key-726a56fa2611cf28638826cd0af822ec]
+## Article 1. Amendments[^c-726a56fa2611cf28638826cd0af822ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Final provisions[^key-726a56fa2611cf28638826cd0af822ec]
+## Article 2. Final provisions[^c-726a56fa2611cf28638826cd0af822ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-726a56fa2611cf28638826cd0af822ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-726a56fa2611cf28638826cd0af822ec]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I[^key-726a56fa2611cf28638826cd0af822ec]
+## ANNEX I[^c-726a56fa2611cf28638826cd0af822ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-726a56fa2611cf28638826cd0af822ec]
+## ANNEX II[^c-726a56fa2611cf28638826cd0af822ec]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-726a56fa2611cf28638826cd0af822ec]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 85](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/85)
+[^c-726a56fa2611cf28638826cd0af822ec]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 85](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/85)

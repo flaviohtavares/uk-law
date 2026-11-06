@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46Z27. Technical assistance relating to liquefied natural gas[^key-b679795f4dfac9be9858fb514b5a3313]
+## 46Z27. Technical assistance relating to liquefied natural gas[^c-b679795f4dfac9be9858fb514b5a3313]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-3178b6e4c7b69df039228d7ebfa1ad6b] A person must not directly or indirectly provide technical assistance relating to—
+(1)[^c-3178b6e4c7b69df039228d7ebfa1ad6b] A person must not directly or indirectly provide technical assistance relating to—
 
 - (a) the import of liquefied natural gas which—
   - (i) originates in Russia, or
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b679795f4dfac9be9858fb514b5a3313]: Textual amendment: Pt. 5 Chs. 4L, 4M inserted (1.1.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2022/1110/regulation/6)
+[^c-b679795f4dfac9be9858fb514b5a3313]: Textual amendment: Pt. 5 Chs. 4L, 4M inserted (1.1.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 15) Regulations 2022 (S.I. 2022/1110)](https://www.legislation.gov.uk/uksi/2022/1110), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2022/1110/regulation/1/2/a), [6](https://www.legislation.gov.uk/uksi/2022/1110/regulation/6)
 
-[^key-3178b6e4c7b69df039228d7ebfa1ad6b]: Textual amendment: [Reg. 46Z27(1)](https://www.legislation.gov.uk/uksi/2019/855/regulation/46Z27/1) substituted (1.1.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/a), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2022/1331/schedule/4/paragraph/9)
+[^c-3178b6e4c7b69df039228d7ebfa1ad6b]: Textual amendment: [Reg. 46Z27(1)](https://www.legislation.gov.uk/uksi/2019/855/regulation/46Z27/1) substituted (1.1.2023) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 17) Regulations 2022 (S.I. 2022/1331)](https://www.legislation.gov.uk/uksi/2022/1331), [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2022/1331/regulation/1/2/a), [Sch. 4 para. 9](https://www.legislation.gov.uk/uksi/2022/1331/schedule/4/paragraph/9)

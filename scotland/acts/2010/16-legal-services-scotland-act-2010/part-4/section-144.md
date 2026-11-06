@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 144. Minor amendments[^key-82e39dcb6f3bdbc24b1f94232ed26b2d]
+## 144. Minor amendments[^c-82e39dcb6f3bdbc24b1f94232ed26b2d]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ In the 2007 Act—
 
 ## Annotations
 
-[^key-82e39dcb6f3bdbc24b1f94232ed26b2d]: Commencement: [S. 144](https://www.legislation.gov.uk/asp/2010/16/section/144) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-82e39dcb6f3bdbc24b1f94232ed26b2d]: Commencement: [S. 144](https://www.legislation.gov.uk/asp/2010/16/section/144) in force at 1.4.2011 by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)

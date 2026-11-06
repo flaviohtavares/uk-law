@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Information sharing[^key-9ccdfa941bf76ace82f7283d02dd851f][^key-ca64799360b0a4bcaf3337f28068ef01]
+## 5. Information sharing[^c-9ccdfa941bf76ace82f7283d02dd851f][^c-ca64799360b0a4bcaf3337f28068ef01]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ without the consent of the Minister.
 
 ## Annotations
 
-[^key-9ccdfa941bf76ace82f7283d02dd851f]: Commencement: S. 5 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-9ccdfa941bf76ace82f7283d02dd851f]: Commencement: S. 5 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-ca64799360b0a4bcaf3337f28068ef01]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/28/section/5) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-ca64799360b0a4bcaf3337f28068ef01]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2025/28/section/5) in force at 1.4.2026 by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

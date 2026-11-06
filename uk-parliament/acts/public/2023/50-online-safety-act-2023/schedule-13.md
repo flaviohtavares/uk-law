@@ -22,7 +22,7 @@ summary: ''
 
 Section 143
 
-### 1. Meaning of “penalty” in this Schedule[^key-6ddbde17b11f1c3f4a1d509d28dd5d2e][^key-1dc73e2cfbd112502ee7b397470653b3]
+### 1. Meaning of “penalty” in this Schedule[^c-6ddbde17b11f1c3f4a1d509d28dd5d2e][^c-1dc73e2cfbd112502ee7b397470653b3]
 
 Except as otherwise indicated, references in this Schedule to a “penalty” are to any of the following—
 
@@ -33,7 +33,7 @@ Except as otherwise indicated, references in this Schedule to a “penalty” ar
 - (c) a penalty imposed by a penalty notice under section 140(5);
 - (d) a penalty imposed by a penalty notice under section 141(6).
 
-### 2. Amount of penalties: principles[^key-7416ed19547e0dbcf67178cc3b1b088d][^key-3caa0fc465b526a18c51e09663ab3ca0]
+### 2. Amount of penalties: principles[^c-7416ed19547e0dbcf67178cc3b1b088d][^c-3caa0fc465b526a18c51e09663ab3ca0]
 
 (1) In determining the amount of a penalty to be imposed on a person, OFCOM must, in particular, take into account—
 
@@ -60,7 +60,7 @@ Except as otherwise indicated, references in this Schedule to a “penalty” ar
 
 (5) See also section 392 of the Communications Act (which requires OFCOM to produce guidelines about their determination of the amount of penalties that they impose).
 
-### 3. Limitation to type and amount of penalties previously proposed[^key-0acd2fdf17ad560d2580867d8b8b34cf][^key-3b692cb3f721bc83177084e1e00014e1]
+### 3. Limitation to type and amount of penalties previously proposed[^c-0acd2fdf17ad560d2580867d8b8b34cf][^c-3b692cb3f721bc83177084e1e00014e1]
 
 (1) A confirmation decision or penalty notice may not impose a penalty of a different kind, of a greater amount or (in the case of a penalty calculated by reference to a daily rate) payable over a longer period than that proposed in the earlier notice in relation to the same matter.
 
@@ -68,7 +68,7 @@ Except as otherwise indicated, references in this Schedule to a “penalty” ar
 
 (3) In this paragraph “**penalty notice**” means a penalty notice under section 139, 140(5) or 141(6).
 
-### 4. Maximum amount of penalties[^key-a627a23a1c2f1854635ae1b1cf2e6097][^key-7ef1a0b21510a6083c5a20d13d9b1ada]
+### 4. Maximum amount of penalties[^c-a627a23a1c2f1854635ae1b1cf2e6097][^c-7ef1a0b21510a6083c5a20d13d9b1ada]
 
 (1) Where a penalty is imposed on a person in respect of a regulated service provided by that person, the maximum amount of the penalty for which the person is liable is whichever is the greater of—
 
@@ -93,7 +93,7 @@ If the duration of that accounting period is more than a year, that amount is to
 
 (9) Regulations made by OFCOM under section 85(1)(a) (including regulations making provision of a kind mentioned in section 85(3), (4) or (5)) apply for the purpose of determining the qualifying worldwide revenue of a provider of a regulated service for an accounting period as mentioned in this paragraph as they apply for the purpose of determining the qualifying worldwide revenue of a provider of a regulated service for a qualifying period for the purposes of Part 6.
 
-### 5. Maximum amount of penalties: group of entities[^key-740ef44433097b078dac041c6e11a203][^key-4be5f0a452f16787c199afcf504e3a33]
+### 5. Maximum amount of penalties: group of entities[^c-740ef44433097b078dac041c6e11a203][^c-4be5f0a452f16787c199afcf504e3a33]
 
 (1) This paragraph contains modifications of paragraph 4 in a case where, in accordance with Schedule 15, two or more entities are jointly and severally liable for a penalty.
 
@@ -140,7 +140,7 @@ If the duration of that accounting period is more than a year, that amount is to
 
 (11) Regulations under sub-paragraph (9) may make provision subject to such exemptions and exceptions as OFCOM consider appropriate.
 
-### 6. Recovery of penalties[^key-706a3929489a1f259ae9c41b589f68ec][^key-f87ae310f650a90ba7fc810ef2251603]
+### 6. Recovery of penalties[^c-706a3929489a1f259ae9c41b589f68ec][^c-f87ae310f650a90ba7fc810ef2251603]
 
 (1) In England and Wales, a penalty is recoverable—
 
@@ -156,26 +156,26 @@ If the duration of that accounting period is more than a year, that amount is to
 
 ## Annotations
 
-[^key-6ddbde17b11f1c3f4a1d509d28dd5d2e]: Commencement: Sch. 13 para. 1 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-6ddbde17b11f1c3f4a1d509d28dd5d2e]: Commencement: Sch. 13 para. 1 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-1dc73e2cfbd112502ee7b397470653b3]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2023/50/schedule/13/paragraph/1) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)[(z36)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z36)
+[^c-1dc73e2cfbd112502ee7b397470653b3]: Commencement: [Sch. 13 para. 1](https://www.legislation.gov.uk/ukpga/2023/50/schedule/13/paragraph/1) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)[(z36)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z36)
 
-[^key-7416ed19547e0dbcf67178cc3b1b088d]: Commencement: Sch. 13 para. 2 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-7416ed19547e0dbcf67178cc3b1b088d]: Commencement: Sch. 13 para. 2 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-3caa0fc465b526a18c51e09663ab3ca0]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2023/50/schedule/13/paragraph/2) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)[(z36)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z36)
+[^c-3caa0fc465b526a18c51e09663ab3ca0]: Commencement: [Sch. 13 para. 2](https://www.legislation.gov.uk/ukpga/2023/50/schedule/13/paragraph/2) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)[(z36)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z36)
 
-[^key-0acd2fdf17ad560d2580867d8b8b34cf]: Commencement: Sch. 13 para. 3 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-0acd2fdf17ad560d2580867d8b8b34cf]: Commencement: Sch. 13 para. 3 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-3b692cb3f721bc83177084e1e00014e1]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2023/50/schedule/13/paragraph/3) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)[(z36)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z36)
+[^c-3b692cb3f721bc83177084e1e00014e1]: Commencement: [Sch. 13 para. 3](https://www.legislation.gov.uk/ukpga/2023/50/schedule/13/paragraph/3) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)[(z36)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z36)
 
-[^key-a627a23a1c2f1854635ae1b1cf2e6097]: Commencement: Sch. 13 para. 4 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-a627a23a1c2f1854635ae1b1cf2e6097]: Commencement: Sch. 13 para. 4 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-7ef1a0b21510a6083c5a20d13d9b1ada]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2023/50/schedule/13/paragraph/4) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)[(z36)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z36)
+[^c-7ef1a0b21510a6083c5a20d13d9b1ada]: Commencement: [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2023/50/schedule/13/paragraph/4) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)[(z36)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z36)
 
-[^key-740ef44433097b078dac041c6e11a203]: Commencement: Sch. 13 para. 5 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-740ef44433097b078dac041c6e11a203]: Commencement: Sch. 13 para. 5 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-4be5f0a452f16787c199afcf504e3a33]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2023/50/schedule/13/paragraph/5) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)[(z36)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z36)
+[^c-4be5f0a452f16787c199afcf504e3a33]: Commencement: [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2023/50/schedule/13/paragraph/5) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)[(z36)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z36)
 
-[^key-706a3929489a1f259ae9c41b589f68ec]: Commencement: Sch. 13 para. 6 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-706a3929489a1f259ae9c41b589f68ec]: Commencement: Sch. 13 para. 6 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-f87ae310f650a90ba7fc810ef2251603]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2023/50/schedule/13/paragraph/6) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)[(z36)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z36)
+[^c-f87ae310f650a90ba7fc810ef2251603]: Commencement: [Sch. 13 para. 6](https://www.legislation.gov.uk/ukpga/2023/50/schedule/13/paragraph/6) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z17)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z17)[(z36)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z36)

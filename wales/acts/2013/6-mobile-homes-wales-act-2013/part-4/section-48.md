@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Agreements to which Part applies[^key-1f79f83b5b3417977bbfd7fbfe814eff]
+## 48. Agreements to which Part applies[^c-1f79f83b5b3417977bbfd7fbfe814eff]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1f79f83b5b3417977bbfd7fbfe814eff]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2013/6/section/48) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))
+[^c-1f79f83b5b3417977bbfd7fbfe814eff]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2013/6/section/48) in force at 1.10.2014 by [S.I. 2014/11](https://www.legislation.gov.uk/wsi/2014/11), [art. 3(1)(d)](https://www.legislation.gov.uk/wsi/2014/11/article/3/1/d) (with [art. 4](https://www.legislation.gov.uk/wsi/2014/11/article/4))

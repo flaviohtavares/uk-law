@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 23 — ORGANIC SOLVENT EMISSIONS ACTIVITIES[^key-abc7f8bc571096b511d9ee1c1243a1f4]
+## SCHEDULE 23 — ORGANIC SOLVENT EMISSIONS ACTIVITIES[^c-abc7f8bc571096b511d9ee1c1243a1f4]
 
 *Extent: S*
 
@@ -452,9 +452,9 @@ SEPA may authorise by way of appropriate conditions any reduction scheme special
 
 ## Annotations
 
-[^key-abc7f8bc571096b511d9ee1c1243a1f4]: Textual amendment: [Sch. 23](https://www.legislation.gov.uk/ssi/2018/219/schedule/23) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 14](https://www.legislation.gov.uk/ssi/2025/165/schedule/14) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-abc7f8bc571096b511d9ee1c1243a1f4]: Textual amendment: [Sch. 23](https://www.legislation.gov.uk/ssi/2018/219/schedule/23) inserted (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 14](https://www.legislation.gov.uk/ssi/2025/165/schedule/14) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
-[^f01043]: Footnote: (1)[^key-abc7f8bc571096b511d9ee1c1243a1f4]
+[^f01043]: Footnote: (1)[^c-abc7f8bc571096b511d9ee1c1243a1f4]
 
     Emission limit values (1) and (2) refer to mass of compounds in mg/Nm<sup>3</sup> and not to total carbon.
 

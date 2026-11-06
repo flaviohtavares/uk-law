@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18B. Limits on charging under section 18A(1)[^key-62002fb76b9d9d66471710af724fc08e]
+## 18B. Limits on charging under section 18A(1)[^c-62002fb76b9d9d66471710af724fc08e]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62002fb76b9d9d66471710af724fc08e]: Textual amendment: Ss. 18A-18C inserted (18.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section) [10(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/2), [240(4)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/4/f) (with [s. 10(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/5)); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/411/article/2/d); [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/887/article/2/f)
+[^c-62002fb76b9d9d66471710af724fc08e]: Textual amendment: Ss. 18A-18C inserted (18.2.2012 for specified purposes, 1.4.2012 in so far as not already in force) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20) [ss.](https://www.legislation.gov.uk/ukpga/2011/20/section) [10(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/2), [240(4)(f)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/4/f) (with [s. 10(5)](https://www.legislation.gov.uk/ukpga/2011/20/section/10/5)); [S.I. 2012/411](https://www.legislation.gov.uk/uksi/2012/411), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/411/article/2/d); [S.I. 2012/887](https://www.legislation.gov.uk/wsi/2012/887), [art. 2(f)](https://www.legislation.gov.uk/wsi/2012/887/article/2/f)

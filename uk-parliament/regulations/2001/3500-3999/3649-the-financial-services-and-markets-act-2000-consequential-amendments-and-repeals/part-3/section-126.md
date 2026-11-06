@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Interpretation of expressions relating to insurance[^key-4ea06a571a16caadf97172198699a0cf]
+## 126. Interpretation of expressions relating to insurance[^c-4ea06a571a16caadf97172198699a0cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ In the Pensions Schemes Act 1993, after section 180 insert—
 
 ## Annotations
 
-[^key-4ea06a571a16caadf97172198699a0cf]: Commencement: Art. 126 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-4ea06a571a16caadf97172198699a0cf]: Commencement: Art. 126 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

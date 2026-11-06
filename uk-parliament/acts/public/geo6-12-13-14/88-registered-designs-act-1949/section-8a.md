@@ -26,7 +26,7 @@ summary: ''
 
 (3) Notice of the application shall be published by the registrar in the prescribed manner.
 
-(4) If the registrar is satisfied that the failure of the proprietor[^key-4757162293f52c1dcee6a0103174079a] to see that the period for which the right subsisted was extended in accordance with section 8(2) or (4)was unintentional[^key-7bdb3a89332f7fa0755726a96cc6dfb1], he shall, on payment of any unpaid renewal fee and any prescribed additional fee, order the restoration of the right in the design.
+(4) If the registrar is satisfied that the failure of the proprietor[^c-4757162293f52c1dcee6a0103174079a] to see that the period for which the right subsisted was extended in accordance with section 8(2) or (4)was unintentional[^c-7bdb3a89332f7fa0755726a96cc6dfb1], he shall, on payment of any unpaid renewal fee and any prescribed additional fee, order the restoration of the right in the design.
 
 (5) The order may be made subject to such conditions as the registrar thinks fit, and if the proprietor of the design does not comply with any condition the registrar may revoke the order and give such consequential directions as he thinks fit.
 
@@ -36,6 +36,6 @@ summary: ''
 
 [^c1323172]: Textual amendment: Ss. 8, 8A, 8B substituted for s. 8 by [Copyright, Designs and Patents Act 1988 (c. 48, SIF 67A)](https://www.legislation.gov.uk/ukpga/1988/48), [s. 269(1)(2)](https://www.legislation.gov.uk/ukpga/1988/48/section/269/1/2)
 
-[^key-4757162293f52c1dcee6a0103174079a]: Textual amendment: Words in s. 8A(4) substituted (1.10.2006) by [Regulatory Reform (Registered Designs) Order 2006 (S.I. 2006/1974)](https://www.legislation.gov.uk/uksi/2006/1974), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1974/article/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2006/1974/article/17/a)
+[^c-4757162293f52c1dcee6a0103174079a]: Textual amendment: Words in s. 8A(4) substituted (1.10.2006) by [Regulatory Reform (Registered Designs) Order 2006 (S.I. 2006/1974)](https://www.legislation.gov.uk/uksi/2006/1974), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1974/article/1/1), [17(a)](https://www.legislation.gov.uk/uksi/2006/1974/article/17/a)
 
-[^key-7bdb3a89332f7fa0755726a96cc6dfb1]: Textual amendment: Words in s. 8A(4) inserted (1.10.2006) by [Regulatory Reform (Registered Designs) Order 2006 (S.I. 2006/1974)](https://www.legislation.gov.uk/uksi/2006/1974), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1974/article/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2006/1974/article/17/b)
+[^c-7bdb3a89332f7fa0755726a96cc6dfb1]: Textual amendment: Words in s. 8A(4) inserted (1.10.2006) by [Regulatory Reform (Registered Designs) Order 2006 (S.I. 2006/1974)](https://www.legislation.gov.uk/uksi/2006/1974), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2006/1974/article/1/1), [17(b)](https://www.legislation.gov.uk/uksi/2006/1974/article/17/b)

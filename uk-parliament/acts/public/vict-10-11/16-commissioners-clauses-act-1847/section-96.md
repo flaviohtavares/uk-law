@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96. Power to make byelaws for regulating the conduct of the officers, &c. of the commissioners.[^c5651831][^key-4638189990d2367b8ac6fe07ec3a5d5e][^key-173809ed5467bb22d2e78c06314db07c]
+## 96. Power to make byelaws for regulating the conduct of the officers, &c. of the commissioners.[^c5651831][^c-4638189990d2367b8ac6fe07ec3a5d5e][^c-173809ed5467bb22d2e78c06314db07c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ The commissioners may from time to time make such byelaws as they think fit, for
 
     [S. 96](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/96) incorporated (E.W.S) (18.6.2001) by [S.I. 2001/2184](https://www.legislation.gov.uk/uksi/2001/2184), [art. 2](https://www.legislation.gov.uk/uksi/2001/2184/article/2)
 
-[^key-4638189990d2367b8ac6fe07ec3a5d5e]: Modification: [S. 96](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/96) incorporated (E.W.S.) (1.6.2009) by [Berwick Upon Tweed Harbour Revision (Constitution) Order 2009 (S.I. 2009/1231)](https://www.legislation.gov.uk/uksi/2009/1231), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1231/article/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1231/article/2)
+[^c-4638189990d2367b8ac6fe07ec3a5d5e]: Modification: [S. 96](https://www.legislation.gov.uk/ukpga/Vict/10-11/16/section/96) incorporated (E.W.S.) (1.6.2009) by [Berwick Upon Tweed Harbour Revision (Constitution) Order 2009 (S.I. 2009/1231)](https://www.legislation.gov.uk/uksi/2009/1231), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2009/1231/article/1/1), [2](https://www.legislation.gov.uk/uksi/2009/1231/article/2)
 
-[^key-173809ed5467bb22d2e78c06314db07c]: Modification: Ss. 94-97 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)
+[^c-173809ed5467bb22d2e78c06314db07c]: Modification: Ss. 94-97 incorporated (E.W.S.) (21.5.2010) by [The Newlyn Pier and Harbour Revision (Constitution) Order 2010 (S.I. 2010/1462)](https://www.legislation.gov.uk/uksi/2010/1462), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2010/1462/article/1/1), [3](https://www.legislation.gov.uk/uksi/2010/1462/article/3)

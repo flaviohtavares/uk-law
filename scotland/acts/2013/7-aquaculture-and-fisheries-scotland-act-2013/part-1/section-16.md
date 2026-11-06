@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Control agreements[^key-a51e8ecbff26e23d12a83fa1cdad4c19]
+## 16. Control agreements[^c-a51e8ecbff26e23d12a83fa1cdad4c19]
 
 *Extent: S*
 
@@ -59,4 +59,4 @@ the fish farm or shellfish farm.
 
 ## Annotations
 
-[^key-a51e8ecbff26e23d12a83fa1cdad4c19]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2013/7/section/16) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-a51e8ecbff26e23d12a83fa1cdad4c19]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2013/7/section/16) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

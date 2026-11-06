@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. “Age verification” and “age estimation”[^key-ab0138efb2b3666125c5dd267c9368d7]
+## 230. “Age verification” and “age estimation”[^c-ab0138efb2b3666125c5dd267c9368d7]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab0138efb2b3666125c5dd267c9368d7]: Commencement: S. 230 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)
+[^c-ab0138efb2b3666125c5dd267c9368d7]: Commencement: S. 230 in force at Royal Assent, see [s. 240(z5)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/z5)

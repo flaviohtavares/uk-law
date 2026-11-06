@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Recording data about a prisoner’s religion, belief or non-belief[^key-a095e13249479a0a7e26fbffa7d23b9b]
+## 13. Recording data about a prisoner’s religion, belief or non-belief[^c-a095e13249479a0a7e26fbffa7d23b9b]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The Governor must maintain a record of any declaration made by a prisoner in acc
 
 ## Annotations
 
-[^key-a095e13249479a0a7e26fbffa7d23b9b]: Textual amendment: Rule 13 substituted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/4)
+[^c-a095e13249479a0a7e26fbffa7d23b9b]: Textual amendment: Rule 13 substituted (24.3.2016) by [The Prisons and Young Offenders Institutions (Scotland) Amendment Rules 2016 (S.S.I. 2016/131)](https://www.legislation.gov.uk/ssi/2016/131), [rules 1](https://www.legislation.gov.uk/ssi/2016/131/rule/1), [2(4)](https://www.legislation.gov.uk/ssi/2016/131/rule/2/4)

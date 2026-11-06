@@ -29,8 +29,8 @@ summary: ''
 
 (3) If the member claims payment of the pension before reaching normal pension age under this scheme, the notice must state if the member has opted to buy out the early payment reduction.
 
-(4)[^key-fa9e2e7fe794728b3b787649cb845b30] Unless this regulation provides otherwise, a member of the police service engaged on relevant service under section 27 of the 1998 Act must give notice of intent to claim the pension in accordance with the notice period that applies under the member’s terms and conditions of employment in relation to termination of service.
+(4)[^c-fa9e2e7fe794728b3b787649cb845b30] Unless this regulation provides otherwise, a member of the police service engaged on relevant service under section 27 of the 1998 Act must give notice of intent to claim the pension in accordance with the notice period that applies under the member’s terms and conditions of employment in relation to termination of service.
 
 ## Annotations
 
-[^key-fa9e2e7fe794728b3b787649cb845b30]: Textual amendment: [Reg. 90(4)](https://www.legislation.gov.uk/nisr/2015/113/regulation/90/4) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [20](https://www.legislation.gov.uk/nisr/2024/38/regulation/20)
+[^c-fa9e2e7fe794728b3b787649cb845b30]: Textual amendment: [Reg. 90(4)](https://www.legislation.gov.uk/nisr/2015/113/regulation/90/4) inserted (with effect in accordance with reg. 2(c) of the amending Rule) by [The Police Pensions (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/38)](https://www.legislation.gov.uk/nisr/2024/38), [regs. 2](https://www.legislation.gov.uk/nisr/2024/38/regulation/2), [20](https://www.legislation.gov.uk/nisr/2024/38/regulation/20)

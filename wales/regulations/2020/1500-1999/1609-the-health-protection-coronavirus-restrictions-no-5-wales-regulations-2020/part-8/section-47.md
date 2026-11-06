@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Fixed penalty notices[^key-43e8690eaa48508c577f572bb65f9432]
+## 47. Fixed penalty notices[^c-43e8690eaa48508c577f572bb65f9432]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ is to be treated as if designated for the purposes of receiving payment under th
 
 ## Annotations
 
-[^key-43e8690eaa48508c577f572bb65f9432]: Commencement: Reg. 47 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)
+[^c-43e8690eaa48508c577f572bb65f9432]: Commencement: Reg. 47 in force at 20.12.2020, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1609/regulation/1/3)

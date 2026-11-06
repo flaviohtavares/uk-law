@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Historic environment records[^key-6cbb20c6ea363b822bfd6b4681b14d41]
+## 230. Historic environment records[^c-6cbb20c6ea363b822bfd6b4681b14d41]
 
 *Extent: E+W*
 
@@ -82,4 +82,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cbb20c6ea363b822bfd6b4681b14d41]: Commencement: S. 230 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-6cbb20c6ea363b822bfd6b4681b14d41]: Commencement: S. 230 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Unregistered independent educational institutions: inspection[^key-0e33724644ba235146723c4b674fa524]
+## 97. Unregistered independent educational institutions: inspection[^c-0e33724644ba235146723c4b674fa524]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e33724644ba235146723c4b674fa524]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2008/25/section/97) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/d)
+[^c-0e33724644ba235146723c4b674fa524]: Commencement: [S. 97](https://www.legislation.gov.uk/ukpga/2008/25/section/97) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/d)

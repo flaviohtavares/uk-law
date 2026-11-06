@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Recovery of overpayments of grants[^key-fe4add576c07d68afd74996f74b79d49]
+## 38. Recovery of overpayments of grants[^c-fe4add576c07d68afd74996f74b79d49]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe4add576c07d68afd74996f74b79d49]: Commencement: Reg. 38 in force at 27.5.2019, see reg. 1(2)
+[^c-fe4add576c07d68afd74996f74b79d49]: Commencement: Reg. 38 in force at 27.5.2019, see reg. 1(2)

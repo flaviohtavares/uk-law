@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 44A. Application of paragraph R1 of Schedule 1 to educational buildings, buildings of statutory undertakers and Crown buildings[^M_E_a3955300-c015-4612-e466-5e31a4b82d63][^key-87f45f7be8636e859de45b2554aed03b][^key-2766d8f94a11b1ba983254dda3add6df]
+## 44A. Application of paragraph R1 of Schedule 1 to educational buildings, buildings of statutory undertakers and Crown buildings[^M_E_a3955300-c015-4612-e466-5e31a4b82d63][^c-87f45f7be8636e859de45b2554aed03b][^c-2766d8f94a11b1ba983254dda3add6df]
 
 *Extent: E*
 
@@ -42,9 +42,9 @@ The requirements of paragraph R1 (in-building physical infrastructure for high-s
 
 [^M_E_a3955300-c015-4612-e466-5e31a4b82d63]: Extent: This version of this provision applies to England only; a separate version has been created for Wales only
 
-[^key-87f45f7be8636e859de45b2554aed03b]: Textual amendment: Pt. 9A inserted (with s. 44A(1)(2) and without s. 44B(a)(iii) and word) (E., but only in relation to excepted energy buildings in W.) (9.5.2016) by [The Building (Amendment) Regulations 2016 (S.I. 2016/490)](https://www.legislation.gov.uk/uksi/2016/490), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/4), [2(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/2/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2016/490/regulation/3)) \[Editorial note: This amendment no longer applies at all in relation to W. from 8.6.2018\]
+[^c-87f45f7be8636e859de45b2554aed03b]: Textual amendment: Pt. 9A inserted (with s. 44A(1)(2) and without s. 44B(a)(iii) and word) (E., but only in relation to excepted energy buildings in W.) (9.5.2016) by [The Building (Amendment) Regulations 2016 (S.I. 2016/490)](https://www.legislation.gov.uk/uksi/2016/490), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/4), [2(4)](https://www.legislation.gov.uk/uksi/2016/490/regulation/2/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/490/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2016/490/regulation/3)) \[Editorial note: This amendment no longer applies at all in relation to W. from 8.6.2018\]
 
-[^key-2766d8f94a11b1ba983254dda3add6df]: Textual amendment: Pt. 9A inserted (W. but not in relation to excepted energy buildings) (8.4.2016) by [The Building (Amendment) (Wales) Regulations 2016 (S.I. 2016/361)](https://www.legislation.gov.uk/wsi/2016/361), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2016/361/regulation/1/4), [2(4)](https://www.legislation.gov.uk/wsi/2016/361/regulation/2/4) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/361/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2016/361/regulation/3))
+[^c-2766d8f94a11b1ba983254dda3add6df]: Textual amendment: Pt. 9A inserted (W. but not in relation to excepted energy buildings) (8.4.2016) by [The Building (Amendment) (Wales) Regulations 2016 (S.I. 2016/361)](https://www.legislation.gov.uk/wsi/2016/361), [regs. 1(4)](https://www.legislation.gov.uk/wsi/2016/361/regulation/1/4), [2(4)](https://www.legislation.gov.uk/wsi/2016/361/regulation/2/4) (with [regs. 1(3)](https://www.legislation.gov.uk/wsi/2016/361/regulation/1/3), [3](https://www.legislation.gov.uk/wsi/2016/361/regulation/3))
 
 [^M_E_40496c7c-6af9-4ce4-ddc4-a9d1ae4a40db]: Extent: This version of this provision applies to Wales only; a separate version has been created for England only
 

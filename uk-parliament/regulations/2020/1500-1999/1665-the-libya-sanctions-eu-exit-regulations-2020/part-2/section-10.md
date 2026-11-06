@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 10. Designation of persons named by or under UN Security Council Resolutions[^key-9e1beb0cc0592235dcba776aa1791b42]
+## 10. Designation of persons named by or under UN Security Council Resolutions[^c-9e1beb0cc0592235dcba776aa1791b42]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e1beb0cc0592235dcba776aa1791b42]: Commencement: Reg. 10 in force at 30.12.2020, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/2/h)
+[^c-9e1beb0cc0592235dcba776aa1791b42]: Commencement: Reg. 10 in force at 30.12.2020, see [reg. 1(2)(h)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/2/h)
 
 [^c24411731]: Marginal citation: Section 13 of the Act requires that where the purposes of a provision of regulations under section 1 include compliance with a UN obligation to take particular measures in relation to UN-named persons (which is the case with the regulations mentioned in regulation 10), the regulations must provide for those persons to be designated persons for the purposes of that provision.

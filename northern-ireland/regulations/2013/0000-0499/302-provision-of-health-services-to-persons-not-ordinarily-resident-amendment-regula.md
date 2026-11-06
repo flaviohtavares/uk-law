@@ -32,7 +32,7 @@ summary: ''
 
 Health And Personal Social Services
 
-Provision of Health Services to Persons not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2013 (revoked)[^key-f9e5d836b69e478c8ea0b265e1c5dd22]
+Provision of Health Services to Persons not Ordinarily Resident (Amendment) Regulations (Northern Ireland) 2013 (revoked)[^c-f9e5d836b69e478c8ea0b265e1c5dd22]
 
 Made
 
@@ -42,40 +42,40 @@ Coming into operation
 
 27th December 2013
 
-[^key-f9e5d836b69e478c8ea0b265e1c5dd22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9e5d836b69e478c8ea0b265e1c5dd22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-f9e5d836b69e478c8ea0b265e1c5dd22]
+## 1. Citation, commencement and interpretation[^c-f9e5d836b69e478c8ea0b265e1c5dd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 2 of the principal Regulations[^key-f9e5d836b69e478c8ea0b265e1c5dd22]
+## 2. Amendment of regulation 2 of the principal Regulations[^c-f9e5d836b69e478c8ea0b265e1c5dd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Insertion of regulation 2A[^key-f9e5d836b69e478c8ea0b265e1c5dd22]
+## 3. Insertion of regulation 2A[^c-f9e5d836b69e478c8ea0b265e1c5dd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of regulation 3 of the principal Regulations[^key-f9e5d836b69e478c8ea0b265e1c5dd22]
+## 4. Amendment of regulation 3 of the principal Regulations[^c-f9e5d836b69e478c8ea0b265e1c5dd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Insertion of regulation 8B[^key-f9e5d836b69e478c8ea0b265e1c5dd22]
+## 5. Insertion of regulation 8B[^c-f9e5d836b69e478c8ea0b265e1c5dd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Revocations[^key-f9e5d836b69e478c8ea0b265e1c5dd22]
+## 6. Revocations[^c-f9e5d836b69e478c8ea0b265e1c5dd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f9e5d836b69e478c8ea0b265e1c5dd22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9e5d836b69e478c8ea0b265e1c5dd22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f9e5d836b69e478c8ea0b265e1c5dd22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f9e5d836b69e478c8ea0b265e1c5dd22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f9e5d836b69e478c8ea0b265e1c5dd22]: Textual amendment: Regulations revoked (23.2.2015) by [Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015 (S.R. 2015/27)](https://www.legislation.gov.uk/nisr/2015/27), [regs. 1](https://www.legislation.gov.uk/nisr/2015/27/regulation/1), [27(d)](https://www.legislation.gov.uk/nisr/2015/27/regulation/27/d)
+[^c-f9e5d836b69e478c8ea0b265e1c5dd22]: Textual amendment: Regulations revoked (23.2.2015) by [Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015 (S.R. 2015/27)](https://www.legislation.gov.uk/nisr/2015/27), [regs. 1](https://www.legislation.gov.uk/nisr/2015/27/regulation/1), [27(d)](https://www.legislation.gov.uk/nisr/2015/27/regulation/27/d)

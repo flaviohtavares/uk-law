@@ -40,7 +40,7 @@ summary: ''
 
 (7) Nothing in paragraphs (3) or (4) affects any entitlement to a widow's guaranteed minimum pension under this Section of the scheme.
 
-(8)[^key-6984a7ad56234ddf82aabf26f872b584] If the Scottish Ministers are satisfied that the widow will otherwise suffer severe financial hardship, the Scottish Ministers may pay a pension to a widow who—
+(8)[^c-6984a7ad56234ddf82aabf26f872b584] If the Scottish Ministers are satisfied that the widow will otherwise suffer severe financial hardship, the Scottish Ministers may pay a pension to a widow who—
 
 - (a) has remarried;
 - (b) has formed a civil partnership;
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6984a7ad56234ddf82aabf26f872b584]: Textual amendment: Reg. G1(8)(9) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/96/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2015/96/regulation/9)
+[^c-6984a7ad56234ddf82aabf26f872b584]: Textual amendment: Reg. G1(8)(9) substituted (with effect in accordance with reg. 1(5) of the amending S.S.I.) by [The National Health Service Superannuation Scheme (Miscellaneous Amendments) (Scotland) Regulations 2015 (S.S.I. 2015/96)](https://www.legislation.gov.uk/ssi/2015/96), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/96/regulation/1/2), [9](https://www.legislation.gov.uk/ssi/2015/96/regulation/9)

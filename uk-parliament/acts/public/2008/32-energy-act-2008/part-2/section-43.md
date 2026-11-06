@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Feed-in tariffs: supplemental[^key-bc6ee664ce5babf33a0680809c623024]
+## 43. Feed-in tariffs: supplemental[^c-bc6ee664ce5babf33a0680809c623024]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bc6ee664ce5babf33a0680809c623024]: Commencement: S. 43 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2009/45/article/2/a/iv)
+[^c-bc6ee664ce5babf33a0680809c623024]: Commencement: S. 43 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(a)(iv)](https://www.legislation.gov.uk/uksi/2009/45/article/2/a/iv)

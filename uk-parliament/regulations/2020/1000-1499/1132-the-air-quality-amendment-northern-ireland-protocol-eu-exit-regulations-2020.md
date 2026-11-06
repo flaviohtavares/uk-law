@@ -34,7 +34,7 @@ Exiting The European Union
 
 Environmental Protection
 
-The Air Quality (Amendment) (Northern Ireland Protocol) (EU Exit) Regulations 2020 (revoked)[^key-9add6cdce06ec21b7ba47eb5cfc8a4b2]
+The Air Quality (Amendment) (Northern Ireland Protocol) (EU Exit) Regulations 2020 (revoked)[^c-9add6cdce06ec21b7ba47eb5cfc8a4b2]
 
 Made
 
@@ -46,21 +46,21 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1
 
-[^key-9add6cdce06ec21b7ba47eb5cfc8a4b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9add6cdce06ec21b7ba47eb5cfc8a4b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation and commencement[^key-9add6cdce06ec21b7ba47eb5cfc8a4b2]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of the Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018[^key-9add6cdce06ec21b7ba47eb5cfc8a4b2]
+## 1. Citation and commencement[^c-9add6cdce06ec21b7ba47eb5cfc8a4b2]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019[^key-9add6cdce06ec21b7ba47eb5cfc8a4b2]
+## 2. Amendment of the Air Quality (Miscellaneous Amendment and Revocation of Retained Direct EU Legislation) (EU Exit) Regulations 2018[^c-9add6cdce06ec21b7ba47eb5cfc8a4b2]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 3. Amendment of the Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019[^c-9add6cdce06ec21b7ba47eb5cfc8a4b2]
 
 **Not yet in force.**
 
@@ -68,12 +68,12 @@ Coming into force in accordance with regulation 1
 
 **May not be in force at this date. Check the source.**
 
-[^key-9add6cdce06ec21b7ba47eb5cfc8a4b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9add6cdce06ec21b7ba47eb5cfc8a4b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-9add6cdce06ec21b7ba47eb5cfc8a4b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-9add6cdce06ec21b7ba47eb5cfc8a4b2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-9add6cdce06ec21b7ba47eb5cfc8a4b2]: Textual amendment: Regulations revoked (22.10.2020) by [The Air Quality (Amendment) (Northern Ireland Protocol) (EU Exit) (Revocation) Regulations 2020 (S.I. 2020/1142)](https://www.legislation.gov.uk/uksi/2020/1142), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1142/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1142/regulation/2)
+[^c-9add6cdce06ec21b7ba47eb5cfc8a4b2]: Textual amendment: Regulations revoked (22.10.2020) by [The Air Quality (Amendment) (Northern Ireland Protocol) (EU Exit) (Revocation) Regulations 2020 (S.I. 2020/1142)](https://www.legislation.gov.uk/uksi/2020/1142), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1142/regulation/1), [2](https://www.legislation.gov.uk/uksi/2020/1142/regulation/2)

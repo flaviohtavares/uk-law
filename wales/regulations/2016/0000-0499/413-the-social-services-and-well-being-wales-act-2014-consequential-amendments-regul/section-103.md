@@ -18,14 +18,14 @@ summary: ''
 
 *Extent: E+W*
 
-**103.**[^key-a6af3d2bf95d0f93f0e3254a238fc70c] In section 86[^f00128] (children accommodated in care homes or independent hospitals)—
+**103.**[^c-a6af3d2bf95d0f93f0e3254a238fc70c] In section 86[^f00128] (children accommodated in care homes or independent hospitals)—
 
 - (a) in subsection (1)[^f00129] after “accommodation” insert “in England”;
 - (b) in subsection (5)[^f00130] after “local authority” insert “in England”.
 
 ## Annotations
 
-[^key-a6af3d2bf95d0f93f0e3254a238fc70c]: Commencement: Reg. 103 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-a6af3d2bf95d0f93f0e3254a238fc70c]: Commencement: Reg. 103 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
 
 [^f00128]: Footnote: The section heading to section 86 was amended by the Care Standards Act [2000 (c. 14)](https://www.legislation.gov.uk/ukpga/2000/14), Schedule 4, paragraph 14(1) and (20)(a).
 

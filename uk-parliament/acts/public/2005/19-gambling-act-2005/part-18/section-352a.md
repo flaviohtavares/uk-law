@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 352A. Wrongful disclosure[^key-6cf844c8ded3e69e9480f8aebc4f71b2]
+## 352A. Wrongful disclosure[^c-6cf844c8ded3e69e9480f8aebc4f71b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6cf844c8ded3e69e9480f8aebc4f71b2]: Textual amendment: [S. 352A](https://www.legislation.gov.uk/ukpga/2005/19/section/352A) inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 177](https://www.legislation.gov.uk/ukpga/2006/25/section/177)
+[^c-6cf844c8ded3e69e9480f8aebc4f71b2]: Textual amendment: [S. 352A](https://www.legislation.gov.uk/ukpga/2005/19/section/352A) inserted (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [s. 177](https://www.legislation.gov.uk/ukpga/2006/25/section/177)

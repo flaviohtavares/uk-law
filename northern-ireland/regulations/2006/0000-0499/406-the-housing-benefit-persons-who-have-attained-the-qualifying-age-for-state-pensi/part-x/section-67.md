@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 67. Notification of decision[^key-1cfbcfd5ceb88faff5e9b70512a7625a]
+## 67. Notification of decision[^c-1cfbcfd5ceb88faff5e9b70512a7625a]
 
 *Extent: N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 
 and every notification shall include a statement as to the matters set out in Schedule 9.
 
-(2) A person affected to whom an authority sends or delivers a notification of decision may, by notice in writing signed by him, within one month of the date of the notification of that decision (or, if the decision was notified before 1st May 2011, before 1st June 2011)[^key-ab869f5f6f518f9ec31b06a0ff11c04a] request the authority to provide a written statement setting out the reasons for its decision on any matter set out in the notice.
+(2) A person affected to whom an authority sends or delivers a notification of decision may, by notice in writing signed by him, within one month of the date of the notification of that decision (or, if the decision was notified before 1st May 2011, before 1st June 2011)[^c-ab869f5f6f518f9ec31b06a0ff11c04a] request the authority to provide a written statement setting out the reasons for its decision on any matter set out in the notice.
 
 (3) For the purposes of paragraph (2), where a person affected who requests a written statement is not an individual, the notice in writing referred to in that paragraph shall be signed by a person over the age of 18 who is authorised to act on that person’s behalf.
 
@@ -35,6 +35,6 @@ and every notification shall include a statement as to the matters set out in Sc
 
 ## Annotations
 
-[^key-1cfbcfd5ceb88faff5e9b70512a7625a]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2006/406/regulation/67) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-1cfbcfd5ceb88faff5e9b70512a7625a]: Commencement: [Reg. 67](https://www.legislation.gov.uk/nisr/2006/406/regulation/67) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-ab869f5f6f518f9ec31b06a0ff11c04a]: Textual amendment: Words in [reg. 67(2)](https://www.legislation.gov.uk/nisr/2006/406/regulation/67/2) inserted (1.5.2011) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [5(5)](https://www.legislation.gov.uk/nisr/2011/136/regulation/5/5)
+[^c-ab869f5f6f518f9ec31b06a0ff11c04a]: Textual amendment: Words in [reg. 67(2)](https://www.legislation.gov.uk/nisr/2006/406/regulation/67/2) inserted (1.5.2011) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2011 (S.R. 2011/136)](https://www.legislation.gov.uk/nisr/2011/136), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2011/136/regulation/1/1), [5(5)](https://www.legislation.gov.uk/nisr/2011/136/regulation/5/5)

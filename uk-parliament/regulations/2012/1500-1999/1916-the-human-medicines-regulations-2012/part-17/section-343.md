@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 343. Service of documents[^key-32a438fd0f6b6445ebd32249e0d7406f]
+## 343. Service of documents[^c-32a438fd0f6b6445ebd32249e0d7406f]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32a438fd0f6b6445ebd32249e0d7406f]: Modification: Reg. 343 applied (with modifications) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg 47(1), Sch. 9 (as substituted (14.8.2012) by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 paras. 57(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/57/b), [64](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/64) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32)))
+[^c-32a438fd0f6b6445ebd32249e0d7406f]: Modification: Reg. 343 applied (with modifications) by The Medicines for Human Use (Clinical Trials) Regulations 2004 (S.I. 2004/1031), reg 47(1), Sch. 9 (as substituted (14.8.2012) by [S.I. 2012/1916](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 34 paras. 57(b)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/57/b), [64](https://www.legislation.gov.uk/uksi/2012/1916/schedule/34/paragraph/64) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32)))

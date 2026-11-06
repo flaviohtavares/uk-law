@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^c18907511] The Office of Rail and Road[^key-22dd71ac9d250f4081c9bd102ae721c3] may give directions requiring the parties to an access agreement to make to the access agreement amendments which are, in its[^c18792011] opinion, necessary to give effect to the conditions of a licence or otherwise required in consequence of the conditions of a licence.
+(1)[^c18907511] The Office of Rail and Road[^c-22dd71ac9d250f4081c9bd102ae721c3] may give directions requiring the parties to an access agreement to make to the access agreement amendments which are, in its[^c18792011] opinion, necessary to give effect to the conditions of a licence or otherwise required in consequence of the conditions of a licence.
 
 (2) The Office of Rail and Road shall not have power to direct or otherwise require amendments to be made to an access agreement except in accordance with section 22A above, subsection (1) above or Schedule 4A to this Act.
 
@@ -37,6 +37,6 @@ a variation made pursuant to that provision shall not be regarded for the purpos
 
 [^c18907511]: Modification: S. 22C(1) modified (28.11.2005) by [The Railway (Licensing of Railway Undertakings) Regulations 2005 (S.I. 2005/3050)](https://www.legislation.gov.uk/uksi/2005/3050), [reg. 14](https://www.legislation.gov.uk/uksi/2005/3050/regulation/14), [Sch. 3 para. 9](https://www.legislation.gov.uk/uksi/2005/3050/schedule/3/paragraph/9)
 
-[^key-22dd71ac9d250f4081c9bd102ae721c3]: Textual amendment: Words in s. 22C substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(gg)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/gg)
+[^c-22dd71ac9d250f4081c9bd102ae721c3]: Textual amendment: Words in s. 22C substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 1(gg)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/1/gg)
 
 [^c18792011]: Textual amendment: Word in s. 22C substituted (5.7.2004) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 16](https://www.legislation.gov.uk/ukpga/2003/20/section/16), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120), {Sch. 2 para. 3(c) Table}; [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 4(g)](https://www.legislation.gov.uk/uksi/2004/827/article/4/g)

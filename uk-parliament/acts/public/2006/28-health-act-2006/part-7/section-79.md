@@ -31,19 +31,19 @@ summary: ''
 
 (4) No statutory instrument containing—
 
-- (a) regulations under section 3, 4, 5, 6(8), 7(6) , 8(7) or 9(1A)[^key-65441657cb851fec11eea608042dfb82],
-- (b)[^key-c4067c4b36f47eebc256965650a941ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) regulations under section 3, 4, 5, 6(8), 7(6) , 8(7) or 9(1A)[^c-65441657cb851fec11eea608042dfb82],
+- (b)[^c-c4067c4b36f47eebc256965650a941ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) regulations under section 17 which amend or repeal any provision of an Act or an Act of the Scottish Parliament,
 - (d) an order under section 45(7),
 - (e) an order under section 75 or 80(3) which amends or repeals any provision of an Act or an Act of the Scottish Parliament, or
-- (f) regulations under paragraph 5 , 8 or 17[^key-0099256b973085e5e7971adeab4c8104] of Schedule 1,
+- (f) regulations under paragraph 5 , 8 or 17[^c-0099256b973085e5e7971adeab4c8104] of Schedule 1,
 
 may be made by the Secretary of State unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 
-(4A)[^key-223ad301197c9264434fa8afd8f157bd] No statutory instrument containing
+(4A)[^c-223ad301197c9264434fa8afd8f157bd] No statutory instrument containing
 
-- (a)[^key-562dea6fba7a7ffa2f347f31014694f5] regulations under section 9(1A),
-- (b) [^key-c920233b39efd289ed096873535f56e3]... or
+- (a)[^c-562dea6fba7a7ffa2f347f31014694f5] regulations under section 9(1A),
+- (b) [^c-c920233b39efd289ed096873535f56e3]... or
 - (c) regulations under paragraph 17 of Schedule 1,
 
 may be made by the Welsh Ministers unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
@@ -60,14 +60,14 @@ may be made by the Welsh Ministers unless a draft of the instrument has been lai
 
 ## Annotations
 
-[^key-65441657cb851fec11eea608042dfb82]: Textual amendment: Words in s. 79(4) substituted (1.10.2014 for specified purposes, 1.10.2015 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 95(5)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/95/5/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
+[^c-65441657cb851fec11eea608042dfb82]: Textual amendment: Words in s. 79(4) substituted (1.10.2014 for specified purposes, 1.10.2015 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 95(5)(a)](https://www.legislation.gov.uk/ukpga/2014/6/section/95/5/a), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
 
-[^key-c4067c4b36f47eebc256965650a941ce]: Textual amendment: S. 79(4)(b) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 13(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/13/2) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-c4067c4b36f47eebc256965650a941ce]: Textual amendment: S. 79(4)(b) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 13(2)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/13/2) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
 
-[^key-0099256b973085e5e7971adeab4c8104]: Textual amendment: Words in s. 79(4)(f) substituted (1.10.2014 for specified purposes, 1.10.2015 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 95(5)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/95/5/b), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
+[^c-0099256b973085e5e7971adeab4c8104]: Textual amendment: Words in s. 79(4)(f) substituted (1.10.2014 for specified purposes, 1.10.2015 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 95(5)(b)](https://www.legislation.gov.uk/ukpga/2014/6/section/95/5/b), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
 
-[^key-223ad301197c9264434fa8afd8f157bd]: Textual amendment: S. 79(4A) inserted (1.10.2014 for specified purposes, 1.10.2015 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 95(5)(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/95/5/c), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
+[^c-223ad301197c9264434fa8afd8f157bd]: Textual amendment: S. 79(4A) inserted (1.10.2014 for specified purposes, 1.10.2015 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 95(5)(c)](https://www.legislation.gov.uk/ukpga/2014/6/section/95/5/c), [139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6); [S.I. 2014/2609](https://www.legislation.gov.uk/uksi/2014/2609), [art. 2](https://www.legislation.gov.uk/uksi/2014/2609/article/2); [S.I. 2015/375](https://www.legislation.gov.uk/uksi/2015/375), [art. 3](https://www.legislation.gov.uk/uksi/2015/375/article/3)
 
-[^key-562dea6fba7a7ffa2f347f31014694f5]: Textual amendment: S. 79(4A)(a)-(c) substituted for words (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [42(3)](https://www.legislation.gov.uk/uksi/2018/644/article/42/3)
+[^c-562dea6fba7a7ffa2f347f31014694f5]: Textual amendment: S. 79(4A)(a)-(c) substituted for words (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [42(3)](https://www.legislation.gov.uk/uksi/2018/644/article/42/3)
 
-[^key-c920233b39efd289ed096873535f56e3]: Textual amendment: S. 79(4A)(b) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 13(3)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/13/3) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))
+[^c-c920233b39efd289ed096873535f56e3]: Textual amendment: S. 79(4A)(b) omitted (29.10.2026) by virtue of [Tobacco and Vapes Act 2026 (c. 18)](https://www.legislation.gov.uk/ukpga/2026/18), [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1), [Sch. 6 para. 13(3)](https://www.legislation.gov.uk/ukpga/2026/18/schedule/6/paragraph/13/3) (with [s. 166](https://www.legislation.gov.uk/ukpga/2026/18/section/166))

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Reasonable excuse for failure to keep and preserve records[^key-b3e2cfa316bfd2ac39ff09e40fe296fb][^key-a24f68c436af40351e2c1759f5c24b70]
+## 144. Reasonable excuse for failure to keep and preserve records[^c-b3e2cfa316bfd2ac39ff09e40fe296fb][^c-a24f68c436af40351e2c1759f5c24b70]
 
 *Extent: E+W*
 
-(1) If a person who fails to comply with section 38 , 38A[^key-26abfaa734666bc38a23b97173b9eb9f] or 69 satisfies WRA or (on appeal) the tribunal that there is a reasonable excuse for the failure, there is no liability to a penalty under section 143 in relation to the failure.
+(1) If a person who fails to comply with section 38 , 38A[^c-26abfaa734666bc38a23b97173b9eb9f] or 69 satisfies WRA or (on appeal) the tribunal that there is a reasonable excuse for the failure, there is no liability to a penalty under section 143 in relation to the failure.
 
 (2) For the purposes of subsection (1)—
 
@@ -30,8 +30,8 @@ summary: ''
 
 ## Annotations
 
-[^key-b3e2cfa316bfd2ac39ff09e40fe296fb]: Commencement: S. 144 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
+[^c-b3e2cfa316bfd2ac39ff09e40fe296fb]: Commencement: S. 144 in force at 1.4.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 3](https://www.legislation.gov.uk/wsi/2018/33/article/3)
 
-[^key-a24f68c436af40351e2c1759f5c24b70]: Modification: Ss. 143-145 applied (1.4.2018) by [The Tax Collection and Management (Reimbursement Arrangements) (Wales) Regulations 2018 (S.I. 2018/88)](https://www.legislation.gov.uk/wsi/2018/88), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/88/regulation/1/2), [8(1)](https://www.legislation.gov.uk/wsi/2018/88/regulation/8/1)
+[^c-a24f68c436af40351e2c1759f5c24b70]: Modification: Ss. 143-145 applied (1.4.2018) by [The Tax Collection and Management (Reimbursement Arrangements) (Wales) Regulations 2018 (S.I. 2018/88)](https://www.legislation.gov.uk/wsi/2018/88), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2018/88/regulation/1/2), [8(1)](https://www.legislation.gov.uk/wsi/2018/88/regulation/8/1)
 
-[^key-26abfaa734666bc38a23b97173b9eb9f]: Textual amendment: Word in [s. 144(1)](https://www.legislation.gov.uk/anaw/2016/6/section/144/1) inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 54](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/54); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)
+[^c-26abfaa734666bc38a23b97173b9eb9f]: Textual amendment: Word in [s. 144(1)](https://www.legislation.gov.uk/anaw/2016/6/section/144/1) inserted (1.4.2018) by [Land Transaction Tax and Anti-avoidance of Devolved Taxes (Wales) Act 2017 (anaw 1)](https://www.legislation.gov.uk/anaw/2017/1), [s. 81(2)](https://www.legislation.gov.uk/anaw/2017/1/section/81/2)[(3)](https://www.legislation.gov.uk/anaw/2017/1/section/81/3), [Sch. 23 para. 54](https://www.legislation.gov.uk/anaw/2017/1/schedule/23/paragraph/54); [S.I. 2018/34](https://www.legislation.gov.uk/wsi/2018/34), [art. 3](https://www.legislation.gov.uk/wsi/2018/34/article/3)

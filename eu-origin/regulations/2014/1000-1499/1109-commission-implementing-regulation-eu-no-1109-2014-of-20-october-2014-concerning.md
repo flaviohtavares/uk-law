@@ -35,34 +35,34 @@ concerning the authorisation of the preparation of *Saccharomyces cerevisiae* CB
 
 (Text with EEA relevance) (revoked)
 
-[^key-d7919c487f1d8321f3331260f80cdbbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d7919c487f1d8321f3331260f80cdbbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Authorisation[^key-d7919c487f1d8321f3331260f80cdbbc]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Amendment to Regulation (EC) No 1288/2004[^key-d7919c487f1d8321f3331260f80cdbbc]
+## Article 1. Authorisation[^c-d7919c487f1d8321f3331260f80cdbbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendment to Regulation (EC) No 1811/2005[^key-d7919c487f1d8321f3331260f80cdbbc]
+## Article 2. Amendment to Regulation (EC) No 1288/2004[^c-d7919c487f1d8321f3331260f80cdbbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Transitional measures[^key-d7919c487f1d8321f3331260f80cdbbc]
+## Article 3. Amendment to Regulation (EC) No 1811/2005[^c-d7919c487f1d8321f3331260f80cdbbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force[^key-d7919c487f1d8321f3331260f80cdbbc]
+## Article 4. Transitional measures[^c-d7919c487f1d8321f3331260f80cdbbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d7919c487f1d8321f3331260f80cdbbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 5. Entry into force[^c-d7919c487f1d8321f3331260f80cdbbc]
 
-## ANNEX[^key-d7919c487f1d8321f3331260f80cdbbc]
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-d7919c487f1d8321f3331260f80cdbbc]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX[^c-d7919c487f1d8321f3331260f80cdbbc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d7919c487f1d8321f3331260f80cdbbc]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 152](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/152) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-d7919c487f1d8321f3331260f80cdbbc]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 152](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/152) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

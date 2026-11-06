@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 436. Meaning of “qualifying infrastructure activity”[^key-02eba6dfa8b994b0d1ad429b2f644a47]
+## 436. Meaning of “qualifying infrastructure activity”[^c-02eba6dfa8b994b0d1ad429b2f644a47]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) the asset is, or is to be, a tangible asset forming part of the infrastructure of the United Kingdom or the UK sector of the continental shelf,
 - (b) the asset meets the public benefit test (see subsections (3) and (4)),
 - (c) the asset has had, has or is likely to have an expected economic life of at least 10 years, and
-- (d) the asset meets the group balance sheet test (see subsections (10) and (10A))[^key-c1e2018fe489357ee3407ff1dbacf49f] in relation to the company.
+- (d) the asset meets the group balance sheet test (see subsections (10) and (10A))[^c-c1e2018fe489357ee3407ff1dbacf49f] in relation to the company.
 
 (3) An asset meets the “public benefit test” if—
 
@@ -44,13 +44,13 @@ summary: ''
 
 (5) For the purposes of this Chapter a building, or part of a building, is also a “**public infrastructure asset**” in relation to a company at any time if—
 
-- (a)[^key-60a3eaee44abd5f116f1db355e0e16bd] the building or part is, or is to be, let on a short-term basis —
+- (a)[^c-60a3eaee44abd5f116f1db355e0e16bd] the building or part is, or is to be, let on a short-term basis —
   - (i) within a UK property business carried on by the company, or another member of the worldwide group of which it is a member at that time, and
   - (ii) to persons who, at that time, are not related parties of the company or member.
 - (c) the building or part has had, has or is likely to have an expected economic life of at least 10 years, and
 - (d) the building or part meets the group balance sheet test in relation to the company.
 
-(5A)[^key-a764bd4c8bfe7d6f04a969f989dc9635] But a building, or part of a building, is not a public infrastructure asset in relation to a company at a particular time if, were the building or part to be disposed of at that time, profits arising from the disposal would be charged to corporation tax as profits of a trade.
+(5A)[^c-a764bd4c8bfe7d6f04a969f989dc9635] But a building, or part of a building, is not a public infrastructure asset in relation to a company at a particular time if, were the building or part to be disposed of at that time, profits arising from the disposal would be charged to corporation tax as profits of a trade.
 
 (6) A building, or part of a building, is “let” to a person if the person is entitled to the use of the building or part under a lease or other arrangement.
 
@@ -68,18 +68,18 @@ summary: ''
 - (a) an entry in respect of the asset is, or would be, recognised (whether as a tangible asset or otherwise) in a balance sheet of the company, or an associated company, that is drawn up at that time, and
 - (b) the company or associated company is within the charge to corporation tax at that time in respect of all of its sources of income and no election or claim mentioned in section 433(11)(b) or (c) has effect for a period including that time.
 
-(10A)[^key-91dc0ca7f769e7440896dcc6bc953d9a] In determining whether the condition in subsection (10)(b) is met in relation to a company not resident in the United Kingdom at any time, a source of income of the company is ignored if, having regard to all the circumstances, it is reasonable to regard as insignificant the amount of income arising from the source for the accounting period including that time.
+(10A)[^c-91dc0ca7f769e7440896dcc6bc953d9a] In determining whether the condition in subsection (10)(b) is met in relation to a company not resident in the United Kingdom at any time, a source of income of the company is ignored if, having regard to all the circumstances, it is reasonable to regard as insignificant the amount of income arising from the source for the accounting period including that time.
 
 (11) For the purposes of this Chapter references to provision, in relation to a public infrastructure asset, include its acquisition, design, construction, conversion, improvement, operation or repair.
 
 ## Annotations
 
-[^key-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
+[^c-02eba6dfa8b994b0d1ad429b2f644a47]: Textual amendment: Pt. 10: the existing Pt. 10 renumbered as Pt. 11 (except for ss. 375, 376 which are repealed), the existing ss. 372-374, 377-382 renumbered as ss. 499-507 and a new Pt. 10 (ss. 372-498) inserted (with effect in accordance with [Sch. 5 para. 25(1)-(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/25/1) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 5 para. 1](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/1), [10(1)(2)(a)(3)](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/10/1/2/a/3) (with [Sch. 5 paras. 27](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/27), [32-34](https://www.legislation.gov.uk/ukpga/2017/32/schedule/5/paragraph/32))
 
-[^key-c1e2018fe489357ee3407ff1dbacf49f]: Textual amendment: Words in s. 436(2)(d) substituted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 paras. 9(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/9/2), [23(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/23/1)
+[^c-c1e2018fe489357ee3407ff1dbacf49f]: Textual amendment: Words in s. 436(2)(d) substituted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 paras. 9(2)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/9/2), [23(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/23/1)
 
-[^key-60a3eaee44abd5f116f1db355e0e16bd]: Textual amendment: [S. 436(5)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/436/5/a) substituted for s. 436(5)(a)(b) (with effect in accordance with [Sch. 3 para. 30-36](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/30) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 15(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/15/2)
+[^c-60a3eaee44abd5f116f1db355e0e16bd]: Textual amendment: [S. 436(5)(a)](https://www.legislation.gov.uk/ukpga/2010/8/section/436/5/a) substituted for s. 436(5)(a)(b) (with effect in accordance with [Sch. 3 para. 30-36](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/30) of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 15(2)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/15/2)
 
-[^key-a764bd4c8bfe7d6f04a969f989dc9635]: Textual amendment: [S. 436(5A)](https://www.legislation.gov.uk/ukpga/2010/8/section/436/5A) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 15(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/15/3)
+[^c-a764bd4c8bfe7d6f04a969f989dc9635]: Textual amendment: [S. 436(5A)](https://www.legislation.gov.uk/ukpga/2010/8/section/436/5A) inserted (with effect in accordance with Sch. 3 para. 30-36 of the amending Act) by [Finance (No. 2) Act 2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30), [Sch. 3 para. 15(3)](https://www.legislation.gov.uk/ukpga/2023/30/schedule/3/paragraph/15/3)
 
-[^key-91dc0ca7f769e7440896dcc6bc953d9a]: Textual amendment: S. 436(10A) inserted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 paras. 9(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/9/3), [23(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/23/1)
+[^c-91dc0ca7f769e7440896dcc6bc953d9a]: Textual amendment: S. 436(10A) inserted (retrospectively) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 8 paras. 9(3)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/9/3), [23(1)](https://www.legislation.gov.uk/ukpga/2018/3/schedule/8/paragraph/23/1)

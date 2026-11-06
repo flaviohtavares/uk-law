@@ -39,7 +39,7 @@ summary: ''
 (6) In relation to England and Wales and Northern Ireland, a child who—
 
 - (a) has a parent by virtue of section 42, or
-- (b) has a parent by virtue of section 43 who is at any time during the period beginning with the time mentioned in section 43(b) and ending with the time of the child's birth a party to a marriage or *(Extent: E+W+S)*[^key-54c56814e7ec385a9ed693c1f4f9da64] civil partnership with the child's mother,
+- (b) has a parent by virtue of section 43 who is at any time during the period beginning with the time mentioned in section 43(b) and ending with the time of the child's birth a party to a marriage or *(Extent: E+W+S)*[^c-54c56814e7ec385a9ed693c1f4f9da64] civil partnership with the child's mother,
 
 is the legitimate child of the child's parents.
 
@@ -55,4 +55,4 @@ is the legitimate child of the child's parents.
 
 ## Annotations
 
-[^key-54c56814e7ec385a9ed693c1f4f9da64]: Textual amendment: Words in s. 48(6)(b) inserted (E.W.S.) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [16(8)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/16/8); and said words in s. 48(6)(b) also inserted inserted (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [26(8)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/26/8) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))
+[^c-54c56814e7ec385a9ed693c1f4f9da64]: Textual amendment: Words in s. 48(6)(b) inserted (E.W.S.) (2.12.2019) by [The Civil Partnership (Opposite-sex Couples) Regulations 2019 (S.I. 2019/1458)](https://www.legislation.gov.uk/uksi/2019/1458), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/1/2), [16(8)](https://www.legislation.gov.uk/uksi/2019/1458/regulation/16/8); and said words in s. 48(6)(b) also inserted inserted (N.I.) (13.1.2020) by [The Marriage (Same-sex Couples) and Civil Partnership (Opposite-sex Couples) (Northern Ireland) Regulations 2019 (S.I. 2019/1514)](https://www.legislation.gov.uk/uksi/2019/1514), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2), [26(8)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/26/8) (with [regs. 6-9](https://www.legislation.gov.uk/uksi/2019/1514/regulation/6))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Payment of grants for fees[^key-de14be12db6bbf376744b107f0f8bc1b]
+## 103. Payment of grants for fees[^c-de14be12db6bbf376744b107f0f8bc1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-de14be12db6bbf376744b107f0f8bc1b]: Commencement: Reg. 103 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-de14be12db6bbf376744b107f0f8bc1b]: Commencement: Reg. 103 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

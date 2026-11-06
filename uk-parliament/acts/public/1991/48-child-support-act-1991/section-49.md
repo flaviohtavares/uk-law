@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Right of audience: Scotland.[^key-257ce7e3fef0db2513fccb3646ab353c]
+## 49. Right of audience: Scotland.[^c-257ce7e3fef0db2513fccb3646ab353c]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-257ce7e3fef0db2513fccb3646ab353c]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/1991/48/section/49) repealed (1.4.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions and Modifications) Order 2015 (S.I. 2015/700)](https://www.legislation.gov.uk/uksi/2015/700), [art. 1(11)(l)](https://www.legislation.gov.uk/uksi/2015/700/article/1/11/l), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2015/700/schedule/paragraph/12/3)
+[^c-257ce7e3fef0db2513fccb3646ab353c]: Textual amendment: [S. 49](https://www.legislation.gov.uk/ukpga/1991/48/section/49) repealed (1.4.2015) by [The Courts Reform (Scotland) Act 2014 (Consequential Provisions and Modifications) Order 2015 (S.I. 2015/700)](https://www.legislation.gov.uk/uksi/2015/700), [art. 1(11)(l)](https://www.legislation.gov.uk/uksi/2015/700/article/1/11/l), [Sch. para. 12(3)](https://www.legislation.gov.uk/uksi/2015/700/schedule/paragraph/12/3)

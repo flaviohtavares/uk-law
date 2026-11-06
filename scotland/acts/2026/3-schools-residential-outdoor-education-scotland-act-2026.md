@@ -34,7 +34,7 @@ An Act of the Scottish Parliament to make provision about the making available o
 
 The Bill for this Act of the Scottish Parliament was passed by the Parliament on 16th December 2025 and received Royal Assent on 11th February 2026
 
-## 1. Provision of residential outdoor education[^key-4e838ba85f57f74f4ce6f2da966645e5]
+## 1. Provision of residential outdoor education[^c-4e838ba85f57f74f4ce6f2da966645e5]
 
 **Not yet in force.**
 
@@ -122,7 +122,7 @@ After section 6 of the Education (Scotland) Act 1980 insert—
 
 .
 
-## 2. Education authorities’ arrangements with independent schools[^key-a0731e6b8f2ba654e30e7d5059fe3906]
+## 2. Education authorities’ arrangements with independent schools[^c-a0731e6b8f2ba654e30e7d5059fe3906]
 
 **Not yet in force.**
 
@@ -148,7 +148,7 @@ After section 6 of the Education (Scotland) Act 1980 insert—
 
 .
 
-## 3. Ancillary provision[^key-3c8a60a6939dfd5620c767f0a2185725]
+## 3. Ancillary provision[^c-3c8a60a6939dfd5620c767f0a2185725]
 
 (1) The Scottish Ministers may by regulations make any incidental, supplementary, consequential, transitional, transitory or saving provision they consider appropriate for the purposes of, in connection with or for giving full effect to this Act.
 
@@ -165,7 +165,7 @@ After section 6 of the Education (Scotland) Act 1980 insert—
 - (a) are subject to the affirmative procedure if they add to, replace or omit any part of the text of an Act,
 - (b) otherwise are subject to the negative procedure.
 
-## 4. Commencement[^key-c03ccb4a187f596d74965784859a6559]
+## 4. Commencement[^c-c03ccb4a187f596d74965784859a6559]
 
 (1) This section and sections 3 and 5 come into force on the day after Royal Assent.
 
@@ -181,18 +181,18 @@ After section 6 of the Education (Scotland) Act 1980 insert—
 
 (4) The Scottish Ministers must make regulations under subsection (2) no later than 30 September 2027.
 
-## 5. Short title[^key-324eb8cad1906c3f93f3569a70984ea2]
+## 5. Short title[^c-324eb8cad1906c3f93f3569a70984ea2]
 
 The short title of this Act is the Schools (Residential Outdoor Education) (Scotland) Act 2026.
 
 ## Annotations
 
-[^key-4e838ba85f57f74f4ce6f2da966645e5]: Commencement: S. 1 not in force at Royal Assent, see [s. 4(2)](https://www.legislation.gov.uk/asp/2026/3/section/4/2)
+[^c-4e838ba85f57f74f4ce6f2da966645e5]: Commencement: S. 1 not in force at Royal Assent, see [s. 4(2)](https://www.legislation.gov.uk/asp/2026/3/section/4/2)
 
-[^key-a0731e6b8f2ba654e30e7d5059fe3906]: Commencement: S. 2 not in force at Royal Assent, see [s. 4(2)](https://www.legislation.gov.uk/asp/2026/3/section/4/2)
+[^c-a0731e6b8f2ba654e30e7d5059fe3906]: Commencement: S. 2 not in force at Royal Assent, see [s. 4(2)](https://www.legislation.gov.uk/asp/2026/3/section/4/2)
 
-[^key-3c8a60a6939dfd5620c767f0a2185725]: Commencement: S. 3 in force at 12.2.2026, see [s. 4(1)](https://www.legislation.gov.uk/asp/2026/3/section/4/1)
+[^c-3c8a60a6939dfd5620c767f0a2185725]: Commencement: S. 3 in force at 12.2.2026, see [s. 4(1)](https://www.legislation.gov.uk/asp/2026/3/section/4/1)
 
-[^key-c03ccb4a187f596d74965784859a6559]: Commencement: S. 4 in force at 12.2.2026, see [s. 4(1)](https://www.legislation.gov.uk/asp/2026/3/section/4/1)
+[^c-c03ccb4a187f596d74965784859a6559]: Commencement: S. 4 in force at 12.2.2026, see [s. 4(1)](https://www.legislation.gov.uk/asp/2026/3/section/4/1)
 
-[^key-324eb8cad1906c3f93f3569a70984ea2]: Commencement: S. 5 in force at 12.2.2026, see [s. 4(1)](https://www.legislation.gov.uk/asp/2026/3/section/4/1)
+[^c-324eb8cad1906c3f93f3569a70984ea2]: Commencement: S. 5 in force at 12.2.2026, see [s. 4(1)](https://www.legislation.gov.uk/asp/2026/3/section/4/1)

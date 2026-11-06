@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 325. Preparation of papers for probate[^key-74472f621a4d6611a11c5b99a91eb614]
+## 325. Preparation of papers for probate[^c-74472f621a4d6611a11c5b99a91eb614]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-74472f621a4d6611a11c5b99a91eb614]: Commencement: Art. 325 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-74472f621a4d6611a11c5b99a91eb614]: Commencement: Art. 325 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00242]: Footnote: Section 54(1) inserts subsections (2), (2A), (3) and (4) into section 23 of the Solicitors Act [1974 (c. 47)](https://www.legislation.gov.uk/ukpga/1974/47) from a date to be appointed.
 

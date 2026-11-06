@@ -31,7 +31,7 @@ summary: ''
 
 (4) In the case of land specified in the table in Schedule 8, the power under section 4(1) may be exercised only so as to acquire rights for purposes specified in relation to the land in column (3) of the table.
 
-(4A)[^key-be43585377141e399ea6a7f1b603c492] The power under section 4(1), so far as relating to compulsory acquisition by virtue of this section, includes power to acquire rights or to impose restrictive covenants for the benefit of a person other than the Secretary of State.
+(4A)[^c-be43585377141e399ea6a7f1b603c492] The power under section 4(1), so far as relating to compulsory acquisition by virtue of this section, includes power to acquire rights or to impose restrictive covenants for the benefit of a person other than the Secretary of State.
 
 (5) The Secretary of State may by order provide that section 4(1), so far as relating to compulsory acquisition by virtue of this section, is to be treated as also authorising acquisition of rights or imposition of restrictive covenants by such person as may be specified in the order.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-be43585377141e399ea6a7f1b603c492]: Textual amendment: S. 5(4A) inserted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 5(7)](https://www.legislation.gov.uk/ukpga/2021/2/section/5/7), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)
+[^c-be43585377141e399ea6a7f1b603c492]: Textual amendment: S. 5(4A) inserted (11.2.2021) by [High Speed Rail (West Midlands - Crewe) Act 2021 (c. 2)](https://www.legislation.gov.uk/ukpga/2021/2), [ss. 5(7)](https://www.legislation.gov.uk/ukpga/2021/2/section/5/7), [64(1)](https://www.legislation.gov.uk/ukpga/2021/2/section/64/1)

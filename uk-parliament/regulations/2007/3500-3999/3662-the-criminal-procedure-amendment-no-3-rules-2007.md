@@ -56,15 +56,15 @@ Remainder
 
 The Criminal Procedure Rule Committee makes the following Rules under section 69 of the Courts Act 2003[^f00001], after consulting in accordance with section 72(1)(a) of that Act:
 
-## 1. Citation, commencement and interpretation[^key-5ec593443135a3680c0aba11429b4da9]
+## 1. Citation, commencement and interpretation[^c-5ec593443135a3680c0aba11429b4da9]
 
 These Rules may be cited as the Criminal Procedure (Amendment No. 3) Rules 2007.
 
-**2.**[^key-cd52c187c4fff8b6822a2454afac3a81] Rules 1–4 and 15–23 of these Rules shall come into force on 1st April 2008 and rules 5–14 and 24–33 of these Rules shall come into force on 7th April 2008.
+**2.**[^c-cd52c187c4fff8b6822a2454afac3a81] Rules 1–4 and 15–23 of these Rules shall come into force on 1st April 2008 and rules 5–14 and 24–33 of these Rules shall come into force on 7th April 2008.
 
-**3.**[^key-20d56a5ff9f28b4cc3d5c6c95e9e394f] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Criminal Procedure Rules 2005[^f00002].
+**3.**[^c-20d56a5ff9f28b4cc3d5c6c95e9e394f] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Criminal Procedure Rules 2005[^f00002].
 
-## 4. Amendments to the Criminal Procedure Rules 2005[^key-e2027a238a755cfda4d2e3acada7586a]
+## 4. Amendments to the Criminal Procedure Rules 2005[^c-e2027a238a755cfda4d2e3acada7586a]
 
 After rule 2.1(7) (When the Rules apply), insert—
 
@@ -75,7 +75,7 @@ After rule 2.1(7) (When the Rules apply), insert—
 
 .
 
-**5.**[^key-649a1e611c6bf93c8ecac4ebfc7d131b] After rule 2.1(8) (When the Rules apply), insert—
+**5.**[^c-649a1e611c6bf93c8ecac4ebfc7d131b] After rule 2.1(8) (When the Rules apply), insert—
 
 > (9) The rules in Part 50 apply in cases in which the defendant is charged on or after 7th April 2008 and in other cases if the court so orders. Otherwise, the rules replaced by those rules apply.
 >
@@ -83,11 +83,11 @@ After rule 2.1(7) (When the Rules apply), insert—
 
 .
 
-**6.**[^key-16699995797b5f0288c6b9c37da67e6c] For the note after rule 2.1, substitute—
+**6.**[^c-16699995797b5f0288c6b9c37da67e6c] For the note after rule 2.1, substitute—
 
 > - *\[Note. The rules replaced by the first Criminal Procedure Rules (The Criminal Procedure Rules 2005) were revoked when those Rules came into force by provisions of the Courts Act 2003, The Courts Act 2003 (Consequential Amendments) Order 2004*[^f00003] *and The Courts Act 2003 (Commencement No. 6 and Savings) Order 2004*[^f00004]. *The first Criminal Procedure Rules reproduced the substance of all the rules they replaced.\]*
 
-**7.**[^key-960d4870d68ea5c77d3eaba46a18028f] After rule 3.5(5) (The court’s case management powers), insert—
+**7.**[^c-960d4870d68ea5c77d3eaba46a18028f] After rule 3.5(5) (The court’s case management powers), insert—
 
 > (6) If a party fails to comply with a rule or a direction, the court may—
 >
@@ -97,7 +97,7 @@ After rule 2.1(7) (When the Rules apply), insert—
 
 .
 
-**8.**[^key-43cebe857495d8029e8f0d3bfebdf907] At the end of the note after rule 3.5 (The court’s case management powers), insert—
+**8.**[^c-43cebe857495d8029e8f0d3bfebdf907] At the end of the note after rule 3.5 (The court’s case management powers), insert—
 
 > - *See also rule 3.10.*
 > - *The court may make a costs order under—*
@@ -113,13 +113,13 @@ After rule 2.1(7) (When the Rules apply), insert—
 > - *section 11(5) of the Criminal Procedure and Investigations Act 1996*[^f00010] *(faults in disclosure by accused);*
 > - *section 132(5) of the Criminal Justice Act 2003*[^f00011] *(failure to give notice of hearsay evidence).*.
 
-**9.**[^key-ab1c0dbc290aba9577c033cf394eba65] After rule 3.8(2) (Case preparation and progression), insert—
+**9.**[^c-ab1c0dbc290aba9577c033cf394eba65] After rule 3.8(2) (Case preparation and progression), insert—
 
 > (3) In order to prepare for a trial in the Crown Court, the court must conduct a plea and case management hearing unless the circumstances make that unnecessary.
 
 .
 
-**10.**[^key-18b27a88d2786635b191ad84cef0e5fa] For rule 3.10 (Conduct of a trial or an appeal), substitute—
+**10.**[^c-18b27a88d2786635b191ad84cef0e5fa] For rule 3.10 (Conduct of a trial or an appeal), substitute—
 
 > **3.10.** In order to manage a trial or (in the Crown Court) an appeal—
 >
@@ -137,50 +137,50 @@ After rule 2.1(7) (When the Rules apply), insert—
 
 .
 
-**11.**[^key-c97c6277933fcee4246bd693470b138a] After rule 3.10 (Conduct of a trial or an appeal), insert—
+**11.**[^c-c97c6277933fcee4246bd693470b138a] After rule 3.10 (Conduct of a trial or an appeal), insert—
 
 > - *\[Note. See also rule 3.5.\]*
 
 .
 
-**12.**[^key-a8a6320a7da158f235e7ab05ba1b5a5b] For Part 50 (Supplementary orders made on conviction), substitute the Part as set out in Schedule 1 to these Rules.
+**12.**[^c-a8a6320a7da158f235e7ab05ba1b5a5b] For Part 50 (Supplementary orders made on conviction), substitute the Part as set out in Schedule 1 to these Rules.
 
-**13.**[^key-45c17cf011cd9bb5ad611b8ee3152524] In rule 56.4(4) (Application to Crown Court to discharge or vary order to make material available)—
+**13.**[^c-45c17cf011cd9bb5ad611b8ee3152524] In rule 56.4(4) (Application to Crown Court to discharge or vary order to make material available)—
 
 - (a) for “Commissioners of Customs and Excise”, substitute “Commissioners for Her Majesty’s Revenue and Customs”;
 - (b) for “Her Majesty’s Customs and Excise”, substitute “Her Majesty’s Revenue and Customs”.
 
-**14.**[^key-c8ccff37b3891fe7bbd3144fd5cc71bf] In the note after rule 56.4 (Application to Crown Court to discharge or vary order to make material available), for “Formerly”, substitute “This rule derives in part from”.
+**14.**[^c-c8ccff37b3891fe7bbd3144fd5cc71bf] In the note after rule 56.4 (Application to Crown Court to discharge or vary order to make material available), for “Formerly”, substitute “This rule derives in part from”.
 
-**15.**[^key-8d2cc15c49d52b96516389e49315b9b1] In rule 57.1 (Interpretation), omit “52, 53,”, “56(4),”, and “60(2) and (3),”.
+**15.**[^c-8d2cc15c49d52b96516389e49315b9b1] In rule 57.1 (Interpretation), omit “52, 53,”, “56(4),”, and “60(2) and (3),”.
 
-**16.**[^key-3d1ee165c93d6b504cd93e00f832612b] In the note after rule 57.1 (Interpretation), for “Formerly”, substitute “This rule derives from”.
+**16.**[^c-3d1ee165c93d6b504cd93e00f832612b] In the note after rule 57.1 (Interpretation), for “Formerly”, substitute “This rule derives from”.
 
-**17.**[^key-e1a27e09f26d9ee0bae236a83cfe5da8] For Part 58 (Proceeds of Crime Act 2002[^f00012]—rules applicable only to confiscation proceedings), substitute the Part as set out in Schedule 2 to these Rules.
+**17.**[^c-e1a27e09f26d9ee0bae236a83cfe5da8] For Part 58 (Proceeds of Crime Act 2002[^f00012]—rules applicable only to confiscation proceedings), substitute the Part as set out in Schedule 2 to these Rules.
 
-**18.**[^key-9f03faf5d8e2705df8c8488883559df0] In rule 59.1 (Application for restraint order), omit “, the Director”.
+**18.**[^c-9f03faf5d8e2705df8c8488883559df0] In rule 59.1 (Application for restraint order), omit “, the Director”.
 
-**19.**[^key-289d657d26dc0ecd0cbaeff934fabdc7] In the note after rule 59.1 (Application for restraint order), for “Formerly”, substitute “This rule derives from”.
+**19.**[^c-289d657d26dc0ecd0cbaeff934fabdc7] In the note after rule 59.1 (Application for restraint order), for “Formerly”, substitute “This rule derives from”.
 
-**20.**[^key-d9c6f8ace6871407f8d5971e6c4d7f9d] For Part 60 (Proceeds of Crime Act 2002—rules applicable only to receivership proceedings), substitute the Part as set out in Schedule 3 to these Rules.
+**20.**[^c-d9c6f8ace6871407f8d5971e6c4d7f9d] For Part 60 (Proceeds of Crime Act 2002—rules applicable only to receivership proceedings), substitute the Part as set out in Schedule 3 to these Rules.
 
-**21.**[^key-c3a959c34994240844ebecd1e7c39b16] In rule 61.1(1) (Distress and forfeiture)—
+**21.**[^c-c3a959c34994240844ebecd1e7c39b16] In rule 61.1(1) (Distress and forfeiture)—
 
 - (a) omit “and 60(2) and (3)”; and
 - (b) for “,” before “59(2)”, substitute “and”.
 
-**22.**[^key-dc9a88d43f9b7170aeda83cb2ab9dccc] In the note after rule 61.1 (Distress and forfeiture), for “Formerly”, substitute “This rule derives from”.
+**22.**[^c-dc9a88d43f9b7170aeda83cb2ab9dccc] In the note after rule 61.1 (Distress and forfeiture), for “Formerly”, substitute “This rule derives from”.
 
-**23.**[^key-3cc350c97e5ea42432ad31f58cc3e271] For Part 62 (Proceeds of Crime Act 2002—rules applicable to investigations), substitute the Part as set out in Schedule 4 to these Rules.
+**23.**[^c-3cc350c97e5ea42432ad31f58cc3e271] For Part 62 (Proceeds of Crime Act 2002—rules applicable to investigations), substitute the Part as set out in Schedule 4 to these Rules.
 
-**24.**[^key-27e5510f8232fc09c84de1a13ffd036b] In rule 65.1(1) (When this Part applies)—
+**24.**[^c-27e5510f8232fc09c84de1a13ffd036b] In rule 65.1(1) (When this Part applies)—
 
 - (a) before “appeals”, insert “applications,”;
 - (b) for “and 70”, substitute “, 70 and 74”.
 
-**25.**[^key-4600a966c8b8609fdd5d2d637651d220] In the note after rule 65.1 (When this Part applies), for “and 31C”, substitute “, 31C and 44”.
+**25.**[^c-4600a966c8b8609fdd5d2d637651d220] In the note after rule 65.1 (When this Part applies), for “and 31C”, substitute “, 31C and 44”.
 
-**26.**[^key-f65d393f684d51f6e3595947c8da0bc5] For the note after rule 65.3 (Power to vary requirements), substitute—
+**26.**[^c-f65d393f684d51f6e3595947c8da0bc5] For the note after rule 65.3 (Power to vary requirements), substitute—
 
 > - *\[Note. The time limit for serving an appeal notice—*
 >   - (a) *under section 18 of the Criminal Appeal Act 1968*[^f00013] *on an appeal against conviction or sentence, and*
@@ -193,9 +193,9 @@ After rule 2.1(7) (When the Rules apply), insert—
 
 .
 
-**27.**[^key-96ca7439303726c43e0e27b204ab55a8] In the note after rule 65.5 (Renewing an application refused by a judge or the Registrar), for “and 31C”, substitute “, 31C and 44”.
+**27.**[^c-96ca7439303726c43e0e27b204ab55a8] In the note after rule 65.5 (Renewing an application refused by a judge or the Registrar), for “and 31C”, substitute “, 31C and 44”.
 
-**28.**[^key-8e44bc121064765746fe93b22d2ac347] In rule 65.6 (Hearings)—
+**28.**[^c-8e44bc121064765746fe93b22d2ac347] In rule 65.6 (Hearings)—
 
 - (a) Re-number rule 65.6(4) as rule 65.6(5);
 - (b) Before rule 65.6(5), insert—
@@ -209,9 +209,9 @@ After rule 2.1(7) (When the Rules apply), insert—
 
   .
 
-**29.**[^key-71f3682a446f6e3e19dddf1d9e3fad88] In rule 65.10(a)(ii) (Duty of person keeping exhibit), for “proceedings in the Court of Appeal”, substitute “appeal proceedings”.
+**29.**[^c-71f3682a446f6e3e19dddf1d9e3fad88] In rule 65.10(a)(ii) (Duty of person keeping exhibit), for “proceedings in the Court of Appeal”, substitute “appeal proceedings”.
 
-**30.**[^key-e33b57fb739d89cf32eb5fdb27b5be68] In rule 68.1(1) (When this Part applies)—
+**30.**[^c-e33b57fb739d89cf32eb5fdb27b5be68] In rule 68.1(1) (When this Part applies)—
 
 - (a) at the end of rule 68.1(1)(d), omit “or”;
 - (b) at the end of rule 68.1(1)(e), insert—
@@ -222,13 +222,13 @@ After rule 2.1(7) (When the Rules apply), insert—
 
   .
 
-**31.**[^key-330c52465a6ae7d9ddc3e33c19d5af84] In the note after rule 68.1 (When this Part applies), after “Court of Appeal”, in the second place it occurs, insert—
+**31.**[^c-330c52465a6ae7d9ddc3e33c19d5af84] In the note after rule 68.1 (When this Part applies), after “Court of Appeal”, in the second place it occurs, insert—
 
 > - *Under section 24 of the Serious Crime Act 2007 a person who is the subject of a serious crime prevention order, or the relevant applicant authority, may appeal to the Court of Appeal against a decision of the Crown Court in relation to that order. In addition, any person who was given an opportunity to make representations in the proceedings by virtue of section 9(4) of the Act may appeal to the Court of Appeal against a decision of the Crown Court to make, vary or not vary a serious crime prevention order.*.
 
-**32.**[^key-23463fafc0e04b9adbbed2e174f6b86e] For Part 71 (Appeal to the Court of Appeal under the Proceeds of Crime Act 2002—general rules), substitute the Part as set out in Schedule 5 to these Rules.
+**32.**[^c-23463fafc0e04b9adbbed2e174f6b86e] For Part 71 (Appeal to the Court of Appeal under the Proceeds of Crime Act 2002—general rules), substitute the Part as set out in Schedule 5 to these Rules.
 
-**33.**[^key-b0d60aa2a02906ddee599144ac05f0c6] For Part 74 (Appeal or reference to the House of Lords), substitute the Part as set out in Schedule 6 to these Rules.
+**33.**[^c-b0d60aa2a02906ddee599144ac05f0c6] For Part 74 (Appeal or reference to the House of Lords), substitute the Part as set out in Schedule 6 to these Rules.
 
 Phillips of Worth Matravers, *C.J.*
 
@@ -270,7 +270,7 @@ Lord Chancellor
 
 18th December 2007
 
-## SCHEDULE 1[^key-8b240a766f5816ba74e2b7eb47970541]
+## SCHEDULE 1[^c-8b240a766f5816ba74e2b7eb47970541]
 
 Rule 12
 
@@ -502,7 +502,7 @@ Rule 12
 > - (a) shorten a time limit or extend it (even after it has expired);
 > - (b) allow a notice or application to be given in a different form, or presented orally.
 
-## SCHEDULE 2[^key-1cdd1d65962212e8c9c946d7d5e226dd]
+## SCHEDULE 2[^c-1cdd1d65962212e8c9c946d7d5e226dd]
 
 Rule 17
 
@@ -745,7 +745,7 @@ Rule 17
 >
 > - *\[Note. Formerly rule 57A of The Magistrates' Courts Rules 1981*[^f00043]*.\]*
 
-## SCHEDULE 3[^key-33fb0497aa0212237b20cc1942a2b3e8]
+## SCHEDULE 3[^c-33fb0497aa0212237b20cc1942a2b3e8]
 
 Rule 20
 
@@ -982,7 +982,7 @@ Rule 20
 >
 > - *\[Note. This rule derives from rule 28 of The Crown Court (Confiscation, Restraint and Receivership) Rules 2003.\]*
 
-## SCHEDULE 4[^key-398b00f5e7e8a80e967e117e53847010]
+## SCHEDULE 4[^c-398b00f5e7e8a80e967e117e53847010]
 
 Rule 23
 
@@ -1054,7 +1054,7 @@ Rule 23
 > - “confiscation investigation” and “money laundering investigation” have the meanings given to them by section 341 of the 2002 Act[^f00064].
 > - *\[Note. This rule derives in part from rule 25E of The Crown Court Rules 1982. For applications to discharge or vary a production order see also Part 56.4.\]*
 
-## SCHEDULE 5[^key-e95d26e125dd61d01ac56b665ffa0aff]
+## SCHEDULE 5[^c-e95d26e125dd61d01ac56b665ffa0aff]
 
 Rule 32
 
@@ -1164,7 +1164,7 @@ Rule 32
 >
 > - *\[Note. This rule derives from rule 22 of The Criminal Appeal (Confiscation, Restraint and Receivership) Rules 2003.\]*
 
-## SCHEDULE 6[^key-982986c761b9bff92c94d3650af69b4b]
+## SCHEDULE 6[^c-982986c761b9bff92c94d3650af69b4b]
 
 Rule 33
 
@@ -1310,27 +1310,27 @@ The changes to Parts 57 to 62 come into force on 1st April 2008 and the other ch
 
 [^f00001]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
 
-[^key-5ec593443135a3680c0aba11429b4da9]: Commencement: Rule 1 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-5ec593443135a3680c0aba11429b4da9]: Commencement: Rule 1 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-cd52c187c4fff8b6822a2454afac3a81]: Commencement: Rule 2 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-cd52c187c4fff8b6822a2454afac3a81]: Commencement: Rule 2 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-20d56a5ff9f28b4cc3d5c6c95e9e394f]: Commencement: Rule 3 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-20d56a5ff9f28b4cc3d5c6c95e9e394f]: Commencement: Rule 3 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
 [^f00002]: Footnote: S.I. [2005/384](https://www.legislation.gov.uk/uksi/2005/384); amended by S.I. [2006/353](https://www.legislation.gov.uk/uksi/2006/353), [2006/2636](https://www.legislation.gov.uk/uksi/2006/2636), [2007/699](https://www.legislation.gov.uk/uksi/2007/699) and S.I. [2007/2317](https://www.legislation.gov.uk/uksi/2007/2317).
 
-[^key-e2027a238a755cfda4d2e3acada7586a]: Commencement: Rule 4 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-e2027a238a755cfda4d2e3acada7586a]: Commencement: Rule 4 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-649a1e611c6bf93c8ecac4ebfc7d131b]: Commencement: Rule 5 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-649a1e611c6bf93c8ecac4ebfc7d131b]: Commencement: Rule 5 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-16699995797b5f0288c6b9c37da67e6c]: Commencement: Rule 6 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-16699995797b5f0288c6b9c37da67e6c]: Commencement: Rule 6 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
 [^f00003]: Footnote: S.I. [2004/2035](https://www.legislation.gov.uk/uksi/2004/2035).
 
 [^f00004]: Footnote: S.I. [2004/2066](https://www.legislation.gov.uk/uksi/2004/2066).
 
-[^key-960d4870d68ea5c77d3eaba46a18028f]: Commencement: Rule 7 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-960d4870d68ea5c77d3eaba46a18028f]: Commencement: Rule 7 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-43cebe857495d8029e8f0d3bfebdf907]: Commencement: Rule 8 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-43cebe857495d8029e8f0d3bfebdf907]: Commencement: Rule 8 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
 [^f00005]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23); section 19 was amended by section 166(2) and (3) of the Criminal Justice Act [1988 (c. 33)](https://www.legislation.gov.uk/ukpga/1988/33), section 45 of, and Schedule 6 to, the Legal Aid Act [1988 (c. 34)](https://www.legislation.gov.uk/ukpga/1988/34), section 7 of, and paragraph 8 of Schedule 3 to, the Criminal Procedure (Insanity and Unfitness to Plead) Act [1991 (c. 25)](https://www.legislation.gov.uk/ukpga/1991/25), section 24 of, and paragraphs 27 and 28 of Schedule 4 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), sections 40(1) and 67(4) of, and paragraph 4 of Schedule 7 to, the Youth Justice and Criminal Evidence Act [1999 (c. 23)](https://www.legislation.gov.uk/ukpga/1999/23), section 165(1) of, and paragraph 99 of Schedule 9 to, the Powers of Criminal Courts (Sentencing) Act [2000 (c. 6)](https://www.legislation.gov.uk/ukpga/2000/6) and section 378(1) of, and paragraph 107 (a) and (b) of Schedule 16 to, the Armed Forces Act [2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52).
 
@@ -1346,43 +1346,43 @@ The changes to Parts 57 to 62 come into force on 1st April 2008 and the other ch
 
 [^f00011]: Footnote: [2003 c. 44](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-ab1c0dbc290aba9577c033cf394eba65]: Commencement: Rule 9 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-ab1c0dbc290aba9577c033cf394eba65]: Commencement: Rule 9 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-18b27a88d2786635b191ad84cef0e5fa]: Commencement: Rule 10 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-18b27a88d2786635b191ad84cef0e5fa]: Commencement: Rule 10 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-c97c6277933fcee4246bd693470b138a]: Commencement: Rule 11 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-c97c6277933fcee4246bd693470b138a]: Commencement: Rule 11 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-a8a6320a7da158f235e7ab05ba1b5a5b]: Commencement: Rule 12 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-a8a6320a7da158f235e7ab05ba1b5a5b]: Commencement: Rule 12 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-45c17cf011cd9bb5ad611b8ee3152524]: Commencement: Rule 13 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-45c17cf011cd9bb5ad611b8ee3152524]: Commencement: Rule 13 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-c8ccff37b3891fe7bbd3144fd5cc71bf]: Commencement: Rule 14 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-c8ccff37b3891fe7bbd3144fd5cc71bf]: Commencement: Rule 14 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-8d2cc15c49d52b96516389e49315b9b1]: Commencement: Rule 15 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-8d2cc15c49d52b96516389e49315b9b1]: Commencement: Rule 15 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-3d1ee165c93d6b504cd93e00f832612b]: Commencement: Rule 16 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-3d1ee165c93d6b504cd93e00f832612b]: Commencement: Rule 16 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-e1a27e09f26d9ee0bae236a83cfe5da8]: Commencement: Rule 17 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-e1a27e09f26d9ee0bae236a83cfe5da8]: Commencement: Rule 17 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
 [^f00012]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 
-[^key-9f03faf5d8e2705df8c8488883559df0]: Commencement: Rule 18 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-9f03faf5d8e2705df8c8488883559df0]: Commencement: Rule 18 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-289d657d26dc0ecd0cbaeff934fabdc7]: Commencement: Rule 19 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-289d657d26dc0ecd0cbaeff934fabdc7]: Commencement: Rule 19 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-d9c6f8ace6871407f8d5971e6c4d7f9d]: Commencement: Rule 20 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-d9c6f8ace6871407f8d5971e6c4d7f9d]: Commencement: Rule 20 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-c3a959c34994240844ebecd1e7c39b16]: Commencement: Rule 21 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-c3a959c34994240844ebecd1e7c39b16]: Commencement: Rule 21 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-dc9a88d43f9b7170aeda83cb2ab9dccc]: Commencement: Rule 22 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-dc9a88d43f9b7170aeda83cb2ab9dccc]: Commencement: Rule 22 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-3cc350c97e5ea42432ad31f58cc3e271]: Commencement: Rule 23 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-3cc350c97e5ea42432ad31f58cc3e271]: Commencement: Rule 23 in force at 1.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-27e5510f8232fc09c84de1a13ffd036b]: Commencement: Rule 24 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-27e5510f8232fc09c84de1a13ffd036b]: Commencement: Rule 24 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-4600a966c8b8609fdd5d2d637651d220]: Commencement: Rule 25 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-4600a966c8b8609fdd5d2d637651d220]: Commencement: Rule 25 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-f65d393f684d51f6e3595947c8da0bc5]: Commencement: Rule 26 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-f65d393f684d51f6e3595947c8da0bc5]: Commencement: Rule 26 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
 [^f00013]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19).
 
@@ -1390,23 +1390,23 @@ The changes to Parts 57 to 62 come into force on 1st April 2008 and the other ch
 
 [^f00015]: Footnote: [1988 c. 33](https://www.legislation.gov.uk/ukpga/1988/33); section 36 was amended by sections 272, 304 and 331 of, and paragraphs 45 and 46 of Schedule 32 and paragraph 96 of Schedule 36 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and sections 49 and 65 of, and paragraph 3 of Schedule 1 and Schedule 5 to, the Violent Crime Reduction Act [2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38). It is further amended by section 40 of, and paragraph 48 of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), with effect from a date to be appointed.
 
-[^key-96ca7439303726c43e0e27b204ab55a8]: Commencement: Rule 27 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-96ca7439303726c43e0e27b204ab55a8]: Commencement: Rule 27 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-8e44bc121064765746fe93b22d2ac347]: Commencement: Rule 28 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-8e44bc121064765746fe93b22d2ac347]: Commencement: Rule 28 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-71f3682a446f6e3e19dddf1d9e3fad88]: Commencement: Rule 29 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-71f3682a446f6e3e19dddf1d9e3fad88]: Commencement: Rule 29 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-e33b57fb739d89cf32eb5fdb27b5be68]: Commencement: Rule 30 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-e33b57fb739d89cf32eb5fdb27b5be68]: Commencement: Rule 30 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
 [^f00016]: Footnote: [2007 c. 27](https://www.legislation.gov.uk/ukpga/2007/27).
 
-[^key-330c52465a6ae7d9ddc3e33c19d5af84]: Commencement: Rule 31 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-330c52465a6ae7d9ddc3e33c19d5af84]: Commencement: Rule 31 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-23463fafc0e04b9adbbed2e174f6b86e]: Commencement: Rule 32 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-23463fafc0e04b9adbbed2e174f6b86e]: Commencement: Rule 32 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-b0d60aa2a02906ddee599144ac05f0c6]: Commencement: Rule 33 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-b0d60aa2a02906ddee599144ac05f0c6]: Commencement: Rule 33 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
-[^key-8b240a766f5816ba74e2b7eb47970541]: Commencement: Sch. 1 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-8b240a766f5816ba74e2b7eb47970541]: Commencement: Sch. 1 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
 [^f00017]: Footnote: S.I. [1981/552](https://www.legislation.gov.uk/uksi/1981/552), amended by S.I. [1998/2167](https://www.legislation.gov.uk/uksi/1998/2167).
 
@@ -1442,7 +1442,7 @@ The changes to Parts 57 to 62 come into force on 1st April 2008 and the other ch
 
 [^f00034]: Footnote: [1865 c. 18](https://www.legislation.gov.uk/ukpga/1865/18); section 6 was amended by section 10 of the Decimal Currency Act [1969 (c. 19)](https://www.legislation.gov.uk/ukpga/1969/19), section 119 of, and schedule 7 to, the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60), section 90 of, and paragraph 3 of Schedule 13 to, the Access to Justice Act [1999 (c. 22)](https://www.legislation.gov.uk/ukpga/1999/22), section 109 of, and paragraph 47 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39) and sections 331 and 332 of, and paragraph 79 of Schedule 36 to, and Schedule 37 to, the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-1cdd1d65962212e8c9c946d7d5e226dd]: Commencement: Sch. 2 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-1cdd1d65962212e8c9c946d7d5e226dd]: Commencement: Sch. 2 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
 [^f00035]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 16 was amended by paragraph 5 of Schedule 8 to the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27).
 
@@ -1462,7 +1462,7 @@ The changes to Parts 57 to 62 come into force on 1st April 2008 and the other ch
 
 [^f00043]: Footnote: S.I. [1981/552](https://www.legislation.gov.uk/uksi/1981/552); amended by S.I. [2003/423](https://www.legislation.gov.uk/uksi/2003/423). There are other amending instruments but none is relevant.
 
-[^key-33fb0497aa0212237b20cc1942a2b3e8]: Commencement: Sch. 3 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-33fb0497aa0212237b20cc1942a2b3e8]: Commencement: Sch. 3 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
 [^f00044]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29).
 
@@ -1478,7 +1478,7 @@ The changes to Parts 57 to 62 come into force on 1st April 2008 and the other ch
 
 [^f00050]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 55(4)(b) was amended by section 109 of, and paragraph 408 of Schedule 8 to, the Courts Act [2003 (c. 39)](https://www.legislation.gov.uk/ukpga/2003/39).
 
-[^key-398b00f5e7e8a80e967e117e53847010]: Commencement: Sch. 4 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-398b00f5e7e8a80e967e117e53847010]: Commencement: Sch. 4 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
 [^f00051]: Footnote: [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11); Schedule 6A was inserted by section 3 of, and paragraph 1 of Schedule 2 to, the Anti-Terrorism, Crime and Security Act [2001 (c. 24)](https://www.legislation.gov.uk/ukpga/2001/24).
 
@@ -1508,7 +1508,7 @@ The changes to Parts 57 to 62 come into force on 1st April 2008 and the other ch
 
 [^f00064]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 341 was amended by section 75 of the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27).
 
-[^key-e95d26e125dd61d01ac56b665ffa0aff]: Commencement: Sch. 5 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-e95d26e125dd61d01ac56b665ffa0aff]: Commencement: Sch. 5 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
 [^f00065]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 31 was amended by section 74 of, and paragraph 16 of Schedule 8 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27) and section 33 was amended by section 74 of, and paragraph 17 of Schedule 8 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27). Section 33 is to be amended by section 40 of, and paragraph 77 of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), from a date to be appointed.
 
@@ -1524,7 +1524,7 @@ The changes to Parts 57 to 62 come into force on 1st April 2008 and the other ch
 
 [^f00071]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 31 was amended by section 74(2) of, and paragraph 16 of Schedule 8 to, the Serious Crime Act [2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27).
 
-[^key-982986c761b9bff92c94d3650af69b4b]: Commencement: Sch. 6 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
+[^c-982986c761b9bff92c94d3650af69b4b]: Commencement: Sch. 6 in force at 7.4.2008, see [rule 2](https://www.legislation.gov.uk/uksi/2007/3662/rule/2)
 
 [^f00072]: Footnote: [1968 c. 19](https://www.legislation.gov.uk/ukpga/1968/19); section 33 was amended by section 152(1) of, and Schedule 5 to, the Supreme Court Act [1981 (c. 54)](https://www.legislation.gov.uk/ukpga/1981/54), section 15 of, and paragraph 3 of Schedule 2 to, the Criminal Justice Act [1987 (c. 38)](https://www.legislation.gov.uk/ukpga/1987/38), section 36(1)(a) of the Criminal Procedure and Investigations Act [1996 (c. 25)](https://www.legislation.gov.uk/ukpga/1996/25), section 456 of, and paragraphs 1, 4(1) and (2) of Schedule 11 to, the Proceeds of Crime Act [2002 (c. 29)](https://www.legislation.gov.uk/ukpga/2002/29), sections 47(6), 68(1) and 81(1), (2) and (3) of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and is to be amended by section 40(4) of, and paragraph 16 (1) and (3)(a) and (b) of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), from a date to be appointed.
 

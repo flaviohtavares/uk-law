@@ -34,7 +34,7 @@ Sea Fisheries
 
 Conservation Of Sea Fish
 
-The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2019 (revoked)[^key-30d79647b64c172b067b7fead993c219]
+The Sea Fish (Prohibited Methods of Fishing) (Firth of Clyde) Order 2019 (revoked)[^c-30d79647b64c172b067b7fead993c219]
 
 Made
 
@@ -48,32 +48,32 @@ Coming into force
 
 14th February 2020
 
-[^key-30d79647b64c172b067b7fead993c219]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30d79647b64c172b067b7fead993c219]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, cessation and effect[^key-30d79647b64c172b067b7fead993c219]
+## 1. Citation, commencement, cessation and effect[^c-30d79647b64c172b067b7fead993c219]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-30d79647b64c172b067b7fead993c219]
+## 2. Interpretation[^c-30d79647b64c172b067b7fead993c219]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prohibited methods of fishing[^key-30d79647b64c172b067b7fead993c219]
+## 3. Prohibited methods of fishing[^c-30d79647b64c172b067b7fead993c219]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-30d79647b64c172b067b7fead993c219]
+## 4. Revocation[^c-30d79647b64c172b067b7fead993c219]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-30d79647b64c172b067b7fead993c219]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30d79647b64c172b067b7fead993c219]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-30d79647b64c172b067b7fead993c219]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-30d79647b64c172b067b7fead993c219]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-30d79647b64c172b067b7fead993c219]: Textual amendment: Order revoked (12.2.2022) by [The Sea Fish (Prohibition on Fishing) (Firth of Clyde) (No. 2) Order 2022 (S.S.I. 2022/35)](https://www.legislation.gov.uk/ssi/2022/35), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/35/article/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2022/35/article/4/a)
+[^c-30d79647b64c172b067b7fead993c219]: Textual amendment: Order revoked (12.2.2022) by [The Sea Fish (Prohibition on Fishing) (Firth of Clyde) (No. 2) Order 2022 (S.S.I. 2022/35)](https://www.legislation.gov.uk/ssi/2022/35), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2022/35/article/1/1), [4(a)](https://www.legislation.gov.uk/ssi/2022/35/article/4/a)

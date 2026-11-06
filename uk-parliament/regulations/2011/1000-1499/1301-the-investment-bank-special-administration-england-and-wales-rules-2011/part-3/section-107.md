@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 107. The chair at meetings[^key-56790eaf0ca56b6a7ec27781e6887790]
+## 107. The chair at meetings[^c-56790eaf0ca56b6a7ec27781e6887790]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-56790eaf0ca56b6a7ec27781e6887790]: Commencement: [Rule 107](https://www.legislation.gov.uk/uksi/2011/1301/rule/107) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-56790eaf0ca56b6a7ec27781e6887790]: Commencement: [Rule 107](https://www.legislation.gov.uk/uksi/2011/1301/rule/107) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 46. Lighting[^key-2a524bb7384060b17a79cf02210c486d]
+## 46. Lighting[^c-2a524bb7384060b17a79cf02210c486d]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a524bb7384060b17a79cf02210c486d]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2016/427/regulation/46) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-2a524bb7384060b17a79cf02210c486d]: Commencement: [Reg. 46](https://www.legislation.gov.uk/nisr/2016/427/regulation/46) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

@@ -53,17 +53,17 @@ An Act to extend the power of the Secretary of State to prescribe fares in respe
 
 ## 3. Relaxation of restrictions on the parking of cabs.
 
-(1)[^key-891a9d40a1fb17e1a8ff274cd672f820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-891a9d40a1fb17e1a8ff274cd672f820] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) In section 35 of the said Act of 1831 (under which a cab found standing in any street or place is, in certain circumstances, deemed to be plying for hire) the reference to a street or place shall not include a reference to any parking place for the time being designated by an order in force under the [^c6880281]Road Traffic Regulation Act 1984[^c6880291] or to any part of a road the use of which as a parking place is for the time being authorised by an order in force under that Act.
 
-(3)[^c6880301] Notwithstanding anything in any enactment whereby the said section 35 has effect in relation to premises of the British Railways Board or Transport for London or any of its subsidiaries (within the meaning of the Greater London Authority Act 1999) the reference[^key-bdb19dc4a1f99bc929774877f848ccfb] in that section to a street or place shall not include a reference to any part of those premises which is set aside by the body concerned[^key-1ce2e3f923274a49a51e7bf0df3597b9] as a parking place for vehicles.
+(3)[^c6880301] Notwithstanding anything in any enactment whereby the said section 35 has effect in relation to premises of the British Railways Board or Transport for London or any of its subsidiaries (within the meaning of the Greater London Authority Act 1999) the reference[^c-bdb19dc4a1f99bc929774877f848ccfb] in that section to a street or place shall not include a reference to any part of those premises which is set aside by the body concerned[^c-1ce2e3f923274a49a51e7bf0df3597b9] as a parking place for vehicles.
 
-## 4. Prohibition of the display of certain signs or notices on, and the issue of certain advertisements in connection with, private hire-cars.[^key-66253049f8025cf3c5fbbc6f4078730a]
+## 4. Prohibition of the display of certain signs or notices on, and the issue of certain advertisements in connection with, private hire-cars.[^c-66253049f8025cf3c5fbbc6f4078730a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4A.[^key-0ec125f8ba646a0bb0b4d93c4a77be2d]
+## 4A.[^c-0ec125f8ba646a0bb0b4d93c4a77be2d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -77,7 +77,7 @@ An Act to extend the power of the Secretary of State to prescribe fares in respe
 
 (1) This Act may be cited as the London Cab Act 1968.
 
-(2)[^key-d61768bd05debfd66201fd43fad4795f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-d61768bd05debfd66201fd43fad4795f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -109,7 +109,7 @@ An Act to extend the power of the Secretary of State to prescribe fares in respe
 
 [^c6880211]: Textual amendment: Words in [s. 2(3)](https://www.legislation.gov.uk/ukpga/1968/7/section/2/3) repealed (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 253](https://www.legislation.gov.uk/ukpga/1999/29/section/253), [Sch. 20 Pt. I para. 7(4)(c)(iii)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/20/part/I/paragraph/7/4/c/iii), [Sch. 34 Pt. V](https://www.legislation.gov.uk/ukpga/1999/29/schedule/34/part/V) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-891a9d40a1fb17e1a8ff274cd672f820]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/ukpga/1968/7/section/3/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-891a9d40a1fb17e1a8ff274cd672f820]: Textual amendment: [S. 3(1)](https://www.legislation.gov.uk/ukpga/1968/7/section/3/1) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c6880281]: Marginal citation: [1984 c. 27](https://www.legislation.gov.uk/ukpga/1984/27).
 
@@ -117,14 +117,14 @@ An Act to extend the power of the Secretary of State to prescribe fares in respe
 
 [^c6880301]: Modification: S. 3(3) amended by [London Regional Transport Act 1984 (c. 32, SIF 126)](https://www.legislation.gov.uk/ukpga/1984/32), [s. 67(2)](https://www.legislation.gov.uk/ukpga/1984/32/section/67/2), [Sch. 4 Pt. I para. 1(1)(2)](https://www.legislation.gov.uk/ukpga/1984/32/schedule/4/part/I/paragraph/1/1/2)(*d*)
 
-[^key-bdb19dc4a1f99bc929774877f848ccfb]: Textual amendment: Words in s. 3(3) substituted (E.W.S.) (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/3/1)[(2)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/3/2)
+[^c-bdb19dc4a1f99bc929774877f848ccfb]: Textual amendment: Words in s. 3(3) substituted (E.W.S.) (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/3/1)[(2)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/3/2)
 
-[^key-1ce2e3f923274a49a51e7bf0df3597b9]: Textual amendment: Words in s. 3(3) substituted (E.W.S.) (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/3/1)[(3)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/3/3)
+[^c-1ce2e3f923274a49a51e7bf0df3597b9]: Textual amendment: Words in s. 3(3) substituted (E.W.S.) (15.7.2003) by [The Transport for London (Consequential Provisions) Order 2003 (S.I. 2003/1615)](https://www.legislation.gov.uk/uksi/2003/1615), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/1615/article/1/1), [Sch. 1 para. 3(1)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/3/1)[(3)](https://www.legislation.gov.uk/uksi/2003/1615/schedule/1/paragraph/3/3)
 
-[^key-66253049f8025cf3c5fbbc6f4078730a]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1968/7/section/4) repealed (1.6.2003) by [Private Hire Vehicles (London) Act 1998 (c. 34)](https://www.legislation.gov.uk/ukpga/1998/34), [s. 40(2)](https://www.legislation.gov.uk/ukpga/1998/34/section/40/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/34/schedule/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/1998/34/section/29)); [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2003/580/article/2/2/b)
+[^c-66253049f8025cf3c5fbbc6f4078730a]: Textual amendment: [S. 4](https://www.legislation.gov.uk/ukpga/1968/7/section/4) repealed (1.6.2003) by [Private Hire Vehicles (London) Act 1998 (c. 34)](https://www.legislation.gov.uk/ukpga/1998/34), [s. 40(2)](https://www.legislation.gov.uk/ukpga/1998/34/section/40/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/34/schedule/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/1998/34/section/29)); [S.I. 2003/580](https://www.legislation.gov.uk/uksi/2003/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2003/580/article/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2003/580/article/2/2/b)
 
-[^key-0ec125f8ba646a0bb0b4d93c4a77be2d]: Textual amendment: S. 4A repealed (8.6.2004) by [Private Hire Vehicles (London) Act 1998 (c. 34)](https://www.legislation.gov.uk/ukpga/1998/34), [s. 40(2)](https://www.legislation.gov.uk/ukpga/1998/34/section/40/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/34/schedule/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/1998/34/section/29)); [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+[^c-0ec125f8ba646a0bb0b4d93c4a77be2d]: Textual amendment: S. 4A repealed (8.6.2004) by [Private Hire Vehicles (London) Act 1998 (c. 34)](https://www.legislation.gov.uk/ukpga/1998/34), [s. 40(2)](https://www.legislation.gov.uk/ukpga/1998/34/section/40/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/1998/34/schedule/2) (with [s. 29](https://www.legislation.gov.uk/ukpga/1998/34/section/29)); [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
 
 [^c6880841]: Textual amendment: [S. 4B](https://www.legislation.gov.uk/ukpga/1968/7/section/4B) inserted (3.7.2000) by [1999 c. 29](https://www.legislation.gov.uk/ukpga/1999/29), [s. 253](https://www.legislation.gov.uk/ukpga/1999/29/section/253), [Sch. 20 Pt. I para. 7(6)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/20/part/I/paragraph/7/6) (with [Sch. 12 para. 9(1)](https://www.legislation.gov.uk/ukpga/1999/29/schedule/12/paragraph/9/1)); [S.I. 2000/801](https://www.legislation.gov.uk/uksi/2000/801), [art. 2(2)(c)](https://www.legislation.gov.uk/uksi/2000/801/article/2/2/c), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2000/801/schedule/part/3)
 
-[^key-d61768bd05debfd66201fd43fad4795f]: Textual amendment: [S. 5(2)](https://www.legislation.gov.uk/ukpga/1968/7/section/5/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-d61768bd05debfd66201fd43fad4795f]: Textual amendment: [S. 5(2)](https://www.legislation.gov.uk/ukpga/1968/7/section/5/2) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)

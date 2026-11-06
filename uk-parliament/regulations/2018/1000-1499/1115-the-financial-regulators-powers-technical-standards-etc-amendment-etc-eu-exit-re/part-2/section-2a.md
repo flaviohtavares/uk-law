@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. References to EU Regulations[^key-049cbd6569bb0178318ed16b00d4da76]
+## 2A. References to EU Regulations[^c-049cbd6569bb0178318ed16b00d4da76]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In these Regulations, references to EU Regulations are to those EU Regulations a
 
 ## Annotations
 
-[^key-049cbd6569bb0178318ed16b00d4da76]: Textual amendment: Reg. 2A inserted (30.6.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/628/regulation/5/2)
+[^c-049cbd6569bb0178318ed16b00d4da76]: Textual amendment: Reg. 2A inserted (30.6.2020) by [The Financial Services (Miscellaneous Amendments) (EU Exit) Regulations 2020 (S.I. 2020/628)](https://www.legislation.gov.uk/uksi/2020/628), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/628/regulation/1/2), [5(2)](https://www.legislation.gov.uk/uksi/2020/628/regulation/5/2)

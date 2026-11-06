@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 147. National security exemption from identity verification[^key-a2afa24f9345ff8df744f46fb577068a][^key-f26d50b118a09e025c65138f86b6296d]
+## 147. National security exemption from identity verification[^c-a2afa24f9345ff8df744f46fb577068a][^c-f26d50b118a09e025c65138f86b6296d]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ After section 35 of the Limited Partnerships Act 1907 (inserted by section 146 o
 
 ## Annotations
 
-[^key-a2afa24f9345ff8df744f46fb577068a]: Commencement: S. 147 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-a2afa24f9345ff8df744f46fb577068a]: Commencement: S. 147 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-f26d50b118a09e025c65138f86b6296d]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2023/56/section/147) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/e)
+[^c-f26d50b118a09e025c65138f86b6296d]: Commencement: [S. 147](https://www.legislation.gov.uk/ukpga/2023/56/section/147) in force at 15.1.2024 in so far as not already in force by [S.I. 2023/1206](https://www.legislation.gov.uk/uksi/2023/1206), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1206/regulation/3/e)

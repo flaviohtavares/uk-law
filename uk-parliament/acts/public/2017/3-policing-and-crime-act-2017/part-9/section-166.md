@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Power to provide for disregards and pardons for additional abolished offences: England and Wales[^key-ded32b9f01cbd511717cabb7764ece70]
+## 166. Power to provide for disregards and pardons for additional abolished offences: England and Wales[^c-ded32b9f01cbd511717cabb7764ece70]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ded32b9f01cbd511717cabb7764ece70]: Textual amendment: [S. 166](https://www.legislation.gov.uk/ukpga/2017/3/section/166) omitted (13.6.2023) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 195(12)](https://www.legislation.gov.uk/ukpga/2022/32/section/195/12), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 195(14)](https://www.legislation.gov.uk/ukpga/2022/32/section/195/14)); [S.I. 2023/641](https://www.legislation.gov.uk/uksi/2023/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/641/regulation/2/b)
+[^c-ded32b9f01cbd511717cabb7764ece70]: Textual amendment: [S. 166](https://www.legislation.gov.uk/ukpga/2017/3/section/166) omitted (13.6.2023) by virtue of [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 195(12)](https://www.legislation.gov.uk/ukpga/2022/32/section/195/12), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1) (with [s. 195(14)](https://www.legislation.gov.uk/ukpga/2022/32/section/195/14)); [S.I. 2023/641](https://www.legislation.gov.uk/uksi/2023/641), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2023/641/regulation/2/b)

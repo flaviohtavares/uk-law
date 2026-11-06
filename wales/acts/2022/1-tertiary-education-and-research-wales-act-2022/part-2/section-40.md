@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Supplementary provision about directions under section 39[^key-4d2e16c4aa3c2647c845a64649904dd9][^key-26b21f16c6f37aa53c21864ebad5cd11]
+## 40. Supplementary provision about directions under section 39[^c-4d2e16c4aa3c2647c845a64649904dd9][^c-26b21f16c6f37aa53c21864ebad5cd11]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4d2e16c4aa3c2647c845a64649904dd9]: Commencement: S. 40 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-4d2e16c4aa3c2647c845a64649904dd9]: Commencement: S. 40 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-26b21f16c6f37aa53c21864ebad5cd11]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2022/1/section/40) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(m)](https://www.legislation.gov.uk/wsi/2025/432/article/2/m)
+[^c-26b21f16c6f37aa53c21864ebad5cd11]: Commencement: [S. 40](https://www.legislation.gov.uk/asc/2022/1/section/40) in force at 5.4.2025 by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(m)](https://www.legislation.gov.uk/wsi/2025/432/article/2/m)

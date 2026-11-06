@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Competition scrutiny of functions and agreements relating to buses[^c2199641][^key-82140cd2da16de89c6e3e6118ca4cb6b][^key-b328bca383ef346d4c76d5e1f60eed5b]
+## 46. Competition scrutiny of functions and agreements relating to buses[^c2199641][^c-82140cd2da16de89c6e3e6118ca4cb6b][^c-b328bca383ef346d4c76d5e1f60eed5b]
 
 *Extent: E+W*
 
@@ -62,6 +62,6 @@ summary: ''
 
 [^c2199641]: Commencement: S. 46 partly in force; s. 46(3) in force at Royal Assent for specified purposes, see s. 134(1)(c)
 
-[^key-82140cd2da16de89c6e3e6118ca4cb6b]: Commencement: S. 46 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
+[^c-82140cd2da16de89c6e3e6118ca4cb6b]: Commencement: S. 46 in force at 9.2.2009 for E. by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(2)](https://www.legislation.gov.uk/uksi/2009/107/article/2/2), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/2/part/1)
 
-[^key-b328bca383ef346d4c76d5e1f60eed5b]: Commencement: S. 46 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/579/article/2/d)
+[^c-b328bca383ef346d4c76d5e1f60eed5b]: Commencement: S. 46 in force at 1.4.2009 for W. by [S.I. 2009/579](https://www.legislation.gov.uk/uksi/2009/579), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/579/article/2/d)

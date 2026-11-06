@@ -58,7 +58,7 @@ The Secretary of State for Social Security, in exercise of the powers conferred 
 
 - “the 1985 Act" means the Family Law (Scotland) Act 1985;
 - “the 1999 Act" means the Welfare Reform and Pensions Act 1999;
-- “the other person” means the other person to a marriage or civil partnership.[^key-49a3492ab4ec502e3d9cc6d5a9af14fb]
+- “the other person” means the other person to a marriage or civil partnership.[^c-49a3492ab4ec502e3d9cc6d5a9af14fb]
 - “pension arrangement" has the meaning given by section 46(1) of the 1999 Act,
 
 and any expression used in these Regulations to which a meaning is assigned in section 12A of the 1985 Act shall have the same meaning in these Regulations as in that section.
@@ -70,7 +70,7 @@ and any expression used in these Regulations to which a meaning is assigned in s
 (2) Where this regulation applies, the person responsible for the first pension arrangement shall, within 21 days after the date of the transfer, give notice in accordance with the following paragraphs of this regulation to:—
 
 - (a) the person responsible for the new pension arrangement; and
-- (b) the other person.[^key-c3010599539bcadc2280a8df325faae3]
+- (b) the other person.[^c-c3010599539bcadc2280a8df325faae3]
 
 (3) The notice to the person responsible for the new pension arrangement shall consist of a copy of the following documents:—
 
@@ -91,7 +91,7 @@ and any expression used in these Regulations to which a meaning is assigned in s
 (1) This regulation applies where—
 
 - (a) section 12A(6) of the 1985 Act has already applied; and
-- (b) the liable person[^key-5b23de5b41328326c084ecd9c8e03b09] has transferred all his accrued rights for the second or any subsequent time to another new pension arrangement.
+- (b) the liable person[^c-5b23de5b41328326c084ecd9c8e03b09] has transferred all his accrued rights for the second or any subsequent time to another new pension arrangement.
 
 (2) Where this regulation applies, the person responsible for the pension arrangement from which the transfer is made to the other new pension arrangement shall, within 21 days after the date of the transfer, give notice to the other person of—
 
@@ -105,7 +105,7 @@ and any expression used in these Regulations to which a meaning is assigned in s
 (1) This regulation applies where—
 
 - (a) an order under section 12A(2) or (3) of the 1985 Act has been made imposing any requirement on the person responsible for the pension arrangement; and
-- (b) some but not all of the accrued rights of the liable person[^key-ab1548bc799344040a01a3a324136887] have been transferred from the pension arrangement.
+- (b) some but not all of the accrued rights of the liable person[^c-ab1548bc799344040a01a3a324136887] have been transferred from the pension arrangement.
 
 (2) Where this regulation applies, the person responsible for the pension arrangement from which the transfer is made shall, within 21 days after the date of the transfer, give notice to the other person of—
 
@@ -119,7 +119,7 @@ and any expression used in these Regulations to which a meaning is assigned in s
 (1) This regulation applies where—
 
 - (a) an order under section 12A(2) or (3) of the 1985 Act has been made imposing any requirements on the person responsible for the pension arrangement; and
-- (b) there has been a change in the name or address of the other person[^key-5defa50e193245fb2988faadfdf5616a].
+- (b) there has been a change in the name or address of the other person[^c-5defa50e193245fb2988faadfdf5616a].
 
 (2) Where this regulation applies, the other person shall, within 21 days of the occurrence of the change mentioned in paragraph (1)(b) of this regulation, give notice of that change to the person responsible for the pension arrangement.
 
@@ -129,7 +129,7 @@ and any expression used in these Regulations to which a meaning is assigned in s
 
 - (a) a transfer of accrued rights has taken place in the circumstances set out in section 12A(6)(a) of the 1985 Act;
 - (b) notice has been given in accordance with regulation 2(2)(a) and (b) of these Regulations; and
-- (c) there has been a change in the name or address of the other person[^key-6a1c83b5e884b14094d8debc98da795f] but the other person has not, before receiving notice under regulation 2(2)(b), given notice of that change to the person responsible for the first pension arrangement under regulation 5(2) of these Regulations.
+- (c) there has been a change in the name or address of the other person[^c-6a1c83b5e884b14094d8debc98da795f] but the other person has not, before receiving notice under regulation 2(2)(b), given notice of that change to the person responsible for the first pension arrangement under regulation 5(2) of these Regulations.
 
 (2) Where this regulation applies, the reference in regulation 5(2) to the person responsible for the pension arrangement shall be construed as a reference to the person responsible for the new pension arrangement and not the person responsible for the first pension arrangement.
 
@@ -181,19 +181,19 @@ The assessment of the cost to business of the provisions of the Welfare Reform a
 
 [^c1601140]: Marginal citation: [1985 c. 37](https://www.legislation.gov.uk/ukpga/1985/37). Sections 10(8) and (10) and 12A(8) were inserted by section 167(2)(b) and (3) of the Pensions Act [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). Section 10(10) contains a definition of “prescribed" relevant to the exercise of the statutory powers under which these Regulations are made.
 
-[^key-49a3492ab4ec502e3d9cc6d5a9af14fb]: Textual amendment: Words in reg. 1(3) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/2)
+[^c-49a3492ab4ec502e3d9cc6d5a9af14fb]: Textual amendment: Words in reg. 1(3) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/2)
 
 [^c1601141]: Marginal citation: Section 12A was amended by paragraph 9 of Schedule 12 to the Welfare Reform and Pensions Act 1999.
 
-[^key-c3010599539bcadc2280a8df325faae3]: Textual amendment: Word in [regs. 2(2)-(4)](https://www.legislation.gov.uk/uksi/2000/1050/regulation/2/2) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
+[^c-c3010599539bcadc2280a8df325faae3]: Textual amendment: Word in [regs. 2(2)-(4)](https://www.legislation.gov.uk/uksi/2000/1050/regulation/2/2) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
 
-[^key-5b23de5b41328326c084ecd9c8e03b09]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2000/1050/regulation/3) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
+[^c-5b23de5b41328326c084ecd9c8e03b09]: Textual amendment: Word in [reg. 3](https://www.legislation.gov.uk/uksi/2000/1050/regulation/3) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
 
-[^key-ab1548bc799344040a01a3a324136887]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2000/1050/regulation/4) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
+[^c-ab1548bc799344040a01a3a324136887]: Textual amendment: Word in [reg. 4](https://www.legislation.gov.uk/uksi/2000/1050/regulation/4) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
 
-[^key-5defa50e193245fb2988faadfdf5616a]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2000/1050/regulation/5) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
+[^c-5defa50e193245fb2988faadfdf5616a]: Textual amendment: Word in [reg. 5](https://www.legislation.gov.uk/uksi/2000/1050/regulation/5) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
 
-[^key-6a1c83b5e884b14094d8debc98da795f]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2000/1050/regulation/6) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
+[^c-6a1c83b5e884b14094d8debc98da795f]: Textual amendment: Word in [reg. 6](https://www.legislation.gov.uk/uksi/2000/1050/regulation/6) substituted (6.4.2007) by [Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations 2007 (S.I. 2007/814)](https://www.legislation.gov.uk/uksi/2007/814), [regs. 1](https://www.legislation.gov.uk/uksi/2007/814/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2007/814/regulation/9/3)
 
 [^c1601142]: Marginal citation: [S.I. 1996/1901](https://www.legislation.gov.uk/uksi/1996/1901). Regulations 2, 4, 5, 8 and 9 were amended, and regulation 8A was inserted, by [S.I. 1997/745](https://www.legislation.gov.uk/uksi/1997/745).
 

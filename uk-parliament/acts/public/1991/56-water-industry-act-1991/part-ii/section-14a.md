@@ -22,7 +22,7 @@ summary: ''
 
 (1) Every reference under section 14 above shall specify a period (not longer than six months beginning with the date of the reference) within which a report on the reference is to be made.
 
-(2) A report of the CMA[^key-07c47f205629fab2c13765afb51fe58c] on a reference under section 14 above shall not have effect (and no action shall be taken in relation to it under section 16 below) unless the report is made before the end of the period specified in the reference or such further period (if any) as may be allowed by The Authority under subsection (3) below.
+(2) A report of the CMA[^c-07c47f205629fab2c13765afb51fe58c] on a reference under section 14 above shall not have effect (and no action shall be taken in relation to it under section 16 below) unless the report is made before the end of the period specified in the reference or such further period (if any) as may be allowed by The Authority under subsection (3) below.
 
 (3) The Authority may, if it has received representations on the subject from the CMA and is satisfied that there are special reasons why the report cannot be made within the period specified in the reference, extend that period by no more than six months.
 
@@ -39,4 +39,4 @@ summary: ''
 
 [^M_F_941a0666-14b3-4384-e969-9d95b05ca6d7]: Textual amendment: Words in Act substituted (1.4.2006) by virtue of [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [ss. 36(2)](https://www.legislation.gov.uk/ukpga/2003/37/section/36/2), [105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3); [S.I. 2005/2714](https://www.legislation.gov.uk/uksi/2005/2714), [art. 4(c)](https://www.legislation.gov.uk/uksi/2005/2714/article/4/c)
 
-[^key-07c47f205629fab2c13765afb51fe58c]: Textual amendment: Words in s. 14A(2)(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 55](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/55); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-07c47f205629fab2c13765afb51fe58c]: Textual amendment: Words in s. 14A(2)(3) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 55](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/55); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

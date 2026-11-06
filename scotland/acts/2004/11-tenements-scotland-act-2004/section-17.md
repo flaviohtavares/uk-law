@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Access for maintenance and other purposes[^key-9b14bb57683c0e1113190910a4ebf6c0][^key-932d1dca93efaba0e7d244ffb02fabce]
+## 17. Access for maintenance and other purposes[^c-9b14bb57683c0e1113190910a4ebf6c0][^c-932d1dca93efaba0e7d244ffb02fabce]
 
 *Extent: S*
 
@@ -60,6 +60,6 @@ if, having regard to all the circumstances (and, in particular, whether the requ
 
 ## Annotations
 
-[^key-9b14bb57683c0e1113190910a4ebf6c0]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2004/11/section/17) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-9b14bb57683c0e1113190910a4ebf6c0]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2004/11/section/17) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
 
-[^key-932d1dca93efaba0e7d244ffb02fabce]: Modification: [S. 17](https://www.legislation.gov.uk/asp/2004/11/section/17) applied (13.7.2018) by [The Tenements (Scotland) Act 2004 (Heating Services) Regulations 2018 (S.S.I. 2018/163)](https://www.legislation.gov.uk/ssi/2018/163), [regs. 1](https://www.legislation.gov.uk/ssi/2018/163/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2018/163/regulation/9/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/163/regulation/7))
+[^c-932d1dca93efaba0e7d244ffb02fabce]: Modification: [S. 17](https://www.legislation.gov.uk/asp/2004/11/section/17) applied (13.7.2018) by [The Tenements (Scotland) Act 2004 (Heating Services) Regulations 2018 (S.S.I. 2018/163)](https://www.legislation.gov.uk/ssi/2018/163), [regs. 1](https://www.legislation.gov.uk/ssi/2018/163/regulation/1), [9(2)](https://www.legislation.gov.uk/ssi/2018/163/regulation/9/2) (with [reg. 7](https://www.legislation.gov.uk/ssi/2018/163/regulation/7))

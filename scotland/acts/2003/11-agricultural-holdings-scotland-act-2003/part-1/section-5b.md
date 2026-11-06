@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5B. Modern limited duration tenancies: break clauses[^key-7b4a80d4d09ebec2dd21a1459d9116b0]
+## 5B. Modern limited duration tenancies: break clauses[^c-7b4a80d4d09ebec2dd21a1459d9116b0]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7b4a80d4d09ebec2dd21a1459d9116b0]: Textual amendment: [Ss. 5A](https://www.legislation.gov.uk/asp/2003/11/section/5A), [5B](https://www.legislation.gov.uk/asp/2003/11/section/5B) inserted (23.12.2016 for specified purposes, 30.11.2017 in so far as not already in force) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 85(3)](https://www.legislation.gov.uk/asp/2016/18/section/85/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/299/regulation/5))
+[^c-7b4a80d4d09ebec2dd21a1459d9116b0]: Textual amendment: [Ss. 5A](https://www.legislation.gov.uk/asp/2003/11/section/5A), [5B](https://www.legislation.gov.uk/asp/2003/11/section/5B) inserted (23.12.2016 for specified purposes, 30.11.2017 in so far as not already in force) by [Land Reform (Scotland) Act 2016 (asp 18)](https://www.legislation.gov.uk/asp/2016/18), [ss. 85(3)](https://www.legislation.gov.uk/asp/2016/18/section/85/3), [130(1)](https://www.legislation.gov.uk/asp/2016/18/section/130/1) (with [s. 128](https://www.legislation.gov.uk/asp/2016/18/section/128)); [S.S.I. 2016/365](https://www.legislation.gov.uk/ssi/2016/365), [reg. 2](https://www.legislation.gov.uk/ssi/2016/365/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/365/schedule); [S.S.I. 2017/299](https://www.legislation.gov.uk/ssi/2017/299), [reg. 2](https://www.legislation.gov.uk/ssi/2017/299/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2017/299/schedule) (with [reg. 5](https://www.legislation.gov.uk/ssi/2017/299/regulation/5))

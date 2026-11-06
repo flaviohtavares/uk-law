@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Failure to supply required information[^key-9cf0bbe101c9540f1cac2d67364340b2]
+## 16. Failure to supply required information[^c-9cf0bbe101c9540f1cac2d67364340b2]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cf0bbe101c9540f1cac2d67364340b2]: Commencement: S. 16 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-9cf0bbe101c9540f1cac2d67364340b2]: Commencement: S. 16 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

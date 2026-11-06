@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 84B. Code of practice on investigations[^key-a09c869c1b4facae8bd49443b4c34584][^key-91fd44fba641a2396bf122edc3d405b9][^M_F_3a7e98fb-195a-4436-83d5-179e485765be]
+## 84B. Code of practice on investigations[^c-a09c869c1b4facae8bd49443b4c34584][^c-91fd44fba641a2396bf122edc3d405b9][^M_F_3a7e98fb-195a-4436-83d5-179e485765be]
 
 *Extent: S*
 
@@ -39,9 +39,9 @@ summary: ''
 
 ## Annotations
 
-[^key-a09c869c1b4facae8bd49443b4c34584]: Commencement: S. 76 (now renumbered as s. 84B) in force at 3.9.2018 for specified purposes by [S.S.I. 2018/250](https://www.legislation.gov.uk/ssi/2018/250), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/250/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/250/regulation/3))
+[^c-a09c869c1b4facae8bd49443b4c34584]: Commencement: S. 76 (now renumbered as s. 84B) in force at 3.9.2018 for specified purposes by [S.S.I. 2018/250](https://www.legislation.gov.uk/ssi/2018/250), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/250/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/250/regulation/3))
 
-[^key-91fd44fba641a2396bf122edc3d405b9]: Commencement: S. 76 (now renumbered as s. 84B) in force at 22.10.2018 in so far as not already in force by [S.S.I. 2018/298](https://www.legislation.gov.uk/ssi/2018/298), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/250/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/250/regulation/3)) (as amended (10.12.2019) by [S.S.I. 2019/406](https://www.legislation.gov.uk/ssi/2019/406), [regs. 1](https://www.legislation.gov.uk/ssi/2019/406/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/406/regulation/2/2))
+[^c-91fd44fba641a2396bf122edc3d405b9]: Commencement: S. 76 (now renumbered as s. 84B) in force at 22.10.2018 in so far as not already in force by [S.S.I. 2018/298](https://www.legislation.gov.uk/ssi/2018/298), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/250/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/ssi/2018/250/regulation/3)) (as amended (10.12.2019) by [S.S.I. 2019/406](https://www.legislation.gov.uk/ssi/2019/406), [regs. 1](https://www.legislation.gov.uk/ssi/2019/406/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/406/regulation/2/2))
 
 [^M_F_3a7e98fb-195a-4436-83d5-179e485765be]: Textual amendment: S. 84B: s. 76 renumbered as s. 84B (11.11.2020) by [Social Security Administration and Tribunal Membership (Scotland) Act 2020 (asp 18)](https://www.legislation.gov.uk/asp/2020/18), [ss. 5(5)](https://www.legislation.gov.uk/ssi/2018/250/section/5/5), [18(1)](https://www.legislation.gov.uk/ssi/2018/250/section/18/1) (with [s. 6](https://www.legislation.gov.uk/ssi/2018/250/section/6))
 

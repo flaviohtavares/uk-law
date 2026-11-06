@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.202. Expenses of getting in property for the estate[^key-dda3738fa57102c8bc9e5a923279232f]
+## 6.202. Expenses of getting in property for the estate[^c-dda3738fa57102c8bc9e5a923279232f]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any expenses incurred by the trustee in acquiring title to after-acquired proper
 
 ## Annotations
 
-[^key-dda3738fa57102c8bc9e5a923279232f]: Commencement: [Rule 6.202](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.202) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-dda3738fa57102c8bc9e5a923279232f]: Commencement: [Rule 6.202](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.202) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

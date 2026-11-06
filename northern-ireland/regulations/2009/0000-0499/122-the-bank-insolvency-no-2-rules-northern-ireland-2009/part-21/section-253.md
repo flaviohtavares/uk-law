@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 253. Secured creditors[^key-264604df6b08c68668994b54bb37e507]
+## 253. Secured creditors[^c-264604df6b08c68668994b54bb37e507]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 11.09 of the 1991 Rules.
 
 ## Annotations
 
-[^key-264604df6b08c68668994b54bb37e507]: Commencement: Rule 253 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-264604df6b08c68668994b54bb37e507]: Commencement: Rule 253 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

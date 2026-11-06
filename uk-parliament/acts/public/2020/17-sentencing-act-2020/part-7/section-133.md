@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 133. Compensation order[^key-7be3f460dc1c562e4731af5a4c1625fd]
+## 133. Compensation order[^c-7be3f460dc1c562e4731af5a4c1625fd]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ In this Code “**compensation order**” means an order under this Chapter made
 
 ## Annotations
 
-[^key-7be3f460dc1c562e4731af5a4c1625fd]: Commencement: S. 133 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-7be3f460dc1c562e4731af5a4c1625fd]: Commencement: S. 133 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

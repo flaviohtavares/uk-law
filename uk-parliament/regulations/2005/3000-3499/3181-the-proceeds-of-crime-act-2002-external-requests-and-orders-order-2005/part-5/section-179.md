@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 179. Recording of recovery order (Scotland)[^key-969e4c23bb4d44f361c53a454c4ba41e]
+## 179. Recording of recovery order (Scotland)[^c-969e4c23bb4d44f361c53a454c4ba41e]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-969e4c23bb4d44f361c53a454c4ba41e]: Commencement: [Art. 179](https://www.legislation.gov.uk/uksi/2005/3181/article/179) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-969e4c23bb4d44f361c53a454c4ba41e]: Commencement: [Art. 179](https://www.legislation.gov.uk/uksi/2005/3181/article/179) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Transfer and apportionment of licences[^key-1aa7173bd7a51a7d7ccdf210ff20010d]
+## 23. Transfer and apportionment of licences[^c-1aa7173bd7a51a7d7ccdf210ff20010d]
 
 *Extent: E+W*
 
@@ -169,4 +169,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1aa7173bd7a51a7d7ccdf210ff20010d]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2003/37/section/23) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(m)](https://www.legislation.gov.uk/uksi/2006/984/article/2/m) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/3))
+[^c-1aa7173bd7a51a7d7ccdf210ff20010d]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2003/37/section/23) in force at 1.4.2006 by [S.I. 2006/984](https://www.legislation.gov.uk/uksi/2006/984), [art. 2(m)](https://www.legislation.gov.uk/uksi/2006/984/article/2/m) (with [Sch. para. 3](https://www.legislation.gov.uk/uksi/2006/984/schedule/paragraph/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Terms and conditions regarded as unreasonable in relation to proposed MRO tenancy etc[^key-9b92d0fcd2f40ae2b35f35df8a86072f]
+## 31. Terms and conditions regarded as unreasonable in relation to proposed MRO tenancy etc[^c-9b92d0fcd2f40ae2b35f35df8a86072f]
 
 *Extent: E+W*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) a tied pub tenant is subject to a tenancy (“the existing tenancy”) granted by the pub-owning business;
 - (b) the tied pub tenant gives an MRO notice to the pub-owning business; and
-- (c) the pub-owning business sends a proposed tenancy (“the proposed MRO tenancy”) to the tied pub tenant as part of a response under the relevant provisions[^key-301d58961b6a27fea132cf2ea4362b15].
+- (c) the pub-owning business sends a proposed tenancy (“the proposed MRO tenancy”) to the tied pub tenant as part of a response under the relevant provisions[^c-301d58961b6a27fea132cf2ea4362b15].
 
 (2) The terms and conditions of the proposed MRO tenancy, taken together with any other contractual agreement entered into by the tied pub tenant with the pub-owning business in connection with the tenancy, are to be regarded as unreasonable for the purposes of section 43(4) of SBEEA 2015 if they—
 
@@ -43,14 +43,14 @@ summary: ''
 
 - (a) a tied pub tenant is subject to a licence granted by the pub-owning business;
 - (b) the tied pub tenant gives an MRO notice to the pub-owning business; and
-- (c) the pub-owning business sends a proposed licence (“the proposed MRO licence”) to the tied pub tenant as part of a response under the relevant provisions[^key-0306895ab003df47f6e8169665fbaedc].
+- (c) the pub-owning business sends a proposed licence (“the proposed MRO licence”) to the tied pub tenant as part of a response under the relevant provisions[^c-0306895ab003df47f6e8169665fbaedc].
 
 (6) The terms and conditions of the proposed MRO licence, taken together with any other contractual agreement entered into by the tied pub tenant with the pub-owning business in connection with the licence, are to be regarded as unreasonable for the purposes of section 43(4) of SBEEA 2015 if they impose a service tie in respect of insurance other than buildings insurance in connection with the premises to which the licence relates.
 
 ## Annotations
 
-[^key-9b92d0fcd2f40ae2b35f35df8a86072f]: Commencement: Reg. 31 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
+[^c-9b92d0fcd2f40ae2b35f35df8a86072f]: Commencement: Reg. 31 in force at 21.7.2016, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/2016/790/regulation/1/b)
 
-[^key-301d58961b6a27fea132cf2ea4362b15]: Textual amendment: Words in [reg. 31(1)(c)](https://www.legislation.gov.uk/uksi/2016/790/regulation/31/1/c) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/7) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-301d58961b6a27fea132cf2ea4362b15]: Textual amendment: Words in [reg. 31(1)(c)](https://www.legislation.gov.uk/uksi/2016/790/regulation/31/1/c) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/7) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
 
-[^key-0306895ab003df47f6e8169665fbaedc]: Textual amendment: Words in [reg. 31(5)(c)](https://www.legislation.gov.uk/uksi/2016/790/regulation/31/5/c) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/7) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))
+[^c-0306895ab003df47f6e8169665fbaedc]: Textual amendment: Words in [reg. 31(5)(c)](https://www.legislation.gov.uk/uksi/2016/790/regulation/31/5/c) substituted (1.4.2022) by [The Small Business, Enterprise and Employment Act 2015 and Pubs Code etc. (Amendment) Regulations 2022 (S.I. 2022/341)](https://www.legislation.gov.uk/uksi/2022/341), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2022/341/regulation/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2022/341/schedule/2/paragraph/7) (with [reg. 4](https://www.legislation.gov.uk/uksi/2022/341/regulation/4))

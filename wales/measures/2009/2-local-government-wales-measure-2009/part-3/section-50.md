@@ -36,7 +36,7 @@ summary: ''
 
 - (a) an order under section 7(1);
 - (b) an order under section 16(3);
-- (c)[^key-b8b9a842b54a9a33a22640eb08a20ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-b8b9a842b54a9a33a22640eb08a20ef1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (d) an order under section 51(4) which includes provision mentioned in subsection (5)(b)(i) of that section,
 
 must not be made unless a draft of the instrument has been laid before, and approved by a resolution of, the National Assembly for Wales.
@@ -52,4 +52,4 @@ is subject to annulment in pursuance of a resolution of the National Assembly fo
 
 ## Annotations
 
-[^key-b8b9a842b54a9a33a22640eb08a20ef1]: Textual amendment: [S. 50(5)(c)](https://www.legislation.gov.uk/mwa/2009/2/section/50/5/c) repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 22](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/22); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-b8b9a842b54a9a33a22640eb08a20ef1]: Textual amendment: [S. 50(5)(c)](https://www.legislation.gov.uk/mwa/2009/2/section/50/5/c) repealed (1.4.2016) by [Well-being of Future Generations (Wales) Act 2015 (anaw 2)](https://www.legislation.gov.uk/anaw/2015/2), [s. 56(2)](https://www.legislation.gov.uk/anaw/2015/2/section/56/2), [Sch. 4 para. 22](https://www.legislation.gov.uk/anaw/2015/2/schedule/4/paragraph/22); [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

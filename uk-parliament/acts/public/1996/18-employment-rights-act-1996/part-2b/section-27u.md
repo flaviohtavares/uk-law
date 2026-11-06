@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27U. No restitution claims by employer[^key-9db6907f4ff66a7f9b5ef5b39c3be608]
+## 27U. No restitution claims by employer[^c-9db6907f4ff66a7f9b5ef5b39c3be608]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9db6907f4ff66a7f9b5ef5b39c3be608]: Textual amendment: Ss. 27U-27Y and cross-heading inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 10](https://www.legislation.gov.uk/ukpga/2023/13/section/10), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/j)
+[^c-9db6907f4ff66a7f9b5ef5b39c3be608]: Textual amendment: Ss. 27U-27Y and cross-heading inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 10](https://www.legislation.gov.uk/ukpga/2023/13/section/10), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/c); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/j)

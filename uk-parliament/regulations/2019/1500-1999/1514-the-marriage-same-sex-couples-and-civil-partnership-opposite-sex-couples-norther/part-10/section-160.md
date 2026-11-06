@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 160. Nursing Homes Regulations (Northern Ireland) 2005[^key-f6e7d694163cfc71aa5418a716790fb6]
+## 160. Nursing Homes Regulations (Northern Ireland) 2005[^c-f6e7d694163cfc71aa5418a716790fb6]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ In regulation 2 of the Nursing Homes Regulations (Northern Ireland) 2005[^f00269
 
 ## Annotations
 
-[^key-f6e7d694163cfc71aa5418a716790fb6]: Commencement: Reg. 160 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-f6e7d694163cfc71aa5418a716790fb6]: Commencement: Reg. 160 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00269]: Footnote: [S.R. (N.I.) 2005/160](https://www.legislation.gov.uk/nisr/2005/160).

@@ -56,11 +56,11 @@ The Secretary of State is a Minister designated for the purposes of section 2(2)
 
 ## PART 1 — Introductory
 
-### 1. Citation[^key-32d4ee3f62d4c9507ef9afe82e6e3053]
+### 1. Citation[^c-32d4ee3f62d4c9507ef9afe82e6e3053]
 
 These Regulations may be cited as the Air Quality (Amendment of Domestic Regulations) (EU Exit) Regulations 2019.
 
-### 2. Commencement and extent[^key-b99d3138d9c204eeefbd555cd75344e4]
+### 2. Commencement and extent[^c-b99d3138d9c204eeefbd555cd75344e4]
 
 These Regulations come into force—
 
@@ -71,7 +71,7 @@ These Regulations come into force—
 
 ## PART 2 — Amendment of secondary legislation under the European Communities Act 1972
 
-### 3. Amendment of the Air Quality Standards Regulations 2010[^key-5a29f812f2261b6cbf68749c925d8763]
+### 3. Amendment of the Air Quality Standards Regulations 2010[^c-5a29f812f2261b6cbf68749c925d8763]
 
 (1) The Air Quality Standards Regulations 2010 [^c23520891] are amended as follows.
 
@@ -89,7 +89,7 @@ These Regulations come into force—
 
 ## PART 3 — Amendment of secondary legislation under the European Union (Withdrawal) Act 2018
 
-### 4. Amendment of the Air Quality Standards Regulations 2010[^key-41b7bbb8d3a6193c8dcfa0e3aaf46f56]
+### 4. Amendment of the Air Quality Standards Regulations 2010[^c-41b7bbb8d3a6193c8dcfa0e3aaf46f56]
 
 (1) The Air Quality Standards Regulations 2010 are amended as follows.
 
@@ -192,7 +192,7 @@ These Regulations come into force—
 
     .
 
-### 5. Amendment of the Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2012[^key-6514136ec99eae543435062f8c01a1c2][^key-6c6234f1e65cd092e923768b84d81c70]
+### 5. Amendment of the Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2012[^c-6514136ec99eae543435062f8c01a1c2][^c-6c6234f1e65cd092e923768b84d81c70]
 
 For regulation 3(2) of the Volatile Organic Compounds in Paints, Varnishes and Vehicle Refinishing Products Regulations 2012, substitute—
 
@@ -203,7 +203,7 @@ For regulation 3(2) of the Volatile Organic Compounds in Paints, Varnishes and V
 
 .
 
-### 6. Amendment of the National Emission Ceilings Regulations 2018[^key-507ecb856a82c8308054b54ee1efb384]
+### 6. Amendment of the National Emission Ceilings Regulations 2018[^c-507ecb856a82c8308054b54ee1efb384]
 
 After regulation 2(3) of the National Emission Ceilings Regulations 2018 [^c23520951] insert—
 
@@ -238,15 +238,15 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23520871]: Marginal citation: [S.I. 2008/301](https://www.legislation.gov.uk/uksi/2008/301).
 
-[^key-32d4ee3f62d4c9507ef9afe82e6e3053]: Commencement: Reg. 1 in force at 11.2.2019, see reg. 2(a)
+[^c-32d4ee3f62d4c9507ef9afe82e6e3053]: Commencement: Reg. 1 in force at 11.2.2019, see reg. 2(a)
 
-[^key-b99d3138d9c204eeefbd555cd75344e4]: Commencement: Reg. 2 in force at 11.2.2019, see reg. 2(a)
+[^c-b99d3138d9c204eeefbd555cd75344e4]: Commencement: Reg. 2 in force at 11.2.2019, see reg. 2(a)
 
-[^key-5a29f812f2261b6cbf68749c925d8763]: Commencement: Reg. 3 in force at 11.2.2019, see reg. 2(a)
+[^c-5a29f812f2261b6cbf68749c925d8763]: Commencement: Reg. 3 in force at 11.2.2019, see reg. 2(a)
 
 [^c23520891]: Marginal citation: [S.I. 2010/1001](https://www.legislation.gov.uk/uksi/2010/1001), to which there are amendments not relevant to these Regulations.
 
-[^key-41b7bbb8d3a6193c8dcfa0e3aaf46f56]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2/b)
+[^c-41b7bbb8d3a6193c8dcfa0e3aaf46f56]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2/b)
 
 [^c23520901]: Marginal citation: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), to which there are amendments not relevant to these Regulations.
 
@@ -256,10 +256,10 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^c23520931]: Marginal citation: [S.I. 2006/2238](https://www.legislation.gov.uk/uksi/2006/2238), relevant amending instrument [S.I. 2009/1610](https://www.legislation.gov.uk/uksi/2009/1610).
 
-[^key-6514136ec99eae543435062f8c01a1c2]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2/b)
+[^c-6514136ec99eae543435062f8c01a1c2]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2/b)
 
-[^key-6c6234f1e65cd092e923768b84d81c70]: Textual amendment: Reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Air Quality (Amendment) (Northern Ireland Protocol) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1352)](https://www.legislation.gov.uk/uksi/2020/1352), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1352/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/1352/regulation/3/2)
+[^c-6c6234f1e65cd092e923768b84d81c70]: Textual amendment: Reg. 5 substituted (31.12.2020 immediately before IP completion day) by [The Air Quality (Amendment) (Northern Ireland Protocol) (EU Exit) (No. 2) Regulations 2020 (S.I. 2020/1352)](https://www.legislation.gov.uk/uksi/2020/1352), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1352/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2020/1352/regulation/3/2)
 
-[^key-507ecb856a82c8308054b54ee1efb384]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2/b)
+[^c-507ecb856a82c8308054b54ee1efb384]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 2(b)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/2/b)
 
 [^c23520951]: Marginal citation: [S.I. 2018/129](https://www.legislation.gov.uk/uksi/2018/129).

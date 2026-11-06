@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 16. Classification of roads[^key-fca3f29d6b730dd14b3ee58502556639]
+## 16. Classification of roads[^c-fca3f29d6b730dd14b3ee58502556639]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ as if such classification had been made under sections 10(2) and 12(3) of the 19
 
 ## Annotations
 
-[^key-fca3f29d6b730dd14b3ee58502556639]: Commencement: Art. 16 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)
+[^c-fca3f29d6b730dd14b3ee58502556639]: Commencement: Art. 16 in force at 2.2.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/17/article/1)

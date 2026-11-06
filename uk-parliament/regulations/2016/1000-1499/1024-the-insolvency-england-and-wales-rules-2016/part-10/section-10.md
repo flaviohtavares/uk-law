@@ -64,7 +64,7 @@ the amount or rate of the charge must be separately identified, and the grounds 
 - (a) the demand must specify the nature of the security, and the value which the creditor puts upon it at the date of the demand; and
 - (b) the demand must claim payment of the full amount of the debt, less the specified value of the security.
 
-(10)[^key-d5d941cae0e88857e99112099959ff79] When the statutory demand is to be served out of the jurisdiction, the time limits of 18 days and 21 days referred to in sub-paragraphs 10.1(1)(m) and (n) above must be amended as follows—
+(10)[^c-d5d941cae0e88857e99112099959ff79] When the statutory demand is to be served out of the jurisdiction, the time limits of 18 days and 21 days referred to in sub-paragraphs 10.1(1)(m) and (n) above must be amended as follows—
 
 - (a) for any reference to 18 days there must be substituted the number of days which is the appropriate number of days set out in the table accompanying the Practice Direction supplementing Section IV of CPR Part 6 plus 4 days; and
 - (b) for any reference to 21 days there must be substituted the number of days which is the appropriate number of days set out in the table accompanying the Practice Direction supplementing Section IV of CPR Part 6 plus 7 days.
@@ -189,7 +189,7 @@ then the certificate of service must be authenticated either by the creditor or 
 - (a) the name and postal address of the petitioner;
 - (b) where the petitioner is represented by a solicitor, the name, postal address and telephone number of the solicitor;
 - (c) that the petitioner requests that the court make a bankruptcy order against the debtor;
-- (d)[^key-fd1f520401a210a3b79283121dd432d6] whether—
+- (d)[^c-fd1f520401a210a3b79283121dd432d6] whether—
   - (i) the centre of the debtor's main interests is within the United Kingdom or is within a member State;
   - (ii) the centre of the debtor's main interests is neither within the United Kingdom nor a member State;
   - (iii) the debtor has an establishment within the United Kingdom;
@@ -219,7 +219,7 @@ then the certificate of service must be authenticated either by the creditor or 
 - (d) the nature of the debtor's business, and the address or addresses at which it is carried on;
 - (e) any name or names, other than the name of the debtor, in which the debtor has carried on business at or after the time when the debt was incurred, and whether the debtor has done so alone or with others;
 - (f) any address or addresses at which the debtor has resided or carried on business at or after that time, and the nature of that business; and
-- (g) whether the centre of main interests or an establishment of the debtor (as defined in Article 2(10) of the EU Regulation[^key-cab87d7fc475fc2159eb4a3177dbc7b0]) is in the UK or a[^key-a6ae224f0c7bd47dd81320bfe50843c7] member State.
+- (g) whether the centre of main interests or an establishment of the debtor (as defined in Article 2(10) of the EU Regulation[^c-cab87d7fc475fc2159eb4a3177dbc7b0]) is in the UK or a[^c-a6ae224f0c7bd47dd81320bfe50843c7] member State.
 
 (2) The particulars of the debtor given under this rule determine the title of the proceedings.
 
@@ -250,7 +250,7 @@ then the certificate of service must be authenticated either by the creditor or 
 
 (3) If the case is within section 268(1)(b) (unsatisfied execution or process in respect of judgment debt, etc.) the petition must state which court issued the execution or other process and give particulars of the return.
 
-(4)[^key-202bcb3b613137d15bf04c18bf439cd0] The court may decline to file the petition if not satisfied that the creditor has discharged the obligation imposed by rule 10.2.
+(4)[^c-202bcb3b613137d15bf04c18bf439cd0] The court may decline to file the petition if not satisfied that the creditor has discharged the obligation imposed by rule 10.2.
 
 ## 10.10. Verification of petition
 
@@ -280,8 +280,8 @@ then the certificate of service must be authenticated either by the creditor or 
 
 (1) Where the proceedings are allocated to the London Insolvency District under rule 12.5(a)(i) to (iv) or (b), the creditor must present the petition to—
 
-- (a) the High Court where the debt is £500,000[^key-6b44b5a74e3af50765b36d4cebdb8a08] or more; or
-- (b) the County Court at Central London where the debt is less than £500,000[^key-d23b75d52d2ddcbb7c74255b1aee1f9f].
+- (a) the High Court where the debt is £500,000[^c-6b44b5a74e3af50765b36d4cebdb8a08] or more; or
+- (b) the County Court at Central London where the debt is less than £500,000[^c-d23b75d52d2ddcbb7c74255b1aee1f9f].
 
 (2) Where the proceedings are allocated to the London Insolvency District under rule 12.5(a)(v), (c) or (d), the creditor must present the petition to the High Court.
 
@@ -319,9 +319,9 @@ then the certificate of service must be authenticated either by the creditor or 
 
 (4) The following copies of the petition must also be filed with the court with the petition—
 
-- (a) one for service on the debtor; and[^key-7574c6b3e7a6c22daee31850a921ee8b]
-- (b) one copy for the supervisor, if to the petitioner's knowledge there is in force for the debtor an IVA under Part 8 of the Act, and the petitioner is not the supervisor of the IVA; [^key-6153f33ba46f1a4f5be278628d0b8bda]...
-- (c)[^key-6153f33ba46f1a4f5be278628d0b8bda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a) one for service on the debtor; and[^c-7574c6b3e7a6c22daee31850a921ee8b]
+- (b) one copy for the supervisor, if to the petitioner's knowledge there is in force for the debtor an IVA under Part 8 of the Act, and the petitioner is not the supervisor of the IVA; [^c-6153f33ba46f1a4f5be278628d0b8bda]...
+- (c)[^c-6153f33ba46f1a4f5be278628d0b8bda] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) The date and time of filing the petition must be endorsed on the petition and on the copies.
 
@@ -359,7 +359,7 @@ then the certificate of service must be authenticated either by the creditor or 
 
 (2) If to the petitioner's knowledge there is in force for the debtor an IVA , and the petitioner is not the supervisor of the IVA, a copy of the petition must be delivered by the petitioner to the supervisor.
 
-(3)[^key-ec8d36db870b56531b68811678575d79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ec8d36db870b56531b68811678575d79] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 10.15. Death of debtor before service
 
@@ -404,7 +404,7 @@ The petition may be amended at any time after presentation with the court's perm
 
 *Extent: E+W*
 
-(1) A creditor [^key-bd154c0bfc3003be3a84ea80e14d017c]... who intends to appear on the hearing of the petition must deliver a notice of intention to appear to the petitioner.
+(1) A creditor [^c-bd154c0bfc3003be3a84ea80e14d017c]... who intends to appear on the hearing of the petition must deliver a notice of intention to appear to the petitioner.
 
 (2) The notice must contain the following—
 
@@ -413,7 +413,7 @@ The petition may be amended at any time after presentation with the court's perm
 - (c) the date of the hearing of the petition;
 - (d) in the case of a creditor, the amount and nature of the debt due from the debtor to the creditor;
 - (e) whether the person intends to support or oppose the petition;
-- (f) where the person is represented by a solicitor or other agent, the name, postal address, telephone number and reference number (if any) of that person and details of that person's position with or relationship to the creditor [^key-71eee0889ecad48087aee19b3017b938]...; and
+- (f) where the person is represented by a solicitor or other agent, the name, postal address, telephone number and reference number (if any) of that person and details of that person's position with or relationship to the creditor [^c-71eee0889ecad48087aee19b3017b938]...; and
 - (g) the name and postal address of the petitioner.
 
 (3) The notice must be authenticated and dated by the person delivering it.
@@ -585,7 +585,7 @@ The order for substitution of a petitioner must contain—
 
 (2) The court may, on such terms as it thinks just, make a change of carriage order if satisfied that—
 
-- (a) the applicant is an unpaid and unsecured creditor of the debtor [^key-c49165cc1abb87ec2f2ab535f3af1610]...; and
+- (a) the applicant is an unpaid and unsecured creditor of the debtor [^c-c49165cc1abb87ec2f2ab535f3af1610]...; and
 - (b) the petitioner either—
   - (i) intends by any means to secure the postponement, adjournment, dismissal or withdrawal of the petition, or
   - (ii) does not intend to prosecute the petition, either diligently or at all.
@@ -604,7 +604,7 @@ The order for substitution of a petitioner must contain—
 - (a) identification details for the proceedings;
 - (b) the date of the hearing of the petition;
 - (c) the name of the person who is willing to be given carriage of the petition (“**the relevant person**”);
-- (d) a statement that the relevant person is a creditor of the debtor [^key-88dcb3f8aa749c15d3542349ceda402c]...;
+- (d) a statement that the relevant person is a creditor of the debtor [^c-88dcb3f8aa749c15d3542349ceda402c]...;
 - (e) the name of the original petitioner;
 - (f) a statement that the relevant person has applied for an order under this rule to have carriage of the petition in place of the original petitioner;
 - (g) the order that the relevant person must within a period which is specified in the order serve upon the debtor and the original petitioner a sealed copy of the order;
@@ -653,8 +653,8 @@ The order for substitution of a petitioner must contain—
 - (c) the details of the debtor as provided under rule 10.8(1)(a) to (g);
 - (d) the order that the person named is made bankrupt;
 - (e) the order either—
-  - (i)[^key-a2fcb45178c25f555274c42ff991dcfa] that the court, being satisfied that the EU Regulation as it has effect in the law of the United Kingdom applies, declares that the proceedings are COMI proceedings or establishment proceedings, or
-  - (ii) that the court is satisfied that the EU Regulation[^key-8e482eba4d5c4f46b9ac2bbd329abd95] does not apply in relation to the proceedings;
+  - (i)[^c-a2fcb45178c25f555274c42ff991dcfa] that the court, being satisfied that the EU Regulation as it has effect in the law of the United Kingdom applies, declares that the proceedings are COMI proceedings or establishment proceedings, or
+  - (ii) that the court is satisfied that the EU Regulation[^c-8e482eba4d5c4f46b9ac2bbd329abd95] does not apply in relation to the proceedings;
 - (f) a statement that the official receiver (or one of them) attached to the court is by virtue of the order trustee of the bankrupt's estate;
 - (g) a notice of the bankrupt's duties in relation to the official receiver under section 291 [^c23176511], and in particular to the bankrupt's duty to give the official receiver such inventory of the bankrupt's estate and such other information, and to attend on the official receiver at such times, as the official receiver may reasonably require; and
 - (h) the date and time of the order.
@@ -752,7 +752,7 @@ This Chapter relates to a debtor's bankruptcy application and the making of a ba
 - (a) agree that debtors may, for a specified period, complete and deliver bankruptcy applications in another format; and
 - (b) provide an alternative means of delivery for the bankruptcy application and details of any terms or conditions to which their use is subject.
 
-(5)[^key-8ab5e250fe002e2fbdc84cfe4ea14e76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-8ab5e250fe002e2fbdc84cfe4ea14e76] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) Where the debtor has given an electronic address in the bankruptcy application, the adjudicator must so far as reasonably practicable communicate with the debtor by electronic means.
 
@@ -833,8 +833,8 @@ For the purpose of determining whether the adjudicator can make a bankruptcy ord
 - (b) the date of delivery of the bankruptcy application on which the order is made;
 - (c) the order that upon reading the application it is ordered that person named be made bankrupt;
 - (d) the order either—
-  - (i)[^key-a19dfc84be590c77290fc7f809f8ac17] that the adjudicator, being satisfied that the EU Regulation as it has effect in the law of the United Kingdom applies, declares that the proceedings are COMI proceedings or establishment proceedings, or
-  - (ii) that the adjudicator is satisfied that the EU Regulation[^key-a4475fc94595015a72d8e1033d3e8dd7] does not apply in relation to the proceedings;
+  - (i)[^c-a19dfc84be590c77290fc7f809f8ac17] that the adjudicator, being satisfied that the EU Regulation as it has effect in the law of the United Kingdom applies, declares that the proceedings are COMI proceedings or establishment proceedings, or
+  - (ii) that the adjudicator is satisfied that the EU Regulation[^c-a4475fc94595015a72d8e1033d3e8dd7] does not apply in relation to the proceedings;
 - (e) a statement that the official receiver (or one of them) attached to the court is, by virtue of the order, trustee of the bankrupt's estate; and
 - (f) a notice of the bankrupt's duties in relation to the official receiver under section 291(4) (duties of bankrupt in relation to the official receiver), and in particular to the bankrupt's duty to give the official receiver such inventory of the bankrupt's estate and such other information, and to attend on the official receiver at such times, as the official receiver may reasonably require.
 
@@ -1025,9 +1025,9 @@ may be made without notice to any other party, but the court may direct that not
 (1) An application to the court under section 286 [^c23176561] for the appointment of the official receiver or an insolvency practitioner as interim receiver may be made by—
 
 - (a) a creditor;
-- (b) the debtor; or[^key-76c5b1f1f0e440ad090ddb80bf659ff1]
-- (c) a temporary administrator; [^key-2e94656c22e5d13d406c0599a43de4dd]...
-- (d)[^key-2e94656c22e5d13d406c0599a43de4dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b) the debtor; or[^c-76c5b1f1f0e440ad090ddb80bf659ff1]
+- (c) a temporary administrator; [^c-2e94656c22e5d13d406c0599a43de4dd]...
+- (d)[^c-2e94656c22e5d13d406c0599a43de4dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The application must be supported by a witness statement stating—
 
@@ -1036,7 +1036,7 @@ may be made without notice to any other party, but the court may direct that not
 - (c) if the proposed interim receiver is an insolvency practitioner, that the insolvency practitioner has consented to act;
 - (d) whether to the applicant's knowledge there has been proposed or is in force an IVA [^c23176571]; and
 - (e) the applicant's estimate of the value of the property or business in relation to which the interim receiver is to be appointed;
-- (f)[^key-6eb3dae2f4977f7cf43d023d60b959c0] a statement whether the proceedings will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-fbd1547c4b0409a8f7f20eae8f7f82cc] with the reasons for so stating.
+- (f)[^c-6eb3dae2f4977f7cf43d023d60b959c0] a statement whether the proceedings will be COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-fbd1547c4b0409a8f7f20eae8f7f82cc] with the reasons for so stating.
 
 (3) The applicant must deliver copies of the application and the witness statement to the proposed interim receiver and to the official receiver.
 
@@ -1070,7 +1070,7 @@ may be made without notice to any other party, but the court may direct that not
 - (d) identification details for the debtor;
 - (e) the statement that the court is satisfied—
   - (i) that the debtor is unable to pay the debtor's debts, and
-  - (ii) that the proceedings are COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^key-6fcde52c45c6633f1935c7995e468203] (as the case may be);
+  - (ii) that the proceedings are COMI proceedings, establishment proceedings or proceedings to which the EU Regulation as it has effect in the law of the United Kingdom does not apply[^c-6fcde52c45c6633f1935c7995e468203] (as the case may be);
 - (f) the order either that—
   - (i) upon the applicant depositing the sum specified in the order with the official receiver, the official receiver is appointed interim receiver of the property of the debtor, or
   - (ii) the person specified in the order is appointed interim receiver of the property of the debtor;
@@ -1697,7 +1697,7 @@ Where a new trustee is appointed in place of one who has resigned or been remove
 - (e) that the prescribed period is the period ending at the later of—
   - (i) eight weeks after delivery of the notice; or
   - (ii) if any request for information under rule 18.9 or any application to the court under that rule, rule 18.34 or rule 18.35 is made when that request or application is finally determined;
-- (f)[^key-69fc4c359aef82d2eae13681e8ee772e] that the trustee will vacate office under section 298(8) when, after the end of the prescribed period, the trustee—
+- (f)[^c-69fc4c359aef82d2eae13681e8ee772e] that the trustee will vacate office under section 298(8) when, after the end of the prescribed period, the trustee—
   - (i) files with the court a notice that the trustee has given notice to the creditors under section 331, where the bankruptcy is based on a creditor’s petition; or
   - (ii) delivers to the official receiver a notice that the trustee has given notice to the creditors under section 331, where the bankruptcy is based on a debtor’s application; and
 - (g) that the trustee will be released under section 299(3)(d) at the same time as vacating office unless any of the creditors objected to the trustee's release.
@@ -2270,7 +2270,7 @@ For the purposes of this Chapter “**land**” includes any interest in, or rig
 
 (5) The court may under paragraph (4) order any of the parties to clarify any matter which is in dispute in the proceedings or give additional information in relation to any such matter and CPR Part 18 (further information) applies to any such order.
 
-(6) In any proceedings between a mortgagor and mortgagee, or the trustee of either of them, the court may order accounts to be taken and enquiries made in like manner as in the Business and Property Division[^key-9713484cf53c58dfcc1b06d562bfd64d] of the High Court.
+(6) In any proceedings between a mortgagor and mortgagee, or the trustee of either of them, the court may order accounts to be taken and enquiries made in like manner as in the Business and Property Division[^c-9713484cf53c58dfcc1b06d562bfd64d] of the High Court.
 
 ## 10.123. Power of court to order sale
 
@@ -2295,7 +2295,7 @@ For the purposes of this Chapter “**land**” includes any interest in, or rig
 
 (4) The court may direct that, if the sale is to be by public auction, the mortgagee may bid on the mortgagee's own behalf.
 
-(5) Nothing in this rule or rule 10.124 affects the rights in rem of creditors or third parties protected under Article 8 of the EU Regulation[^key-f282ae091658d675abe4b8915cc97f3b].
+(5) Nothing in this rule or rule 10.124 affects the rights in rem of creditors or third parties protected under Article 8 of the EU Regulation[^c-f282ae091658d675abe4b8915cc97f3b].
 
 ## 10.124. Proceeds of sale
 
@@ -2525,7 +2525,7 @@ Where the application for annulment is made under section 282(1)(b) and it has b
 - (a) should the bankrupt require notice of the order to be gazetted and to be advertised in the same manner as the bankruptcy order was advertised, the bankrupt must within 28 days deliver notice of that requirement to the official receiver; and
 - (b) it is the bankrupt's responsibility and in the bankrupt's interest to ensure that the registration of the petition or bankruptcy application and of the bankruptcy order with the Chief Land Registrar are cancelled.
 
-(6)[^key-0935eb5ac7d65ae532e3e0784af92848] The adjudicator is not in any event to be liable for costs arising on an application under section 282.
+(6)[^c-0935eb5ac7d65ae532e3e0784af92848] The adjudicator is not in any event to be liable for costs arising on an application under section 282.
 
 ## 10.138. Matters to be proved under section 282(1)(b)
 
@@ -2789,13 +2789,13 @@ All fees, costs, charges and other expenses incurred in the course of the bankru
 The expenses of the bankruptcy are payable out of the bankrupt's estate in the following order of priority—
 
 - (a) expenses or costs which—
-  - (i) are properly chargeable or incurred by the official receiver or the trustee in preserving, realising or getting in any of the assets of the bankrupt or otherwise relating to the conduct of any legal proceedings which the official receiver or the trustee[^key-515939fd6f2e7e5ad9749c453bd24979] has power to bring (whether the claim on which the proceedings are based forms part of the bankrupt's estate or otherwise) or defend,
+  - (i) are properly chargeable or incurred by the official receiver or the trustee in preserving, realising or getting in any of the assets of the bankrupt or otherwise relating to the conduct of any legal proceedings which the official receiver or the trustee[^c-515939fd6f2e7e5ad9749c453bd24979] has power to bring (whether the claim on which the proceedings are based forms part of the bankrupt's estate or otherwise) or defend,
   - (ii) relate to the employment of a shorthand writer, if appointed by an order of the court made at the instance of the official receiver in connection with an examination, or
   - (iii) are incurred in holding an examination under rule 10.102 (examinee unfit) where the application was made by the official receiver;
 - (b) any other expenses incurred or disbursements made by the official receiver or under the official receiver's authority, including those incurred or made in carrying on the business of a debtor or bankrupt;
 - (c) the fees payable under any order made under section 415 [^c23176881] or 415A [^c23176891], including those payable to the official receiver (other than the fee referred to in sub-paragraph (d)), and any remuneration payable to the official receiver under general regulations;
-- (d)[^key-f2259cdc262db9095bc8f88a398df0bf] the fee payable under any order made under section 415 for the performance by the official receiver of the general duties of the official receiver and any repayable sum deposited under any such order as security for the fee;
-- (e)[^key-cb2f63cf4899aa801d0ee1d1d26582fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-f2259cdc262db9095bc8f88a398df0bf] the fee payable under any order made under section 415 for the performance by the official receiver of the general duties of the official receiver and any repayable sum deposited under any such order as security for the fee;
+- (e)[^c-cb2f63cf4899aa801d0ee1d1d26582fe] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (f) the cost of any security provided by an interim receiver, trustee or special manager in accordance with the Act or these Rules;
 - (g) the remuneration of the interim receiver (if any);
 - (h) any sum deposited on an application for the appointment of an interim receiver;
@@ -2804,7 +2804,7 @@ The expenses of the bankruptcy are payable out of the bankrupt's estate in the f
 - (k) any amount payable to a person or firm employed or authorised, under rules 10.59, 10.60 or 10.64, to assist in the preparation of a statement of affairs or of accounts;
 - (l) any allowance made, by order of the court, in respect of costs on an application for release from the obligation to submit a statement of affairs, or for an extension of time for submitting such a statement;
 - (m) the costs of employing a shorthand writer in any case other than one appointed by an order of the court at the instance of the official receiver in connection with an examination;
-- (n) any necessary disbursements by the trustee in the course of the trustee's administration (including any [^key-dde203d9f789b0473d3414c7fc81d520]... expenses incurred by members of the creditors' committee or their representatives and allowed by the trustee under rule 17.24, but not including any payment of capital gains tax in circumstances referred to in sub-paragraph (q));
+- (n) any necessary disbursements by the trustee in the course of the trustee's administration (including any [^c-dde203d9f789b0473d3414c7fc81d520]... expenses incurred by members of the creditors' committee or their representatives and allowed by the trustee under rule 17.24, but not including any payment of capital gains tax in circumstances referred to in sub-paragraph (q));
 - (o) the remuneration or emoluments of any person (including the bankrupt) who has been employed by the trustee to perform any services for the bankrupt's estate, as required or authorised by or under the Act or these Rules;
 - (p) the remuneration of the trustee, up to any amount not exceeding that which is payable under Schedule 11;
 - (q) the amount of any capital gains tax on chargeable gains accruing on the realisation of any asset of the bankrupt (irrespective of the person by whom the realisation is effected);
@@ -2894,7 +2894,7 @@ The rules in Chapter 4 of this Part about the appointment of an interim receiver
 
 The following rules do not apply in criminal bankruptcy—
 
-- (a)[^key-65b1136a7d39265c2970d6bc3968f380] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-65b1136a7d39265c2970d6bc3968f380] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) Chapter 6 of this Part, except rules 10.86 (release of official receiver) and 10.91 (power of court to set aside transactions);
 - (c) rule 15.21(a) and (b) (chair at meetings); and
 - (d) Part 17 (creditors' and liquidation committees).
@@ -3136,19 +3136,19 @@ ceases to be comprised in the bankrupt's estate and vests in the bankrupt under 
 
 ## Annotations
 
-[^key-d5d941cae0e88857e99112099959ff79]: Textual amendment: [Rule 10.1(10)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.1/10) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [7](https://www.legislation.gov.uk/uksi/2017/1115/rule/7)
+[^c-d5d941cae0e88857e99112099959ff79]: Textual amendment: [Rule 10.1(10)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.1/10) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [7](https://www.legislation.gov.uk/uksi/2017/1115/rule/7)
 
-[^key-fd1f520401a210a3b79283121dd432d6]: Textual amendment: [Rule 10.7(1)(d)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.7/1/d) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 86](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/86) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fd1f520401a210a3b79283121dd432d6]: Textual amendment: [Rule 10.7(1)(d)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.7/1/d) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 86](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/86) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cab87d7fc475fc2159eb4a3177dbc7b0]: Textual amendment: Words in [rule 10.8(1)(g)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.8/1/g) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [27](https://www.legislation.gov.uk/uksi/2017/1115/rule/27)
+[^c-cab87d7fc475fc2159eb4a3177dbc7b0]: Textual amendment: Words in [rule 10.8(1)(g)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.8/1/g) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [27](https://www.legislation.gov.uk/uksi/2017/1115/rule/27)
 
-[^key-a6ae224f0c7bd47dd81320bfe50843c7]: Textual amendment: Words in [rule 10.8(1)(g)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.8/1/g) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 87](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/87) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a6ae224f0c7bd47dd81320bfe50843c7]: Textual amendment: Words in [rule 10.8(1)(g)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.8/1/g) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 87](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/87) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-202bcb3b613137d15bf04c18bf439cd0]: Textual amendment: [Rule 10.9(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.9/4) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2017/1115/rule/8)
+[^c-202bcb3b613137d15bf04c18bf439cd0]: Textual amendment: [Rule 10.9(4)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.9/4) inserted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [8](https://www.legislation.gov.uk/uksi/2017/1115/rule/8)
 
-[^key-6b44b5a74e3af50765b36d4cebdb8a08]: Textual amendment: Sum in rule 10.11(1)(a) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [13](https://www.legislation.gov.uk/uksi/2026/561/rule/13)
+[^c-6b44b5a74e3af50765b36d4cebdb8a08]: Textual amendment: Sum in rule 10.11(1)(a) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [13](https://www.legislation.gov.uk/uksi/2026/561/rule/13)
 
-[^key-d23b75d52d2ddcbb7c74255b1aee1f9f]: Textual amendment: Sum in rule 10.11(1)(b) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [13](https://www.legislation.gov.uk/uksi/2026/561/rule/13)
+[^c-d23b75d52d2ddcbb7c74255b1aee1f9f]: Textual amendment: Sum in rule 10.11(1)(b) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [13](https://www.legislation.gov.uk/uksi/2026/561/rule/13)
 
 [^c23176471]: Marginal citation: Part 8 is amended by paragraph 2 of Schedule 6 to the [Deregulation Act 2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20), [paragraphs 2 to 4](https://www.legislation.gov.uk/ukpga/2015/20/paragraph/2) of Schedule 19 to the [Enterprise and Regulatory Reform Act 2014 (c.24)](https://www.legislation.gov.uk/ukpga/2014/24) and sections 134 and 135 and paragraphs 61 to 72 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
@@ -3156,25 +3156,25 @@ ceases to be comprised in the bankrupt's estate and vests in the bankrupt under 
 
 [^c23176491]: Marginal citation: Section 256A(3) is amended by paragraph 4(3) of Schedule 19 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) and paragraph 62 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-7574c6b3e7a6c22daee31850a921ee8b]: Textual amendment: Word in [rule 10.12(4)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.12/4/a) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 88(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/88/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7574c6b3e7a6c22daee31850a921ee8b]: Textual amendment: Word in [rule 10.12(4)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.12/4/a) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 88(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/88/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6153f33ba46f1a4f5be278628d0b8bda]: Textual amendment: [Rule 10.12(4)(c)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.12/4/c) and word omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 88(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/88/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6153f33ba46f1a4f5be278628d0b8bda]: Textual amendment: [Rule 10.12(4)(c)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.12/4/c) and word omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 88(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/88/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23176501]: Marginal citation: [1972 c.61](https://www.legislation.gov.uk/ukpga/1972/61).
 
-[^key-ec8d36db870b56531b68811678575d79]: Textual amendment: [Rule 10.14(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.14/3) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 89](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/89) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec8d36db870b56531b68811678575d79]: Textual amendment: [Rule 10.14(3)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.14/3) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 89](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/89) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bd154c0bfc3003be3a84ea80e14d017c]: Textual amendment: Words in [rule 10.19(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.19/1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 90(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/90/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bd154c0bfc3003be3a84ea80e14d017c]: Textual amendment: Words in [rule 10.19(1)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.19/1) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 90(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/90/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-71eee0889ecad48087aee19b3017b938]: Textual amendment: Words in [rule 10.19(2)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.19/2/f) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 90(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/90/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-71eee0889ecad48087aee19b3017b938]: Textual amendment: Words in [rule 10.19(2)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.19/2/f) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 90(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/90/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c49165cc1abb87ec2f2ab535f3af1610]: Textual amendment: Words in [rule 10.29(2)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.29/2/a) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 91(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/91/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c49165cc1abb87ec2f2ab535f3af1610]: Textual amendment: Words in [rule 10.29(2)(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.29/2/a) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 91(a)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/91/a) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-88dcb3f8aa749c15d3542349ceda402c]: Textual amendment: Words in [rule 10.29(6)(d)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.29/6/d) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 91(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/91/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-88dcb3f8aa749c15d3542349ceda402c]: Textual amendment: Words in [rule 10.29(6)(d)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.29/6/d) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 91(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/91/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a2fcb45178c25f555274c42ff991dcfa]: Textual amendment: [Rule 10.31(1)(e)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.31/1/e/i) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 92](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/92) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2fcb45178c25f555274c42ff991dcfa]: Textual amendment: [Rule 10.31(1)(e)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.31/1/e/i) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 92](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/92) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8e482eba4d5c4f46b9ac2bbd329abd95]: Textual amendment: Words in [rule 10.31(1)(e)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.31/1/e/i)[(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.31/1/e/ii) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [23(8)](https://www.legislation.gov.uk/uksi/2017/1115/rule/23/8)
+[^c-8e482eba4d5c4f46b9ac2bbd329abd95]: Textual amendment: Words in [rule 10.31(1)(e)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.31/1/e/i)[(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.31/1/e/ii) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [23(8)](https://www.legislation.gov.uk/uksi/2017/1115/rule/23/8)
 
 [^c23176511]: Marginal citation: Section 291 subsections (1) to (3) are omitted by paragraph 4 of Schedule 10 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
@@ -3182,29 +3182,29 @@ ceases to be comprised in the bankrupt's estate and vests in the bankrupt under 
 
 [^c23176531]: Marginal citation: [1972 c.61](https://www.legislation.gov.uk/ukpga/1972/61).
 
-[^key-8ab5e250fe002e2fbdc84cfe4ea14e76]: Textual amendment: [Rule 10.36(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.36/5) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [14](https://www.legislation.gov.uk/uksi/2026/561/rule/14)
+[^c-8ab5e250fe002e2fbdc84cfe4ea14e76]: Textual amendment: [Rule 10.36(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.36/5) omitted (22.6.2026) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [14](https://www.legislation.gov.uk/uksi/2026/561/rule/14)
 
 [^c23176541]: Marginal citation: [1972 c.61](https://www.legislation.gov.uk/ukpga/1972/61); there are amending instruments but none is relevant.
 
 [^c23176551]: Marginal citation: Section 263K is inserted by paragraph 1 of Schedule 18 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
-[^key-a19dfc84be590c77290fc7f809f8ac17]: Textual amendment: [Rule 10.41(2)(d)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.41/2/d/i) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 93](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/93) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a19dfc84be590c77290fc7f809f8ac17]: Textual amendment: [Rule 10.41(2)(d)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.41/2/d/i) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 93](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/93) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a4475fc94595015a72d8e1033d3e8dd7]: Textual amendment: Words in [rule 10.41(2)(d)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.41/2/d/i)[(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.41/2/d/ii) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [23(9)](https://www.legislation.gov.uk/uksi/2017/1115/rule/23/9)
+[^c-a4475fc94595015a72d8e1033d3e8dd7]: Textual amendment: Words in [rule 10.41(2)(d)(i)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.41/2/d/i)[(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.41/2/d/ii) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [23(9)](https://www.legislation.gov.uk/uksi/2017/1115/rule/23/9)
 
 [^c23176561]: Marginal citation: Section 286 is amended by paragraph 17 of Schedule 19 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24), [paragraph 13](https://www.legislation.gov.uk/ukpga/2013/24/paragraph/13) of Schedule 6 to the [Deregulation Act 2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20) and paragraph 2 of Schedule 10 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-76c5b1f1f0e440ad090ddb80bf659ff1]: Textual amendment: Word in [rule 10.49(1)(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.49/1/b) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 94(a)(i)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/94/a/i) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-76c5b1f1f0e440ad090ddb80bf659ff1]: Textual amendment: Word in [rule 10.49(1)(b)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.49/1/b) inserted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 94(a)(i)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/94/a/i) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e94656c22e5d13d406c0599a43de4dd]: Textual amendment: [Rule 10.49(1)(d)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.49/1/d) and word omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 94(a)(ii)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/94/a/ii) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2e94656c22e5d13d406c0599a43de4dd]: Textual amendment: [Rule 10.49(1)(d)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.49/1/d) and word omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 94(a)(ii)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/94/a/ii) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23176571]: Marginal citation: Part 8 is amended by paragraph 2 of Schedule 6 to the [Deregulation Act 2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20), [paragraphs 2 to 4](https://www.legislation.gov.uk/ukpga/2015/20/paragraph/2) of Schedule 19 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) and sections 124 and 15 and paragraphs 61 to 72 of Schedule 9 to the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-6eb3dae2f4977f7cf43d023d60b959c0]: Textual amendment: [Rule 10.49(2)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.49/2/f) inserted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 42(b)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/42/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
+[^c-6eb3dae2f4977f7cf43d023d60b959c0]: Textual amendment: [Rule 10.49(2)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.49/2/f) inserted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 42(b)](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/42/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3))
 
-[^key-fbd1547c4b0409a8f7f20eae8f7f82cc]: Textual amendment: Words in [rule 10.49(2)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.49/2/f) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 94(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/94/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fbd1547c4b0409a8f7f20eae8f7f82cc]: Textual amendment: Words in [rule 10.49(2)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.49/2/f) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 94(b)](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/94/b) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6fcde52c45c6633f1935c7995e468203]: Textual amendment: Words in [rule 10.51(1)(e)(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.51/1/e/ii) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 95](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/95) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6fcde52c45c6633f1935c7995e468203]: Textual amendment: Words in [rule 10.51(1)(e)(ii)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.51/1/e/ii) substituted (31.12.2020) by [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 95](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/95) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23176581]: Marginal citation: Section 370(1)(c) and (2) is amended by paragraph 14 of Schedule 6 to the Deregulation Act (c.20).
 
@@ -3230,7 +3230,7 @@ ceases to be comprised in the bankrupt's estate and vests in the bankrupt under 
 
 [^c23176691]: Marginal citation: Section 331 is amended by paragraph 83 of Schedule 9 to the Small Business, Enterprise and Employment Act 2015.
 
-[^key-69fc4c359aef82d2eae13681e8ee772e]: Textual amendment: [Rule 10.87(3)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.87/3/f) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [15](https://www.legislation.gov.uk/uksi/2026/561/rule/15)
+[^c-69fc4c359aef82d2eae13681e8ee772e]: Textual amendment: [Rule 10.87(3)(f)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.87/3/f) substituted (22.6.2026) by [The Insolvency (England and Wales) (Amendment) Rules 2026 (S.I. 2026/561)](https://www.legislation.gov.uk/uksi/2026/561), [rules 1(3)](https://www.legislation.gov.uk/uksi/2026/561/rule/1/3), [15](https://www.legislation.gov.uk/uksi/2026/561/rule/15)
 
 [^c23176701]: Marginal citation: Section 370 is amended by paragraph 14 of Schedule 6 to the [Deregulation Act 2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
@@ -3248,9 +3248,9 @@ ceases to be comprised in the bankrupt's estate and vests in the bankrupt under 
 
 [^c23176771]: Marginal citation: Section 7 of the [Commissioners for Revenue and Customs Act 2005 (c.11)](https://www.legislation.gov.uk/ukpga/2005/11) vests functions conferred by enactments on an Inland Revenue Official (or relating to such functions) in an officer of Revenue and Customs.
 
-[^key-9713484cf53c58dfcc1b06d562bfd64d]: Textual amendment: Words in [rule 10.122(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.122/6) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 18(a)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/18/a)
+[^c-9713484cf53c58dfcc1b06d562bfd64d]: Textual amendment: Words in [rule 10.122(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.122/6) substituted (1.10.2026) by [The Senior Courts (Transfer, Amendment and Consequential Provision) Order 2026 (S.I. 2026/723)](https://www.legislation.gov.uk/uksi/2026/723), [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/723/article/1/2), [Sch. 2 para. 18(a)](https://www.legislation.gov.uk/uksi/2026/723/schedule/2/paragraph/18/a)
 
-[^key-f282ae091658d675abe4b8915cc97f3b]: Textual amendment: Words in [rule 10.123(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.123/5) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [25(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/25/1)
+[^c-f282ae091658d675abe4b8915cc97f3b]: Textual amendment: Words in [rule 10.123(5)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.123/5) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [25(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/25/1)
 
 [^c23176781]: Marginal citation: Section 307(3) and (4) is amended and new subsection (4A) is inserted by paragraph 16 of Schedule 6 to the [Deregulation Act 2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20).
 
@@ -3258,7 +3258,7 @@ ceases to be comprised in the bankrupt's estate and vests in the bankrupt under 
 
 [^c23176801]: Marginal citation: Section 282(2) is amended by paragraph 13 of Schedule 19 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24) and (4) is amended by section 135(2)(a) of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-0935eb5ac7d65ae532e3e0784af92848]: Textual amendment: [Rule 10.137(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.137/6) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [30](https://www.legislation.gov.uk/uksi/2017/366/rule/30)
+[^c-0935eb5ac7d65ae532e3e0784af92848]: Textual amendment: [Rule 10.137(6)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.137/6) inserted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [30](https://www.legislation.gov.uk/uksi/2017/366/rule/30)
 
 [^c23176811]: Marginal citation: [2005 c.9](https://www.legislation.gov.uk/ukpga/2005/9).
 
@@ -3274,19 +3274,19 @@ ceases to be comprised in the bankrupt's estate and vests in the bankrupt under 
 
 [^c23176871]: Marginal citation: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4). Section 138(1)(b) is repealed by section 71 of the [Welfare Reform Act 2012 (c.5)](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-515939fd6f2e7e5ad9749c453bd24979]: Textual amendment: Words in rule 10.149(a)(i) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [31](https://www.legislation.gov.uk/uksi/2017/366/rule/31)
+[^c-515939fd6f2e7e5ad9749c453bd24979]: Textual amendment: Words in rule 10.149(a)(i) substituted (6.4.2017) by [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [31](https://www.legislation.gov.uk/uksi/2017/366/rule/31)
 
 [^c23176881]: Marginal citation: Section 415 subsections (1)(c) and (1A) are inserted by paragraph 59 of Schedule 19 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24).
 
 [^c23176891]: Marginal citation: Section 415A subsections (1)(c) and (1A are inserted by section 17(5) and subsection (2) is omitted by paragraph 22(5) of Schedule 6 to the [Deregulation Act 2015 (c.20)](https://www.legislation.gov.uk/ukpga/2015/20). Subsection (1B) is inserted by 139(2) and (5) by 140(2) of the [Small Business, Enterprise and Employment Act 2015 (c.26)](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-f2259cdc262db9095bc8f88a398df0bf]: Textual amendment: [Rule 10.149(d)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.149/d) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2017/1115/rule/9/2)
+[^c-f2259cdc262db9095bc8f88a398df0bf]: Textual amendment: [Rule 10.149(d)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.149/d) substituted (8.12.2017) by [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [9(2)](https://www.legislation.gov.uk/uksi/2017/1115/rule/9/2)
 
-[^key-cb2f63cf4899aa801d0ee1d1d26582fe]: Textual amendment: [Rule 10.149(e)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.149/e) omitted (8.12.2017) by virtue of [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2017/1115/rule/9/3)
+[^c-cb2f63cf4899aa801d0ee1d1d26582fe]: Textual amendment: [Rule 10.149(e)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.149/e) omitted (8.12.2017) by virtue of [The Insolvency (England and Wales) and Insolvency (Scotland) (Miscellaneous and Consequential Amendments) Rules 2017 (S.I. 2017/1115)](https://www.legislation.gov.uk/uksi/2017/1115), [rules 1(1)](https://www.legislation.gov.uk/uksi/2017/1115/rule/1/1), [9(3)](https://www.legislation.gov.uk/uksi/2017/1115/rule/9/3)
 
-[^key-dde203d9f789b0473d3414c7fc81d520]: Textual amendment: Words in [rule 10.149(n)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.149/n) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 96](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/96) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-dde203d9f789b0473d3414c7fc81d520]: Textual amendment: Words in [rule 10.149(n)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.149/n) omitted (31.12.2020) by virtue of [The Insolvency (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/146)](https://www.legislation.gov.uk/uksi/2019/146), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2019/146/regulation/1/3), [Sch. para. 96](https://www.legislation.gov.uk/uksi/2019/146/schedule/paragraph/96) (with [regs. 4](https://www.legislation.gov.uk/uksi/2019/146/regulation/4), [5](https://www.legislation.gov.uk/uksi/2019/146/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-65b1136a7d39265c2970d6bc3968f380]: Textual amendment: [Rule 10.158(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.158/a) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [33](https://www.legislation.gov.uk/uksi/2017/366/rule/33)
+[^c-65b1136a7d39265c2970d6bc3968f380]: Textual amendment: [Rule 10.158(a)](https://www.legislation.gov.uk/uksi/2016/1024/rule/10.158/a) omitted (6.4.2017) by virtue of [The Insolvency (England and Wales) (Amendment) Rules 2017 (S.I. 2017/366)](https://www.legislation.gov.uk/uksi/2017/366), [rules 1](https://www.legislation.gov.uk/uksi/2017/366/rule/1), [33](https://www.legislation.gov.uk/uksi/2017/366/rule/33)
 
 [^c23176901]: Marginal citation: Section 282(2) is amended by paragraph 13 of Schedule 19 to the [Enterprise and Regulatory Reform Act 2013 (c.24)](https://www.legislation.gov.uk/ukpga/2013/24).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31E. Sale or other disposal[^key-a9909df5f66dbc7e0d1f0222ab6d111d]
+## 31E. Sale or other disposal[^c-a9909df5f66dbc7e0d1f0222ab6d111d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a9909df5f66dbc7e0d1f0222ab6d111d]: Textual amendment: [S. 31E](https://www.legislation.gov.uk/ukpga/2006/12/section/31E) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(n)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/n)
+[^c-a9909df5f66dbc7e0d1f0222ab6d111d]: Textual amendment: [S. 31E](https://www.legislation.gov.uk/ukpga/2006/12/section/31E) repealed (2.12.2014) by [The Olympic Delivery Authority (Dissolution) Order 2014 (S.I. 2014/3184)](https://www.legislation.gov.uk/uksi/2014/3184), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/3184/article/1/2), [Sch. para. 2(n)](https://www.legislation.gov.uk/uksi/2014/3184/schedule/paragraph/2/n)

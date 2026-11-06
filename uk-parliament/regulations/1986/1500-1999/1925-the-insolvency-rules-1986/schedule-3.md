@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 3 — SHORTHAND WRITERS' REMUNERATION[^key-d8bef86daf997671642dbad0c2840acd]
+## SCHEDULE 3 — SHORTHAND WRITERS' REMUNERATION[^c-d8bef86daf997671642dbad0c2840acd]
 
 *Extent: E+W*
 
@@ -24,12 +24,12 @@ summary: ''
 
 Rule 7.17
 
-**4.**[^key-d8bef86daf997671642dbad0c2840acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-d8bef86daf997671642dbad0c2840acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-d8bef86daf997671642dbad0c2840acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-d8bef86daf997671642dbad0c2840acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Note.**[^key-d8bef86daf997671642dbad0c2840acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Note.**[^c-d8bef86daf997671642dbad0c2840acd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-d8bef86daf997671642dbad0c2840acd]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1986/1925/schedule/3) revoked (5.4.1993) by [The Insolvency (Amendment) Rules 1993 (S.I. 1993/602)](https://www.legislation.gov.uk/uksi/1993/602), [rule 1](https://www.legislation.gov.uk/uksi/1993/602/rule/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1993/602/schedule/paragraph/4)
+[^c-d8bef86daf997671642dbad0c2840acd]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/1986/1925/schedule/3) revoked (5.4.1993) by [The Insolvency (Amendment) Rules 1993 (S.I. 1993/602)](https://www.legislation.gov.uk/uksi/1993/602), [rule 1](https://www.legislation.gov.uk/uksi/1993/602/rule/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/1993/602/schedule/paragraph/4)

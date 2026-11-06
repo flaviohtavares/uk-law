@@ -30,7 +30,7 @@ summary: ''
 
 - (a) [^c20381701]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) a civil proceedings order or an all proceedings order which is made under section 42(1) of the Senior Courts Act 1981[^c20381771] and which remains in force,
-- (c) an order which is made under section 1 of the [^c14521901]Vexatious Actions (Scotland) Act 1898 or a vexatious litigation order made under section 100 of the Courts Reform (Scotland) Act 2014 *(Extent: S)*[^key-614830349e763ddcaadd73c192e67c41], or
+- (c) an order which is made under section 1 of the [^c14521901]Vexatious Actions (Scotland) Act 1898 or a vexatious litigation order made under section 100 of the Courts Reform (Scotland) Act 2014 *(Extent: S)*[^c-614830349e763ddcaadd73c192e67c41], or
 - (d) an order which is made under section 32 of the [^c14521911]Judicature (Northern Ireland) Act 1978.
 
 ## Annotations
@@ -43,6 +43,6 @@ summary: ''
 
 [^c14521901]: Marginal citation: [1898 c. 35](https://www.legislation.gov.uk/ukpga/1898/35).
 
-[^key-614830349e763ddcaadd73c192e67c41]: Textual amendment: Words in s. 256A(4)(c) inserted (S.) (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2016/387/schedule/2/paragraph/2)
+[^c-614830349e763ddcaadd73c192e67c41]: Textual amendment: Words in s. 256A(4)(c) inserted (S.) (28.11.2016) by [The Courts Reform (Scotland) Act 2014 (Relevant Officer and Consequential Provisions) Order 2016 (S.S.I. 2016/387)](https://www.legislation.gov.uk/ssi/2016/387), [art. 1](https://www.legislation.gov.uk/ssi/2016/387/article/1), [sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2016/387/schedule/2/paragraph/2)
 
 [^c14521911]: Marginal citation: [1978 c. 23](https://www.legislation.gov.uk/ukpga/1978/23).

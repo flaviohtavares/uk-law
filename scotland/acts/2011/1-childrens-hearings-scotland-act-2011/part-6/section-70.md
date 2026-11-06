@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 70. Requirement under Antisocial Behaviour etc. (Scotland) Act 2004[^key-6a7463a6fe2fe795370579373dcb8f2c]
+## 70. Requirement under Antisocial Behaviour etc. (Scotland) Act 2004[^c-6a7463a6fe2fe795370579373dcb8f2c]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a7463a6fe2fe795370579373dcb8f2c]: Commencement: S. 70 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-6a7463a6fe2fe795370579373dcb8f2c]: Commencement: S. 70 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

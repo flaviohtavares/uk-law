@@ -106,7 +106,7 @@ The School Information (Wales) Regulations 2011 [^c23326601] are amended as foll
 - (a) in regulation 2(1) omit the definition of “literacy and numeracy comparative report”; and
 - (b) in Schedule 3 omit paragraphs 27 and 31.
 
-## 6. School Performance and Absence Targets (Wales) Regulations 2011[^key-952451a141cc689400a5bcdd6b74fc18]
+## 6. School Performance and Absence Targets (Wales) Regulations 2011[^c-952451a141cc689400a5bcdd6b74fc18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -161,7 +161,7 @@ For regulation 8 of the Welsh in Education Strategic Plans and Assessing Demand 
 
 The Education (School Development Plans) (Wales) Regulations 2014 [^c23326661] are amended as follows—
 
-- (a)[^key-f8e48a34dd14704297c8f597ca62ec13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-f8e48a34dd14704297c8f597ca62ec13] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in the Schedule, in paragraph 3 and in the heading for “development” substitute “ learning ”.
 
 Kirsty Williams
@@ -249,7 +249,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23326601]: Marginal citation: [S.I. 2011/1944](https://www.legislation.gov.uk/uksi/2011/1944) (W. 211) as amended by [S.I. 2013/437](https://www.legislation.gov.uk/uksi/2013/437) (W. 53) and [S.I. 2016/211](https://www.legislation.gov.uk/uksi/2016/211) (W. 84).
 
-[^key-952451a141cc689400a5bcdd6b74fc18]: Textual amendment: Reg. 6 revoked (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/wsi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/1/2), [5(c)](https://www.legislation.gov.uk/wsi/2020/729/regulation/5/c)
+[^c-952451a141cc689400a5bcdd6b74fc18]: Textual amendment: Reg. 6 revoked (7.8.2020) by [The Relaxation of School Reporting Requirements (Wales) (Coronavirus) Regulations 2020 (S.I. 2020/729)](https://www.legislation.gov.uk/wsi/2020/729), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2020/729/regulation/1/2), [5(c)](https://www.legislation.gov.uk/wsi/2020/729/regulation/5/c)
 
 [^c23326621]: Marginal citation: [S.I. 2011/2940](https://www.legislation.gov.uk/uksi/2011/2940) (W. 316) as amended by [S.I. 2014/2677](https://www.legislation.gov.uk/uksi/2014/2677) (W. 265).
 
@@ -261,4 +261,4 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c23326661]: Marginal citation: [S.I. 2014/2677](https://www.legislation.gov.uk/uksi/2014/2677) (W. 265) as amended by [S.I. 2016/236](https://www.legislation.gov.uk/uksi/2016/236) (W. 88).
 
-[^key-f8e48a34dd14704297c8f597ca62ec13]: Textual amendment: [Reg. 10(a)](https://www.legislation.gov.uk/wsi/2018/766/regulation/10/a) omitted (1.9.2022) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [15(2)](https://www.legislation.gov.uk/wsi/2022/679/regulation/15/2)
+[^c-f8e48a34dd14704297c8f597ca62ec13]: Textual amendment: [Reg. 10(a)](https://www.legislation.gov.uk/wsi/2018/766/regulation/10/a) omitted (1.9.2022) by virtue of [The Curriculum and Assessment (Wales) Act 2021 (Consequential Amendments) (Secondary Legislation) (No. 2) Regulations 2022 (S.I. 2022/679)](https://www.legislation.gov.uk/wsi/2022/679), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2022/679/regulation/1/3), [15(2)](https://www.legislation.gov.uk/wsi/2022/679/regulation/15/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Investigation powers: markets[^c2186736][^key-df6143f1a4dad7abb4fa24f6227e599e]
+## 36. Investigation powers: markets[^c2186736][^c-df6143f1a4dad7abb4fa24f6227e599e]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 [^c2186736]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2013/24/section/36) partly in force; [s. 36](https://www.legislation.gov.uk/ukpga/2013/24/section/36) in force for specified purposes at Royal Assent, see [s. 103(1)(i)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/1/i)
 
-[^key-df6143f1a4dad7abb4fa24f6227e599e]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2013/24/section/36) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-df6143f1a4dad7abb4fa24f6227e599e]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2013/24/section/36) in force at 1.4.2014 in so far as not already in force by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

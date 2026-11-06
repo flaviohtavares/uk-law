@@ -26,31 +26,31 @@ Section 82.
 
 #### Purpose of this Part of this Schedule
 
-**1.**[^key-659fbf366365ca783fbddfd30f93c2c7][^key-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-659fbf366365ca783fbddfd30f93c2c7][^c-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Application of this Part of this Schedule
 
-**2.**[^key-659fbf366365ca783fbddfd30f93c2c7][^key-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-659fbf366365ca783fbddfd30f93c2c7][^c-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The conditions
 
-**3.**[^key-659fbf366365ca783fbddfd30f93c2c7][^key-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-659fbf366365ca783fbddfd30f93c2c7][^c-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The arrangements and circumstances in paragraph 3(5)
 
-**4.**[^key-659fbf366365ca783fbddfd30f93c2c7][^key-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-659fbf366365ca783fbddfd30f93c2c7][^c-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Current lessor to be taxed by reference to accountancy rental earnings
 
-**5.**[^key-659fbf366365ca783fbddfd30f93c2c7][^key-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-659fbf366365ca783fbddfd30f93c2c7][^c-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Reduction of taxable rent by certain excesses
 
-**6.**[^key-659fbf366365ca783fbddfd30f93c2c7][^key-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-659fbf366365ca783fbddfd30f93c2c7][^c-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Assignments on which neither a gain nor a loss accrues
 
-**7.**[^key-659fbf366365ca783fbddfd30f93c2c7][^key-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-659fbf366365ca783fbddfd30f93c2c7][^c-25fa67642f994a56c7e39d0f6db3b899] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Relief for bad debts etc: corporation tax under Schedule A
 
@@ -108,57 +108,57 @@ no amount shall be deductible under sub-paragraph (4) above in respect of that a
 
 #### Relief for bad debts etc: cumulative accountancy rental excess
 
-**9.**[^key-0f2e02238fa3ea2b91ce8537eadadb42][^key-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-0f2e02238fa3ea2b91ce8537eadadb42][^c-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Relief for bad debts etc: cumulative normal rental excess
 
-**10.**[^key-0f2e02238fa3ea2b91ce8537eadadb42][^key-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-0f2e02238fa3ea2b91ce8537eadadb42][^c-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Capital allowances
 
-**11.**[^key-0f2e02238fa3ea2b91ce8537eadadb42][^key-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-0f2e02238fa3ea2b91ce8537eadadb42][^c-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Chargeable gains
 
-**12.**[^key-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Existing schemes where this Part does not at first apply
 
-**13.**[^key-2da9e17985bae53849722ed1c0345e90][^key-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-2da9e17985bae53849722ed1c0345e90][^c-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### New schemes where this Part begins to apply after Part II has applied
 
-**14.**[^key-f66a35a5c4e682d3acbf862041f9d058][^key-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-f66a35a5c4e682d3acbf862041f9d058][^c-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part II — Other finance leases
 
 #### Purpose of this Part of this Schedule
 
-**15.**[^key-9f7c233c015cb96614af2772ab6525e2][^key-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-9f7c233c015cb96614af2772ab6525e2][^c-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Application of this Part of this Schedule
 
-**16.**[^key-9f7c233c015cb96614af2772ab6525e2][^key-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-9f7c233c015cb96614af2772ab6525e2][^c-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Application of provisions of Part I for purposes of Part II
 
-**17.**[^key-9f7c233c015cb96614af2772ab6525e2][^key-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-9f7c233c015cb96614af2772ab6525e2][^c-5a54705637ff0e33e548fd5787d35389] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part III — Insurance companies
 
 #### Accounting purposes
 
-**18.**[^key-4d7525f56bb630908fbdd5ffb82cf6cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-4d7525f56bb630908fbdd5ffb82cf6cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Companies carrying on life assurance business
 
-**19.** (1)[^key-ee96ef8a5a79def3f012dbc2db58d33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.** (1)[^c-ee96ef8a5a79def3f012dbc2db58d33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-ee96ef8a5a79def3f012dbc2db58d33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ee96ef8a5a79def3f012dbc2db58d33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-ee96ef8a5a79def3f012dbc2db58d33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-ee96ef8a5a79def3f012dbc2db58d33a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-0346123defc5a03b36549fe6632aaf45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0346123defc5a03b36549fe6632aaf45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5)[^c14710781] In this paragraph “life assurance business” has the same meaning as in Chapter I of Part XII of the Taxes Act 1988.
 
@@ -166,53 +166,53 @@ no amount shall be deductible under sub-paragraph (4) above in respect of that a
 
 #### Normal rent
 
-**20.**[^key-654f949a0feeb5022bb5414eb979943a][^key-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-654f949a0feeb5022bb5414eb979943a][^c-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Accountancy rental earnings
 
-**21.**[^key-654f949a0feeb5022bb5414eb979943a][^key-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-654f949a0feeb5022bb5414eb979943a][^c-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Rental earnings
 
-**22.**[^key-654f949a0feeb5022bb5414eb979943a][^key-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-654f949a0feeb5022bb5414eb979943a][^c-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Periods of account which straddle 26th November 1996
 
-**23.**[^key-654f949a0feeb5022bb5414eb979943a][^key-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-654f949a0feeb5022bb5414eb979943a][^c-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Time apportionment where periods do not coincide
 
-**24.**[^key-654f949a0feeb5022bb5414eb979943a][^key-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-654f949a0feeb5022bb5414eb979943a][^c-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Connected persons
 
-**25.**[^key-654f949a0feeb5022bb5414eb979943a][^key-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**25.**[^c-654f949a0feeb5022bb5414eb979943a][^c-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Assets which represent the leased asset
 
-**26.**[^key-654f949a0feeb5022bb5414eb979943a][^key-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-654f949a0feeb5022bb5414eb979943a][^c-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Existing schemes and new schemes
 
-**27.**[^key-654f949a0feeb5022bb5414eb979943a][^key-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**27.**[^c-654f949a0feeb5022bb5414eb979943a][^c-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Accounting purposes and normal accountancy practice
 
-**28.**[^key-654f949a0feeb5022bb5414eb979943a][^key-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-654f949a0feeb5022bb5414eb979943a][^c-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Assessments and adjustments
 
-**29.**[^key-654f949a0feeb5022bb5414eb979943a][^key-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-654f949a0feeb5022bb5414eb979943a][^c-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Interpretation
 
-**30.**[^key-654f949a0feeb5022bb5414eb979943a][^key-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**30.**[^c-654f949a0feeb5022bb5414eb979943a][^c-8febd68e2b27ad2cca5e1d0e4ade5af5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-659fbf366365ca783fbddfd30f93c2c7]: Textual amendment: Sch. 12 paras. 1-7 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 296(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 1 para. 296(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-659fbf366365ca783fbddfd30f93c2c7]: Textual amendment: Sch. 12 paras. 1-7 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 296(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 1 para. 296(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-25fa67642f994a56c7e39d0f6db3b899]: Textual amendment: Sch. 12 paras. 1-7 repealed (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 232(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/232/3), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-25fa67642f994a56c7e39d0f6db3b899]: Textual amendment: Sch. 12 paras. 1-7 repealed (with effect in accordance with [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 232(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/232/3), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
 [^c14710361]: Textual amendment: Sch. 12 para. 8 repealed (31.7.1998 with effect in accordance with [s. 38(2)(3)](https://www.legislation.gov.uk/ukpga/1998/36/section/38/2/3) of the amending Act) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. III(4)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/III/4) note
 
@@ -224,24 +224,24 @@ no amount shall be deductible under sub-paragraph (4) above in respect of that a
 
 [^c14710461]: Modification: Sch. 12 para. 8(9) excluded (31.7.1998) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 38(1) Sch. 5 para. 74(1)(2)](https://www.legislation.gov.uk/ukpga/1998/36/section/38/1/schedule/5/paragraph/74/1/2)
 
-[^key-0f2e02238fa3ea2b91ce8537eadadb42]: Textual amendment: Sch. 12 paras. 9-11 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 296(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 1 para. 296(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-0f2e02238fa3ea2b91ce8537eadadb42]: Textual amendment: Sch. 12 paras. 9-11 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 296(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 1 para. 296(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-5a54705637ff0e33e548fd5787d35389]: Textual amendment: Sch. 12 paras. 9-17 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 232(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/232/3), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-5a54705637ff0e33e548fd5787d35389]: Textual amendment: Sch. 12 paras. 9-17 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 232(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/232/3), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
 
-[^key-2da9e17985bae53849722ed1c0345e90]: Textual amendment: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/1997/16/schedule/12/paragraph/13) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 296(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 1 para. 296(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-2da9e17985bae53849722ed1c0345e90]: Textual amendment: [Sch. 12 para. 13](https://www.legislation.gov.uk/ukpga/1997/16/schedule/12/paragraph/13) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 296(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 1 para. 296(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-f66a35a5c4e682d3acbf862041f9d058]: Textual amendment: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/1997/16/schedule/12/paragraph/14) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 296(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 1 para. 296(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-f66a35a5c4e682d3acbf862041f9d058]: Textual amendment: [Sch. 12 para. 14](https://www.legislation.gov.uk/ukpga/1997/16/schedule/12/paragraph/14) repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 296(2)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/2), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 1 para. 296(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-9f7c233c015cb96614af2772ab6525e2]: Textual amendment: Sch. 12 paras. 15-17 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 296(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/3), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 1 para. 296(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-9f7c233c015cb96614af2772ab6525e2]: Textual amendment: Sch. 12 paras. 15-17 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 296(3)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/3), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 1 para. 296(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-4d7525f56bb630908fbdd5ffb82cf6cb]: Textual amendment: Sch. 12 para. 18 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 16(6)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/16/6), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-4d7525f56bb630908fbdd5ffb82cf6cb]: Textual amendment: Sch. 12 para. 18 repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 16(6)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/16/6), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
 
-[^key-ee96ef8a5a79def3f012dbc2db58d33a]: Textual amendment: Sch. 12 para. 19(1)-(3) repealed (with effect in accordance with Sch. 10 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 4(4)(c)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/4/4/c), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
+[^c-ee96ef8a5a79def3f012dbc2db58d33a]: Textual amendment: Sch. 12 para. 19(1)-(3) repealed (with effect in accordance with Sch. 10 para. 17(2) of the amending Act) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 10 para. 4(4)(c)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/10/paragraph/4/4/c), [Sch. 27 Pt. 2(10)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/10)
 
-[^key-0346123defc5a03b36549fe6632aaf45]: Textual amendment: Sch. 12 para. 19(4) omitted (with effect in accordance with Sch. 17 para. 17(12) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 17(11)(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/17/11/d)
+[^c-0346123defc5a03b36549fe6632aaf45]: Textual amendment: Sch. 12 para. 19(4) omitted (with effect in accordance with Sch. 17 para. 17(12) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 17 para. 17(11)(d)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/17/paragraph/17/11/d)
 
 [^c14710781]: Textual amendment: Sch. 12 para. 19(5) added (23.3.1999) by [S.I. 1999/498](https://www.legislation.gov.uk/uksi/1999/498), [reg. 16(2)](https://www.legislation.gov.uk/uksi/1999/498/regulation/16/2)
 
-[^key-654f949a0feeb5022bb5414eb979943a]: Textual amendment: Sch. 12 paras. 20-30 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 296(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 1 para. 296(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-654f949a0feeb5022bb5414eb979943a]: Textual amendment: Sch. 12 paras. 20-30 repealed (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 296(4)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/4), [Sch. 3 Pt. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/3/part/2) (with [Sch. 1 para. 296(5)](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/296/5), [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
 
-[^key-8febd68e2b27ad2cca5e1d0e4ade5af5]: Textual amendment: Sch. 12 paras. 20-30 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 232(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/232/3), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-8febd68e2b27ad2cca5e1d0e4ade5af5]: Textual amendment: Sch. 12 paras. 20-30 repealed (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 232(3)](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/232/3), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2010/8/schedule/10/part/8) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

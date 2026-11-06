@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 393A. Close investment-holding companies[^key-f294fa809180bec1637681711973a7e4]
+## 393A. Close investment-holding companies[^c-f294fa809180bec1637681711973a7e4]
 
 *Extent: E+W+S+N.I.*
 
@@ -71,6 +71,6 @@ There is an exception to this rule in subsection (5).
 
 ## Annotations
 
-[^key-f294fa809180bec1637681711973a7e4]: Textual amendment: S. 393A inserted (with effect in accordance with s. 13(5) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/13/3)
+[^c-f294fa809180bec1637681711973a7e4]: Textual amendment: S. 393A inserted (with effect in accordance with s. 13(5) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 13(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/13/3)
 
 [^M_F_e9873316-5523-4a94-ffd0-f894b8131c42]: Textual amendment: Words in s. 393A(7) omitted (31.12.2020) by virtue of [The Taxes (Amendments) (EU Exit) Regulations 2019 (S.I. 2019/689)](https://www.legislation.gov.uk/uksi/2019/689), [regs. 1](https://www.legislation.gov.uk/uksi/2019/689/regulation/1), [15(4)](https://www.legislation.gov.uk/uksi/2019/689/regulation/15/4) (with [regs. 39-41](https://www.legislation.gov.uk/uksi/2019/689/regulation/39)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

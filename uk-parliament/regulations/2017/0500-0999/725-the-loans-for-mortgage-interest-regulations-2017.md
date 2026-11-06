@@ -56,7 +56,7 @@ This instrument contains only regulations made under, by virtue of, or consequen
 (1) In these Regulations—
 
 - “the Act” means the Welfare Reform and Work Act 2016;
-- “alternative finance arrangements” has the meaning given in paragraph 5(4) of Schedule 1 to these Regulations;[^key-b05ea1dce407a3fc99bf4820df0db2cf]
+- “alternative finance arrangements” has the meaning given in paragraph 5(4) of Schedule 1 to these Regulations;[^c-b05ea1dce407a3fc99bf4820df0db2cf]
 - “alternative finance payments” has the meaning given in paragraph 5(3) of Schedule 1 to these Regulations;
 - “applicable amount” means—
   - (a) in the case of employment and support allowance, the claimant’s weekly applicable amount under regulations 67 to 70 of the ESA Regulations[^f00008];
@@ -76,7 +76,7 @@ This instrument contains only regulations made under, by virtue of, or consequen
 - “claimant” means a single claimant or each of joint claimants;
 - “Claims and Payment Regulations” means the Social Security (Claims and Payments) Regulations 1987[^f00019];
 - “close relative” means a parent, parent-in-law, son, son-in-law, daughter, daughter-in-law, step-parent, step-son, step-daughter, brother, sister, or, if any of the preceding persons is one member of a couple, the other member of that couple;
-- “conveyancer” means—[^key-88b05124364a432ddc18017945cf9ed7]
+- “conveyancer” means—[^c-88b05124364a432ddc18017945cf9ed7]
   - (a) in England and Wales, a conveyancer within the meaning of rule 217A of the Land Registration Rules 2003;
   - (b) in Scotland, a solicitor or advocate within the meaning of section 65 of the Solicitors (Scotland) Act 1980, or a conveyancing practitioner as defined in section 23 of the Law Reform (Miscellaneous Provisions) (Scotland) Act 1990;
 - “couple” means—
@@ -101,7 +101,7 @@ This instrument contains only regulations made under, by virtue of, or consequen
   - (c) in the case of jobseeker’s allowance, Part 8 of the JSA Regulations;
   - (d) in the case of state pension credit, Part 3 of the SPC Regulations;
 - “IS Regulations” means the Income Support (General) Regulations 1987[^f00027];
-- “joint claimants”—[^key-5ae99f5ef30e03883e3c5b0d836330de]
+- “joint claimants”—[^c-5ae99f5ef30e03883e3c5b0d836330de]
   - (a) in the case of jobseeker’s allowance means—
     - (i) members of a joint-claim couple who have jointly made a claim for, and are entitled to, income-based jobseeker’s allowance; or
     - (ii) members of a joint-claim couple who have made a claim for, but are not entitled to, such a benefit by reason only that they have income—
@@ -111,7 +111,7 @@ This instrument contains only regulations made under, by virtue of, or consequen
 - “joint-claim couple” has the meaning in section 1(4) of the Jobseekers Act 1995;
 - “JSA Regulations” means the Jobseeker’s Allowance Regulations 1996[^f00028];
 - “legacy benefit” means income-related employment and support allowance, income support or income-based jobseeker’s allowance;
-- “legacy benefit claimant” means a claimant who is entitled to, or is treated as entitled to,[^key-f207d5d4aca6488f7caa3e36b7785706] a legacy benefit;
+- “legacy benefit claimant” means a claimant who is entitled to, or is treated as entitled to,[^c-f207d5d4aca6488f7caa3e36b7785706] a legacy benefit;
 - “legal estate” means any of the legal estates set out in section 1(1) of the Law of Property Act 1925[^f00029];
 - “legal owner” means the owner, whether alone or with others, of a legal estate or, in Scotland, a heritable or registered interest, in the relevant accommodation;
 - “loan agreement” means an agreement entered into by a single claimant and his or her partner (if any), or each joint claimant, and the Secretary of State, which sets out the terms and conditions upon which the loan payments are made to the claimant;
@@ -138,7 +138,7 @@ This instrument contains only regulations made under, by virtue of, or consequen
   - (a) in the case of a legacy benefit or state pension credit, a loan which qualifies under paragraph 2(2) or (4) of Schedule 1 to these Regulations;
   - (b) in the case of universal credit, a loan which qualifies under paragraph 5(2) of Schedule 1 to these Regulations;
 - “qualifying period” means a period of—
-  - (a) three[^key-1122075af49057b49d84204698572413] consecutive assessment periods in which a claimant has been entitled to universal credit;
+  - (a) three[^c-1122075af49057b49d84204698572413] consecutive assessment periods in which a claimant has been entitled to universal credit;
   - (b) 39 consecutive weeks in which a claimant—
     - (i) has been entitled to a legacy benefit; or
     - (ii) is treated as having been entitled to such a benefit under —
@@ -151,16 +151,16 @@ This instrument contains only regulations made under, by virtue of, or consequen
   - (c) in the case of universal credit, in regulation 5 of the UC Regulations;
 - “relevant accommodation” means the accommodation which the claimant occupies, or is treated as occupying, as the claimant’s home under Schedule 3;
 - “relevant date”, apart from in regulation 21, means the first day with respect to which a claimant’s liability to make owner-occupier payments is met by a loan payment;
-- “single claimant” means—[^key-10a78266f65c18873237255d195667e0]
+- “single claimant” means—[^c-10a78266f65c18873237255d195667e0]
   - (a) an individual who has made a claim for, and is entitled to, a qualifying benefit;
   - (b) an individual who has made a claim for, but is not entitled to, a legacy benefit or state pension credit by reason only that the individual has, or, if the individual is a member of a couple, they have, income—
     - (i) equal to or exceeding the applicable amount, but
     - (ii) less than the sum of that applicable amount and the amount of a loan payment applicable to the individual;
 - “single person” means an individual who is not a member of a couple;
-- “SPC claimant” means a claimant who is entitled to, or is treated as entitled to,[^key-41f7f1f3d792aff695ef37830c7cb7ab] state pension credit;
+- “SPC claimant” means a claimant who is entitled to, or is treated as entitled to,[^c-41f7f1f3d792aff695ef37830c7cb7ab] state pension credit;
 - “SPC Regulations” means the State Pension Credit Regulations 2002[^f00041];
 - “standard security” has the meaning in Part 2 of the Conveyancing and Feudal Reform (Scotland) Act 1970[^f00042];
-- “transitional end day” has the meaning given in regulations 19(1), 19A(1) and (5)[^key-4746e861e29da994b843f317cd4c0662] and 20(2);
+- “transitional end day” has the meaning given in regulations 19(1), 19A(1) and (5)[^c-4746e861e29da994b843f317cd4c0662] and 20(2);
 - “Transitional Provisions Regulations” means the Universal Credit (Transitional Provisions) Regulations 2014[^f00043];
 - “UC claimant” means a claimant who is entitled to universal credit;
 - “UC Regulations” means the Universal Credit Regulations 2013[^f00044]; and
@@ -169,7 +169,7 @@ This instrument contains only regulations made under, by virtue of, or consequen
 (2) For the purposes of these Regulations, a reference to—
 
 - (a) entitlement to a qualifying benefit is to be read as a reference to entitlement as determined under the ESA Regulations, IS Regulations, JSA Regulations, SPC Regulations and UC Regulations;
-- (aa)[^key-8b58f362202aca14e48faf3aeef944a1] a person being treated as entitled to a qualifying benefit is to be read as a reference to a person who satisfies sub-paragraph (a)(ii) of the definition of “joint claimants” or sub-paragraph (b) of the definition of “single claimant”, except in the definition of “qualifying period”, regulation 21(5)(b) and paragraph 3 of Schedule 1;
+- (aa)[^c-8b58f362202aca14e48faf3aeef944a1] a person being treated as entitled to a qualifying benefit is to be read as a reference to a person who satisfies sub-paragraph (a)(ii) of the definition of “joint claimants” or sub-paragraph (b) of the definition of “single claimant”, except in the definition of “qualifying period”, regulation 21(5)(b) and paragraph 3 of Schedule 1;
 - (b) the claimant’s family or to being a member of the claimant’s family means a reference to the claimant’s partner and any child or qualifying young person who is the responsibility of the claimant or the claimant’s partner, where that child or qualifying young person is a member of the claimant’s household;
 - (c) a person being responsible for a child or qualifying young person is to be read as a reference to a person being treated as responsible for a child or qualifying young person in the circumstances specified in—
   - (i) in the case of employment and support allowance, regulation 156(10) of the ESA Regulations[^f00045];
@@ -189,7 +189,7 @@ This instrument contains only regulations made under, by virtue of, or consequen
 
 ## 3. The offer of loan payments
 
-(1) The Secretary of State may make an offer of loan payments to a claimant in respect of any owner-occupier payments the claimant is, or is to be treated as, liable to make in respect of the accommodation which the claimant is, or is to be treated as, occupying as the claimant’s home[^key-cf4b90daa703c72fcd84a5ffeb823f0e]....
+(1) The Secretary of State may make an offer of loan payments to a claimant in respect of any owner-occupier payments the claimant is, or is to be treated as, liable to make in respect of the accommodation which the claimant is, or is to be treated as, occupying as the claimant’s home[^c-cf4b90daa703c72fcd84a5ffeb823f0e]....
 
 (2) For the purposes of paragraph (1)—
 
@@ -205,7 +205,7 @@ This instrument contains only regulations made under, by virtue of, or consequen
 
 (3) Where the liability for owner-occupier payments is shared with a person not in the benefit unit, the claimant shall be, or shall be treated as, liable to make owner-occupier payments by reference to the appropriate proportion of the payments for which the claimant is responsible.
 
-(4)[^key-852919337728908d379e5ae120ebe3ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-852919337728908d379e5ae120ebe3ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 4. Acceptance of loan payments offer
 
@@ -245,23 +245,23 @@ The offer of loan payments is accepted where the Secretary of State has received
 Each loan payment shall be made—
 
 - (a) in the case of a UC claimant, at monthly intervals in arrears; and
-- (b)[^key-dac04a145d9081e4f6a138540cba58a0] in the case of a legacy benefit claimant or SPC claimant, at 4 weekly intervals in arrears.
+- (b)[^c-dac04a145d9081e4f6a138540cba58a0] in the case of a legacy benefit claimant or SPC claimant, at 4 weekly intervals in arrears.
 
 ## 8. Period covered by loan payments
 
 (1) The period in respect of which the loan payments shall be made shall begin on the later of—
 
 - (a) 6th April 2018;
-- (b) in the case of a UC claimant or legacy benefit claimant, , except where sub-paragraph (ba) or (bb) applies,[^key-f30816e79cf40c95eb53ff474f34295e] the day after the day on which the qualifying period ends;
-- (ba)[^key-5e58ed77e23e0e9b5f5a6c364d84938f] in the case of a couple where one member is an SPC claimant receiving loan payments, the first day of entitlement to universal credit as a couple;
+- (b) in the case of a UC claimant or legacy benefit claimant, , except where sub-paragraph (ba) or (bb) applies,[^c-f30816e79cf40c95eb53ff474f34295e] the day after the day on which the qualifying period ends;
+- (ba)[^c-5e58ed77e23e0e9b5f5a6c364d84938f] in the case of a couple where one member is an SPC claimant receiving loan payments, the first day of entitlement to universal credit as a couple;
 - (bb) in the case of a couple where one member was formerly an SPC claimant receiving loan payments, the first day of entitlement to universal credit as a couple, if the first day of that entitlement is within the period of one month beginning with the day on which the entitlement to state pension credit ended;
-- (c)[^key-5ed81daa1feb8fdf495ed77375291b06] in the case of an SPC claimant (who is not in a couple)[^key-db8fe8380b4663149fafbbf82aac4fa1], the first day of entitlement to state pension credit;
-- (d) the transitional end day;[^key-3b361010899a88b850517ba494181ce4]
+- (c)[^c-5ed81daa1feb8fdf495ed77375291b06] in the case of an SPC claimant (who is not in a couple)[^c-db8fe8380b4663149fafbbf82aac4fa1], the first day of entitlement to state pension credit;
+- (d) the transitional end day;[^c-3b361010899a88b850517ba494181ce4]
 - (e) a date requested by the claimant.
 
-(2)[^key-3ce5d4d229ec5c888af7516b27601d16] If the day referred to in sub-paragraphs (a), (b), (c) and (e) of paragraph (1)[^key-cbca6fe126374bbdd405163f3e372b4b] is not the first day of the claimant’s benefit week, in the case of a legacy benefit claimant or SPC claimant, or assessment period, in the case of a UC claimant, the day referred to shall be the first day of the first benefit week or first assessment period that begins after that date.
+(2)[^c-3ce5d4d229ec5c888af7516b27601d16] If the day referred to in sub-paragraphs (a), (b), (c) and (e) of paragraph (1)[^c-cbca6fe126374bbdd405163f3e372b4b] is not the first day of the claimant’s benefit week, in the case of a legacy benefit claimant or SPC claimant, or assessment period, in the case of a UC claimant, the day referred to shall be the first day of the first benefit week or first assessment period that begins after that date.
 
-(3)[^key-fc195898d88576ba77b46315506b6f8c] In this regulation, “**couple**” means a couple entitled to universal credit as joint claimants under regulation 3(2)(a) of the UC Regulations.
+(3)[^c-fc195898d88576ba77b46315506b6f8c] In this regulation, “**couple**” means a couple entitled to universal credit as joint claimants under regulation 3(2)(a) of the UC Regulations.
 
 ## 9. Duration of loan payments
 
@@ -271,11 +271,11 @@ Each loan payment shall be made—
 
 (3) The circumstances are that—
 
-- (a) the claimant ceases to be entitled to, or treated as entitled to,[^key-87d7b66fe093e7faff8c5c1978b9474b] a qualifying benefit;
+- (a) the claimant ceases to be entitled to, or treated as entitled to,[^c-87d7b66fe093e7faff8c5c1978b9474b] a qualifying benefit;
 - (b) the claimant ceases to be, or to be treated as, liable to make owner-occupier payments under Schedule 2;
 - (c) the claimant ceases to be, or to be treated as, occupying the relevant accommodation under Schedule 3;
 - (d) the loan agreement is terminated in accordance with its terms;
-- (e)[^key-d582697994ec00a98d361d57b4323415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-d582697994ec00a98d361d57b4323415] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The Secretary of State shall make the loan payments direct to the claimant for the period specified in paragraph (6) if—
 
@@ -291,13 +291,13 @@ Each loan payment shall be made—
 
 (6) The period specified is the period of 4 weeks commencing with the day on which the relevant person is first engaged in remunerative work.
 
-(7)[^key-4529927cd38e09bfdfb257f0d0a87f6e] If a legacy benefit claimant ceases to be entitled to, or treated as entitled to, a legacy benefit (“the old entitlement”) but becomes entitled, or treated as entitled, again to the benefit (“the new entitlement”) within the period of 52 weeks beginning with the day on which the claimant ceased to be entitled, or treated as entitled, to the old entitlement, and the claimant wishes to receive loan payments on the basis of the new entitlement, there is no requirement for the claimant to serve a new qualifying period.
+(7)[^c-4529927cd38e09bfdfb257f0d0a87f6e] If a legacy benefit claimant ceases to be entitled to, or treated as entitled to, a legacy benefit (“the old entitlement”) but becomes entitled, or treated as entitled, again to the benefit (“the new entitlement”) within the period of 52 weeks beginning with the day on which the claimant ceased to be entitled, or treated as entitled, to the old entitlement, and the claimant wishes to receive loan payments on the basis of the new entitlement, there is no requirement for the claimant to serve a new qualifying period.
 
 (8) If a UC claimant ceases to be entitled to universal credit (“the old entitlement”) but becomes entitled again to universal credit (“the new entitlement”) within the period of 6 months beginning with the day on which the claimant ceased to be entitled to the old entitlement, and the claimant wishes to receive loan payments on the basis of the new entitlement, there is no requirement for the claimant to serve a new qualifying period.
 
 ## 10. Calculation of each loan payment
 
-Subject to any deduction under regulation 14 or 14A[^key-d56abdebf9f16eb1e4a9d48c55e36224], each loan payment shall be the aggregate of the amounts resulting from regulations 11 and 12.
+Subject to any deduction under regulation 14 or 14A[^c-d56abdebf9f16eb1e4a9d48c55e36224], each loan payment shall be the aggregate of the amounts resulting from regulations 11 and 12.
 
 ## 11. Calculation in respect of qualifying loans
 
@@ -409,7 +409,7 @@ The result is the amount to be included in each loan payment for owner-occupier 
 - (a) on the first anniversary of the relevant date; and
 - (b) in respect of any variation after the first anniversary, on the next anniversary which follows the date of the variation.
 
-(5) In respect of an existing claimant, the Secretary of State shall recalculate the amount for the time being owing in connection with alternative finance arrangements[^key-107f5c717bbee9c763c1b6ee2d4ec1b3] on the anniversary of the date on which the claimant’s qualifying benefit first included an amount for owner-occupier payments.
+(5) In respect of an existing claimant, the Secretary of State shall recalculate the amount for the time being owing in connection with alternative finance arrangements[^c-107f5c717bbee9c763c1b6ee2d4ec1b3] on the anniversary of the date on which the claimant’s qualifying benefit first included an amount for owner-occupier payments.
 
 ## 13. Standard rate to be applied under regulations 11 and 12
 
@@ -471,7 +471,7 @@ where—
 
 The result is the amount of the non-dependant deduction to be made from each loan payment in the case of a legacy benefit claimant or SPC claimant.
 
-## 14A. Insurance payment deduction[^key-f8be72b6a274d0ec2b4b923705949345]
+## 14A. Insurance payment deduction[^c-f8be72b6a274d0ec2b4b923705949345]
 
 (1) In the case of a legacy benefit claimant or UC claimant, where the claimant or the claimant’s partner is in receipt of a payment under a policy of insurance taken out to insure against the risk of being unable to maintain owner-occupier payments within the meaning of Schedule 1, a deduction from the loan payment calculated under regulation 10 shall be made equal to the amount received in respect of owner-occupier payments.
 
@@ -482,10 +482,10 @@ The result is the amount of the non-dependant deduction to be made from each loa
 (1) The Secretary of State shall charge interest on the sum of the loan payments until the earlier of—
 
 - (a) the day on which the loan payments and accrued interest are repaid in full;
-- (b) the event referred to in regulation 16(1)(c);[^key-356901ffb300ca317d9160bd65888845]
+- (b) the event referred to in regulation 16(1)(c);[^c-356901ffb300ca317d9160bd65888845]
 - (c) where the conditions in paragraph (1A) are met, the day on which the Secretary of State sends a completion statement to the claimant.
 
-(1A)[^key-3c85c3f1531bd7e613b2e4ec07c3b2f1] The conditions are—
+(1A)[^c-3c85c3f1531bd7e613b2e4ec07c3b2f1] The conditions are—
 
 - (a) the claimant requests a completion statement from the Secretary of State in order to repay all of the outstanding amount in accordance with regulation 16(8) and (9); and
 - (b) the outstanding amount is paid within 30 days beginning with the day on which the completion statement is sent by the Secretary of State to the claimant.
@@ -496,9 +496,9 @@ The result is the amount of the non-dependant deduction to be made from each loa
 
 (3) The relevant rate is the interest rate for the relevant period.
 
-(4) For the purposes of this regulation and regulations 16 and 16A[^key-d4e648cbf3209874fbde52d541704bc7], the outstanding amount is the sum of the loan payments and interest which has been charged under paragraph (1).
+(4) For the purposes of this regulation and regulations 16 and 16A[^c-d4e648cbf3209874fbde52d541704bc7], the outstanding amount is the sum of the loan payments and interest which has been charged under paragraph (1).
 
-(4A)[^key-fde95784ed1f250b95640af74fc49420] For the purposes of this regulation, a “completion statement” means a written statement setting out the outstanding amount owed by the claimant to the Secretary of State.
+(4A)[^c-fde95784ed1f250b95640af74fc49420] For the purposes of this regulation, a “completion statement” means a written statement setting out the outstanding amount owed by the claimant to the Secretary of State.
 
 (5) The interest rate referred to in paragraph (3) is the weighted average interest rate on conventional gilts specified in the most recent report published before the start of the relevant period by the Office for Budget Responsibility under section 4(3) of the Budget Responsibility and National Audit Act 2011[^f00065].
 
@@ -509,11 +509,11 @@ The result is the amount of the non-dependant deduction to be made from each loa
 
 ## 16. Repayment
 
-(1) Subject to regulation 16A, the outstanding amount[^key-90b04fed5a0288860eb63dc9ebc5c537] shall become immediately due and payable, together with any further interest which accrues on that amount under regulation 15, where one of the following events occurs—
+(1) Subject to regulation 16A, the outstanding amount[^c-90b04fed5a0288860eb63dc9ebc5c537] shall become immediately due and payable, together with any further interest which accrues on that amount under regulation 15, where one of the following events occurs—
 
 - (a) the relevant accommodation is sold;
 - (b) legal or beneficial title in, or in Scotland, heritable or registered title to, the relevant accommodation is transferred, assigned or otherwise disposed of, unless paragraph (3) applies;
-- (c)[^key-1167f8eb88dac047d3da508e332a5faf] in the case of—
+- (c)[^c-1167f8eb88dac047d3da508e332a5faf] in the case of—
   - (i) a claimant who is the sole legal owner of the relevant accommodation or the legal owner of the accommodation with someone other than a partner, the claimant’s death;
   - (ii) a claimant with a partner who is the sole legal owner of the relevant accommodation or the legal owner of the accommodation with someone other than the claimant, the partner’s death; or
   - (iii) a claimant and partner who are both legal owners (whether or not with anyone else) of the relevant accommodation, the death of the last member of the couple.
@@ -526,7 +526,7 @@ The result is the amount of the non-dependant deduction to be made from each loa
 (3) This paragraph applies where legal or beneficial title is transferred to—
 
 - (a) the claimant’s partner, following the death of the claimant, where the partner is in occupation of the relevant accommodation; or
-- (aa)[^key-f77bdbe2eee4f71a7e3f838914dfd996] the claimant, following the death of the claimant’s partner, where the claimant is in occupation of the relevant accommodation; or
+- (aa)[^c-f77bdbe2eee4f71a7e3f838914dfd996] the claimant, following the death of the claimant’s partner, where the claimant is in occupation of the relevant accommodation; or
 - (b) the claimant, from a former spouse or civil partner, under a court order or an agreement for maintenance where the claimant is in occupation of the relevant accommodation.
 
 (4) Where, in England and Wales—
@@ -554,7 +554,7 @@ repayment shall be limited to the amount of available equity in the whole or par
 
 (9) Where the outstanding amount is less than £100, a claimant shall be permitted to repay that sum in full in one repayment.
 
-## 16A. Transferring the loan between properties[^key-239766d7ff9f933b4aa2dd006f0409f6]
+## 16A. Transferring the loan between properties[^c-239766d7ff9f933b4aa2dd006f0409f6]
 
 (1) Subject to paragraph (6), where the conditions in paragraphs (2) and (3) are met, regulation 16 (repayment) applies in relation to the new property referred to in paragraph (2) instead of in relation to the relevant accommodation (“Property 1”).
 
@@ -598,7 +598,7 @@ repayment shall be limited to the amount of available equity in the whole or par
 
 (4) Schedule 4 has effect in relation to payments made under paragraph (1).
 
-## 18. Consequential amendments[^key-4d725b609af577b797662a72cd55be32]
+## 18. Consequential amendments[^c-4d725b609af577b797662a72cd55be32]
 
 **May not be in force at this date. Check the source.**
 
@@ -608,7 +608,7 @@ repayment shall be limited to the amount of available equity in the whole or par
 
 (3) In this regulation, the “substantive regulations” means the ESA Regulations, IS Regulations, JSA Regulations, SPC Regulations and UC Regulations.
 
-## 19. Transitional provision: loan offer made before 6th April 2018[^key-ba31efa918aa3f0f6cf66b3bea7617ef]
+## 19. Transitional provision: loan offer made before 6th April 2018[^c-ba31efa918aa3f0f6cf66b3bea7617ef]
 
 **May not be in force at this date. Check the source.**
 
@@ -726,8 +726,8 @@ repayment shall be limited to the amount of available equity in the whole or par
 (1) Paragraph (3) applies where—
 
 - (a) an award of universal credit is made to a claimant who—
-  - (i) was entitled to, or was treated as entitled to,[^key-f990d83f42c063ab1aa9ea68599ab1bb] a legacy benefit (a “relevant award”) at any time during the period of one month ending with the day on which the claim for universal credit was made or treated as made (or would have been so entitled were it not for termination of that award by virtue of an order made under section 150(3) of the Welfare Reform Act 2012[^f00070] or the effect of the Transitional Provisions Regulations [^f00071]); or
-  - (ii) was at any time during the period of one month ending with the day on which the claim for universal credit was made or treated as made, the partner of a person (“P”) who was at that time entitled to, or treated as entitled to,[^key-444e83f4a28312d058ceddc0d70fafeb] a relevant award, where the award of universal credit is not a joint award to the claimant and P;
+  - (i) was entitled to, or was treated as entitled to,[^c-f990d83f42c063ab1aa9ea68599ab1bb] a legacy benefit (a “relevant award”) at any time during the period of one month ending with the day on which the claim for universal credit was made or treated as made (or would have been so entitled were it not for termination of that award by virtue of an order made under section 150(3) of the Welfare Reform Act 2012[^f00070] or the effect of the Transitional Provisions Regulations [^f00071]); or
+  - (ii) was at any time during the period of one month ending with the day on which the claim for universal credit was made or treated as made, the partner of a person (“P”) who was at that time entitled to, or treated as entitled to,[^c-444e83f4a28312d058ceddc0d70fafeb] a relevant award, where the award of universal credit is not a joint award to the claimant and P;
 - (b) on the relevant date—
   - (i) the relevant award included an amount in respect of housing costs under—
     - (aa) paragraphs 14 to 16 of Schedule 2 to the JSA Regulations[^f00072];
@@ -738,9 +738,9 @@ repayment shall be limited to the amount of available equity in the whole or par
 
 (2) In this regulation, the “relevant date” means—
 
-- (a) where paragraph (1)(a)(i) applies and the claimant was not entitled to, or treated as entitled to,[^key-442dda13b1f10a186fee9420e3f0809c] the relevant award on the date on which the claim for universal credit was made or treated as made, the date on which the relevant award terminated;
-- (b) where paragraph (1)(a)(i) applies, the claimant is not a new claimant partner and he or she was entitled to, or treated as entitled to,[^key-bc6873c9322d564e7661b0ee439e22e9] the relevant award on the date on which the claim for universal credit was made, that date;
-- (c) where paragraph (1)(a)(i) applies, the claimant is a new claimant partner and he or she was entitled to, or treated as entitled to,[^key-1ba139f62cc4b656920c14ae4cc2cc27] the relevant award on the date on which the claim for universal credit was treated as made, that date;
+- (a) where paragraph (1)(a)(i) applies and the claimant was not entitled to, or treated as entitled to,[^c-442dda13b1f10a186fee9420e3f0809c] the relevant award on the date on which the claim for universal credit was made or treated as made, the date on which the relevant award terminated;
+- (b) where paragraph (1)(a)(i) applies, the claimant is not a new claimant partner and he or she was entitled to, or treated as entitled to,[^c-bc6873c9322d564e7661b0ee439e22e9] the relevant award on the date on which the claim for universal credit was made, that date;
+- (c) where paragraph (1)(a)(i) applies, the claimant is a new claimant partner and he or she was entitled to, or treated as entitled to,[^c-1ba139f62cc4b656920c14ae4cc2cc27] the relevant award on the date on which the claim for universal credit was treated as made, that date;
 - (d) where paragraph (1)(a)(ii) applies, the date on which the claimant ceased to be the partner of P or, if earlier, the date on which the relevant award terminated.
 
 (3) Where this paragraph applies, regulation 8(1)(b) does not apply.
@@ -859,7 +859,7 @@ then the amount of the loan to which sub-paragraph (1) applies is the amount (if
 
 (5) Loans taken out during the relevant period shall qualify as loans under paragraph 2(2) or (4), where a claimant satisfies any of the conditions specified in sub-paragraphs (6), (8) and (9), but—
 
-- (a) where the claimant satisfies the condition in sub-paragraph (6), the amount of each loan payment calculated under regulation 10[^key-3b6878ded915f65137486464442066db] shall be subject to the additional limitation imposed by sub-paragraph (7); and
+- (a) where the claimant satisfies the condition in sub-paragraph (6), the amount of each loan payment calculated under regulation 10[^c-3b6878ded915f65137486464442066db] shall be subject to the additional limitation imposed by sub-paragraph (7); and
 - (b) where the claimant satisfies the conditions in more than one of these sub-paragraphs, only one sub-paragraph shall apply in the claimant’s case, which shall be the one most favourable to the claimant.
 
 (6) The first condition is that—
@@ -870,7 +870,7 @@ then the amount of the loan to which sub-paragraph (1) applies is the amount (if
 (7) Where the condition in sub-paragraph (6) is satisfied, the amount of the loans which qualify shall initially not exceed the aggregate of—
 
 - (a) the housing benefit entitlement referred to in sub-paragraph (6)(b); and
-- (b) any amount included in the applicable amount of the claimant or a member of the claimant’s family relating to housing costs[^key-641be05560a47420c70c86bb9271150e] in that week,
+- (b) any amount included in the applicable amount of the claimant or a member of the claimant’s family relating to housing costs[^c-641be05560a47420c70c86bb9271150e] in that week,
 
 and shall be increased subsequently only to the extent that it is necessary to take account of any increase in the standard rate under regulation 13 arising after the date of acquisition.
 
@@ -955,7 +955,7 @@ This Part applies to UC claimants.
   - (i) has a liability to make the payments which is waived by the person (“P”) to whom the liability is owed; and
   - (ii) the waiver of that liability is by way of reasonable compensation for reasonable repair or re-decoration works carried out by the claimant to the relevant accommodation which P would otherwise have carried out or been required to carry out.
 
-(3) Sub-paragraph (1)[^key-487aa61dcae51c1234a725ce02892eee] does not apply to a person in a polygamous marriage who is a single claimant by virtue of regulation 3(4) of the UC Regulations[^f00085].
+(3) Sub-paragraph (1)[^c-487aa61dcae51c1234a725ce02892eee] does not apply to a person in a polygamous marriage who is a single claimant by virtue of regulation 3(4) of the UC Regulations[^f00085].
 
 #### 6. Treated as not liable to make payments
 
@@ -1209,15 +1209,15 @@ Regulation 17
 
 ### 1. Direct payments
 
-Each loan payment made to a qualifying lender directly under regulation 17(1) shall be the amount calculated under paragraph 2 [^key-9569e828c64718ff71e586f18d3f7643]... of this Schedule.
+Each loan payment made to a qualifying lender directly under regulation 17(1) shall be the amount calculated under paragraph 2 [^c-9569e828c64718ff71e586f18d3f7643]... of this Schedule.
 
-### 2. Determining the amount to be paid to a qualifying lender: one or more qualifying loans[^key-a64705de6b9d6631459e18cc38e44ceb]
+### 2. Determining the amount to be paid to a qualifying lender: one or more qualifying loans[^c-a64705de6b9d6631459e18cc38e44ceb]
 
 (1) Where one qualifying loan or alternative finance arrangement has been provided to a claimant by a qualifying lender, the amount that is to be paid direct to that lender is the amount of each loan payment.
 
 (2) Where more than one qualifying loan or alternative finance arrangement has been provided to a claimant by a qualifying lender, the amount that is to be paid direct to that lender is the amount of each loan payment in respect of each of those loans or alternative finance arrangements added together.
 
-### 3. Determining the amount to be paid to a qualifying lender: more than one qualifying loan[^key-c2d342c9edc6bd5fd47446d5780e4cbb]
+### 3. Determining the amount to be paid to a qualifying lender: more than one qualifying loan[^c-c2d342c9edc6bd5fd47446d5780e4cbb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1243,12 +1243,12 @@ the qualifying lender must apply the amount of excess in accordance with sub-par
 
 (3) Where owner-occupier payments on two or more qualifying loans or alternative finance arrangements are payable to the same qualifying lender, the lender must apply the amount of the excess as follows—
 
-- (a)[^key-71adba1a45f93ffd63a475d1e7221ec1] first, towards discharging the amount of any liability of the claimant for arrears of owner-occupier payments in respect of the qualifying loan or alternative finance arrangement in respect of which the excess amount was paid;
+- (a)[^c-71adba1a45f93ffd63a475d1e7221ec1] first, towards discharging the amount of any liability of the claimant for arrears of owner-occupier payments in respect of the qualifying loan or alternative finance arrangement in respect of which the excess amount was paid;
 - (b) if any amount of the excess is then remaining, towards discharging any liability of the claimant to repay—
   - (i) in respect of the loan or alternative finance arrangement referred to in paragraph (a), the principal sum or any other sum payable by the claimant to that lender; or
   - (ii) in respect of any other loan or alternative finance arrangement, any sum payable by the claimant to that lender where the liability to pay that sum is not already discharged.
 
-### 6. Fees payable by qualifying lenders[^key-e9cbd670839e80b10e26832f8b17e029]
+### 6. Fees payable by qualifying lenders[^c-e9cbd670839e80b10e26832f8b17e029]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1325,7 +1325,7 @@ in the circumstances specified in sub-paragraphs (2), (3) and (6).
 
 Regulation 18
 
-### PART 1 — General[^key-9fa2594d539e99520a242c3a1662742b]
+### PART 1 — General[^c-9fa2594d539e99520a242c3a1662742b]
 
 **1.** The ESA Regulations are amended as follows—
 
@@ -1371,7 +1371,7 @@ Regulation 18
     > (2A) Where a non-dependant deduction is being made under the Loans for Mortgage Interest Regulations 2017, the amount of the deduction under sub-paragraph (1) or (2) is to be reduced by an amount equal to that non-dependant deduction.
 
     ; and
-  - (xii) in paragraph 20, omit sub-paragraph (2);[^key-94c73d70384f8945f4b5b2dc0f563f57]
+  - (xii) in paragraph 20, omit sub-paragraph (2);[^c-94c73d70384f8945f4b5b2dc0f563f57]
 - (d) in Schedule 8 (sums to be disregarded in the calculation of income other than earnings)—
   - (i) for paragraph 31 substitute—
 
@@ -1497,7 +1497,7 @@ Regulation 18
     > (2A) Where a non-dependant deduction is being made under the Loans for Mortgage Interest Regulations 2017, the amount of the deduction under sub-paragraph (1) or (2) is to be reduced by an amount equal to that non-dependant deduction.
 
     ; and
-  - (xv) in paragraph 18, omit sub-paragraph (2);[^key-73598d30832f5140110954915d0090b6]
+  - (xv) in paragraph 18, omit sub-paragraph (2);[^c-73598d30832f5140110954915d0090b6]
 - (g) in Schedule 7 (sums to be disregarded in the calculation of income other than earnings)—
   - (i) for paragraph 30 substitute—
 
@@ -1582,7 +1582,7 @@ Regulation 18
 - (b) in paragraph (1)(b)(ii), for “paragraphs 16 to 18 of Schedule 6” substitute “paragraph 18 of Schedule 6”; and
 - (c) in paragraph (1)(b)(iii), for “paragraphs 15 to 17 of Schedule 3” substitute “paragraph 17 of Schedule 3”.
 
-**7.**[^key-e8d6dae6a53bbb8f9ade713afde336f1] (1) The Claims and Payment Regulations are amended as follows.
+**7.**[^c-e8d6dae6a53bbb8f9ade713afde336f1] (1) The Claims and Payment Regulations are amended as follows.
 
 (2) Omit regulations 34A (deductions of mortgage interest which shall be made from benefit and paid to qualifying lenders) and 34B (deductions of mortgage interest which may be made from benefits and paid to qualifying lenders in other cases).
 
@@ -1693,7 +1693,7 @@ Regulation 18
 
   .
 
-### PART 2 — Decisions and Appeals[^key-4fd87de65ec2f82b02bfdbc0cf5c2379]
+### PART 2 — Decisions and Appeals[^c-4fd87de65ec2f82b02bfdbc0cf5c2379]
 
 **11.** (1) The Social Security and Child Support (Decisions and Appeals) Regulations 1999 are amended as follows.
 
@@ -1856,7 +1856,7 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00007]: Footnote: [1992 c. 5](https://www.legislation.gov.uk/ukpga/1992/5).
 
-[^key-b05ea1dce407a3fc99bf4820df0db2cf]: Textual amendment: Words in reg. 2 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/a)
+[^c-b05ea1dce407a3fc99bf4820df0db2cf]: Textual amendment: Words in reg. 2 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/a)
 
 [^f00008]: Footnote: [S.I. 2008/794](https://www.legislation.gov.uk/uksi/2008/794). Regulation 67 was amended by [S.I. 2009/3228](https://www.legislation.gov.uk/uksi/2009/3228) and [2017/204](https://www.legislation.gov.uk/uksi/2017/204).
 
@@ -1882,7 +1882,7 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00019]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
-[^key-88b05124364a432ddc18017945cf9ed7]: Textual amendment: Words in reg. 2 inserted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/2)
+[^c-88b05124364a432ddc18017945cf9ed7]: Textual amendment: Words in reg. 2 inserted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(2)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/2)
 
 [^f00020]: Footnote: Paragraph 1(3) was amended by [S.I. 2012/913](https://www.legislation.gov.uk/uksi/2012/913), [2013/630](https://www.legislation.gov.uk/uksi/2013/630) and [2017/204](https://www.legislation.gov.uk/uksi/2017/204).
 
@@ -1900,11 +1900,11 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00027]: Footnote: [S.I. 1987/1967](https://www.legislation.gov.uk/uksi/1987/1967). The Regulations have been modified in their application to certain claimants by [S.I. 2008/3195](https://www.legislation.gov.uk/uksi/2008/3195), as amended by [S.I. 2009/3257](https://www.legislation.gov.uk/uksi/2009/3257).
 
-[^key-5ae99f5ef30e03883e3c5b0d836330de]: Textual amendment: Words in reg. 2 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/b)
+[^c-5ae99f5ef30e03883e3c5b0d836330de]: Textual amendment: Words in reg. 2 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/b)
 
 [^f00028]: Footnote: [S.I. 1996/207](https://www.legislation.gov.uk/uksi/1996/207). The Regulations have been modified in their application to certain claimants by [S.I. 2008/3195](https://www.legislation.gov.uk/uksi/2008/3195), as amended by [S.I. 2009/3257](https://www.legislation.gov.uk/uksi/2009/3257).
 
-[^key-f207d5d4aca6488f7caa3e36b7785706]: Textual amendment: Words in reg. 2 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/c)
+[^c-f207d5d4aca6488f7caa3e36b7785706]: Textual amendment: Words in reg. 2 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/c)
 
 [^f00029]: Footnote: [1925 c. 20](https://www.legislation.gov.uk/ukpga/1925/20).
 
@@ -1920,7 +1920,7 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00035]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
-[^key-1122075af49057b49d84204698572413]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/725/regulation/2/1) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/2)
+[^c-1122075af49057b49d84204698572413]: Textual amendment: Word in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2017/725/regulation/2/1) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/2)
 
 [^f00036]: Footnote: Paragraph 14 was amended by [S.I. 1995/2927](https://www.legislation.gov.uk/uksi/1995/2927), [1996/206](https://www.legislation.gov.uk/uksi/1996/206) and [1944](https://www.legislation.gov.uk/uksi/1996/1944), [1997/2863](https://www.legislation.gov.uk/uksi/1997/2863), [1998/2231](https://www.legislation.gov.uk/uksi/1998/2231), [1999/714](https://www.legislation.gov.uk/uksi/1999/714), [1921](https://www.legislation.gov.uk/uksi/1999/1921) and [3178](https://www.legislation.gov.uk/uksi/1999/3178), [2000/724](https://www.legislation.gov.uk/uksi/2000/724) and [1981](https://www.legislation.gov.uk/uksi/2000/1981), [2001/488](https://www.legislation.gov.uk/uksi/2001/488) and [1029](https://www.legislation.gov.uk/uksi/2001/1029), [2002/841](https://www.legislation.gov.uk/uksi/2002/841) and [3019](https://www.legislation.gov.uk/uksi/2002/3019), [2005/2465](https://www.legislation.gov.uk/uksi/2005/2465), [2006/2378](https://www.legislation.gov.uk/uksi/2006/2378), [2008/698](https://www.legislation.gov.uk/uksi/2008/698), [1554](https://www.legislation.gov.uk/uksi/2008/1554), [2428](https://www.legislation.gov.uk/uksi/2008/2428) and [2767](https://www.legislation.gov.uk/uksi/2008/2767) and [2011/674](https://www.legislation.gov.uk/uksi/2011/674) .
 
@@ -1932,21 +1932,21 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00040]: Footnote: Regulation 4A was inserted by [S.I. 2016/624](https://www.legislation.gov.uk/uksi/2016/624).
 
-[^key-10a78266f65c18873237255d195667e0]: Textual amendment: Words in reg. 2 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/d)
+[^c-10a78266f65c18873237255d195667e0]: Textual amendment: Words in reg. 2 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/d)
 
-[^key-41f7f1f3d792aff695ef37830c7cb7ab]: Textual amendment: Words in reg. 2 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/e)
+[^c-41f7f1f3d792aff695ef37830c7cb7ab]: Textual amendment: Words in reg. 2 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/e)
 
 [^f00041]: Footnote: [S.I. 2002/1792](https://www.legislation.gov.uk/uksi/2002/1792). The Regulations have been modified in their application to certain claimants by [S.I. 2008/3195](https://www.legislation.gov.uk/uksi/2008/3195), as amended by [S.I. 2009/3257](https://www.legislation.gov.uk/uksi/2009/3257).
 
 [^f00042]: Footnote: [1970 c. 35](https://www.legislation.gov.uk/ukpga/1970/35).
 
-[^key-4746e861e29da994b843f317cd4c0662]: Textual amendment: Words in reg. 2 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/f)
+[^c-4746e861e29da994b843f317cd4c0662]: Textual amendment: Words in reg. 2 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(f)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/f)
 
 [^f00043]: Footnote: [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230).
 
 [^f00044]: Footnote: [S.I. 2013/376](https://www.legislation.gov.uk/uksi/2013/376).
 
-[^key-8b58f362202aca14e48faf3aeef944a1]: Textual amendment: Reg. 2(2)(aa) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/g)
+[^c-8b58f362202aca14e48faf3aeef944a1]: Textual amendment: Reg. 2(2)(aa) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(2)(g)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/2/g)
 
 [^f00045]: Footnote: Regulation 156(10) was amended by [S.I. 2008/2428](https://www.legislation.gov.uk/uksi/2008/2428), [2011/1740](https://www.legislation.gov.uk/uksi/2011/1740) and [2015/643](https://www.legislation.gov.uk/uksi/2015/643).
 
@@ -1972,37 +1972,37 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00056]: Footnote: Paragraph 2 was amended by [S.I. 2002/3197](https://www.legislation.gov.uk/uksi/2002/3197), [2003/2274](https://www.legislation.gov.uk/uksi/2003/2274) and [2014/3255](https://www.legislation.gov.uk/uksi/2014/3255).
 
-[^key-cf4b90daa703c72fcd84a5ffeb823f0e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/725/regulation/3/1) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/3/a)
+[^c-cf4b90daa703c72fcd84a5ffeb823f0e]: Textual amendment: Words in [reg. 3(1)](https://www.legislation.gov.uk/uksi/2017/725/regulation/3/1) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/3/a)
 
-[^key-852919337728908d379e5ae120ebe3ba]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/725/regulation/3/4) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/3/b)
+[^c-852919337728908d379e5ae120ebe3ba]: Textual amendment: [Reg. 3(4)](https://www.legislation.gov.uk/uksi/2017/725/regulation/3/4) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/3/b)
 
-[^key-dac04a145d9081e4f6a138540cba58a0]: Textual amendment: Reg. 7(b) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/3)
+[^c-dac04a145d9081e4f6a138540cba58a0]: Textual amendment: Reg. 7(b) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/3)
 
-[^key-f30816e79cf40c95eb53ff474f34295e]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/1/b) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/a/i)
+[^c-f30816e79cf40c95eb53ff474f34295e]: Textual amendment: Words in [reg. 8(1)(b)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/1/b) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(a)(i)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/a/i)
 
-[^key-5e58ed77e23e0e9b5f5a6c364d84938f]: Textual amendment: [Reg. 8(1)(ba)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/1/ba)[(bb)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/1/bb) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/a/ii)
+[^c-5e58ed77e23e0e9b5f5a6c364d84938f]: Textual amendment: [Reg. 8(1)(ba)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/1/ba)[(bb)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/1/bb) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/a/ii)
 
-[^key-5ed81daa1feb8fdf495ed77375291b06]: Textual amendment: Reg. 8(1)(c) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/4/a)
+[^c-5ed81daa1feb8fdf495ed77375291b06]: Textual amendment: Reg. 8(1)(c) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/4/a)
 
-[^key-db8fe8380b4663149fafbbf82aac4fa1]: Textual amendment: Words in [reg. 8(1)(c)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/1/c) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/a/iii)
+[^c-db8fe8380b4663149fafbbf82aac4fa1]: Textual amendment: Words in [reg. 8(1)(c)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/1/c) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/a/iii)
 
-[^key-3b361010899a88b850517ba494181ce4]: Textual amendment: Reg. 8(1)(e) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/4/b)
+[^c-3b361010899a88b850517ba494181ce4]: Textual amendment: Reg. 8(1)(e) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/4/b)
 
-[^key-3ce5d4d229ec5c888af7516b27601d16]: Textual amendment: Reg. 8(2) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/4/c)
+[^c-3ce5d4d229ec5c888af7516b27601d16]: Textual amendment: Reg. 8(2) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(4)(c)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/4/c)
 
-[^key-cbca6fe126374bbdd405163f3e372b4b]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/2) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/b)
+[^c-cbca6fe126374bbdd405163f3e372b4b]: Textual amendment: Words in [reg. 8(2)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/2) substituted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(b)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/b)
 
-[^key-fc195898d88576ba77b46315506b6f8c]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/3) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/c)
+[^c-fc195898d88576ba77b46315506b6f8c]: Textual amendment: [Reg. 8(3)](https://www.legislation.gov.uk/uksi/2017/725/regulation/8/3) inserted (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/4/c)
 
-[^key-87d7b66fe093e7faff8c5c1978b9474b]: Textual amendment: Words in reg. 9(3)(a) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/5/a)
+[^c-87d7b66fe093e7faff8c5c1978b9474b]: Textual amendment: Words in reg. 9(3)(a) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/5/a)
 
-[^key-d582697994ec00a98d361d57b4323415]: Textual amendment: [Reg. 9(3)(e)](https://www.legislation.gov.uk/uksi/2017/725/regulation/9/3/e) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/5/a)
+[^c-d582697994ec00a98d361d57b4323415]: Textual amendment: [Reg. 9(3)(e)](https://www.legislation.gov.uk/uksi/2017/725/regulation/9/3/e) omitted (3.4.2023) by virtue of [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(5)(a)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/5/a)
 
-[^key-4529927cd38e09bfdfb257f0d0a87f6e]: Textual amendment: [Reg. 9(7)](https://www.legislation.gov.uk/uksi/2017/725/regulation/9/7)[(8)](https://www.legislation.gov.uk/uksi/2017/725/regulation/9/8) substituted for [reg. 9(7)](https://www.legislation.gov.uk/uksi/2017/725/regulation/9/7) (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/5/b)
+[^c-4529927cd38e09bfdfb257f0d0a87f6e]: Textual amendment: [Reg. 9(7)](https://www.legislation.gov.uk/uksi/2017/725/regulation/9/7)[(8)](https://www.legislation.gov.uk/uksi/2017/725/regulation/9/8) substituted for [reg. 9(7)](https://www.legislation.gov.uk/uksi/2017/725/regulation/9/7) (3.4.2023) by [The Loans for Mortgage Interest (Amendment) Regulations 2023 (S.I. 2023/226)](https://www.legislation.gov.uk/uksi/2023/226), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/226/regulation/1/1), [2(5)(b)](https://www.legislation.gov.uk/uksi/2023/226/regulation/2/5/b)
 
-[^key-d56abdebf9f16eb1e4a9d48c55e36224]: Textual amendment: Words in reg. 10 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/6)
+[^c-d56abdebf9f16eb1e4a9d48c55e36224]: Textual amendment: Words in reg. 10 inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(6)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/6)
 
-[^key-107f5c717bbee9c763c1b6ee2d4ec1b3]: Textual amendment: Words in reg. 12(5) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/7)
+[^c-107f5c717bbee9c763c1b6ee2d4ec1b3]: Textual amendment: Words in reg. 12(5) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(7)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/7)
 
 [^f00058]: Footnote: Paragraph 17 was amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217) and [2378](https://www.legislation.gov.uk/uksi/2006/3278).
 
@@ -2018,47 +2018,47 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00064]: Footnote: Paragraph 14 was amended by [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968), [2002/3197](https://www.legislation.gov.uk/uksi/2002/3197), [2003/526](https://www.legislation.gov.uk/uksi/2003/526), [1195](https://www.legislation.gov.uk/uksi/2003/1195) and [2274](https://www.legislation.gov.uk/uksi/2003/2274), [2004/552](https://www.legislation.gov.uk/uksi/2004/552) and [2327](https://www.legislation.gov.uk/uksi/2004/2327), [2005/522](https://www.legislation.gov.uk/uksi/2005/522) and [3360](https://www.legislation.gov.uk/uksi/2005/3360), [2006/645](https://www.legislation.gov.uk/uksi/2006/645) and [2378](https://www.legislation.gov.uk/uksi/2006/2378), [2007/668](https://www.legislation.gov.uk/uksi/2007/668), [2008/632](https://www.legislation.gov.uk/uksi/2008/632), [1554](https://www.legislation.gov.uk/uksi/2008/1554) and [2767](https://www.legislation.gov.uk/uksi/2008/2767), [2009/497](https://www.legislation.gov.uk/uksi/2009/497), [2010/641](https://www.legislation.gov.uk/uksi/2010/641) and [793](https://www.legislation.gov.uk/uksi/2010/793), [2011/821](https://www.legislation.gov.uk/uksi/2011/821) and [2425](https://www.legislation.gov.uk/uksi/2011/2425), [2012/780](https://www.legislation.gov.uk/uksi/2012/780), [2013/388](https://www.legislation.gov.uk/uksi/2013/388), [443](https://www.legislation.gov.uk/uksi/2013/443), [574](https://www.legislation.gov.uk/uksi/2013/574), [591](https://www.legislation.gov.uk/uksi/2013/591) and [630](https://www.legislation.gov.uk/uksi/2013/630), [2014/516](https://www.legislation.gov.uk/uksi/2014/516) and [2888](https://www.legislation.gov.uk/uksi/2014/2888), [2015/457](https://www.legislation.gov.uk/uksi/2015/457), [2016/242](https://www.legislation.gov.uk/uksi/2016/242), [2017/204](https://www.legislation.gov.uk/uksi/2017/204), [260](https://www.legislation.gov.uk/uksi/2017/260) and [329](https://www.legislation.gov.uk/uksi/2017/329).
 
-[^key-f8be72b6a274d0ec2b4b923705949345]: Textual amendment: Reg. 14A inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/8)
+[^c-f8be72b6a274d0ec2b4b923705949345]: Textual amendment: Reg. 14A inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/8)
 
-[^key-356901ffb300ca317d9160bd65888845]: Textual amendment: Reg. 15(1)(c) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/9/a)
+[^c-356901ffb300ca317d9160bd65888845]: Textual amendment: Reg. 15(1)(c) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/9/a)
 
-[^key-3c85c3f1531bd7e613b2e4ec07c3b2f1]: Textual amendment: Reg. 15(1A)(1B) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/9/b)
+[^c-3c85c3f1531bd7e613b2e4ec07c3b2f1]: Textual amendment: Reg. 15(1A)(1B) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(9)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/9/b)
 
-[^key-d4e648cbf3209874fbde52d541704bc7]: Textual amendment: Words in reg. 15(4) substituted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/3)
+[^c-d4e648cbf3209874fbde52d541704bc7]: Textual amendment: Words in reg. 15(4) substituted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(3)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/3)
 
-[^key-fde95784ed1f250b95640af74fc49420]: Textual amendment: Reg. 15(4A) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(9)(c)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/9/c)
+[^c-fde95784ed1f250b95640af74fc49420]: Textual amendment: Reg. 15(4A) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(9)(c)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/9/c)
 
 [^f00065]: Footnote: [2011 c. 4](https://www.legislation.gov.uk/ukpga/2011/4).
 
-[^key-90b04fed5a0288860eb63dc9ebc5c537]: Textual amendment: Words in reg. 16(1) substituted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/4)
+[^c-90b04fed5a0288860eb63dc9ebc5c537]: Textual amendment: Words in reg. 16(1) substituted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(4)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/4)
 
-[^key-1167f8eb88dac047d3da508e332a5faf]: Textual amendment: Reg. 16(1)(c) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/10/a)
+[^c-1167f8eb88dac047d3da508e332a5faf]: Textual amendment: Reg. 16(1)(c) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(10)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/10/a)
 
-[^key-f77bdbe2eee4f71a7e3f838914dfd996]: Textual amendment: Reg. 16(3)(aa) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/10/b)
+[^c-f77bdbe2eee4f71a7e3f838914dfd996]: Textual amendment: Reg. 16(3)(aa) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(10)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/10/b)
 
-[^key-239766d7ff9f933b4aa2dd006f0409f6]: Textual amendment: Reg. 16A inserted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/5)
+[^c-239766d7ff9f933b4aa2dd006f0409f6]: Textual amendment: Reg. 16A inserted (15.3.2021) by [The Loans for Mortgage Interest (Amendment) Regulations 2021 (S.I. 2021/131)](https://www.legislation.gov.uk/uksi/2021/131), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/b), [2(5)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/5)
 
-[^key-4d725b609af577b797662a72cd55be32]: Textual amendment: Reg. 18 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/11)
+[^c-4d725b609af577b797662a72cd55be32]: Textual amendment: Reg. 18 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(11)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/11)
 
-[^key-ba31efa918aa3f0f6cf66b3bea7617ef]: Textual amendment: Regs. 19-20 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/12)
+[^c-ba31efa918aa3f0f6cf66b3bea7617ef]: Textual amendment: Regs. 19-20 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(12)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/12)
 
-[^key-f990d83f42c063ab1aa9ea68599ab1bb]: Textual amendment: Words in reg. 21(1)(a)(i) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(a)(i)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/a/i)
+[^c-f990d83f42c063ab1aa9ea68599ab1bb]: Textual amendment: Words in reg. 21(1)(a)(i) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(a)(i)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/a/i)
 
 [^f00070]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
 [^f00071]: Footnote: [S.I. 2014/1230](https://www.legislation.gov.uk/uksi/2014/1230).
 
-[^key-444e83f4a28312d058ceddc0d70fafeb]: Textual amendment: Words in reg. 21(1)(a)(ii) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/a/ii)
+[^c-444e83f4a28312d058ceddc0d70fafeb]: Textual amendment: Words in reg. 21(1)(a)(ii) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/a/ii)
 
 [^f00072]: Footnote: Paragraph 15 was amended by [S.I. 2008/2767](https://www.legislation.gov.uk/uksi/2008/2767). Paragraph 16 was amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217) and [2378](https://www.legislation.gov.uk/uksi/2006/2378). The Regulations have been modified in their application to certain claimants by [S.I. 2008/3195](https://www.legislation.gov.uk/uksi/2008/3195), as amended by [S.I. 2009/3257](https://www.legislation.gov.uk/uksi/2009/3257) and [2011/2425](https://www.legislation.gov.uk/uksi/2011/2425).
 
 [^f00073]: Footnote: Paragraph 16 was amended by [S.I. 2008/2767](https://www.legislation.gov.uk/uksi/2008/2767). Paragraph 17 was amended by [S.I. 2006/217](https://www.legislation.gov.uk/uksi/2006/217) and [2378](https://www.legislation.gov.uk/uksi/2006/2378).
 
-[^key-442dda13b1f10a186fee9420e3f0809c]: Textual amendment: Words in reg. 21(2)(a) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(b)(i)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/b/i)
+[^c-442dda13b1f10a186fee9420e3f0809c]: Textual amendment: Words in reg. 21(2)(a) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(b)(i)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/b/i)
 
-[^key-bc6873c9322d564e7661b0ee439e22e9]: Textual amendment: Words in reg. 21(2)(b) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/b/ii)
+[^c-bc6873c9322d564e7661b0ee439e22e9]: Textual amendment: Words in reg. 21(2)(b) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(b)(ii)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/b/ii)
 
-[^key-1ba139f62cc4b656920c14ae4cc2cc27]: Textual amendment: Words in reg. 21(2)(c) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/b/iii)
+[^c-1ba139f62cc4b656920c14ae4cc2cc27]: Textual amendment: Words in reg. 21(2)(c) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(13)(b)(iii)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/13/b/iii)
 
 [^f00074]: Footnote: Paragraph 7(1)(b) was amended by [S.I. 2015/1647](https://www.legislation.gov.uk/uksi/2015/1647).
 
@@ -2078,15 +2078,15 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^f00082]: Footnote: Regulation 75(1)(a) was substituted by [S.I. 2012/2568](https://www.legislation.gov.uk/uksi/2012/2568).
 
-[^key-3b6878ded915f65137486464442066db]: Textual amendment: Words in Sch. 1 para. 3(5)(a) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(14)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/14/a)
+[^c-3b6878ded915f65137486464442066db]: Textual amendment: Words in Sch. 1 para. 3(5)(a) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(14)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/14/a)
 
-[^key-641be05560a47420c70c86bb9271150e]: Textual amendment: Words in Sch. 1 para. 3(7)(b) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(14)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/14/b)
+[^c-641be05560a47420c70c86bb9271150e]: Textual amendment: Words in Sch. 1 para. 3(7)(b) inserted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(14)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/14/b)
 
 [^f00083]: Footnote: [2007 c. 3](https://www.legislation.gov.uk/ukpga/2007/3). Part 10A was inserted by section 365 of, and Part 1 of Schedule 2 to, the Taxation (International and Other Provisions) Act [2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8).
 
 [^f00084]: Footnote: [1992 c. 52](https://www.legislation.gov.uk/ukpga/1992/52).
 
-[^key-487aa61dcae51c1234a725ce02892eee]: Textual amendment: Words in Sch. 2 para. 5(3) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/15)
+[^c-487aa61dcae51c1234a725ce02892eee]: Textual amendment: Words in Sch. 2 para. 5(3) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(15)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/15)
 
 [^f00085]: Footnote: There have been amendments to regulation 3 which are not relevant to these Regulations.
 
@@ -2130,24 +2130,24 @@ An impact assessment has not been produced for this instrument as it has no impa
 
 [^M_F_8dbf57e6-0a7e-4cbf-bb21-fec7cdf38a94]: Textual amendment: Words in Sch. 3 para. 18(2) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/131/regulation/1/2), [2(16)](https://www.legislation.gov.uk/uksi/2021/131/regulation/2/16)
 
-[^key-9569e828c64718ff71e586f18d3f7643]: Textual amendment: Words in Sch. 4 para. 1 omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(17)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/17/a)
+[^c-9569e828c64718ff71e586f18d3f7643]: Textual amendment: Words in Sch. 4 para. 1 omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(17)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/17/a)
 
-[^key-a64705de6b9d6631459e18cc38e44ceb]: Textual amendment: Sch. 4 para. 2 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(17)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/17/b)
+[^c-a64705de6b9d6631459e18cc38e44ceb]: Textual amendment: Sch. 4 para. 2 substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(17)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/17/b)
 
-[^key-c2d342c9edc6bd5fd47446d5780e4cbb]: Textual amendment: Sch. 4 para. 3 omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(17)(c)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/17/c)
+[^c-c2d342c9edc6bd5fd47446d5780e4cbb]: Textual amendment: Sch. 4 para. 3 omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(17)(c)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/17/c)
 
-[^key-71adba1a45f93ffd63a475d1e7221ec1]: Textual amendment: Sch. 4 para. 5(3)(a)(b) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(17)(d)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/17/d)
+[^c-71adba1a45f93ffd63a475d1e7221ec1]: Textual amendment: Sch. 4 para. 5(3)(a)(b) substituted (6.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/2), [2(17)(d)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/17/d)
 
-[^key-e9cbd670839e80b10e26832f8b17e029]: Textual amendment: Sch. 4 para. 6 omitted (3.8.2020) by virtue of [The Loans for Mortgage Interest (Transaction Fee) (Amendment) Regulations 2020 (S.I. 2020/666)](https://www.legislation.gov.uk/uksi/2020/666), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/666/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/666/regulation/2)
+[^c-e9cbd670839e80b10e26832f8b17e029]: Textual amendment: Sch. 4 para. 6 omitted (3.8.2020) by virtue of [The Loans for Mortgage Interest (Transaction Fee) (Amendment) Regulations 2020 (S.I. 2020/666)](https://www.legislation.gov.uk/uksi/2020/666), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/666/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/666/regulation/2)
 
 [^f00103]: Footnote: [S.I. 2013/380](https://www.legislation.gov.uk/uksi/2013/380).
 
-[^key-9fa2594d539e99520a242c3a1662742b]: Textual amendment: Sch. 5 Pt. 1 heading inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/a)
+[^c-9fa2594d539e99520a242c3a1662742b]: Textual amendment: Sch. 5 Pt. 1 heading inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(a)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/a)
 
-[^key-94c73d70384f8945f4b5b2dc0f563f57]: Textual amendment: Sch. 5 para. 1(d) inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/b)
+[^c-94c73d70384f8945f4b5b2dc0f563f57]: Textual amendment: Sch. 5 para. 1(d) inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(b)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/b)
 
-[^key-73598d30832f5140110954915d0090b6]: Textual amendment: Sch. 5 para. 3(g) inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(d)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/d)
+[^c-73598d30832f5140110954915d0090b6]: Textual amendment: Sch. 5 para. 3(g) inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(d)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/d)
 
-[^key-e8d6dae6a53bbb8f9ade713afde336f1]: Textual amendment: Sch. 5 paras. 7-10 inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+[^c-e8d6dae6a53bbb8f9ade713afde336f1]: Textual amendment: Sch. 5 paras. 7-10 inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
 
-[^key-4fd87de65ec2f82b02bfdbc0cf5c2379]: Textual amendment: Sch. 5 Pt. 2 inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)
+[^c-4fd87de65ec2f82b02bfdbc0cf5c2379]: Textual amendment: Sch. 5 Pt. 2 inserted (5.4.2018) by [The Loans for Mortgage Interest and Social Fund Maternity Grant (Amendment) Regulations 2018 (S.I. 2018/307)](https://www.legislation.gov.uk/uksi/2018/307), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/307/regulation/1/3), [2(18)(e)](https://www.legislation.gov.uk/uksi/2018/307/regulation/2/18/e)

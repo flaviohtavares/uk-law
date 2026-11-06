@@ -48,7 +48,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 56(1) of the Finance Act 1973, the Treasury consent to the making of these Regulations.
 
-## 1. Citation, commencement, and interpretation[^key-08ef8a23f759afde8ffae78b44a36689]
+## 1. Citation, commencement, and interpretation[^c-08ef8a23f759afde8ffae78b44a36689]
 
 (1) These Regulations may be cited as the Controlled Drugs (Drug Precursors) (Intra-Community Trade and Community External Trade) Regulations 2010 and shall come into force on 15<sup>th</sup> November 2010.
 
@@ -56,15 +56,15 @@ In accordance with section 56(1) of the Finance Act 1973, the Treasury consent t
 
 - (a) the “Intra-Community Trade Regulations” means the Controlled Drugs (Drug Precursors) (Intra-Community Trade) Regulations 2008[^f00002];
 - (b) the “Community External Trade Regulations” means the Controlled Drugs (Drug Precursors) (Community External Trade) Regulations 2008[^f00003];
-- (c)[^key-66d3844f415b8c8e1ce0cc574ed8159b] the “**2004 Community Regulation**” means—
+- (c)[^c-66d3844f415b8c8e1ce0cc574ed8159b] the “**2004 Community Regulation**” means—
   - (i) in respect of Northern Ireland, Regulation [(EC) No. 273/2004](https://www.legislation.gov.uk/european/regulation/2004/0273) of the European Parliament and of the Council dated 11th February 2004 as it has effect in EU law, or;
   - (ii) in respect of Great Britain, Regulation [(EC) No. 273/2004](https://www.legislation.gov.uk/european/regulation/2004/0273) of the European Parliament and of the Council dated 11th February 2004;
-- (d)[^key-ce95d4e82ead7287c9d76b5f09dfabeb] the “**2005 Community Regulation**” means—
+- (d)[^c-ce95d4e82ead7287c9d76b5f09dfabeb] the “**2005 Community Regulation**” means—
   - (i) in respect of Northern Ireland, Council Regulation [(EC) No. 111/2005](https://www.legislation.gov.uk/european/regulation/2005/0111) dated 22nd December 2004 as it has effect in EU law, or;
   - (ii) in respect of Great Britain, Council Regulation [(EC) No. 111/2005](https://www.legislation.gov.uk/european/regulation/2005/0111) dated 22nd December 2004; and
 - (e) “**scheduled substance**” and “**operator**” have the same meaning as in the 2004 Community Regulation or the 2005 Community Regulation, as the case may be.
 
-## 2. Prescribed fee[^key-3b11d75c7fed3d58ba9f3ed6f0bbe71f]
+## 2. Prescribed fee[^c-3b11d75c7fed3d58ba9f3ed6f0bbe71f]
 
 (1) Where a licence is, under regulation 4 of the Intra-Community Trade Regulations or regulation 4 of the Community External Trade Regulations, issued to a person for the first time, in relation to scheduled substances listed in category 1 of Annex I of the 2004 Community Regulation and scheduled substances listed in category 1 of the Annex of the 2005 Community Regulation respectively, the fee payable shall be £3,655.
 
@@ -87,11 +87,11 @@ In accordance with section 56(1) of the Finance Act 1973, the Treasury consent t
 - (a) in the case of a registration issued to an operator in relation to whom the Secretary of State determines that an inspection is necessary in connection with securing compliance with the terms of the 2005 Community Regulation, £1,153; and
 - (b) in the case of a registration issued to an operator in relation to whom the Secretary of State determines that no such inspection is necessary, £109.
 
-(7) Where an export authorisation required by an operator under regulation 6(1) or 6(1A)[^key-6401e59cda9fa576288d43dac558ff5a] of the Community External Trade Regulations is issued, the fee payable shall be £24.
+(7) Where an export authorisation required by an operator under regulation 6(1) or 6(1A)[^c-6401e59cda9fa576288d43dac558ff5a] of the Community External Trade Regulations is issued, the fee payable shall be £24.
 
-(8) Where an import authorisation required by an operator under regulation 7(1) or 7(2A)(a)[^key-93ed7e453dc68a8d56e5154508da915e] of the Community External Trade Regulations is issued, the fee payable shall be £24.
+(8) Where an import authorisation required by an operator under regulation 7(1) or 7(2A)(a)[^c-93ed7e453dc68a8d56e5154508da915e] of the Community External Trade Regulations is issued, the fee payable shall be £24.
 
-(8A)[^key-5509348e99c70beea3987d7c3c14ad27] No fee is payable under paragraphs (7) and (8) in respect of export authorisations or import authorisations that are issued in relation to the movement of scheduled substances between Northern Ireland and Great Britain.
+(8A)[^c-5509348e99c70beea3987d7c3c14ad27] No fee is payable under paragraphs (7) and (8) in respect of export authorisations or import authorisations that are issued in relation to the movement of scheduled substances between Northern Ireland and Great Britain.
 
 (9) Where a person has lost a licence issued under any of the provisions in paragraphs (1) and (4) or where such licence has been defaced or damaged, or where a person has lost a registration issued under any of the provisions in paragraphs (2), (3), (5) and (6) or where such registration has been defaced or damaged, and that licence or registration is re-issued to him, the fee payable shall be £45.
 
@@ -127,20 +127,20 @@ Regulation 2(7) and (8) prescribes the fees where an export authorisation and im
 
 [^f00001]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51).
 
-[^key-08ef8a23f759afde8ffae78b44a36689]: Commencement: Reg. 1 in force at 15.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/1/1)
+[^c-08ef8a23f759afde8ffae78b44a36689]: Commencement: Reg. 1 in force at 15.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/1/1)
 
 [^f00002]: Footnote: [S.I. 2008/295](https://www.legislation.gov.uk/uksi/2008/295).
 
 [^f00003]: Footnote: [S.I. 2008/296](https://www.legislation.gov.uk/uksi/2008/296).
 
-[^key-66d3844f415b8c8e1ce0cc574ed8159b]: Textual amendment: [Reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/1/2/c) substituted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/607/regulation/4/2/a)
+[^c-66d3844f415b8c8e1ce0cc574ed8159b]: Textual amendment: [Reg. 1(2)(c)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/1/2/c) substituted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2026/607/regulation/4/2/a)
 
-[^key-ce95d4e82ead7287c9d76b5f09dfabeb]: Textual amendment: [Reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/1/2/d) substituted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/607/regulation/4/2/b)
+[^c-ce95d4e82ead7287c9d76b5f09dfabeb]: Textual amendment: [Reg. 1(2)(d)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/1/2/d) substituted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [4(2)(b)](https://www.legislation.gov.uk/uksi/2026/607/regulation/4/2/b)
 
-[^key-3b11d75c7fed3d58ba9f3ed6f0bbe71f]: Commencement: Reg. 2 in force at 15.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/1/1)
+[^c-3b11d75c7fed3d58ba9f3ed6f0bbe71f]: Commencement: Reg. 2 in force at 15.11.2010, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/1/1)
 
-[^key-6401e59cda9fa576288d43dac558ff5a]: Textual amendment: Words in [reg. 2(7)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/2/7) inserted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2026/607/regulation/4/3/a)
+[^c-6401e59cda9fa576288d43dac558ff5a]: Textual amendment: Words in [reg. 2(7)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/2/7) inserted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2026/607/regulation/4/3/a)
 
-[^key-93ed7e453dc68a8d56e5154508da915e]: Textual amendment: Words in [reg. 2(8)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/2/8) inserted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2026/607/regulation/4/3/b)
+[^c-93ed7e453dc68a8d56e5154508da915e]: Textual amendment: Words in [reg. 2(8)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/2/8) inserted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [4(3)(b)](https://www.legislation.gov.uk/uksi/2026/607/regulation/4/3/b)
 
-[^key-5509348e99c70beea3987d7c3c14ad27]: Textual amendment: [Reg. 2(8A)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/2/8A) inserted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2026/607/regulation/4/3/c)
+[^c-5509348e99c70beea3987d7c3c14ad27]: Textual amendment: [Reg. 2(8A)](https://www.legislation.gov.uk/uksi/2010/2564/regulation/2/8A) inserted (29.6.2026) by [The Controlled Drugs (Drug Precursors) (Amendment and Revocation) Regulations 2026 (S.I. 2026/607)](https://www.legislation.gov.uk/uksi/2026/607), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/607/regulation/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2026/607/regulation/4/3/c)

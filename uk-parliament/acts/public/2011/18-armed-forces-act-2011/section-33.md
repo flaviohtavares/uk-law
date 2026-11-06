@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4131090d45b2b202588be14890dc8906] Her Majesty may by Order in Council provide for any of the provisions of this Act, except section 25, to extend to a territory mentioned in subsection (2) with or without modifications.
+(1)[^c-4131090d45b2b202588be14890dc8906] Her Majesty may by Order in Council provide for any of the provisions of this Act, except section 25, to extend to a territory mentioned in subsection (2) with or without modifications.
 
 (2) Those territories are—
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4131090d45b2b202588be14890dc8906]: Modification: [S. 33(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/33/1) restricted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 4(a)](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/4/a) (with [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/5))
+[^c-4131090d45b2b202588be14890dc8906]: Modification: [S. 33(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/33/1) restricted (12.5.2016) by [Armed Forces Act 2016 (c. 21)](https://www.legislation.gov.uk/ukpga/2016/21), [s. 19(2)(b)](https://www.legislation.gov.uk/ukpga/2016/21/section/19/2/b), [Sch. para. 4(a)](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/4/a) (with [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2016/21/schedule/paragraph/5))

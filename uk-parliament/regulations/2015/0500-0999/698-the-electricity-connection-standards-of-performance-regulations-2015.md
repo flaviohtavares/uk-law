@@ -49,7 +49,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 
 ## PART 1 — General
 
-### 1. Commencement, transitional provisions and revocation[^key-a98b3b451f5034159bf36111351ebaac]
+### 1. Commencement, transitional provisions and revocation[^c-a98b3b451f5034159bf36111351ebaac]
 
 (1) These Regulations may be cited as the Electricity (Connection Standards of Performance) Regulations 2015 and come into force on 1st April 2015.
 
@@ -57,7 +57,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 
 (3) Subject to regulations 1 and 13, the Electricity (Connection Standards of Performance) Regulations 2010[^f00005] are revoked.
 
-### 2. Interpretation[^key-af46bebdffdc0af8a92b54a11092ad0e]
+### 2. Interpretation[^c-af46bebdffdc0af8a92b54a11092ad0e]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -86,7 +86,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 - “payment date” means, in relation to any paragraph or sub-paragraph of these Regulations, the period specified in column 4 of Schedule 1 against the reference to that paragraph or sub-paragraph in column 1 of that Schedule;
 - “premises” includes any distribution system;
 - “prescribed period” means, in relation to any paragraph or sub-paragraph of these Regulations, the period specified in column 2 of Schedule 1 against the reference to that paragraph or sub-paragraph in column 1 of that Schedule;
-- “prescribed sum” means, in relation to any paragraph or sub-paragraph of these Regulations, the amount set out in column 3 of Schedule 1 , or such other sum calculated in accordance with regulation 17A,[^key-f3397c644c866f4be2bd4b4e456e9b5f] against the reference to that paragraph or sub-paragraph in column 1 of that Schedule;
+- “prescribed sum” means, in relation to any paragraph or sub-paragraph of these Regulations, the amount set out in column 3 of Schedule 1 , or such other sum calculated in accordance with regulation 17A,[^c-f3397c644c866f4be2bd4b4e456e9b5f] against the reference to that paragraph or sub-paragraph in column 1 of that Schedule;
 - “quotation” means the notice required to be given by an electricity distributor in accordance with section 16A(5) of the Act;
 - “quotation accuracy scheme” means, in respect of an electricity distributor, a scheme, including a process through which a customer can challenge whether it has received an accurate quotation, published by the electricity distributor pursuant to a requirement of its distribution licence;
 - “reinforcement works” means works required on an electricity distributor’s distribution system to accommodate a new or modified connection;
@@ -106,7 +106,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 - (a) where a person is a customer in respect of multiple premises, a reference in a regulation to “customer” is a reference to that person in respect of each of the premises at which he is a customer to which the regulation applies; and
 - (b) any reference to a customer (except in relation to the entitlement to any payment due from an electricity distributor under these Regulations) includes any person having apparent authority to represent the customer.
 
-### 3. Application[^key-b82ab4bddb33aa3ea3b024ec03299fda]
+### 3. Application[^c-b82ab4bddb33aa3ea3b024ec03299fda]
 
 (1) Regulation 4 applies where an electricity distributor has received a request from a customer for the provision of a budget estimate on or after 1st October 2010.
 
@@ -124,7 +124,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 
 ## PART 2 — Services and Standards for Metered Connections
 
-### 4. Provision of budget estimates[^key-d7990b8681a368fc6fddb39c778edb64]
+### 4. Provision of budget estimates[^c-d7990b8681a368fc6fddb39c778edb64]
 
 (1) This regulation applies to an electricity distributor where—
 
@@ -142,7 +142,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 - (a) describe the assumptions on which the budget estimate is based, including a reference to any matters that the electricity distributor considers might cause the amount of the budget estimate to be varied significantly, in a quotation provided in accordance with section 16A(5)(b) of the Act; and
 - (b) set out whether (and, if so, at what likely cost) associated works are likely to be required.
 
-### 5. Provision of quotations: single LV service demand connections and small project demand connections[^key-3fcc37c0223a79174e07594b6c885ba1]
+### 5. Provision of quotations: single LV service demand connections and small project demand connections[^c-3fcc37c0223a79174e07594b6c885ba1]
 
 (1) This regulation applies to an electricity distributor where—
 
@@ -161,7 +161,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 - (a) the works set out in the quotation dispatched by the electricity distributor; or
 - (b) the electricity distributor’s reasonable initial assessment of the works required prior to the dispatch of the quotation.
 
-### 6. Provision of quotations: other than single LV service demand connections and small project demand connections[^key-43020c704ad4870d2b42cb3592f9e54d]
+### 6. Provision of quotations: other than single LV service demand connections and small project demand connections[^c-43020c704ad4870d2b42cb3592f9e54d]
 
 (1) This regulation applies to an electricity distributor where—
 
@@ -182,7 +182,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 - (a) the works set out in the quotation dispatched by the electricity distributor; or
 - (b) the electricity distributor’s reasonable initial assessment of the works required prior to the dispatch of the quotation.
 
-### 7. Provision of quotations: quotation accuracy scheme[^key-35f0803966104ec3903897d127dd49fc]
+### 7. Provision of quotations: quotation accuracy scheme[^c-35f0803966104ec3903897d127dd49fc]
 
 (1) This regulation applies to an electricity distributor where—
 
@@ -196,7 +196,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 
 (4) Where this regulation applies, and the quotation relates to a small project demand connection, the electricity distributor must pay to the customer the prescribed sum.
 
-### 8. Post-acceptance scheduling and completion of works: single LV service demand connections and small project demand connections[^key-e6da387958c6928d994995ab095f45d2]
+### 8. Post-acceptance scheduling and completion of works: single LV service demand connections and small project demand connections[^c-e6da387958c6928d994995ab095f45d2]
 
 (1) This regulation applies to an electricity distributor where it receives—
 
@@ -212,7 +212,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 
 (3) Where this regulation applies and a relevant date has been agreed between the electricity distributor and the customer, if the electricity distributor fails to complete the works (or a phase of the works) provided for in the accepted quotation by the agreed date, the electricity distributor must, except in any of the circumstances described in regulations 15(2), 15(3), 15(7), 15(8) and 16, pay to the customer the prescribed sum.
 
-### 9. Post-acceptance scheduling and completion of works, and energisation: other than single LV service demand connections and small project demand connections[^key-38ed923de4fac79e0d22a13edbc677cc]
+### 9. Post-acceptance scheduling and completion of works, and energisation: other than single LV service demand connections and small project demand connections[^c-38ed923de4fac79e0d22a13edbc677cc]
 
 (1) This regulation applies to an electricity distributor where it receives—
 
@@ -248,7 +248,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 
 ## PART 3 — Services and Standards for Unmetered Connections
 
-### 10. Fault repairs[^key-ad70746e734d3f7e8adc377b6765db38]
+### 10. Fault repairs[^c-ad70746e734d3f7e8adc377b6765db38]
 
 (1) This regulation applies to an electricity distributor where it is notified by a relevant authority of a fault repair that needs to be carried out in respect of an unmetered connection through which a supply of electricity is provided to street lighting or street furniture, and the electricity distributor’s performance in responding to the fault repair is not the subject of a specific bilateral agreement between the electricity distributor and the relevant authority.
 
@@ -267,7 +267,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 - (a) each of the circumstances described in regulation 15; and
 - (b) the existence in relation to the required fault repair of any matter or event that is contrary to any regulations made under paragraph 1(1A) of Schedule 7 to the Act[^f00013] or to the applicable provisions of any industry code maintained in accordance with the conditions of the electricity distributor’s distribution licence and with which the electricity distributor is required to comply.
 
-### 11. Provision of quotations for new works[^key-ceebd02da26075bce5a701257141e17e]
+### 11. Provision of quotations for new works[^c-ceebd02da26075bce5a701257141e17e]
 
 (1) This regulation applies to an electricity distributor where—
 
@@ -285,7 +285,7 @@ The Secretary of State has consented to making these Regulations in accordance w
 - (b) the existence in relation to the required connection of any matter or event that is contrary to any regulations made under paragraph 1(1A) of Schedule 7 to the Act or to the applicable provisions of any industry code maintained in accordance with the conditions of the electricity distributor’s distribution licence and with which the electricity distributor is required to comply; and
 - (c) that the notice requesting the offer of terms causes the total number of units of street lighting or other street furniture for which such a notice has been given by the relevant authority to the electricity distributor in the month to exceed 115% of the monthly average for the calendar year last ending prior to the start of that month where this has not been pre-agreed (where “monthly average” means, in respect of a calendar year, the total number of units of street lighting or other street furniture for which such a notice was given by the relevant authority to the electricity distributor during that calendar year, divided by 12).
 
-### 12. Completion of new works[^key-3582960858f773af762ecaa01778f256]
+### 12. Completion of new works[^c-3582960858f773af762ecaa01778f256]
 
 (1) This regulation applies to an electricity distributor where it receives—
 
@@ -321,11 +321,11 @@ the electricity distributor must, except in any of the circumstances described i
 
 ## PART 4 — Governance and Other Issues
 
-### 13. Disputes[^key-891c7112d184aea8cc352c4b12a05a88]
+### 13. Disputes[^c-891c7112d184aea8cc352c4b12a05a88]
 
 Where a dispute under any provision of these Regulations is referred to the Authority for determination under section 39B(1) of the Act, the dispute is to be determined in accordance with the practice and procedure set out in Schedule 2.
 
-### 14. Payments[^key-8b71da6f2004062d1ea87f044fdb81cc]
+### 14. Payments[^c-8b71da6f2004062d1ea87f044fdb81cc]
 
 (1) Subject to paragraph (2), this regulation applies to an electricity distributor where it is obliged to make a payment to a customer or a relevant authority (as appropriate) under any of regulations 4 to 12 and the electricity distributor fails to make the payment to the customer or relevant authority (as appropriate) within the prescribed period from the payment date.
 
@@ -349,7 +349,7 @@ Where a dispute under any provision of these Regulations is referred to the Auth
 
 (7) Where the electricity distributor makes a payment under these Regulations by way of a cheque, that payment is deemed to have been made on the day that the cheque is posted to the recipient.
 
-### 15. Exemptions[^key-95a5989103e342cb8ab55fb5538d4056]
+### 15. Exemptions[^c-95a5989103e342cb8ab55fb5538d4056]
 
 (1) The circumstances described in this regulation are those set out in paragraphs (2) to (4) and (6) to (8): provided that the circumstances set out in paragraphs (6) to (8) will only apply where the electricity distributor makes reasonable efforts to notify the customer or the relevant authority (as appropriate) of the occurrence of such circumstances as soon as reasonably practicable after their occurrence.
 
@@ -376,7 +376,7 @@ Where a dispute under any provision of these Regulations is referred to the Auth
 
 (9) In this regulation, “contravention time” means the time at which, if this regulation did not apply, the electricity distributor would become liable to pay the prescribed sum to the customer or relevant authority as appropriate.
 
-### 16. Extensions of time[^key-ce82641b2ed1203a4d60c683d49b5f21]
+### 16. Extensions of time[^c-ce82641b2ed1203a4d60c683d49b5f21]
 
 (1) Where one or more of the circumstances referred to in paragraph (6(a) to 6(e) of regulation 15 or described in paragraph (4) below arises, an agreed date under any of regulations 8(3), 9(5) to 9(11), and 12(2) will be extended by such reasonable period (or to such reasonable date) as the electricity distributor may specify.
 
@@ -386,7 +386,7 @@ Where a dispute under any provision of these Regulations is referred to the Auth
 
 (4) The circumstances described in this paragraph are as follows—
 
-- (a) severe weather conditions that either of themselves prevent the electricity distributor from carrying out the requisite work or, being of any of the categories 1 or 2[^key-863373af79e82193c41057088dd76b0e] of severity as defined in the Electricity (Standards of Performance) Regulations 2015[^f00017], cause the electricity distributor, acting reasonably, to postpone pre-planned works in order to restore supplies to customers as quickly as possible;
+- (a) severe weather conditions that either of themselves prevent the electricity distributor from carrying out the requisite work or, being of any of the categories 1 or 2[^c-863373af79e82193c41057088dd76b0e] of severity as defined in the Electricity (Standards of Performance) Regulations 2015[^f00017], cause the electricity distributor, acting reasonably, to postpone pre-planned works in order to restore supplies to customers as quickly as possible;
 - (b) a network system emergency that causes the electricity distributor, acting reasonably, to redirect its resources and thereby prevents it from completing any action required by these Regulations;
 - (c) an inability to undertake live working on the distribution system because of compliance with safety procedures in circumstances where the electricity distributor would normally expect to undertake such working and where this restriction has a material impact on the timescale for completion of the works;
 - (d) delays imposed by a requirement to obtain a notice and/or permit for street works under the Traffic Management Act 2004[^f00018] or the New Roads and Street Works Act 1991[^f00019];
@@ -394,11 +394,11 @@ Where a dispute under any provision of these Regulations is referred to the Auth
 - (f) that works that are stated in the accepted quotation to be prerequisite to the commencement, completion or energisation (as appropriate) of the works, and that are not the responsibility of the electricity distributor, have not been completed in the agreed manner or within the time agreed; and
 - (g) that any other matters stated in the accepted quotation to be prerequisite to the commencement, completion or energisation (as appropriate) of the works, and that are not the responsibility of the electricity distributor, have not been satisfied in the manner or within the time envisaged by the accepted quotation.
 
-### 17. Timing of notification[^key-7cbcbd997f61d34ac9e9b79910b41a2c]
+### 17. Timing of notification[^c-7cbcbd997f61d34ac9e9b79910b41a2c]
 
 For the purposes of regulations 4 to 9, 11 and 12, where the requirements of paragraph (1) of any of those regulations are satisfied after 5pm on a working day or at any time on any other day, they are deemed to have been satisfied on the next following working day.
 
-### 17A. Indexation of prescribed sums[^key-86ca2c00f3ef31adc75eea224e453b24]
+### 17A. Indexation of prescribed sums[^c-86ca2c00f3ef31adc75eea224e453b24]
 
 (1) The prescribed sums for each financial year beginning with 1 April 2024 are calculated by –
 
@@ -407,7 +407,7 @@ For the purposes of regulations 4 to 9, 11 and 12, where the requirements of par
 
 (2) In this regulation, “**CPIH**” means the consumer prices index including owner occupiers’ housing costs (all items) published by the Office for National Statistics.
 
-### 18. Notice of rights[^key-32894d1ddaf37594cbd610e3621304d1]
+### 18. Notice of rights[^c-32894d1ddaf37594cbd610e3621304d1]
 
 In respect of the rights prescribed for the benefit of customers or relevant authorities (as the case may be) under these Regulations, an electricity distributor must prepare and from time to time revise a statement describing those rights and the effect of section 39A(5) of the Act in a form that is standardised with that of other electricity distributors and has a content that the electricity distributor could reasonably expect would be within the understanding of customers or relevant authorities to which the statement relates, and must—
 
@@ -434,17 +434,17 @@ Department of Energy and Climate Change
 
 13th March 2015
 
-## SCHEDULE 1 — Data for the Purpose of Calculating Payments[^key-48ef1e2679d460c6739dc80c847fddfc]
+## SCHEDULE 1 — Data for the Purpose of Calculating Payments[^c-48ef1e2679d460c6739dc80c847fddfc]
 
 Regulation 2(1)
 
 ### Prescribed periods and prescribed sums applicable to all electricity distributors
 
-[^key-48ef1e2679d460c6739dc80c847fddfc]
+[^c-48ef1e2679d460c6739dc80c847fddfc]
 
 | *(1)*<br>*Regulation* | *(2)*<br>*Prescribed period* | *(3)*<br>*Prescribed sum* | *(4)*<br>*Payment Date* |
 | --- | --- | --- | --- |
-| 4(2)[^key-ba8c3a0bc4d43c8443c7364be32974ee] | 10 working days | £75 | the working day on which the budget estimate should have been dispatched |
+| 4(2)[^c-ba8c3a0bc4d43c8443c7364be32974ee] | 10 working days | £75 | the working day on which the budget estimate should have been dispatched |
 | 4(3) | 20 working days | £75 | the working day on which the budget estimate should have been dispatched |
 | 5(2) | 5 working days | £20 for each working day after the end of the prescribed period up to and including the day on which the quotation is dispatched | the working day on which the quotation is dispatched |
 | 5(3) | 15 working days | £20 for each working day after the end of the prescribed period up to and including the day on which the quotation is dispatched | the working day on which the quotation is dispatched |
@@ -481,7 +481,7 @@ Regulation 13
 
 ### Determination of disputes
 
-**1.**[^key-ba7c227c03bf7f5672c81945de71026a] (1) This Schedule applies where a dispute to which regulation 13 applies has arisen under any provision of these Regulations between an electricity distributor and a customer or relevant authority (as applicable).
+**1.**[^c-ba7c227c03bf7f5672c81945de71026a] (1) This Schedule applies where a dispute to which regulation 13 applies has arisen under any provision of these Regulations between an electricity distributor and a customer or relevant authority (as applicable).
 
 (2) A dispute to which this Schedule applies—
 
@@ -492,13 +492,13 @@ Regulation 13
 
 ### Timetable for the determination of individual disputes
 
-**2.**[^key-b9437478eaec818f8f32f4e23fabed73] (1) The Authority must determine a dispute to which this Schedule applies before the end of eighty working days from the date when the dispute was referred to the Authority.
+**2.**[^c-b9437478eaec818f8f32f4e23fabed73] (1) The Authority must determine a dispute to which this Schedule applies before the end of eighty working days from the date when the dispute was referred to the Authority.
 
 (2) If the Authority is satisfied that there are good reasons for departing from the requirements of sub-paragraph (1), the period in which a dispute may be determined may be extended with the consent of the referring party or parties.
 
 ### Procedure for the determination of individual disputes
 
-**3.**[^key-bc08e8f53891846ccdc92928ed8ed3ce] (1) Where an individual dispute is referred to the Authority, the Authority must, at the outset, send to the parties a notice of procedure for the determination of individual disputes.
+**3.**[^c-bc08e8f53891846ccdc92928ed8ed3ce] (1) Where an individual dispute is referred to the Authority, the Authority must, at the outset, send to the parties a notice of procedure for the determination of individual disputes.
 
 (2) The notice under sub-paragraph (1) must—
 
@@ -526,19 +526,19 @@ Regulation 13
 
 ### Determination of multiple disputes
 
-**4.**[^key-70cdf8f98ec55d7c8c2fa682cdd24957] (1) The Authority may, if it considers it appropriate to do so, consolidate into one or more categories (in each case a “consolidated group”) similar or related disputes for the purposes of determining those disputes.
+**4.**[^c-70cdf8f98ec55d7c8c2fa682cdd24957] (1) The Authority may, if it considers it appropriate to do so, consolidate into one or more categories (in each case a “consolidated group”) similar or related disputes for the purposes of determining those disputes.
 
 (2) A determination made by the Authority for one or more consolidated groups must apply, in respect of each consolidated group, to each individual dispute within that group.
 
 ### Timetable for determination of multiple disputes
 
-**5.**[^key-3d6afdca22faeebf544537ccd68c29a5] (1) The Authority, when determining disputes falling within a consolidated group, must determine those disputes before the end of six months from the date when they were consolidated into that group by the Authority under paragraph 4.
+**5.**[^c-3d6afdca22faeebf544537ccd68c29a5] (1) The Authority, when determining disputes falling within a consolidated group, must determine those disputes before the end of six months from the date when they were consolidated into that group by the Authority under paragraph 4.
 
 (2) If the Authority is satisfied that there are good reasons for departing from the requirements of sub-paragraph (1), the period in which disputes falling within a consolidated group may be determined may be extended by notice to the representatives of any such group nominated under paragraph 10.
 
 ### Procedure for the determination of multiple disputes
 
-**6.**[^key-4b29bf637481c992f949133d2bcc2290] (1) Where the Authority considers it appropriate to consolidate disputes under paragraph 4, it must send to the parties a notice of procedure for the determination of those disputes.
+**6.**[^c-4b29bf637481c992f949133d2bcc2290] (1) Where the Authority considers it appropriate to consolidate disputes under paragraph 4, it must send to the parties a notice of procedure for the determination of those disputes.
 
 (2) The notices under sub-paragraph (1) must—
 
@@ -579,7 +579,7 @@ Regulation 13
 
 ### Written statements
 
-**7.**[^key-cf09e007ea00dad4ecb852ebeeaa1534] (1) The Authority may, by notice, ask any party to a dispute to produce a written statement with respect to a matter specified in the notice.
+**7.**[^c-cf09e007ea00dad4ecb852ebeeaa1534] (1) The Authority may, by notice, ask any party to a dispute to produce a written statement with respect to a matter specified in the notice.
 
 (2) The power to ask for the production of a written statement includes power to specify the time and place at which it is to be produced.
 
@@ -589,7 +589,7 @@ Regulation 13
 
 ### Production of documents and other evidence
 
-**8.**[^key-682258acdad6a1e205530463e75cbe40] (1) The Authority may, by notice, ask a party to a dispute to produce such documentation (including other evidence), in such form and at such time as it directs, as the Authority may reasonably require to enable it to make the determination decision.
+**8.**[^c-682258acdad6a1e205530463e75cbe40] (1) The Authority may, by notice, ask a party to a dispute to produce such documentation (including other evidence), in such form and at such time as it directs, as the Authority may reasonably require to enable it to make the determination decision.
 
 (2) The power to ask for the production of a document is a power to ask for its production—
 
@@ -602,7 +602,7 @@ Regulation 13
 
 ### Oral hearings
 
-**9.**[^key-0c7618cd904e198761b1866c66095127] (1) For the purposes of this Schedule, an oral hearing may be held, and evidence may be heard at such a hearing from any party to a dispute.
+**9.**[^c-0c7618cd904e198761b1866c66095127] (1) For the purposes of this Schedule, an oral hearing may be held, and evidence may be heard at such a hearing from any party to a dispute.
 
 (2) The Authority may, by notice, request any party to a dispute—
 
@@ -617,13 +617,13 @@ Regulation 13
 
 ### Customer representatives for multiple disputes
 
-**10.**[^key-50754c1f49ad8c9eb62bab2ed772f028] (1) Where disputes are consolidated into categories under paragraph 4, the Authority must nominate one or more customers to be representatives of each consolidated group.
+**10.**[^c-50754c1f49ad8c9eb62bab2ed772f028] (1) Where disputes are consolidated into categories under paragraph 4, the Authority must nominate one or more customers to be representatives of each consolidated group.
 
 (2) A customer nominated to be a representative of a consolidated group under this paragraph is only to become a representative if he consents to do so.
 
 ### Collection of information in multiple disputes
 
-**11.**[^key-ff6197c2c5ab269298624a697f40ecc9] (1) The Authority may by notice ask any customer or relevant authority (as applicable) who is a party to a dispute falling within a consolidated group to produce such information with respect to a matter specified in the notice as the Authority may reasonably require to enable it to make the determination decision.
+**11.**[^c-ff6197c2c5ab269298624a697f40ecc9] (1) The Authority may by notice ask any customer or relevant authority (as applicable) who is a party to a dispute falling within a consolidated group to produce such information with respect to a matter specified in the notice as the Authority may reasonably require to enable it to make the determination decision.
 
 (2) The power to require the production of information under this paragraph includes the power to specify the time and place at which it is to be produced.
 
@@ -631,15 +631,15 @@ Regulation 13
 
 ### Payment to customers
 
-**12.**[^key-1ef3f7630519872d4f22b9a755d6554e] An order determining a dispute does not (where there is more than one customer at the premises) determine who is beneficially entitled to any payment required to be made by the order.
+**12.**[^c-1ef3f7630519872d4f22b9a755d6554e] An order determining a dispute does not (where there is more than one customer at the premises) determine who is beneficially entitled to any payment required to be made by the order.
 
 ### Set-off
 
-**13.**[^key-6c01b76e83f2e4ec8fcb4f1ae40bbe45] Where a dispute is determined by an order requiring an electricity distributor to make a payment to the customer or the relevant authority (as applicable) and the electricity distributor fails to make that payment, the customer may set off the amount so ordered to be paid against any charges that are owed by the customer to the electricity distributor.
+**13.**[^c-6c01b76e83f2e4ec8fcb4f1ae40bbe45] Where a dispute is determined by an order requiring an electricity distributor to make a payment to the customer or the relevant authority (as applicable) and the electricity distributor fails to make that payment, the customer may set off the amount so ordered to be paid against any charges that are owed by the customer to the electricity distributor.
 
 ### Costs
 
-**14.**[^key-c098c5cb65a5a4a972c392dfdb84aa09] (1) An order determining a dispute may include a provision requiring the electricity distributor or the customer or the relevant authority (as applicable) to pay a sum in respect of the costs or expenses incurred by the Authority.
+**14.**[^c-c098c5cb65a5a4a972c392dfdb84aa09] (1) An order determining a dispute may include a provision requiring the electricity distributor or the customer or the relevant authority (as applicable) to pay a sum in respect of the costs or expenses incurred by the Authority.
 
 (2) In including in an order under sub-paragraph (1) any such provision as to costs, the Authority must have regard to the conduct and means of the parties and any other relevant circumstances.
 
@@ -674,13 +674,13 @@ The Regulations come into force on 1st April 2015.
 
 [^f00003]: Footnote: The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 ([S.I. 2014/631](https://www.legislation.gov.uk/uksi/2014/631)) abolished the National Consumer Council and transferred its functions to The National Association of Citizens Advice Bureaux and the Scottish Association of Citizens Advice Bureaux.
 
-[^key-a98b3b451f5034159bf36111351ebaac]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-a98b3b451f5034159bf36111351ebaac]: Commencement: Reg. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
 [^f00004]: Footnote: [S.I. 2010/2088](https://www.legislation.gov.uk/uksi/2010/2088)
 
 [^f00005]: Footnote: [S.I. 2010/2088](https://www.legislation.gov.uk/uksi/2010/2088)
 
-[^key-af46bebdffdc0af8a92b54a11092ad0e]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-af46bebdffdc0af8a92b54a11092ad0e]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
 [^f00006]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29).
 
@@ -690,41 +690,41 @@ The Regulations come into force on 1st April 2015.
 
 [^f00009]: Footnote: [1991 c.22](https://www.legislation.gov.uk/ukpga/1991/22).
 
-[^key-f3397c644c866f4be2bd4b4e456e9b5f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/2/1) inserted (1.10.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/4), [3(1)](https://www.legislation.gov.uk/uksi/2023/887/regulation/3/1)
+[^c-f3397c644c866f4be2bd4b4e456e9b5f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/2/1) inserted (1.10.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/4), [3(1)](https://www.legislation.gov.uk/uksi/2023/887/regulation/3/1)
 
-[^key-b82ab4bddb33aa3ea3b024ec03299fda]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-b82ab4bddb33aa3ea3b024ec03299fda]: Commencement: Reg. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-d7990b8681a368fc6fddb39c778edb64]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-d7990b8681a368fc6fddb39c778edb64]: Commencement: Reg. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-3fcc37c0223a79174e07594b6c885ba1]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-3fcc37c0223a79174e07594b6c885ba1]: Commencement: Reg. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
 [^f00010]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29); section 16A was inserted by the section 44 of the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and amended by section 98 of the Energy Act [2008 (c.32)](https://www.legislation.gov.uk/ukpga/2008/32).
 
-[^key-43020c704ad4870d2b42cb3592f9e54d]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-43020c704ad4870d2b42cb3592f9e54d]: Commencement: Reg. 6 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-35f0803966104ec3903897d127dd49fc]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-35f0803966104ec3903897d127dd49fc]: Commencement: Reg. 7 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-e6da387958c6928d994995ab095f45d2]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-e6da387958c6928d994995ab095f45d2]: Commencement: Reg. 8 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
 [^f00011]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29); section 20 was amended by section 47 of, and schedule 8 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and modified by sectin 3(2) of that Act.
 
 [^f00012]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29); section 21 was amended by section 47 of, and Schedule 8 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27) and modified by section 3(2) of that Act.
 
-[^key-38ed923de4fac79e0d22a13edbc677cc]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-38ed923de4fac79e0d22a13edbc677cc]: Commencement: Reg. 9 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-ad70746e734d3f7e8adc377b6765db38]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-ad70746e734d3f7e8adc377b6765db38]: Commencement: Reg. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
 [^f00013]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29); sub-paragraph (1A) of Schedule 7 was inserted by paragraph 3(2) of Schedule 5 to the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-ceebd02da26075bce5a701257141e17e]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-ceebd02da26075bce5a701257141e17e]: Commencement: Reg. 11 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-3582960858f773af762ecaa01778f256]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-3582960858f773af762ecaa01778f256]: Commencement: Reg. 12 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-891c7112d184aea8cc352c4b12a05a88]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-891c7112d184aea8cc352c4b12a05a88]: Commencement: Reg. 13 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-8b71da6f2004062d1ea87f044fdb81cc]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-8b71da6f2004062d1ea87f044fdb81cc]: Commencement: Reg. 14 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-95a5989103e342cb8ab55fb5538d4056]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-95a5989103e342cb8ab55fb5538d4056]: Commencement: Reg. 15 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
 [^f00014]: Footnote: [1989 c.29](https://www.legislation.gov.uk/ukpga/1989/29); section 96 was amended by [S.I. 2012/2400](https://www.legislation.gov.uk/uksi/2012/2400).
 
@@ -732,9 +732,9 @@ The Regulations come into force on 1st April 2015.
 
 [^f00016]: Footnote: Schedule 6 was substituted by section 51(2) of, and Schedule 4 to, the Utilities Act [2000 (c.27)](https://www.legislation.gov.uk/ukpga/2000/27).
 
-[^key-ce82641b2ed1203a4d60c683d49b5f21]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-ce82641b2ed1203a4d60c683d49b5f21]: Commencement: Reg. 16 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-863373af79e82193c41057088dd76b0e]: Textual amendment: Words in [reg. 16(4)(a)](https://www.legislation.gov.uk/uksi/2015/698/regulation/16/4/a) substituted (1.10.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/4), [3(2)](https://www.legislation.gov.uk/uksi/2023/887/regulation/3/2)
+[^c-863373af79e82193c41057088dd76b0e]: Textual amendment: Words in [reg. 16(4)(a)](https://www.legislation.gov.uk/uksi/2015/698/regulation/16/4/a) substituted (1.10.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/4), [3(2)](https://www.legislation.gov.uk/uksi/2023/887/regulation/3/2)
 
 [^f00017]: Footnote: [S.I. 2015/699](https://www.legislation.gov.uk/uksi/2015/699)
 
@@ -742,40 +742,40 @@ The Regulations come into force on 1st April 2015.
 
 [^f00019]: Footnote: [1991 c.22](https://www.legislation.gov.uk/ukpga/1991/22).
 
-[^key-7cbcbd997f61d34ac9e9b79910b41a2c]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-7cbcbd997f61d34ac9e9b79910b41a2c]: Commencement: Reg. 17 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-86ca2c00f3ef31adc75eea224e453b24]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2015/698/regulation/17A) inserted (1.10.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/4), [3(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/3/3)
+[^c-86ca2c00f3ef31adc75eea224e453b24]: Textual amendment: [Reg. 17A](https://www.legislation.gov.uk/uksi/2015/698/regulation/17A) inserted (1.10.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/4), [3(3)](https://www.legislation.gov.uk/uksi/2023/887/regulation/3/3)
 
-[^key-32894d1ddaf37594cbd610e3621304d1]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-32894d1ddaf37594cbd610e3621304d1]: Commencement: Reg. 18 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-48ef1e2679d460c6739dc80c847fddfc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/698/schedule/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-48ef1e2679d460c6739dc80c847fddfc]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/698/schedule/1) in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-ba8c3a0bc4d43c8443c7364be32974ee]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/698/schedule/1) Table substituted (1.10.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/4), [3(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/3/4)
+[^c-ba8c3a0bc4d43c8443c7364be32974ee]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2015/698/schedule/1) Table substituted (1.10.2023) by [The Electricity (Standards of Performance) (Amendment) Regulations 2023 (S.I. 2023/887)](https://www.legislation.gov.uk/uksi/2023/887), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/1/4), [3(4)](https://www.legislation.gov.uk/uksi/2023/887/regulation/3/4)
 
-[^key-ba7c227c03bf7f5672c81945de71026a]: Commencement: Sch. 2 para. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-ba7c227c03bf7f5672c81945de71026a]: Commencement: Sch. 2 para. 1 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-b9437478eaec818f8f32f4e23fabed73]: Commencement: Sch. 2 para. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-b9437478eaec818f8f32f4e23fabed73]: Commencement: Sch. 2 para. 2 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-bc08e8f53891846ccdc92928ed8ed3ce]: Commencement: Sch. 2 para. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-bc08e8f53891846ccdc92928ed8ed3ce]: Commencement: Sch. 2 para. 3 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-70cdf8f98ec55d7c8c2fa682cdd24957]: Commencement: Sch. 2 para. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-70cdf8f98ec55d7c8c2fa682cdd24957]: Commencement: Sch. 2 para. 4 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-3d6afdca22faeebf544537ccd68c29a5]: Commencement: Sch. 2 para. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-3d6afdca22faeebf544537ccd68c29a5]: Commencement: Sch. 2 para. 5 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-4b29bf637481c992f949133d2bcc2290]: Commencement: Sch. 2 para. 6 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-4b29bf637481c992f949133d2bcc2290]: Commencement: Sch. 2 para. 6 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-cf09e007ea00dad4ecb852ebeeaa1534]: Commencement: Sch. 2 para. 7 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-cf09e007ea00dad4ecb852ebeeaa1534]: Commencement: Sch. 2 para. 7 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-682258acdad6a1e205530463e75cbe40]: Commencement: Sch. 2 para. 8 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-682258acdad6a1e205530463e75cbe40]: Commencement: Sch. 2 para. 8 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-0c7618cd904e198761b1866c66095127]: Commencement: Sch. 2 para. 9 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-0c7618cd904e198761b1866c66095127]: Commencement: Sch. 2 para. 9 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-50754c1f49ad8c9eb62bab2ed772f028]: Commencement: Sch. 2 para. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-50754c1f49ad8c9eb62bab2ed772f028]: Commencement: Sch. 2 para. 10 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-ff6197c2c5ab269298624a697f40ecc9]: Commencement: Sch. 2 para. 11 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-ff6197c2c5ab269298624a697f40ecc9]: Commencement: Sch. 2 para. 11 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-1ef3f7630519872d4f22b9a755d6554e]: Commencement: Sch. 2 para. 12 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-1ef3f7630519872d4f22b9a755d6554e]: Commencement: Sch. 2 para. 12 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-6c01b76e83f2e4ec8fcb4f1ae40bbe45]: Commencement: Sch. 2 para. 13 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-6c01b76e83f2e4ec8fcb4f1ae40bbe45]: Commencement: Sch. 2 para. 13 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
 
-[^key-c098c5cb65a5a4a972c392dfdb84aa09]: Commencement: Sch. 2 para. 14 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)
+[^c-c098c5cb65a5a4a972c392dfdb84aa09]: Commencement: Sch. 2 para. 14 in force at 1.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/698/regulation/1/1)

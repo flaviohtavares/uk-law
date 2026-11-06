@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Accrual of interest[^key-1ef66cc4aee1bdd3472fc00025acd8bf]
+## 28. Accrual of interest[^c-1ef66cc4aee1bdd3472fc00025acd8bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ I% is the annual rate of interest fixed for the current term of the stock.
 
 ## Annotations
 
-[^key-1ef66cc4aee1bdd3472fc00025acd8bf]: Commencement: Reg. 28 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)
+[^c-1ef66cc4aee1bdd3472fc00025acd8bf]: Commencement: Reg. 28 in force at 6.4.2015, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/624/regulation/1/1)

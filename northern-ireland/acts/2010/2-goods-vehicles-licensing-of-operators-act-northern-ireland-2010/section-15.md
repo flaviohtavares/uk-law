@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Duration of operators' licences[^key-784870f7ac2546536fcb4340ff6f8b78]
+## 15. Duration of operators' licences[^c-784870f7ac2546536fcb4340ff6f8b78]
 
 *Extent: N.I.*
 
@@ -28,13 +28,13 @@ summary: ''
 
 (4) The Department may refuse to comply with the request if it is considering giving a direction in respect of the licence under section 23 or 24.
 
-(5)[^key-261ff318992828fa8540c1d18dff2889] An operator's licence held by an individual terminates if—
+(5)[^c-261ff318992828fa8540c1d18dff2889] An operator's licence held by an individual terminates if—
 
 - (a) the individual dies, or
 - (b) the individual becomes a patient within the meaning of Article 2(2) of the Mental Health (Northern Ireland) Order 1986 (NI 4).
 
 ## Annotations
 
-[^key-784870f7ac2546536fcb4340ff6f8b78]: Commencement: S. 15 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
+[^c-784870f7ac2546536fcb4340ff6f8b78]: Commencement: S. 15 in operation at 1.7.2012 by [S.R. 2012/262](https://www.legislation.gov.uk/nisr/2012/262), [art. 2](https://www.legislation.gov.uk/nisr/2012/262/article/2) (with [arts. 4-6](https://www.legislation.gov.uk/nisr/2012/262/article/4))
 
-[^key-261ff318992828fa8540c1d18dff2889]: Modification: S. 15(5) applied (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [regs. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1), [27(11)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/11)
+[^c-261ff318992828fa8540c1d18dff2889]: Modification: S. 15(5) applied (1.7.2012) by [The Goods Vehicles (Licensing of Operators) Regulations (Northern Ireland) 2012 (S.R. 2012/261)](https://www.legislation.gov.uk/nisr/2012/261), [regs. 1](https://www.legislation.gov.uk/nisr/2012/261/regulation/1), [27(11)](https://www.legislation.gov.uk/nisr/2012/261/regulation/27/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation: definitions[^key-1254f879f57bb071e4be0c3587d654e4]
+## 2. Interpretation: definitions[^c-1254f879f57bb071e4be0c3587d654e4]
 
 *Extent: E+W*
 
@@ -36,7 +36,7 @@ summary: ''
   - (b) against an individual member, a petition for a bankruptcy order to be made against that individual,
 
   where the petition is presented in conjunction with a petition for the winding up of the partnership by the court as an unregistered company under the Act;
-- “insolvency proceedings” means any proceedings under the Act, this Order or the Insolvency (England and Wales) Rules 2016[^key-ad717ad815c2ad5f25d39ca1d7792da3]
+- “insolvency proceedings” means any proceedings under the Act, this Order or the Insolvency (England and Wales) Rules 2016[^c-ad717ad815c2ad5f25d39ca1d7792da3]
 - “insolvent member” means a member of an insolvent partnership, against whom an insolvency petition is being or has been presented;
 - “joint bankruptcy petition” means a petition by virtue of article 11 of this Order;
 - “joint debt” means a debt of an insolvent partnership in respect of which an order is made by virtue of Part IV or V of this Order;
@@ -67,11 +67,11 @@ summary: ''
 
 ## Annotations
 
-[^key-1254f879f57bb071e4be0c3587d654e4]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1994/2421/article/2) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
+[^c-1254f879f57bb071e4be0c3587d654e4]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/1994/2421/article/2) in force at 1.12.1994, see [art. 1(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/1/1)
 
 [^f00003]: Footnote: [1928 c. 43](https://www.legislation.gov.uk/ukpga/1928/43).
 
-[^key-ad717ad815c2ad5f25d39ca1d7792da3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/2/1) substituted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/2) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
+[^c-ad717ad815c2ad5f25d39ca1d7792da3]: Textual amendment: Words in [art. 2(1)](https://www.legislation.gov.uk/uksi/1994/2421/article/2/1) substituted (8.12.2017) by [The Insolvency (Miscellaneous Amendments) Regulations 2017 (S.I. 2017/1119)](https://www.legislation.gov.uk/uksi/2017/1119), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2017/1119/regulation/1/1), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/2) (with [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2017/1119/schedule/2/paragraph/10))
 
 [^f00005]: Footnote: [1907 c. 24](https://www.legislation.gov.uk/ukpga/1907/24).
 

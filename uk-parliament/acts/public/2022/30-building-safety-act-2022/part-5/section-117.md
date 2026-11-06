@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Meaning of “relevant building”[^key-2f309779ccab18eb7781a54dafe61d84][^key-420f962f996963098bbf3b829c4bb60d]
+## 117. Meaning of “relevant building”[^c-2f309779ccab18eb7781a54dafe61d84][^c-420f962f996963098bbf3b829c4bb60d]
 
 *Extent: E+W*
 
-(1) This section applies for the purposes of sections 119 to 124[^key-d7798f50a81bc145764b8744a3ec1c33] and Schedule 8.
+(1) This section applies for the purposes of sections 119 to 124[^c-d7798f50a81bc145764b8744a3ec1c33] and Schedule 8.
 
 (2) “**Relevant building**” means a self-contained building, or self-contained part of a building, in England that contains at least two dwellings and—
 
@@ -50,8 +50,8 @@ This is subject to subsection (3).
 
 ## Annotations
 
-[^key-2f309779ccab18eb7781a54dafe61d84]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2022/30/section/117) in force at 28.6.2022, see [s. 170(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/a)
+[^c-2f309779ccab18eb7781a54dafe61d84]: Commencement: [S. 117](https://www.legislation.gov.uk/ukpga/2022/30/section/117) in force at 28.6.2022, see [s. 170(3)(a)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/3/a)
 
-[^key-420f962f996963098bbf3b829c4bb60d]: Modification: [S. 117](https://www.legislation.gov.uk/ukpga/2022/30/section/117) applied (4.7.2023) by [The Building Safety (Responsible Actors Scheme and Prohibitions) Regulations 2023 (S.I. 2023/753)](https://www.legislation.gov.uk/uksi/2023/753), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/3/4/a)
+[^c-420f962f996963098bbf3b829c4bb60d]: Modification: [S. 117](https://www.legislation.gov.uk/ukpga/2022/30/section/117) applied (4.7.2023) by [The Building Safety (Responsible Actors Scheme and Prohibitions) Regulations 2023 (S.I. 2023/753)](https://www.legislation.gov.uk/uksi/2023/753), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/753/regulation/1/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2023/753/regulation/3/4/a)
 
-[^key-d7798f50a81bc145764b8744a3ec1c33]: Textual amendment: Word in [s. 117(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/117/1) substituted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/2/c), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)
+[^c-d7798f50a81bc145764b8744a3ec1c33]: Textual amendment: Word in [s. 117(1)](https://www.legislation.gov.uk/ukpga/2022/30/section/117/1) substituted (24.7.2024) by [Leasehold and Freehold Reform Act 2024 (c. 22)](https://www.legislation.gov.uk/ukpga/2024/22), [ss. 118(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/118/2/c), [124(2)(c)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/2/c)

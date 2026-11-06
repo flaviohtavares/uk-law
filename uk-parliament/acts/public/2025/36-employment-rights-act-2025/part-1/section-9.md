@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Right to request flexible working[^key-db45cc997bc9cb7deaf90c92c5303f4d][^key-caaa1a79fba554cf941c974e40eeff5b]
+## 9. Right to request flexible working[^c-db45cc997bc9cb7deaf90c92c5303f4d][^c-caaa1a79fba554cf941c974e40eeff5b]
 
 *Extent: E+W+S*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-db45cc997bc9cb7deaf90c92c5303f4d]: Commencement: S. 9 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-db45cc997bc9cb7deaf90c92c5303f4d]: Commencement: S. 9 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-caaa1a79fba554cf941c974e40eeff5b]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/36/section/9) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(6)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/6)
+[^c-caaa1a79fba554cf941c974e40eeff5b]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/36/section/9) in force at 6.1.2026 for specified purposes by [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(6)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/6)

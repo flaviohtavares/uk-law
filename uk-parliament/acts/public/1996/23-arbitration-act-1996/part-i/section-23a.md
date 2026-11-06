@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23A. Impartiality: duty of disclosure[^key-dbee208b299c5f128ea7e2640205f0a4]
+## 23A. Impartiality: duty of disclosure[^c-dbee208b299c5f128ea7e2640205f0a4]
 
 *Extent: E+W+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dbee208b299c5f128ea7e2640205f0a4]: Textual amendment: S. 23A inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/2/2), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)
+[^c-dbee208b299c5f128ea7e2640205f0a4]: Textual amendment: S. 23A inserted (1.8.2025) by [Arbitration Act 2025 (c. 4)](https://www.legislation.gov.uk/ukpga/2025/4), [ss. 2(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/2/2), [17(2)](https://www.legislation.gov.uk/ukpga/2025/4/section/17/2); [S.I. 2025/905](https://www.legislation.gov.uk/uksi/2025/905), [reg. 2](https://www.legislation.gov.uk/uksi/2025/905/regulation/2)

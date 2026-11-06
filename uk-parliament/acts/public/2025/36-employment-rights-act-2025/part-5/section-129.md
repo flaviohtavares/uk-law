@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. LME orders: appeals[^key-427567be5e6fba3331a8b2cb985ec631][^key-d4dd98065a14be9cd60633c17b8bc2bf]
+## 129. LME orders: appeals[^c-427567be5e6fba3331a8b2cb985ec631][^c-d4dd98065a14be9cd60633c17b8bc2bf]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-427567be5e6fba3331a8b2cb985ec631]: Commencement: S. 129 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-427567be5e6fba3331a8b2cb985ec631]: Commencement: S. 129 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-d4dd98065a14be9cd60633c17b8bc2bf]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2025/36/section/129) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(30)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/30)
+[^c-d4dd98065a14be9cd60633c17b8bc2bf]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2025/36/section/129) in force at 7.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(30)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/30)

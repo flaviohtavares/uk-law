@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 49.4. Persons entitled to appear and take part in proceedings before a nominated court, and exclusion of the public[^key-fda6d9b10a5369708a3645a5a305941d]
+## 49.4. Persons entitled to appear and take part in proceedings before a nominated court, and exclusion of the public[^c-fda6d9b10a5369708a3645a5a305941d]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ A court nominated under section 15(1) of the Crime (International Co-operation) 
 
 ## Annotations
 
-[^key-fda6d9b10a5369708a3645a5a305941d]: Commencement: [Rule 49.4](https://www.legislation.gov.uk/uksi/2025/909/rule/49.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-fda6d9b10a5369708a3645a5a305941d]: Commencement: [Rule 49.4](https://www.legislation.gov.uk/uksi/2025/909/rule/49.4) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 207. Acceptance of a club transfer value[^key-a3b265d8e0c76e9aae127f2634eb24e4]
+## 207. Acceptance of a club transfer value[^c-a3b265d8e0c76e9aae127f2634eb24e4]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a3b265d8e0c76e9aae127f2634eb24e4]: Commencement: [Reg. 207](https://www.legislation.gov.uk/ssi/2014/292/regulation/207) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-a3b265d8e0c76e9aae127f2634eb24e4]: Commencement: [Reg. 207](https://www.legislation.gov.uk/ssi/2014/292/regulation/207) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

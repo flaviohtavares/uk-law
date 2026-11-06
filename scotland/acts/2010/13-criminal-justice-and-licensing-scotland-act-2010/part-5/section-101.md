@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 101. Foreign travel orders[^key-2e7c56c883cc0708b8f68ff8eefa6ea5]
+## 101. Foreign travel orders[^c-2e7c56c883cc0708b8f68ff8eefa6ea5]
 
 *Extent: S*
 
@@ -72,4 +72,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e7c56c883cc0708b8f68ff8eefa6ea5]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2010/13/section/101) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-2e7c56c883cc0708b8f68ff8eefa6ea5]: Commencement: [S. 101](https://www.legislation.gov.uk/asp/2010/13/section/101) in force at 13.12.2010 by [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

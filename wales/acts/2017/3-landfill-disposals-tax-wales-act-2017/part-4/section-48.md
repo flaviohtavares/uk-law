@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 48. Power to issue preliminary notice[^key-c833277b1c7a90f9a984696f26d5295b]
+## 48. Power to issue preliminary notice[^c-c833277b1c7a90f9a984696f26d5295b]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c833277b1c7a90f9a984696f26d5295b]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2017/3/section/48) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)
+[^c-c833277b1c7a90f9a984696f26d5295b]: Commencement: [S. 48](https://www.legislation.gov.uk/anaw/2017/3/section/48) in force at 1.4.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 3](https://www.legislation.gov.uk/wsi/2018/35/article/3)

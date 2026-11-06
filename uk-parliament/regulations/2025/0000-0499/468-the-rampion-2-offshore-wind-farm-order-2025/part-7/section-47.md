@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Saving provisions for Trinity House[^key-db0d6d3b3f9d9b74042957fc9606fe99]
+## 47. Saving provisions for Trinity House[^c-db0d6d3b3f9d9b74042957fc9606fe99]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Nothing in this Order prejudices or derogates from any of the rights, duties or 
 
 ## Annotations
 
-[^key-db0d6d3b3f9d9b74042957fc9606fe99]: Commencement: Art. 47 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)
+[^c-db0d6d3b3f9d9b74042957fc9606fe99]: Commencement: Art. 47 in force at 28.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/468/article/1)

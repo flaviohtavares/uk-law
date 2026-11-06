@@ -22,7 +22,7 @@ summary: ''
 
 Article 16
 
-### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY SUSPENDED[^key-8cd58c63b964e96deb67a965f0e6b34d]
+### PART 1 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY SUSPENDED[^c-8cd58c63b964e96deb67a965f0e6b34d]
 
 <table>
 <thead>
@@ -38,7 +38,7 @@ Article 16
 </tbody>
 </table>
 
-### PART 2 — NEW PUBLIC RIGHTS OF WAY TO BE CREATED[^key-0a0df9415348898a188f998f59804ed8]
+### PART 2 — NEW PUBLIC RIGHTS OF WAY TO BE CREATED[^c-0a0df9415348898a188f998f59804ed8]
 
 <table>
 <thead>
@@ -60,6 +60,6 @@ Article 16
 
 ## Annotations
 
-[^key-8cd58c63b964e96deb67a965f0e6b34d]: Commencement: Sch. 5 Pt. 1 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-8cd58c63b964e96deb67a965f0e6b34d]: Commencement: Sch. 5 Pt. 1 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
 
-[^key-0a0df9415348898a188f998f59804ed8]: Commencement: Sch. 5 Pt. 2 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-0a0df9415348898a188f998f59804ed8]: Commencement: Sch. 5 Pt. 2 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

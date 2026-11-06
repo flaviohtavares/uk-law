@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Prohibition on publication of exit polls[^key-e6bdacf28cd3446f9011d432d757d1a9]
+## 124. Prohibition on publication of exit polls[^c-e6bdacf28cd3446f9011d432d757d1a9]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6bdacf28cd3446f9011d432d757d1a9]: Commencement: Reg. 124 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-e6bdacf28cd3446f9011d432d757d1a9]: Commencement: Reg. 124 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

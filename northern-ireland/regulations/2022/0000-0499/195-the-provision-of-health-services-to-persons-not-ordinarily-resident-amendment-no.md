@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Health[^f00001], in exercise of the powers conferred by Articles 42, 106(b) and 107(6) of the Health and Personal Social Services (Northern Ireland) Order 1972[^f00002],in conjunction with the Department of Finance[^f00003], makes the following Regulations:
 
-## 1. Citation and commencement[^key-4df38c881f8784b55b0ff3a630e5570c]
+## 1. Citation and commencement[^c-4df38c881f8784b55b0ff3a630e5570c]
 
 These Regulations may be cited as the Provision of Health Services to Persons Not Ordinarily Resident (Amendment No. 2) Regulations (Northern Ireland) 2022 and shall come into operation on 7th July 2022.
 
-## 2. Amendment to Schedule 1 to the Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015[^key-6b90d8a1c1fefa47ddf9985a7ed986db]
+## 2. Amendment to Schedule 1 to the Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015[^c-6b90d8a1c1fefa47ddf9985a7ed986db]
 
 In Schedule 1 (Diseases for which no charge is to be made for treatment) to the Provision of Health Services to Persons Not Ordinarily Resident Regulations (Northern Ireland) 2015[^f00004] after “Measles” insert the following entry:
 
@@ -86,8 +86,8 @@ Regulation 4(1)(d) of the 2015 Regulations provides that no charge shall be made
 
 [^f00003]: Footnote: see [2016 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5), s1(4)
 
-[^key-4df38c881f8784b55b0ff3a630e5570c]: Commencement: Reg. 1 in operation at 7.7.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/195/regulation/1)
+[^c-4df38c881f8784b55b0ff3a630e5570c]: Commencement: Reg. 1 in operation at 7.7.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/195/regulation/1)
 
-[^key-6b90d8a1c1fefa47ddf9985a7ed986db]: Commencement: Reg. 2 in operation at 7.7.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/195/regulation/1)
+[^c-6b90d8a1c1fefa47ddf9985a7ed986db]: Commencement: Reg. 2 in operation at 7.7.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/195/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2015 No. 27](https://www.legislation.gov.uk/nisr/2015/27), as amended by [S.I. 2019/784](https://www.legislation.gov.uk/uksi/2019/784), [S.R. 2020 No.25](https://www.legislation.gov.uk/nisr/2020/25), [S.R. 2021 No. 286](https://www.legislation.gov.uk/nisr/2021/286) and [S.R. 2022 No. 174](https://www.legislation.gov.uk/nisr/2022/174)

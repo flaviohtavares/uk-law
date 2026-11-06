@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101. Information in connection with an investigation into the death of a child[^key-5c8e5a577e907b5148a0e3e5626b61e7][^key-7a45d5da2e97718faf727890561a495e]
+## 101. Information in connection with an investigation into the death of a child[^c-5c8e5a577e907b5148a0e3e5626b61e7][^c-7a45d5da2e97718faf727890561a495e]
 
 *Extent: E+W+S+N.I.*
 
-(A1)[^key-e04659a2da84bf23248175d14ed1207f] Subsection (C1) applies if a senior coroner (in England and Wales), a procurator fiscal (in Scotland) or a coroner (in Northern Ireland) (“**the investigating authority**”)—
+(A1)[^c-e04659a2da84bf23248175d14ed1207f] Subsection (C1) applies if a senior coroner (in England and Wales), a procurator fiscal (in Scotland) or a coroner (in Northern Ireland) (“**the investigating authority**”)—
 
 - (a) notifies OFCOM that they are conducting an investigation in connection with the death of a child, and
 - (b) provides OFCOM with the details in subsection (B1).
@@ -51,7 +51,7 @@ summary: ''
 
 (G1) OFCOM must share with the investigating authority any information they receive in response to requirements mentioned in section 102(5A)(d) that are included in a notice under subsection (C1).
 
-(H1)[^key-e5096df9193f5defc26a5b93af41522e] Regulations under subsection (E1)(a) may make provision by reference to a document as amended from time to time.
+(H1)[^c-e5096df9193f5defc26a5b93af41522e] Regulations under subsection (E1)(a) may make provision by reference to a document as amended from time to time.
 
 (1) OFCOM may by notice under this subsection require a relevant person to provide them with information for the purpose of—
 
@@ -70,13 +70,13 @@ summary: ''
 - (c) how the child interacted with the content (for example, by viewing, sharing or storing it or enlarging or pausing on it), and
 - (d) content generated, uploaded or shared by the child.
 
-(3) The powers conferred by this section include[^key-f5e3831ef13c62c8a366164f3eab6533] power to require a relevant person to obtain or generate information.
+(3) The powers conferred by this section include[^c-f5e3831ef13c62c8a366164f3eab6533] power to require a relevant person to obtain or generate information.
 
 (4) The power conferred by subsection (1) must be exercised in a way that is proportionate to the purpose mentioned in that subsection.
 
 (5) The power conferred by subsection (1) does not include power to require the provision of information in respect of which a claim to legal professional privilege, or (in Scotland) to confidentiality of communications, could be maintained in legal proceedings.
 
-(5A)[^key-58ac0e32278c9681802d95a641bfde35] The powers to give a notice conferred by this section do not include power to require processing of personal data that would contravene the data protection legislation (but in determining whether processing of personal data would do so, the duty imposed by the notice is to be taken into account).
+(5A)[^c-58ac0e32278c9681802d95a641bfde35] The powers to give a notice conferred by this section do not include power to require processing of personal data that would contravene the data protection legislation (but in determining whether processing of personal data would do so, the duty imposed by the notice is to be taken into account).
 
 (6) Nothing in this section limits the power conferred on OFCOM by section 100.
 
@@ -88,14 +88,14 @@ summary: ''
 
 ## Annotations
 
-[^key-5c8e5a577e907b5148a0e3e5626b61e7]: Commencement: S. 101 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-5c8e5a577e907b5148a0e3e5626b61e7]: Commencement: S. 101 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-7a45d5da2e97718faf727890561a495e]: Commencement: S. 101 in force at 1.4.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/3/a)
+[^c-7a45d5da2e97718faf727890561a495e]: Commencement: S. 101 in force at 1.4.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/3/a)
 
-[^key-e04659a2da84bf23248175d14ed1207f]: Textual amendment: S. 101(A1)-(G1) inserted (19.6.2025 for specified purposes, 30.9.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(3)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/3/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-e04659a2da84bf23248175d14ed1207f]: Textual amendment: S. 101(A1)-(G1) inserted (19.6.2025 for specified purposes, 30.9.2025 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(3)(a)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/3/a), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
 
-[^key-e5096df9193f5defc26a5b93af41522e]: Textual amendment: S. 101(H1) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 247(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/247/3/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z7)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z7)
+[^c-e5096df9193f5defc26a5b93af41522e]: Textual amendment: S. 101(H1) inserted (29.6.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [ss. 247(3)(b)](https://www.legislation.gov.uk/ukpga/2026/20/section/247/3/b), [255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1); [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(z7)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/z7)
 
-[^key-f5e3831ef13c62c8a366164f3eab6533]: Textual amendment: Words in s. 101(3) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(3)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/3/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-f5e3831ef13c62c8a366164f3eab6533]: Textual amendment: Words in s. 101(3) substituted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(3)(b)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/3/b), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
 
-[^key-58ac0e32278c9681802d95a641bfde35]: Textual amendment: S. 101(5A) inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(3)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/3/c), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-58ac0e32278c9681802d95a641bfde35]: Textual amendment: S. 101(5A) inserted (30.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 124(3)(c)](https://www.legislation.gov.uk/ukpga/2025/18/section/124/3/c), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)

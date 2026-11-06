@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 315.[^key-93e0a618100e97d2befc6bc6d02dfde9]
+## 315.[^c-93e0a618100e97d2befc6bc6d02dfde9]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 4(2), for “Commission” substitute “ Food Safety Authority ”.
 
 ## Annotations
 
-[^key-93e0a618100e97d2befc6bc6d02dfde9]: Commencement: Reg. 315 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-93e0a618100e97d2befc6bc6d02dfde9]: Commencement: Reg. 315 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

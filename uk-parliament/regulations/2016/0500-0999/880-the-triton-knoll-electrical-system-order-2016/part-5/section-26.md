@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Protective provisions[^key-c12554997f47e03857a97a663aaf3983]
+## 26. Protective provisions[^c-c12554997f47e03857a97a663aaf3983]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 8 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-c12554997f47e03857a97a663aaf3983]: Commencement: Art. 26 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)
+[^c-c12554997f47e03857a97a663aaf3983]: Commencement: Art. 26 in force at 27.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/880/article/1/2)

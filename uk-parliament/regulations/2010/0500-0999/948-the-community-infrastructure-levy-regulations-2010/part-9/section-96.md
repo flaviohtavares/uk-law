@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 96. Liability orders: reminder notice[^key-58fb96b112b75aac62738c8d8c9760cc]
+## 96. Liability orders: reminder notice[^c-58fb96b112b75aac62738c8d8c9760cc]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-58fb96b112b75aac62738c8d8c9760cc]: Commencement: Reg. 96 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-58fb96b112b75aac62738c8d8c9760cc]: Commencement: Reg. 96 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

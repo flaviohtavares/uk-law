@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Taxation of returning officer’s account[^key-2914df2cf4c3dd847579f77a6392ac11]
+## 19. Taxation of returning officer’s account[^c-2914df2cf4c3dd847579f77a6392ac11]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2914df2cf4c3dd847579f77a6392ac11]: Commencement: Art. 19 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-2914df2cf4c3dd847579f77a6392ac11]: Commencement: Art. 19 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

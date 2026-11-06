@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Payment for time off.[^key-b756daa04d9648096622595e64a075b4]
+## 43. Payment for time off.[^c-b756daa04d9648096622595e64a075b4]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b756daa04d9648096622595e64a075b4]: Textual amendment: Ss. 42-46 repealed (22.8.1996) by [Employment Rights Act 1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18), [s. 243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [192](https://www.legislation.gov.uk/ukpga/1996/18/section/192), [194](https://www.legislation.gov.uk/ukpga/1996/18/section/194), [195](https://www.legislation.gov.uk/ukpga/1996/18/section/195), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202), [241](https://www.legislation.gov.uk/ukpga/1996/18/section/241), [Sch. 2](https://www.legislation.gov.uk/ukpga/1996/18/schedule/2))
+[^c-b756daa04d9648096622595e64a075b4]: Textual amendment: Ss. 42-46 repealed (22.8.1996) by [Employment Rights Act 1996 (c. 18)](https://www.legislation.gov.uk/ukpga/1996/18), [s. 243](https://www.legislation.gov.uk/ukpga/1996/18/section/243), [Sch. 3 Pt. I](https://www.legislation.gov.uk/ukpga/1996/18/schedule/3/part/I) (with [ss. 191](https://www.legislation.gov.uk/ukpga/1996/18/section/191), [192](https://www.legislation.gov.uk/ukpga/1996/18/section/192), [194](https://www.legislation.gov.uk/ukpga/1996/18/section/194), [195](https://www.legislation.gov.uk/ukpga/1996/18/section/195), [202](https://www.legislation.gov.uk/ukpga/1996/18/section/202), [241](https://www.legislation.gov.uk/ukpga/1996/18/section/241), [Sch. 2](https://www.legislation.gov.uk/ukpga/1996/18/schedule/2))

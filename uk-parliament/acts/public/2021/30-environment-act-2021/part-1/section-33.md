@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Investigations[^key-b118289c3eef5fbde58dfd484dc09fbf][^key-7bddbb6e905ae01bf2bcbc805d1d0847]
+## 33. Investigations[^c-b118289c3eef5fbde58dfd484dc09fbf][^c-7bddbb6e905ae01bf2bcbc805d1d0847]
 
 *Extent: E+W+S+N.I.*
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b118289c3eef5fbde58dfd484dc09fbf]: Commencement: S. 33 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
+[^c-b118289c3eef5fbde58dfd484dc09fbf]: Commencement: S. 33 not in force at Royal Assent, see [s. 147(3)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/3)
 
-[^key-7bddbb6e905ae01bf2bcbc805d1d0847]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2021/30/section/33) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)
+[^c-7bddbb6e905ae01bf2bcbc805d1d0847]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2021/30/section/33) in force at 24.1.2022 by [S.I. 2022/48](https://www.legislation.gov.uk/uksi/2022/48), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2022/48/regulation/2/g)

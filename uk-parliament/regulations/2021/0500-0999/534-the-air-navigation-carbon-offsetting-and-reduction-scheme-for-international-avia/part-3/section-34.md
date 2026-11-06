@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Verification body and national accreditation body[^key-729e208f5fa08c07971916833ababdea]
+## 34. Verification body and national accreditation body[^c-729e208f5fa08c07971916833ababdea]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-729e208f5fa08c07971916833ababdea]: Commencement: Art. 34 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-729e208f5fa08c07971916833ababdea]: Commencement: Art. 34 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)

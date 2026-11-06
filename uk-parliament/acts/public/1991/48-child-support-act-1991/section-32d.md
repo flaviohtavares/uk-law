@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32D. Orders under section 32A: offences[^key-e50a3526c0cb61d89517e59621a99e95]
+## 32D. Orders under section 32A: offences[^c-e50a3526c0cb61d89517e59621a99e95]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ commits an offence.
 
 ## Annotations
 
-[^key-e50a3526c0cb61d89517e59621a99e95]: Textual amendment: [Ss. 32A-32D](https://www.legislation.gov.uk/ukpga/1991/48/section/32A) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 22](https://www.legislation.gov.uk/ukpga/2008/6/section/22), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/1/a)
+[^c-e50a3526c0cb61d89517e59621a99e95]: Textual amendment: [Ss. 32A-32D](https://www.legislation.gov.uk/ukpga/1991/48/section/32A) inserted (1.6.2009 for specified purposes, 3.8.2009 in so far as not already in force) by [Child Maintenance and Other Payments Act 2008 (c. 6)](https://www.legislation.gov.uk/ukpga/2008/6), [ss. 22](https://www.legislation.gov.uk/ukpga/2008/6/section/22), [62(3)](https://www.legislation.gov.uk/ukpga/2008/6/section/62/3); [S.I. 2009/1314](https://www.legislation.gov.uk/uksi/2009/1314), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2009/1314/article/2/1/a)

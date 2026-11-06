@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Power to modify energy supply licences to make provision as to consumer protection[^key-4fd4f835504b209bce1bcc99d0f8fff1]
+## 20. Power to modify energy supply licences to make provision as to consumer protection[^c-4fd4f835504b209bce1bcc99d0f8fff1]
 
 *Extent: E+W+S*
 
@@ -34,7 +34,7 @@ summary: ''
 
 (4) For the purposes of subsection (2) provision corresponds to that made by the disapplied consumer protection legislation if it is made for the same purpose as the purpose for which that provision was made.
 
-(5)[^key-3f8f93cba169f015282416aba5430e35] For the purpose of this section, references to the disapplied consumer protection legislation are to—
+(5)[^c-3f8f93cba169f015282416aba5430e35] For the purpose of this section, references to the disapplied consumer protection legislation are to—
 
 - (a) the provisions of or made under the Consumer Credit Act 1974 or the Financial Services and Markets Act 2000 (“the 2000 Act”), and
 - (b) any rules made under the 2000 Act,
@@ -45,6 +45,6 @@ which would apply but for any exemption conferred by an order under section 22 o
 
 ## Annotations
 
-[^key-4fd4f835504b209bce1bcc99d0f8fff1]: Commencement: S. 20 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/v)
+[^c-4fd4f835504b209bce1bcc99d0f8fff1]: Commencement: S. 20 in force at 21.3.2012 by [S.I. 2012/873](https://www.legislation.gov.uk/uksi/2012/873), [art. 2(a)(v)](https://www.legislation.gov.uk/uksi/2012/873/article/2/a/v)
 
-[^key-3f8f93cba169f015282416aba5430e35]: Textual amendment: [S. 20(5)](https://www.legislation.gov.uk/ukpga/2011/16/section/20/5)[(6)](https://www.legislation.gov.uk/ukpga/2011/16/section/20/6) substituted for [s. 20(5)](https://www.legislation.gov.uk/ukpga/2011/16/section/20/5) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/3)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 17(2)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/17/2)
+[^c-3f8f93cba169f015282416aba5430e35]: Textual amendment: [S. 20(5)](https://www.legislation.gov.uk/ukpga/2011/16/section/20/5)[(6)](https://www.legislation.gov.uk/ukpga/2011/16/section/20/6) substituted for [s. 20(5)](https://www.legislation.gov.uk/ukpga/2011/16/section/20/5) (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/3)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [Sch. para. 17(2)](https://www.legislation.gov.uk/uksi/2013/1881/schedule/paragraph/17/2)

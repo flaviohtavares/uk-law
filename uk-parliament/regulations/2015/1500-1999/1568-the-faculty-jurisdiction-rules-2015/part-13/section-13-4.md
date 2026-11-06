@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 13.4. Judge’s witness[^key-69445fd08c9ec2ec5eb3a82aa0932f63]
+## 13.4. Judge’s witness[^c-69445fd08c9ec2ec5eb3a82aa0932f63]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ The court may direct the attendance of any of the following to give evidence at 
 
 ## Annotations
 
-[^key-69445fd08c9ec2ec5eb3a82aa0932f63]: Commencement: [Rule 13.4](https://www.legislation.gov.uk/uksi/2015/1568/article/13.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-69445fd08c9ec2ec5eb3a82aa0932f63]: Commencement: [Rule 13.4](https://www.legislation.gov.uk/uksi/2015/1568/article/13.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

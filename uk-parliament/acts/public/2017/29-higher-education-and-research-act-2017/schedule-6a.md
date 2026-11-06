@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 6A — Free speech complaints scheme[^key-9b913b8424ee1b1c85f54b494b605760]
+## SCHEDULE 6A — Free speech complaints scheme[^c-9b913b8424ee1b1c85f54b494b605760]
 
 *Extent: E+W+S+N.I.*
 
@@ -138,4 +138,4 @@ For the purposes of the law of defamation, absolute privilege attaches to the pu
 
 ## Annotations
 
-[^key-9b913b8424ee1b1c85f54b494b605760]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/2017/29/schedule/6A) inserted (1.9.2026 except for the insertion of paras. 1(2)(b), 3 and for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2023/16/section/8/2), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2026/654](https://www.legislation.gov.uk/uksi/2026/654), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/654/regulation/2/2)
+[^c-9b913b8424ee1b1c85f54b494b605760]: Textual amendment: [Sch. 6A](https://www.legislation.gov.uk/ukpga/2017/29/schedule/6A) inserted (1.9.2026 except for the insertion of paras. 1(2)(b), 3 and for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 8(2)](https://www.legislation.gov.uk/ukpga/2023/16/section/8/2), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2026/654](https://www.legislation.gov.uk/uksi/2026/654), [reg. 2(2)](https://www.legislation.gov.uk/uksi/2026/654/regulation/2/2)

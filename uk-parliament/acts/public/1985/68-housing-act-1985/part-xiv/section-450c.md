@@ -24,7 +24,7 @@ summary: ''
 
 (2) The regulations may provide that the right or, as the case may be, the power does not arise in the case of any prescribed description of landlord.
 
-(3)[^key-8262cba03018d3cf20211f94d2e8646b] The regulations shall provide that the loan—
+(3)[^c-8262cba03018d3cf20211f94d2e8646b] The regulations shall provide that the loan—
 
 - (a) in the case of a loan made in pursuance of regulations under section 450A (the right to a loan), shall be on such terms as may be prescribed, and
 - (b) in the case of a loan made by virtue of regulations under section 450B (power to make loan), shall be on such terms as the lender may determine subject to any provision made by the regulations;
@@ -49,7 +49,7 @@ and shall, in either case, be secured by a mortgage of the flat in question, but
 
 [^c15079031]: Textual amendment: Ss. 450A, 450B, 450C and cross heading inserted (13.7.1992) by [Housing and Planning Act 1986 (c. 63, SIF 61)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 5](https://www.legislation.gov.uk/ukpga/1986/63/section/5); [S.I. 1992/1753](https://www.legislation.gov.uk/uksi/1992/1753), [art.2(1)](https://www.legislation.gov.uk/uksi/1992/1753/article/2/1)
 
-[^key-8262cba03018d3cf20211f94d2e8646b]: Modification: S. 450C(3) powers extended (1.12.2008 for E. for specified purposes, 19.8.2011 for W.) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 308(2)](https://www.legislation.gov.uk/ukpga/2008/17/section/308/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/17/section/308/3)[325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(8)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/8) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6)); [S.I. 2011/1863](https://www.legislation.gov.uk/uksi/2011/1863), [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/1863/article/3/1)
+[^c-8262cba03018d3cf20211f94d2e8646b]: Modification: S. 450C(3) powers extended (1.12.2008 for E. for specified purposes, 19.8.2011 for W.) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [s. 308(2)](https://www.legislation.gov.uk/ukpga/2008/17/section/308/2)[(3)](https://www.legislation.gov.uk/ukpga/2008/17/section/308/3)[325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(8)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/8) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6)); [S.I. 2011/1863](https://www.legislation.gov.uk/uksi/2011/1863), [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/1863/article/3/1)
 
 [^c19928601]: Textual amendment: Words in s. 450C(4)(a) substituted (1.12.2008 for E. for specified purposes, 19.8.2011 for W.) by [Housing and Regeneration Act 2008 (c. 17)](https://www.legislation.gov.uk/ukpga/2008/17), [ss. 308(1)(a)](https://www.legislation.gov.uk/ukpga/2008/17/section/308/1/a), [325(1)](https://www.legislation.gov.uk/ukpga/2008/17/section/325/1); [S.I. 2008/3068](https://www.legislation.gov.uk/uksi/2008/3068), [art. 4(8)](https://www.legislation.gov.uk/uksi/2008/3068/article/4/8) (with [arts. 6-13](https://www.legislation.gov.uk/uksi/2008/3068/article/6)); [S.I. 2011/1863](https://www.legislation.gov.uk/uksi/2011/1863), [art. 3(1)](https://www.legislation.gov.uk/uksi/2011/1863/article/3/1)
 

@@ -55,12 +55,12 @@ These Regulations may be cited as the Carbon Accounting Scheme (Scotland) Regula
 In these Regulations—
 
 - “**2009 Regulations**” means the Carbon Accounting Regulations 2009 [^c20328501];
-- “Annex I” means Annex I of[^key-0826305aa150691a88a54a3801d8f5ca] [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council [Directive 96/61/EC](https://www.legislation.gov.uk/european/directive/1996/0061);
-- “cancellation” of a carbon unit means the crediting of the unit in the Voluntary Cancellation Account[^key-1eb406c01c17fefc0727b2d22545a77f] in the UK registry, and a unit so credited is “cancelled”;
+- “Annex I” means Annex I of[^c-0826305aa150691a88a54a3801d8f5ca] [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council [Directive 96/61/EC](https://www.legislation.gov.uk/european/directive/1996/0061);
+- “cancellation” of a carbon unit means the crediting of the unit in the Voluntary Cancellation Account[^c-1eb406c01c17fefc0727b2d22545a77f] in the UK registry, and a unit so credited is “cancelled”;
 - “**EU ETS**” means the European Union Emissions Trading Scheme established under Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council establishing a scheme for greenhouse gas emission allowance trading within the Community and amending Council Directive [96/61/EC](https://www.legislation.gov.uk/european/directive/1996/0061) [^c20328511];
 - “**Kyoto Protocol**” means the Kyoto Protocol to the UNFCCC signed at Kyoto on 11th December 1997 [^c20328521];
-- “Registries Regulation” means Commission Regulation ([^key-b198e2dc2eba18ff9aa9d22a07d23936]EU) No 389/2013 establishing a Union Registry pursuant to [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council, Decisions No [280/2004/EC](https://www.legislation.gov.uk/european/decision/19280/2004) and No [406/2009/EC](https://www.legislation.gov.uk/european/decision/19406/2009) of the European Parliament and of the Council and repealing Commission Regulations (EU) No 920/2010 and No 1193/2011;
-- “[^key-d79edf7b824b32ca46d5ff4461ff578a]**registry administrator**” means the national administrator for the UK Registry specified in Article 3(2)(k) of the Registries Regulation[^M_F_63c81ffb-b08e-436b-fb41-32076a318d8c],
+- “Registries Regulation” means Commission Regulation ([^c-b198e2dc2eba18ff9aa9d22a07d23936]EU) No 389/2013 establishing a Union Registry pursuant to [Directive 2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council, Decisions No [280/2004/EC](https://www.legislation.gov.uk/european/decision/19280/2004) and No [406/2009/EC](https://www.legislation.gov.uk/european/decision/19406/2009) of the European Parliament and of the Council and repealing Commission Regulations (EU) No 920/2010 and No 1193/2011;
+- “[^c-d79edf7b824b32ca46d5ff4461ff578a]**registry administrator**” means the national administrator for the UK Registry specified in Article 3(2)(k) of the Registries Regulation[^M_F_63c81ffb-b08e-436b-fb41-32076a318d8c],
 - “**UNFCCC**” means the United Nations Framework Convention on Climate Change signed at New York on 9th May 1992 [^c20328551]**;** and
 - “**UK registry**” means the registry established for the United Kingdom in accordance with the Registries Regulation.
 
@@ -84,7 +84,7 @@ References in these Regulations to Community instruments are references to those
 - “**assigned amount unit**” means a unit issued—
   - (a) under Article 7(3) of Decision No [280/2004/EC](https://www.legislation.gov.uk/european/decision/19280/2004) [^c20328561] of the European Parliament and of the Council concerning a mechanism for monitoring Community greenhouse gas emissions and for implementing the Kyoto Protocol; or
   - (b) by a party to the Kyoto Protocol which is not subject to that Decision;
-- “European Union allowance” means an allowance for the purposes of the[^key-d4ce4470d0d59a4baf950dfe4adab129] EU ETS;
+- “European Union allowance” means an allowance for the purposes of the[^c-d4ce4470d0d59a4baf950dfe4adab129] EU ETS;
 - “**certified emission reduction** ” means a unit issued under Article 12 of the Kyoto Protocol and the Decisions adopted under the UNFCCC or the Kyoto Protocol; and
 - “**emission reduction unit**” means a unit issued under Article 6 of the Kyoto Protocol and the Decisions adopted under the UNFCCC or the Kyoto Protocol.
 
@@ -155,7 +155,7 @@ References in these Regulations to Community instruments are references to those
   - (a) 23,025,000 for 2010 and 2011; and
   - (b) 24,659,000 for 2012.
 
-**8A.**[^key-2ddc1610ddd338e5a9a2a8abdc1fe0fd] (1) The Scottish Ministers shall in respect of 2013 calculate whether any carbon unit is to be credited to or debited from the net Scottish emissions account as a result of the operation of the EU ETS.
+**8A.**[^c-2ddc1610ddd338e5a9a2a8abdc1fe0fd] (1) The Scottish Ministers shall in respect of 2013 calculate whether any carbon unit is to be credited to or debited from the net Scottish emissions account as a result of the operation of the EU ETS.
 
 (2) The calculation under this regulation must be performed by 30th June 2015.
 
@@ -177,7 +177,7 @@ References in these Regulations to Community instruments are references to those
 (6) In this regulation—
 
 - “2013 national inventory” means the “2013 UK Greenhouse Gas Emissions, Final Figures” as published by the Department of Energy and Climate Change on 3rd February 2015;
-- [^key-22c382d6fc938248b3390a7e4457270a]...
+- [^c-22c382d6fc938248b3390a7e4457270a]...
 - “aviation activity” means an aviation activity listed in Annex I;
 - “aviation cap” means the sum of the domestic aviation cap plus the international aviation cap;
 - “domestic aviation cap” means 443,255;
@@ -186,7 +186,7 @@ References in these Regulations to Community instruments are references to those
 - “other activities” means activities listed in Annex I other than aviation activity; and
 - “relevant period” means for 2013, the 16 months preceding 1st May 2014.
 
-**8B.**[^key-3e5ab865de1dcba1d15d7bc863646a51] (1) The Scottish Ministers shall in respect of 2014 calculate whether any carbon unit is to be credited to or debited from the net Scottish emissions account as a result of the operation of the EU ETS.
+**8B.**[^c-3e5ab865de1dcba1d15d7bc863646a51] (1) The Scottish Ministers shall in respect of 2014 calculate whether any carbon unit is to be credited to or debited from the net Scottish emissions account as a result of the operation of the EU ETS.
 
 (2) The calculation under this regulation must be performed by 30th June 2016.
 
@@ -195,7 +195,7 @@ References in these Regulations to Community instruments are references to those
 - (a) for aviation activities, whether the amount of emissions in respect of Scotland from aviation activities in the relevant period for 2014 is more or less than the aviation cap; and
 - (b) for other activities, whether the amount of carbon units surrendered in respect of Scotland as a result of the operation of the EUETS in the relevant period for 2014 is more or less than the fixed installation cap.
 
-(4) Where the amount of emissions in respect of Scotland from aviation activities in [^key-a1cc66b13255a0393c87023f31015f67]... 2014 is—
+(4) Where the amount of emissions in respect of Scotland from aviation activities in [^c-a1cc66b13255a0393c87023f31015f67]... 2014 is—
 
 - (a) more than the aviation cap, an amount of carbon units equal to the excess is to be credited to the net Scottish emissions account for 2014; or
 - (b) less than the aviation cap, an amount of carbon units equal to the shortfall is to be debited from the net Scottish emissions account for 2014.
@@ -215,7 +215,7 @@ References in these Regulations to Community instruments are references to those
 - “other activities” means activities listed in Annex I other than aviation activities; and
 - “relevant period” means for 2014, the 16 months preceding 1st May 2015.
 
-**8C.**[^key-7a7402e845050f460f95a8b5286b11fc] (1) The Scottish Ministers must in respect of 2015 calculate whether an amount of carbon units is to be credited to or debited from the net Scottish emissions account as a result of the operation of the EU ETS.
+**8C.**[^c-7a7402e845050f460f95a8b5286b11fc] (1) The Scottish Ministers must in respect of 2015 calculate whether an amount of carbon units is to be credited to or debited from the net Scottish emissions account as a result of the operation of the EU ETS.
 
 (2) The calculation must be performed by 30th June 2017.
 
@@ -242,7 +242,7 @@ References in these Regulations to Community instruments are references to those
 - “other activities” means activities listed in Annex I other than aviation activities; and
 - “relevant period” means for 2015, the 16 months preceding 1st May 2016.
 
-**8D.**[^key-fdcbe305854e49ab94c4ca174784943d] (1) The Scottish Ministers must in respect of 2016 calculate whether an amount of carbon units is to be credited to or debited from the net Scottish emissions account as a result of the operation of the EU ETS.
+**8D.**[^c-fdcbe305854e49ab94c4ca174784943d] (1) The Scottish Ministers must in respect of 2016 calculate whether an amount of carbon units is to be credited to or debited from the net Scottish emissions account as a result of the operation of the EU ETS.
 
 (2) The calculation must be performed by 30th June 2018.
 
@@ -269,7 +269,7 @@ References in these Regulations to Community instruments are references to those
 - “other activities” means activities listed in Annex I other than aviation activities; and
 - “relevant period” means for 2016, the 16 months preceding 1st May 2017.
 
-**8E.**[^key-7beac26aaa3041028864373138fe5dbc] (1) The Scottish Ministers must in respect of 2017 calculate whether an amount of carbon units is to be credited to or debited from the net Scottish emissions account as a result of the operation of the EU ETS.
+**8E.**[^c-7beac26aaa3041028864373138fe5dbc] (1) The Scottish Ministers must in respect of 2017 calculate whether an amount of carbon units is to be credited to or debited from the net Scottish emissions account as a result of the operation of the EU ETS.
 
 (2) The calculation must be performed by 30 June 2019.
 
@@ -316,35 +316,35 @@ References in these Regulations to Community instruments are references to those
 - (d) amount of units credited to or debited from the net Scottish emissions account; and
 - (e) year in respect of which units are credited or debited.
 
-(4)[^key-29228af4fe1507dce76b22473dbe0e04] In relation to carbon units to be credited or debited under regulation 8A, the register must contain details of the—
+(4)[^c-29228af4fe1507dce76b22473dbe0e04] In relation to carbon units to be credited or debited under regulation 8A, the register must contain details of the—
 
 - (a) date on which the calculation under regulation 8A(1) was performed;
 - (b) date of surrender;
 - (c) figures used in that calculation; and
 - (d) amount of units credited to or debited from the net Scottish emissions account.
 
-(5)[^key-0d0ef33dc5a85a19fc5779fa895a4ad6] In relation to carbon units to be credited or debited under regulation 8B, the register must contain details of the—
+(5)[^c-0d0ef33dc5a85a19fc5779fa895a4ad6] In relation to carbon units to be credited or debited under regulation 8B, the register must contain details of the—
 
 - (a) date on which the calculation under regulation 8B(1) was performed;
 - (b) date of surrender;
 - (c) figures used in that calculation; and
 - (d) amount of units credited to or debited from the net Scottish emissions account.
 
-(6)[^key-e4485e8521cb5b838562c8993a5e7daa] In relation to carbon units to be credited or debited under regulation 8C, the register must contain details of the—
+(6)[^c-e4485e8521cb5b838562c8993a5e7daa] In relation to carbon units to be credited or debited under regulation 8C, the register must contain details of the—
 
 - (a) date on which the calculation under regulation 8C(1) was performed;
 - (b) date of surrender;
 - (c) figures used in that calculation; and
 - (d) amount of units credited to or debited from the net Scottish emissions account.
 
-(7)[^key-2340d3f1f335f5248f8ba5385203204e] In relation to carbon units to be credited or debited under regulation 8D, the register must contain details of the—
+(7)[^c-2340d3f1f335f5248f8ba5385203204e] In relation to carbon units to be credited or debited under regulation 8D, the register must contain details of the—
 
 - (a) date on which the calculation under regulation 8D(1) was performed;
 - (b) date of surrender;
 - (c) figures used in that calculation; and
 - (d) amount of units credited to or debited from the net Scottish emissions account.
 
-(8)[^key-68f85a11a4abf9082f4d562d9cfd0088] In relation to carbon units to be credited or debited under regulation 8E, the register must contain details of the—
+(8)[^c-68f85a11a4abf9082f4d562d9cfd0088] In relation to carbon units to be credited or debited under regulation 8E, the register must contain details of the—
 
 - (a) date on which the calculation under regulation 8E(1) was performed,
 - (b) date of surrender,
@@ -403,17 +403,17 @@ A Regulatory Impact Assessment has not been produced for these Regulations as th
 
 [^c20328501]: Marginal citation: [S.I. 2009/1257](https://www.legislation.gov.uk/uksi/2009/1257) as amended by [S.I. 2009/3146](https://www.legislation.gov.uk/uksi/2009/3146).
 
-[^key-0826305aa150691a88a54a3801d8f5ca]: Textual amendment: Words in reg. 2 inserted (1.4.2016) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/46)](https://www.legislation.gov.uk/ssi/2016/46), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/46/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/46/regulation/2/2)
+[^c-0826305aa150691a88a54a3801d8f5ca]: Textual amendment: Words in reg. 2 inserted (1.4.2016) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/46)](https://www.legislation.gov.uk/ssi/2016/46), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/46/regulation/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2016/46/regulation/2/2)
 
-[^key-1eb406c01c17fefc0727b2d22545a77f]: Textual amendment: Words in reg. 2 substituted (8.6.2015) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/189)](https://www.legislation.gov.uk/ssi/2015/189), [regs. 1](https://www.legislation.gov.uk/ssi/2015/189/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/189/regulation/2/2/a)
+[^c-1eb406c01c17fefc0727b2d22545a77f]: Textual amendment: Words in reg. 2 substituted (8.6.2015) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/189)](https://www.legislation.gov.uk/ssi/2015/189), [regs. 1](https://www.legislation.gov.uk/ssi/2015/189/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/ssi/2015/189/regulation/2/2/a)
 
 [^c20328511]: Marginal citation: O.J. No. L 275, 25.10.2003, p.32 as amended by Directive 2004/101/EC (O.J. No. L 338, 13.11.2004, p.18); Directive 2008/101/EC (O.J. No. L 8, 13.1.2009, p.3); Commission Regulation (EC) No. 219/2009, (O.J. No. L 87, 31.3.2009, p.109); and Directive 2009/29/EC (O.J. No. L 140, 5.6.2009, p.63). The Emissions Trading Directive is transposed by the [Greenhouse Gas Emissions Trading Scheme Regulations 2005 (S.I. 2005/925)](https://www.legislation.gov.uk/uksi/2005/925).
 
 [^c20328521]: Marginal citation: The Protocol was signed by the United Kingdom on 29th April 1998 and entered into force on 16th February 2005. The text of the Protocol can be found at http://unfcc.int/2860.
 
-[^key-b198e2dc2eba18ff9aa9d22a07d23936]: Textual amendment: Words in reg. 2 substituted (8.6.2015) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/189)](https://www.legislation.gov.uk/ssi/2015/189), [regs. 1](https://www.legislation.gov.uk/ssi/2015/189/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/189/regulation/2/2/b)
+[^c-b198e2dc2eba18ff9aa9d22a07d23936]: Textual amendment: Words in reg. 2 substituted (8.6.2015) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/189)](https://www.legislation.gov.uk/ssi/2015/189), [regs. 1](https://www.legislation.gov.uk/ssi/2015/189/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/ssi/2015/189/regulation/2/2/b)
 
-[^key-d79edf7b824b32ca46d5ff4461ff578a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/216/regulation/2) substituted (10.11.2021) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/318)](https://www.legislation.gov.uk/ssi/2021/318), [regs. 1](https://www.legislation.gov.uk/ssi/2021/318/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/318/regulation/2/2)
+[^c-d79edf7b824b32ca46d5ff4461ff578a]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2010/216/regulation/2) substituted (10.11.2021) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2021 (S.S.I. 2021/318)](https://www.legislation.gov.uk/ssi/2021/318), [regs. 1](https://www.legislation.gov.uk/ssi/2021/318/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2021/318/regulation/2/2)
 
 [^M_F_63c81ffb-b08e-436b-fb41-32076a318d8c]: Textual amendment: Article 3 was substituted by [S.I. 2021/511](https://www.legislation.gov.uk/uksi/2021/511).
 
@@ -421,28 +421,28 @@ A Regulatory Impact Assessment has not been produced for these Regulations as th
 
 [^c20328561]: Marginal citation: O.J. No. L 49,19.2.2004, p.1.
 
-[^key-d4ce4470d0d59a4baf950dfe4adab129]: Textual amendment: Words in reg. 4(3) substituted (6.5.2017) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/121)](https://www.legislation.gov.uk/ssi/2017/121), [regs. 1](https://www.legislation.gov.uk/ssi/2017/121/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/121/regulation/2/2)
+[^c-d4ce4470d0d59a4baf950dfe4adab129]: Textual amendment: Words in reg. 4(3) substituted (6.5.2017) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/121)](https://www.legislation.gov.uk/ssi/2017/121), [regs. 1](https://www.legislation.gov.uk/ssi/2017/121/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2017/121/regulation/2/2)
 
-[^key-2ddc1610ddd338e5a9a2a8abdc1fe0fd]: Textual amendment: Reg. 8A inserted (8.6.2015) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/189)](https://www.legislation.gov.uk/ssi/2015/189), [regs. 1](https://www.legislation.gov.uk/ssi/2015/189/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/189/regulation/2/3)
+[^c-2ddc1610ddd338e5a9a2a8abdc1fe0fd]: Textual amendment: Reg. 8A inserted (8.6.2015) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/189)](https://www.legislation.gov.uk/ssi/2015/189), [regs. 1](https://www.legislation.gov.uk/ssi/2015/189/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2015/189/regulation/2/3)
 
-[^key-22c382d6fc938248b3390a7e4457270a]: Textual amendment: Words in reg. 8A(6) omitted (1.4.2016) by virtue of [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/46)](https://www.legislation.gov.uk/ssi/2016/46), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/46/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2016/46/regulation/2/3)
+[^c-22c382d6fc938248b3390a7e4457270a]: Textual amendment: Words in reg. 8A(6) omitted (1.4.2016) by virtue of [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/46)](https://www.legislation.gov.uk/ssi/2016/46), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/46/regulation/1/1), [2(3)](https://www.legislation.gov.uk/ssi/2016/46/regulation/2/3)
 
-[^key-3e5ab865de1dcba1d15d7bc863646a51]: Textual amendment: Reg. 8B inserted (1.4.2016) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/46)](https://www.legislation.gov.uk/ssi/2016/46), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/46/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2016/46/regulation/2/4)
+[^c-3e5ab865de1dcba1d15d7bc863646a51]: Textual amendment: Reg. 8B inserted (1.4.2016) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/46)](https://www.legislation.gov.uk/ssi/2016/46), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/46/regulation/1/1), [2(4)](https://www.legislation.gov.uk/ssi/2016/46/regulation/2/4)
 
-[^key-a1cc66b13255a0393c87023f31015f67]: Textual amendment: Words in reg. 8B(4) omitted (6.5.2017) by virtue of [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/121)](https://www.legislation.gov.uk/ssi/2017/121), [regs. 1](https://www.legislation.gov.uk/ssi/2017/121/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/121/regulation/2/3)
+[^c-a1cc66b13255a0393c87023f31015f67]: Textual amendment: Words in reg. 8B(4) omitted (6.5.2017) by virtue of [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/121)](https://www.legislation.gov.uk/ssi/2017/121), [regs. 1](https://www.legislation.gov.uk/ssi/2017/121/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2017/121/regulation/2/3)
 
-[^key-7a7402e845050f460f95a8b5286b11fc]: Textual amendment: Reg. 8C inserted (6.5.2017) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/121)](https://www.legislation.gov.uk/ssi/2017/121), [regs. 1](https://www.legislation.gov.uk/ssi/2017/121/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2017/121/regulation/2/4)
+[^c-7a7402e845050f460f95a8b5286b11fc]: Textual amendment: Reg. 8C inserted (6.5.2017) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/121)](https://www.legislation.gov.uk/ssi/2017/121), [regs. 1](https://www.legislation.gov.uk/ssi/2017/121/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2017/121/regulation/2/4)
 
-[^key-fdcbe305854e49ab94c4ca174784943d]: Textual amendment: Reg. 8D inserted (30.3.2018) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2018 (S.S.I. 2018/40)](https://www.legislation.gov.uk/ssi/2018/40), [regs. 1](https://www.legislation.gov.uk/ssi/2018/40/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/40/regulation/2/2)
+[^c-fdcbe305854e49ab94c4ca174784943d]: Textual amendment: Reg. 8D inserted (30.3.2018) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2018 (S.S.I. 2018/40)](https://www.legislation.gov.uk/ssi/2018/40), [regs. 1](https://www.legislation.gov.uk/ssi/2018/40/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2018/40/regulation/2/2)
 
-[^key-7beac26aaa3041028864373138fe5dbc]: Textual amendment: [Reg. 8E](https://www.legislation.gov.uk/ssi/2010/216/regulation/8E) inserted (30.5.2019) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/121)](https://www.legislation.gov.uk/ssi/2019/121), [regs. 1](https://www.legislation.gov.uk/ssi/2019/121/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/121/regulation/2/2)
+[^c-7beac26aaa3041028864373138fe5dbc]: Textual amendment: [Reg. 8E](https://www.legislation.gov.uk/ssi/2010/216/regulation/8E) inserted (30.5.2019) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/121)](https://www.legislation.gov.uk/ssi/2019/121), [regs. 1](https://www.legislation.gov.uk/ssi/2019/121/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2019/121/regulation/2/2)
 
-[^key-29228af4fe1507dce76b22473dbe0e04]: Textual amendment: Reg. 9(4) inserted (8.6.2015) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/189)](https://www.legislation.gov.uk/ssi/2015/189), [regs. 1](https://www.legislation.gov.uk/ssi/2015/189/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/189/regulation/2/4)
+[^c-29228af4fe1507dce76b22473dbe0e04]: Textual amendment: Reg. 9(4) inserted (8.6.2015) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2015 (S.S.I. 2015/189)](https://www.legislation.gov.uk/ssi/2015/189), [regs. 1](https://www.legislation.gov.uk/ssi/2015/189/regulation/1), [2(4)](https://www.legislation.gov.uk/ssi/2015/189/regulation/2/4)
 
-[^key-0d0ef33dc5a85a19fc5779fa895a4ad6]: Textual amendment: Reg. 9(5) inserted (1.4.2016) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/46)](https://www.legislation.gov.uk/ssi/2016/46), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/46/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2016/46/regulation/2/5)
+[^c-0d0ef33dc5a85a19fc5779fa895a4ad6]: Textual amendment: Reg. 9(5) inserted (1.4.2016) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2016 (S.S.I. 2016/46)](https://www.legislation.gov.uk/ssi/2016/46), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2016/46/regulation/1/1), [2(5)](https://www.legislation.gov.uk/ssi/2016/46/regulation/2/5)
 
-[^key-e4485e8521cb5b838562c8993a5e7daa]: Textual amendment: Reg. 9(6) inserted (6.5.2017) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/121)](https://www.legislation.gov.uk/ssi/2017/121), [regs. 1](https://www.legislation.gov.uk/ssi/2017/121/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2017/121/regulation/2/5)
+[^c-e4485e8521cb5b838562c8993a5e7daa]: Textual amendment: Reg. 9(6) inserted (6.5.2017) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2017 (S.S.I. 2017/121)](https://www.legislation.gov.uk/ssi/2017/121), [regs. 1](https://www.legislation.gov.uk/ssi/2017/121/regulation/1), [2(5)](https://www.legislation.gov.uk/ssi/2017/121/regulation/2/5)
 
-[^key-2340d3f1f335f5248f8ba5385203204e]: Textual amendment: Reg. 9(7) inserted (30.3.2018) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2018 (S.S.I. 2018/40)](https://www.legislation.gov.uk/ssi/2018/40), [regs. 1](https://www.legislation.gov.uk/ssi/2018/40/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2018/40/regulation/2/3)
+[^c-2340d3f1f335f5248f8ba5385203204e]: Textual amendment: Reg. 9(7) inserted (30.3.2018) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2018 (S.S.I. 2018/40)](https://www.legislation.gov.uk/ssi/2018/40), [regs. 1](https://www.legislation.gov.uk/ssi/2018/40/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2018/40/regulation/2/3)
 
-[^key-68f85a11a4abf9082f4d562d9cfd0088]: Textual amendment: [Reg. 9(8)](https://www.legislation.gov.uk/ssi/2010/216/regulation/9/8) inserted (30.5.2019) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/121)](https://www.legislation.gov.uk/ssi/2019/121), [regs. 1](https://www.legislation.gov.uk/ssi/2019/121/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/121/regulation/2/3)
+[^c-68f85a11a4abf9082f4d562d9cfd0088]: Textual amendment: [Reg. 9(8)](https://www.legislation.gov.uk/ssi/2010/216/regulation/9/8) inserted (30.5.2019) by [The Carbon Accounting Scheme (Scotland) Amendment Regulations 2019 (S.S.I. 2019/121)](https://www.legislation.gov.uk/ssi/2019/121), [regs. 1](https://www.legislation.gov.uk/ssi/2019/121/regulation/1), [2(3)](https://www.legislation.gov.uk/ssi/2019/121/regulation/2/3)

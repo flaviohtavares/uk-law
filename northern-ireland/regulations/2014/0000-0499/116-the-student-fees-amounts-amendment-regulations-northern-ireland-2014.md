@@ -32,7 +32,7 @@ summary: ''
 
 Education
 
-The Student Fees (Amounts) (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^key-7fb3dedf985eab6a0a6b8699232df235]
+The Student Fees (Amounts) (Amendment) Regulations (Northern Ireland) 2014 (revoked)[^c-7fb3dedf985eab6a0a6b8699232df235]
 
 Made
 
@@ -42,36 +42,36 @@ Coming into operation
 
 1st September 2015
 
-[^key-7fb3dedf985eab6a0a6b8699232df235]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fb3dedf985eab6a0a6b8699232df235]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-7fb3dedf985eab6a0a6b8699232df235]
+## 1. Citation and commencement[^c-7fb3dedf985eab6a0a6b8699232df235]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Increases to the prescribed basic and higher amounts[^key-7fb3dedf985eab6a0a6b8699232df235]
+## 2. Increases to the prescribed basic and higher amounts[^c-7fb3dedf985eab6a0a6b8699232df235]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-7fb3dedf985eab6a0a6b8699232df235]
+## 3.[^c-7fb3dedf985eab6a0a6b8699232df235]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-7fb3dedf985eab6a0a6b8699232df235]
+## 4.[^c-7fb3dedf985eab6a0a6b8699232df235]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocation[^key-7fb3dedf985eab6a0a6b8699232df235]
+## 5. Revocation[^c-7fb3dedf985eab6a0a6b8699232df235]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-7fb3dedf985eab6a0a6b8699232df235]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fb3dedf985eab6a0a6b8699232df235]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-7fb3dedf985eab6a0a6b8699232df235]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-7fb3dedf985eab6a0a6b8699232df235]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-7fb3dedf985eab6a0a6b8699232df235]: Textual amendment: Regulations revoked (1.9.2016) by [The Student Fees (Amounts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/243)](https://www.legislation.gov.uk/nisr/2015/243), [regs. 1](https://www.legislation.gov.uk/nisr/2015/243/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/243/regulation/5)
+[^c-7fb3dedf985eab6a0a6b8699232df235]: Textual amendment: Regulations revoked (1.9.2016) by [The Student Fees (Amounts) (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/243)](https://www.legislation.gov.uk/nisr/2015/243), [regs. 1](https://www.legislation.gov.uk/nisr/2015/243/regulation/1), [5](https://www.legislation.gov.uk/nisr/2015/243/regulation/5)

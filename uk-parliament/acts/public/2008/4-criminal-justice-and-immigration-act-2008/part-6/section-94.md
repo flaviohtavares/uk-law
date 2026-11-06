@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Issue of warrant transferring responsibility for detention and release of an offender to or from the relevant Minister[^key-3f1c0053fd95dbb0f63343c75fafb152]
+## 94. Issue of warrant transferring responsibility for detention and release of an offender to or from the relevant Minister[^c-3f1c0053fd95dbb0f63343c75fafb152]
 
 *Extent: E+W*
 
@@ -139,4 +139,4 @@ After section 4 of the Repatriation of Prisoners Act 1984 (transfer into the Uni
 
 ## Annotations
 
-[^key-3f1c0053fd95dbb0f63343c75fafb152]: Commencement: S. 94 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/38)
+[^c-3f1c0053fd95dbb0f63343c75fafb152]: Commencement: S. 94 in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 38](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/38)

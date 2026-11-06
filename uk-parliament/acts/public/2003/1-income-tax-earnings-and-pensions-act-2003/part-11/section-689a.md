@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 689A. Oil and gas workers on the continental shelf[^key-326820fd6a70836ca7fc26ddbe5865d4]
+## 689A. Oil and gas workers on the continental shelf[^c-326820fd6a70836ca7fc26ddbe5865d4]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,7 +75,7 @@ summary: ''
   - (a) if the employer has an associated company (as defined in section 449 of CTA 2010) with a place of business or registered office in the United Kingdom, the associated company, or
   - (b) in any other case, the person who holds the licence under Part 1 of the Petroleum Act 1998 in respect of the area of the UK sector of the continental shelf where some or all of the duties of the continental shelf worker's employment are performed.
 
-(12)[^key-207f3811b2b88970e74b15b4d6cd4371] The Treasury may by regulations modify the definitions of “continental shelf worker” and “relevant person”, as the Treasury thinks appropriate.
+(12)[^c-207f3811b2b88970e74b15b4d6cd4371] The Treasury may by regulations modify the definitions of “continental shelf worker” and “relevant person”, as the Treasury thinks appropriate.
 
 (13) Regulations under subsection (12) may—
 
@@ -85,6 +85,6 @@ summary: ''
 
 ## Annotations
 
-[^key-326820fd6a70836ca7fc26ddbe5865d4]: Textual amendment: S. 689A inserted (26.3.2014 for specified purposes, 6.4.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 21(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/21/5)[(9)](https://www.legislation.gov.uk/ukpga/2014/26/section/21/9)
+[^c-326820fd6a70836ca7fc26ddbe5865d4]: Textual amendment: S. 689A inserted (26.3.2014 for specified purposes, 6.4.2014 in so far as not already in force) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 21(5)](https://www.legislation.gov.uk/ukpga/2014/26/section/21/5)[(9)](https://www.legislation.gov.uk/ukpga/2014/26/section/21/9)
 
-[^key-207f3811b2b88970e74b15b4d6cd4371]: Textual amendment: S. 689A(12)(13) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 21(8)](https://www.legislation.gov.uk/ukpga/2014/26/section/21/8)
+[^c-207f3811b2b88970e74b15b4d6cd4371]: Textual amendment: S. 689A(12)(13) inserted (17.7.2014) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 21(8)](https://www.legislation.gov.uk/ukpga/2014/26/section/21/8)

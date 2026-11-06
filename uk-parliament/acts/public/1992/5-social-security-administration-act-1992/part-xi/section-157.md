@@ -25,7 +25,7 @@ summary: ''
 (2) Where in connection with child benefit—
 
 - (a) any question arises in respect of a period after the date fixed for the commencement of payment of child benefit at an increased rate—
-  - (i) as to the weekly rate at which a person is contributing to the cost of providing for a child or qualifying young person[^key-88d0e72032ef7f4bb349555ac2064c29]; or
+  - (i) as to the weekly rate at which a person is contributing to the cost of providing for a child or qualifying young person[^c-88d0e72032ef7f4bb349555ac2064c29]; or
   - (ii) as to the expenditure that a person is incurring in respect of a child or qualifying young person; and
 - (b) in determining that question account falls to be taken of contributions made or expenditure incurred for a period before that date,
 
@@ -33,4 +33,4 @@ the contributions made or expenditure incurred before that date shall be treated
 
 ## Annotations
 
-[^key-88d0e72032ef7f4bb349555ac2064c29]: Textual amendment: Words in s. 157(2) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/24)
+[^c-88d0e72032ef7f4bb349555ac2064c29]: Textual amendment: Words in s. 157(2) inserted (10.4.2006) by [Child Benefit Act 2005 (c. 6)](https://www.legislation.gov.uk/ukpga/2005/6), [s. 6(2)](https://www.legislation.gov.uk/ukpga/2005/6/section/6/2), [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/2005/6/schedule/1/paragraph/24)

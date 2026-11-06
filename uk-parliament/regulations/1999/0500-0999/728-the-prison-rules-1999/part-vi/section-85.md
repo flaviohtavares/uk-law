@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to paragraphs (2) and (3) below, the Rules specified in Schedule 1[^key-8083088d0249fc3cd3b6375afa88e0be] to these Rules are hereby revoked.
+(1) Subject to paragraphs (2) and (3) below, the Rules specified in Schedule 1[^c-8083088d0249fc3cd3b6375afa88e0be] to these Rules are hereby revoked.
 
 (2) Without prejudice to the Interpretation Act 1978 [^c16513801], where a prisoner committed an offence against discipline contrary to rule 47 of the Prison Rules 1964 [^c16513811] prior to the coming into force of these Rules, those rules shall continue to have effect to permit the prisoner to be charged with such an offence, disciplinary proceedings in relation to such an offence to be continued, and the governor to impose punishment for such an offence.
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8083088d0249fc3cd3b6375afa88e0be]: Textual amendment: Words in [rule 85(1)](https://www.legislation.gov.uk/uksi/1999/728/rule/85/1) substituted (19.10.2018) by [The Prison and Young Offender Institution (Amendment) (No. 2) Rules 2018 (S.I. 2018/960)](https://www.legislation.gov.uk/uksi/2018/960), [rules 1](https://www.legislation.gov.uk/uksi/2018/960/rule/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/960/rule/2/3)
+[^c-8083088d0249fc3cd3b6375afa88e0be]: Textual amendment: Words in [rule 85(1)](https://www.legislation.gov.uk/uksi/1999/728/rule/85/1) substituted (19.10.2018) by [The Prison and Young Offender Institution (Amendment) (No. 2) Rules 2018 (S.I. 2018/960)](https://www.legislation.gov.uk/uksi/2018/960), [rules 1](https://www.legislation.gov.uk/uksi/2018/960/rule/1), [2(3)](https://www.legislation.gov.uk/uksi/2018/960/rule/2/3)
 
 [^c16513801]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 

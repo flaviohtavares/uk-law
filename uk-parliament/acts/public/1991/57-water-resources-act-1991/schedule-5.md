@@ -30,7 +30,7 @@ Section 21.
 
 ### Notice of proposed statement
 
-**2.** (1) Before submitting the draft statement to the Secretary of State, the appropriate agency[^key-4635600ed22b656211c93437cd573456] shall publish a notice—
+**2.** (1) Before submitting the draft statement to the Secretary of State, the appropriate agency[^c-4635600ed22b656211c93437cd573456] shall publish a notice—
 
 - (a) stating the general effect of the draft statement;
 - (b) specifying the place where a copy of the draft statement, and of any relevant map or plan, may be inspected by any person free of charge at all reasonable times during the period of twenty-eight days beginning with the date of first publication of the notice; and
@@ -111,7 +111,7 @@ and the appropriate agency shall forthwith publish the notice.
 
 ## Annotations
 
-[^key-4635600ed22b656211c93437cd573456]: Textual amendment: Words in [Sch. 5 paras. 2-5](https://www.legislation.gov.uk/ukpga/1991/57/schedule/5/paragraph/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 307](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/307) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-4635600ed22b656211c93437cd573456]: Textual amendment: Words in [Sch. 5 paras. 2-5](https://www.legislation.gov.uk/ukpga/1991/57/schedule/5/paragraph/2) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 307](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/307) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18744311]: Modification: SCh. 5 para. 2(3)(a) applied (with modifications) (4.6.1996) by [S.I. 1996/1243](https://www.legislation.gov.uk/uksi/1996/1243), [art. 18](https://www.legislation.gov.uk/uksi/1996/1243/article/18), [Sch. 5 Pt. II para. 6(2)(b)](https://www.legislation.gov.uk/uksi/1996/1243/schedule/5/part/II/paragraph/6/2/b)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Duty of the Secretary of State to issue a policy statement[^key-e0f802d90e4b35033ff2cc3d9e75f544]
+## 49. Duty of the Secretary of State to issue a policy statement[^c-e0f802d90e4b35033ff2cc3d9e75f544]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ must have regard to the statement of policy most recently published under this s
 
 ## Annotations
 
-[^key-e0f802d90e4b35033ff2cc3d9e75f544]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2011/20/section/49) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)
+[^c-e0f802d90e4b35033ff2cc3d9e75f544]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2011/20/section/49) in force at 31.5.2012 by [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 5](https://www.legislation.gov.uk/uksi/2012/1008/article/5)

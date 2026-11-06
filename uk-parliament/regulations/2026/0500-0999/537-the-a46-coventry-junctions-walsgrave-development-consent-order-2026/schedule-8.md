@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 8 — LAND OF WHICH TEMPORARY POSSESSION ONLY MAY BE TAKEN[^key-481fb85c3088a93e262e8fcda98ed13b]
+## SCHEDULE 8 — LAND OF WHICH TEMPORARY POSSESSION ONLY MAY BE TAKEN[^c-481fb85c3088a93e262e8fcda98ed13b]
 
 *Extent: E+W+S*
 
@@ -55,10 +55,10 @@ Article 38
 </tbody>
 </table>
 
-[^key-b3876b59253dc8cdd596c11a76347479]
+[^c-b3876b59253dc8cdd596c11a76347479]
 
 ## Annotations
 
-[^key-481fb85c3088a93e262e8fcda98ed13b]: Commencement: Sch. 8 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
+[^c-481fb85c3088a93e262e8fcda98ed13b]: Commencement: Sch. 8 in force at 25.2.2026, see [art. 1](https://www.legislation.gov.uk/uksi/2026/537/article/1)
 
-[^key-b3876b59253dc8cdd596c11a76347479]: Textual amendment: Word in [Sch. 8](https://www.legislation.gov.uk/uksi/2026/537/schedule/8) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)
+[^c-b3876b59253dc8cdd596c11a76347479]: Textual amendment: Word in [Sch. 8](https://www.legislation.gov.uk/uksi/2026/537/schedule/8) substituted (27.5.2026) by [The A46 Coventry Junctions (Walsgrave) Development Consent (Correction) Order 2026 (S.I. 2026/556)](https://www.legislation.gov.uk/uksi/2026/556), [art. 1](https://www.legislation.gov.uk/uksi/2026/556/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/556/schedule)

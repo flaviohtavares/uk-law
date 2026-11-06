@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Illegal fishing by two or more persons acting together[^key-6bcefc427fea146577b27862e3c8c14b]
+## 7. Illegal fishing by two or more persons acting together[^c-6bcefc427fea146577b27862e3c8c14b]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ If two or more persons acting together do any act which would constitute an offe
 
 ## Annotations
 
-[^key-6bcefc427fea146577b27862e3c8c14b]: Commencement: S. 7 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
+[^c-6bcefc427fea146577b27862e3c8c14b]: Commencement: S. 7 in force at 1.4.2005 by [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)

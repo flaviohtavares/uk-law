@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Terrorist financing: information orders[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-496f94942fb8bc09eb4f8db35bad1b76]
+## 186. Terrorist financing: information orders[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-496f94942fb8bc09eb4f8db35bad1b76]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] Section 22B of the Terrorism Act 2000 (further information orders) is amended in accordance with subsections (2) to (12).
+(1)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] Section 22B of the Terrorism Act 2000 (further information orders) is amended in accordance with subsections (2) to (12).
 
-(2)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] In the heading for “Further information” substitute “Information”.
+(2)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] In the heading for “Further information” substitute “Information”.
 
-(3)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] In subsection (1) for “a further” substitute “an”.
+(3)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] In subsection (1) for “a further” substitute “an”.
 
-(4)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] After subsection (1) insert—
+(4)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] After subsection (1) insert—
 
 > (1A) A magistrates’ court or (in Scotland) the sheriff may, on an application made—
 >
@@ -35,13 +35,13 @@ summary: ''
 >
 > make an information order if satisfied that either condition 3 or condition 4 is met.
 
-(5)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] In subsection (3) for “A further” substitute “An”.
+(5)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] In subsection (3) for “A further” substitute “An”.
 
-(6)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] In subsection (4) for “a further” substitute “an”.
+(6)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] In subsection (4) for “a further” substitute “an”.
 
-(7)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] In subsection (5) for “a further” substitute “an”.
+(7)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] In subsection (5) for “a further” substitute “an”.
 
-(8)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] After subsection (6) insert—
+(8)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] After subsection (6) insert—
 
 > (6A) Condition 3 for the making of an information order is met if—
 >
@@ -73,13 +73,13 @@ summary: ''
 >   - (ii) the person making that request has had regard to the code of practice under section 22F, and
 > - (g) it is reasonable in all the circumstances for the information to be provided.
 
-(9)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] In subsection (7) for “A further” substitute “An”.
+(9)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] In subsection (7) for “A further” substitute “An”.
 
-(10)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] In subsection (8) for “a further” substitute “an”.
+(10)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] In subsection (8) for “a further” substitute “an”.
 
-(11)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] In subsection (12), after “this section” insert “in reliance on Condition 1 or 2”.
+(11)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] In subsection (12), after “this section” insert “in reliance on Condition 1 or 2”.
 
-(12)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] In subsection (14), at the appropriate places, insert—
+(12)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] In subsection (14), at the appropriate places, insert—
 
 > - “**authorised NCA officer**” means an officer of the National Crime Agency authorised by the Director General (whether generally or specifically) for the purposes of this section;
 
@@ -97,7 +97,7 @@ summary: ''
 >   - (a) for the purposes of subsection (6A), an act which constitutes an offence under any of sections 15 to 18;
 >   - (b) for the purposes of subsection (6B), an act which constitutes a corresponding terrorist financing offence.
 
-(13)[^key-496f94942fb8bc09eb4f8db35bad1b76] After section 22E of the Terrorism Act 2000 insert—
+(13)[^c-496f94942fb8bc09eb4f8db35bad1b76] After section 22E of the Terrorism Act 2000 insert—
 
 > **22F. Code of practice about certain information orders**
 >
@@ -128,13 +128,13 @@ summary: ''
 >
 > (10) In this section “**authorised NCA officer**” has the meaning given in section 22B(14).
 
-(14)[^key-496f94942fb8bc09eb4f8db35bad1b76] In section 123(4) of that Act (orders and regulations subject to affirmative procedure), after paragraph (a) insert—
+(14)[^c-496f94942fb8bc09eb4f8db35bad1b76] In section 123(4) of that Act (orders and regulations subject to affirmative procedure), after paragraph (a) insert—
 
 > - (aza) section 22F(5);
 
 .
 
-(15)[^key-c2129fc4648a7f54d3a008d717b9dc13][^key-98d284ddfb80a3ace14784742ebe8695] In consequence of further information orders being renamed information orders by this section, the following amendments are also made to that Act—
+(15)[^c-c2129fc4648a7f54d3a008d717b9dc13][^c-98d284ddfb80a3ace14784742ebe8695] In consequence of further information orders being renamed information orders by this section, the following amendments are also made to that Act—
 
 - (a) in the italic heading before section 22B for “Further information” substitute “Information”;
 - (b) in section 22C (statements), in subsection (1) for “a further” substitute “an”;
@@ -148,8 +148,8 @@ summary: ''
 
 ## Annotations
 
-[^key-c2129fc4648a7f54d3a008d717b9dc13]: Commencement: S. 186(1)-(12)(15) in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-c2129fc4648a7f54d3a008d717b9dc13]: Commencement: S. 186(1)-(12)(15) in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-496f94942fb8bc09eb4f8db35bad1b76]: Commencement: S. 186(13)(14) in force at Royal Assent, see [s. 219(1)(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)(i)
+[^c-496f94942fb8bc09eb4f8db35bad1b76]: Commencement: S. 186(13)(14) in force at Royal Assent, see [s. 219(1)(2)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)(i)
 
-[^key-98d284ddfb80a3ace14784742ebe8695]: Commencement: [S. 186(1)-(12)](https://www.legislation.gov.uk/ukpga/2023/56/section/186/1)(15) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/e)
+[^c-98d284ddfb80a3ace14784742ebe8695]: Commencement: [S. 186(1)-(12)](https://www.legislation.gov.uk/ukpga/2023/56/section/186/1)(15) in force at 26.4.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 4(e)](https://www.legislation.gov.uk/uksi/2024/269/regulation/4/e)

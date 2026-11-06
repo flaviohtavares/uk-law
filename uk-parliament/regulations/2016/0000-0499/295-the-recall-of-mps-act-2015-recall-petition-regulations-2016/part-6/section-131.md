@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 131. Details to appear on petition publications[^key-737bc17c1f9387d0c20f1a048616ee96]
+## 131. Details to appear on petition publications[^c-737bc17c1f9387d0c20f1a048616ee96]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,4 +64,4 @@ is guilty of an offence and liable on summary conviction to a fine.
 
 ## Annotations
 
-[^key-737bc17c1f9387d0c20f1a048616ee96]: Commencement: Reg. 131 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-737bc17c1f9387d0c20f1a048616ee96]: Commencement: Reg. 131 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

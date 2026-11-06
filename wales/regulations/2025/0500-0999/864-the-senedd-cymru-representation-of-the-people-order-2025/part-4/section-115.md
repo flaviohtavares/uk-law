@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115. Members of legal and certain other professions[^key-7f9d35a36538ac096adc6b8496e3bb2a]
+## 115. Members of legal and certain other professions[^c-7f9d35a36538ac096adc6b8496e3bb2a]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Where a barrister, advocate, solicitor, authorised person or any person who belo
 
 ## Annotations
 
-[^key-7f9d35a36538ac096adc6b8496e3bb2a]: Commencement: Art. 115 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-7f9d35a36538ac096adc6b8496e3bb2a]: Commencement: Art. 115 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

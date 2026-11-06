@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## E26. Entitlement to long-term family benefits[^key-337483001f09bc26557a1fb842710446]
+## E26. Entitlement to long-term family benefits[^c-337483001f09bc26557a1fb842710446]
 
 *Extent: N.I.*
 
@@ -53,4 +53,4 @@ a long-term pension is payable to or for the benefit of the child or, as the cas
 
 ## Annotations
 
-[^key-337483001f09bc26557a1fb842710446]: Commencement: Reg. E26 in operation at 2.11.1998, see reg. A1
+[^c-337483001f09bc26557a1fb842710446]: Commencement: Reg. E26 in operation at 2.11.1998, see reg. A1

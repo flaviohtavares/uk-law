@@ -26,14 +26,14 @@ Section 7
 
 ### Part 1 — Categories of permitted lease for Tribunal certification
 
-#### 1. Leases granted out of historic leasehold estates[^key-9a5e1fa0667b09994841f8dd2c4030c3]
+#### 1. Leases granted out of historic leasehold estates[^c-9a5e1fa0667b09994841f8dd2c4030c3]
 
 A lease granted out of a leasehold estate (the “superior leasehold estate”) where—
 
 - (a) the superior leasehold estate was granted before 22 December 2017, or
 - (b) the superior leasehold estate was granted on or after 22 December 2017 in pursuance of an agreement entered into before that date.
 
-#### 2. Community housing leases[^key-f49e1ec22ba23c11ece8c66f1def1be8]
+#### 2. Community housing leases[^c-f49e1ec22ba23c11ece8c66f1def1be8]
 
 (1) A lease that—
 
@@ -47,7 +47,7 @@ A lease granted out of a leasehold estate (the “superior leasehold estate”) 
 
 (3) A statutory instrument containing regulations made under sub-paragraph (1)(b) is subject to the negative procedure.
 
-#### 3. Retirement housing leases[^key-668aba221cded45a0e27511a97d99d47]
+#### 3. Retirement housing leases[^c-668aba221cded45a0e27511a97d99d47]
 
 (1) A lease that—
 
@@ -62,14 +62,14 @@ A lease granted out of a leasehold estate (the “superior leasehold estate”) 
 
 (3) A statutory instrument containing regulations made under sub-paragraph (1)(b) is subject to the negative procedure.
 
-#### 4. Leases of certain National Trust property[^key-3dca745780121f336a8e5a066e612b2f]
+#### 4. Leases of certain National Trust property[^c-3dca745780121f336a8e5a066e612b2f]
 
 A lease of a house where the house comprised in the lease—
 
 - (a) is a property or part of a property vested inalienably in the National Trust for Places of Historic Interest or Natural Beauty (“the National Trust”) under section 21 of the National Trust Act 1907, or
 - (b) is inalienable by the National Trust by virtue of section 8 of the National Trust Act 1939.
 
-#### 5. Leases granted by the Crown[^key-991ee5364365e53a51d33f08158524f5]
+#### 5. Leases granted by the Crown[^c-991ee5364365e53a51d33f08158524f5]
 
 (1) A lease granted out of a freehold estate by the Crown.
 
@@ -80,11 +80,11 @@ A lease of a house where the house comprised in the lease—
 
 ### Part 2 — Categories of permitted lease for self-certification
 
-#### 6. Leases agreed before commencement[^key-91f032b2cef160666b908de9189944a0]
+#### 6. Leases agreed before commencement[^c-91f032b2cef160666b908de9189944a0]
 
 A lease granted in pursuance of an agreement entered into before the day on which section 1 comes into force.
 
-#### 7. Shared ownership leases[^key-37b8e3a659980dd9c9075a7388bb83cf]
+#### 7. Shared ownership leases[^c-37b8e3a659980dd9c9075a7388bb83cf]
 
 (1) A lease that—
 
@@ -116,7 +116,7 @@ without the payment of further consideration.
 
 (8) A statutory instrument containing regulations made under sub-paragraph (2) is subject to the negative procedure.
 
-#### 8. Home finance plan leases[^key-b97ed875a802967d3acecf581109bf88]
+#### 8. Home finance plan leases[^c-b97ed875a802967d3acecf581109bf88]
 
 (1) A lease that —
 
@@ -137,7 +137,7 @@ without the payment of further consideration.
 
 (5) A statutory instrument containing regulations made under sub-paragraph (1)(b) is subject to the negative procedure.
 
-#### 9. Extended leases[^key-685cc85f1346232c59b572116f4033c7]
+#### 9. Extended leases[^c-685cc85f1346232c59b572116f4033c7]
 
 (1) An extended lease, which is a lease that falls within any of cases A to C.
 
@@ -147,7 +147,7 @@ without the payment of further consideration.
 
 (4) Case C: a lease of a house which takes effect as a deemed surrender and regrant of a lease of a house granted before this Part comes into force.
 
-#### 10. Agricultural leases[^key-40d7caef8f31244f3b7d07c3dbc62f29]
+#### 10. Agricultural leases[^c-40d7caef8f31244f3b7d07c3dbc62f29]
 
 An agricultural lease, which is a lease where the house is comprised in—
 
@@ -156,22 +156,22 @@ An agricultural lease, which is a lease where the house is comprised in—
 
 ## Annotations
 
-[^key-9a5e1fa0667b09994841f8dd2c4030c3]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-9a5e1fa0667b09994841f8dd2c4030c3]: Commencement: Sch. 1 para. 1 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-f49e1ec22ba23c11ece8c66f1def1be8]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-f49e1ec22ba23c11ece8c66f1def1be8]: Commencement: Sch. 1 para. 2 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-668aba221cded45a0e27511a97d99d47]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-668aba221cded45a0e27511a97d99d47]: Commencement: Sch. 1 para. 3 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-3dca745780121f336a8e5a066e612b2f]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-3dca745780121f336a8e5a066e612b2f]: Commencement: Sch. 1 para. 4 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-991ee5364365e53a51d33f08158524f5]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-991ee5364365e53a51d33f08158524f5]: Commencement: Sch. 1 para. 5 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-91f032b2cef160666b908de9189944a0]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-91f032b2cef160666b908de9189944a0]: Commencement: Sch. 1 para. 6 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-37b8e3a659980dd9c9075a7388bb83cf]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-37b8e3a659980dd9c9075a7388bb83cf]: Commencement: Sch. 1 para. 7 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-b97ed875a802967d3acecf581109bf88]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-b97ed875a802967d3acecf581109bf88]: Commencement: Sch. 1 para. 8 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-685cc85f1346232c59b572116f4033c7]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-685cc85f1346232c59b572116f4033c7]: Commencement: Sch. 1 para. 9 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
 
-[^key-40d7caef8f31244f3b7d07c3dbc62f29]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-40d7caef8f31244f3b7d07c3dbc62f29]: Commencement: Sch. 1 para. 10 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 13. Persons who may not apply for a licence[^key-9bfe636ba0677abda82eea6fb2a04249]
+## 13. Persons who may not apply for a licence[^c-9bfe636ba0677abda82eea6fb2a04249]
 
 *Extent: S*
 
@@ -30,7 +30,7 @@ summary: ''
 
 ## Annotations
 
-[^key-9bfe636ba0677abda82eea6fb2a04249]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2021/84/regulation/13) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
+[^c-9bfe636ba0677abda82eea6fb2a04249]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2021/84/regulation/13) in force at 1.9.2021, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/84/regulation/1)
 
 [^f00007]: Footnote: [2006 c.45](https://www.legislation.gov.uk/ukpga/2006/45).
 

@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The inspectorate, and the office of chief inspector, established under section 23 of the [^c10577941]Probation Service Act 1993 (inspectorate of probation) shall continue in being, [^key-ddec3c9da0513722a87189d71e965725]...
+(1) The inspectorate, and the office of chief inspector, established under section 23 of the [^c10577941]Probation Service Act 1993 (inspectorate of probation) shall continue in being, [^c-ddec3c9da0513722a87189d71e965725]...
 
-- [^key-ddec3c9da0513722a87189d71e965725] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- [^key-ddec3c9da0513722a87189d71e965725] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-ddec3c9da0513722a87189d71e965725] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- [^c-ddec3c9da0513722a87189d71e965725] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The power to appoint a person to be chief inspector or one of the other members of the inspectorate is exercisable by the Secretary of State.
 
@@ -34,13 +34,13 @@ summary: ''
 
 (4) Below in this Chapter—
 
-- (a) references to the chief inspector are to Her Majesty’s Chief Inspector of Probation[^key-c62bb35f6d78972f6e8bdf810ad9330b] for England and Wales,
+- (a) references to the chief inspector are to Her Majesty’s Chief Inspector of Probation[^c-c62bb35f6d78972f6e8bdf810ad9330b] for England and Wales,
 - (b) references to the members of the inspectorate are to the chief inspector and the other members of Her Majesty’s Inspectorate of Probation for England and Wales.
 
 ## Annotations
 
 [^c10577941]: Marginal citation: [1993 c. 47](https://www.legislation.gov.uk/ukpga/1993/47).
 
-[^key-ddec3c9da0513722a87189d71e965725]: Textual amendment: Words in s. 6(1) repealed (1.4.2008) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2007/21/section/12/2/a), [41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1); [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(d)(n)](https://www.legislation.gov.uk/uksi/2008/504/article/3/d/n)
+[^c-ddec3c9da0513722a87189d71e965725]: Textual amendment: Words in s. 6(1) repealed (1.4.2008) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [ss. 12(2)(a)](https://www.legislation.gov.uk/ukpga/2007/21/section/12/2/a), [41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1), [Sch. 5 Pt. 1](https://www.legislation.gov.uk/ukpga/2007/21/schedule/5/part/1); [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(d)(n)](https://www.legislation.gov.uk/uksi/2008/504/article/3/d/n)
 
-[^key-c62bb35f6d78972f6e8bdf810ad9330b]: Textual amendment: Word in s. 6(4) substituted (1.4.2008) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [ss. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2007/21/section/12/2/b), [41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1); [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/504/article/3/d)
+[^c-c62bb35f6d78972f6e8bdf810ad9330b]: Textual amendment: Word in s. 6(4) substituted (1.4.2008) by [Offender Management Act 2007 (c. 21)](https://www.legislation.gov.uk/ukpga/2007/21), [ss. 12(2)(b)](https://www.legislation.gov.uk/ukpga/2007/21/section/12/2/b), [41(1)](https://www.legislation.gov.uk/ukpga/2007/21/section/41/1); [S.I. 2008/504](https://www.legislation.gov.uk/uksi/2008/504), [art. 3(d)](https://www.legislation.gov.uk/uksi/2008/504/article/3/d)

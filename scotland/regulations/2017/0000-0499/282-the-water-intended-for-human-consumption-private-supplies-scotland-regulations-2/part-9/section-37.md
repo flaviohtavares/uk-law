@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Offences: general duties[^key-8c3133252a19889df26b9ab059f8efa8]
+## 37. Offences: general duties[^c-8c3133252a19889df26b9ab059f8efa8]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c3133252a19889df26b9ab059f8efa8]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2017/282/regulation/37) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)
+[^c-8c3133252a19889df26b9ab059f8efa8]: Commencement: [Reg. 37](https://www.legislation.gov.uk/ssi/2017/282/regulation/37) in force at 27.10.2017, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2017/282/regulation/1/1)

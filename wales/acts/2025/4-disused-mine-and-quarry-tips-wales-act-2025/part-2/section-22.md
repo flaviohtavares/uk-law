@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Proposal to remove tip from register[^key-aa0beab17edc5e15d7e10a883db8dbfb]
+## 22. Proposal to remove tip from register[^c-aa0beab17edc5e15d7e10a883db8dbfb]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa0beab17edc5e15d7e10a883db8dbfb]: Commencement: S. 22 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)
+[^c-aa0beab17edc5e15d7e10a883db8dbfb]: Commencement: S. 22 not in force at Royal Assent, see [s. 92(3)](https://www.legislation.gov.uk/asc/2025/4/section/92/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105A. Section 105: limit on handling charges etc[^key-dddd2ca51c3aac290cdd0774da5f829b]
+## 105A. Section 105: limit on handling charges etc[^c-dddd2ca51c3aac290cdd0774da5f829b]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dddd2ca51c3aac290cdd0774da5f829b]: Textual amendment: [S. 105A](https://www.legislation.gov.uk/ukpga/2000/26/section/105A) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 37](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/37); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-dddd2ca51c3aac290cdd0774da5f829b]: Textual amendment: [S. 105A](https://www.legislation.gov.uk/ukpga/2000/26/section/105A) inserted (1.10.2011) by [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 37](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/37); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

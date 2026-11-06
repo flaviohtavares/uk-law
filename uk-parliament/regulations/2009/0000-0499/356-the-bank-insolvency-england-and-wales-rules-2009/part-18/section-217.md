@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 217. Application for costs[^key-03eb2720a56bbfd1dc4083e87430b8c2]
+## 217. Application for costs[^c-03eb2720a56bbfd1dc4083e87430b8c2]
 
 *Extent: E+W*
 
@@ -28,10 +28,10 @@ summary: ''
 
 (4) In paragraph (3), leave out “and, where appropriate, the official receiver”.
 
-(5)[^key-39ba3d056c6c01ea4ec3f41545e3c071] Ignore paragraph (3A).
+(5)[^c-39ba3d056c6c01ea4ec3f41545e3c071] Ignore paragraph (3A).
 
 ## Annotations
 
-[^key-03eb2720a56bbfd1dc4083e87430b8c2]: Commencement: Rule 217 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-03eb2720a56bbfd1dc4083e87430b8c2]: Commencement: Rule 217 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
-[^key-39ba3d056c6c01ea4ec3f41545e3c071]: Textual amendment: [Rule 217(5)](https://www.legislation.gov.uk/uksi/2009/356/rule/217/5) inserted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [66](https://www.legislation.gov.uk/uksi/2010/2579/rule/66)
+[^c-39ba3d056c6c01ea4ec3f41545e3c071]: Textual amendment: [Rule 217(5)](https://www.legislation.gov.uk/uksi/2009/356/rule/217/5) inserted (15.11.2010) by [The Bank Insolvency (England and Wales) (Amendment) Rules 2010 (S.I. 2010/2579)](https://www.legislation.gov.uk/uksi/2010/2579), [rules 1](https://www.legislation.gov.uk/uksi/2010/2579/article/1), [66](https://www.legislation.gov.uk/uksi/2010/2579/rule/66)

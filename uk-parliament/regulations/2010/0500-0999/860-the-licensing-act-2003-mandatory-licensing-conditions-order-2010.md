@@ -52,13 +52,13 @@ In accordance with section 197(4) of that Act[^f00002], a draft of this instrume
 
 In accordance with sections 19A(1) and 73B(1) of that Act, the Secretary of State considers it appropriate for the promotion of the licensing objectives[^f00003] to specify the conditions set out in this Order.
 
-## 1. Citation and commencement[^key-2c2e1fbb78f49efd22a7f80a7a7947b2]
+## 1. Citation and commencement[^c-2c2e1fbb78f49efd22a7f80a7a7947b2]
 
 (1) This Order may be cited as the Licensing Act 2003 (Mandatory Licensing Conditions) Order 2010.
 
 (2) This Order shall come into force on 6th April 2010 other than paragraphs 4 and 5 of the Schedule which shall come into force on 1st October 2010.
 
-## 2. Interpretation[^key-f10a06d15ead395a39c0cd659d8f00b0]
+## 2. Interpretation[^c-f10a06d15ead395a39c0cd659d8f00b0]
 
 In this Order—
 
@@ -68,13 +68,13 @@ In this Order—
 - “relevant premises” has the meaning given in paragraphs (a) and (b) of the definition in section 159 of the Act;
 - “responsible person” has the meaning given in paragraphs (a) and (b) of the definition in section 153(4) of the Act.
 
-## 3. Mandatory conditions[^key-bcff2ef3ebe7a51c83ad9ad7c74c0863]
+## 3. Mandatory conditions[^c-bcff2ef3ebe7a51c83ad9ad7c74c0863]
 
 (1) Subject to paragraph (3), in relation to an existing or future relevant premises licence, the conditions set out in the Schedule are specified for the purposes of section 19(4)[^f00006] of the Act (mandatory conditions where licence authorises supply of alcohol).
 
 (2) Subject to paragraph (3), in relation to an existing or future relevant club premises certificate, the conditions set out in the Schedule are specified for the purposes of section 73A[^f00007] of the Act (mandatory conditions relating to the supply of alcohol to members or guests).
 
-(3) The conditions in paragraphs 1, 2 and 4[^key-e9d70956b0d5bd72ba23b0403e7a571e] of the Schedule do not apply where the licence or certificate authorises the sale by retail or supply of alcohol only for consumption off the premises.
+(3) The conditions in paragraphs 1, 2 and 4[^c-e9d70956b0d5bd72ba23b0403e7a571e] of the Schedule do not apply where the licence or certificate authorises the sale by retail or supply of alcohol only for consumption off the premises.
 
 Alan Campbell
 
@@ -84,7 +84,7 @@ Home Office
 
 16th March 2010
 
-## SCHEDULE — Mandatory Licensing Conditions[^key-282dae911234c2f472ba0c513dfdad45]
+## SCHEDULE — Mandatory Licensing Conditions[^c-282dae911234c2f472ba0c513dfdad45]
 
 Article 3
 
@@ -106,12 +106,12 @@ Article 3
 
 (2) The designated premises supervisor in relation to the premises licence must ensure that the supply of alcohol at the premises is carried on in accordance with the age verification policy.
 
-(3) Subject to sub-paragraph (4), the policy[^key-20f48dbf387063dbbefcab48cfc491db] must require individuals who appear to the responsible person to be under 18 years of age (or such older age as may be specified in the policy) to produce on request, before being served alcohol, identification bearing their photograph, date of birth and either—
+(3) Subject to sub-paragraph (4), the policy[^c-20f48dbf387063dbbefcab48cfc491db] must require individuals who appear to the responsible person to be under 18 years of age (or such older age as may be specified in the policy) to produce on request, before being served alcohol, identification bearing their photograph, date of birth and either—
 
 - (a) a holographic mark, or
 - (b) an ultraviolet feature.
 
-(4)[^key-43efeae969c98cd75f5ac1a9aa741a27] The age verification policy may make provision permitting a responsible person to accept identification in digital form (“relevant ID”) instead of identification of a type described in sub-paragraph (3).
+(4)[^c-43efeae969c98cd75f5ac1a9aa741a27] The age verification policy may make provision permitting a responsible person to accept identification in digital form (“relevant ID”) instead of identification of a type described in sub-paragraph (3).
 
 (5) Where provision envisaged by sub-paragraph (4) is included in the policy, the policy must make provision dealing with the circumstance described in paragraph (6).
 
@@ -153,7 +153,7 @@ Article 3
 - (b) these measures are displayed in a menu, price list or other printed material which is available to customers on the premises; and
 - (c) where a customer does not in relation to a sale of alcohol specify the quantity of alcohol to be sold, the customer is made aware that these measures are available.
 
-**5.**[^key-282dae911234c2f472ba0c513dfdad45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-282dae911234c2f472ba0c513dfdad45] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 EXPLANATORY NOTE
 
@@ -171,24 +171,24 @@ The Schedule to the Order sets out the five mandatory conditions which apply to 
 
 [^f00003]: Footnote: See section 4(2) of the Licensing Act 2003.
 
-[^key-2c2e1fbb78f49efd22a7f80a7a7947b2]: Commencement: Art. 1 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/860/article/1/2)
+[^c-2c2e1fbb78f49efd22a7f80a7a7947b2]: Commencement: Art. 1 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/860/article/1/2)
 
-[^key-f10a06d15ead395a39c0cd659d8f00b0]: Commencement: Art. 2 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/860/article/1/2)
+[^c-f10a06d15ead395a39c0cd659d8f00b0]: Commencement: Art. 2 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/860/article/1/2)
 
 [^f00004]: Footnote: [2003 c.38](https://www.legislation.gov.uk/ukpga/2003/38).
 
 [^f00005]: Footnote: [1995 c.50](https://www.legislation.gov.uk/ukpga/1995/50).
 
-[^key-bcff2ef3ebe7a51c83ad9ad7c74c0863]: Commencement: Art. 3 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/860/article/1/2)
+[^c-bcff2ef3ebe7a51c83ad9ad7c74c0863]: Commencement: Art. 3 in force at 6.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/860/article/1/2)
 
 [^f00006]: Footnote: Section 19(4) was inserted by paragraph 1 of Schedule 4 to the Policing and Crime Act 2009.
 
 [^f00007]: Footnote: Section 73A was inserted by paragraph 3 of Schedule 4 to the Policing and Crime Act 2009.
 
-[^key-e9d70956b0d5bd72ba23b0403e7a571e]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/860/article/3/3) substituted (1.10.2014) by [The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2014 (S.I. 2014/2440)](https://www.legislation.gov.uk/uksi/2014/2440), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2440/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/2440/article/2/2)
+[^c-e9d70956b0d5bd72ba23b0403e7a571e]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2010/860/article/3/3) substituted (1.10.2014) by [The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2014 (S.I. 2014/2440)](https://www.legislation.gov.uk/uksi/2014/2440), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2440/article/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/2440/article/2/2)
 
-[^key-282dae911234c2f472ba0c513dfdad45]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2010/860/schedule) substituted (1.10.2014) by [The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2014 (S.I. 2014/2440)](https://www.legislation.gov.uk/uksi/2014/2440), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2440/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2440/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2440/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/2440/article/3))
+[^c-282dae911234c2f472ba0c513dfdad45]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2010/860/schedule) substituted (1.10.2014) by [The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2014 (S.I. 2014/2440)](https://www.legislation.gov.uk/uksi/2014/2440), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2014/2440/article/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/2440/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2014/2440/schedule) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/2440/article/3))
 
-[^key-20f48dbf387063dbbefcab48cfc491db]: Textual amendment: Words in [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2010/860/schedule/paragraph/3/3) substituted (15.9.2026) by [The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2026 (S.I. 2026/1022)](https://www.legislation.gov.uk/uksi/2026/1022), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1022/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/1022/article/2/2)
+[^c-20f48dbf387063dbbefcab48cfc491db]: Textual amendment: Words in [Sch. para. 3(3)](https://www.legislation.gov.uk/uksi/2010/860/schedule/paragraph/3/3) substituted (15.9.2026) by [The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2026 (S.I. 2026/1022)](https://www.legislation.gov.uk/uksi/2026/1022), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1022/article/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2026/1022/article/2/2)
 
-[^key-43efeae969c98cd75f5ac1a9aa741a27]: Textual amendment: [Sch. para. 3(4)-(11)](https://www.legislation.gov.uk/uksi/2010/860/schedule/paragraph/3/4) inserted (15.9.2026) by [The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2026 (S.I. 2026/1022)](https://www.legislation.gov.uk/uksi/2026/1022), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1022/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/1022/article/2/3)
+[^c-43efeae969c98cd75f5ac1a9aa741a27]: Textual amendment: [Sch. para. 3(4)-(11)](https://www.legislation.gov.uk/uksi/2010/860/schedule/paragraph/3/4) inserted (15.9.2026) by [The Licensing Act 2003 (Mandatory Licensing Conditions) (Amendment) Order 2026 (S.I. 2026/1022)](https://www.legislation.gov.uk/uksi/2026/1022), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2026/1022/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2026/1022/article/2/3)

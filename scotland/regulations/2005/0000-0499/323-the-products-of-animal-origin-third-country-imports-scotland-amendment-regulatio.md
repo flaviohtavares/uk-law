@@ -45,11 +45,11 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by section 2(2) of the European Communities Act 1972[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-ca79983200ba693badf68bdf605a7b1f]
+## 1. Citation and commencement[^c-ca79983200ba693badf68bdf605a7b1f]
 
 These Regulations may be cited as the Products of Animal Origin (Third Country Imports) (Scotland) Amendment Regulations 2005 and shall come into force on 1st July 2005.
 
-## 2. Amendments to the Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2002[^key-9a8a45f7ec60f4ed7c2c5c6c27ff1bd6]
+## 2. Amendments to the Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2002[^c-9a8a45f7ec60f4ed7c2c5c6c27ff1bd6]
 
 (1) The Products of Animal Origin (Third Country Imports) (Scotland) Regulations 2002[^f00002] are amended in accordance with this regulation.
 
@@ -179,9 +179,9 @@ A Regulatory Impact Assessment has not been prepared for these Regulations.
 
 [^f00001]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2(2) was amended by the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), Schedule 8, paragraph 15(3). The functions conferred upon the Minister of the Crown under section 2(2) of the European Communities Act 1972, insofar as within devolved competence, were transferred to the Scottish Ministers by virtue of section 53 of the Scotland Act 1998.
 
-[^key-ca79983200ba693badf68bdf605a7b1f]: Commencement: Reg. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/323/regulation/1)
+[^c-ca79983200ba693badf68bdf605a7b1f]: Commencement: Reg. 1 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/323/regulation/1)
 
-[^key-9a8a45f7ec60f4ed7c2c5c6c27ff1bd6]: Commencement: Reg. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/323/regulation/1)
+[^c-9a8a45f7ec60f4ed7c2c5c6c27ff1bd6]: Commencement: Reg. 2 in force at 1.7.2005, see [reg. 1](https://www.legislation.gov.uk/ssi/2005/323/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2002/445](https://www.legislation.gov.uk/ssi/2002/445), as amended by [S.S.I. 2002/565](https://www.legislation.gov.uk/ssi/2002/565), [S.S.I. 2003/165](https://www.legislation.gov.uk/ssi/2003/165), [S.S.I. 2003/225](https://www.legislation.gov.uk/ssi/2003/225), [S.S.I. 2003/333](https://www.legislation.gov.uk/ssi/2003/333) and [S.S.I. 2003/411](https://www.legislation.gov.uk/ssi/2003/411).
 

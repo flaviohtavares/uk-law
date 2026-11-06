@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. Office of Rail Regulation[^key-d47753a7887bf8d7ea8927d1f5b86698]
+## 17. Office of Rail Regulation[^c-d47753a7887bf8d7ea8927d1f5b86698]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d47753a7887bf8d7ea8927d1f5b86698]: Textual amendment: [Ss. 10-18](https://www.legislation.gov.uk/ukpga/2006/12/section/10) repealed (14.9.2012 which is the fifth day after the day of the closing ceremony of the Paralympic Games 2012, in accordance with s. 1(3)(c)(ii)) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(6)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/6)
+[^c-d47753a7887bf8d7ea8927d1f5b86698]: Textual amendment: [Ss. 10-18](https://www.legislation.gov.uk/ukpga/2006/12/section/10) repealed (14.9.2012 which is the fifth day after the day of the closing ceremony of the Paralympic Games 2012, in accordance with s. 1(3)(c)(ii)) by [London Olympic Games and Paralympic Games Act 2006 (c. 12)](https://www.legislation.gov.uk/ukpga/2006/12), [s. 40(6)](https://www.legislation.gov.uk/ukpga/2006/12/section/40/6)

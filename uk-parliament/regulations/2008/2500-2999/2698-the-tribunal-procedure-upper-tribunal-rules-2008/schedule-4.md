@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (8).** Text as at 2026-09-30. See https://www.legislation.gov.uk/changes/affected/uksi/2008/2698
 
-## SCHEDULE 4 — Procedure in financial sanctions cases[^key-98f2f3d5316c217018f6474d9369f850]
+## SCHEDULE 4 — Procedure in financial sanctions cases[^c-98f2f3d5316c217018f6474d9369f850]
 
 Rule 26C
 
@@ -96,7 +96,7 @@ In this Schedule—
 
 (1) A list provided in accordance with paragraph 3(3), 4(3) or 5(1) need not include any document:
 
-- (a) that is material the disclosure of which for the purposes of or in connection with any legal proceedings is prohibited by section 56 of the Investigatory Powers Act 2016[^key-0d30cd46aaed101d7263eb05d1601cab]; or
+- (a) that is material the disclosure of which for the purposes of or in connection with any legal proceedings is prohibited by section 56 of the Investigatory Powers Act 2016[^c-0d30cd46aaed101d7263eb05d1601cab]; or
 - (b) in respect of which an application has been or is being made under sub-paragraph (2).
 
 (2) A party may apply to the Upper Tribunal (without giving notice to any other party) for a direction authorising the party making the application not to include in the list required by paragraph 3(3), 4(3) or 5(1) a document on the ground that disclosure of the document—
@@ -122,6 +122,6 @@ In this Schedule—
 
 ## Annotations
 
-[^key-98f2f3d5316c217018f6474d9369f850]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2008/2698/schedule/4) inserted (27.7.2017) by [The Tribunal Procedure (Amendment) Rules 2017 (S.I. 2017/723)](https://www.legislation.gov.uk/uksi/2017/723), [rules 1](https://www.legislation.gov.uk/uksi/2017/723/rule/1), [13](https://www.legislation.gov.uk/uksi/2017/723/rule/13)
+[^c-98f2f3d5316c217018f6474d9369f850]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/uksi/2008/2698/schedule/4) inserted (27.7.2017) by [The Tribunal Procedure (Amendment) Rules 2017 (S.I. 2017/723)](https://www.legislation.gov.uk/uksi/2017/723), [rules 1](https://www.legislation.gov.uk/uksi/2017/723/rule/1), [13](https://www.legislation.gov.uk/uksi/2017/723/rule/13)
 
-[^key-0d30cd46aaed101d7263eb05d1601cab]: Textual amendment: Words in [Sch. 4 para. 6(1)(a)](https://www.legislation.gov.uk/uksi/2008/2698/schedule/4/paragraph/6/1/a) substituted (27.12.2024) by [The Tribunal Procedure (Amendment No. 2) Rules 2024 (S.I. 2024/1283)](https://www.legislation.gov.uk/uksi/2024/1283), [rules 1](https://www.legislation.gov.uk/uksi/2024/1283/rule/1), [3(7)](https://www.legislation.gov.uk/uksi/2024/1283/rule/3/7)
+[^c-0d30cd46aaed101d7263eb05d1601cab]: Textual amendment: Words in [Sch. 4 para. 6(1)(a)](https://www.legislation.gov.uk/uksi/2008/2698/schedule/4/paragraph/6/1/a) substituted (27.12.2024) by [The Tribunal Procedure (Amendment No. 2) Rules 2024 (S.I. 2024/1283)](https://www.legislation.gov.uk/uksi/2024/1283), [rules 1](https://www.legislation.gov.uk/uksi/2024/1283/rule/1), [3(7)](https://www.legislation.gov.uk/uksi/2024/1283/rule/3/7)

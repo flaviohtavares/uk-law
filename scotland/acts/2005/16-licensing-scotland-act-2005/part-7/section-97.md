@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 97. Closure orders[^key-192865f22d92a85a6f8c771a3f3b7bee]
+## 97. Closure orders[^c-192865f22d92a85a6f8c771a3f3b7bee]
 
 *Extent: S*
 
@@ -27,7 +27,7 @@ summary: ''
 
 make a closure order in relation to the premises.
 
-(2) A constable of or above the rank of inspector may, if the constable[^key-541d86b8268c1220fe313b9cccdebe75] reasonably believes that—
+(2) A constable of or above the rank of inspector may, if the constable[^c-541d86b8268c1220fe313b9cccdebe75] reasonably believes that—
 
 - (a) there is, or is likely imminently to be, disorder on, or in the vicinity of, any licensed premises,
 - (b) closure of the premises is necessary in the interests of public safety, and
@@ -37,7 +37,7 @@ make a closure order in relation to the premises.
 
 (3) A closure order is an order requiring the licensed premises to which it relates to be closed for such period, beginning with the coming into force of the order, as may be specified in the order.
 
-(4) A closure order made [^key-9fb0c728c86dd961a473c7a3d3e214b7]... under subsection (2) is referred to as an “**emergency closure order**”.
+(4) A closure order made [^c-9fb0c728c86dd961a473c7a3d3e214b7]... under subsection (2) is referred to as an “**emergency closure order**”.
 
 (5) The period of closure specified in an emergency closure order must not exceed 24 hours.
 
@@ -53,8 +53,8 @@ make a closure order in relation to the premises.
 
 ## Annotations
 
-[^key-192865f22d92a85a6f8c771a3f3b7bee]: Commencement: S. 97 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-192865f22d92a85a6f8c771a3f3b7bee]: Commencement: S. 97 in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
-[^key-541d86b8268c1220fe313b9cccdebe75]: Textual amendment: Words in s. 97(2) substituted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 193(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/193/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-541d86b8268c1220fe313b9cccdebe75]: Textual amendment: Words in s. 97(2) substituted (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 193(2)(a)](https://www.legislation.gov.uk/asp/2010/13/section/193/2/a), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
 
-[^key-9fb0c728c86dd961a473c7a3d3e214b7]: Textual amendment: Words in s. 97(4) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 193(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/193/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)
+[^c-9fb0c728c86dd961a473c7a3d3e214b7]: Textual amendment: Words in s. 97(4) repealed (13.12.2010) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 193(2)(b)](https://www.legislation.gov.uk/asp/2010/13/section/193/2/b), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule)

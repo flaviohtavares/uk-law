@@ -22,11 +22,11 @@ summary: ''
 
 (1) In Chapter 3 of Part 2 of the Serious Organised Crime and Police Act 2005 (financial reporting orders)—
 
-- (a)[^key-18d172b11dc3cbfea9a54f9ed02ead8e] omit section 76 (making financial reporting orders in England and Wales);
-- (b)[^key-b000e7f0e744367814e4f0a9bcadad1e] omit section 77 (making financial reporting orders in Scotland);
-- (c)[^key-18d172b11dc3cbfea9a54f9ed02ead8e] omit section 78 (making financial reporting orders in Northern Ireland).
+- (a)[^c-18d172b11dc3cbfea9a54f9ed02ead8e] omit section 76 (making financial reporting orders in England and Wales);
+- (b)[^c-b000e7f0e744367814e4f0a9bcadad1e] omit section 77 (making financial reporting orders in Scotland);
+- (c)[^c-18d172b11dc3cbfea9a54f9ed02ead8e] omit section 78 (making financial reporting orders in Northern Ireland).
 
-(2)[^key-18d172b11dc3cbfea9a54f9ed02ead8e] In Part 1 of the Serious Crime Act 2007 (serious crime prevention orders), after section 5 insert—
+(2)[^c-18d172b11dc3cbfea9a54f9ed02ead8e] In Part 1 of the Serious Crime Act 2007 (serious crime prevention orders), after section 5 insert—
 
 > **5A. Verification and disclosure of information**
 >
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-18d172b11dc3cbfea9a54f9ed02ead8e]: Commencement: [S. 50(1)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/50/1/a)[(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/50/1/c)[(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/50/2) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/i)
+[^c-18d172b11dc3cbfea9a54f9ed02ead8e]: Commencement: [S. 50(1)(a)](https://www.legislation.gov.uk/ukpga/2015/9/section/50/1/a)[(c)](https://www.legislation.gov.uk/ukpga/2015/9/section/50/1/c)[(2)](https://www.legislation.gov.uk/ukpga/2015/9/section/50/2) in force at 3.5.2015 by [S.I. 2015/820](https://www.legislation.gov.uk/uksi/2015/820), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2015/820/regulation/2/i)
 
-[^key-b000e7f0e744367814e4f0a9bcadad1e]: Commencement: [S. 50(1)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/50/1/b) in force at 1.3.2016 by [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/e)
+[^c-b000e7f0e744367814e4f0a9bcadad1e]: Commencement: [S. 50(1)(b)](https://www.legislation.gov.uk/ukpga/2015/9/section/50/1/b) in force at 1.3.2016 by [S.I. 2016/148](https://www.legislation.gov.uk/uksi/2016/148), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2016/148/regulation/3/e)

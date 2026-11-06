@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35E. Authority to secure publication of financial overview[^key-31d126d4461da630caaca5cc976b7826]
+## 35E. Authority to secure publication of financial overview[^c-31d126d4461da630caaca5cc976b7826]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ in order to fulfil the purpose set out in subsection (1) (as read with subsectio
 
 ## Annotations
 
-[^key-31d126d4461da630caaca5cc976b7826]: Textual amendment: [S. 35E](https://www.legislation.gov.uk/ukpga/1991/56/section/35E) and cross-heading inserted (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 2](https://www.legislation.gov.uk/ukpga/2025/5/section/2), [17(2)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/c)
+[^c-31d126d4461da630caaca5cc976b7826]: Textual amendment: [S. 35E](https://www.legislation.gov.uk/ukpga/1991/56/section/35E) and cross-heading inserted (24.2.2025) by [Water (Special Measures) Act 2025 (c. 5)](https://www.legislation.gov.uk/ukpga/2025/5), [ss. 2](https://www.legislation.gov.uk/ukpga/2025/5/section/2), [17(2)(c)](https://www.legislation.gov.uk/ukpga/2025/5/section/17/2/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Advice of scheme actuary[^key-529867c401a1625e2b6cfb2a2c28c52f]
+## 41. Advice of scheme actuary[^c-529867c401a1625e2b6cfb2a2c28c52f]
 
 *Extent: N.I.*
 
@@ -28,6 +28,6 @@ When advising the trustees of an unconnected multiple employer scheme in accorda
 
 ## Annotations
 
-[^key-529867c401a1625e2b6cfb2a2c28c52f]: Commencement: Reg. 41 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
+[^c-529867c401a1625e2b6cfb2a2c28c52f]: Commencement: Reg. 41 in operation at 31.7.2026, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2026/151/regulation/1/1)
 
 [^f00040]: Footnote: A company registered in England and Wales with number 02486368

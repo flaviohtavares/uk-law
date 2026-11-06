@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Transitional and saving provisions[^key-e6ddb7dfa5a36906296810a6bca1ea39]
+## 3. Transitional and saving provisions[^c-e6ddb7dfa5a36906296810a6bca1ea39]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Schedule 5 contains transitional and saving provisions in connection with the pr
 
 ## Annotations
 
-[^key-e6ddb7dfa5a36906296810a6bca1ea39]: Commencement: S. 3 not in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/asc/2026/7/section/5/2)
+[^c-e6ddb7dfa5a36906296810a6bca1ea39]: Commencement: S. 3 not in force at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/asc/2026/7/section/5/2)

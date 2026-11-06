@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17A. Manufacturing of MM medicinal products[^key-601d39ce14efee8f9c450bb275e21ed2]
+## 17A. Manufacturing of MM medicinal products[^c-601d39ce14efee8f9c450bb275e21ed2]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ A person may not manufacture or assemble an MM medicinal product unless—
 
 ## Annotations
 
-[^key-601d39ce14efee8f9c450bb275e21ed2]: Textual amendment: [Regs. 17A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/17A), [17B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/17B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/87/regulation/6)
+[^c-601d39ce14efee8f9c450bb275e21ed2]: Textual amendment: [Regs. 17A](https://www.legislation.gov.uk/uksi/2012/1916/regulation/17A), [17B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/17B) inserted (23.7.2025) by [The Human Medicines (Amendment) (Modular Manufacture and Point of Care) Regulations 2025 (S.I. 2025/87)](https://www.legislation.gov.uk/uksi/2025/87), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/87/regulation/1/2), [6](https://www.legislation.gov.uk/uksi/2025/87/regulation/6)

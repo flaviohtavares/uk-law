@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 135. Amount of pensionable earnings[^key-99d209886e2a33a6319ce4151888e0a1]
+## 135. Amount of pensionable earnings[^c-99d209886e2a33a6319ce4151888e0a1]
 
 *Extent: N.I.*
 
@@ -26,10 +26,10 @@ summary: ''
 
 (3) For any period of assumed pay under regulation 27(3)(a), the amount of the member’s pensionable earnings is equal to the member’s reduced pay while on sick leave.
 
-(4) For any period of assumed pay under regulation 27(3)(b) or (c), the amount of the member’s pensionable earnings is the amount of contractual remuneration or statutory pay actually paid to or for the member in respect of the period of adoption leave, maternity leave, parental leave, paternity leave or shared parental[^key-8a002a48ffd318efe5238770583a81ec] leave.
+(4) For any period of assumed pay under regulation 27(3)(b) or (c), the amount of the member’s pensionable earnings is the amount of contractual remuneration or statutory pay actually paid to or for the member in respect of the period of adoption leave, maternity leave, parental leave, paternity leave or shared parental[^c-8a002a48ffd318efe5238770583a81ec] leave.
 
 ## Annotations
 
-[^key-99d209886e2a33a6319ce4151888e0a1]: Commencement: [Reg. 135](https://www.legislation.gov.uk/nisr/2014/290/regulation/135) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-99d209886e2a33a6319ce4151888e0a1]: Commencement: [Reg. 135](https://www.legislation.gov.uk/nisr/2014/290/regulation/135) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-8a002a48ffd318efe5238770583a81ec]: Textual amendment: Words in [reg. 135(4)](https://www.legislation.gov.uk/nisr/2014/290/regulation/135/4) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [42](https://www.legislation.gov.uk/nisr/2022/67/regulation/42)
+[^c-8a002a48ffd318efe5238770583a81ec]: Textual amendment: Words in [reg. 135(4)](https://www.legislation.gov.uk/nisr/2014/290/regulation/135/4) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [42](https://www.legislation.gov.uk/nisr/2022/67/regulation/42)

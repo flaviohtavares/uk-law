@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 153. Qualifications regulatory framework[^key-5001a80ccb1f51f2c56ba6b9dd5b5ade]
+## 153. Qualifications regulatory framework[^c-5001a80ccb1f51f2c56ba6b9dd5b5ade]
 
 *Extent: E+W+N.I.*
 
@@ -50,10 +50,10 @@ summary: ''
 - (b) Ofqual's functions under sections 132(4) and 134 (functions in relation to general conditions);
 - (c) Ofqual's functions under an entry and inspection condition to which a recognition is subject (see section 135);
 - (d) Ofqual's functions under section 138(1) (power to determine that a qualification is subject to the accreditation requirement);
-- (e) Ofqual's functions under sections 149 to 152C[^key-233d0192bbc5bc0be5c86da0f80c9e0d] .
+- (e) Ofqual's functions under sections 149 to 152C[^c-233d0192bbc5bc0be5c86da0f80c9e0d] .
 
 ## Annotations
 
-[^key-5001a80ccb1f51f2c56ba6b9dd5b5ade]: Commencement: S. 153 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
+[^c-5001a80ccb1f51f2c56ba6b9dd5b5ade]: Commencement: S. 153 in force at 1.4.2010 by [S.I. 2010/1151](https://www.legislation.gov.uk/uksi/2010/1151), [art. 2](https://www.legislation.gov.uk/uksi/2010/1151/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2010/1151/schedule/1)
 
-[^key-233d0192bbc5bc0be5c86da0f80c9e0d]: Textual amendment: Word in s. 153(8)(e) substituted (1.5.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 23(6)](https://www.legislation.gov.uk/ukpga/2011/21/section/23/6), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 3](https://www.legislation.gov.uk/uksi/2012/924/article/3)
+[^c-233d0192bbc5bc0be5c86da0f80c9e0d]: Textual amendment: Word in s. 153(8)(e) substituted (1.5.2012) by [Education Act 2011 (c. 21)](https://www.legislation.gov.uk/ukpga/2011/21), [ss. 23(6)](https://www.legislation.gov.uk/ukpga/2011/21/section/23/6), [82(3)](https://www.legislation.gov.uk/ukpga/2011/21/section/82/3); [S.I. 2012/924](https://www.legislation.gov.uk/uksi/2012/924), [art. 3](https://www.legislation.gov.uk/uksi/2012/924/article/3)

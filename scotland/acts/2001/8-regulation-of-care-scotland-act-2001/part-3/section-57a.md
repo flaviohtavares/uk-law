@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 57A. Notification of dismissal etc. to Council[^key-b19c7f281f875957df37dd4058cbf154]
+## 57A. Notification of dismissal etc. to Council[^c-b19c7f281f875957df37dd4058cbf154]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ forthwith notify the Council of the dismissal, resignation or abandonment; and t
 
 ## Annotations
 
-[^key-b19c7f281f875957df37dd4058cbf154]: Textual amendment: Ss. 57A, 57B and cross-heading inserted (17.10.2005) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [ss. 32](https://www.legislation.gov.uk/asp/2005/13/section/32), [43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3); [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)
+[^c-b19c7f281f875957df37dd4058cbf154]: Textual amendment: Ss. 57A, 57B and cross-heading inserted (17.10.2005) by [Smoking, Health and Social Care (Scotland) Act 2005 (asp 13)](https://www.legislation.gov.uk/asp/2005/13), [ss. 32](https://www.legislation.gov.uk/asp/2005/13/section/32), [43(3)](https://www.legislation.gov.uk/asp/2005/13/section/43/3); [S.S.I. 2005/492](https://www.legislation.gov.uk/ssi/2005/492), [art. 3(a)](https://www.legislation.gov.uk/ssi/2005/492/article/3/a), [sch. 1](https://www.legislation.gov.uk/ssi/2005/492/schedule/1)

@@ -32,7 +32,7 @@ summary: ''
 
 Public Procurement
 
-The Public Procurement (Agreement on Government Procurement) (Thresholds) (Amendment) Regulations 2021 (revoked)[^key-54fd28b00254ef5c4d404e21e88e8226]
+The Public Procurement (Agreement on Government Procurement) (Thresholds) (Amendment) Regulations 2021 (revoked)[^c-54fd28b00254ef5c4d404e21e88e8226]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 1st January 2022
 
-[^key-54fd28b00254ef5c4d404e21e88e8226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54fd28b00254ef5c4d404e21e88e8226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-54fd28b00254ef5c4d404e21e88e8226]
+## 1. Citation, commencement and extent[^c-54fd28b00254ef5c4d404e21e88e8226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Defence and Security Public Contracts Regulations 2011[^key-54fd28b00254ef5c4d404e21e88e8226]
+## 2. Amendments to the Defence and Security Public Contracts Regulations 2011[^c-54fd28b00254ef5c4d404e21e88e8226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendments to the Public Contracts Regulations 2015[^key-54fd28b00254ef5c4d404e21e88e8226]
+## 3. Amendments to the Public Contracts Regulations 2015[^c-54fd28b00254ef5c4d404e21e88e8226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendments to the Concession Contracts Regulations 2016[^key-54fd28b00254ef5c4d404e21e88e8226]
+## 4. Amendments to the Concession Contracts Regulations 2016[^c-54fd28b00254ef5c4d404e21e88e8226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendments to the Utilities Contracts Regulations 2016[^key-54fd28b00254ef5c4d404e21e88e8226]
+## 5. Amendments to the Utilities Contracts Regulations 2016[^c-54fd28b00254ef5c4d404e21e88e8226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Interpretation of Part 3[^key-54fd28b00254ef5c4d404e21e88e8226]
+## 6. Interpretation of Part 3[^c-54fd28b00254ef5c4d404e21e88e8226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Transitional provisions[^key-54fd28b00254ef5c4d404e21e88e8226]
+## 7. Transitional provisions[^c-54fd28b00254ef5c4d404e21e88e8226]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-54fd28b00254ef5c4d404e21e88e8226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54fd28b00254ef5c4d404e21e88e8226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-54fd28b00254ef5c4d404e21e88e8226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-54fd28b00254ef5c4d404e21e88e8226]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-54fd28b00254ef5c4d404e21e88e8226]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1221) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)
+[^c-54fd28b00254ef5c4d404e21e88e8226]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1221) revoked (24.2.2025) by [The Procurement Act 2023 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/163)](https://www.legislation.gov.uk/uksi/2025/163), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/163/regulation/1/2), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2025/163/schedule/part/2)

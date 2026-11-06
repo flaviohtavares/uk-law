@@ -45,7 +45,7 @@ but does not include any decision on an application for an order granting develo
 
 .
 
-(5A)[^key-468f0c785ed71886cc3b2c8380418db4] This section does not apply to a decision on an application for infrastructure consent under the Infrastructure (Wales) Act 2024.
+(5A)[^c-468f0c785ed71886cc3b2c8380418db4] This section does not apply to a decision on an application for infrastructure consent under the Infrastructure (Wales) Act 2024.
 
 (6) In this section—
 
@@ -55,4 +55,4 @@ but does not include any decision on an application for an order granting develo
 
 ## Annotations
 
-[^key-468f0c785ed71886cc3b2c8380418db4]: Textual amendment: S. 58(5A) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/10/2) (with [s. 83(5)](https://www.legislation.gov.uk/asc/2024/3/section/83/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)
+[^c-468f0c785ed71886cc3b2c8380418db4]: Textual amendment: S. 58(5A) inserted (W.) (15.12.2025) by [Infrastructure (Wales) Act 2024 (asc 3)](https://www.legislation.gov.uk/asc/2024/3), [s. 147(2)](https://www.legislation.gov.uk/asc/2024/3/section/147/2), [Sch. 3 para. 10(2)](https://www.legislation.gov.uk/asc/2024/3/schedule/3/paragraph/10/2) (with [s. 83(5)](https://www.legislation.gov.uk/asc/2024/3/section/83/5)); [S.I. 2025/698](https://www.legislation.gov.uk/wsi/2025/698), [art. 3(l)](https://www.legislation.gov.uk/wsi/2025/698/article/3/l)

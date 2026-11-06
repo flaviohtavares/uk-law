@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 159. Offences by bodies corporate etc.[^key-1e1c958c21bc9f857e3959b235468576]
+## 159. Offences by bodies corporate etc.[^c-1e1c958c21bc9f857e3959b235468576]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ that individual as well as the offender is guilty of the offence and is liable t
 
 ## Annotations
 
-[^key-1e1c958c21bc9f857e3959b235468576]: Commencement: S. 159 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))
+[^c-1e1c958c21bc9f857e3959b235468576]: Commencement: S. 159 in force at 1.4.2012 by [S.S.I. 2012/39](https://www.legislation.gov.uk/ssi/2012/39), [art. 2](https://www.legislation.gov.uk/ssi/2012/39/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2012/39/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/ssi/2012/39/schedule/2))

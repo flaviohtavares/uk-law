@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 67. Adoption of local development plan[^key-eefe062a1066dbf8ed72531302f7e300]
+## 67. Adoption of local development plan[^c-eefe062a1066dbf8ed72531302f7e300]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eefe062a1066dbf8ed72531302f7e300]: Commencement: S. 67 in force at 5.10.2005 for specified purposes and 15.10.2005 in so far as not already in force by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2722/article/2/e)
+[^c-eefe062a1066dbf8ed72531302f7e300]: Commencement: S. 67 in force at 5.10.2005 for specified purposes and 15.10.2005 in so far as not already in force by [S.I. 2005/2722](https://www.legislation.gov.uk/uksi/2005/2722), [art. 2(e)](https://www.legislation.gov.uk/uksi/2005/2722/article/2/e)

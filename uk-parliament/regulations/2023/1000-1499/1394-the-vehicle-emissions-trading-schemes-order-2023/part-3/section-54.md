@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. VRTS credits: car clubs (SPV van manufacturers)[^key-e1e5e8436dff4344b2afe037fdd29706]
+## 54. VRTS credits: car clubs (SPV van manufacturers)[^c-e1e5e8436dff4344b2afe037fdd29706]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ summary: ''
 - (a) the administrator gives written notice to the SPV van manufacturer that it is satisfied that a ZE SPV mentioned in paragraph (1)(a) is not being, or has not been, used in accordance with paragraph (1)(b); and
 - (b) the SPV van manufacturer has not traded that half VRTS credit in accordance with article 58.
 
-(3) Where an SPV van manufacturer receives, before 1st November 2031, a notice from the administrator in accordance with paragraph (2)(a) and it has traded in accordance with article 58 or 58A[^key-022701ac9ad0ca9bd6e64eae8bc52e4c] a half VRTS credit acquired under paragraph (1) to which that notice applies, the SPV van manufacturer must forfeit a half VRTS credit to which it becomes entitled under paragraph (1) for each half VRTS credit to which the notice relates.
+(3) Where an SPV van manufacturer receives, before 1st November 2031, a notice from the administrator in accordance with paragraph (2)(a) and it has traded in accordance with article 58 or 58A[^c-022701ac9ad0ca9bd6e64eae8bc52e4c] a half VRTS credit acquired under paragraph (1) to which that notice applies, the SPV van manufacturer must forfeit a half VRTS credit to which it becomes entitled under paragraph (1) for each half VRTS credit to which the notice relates.
 
 (4) The administrator may not give a notice in accordance with paragraph (2)(a) where—
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1e5e8436dff4344b2afe037fdd29706]: Commencement: Art. 54 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
+[^c-e1e5e8436dff4344b2afe037fdd29706]: Commencement: Art. 54 in force at 3.1.2024, see [art. 1(b)](https://www.legislation.gov.uk/uksi/2023/1394/article/1/b)
 
-[^key-022701ac9ad0ca9bd6e64eae8bc52e4c]: Textual amendment: Words in [art. 54(3)](https://www.legislation.gov.uk/uksi/2023/1394/article/54/3) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [22](https://www.legislation.gov.uk/uksi/2025/1101/article/22)
+[^c-022701ac9ad0ca9bd6e64eae8bc52e4c]: Textual amendment: Words in [art. 54(3)](https://www.legislation.gov.uk/uksi/2023/1394/article/54/3) inserted (1.1.2026) by [The Vehicle Emissions Trading Schemes (Amendment) (No. 2) Order 2025 (S.I. 2025/1101)](https://www.legislation.gov.uk/uksi/2025/1101), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2025/1101/article/1/1), [22](https://www.legislation.gov.uk/uksi/2025/1101/article/22)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 56. Conditions on the use, supply and inspection of absent voter records or lists[^key-aa469c7975d70fb64acc9f4c02bb102c]
+## 56. Conditions on the use, supply and inspection of absent voter records or lists[^c-aa469c7975d70fb64acc9f4c02bb102c]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ After regulation 61 insert—
 
 ## Annotations
 
-[^key-aa469c7975d70fb64acc9f4c02bb102c]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2006/2910/regulation/56) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-aa469c7975d70fb64acc9f4c02bb102c]: Commencement: [Reg. 56](https://www.legislation.gov.uk/uksi/2006/2910/regulation/56) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00077]: Footnote: [1998 c. 29](https://www.legislation.gov.uk/ukpga/1998/29).

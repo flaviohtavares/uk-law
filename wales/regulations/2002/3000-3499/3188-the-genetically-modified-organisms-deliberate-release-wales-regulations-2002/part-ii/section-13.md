@@ -40,17 +40,17 @@ and shall immediately send a copy of the publications containing the advertiseme
 
 - (a) the local authority and any community councils for the area or areas of each proposed release,
 - (b) the owner or owners of the site or sites of each proposed release, if a person other than the applicant,
-- (c)[^key-18d34b40e3abd9dc4120f1bd23129b1c] any person, or member of a genetic modification safety committee, from whom advice must be obtained under regulation 8 of the Genetically Modified Organisms (Contained Use) Regulations 2014,
+- (c)[^c-18d34b40e3abd9dc4120f1bd23129b1c] any person, or member of a genetic modification safety committee, from whom advice must be obtained under regulation 8 of the Genetically Modified Organisms (Contained Use) Regulations 2014,
 - (d) the Association of National Park Authorities,
-- (e) the Natural Resources Body for Wales[^key-3f6787174a089c737aeb41879889e7d6],
-- (f)[^key-687c765c9ac4030179ecd6f75067d4bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e) the Natural Resources Body for Wales[^c-3f6787174a089c737aeb41879889e7d6],
+- (f)[^c-687c765c9ac4030179ecd6f75067d4bd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 and shall immediately send to the National Assembly for Wales copies of the notices.
 
 ## Annotations
 
-[^key-18d34b40e3abd9dc4120f1bd23129b1c]: Textual amendment: [Reg. 13(4)(c)](https://www.legislation.gov.uk/wsi/2002/3188/regulation/13/4/c) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [4(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/4/3)
+[^c-18d34b40e3abd9dc4120f1bd23129b1c]: Textual amendment: [Reg. 13(4)(c)](https://www.legislation.gov.uk/wsi/2002/3188/regulation/13/4/c) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [4(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/4/3)
 
-[^key-3f6787174a089c737aeb41879889e7d6]: Textual amendment: Words in reg. 13(4)(e) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 16(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/16/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-3f6787174a089c737aeb41879889e7d6]: Textual amendment: Words in reg. 13(4)(e) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 16(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/16/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-687c765c9ac4030179ecd6f75067d4bd]: Textual amendment: Reg. 13(4)(f) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 16(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/16/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-687c765c9ac4030179ecd6f75067d4bd]: Textual amendment: Reg. 13(4)(f) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 5 para. 16(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/5/paragraph/16/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

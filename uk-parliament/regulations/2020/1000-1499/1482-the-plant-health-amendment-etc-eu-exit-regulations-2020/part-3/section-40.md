@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Annex 5[^key-c9a2da171a3e3fb471f917ff895ab24a]
+## 40. Annex 5[^c-c9a2da171a3e3fb471f917ff895ab24a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Annex 5, in the heading, for “THE UNION TERRITORY” substitute “ GREAT B
 
 ## Annotations
 
-[^key-c9a2da171a3e3fb471f917ff895ab24a]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)
+[^c-c9a2da171a3e3fb471f917ff895ab24a]: Commencement: Reg. 40 in force at 31.12.2020 on IP completion day, see reg. 1(2)(b)

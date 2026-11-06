@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Amendment of Article 7 of Regulation (EU) No 376/2014[^key-90c17395780f906c18fea362f40d741e]
+## 66. Amendment of Article 7 of Regulation (EU) No 376/2014[^c-90c17395780f906c18fea362f40d741e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) In paragraph 3, for “Organisations, Member States and the Agency” substitute “Organisations and the CAA”.
 
-(3)[^key-d3676346a0f2be99d23eabd2017c22c8] In paragraph 4, for “paragraphs 5, 6 and 8” substitute “ paragraphs 5 and 6 ”.
+(3)[^c-d3676346a0f2be99d23eabd2017c22c8] In paragraph 4, for “paragraphs 5, 6 and 8” substitute “ paragraphs 5 and 6 ”.
 
 (4) For paragraph 5 substitute—
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-90c17395780f906c18fea362f40d741e]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-90c17395780f906c18fea362f40d741e]: Commencement: Reg. 66 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d3676346a0f2be99d23eabd2017c22c8]: Textual amendment: Reg. 66(3) substituted (31.12.2020 immediately before exit day) by [The Aviation Safety (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1098)](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2019/1098/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d3676346a0f2be99d23eabd2017c22c8]: Textual amendment: Reg. 66(3) substituted (31.12.2020 immediately before exit day) by [The Aviation Safety (Amendment etc.) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/1098)](https://www.legislation.gov.uk/uksi/2019/1098), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2019/1098/regulation/1/3), [3](https://www.legislation.gov.uk/uksi/2019/1098/regulation/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -33,7 +33,7 @@ ANIMALS, ENGLAND
 
 ANIMAL HEALTH
 
-The Sheep and Goats Identification and Movement (Interim Measures) (England) Order 2002 (revoked)[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+The Sheep and Goats Identification and Movement (Interim Measures) (England) Order 2002 (revoked)[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 Made
 
@@ -43,91 +43,91 @@ Coming into force
 
 11th February 2002
 
-[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent, commencement and cessation[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 1. Title, extent, commencement and cessation[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 2. Interpretation[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Notification of holdings where sheep or goats are kept[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 3. Notification of holdings where sheep or goats are kept[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Sheep records[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 4. Sheep records[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Goat records[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 5. Goat records[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Marks[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 6. Marks[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Applying Origin Mark[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 7. Applying Origin Mark[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Movement from holding of birth[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 8. Movement from holding of birth[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Movements generally[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 9. Movements generally[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Maximum number of marks[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 10. Maximum number of marks[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Marking animals from outside the European Union[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 11. Marking animals from outside the European Union[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Movement documents[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 12. Movement documents[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 13. Removal and replacement of eartags and tattoos[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 13. Removal and replacement of eartags and tattoos[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Additional eartags and tattoos[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 14. Additional eartags and tattoos[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Alteration of eartags and tattoos[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 15. Alteration of eartags and tattoos[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Production of records and documents[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 16. Production of records and documents[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16A. Markets[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 16A. Markets[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Enforcement[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 17. Enforcement[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Revocation of the Sheep and Goats Identification (England) Order 2000[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## 18. Revocation of the Sheep and Goats Identification (England) Order 2000[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — NOTICE OF MOVEMENT FROM MARKET[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]
+## SCHEDULE — NOTICE OF MOVEMENT FROM MARKET[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]
 
 Article 16A
 
@@ -135,8 +135,8 @@ Article 16A
 
 **May not be in force at this date. Check the source.**
 
-[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a3c59f9ea9a2a1aac6cb56534611bfa9]: Textual amendment: Order revoked (6.9.2002) by [The Sheep and Goats Identification and Movement (Interim Measures) (England) (No. 2) Order 2002 (S.I. 2002/2153)](https://www.legislation.gov.uk/uksi/2002/2153), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/2153/article/1/2), [19](https://www.legislation.gov.uk/uksi/2002/2153/article/19)
+[^c-a3c59f9ea9a2a1aac6cb56534611bfa9]: Textual amendment: Order revoked (6.9.2002) by [The Sheep and Goats Identification and Movement (Interim Measures) (England) (No. 2) Order 2002 (S.I. 2002/2153)](https://www.legislation.gov.uk/uksi/2002/2153), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2002/2153/article/1/2), [19](https://www.legislation.gov.uk/uksi/2002/2153/article/19)

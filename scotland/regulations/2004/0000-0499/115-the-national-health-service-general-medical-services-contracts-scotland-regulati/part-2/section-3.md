@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Conditions: general[^key-d40f749a26ac6d00bbf3658dba08f882]
+## 3. Conditions: general[^c-d40f749a26ac6d00bbf3658dba08f882]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Subject to the provisions of any order made by the Scottish Ministers under sect
 
 ## Annotations
 
-[^key-d40f749a26ac6d00bbf3658dba08f882]: Commencement: Reg. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)
+[^c-d40f749a26ac6d00bbf3658dba08f882]: Commencement: Reg. 3 in force at 1.4.2004, see [reg. 1](https://www.legislation.gov.uk/ssi/2004/115/regulation/1)

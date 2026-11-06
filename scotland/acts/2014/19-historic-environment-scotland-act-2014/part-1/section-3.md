@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3. Delegation of functions in relation to properties in care[^key-11fbcb0b60a65c16270b68782e2d261f]
+## 3. Delegation of functions in relation to properties in care[^c-11fbcb0b60a65c16270b68782e2d261f]
 
 *Extent: S*
 
@@ -55,4 +55,4 @@ summary: ''
 
 ## Annotations
 
-[^key-11fbcb0b60a65c16270b68782e2d261f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/19/section/3) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)
+[^c-11fbcb0b60a65c16270b68782e2d261f]: Commencement: [S. 3](https://www.legislation.gov.uk/asp/2014/19/section/3) in force at 1.10.2015 by [S.S.I. 2015/196](https://www.legislation.gov.uk/ssi/2015/196), [art. 2](https://www.legislation.gov.uk/ssi/2015/196/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/196/schedule) (with transitional provisions and savings in S.S.I. 2015/239, arts. 2-19)

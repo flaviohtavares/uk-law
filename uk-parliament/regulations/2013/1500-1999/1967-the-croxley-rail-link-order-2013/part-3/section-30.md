@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 30. Access to Cinnamond House[^key-688151d1426a393b32a56cba6dfcb15f]
+## 30. Access to Cinnamond House[^c-688151d1426a393b32a56cba6dfcb15f]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-688151d1426a393b32a56cba6dfcb15f]: Commencement: Art. 30 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-688151d1426a393b32a56cba6dfcb15f]: Commencement: Art. 30 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

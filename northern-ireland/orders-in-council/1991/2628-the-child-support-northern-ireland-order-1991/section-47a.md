@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 47A. Pilot schemes[^key-8e815d1538050fcf77c5586ac49a264c]
+## 47A. Pilot schemes[^c-8e815d1538050fcf77c5586ac49a264c]
 
 *Extent: N.I.*
 
@@ -34,13 +34,13 @@ summary: ''
 
 (5) A pilot scheme may be replaced by a further pilot scheme making the same or similar provision.
 
-(6)[^key-872415c6ec0da6ccffacd38e0e0d32a0] This Article does not apply to regulations under—
+(6)[^c-872415c6ec0da6ccffacd38e0e0d32a0] This Article does not apply to regulations under—
 
 - (a) paragraph (2A) of Article 22 as substituted by section 10 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000;
 - (b) paragraph (3A) of Article 22 as it has effect apart from section 10 of the Child Support, Pensions and Social Security Act (Northern Ireland) 2000.
 
 ## Annotations
 
-[^key-8e815d1538050fcf77c5586ac49a264c]: Textual amendment: [Art. 47A](https://www.legislation.gov.uk/nisi/1991/2628/article/47A) inserted (3.12.2012) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 32](https://www.legislation.gov.uk/nia/2008/10/section/32), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1); [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/423/article/2/1/b)
+[^c-8e815d1538050fcf77c5586ac49a264c]: Textual amendment: [Art. 47A](https://www.legislation.gov.uk/nisi/1991/2628/article/47A) inserted (3.12.2012) by [Child Maintenance Act (Northern Ireland) 2008 (c. 10)](https://www.legislation.gov.uk/nia/2008/10), [ss. 32](https://www.legislation.gov.uk/nia/2008/10/section/32), [41(1)](https://www.legislation.gov.uk/nia/2008/10/section/41/1); [S.R. 2012/423](https://www.legislation.gov.uk/nisr/2012/423), [art. 2(1)(b)](https://www.legislation.gov.uk/nisr/2012/423/article/2/1/b)
 
-[^key-872415c6ec0da6ccffacd38e0e0d32a0]: Textual amendment: [Art. 47A(6)](https://www.legislation.gov.uk/nisi/1991/2628/article/47A/6) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/4); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)
+[^c-872415c6ec0da6ccffacd38e0e0d32a0]: Textual amendment: [Art. 47A(6)](https://www.legislation.gov.uk/nisi/1991/2628/article/47A/6) inserted (17.3.2016) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/nisi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/nisi/2015/2006/article/2/2), [Sch. 11 para. 4](https://www.legislation.gov.uk/nisi/2015/2006/schedule/11/paragraph/4); [S.R. 2016/166](https://www.legislation.gov.uk/nisr/2016/166), [art. 2(b)](https://www.legislation.gov.uk/nisr/2016/166/article/2/b)

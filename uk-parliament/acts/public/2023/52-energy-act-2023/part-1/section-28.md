@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Monitoring, information gathering etc[^key-e6e3350d34b299107e55b571d4aecfcf]
+## 28. Monitoring, information gathering etc[^c-e6e3350d34b299107e55b571d4aecfcf]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6e3350d34b299107e55b571d4aecfcf]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/52/section/28) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-e6e3350d34b299107e55b571d4aecfcf]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2023/52/section/28) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

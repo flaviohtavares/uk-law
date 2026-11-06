@@ -32,7 +32,7 @@ summary: ''
 
 Caribbean And North Atlantic Territories
 
-The Turks and Caicos Islands Constitution (Interim Amendment) (Amendment) Order 2009 (revoked)[^key-34dc7f048f91a5d49592677f0e9aa080]
+The Turks and Caicos Islands Constitution (Interim Amendment) (Amendment) Order 2009 (revoked)[^c-34dc7f048f91a5d49592677f0e9aa080]
 
 Made
 
@@ -50,33 +50,33 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-34dc7f048f91a5d49592677f0e9aa080]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34dc7f048f91a5d49592677f0e9aa080]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 1. Citation, construction and commencement[^key-34dc7f048f91a5d49592677f0e9aa080]
-
-**Not yet in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 2. Amendment of section 1 of 2009 Order[^key-34dc7f048f91a5d49592677f0e9aa080]
+## 1. Citation, construction and commencement[^c-34dc7f048f91a5d49592677f0e9aa080]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of sections 4, 5 and 6 of 2009 Order[^key-34dc7f048f91a5d49592677f0e9aa080]
+## 2. Amendment of section 1 of 2009 Order[^c-34dc7f048f91a5d49592677f0e9aa080]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Amendment of sections 7 and 8 of 2009 Order[^key-34dc7f048f91a5d49592677f0e9aa080]
+## 3. Amendment of sections 4, 5 and 6 of 2009 Order[^c-34dc7f048f91a5d49592677f0e9aa080]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of section 9 of 2009 Order[^key-34dc7f048f91a5d49592677f0e9aa080]
+## 4. Amendment of sections 7 and 8 of 2009 Order[^c-34dc7f048f91a5d49592677f0e9aa080]
+
+**Not yet in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 5. Amendment of section 9 of 2009 Order[^c-34dc7f048f91a5d49592677f0e9aa080]
 
 **Not yet in force.**
 
@@ -84,12 +84,12 @@ The Queen’s Most Excellent Majesty in Council
 
 **May not be in force at this date. Check the source.**
 
-[^key-34dc7f048f91a5d49592677f0e9aa080]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34dc7f048f91a5d49592677f0e9aa080]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-34dc7f048f91a5d49592677f0e9aa080]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-34dc7f048f91a5d49592677f0e9aa080]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-34dc7f048f91a5d49592677f0e9aa080]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1755) revoked (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Interim Amendment) (Amendment) Order 2010 (S.I. 2010/2966)](https://www.legislation.gov.uk/uksi/2010/2966), [art. 3(1)](https://www.legislation.gov.uk/uksi/2010/2966/article/3/1)
+[^c-34dc7f048f91a5d49592677f0e9aa080]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2009/1755) revoked (coming into force in accordance with art. 1(2) of the amending S.I.) by [The Turks and Caicos Islands Constitution (Interim Amendment) (Amendment) Order 2010 (S.I. 2010/2966)](https://www.legislation.gov.uk/uksi/2010/2966), [art. 3(1)](https://www.legislation.gov.uk/uksi/2010/2966/article/3/1)

@@ -34,7 +34,7 @@ being, in either case, motor vehicles other than goods vehicles which are requir
 (3) As respects a vehicle being—
 
 - (a) a motor vehicle used for the carriage of passengers and with more than 8 seats, excluding the driver's seat; or
-- (b)[^key-a4961c49b86936f20ee7f7db0aa5da9d] a taxi; or
+- (b)[^c-a4961c49b86936f20ee7f7db0aa5da9d] a taxi; or
 - (c) an ambulance, that is to say, a motor vehicle which is constructed or adapted, and primarily used, for the carriage of persons to a place where they will receive, or from a place where they have received, medical or dental treatment, and which, by reason of design, marking or equipment is readily identifiable as a vehicle so constructed or adapted,
 
 paragraph (2)(a) shall have effect as if for the period there mentioned there were substituted a period of one year.
@@ -65,6 +65,6 @@ paragraph (2)(a) shall have effect as if for the period there mentioned there we
 
 [^c17247411]: Textual amendment: [1994 c.22](https://www.legislation.gov.uk/ukpga/1994/22)
 
-[^key-a4961c49b86936f20ee7f7db0aa5da9d]: Textual amendment: [Art. 63(3)(b)](https://www.legislation.gov.uk/nisi/1995/2994/article/63/3/b) substituted (31.5.2016) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/8); [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-a4961c49b86936f20ee7f7db0aa5da9d]: Textual amendment: [Art. 63(3)(b)](https://www.legislation.gov.uk/nisi/1995/2994/article/63/3/b) substituted (31.5.2016) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 2 para. 8](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/8); [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
 [^c17247421]: Textual amendment: [2004 NI 14](https://www.legislation.gov.uk/nisi/2004)

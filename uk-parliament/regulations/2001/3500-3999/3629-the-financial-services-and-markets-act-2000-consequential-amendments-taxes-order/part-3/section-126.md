@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Mis-sold pension contracts—further disapplication of paragraphs 5(4) and 6(5) of Schedule 6 to the Finance Act 1989[^key-e1b3f6a3a6d78fb4a1deae6e1dace92c]
+## 126. Mis-sold pension contracts—further disapplication of paragraphs 5(4) and 6(5) of Schedule 6 to the Finance Act 1989[^c-e1b3f6a3a6d78fb4a1deae6e1dace92c]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e1b3f6a3a6d78fb4a1deae6e1dace92c]: Commencement: Art. 126 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-e1b3f6a3a6d78fb4a1deae6e1dace92c]: Commencement: Art. 126 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00120]: Footnote: Regulation 6 was added by regulation 5 of S.I. [1996/3113](https://www.legislation.gov.uk/uksi/1996/3113).

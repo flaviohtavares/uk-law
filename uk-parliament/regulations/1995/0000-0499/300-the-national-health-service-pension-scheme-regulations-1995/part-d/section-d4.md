@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## D4. Scheme Administration Charge[^key-0353d379379115dc9c18d6e94ecac887]
+## D4. Scheme Administration Charge[^c-0353d379379115dc9c18d6e94ecac887]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0353d379379115dc9c18d6e94ecac887]: Textual amendment: [Reg. D4](https://www.legislation.gov.uk/uksi/1995/300/regulation/D4) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2017/275/regulation/5)
+[^c-0353d379379115dc9c18d6e94ecac887]: Textual amendment: [Reg. D4](https://www.legislation.gov.uk/uksi/1995/300/regulation/D4) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 1(2)(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/1/2/c), [5](https://www.legislation.gov.uk/uksi/2017/275/regulation/5)

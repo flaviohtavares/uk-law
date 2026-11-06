@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 74. Repeal[^key-059bc899e3ae9880e89f252fd38655f0]
+## Article 74. Repeal[^c-059bc899e3ae9880e89f252fd38655f0]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-059bc899e3ae9880e89f252fd38655f0]: Textual amendment: [Art. 74](https://www.legislation.gov.uk/eur/2006/865/article/74) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(71)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/71)
+[^c-059bc899e3ae9880e89f252fd38655f0]: Textual amendment: [Art. 74](https://www.legislation.gov.uk/eur/2006/865/article/74) omitted (31.12.2020) by virtue of [The Environment and Wildlife (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1395)](https://www.legislation.gov.uk/uksi/2020/1395), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/1/2), [8(71)](https://www.legislation.gov.uk/uksi/2020/1395/regulation/8/71)

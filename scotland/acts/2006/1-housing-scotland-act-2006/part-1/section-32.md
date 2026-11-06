@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 32. Revocation of work notice[^key-7ba4c0dda89cad1bfb0d327414300042]
+## 32. Revocation of work notice[^c-7ba4c0dda89cad1bfb0d327414300042]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ba4c0dda89cad1bfb0d327414300042]: Commencement: S. 32 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-7ba4c0dda89cad1bfb0d327414300042]: Commencement: S. 32 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

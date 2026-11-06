@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 47. Taper relief: minor amendments[^key-ee261758d248c72b613e7e0f2a3b1053]
+## 47. Taper relief: minor amendments[^c-ee261758d248c72b613e7e0f2a3b1053]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee261758d248c72b613e7e0f2a3b1053]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/2002/23/section/47) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(e)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/e/i)
+[^c-ee261758d248c72b613e7e0f2a3b1053]: Textual amendment: [S. 47](https://www.legislation.gov.uk/ukpga/2002/23/section/47) omitted (with effect in accordance with Sch. 2 para. 56(3) of the amending Act) by virtue of [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 2 para. 55(e)(i)](https://www.legislation.gov.uk/ukpga/2008/9/schedule/2/paragraph/55/e/i)

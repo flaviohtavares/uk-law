@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Referral of medical questions for purpose of early payment of a full retirement pension on grounds of permanent medical unfitness[^key-9435bc165d1d042bce63edf1cd0000fb]
+## 76. Referral of medical questions for purpose of early payment of a full retirement pension on grounds of permanent medical unfitness[^c-9435bc165d1d042bce63edf1cd0000fb]
 
 *Extent: S*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9435bc165d1d042bce63edf1cd0000fb]: Commencement: Reg. 76 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-9435bc165d1d042bce63edf1cd0000fb]: Commencement: Reg. 76 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
 
 [^f00044]: Footnote: See regulation 81(3) for entitlement to early payment of a full retirement pension on grounds of permanent medical unfitness.

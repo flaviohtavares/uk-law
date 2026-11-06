@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 42. Transfer to High Court by order of the county court .[^c15968941][^key-971a4049e38f94ce52ff72aa04702e6d]
+## 42. Transfer to High Court by order of the county court .[^c15968941][^c-971a4049e38f94ce52ff72aa04702e6d]
 
 *Extent: E+W*
 
@@ -46,14 +46,14 @@ summary: ''
 - (a) under section 1 of the Courts and Legal Services Act 1990; or
 - (b) by or under any other enactment.
 
-(8)[^key-519e5a4bda2ab7184799eb5efdc45d92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-519e5a4bda2ab7184799eb5efdc45d92] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c15968941]: Textual amendment: S. 42 substituted (1.7.1991) by [Courts and Legal Services Act 1990 (c. 41, SIF 37)](https://www.legislation.gov.uk/ukpga/1990/41), [s. 2(3)](https://www.legislation.gov.uk/ukpga/1990/41/section/2/3); [S.I. 1991/1364](https://www.legislation.gov.uk/uksi/1991/1364), [art. 2](https://www.legislation.gov.uk/uksi/1991/1364/article/2),Sch.
 
-[^key-971a4049e38f94ce52ff72aa04702e6d]: Textual amendment: Words in [ss. 36-147](https://www.legislation.gov.uk/ukpga/1984/28/section/36) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/10/1/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
+[^c-971a4049e38f94ce52ff72aa04702e6d]: Textual amendment: Words in [ss. 36-147](https://www.legislation.gov.uk/ukpga/1984/28/section/36) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 10(1)(b)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/10/1/b); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3) and with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), [arts. 3-11](https://www.legislation.gov.uk/uksi/2014/956/article/3))
 
 [^c4403761]: Modification: S. 42(2) restricted by [S.I. 1991/724](https://www.legislation.gov.uk/uksi/1991/724), [art. 7(5)](https://www.legislation.gov.uk/uksi/1991/724/article/7/5)
 
-[^key-519e5a4bda2ab7184799eb5efdc45d92]: Textual amendment: S. 42(8) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 67](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/67); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-519e5a4bda2ab7184799eb5efdc45d92]: Textual amendment: S. 42(8) omitted (22.4.2014) by virtue of [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 10 para. 67](https://www.legislation.gov.uk/ukpga/2013/22/schedule/10/paragraph/67); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/954/article/2/d) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

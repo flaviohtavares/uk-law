@@ -22,7 +22,7 @@ summary: ''
 
 (1) It shall be the general duty of the Authority to manage the Broads for the purposes of—
 
-- (a)[^key-48163475a33efa07cd030b81401c3f82] conserving and enhancing the natural beauty, wildlife and cultural heritage of the Broads;
+- (a)[^c-48163475a33efa07cd030b81401c3f82] conserving and enhancing the natural beauty, wildlife and cultural heritage of the Broads;
 - (b) promoting opportunities for the understanding and enjoyment of the special qualities of the Broads by the public; and
 - (c) protecting the interests of navigation.
 
@@ -53,4 +53,4 @@ the area coloured pink on the deposited map.
 
 ## Annotations
 
-[^key-48163475a33efa07cd030b81401c3f82]: Textual amendment: S. 2(1)(a) (b) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16) , [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2006/16/section/64/2) , [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b) (with [s. 64(4)](https://www.legislation.gov.uk/ukpga/2006/16/section/64/4) ); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541) , [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule) )
+[^c-48163475a33efa07cd030b81401c3f82]: Textual amendment: S. 2(1)(a) (b) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16) , [ss. 64(2)](https://www.legislation.gov.uk/ukpga/2006/16/section/64/2) , [107(3)(b)](https://www.legislation.gov.uk/ukpga/2006/16/section/107/3/b) (with [s. 64(4)](https://www.legislation.gov.uk/ukpga/2006/16/section/64/4) ); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541) , [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule) )

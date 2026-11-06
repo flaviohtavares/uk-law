@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. Certification of plans etc.[^key-fa4f2eb9bd8f63dfb03f4fc4363edfe7]
+## 38. Certification of plans etc.[^c-fa4f2eb9bd8f63dfb03f4fc4363edfe7]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ for certification that they are true copies of the documents referred to in this
 
 ## Annotations
 
-[^key-fa4f2eb9bd8f63dfb03f4fc4363edfe7]: Commencement: Art. 38 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-fa4f2eb9bd8f63dfb03f4fc4363edfe7]: Commencement: Art. 38 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

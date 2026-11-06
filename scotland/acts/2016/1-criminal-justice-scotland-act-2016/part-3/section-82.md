@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 82. Preliminary hearings[^key-802262684391255cb40b9d29b7a6e317]
+## 82. Preliminary hearings[^c-802262684391255cb40b9d29b7a6e317]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In section 72A (preliminary hearing: appointment of trial diet) of the 1995 Actâ
 
 ## Annotations
 
-[^key-802262684391255cb40b9d29b7a6e317]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2016/1/section/82) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-802262684391255cb40b9d29b7a6e317]: Commencement: [S. 82](https://www.legislation.gov.uk/asp/2016/1/section/82) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

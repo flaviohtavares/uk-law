@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. “Old state pension”[^key-204aece8e6d4f3b6c311b5faf53206dd][^key-28adc1c33adce7c792d69b9f455dd302][^key-054ee355cc3c6dca6a3ec6b4f64ca0e1][^key-ae38f67954c3f6ff1706e6bbd7a77ae5][^key-d27bd5c4ba8ea51378555b444598092a][^key-28adc1c33adce7c792d69b9f455dd302][^key-054ee355cc3c6dca6a3ec6b4f64ca0e1][^key-ae38f67954c3f6ff1706e6bbd7a77ae5][^key-d27bd5c4ba8ea51378555b444598092a]
+## 21. “Old state pension”[^c-204aece8e6d4f3b6c311b5faf53206dd][^c-28adc1c33adce7c792d69b9f455dd302][^c-054ee355cc3c6dca6a3ec6b4f64ca0e1][^c-ae38f67954c3f6ff1706e6bbd7a77ae5][^c-d27bd5c4ba8ea51378555b444598092a][^c-28adc1c33adce7c792d69b9f455dd302][^c-054ee355cc3c6dca6a3ec6b4f64ca0e1][^c-ae38f67954c3f6ff1706e6bbd7a77ae5][^c-d27bd5c4ba8ea51378555b444598092a]
 
 *Extent: E+W+S*
 
@@ -29,12 +29,12 @@ summary: ''
 
 ## Annotations
 
-[^key-204aece8e6d4f3b6c311b5faf53206dd]: Commencement: S. 21 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-204aece8e6d4f3b6c311b5faf53206dd]: Commencement: S. 21 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
 
-[^key-28adc1c33adce7c792d69b9f455dd302]: Modification: Pt. 1 modified (6.4.2016) by [The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 2016 (S.I. 2016/287)](https://www.legislation.gov.uk/uksi/2016/287), [regs. 1](https://www.legislation.gov.uk/uksi/2016/287/regulation/1), [2(2)(h)](https://www.legislation.gov.uk/uksi/2016/287/regulation/2/2/h), [Sch.](https://www.legislation.gov.uk/uksi/2016/287/schedule)
+[^c-28adc1c33adce7c792d69b9f455dd302]: Modification: Pt. 1 modified (6.4.2016) by [The Social Security (Northern Ireland Reciprocal Arrangements) Regulations 2016 (S.I. 2016/287)](https://www.legislation.gov.uk/uksi/2016/287), [regs. 1](https://www.legislation.gov.uk/uksi/2016/287/regulation/1), [2(2)(h)](https://www.legislation.gov.uk/uksi/2016/287/regulation/2/2/h), [Sch.](https://www.legislation.gov.uk/uksi/2016/287/schedule)
 
-[^key-054ee355cc3c6dca6a3ec6b4f64ca0e1]: Modification: Pt. 1 excluded by S.I. 2007/1398, reg. 8(3) as amended (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [30(4)(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/30/4/a)
+[^c-054ee355cc3c6dca6a3ec6b4f64ca0e1]: Modification: Pt. 1 excluded by S.I. 2007/1398, reg. 8(3) as amended (6.4.2016 coming into force in accordance with art. 1(2)(b)) by [The Pensions Act 2014 (Consequential, Supplementary and Incidental Amendments) Order 2015 (S.I. 2015/1985)](https://www.legislation.gov.uk/uksi/2015/1985), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2015/1985/article/1/2/b), [30(4)(a)](https://www.legislation.gov.uk/uksi/2015/1985/article/30/4/a)
 
-[^key-ae38f67954c3f6ff1706e6bbd7a77ae5]: Modification: Pt. 1 modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [arts. 1](https://www.legislation.gov.uk/uksi/2016/158/article/1), [2](https://www.legislation.gov.uk/uksi/2016/158/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
+[^c-ae38f67954c3f6ff1706e6bbd7a77ae5]: Modification: Pt. 1 modified (6.4.2016) by [The Social Security (Reciprocal Agreements) Order 2016 (S.I. 2016/158)](https://www.legislation.gov.uk/uksi/2016/158), [arts. 1](https://www.legislation.gov.uk/uksi/2016/158/article/1), [2](https://www.legislation.gov.uk/uksi/2016/158/article/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2016/158/schedule/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/158/schedule/2)
 
-[^key-d27bd5c4ba8ea51378555b444598092a]: Modification: Pt. 1 modified (6.4.2016) by [The Social Security (Reciprocal Agreement) (Isle of Man) Order 2016 (S.I. 2016/157)](https://www.legislation.gov.uk/uksi/2016/157), [arts. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1), [2](https://www.legislation.gov.uk/uksi/2016/157/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/157/schedule)
+[^c-d27bd5c4ba8ea51378555b444598092a]: Modification: Pt. 1 modified (6.4.2016) by [The Social Security (Reciprocal Agreement) (Isle of Man) Order 2016 (S.I. 2016/157)](https://www.legislation.gov.uk/uksi/2016/157), [arts. 1](https://www.legislation.gov.uk/uksi/2016/157/article/1), [2](https://www.legislation.gov.uk/uksi/2016/157/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2016/157/schedule)

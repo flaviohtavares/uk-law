@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 261. Suspension under section 259 or 260: supplemental[^key-8d42f0887c3a7f4bd940e52c3b0ac2f8]
+## 261. Suspension under section 259 or 260: supplemental[^c-8d42f0887c3a7f4bd940e52c3b0ac2f8]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8d42f0887c3a7f4bd940e52c3b0ac2f8]: Commencement: S. 261 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-8d42f0887c3a7f4bd940e52c3b0ac2f8]: Commencement: S. 261 in force at 1.4.2010 by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 203. Notification and publication of transitional directions[^key-1a890df8d523b917d7124b1f2009952a]
+## 203. Notification and publication of transitional directions[^c-1a890df8d523b917d7124b1f2009952a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1a890df8d523b917d7124b1f2009952a]: Commencement: Reg. 203 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
+[^c-1a890df8d523b917d7124b1f2009952a]: Commencement: Reg. 203 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
 
 [^c23661191]: Marginal citation: [Section 139A](https://www.legislation.gov.uk/uksi/2019/632/section/139A) was inserted by section 24 of the Financial Services Act 2012.

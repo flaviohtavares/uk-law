@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 50A. Extra-territorial offences: defence for intelligence services and armed forces[^key-e8373b87f7497b67dead46ae8f56847a]
+## 50A. Extra-territorial offences: defence for intelligence services and armed forces[^c-e8373b87f7497b67dead46ae8f56847a]
 
 *Extent: E+W+N.I.*
 
@@ -56,4 +56,4 @@ to which a provision of Schedule 4 applies are necessary for the proper exercise
 
 ## Annotations
 
-[^key-e8373b87f7497b67dead46ae8f56847a]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/ukpga/2007/27/section/50A) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2023/32/section/30/2), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)
+[^c-e8373b87f7497b67dead46ae8f56847a]: Textual amendment: [S. 50A](https://www.legislation.gov.uk/ukpga/2007/27/section/50A) inserted (20.12.2023) by [National Security Act 2023 (c. 32)](https://www.legislation.gov.uk/ukpga/2023/32), [ss. 30(2)](https://www.legislation.gov.uk/ukpga/2023/32/section/30/2), [100(1)](https://www.legislation.gov.uk/ukpga/2023/32/section/100/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2023/32/section/97)); [S.I. 2023/1272](https://www.legislation.gov.uk/uksi/2023/1272), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1272/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10A. Appointment of skilled person to assist public service pension scheme[^key-6c12e9c024ce039757ca1b74cef439e5]
+## 10A. Appointment of skilled person to assist public service pension scheme[^c-6c12e9c024ce039757ca1b74cef439e5]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c12e9c024ce039757ca1b74cef439e5]: Textual amendment: Art. 10A inserted (1.4.2015) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/4); [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))
+[^c-6c12e9c024ce039757ca1b74cef439e5]: Textual amendment: Art. 10A inserted (1.4.2015) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 4 para. 4](https://www.legislation.gov.uk/nia/2014/2/schedule/4/paragraph/4); [S.R. 2015/3](https://www.legislation.gov.uk/nisr/2015/3), [art. 4(1)(b)](https://www.legislation.gov.uk/nisr/2015/3/article/4/1/b) (with [art. 4(2)](https://www.legislation.gov.uk/nisr/2015/3/article/4/2))

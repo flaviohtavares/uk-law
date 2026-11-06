@@ -48,13 +48,13 @@ The Secretary of State, being a Minister designated[^f00001] for the purposes of
 
 This instrument contains regulations made before the end of the period of six months beginning with the coming into force of section 90(2)(k) of the Pensions Act 2004 by virtue of which they are made[^f00004].
 
-## 1. Citation, commencement and interpretation[^key-72b7ae190f5e5a5a3d98307294991239]
+## 1. Citation, commencement and interpretation[^c-72b7ae190f5e5a5a3d98307294991239]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Internal Controls) Regulations 2005 and shall come into force on 30th December 2005.
 
 (2) In these Regulations “the Act” means the Pensions Act 2004.
 
-## 2. Amendment of the Act[^key-9167b0de99d6684a8e677a3504425d03]
+## 2. Amendment of the Act[^c-9167b0de99d6684a8e677a3504425d03]
 
 After section 249 of the Act (requirement for knowledge and understanding: supplementary) insert—
 
@@ -102,7 +102,7 @@ After section 249 of the Act (requirement for knowledge and understanding: suppl
 
 .
 
-## 3. Codes of Practice[^key-e54d937d7337900a70f05d8290230d48]
+## 3. Codes of Practice[^c-e54d937d7337900a70f05d8290230d48]
 
 The discharge of the duty imposed by section 249A(1) of the Act is a prescribed matter for the purposes of section 90(2)(k) of that Act (codes of practice).
 
@@ -140,8 +140,8 @@ An assessment of the impact of these Regulations on business, charities and the 
 
 [^f00004]: Footnote: *See* section 317(1) of the Pensions Act 2004 which provides that the Secretary of State must consult such persons as he considers appropriate before making regulations by virtue of the provisions of that Act (other than Part 8). Section 317(2)(c) of that Act provides an exemption to the consultation requirement where the regulations are made before the end of the period of six months beginning with the coming into force of the provision of that Act by virtue of which they are made.
 
-[^key-72b7ae190f5e5a5a3d98307294991239]: Commencement: Reg. 1 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3379/regulation/1/1)
+[^c-72b7ae190f5e5a5a3d98307294991239]: Commencement: Reg. 1 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3379/regulation/1/1)
 
-[^key-9167b0de99d6684a8e677a3504425d03]: Commencement: Reg. 2 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3379/regulation/1/1)
+[^c-9167b0de99d6684a8e677a3504425d03]: Commencement: Reg. 2 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3379/regulation/1/1)
 
-[^key-e54d937d7337900a70f05d8290230d48]: Commencement: Reg. 3 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3379/regulation/1/1)
+[^c-e54d937d7337900a70f05d8290230d48]: Commencement: Reg. 3 in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/3379/regulation/1/1)

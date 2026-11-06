@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.3. Requirements as to service[^key-05eaf895e3931f399dbea3e712cebfc6]
+## 6.3. Requirements as to service[^c-05eaf895e3931f399dbea3e712cebfc6]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ the demand may be advertised in one or more newspapers; and the time limited for
 
 ## Annotations
 
-[^key-05eaf895e3931f399dbea3e712cebfc6]: Commencement: [Rule 6.3](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.3) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-05eaf895e3931f399dbea3e712cebfc6]: Commencement: [Rule 6.3](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.3) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

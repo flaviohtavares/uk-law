@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## J4. Amount of transfer value etc.[^key-a1cec9e930fc827f4c6a65d2c9be38ae]
+## J4. Amount of transfer value etc.[^c-a1cec9e930fc827f4c6a65d2c9be38ae]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a1cec9e930fc827f4c6a65d2c9be38ae]: Commencement: [Reg. J4](https://www.legislation.gov.uk/uksi/1986/24/regulation/J4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)
+[^c-a1cec9e930fc827f4c6a65d2c9be38ae]: Commencement: [Reg. J4](https://www.legislation.gov.uk/uksi/1986/24/regulation/J4) in force at 1.3.1986, see [reg. A1](https://www.legislation.gov.uk/uksi/1986/24/regulation/A1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 172A. Repayment charge: appeals to the sheriff[^key-836917e57dc825e0833e77327a359f2b]
+## 172A. Repayment charge: appeals to the sheriff[^c-836917e57dc825e0833e77327a359f2b]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-836917e57dc825e0833e77327a359f2b]: Textual amendment: [S. 172A](https://www.legislation.gov.uk/asp/2006/1/section/172A) inserted (1.4.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 91(2)](https://www.legislation.gov.uk/asp/2014/14/section/91/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2](https://www.legislation.gov.uk/ssi/2015/122/article/2)
+[^c-836917e57dc825e0833e77327a359f2b]: Textual amendment: [S. 172A](https://www.legislation.gov.uk/asp/2006/1/section/172A) inserted (1.4.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 91(2)](https://www.legislation.gov.uk/asp/2014/14/section/91/2), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2](https://www.legislation.gov.uk/ssi/2015/122/article/2)

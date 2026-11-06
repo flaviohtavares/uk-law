@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Schedule 6B — Control or influence of a person by a foreign power[^key-b411ff2ac972e6b34fa6f85306c0463e]
+## Schedule 6B — Control or influence of a person by a foreign power[^c-b411ff2ac972e6b34fa6f85306c0463e]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ This Part applies where a foreign power would (apart from this Part of this Sche
 
 #### 2B. State owned investors
 
-(1)[^key-a856e55523162d946bfabaa8057aec06] A foreign power (“the main foreign power”) is not able to control or influence the policy of a newspaper owner by virtue of the shares condition or the voting rights condition where—
+(1)[^c-a856e55523162d946bfabaa8057aec06] A foreign power (“the main foreign power”) is not able to control or influence the policy of a newspaper owner by virtue of the shares condition or the voting rights condition where—
 
 - (a) all of the shares or voting rights that the main foreign power holds in the newspaper owner are held by the foreign power, indirectly, via a state owned investor acting on behalf of the foreign power,
 - (b) where the state owned investor holds, directly, more than 5% but no more than 15% of the shares or voting rights in the newspaper owner, the condition in sub-paragraph (1A) is met, and
@@ -80,7 +80,7 @@ This Part applies where a foreign power would (apart from this Part of this Sche
 
 (1D) For the purposes of sub-paragraph (1)(c), holdings of a state owned investor acting on behalf of a foreign power of a country or territory other than the country or territory of the main foreign power are to be ignored where they comprise no more than 5% of the shares or voting rights in a quoted company within the meaning given by section 385(2) of the Companies Act 2006.
 
-(2)[^key-e8e353447363bfff996b5a46432f6fd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e8e353447363bfff996b5a46432f6fd4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 2C.
 
@@ -266,12 +266,12 @@ Rights attached to shares held by way of security provided by a person are to be
 
 ## Annotations
 
-[^key-b411ff2ac972e6b34fa6f85306c0463e]: Textual amendment: Sch. 6B inserted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/3) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
+[^c-b411ff2ac972e6b34fa6f85306c0463e]: Textual amendment: Sch. 6B inserted (24.5.2024) by [Digital Markets, Competition and Consumers Act 2024 (c. 13)](https://www.legislation.gov.uk/ukpga/2024/13), [s. 339(2)(a)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/2/a), [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2024/13/schedule/7/paragraph/3) (with [s. 130(2)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/2)[(3)](https://www.legislation.gov.uk/ukpga/2024/13/section/130/3))
 
 [^M_F_c47e8993-394c-43ca-82b8-d2cb569cfe37]: Textual amendment: Sch. 6B para. 1(7) inserted (retrospective to 13.3.2024) by [The Enterprise Act 2002 (Mergers Involving Newspaper Enterprises and Foreign Powers) Regulations 2025 (S.I. 2025/922)](https://www.legislation.gov.uk/uksi/2025/922), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/922/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2025/922/regulation/2/3)
 
 [^M_F_f7f66532-dabe-4eb3-e36d-757fc6cc7abc]: Textual amendment: Sch. 6B Pt. 1A inserted (retrospective to 13.3.2024) by [The Enterprise Act 2002 (Mergers Involving Newspaper Enterprises and Foreign Powers) Regulations 2025 (S.I. 2025/922)](https://www.legislation.gov.uk/uksi/2025/922), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2025/922/regulation/1/3), [2(3)](https://www.legislation.gov.uk/uksi/2025/922/regulation/2/3)
 
-[^key-a856e55523162d946bfabaa8057aec06]: Textual amendment: [Sch. 6B para. 2B(1)-(1D)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6B/paragraph/2B/1) substituted for [Sch. 6B](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6B) [para. 2B(1)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6B/paragraph/2B/1) (31.1.2026 retrospective to 13.3.2024) by [The Enterprise Act 2002 (Mergers Involving Newspaper Enterprises and Foreign Powers) (No. 2) Regulations 2025 (S.I. 2025/1351)](https://www.legislation.gov.uk/uksi/2025/1351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1351/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1351/regulation/2/2), [3(1)](https://www.legislation.gov.uk/uksi/2025/1351/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2025/1351/regulation/3/2))
+[^c-a856e55523162d946bfabaa8057aec06]: Textual amendment: [Sch. 6B para. 2B(1)-(1D)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6B/paragraph/2B/1) substituted for [Sch. 6B](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6B) [para. 2B(1)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6B/paragraph/2B/1) (31.1.2026 retrospective to 13.3.2024) by [The Enterprise Act 2002 (Mergers Involving Newspaper Enterprises and Foreign Powers) (No. 2) Regulations 2025 (S.I. 2025/1351)](https://www.legislation.gov.uk/uksi/2025/1351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1351/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2025/1351/regulation/2/2), [3(1)](https://www.legislation.gov.uk/uksi/2025/1351/regulation/3/1) (with [reg. 3(2)](https://www.legislation.gov.uk/uksi/2025/1351/regulation/3/2))
 
-[^key-e8e353447363bfff996b5a46432f6fd4]: Textual amendment: [Sch. 6B para. 2B(2)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6B/paragraph/2B/2) omitted (31.1.2026) by virtue of [The Enterprise Act 2002 (Mergers Involving Newspaper Enterprises and Foreign Powers) (No. 2) Regulations 2025 (S.I. 2025/1351)](https://www.legislation.gov.uk/uksi/2025/1351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1351/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1351/regulation/2/3)
+[^c-e8e353447363bfff996b5a46432f6fd4]: Textual amendment: [Sch. 6B para. 2B(2)](https://www.legislation.gov.uk/ukpga/2002/40/schedule/6B/paragraph/2B/2) omitted (31.1.2026) by virtue of [The Enterprise Act 2002 (Mergers Involving Newspaper Enterprises and Foreign Powers) (No. 2) Regulations 2025 (S.I. 2025/1351)](https://www.legislation.gov.uk/uksi/2025/1351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1351/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2025/1351/regulation/2/3)

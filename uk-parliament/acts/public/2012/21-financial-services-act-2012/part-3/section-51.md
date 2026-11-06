@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Further provision that may be included in orders under section 50[^key-8c4397c81672724024fdb2e2c1870596]
+## 51. Further provision that may be included in orders under section 50[^c-8c4397c81672724024fdb2e2c1870596]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8c4397c81672724024fdb2e2c1870596]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2012/21/section/51) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)
+[^c-8c4397c81672724024fdb2e2c1870596]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2012/21/section/51) in force at 24.1.2013 by [S.I. 2013/113](https://www.legislation.gov.uk/uksi/2013/113), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2013/113/article/2/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2013/113/schedule/part/1)

@@ -50,25 +50,25 @@ The Scottish Ministers make the following Regulations in exercise of powers conf
 
 ## PART 1 — General
 
-### 1. Title, commencement and extent[^key-4cc33e575a1b20017ecef9cbb020a3fd]
+### 1. Title, commencement and extent[^c-4cc33e575a1b20017ecef9cbb020a3fd]
 
 (1) These Regulations may be cited as the Official Controls (Agriculture etc.) (Scotland) Regulations 2019 and come into force on 14 December 2019.
 
 (2) These Regulations extend to Scotland only.
 
-### 2. Interpretation[^key-6206009619590a158caf8dc36b62cebb]
+### 2. Interpretation[^c-6206009619590a158caf8dc36b62cebb]
 
 (1) In these Regulations—
 
 - “**audit**” means an audit of a competent or designated authority for the purposes of Article 6 in relation to any relevant legislation;
 - “**auditor**” means a person carrying out an audit on behalf of a competent authority;
 - “**designated authority**” means an authority designated under regulation 3;
-- “**enforcement officer**” means an officer authorised to enforce the Official Controls Regulation[^key-0d7cfb0db0ad4b4423dba327915a3b21] and these Regulations by a competent or designated authority;
+- “**enforcement officer**” means an officer authorised to enforce the Official Controls Regulation[^c-0d7cfb0db0ad4b4423dba327915a3b21] and these Regulations by a competent or designated authority;
 - “**inspector**” in relation to any relevant legislation, means an inspector, veterinary inspector, or other officer authorised by a competent or designated authority to act in Scotland under that legislation;
 - “**official controls**” has the meaning given by Article 2(1);
 - “**other official activities**” has the meaning given by Article 2(2);
 - “**premises**” includes any means of transport;
-- “**relevant legislation**” means [^key-d09709642aea703a113a561409acc279]... legislation relating to the areas specified in sub-paragraphs (b), (d), (e) and (f) of Article 1(2);
+- “**relevant legislation**” means [^c-d09709642aea703a113a561409acc279]... legislation relating to the areas specified in sub-paragraphs (b), (d), (e) and (f) of Article 1(2);
 - “**the Official Controls Regulation**” means Regulation (EU) 2017/625 of the European Parliament and of the Council of 15 March 2017 on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products [^c23942091], and where the context requires it includes a reference to measures in implementing and delegated regulations made under the Official Controls Regulation;
 - “**Feed and Food Regulations**” means the Official Feed and Food Controls (Scotland) Regulations 2009 [^c23942101].
 
@@ -76,7 +76,7 @@ The Scottish Ministers make the following Regulations in exercise of powers conf
 
 (3) Unless the context otherwise requires, any reference in these Regulations to an “Article” or “Title” are to an Article or Title of the Official Controls Regulation.
 
-### 3. Designations of competent and designated authorities[^key-7bff9d0bb4e605db291aeb5e8415dac4]
+### 3. Designations of competent and designated authorities[^c-7bff9d0bb4e605db291aeb5e8415dac4]
 
 (1) The competent authority in respect of the relevant legislation is for the purposes of Article 4—
 
@@ -99,15 +99,15 @@ The Scottish Ministers make the following Regulations in exercise of powers conf
 - (a) “food authority” has in relation to any relevant legislation the same meaning as it has in that legislation, and includes a food authority that is an enforcement authority for the purposes of that legislation; and
 - (b) “local authority” has in relation to any relevant legislation the same meaning as it has in that legislation.
 
-### 4. Disclosure of information[^key-c3063958ff4371fc6b48358793bd83ab]
+### 4. Disclosure of information[^c-c3063958ff4371fc6b48358793bd83ab]
 
-The Scottish Ministers or any other designated authority may disclose information to each other and to other competent authorities [^key-d4465f2a66452097f5bff753561cc86a]... for the purposes of applying these Regulations and the Official Controls Regulation[^key-6e3e9c436e325f9a770cddc59941203c].
+The Scottish Ministers or any other designated authority may disclose information to each other and to other competent authorities [^c-d4465f2a66452097f5bff753561cc86a]... for the purposes of applying these Regulations and the Official Controls Regulation[^c-6e3e9c436e325f9a770cddc59941203c].
 
 ## PART 2 — Audits and official controls
 
-### 5. Powers of auditors[^key-a5382d1828a1e465a7ac757c4b0b427f]
+### 5. Powers of auditors[^c-a5382d1828a1e465a7ac757c4b0b427f]
 
-(1) An auditor may exercise the powers in this regulation and carry out an audit in accordance with the Official Controls Regulation[^key-98a0dddbc0f5fc5655bba172b2995c66] if so authorised—
+(1) An auditor may exercise the powers in this regulation and carry out an audit in accordance with the Official Controls Regulation[^c-98a0dddbc0f5fc5655bba172b2995c66] if so authorised—
 
 - (a) in relation to carrying out an audit of the activities of a designated authority, by the designated authority; or
 - (b) in relation to carrying out an audit pursuant to regulation 6(2), by the Scottish Ministers.
@@ -124,7 +124,7 @@ The Scottish Ministers or any other designated authority may disclose informatio
 
 (7) This regulation does not apply where an auditor undertakes an audit in accordance with regulation 7.
 
-### 6. Powers of the Scottish Ministers in relation to audits of designated authorities[^key-afbf4aa5cd0554ec473359a871e4b17d]
+### 6. Powers of the Scottish Ministers in relation to audits of designated authorities[^c-afbf4aa5cd0554ec473359a871e4b17d]
 
 (1) The Scottish Ministers may require a designated authority to provide them with such information by a specified date about any audits it has carried out or undergone or which it plans to carry out or undergo.
 
@@ -132,9 +132,9 @@ The Scottish Ministers or any other designated authority may disclose informatio
 
 (3) The designated authority must provide such assistance to that auditor as may reasonably be required in order for the auditor to carry out the audit effectively.
 
-### 7. Powers of Food Standards Scotland undertaking audits on behalf of the Scottish Ministers[^key-feb6e2762761fa2c9647de0ca2111d07]
+### 7. Powers of Food Standards Scotland undertaking audits on behalf of the Scottish Ministers[^c-feb6e2762761fa2c9647de0ca2111d07]
 
-(1) The Scottish Ministers may require Food Standards Scotland to carry out an audit of a competent or designated authority for the purposes of the Official Controls Regulation[^key-d669da836bf5fa5430b043060e6be8ea].
+(1) The Scottish Ministers may require Food Standards Scotland to carry out an audit of a competent or designated authority for the purposes of the Official Controls Regulation[^c-d669da836bf5fa5430b043060e6be8ea].
 
 (2) The audit provisions of the Feed and Food Regulations apply, for the purposes of such an audit, as if—
 
@@ -150,23 +150,23 @@ The Scottish Ministers or any other designated authority may disclose informatio
 
 ## PART 3 — Assistance and co-operation under Title IV and recovery of expenses
 
-### 8. Duties of designated authorities[^key-ee353a1b4543110dd6c71bc790a9065a]
+### 8. Duties of designated authorities[^c-ee353a1b4543110dd6c71bc790a9065a]
 
 A designated authority must without delay notify the Scottish Ministers or Food Standards Scotland (as appropriate) if it considers that it is unable to undertake action required in any individual case under Title IV (administrative assistance and cooperation), and must provide such information to the Scottish Ministers or Food Standards Scotland as they may reasonably request.
 
-### 9. Facilitating assistance and co-operation[^key-2a62f61e6dab8a84e44594b915eb59ab]
+### 9. Facilitating assistance and co-operation[^c-2a62f61e6dab8a84e44594b915eb59ab]
 
-(1) For the purposes of assisting a competent authority [^key-daba100854e11f21cdef0acb7b54a135]... as provided for in Article 104, or enabling a competent or designated authority to do so, an inspector may on entering premises or when inspecting records—
+(1) For the purposes of assisting a competent authority [^c-daba100854e11f21cdef0acb7b54a135]... as provided for in Article 104, or enabling a competent or designated authority to do so, an inspector may on entering premises or when inspecting records—
 
-- (a) be accompanied by an authorised officer of a competent authority [^key-daba100854e11f21cdef0acb7b54a135]...;
+- (a) be accompanied by an authorised officer of a competent authority [^c-daba100854e11f21cdef0acb7b54a135]...;
 - (b) show records to such an officer; and
 - (c) make, or require the making of, copies of records for such an officer.
 
-(2)[^key-ea936120835885835265858a99f98442] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-ea936120835885835265858a99f98442] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3) An enforcement officer may require any person to provide them with such assistance, information or facilities as they may reasonably require for the purposes of the execution or enforcement of these Regulations or the Official Controls Regulation[^key-4e21232c471381e0f0f1d92c8344201a].
+(3) An enforcement officer may require any person to provide them with such assistance, information or facilities as they may reasonably require for the purposes of the execution or enforcement of these Regulations or the Official Controls Regulation[^c-4e21232c471381e0f0f1d92c8344201a].
 
-### 10. Recovery of expenses[^key-4a72c0cbe16b2797879a0b51473e0d9c]
+### 10. Recovery of expenses[^c-4a72c0cbe16b2797879a0b51473e0d9c]
 
 (1) Any expenses incurred by a competent authority or a designated authority in carrying out enforcement activities under these Regulations, or measures under Articles 66, 67, 69 or 138, may be recovered from the relevant operator, and such expenses must be paid on written demand.
 
@@ -177,13 +177,13 @@ A designated authority must without delay notify the Scottish Ministers or Food 
 
 ## PART 4 — Enforcement and penalties
 
-### 11. Enforcement and prosecution[^key-1060e0cc8ea6c1896565bdf3a83b6571]
+### 11. Enforcement and prosecution[^c-1060e0cc8ea6c1896565bdf3a83b6571]
 
-(1) Enforcement of the Official Controls Regulation[^key-752fbb7ef23d93a9dbe0088f96da109c] and these Regulations is the responsibility of the competent authority or a designated authority.
+(1) Enforcement of the Official Controls Regulation[^c-752fbb7ef23d93a9dbe0088f96da109c] and these Regulations is the responsibility of the competent authority or a designated authority.
 
 (2) The Scottish Ministers may direct, in relation to a particular case or cases of a particular description, that these Regulations or the Official Controls Regulation are to be enforced by the Scottish Ministers instead of a designated authority.
 
-### 12. Powers of enforcement officers[^key-99a8171a295196ed411e665895bac95c]
+### 12. Powers of enforcement officers[^c-99a8171a295196ed411e665895bac95c]
 
 (1) An enforcement officer may—
 
@@ -193,7 +193,7 @@ A designated authority must without delay notify the Scottish Ministers or Food 
 - (d) require the production of any label, document or record (in whatever form it is held);
 - (e) inspect and take a copy of, or take a copy of an extract from, any label, document or record;
 - (f) have access to, and inspect and check the data on, and operation of, any computer or similar device;
-- (g) if the enforcement officer has reason to believe that a person is in contravention of these Regulations or the Official Controls Regulation[^key-885e5663bcd2a06e5de6934210b7e869], and that such data may be relevant to the contravention, seize and detain any equipment for the purposes of copying data or (where adequate inspection is impracticable) further inspection;
+- (g) if the enforcement officer has reason to believe that a person is in contravention of these Regulations or the Official Controls Regulation[^c-885e5663bcd2a06e5de6934210b7e869], and that such data may be relevant to the contravention, seize and detain any equipment for the purposes of copying data or (where adequate inspection is impracticable) further inspection;
 - (h) if the enforcement officer has reason to believe that a person is in contravention of these Regulations or the Official Controls Regulation, and that certain records may be relevant to the contravention, seize and detain the records.
 
 (2) An enforcement officer must—
@@ -203,9 +203,9 @@ A designated authority must without delay notify the Scottish Ministers or Food 
   - (i) provide to the person appearing to be responsible for any record or equipment removed from any premises a written receipt identifying the items removed; and
   - (ii) when no longer required, return anything seized or detained.
 
-### 13. Powers of entry[^key-8bcd07c7b0faaf743e04b36643f1acc1]
+### 13. Powers of entry[^c-8bcd07c7b0faaf743e04b36643f1acc1]
 
-(1) An enforcement officer may enter any premises (except any premises used wholly or mainly as a private dwelling) during normal working hours without prior notice, if the officer believes that it is necessary for the purpose of official controls or other official activities under these Regulations or the Official Controls Regulation[^key-3633a3342a518194b08556cf0982fe91].
+(1) An enforcement officer may enter any premises (except any premises used wholly or mainly as a private dwelling) during normal working hours without prior notice, if the officer believes that it is necessary for the purpose of official controls or other official activities under these Regulations or the Official Controls Regulation[^c-3633a3342a518194b08556cf0982fe91].
 
 (2) In circumstances where an enforcement officer is carrying out routine verification checks, notice must be provided before exercising a power of entry to premises during normal working hours.
 
@@ -238,7 +238,7 @@ A designated authority must without delay notify the Scottish Ministers or Food 
 - (a) be accompanied by such other persons, up to a maximum of three, as the officer considers necessary;
 - (b) bring onto the premises such equipment as the officer considers necessary.
 
-### 14. Offences and penalties[^key-9893a62bf18994e61ee334239d3bddfd]
+### 14. Offences and penalties[^c-9893a62bf18994e61ee334239d3bddfd]
 
 (1) A person is guilty of an offence if without reasonable excuse that person obstructs or causes or permits to be obstructed—
 
@@ -256,7 +256,7 @@ A designated authority must without delay notify the Scottish Ministers or Food 
 
 (4) A person guilty of an offence under this regulation is liable on summary conviction to a fine not exceeding level 5 on the standard scale, or to imprisonment for a term not exceeding three months, or to both.
 
-### 15. Offences by bodies corporate[^key-ce40aa8abe7c6613299e0c6acbd204b7]
+### 15. Offences by bodies corporate[^c-ce40aa8abe7c6613299e0c6acbd204b7]
 
 (1) Where—
 
@@ -275,7 +275,7 @@ the officer as well as the body corporate is guilty of the offence, and liable t
 - (b) in relation to a Scottish partnership, a partner;
 - (c) in relation to an unincorporated association other than a Scottish partnership, a person who is concerned in the management or control of the association.
 
-### 16. Time limits for prosecution[^key-becd6d62e32d79d707d5a3cc55b817f0]
+### 16. Time limits for prosecution[^c-becd6d62e32d79d707d5a3cc55b817f0]
 
 A prosecution for an offence under this Part must begin no later than the earlier of the expiry of—
 
@@ -284,7 +284,7 @@ A prosecution for an offence under this Part must begin no later than the earlie
 
 ## PART 5 — Consequential amendments
 
-### 17. Amendment to the Foot-and-Mouth Disease (Scotland) Order 2006[^key-c7e0da46f8c735c9bdc2dd9a9efa59b0]
+### 17. Amendment to the Foot-and-Mouth Disease (Scotland) Order 2006[^c-c7e0da46f8c735c9bdc2dd9a9efa59b0]
 
 (1) The Foot-and-Mouth Disease (Scotland) Order 2006 [^c23942121] is amended as follows.
 
@@ -320,7 +320,7 @@ A prosecution for an offence under this Part must begin no later than the earlie
 - (a) in paragraphs (2) and (3) for “border inspection post” substitute “ border control post ” in both places; and
 - (b) omit paragraph (6).
 
-### 18. Amendment to the Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006[^key-617b23fc2cb1abf6534d1164e795a1ad]
+### 18. Amendment to the Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006[^c-617b23fc2cb1abf6534d1164e795a1ad]
 
 (1) The Foot-and-Mouth Disease (Slaughter and Vaccination) (Scotland) Regulations 2006 [^c23942141] are amended as follows.
 
@@ -335,7 +335,7 @@ A prosecution for an offence under this Part must begin no later than the earlie
 - (c) in the definition of “Regulation [(EC) No. 1069/2009](https://www.legislation.gov.uk/european/regulation/2009/1069)”, for the words “as last amended by Council Regulation (EU) 1385/2013”, substitute “ as last amended by Regulation (EU) 2017/625 ”; and
 - (d) in the definition of “slaughterhouse”, in paragraph (a) for the words “under” to “Commission Implementing Regulation (EU) 2018/1587” substitute “ in accordance with Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products ”.
 
-### 19. Amendment to the Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007[^key-9749e554de955775016e47e07ae1aee7]
+### 19. Amendment to the Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007[^c-9749e554de955775016e47e07ae1aee7]
 
 (1) The Avian Influenza (H5N1 in Poultry) (Scotland) Order 2007 [^c23942161] is amended as follows.
 
@@ -343,7 +343,7 @@ A prosecution for an offence under this Part must begin no later than the earlie
 
 (3) In article 11(2)(b)(ii), for the words “Chapter VIII” to the end, substitute “ Article 18 of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products ”.
 
-### 20. Amendment to the Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007[^key-2c0ae110548c2af5a410db04f83c5faa]
+### 20. Amendment to the Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007[^c-2c0ae110548c2af5a410db04f83c5faa]
 
 (1) The Avian Influenza (H5N1 in Wild Birds) (Scotland) Order 2007 [^c23942171] is amended as follows.
 
@@ -351,11 +351,11 @@ A prosecution for an offence under this Part must begin no later than the earlie
 
 (3) In schedule 1, in paragraph 9(2)(a), for the words from “Sections I” to the end substitute “ Article 18 of Regulation EU 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products [^c23942181] ”.
 
-### 21. Amendment to the Welfare of Animals (Transport) (Scotland) Regulations 2006[^key-393934bcf98f0921251e4147e15cef4e]
+### 21. Amendment to the Welfare of Animals (Transport) (Scotland) Regulations 2006[^c-393934bcf98f0921251e4147e15cef4e]
 
 In regulation 18(2) of the Welfare of Animals (Transport) (Scotland) Regulations 2006 [^c23942191], omit sub-paragraph (j).
 
-### 22. Amendment to the Welfare of Farmed Animals (Scotland) Regulations 2010[^key-e05c242174f3e9546590ea824d11ddd0]
+### 22. Amendment to the Welfare of Farmed Animals (Scotland) Regulations 2010[^c-e05c242174f3e9546590ea824d11ddd0]
 
 (1) The Welfare of Farmed Animals (Scotland) Regulations 2010 [^c23942201] are amended as follows.
 
@@ -371,7 +371,7 @@ In regulation 18(2) of the Welfare of Animals (Transport) (Scotland) Regulations
     .
 - (b) in paragraph 15(1), for “Regulation 854/2004” substitute “ Regulation (EU) 2017/625 ”.
 
-### 23. Amendment to the Aquatic Animal Health (Scotland) Regulations 2009[^key-477593857bf0ab37677ddea0db5823f0]
+### 23. Amendment to the Aquatic Animal Health (Scotland) Regulations 2009[^c-477593857bf0ab37677ddea0db5823f0]
 
 Regulation 19 of the Aquatic Animal Health (Scotland) Regulations 2009 [^c23942221] is amended as follows—
 
@@ -382,7 +382,7 @@ Regulation 19 of the Aquatic Animal Health (Scotland) Regulations 2009 [^c239422
 
   .
 
-### 24. Amendment to the Trade in Animals and Related Products (Scotland) Regulations 2012[^key-e5655b768a48e59ed39a5767dcb4796b]
+### 24. Amendment to the Trade in Animals and Related Products (Scotland) Regulations 2012[^c-e5655b768a48e59ed39a5767dcb4796b]
 
 (1) The Trade in Animals and Related Products (Scotland) Regulations 2012 [^c23942231] are amended as follows.
 
@@ -965,19 +965,19 @@ Regulation 19 of the Aquatic Animal Health (Scotland) Regulations 2009 [^c239422
 
   .
 
-### 25. Amendment to the Animal Health (Miscellaneous Fees) (Scotland) Regulations 2018[^key-3417e582f09b6a61ff158c1215970f81]
+### 25. Amendment to the Animal Health (Miscellaneous Fees) (Scotland) Regulations 2018[^c-3417e582f09b6a61ff158c1215970f81]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Amendment to the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012[^key-bd33cc0319ace0abfdc9f9f251473951]
+### 26. Amendment to the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012[^c-bd33cc0319ace0abfdc9f9f251473951]
 
 In regulation 3(1)(b)(iii) of the Welfare of Animals at the Time of Killing (Scotland) Regulations 2012 [^c23942391], for “Article 22(1)” substitute “ Article 138 of Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products [^c23942401] ”.
 
-### 27. Amendment to the Beef and Pig Carcase Classification (Scotland) Regulations 2010[^key-c6ae19a617187df1330c2e427c1084f4]
+### 27. Amendment to the Beef and Pig Carcase Classification (Scotland) Regulations 2010[^c-c6ae19a617187df1330c2e427c1084f4]
 
 In regulation 2(1) of the Beef and Pig Carcase Classification (Scotland) Regulations 2010 [^c23942411], in the definition of “bovine carcase”, for the words from “provided for in” to “consumption” substitute “ as defined in Article 3(51) of the Regulation (EU) 2017/625 of the European Parliament and of the Council on official controls and other official activities performed to ensure the application of feed and food law, rules on animal health and welfare, plant health and plant protection products ”.
 
-### 28. Amendment to the Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010[^key-4443256982a6ddb15e796f168b3eb713]
+### 28. Amendment to the Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010[^c-4443256982a6ddb15e796f168b3eb713]
 
 (1) The Transmissible Spongiform Encephalopathies (Scotland) Regulations 2010 [^c23942421] are amended as follows.
 
@@ -997,7 +997,7 @@ In regulation 2(1) of the Beef and Pig Carcase Classification (Scotland) Regulat
 
 ## PART 6 — Revocation
 
-### 29. Revocation[^key-15a01b74c6bd72e2f8b89985ab528441]
+### 29. Revocation[^c-15a01b74c6bd72e2f8b89985ab528441]
 
 The Official Controls (Animals, Feed and Food) (Scotland) Regulations 2007 [^c23942441] are revoked.
 
@@ -1037,105 +1037,105 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^c23942081]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by the [Scotland Act 1998 (c.46)](https://www.legislation.gov.uk/ukpga/1998/46) (“**the 1998 Act**”), schedule 8, paragraph 15(3). The function conferred on the Minister of the Crown under section 2(2) of the European Communities Act 1972, so far as within devolved competence, was transferred to the Scottish Ministers by virtue of section 53 of the 1998 Act. In so far as not so transferred and in so far as relating to food (including drink) including the primary production of food, that function was transferred to the Scottish Ministers by the [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849).
 
-[^key-4cc33e575a1b20017ecef9cbb020a3fd]: Commencement: Reg. 1 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-4cc33e575a1b20017ecef9cbb020a3fd]: Commencement: Reg. 1 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-6206009619590a158caf8dc36b62cebb]: Commencement: Reg. 2 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-6206009619590a158caf8dc36b62cebb]: Commencement: Reg. 2 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-0d7cfb0db0ad4b4423dba327915a3b21]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2019/412/regulation/2) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/2/a)
+[^c-0d7cfb0db0ad4b4423dba327915a3b21]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2019/412/regulation/2) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/2/a)
 
-[^key-d09709642aea703a113a561409acc279]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/2/1) omitted (31.12.2020) by virtue of [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/2/b)
+[^c-d09709642aea703a113a561409acc279]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/2/1) omitted (31.12.2020) by virtue of [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/2/b)
 
 [^c23942091]: Marginal citation: OJ No L 95, 7.04.2017, p. 1.
 
 [^c23942101]: Marginal citation: [S.S.I. 2009/446](https://www.legislation.gov.uk/ssi/2009/446) as last amended by [S.S.I. 2019/407](https://www.legislation.gov.uk/ssi/2019/407).
 
-[^key-7bff9d0bb4e605db291aeb5e8415dac4]: Commencement: Reg. 3 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-7bff9d0bb4e605db291aeb5e8415dac4]: Commencement: Reg. 3 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942111]: Marginal citation: [S.S.I. 2012/321](https://www.legislation.gov.uk/ssi/2012/321) as last amended by [S.S.I. 2015/161](https://www.legislation.gov.uk/ssi/2015/161).
 
-[^key-c3063958ff4371fc6b48358793bd83ab]: Commencement: Reg. 4 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-c3063958ff4371fc6b48358793bd83ab]: Commencement: Reg. 4 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-d4465f2a66452097f5bff753561cc86a]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2019/412/regulation/4) omitted (31.12.2020) by virtue of [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/3/a)
+[^c-d4465f2a66452097f5bff753561cc86a]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2019/412/regulation/4) omitted (31.12.2020) by virtue of [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(3)(a)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/3/a)
 
-[^key-6e3e9c436e325f9a770cddc59941203c]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2019/412/regulation/4) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/3/b)
+[^c-6e3e9c436e325f9a770cddc59941203c]: Textual amendment: Words in [reg. 4](https://www.legislation.gov.uk/ssi/2019/412/regulation/4) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(3)(b)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/3/b)
 
-[^key-a5382d1828a1e465a7ac757c4b0b427f]: Commencement: Reg. 5 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-a5382d1828a1e465a7ac757c4b0b427f]: Commencement: Reg. 5 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-98a0dddbc0f5fc5655bba172b2995c66]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/5/1) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(4)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/4)
+[^c-98a0dddbc0f5fc5655bba172b2995c66]: Textual amendment: Words in [reg. 5(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/5/1) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(4)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/4)
 
-[^key-afbf4aa5cd0554ec473359a871e4b17d]: Commencement: Reg. 6 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-afbf4aa5cd0554ec473359a871e4b17d]: Commencement: Reg. 6 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-feb6e2762761fa2c9647de0ca2111d07]: Commencement: Reg. 7 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-feb6e2762761fa2c9647de0ca2111d07]: Commencement: Reg. 7 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-d669da836bf5fa5430b043060e6be8ea]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/7/1) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(5)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/5)
+[^c-d669da836bf5fa5430b043060e6be8ea]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/7/1) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(5)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/5)
 
-[^key-ee353a1b4543110dd6c71bc790a9065a]: Commencement: Reg. 8 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-ee353a1b4543110dd6c71bc790a9065a]: Commencement: Reg. 8 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-2a62f61e6dab8a84e44594b915eb59ab]: Commencement: Reg. 9 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-2a62f61e6dab8a84e44594b915eb59ab]: Commencement: Reg. 9 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-daba100854e11f21cdef0acb7b54a135]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/9/1) omitted (31.12.2020) by virtue of [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(6)(a)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/6/a)
+[^c-daba100854e11f21cdef0acb7b54a135]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/9/1) omitted (31.12.2020) by virtue of [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(6)(a)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/6/a)
 
-[^key-ea936120835885835265858a99f98442]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/ssi/2019/412/regulation/9/2) omitted (31.12.2020) by virtue of [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(6)(b)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/6/b)
+[^c-ea936120835885835265858a99f98442]: Textual amendment: [Reg. 9(2)](https://www.legislation.gov.uk/ssi/2019/412/regulation/9/2) omitted (31.12.2020) by virtue of [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(6)(b)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/6/b)
 
-[^key-4e21232c471381e0f0f1d92c8344201a]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/ssi/2019/412/regulation/9/3) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(6)(c)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/6/c)
+[^c-4e21232c471381e0f0f1d92c8344201a]: Textual amendment: Words in [reg. 9(3)](https://www.legislation.gov.uk/ssi/2019/412/regulation/9/3) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(6)(c)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/6/c)
 
-[^key-4a72c0cbe16b2797879a0b51473e0d9c]: Commencement: Reg. 10 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-4a72c0cbe16b2797879a0b51473e0d9c]: Commencement: Reg. 10 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-1060e0cc8ea6c1896565bdf3a83b6571]: Commencement: Reg. 11 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-1060e0cc8ea6c1896565bdf3a83b6571]: Commencement: Reg. 11 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-752fbb7ef23d93a9dbe0088f96da109c]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/ssi/2019/412/regulation/11) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(7)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/7)
+[^c-752fbb7ef23d93a9dbe0088f96da109c]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/ssi/2019/412/regulation/11) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(7)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/7)
 
-[^key-99a8171a295196ed411e665895bac95c]: Commencement: Reg. 12 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-99a8171a295196ed411e665895bac95c]: Commencement: Reg. 12 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-885e5663bcd2a06e5de6934210b7e869]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/12/1) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(8)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/8)
+[^c-885e5663bcd2a06e5de6934210b7e869]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/12/1) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(8)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/8)
 
-[^key-8bcd07c7b0faaf743e04b36643f1acc1]: Commencement: Reg. 13 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-8bcd07c7b0faaf743e04b36643f1acc1]: Commencement: Reg. 13 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-3633a3342a518194b08556cf0982fe91]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/ssi/2019/412/regulation/13) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(9)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/9)
+[^c-3633a3342a518194b08556cf0982fe91]: Textual amendment: Words in [reg. 13](https://www.legislation.gov.uk/ssi/2019/412/regulation/13) substituted (31.12.2020) by [The Animal Health and Welfare and Official Controls (Agriculture) (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/380)](https://www.legislation.gov.uk/ssi/2020/380), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/380/regulation/1/3), [4(9)](https://www.legislation.gov.uk/ssi/2020/380/regulation/4/9)
 
-[^key-9893a62bf18994e61ee334239d3bddfd]: Commencement: Reg. 14 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-9893a62bf18994e61ee334239d3bddfd]: Commencement: Reg. 14 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-ce40aa8abe7c6613299e0c6acbd204b7]: Commencement: Reg. 15 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-ce40aa8abe7c6613299e0c6acbd204b7]: Commencement: Reg. 15 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-becd6d62e32d79d707d5a3cc55b817f0]: Commencement: Reg. 16 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-becd6d62e32d79d707d5a3cc55b817f0]: Commencement: Reg. 16 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
-[^key-c7e0da46f8c735c9bdc2dd9a9efa59b0]: Commencement: Reg. 17 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-c7e0da46f8c735c9bdc2dd9a9efa59b0]: Commencement: Reg. 17 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942121]: Marginal citation: [S.S.I. 2006/44](https://www.legislation.gov.uk/ssi/2006/44) as last amended by [S.S.I. 2019/71](https://www.legislation.gov.uk/ssi/2019/71).
 
 [^c23942131]: Marginal citation: OJ No L 95, 7.04.2017, p. 1.
 
-[^key-617b23fc2cb1abf6534d1164e795a1ad]: Commencement: Reg. 18 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-617b23fc2cb1abf6534d1164e795a1ad]: Commencement: Reg. 18 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942141]: Marginal citation: [S.S.I. 2006/45](https://www.legislation.gov.uk/ssi/2006/45) as last amended by [S.S.I. 2019/71](https://www.legislation.gov.uk/ssi/2019/71).
 
 [^c23942151]: Marginal citation: OJ No L 95, 7.04.2017, p. 1.
 
-[^key-9749e554de955775016e47e07ae1aee7]: Commencement: Reg. 19 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-9749e554de955775016e47e07ae1aee7]: Commencement: Reg. 19 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942161]: Marginal citation: [S.S.I. 2007/62](https://www.legislation.gov.uk/ssi/2007/62), as last amended by [S.S.I. 2019/71](https://www.legislation.gov.uk/ssi/2019/71).
 
-[^key-2c0ae110548c2af5a410db04f83c5faa]: Commencement: Reg. 20 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-2c0ae110548c2af5a410db04f83c5faa]: Commencement: Reg. 20 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942171]: Marginal citation: [S.S.I. 2007/61](https://www.legislation.gov.uk/ssi/2007/61), as last amended by [S.S.I. 2019/71](https://www.legislation.gov.uk/ssi/2019/71).
 
 [^c23942181]: Marginal citation: OJ No L 95, 7.04.2017, p. 1.
 
-[^key-393934bcf98f0921251e4147e15cef4e]: Commencement: Reg. 21 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-393934bcf98f0921251e4147e15cef4e]: Commencement: Reg. 21 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942191]: Marginal citation: [S.S.I. 2006/606](https://www.legislation.gov.uk/ssi/2006/606), to which there are amendments not relevant to these Regulations.
 
-[^key-e05c242174f3e9546590ea824d11ddd0]: Commencement: Reg. 22 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-e05c242174f3e9546590ea824d11ddd0]: Commencement: Reg. 22 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942201]: Marginal citation: [S.S.I. 2010/388](https://www.legislation.gov.uk/ssi/2010/388), as last amended by [S.S.I. 2019/221](https://www.legislation.gov.uk/ssi/2019/221).
 
 [^c23942211]: Marginal citation: OJ No L 95, 7.04.2017, p. 1.
 
-[^key-477593857bf0ab37677ddea0db5823f0]: Commencement: Reg. 23 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-477593857bf0ab37677ddea0db5823f0]: Commencement: Reg. 23 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942221]: Marginal citation: [S.S.I. 2009/85](https://www.legislation.gov.uk/ssi/2009/85) as last relevantly amended by [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177).
 
-[^key-e5655b768a48e59ed39a5767dcb4796b]: Commencement: Reg. 24 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-e5655b768a48e59ed39a5767dcb4796b]: Commencement: Reg. 24 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942231]: Marginal citation: [S.S.I. 2012/177](https://www.legislation.gov.uk/ssi/2012/177), as last amended by [S.S.I. 2019/71](https://www.legislation.gov.uk/ssi/2019/71).
 
@@ -1165,24 +1165,24 @@ A full impact assessment has not been produced for these Regulations as no, or n
 
 [^c23942361]: Marginal citation: OJ No L 317, 4.11.2014, p. 35.
 
-[^key-3417e582f09b6a61ff158c1215970f81]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/ssi/2019/412/regulation/25) revoked (1.7.2023) by [The Animal By-Products and Animal Health (Miscellaneous Fees) (Scotland) Regulations 2023 (S.S.I. 2023/198)](https://www.legislation.gov.uk/ssi/2023/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/198/regulation/1/1), [11(c)](https://www.legislation.gov.uk/ssi/2023/198/regulation/11/c)
+[^c-3417e582f09b6a61ff158c1215970f81]: Textual amendment: [Reg. 25](https://www.legislation.gov.uk/ssi/2019/412/regulation/25) revoked (1.7.2023) by [The Animal By-Products and Animal Health (Miscellaneous Fees) (Scotland) Regulations 2023 (S.S.I. 2023/198)](https://www.legislation.gov.uk/ssi/2023/198), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2023/198/regulation/1/1), [11(c)](https://www.legislation.gov.uk/ssi/2023/198/regulation/11/c)
 
-[^key-bd33cc0319ace0abfdc9f9f251473951]: Commencement: Reg. 26 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-bd33cc0319ace0abfdc9f9f251473951]: Commencement: Reg. 26 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942391]: Marginal citation: [S.S.I. 2012/321](https://www.legislation.gov.uk/ssi/2012/321), as last amended by S.S.I 2019/34.
 
 [^c23942401]: Marginal citation: OJ No L 95, 7.4.2017, p. 1.
 
-[^key-c6ae19a617187df1330c2e427c1084f4]: Commencement: Reg. 27 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-c6ae19a617187df1330c2e427c1084f4]: Commencement: Reg. 27 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942411]: Marginal citation: [S.S.I. 2010/330](https://www.legislation.gov.uk/ssi/2010/330), as last amended by [S.S.I. 2019/34](https://www.legislation.gov.uk/ssi/2019/34).
 
-[^key-4443256982a6ddb15e796f168b3eb713]: Commencement: Reg. 28 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-4443256982a6ddb15e796f168b3eb713]: Commencement: Reg. 28 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942421]: Marginal citation: [S.S.I. 2010/177](https://www.legislation.gov.uk/ssi/2010/177) as last amended by [S.S.I. 2019/118](https://www.legislation.gov.uk/ssi/2019/118).
 
 [^c23942431]: Marginal citation: OJ No L 95, 7.04.2017, p. 1.
 
-[^key-15a01b74c6bd72e2f8b89985ab528441]: Commencement: Reg. 29 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
+[^c-15a01b74c6bd72e2f8b89985ab528441]: Commencement: Reg. 29 in force at 14.12.2019, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2019/412/regulation/1/1)
 
 [^c23942441]: Marginal citation: [S.S.I. 2007/91](https://www.legislation.gov.uk/ssi/2007/91) as last amended by [S.S.I. 2019/288](https://www.legislation.gov.uk/ssi/2019/288).

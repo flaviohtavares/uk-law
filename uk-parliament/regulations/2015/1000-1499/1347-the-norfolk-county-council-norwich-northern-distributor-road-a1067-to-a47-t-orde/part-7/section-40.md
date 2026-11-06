@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40. Protective Provisions[^key-fd15fbd9637852518711d4478f979e38]
+## 40. Protective Provisions[^c-fd15fbd9637852518711d4478f979e38]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 13 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-fd15fbd9637852518711d4478f979e38]: Commencement: Art. 40 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-fd15fbd9637852518711d4478f979e38]: Commencement: Art. 40 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

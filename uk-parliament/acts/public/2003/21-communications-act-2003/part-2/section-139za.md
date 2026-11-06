@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139ZA. Higher penalties for certain contraventions[^key-46c3c0b154f5ece2bae428d2ea10dcdc]
+## 139ZA. Higher penalties for certain contraventions[^c-46c3c0b154f5ece2bae428d2ea10dcdc]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46c3c0b154f5ece2bae428d2ea10dcdc]: Textual amendment: [S. 139ZA](https://www.legislation.gov.uk/ukpga/2003/21/section/139ZA) inserted (17.11.2021 for specified purposes) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 24](https://www.legislation.gov.uk/ukpga/2021/31/section/24), [28(1)(d)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/d)
+[^c-46c3c0b154f5ece2bae428d2ea10dcdc]: Textual amendment: [S. 139ZA](https://www.legislation.gov.uk/ukpga/2003/21/section/139ZA) inserted (17.11.2021 for specified purposes) by [Telecommunications (Security) Act 2021 (c. 31)](https://www.legislation.gov.uk/ukpga/2021/31), [ss. 24](https://www.legislation.gov.uk/ukpga/2021/31/section/24), [28(1)(d)](https://www.legislation.gov.uk/ukpga/2021/31/section/28/1/d)

@@ -36,7 +36,7 @@ Water Industry, England And Wales
 
 Companies, England And Wales
 
-The Water Industry (Special Administration) Rules 2009 (revoked)[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+The Water Industry (Special Administration) Rules 2009 (revoked)[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 Made
 
@@ -50,11 +50,11 @@ Coming into force
 
 1st November 2009
 
-[^key-b0aaa19380a3799d8b2c5966c92cdf83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0aaa19380a3799d8b2c5966c92cdf83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+### PART 1 — Introduction[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -65,7 +65,7 @@ Coming into force
 - [Section 5 — Application of Insolvency Rules 1986](part-1/section-5.md)
 - [Section 6 — Forms for use in special administration proceedings](part-1/section-6.md)
 
-### PART 2 — The petition and the special administration order[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+### PART 2 — The petition and the special administration order[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -82,7 +82,7 @@ Coming into force
 - [Section 17 — Notice and advertisement of special administration order](part-2/section-17.md)
 - [Section 18 — Notice of discharge of special administration order](part-2/section-18.md)
 
-### PART 3 — The special administrator[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+### PART 3 — The special administrator[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -94,11 +94,11 @@ Coming into force
 - [Section 24 — Special administrator's death in office](part-3/section-24.md)
 - [Section 25 — Order filling vacancy](part-3/section-25.md)
 
-### PART 4 — Conduct of the special administration[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+### PART 4 — Conduct of the special administration[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
-#### CHAPTER 1 — Statement of affairs and proposals to creditors[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 1 — Statement of affairs and proposals to creditors[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -114,19 +114,19 @@ Coming into force
 - [Section 35 — Statement if special administration order to be discharged before statement of proposals](part-4/section-35.md)
 - [Section 36 — Notice to members of proposals to creditors](part-4/section-36.md)
 
-#### CHAPTER 2 — Disposal of property[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 2 — Disposal of property[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
 - [Section 37 — Disposal of charged property, etc.](part-4/section-37.md)
 
-#### CHAPTER 3 — Accounts[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 3 — Accounts[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
 - [Section 38 — Abstract of receipts and payments](part-4/section-38.md)
 
-#### CHAPTER 4 — Access to documents[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 4 — Access to documents[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -135,11 +135,11 @@ Coming into force
 - [Section 41 — Right to have list of creditors](part-4/section-41.md)
 - [Section 42 — False claim of status as creditor or member etc.](part-4/section-42.md)
 
-### PART 5 — Meetings[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+### PART 5 — Meetings[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
-#### CHAPTER 1 — Creditors' meetings[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 1 — Creditors' meetings[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -159,19 +159,19 @@ Coming into force
 - [Section 56 — Minutes](part-5/section-56.md)
 - [Section 57 — Report to creditors](part-5/section-57.md)
 
-#### CHAPTER 2 — Members' meetings[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 2 — Members' meetings[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
 - [Section 58 — Venue and conduct of members' meeting](part-5/section-58.md)
 
-#### CHAPTER 3 — Meetings generally[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 3 — Meetings generally[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
 - [Section 59 — Evidence of proceedings at meeting](part-5/section-59.md)
 
-### PART 6 — Proxies and company representation[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+### PART 6 — Proxies and company representation[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -184,11 +184,11 @@ Coming into force
 - [Section 66 — Proxy-holder with financial interest](part-6/section-66.md)
 - [Section 67 — Company representation](part-6/section-67.md)
 
-### PART 7 — Court procedure and practice[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+### PART 7 — Court procedure and practice[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
-#### CHAPTER 1 — Applications[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 1 — Applications[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -204,14 +204,14 @@ Coming into force
 - [Section 77 — Use of reports](part-7/section-77.md)
 - [Section 78 — Adjournment of hearing: directions](part-7/section-78.md)
 
-#### CHAPTER 2 — Enforcement[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 2 — Enforcement[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
 - [Section 79 — Enforcement of court orders](part-7/section-79.md)
 - [Section 80 — Orders enforcing compliance with these Rules](part-7/section-80.md)
 
-#### CHAPTER 3 — Access to court records[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 3 — Access to court records[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -222,7 +222,7 @@ Coming into force
 - [Section 85 — False claim of status as creditor or member](part-7/section-85.md)
 - [Section 86 — Filing of copies of London Gazette notices and advertisements](part-7/section-86.md)
 
-#### CHAPTER 4 — Costs and detailed assessment[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 4 — Costs and detailed assessment[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -237,20 +237,20 @@ Coming into force
 - [Section 95 — Final costs certificate](part-7/section-95.md)
 - [Section 96 — Replacement of lost or destroyed costs certificate](part-7/section-96.md)
 
-#### CHAPTER 5 — Persons who lack capacity[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 5 — Persons who lack capacity[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
 - [Section 97 — Children and patients](part-7/section-97.md)
 
-#### CHAPTER 6 — Appeals[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 6 — Appeals[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
 - [Section 98 — Appeal and review of orders](part-7/section-98.md)
 - [Section 99 — Procedure on appeal](part-7/section-99.md)
 
-#### CHAPTER 7 — General[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+#### CHAPTER 7 — General[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -264,7 +264,7 @@ Coming into force
 - [Section 107 — Payment into court](part-7/section-107.md)
 - [Section 108 — Further information and disclosure](part-7/section-108.md)
 
-### PART 8 — Examination of persons in special administration proceedings[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+### PART 8 — Examination of persons in special administration proceedings[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -278,7 +278,7 @@ Coming into force
 - [Section 116 — Filing of record of examination](part-8/section-116.md)
 - [Section 117 — Costs of proceedings under section 236 of the Insolvency Act](part-8/section-117.md)
 
-### PART 9 — Miscellaneous and general[^key-b0aaa19380a3799d8b2c5966c92cdf83]
+### PART 9 — Miscellaneous and general[^c-b0aaa19380a3799d8b2c5966c92cdf83]
 
 **No longer in force.**
 
@@ -301,12 +301,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-b0aaa19380a3799d8b2c5966c92cdf83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0aaa19380a3799d8b2c5966c92cdf83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S*
 
-[^key-b0aaa19380a3799d8b2c5966c92cdf83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b0aaa19380a3799d8b2c5966c92cdf83]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b0aaa19380a3799d8b2c5966c92cdf83]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2009/2477) revoked (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [3](https://www.legislation.gov.uk/uksi/2024/229/rule/3) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-b0aaa19380a3799d8b2c5966c92cdf83]: Textual amendment: [Rules](https://www.legislation.gov.uk/uksi/2009/2477) revoked (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [3](https://www.legislation.gov.uk/uksi/2024/229/rule/3) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))

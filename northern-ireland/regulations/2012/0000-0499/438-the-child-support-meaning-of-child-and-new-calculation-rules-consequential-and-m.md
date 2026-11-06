@@ -44,7 +44,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 ## PART 1 — General
 
-### 1. Citation, commencement and interpretation[^key-6dd6c3ee704f1347a87c9eae334918c2]
+### 1. Citation, commencement and interpretation[^c-6dd6c3ee704f1347a87c9eae334918c2]
 
 (1) These Regulations may be cited as the Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 and shall come into operation as follows—
 
@@ -56,7 +56,7 @@ The Department for Social Development makes the following Regulations in exercis
 (2) In these Regulations—
 
 - “the Act” means the Child Maintenance Act (Northern Ireland) 2008;
-- “arrears of child support maintenance” means any payment of child support maintenance—[^key-0ba6c1cdbeb706d41fa28aef1f4b02ec]
+- “arrears of child support maintenance” means any payment of child support maintenance—[^c-0ba6c1cdbeb706d41fa28aef1f4b02ec]
   - (a) which has become due in relation to a maintenance assessment, or a maintenance calculation made under 2003 scheme rules, and not paid; and
   - (b) in respect of which the Department is arranging collection under Article 29 of the Child Support (Northern Ireland) Order 1991;
 - “arrears-only case” means a case in which—
@@ -70,17 +70,17 @@ The Department for Social Development makes the following Regulations in exercis
 
 ## PART 2 — Meaning of Child
 
-### 2. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^key-0a6545a418fb1889c90ace94fec999d3]
+### 2. Amendment of the Child Support (Maintenance Assessment Procedure) Regulations[^c-0a6545a418fb1889c90ace94fec999d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Amendment of the Child Support (Maintenance Calculation Procedure) Regulations[^key-0a6545a418fb1889c90ace94fec999d3]
+### 3. Amendment of the Child Support (Maintenance Calculation Procedure) Regulations[^c-0a6545a418fb1889c90ace94fec999d3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 3 — New Calculation Rules – Consequential and Miscellaneous Amendments
 
-### 4. Amendment of the Collection and Enforcement Regulations[^key-16189407c03187f02247ba6db5e654e2][^key-ca44de5227725cf148e1276bd3bcc04d][^key-16189407c03187f02247ba6db5e654e2]
+### 4. Amendment of the Collection and Enforcement Regulations[^c-16189407c03187f02247ba6db5e654e2][^c-ca44de5227725cf148e1276bd3bcc04d][^c-16189407c03187f02247ba6db5e654e2]
 
 (1) The Collection and Enforcement Regulations are amended in accordance with paragraphs (2) to (6).
 
@@ -102,9 +102,9 @@ The Department for Social Development makes the following Regulations in exercis
 
 .
 
-(3)[^key-16189407c03187f02247ba6db5e654e2][^key-ca44de5227725cf148e1276bd3bcc04d] In regulation 8(1) (interpretation of this Part) in the definition of “normal deduction rate” for “week, month or other period” substitute “month and the equivalent of that sum for a 1, 2 and 4 week period”.
+(3)[^c-16189407c03187f02247ba6db5e654e2][^c-ca44de5227725cf148e1276bd3bcc04d] In regulation 8(1) (interpretation of this Part) in the definition of “normal deduction rate” for “week, month or other period” substitute “month and the equivalent of that sum for a 1, 2 and 4 week period”.
 
-(4)[^key-16189407c03187f02247ba6db5e654e2][^key-ca44de5227725cf148e1276bd3bcc04d] For regulations 10 and 11[^f00009] (normal deduction rate and protected earnings proportion) substitute—
+(4)[^c-16189407c03187f02247ba6db5e654e2][^c-ca44de5227725cf148e1276bd3bcc04d] For regulations 10 and 11[^f00009] (normal deduction rate and protected earnings proportion) substitute—
 
 > **10. Normal deduction rate**
 >
@@ -122,7 +122,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 .
 
-(5)[^key-16189407c03187f02247ba6db5e654e2][^key-ca44de5227725cf148e1276bd3bcc04d] In regulation 20(1)[^f00010] (discharge of deduction from earnings orders)—
+(5)[^c-16189407c03187f02247ba6db5e654e2][^c-ca44de5227725cf148e1276bd3bcc04d] In regulation 20(1)[^f00010] (discharge of deduction from earnings orders)—
 
 - (a) omit “or” after sub-paragraph (e); and
 - (b) after sub-paragraph (f) add—
@@ -133,9 +133,9 @@ The Department for Social Development makes the following Regulations in exercis
 
   .
 
-(6)[^key-16189407c03187f02247ba6db5e654e2][^key-ca44de5227725cf148e1276bd3bcc04d] In regulations 25C(1)(a) and 25G(2)(d)[^f00011] (maximum deduction rate and review of a regular deduction order) for “net” substitute “gross”.
+(6)[^c-16189407c03187f02247ba6db5e654e2][^c-ca44de5227725cf148e1276bd3bcc04d] In regulations 25C(1)(a) and 25G(2)(d)[^f00011] (maximum deduction rate and review of a regular deduction order) for “net” substitute “gross”.
 
-### 5. Amendment of the Child Support (Maintenance Arrangements and Jurisdiction) Regulations[^key-584ed46190a7d27a836885416a0eedc0][^key-584ed46190a7d27a836885416a0eedc0]
+### 5. Amendment of the Child Support (Maintenance Arrangements and Jurisdiction) Regulations[^c-584ed46190a7d27a836885416a0eedc0][^c-584ed46190a7d27a836885416a0eedc0]
 
 (1) The Child Support (Maintenance Arrangements and Jurisdiction) Regulations (Northern Ireland) 1992[^f00012] are amended in accordance with paragraphs (2) to (4).
 
@@ -145,7 +145,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (4) In regulation 8A(d)[^f00015] (maintenance calculations and maintenance orders – payments) omit “in accordance with regulation 25 of the Maintenance Calculation Procedure Regulations”.
 
-### 6. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^key-983c9284e5786773ac764745ad24e272][^key-983c9284e5786773ac764745ad24e272]
+### 6. Amendment of the Social Security and Child Support (Decisions and Appeals) Regulations[^c-983c9284e5786773ac764745ad24e272][^c-983c9284e5786773ac764745ad24e272]
 
 (1) The Social Security and Child Support (Decisions and Appeals) Regulations (Northern Ireland) 1999[^f00016] are amended in accordance with paragraphs (2) to (7).
 
@@ -167,7 +167,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (7) Omit Schedule 2D[^f00023] (effective dates for supersession of child support decisions).
 
-### 7. Amendment of the Child Support (Voluntary Payments) Regulations[^key-91ed76353908d043612201599329cd27][^key-91ed76353908d043612201599329cd27]
+### 7. Amendment of the Child Support (Voluntary Payments) Regulations[^c-91ed76353908d043612201599329cd27][^c-91ed76353908d043612201599329cd27]
 
 (1) The Child Support (Voluntary Payments) Regulations (Northern Ireland) 2001[^f00024] are amended in accordance with paragraphs (2) and (3).
 
@@ -179,7 +179,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (3) In regulation 2(1) (voluntary payment) in sub-paragraph (c) omit the words from “, and for this purpose” to the end.
 
-### 8. Amendment of the Child Support Information Regulations[^key-f53ecd39fb24d567581cefb4f75600a3][^key-f53ecd39fb24d567581cefb4f75600a3]
+### 8. Amendment of the Child Support Information Regulations[^c-f53ecd39fb24d567581cefb4f75600a3][^c-f53ecd39fb24d567581cefb4f75600a3]
 
 (1) The Child Support Information Regulations (Northern Ireland) 2008[^f00026] are amended in accordance with paragraphs (2) to (4).
 
@@ -243,13 +243,13 @@ The Department for Social Development makes the following Regulations in exercis
 
 ## PART 4 — Revocations, Savings and Transitional Provision
 
-### 9. Revocations[^key-fd6216f7e44a728dac441b11ccc44e4c][^key-9d25895c8318c68c5288c64c376a9d93][^key-9d25895c8318c68c5288c64c376a9d93]
+### 9. Revocations[^c-fd6216f7e44a728dac441b11ccc44e4c][^c-9d25895c8318c68c5288c64c376a9d93][^c-9d25895c8318c68c5288c64c376a9d93]
 
-(1)[^key-fd6216f7e44a728dac441b11ccc44e4c] Regulations 2(4)(a) and (e) and 4(2) and (6) of the Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2009[^f00029] are revoked.
+(1)[^c-fd6216f7e44a728dac441b11ccc44e4c] Regulations 2(4)(a) and (e) and 4(2) and (6) of the Child Support (Miscellaneous Amendments No. 2) Regulations (Northern Ireland) 2009[^f00029] are revoked.
 
-(2)[^key-9d25895c8318c68c5288c64c376a9d93] The provisions specified in column (1) of the Schedule are revoked to the extent specified in column (3).
+(2)[^c-9d25895c8318c68c5288c64c376a9d93] The provisions specified in column (1) of the Schedule are revoked to the extent specified in column (3).
 
-### 10. Savings – arrears-only case[^key-4c01afff4caf11bb0b470a841b7c4e34]
+### 10. Savings – arrears-only case[^c-4c01afff4caf11bb0b470a841b7c4e34]
 
 (1) Regulations 8, 10, 11 and 20 of the Collection and Enforcement Regulations continue to apply in relation to an arrears-only case, as they were in operation immediately before the amendments made by regulation 4(3) to (6) come into operation, until notice is given to the non-resident parent by the Department that the provisions of the Regulations (as amended by regulation 4(3) to (6)) apply to that case.
 
@@ -257,7 +257,7 @@ The Department for Social Development makes the following Regulations in exercis
 
 (3) For the purposes of this regulation any reference to a non-resident parent includes reference to an absent parent.
 
-### 11. Transitional provisions[^key-fa94853f74fc8eac69f91262cc4ebc9d][^key-bb98972157ed52b5320a35db0056f00d][^key-fa94853f74fc8eac69f91262cc4ebc9d]
+### 11. Transitional provisions[^c-fa94853f74fc8eac69f91262cc4ebc9d][^c-bb98972157ed52b5320a35db0056f00d][^c-fa94853f74fc8eac69f91262cc4ebc9d]
 
 (1) Where, in any case, a deduction from earnings order was made before the date on which the Collection and Enforcement Regulations, as amended by regulation 4(3) to (6) apply in relation to that case, this regulation shall apply in respect of that order.
 
@@ -265,11 +265,11 @@ The Department for Social Development makes the following Regulations in exercis
 
 - (a) the order continues to take effect for the purposes of any deductions which are required to be made under the order until it is discharged or lapses;
 - (b) the Collection and Enforcement Regulations, as they were in operation before the amendments made by regulation 4(3) to (6) came into operation, continue to apply in relation to the order until it is discharged or lapses; and
-- (c)[^key-d5c4e8b4fda6afb9b3ad8c66aefdf787] the order is to be treated as discharged, if it has not otherwise lapsed or been discharged, either—
+- (c)[^c-d5c4e8b4fda6afb9b3ad8c66aefdf787] the order is to be treated as discharged, if it has not otherwise lapsed or been discharged, either—
   - (i) in a case where there are old scheme arrears, on the date on which the old scheme arrears have been transferred to the computer system on which cases where child support maintenance calculated under the new scheme rules are administered by the Department, or
   - (ii) in a case where there are no old scheme arrears, on the date on which the first deduction from earnings order made under the Collection and Enforcement Regulations as amended by regulation 4(3) to (6) takes effect.
 
-(3)[^key-c34d3bc81fd254d10020316544c6d08c] In this regulation—
+(3)[^c-c34d3bc81fd254d10020316544c6d08c] In this regulation—
 
 - “calculated under the new scheme rules” means calculated in accordance with Part 1 of Schedule 1 to the Child Support Order (Northern Ireland) 1991 as amended by paragraph 2 of Schedule 1 to the Act;
 - “old scheme arrears” means the amount of child support maintenance calculated other that in accordance with the new scheme rules which is overdue and which remains outstanding.
@@ -282,7 +282,7 @@ Anne McCleary
 
 A senior officer of the Department for Social Development
 
-## SCHEDULE — Revocations[^key-764259e72f2f001b5ea6071ea2fec18f][^key-764259e72f2f001b5ea6071ea2fec18f]
+## SCHEDULE — Revocations[^c-764259e72f2f001b5ea6071ea2fec18f][^c-764259e72f2f001b5ea6071ea2fec18f]
 
 Regulation 9(2)
 
@@ -409,17 +409,17 @@ Another of the enabling provisions, Article 29 of the Order, is amended by secti
 
 [^f00003]: Footnote: [2008 c. 10 (N.I.)](https://www.legislation.gov.uk/nia/2008/10)
 
-[^key-6dd6c3ee704f1347a87c9eae334918c2]: Commencement: Reg. 1 in operation at 10.12.2012, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/a)
+[^c-6dd6c3ee704f1347a87c9eae334918c2]: Commencement: Reg. 1 in operation at 10.12.2012, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/a)
 
-[^key-0ba6c1cdbeb706d41fa28aef1f4b02ec]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/2) substituted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [9](https://www.legislation.gov.uk/nisr/2013/182/regulation/9)
+[^c-0ba6c1cdbeb706d41fa28aef1f4b02ec]: Textual amendment: Words in [reg. 1(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/2) substituted (30.9.2013) by [The Child Support (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/182)](https://www.legislation.gov.uk/nisr/2013/182), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2013/182/regulation/1/2), [9](https://www.legislation.gov.uk/nisr/2013/182/regulation/9)
 
 [^f00004]: Footnote: [S.R. 1992 No. 390](https://www.legislation.gov.uk/nisr/1992/390)
 
-[^key-0a6545a418fb1889c90ace94fec999d3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2012/438/regulation/3) revoked (10.12.2012) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
+[^c-0a6545a418fb1889c90ace94fec999d3]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2012/438/regulation/3) revoked (10.12.2012) by [The Child Support (Meaning of Child and New Calculation Rules) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2012 (S.R. 2012/438)](https://www.legislation.gov.uk/nisr/2012/438), [regs. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c), [9(2)](https://www.legislation.gov.uk/nisr/2012/438/regulation/9/2), [Sch.](https://www.legislation.gov.uk/nisr/2012/438/schedule)
 
-[^key-16189407c03187f02247ba6db5e654e2]: Commencement: Reg. 4(3)-(6) comes into force in accordance with reg. 1(1)(c)(d)
+[^c-16189407c03187f02247ba6db5e654e2]: Commencement: Reg. 4(3)-(6) comes into force in accordance with reg. 1(1)(c)(d)
 
-[^key-ca44de5227725cf148e1276bd3bcc04d]: Commencement: [Reg. 4(3)-(6)](https://www.legislation.gov.uk/nisr/2012/438/regulation/4/3) in operation at 25.11.2013 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/d)
+[^c-ca44de5227725cf148e1276bd3bcc04d]: Commencement: [Reg. 4(3)-(6)](https://www.legislation.gov.uk/nisr/2012/438/regulation/4/3) in operation at 25.11.2013 for specified purposes, see [reg. 1(1)(d)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/d)
 
 [^f00007]: Footnote: Regulation 4 was amended by regulation 4(2) of [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162)
 
@@ -431,7 +431,7 @@ Another of the enabling provisions, Article 29 of the Order, is amended by secti
 
 [^f00011]: Footnote: Regulations 25C and 25G were inserted by regulation 2 of [S.R. 2009 No. 286](https://www.legislation.gov.uk/nisr/2009/286)
 
-[^key-584ed46190a7d27a836885416a0eedc0]: Commencement: Reg. 5 comes into force in accordance with reg. 1(1)(c)(d)
+[^c-584ed46190a7d27a836885416a0eedc0]: Commencement: Reg. 5 comes into force in accordance with reg. 1(1)(c)(d)
 
 [^f00012]: Footnote: [S.R. 1992 No. 466](https://www.legislation.gov.uk/nisr/1992/466); relevant amending Regulations are [S.R. 1995 No. 162](https://www.legislation.gov.uk/nisr/1995/162), [S.R. 2001 No. 16](https://www.legislation.gov.uk/nisr/2001/16) and [S.R. 2005 No. 125](https://www.legislation.gov.uk/nisr/2005/125)
 
@@ -441,7 +441,7 @@ Another of the enabling provisions, Article 29 of the Order, is amended by secti
 
 [^f00015]: Footnote: Regulation 8A is inserted by regulation 4 of [S.R. 2005 No. 125](https://www.legislation.gov.uk/nisr/2005/125)
 
-[^key-983c9284e5786773ac764745ad24e272]: Commencement: Reg. 6 comes into force in accordance with reg. 1(1)(c)(d)
+[^c-983c9284e5786773ac764745ad24e272]: Commencement: Reg. 6 comes into force in accordance with reg. 1(1)(c)(d)
 
 [^f00016]: Footnote: [S.R. 1999 No. 162](https://www.legislation.gov.uk/nisr/1999/162); relevant amending Regulations are [S.R. 2002 No. 164](https://www.legislation.gov.uk/nisr/2002/164), [S.R. 2004 No. 428](https://www.legislation.gov.uk/nisr/2004/428), [S.R. 2005 No. 46](https://www.legislation.gov.uk/nisr/2005/46), [S.R. 2006 No. 273](https://www.legislation.gov.uk/nisr/2006/273), [S.R. 2008 Nos. 404](https://www.legislation.gov.uk/nisr/2008/404) and [409](https://www.legislation.gov.uk/nisr/2008/409), [S.R. 2009 No. 133](https://www.legislation.gov.uk/nisr/2009/133) and [S.R. 2011 No. 266](https://www.legislation.gov.uk/nisr/2011/266)
 
@@ -459,13 +459,13 @@ Another of the enabling provisions, Article 29 of the Order, is amended by secti
 
 [^f00023]: Footnote: Schedule 2D is inserted by regulation 6(9) of [S.R. 2009 No. 133](https://www.legislation.gov.uk/nisr/2009/133)
 
-[^key-91ed76353908d043612201599329cd27]: Commencement: Reg. 7 comes into force in accordance with reg. 1(1)(c)(d)
+[^c-91ed76353908d043612201599329cd27]: Commencement: Reg. 7 comes into force in accordance with reg. 1(1)(c)(d)
 
 [^f00024]: Footnote: [S.R. 2001 No. 21](https://www.legislation.gov.uk/nisr/2001/21); relevant amending Regulations are [S.R. 2008 No. 404](https://www.legislation.gov.uk/nisr/2008/404)
 
 [^f00025]: Footnote: The definition of “relevant person” was amended by regulation 9 of [S.R. 2008 No. 404](https://www.legislation.gov.uk/nisr/2008/404)
 
-[^key-f53ecd39fb24d567581cefb4f75600a3]: Commencement: Reg. 8 comes into force in accordance with reg. 1(1)(c)(d)
+[^c-f53ecd39fb24d567581cefb4f75600a3]: Commencement: Reg. 8 comes into force in accordance with reg. 1(1)(c)(d)
 
 [^f00026]: Footnote: [S.R. 2008 No. 403](https://www.legislation.gov.uk/nisr/2008/403), to which there are amendments not relevant to these Regulations
 
@@ -473,20 +473,20 @@ Another of the enabling provisions, Article 29 of the Order, is amended by secti
 
 [^f00028]: Footnote: [2004 c. 12](https://www.legislation.gov.uk/ukpga/2004/12)
 
-[^key-fd6216f7e44a728dac441b11ccc44e4c]: Commencement: Reg. 9(1) in operation at 10.12.2012 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/b)
+[^c-fd6216f7e44a728dac441b11ccc44e4c]: Commencement: Reg. 9(1) in operation at 10.12.2012 for specified purposes, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/b)
 
-[^key-9d25895c8318c68c5288c64c376a9d93]: Commencement: Reg. 9(2) comes into force in accordance with reg. 1(1)(b)(c)
+[^c-9d25895c8318c68c5288c64c376a9d93]: Commencement: Reg. 9(2) comes into force in accordance with reg. 1(1)(b)(c)
 
 [^f00029]: Footnote: [S.R. 2009 No. 363](https://www.legislation.gov.uk/nisr/2009/363)
 
-[^key-4c01afff4caf11bb0b470a841b7c4e34]: Commencement: Reg. 10 in operation at 10.12.2012, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/a)
+[^c-4c01afff4caf11bb0b470a841b7c4e34]: Commencement: Reg. 10 in operation at 10.12.2012, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/a)
 
-[^key-fa94853f74fc8eac69f91262cc4ebc9d]: Commencement: Reg. 11 comes into force in accordance with reg. 1(1)(c)(d)
+[^c-fa94853f74fc8eac69f91262cc4ebc9d]: Commencement: Reg. 11 comes into force in accordance with reg. 1(1)(c)(d)
 
-[^key-bb98972157ed52b5320a35db0056f00d]: Commencement: Reg. 11 in operation at 10.12.2012 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c)(d)
+[^c-bb98972157ed52b5320a35db0056f00d]: Commencement: Reg. 11 in operation at 10.12.2012 for specified purposes, see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1/c)(d)
 
-[^key-d5c4e8b4fda6afb9b3ad8c66aefdf787]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/11/2/c) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Child Support (Deduction from Earnings Orders, Amendment and Modification and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/390)](https://www.legislation.gov.uk/nisr/2016/390), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/390/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2016/390/regulation/4/2)
+[^c-d5c4e8b4fda6afb9b3ad8c66aefdf787]: Textual amendment: [Reg. 11(2)(c)](https://www.legislation.gov.uk/nisr/2012/438/regulation/11/2/c) substituted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Child Support (Deduction from Earnings Orders, Amendment and Modification and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/390)](https://www.legislation.gov.uk/nisr/2016/390), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/390/regulation/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2016/390/regulation/4/2)
 
-[^key-c34d3bc81fd254d10020316544c6d08c]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/nisr/2012/438/regulation/11/3) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Child Support (Deduction from Earnings Orders, Amendment and Modification and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/390)](https://www.legislation.gov.uk/nisr/2016/390), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/390/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2016/390/regulation/4/3)
+[^c-c34d3bc81fd254d10020316544c6d08c]: Textual amendment: [Reg. 11(3)](https://www.legislation.gov.uk/nisr/2012/438/regulation/11/3) inserted (with effect in accordance with reg. 1(2) of the amending Rule) by [The Child Support (Deduction from Earnings Orders, Amendment and Modification and Miscellaneous Amendments) Regulations (Northern Ireland) 2016 (S.R. 2016/390)](https://www.legislation.gov.uk/nisr/2016/390), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/390/regulation/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2016/390/regulation/4/3)
 
-[^key-764259e72f2f001b5ea6071ea2fec18f]: Commencement: Sch. in operation at 3.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1)
+[^c-764259e72f2f001b5ea6071ea2fec18f]: Commencement: Sch. in operation at 3.12.2012, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2012/438/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Functions of Electoral Commission with respect to compliance[^key-2cc125b27209679792430d4424752ac4]
+## 38. Functions of Electoral Commission with respect to compliance[^c-2cc125b27209679792430d4424752ac4]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2cc125b27209679792430d4424752ac4]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/4/section/38) in force at 23.5.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/i)
+[^c-2cc125b27209679792430d4424752ac4]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2014/4/section/38) in force at 23.5.2014 by [S.I. 2014/1236](https://www.legislation.gov.uk/uksi/2014/1236), [art. 2(1)(i)](https://www.legislation.gov.uk/uksi/2014/1236/article/2/1/i)

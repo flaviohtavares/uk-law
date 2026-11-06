@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 201. Remuneration[^key-c7e6b7a7ee475561c98457f16cfbd944]
+## 201. Remuneration[^c-c7e6b7a7ee475561c98457f16cfbd944]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 7.16 of the 1991 Rules.
 
 ## Annotations
 
-[^key-c7e6b7a7ee475561c98457f16cfbd944]: Commencement: Rule 201 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-c7e6b7a7ee475561c98457f16cfbd944]: Commencement: Rule 201 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

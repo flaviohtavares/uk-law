@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 528ZA. Listing requirement: ownership by institutional investors[^key-6c74cdf105826684572f6d8213f411cf]
+## 528ZA. Listing requirement: ownership by institutional investors[^c-6c74cdf105826684572f6d8213f411cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,7 +42,7 @@ and, in relation to an entity within paragraph (a), (b) or (c), references to or
 
 (6) Where the assets of a partnership include ordinary share capital of a company, each partner is to be regarded as owning a proportion of that share capital equal to the partner’s proportionate interest in that ordinary share capital.
 
-(7) But subsection (6) does not apply in relation to a limited partnership if a person acting on behalf of it would be an institutional investor as a result of section 528(4A)(c)[^key-4c3da8e1ebd2ef5dc059982eba92cc6a].
+(7) But subsection (6) does not apply in relation to a limited partnership if a person acting on behalf of it would be an institutional investor as a result of section 528(4A)(c)[^c-4c3da8e1ebd2ef5dc059982eba92cc6a].
 
 (8) In subsection (4)—
 
@@ -51,6 +51,6 @@ and, in relation to an entity within paragraph (a), (b) or (c), references to or
 
 ## Annotations
 
-[^key-6c74cdf105826684572f6d8213f411cf]: Textual amendment: Ss. 528ZA, 528ZB inserted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 2(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/2/3), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
+[^c-6c74cdf105826684572f6d8213f411cf]: Textual amendment: Ss. 528ZA, 528ZB inserted (1.4.2022 in relation to accounting periods (within the meaning of Part 12 of CTA 2010) that begin on or after that date) by [Finance Act 2022 (c. 3)](https://www.legislation.gov.uk/ukpga/2022/3), [Sch. 3 paras. 2(3)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/2/3), [6(1)](https://www.legislation.gov.uk/ukpga/2022/3/schedule/3/paragraph/6/1)
 
-[^key-4c3da8e1ebd2ef5dc059982eba92cc6a]: Textual amendment: Words in [s. 528ZA(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/528ZA/7) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 4(7)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/4/7) (with [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/5))
+[^c-4c3da8e1ebd2ef5dc059982eba92cc6a]: Textual amendment: Words in [s. 528ZA(7)](https://www.legislation.gov.uk/ukpga/2010/4/section/528ZA/7) substituted (22.2.2024) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 7 para. 4(7)](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/4/7) (with [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2024/3/schedule/7/paragraph/5))

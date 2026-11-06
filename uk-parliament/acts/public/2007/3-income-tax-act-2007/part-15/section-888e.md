@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 888E. Interest on certain peer-to-peer lending[^key-d6caf2b969ef6b6412f7764a2aa4cceb]
+## 888E. Interest on certain peer-to-peer lending[^c-d6caf2b969ef6b6412f7764a2aa4cceb]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6caf2b969ef6b6412f7764a2aa4cceb]: Textual amendment: [S. 888E](https://www.legislation.gov.uk/ukpga/2007/3/section/888E) inserted (with effect in accordance with Sch. 5 para. 5(2) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2017/10/schedule/5/paragraph/3)
+[^c-d6caf2b969ef6b6412f7764a2aa4cceb]: Textual amendment: [S. 888E](https://www.legislation.gov.uk/ukpga/2007/3/section/888E) inserted (with effect in accordance with Sch. 5 para. 5(2) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [Sch. 5 para. 3](https://www.legislation.gov.uk/ukpga/2017/10/schedule/5/paragraph/3)

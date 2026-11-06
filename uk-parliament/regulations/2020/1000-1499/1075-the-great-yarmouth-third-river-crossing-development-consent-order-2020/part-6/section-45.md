@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 45. Closing the highway comprised in the new bridge and new bridge approaches[^key-13c1121f39ecb47a3a040d5b0d898525]
+## 45. Closing the highway comprised in the new bridge and new bridge approaches[^c-13c1121f39ecb47a3a040d5b0d898525]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-13c1121f39ecb47a3a040d5b0d898525]: Commencement: Art. 45 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-13c1121f39ecb47a3a040d5b0d898525]: Commencement: Art. 45 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)

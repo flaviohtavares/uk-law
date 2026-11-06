@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Excess assets remaining after winding up: power to distribute.[^key-4f0917227a9c6b4ec114d90f48286c4d]
+## 77. Excess assets remaining after winding up: power to distribute.[^c-4f0917227a9c6b4ec114d90f48286c4d]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f0917227a9c6b4ec114d90f48286c4d]: Textual amendment: [S. 77](https://www.legislation.gov.uk/ukpga/1995/26/section/77) repealed (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [10(6)](https://www.legislation.gov.uk/uksi/2006/745/article/10/6)
+[^c-4f0917227a9c6b4ec114d90f48286c4d]: Textual amendment: [S. 77](https://www.legislation.gov.uk/ukpga/1995/26/section/77) repealed (6.4.2006) by [The Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [arts. 1](https://www.legislation.gov.uk/uksi/2006/745/article/1), [10(6)](https://www.legislation.gov.uk/uksi/2006/745/article/10/6)

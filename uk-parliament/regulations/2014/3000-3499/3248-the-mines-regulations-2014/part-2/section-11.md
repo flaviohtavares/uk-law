@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Competence[^key-039b4c300a0084c26c34a09ab4142f8a]
+## 11. Competence[^c-039b4c300a0084c26c34a09ab4142f8a]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ The mine operator must ensure that—
 
 ## Annotations
 
-[^key-039b4c300a0084c26c34a09ab4142f8a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/3248/regulation/11) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-039b4c300a0084c26c34a09ab4142f8a]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2014/3248/regulation/11) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 308. Effect of unauthorised absence of patient subject to short-term detention certificate or certificate under section 114(2) or 115(2)[^key-3dd5b6100350436275a491624373633f]
+## 308. Effect of unauthorised absence of patient subject to short-term detention certificate or certificate under section 114(2) or 115(2)[^c-3dd5b6100350436275a491624373633f]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Where the unauthorised absence of a patient who is subject to a short-term deten
 
 ## Annotations
 
-[^key-3dd5b6100350436275a491624373633f]: Commencement: [S. 308](https://www.legislation.gov.uk/asp/2003/13/section/308) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)
+[^c-3dd5b6100350436275a491624373633f]: Commencement: [S. 308](https://www.legislation.gov.uk/asp/2003/13/section/308) in force at 5.10.2005 by [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by S.S.I. 2005/375, art. 2 and as amended (22.9.2005) by S.S.I. 2005/459, art. 2)

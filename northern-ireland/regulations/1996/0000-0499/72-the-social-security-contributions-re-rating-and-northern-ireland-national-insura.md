@@ -42,7 +42,7 @@ Whereas the Secretary of State for Social Security has made an Order[^f00001] un
 
 Now, therefore, the Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by section 129 of the Social Security Administration (Northern Ireland) Act 1992[^f00004] and Article 4(3) of the Social Security (Northern Ireland) Order 1993[^f00005] and of all other powers enabling it in that behalf, and with the consent of the Department of Finance and Personnel in so far as relates to Article 6 of this Order, hereby makes the following Order:
 
-## 1. Citation, commencement and interpretation[^key-4f0b2d6ca8c48daa633400f1a76df845]
+## 1. Citation, commencement and interpretation[^c-4f0b2d6ca8c48daa633400f1a76df845]
 
 (1) This Order may be cited as the Social Security (Contributions) (Re-rating and Northern Ireland National Insurance Fund Payments) Order (Northern Ireland) 1996 and shall come into operation on 6th April 1996.
 
@@ -50,7 +50,7 @@ Now, therefore, the Department of Health and Social Services for Northern Irelan
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to this Order as it applies to a Measure of the Assembly.
 
-## 2. Weekly earnings figures for secondary earnings brackets[^key-9598a65a694b0fd2ab2724c92f560065]
+## 2. Weekly earnings figures for secondary earnings brackets[^c-9598a65a694b0fd2ab2724c92f560065]
 
 In section 9(3) of the Act[^f00008] (secondary earnings brackets)—
 
@@ -59,26 +59,26 @@ In section 9(3) of the Act[^f00008] (secondary earnings brackets)—
 - (c) for the figures £150·00 and £204·99 specified in respect of Bracket 3 there shall be substituted respectively the figures £155·00 and £209·99;
 - (d) for the figure £205·00 specified in respect of Bracket 4 there shall be substituted the figure £210·00.
 
-## 3. Rate of, and small earnings exception from, Class 2 contributions[^key-2211d6c41a6c384ad82523f77ae3983e]
+## 3. Rate of, and small earnings exception from, Class 2 contributions[^c-2211d6c41a6c384ad82523f77ae3983e]
 
 In section 11 of the Act[^f00009] (Class 2 contributions)—
 
 - (a) in subsection (1) (weekly rate) for “£5·75” there shall be substituted “£6·05”;
 - (b) in subsection (4) (small earnings exception) for “£3,260” there shall be substituted “£3,430”.
 
-## 4. Amount of Class 3 contributions[^key-60d048713f32322863232ef6fea40907]
+## 4. Amount of Class 3 contributions[^c-60d048713f32322863232ef6fea40907]
 
 In section 13(1) of the Act[^f00010] (amount of Class 3 contributions) for “£5·65” there shall be substituted “£5·95”.
 
-## 5. Amount of, and lower and upper limits for, Class 4 contributions[^key-0d3650d9d041ee2cbd04684d41ebf58f]
+## 5. Amount of, and lower and upper limits for, Class 4 contributions[^c-0d3650d9d041ee2cbd04684d41ebf58f]
 
 In sections 15(3) and 18(1) of the Act[^f00011] (Class 4 contributions recoverable under the Income Tax Acts and under regulations)—
 
-- (a)[^key-2e04269dc6891005b4915b9ca9fcab61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-2e04269dc6891005b4915b9ca9fcab61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for “£6,640” (lower limit) wherever it appears there shall be substituted in each of those sections “£6,860”;
 - (c) for “£22,880” (upper limit) there shall be substituted in each of those sections “£23,660”.
 
-## 6. Prescribed percentage of estimated benefit expenditure[^key-d2d07c9cccb227356800d746adfccfff]
+## 6. Prescribed percentage of estimated benefit expenditure[^c-d2d07c9cccb227356800d746adfccfff]
 
 Article 4(3) of the Social Security (Northern Ireland) Order 1993 (payments into National Insurance Fund out of appropriated money) shall have effect with respect to the tax year 1996-97 and the prescribed percentage of estimated benefit expenditure for the financial year ending in that tax year shall be 6 per cent.
 
@@ -124,28 +124,28 @@ The Order provides for Article 4(3) of the Social Security (Northern Ireland) Or
 
 [^f00005]: Footnote: S.I. [1993/592 (N.I. 2)](https://www.legislation.gov.uk/nisi/1993/592)
 
-[^key-4f0b2d6ca8c48daa633400f1a76df845]: Commencement: Art. 1 in operation at 6.4.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/72/article/1/1)
+[^c-4f0b2d6ca8c48daa633400f1a76df845]: Commencement: Art. 1 in operation at 6.4.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/72/article/1/1)
 
 [^f00006]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); relevant amending provisions are [S.R. 1994 No. 79](https://www.legislation.gov.uk/nisr/1994/79) and [S.R. 1995 No. 79](https://www.legislation.gov.uk/nisr/1995/79)
 
 [^f00007]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-9598a65a694b0fd2ab2724c92f560065]: Commencement: Art. 2 in operation at 6.4.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/72/article/1/1)
+[^c-9598a65a694b0fd2ab2724c92f560065]: Commencement: Art. 2 in operation at 6.4.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/72/article/1/1)
 
 [^f00008]: Footnote: Section 9(3) was further amended by Article 2 of [S.R. 1995 No. 79](https://www.legislation.gov.uk/nisr/1995/79)
 
-[^key-2211d6c41a6c384ad82523f77ae3983e]: Commencement: Art. 3 in operation at 6.4.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/72/article/1/1)
+[^c-2211d6c41a6c384ad82523f77ae3983e]: Commencement: Art. 3 in operation at 6.4.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/72/article/1/1)
 
 [^f00009]: Footnote: Section 11(1) and (4) was further amended by Article 3 of [S.R. 1995 No. 79](https://www.legislation.gov.uk/nisr/1995/79)
 
-[^key-60d048713f32322863232ef6fea40907]: Commencement: Art. 4 in operation at 6.4.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/72/article/1/1)
+[^c-60d048713f32322863232ef6fea40907]: Commencement: Art. 4 in operation at 6.4.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/72/article/1/1)
 
 [^f00010]: Footnote: Section 13(1) was further amended by Article 4 of [S.R. 1995 No. 79](https://www.legislation.gov.uk/nisr/1995/79)
 
-[^key-0d3650d9d041ee2cbd04684d41ebf58f]: Commencement: Art. 5 in operation at 6.4.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/72/article/1/1)
+[^c-0d3650d9d041ee2cbd04684d41ebf58f]: Commencement: Art. 5 in operation at 6.4.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/72/article/1/1)
 
 [^f00011]: Footnote: The amount of contribution was amended by Article 5 of [S.R. 1994 No. 79](https://www.legislation.gov.uk/nisr/1994/79) and the lower and upper limits were further amended by Article 5 of [S.R. 1995 No. 79](https://www.legislation.gov.uk/nisr/1995/79)
 
-[^key-2e04269dc6891005b4915b9ca9fcab61]: Textual amendment: [Art. 5(a)](https://www.legislation.gov.uk/nisr/1996/72/article/5/a) revoked (with effect in accordance with s. 8(2) of the amending Act) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2002/19/section/8/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/19/schedule/2)
+[^c-2e04269dc6891005b4915b9ca9fcab61]: Textual amendment: [Art. 5(a)](https://www.legislation.gov.uk/nisr/1996/72/article/5/a) revoked (with effect in accordance with s. 8(2) of the amending Act) by [National Insurance Contributions Act 2002 (c. 19)](https://www.legislation.gov.uk/ukpga/2002/19), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2002/19/section/8/2), [Sch. 2](https://www.legislation.gov.uk/ukpga/2002/19/schedule/2)
 
-[^key-d2d07c9cccb227356800d746adfccfff]: Commencement: Art. 6 in operation at 6.4.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/72/article/1/1)
+[^c-d2d07c9cccb227356800d746adfccfff]: Commencement: Art. 6 in operation at 6.4.1996, see [art. 1(1)](https://www.legislation.gov.uk/nisr/1996/72/article/1/1)

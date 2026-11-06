@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Submission of supplementary bids form to OFCOM[^key-3fc393ee3946883da78ba56f7cd98038]
+## 61. Submission of supplementary bids form to OFCOM[^c-3fc393ee3946883da78ba56f7cd98038]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3fc393ee3946883da78ba56f7cd98038]: Commencement: Reg. 61 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)
+[^c-3fc393ee3946883da78ba56f7cd98038]: Commencement: Reg. 61 in force at 23.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2817/regulation/1/1)

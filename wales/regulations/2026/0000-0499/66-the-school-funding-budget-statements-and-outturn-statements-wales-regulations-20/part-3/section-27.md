@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Correction of errors[^key-92529cc1fdd6f6ca188d276f7e9a8925]
+## 27. Correction of errors[^c-92529cc1fdd6f6ca188d276f7e9a8925]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ A local authority may at any time during a funding period redetermine a schoolâ€
 
 ## Annotations
 
-[^key-92529cc1fdd6f6ca188d276f7e9a8925]: Commencement: Reg. 27 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-92529cc1fdd6f6ca188d276f7e9a8925]: Commencement: Reg. 27 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)

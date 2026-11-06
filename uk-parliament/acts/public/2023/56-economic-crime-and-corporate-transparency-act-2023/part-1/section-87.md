@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Power to require businesses to report discrepancies[^key-fbd0383f363ae3b76e3765738d6310e7][^key-3a2cc63b0a9fc206e9986d6be690ebac]
+## 87. Power to require businesses to report discrepancies[^c-fbd0383f363ae3b76e3765738d6310e7][^c-3a2cc63b0a9fc206e9986d6be690ebac]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,6 +59,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fbd0383f363ae3b76e3765738d6310e7]: Commencement: S. 87 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-fbd0383f363ae3b76e3765738d6310e7]: Commencement: S. 87 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-3a2cc63b0a9fc206e9986d6be690ebac]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2023/56/section/87) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z29)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z29)
+[^c-3a2cc63b0a9fc206e9986d6be690ebac]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2023/56/section/87) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z29)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z29)

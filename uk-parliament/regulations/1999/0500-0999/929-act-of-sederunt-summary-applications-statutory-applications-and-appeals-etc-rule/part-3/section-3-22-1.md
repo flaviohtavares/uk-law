@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.22.1. Interpretation[^key-48b5c22c289dce7141533ab6d2b08ce0]
+## 3.22.1. Interpretation[^c-48b5c22c289dce7141533ab6d2b08ce0]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48b5c22c289dce7141533ab6d2b08ce0]: Textual amendment: Ch. 3 Pt. 22 revoked (28.10.2004) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Antisocial Behaviour etc. (Scotland) Act 2004) 2004 (S.S.I. 2004/455)](https://www.legislation.gov.uk/ssi/2004/455), [paras. 1(1)(b)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/1/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/2/2) (with [para. 2(3)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/2/3))
+[^c-48b5c22c289dce7141533ab6d2b08ce0]: Textual amendment: Ch. 3 Pt. 22 revoked (28.10.2004) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Antisocial Behaviour etc. (Scotland) Act 2004) 2004 (S.S.I. 2004/455)](https://www.legislation.gov.uk/ssi/2004/455), [paras. 1(1)(b)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/1/1/b), [2(2)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/2/2) (with [para. 2(3)](https://www.legislation.gov.uk/ssi/2004/455/paragraph/2/3))

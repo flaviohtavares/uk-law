@@ -28,7 +28,7 @@ summary: ''
 - (d) on or under an offshore marine installation; or
 - (e) on any aircraft above an offshore marine installation, in so far as the presence of the aircraft above that installation is for purposes connected with the use of the installation.
 
-(2) Regulations 40, 42, 43 and 49 do not apply to any person on a third country ship unless the United Kingdom is entitled under international law to exercise those powers without the consent of the flag state[^key-5d148a2e433bf84e4de66f8ab721a4a1].
+(2) Regulations 40, 42, 43 and 49 do not apply to any person on a third country ship unless the United Kingdom is entitled under international law to exercise those powers without the consent of the flag state[^c-5d148a2e433bf84e4de66f8ab721a4a1].
 
 (3) Regulation 45(3) only applies in relation to a person on a third country ship where—
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5d148a2e433bf84e4de66f8ab721a4a1]: Textual amendment: Words in [reg. 39(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/39/2) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [54](https://www.legislation.gov.uk/uksi/2019/579/regulation/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d148a2e433bf84e4de66f8ab721a4a1]: Textual amendment: Words in [reg. 39(2)](https://www.legislation.gov.uk/uksi/2017/1013/regulation/39/2) inserted (31.12.2020) by [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [54](https://www.legislation.gov.uk/uksi/2019/579/regulation/54); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

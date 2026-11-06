@@ -52,11 +52,11 @@ Coming into force
 
 The Scottish Ministers, in exercise of the powers conferred by articles 35, 36, 52, 53, 54, 68 and 77(3) of the Scotland Act 1998 (River Tweed) Order 2006[^f00001], and of all other powers enabling them in that behalf, hereby make the following Order:
 
-## 1. Citation and commencement[^key-91aedd4c3c03aa8b691e9e4b36062f6c]
+## 1. Citation and commencement[^c-91aedd4c3c03aa8b691e9e4b36062f6c]
 
 This Order may be cited as the Tweed Regulation Order 2007 and shall come into force on 15th February 2007.
 
-## 2. Interpretation[^key-15aa7a15fa86affb742f5b122e6233ca]
+## 2. Interpretation[^c-15aa7a15fa86affb742f5b122e6233ca]
 
 (1) In this Order–
 
@@ -68,33 +68,33 @@ This Order may be cited as the Tweed Regulation Order 2007 and shall come into f
 
 (2) Unless the context otherwise requires, any reference in this Order to a river includes its tributary streams.
 
-## 3. Annual close time order[^key-8949681519682ea2dfaa76bee9efd631]
+## 3. Annual close time order[^c-8949681519682ea2dfaa76bee9efd631]
 
-(1) The annual close time for salmon fishing extends from 15th September until 31st March[^key-2d54cc353a4fca0614a7adacf94dc41a] of the following year, both dates inclusive[^f00002].
+(1) The annual close time for salmon fishing extends from 15th September until 31st March[^c-2d54cc353a4fca0614a7adacf94dc41a] of the following year, both dates inclusive[^f00002].
 
-(2) Fishing for and taking salmon by rod and line (but only with the artificial fly) is permitted from 15th September until 30th November, and from 1st February until 31st March[^key-ed01782584f2a64f23c57f8df7639d19], all dates inclusive.
+(2) Fishing for and taking salmon by rod and line (but only with the artificial fly) is permitted from 15th September until 30th November, and from 1st February until 31st March[^c-ed01782584f2a64f23c57f8df7639d19], all dates inclusive.
 
-(3)[^key-0d68748a4600263e37bdc88376421b54] No person may retain any salmon caught by rod and line in inland waters[^key-f1023df00fef0ded86ae41200b1e2ece] during the period from 1st February until 31st March, both dates inclusive.
+(3)[^c-0d68748a4600263e37bdc88376421b54] No person may retain any salmon caught by rod and line in inland waters[^c-f1023df00fef0ded86ae41200b1e2ece] during the period from 1st February until 31st March, both dates inclusive.
 
 (4) In paragraph (3) “retain” means failing to return a fish at once to the river or other water from which it came and with the least possible injury.
 
-## 4. Weekly close time[^key-9eab6169dea396f9334447f3ba3261f2]
+## 4. Weekly close time[^c-9eab6169dea396f9334447f3ba3261f2]
 
 (1) The weekly close time for salmon fishing shall extend from 6 pm on Friday until 6 am on the following Monday.
 
 (2) Fishing for and taking salmon by rod and line is permitted on Friday, Saturday and Monday during the weekly close time.
 
-## 5. Prohibition of sale in Scotland of salmon taken by rod and line[^key-541710ec3be34de696d126223072e996]
+## 5. Prohibition of sale in Scotland of salmon taken by rod and line[^c-541710ec3be34de696d126223072e996]
 
 In that part of the Tweed district lying within Scotland no person shall sell, offer or expose for sale any salmon that has been taken by rod and line.
 
-## 6. Marking of boats[^key-5126102e776f6c4e4b07055915ead6bc]
+## 6. Marking of boats[^c-5126102e776f6c4e4b07055915ead6bc]
 
 (1) Every owner and occupier of a fishery within or of land adjoining the waters of the district who uses any boat in the district for the purpose of fishing or any other purpose shall ensure that the name and surname of the owner or occupier and number of the boat is painted on the boat, either in white on black or in black on white, and in letters not less than 5 cm high.
 
 (2) The Commission may from time to time notify in writing the owner or occupier or the agent of the owner or occupier of all boats in the district used for fishing with nets that such boats are to be painted or marked with a colour or mark and every owner and occupier of every fishery using such a boat shall be bound, after such notification, to comply with that notification previous to the commencement of the next fishing season.
 
-## 7. Definition of methods of net fishing[^key-6f7f14710a065a048eb49c4a8e19628d]
+## 7. Definition of methods of net fishing[^c-6f7f14710a065a048eb49c4a8e19628d]
 
 For the purposes of article 22 of the principal Order–
 
@@ -108,7 +108,7 @@ For the purposes of article 22 of the principal Order–
   - (i) no part of the bag net, fly net or other stake net, except mooring warps and anchors, shall extend seawards beyond 1300 metres from the mean low water mark; and
   - (ii) no part of the net or trap is designed or constructed for the purpose of catching fish by enmeshing them.
 
-## 8. Regulation of bag nets, fly nets or other stake nets[^key-aea93ae2c1073ea9f0a7214f60f0ec63]
+## 8. Regulation of bag nets, fly nets or other stake nets[^c-aea93ae2c1073ea9f0a7214f60f0ec63]
 
 All bag nets, fly nets or other stake nets set or placed beyond the estuary limits of any river in the district shall be subject to the following provisions–
 
@@ -119,25 +119,25 @@ All bag nets, fly nets or other stake nets set or placed beyond the estuary limi
 - (e) the leader of any bag net, fly net or other stake net shall not exceed 300 m in length; and
 - (f) the nets used in the formation and construction of bag nets, fly nets or other stake nets shall not comprise monofilament netting.
 
-## 9. Regulation of size of meshes[^key-444c14dfe202191127fcb737136ca1a5]
+## 9. Regulation of size of meshes[^c-444c14dfe202191127fcb737136ca1a5]
 
 (1) Subject to the provisions of this article it shall not be lawful for the purpose of fishing for salmon to shoot, draw or use in the district any net of which the meshes are less than 90 mm.
 
 (2) Paragraph (1) does not apply to nets used solely for the purpose of landing fish taken by rod and line.
 
-(3) For the purposes of this article mesh size shall be measured in accordance with Commission Regulation[^key-b1cb640c68a3e6476bddbbded8c03593] [(EC) No 517/2008](https://www.legislation.gov.uk/eur/2008/517) laying down detailed rules for the implementation of Council Regulation [(EC) No 850/98](https://www.legislation.gov.uk/eur/1998/850) as regards the determination of the mesh size and assessing the thickness of twine of fishing nets.
+(3) For the purposes of this article mesh size shall be measured in accordance with Commission Regulation[^c-b1cb640c68a3e6476bddbbded8c03593] [(EC) No 517/2008](https://www.legislation.gov.uk/eur/2008/517) laying down detailed rules for the implementation of Council Regulation [(EC) No 850/98](https://www.legislation.gov.uk/eur/1998/850) as regards the determination of the mesh size and assessing the thickness of twine of fishing nets.
 
-## 10. Prohibited baits and lures and area of application[^key-abd9977fd26d4cc161a92bf63b8f0c7a]
+## 10. Prohibited baits and lures and area of application[^c-abd9977fd26d4cc161a92bf63b8f0c7a]
 
 Natural prawns and shrimps (whether fresh or preserved, dyed or natural colour) and any part thereof are, in relation to the River Tweed, specified as prohibited for the purposes of the definition of “rod and line” in article 25 of the principal Order.
 
-## 11. Specification of baits and lures[^key-7f948bf6a35fe1e5aa1dbd2a45c98a44]
+## 11. Specification of baits and lures[^c-7f948bf6a35fe1e5aa1dbd2a45c98a44]
 
 (1) Any worm (whether fresh or preserved) and any part thereof is hereby specified as prohibited bait for the purposes of the definition of “rod and line” in article 25 of the principal Order.
 
 (2) Any lure having more than one hook (other than a lone double, or lone treble, hook) attached to it is hereby specified as a prohibited lure for the purposes of the definition of “rod and line” in article 25 of the principal Order.
 
-## 12. Areas of application[^key-466d986127c7a4ec0af554de9b2ad748]
+## 12. Areas of application[^c-466d986127c7a4ec0af554de9b2ad748]
 
 Article 11 applies to the following areas–
 
@@ -150,7 +150,7 @@ Article 11 applies to the following areas–
   - (iv) the River Till downstream from (and including) the Twizel Cauld; and
   - (v) the River Whiteadder downstream from (and including) the Newmills Cauld.
 
-## 13. Protection order[^key-31ae60b5fb53c19924bcb5cdb1ad6142]
+## 13. Protection order[^c-31ae60b5fb53c19924bcb5cdb1ad6142]
 
 (1) Fishing for or taking freshwater fish in the inland waters in the area prescribed in paragraph (2) without legal right or without permission from a person having such a right, is hereby prohibited.
 
@@ -160,35 +160,35 @@ Article 11 applies to the following areas–
 
 (4) For the purposes of this article “inland waters” has the meaning given in articles 68 and 69 of the principal Order.
 
-## 14. Application[^key-81924256b86656c21cdd6d3ff37a4d01]
+## 14. Application[^c-81924256b86656c21cdd6d3ff37a4d01]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Dams[^key-81924256b86656c21cdd6d3ff37a4d01]
+## 15. Dams[^c-81924256b86656c21cdd6d3ff37a4d01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Fish passes[^key-81924256b86656c21cdd6d3ff37a4d01]
+## 16. Fish passes[^c-81924256b86656c21cdd6d3ff37a4d01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 17. Lades[^key-81924256b86656c21cdd6d3ff37a4d01]
+## 17. Lades[^c-81924256b86656c21cdd6d3ff37a4d01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 18. Screens[^key-81924256b86656c21cdd6d3ff37a4d01]
+## 18. Screens[^c-81924256b86656c21cdd6d3ff37a4d01]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 19. Installation, maintenance etc.[^key-81924256b86656c21cdd6d3ff37a4d01]
+## 19. Installation, maintenance etc.[^c-81924256b86656c21cdd6d3ff37a4d01]
 
 **No longer in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 20. Revocations[^key-092c0f663834524e6b50ff3dbd3d4529]
+## 20. Revocations[^c-092c0f663834524e6b50ff3dbd3d4529]
 
 The instruments specified in the Schedule to this Order are revoked in so far as they apply to the Tweed district.
 
@@ -200,7 +200,7 @@ St Andrew’s House,
 
 Edinburgh
 
-## SCHEDULE — Instruments revoked[^key-1a009889859d1eafdb3472fa572a62c0]
+## SCHEDULE — Instruments revoked[^c-1a009889859d1eafdb3472fa572a62c0]
 
 Article 20
 
@@ -232,49 +232,49 @@ No Regulatory Impact Assessment has been prepared in respect of this Order.
 
 [^f00001]: Footnote: S.I. [2006/2913](https://www.legislation.gov.uk/uksi/2006/2913).
 
-[^key-91aedd4c3c03aa8b691e9e4b36062f6c]: Commencement: Art. 1 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-91aedd4c3c03aa8b691e9e4b36062f6c]: Commencement: Art. 1 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-15aa7a15fa86affb742f5b122e6233ca]: Commencement: Art. 2 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-15aa7a15fa86affb742f5b122e6233ca]: Commencement: Art. 2 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-8949681519682ea2dfaa76bee9efd631]: Commencement: Art. 3 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-8949681519682ea2dfaa76bee9efd631]: Commencement: Art. 3 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-2d54cc353a4fca0614a7adacf94dc41a]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/19/article/3/1) substituted (31.1.2015) by [The Tweed Regulation Amendment Order 2015 (S.S.I. 2015/11)](https://www.legislation.gov.uk/ssi/2015/11), [arts. 1](https://www.legislation.gov.uk/ssi/2015/11/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2015/11/article/2/a)
+[^c-2d54cc353a4fca0614a7adacf94dc41a]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/ssi/2007/19/article/3/1) substituted (31.1.2015) by [The Tweed Regulation Amendment Order 2015 (S.S.I. 2015/11)](https://www.legislation.gov.uk/ssi/2015/11), [arts. 1](https://www.legislation.gov.uk/ssi/2015/11/article/1), [2(a)](https://www.legislation.gov.uk/ssi/2015/11/article/2/a)
 
 [^f00002]: Footnote: Articles 3 and 4 of this Order replace the provisions of article 76(2) of the principal Order.
 
-[^key-ed01782584f2a64f23c57f8df7639d19]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/ssi/2007/19/article/3/2) substituted (31.1.2015) by [The Tweed Regulation Amendment Order 2015 (S.S.I. 2015/11)](https://www.legislation.gov.uk/ssi/2015/11), [arts. 1](https://www.legislation.gov.uk/ssi/2015/11/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2015/11/article/2/b)
+[^c-ed01782584f2a64f23c57f8df7639d19]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/ssi/2007/19/article/3/2) substituted (31.1.2015) by [The Tweed Regulation Amendment Order 2015 (S.S.I. 2015/11)](https://www.legislation.gov.uk/ssi/2015/11), [arts. 1](https://www.legislation.gov.uk/ssi/2015/11/article/1), [2(b)](https://www.legislation.gov.uk/ssi/2015/11/article/2/b)
 
-[^key-0d68748a4600263e37bdc88376421b54]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/ssi/2007/19/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2007/19/article/3/4) inserted (31.1.2015) by [The Tweed Regulation Amendment Order 2015 (S.S.I. 2015/11)](https://www.legislation.gov.uk/ssi/2015/11), [arts. 1](https://www.legislation.gov.uk/ssi/2015/11/article/1), [2(c)](https://www.legislation.gov.uk/ssi/2015/11/article/2/c)
+[^c-0d68748a4600263e37bdc88376421b54]: Textual amendment: [Art. 3(3)](https://www.legislation.gov.uk/ssi/2007/19/article/3/3)[(4)](https://www.legislation.gov.uk/ssi/2007/19/article/3/4) inserted (31.1.2015) by [The Tweed Regulation Amendment Order 2015 (S.S.I. 2015/11)](https://www.legislation.gov.uk/ssi/2015/11), [arts. 1](https://www.legislation.gov.uk/ssi/2015/11/article/1), [2(c)](https://www.legislation.gov.uk/ssi/2015/11/article/2/c)
 
-[^key-f1023df00fef0ded86ae41200b1e2ece]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/ssi/2007/19/article/3/3) inserted (31.3.2016) by [The Tweed Regulation (Salmon Conservation) Order 2016 (S.S.I. 2016/118)](https://www.legislation.gov.uk/ssi/2016/118), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/118/article/1/1), [5](https://www.legislation.gov.uk/ssi/2016/118/article/5)
+[^c-f1023df00fef0ded86ae41200b1e2ece]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/ssi/2007/19/article/3/3) inserted (31.3.2016) by [The Tweed Regulation (Salmon Conservation) Order 2016 (S.S.I. 2016/118)](https://www.legislation.gov.uk/ssi/2016/118), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2016/118/article/1/1), [5](https://www.legislation.gov.uk/ssi/2016/118/article/5)
 
-[^key-9eab6169dea396f9334447f3ba3261f2]: Commencement: Art. 4 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-9eab6169dea396f9334447f3ba3261f2]: Commencement: Art. 4 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-541710ec3be34de696d126223072e996]: Commencement: Art. 5 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-541710ec3be34de696d126223072e996]: Commencement: Art. 5 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-5126102e776f6c4e4b07055915ead6bc]: Commencement: Art. 6 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-5126102e776f6c4e4b07055915ead6bc]: Commencement: Art. 6 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-6f7f14710a065a048eb49c4a8e19628d]: Commencement: Art. 7 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-6f7f14710a065a048eb49c4a8e19628d]: Commencement: Art. 7 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-aea93ae2c1073ea9f0a7214f60f0ec63]: Commencement: Art. 8 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-aea93ae2c1073ea9f0a7214f60f0ec63]: Commencement: Art. 8 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-444c14dfe202191127fcb737136ca1a5]: Commencement: Art. 9 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-444c14dfe202191127fcb737136ca1a5]: Commencement: Art. 9 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-b1cb640c68a3e6476bddbbded8c03593]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/ssi/2007/19/article/9/3) substituted (28.3.2019) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/ssi/2019/24/regulation/3/2)
+[^c-b1cb640c68a3e6476bddbbded8c03593]: Textual amendment: Words in [art. 9(3)](https://www.legislation.gov.uk/ssi/2007/19/article/9/3) substituted (28.3.2019) by [The Fisheries (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/24)](https://www.legislation.gov.uk/ssi/2019/24), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2019/24/regulation/1/2/a), [3(2)](https://www.legislation.gov.uk/ssi/2019/24/regulation/3/2)
 
-[^key-abd9977fd26d4cc161a92bf63b8f0c7a]: Commencement: Art. 10 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-abd9977fd26d4cc161a92bf63b8f0c7a]: Commencement: Art. 10 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-7f948bf6a35fe1e5aa1dbd2a45c98a44]: Commencement: Art. 11 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-7f948bf6a35fe1e5aa1dbd2a45c98a44]: Commencement: Art. 11 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-466d986127c7a4ec0af554de9b2ad748]: Commencement: Art. 12 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-466d986127c7a4ec0af554de9b2ad748]: Commencement: Art. 12 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-31ae60b5fb53c19924bcb5cdb1ad6142]: Commencement: Art. 13 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-31ae60b5fb53c19924bcb5cdb1ad6142]: Commencement: Art. 13 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-81924256b86656c21cdd6d3ff37a4d01]: Textual amendment: [Arts. 14-19](https://www.legislation.gov.uk/ssi/2007/19/article/14) revoked (22.12.2013) by [The Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013 (S.S.I. 2013/323)](https://www.legislation.gov.uk/ssi/2013/323), [regs. 1](https://www.legislation.gov.uk/ssi/2013/323/regulation/1), [29(2)](https://www.legislation.gov.uk/ssi/2013/323/regulation/29/2)
+[^c-81924256b86656c21cdd6d3ff37a4d01]: Textual amendment: [Arts. 14-19](https://www.legislation.gov.uk/ssi/2007/19/article/14) revoked (22.12.2013) by [The Water Environment (River Basin Management Planning: Further Provision) (Scotland) Regulations 2013 (S.S.I. 2013/323)](https://www.legislation.gov.uk/ssi/2013/323), [regs. 1](https://www.legislation.gov.uk/ssi/2013/323/regulation/1), [29(2)](https://www.legislation.gov.uk/ssi/2013/323/regulation/29/2)
 
-[^key-092c0f663834524e6b50ff3dbd3d4529]: Commencement: Art. 20 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-092c0f663834524e6b50ff3dbd3d4529]: Commencement: Art. 20 in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
-[^key-1a009889859d1eafdb3472fa572a62c0]: Commencement: Sch. in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
+[^c-1a009889859d1eafdb3472fa572a62c0]: Commencement: Sch. in force at 15.2.2007, see [art. 1](https://www.legislation.gov.uk/ssi/2007/19/article/1)
 
 [^f00005]: Footnote: S.I. [1991/2007 (S.160)](https://www.legislation.gov.uk/uksi/1991/2007).
 

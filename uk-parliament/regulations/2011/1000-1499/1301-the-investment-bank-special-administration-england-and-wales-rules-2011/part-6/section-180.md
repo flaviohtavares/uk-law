@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 180. Payments of dividend and related matters[^key-fbf9d97775fa62324d6d65605a292241]
+## 180. Payments of dividend and related matters[^c-fbf9d97775fa62324d6d65605a292241]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fbf9d97775fa62324d6d65605a292241]: Commencement: [Rule 180](https://www.legislation.gov.uk/uksi/2011/1301/rule/180) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-fbf9d97775fa62324d6d65605a292241]: Commencement: [Rule 180](https://www.legislation.gov.uk/uksi/2011/1301/rule/180) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

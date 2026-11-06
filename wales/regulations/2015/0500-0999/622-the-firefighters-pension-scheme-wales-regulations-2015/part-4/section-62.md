@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Amount of pension payable to survivor member[^key-e37d0fcad4ce83f22db032530a9eecf3]
+## 62. Amount of pension payable to survivor member[^c-e37d0fcad4ce83f22db032530a9eecf3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The survivor member’s account must be credited with an amount equal to the ann
 
 ## Annotations
 
-[^key-e37d0fcad4ce83f22db032530a9eecf3]: Commencement: Reg. 62 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-e37d0fcad4ce83f22db032530a9eecf3]: Commencement: Reg. 62 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)

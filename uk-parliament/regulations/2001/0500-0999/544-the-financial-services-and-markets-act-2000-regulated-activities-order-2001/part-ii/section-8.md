@@ -22,13 +22,13 @@ summary: ''
 
 A sum is not a deposit for the purposes of article 5 if it is received by a person who is—
 
-- (a) an authorised person with permission to carry on an activity of the kind specified by any of articles 14, 21, 25, 37, 51ZA, 51ZB, 51ZC, 51ZD, 51ZE[^key-2c6fd5efbc39c9ecdab70392fb4c57fd] and 52, or
+- (a) an authorised person with permission to carry on an activity of the kind specified by any of articles 14, 21, 25, 37, 51ZA, 51ZB, 51ZC, 51ZD, 51ZE[^c-2c6fd5efbc39c9ecdab70392fb4c57fd] and 52, or
 - (b) an exempt person in relation to any such activity,
 
-in the course of, or for the purpose of, carrying on any such activity (or any activity which would be such an activity but for any exclusion made by this Part)[^key-73474e8e050bb1ea4fe39656e7126c7d] with or on behalf of the person by or on behalf of whom the sum is paid.
+in the course of, or for the purpose of, carrying on any such activity (or any activity which would be such an activity but for any exclusion made by this Part)[^c-73474e8e050bb1ea4fe39656e7126c7d] with or on behalf of the person by or on behalf of whom the sum is paid.
 
 ## Annotations
 
-[^key-2c6fd5efbc39c9ecdab70392fb4c57fd]: Textual amendment: Words in art. 8(a) substituted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/3)
+[^c-2c6fd5efbc39c9ecdab70392fb4c57fd]: Textual amendment: Words in art. 8(a) substituted (22.7.2013) by [The Alternative Investment Fund Managers Regulations 2013 (S.I. 2013/1773)](https://www.legislation.gov.uk/uksi/2013/1773), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1773/regulation/1), [Sch. 2 para. 1(3)](https://www.legislation.gov.uk/uksi/2013/1773/schedule/2/paragraph/1/3)
 
-[^key-73474e8e050bb1ea4fe39656e7126c7d]: Textual amendment: Words in art. 8 substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2001 (S.I. 2001/3544)](https://www.legislation.gov.uk/uksi/2001/3544), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3544/article/1/a), [3](https://www.legislation.gov.uk/uksi/2001/3544/article/3)
+[^c-73474e8e050bb1ea4fe39656e7126c7d]: Textual amendment: Words in art. 8 substituted (1.12.2001) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2001 (S.I. 2001/3544)](https://www.legislation.gov.uk/uksi/2001/3544), [arts. 1(a)](https://www.legislation.gov.uk/uksi/2001/3544/article/1/a), [3](https://www.legislation.gov.uk/uksi/2001/3544/article/3)

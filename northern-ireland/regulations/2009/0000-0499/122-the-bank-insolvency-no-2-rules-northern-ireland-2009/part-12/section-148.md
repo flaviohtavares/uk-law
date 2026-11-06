@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 148. Duty to keep court informed[^key-65a82a36439c7bdc3ce7219f6b285d1f]
+## 148. Duty to keep court informed[^c-65a82a36439c7bdc3ce7219f6b285d1f]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.200 of the 1991 Rules.
 
 ## Annotations
 
-[^key-65a82a36439c7bdc3ce7219f6b285d1f]: Commencement: Rule 148 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-65a82a36439c7bdc3ce7219f6b285d1f]: Commencement: Rule 148 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

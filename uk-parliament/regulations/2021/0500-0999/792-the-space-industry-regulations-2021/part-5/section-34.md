@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Interpretation[^key-9acfecee1624268646e4b54433688269]
+## 34. Interpretation[^c-9acfecee1624268646e4b54433688269]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In this Part—
 
 ## Annotations
 
-[^key-9acfecee1624268646e4b54433688269]: Commencement: Reg. 34 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-9acfecee1624268646e4b54433688269]: Commencement: Reg. 34 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57. Application of landlord and tenant law[^key-30986a63ec846b16a330c5c19c2bee1f]
+## 57. Application of landlord and tenant law[^c-30986a63ec846b16a330c5c19c2bee1f]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ so far as any such agreement relates to the terms on which any land which is the
 
 ## Annotations
 
-[^key-30986a63ec846b16a330c5c19c2bee1f]: Commencement: Art. 57 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)
+[^c-30986a63ec846b16a330c5c19c2bee1f]: Commencement: Art. 57 in force at 15.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/462/article/1)

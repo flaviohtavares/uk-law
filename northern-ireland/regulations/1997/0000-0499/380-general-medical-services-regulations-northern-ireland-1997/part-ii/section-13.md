@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Conditions under which general medical services are to be provided[^key-09a257dc4cfd4f905ed6f328798f10ba]
+## 13. Conditions under which general medical services are to be provided[^c-09a257dc4cfd4f905ed6f328798f10ba]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ Where a Board grants an application under regulation 12, it shall specify, as a 
 
 ## Annotations
 
-[^key-09a257dc4cfd4f905ed6f328798f10ba]: Commencement: Reg. 13 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)
+[^c-09a257dc4cfd4f905ed6f328798f10ba]: Commencement: Reg. 13 in operation at 6.10.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/380/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019[^key-8a112c9c24aded4ba6141ff3975537de]
+## 29. The Marketing of Seeds and Plant Propagating Material (Amendment) (England and Wales) (EU Exit) Regulations 2019[^c-8a112c9c24aded4ba6141ff3975537de]
 
 *Extent: E+W+S+N.I.*
 
@@ -380,7 +380,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8a112c9c24aded4ba6141ff3975537de]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
+[^c-8a112c9c24aded4ba6141ff3975537de]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2020/1388/regulation/29) in force at 31.12.2020 (immediately before IP completion day), see [reg. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1388/regulation/1/2/a)
 
 [^f00062]: Footnote: [S.I. 2019/131](https://www.legislation.gov.uk/uksi/2019/131); amended by [S.I. 2019/809](https://www.legislation.gov.uk/uksi/2019/809), prospectively amended by [S.I. 2019/1220](https://www.legislation.gov.uk/uksi/2019/1220), regulation 9: that regulation is being omitted by these Regulations.
 

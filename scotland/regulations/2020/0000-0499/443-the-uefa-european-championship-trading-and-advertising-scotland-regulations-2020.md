@@ -52,20 +52,20 @@ The powers to make these Regulations are exercised together by virtue of section
 
 ## PART 1 — Introductory
 
-### 1. Citation, commencement and cessation[^key-d7c843e7457a6d0435a209a6acb8f8c3]
+### 1. Citation, commencement and cessation[^c-d7c843e7457a6d0435a209a6acb8f8c3]
 
 (1) These Regulations may be cited as the UEFA European Championship (Trading and Advertising) (Scotland) Regulations 2020 and come into force on the day after the day on which they are made.
 
 (2) These Regulations cease to have effect on the day on which the Act ceases to have effect.
 
-### 2. General interpretation[^key-88611dcebb08f216c607c7e4f7820fd8]
+### 2. General interpretation[^c-88611dcebb08f216c607c7e4f7820fd8]
 
 In these Regulations—
 
 - “**the Act**” means the UEFA European Championship (Scotland) Act 2020,
 - “**article**” includes a living thing,
 - “**building**” excludes a telephone kiosk,
-- “event zone” is defined in schedule 1, and the event zone defined in schedule 1 is shown delineated on the map in schedule 3,[^key-719a022c76915c14b8674019b14fbcde]
+- “event zone” is defined in schedule 1, and the event zone defined in schedule 1 is shown delineated on the map in schedule 3,[^c-719a022c76915c14b8674019b14fbcde]
 - “**Glasgow Life**” means Culture and Sport Glasgow, a company limited by guarantee, registered in Scotland (number SC313851) and having its registered office at 38 Albion Street, Glasgow G1 1LH,
 - “**the Host City Contract**” means the Host City Agreement, Host City Guidelines and Fan Zone Guidelines, made between UEFA and Glasgow City Council,
 - “**newspaper**” excludes a newspaper whose sole or principal effect is to advertise one or more of the following in an event zone at a prohibited time—
@@ -76,7 +76,7 @@ In these Regulations—
 
 ## PART 2 — Trading Regulations
 
-### 3. Interpretation of Part 2[^key-bff933c9ff553257129f473a4f2b76b7]
+### 3. Interpretation of Part 2[^c-bff933c9ff553257129f473a4f2b76b7]
 
 In this Part—
 
@@ -101,7 +101,7 @@ In this Part—
 - (h) “**selling an article**” includes trading by a person acting as a pedlar whether or not under the authority of a pedlar's certificate granted under the Pedlars Act 1871 [^c24387391], and
 - (i) “**trading activity**” means activity which, in terms of regulation 4, is to be treated as trading for the purposes of the trading offence.
 
-### 4. Trading activity[^key-4116137d7eca85a5e3b87e4bbe6578ae]
+### 4. Trading activity[^c-4116137d7eca85a5e3b87e4bbe6578ae]
 
 (1) The activities set out in paragraph (2) are to be treated as trading for the purposes of the trading offence if carried out in an open public place.
 
@@ -124,11 +124,11 @@ In this Part—
   - (ii) an offer to supply a service,
 - (d) that an article actually sold or service actually supplied was different from that originally offered or exposed for sale.
 
-### 5. Prohibited times[^key-b7a0f4e5c21d81b089bc141744fdab4a]
+### 5. Prohibited times[^c-b7a0f4e5c21d81b089bc141744fdab4a]
 
 The times set out in schedule 2 are the prohibited times for the purposes of the trading offence.
 
-### 6. Types of trading exempt from trading offence[^key-aecb2ff22f63c2e1f96463ad23b92a65]
+### 6. Types of trading exempt from trading offence[^c-aecb2ff22f63c2e1f96463ad23b92a65]
 
 (1) The following trading activities are exempt from the trading offence—
 
@@ -169,7 +169,7 @@ The times set out in schedule 2 are the prohibited times for the purposes of the
 
 ## PART 3 — Advertising Regulations
 
-### 7. Interpretation of Part 3[^key-87a4d4c1c7239036aab7b62bea1e7369]
+### 7. Interpretation of Part 3[^c-87a4d4c1c7239036aab7b62bea1e7369]
 
 (1) In this Part—
 
@@ -198,11 +198,11 @@ The times set out in schedule 2 are the prohibited times for the purposes of the
 
 (4) In paragraph (3), “**hand-held device**” means a hand-held mobile telephone or other personal interactive communication device.
 
-### 8. Prohibited times[^key-659949c96c9f0b8c33447f691eee827a]
+### 8. Prohibited times[^c-659949c96c9f0b8c33447f691eee827a]
 
 The times set out in schedule 2 are the prohibited times for the purposes of the advertising offence.
 
-### 9. Exception for demonstrations, etc.[^key-8413fcee887d6b64c8b485922808dc53]
+### 9. Exception for demonstrations, etc.[^c-8413fcee887d6b64c8b485922808dc53]
 
 (1) Advertising activity is exempt from the advertising offence where it is intended to—
 
@@ -215,7 +215,7 @@ The times set out in schedule 2 are the prohibited times for the purposes of the
 - (a) a good or service, or
 - (b) a person or body that provides a good or service.
 
-### 10. Exception for individuals wearing advertising attire, displaying advertisements on their bodies or carrying personal property[^key-3631eb4ce771e05eb8b45e6baca498ee]
+### 10. Exception for individuals wearing advertising attire, displaying advertisements on their bodies or carrying personal property[^c-3631eb4ce771e05eb8b45e6baca498ee]
 
 (1) Advertising activity is exempt from the advertising offence where it is engaged in by an individual doing one or more of the following:—
 
@@ -227,7 +227,7 @@ unless the individual knows or had reasonable cause to believe that he or she is
 
 (2) The application of this exception to an individual does not affect the application of section 12(1) of the Act to any other person (whether in respect of the same advertising activity or otherwise).
 
-### 11. Exceptions modelled on the Town and Country Planning Regulations[^key-abe4d20b3bbfe269d1f68f202d92cafb]
+### 11. Exceptions modelled on the Town and Country Planning Regulations[^c-abe4d20b3bbfe269d1f68f202d92cafb]
 
 (1) Advertising activity is exempt from the advertising offence where it consists of the display of an advertisement—
 
@@ -261,7 +261,7 @@ unless the individual knows or had reasonable cause to believe that he or she is
 - (b) “**forecourt**” includes any fence, wall or similar screen or structure enclosing a forecourt and not forming part of the fabric of a building constituting business premises,
 - (c) a reference to a “Class” of advertisement is a reference to the corresponding Class of advertisement in schedule 4 of the Town and Country Planning Regulations.
 
-### 12. Other exceptions[^key-cccd44b9c7f3db34202219fea42e7553]
+### 12. Other exceptions[^c-cccd44b9c7f3db34202219fea42e7553]
 
 (1) Advertising activity is exempt from the advertising offence if it constitutes—
 
@@ -301,25 +301,25 @@ Edinburgh
 
 Regulation 2
 
-**1.**[^key-22ca862e89fd65b9bae1cb660b589c4c] “**Event zone**” means any place within the shaded area on a relevant map together with any pavement on each side of any road within that area, including the airspace above or below any place within the event zone.
+**1.**[^c-22ca862e89fd65b9bae1cb660b589c4c] “**Event zone**” means any place within the shaded area on a relevant map together with any pavement on each side of any road within that area, including the airspace above or below any place within the event zone.
 
-**2.**[^key-d72864e6425a08258fff052b775c0570] All parts of a railway station (whether on, above or under the ground) are to be treated as being within the event zone if any part of the station is on or above the ground in the event zone.
+**2.**[^c-d72864e6425a08258fff052b775c0570] All parts of a railway station (whether on, above or under the ground) are to be treated as being within the event zone if any part of the station is on or above the ground in the event zone.
 
-**3.**[^key-05e1803e20ea00d805075ce67d0a4dfb] Where a relevant map shows any part of an event zone to be bounded by a river, the boundary is to be the mean low water spring of that river.
+**3.**[^c-05e1803e20ea00d805075ce67d0a4dfb] Where a relevant map shows any part of an event zone to be bounded by a river, the boundary is to be the mean low water spring of that river.
 
-**4.**[^key-b2e19c8bfeebac9aa3e021c790813ba2] In paragraphs 1 and 3, “**relevant map**” means a map set out in schedule 3.
+**4.**[^c-b2e19c8bfeebac9aa3e021c790813ba2] In paragraphs 1 and 3, “**relevant map**” means a map set out in schedule 3.
 
 ## SCHEDULE 2 — Prohibited times
 
 Regulations 5 and 8
 
-**1.**[^key-b71a52521a878139380e49d988a4546b] Hampden Park zone – 31 May 2021 to 29 June 2021.
+**1.**[^c-b71a52521a878139380e49d988a4546b] Hampden Park zone – 31 May 2021 to 29 June 2021.
 
-**2.**[^key-41fb754f02cc35dc480520c1dba15e36] George Square zone – 9 June 2021 to 11 July 2021.
+**2.**[^c-41fb754f02cc35dc480520c1dba15e36] George Square zone – 9 June 2021 to 11 July 2021.
 
-**3.**[^key-19712a66e80ae8e273592fce78b3565a] Merchant City zone – 13, 14, 17, 18, 21, 22, 28 and 29 June 2021.
+**3.**[^c-19712a66e80ae8e273592fce78b3565a] Merchant City zone – 13, 14, 17, 18, 21, 22, 28 and 29 June 2021.
 
-## SCHEDULE 3 — Maps of Event Zones[^key-2cf9d52c9a5ed0adb91f1bdf1ba75304]
+## SCHEDULE 3 — Maps of Event Zones[^c-2cf9d52c9a5ed0adb91f1bdf1ba75304]
 
 **No longer in force.**
 
@@ -331,39 +331,39 @@ Regulation 2
 
 Regulations 7 and 12
 
-**1.**[^key-369697269348c8db8cf603aa65eefffd] Athletic footwear, sports apparel, sports hardware, footballs, sports accessories.
+**1.**[^c-369697269348c8db8cf603aa65eefffd] Athletic footwear, sports apparel, sports hardware, footballs, sports accessories.
 
-**2.**[^key-6864c5fa32f6e0846a56d70381955cc9] All alcoholic beverages (spirits, beers, ciders, ales etc.).
+**2.**[^c-6864c5fa32f6e0846a56d70381955cc9] All alcoholic beverages (spirits, beers, ciders, ales etc.).
 
-**3.**[^key-0f813c98c77dc8bcaa39fc9daa9003b3] All non-alcoholic beverages (water, soft drinks, sport drinks, juices, tea, coffee etc.).
+**3.**[^c-0f813c98c77dc8bcaa39fc9daa9003b3] All non-alcoholic beverages (water, soft drinks, sport drinks, juices, tea, coffee etc.).
 
-**4.**[^key-84a807e8b46ebad8b3941997b1c9a524] Tyres.
+**4.**[^c-84a807e8b46ebad8b3941997b1c9a524] Tyres.
 
-**5.**[^key-996d3fdcd65bfe212c688bf1b80f0d92] Payment systems and payment technology.
+**5.**[^c-996d3fdcd65bfe212c688bf1b80f0d92] Payment systems and payment technology.
 
-**6.**[^key-365739751c282a00ee37d723d1a548ad] Consumer electronics (TV, mobile phones, tablets etc.) and white goods (fridges, freezers etc.).
+**6.**[^c-365739751c282a00ee37d723d1a548ad] Consumer electronics (TV, mobile phones, tablets etc.) and white goods (fridges, freezers etc.).
 
-**7.**[^key-3c9a9a53babe5374ec1608ff9a88ada8] Automotive vehicles (including associated parts, services and accessories).
+**7.**[^c-3c9a9a53babe5374ec1608ff9a88ada8] Automotive vehicles (including associated parts, services and accessories).
 
-**8.**[^key-e971094b356b03683512e0764bfd6560] Mobility systems and services (including vehicle leasing, hiring and rental together with car sharing/pooling and ride hailing/taxi services).
+**8.**[^c-e971094b356b03683512e0764bfd6560] Mobility systems and services (including vehicle leasing, hiring and rental together with car sharing/pooling and ride hailing/taxi services).
 
-**9.**[^key-e20659d8fbbcafbe75ed74b8d9de751b] Food ordering and delivery services.
+**9.**[^c-e20659d8fbbcafbe75ed74b8d9de751b] Food ordering and delivery services.
 
-**10.**[^key-50c20f9853acfb64128645a93aa26dee] Telecommunications and internet provider services.
+**10.**[^c-50c20f9853acfb64128645a93aa26dee] Telecommunications and internet provider services.
 
-**11.**[^key-60e7ddae0152349849620a1c1542cf01] Fuel, oil and lubricants.
+**11.**[^c-60e7ddae0152349849620a1c1542cf01] Fuel, oil and lubricants.
 
-**12.**[^key-f40aa93b2fbe81a8540624460fd31156] Airline services.
+**12.**[^c-f40aa93b2fbe81a8540624460fd31156] Airline services.
 
-**13.**[^key-748cd3071ce7b1dc5e80de85f1be3478] Banking services.
+**13.**[^c-748cd3071ce7b1dc5e80de85f1be3478] Banking services.
 
-**14.**[^key-f7e60294a5a0501842b8b470ba1af5eb] Draw based games, instant play games, betting and gaming.
+**14.**[^c-f7e60294a5a0501842b8b470ba1af5eb] Draw based games, instant play games, betting and gaming.
 
-**15.**[^key-f1b69a4280bc4ce863b8f638b6c9400a] Accommodation and attraction booking and reservation services.
+**15.**[^c-f1b69a4280bc4ce863b8f638b6c9400a] Accommodation and attraction booking and reservation services.
 
-**16.**[^key-b33ff1cd3bbe41ed08b4738e5742cb8c] Postal, parcel, cargo, freight, logistics and delivery services.
+**16.**[^c-b33ff1cd3bbe41ed08b4738e5742cb8c] Postal, parcel, cargo, freight, logistics and delivery services.
 
-**17.**[^key-fd3e70da10e489df9297bf2af1c66c41] Insurance services.
+**17.**[^c-fd3e70da10e489df9297bf2af1c66c41] Insurance services.
 
 *(This note is not part of the Regulations)*
 
@@ -396,86 +396,86 @@ Schedule 4 sets out the list of Euro 2020 Product Categories of goods or service
 
 [^c24387371]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-d7c843e7457a6d0435a209a6acb8f8c3]: Commencement: Reg. 1 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-d7c843e7457a6d0435a209a6acb8f8c3]: Commencement: Reg. 1 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-88611dcebb08f216c607c7e4f7820fd8]: Commencement: Reg. 2 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-88611dcebb08f216c607c7e4f7820fd8]: Commencement: Reg. 2 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-719a022c76915c14b8674019b14fbcde]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2020/443/regulation/2) substituted (temp.) (31.5.2021 for the Championship period which ends on 11.7.2021) by virtue of [The UEFA European Championship (Scotland) Act 2020 (Championship Period and Transitory Provision etc.) Regulations 2021 (S.S.I. 2021/207)](https://www.legislation.gov.uk/ssi/2021/207), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/207/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2021/207/regulation/2), [5(1)](https://www.legislation.gov.uk/ssi/2021/207/regulation/5/1)
+[^c-719a022c76915c14b8674019b14fbcde]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/ssi/2020/443/regulation/2) substituted (temp.) (31.5.2021 for the Championship period which ends on 11.7.2021) by virtue of [The UEFA European Championship (Scotland) Act 2020 (Championship Period and Transitory Provision etc.) Regulations 2021 (S.S.I. 2021/207)](https://www.legislation.gov.uk/ssi/2021/207), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/207/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2021/207/regulation/2), [5(1)](https://www.legislation.gov.uk/ssi/2021/207/regulation/5/1)
 
-[^key-bff933c9ff553257129f473a4f2b76b7]: Commencement: Reg. 3 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-bff933c9ff553257129f473a4f2b76b7]: Commencement: Reg. 3 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
 [^c24387381]: Marginal citation: [1988 c.52](https://www.legislation.gov.uk/ukpga/1988/52).
 
 [^c24387391]: Marginal citation: [1871 c.96](https://www.legislation.gov.uk/ukpga/1871/96).
 
-[^key-4116137d7eca85a5e3b87e4bbe6578ae]: Commencement: Reg. 4 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-4116137d7eca85a5e3b87e4bbe6578ae]: Commencement: Reg. 4 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-b7a0f4e5c21d81b089bc141744fdab4a]: Commencement: Reg. 5 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-b7a0f4e5c21d81b089bc141744fdab4a]: Commencement: Reg. 5 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-aecb2ff22f63c2e1f96463ad23b92a65]: Commencement: Reg. 6 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-aecb2ff22f63c2e1f96463ad23b92a65]: Commencement: Reg. 6 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
 [^c24387401]: Marginal citation: [1982 c.45](https://www.legislation.gov.uk/ukpga/1982/45). Section 119 was last amended by the [Local Government etc. (Scotland) Act 1994 (c.39)](https://www.legislation.gov.uk/ukpga/1994/39). It is prospectively amended by the [Charities Act 1992 (c.41)](https://www.legislation.gov.uk/ukpga/1992/41) and prospectively repealed by the [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10).
 
-[^key-87a4d4c1c7239036aab7b62bea1e7369]: Commencement: Reg. 7 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-87a4d4c1c7239036aab7b62bea1e7369]: Commencement: Reg. 7 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
 [^c24387411]: Marginal citation: [S.I. 1984/467](https://www.legislation.gov.uk/uksi/1984/467) as amended by [S.I. 1992/1763](https://www.legislation.gov.uk/uksi/1992/1763).
 
-[^key-659949c96c9f0b8c33447f691eee827a]: Commencement: Reg. 8 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-659949c96c9f0b8c33447f691eee827a]: Commencement: Reg. 8 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-8413fcee887d6b64c8b485922808dc53]: Commencement: Reg. 9 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-8413fcee887d6b64c8b485922808dc53]: Commencement: Reg. 9 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-3631eb4ce771e05eb8b45e6baca498ee]: Commencement: Reg. 10 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-3631eb4ce771e05eb8b45e6baca498ee]: Commencement: Reg. 10 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-abe4d20b3bbfe269d1f68f202d92cafb]: Commencement: Reg. 11 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-abe4d20b3bbfe269d1f68f202d92cafb]: Commencement: Reg. 11 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-cccd44b9c7f3db34202219fea42e7553]: Commencement: Reg. 12 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-cccd44b9c7f3db34202219fea42e7553]: Commencement: Reg. 12 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-22ca862e89fd65b9bae1cb660b589c4c]: Commencement: Sch. 1 para. 1 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-22ca862e89fd65b9bae1cb660b589c4c]: Commencement: Sch. 1 para. 1 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-d72864e6425a08258fff052b775c0570]: Commencement: Sch. 1 para. 2 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-d72864e6425a08258fff052b775c0570]: Commencement: Sch. 1 para. 2 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-05e1803e20ea00d805075ce67d0a4dfb]: Commencement: Sch. 1 para. 3 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-05e1803e20ea00d805075ce67d0a4dfb]: Commencement: Sch. 1 para. 3 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-b2e19c8bfeebac9aa3e021c790813ba2]: Commencement: Sch. 1 para. 4 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-b2e19c8bfeebac9aa3e021c790813ba2]: Commencement: Sch. 1 para. 4 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-b71a52521a878139380e49d988a4546b]: Commencement: Sch. 2 para. 1 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-b71a52521a878139380e49d988a4546b]: Commencement: Sch. 2 para. 1 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-41fb754f02cc35dc480520c1dba15e36]: Commencement: Sch. 2 para. 2 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-41fb754f02cc35dc480520c1dba15e36]: Commencement: Sch. 2 para. 2 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-19712a66e80ae8e273592fce78b3565a]: Commencement: Sch. 2 para. 3 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-19712a66e80ae8e273592fce78b3565a]: Commencement: Sch. 2 para. 3 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-2cf9d52c9a5ed0adb91f1bdf1ba75304]: Textual amendment: Sch. 3 omitted in part (temp.) (31.5.2021 for the Championship period which ends on 11.7.2021) by virtue of [The UEFA European Championship (Scotland) Act 2020 (Championship Period and Transitory Provision etc.) Regulations 2021 (S.S.I. 2021/207)](https://www.legislation.gov.uk/ssi/2021/207), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/207/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2021/207/regulation/2), [5(2)](https://www.legislation.gov.uk/ssi/2021/207/regulation/5/2)
+[^c-2cf9d52c9a5ed0adb91f1bdf1ba75304]: Textual amendment: Sch. 3 omitted in part (temp.) (31.5.2021 for the Championship period which ends on 11.7.2021) by virtue of [The UEFA European Championship (Scotland) Act 2020 (Championship Period and Transitory Provision etc.) Regulations 2021 (S.S.I. 2021/207)](https://www.legislation.gov.uk/ssi/2021/207), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/207/regulation/1/1), [2](https://www.legislation.gov.uk/ssi/2021/207/regulation/2), [5(2)](https://www.legislation.gov.uk/ssi/2021/207/regulation/5/2)
 
-[^key-369697269348c8db8cf603aa65eefffd]: Commencement: Sch. 4 para. 1 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-369697269348c8db8cf603aa65eefffd]: Commencement: Sch. 4 para. 1 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-6864c5fa32f6e0846a56d70381955cc9]: Commencement: Sch. 4 para. 2 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-6864c5fa32f6e0846a56d70381955cc9]: Commencement: Sch. 4 para. 2 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-0f813c98c77dc8bcaa39fc9daa9003b3]: Commencement: Sch. 4 para. 3 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-0f813c98c77dc8bcaa39fc9daa9003b3]: Commencement: Sch. 4 para. 3 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-84a807e8b46ebad8b3941997b1c9a524]: Commencement: Sch. 4 para. 4 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-84a807e8b46ebad8b3941997b1c9a524]: Commencement: Sch. 4 para. 4 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-996d3fdcd65bfe212c688bf1b80f0d92]: Commencement: Sch. 4 para. 5 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-996d3fdcd65bfe212c688bf1b80f0d92]: Commencement: Sch. 4 para. 5 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-365739751c282a00ee37d723d1a548ad]: Commencement: Sch. 4 para. 6 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-365739751c282a00ee37d723d1a548ad]: Commencement: Sch. 4 para. 6 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-3c9a9a53babe5374ec1608ff9a88ada8]: Commencement: Sch. 4 para. 7 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-3c9a9a53babe5374ec1608ff9a88ada8]: Commencement: Sch. 4 para. 7 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-e971094b356b03683512e0764bfd6560]: Commencement: Sch. 4 para. 8 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-e971094b356b03683512e0764bfd6560]: Commencement: Sch. 4 para. 8 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-e20659d8fbbcafbe75ed74b8d9de751b]: Commencement: Sch. 4 para. 9 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-e20659d8fbbcafbe75ed74b8d9de751b]: Commencement: Sch. 4 para. 9 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-50c20f9853acfb64128645a93aa26dee]: Commencement: Sch. 4 para. 10 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-50c20f9853acfb64128645a93aa26dee]: Commencement: Sch. 4 para. 10 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-60e7ddae0152349849620a1c1542cf01]: Commencement: Sch. 4 para. 11 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-60e7ddae0152349849620a1c1542cf01]: Commencement: Sch. 4 para. 11 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-f40aa93b2fbe81a8540624460fd31156]: Commencement: Sch. 4 para. 12 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-f40aa93b2fbe81a8540624460fd31156]: Commencement: Sch. 4 para. 12 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-748cd3071ce7b1dc5e80de85f1be3478]: Commencement: Sch. 4 para. 13 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-748cd3071ce7b1dc5e80de85f1be3478]: Commencement: Sch. 4 para. 13 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-f7e60294a5a0501842b8b470ba1af5eb]: Commencement: Sch. 4 para. 14 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-f7e60294a5a0501842b8b470ba1af5eb]: Commencement: Sch. 4 para. 14 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-f1b69a4280bc4ce863b8f638b6c9400a]: Commencement: Sch. 4 para. 15 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-f1b69a4280bc4ce863b8f638b6c9400a]: Commencement: Sch. 4 para. 15 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-b33ff1cd3bbe41ed08b4738e5742cb8c]: Commencement: Sch. 4 para. 16 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-b33ff1cd3bbe41ed08b4738e5742cb8c]: Commencement: Sch. 4 para. 16 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
 
-[^key-fd3e70da10e489df9297bf2af1c66c41]: Commencement: Sch. 4 para. 17 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)
+[^c-fd3e70da10e489df9297bf2af1c66c41]: Commencement: Sch. 4 para. 17 in force at 18.12.2020, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2020/443/regulation/1/1)

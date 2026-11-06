@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Council Regulation [(EC) No 1984/2003](https://www.legislation.gov.uk/eur/2003/1984) introducing a system for the statistical monitoring of trade in swordfish and bigeye tuna within the Community[^key-23f8c5d8ec1edd9cacd5141433001d1a]
+## 13. Council Regulation [(EC) No 1984/2003](https://www.legislation.gov.uk/eur/2003/1984) introducing a system for the statistical monitoring of trade in swordfish and bigeye tuna within the Community[^c-23f8c5d8ec1edd9cacd5141433001d1a]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23f8c5d8ec1edd9cacd5141433001d1a]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1
+[^c-23f8c5d8ec1edd9cacd5141433001d1a]: Commencement: Reg. 13 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1

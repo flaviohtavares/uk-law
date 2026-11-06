@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2A. List of countries for the purpose of the definition of “marketing authorization”[^key-b3e6d31804b97f2e69af4cdeefd1d6ad]
+## 2A. List of countries for the purpose of the definition of “marketing authorization”[^c-b3e6d31804b97f2e69af4cdeefd1d6ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3e6d31804b97f2e69af4cdeefd1d6ad]: Textual amendment: Reg. 2A inserted (31.12.2020) by [The Medicines for Human Use (Clinical Trials) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/744)](https://www.legislation.gov.uk/uksi/2019/744), [regs. 1](https://www.legislation.gov.uk/uksi/2019/744/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/744/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b3e6d31804b97f2e69af4cdeefd1d6ad]: Textual amendment: Reg. 2A inserted (31.12.2020) by [The Medicines for Human Use (Clinical Trials) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/744)](https://www.legislation.gov.uk/uksi/2019/744), [regs. 1](https://www.legislation.gov.uk/uksi/2019/744/regulation/1), [4](https://www.legislation.gov.uk/uksi/2019/744/regulation/4); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

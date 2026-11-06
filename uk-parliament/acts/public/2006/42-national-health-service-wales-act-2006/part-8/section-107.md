@@ -46,10 +46,10 @@ and regulations may prescribe any scheme for the purposes of this subsection whi
 
 (8) Detriment to a health scheme includes detriment to any patient of, or person working in, that scheme or any person liable to pay charges for services provided under that scheme.
 
-(9) In this Chapter a “**practitioner**” means a person included in an ophthalmic list or[^key-03f6fc2b6ef579e52c643942906bbee9] a pharmaceutical list.
+(9) In this Chapter a “**practitioner**” means a person included in an ophthalmic list or[^c-03f6fc2b6ef579e52c643942906bbee9] a pharmaceutical list.
 
 ## Annotations
 
 [^c20956441]: Modification: S. 107: Functions made exercisable by Local Health Boards (1.10.2009) by [The Local Health Boards (Directed Functions) (Wales) Regulations 2009 (S.I. 2009/1511)](https://www.legislation.gov.uk/uksi/2009/1511), [reg. 4](https://www.legislation.gov.uk/uksi/2009/1511/regulation/4), [Sch.](https://www.legislation.gov.uk/uksi/2009/1511/schedule)
 
-[^key-03f6fc2b6ef579e52c643942906bbee9]: Textual amendment: Words in s. 107(9) inserted (26.9.2023) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2009/21/section/31/2), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2023/1039](https://www.legislation.gov.uk/wsi/2023/1039), [art. 2](https://www.legislation.gov.uk/wsi/2023/1039/article/2)
+[^c-03f6fc2b6ef579e52c643942906bbee9]: Textual amendment: Words in s. 107(9) inserted (26.9.2023) by [Health Act 2009 (c. 21)](https://www.legislation.gov.uk/ukpga/2009/21), [ss. 31(2)](https://www.legislation.gov.uk/ukpga/2009/21/section/31/2), [40(1)](https://www.legislation.gov.uk/ukpga/2009/21/section/40/1); [S.I. 2023/1039](https://www.legislation.gov.uk/wsi/2023/1039), [art. 2](https://www.legislation.gov.uk/wsi/2023/1039/article/2)

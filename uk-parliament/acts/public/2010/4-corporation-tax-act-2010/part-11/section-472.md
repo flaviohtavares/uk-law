@@ -28,8 +28,8 @@ summary: ''
 
 (4) The exemption under subsection (2) requires a claim.
 
-(5)[^key-0630143b8968c6478ded683ee0acfee9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-0630143b8968c6478ded683ee0acfee9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0630143b8968c6478ded683ee0acfee9]: Textual amendment: S. 472(5) omitted (retrospective to 6.4.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 50(2)(d)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/2/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/4)
+[^c-0630143b8968c6478ded683ee0acfee9]: Textual amendment: S. 472(5) omitted (retrospective to 6.4.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 50(2)(d)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/2/d)[(4)](https://www.legislation.gov.uk/ukpga/2012/14/section/50/4)

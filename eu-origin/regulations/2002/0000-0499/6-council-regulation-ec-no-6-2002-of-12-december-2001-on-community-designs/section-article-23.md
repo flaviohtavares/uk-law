@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 23. Government use[^key-7c46de954f9a61d38623f618761c0a8c]
+## Article 23. Government use[^c-7c46de954f9a61d38623f618761c0a8c]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c46de954f9a61d38623f618761c0a8c]: Textual amendment: Art. 23 omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/20) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/1)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [19](https://www.legislation.gov.uk/uksi/2020/1050/regulation/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7c46de954f9a61d38623f618761c0a8c]: Textual amendment: Art. 23 omitted (31.12.2020) by virtue of [The Designs and International Trade Marks (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/638)](https://www.legislation.gov.uk/uksi/2019/638), [reg. 1](https://www.legislation.gov.uk/uksi/2019/638/regulation/1), [Sch. 1 para. 20](https://www.legislation.gov.uk/uksi/2019/638/schedule/1/paragraph/20) (with [reg. 4](https://www.legislation.gov.uk/uksi/2019/638/regulation/4), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/638/schedule/2/part/1)) (as amended by [S.I. 2020/1050](https://www.legislation.gov.uk/uksi/2020/1050), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1050/regulation/1/2), [14](https://www.legislation.gov.uk/uksi/2020/1050/regulation/14), [19](https://www.legislation.gov.uk/uksi/2020/1050/regulation/19)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

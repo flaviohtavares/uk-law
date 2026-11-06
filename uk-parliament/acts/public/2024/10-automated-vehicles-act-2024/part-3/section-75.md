@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75. Expenses[^key-6dbdeb6639a8433eb1f8e96faa20d422]
+## 75. Expenses[^c-6dbdeb6639a8433eb1f8e96faa20d422]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ expenses, costs or losses incurred in, or in connection with, the exercise of an
 
 ## Annotations
 
-[^key-6dbdeb6639a8433eb1f8e96faa20d422]: Commencement: S. 75 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)
+[^c-6dbdeb6639a8433eb1f8e96faa20d422]: Commencement: S. 75 not in force at Royal Assent, see [s. 99(1)](https://www.legislation.gov.uk/ukpga/2024/10/section/99/1)

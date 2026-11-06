@@ -38,7 +38,7 @@ and the comptroller shall determine the question and may make such order as he t
 
 - (a) the comptroller orders an application for a patent for the invention to which the question relates to be so amended;
 - (b) any such application is refused under subsection 2(c) above before the comptroller has disposed of the reference (whether the reference was made before or after the publication of the application); or
-- (c) any such application is refused under any other provision of this Act or is withdrawn before the comptroller has disposed of the reference (whether the application is refused or withdrawn before or after its publication)[^key-8a3a41ff8e482afa7377832016467d2a] ;
+- (c) any such application is refused under any other provision of this Act or is withdrawn before the comptroller has disposed of the reference (whether the application is refused or withdrawn before or after its publication)[^c-8a3a41ff8e482afa7377832016467d2a] ;
 
 the comptroller may order that any person by whom the reference was made may within the prescribed period make a new application for a patent for the whole or part of any matter comprised in the earlier application or, as the case may be, for all or any of the matter excluded from the earlier application, subject in either case to section 76 below, and in either case that, if such a new application is made, it shall be treated as having been filed on the date of filing the earlier application.
 
@@ -54,4 +54,4 @@ the comptroller may order that any person by whom the reference was made may wit
 
 ## Annotations
 
-[^key-8a3a41ff8e482afa7377832016467d2a]: Textual amendment: Words in s. 8(3)(c) substituted (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/6/1), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))
+[^c-8a3a41ff8e482afa7377832016467d2a]: Textual amendment: Words in s. 8(3)(c) substituted (1.1.2005) by [Patents Act 2004 (c. 16)](https://www.legislation.gov.uk/ukpga/2004/16), [ss. 6(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/6/1), [17(1)](https://www.legislation.gov.uk/ukpga/2004/16/section/17/1); [S.I. 2004/3205](https://www.legislation.gov.uk/uksi/2004/3205), [art. 2(b)](https://www.legislation.gov.uk/uksi/2004/3205/article/2/b) (with [art. 9](https://www.legislation.gov.uk/uksi/2004/3205/article/9))

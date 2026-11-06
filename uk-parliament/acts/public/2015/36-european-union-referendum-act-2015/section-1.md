@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 1. The referendum[^key-5fddfdfab227f692a49976099fb52ae6]
+## 1. The referendum[^c-5fddfdfab227f692a49976099fb52ae6]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5fddfdfab227f692a49976099fb52ae6]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/36/section/1) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-5fddfdfab227f692a49976099fb52ae6]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2015/36/section/1) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

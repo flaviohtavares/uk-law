@@ -47,7 +47,7 @@ summary: ''
 
   .
 
-**2.**[^key-6451f2e1bfc37ea7dfd70c1f983fbe4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-6451f2e1bfc37ea7dfd70c1f983fbe4d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **3.** After section 81(3) of the Environmental Protection Act 1990 (power to abate statutory nuisance) there shall be inserted—
 
@@ -62,13 +62,13 @@ summary: ''
 
 .
 
-**4.**[^key-fd2ae27d9627e302850695cb2e936751][^c21020821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-fd2ae27d9627e302850695cb2e936751][^c21020821] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **5.**[^c21020931] (1) The Criminal Procedure (Scotland) Act 1995 shall be amended as follows.
 
 (2) In subsection (2)(b)(ii) of section 79 (preliminary pleas and preliminary issues), after “Act” there shall be inserted “ section 9(6) of the Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8) or that section of that Act as applied by section 234AA(11) of this Act ”.
 
-(3)[^key-258ce9ca42538776b131569130306050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-258ce9ca42538776b131569130306050] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 219 (imprisonment for non-payment of fines)—
 
@@ -79,9 +79,9 @@ summary: ''
 
   .
 
-(5)[^key-261ae930c12688540cd1a7cae86ebae1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-261ae930c12688540cd1a7cae86ebae1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-261ae930c12688540cd1a7cae86ebae1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-261ae930c12688540cd1a7cae86ebae1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 245D (combination of restriction of liberty order with probation order or drug treatment and testing order)—
 
@@ -110,7 +110,7 @@ summary: ''
 
 (10) In subsection (1)(b) of section 245H (documentary evidence in proceedings under section 245F), for “person subject to the order” there shall be substituted “ offender ”.
 
-(11)[^key-f41c54d6f96b88d5ff75b8e66d3af89d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-f41c54d6f96b88d5ff75b8e66d3af89d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (12) In Schedule 9 (certificates as to proof of certain routine matters), at the end there shall be inserted the following entry—
 
@@ -142,16 +142,16 @@ summary: ''
 
 [^c21020631]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/asp/2004/8/schedule/4/paragraph/1) wholly in force at 4.4.2005; [Sch. 4](https://www.legislation.gov.uk/asp/2004/8/schedule/4) not in force at Royal Assent see [s. 145(2)](https://www.legislation.gov.uk/asp/2004/8/section/145/2); [para. 1(a)(ii)](https://www.legislation.gov.uk/asp/2004/8/paragraph/1/a/ii) in force for specified purposes at 28.10.2004 and at 4.4.2005 otherwise, para. 1(b)(c) in force at 28.10.2004, and para. 1(a)(i) in force at 4.4.2005 by [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Schs. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1), [5](https://www.legislation.gov.uk/ssi/2004/420/schedule/5)
 
-[^key-6451f2e1bfc37ea7dfd70c1f983fbe4d]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2004/8/schedule/4/paragraph/2) omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [15](https://www.legislation.gov.uk/ssi/2012/330/article/15)
+[^c-6451f2e1bfc37ea7dfd70c1f983fbe4d]: Textual amendment: [Sch. 4 para. 2](https://www.legislation.gov.uk/asp/2004/8/schedule/4/paragraph/2) omitted (31.12.2012) by virtue of [The Homelessness (Abolition of Priority Need Test) (Scotland) Order 2012 (S.S.I. 2012/330)](https://www.legislation.gov.uk/ssi/2012/330), [arts. 2](https://www.legislation.gov.uk/ssi/2012/330/article/2), [15](https://www.legislation.gov.uk/ssi/2012/330/article/15)
 
-[^key-fd2ae27d9627e302850695cb2e936751]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2004/8/schedule/4/paragraph/4) repealed (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)
+[^c-fd2ae27d9627e302850695cb2e936751]: Textual amendment: [Sch. 4 para. 4](https://www.legislation.gov.uk/asp/2004/8/schedule/4/paragraph/4) repealed (24.6.2013) by [The Childrens Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)
 
 [^c21020821]: Commencement: Sch. 4 para. 4 wholly in force at 31.1.2005; Sch. 4 not in force at Royal Assent see s. 145(2); para 4(1)(6) in force at 28.10.2004 and para 4(2)-(5) in force at 31.1.2005 by [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Schs. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1), [4](https://www.legislation.gov.uk/ssi/2004/420/schedule/4)
 
 [^c21020931]: Commencement: Sch. 4 para. 5 wholly in force at 4.4.2005; Sch. 4 not in force at Royal Assent see s. 145(2); para 5(1)-(3)(6)(11) in force at 28.10.2004, para 5(12) in force at 1.1.2004, and para. 5(4)(5)(7)-(10) in force at 4.4.2005 by [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), [art. 3](https://www.legislation.gov.uk/ssi/2004/420/article/3), [Schs. 1](https://www.legislation.gov.uk/ssi/2004/420/schedule/1), [3](https://www.legislation.gov.uk/ssi/2004/420/schedule/3), [5](https://www.legislation.gov.uk/ssi/2004/420/schedule/5)
 
-[^key-258ce9ca42538776b131569130306050]: Textual amendment: [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/asp/2004/8/schedule/4/paragraph/5/3) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 50(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/50/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-258ce9ca42538776b131569130306050]: Textual amendment: [Sch. 4 para. 5(3)](https://www.legislation.gov.uk/asp/2004/8/schedule/4/paragraph/5/3) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 50(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/50/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
 
-[^key-261ae930c12688540cd1a7cae86ebae1]: Textual amendment: Sch. 4 para. 5(5)(6) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 50(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/50/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-261ae930c12688540cd1a7cae86ebae1]: Textual amendment: Sch. 4 para. 5(5)(6) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 50(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/50/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
 
-[^key-f41c54d6f96b88d5ff75b8e66d3af89d]: Textual amendment: Sch. 4 para. 5(11) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 50(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/50/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))
+[^c-f41c54d6f96b88d5ff75b8e66d3af89d]: Textual amendment: Sch. 4 para. 5(11) repealed (1.2.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [sch. 2 para. 50(b)](https://www.legislation.gov.uk/asp/2010/13/schedule/2/paragraph/50/b); [S.S.I. 2010/413](https://www.legislation.gov.uk/ssi/2010/413), [art. 2](https://www.legislation.gov.uk/ssi/2010/413/article/2), [sch.](https://www.legislation.gov.uk/ssi/2010/413/schedule) (with [art. 3(1)](https://www.legislation.gov.uk/ssi/2010/413/article/3/1))

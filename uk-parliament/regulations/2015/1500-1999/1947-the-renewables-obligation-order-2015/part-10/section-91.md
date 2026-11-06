@@ -32,16 +32,16 @@ summary: ''
 - (a) identify the location, or the proposed location, of the wind turbine; and
 - (b) specify the total installed capacity of the wind turbine.
 
-(4) Subject to paragraph (4A)[^key-b6d1b7a8c21ba6455c2eeb5a8c532131] The application must be received by the Authority on or before 31st March 2017.
+(4) Subject to paragraph (4A)[^c-b6d1b7a8c21ba6455c2eeb5a8c532131] The application must be received by the Authority on or before 31st March 2017.
 
-(4A)[^key-ffe1b116b8262e97e858519f48d8931f] Where the generating station generates electricity in the circumstances set out in any one or more of articles 5, 6, 7 and 11 of the Renewables Obligation Closure Order 2014, the application must be received by the Authority on or before 31st March 2018.
+(4A)[^c-ffe1b116b8262e97e858519f48d8931f] Where the generating station generates electricity in the circumstances set out in any one or more of articles 5, 6, 7 and 11 of the Renewables Obligation Closure Order 2014, the application must be received by the Authority on or before 31st March 2018.
 
 (5) An application to register one or more wind turbines under this article must be accompanied by—
 
 - (a) one of the documents referred to in article 92(5)(a), and
-- (b) the document[^key-fe8f4af3fb8c8128b28de8b3b8318768] referred to in article 92(5)(b).
+- (b) the document[^c-fe8f4af3fb8c8128b28de8b3b8318768] referred to in article 92(5)(b).
 
-(6) Following receipt of an application meeting the requirements of paragraphs (3) to (5)[^key-a34af632602045f8cedde1385b854c2c], the Authority must register the wind turbines to which the application relates if the Authority is satisfied that—
+(6) Following receipt of an application meeting the requirements of paragraphs (3) to (5)[^c-a34af632602045f8cedde1385b854c2c], the Authority must register the wind turbines to which the application relates if the Authority is satisfied that—
 
 - (a) where the station was accredited before 1st April 2011, the wind turbines are registrable additional turbines;
 - (b) where the wind turbines are registrable additional turbines—
@@ -65,10 +65,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b6d1b7a8c21ba6455c2eeb5a8c532131]: Textual amendment: Words in art. 91(4) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/457/article/5/2)
+[^c-b6d1b7a8c21ba6455c2eeb5a8c532131]: Textual amendment: Words in art. 91(4) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2016/457/article/5/2)
 
-[^key-ffe1b116b8262e97e858519f48d8931f]: Textual amendment: Art. 91(4A) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/457/article/5/3)
+[^c-ffe1b116b8262e97e858519f48d8931f]: Textual amendment: Art. 91(4A) inserted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order 2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [5(3)](https://www.legislation.gov.uk/uksi/2016/457/article/5/3)
 
-[^key-fe8f4af3fb8c8128b28de8b3b8318768]: Textual amendment: Words in [art. 91(5)(b)](https://www.legislation.gov.uk/uksi/2015/1947/article/91/5/b) substituted (31.12.2020) by [The Renewables Obligation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/35)](https://www.legislation.gov.uk/uksi/2019/35), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/35/regulation/1/2), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2019/35/schedule/1/paragraph/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fe8f4af3fb8c8128b28de8b3b8318768]: Textual amendment: Words in [art. 91(5)(b)](https://www.legislation.gov.uk/uksi/2015/1947/article/91/5/b) substituted (31.12.2020) by [The Renewables Obligation (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/35)](https://www.legislation.gov.uk/uksi/2019/35), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/35/regulation/1/2), [Sch. 1 para. 8(2)](https://www.legislation.gov.uk/uksi/2019/35/schedule/1/paragraph/8/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a34af632602045f8cedde1385b854c2c]: Textual amendment: Words in art. 91(6) substituted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2016/457/article/5/4)
+[^c-a34af632602045f8cedde1385b854c2c]: Textual amendment: Words in art. 91(6) substituted (25.3.2016) by [The Renewables Obligation Closure Etc. (Amendment) Order2016 (S.I. 2016/457)](https://www.legislation.gov.uk/uksi/2016/457), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2016/457/article/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2016/457/article/5/4)

@@ -44,23 +44,23 @@ In accordance with sections 790LI(4) and 1290 of the Companies Act 2006, a draft
 
 ## Part 1 — Introductory
 
-### 1. Citation and extent[^key-9bb903a57d36ef85459437b88c27e305]
+### 1. Citation and extent[^c-9bb903a57d36ef85459437b88c27e305]
 
 (1) These Regulations may be cited as the Register of People with Significant Control (Amendment) Regulations 2025.
 
 (2) These Regulations extend to England and Wales, Scotland and Northern Ireland.
 
-### 2. Commencement[^key-3394f6d35b2d1aadc945969e6b12369a]
+### 2. Commencement[^c-3394f6d35b2d1aadc945969e6b12369a]
 
-These Regulations come into force on 18th November 2025 (immediately after section 790LA of the Companies Act 2006 (duty to notify registrar of confirmed persons with significant control) came fully into force)[^key-8b49af0edd3d3a303601dd4dc79e3ee6].
+These Regulations come into force on 18th November 2025 (immediately after section 790LA of the Companies Act 2006 (duty to notify registrar of confirmed persons with significant control) came fully into force)[^c-8b49af0edd3d3a303601dd4dc79e3ee6].
 
 ## Part 2 — Amendments to Part 21A of the 2006 Act
 
-### 3. Interpretation[^key-fdac5da2599e14c23bce4d37d44bf382]
+### 3. Interpretation[^c-fdac5da2599e14c23bce4d37d44bf382]
 
 In this Part “**the 2006 Act**” means the Companies Act 2006[^f00003].
 
-### 4. Amendments to Part 21A of the 2006 Act[^key-3478f6011cd4ac9b9829568d060bbbc7]
+### 4. Amendments to Part 21A of the 2006 Act[^c-3478f6011cd4ac9b9829568d060bbbc7]
 
 In section 790EB of the 2006 Act (company’s duty to notify failure to comply with notices)—
 
@@ -77,7 +77,7 @@ In section 790EB of the 2006 Act (company’s duty to notify failure to comply w
 
   .
 
-**5.**[^key-abc5737f3c4efae390a115c18a002899] In section 790EC of the 2006 Act (company’s duty to notify of late compliance with notices)—
+**5.**[^c-abc5737f3c4efae390a115c18a002899] In section 790EC of the 2006 Act (company’s duty to notify of late compliance with notices)—
 
 - (a) after subsection (1) insert—
 
@@ -92,7 +92,7 @@ In section 790EB of the 2006 Act (company’s duty to notify failure to comply w
 
   .
 
-**6.**[^key-bf07a95a808b73656de9d9ea374058e0] After section 790EC of the 2006 Act insert—
+**6.**[^c-bf07a95a808b73656de9d9ea374058e0] After section 790EC of the 2006 Act insert—
 
 > **790ED. Company’s duty to notify that it has given a restrictions notice**
 >
@@ -127,9 +127,9 @@ In section 790EB of the 2006 Act (company’s duty to notify failure to comply w
 
 .
 
-**7.**[^key-1849a7c15e9c6c353e712dd0a92e0d4c] In section 790F(1) of the 2006 Act (failure by company to comply with information duties), for “790EB or 790EC” substitute “790EB, 790EC, 790ED, 790EE or 790EF”.
+**7.**[^c-1849a7c15e9c6c353e712dd0a92e0d4c] In section 790F(1) of the 2006 Act (failure by company to comply with information duties), for “790EB or 790EC” substitute “790EB, 790EC, 790ED, 790EE or 790EF”.
 
-**8.**[^key-f41016161b35620ebdb73e08a2d5e1e1] For section 790LA(2) of the 2006 Act (duty to notify registrar of confirmed persons with significant control) substitute—
+**8.**[^c-f41016161b35620ebdb73e08a2d5e1e1] For section 790LA(2) of the 2006 Act (duty to notify registrar of confirmed persons with significant control) substitute—
 
 > (2) A notice under subsection (1) must—
 >
@@ -138,7 +138,7 @@ In section 790EB of the 2006 Act (company’s duty to notify failure to comply w
 
 .
 
-**9.**[^key-384212aa8b7f8d1d97c877bd7afa3ca1] For section 790LC(2) of the 2006 Act (duty to notify registrar of unconfirmed persons with significant control) substitute—
+**9.**[^c-384212aa8b7f8d1d97c877bd7afa3ca1] For section 790LC(2) of the 2006 Act (duty to notify registrar of unconfirmed persons with significant control) substitute—
 
 > (2) The notice must state—
 >
@@ -147,7 +147,7 @@ In section 790EB of the 2006 Act (company’s duty to notify failure to comply w
 
 .
 
-**10.**[^key-267e610e412cbc70b1e791e5c58fdc5e] For section 790LD(2) of the 2006 Act (duties to notify of changes in required particulars) substitute—
+**10.**[^c-267e610e412cbc70b1e791e5c58fdc5e] For section 790LD(2) of the 2006 Act (duties to notify of changes in required particulars) substitute—
 
 > (2) The notice must state—
 >
@@ -157,7 +157,7 @@ In section 790EB of the 2006 Act (company’s duty to notify failure to comply w
 
 .
 
-**11.**[^key-ede700537064504869aa317a6cf85fa4] For section 790LE(3) of the 2006 Act (duty to notify of pre-incorporation changes in required particulars) substitute—
+**11.**[^c-ede700537064504869aa317a6cf85fa4] For section 790LE(3) of the 2006 Act (duty to notify of pre-incorporation changes in required particulars) substitute—
 
 > (3) A notice under subsection (1) must state—
 >
@@ -167,7 +167,7 @@ In section 790EB of the 2006 Act (company’s duty to notify failure to comply w
 
 .
 
-**12.**[^key-ede6f9a22741ae6439c57680af56d64c] In section 790LF(2) of the 2006 Act (duty to notify registrar when person ceases to have significant control)—
+**12.**[^c-ede6f9a22741ae6439c57680af56d64c] In section 790LF(2) of the 2006 Act (duty to notify registrar when person ceases to have significant control)—
 
 - (a) for subsection (2) substitute—
 
@@ -184,7 +184,7 @@ In section 790EB of the 2006 Act (company’s duty to notify failure to comply w
 
   .
 
-**13.**[^key-ded5420cd0d50042bae0843a9cb23e4d] (1) Section 790LG of the 2006 Act (notification of someone not becoming person with significant control on incorporation) is amended in accordance with this regulation.
+**13.**[^c-ded5420cd0d50042bae0843a9cb23e4d] (1) Section 790LG of the 2006 Act (notification of someone not becoming person with significant control on incorporation) is amended in accordance with this regulation.
 
 (2) In subsection (1), after “knows” insert “or has cause to believe”.
 
@@ -196,7 +196,7 @@ In section 790EB of the 2006 Act (company’s duty to notify failure to comply w
 
 (4) In subsection (2), after “knowledge” insert “or cause to believe”.
 
-**14.**[^key-dab72db0db7702cc40abdc03a8c3287e] (1) Section 790LH of the 2006 Act (duty to notify registrar if company ceases to have persons with significant control) is amended in accordance with this regulation.
+**14.**[^c-dab72db0db7702cc40abdc03a8c3287e] (1) Section 790LH of the 2006 Act (duty to notify registrar if company ceases to have persons with significant control) is amended in accordance with this regulation.
 
 (2) In the heading, for “ceases to have” substitute “has no”.
 
@@ -219,7 +219,7 @@ In section 790EB of the 2006 Act (company’s duty to notify failure to comply w
 
 ## Part 3 — Further duties on company to give notices concerning persons with significant control
 
-**15.**[^key-c4d20a2571f5de8518aeb827428c40d8] (1) The Register of People with Significant Control Regulations 2016[^f00004] are amended in accordance with this regulation.
+**15.**[^c-c4d20a2571f5de8518aeb827428c40d8] (1) The Register of People with Significant Control Regulations 2016[^f00004] are amended in accordance with this regulation.
 
 (2) After Part 3 (nature of control and foreign limited partners) insert—
 
@@ -288,38 +288,38 @@ A full Impact Assessment has not been prepared for this instrument as no, or no 
 
 [^f00001]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46). Section 790LI was inserted by section 51 of, and paragraph 18 of Schedule 2 to, the Economic Crime and Corporate Transparency Act [2023 (c. 56)](https://www.legislation.gov.uk/ukpga/2023/56).
 
-[^key-9bb903a57d36ef85459437b88c27e305]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1036/regulation/1) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-9bb903a57d36ef85459437b88c27e305]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2025/1036/regulation/1) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-3394f6d35b2d1aadc945969e6b12369a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-3394f6d35b2d1aadc945969e6b12369a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-8b49af0edd3d3a303601dd4dc79e3ee6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/1)
+[^c-8b49af0edd3d3a303601dd4dc79e3ee6]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2) substituted (23.1.2026) by [The Economic Crime and Corporate Transparency Act 2023 (Commencement No. 7) Regulations 2026 (S.I. 2026/57)](https://www.legislation.gov.uk/uksi/2026/57), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/57/regulation/3/1)
 
-[^key-fdac5da2599e14c23bce4d37d44bf382]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1036/regulation/3) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-fdac5da2599e14c23bce4d37d44bf382]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2025/1036/regulation/3) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
 [^f00003]: Footnote: [2006 c. 46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-3478f6011cd4ac9b9829568d060bbbc7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1036/regulation/4) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-3478f6011cd4ac9b9829568d060bbbc7]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2025/1036/regulation/4) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-abc5737f3c4efae390a115c18a002899]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1036/regulation/5) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-abc5737f3c4efae390a115c18a002899]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2025/1036/regulation/5) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-bf07a95a808b73656de9d9ea374058e0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1036/regulation/6) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-bf07a95a808b73656de9d9ea374058e0]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2025/1036/regulation/6) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-1849a7c15e9c6c353e712dd0a92e0d4c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1036/regulation/7) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-1849a7c15e9c6c353e712dd0a92e0d4c]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2025/1036/regulation/7) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-f41016161b35620ebdb73e08a2d5e1e1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1036/regulation/8) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-f41016161b35620ebdb73e08a2d5e1e1]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2025/1036/regulation/8) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-384212aa8b7f8d1d97c877bd7afa3ca1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1036/regulation/9) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-384212aa8b7f8d1d97c877bd7afa3ca1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2025/1036/regulation/9) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-267e610e412cbc70b1e791e5c58fdc5e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/1036/regulation/10) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-267e610e412cbc70b1e791e5c58fdc5e]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2025/1036/regulation/10) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-ede700537064504869aa317a6cf85fa4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/1036/regulation/11) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-ede700537064504869aa317a6cf85fa4]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2025/1036/regulation/11) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-ede6f9a22741ae6439c57680af56d64c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/1036/regulation/12) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-ede6f9a22741ae6439c57680af56d64c]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2025/1036/regulation/12) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-ded5420cd0d50042bae0843a9cb23e4d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/1036/regulation/13) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-ded5420cd0d50042bae0843a9cb23e4d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2025/1036/regulation/13) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-dab72db0db7702cc40abdc03a8c3287e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/1036/regulation/14) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-dab72db0db7702cc40abdc03a8c3287e]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2025/1036/regulation/14) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
-[^key-c4d20a2571f5de8518aeb827428c40d8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/1036/regulation/15) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
+[^c-c4d20a2571f5de8518aeb827428c40d8]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2025/1036/regulation/15) in force at 18.11.2025 in accordance with [reg. 2](https://www.legislation.gov.uk/uksi/2025/1036/regulation/2)
 
 [^f00004]: Footnote: [S.I. 2016/339](https://www.legislation.gov.uk/uksi/2016/339).

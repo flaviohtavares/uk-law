@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Information relating to victims[^key-b429b3afe2a3b6466222a95d2cdfeb68][^key-8b28dc0cc756cf7ef5286fee72f41d27]
+## 28. Information relating to victims[^c-b429b3afe2a3b6466222a95d2cdfeb68][^c-8b28dc0cc756cf7ef5286fee72f41d27]
 
 *Extent: E+W*
 
@@ -178,6 +178,6 @@ In Part 2 of the Police, Crime, Sentencing and Courts Act 2022 (prevention, inve
 
 ## Annotations
 
-[^key-b429b3afe2a3b6466222a95d2cdfeb68]: Commencement: S. 28 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
+[^c-b429b3afe2a3b6466222a95d2cdfeb68]: Commencement: S. 28 not in force at Royal Assent, see [s. 81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2)
 
-[^key-8b28dc0cc756cf7ef5286fee72f41d27]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2024/21/section/28) in force at 12.1.2026 by [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1168/regulation/3/a)
+[^c-8b28dc0cc756cf7ef5286fee72f41d27]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2024/21/section/28) in force at 12.1.2026 by [S.I. 2025/1168](https://www.legislation.gov.uk/uksi/2025/1168), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2025/1168/regulation/3/a)

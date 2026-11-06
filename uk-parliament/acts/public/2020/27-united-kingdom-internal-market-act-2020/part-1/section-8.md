@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. The non-discrimination principle: indirect discrimination[^key-ad34e26735fa0f4f2d98874d433ab797]
+## 8. The non-discrimination principle: indirect discrimination[^c-ad34e26735fa0f4f2d98874d433ab797]
 
 *Extent: E+W+S+N.I.*
 
@@ -65,4 +65,4 @@ it causes a significant adverse effect on competition in the market for such goo
 
 ## Annotations
 
-[^key-ad34e26735fa0f4f2d98874d433ab797]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2020/27/section/8) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)
+[^c-ad34e26735fa0f4f2d98874d433ab797]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2020/27/section/8) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/a)

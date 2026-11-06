@@ -31,7 +31,7 @@ summary: ''
 
 planning
 
-The Planning (General Development) (Amendment No.2) Order (Northern Ireland) 2007 (revoked)[^key-e5abd0e91caaa9cba3b70553285bab97]
+The Planning (General Development) (Amendment No.2) Order (Northern Ireland) 2007 (revoked)[^c-e5abd0e91caaa9cba3b70553285bab97]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 17th December 2007
 
-[^key-e5abd0e91caaa9cba3b70553285bab97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5abd0e91caaa9cba3b70553285bab97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e5abd0e91caaa9cba3b70553285bab97]
+## 1. Citation and commencement[^c-e5abd0e91caaa9cba3b70553285bab97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^key-e5abd0e91caaa9cba3b70553285bab97]
+## 2. Amendment of the Planning (General Development) Order (Northern Ireland) 1993[^c-e5abd0e91caaa9cba3b70553285bab97]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5abd0e91caaa9cba3b70553285bab97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5abd0e91caaa9cba3b70553285bab97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5abd0e91caaa9cba3b70553285bab97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5abd0e91caaa9cba3b70553285bab97]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5abd0e91caaa9cba3b70553285bab97]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2007/432) revoked (1.4.2015) by [The Planning (General Development Procedure) Order (Northern Ireland) 2015 (S.R. 2015/72)](https://www.legislation.gov.uk/nisr/2015/72), [Sch. 4](https://www.legislation.gov.uk/nisr/2015/72/schedule/4)
+[^c-e5abd0e91caaa9cba3b70553285bab97]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2007/432) revoked (1.4.2015) by [The Planning (General Development Procedure) Order (Northern Ireland) 2015 (S.R. 2015/72)](https://www.legislation.gov.uk/nisr/2015/72), [Sch. 4](https://www.legislation.gov.uk/nisr/2015/72/schedule/4)

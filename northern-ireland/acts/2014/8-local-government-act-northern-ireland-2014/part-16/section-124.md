@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 124. Supplementary and transitional provisions for the purposes of this Act and other purposes[^key-d6f3afe6658377e9136f20ea39bad7d1]
+## 124. Supplementary and transitional provisions for the purposes of this Act and other purposes[^c-d6f3afe6658377e9136f20ea39bad7d1]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d6f3afe6658377e9136f20ea39bad7d1]: Commencement: [S. 124](https://www.legislation.gov.uk/nia/2014/8/section/124) in operation at 20.5.2014 by [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(c)](https://www.legislation.gov.uk/nisr/2014/142/article/2/c)
+[^c-d6f3afe6658377e9136f20ea39bad7d1]: Commencement: [S. 124](https://www.legislation.gov.uk/nia/2014/8/section/124) in operation at 20.5.2014 by [S.R. 2014/142](https://www.legislation.gov.uk/nisr/2014/142), [art. 2(c)](https://www.legislation.gov.uk/nisr/2014/142/article/2/c)

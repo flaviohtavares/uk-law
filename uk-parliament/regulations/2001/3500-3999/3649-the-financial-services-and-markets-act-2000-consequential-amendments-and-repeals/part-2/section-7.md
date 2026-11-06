@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Duty of company as to issue of certificates[^key-f5881a72fafb2a92b63c9f15b895cf17]
+## 7. Duty of company as to issue of certificates[^c-f5881a72fafb2a92b63c9f15b895cf17]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,6 +45,6 @@ For subsection (4) of section 185 of the 1985 Act (duty of company to issue cert
 
 ## Annotations
 
-[^key-f5881a72fafb2a92b63c9f15b895cf17]: Commencement: Art. 7 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-f5881a72fafb2a92b63c9f15b895cf17]: Commencement: Art. 7 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00014]: Footnote: Amended by the Financial Services Act [1986 (c. 60)](https://www.legislation.gov.uk/ukpga/1986/60), section 194.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Reviews and appeals relating to method for determining weight of material[^key-c68e12bf906051110eadf190a879c920]
+## 24. Reviews and appeals relating to method for determining weight of material[^c-c68e12bf906051110eadf190a879c920]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ In section 172 of TCMA (appealable decisions), in subsection (2), after paragrap
 
 ## Annotations
 
-[^key-c68e12bf906051110eadf190a879c920]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2017/3/section/24) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/35/article/2/d)
+[^c-c68e12bf906051110eadf190a879c920]: Commencement: [S. 24](https://www.legislation.gov.uk/anaw/2017/3/section/24) in force at 25.1.2018 by [S.I. 2018/35](https://www.legislation.gov.uk/wsi/2018/35), [art. 2(d)](https://www.legislation.gov.uk/wsi/2018/35/article/2/d)

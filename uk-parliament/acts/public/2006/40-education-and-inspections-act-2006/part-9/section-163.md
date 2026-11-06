@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Provision of advice by adjudicator[^key-b4062006756603b78f0b154ff952bd13]
+## 163. Provision of advice by adjudicator[^c-b4062006756603b78f0b154ff952bd13]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ In section 25 of SSFA 1998 (adjudicators) after subsection (3) insert—
 
 ## Annotations
 
-[^key-b4062006756603b78f0b154ff952bd13]: Commencement: S. 163 in force at 8.1.2007 by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(f)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/f)
+[^c-b4062006756603b78f0b154ff952bd13]: Commencement: S. 163 in force at 8.1.2007 by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(f)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/f)

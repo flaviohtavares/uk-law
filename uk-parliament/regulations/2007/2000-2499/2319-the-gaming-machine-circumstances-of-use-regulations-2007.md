@@ -44,7 +44,7 @@ Coming into force in accordance with regulation 1
 
 The Secretary of State makes the following Regulations in exercise of the powers conferred by sections 240 and 355(1) of the Gambling Act 2005[^f00001].
 
-## 1. Citation and commencement[^key-9f145bd70dd70c5aaa784774e39d007e]
+## 1. Citation and commencement[^c-9f145bd70dd70c5aaa784774e39d007e]
 
 (1) These Regulations may be cited as the Gaming Machine (Circumstances of Use) Regulations 2007.
 
@@ -54,7 +54,7 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 (4) Regulations 10 and 11 come into force on 1st March 2008.
 
-## 2. Interpretation[^key-f75d667cb2a8bc8e2a37d32d9913dd93]
+## 2. Interpretation[^c-f75d667cb2a8bc8e2a37d32d9913dd93]
 
 (1) In these Regulations—
 
@@ -89,25 +89,25 @@ and “non-money prize” is any prize which is not a money prize.
 
 (6) A document or object is not a money prize if it is something which ordinarily is capable of being used for a purpose other than one referred to in paragraph (5)(b).
 
-## 3. Display of information[^key-184d46139951af6382f3da2d518693df][^key-716c1bf649dab49b05f46ab3d85e0385]
+## 3. Display of information[^c-184d46139951af6382f3da2d518693df][^c-716c1bf649dab49b05f46ab3d85e0385]
 
 (1) A gaming machine shall display the following information—
 
-- (a)[^key-184d46139951af6382f3da2d518693df] the category, or sub-category, of the machine;
-- (b)[^key-716c1bf649dab49b05f46ab3d85e0385] the name and telephone number of a person from whom assistance may be obtained by people who are or may be affected by problems related to gambling; and
-- (c)[^key-716c1bf649dab49b05f46ab3d85e0385] unless it is a Category D gaming machine, information constituting a warning that the machine is not to be used by a child or young person[^f00005].
+- (a)[^c-184d46139951af6382f3da2d518693df] the category, or sub-category, of the machine;
+- (b)[^c-716c1bf649dab49b05f46ab3d85e0385] the name and telephone number of a person from whom assistance may be obtained by people who are or may be affected by problems related to gambling; and
+- (c)[^c-716c1bf649dab49b05f46ab3d85e0385] unless it is a Category D gaming machine, information constituting a warning that the machine is not to be used by a child or young person[^f00005].
 
-(2)[^key-716c1bf649dab49b05f46ab3d85e0385] Subject to paragraphs (3) and (4), a gaming machine shall display information—
+(2)[^c-716c1bf649dab49b05f46ab3d85e0385] Subject to paragraphs (3) and (4), a gaming machine shall display information—
 
 - (a) about the proportion of amounts paid to use the machine that is returned by way of prizes; or
 - (b) about the odds of winning prizes from use of the machine.
 
-(3)[^key-716c1bf649dab49b05f46ab3d85e0385] A gaming machine is to be treated as having complied with the requirement in paragraph (2) if—
+(3)[^c-716c1bf649dab49b05f46ab3d85e0385] A gaming machine is to be treated as having complied with the requirement in paragraph (2) if—
 
 - (a) a notice is displayed on the machine at all times when it is made available for use indicating where the information referred to in paragraph (2) can be found, and
 - (b) that information is held by or in relation to the machine in a way that makes it readily accessible by a person using the machine.
 
-(4)[^key-716c1bf649dab49b05f46ab3d85e0385] Paragraph (2) does not apply to a Category D gaming machine in relation to which there is no mechanism for recording—
+(4)[^c-716c1bf649dab49b05f46ab3d85e0385] Paragraph (2) does not apply to a Category D gaming machine in relation to which there is no mechanism for recording—
 
 - (a) the aggregate of amounts paid to use the machine, and
 - (b) the aggregate of amounts won as prizes,
@@ -116,13 +116,13 @@ in which case the machine shall display information stating that the machine pro
 
 (5) Subject to paragraph (3), the information required by paragraphs (1), (2) and (4)—
 
-- (a)[^key-716c1bf649dab49b05f46ab3d85e0385] shall be displayed on the machine at all times when the machine is made available for use;
-- (b)[^key-184d46139951af6382f3da2d518693df] in the case of paragraph (1)(a), shall be displayed on the machine in a manner which makes it readily visible to a person inspecting the machine while it is being made available for use; and
-- (c)[^key-716c1bf649dab49b05f46ab3d85e0385] in all other cases shall be displayed on the machine in a manner which makes it readily visible to a person using the machine.
+- (a)[^c-716c1bf649dab49b05f46ab3d85e0385] shall be displayed on the machine at all times when the machine is made available for use;
+- (b)[^c-184d46139951af6382f3da2d518693df] in the case of paragraph (1)(a), shall be displayed on the machine in a manner which makes it readily visible to a person inspecting the machine while it is being made available for use; and
+- (c)[^c-716c1bf649dab49b05f46ab3d85e0385] in all other cases shall be displayed on the machine in a manner which makes it readily visible to a person using the machine.
 
-(6)[^key-716c1bf649dab49b05f46ab3d85e0385] Information displayed in accordance with this regulation may take the form of any combination of letters, numbers or symbols.
+(6)[^c-716c1bf649dab49b05f46ab3d85e0385] Information displayed in accordance with this regulation may take the form of any combination of letters, numbers or symbols.
 
-## 4. Methods of payment[^key-d89fee4f9e5c14aaf77e79c2f81be4c0]
+## 4. Methods of payment[^c-d89fee4f9e5c14aaf77e79c2f81be4c0]
 
 (1) A gaming machine shall not be made available for use if it is designed or adapted to permit money to be paid by means of a credit card or debit card.
 
@@ -133,11 +133,11 @@ in which case the machine shall display information stating that the machine pro
 - “credit card” means a credit-token within the meaning of section 14 of the Consumer Credit Act 1974[^f00006]; and
 - “debit card” means a card enabling payment to be debited against a person’s banking account, and which is not a credit card.
 
-## 5. Minimum payment amount[^key-0adee22c132df936696e02bcee5b55c5]
+## 5. Minimum payment amount[^c-0adee22c132df936696e02bcee5b55c5]
 
 A gaming machine shall not be made available for use if a person can use the machine to gamble once by paying an amount which is not a whole number of pence.
 
-## 6. Nature of prizes[^key-48a951facec980746b9cac5cd1a2a7ad]
+## 6. Nature of prizes[^c-48a951facec980746b9cac5cd1a2a7ad]
 
 (1) A Category A, B or C gaming machine shall not provide an opportunity to win a non-money prize from use of the machine.
 
@@ -145,9 +145,9 @@ A gaming machine shall not be made available for use if a person can use the mac
 
 (3) In this regulation “proscribed non-money prize” means a good or service which it is illegal to supply or sell to a child or young person under the laws of the place where the gaming machine is made available for use.
 
-## 7. Payment limits[^key-dae4a87d2bb3bd3268d21f392a979aff]
+## 7. Payment limits[^c-dae4a87d2bb3bd3268d21f392a979aff]
 
-(1) Subject to regulation 9[^key-e8ad71025db5cb946dd4a14cd2320735], where a gaming machine is made available for use, a person must not be able, by means of a single action, to make a payment in respect of the use of the machine which exceeds, in any case to which paragraphs (2) to (7) apply, the amount specified in the relevant paragraph.
+(1) Subject to regulation 9[^c-e8ad71025db5cb946dd4a14cd2320735], where a gaming machine is made available for use, a person must not be able, by means of a single action, to make a payment in respect of the use of the machine which exceeds, in any case to which paragraphs (2) to (7) apply, the amount specified in the relevant paragraph.
 
 (2) In relation to—
 
@@ -215,7 +215,7 @@ are to be counted for the purposes of paragraphs (1) to (7).
 
 (12) Nothing in this regulation shall prevent a person, by means of a series of actions, from making one or more payments which exceed the limits specified in paragraphs (2) to (7) provided that in each case the amount paid by means of a single action complies with the relevant limit.
 
-## 8. Payment limits: transitional provisions[^key-1e1cdfb7bca0869b0d8ac20958cd009d]
+## 8. Payment limits: transitional provisions[^c-1e1cdfb7bca0869b0d8ac20958cd009d]
 
 (1) The limits imposed by regulation 7 on payments in respect of the use of—
 
@@ -226,9 +226,9 @@ do not apply until 1st September 2008.
 
 (2) The limit imposed by regulation 7 on payments made in respect of the use of a Category B or C gaming machine in the circumstances specified in paragraphs (3)(a) and (b) of that regulation does not apply in the case of a gaming machine manufactured before 1st March 2008, until 1st September 2008.
 
-## 9. Committed payment limits[^key-b32160da6916f40963b3d472ba55f208]
+## 9. Committed payment limits[^c-b32160da6916f40963b3d472ba55f208]
 
-(1) This regulation is subject to regulation 11[^key-7724031eae0e25eea4ba49dd37f86e70].
+(1) This regulation is subject to regulation 11[^c-7724031eae0e25eea4ba49dd37f86e70].
 
 (2) Where a Category A, B or C gaming machine is made available for use, a person must not be able, by means of a single action, to make a committed payment in respect of the use of the machine which exceeds—
 
@@ -267,7 +267,7 @@ that action is to be treated for the purposes of this regulation as the making o
 
 (10) The limit in paragraph (2) does not apply, in the case of a Category A or B2 gaming machine which is designed or adapted to allow a person to pay a charge for use by using an amount of the deposited sum in relation to the machine, until 1st March 2008.
 
-## 10. Autoplay[^key-6914121381ceeefac97b7a2f2a055757]
+## 10. Autoplay[^c-6914121381ceeefac97b7a2f2a055757]
 
 (1) This regulation applies to a gaming machine, other than a casino jackpot gaming machine, which—
 
@@ -301,11 +301,11 @@ that action is to be treated for the purposes of this regulation as the making o
 
 (7) The prohibition in paragraph (2) does not apply, in the case of a gaming machine manufactured before 1st March 2008, until 1st September 2008.
 
-## 11. Special provision for Category A ... machines[^key-0ab48e27912b4bb2e4cecec5d13cebc7][^key-ba3a92fb4e92f3ecf7aaa01a6fb0f9e5]
+## 11. Special provision for Category A ... machines[^c-0ab48e27912b4bb2e4cecec5d13cebc7][^c-ba3a92fb4e92f3ecf7aaa01a6fb0f9e5]
 
-(1)[^key-cf9fa7c4a6f7becd22c85f9d81f346ec] This regulation applies to a Category A gaming machine which is designed or adapted to allow a person to pay a charge for use by using an amount of the deposited sum in relation to the machine.
+(1)[^c-cf9fa7c4a6f7becd22c85f9d81f346ec] This regulation applies to a Category A gaming machine which is designed or adapted to allow a person to pay a charge for use by using an amount of the deposited sum in relation to the machine.
 
-(1A)[^key-39ae2418ccb35efa38bf43688169a7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1A)[^c-39ae2418ccb35efa38bf43688169a7c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) The limit specified in regulation 9(2)(a) does not apply to the payment, in relation to such a machine, of a charge for use which exceeds £10; and, instead, any such payment is subject to the following provisions of this regulation.
 
@@ -334,11 +334,11 @@ that action is to be treated for the purposes of this regulation as the making o
 
 (10) In paragraph (9), “the original sum” means the amount referred to in paragraph (6)(a).
 
-## 11A. Additional special provision for Category B2 machines in certain circumstances[^key-ae4a434df3c6b438491112b0a9f37cdc]
+## 11A. Additional special provision for Category B2 machines in certain circumstances[^c-ae4a434df3c6b438491112b0a9f37cdc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 12. Residues[^key-8cd3d27c62a98b4c927c585f8a440989]
+## 12. Residues[^c-8cd3d27c62a98b4c927c585f8a440989]
 
 (1) A gaming machine which is made available for use may not retain the deposited sum in relation to the machine (referred to below as retaining a “residue”) unless the deposited sum—
 
@@ -355,7 +355,7 @@ that action is to be treated for the purposes of this regulation as the making o
 
 (3) Where a gaming machine is designed or adapted to hold an amount of money or money’s worth as a committed amount, any such amount may only be used for paying the whole or part of a further charge for use in relation to the machine and for no other purpose.
 
-## 13. Delivery of prizes: general[^key-7f4f7b4d3b838f8653bfad73814354a1]
+## 13. Delivery of prizes: general[^c-7f4f7b4d3b838f8653bfad73814354a1]
 
 (1) Where—
 
@@ -408,7 +408,7 @@ until 1st September 2008.
 - (a) paragraph (1), a reference to a machine making a prize available for collection automatically is to a machine making available a prize for collection without the person who has won the prize being required to perform any action to make it available; and
 - (b) paragraph (6), a reference to a “non-compliant machine” means a gaming machine manufactured before 1st September 2007 which does not comply with the conditions in paragraph (5)(b).
 
-## 14. Delivery of money prizes[^key-b3d275d0945c08033f9f8429bf2c31e8]
+## 14. Delivery of money prizes[^c-b3d275d0945c08033f9f8429bf2c31e8]
 
 (1) Subject to paragraph (2) where—
 
@@ -502,9 +502,9 @@ A Regulatory Impact Assessment is available from the Gambling and National Lotte
 
 [^f00001]: Footnote: [2005 c.19](https://www.legislation.gov.uk/ukpga/2005/19).
 
-[^key-9f145bd70dd70c5aaa784774e39d007e]: Commencement: Reg. 1 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+[^c-9f145bd70dd70c5aaa784774e39d007e]: Commencement: Reg. 1 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
 
-[^key-f75d667cb2a8bc8e2a37d32d9913dd93]: Commencement: Reg. 2 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+[^c-f75d667cb2a8bc8e2a37d32d9913dd93]: Commencement: Reg. 2 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
 
 [^f00002]: Footnote: “Gaming machine” is defined in section 235 of the Gambling Act 2005, and the Gambling Act 2005 (Gaming Machines) (Definitions) Regulations 2007, [SI 2007/2082](https://www.legislation.gov.uk/uksi/2007/2082).
 
@@ -512,46 +512,46 @@ A Regulatory Impact Assessment is available from the Gambling and National Lotte
 
 [^f00004]: Footnote: “Prize” is defined in section 239 of the Gambling Act 2005.
 
-[^key-184d46139951af6382f3da2d518693df]: Commencement: [Reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/3/1/a)[(5)(b)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/3/5/b) in force at 1.11.2007, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/3)
+[^c-184d46139951af6382f3da2d518693df]: Commencement: [Reg. 3(1)(a)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/3/1/a)[(5)(b)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/3/5/b) in force at 1.11.2007, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/3)
 
-[^key-716c1bf649dab49b05f46ab3d85e0385]: Commencement: Reg. 3(1)(b)(c)(2)-(4)(5)(a)(c)(6) in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+[^c-716c1bf649dab49b05f46ab3d85e0385]: Commencement: Reg. 3(1)(b)(c)(2)-(4)(5)(a)(c)(6) in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
 
 [^f00005]: Footnote: For the meaning of “child” and “young person” see section 45 of the Gambling Act 2005.
 
-[^key-d89fee4f9e5c14aaf77e79c2f81be4c0]: Commencement: Reg. 4 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+[^c-d89fee4f9e5c14aaf77e79c2f81be4c0]: Commencement: Reg. 4 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
 
 [^f00006]: Footnote: [1974 c.39](https://www.legislation.gov.uk/ukpga/1974/39).
 
-[^key-0adee22c132df936696e02bcee5b55c5]: Commencement: Reg. 5 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+[^c-0adee22c132df936696e02bcee5b55c5]: Commencement: Reg. 5 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
 
-[^key-48a951facec980746b9cac5cd1a2a7ad]: Commencement: Reg. 6 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+[^c-48a951facec980746b9cac5cd1a2a7ad]: Commencement: Reg. 6 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
 
-[^key-dae4a87d2bb3bd3268d21f392a979aff]: Commencement: Reg. 7 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+[^c-dae4a87d2bb3bd3268d21f392a979aff]: Commencement: Reg. 7 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
 
-[^key-e8ad71025db5cb946dd4a14cd2320735]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/7/1) substituted (1.4.2019) by [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/2)
+[^c-e8ad71025db5cb946dd4a14cd2320735]: Textual amendment: Words in [reg. 7(1)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/7/1) substituted (1.4.2019) by [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/2)
 
-[^key-1e1cdfb7bca0869b0d8ac20958cd009d]: Commencement: Reg. 8 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+[^c-1e1cdfb7bca0869b0d8ac20958cd009d]: Commencement: Reg. 8 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
 
-[^key-b32160da6916f40963b3d472ba55f208]: Commencement: Reg. 9 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+[^c-b32160da6916f40963b3d472ba55f208]: Commencement: Reg. 9 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
 
-[^key-7724031eae0e25eea4ba49dd37f86e70]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/9/1) substituted (1.4.2019) by [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/3)
+[^c-7724031eae0e25eea4ba49dd37f86e70]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/9/1) substituted (1.4.2019) by [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/3)
 
-[^key-6914121381ceeefac97b7a2f2a055757]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/2319/regulation/10) in force at 1.3.2008, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/4)
+[^c-6914121381ceeefac97b7a2f2a055757]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2007/2319/regulation/10) in force at 1.3.2008, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/4)
 
 [^f00007]: Footnote: [1968 c.65](https://www.legislation.gov.uk/ukpga/1968/65).
 
-[^key-0ab48e27912b4bb2e4cecec5d13cebc7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11) in force at 1.3.2008, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/4)
+[^c-0ab48e27912b4bb2e4cecec5d13cebc7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11) in force at 1.3.2008, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/4)
 
-[^key-ba3a92fb4e92f3ecf7aaa01a6fb0f9e5]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11) heading omitted (1.4.2019) by virtue of [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/4/a)
+[^c-ba3a92fb4e92f3ecf7aaa01a6fb0f9e5]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11) heading omitted (1.4.2019) by virtue of [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(4)(a)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/4/a)
 
-[^key-cf9fa7c4a6f7becd22c85f9d81f346ec]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11/1) substituted (1.4.2019) by [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/4/b)
+[^c-cf9fa7c4a6f7becd22c85f9d81f346ec]: Textual amendment: [Reg. 11(1)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11/1) substituted (1.4.2019) by [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(4)(b)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/4/b)
 
-[^key-39ae2418ccb35efa38bf43688169a7c0]: Textual amendment: [Reg. 11(1A)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11/1A) omitted (1.4.2019) by virtue of [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/4/c)
+[^c-39ae2418ccb35efa38bf43688169a7c0]: Textual amendment: [Reg. 11(1A)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11/1A) omitted (1.4.2019) by virtue of [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(4)(c)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/4/c)
 
-[^key-ae4a434df3c6b438491112b0a9f37cdc]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11A) omitted (1.4.2019) by virtue of [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/5)
+[^c-ae4a434df3c6b438491112b0a9f37cdc]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/2007/2319/regulation/11A) omitted (1.4.2019) by virtue of [The Gaming Machine (Miscellaneous Amendments and Revocation) Regulations 2018 (S.I. 2018/1402)](https://www.legislation.gov.uk/uksi/2018/1402), [regs. 1](https://www.legislation.gov.uk/uksi/2018/1402/regulation/1), [3(5)](https://www.legislation.gov.uk/uksi/2018/1402/regulation/3/5)
 
-[^key-8cd3d27c62a98b4c927c585f8a440989]: Commencement: Reg. 12 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+[^c-8cd3d27c62a98b4c927c585f8a440989]: Commencement: Reg. 12 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
 
-[^key-7f4f7b4d3b838f8653bfad73814354a1]: Commencement: Reg. 13 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+[^c-7f4f7b4d3b838f8653bfad73814354a1]: Commencement: Reg. 13 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
 
-[^key-b3d275d0945c08033f9f8429bf2c31e8]: Commencement: Reg. 14 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)
+[^c-b3d275d0945c08033f9f8429bf2c31e8]: Commencement: Reg. 14 in force at 1.9.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2319/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 270AA. Meaning of “eligible employee”[^key-7d17f4252fbd27a3f63bd9f6d72ad8c6]
+## 270AA. Meaning of “eligible employee”[^c-7d17f4252fbd27a3f63bd9f6d72ad8c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d17f4252fbd27a3f63bd9f6d72ad8c6]: Textual amendment: [S. 270AA](https://www.legislation.gov.uk/ukpga/2003/1/section/270AA) inserted (21.4.2017) by [Childcare Payments Act 2014 (c. 28)](https://www.legislation.gov.uk/ukpga/2014/28), [ss. 63(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/63/4), [75(2)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/2); [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))
+[^c-7d17f4252fbd27a3f63bd9f6d72ad8c6]: Textual amendment: [S. 270AA](https://www.legislation.gov.uk/ukpga/2003/1/section/270AA) inserted (21.4.2017) by [Childcare Payments Act 2014 (c. 28)](https://www.legislation.gov.uk/ukpga/2014/28), [ss. 63(4)](https://www.legislation.gov.uk/ukpga/2014/28/section/63/4), [75(2)](https://www.legislation.gov.uk/ukpga/2014/28/section/75/2); [S.I. 2017/578](https://www.legislation.gov.uk/uksi/2017/578), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2017/578/regulation/3/f) (with [reg. 8](https://www.legislation.gov.uk/uksi/2017/578/regulation/8))

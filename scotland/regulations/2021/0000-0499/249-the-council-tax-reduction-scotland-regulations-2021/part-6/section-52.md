@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Unused losses (applicants with an award of universal credit)[^key-8720cc02da91fc47cf29f3c33f3762dd]
+## 52. Unused losses (applicants with an award of universal credit)[^c-8720cc02da91fc47cf29f3c33f3762dd]
 
 *Extent: S*
 
@@ -38,6 +38,6 @@ a relevant authority may use such parts of that information as is relevant for t
 
 ## Annotations
 
-[^key-8720cc02da91fc47cf29f3c33f3762dd]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2021/249/regulation/52) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-8720cc02da91fc47cf29f3c33f3762dd]: Commencement: [Reg. 52](https://www.legislation.gov.uk/ssi/2021/249/regulation/52) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00161]: Footnote: Regulation 57A was inserted by [S.I. 2015/345](https://www.legislation.gov.uk/uksi/2015/345) and was amended by [S.I. 2018/65](https://www.legislation.gov.uk/uksi/2018/65).

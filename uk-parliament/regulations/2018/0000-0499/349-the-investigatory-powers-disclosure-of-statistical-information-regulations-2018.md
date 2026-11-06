@@ -92,7 +92,7 @@ Statistical information is of a description specified by this regulation if it r
 (2) This paragraph applies to a factor, or combination of factors, which—
 
 - (a) was specified by a warrant in accordance with section 31(8) of the Act, and
-- (b) identified communications in relation to which the postal operator or[^key-7ab347a1a93c205c12e7be6173c24107] telecommunications operator has provided assistance to an intercepting authority in accordance with section 41(2) of the Act.
+- (b) identified communications in relation to which the postal operator or[^c-7ab347a1a93c205c12e7be6173c24107] telecommunications operator has provided assistance to an intercepting authority in accordance with section 41(2) of the Act.
 
 ## 7. Disclosure of a range
 
@@ -148,4 +148,4 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^c22936161]: Marginal citation: [2016 c. 25](https://www.legislation.gov.uk/ukpga/2016/25).
 
-[^key-7ab347a1a93c205c12e7be6173c24107]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2018/349/regulation/6/2/b) inserted (27.6.2018) by [The Investigatory Powers (Consequential Amendments etc.) Regulations 2018 (S.I. 2018/682)](https://www.legislation.gov.uk/uksi/2018/682), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/682/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2018/682/regulation/6)
+[^c-7ab347a1a93c205c12e7be6173c24107]: Textual amendment: Words in [reg. 6(2)(b)](https://www.legislation.gov.uk/uksi/2018/349/regulation/6/2/b) inserted (27.6.2018) by [The Investigatory Powers (Consequential Amendments etc.) Regulations 2018 (S.I. 2018/682)](https://www.legislation.gov.uk/uksi/2018/682), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/682/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2018/682/regulation/6)

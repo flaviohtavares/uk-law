@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Retention of information by providers of internet services in connection with death of child[^key-c274c60ec5afca3561cf4abd89b570e4][^key-19eedac5989e030312e6dd22c77a756c]
+## 124. Retention of information by providers of internet services in connection with death of child[^c-c274c60ec5afca3561cf4abd89b570e4][^c-19eedac5989e030312e6dd22c77a756c]
 
 *Extent: E+W+S+N.I.*
 
@@ -169,6 +169,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c274c60ec5afca3561cf4abd89b570e4]: Commencement: S. 124 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-c274c60ec5afca3561cf4abd89b570e4]: Commencement: S. 124 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-19eedac5989e030312e6dd22c77a756c]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2025/18/section/124) in force at 30.9.2025 in so far as not already in force by [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)
+[^c-19eedac5989e030312e6dd22c77a756c]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2025/18/section/124) in force at 30.9.2025 in so far as not already in force by [S.I. 2025/982](https://www.legislation.gov.uk/uksi/2025/982), [reg. 2](https://www.legislation.gov.uk/uksi/2025/982/regulation/2)

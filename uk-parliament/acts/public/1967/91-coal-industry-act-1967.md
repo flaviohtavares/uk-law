@@ -39,17 +39,17 @@ An Act to make further provision with respect to borrowing by and grants to the 
 
 ## 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6736461]
 
-## 4. Reimbursement of contributions to early retirement benefits.[^key-2a477d1f9ca17547b1be6e3585da1b43]
+## 4. Reimbursement of contributions to early retirement benefits.[^c-2a477d1f9ca17547b1be6e3585da1b43]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 5, 6. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c6736661]
 
-## 7. Supplemental.[^key-45d784b0583269f75a710223c5a220f3]
+## 7. Supplemental.[^c-45d784b0583269f75a710223c5a220f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Short title, citation and extent.[^key-9619e0ceed26ad12e0887671899d8a3f]
+## 8. Short title, citation and extent.[^c-9619e0ceed26ad12e0887671899d8a3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -71,13 +71,13 @@ Section 7.
 
 [^c6736461]: Textual amendment: [S. 3](https://www.legislation.gov.uk/ukpga/1967/91/section/3) repealed with saving by [Coal Industry Act 1977 (c. 39)](https://www.legislation.gov.uk/ukpga/1977/39), [s. 7(10)](https://www.legislation.gov.uk/ukpga/1977/39/section/7/10), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1977/39/schedule/5/part/II)
 
-[^key-2a477d1f9ca17547b1be6e3585da1b43]: Textual amendment: S. 4 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-2a477d1f9ca17547b1be6e3585da1b43]: Textual amendment: S. 4 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c6736661]: Textual amendment: [Ss. 5](https://www.legislation.gov.uk/ukpga/1967/91/section/5), [6](https://www.legislation.gov.uk/ukpga/1967/91/section/6) repealed by [Coal Industry Act 1977 (c. 39)](https://www.legislation.gov.uk/ukpga/1977/39), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1977/39/schedule/5/part/II)
 
-[^key-45d784b0583269f75a710223c5a220f3]: Textual amendment: S. 7 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-45d784b0583269f75a710223c5a220f3]: Textual amendment: S. 7 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
-[^key-9619e0ceed26ad12e0887671899d8a3f]: Textual amendment: S. 8 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
+[^c-9619e0ceed26ad12e0887671899d8a3f]: Textual amendment: S. 8 repealed (27.3.2004) by [Coal Industry Act 1994 (c. 21)](https://www.legislation.gov.uk/ukpga/1994/21), [s. 68(4)](https://www.legislation.gov.uk/ukpga/1994/21/section/68/4), [Sch. 11 Pt. III](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/III); [S.I. 2004/144](https://www.legislation.gov.uk/uksi/2004/144), [art. 2](https://www.legislation.gov.uk/uksi/2004/144/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2004/144/schedule)
 
 [^c6736771]: Textual amendment: [Sch. paras. 1](https://www.legislation.gov.uk/ukpga/1967/91/schedule/paragraph/1), [2](https://www.legislation.gov.uk/ukpga/1967/91/schedule/paragraph/2) repealed by [Coal Industry Act 1977 (c. 39)](https://www.legislation.gov.uk/ukpga/1977/39), [Sch. 5 Pt. II](https://www.legislation.gov.uk/ukpga/1977/39/schedule/5/part/II)
 

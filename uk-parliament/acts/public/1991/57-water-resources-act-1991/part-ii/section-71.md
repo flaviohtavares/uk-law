@@ -31,7 +31,7 @@ the Secretary of State may by order repeal, amend or adapt that enactment to suc
 
 (3) The power to make an order under this section shall be exercisable by statutory instrument subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(4) This section applies to the following provisions of this Chapter, that is to say, sections [^key-47efe5df12c05ccf1009d70289079a8b]... 66, 68 and 72(5).
+(4) This section applies to the following provisions of this Chapter, that is to say, sections [^c-47efe5df12c05ccf1009d70289079a8b]... 66, 68 and 72(5).
 
 (5) In this section—
 
@@ -46,6 +46,6 @@ the Secretary of State may by order repeal, amend or adapt that enactment to suc
 
 ## Annotations
 
-[^key-47efe5df12c05ccf1009d70289079a8b]: Textual amendment: Word in [s. 71(4)](https://www.legislation.gov.uk/ukpga/1991/57/section/71/4) repealed (1.1.2018) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/9), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(g)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/g)
+[^c-47efe5df12c05ccf1009d70289079a8b]: Textual amendment: Word in [s. 71(4)](https://www.legislation.gov.uk/ukpga/1991/57/section/71/4) repealed (1.1.2018) by [Water Act 2003 (c. 37)](https://www.legislation.gov.uk/ukpga/2003/37), [s. 105(3)](https://www.legislation.gov.uk/ukpga/2003/37/section/105/3), [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2003/37/schedule/7/paragraph/9), [Sch. 9 Pt. 3](https://www.legislation.gov.uk/ukpga/2003/37/schedule/9/part/3); [S.I. 2017/1043](https://www.legislation.gov.uk/uksi/2017/1043), [art. 2(g)](https://www.legislation.gov.uk/uksi/2017/1043/article/2/g)
 
 [^c18731711]: Marginal citation: [1963 c. 38](https://www.legislation.gov.uk/ukpga/1963/38).

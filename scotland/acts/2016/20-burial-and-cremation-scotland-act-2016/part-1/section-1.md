@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 1. Meaning of “burial ground”[^key-f1840fad00907e764c2d588f338427fe]
+## 1. Meaning of “burial ground”[^c-f1840fad00907e764c2d588f338427fe]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In this Act, “burial ground”—
 
 ## Annotations
 
-[^key-f1840fad00907e764c2d588f338427fe]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/20/section/1) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))
+[^c-f1840fad00907e764c2d588f338427fe]: Commencement: [S. 1](https://www.legislation.gov.uk/asp/2016/20/section/1) in force at 28.12.2016 by [S.S.I. 2016/417](https://www.legislation.gov.uk/ssi/2016/417), [reg. 2](https://www.legislation.gov.uk/ssi/2016/417/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2016/417/schedule) (with [reg. 4](https://www.legislation.gov.uk/ssi/2016/417/regulation/4))

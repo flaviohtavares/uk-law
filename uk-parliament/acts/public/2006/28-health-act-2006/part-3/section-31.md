@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Enforcement[^key-161d10923eadb31738e79c515f106cb7]
+## 31. Enforcement[^c-161d10923eadb31738e79c515f106cb7]
 
 *Extent: E+W*
 
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-161d10923eadb31738e79c515f106cb7]: Commencement: S. 31 in force at 1.10.2009 by [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/a)
+[^c-161d10923eadb31738e79c515f106cb7]: Commencement: S. 31 in force at 1.10.2009 by [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52A. Supplies of books, newspapers, etc to prisoners – coronavirus[^key-9a6fca2aadd3325452011f400ff12d0e]
+## 52A. Supplies of books, newspapers, etc to prisoners – coronavirus[^c-9a6fca2aadd3325452011f400ff12d0e]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a6fca2aadd3325452011f400ff12d0e]: Textual amendment: Rule 52A omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(e)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/e)
+[^c-9a6fca2aadd3325452011f400ff12d0e]: Textual amendment: Rule 52A omitted (29.9.2021) by virtue of [The Prisons and Young Offenders Institutions (Coronavirus) (Scotland) Amendment (No. 2) Rules 2021 (S.S.I. 2021/289)](https://www.legislation.gov.uk/ssi/2021/289), [rules 1](https://www.legislation.gov.uk/ssi/2021/289/rule/1), [4(e)](https://www.legislation.gov.uk/ssi/2021/289/rule/4/e)

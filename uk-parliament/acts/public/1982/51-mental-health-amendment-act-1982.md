@@ -66,7 +66,7 @@ An Act to amend the Mental Health Act 1959 and for connected purposes.
 
 (4)[^c795195] In paragraph 8(3) of Schedule 1 (exceptions from restriction of conditions of bail) after the words “shall not” there shall be inserted the words “ apply to the conditions required to be imposed under section 3(6A) of this Act or ”.
 
-(5) [^key-d4a3c23c39bc6a6b45899052bc4f4af4]... the Crown Court may order the payment out of central funds of such sums as appear to it reasonably sufficient to compensate any medical practitioner for the expenses, trouble or loss of time properly incurred by him in preparing and making a report to the court on the mental condition of a person accused of murder.
+(5) [^c-d4a3c23c39bc6a6b45899052bc4f4af4]... the Crown Court may order the payment out of central funds of such sums as appear to it reasonably sufficient to compensate any medical practitioner for the expenses, trouble or loss of time properly incurred by him in preparing and making a report to the court on the mental condition of a person accused of murder.
 
 ## Parts IV–VI
 
@@ -342,7 +342,7 @@ Section 65(1).
 
 #### The Sexual Offences Act 1956[^c795232]
 
-**29.**[^key-251c23dcd4b1aec22430c7f161131337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**29.**[^c-251c23dcd4b1aec22430c7f161131337] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Naval Discipline Act 1957[^c795233]
 
@@ -372,11 +372,11 @@ Section 65(1).
 
 #### The Criminal Procedure (Insanity) Act 1964[^c795236]
 
-**33.**[^key-e396f60a9d9880e32d634f4d81b1beb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-e396f60a9d9880e32d634f4d81b1beb0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Sexual Offences Act 1967[^c795237]
 
-**34.**[^key-5e57afd8ef13753f35902b51d9b078e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-5e57afd8ef13753f35902b51d9b078e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Criminal Justice Act 1967[^c795238]
 
@@ -440,7 +440,7 @@ Section 65(1).
 
 #### The Children and Young Persons Act 1969[^c795246]
 
-**44.**[^key-c5345a83d9a0c351e676c6214cf7da32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**44.**[^c-c5345a83d9a0c351e676c6214cf7da32] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **45.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c795247]
 
@@ -448,21 +448,21 @@ Section 65(1).
 
 **46.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c795249]
 
-**47.**[^key-198859fe47d876dff955701b080de300] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**47.**[^c-198859fe47d876dff955701b080de300] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Juries Act 1974[^c795250]
 
-**48.**[^key-a1716616fe1b9e4f5f12a2f6343dd4df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**48.**[^c-a1716616fe1b9e4f5f12a2f6343dd4df] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### The Rehabilitation of Offenders Act 1974[^c795251]
 
-**49.** In section 5(7) for the words “an order restricting discharge” there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^key-34a2ea069cb9014bb2656585c16eedc9] “ a restriction order ” *(Extent: E+W)* *(affected by repeal, see note)*[^key-34a2ea069cb9014bb2656585c16eedc9]. *(Extent: E+W)* *(affected by repeal, see note)*[^key-34a2ea069cb9014bb2656585c16eedc9]
+**49.** In section 5(7) for the words “an order restricting discharge” there shall be substituted the words *(Extent: E+W)* *(affected by repeal, see note)*[^c-34a2ea069cb9014bb2656585c16eedc9] “ a restriction order ” *(Extent: E+W)* *(affected by repeal, see note)*[^c-34a2ea069cb9014bb2656585c16eedc9]. *(Extent: E+W)* *(affected by repeal, see note)*[^c-34a2ea069cb9014bb2656585c16eedc9]
 
 #### The Criminal Procedure (Scotland) Act 1975[^c795252]
 
-**50.**[^key-7a5bd3b26ce2d0980934220e075b78fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**50.**[^c-7a5bd3b26ce2d0980934220e075b78fa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**51.**[^key-24572a956c489f99fe272d5f1e4aeb7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-24572a956c489f99fe272d5f1e4aeb7d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **52—54.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c795255]
 
@@ -470,7 +470,7 @@ Section 65(1).
 
 **55.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c795257]
 
-**56.**[^key-aa843ee6b0f8ef7066e3d056c712532c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**56.**[^c-aa843ee6b0f8ef7066e3d056c712532c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **57, 58.** . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c795258]
 
@@ -485,7 +485,7 @@ Section 65(1).
 
 > (4A) Each of the superior courts shall have the like power to make an order under section 29 of the said Act of 1982 (remand for report on accused’s mental condition) where there is reason to suspect that a person who could be committed to prison for contempt of court is suffering from mental illness or severe mental impairment as the Crown Court has under that section in the case of an accused person within the meaning of that section.
 
-#### Senior Courts Act 1981[^c795260][^key-d29e0a6da3741a77ecac8be8239a7c02]
+#### Senior Courts Act 1981[^c795260][^c-d29e0a6da3741a77ecac8be8239a7c02]
 
 **61.** In section 48—
 
@@ -586,7 +586,7 @@ Section 69(6).
 
 [^c795196]: Marginal citation: [1976 c. 63](https://www.legislation.gov.uk/ukpga/1976/63).
 
-[^key-d4a3c23c39bc6a6b45899052bc4f4af4]: Textual amendment: Words in s. 34(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
+[^c-d4a3c23c39bc6a6b45899052bc4f4af4]: Textual amendment: Words in s. 34(5) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
 
 [^c795201]: Textual amendment: [Ss. 1–33](https://www.legislation.gov.uk/ukpga/1982/51/section/1) and 35–51 repealed by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 6](https://www.legislation.gov.uk/ukpga/1983/20/schedule/6)
 
@@ -650,7 +650,7 @@ Section 69(6).
 
 [^c795232]: Marginal citation: [1956 c. 69](https://www.legislation.gov.uk/ukpga/1956/69).
 
-[^key-251c23dcd4b1aec22430c7f161131337]: Textual amendment: [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/29) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-251c23dcd4b1aec22430c7f161131337]: Textual amendment: [Sch. 3 para. 29](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/29) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c795233]: Marginal citation: [1957 c. 53](https://www.legislation.gov.uk/ukpga/1957/53).
 
@@ -660,11 +660,11 @@ Section 69(6).
 
 [^c795236]: Marginal citation: [1964 c. 84](https://www.legislation.gov.uk/ukpga/1964/84).
 
-[^key-e396f60a9d9880e32d634f4d81b1beb0]: Textual amendment: [Sch. 3 para. 33](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/33) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
+[^c-e396f60a9d9880e32d634f4d81b1beb0]: Textual amendment: [Sch. 3 para. 33](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/33) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
 
 [^c795237]: Marginal citation: [1967 c. 60](https://www.legislation.gov.uk/ukpga/1967/60).
 
-[^key-5e57afd8ef13753f35902b51d9b078e8]: Textual amendment: [Sch. 3 para. 34](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/34) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
+[^c-5e57afd8ef13753f35902b51d9b078e8]: Textual amendment: [Sch. 3 para. 34](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/34) repealed (1.5.2004) by [Sexual Offences Act 2003 (c. 42)](https://www.legislation.gov.uk/ukpga/2003/42), [s. 141](https://www.legislation.gov.uk/ukpga/2003/42/section/141), [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/42/schedule/7); [S.I. 2004/874](https://www.legislation.gov.uk/uksi/2004/874), [art. 2](https://www.legislation.gov.uk/uksi/2004/874/article/2)
 
 [^c795238]: Marginal citation: [1967 c. 80](https://www.legislation.gov.uk/ukpga/1967/80).
 
@@ -682,7 +682,7 @@ Section 69(6).
 
 [^c795246]: Marginal citation: [1969 c. 54](https://www.legislation.gov.uk/ukpga/1969/54).
 
-[^key-c5345a83d9a0c351e676c6214cf7da32]: Textual amendment: [Sch. 3 para. 44](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/44) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
+[^c-c5345a83d9a0c351e676c6214cf7da32]: Textual amendment: [Sch. 3 para. 44](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/44) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
 
 [^c795247]: Textual amendment: [Sch. 3 Pt. I paras. 1–26](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/part/I/paragraph/1), [35](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/part/I/paragraph/35)(*a*), 40, 42, 45, 46, 50(*a*), 51(*a*), 52–55, 57, 58 and Pt. II repealed by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 6](https://www.legislation.gov.uk/ukpga/1983/20/schedule/6)
 
@@ -690,21 +690,21 @@ Section 69(6).
 
 [^c795249]: Textual amendment: [Sch. 3 Pt. I paras. 1–26](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/part/I/paragraph/1), [35](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/part/I/paragraph/35)(*a*), 40, 42, 45, 46, 50(*a*), 51(*a*), 52–55, 57, 58 and Pt. II repealed by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 6](https://www.legislation.gov.uk/ukpga/1983/20/schedule/6)
 
-[^key-198859fe47d876dff955701b080de300]: Textual amendment: [Sch. 3 para. 47](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/47) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
+[^c-198859fe47d876dff955701b080de300]: Textual amendment: [Sch. 3 para. 47](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/47) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
 
 [^c795250]: Marginal citation: [1974 c. 23](https://www.legislation.gov.uk/ukpga/1974/23).
 
-[^key-a1716616fe1b9e4f5f12a2f6343dd4df]: Textual amendment: [Sch. 3 para. 48](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/48) repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(iv)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/iv)
+[^c-a1716616fe1b9e4f5f12a2f6343dd4df]: Textual amendment: [Sch. 3 para. 48](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/48) repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(iv)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/iv)
 
 [^c795251]: Marginal citation: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
-[^key-34a2ea069cb9014bb2656585c16eedc9]: Textual amendment: [Sch. 3 para. 49](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/49) repealed (E.W.) (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
+[^c-34a2ea069cb9014bb2656585c16eedc9]: Textual amendment: [Sch. 3 para. 49](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/49) repealed (E.W.) (10.3.2014) by [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 25 Pt. 2](https://www.legislation.gov.uk/ukpga/2012/10/schedule/25/part/2) (with [s. 141(1)-(6)](https://www.legislation.gov.uk/ukpga/2012/10/section/141/1)); [S.I. 2014/423](https://www.legislation.gov.uk/uksi/2014/423), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/423/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/423/article/3))
 
 [^c795252]: Marginal citation: [1975 c. 21](https://www.legislation.gov.uk/ukpga/1975/21).
 
-[^key-7a5bd3b26ce2d0980934220e075b78fa]: Textual amendment: [Sch. 3 para. 50](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/50) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
+[^c-7a5bd3b26ce2d0980934220e075b78fa]: Textual amendment: [Sch. 3 para. 50](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/50) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
 
-[^key-24572a956c489f99fe272d5f1e4aeb7d]: Textual amendment: [Sch. 3 para. 51](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/51) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
+[^c-24572a956c489f99fe272d5f1e4aeb7d]: Textual amendment: [Sch. 3 para. 51](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/51) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 17](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/17) Group 8
 
 [^c795255]: Textual amendment: [Sch. 3 Pt. I paras. 1–26](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/part/I/paragraph/1), [35](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/part/I/paragraph/35)(*a*), 40, 42, 45, 46, 50(*a*), 51(*a*), 52–55, 57, 58 and Pt. II repealed by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 6](https://www.legislation.gov.uk/ukpga/1983/20/schedule/6)
 
@@ -712,7 +712,7 @@ Section 69(6).
 
 [^c795257]: Textual amendment: [Sch. 3 Pt. I paras. 1–26](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/part/I/paragraph/1), [35](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/part/I/paragraph/35)(*a*), 40, 42, 45, 46, 50(*a*), 51(*a*), 52–55, 57, 58 and Pt. II repealed by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 6](https://www.legislation.gov.uk/ukpga/1983/20/schedule/6)
 
-[^key-aa843ee6b0f8ef7066e3d056c712532c]: Textual amendment: [Sch. 3 para. 56](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/56) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
+[^c-aa843ee6b0f8ef7066e3d056c712532c]: Textual amendment: [Sch. 3 para. 56](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/paragraph/56) repealed (1.3.2007) by [National Health Service (Consequential Provisions) Act 2006 (c. 43)](https://www.legislation.gov.uk/ukpga/2006/43), [s. 8(2)](https://www.legislation.gov.uk/ukpga/2006/43/section/8/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/2006/43/schedule/4) (with [Sch. 2 Pt. 1 Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/43/schedule/2/part/1/schedule/3/part/1))
 
 [^c795258]: Textual amendment: [Sch. 3 Pt. I paras. 1–26](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/part/I/paragraph/1), [35](https://www.legislation.gov.uk/ukpga/1982/51/schedule/3/part/I/paragraph/35)(*a*), 40, 42, 45, 46, 50(*a*), 51(*a*), 52–55, 57, 58 and Pt. II repealed by [Mental Health Act 1983 (c. 20, SIF 85)](https://www.legislation.gov.uk/ukpga/1983/20), [Sch. 6](https://www.legislation.gov.uk/ukpga/1983/20/schedule/6)
 
@@ -720,7 +720,7 @@ Section 69(6).
 
 [^c795260]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54).
 
-[^key-d29e0a6da3741a77ecac8be8239a7c02]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-d29e0a6da3741a77ecac8be8239a7c02]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c795261]: Marginal citation: [1981 c. 55](https://www.legislation.gov.uk/ukpga/1981/55).
 

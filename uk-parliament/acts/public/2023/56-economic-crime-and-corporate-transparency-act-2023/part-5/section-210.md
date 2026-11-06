@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 210. Approved regulators: information powers relating to economic crime[^key-6dde0cb34b5218d5f735af55ff04d6e8][^key-d5d4b633ffb67df56ca24017a5e394b0]
+## 210. Approved regulators: information powers relating to economic crime[^c-6dde0cb34b5218d5f735af55ff04d6e8][^c-d5d4b633ffb67df56ca24017a5e394b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -128,6 +128,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6dde0cb34b5218d5f735af55ff04d6e8]: Commencement: S. 210 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-6dde0cb34b5218d5f735af55ff04d6e8]: Commencement: S. 210 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-d5d4b633ffb67df56ca24017a5e394b0]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2023/56/section/210) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z64)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z64)
+[^c-d5d4b633ffb67df56ca24017a5e394b0]: Commencement: [S. 210](https://www.legislation.gov.uk/ukpga/2023/56/section/210) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z64)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z64)

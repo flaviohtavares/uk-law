@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 75. Valuation of shootings and deer forests[^key-e928bafa90a44588bb10a7468e935ded]
+## 75. Valuation of shootings and deer forests[^c-e928bafa90a44588bb10a7468e935ded]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e928bafa90a44588bb10a7468e935ded]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2016/18/section/75) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))
+[^c-e928bafa90a44588bb10a7468e935ded]: Commencement: [S. 75](https://www.legislation.gov.uk/asp/2016/18/section/75) in force at 28.6.2016 by [S.S.I. 2016/193](https://www.legislation.gov.uk/ssi/2016/193), [reg. 2(1)](https://www.legislation.gov.uk/ssi/2016/193/regulation/2/1), [Sch.](https://www.legislation.gov.uk/ssi/2016/193/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2016/193/article/3))

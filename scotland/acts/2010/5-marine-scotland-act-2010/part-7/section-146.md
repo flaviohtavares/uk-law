@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 146. Power to require attendance of certain persons[^key-04907fa757970bb522a4b93cab8ba2f1]
+## 146. Power to require attendance of certain persons[^c-04907fa757970bb522a4b93cab8ba2f1]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ for the purpose of carrying out any relevant functions, the officer may require 
 
 ## Annotations
 
-[^key-04907fa757970bb522a4b93cab8ba2f1]: Commencement: [S. 146](https://www.legislation.gov.uk/asp/2010/5/section/146) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)
+[^c-04907fa757970bb522a4b93cab8ba2f1]: Commencement: [S. 146](https://www.legislation.gov.uk/asp/2010/5/section/146) in force at 1.7.2010 by [S.S.I. 2010/230](https://www.legislation.gov.uk/ssi/2010/230), [art. 2(e)](https://www.legislation.gov.uk/ssi/2010/230/article/2/e)

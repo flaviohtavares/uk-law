@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Purposes and basic definition[^key-6d5d1aab1946031024e4b4a23e9f3150]
+## 2. Purposes and basic definition[^c-6d5d1aab1946031024e4b4a23e9f3150]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6d5d1aab1946031024e4b4a23e9f3150]: Commencement: Reg. 2 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)
+[^c-6d5d1aab1946031024e4b4a23e9f3150]: Commencement: Reg. 2 in force at 26.11.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/3755/regulation/1)

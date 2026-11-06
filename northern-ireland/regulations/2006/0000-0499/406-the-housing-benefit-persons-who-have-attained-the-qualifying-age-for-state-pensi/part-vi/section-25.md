@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Calculation of claimant’s income and capital in savings credit only cases[^key-f05304da34073c947939be6c172426f2]
+## 25. Calculation of claimant’s income and capital in savings credit only cases[^c-f05304da34073c947939be6c172426f2]
 
 *Extent: N.I.*
 
@@ -38,7 +38,7 @@ summary: ''
   - (ii) payments of maintenance, whether under a court order or not, which is made or due to be made by—
     - (aa) the claimant’s former partner, or the claimant’s partner’s former partner; or
     - (bb) the parent of a child or young person where that child or young person is a member of the claimant’s family except where that parent is the claimant or the claimant’s partner;
-- (d) any amount to be disregarded by virtue of paragraph 5A or[^key-306d50d54211d4f0e9fb0313f8bfa099] 9(1) of Schedule 5;
+- (d) any amount to be disregarded by virtue of paragraph 5A or[^c-306d50d54211d4f0e9fb0313f8bfa099] 9(1) of Schedule 5;
 - (e) the income and capital of any partner of the claimant who is treated as a member of the claimant’s household under regulation 19 to the extent that it is not taken into account in determining the net income of the person claiming state pension credit;
 - (f) regulation 22, if the relevant authority determines that this provision applies in the claimant’s case;
 - (g) any income, in excess of £10, which falls to be disregarded under the provisions of paragraph 1 of Schedule 6.
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f05304da34073c947939be6c172426f2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/406/regulation/25) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
+[^c-f05304da34073c947939be6c172426f2]: Commencement: [Reg. 25](https://www.legislation.gov.uk/nisr/2006/406/regulation/25) in operation at 20.11.2006, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/406/regulation/1/1)
 
-[^key-306d50d54211d4f0e9fb0313f8bfa099]: Textual amendment: Words in [reg. 25(4)(d)](https://www.legislation.gov.uk/nisr/2006/406/regulation/25/4/d) inserted (5.4.2010 for specified purposes) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/382)](https://www.legislation.gov.uk/nisr/2009/382), [regs.](https://www.legislation.gov.uk/nisr/2009/382/regulation), [3(4)](https://www.legislation.gov.uk/nisr/2009/382/regulation/3/4)
+[^c-306d50d54211d4f0e9fb0313f8bfa099]: Textual amendment: Words in [reg. 25(4)(d)](https://www.legislation.gov.uk/nisr/2006/406/regulation/25/4/d) inserted (5.4.2010 for specified purposes) by [The Housing Benefit (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/382)](https://www.legislation.gov.uk/nisr/2009/382), [regs.](https://www.legislation.gov.uk/nisr/2009/382/regulation), [3(4)](https://www.legislation.gov.uk/nisr/2009/382/regulation/3/4)

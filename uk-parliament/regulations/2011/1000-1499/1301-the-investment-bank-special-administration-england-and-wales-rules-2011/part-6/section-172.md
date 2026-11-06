@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 172. Redemption by administrator[^key-33c7e03fc6c56469b08d3e751657c305]
+## 172. Redemption by administrator[^c-33c7e03fc6c56469b08d3e751657c305]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-33c7e03fc6c56469b08d3e751657c305]: Commencement: [Rule 172](https://www.legislation.gov.uk/uksi/2011/1301/rule/172) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-33c7e03fc6c56469b08d3e751657c305]: Commencement: [Rule 172](https://www.legislation.gov.uk/uksi/2011/1301/rule/172) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

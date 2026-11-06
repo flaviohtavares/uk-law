@@ -29,8 +29,8 @@ summary: ''
 - (a) completed such period of service as a trainee (a “**police trainee**”) as may be prescribed by regulations under section 41(3); and
 - (b) complied with such other conditions relating to training as may be so prescribed.
 
-(4)[^key-d54b313133006d96801aab9af8274537] Subsection (3) does not apply to a person appointed in pursuance of an authorisation under section 47A(1).
+(4)[^c-d54b313133006d96801aab9af8274537] Subsection (3) does not apply to a person appointed in pursuance of an authorisation under section 47A(1).
 
 ## Annotations
 
-[^key-d54b313133006d96801aab9af8274537]: Textual amendment: S. 36(4) inserted (8.4.2003) (temp. until 7.4.2005) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 23(2)](https://www.legislation.gov.uk/ukpga/2003/6/section/23/2)
+[^c-d54b313133006d96801aab9af8274537]: Textual amendment: S. 36(4) inserted (8.4.2003) (temp. until 7.4.2005) by [Police (Northern Ireland) Act 2003 (c. 6)](https://www.legislation.gov.uk/ukpga/2003/6), [s. 23(2)](https://www.legislation.gov.uk/ukpga/2003/6/section/23/2)

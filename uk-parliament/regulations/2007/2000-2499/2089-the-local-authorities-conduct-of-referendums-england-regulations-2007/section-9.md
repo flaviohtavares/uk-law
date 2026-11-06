@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 9. Counting officer[^key-42073c07420dea28396dbc7c45e19dbf]
+## 9. Counting officer[^c-42073c07420dea28396dbc7c45e19dbf]
 
 *Extent: E+W*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-42073c07420dea28396dbc7c45e19dbf]: Commencement: Reg. 9 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-42073c07420dea28396dbc7c45e19dbf]: Commencement: Reg. 9 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
 
 [^f00020]: Footnote: [1983 c. 2](https://www.legislation.gov.uk/ukpga/1983/2); subsection (1) was amended by paragraph 11 of Schedule 16 to the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51).

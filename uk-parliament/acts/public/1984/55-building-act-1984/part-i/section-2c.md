@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2C. Review of minimum energy performance requirements[^key-b048f11f7fdb36463205816fa53a4240]
+## 2C. Review of minimum energy performance requirements[^c-b048f11f7fdb36463205816fa53a4240]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The Secretary of State must carry out a review of any minimum energy performance
 
 ## Annotations
 
-[^key-b048f11f7fdb36463205816fa53a4240]: Textual amendment: S. 2C and cross-heading inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 165](https://www.legislation.gov.uk/ukpga/2016/22/section/165), [216(1)(e)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/e)
+[^c-b048f11f7fdb36463205816fa53a4240]: Textual amendment: S. 2C and cross-heading inserted (12.5.2016) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 165](https://www.legislation.gov.uk/ukpga/2016/22/section/165), [216(1)(e)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/1/e)

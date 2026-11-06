@@ -31,7 +31,7 @@ summary: ''
 
 SEEDS
 
-The Oil and Fibre Plant Seeds Amendment (Scotland) Regulations 2003 (revoked)[^key-6eab068e6830ba9a4452e48c911eca75]
+The Oil and Fibre Plant Seeds Amendment (Scotland) Regulations 2003 (revoked)[^c-6eab068e6830ba9a4452e48c911eca75]
 
 Made
 
@@ -45,28 +45,28 @@ Coming into force
 
 1st July 2003
 
-[^key-6eab068e6830ba9a4452e48c911eca75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6eab068e6830ba9a4452e48c911eca75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-6eab068e6830ba9a4452e48c911eca75]
+## 1. Citation, commencement and extent[^c-6eab068e6830ba9a4452e48c911eca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6eab068e6830ba9a4452e48c911eca75]
+## 2. Interpretation[^c-6eab068e6830ba9a4452e48c911eca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Regulations[^key-6eab068e6830ba9a4452e48c911eca75]
+## 3. Amendment of the principal Regulations[^c-6eab068e6830ba9a4452e48c911eca75]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6eab068e6830ba9a4452e48c911eca75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6eab068e6830ba9a4452e48c911eca75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6eab068e6830ba9a4452e48c911eca75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6eab068e6830ba9a4452e48c911eca75]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6eab068e6830ba9a4452e48c911eca75]: Textual amendment: Regulations revoked (26.9.2004) by [The Oil and Fibre Plant Seed (Scotland) Regulations 2004 (S.S.I. 2004/317)](https://www.legislation.gov.uk/ssi/2004/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1), [27(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/27/1), [sch. 8](https://www.legislation.gov.uk/ssi/2004/317/schedule/8) (with [reg. 27(2)](https://www.legislation.gov.uk/ssi/2004/317/regulation/27/2))
+[^c-6eab068e6830ba9a4452e48c911eca75]: Textual amendment: Regulations revoked (26.9.2004) by [The Oil and Fibre Plant Seed (Scotland) Regulations 2004 (S.S.I. 2004/317)](https://www.legislation.gov.uk/ssi/2004/317), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/1/1), [27(1)](https://www.legislation.gov.uk/ssi/2004/317/regulation/27/1), [sch. 8](https://www.legislation.gov.uk/ssi/2004/317/schedule/8) (with [reg. 27(2)](https://www.legislation.gov.uk/ssi/2004/317/regulation/27/2))

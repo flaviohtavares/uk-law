@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7.32. Filing of Gazette notices and advertisements[^key-d8c76f18471fac4278d12d316d7e8073]
+## 7.32. Filing of Gazette notices and advertisements[^c-d8c76f18471fac4278d12d316d7e8073]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ The officer's memorandum is prima facie evidence that any notice or advertisemen
 
 ## Annotations
 
-[^key-d8c76f18471fac4278d12d316d7e8073]: Commencement: [Rule 7.32](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.32) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-d8c76f18471fac4278d12d316d7e8073]: Commencement: [Rule 7.32](https://www.legislation.gov.uk/uksi/1986/1925/rule/7.32) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

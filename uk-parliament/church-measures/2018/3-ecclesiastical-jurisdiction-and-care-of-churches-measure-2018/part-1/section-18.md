@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 18. Jurisdiction[^key-d2419a9bcdcfa7f229ca9d29abc440f5]
+## 18. Jurisdiction[^c-d2419a9bcdcfa7f229ca9d29abc440f5]
 
 *Extent: E*
 
@@ -48,4 +48,4 @@ where the appeal to any extent relates to matter involving doctrine, ritual or c
 
 ## Annotations
 
-[^key-d2419a9bcdcfa7f229ca9d29abc440f5]: Commencement: [S. 18](https://www.legislation.gov.uk/ukcm/2018/3/section/18) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)
+[^c-d2419a9bcdcfa7f229ca9d29abc440f5]: Commencement: [S. 18](https://www.legislation.gov.uk/ukcm/2018/3/section/18) in force at 1.9.2018 by [S.I. 2018/720](https://www.legislation.gov.uk/uksi/2018/720), [art. 2](https://www.legislation.gov.uk/uksi/2018/720/article/2)

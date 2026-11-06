@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Restriction on creation of new public rights of way[^key-6a3945dac800498992786f3d16fa4286][^key-20d6b4b2b0bc3b6dba1103da7756b715]
+## 66. Restriction on creation of new public rights of way[^c-6a3945dac800498992786f3d16fa4286][^c-20d6b4b2b0bc3b6dba1103da7756b715]
 
 *Extent: E+W*
 
@@ -29,6 +29,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6a3945dac800498992786f3d16fa4286]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2006/16/section/66) in force at 2.5.2006 for E. immediately after the coming into force of 2000 c. 37, ss. 47-50 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 6](https://www.legislation.gov.uk/uksi/2006/1176/article/6)
+[^c-6a3945dac800498992786f3d16fa4286]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2006/16/section/66) in force at 2.5.2006 for E. immediately after the coming into force of 2000 c. 37, ss. 47-50 by [S.I. 2006/1176](https://www.legislation.gov.uk/uksi/2006/1176), [art. 6](https://www.legislation.gov.uk/uksi/2006/1176/article/6)
 
-[^key-20d6b4b2b0bc3b6dba1103da7756b715]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2006/16/section/66) in force at 16.11.2006 for W. by [S.I. 2006/2992](https://www.legislation.gov.uk/wsi/2006/2992), [art. 2](https://www.legislation.gov.uk/wsi/2006/2992/article/2)
+[^c-20d6b4b2b0bc3b6dba1103da7756b715]: Commencement: [S. 66](https://www.legislation.gov.uk/ukpga/2006/16/section/66) in force at 16.11.2006 for W. by [S.I. 2006/2992](https://www.legislation.gov.uk/wsi/2006/2992), [art. 2](https://www.legislation.gov.uk/wsi/2006/2992/article/2)

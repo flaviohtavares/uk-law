@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Interdict in certain cases[^key-d6bf511cd9edfed82de91dfa09eaa974]
+## 62. Interdict in certain cases[^c-d6bf511cd9edfed82de91dfa09eaa974]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ In section 7 (freedom of cropping and disposal of produce) of the 1991 Act—
 
 ## Annotations
 
-[^key-d6bf511cd9edfed82de91dfa09eaa974]: Commencement: S. 62 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-d6bf511cd9edfed82de91dfa09eaa974]: Commencement: S. 62 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(e)](https://www.legislation.gov.uk/ssi/2003/548/article/2/e) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16A. Voluntary office-holders: compensation for lost profits[^key-dc8427633100d4a0c36f38da27c09e08]
+## 16A. Voluntary office-holders: compensation for lost profits[^c-dc8427633100d4a0c36f38da27c09e08]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dc8427633100d4a0c36f38da27c09e08]: Textual amendment: S. 16A inserted (6.4.2018) by [The Enactment of Extra-Statutory Concessions Order 2018 (S.I. 2018/282)](https://www.legislation.gov.uk/uksi/2018/282), [arts. 1](https://www.legislation.gov.uk/uksi/2018/282/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/282/article/3/3)
+[^c-dc8427633100d4a0c36f38da27c09e08]: Textual amendment: S. 16A inserted (6.4.2018) by [The Enactment of Extra-Statutory Concessions Order 2018 (S.I. 2018/282)](https://www.legislation.gov.uk/uksi/2018/282), [arts. 1](https://www.legislation.gov.uk/uksi/2018/282/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2018/282/article/3/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Water quality: powers of Secretary of State[^key-07152d3a52b654ebdf0ef2ca53f72ee8][^key-f964aeec0def00e74d5674c9ec808e97]
+## 89. Water quality: powers of Secretary of State[^c-07152d3a52b654ebdf0ef2ca53f72ee8][^c-f964aeec0def00e74d5674c9ec808e97]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,6 +66,6 @@ unless those Ministers or that Department consents.
 
 ## Annotations
 
-[^key-07152d3a52b654ebdf0ef2ca53f72ee8]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2021/30/section/89) in force at 9.1.2022 for specified purposes, see [s. 147(2)(l)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/l)
+[^c-07152d3a52b654ebdf0ef2ca53f72ee8]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2021/30/section/89) in force at 9.1.2022 for specified purposes, see [s. 147(2)(l)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/l)
 
-[^key-f964aeec0def00e74d5674c9ec808e97]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2021/30/section/89) in force at 28.2.2022 in so far as not already in force for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/n)
+[^c-f964aeec0def00e74d5674c9ec808e97]: Commencement: [S. 89](https://www.legislation.gov.uk/ukpga/2021/30/section/89) in force at 28.2.2022 in so far as not already in force for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(n)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/n)

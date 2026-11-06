@@ -34,7 +34,7 @@ Order made by the Secretary of State under section 6(1) of the Export Control Ac
 
 Customs
 
-The Export Control (Amendment) Order 2011 (revoked)[^key-1e5ae48301f3a1fb923ad5ced41b0a0d]
+The Export Control (Amendment) Order 2011 (revoked)[^c-1e5ae48301f3a1fb923ad5ced41b0a0d]
 
 Made
 
@@ -48,24 +48,24 @@ Laid before Parliament
 
 28th February 2011
 
-[^key-1e5ae48301f3a1fb923ad5ced41b0a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e5ae48301f3a1fb923ad5ced41b0a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and expiration[^key-1e5ae48301f3a1fb923ad5ced41b0a0d]
+## 1. Citation, commencement and expiration[^c-1e5ae48301f3a1fb923ad5ced41b0a0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments related to Libyan bank notes[^key-1e5ae48301f3a1fb923ad5ced41b0a0d]
+## 2. Amendments related to Libyan bank notes[^c-1e5ae48301f3a1fb923ad5ced41b0a0d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1e5ae48301f3a1fb923ad5ced41b0a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e5ae48301f3a1fb923ad5ced41b0a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1e5ae48301f3a1fb923ad5ced41b0a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1e5ae48301f3a1fb923ad5ced41b0a0d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1e5ae48301f3a1fb923ad5ced41b0a0d]: Textual amendment: Order revoked (2.3.2011 at 7 p.m.) by [The Export Control (Amendment) (No. 2) Order 2011 (S.I. 2011/580)](https://www.legislation.gov.uk/uksi/2011/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/580/article/1/2), [3](https://www.legislation.gov.uk/uksi/2011/580/article/3)
+[^c-1e5ae48301f3a1fb923ad5ced41b0a0d]: Textual amendment: Order revoked (2.3.2011 at 7 p.m.) by [The Export Control (Amendment) (No. 2) Order 2011 (S.I. 2011/580)](https://www.legislation.gov.uk/uksi/2011/580), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/580/article/1/2), [3](https://www.legislation.gov.uk/uksi/2011/580/article/3)

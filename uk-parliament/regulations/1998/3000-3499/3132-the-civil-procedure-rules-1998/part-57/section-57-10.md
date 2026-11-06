@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 57.10. Failure to acknowledge service or to file a defence[^key-cde46d73152a6807962bb3825076a841]
+## 57.10. Failure to acknowledge service or to file a defence[^c-cde46d73152a6807962bb3825076a841]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ proceed with the probate claim as if that defendant had acknowledged service.
 
 ## Annotations
 
-[^key-cde46d73152a6807962bb3825076a841]: Textual amendment: [Pt. 57](https://www.legislation.gov.uk/uksi/1998/3132/part/57) inserted (15.10.2001) by [The Civil Procedure (Amendment No. 2) Rules 2001 (S.I. 2001/1388)](https://www.legislation.gov.uk/uksi/2001/1388), [rule 1(b)](https://www.legislation.gov.uk/uksi/2001/1388/rule/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2001/1388/schedule) (with [rule 19](https://www.legislation.gov.uk/uksi/2001/1388/rule/19))
+[^c-cde46d73152a6807962bb3825076a841]: Textual amendment: [Pt. 57](https://www.legislation.gov.uk/uksi/1998/3132/part/57) inserted (15.10.2001) by [The Civil Procedure (Amendment No. 2) Rules 2001 (S.I. 2001/1388)](https://www.legislation.gov.uk/uksi/2001/1388), [rule 1(b)](https://www.legislation.gov.uk/uksi/2001/1388/rule/1/b), [Sch.](https://www.legislation.gov.uk/uksi/2001/1388/schedule) (with [rule 19](https://www.legislation.gov.uk/uksi/2001/1388/rule/19))

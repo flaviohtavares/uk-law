@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 152. Forfeiture: offences committed by a member’s beneficiary[^key-ca28654bfcd2ba7076c01e32be6a3e3f]
+## 152. Forfeiture: offences committed by a member’s beneficiary[^c-ca28654bfcd2ba7076c01e32be6a3e3f]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca28654bfcd2ba7076c01e32be6a3e3f]: Commencement: [Reg. 152](https://www.legislation.gov.uk/uksi/2015/182/regulation/152) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)
+[^c-ca28654bfcd2ba7076c01e32be6a3e3f]: Commencement: [Reg. 152](https://www.legislation.gov.uk/uksi/2015/182/regulation/152) in force at 1.4.2015, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2015/182/regulation/1/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 13. Public rights of way[^key-9a3da8f700f75722af0618360fe4e3df]
+## 13. Public rights of way[^c-9a3da8f700f75722af0618360fe4e3df]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9a3da8f700f75722af0618360fe4e3df]: Commencement: Art. 13 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)
+[^c-9a3da8f700f75722af0618360fe4e3df]: Commencement: Art. 13 in force at 23.6.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1347/article/1)

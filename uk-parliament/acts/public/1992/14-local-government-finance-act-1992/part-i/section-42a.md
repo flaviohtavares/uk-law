@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 42A. Calculation of council tax requirement by authorities in England[^key-054a731a5eba53afb925d8dc59371760]
+## 42A. Calculation of council tax requirement by authorities in England[^c-054a731a5eba53afb925d8dc59371760]
 
 *Extent: E+W*
 
@@ -45,7 +45,7 @@ summary: ''
 
 (7) But (except as provided by regulations under section 74 of the 1988 Act) the authority must not anticipate a levy not issued.
 
-(7A)[^key-fd09bbd6c1de76c857c6f0c96f449d89] In estimating under subsection (2)(a) above an authority must take into account the amount of expenditure which it estimates it will incur in the year in accordance with regulations under section 99(3) of the 1988 Act.
+(7A)[^c-fd09bbd6c1de76c857c6f0c96f449d89] In estimating under subsection (2)(a) above an authority must take into account the amount of expenditure which it estimates it will incur in the year in accordance with regulations under section 99(3) of the 1988 Act.
 
 (8) For the purposes of subsection (2)(c) above an authority's estimated future expenditure is—
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-054a731a5eba53afb925d8dc59371760]: Textual amendment: Ss. 42A, 42B inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 75](https://www.legislation.gov.uk/ukpga/2011/20/section/75), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)
+[^c-054a731a5eba53afb925d8dc59371760]: Textual amendment: Ss. 42A, 42B inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 75](https://www.legislation.gov.uk/ukpga/2011/20/section/75), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(g)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/g)
 
-[^key-fd09bbd6c1de76c857c6f0c96f449d89]: Textual amendment: S. 42A(7A) inserted (with effect in accordance with art. 1(2)(3) of the amending S.I.) by [The Localism Act 2011 (Consequential Amendments) Order 2014 (S.I. 2014/389)](https://www.legislation.gov.uk/uksi/2014/389), [art. 3](https://www.legislation.gov.uk/uksi/2014/389/article/3)
+[^c-fd09bbd6c1de76c857c6f0c96f449d89]: Textual amendment: S. 42A(7A) inserted (with effect in accordance with art. 1(2)(3) of the amending S.I.) by [The Localism Act 2011 (Consequential Amendments) Order 2014 (S.I. 2014/389)](https://www.legislation.gov.uk/uksi/2014/389), [art. 3](https://www.legislation.gov.uk/uksi/2014/389/article/3)

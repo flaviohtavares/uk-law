@@ -32,7 +32,7 @@ summary: ''
 
 European Union
 
-The European Union (Definition of Treaties) (Comprehensive and Enhanced Partnership Agreement) (Armenia) Order 2018 (revoked)[^key-ecf3990cf0563c13bc1dd39ba64c1216]
+The European Union (Definition of Treaties) (Comprehensive and Enhanced Partnership Agreement) (Armenia) Order 2018 (revoked)[^c-ecf3990cf0563c13bc1dd39ba64c1216]
 
 Made
 
@@ -46,20 +46,20 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-ecf3990cf0563c13bc1dd39ba64c1216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecf3990cf0563c13bc1dd39ba64c1216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-ecf3990cf0563c13bc1dd39ba64c1216] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-ecf3990cf0563c13bc1dd39ba64c1216] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-ecf3990cf0563c13bc1dd39ba64c1216] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-ecf3990cf0563c13bc1dd39ba64c1216] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-ecf3990cf0563c13bc1dd39ba64c1216] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-ecf3990cf0563c13bc1dd39ba64c1216] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ecf3990cf0563c13bc1dd39ba64c1216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecf3990cf0563c13bc1dd39ba64c1216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ecf3990cf0563c13bc1dd39ba64c1216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ecf3990cf0563c13bc1dd39ba64c1216]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ecf3990cf0563c13bc1dd39ba64c1216]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1063) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-ecf3990cf0563c13bc1dd39ba64c1216]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2018/1063) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

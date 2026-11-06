@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Restriction on transplants involving a live donor[^key-e567369abd72b60a8aece91973dfee79][^key-a6c5e13a61fd591c61af2b97e901c7dd]
+## 33. Restriction on transplants involving a live donor[^c-e567369abd72b60a8aece91973dfee79][^c-a6c5e13a61fd591c61af2b97e901c7dd]
 
 *Extent: E+W+N.I.*
 
-(1)[^key-5bb0a5fe455463452c7ecd08c9f74026] Subject to subsections (3) and (5), a person commits an offence if—
+(1)[^c-5bb0a5fe455463452c7ecd08c9f74026] Subject to subsections (3) and (5), a person commits an offence if—
 
 - (a) he removes any transplantable material from the body of a living person intending that the material be used for the purpose of transplantation, and
 - (b) when he removes the material, he knows, or might reasonably be expected to know, that the person from whose body he removes the material is alive.
 
-(2)[^key-5bb0a5fe455463452c7ecd08c9f74026] Subject to subsections (3) and (5), a person commits an offence if—
+(2)[^c-5bb0a5fe455463452c7ecd08c9f74026] Subject to subsections (3) and (5), a person commits an offence if—
 
 - (a) he uses for the purpose of transplantation any transplantable material which has come from the body of a living person, and
 - (b) when he does so, he knows, or might reasonably be expected to know, that the transplantable material has come from the body of a living person.
@@ -54,8 +54,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e567369abd72b60a8aece91973dfee79]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2004/30/section/33) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2792/article/3))
+[^c-e567369abd72b60a8aece91973dfee79]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2004/30/section/33) in force at 20.10.2005 for specified purposes by [S.I. 2005/2792](https://www.legislation.gov.uk/uksi/2005/2792), [art. 2(2)(j)](https://www.legislation.gov.uk/uksi/2005/2792/article/2/2/j) (with [art. 3](https://www.legislation.gov.uk/uksi/2005/2792/article/3))
 
-[^key-a6c5e13a61fd591c61af2b97e901c7dd]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2004/30/section/33) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
+[^c-a6c5e13a61fd591c61af2b97e901c7dd]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2004/30/section/33) in force at 1.9.2006 in so far as not already in force by [S.I. 2006/1997](https://www.legislation.gov.uk/uksi/2006/1997), [art. 3(2)](https://www.legislation.gov.uk/uksi/2006/1997/article/3/2) (with [arts. 4](https://www.legislation.gov.uk/uksi/2006/1997/article/4), [7](https://www.legislation.gov.uk/uksi/2006/1997/article/7), [8](https://www.legislation.gov.uk/uksi/2006/1997/article/8))
 
-[^key-5bb0a5fe455463452c7ecd08c9f74026]: Modification: [S. 33(1)](https://www.legislation.gov.uk/ukpga/2004/30/section/33/1)[(2)](https://www.legislation.gov.uk/ukpga/2004/30/section/33/2) excluded (1.9.2006) by [Human Tissue Act 2004 (Persons who Lack Capacity to Consent and Transplants) Regulations 2006 (S.I. 2006/1659)](https://www.legislation.gov.uk/uksi/2006/1659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1659/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2006/1659/regulation/11)
+[^c-5bb0a5fe455463452c7ecd08c9f74026]: Modification: [S. 33(1)](https://www.legislation.gov.uk/ukpga/2004/30/section/33/1)[(2)](https://www.legislation.gov.uk/ukpga/2004/30/section/33/2) excluded (1.9.2006) by [Human Tissue Act 2004 (Persons who Lack Capacity to Consent and Transplants) Regulations 2006 (S.I. 2006/1659)](https://www.legislation.gov.uk/uksi/2006/1659), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1659/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2006/1659/regulation/11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Encouraging or assisting criminal conduct[^key-0d31fc07c9d89b53b00f4ed41d0c6569][^key-11bcaad81cf25c30444610aa0091ec26][^key-3d49b0fe741228bca76c428ca32ac77c]
+## 46. Encouraging or assisting criminal conduct[^c-0d31fc07c9d89b53b00f4ed41d0c6569][^c-11bcaad81cf25c30444610aa0091ec26][^c-3d49b0fe741228bca76c428ca32ac77c]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,8 +28,8 @@ summary: ''
 
 ## Annotations
 
-[^key-0d31fc07c9d89b53b00f4ed41d0c6569]: Commencement: S. 46 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-0d31fc07c9d89b53b00f4ed41d0c6569]: Commencement: S. 46 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-11bcaad81cf25c30444610aa0091ec26]: Commencement: S. 46 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-11bcaad81cf25c30444610aa0091ec26]: Commencement: S. 46 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-3d49b0fe741228bca76c428ca32ac77c]: Textual amendment: S. 46 substituted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2007/27/schedule/5/paragraph/11) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)
+[^c-3d49b0fe741228bca76c428ca32ac77c]: Textual amendment: S. 46 substituted (1.10.2008) by [Serious Crime Act 2007 (c. 27)](https://www.legislation.gov.uk/ukpga/2007/27), [s. 94(1)](https://www.legislation.gov.uk/ukpga/2007/27/section/94/1), [Sch. 5 para. 11](https://www.legislation.gov.uk/ukpga/2007/27/schedule/5/paragraph/11) (with [Sch. 13 para. 5](https://www.legislation.gov.uk/ukpga/2007/27/schedule/13/paragraph/5)); [S.I. 2008/2504](https://www.legislation.gov.uk/uksi/2008/2504), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2504/article/2/a)

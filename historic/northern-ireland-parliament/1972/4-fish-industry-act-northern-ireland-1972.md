@@ -61,7 +61,7 @@ for use in connection with that business.
 
 (2) For the purposes of this section, a co-operative enterprise in the fish industry means an enterprise for the carrying out of proposals designed to organise, promote, encourage, develop or co-ordinate any form of co-operation in the fishing industry, including co-operation and mutual assistance in production, storage, preparation for market (including processing), marketing, transport, the provision of buildings, equipment and services for fishermen, research and other incidental activities.
 
-(3) No grants shall be made in pursuance of a scheme under this section to any body in connection with any enterprise if the body is not a registered society within the meaning of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^key-f37e7dfad687c5ec77467d7c967ca4a4] at the time when the grant would, but for this subsection, become payable.
+(3) No grants shall be made in pursuance of a scheme under this section to any body in connection with any enterprise if the body is not a registered society within the meaning of the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^c-f37e7dfad687c5ec77467d7c967ca4a4] at the time when the grant would, but for this subsection, become payable.
 
 ## 3. Grants in relation to fish processing.
 
@@ -152,12 +152,12 @@ A scheme[^c11615251] made under this Act—
 
 (1) The Ministry, subject to the approval of the Ministry of Finance, may—
 
-- (a) subscribe for, acquire, hold and dispose of shares in any company, or the holding company of any company, or in any registered society[^key-68d9162038bec940241f509d829a04b7] , carrying on a business or enterprise in the fish industry;
+- (a) subscribe for, acquire, hold and dispose of shares in any company, or the holding company of any company, or in any registered society[^c-68d9162038bec940241f509d829a04b7] , carrying on a business or enterprise in the fish industry;
 - (b) acquire, manage and dispose of, all or any part of, any business in the fish industry.
 
 (2) The Ministry may exercise in respect of any shares of a company or society held by it under subsection (1)( *a*) all the rights and powers of a holder of such shares and, where a right or power is exercisable by attorney or nominee, exercise it by its attorney or nominee and in respect of any such shares may do so without prejudice to section 323 of the Companies Act 2006[^c20717041] or to the rules of the society.
 
-(3) For the purpose of compliance with so much of any provision of the Companies Act (Northern Ireland) [^m00005] 1960 or the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^key-a629fb02cdc9fc6e23e8b0d987d37c01] as requires that there shall always be a minimum number of members of a company or society, the Ministry may transfer to one or more than one nominee shares held by it in a company or society under subsection (1)( *a*).
+(3) For the purpose of compliance with so much of any provision of the Companies Act (Northern Ireland) [^m00005] 1960 or the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969[^c-a629fb02cdc9fc6e23e8b0d987d37c01] as requires that there shall always be a minimum number of members of a company or society, the Ministry may transfer to one or more than one nominee shares held by it in a company or society under subsection (1)( *a*).
 
 (4) Every such nominee shall hold his share in the company or society upon trust for the Ministry and shall accordingly be bound to pay all dividends and other money and hold all rights which he receives in respect of the share to or for the Ministry for the benefit of the Exchequer and to transfer, as and when required by the Ministry, the share to the Ministry or another nominee of the Ministry.
 
@@ -166,8 +166,8 @@ A scheme[^c11615251] made under this Act—
 - “a business or enterprise in the fish industry” means a business or enterprise involving the taking or marketing of fish or a business or enterprise to which section 1, 2, 3 or 4 applies;
 - “company” means a company within the meaning of the Companies (Northern Ireland) Order 1986 and also includes a company to which Part XXIII of that Order applies[^c11615491];
 - “holding company” has the same meaning as in the Companies (Northern Ireland) Order 1986;
-- [^key-a2fced8031c2366f7dfce753fbb97f6e]...
-- “[^key-167ca3acc4395a9d4f4b9513eb9d7277]**registered society**” has the same meaning as in the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969;
+- [^c-a2fced8031c2366f7dfce753fbb97f6e]...
+- “[^c-167ca3acc4395a9d4f4b9513eb9d7277]**registered society**” has the same meaning as in the Co-operative and Community Benefit Societies Act (Northern Ireland) 1969;
 - “shares” in relation to a company, includes stock;
 
 and any reference to the acquisition of shares includes a reference to the shares being acquired by a company as a nominee of the Ministry.
@@ -200,7 +200,7 @@ This Act may be cited as the Fish Industry Act (Northern Ireland) 1972.
 
 [^m00001]: Marginal citation: 1966 c.17
 
-[^key-f37e7dfad687c5ec77467d7c967ca4a4]: Textual amendment: Words in [s. 2(3)](https://www.legislation.gov.uk/apni/1972/4/section/2/3) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/16); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-f37e7dfad687c5ec77467d7c967ca4a4]: Textual amendment: Words in [s. 2(3)](https://www.legislation.gov.uk/apni/1972/4/section/2/3) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/16); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
 [^c11615241]: Textual amendment: functions transf. by SR 2003/163
 
@@ -218,19 +218,19 @@ This Act may be cited as the Fish Industry Act (Northern Ireland) 1972.
 
 [^c11615451]: Textual amendment: [1984 NI 3](https://www.legislation.gov.uk/1984/ni3)
 
-[^key-68d9162038bec940241f509d829a04b7]: Textual amendment: Words in s. 9(1)(a) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/17/2); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-68d9162038bec940241f509d829a04b7]: Textual amendment: Words in s. 9(1)(a) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 17(2)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/17/2); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
 [^c20717041]: Textual amendment: Words in s. 9(2) substituted (6.4.2008) by [Companies Act 2006 (Consequential Amendments etc) Order 2008 (S.I. 2008/948)](https://www.legislation.gov.uk/uksi/2008/948), [arts. 2(2)](https://www.legislation.gov.uk/uksi/2008/948/article/2/2), [3(1)](https://www.legislation.gov.uk/uksi/2008/948/article/3/1), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2008/948/schedule/1/paragraph/43) (with [arts. 6](https://www.legislation.gov.uk/uksi/2008/948/article/6), [11](https://www.legislation.gov.uk/uksi/2008/948/article/11), [12](https://www.legislation.gov.uk/uksi/2008/948/article/12))
 
 [^m00005]: Marginal citation: 1969 c.24
 
-[^key-a629fb02cdc9fc6e23e8b0d987d37c01]: Textual amendment: Words in s. 9(3) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/17/3); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-a629fb02cdc9fc6e23e8b0d987d37c01]: Textual amendment: Words in s. 9(3) substituted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 17(3)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/17/3); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
 [^c11615491]: Textual amendment: [1986 NI 9](https://www.legislation.gov.uk/nisi/1986)
 
-[^key-a2fced8031c2366f7dfce753fbb97f6e]: Textual amendment: Words in s. 9(5) omitted (6.4.2018) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 17(4)(a)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/17/4/a); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-a2fced8031c2366f7dfce753fbb97f6e]: Textual amendment: Words in s. 9(5) omitted (6.4.2018) by virtue of [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 17(4)(a)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/17/4/a); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
-[^key-167ca3acc4395a9d4f4b9513eb9d7277]: Textual amendment: Words in s. 9(5) inserted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 17(4)(b)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/17/4/b); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
+[^c-167ca3acc4395a9d4f4b9513eb9d7277]: Textual amendment: Words in s. 9(5) inserted (6.4.2018) by [Credit Unions and Co-operative and Community Benefit Societies Act (Northern Ireland) 2016 (c. 16)](https://www.legislation.gov.uk/nia/2016/16), [s. 17(2)](https://www.legislation.gov.uk/nia/2016/16/section/17/2), [Sch. 1 para. 17(4)(b)](https://www.legislation.gov.uk/nia/2016/16/schedule/1/paragraph/17/4/b); [S.R. 2017/217](https://www.legislation.gov.uk/nisr/2017/217), [art. 2(d)](https://www.legislation.gov.uk/nisr/2017/217/article/2/d)
 
 [^c11615531]: Textual amendment: [1994 NI 6](https://www.legislation.gov.uk/1994/ni6)
 

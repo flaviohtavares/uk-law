@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 38. Minimum age for applicants for certificates or to be registered[^key-ae0c8f7bdec98e993510d0c22314daa5]
+## 38. Minimum age for applicants for certificates or to be registered[^c-ae0c8f7bdec98e993510d0c22314daa5]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ae0c8f7bdec98e993510d0c22314daa5]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2015/9/section/38) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(c)](https://www.legislation.gov.uk/nisr/2015/358/article/2/c)
+[^c-ae0c8f7bdec98e993510d0c22314daa5]: Commencement: [S. 38](https://www.legislation.gov.uk/nia/2015/9/section/38) in operation at 2.11.2015 by [S.R. 2015/358](https://www.legislation.gov.uk/nisr/2015/358), [art. 2(c)](https://www.legislation.gov.uk/nisr/2015/358/article/2/c)

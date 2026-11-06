@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Exemplary damages[^key-a1aa59c2ea0ef03d4e10e538df9369b7][^key-4b502a31188e402c1e5490b5f85d656a]
+## 126. Exemplary damages[^c-a1aa59c2ea0ef03d4e10e538df9369b7][^c-4b502a31188e402c1e5490b5f85d656a]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a1aa59c2ea0ef03d4e10e538df9369b7]: Commencement: S. 126 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-a1aa59c2ea0ef03d4e10e538df9369b7]: Commencement: S. 126 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-4b502a31188e402c1e5490b5f85d656a]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2024/13/section/126) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-4b502a31188e402c1e5490b5f85d656a]: Commencement: [S. 126](https://www.legislation.gov.uk/ukpga/2024/13/section/126) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

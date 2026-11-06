@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 78. Circumventing etc. prohibitions[^key-2c6f60807a688597c798383ccaa0100d][^key-18347a9e21404babdf6f7a7b3b7c6210]
+## 78. Circumventing etc. prohibitions[^c-2c6f60807a688597c798383ccaa0100d][^c-18347a9e21404babdf6f7a7b3b7c6210]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2c6f60807a688597c798383ccaa0100d]: Commencement: Reg. 78 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-2c6f60807a688597c798383ccaa0100d]: Commencement: Reg. 78 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-18347a9e21404babdf6f7a7b3b7c6210]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2019/411/regulation/78) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-18347a9e21404babdf6f7a7b3b7c6210]: Commencement: [Reg. 78](https://www.legislation.gov.uk/uksi/2019/411/regulation/78) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -33,7 +33,7 @@ MERCHANT SHIPPING
 
 SAFETY
 
-The Merchant Shipping (Fire Protection: Large Ships) Regulations 1998 (revoked)[^key-43acfdd8c7aa487d892497dc2d282048]
+The Merchant Shipping (Fire Protection: Large Ships) Regulations 1998 (revoked)[^c-43acfdd8c7aa487d892497dc2d282048]
 
 Made
 
@@ -47,17 +47,17 @@ Coming into force
 
 11th May 1998
 
-[^key-43acfdd8c7aa487d892497dc2d282048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43acfdd8c7aa487d892497dc2d282048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART I — PRELIMINARY[^key-43acfdd8c7aa487d892497dc2d282048]
+### PART I — PRELIMINARY[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-#### Citation, commencement, interpretation, application, exemption and revocation[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Citation, commencement, interpretation, application, exemption and revocation[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -66,7 +66,7 @@ Coming into force
 - [Section 1 — Citation and commencement](part-i/section-1.md)
 - [Section 2 — Classification of ships](part-i/section-2.md)
 
-### PART II — FIRE PREVENTION AND FIRE APPLIANCES — PASSENGER SHIPS — SHIPS OF CLASS I[^key-43acfdd8c7aa487d892497dc2d282048]
+### PART II — FIRE PREVENTION AND FIRE APPLIANCES — PASSENGER SHIPS — SHIPS OF CLASS I[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -74,7 +74,7 @@ Coming into force
 
 - [Section 3 — Fire pumps, fire main, water service pipes, hydrants, hoses and nozzles](part-ii/section-3.md)
 
-#### Additional requirements for ships constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Additional requirements for ships constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -83,7 +83,7 @@ Coming into force
 - [Section 4 — Portable fire extinguishers in accommodation, cargo and service spaces](part-ii/section-4.md)
 - [Section 5 — Fixed fire-extinguishing systems in cargo spaces](part-ii/section-5.md)
 
-#### Requirements for ships constructed on or after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Requirements for ships constructed on or after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -93,7 +93,7 @@ Coming into force
 - [Section 7 — Machinery spaces of Category A](part-ii/section-7.md)
 - [Section 8 — Machinery spaces containing steam turbines or enclosed steam engines](part-ii/section-8.md)
 
-#### Requirements for ships constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Requirements for ships constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -103,7 +103,7 @@ Coming into force
 - [Section 10 — Paint lockers etc.](part-ii/section-10.md)
 - [Section 11 — Fire patrol, detection and alarm systems](part-ii/section-11.md)
 
-#### Additional requirement for ships constructed on or after 1st October 1994[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Additional requirement for ships constructed on or after 1st October 1994[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -112,7 +112,7 @@ Coming into force
 - [Section 12 — Firemen’s outfits](part-ii/section-12.md)
 - [Section 13 — International shore connection](part-ii/section-13.md)
 
-### SHIPS OF CLASS II[^key-43acfdd8c7aa487d892497dc2d282048]
+### SHIPS OF CLASS II[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -120,7 +120,7 @@ Coming into force
 
 - [Section 14](part-3/section-14.md)
 
-### SHIPS OF CLASS II(A) OF 21.34 METRES IN LENGTH OR OVER[^key-43acfdd8c7aa487d892497dc2d282048]
+### SHIPS OF CLASS II(A) OF 21.34 METRES IN LENGTH OR OVER[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -128,7 +128,7 @@ Coming into force
 
 - [Section 15](part-4/section-15.md)
 
-### PART III — FIRE PREVENTION AND FIRE APPLIANCES — SHIPS OTHER THAN PASSENGER SHIPS AND TANKERS — SHIPS OF CLASS VII OF 500 TONS OR OVER[^key-43acfdd8c7aa487d892497dc2d282048]
+### PART III — FIRE PREVENTION AND FIRE APPLIANCES — SHIPS OTHER THAN PASSENGER SHIPS AND TANKERS — SHIPS OF CLASS VII OF 500 TONS OR OVER[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -136,7 +136,7 @@ Coming into force
 
 - [Section 16 — Fire pumps, fire mains, water service pipes, hydrants, hoses and nozzles](part-iii/section-16.md)
 
-#### Additional requirements for ships constructed on or after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Additional requirements for ships constructed on or after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -144,7 +144,7 @@ Coming into force
 
 - [Section 17 — Portable fire extinguishers](part-iii/section-17.md)
 
-#### Additional requirements for ships constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Additional requirements for ships constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -152,7 +152,7 @@ Coming into force
 
 - [Section 18 — Fixed fire-extinguishing arrangements in cargo spaces](part-iii/section-18.md)
 
-#### Requirements for ships constructed on or after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Requirements for ships constructed on or after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -162,7 +162,7 @@ Coming into force
 - [Section 20 — Machinery spaces of Category A](part-iii/section-20.md)
 - [Section 21 — Machinery spaces containing steam turbines or enclosed steam engines](part-iii/section-21.md)
 
-#### Requirements for ships constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Requirements for ships constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -172,7 +172,7 @@ Coming into force
 - [Section 23 — Paint lockers etc.](part-iii/section-23.md)
 - [Section 24 — Fire detection and fire alarm systems and sample extraction smoke detection systems](part-iii/section-24.md)
 
-#### Additional requirements for ships constructed on or after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Additional requirements for ships constructed on or after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -180,7 +180,7 @@ Coming into force
 
 - [Section 25 — Firemen’s outfits](part-iii/section-25.md)
 
-#### Requirements for ships constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Requirements for ships constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -188,7 +188,7 @@ Coming into force
 
 - [Section 26 — International shore connection](part-iii/section-26.md)
 
-### SHIPS OF CLASS VII(A)[^key-43acfdd8c7aa487d892497dc2d282048]
+### SHIPS OF CLASS VII(A)[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -196,7 +196,7 @@ Coming into force
 
 - [Section 27](part-6/section-27.md)
 
-### SHIPS OF CLASS VIII[^key-43acfdd8c7aa487d892497dc2d282048]
+### SHIPS OF CLASS VIII[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -204,7 +204,7 @@ Coming into force
 
 - [Section 28 — Requirements for ships of 1,000 tons or over constructed before 25th May 1980](part-7/section-28.md)
 
-### PART IV — FIRE PREVENTION AND FIRE APPLIANCES — TANKERS OF CLASS VII(T) OF 500 TONS OR OVER[^key-43acfdd8c7aa487d892497dc2d282048]
+### PART IV — FIRE PREVENTION AND FIRE APPLIANCES — TANKERS OF CLASS VII(T) OF 500 TONS OR OVER[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -212,7 +212,7 @@ Coming into force
 
 - [Section 29 — General requirements](part-iv/section-29.md)
 
-#### Inert gas systems[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Inert gas systems[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -220,7 +220,7 @@ Coming into force
 
 - [Section 30](part-iv/section-30.md)
 
-#### Requirements for ships constructed on or after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Requirements for ships constructed on or after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -228,7 +228,7 @@ Coming into force
 
 - [Section 31](part-iv/section-31.md)
 
-#### Fixed fire-extinguishing arrangements in cargo pump rooms[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Fixed fire-extinguishing arrangements in cargo pump rooms[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -236,7 +236,7 @@ Coming into force
 
 - [Section 32](part-iv/section-32.md)
 
-#### Requirements for ships constructed on or after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Requirements for ships constructed on or after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -245,7 +245,7 @@ Coming into force
 - [Section 33](part-iv/section-33.md)
 - [Section 34 — Firemen’s outfits](part-iv/section-34.md)
 
-### TANKERS OF CLASS VIII(T)[^key-43acfdd8c7aa487d892497dc2d282048]
+### TANKERS OF CLASS VIII(T)[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -253,7 +253,7 @@ Coming into force
 
 - [Section 35](part-12/section-35.md)
 
-### TANKERS OF CLASSES VIII(A)(T) AND IX(A)(T)[^key-43acfdd8c7aa487d892497dc2d282048]
+### TANKERS OF CLASSES VIII(A)(T) AND IX(A)(T)[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -261,7 +261,7 @@ Coming into force
 
 - [Section 36](part-13/section-36.md)
 
-### GENERAL[^key-43acfdd8c7aa487d892497dc2d282048]
+### GENERAL[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -269,7 +269,7 @@ Coming into force
 
 - [Section 37 — Requirements for ships provided with helicopter decks with or without fuelling facilities](part-15/section-37.md)
 
-#### Additional requirements for ships constructed after 1st February 1992[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Additional requirements for ships constructed after 1st February 1992[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -277,7 +277,7 @@ Coming into force
 
 - [Section 38 — Fire pumps](part-15/section-38.md)
 
-#### Additional requirement for ships constructed on or after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Additional requirement for ships constructed on or after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -286,7 +286,7 @@ Coming into force
 - [Section 39 — Fire main, water service pipes and hydrants](part-15/section-39.md)
 - [Section 40 — Fire hoses, nozzles, etc.](part-15/section-40.md)
 
-#### Requirements for ships constructed on or after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Requirements for ships constructed on or after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -295,7 +295,7 @@ Coming into force
 - [Section 41](part-15/section-41.md)
 - [Section 42 — Fixed low-expansion foam fire-extinguishing systems in machinery spaces](part-15/section-42.md)
 
-#### Requirements for ships constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Requirements for ships constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -307,7 +307,7 @@ Coming into force
 - [Section 46 — Firemen’s outfits](part-15/section-46.md)
 - [Section 47 — Means for stopping machinery, shutting off oil fuel suction pipes and closing of openings](part-15/section-47.md)
 
-#### Requirements for ships constructed on or after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Requirements for ships constructed on or after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -317,7 +317,7 @@ Coming into force
 - [Section 49 — Fire control plans](part-15/section-49.md)
 - [Section 50 — Availability of fire-fighting appliances](part-15/section-50.md)
 
-### PASSENGER SHIPS — SHIPS OF CLASSES I, II, AND II(A)[^key-43acfdd8c7aa487d892497dc2d282048][^key-43acfdd8c7aa487d892497dc2d282048]
+### PASSENGER SHIPS — SHIPS OF CLASSES I, II, AND II(A)[^c-43acfdd8c7aa487d892497dc2d282048][^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -326,7 +326,7 @@ Coming into force
 - [Section 51 — Application](part-17/section-51.md)
 - [Section 52 — Structure](part-17/section-52.md)
 
-#### Requirements for ships constructed on or after 1st February 1992[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Requirements for ships constructed on or after 1st February 1992[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -335,7 +335,7 @@ Coming into force
 - [Section 53](part-17/section-53.md)
 - [Section 54 — Main vertical zones and horizontal zones](part-17/section-54.md)
 
-#### Additional requirements for a ship constructed on or after 1st October 1994[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Additional requirements for a ship constructed on or after 1st October 1994[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -348,7 +348,7 @@ Coming into force
 - [Section 59 — Openings in “B” Class divisions](part-17/section-59.md)
 - [Section 60 — Ventilation systems](part-17/section-60.md)
 
-#### Additional requirements for a ship constructed on or after 1st January 1994[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Additional requirements for a ship constructed on or after 1st January 1994[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -358,7 +358,7 @@ Coming into force
 - [Section 62 — Restriction of combustible materials](part-17/section-62.md)
 - [Section 63 — Miscellaneous items of fire protection](part-17/section-63.md)
 
-#### Requirements for a ship constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Requirements for a ship constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -366,7 +366,7 @@ Coming into force
 
 - [Section 64](part-17/section-64.md)
 
-#### Ships Constructed on or after 1st October 1994[^key-43acfdd8c7aa487d892497dc2d282048]
+#### Ships Constructed on or after 1st October 1994[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -377,7 +377,7 @@ Coming into force
 - [Section 67 — Special arrangements in machinery spaces](part-17/section-67.md)
 - [Section 68 — Means of escape](part-17/section-68.md)
 
-### SHIPS OTHER THAN PASSENGER SHIPS OR TANKERS TO WHICH PART VIII APPLIES — SHIPS OF CLASSES VII, VII(A), VIII, VIII(A), IX and IX(A) AND TANKERS OF CLASSES VII(T), VIII(T), VIII(A)(T) AND IX(A)(T) OF 500 TONS OR OVER[^key-43acfdd8c7aa487d892497dc2d282048][^key-43acfdd8c7aa487d892497dc2d282048]
+### SHIPS OTHER THAN PASSENGER SHIPS OR TANKERS TO WHICH PART VIII APPLIES — SHIPS OF CLASSES VII, VII(A), VIII, VIII(A), IX and IX(A) AND TANKERS OF CLASSES VII(T), VIII(T), VIII(A)(T) AND IX(A)(T) OF 500 TONS OR OVER[^c-43acfdd8c7aa487d892497dc2d282048][^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -400,7 +400,7 @@ Coming into force
 - [Section 83 — Special arrangements in machinery spaces](part-19/section-83.md)
 - [Section 84 — Means of escape](part-19/section-84.md)
 
-### TANKERS OF CLASSES VII(T), VIII(T), VIII(A)(T) AND IX(A)(T) OF 500 TONS OR OVER[^key-43acfdd8c7aa487d892497dc2d282048]
+### TANKERS OF CLASSES VII(T), VIII(T), VIII(A)(T) AND IX(A)(T) OF 500 TONS OR OVER[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -424,7 +424,7 @@ Coming into force
 - [Section 100 — Special arrangements in machinery spaces](part-22/section-100.md)
 - [Section 101 — Means of escape](part-22/section-101.md)
 
-### PART IX — SPECIAL REQUIREMENTS FOR SHIPS CARRYING DANGEROUS GOODS[^key-43acfdd8c7aa487d892497dc2d282048]
+### PART IX — SPECIAL REQUIREMENTS FOR SHIPS CARRYING DANGEROUS GOODS[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -433,7 +433,7 @@ Coming into force
 - [Section 102 — Ships carrying explosives](part-ix/section-102.md)
 - [Section 103 — Ships carrying dangerous goods](part-ix/section-103.md)
 
-### PART X — EQUIVALENTS, PENALTIES AND DETENTION[^key-43acfdd8c7aa487d892497dc2d282048]
+### PART X — EQUIVALENTS, PENALTIES AND DETENTION[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -447,29 +447,29 @@ Coming into force
 
 **No longer in force.**
 
-(11)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Additional requirements for ships constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+## Additional requirements for ships constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-(3)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Special requirements for cargo space ventilation[^key-43acfdd8c7aa487d892497dc2d282048]
+### Special requirements for cargo space ventilation[^c-43acfdd8c7aa487d892497dc2d282048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Additional requirements for ships constructed on or after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+## Additional requirements for ships constructed on or after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -477,33 +477,33 @@ Coming into force
 
 - (a) in addition, where such spaces are to be periodically unattended, a fire-extinguishing system, specified in regulation 7(1) shall be fitted.
 
-### Fire-extinguishing appliances in other machinery spaces[^key-43acfdd8c7aa487d892497dc2d282048]
+### Fire-extinguishing appliances in other machinery spaces[^c-43acfdd8c7aa487d892497dc2d282048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Additional requirements for ships constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+## Additional requirements for ships constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-(8)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Additional requirement for ships constructed on or after 1st January 1994[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(10)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Additional requirement for ships constructed on or after 1st January 1994[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-(11)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(11)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
@@ -517,33 +517,33 @@ Coming into force
 
 **No longer in force.**
 
-(2)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Additional requirements for ships constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(3)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(4)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Additional requirements for ships constructed on or after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+## Additional requirements for ships constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-(5)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Special requirements for cargo space ventilation[^key-43acfdd8c7aa487d892497dc2d282048]
+## Additional requirements for ships constructed on or after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(5)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Special requirements for cargo space ventilation[^c-43acfdd8c7aa487d892497dc2d282048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Additional requirement for ships constructed after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+## Additional requirement for ships constructed after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -551,163 +551,105 @@ Coming into force
 
 - (a) where such spaces are to be periodically unattended there shall be provided additionally either a fixed pressure water-spraying system complying with the requirements of Schedule 2, or a fixed gas fire-extinguishing system complying with the requirements of Schedule 4, in Merchant Shipping Notice MSN 1666.
 
-### Fire-extinguishing appliances in other machinery spaces[^key-43acfdd8c7aa487d892497dc2d282048]
+### Fire-extinguishing appliances in other machinery spaces[^c-43acfdd8c7aa487d892497dc2d282048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Additional requirements for ships constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+## Additional requirements for ships constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-(2)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-(3)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(4)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(5)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Requirements for ships of 500 tons or over but under 1,000 tons constructed before 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+(4)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-(2)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Requirements for ships of 500 tons or over constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+(5)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(3)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SHIPS OF CLASS VIII(A), IX AND IX(A)[^key-43acfdd8c7aa487d892497dc2d282048]
+## Requirements for ships of 500 tons or over but under 1,000 tons constructed before 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-### Requirements for ships of 1,000 tons or over constructed before 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+(2)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Requirements for ships of 500 tons or over but under 1,000 tons constructed before 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
-
-(5)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Requirements for ships of 500 tons or over constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
-
-(6)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SHIPS OF CLASS XI[^key-43acfdd8c7aa487d892497dc2d282048]
+## Requirements for ships of 500 tons or over constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-### Requirements for ships of 1,000 tons or over constructed before 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+(3)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(7)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Requirements for ships of 500 tons or over but under 1,000 tons constructed before 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
-
-(8)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Requirements for ships of 500 tons or over constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
-
-(9)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## SHIPS OF CLASS XII[^key-43acfdd8c7aa487d892497dc2d282048]
+## SHIPS OF CLASS VIII(A), IX AND IX(A)[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-### Requirements for ships of 1,000 tons or over constructed before 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+### Requirements for ships of 1,000 tons or over constructed before 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
-(10)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Requirements for ships of 500 tons or over but under 1,000 tons constructed before 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+### Requirements for ships of 500 tons or over but under 1,000 tons constructed before 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
-(11)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Requirements for ships of 500 tons or over constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+### Requirements for ships of 500 tons or over constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
-(12)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Cargo tank protection[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Deck foam systems[^key-43acfdd8c7aa487d892497dc2d282048]
+## SHIPS OF CLASS XI[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-(8)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Requirements for ships of 1,000 tons or over constructed before 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
-(9)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Requirements for ships of 500 tons or over but under 1,000 tons constructed before 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
-(11)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Requirements for ships of 500 tons or over constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
-(13)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Requirements for ships constructed between 25th May 1980 and 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(14)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(15)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Requirements for ships constructed on or after 1st September 1984[^key-43acfdd8c7aa487d892497dc2d282048]
+## SHIPS OF CLASS XII[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-(16)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Requirements for ships of 1,000 tons or over constructed before 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
-(17)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Equivalence[^key-43acfdd8c7aa487d892497dc2d282048]
+### Requirements for ships of 500 tons or over but under 1,000 tons constructed before 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
-*Extent: E+W+S+N.I.*
+(11)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**No longer in force.**
+### Requirements for ships of 500 tons or over constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
 
-(18)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Cargo tank purging and/or gas freeing[^key-43acfdd8c7aa487d892497dc2d282048]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Cargo pump rooms[^key-43acfdd8c7aa487d892497dc2d282048]
+## Cargo tank protection[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -715,65 +657,57 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Requirements for ships constructed on or after 25th May 1980[^key-43acfdd8c7aa487d892497dc2d282048]
+## Deck foam systems[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-(2)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Fire main isolating valves[^key-43acfdd8c7aa487d892497dc2d282048]
+(10)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(12)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(13)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Requirements for ships constructed between 25th May 1980 and 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(14)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(15)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Requirements for ships constructed on or after 1st September 1984[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(16)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(17)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Equivalence[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(18)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Cargo tank purging and/or gas freeing[^c-43acfdd8c7aa487d892497dc2d282048]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART V — FIRE PREVENTION AND APPLIANCES[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Helicopter deck operations manual[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(5)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(5)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Special requirements for fixed fire-extinguishing systems[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Fixed fire-extinguishing systems not required by these Regulations[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Gaseous fuel for domestic purposes[^key-43acfdd8c7aa487d892497dc2d282048]
+## Cargo pump rooms[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -781,7 +715,21 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART VI — STRUCTURAL FIRE PROTECTION[^key-43acfdd8c7aa487d892497dc2d282048]
+## Requirements for ships constructed on or after 25th May 1980[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(2)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(3)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### Fire main isolating valves[^c-43acfdd8c7aa487d892497dc2d282048]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART V — FIRE PREVENTION AND APPLIANCES[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -789,7 +737,7 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Helicopter decks[^key-43acfdd8c7aa487d892497dc2d282048]
+## Helicopter deck operations manual[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -801,79 +749,15 @@ Coming into force
 
 **No longer in force.**
 
-(5)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(6)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **No longer in force.**
 
-(6)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Automatic sprinkler, fire detection and fire alarm system or fixed fire detection andfire alarm system[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Additional requirements for a ship constructed on or after 1st July 1986[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(2)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Additional requirements for a ship constructed on or after 1st January 1994[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(3)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Ships Constructed before 1st October 1994[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(4)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(5)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(5)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(6)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Additional requirement for a ship constructed on or after 1st January 1994[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(8)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Additional requirements for ro-ro passenger ships[^key-43acfdd8c7aa487d892497dc2d282048]
-
-*Extent: E+W+S+N.I.*
-
-**No longer in force.**
-
-(9)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(10)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-(11)[^key-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## PART VII — STRUCTURAL FIRE PROTECTION:[^key-43acfdd8c7aa487d892497dc2d282048]
+## Special requirements for fixed fire-extinguishing systems[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -881,7 +765,7 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART VIII — STRUCTURAL FIRE PROTECTION[^key-43acfdd8c7aa487d892497dc2d282048]
+## Fixed fire-extinguishing systems not required by these Regulations[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -889,7 +773,23 @@ Coming into force
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## TANKERS[^key-43acfdd8c7aa487d892497dc2d282048]
+## Gaseous fuel for domestic purposes[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART VI — STRUCTURAL FIRE PROTECTION[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Helicopter decks[^c-43acfdd8c7aa487d892497dc2d282048]
 
 *Extent: E+W+S+N.I.*
 
@@ -901,16 +801,116 @@ Coming into force
 
 **No longer in force.**
 
-[^key-43acfdd8c7aa487d892497dc2d282048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(6)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Automatic sprinkler, fire detection and fire alarm system or fixed fire detection andfire alarm system[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Additional requirements for a ship constructed on or after 1st July 1986[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(2)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Additional requirements for a ship constructed on or after 1st January 1994[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(3)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Ships Constructed before 1st October 1994[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(4)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(5)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(5)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(6)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Additional requirement for a ship constructed on or after 1st January 1994[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(8)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## Additional requirements for ro-ro passenger ships[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+(9)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(10)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+(11)[^c-43acfdd8c7aa487d892497dc2d282048] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART VII — STRUCTURAL FIRE PROTECTION:[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## PART VIII — STRUCTURAL FIRE PROTECTION[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## TANKERS[^c-43acfdd8c7aa487d892497dc2d282048]
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+*Extent: E+W+S+N.I.*
+
+**No longer in force.**
+
+[^c-43acfdd8c7aa487d892497dc2d282048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-43acfdd8c7aa487d892497dc2d282048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-43acfdd8c7aa487d892497dc2d282048]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-43acfdd8c7aa487d892497dc2d282048]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/1012) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
+[^c-43acfdd8c7aa487d892497dc2d282048]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/1012) revoked (15.6.2023) by [The Merchant Shipping (Fire Protection) Regulations 2023 (S.I. 2023/568)](https://www.legislation.gov.uk/uksi/2023/568), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/568/regulation/1/1), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2023/568/schedule/1/part/2) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/568/regulation/5))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the 'Original (As Made)' version. For further details of the amendments see the List of All Changes available in 'More Resources'\]

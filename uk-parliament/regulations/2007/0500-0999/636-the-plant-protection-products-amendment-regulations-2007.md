@@ -32,7 +32,7 @@ summary: ''
 
 PESTICIDES, ENGLAND AND WALES
 
-The Plant Protection Products (Amendment) Regulations 2007 (revoked)[^key-db6b1bd1657057f3b9fe3d0d95f3d620]
+The Plant Protection Products (Amendment) Regulations 2007 (revoked)[^c-db6b1bd1657057f3b9fe3d0d95f3d620]
 
 Made
 
@@ -44,50 +44,50 @@ Laid before Parliament
 
 Coming into force in accordance with regulation 1(3)
 
-[^key-db6b1bd1657057f3b9fe3d0d95f3d620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db6b1bd1657057f3b9fe3d0d95f3d620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, interpretation and commencement[^key-db6b1bd1657057f3b9fe3d0d95f3d620]
+## 1. Citation, interpretation and commencement[^c-db6b1bd1657057f3b9fe3d0d95f3d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment to the principal Regulations[^key-db6b1bd1657057f3b9fe3d0d95f3d620]
+## 2. Amendment to the principal Regulations[^c-db6b1bd1657057f3b9fe3d0d95f3d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-db6b1bd1657057f3b9fe3d0d95f3d620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db6b1bd1657057f3b9fe3d0d95f3d620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — AMENDMENTS TO THE PRINCIPAL REGULATIONS[^key-db6b1bd1657057f3b9fe3d0d95f3d620]
+## SCHEDULE — AMENDMENTS TO THE PRINCIPAL REGULATIONS[^c-db6b1bd1657057f3b9fe3d0d95f3d620]
 
 Regulation 2
 
-### PART 1 — ENTRIES INSERTED INTO SCHEDULE 1 ON 31st MARCH 2007[^key-db6b1bd1657057f3b9fe3d0d95f3d620]
+### PART 1 — ENTRIES INSERTED INTO SCHEDULE 1 ON 31st MARCH 2007[^c-db6b1bd1657057f3b9fe3d0d95f3d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 2 — ENTRIES INSERTED INTO SCHEDULE 1 ON 1st JULY 2007[^key-db6b1bd1657057f3b9fe3d0d95f3d620]
+### PART 2 — ENTRIES INSERTED INTO SCHEDULE 1 ON 1st JULY 2007[^c-db6b1bd1657057f3b9fe3d0d95f3d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 3 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st NOVEMBER 2007[^key-db6b1bd1657057f3b9fe3d0d95f3d620]
+### PART 3 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st NOVEMBER 2007[^c-db6b1bd1657057f3b9fe3d0d95f3d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 4 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st DECEMBER 2007[^key-db6b1bd1657057f3b9fe3d0d95f3d620]
+### PART 4 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st DECEMBER 2007[^c-db6b1bd1657057f3b9fe3d0d95f3d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### PART 5 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st FEBRUARY 2008[^key-db6b1bd1657057f3b9fe3d0d95f3d620]
+### PART 5 — ENTRY INSERTED INTO SCHEDULE 1 ON 1st FEBRUARY 2008[^c-db6b1bd1657057f3b9fe3d0d95f3d620]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-db6b1bd1657057f3b9fe3d0d95f3d620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-db6b1bd1657057f3b9fe3d0d95f3d620]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-db6b1bd1657057f3b9fe3d0d95f3d620]: Textual amendment: Regulations revoked (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/2131/schedule/5)
+[^c-db6b1bd1657057f3b9fe3d0d95f3d620]: Textual amendment: Regulations revoked (24.9.2011) by [The Plant Protection Products Regulations 2011 (S.I. 2011/2131)](https://www.legislation.gov.uk/uksi/2011/2131), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2011/2131/regulation/1/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2011/2131/schedule/5)

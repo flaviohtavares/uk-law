@@ -26,7 +26,7 @@ summary: ''
 
 > (1A) The terms (as to interest or otherwise) on which any balance for the time being in the National Loans Fund is to be held shall be such as may be agreed between the Treasury and the Bank of England.
 
-(3)[^key-5b559dc71b035202d678f3080037a11d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-5b559dc71b035202d678f3080037a11d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -34,4 +34,4 @@ summary: ''
 
 [^c13234131]: Marginal citation: [1968 c. 13](https://www.legislation.gov.uk/ukpga/1968/13).
 
-[^key-5b559dc71b035202d678f3080037a11d]: Textual amendment: [S. 152(3)](https://www.legislation.gov.uk/ukpga/1982/39/section/152/3) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/5)
+[^c-5b559dc71b035202d678f3080037a11d]: Textual amendment: [S. 152(3)](https://www.legislation.gov.uk/ukpga/1982/39/section/152/3) repealed (10.7.2003) by [Finance Act 2003 (c. 14)](https://www.legislation.gov.uk/ukpga/2003/14), [Sch. 43 Pt. 5(5)](https://www.legislation.gov.uk/ukpga/2003/14/schedule/43/part/5/5)

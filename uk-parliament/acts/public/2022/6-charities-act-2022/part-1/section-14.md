@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Special trusts[^key-9603ac1511f2987f752c23b620c2d8d8][^key-9ab5a52b1bc44f03150d12a85805ff02]
+## 14. Special trusts[^c-9603ac1511f2987f752c23b620c2d8d8][^c-9ab5a52b1bc44f03150d12a85805ff02]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9603ac1511f2987f752c23b620c2d8d8]: Commencement: S. 14 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
+[^c-9603ac1511f2987f752c23b620c2d8d8]: Commencement: S. 14 not in force at Royal Assent, see [s. 41(4)](https://www.legislation.gov.uk/ukpga/2022/6/section/41/4)
 
-[^key-9ab5a52b1bc44f03150d12a85805ff02]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/6/section/14) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/6) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/643/regulation/5))
+[^c-9ab5a52b1bc44f03150d12a85805ff02]: Commencement: [S. 14](https://www.legislation.gov.uk/ukpga/2022/6/section/14) in force at 14.6.2023 by [S.I. 2023/643](https://www.legislation.gov.uk/uksi/2023/643), [Sch. para. 6](https://www.legislation.gov.uk/uksi/2023/643/schedule/paragraph/6) (with [reg. 5](https://www.legislation.gov.uk/uksi/2023/643/regulation/5))

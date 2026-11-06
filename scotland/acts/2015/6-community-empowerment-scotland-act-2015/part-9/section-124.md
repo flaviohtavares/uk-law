@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Promotion and use of allotments: expenditure[^key-067cc47ba1021f6b1a0e7a9f1ca933e9]
+## 124. Promotion and use of allotments: expenditure[^c-067cc47ba1021f6b1a0e7a9f1ca933e9]
 
 *Extent: S*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-067cc47ba1021f6b1a0e7a9f1ca933e9]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2015/6/section/124) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)
+[^c-067cc47ba1021f6b1a0e7a9f1ca933e9]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2015/6/section/124) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule)

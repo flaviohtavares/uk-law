@@ -32,7 +32,7 @@ and the provision is for the time being specified in paragraph (3).
 (3) The provisions referred to in paragraph (2) are—
 
 - Regulation 2 of the [^m00016] Manufacture and Decoration of Pottery Regulations 1913,
-- Regulation 25 of the Ionising Radiations Regulations (Northern Ireland) 2017 \[[^key-6fd67c12a5684e6a936527db957efc65][S.R. 2017 No. 229](https://www.legislation.gov.uk/nisr/2017/229)\]
+- Regulation 25 of the Ionising Radiations Regulations (Northern Ireland) 2017 \[[^c-6fd67c12a5684e6a936527db957efc65][S.R. 2017 No. 229](https://www.legislation.gov.uk/nisr/2017/229)\]
 - Regulation 16 of the [^m00018] Control of Lead at Work Regulations (Northern Ireland) 1986,
 - Regulation 11 of the [^m00019] Control of Substances Hazardous to Health Regulations (Northern Ireland) 1995.
 
@@ -49,7 +49,7 @@ and the provision is for the time being specified in paragraph (3).
 
 [^m00016]: Marginal citation: SR&O 1913 No. 2.
 
-[^key-6fd67c12a5684e6a936527db957efc65]: Textual amendment: Words in [art. 96(3)](https://www.legislation.gov.uk/nisi/1996/1919/article/96/3) substituted (1.1.2018) by [The Ionising Radiations Regulations (Northern Ireland) 2017 (S.R. 2017/229)](https://www.legislation.gov.uk/nisr/2017/229), [reg. 1](https://www.legislation.gov.uk/nisr/2017/229/regulation/1), [Sch. 9 para. 2](https://www.legislation.gov.uk/nisr/2017/229/schedule/9/paragraph/2) (with [reg. 41](https://www.legislation.gov.uk/nisr/2017/229/regulation/41), [Sch. 8](https://www.legislation.gov.uk/nisr/2017/229/schedule/8))
+[^c-6fd67c12a5684e6a936527db957efc65]: Textual amendment: Words in [art. 96(3)](https://www.legislation.gov.uk/nisi/1996/1919/article/96/3) substituted (1.1.2018) by [The Ionising Radiations Regulations (Northern Ireland) 2017 (S.R. 2017/229)](https://www.legislation.gov.uk/nisr/2017/229), [reg. 1](https://www.legislation.gov.uk/nisr/2017/229/regulation/1), [Sch. 9 para. 2](https://www.legislation.gov.uk/nisr/2017/229/schedule/9/paragraph/2) (with [reg. 41](https://www.legislation.gov.uk/nisr/2017/229/regulation/41), [Sch. 8](https://www.legislation.gov.uk/nisr/2017/229/schedule/8))
 
 [^m00018]: Marginal citation: SR 1986 No. 36.
 

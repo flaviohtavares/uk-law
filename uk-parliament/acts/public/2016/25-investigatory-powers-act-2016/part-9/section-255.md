@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Further provision about notices under section 252 or 253[^key-cdfb9ca6645aec076d9ce1843171f93a]
+## 255. Further provision about notices under section 252 or 253[^c-cdfb9ca6645aec076d9ce1843171f93a]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,7 +39,7 @@ summary: ''
 
 (5) A relevant notice must be in writing.
 
-(5A)[^key-7aee47d084b8f5e0faa0e202dd9b65eb] A relevant notice ceases to have effect at the end of the relevant period unless before the end of that period—
+(5A)[^c-7aee47d084b8f5e0faa0e202dd9b65eb] A relevant notice ceases to have effect at the end of the relevant period unless before the end of that period—
 
 - (a) it is varied in accordance with section 256(4)(c) or (5)(c) so as to impose further requirements on the person to whom the notice was given,
 - (b) it is renewed (see section 256A), or
@@ -61,7 +61,7 @@ summary: ''
 
 (9) A person to whom a relevant notice is given must comply with the notice.
 
-(10) The duty imposed by subsection (8) or (9), or by section 257(3A),[^key-62fcf7655cc6f397835c5cab35190906] is enforceable—
+(10) The duty imposed by subsection (8) or (9), or by section 257(3A),[^c-62fcf7655cc6f397835c5cab35190906] is enforceable—
 
 - (a) in relation to a person in the United Kingdom, and
 - (b) so far as relating to a technical capability notice within subsection (11), in relation to a person outside the United Kingdom,
@@ -78,8 +78,8 @@ by civil proceedings by the Secretary of State for an injunction, or for specifi
 
 ## Annotations
 
-[^key-cdfb9ca6645aec076d9ce1843171f93a]: Commencement: S. 255 in force at 12.3.2018 by [S.I. 2018/341](https://www.legislation.gov.uk/uksi/2018/341), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2018/341/regulation/2/i) (with [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2018/341/regulation/6/1/b))
+[^c-cdfb9ca6645aec076d9ce1843171f93a]: Commencement: S. 255 in force at 12.3.2018 by [S.I. 2018/341](https://www.legislation.gov.uk/uksi/2018/341), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2018/341/regulation/2/i) (with [reg. 6(1)(b)](https://www.legislation.gov.uk/uksi/2018/341/regulation/6/1/b))
 
-[^key-7aee47d084b8f5e0faa0e202dd9b65eb]: Textual amendment: S. 255(5A)(5B) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 20(6)](https://www.legislation.gov.uk/ukpga/2024/9/section/20/6), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/s) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/1021/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/1021/regulation/4))
+[^c-7aee47d084b8f5e0faa0e202dd9b65eb]: Textual amendment: S. 255(5A)(5B) inserted (14.10.2024) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 20(6)](https://www.legislation.gov.uk/ukpga/2024/9/section/20/6), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2024/1021](https://www.legislation.gov.uk/uksi/2024/1021), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2024/1021/regulation/2/s) (with [regs. 3](https://www.legislation.gov.uk/uksi/2024/1021/regulation/3), [4](https://www.legislation.gov.uk/uksi/2024/1021/regulation/4))
 
-[^key-62fcf7655cc6f397835c5cab35190906]: Textual amendment: Words in s. 255(10) substituted (20.6.2025) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 18(4)](https://www.legislation.gov.uk/ukpga/2024/9/section/18/4), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/a)
+[^c-62fcf7655cc6f397835c5cab35190906]: Textual amendment: Words in s. 255(10) substituted (20.6.2025) by [Investigatory Powers (Amendment) Act 2024 (c. 9)](https://www.legislation.gov.uk/ukpga/2024/9), [ss. 18(4)](https://www.legislation.gov.uk/ukpga/2024/9/section/18/4), [32(2)](https://www.legislation.gov.uk/ukpga/2024/9/section/32/2); [S.I. 2025/722](https://www.legislation.gov.uk/uksi/2025/722), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/722/regulation/2/a)

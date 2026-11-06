@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 106. Notional capital receipts to be treated as reduced[^key-0f3b0b33fc35401f6bbde9d079bf0299]
+## 106. Notional capital receipts to be treated as reduced[^c-0f3b0b33fc35401f6bbde9d079bf0299]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ there shall be deducted from the amount by which, apart from this paragraph, the
 
 ## Annotations
 
-[^key-0f3b0b33fc35401f6bbde9d079bf0299]: Commencement: Reg. 106 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-0f3b0b33fc35401f6bbde9d079bf0299]: Commencement: Reg. 106 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 123. Pension protection levies[^key-f0b073f3c57d49c35bb1e663706fa1b1][^key-04e190bded9370588e8ec3a60ed61d35]
+## 123. Pension protection levies[^c-f0b073f3c57d49c35bb1e663706fa1b1][^c-04e190bded9370588e8ec3a60ed61d35]
 
 *Extent: E+W+S*
 
@@ -113,6 +113,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f0b073f3c57d49c35bb1e663706fa1b1]: Commencement: S. 123 not in force at Royal Assent, see [s. 133(11)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/b)
+[^c-f0b073f3c57d49c35bb1e663706fa1b1]: Commencement: S. 123 not in force at Royal Assent, see [s. 133(11)(b)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/11/b)
 
-[^key-04e190bded9370588e8ec3a60ed61d35]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2026/22/section/123) in force at 29.6.2026 by [S.I. 2026/669](https://www.legislation.gov.uk/uksi/2026/669), [reg. 2](https://www.legislation.gov.uk/uksi/2026/669/regulation/2)
+[^c-04e190bded9370588e8ec3a60ed61d35]: Commencement: [S. 123](https://www.legislation.gov.uk/ukpga/2026/22/section/123) in force at 29.6.2026 by [S.I. 2026/669](https://www.legislation.gov.uk/uksi/2026/669), [reg. 2](https://www.legislation.gov.uk/uksi/2026/669/regulation/2)

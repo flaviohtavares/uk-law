@@ -135,7 +135,7 @@ The Secretary of State, in relation to England, and the Welsh Ministers, in rela
 - [Section 44 — Offences by bodies corporate, partnerships and unincorporated associations](part-10/section-44.md)
 - [Section 45 — Proceedings for contravention of section 1 of the Control of Pollution (Amendment) Act 1989](part-10/section-45.md)
 
-### PART 10A — Authority to transport controlled waste[^key-8fc8b3e91f6525f8e009d25262434587]
+### PART 10A — Authority to transport controlled waste[^c-8fc8b3e91f6525f8e009d25262434587]
 
 - [Section 45A — Specified requirements under section 5 of the Control of Pollution (Amendment) Act 1989](part-10a/section-45a.md)
 
@@ -210,4 +210,4 @@ A full impact assessment of the effect that this instrument will have on busines
 
 [^c2081334]: Marginal citation: [2006 c. 32](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-8fc8b3e91f6525f8e009d25262434587]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/2011/988/part/10A) inserted (6.4.2014) by [The Waste (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/656)](https://www.legislation.gov.uk/uksi/2014/656), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/656/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2014/656/regulation/7)
+[^c-8fc8b3e91f6525f8e009d25262434587]: Textual amendment: [Pt. 10A](https://www.legislation.gov.uk/uksi/2011/988/part/10A) inserted (6.4.2014) by [The Waste (England and Wales) (Amendment) Regulations 2014 (S.I. 2014/656)](https://www.legislation.gov.uk/uksi/2014/656), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2014/656/regulation/1/1/b), [7](https://www.legislation.gov.uk/uksi/2014/656/regulation/7)

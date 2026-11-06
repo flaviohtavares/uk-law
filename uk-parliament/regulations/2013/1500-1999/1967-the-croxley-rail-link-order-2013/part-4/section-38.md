@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Trespass[^key-e2f3b4eafe041fdde9b58910da1149db]
+## 38. Trespass[^c-e2f3b4eafe041fdde9b58910da1149db]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-e2f3b4eafe041fdde9b58910da1149db]: Commencement: Art. 38 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-e2f3b4eafe041fdde9b58910da1149db]: Commencement: Art. 38 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

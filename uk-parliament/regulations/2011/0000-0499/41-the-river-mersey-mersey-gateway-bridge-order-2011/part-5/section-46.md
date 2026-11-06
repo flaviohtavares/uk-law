@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Enforcement[^key-f77a8291434b6ec3631659ee23b21895]
+## 46. Enforcement[^c-f77a8291434b6ec3631659ee23b21895]
 
 *Extent: E+W+S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f77a8291434b6ec3631659ee23b21895]: Textual amendment: [Art. 46](https://www.legislation.gov.uk/uksi/2011/41/article/46) substituted (14.9.2016) by [The River Mersey (Mersey Gateway Bridge) (Amendment) Order 2016 (S.I. 2016/851)](https://www.legislation.gov.uk/uksi/2016/851), [arts. 1](https://www.legislation.gov.uk/uksi/2016/851/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2016/851/article/3/5)
+[^c-f77a8291434b6ec3631659ee23b21895]: Textual amendment: [Art. 46](https://www.legislation.gov.uk/uksi/2011/41/article/46) substituted (14.9.2016) by [The River Mersey (Mersey Gateway Bridge) (Amendment) Order 2016 (S.I. 2016/851)](https://www.legislation.gov.uk/uksi/2016/851), [arts. 1](https://www.legislation.gov.uk/uksi/2016/851/article/1), [3(5)](https://www.legislation.gov.uk/uksi/2016/851/article/3/5)

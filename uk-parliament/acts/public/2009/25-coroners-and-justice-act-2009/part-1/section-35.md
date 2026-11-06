@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Chief Coroner and Deputy Chief Coroners[^key-66e24c0ac2027a17b307698d8b391226]
+## 35. Chief Coroner and Deputy Chief Coroners[^c-66e24c0ac2027a17b307698d8b391226]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66e24c0ac2027a17b307698d8b391226]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2009/25/section/35) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/1)
+[^c-66e24c0ac2027a17b307698d8b391226]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2009/25/section/35) in force at 1.2.2010 by [S.I. 2010/145](https://www.legislation.gov.uk/uksi/2010/145), [art. 2(2)](https://www.legislation.gov.uk/uksi/2010/145/article/2/2), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2010/145/schedule/paragraph/1)

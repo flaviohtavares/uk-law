@@ -33,7 +33,7 @@ PUBLIC HEALTH, WALES
 
 FOOD CONTAMINATION
 
-The Food Protection (Emergency Prohibitions) (Radioactivity in Sheep) (Wales) (Partial Revocation) Order 2011 (revoked)[^key-564b57c9b52d39515b546ed4ee8510e6]
+The Food Protection (Emergency Prohibitions) (Radioactivity in Sheep) (Wales) (Partial Revocation) Order 2011 (revoked)[^c-564b57c9b52d39515b546ed4ee8510e6]
 
 Made
 
@@ -47,23 +47,23 @@ Coming into force
 
 9 December 2011
 
-[^key-564b57c9b52d39515b546ed4ee8510e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-564b57c9b52d39515b546ed4ee8510e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement, application and interpretation[^key-564b57c9b52d39515b546ed4ee8510e6]
+## 1. Title, commencement, application and interpretation[^c-564b57c9b52d39515b546ed4ee8510e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Partial Revocation[^key-564b57c9b52d39515b546ed4ee8510e6]
+## 2. Partial Revocation[^c-564b57c9b52d39515b546ed4ee8510e6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-564b57c9b52d39515b546ed4ee8510e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-564b57c9b52d39515b546ed4ee8510e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-564b57c9b52d39515b546ed4ee8510e6]
+## SCHEDULE[^c-564b57c9b52d39515b546ed4ee8510e6]
 
 Article 2
 
@@ -71,8 +71,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-564b57c9b52d39515b546ed4ee8510e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-564b57c9b52d39515b546ed4ee8510e6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-564b57c9b52d39515b546ed4ee8510e6]: Textual amendment: Order revoked (29.11.2012) by [The Food Protection (Emergency Prohibitions) (Radioactivity in Sheep) (Wales) (Revocation) Order 2012 (S.I. 2012/2978)](https://www.legislation.gov.uk/uksi/2012/2978), [art. 1](https://www.legislation.gov.uk/uksi/2012/2978/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/2978/schedule)
+[^c-564b57c9b52d39515b546ed4ee8510e6]: Textual amendment: Order revoked (29.11.2012) by [The Food Protection (Emergency Prohibitions) (Radioactivity in Sheep) (Wales) (Revocation) Order 2012 (S.I. 2012/2978)](https://www.legislation.gov.uk/uksi/2012/2978), [art. 1](https://www.legislation.gov.uk/uksi/2012/2978/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/2978/schedule)

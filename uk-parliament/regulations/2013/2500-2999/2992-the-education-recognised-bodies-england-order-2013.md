@@ -31,7 +31,7 @@ summary: ''
 
 Education, England
 
-The Education (Recognised Bodies) (England) Order 2013 (revoked)[^key-481035c8873901f1d72ebf0a9c338e22]
+The Education (Recognised Bodies) (England) Order 2013 (revoked)[^c-481035c8873901f1d72ebf0a9c338e22]
 
 Made
 
@@ -41,27 +41,27 @@ Coming into force
 
 30th December 2013
 
-[^key-481035c8873901f1d72ebf0a9c338e22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-481035c8873901f1d72ebf0a9c338e22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement, application and revocation[^key-481035c8873901f1d72ebf0a9c338e22]
+## 1. Citation, commencement, application and revocation[^c-481035c8873901f1d72ebf0a9c338e22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Recognised Bodies[^key-481035c8873901f1d72ebf0a9c338e22]
+## 2. Recognised Bodies[^c-481035c8873901f1d72ebf0a9c338e22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-481035c8873901f1d72ebf0a9c338e22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-481035c8873901f1d72ebf0a9c338e22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-481035c8873901f1d72ebf0a9c338e22]
+## SCHEDULE[^c-481035c8873901f1d72ebf0a9c338e22]
 
 Article 2
 
-[^key-481035c8873901f1d72ebf0a9c338e22]
+[^c-481035c8873901f1d72ebf0a9c338e22]
 
 - Anglia Ruskin University
 - Archbishop of Canterbury, The
@@ -215,7 +215,7 @@ Article 2
 - University of York, The
 - York St John University
 
-### Schools, Colleges and Institutes of the University of London permitted by the University to award University of London degrees[^key-481035c8873901f1d72ebf0a9c338e22]
+### Schools, Colleges and Institutes of the University of London permitted by the University to award University of London degrees[^c-481035c8873901f1d72ebf0a9c338e22]
 
 - Birkbeck, University of London
 - Courtauld Institute of Art
@@ -242,8 +242,8 @@ Article 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-481035c8873901f1d72ebf0a9c338e22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-481035c8873901f1d72ebf0a9c338e22]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-481035c8873901f1d72ebf0a9c338e22]: Textual amendment: Order revoked (18.6.2020) by [The Education (Recognised Bodies) (England) Order 2020 (S.I. 2020/573)](https://www.legislation.gov.uk/uksi/2020/573), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/573/article/1/1/3)
+[^c-481035c8873901f1d72ebf0a9c338e22]: Textual amendment: Order revoked (18.6.2020) by [The Education (Recognised Bodies) (England) Order 2020 (S.I. 2020/573)](https://www.legislation.gov.uk/uksi/2020/573), [art. 1(1)(3)](https://www.legislation.gov.uk/uksi/2020/573/article/1/1/3)

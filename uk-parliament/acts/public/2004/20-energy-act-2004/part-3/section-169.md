@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169. Licence conditions to secure funding of energy administration[^key-ace857a2abc3a18fe8a9676ba03adf90][^key-6ecbca2562a3c5581953b7d8588ba2fd][^key-9a9ba38510a5e178498ff389b22b0a31][^key-656e02a0185857c795b0c6d274c17389]
+## 169. Licence conditions to secure funding of energy administration[^c-ace857a2abc3a18fe8a9676ba03adf90][^c-6ecbca2562a3c5581953b7d8588ba2fd][^c-9a9ba38510a5e178498ff389b22b0a31][^c-656e02a0185857c795b0c6d274c17389]
 
 *Extent: E+W+S*
 
@@ -45,10 +45,10 @@ summary: ''
 
 ## Annotations
 
-[^key-ace857a2abc3a18fe8a9676ba03adf90]: Commencement: S. 169 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-ace857a2abc3a18fe8a9676ba03adf90]: Commencement: S. 169 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-6ecbca2562a3c5581953b7d8588ba2fd]: Modification: Ss. 154-171 modified (1.10.2005) by [Energy Administration Rules 2005 (S.I. 2005/2483)](https://www.legislation.gov.uk/uksi/2005/2483), [rules 1](https://www.legislation.gov.uk/uksi/2005/2483/article/1), [184](https://www.legislation.gov.uk/uksi/2005/2483/article/184) (with [rules 3](https://www.legislation.gov.uk/uksi/2005/2483/article/3), [187](https://www.legislation.gov.uk/uksi/2005/2483/article/187))
+[^c-6ecbca2562a3c5581953b7d8588ba2fd]: Modification: Ss. 154-171 modified (1.10.2005) by [Energy Administration Rules 2005 (S.I. 2005/2483)](https://www.legislation.gov.uk/uksi/2005/2483), [rules 1](https://www.legislation.gov.uk/uksi/2005/2483/article/1), [184](https://www.legislation.gov.uk/uksi/2005/2483/article/184) (with [rules 3](https://www.legislation.gov.uk/uksi/2005/2483/article/3), [187](https://www.legislation.gov.uk/uksi/2005/2483/article/187))
 
-[^key-9a9ba38510a5e178498ff389b22b0a31]: Modification: Ss. 154-171 modified (7.6.2013) by [The Energy Supply Company Administration Rules 2013 (S.I. 2013/1046)](https://www.legislation.gov.uk/uksi/2013/1046), [rules 1](https://www.legislation.gov.uk/uksi/2013/1046/article/1), [205(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1046/article/205/2) (with [rules 3](https://www.legislation.gov.uk/uksi/2013/1046/article/3), [208](https://www.legislation.gov.uk/uksi/2013/1046/article/208))
+[^c-9a9ba38510a5e178498ff389b22b0a31]: Modification: Ss. 154-171 modified (7.6.2013) by [The Energy Supply Company Administration Rules 2013 (S.I. 2013/1046)](https://www.legislation.gov.uk/uksi/2013/1046), [rules 1](https://www.legislation.gov.uk/uksi/2013/1046/article/1), [205(2)-(4)](https://www.legislation.gov.uk/uksi/2013/1046/article/205/2) (with [rules 3](https://www.legislation.gov.uk/uksi/2013/1046/article/3), [208](https://www.legislation.gov.uk/uksi/2013/1046/article/208))
 
-[^key-656e02a0185857c795b0c6d274c17389]: Modification: [Ss. 154-171](https://www.legislation.gov.uk/ukpga/2004/20/section/154) modified (E.W.) (1.8.2020) by [The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020 (S.I. 2020/629)](https://www.legislation.gov.uk/uksi/2020/629), [rules 1](https://www.legislation.gov.uk/uksi/2020/629/rule/1), [3(2)-(4)](https://www.legislation.gov.uk/uksi/2020/629/rule/3/2) (with [rule 4(1)](https://www.legislation.gov.uk/uksi/2020/629/rule/4/1))
+[^c-656e02a0185857c795b0c6d274c17389]: Modification: [Ss. 154-171](https://www.legislation.gov.uk/ukpga/2004/20/section/154) modified (E.W.) (1.8.2020) by [The Smart Meter Communication Licensee Administration (England and Wales) Rules 2020 (S.I. 2020/629)](https://www.legislation.gov.uk/uksi/2020/629), [rules 1](https://www.legislation.gov.uk/uksi/2020/629/rule/1), [3(2)-(4)](https://www.legislation.gov.uk/uksi/2020/629/rule/3/2) (with [rule 4(1)](https://www.legislation.gov.uk/uksi/2020/629/rule/4/1))

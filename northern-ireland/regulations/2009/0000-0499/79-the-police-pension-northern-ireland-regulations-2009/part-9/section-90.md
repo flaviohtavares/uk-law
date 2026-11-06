@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 90. Members of the Police Service of Northern Ireland transferring to a police force in Great Britain[^key-5b47ca1d36ca16479d611f08bcab862e]
+## 90. Members of the Police Service of Northern Ireland transferring to a police force in Great Britain[^c-5b47ca1d36ca16479d611f08bcab862e]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5b47ca1d36ca16479d611f08bcab862e]: Commencement: Reg. 90 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-5b47ca1d36ca16479d611f08bcab862e]: Commencement: Reg. 90 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)

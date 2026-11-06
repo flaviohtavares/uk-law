@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 845A. Claim for relief for qualifying new residents[^key-fa6e1a8f7071272a8f9d117519835e5b]
+## 845A. Claim for relief for qualifying new residents[^c-fa6e1a8f7071272a8f9d117519835e5b]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) The relief is given by deducting the amount of the relief in calculating the individual's net income for the tax year (see Step 2 of the calculation in section 23 of ITA 2007).
 
-(3A)[^key-a17628b3881f67dd0e56f784193a07dd] But a deduction for that purpose is to be made only from qualifying foreign income.
+(3A)[^c-a17628b3881f67dd0e56f784193a07dd] But a deduction for that purpose is to be made only from qualifying foreign income.
 
 (4) A foreign income claim must be made in a return.
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-fa6e1a8f7071272a8f9d117519835e5b]: Textual amendment: [Pt. 8 Ch. 5](https://www.legislation.gov.uk/ukpga/2005/5/part/8/chapter/5) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(1)(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/1/4)
+[^c-fa6e1a8f7071272a8f9d117519835e5b]: Textual amendment: [Pt. 8 Ch. 5](https://www.legislation.gov.uk/ukpga/2005/5/part/8/chapter/5) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 37(1)(4)](https://www.legislation.gov.uk/ukpga/2025/8/section/37/1/4)
 
-[^key-a17628b3881f67dd0e56f784193a07dd]: Textual amendment: [S. 845A(3A)](https://www.legislation.gov.uk/ukpga/2005/5/section/845A/3A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/5)
+[^c-a17628b3881f67dd0e56f784193a07dd]: Textual amendment: [S. 845A(3A)](https://www.legislation.gov.uk/ukpga/2005/5/section/845A/3A) inserted (for the tax year 2025-26 and subsequent tax years) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/1)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/schedule/3/paragraph/1/5)

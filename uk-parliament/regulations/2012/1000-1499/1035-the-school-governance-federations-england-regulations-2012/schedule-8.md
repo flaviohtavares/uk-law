@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 29
 
-**1.**[^key-9b768d37cafd73f6aee78eda67c20b70] Section 49 (maintained schools to have delegated budgets) is modified as follows—
+**1.**[^c-9b768d37cafd73f6aee78eda67c20b70] Section 49 (maintained schools to have delegated budgets) is modified as follows—
 
 - (a) in subsection (1), for “Every maintained school” substitute “Subject to subsection (2B), every federated school”;
 - (b) in subsection (2), for “A new school” substitute “Subject to subsection (2B), a new school that is a federated school”;
@@ -45,7 +45,7 @@ Regulation 29
 
   .
 
-**2.**[^key-e3e9c4002a4fe1c763af9e1e59c4441f] Section 50 (effect of financial delegation) is modified as follows—
+**2.**[^c-e3e9c4002a4fe1c763af9e1e59c4441f] Section 50 (effect of financial delegation) is modified as follows—
 
 - (a) in subsection (1), for “maintained school“ substitute “federated school”;
 - (b) after subsection (1), insert—
@@ -67,9 +67,9 @@ Regulation 29
 - (f) in subsection (6), after “governing body” insert “of a federation” and after “head teacher” insert “of the federation or to the head teacher of each school within the federation”; and
 - (g) in subsection (7), for “school” substitute “federation”.
 
-**3.**[^key-9f3c5424b22678304af6c38df9696a91] In section 51 (suspension of financial delegation for mismanagement etc), after “delegated budget” insert “in respect of the federation or each school within the federation”.
+**3.**[^c-9f3c5424b22678304af6c38df9696a91] In section 51 (suspension of financial delegation for mismanagement etc), after “delegated budget” insert “in respect of the federation or each school within the federation”.
 
-**4.**[^key-f66e9720e7dd9f20e66023f628b41180] (1) Schedule 15 (suspension of financial delegation) is modified as follows.
+**4.**[^c-f66e9720e7dd9f20e66023f628b41180] (1) Schedule 15 (suspension of financial delegation) is modified as follows.
 
 (2) In paragraph 1—
 
@@ -99,10 +99,10 @@ Regulation 29
 
 ## Annotations
 
-[^key-9b768d37cafd73f6aee78eda67c20b70]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2012/1035/schedule/8/paragraph/1) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-9b768d37cafd73f6aee78eda67c20b70]: Commencement: [Sch. 8 para. 1](https://www.legislation.gov.uk/uksi/2012/1035/schedule/8/paragraph/1) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
 
-[^key-e3e9c4002a4fe1c763af9e1e59c4441f]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2012/1035/schedule/8/paragraph/2) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-e3e9c4002a4fe1c763af9e1e59c4441f]: Commencement: [Sch. 8 para. 2](https://www.legislation.gov.uk/uksi/2012/1035/schedule/8/paragraph/2) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
 
-[^key-9f3c5424b22678304af6c38df9696a91]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2012/1035/schedule/8/paragraph/3) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-9f3c5424b22678304af6c38df9696a91]: Commencement: [Sch. 8 para. 3](https://www.legislation.gov.uk/uksi/2012/1035/schedule/8/paragraph/3) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
 
-[^key-f66e9720e7dd9f20e66023f628b41180]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/uksi/2012/1035/schedule/8/paragraph/4) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-f66e9720e7dd9f20e66023f628b41180]: Commencement: [Sch. 8 para. 4](https://www.legislation.gov.uk/uksi/2012/1035/schedule/8/paragraph/4) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 68. Rights to lease etc.[^key-d233b928dfeb838c34e265c08e78540e]
+## 68. Rights to lease etc.[^c-d233b928dfeb838c34e265c08e78540e]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ in pursuance of a lease or grant under paragraph (1) (â€œthe lessee or granteeâ€
 
 ## Annotations
 
-[^key-d233b928dfeb838c34e265c08e78540e]: Commencement: Art. 68 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-d233b928dfeb838c34e265c08e78540e]: Commencement: Art. 68 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

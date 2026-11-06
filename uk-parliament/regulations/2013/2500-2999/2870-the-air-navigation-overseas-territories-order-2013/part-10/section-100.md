@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100. Loading - commercial air transport aircraft and suspended loads[^key-27547db88febf3718be7c4b1423ee0e1]
+## 100. Loading - commercial air transport aircraft and suspended loads[^c-27547db88febf3718be7c4b1423ee0e1]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-27547db88febf3718be7c4b1423ee0e1]: Commencement: [Art. 100](https://www.legislation.gov.uk/uksi/2013/2870/article/100) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-27547db88febf3718be7c4b1423ee0e1]: Commencement: [Art. 100](https://www.legislation.gov.uk/uksi/2013/2870/article/100) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

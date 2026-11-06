@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Tribunal approval of taxpayer notices and third party notices[^key-999038d0d9b91c56634b5d245c16a98f]
+## 88. Tribunal approval of taxpayer notices and third party notices[^c-999038d0d9b91c56634b5d245c16a98f]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ summary: ''
   - (ii) in the case of a third party notice, the requirements of section 87(1),
 
   have been met, and
-- (b) that sending notice of the application for approval to the recipient might have prejudiced the assessment or collection of WRA-collected[^key-fff3af6ed431e746ec4d55fe1114ea14] tax.
+- (b) that sending notice of the application for approval to the recipient might have prejudiced the assessment or collection of WRA-collected[^c-fff3af6ed431e746ec4d55fe1114ea14] tax.
 
 (3) Where the recipient has been notified of the application for approval, the tribunal may approve the issuing of the taxpayer notice or third party notice only if—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-999038d0d9b91c56634b5d245c16a98f]: Commencement: S. 88 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-999038d0d9b91c56634b5d245c16a98f]: Commencement: S. 88 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
 
-[^key-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)
+[^c-fff3af6ed431e746ec4d55fe1114ea14]: Textual amendment: Word in Act substituted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 21](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/21)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Transfer of restricted technology[^key-1fb513a3d25a07afdbea219d676f6f83][^key-8892e9a03aae200416787ddabbddc92f]
+## 39. Transfer of restricted technology[^c-1fb513a3d25a07afdbea219d676f6f83][^c-8892e9a03aae200416787ddabbddc92f]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1fb513a3d25a07afdbea219d676f6f83]: Commencement: Reg. 39 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-1fb513a3d25a07afdbea219d676f6f83]: Commencement: Reg. 39 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-8892e9a03aae200416787ddabbddc92f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2019/411/regulation/39) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8892e9a03aae200416787ddabbddc92f]: Commencement: [Reg. 39](https://www.legislation.gov.uk/uksi/2019/411/regulation/39) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

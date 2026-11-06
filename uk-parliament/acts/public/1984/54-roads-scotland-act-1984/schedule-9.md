@@ -177,7 +177,7 @@ Section 156(1).
 
 **7.** (1) The Explosives Act 1875 shall be amended in accordance with this paragraph.
 
-(2)[^key-07ddd56b1e8db5820eda2326622e1d72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-07ddd56b1e8db5820eda2326622e1d72] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 30 (restriction on sale of gunpowder), for the words “highway, street, public thoroughfare, or” there shall be substituted the words “road or in any”.
 
@@ -252,7 +252,7 @@ Section 156(1).
 
 ### The Public Health (Scotland) Act 1897 (c. 38)
 
-**17.**[^key-9c9ad36a36b613fd1a6ab00a55315a1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-9c9ad36a36b613fd1a6ab00a55315a1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Congested Districts (Scotland) Act 1897 (c. 53)
 
@@ -300,7 +300,7 @@ Section 156(1).
 
 ### The Roads Act 1920 (c. 72)
 
-**24.**[^key-6313f05f74e74a18f7f50fa3ebc5cc28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-6313f05f74e74a18f7f50fa3ebc5cc28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Railways Act 1921 (c. 55)
 
@@ -371,7 +371,7 @@ Section 156(1).
 
 ### The Fire Services Act 1947 (c. 41)
 
-**34.**[^key-a979de1dc0467b244f5d7e6563bb9e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-a979de1dc0467b244f5d7e6563bb9e6c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Acquisition of Land (Authorisation Procedure) (Scotland) Act 1947 (c. 42)
 
@@ -417,7 +417,7 @@ Section 156(1).
 
 ### The Pet Animals Act 1951 (c. 35)
 
-**40.**[^key-4e91a44ed4ac0ded61069119bfd95ae0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**40.**[^c-4e91a44ed4ac0ded61069119bfd95ae0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Mineral Workings Act 1951 (c. 60)
 
@@ -493,7 +493,7 @@ Section 156(1).
 
 ### The Building (Scotland) Act 1959 (c. 24)
 
-**51.**[^key-7af1f435c415edb6357ae8f6225fa293] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-7af1f435c415edb6357ae8f6225fa293] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Weeds Act 1959 (c. 54)
 
@@ -952,7 +952,7 @@ Section 156(1).
 
 ### The Licensing (Scotland) Act 1976 (c. 66)
 
-**77.**[^key-6bd3a39b6ea5c65270d26461c7a5e41e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**77.**[^c-6bd3a39b6ea5c65270d26461c7a5e41e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### The Refuse Disposal (Amenity) Act 1978 (c. 3)
 
@@ -1310,7 +1310,7 @@ and for the word “streets” there shall be substituted the word “roads”; 
 
 [^c1611345]: Textual amendment: Sch. 9 para. 6 repealed (except as incorporated in, or otherwise applied by, any Act of Parliament or Provisional Order) (1.1.1993) by [Transport and Works Act 1992 (c. 42)](https://www.legislation.gov.uk/ukpga/1992/42), [s. 68(1)](https://www.legislation.gov.uk/ukpga/1992/42/section/68/1), [Sch. 4 Pt. I](https://www.legislation.gov.uk/ukpga/1992/42/schedule/4/part/I); [S.I. 1992/2784](https://www.legislation.gov.uk/uksi/1992/2784), [art. 2](https://www.legislation.gov.uk/uksi/1992/2784/article/2), [Schs. 1](https://www.legislation.gov.uk/uksi/1992/2784/schedule/1), [2](https://www.legislation.gov.uk/uksi/1992/2784/schedule/2) Pt. I
 
-[^key-07ddd56b1e8db5820eda2326622e1d72]: Textual amendment: Sch. 9 para. 7(2) repealed (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 18](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/18), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
+[^c-07ddd56b1e8db5820eda2326622e1d72]: Textual amendment: Sch. 9 para. 7(2) repealed (26.4.2005) by [The Manufacture and Storage of Explosives Regulations 2005 (S.I. 2005/1082)](https://www.legislation.gov.uk/uksi/2005/1082), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2005/1082/regulation/1/1), [Sch. 5 para. 18](https://www.legislation.gov.uk/uksi/2005/1082/schedule/5/paragraph/18), [Sch. 6](https://www.legislation.gov.uk/uksi/2005/1082/schedule/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/1082/regulation/3))
 
 [^c1611346]: Textual amendment: Sch. 9 paras. 10, 13, 19, 23 repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(3)(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3/4), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 
@@ -1318,13 +1318,13 @@ and for the word “streets” there shall be substituted the word “roads”; 
 
 [^c1611348]: Textual amendment: Sch. 9 paras. 10, 13, 19, 23 repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(3)(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3/4), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 
-[^key-9c9ad36a36b613fd1a6ab00a55315a1d]: Textual amendment: Sch. 9 para. 17 repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
+[^c-9c9ad36a36b613fd1a6ab00a55315a1d]: Textual amendment: Sch. 9 para. 17 repealed (1.10.2009) by [Public Health etc. (Scotland) Act 2008 (asp 5)](https://www.legislation.gov.uk/asp/2008/5), [s. 128(2)](https://www.legislation.gov.uk/asp/2008/5/section/128/2), [sch. 3 Pt. 1](https://www.legislation.gov.uk/asp/2008/5/schedule/3/part/1) (with [s. 127](https://www.legislation.gov.uk/asp/2008/5/section/127)); [S.S.I. 2009/319](https://www.legislation.gov.uk/ssi/2009/319), [art. 2(a)](https://www.legislation.gov.uk/ssi/2009/319/article/2/a), [sch. 1](https://www.legislation.gov.uk/ssi/2009/319/schedule/1)
 
 [^c1611350]: Textual amendment: Sch. 9 paras. 10, 13, 19, 23 repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(3)(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3/4), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 
 [^c1611351]: Textual amendment: Sch. 9 paras. 10, 13, 19, 23 repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(3)(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3/4), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 
-[^key-6313f05f74e74a18f7f50fa3ebc5cc28]: Textual amendment: Sch. 9 para. 24 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
+[^c-6313f05f74e74a18f7f50fa3ebc5cc28]: Textual amendment: Sch. 9 para. 24 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 14](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/14)
 
 [^c1611352]: Textual amendment: Sch. 9 para. 26 repealed (19.5.1997) by [1997 c. 29](https://www.legislation.gov.uk/ukpga/1997/29), [s. 33(2)](https://www.legislation.gov.uk/ukpga/1997/29/section/33/2), [Sch. 4](https://www.legislation.gov.uk/ukpga/1997/29/schedule/4); [S.I. 1997/1097](https://www.legislation.gov.uk/uksi/1997/1097), [art. 3(d)](https://www.legislation.gov.uk/uksi/1997/1097/article/3/d), [Sch](https://www.legislation.gov.uk/uksi/1997/1097/schedule)
 
@@ -1334,11 +1334,11 @@ and for the word “streets” there shall be substituted the word “roads”; 
 
 [^c1611355]: Textual amendment: Sch. 9 para. 31 repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 11 Pt. II](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11/part/II) (with [s. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553) art. 2
 
-[^key-a979de1dc0467b244f5d7e6563bb9e6c]: Textual amendment: Sch. 9 para. 34 repealed (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 90](https://www.legislation.gov.uk/asp/2005/5/section/90), [sch. 4](https://www.legislation.gov.uk/asp/2005/5/schedule/4) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
+[^c-a979de1dc0467b244f5d7e6563bb9e6c]: Textual amendment: Sch. 9 para. 34 repealed (2.8.2005) by [Fire (Scotland) Act 2005 (asp 5)](https://www.legislation.gov.uk/asp/2005/5), [s. 90](https://www.legislation.gov.uk/asp/2005/5/section/90), [sch. 4](https://www.legislation.gov.uk/asp/2005/5/schedule/4) (with [s. 77](https://www.legislation.gov.uk/asp/2005/5/section/77)); [S.S.I. 2005/392](https://www.legislation.gov.uk/ssi/2005/392), [art. 2(k)](https://www.legislation.gov.uk/ssi/2005/392/article/2/k)
 
 [^c1611356]: Textual amendment: Sch. 9 para. 39 repealed (1.1.1993) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [ss. 168(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/2), [170(1)](https://www.legislation.gov.uk/ukpga/1991/22/section/170/1), [Sch. 9](https://www.legislation.gov.uk/ukpga/1991/22/schedule/9); [S.I. 1992/2990](https://www.legislation.gov.uk/uksi/1992/2990), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2990/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2990/schedule/2)
 
-[^key-4e91a44ed4ac0ded61069119bfd95ae0]: Textual amendment: [Sch. 9 para. 40](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/40) repealed (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/1)
+[^c-4e91a44ed4ac0ded61069119bfd95ae0]: Textual amendment: [Sch. 9 para. 40](https://www.legislation.gov.uk/ukpga/1984/54/schedule/9/paragraph/40) repealed (8.6.2022) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2022 (S.S.I. 2022/195)](https://www.legislation.gov.uk/ssi/2022/195), [art. 1(2)](https://www.legislation.gov.uk/ssi/2022/195/article/1/2), [sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2022/195/schedule/2/paragraph/1)
 
 [^c1611357]: Textual amendment: Sch. 9 para. 41 repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I); (with Sch. 3)
 
@@ -1346,7 +1346,7 @@ and for the word “streets” there shall be substituted the word “roads”; 
 
 [^c1611360]: Textual amendment: Sch. 9 para. 49 repealed (31.10.1994) by [1994 c. 21](https://www.legislation.gov.uk/ukpga/1994/21), [s. 67](https://www.legislation.gov.uk/ukpga/1994/21/section/67), [Sch. 11](https://www.legislation.gov.uk/ukpga/1994/21/schedule/11) (with [s. 40(7)](https://www.legislation.gov.uk/ukpga/1994/21/section/40/7)); [S.I. 1994/2553](https://www.legislation.gov.uk/uksi/1994/2553) art. 2
 
-[^key-7af1f435c415edb6357ae8f6225fa293]: Textual amendment: Sch. 9 para. 51 repealed (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [sch. 6 para. 15](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/15) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
+[^c-7af1f435c415edb6357ae8f6225fa293]: Textual amendment: Sch. 9 para. 51 repealed (1.5.2005) by [Building (Scotland) Act 2003 (asp 8)](https://www.legislation.gov.uk/asp/2003/8), [s. 59(1)](https://www.legislation.gov.uk/asp/2003/8/section/59/1), [sch. 6 para. 15](https://www.legislation.gov.uk/asp/2003/8/schedule/6/paragraph/15) (with [s. 53](https://www.legislation.gov.uk/asp/2003/8/section/53)); [S.S.I. 2004/404](https://www.legislation.gov.uk/ssi/2004/404), [art. 2(1)](https://www.legislation.gov.uk/ssi/2004/404/article/2/1)
 
 [^c1611361]: Textual amendment: Sch. 9 para. 55(2)(a)(d) repealed (1.1.1993) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 168(2)](https://www.legislation.gov.uk/ukpga/1991/22/section/168/2), [Sch. 9](https://www.legislation.gov.uk/ukpga/1991/22/schedule/9); [S.I. 1992/2990](https://www.legislation.gov.uk/uksi/1992/2990), [art. 2(2)](https://www.legislation.gov.uk/uksi/1992/2990/article/2/2), [Sch. 2](https://www.legislation.gov.uk/uksi/1992/2990/schedule/2)
 
@@ -1364,7 +1364,7 @@ and for the word “streets” there shall be substituted the word “roads”; 
 
 [^c1611369]: Textual amendment: Sch. 9 para. 72(7)(8) repealed (27.5.1997) by [1997 c. 11](https://www.legislation.gov.uk/ukpga/1997/11), [ss. 3](https://www.legislation.gov.uk/ukpga/1997/11/section/3), [6(2)](https://www.legislation.gov.uk/ukpga/1997/11/section/6/2), [Sch. 1 Pt. I](https://www.legislation.gov.uk/ukpga/1997/11/schedule/1/part/I) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/11/schedule/3))
 
-[^key-6bd3a39b6ea5c65270d26461c7a5e41e]: Textual amendment: Sch. 9 para. 77 repealed (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-6bd3a39b6ea5c65270d26461c7a5e41e]: Textual amendment: Sch. 9 para. 77 repealed (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [s. 150(2)](https://www.legislation.gov.uk/asp/2005/16/section/150/2), [sch. 7](https://www.legislation.gov.uk/asp/2005/16/schedule/7) (with [s. 143](https://www.legislation.gov.uk/asp/2005/16/section/143)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
 
 [^c1611371]: Textual amendment: Sch. 9 para. 79 repealed by [Electricity Act 1989 (c. 29, SIF 44:1)](https://www.legislation.gov.uk/ukpga/1989/29), [s. 112(3)(4)](https://www.legislation.gov.uk/ukpga/1989/29/section/112/3/4), [Sch. 17 para. 35(1)](https://www.legislation.gov.uk/ukpga/1989/29/schedule/17/paragraph/35/1), [Sch. 18](https://www.legislation.gov.uk/ukpga/1989/29/schedule/18)
 

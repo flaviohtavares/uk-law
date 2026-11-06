@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 0.1. Citation and commencement[^key-57549d9ef55cc4fef84dd6d00ec6e135]
+## 0.1. Citation and commencement[^c-57549d9ef55cc4fef84dd6d00ec6e135]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ These Rules may be cited as the Insolvency Rules 1986 and shall come into force 
 
 ## Annotations
 
-[^key-57549d9ef55cc4fef84dd6d00ec6e135]: Commencement: [Rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-57549d9ef55cc4fef84dd6d00ec6e135]: Commencement: [Rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

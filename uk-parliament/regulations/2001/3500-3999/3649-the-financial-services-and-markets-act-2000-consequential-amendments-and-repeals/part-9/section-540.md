@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 540. Payment of interest on late paid benefit[^key-c043dcb93519342d7b74fcac14a25b09]
+## 540. Payment of interest on late paid benefit[^c-c043dcb93519342d7b74fcac14a25b09]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c043dcb93519342d7b74fcac14a25b09]: Commencement: Art. 540 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-c043dcb93519342d7b74fcac14a25b09]: Commencement: Art. 540 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00343]: Footnote: Regulation 6(2) was amended by [S.I. 1998/1129](https://www.legislation.gov.uk/uksi/1998/1129).

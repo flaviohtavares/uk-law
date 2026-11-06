@@ -44,17 +44,17 @@ Coming into operation
 
 The Department for the Economy makes the following Regulations in exercise of the powers conferred by sections 167ZZ16 and 167ZZ17(3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], with the concurrence of the Treasury in so far as such concurrence is required[^f00002].
 
-## 1. Citation and Commencement[^key-8811f53d1b5f67d35c9543f4c2845717]
+## 1. Citation and Commencement[^c-8811f53d1b5f67d35c9543f4c2845717]
 
 These Regulations may be cited as the Statutory Parental Bereavement Pay (Persons Abroad and Mariners) Regulations (Northern Ireland) 2022 and shall come into operation on 6th April 2022.
 
-## 2. Interpretation[^key-20d9863e7ce1dff476caf3d46d43a24b]
+## 2. Interpretation[^c-20d9863e7ce1dff476caf3d46d43a24b]
 
 (1) In these Regulations—
 
 - “**the Act**” means the Social Security Contributions and Benefits (Northern Ireland) Act 1992;
 - “**foreign-going ship**” means any ship or vessel which is not a home-trade ship;
-- “**General Regulations**” means the Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023[^key-fbfff5542f820b734e434401613176e9];
+- “**General Regulations**” means the Statutory Parental Bereavement Pay (General) (No. 2) Regulations (Northern Ireland) 2023[^c-fbfff5542f820b734e434401613176e9];
 - “**home-trade ship**” includes—
   - (a) every ship or vessel employed in trading or going within the following limits—
     - (i) the United Kingdom (including for this purpose the Republic of Ireland),
@@ -70,7 +70,7 @@ These Regulations may be cited as the Statutory Parental Bereavement Pay (Person
   - (b) the contract is entered into in the United Kingdom with a view to its performance (in whole or in part) while the ship or vessel is on its voyage,
 
   but does not include a person insofar as their employment is as a serving member of HM’s forces;
-- “[^key-f6b738f733f263cc19faed405e0e0322]**miscarriage**” has the meaning as specified in regulation 4A of the General Regulations;
+- “[^c-f6b738f733f263cc19faed405e0e0322]**miscarriage**” has the meaning as specified in regulation 4A of the General Regulations;
 - “**serving member of HM’s forces**” means a member of a regular force or reserve force (“**M**”) as defined, in each case, by section 374 (definitions applying for purposes of the whole Act) of the Armed Forces Act 2006[^f00004], unless—
   - (a) M is under the age of 16,
   - (b) M is committing an offence under section 8 of the Armed Forces Act 2006 (desertion),
@@ -80,19 +80,19 @@ These Regulations may be cited as the Statutory Parental Bereavement Pay (Person
   - (d) the force concerned is one of HM’s military forces or HM’s air forces which M entered, or was recruited for, outside the United Kingdom and—
     - (i) where that force is one of HM’s military forces, the depot for M’s unit is outside of the United Kingdom, or
     - (ii) where that force is one of HM’s air forces, M is liable under the terms of M’s engagement to serve only in a specified area outside the United Kingdom;
-- “**statutory parental bereavement pay**” means statutory parental bereavement pay payable in accordance with the provisions of Part 12ZD of the Act where the conditions specified in section 167ZZ9(2) of the Act or regulations made under section 167ZZ19 of the Act[^key-4b13c59a223c0c681f819574ad260a0f] [^f00006] are satisfied.
+- “**statutory parental bereavement pay**” means statutory parental bereavement pay payable in accordance with the provisions of Part 12ZD of the Act where the conditions specified in section 167ZZ9(2) of the Act or regulations made under section 167ZZ19 of the Act[^c-4b13c59a223c0c681f819574ad260a0f] [^f00006] are satisfied.
 
 (2) For the purposes of these Regulations, the expressions “ship” and “ship or vessel” include hovercraft, except in regulation 7(2).
 
-## 3. Application[^key-57caab69ccd8f98a065a010652a5f3fc]
+## 3. Application[^c-57caab69ccd8f98a065a010652a5f3fc]
 
-These Regulations apply in relation to children who die on or after 6th April 2022 and to cases where a person experiences a miscarriage or becomes aware of the miscarriage on or after 6th April 2026[^key-851410ef17059da7ef799509df499c1c].
+These Regulations apply in relation to children who die on or after 6th April 2022 and to cases where a person experiences a miscarriage or becomes aware of the miscarriage on or after 6th April 2026[^c-851410ef17059da7ef799509df499c1c].
 
-## 4. Restriction on scope[^key-54ebf1d4774eed4d7f9c4bb7b1aa7844]
+## 4. Restriction on scope[^c-54ebf1d4774eed4d7f9c4bb7b1aa7844]
 
 A person who would not be treated under regulation 11 (treatment of persons as employees) of the General Regulations as an employee for the purposes of Part 12ZD (statutory parental bereavement pay) of the Act if that person’s employment were in Northern Ireland shall not be treated as an employee under these Regulations.
 
-## 4A. Treatment of persons in EEA states as employees[^key-d83001c6fb7612782947187954e18c26]
+## 4A. Treatment of persons in EEA states as employees[^c-d83001c6fb7612782947187954e18c26]
 
 A person who is—
 
@@ -101,11 +101,11 @@ A person who is—
 
 notwithstanding that person not being employed in Northern Ireland, shall be treated as an employee for the purposes of Part 12ZD of the Act.
 
-## 5. Treatment of certain persons absent from Northern Ireland as employees[^key-dbc90a003a4be1ea4ab92433c5b44ea2]
+## 5. Treatment of certain persons absent from Northern Ireland as employees[^c-dbc90a003a4be1ea4ab92433c5b44ea2]
 
 Subject to regulation 7(2), where a person, while absent from Northern Ireland for any purpose, is gainfully employed by an employer who is liable to pay secondary Class 1 contributions (within the meaning of section 1(2) of the Act) in respect of that person’s employment under section 6 of the Act[^f00007] or regulation 146 of the Social Security (Contributions) Regulations 2001[^f00008],that person shall be treated as an employee for the purposes of Part 12ZD of the Act.
 
-## 5A. Entitlement to statutory parental bereavement pay where person has worked in an EEA state in the 8 weeks preceding the death of a child or miscarriage[^key-4e6c0d51b078c38a34a183dc29624d5d]
+## 5A. Entitlement to statutory parental bereavement pay where person has worked in an EEA state in the 8 weeks preceding the death of a child or miscarriage[^c-4e6c0d51b078c38a34a183dc29624d5d]
 
 (1) A person who—
 
@@ -127,7 +127,7 @@ shall be treated for the purposes of section 167ZZ9 of the Act (entitlement to s
 
 shall be treated for the purposes of section 167ZZ9 of the Act (entitlement to statutory parental bereavement pay) as being employed in employed earner’s employment with an employer in those weeks in which the person would be so employed in the EEA state.
 
-## 6. Time for compliance with Part 12ZD of the Act or regulations made under it[^key-bd9c63ad988ef6dcc8dba4a273c1ea29]
+## 6. Time for compliance with Part 12ZD of the Act or regulations made under it[^c-bd9c63ad988ef6dcc8dba4a273c1ea29]
 
 Where—
 
@@ -137,7 +137,7 @@ Where—
 
 the person or the employer, as the case may be, will be deemed to have complied with the requirement if the act is performed as soon as reasonably practicable.
 
-## 7. Mariners[^key-b3b36be5503a3cb4ce8a47e7ff6952cf]
+## 7. Mariners[^c-b3b36be5503a3cb4ce8a47e7ff6952cf]
 
 (1) A mariner engaged in employment on board a home-trade ship with an employer who has a place of business within the United Kingdom shall be treated as an employee for the purposes of Part 12ZD of the Act, notwithstanding that the mariner may not be employed in Northern Ireland.
 
@@ -148,7 +148,7 @@ the person or the employer, as the case may be, will be deemed to have complied 
 
 shall not be treated as an employee for the purposes of Part 12ZD of the Act, notwithstanding that the mariner may have been employed in Northern Ireland.
 
-## 8. Continental shelf[^key-b4e7a295f84d4a37b7494a13b3c44fa4]
+## 8. Continental shelf[^c-b4e7a295f84d4a37b7494a13b3c44fa4]
 
 (1) In this regulation—
 
@@ -201,43 +201,43 @@ An impact assessment has not been prepared for these Regulations. These Regulati
 
 [^f00002]: Footnote: Regulations made by the Department for the Economy pursuant to [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7), section 167ZZ16, must, by virtue of that section, be made with the concurrence of the Commissioners of Her Majesty’s Treasury.
 
-[^key-8811f53d1b5f67d35c9543f4c2845717]: Commencement: Reg. 1 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
+[^c-8811f53d1b5f67d35c9543f4c2845717]: Commencement: Reg. 1 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
 
-[^key-20d9863e7ce1dff476caf3d46d43a24b]: Commencement: Reg. 2 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
+[^c-20d9863e7ce1dff476caf3d46d43a24b]: Commencement: Reg. 2 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
 
-[^key-fbfff5542f820b734e434401613176e9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2022/170/regulation/2/1) substituted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2026/74/regulation/3/2)
+[^c-fbfff5542f820b734e434401613176e9]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2022/170/regulation/2/1) substituted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [3(2)](https://www.legislation.gov.uk/nisr/2026/74/regulation/3/2)
 
-[^key-f6b738f733f263cc19faed405e0e0322]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2022/170/regulation/2/1) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2026/74/regulation/3/3)
+[^c-f6b738f733f263cc19faed405e0e0322]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2022/170/regulation/2/1) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [3(3)](https://www.legislation.gov.uk/nisr/2026/74/regulation/3/3)
 
 [^f00004]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52).
 
 [^f00005]: Footnote: [1966 c. 6 (N.I.)](https://www.legislation.gov.uk/apni/1966/6).
 
-[^key-4b13c59a223c0c681f819574ad260a0f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2022/170/regulation/2/1) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2026/74/regulation/3/4)
+[^c-4b13c59a223c0c681f819574ad260a0f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2022/170/regulation/2/1) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [3(4)](https://www.legislation.gov.uk/nisr/2026/74/regulation/3/4)
 
 [^f00006]: Footnote: [1992 c. 7](https://www.legislation.gov.uk/ukpga/1992/7); Part 12ZD was inserted by [2022 c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2022/5), section 2.
 
-[^key-57caab69ccd8f98a065a010652a5f3fc]: Commencement: Reg. 3 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
+[^c-57caab69ccd8f98a065a010652a5f3fc]: Commencement: Reg. 3 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
 
-[^key-851410ef17059da7ef799509df499c1c]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2022/170/regulation/3) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2026/74/regulation/3/5)
+[^c-851410ef17059da7ef799509df499c1c]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/nisr/2022/170/regulation/3) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [3(5)](https://www.legislation.gov.uk/nisr/2026/74/regulation/3/5)
 
-[^key-54ebf1d4774eed4d7f9c4bb7b1aa7844]: Commencement: Reg. 4 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
+[^c-54ebf1d4774eed4d7f9c4bb7b1aa7844]: Commencement: Reg. 4 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
 
-[^key-d83001c6fb7612782947187954e18c26]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2022/170/regulation/4A) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [3(6)](https://www.legislation.gov.uk/nisr/2026/74/regulation/3/6)
+[^c-d83001c6fb7612782947187954e18c26]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/nisr/2022/170/regulation/4A) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [3(6)](https://www.legislation.gov.uk/nisr/2026/74/regulation/3/6)
 
-[^key-dbc90a003a4be1ea4ab92433c5b44ea2]: Commencement: Reg. 5 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
+[^c-dbc90a003a4be1ea4ab92433c5b44ea2]: Commencement: Reg. 5 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
 
 [^f00007]: Footnote: Section 6 was substituted by the Welfare Reform and Pensions Act [1999 (c. 30)](https://www.legislation.gov.uk/ukpga/1999/30), Schedule 10, paragraph 2, and was further amended by the Child Support, Pensions and Social Security Act [2000 (c. 19)](https://www.legislation.gov.uk/ukpga/2000/19), section 81(3).
 
 [^f00008]: Footnote: [S.I. 2001/1004](https://www.legislation.gov.uk/uksi/2001/1004), amended by [S.I 2007/1838](https://www.legislation.gov.uk/uksi/2007/1838).
 
-[^key-4e6c0d51b078c38a34a183dc29624d5d]: Textual amendment: [Regs. 5A](https://www.legislation.gov.uk/nisr/2022/170/regulation/5A), [5B](https://www.legislation.gov.uk/nisr/2022/170/regulation/5B) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [3(7)](https://www.legislation.gov.uk/nisr/2026/74/regulation/3/7)
+[^c-4e6c0d51b078c38a34a183dc29624d5d]: Textual amendment: [Regs. 5A](https://www.legislation.gov.uk/nisr/2022/170/regulation/5A), [5B](https://www.legislation.gov.uk/nisr/2022/170/regulation/5B) inserted (6.4.2026) by [The Statutory Parental Bereavement Pay (Employment and Earnings) (Amendment) Regulations (Northern Ireland) 2026 (S.R. 2026/74)](https://www.legislation.gov.uk/nisr/2026/74), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2026/74/regulation/1/1), [3(7)](https://www.legislation.gov.uk/nisr/2026/74/regulation/3/7)
 
-[^key-bd9c63ad988ef6dcc8dba4a273c1ea29]: Commencement: Reg. 6 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
+[^c-bd9c63ad988ef6dcc8dba4a273c1ea29]: Commencement: Reg. 6 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
 
-[^key-b3b36be5503a3cb4ce8a47e7ff6952cf]: Commencement: Reg. 7 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
+[^c-b3b36be5503a3cb4ce8a47e7ff6952cf]: Commencement: Reg. 7 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
 
-[^key-b4e7a295f84d4a37b7494a13b3c44fa4]: Commencement: Reg. 8 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
+[^c-b4e7a295f84d4a37b7494a13b3c44fa4]: Commencement: Reg. 8 in operation at 6.4.2022, see [reg. 1](https://www.legislation.gov.uk/nisr/2022/170/regulation/1)
 
 [^f00009]: Footnote: [1964 c. 29](https://www.legislation.gov.uk/ukpga/1964/29); section 1(7) was amended by the Oil and Gas (Enterprise) Act [1982 (c. 23)](https://www.legislation.gov.uk/ukpga/1982/23), section 37, and Schedule 3, paragraph 1, and the Energy Act [2011 (c. 16)](https://www.legislation.gov.uk/ukpga/2011/16), section 103.
 

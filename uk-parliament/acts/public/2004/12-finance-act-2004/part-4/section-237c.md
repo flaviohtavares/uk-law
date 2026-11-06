@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237C. Exceptions[^key-0ff6f9031c2c3808b9cd33a93159e8ea]
+## 237C. Exceptions[^c-0ff6f9031c2c3808b9cd33a93159e8ea]
 
 *Extent: E+W+S+N.I.*
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]
+[^c-7055643fff30dd4e1a4ed50a34b655c1]
 
 (1) The scheme administrator of a pension scheme does not become liable under section 237B if the time when the scheme administrator would become liable is during an assessment period in relation to the pension scheme; and if an assessment period in relation to a pension scheme begins at a time when the scheme administrator is already so liable (but has not satisfied the liability), the liability ceases when the assessment period begins.
 
@@ -32,6 +32,6 @@ References to an assessment period are to be construed in accordance with sectio
 
 ## Annotations
 
-[^key-0ff6f9031c2c3808b9cd33a93159e8ea]: Textual amendment: Ss. 237A-237F inserted (with effect in accordance with Sch. 17 Pt. 2 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/2011/11/schedule/17/paragraph/15)
+[^c-0ff6f9031c2c3808b9cd33a93159e8ea]: Textual amendment: Ss. 237A-237F inserted (with effect in accordance with Sch. 17 Pt. 2 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 17 para. 15](https://www.legislation.gov.uk/ukpga/2011/11/schedule/17/paragraph/15)
 
-[^key-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)
+[^c-7055643fff30dd4e1a4ed50a34b655c1]: Modification: Pt. 4 modified (with effect in relation to the tax year 2024-25 and subsequent tax years) by [The MPs’, Senedd and Assembly Pension Schemes (Tax) Regulations 2025 (S.I. 2025/52)](https://www.legislation.gov.uk/uksi/2025/52), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2025/52/regulation/1/3), [6](https://www.legislation.gov.uk/uksi/2025/52/regulation/6)

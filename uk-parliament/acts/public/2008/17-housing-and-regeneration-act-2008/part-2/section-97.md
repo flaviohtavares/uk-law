@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Information, advice etc.[^key-d8e112670a17e4b198b823b46cc3f2ba][^key-a4a2909e86a10521ad58357ecb19c171]
+## 97. Information, advice etc.[^c-d8e112670a17e4b198b823b46cc3f2ba][^c-a4a2909e86a10521ad58357ecb19c171]
 
 *Extent: E+W*
 
@@ -38,6 +38,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d8e112670a17e4b198b823b46cc3f2ba]: Commencement: S. 97 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
+[^c-d8e112670a17e4b198b823b46cc3f2ba]: Commencement: S. 97 in force at 8.9.2008 for specified purposes by [S.I. 2008/2358](https://www.legislation.gov.uk/uksi/2008/2358), [art. 3(1)](https://www.legislation.gov.uk/uksi/2008/2358/article/3/1)
 
-[^key-a4a2909e86a10521ad58357ecb19c171]: Commencement: S. 97 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))
+[^c-a4a2909e86a10521ad58357ecb19c171]: Commencement: S. 97 in force at 1.4.2010 in so far as not already in force by [S.I. 2010/862](https://www.legislation.gov.uk/uksi/2010/862), [art. 2](https://www.legislation.gov.uk/uksi/2010/862/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2010/862/schedule))

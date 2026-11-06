@@ -18,10 +18,10 @@ summary: ''
 
 *Extent: E+W*
 
-**247.**[^key-520b41817c6f3022a23be7655d586f15] In section 36 (directed partnership arrangements), in subsection (5), for the definition of “relevant social services functions” substitute—
+**247.**[^c-520b41817c6f3022a23be7655d586f15] In section 36 (directed partnership arrangements), in subsection (5), for the definition of “relevant social services functions” substitute—
 
 > - “relevant social services functions” means health-related functions of local authorities in England within the meaning of the Local Authority Social Services Act [1970 (c. 42)](https://www.legislation.gov.uk/ukpga/1970/42) or of local authorities in Wales for the purposes of the Social Services and Well-being (Wales) Act [2014 (anaw 4)](https://www.legislation.gov.uk/anaw/2014/4).
 
 ## Annotations
 
-[^key-520b41817c6f3022a23be7655d586f15]: Commencement: Reg. 247 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-520b41817c6f3022a23be7655d586f15]: Commencement: Reg. 247 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

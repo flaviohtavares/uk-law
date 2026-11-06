@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 143. Duration of warrants[^key-d95945b4bf94b2177ae849965770f3d6]
+## 143. Duration of warrants[^c-d95945b4bf94b2177ae849965770f3d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d95945b4bf94b2177ae849965770f3d6]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2016/25/section/143) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a)
+[^c-d95945b4bf94b2177ae849965770f3d6]: Commencement: [S. 143](https://www.legislation.gov.uk/ukpga/2016/25/section/143) in force at 27.6.2018 by [S.I. 2018/652](https://www.legislation.gov.uk/uksi/2018/652), [reg. 10(a)](https://www.legislation.gov.uk/uksi/2018/652/regulation/10/a)

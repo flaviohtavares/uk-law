@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 51. Power to establish a police force[^key-45c42c1aaa59985fe21a793799edf094]
+## 51. Power to establish a police force[^c-45c42c1aaa59985fe21a793799edf094]
 
 *Extent: E+W+S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-45c42c1aaa59985fe21a793799edf094]: Commencement: Art. 51 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
+[^c-45c42c1aaa59985fe21a793799edf094]: Commencement: Art. 51 in force at 16.5.2008, see [art. 1](https://www.legislation.gov.uk/uksi/2008/1261/article/1)
 
 [^f00027]: Footnote: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16).

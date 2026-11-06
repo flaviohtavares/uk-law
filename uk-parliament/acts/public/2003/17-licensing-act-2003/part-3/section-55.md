@@ -25,7 +25,7 @@ summary: ''
 - (a) require applications under any provision of this Part (other than section 51) or notices under section 47 to be accompanied by a fee, and
 - (b) prescribe the amount of the fee.
 
-(1A)[^key-0efd94dad711cf296e7a81e33fe7388f] Subsection (1) is subject to regulations under section 134(2)(c)(ii) of the Police Reform and Social Responsibility Act 2011 (exemption from fees for variation applications prior to introduction of late night levy).
+(1A)[^c-0efd94dad711cf296e7a81e33fe7388f] Subsection (1) is subject to regulations under section 134(2)(c)(ii) of the Police Reform and Social Responsibility Act 2011 (exemption from fees for variation applications prior to introduction of late night levy).
 
 (2) Regulations may also require the holder of a premises licence to pay the relevant licensing authority an annual fee.
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0efd94dad711cf296e7a81e33fe7388f]: Textual amendment: S. 55(1A) inserted (31.10.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 139(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/139/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 138](https://www.legislation.gov.uk/ukpga/2011/13/section/138)); [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/b)
+[^c-0efd94dad711cf296e7a81e33fe7388f]: Textual amendment: S. 55(1A) inserted (31.10.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 139(2)](https://www.legislation.gov.uk/ukpga/2011/13/section/139/2), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 138](https://www.legislation.gov.uk/ukpga/2011/13/section/138)); [S.I. 2012/2670](https://www.legislation.gov.uk/uksi/2012/2670), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/2670/article/2/b)

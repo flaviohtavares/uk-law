@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Appointment of enforcement administrators[^key-290607bb3603b833369bcb3e4ba7f1a0]
+## 73. Appointment of enforcement administrators[^c-290607bb3603b833369bcb3e4ba7f1a0]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-290607bb3603b833369bcb3e4ba7f1a0]: Commencement: [Art. 73](https://www.legislation.gov.uk/uksi/2005/3181/article/73) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-290607bb3603b833369bcb3e4ba7f1a0]: Commencement: [Art. 73](https://www.legislation.gov.uk/uksi/2005/3181/article/73) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Test of security’s value[^key-0e5a3570eb6bdc6677bf987a9154b9b9]
+## 82. Test of security’s value[^c-0e5a3570eb6bdc6677bf987a9154b9b9]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 4.98 of the 1986 Rules.
 
 ## Annotations
 
-[^key-0e5a3570eb6bdc6677bf987a9154b9b9]: Commencement: Rule 82 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-0e5a3570eb6bdc6677bf987a9154b9b9]: Commencement: Rule 82 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

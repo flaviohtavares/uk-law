@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 146. Consequential amendments[^key-d88e6e053ef69d5b708b6ce7c9f3bbf7]
+## 146. Consequential amendments[^c-d88e6e053ef69d5b708b6ce7c9f3bbf7]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 11 makes consequential amendments relating to this Order.
 
 ## Annotations
 
-[^key-d88e6e053ef69d5b708b6ce7c9f3bbf7]: Commencement: Art. 146 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)
+[^c-d88e6e053ef69d5b708b6ce7c9f3bbf7]: Commencement: Art. 146 in force at 18.7.2025, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2025/864/article/1/2)

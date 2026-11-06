@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-Novel Foods and Novel Food Ingredients Regulations (Northern Ireland) 2004 (revoked)[^key-e76f408b84e1b86224ea542780ecbba7]
+Novel Foods and Novel Food Ingredients Regulations (Northern Ireland) 2004 (revoked)[^c-e76f408b84e1b86224ea542780ecbba7]
 
 Made
 
@@ -41,43 +41,43 @@ Coming into operation
 
 15th March 2004
 
-[^key-e76f408b84e1b86224ea542780ecbba7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e76f408b84e1b86224ea542780ecbba7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-e76f408b84e1b86224ea542780ecbba7]
+## 1. Citation and commencement[^c-e76f408b84e1b86224ea542780ecbba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-e76f408b84e1b86224ea542780ecbba7]
+## 2. Interpretation[^c-e76f408b84e1b86224ea542780ecbba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Requests relating to novel foods and novel food ingredients[^key-e76f408b84e1b86224ea542780ecbba7]
+## 3. Requests relating to novel foods and novel food ingredients[^c-e76f408b84e1b86224ea542780ecbba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Enforcement[^key-e76f408b84e1b86224ea542780ecbba7]
+## 4. Enforcement[^c-e76f408b84e1b86224ea542780ecbba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Offences and penalties[^key-e76f408b84e1b86224ea542780ecbba7]
+## 5. Offences and penalties[^c-e76f408b84e1b86224ea542780ecbba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Application of various provisions of the Order[^key-e76f408b84e1b86224ea542780ecbba7]
+## 6. Application of various provisions of the Order[^c-e76f408b84e1b86224ea542780ecbba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Application of Articles 33 and 34 of the Order[^key-e76f408b84e1b86224ea542780ecbba7]
+## 7. Application of Articles 33 and 34 of the Order[^c-e76f408b84e1b86224ea542780ecbba7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e76f408b84e1b86224ea542780ecbba7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e76f408b84e1b86224ea542780ecbba7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — SPECIFIED COMMUNITY PROVISIONS[^key-e76f408b84e1b86224ea542780ecbba7]
+## SCHEDULE — SPECIFIED COMMUNITY PROVISIONS[^c-e76f408b84e1b86224ea542780ecbba7]
 
 Regulation 2
 
@@ -85,8 +85,8 @@ Regulation 2
 
 **May not be in force at this date. Check the source.**
 
-[^key-e76f408b84e1b86224ea542780ecbba7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e76f408b84e1b86224ea542780ecbba7]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e76f408b84e1b86224ea542780ecbba7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/33) revoked (1.1.2018) by [The Novel Foods Regulations (Northern Ireland) 2017 (S.R. 2017/233)](https://www.legislation.gov.uk/nisr/2017/233), [regs. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2017/233/regulation/6/a)
+[^c-e76f408b84e1b86224ea542780ecbba7]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2004/33) revoked (1.1.2018) by [The Novel Foods Regulations (Northern Ireland) 2017 (S.R. 2017/233)](https://www.legislation.gov.uk/nisr/2017/233), [regs. 1](https://www.legislation.gov.uk/nisr/2017/233/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2017/233/regulation/6/a)

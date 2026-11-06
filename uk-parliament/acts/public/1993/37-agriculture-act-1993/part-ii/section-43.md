@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Overriding nature of functions under Part II.[^key-b0c16fe58116fed4bba7aebce74dca5f]
+## 43. Overriding nature of functions under Part II.[^c-b0c16fe58116fed4bba7aebce74dca5f]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b0c16fe58116fed4bba7aebce74dca5f]: Textual amendment: [Ss. 37-45](https://www.legislation.gov.uk/ukpga/1993/37/section/37) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1
+[^c-b0c16fe58116fed4bba7aebce74dca5f]: Textual amendment: [Ss. 37-45](https://www.legislation.gov.uk/ukpga/1993/37/section/37) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/2) Group 1

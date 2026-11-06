@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 173. Appeals on other issues[^key-677e522e3a55a2fef1e1dea262946ee0]
+## 173. Appeals on other issues[^c-677e522e3a55a2fef1e1dea262946ee0]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ P may, by written notice given to the scheme manager within 28 days of receipt o
 
 ## Annotations
 
-[^key-677e522e3a55a2fef1e1dea262946ee0]: Commencement: Reg. 173 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-677e522e3a55a2fef1e1dea262946ee0]: Commencement: Reg. 173 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00070]: Footnote: [1995 c. 26](https://www.legislation.gov.uk/ukpga/1995/26). Section 50 has been substituted by virtue of section 273 of the [Pensions Act 2004 ( c. 35)](https://www.legislation.gov.uk/ukpga/2004/35).
 

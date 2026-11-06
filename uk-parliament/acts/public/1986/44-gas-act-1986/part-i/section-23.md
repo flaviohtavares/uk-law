@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Modification of conditions of licences[^key-3caba01259b65f80829d0e8bf4109e85][^key-724656dac2f2bec32e8e7742610e0de2]
+## 23. Modification of conditions of licences[^c-3caba01259b65f80829d0e8bf4109e85][^c-724656dac2f2bec32e8e7742610e0de2]
 
 *Extent: E+W+S*
 
 (1) The Authority may make modifications of—
 
 - (a) the conditions of a particular licence;
-- (b) the standard conditions of licences of any type under section 7, 7ZA, 7A(1) or (2) or 7AC[^key-e9685ab77fd0cab231abd8e4015c764b].
+- (b) the standard conditions of licences of any type under section 7, 7ZA, 7A(1) or (2) or 7AC[^c-e9685ab77fd0cab231abd8e4015c764b].
 
 (2) Before making any modifications under this section, the Authority must give notice—
 
@@ -40,15 +40,15 @@ summary: ''
 - (b) by sending a copy of the notice to—
   - (i) each relevant licence holder,
   - (ii) the Secretary of State,
-  - (iii) the Health and Safety Executive, [^key-58cedb277eee031a1ac177ea6c346b9c]...
-  - (iv) Citizens Advice, and[^key-8d2a4a106b1307dc3106ef4e53d1bcc5]
-- (v) Consumer Scotland[^key-97eae0ae366534ba3235b830d48e70b5].
+  - (iii) the Health and Safety Executive, [^c-58cedb277eee031a1ac177ea6c346b9c]...
+  - (iv) Citizens Advice, and[^c-8d2a4a106b1307dc3106ef4e53d1bcc5]
+- (v) Consumer Scotland[^c-97eae0ae366534ba3235b830d48e70b5].
 
 (4A) The Authority must consider any representations which are duly made.
 
-(5) If, within the time specified by virtue of subsection (2)(d)[^key-e9623381985e99d59475a40f6ea359ba] , the Secretary of State directs the Director not to make any modification, the Director shall comply with the direction.
+(5) If, within the time specified by virtue of subsection (2)(d)[^c-e9623381985e99d59475a40f6ea359ba] , the Secretary of State directs the Director not to make any modification, the Director shall comply with the direction.
 
-(6)[^key-90f1721e8d4cd396a44063d3bf2fa073] Subsections (7) to (9) apply where, having complied with subsections (2) to (4A), the Authority decides to proceed with the making of modifications of the conditions of any licence under this section.
+(6)[^c-90f1721e8d4cd396a44063d3bf2fa073] Subsections (7) to (9) apply where, having complied with subsections (2) to (4A), the Authority decides to proceed with the making of modifications of the conditions of any licence under this section.
 
 (7) The Authority must—
 
@@ -70,18 +70,18 @@ summary: ''
 
 ## Annotations
 
-[^key-3caba01259b65f80829d0e8bf4109e85]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/1986/44/section/23) modified (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/80/2), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
+[^c-3caba01259b65f80829d0e8bf4109e85]: Modification: [S. 23](https://www.legislation.gov.uk/ukpga/1986/44/section/23) modified (26.12.2023) by [Energy Act 2023 (c. 52)](https://www.legislation.gov.uk/ukpga/2023/52), [ss. 80(2)](https://www.legislation.gov.uk/ukpga/2023/52/section/80/2), [334(3)(b)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/b)
 
-[^key-724656dac2f2bec32e8e7742610e0de2]: Textual amendment: S. 23(1)-(4A) and heading substituted for s. 23(1)-(4) and heading (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [41(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/41/3) (with [reg. 42](https://www.legislation.gov.uk/uksi/2011/2704/regulation/42))
+[^c-724656dac2f2bec32e8e7742610e0de2]: Textual amendment: S. 23(1)-(4A) and heading substituted for s. 23(1)-(4) and heading (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [41(3)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/41/3) (with [reg. 42](https://www.legislation.gov.uk/uksi/2011/2704/regulation/42))
 
-[^key-e9685ab77fd0cab231abd8e4015c764b]: Textual amendment: Words in [s. 23(1)(b)](https://www.legislation.gov.uk/ukpga/1986/44/section/23/1/b) substituted (25.5.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/706/regulation/2/5)
+[^c-e9685ab77fd0cab231abd8e4015c764b]: Textual amendment: Words in [s. 23(1)(b)](https://www.legislation.gov.uk/ukpga/1986/44/section/23/1/b) substituted (25.5.2024) by [The Energy Act 2023 (Consequential Amendments) Regulations 2024 (S.I. 2024/706)](https://www.legislation.gov.uk/uksi/2024/706), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/706/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/706/regulation/2/5)
 
-[^key-58cedb277eee031a1ac177ea6c346b9c]: Textual amendment: Word in s. 23(4)(b)(iii) omitted (1.4.2014) by virtue of [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 4(5)(a)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/5/a) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-58cedb277eee031a1ac177ea6c346b9c]: Textual amendment: Word in s. 23(4)(b)(iii) omitted (1.4.2014) by virtue of [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 4(5)(a)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/5/a) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
-[^key-8d2a4a106b1307dc3106ef4e53d1bcc5]: Textual amendment: S. 23(4)(b)(iv)(v) substituted for s. 23(4)(b)(iv) (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 4(5)(b)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/5/b) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-8d2a4a106b1307dc3106ef4e53d1bcc5]: Textual amendment: S. 23(4)(b)(iv)(v) substituted for s. 23(4)(b)(iv) (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading’s Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 4(5)(b)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/5/b) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
 
-[^key-97eae0ae366534ba3235b830d48e70b5]: Textual amendment: Words in [s. 23(4)(b)(v)](https://www.legislation.gov.uk/ukpga/1986/44/section/23/4/b/v) substituted (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/uksi/2022/34/schedule/paragraph/2/5) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
+[^c-97eae0ae366534ba3235b830d48e70b5]: Textual amendment: Words in [s. 23(4)(b)(v)](https://www.legislation.gov.uk/ukpga/1986/44/section/23/4/b/v) substituted (13.1.2022) by [The Consumer Scotland Act 2020 (Consequential Provisions and Modifications) Order 2022 (S.I. 2022/34)](https://www.legislation.gov.uk/uksi/2022/34), [art. 1(1)](https://www.legislation.gov.uk/uksi/2022/34/article/1/1), [Sch. para. 2(5)](https://www.legislation.gov.uk/uksi/2022/34/schedule/paragraph/2/5) (with [art. 5](https://www.legislation.gov.uk/uksi/2022/34/article/5))
 
-[^key-e9623381985e99d59475a40f6ea359ba]: Textual amendment: Words in s. 23(5) substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [41(4)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/41/4) (with [reg. 42](https://www.legislation.gov.uk/uksi/2011/2704/regulation/42))
+[^c-e9623381985e99d59475a40f6ea359ba]: Textual amendment: Words in s. 23(5) substituted (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [41(4)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/41/4) (with [reg. 42](https://www.legislation.gov.uk/uksi/2011/2704/regulation/42))
 
-[^key-90f1721e8d4cd396a44063d3bf2fa073]: Textual amendment: S. 23(6)-(10) substituted for s. 23(6)-(13) (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [41(5)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/41/5) (with [reg. 42](https://www.legislation.gov.uk/uksi/2011/2704/regulation/42))
+[^c-90f1721e8d4cd396a44063d3bf2fa073]: Textual amendment: S. 23(6)-(10) substituted for s. 23(6)-(13) (10.11.2011) by [The Electricity and Gas (Internal Markets) Regulations 2011 (S.I. 2011/2704)](https://www.legislation.gov.uk/uksi/2011/2704), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/1/1), [41(5)](https://www.legislation.gov.uk/uksi/2011/2704/regulation/41/5) (with [reg. 42](https://www.legislation.gov.uk/uksi/2011/2704/regulation/42))

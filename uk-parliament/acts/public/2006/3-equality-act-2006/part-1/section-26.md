@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Section 25: supplemental[^key-b5bc45799bd7edd859083dec272820bf]
+## 26. Section 25: supplemental[^c-b5bc45799bd7edd859083dec272820bf]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b5bc45799bd7edd859083dec272820bf]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/2006/3/section/26) repealed (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 70](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/70), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(e)(vi)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/e/vi) (as amended (1.10.2010) by [S.I. 2010/2337](https://www.legislation.gov.uk/uksi/2010/2337), art. 2)
+[^c-b5bc45799bd7edd859083dec272820bf]: Textual amendment: [S. 26](https://www.legislation.gov.uk/ukpga/2006/3/section/26) repealed (1.10.2010) by [Equality Act 2010 (c. 15)](https://www.legislation.gov.uk/ukpga/2010/15), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2010/15/section/216/3), [Sch. 26 para. 70](https://www.legislation.gov.uk/ukpga/2010/15/schedule/26/paragraph/70), [Sch. 27 Pt. 1](https://www.legislation.gov.uk/ukpga/2010/15/schedule/27/part/1) (with [ss. 6(4)](https://www.legislation.gov.uk/ukpga/2010/15/section/6/4), [205](https://www.legislation.gov.uk/ukpga/2010/15/section/205)); [S.I. 2010/2317](https://www.legislation.gov.uk/uksi/2010/2317), [art. 2(15)(e)(vi)](https://www.legislation.gov.uk/uksi/2010/2317/article/2/15/e/vi) (as amended (1.10.2010) by [S.I. 2010/2337](https://www.legislation.gov.uk/uksi/2010/2337), art. 2)

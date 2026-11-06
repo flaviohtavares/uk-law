@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Consequential repeal[^key-111bf0b0daa277f3cc84a733ef67ad4f]
+## 112. Consequential repeal[^c-111bf0b0daa277f3cc84a733ef67ad4f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In the Children and Families Act 2014 omit section 94.
 
 ## Annotations
 
-[^key-111bf0b0daa277f3cc84a733ef67ad4f]: Commencement: S. 112 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)
+[^c-111bf0b0daa277f3cc84a733ef67ad4f]: Commencement: S. 112 in force at Royal Assent, see [s. 176(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/176/1)

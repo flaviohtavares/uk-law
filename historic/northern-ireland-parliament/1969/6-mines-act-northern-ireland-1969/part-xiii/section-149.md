@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 149. Mode of service of notices under this Act.[^key-4f6b1aed7975f96414f3e70f31e4121b]
+## 149. Mode of service of notices under this Act.[^c-4f6b1aed7975f96414f3e70f31e4121b]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f6b1aed7975f96414f3e70f31e4121b]: Textual amendment: [S. 149](https://www.legislation.gov.uk/apni/1969/6/section/149) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-4f6b1aed7975f96414f3e70f31e4121b]: Textual amendment: [S. 149](https://www.legislation.gov.uk/apni/1969/6/section/149) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

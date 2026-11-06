@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Presentation of goods to Customs on import or export[^c23439571][^key-adcefce6353791373ac411eb6d0d2c13]
+## 34. Presentation of goods to Customs on import or export[^c23439571][^c-adcefce6353791373ac411eb6d0d2c13]
 
 *Extent: E+W+S+N.I.*
 
 (1) For the purposes of this Part, goods are presented to Customs on import if—
 
 - (a) the goods are lawfully imported into the United Kingdom, and
-- (b)[^key-0f81fe1ba28db7653648170fcbff88df] notification of their importation into the United Kingdom is given to HMRC in accordance with provision made by regulations made by HMRC Commissioners.
+- (b)[^c-0f81fe1ba28db7653648170fcbff88df] notification of their importation into the United Kingdom is given to HMRC in accordance with provision made by regulations made by HMRC Commissioners.
 
 (2) The time at which goods are presented to Customs on import is the later of—
 
@@ -49,6 +49,6 @@ summary: ''
 
 [^c23439571]: Commencement: S. 34 in force for specified purposes at 13.9.2018, see s. 57(1)(a)
 
-[^key-adcefce6353791373ac411eb6d0d2c13]: Commencement: S. 34 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
+[^c-adcefce6353791373ac411eb6d0d2c13]: Commencement: S. 34 in force at 31.12.2020 in so far as not already in force by [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(a)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/a)
 
-[^key-0f81fe1ba28db7653648170fcbff88df]: Modification: S. 34(1)(b) modified (31.12.2020) by [The Customs (Managed Transition Procedure) (EU Exit) Regulations 2019 (S.I. 2019/487)](https://www.legislation.gov.uk/uksi/2019/487), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2019/487/regulation/4/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/487/regulation/7)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-0f81fe1ba28db7653648170fcbff88df]: Modification: S. 34(1)(b) modified (31.12.2020) by [The Customs (Managed Transition Procedure) (EU Exit) Regulations 2019 (S.I. 2019/487)](https://www.legislation.gov.uk/uksi/2019/487), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2019/487/regulation/1/3), [4(3)](https://www.legislation.gov.uk/uksi/2019/487/regulation/4/3) (with [reg. 7](https://www.legislation.gov.uk/uksi/2019/487/regulation/7)); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)

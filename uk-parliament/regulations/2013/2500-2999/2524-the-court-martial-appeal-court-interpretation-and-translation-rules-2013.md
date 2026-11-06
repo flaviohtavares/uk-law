@@ -46,15 +46,15 @@ Coming into force
 
 The Lord Chief Justice, in exercise of the power conferred by section 49 of the Court Martial Appeals Act 1968[^f00001], including that section as extended by section 163(9) of the Armed Forces Act 2006[^f00002], and with the agreement of the Lord Chancellor, makes the following Rules:
 
-## 1. Citation and commencement[^key-a244e8d67da1cf99361930e0c2930923]
+## 1. Citation and commencement[^c-a244e8d67da1cf99361930e0c2930923]
 
 These Rules may be cited as the Court Martial Appeal Court (Interpretation and Translation) Rules 2013 and shall come into force on 27th October 2013.
 
-## 2. Court Martial Appeal Court rules[^key-2981e892b211530e9510d8d8c2eb131f]
+## 2. Court Martial Appeal Court rules[^c-2981e892b211530e9510d8d8c2eb131f]
 
 The Court Martial Appeal Court Rules 2009[^f00003] are amended as follows.
 
-**3.**[^key-f4da86c678f6e0442a49a0563f37b572] For rule 16 (interpreters) substitute—
+**3.**[^c-f4da86c678f6e0442a49a0563f37b572] For rule 16 (interpreters) substitute—
 
 > **16. Interpretation, translation and communication through an intermediary**
 >
@@ -121,10 +121,10 @@ These Rules amend the Court Martial Appeal Court Rules 2009 ([S.I. 2009/2657](ht
 
 [^f00002]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52). By section 163(3)(i) of that Act, Court Martial rules may make provision for appeals against orders or rulings as there set out. Section 163(9) of that Act enables Court Martial rules to confer jurisdiction on the Court Martial Appeal Court and confirms that rules under section 49 of the 1968 Act may make provision about the powers of the Court Martial Appeal Court in relation to appeals made by virtue of section 163(3)(i).
 
-[^key-a244e8d67da1cf99361930e0c2930923]: Commencement: Rule 1 in force at 27.10.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/2524/rule/1)
+[^c-a244e8d67da1cf99361930e0c2930923]: Commencement: Rule 1 in force at 27.10.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/2524/rule/1)
 
-[^key-2981e892b211530e9510d8d8c2eb131f]: Commencement: Rule 2 in force at 27.10.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/2524/rule/1)
+[^c-2981e892b211530e9510d8d8c2eb131f]: Commencement: Rule 2 in force at 27.10.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/2524/rule/1)
 
 [^f00003]: Footnote: [S.I. 2009/2657](https://www.legislation.gov.uk/uksi/2009/2657).
 
-[^key-f4da86c678f6e0442a49a0563f37b572]: Commencement: Rule 3 in force at 27.10.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/2524/rule/1)
+[^c-f4da86c678f6e0442a49a0563f37b572]: Commencement: Rule 3 in force at 27.10.2013, see [rule 1](https://www.legislation.gov.uk/uksi/2013/2524/rule/1)

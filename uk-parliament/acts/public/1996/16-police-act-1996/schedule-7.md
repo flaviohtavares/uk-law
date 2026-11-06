@@ -57,7 +57,7 @@ Section 103.
 - (za) section 1(1)(e) of, and Schedule 2 to, the [^c16434181]Local Government Act 1988;
 - (zb) sections 111(2)(e) and 112(2)(a) of the [^c16434191]Local Government Finance Act 1988;
 - (zc) paragraph 12(2)(g) of Schedule 1 to the [^c16434201]Housing Act 1988;
-- (zd) sections 5(1), 21(1)(g), [^key-3e753783b45ae1b48af69bec9f371fa9]... 67(3)(i), 101(3)(ea), 155(4)(ea) and 157(6)(g) of the [^c16434211]Local Government and Housing Act 1989;
+- (zd) sections 5(1), 21(1)(g), [^c-3e753783b45ae1b48af69bec9f371fa9]... 67(3)(i), 101(3)(ea), 155(4)(ea) and 157(6)(g) of the [^c16434211]Local Government and Housing Act 1989;
 - (ze) the definition of “local authority" in section 252(12) of the [^c16434221]Town and Country Planning Act 1990;
 - (zf) sections 19(3)(c), 39(1)(b) [^c16434231]. . .of the [^c16434241]Local Government Finance Act 1992.
 
@@ -90,11 +90,11 @@ Section 103.
 
 *Extent: E+W*
 
-**9.**[^key-c60697bc91b45c11b839d1ca83f461ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-c60697bc91b45c11b839d1ca83f461ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-c60697bc91b45c11b839d1ca83f461ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c60697bc91b45c11b839d1ca83f461ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-c60697bc91b45c11b839d1ca83f461ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-c60697bc91b45c11b839d1ca83f461ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Local Government Act 1958 (c. 55)
 
@@ -184,7 +184,7 @@ Section 103.
 
 *Extent: E+W*
 
-**23.**[^key-09b2bd188b2c69075aedb7bf5ffbeb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-09b2bd188b2c69075aedb7bf5ffbeb67] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### House of Commons Disqualification Act 1975 (c. 24)
 
@@ -225,7 +225,7 @@ Section 103.
 
 *Extent: E+W+S*
 
-**28.**[^key-293fbc2d8e307863f7bde678e9bd5e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**28.**[^c-293fbc2d8e307863f7bde678e9bd5e69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **29.** (1) Section 7(2) of that Act shall be amended as follows.
 
@@ -294,7 +294,7 @@ Section 103.
 
 .
 
-**37.**[^key-301c7d19e86d6fe07ff87c71169e2aab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-301c7d19e86d6fe07ff87c71169e2aab] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **38.** In section 77(3) of that Act, in the definition of “police purposes”, for “section 64 of the Police Act 1964“ there shall be substituted “ section 101(2) of the Police Act 1996” ”.
 
@@ -404,7 +404,7 @@ Section 103.
 
 [^c16434201]: Marginal citation: [1988 c. 50](https://www.legislation.gov.uk/ukpga/1988/50).
 
-[^key-3e753783b45ae1b48af69bec9f371fa9]: Textual amendment: Words in Sch. 7 para. 1(2)(zd) repealed (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I); S.I. 2003/2938, art. 7(e)(vii) (with art. 8, Sch.)
+[^c-3e753783b45ae1b48af69bec9f371fa9]: Textual amendment: Words in Sch. 7 para. 1(2)(zd) repealed (27.11.2003 for W. for the purpose of and in relation to financial years beginning on or after 1st April 2004, 1.4.2004 for E.) by [Local Government Act 2003 (c. 26)](https://www.legislation.gov.uk/ukpga/2003/26), [s. 128(6)](https://www.legislation.gov.uk/ukpga/2003/26/section/128/6), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/26/schedule/8/part/1); [S.I. 2003/3034](https://www.legislation.gov.uk/uksi/2003/3034), [art. 2](https://www.legislation.gov.uk/uksi/2003/3034/article/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2003/3034/schedule/1/part/I); S.I. 2003/2938, art. 7(e)(vii) (with art. 8, Sch.)
 
 [^c16434211]: Marginal citation: [1989 c. 42](https://www.legislation.gov.uk/ukpga/1989/42).
 
@@ -414,18 +414,18 @@ Section 103.
 
 [^c16434241]: Marginal citation: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-c60697bc91b45c11b839d1ca83f461ea]: Textual amendment: [Sch. 7 paras. 9-11](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/paragraph/9) omitted (6.4.2017) by virtue of [Riot Compensation Act 2016 (c. 8)](https://www.legislation.gov.uk/ukpga/2016/8), [ss. 10(3)(c)](https://www.legislation.gov.uk/ukpga/2016/8/section/10/3/c), [12(1)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/2); [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
+[^c-c60697bc91b45c11b839d1ca83f461ea]: Textual amendment: [Sch. 7 paras. 9-11](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/paragraph/9) omitted (6.4.2017) by virtue of [Riot Compensation Act 2016 (c. 8)](https://www.legislation.gov.uk/ukpga/2016/8), [ss. 10(3)(c)](https://www.legislation.gov.uk/ukpga/2016/8/section/10/3/c), [12(1)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/1)[(2)](https://www.legislation.gov.uk/ukpga/2016/8/section/12/2); [S.I. 2017/379](https://www.legislation.gov.uk/uksi/2017/379), [reg. 2](https://www.legislation.gov.uk/uksi/2017/379/regulation/2)
 
 [^c16434611]: Textual amendment: Sch. 7 para. 17 repealed (1.4.1999) by [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32), [s. 74(2)(3)](https://www.legislation.gov.uk/ukpga/1998/32/section/74/2/3), [Schs. 5](https://www.legislation.gov.uk/ukpga/1998/32/schedule/5), [6](https://www.legislation.gov.uk/ukpga/1998/32/schedule/6); [S.R. 1999/176](https://www.legislation.gov.uk/nisr/1999/176), [art. 3](https://www.legislation.gov.uk/nisr/1999/176/article/3) (with [art. 4](https://www.legislation.gov.uk/nisr/1999/176/article/4))
 
 [^c16434621]: Marginal citation: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60).
 
-[^key-09b2bd188b2c69075aedb7bf5ffbeb67]: Textual amendment: Sch. 7 para. 23 repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(iv)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/iv)
+[^c-09b2bd188b2c69075aedb7bf5ffbeb67]: Textual amendment: Sch. 7 para. 23 repealed (5.4.2004) by [Criminal Justice Act 2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44), [s. 336(3)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/3)[(4)](https://www.legislation.gov.uk/ukpga/2003/44/section/336/4), [Sch. 37 Pt. 10](https://www.legislation.gov.uk/ukpga/2003/44/schedule/37/part/10); [S.I. 2004/829](https://www.legislation.gov.uk/uksi/2004/829), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/829/article/2/1)[(2)(l)(iv)](https://www.legislation.gov.uk/uksi/2004/829/article/2/2/l/iv)
 
-[^key-293fbc2d8e307863f7bde678e9bd5e69]: Textual amendment: [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/paragraph/28) repealed (1.9.2014 for E.W., 17.8.2023 for S.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2125/article/3/c); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2023/829/article/2/d/i)
+[^c-293fbc2d8e307863f7bde678e9bd5e69]: Textual amendment: [Sch. 7 para. 28](https://www.legislation.gov.uk/ukpga/1996/16/schedule/7/paragraph/28) repealed (1.9.2014 for E.W., 17.8.2023 for S.) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 102](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/102) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2125/article/3/c); [S.I. 2023/829](https://www.legislation.gov.uk/uksi/2023/829), [art. 2(d)(i)](https://www.legislation.gov.uk/uksi/2023/829/article/2/d/i)
 
 [^c16434661]: Textual amendment: Sch. 7 para. 31 repealed (2.4.2001) by [2000 c. 34](https://www.legislation.gov.uk/ukpga/2000/34), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2000/34/section/9/2), [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/34/schedule/3) (with [s. 10(5)](https://www.legislation.gov.uk/ukpga/2000/34/section/10/5)); [S.I. 2001/566](https://www.legislation.gov.uk/uksi/2001/566), [art. 2(1)](https://www.legislation.gov.uk/uksi/2001/566/article/2/1)
 
-[^key-301c7d19e86d6fe07ff87c71169e2aab]: Textual amendment: Sch. 7 para. 37 repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/d)
+[^c-301c7d19e86d6fe07ff87c71169e2aab]: Textual amendment: Sch. 7 para. 37 repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/d)
 
 [^c16434671]: Textual amendment: Sch. 7 para. 42 repealed (28.8.2000) by [2000 c. 25](https://www.legislation.gov.uk/ukpga/2000/25), [s. 1(3)](https://www.legislation.gov.uk/ukpga/2000/25/section/1/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/2000/25/schedule/3); [S.I. 2000/2125](https://www.legislation.gov.uk/uksi/2000/2125), [art. 2](https://www.legislation.gov.uk/uksi/2000/2125/article/2)

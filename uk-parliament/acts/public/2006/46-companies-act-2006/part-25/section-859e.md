@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-[^key-f20547d36b7be1b059aa2957aa3ab372]
+[^c-f20547d36b7be1b059aa2957aa3ab372]
 
 (1)[^c22574111] For the purposes of this Part, a charge of the type described in column 1 of the Table below is taken to be created on the date given in relation to it in column 2 of that Table.
 
@@ -54,6 +54,6 @@ summary: ''
 
 [^c22573541]: Textual amendment: Pt. 25 Ch. A1 inserted (6.4.2013) by [The Companies Act 2006 (Amendment of Part 25) Regulations 2013 (S.I. 2013/600)](https://www.legislation.gov.uk/uksi/2013/600), [regs. 1](https://www.legislation.gov.uk/uksi/2013/600/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/600/regulation/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2013/600/schedule/1) (with [reg. 6](https://www.legislation.gov.uk/uksi/2013/600/regulation/6))
 
-[^key-f20547d36b7be1b059aa2957aa3ab372]: Modification: Pt. 25 modified (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/3/3)
+[^c-f20547d36b7be1b059aa2957aa3ab372]: Modification: Pt. 25 modified (10.1.2015) by [The Building Societies (Bail-in) Order 2014 (S.I. 2014/3344)](https://www.legislation.gov.uk/uksi/2014/3344), [arts. 1](https://www.legislation.gov.uk/uksi/2014/3344/article/1), [3(3)](https://www.legislation.gov.uk/uksi/2014/3344/article/3/3)
 
 [^c22574111]: Modification: Ss. 859A-859Q applied (with modifications) (6.4.2013) by [The Limited Liability Partnerships (Application of Companies Act 2006) (Amendment) Regulations 2013 (S.I. 2013/618)](https://www.legislation.gov.uk/uksi/2013/618), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/618/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2013/618/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2013/618/schedule) (with [reg. 8](https://www.legislation.gov.uk/uksi/2013/618/regulation/8))

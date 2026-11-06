@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Disapplication of legislative provisions[^key-b226c139040e6a08eb0753db74e6645f]
+## 47. Disapplication of legislative provisions[^c-b226c139040e6a08eb0753db74e6645f]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b226c139040e6a08eb0753db74e6645f]: Commencement: Art. 47 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-b226c139040e6a08eb0753db74e6645f]: Commencement: Art. 47 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
 
 [^f00086]: Footnote: [S.I. 2016/1154](https://www.legislation.gov.uk/uksi/2016/1154) as amended by [S.I. 2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075), [S.I. 2018/110](https://www.legislation.gov.uk/uksi/2018/110), [S.I. 2018/428](https://www.legislation.gov.uk/uksi/2018/428) and [S.I. 2018/757](https://www.legislation.gov.uk/uksi/2018/757).
 

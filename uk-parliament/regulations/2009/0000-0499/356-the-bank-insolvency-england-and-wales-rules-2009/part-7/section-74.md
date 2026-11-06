@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Debt in foreign currency[^key-d379d2b3b580c7b9bc194ecd4e9515e0]
+## 74. Debt in foreign currency[^c-d379d2b3b580c7b9bc194ecd4e9515e0]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Apply rule 4.91 of the 1986 Rules[^f00027]. In paragraph (1), leave out from “
 
 ## Annotations
 
-[^key-d379d2b3b580c7b9bc194ecd4e9515e0]: Commencement: Rule 74 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-d379d2b3b580c7b9bc194ecd4e9515e0]: Commencement: Rule 74 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
 
 [^f00027]: Footnote: Rule 4.91 was amended by [S.I. 2003/1730](https://www.legislation.gov.uk/uksi/2003/1730) and [SI 2005/527](https://www.legislation.gov.uk/uksi/2005/527).

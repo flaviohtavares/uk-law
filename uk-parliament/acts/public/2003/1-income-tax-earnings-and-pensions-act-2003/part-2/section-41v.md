@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41V. Qualifying foreign third party income[^key-136f1c4573a8120bd967a5b83f07519e]
+## 41V. Qualifying foreign third party income[^c-136f1c4573a8120bd967a5b83f07519e]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-136f1c4573a8120bd967a5b83f07519e]: Textual amendment: [Pt. 2 Ch. 5C](https://www.legislation.gov.uk/ukpga/2003/1/part/2/chapter/5C) inserted (20.3.2025 for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/1)[(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))
+[^c-136f1c4573a8120bd967a5b83f07519e]: Textual amendment: [Pt. 2 Ch. 5C](https://www.legislation.gov.uk/ukpga/2003/1/part/2/chapter/5C) inserted (20.3.2025 for the tax year 2025-26 and subsequent tax years) by [Finance Act 2025 (c. 8)](https://www.legislation.gov.uk/ukpga/2025/8), [s. 38(1)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/1)[(3)](https://www.legislation.gov.uk/ukpga/2025/8/section/38/3) (with [Sch. 8 Pt. 3](https://www.legislation.gov.uk/ukpga/2025/8/schedule/8/part/3))

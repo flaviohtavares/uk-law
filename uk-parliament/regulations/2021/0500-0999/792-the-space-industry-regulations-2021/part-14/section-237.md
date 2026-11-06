@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 237. Appointment of inspector[^key-20244a0a48c20ef2d33d0af9fadd3b46]
+## 237. Appointment of inspector[^c-20244a0a48c20ef2d33d0af9fadd3b46]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20244a0a48c20ef2d33d0af9fadd3b46]: Commencement: Reg. 237 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-20244a0a48c20ef2d33d0af9fadd3b46]: Commencement: Reg. 237 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

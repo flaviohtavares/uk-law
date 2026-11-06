@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Guaranteed minimum pension for the purposes of the Pension Schemes (Northern Ireland) Act 1993[^key-956d70e63894e3c78a923afcdcaa707d]
+## 40. Guaranteed minimum pension for the purposes of the Pension Schemes (Northern Ireland) Act 1993[^c-956d70e63894e3c78a923afcdcaa707d]
 
 *Extent: N.I.*
 
@@ -49,7 +49,7 @@ summary: ''
 
 (8) Where a surviving spouse or surviving civil partner is entitled to both a survivor’s pension under regulation 36 and a pension under paragraph (7) then, in respect of any period in respect of which a payment is made on account of the pension under paragraph (7), no payment shall be made to the surviving spouse or surviving civil partner on account of any such survivor’s pension.
 
-(9)[^key-6a89dc9464cf7989e1ebbcf7000ad6b1] For the purposes of this regulation, “state pensionable age” means the pensionable age determined in accordance with the rules in Article 123 of and Schedule 2 to the Pensions (Northern Ireland) Order 1995.
+(9)[^c-6a89dc9464cf7989e1ebbcf7000ad6b1] For the purposes of this regulation, “state pensionable age” means the pensionable age determined in accordance with the rules in Article 123 of and Schedule 2 to the Pensions (Northern Ireland) Order 1995.
 
 (10) Regulation 52 shall apply in relation to a pension under paragraph (3), (6) or (7) as it applies to any other pension under this Part but as if paragraph (4) of that regulation were omitted.
 
@@ -57,7 +57,7 @@ summary: ''
 
 ## Annotations
 
-[^key-956d70e63894e3c78a923afcdcaa707d]: Commencement: Reg. 40 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
+[^c-956d70e63894e3c78a923afcdcaa707d]: Commencement: Reg. 40 in operation at 6.4.2009 with effect in accordance with s. 1(2)(3), see [s. 1(2)(3)](https://www.legislation.gov.uk/nisr/2009/79/regulation/1/2)
 
 [^f00017]: Footnote: [1993 c.49](https://www.legislation.gov.uk/ukpga/1993/49); section 9 has been amended by the Pensions (Northern Ireland) Order ([S.I. 1995/3213 (NI 22)](https://www.legislation.gov.uk/nisi/1995/3213), schedule 3, paragraph 20 and Schedule 5, Part III; the Social Security Contribution (Transfer of Functions, etc) Act [1999 (c.2)](https://www.legislation.gov.uk/ukpga/1999/2), Schedule 1, paragraph 38; and the Proceeds of Crime Act [2002 (c.29)](https://www.legislation.gov.uk/ukpga/2002/29), Schedule 11, paragraphs 1 and 22(1) and (3); and subsection (1) has been modified in certain cases by the Protected Rights (Transfer Payment) Regulations (Northern Ireland) 1996 ([S.I. 1996/1461](https://www.legislation.gov.uk/uksi/1996/1461)), regulation 6(4) and the Contracting-out (Transfer and Transfer Payment) Regulations 1996 ([S.I. 1996/1462](https://www.legislation.gov.uk/uksi/1996/1462)), regulations 12 and 13 and Schedule 2, paragraphs 3 and 7
 
@@ -67,4 +67,4 @@ summary: ''
 
 [^f00020]: Footnote: Section 5(2)(b) was substituted by section 136(3) of the Pensions (Northern Ireland) Order 1995 and amended by the Social Security Contributions (Transfer of Functions, etc) Order 1999, Schedule 1, paragraph 35(1) and (2)
 
-[^key-6a89dc9464cf7989e1ebbcf7000ad6b1]: Textual amendment: [Reg. 40(9)](https://www.legislation.gov.uk/nisr/2009/79/regulation/40/9) substituted (1.4.2013) by [The Police Pension (Northern Ireland) (Amendment) Regulations 2013 (S.R. 2013/36)](https://www.legislation.gov.uk/nisr/2013/36), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/36/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2013/36/schedule/paragraph/5)
+[^c-6a89dc9464cf7989e1ebbcf7000ad6b1]: Textual amendment: [Reg. 40(9)](https://www.legislation.gov.uk/nisr/2009/79/regulation/40/9) substituted (1.4.2013) by [The Police Pension (Northern Ireland) (Amendment) Regulations 2013 (S.R. 2013/36)](https://www.legislation.gov.uk/nisr/2013/36), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2013/36/regulation/1/2), [Sch. para. 5](https://www.legislation.gov.uk/nisr/2013/36/schedule/paragraph/5)

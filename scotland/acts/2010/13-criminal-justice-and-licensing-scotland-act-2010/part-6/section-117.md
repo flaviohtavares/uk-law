@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 117. Provision of information to prosecutor: solemn cases[^key-97916e427e05ae6eebebc6dfaf28d30b]
+## 117. Provision of information to prosecutor: solemn cases[^c-97916e427e05ae6eebebc6dfaf28d30b]
 
 *Extent: S*
 
@@ -31,7 +31,7 @@ summary: ''
 
 (4) In this section, “**investigating agency**” means—
 
-- (a) the Police Service of Scotland[^key-439280c58ef4c8c44d185b95eb0a5b0e], or
+- (a) the Police Service of Scotland[^c-439280c58ef4c8c44d185b95eb0a5b0e], or
 - (b) such other person who—
   - (i) engages (to any extent) in the investigation of crime or sudden deaths, and
   - (ii) submits reports relating to those investigations to the procurator fiscal,
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-97916e427e05ae6eebebc6dfaf28d30b]: Commencement: S. 117 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )
+[^c-97916e427e05ae6eebebc6dfaf28d30b]: Commencement: S. 117 in force at 6.6.2011 by [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178) , [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2) , [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) (with [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule) )
 
-[^key-439280c58ef4c8c44d185b95eb0a5b0e]: Textual amendment: Words in [s. 117(4)(a)](https://www.legislation.gov.uk/asp/2010/13/section/117/4/a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 42(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/42/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))
+[^c-439280c58ef4c8c44d185b95eb0a5b0e]: Textual amendment: Words in [s. 117(4)(a)](https://www.legislation.gov.uk/asp/2010/13/section/117/4/a) substituted (1.4.2013) by [Police and Fire Reform (Scotland) Act 2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), [s. 129(2)](https://www.legislation.gov.uk/asp/2012/8/section/129/2), [Sch. 7 para. 42(2)](https://www.legislation.gov.uk/asp/2012/8/schedule/7/paragraph/42/2); [S.S.I. 2013/51](https://www.legislation.gov.uk/ssi/2013/51), [art. 2](https://www.legislation.gov.uk/ssi/2013/51/article/2) (with transitional provisions and savings in [S.S.I. 2013/121](https://www.legislation.gov.uk/ssi/2013/121))

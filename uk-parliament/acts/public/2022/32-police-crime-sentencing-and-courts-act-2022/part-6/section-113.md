@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 113. Enforcement of financial penalties: court proceedings[^key-63e6cd00ae21ec22e116f15160926803]
+## 113. Enforcement of financial penalties: court proceedings[^c-63e6cd00ae21ec22e116f15160926803]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63e6cd00ae21ec22e116f15160926803]: Commencement: S. 113 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-63e6cd00ae21ec22e116f15160926803]: Commencement: S. 113 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)

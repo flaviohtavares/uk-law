@@ -20,15 +20,15 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-4f739bd52f8122e68fe4bbc646282a09][^key-1a55af0fa9e45c645c310e8602362d77] In section 147 of the 1980 Act (power to authorise erection of stiles etc on footpath or bridleway) after subsection (2) there is inserted—
+(1)[^c-4f739bd52f8122e68fe4bbc646282a09][^c-1a55af0fa9e45c645c310e8602362d77] In section 147 of the 1980 Act (power to authorise erection of stiles etc on footpath or bridleway) after subsection (2) there is inserted—
 
 > (2A) In exercising their powers under subsection (2) above a competent authority shall have regard to the needs of persons with mobility problems.
 >
 > (2B) The Secretary of State may issue guidance to competent authorities as to matters to be taken into account for the purposes of subsection (2) above; and in exercising their powers under subsection (2) above competent authorities shall have regard to any such guidance issued to them.
 
-(2)[^key-91c0b2e5b3c48d84cb25c4b4ab0ec136][^key-9f6b244b3272741fb58f00a236a31775] In subsection (5) of that section, at the end there is inserted “ or for the breeding or keeping of horses. ”
+(2)[^c-91c0b2e5b3c48d84cb25c4b4ab0ec136][^c-9f6b244b3272741fb58f00a236a31775] In subsection (5) of that section, at the end there is inserted “ or for the breeding or keeping of horses. ”
 
-(3)[^key-4f739bd52f8122e68fe4bbc646282a09][^key-1a55af0fa9e45c645c310e8602362d77] After that section there is inserted—
+(3)[^c-4f739bd52f8122e68fe4bbc646282a09][^c-1a55af0fa9e45c645c310e8602362d77] After that section there is inserted—
 
 > **147ZA. Agreements relating to improvements for benefit of persons with mobility problems.**
 >
@@ -71,20 +71,20 @@ summary: ''
 >
 > (9) The Secretary of State may issue guidance to competent authorities as to matters to be taken into account for the purposes of this section; and in exercising their powers under this section competent authorities shall have regard to any such guidance issued to them.
 
-(4)[^key-1a55af0fa9e45c645c310e8602362d77] In section 146 of the 1980 Act (duty to maintain stiles etc. on footpaths and bridleways) in subsection (5), before the word “or” at the end of paragraph (a) there is inserted—
+(4)[^c-1a55af0fa9e45c645c310e8602362d77] In section 146 of the 1980 Act (duty to maintain stiles etc. on footpaths and bridleways) in subsection (5), before the word “or” at the end of paragraph (a) there is inserted—
 
 > - (aa) if any conditions for the maintenance of the structure imposed by virtue of subsection (4) of section 147ZA below are for the time being in force under that section,
 
 .
 
-(5)[^key-1a55af0fa9e45c645c310e8602362d77] In section 344 of the 1980 Act (application to Isles of Scilly) in subsection (2)(a) after “147,” there is inserted “ 147ZA, ”.
+(5)[^c-1a55af0fa9e45c645c310e8602362d77] In section 344 of the 1980 Act (application to Isles of Scilly) in subsection (2)(a) after “147,” there is inserted “ 147ZA, ”.
 
 ## Annotations
 
-[^key-4f739bd52f8122e68fe4bbc646282a09]: Commencement: [S. 69(1)](https://www.legislation.gov.uk/ukpga/2000/37/section/69/1)[(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/69/3) in force at 6.12.2006 for W. by [S.I. 2006/3257](https://www.legislation.gov.uk/wsi/2006/3257), [art. 2(b)](https://www.legislation.gov.uk/wsi/2006/3257/article/2/b)
+[^c-4f739bd52f8122e68fe4bbc646282a09]: Commencement: [S. 69(1)](https://www.legislation.gov.uk/ukpga/2000/37/section/69/1)[(3)](https://www.legislation.gov.uk/ukpga/2000/37/section/69/3) in force at 6.12.2006 for W. by [S.I. 2006/3257](https://www.legislation.gov.uk/wsi/2006/3257), [art. 2(b)](https://www.legislation.gov.uk/wsi/2006/3257/article/2/b)
 
-[^key-1a55af0fa9e45c645c310e8602362d77]: Commencement: [S. 69(1)](https://www.legislation.gov.uk/ukpga/2000/37/section/69/1) [(3)-(5)](https://www.legislation.gov.uk/ukpga/2000/37/section/69/3) in force at 1.10.2007 for E. by [S.I. 2007/2595](https://www.legislation.gov.uk/uksi/2007/2595), [art. 2](https://www.legislation.gov.uk/uksi/2007/2595/article/2)
+[^c-1a55af0fa9e45c645c310e8602362d77]: Commencement: [S. 69(1)](https://www.legislation.gov.uk/ukpga/2000/37/section/69/1) [(3)-(5)](https://www.legislation.gov.uk/ukpga/2000/37/section/69/3) in force at 1.10.2007 for E. by [S.I. 2007/2595](https://www.legislation.gov.uk/uksi/2007/2595), [art. 2](https://www.legislation.gov.uk/uksi/2007/2595/article/2)
 
-[^key-91c0b2e5b3c48d84cb25c4b4ab0ec136]: Commencement: [S. 69(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/69/2) in force at 27.9.2005 for E. by [S.I. 2005/2459](https://www.legislation.gov.uk/uksi/2005/2459), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2005/2459/article/2/1/d)
+[^c-91c0b2e5b3c48d84cb25c4b4ab0ec136]: Commencement: [S. 69(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/69/2) in force at 27.9.2005 for E. by [S.I. 2005/2459](https://www.legislation.gov.uk/uksi/2005/2459), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2005/2459/article/2/1/d)
 
-[^key-9f6b244b3272741fb58f00a236a31775]: Commencement: [S. 69(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/69/2) in force at 11.5.2006 for W. by [S.I. 2006/1279](https://www.legislation.gov.uk/wsi/2006/1279), [art. 2(m)](https://www.legislation.gov.uk/wsi/2006/1279/article/2/m)
+[^c-9f6b244b3272741fb58f00a236a31775]: Commencement: [S. 69(2)](https://www.legislation.gov.uk/ukpga/2000/37/section/69/2) in force at 11.5.2006 for W. by [S.I. 2006/1279](https://www.legislation.gov.uk/wsi/2006/1279), [art. 2(m)](https://www.legislation.gov.uk/wsi/2006/1279/article/2/m)

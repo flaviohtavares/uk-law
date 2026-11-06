@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Duty to notify police of female genital mutilation[^key-a50a1114d09b906db72faa0bcc792bbd]
+## 74. Duty to notify police of female genital mutilation[^c-a50a1114d09b906db72faa0bcc792bbd]
 
 *Extent: E+W*
 
@@ -83,4 +83,4 @@ After section 5A of the Female Genital Mutilation Act 2003 (inserted by section 
 
 ## Annotations
 
-[^key-a50a1114d09b906db72faa0bcc792bbd]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2015/9/section/74) in force at 31.10.2015 by [S.I. 2015/1809](https://www.legislation.gov.uk/uksi/2015/1809), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1809/regulation/2/a)
+[^c-a50a1114d09b906db72faa0bcc792bbd]: Commencement: [S. 74](https://www.legislation.gov.uk/ukpga/2015/9/section/74) in force at 31.10.2015 by [S.I. 2015/1809](https://www.legislation.gov.uk/uksi/2015/1809), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/1809/regulation/2/a)

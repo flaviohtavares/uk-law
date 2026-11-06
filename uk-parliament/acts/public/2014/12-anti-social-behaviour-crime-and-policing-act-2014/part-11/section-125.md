@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Guidance by the College about employment of civilian staff[^key-ffa2034791441a919b7018723a134632]
+## 125. Guidance by the College about employment of civilian staff[^c-ffa2034791441a919b7018723a134632]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ After section 53D of the Police Act 1996 there is inserted—
 
 ## Annotations
 
-[^key-ffa2034791441a919b7018723a134632]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2014/12/section/125) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)
+[^c-ffa2034791441a919b7018723a134632]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2014/12/section/125) in force at 13.5.2014 by [S.I. 2014/949](https://www.legislation.gov.uk/uksi/2014/949), [art. 3](https://www.legislation.gov.uk/uksi/2014/949/article/3), [Sch. para. 10](https://www.legislation.gov.uk/uksi/2014/949/schedule/paragraph/10)

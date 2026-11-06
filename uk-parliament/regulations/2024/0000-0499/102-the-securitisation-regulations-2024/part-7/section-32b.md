@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32B. Due-diligence requirements for occupational pension schemes: before holding a securitisation position[^key-b86b794a3ae16317b00cb17a48515d50]
+## 32B. Due-diligence requirements for occupational pension schemes: before holding a securitisation position[^c-b86b794a3ae16317b00cb17a48515d50]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ summary: ''
 
 ## Annotations
 
-[^key-b86b794a3ae16317b00cb17a48515d50]: Textual amendment: [Regs. 32A-32D](https://www.legislation.gov.uk/uksi/2024/102/regulation/32A) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(7)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/7)
+[^c-b86b794a3ae16317b00cb17a48515d50]: Textual amendment: [Regs. 32A-32D](https://www.legislation.gov.uk/uksi/2024/102/regulation/32A) inserted (1.11.2024) by [The Securitisation (Amendment) Regulations 2024 (S.I. 2024/705)](https://www.legislation.gov.uk/uksi/2024/705), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2024/705/regulation/1/3), [2(7)](https://www.legislation.gov.uk/uksi/2024/705/regulation/2/7)
 
 [^f00006]: Footnote: EUR 2013/575.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69Z62. Participants chargeable to corporation tax[^key-99ec40eae4e63472000e98d5a2a781e8]
+## 69Z62. Participants chargeable to corporation tax[^c-99ec40eae4e63472000e98d5a2a781e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,12 +25,12 @@ summary: ''
 (2) The specified modifications are—
 
 - (a) for “dividend distribution” in each place it occurs there shall be substituted “TEF distribution (dividend)”;
-- (b)[^key-e3a0812d1bcf77859270e9133fc4d912] in regulation 50 (references to gross income) for “the net revenue before taxation shall be determined in accordance with the Statement of Recommended Practice” there shall be substituted “the amount attributed to TEF distributions (dividends) in accordance with regulation 69Z59 (allocation of income);”.
+- (b)[^c-e3a0812d1bcf77859270e9133fc4d912] in regulation 50 (references to gross income) for “the net revenue before taxation shall be determined in accordance with the Statement of Recommended Practice” there shall be substituted “the amount attributed to TEF distributions (dividends) in accordance with regulation 69Z59 (allocation of income);”.
 - (c) for “an authorised investment fund” in each place it occurs there shall be substituted “a Tax Elected Fund”; and
 - (d) for “the authorised investment fund” in each place it occurs there shall be substituted “the Tax Elected Fund”.
 
 ## Annotations
 
-[^key-99ec40eae4e63472000e98d5a2a781e8]: Textual amendment: Pt. 4B inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [24](https://www.legislation.gov.uk/uksi/2009/2036/regulation/24)
+[^c-99ec40eae4e63472000e98d5a2a781e8]: Textual amendment: Pt. 4B inserted (1.9.2009) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/2036)](https://www.legislation.gov.uk/uksi/2009/2036), [regs. 1](https://www.legislation.gov.uk/uksi/2009/2036/regulation/1), [24](https://www.legislation.gov.uk/uksi/2009/2036/regulation/24)
 
-[^key-e3a0812d1bcf77859270e9133fc4d912]: Textual amendment: [Reg. 69Z62(2)(b)](https://www.legislation.gov.uk/uksi/2006/964/regulation/69Z62/2/b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2010/294/regulation/19) (with [reg. 24](https://www.legislation.gov.uk/uksi/2010/294/regulation/24))
+[^c-e3a0812d1bcf77859270e9133fc4d912]: Textual amendment: [Reg. 69Z62(2)(b)](https://www.legislation.gov.uk/uksi/2006/964/regulation/69Z62/2/b) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2010 (S.I. 2010/294)](https://www.legislation.gov.uk/uksi/2010/294), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2010/294/regulation/1/1), [19](https://www.legislation.gov.uk/uksi/2010/294/regulation/19) (with [reg. 24](https://www.legislation.gov.uk/uksi/2010/294/regulation/24))

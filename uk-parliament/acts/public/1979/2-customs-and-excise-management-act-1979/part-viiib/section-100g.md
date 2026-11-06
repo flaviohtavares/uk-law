@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 100G. Registered excise dealers and shippers.[^key-3cd93f2fbc418e06a06491883b038550][^c14777141]
+## 100G. Registered excise dealers and shippers.[^c-3cd93f2fbc418e06a06491883b038550][^c14777141]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3cd93f2fbc418e06a06491883b038550]: Modification: [S. 100G](https://www.legislation.gov.uk/ukpga/1979/2/section/100G) modified (10.1.2006) by [The Hydrocarbon Oil (Registered Remote Markers) Regulations 2005 (S.I. 2005/3472)](https://www.legislation.gov.uk/uksi/2005/3472), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3472/regulation/1), [3](https://www.legislation.gov.uk/uksi/2005/3472/regulation/3)
+[^c-3cd93f2fbc418e06a06491883b038550]: Modification: [S. 100G](https://www.legislation.gov.uk/ukpga/1979/2/section/100G) modified (10.1.2006) by [The Hydrocarbon Oil (Registered Remote Markers) Regulations 2005 (S.I. 2005/3472)](https://www.legislation.gov.uk/uksi/2005/3472), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3472/regulation/1), [3](https://www.legislation.gov.uk/uksi/2005/3472/regulation/3)
 
 [^c14777141]: Textual amendment: [Pt. VIII](https://www.legislation.gov.uk/ukpga/1979/2/part/VIII)B (ss. 100G-100J) inserted (25.7.1991) by [Finance Act 1991 (c. 31)](https://www.legislation.gov.uk/ukpga/1991/31), [s. 11(3)](https://www.legislation.gov.uk/ukpga/1991/31/section/11/3), [Sch. 4](https://www.legislation.gov.uk/ukpga/1991/31/schedule/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Customs declarations made by conduct: general[^key-00cb9e22e397e80a9528212bbb0e9bef][^key-302606d159bff3b39c5b1dbf0584ce62][^key-302606d159bff3b39c5b1dbf0584ce62]
+## 23. Customs declarations made by conduct: general[^c-00cb9e22e397e80a9528212bbb0e9bef][^c-302606d159bff3b39c5b1dbf0584ce62][^c-302606d159bff3b39c5b1dbf0584ce62]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,14 +26,14 @@ summary: ''
 
 (3) An individual may make a Customs declaration by conduct on behalf of another person (“P”) where—
 
-- (a)[^key-468b8a2917c0ef76476dc1d80d7d4453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-468b8a2917c0ef76476dc1d80d7d4453] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the goods in respect of which the Customs declaration is made are imported by P; and
 - (c) the individual has the authority of P to make the declaration.
 
 ## Annotations
 
-[^key-00cb9e22e397e80a9528212bbb0e9bef]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-00cb9e22e397e80a9528212bbb0e9bef]: Commencement: Reg. 23 in force at 31.12.2020 by [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
+[^c-302606d159bff3b39c5b1dbf0584ce62]: Modification: Pts. 1-10 applied (with modifications) (31.12.2020) by [The Customs (Northern Ireland) (EU Exit) Regulations 2020 (S.I. 2020/1605)](https://www.legislation.gov.uk/uksi/2020/1605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/1605/regulation/1/1), [32](https://www.legislation.gov.uk/uksi/2020/1605/regulation/32); [S.I. 2020/1643](https://www.legislation.gov.uk/uksi/2020/1643), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1643/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2020/1643/schedule)
 
-[^key-468b8a2917c0ef76476dc1d80d7d4453]: Textual amendment: [Reg. 23(3)(a)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/23/3/a) omitted (11.5.2021) by virtue of [The Customs (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/478)](https://www.legislation.gov.uk/uksi/2021/478), [regs. 1](https://www.legislation.gov.uk/uksi/2021/478/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/478/regulation/2/6)
+[^c-468b8a2917c0ef76476dc1d80d7d4453]: Textual amendment: [Reg. 23(3)(a)](https://www.legislation.gov.uk/uksi/2018/1248/regulation/23/3/a) omitted (11.5.2021) by virtue of [The Customs (Miscellaneous Amendments) Regulations 2021 (S.I. 2021/478)](https://www.legislation.gov.uk/uksi/2021/478), [regs. 1](https://www.legislation.gov.uk/uksi/2021/478/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2021/478/regulation/2/6)

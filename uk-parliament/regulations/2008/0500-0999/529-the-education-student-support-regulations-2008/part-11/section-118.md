@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Period of eligibility[^key-ba92f9df8de1bfb0b9bce0b66ba54ec4]
+## 118. Period of eligibility[^c-ba92f9df8de1bfb0b9bce0b66ba54ec4]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba92f9df8de1bfb0b9bce0b66ba54ec4]: Commencement: Reg. 118 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-ba92f9df8de1bfb0b9bce0b66ba54ec4]: Commencement: Reg. 118 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

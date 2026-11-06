@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 11. Manner of making objections and representations[^key-c39021dfa00467b63989c31b0c49106e]
+## 11. Manner of making objections and representations[^c-c39021dfa00467b63989c31b0c49106e]
 
 *Extent: E+W+S*
 
-(1) For the purposes of sections 12(6)(b), 12(7)(b) and 19(10), the prescribed manner of making an objection to, or representation against, an application is by delivering a document to a traffic commissioner[^key-b2c8ff8f64743e103169a59587e720d7]—
+(1) For the purposes of sections 12(6)(b), 12(7)(b) and 19(10), the prescribed manner of making an objection to, or representation against, an application is by delivering a document to a traffic commissioner[^c-b2c8ff8f64743e103169a59587e720d7]—
 
 - (a) setting out the objection or representation as the case may be; and
 - (b) signed—
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c39021dfa00467b63989c31b0c49106e]: Commencement: Reg. 11 in force at 1.1.1996, see reg. 1
+[^c-c39021dfa00467b63989c31b0c49106e]: Commencement: Reg. 11 in force at 1.1.1996, see reg. 1
 
-[^key-b2c8ff8f64743e103169a59587e720d7]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1995/2869/regulation/11/1) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))
+[^c-b2c8ff8f64743e103169a59587e720d7]: Textual amendment: Words in [reg. 11(1)](https://www.legislation.gov.uk/uksi/1995/2869/regulation/11/1) substituted (3.7.2013) by [The Local Transport Act 2008 (Traffic Commissioners) (Consequential Amendments) Order 2013 (S.I. 2013/1644)](https://www.legislation.gov.uk/uksi/2013/1644), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/1), [Sch. 2](https://www.legislation.gov.uk/uksi/2013/1644/schedule/2) (with [arts. 1(3)](https://www.legislation.gov.uk/uksi/2013/1644/article/1/3), [2](https://www.legislation.gov.uk/uksi/2013/1644/article/2), [7](https://www.legislation.gov.uk/uksi/2013/1644/article/7))

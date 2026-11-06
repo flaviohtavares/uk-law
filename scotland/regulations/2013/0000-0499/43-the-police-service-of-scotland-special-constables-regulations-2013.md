@@ -52,17 +52,17 @@ In accordance with section 54(2) of that Act, they have consulted and shared a d
 
 ## PART 1 — COMMENCEMENT AND INTERPRETATION
 
-### 1. Citation and commencement[^key-7c1a69090d36da8f55df02324639f4c2]
+### 1. Citation and commencement[^c-7c1a69090d36da8f55df02324639f4c2]
 
 These Regulations may be cited as the Police Service of Scotland (Special Constables) Regulations 2013 and come into force on 1st April 2013.
 
-### 2. Interpretation[^key-6cc556bc4a5ce6caa0ab0818df2061d1]
+### 2. Interpretation[^c-6cc556bc4a5ce6caa0ab0818df2061d1]
 
 (1) In these Regulations—
 
 - “the 2012 Act” means the Police and Fire Reform (Scotland) Act 2012;
 - “the deputy chief constable” means the deputy chief constable designated under regulation 4 of the Police Service of Scotland (Conduct) Regulations 2013[^f00002];
-- “[^key-cde40ec9222868fb5ce4899fbe394750]EEA State” means—
+- “[^c-cde40ec9222868fb5ce4899fbe394750]EEA State” means—
   - (a) a State which is a member State of the EU; or
   - (b) any other State which is a party to the Agreement on the European Economic Area signed at Oporto on 2nd May 1992, together with the Protocol adjusting that Agreement signed at Brussels on 17th March 1993;
 - “inquiry officer” means a constable who is selected under regulation 14;
@@ -89,13 +89,13 @@ These Regulations may be cited as the Police Service of Scotland (Special Consta
 
 ## PART 2 — GOVERNMENT
 
-### 3. Restrictions on the private life of special constables[^key-7b5dde6a520d0128c4286b61eabcee28]
+### 3. Restrictions on the private life of special constables[^c-7b5dde6a520d0128c4286b61eabcee28]
 
 (1) Schedule 1 has effect.
 
 (2) No other restrictions, except those designed to secure the proper exercise of the functions of a special constable, may be imposed by the chief constable on the private life of a special constable.
 
-### 4. Business interests[^key-5824678aef073acb5fbcaf414eaf578d]
+### 4. Business interests[^c-5824678aef073acb5fbcaf414eaf578d]
 
 (1) A special constable must not have a business interest without the consent of the chief constable.
 
@@ -113,7 +113,7 @@ These Regulations may be cited as the Police Service of Scotland (Special Consta
   - (i) a man and a woman who are living together as if they were husband and wife; or
   - (ii) two individuals of the same sex who are living together as if they were civil partners.
 
-### 5. Qualifications for appointment as a special constable[^key-6051f9b7f91470e03ef52922dfe08bd8]
+### 5. Qualifications for appointment as a special constable[^c-6051f9b7f91470e03ef52922dfe08bd8]
 
 (1) A candidate for appointment as a special constable must—
 
@@ -123,8 +123,8 @@ These Regulations may be cited as the Police Service of Scotland (Special Consta
 - (d) meet the standard of eyesight determined by the Scottish Ministers;
 - (e) if the Scottish Ministers have determined a standard, meet the standard of hearing so determined;
 - (f) satisfy the chief constable that he or she is sufficiently educated, including being sufficiently competent in written and spoken English and sufficiently numerate, by passing an assessment to a standard approved by the chief constable and the Scottish Ministers after consultation with those persons mentioned in section 54(2)(a)(i) to (vi) of the 2012 Act;
-- (g) give to the chief constable such information as to his or her current employment, previous history of employment or any other matter relating to his or her appointment as may be required ; and[^key-40443591a03e371689b60d564b4309cf]
-- (h)[^key-be4458238a01f909e3552f492a495071] if not a national of the United Kingdom or[^key-1d45a23790efde65b774edd82e23b3eb] an EEA State, have leave to enter or remain in the United Kingdom for an indefinite period.
+- (g) give to the chief constable such information as to his or her current employment, previous history of employment or any other matter relating to his or her appointment as may be required ; and[^c-40443591a03e371689b60d564b4309cf]
+- (h)[^c-be4458238a01f909e3552f492a495071] if not a national of the United Kingdom or[^c-1d45a23790efde65b774edd82e23b3eb] an EEA State, have leave to enter or remain in the United Kingdom for an indefinite period.
 
 (2) A candidate for appointment as a special constable must be given a notice in terms approved by the Scottish Ministers drawing attention to the terms and conditions of service.
 
@@ -132,13 +132,13 @@ These Regulations may be cited as the Police Service of Scotland (Special Consta
 
 (4) In this regulation “armed forces” means the naval, military or air forces of the Crown including any women’s service administered by the Defence Council.
 
-(5)[^key-5d1c15335b53e35a7d87eef93502aebf] For the purposes of this regulation, “**national of the United Kingdom**” means—
+(5)[^c-5d1c15335b53e35a7d87eef93502aebf] For the purposes of this regulation, “**national of the United Kingdom**” means—
 
 - (a) a British citizen;
 - (b) a person who is a British subject by virtue of Part 4 of the British Nationality Act 1981 and who has the right of abode in the United Kingdom; or
 - (c) a person who is a British overseas territories citizen by virtue of a connection with Gibraltar.
 
-### 6. Retirement[^key-1911904af8011d805d4c303572d9479b]
+### 6. Retirement[^c-1911904af8011d805d4c303572d9479b]
 
 (1) A special constable who wishes to retire voluntarily must give such written notice of intention to retire to the chief constable as may be specified in a determination made by the Scottish Ministers or such shorter notice as may have been accepted by the chief constable.
 
@@ -146,7 +146,7 @@ These Regulations may be cited as the Police Service of Scotland (Special Consta
 
 (3) The chief constable may postpone the time at which a special constable must retire under paragraph (2).
 
-### 7. Personal records[^key-7cd334b60c1620c34e1b552cda7d5c32]
+### 7. Personal records[^c-7cd334b60c1620c34e1b552cda7d5c32]
 
 (1) The chief constable must maintain a personal record for each special constable.
 
@@ -158,8 +158,8 @@ These Regulations may be cited as the Police Service of Scotland (Special Consta
 - (d) particulars of the special constable’s place and date of birth;
 - (e) particulars of the special constable’s marriage or civil partnership (if any) and children and other dependants (if any) or, where none, particulars of the special constable’s next of kin;
 - (f) a record of the special constable’s service (if any) in any branch of Her Majesty’s naval, military or air forces or in the civil service or as a seaman;
-- (g) a record of the special constable’s service (if any) in any other police force including previous service with the Police Service (if any); and[^key-6dda0e5c19fa8aee6669994ff333b6ab]
-- (h)[^key-5dcec94c1bba73004dfd73ad0e54dc18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g) a record of the special constable’s service (if any) in any other police force including previous service with the Police Service (if any); and[^c-6dda0e5c19fa8aee6669994ff333b6ab]
+- (h)[^c-5dcec94c1bba73004dfd73ad0e54dc18] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (i) a record of the special constable’s service in the Police Service, including postings, transfers, removals, injuries received, periods of illness, attendances at training courses, commendations, rewards, punishments, disposals and the date of the special constable ceasing to be a special constable with the reason, cause or manner thereof.
 
 (3) The chief constable must expunge from the personal record of a special constable—
@@ -178,7 +178,7 @@ These Regulations may be cited as the Police Service of Scotland (Special Consta
 - (a) if the chief constable was not requested to review the matter in accordance with regulation 18, the date on which the disposal was, or disposals were, imposed on the special constable concerned by the misconduct officer; or
 - (b) if the chief constable is requested to review the matter in accordance with regulation 18, the date on which the disposal was, or disposals were, imposed on the special constable concerned by the chief constable.
 
-### 8. Personal record of special constable leaving the Police Service[^key-d89edf31ef4f58b726e8a1738a33ea67]
+### 8. Personal record of special constable leaving the Police Service[^c-d89edf31ef4f58b726e8a1738a33ea67]
 
 (1) When a special constable ceases to be a special constable that special constable must be given a certificate setting out the period of that special constable’s service as a special constable in—
 
@@ -187,7 +187,7 @@ These Regulations may be cited as the Police Service of Scotland (Special Consta
 
 (2) The chief constable may append to the certificate any recommendation which the chief constable feels justified in giving in respect of that special constable’s service with the Police Service.
 
-### 9. Fingerprints and samples[^key-82d15cf8d34a9d60c0a2fbc3a106a546]
+### 9. Fingerprints and samples[^c-82d15cf8d34a9d60c0a2fbc3a106a546]
 
 (1) All special constables must on appointment and in accordance with the directions of the chief constable have their fingerprints and a sample taken.
 
@@ -212,7 +212,7 @@ These Regulations may be cited as the Police Service of Scotland (Special Consta
 
 ## PART 3 — DUTY
 
-### 10. Duty[^key-2487c1a0a0d6b6392373657958641da8]
+### 10. Duty[^c-2487c1a0a0d6b6392373657958641da8]
 
 (1) The Scottish Ministers must determine—
 
@@ -229,11 +229,11 @@ These Regulations may be cited as the Police Service of Scotland (Special Consta
 
 ## PART 4 — MISCONDUCT
 
-### 11. Misconduct[^key-cae2dd984d9ad6f9a115abe985e3dfcc]
+### 11. Misconduct[^c-cae2dd984d9ad6f9a115abe985e3dfcc]
 
 For the purposes of these Regulations, an act or omission of a special constable amounts to misconduct if it is conduct of a type mentioned in Schedule 2.
 
-### 12. Preliminary procedures[^key-edb652f4326c2cc20a60fac240e1fecb]
+### 12. Preliminary procedures[^c-edb652f4326c2cc20a60fac240e1fecb]
 
 (1) The deputy chief constable must prepare and maintain procedures for the consideration and handling of any report, complaint or allegation from which it may reasonably be inferred that an act, omission or an alleged act or omission of a special constable amounts, or may amount, to misconduct.
 
@@ -246,7 +246,7 @@ For the purposes of these Regulations, an act or omission of a special constable
 
 (4) Where it is decided that an inquiry into the report, complaint or allegation should take place, the deputy chief constable or, if paragraph (2)(b) is applicable, the nominated officer must select an inquiry officer to carry out an inquiry into the matter.
 
-### 13. The nominated officer[^key-6e62043e4fd2482a78133dbfbb68500e]
+### 13. The nominated officer[^c-6e62043e4fd2482a78133dbfbb68500e]
 
 (1) The nominated officer must be selected by the deputy chief constable.
 
@@ -262,7 +262,7 @@ For the purposes of these Regulations, an act or omission of a special constable
 - (c) any constable who the deputy chief constable considers is or appears to be a material witness to the complaint, report or allegation which has been received; or
 - (d) any other constable who the deputy chief constable considers is or appears to be an interested party.
 
-### 14. The inquiry officer[^key-ededf73ef53d28654b8a0694ca3d672c]
+### 14. The inquiry officer[^c-ededf73ef53d28654b8a0694ca3d672c]
 
 (1) The inquiry officer must be selected by the deputy chief constable or, if regulation 12(2)(b) is applicable, the nominated officer.
 
@@ -276,7 +276,7 @@ For the purposes of these Regulations, an act or omission of a special constable
 - (d) any constable who the deputy chief constable or, if regulation 12(2)(b) is applicable, the nominated officer considers is or appears to be a material witness to the report, complaint or allegation which has been received; or
 - (e) any other constable who the deputy chief constable or, if regulation 12(2)(b) is applicable, the nominated officer considers is or appears to be an interested party.
 
-### 15. Inquiry procedure[^key-69f0f81b17211465fdc63c75445926fd]
+### 15. Inquiry procedure[^c-69f0f81b17211465fdc63c75445926fd]
 
 (1) Subject to regulation 20, and unless it would be prejudicial to the carrying out of an inquiry, the inquiry officer must as soon as reasonably practicable after his or her selection give oral or written notice to the special constable concerned—
 
@@ -289,7 +289,7 @@ For the purposes of these Regulations, an act or omission of a special constable
 
 (3) After completing the inquiry into the report, complaint or allegation, the inquiry officer must submit a written report to the misconduct officer in relation to the matter.
 
-### 16. The misconduct officer[^key-b254da33144d7a477c966614261bfb1d]
+### 16. The misconduct officer[^c-b254da33144d7a477c966614261bfb1d]
 
 (1) The misconduct officer must be selected by the deputy chief constable or, if regulation 12(2)(b) is applicable, the nominated officer.
 
@@ -303,7 +303,7 @@ For the purposes of these Regulations, an act or omission of a special constable
 - (d) any constable who the deputy chief constable or, if regulation 12(2)(b) is applicable, the nominated officer considers is or appears to be a material witness to the report, complaint or allegation which has been received; or
 - (e) any other constable who the deputy chief constable or, if regulation 12(2)(b) is applicable, the nominated officer considers is or appears to be an interested party.
 
-### 17. Procedure on receipt of inquiry officer’s report[^key-985b4f0005ef88bbc7df3f0c1de0b810]
+### 17. Procedure on receipt of inquiry officer’s report[^c-985b4f0005ef88bbc7df3f0c1de0b810]
 
 (1) After considering the report submitted by the inquiry officer, the misconduct officer may—
 
@@ -344,7 +344,7 @@ within 7 days of such a decision being made.
 
 the misconduct officer may make a finding of misconduct and impose a disposal under paragraph (2) without having heard from the special constable, if it appears to the misconduct officer just and proper to do so.
 
-### 18. Review by the chief constable[^key-13e91fe11eb29718bf45988436d387ca]
+### 18. Review by the chief constable[^c-13e91fe11eb29718bf45988436d387ca]
 
 (1) Where a finding of misconduct has been recorded and a disposal has been imposed on a special constable under regulation 17(2)(a), (b) or (c), the special constable concerned is entitled to request the chief constable to review that finding or that disposal or both.
 
@@ -371,7 +371,7 @@ and separate disposals may be made in relation to separate findings.
 
 (8) Where a special constable decides to request a review of the finding made or the disposal imposed by the misconduct officer, the decision of the chief constable following such a review is final.
 
-### 19. Suspension[^key-cdc2daa155403421f58ceb9d3fb691e5]
+### 19. Suspension[^c-cdc2daa155403421f58ceb9d3fb691e5]
 
 (1) Where a report, complaint or allegation is received from which it may reasonably be inferred that an act, omission or an alleged act or omission of a special constable concerned—
 
@@ -391,7 +391,7 @@ the special constable concerned may be suspended from duty by the deputy chief c
 
 (4) Subject to the provisions of this regulation, these Regulations apply to a special constable who has been suspended from duty.
 
-### 20. Alleged criminal offence[^key-89f1cfe5097b97dda3c37dd088785f5d]
+### 20. Alleged criminal offence[^c-89f1cfe5097b97dda3c37dd088785f5d]
 
 (1) Despite anything in regulations 11 to 19, where a report, complaint or allegation is received from which it may reasonably be inferred that a special constable may have committed a criminal offence, the deputy chief constable must, as soon as possible, refer the matter to the procurator fiscal.
 
@@ -408,7 +408,7 @@ until the procurator fiscal has intimated either that criminal proceedings are n
 
 ## PART 5 — ALLOWANCES, PERIODIC PAYMENTS AND EXPENSES
 
-### 21. Allowances and periodic payments[^key-44c2295efe6c9258ce465333b86baf2b]
+### 21. Allowances and periodic payments[^c-44c2295efe6c9258ce465333b86baf2b]
 
 (1) The Scottish Ministers must determine the entitlement of special constables to any allowances and periodic payments.
 
@@ -429,7 +429,7 @@ until the procurator fiscal has intimated either that criminal proceedings are n
 
 (6) In this regulation “periodic payment” has the meaning given by section 9(b) of the 2012 Act.
 
-### 22. Expenses[^key-cc6056749089f6b3f3bda73d05f81966]
+### 22. Expenses[^c-cc6056749089f6b3f3bda73d05f81966]
 
 (1) The Scottish Ministers must determine the entitlement of a special constable to reimbursement of any expenses incurred by that special constable in, or in connection with, the execution of that special constable’s duty.
 
@@ -437,7 +437,7 @@ until the procurator fiscal has intimated either that criminal proceedings are n
 
 ## PART 6 — UNIFORM AND EQUIPMENT
 
-### 23. Issue of uniform and equipment[^key-983513d52b4357d27273c1f4b501ac68]
+### 23. Issue of uniform and equipment[^c-983513d52b4357d27273c1f4b501ac68]
 
 (1) Special constables are entitled to receive from the Authority such uniform and equipment that the Authority determines they need free of charge and in a clean and serviceable condition.
 
@@ -447,7 +447,7 @@ until the procurator fiscal has intimated either that criminal proceedings are n
 
 ## PART 7 — DETERMINATIONS
 
-### 24. Determinations[^key-d8d8c978c93c273077b468c92e86044e]
+### 24. Determinations[^c-d8d8c978c93c273077b468c92e86044e]
 
 (1) Before making a determination under any provision of these Regulations the Scottish Ministers must consult and share a draft of the determination with the persons mentioned in section 54(2)(a)(i) to (vi) of the 2012 Act and consider any representations made by those persons.
 
@@ -459,7 +459,7 @@ until the procurator fiscal has intimated either that criminal proceedings are n
 
 ## PART 8 — TRANSITIONALS, SAVINGS AND REVOCATIONS
 
-### 25. Transitionals, savings and revocations[^key-7cd8d05748099f4076c2be47c608eb66]
+### 25. Transitionals, savings and revocations[^c-7cd8d05748099f4076c2be47c608eb66]
 
 Schedule 3 has effect.
 
@@ -475,17 +475,17 @@ Edinburgh
 
 Regulation 3(1)
 
-**1.**[^key-59d9dd54792e382a944cb41308d715bd] A special constable must at all times abstain from any activity which is likely to interfere with the impartial discharge of that special constable’s duties or which is likely to give rise to the impression among members of the public that it may so interfere.
+**1.**[^c-59d9dd54792e382a944cb41308d715bd] A special constable must at all times abstain from any activity which is likely to interfere with the impartial discharge of that special constable’s duties or which is likely to give rise to the impression among members of the public that it may so interfere.
 
-**2.**[^key-9ed00f8b876630fafa79ec3b613295fd] A special constable must not take any active part in politics.
+**2.**[^c-9ed00f8b876630fafa79ec3b613295fd] A special constable must not take any active part in politics.
 
-**3.**[^key-5d690f839cbda91f97d05328d75a9b26] A special constable must not wilfully refuse or neglect to discharge any lawful debt.
+**3.**[^c-5d690f839cbda91f97d05328d75a9b26] A special constable must not wilfully refuse or neglect to discharge any lawful debt.
 
 ## SCHEDULE 2 — CONDUCT CONSTITUTING MISCONDUCT
 
 Regulation 11
 
-**1.**[^key-4c18126c1a0af090c6d1254ab4446808] Conduct likely to bring discredit on the police, including—
+**1.**[^c-4c18126c1a0af090c6d1254ab4446808] Conduct likely to bring discredit on the police, including—
 
 - (a) insubordination or incivility;
 - (b) corrupt practice;
@@ -496,27 +496,27 @@ Regulation 11
 - (g) disorderly conduct; or
 - (h) acting towards, or treating, any person in an oppressive or improper manner.
 
-**2.**[^key-abdf218bb0cb7d1d09d36667c4b0c971] Failure to comply, without good and sufficient cause, with a lawful order.
+**2.**[^c-abdf218bb0cb7d1d09d36667c4b0c971] Failure to comply, without good and sufficient cause, with a lawful order.
 
-**3.**[^key-d57c5c041d06c9ed0983fbd1474c7be6] Failure to report any matter which it is the special constable’s duty to report or to account for any act or omission occurring in the ordinary course of duty which he or she has a duty to account for.
+**3.**[^c-d57c5c041d06c9ed0983fbd1474c7be6] Failure to report any matter which it is the special constable’s duty to report or to account for any act or omission occurring in the ordinary course of duty which he or she has a duty to account for.
 
-**4.**[^key-39f73ea571b90a57fc0a5c7acbaa5c55] Neglect of duty.
+**4.**[^c-39f73ea571b90a57fc0a5c7acbaa5c55] Neglect of duty.
 
-**5.**[^key-2069420873ff77438d53e8c05b02d6f5] Wilful or careless falsehood.
+**5.**[^c-2069420873ff77438d53e8c05b02d6f5] Wilful or careless falsehood.
 
-**6.**[^key-7ed8d6d55fb4912c9791703b1095d5c6] Malingering.
+**6.**[^c-7ed8d6d55fb4912c9791703b1095d5c6] Malingering.
 
-**7.**[^key-31b5667cfac35ea27e9aef571ffe6687] Being absent from duty, or late for duty, without leave.
+**7.**[^c-31b5667cfac35ea27e9aef571ffe6687] Being absent from duty, or late for duty, without leave.
 
-**8.**[^key-5faa879d8934e74fed4284b936c8bde2] Contravention of regulation 4 or Schedule 1.
+**8.**[^c-5faa879d8934e74fed4284b936c8bde2] Contravention of regulation 4 or Schedule 1.
 
-**9.**[^key-43113992161a4140aa7fbc73e8b5cc3e] Having been found guilty of a criminal offence in a criminal court in any part of the United Kingdom or in any of the Channel Islands or the Isle of Man.
+**9.**[^c-43113992161a4140aa7fbc73e8b5cc3e] Having been found guilty of a criminal offence in a criminal court in any part of the United Kingdom or in any of the Channel Islands or the Isle of Man.
 
 ## SCHEDULE 3 — TRANSITIONALS, SAVINGS AND REVOCATIONS
 
 Regulation 25
 
-### 1. Interpretation[^key-2d7ceec3081166ef3979940da9315185]
+### 1. Interpretation[^c-2d7ceec3081166ef3979940da9315185]
 
 In this Schedule—
 
@@ -524,19 +524,19 @@ In this Schedule—
 - “the 2008 Regulations” means the Police (Special Constables) (Scotland) Regulations 2008[^f00018]; and
 - “transferred special constable” means a special constable of a police force who is transferred to the Police Service under schedule 5 to the 2012 Act.
 
-### 2. Transitional: business interests[^key-ffb60d9a57c66d3bec3de994a6325ee9]
+### 2. Transitional: business interests[^c-ffb60d9a57c66d3bec3de994a6325ee9]
 
 (1) Any consent given by a chief constable of a police force under regulation 5(1) of the 2008 Regulations before 1st April 2013 is, on and after that date, to be treated as if it had been given by the chief constable of the Police Service under regulation 4(1) of these Regulations.
 
 (2) Any written notice given to a chief constable of a police force under regulation 5 of the 2008 Regulations before 1st April 2013 is to be treated, on and after that date, as if it had been given to the chief constable of the Police Service under regulation 4 of these Regulations.
 
-### 3. Transitional: retirement[^key-e4bb902802b095803afa78aaa66ca4b0]
+### 3. Transitional: retirement[^c-e4bb902802b095803afa78aaa66ca4b0]
 
 (1) This paragraph applies in respect of any transferred special constable who, before 1st April 2013, gave notice of intention to retire, or had such shorter notice accepted, in accordance with regulation 8(1) of the 2008 Regulations.
 
 (2) Any notice of intention to retire given or accepted under regulation 8(1) of the 2008 Regulations is to be treated as if it had been given or accepted in accordance with regulation 6(1) of these Regulations and the transferred special constable is to retire on the same date as if the 2008 Regulations had continued in force.
 
-### 4. Transitional and saving: personal records[^key-93009b834ae4b08f2ce56ad748b00eb8]
+### 4. Transitional and saving: personal records[^c-93009b834ae4b08f2ce56ad748b00eb8]
 
 (1) This paragraph applies in respect of any transferred special constable.
 
@@ -544,13 +544,13 @@ In this Schedule—
 
 (3) Notwithstanding the revocation of regulation 9 of the 2008 Regulations by paragraph 9, any record of any disposal in relation to a transferred special constable which would otherwise have been expunged in accordance with regulation 9(3) and (4) of those Regulations is to be expunged from the personal record maintained under regulation 7 of these Regulations as if regulation 9(3), (4) and (6) were still in force and applied to the personal record of the special constable maintained under these Regulations.
 
-### 5. Transitional: fingerprints and samples[^key-cf531e61966a94d375beaa22e43cff64]
+### 5. Transitional: fingerprints and samples[^c-cf531e61966a94d375beaa22e43cff64]
 
 (1) Regulation 9(1) of these Regulations does not apply to any transferred special constable whose fingerprints, samples or the information derived from samples have been transferred to the chief constable of the Police Service, unless the chief constable so requires in a particular case.
 
 (2) Any fingerprints, samples or the information derived from samples taken in accordance with regulations 12 or 13 of the 2008 Regulations and transferred to the chief constable of the Police Service are to be treated as having been taken in accordance with regulation 9 of these Regulations and are to be retained, used and destroyed in accordance with regulation 9.
 
-### 6. Transitional and saving: misconduct[^key-1feb38e51a31e2e712f5f657e7c4ee54]
+### 6. Transitional and saving: misconduct[^c-1feb38e51a31e2e712f5f657e7c4ee54]
 
 (1) For the purpose of these Regulations, references to an act or omission of a special constable include references to an act or omission of a transferred special constable occurring before 1st April 2013.
 
@@ -567,7 +567,7 @@ In this Schedule—
   - (i) on which the period for requesting a review under regulation 23 of those Regulations has expired; or
   - (ii) where a request for review is made under regulation 23 of those Regulations, on which the chief constable of the police force makes a decision on that review.
 
-### 7. Misconduct: modifications of the 2008 Regulations[^key-bf36c053139d18941c6cbea9a06ef6d9]
+### 7. Misconduct: modifications of the 2008 Regulations[^c-bf36c053139d18941c6cbea9a06ef6d9]
 
 (1) The 2008 Regulations are modified as follows.
 
@@ -607,11 +607,11 @@ In this Schedule—
 
 (8) The terms used in paragraph 1(f) of Schedule 2 have the same meaning as they had under the Police (Scotland) Act 1967.
 
-### 8. Transitional: uniform and equipment[^key-b2415572a4b942d719af5a8e30f61af1]
+### 8. Transitional: uniform and equipment[^c-b2415572a4b942d719af5a8e30f61af1]
 
 Any uniform and equipment which a transferred special constable was issued under regulation 28 of the 2008 Regulations is to be treated as if it were issued under regulation 23 of these Regulations.
 
-### 9. Revocations[^key-adce85ddd69dab5be98bb756e327ae04]
+### 9. Revocations[^c-adce85ddd69dab5be98bb756e327ae04]
 
 The following are revoked, so far as not already revoked—
 
@@ -643,13 +643,13 @@ Part 8 and Schedule 3 make transitional provision in respect of special constab
 
 [^f00001]: Footnote: [2012 asp 8](https://www.legislation.gov.uk/asp/2012/8).
 
-[^key-7c1a69090d36da8f55df02324639f4c2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-7c1a69090d36da8f55df02324639f4c2]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-6cc556bc4a5ce6caa0ab0818df2061d1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/43/regulation/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-6cc556bc4a5ce6caa0ab0818df2061d1]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2013/43/regulation/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
 [^f00002]: Footnote: [S.S.I. 2013/60](https://www.legislation.gov.uk/ssi/2013/60).
 
-[^key-cde40ec9222868fb5ce4899fbe394750]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/43/regulation/2/1) inserted (13.5.2013) by [The Police Service of Scotland (Amendment) Regulations 2013 (S.S.I. 2013/122)](https://www.legislation.gov.uk/ssi/2013/122), [regs. 1](https://www.legislation.gov.uk/ssi/2013/122/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2013/122/regulation/3/2)
+[^c-cde40ec9222868fb5ce4899fbe394750]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/ssi/2013/43/regulation/2/1) inserted (13.5.2013) by [The Police Service of Scotland (Amendment) Regulations 2013 (S.S.I. 2013/122)](https://www.legislation.gov.uk/ssi/2013/122), [regs. 1](https://www.legislation.gov.uk/ssi/2013/122/regulation/1), [3(2)](https://www.legislation.gov.uk/ssi/2013/122/regulation/3/2)
 
 [^f00003]: Footnote: [1996 c.16](https://www.legislation.gov.uk/ukpga/1996/16); section 2 was amended by the Police Reform and Social Responsibility Act [2011 (c.13)](https://www.legislation.gov.uk/ukpga/2011/13), section 99 and Schedule 16, paragraph 4.
 
@@ -667,31 +667,31 @@ Part 8 and Schedule 3 make transitional provision in respect of special constab
 
 [^f00010]: Footnote: [1995 c.21](https://www.legislation.gov.uk/ukpga/1995/21); there are no relevant amendments.
 
-[^key-7b5dde6a520d0128c4286b61eabcee28]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/43/regulation/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-7b5dde6a520d0128c4286b61eabcee28]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2013/43/regulation/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-5824678aef073acb5fbcaf414eaf578d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/43/regulation/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-5824678aef073acb5fbcaf414eaf578d]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2013/43/regulation/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-6051f9b7f91470e03ef52922dfe08bd8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/43/regulation/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-6051f9b7f91470e03ef52922dfe08bd8]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2013/43/regulation/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-40443591a03e371689b60d564b4309cf]: Textual amendment: Word in [reg. 5(1)(g)](https://www.legislation.gov.uk/ssi/2013/43/regulation/5/1/g) inserted (13.5.2013) by [The Police Service of Scotland (Amendment) Regulations 2013 (S.S.I. 2013/122)](https://www.legislation.gov.uk/ssi/2013/122), [regs. 1](https://www.legislation.gov.uk/ssi/2013/122/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2013/122/regulation/3/3/a)
+[^c-40443591a03e371689b60d564b4309cf]: Textual amendment: Word in [reg. 5(1)(g)](https://www.legislation.gov.uk/ssi/2013/43/regulation/5/1/g) inserted (13.5.2013) by [The Police Service of Scotland (Amendment) Regulations 2013 (S.S.I. 2013/122)](https://www.legislation.gov.uk/ssi/2013/122), [regs. 1](https://www.legislation.gov.uk/ssi/2013/122/regulation/1), [3(3)(a)](https://www.legislation.gov.uk/ssi/2013/122/regulation/3/3/a)
 
-[^key-be4458238a01f909e3552f492a495071]: Textual amendment: [Reg. 5(1)(h)](https://www.legislation.gov.uk/ssi/2013/43/regulation/5/1/h) inserted (13.5.2013) by [The Police Service of Scotland (Amendment) Regulations 2013 (S.S.I. 2013/122)](https://www.legislation.gov.uk/ssi/2013/122), [regs. 1](https://www.legislation.gov.uk/ssi/2013/122/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2013/122/regulation/3/3/b)
+[^c-be4458238a01f909e3552f492a495071]: Textual amendment: [Reg. 5(1)(h)](https://www.legislation.gov.uk/ssi/2013/43/regulation/5/1/h) inserted (13.5.2013) by [The Police Service of Scotland (Amendment) Regulations 2013 (S.S.I. 2013/122)](https://www.legislation.gov.uk/ssi/2013/122), [regs. 1](https://www.legislation.gov.uk/ssi/2013/122/regulation/1), [3(3)(b)](https://www.legislation.gov.uk/ssi/2013/122/regulation/3/3/b)
 
-[^key-1d45a23790efde65b774edd82e23b3eb]: Textual amendment: Words in [reg. 5(1)(h)](https://www.legislation.gov.uk/ssi/2013/43/regulation/5/1/h) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/36/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1d45a23790efde65b774edd82e23b3eb]: Textual amendment: Words in [reg. 5(1)(h)](https://www.legislation.gov.uk/ssi/2013/43/regulation/5/1/h) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [36(a)](https://www.legislation.gov.uk/uksi/2019/745/regulation/36/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5d1c15335b53e35a7d87eef93502aebf]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/ssi/2013/43/regulation/5/5) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [36(b)](https://www.legislation.gov.uk/uksi/2019/745/regulation/36/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5d1c15335b53e35a7d87eef93502aebf]: Textual amendment: [Reg. 5(5)](https://www.legislation.gov.uk/ssi/2013/43/regulation/5/5) inserted (31.12.2020) by [The Immigration, Nationality and Asylum (EU Exit) Regulations 2019 (S.I. 2019/745)](https://www.legislation.gov.uk/uksi/2019/745), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/745/regulation/1/2), [36(b)](https://www.legislation.gov.uk/uksi/2019/745/regulation/36/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1911904af8011d805d4c303572d9479b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/43/regulation/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-1911904af8011d805d4c303572d9479b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2013/43/regulation/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-7cd334b60c1620c34e1b552cda7d5c32]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/43/regulation/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-7cd334b60c1620c34e1b552cda7d5c32]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2013/43/regulation/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-6dda0e5c19fa8aee6669994ff333b6ab]: Textual amendment: Word in [reg. 7(2)(g)](https://www.legislation.gov.uk/ssi/2013/43/regulation/7/2/g) inserted (18.5.2013) by [The Police Service of Scotland (Amendment) (No. 2) Regulations 2013 (S.S.I. 2013/125)](https://www.legislation.gov.uk/ssi/2013/125), [regs. 1](https://www.legislation.gov.uk/ssi/2013/125/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2013/125/regulation/4/2/a)
+[^c-6dda0e5c19fa8aee6669994ff333b6ab]: Textual amendment: Word in [reg. 7(2)(g)](https://www.legislation.gov.uk/ssi/2013/43/regulation/7/2/g) inserted (18.5.2013) by [The Police Service of Scotland (Amendment) (No. 2) Regulations 2013 (S.S.I. 2013/125)](https://www.legislation.gov.uk/ssi/2013/125), [regs. 1](https://www.legislation.gov.uk/ssi/2013/125/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/ssi/2013/125/regulation/4/2/a)
 
-[^key-5dcec94c1bba73004dfd73ad0e54dc18]: Textual amendment: [Reg. 7(2)(h)](https://www.legislation.gov.uk/ssi/2013/43/regulation/7/2/h) omitted (18.5.2013) by virtue of [The Police Service of Scotland (Amendment) (No. 2) Regulations 2013 (S.S.I. 2013/125)](https://www.legislation.gov.uk/ssi/2013/125), [regs. 1](https://www.legislation.gov.uk/ssi/2013/125/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2013/125/regulation/4/2/b)
+[^c-5dcec94c1bba73004dfd73ad0e54dc18]: Textual amendment: [Reg. 7(2)(h)](https://www.legislation.gov.uk/ssi/2013/43/regulation/7/2/h) omitted (18.5.2013) by virtue of [The Police Service of Scotland (Amendment) (No. 2) Regulations 2013 (S.S.I. 2013/125)](https://www.legislation.gov.uk/ssi/2013/125), [regs. 1](https://www.legislation.gov.uk/ssi/2013/125/regulation/1), [4(2)(b)](https://www.legislation.gov.uk/ssi/2013/125/regulation/4/2/b)
 
-[^key-d89edf31ef4f58b726e8a1738a33ea67]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/43/regulation/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-d89edf31ef4f58b726e8a1738a33ea67]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2013/43/regulation/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-82d15cf8d34a9d60c0a2fbc3a106a546]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/43/regulation/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-82d15cf8d34a9d60c0a2fbc3a106a546]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2013/43/regulation/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
 [^f00011]: Footnote: Section 18 has been amended by the Crime and Punishment (Scotland) Act [1997 (c.48)](https://www.legislation.gov.uk/ukpga/1997/48), sections 47 and 62 and Schedule 3; the Crime and Disorder Act [1998 (c.37)](https://www.legislation.gov.uk/ukpga/1998/37), section 119 and Schedule 8, paragraph 117; the Terrorism Act [2000 (c.11)](https://www.legislation.gov.uk/ukpga/2000/11), section 41 and Schedule 8, paragraph 20; the Criminal Justice (Scotland) Act [2003 (asp 7)](https://www.legislation.gov.uk/asp/2003/7), section 55; the Police, Public Order and Criminal Justice (Scotland) Act [2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), section 83 and schedule 6, paragraph 4; the Criminal Justice and Licensing (Scotland) Act [2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), section 77(2); and the Police and Fire Reform (Scotland) Act [2012 (asp 8)](https://www.legislation.gov.uk/asp/2012/8), section 128(1) and schedule 7, paragraph 12(3).
 
@@ -705,83 +705,83 @@ Part 8 and Schedule 3 make transitional provision in respect of special constab
 
 [^f00016]: Footnote: Section 87(5A) was added by the Police, Public Order and Criminal Justice (Scotland) Act [2006 (asp 10)](https://www.legislation.gov.uk/asp/2006/10), section 77.
 
-[^key-2487c1a0a0d6b6392373657958641da8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/43/regulation/10) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-2487c1a0a0d6b6392373657958641da8]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2013/43/regulation/10) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-cae2dd984d9ad6f9a115abe985e3dfcc]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2013/43/regulation/11) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-cae2dd984d9ad6f9a115abe985e3dfcc]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2013/43/regulation/11) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-edb652f4326c2cc20a60fac240e1fecb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2013/43/regulation/12) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-edb652f4326c2cc20a60fac240e1fecb]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2013/43/regulation/12) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-6e62043e4fd2482a78133dbfbb68500e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2013/43/regulation/13) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-6e62043e4fd2482a78133dbfbb68500e]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2013/43/regulation/13) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-ededf73ef53d28654b8a0694ca3d672c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2013/43/regulation/14) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-ededf73ef53d28654b8a0694ca3d672c]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2013/43/regulation/14) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-69f0f81b17211465fdc63c75445926fd]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2013/43/regulation/15) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-69f0f81b17211465fdc63c75445926fd]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2013/43/regulation/15) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-b254da33144d7a477c966614261bfb1d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2013/43/regulation/16) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-b254da33144d7a477c966614261bfb1d]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2013/43/regulation/16) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-985b4f0005ef88bbc7df3f0c1de0b810]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2013/43/regulation/17) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-985b4f0005ef88bbc7df3f0c1de0b810]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2013/43/regulation/17) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-13e91fe11eb29718bf45988436d387ca]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2013/43/regulation/18) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-13e91fe11eb29718bf45988436d387ca]: Commencement: [Reg. 18](https://www.legislation.gov.uk/ssi/2013/43/regulation/18) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-cdc2daa155403421f58ceb9d3fb691e5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2013/43/regulation/19) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-cdc2daa155403421f58ceb9d3fb691e5]: Commencement: [Reg. 19](https://www.legislation.gov.uk/ssi/2013/43/regulation/19) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-89f1cfe5097b97dda3c37dd088785f5d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2013/43/regulation/20) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-89f1cfe5097b97dda3c37dd088785f5d]: Commencement: [Reg. 20](https://www.legislation.gov.uk/ssi/2013/43/regulation/20) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-44c2295efe6c9258ce465333b86baf2b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2013/43/regulation/21) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-44c2295efe6c9258ce465333b86baf2b]: Commencement: [Reg. 21](https://www.legislation.gov.uk/ssi/2013/43/regulation/21) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-cc6056749089f6b3f3bda73d05f81966]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2013/43/regulation/22) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-cc6056749089f6b3f3bda73d05f81966]: Commencement: [Reg. 22](https://www.legislation.gov.uk/ssi/2013/43/regulation/22) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-983513d52b4357d27273c1f4b501ac68]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2013/43/regulation/23) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-983513d52b4357d27273c1f4b501ac68]: Commencement: [Reg. 23](https://www.legislation.gov.uk/ssi/2013/43/regulation/23) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-d8d8c978c93c273077b468c92e86044e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2013/43/regulation/24) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-d8d8c978c93c273077b468c92e86044e]: Commencement: [Reg. 24](https://www.legislation.gov.uk/ssi/2013/43/regulation/24) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-7cd8d05748099f4076c2be47c608eb66]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2013/43/regulation/25) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-7cd8d05748099f4076c2be47c608eb66]: Commencement: [Reg. 25](https://www.legislation.gov.uk/ssi/2013/43/regulation/25) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-59d9dd54792e382a944cb41308d715bd]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2013/43/schedule/1/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-59d9dd54792e382a944cb41308d715bd]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2013/43/schedule/1/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-9ed00f8b876630fafa79ec3b613295fd]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2013/43/schedule/1/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-9ed00f8b876630fafa79ec3b613295fd]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/ssi/2013/43/schedule/1/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-5d690f839cbda91f97d05328d75a9b26]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2013/43/schedule/1/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-5d690f839cbda91f97d05328d75a9b26]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/ssi/2013/43/schedule/1/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-4c18126c1a0af090c6d1254ab4446808]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-4c18126c1a0af090c6d1254ab4446808]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-abdf218bb0cb7d1d09d36667c4b0c971]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-abdf218bb0cb7d1d09d36667c4b0c971]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-d57c5c041d06c9ed0983fbd1474c7be6]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-d57c5c041d06c9ed0983fbd1474c7be6]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-39f73ea571b90a57fc0a5c7acbaa5c55]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-39f73ea571b90a57fc0a5c7acbaa5c55]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-2069420873ff77438d53e8c05b02d6f5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-2069420873ff77438d53e8c05b02d6f5]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-7ed8d6d55fb4912c9791703b1095d5c6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-7ed8d6d55fb4912c9791703b1095d5c6]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-31b5667cfac35ea27e9aef571ffe6687]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-31b5667cfac35ea27e9aef571ffe6687]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-5faa879d8934e74fed4284b936c8bde2]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-5faa879d8934e74fed4284b936c8bde2]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-43113992161a4140aa7fbc73e8b5cc3e]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-43113992161a4140aa7fbc73e8b5cc3e]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/ssi/2013/43/schedule/2/paragraph/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-2d7ceec3081166ef3979940da9315185]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-2d7ceec3081166ef3979940da9315185]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/1) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
 [^f00017]: Footnote: [1967 c.77](https://www.legislation.gov.uk/ukpga/1967/77).
 
 [^f00018]: Footnote: [S.S.I. 2008/117](https://www.legislation.gov.uk/ssi/2008/117); amended by [S.S.I. 2009/372](https://www.legislation.gov.uk/ssi/2009/372).
 
-[^key-ffb60d9a57c66d3bec3de994a6325ee9]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-ffb60d9a57c66d3bec3de994a6325ee9]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/2) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-e4bb902802b095803afa78aaa66ca4b0]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-e4bb902802b095803afa78aaa66ca4b0]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/3) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-93009b834ae4b08f2ce56ad748b00eb8]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-93009b834ae4b08f2ce56ad748b00eb8]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/4) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-cf531e61966a94d375beaa22e43cff64]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-cf531e61966a94d375beaa22e43cff64]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/5) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-1feb38e51a31e2e712f5f657e7c4ee54]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-1feb38e51a31e2e712f5f657e7c4ee54]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/6) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-bf36c053139d18941c6cbea9a06ef6d9]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-bf36c053139d18941c6cbea9a06ef6d9]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/7) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-b2415572a4b942d719af5a8e30f61af1]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-b2415572a4b942d719af5a8e30f61af1]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/8) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
-[^key-adce85ddd69dab5be98bb756e327ae04]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
+[^c-adce85ddd69dab5be98bb756e327ae04]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ssi/2013/43/schedule/3/paragraph/9) in force at 1.4.2013, see [reg. 1](https://www.legislation.gov.uk/ssi/2013/43/regulation/1)
 
 [^f00019]: Footnote: [S.I. 1966/97](https://www.legislation.gov.uk/uksi/1966/97); revoked with savings by [S.S.I. 2008/117](https://www.legislation.gov.uk/ssi/2008/117).
 

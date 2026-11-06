@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 85. Waiting days[^key-3459b3063552759692f6d6b23bf0b274]
+## 85. Waiting days[^c-3459b3063552759692f6d6b23bf0b274]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Paragraph 2 of Schedule 2 to the Act does not apply where—
 
-- (a) the claimant’s entitlement to an employment and support allowance commences within 12 weeks of the claimant’s entitlement to income support, incapacity benefit, severe disablement allowance, state pension credit, a jobseeker’s allowance, a carer’s allowance, carer support payment,[^key-a8f85ae355932b620842c628371e8b0c] statutory sick pay or a maternity allowance coming to an end;
+- (a) the claimant’s entitlement to an employment and support allowance commences within 12 weeks of the claimant’s entitlement to income support, incapacity benefit, severe disablement allowance, state pension credit, a jobseeker’s allowance, a carer’s allowance, carer support payment,[^c-a8f85ae355932b620842c628371e8b0c] statutory sick pay or a maternity allowance coming to an end;
 - (b) the claimant is terminally ill and has—
   - (i) made a claim expressly on the ground of being terminally ill, or
   - (ii) made an application for supersession or revision in accordance with the Decisions and Appeals Regulations 1999 or the Decisions and Appeals Regulations 2016 which contains an express statement that the claimant is terminally ill;
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3459b3063552759692f6d6b23bf0b274]: Commencement: [Reg. 85](https://www.legislation.gov.uk/nisr/2016/219/regulation/85) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
+[^c-3459b3063552759692f6d6b23bf0b274]: Commencement: [Reg. 85](https://www.legislation.gov.uk/nisr/2016/219/regulation/85) in operation at 27.9.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/219/regulation/1/2)
 
-[^key-a8f85ae355932b620842c628371e8b0c]: Textual amendment: Words in [reg. 85(2)(a)](https://www.legislation.gov.uk/nisr/2016/219/regulation/85/2/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [49(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/49/5)
+[^c-a8f85ae355932b620842c628371e8b0c]: Textual amendment: Words in [reg. 85(2)(a)](https://www.legislation.gov.uk/nisr/2016/219/regulation/85/2/a) inserted (19.11.2023) by [The Carer’s Assistance (Carer Support Payment) (Scotland) Regulations 2023 (Consequential Amendments) Order 2023 (S.I. 2023/1218)](https://www.legislation.gov.uk/uksi/2023/1218), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2023/1218/article/1/2), [49(5)](https://www.legislation.gov.uk/uksi/2023/1218/article/49/5)

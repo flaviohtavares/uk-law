@@ -22,7 +22,7 @@ summary: ''
 
 (1) In any civil proceedings by virtue of this Part against any person (“the person proceeded against”) in respect of a defect in a product it shall be a defence for him to show—
 
-- (a) that the defect is attributable to compliance with any requirement imposed by or under any enactment or with any assimilated[^key-55bbfd97080d429b46197bc5005d7959] obligation; or
+- (a) that the defect is attributable to compliance with any requirement imposed by or under any enactment or with any assimilated[^c-55bbfd97080d429b46197bc5005d7959] obligation; or
 - (b) that the person proceeded against did not at any time supply the product to another; or
 - (c) that the following conditions are satisfied, that is to say—
   - (i) that the only supply of the product to another by the person proceeded against was otherwise than in the course of a business of that person’s; and
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-55bbfd97080d429b46197bc5005d7959]: Textual amendment: Word in [s. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1987/43/section/4/1/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/23)
+[^c-55bbfd97080d429b46197bc5005d7959]: Textual amendment: Word in [s. 4(1)(a)](https://www.legislation.gov.uk/ukpga/1987/43/section/4/1/a) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 23](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/23)

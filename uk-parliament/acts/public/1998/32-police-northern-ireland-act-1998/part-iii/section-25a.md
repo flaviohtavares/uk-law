@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25A. Regulations about hours, leave, pay or equipment: consultation etc[^key-17d637d9aff95a9b3e729f7431c14397]
+## 25A. Regulations about hours, leave, pay or equipment: consultation etc[^c-17d637d9aff95a9b3e729f7431c14397]
 
 *Extent: N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17d637d9aff95a9b3e729f7431c14397]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/1998/32/section/25A) inserted (1.9.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 134(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/134/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/d)
+[^c-17d637d9aff95a9b3e729f7431c14397]: Textual amendment: [S. 25A](https://www.legislation.gov.uk/ukpga/1998/32/section/25A) inserted (1.9.2014) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [ss. 134(2)](https://www.legislation.gov.uk/ukpga/2014/12/section/134/2), [185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2014/2125](https://www.legislation.gov.uk/uksi/2014/2125), [art. 2(d)](https://www.legislation.gov.uk/uksi/2014/2125/article/2/d)

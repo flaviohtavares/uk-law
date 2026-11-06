@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-320711c85104987bd44edf5c416aa2e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-320711c85104987bd44edf5c416aa2e5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2)[^c15671231] In section 729 of that Act (sale and repurchase of securities), after subsection (5) there shall be inserted the following subsection—
 
 > (5A) This section shall not apply where section 737A applies; and this section shall be disregarded in determining whether the condition in subsection (2)(b) of that section is fulfilled in any case.
 
-(3)[^key-3847da64f7adc16c4e835285e47855ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-3847da64f7adc16c4e835285e47855ea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) After section 263 of the [^c15671241]Taxation of Chargeable Gains Act 1992 there shall be inserted the following section—
 
@@ -54,10 +54,10 @@ summary: ''
 
 ## Annotations
 
-[^key-320711c85104987bd44edf5c416aa2e5]: Textual amendment: [S. 80(1)](https://www.legislation.gov.uk/ukpga/1995/4/section/80/1) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/14)
+[^c-320711c85104987bd44edf5c416aa2e5]: Textual amendment: [S. 80(1)](https://www.legislation.gov.uk/ukpga/1995/4/section/80/1) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/14)
 
 [^c15671231]: Textual amendment: S. 80(2) repealed (29.4.1996 with effect as mentioned in [s. 159(1)](https://www.legislation.gov.uk/ukpga/1996/8/section/159/1) of the amending Act) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), [s. 205](https://www.legislation.gov.uk/ukpga/1996/8/section/205), [Sch. 41 Pt. V(21)](https://www.legislation.gov.uk/ukpga/1996/8/schedule/41/part/V/21) Note 1
 
-[^key-3847da64f7adc16c4e835285e47855ea]: Textual amendment: [S. 80(3)](https://www.legislation.gov.uk/ukpga/1995/4/section/80/3) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/14)
+[^c-3847da64f7adc16c4e835285e47855ea]: Textual amendment: [S. 80(3)](https://www.legislation.gov.uk/ukpga/1995/4/section/80/3) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 2(14)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/2/14)
 
 [^c15671241]: Marginal citation: [1992 c. 12](https://www.legislation.gov.uk/ukpga/1992/12).

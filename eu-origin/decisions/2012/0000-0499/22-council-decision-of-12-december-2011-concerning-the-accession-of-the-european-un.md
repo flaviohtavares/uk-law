@@ -36,100 +36,100 @@ concerning the accession of the European Union to the Protocol of 2002 to the At
 
 (2012/22/EU) (revoked)
 
-[^key-442e33098f3df56e30f36a4da25d339d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-442e33098f3df56e30f36a4da25d339d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — PROTOCOL OF 2002 TO THE ATHENS CONVENTION RELATING TO THE CARRIAGE OF PASSENGERS AND THEIR LUGGAGE BY SEA, 1974[^key-442e33098f3df56e30f36a4da25d339d]
+## ANNEX — PROTOCOL OF 2002 TO THE ATHENS CONVENTION RELATING TO THE CARRIAGE OF PASSENGERS AND THEIR LUGGAGE BY SEA, 1974[^c-442e33098f3df56e30f36a4da25d339d]
 
-**Article 1.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 14. Model certificate[^key-442e33098f3df56e30f36a4da25d339d]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 15. Interpretation and application[^key-442e33098f3df56e30f36a4da25d339d]
+### Article 14. Model certificate[^c-442e33098f3df56e30f36a4da25d339d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 16.**[^key-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### FINAL CLAUSES[^key-442e33098f3df56e30f36a4da25d339d]
-
-#### Article 17. Signature, ratification, acceptance, approval and accession[^key-442e33098f3df56e30f36a4da25d339d]
+### Article 15. Interpretation and application[^c-442e33098f3df56e30f36a4da25d339d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 18. States with more than one system of law[^key-442e33098f3df56e30f36a4da25d339d]
+**Article 16.**[^c-442e33098f3df56e30f36a4da25d339d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### FINAL CLAUSES[^c-442e33098f3df56e30f36a4da25d339d]
+
+#### Article 17. Signature, ratification, acceptance, approval and accession[^c-442e33098f3df56e30f36a4da25d339d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 19. Regional Economic Integration Organizations[^key-442e33098f3df56e30f36a4da25d339d]
+#### Article 18. States with more than one system of law[^c-442e33098f3df56e30f36a4da25d339d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 20. Entry into force[^key-442e33098f3df56e30f36a4da25d339d]
+#### Article 19. Regional Economic Integration Organizations[^c-442e33098f3df56e30f36a4da25d339d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 21. Denunciation[^key-442e33098f3df56e30f36a4da25d339d]
+#### Article 20. Entry into force[^c-442e33098f3df56e30f36a4da25d339d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 22. Revision and Amendment[^key-442e33098f3df56e30f36a4da25d339d]
+#### Article 21. Denunciation[^c-442e33098f3df56e30f36a4da25d339d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 23. Amendment of limits[^key-442e33098f3df56e30f36a4da25d339d]
+#### Article 22. Revision and Amendment[^c-442e33098f3df56e30f36a4da25d339d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 24. Depositary[^key-442e33098f3df56e30f36a4da25d339d]
+#### Article 23. Amendment of limits[^c-442e33098f3df56e30f36a4da25d339d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 25. Languages[^key-442e33098f3df56e30f36a4da25d339d]
+#### Article 24. Depositary[^c-442e33098f3df56e30f36a4da25d339d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-442e33098f3df56e30f36a4da25d339d]ANNEX TO ATHENS PROTOCOL
+#### Article 25. Languages[^c-442e33098f3df56e30f36a4da25d339d]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-442e33098f3df56e30f36a4da25d339d]ANNEX TO ATHENS PROTOCOL
 
 [image: see source](https://www.legislation.gov.uk/eudn/2012/22/images/eudn_20120022_2013-07-01_en_001)
 
 ## Annotations
 
-[^key-442e33098f3df56e30f36a4da25d339d]: Textual amendment: Decision revoked (31.12.2020) by [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/649/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-442e33098f3df56e30f36a4da25d339d]: Textual amendment: Decision revoked (31.12.2020) by [The Merchant Shipping (Passengers' Rights) (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/649)](https://www.legislation.gov.uk/uksi/2019/649), [regs. 1](https://www.legislation.gov.uk/uksi/2019/649/regulation/1), [8(a)](https://www.legislation.gov.uk/uksi/2019/649/regulation/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

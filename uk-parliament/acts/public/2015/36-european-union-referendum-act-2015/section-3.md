@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3. Further provision about the referendum[^key-75923284b15be7d8535a248be88d99a6]
+## 3. Further provision about the referendum[^c-75923284b15be7d8535a248be88d99a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ Part 7 of the 2000 Act (general provision about referendums) applies to the refe
 
 ## Annotations
 
-[^key-75923284b15be7d8535a248be88d99a6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2015/36/section/3) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)
+[^c-75923284b15be7d8535a248be88d99a6]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2015/36/section/3) in force at 1.2.2016 by [S.I. 2016/69](https://www.legislation.gov.uk/uksi/2016/69), [reg. 2](https://www.legislation.gov.uk/uksi/2016/69/regulation/2)

@@ -22,13 +22,13 @@ summary: ''
 
 Article 70(5)
 
-### 1. Introduction[^key-244682cb486aa208423568cdd77c717c]
+### 1. Introduction[^c-244682cb486aa208423568cdd77c717c]
 
 (1) The procedures specified in this Schedule are concerned with the reporting requirements under Chapter 3 of Part 3 of this Order.
 
 (2) Unless otherwise stated, fuel use and CO<sub>2</sub> emissions must be reported to the nearest tonne.
 
-### 2. Content of Emissions Report from aeroplane operator to the Regulator[^key-611a148887fbe17c21bdbbcc6486dde0]
+### 2. Content of Emissions Report from aeroplane operator to the Regulator[^c-611a148887fbe17c21bdbbcc6486dde0]
 
 (1) The information required for an aeroplane operator’s Emissions Report to the Regulator is set out in Table 1.
 
@@ -49,12 +49,12 @@ The template of an Emissions Report from an aeroplane operator to the Regulator 
 | Field 7 | Number of international flights per State pair or aerodrome pair | (a) Number of international flights per State pair, without rounding, or<br>(b) Number of international flights per aerodrome pair, without rounding. |
 | Field 8 | CO<sub>2</sub> emissions per aerodrome pair or State pair | (a) CO<sub>2</sub> emissions from international flights per State pair (in tonnes), or<br>(b) CO<sub>2</sub> emissions from international flights per aerodrome pair (in tonnes). |
 | Field 9 | Scale of data gaps | (a) Percent of data gaps, according to criteria defined in article 37(1) and (4) and rounded to the nearest 0.1%.<br>(b) Reason for data gaps if per cent of data gaps exceeds the thresholds defined in article 37(1) (a) and (b). |
-| Field 10 | Aeroplane information | (a) List of aeroplane types.<br>(b) Aeroplane identifiers used in Item 7 of the flight plans during the year for all international flights. Where the identifier is based on an ICAO Designator, only the ICAO Designator is to be reported.<br>(c) Information on leased aeroplanes.<br>(d) AFBR (average fuel burn ratio)[^key-a15f8cdd554f1471ba1bb3d131df8a44] for each aeroplane type under the list in point (a)[^f00074]. |
-| Field 11 | Eligibility for and use of the CERT in accordance with article 22 | (a) Version of the CERT used.<br>(b) Scope of use of the CERT, i.e. on all flights or only on the international flights, not subject to offsetting requirements under article 41A[^key-ea95a033284f24aafaad32b200f88dc3] . |
+| Field 10 | Aeroplane information | (a) List of aeroplane types.<br>(b) Aeroplane identifiers used in Item 7 of the flight plans during the year for all international flights. Where the identifier is based on an ICAO Designator, only the ICAO Designator is to be reported.<br>(c) Information on leased aeroplanes.<br>(d) AFBR (average fuel burn ratio)[^c-a15f8cdd554f1471ba1bb3d131df8a44] for each aeroplane type under the list in point (a)[^f00074]. |
+| Field 11 | Eligibility for and use of the CERT in accordance with article 22 | (a) Version of the CERT used.<br>(b) Scope of use of the CERT, i.e. on all flights or only on the international flights, not subject to offsetting requirements under article 41A[^c-ea95a033284f24aafaad32b200f88dc3] . |
 | Field 12[^f00076] | CORSIA eligible fuel claimed | (a) Fuel type, i.e. type of fuel, feedstock and conversion process.<br>(b) Total mass of the neat CORSIA eligible fuel claimed in tonnes, per fuel type. |
-|  | Emissions information (per fuel type) | (c) Approved Life Cycle Emissions values.<br>(d) Emissions reductions claimed from a CORSIA eligible fuel, as calculated in accordance with equations described in article 41C[^key-469f0ab9fc2ef52ff9a54cf030ab0e7a] and reported in tonnes. |
+|  | Emissions information (per fuel type) | (c) Approved Life Cycle Emissions values.<br>(d) Emissions reductions claimed from a CORSIA eligible fuel, as calculated in accordance with equations described in article 41C[^c-469f0ab9fc2ef52ff9a54cf030ab0e7a] and reported in tonnes. |
 |  | Emissions reductions (total) | (e)Total emissions reductions claimed from the use of all CORSIA eligible fuels in tonnes[^f00077]. |
-| Field 13 | Total CO<sub>2</sub> emissions | (a) Total CO<sub>2</sub> emissions based on total mass of fuel in tonnes from Field 5 and reported in tonnes[^f00078].<br>(b) Total CO<sub>2</sub> emissions from flights subject to offsetting requirements under article 41A[^key-8e69f56209fbcbe131eeaf5a955309a7] in tonnes.<br>(c) Total CO<sub>2</sub> emissions from international flights that are not subject to offsetting requirements under article 41A[^key-ae783f6ca28be155502240fabd3897f6] in tonnes. |
+| Field 13 | Total CO<sub>2</sub> emissions | (a) Total CO<sub>2</sub> emissions based on total mass of fuel in tonnes from Field 5 and reported in tonnes[^f00078].<br>(b) Total CO<sub>2</sub> emissions from flights subject to offsetting requirements under article 41A[^c-8e69f56209fbcbe131eeaf5a955309a7] in tonnes.<br>(c) Total CO<sub>2</sub> emissions from international flights that are not subject to offsetting requirements under article 41A[^c-ae783f6ca28be155502240fabd3897f6] in tonnes. |
 
 (2) The supplementary information required for an aeroplane operator’s Emissions Report if emissions reductions from the use of CORSIA eligible fuels is being claimed is set out in Table 2.
 
@@ -83,7 +83,7 @@ The template of a CORSIA eligible fuels supplementary information to the Emissio
 | Field 15 | Documentation demonstrating that the batch or batches of neat CORSIA eligible fuel were blended into aviation fuel, such as the subsequent Certificate of Analysis of the blended fuel |  |
 | Field 16 | Mass of neat CORSIA eligible fuel claimed (in tonnes)[^f00083] |  |
 
-### 3. Content of reports from the Secretary of State to ICAO[^key-064cf9cd282e4f2fee92547ef4c8bac4]
+### 3. Content of reports from the Secretary of State to ICAO[^c-064cf9cd282e4f2fee92547ef4c8bac4]
 
 (1) The information required for the Secretary of State’s report to ICAO listing the aeroplane operators attributed to the United Kingdom and verification bodies accredited in the United Kingdom is set out in Table 3.
 
@@ -114,10 +114,10 @@ Emissions Report from the Secretary of State to ICAO annually from and including
 
 | Field | Data Field | Details |
 | --- | --- | --- |
-| Field 1 | Total annual CO<sub>2</sub> emissions on each State pair aggregated for all aeroplane operators attributed to the UnitedKingdom[^f00086] | (a) Total annual CO<sub>2</sub> emissions on each State pair subject to offsetting requirements, under article 41A,[^key-8f5b7b1b85141b6f3b6543ae8b165dac] aggregated for all aeroplane operators attributed to the United Kingdom (in tonnes),<br>(b) Total annual CO<sub>2</sub> emissions on each State pair not subject to offsetting requirements under article 41A[^key-4ce023e1be39a889b7ddbf7407859e4b] aggregated for all aeroplane operators attributed to the United Kingdom (in tonnes). |
+| Field 1 | Total annual CO<sub>2</sub> emissions on each State pair aggregated for all aeroplane operators attributed to the UnitedKingdom[^f00086] | (a) Total annual CO<sub>2</sub> emissions on each State pair subject to offsetting requirements, under article 41A,[^c-8f5b7b1b85141b6f3b6543ae8b165dac] aggregated for all aeroplane operators attributed to the United Kingdom (in tonnes),<br>(b) Total annual CO<sub>2</sub> emissions on each State pair not subject to offsetting requirements under article 41A[^c-4ce023e1be39a889b7ddbf7407859e4b] aggregated for all aeroplane operators attributed to the United Kingdom (in tonnes). |
 | Field 2 | Total annual CO<sub>2</sub> emissions for each aeroplane operator attributed to the United Kingdom | (a) Total annual CO<sub>2</sub> emissions for each aeroplane operator attributed to the United Kingdom (in tonnes),<br>(b) Indicate whether the CERT, as set out in Schedule 3 is used. |
-| Field 3 | Total aggregated annual CO<sub>2</sub> emissions for all State pairs subject to offsetting requirements, under article 41A,[^key-00818b9dbb4249399747a5cfdd8c6956] for each aeroplane operator attributed to the United Kingdom (in tonnes) |  |
-| Field 4 | Total aggregated annual CO<sub>2</sub> emissions for all State pairs not subject to offsetting requirements under article 41A[^key-1fa816ed9ce17158d004929389681b75] for each aeroplane operator attributed to the United Kingdom (in tonnes) |  |
+| Field 3 | Total aggregated annual CO<sub>2</sub> emissions for all State pairs subject to offsetting requirements, under article 41A,[^c-00818b9dbb4249399747a5cfdd8c6956] for each aeroplane operator attributed to the United Kingdom (in tonnes) |  |
+| Field 4 | Total aggregated annual CO<sub>2</sub> emissions for all State pairs not subject to offsetting requirements under article 41A[^c-1fa816ed9ce17158d004929389681b75] for each aeroplane operator attributed to the United Kingdom (in tonnes) |  |
 
 (4) The information required for the Secretary of State’s Emissions Report to ICAO for the use of CORSIA eligible fuels in the United Kingdom is set out in Table 6.
 
@@ -135,9 +135,9 @@ CORSIA eligible fuels supplementary information to the Emissions Report from the
 
 ## Annotations
 
-[^key-244682cb486aa208423568cdd77c717c]: Commencement: Sch. 5 para. 1 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-244682cb486aa208423568cdd77c717c]: Commencement: Sch. 5 para. 1 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
-[^key-611a148887fbe17c21bdbbcc6486dde0]: Commencement: Sch. 5 para. 2 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-611a148887fbe17c21bdbbcc6486dde0]: Commencement: Sch. 5 para. 2 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00071]: Footnote: The Environmental Technical Manual (Doc 9501), Volume IV – Procedures for demonstrating compliance with the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).
 
@@ -145,23 +145,23 @@ CORSIA eligible fuels supplementary information to the Emissions Report from the
 
 [^f00073]: Footnote: Total (sum of values from Field 7).
 
-[^key-a15f8cdd554f1471ba1bb3d131df8a44]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 1 inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(2)(a)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/2/a)
+[^c-a15f8cdd554f1471ba1bb3d131df8a44]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 1 inserted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(2)(a)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/2/a)
 
 [^f00074]: Footnote: AFBR is to be noted in line with Doc 8643 – Aircraft Designator in tonnes per hour to 3 decimal places.
 
-[^key-ea95a033284f24aafaad32b200f88dc3]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 1 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(2)(b)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/2/b)
+[^c-ea95a033284f24aafaad32b200f88dc3]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 1 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(2)(b)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/2/b)
 
 [^f00076]: Footnote: If emissions reductions from the use of CORSIA eligible fuel are claimed, see Table 2 for supplementary information that is to be provided with the aeroplane operator’s Emissions Report.
 
-[^key-469f0ab9fc2ef52ff9a54cf030ab0e7a]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 1 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(2)(c)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/2/c)
+[^c-469f0ab9fc2ef52ff9a54cf030ab0e7a]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 1 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(2)(c)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/2/c)
 
 [^f00077]: Footnote: During the 2019-2020 period, field 12 is not required as there are no offsetting requirements and no emissions reductions from the use of CORSIA eligible fuels during the 2019-2020 period.
 
 [^f00078]: Footnote: During the 2019-2020 period, only point (a) under field 13 is required.
 
-[^key-8e69f56209fbcbe131eeaf5a955309a7]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 1 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(2)(d)(i)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/2/d/i)
+[^c-8e69f56209fbcbe131eeaf5a955309a7]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 1 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(2)(d)(i)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/2/d/i)
 
-[^key-ae783f6ca28be155502240fabd3897f6]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 1 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/2/d/ii)
+[^c-ae783f6ca28be155502240fabd3897f6]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 1 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(2)(d)(ii)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/2/d/ii)
 
 [^f00079]: Footnote: The Environmental Technical Manual (Doc 9501), Volume IV – Procedures for demonstrating compliance with the Carbon Offsetting and Reduction Scheme for International Aviation (CORSIA) is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).
 
@@ -173,7 +173,7 @@ CORSIA eligible fuels supplementary information to the Emissions Report from the
 
 [^f00083]: Footnote: This number may differ from the number in Field 5 point (c) in cases where only a portion of a batch or batches are claimed by the aeroplane operator.
 
-[^key-064cf9cd282e4f2fee92547ef4c8bac4]: Commencement: Sch. 5 para. 3 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
+[^c-064cf9cd282e4f2fee92547ef4c8bac4]: Commencement: Sch. 5 para. 3 in force at 26.5.2021, see [art. 1](https://www.legislation.gov.uk/uksi/2021/534/article/1)
 
 [^f00084]: Footnote: Information on Fields 1 and 2 in Table 3 can be found I the ICAO document entitled “CORSIA Central Registry (CCR): Information and Data for Transparency” that is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).
 
@@ -181,12 +181,12 @@ CORSIA eligible fuels supplementary information to the Emissions Report from the
 
 [^f00086]: Footnote: Information on the total annual CO<sub>2</sub> emissions aggregated for all aeroplane operators on each State pair (with identification of State pairs defined in the ICAO document entitled “CORSIA States for Chapter 3 State Pairs” in a given year) can be found in the ICAO document entitled “CORSIA Central Registry (CCR): Information and Data for Transparency” that is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).
 
-[^key-8f5b7b1b85141b6f3b6543ae8b165dac]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 5 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/3/a/i)
+[^c-8f5b7b1b85141b6f3b6543ae8b165dac]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 5 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(3)(a)(i)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/3/a/i)
 
-[^key-4ce023e1be39a889b7ddbf7407859e4b]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 5 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/3/a/ii)
+[^c-4ce023e1be39a889b7ddbf7407859e4b]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 5 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(3)(a)(ii)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/3/a/ii)
 
-[^key-00818b9dbb4249399747a5cfdd8c6956]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 5 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(3)(b)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/3/b)
+[^c-00818b9dbb4249399747a5cfdd8c6956]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 5 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(3)(b)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/3/b)
 
-[^key-1fa816ed9ce17158d004929389681b75]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 5 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(3)(c)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/3/c)
+[^c-1fa816ed9ce17158d004929389681b75]: Textual amendment: Words in [Sch. 5](https://www.legislation.gov.uk/uksi/2021/534/schedule/5) Table 5 substituted (9.11.2022) by [The Air Navigation (Carbon Offsetting and Reduction Scheme for International Aviation) (Amendment) Order 2022 (S.I. 2022/1050)](https://www.legislation.gov.uk/uksi/2022/1050), [arts. 1](https://www.legislation.gov.uk/uksi/2022/1050/article/1), [34(3)(c)](https://www.legislation.gov.uk/uksi/2022/1050/article/34/3/c)
 
 [^f00088]: Footnote: In order to avoid double claiming of CORSIA eligible fuels, information on Fields 1, 2 and 3a can be found in the ICAO document entitled “CORSIA Central Registry (CCR): Information and Data Transparency” that is available from the ICAO website at www.icao.int. For a hard copy contact the ICAO E-Commerce and Publications Sales Unit at International Civil Aviation Organisation (ICAO), 999 Robert-Bourassa Boulevard, Montreal, Quebec H3C 5H7, Canada (telephone +1 514-954-8219 and e-mail sales@icao.int).

@@ -52,7 +52,7 @@ The Secretary of State, being a Minister designated for the purpose of section 2
 
 These Regulations may be cited as the Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory Regulations 2005 and shall come into force on 13th November 2005.
 
-### 1A. Duty to review these Regulations[^key-227b75284643a7f3c4d56370855a4b34]
+### 1A. Duty to review these Regulations[^c-227b75284643a7f3c4d56370855a4b34]
 
 (1) The Secretary of State must from time to time—
 
@@ -76,7 +76,7 @@ These Regulations may be cited as the Greenhouse Gas Emissions Trading Scheme (A
 
 (1) In these Regulations—
 
-- [^key-5c78536c3808ac510cda87cebf72d71f]...
+- [^c-5c78536c3808ac510cda87cebf72d71f]...
 - “Annex I party” means a country which—
   - (a) is listed in Annex I to the UNFCCC or which has given notice in accordance with Article 4(2)(g) of the UNFCCC; and
   - (b) has ratified the Kyoto Protocol to the UNFCCC signed at Kyoto on 11th December 1997;
@@ -104,15 +104,15 @@ These Regulations may be cited as the Greenhouse Gas Emissions Trading Scheme (A
 
 ### 3. Notices
 
-Schedule 2 to the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^key-0516237bf17f2f74766f09656c54afd6] shall apply to a notice or document served under these Regulations.
+Schedule 2 to the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^c-0516237bf17f2f74766f09656c54afd6] shall apply to a notice or document served under these Regulations.
 
 ## PART 2 — AMENDMENT OF 2005 REGULATIONS
 
-### 4. Amendment of the 2005 Regulations[^key-e9338aa02b144a8074f328bc90dd35a8]
+### 4. Amendment of the 2005 Regulations[^c-e9338aa02b144a8074f328bc90dd35a8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 3 — Project approval and authorisation to participate[^key-aae1bbe4aa1339626ecd3bce2f00b84f]
+## PART 3 — Project approval and authorisation to participate[^c-aae1bbe4aa1339626ecd3bce2f00b84f]
 
 ### 5. Approval of and authorisation to participate in project activities
 
@@ -161,10 +161,10 @@ Schedule 2 to the Greenhouse Gas Emissions Trading Scheme Regulations 2012[^key-
 
 (6) The Environment Agency may only approve a proposed project activity if it is satisfied that—
 
-- (a)[^key-5fac4976e950d5ba1ef0b3c9c5a3e0e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-5fac4976e950d5ba1ef0b3c9c5a3e0e1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) in relation to a proposed project activity for the production of hydro-electric power with a generating capacity of more than 20 megawatts, the development of the proposed project activity will respect the criteria and guidelines identified in the report produced by the World Commission on Dams on 16th November 2000 entitled “Dams and Development - A New Framework for Decision-Making”[^f00006].
 
-(7)[^key-b0c6ce8809aae5428cb46965d1b637f6] The Environment Agency may only authorise an applicant’s participation in a project activity or a proposed project activity if the Environment Agency is satisfied that to do so would be consistent with—
+(7)[^c-b0c6ce8809aae5428cb46965d1b637f6] The Environment Agency may only authorise an applicant’s participation in a project activity or a proposed project activity if the Environment Agency is satisfied that to do so would be consistent with—
 
 - (i) the UNFCCC;
 - (ii) the Kyoto Protocol; and
@@ -232,27 +232,27 @@ The power of the Environment Agency to determine an application under regulation
 - (a) information, which, although it is not in that person’s possession or under his control, is information which it is reasonable to require that person to obtain and, where relevant, to compile;
 - (b) evidence that information furnished to the Secretary of State for the purposes of preparing a national inventory (whether or not the information is furnished for the purpose of complying with a notice under this regulation) has been independently verified.
 
-### 11. Powers of entry[^key-3e8234f431c3bc161bdff62aded0496a]
+### 11. Powers of entry[^c-3e8234f431c3bc161bdff62aded0496a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 12. Agreement with devolved administrations on national inventory
 
-The power of the Secretary of State to serve a notice under regulation 10 [^key-6bf4d5bec63330968b1b332fb1462462]... is exercisable—
+The power of the Secretary of State to serve a notice under regulation 10 [^c-6bf4d5bec63330968b1b332fb1462462]... is exercisable—
 
-- (a) where a notice is to be served in Scotland [^key-34b55419224eadbfac253f1db041e2ca]..., only with the agreement of the Scottish Ministers;
-- (b) where a notice is to be served in Northern Ireland [^key-9d3f7238c14a34f58743833305f12587]..., only with the agreement of the Department of the Environment; and
-- (c) where a notice is to be served in Wales [^key-dd6cf1c5ed2f1fd6c73fd00bdedbf812]..., only with the agreement of the National Assembly for Wales.
+- (a) where a notice is to be served in Scotland [^c-34b55419224eadbfac253f1db041e2ca]..., only with the agreement of the Scottish Ministers;
+- (b) where a notice is to be served in Northern Ireland [^c-9d3f7238c14a34f58743833305f12587]..., only with the agreement of the Department of the Environment; and
+- (c) where a notice is to be served in Wales [^c-dd6cf1c5ed2f1fd6c73fd00bdedbf812]..., only with the agreement of the National Assembly for Wales.
 
-## ...[^key-755195956ce98974b0b17d1ea0167145]
+## ...[^c-755195956ce98974b0b17d1ea0167145]
 
-[^key-755195956ce98974b0b17d1ea0167145]
+[^c-755195956ce98974b0b17d1ea0167145]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## PART 6 — Civil penalties[^key-9938b13652f709cfdede8d74b91e448e]
+## PART 6 — Civil penalties[^c-9938b13652f709cfdede8d74b91e448e]
 
-### 13A. Interpretation: Part 6[^key-aca05fa48b31ef3c8fadf9fa743d2654]
+### 13A. Interpretation: Part 6[^c-aca05fa48b31ef3c8fadf9fa743d2654]
 
 In this Part, “the regulator” means—
 
@@ -261,7 +261,7 @@ In this Part, “the regulator” means—
 
 ### 14. Penalty notices
 
-(1) Subject to regulation 15, where the regulator[^key-bafef315ef745b25d4c8179429a2de7b] is satisfied that a person (“P”) is liable to a civil penalty under this Part the regulator must, serve a notice on P (a “penalty notice”).
+(1) Subject to regulation 15, where the regulator[^c-bafef315ef745b25d4c8179429a2de7b] is satisfied that a person (“P”) is liable to a civil penalty under this Part the regulator must, serve a notice on P (a “penalty notice”).
 
 (2) The penalty notice must specify—
 
@@ -279,14 +279,14 @@ In this Part, “the regulator” means—
 
 (5) Any such civil penalty is recoverable by the regulator as a civil debt.
 
-(6)[^key-0f0e6f76c0abdf620baaba2f242f22c4] If the regulator is the Environment Agency it must, as soon as reasonably practicable—
+(6)[^c-0f0e6f76c0abdf620baaba2f242f22c4] If the regulator is the Environment Agency it must, as soon as reasonably practicable—
 
 - (a) notify the Secretary of State if it serves a penalty notice under this regulation; and
 - (b) pass to the Secretary of State any civil penalty that has been paid to it pursuant to such notice.
 
 ### 15. Discretion in imposing civil penalties
 
-Where the regulator[^key-dcd42bada3ca18bff4d02a8151ab645e] considers it appropriate to do so, the regulator may—
+Where the regulator[^c-dcd42bada3ca18bff4d02a8151ab645e] considers it appropriate to do so, the regulator may—
 
 - (a) refrain from imposing a civil penalty under this Part;
 - (b) reduce the amount of a penalty (including the amount of an additional daily penalty);
@@ -307,7 +307,7 @@ Where the regulator[^key-dcd42bada3ca18bff4d02a8151ab645e] considers it appropri
 
 (1) Where paragraph (2) applies, a person is liable to the civil penalty in paragraph (3) where that person provides false or misleading information, or makes a statement which is false or misleading in a material particular.
 
-(2)[^key-879cf916a7f1d73153cff7928ce7e50e] This paragraph applies where the statement is made or the information is provided to the regulator in writing—
+(2)[^c-879cf916a7f1d73153cff7928ce7e50e] This paragraph applies where the statement is made or the information is provided to the regulator in writing—
 
 - (a) in connection with an application made under regulation 5; or
 - (b) for the purpose of preparing a national inventory, whether or not the statement is made (or the information provided) in purported compliance with a requirement imposed by a notice under regulation 10(1).
@@ -331,7 +331,7 @@ Minister of State
 
 Department for Environment, Food and Rural Affairs
 
-## SCHEDULE — List of Least Developed Countries[^key-8c7bc8aa232f35d85a973844ed91842e]
+## SCHEDULE — List of Least Developed Countries[^c-8c7bc8aa232f35d85a973844ed91842e]
 
 **No longer in force.**
 
@@ -361,9 +361,9 @@ A regulatory impact assessment and a transposition note has been prepared and pl
 
 [^f00003]: Footnote: As regards Scotland, see also section 57(1) of the Scotland Act [1998 (c. 46)](https://www.legislation.gov.uk/ukpga/1998/46), which provides that, despite the transfer to the Scottish Ministers by virtue of that Act of functions in relation to observing and implementing obligations under Community law, any function of a Minister of the Crown in relation to any matter shall continue to be exercisable by him as regards Scotland for the purposes specified in section 2(2) of the European Communities Act 1972.
 
-[^key-227b75284643a7f3c4d56370855a4b34]: Textual amendment: Reg. 1A inserted (31.1.2014) by [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/3135/regulation/8)
+[^c-227b75284643a7f3c4d56370855a4b34]: Textual amendment: Reg. 1A inserted (31.1.2014) by [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/3135/regulation/8)
 
-[^key-5c78536c3808ac510cda87cebf72d71f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/2903/regulation/2/1) omitted (1.2.2015) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+[^c-5c78536c3808ac510cda87cebf72d71f]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2005/2903/regulation/2/1) omitted (1.2.2015) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
 
 [^f00005]: Footnote: OJ No. L 275, 25.10.2003, p.32. The Directive is amended by Directive [2004/101/EC](https://www.legislation.gov.uk/european/directive/2004/0101), OJ No.L 338, 13.11.2004, p.18.
 
@@ -373,38 +373,38 @@ A regulatory impact assessment and a transposition note has been prepared and pl
 
 [^f00008]: Footnote: This is available at http://unfccc.int/resource/docs/convkp/conveng.pdf.
 
-[^key-0516237bf17f2f74766f09656c54afd6]: Textual amendment: Words in reg. 3 substituted (31.1.2014) by [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/3135/regulation/9)
+[^c-0516237bf17f2f74766f09656c54afd6]: Textual amendment: Words in reg. 3 substituted (31.1.2014) by [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [9](https://www.legislation.gov.uk/uksi/2013/3135/regulation/9)
 
-[^key-e9338aa02b144a8074f328bc90dd35a8]: Textual amendment: Reg. 4 revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3038/regulation/1), [85(b)(vi)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/vi) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
+[^c-e9338aa02b144a8074f328bc90dd35a8]: Textual amendment: Reg. 4 revoked (1.1.2013) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2012 (S.I. 2012/3038)](https://www.legislation.gov.uk/uksi/2012/3038), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3038/regulation/1), [85(b)(vi)](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85/b/vi) (with [regs. 85](https://www.legislation.gov.uk/uksi/2012/3038/regulation/85), [87](https://www.legislation.gov.uk/uksi/2012/3038/regulation/87), [Sch. 1](https://www.legislation.gov.uk/uksi/2012/3038/schedule/1))
 
-[^key-aae1bbe4aa1339626ecd3bce2f00b84f]: Textual amendment: Pt. 3 substituted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+[^c-aae1bbe4aa1339626ecd3bce2f00b84f]: Textual amendment: Pt. 3 substituted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
 
-[^key-5fac4976e950d5ba1ef0b3c9c5a3e0e1]: Textual amendment: Reg. 7(6)(a) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2021/511/regulation/2/a)
+[^c-5fac4976e950d5ba1ef0b3c9c5a3e0e1]: Textual amendment: Reg. 7(6)(a) omitted (1.5.2021) by virtue of [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [2(a)](https://www.legislation.gov.uk/uksi/2021/511/regulation/2/a)
 
-[^key-b0c6ce8809aae5428cb46965d1b637f6]: Textual amendment: Reg. 7(7) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/2/b)
+[^c-b0c6ce8809aae5428cb46965d1b637f6]: Textual amendment: Reg. 7(7) substituted (1.5.2021) by [The Greenhouse Gas Emissions (Kyoto Protocol Registry) Regulations 2021 (S.I. 2021/511)](https://www.legislation.gov.uk/uksi/2021/511), [regs. 1](https://www.legislation.gov.uk/uksi/2021/511/regulation/1), [2(b)](https://www.legislation.gov.uk/uksi/2021/511/regulation/2/b)
 
-[^key-3e8234f431c3bc161bdff62aded0496a]: Textual amendment: Reg. 11 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(1)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/1)
+[^c-3e8234f431c3bc161bdff62aded0496a]: Textual amendment: Reg. 11 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(1)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/1)
 
-[^key-6bf4d5bec63330968b1b332fb1462462]: Textual amendment: Words in reg. 12 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/2/a)
+[^c-6bf4d5bec63330968b1b332fb1462462]: Textual amendment: Words in reg. 12 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(2)(a)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/2/a)
 
-[^key-34b55419224eadbfac253f1db041e2ca]: Textual amendment: Words in reg. 12 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/2/b)
+[^c-34b55419224eadbfac253f1db041e2ca]: Textual amendment: Words in reg. 12 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(2)(b)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/2/b)
 
-[^key-9d3f7238c14a34f58743833305f12587]: Textual amendment: Words in reg. 12 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/2/c)
+[^c-9d3f7238c14a34f58743833305f12587]: Textual amendment: Words in reg. 12 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(2)(c)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/2/c)
 
-[^key-dd6cf1c5ed2f1fd6c73fd00bdedbf812]: Textual amendment: Words in reg. 12 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(2)(d)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/2/d)
+[^c-dd6cf1c5ed2f1fd6c73fd00bdedbf812]: Textual amendment: Words in reg. 12 omitted (31.1.2014) by virtue of [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [10(2)(d)](https://www.legislation.gov.uk/uksi/2013/3135/regulation/10/2/d)
 
-[^key-755195956ce98974b0b17d1ea0167145]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2005/2903/part/5) omitted (1.2.2015) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+[^c-755195956ce98974b0b17d1ea0167145]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/uksi/2005/2903/part/5) omitted (1.2.2015) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
 
-[^key-9938b13652f709cfdede8d74b91e448e]: Textual amendment: Pt. 6 inserted (31.1.2014) by [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [12](https://www.legislation.gov.uk/uksi/2013/3135/regulation/12)
+[^c-9938b13652f709cfdede8d74b91e448e]: Textual amendment: Pt. 6 inserted (31.1.2014) by [The Greenhouse Gas Emissions Trading Scheme and National Emissions Inventory (Amendment) Regulations 2013 (S.I. 2013/3135)](https://www.legislation.gov.uk/uksi/2013/3135), [regs. 1](https://www.legislation.gov.uk/uksi/2013/3135/regulation/1), [12](https://www.legislation.gov.uk/uksi/2013/3135/regulation/12)
 
-[^key-aca05fa48b31ef3c8fadf9fa743d2654]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2005/2903/regulation/13A) inserted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+[^c-aca05fa48b31ef3c8fadf9fa743d2654]: Textual amendment: [Reg. 13A](https://www.legislation.gov.uk/uksi/2005/2903/regulation/13A) inserted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
 
-[^key-bafef315ef745b25d4c8179429a2de7b]: Textual amendment: Word in reg. 14 substituted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+[^c-bafef315ef745b25d4c8179429a2de7b]: Textual amendment: Word in reg. 14 substituted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
 
-[^key-0f0e6f76c0abdf620baaba2f242f22c4]: Textual amendment: Reg. 14(6) inserted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+[^c-0f0e6f76c0abdf620baaba2f242f22c4]: Textual amendment: Reg. 14(6) inserted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
 
-[^key-dcd42bada3ca18bff4d02a8151ab645e]: Textual amendment: Word in reg. 15 substituted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+[^c-dcd42bada3ca18bff4d02a8151ab645e]: Textual amendment: Word in reg. 15 substituted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(6)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
 
-[^key-879cf916a7f1d73153cff7928ce7e50e]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/2005/2903/regulation/17/2) substituted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+[^c-879cf916a7f1d73153cff7928ce7e50e]: Textual amendment: [Reg. 17(2)](https://www.legislation.gov.uk/uksi/2005/2903/regulation/17/2) substituted (1.2.2015) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(8)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/8) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
 
-[^key-8c7bc8aa232f35d85a973844ed91842e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2005/2903/schedule) omitted (1.2.2015) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))
+[^c-8c7bc8aa232f35d85a973844ed91842e]: Textual amendment: [Sch.](https://www.legislation.gov.uk/uksi/2005/2903/schedule) omitted (1.2.2015) by virtue of [The Greenhouse Gas Emissions Trading Scheme (Amendment) and National Emissions Inventory (Amendment) Regulations2014 (S.I. 2014/3075)](https://www.legislation.gov.uk/uksi/2014/3075), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/1/1), [2(9)](https://www.legislation.gov.uk/uksi/2014/3075/regulation/2/9) (with [reg. 3](https://www.legislation.gov.uk/uksi/2014/3075/regulation/3))

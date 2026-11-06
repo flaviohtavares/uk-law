@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Chapter 10[^key-444094cbaa0020d8dfe608276b868918]
+## 12. Chapter 10[^c-444094cbaa0020d8dfe608276b868918]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Omit Article 72.
 
-(3)[^key-4098b0b1fe37736a73f8b0eec137246d] In Article 73, for “the Member States” substitute “Great Britain”.
+(3)[^c-4098b0b1fe37736a73f8b0eec137246d] In Article 73, for “the Member States” substitute “Great Britain”.
 
 (4) Omit Article 74.
 
@@ -66,7 +66,7 @@ summary: ''
 >
 > - (a) in relation to Wales, with the consent of the Welsh Ministers;
 > - (b) in relation to Scotland, with the consent of the Scottish Ministers;
-> - (c)[^key-e4c84a66281f85048b22845b356c405e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-e4c84a66281f85048b22845b356c405e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **5.**
 >
@@ -93,7 +93,7 @@ summary: ''
 >
 > For regulations made under this Regulation by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 [^c23680821].
 >
-> **3.[^key-e4c84a66281f85048b22845b356c405e]**
+> **3.[^c-e4c84a66281f85048b22845b356c405e]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -109,7 +109,7 @@ summary: ''
 >
 > Regulations made by the Scottish Ministers under this Regulation are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
 >
-> **7.[^key-e4c84a66281f85048b22845b356c405e]**
+> **7.[^c-e4c84a66281f85048b22845b356c405e]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -126,10 +126,10 @@ summary: ''
 
 ## Annotations
 
-[^key-444094cbaa0020d8dfe608276b868918]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
+[^c-444094cbaa0020d8dfe608276b868918]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/1)
 
-[^key-4098b0b1fe37736a73f8b0eec137246d]: Textual amendment: Reg. 12(3) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(10)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/10/a)
+[^c-4098b0b1fe37736a73f8b0eec137246d]: Textual amendment: Reg. 12(3) substituted (31.12.2020 immediately before IP completion day) by [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(10)(a)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/10/a)
 
-[^key-e4c84a66281f85048b22845b356c405e]: Textual amendment: Words in reg. 12(6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(10)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/10/b)
+[^c-e4c84a66281f85048b22845b356c405e]: Textual amendment: Words in reg. 12(6) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Pesticides (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1376)](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(10)(b)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/10/b)
 
 [^c23680821]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).

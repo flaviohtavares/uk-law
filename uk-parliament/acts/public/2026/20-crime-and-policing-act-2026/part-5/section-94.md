@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Guidance[^key-8f422e318c487efd535867b39fe34b3b]
+## 94. Guidance[^c-8f422e318c487efd535867b39fe34b3b]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f422e318c487efd535867b39fe34b3b]: Commencement: S. 94 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-8f422e318c487efd535867b39fe34b3b]: Commencement: S. 94 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)

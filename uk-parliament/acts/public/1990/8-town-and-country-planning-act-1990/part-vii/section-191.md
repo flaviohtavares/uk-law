@@ -38,7 +38,7 @@ he may make an application for the purpose to the local planning authority speci
 - (a) the time for taking enforcement action in respect of the failure has then expired; and
 - (b) it does not constitute a contravention of any of the requirements of any enforcement notice or breach of condition notice then in force.
 
-(3A)[^key-22103c72d08d12e983a6c39bf4311c6e] In determining for the purposes of this section whether the time for taking enforcement action in respect of a matter has expired, that time is to be taken not to have expired if—
+(3A)[^c-22103c72d08d12e983a6c39bf4311c6e] In determining for the purposes of this section whether the time for taking enforcement action in respect of a matter has expired, that time is to be taken not to have expired if—
 
 - (a) the time for applying for an order under section 171BA(1) (a “planning enforcement order”) in relation to the matter has not expired,
 - (b) an application has been made for a planning enforcement order in relation to the matter and the application has neither been decided nor been withdrawn, or
@@ -57,7 +57,7 @@ he may make an application for the purpose to the local planning authority speci
 
 (7) A certificate under this section in respect of any use shall also have effect, for the purposes of the following enactments, as if it were a grant of planning permission—
 
-- (a) section 3(3) of the [^c14023641]Caravan Sites and Control of Development Act 1960 or section 7(1) of the Mobile Homes (Wales) Act 2013;[^key-fde27d683b2a3b914f1ec9acf53db68e]
+- (a) section 3(3) of the [^c14023641]Caravan Sites and Control of Development Act 1960 or section 7(1) of the Mobile Homes (Wales) Act 2013;[^c-fde27d683b2a3b914f1ec9acf53db68e]
 - (b) section 5(2) of the [^c14023651]Control of Pollution Act 1974; and
 - (c) section 36(2)(a) of the [^c14023661]Environmental Protection Act 1990.
 
@@ -71,13 +71,13 @@ he may make an application for the purpose to the local planning authority speci
 
 [^c14023591]: Textual amendment: Ss. 191 - 194 substituted (25.11.1991 for certain purposes and otherwise 27.7.1992) by [Planning and Compensation Act 1991 (c. 34, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1991/34), [s. 10(1)](https://www.legislation.gov.uk/ukpga/1991/34/section/10/1) (with [s. 84(5)](https://www.legislation.gov.uk/ukpga/1991/34/section/84/5)); [S.I. 1991/2728](https://www.legislation.gov.uk/uksi/1991/2728), [art.2](https://www.legislation.gov.uk/uksi/1991/2728/article/2); [S.I. 1992/1630](https://www.legislation.gov.uk/uksi/1992/1630), [art. 2](https://www.legislation.gov.uk/uksi/1992/1630/article/2) (with [art. 3(1)(2)](https://www.legislation.gov.uk/uksi/1992/1630/article/3/1/2))
 
-[^key-22103c72d08d12e983a6c39bf4311c6e]: Textual amendment: S. 191(3A) inserted (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 124(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/124/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
+[^c-22103c72d08d12e983a6c39bf4311c6e]: Textual amendment: S. 191(3A) inserted (6.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [ss. 124(3)](https://www.legislation.gov.uk/ukpga/2011/20/section/124/3), [240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2) (with [s. 144](https://www.legislation.gov.uk/ukpga/2011/20/section/144)); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 8(b)](https://www.legislation.gov.uk/uksi/2012/628/article/8/b) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [12](https://www.legislation.gov.uk/uksi/2012/628/article/12), [13](https://www.legislation.gov.uk/uksi/2012/628/article/13), [16](https://www.legislation.gov.uk/uksi/2012/628/article/16), [18-20](https://www.legislation.gov.uk/uksi/2012/628/article/18)) (as amended (3.8.2012) by [S.I. 2012/2029](https://www.legislation.gov.uk/uksi/2012/2029), arts. 2, 4)
 
 [^c14023631]: Modification: S. 191(4): functions of local authority not to be responsibility of an executive of the authority (E.)(16.11.2000) by virtue of [S.I. 2000/2853](https://www.legislation.gov.uk/uksi/2000/2853), [reg. 2(1)](https://www.legislation.gov.uk/uksi/2000/2853/regulation/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2000/2853/schedule/1)
 
 [^c14023641]: Marginal citation: [1960 c. 62](https://www.legislation.gov.uk/ukpga/1960/62).
 
-[^key-fde27d683b2a3b914f1ec9acf53db68e]: Textual amendment: Words in [s. 191(7)(a)](https://www.legislation.gov.uk/ukpga/1990/8/section/191/7/a) inserted (5.11.2013) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [s. 64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/anaw/2013/6/schedule/4/paragraph/6/3) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)) (this amendment is to be treated as not having effect until 1.10.2014 by virtue of [S.I. 2014/11](https://www.legislation.gov.uk/uksi/2014/11), art. 3(2))
+[^c-fde27d683b2a3b914f1ec9acf53db68e]: Textual amendment: Words in [s. 191(7)(a)](https://www.legislation.gov.uk/ukpga/1990/8/section/191/7/a) inserted (5.11.2013) by [Mobile Homes (Wales) Act 2013 (anaw 6)](https://www.legislation.gov.uk/anaw/2013/6), [s. 64(1)](https://www.legislation.gov.uk/anaw/2013/6/section/64/1), [Sch. 4 para. 6(3)](https://www.legislation.gov.uk/anaw/2013/6/schedule/4/paragraph/6/3) (with [Sch. 5 para. 7](https://www.legislation.gov.uk/anaw/2013/6/schedule/5/paragraph/7)) (this amendment is to be treated as not having effect until 1.10.2014 by virtue of [S.I. 2014/11](https://www.legislation.gov.uk/uksi/2014/11), art. 3(2))
 
 [^c14023651]: Marginal citation: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 

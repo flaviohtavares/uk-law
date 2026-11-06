@@ -52,17 +52,17 @@ The Scottish Ministers make the following Regulations in exercise of the powers 
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety.
 
-## 1. Citation, commencement and extent[^key-53a8050e30b4ea1ae8a859ee20aeebe6]
+## 1. Citation, commencement and extent[^c-53a8050e30b4ea1ae8a859ee20aeebe6]
 
 (1) These Regulations may be cited as the Food and Feed Safety and Hygiene (EU Exit) (Scotland) (Amendment) Regulations 2019 and come into force on exit day.
 
 (2) These Regulations extend to Scotland only.
 
-## 2. Amendment of the General Food Regulations 2004[^key-1a29bbfde437d5824da9f722f84eccca]
+## 2. Amendment of the General Food Regulations 2004[^c-1a29bbfde437d5824da9f722f84eccca]
 
 (1) The General Food Regulations 2004 [^c23763781] are amended as follows.
 
-(2)[^key-c0ca9a0e5ca8bf4b5e83d2bdd0a8443c] In regulation 4 (requirements under Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178): offences), paragraph (a), for “the Community” substitute “Great Britain”.
+(2)[^c-c0ca9a0e5ca8bf4b5e83d2bdd0a8443c] In regulation 4 (requirements under Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/eur/2002/178): offences), paragraph (a), for “the Community” substitute “Great Britain”.
 
 (3) For regulation 6A (defence for exports) substitute—
 
@@ -73,7 +73,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 .
 
-## 3. Amendment of the Genetically Modified Food (Scotland) Regulations 2004[^key-4e4eb43c63be721f1ef116aed5272244]
+## 3. Amendment of the Genetically Modified Food (Scotland) Regulations 2004[^c-4e4eb43c63be721f1ef116aed5272244]
 
 (1) The Genetically Modified Food (Scotland) Regulations 2004 [^c23763791] are amended as follows.
 
@@ -91,13 +91,13 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - (a) omit the entry relating to Article 8.6 of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/eur/2003/1829), and
 - (b) in the entry relating to Article 9.3 of that Regulation, for “Commission” substitute “ Food Safety Authority ”.
 
-## 4. Amendment of the Genetically Modified Animal Feed (Scotland) Regulations 2004[^key-f97267279ade3ec072316111d36e77ba]
+## 4. Amendment of the Genetically Modified Animal Feed (Scotland) Regulations 2004[^c-f97267279ade3ec072316111d36e77ba]
 
 (1) The Genetically Modified Animal Feed (Scotland) Regulations 2004 [^c23763801] are amended as follows.
 
 (2) In the schedule (specified community provisions), in the table in Part II, omit the entry relating to Article 20.6 of Regulation [(EC) No. 1829/2003](https://www.legislation.gov.uk/eur/2003/1829).
 
-## 5. Amendment of the Food Hygiene (Scotland) Regulations 2006[^key-c7449abe07c2dc57302a1235909cab8a]
+## 5. Amendment of the Food Hygiene (Scotland) Regulations 2006[^c-c7449abe07c2dc57302a1235909cab8a]
 
 (1) The Food Hygiene (Scotland) Regulations 2006 [^c23763811] are amended as follows.
 
@@ -112,7 +112,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - (a) “or to a member state other than the United Kingdom”, and
 - (b) “or to that member state”.
 
-## 6. Amendment of the Food Irradiation (Scotland) Regulations 2009[^key-c687ffd646aa4d0b673a5d44ff209454]
+## 6. Amendment of the Food Irradiation (Scotland) Regulations 2009[^c-c687ffd646aa4d0b673a5d44ff209454]
 
 (1) The Food Irradiation (Scotland) Regulations 2009 [^c23763821] are amended as follows.
 
@@ -139,11 +139,11 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - (b) in paragraph (2), for “another member state” substitute “ an approved irradiation facility listed in schedule 3 ”, and
 - (c) in paragraph (3), for “outside the European Union” substitute “ in an approved irradiation facility listed in schedule 4 ”.
 
-(4)[^key-49add58c60e33e28c2e7c20dfb8d7ce3] In the heading to schedule 3 (“list of approved facilities in member states”) substitute “List of Facilities in Member States and the United Kingdom”.
+(4)[^c-49add58c60e33e28c2e7c20dfb8d7ce3] In the heading to schedule 3 (“list of approved facilities in member states”) substitute “List of Facilities in Member States and the United Kingdom”.
 
 (5) In the heading to schedule 4 (list of facilities in a country outside the European Union), insert “ approved ” before “facilities” and insert. “ United Kingdom and ” before “European Union”.
 
-## 7. Amendment of the Official Feed and Food Controls (Scotland) Regulations 2009[^key-bcba6cd1ceb50b1945f1fb16116f6fe2]
+## 7. Amendment of the Official Feed and Food Controls (Scotland) Regulations 2009[^c-bcba6cd1ceb50b1945f1fb16116f6fe2]
 
 (1) The Official Feed and Food Controls (Scotland) Regulations 2009 [^c23763851] are amended as follows.
 
@@ -176,15 +176,15 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 - (c) at the end of paragraph (1)(c) omit “and”, and
 - (d) omit paragraph (1)(d).
 
-(11)[^key-77aa6938e78545d525226782bfaa39ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(11)[^c-77aa6938e78545d525226782bfaa39ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(12)[^key-77aa6938e78545d525226782bfaa39ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(12)[^c-77aa6938e78545d525226782bfaa39ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(13)[^key-77aa6938e78545d525226782bfaa39ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(13)[^c-77aa6938e78545d525226782bfaa39ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(14)[^key-77aa6938e78545d525226782bfaa39ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(14)[^c-77aa6938e78545d525226782bfaa39ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Amendment of the Animal Feed (Scotland) Regulations 2010[^key-4255a9f95da7e6f7ae5b77e51da3de7a]
+## 8. Amendment of the Animal Feed (Scotland) Regulations 2010[^c-4255a9f95da7e6f7ae5b77e51da3de7a]
 
 (1) The Animal Feed (Scotland) Regulations 2010 [^c23763871] are amended as follows.
 
@@ -195,7 +195,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) In the table in schedule 1, omit the entry in relation to Article 25(4) of Regulation [(EC) No. 767/2009](https://www.legislation.gov.uk/eur/2009/767).
 
-## 9. Amendment of the Plastic Kitchenware (Conditions on Imports from China) (Scotland) Regulations 2011[^key-a1b2e8fe9ff09d8c9bdc960ceca3c7f4]
+## 9. Amendment of the Plastic Kitchenware (Conditions on Imports from China) (Scotland) Regulations 2011[^c-a1b2e8fe9ff09d8c9bdc960ceca3c7f4]
 
 (1) The Plastic Kitchenware (Conditions on Imports from China) (Scotland) Regulations 2011 [^c23763891] are amended as follows.
 
@@ -203,7 +203,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) In regulation 8 (notices and actions in the case of non-compliance) in paragraph (3)(a)(i) for “European Union” substitute “ United Kingdom ”.
 
-## 10. Amendment of the Materials and Articles in Contact with Food (Scotland) Regulations 2012[^key-004327e41fb075998f1805b6a5e203d2]
+## 10. Amendment of the Materials and Articles in Contact with Food (Scotland) Regulations 2012[^c-004327e41fb075998f1805b6a5e203d2]
 
 (1) The Materials and Articles in Contact with Food (Scotland) Regulations 2012 [^c23763901] are amended as follows.
 
@@ -246,7 +246,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 >
 > (1) A person who places on the market a ceramic article which is not yet in contact with foodstuffs must provide a written declaration in accordance with Article 16 of Regulation 1935/2004 to accompany the article at the marketing stages up to and including the retail stage.
 >
-> (2) The declaration must be issued by the manufacturer or by a seller in Great Britain[^key-263f9c311e5d98f83da48f0ac35e8e3f] and must contain the information laid down in Schedule 5.
+> (2) The declaration must be issued by the manufacturer or by a seller in Great Britain[^c-263f9c311e5d98f83da48f0ac35e8e3f] and must contain the information laid down in Schedule 5.
 >
 > (3) A person who manufactures or, in the course of a business, imports into Great Britain a ceramic article must on request make available to an authorised officer appropriate documentation to demonstrate that the ceramic article complies with the migration limits for lead and cadmium set out in regulation 10 including—
 >
@@ -351,7 +351,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 .
 
-## 11. Amendment of the Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013[^key-8e485573c31684092e85dd91783bb99b]
+## 11. Amendment of the Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013[^c-8e485573c31684092e85dd91783bb99b]
 
 (1) The Food Safety (Sampling and Qualifications) (Scotland) Regulations 2013 [^c23763921] are amended as follows.
 
@@ -362,7 +362,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) In Part 2, paragraph 4, for “of another Member State” substitute “ in a Member State of the European Union ”.
 
-## 12. Amendment of the Contaminants in Food (Scotland) Regulations 2013[^key-9b10b6b9baacf4b9a587d68952e0422a]
+## 12. Amendment of the Contaminants in Food (Scotland) Regulations 2013[^c-9b10b6b9baacf4b9a587d68952e0422a]
 
 (1) The Contaminants in Food (Scotland) Regulations 2013 [^c23763931] are amended as follows.
 
@@ -390,27 +390,27 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c23763771]: Marginal citation: [2018 c.16](https://www.legislation.gov.uk/ukpga/2018/16). Section 20 defines “devolved authority” as the Scottish Ministers.
 
-[^key-53a8050e30b4ea1ae8a859ee20aeebe6]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-53a8050e30b4ea1ae8a859ee20aeebe6]: Commencement: Reg. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
-[^key-1a29bbfde437d5824da9f722f84eccca]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-1a29bbfde437d5824da9f722f84eccca]: Commencement: Reg. 2 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23763781]: Marginal citation: [S.I. 2004/3279](https://www.legislation.gov.uk/uksi/2004/3279), relevant amending instruments are [S.I. 2005/3254](https://www.legislation.gov.uk/uksi/2005/3254), [S.S.I. 2005/616](https://www.legislation.gov.uk/ssi/2005/616), [S.I](https://www.legislation.gov.uk/ssi/2005/616/section/I). 2005/2626, [S.I. 2013/2996](https://www.legislation.gov.uk/uksi/2013/2996).
 
-[^key-c0ca9a0e5ca8bf4b5e83d2bdd0a8443c]: Textual amendment: Reg. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/5/2) (as amended by [S.S.I. 2020/455](https://www.legislation.gov.uk/ssi/2020/455), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/3), [5(3)](https://www.legislation.gov.uk/ssi/2020/455/regulation/5/3))
+[^c-c0ca9a0e5ca8bf4b5e83d2bdd0a8443c]: Textual amendment: Reg. 2(2) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [5(2)](https://www.legislation.gov.uk/ssi/2020/372/regulation/5/2) (as amended by [S.S.I. 2020/455](https://www.legislation.gov.uk/ssi/2020/455), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/455/regulation/1/3), [5(3)](https://www.legislation.gov.uk/ssi/2020/455/regulation/5/3))
 
-[^key-4e4eb43c63be721f1ef116aed5272244]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-4e4eb43c63be721f1ef116aed5272244]: Commencement: Reg. 3 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23763791]: Marginal citation: [S.S.I. 2004/432](https://www.legislation.gov.uk/ssi/2004/432), relevantly amended by [S.I. 2013/2996](https://www.legislation.gov.uk/uksi/2013/2996).
 
-[^key-f97267279ade3ec072316111d36e77ba]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-f97267279ade3ec072316111d36e77ba]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23763801]: Marginal citation: [S.S.I. 2004/433](https://www.legislation.gov.uk/ssi/2004/433).
 
-[^key-c7449abe07c2dc57302a1235909cab8a]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-c7449abe07c2dc57302a1235909cab8a]: Commencement: Reg. 5 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23763811]: Marginal citation: [S.S.I. 2006/3](https://www.legislation.gov.uk/ssi/2006/3).
 
-[^key-c687ffd646aa4d0b673a5d44ff209454]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-c687ffd646aa4d0b673a5d44ff209454]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23763821]: Marginal citation: [S.S.I. 2009/261](https://www.legislation.gov.uk/ssi/2009/261), relevant amending instruments are [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.S.I. 2010/328](https://www.legislation.gov.uk/ssi/2010/328).
 
@@ -418,39 +418,39 @@ An impact assessment has not been produced for this instrument as no significant
 
 [^c23763841]: Marginal citation: Regulation 5 was amended by article 4(1) of part 2 of the 2011 Order.
 
-[^key-49add58c60e33e28c2e7c20dfb8d7ce3]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/4) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [5(3)](https://www.legislation.gov.uk/ssi/2020/372/regulation/5/3)
+[^c-49add58c60e33e28c2e7c20dfb8d7ce3]: Textual amendment: [Reg. 6(4)](https://www.legislation.gov.uk/ssi/2019/52/regulation/6/4) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [5(3)](https://www.legislation.gov.uk/ssi/2020/372/regulation/5/3)
 
-[^key-bcba6cd1ceb50b1945f1fb16116f6fe2]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-bcba6cd1ceb50b1945f1fb16116f6fe2]: Commencement: Reg. 7 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23763851]: Marginal citation: [S.S.I. 2009/446](https://www.legislation.gov.uk/ssi/2009/446), relevant amendment [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
 [^c23763861]: Marginal citation: Regulation 4 was amended by article 6(2)(b) of part 2 of the 2011 Order.
 
-[^key-77aa6938e78545d525226782bfaa39ce]: Textual amendment: [Reg. 7(11)-(14)](https://www.legislation.gov.uk/ssi/2019/52/regulation/7/11) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [5(4)](https://www.legislation.gov.uk/ssi/2020/372/regulation/5/4)
+[^c-77aa6938e78545d525226782bfaa39ce]: Textual amendment: [Reg. 7(11)-(14)](https://www.legislation.gov.uk/ssi/2019/52/regulation/7/11) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [5(4)](https://www.legislation.gov.uk/ssi/2020/372/regulation/5/4)
 
-[^key-4255a9f95da7e6f7ae5b77e51da3de7a]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-4255a9f95da7e6f7ae5b77e51da3de7a]: Commencement: Reg. 8 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23763871]: Marginal citation: [S.S.I. 2010/373](https://www.legislation.gov.uk/ssi/2010/373), relevant amending instruments are [S.S.I. 2013/340](https://www.legislation.gov.uk/ssi/2013/340), [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100).
 
 [^c23763881]: Marginal citation: Regulation 5 was amended by [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100), [article 2](https://www.legislation.gov.uk/ssi/2015/100/article/2).
 
-[^key-a1b2e8fe9ff09d8c9bdc960ceca3c7f4]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-a1b2e8fe9ff09d8c9bdc960ceca3c7f4]: Commencement: Reg. 9 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23763891]: Marginal citation: [S.S.I. 2011/282](https://www.legislation.gov.uk/ssi/2011/282).
 
-[^key-004327e41fb075998f1805b6a5e203d2]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-004327e41fb075998f1805b6a5e203d2]: Commencement: Reg. 10 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23763901]: Marginal citation: [S.S.I. 2012/318](https://www.legislation.gov.uk/ssi/2012/318), relevant amending instrument [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100).
 
 [^c23763911]: Marginal citation: Regulation 6(1)(a) was amended by [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100), [regulation 2](https://www.legislation.gov.uk/ssi/2015/100/regulation/2).
 
-[^key-263f9c311e5d98f83da48f0ac35e8e3f]: Textual amendment: Words in [reg. 10(6)](https://www.legislation.gov.uk/ssi/2019/52/regulation/10/6) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [5(5)](https://www.legislation.gov.uk/ssi/2020/372/regulation/5/5)
+[^c-263f9c311e5d98f83da48f0ac35e8e3f]: Textual amendment: Words in [reg. 10(6)](https://www.legislation.gov.uk/ssi/2019/52/regulation/10/6) substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed (EU Exit) (Scotland) (Amendment) Regulations 2020 (S.S.I. 2020/372)](https://www.legislation.gov.uk/ssi/2020/372), [regs. 1(2)(a)](https://www.legislation.gov.uk/ssi/2020/372/regulation/1/2/a), [5(5)](https://www.legislation.gov.uk/ssi/2020/372/regulation/5/5)
 
-[^key-8e485573c31684092e85dd91783bb99b]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-8e485573c31684092e85dd91783bb99b]: Commencement: Reg. 11 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23763921]: Marginal citation: [S.S.I. 2013/84](https://www.legislation.gov.uk/ssi/2013/84).
 
-[^key-9b10b6b9baacf4b9a587d68952e0422a]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
+[^c-9b10b6b9baacf4b9a587d68952e0422a]: Commencement: Reg. 12 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(1)
 
 [^c23763931]: Marginal citation: [S.S.I. 2013/217](https://www.legislation.gov.uk/ssi/2013/217).
 

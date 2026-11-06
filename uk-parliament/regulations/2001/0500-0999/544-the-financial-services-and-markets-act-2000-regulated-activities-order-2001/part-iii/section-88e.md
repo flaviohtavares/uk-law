@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 88E. Consumer hire agreement[^key-74a002ec97f91abd5dff63b118cbb8e7]
+## 88E. Consumer hire agreement[^c-74a002ec97f91abd5dff63b118cbb8e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Rights under a consumer hire agreement.
 
 ## Annotations
 
-[^key-74a002ec97f91abd5dff63b118cbb8e7]: Textual amendment: Arts. 88D, 88E inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [7](https://www.legislation.gov.uk/uksi/2013/1881/article/7)
+[^c-74a002ec97f91abd5dff63b118cbb8e7]: Textual amendment: Arts. 88D, 88E inserted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [7](https://www.legislation.gov.uk/uksi/2013/1881/article/7)

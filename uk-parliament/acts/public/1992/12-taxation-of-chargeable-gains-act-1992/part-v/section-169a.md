@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169A. Cessation of trade by limited liability partnership[^key-361457e70a35479722f18e56601fc7ea]
+## 169A. Cessation of trade by limited liability partnership[^c-361457e70a35479722f18e56601fc7ea]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ shall be treated as if a chargeable gain equal to the amount of the reduction ac
 
 ## Annotations
 
-[^key-361457e70a35479722f18e56601fc7ea]: Textual amendment: S. 169A inserted (with effect in accordance with s. 75(5) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2001/9/section/75/3)[(5)](https://www.legislation.gov.uk/ukpga/2001/9/section/75/5) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))
+[^c-361457e70a35479722f18e56601fc7ea]: Textual amendment: S. 169A inserted (with effect in accordance with s. 75(5) of the amending Act) by [Finance Act 2001 (c. 9)](https://www.legislation.gov.uk/ukpga/2001/9), [s. 75(3)](https://www.legislation.gov.uk/ukpga/2001/9/section/75/3)[(5)](https://www.legislation.gov.uk/ukpga/2001/9/section/75/5) (with [Sch. 3](https://www.legislation.gov.uk/ukpga/2001/9/schedule/3))

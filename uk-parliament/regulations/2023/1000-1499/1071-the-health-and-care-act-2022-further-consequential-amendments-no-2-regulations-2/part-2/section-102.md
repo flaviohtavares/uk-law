@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Amendment of the Healthcare (European Economic Area and Switzerland Arrangements) (EU Exit) Regulations 2019[^key-eaeec92299b6439107c8562b9017d4b1]
+## 102. Amendment of the Healthcare (European Economic Area and Switzerland Arrangements) (EU Exit) Regulations 2019[^c-eaeec92299b6439107c8562b9017d4b1]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eaeec92299b6439107c8562b9017d4b1]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/2023/1071/regulation/102) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
+[^c-eaeec92299b6439107c8562b9017d4b1]: Commencement: [Reg. 102](https://www.legislation.gov.uk/uksi/2023/1071/regulation/102) in force at 6.11.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1)
 
 [^f00082]: Footnote: [S.I. 2019/1293](https://www.legislation.gov.uk/uksi/2019/1293), to which there are amendments not relevant to these Regulations.

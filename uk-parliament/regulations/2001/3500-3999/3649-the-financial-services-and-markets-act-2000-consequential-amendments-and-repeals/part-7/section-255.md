@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 255. Meaning of “insurance company”[^key-42a992560eb50b2e39509d9e692ddfc1]
+## 255. Meaning of “insurance company”[^c-42a992560eb50b2e39509d9e692ddfc1]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42a992560eb50b2e39509d9e692ddfc1]: Commencement: Art. 255 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-42a992560eb50b2e39509d9e692ddfc1]: Commencement: Art. 255 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

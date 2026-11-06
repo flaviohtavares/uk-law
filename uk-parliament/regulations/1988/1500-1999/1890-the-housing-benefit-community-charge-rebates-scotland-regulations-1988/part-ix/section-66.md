@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 66. Time and manner of making notifications, requests or representations[^key-2ec4db6040ae758578573713595a9fb7]
+## 66. Time and manner of making notifications, requests or representations[^c-2ec4db6040ae758578573713595a9fb7]
 
 *Extent: E+W+S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2ec4db6040ae758578573713595a9fb7]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/1988/1890/regulation/66) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-2ec4db6040ae758578573713595a9fb7]: Commencement: [Reg. 66](https://www.legislation.gov.uk/uksi/1988/1890/regulation/66) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

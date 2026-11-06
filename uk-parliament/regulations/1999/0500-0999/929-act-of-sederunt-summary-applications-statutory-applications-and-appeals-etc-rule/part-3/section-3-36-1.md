@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.36.1. Interpretation[^key-6754ba6f6020358f1c36dfbf3c1ba0c1]
+## 3.36.1. Interpretation[^c-6754ba6f6020358f1c36dfbf3c1ba0c1]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ In this Part–
 
 ## Annotations
 
-[^key-6754ba6f6020358f1c36dfbf3c1ba0c1]: Textual amendment: Ch. 3 Pt. 36 inserted (25.11.2008) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2008 (S.S.I. 2008/365)](https://www.legislation.gov.uk/ssi/2008/365), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2008/365/paragraph/1/2), [6](https://www.legislation.gov.uk/ssi/2008/365/paragraph/6)
+[^c-6754ba6f6020358f1c36dfbf3c1ba0c1]: Textual amendment: Ch. 3 Pt. 36 inserted (25.11.2008) by [Act of Sederunt (Sheriff Court Rules) (Miscellaneous Amendments) (No. 2) 2008 (S.S.I. 2008/365)](https://www.legislation.gov.uk/ssi/2008/365), [paras. 1(2)](https://www.legislation.gov.uk/ssi/2008/365/paragraph/1/2), [6](https://www.legislation.gov.uk/ssi/2008/365/paragraph/6)

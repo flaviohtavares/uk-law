@@ -45,13 +45,13 @@ Coming into force
 
 The Welsh Ministers make the following Regulations in exercise of the powers conferred on them by sections 94(3) and 256(1) of the Renting Homes (Wales) Act 2016[^f00001].
 
-## 1. Title and commencement[^key-e8d565d2901d7a3c3d00ca40811d8aa8]
+## 1. Title and commencement[^c-e8d565d2901d7a3c3d00ca40811d8aa8]
 
 (1) The title of these Regulations is the Renting Homes (Fitness for Human Habitation) (Wales) (Amendment) Regulations 2022.
 
 (2) These Regulations come into force on 30 November 2022.
 
-## 2. Amendment to the Renting Homes (Fitness for Human Habitation) (Wales) Regulations 2022[^key-4855958bd73f0b189ac49bb3fcf093bc]
+## 2. Amendment to the Renting Homes (Fitness for Human Habitation) (Wales) Regulations 2022[^c-4855958bd73f0b189ac49bb3fcf093bc]
 
 (1) The Renting Homes (Fitness for Human Habitation) (Wales) Regulations 2022[^f00002] are amended as follows.
 
@@ -90,9 +90,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00001]: Footnote: [2016 anaw 1](https://www.legislation.gov.uk/anaw/2016/1).
 
-[^key-e8d565d2901d7a3c3d00ca40811d8aa8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/1076/regulation/1) in force at 30.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1076/regulation/1/2)
+[^c-e8d565d2901d7a3c3d00ca40811d8aa8]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2022/1076/regulation/1) in force at 30.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1076/regulation/1/2)
 
-[^key-4855958bd73f0b189ac49bb3fcf093bc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/1076/regulation/2) in force at 30.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1076/regulation/1/2)
+[^c-4855958bd73f0b189ac49bb3fcf093bc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2022/1076/regulation/2) in force at 30.11.2022, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/1076/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2022/6 (W. 4)](https://www.legislation.gov.uk/wsi/2022/6).
 

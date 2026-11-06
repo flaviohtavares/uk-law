@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 19. The “general functions” of mayors[^key-b3fd36153fed530764aafbc7487c0420]
+## 19. The “general functions” of mayors[^c-b3fd36153fed530764aafbc7487c0420]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3fd36153fed530764aafbc7487c0420]: Commencement: S. 19 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-b3fd36153fed530764aafbc7487c0420]: Commencement: S. 19 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

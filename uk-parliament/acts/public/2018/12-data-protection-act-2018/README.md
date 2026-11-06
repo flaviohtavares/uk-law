@@ -34,7 +34,7 @@ An Act to make provision for the regulation of the processing of information rel
 
 \[23rd May 2018\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-f78da6f023a80509141fa555013b5b91][^key-e2376d4e7ebdd9a757cdbb27840c896f][^key-953b9df49e10ea57d7c67ec16df9d1c0][^key-ce61eaf66563099c85e4f387c32e5c33][^key-cb2511796c16bd899c755ab035c92cf8][^key-6ba7f5fc21c3deb0d65124e3508f832f][^key-8684c5d8cf32bbe5d961df142ff5d207][^key-fd7d8643e5cf863864df9476b9a7e1d8]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-f78da6f023a80509141fa555013b5b91][^c-e2376d4e7ebdd9a757cdbb27840c896f][^c-953b9df49e10ea57d7c67ec16df9d1c0][^c-ce61eaf66563099c85e4f387c32e5c33][^c-cb2511796c16bd899c755ab035c92cf8][^c-6ba7f5fc21c3deb0d65124e3508f832f][^c-8684c5d8cf32bbe5d961df142ff5d207][^c-fd7d8643e5cf863864df9476b9a7e1d8]
 
 ## Contents
 
@@ -51,9 +51,9 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 4 — Processing to which this Part applies](part-2/section-4.md)
 - [Section 5 — Definitions](part-2/section-5.md)
 
-#### CHAPTER 2 — The UK GDPR[^key-450c7b25512dedb58adb3ea87cb6ba20]
+#### CHAPTER 2 — The UK GDPR[^c-450c7b25512dedb58adb3ea87cb6ba20]
 
-##### Meaning of certain terms used in the UK GDPR[^key-8b51cd157e46935889ef5f9158b92e3a]
+##### Meaning of certain terms used in the UK GDPR[^c-8b51cd157e46935889ef5f9158b92e3a]
 
 - [Section 6 — Meaning of “controller”](part-2/section-6.md)
 - [Section 7 — Meaning of “public authority” and “public body”](part-2/section-7.md)
@@ -63,7 +63,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 8 — Lawfulness of processing: public interest etc](part-2/section-8.md)
 - [Section 9 — Child's consent in relation to information society services](part-2/section-9.md)
 
-##### Relevant international law[^key-59c00d0f4b9012edb2a6a3564ca2644d]
+##### Relevant international law[^c-59c00d0f4b9012edb2a6a3564ca2644d]
 
 - [Section 9A — Processing in reliance on relevant international law](part-2/section-9a.md)
 
@@ -79,23 +79,23 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 13A — Meaning of “relevant offence” for purpose of right to erasure](part-2/section-13a.md)
 - [Section 14 — Automated decision-making authorised by law: safeguards](part-2/section-14.md)
 
-##### Exemptions etc[^key-8d0a6b8a209b4ce122af409aeeba27bd]
+##### Exemptions etc[^c-8d0a6b8a209b4ce122af409aeeba27bd]
 
 - [Section 15 — Exemptions etc](part-2/section-15.md)
 - [Section 16 — Power to make further exemptions etc by regulations](part-2/section-16.md)
 
-##### Certification[^key-9ea61d1ece95e50cb79bdb1b64be7a03]
+##### Certification[^c-9ea61d1ece95e50cb79bdb1b64be7a03]
 
 - [Section 17 — Accreditation of certification providers](part-2/section-17.md)
 
-##### ...[^key-d9da4db861a50088202986f496b2f52f]
+##### ...[^c-d9da4db861a50088202986f496b2f52f]
 
 - [Section 17A — Transfers based on adequacy regulations](part-2/section-17a.md)
 - [Section 17B — Transfers based on adequacy regulations: review etc](part-2/section-17b.md)
 - [Section 17C — Standard data protection clauses](part-2/section-17c.md)
 - [Section 18 — Transfers of personal data to third countries etc : public interest](part-2/section-18.md)
 
-##### ...[^key-2289dc8b6eefe1d46d6a782ef7ea28b8]
+##### ...[^c-2289dc8b6eefe1d46d6a782ef7ea28b8]
 
 - [Section 19 — Processing for archiving, research and statistical purposes: safeguards](part-2/section-19.md)
 
@@ -103,13 +103,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 20 — Meaning of “court”](part-2/section-20.md)
 
-#### CHAPTER 3 — Exemptions for manual unstructured processing and for national security and defence purposes[^key-cdd8c10a5150531bb30b7690485fc5fc][^key-291309ec0bfa295d73c7089ca1b91dd5]
+#### CHAPTER 3 — Exemptions for manual unstructured processing and for national security and defence purposes[^c-cdd8c10a5150531bb30b7690485fc5fc][^c-291309ec0bfa295d73c7089ca1b91dd5]
 
-##### Definitions[^key-eced7daf0a93577817bcb97bd3948271]
+##### Definitions[^c-eced7daf0a93577817bcb97bd3948271]
 
 - [Section 21 — Definitions](part-2/section-21.md)
 
-##### ...[^key-63001065089a95390c38d674f45299f3]
+##### ...[^c-63001065089a95390c38d674f45299f3]
 
 - [Section 22 — Application of the GDPR to processing to which this Chapter applies](part-2/section-22.md)
 - [Section 23 — Power to make provision in consequence of regulations related to the GDPR](part-2/section-23.md)
@@ -165,11 +165,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 43 — Overview and scope](part-3/section-43.md)
 
-##### Data subject’s rights to information[^key-d148ab93ff75155701358f9231d9b294]
+##### Data subject’s rights to information[^c-d148ab93ff75155701358f9231d9b294]
 
 - [Section 44 — ... Controller's general duties](part-3/section-44.md)
 
-##### ...[^key-197984193b1a0c63c5cf1d6bdb297f95]
+##### ...[^c-197984193b1a0c63c5cf1d6bdb297f95]
 
 - [Section 45 — Right of access by the data subject](part-3/section-45.md)
 - [Section 45A — Exemption from sections 44 and 45: legal professional privilege](part-3/section-45a.md)
@@ -234,7 +234,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 70 — Position of data protection officer](part-3/section-70.md)
 - [Section 71 — Tasks of data protection officer](part-3/section-71.md)
 
-##### Codes of conduct[^key-3d53c868b8cc9dd299c7ae1b85106a23]
+##### Codes of conduct[^c-3d53c868b8cc9dd299c7ae1b85106a23]
 
 - [Section 71A — Codes of conduct](part-3/section-71a.md)
 
@@ -255,7 +255,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 75 — Transfers subject to appropriate safeguards](part-3/section-75.md)
 - [Section 76 — Transfers based on special circumstances](part-3/section-76.md)
 
-##### Additional conditions[^key-3039aa24ff9ca1b28fabc3817626b72d]
+##### Additional conditions[^c-3039aa24ff9ca1b28fabc3817626b72d]
 
 - [Section 77 — Additional conditions for transfers in reliance on section 73(4)(b)](part-3/section-77.md)
 
@@ -354,15 +354,15 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 112 — Other exemptions](part-4/section-112.md)
 - [Section 113 — Power to make further exemptions](part-4/section-113.md)
 
-### PART 5 — The Information Commission[^key-1ecad5e9871f13d9cd7d7b16b0161128][^M_C_704d53e5-8ea8-4eef-b22d-7f7de6543231][^key-f0336bebef2174085eb863038bf1be55]
+### PART 5 — The Information Commission[^c-1ecad5e9871f13d9cd7d7b16b0161128][^M_C_704d53e5-8ea8-4eef-b22d-7f7de6543231][^c-f0336bebef2174085eb863038bf1be55]
 
 *Extent: E+W+S+N.I.*
 
-#### ...[^key-514269bc9919a47bb63b8d9d098e98f6]
+#### ...[^c-514269bc9919a47bb63b8d9d098e98f6]
 
 - [Section 114 — The Information Commissioner](part-5/section-114.md)
 
-#### The Information Commission[^key-72ba0767b30e3e4aaa628d751ad94496]
+#### The Information Commission[^c-72ba0767b30e3e4aaa628d751ad94496]
 
 - [Section 114A — The Information Commission](part-5/section-114a.md)
 
@@ -379,7 +379,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 119A — Standard clauses for transfers to third countries etc](part-5/section-119a.md)
 - [Section 120 — Further international role](part-5/section-120.md)
 
-#### Duties in carrying out functions[^key-e8b323b611736c350bc88b75920a0a2e]
+#### Duties in carrying out functions[^c-e8b323b611736c350bc88b75920a0a2e]
 
 - [Section 120A — Principal objective](part-5/section-120a.md)
 - [Section 120B — Duties in relation to functions under the data protection legislation](part-5/section-120b.md)
@@ -408,7 +408,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 130 — Records of national security certificates](part-5/section-130.md)
 
-#### Information provided to the Commission[^key-67bb23015fa12f92c6400c70fb3e3d4a]
+#### Information provided to the Commission[^c-67bb23015fa12f92c6400c70fb3e3d4a]
 
 - [Section 131 — Disclosure of information to the Commission](part-5/section-131.md)
 - [Section 132 — Confidentiality of information](part-5/section-132.md)
@@ -432,13 +432,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 139 — Reporting to Parliament](part-5/section-139.md)
 - [Section 139A — Analysis of performance](part-5/section-139a.md)
 
-#### Documents and notices[^key-932fb2eb6cef1d6174f128001bbe0202]
+#### Documents and notices[^c-932fb2eb6cef1d6174f128001bbe0202]
 
 - [Section 140 — Publication by the Commission](part-5/section-140.md)
 - [Section 141 — Notices from the Commissioner](part-5/section-141.md)
 - [Section 141A — Notices from the Commission](part-5/section-141a.md)
 
-### PART 6 — Enforcement[^M_C_ce3cf4c2-3ef4-4e50-f9bc-ae0fefe190e5][^key-1ecad5e9871f13d9cd7d7b16b0161128]
+### PART 6 — Enforcement[^M_C_ce3cf4c2-3ef4-4e50-f9bc-ae0fefe190e5][^c-1ecad5e9871f13d9cd7d7b16b0161128]
 
 *Extent: E+W+S+N.I.*
 
@@ -463,7 +463,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 148 — Destroying or falsifying information and documents etc](part-6/section-148.md)
 
-#### Interview notices[^key-820044391a685be40d41c5c8cf8e22e4]
+#### Interview notices[^c-820044391a685be40d41c5c8cf8e22e4]
 
 - [Section 148A — Interview notices](part-6/section-148a.md)
 - [Section 148B — Interview notices: restrictions](part-6/section-148b.md)
@@ -489,7 +489,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 158 — Fixed penalties for non-compliance with charges regulations](part-6/section-158.md)
 - [Section 159 — Amount of penalties: supplementary](part-6/section-159.md)
 
-#### Guidance and report[^key-e73ac3d5a9d77806ecf02f4d54d01d6d]
+#### Guidance and report[^c-e73ac3d5a9d77806ecf02f4d54d01d6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -532,7 +532,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 178 — Review of processing of personal data for the purposes of journalism](part-6/section-178.md)
 - [Section 179 — Effectiveness of the media's dispute resolution procedures](part-6/section-179.md)
 
-#### Jurisdiction and court procedure[^key-aefe328365b9310832632a3f7bf664db]
+#### Jurisdiction and court procedure[^c-aefe328365b9310832632a3f7bf664db]
 
 - [Section 180 — Jurisdiction](part-6/section-180.md)
 - [Section 180A — Procedure in connection with subject access requests](part-6/section-180a.md)
@@ -541,7 +541,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 181 — Interpretation of Part 6](part-6/section-181.md)
 
-### PART 7 — Supplementary and final provision[^M_C_c0980dbb-b7ee-4cd8-b06a-ea02c9cd8f3e][^key-1ecad5e9871f13d9cd7d7b16b0161128]
+### PART 7 — Supplementary and final provision[^M_C_c0980dbb-b7ee-4cd8-b06a-ea02c9cd8f3e][^c-1ecad5e9871f13d9cd7d7b16b0161128]
 
 *Extent: E+W+S+N.I.*
 
@@ -553,7 +553,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 - [Section 183 — Power to reflect changes to the Data Protection Convention](part-7/section-183.md)
 
-#### Prohibitions and restrictions etc on processing[^key-e0bccd6b1e4e022c2e677ed1bdb9d8d1]
+#### Prohibitions and restrictions etc on processing[^c-e0bccd6b1e4e022c2e677ed1bdb9d8d1]
 
 - [Section 183A — Protection of prohibitions and restrictions etc on processing: relevant enactments](part-7/section-183a.md)
 - [Section 183B — Protection of prohibitions and restrictions etc on processing: other enactments](part-7/section-183b.md)
@@ -653,76 +653,76 @@ SCHEDULES
 
 ## Annotations
 
-[^key-f78da6f023a80509141fa555013b5b91]: Modification: Act modified (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/957/article/15/2)
+[^c-f78da6f023a80509141fa555013b5b91]: Modification: Act modified (23.5.2019) by [The Buckinghamshire (Structural Changes) Order 2019 (S.I. 2019/957)](https://www.legislation.gov.uk/uksi/2019/957), [arts. 1](https://www.legislation.gov.uk/uksi/2019/957/article/1), [15(2)](https://www.legislation.gov.uk/uksi/2019/957/article/15/2)
 
-[^key-e2376d4e7ebdd9a757cdbb27840c896f]: Modification: Act modified (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [17(2)(e)](https://www.legislation.gov.uk/uksi/2020/156/article/17/2/e)
+[^c-e2376d4e7ebdd9a757cdbb27840c896f]: Modification: Act modified (14.2.2020) by [The Northamptonshire (Structural Changes) Order 2020 (S.I. 2020/156)](https://www.legislation.gov.uk/uksi/2020/156), [arts. 1](https://www.legislation.gov.uk/uksi/2020/156/article/1), [17(2)(e)](https://www.legislation.gov.uk/uksi/2020/156/article/17/2/e)
 
-[^key-953b9df49e10ea57d7c67ec16df9d1c0]: Modification: Act excluded (30.9.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)[4(4)](https://www.legislation.gov.uk/uksi/2020/916/article/4/4)
+[^c-953b9df49e10ea57d7c67ec16df9d1c0]: Modification: Act excluded (30.9.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b)[4(4)](https://www.legislation.gov.uk/uksi/2020/916/article/4/4)
 
-[^key-ce61eaf66563099c85e4f387c32e5c33]: Modification: Act applied (30.9.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b), [4(3)](https://www.legislation.gov.uk/uksi/2020/916/article/4/3)
+[^c-ce61eaf66563099c85e4f387c32e5c33]: Modification: Act applied (30.9.2020) by [The Channel Tunnel (Arrangements with the Kingdom of the Netherlands) Order 2020 (S.I. 2020/916)](https://www.legislation.gov.uk/uksi/2020/916), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/916/article/1/2/b), [4(3)](https://www.legislation.gov.uk/uksi/2020/916/article/4/3)
 
-[^key-cb2511796c16bd899c755ab035c92cf8]: Modification: Act applied (31.12.2020) by Regulation (EU) No. 625/2017, Art. 143 (as substituted by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/27/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46)))
+[^c-cb2511796c16bd899c755ab035c92cf8]: Modification: Act applied (31.12.2020) by Regulation (EU) No. 625/2017, Art. 143 (as substituted by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/27/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46)))
 
-[^key-6ba7f5fc21c3deb0d65124e3508f832f]: Modification: Act applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [18(2)(e)](https://www.legislation.gov.uk/uksi/2022/331/article/18/2/e)
+[^c-6ba7f5fc21c3deb0d65124e3508f832f]: Modification: Act applied (18.3.2022) by [The Cumbria (Structural Changes) Order 2022 (S.I. 2022/331)](https://www.legislation.gov.uk/uksi/2022/331), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/331/article/1/1), [18(2)(e)](https://www.legislation.gov.uk/uksi/2022/331/article/18/2/e)
 
-[^key-8684c5d8cf32bbe5d961df142ff5d207]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2018/12) modified (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 25](https://www.legislation.gov.uk/ukpga/2022/5/section/25), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
+[^c-8684c5d8cf32bbe5d961df142ff5d207]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2018/12) modified (6.6.2022) by [Dormant Assets Act 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 25](https://www.legislation.gov.uk/ukpga/2022/5/section/25), [34(3)](https://www.legislation.gov.uk/ukpga/2022/5/section/34/3); [S.I. 2022/582](https://www.legislation.gov.uk/uksi/2022/582), [reg. 2](https://www.legislation.gov.uk/uksi/2022/582/regulation/2)
 
-[^key-fd7d8643e5cf863864df9476b9a7e1d8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2018/12) modified (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [28(2)(e)](https://www.legislation.gov.uk/uksi/2026/264/article/28/2/e), [40(2)(e)](https://www.legislation.gov.uk/uksi/2026/264/article/40/2/e)
+[^c-fd7d8643e5cf863864df9476b9a7e1d8]: Modification: [Act](https://www.legislation.gov.uk/ukpga/2018/12) modified (10.3.2026) by [The Surrey (Structural Changes) Order 2026 (S.I. 2026/264)](https://www.legislation.gov.uk/uksi/2026/264), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/264/article/1/1), [28(2)(e)](https://www.legislation.gov.uk/uksi/2026/264/article/28/2/e), [40(2)(e)](https://www.legislation.gov.uk/uksi/2026/264/article/40/2/e)
 
-[^key-450c7b25512dedb58adb3ea87cb6ba20]: Textual amendment: [Pt. 2 Ch. 2](https://www.legislation.gov.uk/ukpga/2018/12/part/2/chapter/2) heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/7) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-450c7b25512dedb58adb3ea87cb6ba20]: Textual amendment: [Pt. 2 Ch. 2](https://www.legislation.gov.uk/ukpga/2018/12/part/2/chapter/2) heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/7) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8b51cd157e46935889ef5f9158b92e3a]: Textual amendment: Words in [s. 6 cross-heading](https://www.legislation.gov.uk/ukpga/2018/12/part/2/chapter/2/crossheading/meaning-of-certain-terms-used-in-the-gdpr) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/8) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8b51cd157e46935889ef5f9158b92e3a]: Textual amendment: Words in [s. 6 cross-heading](https://www.legislation.gov.uk/ukpga/2018/12/part/2/chapter/2/crossheading/meaning-of-certain-terms-used-in-the-gdpr) substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/8) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-59c00d0f4b9012edb2a6a3564ca2644d]: Textual amendment: [S. 9A and cross-heading](https://www.legislation.gov.uk/ukpga/2018/12/chapter/2/crossheading/relevant-international-law) inserted (19.6.2025 for specified purposes, 20.8.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 72(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/b); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/e)
+[^c-59c00d0f4b9012edb2a6a3564ca2644d]: Textual amendment: [S. 9A and cross-heading](https://www.legislation.gov.uk/ukpga/2018/12/chapter/2/crossheading/relevant-international-law) inserted (19.6.2025 for specified purposes, 20.8.2025 for specified purposes, 5.2.2026 in so far as not already in force) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 72(7)](https://www.legislation.gov.uk/ukpga/2025/18/section/72/7), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)[(2)(h)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/2/h); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/b); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/e)
 
-[^key-8d0a6b8a209b4ce122af409aeeba27bd]: Textual amendment: S. 15 cross-heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/18) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8d0a6b8a209b4ce122af409aeeba27bd]: Textual amendment: S. 15 cross-heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 18](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/18) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9ea61d1ece95e50cb79bdb1b64be7a03]: Textual amendment: S. 17 cross-heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/21) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9ea61d1ece95e50cb79bdb1b64be7a03]: Textual amendment: S. 17 cross-heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 21](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/21) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d9da4db861a50088202986f496b2f52f]: Textual amendment: S. 17A and cross-heading omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2025/18/schedule/9/paragraph/12) (with [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/9/part/2)); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z11)
+[^c-d9da4db861a50088202986f496b2f52f]: Textual amendment: S. 17A and cross-heading omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 9 para. 12](https://www.legislation.gov.uk/ukpga/2025/18/schedule/9/paragraph/12) (with [Sch. 9 Pt. 2](https://www.legislation.gov.uk/ukpga/2025/18/schedule/9/part/2)); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z11)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z11)
 
-[^key-2289dc8b6eefe1d46d6a782ef7ea28b8]: Textual amendment: S. 19 and cross-heading omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/6), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
+[^c-2289dc8b6eefe1d46d6a782ef7ea28b8]: Textual amendment: S. 19 and cross-heading omitted (5.2.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 86(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/86/6), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(n)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/n)
 
-[^key-cdd8c10a5150531bb30b7690485fc5fc]: Modification: Pt. 2 Ch. 3 applied (31.12.2020) by Regulation (EU) No. 625/2017, Art. 143 (as substituted by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/27/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46)))
+[^c-cdd8c10a5150531bb30b7690485fc5fc]: Modification: Pt. 2 Ch. 3 applied (31.12.2020) by Regulation (EU) No. 625/2017, Art. 143 (as substituted by [The Official Controls (Animals, Feed and Food, Plant Health etc.) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1481)](https://www.legislation.gov.uk/uksi/2020/1481), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1481/regulation/1), [27(3)](https://www.legislation.gov.uk/uksi/2020/1481/regulation/27/3) (with [reg. 46](https://www.legislation.gov.uk/uksi/2020/1481/regulation/46)))
 
-[^key-291309ec0bfa295d73c7089ca1b91dd5]: Textual amendment: Pt. 2 Ch. 3 heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/27) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-291309ec0bfa295d73c7089ca1b91dd5]: Textual amendment: Pt. 2 Ch. 3 heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 27](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/27) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eced7daf0a93577817bcb97bd3948271]: Textual amendment: S. 21 cross-heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/28) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eced7daf0a93577817bcb97bd3948271]: Textual amendment: S. 21 cross-heading substituted (31.12.2020) by [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 28](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/28) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-63001065089a95390c38d674f45299f3]: Textual amendment: S. 22 and cross-heading omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/30) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-63001065089a95390c38d674f45299f3]: Textual amendment: S. 22 and cross-heading omitted (31.12.2020) by virtue of [The Data Protection, Privacy and Electronic Communications (Amendments etc) (EU Exit) Regulations 2019 (S.I. 2019/419)](https://www.legislation.gov.uk/uksi/2019/419), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/419/regulation/1/2), [Sch. 2 para. 30](https://www.legislation.gov.uk/uksi/2019/419/schedule/2/paragraph/30) (with [reg. 5](https://www.legislation.gov.uk/uksi/2019/419/regulation/5)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d148ab93ff75155701358f9231d9b294]: Textual amendment: S. 44 cross-heading substituted (5.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 79(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/79/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/996/regulation/3))
+[^c-d148ab93ff75155701358f9231d9b294]: Textual amendment: S. 44 cross-heading substituted (5.9.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 79(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/79/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/996/regulation/3))
 
-[^key-197984193b1a0c63c5cf1d6bdb297f95]: Textual amendment: S. 45 cross-heading omitted (5.9.2025) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 79(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/79/5), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/996/regulation/3))
+[^c-197984193b1a0c63c5cf1d6bdb297f95]: Textual amendment: S. 45 cross-heading omitted (5.9.2025) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 79(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/79/5), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/996](https://www.legislation.gov.uk/uksi/2025/996), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2025/996/regulation/2/1/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/996/regulation/3))
 
-[^key-3d53c868b8cc9dd299c7ae1b85106a23]: Textual amendment: S. 71A and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 84(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/84/6), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/d)
+[^c-3d53c868b8cc9dd299c7ae1b85106a23]: Textual amendment: S. 71A and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 84(6)](https://www.legislation.gov.uk/ukpga/2025/18/section/84/6), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/d)
 
-[^key-3039aa24ff9ca1b28fabc3817626b72d]: Textual amendment: S. 77 cross-heading substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/8/paragraph/8); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z10)
+[^c-3039aa24ff9ca1b28fabc3817626b72d]: Textual amendment: S. 77 cross-heading substituted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 8 para. 8](https://www.legislation.gov.uk/ukpga/2025/18/schedule/8/paragraph/8); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(z10)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/z10)
 
-[^key-1ecad5e9871f13d9cd7d7b16b0161128]: Modification: [Pts. 5-7](https://www.legislation.gov.uk/ukpga/2018/12/part/5) applied in part (with modifications) (5.2.2026) by [S.I. 2003/2426](https://www.legislation.gov.uk/uksi/2003/2426), [reg. 31](https://www.legislation.gov.uk/uksi/2003/2426/regulation/31), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2426/schedule/1) (as substituted by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 115(5)(8)](https://www.legislation.gov.uk/ukpga/2025/18/section/115/5/8), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2025/18/schedule/13); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(y)(z14)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/y/z14) (with [regs. 8-11](https://www.legislation.gov.uk/uksi/2026/82/regulation/8)) and as amended (30.9.2026) by [S.I. 2026/386](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/6/3), (4)(j); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c))
+[^c-1ecad5e9871f13d9cd7d7b16b0161128]: Modification: [Pts. 5-7](https://www.legislation.gov.uk/ukpga/2018/12/part/5) applied in part (with modifications) (5.2.2026) by [S.I. 2003/2426](https://www.legislation.gov.uk/uksi/2003/2426), [reg. 31](https://www.legislation.gov.uk/uksi/2003/2426/regulation/31), [Sch. 1](https://www.legislation.gov.uk/uksi/2003/2426/schedule/1) (as substituted by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 115(5)(8)](https://www.legislation.gov.uk/ukpga/2025/18/section/115/5/8), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1), [Sch. 13](https://www.legislation.gov.uk/ukpga/2025/18/schedule/13); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(y)(z14)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/y/z14) (with [regs. 8-11](https://www.legislation.gov.uk/uksi/2026/82/regulation/8)) and as amended (30.9.2026) by [S.I. 2026/386](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 6(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/6/3), (4)(j); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c))
 
 [^M_C_704d53e5-8ea8-4eef-b22d-7f7de6543231]: Modification: Pt. 5 applied in part (with modifications) by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/696/schedule/2) (as substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 406](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/406) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/625/regulation/4)))
 
-[^key-f0336bebef2174085eb863038bf1be55]: Textual amendment: Word in Pt. 5 heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-f0336bebef2174085eb863038bf1be55]: Textual amendment: Word in Pt. 5 heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-514269bc9919a47bb63b8d9d098e98f6]: Textual amendment: S. 114 and cross-heading omitted (30.9.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 118(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/118/4), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1015/regulation/3))
+[^c-514269bc9919a47bb63b8d9d098e98f6]: Textual amendment: S. 114 and cross-heading omitted (30.9.2026) by virtue of [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 118(4)](https://www.legislation.gov.uk/ukpga/2025/18/section/118/4), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2026/1015/regulation/3))
 
-[^key-72ba0767b30e3e4aaa628d751ad94496]: Textual amendment: S. 114A and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/117/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/r)
+[^c-72ba0767b30e3e4aaa628d751ad94496]: Textual amendment: S. 114A and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 117(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/117/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/r)
 
-[^key-e8b323b611736c350bc88b75920a0a2e]: Textual amendment: Ss. 120A-120D and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 91(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/91/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1) (with [s. 91(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/91/5)); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/e)
+[^c-e8b323b611736c350bc88b75920a0a2e]: Textual amendment: Ss. 120A-120D and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 91(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/91/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1) (with [s. 91(5)](https://www.legislation.gov.uk/ukpga/2025/18/section/91/5)); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/e)
 
-[^key-67bb23015fa12f92c6400c70fb3e3d4a]: Textual amendment: Word in s. 131 cross-heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
+[^c-67bb23015fa12f92c6400c70fb3e3d4a]: Textual amendment: Word in s. 131 cross-heading substituted (30.9.2026) by [The Data (Use and Access) Act 2025 (Consequential Amendments and Transitional Provision) Regulations 2026 (S.I. 2026/386)](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 2 para. 23(2)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/2)[(3)](https://www.legislation.gov.uk/uksi/2026/386/schedule/2/paragraph/23/3); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c)
 
-[^key-932fb2eb6cef1d6174f128001bbe0202]: Textual amendment: S. 140 cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 95](https://www.legislation.gov.uk/ukpga/2025/18/section/95), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/h)
+[^c-932fb2eb6cef1d6174f128001bbe0202]: Textual amendment: S. 140 cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 95](https://www.legislation.gov.uk/ukpga/2025/18/section/95), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(h)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/h)
 
 [^M_C_ce3cf4c2-3ef4-4e50-f9bc-ae0fefe190e5]: Modification: [Pt. 6](https://www.legislation.gov.uk/ukpga/2018/12/part/6) applied in part (with modifications) by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/696/schedule/2) (as substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 406](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/406) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/625/regulation/4)); and as amended (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 105](https://www.legislation.gov.uk/ukpga/2025/18/section/105), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(u)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/u); and (30.9.2026) by [S.I. 2026/386](https://www.legislation.gov.uk/uksi/2026/386), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/386/regulation/1/2), [Sch. 3 para. 19(3)(c)](https://www.legislation.gov.uk/uksi/2026/386/schedule/3/paragraph/19/3/c); [S.I. 2026/1015](https://www.legislation.gov.uk/uksi/2026/1015), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2026/1015/regulation/2/c))
 
-[^key-820044391a685be40d41c5c8cf8e22e4]: Textual amendment: Ss. 148A-148C and cross-heading inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/100/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)
+[^c-820044391a685be40d41c5c8cf8e22e4]: Textual amendment: Ss. 148A-148C and cross-heading inserted (5.2.2026) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 100(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/100/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)
 
-[^key-e73ac3d5a9d77806ecf02f4d54d01d6d]: Textual amendment: Words in s. 160 cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 102(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/102/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/i)
+[^c-e73ac3d5a9d77806ecf02f4d54d01d6d]: Textual amendment: Words in s. 160 cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 102(3)](https://www.legislation.gov.uk/ukpga/2025/18/section/102/3), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/i)
 
-[^key-aefe328365b9310832632a3f7bf664db]: Textual amendment: [S. 180 cross-heading](https://www.legislation.gov.uk/ukpga/2018/12/part/6/crossheading/jurisdiction-of-courts) substituted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/104/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/j)
+[^c-aefe328365b9310832632a3f7bf664db]: Textual amendment: [S. 180 cross-heading](https://www.legislation.gov.uk/ukpga/2018/12/part/6/crossheading/jurisdiction-of-courts) substituted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 104(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/104/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/j)
 
 [^M_C_c0980dbb-b7ee-4cd8-b06a-ea02c9cd8f3e]: Modification: Pt. 7 applied in part (with modifications) by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696), [Sch. 2](https://www.legislation.gov.uk/uksi/2016/696/schedule/2) (as substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 406](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/406) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g) (with [reg. 4](https://www.legislation.gov.uk/uksi/2018/625/regulation/4)))
 
-[^key-e0bccd6b1e4e022c2e677ed1bdb9d8d1]: Textual amendment: S. 183A and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/106/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/k)
+[^c-e0bccd6b1e4e022c2e677ed1bdb9d8d1]: Textual amendment: S. 183A and cross-heading inserted (20.8.2025) by [Data (Use and Access) Act 2025 (c. 18)](https://www.legislation.gov.uk/ukpga/2025/18), [ss. 106(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/106/2), [142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1); [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(k)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/k)

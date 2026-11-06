@@ -22,7 +22,7 @@ summary: ''
 
 (1) Securities of a company are special securities for the purposes of paragraph F in section 1000(1) if they meet any of conditions A to E.
 
-(1A)[^key-02f8d75a1ee9493bde3bcab3044bbdfa] But hybrid capital instruments (within the meaning of section 475C of CTA 2009) are not special securities by reason of meeting condition E.
+(1A)[^c-02f8d75a1ee9493bde3bcab3044bbdfa] But hybrid capital instruments (within the meaning of section 475C of CTA 2009) are not special securities by reason of meeting condition E.
 
 (2) Condition A is that the securities are issued as described in paragraph D in section 1000(1) (securities issued otherwise than for new consideration).
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-02f8d75a1ee9493bde3bcab3044bbdfa]: Textual amendment: [S. 1015(1A)](https://www.legislation.gov.uk/ukpga/2010/4/section/1015/1A) inserted (with effect in accordance with Sch. 20 paras. 10(a), 16 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/4)
+[^c-02f8d75a1ee9493bde3bcab3044bbdfa]: Textual amendment: [S. 1015(1A)](https://www.legislation.gov.uk/ukpga/2010/4/section/1015/1A) inserted (with effect in accordance with Sch. 20 paras. 10(a), 16 of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 20 para. 4](https://www.legislation.gov.uk/ukpga/2019/1/schedule/20/paragraph/4)

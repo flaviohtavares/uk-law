@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Information disclosed by Revenue Scotland[^key-c20e150c57b52cd34d3a969685f97fc5]
+## 48. Information disclosed by Revenue Scotland[^c-c20e150c57b52cd34d3a969685f97fc5]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c20e150c57b52cd34d3a969685f97fc5]: Commencement: S. 48 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-c20e150c57b52cd34d3a969685f97fc5]: Commencement: S. 48 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 66. Corporation tax receipts under ICTA treated as taxed receipts[^key-2188f14f55b29361cde954d42a726302]
+## 66. Corporation tax receipts under ICTA treated as taxed receipts[^c-2188f14f55b29361cde954d42a726302]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Section 296 (corporation tax receipts treated as taxed receipts applies for the 
 
 ## Annotations
 
-[^key-2188f14f55b29361cde954d42a726302]: Textual amendment: Words in s. 66 title inserted (1.4.2009) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 594](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/594) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-2188f14f55b29361cde954d42a726302]: Textual amendment: Words in s. 66 title inserted (1.4.2009) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 594](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/594) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

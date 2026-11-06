@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Public rights of way to be temporarily restricted[^key-619b127660f2396a3b8f64112ca407f0]
+## SCHEDULE 5 — Public rights of way to be temporarily restricted[^c-619b127660f2396a3b8f64112ca407f0]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ Article 12
 
 ## Annotations
 
-[^key-619b127660f2396a3b8f64112ca407f0]: Commencement: Sch. 5 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)
+[^c-619b127660f2396a3b8f64112ca407f0]: Commencement: Sch. 5 in force at 1.5.2025, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/509/article/1/2)

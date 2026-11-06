@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75BA. Power to publish UK ETS information[^key-32d1e9a7500b987097d32343dab2e5ec]
+## 75BA. Power to publish UK ETS information[^c-32d1e9a7500b987097d32343dab2e5ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-32d1e9a7500b987097d32343dab2e5ec]: Textual amendment: [Art. 75BA](https://www.legislation.gov.uk/uksi/2020/1265/article/75BA) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [11](https://www.legislation.gov.uk/uksi/2022/1173/article/11)
+[^c-32d1e9a7500b987097d32343dab2e5ec]: Textual amendment: [Art. 75BA](https://www.legislation.gov.uk/uksi/2020/1265/article/75BA) inserted (1.1.2023) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (No. 2) Order 2022 (S.I. 2022/1173)](https://www.legislation.gov.uk/uksi/2022/1173), [arts. 2](https://www.legislation.gov.uk/uksi/2022/1173/article/2), [11](https://www.legislation.gov.uk/uksi/2022/1173/article/11)

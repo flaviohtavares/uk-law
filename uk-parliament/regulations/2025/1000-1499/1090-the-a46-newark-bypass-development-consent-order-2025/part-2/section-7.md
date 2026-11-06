@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 7. Application of the 1990 Act[^key-a706ab2b8193c7528eb16f35cb0fa015]
+## 7. Application of the 1990 Act[^c-a706ab2b8193c7528eb16f35cb0fa015]
 
 *Extent: E+W*
 
@@ -24,13 +24,13 @@ summary: ''
 
 (2) Where this article applies, section 57(2) (planning permission required for development) of the 1990 Act applies as if the development consent granted by this Order were planning permission granted for a limited period.
 
-(3)[^key-3c27f41867f62a155cd8f16899a87252] In this article, “the temporary works” means—
+(3)[^c-3c27f41867f62a155cd8f16899a87252] In this article, “the temporary works” means—
 
 - (a) those works described for Work Nos. 10 to 11, 21, 25, 28, 47, 59, 65, 68, 85, 92, 106 and 126 to 128 in Schedule 1; or
 - (b) temporary works carried out as part of “other associated development” in connection with the Work Nos. in Schedule 1.
 
 ## Annotations
 
-[^key-a706ab2b8193c7528eb16f35cb0fa015]: Commencement: Art. 7 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-a706ab2b8193c7528eb16f35cb0fa015]: Commencement: Art. 7 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-3c27f41867f62a155cd8f16899a87252]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/uksi/2025/1090/article/7/3) substituted (12.1.2026) by [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)
+[^c-3c27f41867f62a155cd8f16899a87252]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/uksi/2025/1090/article/7/3) substituted (12.1.2026) by [The A46 Newark Bypass Development Consent (Correction) Order 2026 (S.I. 2026/16)](https://www.legislation.gov.uk/uksi/2026/16), [art. 1](https://www.legislation.gov.uk/uksi/2026/16/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/16/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Amendment of the Police (Northern Ireland) Act 1998[^key-ceec1bdeba71a419625498b85d1ca52a]
+## 68. Amendment of the Police (Northern Ireland) Act 1998[^c-ceec1bdeba71a419625498b85d1ca52a]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ceec1bdeba71a419625498b85d1ca52a]: Commencement: Reg. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ceec1bdeba71a419625498b85d1ca52a]: Commencement: Reg. 68 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691631]: Marginal citation: [1998 c. 32](https://www.legislation.gov.uk/ukpga/1998/32). Section 29(7) was inserted by section 103(5) of the PRA 2002 and amended by [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976), and section 66(6) was inserted by section 104(3) of the PRA 2002 and amended by [S.I. 2010/976](https://www.legislation.gov.uk/uksi/2010/976).

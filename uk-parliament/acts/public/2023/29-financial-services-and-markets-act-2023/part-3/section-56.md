@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 56. Recognised bodies: senior managers and certification[^key-119cb1d6c200e31162370ad7be70a60f]
+## 56. Recognised bodies: senior managers and certification[^c-119cb1d6c200e31162370ad7be70a60f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 10 amends FSMA 2000 to make provision about the performance, by senior 
 
 ## Annotations
 
-[^key-119cb1d6c200e31162370ad7be70a60f]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)
+[^c-119cb1d6c200e31162370ad7be70a60f]: Commencement: S. 56 in force at Royal Assent for specified purposes, see [s. 86(1)(e)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/e)

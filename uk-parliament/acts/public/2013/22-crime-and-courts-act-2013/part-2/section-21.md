@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Deployment of the judiciary[^key-d02169dd6683eb5b47b667e221f14263]
+## 21. Deployment of the judiciary[^c-d02169dd6683eb5b47b667e221f14263]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d02169dd6683eb5b47b667e221f14263]: Commencement: S. 21 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/b)
+[^c-d02169dd6683eb5b47b667e221f14263]: Commencement: S. 21 in force at 1.10.2013 by [S.I. 2013/2200](https://www.legislation.gov.uk/uksi/2013/2200), [art. 3(b)](https://www.legislation.gov.uk/uksi/2013/2200/article/3/b)

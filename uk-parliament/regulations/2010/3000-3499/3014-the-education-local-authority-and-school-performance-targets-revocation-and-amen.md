@@ -46,15 +46,15 @@ Coming into force
 
 The Secretary of State for Education makes the following Regulations in exercise of the powers conferred by sections 29(3) and 569(4) of the Education Act 1996[^f00001], section 19 of the Education Act 1997[^f00002] and sections 102 and 120 of the Education Act 2005[^f00003].
 
-## 1. Citation and commencement[^key-600893ea2762608184c944261364e908]
+## 1. Citation and commencement[^c-600893ea2762608184c944261364e908]
 
 These Regulations may be cited as the Education (Local Authority and School Performance Targets) (Revocation and Amendment) (England) Regulations 2010 and come into force on 30th January 2011.
 
-## 2. Revocation[^key-6f86a9eeedfed6b7e92010eadbc6b277]
+## 2. Revocation[^c-6f86a9eeedfed6b7e92010eadbc6b277]
 
 The Regulations listed in the first column of the Schedule are revoked to the extent set out in the third column.
 
-## 3. Amendment of the Education (School Performance Targets) (England) Regulations 2004[^key-cd420b0865daf4fc388b511e45944b8a]
+## 3. Amendment of the Education (School Performance Targets) (England) Regulations 2004[^c-cd420b0865daf4fc388b511e45944b8a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -66,7 +66,7 @@ Department for Education
 
 20th December 2010
 
-## SCHEDULE[^key-84cfa77f2f5e668e9fd639d5024f6e89]
+## SCHEDULE[^c-84cfa77f2f5e668e9fd639d5024f6e89]
 
 Regulation 2
 
@@ -102,10 +102,10 @@ No impact assessment has been produced for this instrument because no impact on 
 
 [^f00003]: Footnote: [2005 c.18](https://www.legislation.gov.uk/ukpga/2005/18).
 
-[^key-600893ea2762608184c944261364e908]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/3014/regulation/1) in force at 30.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3014/regulation/1)
+[^c-600893ea2762608184c944261364e908]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2010/3014/regulation/1) in force at 30.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3014/regulation/1)
 
-[^key-6f86a9eeedfed6b7e92010eadbc6b277]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/3014/regulation/2) in force at 30.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3014/regulation/1)
+[^c-6f86a9eeedfed6b7e92010eadbc6b277]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2010/3014/regulation/2) in force at 30.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3014/regulation/1)
 
-[^key-cd420b0865daf4fc388b511e45944b8a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/3014/regulation/3) revoked (1.9.2011) by [The Education (School Performance Targets) (England) (Revocation) Regulations 2011 (S.I. 2011/937)](https://www.legislation.gov.uk/uksi/2011/937), [reg. 1](https://www.legislation.gov.uk/uksi/2011/937/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/937/schedule)
+[^c-cd420b0865daf4fc388b511e45944b8a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2010/3014/regulation/3) revoked (1.9.2011) by [The Education (School Performance Targets) (England) (Revocation) Regulations 2011 (S.I. 2011/937)](https://www.legislation.gov.uk/uksi/2011/937), [reg. 1](https://www.legislation.gov.uk/uksi/2011/937/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2011/937/schedule)
 
-[^key-84cfa77f2f5e668e9fd639d5024f6e89]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2010/3014/schedule) in force at 30.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3014/regulation/1)
+[^c-84cfa77f2f5e668e9fd639d5024f6e89]: Commencement: [Sch.](https://www.legislation.gov.uk/uksi/2010/3014/schedule) in force at 30.1.2011, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/3014/regulation/1)

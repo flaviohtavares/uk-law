@@ -36,7 +36,7 @@ summary: ''
 
 - (a) that the vendor was granting a lease with vacant posession for the appropriate term defined in paragraph 12 of Schedule 6 (but subject to sub-paragraph (3) of that paragraph).
 - (b) that neither the tenant nor a member of his family residing with him wanted to take the lease,
-- (c) that the ground rent would not exceed £10 per annum or, if the lease would be a regulated lease within the meaning of the Leasehold Reform (Ground Rent) Act 2022, the rent permitted by that Act[^key-151614b7f57dfd2c81d1d6ec775bc132], and
+- (c) that the ground rent would not exceed £10 per annum or, if the lease would be a regulated lease within the meaning of the Leasehold Reform (Ground Rent) Act 2022, the rent permitted by that Act[^c-151614b7f57dfd2c81d1d6ec775bc132], and
 - (d) that the grant was to be made with the same rights and subject to the same burdens as it would be in pursuance of this Part.
 
 (4) The persons referred to in subsection (1)(b) are—
@@ -55,7 +55,7 @@ but do not include, in a case where the secure tenant’s tenancy has at any tim
 
 [^c15063971]: Textual amendment: Word and s. 127(1)(c) inserted by [Housing and Planning Act 1986 (c. 63, SIF 61)](https://www.legislation.gov.uk/ukpga/1986/63), [s. 4(3)(6)](https://www.legislation.gov.uk/ukpga/1986/63/section/4/3/6)
 
-[^key-151614b7f57dfd2c81d1d6ec775bc132]: Textual amendment: Words in [s. 127(3)(c)](https://www.legislation.gov.uk/ukpga/1985/68/section/127/3/c) inserted (30.6.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Leasehold Reform (Ground Rent) Act 2022 (c. 1)](https://www.legislation.gov.uk/ukpga/2022/1), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/19/2), [25(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/25/2) (with [s. 23](https://www.legislation.gov.uk/ukpga/2022/1/section/23)); [S.I. 2022/694](https://www.legislation.gov.uk/uksi/2022/694), [regs. 2](https://www.legislation.gov.uk/uksi/2022/694/regulation/2), [3](https://www.legislation.gov.uk/uksi/2022/694/regulation/3), [4](https://www.legislation.gov.uk/uksi/2022/694/regulation/4)
+[^c-151614b7f57dfd2c81d1d6ec775bc132]: Textual amendment: Words in [s. 127(3)(c)](https://www.legislation.gov.uk/ukpga/1985/68/section/127/3/c) inserted (30.6.2022 for specified purposes, 1.4.2023 in so far as not already in force) by [Leasehold Reform (Ground Rent) Act 2022 (c. 1)](https://www.legislation.gov.uk/ukpga/2022/1), [ss. 19(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/19/2), [25(2)](https://www.legislation.gov.uk/ukpga/2022/1/section/25/2) (with [s. 23](https://www.legislation.gov.uk/ukpga/2022/1/section/23)); [S.I. 2022/694](https://www.legislation.gov.uk/uksi/2022/694), [regs. 2](https://www.legislation.gov.uk/uksi/2022/694/regulation/2), [3](https://www.legislation.gov.uk/uksi/2022/694/regulation/3), [4](https://www.legislation.gov.uk/uksi/2022/694/regulation/4)
 
 [^c15063981]: Textual amendment: Words in s. 127(4)(b) inserted (12.2.1997) by [S.I. 1997/74](https://www.legislation.gov.uk/uksi/1997/74), [art. 2](https://www.legislation.gov.uk/uksi/1997/74/article/2), [Sch. para. 3(j)(i)](https://www.legislation.gov.uk/uksi/1997/74/schedule/paragraph/3/j/i)
 

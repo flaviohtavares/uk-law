@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 49. Approval of courses for best interests assessors[^key-8f253e73da195599f2cd17641aaa631a]
+## 49. Approval of courses for best interests assessors[^c-8f253e73da195599f2cd17641aaa631a]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f253e73da195599f2cd17641aaa631a]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2017/16/section/49) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(q)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/q)
+[^c-8f253e73da195599f2cd17641aaa631a]: Commencement: [S. 49](https://www.legislation.gov.uk/ukpga/2017/16/section/49) in force at 1.4.2018 by [S.I. 2018/346](https://www.legislation.gov.uk/uksi/2018/346), [reg. 4(q)](https://www.legislation.gov.uk/uksi/2018/346/regulation/4/q)

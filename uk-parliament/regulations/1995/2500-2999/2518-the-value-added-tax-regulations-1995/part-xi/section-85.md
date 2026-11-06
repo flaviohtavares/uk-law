@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Leases treated as supplies of goods[^key-581e6a5c79efb377c2cc5b66fcdc1037]
+## 85. Leases treated as supplies of goods[^c-581e6a5c79efb377c2cc5b66fcdc1037]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ goods shall be treated as separately and successively supplied each time that a 
 
 ## Annotations
 
-[^key-581e6a5c79efb377c2cc5b66fcdc1037]: Commencement: Reg. 85 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)
+[^c-581e6a5c79efb377c2cc5b66fcdc1037]: Commencement: Reg. 85 in force at 20.10.1995, see [reg. 1](https://www.legislation.gov.uk/uksi/1995/2518/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Power to take out insurance[^key-bd67232606ec00ad2a7775fff7568811]
+## 17. Power to take out insurance[^c-bd67232606ec00ad2a7775fff7568811]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bd67232606ec00ad2a7775fff7568811]: Commencement: S. 17 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-bd67232606ec00ad2a7775fff7568811]: Commencement: S. 17 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

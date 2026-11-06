@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Requirement to submit supervisory return[^c24459041][^key-f19a7287377855e1b97a25a364139c7b]
+## 27. Requirement to submit supervisory return[^c24459041][^c-f19a7287377855e1b97a25a364139c7b]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c24459041]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2021/1/section/27) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-f19a7287377855e1b97a25a364139c7b]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2021/1/section/27) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-f19a7287377855e1b97a25a364139c7b]: Commencement: [S. 27](https://www.legislation.gov.uk/ukpga/2021/1/section/27) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

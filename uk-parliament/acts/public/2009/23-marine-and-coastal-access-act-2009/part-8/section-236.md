@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 236. Enforcement of marine licensing regime[^key-a8aeee6cada4c55c17cb9888d9924811]
+## 236. Enforcement of marine licensing regime[^c-a8aeee6cada4c55c17cb9888d9924811]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,8 +29,8 @@ This is subject to subsection (2).
 
 (2) A marine enforcement officer does not have the powers referred to in subsection (1) for the purposes of enforcing Part 4 of this Act so far as relating to—
 
-- (a) any activity in Wales, the Welsh inshore region or the Welsh offshore region[^key-728dda079086cb8f009733bd7ac0cce2] concerning or arising from the exploration for, or production of, petroleum;
-- (aa)[^key-e38344b4575939c797183a437eb47caa] any activity in the Welsh offshore region falling within the subject-matter of Part 6 of the Merchant Shipping Act 1995 (pollution etc);
+- (a) any activity in Wales, the Welsh inshore region or the Welsh offshore region[^c-728dda079086cb8f009733bd7ac0cce2] concerning or arising from the exploration for, or production of, petroleum;
+- (aa)[^c-e38344b4575939c797183a437eb47caa] any activity in the Welsh offshore region falling within the subject-matter of Part 6 of the Merchant Shipping Act 1995 (pollution etc);
 - (b) anything done in the course of taking installation abandonment measures in any other part of the relevant enforcement area.
 
 (3) Subject to subsection (8), the powers which a marine enforcement officer has for the purposes of enforcing Part 4 of this Act may be exercised—
@@ -80,8 +80,8 @@ changes during the course of the pursuit.
 
 ## Annotations
 
-[^key-a8aeee6cada4c55c17cb9888d9924811]: Commencement: S. 236 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/b)
+[^c-a8aeee6cada4c55c17cb9888d9924811]: Commencement: S. 236 in force at 6.4.2011 by [S.I. 2011/556](https://www.legislation.gov.uk/uksi/2011/556), [art. 3(2)(b)](https://www.legislation.gov.uk/uksi/2011/556/article/3/2/b)
 
-[^key-728dda079086cb8f009733bd7ac0cce2]: Textual amendment: Words in s. 236(2)(a) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(3)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/3/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-728dda079086cb8f009733bd7ac0cce2]: Textual amendment: Words in s. 236(2)(a) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(3)(a)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/3/a), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
 
-[^key-e38344b4575939c797183a437eb47caa]: Textual amendment: S. 236(2)(aa) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(3)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/3/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)
+[^c-e38344b4575939c797183a437eb47caa]: Textual amendment: S. 236(2)(aa) inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 46(3)(b)](https://www.legislation.gov.uk/ukpga/2017/4/section/46/3/b), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(j)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/j)

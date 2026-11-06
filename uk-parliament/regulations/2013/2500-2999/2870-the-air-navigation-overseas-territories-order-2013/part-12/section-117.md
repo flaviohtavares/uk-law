@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Pilot-in-command’s responsibilities[^key-57f58e20c959a3a28151bf079462a92d]
+## 117. Pilot-in-command’s responsibilities[^c-57f58e20c959a3a28151bf079462a92d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The pilot-in-command of an aircraft carrying dangerous goods as cargo must, in t
 
 ## Annotations
 
-[^key-57f58e20c959a3a28151bf079462a92d]: Commencement: [Art. 117](https://www.legislation.gov.uk/uksi/2013/2870/article/117) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-57f58e20c959a3a28151bf079462a92d]: Commencement: [Art. 117](https://www.legislation.gov.uk/uksi/2013/2870/article/117) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

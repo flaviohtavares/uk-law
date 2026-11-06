@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-8eb8e18ef81f25d254119df2b59bb0b0]
+## 2. Interpretation[^c-8eb8e18ef81f25d254119df2b59bb0b0]
 
 *Extent: E+W*
 
@@ -43,7 +43,7 @@ summary: ''
   - (a) by means of an electronic communications network; or
   - (b) by other means but while in electronic form,
 
-  and in this definition “**electronic communications network**” has the same meaning as in section 32(1) (meaning of electronic communications networks and services)[^key-9a8aa07c9d3de8b4fde18cd1dba91aab] of the Communications Act 2003[^f00020];
+  and in this definition “**electronic communications network**” has the same meaning as in section 32(1) (meaning of electronic communications networks and services)[^c-9a8aa07c9d3de8b4fde18cd1dba91aab] of the Communications Act 2003[^f00020];
 - “**the engineering drawings and sections**” means the drawings and sections listed in Schedule 11 (documents to be certified) and certified as the engineering drawings and sections by the Secretary of State under article 45 (certification of documents, etc.) for the purposes of this Order;
 - “**environmental statement**” means the document of that description listed in Schedule 11 (documents to be certified) and certified as the environmental statement by the Secretary of State under article 45 (certification of documents, etc.) for the purposes of this Order;
 - “**footway**” and “**footpath**” have the same meaning as in section 329(1) of the 1980 Act;
@@ -57,7 +57,7 @@ summary: ''
 - “**the permit scheme**” means the Traffic Management (Surrey County Council) Permit Scheme Order 2015 (as varied) made under Part 3 (permit schemes) of the Traffic Management Act 2004[^f00022] as in force at the date on which this Order is made;
 - “**relevant planning authority**” means, in relation to any provision of this Order, either Guildford Borough Council or Elmbridge Borough Council in their capacity as local planning authorities insofar as the matter in question falls within their respective administrative areas, or both, as the case may be;
 - “**the special category land plans**” means the plans of that description listed in Schedule 11 (documents to be certified) and certified by the Secretary of State under article 45 (certification of documents, etc.) as the special category land plans for the purposes of this Order;
-- “**the speed limits and traffic regulations plans**” means the plans of that description listed in Schedule 11 (documents to be certified) and certified by the Secretary of State under article 45 (certification of documents, etc.) as the speed limits and traffic regulations[^key-6efcc07a0bf9c3c195b94aceccd5b2b7] plans for the purposes of this Order;
+- “**the speed limits and traffic regulations plans**” means the plans of that description listed in Schedule 11 (documents to be certified) and certified by the Secretary of State under article 45 (certification of documents, etc.) as the speed limits and traffic regulations[^c-6efcc07a0bf9c3c195b94aceccd5b2b7] plans for the purposes of this Order;
 - “**special road**” means a highway which is a special road in accordance with section 16[^f00023] (general provisions as to special roads) of the 1980 Act or by virtue of an order granting development consent;
 - “**statutory undertaker**” means any statutory undertaker for the purposes of section 127(8) (statutory undertakers’ land) of the 2008 Act;
 - “**street**” means a street within the meaning of section 48[^f00024] (streets, street works and undertakers) of the 1991 Act, together with land on the verge of a street or between two carriageways, and includes part of a street;
@@ -85,7 +85,7 @@ summary: ''
 
 ## Annotations
 
-[^key-8eb8e18ef81f25d254119df2b59bb0b0]: Commencement: Art. 2 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
+[^c-8eb8e18ef81f25d254119df2b59bb0b0]: Commencement: Art. 2 in force at 2.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/549/article/1)
 
 [^f00010]: Footnote: [1961 c. 33](https://www.legislation.gov.uk/ukpga/1961/33).
 
@@ -107,7 +107,7 @@ summary: ''
 
 [^f00019]: Footnote: [1988 c. 52](https://www.legislation.gov.uk/ukpga/1988/52).
 
-[^key-9a8aa07c9d3de8b4fde18cd1dba91aab]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2022/549/article/2/1) substituted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/46/article/2/2/a)
+[^c-9a8aa07c9d3de8b4fde18cd1dba91aab]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2022/549/article/2/1) substituted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2023/46/article/2/2/a)
 
 [^f00020]: Footnote: [2003 c. 21](https://www.legislation.gov.uk/ukpga/2003/21). Section 32(1) was amended by [S.I. 2011/1210](https://www.legislation.gov.uk/uksi/2011/1210).
 
@@ -115,7 +115,7 @@ summary: ''
 
 [^f00022]: Footnote: [2004 c. 18](https://www.legislation.gov.uk/ukpga/2004/18).
 
-[^key-6efcc07a0bf9c3c195b94aceccd5b2b7]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2022/549/article/2/1) substituted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/46/article/2/2/b)
+[^c-6efcc07a0bf9c3c195b94aceccd5b2b7]: Textual amendment: Word in [art. 2(1)](https://www.legislation.gov.uk/uksi/2022/549/article/2/1) substituted (19.1.2023) by [The M25 Junction 10/A3 Wisley Interchange Development Consent (Correction) Order 2023 (S.I. 2023/46)](https://www.legislation.gov.uk/uksi/2023/46), [arts. 1](https://www.legislation.gov.uk/uksi/2023/46/article/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2023/46/article/2/2/b)
 
 [^f00023]: Footnote: Section 16 was amended by section 36 of, and paragraph 24 of Schedule 2 to the 2008 Act and section 57(1) of, and paragraph 13 of Schedule 1 to the Infrastructure Act [2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7).
 

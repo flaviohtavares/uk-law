@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Temporary use of land for maintaining the authorised development[^key-9852bd88a04a52070dd2e675d7c0e36c]
+## 28. Temporary use of land for maintaining the authorised development[^c-9852bd88a04a52070dd2e675d7c0e36c]
 
 *Extent: E+W+S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9852bd88a04a52070dd2e675d7c0e36c]: Commencement: Art. 28 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-9852bd88a04a52070dd2e675d7c0e36c]: Commencement: Art. 28 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

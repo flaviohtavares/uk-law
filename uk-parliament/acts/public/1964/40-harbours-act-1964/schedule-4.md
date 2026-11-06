@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 4 — Procedure for Confirming and Making Harbour Reorganisation Schemes[^c7748411][^key-2a6fd7de15a8ae143d715520f1e1298d][^c7748421]
+## SCHEDULE 4 — Procedure for Confirming and Making Harbour Reorganisation Schemes[^c7748411][^c-2a6fd7de15a8ae143d715520f1e1298d][^c7748421]
 
 *Extent: E+W+S*
 
@@ -100,7 +100,7 @@ unless, in his opinion, it is frivolous or too trivial to warrant being consider
 
 [^c7748411]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/1964/40/schedule/4) amended by [Docks and Harbours Act 1966 (c. 28, SIF 58)](https://www.legislation.gov.uk/ukpga/1966/28), [s. 42(2)](https://www.legislation.gov.uk/ukpga/1966/28/section/42/2)
 
-[^key-2a6fd7de15a8ae143d715520f1e1298d]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/1964/40/schedule/4): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(b)(iii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/b/iii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), reg. 2, Sch.)
+[^c-2a6fd7de15a8ae143d715520f1e1298d]: Modification: [Sch. 4](https://www.legislation.gov.uk/ukpga/1964/40/schedule/4): transfer of functions (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [ss. 29(2)(b)(iii)](https://www.legislation.gov.uk/ukpga/2017/4/section/29/2/b/iii), [71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6), [9](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/9)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(g)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/g) (with transitional provisions and savings in [S.I. 2018/278](https://www.legislation.gov.uk/uksi/2018/278), reg. 2, Sch.)
 
 [^c7748421]: Textual amendment: [Sch. 4](https://www.legislation.gov.uk/ukpga/1964/40/schedule/4) heading substituted by [Transport Act 1981 (c. 56, SIF 58)](https://www.legislation.gov.uk/ukpga/1981/56), [Sch. 6 para. 6(6)](https://www.legislation.gov.uk/ukpga/1981/56/schedule/6/paragraph/6/6)
 

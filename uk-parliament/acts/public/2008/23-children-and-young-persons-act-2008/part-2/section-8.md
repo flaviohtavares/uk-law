@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-8ec451ff60df9cf7d65905053215139f][^key-515916cbd31d1ebe68b33f3978300686][^key-7053bd03657ee1218c062cce2a158214][^key-bc83a65af29e89b4a49df651b2d3213d] For section 23 of the 1989 Act substitute—
+(1)[^c-8ec451ff60df9cf7d65905053215139f][^c-515916cbd31d1ebe68b33f3978300686][^c-7053bd03657ee1218c062cce2a158214][^c-bc83a65af29e89b4a49df651b2d3213d] For section 23 of the 1989 Act substitute—
 
 > **22A. Provision of accommodation for children in care**
 >
@@ -97,30 +97,30 @@ summary: ''
 >
 > Part 2 of Schedule 2 has effect for the purposes of making further provision as to children looked after by local authorities and in particular as to the regulations which may be made under section 22C(11).
 
-(2)[^key-aafe796a8bc0f3b66ce66c01f8b58e1b][^key-a0f5d8f9f6822b1d77f774f0ebecd348][^key-ef1c8d3f13e481088ab52d2303ae9453][^key-7053bd03657ee1218c062cce2a158214][^key-79a4c9447250e8083ae1b8949a93e5b9][^key-8365126860528fc7b04114d464afb6b5] Schedule 1 (which makes amendments supplementary to, and consequential on, the provisions of this section, including a power to make regulations about an independent review mechanism for certain decisions in relation to foster parents) has effect.
+(2)[^c-aafe796a8bc0f3b66ce66c01f8b58e1b][^c-a0f5d8f9f6822b1d77f774f0ebecd348][^c-ef1c8d3f13e481088ab52d2303ae9453][^c-7053bd03657ee1218c062cce2a158214][^c-79a4c9447250e8083ae1b8949a93e5b9][^c-8365126860528fc7b04114d464afb6b5] Schedule 1 (which makes amendments supplementary to, and consequential on, the provisions of this section, including a power to make regulations about an independent review mechanism for certain decisions in relation to foster parents) has effect.
 
-(3)[^key-afdda7420ce951a58f240f489bdf2fa7][^key-af19a9e91e23c980971617a7d4c99f58] Until the coming into force of subsection (1), Schedule 2 to the 1989 Act has effect with the modifications specified in Schedule 2.
+(3)[^c-afdda7420ce951a58f240f489bdf2fa7][^c-af19a9e91e23c980971617a7d4c99f58] Until the coming into force of subsection (1), Schedule 2 to the 1989 Act has effect with the modifications specified in Schedule 2.
 
 ## Annotations
 
-[^key-8ec451ff60df9cf7d65905053215139f]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/1) in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/a)
+[^c-8ec451ff60df9cf7d65905053215139f]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/1) in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(a)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/a)
 
-[^key-515916cbd31d1ebe68b33f3978300686]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/1) in force at 26.4.2010 for specified purposes for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(a)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/a)
+[^c-515916cbd31d1ebe68b33f3978300686]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/1) in force at 26.4.2010 for specified purposes for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(a)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/a)
 
-[^key-7053bd03657ee1218c062cce2a158214]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2) in force at 1.4.2011 for E. so far as not already in force by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/a)
+[^c-7053bd03657ee1218c062cce2a158214]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/1)[(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2) in force at 1.4.2011 for E. so far as not already in force by [S.I. 2010/2981](https://www.legislation.gov.uk/uksi/2010/2981), [art. 4(a)](https://www.legislation.gov.uk/uksi/2010/2981/article/4/a)
 
-[^key-bc83a65af29e89b4a49df651b2d3213d]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/1) in force at 6.4.2016 for W. in so far as not already in force by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/452/article/2/a)
+[^c-bc83a65af29e89b4a49df651b2d3213d]: Commencement: [S. 8(1)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/1) in force at 6.4.2016 for W. in so far as not already in force by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(a)](https://www.legislation.gov.uk/wsi/2016/452/article/2/a)
 
-[^key-aafe796a8bc0f3b66ce66c01f8b58e1b]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2) in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/b)
+[^c-aafe796a8bc0f3b66ce66c01f8b58e1b]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2) in force at 1.9.2009 for specified purposes for E. by [S.I. 2009/2273](https://www.legislation.gov.uk/uksi/2009/2273), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2009/2273/article/2/2/b)
 
-[^key-a0f5d8f9f6822b1d77f774f0ebecd348]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2) in force at 26.4.2010 for specified purposes for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(b)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/b)
+[^c-a0f5d8f9f6822b1d77f774f0ebecd348]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2) in force at 26.4.2010 for specified purposes for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(b)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/b)
 
-[^key-ef1c8d3f13e481088ab52d2303ae9453]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2) in force at 15.11.2010 for specified purposes for E. by [S.I. 2010/2714](https://www.legislation.gov.uk/uksi/2010/2714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2714/article/2/a)
+[^c-ef1c8d3f13e481088ab52d2303ae9453]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2) in force at 15.11.2010 for specified purposes for E. by [S.I. 2010/2714](https://www.legislation.gov.uk/uksi/2010/2714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2714/article/2/a)
 
-[^key-79a4c9447250e8083ae1b8949a93e5b9]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2) in force at 6.4.2016 by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(b)](https://www.legislation.gov.uk/wsi/2016/452/article/2/b)
+[^c-79a4c9447250e8083ae1b8949a93e5b9]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2) in force at 6.4.2016 by [S.I. 2016/452](https://www.legislation.gov.uk/wsi/2016/452), [art. 2(b)](https://www.legislation.gov.uk/wsi/2016/452/article/2/b)
 
-[^key-8365126860528fc7b04114d464afb6b5]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2) in force at 1.12.2017 for specified purposes for W. by [S.I. 2017/948](https://www.legislation.gov.uk/wsi/2017/948), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/948/article/2/a)
+[^c-8365126860528fc7b04114d464afb6b5]: Commencement: [S. 8(2)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/2) in force at 1.12.2017 for specified purposes for W. by [S.I. 2017/948](https://www.legislation.gov.uk/wsi/2017/948), [art. 2(a)](https://www.legislation.gov.uk/wsi/2017/948/article/2/a)
 
-[^key-afdda7420ce951a58f240f489bdf2fa7]: Commencement: [S. 8(3)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/3) in force at 12.2.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2009/268/article/3/1/b)
+[^c-afdda7420ce951a58f240f489bdf2fa7]: Commencement: [S. 8(3)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/3) in force at 12.2.2009 for E. by [S.I. 2009/268](https://www.legislation.gov.uk/uksi/2009/268), [art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2009/268/article/3/1/b)
 
-[^key-af19a9e91e23c980971617a7d4c99f58]: Commencement: [S. 8(3)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/3) in force at 31.3.2010 for W. by [S.I. 2010/749](https://www.legislation.gov.uk/wsi/2010/749), [art. 2(a)](https://www.legislation.gov.uk/wsi/2010/749/article/2/a)
+[^c-af19a9e91e23c980971617a7d4c99f58]: Commencement: [S. 8(3)](https://www.legislation.gov.uk/ukpga/2008/23/section/8/3) in force at 31.3.2010 for W. by [S.I. 2010/749](https://www.legislation.gov.uk/wsi/2010/749), [art. 2(a)](https://www.legislation.gov.uk/wsi/2010/749/article/2/a)

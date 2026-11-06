@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Requirement for a certificate or temporary certificate[^key-5c9f44a8d8e9af766d52266af4f29aaa]
+## 5. Requirement for a certificate or temporary certificate[^c-5c9f44a8d8e9af766d52266af4f29aaa]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c9f44a8d8e9af766d52266af4f29aaa]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2014/951/regulation/5) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-5c9f44a8d8e9af766d52266af4f29aaa]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2014/951/regulation/5) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)

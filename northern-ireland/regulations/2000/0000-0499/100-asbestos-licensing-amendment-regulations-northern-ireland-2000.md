@@ -31,7 +31,7 @@ summary: ''
 
 HEALTH AND SAFETY
 
-Asbestos (Licensing) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^key-55530ee2f58a78060604b02d40dcb36a]
+Asbestos (Licensing) (Amendment) Regulations (Northern Ireland) 2000 (revoked)[^c-55530ee2f58a78060604b02d40dcb36a]
 
 Made
 
@@ -39,23 +39,23 @@ Made
 
 Coming into operation in accordance with regulation 1
 
-[^key-55530ee2f58a78060604b02d40dcb36a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55530ee2f58a78060604b02d40dcb36a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-55530ee2f58a78060604b02d40dcb36a]
+## 1. Citation and commencement[^c-55530ee2f58a78060604b02d40dcb36a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Asbestos (Licensing) Regulations (Northern Ireland) 1984[^key-55530ee2f58a78060604b02d40dcb36a]
+## 2. Amendment of the Asbestos (Licensing) Regulations (Northern Ireland) 1984[^c-55530ee2f58a78060604b02d40dcb36a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-55530ee2f58a78060604b02d40dcb36a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55530ee2f58a78060604b02d40dcb36a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — Schedule to be added to the Asbestos (Licensing) Regulations (Northern Ireland) 1984[^key-55530ee2f58a78060604b02d40dcb36a]
+## SCHEDULE — Schedule to be added to the Asbestos (Licensing) Regulations (Northern Ireland) 1984[^c-55530ee2f58a78060604b02d40dcb36a]
 
 Regulation 2(7)
 
@@ -63,8 +63,8 @@ Regulation 2(7)
 
 **May not be in force at this date. Check the source.**
 
-[^key-55530ee2f58a78060604b02d40dcb36a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-55530ee2f58a78060604b02d40dcb36a]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-55530ee2f58a78060604b02d40dcb36a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/100) revoked (1.3.2007) by [The Control of Asbestos Regulations (Northern Ireland) 2007 (S.R. 2007/31)](https://www.legislation.gov.uk/nisr/2007/31), [reg. 1](https://www.legislation.gov.uk/nisr/2007/31/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2007/31/schedule/5)
+[^c-55530ee2f58a78060604b02d40dcb36a]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2000/100) revoked (1.3.2007) by [The Control of Asbestos Regulations (Northern Ireland) 2007 (S.R. 2007/31)](https://www.legislation.gov.uk/nisr/2007/31), [reg. 1](https://www.legislation.gov.uk/nisr/2007/31/regulation/1), [Sch. 5](https://www.legislation.gov.uk/nisr/2007/31/schedule/5)

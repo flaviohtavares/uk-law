@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 29. Public services boards[^key-daa5e45740fcc4840652f0dd9cad9be5]
+## 29. Public services boards[^c-daa5e45740fcc4840652f0dd9cad9be5]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-daa5e45740fcc4840652f0dd9cad9be5]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2015/2/section/29) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)
+[^c-daa5e45740fcc4840652f0dd9cad9be5]: Commencement: [S. 29](https://www.legislation.gov.uk/anaw/2015/2/section/29) in force at 1.4.2016 by [S.I. 2016/86](https://www.legislation.gov.uk/wsi/2016/86), [art. 3](https://www.legislation.gov.uk/wsi/2016/86/article/3)

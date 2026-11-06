@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Rules for determining policyholders' share of I - E profit[^key-e20d72e17770002ce4beffa0e4efcb43]
+## 103. Rules for determining policyholders' share of I - E profit[^c-e20d72e17770002ce4beffa0e4efcb43]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,4 +48,4 @@ there is no policyholders' share of the I - E profit.
 
 ## Annotations
 
-[^key-e20d72e17770002ce4beffa0e4efcb43]: Modification: S. 103 applied by 2010 c. 4, s. 269ZE(10) (as inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16))
+[^c-e20d72e17770002ce4beffa0e4efcb43]: Modification: S. 103 applied by 2010 c. 4, s. 269ZE(10) (as inserted (with effect in accordance with Sch. 4 para. 190 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2017/32/schedule/4/paragraph/16))

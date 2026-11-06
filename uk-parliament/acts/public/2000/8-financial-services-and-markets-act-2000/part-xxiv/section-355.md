@@ -28,16 +28,16 @@ summary: ''
 - “the 2016 Act” means the Bankruptcy (Scotland) Act 2016;[^M_F_3513d137-3c91-4fd4-c3ae-283e579b00ea]
 - “**body**” means a body of persons—
   - (a) over which the court has jurisdiction under any provision of, or made under, the 1986 Act (or the 1989 Order); but
-  - (b) which is not a building society, a friendly society or a registered society[^key-0aab52152d2377bf0f5fdca1e6e1782d]; and
+  - (b) which is not a building society, a friendly society or a registered society[^c-0aab52152d2377bf0f5fdca1e6e1782d]; and
 - “**court**” means—
   - (a) the court having jurisdiction for the purposes of the 1985 Act or the 1986 Act; or
   - (b) in Northern Ireland, the High Court.
-- “creditors’ decision procedure” has the meaning given by section 379ZA(11) of the 1986 Act;[^key-a8d0fefc63541dad5295f9ae0cc43edc]
-- “[^key-0e0ad9670f64a6e2100ded196944e2cd]**PRA-regulated person**” means a person who—
+- “creditors’ decision procedure” has the meaning given by section 379ZA(11) of the 1986 Act;[^c-a8d0fefc63541dad5295f9ae0cc43edc]
+- “[^c-0e0ad9670f64a6e2100ded196944e2cd]**PRA-regulated person**” means a person who—
   - (a) is or has been a PRA-authorised person,
   - (b) is or has been an appointed representative whose principal (or one of whose principals) is, or was, a PRA-authorised person, or
   - (c) is carrying on or has carried on a PRA-regulated activity in contravention of the general prohibition.
-- “qualifying decision procedure” has the meaning given by section 246ZE(11) of the 1986 Act.[^key-c7402462e1a98d9ceccaa12c5f53211a]
+- “qualifying decision procedure” has the meaning given by section 246ZE(11) of the 1986 Act.[^c-c7402462e1a98d9ceccaa12c5f53211a]
 
 (2) In this Part “**insurer**” has such meaning as may be specified in an order made by the Treasury.
 
@@ -53,10 +53,10 @@ summary: ''
 
 [^M_F_3513d137-3c91-4fd4-c3ae-283e579b00ea]: Textual amendment: Words in s. 355(1) inserted (30.11.2016) by The Bankruptcy (Scotland) Act 2016 (Consequential Provisions and Modifications) Order 2016 ([S.I. 2016/1034](https://www.legislation.gov.uk/uksi/2016/1034), [art. 1](https://www.legislation.gov.uk/uksi/2016/1034/article/1), [Sch. 1 para. 20(4)(b)](https://www.legislation.gov.uk/uksi/2016/1034/schedule/1/paragraph/20/4/b)
 
-[^key-0aab52152d2377bf0f5fdca1e6e1782d]: Textual amendment: Words in s. 355(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 70](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/70) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-0aab52152d2377bf0f5fdca1e6e1782d]: Textual amendment: Words in s. 355(1) substituted (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 4 para. 70](https://www.legislation.gov.uk/ukpga/2014/14/schedule/4/paragraph/70) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-a8d0fefc63541dad5295f9ae0cc43edc]: Textual amendment: Words in s. 355(1) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/4/2/a) (with [reg. 17](https://www.legislation.gov.uk/uksi/2018/208/regulation/17))
+[^c-a8d0fefc63541dad5295f9ae0cc43edc]: Textual amendment: Words in s. 355(1) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/208/regulation/4/2/a) (with [reg. 17](https://www.legislation.gov.uk/uksi/2018/208/regulation/17))
 
-[^key-0e0ad9670f64a6e2100ded196944e2cd]: Textual amendment: Words in s. 355(1) inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/14/paragraph/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-0e0ad9670f64a6e2100ded196944e2cd]: Textual amendment: Words in s. 355(1) inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 14 para. 2](https://www.legislation.gov.uk/ukpga/2012/21/schedule/14/paragraph/2) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-c7402462e1a98d9ceccaa12c5f53211a]: Textual amendment: Words in s. 355(1) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/4/2/b) (with [reg. 17](https://www.legislation.gov.uk/uksi/2018/208/regulation/17))
+[^c-c7402462e1a98d9ceccaa12c5f53211a]: Textual amendment: Words in s. 355(1) inserted (13.3.2018) by [The Small Business, Enterprise and Employment Act 2015 (Consequential Amendments, Savings and Transitional Provisions) Regulations 2018 (S.I. 2018/208)](https://www.legislation.gov.uk/uksi/2018/208), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/208/regulation/1/3), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/208/regulation/4/2/b) (with [reg. 17](https://www.legislation.gov.uk/uksi/2018/208/regulation/17))

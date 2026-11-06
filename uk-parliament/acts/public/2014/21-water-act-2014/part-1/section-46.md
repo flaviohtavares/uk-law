@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46. Operation of retail market[^key-3754a1f8c3640090e5f149a3e2724d97]
+## 46. Operation of retail market[^c-3754a1f8c3640090e5f149a3e2724d97]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ to be subject to provision for special administration (see section 23 of, and Sc
 
 ## Annotations
 
-[^key-3754a1f8c3640090e5f149a3e2724d97]: Commencement: S. 46 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(v)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/v) (with art. 5)
+[^c-3754a1f8c3640090e5f149a3e2724d97]: Commencement: S. 46 in force at 6.4.2015 by [S.I. 2015/773](https://www.legislation.gov.uk/uksi/2015/773), [art. 2(2)(b)(v)](https://www.legislation.gov.uk/uksi/2015/773/article/2/2/b/v) (with art. 5)

@@ -16,17 +16,17 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Orders under Part 1 of Local Government Act 2000: Wales[^key-90c0b0aef0f6ffe16a932726281bbb85]
+## 115. Orders under Part 1 of Local Government Act 2000: Wales[^c-90c0b0aef0f6ffe16a932726281bbb85]
 
 *Extent: E+W*
 
 (1) Part 1 of the Local Government Act 2000 (promotion of economic, social or environmental well-being etc) is amended as follows.
 
-(2)[^key-9f4996dc38fe23d3015062f103752803] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-9f4996dc38fe23d3015062f103752803] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-18165c0ae401c67581e88282ee7e2695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-18165c0ae401c67581e88282ee7e2695] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-9fd596b81f784970e5f1665c3a992974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-9fd596b81f784970e5f1665c3a992974] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) In section 6 (power to modify enactments concerning plans etc)—
 
@@ -102,10 +102,10 @@ summary: ''
 
 ## Annotations
 
-[^key-90c0b0aef0f6ffe16a932726281bbb85]: Commencement: S. 115 in force at 30.12.2007, see [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
+[^c-90c0b0aef0f6ffe16a932726281bbb85]: Commencement: S. 115 in force at 30.12.2007, see [s. 245(2)](https://www.legislation.gov.uk/ukpga/2007/28/section/245/2)
 
-[^key-9f4996dc38fe23d3015062f103752803]: Textual amendment: S. 115(2) repealed (4.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/1); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1008/article/2/d)
+[^c-9f4996dc38fe23d3015062f103752803]: Textual amendment: S. 115(2) repealed (4.4.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 1](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/1); [S.I. 2012/1008](https://www.legislation.gov.uk/uksi/2012/1008), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1008/article/2/d)
 
-[^key-18165c0ae401c67581e88282ee7e2695]: Textual amendment: [S. 115(3)](https://www.legislation.gov.uk/ukpga/2007/28/section/115/3) omitted (1.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/3); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(c)](https://www.legislation.gov.uk/wsi/2021/231/article/4/c)
+[^c-18165c0ae401c67581e88282ee7e2695]: Textual amendment: [S. 115(3)](https://www.legislation.gov.uk/ukpga/2007/28/section/115/3) omitted (1.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/3); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(c)](https://www.legislation.gov.uk/wsi/2021/231/article/4/c)
 
-[^key-9fd596b81f784970e5f1665c3a992974]: Textual amendment: [S. 115(4)](https://www.legislation.gov.uk/ukpga/2007/28/section/115/4) omitted (1.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/3); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(c)](https://www.legislation.gov.uk/wsi/2021/231/article/4/c)
+[^c-9fd596b81f784970e5f1665c3a992974]: Textual amendment: [S. 115(4)](https://www.legislation.gov.uk/ukpga/2007/28/section/115/4) omitted (1.11.2021) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 3 para. 3](https://www.legislation.gov.uk/asc/2021/1/schedule/3/paragraph/3); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 4(c)](https://www.legislation.gov.uk/wsi/2021/231/article/4/c)

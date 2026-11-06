@@ -63,13 +63,13 @@ The Secretary of State makes these Regulations under the powers conferred by sec
 - “authorised person” means any person who is authorised by any of the competent authorities, either generally or specifically, whether or not an officer or employee of that authority, to act in relation to matters arising under these Regulations;
 - “available aid” means the amount in the entry for “UK” in the Annex to Commission Regulation (EU) 2015/1853 minus the Northern Ireland uplift;
 - “Commission Regulation (EU) 2015/1853” means Commission Delegated Regulation (EU) 2015/1853 providing for temporary exceptional aid to farmers in the livestock sectors[^f00003];
-- “Commission Regulation ([^key-297879d3372116c673684c00d2a62f92]EU) 2016/1612” means Commission Delegated Regulation (EU) 2016/1612 providing aid for milk production reduction;
+- “Commission Regulation ([^c-297879d3372116c673684c00d2a62f92]EU) 2016/1612” means Commission Delegated Regulation (EU) 2016/1612 providing aid for milk production reduction;
 - “competent authorities” means—
   - (a) in relation to England, the Secretary of State;
   - (b) in relation to Scotland, the Scottish Ministers;
   - (c) in relation to Wales, the Welsh Ministers;
   - (d) in relation to Northern Ireland, the Department of Agriculture and Rural Development;
-- “the Direct Payments Regulation” means Regulation (EU) No 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy[^f00004] , as last amended by Commission Delegated Regulation ([^key-efec8a22c1c756c6a3d9c86118e98150]EU) 2018/162;
+- “the Direct Payments Regulation” means Regulation (EU) No 1307/2013 of the European Parliament and of the Council establishing rules for direct payments to farmers under support schemes within the framework of the common agricultural policy[^f00004] , as last amended by Commission Delegated Regulation ([^c-efec8a22c1c756c6a3d9c86118e98150]EU) 2018/162;
 - “farmer” has the same meaning as in the Direct Payments Regulation;
 - “markets” means to deliver or make direct sales of milk or other milk products;
 - “milk” means the product of the milking of one or more cows;
@@ -138,11 +138,11 @@ equals less than €108.33.
 
 (1) The Secretary of State may recover on demand any sum paid to any person in excess of—
 
-- (a) any emergency payment, [^key-a777c7c7941f3df4085fa90fac194b40]...
+- (a) any emergency payment, [^c-a777c7c7941f3df4085fa90fac194b40]...
 - (b) the sum of any emergency payment and any Northern Ireland additional payment,
-- (c)[^key-60689c62ad9d920ee83c018bb3812188] any milk reduction payment,
+- (c)[^c-60689c62ad9d920ee83c018bb3812188] any milk reduction payment,
 
-due to that person under these Regulations or Commission Regulation ([^key-472229d52f45e723bb5c1be8c1b01c04]EU) 2016/1612.
+due to that person under these Regulations or Commission Regulation ([^c-472229d52f45e723bb5c1be8c1b01c04]EU) 2016/1612.
 
 (2) Any sum recoverable under paragraph (1) is recoverable as a debt.
 
@@ -161,8 +161,8 @@ due to that person under these Regulations or Commission Regulation ([^key-47222
 
 The Secretary of State may set off—
 
-- (a) any sum payable under these Regulations or Commission Regulation (EU) 2016/1612 against any sum recoverable by any of the competent authorities under Regulation (EU) No 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy , as last amended by Regulation ([^key-75766de521dead6fb82fbeb9da5845ea]EU) 2017/2393 of the European Parliament and of the Council;
-- (b) any sum recoverable under regulation 6(1) (including any interest charged in accordance with regulation 7(1)) against any sum payable by any of the competent authorities under the Direct Payments Regulation or Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) , as last amended by Commission Delegated Regulation ([^key-bf6310552745832f0ce8aedd48e7cb63]EU) 2018/162.
+- (a) any sum payable under these Regulations or Commission Regulation (EU) 2016/1612 against any sum recoverable by any of the competent authorities under Regulation (EU) No 1306/2013 of the European Parliament and of the Council on the financing, management and monitoring of the common agricultural policy , as last amended by Regulation ([^c-75766de521dead6fb82fbeb9da5845ea]EU) 2017/2393 of the European Parliament and of the Council;
+- (b) any sum recoverable under regulation 6(1) (including any interest charged in accordance with regulation 7(1)) against any sum payable by any of the competent authorities under the Direct Payments Regulation or Regulation (EU) No 1305/2013 of the European Parliament and of the Council on support for rural development by the European Agricultural Fund for Rural Development (EAFRD) , as last amended by Commission Delegated Regulation ([^c-bf6310552745832f0ce8aedd48e7cb63]EU) 2018/162.
 
 ## 9. Powers of entry
 
@@ -322,7 +322,7 @@ The Secretary of State may set off—
 - (b) set out the conclusions of the review in a report; and
 - (c) publish the report.
 
-(2) In carrying out the review, the Secretary of State must, so far as is reasonable, have regard to how Commission Regulation ([^key-d75c416792ccd5a405a253a9eee3665a]EU) 2015/1853 and Commission Regulation (EU) 2016/1612 are implemented in other member States.
+(2) In carrying out the review, the Secretary of State must, so far as is reasonable, have regard to how Commission Regulation ([^c-d75c416792ccd5a405a253a9eee3665a]EU) 2015/1853 and Commission Regulation (EU) 2016/1612 are implemented in other member States.
 
 (3) The report must in particular—
 
@@ -358,11 +358,11 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00003]: Footnote: OJ No L 271, 16.10.15, p 25.
 
-[^key-297879d3372116c673684c00d2a62f92]: Textual amendment: Words in reg. 2(1) inserted (1.12.2016) by [The Single Common Market Organisation (Emergency Aid for Milk Producers) (Amendment) Regulations 2016 (S.I. 2016/1076)](https://www.legislation.gov.uk/uksi/2016/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1076/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/1076/regulation/3)
+[^c-297879d3372116c673684c00d2a62f92]: Textual amendment: Words in reg. 2(1) inserted (1.12.2016) by [The Single Common Market Organisation (Emergency Aid for Milk Producers) (Amendment) Regulations 2016 (S.I. 2016/1076)](https://www.legislation.gov.uk/uksi/2016/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1076/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/1076/regulation/3)
 
 [^f00004]: Footnote: OJ No L 347, 20.12.13, p 608, as last amended by Commission Delegated Regulation (EU) 2015/851 (OJ No L 135, 2.6.2015, p 8).
 
-[^key-efec8a22c1c756c6a3d9c86118e98150]: Textual amendment: Words in reg. 2(1) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [45(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/45/2)
+[^c-efec8a22c1c756c6a3d9c86118e98150]: Textual amendment: Words in reg. 2(1) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [45(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/45/2)
 
 [^f00005]: Footnote: [S.I. 2005/465](https://www.legislation.gov.uk/uksi/2005/465), as last amended by [S.I. 2008/439](https://www.legislation.gov.uk/uksi/2008/439).
 
@@ -372,19 +372,19 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00008]: Footnote: [S.R. 2005/70](https://www.legislation.gov.uk/nisr/2005/70), to which there are amendments not relevant to these Regulations.
 
-[^key-a777c7c7941f3df4085fa90fac194b40]: Textual amendment: Word in reg. 6(1)(a) omitted (1.12.2016) by virtue of [The Single Common Market Organisation (Emergency Aid for Milk Producers) (Amendment) Regulations 2016 (S.I. 2016/1076)](https://www.legislation.gov.uk/uksi/2016/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1076/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/1076/regulation/4/a)
+[^c-a777c7c7941f3df4085fa90fac194b40]: Textual amendment: Word in reg. 6(1)(a) omitted (1.12.2016) by virtue of [The Single Common Market Organisation (Emergency Aid for Milk Producers) (Amendment) Regulations 2016 (S.I. 2016/1076)](https://www.legislation.gov.uk/uksi/2016/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1076/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2016/1076/regulation/4/a)
 
-[^key-60689c62ad9d920ee83c018bb3812188]: Textual amendment: Reg. 6(1)(c) inserted (1.12.2016) by [The Single Common Market Organisation (Emergency Aid for Milk Producers) (Amendment) Regulations 2016 (S.I. 2016/1076)](https://www.legislation.gov.uk/uksi/2016/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1076/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/1076/regulation/4/b)
+[^c-60689c62ad9d920ee83c018bb3812188]: Textual amendment: Reg. 6(1)(c) inserted (1.12.2016) by [The Single Common Market Organisation (Emergency Aid for Milk Producers) (Amendment) Regulations 2016 (S.I. 2016/1076)](https://www.legislation.gov.uk/uksi/2016/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1076/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2016/1076/regulation/4/b)
 
-[^key-472229d52f45e723bb5c1be8c1b01c04]: Textual amendment: Words in reg. 6(1) inserted (1.12.2016) by [The Single Common Market Organisation (Emergency Aid for Milk Producers) (Amendment) Regulations 2016 (S.I. 2016/1076)](https://www.legislation.gov.uk/uksi/2016/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1076/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2016/1076/regulation/4/c)
+[^c-472229d52f45e723bb5c1be8c1b01c04]: Textual amendment: Words in reg. 6(1) inserted (1.12.2016) by [The Single Common Market Organisation (Emergency Aid for Milk Producers) (Amendment) Regulations 2016 (S.I. 2016/1076)](https://www.legislation.gov.uk/uksi/2016/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1076/regulation/1), [4(c)](https://www.legislation.gov.uk/uksi/2016/1076/regulation/4/c)
 
 [^f00009]: Footnote: The Monetary Policy Committee was established under section 19 of the Bank of England Act [1998 (c.11)](https://www.legislation.gov.uk/ukpga/1998/11).
 
 [^f00010]: Footnote: [1998, c.11](https://www.legislation.gov.uk/ukpga/1998/11).
 
-[^key-75766de521dead6fb82fbeb9da5845ea]: Textual amendment: Words in reg. 8(a) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [45(3)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/45/3/a)
+[^c-75766de521dead6fb82fbeb9da5845ea]: Textual amendment: Words in reg. 8(a) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [45(3)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/45/3/a)
 
-[^key-bf6310552745832f0ce8aedd48e7cb63]: Textual amendment: Words in reg. 8(b) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [45(3)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/45/3/b)
+[^c-bf6310552745832f0ce8aedd48e7cb63]: Textual amendment: Words in reg. 8(b) inserted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [45(3)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/45/3/b)
 
 [^f00012]: Footnote: [1995 c. 46](https://www.legislation.gov.uk/ukpga/1995/46).
 
@@ -400,4 +400,4 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00018]: Footnote: [S.I. 1981/1675 (N.I. 26)](https://www.legislation.gov.uk/nisi/1981/1675).
 
-[^key-d75c416792ccd5a405a253a9eee3665a]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2015/1896/regulation/15/2) substituted (1.12.2016) by [The Single Common Market Organisation (Emergency Aid for Milk Producers) (Amendment) Regulations 2016 (S.I. 2016/1076)](https://www.legislation.gov.uk/uksi/2016/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1076/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/1076/regulation/6)
+[^c-d75c416792ccd5a405a253a9eee3665a]: Textual amendment: Words in [reg. 15(2)](https://www.legislation.gov.uk/uksi/2015/1896/regulation/15/2) substituted (1.12.2016) by [The Single Common Market Organisation (Emergency Aid for Milk Producers) (Amendment) Regulations 2016 (S.I. 2016/1076)](https://www.legislation.gov.uk/uksi/2016/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1076/regulation/1), [6](https://www.legislation.gov.uk/uksi/2016/1076/regulation/6)

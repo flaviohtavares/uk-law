@@ -35,8 +35,8 @@ where—
 - A is—
   - (i) where P held a single judicial office immediately before retirement, the appropriate annual salary of that judicial office;
   - (ii) where P held more than one judicial office immediately before retirement, the highest appropriate annual salary of those offices, and
-- Y is R's reckonable service in any office in relation to which benefits are calculated under the post-1995 provisions[^key-7efa9be32ef0b192dddf5782044b9fe6] on the date R retired.
+- Y is R's reckonable service in any office in relation to which benefits are calculated under the post-1995 provisions[^c-7efa9be32ef0b192dddf5782044b9fe6] on the date R retired.
 
 ## Annotations
 
-[^key-7efa9be32ef0b192dddf5782044b9fe6]: Textual amendment: Words in [reg. 119(2)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/119/2/b) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [59](https://www.legislation.gov.uk/uksi/2023/403/regulation/59)
+[^c-7efa9be32ef0b192dddf5782044b9fe6]: Textual amendment: Words in [reg. 119(2)(b)](https://www.legislation.gov.uk/uksi/2017/522/regulation/119/2/b) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [59](https://www.legislation.gov.uk/uksi/2023/403/regulation/59)

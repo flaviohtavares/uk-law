@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27. Relevant activity: requirement to provide information[^key-ba6f06ded470a8ab5eeae929671dee2e][^key-bc7e6a9a169109d87d35e31256f47e1f]
+## 27. Relevant activity: requirement to provide information[^c-ba6f06ded470a8ab5eeae929671dee2e][^c-bc7e6a9a169109d87d35e31256f47e1f]
 
 *Extent: E+W*
 
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ba6f06ded470a8ab5eeae929671dee2e]: Commencement: S. 27 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
+[^c-ba6f06ded470a8ab5eeae929671dee2e]: Commencement: S. 27 not in force at Royal Assent, see [s. 56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4)
 
-[^key-bc7e6a9a169109d87d35e31256f47e1f]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2023/4/section/27) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)
+[^c-bc7e6a9a169109d87d35e31256f47e1f]: Commencement: [S. 27](https://www.legislation.gov.uk/asc/2023/4/section/27) in force at 17.10.2023 by [S.I. 2023/1092](https://www.legislation.gov.uk/wsi/2023/1092), [art. 2(b)](https://www.legislation.gov.uk/wsi/2023/1092/article/2/b)

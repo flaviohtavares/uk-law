@@ -46,25 +46,25 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 In accordance with section 24(7) of that Act, a draft of these Regulations was laid before and approved by a resolution of each House of Parliament.
 
-## 1. Citation and commencement[^key-17cf4193aeec6e07a7969c04ab41e5d1][^key-2a4f3b14a2d3f2fd354f2651adf2ba8e]
+## 1. Citation and commencement[^c-17cf4193aeec6e07a7969c04ab41e5d1][^c-2a4f3b14a2d3f2fd354f2651adf2ba8e]
 
 (1) These Regulations may be cited as the Authority to Carry Scheme (Civil Penalties) Regulations 2015.
 
 (2) These Regulations come into force on the seventh day after the day on which they are made.
 
-(3)[^key-d2d93d3640b2a8fb1f5a54d2d913a790] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-d2d93d3640b2a8fb1f5a54d2d913a790] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-8a554a88a2943755cc231548a61cd90f]
+## 2. Interpretation[^c-8a554a88a2943755cc231548a61cd90f]
 
 In these Regulations—
 
-- “authority-to-carry scheme” means the scheme, under section 22 of the Counter-Terrorism and Security Act 2015, that was laid before Parliament in draft on 9th January 2023[^key-0a332c2f84c4f11ec610761239b4f666];
+- “authority-to-carry scheme” means the scheme, under section 22 of the Counter-Terrorism and Security Act 2015, that was laid before Parliament in draft on 9th January 2023[^c-0a332c2f84c4f11ec610761239b4f666];
 - “carrier” has the meaning given in regulation 3(1);
 - “IA 1971” means the Immigration Act 1971[^f00002];
 - “notice of objection” has the meaning given in regulation 5;
 - “penalty notice” has the meaning given in regulation 4.
 
-## 3. Penalty for breach of an authority-to-carry scheme[^key-432695aaf84d97a17a3fb14caec091be]
+## 3. Penalty for breach of an authority-to-carry scheme[^c-432695aaf84d97a17a3fb14caec091be]
 
 (1) This regulation applies to a person (a “carrier”) who is required by the authority-to-carry scheme to seek authority from the Secretary of State to carry persons on aircraft, ships or trains.
 
@@ -99,7 +99,7 @@ In these Regulations—
 
 (8) The penalty is payable to the Secretary of State on demand.
 
-## 4. Notification of penalty decision[^key-a842f5d3b50cb9dc7f01b41314625546]
+## 4. Notification of penalty decision[^c-a842f5d3b50cb9dc7f01b41314625546]
 
 (1) If the Secretary of State decides to require a carrier to pay a penalty under these Regulations, the Secretary of State must give the carrier a penalty notice.
 
@@ -114,7 +114,7 @@ In these Regulations—
 - (g) include an explanation of the steps that the carrier may take if the carrier objects to the penalty (including specifying the manner and form in which any notice of objection must be given to the Secretary of State), and
 - (h) include an explanation of the steps the Secretary of State may take to recover any unpaid penalty.
 
-## 5. Objection to penalty decision[^key-d42940e624c14314da107bd6451d8566]
+## 5. Objection to penalty decision[^c-d42940e624c14314da107bd6451d8566]
 
 (1) A carrier which receives a penalty notice may object to the penalty notice by giving a notice of objection to the Secretary of State.
 
@@ -145,7 +145,7 @@ In these Regulations—
 - (e) include an explanation of the carrier’s rights of appeal, and
 - (f) include an explanation of the steps the Secretary of State may take to recover any unpaid penalty.
 
-## 6. Appeals[^key-c9067fc4b968c4a58d6a28d3e66315a8]
+## 6. Appeals[^c-c9067fc4b968c4a58d6a28d3e66315a8]
 
 (1) A carrier may appeal to the court against a decision to require the carrier to pay a penalty under these Regulations.
 
@@ -181,7 +181,7 @@ In these Regulations—
 - (a) the county court in England and Wales, or a county court in Northern Ireland, may transfer proceedings under this regulation to the High Court, and
 - (b) the sheriff may transfer proceedings under this regulation to the Court of Session.
 
-## 7. Enforcement of penalty decision[^key-e677c659567cd1c862b86c0c3c0dd27d]
+## 7. Enforcement of penalty decision[^c-e677c659567cd1c862b86c0c3c0dd27d]
 
 (1) This regulation applies where a sum is payable to the Secretary of State as a penalty under these Regulations.
 
@@ -196,7 +196,7 @@ In these Regulations—
 - (a) in relation to England and Wales, to be treated for the purposes of section 98 of the Courts Act 2003[^f00007] (register of judgments and orders etc) as if it were a judgment entered in the county court;
 - (b) in relation to Northern Ireland, to be treated for the purposes of Article 116 of the Judgments Enforcement (Northern Ireland) Order 1981[^f00008] (register of judgments) as if it were a judgment in respect of which an application has been accepted under Article 22 or 23(1) of that Order.
 
-## 8. Service[^key-b5d11fc1f5aecded4a6ec554d9d0b16e]
+## 8. Service[^c-b5d11fc1f5aecded4a6ec554d9d0b16e]
 
 (1) This regulation applies where a document is authorised or required to be given to a carrier for the purpose of these Regulations.
 
@@ -229,19 +229,19 @@ Regulation 3 applies to carriers who are required by the scheme to seek authorit
 
 [^f00001]: Footnote: [2015 c. 6](https://www.legislation.gov.uk/ukpga/2015/6).
 
-[^key-17cf4193aeec6e07a7969c04ab41e5d1]: Commencement: Reg. 1 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
+[^c-17cf4193aeec6e07a7969c04ab41e5d1]: Commencement: Reg. 1 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
 
-[^key-2a4f3b14a2d3f2fd354f2651adf2ba8e]: Textual amendment: Reg. 1 heading substituted (3.4.2023) by [The Authority to Carry Scheme and Civil Penalties Regulations 2023 (S.I. 2023/326)](https://www.legislation.gov.uk/uksi/2023/326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/3/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/4/2))
+[^c-2a4f3b14a2d3f2fd354f2651adf2ba8e]: Textual amendment: Reg. 1 heading substituted (3.4.2023) by [The Authority to Carry Scheme and Civil Penalties Regulations 2023 (S.I. 2023/326)](https://www.legislation.gov.uk/uksi/2023/326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/1/2), [3(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/3/2) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/4/2))
 
-[^key-d2d93d3640b2a8fb1f5a54d2d913a790]: Textual amendment: Reg. 1(3) omitted (3.4.2023) by virtue of [The Authority to Carry Scheme and Civil Penalties Regulations 2023 (S.I. 2023/326)](https://www.legislation.gov.uk/uksi/2023/326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/326/regulation/3/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/4/2))
+[^c-d2d93d3640b2a8fb1f5a54d2d913a790]: Textual amendment: Reg. 1(3) omitted (3.4.2023) by virtue of [The Authority to Carry Scheme and Civil Penalties Regulations 2023 (S.I. 2023/326)](https://www.legislation.gov.uk/uksi/2023/326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/1/2), [3(3)](https://www.legislation.gov.uk/uksi/2023/326/regulation/3/3) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/4/2))
 
-[^key-8a554a88a2943755cc231548a61cd90f]: Commencement: Reg. 2 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
+[^c-8a554a88a2943755cc231548a61cd90f]: Commencement: Reg. 2 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
 
-[^key-0a332c2f84c4f11ec610761239b4f666]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/957/regulation/2) substituted (3.4.2023) by [The Authority to Carry Scheme and Civil Penalties Regulations 2023 (S.I. 2023/326)](https://www.legislation.gov.uk/uksi/2023/326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2023/326/regulation/3/4) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/4/2))
+[^c-0a332c2f84c4f11ec610761239b4f666]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/uksi/2015/957/regulation/2) substituted (3.4.2023) by [The Authority to Carry Scheme and Civil Penalties Regulations 2023 (S.I. 2023/326)](https://www.legislation.gov.uk/uksi/2023/326), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2023/326/regulation/3/4) (with [reg. 4(2)](https://www.legislation.gov.uk/uksi/2023/326/regulation/4/2))
 
 [^f00002]: Footnote: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77).
 
-[^key-432695aaf84d97a17a3fb14caec091be]: Commencement: Reg. 3 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
+[^c-432695aaf84d97a17a3fb14caec091be]: Commencement: Reg. 3 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
 
 [^f00003]: Footnote: Paragraph 27B was inserted by the Immigration and Asylum Act [1999 (c. 33)](https://www.legislation.gov.uk/ukpga/1999/33), section 18.
 
@@ -251,16 +251,16 @@ Regulation 3 applies to carriers who are required by the scheme to seek authorit
 
 [^f00006]: Footnote: [1911 c. 6](https://www.legislation.gov.uk/ukpga/1911/6) (1 & 2 Geo 5); section 5 was amended by the Criminal Justice Act [1948 (c. 58)](https://www.legislation.gov.uk/ukpga/1948/58), section 1(2).
 
-[^key-a842f5d3b50cb9dc7f01b41314625546]: Commencement: Reg. 4 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
+[^c-a842f5d3b50cb9dc7f01b41314625546]: Commencement: Reg. 4 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
 
-[^key-d42940e624c14314da107bd6451d8566]: Commencement: Reg. 5 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
+[^c-d42940e624c14314da107bd6451d8566]: Commencement: Reg. 5 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
 
-[^key-c9067fc4b968c4a58d6a28d3e66315a8]: Commencement: Reg. 6 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
+[^c-c9067fc4b968c4a58d6a28d3e66315a8]: Commencement: Reg. 6 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
 
-[^key-e677c659567cd1c862b86c0c3c0dd27d]: Commencement: Reg. 7 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
+[^c-e677c659567cd1c862b86c0c3c0dd27d]: Commencement: Reg. 7 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
 
 [^f00007]: Footnote: [2003 c. 39](https://www.legislation.gov.uk/ukpga/2003/39).
 
 [^f00008]: Footnote: [S.I. 1981/226 (N.I. 6)](https://www.legislation.gov.uk/nisi/1981/226).
 
-[^key-b5d11fc1f5aecded4a6ec554d9d0b16e]: Commencement: Reg. 8 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)
+[^c-b5d11fc1f5aecded4a6ec554d9d0b16e]: Commencement: Reg. 8 in force at 31.3.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/957/regulation/1/2)

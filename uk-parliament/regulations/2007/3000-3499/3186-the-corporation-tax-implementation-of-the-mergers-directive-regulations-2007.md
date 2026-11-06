@@ -67,7 +67,7 @@ In these Regulations—
 
 ## 3. Amendments of primary legislation
 
-(1)[^key-0a81bc7652b547e84510d6f16bffbb01] Schedule 1, which contains amendments to TCGA 1992, ICTA, FA 1996, FA 2002, CAA 2001 relating to cross-border transfers of business, has effect in relation to transfers which take place on or after 1st January 2007.
+(1)[^c-0a81bc7652b547e84510d6f16bffbb01] Schedule 1, which contains amendments to TCGA 1992, ICTA, FA 1996, FA 2002, CAA 2001 relating to cross-border transfers of business, has effect in relation to transfers which take place on or after 1st January 2007.
 
 (2) Schedule 2, which contains amendments to TCGA 1992, ICTA, FA 1988, FA 1996, FA 2002 and CAA 2001 relating to cross-border mergers, has effect but subject as follows—
 
@@ -76,7 +76,7 @@ In these Regulations—
   - (ii) in relation to all other mergers which take place on or after 1st January 2007;
 - (b) paragraph 15 has effect in relation to transfers of a registered office which take effect on or after 18th August 2006.
 
-(3)[^key-0a81bc7652b547e84510d6f16bffbb01] Schedule 3, which contains amendments to TCGA 1992, FA 1996 and FA 2002 relating to mergers and treatment of transparent entities, has effect—
+(3)[^c-0a81bc7652b547e84510d6f16bffbb01] Schedule 3, which contains amendments to TCGA 1992, FA 1996 and FA 2002 relating to mergers and treatment of transparent entities, has effect—
 
 - (a) in relation to mergers relating to the formation of an SE or SCE which take place on or after 18th August 2006, and
 - (b) in relation to all other mergers which take place on or after 1st January 2007.
@@ -87,7 +87,7 @@ Frank Roy
 
 Two of the Lords Commissioners of Her Majesty's Treasury
 
-## SCHEDULE 1 — CROSS-BORDER TRANSFERS OF BUSINESS[^key-d5ca874e69e2350b37c2a749820e9650]
+## SCHEDULE 1 — CROSS-BORDER TRANSFERS OF BUSINESS[^c-d5ca874e69e2350b37c2a749820e9650]
 
 Regulation 3(1)
 
@@ -231,7 +231,7 @@ After section 140(6A) (postponement of a charge on transfer of assets to non-res
 
 .
 
-#### 10. Loan relationships[^key-0f3f631b5b5c57314ea6178d3313c49a]
+#### 10. Loan relationships[^c-0f3f631b5b5c57314ea6178d3313c49a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1096,7 +1096,7 @@ In section 486(12) (industrial and provident societies and co-operative associat
 
 .
 
-## SCHEDULE 3 — MERGERS, &C.: TREATMENT OF TRANSPARENT ENTITIES[^key-f2daeb2fe7d00e95e7adbdc1d7f4edb6]
+## SCHEDULE 3 — MERGERS, &C.: TREATMENT OF TRANSPARENT ENTITIES[^c-f2daeb2fe7d00e95e7adbdc1d7f4edb6]
 
 Regulation 3(3)
 
@@ -1407,9 +1407,9 @@ A transposition note has been prepared which sets out how the main elements of t
 
 [^c18985761]: Marginal citation: [2002 c. 23](https://www.legislation.gov.uk/ukpga/2002/23).
 
-[^key-0a81bc7652b547e84510d6f16bffbb01]: Modification: Reg. 3(1)(3) modified (retrospective to 29.11.2007) by [The Corporation Tax (Implementation of the Mergers Directive) Regulations 2008 (S.I. 2008/1579)](https://www.legislation.gov.uk/uksi/2008/1579), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1579/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2008/1579/regulation/4)
+[^c-0a81bc7652b547e84510d6f16bffbb01]: Modification: Reg. 3(1)(3) modified (retrospective to 29.11.2007) by [The Corporation Tax (Implementation of the Mergers Directive) Regulations 2008 (S.I. 2008/1579)](https://www.legislation.gov.uk/uksi/2008/1579), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1579/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2008/1579/regulation/4)
 
-[^key-d5ca874e69e2350b37c2a749820e9650]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3186/schedule/1) modified (retrospective to 29.11.2007) by [The Corporation Tax (Implementation of the Mergers Directive) Regulations 2008 (S.I. 2008/1579)](https://www.legislation.gov.uk/uksi/2008/1579), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1579/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2008/1579/regulation/4)
+[^c-d5ca874e69e2350b37c2a749820e9650]: Modification: [Sch. 1](https://www.legislation.gov.uk/uksi/2007/3186/schedule/1) modified (retrospective to 29.11.2007) by [The Corporation Tax (Implementation of the Mergers Directive) Regulations 2008 (S.I. 2008/1579)](https://www.legislation.gov.uk/uksi/2008/1579), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1579/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2008/1579/regulation/4)
 
 [^c18985771]: Marginal citation: [Sections 140A](https://www.legislation.gov.uk/uksi/2007/3186/section/140A) and 140B were inserted by section 44 of the [Finance (No. 2) Act 1992 (c. 48)](https://www.legislation.gov.uk/ukpga/1992/48).
 
@@ -1425,7 +1425,7 @@ A transposition note has been prepared which sets out how the main elements of t
 
 [^c18985831]: Marginal citation: Subsections (1) and (1A) of section 179 were substituted by paragraph 4(2) of Schedule 29 to the [Finance Act 2000 (c. 17)](https://www.legislation.gov.uk/ukpga/2000/17).
 
-[^key-0f3f631b5b5c57314ea6178d3313c49a]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2007/3186/schedule/1/paragraph/10) revoked (retrospective to 29.11.2007) by [The Corporation Tax (Implementation of the Mergers Directive) Regulations 2008 (S.I. 2008/1579)](https://www.legislation.gov.uk/uksi/2008/1579), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1579/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2008/1579/regulation/5)
+[^c-0f3f631b5b5c57314ea6178d3313c49a]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/uksi/2007/3186/schedule/1/paragraph/10) revoked (retrospective to 29.11.2007) by [The Corporation Tax (Implementation of the Mergers Directive) Regulations 2008 (S.I. 2008/1579)](https://www.legislation.gov.uk/uksi/2008/1579), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1579/regulation/1/2), [5](https://www.legislation.gov.uk/uksi/2008/1579/regulation/5)
 
 [^c18985851]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
@@ -1555,7 +1555,7 @@ A transposition note has been prepared which sets out how the main elements of t
 
 [^c18986481]: Marginal citation: OJ L 207, 18.8.2003. p1.
 
-[^key-f2daeb2fe7d00e95e7adbdc1d7f4edb6]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3186/schedule/3) modified (retrospective to 29.11.2007) by [The Corporation Tax (Implementation of the Mergers Directive) Regulations 2008 (S.I. 2008/1579)](https://www.legislation.gov.uk/uksi/2008/1579), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1579/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2008/1579/regulation/4)
+[^c-f2daeb2fe7d00e95e7adbdc1d7f4edb6]: Modification: [Sch. 3](https://www.legislation.gov.uk/uksi/2007/3186/schedule/3) modified (retrospective to 29.11.2007) by [The Corporation Tax (Implementation of the Mergers Directive) Regulations 2008 (S.I. 2008/1579)](https://www.legislation.gov.uk/uksi/2008/1579), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/1579/regulation/1/2), [4](https://www.legislation.gov.uk/uksi/2008/1579/regulation/4)
 
 [^c18986491]: Marginal citation: [Section 135](https://www.legislation.gov.uk/uksi/2007/3186/section/135) was substituted by paragraph 7 of Schedule 9 to the Finance 2002.
 

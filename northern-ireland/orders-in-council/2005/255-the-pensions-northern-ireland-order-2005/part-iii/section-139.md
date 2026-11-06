@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 139. Treatment of closed schemes[^c20172921][^key-3c9159acb90a2a543e290795b0c653a8]
+## 139. Treatment of closed schemes[^c20172921][^c-3c9159acb90a2a543e290795b0c653a8]
 
 *Extent: N.I.*
 
@@ -40,6 +40,6 @@ summary: ''
 
 [^c20172921]: Commencement: [Art. 139](https://www.legislation.gov.uk/nisi/2005/255/article/139) wholly in operation at 6.4.2007; [art. 139](https://www.legislation.gov.uk/nisi/2005/255/article/139) not in operation at date of making see [art. 1(2)](https://www.legislation.gov.uk/nisi/2005/255/article/1/2); [Art. 139(1)(4)](https://www.legislation.gov.uk/nisi/2005/255/article/139/1/4) in operation for certain purposes at 1.11.2006 and wholly in operation at 6.4.2007 by [S.R. 2006/352](https://www.legislation.gov.uk/nisr/2006/352), [art. 2(3)](https://www.legislation.gov.uk/nisr/2006/352/article/2/3), [Sch. Pt. 1](https://www.legislation.gov.uk/nisr/2006/352/schedule/part/1); [art. 139](https://www.legislation.gov.uk/nisi/2005/255/article/139) in operation at 6.4.2007 in so far as it is not already in operation by [S.R. 2006/352](https://www.legislation.gov.uk/nisr/2006/352), [art. 2(5)](https://www.legislation.gov.uk/nisr/2006/352/article/2/5), [Sch. Pt. 2](https://www.legislation.gov.uk/nisr/2006/352/schedule/part/2)
 
-[^key-3c9159acb90a2a543e290795b0c653a8]: Modification: [Art. 139](https://www.legislation.gov.uk/nisi/2005/255/article/139) modified (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 106(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/106/7), [133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8) (with [s. 106(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/106/8))
+[^c-3c9159acb90a2a543e290795b0c653a8]: Modification: [Art. 139](https://www.legislation.gov.uk/nisi/2005/255/article/139) modified (29.4.2026) by [Pension Schemes Act 2026 (c. 22)](https://www.legislation.gov.uk/ukpga/2026/22), [ss. 106(7)](https://www.legislation.gov.uk/ukpga/2026/22/section/106/7), [133(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/8) (with [s. 106(8)](https://www.legislation.gov.uk/ukpga/2026/22/section/106/8))
 
 [^c17104901]: Textual amendment: mod. by SR 2005/91

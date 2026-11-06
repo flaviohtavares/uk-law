@@ -24,7 +24,7 @@ Section 53
 
 ### PART 1 — Requirements
 
-#### 1. General power[^key-a02f0a0809e1b145ab33a6fc1cb65477][^key-7dec3b54b606ad36438bf1b37f1c4540]
+#### 1. General power[^c-a02f0a0809e1b145ab33a6fc1cb65477][^c-7dec3b54b606ad36438bf1b37f1c4540]
 
 (1) The relevant national authority may by regulations make provision for the purposes of requiring specified products, in specified circumstances, to meet specified resource efficiency requirements.
 
@@ -37,7 +37,7 @@ Section 53
 
 (3) Sub-paragraph (2) does not prevent the regulations making provision in relation to a product which is not within that sub-paragraph, but is packaging for a product which is within that sub-paragraph.
 
-#### 2. Meaning of “resource efficiency requirements”[^key-84fa60e679e239128902ec39c5ef7091][^key-603a37681ea7dfe76d5b5d89fc473dbb]
+#### 2. Meaning of “resource efficiency requirements”[^c-84fa60e679e239128902ec39c5ef7091][^c-603a37681ea7dfe76d5b5d89fc473dbb]
 
 (1) “**Resource efficiency requirements**”, in relation to a product, means requirements which—
 
@@ -61,11 +61,11 @@ Section 53
 
 (4) Resource efficiency requirements may be specified by reference to standards prepared by a specified person.
 
-#### 3. Persons on whom requirements may be imposed[^key-40886bab6321ef5f94daa6ecf1ce445d][^key-fb1f8146b90555d7a567f16cb8e5c77e]
+#### 3. Persons on whom requirements may be imposed[^c-40886bab6321ef5f94daa6ecf1ce445d][^c-fb1f8146b90555d7a567f16cb8e5c77e]
 
 The regulations may impose resource efficiency requirements on a person only if the person is connected with the manufacture, import, distribution, sale or supply of the product.
 
-#### 4. Examples of provision that may be made[^key-ad41f2e49a19ec882e8e1e66a22a13de][^key-023b17ca899b8b705a1e1643797ce3a7]
+#### 4. Examples of provision that may be made[^c-ad41f2e49a19ec882e8e1e66a22a13de][^c-023b17ca899b8b705a1e1643797ce3a7]
 
 (1) The regulations may include provision—
 
@@ -78,7 +78,7 @@ The regulations may impose resource efficiency requirements on a person only if 
 - (b) for appeals against such determinations;
 - (c) about how a product’s compliance with resource efficiency requirements is to be evidenced (for example, by affixing a label or applying a marking to a product).
 
-#### 5. Consultation etc requirements[^key-d4043094410e6afff7a15a9a48fbd4ef][^key-513ca7580225587ebd14f07ed7846447]
+#### 5. Consultation etc requirements[^c-d4043094410e6afff7a15a9a48fbd4ef][^c-513ca7580225587ebd14f07ed7846447]
 
 (1) Before making regulations under this Part of this Schedule the relevant national authority must—
 
@@ -107,7 +107,7 @@ the relevant national authority must be satisfied of the matters in sub-paragrap
 
 (6) Before making regulations under this Part of this Schedule the relevant national authority must consider whether exemptions should be given, or other special provision made, for smaller businesses.
 
-#### 6. Interpretation[^key-7b2fa40832e11d22e9a7a464067de9e9][^key-cf93c914a39de323dcf965949e8f4628]
+#### 6. Interpretation[^c-7b2fa40832e11d22e9a7a464067de9e9][^c-cf93c914a39de323dcf965949e8f4628]
 
 In this Part of this Schedule—
 
@@ -117,11 +117,11 @@ In this Part of this Schedule—
 
 ### PART 2 — Enforcement
 
-#### 7. General power[^key-c1b673e5652eafebd0d61c4c9e8a79e6][^key-10c392c7b1f88994fc8a48ea4c6b35bb]
+#### 7. General power[^c-c1b673e5652eafebd0d61c4c9e8a79e6][^c-10c392c7b1f88994fc8a48ea4c6b35bb]
 
 The relevant national authority may by regulations (“**Part 2 regulations**”) make provision about the enforcement of requirements imposed by regulations (“**Part 1 regulations**”) made by the authority under Part 1 of this Schedule.
 
-#### 8. Powers to confer functions[^key-3c01e4350d87f3eaa431d35c64cb18a1][^key-2d877e7006c60258b2c25627f1018a18]
+#### 8. Powers to confer functions[^c-3c01e4350d87f3eaa431d35c64cb18a1][^c-2d877e7006c60258b2c25627f1018a18]
 
 (1) Part 2 regulations may include provision conferring functions on one or more persons specified in the regulations (each of whom is an “**enforcement authority**” for the purposes of this Part).
 
@@ -132,11 +132,11 @@ The relevant national authority may by regulations (“**Part 2 regulations**”
 
 (3) Part 2 regulations may include provision requiring an enforcement authority to issue guidance about the exercise of its functions.
 
-#### 9. Monitoring compliance[^key-d41dbc9a8cf188235dacaf7cad9b9845][^key-95991e04765b2919ec0ba55d8fd016f1]
+#### 9. Monitoring compliance[^c-d41dbc9a8cf188235dacaf7cad9b9845][^c-95991e04765b2919ec0ba55d8fd016f1]
 
 Part 2 regulations may include provision conferring on an enforcement authority the function of monitoring compliance with requirements imposed by Part 1 regulations (which may include the function of testing or assessing products).
 
-#### 10. Records and information[^key-801ed5fc5a92c237b32a33b50e822e70][^key-45b2ebe9c321aecb8b74ebd36e56e674]
+#### 10. Records and information[^c-801ed5fc5a92c237b32a33b50e822e70][^c-45b2ebe9c321aecb8b74ebd36e56e674]
 
 Part 2 regulations may include provision—
 
@@ -144,7 +144,7 @@ Part 2 regulations may include provision—
 - (b) requiring persons on whom requirements are imposed by Part 1 regulations to provide records or other information to an enforcement authority;
 - (c) requiring an enforcement authority to make reports or provide information to the relevant national authority.
 
-#### 11. Powers of entry etc[^key-236123ecbd916801f9513898ef90d2da][^key-e834e80897589192a70f516a075de83a]
+#### 11. Powers of entry etc[^c-236123ecbd916801f9513898ef90d2da][^c-e834e80897589192a70f516a075de83a]
 
 (1) Part 2 regulations may include provision conferring on an enforcement authority powers of entry, inspection, examination, search and seizure.
 
@@ -159,7 +159,7 @@ Part 2 regulations may include provision—
 - (b) enter a private dwelling without the consent of the occupier;
 - (c) search and seize material.
 
-#### 12. Sanctions[^key-8764fe60b1eca44e18fbfde07f709557][^key-b974e5d4d3932d0a51779f6a1d15f96f]
+#### 12. Sanctions[^c-8764fe60b1eca44e18fbfde07f709557][^c-b974e5d4d3932d0a51779f6a1d15f96f]
 
 (1) Part 2 regulations may include provision—
 
@@ -183,14 +183,14 @@ Part 2 regulations may include provision—
 - (b) the enforcement authority is a regulator for the purposes of Part 3 of the Regulatory Enforcement and Sanctions Act 2008, or
 - (c) the relevant national authority may make provision for the imposition of sanctions under that Part.
 
-#### 13. Costs[^key-924a5133506a095349d44b9aac20ca01][^key-fdfdc05ee7c82250bc2a00b4bbe8c2b2]
+#### 13. Costs[^c-924a5133506a095349d44b9aac20ca01][^c-fdfdc05ee7c82250bc2a00b4bbe8c2b2]
 
 Part 2 regulations may include provision—
 
 - (a) requiring persons on whom requirements are imposed by Part 1 regulations to pay costs incurred by an enforcement authority in performing its functions;
 - (b) authorising a court or tribunal dealing with any matter under Part 1 regulations or Part 2 regulations to award to an enforcement authority costs incurred by it in performing its functions under the regulations in relation to that matter.
 
-#### 14. Consultation requirement[^key-236dff1c0d8e28cce5f064b52b8f2d15][^key-36f261cbd665a4272be3d6aaffd43cfc]
+#### 14. Consultation requirement[^c-236dff1c0d8e28cce5f064b52b8f2d15][^c-36f261cbd665a4272be3d6aaffd43cfc]
 
 (1) Before making Part 2 regulations the relevant national authority must consult any persons the authority considers appropriate.
 
@@ -198,58 +198,58 @@ Part 2 regulations may include provision—
 
 ## Annotations
 
-[^key-a02f0a0809e1b145ab33a6fc1cb65477]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/1) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-a02f0a0809e1b145ab33a6fc1cb65477]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/1) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-7dec3b54b606ad36438bf1b37f1c4540]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/1) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-7dec3b54b606ad36438bf1b37f1c4540]: Commencement: [Sch. 7 para. 1](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/1) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-84fa60e679e239128902ec39c5ef7091]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/2) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-84fa60e679e239128902ec39c5ef7091]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/2) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-603a37681ea7dfe76d5b5d89fc473dbb]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/2) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-603a37681ea7dfe76d5b5d89fc473dbb]: Commencement: [Sch. 7 para. 2](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/2) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-40886bab6321ef5f94daa6ecf1ce445d]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/3) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-40886bab6321ef5f94daa6ecf1ce445d]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/3) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-fb1f8146b90555d7a567f16cb8e5c77e]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/3) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-fb1f8146b90555d7a567f16cb8e5c77e]: Commencement: [Sch. 7 para. 3](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/3) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-ad41f2e49a19ec882e8e1e66a22a13de]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/4) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-ad41f2e49a19ec882e8e1e66a22a13de]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/4) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-023b17ca899b8b705a1e1643797ce3a7]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/4) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-023b17ca899b8b705a1e1643797ce3a7]: Commencement: [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/4) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-d4043094410e6afff7a15a9a48fbd4ef]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/5) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-d4043094410e6afff7a15a9a48fbd4ef]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/5) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-513ca7580225587ebd14f07ed7846447]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/5) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-513ca7580225587ebd14f07ed7846447]: Commencement: [Sch. 7 para. 5](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/5) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-7b2fa40832e11d22e9a7a464067de9e9]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/6) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-7b2fa40832e11d22e9a7a464067de9e9]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/6) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-cf93c914a39de323dcf965949e8f4628]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/6) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-cf93c914a39de323dcf965949e8f4628]: Commencement: [Sch. 7 para. 6](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/6) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-c1b673e5652eafebd0d61c4c9e8a79e6]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/7) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-c1b673e5652eafebd0d61c4c9e8a79e6]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/7) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-10c392c7b1f88994fc8a48ea4c6b35bb]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/7) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-10c392c7b1f88994fc8a48ea4c6b35bb]: Commencement: [Sch. 7 para. 7](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/7) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-3c01e4350d87f3eaa431d35c64cb18a1]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/8) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-3c01e4350d87f3eaa431d35c64cb18a1]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/8) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-2d877e7006c60258b2c25627f1018a18]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/8) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-2d877e7006c60258b2c25627f1018a18]: Commencement: [Sch. 7 para. 8](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/8) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-d41dbc9a8cf188235dacaf7cad9b9845]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/9) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-d41dbc9a8cf188235dacaf7cad9b9845]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/9) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-95991e04765b2919ec0ba55d8fd016f1]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/9) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-95991e04765b2919ec0ba55d8fd016f1]: Commencement: [Sch. 7 para. 9](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/9) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-801ed5fc5a92c237b32a33b50e822e70]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/10) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-801ed5fc5a92c237b32a33b50e822e70]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/10) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-45b2ebe9c321aecb8b74ebd36e56e674]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/10) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-45b2ebe9c321aecb8b74ebd36e56e674]: Commencement: [Sch. 7 para. 10](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/10) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-236123ecbd916801f9513898ef90d2da]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/11) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-236123ecbd916801f9513898ef90d2da]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/11) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-e834e80897589192a70f516a075de83a]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/11) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-e834e80897589192a70f516a075de83a]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/11) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-8764fe60b1eca44e18fbfde07f709557]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/12) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-8764fe60b1eca44e18fbfde07f709557]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/12) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-b974e5d4d3932d0a51779f6a1d15f96f]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/12) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-b974e5d4d3932d0a51779f6a1d15f96f]: Commencement: [Sch. 7 para. 12](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/12) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-924a5133506a095349d44b9aac20ca01]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/13) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-924a5133506a095349d44b9aac20ca01]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/13) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-fdfdc05ee7c82250bc2a00b4bbe8c2b2]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/13) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-fdfdc05ee7c82250bc2a00b4bbe8c2b2]: Commencement: [Sch. 7 para. 13](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/13) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
 
-[^key-236dff1c0d8e28cce5f064b52b8f2d15]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/14) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
+[^c-236dff1c0d8e28cce5f064b52b8f2d15]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/14) in force at 9.1.2022 for E.W.S., see [s. 147(2)(c)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/c)
 
-[^key-36f261cbd665a4272be3d6aaffd43cfc]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/14) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)
+[^c-36f261cbd665a4272be3d6aaffd43cfc]: Commencement: [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2021/30/schedule/7/paragraph/14) in force at 28.2.2022 for N.I. by [S.R. 2022/54](https://www.legislation.gov.uk/nisr/2022/54), [art. 2(1)(e)](https://www.legislation.gov.uk/nisr/2022/54/article/2/1/e)

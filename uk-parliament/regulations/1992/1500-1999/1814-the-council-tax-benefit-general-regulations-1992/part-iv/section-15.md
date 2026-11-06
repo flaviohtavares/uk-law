@@ -16,16 +16,16 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 15. Average weekly earnings of self-employed earners[^key-1baf28d1916afc69511c9b2be7e719fe]
+## 15. Average weekly earnings of self-employed earners[^c-1baf28d1916afc69511c9b2be7e719fe]
 
 *Extent: E+W+S*
 
-(1) Where a claimant’s income consists of earnings from employment as a selfemployed earner his average weekly earnings shall be estimated by reference to his earnings from that employment over such period as is appropriate in order that his average weekly earnings over the benefit period may be estimated accurately but the length of the period shall not in any case exceed a year[^key-920b675347e4e02c3a589fc82506109d].
+(1) Where a claimant’s income consists of earnings from employment as a selfemployed earner his average weekly earnings shall be estimated by reference to his earnings from that employment over such period as is appropriate in order that his average weekly earnings over the benefit period may be estimated accurately but the length of the period shall not in any case exceed a year[^c-920b675347e4e02c3a589fc82506109d].
 
 (2) For the purposes of this regulation the claimant’s earnings shall be calculated in accordance with Chapter IV of this Part.
 
 ## Annotations
 
-[^key-1baf28d1916afc69511c9b2be7e719fe]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1992/1814/regulation/15) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-1baf28d1916afc69511c9b2be7e719fe]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/1992/1814/regulation/15) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
 
-[^key-920b675347e4e02c3a589fc82506109d]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/15/1) substituted (4.10.1993) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/2118)](https://www.legislation.gov.uk/uksi/1993/2118), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/1993/2118/regulation/20)
+[^c-920b675347e4e02c3a589fc82506109d]: Textual amendment: Words in [reg. 15(1)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/15/1) substituted (4.10.1993) by [The Housing Benefit and Council Tax Benefit (Miscellaneous Amendments) Regulations 1993 (S.I. 1993/2118)](https://www.legislation.gov.uk/uksi/1993/2118), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1993/2118/regulation/1/1), [20](https://www.legislation.gov.uk/uksi/1993/2118/regulation/20)

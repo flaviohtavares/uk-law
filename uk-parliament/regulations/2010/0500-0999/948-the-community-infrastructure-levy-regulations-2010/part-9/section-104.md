@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 104. Charging orders: further provision[^key-759bc88d130b266f09fd3d1aff13231d]
+## 104. Charging orders: further provision[^c-759bc88d130b266f09fd3d1aff13231d]
 
 *Extent: E+W*
 
@@ -38,7 +38,7 @@ summary: ''
 
 ## Annotations
 
-[^key-759bc88d130b266f09fd3d1aff13231d]: Commencement: Reg. 104 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-759bc88d130b266f09fd3d1aff13231d]: Commencement: Reg. 104 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
 
 [^f00050]: Footnote: [1972 c. 61](https://www.legislation.gov.uk/ukpga/1972/61).
 

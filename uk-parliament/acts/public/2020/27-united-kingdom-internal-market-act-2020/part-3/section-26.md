@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Exception from section 24 where individual assessment offered[^key-34e7e8d45620e46e524b612e448a8b29]
+## 26. Exception from section 24 where individual assessment offered[^c-34e7e8d45620e46e524b612e448a8b29]
 
 *Extent: E+W+S+N.I.*
 
@@ -87,4 +87,4 @@ But a failure to comply with this duty does not mean that the process does not c
 
 ## Annotations
 
-[^key-34e7e8d45620e46e524b612e448a8b29]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2020/27/section/26) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/c)
+[^c-34e7e8d45620e46e524b612e448a8b29]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2020/27/section/26) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/c)

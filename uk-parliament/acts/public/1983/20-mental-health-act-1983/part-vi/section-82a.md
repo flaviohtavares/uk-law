@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+N.I.*
 
-(1) If it appears to the Department of Justice in Northern Ireland[^key-9724301598af8e3da1a299637797c8bc], in the case of a patient who—
+(1) If it appears to the Department of Justice in Northern Ireland[^c-9724301598af8e3da1a299637797c8bc], in the case of a patient who—
 
 - (a) is subject to a restriction order or restriction direction under Article 47(1) or 55(1) of the [^c10389131] Mental Health (Northern Ireland) Order 1986; and
 - (b) has been conditionally discharged under Article 48(2) or 78(2) of that Order,
@@ -34,7 +34,7 @@ that a transfer under this section would be in the interests of the patient, the
 
 (3) Where a patient responsibility for whom is transferred under this section was immediately before the transfer subject to a restriction order or restriction direction of limited duration, the restriction order or restriction direction to which he is subject by virtue of subsection (2) above shall expire on the date on which the first-mentioned order or direction would have expired if the transfer had not been made.
 
-(4)[^key-bd5c8ab0302bb99f344b5033b82ceecb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-bd5c8ab0302bb99f344b5033b82ceecb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -42,10 +42,10 @@ that a transfer under this section would be in the interests of the patient, the
 
 [^c19870661]: Textual amendment: S. 82A: title substituted (1.10.2007 for E. W.) by virtue of [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 39](https://www.legislation.gov.uk/ukpga/2007/12/section/39), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2007/12/schedule/5/paragraph/9) (with [Sch. 10](https://www.legislation.gov.uk/ukpga/2007/12/schedule/10)); [S. I. 2007/2798](https://www.legislation.gov.uk/uksi/2007/2798), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2007/2798/article/2/c/iv)
 
-[^key-9724301598af8e3da1a299637797c8bc]: Textual amendment: Words in s. 82A(1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/28/3/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-9724301598af8e3da1a299637797c8bc]: Textual amendment: Words in s. 82A(1) substituted (12.4.2010) by [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 28(3)(a)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/28/3/a) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
 
 [^c10389131]: Marginal citation: [S.I. 1986/596 (N.I.4)](https://www.legislation.gov.uk/nisi/1986/596).
 
 [^c19870681]: Textual amendment: S. 82A(2)(b) substituted (1.10.2007 for E. W.) by [Mental Health Act 2007 (c. 12)](https://www.legislation.gov.uk/ukpga/2007/12), [ss. 39](https://www.legislation.gov.uk/ukpga/2007/12/section/39), [56](https://www.legislation.gov.uk/ukpga/2007/12/section/56), [Sch. 5 para. 9](https://www.legislation.gov.uk/ukpga/2007/12/schedule/5/paragraph/9) (with [Sch. 10](https://www.legislation.gov.uk/ukpga/2007/12/schedule/10)); [S. I. 2007/2798](https://www.legislation.gov.uk/uksi/2007/2798), [art. 2(c)(iv)](https://www.legislation.gov.uk/uksi/2007/2798/article/2/c/iv)
 
-[^key-bd5c8ab0302bb99f344b5033b82ceecb]: Textual amendment: S. 82A(4) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/28/3/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))
+[^c-bd5c8ab0302bb99f344b5033b82ceecb]: Textual amendment: S. 82A(4) omitted (12.4.2010) by virtue of [The Northern Ireland Act 1998 (Devolution of Policing and Justice Functions) Order 2010 (S.I. 2010/976)](https://www.legislation.gov.uk/uksi/2010/976), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2), [Sch. 14 para. 28(3)(b)](https://www.legislation.gov.uk/uksi/2010/976/schedule/14/paragraph/28/3/b) (with [arts. 28-31](https://www.legislation.gov.uk/uksi/2010/976/article/28))

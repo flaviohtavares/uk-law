@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Gold, precious metals or diamonds[^key-d54fa6b0fe4a6321bd5d173b12666d6a][^key-6d244f12b29474ed3289d6c06d20b116]
+## 52. Gold, precious metals or diamonds[^c-d54fa6b0fe4a6321bd5d173b12666d6a][^c-6d244f12b29474ed3289d6c06d20b116]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d54fa6b0fe4a6321bd5d173b12666d6a]: Commencement: Reg. 52 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-d54fa6b0fe4a6321bd5d173b12666d6a]: Commencement: Reg. 52 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-6d244f12b29474ed3289d6c06d20b116]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2019/411/regulation/52) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d244f12b29474ed3289d6c06d20b116]: Commencement: [Reg. 52](https://www.legislation.gov.uk/uksi/2019/411/regulation/52) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

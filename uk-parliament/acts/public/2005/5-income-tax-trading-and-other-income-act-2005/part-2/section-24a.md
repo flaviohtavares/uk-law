@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24A. Cash basis to apply by default[^key-adb925b3dda30f1fc062255227f09401]
+## 24A. Cash basis to apply by default[^c-adb925b3dda30f1fc062255227f09401]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-adb925b3dda30f1fc062255227f09401]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/2005/5/section/24A) and cross-heading inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 2](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/2), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))
+[^c-adb925b3dda30f1fc062255227f09401]: Textual amendment: [S. 24A](https://www.legislation.gov.uk/ukpga/2005/5/section/24A) and cross-heading inserted (6.4.2024 for the tax year 2024-25 and subsequent tax years) by [Finance Act 2024 (c. 3)](https://www.legislation.gov.uk/ukpga/2024/3), [Sch. 10 paras. 2](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/2), [47](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/47) (with [Sch. 10 paras. 48-50](https://www.legislation.gov.uk/ukpga/2024/3/schedule/10/paragraph/48))

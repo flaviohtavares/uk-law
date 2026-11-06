@@ -27,7 +27,7 @@ summary: ''
 
 of such amounts representing its net saving of expenditure on the disposal of the waste as the authority determines.
 
-(1A)[^c18962251] The Secretary of State may by order disapply subsection (1) above in relation to any waste disposal authority constituted under section 10 of the Local Government Act 1985 (joint arrangements for waste disposal in London and metropolitan counties) [^key-0916287ec746e9a17baed938d8d8b25a]....
+(1A)[^c18962251] The Secretary of State may by order disapply subsection (1) above in relation to any waste disposal authority constituted under section 10 of the Local Government Act 1985 (joint arrangements for waste disposal in London and metropolitan counties) [^c-0916287ec746e9a17baed938d8d8b25a]....
 
 (1B)[^c18966921] A waste disposal authority is not required to make payments to a waste collection authority under subsection (1) above where, on the basis of arrangements involving the two authorities, the waste collection authority has agreed that such payments need not be made.
 
@@ -103,7 +103,7 @@ of such amounts representing its net saving of expenditure on the disposal of th
 
 [^c18962251]: Textual amendment: S. 52(1A) inserted (E.W.) (7.3.2006) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 49(3)](https://www.legislation.gov.uk/ukpga/2005/16/section/49/3), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108); [S.I. 2006/656](https://www.legislation.gov.uk/uksi/2006/656), [art. 2](https://www.legislation.gov.uk/uksi/2006/656/article/2)
 
-[^key-0916287ec746e9a17baed938d8d8b25a]: Textual amendment: Words in s. 52(1A) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 6(25)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6/25); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
+[^c-0916287ec746e9a17baed938d8d8b25a]: Textual amendment: Words in s. 52(1A) omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 13 para. 6(25)](https://www.legislation.gov.uk/ukpga/2015/20/schedule/13/paragraph/6/25); [S.I. 2015/994](https://www.legislation.gov.uk/uksi/2015/994), [art. 6(g)](https://www.legislation.gov.uk/uksi/2015/994/article/6/g)
 
 [^c18966921]: Textual amendment: S. 52(1B) inserted (E.W.) (6.4.2006) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 49(4)](https://www.legislation.gov.uk/ukpga/2005/16/section/49/4), [108](https://www.legislation.gov.uk/ukpga/2005/16/section/108); [S.I. 2006/656](https://www.legislation.gov.uk/uksi/2006/656), [art. 3](https://www.legislation.gov.uk/uksi/2006/656/article/3)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Amendment of section 35[^key-7a23644bf92671c132ce206453544272]
+## 28. Amendment of section 35[^c-7a23644bf92671c132ce206453544272]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ In section 35 (effect on registration of disqualification in another EEA state)â
 
 ## Annotations
 
-[^key-7a23644bf92671c132ce206453544272]: Commencement: Art. 28 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)
+[^c-7a23644bf92671c132ce206453544272]: Commencement: Art. 28 not in force at made date, see [art. 1(5)](https://www.legislation.gov.uk/uksi/2005/2011/article/1/5)

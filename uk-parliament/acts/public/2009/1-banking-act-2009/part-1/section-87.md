@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Interpretation[^M_I_f5a4986a-402b-4eb2-c09f-b7cb2e603553][^key-cf878fe16e8a0f9558e414ff39806538]
+## 87. Interpretation[^M_I_f5a4986a-402b-4eb2-c09f-b7cb2e603553][^c-cf878fe16e8a0f9558e414ff39806538]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 [^M_I_f5a4986a-402b-4eb2-c09f-b7cb2e603553]: Commencement: S. 87 in force at 17.2.2009 for specified purposes by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), arts. 2, 3, Sch. para. 1
 
-[^key-cf878fe16e8a0f9558e414ff39806538]: Commencement: S. 87 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)
+[^c-cf878fe16e8a0f9558e414ff39806538]: Commencement: S. 87 in force at 21.2.2009 in so far as not already in force by [S.I. 2009/296](https://www.legislation.gov.uk/uksi/2009/296), [arts. 2](https://www.legislation.gov.uk/uksi/2009/296/article/2), [3](https://www.legislation.gov.uk/uksi/2009/296/article/3), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2009/296/schedule/paragraph/1)

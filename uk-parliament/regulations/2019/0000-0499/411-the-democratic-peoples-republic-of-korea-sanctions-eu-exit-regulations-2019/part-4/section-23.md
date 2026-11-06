@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Designated persons: closure of representative offices[^key-411256ea87d6c73bbb282793705df704][^key-c8a231bdfee4d6405e4165304272ae76]
+## 23. Designated persons: closure of representative offices[^c-411256ea87d6c73bbb282793705df704][^c-c8a231bdfee4d6405e4165304272ae76]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,6 +37,6 @@ summary: ''
 
 ## Annotations
 
-[^key-411256ea87d6c73bbb282793705df704]: Commencement: Reg. 23 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-411256ea87d6c73bbb282793705df704]: Commencement: Reg. 23 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-c8a231bdfee4d6405e4165304272ae76]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2019/411/regulation/23) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c8a231bdfee4d6405e4165304272ae76]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2019/411/regulation/23) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

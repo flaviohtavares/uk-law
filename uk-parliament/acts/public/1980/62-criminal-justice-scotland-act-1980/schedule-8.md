@@ -30,7 +30,7 @@ Section 83(3).
 | 38 & 39 Vict. c. 86. | The Conspiracy, and Protection of Property Act 1875. | Section 11. |
 | 50 & 51 Vict. c. 35. | The Criminal Procedure (Scotland) Act 1887. | Schedules F and G. |
 | 55 & 56 Vict. c. 55. | The Burgh Police (Scotland) Act 1892. | Section 382. |
-| 2 & 3 *(Extent: S)* *(affected by repeal, see note)*[^key-170d2625ff2fac122953d7b95e32f703] Geo. *(Extent: S)* *(affected by repeal, see note)*[^key-170d2625ff2fac122953d7b95e32f703] 5. c. 14. *(Extent: S)* *(affected by repeal, see note)*[^key-170d2625ff2fac122953d7b95e32f703] | The Protection of Animals (Scotland) Act 1912 *(Extent: S)* *(affected by repeal, see note)*[^key-170d2625ff2fac122953d7b95e32f703]. | Section 4. *(Extent: S)* *(affected by repeal, see note)*[^key-170d2625ff2fac122953d7b95e32f703] |
+| 2 & 3 *(Extent: S)* *(affected by repeal, see note)*[^c-170d2625ff2fac122953d7b95e32f703] Geo. *(Extent: S)* *(affected by repeal, see note)*[^c-170d2625ff2fac122953d7b95e32f703] 5. c. 14. *(Extent: S)* *(affected by repeal, see note)*[^c-170d2625ff2fac122953d7b95e32f703] | The Protection of Animals (Scotland) Act 1912 *(Extent: S)* *(affected by repeal, see note)*[^c-170d2625ff2fac122953d7b95e32f703]. | Section 4. *(Extent: S)* *(affected by repeal, see note)*[^c-170d2625ff2fac122953d7b95e32f703] |
 | 23 & 24 Geo. 5. c. 12. | The Children and Young Persons Act 1933. | Section 26(5). |
 | 8 & 9 Geo. 6. c. 44. | The Treason Act 1945. | The whole Act. |
 | 12, 13 & 14 Geo. 6. c. 94. | The Criminal Justice (Scotland) Act 1949. | Section 21. |
@@ -126,6 +126,6 @@ Section 83(3).
 
 [^c10853061]: Modification: The text of Sch. 7 para. 22, Sch. 8 is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and, except as specified, does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 
-[^key-170d2625ff2fac122953d7b95e32f703]: Textual amendment: Entry relating to Protection of Animals (Scotland) Act 1912 in [Sch. 8](https://www.legislation.gov.uk/ukpga/1980/62/schedule/8) repealed (S.) (3.11.2006) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536)](https://www.legislation.gov.uk/ssi/2006/536), [art. 1](https://www.legislation.gov.uk/ssi/2006/536/article/1), [Sch. 3](https://www.legislation.gov.uk/ssi/2006/536/schedule/3)
+[^c-170d2625ff2fac122953d7b95e32f703]: Textual amendment: Entry relating to Protection of Animals (Scotland) Act 1912 in [Sch. 8](https://www.legislation.gov.uk/ukpga/1980/62/schedule/8) repealed (S.) (3.11.2006) by [The Animal Health and Welfare (Scotland) Act 2006 (Consequential Provisions) Order 2006 (S.S.I. 2006/536)](https://www.legislation.gov.uk/ssi/2006/536), [art. 1](https://www.legislation.gov.uk/ssi/2006/536/article/1), [Sch. 3](https://www.legislation.gov.uk/ssi/2006/536/schedule/3)
 
 [^c10853071]: Textual amendment: Sch. 8: Entry relating to s. 26(5) of the Criminal Justice Act 1961 repealed by [Statute Law (Repeals) Act 1986 (c. 12)](https://www.legislation.gov.uk/ukpga/1986/12), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1986/12/section/1/1), [Sch. 1](https://www.legislation.gov.uk/ukpga/1986/12/schedule/1), [Pt. I](https://www.legislation.gov.uk/ukpga/1986/12/part/I)

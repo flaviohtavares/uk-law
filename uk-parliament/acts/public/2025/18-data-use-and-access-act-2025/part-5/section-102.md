@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 102. Annual report on regulatory action[^key-f890ab85c23b701077eb877d506ae913][^key-46c122ac7c708126f90c0d82332f0509]
+## 102. Annual report on regulatory action[^c-f890ab85c23b701077eb877d506ae913][^c-46c122ac7c708126f90c0d82332f0509]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,6 +67,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f890ab85c23b701077eb877d506ae913]: Commencement: S. 102 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
+[^c-f890ab85c23b701077eb877d506ae913]: Commencement: S. 102 not in force at Royal Assent, see [s. 142(1)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)
 
-[^key-46c122ac7c708126f90c0d82332f0509]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2025/18/section/102) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/i)
+[^c-46c122ac7c708126f90c0d82332f0509]: Commencement: [S. 102](https://www.legislation.gov.uk/ukpga/2025/18/section/102) in force at 20.8.2025 by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(i)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/i)

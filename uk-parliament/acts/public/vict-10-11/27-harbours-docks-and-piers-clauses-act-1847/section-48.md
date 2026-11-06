@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Collector of customs may withhold a clearance to any vessel until the rates paid.[^c559579][^c559580][^c559581][^c559582][^c559583][^key-d9b1f9db9f5e9b2d9474624cb8af5c7c][^c559578]
+## 48. Collector of customs may withhold a clearance to any vessel until the rates paid.[^c559579][^c559580][^c559581][^c559582][^c559583][^c-d9b1f9db9f5e9b2d9474624cb8af5c7c][^c559578]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,7 +34,7 @@ The collector or other proper officer of her Majesty’s Customs for the distric
 
 [^c559583]: Modification: Ss. 27-48 applied (with modifications)(E.W.S.)(23. 5. 1991) by [S.I. 1991/1258](https://www.legislation.gov.uk/uksi/1991/1258), [art. 8(3)](https://www.legislation.gov.uk/uksi/1991/1258/article/8/3).
 
-[^key-d9b1f9db9f5e9b2d9474624cb8af5c7c]: Modification: Ss. 43-48 applied (S.) (7.11.2008) by [Whiteness Marina Harbour Revision Order 2008 (S.S.I. 2008/361)](https://www.legislation.gov.uk/ssi/2008/361), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1), [19(10)](https://www.legislation.gov.uk/ssi/2008/361/article/19/10) (with [arts. 31](https://www.legislation.gov.uk/ssi/2008/361/article/31), [33](https://www.legislation.gov.uk/ssi/2008/361/article/33))
+[^c-d9b1f9db9f5e9b2d9474624cb8af5c7c]: Modification: Ss. 43-48 applied (S.) (7.11.2008) by [Whiteness Marina Harbour Revision Order 2008 (S.S.I. 2008/361)](https://www.legislation.gov.uk/ssi/2008/361), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1), [19(10)](https://www.legislation.gov.uk/ssi/2008/361/article/19/10) (with [arts. 31](https://www.legislation.gov.uk/ssi/2008/361/article/31), [33](https://www.legislation.gov.uk/ssi/2008/361/article/33))
 
 [^c559578]: Modification: Ss. 34-46, 48 extended by [Transport Act 1962 (c. 46)](https://www.legislation.gov.uk/ukpga/1962/46), [Sch. 9 para. 6(2)](https://www.legislation.gov.uk/ukpga/1962/46/schedule/9/paragraph/6/2)
 

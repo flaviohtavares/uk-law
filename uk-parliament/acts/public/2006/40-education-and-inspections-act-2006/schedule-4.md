@@ -24,9 +24,9 @@ Section 36
 
 ### Part 1 — Amendments to Schedule 22 to SSFA 1998
 
-**1.**[^key-594d6c3592922a9803faacee5781ac9f] Schedule 22 to SSFA 1998 (disposal of land by foundation, voluntary or foundation special schools and disposals on discontinuance) is amended as follows.
+**1.**[^c-594d6c3592922a9803faacee5781ac9f] Schedule 22 to SSFA 1998 (disposal of land by foundation, voluntary or foundation special schools and disposals on discontinuance) is amended as follows.
 
-**2.**[^key-6aeee3a01d291e05eb01c96eaf552c41] Before Part 1 of the Schedule insert—
+**2.**[^c-6aeee3a01d291e05eb01c96eaf552c41] Before Part 1 of the Schedule insert—
 
 > **Part A1 — Foundation, voluntary and foundation special schools in england: disposals of land**
 >
@@ -882,9 +882,9 @@ Section 36
 >
 > (2) The “**relevant period**” means the period of 6 months beginning with the date upon which the grant is made.
 
-**3.**[^key-10968e0b33be5dbb8a821e2d466ecdec] In the heading to Part 1 of the Schedule after “SCHOOLS” insert “ IN WALES ”.
+**3.**[^c-10968e0b33be5dbb8a821e2d466ecdec] In the heading to Part 1 of the Schedule after “SCHOOLS” insert “ IN WALES ”.
 
-**4.**[^key-c6a2119fa6601b56f2bd0f610af0810f] (1) Paragraph 1 is amended as follows.
+**4.**[^c-c6a2119fa6601b56f2bd0f610af0810f] (1) Paragraph 1 is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -901,7 +901,7 @@ Section 36
 - (b) for “he”, wherever occurring, substitute “ the Assembly ”, and
 - (c) for “him” substitute “ the Assembly ”.
 
-**5.**[^key-b3582b9a8f937636cc219f5a18247a78] (1) Paragraph 2 is amended as follows.
+**5.**[^c-b3582b9a8f937636cc219f5a18247a78] (1) Paragraph 2 is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -920,7 +920,7 @@ Section 36
 - (a) for “his” substitute “ its ”, and
 - (b) for “he”, wherever occurring, substitute “ the Assembly ”.
 
-**6.**[^key-2f8883a4e3a74cad8a4bc8e88652aa81] (1) Paragraph 2A is amended as follows.
+**6.**[^c-2f8883a4e3a74cad8a4bc8e88652aa81] (1) Paragraph 2A is amended as follows.
 
 (2) In sub-paragraph (1) after “trustees of a foundation or foundation special school” insert “ in Wales ”.
 
@@ -933,7 +933,7 @@ Section 36
 
 (5) In sub-paragraph (6) after “foundation special school” insert “ in Wales ”.
 
-**7.**[^key-0a189d8d42e70e285b6d07993186fb30] (1) Paragraph 3 is amended as follows.
+**7.**[^c-0a189d8d42e70e285b6d07993186fb30] (1) Paragraph 3 is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -955,7 +955,7 @@ Section 36
 
 (7) In sub-paragraph (12) after “foundation special school” insert “ in Wales ”.
 
-**8.**[^key-935f1393f9fb4af01352b0acc8e0b8f2] (1) Paragraph 4 is amended as follows.
+**8.**[^c-935f1393f9fb4af01352b0acc8e0b8f2] (1) Paragraph 4 is amended as follows.
 
 (2) In sub-paragraph (1)—
 
@@ -967,7 +967,7 @@ Section 36
 - (a) for “Secretary of State” substitute “ Assembly ”, and
 - (b) for “he” substitute “ the Assembly ”.
 
-**9.**[^key-d74d67dc9e64ab72cabcf9a1de5855ba] (1) Paragraph 5 is amended as follows.
+**9.**[^c-d74d67dc9e64ab72cabcf9a1de5855ba] (1) Paragraph 5 is amended as follows.
 
 (2) In sub-paragraph (1)(b)—
 
@@ -1078,7 +1078,7 @@ Section 36
 
 (13) In sub-paragraph (6) after “Where” insert “ the school is in Wales and ”.
 
-**10.**[^key-c98004ed94ce78be8a8f0f954ce17de1] (1) Paragraph 6 is amended as follows.
+**10.**[^c-c98004ed94ce78be8a8f0f954ce17de1] (1) Paragraph 6 is amended as follows.
 
 (2) In sub-paragraph (1) for “Secretary of State's” substitute “ appropriate authority's ”.
 
@@ -1100,16 +1100,16 @@ Section 36
 
 (5) In sub-paragraph (4) after “Where” insert “ the school is in Wales and ”.
 
-**11.**[^key-e23b66affdfdefd711c75503432bf6e3] In paragraph 7, in sub-paragraphs (2)(ii), (3)(c) and (6), for “Secretary of State” substitute “ appropriate authority ”.
+**11.**[^c-e23b66affdfdefd711c75503432bf6e3] In paragraph 7, in sub-paragraphs (2)(ii), (3)(c) and (6), for “Secretary of State” substitute “ appropriate authority ”.
 
-**12.**[^key-ad6adb4508af56494365748916a8d0eb] In paragraph 8(2)—
+**12.**[^c-ad6adb4508af56494365748916a8d0eb] In paragraph 8(2)—
 
 - (a) for “Secretary of State” substitute “ appropriate authority ”,
 - (b) for “he”, wherever occurring, substitute “ the appropriate authority ”,
 - (c) for “him” substitute “ the appropriate authority ”, and
 - (d) for “the authority”, wherever occurring, substitute “ the local education authority ”.
 
-**13.**[^key-3cc41c30b8695798ae0341878b13e325] After paragraph 8 insert—
+**13.**[^c-3cc41c30b8695798ae0341878b13e325] After paragraph 8 insert—
 
 > **Part 2A — Maintained school: transfer of land from trustee to governing body**
 >
@@ -1143,12 +1143,12 @@ Section 36
 > - “**charity**” has the same meaning as in the Charities Act 1993;
 > - “**foundation**” means a foundation established otherwise than under this Act.
 
-**14.**[^key-3932935552e8bba06ac6c9714b4f84b1] In paragraph 9(1)—
+**14.**[^c-3932935552e8bba06ac6c9714b4f84b1] In paragraph 9(1)—
 
 - (a) after “paragraph” insert “ A5, A11, A17, A23, ”, and
 - (b) for “or 8(2)(b)” substitute “ , 8(2)(b) or 8A ”.
 
-**15.**[^key-90378ec5af1af9ef1340a45988abbedc] (1) Paragraph 10 is amended as follows.
+**15.**[^c-90378ec5af1af9ef1340a45988abbedc] (1) Paragraph 10 is amended as follows.
 
 (2) In sub-paragraph (1) after paragraph (d) insert—
 
@@ -1162,7 +1162,7 @@ Section 36
 
 (5) In sub-paragraph (5) for “paragraph 1(1)” substitute “ paragraphs A1(1) and 1(1) ”.
 
-**16.**[^key-2216572c2ee76884ee0d37092fbcea56] (1) Paragraph 11 is amended as follows.
+**16.**[^c-2216572c2ee76884ee0d37092fbcea56] (1) Paragraph 11 is amended as follows.
 
 (2) For paragraph (a) of sub-paragraph (1) substitute—
 
@@ -1212,7 +1212,7 @@ Section 36
 >
 > (8) Directions under sub-paragraph (7)(b) may be expressed to have effect in specified circumstances or subject to specified conditions.
 
-**17.**[^key-fd6e780015eb663ded1540a550ffe39c] After paragraph 11 insert—
+**17.**[^c-fd6e780015eb663ded1540a550ffe39c] After paragraph 11 insert—
 
 > **12.** (1) For the purposes of paragraph 11(1)(a), “**proper accounting practices**”, in relation to a governing body, means those accounting practices—
 >
@@ -1223,7 +1223,7 @@ Section 36
 
 ### Part 2 — Amendments to section 77 of SSFA 1998
 
-**18.**[^key-e7971f066a3ca63237803886f822a3c0] (1) Section 77 of SSFA 1998 (control of disposals or changes of use of school playing fields in relation to England) is amended as follows.
+**18.**[^c-e7971f066a3ca63237803886f822a3c0] (1) Section 77 of SSFA 1998 (control of disposals or changes of use of school playing fields in relation to England) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -1268,15 +1268,15 @@ Section 36
 
 ### Part 3 — Consequential amendments
 
-**19.**[^key-9bfd91912b15596adca8ade5d7266ce9] In section 75(2) of SSFA 1998 (transfer of land by governing body to trustees) after “Paragraph” insert “ A1 or ”.
+**19.**[^c-9bfd91912b15596adca8ade5d7266ce9] In section 75(2) of SSFA 1998 (transfer of land by governing body to trustees) after “Paragraph” insert “ A1 or ”.
 
-**20.**[^key-121bd7b18cf93ab0b31898a240565297][^key-10d582643c58d97a147226b0506597f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-121bd7b18cf93ab0b31898a240565297][^c-10d582643c58d97a147226b0506597f6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-27551537355843a2d9d295d52877a4a4] In section 138 of SSFA 1998 (orders and regulations), in subsection (2)(b) (orders not made by statutory instrument), for “or 7(3)(c)” substitute “ , 7(3)(c) or 8A ”.
+**21.**[^c-27551537355843a2d9d295d52877a4a4] In section 138 of SSFA 1998 (orders and regulations), in subsection (2)(b) (orders not made by statutory instrument), for “or 7(3)(c)” substitute “ , 7(3)(c) or 8A ”.
 
-**22.**[^key-dba019366899f59bd3d52553d7ff6f02] In Schedule 3 to SSFA 1998 (funding of foundation, voluntary and foundation special schools), in paragraph 2, in sub-paragraph (10), after “paragraphs” insert “ A1 to A16 or ”.
+**22.**[^c-dba019366899f59bd3d52553d7ff6f02] In Schedule 3 to SSFA 1998 (funding of foundation, voluntary and foundation special schools), in paragraph 2, in sub-paragraph (10), after “paragraphs” insert “ A1 to A16 or ”.
 
-**23.**[^key-1abab16b7d70de132617f0758c7fc649] In Schedule 32 to SSFA 1998 (transitional provisions and savings), in paragraph 4(4)—
+**23.**[^c-1abab16b7d70de132617f0758c7fc649] In Schedule 32 to SSFA 1998 (transitional provisions and savings), in paragraph 4(4)—
 
 - (a) in paragraph (a) for “paragraph 1(1)(d)” substitute “ paragraphs A1(1)(f) and 1(1)(d) ”,
 - (b) in paragraph (b) for “paragraph 2(1)(d)” substitute “ paragraphs A7(1)(e) and 2(1)(d) ”, and
@@ -1284,50 +1284,50 @@ Section 36
 
 ## Annotations
 
-[^key-594d6c3592922a9803faacee5781ac9f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/1) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-594d6c3592922a9803faacee5781ac9f]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/1) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-6aeee3a01d291e05eb01c96eaf552c41]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/2) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-6aeee3a01d291e05eb01c96eaf552c41]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/2) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-10968e0b33be5dbb8a821e2d466ecdec]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/3) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2007/935/article/8/5))
+[^c-10968e0b33be5dbb8a821e2d466ecdec]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/3) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2007/935/article/8/5))
 
-[^key-c6a2119fa6601b56f2bd0f610af0810f]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/4) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2007/935/article/8/5))
+[^c-c6a2119fa6601b56f2bd0f610af0810f]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/4) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2007/935/article/8/5))
 
-[^key-b3582b9a8f937636cc219f5a18247a78]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/5) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2007/935/article/8/5))
+[^c-b3582b9a8f937636cc219f5a18247a78]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/5) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2007/935/article/8/5))
 
-[^key-2f8883a4e3a74cad8a4bc8e88652aa81]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/6) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2007/935/article/8/5))
+[^c-2f8883a4e3a74cad8a4bc8e88652aa81]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/6) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2007/935/article/8/5))
 
-[^key-0a189d8d42e70e285b6d07993186fb30]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/7) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2007/935/article/8/5))
+[^c-0a189d8d42e70e285b6d07993186fb30]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/7) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2007/935/article/8/5))
 
-[^key-935f1393f9fb4af01352b0acc8e0b8f2]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/8) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2007/935/article/8/5))
+[^c-935f1393f9fb4af01352b0acc8e0b8f2]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/8) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p) (with [art. 8(5)](https://www.legislation.gov.uk/uksi/2007/935/article/8/5))
 
-[^key-d74d67dc9e64ab72cabcf9a1de5855ba]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/9) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-d74d67dc9e64ab72cabcf9a1de5855ba]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/9) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-c98004ed94ce78be8a8f0f954ce17de1]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/10) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-c98004ed94ce78be8a8f0f954ce17de1]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/10) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-e23b66affdfdefd711c75503432bf6e3]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/11) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-e23b66affdfdefd711c75503432bf6e3]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/11) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-ad6adb4508af56494365748916a8d0eb]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/12) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-ad6adb4508af56494365748916a8d0eb]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/12) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-3cc41c30b8695798ae0341878b13e325]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/13) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-3cc41c30b8695798ae0341878b13e325]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/13) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-3932935552e8bba06ac6c9714b4f84b1]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/14) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-3932935552e8bba06ac6c9714b4f84b1]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/14) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-90378ec5af1af9ef1340a45988abbedc]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/15) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-90378ec5af1af9ef1340a45988abbedc]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/15) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-2216572c2ee76884ee0d37092fbcea56]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/16) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-2216572c2ee76884ee0d37092fbcea56]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/16) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-fd6e780015eb663ded1540a550ffe39c]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/17) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-fd6e780015eb663ded1540a550ffe39c]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/17) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-e7971f066a3ca63237803886f822a3c0]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/18) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-e7971f066a3ca63237803886f822a3c0]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/18) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-9bfd91912b15596adca8ade5d7266ce9]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/19) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-9bfd91912b15596adca8ade5d7266ce9]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/19) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-121bd7b18cf93ab0b31898a240565297]: Textual amendment: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/20) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 4(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/4/3)
+[^c-121bd7b18cf93ab0b31898a240565297]: Textual amendment: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/20) repealed (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 27 Pt. 4(3)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/27/part/4/3)
 
-[^key-10d582643c58d97a147226b0506597f6]: Commencement: Sch. 4 para. 20 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-10d582643c58d97a147226b0506597f6]: Commencement: Sch. 4 para. 20 in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-27551537355843a2d9d295d52877a4a4]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/21) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-27551537355843a2d9d295d52877a4a4]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/21) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-dba019366899f59bd3d52553d7ff6f02]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/22) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-dba019366899f59bd3d52553d7ff6f02]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/22) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
 
-[^key-1abab16b7d70de132617f0758c7fc649]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/23) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)
+[^c-1abab16b7d70de132617f0758c7fc649]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2006/40/schedule/4/paragraph/23) in force at 25.5.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 7(p)](https://www.legislation.gov.uk/uksi/2007/935/article/7/p)

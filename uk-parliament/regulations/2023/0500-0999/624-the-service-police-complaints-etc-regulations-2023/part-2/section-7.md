@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Reports to the Secretary of State[^key-c8bca94fb456f655e7a58d513441c552]
+## 7. Reports to the Secretary of State[^c-c8bca94fb456f655e7a58d513441c552]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ as the Commissioner thinks fit.
 
 ## Annotations
 
-[^key-c8bca94fb456f655e7a58d513441c552]: Commencement: Reg. 7 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-c8bca94fb456f655e7a58d513441c552]: Commencement: Reg. 7 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

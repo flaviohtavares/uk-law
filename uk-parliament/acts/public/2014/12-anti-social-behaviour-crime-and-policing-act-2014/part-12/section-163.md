@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 163. Consent to extradition not to be taken as waiver of speciality rights[^key-b28f7649c8595032be8ecf4c2ba8dfb0]
+## 163. Consent to extradition not to be taken as waiver of speciality rights[^c-b28f7649c8595032be8ecf4c2ba8dfb0]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In the Extradition Act 2003 the following provisions are repealed—
 
 ## Annotations
 
-[^key-b28f7649c8595032be8ecf4c2ba8dfb0]: Commencement: [S. 163](https://www.legislation.gov.uk/ukpga/2014/12/section/163) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(i)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/1916/article/5))
+[^c-b28f7649c8595032be8ecf4c2ba8dfb0]: Commencement: [S. 163](https://www.legislation.gov.uk/ukpga/2014/12/section/163) in force at 21.7.2014 by [S.I. 2014/1916](https://www.legislation.gov.uk/uksi/2014/1916), [art. 2(i)](https://www.legislation.gov.uk/uksi/2014/1916/article/2/i) (with [art. 5](https://www.legislation.gov.uk/uksi/2014/1916/article/5))

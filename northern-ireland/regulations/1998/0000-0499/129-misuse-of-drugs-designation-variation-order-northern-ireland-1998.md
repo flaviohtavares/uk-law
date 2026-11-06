@@ -30,7 +30,7 @@ summary: ''
 
 DANGEROUS DRUGS
 
-Misuse of Drugs (Designation) (Variation) Order (Northern Ireland) 1998 (revoked)[^key-fa217caa8ede60438f703db5b16e99e5]
+Misuse of Drugs (Designation) (Variation) Order (Northern Ireland) 1998 (revoked)[^c-fa217caa8ede60438f703db5b16e99e5]
 
 Made
 
@@ -40,28 +40,28 @@ Coming into operation
 
 1st May 1998
 
-[^key-fa217caa8ede60438f703db5b16e99e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa217caa8ede60438f703db5b16e99e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-fa217caa8ede60438f703db5b16e99e5]
+## 1. Citation and commencement[^c-fa217caa8ede60438f703db5b16e99e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-fa217caa8ede60438f703db5b16e99e5]
+## 2. Interpretation[^c-fa217caa8ede60438f703db5b16e99e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the principal Order[^key-fa217caa8ede60438f703db5b16e99e5]
+## 3. Amendment of the principal Order[^c-fa217caa8ede60438f703db5b16e99e5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-fa217caa8ede60438f703db5b16e99e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa217caa8ede60438f703db5b16e99e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-fa217caa8ede60438f703db5b16e99e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fa217caa8ede60438f703db5b16e99e5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fa217caa8ede60438f703db5b16e99e5]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/129) revoked (1.2.2002) by [Misuse of Drugs (Designation) Order (Northern Ireland) 2001 (S.R. 2001/431)](https://www.legislation.gov.uk/nisr/2001/431), [arts. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1), [4](https://www.legislation.gov.uk/nisr/2001/431/article/4)
+[^c-fa217caa8ede60438f703db5b16e99e5]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/1998/129) revoked (1.2.2002) by [Misuse of Drugs (Designation) Order (Northern Ireland) 2001 (S.R. 2001/431)](https://www.legislation.gov.uk/nisr/2001/431), [arts. 1](https://www.legislation.gov.uk/nisr/2001/431/article/1), [4](https://www.legislation.gov.uk/nisr/2001/431/article/4)

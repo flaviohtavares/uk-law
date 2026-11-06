@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 109. Loss payments: supplementary[^key-dfb3ba57355162e30738b77d774d4931]
+## 109. Loss payments: supplementary[^c-dfb3ba57355162e30738b77d774d4931]
 
 *Extent: E+W*
 
@@ -138,4 +138,4 @@ After section 33D of the Land Compensation Act 1973 (inserted by section 108 of 
 
 ## Annotations
 
-[^key-dfb3ba57355162e30738b77d774d4931]: Commencement: S. 109 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)
+[^c-dfb3ba57355162e30738b77d774d4931]: Commencement: S. 109 in force at 31.10.2004 by [S.I. 2004/2593](https://www.legislation.gov.uk/uksi/2004/2593), [art. 2(a)](https://www.legislation.gov.uk/uksi/2004/2593/article/2/a)

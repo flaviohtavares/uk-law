@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 12A — Further provision as to the performance of pharmacovigilance activities[^key-817bdfdc816034c7d383fa13d38c9afa]
+## SCHEDULE 12A — Further provision as to the performance of pharmacovigilance activities[^c-817bdfdc816034c7d383fa13d38c9afa]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ Regulation 205A
 
 (2) The holder may, where appropriate, use separate pharmacovigilance systems for different categories of medicinal products and if it does so, each such system must be described in a separate pharmacovigilance system master file.
 
-(3) All medicinal products for which the holder obtained a UKMA(GB) or a UKMA(UK)(Category 1)[^key-a27803c15a3b5eb2bd4b61b0d182a0ee] in accordance with these Regulations must be covered by a pharmacovigilance system master file.
+(3) All medicinal products for which the holder obtained a UKMA(GB) or a UKMA(UK)(Category 1)[^c-a27803c15a3b5eb2bd4b61b0d182a0ee] in accordance with these Regulations must be covered by a pharmacovigilance system master file.
 
 #### 2. Content of the pharmacovigilance system master file
 
@@ -191,7 +191,7 @@ The pharmacovigilance system master file must have an Annex containing the follo
 
 (4) A holder must arrange for the elements referred to in sub-paragraph (2) to be kept for at least five years, beginning with the day after the system as described in the pharmacovigilance system master file has been formally terminated by the holder.
 
-(5) Pharmacovigilance data and documents relating to individual authorised medicinal products must be retained as long as the product is authorised and for at least 10 years, beginning with the date on which the UKMA(GB) or the UKMA(UK)(Category 1), as the case may be,[^key-c4fcd5300d79d749e7c3c0588f62a4b7] ceased to exist.
+(5) Pharmacovigilance data and documents relating to individual authorised medicinal products must be retained as long as the product is authorised and for at least 10 years, beginning with the date on which the UKMA(GB) or the UKMA(UK)(Category 1), as the case may be,[^c-c4fcd5300d79d749e7c3c0588f62a4b7] ceased to exist.
 
 #### 13. Audit
 
@@ -243,7 +243,7 @@ The licensing authority must establish specific procedures and processes in orde
 
 (2) The licensing authority must arrange for the essential documents describing their pharmacovigilance system to be kept for at least five years, such period beginning with the day after the system has been formally terminated.
 
-(3) Pharmacovigilance data and documents relating to individual authorised medicinal products must be retained by the licensing authority for as long as the product is authorised and for at least 10 years, such period beginning with the day after the UKMA(GB) or the UKMA(UK)(Category 1), as the case may be,[^key-f99b356266564da5e1bd492258dc4657] has expired.
+(3) Pharmacovigilance data and documents relating to individual authorised medicinal products must be retained by the licensing authority for as long as the product is authorised and for at least 10 years, such period beginning with the day after the UKMA(GB) or the UKMA(UK)(Category 1), as the case may be,[^c-f99b356266564da5e1bd492258dc4657] has expired.
 
 #### 17. Audit
 
@@ -335,7 +335,7 @@ Holders must use the formats and terminology specified in the list published und
 - (a) an identification or characterisation of the safety profile of the medicinal product concerned;
 - (b) an indication of how to characterise further the safety profile of the medicinal product(s) concerned;
 - (c) a documentation of measures to prevent or minimise the risks associated with the medicinal product, including an assessment of the effectiveness of those measures; and
-- (d) a documentation of post-authorisation obligations that have been imposed as a condition of the UKMA(GB) or the UKMA(UK)(Category 1)[^key-067e66b7f173428c0cfa664180642162].
+- (d) a documentation of post-authorisation obligations that have been imposed as a condition of the UKMA(GB) or the UKMA(UK)(Category 1)[^c-067e66b7f173428c0cfa664180642162].
 
 (2) Medicinal products may, where appropriate be subject to the same risk management plan if they—
 
@@ -530,7 +530,7 @@ The study protocol for a non-interventional post-authorisation safety studies mu
   - (iii) any study progress report as referred to in regulation 198(2),
   - (iv) any interim report of study results, if applicable, and
   - (v) final report of study results;
-- (g) rationale and background, namely a description of any safety hazard, the safety profile or the risk management measures that led to the study being imposed as an obligation for a UKMA(GB) or a UKMA(UK)(Category 1)[^key-f5667e9b9d0b3f3f0456fa8107472ff9];
+- (g) rationale and background, namely a description of any safety hazard, the safety profile or the risk management measures that led to the study being imposed as an obligation for a UKMA(GB) or a UKMA(UK)(Category 1)[^c-f5667e9b9d0b3f3f0456fa8107472ff9];
 - (h) research question and objectives in accordance with the decision of the licensing authority in imposing the study as an obligation;
 - (i) research methods, namely a description of the research methods, including—
   - (i) study design,
@@ -615,14 +615,14 @@ The final study report for a non-interventional post-authorisation safety studie
 
 ## Annotations
 
-[^key-817bdfdc816034c7d383fa13d38c9afa]: Textual amendment: Sch. 12A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/775/schedule/6) (as amended by [S.I. 2019/1385](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/9) and [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-817bdfdc816034c7d383fa13d38c9afa]: Textual amendment: Sch. 12A inserted (31.12.2020) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/775)](https://www.legislation.gov.uk/uksi/2019/775), [reg. 1](https://www.legislation.gov.uk/uksi/2019/775/regulation/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2019/775/schedule/6) (as amended by [S.I. 2019/1385](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 9](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/9) and [S.I. 2020/1488](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 192](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/192)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a27803c15a3b5eb2bd4b61b0d182a0ee]: Textual amendment: Words in [Sch. 12A para. 1(3)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/12A/paragraph/1/3) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [140(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/140/a)
+[^c-a27803c15a3b5eb2bd4b61b0d182a0ee]: Textual amendment: Words in [Sch. 12A para. 1(3)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/12A/paragraph/1/3) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [140(a)](https://www.legislation.gov.uk/uksi/2024/832/regulation/140/a)
 
-[^key-c4fcd5300d79d749e7c3c0588f62a4b7]: Textual amendment: Words in [Sch. 12A para. 12(5)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/12A/paragraph/12/5) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [140(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/140/b)
+[^c-c4fcd5300d79d749e7c3c0588f62a4b7]: Textual amendment: Words in [Sch. 12A para. 12(5)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/12A/paragraph/12/5) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [140(b)](https://www.legislation.gov.uk/uksi/2024/832/regulation/140/b)
 
-[^key-f99b356266564da5e1bd492258dc4657]: Textual amendment: Words in [Sch. 12A para. 16(3)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/12A/paragraph/16/3) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [140(c)](https://www.legislation.gov.uk/uksi/2024/832/regulation/140/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/2))
+[^c-f99b356266564da5e1bd492258dc4657]: Textual amendment: Words in [Sch. 12A para. 16(3)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/12A/paragraph/16/3) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [140(c)](https://www.legislation.gov.uk/uksi/2024/832/regulation/140/c) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/2))
 
-[^key-067e66b7f173428c0cfa664180642162]: Textual amendment: Words in [Sch. 12A para. 22(1)(d)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/12A/paragraph/22/1/d) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [140(d)](https://www.legislation.gov.uk/uksi/2024/832/regulation/140/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/2))
+[^c-067e66b7f173428c0cfa664180642162]: Textual amendment: Words in [Sch. 12A para. 22(1)(d)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/12A/paragraph/22/1/d) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [140(d)](https://www.legislation.gov.uk/uksi/2024/832/regulation/140/d) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/2))
 
-[^key-f5667e9b9d0b3f3f0456fa8107472ff9]: Textual amendment: Words in [Sch. 12A para. 30(g)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/12A/paragraph/30/g) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [140(e)](https://www.legislation.gov.uk/uksi/2024/832/regulation/140/e)
+[^c-f5667e9b9d0b3f3f0456fa8107472ff9]: Textual amendment: Words in [Sch. 12A para. 30(g)](https://www.legislation.gov.uk/uksi/2012/1916/schedule/12A/paragraph/30/g) inserted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [140(e)](https://www.legislation.gov.uk/uksi/2024/832/regulation/140/e)

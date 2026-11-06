@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Provisions supplementary to section 85: general.[^key-eaa4f31ad1d48785bbb06c978cd877a8][^key-762919b4f154852cb53de6323f7b4882]
+## 86. Provisions supplementary to section 85: general.[^c-eaa4f31ad1d48785bbb06c978cd877a8][^c-762919b4f154852cb53de6323f7b4882]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,8 +46,8 @@ and any compensation falling to be paid by virtue of regulations under paragraph
 
 ## Annotations
 
-[^key-eaa4f31ad1d48785bbb06c978cd877a8]: Modification: [S. 86](https://www.legislation.gov.uk/ukpga/1995/21/section/86) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [10](https://www.legislation.gov.uk/uksi/2023/35/article/10)
+[^c-eaa4f31ad1d48785bbb06c978cd877a8]: Modification: [S. 86](https://www.legislation.gov.uk/ukpga/1995/21/section/86) applied (31.3.2023) by [The Merchant Shipping (Watercraft) Order 2023 (S.I. 2023/35)](https://www.legislation.gov.uk/uksi/2023/35), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2023/35/article/1/1), [10](https://www.legislation.gov.uk/uksi/2023/35/article/10)
 
-[^key-762919b4f154852cb53de6323f7b4882]: Modification: [Ss. 85](https://www.legislation.gov.uk/ukpga/1995/21/section/85), [86](https://www.legislation.gov.uk/ukpga/1995/21/section/86) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 4](https://www.legislation.gov.uk/uksi/1989/1350/article/4) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/4))
+[^c-762919b4f154852cb53de6323f7b4882]: Modification: [Ss. 85](https://www.legislation.gov.uk/ukpga/1995/21/section/85), [86](https://www.legislation.gov.uk/ukpga/1995/21/section/86) extended (with modifications) (16.10.2025) by [S.I. 1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), [art. 4](https://www.legislation.gov.uk/uksi/1989/1350/article/4) (as amended by [The Hovercraft (Application of Enactments) (Amendment) Order 2025 (S.I. 2025/1094)](https://www.legislation.gov.uk/uksi/2025/1094), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/1094/article/1/2), [2(4)](https://www.legislation.gov.uk/uksi/2025/1094/article/2/4))
 
 [^c14525901]: Textual amendment: S. 86(5)(6) repealed (23.3.1997) by [1997 c. 28](https://www.legislation.gov.uk/ukpga/1997/28), [s. 29(2)](https://www.legislation.gov.uk/ukpga/1997/28/section/29/2), [Sch. 7 Pt. I](https://www.legislation.gov.uk/ukpga/1997/28/schedule/7/part/I); [S.I. 1997/1082](https://www.legislation.gov.uk/uksi/1997/1082), [art. 2](https://www.legislation.gov.uk/uksi/1997/1082/article/2), [Sch.](https://www.legislation.gov.uk/uksi/1997/1082/schedule) Appendix

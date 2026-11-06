@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Amendment of regulation 126[^key-4bc01c910c035303d71ac4f5fb7a6627]
+## 64. Amendment of regulation 126[^c-4bc01c910c035303d71ac4f5fb7a6627]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In regulation 126, in the regulation heading and in paragraph (1), for “active
 
 ## Annotations
 
-[^key-4bc01c910c035303d71ac4f5fb7a6627]: Commencement: Reg. 64 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)
+[^c-4bc01c910c035303d71ac4f5fb7a6627]: Commencement: Reg. 64 in force at 1.4.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1)

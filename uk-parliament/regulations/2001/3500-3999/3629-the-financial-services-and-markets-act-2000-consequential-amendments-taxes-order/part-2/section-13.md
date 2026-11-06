@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Introduction[^key-561b988bb6bf8820d14820106b18f722]
+## 13. Introduction[^c-561b988bb6bf8820d14820106b18f722]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Amend the Income and Corporation Taxes Act 1988 in accordance with Articles 14 t
 
 ## Annotations
 
-[^key-561b988bb6bf8820d14820106b18f722]: Commencement: Art. 13 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-561b988bb6bf8820d14820106b18f722]: Commencement: Art. 13 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

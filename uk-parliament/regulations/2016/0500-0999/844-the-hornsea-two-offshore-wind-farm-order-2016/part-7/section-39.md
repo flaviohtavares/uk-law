@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 39. Protective provisions[^key-fc408f213bfdfa76754e8e60f58476fd]
+## 39. Protective provisions[^c-fc408f213bfdfa76754e8e60f58476fd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 12 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-fc408f213bfdfa76754e8e60f58476fd]: Commencement: Art. 39 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)
+[^c-fc408f213bfdfa76754e8e60f58476fd]: Commencement: Art. 39 in force at 7.9.2016, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/844/article/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Tribunal Procedure Rules[^key-ba45ec9f4007b60857899e843cdfa3ce]
+## 22. Tribunal Procedure Rules[^c-ba45ec9f4007b60857899e843cdfa3ce]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba45ec9f4007b60857899e843cdfa3ce]: Modification: S. 22 applied (with modifications) (E.) (6.4.2012) by [The Town and Country Planning (Tree Preservation)(England) Regulations 2012 (S.I. 2012/605)](https://www.legislation.gov.uk/uksi/2012/605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1), [24(9)](https://www.legislation.gov.uk/uksi/2012/605/regulation/24/9) (with [reg. 24(10)](https://www.legislation.gov.uk/uksi/2012/605/regulation/24/10))
+[^c-ba45ec9f4007b60857899e843cdfa3ce]: Modification: S. 22 applied (with modifications) (E.) (6.4.2012) by [The Town and Country Planning (Tree Preservation)(England) Regulations 2012 (S.I. 2012/605)](https://www.legislation.gov.uk/uksi/2012/605), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/605/regulation/1/1), [24(9)](https://www.legislation.gov.uk/uksi/2012/605/regulation/24/9) (with [reg. 24(10)](https://www.legislation.gov.uk/uksi/2012/605/regulation/24/10))

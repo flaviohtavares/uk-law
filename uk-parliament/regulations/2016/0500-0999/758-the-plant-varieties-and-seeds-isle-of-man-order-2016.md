@@ -47,11 +47,11 @@ The Queen’s Most Excellent Majesty in Council
 
 Her Majesty, in exercise of the powers conferred upon Her by section 40 of the Plant Varieties and Seeds Act 1964[^f00001] and sections 53(2) and (3) of the Plant Varieties Act 1997[^f00002], by and with the advice of Her Privy Council, orders as follows—
 
-## 1. Citation and commencement[^key-4e10c4bf4f184e55468c14bddbc4ce47]
+## 1. Citation and commencement[^c-4e10c4bf4f184e55468c14bddbc4ce47]
 
 This Order may be cited as the Plant Varieties and Seeds (Isle of Man) Order 2016 and shall come into force on 1st August 2016.
 
-## 2. Extension of the Plant Varieties and Seeds Act 1964 to the Isle of Man[^key-a7b1e2fd05c806a4530e0403acc6aa9d]
+## 2. Extension of the Plant Varieties and Seeds Act 1964 to the Isle of Man[^c-a7b1e2fd05c806a4530e0403acc6aa9d]
 
 (1) The provisions of the Plant Varieties and Seeds Act 1964 specified in paragraph (2) extend to the Isle of Man subject to the exceptions, adaptations and modifications specified in Schedule 1 to this Order.
 
@@ -61,11 +61,11 @@ This Order may be cited as the Plant Varieties and Seeds (Isle of Man) Order 201
 - (b) in Part 3, section 33 and Schedule 7; and
 - (c) in Part 4, sections 34 to 36, 38 and 41(1)[^f00004].
 
-## 3. Extension of the Plant Varieties Act 1997 to the Isle of Man[^key-acc2b00262224f1c9e05d96d18032d4c]
+## 3. Extension of the Plant Varieties Act 1997 to the Isle of Man[^c-acc2b00262224f1c9e05d96d18032d4c]
 
 The Plant Varieties Act 1997[^f00005] extends to the Isle of Man subject to the modifications specified in Schedule 2 to this Order.
 
-## 4. Revocations[^key-402e51c7c01dd8b4751dd66daaf94d53]
+## 4. Revocations[^c-402e51c7c01dd8b4751dd66daaf94d53]
 
 The following are revoked—
 
@@ -82,7 +82,7 @@ Article 2
 
 ### PART 1 — Exceptions, adaptations and modifications to Part 2
 
-**1.**[^key-d900cfffbde8a9ecb8dab6bb5d5867f4] (1) Section 16 (seeds regulations)[^f00008] is modified as follows.
+**1.**[^c-d900cfffbde8a9ecb8dab6bb5d5867f4] (1) Section 16 (seeds regulations)[^f00008] is modified as follows.
 
 (2) Throughout the section—
 
@@ -95,9 +95,9 @@ Article 2
 
 (5) Omit subsections (3)(i), (5)(b), (6) and (8).
 
-**2.**[^key-3b09298deb62fc5624c88c022883e93f] Omit section 17(6) (Scottish contracts for the sale of seeds).
+**2.**[^c-3b09298deb62fc5624c88c022883e93f] Omit section 17(6) (Scottish contracts for the sale of seeds).
 
-**3.**[^key-bf5f484be8b7292e321ff72daca7dfa3] (1) Section 24 (official testing stations and certificates of test) is modified as follows.
+**3.**[^c-bf5f484be8b7292e321ff72daca7dfa3] (1) Section 24 (official testing stations and certificates of test) is modified as follows.
 
 (2) For subsection (1) substitute—
 
@@ -128,20 +128,20 @@ Article 2
 - (b) for “at least three clear days” substitute “at least 14 days”;
 - (c) omit “or, in Scotland, the case proceeds to trial”.
 
-**4.**[^key-8585a66af45d3511253a9b3b0b245a30] (1) Section 25 (powers of entry)[^f00009] is modified as follows.
+**4.**[^c-8585a66af45d3511253a9b3b0b245a30] (1) Section 25 (powers of entry)[^f00009] is modified as follows.
 
 (2) In subsections (3), (4) and (6) after “the Minister” insert “or the Department”.
 
 (3) In subsections (7) and (9) for “level 3 on the standard scale” substitute “£1,000”.
 
-**5.**[^key-9ec79be768d75af99f9112f44eeb3d83] In section 26(6) (the summons and evidence regarding samples in criminal proceedings)[^f00010] omit —
+**5.**[^c-9ec79be768d75af99f9112f44eeb3d83] In section 26(6) (the summons and evidence regarding samples in criminal proceedings)[^f00010] omit —
 
 - (a) “or complaint” (in both places);
 - (b) “and, in Scotland, the case shall not proceed to trial,”.
 
-**6.**[^key-7ec85f3251a2483175a29b416d7fad36] In section 27(1) (the offence of tampering with samples)[^f00011] for “level 5 on the standard scale” substitute “£5,000”.
+**6.**[^c-7ec85f3251a2483175a29b416d7fad36] In section 27(1) (the offence of tampering with samples)[^f00011] for “level 5 on the standard scale” substitute “£5,000”.
 
-**7.**[^key-a4d998fa8b8198766abc4c292aa0f506] (1) Section 28 (institution of criminal proceedings)[^f00012] is modified as follows.
+**7.**[^c-a4d998fa8b8198766abc4c292aa0f506] (1) Section 28 (institution of criminal proceedings)[^f00012] is modified as follows.
 
 (2) In subsection(1) for the words preceding “where a part of a sample” substitute—“Notwithstanding anything in section 75(1) of the Summary Jurisdiction Act 1989 (an Act of Tynwald) (limitation of time)[^f00013],”.
 
@@ -149,7 +149,7 @@ Article 2
 
 (4) In subsection (2A) for the words preceding “proceedings for contravening” substitute “Notwithstanding anything in the said section 75(1),”.
 
-**8.**[^key-8ffeec5a6d136b6fee74ec330ffc8727] (1) Section 29 (application of Part 2 to seed potatoes)[^f00014] is modified as follows.
+**8.**[^c-8ffeec5a6d136b6fee74ec330ffc8727] (1) Section 29 (application of Part 2 to seed potatoes)[^f00014] is modified as follows.
 
 (2) In subsection (2)—
 
@@ -165,11 +165,11 @@ Article 2
 
 .
 
-**9.**[^key-7b0825b0d71f30c8519b6b0ecba83800] In section 30(1) (definitions in Part 2), in the definition of “authorised officer”, after “the Minister” (in both places that expression occurs) insert “or the Department”.
+**9.**[^c-7b0825b0d71f30c8519b6b0ecba83800] In section 30(1) (definitions in Part 2), in the definition of “authorised officer”, after “the Minister” (in both places that expression occurs) insert “or the Department”.
 
 ### PART 2 — Exceptions, adaptations and modifications to Part 3
 
-**10.**[^key-dfe2c8196ffe0a9e986e249efe0a6014] (1) Section 33 (measures to prevent injurious cross-pollination affecting crops of seeds)[^f00015] is modified as follows.
+**10.**[^c-dfe2c8196ffe0a9e986e249efe0a6014] (1) Section 33 (measures to prevent injurious cross-pollination affecting crops of seeds)[^f00015] is modified as follows.
 
 (2) In subsection (2)—
 
@@ -197,13 +197,13 @@ Article 2
 
 (7) In subsection (10) for “level 1 on the standard scale” substitute “£200”.
 
-**11.**[^key-aab1351f8a385539800e0f5a73b6e495] In Schedule 7 (cross-pollination injuring protected crops) for “the Minister” (in each place that expression occurs) substitute “the Department”.
+**11.**[^c-aab1351f8a385539800e0f5a73b6e495] In Schedule 7 (cross-pollination injuring protected crops) for “the Minister” (in each place that expression occurs) substitute “the Department”.
 
 ### PART 3 — Exceptions, adaptations and modifications to Part 4
 
-**12.**[^key-b1cd6c143424f5eff0cb1a888bf38279] Omit section 35(2) (which extends jurisdiction in criminal proceedings under the Plant Varieties and Seeds Act 1964 in Great Britain).
+**12.**[^c-b1cd6c143424f5eff0cb1a888bf38279] Omit section 35(2) (which extends jurisdiction in criminal proceedings under the Plant Varieties and Seeds Act 1964 in Great Britain).
 
-**13.**[^key-5a73ac0ee4944c4bb4561a327dc3befa] (1) Section 36 (supplemental provision as to regulations) is modified as follows.
+**13.**[^c-5a73ac0ee4944c4bb4561a327dc3befa] (1) Section 36 (supplemental provision as to regulations) is modified as follows.
 
 (2) Renumber the existing text as subsection (1) of the section.
 
@@ -215,7 +215,7 @@ Article 2
 
 .
 
-**14.**[^key-a6f812dfac0c15a40589af90824f12d1] In section 38(1) (definitions)[^f00016] immediately before the definition of “the Minister” insert—
+**14.**[^c-a6f812dfac0c15a40589af90824f12d1] In section 38(1) (definitions)[^f00016] immediately before the definition of “the Minister” insert—
 
 > - “the Department” means the Department of Environment, Food and Agriculture of the Isle of Man;
 
@@ -225,14 +225,14 @@ Article 2
 
 Article 3
 
-**1.**[^key-07b873fdaa85c5810af05639c9a60e04] In section 6(6)(a) (the making of regulations about protected varieties) for “the Ministers” substitute “the Department”.
+**1.**[^c-07b873fdaa85c5810af05639c9a60e04] In section 6(6)(a) (the making of regulations about protected varieties) for “the Ministers” substitute “the Department”.
 
-**2.**[^key-5ff72b24642f8e55f348bcbb89a96645] In section 9 (farm saved seed)—
+**2.**[^c-5ff72b24642f8e55f348bcbb89a96645] In section 9 (farm saved seed)—
 
-- (za)[^key-e1741c6e07e7d35309f1ff242d3d4a4c] in subsection (3), after “liable”, insert “(subject to any contractual agreement entered into between the farmer and the holder of the plant breeders’ rights)”;
+- (za)[^c-e1741c6e07e7d35309f1ff242d3d4a4c] in subsection (3), after “liable”, insert “(subject to any contractual agreement entered into between the farmer and the holder of the plant breeders’ rights)”;
 - (zb) in subsection (4), for the words from “considered to be” to the end substitute “a small farmer for the purposes of this section”;
 - (a) omit subsections (5)[^f00017] and (6);
-- (aa)[^key-3011fc82f35e3068091f7ed49f5e1d29] for subsection (10) substitute—
+- (aa)[^c-3011fc82f35e3068091f7ed49f5e1d29] for subsection (10) substitute—
 
   > (10) In this section, “**small farmer**” means—
   >
@@ -243,24 +243,24 @@ Article 3
 - (ab) omit subsection (12);
 - (b) for “the Ministers” (in each place that expression occurs) substitute “the Department”.
 
-**3.**[^key-dfa686396ccbc428824a64ed21793ba7] In section 10(1)(a) (circumstances to which plant breeders’ rights do not extend) after “the United Kingdom” insert “or the Isle of Man”.
+**3.**[^c-dfa686396ccbc428824a64ed21793ba7] In section 10(1)(a) (circumstances to which plant breeders’ rights do not extend) after “the United Kingdom” insert “or the Isle of Man”.
 
-**4.**[^key-dbc5e33dc20d1d3da87b2ce4045fe98c] In section 11 (duration)—
+**4.**[^c-dbc5e33dc20d1d3da87b2ce4045fe98c] In section 11 (duration)—
 
 - (a) in subsection (2), for “The Ministers” substitute “The Department”;
 - (b) omit subsection (3)(a).
 
-**5.**[^key-d18865bd25f7c6308231e600ebeaa773] In section 14(5) (regulations about presumptions in proceedings relating to harvested material) for “the Ministers” substitute “the Department”.
+**5.**[^c-d18865bd25f7c6308231e600ebeaa773] In section 14(5) (regulations about presumptions in proceedings relating to harvested material) for “the Ministers” substitute “the Department”.
 
-**6.**[^key-7dfde2993537c0c2df505996ab81cb20] In section 15(6) (regulations about presumptions in proceedings relating to products made from harvested material) for “the Ministers” substitute “the Department”.
+**6.**[^c-7dfde2993537c0c2df505996ab81cb20] In section 15(6) (regulations about presumptions in proceedings relating to products made from harvested material) for “the Ministers” substitute “the Department”.
 
-**7.**[^key-5f4d2818cc315797e6a7dc8afa629aad] In section 17 (compulsory licences) at the end add—
+**7.**[^c-5f4d2818cc315797e6a7dc8afa629aad] In section 17 (compulsory licences) at the end add—
 
 > (10) If the Controller grants, varies or revokes a licence under this section, he shall notify the Department.
 
 .
 
-**8.**[^key-1f2123ad111989fe52097a8819f33c27] (1) Section 19 (duty to use registered name) is modified as follows.
+**8.**[^c-1f2123ad111989fe52097a8819f33c27] (1) Section 19 (duty to use registered name) is modified as follows.
 
 (2) In subsection (4) for “level 3 on the standard scale” substitute “£1,000”.
 
@@ -270,17 +270,17 @@ Article 3
 
 .
 
-**9.**[^key-95f6d568467a513b77663b894417ce5f] In section 31(1) (offence of giving false information) for “level 3 on the standard scale” substitute “£1,000”.
+**9.**[^c-95f6d568467a513b77663b894417ce5f] In section 31(1) (offence of giving false information) for “level 3 on the standard scale” substitute “£1,000”.
 
-**10.**[^key-580e6fb0a8441b763e9a2ef48e3ca1a1] In section 32(1) (offence of making false representation as to plant breeders’ rights) for “level 3 on the standard scale” substitute “£1,000”.
+**10.**[^c-580e6fb0a8441b763e9a2ef48e3ca1a1] In section 32(1) (offence of making false representation as to plant breeders’ rights) for “level 3 on the standard scale” substitute “£1,000”.
 
-**11.**[^key-93f6aa769cbc007a08cf07ab4bca68e8] Omit section 36(2) (offences committed by Scottish partnerships).
+**11.**[^c-93f6aa769cbc007a08cf07ab4bca68e8] Omit section 36(2) (offences committed by Scottish partnerships).
 
-**12.**[^key-d9aaaa75a443189e8b6af005a58123b8] Omit section 37 (jurisdiction in relation to offences in the United Kingdom).
+**12.**[^c-d9aaaa75a443189e8b6af005a58123b8] Omit section 37 (jurisdiction in relation to offences in the United Kingdom).
 
-**12A.**[^key-3502b4f5a5bd06d87497e6da0ae779a8] In section 38 (interpretation of Part 1), omit the definition of “the Council Regulation”.
+**12A.**[^c-3502b4f5a5bd06d87497e6da0ae779a8] In section 38 (interpretation of Part 1), omit the definition of “the Council Regulation”.
 
-**13.**[^key-a8484eae93a667afd5af468ac8a97dc5] (1) Section 41 (varieties of recent creation) is modified as follows.
+**13.**[^c-a8484eae93a667afd5af468ac8a97dc5] (1) Section 41 (varieties of recent creation) is modified as follows.
 
 (2) In subsection (1)—
 
@@ -291,7 +291,7 @@ Article 3
 
 (4) In subsection (4) after “the United Kingdom” insert “or the Isle of Man”.
 
-**14.**[^key-c2954c0e9345f86b5eca1f1ab4888510] (1) Section 43 (jurisdiction under arbitration agreements) is modified as follows.
+**14.**[^c-c2954c0e9345f86b5eca1f1ab4888510] (1) Section 43 (jurisdiction under arbitration agreements) is modified as follows.
 
 (2) Omit subsection (3).
 
@@ -301,7 +301,7 @@ Article 3
 
 .
 
-**15.**[^key-e2721badff8eabd813435fa242014f72] (1) Section 48 (regulations and orders) is modified as follows.
+**15.**[^c-e2721badff8eabd813435fa242014f72] (1) Section 48 (regulations and orders) is modified as follows.
 
 (2) In subsection (1) after “the Ministers” (in both places that expression occurs) insert “or the Department”.
 
@@ -313,13 +313,13 @@ Article 3
 
 (4) Omit subsections (3), (4) and (6).
 
-**16.**[^key-1cf7eed1e737efac28a4b81e026ca9b3] In section 49(1) (definitions) after the definition of “the Controller” insert—
+**16.**[^c-1cf7eed1e737efac28a4b81e026ca9b3] In section 49(1) (definitions) after the definition of “the Controller” insert—
 
 > - “the Department” means the Department of Environment, Food and Agriculture of the Isle of Man;
 
 .
 
-**17.**[^key-7b41ae5b8e6499ad05775532a328ea1b] (1) Section 50 (receipts) is modified as follows.
+**17.**[^c-7b41ae5b8e6499ad05775532a328ea1b] (1) Section 50 (receipts) is modified as follows.
 
 (2) Renumber the existing text as subsection (1) of the section.
 
@@ -329,9 +329,9 @@ Article 3
 
 .
 
-**18.**[^key-bfeecda6d37340c29ad95a75a031c6df] Omit section 51 (consequential amendments).
+**18.**[^c-bfeecda6d37340c29ad95a75a031c6df] Omit section 51 (consequential amendments).
 
-**19.**[^key-c110a2321e62812271c435de84ef97f7] For section 52 (repeals) substitute—
+**19.**[^c-c110a2321e62812271c435de84ef97f7] For section 52 (repeals) substitute—
 
 > **52. Repeal**
 >
@@ -339,19 +339,19 @@ Article 3
 
 .
 
-**20.**[^key-0a7978ef471e509fecb835757be8caec] Omit section 53 (extent).
+**20.**[^c-0a7978ef471e509fecb835757be8caec] Omit section 53 (extent).
 
-**21.**[^key-1fc1f5b34e4044995c4b9ee81797a6bd] In section 54 omit subsections (2) to (4) (the commencement of the Act in the United Kingdom).
+**21.**[^c-1fc1f5b34e4044995c4b9ee81797a6bd] In section 54 omit subsections (2) to (4) (the commencement of the Act in the United Kingdom).
 
-**22.**[^key-fc18dcf6af1806beea9eeb10887f5fc0] In paragraph 4 of Schedule 1 (proof of documents in proceedings under the Act) omit “, or in Scotland sufficient evidence,”.
+**22.**[^c-fc18dcf6af1806beea9eeb10887f5fc0] In paragraph 4 of Schedule 1 (proof of documents in proceedings under the Act) omit “, or in Scotland sufficient evidence,”.
 
-**23.**[^key-2a94fee0cff19b650c94112d0675d7a4] (1) Schedule 2 (conditions for the grant of plant breeders’ rights)[^f00023] is modified as follows.
+**23.**[^c-2a94fee0cff19b650c94112d0675d7a4] (1) Schedule 2 (conditions for the grant of plant breeders’ rights)[^f00023] is modified as follows.
 
 (2) In paragraph 4(2) and (3) (circumstances in which a variety is deemed new) after “the United Kingdom” insert “or the Isle of Man”.
 
 (3) In paragraph 6(2)(c) (orders designating countries or territories for the purposes of parallel applications for rights) for “the Ministers” substitute “the Department”.
 
-**24.**[^key-acbe675c4c21958f38a332a8fb96b8ee] (1) Schedule 3 (the Plant Varieties and Seeds Tribunal)[^f00024] applies to proceedings from the Isle of Man, as it applies to proceedings in England, and is modified as follows.
+**24.**[^c-acbe675c4c21958f38a332a8fb96b8ee] (1) Schedule 3 (the Plant Varieties and Seeds Tribunal)[^f00024] applies to proceedings from the Isle of Man, as it applies to proceedings in England, and is modified as follows.
 
 (2) Omit paragraphs 3 and 4 (appointment of a chairman of the Tribunal in Scotland and in Northern Ireland).
 
@@ -374,7 +374,7 @@ Article 3
 
 (8) In paragraph 16 (interpretation) omit paragraphs (b) and (c) of the definitions of “appointing authority” and “relevant chairman”.
 
-**25.**[^key-06ecb26026a880e5bb51ae308e9235b6] Omit Schedule 4 (repeals).
+**25.**[^c-06ecb26026a880e5bb51ae308e9235b6] Omit Schedule 4 (repeals).
 
 EXPLANATORY NOTE
 
@@ -390,138 +390,138 @@ An impact assessment has not been produced for this instrument as no, or no sign
 
 [^f00002]: Footnote: [1997 c. 66](https://www.legislation.gov.uk/ukpga/1997/66).
 
-[^key-4e10c4bf4f184e55468c14bddbc4ce47]: Commencement: Art. 1 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-4e10c4bf4f184e55468c14bddbc4ce47]: Commencement: Art. 1 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-a7b1e2fd05c806a4530e0403acc6aa9d]: Commencement: Art. 2 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-a7b1e2fd05c806a4530e0403acc6aa9d]: Commencement: Art. 2 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00003]: Footnote: Sections 18 and 30, which are extended to the Isle of Man without modification, were amended by paragraph 5 of Schedule 4 to the European Communities Act [1972 (c. 68)](https://www.legislation.gov.uk/ukpga/1972/68).
 
 [^f00004]: Footnote: Section 34, which is extended to the Isle of Man by this Order without modification, was amended by Part 3 of Schedule 3 to the European Communities Act 1972 and section 51(1) of the Plant Varieties Act 1997.
 
-[^key-acc2b00262224f1c9e05d96d18032d4c]: Commencement: Art. 3 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-acc2b00262224f1c9e05d96d18032d4c]: Commencement: Art. 3 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00005]: Footnote: Section 33 was repealed by [S.I. 2000/311](https://www.legislation.gov.uk/uksi/2000/311). Section 38, which is extended to the Isle of Man by this Order without modification, was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-402e51c7c01dd8b4751dd66daaf94d53]: Commencement: Art. 4 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-402e51c7c01dd8b4751dd66daaf94d53]: Commencement: Art. 4 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00006]: Footnote: [S.I. 1969/1829](https://www.legislation.gov.uk/uksi/1969/1829), as amended by [S.I. 1987/2210](https://www.legislation.gov.uk/uksi/1987/2210) and [2001/3500](https://www.legislation.gov.uk/uksi/2001/3500).
 
 [^f00007]: Footnote: [S.I. 1987/2210](https://www.legislation.gov.uk/uksi/1987/2210).
 
-[^key-d900cfffbde8a9ecb8dab6bb5d5867f4]: Commencement: Sch. 1 para. 1 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-d900cfffbde8a9ecb8dab6bb5d5867f4]: Commencement: Sch. 1 para. 1 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00008]: Footnote: Section 16 was amended by paragraph 5 of Schedule 4 to the European Communities Act 1972, sections 38, 39 and 46 of the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 2 of the Agriculture Act [1986 (c. 49)](https://www.legislation.gov.uk/ukpga/1986/49) and [S.I. 1977/1112](https://www.legislation.gov.uk/uksi/1977/1112).
 
-[^key-3b09298deb62fc5624c88c022883e93f]: Commencement: Sch. 1 para. 2 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-3b09298deb62fc5624c88c022883e93f]: Commencement: Sch. 1 para. 2 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-bf5f484be8b7292e321ff72daca7dfa3]: Commencement: Sch. 1 para. 3 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-bf5f484be8b7292e321ff72daca7dfa3]: Commencement: Sch. 1 para. 3 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-8585a66af45d3511253a9b3b0b245a30]: Commencement: Sch. 1 para. 4 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-8585a66af45d3511253a9b3b0b245a30]: Commencement: Sch. 1 para. 4 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00009]: Footnote: Section 25 amended by Part 3 of Schedule 3, and paragraph 5 of Schedule 4, to the European Communities Act 1972 and sections 38, 39 and 46 of, and Schedule 3 to, the Criminal Justice Act 1982.
 
-[^key-9ec79be768d75af99f9112f44eeb3d83]: Commencement: Sch. 1 para. 5 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-9ec79be768d75af99f9112f44eeb3d83]: Commencement: Sch. 1 para. 5 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00010]: Footnote: Section 26(10) was repealed by the relevant entry in Group 2 of Part 2 of Schedule 1to the Statute Law (Repeals) Act [2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14).
 
-[^key-7ec85f3251a2483175a29b416d7fad36]: Commencement: Sch. 1 para. 6 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-7ec85f3251a2483175a29b416d7fad36]: Commencement: Sch. 1 para. 6 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00011]: Footnote: Section 27(1) was amended by sections 38, 39 and 46 of, and Schedule 3 to, the Criminal Justice Act 1982. It is prospectively amended by paragraph 18 of Schedule 26 to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) from a date to be appointed.
 
-[^key-a4d998fa8b8198766abc4c292aa0f506]: Commencement: Sch. 1 para. 7 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-a4d998fa8b8198766abc4c292aa0f506]: Commencement: Sch. 1 para. 7 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00012]: Footnote: Section 28(1) was amended by paragraph 44 of Schedule 7 to the Magistrates’ Courts Act [1980 (c. 43)](https://www.legislation.gov.uk/ukpga/1980/43). Section 28(2A) was inserted by section 47 of the Plant Varieties Act 1997.
 
 [^f00013]: Footnote: AT 15 of 1989.
 
-[^key-8ffeec5a6d136b6fee74ec330ffc8727]: Commencement: Sch. 1 para. 8 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-8ffeec5a6d136b6fee74ec330ffc8727]: Commencement: Sch. 1 para. 8 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00014]: Footnote: Section 29 was amended by paragraph 5(4) of Schedule 4 to the European Communities Act 1972 and [S.I. 2000/746](https://www.legislation.gov.uk/uksi/2000/746) and [2013/755](https://www.legislation.gov.uk/uksi/2013/755).
 
-[^key-7b0825b0d71f30c8519b6b0ecba83800]: Commencement: Sch. 1 para. 9 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-7b0825b0d71f30c8519b6b0ecba83800]: Commencement: Sch. 1 para. 9 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-dfe2c8196ffe0a9e986e249efe0a6014]: Commencement: Sch. 1 para. 10 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-dfe2c8196ffe0a9e986e249efe0a6014]: Commencement: Sch. 1 para. 10 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00015]: Footnote: Section 33 was amended by sections 35, 38, 39 and 46 of the Criminal Justice Act 1982.
 
-[^key-aab1351f8a385539800e0f5a73b6e495]: Commencement: Sch. 1 para. 11 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-aab1351f8a385539800e0f5a73b6e495]: Commencement: Sch. 1 para. 11 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-b1cd6c143424f5eff0cb1a888bf38279]: Commencement: Sch. 1 para. 12 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-b1cd6c143424f5eff0cb1a888bf38279]: Commencement: Sch. 1 para. 12 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-5a73ac0ee4944c4bb4561a327dc3befa]: Commencement: Sch. 1 para. 13 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-5a73ac0ee4944c4bb4561a327dc3befa]: Commencement: Sch. 1 para. 13 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-a6f812dfac0c15a40589af90824f12d1]: Commencement: Sch. 1 para. 14 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-a6f812dfac0c15a40589af90824f12d1]: Commencement: Sch. 1 para. 14 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00016]: Footnote: Section 38(1) was amended by paragraph 5 of Schedule 4 to the European Communities Act 1972, section 51(2) of, and Schedule 4 to, the Plant Varieties Act 1997 and [S.I. 1978/272](https://www.legislation.gov.uk/uksi/1978/272).
 
-[^key-07b873fdaa85c5810af05639c9a60e04]: Commencement: Sch. 2 para. 1 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-07b873fdaa85c5810af05639c9a60e04]: Commencement: Sch. 2 para. 1 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-5ff72b24642f8e55f348bcbb89a96645]: Commencement: Sch. 2 para. 2 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-5ff72b24642f8e55f348bcbb89a96645]: Commencement: Sch. 2 para. 2 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-e1741c6e07e7d35309f1ff242d3d4a4c]: Textual amendment: [Sch. 2 para. 2(za)](https://www.legislation.gov.uk/uksi/2016/758/schedule/2/paragraph/2/za)[(zb)](https://www.legislation.gov.uk/uksi/2016/758/schedule/2/paragraph/2/zb) inserted (15.12.2022) by [The Plant Varieties and Seeds (Isle of Man) (Amendment) Order 2022 (S.I. 2022/1337)](https://www.legislation.gov.uk/uksi/2022/1337), [art. 1](https://www.legislation.gov.uk/uksi/2022/1337/article/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2022/1337/schedule/paragraph/2/1)
+[^c-e1741c6e07e7d35309f1ff242d3d4a4c]: Textual amendment: [Sch. 2 para. 2(za)](https://www.legislation.gov.uk/uksi/2016/758/schedule/2/paragraph/2/za)[(zb)](https://www.legislation.gov.uk/uksi/2016/758/schedule/2/paragraph/2/zb) inserted (15.12.2022) by [The Plant Varieties and Seeds (Isle of Man) (Amendment) Order 2022 (S.I. 2022/1337)](https://www.legislation.gov.uk/uksi/2022/1337), [art. 1](https://www.legislation.gov.uk/uksi/2022/1337/article/1), [Sch. para. 2(1)](https://www.legislation.gov.uk/uksi/2022/1337/schedule/paragraph/2/1)
 
 [^f00017]: Footnote: Section 9(5) was repealed in relation to England and Northern Ireland by [S.I. 2005/2726](https://www.legislation.gov.uk/uksi/2005/2726) and in relation to Wales by [S.I. 2006/1621](https://www.legislation.gov.uk/uksi/2006/1621). It remains in force in Scotland but its effect has been modified in relation to that jurisdiction by [S.S.I. 2005/460](https://www.legislation.gov.uk/ssi/2005/460).
 
-[^key-3011fc82f35e3068091f7ed49f5e1d29]: Textual amendment: [Sch. 2 para. 2(aa)](https://www.legislation.gov.uk/uksi/2016/758/schedule/2/paragraph/2/aa)[(ab)](https://www.legislation.gov.uk/uksi/2016/758/schedule/2/paragraph/2/ab) inserted (15.12.2022) by [The Plant Varieties and Seeds (Isle of Man) (Amendment) Order 2022 (S.I. 2022/1337)](https://www.legislation.gov.uk/uksi/2022/1337), [art. 1](https://www.legislation.gov.uk/uksi/2022/1337/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2022/1337/schedule/paragraph/2/2)
+[^c-3011fc82f35e3068091f7ed49f5e1d29]: Textual amendment: [Sch. 2 para. 2(aa)](https://www.legislation.gov.uk/uksi/2016/758/schedule/2/paragraph/2/aa)[(ab)](https://www.legislation.gov.uk/uksi/2016/758/schedule/2/paragraph/2/ab) inserted (15.12.2022) by [The Plant Varieties and Seeds (Isle of Man) (Amendment) Order 2022 (S.I. 2022/1337)](https://www.legislation.gov.uk/uksi/2022/1337), [art. 1](https://www.legislation.gov.uk/uksi/2022/1337/article/1), [Sch. para. 2(2)](https://www.legislation.gov.uk/uksi/2022/1337/schedule/paragraph/2/2)
 
-[^key-dfa686396ccbc428824a64ed21793ba7]: Commencement: Sch. 2 para. 3 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-dfa686396ccbc428824a64ed21793ba7]: Commencement: Sch. 2 para. 3 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-dbc5e33dc20d1d3da87b2ce4045fe98c]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/758/schedule/2/paragraph/4) substituted (15.12.2022) by [The Plant Varieties and Seeds (Isle of Man) (Amendment) Order 2022 (S.I. 2022/1337)](https://www.legislation.gov.uk/uksi/2022/1337), [art. 1](https://www.legislation.gov.uk/uksi/2022/1337/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/1337/schedule/paragraph/3)
+[^c-dbc5e33dc20d1d3da87b2ce4045fe98c]: Textual amendment: [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2016/758/schedule/2/paragraph/4) substituted (15.12.2022) by [The Plant Varieties and Seeds (Isle of Man) (Amendment) Order 2022 (S.I. 2022/1337)](https://www.legislation.gov.uk/uksi/2022/1337), [art. 1](https://www.legislation.gov.uk/uksi/2022/1337/article/1), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2022/1337/schedule/paragraph/3)
 
-[^key-d18865bd25f7c6308231e600ebeaa773]: Commencement: Sch. 2 para. 5 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-d18865bd25f7c6308231e600ebeaa773]: Commencement: Sch. 2 para. 5 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-7dfde2993537c0c2df505996ab81cb20]: Commencement: Sch. 2 para. 6 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-7dfde2993537c0c2df505996ab81cb20]: Commencement: Sch. 2 para. 6 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-5f4d2818cc315797e6a7dc8afa629aad]: Commencement: Sch. 2 para. 7 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-5f4d2818cc315797e6a7dc8afa629aad]: Commencement: Sch. 2 para. 7 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-1f2123ad111989fe52097a8819f33c27]: Commencement: Sch. 2 para. 8 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-1f2123ad111989fe52097a8819f33c27]: Commencement: Sch. 2 para. 8 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00018]: Footnote: [1994 c. 26](https://www.legislation.gov.uk/ukpga/1994/26).
 
 [^f00019]: Footnote: The Trade Marks Act 1994 was extended to the Isle of Man with modifications formerly prescribed by [S.I. 1996/729](https://www.legislation.gov.uk/uksi/1996/729) (which was replaced by [S.I. 2013/2601](https://www.legislation.gov.uk/uksi/2013/2601)). By virtue of section 108(2), and subject to any Order in Council providing for the extension of that Act to the Isle of Man, references in that Act to the United Kingdom are to be construed as including the Isle of Man.
 
-[^key-95f6d568467a513b77663b894417ce5f]: Commencement: Sch. 2 para. 9 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-95f6d568467a513b77663b894417ce5f]: Commencement: Sch. 2 para. 9 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-580e6fb0a8441b763e9a2ef48e3ca1a1]: Commencement: Sch. 2 para. 10 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-580e6fb0a8441b763e9a2ef48e3ca1a1]: Commencement: Sch. 2 para. 10 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-93f6aa769cbc007a08cf07ab4bca68e8]: Commencement: Sch. 2 para. 11 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-93f6aa769cbc007a08cf07ab4bca68e8]: Commencement: Sch. 2 para. 11 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-d9aaaa75a443189e8b6af005a58123b8]: Commencement: Sch. 2 para. 12 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-d9aaaa75a443189e8b6af005a58123b8]: Commencement: Sch. 2 para. 12 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-3502b4f5a5bd06d87497e6da0ae779a8]: Textual amendment: [Sch. 2 para. 12A](https://www.legislation.gov.uk/uksi/2016/758/schedule/2/paragraph/12A) inserted (15.12.2022) by [The Plant Varieties and Seeds (Isle of Man) (Amendment) Order 2022 (S.I. 2022/1337)](https://www.legislation.gov.uk/uksi/2022/1337), [art. 1](https://www.legislation.gov.uk/uksi/2022/1337/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/1337/schedule/paragraph/4)
+[^c-3502b4f5a5bd06d87497e6da0ae779a8]: Textual amendment: [Sch. 2 para. 12A](https://www.legislation.gov.uk/uksi/2016/758/schedule/2/paragraph/12A) inserted (15.12.2022) by [The Plant Varieties and Seeds (Isle of Man) (Amendment) Order 2022 (S.I. 2022/1337)](https://www.legislation.gov.uk/uksi/2022/1337), [art. 1](https://www.legislation.gov.uk/uksi/2022/1337/article/1), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2022/1337/schedule/paragraph/4)
 
-[^key-a8484eae93a667afd5af468ac8a97dc5]: Commencement: Sch. 2 para. 13 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-a8484eae93a667afd5af468ac8a97dc5]: Commencement: Sch. 2 para. 13 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-c2954c0e9345f86b5eca1f1ab4888510]: Commencement: Sch. 2 para. 14 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-c2954c0e9345f86b5eca1f1ab4888510]: Commencement: Sch. 2 para. 14 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00020]: Footnote: AT 24 of 1976.
 
-[^key-e2721badff8eabd813435fa242014f72]: Commencement: Sch. 2 para. 15 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-e2721badff8eabd813435fa242014f72]: Commencement: Sch. 2 para. 15 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-1cf7eed1e737efac28a4b81e026ca9b3]: Commencement: Sch. 2 para. 16 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-1cf7eed1e737efac28a4b81e026ca9b3]: Commencement: Sch. 2 para. 16 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-7b41ae5b8e6499ad05775532a328ea1b]: Commencement: Sch. 2 para. 17 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-7b41ae5b8e6499ad05775532a328ea1b]: Commencement: Sch. 2 para. 17 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-bfeecda6d37340c29ad95a75a031c6df]: Commencement: Sch. 2 para. 18 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-bfeecda6d37340c29ad95a75a031c6df]: Commencement: Sch. 2 para. 18 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-c110a2321e62812271c435de84ef97f7]: Commencement: Sch. 2 para. 19 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-c110a2321e62812271c435de84ef97f7]: Commencement: Sch. 2 para. 19 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00021]: Footnote: AT 2 of 1921.
 
 [^f00022]: Footnote: AT 9 of 1939.
 
-[^key-0a7978ef471e509fecb835757be8caec]: Commencement: Sch. 2 para. 20 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-0a7978ef471e509fecb835757be8caec]: Commencement: Sch. 2 para. 20 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-1fc1f5b34e4044995c4b9ee81797a6bd]: Commencement: Sch. 2 para. 21 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-1fc1f5b34e4044995c4b9ee81797a6bd]: Commencement: Sch. 2 para. 21 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-fc18dcf6af1806beea9eeb10887f5fc0]: Commencement: Sch. 2 para. 22 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-fc18dcf6af1806beea9eeb10887f5fc0]: Commencement: Sch. 2 para. 22 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
-[^key-2a94fee0cff19b650c94112d0675d7a4]: Commencement: Sch. 2 para. 23 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-2a94fee0cff19b650c94112d0675d7a4]: Commencement: Sch. 2 para. 23 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00023]: Footnote: Schedule 2 was amended by [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043).
 
-[^key-acbe675c4c21958f38a332a8fb96b8ee]: Commencement: Sch. 2 para. 24 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-acbe675c4c21958f38a332a8fb96b8ee]: Commencement: Sch. 2 para. 24 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
 
 [^f00024]: Footnote: Schedule 3 was amended by paragraph 269 of Part 1 of Schedule 4, and paragraph 5 of Part 3 of Schedule 11, to the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), paragraph 27 of Schedule 4 to the Northern Ireland Act [2009 (c. 3)](https://www.legislation.gov.uk/ukpga/2009/3), paragraph 11 of the Schedule to the Department of Justice Act (Northern Ireland) [2010 (c. 3 N.I.)](https://www.legislation.gov.uk/nia/2010/3), and paragraph 120 of Part 3 of Schedule 9 to the Crime and Courts Act [2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22).
 
-[^key-06ecb26026a880e5bb51ae308e9235b6]: Commencement: Sch. 2 para. 25 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)
+[^c-06ecb26026a880e5bb51ae308e9235b6]: Commencement: Sch. 2 para. 25 in force at 1.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/758/article/1)

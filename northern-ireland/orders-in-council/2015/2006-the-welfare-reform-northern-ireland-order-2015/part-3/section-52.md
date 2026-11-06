@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 52. Sanctions[^key-44ec335d89f60cd223ad6f61ba7798ad][^key-578fb32ecfae8e866a8c3e3b80224635]
+## 52. Sanctions[^c-44ec335d89f60cd223ad6f61ba7798ad][^c-578fb32ecfae8e866a8c3e3b80224635]
 
 *Extent: N.I.*
 
@@ -183,9 +183,9 @@ summary: ''
 
 ## Annotations
 
-[^key-44ec335d89f60cd223ad6f61ba7798ad]: Commencement: Art. 52 in operation at 1.6.2016 for specified purposes by [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/234/article/2/2/a/i)
+[^c-44ec335d89f60cd223ad6f61ba7798ad]: Commencement: Art. 52 in operation at 1.6.2016 for specified purposes by [S.R. 2016/234](https://www.legislation.gov.uk/nisr/2016/234), [art. 2(2)(a)(i)](https://www.legislation.gov.uk/nisr/2016/234/article/2/2/a/i)
 
-[^key-578fb32ecfae8e866a8c3e3b80224635]: Commencement: Art. 52 in operation at 27.9.2017 in so far as not already in operation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(c)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/c)
+[^c-578fb32ecfae8e866a8c3e3b80224635]: Commencement: Art. 52 in operation at 27.9.2017 in so far as not already in operation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 3(1)](https://www.legislation.gov.uk/nisr/2017/190/article/3/1)[(2)(c)](https://www.legislation.gov.uk/nisr/2017/190/article/3/2/c)
 
 [^M_F_db124ccf-3b85-47a5-8e89-d5d51946e53b]: Textual amendment: Art. 52(1) repealed (27.9.2017 for specified purposes and subsequently on the days on which and for the purposes for which "the amending provisions" are brought into force by secondary legislation) by [The Welfare Reform (Northern Ireland) Order 2015 (S.I. 2015/2006)](https://www.legislation.gov.uk/uksi/2015/2006), [art. 2(2)](https://www.legislation.gov.uk/uksi/2015/2006/article/2/4), [Sch. 12 Pt. 4](https://www.legislation.gov.uk/uksi/2015/2006/schedule/12/part/4); [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 9](https://www.legislation.gov.uk/nisr/2017/190/article/9) (with [arts. 10-25](https://www.legislation.gov.uk/nisr/2017/190/article/10))
 

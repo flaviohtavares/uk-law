@@ -31,8 +31,8 @@ summary: ''
 
 - (a) the claimant meets all of those conditions, and
 - (b) the payments for which the claimant is liable are—
-  - (i)[^key-ecd1650363f9bb24663b46199c546604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-  - (ii) service charge payments [^key-7cf580a35f616442e78222fbea04f34d]....
+  - (i)[^c-ecd1650363f9bb24663b46199c546604] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii) service charge payments [^c-7cf580a35f616442e78222fbea04f34d]....
 
 (4) Where both paragraphs (2) and (3) apply in relation to a claimant who occupies accommodation under an equity-sharing lease—
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ecd1650363f9bb24663b46199c546604]: Textual amendment: Reg. 27(3)(b)(i) omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 5(b)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/5/b) (with [regs. 18(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/18/2), [19](https://www.legislation.gov.uk/nisr/2017/176/regulation/19), [19A](https://www.legislation.gov.uk/nisr/2017/176/regulation/19A), [20](https://www.legislation.gov.uk/nisr/2017/176/regulation/20))
+[^c-ecd1650363f9bb24663b46199c546604]: Textual amendment: Reg. 27(3)(b)(i) omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 5(b)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/5/b) (with [regs. 18(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/18/2), [19](https://www.legislation.gov.uk/nisr/2017/176/regulation/19), [19A](https://www.legislation.gov.uk/nisr/2017/176/regulation/19A), [20](https://www.legislation.gov.uk/nisr/2017/176/regulation/20))
 
-[^key-7cf580a35f616442e78222fbea04f34d]: Textual amendment: Word in [reg. 27(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/216/regulation/27/3/b/ii) omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 5(c)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/5/c) (with [regs. 18(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/18/2), [19](https://www.legislation.gov.uk/nisr/2017/176/regulation/19), [19A](https://www.legislation.gov.uk/nisr/2017/176/regulation/19A), [20](https://www.legislation.gov.uk/nisr/2017/176/regulation/20))
+[^c-7cf580a35f616442e78222fbea04f34d]: Textual amendment: Word in [reg. 27(3)(b)(ii)](https://www.legislation.gov.uk/nisr/2016/216/regulation/27/3/b/ii) omitted (6.4.2018) by virtue of [The Loans for Mortgage Interest Regulations (Northern Ireland) 2017 (S.R. 2017/176)](https://www.legislation.gov.uk/nisr/2017/176), [reg. 1(2)(a)](https://www.legislation.gov.uk/nisr/2017/176/regulation/1/2/a), [Sch. 5 para. 5(c)](https://www.legislation.gov.uk/nisr/2017/176/schedule/5/paragraph/5/c) (with [regs. 18(2)](https://www.legislation.gov.uk/nisr/2017/176/regulation/18/2), [19](https://www.legislation.gov.uk/nisr/2017/176/regulation/19), [19A](https://www.legislation.gov.uk/nisr/2017/176/regulation/19A), [20](https://www.legislation.gov.uk/nisr/2017/176/regulation/20))

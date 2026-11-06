@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Age of sale notice at point of sale: Wales[^key-cd487b2e5409ab5ee4fb9fa814fcd141][^key-ade0b1679c7878713b0f0e947f7c8749]
+## 6. Age of sale notice at point of sale: Wales[^c-cd487b2e5409ab5ee4fb9fa814fcd141][^c-ade0b1679c7878713b0f0e947f7c8749]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd487b2e5409ab5ee4fb9fa814fcd141]: Commencement: S. 6 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
+[^c-cd487b2e5409ab5ee4fb9fa814fcd141]: Commencement: S. 6 in force at Royal Assent for specified purposes, see [s. 175(2)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/2)
 
-[^key-ade0b1679c7878713b0f0e947f7c8749]: Commencement: S. 6 in force at 1.1.2027 in so far as not already in force, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)
+[^c-ade0b1679c7878713b0f0e947f7c8749]: Commencement: S. 6 in force at 1.1.2027 in so far as not already in force, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)

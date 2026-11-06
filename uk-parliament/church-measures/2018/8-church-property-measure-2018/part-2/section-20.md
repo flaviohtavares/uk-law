@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20. Dealings[^key-abd647a0f4e5e094150d5a5adcf61edc]
+## 20. Dealings[^c-abd647a0f4e5e094150d5a5adcf61edc]
 
 *Extent: E*
 
@@ -28,7 +28,7 @@ summary: ''
 
 (4) Where a DBF or management subsidiary sells, exchanges or leases diocesan glebe land and the document giving effect to the transaction includes a restrictive covenant imposed for the benefit of church land or parsonage land, the covenant is enforceable by the DBF or subsidiary as if it were the owner of that land.
 
-(4A)[^key-1ef3768a3a231856845fdf6ef9f7e4f3] A DBF or management subsidiary may grant a lease of diocesan glebe land, other than a short lease (as to which, see subsection (5)), only if—
+(4A)[^c-1ef3768a3a231856845fdf6ef9f7e4f3] A DBF or management subsidiary may grant a lease of diocesan glebe land, other than a short lease (as to which, see subsection (5)), only if—
 
 - (a) it has obtained a written report on the proposed transaction from a designated adviser instructed by and acting exclusively for it, and
 - (b) having considered the report, it is satisfied that the terms of the proposed transaction are the best that can reasonably be obtained for the diocese.
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-abd647a0f4e5e094150d5a5adcf61edc]: Commencement: [S. 20](https://www.legislation.gov.uk/ukcm/2018/8/section/20) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
+[^c-abd647a0f4e5e094150d5a5adcf61edc]: Commencement: [S. 20](https://www.legislation.gov.uk/ukcm/2018/8/section/20) in force at 1.3.2019 by [S.I. 2019/97](https://www.legislation.gov.uk/uksi/2019/97), [art. 2](https://www.legislation.gov.uk/uksi/2019/97/article/2)
 
-[^key-1ef3768a3a231856845fdf6ef9f7e4f3]: Textual amendment: [S. 20(4A)](https://www.legislation.gov.uk/ukcm/2018/8/section/20/4A) inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/1), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)
+[^c-1ef3768a3a231856845fdf6ef9f7e4f3]: Textual amendment: [S. 20(4A)](https://www.legislation.gov.uk/ukcm/2018/8/section/20/4A) inserted (17.5.2024) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 16(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/16/1), [22(4)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/4); [S.I. 2024/631](https://www.legislation.gov.uk/uksi/2024/631), [art. 2](https://www.legislation.gov.uk/uksi/2024/631/article/2)

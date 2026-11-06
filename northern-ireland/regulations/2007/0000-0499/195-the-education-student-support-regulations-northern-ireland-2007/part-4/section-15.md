@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Students becoming eligible in the course of an academic year[^key-aa497c5aa02a717742bf33a4fa2d6fa7]
+## 15. Students becoming eligible in the course of an academic year[^c-aa497c5aa02a717742bf33a4fa2d6fa7]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Where one of the events listed in regulation 16 occurs in the course of an acade
 
 ## Annotations
 
-[^key-aa497c5aa02a717742bf33a4fa2d6fa7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2007/195/regulation/15) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-aa497c5aa02a717742bf33a4fa2d6fa7]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2007/195/regulation/15) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

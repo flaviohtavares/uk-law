@@ -30,7 +30,7 @@ summary: ''
 
 Weights And Measures
 
-[^key-49057c9509b216c675f88f2e841ec032]The Non-automatic Weighing Instruments (Amendment) Regulations 2008 (revoked)
+[^c-49057c9509b216c675f88f2e841ec032]The Non-automatic Weighing Instruments (Amendment) Regulations 2008 (revoked)
 
 Made
 
@@ -44,38 +44,38 @@ Coming into force
 
 6th April 2008
 
-[^key-49057c9509b216c675f88f2e841ec032]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^key-63b2c69ee452646349d9cbd087cee783]
+[^c-49057c9509b216c675f88f2e841ec032]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c-63b2c69ee452646349d9cbd087cee783]
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-49057c9509b216c675f88f2e841ec032]
+## 1. Citation, commencement and interpretation[^c-49057c9509b216c675f88f2e841ec032]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Authorised persons[^key-49057c9509b216c675f88f2e841ec032]
+## 2. Authorised persons[^c-49057c9509b216c675f88f2e841ec032]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Affixing of re-qualification stickers[^key-49057c9509b216c675f88f2e841ec032]
+## 3. Affixing of re-qualification stickers[^c-49057c9509b216c675f88f2e841ec032]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Re-qualification: consequential revocations and amendment[^key-49057c9509b216c675f88f2e841ec032]
+## 4. Re-qualification: consequential revocations and amendment[^c-49057c9509b216c675f88f2e841ec032]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Miscellaneous amendments[^key-49057c9509b216c675f88f2e841ec032]
+## 5. Miscellaneous amendments[^c-49057c9509b216c675f88f2e841ec032]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-49057c9509b216c675f88f2e841ec032]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49057c9509b216c675f88f2e841ec032]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-49057c9509b216c675f88f2e841ec032]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-49057c9509b216c675f88f2e841ec032]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-49057c9509b216c675f88f2e841ec032]: Textual amendment: Regulations revoked (with saving) (28.12.2016) by [The Non Automatic Weighing Instruments Regulations 2016 (S.I. 2016/1152)](https://www.legislation.gov.uk/uksi/2016/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1152/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2016/1152/regulation/4/1) (with [reg. 89](https://www.legislation.gov.uk/uksi/2016/1152/regulation/89))
+[^c-49057c9509b216c675f88f2e841ec032]: Textual amendment: Regulations revoked (with saving) (28.12.2016) by [The Non Automatic Weighing Instruments Regulations 2016 (S.I. 2016/1152)](https://www.legislation.gov.uk/uksi/2016/1152), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2016/1152/regulation/1/2), [4(1)](https://www.legislation.gov.uk/uksi/2016/1152/regulation/4/1) (with [reg. 89](https://www.legislation.gov.uk/uksi/2016/1152/regulation/89))
 
-[^key-63b2c69ee452646349d9cbd087cee783]: Modification: Regulations continued (with modifications) (31.12.2020) by [S.I. 2016/1152](https://www.legislation.gov.uk/uksi/2016/1152), [reg. 4(3A)](https://www.legislation.gov.uk/uksi/2016/1152/regulation/4/3A) (as inserted (E.W.S.) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 4](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/4) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-63b2c69ee452646349d9cbd087cee783]: Modification: Regulations continued (with modifications) (31.12.2020) by [S.I. 2016/1152](https://www.legislation.gov.uk/uksi/2016/1152), [reg. 4(3A)](https://www.legislation.gov.uk/uksi/2016/1152/regulation/4/3A) (as inserted (E.W.S.) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 26 para. 4](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/4) (with [Sch. 26 para. 5](https://www.legislation.gov.uk/uksi/2019/696/schedule/26/paragraph/5)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))

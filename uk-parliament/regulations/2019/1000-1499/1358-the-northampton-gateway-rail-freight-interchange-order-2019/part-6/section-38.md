@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 38. Operation and use of railways[^key-cb10a73222c673efccf99b9d3601193b]
+## 38. Operation and use of railways[^c-cb10a73222c673efccf99b9d3601193b]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ The undertaker may operate and use the railway comprised in the authorised devel
 
 ## Annotations
 
-[^key-cb10a73222c673efccf99b9d3601193b]: Commencement: Art. 38 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)
+[^c-cb10a73222c673efccf99b9d3601193b]: Commencement: Art. 38 in force at 30.10.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1358/article/1)

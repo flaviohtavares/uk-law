@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Consequential amendments[^key-d703df1893d70348fa3f9f64b7f84f9a]
+## 138. Consequential amendments[^c-d703df1893d70348fa3f9f64b7f84f9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 16 (consequential amendments) has effect.
 
 ## Annotations
 
-[^key-d703df1893d70348fa3f9f64b7f84f9a]: Commencement: Reg. 138 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-d703df1893d70348fa3f9f64b7f84f9a]: Commencement: Reg. 138 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

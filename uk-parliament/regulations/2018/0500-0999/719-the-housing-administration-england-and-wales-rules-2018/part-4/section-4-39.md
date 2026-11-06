@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.39. Warrants under section 236[^key-7eb74bcd39f4a5d7d86c2beff9ce2a80]
+## 4.39. Warrants under section 236[^c-7eb74bcd39f4a5d7d86c2beff9ce2a80]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7eb74bcd39f4a5d7d86c2beff9ce2a80]: Commencement: Rule 4.39 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-7eb74bcd39f4a5d7d86c2beff9ce2a80]: Commencement: Rule 4.39 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

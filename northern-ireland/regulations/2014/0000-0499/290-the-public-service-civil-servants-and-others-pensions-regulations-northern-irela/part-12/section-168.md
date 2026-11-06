@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 168. Set-off[^key-254c264cbcfb9975263341c9250282e0]
+## 168. Set-off[^c-254c264cbcfb9975263341c9250282e0]
 
 *Extent: N.I.*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-254c264cbcfb9975263341c9250282e0]: Commencement: [Reg. 168](https://www.legislation.gov.uk/nisr/2014/290/regulation/168) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-254c264cbcfb9975263341c9250282e0]: Commencement: [Reg. 168](https://www.legislation.gov.uk/nisr/2014/290/regulation/168) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00089]: Footnote: The definition of “transfer credits” in Article 121(1) was amended by the Pensions (Northern Ireland) Order 2005 ([S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)), Art.290(1), Sch.10 para. 63(1) and (2)
 

@@ -31,130 +31,130 @@ Celluloid and Cinematograph Film Act 1922 (repealed)
 
 1922 c.35
 
-[^key-27ecd3979b65f6117764f640270ca937]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-27ecd3979b65f6117764f640270ca937]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. General safety provisions.[^key-27ecd3979b65f6117764f640270ca937]
+## 1. General safety provisions.[^c-27ecd3979b65f6117764f640270ca937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Purposes to which the Act applies.[^key-27ecd3979b65f6117764f640270ca937]
+## 2. Purposes to which the Act applies.[^c-27ecd3979b65f6117764f640270ca937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Penalties for infringement of foregoing provisions.[^key-27ecd3979b65f6117764f640270ca937]
+## 3. Penalties for infringement of foregoing provisions.[^c-27ecd3979b65f6117764f640270ca937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Execution of Act by local authorities.[^key-27ecd3979b65f6117764f640270ca937]
+## 4. Execution of Act by local authorities.[^c-27ecd3979b65f6117764f640270ca937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Power of entry.[^key-27ecd3979b65f6117764f640270ca937]
+## 5. Power of entry.[^c-27ecd3979b65f6117764f640270ca937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Power to take samples.[^key-27ecd3979b65f6117764f640270ca937]
+## 6. Power to take samples.[^c-27ecd3979b65f6117764f640270ca937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Obstruction of officers.[^key-27ecd3979b65f6117764f640270ca937]
+## 7. Obstruction of officers.[^c-27ecd3979b65f6117764f640270ca937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Power of county court to modify agreements and to apportion expenses.[^key-27ecd3979b65f6117764f640270ca937]
+## 8. Power of county court to modify agreements and to apportion expenses.[^c-27ecd3979b65f6117764f640270ca937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Definitions.[^key-27ecd3979b65f6117764f640270ca937]
+## 9. Definitions.[^c-27ecd3979b65f6117764f640270ca937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Application to Scotland and Ireland.[^key-27ecd3979b65f6117764f640270ca937]
+## 10. Application to Scotland and Ireland.[^c-27ecd3979b65f6117764f640270ca937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. †Short title, commencement, &c.[^key-27ecd3979b65f6117764f640270ca937]
+## 11. †Short title, commencement, &c.[^c-27ecd3979b65f6117764f640270ca937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-27ecd3979b65f6117764f640270ca937] SCHEDULES
+[^c-27ecd3979b65f6117764f640270ca937] SCHEDULES
 
-## FIRST SCHEDULE[^key-27ecd3979b65f6117764f640270ca937]
+## FIRST SCHEDULE[^c-27ecd3979b65f6117764f640270ca937]
 
-### Part I — Raw Celluloid Stores[^key-27ecd3979b65f6117764f640270ca937]
+### Part I — Raw Celluloid Stores[^c-27ecd3979b65f6117764f640270ca937]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Premises where Cinematograph Film is kept or stored[^key-27ecd3979b65f6117764f640270ca937]
+### Part II — Premises where Cinematograph Film is kept or stored[^c-27ecd3979b65f6117764f640270ca937]
 
 The following regulations shall be observed in or in connection with premises where cinematograph film is kept stored or manipulated:—
 
-**1.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part III — Fire-resisting Store-rooms[^key-27ecd3979b65f6117764f640270ca937]
+### Part III — Fire-resisting Store-rooms[^c-27ecd3979b65f6117764f640270ca937]
 
 The following regulations shall apply to fire-resisting store-rooms:—
 
-**1.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SECOND SCHEDULE — Procedure for making Orders, &c.[^key-27ecd3979b65f6117764f640270ca937]
+## SECOND SCHEDULE — Procedure for making Orders, &c.[^c-27ecd3979b65f6117764f640270ca937]
 
 Section 1.
 
-**1.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-27ecd3979b65f6117764f640270ca937] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-27ecd3979b65f6117764f640270ca937]: Textual amendment: Act repealed (E.W.S.) (6.4.2013) by The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448), reg. 1, Sch. Table 1; (N.I) (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/223/schedule) Table 1
+[^c-27ecd3979b65f6117764f640270ca937]: Textual amendment: Act repealed (E.W.S.) (6.4.2013) by The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations 2013 (S.I. 2013/448), reg. 1, Sch. Table 1; (N.I) (1.6.2015) by [The Health and Safety (Miscellaneous Repeals, Revocations and Amendments) Regulations (Northern Ireland) 2015 (S.R. 2015/223)](https://www.legislation.gov.uk/nisr/2015/223), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2015/223/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2015/223/schedule) Table 1

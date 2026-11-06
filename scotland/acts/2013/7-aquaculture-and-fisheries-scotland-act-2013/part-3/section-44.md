@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Power of Scottish Ministers to sell seized fish in their possession[^key-cd9959ca9b0e13bb7948528f415c6a25]
+## 44. Power of Scottish Ministers to sell seized fish in their possession[^c-cd9959ca9b0e13bb7948528f415c6a25]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cd9959ca9b0e13bb7948528f415c6a25]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2013/7/section/44) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)
+[^c-cd9959ca9b0e13bb7948528f415c6a25]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2013/7/section/44) in force at 16.9.2013 by [S.S.I. 2013/249](https://www.legislation.gov.uk/ssi/2013/249), [art. 2](https://www.legislation.gov.uk/ssi/2013/249/article/2)

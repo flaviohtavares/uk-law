@@ -32,7 +32,7 @@ summary: ''
 
 Plant Health
 
-The Plant Health (Wood and Bark) (Amendment No. 2) Order (Northern Ireland) 2019 (revoked)[^key-0331ba4edebc515702f9471611f7f4e2]
+The Plant Health (Wood and Bark) (Amendment No. 2) Order (Northern Ireland) 2019 (revoked)[^c-0331ba4edebc515702f9471611f7f4e2]
 
 Made
 
@@ -42,52 +42,52 @@ Coming into operation
 
 1st September 2019
 
-[^key-0331ba4edebc515702f9471611f7f4e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0331ba4edebc515702f9471611f7f4e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-0331ba4edebc515702f9471611f7f4e2]
+## 1. Citation and commencement[^c-0331ba4edebc515702f9471611f7f4e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Plant Health (Wood and Bark) Order (Northern Ireland) 2006[^key-0331ba4edebc515702f9471611f7f4e2]
+## 2. Amendment of the Plant Health (Wood and Bark) Order (Northern Ireland) 2006[^c-0331ba4edebc515702f9471611f7f4e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Article 2 (general interpretation)[^key-0331ba4edebc515702f9471611f7f4e2]
+## 3. Article 2 (general interpretation)[^c-0331ba4edebc515702f9471611f7f4e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Schedule 1[^key-0331ba4edebc515702f9471611f7f4e2]
+## 4. Schedule 1[^c-0331ba4edebc515702f9471611f7f4e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Schedule 2[^key-0331ba4edebc515702f9471611f7f4e2]
+## 5. Schedule 2[^c-0331ba4edebc515702f9471611f7f4e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Schedule 4[^key-0331ba4edebc515702f9471611f7f4e2]
+## 6. Schedule 4[^c-0331ba4edebc515702f9471611f7f4e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Schedule 5[^key-0331ba4edebc515702f9471611f7f4e2]
+## 7. Schedule 5[^c-0331ba4edebc515702f9471611f7f4e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Schedule 6[^key-0331ba4edebc515702f9471611f7f4e2]
+## 8. Schedule 6[^c-0331ba4edebc515702f9471611f7f4e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Schedule 7[^key-0331ba4edebc515702f9471611f7f4e2]
+## 9. Schedule 7[^c-0331ba4edebc515702f9471611f7f4e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-0331ba4edebc515702f9471611f7f4e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0331ba4edebc515702f9471611f7f4e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-0331ba4edebc515702f9471611f7f4e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-0331ba4edebc515702f9471611f7f4e2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0331ba4edebc515702f9471611f7f4e2]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6)
+[^c-0331ba4edebc515702f9471611f7f4e2]: Textual amendment: Order revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6)

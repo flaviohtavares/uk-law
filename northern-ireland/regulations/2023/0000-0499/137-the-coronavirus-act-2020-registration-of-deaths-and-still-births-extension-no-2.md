@@ -34,28 +34,28 @@ Order made by the Department of Finance and laid before the Assembly under secti
 
 Civil Registration
 
-The Coronavirus Act 2020 (Registration of Deaths and Still-Births) (Extension) (No.2) Order (Northern Ireland) 2023 (revoked)[^key-cd886e19e0981accfa9afa874727f862]
+The Coronavirus Act 2020 (Registration of Deaths and Still-Births) (Extension) (No.2) Order (Northern Ireland) 2023 (revoked)[^c-cd886e19e0981accfa9afa874727f862]
 
 Made
 
 20th September 2023
 
-[^key-cd886e19e0981accfa9afa874727f862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd886e19e0981accfa9afa874727f862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation[^key-cd886e19e0981accfa9afa874727f862]
+## 1. Citation[^c-cd886e19e0981accfa9afa874727f862]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Extension of expiry date[^key-cd886e19e0981accfa9afa874727f862]
+## 2. Extension of expiry date[^c-cd886e19e0981accfa9afa874727f862]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd886e19e0981accfa9afa874727f862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd886e19e0981accfa9afa874727f862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-cd886e19e0981accfa9afa874727f862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-cd886e19e0981accfa9afa874727f862]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-cd886e19e0981accfa9afa874727f862]: Textual amendment: Order revoked (4.3.2024) by [The Coronavirus Act 2020 (Registration of Deaths and Still-Births) (Extension) Order (Northern Ireland) 2024 (S.R. 2024/29)](https://www.legislation.gov.uk/nisr/2024/29), [art. 3](https://www.legislation.gov.uk/nisr/2024/29/article/3)
+[^c-cd886e19e0981accfa9afa874727f862]: Textual amendment: Order revoked (4.3.2024) by [The Coronavirus Act 2020 (Registration of Deaths and Still-Births) (Extension) Order (Northern Ireland) 2024 (S.R. 2024/29)](https://www.legislation.gov.uk/nisr/2024/29), [art. 3](https://www.legislation.gov.uk/nisr/2024/29/article/3)

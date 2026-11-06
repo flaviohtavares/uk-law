@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 148. Payment of pension instead of lump sum death grant for members who have reached 75[^key-d1c9abc4ef9ae8e0605f8a52d4ddc816]
+## 148. Payment of pension instead of lump sum death grant for members who have reached 75[^c-d1c9abc4ef9ae8e0605f8a52d4ddc816]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1c9abc4ef9ae8e0605f8a52d4ddc816]: Commencement: Reg. 148 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-d1c9abc4ef9ae8e0605f8a52d4ddc816]: Commencement: Reg. 148 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

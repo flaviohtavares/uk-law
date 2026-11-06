@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 297. Transferees to be treated as included within certain categories of institution[^key-69c50fbd594e9bdbc1dcd8e243729284]
+## 297. Transferees to be treated as included within certain categories of institution[^c-69c50fbd594e9bdbc1dcd8e243729284]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-69c50fbd594e9bdbc1dcd8e243729284]: Commencement: Art. 297 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-69c50fbd594e9bdbc1dcd8e243729284]: Commencement: Art. 297 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00222]: Footnote: The words being substituted were substituted by the Banking Act [1987 (c. 22)](https://www.legislation.gov.uk/ukpga/1987/22), Schedule 6, paragraph 19.

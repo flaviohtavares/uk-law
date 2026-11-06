@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Management documents[^key-0477388fed28166ec39c38b6bf0b8d15]
+## 70. Management documents[^c-0477388fed28166ec39c38b6bf0b8d15]
 
 *Extent: E+W+S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0477388fed28166ec39c38b6bf0b8d15]: Commencement: S. 70 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)
+[^c-0477388fed28166ec39c38b6bf0b8d15]: Commencement: S. 70 in force at Royal Assent for specified purposes, see [s. 133(1)](https://www.legislation.gov.uk/ukpga/2026/22/section/133/1)

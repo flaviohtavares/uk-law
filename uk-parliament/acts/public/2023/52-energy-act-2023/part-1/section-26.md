@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Provision of information to or by the economic regulator[^key-2705bf241daaba9041b8e90a0c2e489a]
+## 26. Provision of information to or by the economic regulator[^c-2705bf241daaba9041b8e90a0c2e489a]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2705bf241daaba9041b8e90a0c2e489a]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2023/52/section/26) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-2705bf241daaba9041b8e90a0c2e489a]: Commencement: [S. 26](https://www.legislation.gov.uk/ukpga/2023/52/section/26) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

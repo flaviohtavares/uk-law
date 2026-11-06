@@ -44,7 +44,7 @@ Coming into operation
 
 The Department for Communities [^f00001] makes these Regulations in exercise of the powers conferred by section 2(1) to (4) of the Local Government (Meetings and Performance) Act (Northern Ireland) 2021[^f00002].
 
-## 1. Citation, commencement and interpretation[^key-61cf845573001a6488aed06f283efafe]
+## 1. Citation, commencement and interpretation[^c-61cf845573001a6488aed06f283efafe]
 
 (1) These Regulations may be cited as the Local Government (Remote Meetings) Regulations (Northern Ireland) 2024 and shall come into operation on 25th June 2024.
 
@@ -60,7 +60,7 @@ The Department for Communities [^f00001] makes these Regulations in exercise of 
 - “**remote access**” means the ability to attend or participate in a meeting by electronic means, including by telephone conference, video conference, live webcasts, and live interactive streaming; and
 - “**remote attendance**” is to be construed in accordance with regulation 2(2) and (3).
 
-## 2. Remote attendance[^key-351d1c344cc58ad0ebd180c247a2003d]
+## 2. Remote attendance[^c-351d1c344cc58ad0ebd180c247a2003d]
 
 (1) A reference in any enactment to a council meeting is not limited to a meeting of persons all of whom, or any of whom, are present in the same place and a reference to a “place” where a meeting is held, or to be held, includes reference to more than one place including electronic, digital or virtual locations such as internet locations, web addresses or conference call telephone numbers.
 
@@ -84,7 +84,7 @@ The Department for Communities [^f00001] makes these Regulations in exercise of 
 
 whenever such meetings are to be held remotely.
 
-## 3. Related modifications[^key-7879a4832fbc6b5d4a5ca2656d743657]
+## 3. Related modifications[^c-7879a4832fbc6b5d4a5ca2656d743657]
 
 (1) In section 28(7) (overview and scrutiny committees: supplementary provision) and paragraph 9 of Schedule 5 to the 2014 Act, a reference to a person attending a meeting, or before a meeting, includes that person attending by remote access.
 
@@ -121,10 +121,10 @@ Regulation 3 makes related modifications to the Local Government Act (Northern I
 
 [^f00002]: Footnote: [2021 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2021/8).
 
-[^key-61cf845573001a6488aed06f283efafe]: Commencement: Reg. 1 in operation at 25.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/140/regulation/1/1)
+[^c-61cf845573001a6488aed06f283efafe]: Commencement: Reg. 1 in operation at 25.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/140/regulation/1/1)
 
 [^f00003]: Footnote: [2014 c. 8 (N.I.)](https://www.legislation.gov.uk/nia/2014/8).
 
-[^key-351d1c344cc58ad0ebd180c247a2003d]: Commencement: Reg. 2 in operation at 25.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/140/regulation/1/1)
+[^c-351d1c344cc58ad0ebd180c247a2003d]: Commencement: Reg. 2 in operation at 25.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/140/regulation/1/1)
 
-[^key-7879a4832fbc6b5d4a5ca2656d743657]: Commencement: Reg. 3 in operation at 25.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/140/regulation/1/1)
+[^c-7879a4832fbc6b5d4a5ca2656d743657]: Commencement: Reg. 3 in operation at 25.6.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/140/regulation/1/1)

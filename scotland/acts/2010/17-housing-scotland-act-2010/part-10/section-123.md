@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 123. Restructuring resulting in change of landlord[^key-473eb276c4d025834ace4766c71bb8b1]
+## 123. Restructuring resulting in change of landlord[^c-473eb276c4d025834ace4766c71bb8b1]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-473eb276c4d025834ace4766c71bb8b1]: Textual amendment: S. 123 repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(15)](https://www.legislation.gov.uk/asp/2018/13/section/6/15), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)
+[^c-473eb276c4d025834ace4766c71bb8b1]: Textual amendment: S. 123 repealed (8.3.2019) by [Housing (Amendment) (Scotland) Act 2018 (asp 13)](https://www.legislation.gov.uk/asp/2018/13), [ss. 6(15)](https://www.legislation.gov.uk/asp/2018/13/section/6/15), [11(2)](https://www.legislation.gov.uk/asp/2018/13/section/11/2); [S.S.I. 2018/253](https://www.legislation.gov.uk/ssi/2018/253), [reg. 2(2)](https://www.legislation.gov.uk/ssi/2018/253/regulation/2/2)

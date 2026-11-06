@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Part of calculation A referable to Great Britain[^key-9096f64ab0317f7478e769eb0fb2d78f]
+## 6. Part of calculation A referable to Great Britain[^c-9096f64ab0317f7478e769eb0fb2d78f]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ The part of calculation A referable to Great Britain is the estimate of megawatt
 
 ## Annotations
 
-[^key-9096f64ab0317f7478e769eb0fb2d78f]: Commencement: Art. 6 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-9096f64ab0317f7478e769eb0fb2d78f]: Commencement: Art. 6 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
 [^f00019]: Footnote: [SI 2009 No. 785](https://www.legislation.gov.uk/uksi/2009/785)

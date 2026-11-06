@@ -53,13 +53,13 @@ The Scottish Ministers in exercise of the powers conferred by section 14 of the 
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation, commencement and repeal[^key-4dc78b7f18c364fdefb1a16f35b4ceb8]
+### 1. Citation, commencement and repeal[^c-4dc78b7f18c364fdefb1a16f35b4ceb8]
 
 (1) This Order may be cited as the Whiteness Marina Harbour Revision Order 2008 and comes into force on 7th November 2008.
 
 (2) The McDermott Scotland Order Confirmation Act 1975[^f00010] is repealed.
 
-### 2. Interpretation[^key-ccef1b4d254fe96f07eefed344457609]
+### 2. Interpretation[^c-ccef1b4d254fe96f07eefed344457609]
 
 (1) In this Order, except where the context otherwise requires–
 
@@ -83,7 +83,7 @@ The Scottish Ministers in exercise of the powers conferred by section 14 of the 
 
 (3) Any reference in this Order to a work identified by the number of such work shall be construed as a reference to the work of that number authorised by this Order.
 
-### 3. Incorporation of Harbours, Docks and Piers Clauses Act 1847[^key-650f7d8550499fee458aa695c99a2302]
+### 3. Incorporation of Harbours, Docks and Piers Clauses Act 1847[^c-650f7d8550499fee458aa695c99a2302]
 
 (1) The 1847 Act (except sections 6 to 25, 27, 28, 31, 33, 49, 50, 52, 53, 67, 83 to 90, 92 and 101), so far as applicable to the purposes and not inconsistent with the provisions of this Order, is hereby incorporated with this Order subject to the modifications stated in paragraphs (2) to (4).
 
@@ -96,7 +96,7 @@ The Scottish Ministers in exercise of the powers conferred by section 14 of the 
 - (a) the expression “the special Act” means this Order, the expression “the undertakers” means the Company and the expression “the harbour, dock, or pier” shall mean the marina; and
 - (b) for the definition of the words “lands” and “vessel” in section 3 of the 1847 Act there shall be substituted the definitions of the words “land” and “vessel” respectively in article 2(1).
 
-### 4. Power to construct works[^key-5104d44c06bc6d8e21182e95c1b45b4a]
+### 4. Power to construct works[^c-5104d44c06bc6d8e21182e95c1b45b4a]
 
 (1) Subject to the provisions of this Order, the Company may in the lines and situations and upon the lands delineated on the deposited plans and within the limits of deviation shown thereon and according to the levels shown on the deposited sections, construct and maintain in the Highland Area, Inverness District the works hereinafter described, with all necessary works and conveniences connected therewith–
 
@@ -108,15 +108,15 @@ The Scottish Ministers in exercise of the powers conferred by section 14 of the 
 
 (3) Subject to the provisions of this Order, the Company may, within the limits of deviation, reconstruct, extend, enlarge, replace or relay the works authorised by paragraph (1) and may maintain the same as reconstructed, extended, enlarged, replaced or relaid.
 
-### 5. Power to deviate[^key-1ab53e3575d9f9393eeceec99cc38e9b]
+### 5. Power to deviate[^c-1ab53e3575d9f9393eeceec99cc38e9b]
 
 Subject to the provisions of this Order, in carrying out the works authorised by article 4 (power to construct works) the Company may deviate laterally from the lines or situations thereof as shown on the deposited plans to any extent not exceeding the limits of deviation and may deviate vertically from the levels of the works as shown on the deposited sections to any extent not exceeding 3 metres upwards and to such extent downwards as may be found necessary or convenient.
 
-### 6. Subsidiary works[^key-6523699cb5d52d1ce6d599a1b11fea75]
+### 6. Subsidiary works[^c-6523699cb5d52d1ce6d599a1b11fea75]
 
 Subject to the provisions of this Order, the Company may from time to time within the limits of deviation construct, maintain and operate, whether temporarily or permanently, such other works as may be necessary or convenient for the purposes, or in connection with or in consequence, of the construction, maintenance or use of the works or the Company’s undertaking; including works for the accommodation or convenience of vessels or for the loading and unloading of goods and the embarking and landing of passengers.
 
-### 7. Power to dredge[^key-90bc8f4955d714c19ff88de0a867f825]
+### 7. Power to dredge[^c-90bc8f4955d714c19ff88de0a867f825]
 
 (1) The Company may, for the purposes of constructing and maintaining the works and of affording access to the works by vessels from time to time deepen, dredge, scour, cleanse, alter and improve so much of the bed, shores and channels of the Moray Firth as lie within the marina limits and within the approaches and the channels leading to those limits and may blast any rock in the area so described and may use, appropriate or dispose of the materials (other than wreck within the meaning of Part IX of the Merchant Shipping Act 1995[^f00013]), from time to time dredged by them.
 
@@ -125,15 +125,15 @@ Subject to the provisions of this Order, the Company may from time to time withi
 - (a) in contravention of the provisions of any enactment as respects the disposal of waste; or
 - (b) in any place below the level of high water otherwise than in such position and under such conditions and restrictions as may be approved or prescribed by the Scottish Ministers.
 
-### 8. Obstruction of work[^key-e8e6e4c94d82df5dd63d51e4b67153d9]
+### 8. Obstruction of work[^c-e8e6e4c94d82df5dd63d51e4b67153d9]
 
 Any person who intentionally obstructs any person acting under the authority of the Company in setting out the lines of or in constructing the works, or who interferes with, moves or removes any pole, stake, station point or bench mark established for the purpose of such setting out, shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
-### 9. Works to be deemed part of undertaking[^key-7153673ba68d72b9af2472af6192413e]
+### 9. Works to be deemed part of undertaking[^c-7153673ba68d72b9af2472af6192413e]
 
 The works shall be deemed for all purposes to be part of the undertaking and all byelaws, directions, rules and regulations of the Company for the time being in force relating to the marina shall apply to the works and may be enforced by the Company accordingly.
 
-### 10. Tidal works not to be executed without approval of the Scottish Ministers[^key-fb63704c3495945aab79e86e22e4a562]
+### 10. Tidal works not to be executed without approval of the Scottish Ministers[^c-fb63704c3495945aab79e86e22e4a562]
 
 (1) Unless construction has commenced within one year of the coming into force of this Order, a tidal work shall not be demolished, constructed, renewed, reconstructed or altered except in accordance with plans and sections approved by the Scottish Ministers and subject to any conditions and restrictions imposed by the Scottish Ministers before the work is begun or while work is still in progress.
 
@@ -144,17 +144,17 @@ The works shall be deemed for all purposes to be part of the undertaking and all
 
 and any expenditure incurred by the Scottish Ministers in so doing shall be recoverable from the Company as a debt.
 
-### 11. Survey of tidal works[^key-ad95165de3afd8098aa3d2a740e04c96]
+### 11. Survey of tidal works[^c-ad95165de3afd8098aa3d2a740e04c96]
 
 The Scottish Ministers may at any time if they deem it expedient order a survey and examination of a tidal work or a site upon which it is proposed to construct the work and any expense incurred by them in such a survey and examination shall be recoverable from the Company as a debt.
 
-### 12. Provision against danger to navigation[^key-4e7f3992155130576a594f582651d485]
+### 12. Provision against danger to navigation[^c-4e7f3992155130576a594f582651d485]
 
 (1) In the case of injury to or destruction or decay of a tidal work or any part thereof, the Company shall forthwith notify the Commissioners of Northern Lighthouses and shall lay down such buoys, exhibit such lights and take such other steps for preventing danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If the Company fail to comply in any respect with the provisions of this article, they shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 13. Abatement of works abandoned or decayed[^key-ea21723a2c7bb3ff8f12b843c53cfddd]
+### 13. Abatement of works abandoned or decayed[^c-ea21723a2c7bb3ff8f12b843c53cfddd]
 
 (1) Where a tidal work is abandoned or suffered to fall into decay the Scottish Ministers may by notice in writing require the Company at their own expense either to repair and restore the work or any part thereof, or to remove the work and restore the site thereof to its former condition, to such an extent and within such limits as the Scottish Ministers think proper.
 
@@ -162,19 +162,19 @@ The Scottish Ministers may at any time if they deem it expedient order a survey 
 
 (3) If, on the expiration of 30 days from the date when a notice under this article is served upon the Company they have failed to comply with the requirements of the notice, the Scottish Ministers may execute the works specified in the notice and any expenditure incurred by them in so doing shall be recoverable from the Company as a debt.
 
-### 14. Lights on tidal works during construction[^key-b48b074e82ae6d9dc4dc106d113f5c5f]
+### 14. Lights on tidal works during construction[^c-b48b074e82ae6d9dc4dc106d113f5c5f]
 
 (1) During the whole time of the demolition, construction, renewal, reconstruction or alteration of a tidal work the Company shall at the outer extremity thereof every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If the Company fail to comply in any respect with a direction given under this article they shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 15. Permanent lights on tidal works[^key-30663e1eb5b59be222757899c1d85086]
+### 15. Permanent lights on tidal works[^c-30663e1eb5b59be222757899c1d85086]
 
 (1) After completion of a tidal work the Company shall at the outer extremity thereof every night from sunset to sunrise exhibit such lights, if any, and take such other steps for the prevention of danger to navigation as the Commissioners of Northern Lighthouses shall from time to time direct.
 
 (2) If the Company fail to comply in any respect with a direction given under this article they shall be guilty of an offence and liable on summary conviction to a fine not exceeding the statutory maximum and on conviction on indictment to a fine.
 
-### 16. Period for completion of works[^key-68c0a922cc83add1d230b408935cb421]
+### 16. Period for completion of works[^c-68c0a922cc83add1d230b408935cb421]
 
 (1) Subject to paragraph (2), if the works are not completed within five years from the coming into force of this Order or such extended time as the Scottish Ministers may on the application of the Company allow, then on the expiration of that period or such extended time (as the case may be) the powers by this Order granted to the Company for making and maintaining the works shall cease except as to so much thereof as is then substantially commenced.
 
@@ -182,19 +182,19 @@ The Scottish Ministers may at any time if they deem it expedient order a survey 
 
 ## PART 2 — MARINA REGULATION
 
-### 17. Limits of marina[^key-e6745116507635107ba5984ce5e238af]
+### 17. Limits of marina[^c-e6745116507635107ba5984ce5e238af]
 
 (1) The marina limits within which the Company shall exercise jurisdiction and the harbour master shall exercise his powers shall be the area bounded by an imaginary line commencing at a point at NH8163757277 (point 1), thence extending generally in a westerly direction following the line of the drain to a point at NH7937257576 (point 2), thence extending in an imaginary straight line in a northerly direction to a point at NH7957759850 (point 3), thence extending in an imaginary straight line in a north easterly direction to a point at NH8049760110 (point 4), thence extending in an imaginary straight line in an easterly direction to a point at NH8148759908 (point 5), thence extending in an imaginary straight line in a south easterly direction to a point at NH8204259526 (point 6), thence extending in an imaginary straight line in a southerly direction to a point at NH8198157788 (point 7), thence extending in an imaginary straight line in a south westerly direction and terminating at the point of commencement.
 
 (2) The area described in paragraph (1) is, for the purpose of identification only, shown edged red on sheet 5 of the deposited plans and, in the event that there is any discrepancy between the description of that area and the area shown on that sheet, the description shall prevail.
 
-### 18. General powers of Company in respect of marina[^key-f5a559f0a21ba5111cd040d0ce9b9999]
+### 18. General powers of Company in respect of marina[^c-f5a559f0a21ba5111cd040d0ce9b9999]
 
 (1) The Company may improve, maintain, regulate, manage, mark and light the marina and provide accommodation and marina facilities therein.
 
 (2) The powers conferred by this article are without prejudice to any powers of the Company under or by virtue of any other enactment (including any other provision of this Order).
 
-### 19. Moorings[^key-89a3afc2b102d61e1ffb2dc2eae12fa0]
+### 19. Moorings[^c-89a3afc2b102d61e1ffb2dc2eae12fa0]
 
 (1) The Company may within the marina provide, place, lay down, maintain, use and have moorings for vessels–
 
@@ -235,7 +235,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 - “mooring” includes any buoy, pile, post, chain, pillar, jetty for use as an appurtenance to a dwelling or like apparatus or structure used for the mooring of vessels; and
 - “vessel” does not include a houseboat.
 
-### 20. General byelaws[^key-e517e58795c1c60a409b6d15db884d0e]
+### 20. General byelaws[^c-e517e58795c1c60a409b6d15db884d0e]
 
 (1) The Company may from time to time make byelaws for the efficient management and regulation of the marina.
 
@@ -266,7 +266,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 - (b) relate to the whole of the marina or to any part thereof;
 - (c) make different provisions for different parts of the marina or in relation to different classes of vessels or vehicles.
 
-### 21. Confirmation of byelaws[^key-2bec6b243d60e10c618f9f8eccef5a87]
+### 21. Confirmation of byelaws[^c-2bec6b243d60e10c618f9f8eccef5a87]
 
 (1) Byelaws made by the Company under this Order shall not come into operation until they have been confirmed by the Scottish Ministers.
 
@@ -289,7 +289,7 @@ shall be guilty of an offence and liable on summary conviction to a fine not exc
 
 (9) A copy of the byelaws when confirmed shall be printed and deposited at the office of the harbour master and shall at all reasonable hours be open to public inspection without payment, and a copy thereof shall on application be furnished to any person on payment of such reasonable sum as the Company may determine.
 
-### 22. General directions to vessels[^key-e0fe31c78c25a39596856d17413f8ee6]
+### 22. General directions to vessels[^c-e0fe31c78c25a39596856d17413f8ee6]
 
 (1) The Company may, after consultation with the Chamber of Shipping and the Royal Yachting Association in each case of an exercise of the powers, give directions for the purpose of promoting or securing conditions conducive to the ease, convenience or safety of navigation or for the conservation of fauna, avifauna and flora in the marina and the approaches and channels leading thereto and, without prejudice to the generality of the foregoing, for any of the following purposes–
 
@@ -306,13 +306,13 @@ and every direction given under this article shall specify the extent of its app
 
 (3) The Company may, after consultation with the Chamber of Shipping and the Royal Yachting Association, revoke or amend directions given under this article.
 
-### 23. Publication of general directions[^key-069381571cd86427b5d761c92f7849d7]
+### 23. Publication of general directions[^c-069381571cd86427b5d761c92f7849d7]
 
 (1) Notice of the giving of a general direction and of any amendment or revocation of a general direction shall, except in case of emergency, be published by the Company as soon as practicable once in Lloyd’s List or some other newspaper specialising in shipping news; and, if the notice relates to the giving or amendment of a direction, the notice shall state a place at which copies thereof may be inspected and bought, and the price thereof.
 
 (2) In an emergency, notice of the giving of a general direction or of any amendment or revocation of a general direction may be given in any manner the Company consider appropriate.
 
-### 24. Special directions to vessels[^key-318b0571a6ef149328494b920309cdf0]
+### 24. Special directions to vessels[^c-318b0571a6ef149328494b920309cdf0]
 
 (1) The harbour master may give a direction under this article–
 
@@ -329,15 +329,15 @@ and every direction given under this article shall specify the extent of its app
 
 (3) The harbour master may revoke or amend a special direction.
 
-### 25. Master’s responsibility to be unaffected[^key-832a2575765e1a3faea18ce0e1ba0cc5]
+### 25. Master’s responsibility to be unaffected[^c-832a2575765e1a3faea18ce0e1ba0cc5]
 
 The giving of a general direction or a special direction shall not diminish or in any other way affect the responsibility of the master of the vessel to which the direction is given in relation to his vessel, persons on board, its cargo or any other person or property.
 
-### 26. Failure to comply with directions[^key-82067c3613c7b0319a3106cbda9232a0]
+### 26. Failure to comply with directions[^c-82067c3613c7b0319a3106cbda9232a0]
 
 The master of a vessel who fails without reasonable excuse to comply with a general direction or a special direction shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 2 on the standard scale.
 
-### 27. Enforcement of special directions[^key-a9fd0b95ed725752bed1f26b143b54a2]
+### 27. Enforcement of special directions[^c-a9fd0b95ed725752bed1f26b143b54a2]
 
 (1) Without prejudice to any other remedy available to the Company, if a special direction is not complied with within a reasonable time the harbour master may, where practicable, put persons on board the vessel to carry out the direction or may otherwise cause the vessel to be handled in accordance with the direction.
 
@@ -345,7 +345,7 @@ The master of a vessel who fails without reasonable excuse to comply with a gene
 
 (3) Expenses incurred in the exercise of the powers conferred by this article shall be recoverable by the Company from the owner of the vessel as if they were a charge of the Company in respect of the vessel.
 
-### 28. Exemptions, rebates, etc., in respect of charges[^key-e1500316ffa18faab80d0b958420df5b]
+### 28. Exemptions, rebates, etc., in respect of charges[^c-e1500316ffa18faab80d0b958420df5b]
 
 (1) The Company may confer total or partial exemption from, allow rebates to or make compositions with any person with respect to, charges and may vary or extinguish any such exemption or composition.
 
@@ -353,11 +353,11 @@ The master of a vessel who fails without reasonable excuse to comply with a gene
 
 ## PART 3 — MISCELLANEOUS AND GENERAL
 
-### 29. Power to lease etc.[^key-f73405757020aaffa9cc0f3193a46856]
+### 29. Power to lease etc.[^c-f73405757020aaffa9cc0f3193a46856]
 
 The Company may at any time lease or grant for the purposes of the undertaking the use or occupation of, or any right or interest in, over or relating to, any lands, works, buildings, equipment or other property forming part of the marina for such period or periods and on such terms and conditions as may be agreed between the Company and the persons taking the same.
 
-### 30. Defence of due diligence[^key-4b96943bccb2e5f5e3a02960f34ae279]
+### 30. Defence of due diligence[^c-4b96943bccb2e5f5e3a02960f34ae279]
 
 (1) In proceedings for an offence under any provision of this Order mentioned in paragraph (2) it shall be a defence for the Company to prove that they took all reasonable precautions and exercised all due diligence to avoid the commission of such an offence.
 
@@ -369,11 +369,11 @@ The Company may at any time lease or grant for the purposes of the undertaking t
 
 (3) If in any case the defence provided by paragraph (1) involves the allegation that the commission of the offence was due to the act or default of another person, the Company shall not, without leave of the court, be entitled to rely on that defence unless, within a period of 7 clear days before the hearing, they have served on the prosecutor a notice in writing giving such information identifying, or assisting in the identification of, that other person as was then in their possession.
 
-### 31. Saving for Commissioners of Northern Lighthouses[^key-20f5f8c806746de382fd131d8cf3180d]
+### 31. Saving for Commissioners of Northern Lighthouses[^c-20f5f8c806746de382fd131d8cf3180d]
 
 Nothing in this Order shall prejudice or derogate from any of the rights, duties or privileges of the Commissioners of Northern Lighthouses.
 
-### 32. Disapplication of Regulation 60 of the Conservation (Natural Habitats, &c.) Regulations 1994[^key-5a8451865454aa31e6cb06c94f15f75d]
+### 32. Disapplication of Regulation 60 of the Conservation (Natural Habitats, &c.) Regulations 1994[^c-5a8451865454aa31e6cb06c94f15f75d]
 
 (1) Regulation 60 of the Conservation (Natural Habitats, &c.) Regulations 1994[^f00014] (“the Habitats Regulations”) shall not apply to any planning permission which relates to the works authorised by article 4 (power to construct works) or article 6 (subsidiary works) and which is granted by article 3(1) of the Town and Country Planning (General Permitted Development) (Scotland) Order 1992[^f00015] for the class of development described as permitted development in Part 11 of Schedule 2 to that Order.
 
@@ -382,7 +382,7 @@ Nothing in this Order shall prejudice or derogate from any of the rights, duties
 - (a) do not form part of the plan and project which was subject to an appropriate assessment in accordance with regulation 48 of the Habitats Regulations in connection with the making of this Order; and
 - (b) are not subject to a further consent, permission or authorisation by a competent authority as defined in the Habitats Regulations.
 
-### 33. Crown rights[^key-a695fadeceda15cce62066bcf5124cd3]
+### 33. Crown rights[^c-a695fadeceda15cce62066bcf5124cd3]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to the generality of the foregoing, nothing in this Order authorises the Company or any licensee to take, use, enter upon or in any manner interfere with any land or interests in land or any rights of whatsoever description (including any portion of the shore or bed of the sea or any river, channel, creek, bay or estuary)–
 
@@ -427,80 +427,80 @@ The Order also confers powers on Whiteness Marina Company Limited to maintain an
 
 [^f00009]: Footnote: Paragraph 10A of Schedule 3 was inserted by the [Transport and Works (Scotland) Act 2007 (asp 8)](https://www.legislation.gov.uk/asp/2007/8), section 25(5)(d).
 
-[^key-4dc78b7f18c364fdefb1a16f35b4ceb8]: Commencement: Art. 1 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-4dc78b7f18c364fdefb1a16f35b4ceb8]: Commencement: Art. 1 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
 [^f00010]: Footnote: [1975 c.xxiv](https://www.legislation.gov.uk/ukla/1975/24).
 
-[^key-ccef1b4d254fe96f07eefed344457609]: Commencement: Art. 2 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-ccef1b4d254fe96f07eefed344457609]: Commencement: Art. 2 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
 [^f00011]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
 [^f00012]: Footnote: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-650f7d8550499fee458aa695c99a2302]: Commencement: Art. 3 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-650f7d8550499fee458aa695c99a2302]: Commencement: Art. 3 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-5104d44c06bc6d8e21182e95c1b45b4a]: Commencement: Art. 4 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-5104d44c06bc6d8e21182e95c1b45b4a]: Commencement: Art. 4 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-1ab53e3575d9f9393eeceec99cc38e9b]: Commencement: Art. 5 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-1ab53e3575d9f9393eeceec99cc38e9b]: Commencement: Art. 5 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-6523699cb5d52d1ce6d599a1b11fea75]: Commencement: Art. 6 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-6523699cb5d52d1ce6d599a1b11fea75]: Commencement: Art. 6 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-90bc8f4955d714c19ff88de0a867f825]: Commencement: Art. 7 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-90bc8f4955d714c19ff88de0a867f825]: Commencement: Art. 7 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
 [^f00013]: Footnote: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), see section 255(1).
 
-[^key-e8e6e4c94d82df5dd63d51e4b67153d9]: Commencement: Art. 8 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-e8e6e4c94d82df5dd63d51e4b67153d9]: Commencement: Art. 8 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-7153673ba68d72b9af2472af6192413e]: Commencement: Art. 9 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-7153673ba68d72b9af2472af6192413e]: Commencement: Art. 9 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-fb63704c3495945aab79e86e22e4a562]: Commencement: Art. 10 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-fb63704c3495945aab79e86e22e4a562]: Commencement: Art. 10 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-ad95165de3afd8098aa3d2a740e04c96]: Commencement: Art. 11 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-ad95165de3afd8098aa3d2a740e04c96]: Commencement: Art. 11 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-4e7f3992155130576a594f582651d485]: Commencement: Art. 12 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-4e7f3992155130576a594f582651d485]: Commencement: Art. 12 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-ea21723a2c7bb3ff8f12b843c53cfddd]: Commencement: Art. 13 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-ea21723a2c7bb3ff8f12b843c53cfddd]: Commencement: Art. 13 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-b48b074e82ae6d9dc4dc106d113f5c5f]: Commencement: Art. 14 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-b48b074e82ae6d9dc4dc106d113f5c5f]: Commencement: Art. 14 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-30663e1eb5b59be222757899c1d85086]: Commencement: Art. 15 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-30663e1eb5b59be222757899c1d85086]: Commencement: Art. 15 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-68c0a922cc83add1d230b408935cb421]: Commencement: Art. 16 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-68c0a922cc83add1d230b408935cb421]: Commencement: Art. 16 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-e6745116507635107ba5984ce5e238af]: Commencement: Art. 17 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-e6745116507635107ba5984ce5e238af]: Commencement: Art. 17 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-f5a559f0a21ba5111cd040d0ce9b9999]: Commencement: Art. 18 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-f5a559f0a21ba5111cd040d0ce9b9999]: Commencement: Art. 18 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-89a3afc2b102d61e1ffb2dc2eae12fa0]: Commencement: Art. 19 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-89a3afc2b102d61e1ffb2dc2eae12fa0]: Commencement: Art. 19 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-e517e58795c1c60a409b6d15db884d0e]: Commencement: Art. 20 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-e517e58795c1c60a409b6d15db884d0e]: Commencement: Art. 20 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-2bec6b243d60e10c618f9f8eccef5a87]: Commencement: Art. 21 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-2bec6b243d60e10c618f9f8eccef5a87]: Commencement: Art. 21 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-e0fe31c78c25a39596856d17413f8ee6]: Commencement: Art. 22 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-e0fe31c78c25a39596856d17413f8ee6]: Commencement: Art. 22 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-069381571cd86427b5d761c92f7849d7]: Commencement: Art. 23 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-069381571cd86427b5d761c92f7849d7]: Commencement: Art. 23 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-318b0571a6ef149328494b920309cdf0]: Commencement: Art. 24 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-318b0571a6ef149328494b920309cdf0]: Commencement: Art. 24 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-832a2575765e1a3faea18ce0e1ba0cc5]: Commencement: Art. 25 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-832a2575765e1a3faea18ce0e1ba0cc5]: Commencement: Art. 25 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-82067c3613c7b0319a3106cbda9232a0]: Commencement: Art. 26 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-82067c3613c7b0319a3106cbda9232a0]: Commencement: Art. 26 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-a9fd0b95ed725752bed1f26b143b54a2]: Commencement: Art. 27 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-a9fd0b95ed725752bed1f26b143b54a2]: Commencement: Art. 27 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-e1500316ffa18faab80d0b958420df5b]: Commencement: Art. 28 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-e1500316ffa18faab80d0b958420df5b]: Commencement: Art. 28 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-f73405757020aaffa9cc0f3193a46856]: Commencement: Art. 29 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-f73405757020aaffa9cc0f3193a46856]: Commencement: Art. 29 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-4b96943bccb2e5f5e3a02960f34ae279]: Commencement: Art. 30 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-4b96943bccb2e5f5e3a02960f34ae279]: Commencement: Art. 30 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-20f5f8c806746de382fd131d8cf3180d]: Commencement: Art. 31 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-20f5f8c806746de382fd131d8cf3180d]: Commencement: Art. 31 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
-[^key-5a8451865454aa31e6cb06c94f15f75d]: Commencement: Art. 32 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-5a8451865454aa31e6cb06c94f15f75d]: Commencement: Art. 32 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
 
 [^f00014]: Footnote: S.I. [1994/2716](https://www.legislation.gov.uk/uksi/1994/2716).
 
 [^f00015]: Footnote: S.I. [1992/223](https://www.legislation.gov.uk/uksi/1992/223).
 
-[^key-a695fadeceda15cce62066bcf5124cd3]: Commencement: Art. 33 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)
+[^c-a695fadeceda15cce62066bcf5124cd3]: Commencement: Art. 33 in force at 7.11.2008, see [art. 1(1)](https://www.legislation.gov.uk/ssi/2008/361/article/1/1)

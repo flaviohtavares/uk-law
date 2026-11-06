@@ -44,7 +44,7 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 1(3) and 9(2)(a) and (3) of the Mesothelioma, etc., Act (Northern Ireland) 2008[^f00001].
 
-## 1. Citation, commencement and application[^key-a49d930793cd58e007917eb42c61eb03]
+## 1. Citation, commencement and application[^c-a49d930793cd58e007917eb42c61eb03]
 
 (1) These Regulations may be cited as the Mesothelioma Lump Sum Payments (2023 Conditions and Amounts) (Amendment) Regulations (Northern Ireland) 2024 and shall come into operation on 22nd March 2024.
 
@@ -55,14 +55,14 @@ The Department for Communities makes the following Regulations in exercise of th
   - (ii) where the date of the first diagnosis with diffuse mesothelioma is unknown, if a claim under section 1(1) of the Mesothelioma, etc., Act (Northern Ireland) 2008 is made by that person on or after 1st April 2023; and
 - (b) paragraph (b) applies only in relation to the dependant of a person who dies on or after 1st April 2023 and who, immediately before death, had diffuse mesothelioma.
 
-## 2. Amendment of the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations[^key-f8867cedd04b0f8fd533c98b691e362a]
+## 2. Amendment of the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations[^c-f8867cedd04b0f8fd533c98b691e362a]
 
 In the Schedule to the Mesothelioma Lump Sum Payments (Conditions and Amounts) Regulations (Northern Ireland) 2008[^f00002]—
 
 - (a) for Table 1 substitute the Table set out in Part 1 of the Schedule to these Regulations; and
 - (b) for Table 2 substitute the Table set out in Part 2 of the Schedule to these Regulations.
 
-## 3. Revocation[^key-0f36235321b9bab0f957311a9b60f584]
+## 3. Revocation[^c-0f36235321b9bab0f957311a9b60f584]
 
 The Mesothelioma Lump Sum Payments (Conditions and Amounts) (Amendment No. 2) Regulations (Northern Ireland) 2023[^f00003] are revoked.
 
@@ -78,7 +78,7 @@ A senior officer of the Department for Communities
 
 Regulation 2
 
-### PART 1[^key-6168d8123f668ed27f79b1029bbe241c]
+### PART 1[^c-6168d8123f668ed27f79b1029bbe241c]
 
 > Table 1
 >
@@ -133,7 +133,7 @@ Regulation 2
 > </tbody>
 > </table>
 
-### PART 2[^key-a6e889841183f61667283c91d80e738e]
+### PART 2[^c-a6e889841183f61667283c91d80e738e]
 
 > Table 2
 >
@@ -188,16 +188,16 @@ These Regulations revoke and re-enact the provisions of the Mesothelioma Lump Su
 
 [^f00001]: Footnote: [2008 c. 9 (N.I.)](https://www.legislation.gov.uk/nia/2008/9); *see* section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.))](https://www.legislation.gov.uk/nia/2016/5)
 
-[^key-a49d930793cd58e007917eb42c61eb03]: Commencement: Reg. 1 in operation at 22.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/70/regulation/1/1)
+[^c-a49d930793cd58e007917eb42c61eb03]: Commencement: Reg. 1 in operation at 22.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/70/regulation/1/1)
 
-[^key-f8867cedd04b0f8fd533c98b691e362a]: Commencement: Reg. 2 in operation at 22.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/70/regulation/1/1)
+[^c-f8867cedd04b0f8fd533c98b691e362a]: Commencement: Reg. 2 in operation at 22.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/70/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 2008 No. 354](https://www.legislation.gov.uk/nisr/2008/354); relevant amending Regulations are [S.R. 2023 No. 144](https://www.legislation.gov.uk/nisr/2023/144)
 
-[^key-0f36235321b9bab0f957311a9b60f584]: Commencement: Reg. 3 in operation at 22.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/70/regulation/1/1)
+[^c-0f36235321b9bab0f957311a9b60f584]: Commencement: Reg. 3 in operation at 22.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/70/regulation/1/1)
 
 [^f00003]: Footnote: [S.R. 2023 No. 144](https://www.legislation.gov.uk/nisr/2023/144)
 
-[^key-6168d8123f668ed27f79b1029bbe241c]: Commencement: Sch. Pt. 1 in operation at 22.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/70/regulation/1/1)
+[^c-6168d8123f668ed27f79b1029bbe241c]: Commencement: Sch. Pt. 1 in operation at 22.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/70/regulation/1/1)
 
-[^key-a6e889841183f61667283c91d80e738e]: Commencement: Sch. Pt. 2 in operation at 22.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/70/regulation/1/1)
+[^c-a6e889841183f61667283c91d80e738e]: Commencement: Sch. Pt. 2 in operation at 22.3.2024, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2024/70/regulation/1/1)

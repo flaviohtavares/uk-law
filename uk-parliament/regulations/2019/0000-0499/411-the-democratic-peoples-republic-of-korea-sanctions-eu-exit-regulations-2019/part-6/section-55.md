@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Brokering services: non-UK activity relating to gold, precious metals or diamonds[^key-1da44be515256ba86ddbb3b0268c93dc][^key-3bd28a25b39b63ec5b0565629b5e99c6]
+## 55. Brokering services: non-UK activity relating to gold, precious metals or diamonds[^c-1da44be515256ba86ddbb3b0268c93dc][^c-3bd28a25b39b63ec5b0565629b5e99c6]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,6 +51,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1da44be515256ba86ddbb3b0268c93dc]: Commencement: Reg. 55 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-1da44be515256ba86ddbb3b0268c93dc]: Commencement: Reg. 55 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-3bd28a25b39b63ec5b0565629b5e99c6]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2019/411/regulation/55) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3bd28a25b39b63ec5b0565629b5e99c6]: Commencement: [Reg. 55](https://www.legislation.gov.uk/uksi/2019/411/regulation/55) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

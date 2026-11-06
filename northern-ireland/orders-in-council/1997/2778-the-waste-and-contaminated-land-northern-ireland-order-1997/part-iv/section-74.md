@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 74. Offences[^key-3a70ba7e7088e6e940924cf71c136cc5]
+## 74. Offences[^c-3a70ba7e7088e6e940924cf71c136cc5]
 
 *Extent: N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3a70ba7e7088e6e940924cf71c136cc5]: Modification: [Art. 74](https://www.legislation.gov.uk/nisi/1997/2778/article/74) applied (with modifications) (1.4.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/2), [21(3)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/21/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
+[^c-3a70ba7e7088e6e940924cf71c136cc5]: Modification: [Art. 74](https://www.legislation.gov.uk/nisi/1997/2778/article/74) applied (with modifications) (1.4.2018) by [The Control of Mercury (Enforcement) Regulations 2017 (S.I. 2017/1200)](https://www.legislation.gov.uk/uksi/2017/1200), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/2/2), [21(3)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/21/3) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1200/regulation/1/2))
 
 [^c20503681]: Textual amendment: [Art. 74(5A)](https://www.legislation.gov.uk/nisi/1997/2778/article/74/5A) inserted (25.6.2007) by [Waste (Amendment) (Northern Ireland) Order 2007 (S.I. 2007/611 (N.I. 3))](https://www.legislation.gov.uk/nisi/2007/611), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/611/article/1/3), [18(2)](https://www.legislation.gov.uk/nisi/2007/611/article/18/2); [S.R. 2007/294](https://www.legislation.gov.uk/nisr/2007/294), [art. 2](https://www.legislation.gov.uk/nisr/2007/294/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/294/schedule)

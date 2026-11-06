@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Crown rights[^key-b3db35fc15ac3ad7624811a6be659f0f]
+## 36. Crown rights[^c-b3db35fc15ac3ad7624811a6be659f0f]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b3db35fc15ac3ad7624811a6be659f0f]: Commencement: Art. 36 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)
+[^c-b3db35fc15ac3ad7624811a6be659f0f]: Commencement: Art. 36 in force at 6.6.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/573/article/1)

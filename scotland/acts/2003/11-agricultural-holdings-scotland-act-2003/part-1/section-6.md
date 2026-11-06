@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 6. Assignation, subletting and termination of short limited duration tenancies[^key-b6e4ab568eec08a59745395f4951653f]
+## 6. Assignation, subletting and termination of short limited duration tenancies[^c-b6e4ab568eec08a59745395f4951653f]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b6e4ab568eec08a59745395f4951653f]: Commencement: S. 6 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))
+[^c-b6e4ab568eec08a59745395f4951653f]: Commencement: S. 6 in force at 27.11.2003 by [S.S.I. 2003/548](https://www.legislation.gov.uk/ssi/2003/548), [art. 2(a)](https://www.legislation.gov.uk/ssi/2003/548/article/2/a) (with [Sch.](https://www.legislation.gov.uk/ssi/2003/548/schedule))

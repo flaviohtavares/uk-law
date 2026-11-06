@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 15. Maintenance and inspection of equipment[^key-263aadd13fb1217b3b35884203dafb2d]
+## 15. Maintenance and inspection of equipment[^c-263aadd13fb1217b3b35884203dafb2d]
 
 *Extent: N.I.*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-263aadd13fb1217b3b35884203dafb2d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/427/regulation/15) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)
+[^c-263aadd13fb1217b3b35884203dafb2d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2016/427/regulation/15) in operation at 1.2.2017, see [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2)

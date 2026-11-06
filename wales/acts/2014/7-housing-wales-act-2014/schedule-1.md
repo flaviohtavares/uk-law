@@ -26,7 +26,7 @@ summary: ''
 
 #### Landlords
 
-**1.**[^key-a5d8cbacccf79220c528a952ba28f764] An entry in the register relating to a landlord must record the following—
+**1.**[^c-a5d8cbacccf79220c528a952ba28f764] An entry in the register relating to a landlord must record the following—
 
 - (a) the name of the landlord;
 - (b) if the landlord is a body corporate, the address of the landlord's registered or principal office;
@@ -50,7 +50,7 @@ summary: ''
 
 #### Agents
 
-**2.**[^key-92b78683c6d107952abe20518a83b6bf] An entry in the register for a person licensed to carry out lettings work and property management work on behalf of a landlord must record the following—
+**2.**[^c-92b78683c6d107952abe20518a83b6bf] An entry in the register for a person licensed to carry out lettings work and property management work on behalf of a landlord must record the following—
 
 - (a) the name of the person;
 - (b) the correspondence address of the person;
@@ -67,7 +67,7 @@ summary: ''
 
 ### PART 2 — ACCESS TO REGISTER
 
-**3.**[^key-e566bbb4d7ab83dac5942fee278c107f] (1) A licensing authority must notify a person of the information mentioned in sub-paragraph (2) if that person makes a request for the information and provides the authority with the address of a rental property which is on its register.
+**3.**[^c-e566bbb4d7ab83dac5942fee278c107f] (1) A licensing authority must notify a person of the information mentioned in sub-paragraph (2) if that person makes a request for the information and provides the authority with the address of a rental property which is on its register.
 
 (2) The information is—
 
@@ -75,7 +75,7 @@ summary: ''
 - (b) whether the landlord or person appointed to carry out lettings work and property management work on behalf of the landlord (as applicable) is licensed;
 - (c) if a rent stopping order under section 30 is in effect in relation to the property, that such an order is in effect.
 
-**4.**[^key-5b9d74108a14100ccd3f6ddadf1760a9] (1) A licensing authority must notify a person of the information mentioned in sub-paragraph (2) if that person makes a request for the information and provides the authority with—
+**4.**[^c-5b9d74108a14100ccd3f6ddadf1760a9] (1) A licensing authority must notify a person of the information mentioned in sub-paragraph (2) if that person makes a request for the information and provides the authority with—
 
 - (a) the name of a landlord of a rental property in an area for which the authority is the licensing authority, or
 - (b) the name of a person appointed to carry out lettings work and property management work on behalf of the landlord in relation to any such property.
@@ -85,7 +85,7 @@ summary: ''
 - (a) whether the landlord is registered;
 - (b) whether the landlord or person appointed to carry out lettings work and property management work on behalf of the landlord (as applicable) is licensed.
 
-**5.**[^key-38387aa94bfe839e9149c6d95f7c4f7b] (1) A licensing authority must notify a person of the information mentioned in sub-paragraph (2) if that person requests the information and provides the authority with—
+**5.**[^c-38387aa94bfe839e9149c6d95f7c4f7b] (1) A licensing authority must notify a person of the information mentioned in sub-paragraph (2) if that person requests the information and provides the authority with—
 
 - (a) the registration number or licence number of a landlord of a rental property in the area for which the authority is the licensing authority, or
 - (b) the licence number of a person appointed to carry out lettings work and property management work on behalf of a landlord in relation to any such property.
@@ -98,12 +98,12 @@ summary: ''
 
 ## Annotations
 
-[^key-a5d8cbacccf79220c528a952ba28f764]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2014/7/schedule/1/paragraph/1) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/d)
+[^c-a5d8cbacccf79220c528a952ba28f764]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/anaw/2014/7/schedule/1/paragraph/1) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/d)
 
-[^key-92b78683c6d107952abe20518a83b6bf]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2014/7/schedule/1/paragraph/2) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/d)
+[^c-92b78683c6d107952abe20518a83b6bf]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/anaw/2014/7/schedule/1/paragraph/2) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/d)
 
-[^key-e566bbb4d7ab83dac5942fee278c107f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/anaw/2014/7/schedule/1/paragraph/3) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/d)
+[^c-e566bbb4d7ab83dac5942fee278c107f]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/anaw/2014/7/schedule/1/paragraph/3) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/d)
 
-[^key-5b9d74108a14100ccd3f6ddadf1760a9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/anaw/2014/7/schedule/1/paragraph/4) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/d)
+[^c-5b9d74108a14100ccd3f6ddadf1760a9]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/anaw/2014/7/schedule/1/paragraph/4) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/d)
 
-[^key-38387aa94bfe839e9149c6d95f7c4f7b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/anaw/2014/7/schedule/1/paragraph/5) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/d)
+[^c-38387aa94bfe839e9149c6d95f7c4f7b]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/anaw/2014/7/schedule/1/paragraph/5) in force at 23.11.2015 by [S.I. 2015/1826](https://www.legislation.gov.uk/wsi/2015/1826), [art. 2(d)](https://www.legislation.gov.uk/wsi/2015/1826/article/2/d)

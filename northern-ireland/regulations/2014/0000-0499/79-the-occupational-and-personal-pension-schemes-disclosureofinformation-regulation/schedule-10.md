@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 10 — Consequential revocations[^key-19f74b6890cbcdc71545c9c477645d75]
+## SCHEDULE 10 — Consequential revocations[^c-19f74b6890cbcdc71545c9c477645d75]
 
 *Extent: N.I.*
 
@@ -62,4 +62,4 @@ Regulation 32
 
 ## Annotations
 
-[^key-19f74b6890cbcdc71545c9c477645d75]: Commencement: Sch. 10 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)
+[^c-19f74b6890cbcdc71545c9c477645d75]: Commencement: Sch. 10 in operation at 6.4.2014, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2014/79/regulation/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Percentage of “pupil-led” funding[^key-dd127c9d64a7f1352fe18b84e57e3d83]
+## 23. Percentage of “pupil-led” funding[^c-dd127c9d64a7f1352fe18b84e57e3d83]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd127c9d64a7f1352fe18b84e57e3d83]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2010/824/regulation/23) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)
+[^c-dd127c9d64a7f1352fe18b84e57e3d83]: Commencement: [Reg. 23](https://www.legislation.gov.uk/wsi/2010/824/regulation/23) in force at 1.9.2010 for the financial years beginning on or after 1.4.2011, see [reg. 1(1)(2)](https://www.legislation.gov.uk/wsi/2010/824/regulation/1/1)

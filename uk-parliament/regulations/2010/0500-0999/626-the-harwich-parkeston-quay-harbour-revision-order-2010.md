@@ -47,11 +47,11 @@ The Secretary of State (being the appropriate Minister under section 14(7)[^f000
 
 ## PART 1 — PRELIMINARY
 
-### 1. Citation and commencement[^key-8a10f9a5571b7f34787d7df7a9bb7ae8]
+### 1. Citation and commencement[^c-8a10f9a5571b7f34787d7df7a9bb7ae8]
 
 This Order may be cited as the Harwich Parkeston Quay Harbour Revision Order 2010 and comes into force on 17th March 2010.
 
-### 2. Interpretation[^key-bc38c53fce851208cd1840a49f10ce22]
+### 2. Interpretation[^c-bc38c53fce851208cd1840a49f10ce22]
 
 (1) In this Order—
 
@@ -79,7 +79,7 @@ This Order may be cited as the Harwich Parkeston Quay Harbour Revision Order 201
 
 ## PART 2 — WORKS PROVISIONS
 
-### 3. Power to make works[^key-6361f2cc8f599119ccbab1af69030b3d]
+### 3. Power to make works[^c-6361f2cc8f599119ccbab1af69030b3d]
 
 (1) Subject to the provisions of this Order, the Company may, in the lines or situations shown on the deposited plans and according to the levels shown on the deposited sections, make and maintain the following works, with all necessary works and conveniences connected with them, as to part in the parish of Harwich and Ramsey and as to the remainder in the parish of Parkeston, in the district of Tendring, in the county of Essex, and partly on the foreshore and bed of Bathside Bay—
 
@@ -97,11 +97,11 @@ This Order may be cited as the Harwich Parkeston Quay Harbour Revision Order 201
 
 (5) For the purposes of section 23 of the Land Drainage Act 1991[^f00007] (prohibition on obstructions etc in watercourses) as applying to the construction of the authorised works, any consent or approval by the Environment Agency given or deemed to be given under any provision of this Order with respect to the erection of any structure shall be deemed also to constitute a consent or approval under the said section 23 as respects the erection of that structure.
 
-### 4. Period for completion of works[^key-682ba3580c586baa8678598991b2b525]
+### 4. Period for completion of works[^c-682ba3580c586baa8678598991b2b525]
 
 If the works are not completed within ten years from the coming into force of this Order, or such extended time as the Secretary of State may on the application of the Company allow, then on the expiration of that period or such extended time (as the case may be) the powers granted by this Order to the Company for making and maintaining the works shall cease except as to so much of the works as are then substantially commenced.
 
-### 5. Subsidiary works[^key-595bc1f8aa2d6b796fe8c0a0ef0c7b76]
+### 5. Subsidiary works[^c-595bc1f8aa2d6b796fe8c0a0ef0c7b76]
 
 (1) The Company may from time to time within the limits of deviation provide and operate such dock facilities, together with works ancillary to these facilities, as may be necessary or convenient for the construction of the works or the operation of the harbour undertaking, and for this purpose the Company may provide, construct and maintain roads, railway lines, buildings, sheds, offices, workshops, depots, walls, foundations, fences, gates, tanks, pumps, conduits, pipes, drains, wires, mains, cables, electrical substations, signals, conveyors, cranes, container handling equipment, lifts, hoists, lighting columns, weighbridges, stairs, ladders, stages, platforms, catwalks, equipment, machinery and appliances and such other works and conveniences as may be necessary or expedient.
 
@@ -110,7 +110,7 @@ If the works are not completed within ten years from the coming into force of th
 - (a) works for the accommodation or convenience of vessels (including dolphins and pontoons); and
 - (b) works to alter the position of apparatus, including mains, sewers, drains, pipes, conduits, cables, electrical substations and electrical lines.
 
-### 6. Power to dredge[^key-c6dc1e27a9a47251c2b008d6579e33ae]
+### 6. Power to dredge[^c-c6dc1e27a9a47251c2b008d6579e33ae]
 
 (1) The Company may (subject to the consent required by section 34 (crown rights) of the 1983 Act as applied by paragraph 1 of Part 1 of Schedule 3) from time to time deepen, dredge, scour, cleanse, alter and improve the bed, channel and foreshore of the river in the vicinity of the authorised works and the approaches to the river, and blast any rock in the river, for the purpose of constructing and maintaining those works and obtaining, preserving and improving uninterrupted access to and from those works or any other part of the harbour undertaking.
 
@@ -119,15 +119,15 @@ If the works are not completed within ten years from the coming into force of th
 (3) No such materials shall be deposited below the level of high water except in accordance with—
 
 - (a) such conditions and restrictions as may be approved by the Secretary of State; and
-- (b)[^key-e11860cf478b225b4599f5e96c0d5af7] Part 4 of the Marine and Coastal Access Act 2009.
+- (b)[^c-e11860cf478b225b4599f5e96c0d5af7] Part 4 of the Marine and Coastal Access Act 2009.
 
-### 7. Power to deviate[^key-6b7c8e4fc2dd998c8b3b5aecbc3802f6]
+### 7. Power to deviate[^c-6b7c8e4fc2dd998c8b3b5aecbc3802f6]
 
 (1) In the construction of any part of the authorised works the Company may deviate from the lines or situations shown on the deposited plans to any extent not exceeding the limits of deviation, and may deviate vertically from the levels shown on the deposited sections to any extent not exceeding 3 metres upwards and to such extent downwards as may be found necessary or convenient.
 
 (2) Notwithstanding the limits of deviation shown on the deposited plans, when the authorised works have been constructed the northerly limit of deviation of Works Nos. 1, 2, 3, 4 and 5 shall be 3 metres north of, respectively, the line of the proposed quay face and the centre line of Work No. 3, both as shown on the deposited plans.
 
-### 8. Application of works provisions of 1983 Act[^key-03762782f4e6ee0c99a779cffa0007c4]
+### 8. Application of works provisions of 1983 Act[^c-03762782f4e6ee0c99a779cffa0007c4]
 
 (1) The following provisions of the 1983 Act relating to the construction of works shall, with the necessary modifications, apply additionally to the authorised works (including the demolition of the train ferry pier) as they apply to the works authorised by that Act as if the authorised works had been the quay and connected works authorised by those enactments—
 
@@ -154,7 +154,7 @@ If the works are not completed within ten years from the coming into force of th
 
   .
 
-### 9. Extent of Parkeston Quay and limits of jurisdiction[^key-e92d645275c27b047ff15ce4bbfd544e]
+### 9. Extent of Parkeston Quay and limits of jurisdiction[^c-e92d645275c27b047ff15ce4bbfd544e]
 
 (1) The authorised works shall form part of Parkeston Quay and the provisions of the Great Eastern Railway Act 1874[^f00010] and all other provisions of the Harwich Parkeston Quay enactments shall (so far as the same are applicable and are not inconsistent with the provisions of this Order) apply to the authorised works as if the authorised works had been the quay and connected works authorised by those enactments.
 
@@ -162,7 +162,7 @@ If the works are not completed within ten years from the coming into force of th
 
 (3) In its application to the harbour undertaking the expression “the prescribed limits” in the 1847 Act shall be the area referred to in paragraph (2).
 
-### 10. Planning, etc. jurisdiction[^key-42c6d21bd179f87ee96b707ff3b66b99]
+### 10. Planning, etc. jurisdiction[^c-42c6d21bd179f87ee96b707ff3b66b99]
 
 (1) During the period beginning with the date when this Order comes into force and ending on the accretion date, the area within the limits of deviation shall, for the purposes of the Control of Pollution Act 1974[^f00011] and the Town and Country Planning Act 1990[^f00012], be annexed to and incorporated with the district of Tendring.
 
@@ -172,7 +172,7 @@ If the works are not completed within ten years from the coming into force of th
 
 ## PART 3 — BOAT HARBOUR
 
-### 11. Restriction of boat harbour to pleasure craft and certain other vessels[^key-08ae3350dad1abef4069d3e834f4ef2c]
+### 11. Restriction of boat harbour to pleasure craft and certain other vessels[^c-08ae3350dad1abef4069d3e834f4ef2c]
 
 (1) Notwithstanding section 33 of the 1847 Act (harbour, dock and pier to be free to the public on payment of rates), as incorporated by any provision of the Harwich Parkeston Quay enactments, but subject to article 13, the waters of the boat harbour shall be for the exclusive use of vessels falling within paragraph (2) and accordingly the Company shall not permit any other vessel to use those waters.
 
@@ -193,7 +193,7 @@ If the works are not completed within ten years from the coming into force of th
 - (a) in the case of a vessel having a tonnage figure recorded in its certificate of registry, be taken to be that figure; and
 - (b) in the case of any other vessel, be calculated in accordance with the provisions of Part 3 of the Merchant Shipping (Tonnage) Regulations 1997[^f00013].
 
-### 12. Powers as to moorings, etc.[^key-9d2a7b7135bad122336d84cd10df4b5e]
+### 12. Powers as to moorings, etc.[^c-9d2a7b7135bad122336d84cd10df4b5e]
 
 (1) The Company may within the boat harbour provide, place, lay down, maintain, use and have moorings for vessels—
 
@@ -233,7 +233,7 @@ If the works are not completed within ten years from the coming into force of th
 
 (14) In this article “vessel” does not include a houseboat.
 
-### 13. Preferred vessels[^key-42dc03bff23c4929213b44510a916f30]
+### 13. Preferred vessels[^c-42dc03bff23c4929213b44510a916f30]
 
 (1) During the period of one year commencing with the date when Works Nos. 3, 4 and 5 have been substantially completed the Company shall provide moorings within the boat harbour for preferred vessels.
 
@@ -252,7 +252,7 @@ If the works are not completed within ten years from the coming into force of th
 
 (4) The Company may levy on a preferred vessel any of the charges leviable by or under any of the provisions of the Act.
 
-### 14. Power to appropriate part of boat harbour[^key-b05950b424db0d5eac10f3f1931e588f]
+### 14. Power to appropriate part of boat harbour[^c-b05950b424db0d5eac10f3f1931e588f]
 
 (1) Subject to articles 11 and article 13, the Company may from time to time set apart and appropriate any part of the boat harbour for the exclusive or preferential use and accommodation of any trade, person, vessel or goods or any class of trader, vessel or goods, subject to the payment of such charges and to such terms, conditions and regulations as the Company may think fit.
 
@@ -265,7 +265,7 @@ If the works are not completed within ten years from the coming into force of th
 
 ## PART 4 — MISCELLANEOUS AND GENERAL
 
-### 15. Power to lease etc.[^key-bf81b4acc13163e678edd8ca8e9b0243]
+### 15. Power to lease etc.[^c-bf81b4acc13163e678edd8ca8e9b0243]
 
 (1) The Company may at any time lease or grant for the purposes of the harbour undertaking the use or occupation of, or any right or interest in, over or relating to, any lands, works, buildings, equipment or other property forming part of the harbour undertaking for such period or periods and on such terms and conditions as may be agreed between the Company and the persons taking the same.
 
@@ -273,7 +273,7 @@ If the works are not completed within ten years from the coming into force of th
 
 (3) Section 23 of the 1847 Act (power to lease wharfs, warehouses, etc.), as incorporated by any provisions of the Harwich Parkeston Quay enactments, shall cease to have effect so far as that section would otherwise apply to the harbour undertaking.
 
-### 16. Defence to proceedings in respect of statutory nuisance[^key-f2eda03cee2b812183c041c6efa2d5b9]
+### 16. Defence to proceedings in respect of statutory nuisance[^c-f2eda03cee2b812183c041c6efa2d5b9]
 
 (1) Where proceedings are brought under section 82(1) of the Environmental Protection Act 1990[^f00014] (summary proceedings by persons aggrieved by statutory nuisance) in relation to a nuisance falling within paragraph (g) of section 79(1) of that Act (statutory nuisances and inspections) no order shall be made, and no fine may be imposed, under section 82(2) of that Act if the defendant shows that the nuisance relates to premises used by the Company for the purposes of or in connection with the exercise of the powers conferred by this Order with respect to the construction or maintenance of the work; and—
 
@@ -287,15 +287,15 @@ If the works are not completed within ten years from the coming into force of th
 
 - shall not apply where the consent relates to the use of premises by the Company for the purposes of, or in connection with, the exercise of the powers conferred by this Order with respect to the construction or maintenance of the work.
 
-### 17. Protection of interests[^key-9ebe722fbcbb38e8e37e252a907f83e2]
+### 17. Protection of interests[^c-9ebe722fbcbb38e8e37e252a907f83e2]
 
 Schedule 3 has effect.
 
-### 18. Arbitration[^key-022735152591c533aff5b4ed98ec6405]
+### 18. Arbitration[^c-022735152591c533aff5b4ed98ec6405]
 
 Where under any provision of this Order, including any provision applied by this Order, any difference is to be referred to or settled by arbitration, then such difference shall be referred to and settled by a single arbitrator to be agreed between the parties, or, failing agreement, to be appointed on the application of either party (after notice in writing to the other) by the President of the Institution of Civil Engineers.
 
-### 19. Disapplication of regulation 60 of the Conservation (Natural Habitats, &c.) Regulations 1994[^key-a13c0f63ebd28be20c780ec81f43ad0e]
+### 19. Disapplication of regulation 60 of the Conservation (Natural Habitats, &c.) Regulations 1994[^c-a13c0f63ebd28be20c780ec81f43ad0e]
 
 (1) Regulation 60 of the Conservation (Natural Habitats, &c.) Regulations 1994[^f00016] (“the Habitats Regulations”) shall not apply to any planning permission which relates to the authorised works and which is granted by article 3(1) of the Town and Country Planning (General Permitted Development) Order 1995[^f00017] for the class of development described as permitted development in Part 11 of Schedule 2 to that Order.
 
@@ -304,7 +304,7 @@ Where under any provision of this Order, including any provision applied by this
 - (a) do not form part of the plan and project which was subject to an appropriate assessment in accordance with regulation 48 of the Habitats Regulations in connection with the making of this Order; and
 - (b) are not subject to a further consent, permission or authorisation by a competent authority as defined in the Habitats Regulations.
 
-### 20. Crown rights[^key-79440f9d458d6d6dccd960a879556edf]
+### 20. Crown rights[^c-79440f9d458d6d6dccd960a879556edf]
 
 (1) Nothing in this Order affects prejudicially any estate, right, power, privilege, authority or exemption of the Crown and in particular and without prejudice to the generality of this nothing in this Order authorises the Company to take, use, enter on or in any manner interfere with any land or hereditaments (including any portion of the shore or bed of the sea or of any river, channel, creek, bay or estuary) or any rights of whatsoever description—
 
@@ -323,7 +323,7 @@ Department for Transport
 
 3rd March 2010
 
-## SCHEDULE 1 — THE HARWICH PARKESTON QUAY ENACTMENTS[^key-7f80f28f89c5662df8909fb03822f11a]
+## SCHEDULE 1 — THE HARWICH PARKESTON QUAY ENACTMENTS[^c-7f80f28f89c5662df8909fb03822f11a]
 
 Article 2(1)
 
@@ -339,11 +339,11 @@ Article 2(1)
 | [S.I. 1992/1136](https://www.legislation.gov.uk/uksi/1992/1136) | Harwich Parkeston Quay Harbour Revision Order 1992 | The whole Order |
 | [S.I. 1996/2037](https://www.legislation.gov.uk/uksi/1996/2037) | Harwich Parkeston Quay Harbour Revision Order 1996 | The whole Order |
 
-## SCHEDULE 2 — LIMITS OF JURISDICTION OF PARKESTON QUAY[^key-be89baf80df58fe75fd3096eb4a2737b]
+## SCHEDULE 2 — LIMITS OF JURISDICTION OF PARKESTON QUAY[^c-be89baf80df58fe75fd3096eb4a2737b]
 
 Article 9
 
-[^key-be89baf80df58fe75fd3096eb4a2737b]
+[^c-be89baf80df58fe75fd3096eb4a2737b]
 
 An area bounded by an imaginary line commencing at a point (1) at TM2415632915, then following a line 200 metres riverward from the line of the existing quay face in a westerly direction to a point (2) at TM2327532939, then following a line 200 metres riverward from the line of the existing quay face in a west-south-westerly direction to a point (3) at TM2293932895, then in a south-westerly direction to a point (4) at TM2276132760, then in a straight line in a westerly direction to a point (5) at TM2257532760, then in a south-westerly direction to a point (6) at TM2252532710, then in a straight line in a southerly direction to a point (7) at TM2252532647, then in a west-south-westerly direction to a point (8) at TM2200532541, then in a straight line in a southerly direction to a point (9) at TM2208231716, then in a straight line in an easterly direction to a point (10) at TM2218631733, then in a north-easterly direction to a point (11) at TM2268932401, then in a straight line in a south-easterly direction across the railway to a point (12) at TM2271632359, then in a south-easterly direction to a point (13) at TM2307932154, then in a straight line in an east-north-easterly direction to a point (14) at TM2310832163, then in an east-south-easterly direction to a point (15) at TM2322332138, then in a straight line in a south-south-easterly direction to a point (16) at TM2324632090, then in a straight line in an east-north-easterly direction to a point (17) at TM2356332180, then in a south-easterly direction to a point (18) at TM2362032113, then in a straight line in a north-easterly direction to a point (19) at TM2363332129, then in a north-westerly and northerly direction to a point (20) at TM2359232376, then in a straight line in an easterly direction to a point (21) at TM2362932367, then in a straight line in a southerly direction to a point (22) at TM2362132327, then in a straight line in a south-south-easterly direction to a point (23) at TM2363632274, then in a straight line in an east-north-easterly direction to a point (24) at TM2364632277, then in a straight line in a north-north-westerly direction to a point (25) at TM2364032297, then in a straight line in an easterly direction to a point (26) at TM2365032296, then in a straight line in a north-north-easterly direction to a point (27) at TM2366732369, then in an east-south-easterly direction to a point (28) at TM2382832341, then in an east-south-easterly direction to a point (29) at TM2392732287, then in a south-easterly direction to a point (30) at TM2397232216, then in a straight line in an east-north-easterly direction to a point (31) at TM2406332229, then in a south-easterly direction to a point (32) at TM2410832135, then in a straight line in a north-easterly direction to a point (33) at TM2417532197, then in a straight line in a south-easterly direction to a point (34) at TM2419132182, then in a straight line in a north-easterly direction across the railway line to a point on the northern boundary fence of that railway (35) at TM2429632273, then in a south-easterly and thereafter an easterly direction along the northern boundary fence of that railway to a point (36) at TM2562931817, then in a straight line in a north-easterly direction to a point (37) at TM2566431877, then in a straight line in a north-westerly direction across the A120 road to a point (38) at TM2562131918, then in a northerly direction following the western boundary of that road to a point (39) at TM2561631970, then in a straight line in a north-north-easterly direction to a point (40) at TM2562831992, then in a northerly direction following the western boundary along the eastern side of Gas House Creek to a point (41) at TM2584232448, then in a straight line in a north-westerly direction to a point (42) at TM2582832465, then in a north-easterly direction to a point (43) at TM2587932513, then in a straight line in a north-westerly direction to a point (44) at TM2584132553, then in a straight line in a north-easterly direction to a point (45) at TM2585832568, then in a north-westerly direction to a point (46) at TM2581332632, then in a south-easterly direction to a point (47) at TM2581932631, then in a north-easterly direction to a point (48) at TM2582332640, then in a north-westerly direction to a point (49) at TM2581132647, then in a north-north-westerly direction to a point (50) at TM2580732662 then in a north-easterly direction to a point (51) at TM2580832662 then in a north-north-westerly direction following the western face of the Trinity Pier to a point (52) at TM2577032849, then in a straight line in a west-south-westerly direction to a point (53) at TM2562732781, then in a straight line in a southerly direction to a point (54) at TM2562532749, then following a line 70 metres riverward from the line of the proposed quay face in a westerly direction to a point (55) at TM2436732781, then in a north-westerly direction and terminating at the point of commencement.
 
@@ -353,14 +353,14 @@ Article 17
 
 ### PART 1 — Application of protective provisions of 1983 Act
 
-**1.**[^key-dda2ad73ca30b72b365e5bbbf81bb38d] The following protective provisions of the 1983 Act shall apply for the purposes of this Order subject to the necessary modifications specified in paragraphs 2 and 3 below—
+**1.**[^c-dda2ad73ca30b72b365e5bbbf81bb38d] The following protective provisions of the 1983 Act shall apply for the purposes of this Order subject to the necessary modifications specified in paragraphs 2 and 3 below—
 
 - Section 28 - (for protection of British Telecommunications);
 - Section 32 - (for protection of electricity, gas and water undertakings);
 - Section 33 - (saving for Trinity House);
 - Section 34 - (crown rights).
 
-**2.**[^key-4aea4c5c6443e661d8ca890cce5dec20] (1) In section 28 of the 1983 Act, for the reference to section 6 of the 1983 Act, there shall be substituted reference to article 6 of this Order.
+**2.**[^c-4aea4c5c6443e661d8ca890cce5dec20] (1) In section 28 of the 1983 Act, for the reference to section 6 of the 1983 Act, there shall be substituted reference to article 6 of this Order.
 
 (2) In section 32 of the 1983 Act—
 
@@ -373,37 +373,37 @@ Article 17
 
     .
 
-**3.**[^key-95695d7131b9b17f159eef8fa5e86646] Section 33 of the 1983 Act shall have effect subject to Part 2 of this Schedule.
+**3.**[^c-95695d7131b9b17f159eef8fa5e86646] Section 33 of the 1983 Act shall have effect subject to Part 2 of this Schedule.
 
 ### PART 2 — For further protection of Trinity House
 
-**4.**[^key-83559e2aa3b14ba8311f665b42489fa0] (1) For the further protection of Trinity House the following provisions of this Part of this Schedule shall, unless otherwise agreed in writing between the Company and Trinity House, apply and have effect.
+**4.**[^c-83559e2aa3b14ba8311f665b42489fa0] (1) For the further protection of Trinity House the following provisions of this Part of this Schedule shall, unless otherwise agreed in writing between the Company and Trinity House, apply and have effect.
 
 (2) In this Part of this Schedule—
 
 - “the Trinity Pier” means the Trinity Pier of Trinity House as existing;
 - “the Trinity Pier protected area” means the area between the pier and an imaginary line drawn from the riverward end of the pier at a point at TM2577032849 to a point 30 metres in a north-easterly direction at a point at TM2580032854, then extending through an arc of 30 metres centred on the riverward end of the pier to a point at TM2576532879 and then continuing through that arc to a point 30 metres distant from the western face of the pier at a point at TM2574032844, then in a south-south-easterly direction to a point, maintaining 30 metres distant from the western face of the pier at TM2576532713, then in a south-easterly direction to a point at TM2580032661 and then passing by the shortest line to the western quay at the landward end of the pier to a point at TM2580832662 and for the purpose of identification only is shown hatched black on sheet 5 of the deposited plans and sections.
 
-**5.**[^key-bacafea34e79517c07293db27bc944d8] Notwithstanding anything in article 3, article 5 or article 7 or shown on the deposited plans and deposited sections, no part of the harbour wall (Work No. 3) or the floating wavescreen (Work No. 4) shall be situated within 46 metres of any point of the Trinity Pier.
+**5.**[^c-bacafea34e79517c07293db27bc944d8] Notwithstanding anything in article 3, article 5 or article 7 or shown on the deposited plans and deposited sections, no part of the harbour wall (Work No. 3) or the floating wavescreen (Work No. 4) shall be situated within 46 metres of any point of the Trinity Pier.
 
-**6.**[^key-9aef288f4b3f583aca1ab89abce21dda] Notwithstanding anything in article 12 no moorings shall be placed or laid down within 46 metres of the Trinity Pier.
+**6.**[^c-9aef288f4b3f583aca1ab89abce21dda] Notwithstanding anything in article 12 no moorings shall be placed or laid down within 46 metres of the Trinity Pier.
 
-**7.**[^key-3fccdcbdba7f7ed90bbebbb3115e56d0] The provisions of article 14 and article 15 shall not apply to the Trinity Pier protected area.
+**7.**[^c-3fccdcbdba7f7ed90bbebbb3115e56d0] The provisions of article 14 and article 15 shall not apply to the Trinity Pier protected area.
 
-**8.**[^key-a1df14b9ff5b7749300fa193908c3b2f] Except with the consent of Trinity House, which consent shall not be unreasonably withheld—
+**8.**[^c-a1df14b9ff5b7749300fa193908c3b2f] Except with the consent of Trinity House, which consent shall not be unreasonably withheld—
 
 - (a) no works shall be carried out within the Trinity Pier protected area under article 3 or article 5; and
 - (b) no dredging operations shall be carried out within the Trinity Pier protected area under this Order and no such operations shall be permitted which involve dredging to any depth lower than the inclined plane within that area which is 4.5 metres below Chart Datum at the side of the area nearest to the pier and 8 metres below Chart Datum at the side of the area furthest from the pier.
 
-**9.**[^key-7ffc9bc468fecea639d01680817e3258] No part of the Trinity Pier shall be acquired by the Company under this Order and the powers of sections 30 to 44 of the Railways Clauses Consolidation Act 1845[^f00019] (as incorporated by section 25 of the 1983 Act and extended by section 14 of the Harwich Parkeston Quay Act 1988[^f00020] and article 9) shall not be exercised in relation to the Trinity Pier.
+**9.**[^c-7ffc9bc468fecea639d01680817e3258] No part of the Trinity Pier shall be acquired by the Company under this Order and the powers of sections 30 to 44 of the Railways Clauses Consolidation Act 1845[^f00019] (as incorporated by section 25 of the 1983 Act and extended by section 14 of the Harwich Parkeston Quay Act 1988[^f00020] and article 9) shall not be exercised in relation to the Trinity Pier.
 
-**10.**[^key-4151a157e67a4cbd4dcdb1033d7ffb54] Any difference arising between the Company and Trinity House under this Part of this Schedule (other than a difference as to its meaning or construction) shall be determined by arbitration.
+**10.**[^c-4151a157e67a4cbd4dcdb1033d7ffb54] Any difference arising between the Company and Trinity House under this Part of this Schedule (other than a difference as to its meaning or construction) shall be determined by arbitration.
 
 ### PART 3 — For protection of Harwich Haven Authority
 
-**11.**[^key-2a7d3b06fa163f000930ac654afcd5e7] For the protection of the Authority, the following provisions of this Part of this Schedule shall, unless otherwise agreed in writing between the Company and the Authority, apply and have effect.
+**11.**[^c-2a7d3b06fa163f000930ac654afcd5e7] For the protection of the Authority, the following provisions of this Part of this Schedule shall, unless otherwise agreed in writing between the Company and the Authority, apply and have effect.
 
-**12.**[^key-dcdb4234636db6ef52797751cef3d815] In this Part of this Schedule—
+**12.**[^c-dcdb4234636db6ef52797751cef3d815] In this Part of this Schedule—
 
 - “the Authority” means Harwich Haven Authority;
 - “the Harbour” means Harwich Harbour as described in section 4(1)(a) of the Harwich Harbour Act 1974[^f00021] (which defines the area of Harwich Harbour);
@@ -411,13 +411,13 @@ Article 17
 - “plans” includes sections, drawings, descriptions, specifications, programmes and method statements;
 - “work” means any work authorised by article 3.
 
-**13.**[^key-42282a02c616abe211cf5ab61492e3c8] The Company shall provide the Authority’s harbour master with details of any operations (including programmes of construction), proposed in connection with the construction of any of the authorised works, which will or may create such conditions in the waters of the Haven that the passage of any vessel navigating outside the limits of deviation may be significantly impeded; and before any such operation commences the Company shall agree with the harbour master any special measures which are to be taken to avoid obstructing vessels navigating in the Haven.
+**13.**[^c-42282a02c616abe211cf5ab61492e3c8] The Company shall provide the Authority’s harbour master with details of any operations (including programmes of construction), proposed in connection with the construction of any of the authorised works, which will or may create such conditions in the waters of the Haven that the passage of any vessel navigating outside the limits of deviation may be significantly impeded; and before any such operation commences the Company shall agree with the harbour master any special measures which are to be taken to avoid obstructing vessels navigating in the Haven.
 
-**14.**[^key-4f1b77bde2016a90b6becb5ba6b6ea72] The Company shall appoint the Authority to be the Company’s agents for the purpose of carrying out all environmental monitoring reasonably required as a result of the construction and operation of the authorised works.
+**14.**[^c-4f1b77bde2016a90b6becb5ba6b6ea72] The Company shall appoint the Authority to be the Company’s agents for the purpose of carrying out all environmental monitoring reasonably required as a result of the construction and operation of the authorised works.
 
-**15.**[^key-c6c21e0192c433ed2aaac5f881585b5c] The Authority shall keep separate accounts of any expenditure which it incurs in connection with environmental monitoring undertaken by the Authority as the Company’s agents pursuant to paragraph 14.
+**15.**[^c-c6c21e0192c433ed2aaac5f881585b5c] The Authority shall keep separate accounts of any expenditure which it incurs in connection with environmental monitoring undertaken by the Authority as the Company’s agents pursuant to paragraph 14.
 
-**16.**[^key-33ee0ceed0898fdcc0a528d9a3edede1] (1) Not less than 56 days before commencing the construction of any tidal work the Company shall supply to the Authority plans of that work—
+**16.**[^c-33ee0ceed0898fdcc0a528d9a3edede1] (1) Not less than 56 days before commencing the construction of any tidal work the Company shall supply to the Authority plans of that work—
 
 Provided that in the case of any work to be carried out under article 5, being a work which is required in an emergency, the Company shall not be required to submit plans of that work before its commencement but shall—
 
@@ -443,9 +443,9 @@ notify the Company in writing of its approval of those plans (with or without co
 
 (8) The exercise by the Company of the powers of article 6 for the purpose of improving access to and from any work shall not, for the purpose of section 19 (restriction on works, dredging and moorings) of the Harwich Harbour Act 1974, be taken to be specifically authorised by any enactment.
 
-**17.**[^key-a425e59bc4af2712c890b3088cbc26c4] The Company shall carry out any tidal work with all reasonable dispatch and to the reasonable satisfaction of the Authority (and shall promptly remove all temporary works as soon as they are no longer required), so that traffic in the Haven does not suffer more interference than is reasonably necessary, and the Authority shall be entitled at all reasonable times, on giving such notice as may be reasonable in the circumstances, to inspect and survey any tidal work.
+**17.**[^c-a425e59bc4af2712c890b3088cbc26c4] The Company shall carry out any tidal work with all reasonable dispatch and to the reasonable satisfaction of the Authority (and shall promptly remove all temporary works as soon as they are no longer required), so that traffic in the Haven does not suffer more interference than is reasonably necessary, and the Authority shall be entitled at all reasonable times, on giving such notice as may be reasonable in the circumstances, to inspect and survey any tidal work.
 
-**18.**[^key-c34f69ba729d9a04838155c40c8f9d71] (1) If any tidal work is abandoned or falls into decay, the Authority may by notice in writing to the Company require it either to repair and restore the work or any part of it or (if the Company no longer requires the work) to remove the work and restore the site to its former condition to such extent as the Authority reasonably requires.
+**18.**[^c-c34f69ba729d9a04838155c40c8f9d71] (1) If any tidal work is abandoned or falls into decay, the Authority may by notice in writing to the Company require it either to repair and restore the work or any part of it or (if the Company no longer requires the work) to remove the work and restore the site to its former condition to such extent as the Authority reasonably requires.
 
 (2) If a work which consists of a tidal work and a non-tidal work is abandoned or falls into decay and the non-tidal work is in such condition as to interfere with navigational safety, a notice under this paragraph may include the non-tidal work, or any part of it.
 
@@ -453,7 +453,7 @@ notify the Company in writing of its approval of those plans (with or without co
 
 (4) If after such reasonable period as may be specified in a notice under this paragraph the steps specified in that notice have not been taken, the Authority may take those steps and the Company shall pay the amount of any expenditure reasonably incurred by the Authority in so doing.
 
-**19.**[^key-f32fa0fe999d8925e65d650061f550f5] (1) If any berth approach within the Harbour becomes subject to sedimentation, scouring, currents or wave action which is wholly or partly caused by the construction or carrying on of the tidal works (including any temporary works) and which occurs during the period beginning with the commencement of the construction or carrying on of the tidal works and ending with the expiration of five years after the date on which the last of those works is completed or the removal of such temporary works, as the case may be, the Company shall either—
+**19.**[^c-f32fa0fe999d8925e65d650061f550f5] (1) If any berth approach within the Harbour becomes subject to sedimentation, scouring, currents or wave action which is wholly or partly caused by the construction or carrying on of the tidal works (including any temporary works) and which occurs during the period beginning with the commencement of the construction or carrying on of the tidal works and ending with the expiration of five years after the date on which the last of those works is completed or the removal of such temporary works, as the case may be, the Company shall either—
 
 - (a) pay to the Authority any additional expense which the Authority may reasonably incur for the preservation of proper maintenance of the berth approach—
   - (i) in dredging the Harbour to remove the sedimentation;
@@ -463,17 +463,17 @@ notify the Company in writing of its approval of those plans (with or without co
 
 (2) Where dredging is undertaken under sub-paragraph (1) the Company shall pay for or carry out such dredging as may be necessitated by further sedimentation, scouring or wave action occurring within five years after completion of the dredging undertaken under sub-paragraph (1).
 
-**20.**[^key-daa3681d859429c434feecff4727bdeb] (1) The Company shall be responsible for and make good to the Authority all financial losses which may be reasonably incurred or suffered by the Authority by reason of the construction, maintenance or operation of any work or the failure of any work or by reason of any act or omission of the Company, its employees, contractors or agents or others whilst engaged in the construction or maintenance of any work or dealing with any failure of any such work.
+**20.**[^c-daa3681d859429c434feecff4727bdeb] (1) The Company shall be responsible for and make good to the Authority all financial losses which may be reasonably incurred or suffered by the Authority by reason of the construction, maintenance or operation of any work or the failure of any work or by reason of any act or omission of the Company, its employees, contractors or agents or others whilst engaged in the construction or maintenance of any work or dealing with any failure of any such work.
 
 (2) The Company shall indemnify the Authority from and against all claims and demands arising out of or in connection with any work or any such failure, act or omission, and the fact that any act or thing may have been done by the Authority on behalf of the Company or by the Company, its employees, contractors or agents with plans or particulars submitted to or modifications or conditions specified by the Authority, or in a manner approved by the Authority, or under its supervision or the supervision of its duly authorised representative shall not (if it was done or required without negligence on the part of the Authority or its duly authorised representative, employee, contractor or agent) excuse the Company from liability under the provisions of this sub-paragraph.
 
 (3) The Authority shall give the Company reasonable notice of any such loss, claim or demand as is referred to in sub-paragraphs (1) and (2), and no settlement or compromise of any such loss, claim or demand shall be made without the prior consent of the Company which shall not be unreasonably withheld.
 
-**21.**[^key-1c6a48c06827c36923591412709c4126] Any difference between the Company and the Authority arising out of any provisions of this Part of this Schedule shall be determined by arbitration.
+**21.**[^c-1c6a48c06827c36923591412709c4126] Any difference between the Company and the Authority arising out of any provisions of this Part of this Schedule shall be determined by arbitration.
 
 ### PART 4 — For further protection of authorities in Harwich Harbour
 
-**22.**[^key-71ed1354ad1e6e6b1a9e80573918c511] (1) For the further protection of the Felixstowe Dock and Railway Company, Harwich Dock Company Limited and Trinity House the following provisions of this Part of this Schedule shall, unless otherwise agreed in writing between the Company and the protected interests, apply and have effect.
+**22.**[^c-71ed1354ad1e6e6b1a9e80573918c511] (1) For the further protection of the Felixstowe Dock and Railway Company, Harwich Dock Company Limited and Trinity House the following provisions of this Part of this Schedule shall, unless otherwise agreed in writing between the Company and the protected interests, apply and have effect.
 
 (2) In this Part of this Schedule—
 
@@ -481,7 +481,7 @@ notify the Company in writing of its approval of those plans (with or without co
 - “the protected interests” means all or any one or more of the Felixstowe Dock and Railway Company, Harwich Dock Company Limited and Trinity House;
 - “the specified works” means any of the authorised works which are tidal works, and includes any operations carried out under the powers of article 6 in execution of the powers of paragraph (3) of article 3.
 
-**23.**[^key-91caa1a5aaf1b7011df47877c00d1e07] (1) This paragraph applies during the specified period if, in consequence of the construction of the specified works (including any dredging in connection with the construction, or to afford vessels access to those works), any accumulation of silt or other material, or any scouring or alteration of the tidal flow in the river is caused or created within the protected area.
+**23.**[^c-91caa1a5aaf1b7011df47877c00d1e07] (1) This paragraph applies during the specified period if, in consequence of the construction of the specified works (including any dredging in connection with the construction, or to afford vessels access to those works), any accumulation of silt or other material, or any scouring or alteration of the tidal flow in the river is caused or created within the protected area.
 
 (2) If the accumulation, scouring or alteration of tidal flow referred to in sub-paragraph (1) causes or creates a relevant concern, the protected interests may, within the specified period, request that the Company carry out such works or take such action to address that relevant concern.
 
@@ -505,17 +505,17 @@ within the protected area.
   - (b) an impediment to the free navigation of the protected area; or
   - (c) prejudices safe navigation or berthing in that area.
 
-**24.**[^key-3ab7898f71b3b30c79e4f00a13d46acc] If any such accumulation, scouring or alteration of the tidal flow arises within the period of five years and is removed or remedied in accordance with paragraph 23, then any recurrence of such accumulation, scouring or alteration of the tidal flow shall from time to time be removed or otherwise remedied in accordance with paragraph 23 during a period of 10 years after the completion of the specified works or the removal of such temporary structures, as the case may be.
+**24.**[^c-3ab7898f71b3b30c79e4f00a13d46acc] If any such accumulation, scouring or alteration of the tidal flow arises within the period of five years and is removed or remedied in accordance with paragraph 23, then any recurrence of such accumulation, scouring or alteration of the tidal flow shall from time to time be removed or otherwise remedied in accordance with paragraph 23 during a period of 10 years after the completion of the specified works or the removal of such temporary structures, as the case may be.
 
-**25.**[^key-13f7d78480ac4724a8ac945178244e6d] The Company shall repay or, as the case may be, keep the protected interests indemnified against all damages, losses, costs and expenses which they may directly or indirectly sustain, or be liable for, or reasonably and properly incur, by reason or in consequence of any injury or damage which may be caused or may result to any harbour works or property of the protected interests, or as a result of any interference in the operation thereof, by or in consequence of any such accumulation, scouring or alteration of the tidal flow—
+**25.**[^c-13f7d78480ac4724a8ac945178244e6d] The Company shall repay or, as the case may be, keep the protected interests indemnified against all damages, losses, costs and expenses which they may directly or indirectly sustain, or be liable for, or reasonably and properly incur, by reason or in consequence of any injury or damage which may be caused or may result to any harbour works or property of the protected interests, or as a result of any interference in the operation thereof, by or in consequence of any such accumulation, scouring or alteration of the tidal flow—
 
 Provided that the protected interests shall give to the Company notice of any claim or demand made against them which, in the opinion of the protected interests is a claim or demand for which the Company may be liable under this paragraph, and no settlement or compromise of any such claim or demand shall be made without the consent in writing of the Company.
 
-**26.**[^key-6d5b3bb537cecc0722d9ff0cfb58bcc7] Any difference arising between the Company and the protected interests under this Part of this Schedule (other than a difference as to its meaning or construction) shall be determined by arbitration.
+**26.**[^c-6d5b3bb537cecc0722d9ff0cfb58bcc7] Any difference arising between the Company and the protected interests under this Part of this Schedule (other than a difference as to its meaning or construction) shall be determined by arbitration.
 
 ### PART 5 — Protection of the Environment Agency
 
-**27.**[^key-6ddc288c41cef1771594e8c081415a2d] (1) The following provisions of this Part of this Schedule shall apply for the protection of the Agency unless otherwise agreed in writing between the Company and the Agency.
+**27.**[^c-6ddc288c41cef1771594e8c081415a2d] (1) The following provisions of this Part of this Schedule shall apply for the protection of the Agency unless otherwise agreed in writing between the Company and the Agency.
 
 (2) In this Part of this Schedule—
 
@@ -534,7 +534,7 @@ Provided that the protected interests shall give to the Company notice of any cl
 - “specified work” means any permanent or temporary work or operation authorised by this Order (including any dredging and any exploratory geotechnical investigations that may be undertaken);
 - “watercourse” includes all rivers, streams, ditches, drains, cuts, culverts, dykes, sluices, sewers and passages through which water flows (whether or not the flow is intermittent) except a public sewer.
 
-**28.**[^key-6399fd146508dd3135ceccb47bdf011f] (1) Before beginning to construct any specified work, the Company shall submit to the Agency for its approval plans of the work and such further particulars available to it as the Agency may within 28 days of the submission of the plans reasonably require.
+**28.**[^c-6399fd146508dd3135ceccb47bdf011f] (1) Before beginning to construct any specified work, the Company shall submit to the Agency for its approval plans of the work and such further particulars available to it as the Agency may within 28 days of the submission of the plans reasonably require.
 
 (2) Any approval of the Agency required under this paragraph—
 
@@ -544,14 +544,14 @@ Provided that the protected interests shall give to the Company notice of any cl
   - (ii) refused (the refusal being accompanied by a statement of the grounds for refusal in writing); and
 - (c) may be given subject to such reasonable conditions as the Agency may impose in the discharge of its environmental and recreational duties for the protection of any drainage work or the fishery or for the protection of water resources, or for the prevention of flooding or pollution or in the discharge of its environmental and recreational duties.
 
-**29.**[^key-920b98b3ab38722b6bbf0e93084e85fc] Without prejudice to the generality of paragraph 28 but subject to paragraph 39, the conditions which the Agency may impose under that paragraph include—
+**29.**[^c-920b98b3ab38722b6bbf0e93084e85fc] Without prejudice to the generality of paragraph 28 but subject to paragraph 39, the conditions which the Agency may impose under that paragraph include—
 
 - (a) conditions as to the time and the manner in which any work is to be carried out; and
 - (b) conditions requiring the Company at its own expense—
   - (i) to provide or maintain means of access for the Agency;
   - (ii) to construct such protective works, whether temporary or permanent, during the construction of the specified works (including the provision of flood banks, walls or embankments or other new works and the strengthening, repair or renewal of existing banks, walls or embankments) as are reasonably necessary to safeguard any drainage work against damage or to secure that its efficiency for flood defence purposes is not impaired and that the risk of flooding is not otherwise increased by reason of any specified work.
 
-**30.**[^key-47258739072b1531f2395c413de12621] (1) Subject to sub-paragraph (2)—
+**30.**[^c-47258739072b1531f2395c413de12621] (1) Subject to sub-paragraph (2)—
 
 - (a) any specified work, and all protective works required by the Agency under paragraph 28(2)(c), shall be constructed within such period (if any) as the Agency may approve at the time of approval or on an application by the Company thereafter (such approval not to be unreasonably withheld);
 - (b) any specified work shall be constructed in accordance with the plans approved or deemed to have been approved or settled under this Part of this Schedule and in accordance with any conditions imposed under paragraph 28; and
@@ -567,7 +567,7 @@ and the Agency shall be entitled by its officer to watch and inspect the constru
 
 (5) In the event of any dispute as to whether sub-paragraph (4) is properly applicable to any work in respect of which notice has been served under that sub-paragraph, or as to the reasonableness of any requirement of such a notice, the Agency shall not, except in emergency, exercise the powers conferred by sub-paragraph (4) until the dispute has been finally determined.
 
-**31.**[^key-2c563a0793d9bda0a23f869609b89f10] (1) Before commencing the construction of a specified work the Company shall procure at its expense in liaison with and to the reasonable satisfaction of the Agency a survey of any drainage work liable to be affected by that specified work.
+**31.**[^c-2c563a0793d9bda0a23f869609b89f10] (1) Before commencing the construction of a specified work the Company shall procure at its expense in liaison with and to the reasonable satisfaction of the Agency a survey of any drainage work liable to be affected by that specified work.
 
 (2) Subject to sub-paragraph (3), the Company shall, from the commencement of the construction of the specified works and except to the extent that any approval given by the Agency under this Part of this Schedule permits otherwise, maintain in good repair and condition and free from obstruction any drainage work which is situated within the limits of deviation and on land owned by the Company or of which it otherwise has control or is in occupation for the purposes of or in connection with the specified works, whether or not the drainage work is constructed under the powers of this Order or is already in existence.
 
@@ -579,7 +579,7 @@ and the Agency shall be entitled by its officer to watch and inspect the constru
 
 (6) In the event of any dispute as to the reasonableness of any requirement of a notice served under sub-paragraph (4), the Agency shall not, except in an emergency, exercise the powers conferred by sub-paragraph (5) until the dispute has been finally determined.
 
-**32.**[^key-afa0430507bc9deb6e6f33786ed676f2] (1) If, during the construction of a specified work or within 10 years after the completion of any such work and wholly or partly in consequence of its construction, there is caused or created an accumulation or erosion which causes damage, the Company shall, if so required by the Agency before or within the period of 10 years after such completion, remedy such accumulation or erosion, in the manner specified in sub-paragraph (4) and, if it refuses or fails so to do, the Agency may itself cause work to be done and may recover the reasonable cost of doing so from the Company.
+**32.**[^c-afa0430507bc9deb6e6f33786ed676f2] (1) If, during the construction of a specified work or within 10 years after the completion of any such work and wholly or partly in consequence of its construction, there is caused or created an accumulation or erosion which causes damage, the Company shall, if so required by the Agency before or within the period of 10 years after such completion, remedy such accumulation or erosion, in the manner specified in sub-paragraph (4) and, if it refuses or fails so to do, the Agency may itself cause work to be done and may recover the reasonable cost of doing so from the Company.
 
 (2) Should any accumulation or erosion in consequence of such construction arise within the period of 10 years and be remedied in accordance with sub-paragraph (1), any recurrence of such accumulation or erosion shall from time to time be so remedied by the Company during the period of 10 years and at any time thereafter, except that the Company’s obligation under this paragraph shall cease in the event that following the remedying of any accumulation or erosion a period of 10 years elapses without any further accumulation or erosion being caused or created in consequence of such construction.
 
@@ -594,9 +594,9 @@ any such protective works being subject to paragraph 39.
 
 (5) In the event that surveys, inspections, tests or sampling establish that such accumulation or erosion would have been caused in any event by factors other than the construction of a specified work the Company shall be liable to remedy such accumulation or erosion only to the extent that it is attributable to such construction.
 
-**33.**[^key-ca75d8bbd3480a9b4cf0b87575238192] If by reason of the construction of any specified work or of the failure of any such work the efficiency of any drainage work for flood defence purposes is impaired, or that drainage work is otherwise damaged, such impairment or damage shall be made good by the Company to the reasonable satisfaction of the Agency and if the Company fails to do so within such reasonable period as the Agency may require by notice in writing to the Company, the Agency may make good the same and recover from the Company the expense reasonably incurred by it in so doing.
+**33.**[^c-ca75d8bbd3480a9b4cf0b87575238192] If by reason of the construction of any specified work or of the failure of any such work the efficiency of any drainage work for flood defence purposes is impaired, or that drainage work is otherwise damaged, such impairment or damage shall be made good by the Company to the reasonable satisfaction of the Agency and if the Company fails to do so within such reasonable period as the Agency may require by notice in writing to the Company, the Agency may make good the same and recover from the Company the expense reasonably incurred by it in so doing.
 
-**34.**[^key-d76a2306139d093ebb2de0f81264cd7d] (1) The Company shall take all such measures as may be reasonably practicable to prevent any interruption of the free passage of fish in the fishery during the construction of any specified work.
+**34.**[^c-d76a2306139d093ebb2de0f81264cd7d] (1) The Company shall take all such measures as may be reasonably practicable to prevent any interruption of the free passage of fish in the fishery during the construction of any specified work.
 
 (2) If by reason of—
 
@@ -609,12 +609,12 @@ damage to the fishery is caused, or the Agency has reason to expect that such da
 
 (4) In any case where immediate action by the Agency is reasonably required in order to secure that the risk of damage to the fishery is avoided or reduced, the Agency may take such steps as are reasonable for the purpose, and may recover from the Company the reasonable cost of so doing provided that notice specifying those steps is served on the Company as soon as reasonably practicable after the Agency has taken, or commenced to take, the steps specified in the notice.
 
-**35.**[^key-2e4d3a76e54197b098423c090c8fefde] The Company shall indemnify the Agency in respect of all reasonable and proper costs, charges and expenses which the Agency may reasonably incur or have to pay or which it may sustain—
+**35.**[^c-2e4d3a76e54197b098423c090c8fefde] The Company shall indemnify the Agency in respect of all reasonable and proper costs, charges and expenses which the Agency may reasonably incur or have to pay or which it may sustain—
 
 - (a) in the examination or approval of plans under this Part of this Schedule;
 - (b) in the inspection of the construction of the specified works or any protective works required by the Agency under this Part of this Schedule.
 
-**36.**[^key-c81982846f1b458d68b5992751db385f] (1) Without prejudice to the other provisions of this Part of this Schedule, the Company shall indemnify the Agency against all claims, demands, proceedings, costs, damages or expenses or losses, which may be made or taken against, or recovered from or incurred by the Agency by reason of—
+**36.**[^c-c81982846f1b458d68b5992751db385f] (1) Without prejudice to the other provisions of this Part of this Schedule, the Company shall indemnify the Agency against all claims, demands, proceedings, costs, damages or expenses or losses, which may be made or taken against, or recovered from or incurred by the Agency by reason of—
 
 - (a) any damage to any drainage work so as to impair its efficiency for the purposes of flood defence;
 - (b) any damage to the fishery;
@@ -626,11 +626,11 @@ which is caused by the construction of any of the specified works or any act or 
 
 (2) The Agency shall give to the Company reasonable notice of any such claim, demand or proceedings and no settlement or compromise of any such claim, demand, proceedings, costs, damages, expenses or losses shall be made without the consent of the Company which shall not be unreasonably withheld.
 
-**37.**[^key-5c219fd78476c073f7b672aac7500e3c] The fact that any work or thing has been executed or done by the Company in accordance with a plan approved or deemed to be approved by the Agency, or to its satisfaction, or in accordance with any directions or award of an arbitrator, shall not relieve the Company from any liability under the provisions of this Part of this Schedule.
+**37.**[^c-5c219fd78476c073f7b672aac7500e3c] The fact that any work or thing has been executed or done by the Company in accordance with a plan approved or deemed to be approved by the Agency, or to its satisfaction, or in accordance with any directions or award of an arbitrator, shall not relieve the Company from any liability under the provisions of this Part of this Schedule.
 
-**38.**[^key-d7a5735f037cbbd9a54c498cbdd5beda] For the purposes of Chapter 2 of Part 2 of the Water Resources Act 1991 (abstraction and impounding of water) and section 109 of that Act (as to structures in, over or under watercourses) as applying to the construction of any specified work, any consent or approval given or deemed to be given by the Agency under this Part of this Schedule with respect to such construction shall be deemed also to constitute a licence under that Chapter to obstruct or impede the flow of inland waters at that point by means of impounding works or, as the case may be, a consent or approval under section 109.
+**38.**[^c-d7a5735f037cbbd9a54c498cbdd5beda] For the purposes of Chapter 2 of Part 2 of the Water Resources Act 1991 (abstraction and impounding of water) and section 109 of that Act (as to structures in, over or under watercourses) as applying to the construction of any specified work, any consent or approval given or deemed to be given by the Agency under this Part of this Schedule with respect to such construction shall be deemed also to constitute a licence under that Chapter to obstruct or impede the flow of inland waters at that point by means of impounding works or, as the case may be, a consent or approval under section 109.
 
-**39.**[^key-9f8556b3e896006511b72ef40cafe533] (1) This paragraph applies in relation to any protective work required by the Agency under this Part of this Schedule (“relevant protective work”).
+**39.**[^c-9f8556b3e896006511b72ef40cafe533] (1) This paragraph applies in relation to any protective work required by the Agency under this Part of this Schedule (“relevant protective work”).
 
 (2) Relevant protective works shall be taken to be works which fall within paragraph (ii) of the proviso to section 19 of the Harwich Harbour Act 1974[^f00023] (restrictions on works, dredgings and moorings) and, accordingly, to be exempt from the requirement to be licensed under section 20 of that Act (licensing of works).
 
@@ -650,11 +650,11 @@ which is caused by the construction of any of the specified works or any act or 
 
 (10) Subject to sub-paragraph (9), if there is any inconsistency between the plans of any relevant protective work which is a tidal work approved or deemed to have been approved under this paragraph or settled as provided in paragraph 41 and the plans approved by the Secretary of State under section 11 of the 1983 Act, the relevant protective work in question shall be constructed in accordance with the plans approved by the Secretary of State.
 
-**40.**[^key-837e5b8badc88b0b3a0f4340e8ae5fce] (1) In the event that there is any inconsistency between the obligations of the Company arising from this Part of this Schedule and the Deed, the obligations arising under the Deed shall prevail and, accordingly, the Company shall comply only with the obligations arising under the Deed.
+**40.**[^c-837e5b8badc88b0b3a0f4340e8ae5fce] (1) In the event that there is any inconsistency between the obligations of the Company arising from this Part of this Schedule and the Deed, the obligations arising under the Deed shall prevail and, accordingly, the Company shall comply only with the obligations arising under the Deed.
 
 (2) In this paragraph, “the Deed” means the Deed entered into on 15 October 2004 between the Company, the Harwich Haven Authority, the Agency and English Nature relating to Bathside Bay Container Terminal, Little Oakley Managed Realignment and the Conservation (Natural Habitats &c.) Regulations 1994[^f00024].
 
-**41.**[^key-d34590908001fbf8dde70ad1dc63dc85] Any dispute arising between the Company and the Agency under this Part of this Schedule shall, if the parties agree, be determined by arbitration, but shall otherwise be determined by the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State for Transport acting jointly.
+**41.**[^c-d34590908001fbf8dde70ad1dc63dc85] Any dispute arising between the Company and the Agency under this Part of this Schedule shall, if the parties agree, be determined by arbitration, but shall otherwise be determined by the Secretary of State for Environment, Food and Rural Affairs and the Secretary of State for Transport acting jointly.
 
 EXPLANATORY NOTE
 
@@ -674,9 +674,9 @@ The Order defines the area of the boat harbour and restricts the use of the boat
 
 [^f00003]: Footnote: [S.I. 1981/238](https://www.legislation.gov.uk/uksi/1981/238), [S.I. 1997/2971](https://www.legislation.gov.uk/uksi/1997/2971) and [S.I. 2001/2568](https://www.legislation.gov.uk/uksi/2001/2568).
 
-[^key-8a10f9a5571b7f34787d7df7a9bb7ae8]: Commencement: Art. 1 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-8a10f9a5571b7f34787d7df7a9bb7ae8]: Commencement: Art. 1 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-bc38c53fce851208cd1840a49f10ce22]: Commencement: Art. 2 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-bc38c53fce851208cd1840a49f10ce22]: Commencement: Art. 2 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00004]: Footnote: [1847 c. 27](https://www.legislation.gov.uk/ukpga/1847/27).
 
@@ -684,160 +684,160 @@ The Order defines the area of the boat harbour and restricts the use of the boat
 
 [^f00006]: Footnote: [1988 c. xxxiv](https://www.legislation.gov.uk/ukla/1988/34).
 
-[^key-6361f2cc8f599119ccbab1af69030b3d]: Commencement: Art. 3 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-6361f2cc8f599119ccbab1af69030b3d]: Commencement: Art. 3 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00007]: Footnote: [1991 c. 59](https://www.legislation.gov.uk/ukpga/1991/59).
 
-[^key-682ba3580c586baa8678598991b2b525]: Commencement: Art. 4 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-682ba3580c586baa8678598991b2b525]: Commencement: Art. 4 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-595bc1f8aa2d6b796fe8c0a0ef0c7b76]: Commencement: Art. 5 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-595bc1f8aa2d6b796fe8c0a0ef0c7b76]: Commencement: Art. 5 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-c6dc1e27a9a47251c2b008d6579e33ae]: Commencement: Art. 6 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-c6dc1e27a9a47251c2b008d6579e33ae]: Commencement: Art. 6 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-e11860cf478b225b4599f5e96c0d5af7]: Textual amendment: [Art. 6(3)(b)](https://www.legislation.gov.uk/uksi/2010/626/article/6/3/b) substituted (6.4.2011) by [The Marine and Coastal Access Act 2009 (Commencement No.5, Consequential and Transitional Provisions) Order 2011 (S.I. 2011/556)](https://www.legislation.gov.uk/uksi/2011/556), [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/556/article/1/3), [Sch. para. 11(2)](https://www.legislation.gov.uk/uksi/2011/556/schedule/paragraph/11/2)
+[^c-e11860cf478b225b4599f5e96c0d5af7]: Textual amendment: [Art. 6(3)(b)](https://www.legislation.gov.uk/uksi/2010/626/article/6/3/b) substituted (6.4.2011) by [The Marine and Coastal Access Act 2009 (Commencement No.5, Consequential and Transitional Provisions) Order 2011 (S.I. 2011/556)](https://www.legislation.gov.uk/uksi/2011/556), [art. 1(3)](https://www.legislation.gov.uk/uksi/2011/556/article/1/3), [Sch. para. 11(2)](https://www.legislation.gov.uk/uksi/2011/556/schedule/paragraph/11/2)
 
-[^key-6b7c8e4fc2dd998c8b3b5aecbc3802f6]: Commencement: Art. 7 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-6b7c8e4fc2dd998c8b3b5aecbc3802f6]: Commencement: Art. 7 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-03762782f4e6ee0c99a779cffa0007c4]: Commencement: Art. 8 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-03762782f4e6ee0c99a779cffa0007c4]: Commencement: Art. 8 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00009]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-e92d645275c27b047ff15ce4bbfd544e]: Commencement: Art. 9 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-e92d645275c27b047ff15ce4bbfd544e]: Commencement: Art. 9 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00010]: Footnote: [1874 c. cxxviii](https://www.legislation.gov.uk/ukla/1874/128).
 
-[^key-42c6d21bd179f87ee96b707ff3b66b99]: Commencement: Art. 10 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-42c6d21bd179f87ee96b707ff3b66b99]: Commencement: Art. 10 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00011]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
 [^f00012]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-08ae3350dad1abef4069d3e834f4ef2c]: Commencement: Art. 11 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-08ae3350dad1abef4069d3e834f4ef2c]: Commencement: Art. 11 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00013]: Footnote: [S.I. 1997/1510](https://www.legislation.gov.uk/uksi/1997/1510), amended by [S.I. 1998/1915](https://www.legislation.gov.uk/uksi/1998/1915).
 
-[^key-9d2a7b7135bad122336d84cd10df4b5e]: Commencement: Art. 12 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-9d2a7b7135bad122336d84cd10df4b5e]: Commencement: Art. 12 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-42dc03bff23c4929213b44510a916f30]: Commencement: Art. 13 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-42dc03bff23c4929213b44510a916f30]: Commencement: Art. 13 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-b05950b424db0d5eac10f3f1931e588f]: Commencement: Art. 14 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-b05950b424db0d5eac10f3f1931e588f]: Commencement: Art. 14 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-bf81b4acc13163e678edd8ca8e9b0243]: Commencement: Art. 15 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-bf81b4acc13163e678edd8ca8e9b0243]: Commencement: Art. 15 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-f2eda03cee2b812183c041c6efa2d5b9]: Commencement: Art. 16 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-f2eda03cee2b812183c041c6efa2d5b9]: Commencement: Art. 16 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00014]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
 [^f00015]: Footnote: [1974 c. 40](https://www.legislation.gov.uk/ukpga/1974/40).
 
-[^key-9ebe722fbcbb38e8e37e252a907f83e2]: Commencement: Art. 17 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-9ebe722fbcbb38e8e37e252a907f83e2]: Commencement: Art. 17 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-022735152591c533aff5b4ed98ec6405]: Commencement: Art. 18 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-022735152591c533aff5b4ed98ec6405]: Commencement: Art. 18 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-a13c0f63ebd28be20c780ec81f43ad0e]: Commencement: Art. 19 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-a13c0f63ebd28be20c780ec81f43ad0e]: Commencement: Art. 19 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00016]: Footnote: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716).
 
 [^f00017]: Footnote: [S.I. 1995/418](https://www.legislation.gov.uk/uksi/1995/418).
 
-[^key-79440f9d458d6d6dccd960a879556edf]: Commencement: Art. 20 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-79440f9d458d6d6dccd960a879556edf]: Commencement: Art. 20 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-7f80f28f89c5662df8909fb03822f11a]: Commencement: Sch. 1 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-7f80f28f89c5662df8909fb03822f11a]: Commencement: Sch. 1 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-be89baf80df58fe75fd3096eb4a2737b]: Commencement: Sch. 2 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-be89baf80df58fe75fd3096eb4a2737b]: Commencement: Sch. 2 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-dda2ad73ca30b72b365e5bbbf81bb38d]: Commencement: Sch. 3 para. 1 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-dda2ad73ca30b72b365e5bbbf81bb38d]: Commencement: Sch. 3 para. 1 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-4aea4c5c6443e661d8ca890cce5dec20]: Commencement: Sch. 3 para. 2 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-4aea4c5c6443e661d8ca890cce5dec20]: Commencement: Sch. 3 para. 2 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00018]: Footnote: [1986 c. 44](https://www.legislation.gov.uk/ukpga/1986/44).
 
-[^key-95695d7131b9b17f159eef8fa5e86646]: Commencement: Sch. 3 para. 3 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-95695d7131b9b17f159eef8fa5e86646]: Commencement: Sch. 3 para. 3 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-83559e2aa3b14ba8311f665b42489fa0]: Commencement: Sch. 3 para. 4 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-83559e2aa3b14ba8311f665b42489fa0]: Commencement: Sch. 3 para. 4 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-bacafea34e79517c07293db27bc944d8]: Commencement: Sch. 3 para. 5 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-bacafea34e79517c07293db27bc944d8]: Commencement: Sch. 3 para. 5 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-9aef288f4b3f583aca1ab89abce21dda]: Commencement: Sch. 3 para. 6 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-9aef288f4b3f583aca1ab89abce21dda]: Commencement: Sch. 3 para. 6 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-3fccdcbdba7f7ed90bbebbb3115e56d0]: Commencement: Sch. 3 para. 7 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-3fccdcbdba7f7ed90bbebbb3115e56d0]: Commencement: Sch. 3 para. 7 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-a1df14b9ff5b7749300fa193908c3b2f]: Commencement: Sch. 3 para. 8 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-a1df14b9ff5b7749300fa193908c3b2f]: Commencement: Sch. 3 para. 8 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-7ffc9bc468fecea639d01680817e3258]: Commencement: Sch. 3 para. 9 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-7ffc9bc468fecea639d01680817e3258]: Commencement: Sch. 3 para. 9 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00019]: Footnote: [1845 c. 20](https://www.legislation.gov.uk/ukpga/1845/20).
 
 [^f00020]: Footnote: [1988 c. xxviii](https://www.legislation.gov.uk/ukla/1988/28).
 
-[^key-4151a157e67a4cbd4dcdb1033d7ffb54]: Commencement: Sch. 3 para. 10 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-4151a157e67a4cbd4dcdb1033d7ffb54]: Commencement: Sch. 3 para. 10 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-2a7d3b06fa163f000930ac654afcd5e7]: Commencement: Sch. 3 para. 11 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-2a7d3b06fa163f000930ac654afcd5e7]: Commencement: Sch. 3 para. 11 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-dcdb4234636db6ef52797751cef3d815]: Commencement: Sch. 3 para. 12 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-dcdb4234636db6ef52797751cef3d815]: Commencement: Sch. 3 para. 12 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00021]: Footnote: [1974 c.i](https://www.legislation.gov.uk/ukla/1974/1).
 
-[^key-42282a02c616abe211cf5ab61492e3c8]: Commencement: Sch. 3 para. 13 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-42282a02c616abe211cf5ab61492e3c8]: Commencement: Sch. 3 para. 13 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-4f1b77bde2016a90b6becb5ba6b6ea72]: Commencement: Sch. 3 para. 14 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-4f1b77bde2016a90b6becb5ba6b6ea72]: Commencement: Sch. 3 para. 14 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-c6c21e0192c433ed2aaac5f881585b5c]: Commencement: Sch. 3 para. 15 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-c6c21e0192c433ed2aaac5f881585b5c]: Commencement: Sch. 3 para. 15 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-33ee0ceed0898fdcc0a528d9a3edede1]: Commencement: Sch. 3 para. 16 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-33ee0ceed0898fdcc0a528d9a3edede1]: Commencement: Sch. 3 para. 16 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-a425e59bc4af2712c890b3088cbc26c4]: Commencement: Sch. 3 para. 17 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-a425e59bc4af2712c890b3088cbc26c4]: Commencement: Sch. 3 para. 17 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-c34f69ba729d9a04838155c40c8f9d71]: Commencement: Sch. 3 para. 18 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-c34f69ba729d9a04838155c40c8f9d71]: Commencement: Sch. 3 para. 18 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-f32fa0fe999d8925e65d650061f550f5]: Commencement: Sch. 3 para. 19 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-f32fa0fe999d8925e65d650061f550f5]: Commencement: Sch. 3 para. 19 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-daa3681d859429c434feecff4727bdeb]: Commencement: Sch. 3 para. 20 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-daa3681d859429c434feecff4727bdeb]: Commencement: Sch. 3 para. 20 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-1c6a48c06827c36923591412709c4126]: Commencement: Sch. 3 para. 21 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-1c6a48c06827c36923591412709c4126]: Commencement: Sch. 3 para. 21 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-71ed1354ad1e6e6b1a9e80573918c511]: Commencement: Sch. 3 para. 22 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-71ed1354ad1e6e6b1a9e80573918c511]: Commencement: Sch. 3 para. 22 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-91caa1a5aaf1b7011df47877c00d1e07]: Commencement: Sch. 3 para. 23 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-91caa1a5aaf1b7011df47877c00d1e07]: Commencement: Sch. 3 para. 23 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-3ab7898f71b3b30c79e4f00a13d46acc]: Commencement: Sch. 3 para. 24 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-3ab7898f71b3b30c79e4f00a13d46acc]: Commencement: Sch. 3 para. 24 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-13f7d78480ac4724a8ac945178244e6d]: Commencement: Sch. 3 para. 25 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-13f7d78480ac4724a8ac945178244e6d]: Commencement: Sch. 3 para. 25 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-6d5b3bb537cecc0722d9ff0cfb58bcc7]: Commencement: Sch. 3 para. 26 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-6d5b3bb537cecc0722d9ff0cfb58bcc7]: Commencement: Sch. 3 para. 26 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-6ddc288c41cef1771594e8c081415a2d]: Commencement: Sch. 3 para. 27 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-6ddc288c41cef1771594e8c081415a2d]: Commencement: Sch. 3 para. 27 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-6399fd146508dd3135ceccb47bdf011f]: Commencement: Sch. 3 para. 28 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-6399fd146508dd3135ceccb47bdf011f]: Commencement: Sch. 3 para. 28 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-920b98b3ab38722b6bbf0e93084e85fc]: Commencement: Sch. 3 para. 29 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-920b98b3ab38722b6bbf0e93084e85fc]: Commencement: Sch. 3 para. 29 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-47258739072b1531f2395c413de12621]: Commencement: Sch. 3 para. 30 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-47258739072b1531f2395c413de12621]: Commencement: Sch. 3 para. 30 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-2c563a0793d9bda0a23f869609b89f10]: Commencement: Sch. 3 para. 31 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-2c563a0793d9bda0a23f869609b89f10]: Commencement: Sch. 3 para. 31 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-afa0430507bc9deb6e6f33786ed676f2]: Commencement: Sch. 3 para. 32 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-afa0430507bc9deb6e6f33786ed676f2]: Commencement: Sch. 3 para. 32 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00022]: Footnote: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57).
 
-[^key-ca75d8bbd3480a9b4cf0b87575238192]: Commencement: Sch. 3 para. 33 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-ca75d8bbd3480a9b4cf0b87575238192]: Commencement: Sch. 3 para. 33 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-d76a2306139d093ebb2de0f81264cd7d]: Commencement: Sch. 3 para. 34 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-d76a2306139d093ebb2de0f81264cd7d]: Commencement: Sch. 3 para. 34 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-2e4d3a76e54197b098423c090c8fefde]: Commencement: Sch. 3 para. 35 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-2e4d3a76e54197b098423c090c8fefde]: Commencement: Sch. 3 para. 35 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-c81982846f1b458d68b5992751db385f]: Commencement: Sch. 3 para. 36 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-c81982846f1b458d68b5992751db385f]: Commencement: Sch. 3 para. 36 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-5c219fd78476c073f7b672aac7500e3c]: Commencement: Sch. 3 para. 37 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-5c219fd78476c073f7b672aac7500e3c]: Commencement: Sch. 3 para. 37 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-d7a5735f037cbbd9a54c498cbdd5beda]: Commencement: Sch. 3 para. 38 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-d7a5735f037cbbd9a54c498cbdd5beda]: Commencement: Sch. 3 para. 38 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
-[^key-9f8556b3e896006511b72ef40cafe533]: Commencement: Sch. 3 para. 39 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-9f8556b3e896006511b72ef40cafe533]: Commencement: Sch. 3 para. 39 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00023]: Footnote: [1974 c.i](https://www.legislation.gov.uk/ukla/1974/1).
 
-[^key-837e5b8badc88b0b3a0f4340e8ae5fce]: Commencement: Sch. 3 para. 40 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-837e5b8badc88b0b3a0f4340e8ae5fce]: Commencement: Sch. 3 para. 40 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
 
 [^f00024]: Footnote: [S.I. 1994/2716](https://www.legislation.gov.uk/uksi/1994/2716).
 
-[^key-d34590908001fbf8dde70ad1dc63dc85]: Commencement: Sch. 3 para. 41 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)
+[^c-d34590908001fbf8dde70ad1dc63dc85]: Commencement: Sch. 3 para. 41 in force at 17.3.2010, see [art. 1](https://www.legislation.gov.uk/uksi/2010/626/article/1)

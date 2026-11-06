@@ -46,7 +46,7 @@ Coming into force
 
 [^c22465811][^c22465821]The Secretary of State has been designated in respect of the environment for the purposes of section 2(2) of the European Communities Act 1972 (“**the 1972 Act**”) and makes these Regulations in exercise of the powers conferred by that section, as read with paragraph 1A of Schedule 2 to the 1972 Act, and section 14A(2)(a) of the Interpretation Act 1978 .
 
-These Regulations make provision for a purpose mentioned in section 2(2) of, and paragraph 1A of Schedule 2 to, the 1972 Act and it appears to the Secretary of State that it is expedient for references to EU instruments in these Regulations (other than references to Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council on environmental liability with regard to the prevention and remedying of environmental damage [^c22465831]) to be construed as references to those instruments as amended from time to time.[^key-97465949c93de04bfb16229d8ced8d6b]
+These Regulations make provision for a purpose mentioned in section 2(2) of, and paragraph 1A of Schedule 2 to, the 1972 Act and it appears to the Secretary of State that it is expedient for references to EU instruments in these Regulations (other than references to Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council on environmental liability with regard to the prevention and remedying of environmental damage [^c22465831]) to be construed as references to those instruments as amended from time to time.[^c-97465949c93de04bfb16229d8ced8d6b]
 
 ## PART 1 — Introductory Provisions
 
@@ -65,7 +65,7 @@ These Regulations make provision for a purpose mentioned in section 2(2) of, and
 - “**Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060)**” means Directive [2000/60/EC](https://www.legislation.gov.uk/european/directive/2000/0060) of the European Parliament and of the Council establishing a framework for Community action in the field of water policy [^c22465851];
 - “**Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035)**” means Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) of the European Parliament and of the Council on environmental liability with regard to the prevention and remedying of environmental damage;
 - “**enforcing authority**” means the person or body responsible for enforcing these Regulations, in accordance with regulation 10 or 11;
-- “**local authority**” means (except in relation to a local authority in Wales)[^key-528414e056ec37d00fc0c786e3164054]—
+- “**local authority**” means (except in relation to a local authority in Wales)[^c-528414e056ec37d00fc0c786e3164054]—
   - (a) where there is a unitary authority for a local government area, that authority;
   - (b) where there is not a unitary authority—
     - (i) in a metropolitan district, the council of that district;
@@ -91,11 +91,11 @@ These Regulations make provision for a purpose mentioned in section 2(2) of, and
 - “**the Scottish zone**” has the meaning it has in the Scotland Act 1998 [^c22465901];
 - “**services**” means the functions performed by natural resources which benefit other natural resources or the public;
 - “**site of special scientific interest**” has the same meaning as in the Wildlife and Countryside Act 1981 [^c22465911].
-- “the Welsh zone” has the same meaning as in section 158(1) of the Government of Wales Act 2006.[^key-334cac73b09dbfecd9c2ac69d79e1065]
+- “the Welsh zone” has the same meaning as in section 158(1) of the Government of Wales Act 2006.[^c-334cac73b09dbfecd9c2ac69d79e1065]
 
 (2) Unless otherwise defined in these Regulations, expressions used in Directive [2004/35/EC](https://www.legislation.gov.uk/european/directive/2004/0035) have the same meaning in these Regulations.
 
-### 3. References to EU instruments[^key-a9415b98ddfeb7b5dbf2e0014cfd5d9a]
+### 3. References to EU instruments[^c-a9415b98ddfeb7b5dbf2e0014cfd5d9a]
 
 (1) For the purposes of these Regulations, a reference in any EU instrument referred to in these Regulations—
 
@@ -161,7 +161,7 @@ changes sufficiently to lower the status of the water body in accordance with Di
 </tbody>
 </table>
 
-[^key-ae4b5c37c5324cbaeb103fe67ae06c90][^c22465931][^c22465941][^key-a85da924ed5e8a175eed7ddf86a90acd]
+[^c-ae4b5c37c5324cbaeb103fe67ae06c90][^c22465931][^c22465941][^c-a85da924ed5e8a175eed7ddf86a90acd]
 
 (2) In the table in paragraph (1)—
 
@@ -215,7 +215,7 @@ changes sufficiently to lower the status of the water body in accordance with Di
 - (c) the reasons for these modifications or alterations are of overriding public interest, or the result of the damage is outweighed by the benefits of the new modifications or alterations to human health, to the maintenance of human safety or to sustainable development; and
 - (d) the beneficial objectives served by those modifications or alterations cannot, for reasons of technical feasibility or disproportionate cost, be achieved by other means.
 
-### 9A. Nutrient significant sewage disposal works: environmental damage[^key-08915a3f146b7262ddfe9b8933068b64]
+### 9A. Nutrient significant sewage disposal works: environmental damage[^c-08915a3f146b7262ddfe9b8933068b64]
 
 (1) This regulation applies where a sewerage undertaker whose sewerage system includes a nutrient significant plant fails to secure that the plant is able to meet the related nutrient pollution standard by the upgrade date.
 
@@ -283,27 +283,27 @@ the definition of “excess nutrient pollution” in paragraph (3) is subject to
 
 and references to a nutrient significant plant meeting the related nutrient pollution standard are to be read in accordance with section 96F(1) or (2) of that Act.
 
-### 10. Enforcing authorities under the Environmental Permitting (England and Wales) Regulations 2016[^key-1e36d2d898916a3450035137d0fc4f2c]
+### 10. Enforcing authorities under the Environmental Permitting (England and Wales) Regulations 2016[^c-1e36d2d898916a3450035137d0fc4f2c]
 
-(1) These Regulations are to be enforced in accordance with this regulation if the damage is caused by an activity that requires a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016[^key-5a489c9d33d19e81b743888e3b4b7a44].
+(1) These Regulations are to be enforced in accordance with this regulation if the damage is caused by an activity that requires a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016[^c-5a489c9d33d19e81b743888e3b4b7a44].
 
-(2)[^key-7e57989789e3cbba713eea06acc76950] If the Environment Agency or the Natural Resources Body for Wales is responsible for granting the permit, these Regulations are to be enforced—
+(2)[^c-7e57989789e3cbba713eea06acc76950] If the Environment Agency or the Natural Resources Body for Wales is responsible for granting the permit, these Regulations are to be enforced—
 
 - (a) if the damage is to marine waters in the Welsh zone, or to a natural habitat or protected species or a site of special scientific interest in those waters, by the Welsh Ministers;
 - (b) in any other case, by the Environment Agency.
 
 (3) If the local authority is responsible for granting the permit—
 
-- (a) Part 2 is to be enforced by a[^key-2b3ae5d33b5d89b19c587907de24ee9e] local authority;
+- (a) Part 2 is to be enforced by a[^c-2b3ae5d33b5d89b19c587907de24ee9e] local authority;
 - (b) Part 3 is to be enforced by—
   - (i) the local authority, if the damage is to land;
   - (ii) the Environment Agency, if the damage is to surface water or groundwater;
   - (iii) the Marine Management Organisation, if the damage is to marine waters, or to a natural habitat or protected species or a site of special scientific interest within those waters, out to 12 nautical miles from the baselines in England;
-  - (iv)[^key-3325236e2d121f556213c90caa88521f] the Secretary of State, if the damage is to marine waters lying beyond 12 nautical miles from the baselines in England, other than any lying in the Welsh zone, or to a natural habitat or protected species or a site of special scientific interest in those waters;
+  - (iv)[^c-3325236e2d121f556213c90caa88521f] the Secretary of State, if the damage is to marine waters lying beyond 12 nautical miles from the baselines in England, other than any lying in the Welsh zone, or to a natural habitat or protected species or a site of special scientific interest in those waters;
   - (v) Natural England, if the damage is to a natural habitat or a protected species or a site of special scientific interest on land or in surface water or groundwater.
-- (vi)[^key-438e7c6613a98c357e336e57a5b71e51] the Welsh Ministers, if the damage is to marine waters in the Welsh zone, or to a natural habitat or protected species or a site of special scientific interest, in those waters.
+- (vi)[^c-438e7c6613a98c357e336e57a5b71e51] the Welsh Ministers, if the damage is to marine waters in the Welsh zone, or to a natural habitat or protected species or a site of special scientific interest, in those waters.
 
-(4)[^key-06aa0315429213cd9502b1027363e614] If a local authority in Wales is responsible for granting the permit, these Regulations are to be enforced—
+(4)[^c-06aa0315429213cd9502b1027363e614] If a local authority in Wales is responsible for granting the permit, these Regulations are to be enforced—
 
 - (a) if the damage is to marine waters in the Welsh zone, or to a natural habitat or protected species or a site of special scientific interest in those waters, by the Welsh Ministers;
 - (b) in any other case, by the Environment Agency.
@@ -312,9 +312,9 @@ and references to a nutrient significant plant meeting the related nutrient poll
 
 ### 11. Enforcing authorities in other cases
 
-(1)[^key-753ef06d2bfcdd0b773a3482b7e13db2] If the damage caused is caused by an activity that does not require a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016, these Regulations are to be enforced in accordance with the provisions set out in the table in Schedule 2A.
+(1)[^c-753ef06d2bfcdd0b773a3482b7e13db2] If the damage caused is caused by an activity that does not require a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016, these Regulations are to be enforced in accordance with the provisions set out in the table in Schedule 2A.
 
-(2) For the purposes of Schedule 2A[^key-cf333f570e2db8fb4e520ccc7ee66e67] —
+(2) For the purposes of Schedule 2A[^c-cf333f570e2db8fb4e520ccc7ee66e67] —
 
 - “**installation abandonment measures**” means any measures taken in connection with the abandonment of—
   - (a) an offshore installation within the meaning of Part 4 of the Petroleum Act 1998 [^c22466041], or submarine pipeline within the meaning of that Part, or
@@ -332,7 +332,7 @@ and references to a nutrient significant plant meeting the related nutrient poll
   - (c) establishing or maintaining an offshore installation (within the meaning of Part 4 [^c22466081] of the Petroleum Act 1998);
   - (d) taking any installation abandonment measures;
   - (e) an activity for which a licence under section 4 or 18 of the Energy Act 2008 [^c22466091] (gas unloading, storage and recovery and carbon dioxide storage) is required;
-  - (f) an activity (other than any specified in paragraphs (a) to (e)) which—[^key-593bb88c94a4e580ff8132ce586d3c7b]
+  - (f) an activity (other than any specified in paragraphs (a) to (e)) which—[^c-593bb88c94a4e580ff8132ce586d3c7b]
     - (i) is carried out in the Scottish zone or in an area outside the Scottish zone, but nearer to any point on the baselines from which the breadth of the territorial sea adjacent to Scotland is measured than to any point on the baselines in any other part of the United Kingdom; and
     - (ii) relates to a matter which is a reserved matter by virtue of section D2 in Part 2 of Schedule 5 to the Scotland Act 1998 (oil and gas);
   - (g) an activity (other than any specified in paragraphs (a) to (e)) which—
@@ -409,7 +409,7 @@ Where damage has been caused and there are reasonable grounds for believing that
 
 (2) The enforcing authority may withdraw the notification if it is satisfied that the notification should not have been served or that an appeal against the notice is likely to succeed.
 
-### 18A. Reporting by enforcing authorities[^key-51ff65cd15456a72f40bf92b657737cc]
+### 18A. Reporting by enforcing authorities[^c-51ff65cd15456a72f40bf92b657737cc]
 
 (1) Where an enforcing authority has served a responsible operator with notification under regulation 18(1) after the coming into force of this regulation, the enforcing authority must, as soon as reasonably practicable, notify the Secretary of State of the relevant environmental damage.
 
@@ -432,7 +432,7 @@ Where damage has been caused and there are reasonable grounds for believing that
 - (a) the operator's activity was not a cause of the environmental damage;
 - (b) the enforcing authority has acted unreasonably in deciding that the damage is environmental damage;
 - (c) the environmental damage resulted from compliance with an instruction from a public authority (except an instruction relating to an emission or incident caused by the operator's own activities);
-- (d)[^key-e5e9cd881366f32c9f8164c1cd2adea5][^key-fc900a123fc8d04137553176595c8f92][^key-2035a3834ffc4589df68ab849d7fe15b] the responsible operator was not at fault or negligent, and the environmental damage was caused by an emission or event expressly authorised by, and fully in accordance with the conditions of a permit listed in Schedule 4;
+- (d)[^c-e5e9cd881366f32c9f8164c1cd2adea5][^c-fc900a123fc8d04137553176595c8f92][^c-2035a3834ffc4589df68ab849d7fe15b] the responsible operator was not at fault or negligent, and the environmental damage was caused by an emission or event expressly authorised by, and fully in accordance with the conditions of a permit listed in Schedule 4;
 - (e) the responsible operator was not at fault or negligent, and the environmental damage was caused by an emission or activity, or any manner of using a product in the course of an activity, that the operator demonstrates was not considered likely to cause environmental damage according to the state of scientific and technical knowledge at the time when the emission was released or the activity took place; or
 - (f) the environmental damage was the result of an act of a third party and occurred despite the fact that the responsible operator took all appropriate safety measures.
 
@@ -442,7 +442,7 @@ Where damage has been caused and there are reasonable grounds for believing that
 
 ### 20. Remediation notices
 
-(A1)[^key-224e4ff39d582cad65e68bd4a1753df8] Where a responsible operator has received a notice from the enforcing authority under regulation 18, it must without delay identify potential remedial measures in accordance with Schedule 3 and submit them in writing to the enforcing authority for its approval.
+(A1)[^c-224e4ff39d582cad65e68bd4a1753df8] Where a responsible operator has received a notice from the enforcing authority under regulation 18, it must without delay identify potential remedial measures in accordance with Schedule 3 and submit them in writing to the enforcing authority for its approval.
 
 (1) Once it receives the proposals from the responsible operator (or, if a proposal is not received within the specified time limit, at any time after the time limit has expired), the enforcing authority—
 
@@ -626,7 +626,7 @@ may notify the appropriate enforcing authority of any environmental damage which
 
 No enforcement action may be taken under these Regulations after the end of the period of 30 years starting with the date of the emission, event or incident concerned.
 
-### 34. Penalties[^key-9899b5a87cb5b97b5ab12219b1e4f7fd]
+### 34. Penalties[^c-9899b5a87cb5b97b5ab12219b1e4f7fd]
 
 (1) A person guilty of an offence under these Regulations is liable—
 
@@ -686,7 +686,7 @@ In the case of a protected species or natural habitat (other than damage to a si
 - (b) the services provided by the amenities they produce;
 - (c) their capacity for natural regeneration;
 - (d) the number of individuals, their density or the area covered;
-- (e) the role of the particular individuals or of the damaged area in relation to the species or to the habitat conservation and the rarity of the species or habitat assessed at the relevant level, whether local, regional , national or in their natural range[^key-ec7ce9391c57c321c9684b4e7c0f66e1];
+- (e) the role of the particular individuals or of the damaged area in relation to the species or to the habitat conservation and the rarity of the species or habitat assessed at the relevant level, whether local, regional , national or in their natural range[^c-ec7ce9391c57c321c9684b4e7c0f66e1];
 - (f) the capacity of the species for propagation, its viability, or the capacity of the habitat for natural regeneration; and
 - (g) the capacity of the species or habitat, within a short time of the damage being caused, to recover to a condition that leads to its state at the time of the damage or better without any intervention other than increased protection measures.
 
@@ -719,7 +719,7 @@ In the case of a protected species or natural habitat (other than damage to a si
 
 (2) The damage must have an adverse effect on the integrity of the site (that is, the coherence of its ecological structure and function, across its whole area, that enables it to sustain the habitat, complex of habitats or the levels of populations of the species affected).
 
-### 5. Express authorisation[^key-3019a40fb331978985254f91811df8e8]
+### 5. Express authorisation[^c-3019a40fb331978985254f91811df8e8]
 
 (1) Damage to a protected site or natural habitat and damage to a site of special scientific interest do not include damage caused by an act expressly authorised by the relevant authorities in accordance with—
 
@@ -732,7 +732,7 @@ In the case of a protected species or natural habitat (other than damage to a si
 
 (2) Damage to sites of special scientific interest does not include, in the case of a site that is not a European site, damage caused by an act expressly authorised by the relevant authorities in accordance with Part 2 of the Wildlife and Countryside Act 1981.
 
-(3) In sub-paragraph (2), “European site” has the same meaning as in regulation 8 of the Conservation of Habitats and Species Regulations 2017[^key-31b73fbd2829e020e1f144d32ff6bd0f].
+(3) In sub-paragraph (2), “European site” has the same meaning as in regulation 8 of the Conservation of Habitats and Species Regulations 2017[^c-31b73fbd2829e020e1f144d32ff6bd0f].
 
 ## SCHEDULE 2 — Activities causing damage
 
@@ -742,9 +742,9 @@ Regulation 5(1)
 
 This Schedule lists the activities for which there is liability under regulation 5(1).
 
-### 1A. Interpretation[^key-9157ecb6797e43a01766c6879474ae44]
+### 1A. Interpretation[^c-9157ecb6797e43a01766c6879474ae44]
 
-A reference in this Schedule to an activity being authorised, prohibited or managed pursuant to, or subject to a permit or registration under, a Directive includes, after IP completion day, any activity authorised, prohibited or managed pursuant to, or subject to a permit or registration under, any assimilated[^key-ce04db8a1bd85eac5c6568e0da031bd3] law which transposed that Directive.
+A reference in this Schedule to an activity being authorised, prohibited or managed pursuant to, or subject to a permit or registration under, a Directive includes, after IP completion day, any activity authorised, prohibited or managed pursuant to, or subject to a permit or registration under, any assimilated[^c-ce04db8a1bd85eac5c6568e0da031bd3] law which transposed that Directive.
 
 ### 2. Operation of permitted installations
 
@@ -762,7 +762,7 @@ The operation of installations subject to permit in pursuance of—
 - (b) Council Directive [75/442/EEC](https://www.legislation.gov.uk/eudr/1975/442) on waste [^c22466251];
 - (c) Council Directive [91/689/EEC](https://www.legislation.gov.uk/eudr/1991/689) on hazardous waste [^c22466261];
 - (d) Directive [2006/12/EC](https://www.legislation.gov.uk/eudr/2006/12) of the European Parliament and of the Council on waste [^c22466271]; or
-- (e) Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste [^c22466281] [^key-5424e12ccc5e6d633cef2b1d2ae222f2]....
+- (e) Directive [2008/98/EC](https://www.legislation.gov.uk/eudr/2008/98) of the European Parliament and of the Council on waste [^c22466281] [^c-5424e12ccc5e6d633cef2b1d2ae222f2]....
 
 (2) The operation of—
 
@@ -817,13 +817,13 @@ Transport by road, rail, inland waterways, sea or air of dangerous goods or poll
 
 ### 9. Genetically modified organisms
 
-(1) Any contained use, including transport, involving genetically modified organisms (including genetically modified micro-organisms as defined by Council Directive [90/219/EEC](https://www.legislation.gov.uk/eudr/1990/219) on the contained use of genetically modified micro-organisms) [^c22466471] excluding precision bred plants within the meaning of section 1, as read with section 2(1), of the Genetic Technology (Precision Breeding) Act 2023.[^key-d2dcb2feffdba506f392ac395bab62b2]
+(1) Any contained use, including transport, involving genetically modified organisms (including genetically modified micro-organisms as defined by Council Directive [90/219/EEC](https://www.legislation.gov.uk/eudr/1990/219) on the contained use of genetically modified micro-organisms) [^c22466471] excluding precision bred plants within the meaning of section 1, as read with section 2(1), of the Genetic Technology (Precision Breeding) Act 2023.[^c-d2dcb2feffdba506f392ac395bab62b2]
 
 (2) Any deliberate release into the environment, transport and placing on the market of genetically modified organisms as defined by Directive [2001/18/EC](https://www.legislation.gov.uk/eudr/2001/18) of the European Parliament and of the Council on the deliberate release into the environment of genetically modified organisms [^c22466481] excluding precision bred plants within the meaning of section 1, as read with section 2(1), of the Genetic Technology (Precision Breeding) Act 2023.
 
 ### 10. Transboundary shipment of waste
 
-Transboundary shipment of waste within, into or out of the Community or into or out of the United Kingdom[^key-1fe171ac1555024965a2c08360cde713], requiring an authorisation or prohibited under—
+Transboundary shipment of waste within, into or out of the Community or into or out of the United Kingdom[^c-1fe171ac1555024965a2c08360cde713], requiring an authorisation or prohibited under—
 
 - (a) Council Regulation [(EEC) No. 259/93](https://www.legislation.gov.uk/eur/1993/259) on the supervision and control of shipments of waste within, into and out of the European Community [^c22466491]; or
 - (b) Regulation [(EC) No. 1013/2006](https://www.legislation.gov.uk/eur/2006/1013) of the European Parliament and of the Council on shipments of waste [^c22466501].
@@ -832,7 +832,7 @@ Transboundary shipment of waste within, into or out of the Community or into or 
 
 The operation of storage sites pursuant to Directive [2009/31/EC](https://www.legislation.gov.uk/eudr/2009/31) of the European Parliament and of the Council on the geological storage of carbon dioxide [^c22466511].
 
-## Schedule 2ZA — Modifications where regulation 9A applies[^key-458306b620c85bc5d10442cc963ecd17]
+## Schedule 2ZA — Modifications where regulation 9A applies[^c-458306b620c85bc5d10442cc963ecd17]
 
 Regulation 9A
 
@@ -867,7 +867,7 @@ Regulation 9A
   ;
 - (b) paragraph (b) were omitted.
 
-## SCHEDULE 2A — Enforcing authority: activities not requiring a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016[^key-0e7700de140e2f4c11efecc07e1d4220]
+## SCHEDULE 2A — Enforcing authority: activities not requiring a permit or registration under the Environmental Permitting (England and Wales) Regulations 2016[^c-0e7700de140e2f4c11efecc07e1d4220]
 
 Regulation 11(1)
 
@@ -979,7 +979,7 @@ Regulation 19(3)(d)
 
 **1.** The following are permits for the purposes of regulation 19(3)(d) in so far as they relate to an activity in Schedule 2—
 
-- (a) a permit granted under the Environmental Permitting (England and Wales) Regulations 2016[^key-a5117d04d912dc5f84ffc97725dd9b55] or a registration under those Regulations;
+- (a) a permit granted under the Environmental Permitting (England and Wales) Regulations 2016[^c-a5117d04d912dc5f84ffc97725dd9b55] or a registration under those Regulations;
 - (b) a marine licence granted under Part 4 of the Marine and Coastal Access Act 2009 [^c22466521];
 - (c) an ordinary or emergency drought order or a drought permit under the Water Resources Act 1991 [^c22466531];
 - (d) a water abstraction or impoundment licence under the Water Resources Act 1991;
@@ -1148,13 +1148,13 @@ An updated transposition note setting out how these Regulations continue to tran
 
 [^c22465831]: Marginal citation: OJ No. L 143, 30.4.2004, p.56; last amended by Directive 2013/30/EU of the European Parliament and of the Council (OJ No. L 178, 28.6.2013, p.66).
 
-[^key-97465949c93de04bfb16229d8ced8d6b]: Modification: Regulations power to amend, repeal or revoke conferred (26.12.2023) by [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56), [s. 91N(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/91N/3) (as inserted by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 168(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/168/1), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)))
+[^c-97465949c93de04bfb16229d8ced8d6b]: Modification: Regulations power to amend, repeal or revoke conferred (26.12.2023) by [1991 c. 56](https://www.legislation.gov.uk/ukpga/1991/56), [s. 91N(3)](https://www.legislation.gov.uk/ukpga/1991/56/section/91N/3) (as inserted by [Levelling Up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 168(1)](https://www.legislation.gov.uk/ukpga/2023/55/section/168/1), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247)))
 
 [^c22465841]: Marginal citation: [1987 c.49](https://www.legislation.gov.uk/ukpga/1987/49). See [S.I. 2014/1353](https://www.legislation.gov.uk/uksi/2014/1353).
 
 [^c22465851]: Marginal citation: OJ No. L 327, 22.12.2000, p.1; last amended by Commission Directive 2014/101/EU (OJ No. L 311, 31.10.2014, p.32).
 
-[^key-528414e056ec37d00fc0c786e3164054]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/810/regulation/2/1) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/3/a)
+[^c-528414e056ec37d00fc0c786e3164054]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/810/regulation/2/1) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/3/a)
 
 [^c22465861]: Marginal citation: OJ No. L 164, 25.6.2008, p.19.
 
@@ -1168,19 +1168,19 @@ An updated transposition note setting out how these Regulations continue to tran
 
 [^c22465911]: Marginal citation: *See* section 52, amended by paragraph 5(1) and (2) of Schedule 9 to the [Countryside and Rights of Way Act 2000 (c.37)](https://www.legislation.gov.uk/ukpga/2000/37).
 
-[^key-334cac73b09dbfecd9c2ac69d79e1065]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/810/regulation/2/1) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/3/b)
+[^c-334cac73b09dbfecd9c2ac69d79e1065]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2015/810/regulation/2/1) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/3/b)
 
-[^key-a9415b98ddfeb7b5dbf2e0014cfd5d9a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/810/regulation/3) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/458/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a9415b98ddfeb7b5dbf2e0014cfd5d9a]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/uksi/2015/810/regulation/3) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [7(2)](https://www.legislation.gov.uk/uksi/2019/458/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22465921]: Marginal citation: OJ No. L 372, 27.12.2006, p.19; amended by Commission Directive 2014/80/EU (OJ No. L 182, 21.6.2014, p.52).
 
-[^key-ae4b5c37c5324cbaeb103fe67ae06c90]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/810/regulation/6/1) substituted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2015 (S.I. 2015/1391)](https://www.legislation.gov.uk/uksi/2015/1391), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1391/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1391/regulation/2/2/b)
+[^c-ae4b5c37c5324cbaeb103fe67ae06c90]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/810/regulation/6/1) substituted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2015 (S.I. 2015/1391)](https://www.legislation.gov.uk/uksi/2015/1391), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1391/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/uksi/2015/1391/regulation/2/2/b)
 
 [^c22465931]: Marginal citation: [2006 c.32](https://www.legislation.gov.uk/ukpga/2006/32).
 
 [^c22465941]: Marginal citation: [1998 c.47](https://www.legislation.gov.uk/ukpga/1998/47).
 
-[^key-a85da924ed5e8a175eed7ddf86a90acd]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/810/regulation/6/1) table inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2015 (S.I. 2015/1391)](https://www.legislation.gov.uk/uksi/2015/1391), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1391/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1391/regulation/2/2/a)
+[^c-a85da924ed5e8a175eed7ddf86a90acd]: Textual amendment: Words in [reg. 6(1)](https://www.legislation.gov.uk/uksi/2015/810/regulation/6/1) table inserted (19.7.2015) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2015 (S.I. 2015/1391)](https://www.legislation.gov.uk/uksi/2015/1391), [regs. 1](https://www.legislation.gov.uk/uksi/2015/1391/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/uksi/2015/1391/regulation/2/2/a)
 
 [^c22465951]: Marginal citation: [1964 c.29](https://www.legislation.gov.uk/ukpga/1964/29). Areas are currently designated under section 1(7) by [S.I. 2013/3162](https://www.legislation.gov.uk/uksi/2013/3162) (which revoked [S.I. 2000/3062](https://www.legislation.gov.uk/uksi/2000/3062) and 2001/3670, subject to a saving in respect of the Continental Shelf (Designation of Areas) Orders 1964 to 1982). Section 1(7) was amended by paragraph 1 of Schedule 3 to the [Oil and Gas (Enterprise) Act 1982 (c.23)](https://www.legislation.gov.uk/ukpga/1982/23) and by section 103 of the [Energy Act 2011 (c.16)](https://www.legislation.gov.uk/ukpga/2011/16).
 
@@ -1198,25 +1198,25 @@ An updated transposition note setting out how these Regulations continue to tran
 
 [^c22466021]: Marginal citation: The Convention was implemented by amendments to the Merchant Shipping Act 1995 made by [S.I. 2006/1244](https://www.legislation.gov.uk/uksi/2006/1244).
 
-[^key-08915a3f146b7262ddfe9b8933068b64]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2015/810/regulation/9A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 170(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/170/2), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-08915a3f146b7262ddfe9b8933068b64]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/2015/810/regulation/9A) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 170(2)](https://www.legislation.gov.uk/ukpga/2023/55/section/170/2), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-1e36d2d898916a3450035137d0fc4f2c]: Textual amendment: Words in reg. 10 heading substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 90(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/90/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-1e36d2d898916a3450035137d0fc4f2c]: Textual amendment: Words in reg. 10 heading substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 90(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/90/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-5a489c9d33d19e81b743888e3b4b7a44]: Textual amendment: Words in reg. 10(1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 90(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/90/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-5a489c9d33d19e81b743888e3b4b7a44]: Textual amendment: Words in reg. 10(1) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 90(2)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/90/2) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
-[^key-7e57989789e3cbba713eea06acc76950]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/2) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/2)
+[^c-7e57989789e3cbba713eea06acc76950]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/2) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/2)
 
-[^key-2b3ae5d33b5d89b19c587907de24ee9e]: Textual amendment: Word in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/3) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/3/a)
+[^c-2b3ae5d33b5d89b19c587907de24ee9e]: Textual amendment: Word in [reg. 10(3)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/3) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/3/a)
 
-[^key-3325236e2d121f556213c90caa88521f]: Textual amendment: [Reg. 10(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/3/b/iv) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/3/b/i)
+[^c-3325236e2d121f556213c90caa88521f]: Textual amendment: [Reg. 10(3)(b)(iv)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/3/b/iv) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/3/b/i)
 
-[^key-438e7c6613a98c357e336e57a5b71e51]: Textual amendment: [Reg. 10(3)(b)(vi)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/3/b/vi) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/3/b/ii)
+[^c-438e7c6613a98c357e336e57a5b71e51]: Textual amendment: [Reg. 10(3)(b)(vi)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/3/b/vi) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/3/b/ii)
 
-[^key-06aa0315429213cd9502b1027363e614]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/4)[(5)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/5) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/4)
+[^c-06aa0315429213cd9502b1027363e614]: Textual amendment: [Reg. 10(4)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/4)[(5)](https://www.legislation.gov.uk/uksi/2015/810/regulation/10/5) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [4(4)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/4/4)
 
-[^key-753ef06d2bfcdd0b773a3482b7e13db2]: Textual amendment: Reg. 11(1) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/5/2)
+[^c-753ef06d2bfcdd0b773a3482b7e13db2]: Textual amendment: Reg. 11(1) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [5(2)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/5/2)
 
-[^key-cf333f570e2db8fb4e520ccc7ee66e67]: Textual amendment: Words in reg. 11(2) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/5/3/a)
+[^c-cf333f570e2db8fb4e520ccc7ee66e67]: Textual amendment: Words in reg. 11(2) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/5/3/a)
 
 [^c22466041]: Marginal citation: [1998 c.17](https://www.legislation.gov.uk/ukpga/1998/17). The definition of “**offshore installation**” for the purposes of Part 4 of that Act is contained in section 44 of that Act. Section 44 was amended by paragraph 11 of Schedule 1 to the [Energy Act 2008 (c.32)](https://www.legislation.gov.uk/ukpga/2008/32).
 
@@ -1230,17 +1230,17 @@ An updated transposition note setting out how these Regulations continue to tran
 
 [^c22466091]: Marginal citation: Section 18 was amended by [S.I. 2011/224](https://www.legislation.gov.uk/uksi/2011/224) and 2435.
 
-[^key-593bb88c94a4e580ff8132ce586d3c7b]: Textual amendment: Words in reg. 11(2) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/5/3/b)
+[^c-593bb88c94a4e580ff8132ce586d3c7b]: Textual amendment: Words in reg. 11(2) substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2017/1177/regulation/5/3/b)
 
-[^key-51ff65cd15456a72f40bf92b657737cc]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2015/810/regulation/18A) inserted (18.10.2019) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2019 (S.I. 2019/1285)](https://www.legislation.gov.uk/uksi/2019/1285), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1285/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1285/regulation/2)
+[^c-51ff65cd15456a72f40bf92b657737cc]: Textual amendment: [Reg. 18A](https://www.legislation.gov.uk/uksi/2015/810/regulation/18A) inserted (18.10.2019) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2019 (S.I. 2019/1285)](https://www.legislation.gov.uk/uksi/2019/1285), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1285/regulation/1), [2](https://www.legislation.gov.uk/uksi/2019/1285/regulation/2)
 
-[^key-e5e9cd881366f32c9f8164c1cd2adea5]: Modification: [Reg. 19(3)(d)](https://www.legislation.gov.uk/uksi/2015/810/regulation/19/3/d) excluded (temp.) (28.7.2025) by [The Environment Agency (Holme Styes Reservoir) Drought Order 2025 (S.I. 2025/926)](https://www.legislation.gov.uk/uksi/2025/926), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/926/article/1/b), [4](https://www.legislation.gov.uk/uksi/2025/926/article/4)
+[^c-e5e9cd881366f32c9f8164c1cd2adea5]: Modification: [Reg. 19(3)(d)](https://www.legislation.gov.uk/uksi/2015/810/regulation/19/3/d) excluded (temp.) (28.7.2025) by [The Environment Agency (Holme Styes Reservoir) Drought Order 2025 (S.I. 2025/926)](https://www.legislation.gov.uk/uksi/2025/926), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/926/article/1/b), [4](https://www.legislation.gov.uk/uksi/2025/926/article/4)
 
-[^key-fc900a123fc8d04137553176595c8f92]: Modification: [Reg. 19(3)(d)](https://www.legislation.gov.uk/uksi/2015/810/regulation/19/3/d) excluded (temp.) (4.9.2025) by [The Environment Agency (Holme Styes Reservoir) Drought (No. 2) Order 2025 (S.I. 2025/997)](https://www.legislation.gov.uk/uksi/2025/997), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/997/article/1/b), [4](https://www.legislation.gov.uk/uksi/2025/997/article/4)
+[^c-fc900a123fc8d04137553176595c8f92]: Modification: [Reg. 19(3)(d)](https://www.legislation.gov.uk/uksi/2015/810/regulation/19/3/d) excluded (temp.) (4.9.2025) by [The Environment Agency (Holme Styes Reservoir) Drought (No. 2) Order 2025 (S.I. 2025/997)](https://www.legislation.gov.uk/uksi/2025/997), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/997/article/1/b), [4](https://www.legislation.gov.uk/uksi/2025/997/article/4)
 
-[^key-2035a3834ffc4589df68ab849d7fe15b]: Modification: [Reg. 19(3)(d)](https://www.legislation.gov.uk/uksi/2015/810/regulation/19/3/d) excluded (temp.) (3.12.2025) by [The South East Water Limited (River Ouse and Shell Brook) Drought Order 2025 (S.I. 2025/1266)](https://www.legislation.gov.uk/uksi/2025/1266), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/1266/article/1/b), [8](https://www.legislation.gov.uk/uksi/2025/1266/article/8)
+[^c-2035a3834ffc4589df68ab849d7fe15b]: Modification: [Reg. 19(3)(d)](https://www.legislation.gov.uk/uksi/2015/810/regulation/19/3/d) excluded (temp.) (3.12.2025) by [The South East Water Limited (River Ouse and Shell Brook) Drought Order 2025 (S.I. 2025/1266)](https://www.legislation.gov.uk/uksi/2025/1266), [arts. 1(b)](https://www.legislation.gov.uk/uksi/2025/1266/article/1/b), [8](https://www.legislation.gov.uk/uksi/2025/1266/article/8)
 
-[^key-224e4ff39d582cad65e68bd4a1753df8]: Textual amendment: Reg. 20(A1) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [6](https://www.legislation.gov.uk/uksi/2017/1177/regulation/6)
+[^c-224e4ff39d582cad65e68bd4a1753df8]: Textual amendment: Reg. 20(A1) inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [6](https://www.legislation.gov.uk/uksi/2017/1177/regulation/6)
 
 [^c22466101]: Marginal citation: [1925 c.20](https://www.legislation.gov.uk/ukpga/1925/20).
 
@@ -1250,7 +1250,7 @@ An updated transposition note setting out how these Regulations continue to tran
 
 [^c22466131]: Marginal citation: [2004 c.20](https://www.legislation.gov.uk/ukpga/2004/20). Section 84 was amended by paragraph 4 of Part 1 of Schedule 4 to the [Marine and Coastal Access Act 2009 (c.23)](https://www.legislation.gov.uk/ukpga/2009/23).
 
-[^key-9899b5a87cb5b97b5ab12219b1e4f7fd]: Modification: [Reg. 34](https://www.legislation.gov.uk/uksi/2015/810/regulation/34) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
+[^c-9899b5a87cb5b97b5ab12219b1e4f7fd]: Modification: [Reg. 34](https://www.legislation.gov.uk/uksi/2015/810/regulation/34) modified (16.7.2026) by [The Modification of the Law (British Steel Limited Property Transfer) Regulations 2026 (S.I. 2026/833)](https://www.legislation.gov.uk/uksi/2026/833), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/1/2), [6(2)](https://www.legislation.gov.uk/uksi/2026/833/regulation/6/2), [Sch. para. 5](https://www.legislation.gov.uk/uksi/2026/833/schedule/paragraph/5)
 
 [^c22466141]: Marginal citation: [S.I. 2009/153](https://www.legislation.gov.uk/uksi/2009/153), amended by [S.I. 2009/3275](https://www.legislation.gov.uk/uksi/2009/3275), 2010/587, 675 and 2221; 2011/556, 988, 1043 and 2131; 2012/630 and 2897; and 2013/755.
 
@@ -1258,15 +1258,15 @@ An updated transposition note setting out how these Regulations continue to tran
 
 [^c22466161]: Marginal citation: [S.I. 2010/587](https://www.legislation.gov.uk/uksi/2010/587).
 
-[^key-ec7ce9391c57c321c9684b4e7c0f66e1]: Textual amendment: Words in [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/uksi/2015/810/schedule/1/paragraph/1/e) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ec7ce9391c57c321c9684b4e7c0f66e1]: Textual amendment: Words in [Sch. 1 para. 1(e)](https://www.legislation.gov.uk/uksi/2015/810/schedule/1/paragraph/1/e) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [7(3)](https://www.legislation.gov.uk/uksi/2019/458/regulation/7/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3019a40fb331978985254f91811df8e8]: Textual amendment: Sch. 1 para. 5 substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/1177/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/1177/regulation/9))
+[^c-3019a40fb331978985254f91811df8e8]: Textual amendment: Sch. 1 para. 5 substituted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [7](https://www.legislation.gov.uk/uksi/2017/1177/regulation/7) (with [reg. 9](https://www.legislation.gov.uk/uksi/2017/1177/regulation/9))
 
-[^key-31b73fbd2829e020e1f144d32ff6bd0f]: Textual amendment: Words in Sch. 1 para. 5(3) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [reg. 11(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/11/2)
+[^c-31b73fbd2829e020e1f144d32ff6bd0f]: Textual amendment: Words in Sch. 1 para. 5(3) substituted (1.6.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments) (England) Regulations 2018 (S.I. 2018/575)](https://www.legislation.gov.uk/uksi/2018/575), [art. 1(2)](https://www.legislation.gov.uk/uksi/2018/575/article/1/2), [reg. 11(2)](https://www.legislation.gov.uk/uksi/2018/575/regulation/11/2)
 
-[^key-9157ecb6797e43a01766c6879474ae44]: Textual amendment: Sch. 2 para. 1A inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/7/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/12/4))
+[^c-9157ecb6797e43a01766c6879474ae44]: Textual amendment: Sch. 2 para. 1A inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [7(4)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/7/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1) (as amended by [S.I. 2020/1540](https://www.legislation.gov.uk/uksi/2020/1540), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/1/3), [12(4)](https://www.legislation.gov.uk/uksi/2020/1540/regulation/12/4))
 
-[^key-ce04db8a1bd85eac5c6568e0da031bd3]: Textual amendment: Word in [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/2015/810/schedule/2/paragraph/1A) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 34](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/34)
+[^c-ce04db8a1bd85eac5c6568e0da031bd3]: Textual amendment: Word in [Sch. 2 para. 1A](https://www.legislation.gov.uk/uksi/2015/810/schedule/2/paragraph/1A) substituted (27.2.2025) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendments) Regulations 2025 (S.I. 2025/82)](https://www.legislation.gov.uk/uksi/2025/82), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/82/regulation/1/2), [Sch. 15 para. 34](https://www.legislation.gov.uk/uksi/2025/82/schedule/15/paragraph/34)
 
 [^c22466211]: Marginal citation: OJ No. L 257, 10.10.1996, p.26; repealed by Directive 2008/1/EC of the European Parliament and of the Council (OJ No. L 24, 29.1.2008, p.8).
 
@@ -1284,7 +1284,7 @@ An updated transposition note setting out how these Regulations continue to tran
 
 [^c22466281]: Marginal citation: OJ No. L 312, 22.11.2008, p.3; last amended by Commission Regulation (EU) No. 1357/2014 (OJ No. L 365, 19.12.2014, p.89).
 
-[^key-5424e12ccc5e6d633cef2b1d2ae222f2]: Textual amendment: Words in Sch. 2 para. 3(1)(e) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2018/942/regulation/24)
+[^c-5424e12ccc5e6d633cef2b1d2ae222f2]: Textual amendment: Words in Sch. 2 para. 3(1)(e) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [24](https://www.legislation.gov.uk/uksi/2018/942/regulation/24)
 
 [^c22466291]: Marginal citation: OJ No. L 182, 16.7.1999, p.1; last amended by Council Directive 2011/97/EU (OJ No. L 328, 10.12.2011, p.49).
 
@@ -1324,11 +1324,11 @@ An updated transposition note setting out how these Regulations continue to tran
 
 [^c22466471]: Marginal citation: OJ No. L 117, 8.5.1990, p.1; repealed by Directive 2009/41/EC of the European Parliament and of the Council (OJ No. L 125, 21.5.2009, p.75).
 
-[^key-d2dcb2feffdba506f392ac395bab62b2]: Textual amendment: Words in [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2015/810/schedule/2/paragraph/9/2) inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 14(2)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/14/2)
+[^c-d2dcb2feffdba506f392ac395bab62b2]: Textual amendment: Words in [Sch. 2 para. 9(2)](https://www.legislation.gov.uk/uksi/2015/810/schedule/2/paragraph/9/2) inserted (13.11.2025) by [The Genetic Technology (Precision Breeding) Regulations 2025 (S.I. 2025/581)](https://www.legislation.gov.uk/uksi/2025/581), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/581/regulation/1/1), [Sch. 5 para. 14(2)](https://www.legislation.gov.uk/uksi/2025/581/schedule/5/paragraph/14/2)
 
 [^c22466481]: Marginal citation: OJ No. L 106, 17.4.2001, p.1; last amended by Directive 2008/27/EC of the European Parliament and of the Council (OJ No. L 81, 20.3.2008, p.45).
 
-[^key-1fe171ac1555024965a2c08360cde713]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2015/810/schedule/2/paragraph/10) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/7/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1fe171ac1555024965a2c08360cde713]: Textual amendment: Words in [Sch. 2 para. 10](https://www.legislation.gov.uk/uksi/2015/810/schedule/2/paragraph/10) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [7(4)(b)](https://www.legislation.gov.uk/uksi/2019/458/regulation/7/4/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c22466491]: Marginal citation: OJ No. L 30, 6.2.1993, p.1.
 
@@ -1336,11 +1336,11 @@ An updated transposition note setting out how these Regulations continue to tran
 
 [^c22466511]: Marginal citation: OJ No. L 140, 5.6.2009, p.114; amended by Directive 2011/92/EU of the European Parliament and of the Council 23(OJ No. L 26, 28.1.2012, p.1).
 
-[^key-458306b620c85bc5d10442cc963ecd17]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/uksi/2015/810/schedule/2ZA) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 170(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/170/3), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-458306b620c85bc5d10442cc963ecd17]: Textual amendment: [Sch. 2ZA](https://www.legislation.gov.uk/uksi/2015/810/schedule/2ZA) inserted (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 170(3)](https://www.legislation.gov.uk/ukpga/2023/55/section/170/3), [255(6)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/6) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
-[^key-0e7700de140e2f4c11efecc07e1d4220]: Textual amendment: Sch. 2A inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/1177/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/2017/1177/schedule)
+[^c-0e7700de140e2f4c11efecc07e1d4220]: Textual amendment: Sch. 2A inserted (1.4.2018) by [The Environmental Damage (Prevention and Remediation) (England) (Amendment) Regulations 2017 (S.I. 2017/1177)](https://www.legislation.gov.uk/uksi/2017/1177), [regs. 1](https://www.legislation.gov.uk/uksi/2017/1177/regulation/1), [8](https://www.legislation.gov.uk/uksi/2017/1177/regulation/8), [Sch.](https://www.legislation.gov.uk/uksi/2017/1177/schedule)
 
-[^key-a5117d04d912dc5f84ffc97725dd9b55]: Textual amendment: Words in Sch. 4 para. 1(a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 90(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/90/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
+[^c-a5117d04d912dc5f84ffc97725dd9b55]: Textual amendment: Words in Sch. 4 para. 1(a) substituted (1.1.2017) by [The Environmental Permitting (England and Wales) Regulations 2016 (S.I. 2016/1154)](https://www.legislation.gov.uk/uksi/2016/1154), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/1), [Sch. 29 para. 90(4)](https://www.legislation.gov.uk/uksi/2016/1154/schedule/29/paragraph/90/4) (with [regs. 1(3)](https://www.legislation.gov.uk/uksi/2016/1154/regulation/1/3), [77-79](https://www.legislation.gov.uk/uksi/2016/1154/regulation/77), [Sch. 4](https://www.legislation.gov.uk/uksi/2016/1154/schedule/4))
 
 [^c22466521]: Marginal citation: [2009 c.23](https://www.legislation.gov.uk/ukpga/2009/23).
 

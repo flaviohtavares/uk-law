@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transitional provision in relation to complaints against members of the Metropolitan Police Authority[^key-59c814a2321c194ccd6a234beec9e31f]
+## 5. Transitional provision in relation to complaints against members of the Metropolitan Police Authority[^c-59c814a2321c194ccd6a234beec9e31f]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-59c814a2321c194ccd6a234beec9e31f]: Commencement: Art. 5 in force at made date
+[^c-59c814a2321c194ccd6a234beec9e31f]: Commencement: Art. 5 in force at made date
 
 [^f00004]: Footnote: [2000 c. 22](https://www.legislation.gov.uk/ukpga/2000/22).

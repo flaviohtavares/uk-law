@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 5 — Land of which temporary possession may be taken[^key-b3c6dd231740cbdf889ad57e5cd87061]
+## SCHEDULE 5 — Land of which temporary possession may be taken[^c-b3c6dd231740cbdf889ad57e5cd87061]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ Article 25
 
 ## Annotations
 
-[^key-b3c6dd231740cbdf889ad57e5cd87061]: Commencement: Sch. 5 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-b3c6dd231740cbdf889ad57e5cd87061]: Commencement: Sch. 5 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)

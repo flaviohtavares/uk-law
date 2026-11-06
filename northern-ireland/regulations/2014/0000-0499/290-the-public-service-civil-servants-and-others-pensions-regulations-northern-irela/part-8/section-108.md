@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 108. Annual rate of surviving adult’s pensions payable on death of pensioner member[^key-8124ee132da74685624784f561b1a314]
+## 108. Annual rate of surviving adult’s pensions payable on death of pensioner member[^c-8124ee132da74685624784f561b1a314]
 
 *Extent: N.I.*
 
@@ -57,7 +57,7 @@ summary: ''
 
 (7) In working out the amount of full retirement earned pension or partial retirement earned pension for the purpose of the definition in paragraph (6) of “notional annual rate”—
 
-- (a) unless[^key-b166f2b3eb7f37bb0c73ff158ec6a39a] sub-paragraph (b) applies, the accrued earned pension is the lesser of—
+- (a) unless[^c-b166f2b3eb7f37bb0c73ff158ec6a39a] sub-paragraph (b) applies, the accrued earned pension is the lesser of—
   - (i) the amount of accrued earned pension not attributable to a transfer payment; and
   - (ii) the enhancement fraction of the amount mentioned in paragraph (i);
 - (b) if the member is a transition member with continuity of service, the accrued earned pension is the lesser of—
@@ -68,8 +68,8 @@ summary: ''
 
 ## Annotations
 
-[^key-8124ee132da74685624784f561b1a314]: Commencement: [Reg. 108](https://www.legislation.gov.uk/nisr/2014/290/regulation/108) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-8124ee132da74685624784f561b1a314]: Commencement: [Reg. 108](https://www.legislation.gov.uk/nisr/2014/290/regulation/108) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
 [^f00062]: Footnote: An active member’s account is closed under regulation 45 when a full retirement pension becomes payable
 
-[^key-b166f2b3eb7f37bb0c73ff158ec6a39a]: Textual amendment: Word in [reg. 108(7)(a)](https://www.legislation.gov.uk/nisr/2014/290/regulation/108/7/a) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [35](https://www.legislation.gov.uk/nisr/2022/67/regulation/35)
+[^c-b166f2b3eb7f37bb0c73ff158ec6a39a]: Textual amendment: Word in [reg. 108(7)(a)](https://www.legislation.gov.uk/nisr/2014/290/regulation/108/7/a) substituted (with effect in accordance with of the amending Rule) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/67)](https://www.legislation.gov.uk/nisr/2022/67), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2022/67/regulation/1/2), [35](https://www.legislation.gov.uk/nisr/2022/67/regulation/35)

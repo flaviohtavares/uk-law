@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 249. Sentence of detention under section 250: availability[^key-bedfc6da0134a29ae285d7f953d2dc34][^key-5ea577179a41689bc10143a3dc691a1c]
+## 249. Sentence of detention under section 250: availability[^c-bedfc6da0134a29ae285d7f953d2dc34][^c-5ea577179a41689bc10143a3dc691a1c]
 
 *Extent: E+W*
 
-(1) A sentence of detention under section 250 is available where a person aged under 18 is convicted on indictment of an offence listed in the following table (but the court is not required to pass a sentence of detention under section 252A)[^key-e8a6ece8c899a0d08e57b53809c6186b]—
+(1) A sentence of detention under section 250 is available where a person aged under 18 is convicted on indictment of an offence listed in the following table (but the court is not required to pass a sentence of detention under section 252A)[^c-e8a6ece8c899a0d08e57b53809c6186b]—
 
 <table>
 <tbody>
@@ -35,7 +35,7 @@ summary: ''
 
 (2) For circumstances in which a court is required to impose a sentence of detention under section 250, see—
 
-- (a) sections 258 and 258A[^key-86263356e431ce8d0b9c58182491b4ba] (required sentence of detention for life);
+- (a) sections 258 and 258A[^c-86263356e431ce8d0b9c58182491b4ba] (required sentence of detention for life);
 - (b) section 311 (minimum sentence for certain offences involving firearms that are prohibited weapons).
 
 (3) Where an offence is found to have been committed—
@@ -47,10 +47,10 @@ it is to be taken for the purposes of paragraph (c)(ii) of the table in subsecti
 
 ## Annotations
 
-[^key-bedfc6da0134a29ae285d7f953d2dc34]: Commencement: S. 249 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-bedfc6da0134a29ae285d7f953d2dc34]: Commencement: S. 249 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-5ea577179a41689bc10143a3dc691a1c]: Modification: S. 249: power to exclude conferred by [1988 c. 45](https://www.legislation.gov.uk/ukpga/1988/45), [s. 1(4B)](https://www.legislation.gov.uk/ukpga/1988/45/section/1/4B) (as inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 94(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/94/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
+[^c-5ea577179a41689bc10143a3dc691a1c]: Modification: S. 249: power to exclude conferred by [1988 c. 45](https://www.legislation.gov.uk/ukpga/1988/45), [s. 1(4B)](https://www.legislation.gov.uk/ukpga/1988/45/section/1/4B) (as inserted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 94(3)](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/94/3) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2))
 
-[^key-e8a6ece8c899a0d08e57b53809c6186b]: Textual amendment: Words in s. 249(1) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 26(13)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/26/13)
+[^c-e8a6ece8c899a0d08e57b53809c6186b]: Textual amendment: Words in s. 249(1) inserted (30.4.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(1)(i)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/1/i), [Sch. 13 para. 26(13)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/26/13)
 
-[^key-86263356e431ce8d0b9c58182491b4ba]: Textual amendment: Words in [s. 249(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/section/249/2/a) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/3/4), [208(5)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/b)
+[^c-86263356e431ce8d0b9c58182491b4ba]: Textual amendment: Words in [s. 249(2)(a)](https://www.legislation.gov.uk/ukpga/2020/17/section/249/2/a) substituted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 3(4)](https://www.legislation.gov.uk/ukpga/2022/32/section/3/4), [208(5)(b)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/5/b)

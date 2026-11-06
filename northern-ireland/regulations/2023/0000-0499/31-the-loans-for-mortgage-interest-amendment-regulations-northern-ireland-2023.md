@@ -46,11 +46,11 @@ The Department for Communities[^f00001], makes the following Regulations in exer
 
 The powers are exercisable by the Department for Communities by virtue of Article 2 to the Welfare Reform (Northern Ireland) Order 2015 (Cessation of Transitory Provision) Order 2020[^f00003].
 
-## 1. Citation and commencement[^key-ece79f2495fdd1e2ae51ae35884d6c33]
+## 1. Citation and commencement[^c-ece79f2495fdd1e2ae51ae35884d6c33]
 
 These Regulations may be cited as the Loans for Mortgage Interest (Amendment) Regulations (Northern Ireland) 2023 and come into operation on 3rd April 2023.
 
-## 2. Amendment of the Loans for Mortgage Interest Regulations[^key-b361672a9cbf8466eb8038fb631bc3d2]
+## 2. Amendment of the Loans for Mortgage Interest Regulations[^c-b361672a9cbf8466eb8038fb631bc3d2]
 
 (1) The Loans for Mortgage Interest Regulations (Northern Ireland) 2017[^f00004] are amended in accordance with paragraphs (2) to (5).
 
@@ -124,9 +124,9 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00003]: Footnote: [S.I. 2020/927](https://www.legislation.gov.uk/uksi/2020/927)
 
-[^key-ece79f2495fdd1e2ae51ae35884d6c33]: Commencement: Reg. 1 in operation at 3.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1)
+[^c-ece79f2495fdd1e2ae51ae35884d6c33]: Commencement: Reg. 1 in operation at 3.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1)
 
-[^key-b361672a9cbf8466eb8038fb631bc3d2]: Commencement: Reg. 2 in operation at 3.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1)
+[^c-b361672a9cbf8466eb8038fb631bc3d2]: Commencement: Reg. 2 in operation at 3.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/31/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2017 No. 176](https://www.legislation.gov.uk/nisr/2017/176); amending Regulation is [S.R. 2018 No. 37](https://www.legislation.gov.uk/nisr/2018/37)
 

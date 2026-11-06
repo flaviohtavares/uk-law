@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Compulsory acquisition of land[^key-8612f444688326fda3f7a7b75942ca86]
+## 24. Compulsory acquisition of land[^c-8612f444688326fda3f7a7b75942ca86]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8612f444688326fda3f7a7b75942ca86]: Commencement: Art. 24 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)
+[^c-8612f444688326fda3f7a7b75942ca86]: Commencement: Art. 24 in force at 4.4.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/362/article/1)

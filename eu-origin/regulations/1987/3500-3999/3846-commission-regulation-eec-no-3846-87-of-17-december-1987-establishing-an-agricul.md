@@ -33,32 +33,32 @@ of 17 December 1987
 
 establishing an agricultural product nomenclature for export refunds (revoked)
 
-[^key-d881af43af726cb096174b1457f7f330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d881af43af726cb096174b1457f7f330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-d881af43af726cb096174b1457f7f330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-d881af43af726cb096174b1457f7f330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-d881af43af726cb096174b1457f7f330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-d881af43af726cb096174b1457f7f330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-d881af43af726cb096174b1457f7f330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-d881af43af726cb096174b1457f7f330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3a.**[^key-d881af43af726cb096174b1457f7f330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3a.**[^c-d881af43af726cb096174b1457f7f330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-d881af43af726cb096174b1457f7f330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-d881af43af726cb096174b1457f7f330] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-d881af43af726cb096174b1457f7f330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-d881af43af726cb096174b1457f7f330]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — AGRICULTURAL PRODUCT NOMENCLATURE FOR EXPORT REFUNDS[^key-d881af43af726cb096174b1457f7f330]
+## ANNEX I — AGRICULTURAL PRODUCT NOMENCLATURE FOR EXPORT REFUNDS[^c-d881af43af726cb096174b1457f7f330]
 
-[^key-d881af43af726cb096174b1457f7f330]**AGRICULTURAL PRODUCT NOMENCLATURE FOR EXPORT REFUNDS**
+[^c-d881af43af726cb096174b1457f7f330]**AGRICULTURAL PRODUCT NOMENCLATURE FOR EXPORT REFUNDS**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Annex II[^key-d881af43af726cb096174b1457f7f330]
+## Annex II[^c-d881af43af726cb096174b1457f7f330]
 
 ## Annotations
 
-[^key-d881af43af726cb096174b1457f7f330]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-d881af43af726cb096174b1457f7f330]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 386. Council Decision (EU) 2016/1764[^key-b3b93b3b53fdca496513f0c6fa8f1687]
+## 386. Council Decision (EU) 2016/1764[^c-b3b93b3b53fdca496513f0c6fa8f1687]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Council Decision (EU) 2016/1764 of 29 September 2016 on the position to be taken
 
 ## Annotations
 
-[^key-b3b93b3b53fdca496513f0c6fa8f1687]: Commencement: Reg. 386 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-b3b93b3b53fdca496513f0c6fa8f1687]: Commencement: Reg. 386 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)

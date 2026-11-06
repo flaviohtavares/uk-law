@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Causation and non-attribution[^key-acb6a9b13352362080834aa5593e47ee]
+## 9. Causation and non-attribution[^c-acb6a9b13352362080834aa5593e47ee]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-acb6a9b13352362080834aa5593e47ee]: Commencement: Reg. 9 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)
+[^c-acb6a9b13352362080834aa5593e47ee]: Commencement: Reg. 9 in force at 6.3.2019 with effect in accordance with reg. 1(3)-(8), see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/449/regulation/1/2)

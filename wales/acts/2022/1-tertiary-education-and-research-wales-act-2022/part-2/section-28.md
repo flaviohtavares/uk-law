@@ -16,15 +16,15 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. General ongoing registration conditions[^key-55cc894f6d9e80ffe4d62c41843b8e3c][^key-2cca2b85d38b901bc4d08a2fd756b60b]
+## 28. General ongoing registration conditions[^c-55cc894f6d9e80ffe4d62c41843b8e3c][^c-2cca2b85d38b901bc4d08a2fd756b60b]
 
 *Extent: E+W*
 
-(1)[^key-ca0dc59cf7d5ef05c2aa5dfb936bfe40] The Commission must determine and publish general ongoing registration conditions.
+(1)[^c-ca0dc59cf7d5ef05c2aa5dfb936bfe40] The Commission must determine and publish general ongoing registration conditions.
 
-(2)[^key-ca0dc59cf7d5ef05c2aa5dfb936bfe40] Different conditions may be determined for different categories of registration.
+(2)[^c-ca0dc59cf7d5ef05c2aa5dfb936bfe40] Different conditions may be determined for different categories of registration.
 
-(3)[^key-ca0dc59cf7d5ef05c2aa5dfb936bfe40] In relation to a category of registration, different conditions may be determined for different descriptions of tertiary education provider.
+(3)[^c-ca0dc59cf7d5ef05c2aa5dfb936bfe40] In relation to a category of registration, different conditions may be determined for different descriptions of tertiary education provider.
 
 (4) The Commission must publish the general ongoing registration conditions in a way that identifies the category of registration to which the condition applies.
 
@@ -40,8 +40,8 @@ summary: ''
 
 ## Annotations
 
-[^key-55cc894f6d9e80ffe4d62c41843b8e3c]: Commencement: S. 28 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
+[^c-55cc894f6d9e80ffe4d62c41843b8e3c]: Commencement: S. 28 not in force at Royal Assent, see [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2)
 
-[^key-2cca2b85d38b901bc4d08a2fd756b60b]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2022/1/section/28) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/432/article/2/c)
+[^c-2cca2b85d38b901bc4d08a2fd756b60b]: Commencement: [S. 28](https://www.legislation.gov.uk/asc/2022/1/section/28) in force at 5.4.2025 in so far as not already in force by [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(c)](https://www.legislation.gov.uk/wsi/2025/432/article/2/c)
 
-[^key-ca0dc59cf7d5ef05c2aa5dfb936bfe40]: Commencement: [S. 28(1)-(3)](https://www.legislation.gov.uk/asc/2022/1/section/28/1) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(r)](https://www.legislation.gov.uk/wsi/2023/919/article/3/r)
+[^c-ca0dc59cf7d5ef05c2aa5dfb936bfe40]: Commencement: [S. 28(1)-(3)](https://www.legislation.gov.uk/asc/2022/1/section/28/1) in force at 4.9.2023 for specified purposes by [S.I. 2023/919](https://www.legislation.gov.uk/wsi/2023/919), [art. 3(r)](https://www.legislation.gov.uk/wsi/2023/919/article/3/r)

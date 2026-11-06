@@ -14,7 +14,7 @@ summary: ''
 
 > **Warning: changes not yet applied to this text (12).** Text as at 2026-07-16. See https://www.legislation.gov.uk/changes/affected/uksi/2006/214
 
-## 12C. Eligible rent and maximum rent[^key-40886efb9e5f41f98addf3d975e77077]
+## 12C. Eligible rent and maximum rent[^c-40886efb9e5f41f98addf3d975e77077]
 
 (1) This regulation applies where a maximum rent has been, or is to be, determined in accordance with regulation 13 (maximum rent).
 
@@ -22,4 +22,4 @@ summary: ''
 
 ## Annotations
 
-[^key-40886efb9e5f41f98addf3d975e77077]: Textual amendment: Regs. 12B-12D inserted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2869/regulation/5)
+[^c-40886efb9e5f41f98addf3d975e77077]: Textual amendment: Regs. 12B-12D inserted (with application in accordance with reg. 1(5)(6)(7) of the amending S.I.) by [Housing Benefit (State Pension Credit) (Local Housing Allowance and Information Sharing) Amendment Regulations 2007 (S.I. 2007/2869)](https://www.legislation.gov.uk/uksi/2007/2869), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2007/2869/regulation/1/3), [5](https://www.legislation.gov.uk/uksi/2007/2869/regulation/5)

@@ -20,13 +20,13 @@ summary: ''
 
 *Extent: E+W+S*
 
-(1)[^key-2ff7c745f6d6ff2f489009e87a708ed3] This regulation applies for the basic condition in section 4(1)(d) of the Act (not receiving education).
+(1)[^c-2ff7c745f6d6ff2f489009e87a708ed3] This regulation applies for the basic condition in section 4(1)(d) of the Act (not receiving education).
 
-(1A) A qualifying young person is to be treated as receiving education, unless the person is participating in a relevant training scheme[^key-b1038492f7183ab9d136980eb533db23].
+(1A) A qualifying young person is to be treated as receiving education, unless the person is participating in a relevant training scheme[^c-b1038492f7183ab9d136980eb533db23].
 
 (1B) In paragraph (1A)
 
-- “relevant training scheme” means—[^key-314c18be44f52d8103c6234a99aa5074]
+- “relevant training scheme” means—[^c-314c18be44f52d8103c6234a99aa5074]
   - (a) a traineeship, or
   - (b) a course or scheme which—
     - (i) comprises education or training designed to assist a claimant to gain the skills needed to obtain paid work (or more paid work or better-paid work);
@@ -36,12 +36,12 @@ summary: ''
 - “traineeship means a course which—
   - (a) is funded (in whole or in part) by, or under arrangements made by, the—
     - (i) Secretary of State under section 14 of the Education Act 2002, or
-    - (ii) Chief Executive of Education and Skills Funding[^key-d4d6abade525d6575c0e3f33f6ce4f46];
+    - (ii) Chief Executive of Education and Skills Funding[^c-d4d6abade525d6575c0e3f33f6ce4f46];
   - (b) lasts no more than 6 months;
   - (c) includes training to help prepare the participant for work and a work experience placement; and
   - (d) is open to persons who on the first day of the course have reached the age of 16 but not 25;
 
-(2) Except in circumstances where paragraph (1A) applies[^key-7e431a64e82168781f7145317d3d85ab] “**receiving education**” means—
+(2) Except in circumstances where paragraph (1A) applies[^c-7e431a64e82168781f7145317d3d85ab] “**receiving education**” means—
 
 - (a) undertaking a full-time course of advanced education; or
 - (b) undertaking any other full-time course of study or training at an educational establishment for which a student loan or grant is provided for the person's maintenance.
@@ -59,12 +59,12 @@ summary: ''
 
 ## Annotations
 
-[^key-2ff7c745f6d6ff2f489009e87a708ed3]: Textual amendment: Reg. 12(1)-(1B) substituted for reg. 12(1) (27.3.2015) by [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/336/regulation/4/a)
+[^c-2ff7c745f6d6ff2f489009e87a708ed3]: Textual amendment: Reg. 12(1)-(1B) substituted for reg. 12(1) (27.3.2015) by [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [4(a)](https://www.legislation.gov.uk/uksi/2015/336/regulation/4/a)
 
-[^key-b1038492f7183ab9d136980eb533db23]: Textual amendment: Words in reg. 12(1A) substituted (6.11.2017) by [The Social Security (Qualifying Young Persons Participating in Relevant Training Schemes) (Amendment) Regulations 2017 (S.I. 2017/987)](https://www.legislation.gov.uk/uksi/2017/987), [regs. 1](https://www.legislation.gov.uk/uksi/2017/987/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2017/987/regulation/4/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/987/regulation/6))
+[^c-b1038492f7183ab9d136980eb533db23]: Textual amendment: Words in reg. 12(1A) substituted (6.11.2017) by [The Social Security (Qualifying Young Persons Participating in Relevant Training Schemes) (Amendment) Regulations 2017 (S.I. 2017/987)](https://www.legislation.gov.uk/uksi/2017/987), [regs. 1](https://www.legislation.gov.uk/uksi/2017/987/regulation/1), [4(2)(a)](https://www.legislation.gov.uk/uksi/2017/987/regulation/4/2/a) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/987/regulation/6))
 
-[^key-314c18be44f52d8103c6234a99aa5074]: Textual amendment: Words in reg. 12(1B) inserted (6.11.2017) by [The Social Security (Qualifying Young Persons Participating in Relevant Training Schemes) (Amendment) Regulations 2017 (S.I. 2017/987)](https://www.legislation.gov.uk/uksi/2017/987), [regs. 1](https://www.legislation.gov.uk/uksi/2017/987/regulation/1), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2017/987/regulation/4/2/b/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/987/regulation/6))
+[^c-314c18be44f52d8103c6234a99aa5074]: Textual amendment: Words in reg. 12(1B) inserted (6.11.2017) by [The Social Security (Qualifying Young Persons Participating in Relevant Training Schemes) (Amendment) Regulations 2017 (S.I. 2017/987)](https://www.legislation.gov.uk/uksi/2017/987), [regs. 1](https://www.legislation.gov.uk/uksi/2017/987/regulation/1), [4(2)(b)(i)](https://www.legislation.gov.uk/uksi/2017/987/regulation/4/2/b/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2017/987/regulation/6))
 
-[^key-d4d6abade525d6575c0e3f33f6ce4f46]: Textual amendment: Words in reg. 12(1B) substituted (6.11.2017) by [The Social Security (Qualifying Young Persons Participating in Relevant Training Schemes) (Amendment) Regulations 2017 (S.I. 2017/987)](https://www.legislation.gov.uk/uksi/2017/987), [regs. 1](https://www.legislation.gov.uk/uksi/2017/987/regulation/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/987/regulation/4/2/b/ii)
+[^c-d4d6abade525d6575c0e3f33f6ce4f46]: Textual amendment: Words in reg. 12(1B) substituted (6.11.2017) by [The Social Security (Qualifying Young Persons Participating in Relevant Training Schemes) (Amendment) Regulations 2017 (S.I. 2017/987)](https://www.legislation.gov.uk/uksi/2017/987), [regs. 1](https://www.legislation.gov.uk/uksi/2017/987/regulation/1), [4(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2017/987/regulation/4/2/b/ii)
 
-[^key-7e431a64e82168781f7145317d3d85ab]: Textual amendment: Words in reg. 12(2) substituted (27.3.2015) by [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/336/regulation/4/b)
+[^c-7e431a64e82168781f7145317d3d85ab]: Textual amendment: Words in reg. 12(2) substituted (27.3.2015) by [The Social Security (Traineeships and Qualifying Young Persons) Amendment Regulations 2015 (S.I. 2015/336)](https://www.legislation.gov.uk/uksi/2015/336), [regs. 1](https://www.legislation.gov.uk/uksi/2015/336/regulation/1), [4(b)](https://www.legislation.gov.uk/uksi/2015/336/regulation/4/b)

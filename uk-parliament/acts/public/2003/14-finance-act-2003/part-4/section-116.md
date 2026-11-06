@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116. Meaning of “residential property”[^key-2345bf0c5dad9eaa04ad72cf54e9ec34][^c5522361]
+## 116. Meaning of “residential property”[^c-2345bf0c5dad9eaa04ad72cf54e9ec34][^c5522361]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,15 +59,15 @@ summary: ''
 
 (8) The Treasury may by order—
 
-- (a)[^key-fecb356e699a892a9dd8778fd596b63a] amend subsections (2) and (3) so as to change or clarify the cases where use of a building is, or is not to be, use of a building as a dwelling for the purposes of subsection (1);
+- (a)[^c-fecb356e699a892a9dd8778fd596b63a] amend subsections (2) and (3) so as to change or clarify the cases where use of a building is, or is not to be, use of a building as a dwelling for the purposes of subsection (1);
 - (b) amend or repeal subsection (7) and the reference to that subsection in subsection (1).
 
 Any such order may contain such incidental, supplementary, consequential or transitional provision as appears to the Treasury to be necessary or expedient.
 
 ## Annotations
 
-[^key-2345bf0c5dad9eaa04ad72cf54e9ec34]: Modification: Pt. 4 modified (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 194(8)-(12)](https://www.legislation.gov.uk/ukpga/2013/29/section/194/8)
+[^c-2345bf0c5dad9eaa04ad72cf54e9ec34]: Modification: Pt. 4 modified (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 194(8)-(12)](https://www.legislation.gov.uk/ukpga/2013/29/section/194/8)
 
 [^c5522361]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, Sch. 19 para. 1(1)
 
-[^key-fecb356e699a892a9dd8778fd596b63a]: Modification: S. 116(8)(a) modified (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 114(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/114/2)
+[^c-fecb356e699a892a9dd8778fd596b63a]: Modification: S. 116(8)(a) modified (17.7.2013) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 114(2)](https://www.legislation.gov.uk/ukpga/2013/29/section/114/2)

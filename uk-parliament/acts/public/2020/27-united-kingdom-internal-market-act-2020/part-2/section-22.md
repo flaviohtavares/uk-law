@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 22. Duty to review the use of Part 2 amendment powers[^key-c5fee7c3526b7562b27529458eff98f2]
+## 22. Duty to review the use of Part 2 amendment powers[^c-c5fee7c3526b7562b27529458eff98f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c5fee7c3526b7562b27529458eff98f2]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2020/27/section/22) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/b)
+[^c-c5fee7c3526b7562b27529458eff98f2]: Commencement: [S. 22](https://www.legislation.gov.uk/ukpga/2020/27/section/22) in force at 31.12.2020 by [S.I. 2020/1621](https://www.legislation.gov.uk/uksi/2020/1621), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2020/1621/regulation/2/b)

@@ -44,15 +44,15 @@ Coming into operation
 
 To be laid before Parliament
 
-The Lord Chancellor makes the following Rules in exercise of the powers conferred on him by section 13(1) of the Charities Act (Northern Ireland) 2008[^f00001].[^key-351bb981bf6b4af67608a58857266f59]
+The Lord Chancellor makes the following Rules in exercise of the powers conferred on him by section 13(1) of the Charities Act (Northern Ireland) 2008[^f00001].[^c-351bb981bf6b4af67608a58857266f59]
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-8a85963263d8d9b19f10e89ed66e2c8f]
+### 1. Citation and commencement[^c-8a85963263d8d9b19f10e89ed66e2c8f]
 
 These Rules may be cited as the Charity Tribunal Rules (Northern Ireland) 2010 and shall come into operation on 1st April 2010.
 
-### 2. Interpretation[^key-e57c58386506c123514f0cac348b1351]
+### 2. Interpretation[^c-e57c58386506c123514f0cac348b1351]
 
 (1) A reference in these Rules to a rule by number alone means the rule so numbered in these Rules.
 
@@ -91,7 +91,7 @@ These Rules may be cited as the Charity Tribunal Rules (Northern Ireland) 2010 a
 
 ## PART 2 — General matters in appeals and applications
 
-### 3. Directions[^key-eb9bb122ade0660cf00df5a818b17f9a]
+### 3. Directions[^c-eb9bb122ade0660cf00df5a818b17f9a]
 
 (1) The Tribunal may at any time give directions to—
 
@@ -133,7 +133,7 @@ These Rules may be cited as the Charity Tribunal Rules (Northern Ireland) 2010 a
 
 (13) The Tribunal must not vary or set aside a direction without first giving the party who requested the direction an opportunity to oppose that action.
 
-### 4. Application for permission to make a late appeal or application[^key-3f77073e843bee0ce1934ecd7f575980]
+### 4. Application for permission to make a late appeal or application[^c-3f77073e843bee0ce1934ecd7f575980]
 
 Where an appellant has made a request under rule 17(8) to the Tribunal for a direction under rule 3 to allow an appeal or application to be made after the time limit for doing so has expired, the Tribunal must consider—
 
@@ -141,7 +141,7 @@ Where an appellant has made a request under rule 17(8) to the Tribunal for a dir
 - (b) when the appellant became aware of the Commission’s final decision; and
 - (c) when the appellant became aware of the right to make the appeal or application and of the time limit for making the appeal or application.
 
-### 5. Powers of Tribunal to strike out etc.[^key-84d80b5d9b2622f561336e61cb962e83]
+### 5. Powers of Tribunal to strike out etc.[^c-84d80b5d9b2622f561336e61cb962e83]
 
 (1) The Tribunal may regulate its own procedure and may, if it thinks fit order any appeal notice, response, response document, supplementary statement or representation to be struck out at any stage of the proceedings on the ground that it—
 
@@ -151,7 +151,7 @@ Where an appellant has made a request under rule 17(8) to the Tribunal for a dir
 
 (2) Before making any order under paragraph (1), the Tribunal must provide an opportunity for the party against whom it is proposed that the order should be made, to make representations against the making of the order.
 
-### 6. Failure to comply[^key-63282239f8b4e9a43cb1566736013fc9]
+### 6. Failure to comply[^c-63282239f8b4e9a43cb1566736013fc9]
 
 (1) The Tribunal may take any one or more of the steps in paragraph (2) in respect of a party, where that party has, without reasonable excuse, failed to comply—
 
@@ -165,7 +165,7 @@ Where an appellant has made a request under rule 17(8) to the Tribunal for a dir
 
 (3) The Tribunal must not take any of the steps under this rule in respect of a party unless it has given that party an opportunity to make representations against the taking of any such steps.
 
-### 7. Irregularities[^key-f774a10d17ecc3e022cce38c2e9042cb]
+### 7. Irregularities[^c-f774a10d17ecc3e022cce38c2e9042cb]
 
 (1) Any irregularity that arises before the Tribunal has reached its decision, resulting from failure to comply with any provision of these Rules or of any direction of the Tribunal, will not of itself render the proceedings void.
 
@@ -173,15 +173,15 @@ Where an appellant has made a request under rule 17(8) to the Tribunal for a dir
 
 (3) Mistakes in any document recording a direction or decision, or errors arising in such a document from an accidental slip or omission, may be corrected by a certificate signed by the Tribunal.
 
-### 8. Signature of documents[^key-fd2680a04364945baf482d66cb9c3df5]
+### 8. Signature of documents[^c-fd2680a04364945baf482d66cb9c3df5]
 
 Any requirement in these Rules or in a direction of the Tribunal for a document to be signed by a person is satisfied, in the case of a document which is sent electronically in accordance with these Rules or with a direction of the Tribunal, by that person producing the name using a computer or other mechanical means.
 
-### 9. Calculation of time[^key-265c01084adb7bc7e4b62f71a2451e47]
+### 9. Calculation of time[^c-265c01084adb7bc7e4b62f71a2451e47]
 
 Where the time prescribed for doing any act under these Rules expires on a day which is not a working day, the act is done on time if done on the next working day.
 
-### 10. Sending of notices[^key-c47b84c389bd60257adc5a6a943b3bbd]
+### 10. Sending of notices[^c-c47b84c389bd60257adc5a6a943b3bbd]
 
 (1) Subject to paragraph (4), any document that is required to be sent under these Rules may only be sent—
 
@@ -216,7 +216,7 @@ Where the time prescribed for doing any act under these Rules expires on a day w
 
 (7) The Tribunal may direct that service of any documents under these Rules may be dispensed with and, in those circumstances, may make such consequential directions as it deems appropriate.
 
-### 11. Orders against a vexatious litigant[^key-3dbda4ef0e832aaa8b934f8e19e64255]
+### 11. Orders against a vexatious litigant[^c-3dbda4ef0e832aaa8b934f8e19e64255]
 
 (1) The Tribunal may make an order where a person has persistently initiated proceedings before the Tribunal which are without merit.
 
@@ -248,7 +248,7 @@ Where the time prescribed for doing any act under these Rules expires on a day w
 - (a) on the papers; and
 - (b) promptly, after having considered any representations made under paragraph (9).
 
-### 12. Consolidation of appeals or applications[^key-84117bf2fbdea212b28df99c5965f8b5]
+### 12. Consolidation of appeals or applications[^c-84117bf2fbdea212b28df99c5965f8b5]
 
 Where two or more appeal notices have been filed, the Tribunal may direct that the appeals or the applications or any particular issue raised in the appeals or applications be consolidated or heard together—
 
@@ -256,7 +256,7 @@ Where two or more appeal notices have been filed, the Tribunal may direct that t
 - (b) in respect of separate issues in the same matter; or
 - (c) which involve the same or similar issues.
 
-### 13. Pre-hearing review[^key-fa1cc87b5a4154bc2b6560d0a6a33732]
+### 13. Pre-hearing review[^c-fa1cc87b5a4154bc2b6560d0a6a33732]
 
 (1) Where the Tribunal directs that it is appropriate to hold a pre-hearing review of the appeal or the application, unless the parties consent to shorter notice, it must give the parties not less than 14 days’ notice of the time and place of the pre-hearing review.
 
@@ -265,7 +265,7 @@ Where two or more appeal notices have been filed, the Tribunal may direct that t
 - (a) the Tribunal must give all directions appearing necessary or desirable to securing the just, expeditious and economical conduct of the appeal or the application; and
 - (b) the Tribunal must endeavour to secure that the parties make all such admissions and agreements as they ought reasonably to have made in relation to the proceedings.
 
-### 14. Preliminary questions[^key-91d0b1df47488b1f48f7e217196b6646]
+### 14. Preliminary questions[^c-91d0b1df47488b1f48f7e217196b6646]
 
 (1) The Tribunal may direct that any preliminary question of fact or law which appears to be in issue in relation to the appeal or the application, be determined at a preliminary hearing.
 
@@ -280,7 +280,7 @@ Where two or more appeal notices have been filed, the Tribunal may direct that t
 
 (5) Where the Tribunal determines the preliminary question without an oral hearing under paragraph (4), it must not at the same time dispose of the appeal or the application unless the parties have agreed in writing to dispose of the appeal or application without an oral hearing.
 
-### 15. Exceptions to disclosure[^key-4961311e3b424c0335dcd684d9ac8aac]
+### 15. Exceptions to disclosure[^c-4961311e3b424c0335dcd684d9ac8aac]
 
 (1) A party is not required to allow for the inspection of any document in a list under these Rules where inspection could not be compelled in a civil trial in Northern Ireland.
 
@@ -297,7 +297,7 @@ Where two or more appeal notices have been filed, the Tribunal may direct that t
 - (a) require that the document be produced to the Tribunal together with a statement of the reasons why it should not be included on a list or inspected as the case may be; and
 - (b) without disclosing the document, invite any other person to make representations.
 
-### 16. Provision of copy documents[^key-0993e82886453d643e6ec6d4d20f7c5e]
+### 16. Provision of copy documents[^c-0993e82886453d643e6ec6d4d20f7c5e]
 
 Without prejudice to rule 15, a party who has filed a list under rule 18(4)(a), 19(3) or 20(1) must, no later than 7 days from the date of the request of any other party—
 
@@ -306,7 +306,7 @@ Without prejudice to rule 15, a party who has filed a list under rule 18(4)(a), 
 
 ## PART 3 — Initiating an appeal or application
 
-### 17. Appeal notice[^key-49767955375fa69ab4c030067e47335c]
+### 17. Appeal notice[^c-49767955375fa69ab4c030067e47335c]
 
 (1) An appeal or application must be made by way of an appeal notice signed, dated and filed by an appellant.
 
@@ -367,7 +367,7 @@ Without prejudice to rule 15, a party who has filed a list under rule 18(4)(a), 
 - (a) take the steps in paragraphs (12) in relation to the appeal or the application; and
 - (b) inform the parties of the Tribunal’s decision relating to the request for directions under paragraph (8).
 
-### 18. Commission’s response[^key-4191e1ad18a68b320228518ae7933b60]
+### 18. Commission’s response[^c-4191e1ad18a68b320228518ae7933b60]
 
 (1) The Commission must file a response to the appeal notice under rule 17.
 
@@ -411,7 +411,7 @@ Without prejudice to rule 15, a party who has filed a list under rule 18(4)(a), 
 
 (10) Where a request under paragraphs (7) or (8) has been determined, the Tribunal must send the parties the decision (including the particulars of the direction) and specify the date on which the decision is being sent.
 
-### 19. Appellant’s reply[^key-c930f0155e70588a3271ad87d76e7812]
+### 19. Appellant’s reply[^c-c930f0155e70588a3271ad87d76e7812]
 
 (1) An appellant must file a written reply so that it is received by the Tribunal within 28 days of the date on which the Commission sent the documents under rule 18(6) to the appellant.
 
@@ -445,7 +445,7 @@ Without prejudice to rule 15, a party who has filed a list under rule 18(4)(a), 
 
 (10) The Tribunal when sending the documents in paragraph (9) must specify the date on which they are being sent.
 
-### 20. Secondary disclosure by the Commission[^key-00901bab13b335d730ad668d57487f89]
+### 20. Secondary disclosure by the Commission[^c-00901bab13b335d730ad668d57487f89]
 
 (1) Except where rule 15(2) applies, following the receipt of an appellant’s reply, the Commission must file a list of any further material—
 
@@ -458,7 +458,7 @@ Without prejudice to rule 15, a party who has filed a list under rule 18(4)(a), 
 
 ## PART 4 — Hearings of appeals and applications
 
-### 21. Fixing the time and place of the hearing of the appeal or application[^key-e9808461b5071cfb3e8642628a593a4d]
+### 21. Fixing the time and place of the hearing of the appeal or application[^c-e9808461b5071cfb3e8642628a593a4d]
 
 (1) Unless the parties otherwise agree or the Tribunal otherwise directs, the Tribunal must give the parties not less than 28 days’ notice of the time and place of the hearing of the appeal or application.
 
@@ -467,7 +467,7 @@ Without prejudice to rule 15, a party who has filed a list under rule 18(4)(a), 
 - (a) whether the appeal or the application should be dealt with as a matter of urgency; and
 - (b) the convenience and the ability of any appellant to attend a hearing, which is to be heard at short notice.
 
-### 22. Intervention by Attorney General in appeals and applications[^key-9b78e4d54cfb2e5b70b2973e650edbf9]
+### 22. Intervention by Attorney General in appeals and applications[^c-9b78e4d54cfb2e5b70b2973e650edbf9]
 
 (1) Where the Attorney General has received papers sent in accordance with section 15(2) and (3) of the Act, the Attorney General must notify the Tribunal whether the Attorney General intends to intervene in the proceedings not later than 28 days after the date on which the Attorney General received those papers.
 
@@ -479,7 +479,7 @@ Without prejudice to rule 15, a party who has filed a list under rule 18(4)(a), 
 
 (5) When the Attorney General intervenes in proceedings under paragraph (2) the Attorney General may request under rule 3 that the Tribunal send all the necessary papers in the proceedings to the Attorney General.
 
-### 23. Requests to the Attorney General for assistance[^key-adeeefd4e24dbbdd71d1ec2a16a83da7]
+### 23. Requests to the Attorney General for assistance[^c-adeeefd4e24dbbdd71d1ec2a16a83da7]
 
 (1) A request by the Tribunal to the Attorney General to argue any question in the proceedings pursuant to section 15(4)(b) of the Act must be made in accordance with this rule.
 
@@ -497,7 +497,7 @@ Without prejudice to rule 15, a party who has filed a list under rule 18(4)(a), 
 
 (6) The Tribunal must give the parties, and the Attorney General if the Attorney General agrees to argue the question, not less than 28 days’ notice of a directions hearing under paragraph (5), unless the parties to that hearing agree to shorter notice.
 
-### 24. Withdrawal of appeal or application and unopposed appeals or applications[^key-6448a470ec526ad33b2b20d01527b705]
+### 24. Withdrawal of appeal or application and unopposed appeals or applications[^c-6448a470ec526ad33b2b20d01527b705]
 
 (1) An appellant may withdraw his or her appeal or application, and in accordance with paragraphs (a) and (b) the Tribunal must dismiss that party’s appeal or application where it is withdrawn—
 
@@ -513,14 +513,14 @@ Without prejudice to rule 15, a party who has filed a list under rule 18(4)(a), 
 
 (4) When the Tribunal dismisses or allows a party’s appeal or application under this rule it may award costs in accordance with rule 33.
 
-### 25. Determination without oral hearing[^key-cb0dc2f2fab877d10491e18c3f67c23e]
+### 25. Determination without oral hearing[^c-cb0dc2f2fab877d10491e18c3f67c23e]
 
 The Tribunal may determine an appeal, an application, or any particular issue arising in an appeal or application, without an oral hearing if—
 
 - (a) the parties agree in writing; or
 - (b) the issue concerns a request for directions.
 
-### 26. Public hearings and directions for private hearings[^key-56142868c143cff5d78e00a1368c064c]
+### 26. Public hearings and directions for private hearings[^c-56142868c143cff5d78e00a1368c064c]
 
 (1) In this rule, “hearing” means any oral hearing under these Rules except for a directions hearing that takes place without notice to the other parties under rule 15(2).
 
@@ -547,7 +547,7 @@ The Tribunal may determine an appeal, an application, or any particular issue ar
 
 (11) Where a direction is given under paragraph (10), the Tribunal must state what information (if any), is to be entered in the register or removed from it.
 
-### 27. Representation at hearings[^key-720b581cc4db9f019b48703834f98d95]
+### 27. Representation at hearings[^c-720b581cc4db9f019b48703834f98d95]
 
 (1) Subject to paragraph (2), the parties may appear at a hearing and may be assisted or represented by any person, whether or not that person is a legal representative.
 
@@ -557,7 +557,7 @@ The Tribunal may determine an appeal, an application, or any particular issue ar
 
 (4) A party must make all reasonable enquiries to find out whether an order has been made in the circumstances set out in paragraph (3) and inform the Tribunal in accordance with that paragraph.
 
-### 28. Adjournment of hearing[^key-4bc5e70e265911477c2bbda7827d9a82]
+### 28. Adjournment of hearing[^c-4bc5e70e265911477c2bbda7827d9a82]
 
 (1) Where a party requests an adjournment of an appeal or an application hearing, that party must—
 
@@ -572,7 +572,7 @@ The Tribunal may determine an appeal, an application, or any particular issue ar
 - (a) must not be more than 28 days after the original hearing date, unless there are exceptional circumstances that mean the appeal or the application cannot be justly heard within that time; and
 - (b) must not be later than is strictly required by the circumstances necessitating the adjournment.
 
-### 29. Procedure at hearings[^key-eda447c0bb637afec9d38b1f760f79c4]
+### 29. Procedure at hearings[^c-eda447c0bb637afec9d38b1f760f79c4]
 
 (1) Subject to the Act and these Rules, the Tribunal must conduct all hearings under these Rules in such manner as it considers most suitable to the clarification of the issues before it, and generally to the just, expeditious and economical determination of the proceedings.
 
@@ -589,7 +589,7 @@ The Tribunal may determine an appeal, an application, or any particular issue ar
 - (a) whether or not it would be admissible in a civil trial in Northern Ireland; and
 - (b) whether or not it was available to the Commission when the Commission’s final decision was made.
 
-### 30. Failure to attend a hearing[^key-7e04a27241cd0caa89318851be1da380]
+### 30. Failure to attend a hearing[^c-7e04a27241cd0caa89318851be1da380]
 
 (1) If a party fails to attend or be represented at any hearing of which that party has been duly notified, the Tribunal may, if it is satisfied that there is no sufficient reason for the absence—
 
@@ -602,7 +602,7 @@ The Tribunal may determine an appeal, an application, or any particular issue ar
 
 (4) When a request is made under paragraph (3) the Tribunal may set the decision aside if the party making the request shows good reason for failure to attend or be represented.
 
-### 31. Publication of decisions of the Tribunal[^key-c7767b1009f498c296216200fb3d730f]
+### 31. Publication of decisions of the Tribunal[^c-c7767b1009f498c296216200fb3d730f]
 
 (1) The Tribunal must publish its decisions and the reasons for those decisions except where it considers that there are circumstances that make it necessary to impose restrictions on publication.
 
@@ -628,7 +628,7 @@ The Tribunal may determine an appeal, an application, or any particular issue ar
 
 (7) Before reaching a decision on whether to impose restrictions on publication the Tribunal must invite the parties, and any other person that the Tribunal considers necessary, to make representations.
 
-### 32. Notification of the Tribunal’s decision[^key-638ad50e694ccfa9dcd162e2ef49f096]
+### 32. Notification of the Tribunal’s decision[^c-638ad50e694ccfa9dcd162e2ef49f096]
 
 (1) The Tribunal must as soon as may be practicable—
 
@@ -640,7 +640,7 @@ The Tribunal may determine an appeal, an application, or any particular issue ar
 - (a) the right to appeal from the Tribunal to the Court; and
 - (b) the time within which, and the place at which, an application for permission to appeal is to be made.
 
-### 33. Costs[^key-47dd93fad721829993f96d49728fbfa9]
+### 33. Costs[^c-47dd93fad721829993f96d49728fbfa9]
 
 (1) No costs order may be made by the Tribunal under section 13(6) or (7) of the Act or under rule 24 without first giving the paying party an opportunity to make representations against the making of an order.
 
@@ -649,7 +649,7 @@ The Tribunal may determine an appeal, an application, or any particular issue ar
 - (a) that an amount fixed by the Tribunal must be paid by the paying party to the receiving party; or
 - (b) that the costs are to be assessed by the Tribunal on such basis as it specifies.
 
-### 34. Review of the Tribunal’s decision[^key-2a9113086e67385df689836d71e0c81f]
+### 34. Review of the Tribunal’s decision[^c-2a9113086e67385df689836d71e0c81f]
 
 (1) If, at the request of a party or at the Tribunal’s own initiative, the Tribunal is satisfied that its decision was wrongly made as a result of an administrative error on the part of the Tribunal or staff, it may review that decision.
 
@@ -678,7 +678,7 @@ The Tribunal may determine an appeal, an application, or any particular issue ar
 
 ## PART 5 — Appeals from the Tribunal in appeals and applications
 
-### 35. Permission to appeal to the Court[^key-3d7cc9d7f67d8d269313662348f19e26]
+### 35. Permission to appeal to the Court[^c-3d7cc9d7f67d8d269313662348f19e26]
 
 (1) A request to the Tribunal for permission to appeal to the Court may be made by the applicant—
 
@@ -692,7 +692,7 @@ The Tribunal may determine an appeal, an application, or any particular issue ar
 - (b) identify the decision of the Tribunal to which the request relates; and
 - (c) state the grounds on which the applicant intends to rely before the Court.
 
-### 36. Decision as to permission to appeal to the Court[^key-3a710c0141595a8d8735b08a9a78d026]
+### 36. Decision as to permission to appeal to the Court[^c-3a710c0141595a8d8735b08a9a78d026]
 
 (1) The request for permission to appeal to the Court must be decided on the papers unless the Tribunal considers that special circumstances make a hearing desirable.
 
@@ -702,7 +702,7 @@ The Tribunal may determine an appeal, an application, or any particular issue ar
 
 (4) If the Tribunal refuses the request, the notification to the applicant under paragraph (3) must inform the applicant of the right to seek permission to appeal from the Court.
 
-### 37. Appeal remitted by the Court for rehearing[^key-3e7ee70b85aa2d381b05b9f170726ae7]
+### 37. Appeal remitted by the Court for rehearing[^c-3e7ee70b85aa2d381b05b9f170726ae7]
 
 Where the Court remits an appeal to the Tribunal for rehearing and determination (“the rehearing”)—
 
@@ -711,7 +711,7 @@ Where the Court remits an appeal to the Tribunal for rehearing and determination
 
 ## PART 6 — Special provisions for references
 
-### 38. Notice of reference[^key-9cd0bfb4931f2b075f38d921165f667b]
+### 38. Notice of reference[^c-9cd0bfb4931f2b075f38d921165f667b]
 
 (1) For the purposes of this Part, and where these Rules are stated as applying to the proceedings in a reference, “party” means the referrer or a respondent.
 
@@ -744,7 +744,7 @@ Where the Court remits an appeal to the Tribunal for rehearing and determination
 
 (7) The Tribunal will notify in writing those persons specified in a direction in paragraph (6).
 
-### 39. Respondent’s notice[^key-e2b3721b5631ac2ae4d273228bb7b488]
+### 39. Respondent’s notice[^c-e2b3721b5631ac2ae4d273228bb7b488]
 
 (1) The Tribunal will send to the referrer and to persons selected as being respondents under rule 38(6) a copy of the reference notice.
 
@@ -766,7 +766,7 @@ Where the Court remits an appeal to the Tribunal for rehearing and determination
 
 (6) At the same time as filing the respondent’s notice and the list in paragraph (4) the respondent must send to the referrer and any other respondent a copy of the notice.
 
-### 40. Procedure at the reference hearing[^key-e8200083bd2212a3512778e3b0decf76]
+### 40. Procedure at the reference hearing[^c-e8200083bd2212a3512778e3b0decf76]
 
 (1) After the notice of reference and the respondent’s notice have been filed, the Tribunal must convene a directions hearing.
 
@@ -808,88 +808,88 @@ Part 6 makes special provision for references that are brought by the Attorney G
 
 [^f00001]: Footnote: [2008 (c. 12)](https://www.legislation.gov.uk/nia/2008/12)
 
-[^key-351bb981bf6b4af67608a58857266f59]: Modification: Rules applied (with modifications) (retrospective to 27.3.2009) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [s. 1(7)(8)(12)](https://www.legislation.gov.uk/nia/2022/11/section/1/7)
+[^c-351bb981bf6b4af67608a58857266f59]: Modification: Rules applied (with modifications) (retrospective to 27.3.2009) by [Charities Act (Northern Ireland) 2022 (c. 11)](https://www.legislation.gov.uk/nia/2022/11), [s. 1(7)(8)(12)](https://www.legislation.gov.uk/nia/2022/11/section/1/7)
 
-[^key-8a85963263d8d9b19f10e89ed66e2c8f]: Commencement: Rule 1 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-8a85963263d8d9b19f10e89ed66e2c8f]: Commencement: Rule 1 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-e57c58386506c123514f0cac348b1351]: Commencement: Rule 2 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-e57c58386506c123514f0cac348b1351]: Commencement: Rule 2 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
 [^f00002]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-eb9bb122ade0660cf00df5a818b17f9a]: Commencement: Rule 3 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-eb9bb122ade0660cf00df5a818b17f9a]: Commencement: Rule 3 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-3f77073e843bee0ce1934ecd7f575980]: Commencement: Rule 4 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-3f77073e843bee0ce1934ecd7f575980]: Commencement: Rule 4 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-84d80b5d9b2622f561336e61cb962e83]: Commencement: Rule 5 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-84d80b5d9b2622f561336e61cb962e83]: Commencement: Rule 5 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-63282239f8b4e9a43cb1566736013fc9]: Commencement: Rule 6 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-63282239f8b4e9a43cb1566736013fc9]: Commencement: Rule 6 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-f774a10d17ecc3e022cce38c2e9042cb]: Commencement: Rule 7 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-f774a10d17ecc3e022cce38c2e9042cb]: Commencement: Rule 7 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-fd2680a04364945baf482d66cb9c3df5]: Commencement: Rule 8 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-fd2680a04364945baf482d66cb9c3df5]: Commencement: Rule 8 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-265c01084adb7bc7e4b62f71a2451e47]: Commencement: Rule 9 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-265c01084adb7bc7e4b62f71a2451e47]: Commencement: Rule 9 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-c47b84c389bd60257adc5a6a943b3bbd]: Commencement: Rule 10 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-c47b84c389bd60257adc5a6a943b3bbd]: Commencement: Rule 10 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-3dbda4ef0e832aaa8b934f8e19e64255]: Commencement: Rule 11 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-3dbda4ef0e832aaa8b934f8e19e64255]: Commencement: Rule 11 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-84117bf2fbdea212b28df99c5965f8b5]: Commencement: Rule 12 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-84117bf2fbdea212b28df99c5965f8b5]: Commencement: Rule 12 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-fa1cc87b5a4154bc2b6560d0a6a33732]: Commencement: Rule 13 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-fa1cc87b5a4154bc2b6560d0a6a33732]: Commencement: Rule 13 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-91d0b1df47488b1f48f7e217196b6646]: Commencement: Rule 14 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-91d0b1df47488b1f48f7e217196b6646]: Commencement: Rule 14 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-4961311e3b424c0335dcd684d9ac8aac]: Commencement: Rule 15 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-4961311e3b424c0335dcd684d9ac8aac]: Commencement: Rule 15 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-0993e82886453d643e6ec6d4d20f7c5e]: Commencement: Rule 16 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-0993e82886453d643e6ec6d4d20f7c5e]: Commencement: Rule 16 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-49767955375fa69ab4c030067e47335c]: Commencement: Rule 17 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-49767955375fa69ab4c030067e47335c]: Commencement: Rule 17 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-4191e1ad18a68b320228518ae7933b60]: Commencement: Rule 18 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-4191e1ad18a68b320228518ae7933b60]: Commencement: Rule 18 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-c930f0155e70588a3271ad87d76e7812]: Commencement: Rule 19 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-c930f0155e70588a3271ad87d76e7812]: Commencement: Rule 19 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-00901bab13b335d730ad668d57487f89]: Commencement: Rule 20 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-00901bab13b335d730ad668d57487f89]: Commencement: Rule 20 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-e9808461b5071cfb3e8642628a593a4d]: Commencement: Rule 21 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-e9808461b5071cfb3e8642628a593a4d]: Commencement: Rule 21 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-9b78e4d54cfb2e5b70b2973e650edbf9]: Commencement: Rule 22 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-9b78e4d54cfb2e5b70b2973e650edbf9]: Commencement: Rule 22 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-adeeefd4e24dbbdd71d1ec2a16a83da7]: Commencement: Rule 23 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-adeeefd4e24dbbdd71d1ec2a16a83da7]: Commencement: Rule 23 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-6448a470ec526ad33b2b20d01527b705]: Commencement: Rule 24 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-6448a470ec526ad33b2b20d01527b705]: Commencement: Rule 24 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-cb0dc2f2fab877d10491e18c3f67c23e]: Commencement: Rule 25 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-cb0dc2f2fab877d10491e18c3f67c23e]: Commencement: Rule 25 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-56142868c143cff5d78e00a1368c064c]: Commencement: Rule 26 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-56142868c143cff5d78e00a1368c064c]: Commencement: Rule 26 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-720b581cc4db9f019b48703834f98d95]: Commencement: Rule 27 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-720b581cc4db9f019b48703834f98d95]: Commencement: Rule 27 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
 [^f00003]: Footnote: [1978 c 23](https://www.legislation.gov.uk/ukpga/1978/23)
 
-[^key-4bc5e70e265911477c2bbda7827d9a82]: Commencement: Rule 28 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-4bc5e70e265911477c2bbda7827d9a82]: Commencement: Rule 28 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-eda447c0bb637afec9d38b1f760f79c4]: Commencement: Rule 29 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-eda447c0bb637afec9d38b1f760f79c4]: Commencement: Rule 29 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-7e04a27241cd0caa89318851be1da380]: Commencement: Rule 30 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-7e04a27241cd0caa89318851be1da380]: Commencement: Rule 30 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-c7767b1009f498c296216200fb3d730f]: Commencement: Rule 31 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-c7767b1009f498c296216200fb3d730f]: Commencement: Rule 31 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-638ad50e694ccfa9dcd162e2ef49f096]: Commencement: Rule 32 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-638ad50e694ccfa9dcd162e2ef49f096]: Commencement: Rule 32 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-47dd93fad721829993f96d49728fbfa9]: Commencement: Rule 33 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-47dd93fad721829993f96d49728fbfa9]: Commencement: Rule 33 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-2a9113086e67385df689836d71e0c81f]: Commencement: Rule 34 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-2a9113086e67385df689836d71e0c81f]: Commencement: Rule 34 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-3d7cc9d7f67d8d269313662348f19e26]: Commencement: Rule 35 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-3d7cc9d7f67d8d269313662348f19e26]: Commencement: Rule 35 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-3a710c0141595a8d8735b08a9a78d026]: Commencement: Rule 36 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-3a710c0141595a8d8735b08a9a78d026]: Commencement: Rule 36 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-3e7ee70b85aa2d381b05b9f170726ae7]: Commencement: Rule 37 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-3e7ee70b85aa2d381b05b9f170726ae7]: Commencement: Rule 37 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-9cd0bfb4931f2b075f38d921165f667b]: Commencement: Rule 38 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-9cd0bfb4931f2b075f38d921165f667b]: Commencement: Rule 38 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-e2b3721b5631ac2ae4d273228bb7b488]: Commencement: Rule 39 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-e2b3721b5631ac2ae4d273228bb7b488]: Commencement: Rule 39 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
 
-[^key-e8200083bd2212a3512778e3b0decf76]: Commencement: Rule 40 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)
+[^c-e8200083bd2212a3512778e3b0decf76]: Commencement: Rule 40 in operation at 1.4.2010, see [rule 1](https://www.legislation.gov.uk/nisr/2010/77/rule/1)

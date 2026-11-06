@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 99. Annual report on wider redress actions[^key-7c75d5ebf6fca284bc6ff49c13a57c19]
+## 99. Annual report on wider redress actions[^c-7c75d5ebf6fca284bc6ff49c13a57c19]
 
 *Extent: S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7c75d5ebf6fca284bc6ff49c13a57c19]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2021/15/section/99) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-7c75d5ebf6fca284bc6ff49c13a57c19]: Commencement: [S. 99](https://www.legislation.gov.uk/asp/2021/15/section/99) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

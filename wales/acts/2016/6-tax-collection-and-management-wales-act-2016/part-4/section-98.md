@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 98. Protection for journalistic material[^key-6797f190cf33d5714891959656e5f110]
+## 98. Protection for journalistic material[^c-6797f190cf33d5714891959656e5f110]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6797f190cf33d5714891959656e5f110]: Commencement: S. 98 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)
+[^c-6797f190cf33d5714891959656e5f110]: Commencement: S. 98 in force at 25.1.2018 by [S.I. 2018/33](https://www.legislation.gov.uk/wsi/2018/33), [art. 2(c)](https://www.legislation.gov.uk/wsi/2018/33/article/2/c)

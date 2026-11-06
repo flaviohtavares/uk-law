@@ -31,7 +31,7 @@ summary: ''
 
 Fire And Rescue Services, Wales
 
-The Fire and Rescue Services (National Framework) (Wales) (Revision) Order 2015 (revoked)[^key-3bed144a848ddd7b81fea80e6bccf60f]
+The Fire and Rescue Services (National Framework) (Wales) (Revision) Order 2015 (revoked)[^c-3bed144a848ddd7b81fea80e6bccf60f]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 1 January 2016
 
-[^key-3bed144a848ddd7b81fea80e6bccf60f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bed144a848ddd7b81fea80e6bccf60f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-3bed144a848ddd7b81fea80e6bccf60f]
+## 1. Title, commencement and application[^c-3bed144a848ddd7b81fea80e6bccf60f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The Fire and Rescue National Framework[^key-3bed144a848ddd7b81fea80e6bccf60f]
+## 2. The Fire and Rescue National Framework[^c-3bed144a848ddd7b81fea80e6bccf60f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3bed144a848ddd7b81fea80e6bccf60f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bed144a848ddd7b81fea80e6bccf60f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-3bed144a848ddd7b81fea80e6bccf60f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bed144a848ddd7b81fea80e6bccf60f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3bed144a848ddd7b81fea80e6bccf60f]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1931) revoked (1.1.2016) by [The Fire and Rescue Services (National Framework) (Wales) (Revision) (No. 2) Order 2015 (S.I. 2015/1991)](https://www.legislation.gov.uk/wsi/2015/1991), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1991/article/1/1), [2](https://www.legislation.gov.uk/wsi/2015/1991/article/2)
+[^c-3bed144a848ddd7b81fea80e6bccf60f]: Textual amendment: [Order](https://www.legislation.gov.uk/wsi/2015/1931) revoked (1.1.2016) by [The Fire and Rescue Services (National Framework) (Wales) (Revision) (No. 2) Order 2015 (S.I. 2015/1991)](https://www.legislation.gov.uk/wsi/2015/1991), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2015/1991/article/1/1), [2](https://www.legislation.gov.uk/wsi/2015/1991/article/2)

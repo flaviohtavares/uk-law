@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Duty to help to secure accommodation for homeless applicants[^key-f136fd9e20b78406f7876af9c59294e0]
+## 73. Duty to help to secure accommodation for homeless applicants[^c-f136fd9e20b78406f7876af9c59294e0]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f136fd9e20b78406f7876af9c59294e0]: Commencement: [S. 73](https://www.legislation.gov.uk/anaw/2014/7/section/73) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 24](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/24)
+[^c-f136fd9e20b78406f7876af9c59294e0]: Commencement: [S. 73](https://www.legislation.gov.uk/anaw/2014/7/section/73) in force at 27.4.2015 by [S.I. 2015/1272](https://www.legislation.gov.uk/wsi/2015/1272), [art. 2](https://www.legislation.gov.uk/wsi/2015/1272/article/2), [Sch. para. 24](https://www.legislation.gov.uk/wsi/2015/1272/schedule/paragraph/24)

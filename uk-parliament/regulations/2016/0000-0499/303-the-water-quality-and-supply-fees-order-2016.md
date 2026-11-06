@@ -46,7 +46,7 @@ Coming into force
 
 1st April 2016
 
-The Secretary of State makes the following Order in exercise of the powers conferred by section 86ZA(1) and (4) of the Water Industry Act 1991[^f00001].[^key-320969523c1183d4062bf04c295682f4]
+The Secretary of State makes the following Order in exercise of the powers conferred by section 86ZA(1) and (4) of the Water Industry Act 1991[^f00001].[^c-320969523c1183d4062bf04c295682f4]
 
 ## 1. Citation and commencement
 
@@ -98,7 +98,7 @@ Table
 
 | *1*<br>*Function* | *2*<br>*Fee* |
 | --- | --- |
-| - (a) Checking that the sampling and analysis arrangements for water samples collected by the relevant water supplier comply with—<br>  - (i) the Water Supply (Water Quality) Regulations 2016[^key-3e54fb717deae50f731b00336d898de1];<br>  - (ii) section 68 of the 1991 Act (duties of water undertakers and licensed water suppliers with respect to water quality)[^f00010]; and<br>  - (iii) any requirements for sample data required to be provided under section 202 of the 1991 Act (duties of undertakers to furnish the Secretary of State with information)[^f00011]. | £55 for each group of 100 water sample results received and checked. |
+| - (a) Checking that the sampling and analysis arrangements for water samples collected by the relevant water supplier comply with—<br>  - (i) the Water Supply (Water Quality) Regulations 2016[^c-3e54fb717deae50f731b00336d898de1];<br>  - (ii) section 68 of the 1991 Act (duties of water undertakers and licensed water suppliers with respect to water quality)[^f00010]; and<br>  - (iii) any requirements for sample data required to be provided under section 202 of the 1991 Act (duties of undertakers to furnish the Secretary of State with information)[^f00011]. | £55 for each group of 100 water sample results received and checked. |
 | - (a) Checking that—<br>  - (i) the relevant water supplier’s water supply management arrangements comply with—<br>    - (aa) the Water Supply (Water Quality) Regulations 2016;<br>    - (bb) section 37 of the 1991 Act (general duty to maintain water supply system, etc.)[^f00012];<br>    - (cc) section 68 of the 1991 Act; and<br>  - (ii) the relevant water supplier has complied with any requirement of the Secretary of State to furnish information about these arrangements under section 202 of the 1991 Act. | £65 for each complete hour during which an inspector exercises the function. |
 | - (a) In relation to a relevant water supplier—<br>  - (i) investigating an event, incident, emergency or other matter where any of those matters indicate that that water supplier may not have complied with—<br>    - (aa) the Water Supply (Water Quality) Regulations 2016;<br>    - (bb) section 37 of the 1991 Act;<br>    - (cc) section 68 of the 1991 Act; and<br>  - (ii) checking that such an event, incident, emergency or other matter has been notified by the relevant water supplier in compliance with any requirement of the Secretary of State to furnish such information under section 202 of the 1991 Act. | £65 for each complete hour during which an inspector exercises the function. |
 | - (a) In relation to a relevant water supplier—<br>  - (i) investigating a consumer complaint about the quality or sufficiency of water where the complaint indicates that that water supplier may not have complied with—<br>    - (aa) Water Supply (Water Quality) Regulations 2016;<br>    - (bb) section 37 of the 1991 Act;<br>    - (cc) section 68 of the 1991 Act; and<br>  - (ii) checking that any requirement of the Secretary of State to furnish information about such complaints under section 202 of the 1991 Act has been complied with. | £65 for each complete hour during which an inspector exercises the function. |
@@ -125,7 +125,7 @@ An impact assessment has not been produced for this Order as it merely transpose
 
 [^f00001]: Footnote: [1991 c.56](https://www.legislation.gov.uk/ukpga/1991/56). Section 86ZA was inserted by section 40 of the Water Act [2014 (c.21)](https://www.legislation.gov.uk/ukpga/2014/21).
 
-[^key-320969523c1183d4062bf04c295682f4]: Modification: Order applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2), [5(v)](https://www.legislation.gov.uk/uksi/2020/214/article/5/v)
+[^c-320969523c1183d4062bf04c295682f4]: Modification: Order applied (Isles of Scilly) (27.3.2020) by [The Isles of Scilly (Application of Water Legislation) Order 2020 (S.I. 2020/214)](https://www.legislation.gov.uk/uksi/2020/214), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2020/214/article/2), [5(v)](https://www.legislation.gov.uk/uksi/2020/214/article/5/v)
 
 [^f00002]: Footnote: Section 86(1) was amended by sections 57 and 101 of, and Schedules 8 and 9 to, the Water Act [2003 (c.37)](https://www.legislation.gov.uk/ukpga/2003/37).
 
@@ -141,7 +141,7 @@ An impact assessment has not been produced for this Order as it merely transpose
 
 [^f00008]: Footnote: [2015 c.26](https://www.legislation.gov.uk/ukpga/2015/26).
 
-[^key-3e54fb717deae50f731b00336d898de1]: Textual amendment: Words in Sch. substituted (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2016/614/schedule/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
+[^c-3e54fb717deae50f731b00336d898de1]: Textual amendment: Words in Sch. substituted (27.6.2016) by [The Water Supply (Water Quality) Regulations 2016 (S.I. 2016/614)](https://www.legislation.gov.uk/uksi/2016/614), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/1), [Sch. 6](https://www.legislation.gov.uk/uksi/2016/614/schedule/6) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2016/614/regulation/1/3))
 
 [^f00010]: Footnote: Section 68 was amended by Schedule 8 to the Water Act 2003.
 

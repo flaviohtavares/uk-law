@@ -32,7 +32,7 @@ summary: ''
 
 Electronic Communications
 
-The 3400–3800 MHz Frequency Band (Management) Regulations 2008 (revoked)[^key-33ba19697686310735c2adc4edfd8aff]
+The 3400–3800 MHz Frequency Band (Management) Regulations 2008 (revoked)[^c-33ba19697686310735c2adc4edfd8aff]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 20th November 2008
 
-[^key-33ba19697686310735c2adc4edfd8aff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33ba19697686310735c2adc4edfd8aff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-33ba19697686310735c2adc4edfd8aff]
+## 1. Citation, commencement and interpretation[^c-33ba19697686310735c2adc4edfd8aff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2.[^key-33ba19697686310735c2adc4edfd8aff]
+## 2.[^c-33ba19697686310735c2adc4edfd8aff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The 3400 – 3800 MHz frequency band[^key-33ba19697686310735c2adc4edfd8aff]
+## 3. The 3400 – 3800 MHz frequency band[^c-33ba19697686310735c2adc4edfd8aff]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-33ba19697686310735c2adc4edfd8aff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33ba19697686310735c2adc4edfd8aff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-33ba19697686310735c2adc4edfd8aff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-33ba19697686310735c2adc4edfd8aff]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-33ba19697686310735c2adc4edfd8aff]: Textual amendment: Regulations revoked (6.5.2016) by [The 1452-1492 MHz and 3400-3800 MHz Frequency Bands (Management) Regulations 2016 (S.I. 2016/495)](https://www.legislation.gov.uk/uksi/2016/495), [regs. 1](https://www.legislation.gov.uk/uksi/2016/495/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/495/regulation/3)
+[^c-33ba19697686310735c2adc4edfd8aff]: Textual amendment: Regulations revoked (6.5.2016) by [The 1452-1492 MHz and 3400-3800 MHz Frequency Bands (Management) Regulations 2016 (S.I. 2016/495)](https://www.legislation.gov.uk/uksi/2016/495), [regs. 1](https://www.legislation.gov.uk/uksi/2016/495/regulation/1), [3](https://www.legislation.gov.uk/uksi/2016/495/regulation/3)

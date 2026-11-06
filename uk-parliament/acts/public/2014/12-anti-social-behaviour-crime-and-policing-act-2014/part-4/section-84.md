@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 84. Appeals[^key-357e6688e55a52b809033dacd2336965]
+## 84. Appeals[^c-357e6688e55a52b809033dacd2336965]
 
 *Extent: E+W*
 
@@ -37,7 +37,7 @@ summary: ''
 - (b) a decision not to extend a closure order made on the application of that authority;
 - (c) a decision (under section 81) not to order the continuation in force of a closure notice issued by that authority.
 
-(3A)[^key-77b6300f7572e34c98a393e973a1ceb3] An RSH provider may appeal against—
+(3A)[^c-77b6300f7572e34c98a393e973a1ceb3] An RSH provider may appeal against—
 
 - (a) a decision not to make a closure order applied for by that provider;
 - (b) a decision not to extend a closure order made on the application of that provider;
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-357e6688e55a52b809033dacd2336965]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2014/12/section/84) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
+[^c-357e6688e55a52b809033dacd2336965]: Commencement: [S. 84](https://www.legislation.gov.uk/ukpga/2014/12/section/84) in force at 20.10.2014 by [S.I. 2014/2590](https://www.legislation.gov.uk/uksi/2014/2590), [art. 3(c)](https://www.legislation.gov.uk/uksi/2014/2590/article/3/c)
 
-[^key-77b6300f7572e34c98a393e973a1ceb3]: Textual amendment: [S. 84(3A)](https://www.legislation.gov.uk/ukpga/2014/12/section/84/3A) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2026/20/schedule/2/paragraph/9); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/h)
+[^c-77b6300f7572e34c98a393e973a1ceb3]: Textual amendment: [S. 84(3A)](https://www.legislation.gov.uk/ukpga/2014/12/section/84/3A) inserted (26.10.2026) by [Crime and Policing Act 2026 (c. 20)](https://www.legislation.gov.uk/ukpga/2026/20), [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/ukpga/2026/20/schedule/2/paragraph/9); [S.I. 2026/960](https://www.legislation.gov.uk/uksi/2026/960), [reg. 4(h)](https://www.legislation.gov.uk/uksi/2026/960/regulation/4/h)

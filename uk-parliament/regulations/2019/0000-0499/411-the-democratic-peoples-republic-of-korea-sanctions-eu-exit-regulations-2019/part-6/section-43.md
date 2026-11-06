@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Goods and technology for armed forces of the DPRK[^key-6b3bca385485477aee3e2de884eee538][^key-32f9e5e297fdfed9471e160bd8d645c4]
+## 43. Goods and technology for armed forces of the DPRK[^c-6b3bca385485477aee3e2de884eee538][^c-32f9e5e297fdfed9471e160bd8d645c4]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6b3bca385485477aee3e2de884eee538]: Commencement: Reg. 43 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-6b3bca385485477aee3e2de884eee538]: Commencement: Reg. 43 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-32f9e5e297fdfed9471e160bd8d645c4]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2019/411/regulation/43) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32f9e5e297fdfed9471e160bd8d645c4]: Commencement: [Reg. 43](https://www.legislation.gov.uk/uksi/2019/411/regulation/43) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

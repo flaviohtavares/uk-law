@@ -32,14 +32,14 @@ summary: ''
 
 but see subsection (7).
 
-(2A)[^key-bea48546d72aa8aeaf80b78c97a54d09] No deduction is allowed under this section in respect of employee benefit contributions for a period of account which starts more than 5 years after the end of the period of account in which the contributions are made.
+(2A)[^c-bea48546d72aa8aeaf80b78c97a54d09] No deduction is allowed under this section in respect of employee benefit contributions for a period of account which starts more than 5 years after the end of the period of account in which the contributions are made.
 
 (3) No deduction is allowed for the contributions for the period except so far as—
 
 - (a) qualifying benefits are provided, or qualifying expenses are paid, out of the contributions during the period or within 9 months from the end of it, or
 - (b) if the making of the contributions is itself the provision of qualifying benefits, the contributions are made during the period or within 9 months from the end of it.
 
-(3A)[^key-d532a424ca7e49ea24b7f80751b977dd] Subsection (3) is subject to subsections (2A) and (3B).
+(3A)[^c-d532a424ca7e49ea24b7f80751b977dd] Subsection (3) is subject to subsections (2A) and (3B).
 
 (3B) Where subsection (4C) applies, no deduction is allowed for an amount in respect of the contributions for the period except so far as the amount is a qualifying amount (see subsection (4D)).
 
@@ -48,7 +48,7 @@ but see subsection (7).
 - (a) qualifying benefits are provided out of the contributions before the end of the subsequent period, or
 - (b) if the making of the contributions is itself the provision of qualifying benefits, the contributions are made before the end of the subsequent period.
 
-(4A)[^key-f1ed1bc889034f8c2cffb2bcfe788d65] Subsection (4) is subject to subsections (2A) and (4B).
+(4A)[^c-f1ed1bc889034f8c2cffb2bcfe788d65] Subsection (4) is subject to subsections (2A) and (4B).
 
 (4B) Where subsection (4C) applies, an amount disallowed under subsection (3) is allowed as a deduction for a subsequent period only so far as it is a qualifying amount.
 
@@ -63,7 +63,7 @@ but see subsection (7).
 
 (4F) For the purposes of subsections (4C) and (4E), “employment income tax charge” and “NIC charge” have the meaning given by section 40(7).
 
-(4G)[^key-53dc0147dfc01deda2f75d306c9c6fc1] Subsection (4H) applies where—
+(4G)[^c-53dc0147dfc01deda2f75d306c9c6fc1] Subsection (4H) applies where—
 
 - (a) a deduction would, apart from this section, be allowable for an amount (the “remuneration amount”) in respect of employees' remuneration, and
 - (b) in consequence of the payment of the employees' remuneration, employee benefit contributions are made, or are to be made, in respect of the remuneration amount.
@@ -84,16 +84,16 @@ For the purposes of paragraph (c) “**qualifying overseas pension scheme**” a
 (7) Provision corresponding to that made by this section is made by—
 
 - (a) sections 38 to 44 (in relation to trades, professions and vocations), and
-- (b) sections 272 and 272ZA[^key-489fa10dac7e6663a1c44e7db553f021] (in relation to property businesses).
+- (b) sections 272 and 272ZA[^c-489fa10dac7e6663a1c44e7db553f021] (in relation to property businesses).
 
 ## Annotations
 
-[^key-bea48546d72aa8aeaf80b78c97a54d09]: Textual amendment: [S. 866(2A)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/2A) inserted (16.11.2017) (with effect in accordance with s. 36(11) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 36(7)](https://www.legislation.gov.uk/ukpga/2017/32/section/36/7)
+[^c-bea48546d72aa8aeaf80b78c97a54d09]: Textual amendment: [S. 866(2A)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/2A) inserted (16.11.2017) (with effect in accordance with s. 36(11) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 36(7)](https://www.legislation.gov.uk/ukpga/2017/32/section/36/7)
 
-[^key-d532a424ca7e49ea24b7f80751b977dd]: Textual amendment: [S. 866(3A)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/3B) inserted (16.11.2017) (with effect in accordance with s. 36(11) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 36(8)](https://www.legislation.gov.uk/ukpga/2017/32/section/36/8)
+[^c-d532a424ca7e49ea24b7f80751b977dd]: Textual amendment: [S. 866(3A)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/3A)[(3B)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/3B) inserted (16.11.2017) (with effect in accordance with s. 36(11) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 36(8)](https://www.legislation.gov.uk/ukpga/2017/32/section/36/8)
 
-[^key-f1ed1bc889034f8c2cffb2bcfe788d65]: Textual amendment: [S. 866(4A)-(4F)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/4A) inserted (16.11.2017) (with effect in accordance with s. 36(11) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 36(9)](https://www.legislation.gov.uk/ukpga/2017/32/section/36/9)
+[^c-f1ed1bc889034f8c2cffb2bcfe788d65]: Textual amendment: [S. 866(4A)-(4F)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/4A) inserted (16.11.2017) (with effect in accordance with s. 36(11) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 36(9)](https://www.legislation.gov.uk/ukpga/2017/32/section/36/9)
 
-[^key-53dc0147dfc01deda2f75d306c9c6fc1]: Textual amendment: [S. 866(4G)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/4G)[(4H)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/4H) inserted (16.11.2017) (with effect in accordance with s. 36(12) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 36(10)](https://www.legislation.gov.uk/ukpga/2017/32/section/36/10)
+[^c-53dc0147dfc01deda2f75d306c9c6fc1]: Textual amendment: [S. 866(4G)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/4G)[(4H)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/4H) inserted (16.11.2017) (with effect in accordance with s. 36(12) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 36(10)](https://www.legislation.gov.uk/ukpga/2017/32/section/36/10)
 
-[^key-489fa10dac7e6663a1c44e7db553f021]: Textual amendment: Words in [s. 866(7)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/7/b) substituted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/35)
+[^c-489fa10dac7e6663a1c44e7db553f021]: Textual amendment: Words in [s. 866(7)(b)](https://www.legislation.gov.uk/ukpga/2005/5/section/866/7/b) substituted (16.11.2017) (with effect in accordance with Sch. 2 para. 64 of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [Sch. 2 para. 35](https://www.legislation.gov.uk/ukpga/2017/32/schedule/2/paragraph/35)

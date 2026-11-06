@@ -24,7 +24,7 @@ Regulation 5(a)
 
 ### PART 1 — Monitoring for TSE
 
-#### 1. Notification of the body of a goat for the purpose of monitoring under Article 6 of the EU TSE Regulation[^key-087bbeec8f37f9e8bee281d29eebb6c2]
+#### 1. Notification of the body of a goat for the purpose of monitoring under Article 6 of the EU TSE Regulation[^c-087bbeec8f37f9e8bee281d29eebb6c2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -135,10 +135,10 @@ and failure to do so is an offence.
 
 (3) For the purposes of this paragraph and paragraphs 8 and 9, “**approved testing laboratory**” means—
 
-- (a) a laboratory approved under this paragraph; or[^key-3eda8a3e662d80015260150bf5a73e74]
+- (a) a laboratory approved under this paragraph; or[^c-3eda8a3e662d80015260150bf5a73e74]
 - (b) a laboratory approved under corresponding legislation elsewhere in the United Kingdom;
-- (c)[^key-046e4cae9deded21f6597a1a06932df6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^key-1039c34a9e103fe2fe8a7ff4af461bd9]...
-- (d)[^key-d812183e1d5e47743bb310b959111d0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-046e4cae9deded21f6597a1a06932df6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . [^c-1039c34a9e103fe2fe8a7ff4af461bd9]...
+- (d)[^c-d812183e1d5e47743bb310b959111d0b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### 11. Approved sampling sites
 
@@ -146,7 +146,7 @@ and failure to do so is an offence.
 
 (2) For the purposes of this Schedule, an “**approved sampling site**” means a sampling site approved under this paragraph or a sampling site in another part of the United Kingdom approved by the competent authority in that part of the United Kingdom to carry out sampling under the EU TSE Regulation.
 
-#### 12. Slaughter of bovine animals[^key-bf77e85c6d4ffcd564fbb32f8655b4c8]
+#### 12. Slaughter of bovine animals[^c-bf77e85c6d4ffcd564fbb32f8655b4c8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -188,12 +188,12 @@ in accordance with point 6.4 of that Part; and for the purposes of this sub-para
 
 - (a) a sheep, goat or deer has died, or has been killed, other than for human consumption; and
 - (b) either—
-  - (i) the death or killing occurred at premises approved, or required to be approved, under Articles[^key-63490357de719749b486dda9267864c1] 24 and 44 of Regulation (EC) No 1069/2009; or
+  - (i) the death or killing occurred at premises approved, or required to be approved, under Articles[^c-63490357de719749b486dda9267864c1] 24 and 44 of Regulation (EC) No 1069/2009; or
   - (ii) the carcase of the sheep, goat or deer has been taken to those premises,
 
 the occupier of the premises must comply with any direction given by the Scottish Ministers requiring the carcase to be sampled at the premises.
 
-(3) In relation to any deer selected for monitoring for TSE [^key-58ca5e10fded304e30adce6c50e68477]..., the occupier of a slaughterhouse, hide market or tannery must—
+(3) In relation to any deer selected for monitoring for TSE [^c-58ca5e10fded304e30adce6c50e68477]..., the occupier of a slaughterhouse, hide market or tannery must—
 
 - (a) retain the carcase and all parts of the body (including the blood and the hide) pending receipt of the test result; and
 - (b) in the event of a positive result, immediately dispose of the carcase and all parts of the body (including the blood and the hide) in accordance with point 7.4 of Part II of Chapter A of Annex III to the EU TSE Regulation.
@@ -213,54 +213,54 @@ the occupier of the premises must comply with any direction given by the Scottis
 
 (4) Compensation under this paragraph is not payable in any other case.
 
-### PART 2 — Contents of the RMOP[^key-8c0309046429b8bbdb70b828acc3cbba]
+### PART 2 — Contents of the RMOP[^c-8c0309046429b8bbdb70b828acc3cbba]
 
 **No longer in force.**
 
-#### 16. Animal identification and separation[^key-8c0309046429b8bbdb70b828acc3cbba]
+#### 16. Animal identification and separation[^c-8c0309046429b8bbdb70b828acc3cbba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 17. Brain stem sampling[^key-8c0309046429b8bbdb70b828acc3cbba]
+#### 17. Brain stem sampling[^c-8c0309046429b8bbdb70b828acc3cbba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 18. Correlation of sample to carcase and all other parts of the body[^key-8c0309046429b8bbdb70b828acc3cbba]
+#### 18. Correlation of sample to carcase and all other parts of the body[^c-8c0309046429b8bbdb70b828acc3cbba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 19. Retention of carcases[^key-8c0309046429b8bbdb70b828acc3cbba]
+#### 19. Retention of carcases[^c-8c0309046429b8bbdb70b828acc3cbba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 20. Retention of parts of the body[^key-8c0309046429b8bbdb70b828acc3cbba]
+#### 20. Retention of parts of the body[^c-8c0309046429b8bbdb70b828acc3cbba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 21. Disposal before receipt of the result[^key-8c0309046429b8bbdb70b828acc3cbba]
+#### 21. Disposal before receipt of the result[^c-8c0309046429b8bbdb70b828acc3cbba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### 22. Other measures following sampling[^key-8c0309046429b8bbdb70b828acc3cbba]
+#### 22. Other measures following sampling[^c-8c0309046429b8bbdb70b828acc3cbba]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-087bbeec8f37f9e8bee281d29eebb6c2]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/1) omitted (23.5.2019) by virtue of [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2019/118/regulation/6/2/a)
+[^c-087bbeec8f37f9e8bee281d29eebb6c2]: Textual amendment: [Sch. 2 para. 1](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/1) omitted (23.5.2019) by virtue of [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [6(2)(a)](https://www.legislation.gov.uk/ssi/2019/118/regulation/6/2/a)
 
-[^key-3eda8a3e662d80015260150bf5a73e74]: Textual amendment: Word in [sch. 2 para. 10(3)](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/10/3) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(3)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3eda8a3e662d80015260150bf5a73e74]: Textual amendment: Word in [sch. 2 para. 10(3)](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/10/3) inserted (31.12.2020) by [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(3)(a)(i)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/3/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-046e4cae9deded21f6597a1a06932df6]: Textual amendment: [Sch. 2 para. 10(3)(c)](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/10/3/c) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-046e4cae9deded21f6597a1a06932df6]: Textual amendment: [Sch. 2 para. 10(3)(c)](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/10/3/c) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(3)(a)(ii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/3/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1039c34a9e103fe2fe8a7ff4af461bd9]: Textual amendment: Word in [sch. 2 para. 10(3)](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/10/3) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/3/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1039c34a9e103fe2fe8a7ff4af461bd9]: Textual amendment: Word in [sch. 2 para. 10(3)](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/10/3) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(3)(a)(iii)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/3/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-d812183e1d5e47743bb310b959111d0b]: Textual amendment: [Sch. 2 para. 10(3)(d)](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/10/3/d) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/3/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d812183e1d5e47743bb310b959111d0b]: Textual amendment: [Sch. 2 para. 10(3)(d)](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/10/3/d) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(3)(a)(iv)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/3/a/iv); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf77e85c6d4ffcd564fbb32f8655b4c8]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/12) omitted (23.5.2019) by virtue of [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2019/118/regulation/6/2/b)
+[^c-bf77e85c6d4ffcd564fbb32f8655b4c8]: Textual amendment: [Sch. 2 para. 12](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/12) omitted (23.5.2019) by virtue of [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [6(2)(b)](https://www.legislation.gov.uk/ssi/2019/118/regulation/6/2/b)
 
-[^key-63490357de719749b486dda9267864c1]: Textual amendment: Words in [sch. 2 para. 14(2)(b)(i)](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/14/2/b/i) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 55](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/55)
+[^c-63490357de719749b486dda9267864c1]: Textual amendment: Words in [sch. 2 para. 14(2)(b)(i)](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/14/2/b/i) substituted (4.3.2011) by [The Animal By-Products (Enforcement) (Scotland) Regulations 2011 (S.S.I. 2011/171)](https://www.legislation.gov.uk/ssi/2011/171), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2011/171/regulation/1/1), [sch. 2 para. 55](https://www.legislation.gov.uk/ssi/2011/171/schedule/2/paragraph/55)
 
-[^key-58ca5e10fded304e30adce6c50e68477]: Textual amendment: Words in [sch. 2 para. 14(3)](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/14/3) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(3)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-58ca5e10fded304e30adce6c50e68477]: Textual amendment: Words in [sch. 2 para. 14(3)](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/paragraph/14/3) omitted (31.12.2020) by virtue of [The Animal Health (EU Exit) (Scotland) (Amendment) Regulations 2019 (S.S.I. 2019/71)](https://www.legislation.gov.uk/ssi/2019/71), [regs. 1(1)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/1/1/b), [27(3)(b)](https://www.legislation.gov.uk/ssi/2019/71/regulation/27/3/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8c0309046429b8bbdb70b828acc3cbba]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/part/2) omitted (23.5.2019) by virtue of [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2019/118/regulation/6/3)
+[^c-8c0309046429b8bbdb70b828acc3cbba]: Textual amendment: [Sch. 2 Pt. 2](https://www.legislation.gov.uk/ssi/2010/177/schedule/2/part/2) omitted (23.5.2019) by virtue of [The Transmissible Spongiform Encephalopathies (Scotland) Amendment Regulations 2019 (S.S.I. 2019/118)](https://www.legislation.gov.uk/ssi/2019/118), [regs. 1](https://www.legislation.gov.uk/ssi/2019/118/regulation/1), [6(3)](https://www.legislation.gov.uk/ssi/2019/118/regulation/6/3)

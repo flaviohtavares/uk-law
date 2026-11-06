@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Effect of registers[^key-2b09be1af284f8e28932f3fe334ead73]
+## 21. Effect of registers[^c-2b09be1af284f8e28932f3fe334ead73]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-2b09be1af284f8e28932f3fe334ead73]: Commencement: Art. 21 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-2b09be1af284f8e28932f3fe334ead73]: Commencement: Art. 21 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
 
 [^f00028]: Footnote: Section 13 was substituted by the 2000 Act, Schedule 1, paragraph 6.
 

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The measures in article 31A and Schedules 5 and 8[^key-28d28ffde418f8fe703b856365e005cd] apply in respect of a surveillance zone, subject to paragraph (3) and articles 33 and 35.
+(1) The measures in article 31A and Schedules 5 and 8[^c-28d28ffde418f8fe703b856365e005cd] apply in respect of a surveillance zone, subject to paragraph (3) and articles 33 and 35.
 
 (2) Paragraph (3) applies if the National Assembly has carried out a risk assessment and does not believe that the disapplication of any measure under that paragraph would endanger disease control.
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-28d28ffde418f8fe703b856365e005cd]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/wsi/2006/2927/article/31/1) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [22](https://www.legislation.gov.uk/wsi/2025/1357/article/22)
+[^c-28d28ffde418f8fe703b856365e005cd]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/wsi/2006/2927/article/31/1) substituted (31.12.2025) by [The Avian Influenza and Influenza of Avian Origin in Mammals (Wales) (Amendment) Order 2025 (S.I. 2025/1357)](https://www.legislation.gov.uk/wsi/2025/1357), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2025/1357/article/1/2), [22](https://www.legislation.gov.uk/wsi/2025/1357/article/22)

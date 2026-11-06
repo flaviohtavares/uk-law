@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 40. Payment and duration of awards[^key-a9051eacd5d34f1fafefd89f81ce5a35]
+## 40. Payment and duration of awards[^c-a9051eacd5d34f1fafefd89f81ce5a35]
 
 *Extent: N.I.*
 
@@ -44,4 +44,4 @@ a pension or allowance shall be payable for life and shall be discharged by paym
 
 ## Annotations
 
-[^key-a9051eacd5d34f1fafefd89f81ce5a35]: Commencement: Reg. 40 in operation at 25.7.2006 with effect in accordance with reg. 1
+[^c-a9051eacd5d34f1fafefd89f81ce5a35]: Commencement: Reg. 40 in operation at 25.7.2006 with effect in accordance with reg. 1

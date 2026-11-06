@@ -31,7 +31,7 @@ summary: ''
 
 Food
 
-The Honey (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^key-2f3c7e2417cd59a608aa567358cb5f90]
+The Honey (Amendment) Regulations (Northern Ireland) 2008 (revoked)[^c-2f3c7e2417cd59a608aa567358cb5f90]
 
 Made
 
@@ -41,22 +41,22 @@ Coming into operation
 
 14th April 2008
 
-[^key-2f3c7e2417cd59a608aa567358cb5f90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f3c7e2417cd59a608aa567358cb5f90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-2f3c7e2417cd59a608aa567358cb5f90]
+## 1. Citation and commencement[^c-2f3c7e2417cd59a608aa567358cb5f90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Honey Regulations (Northern Ireland) 2003[^key-2f3c7e2417cd59a608aa567358cb5f90]
+## 2. Amendment of the Honey Regulations (Northern Ireland) 2003[^c-2f3c7e2417cd59a608aa567358cb5f90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f3c7e2417cd59a608aa567358cb5f90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f3c7e2417cd59a608aa567358cb5f90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2f3c7e2417cd59a608aa567358cb5f90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2f3c7e2417cd59a608aa567358cb5f90]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2f3c7e2417cd59a608aa567358cb5f90]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/126) revoked (24.6.2015) by [The Honey Regulations (Northern Ireland) 2015 (S.R. 2015/261)](https://www.legislation.gov.uk/nisr/2015/261), [regs. 1](https://www.legislation.gov.uk/nisr/2015/261/regulation/1), [20(1)(c)](https://www.legislation.gov.uk/nisr/2015/261/regulation/20/1/c)
+[^c-2f3c7e2417cd59a608aa567358cb5f90]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2008/126) revoked (24.6.2015) by [The Honey Regulations (Northern Ireland) 2015 (S.R. 2015/261)](https://www.legislation.gov.uk/nisr/2015/261), [regs. 1](https://www.legislation.gov.uk/nisr/2015/261/regulation/1), [20(1)(c)](https://www.legislation.gov.uk/nisr/2015/261/regulation/20/1/c)

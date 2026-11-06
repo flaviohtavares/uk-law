@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Coming into force[^key-48cee4ac885c99bf0ccd046d611a1a7f]
+## 67. Coming into force[^c-48cee4ac885c99bf0ccd046d611a1a7f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-48cee4ac885c99bf0ccd046d611a1a7f]: Commencement: S. 67 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)
+[^c-48cee4ac885c99bf0ccd046d611a1a7f]: Commencement: S. 67 in force at 19.9.2025, see [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1)

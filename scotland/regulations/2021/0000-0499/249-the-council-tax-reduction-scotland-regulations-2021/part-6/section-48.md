@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 48. Surplus earnings[^key-6f6b169c131eb2a661b8cc2c32afbd87]
+## 48. Surplus earnings[^c-6f6b169c131eb2a661b8cc2c32afbd87]
 
 *Extent: S*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f6b169c131eb2a661b8cc2c32afbd87]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2021/249/regulation/48) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-6f6b169c131eb2a661b8cc2c32afbd87]: Commencement: [Reg. 48](https://www.legislation.gov.uk/ssi/2021/249/regulation/48) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
 
 [^f00153]: Footnote: Regulation 54A was inserted by [S.I. 2015/345](https://www.legislation.gov.uk/uksi/2015/345).

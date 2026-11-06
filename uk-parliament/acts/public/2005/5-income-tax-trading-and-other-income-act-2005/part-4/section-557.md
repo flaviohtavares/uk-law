@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 557. Person liable[^key-8abe24ed1c1fbd49de0983c137e8aece]
+## 557. Person liable[^c-8abe24ed1c1fbd49de0983c137e8aece]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8abe24ed1c1fbd49de0983c137e8aece]: Textual amendment: [Pt. 4 Ch. 12](https://www.legislation.gov.uk/ukpga/2005/5/part/4/chapter/12) omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 13(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/13/2)
+[^c-8abe24ed1c1fbd49de0983c137e8aece]: Textual amendment: [Pt. 4 Ch. 12](https://www.legislation.gov.uk/ukpga/2005/5/part/4/chapter/12) omitted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 13(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/13/2)

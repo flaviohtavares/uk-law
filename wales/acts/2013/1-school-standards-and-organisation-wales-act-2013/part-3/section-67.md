@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 67. Further provision about proposals made after a direction under section 66[^key-9040097a808d8a3ddee8a7a9e83de5b8]
+## 67. Further provision about proposals made after a direction under section 66[^c-9040097a808d8a3ddee8a7a9e83de5b8]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9040097a808d8a3ddee8a7a9e83de5b8]: Commencement: S. 67 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(c)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/c)
+[^c-9040097a808d8a3ddee8a7a9e83de5b8]: Commencement: S. 67 in force at 1.10.2013 by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 3(c)](https://www.legislation.gov.uk/wsi/2013/1800/article/3/c)

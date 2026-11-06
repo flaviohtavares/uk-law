@@ -29,7 +29,7 @@ as if it were the same person as the Corporation.
 
 (2) The successor company shall not by virtue of subsection (1) above be regarded as a body falling within section 170(12) of the Taxation of Chargeable Gains Act 1992[^c14436321] (bodies established for carrying on industries or undertakings under national ownership or control).
 
-(3)[^c14436341] For the purposes of Part VI of the [^c14436351]Income and Corporation Taxes Act 1988 (company distributions) and Part 5 of the Corporation Tax Act 2009[^key-cdb75c36a841bae52349aad2e982d345] (loan relationships), any debentures issued in pursuance of section 51 above shall be treated as having been issued for new consideration equal to the principal sum payable under the debenture.
+(3)[^c14436341] For the purposes of Part VI of the [^c14436351]Income and Corporation Taxes Act 1988 (company distributions) and Part 5 of the Corporation Tax Act 2009[^c-cdb75c36a841bae52349aad2e982d345] (loan relationships), any debentures issued in pursuance of section 51 above shall be treated as having been issued for new consideration equal to the principal sum payable under the debenture.
 
 (4)[^c14436361] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -43,6 +43,6 @@ as if it were the same person as the Corporation.
 
 [^c14436351]: Marginal citation: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1).
 
-[^key-cdb75c36a841bae52349aad2e982d345]: Textual amendment: Words in s. 60(3) substituted (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 327](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/327) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-cdb75c36a841bae52349aad2e982d345]: Textual amendment: Words in s. 60(3) substituted (1.4.2009) (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 327](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/327) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
 [^c14436361]: Textual amendment: S. 60(4) repealed (31.7.1998 but without effect in relation to gas levy for the year 1997-98 or any previous year) by [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36), [s. 165](https://www.legislation.gov.uk/ukpga/1998/36/section/165), [Sch. 27 Pt. V(3)](https://www.legislation.gov.uk/ukpga/1998/36/schedule/27/part/V/3) Note 1

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.18. Hearing of petition[^key-f226dc5573bec21b5e76a2dfcd7da55b]
+## 6.18. Hearing of petition[^c-f226dc5573bec21b5e76a2dfcd7da55b]
 
 *Extent: E+W*
 
@@ -24,10 +24,10 @@ summary: ''
 
 (2) The court may, on such terms as it thinks fit, hear the petition at an earlier date, if it appears that the debtor has absconded, or the court is satisfied that it is a proper case for an expedited hearing, or the debtor consents to a hearing within the 14 days.
 
-(3) Any of the following may appear and be heard, that is to say; the petitioning creditor, the debtor , the supervisor of any voluntary arrangement under Part VIII of the Act in force for the debtor[^key-92ba74ec46e4ec476a567219488fe29d] and any creditor who has given notice under Rule 6.23 below.
+(3) Any of the following may appear and be heard, that is to say; the petitioning creditor, the debtor , the supervisor of any voluntary arrangement under Part VIII of the Act in force for the debtor[^c-92ba74ec46e4ec476a567219488fe29d] and any creditor who has given notice under Rule 6.23 below.
 
 ## Annotations
 
-[^key-f226dc5573bec21b5e76a2dfcd7da55b]: Commencement: [Rule 6.18](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.18) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-f226dc5573bec21b5e76a2dfcd7da55b]: Commencement: [Rule 6.18](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.18) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
-[^key-92ba74ec46e4ec476a567219488fe29d]: Textual amendment: Words in [rule 6.18(3)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.18/3) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 96](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/96)
+[^c-92ba74ec46e4ec476a567219488fe29d]: Textual amendment: Words in [rule 6.18(3)](https://www.legislation.gov.uk/uksi/1986/1925/article/6.18/3) inserted (11.1.1988 with application in accordance with rule 3(1)(2)) by [The Insolvency (Amendment) Rules 1987 (S.I. 1987/1919)](https://www.legislation.gov.uk/uksi/1987/1919), [rule 1](https://www.legislation.gov.uk/uksi/1987/1919/article/1), [Sch. para. 96](https://www.legislation.gov.uk/uksi/1987/1919/schedule/paragraph/96)

@@ -73,7 +73,7 @@ Section 39
 
 **7.** (1) Section 173A (the maximum amount raised annually through risk capital schemes requirement) is amended as follows.
 
-(2)[^key-1fe995deb3dd06191df9b5ee9e4d03e4] In subsection (1) for “£2 million” substitute “ £5 million ”.
+(2)[^c-1fe995deb3dd06191df9b5ee9e4d03e4] In subsection (1) for “£2 million” substitute “ £5 million ”.
 
 (3) In subsection (3)—
 
@@ -134,14 +134,14 @@ Section 39
 
 #### Increase in the gross assets limits
 
-**11.**[^key-cadfe381a1e1019427d3c6805f3bc9da] In section 186 (the gross assets requirement)—
+**11.**[^c-cadfe381a1e1019427d3c6805f3bc9da] In section 186 (the gross assets requirement)—
 
 - (a) in subsections (1)(a) and (2)(a), for “£7 million” substitute “ £15 million ”, and
 - (b) in subsections (1)(b) and (2)(b), for “£8 million” substitute “ £16 million ”.
 
 #### Relaxation of restriction on number of employees
 
-**12.**[^key-0cf0f5313170a6bab08fd09dc57d2ec5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-0cf0f5313170a6bab08fd09dc57d2ec5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Subsidised generation or export of electricity
 
@@ -203,7 +203,7 @@ Section 39
 
 #### Powers to amend
 
-**16.**[^key-0a2e69d0e6831dcbf48eb283054dce0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-0a2e69d0e6831dcbf48eb283054dce0d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Disposal of shares
 
@@ -242,7 +242,7 @@ Section 39
 
 #### Commencement and transitional provision
 
-**22.**[^key-02fae4347933002584e7ca90320971d1] (1) The amendments made by paragraphs 2 to 6, 7(1) and (3), 8, 9, 10 and 19 have effect in relation to shares issued on or after 6 April 2012.
+**22.**[^c-02fae4347933002584e7ca90320971d1] (1) The amendments made by paragraphs 2 to 6, 7(1) and (3), 8, 9, 10 and 19 have effect in relation to shares issued on or after 6 April 2012.
 
 (2) But—
 
@@ -257,7 +257,7 @@ Section 39
 
 (2) Those amendments do not have effect in relation to shares issued before 6 April 2012 if the issuing company, or a qualifying 90% subsidiary of that company, first began to carry on activities of the kind mentioned in section 192(1)(ka) of ITA 2007 before that day.
 
-(3)[^key-68280e9b8ca189c5634e12d166632948] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-68280e9b8ca189c5634e12d166632948] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **25.** (1) The amendment made by paragraphs 18 and 21 are to be treated as having come into force on 6 April 2012.
 
@@ -280,7 +280,7 @@ Section 39
 
 #### Maximum annual investment
 
-**29.**[^key-791c358953f91481ffddb19b3be5962f] In paragraph 1 of Schedule 5B to the TCGA 1992 (EIS re-investment relief: application of Schedule), in sub-paragraph (2)(da), for “£2 million” substitute “ £5 million ”.
+**29.**[^c-791c358953f91481ffddb19b3be5962f] In paragraph 1 of Schedule 5B to the TCGA 1992 (EIS re-investment relief: application of Schedule), in sub-paragraph (2)(da), for “£2 million” substitute “ £5 million ”.
 
 #### No disqualifying arrangements
 
@@ -355,16 +355,16 @@ Section 39
 
 ## Annotations
 
-[^key-1fe995deb3dd06191df9b5ee9e4d03e4]: Commencement: [Sch. 7 para. 7(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/7/2) in force at 19.7.2012 for the purposes of the amendment made by that sub-paragraph by [S.I. 2012/1896](https://www.legislation.gov.uk/uksi/2012/1896), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1896/article/2/a)
+[^c-1fe995deb3dd06191df9b5ee9e4d03e4]: Commencement: [Sch. 7 para. 7(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/7/2) in force at 19.7.2012 for the purposes of the amendment made by that sub-paragraph by [S.I. 2012/1896](https://www.legislation.gov.uk/uksi/2012/1896), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1896/article/2/a)
 
-[^key-cadfe381a1e1019427d3c6805f3bc9da]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/11) in force at 19.7.2012 for the purposes of the amendments made by that paragraph by [S.I. 2012/1896](https://www.legislation.gov.uk/uksi/2012/1896), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1896/article/2/b)
+[^c-cadfe381a1e1019427d3c6805f3bc9da]: Commencement: [Sch. 7 para. 11](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/11) in force at 19.7.2012 for the purposes of the amendments made by that paragraph by [S.I. 2012/1896](https://www.legislation.gov.uk/uksi/2012/1896), [art. 2(b)](https://www.legislation.gov.uk/uksi/2012/1896/article/2/b)
 
-[^key-0cf0f5313170a6bab08fd09dc57d2ec5]: Textual amendment: Sch. 7 para. 12 omitted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 20(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/20/2)
+[^c-0cf0f5313170a6bab08fd09dc57d2ec5]: Textual amendment: Sch. 7 para. 12 omitted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 20(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/20/2)
 
-[^key-0a2e69d0e6831dcbf48eb283054dce0d]: Textual amendment: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/16) omitted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 20(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/20/2)
+[^c-0a2e69d0e6831dcbf48eb283054dce0d]: Textual amendment: [Sch. 7 para. 16](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/16) omitted (with effect in accordance with Sch. 5 para. 23 of the amending Act) by virtue of [Finance (No. 2) Act 2015 (c. 33)](https://www.legislation.gov.uk/ukpga/2015/33), [Sch. 5 para. 20(2)](https://www.legislation.gov.uk/ukpga/2015/33/schedule/5/paragraph/20/2)
 
-[^key-02fae4347933002584e7ca90320971d1]: Modification: [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/22) excluded (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 15](https://www.legislation.gov.uk/ukpga/2018/3/section/15)
+[^c-02fae4347933002584e7ca90320971d1]: Modification: [Sch. 7 para. 22](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/22) excluded (15.3.2018) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [s. 15](https://www.legislation.gov.uk/ukpga/2018/3/section/15)
 
-[^key-68280e9b8ca189c5634e12d166632948]: Textual amendment: [Sch. 7 para. 24(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/24/3) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
+[^c-68280e9b8ca189c5634e12d166632948]: Textual amendment: [Sch. 7 para. 24(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/24/3) repealed (1.8.2014) by [Co-operative and Community Benefit Societies Act 2014 (c. 14)](https://www.legislation.gov.uk/ukpga/2014/14), [s. 154](https://www.legislation.gov.uk/ukpga/2014/14/section/154), [Sch. 7](https://www.legislation.gov.uk/ukpga/2014/14/schedule/7) (with [Sch. 5](https://www.legislation.gov.uk/ukpga/2014/14/schedule/5))
 
-[^key-791c358953f91481ffddb19b3be5962f]: Commencement: [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/29) in force at 19.7.2012 for the purposes of the amendment made by that paragraph by [S.I. 2012/1896](https://www.legislation.gov.uk/uksi/2012/1896), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1896/article/2/d)
+[^c-791c358953f91481ffddb19b3be5962f]: Commencement: [Sch. 7 para. 29](https://www.legislation.gov.uk/ukpga/2012/14/schedule/7/paragraph/29) in force at 19.7.2012 for the purposes of the amendment made by that paragraph by [S.I. 2012/1896](https://www.legislation.gov.uk/uksi/2012/1896), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1896/article/2/d)

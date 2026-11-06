@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70. Additional requirements for applications in respect of a particular petition: Northern Ireland[^key-a63be6b6870ca3b57820a8eadb968da5]
+## 70. Additional requirements for applications in respect of a particular petition: Northern Ireland[^c-a63be6b6870ca3b57820a8eadb968da5]
 
 *Extent: N.I.*
 
@@ -66,4 +66,4 @@ and must certify that, to the best of P’s knowledge and belief, the statement 
 
 ## Annotations
 
-[^key-a63be6b6870ca3b57820a8eadb968da5]: Commencement: Reg. 70 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-a63be6b6870ca3b57820a8eadb968da5]: Commencement: Reg. 70 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

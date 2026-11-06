@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 152. Assignment of right to dividend[^key-b237694c1aa3595b5d3101ac619785bd]
+## 152. Assignment of right to dividend[^c-b237694c1aa3595b5d3101ac619785bd]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b237694c1aa3595b5d3101ac619785bd]: Commencement: Rule 152 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-b237694c1aa3595b5d3101ac619785bd]: Commencement: Rule 152 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

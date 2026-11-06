@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.5. Costs on conviction and sentence, etc.[^key-016f0a297d9eaffee33cc614e45cb3e5]
+## 45.5. Costs on conviction and sentence, etc.[^c-016f0a297d9eaffee33cc614e45cb3e5]
 
 *Extent: E+W*
 
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-016f0a297d9eaffee33cc614e45cb3e5]: Commencement: [Rule 45.5](https://www.legislation.gov.uk/uksi/2025/909/rule/45.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-016f0a297d9eaffee33cc614e45cb3e5]: Commencement: [Rule 45.5](https://www.legislation.gov.uk/uksi/2025/909/rule/45.5) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f01077]: Footnote: [1985 c. 23](https://www.legislation.gov.uk/ukpga/1985/23); section 18 was amended by section 15 of, and paragraph 16 of Schedule 2 to, the Criminal Justice Act [1987 (c. 38)](https://www.legislation.gov.uk/ukpga/1987/38), section 168 of, and paragraph 26 of Schedule 9 to, the Criminal Justice and Public Order Act [1994 (c. 33)](https://www.legislation.gov.uk/ukpga/1994/33), sections 69 and 312 of the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44) and section 40 of, and paragraph 41 of Schedule 9 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43A. Grants to Canal & River Trust[^key-fd4585c8f640ae62d814cfd70aca49e8]
+## 43A. Grants to Canal & River Trust[^c-fd4585c8f640ae62d814cfd70aca49e8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The Minister or any other Minister of the Crown may, with the approval of the Tr
 
 ## Annotations
 
-[^key-fd4585c8f640ae62d814cfd70aca49e8]: Textual amendment: [S. 43A](https://www.legislation.gov.uk/ukpga/1968/73/section/43A) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/32) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-fd4585c8f640ae62d814cfd70aca49e8]: Textual amendment: [S. 43A](https://www.legislation.gov.uk/ukpga/1968/73/section/43A) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 32](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/32) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))

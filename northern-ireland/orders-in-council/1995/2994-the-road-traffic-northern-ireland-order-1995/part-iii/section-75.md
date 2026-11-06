@@ -60,7 +60,7 @@ summary: ''
 - (a) “test” includes “inspect”, as the case may require, and
 - (b) references to a vehicle include references to a trailer drawn by it.
 
-(12)[^c20473171] In its application to vehicles in which recording equipment is required by Article 3 of the[^key-dc3e3482bca2ee0a5780c87c274d201b] EU Tachographs Regulation to be installed and used, this Article shall have effect as if any reference to construction and use requirements included a reference to requirements of so much of that Regulation as relates to the installation of recording equipment and the seals to be fixed to such equipment.
+(12)[^c20473171] In its application to vehicles in which recording equipment is required by Article 3 of the[^c-dc3e3482bca2ee0a5780c87c274d201b] EU Tachographs Regulation to be installed and used, this Article shall have effect as if any reference to construction and use requirements included a reference to requirements of so much of that Regulation as relates to the installation of recording equipment and the seals to be fixed to such equipment.
 
 ## Annotations
 
@@ -68,4 +68,4 @@ summary: ''
 
 [^c20473171]: Textual amendment: Art. 75(12) added (27.6.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [43(4)](https://www.legislation.gov.uk/nisi/2007/916/article/43/4); [S.R. 2007/302](https://www.legislation.gov.uk/nisr/2007/302), [art. 2](https://www.legislation.gov.uk/nisr/2007/302/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/302/schedule)
 
-[^key-dc3e3482bca2ee0a5780c87c274d201b]: Textual amendment: Words in [art. 75(12)](https://www.legislation.gov.uk/nisi/1995/2994/article/75/12) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2016/343/regulation/2/4/c)
+[^c-dc3e3482bca2ee0a5780c87c274d201b]: Textual amendment: Words in [art. 75(12)](https://www.legislation.gov.uk/nisi/1995/2994/article/75/12) substituted (31.10.2016) by [The Passenger and Goods Vehicles (Tachographs) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/343)](https://www.legislation.gov.uk/nisr/2016/343), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/343/regulation/1/1), [2(4)(c)](https://www.legislation.gov.uk/nisr/2016/343/regulation/2/4/c)

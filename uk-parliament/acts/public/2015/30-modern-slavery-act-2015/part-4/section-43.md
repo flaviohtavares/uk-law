@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Duty to co-operate with Commissioner[^key-8425be0299b9dff82634791e15087f9a]
+## 43. Duty to co-operate with Commissioner[^c-8425be0299b9dff82634791e15087f9a]
 
 *Extent: E+W+S+N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8425be0299b9dff82634791e15087f9a]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2015/30/section/43) in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/c)
+[^c-8425be0299b9dff82634791e15087f9a]: Commencement: [S. 43](https://www.legislation.gov.uk/ukpga/2015/30/section/43) in force at 31.7.2015 by [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/c)

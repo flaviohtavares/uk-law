@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 462. Interpretation of the 1994 Regulations[^key-770fcaeffa16668b167636a55fb39f55]
+## 462. Interpretation of the 1994 Regulations[^c-770fcaeffa16668b167636a55fb39f55]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ In regulation 20 of the Insurance Premium Tax Regulations 1994 (interpretation),
 
 ## Annotations
 
-[^key-770fcaeffa16668b167636a55fb39f55]: Commencement: Art. 462 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-770fcaeffa16668b167636a55fb39f55]: Commencement: Art. 462 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

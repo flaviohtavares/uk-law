@@ -35,22 +35,22 @@ supplementing Regulation (EU) 2019/1700 of the European Parliament and of the Co
 
 (Text with EEA relevance) (revoked)
 
-[^key-ea465966849b15a6bf2e0c4afc084617]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea465966849b15a6bf2e0c4afc084617]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-ea465966849b15a6bf2e0c4afc084617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-ea465966849b15a6bf2e0c4afc084617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-ea465966849b15a6bf2e0c4afc084617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-ea465966849b15a6bf2e0c4afc084617] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ea465966849b15a6bf2e0c4afc084617]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ea465966849b15a6bf2e0c4afc084617]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-ea465966849b15a6bf2e0c4afc084617]
+## ANNEX[^c-ea465966849b15a6bf2e0c4afc084617]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ea465966849b15a6bf2e0c4afc084617]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 126](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/126)
+[^c-ea465966849b15a6bf2e0c4afc084617]: Textual amendment: Regulation revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 126](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/126)

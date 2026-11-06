@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 40. Statement to be prepared by local authority[^key-94ed0295e29907765ea29be5dd3e5cb4]
+## 40. Statement to be prepared by local authority[^c-94ed0295e29907765ea29be5dd3e5cb4]
 
 *Extent: E+W*
 
@@ -46,7 +46,7 @@ but this subsection does not relieve the local authority of any duty to prepare 
 
 ## Annotations
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
 
 [^c19222231]: Modification: S. 40(2)(3) applied (with modifications) (1.9.2006 for W.) by [2000 c. 21](https://www.legislation.gov.uk/ukpga/2000/21) Sch. 7 para. 13(3)(b)(iv) (as substituted by [Education Act 2005 (c. 18)](https://www.legislation.gov.uk/ukpga/2005/18), [ss. 46](https://www.legislation.gov.uk/ukpga/2005/18/section/46), [125](https://www.legislation.gov.uk/ukpga/2005/18/section/125), [Sch. 5 para. 3(14)(c)](https://www.legislation.gov.uk/ukpga/2005/18/schedule/5/paragraph/3/14/c)); [S.I. 2006/1338](https://www.legislation.gov.uk/uksi/2006/1338), [art. 3](https://www.legislation.gov.uk/uksi/2006/1338/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/1338/schedule/1)
 

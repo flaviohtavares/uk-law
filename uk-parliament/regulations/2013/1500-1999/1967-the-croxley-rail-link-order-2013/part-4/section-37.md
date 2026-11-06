@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 37. Obstruction of construction of authorised works[^key-8ebcf9c96197fff7f806f28a4ea4b5fe]
+## 37. Obstruction of construction of authorised works[^c-8ebcf9c96197fff7f806f28a4ea4b5fe]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ is guilty of an offence and liable on summary conviction to a fine not exceeding
 
 ## Annotations
 
-[^key-8ebcf9c96197fff7f806f28a4ea4b5fe]: Commencement: Art. 37 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)
+[^c-8ebcf9c96197fff7f806f28a4ea4b5fe]: Commencement: Art. 37 in force at 21.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1967/article/1)

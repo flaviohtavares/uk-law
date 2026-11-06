@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Housing benefit: determination of appropriate maximum[^key-fe8e0d50b715f40196dca53dd11d5d34]
+## 69. Housing benefit: determination of appropriate maximum[^c-fe8e0d50b715f40196dca53dd11d5d34]
 
 *Extent: E+W+S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fe8e0d50b715f40196dca53dd11d5d34]: Commencement: S. 69 in force at 27.11.2012 for specified purposes and 1.1.2013 in so far as not already in force by [S.I. 2012/2946](https://www.legislation.gov.uk/uksi/2012/2946), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2946/article/2/1)
+[^c-fe8e0d50b715f40196dca53dd11d5d34]: Commencement: S. 69 in force at 27.11.2012 for specified purposes and 1.1.2013 in so far as not already in force by [S.I. 2012/2946](https://www.legislation.gov.uk/uksi/2012/2946), [art. 2(1)](https://www.legislation.gov.uk/uksi/2012/2946/article/2/1)

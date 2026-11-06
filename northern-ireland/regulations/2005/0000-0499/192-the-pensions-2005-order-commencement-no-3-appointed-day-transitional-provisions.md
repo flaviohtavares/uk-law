@@ -37,7 +37,7 @@ Made
 
 The Department for Social Development, in exercise of the powers conferred on it by Articles 1(2) and (6), 86(7) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00001] and of all other powers enabling it in that behalf, hereby makes the following Order:
 
-## 1. Citation and interpretation[^key-d2c4a89f8688c9c8ccf0fb891c000e7d]
+## 1. Citation and interpretation[^c-d2c4a89f8688c9c8ccf0fb891c000e7d]
 
 (1) This Order may be cited as the Pensions (2005 Order) (Commencement No. 3, Appointed Day, Transitional Provisions and Amendment) Order (Northern Ireland) 2005.
 
@@ -46,9 +46,9 @@ The Department for Social Development, in exercise of the powers conferred on it
 - “the Order” means the Pensions (Northern Ireland) Order 2005;
 - “the Winding Up Regulations” means the Occupational Pension Schemes (Winding Up) Regulations (Northern Ireland) 1996[^f00002].
 
-## 2. Appointed days[^key-cd12578e8edbc625bb5640281b628c62]
+## 2. Appointed days[^c-cd12578e8edbc625bb5640281b628c62]
 
-(1)[^key-4bb0c1c6668b66bb95b580e2bb4374ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-4bb0c1c6668b66bb95b580e2bb4374ae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Subject to paragraph (3) the day appointed for the coming into operation of the provisions specified in the Schedule is 6th April 2005.
 
@@ -59,7 +59,7 @@ The Department for Social Development, in exercise of the powers conferred on it
 
 (4) In paragraph (3) the reference to a scheme includes a reference to any section of a scheme to which Article 74 of the 1995 Order applies as if it were a scheme by virtue of regulation 12[^f00004] of the Winding Up Regulations.
 
-## 3. Amendment of the Pensions (2005 Order) (Commencement No. 2 and Transitional Provisions) Order[^key-5d479dee58578ca85257f75bb0a2ff4c]
+## 3. Amendment of the Pensions (2005 Order) (Commencement No. 2 and Transitional Provisions) Order[^c-5d479dee58578ca85257f75bb0a2ff4c]
 
 In Schedule 3 to the Pensions (2005 Order) (Commencement No. 2 and Transitional Provisions) Order (Northern Ireland) 2005[^f00005] (provisions referred to in Article 5 which are to continue to have effect as if they were in operation immediately before their amendment or repeal by the Order) after the entry in the table relating to Article 101 –
 
@@ -74,7 +74,7 @@ A senior officer of the
 
 Department for Social Development
 
-## SCHEDULE — PROVISIONS OF THE ORDER COMING INTO OPERATION ON 6th APRIL 2005[^key-e11c54bc576407074590a25ce2ba6fe6]
+## SCHEDULE — PROVISIONS OF THE ORDER COMING INTO OPERATION ON 6th APRIL 2005[^c-e11c54bc576407074590a25ce2ba6fe6]
 
 Article 2(2)
 
@@ -316,20 +316,20 @@ The following provisions of the Pensions (Northern Ireland) Order 2005 have been
 
 [^f00001]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-d2c4a89f8688c9c8ccf0fb891c000e7d]: Commencement: Art. 1 in operation at made date
+[^c-d2c4a89f8688c9c8ccf0fb891c000e7d]: Commencement: Art. 1 in operation at made date
 
 [^f00002]: Footnote: [S.R. 1996 No. 621](https://www.legislation.gov.uk/nisr/1996/621); relevant amending regulations are [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-cd12578e8edbc625bb5640281b628c62]: Commencement: Art. 2 in operation at made date
+[^c-cd12578e8edbc625bb5640281b628c62]: Commencement: Art. 2 in operation at made date
 
-[^key-4bb0c1c6668b66bb95b580e2bb4374ae]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/nisr/2005/192/article/2/1) omitted (5.7.2024) by virtue of [The Pensions (2005 Order) (Code of Practice) (General) (Appointed Day, Amendment and Revocations) Order (Northern Ireland) 2024 (S.R. 2024/132)](https://www.legislation.gov.uk/nisr/2024/132), [art. 3](https://www.legislation.gov.uk/nisr/2024/132/article/3)
+[^c-4bb0c1c6668b66bb95b580e2bb4374ae]: Textual amendment: [Art. 2(1)](https://www.legislation.gov.uk/nisr/2005/192/article/2/1) omitted (5.7.2024) by virtue of [The Pensions (2005 Order) (Code of Practice) (General) (Appointed Day, Amendment and Revocations) Order (Northern Ireland) 2024 (S.R. 2024/132)](https://www.legislation.gov.uk/nisr/2024/132), [art. 3](https://www.legislation.gov.uk/nisr/2024/132/article/3)
 
 [^f00003]: Footnote: Article 121(4) to (8) was inserted by section 45(2) of the Child Support, Pensions and Social Security Act (Northern Ireland) [2000 (c. 4 (N.I.)](https://www.legislation.gov.uk/nia/2000/4))
 
 [^f00004]: Footnote: Regulation 12 was amended by paragraph 12 of the Schedule to [S.R. 1997 No. 160](https://www.legislation.gov.uk/nisr/1997/160)
 
-[^key-5d479dee58578ca85257f75bb0a2ff4c]: Commencement: Art. 3 in operation at made date
+[^c-5d479dee58578ca85257f75bb0a2ff4c]: Commencement: Art. 3 in operation at made date
 
 [^f00005]: Footnote: [S.I. 2005 No. 166 (C. 12)](https://www.legislation.gov.uk/nisr/2005/166)
 
-[^key-e11c54bc576407074590a25ce2ba6fe6]: Commencement: Sch. in operation at made date
+[^c-e11c54bc576407074590a25ce2ba6fe6]: Commencement: Sch. in operation at made date

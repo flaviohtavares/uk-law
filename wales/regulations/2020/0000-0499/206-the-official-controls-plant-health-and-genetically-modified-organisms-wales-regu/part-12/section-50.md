@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Revocation of plant health instruments[^key-e3081e41ebd4aef4824f173674ba29b2]
+## 50. Revocation of plant health instruments[^c-e3081e41ebd4aef4824f173674ba29b2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The instruments listed in Schedule 6 are revoked.
 
 ## Annotations
 
-[^key-e3081e41ebd4aef4824f173674ba29b2]: Commencement: Reg. 50 in force at 27.3.2020, see reg. 1
+[^c-e3081e41ebd4aef4824f173674ba29b2]: Commencement: Reg. 50 in force at 27.3.2020, see reg. 1

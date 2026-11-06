@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 244. Production of documents on transfer of land in Northern Ireland.[^c14457231][^key-af4cb430545da2f962928d4c4f0b76a5]
+## 244. Production of documents on transfer of land in Northern Ireland.[^c14457231][^c-af4cb430545da2f962928d4c4f0b76a5]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,6 +47,6 @@ fails to comply with that subsection or subsection (2) above shall be liable on 
 
 [^c14457231]: Commencement: S. 244 wholly in force; s. 244 not in force at Royal Assent, see s. 245(8); s. 244 in force at 4.11.1996 by [S.I. 1996/2316](https://www.legislation.gov.uk/uksi/1996/2316), [art. 2](https://www.legislation.gov.uk/uksi/1996/2316/article/2)
 
-[^key-af4cb430545da2f962928d4c4f0b76a5]: Textual amendment: Pt. VI heading substituted (30.7.2009) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/3)[(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/5); [S.I. 2009/2094](https://www.legislation.gov.uk/uksi/2009/2094), [art. 2](https://www.legislation.gov.uk/uksi/2009/2094/article/2)
+[^c-af4cb430545da2f962928d4c4f0b76a5]: Textual amendment: Pt. VI heading substituted (30.7.2009) by [Finance (No. 2) Act 2005 (c. 22)](https://www.legislation.gov.uk/ukpga/2005/22), [s. 48(3)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/3)[(5)](https://www.legislation.gov.uk/ukpga/2005/22/section/48/5); [S.I. 2009/2094](https://www.legislation.gov.uk/uksi/2009/2094), [art. 2](https://www.legislation.gov.uk/uksi/2009/2094/article/2)
 
 [^c14457241]: Marginal citation: [1891 c. 39](https://www.legislation.gov.uk/ukpga/1891/39).

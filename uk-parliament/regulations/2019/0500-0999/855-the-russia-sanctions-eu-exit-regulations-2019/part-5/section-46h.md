@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 46H. Financial services and funds relating to iron and steel products[^key-4a8cc388cde290748446348293fb16ad]
+## 46H. Financial services and funds relating to iron and steel products[^c-4a8cc388cde290748446348293fb16ad]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a8cc388cde290748446348293fb16ad]: Textual amendment: [Regs. 46G-46I](https://www.legislation.gov.uk/uksi/2019/855/regulation/46G) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2022/792/regulation/7/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))
+[^c-4a8cc388cde290748446348293fb16ad]: Textual amendment: [Regs. 46G-46I](https://www.legislation.gov.uk/uksi/2019/855/regulation/46G) inserted (15.7.2022) by [The Russia (Sanctions) (EU Exit) (Amendment) (No. 11) Regulations 2022 (S.I. 2022/792)](https://www.legislation.gov.uk/uksi/2022/792), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/792/regulation/1/2), [7(3)](https://www.legislation.gov.uk/uksi/2022/792/regulation/7/3) (with [reg. 13](https://www.legislation.gov.uk/uksi/2022/792/regulation/13))

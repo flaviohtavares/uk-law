@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 298A. Definitions relating to means of voting[^key-8c670cfdc9fbe73c2490d70f5d956054]
+## 298A. Definitions relating to means of voting[^c-8c670cfdc9fbe73c2490d70f5d956054]
 
 *Extent: E+W+S*
 
@@ -57,4 +57,4 @@ In this Act—
 
 ## Annotations
 
-[^key-8c670cfdc9fbe73c2490d70f5d956054]: Textual amendment: [S. 298A](https://www.legislation.gov.uk/ukpga/1992/52/section/298A) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2026/881/article/8/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))
+[^c-8c670cfdc9fbe73c2490d70f5d956054]: Textual amendment: [S. 298A](https://www.legislation.gov.uk/ukpga/1992/52/section/298A) inserted (25.8.2026) by [The Trade Unions (Permissible Means of Voting) and Employment Rights (Unfair Dismissal) (Amendment) Order 2026 (S.I. 2026/881)](https://www.legislation.gov.uk/uksi/2026/881), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2026/881/article/1/3), [8(3)](https://www.legislation.gov.uk/uksi/2026/881/article/8/3) (with [art. 10](https://www.legislation.gov.uk/uksi/2026/881/article/10))

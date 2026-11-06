@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 701A. Power to make regulations where accounting standards change[^key-4295484829212b82e648a30f4b3083d1]
+## 701A. Power to make regulations where accounting standards change[^c-4295484829212b82e648a30f4b3083d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4295484829212b82e648a30f4b3083d1]: Textual amendment: S. 701A and cross-heading inserted (8.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/19/paragraph/2)
+[^c-4295484829212b82e648a30f4b3083d1]: Textual amendment: S. 701A and cross-heading inserted (8.4.2010) by [Finance Act 2010 (c. 13)](https://www.legislation.gov.uk/ukpga/2010/13), [Sch. 19 para. 2](https://www.legislation.gov.uk/ukpga/2010/13/schedule/19/paragraph/2)

@@ -31,7 +31,7 @@ summary: ''
 
 WEIGHTS AND MEASURES
 
-Units of Measurement Regulations (Northern Ireland) 2002 (revoked)[^key-6f458df5c58654edb39c4bc80871a0f3]
+Units of Measurement Regulations (Northern Ireland) 2002 (revoked)[^c-6f458df5c58654edb39c4bc80871a0f3]
 
 Made
 
@@ -41,28 +41,28 @@ Coming into operation
 
 8th April 2002
 
-[^key-6f458df5c58654edb39c4bc80871a0f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f458df5c58654edb39c4bc80871a0f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-6f458df5c58654edb39c4bc80871a0f3]
+## 1. Citation and commencement[^c-6f458df5c58654edb39c4bc80871a0f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-6f458df5c58654edb39c4bc80871a0f3]
+## 2. Interpretation[^c-6f458df5c58654edb39c4bc80871a0f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of the 1981 Order[^key-6f458df5c58654edb39c4bc80871a0f3]
+## 3. Amendment of the 1981 Order[^c-6f458df5c58654edb39c4bc80871a0f3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6f458df5c58654edb39c4bc80871a0f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f458df5c58654edb39c4bc80871a0f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6f458df5c58654edb39c4bc80871a0f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6f458df5c58654edb39c4bc80871a0f3]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6f458df5c58654edb39c4bc80871a0f3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/70) revoked (6.12.2010) by [The Units of Measurement Regulations (Northern Ireland) 2010 (S.R. 2010/365)](https://www.legislation.gov.uk/nisr/2010/365), [regs. 1](https://www.legislation.gov.uk/nisr/2010/365/regulation/1), [4](https://www.legislation.gov.uk/nisr/2010/365/regulation/4)
+[^c-6f458df5c58654edb39c4bc80871a0f3]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2002/70) revoked (6.12.2010) by [The Units of Measurement Regulations (Northern Ireland) 2010 (S.R. 2010/365)](https://www.legislation.gov.uk/nisr/2010/365), [regs. 1](https://www.legislation.gov.uk/nisr/2010/365/regulation/1), [4](https://www.legislation.gov.uk/nisr/2010/365/regulation/4)

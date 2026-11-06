@@ -48,11 +48,11 @@ In accordance with Article 4(4) of the Environment (Northern Ireland) Order 2002
 - (b) such bodies or persons appearing to it to be representative of the interests of industry, agriculture and business as it considers appropriate; and
 - (c) such other bodies or persons as it considers appropriate.
 
-## 1. Citation and commencement[^key-9ccfa5b1c2ede0c128ba8e0e30419678]
+## 1. Citation and commencement[^c-9ccfa5b1c2ede0c128ba8e0e30419678]
 
 These Regulations may be cited as the Waste (Materials Facilities) Regulations (Northern Ireland) 2025 and come into operation on 1st April 2025.
 
-## 2. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^key-22d4523c9556b14a6a4184cf5fece7cf]
+## 2. Amendment of the Waste Management Licensing Regulations (Northern Ireland) 2003[^c-22d4523c9556b14a6a4184cf5fece7cf]
 
 The Waste Management Licensing Regulations (Northern Ireland) 2003[^f00004] are amended as follows––
 
@@ -114,7 +114,7 @@ The Waste Management Licensing Regulations (Northern Ireland) 2003[^f00004] are 
 
 .
 
-## 3. Amendment of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^key-f972a2ca67d98a0d11bcad9ba7c460fb]
+## 3. Amendment of the Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^c-f972a2ca67d98a0d11bcad9ba7c460fb]
 
 The Pollution Prevention and Control (Industrial Emissions) Regulations (Northern Ireland) 2013[^f00005] are amended as follows––
 
@@ -205,12 +205,12 @@ These Regulations amend the Waste Management Licensing Regulations (Northern Ire
 
 [^f00003]: Footnote: The Department of the Environment was dissolved by Section 1(9) of the Departments Act (Northern Ireland) 2016 and, by virtue of Article 8(1)(c) of the Departments (Transfer of Functions) Order (Northern Ireland) 2016, its functions for the purposes of these Regulations were transferred to the Department of Agriculture, Environment and Rural Affairs.
 
-[^key-9ccfa5b1c2ede0c128ba8e0e30419678]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1)
+[^c-9ccfa5b1c2ede0c128ba8e0e30419678]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1)
 
-[^key-22d4523c9556b14a6a4184cf5fece7cf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/18/regulation/2) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1)
+[^c-22d4523c9556b14a6a4184cf5fece7cf]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2025/18/regulation/2) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2003 No. 493](https://www.legislation.gov.uk/nisr/2003/493) as amended by S.R. 2006 No. [519](https://www.legislation.gov.uk/nisr/2006/519) and [S.R. 2009 No. 159](https://www.legislation.gov.uk/nisr/2009/159).
 
-[^key-f972a2ca67d98a0d11bcad9ba7c460fb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/18/regulation/3) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1)
+[^c-f972a2ca67d98a0d11bcad9ba7c460fb]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2025/18/regulation/3) in operation at 1.4.2025, see [reg. 1](https://www.legislation.gov.uk/nisr/2025/18/regulation/1)
 
 [^f00005]: Footnote: [S.R. 2013 No.160](https://www.legislation.gov.uk/nisr/2013/160) as amended by [S.R. 2014 No. 304](https://www.legislation.gov.uk/nisr/2014/304) and [S.R. 2018 No. 33](https://www.legislation.gov.uk/nisr/2018/33).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 71. Power to make consequential and transitional provision etc.[^key-5abbcdf7d161f59a7d315a79d80bc248]
+## 71. Power to make consequential and transitional provision etc.[^c-5abbcdf7d161f59a7d315a79d80bc248]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5abbcdf7d161f59a7d315a79d80bc248]: Commencement: S. 71 in force at 10.9.2024, see [s. 72(1)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/d)
+[^c-5abbcdf7d161f59a7d315a79d80bc248]: Commencement: S. 71 in force at 10.9.2024, see [s. 72(1)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 269C. Orders under section 269A or 269B against service parents or service guardians: appeals[^key-2e2b1b59f950913386239b6a2ab5325b]
+## 269C. Orders under section 269A or 269B against service parents or service guardians: appeals[^c-2e2b1b59f950913386239b6a2ab5325b]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2e2b1b59f950913386239b6a2ab5325b]: Textual amendment: Ss. 269A-269C inserted (1.11.2013) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/16/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/c)
+[^c-2e2b1b59f950913386239b6a2ab5325b]: Textual amendment: Ss. 269A-269C inserted (1.11.2013) by [Armed Forces Act 2011 (c. 18)](https://www.legislation.gov.uk/ukpga/2011/18), [ss. 16(1)](https://www.legislation.gov.uk/ukpga/2011/18/section/16/1), [32(3)](https://www.legislation.gov.uk/ukpga/2011/18/section/32/3); [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(c)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/c)

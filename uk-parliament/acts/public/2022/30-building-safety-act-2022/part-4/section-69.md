@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Recommendations about definition of “higher-risk building” etc[^key-4a253b3032dc50721e327e98d55441f9]
+## 69. Recommendations about definition of “higher-risk building” etc[^c-4a253b3032dc50721e327e98d55441f9]
 
 *Extent: E+W*
 
@@ -49,4 +49,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4a253b3032dc50721e327e98d55441f9]: Commencement: S. 69 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)
+[^c-4a253b3032dc50721e327e98d55441f9]: Commencement: S. 69 in force at Royal Assent, see [s. 170(1)(f)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/f)

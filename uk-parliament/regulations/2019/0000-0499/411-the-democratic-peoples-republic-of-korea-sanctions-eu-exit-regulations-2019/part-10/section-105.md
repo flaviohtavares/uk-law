@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105. Trade: application of information powers in CEMA[^key-c2159a90007e7c5f79401ba804f17bf3][^key-b5779555a43155a51232579be18b08b0]
+## 105. Trade: application of information powers in CEMA[^c-c2159a90007e7c5f79401ba804f17bf3][^c-b5779555a43155a51232579be18b08b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,9 +33,9 @@ summary: ''
 
 ## Annotations
 
-[^key-c2159a90007e7c5f79401ba804f17bf3]: Commencement: Reg. 105 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
+[^c-c2159a90007e7c5f79401ba804f17bf3]: Commencement: Reg. 105 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/411/regulation/1/2)
 
-[^key-b5779555a43155a51232579be18b08b0]: Commencement: [Reg. 105](https://www.legislation.gov.uk/uksi/2019/411/regulation/105) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b5779555a43155a51232579be18b08b0]: Commencement: [Reg. 105](https://www.legislation.gov.uk/uksi/2019/411/regulation/105) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 7(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/7/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c23636651]: Marginal citation: [Section 77A](https://www.legislation.gov.uk/uksi/2019/411/section/77A) was inserted by the [Finance Act 1987 (c.16)](https://www.legislation.gov.uk/ukpga/1987/16), [section 10](https://www.legislation.gov.uk/ukpga/1987/16/section/10) and amended by [S.I. 1992/3095](https://www.legislation.gov.uk/uksi/1992/3095).
 

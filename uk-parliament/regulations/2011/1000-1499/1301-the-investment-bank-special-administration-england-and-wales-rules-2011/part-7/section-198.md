@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 198. Remuneration (special administration (bank administration)[^key-2d2b460253fe799a4d96307674f36af1]
+## 198. Remuneration (special administration (bank administration)[^c-2d2b460253fe799a4d96307674f36af1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2d2b460253fe799a4d96307674f36af1]: Commencement: [Rule 198](https://www.legislation.gov.uk/uksi/2011/1301/rule/198) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-2d2b460253fe799a4d96307674f36af1]: Commencement: [Rule 198](https://www.legislation.gov.uk/uksi/2011/1301/rule/198) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

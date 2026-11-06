@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. General provisions as to interpretation and regulations.[^c7815751][^c7815762][^c20459821][^key-8be0b28a95ada425c9187e0e22c48e90]
+## 82. General provisions as to interpretation and regulations.[^c7815751][^c7815762][^c20459821][^c-8be0b28a95ada425c9187e0e22c48e90]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,11 +32,11 @@ summary: ''
 (3) Any power conferred by Part I or II or this Part to make regulations—
 
 - (a) includes power to make different provision by the regulations for different circumstances or cases and to include in the regulations such incidental, supplemental and transitional provisions as the authority making the regulations considers appropriate in connection with the regulations; and
-- (b) shall be exercisable by statutory instrument, which (unless[^c18587821] subsection (3A), (3B) or (4)[^key-08818baad2918bccf276b6cad874f570] applies) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+- (b) shall be exercisable by statutory instrument, which (unless[^c18587821] subsection (3A), (3B) or (4)[^c-08818baad2918bccf276b6cad874f570] applies) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
-(3A)[^key-e6e849ed109df3a5a92ff667982c2676] In the case of a statutory instrument which also contains regulations under section 74 of the Energy Act 2013 (nuclear regulations), subsection (3) is subject to section 113 of that Act (subordinate legislation).
+(3A)[^c-e6e849ed109df3a5a92ff667982c2676] In the case of a statutory instrument which also contains regulations under section 74 of the Energy Act 2013 (nuclear regulations), subsection (3) is subject to section 113 of that Act (subordinate legislation).
 
-(3B)[^key-82b5c1b3de257ea6a83df0f06f324d42] Regulations under section 3(2) shall not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
+(3B)[^c-82b5c1b3de257ea6a83df0f06f324d42] Regulations under section 3(2) shall not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
 
 (4)[^c18588101] The first regulations under section 43A(1) shall not be made unless a draft has been laid before and approved by resolution of each House of Parliament.
 
@@ -48,14 +48,14 @@ summary: ''
 
 [^c20459821]: Modification: Ss. 1-59, 80-82 applied (temp.) (5.8.2009) by The Health and Safety at [Work etc. Act 1974 (Application outside Great Britain) Order 2001 (S.I. 2001/2127)](https://www.legislation.gov.uk/uksi/2001/2127), [arts. 8A](https://www.legislation.gov.uk/uksi/2001/2127/article/8A), [8B](https://www.legislation.gov.uk/uksi/2001/2127/article/8B) (as inserted by [S.I. 2009/1750](https://www.legislation.gov.uk/uksi/2009/1750), [art. 2(3)](https://www.legislation.gov.uk/uksi/2009/1750/article/2/3))
 
-[^key-8be0b28a95ada425c9187e0e22c48e90]: Modification: Ss. 80-82 applied by S.I. 2001/2127 art. 8A 8B (as inserted (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
+[^c-8be0b28a95ada425c9187e0e22c48e90]: Modification: Ss. 80-82 applied by S.I. 2001/2127 art. 8A 8B (as inserted (6.4.2011) by [The Health and Safety at Work etc. Act 1974 (Application outside Great Britain) (Variation) Order 2011 (S.I. 2011/745)](https://www.legislation.gov.uk/uksi/2011/745), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/745/article/1/1), [3(2)](https://www.legislation.gov.uk/uksi/2011/745/article/3/2))
 
 [^c18587821]: Textual amendment: Words in s. 82(3)(b) inserted (10.9.2003) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 105(3)(a)](https://www.legislation.gov.uk/ukpga/2003/20/section/105/3/a)
 
-[^key-08818baad2918bccf276b6cad874f570]: Textual amendment: Words in [s. 82(3)(b)](https://www.legislation.gov.uk/ukpga/1974/37/section/82/3/b) substituted (26.3.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 1(5)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/1/5/a), [115(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/a) (with [s. 1(6)](https://www.legislation.gov.uk/ukpga/2015/20/section/1/6)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/a)
+[^c-08818baad2918bccf276b6cad874f570]: Textual amendment: Words in [s. 82(3)(b)](https://www.legislation.gov.uk/ukpga/1974/37/section/82/3/b) substituted (26.3.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 1(5)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/1/5/a), [115(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/a) (with [s. 1(6)](https://www.legislation.gov.uk/ukpga/2015/20/section/1/6)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/a)
 
-[^key-e6e849ed109df3a5a92ff667982c2676]: Textual amendment: S. 82(3A) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 13(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/13/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-e6e849ed109df3a5a92ff667982c2676]: Textual amendment: S. 82(3A) inserted (1.4.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(1)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/1), [Sch. 12 para. 13(3)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/12/paragraph/13/3); [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
 
-[^key-82b5c1b3de257ea6a83df0f06f324d42]: Textual amendment: [S. 82(3B)](https://www.legislation.gov.uk/ukpga/1974/37/section/82/3B) inserted (26.3.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 1(5)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/1/5/b), [115(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/a) (with [s. 1(6)](https://www.legislation.gov.uk/ukpga/2015/20/section/1/6)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/a)
+[^c-82b5c1b3de257ea6a83df0f06f324d42]: Textual amendment: [S. 82(3B)](https://www.legislation.gov.uk/ukpga/1974/37/section/82/3B) inserted (26.3.2015 for specified purposes, 1.10.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [ss. 1(5)(b)](https://www.legislation.gov.uk/ukpga/2015/20/section/1/5/b), [115(2)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/a) (with [s. 1(6)](https://www.legislation.gov.uk/ukpga/2015/20/section/1/6)); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(a)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/a)
 
 [^c18588101]: Textual amendment: S. 82(4) inserted (10.9.2003) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [s. 105(3)(b)](https://www.legislation.gov.uk/ukpga/2003/20/section/105/3/b)

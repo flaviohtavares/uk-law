@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 120. Costs of proving[^key-b79f590cb7486e87fd8ed4a2cbaab948]
+## 120. Costs of proving[^c-b79f590cb7486e87fd8ed4a2cbaab948]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ Unless the court otherwise orders—
 
 ## Annotations
 
-[^key-b79f590cb7486e87fd8ed4a2cbaab948]: Commencement: [Rule 120](https://www.legislation.gov.uk/nisr/2026/11/rule/120) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-b79f590cb7486e87fd8ed4a2cbaab948]: Commencement: [Rule 120](https://www.legislation.gov.uk/nisr/2026/11/rule/120) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

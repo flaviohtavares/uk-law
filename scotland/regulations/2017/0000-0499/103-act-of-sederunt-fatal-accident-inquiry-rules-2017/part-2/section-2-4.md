@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 2.4. Representation and support[^key-961aefd8b4ecc94a517c52dcd18fa242]
+## 2.4. Representation and support[^c-961aefd8b4ecc94a517c52dcd18fa242]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-961aefd8b4ecc94a517c52dcd18fa242]: Commencement: [Rule 2.4](https://www.legislation.gov.uk/ssi/2017/103/rule/2.4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)
+[^c-961aefd8b4ecc94a517c52dcd18fa242]: Commencement: [Rule 2.4](https://www.legislation.gov.uk/ssi/2017/103/rule/2.4) in force at 15.6.2017, see [rule 1.1(2)](https://www.legislation.gov.uk/ssi/2017/103/rule/1.1/2)

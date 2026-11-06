@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 263AA. Section 263A: interpretation[^key-764f89c02820a5a62efdc0736527e1cd]
+## 263AA. Section 263A: interpretation[^c-764f89c02820a5a62efdc0736527e1cd]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-764f89c02820a5a62efdc0736527e1cd]: Textual amendment: S. 263AA inserted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/10)
+[^c-764f89c02820a5a62efdc0736527e1cd]: Textual amendment: S. 263AA inserted (with effect in accordance with Sch. 12 para. 18(1) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2013/29/schedule/12/paragraph/10)

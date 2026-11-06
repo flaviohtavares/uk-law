@@ -50,13 +50,13 @@ The Secretary of State makes these Regulations in exercise of the powers conferr
 
 Representative organisations have been consulted in accordance with section 134(2)[^f00004] of that Act.
 
-## 1. Citation, commencement and extent[^key-1bd3e9f34d1b54f370768ebf471ec017]
+## 1. Citation, commencement and extent[^c-1bd3e9f34d1b54f370768ebf471ec017]
 
 (1) These Regulations may be cited as the Motorways Traffic (England and Wales) (Amendment) Regulations 2018 and come into force on 4th June 2018.
 
 (2) These Regulations extend to England and Wales.
 
-## 2. Learner drivers on motorways[^key-08cb203e5bbbb207477e3e46f718b5cd]
+## 2. Learner drivers on motorways[^c-08cb203e5bbbb207477e3e46f718b5cd]
 
 (1) The Motorways Traffic (England and Wales) Regulations 1982[^f00005] are amended in accordance with paragraph (2).
 
@@ -105,9 +105,9 @@ An Explanatory Memorandum is published alongside this instrument on the UK legis
 
 [^f00004]: Footnote: Section 134(2) was amended by the Scotland Act [2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), Schedule 2, paragraph 12.
 
-[^key-1bd3e9f34d1b54f370768ebf471ec017]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/222/regulation/1) in force at 4.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/222/regulation/1/1)
+[^c-1bd3e9f34d1b54f370768ebf471ec017]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2018/222/regulation/1) in force at 4.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/222/regulation/1/1)
 
-[^key-08cb203e5bbbb207477e3e46f718b5cd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/222/regulation/2) in force at 4.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/222/regulation/1/1)
+[^c-08cb203e5bbbb207477e3e46f718b5cd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2018/222/regulation/2) in force at 4.6.2018, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2018/222/regulation/1/1)
 
 [^f00005]: Footnote: [S.I. 1982/1163](https://www.legislation.gov.uk/uksi/1982/1163).
 

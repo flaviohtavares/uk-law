@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**66.**[^key-3e212a4c1f5d8a7f7928fa3731cc7596] Omit section 5(3).
+**66.**[^c-3e212a4c1f5d8a7f7928fa3731cc7596] Omit section 5(3).
 
 ## Annotations
 
-[^key-3e212a4c1f5d8a7f7928fa3731cc7596]: Commencement: Art. 66 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)
+[^c-3e212a4c1f5d8a7f7928fa3731cc7596]: Commencement: Art. 66 in force at 22.4.2014, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2014/879/article/1/1)

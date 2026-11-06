@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## Article 78. UK plant passports[^key-429ca7858e407ad76184a872cf847e52]
+## Article 78. UK plant passports[^c-429ca7858e407ad76184a872cf847e52]
 
 *Extent: E+W+S+N.I.*
 
-1.[^key-8c454df068fd419f6b48dfca7b56643e] A UK plant passport shall be an official label to be used for:
+1.[^c-8c454df068fd419f6b48dfca7b56643e] A UK plant passport shall be an official label to be used for:
 
 - (a) the movement of plants, plant products and other objects described in Articles 79 and 80 (including the introduction of plants, plant products and other objects into Great Britain from a CD territory); and
 - (b) the movement of plants, plant products and other objects from Great Britain to a CD territory.
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-429ca7858e407ad76184a872cf847e52]: Textual amendment: Words in Art. 78 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(12)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/12/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-429ca7858e407ad76184a872cf847e52]: Textual amendment: Words in Art. 78 heading substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(12)(a)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/12/a) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
 
-[^key-8c454df068fd419f6b48dfca7b56643e]: Textual amendment: Art. 78 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(12)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/12/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))
+[^c-8c454df068fd419f6b48dfca7b56643e]: Textual amendment: Art. 78 substituted (31.12.2020) by [The Plant Health (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1482)](https://www.legislation.gov.uk/uksi/2020/1482), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/1/2/b), [31(12)(b)](https://www.legislation.gov.uk/uksi/2020/1482/regulation/31/12/b) (with [regs. 53](https://www.legislation.gov.uk/uksi/2020/1482/regulation/53), [55](https://www.legislation.gov.uk/uksi/2020/1482/regulation/55))

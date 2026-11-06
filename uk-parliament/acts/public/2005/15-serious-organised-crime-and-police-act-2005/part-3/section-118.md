@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Impressions of footwear[^key-df38b0781d6d1d0e41431d14f4e0b8c8]
+## 118. Impressions of footwear[^c-df38b0781d6d1d0e41431d14f4e0b8c8]
 
 *Extent: E+W*
 
@@ -66,10 +66,10 @@ summary: ''
   - (iii) after the third “fingerprints” insert “ or impressions of footwear ”,
   - (iv) after the fourth “fingerprints” insert “ , impressions of footwear ”.
 
-(4)[^key-4dd952acc3062a04e554cc4fe31c818c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-4dd952acc3062a04e554cc4fe31c818c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-df38b0781d6d1d0e41431d14f4e0b8c8]: Commencement: S. 118 in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/p)
+[^c-df38b0781d6d1d0e41431d14f4e0b8c8]: Commencement: S. 118 in force at 1.1.2006 by [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(p)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/p)
 
-[^key-4dd952acc3062a04e554cc4fe31c818c]: Textual amendment: [S. 118(4)](https://www.legislation.gov.uk/ukpga/2005/15/section/118/4) repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/d)
+[^c-4dd952acc3062a04e554cc4fe31c818c]: Textual amendment: [S. 118(4)](https://www.legislation.gov.uk/ukpga/2005/15/section/118/4) repealed (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [s. 120](https://www.legislation.gov.uk/ukpga/2012/9/section/120), [Sch. 10 Pt. 1](https://www.legislation.gov.uk/ukpga/2012/9/schedule/10/part/1) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/2104](https://www.legislation.gov.uk/uksi/2013/2104), [art. 3(d)](https://www.legislation.gov.uk/uksi/2013/2104/article/3/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12A. Associate pupil governors[^key-2169953d10989adbe69a8b03c5fe9f5c]
+## 12A. Associate pupil governors[^c-2169953d10989adbe69a8b03c5fe9f5c]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2169953d10989adbe69a8b03c5fe9f5c]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/wsi/2005/2914/regulation/12A) inserted (31.12.2005) by [The School Councils (Wales) Regulations 2005 (S.I. 2005/3200)](https://www.legislation.gov.uk/wsi/2005/3200), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/1/1), [8(2)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/8/2)
+[^c-2169953d10989adbe69a8b03c5fe9f5c]: Textual amendment: [Reg. 12A](https://www.legislation.gov.uk/wsi/2005/2914/regulation/12A) inserted (31.12.2005) by [The School Councils (Wales) Regulations 2005 (S.I. 2005/3200)](https://www.legislation.gov.uk/wsi/2005/3200), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/1/1), [8(2)](https://www.legislation.gov.uk/wsi/2005/3200/regulation/8/2)

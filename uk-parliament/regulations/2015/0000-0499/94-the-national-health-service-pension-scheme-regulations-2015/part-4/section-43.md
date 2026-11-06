@@ -30,22 +30,22 @@ summary: ''
 
 (3) A buy-out election may only be made before the end of the period of 3 months after—
 
-- (a) M enters pensionable service under this scheme in accordance with paragraph (3A)[^key-edecfe7767297b5a1091d237b9615ae5]; or
+- (a) M enters pensionable service under this scheme in accordance with paragraph (3A)[^c-edecfe7767297b5a1091d237b9615ae5]; or
 - (b) the beginning of a subsequent scheme year.
 
-(3A)[^key-2c48a6bff145d1816e77183a09ecb171] For the purposes of paragraph (3)(a), M is treated as entering pensionable service on each occasion that an active member’s account is established in respect of that service in accordance with regulation 24(1)(a).
+(3A)[^c-2c48a6bff145d1816e77183a09ecb171] For the purposes of paragraph (3)(a), M is treated as entering pensionable service on each occasion that an active member’s account is established in respect of that service in accordance with regulation 24(1)(a).
 
 (4) When making a buy-out election, M must—
 
 - (a) be in pensionable service; and
 - (b) not have reached normal pension age.
 
-(5)[^key-3cb6a1f5c1686bcf7819efd69746e3df] M may make an election under this regulation on one occasion only during each period of pensionable service in respect of which an active member’s account is established in accordance with regulation 24(1)(a).
+(5)[^c-3cb6a1f5c1686bcf7819efd69746e3df] M may make an election under this regulation on one occasion only during each period of pensionable service in respect of which an active member’s account is established in accordance with regulation 24(1)(a).
 
 ## Annotations
 
-[^key-edecfe7767297b5a1091d237b9615ae5]: Textual amendment: Words in [reg. 43(3)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/43/3/a) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [32(2)](https://www.legislation.gov.uk/uksi/2017/275/regulation/32/2)
+[^c-edecfe7767297b5a1091d237b9615ae5]: Textual amendment: Words in [reg. 43(3)(a)](https://www.legislation.gov.uk/uksi/2015/94/regulation/43/3/a) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [32(2)](https://www.legislation.gov.uk/uksi/2017/275/regulation/32/2)
 
-[^key-2c48a6bff145d1816e77183a09ecb171]: Textual amendment: [Reg. 43(3A)](https://www.legislation.gov.uk/uksi/2015/94/regulation/43/3A) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [32(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/32/3)
+[^c-2c48a6bff145d1816e77183a09ecb171]: Textual amendment: [Reg. 43(3A)](https://www.legislation.gov.uk/uksi/2015/94/regulation/43/3A) inserted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [32(3)](https://www.legislation.gov.uk/uksi/2017/275/regulation/32/3)
 
-[^key-3cb6a1f5c1686bcf7819efd69746e3df]: Textual amendment: [Reg. 43(5)](https://www.legislation.gov.uk/uksi/2015/94/regulation/43/5) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [32(4)](https://www.legislation.gov.uk/uksi/2017/275/regulation/32/4)
+[^c-3cb6a1f5c1686bcf7819efd69746e3df]: Textual amendment: [Reg. 43(5)](https://www.legislation.gov.uk/uksi/2015/94/regulation/43/5) substituted (1.4.2017) by [The National Health Service Pension Scheme and Additional Voluntary Contributions (Amendment) Regulations 2017 (S.I. 2017/275)](https://www.legislation.gov.uk/uksi/2017/275), [regs. 2(c)](https://www.legislation.gov.uk/uksi/2017/275/regulation/2/c), [32(4)](https://www.legislation.gov.uk/uksi/2017/275/regulation/32/4)

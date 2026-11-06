@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Notices[^key-d8b5d8b44297ba94b9047ceba0150b30]
+## 71. Notices[^c-d8b5d8b44297ba94b9047ceba0150b30]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ the proper address of any individual is his latest address as known to the appro
 
 ## Annotations
 
-[^key-d8b5d8b44297ba94b9047ceba0150b30]: Commencement: S. 71 in force at 28.1.2010 by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)
+[^c-d8b5d8b44297ba94b9047ceba0150b30]: Commencement: S. 71 in force at 28.1.2010 by [S.I. 2008/3009](https://www.legislation.gov.uk/uksi/2008/3009), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/1)[(2)(a)](https://www.legislation.gov.uk/uksi/2008/3009/article/2/2/a)

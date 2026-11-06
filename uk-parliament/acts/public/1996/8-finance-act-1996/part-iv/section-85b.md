@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85B. Amounts recognised in determining company’s profit or loss[^key-381956f7582ce173d55299d46932d0f8]
+## 85B. Amounts recognised in determining company’s profit or loss[^c-381956f7582ce173d55299d46932d0f8]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-381956f7582ce173d55299d46932d0f8]: Textual amendment: [S. 85B](https://www.legislation.gov.uk/ukpga/1996/8/section/85B) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 410](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/410), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-381956f7582ce173d55299d46932d0f8]: Textual amendment: [S. 85B](https://www.legislation.gov.uk/ukpga/1996/8/section/85B) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 1 para. 410](https://www.legislation.gov.uk/ukpga/2009/4/schedule/1/paragraph/410), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

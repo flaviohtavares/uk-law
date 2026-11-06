@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27BV. Agency workers[^key-1efaf94c2cacce81e29409130203b79b]
+## 27BV. Agency workers[^c-1efaf94c2cacce81e29409130203b79b]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1efaf94c2cacce81e29409130203b79b]: Textual amendment: Pt. 2A Ch. 5 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/4/1), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/d)
+[^c-1efaf94c2cacce81e29409130203b79b]: Textual amendment: Pt. 2A Ch. 5 inserted (6.1.2026 for specified purposes) by [Employment Rights Act 2025 (c. 36)](https://www.legislation.gov.uk/ukpga/2025/36), [ss. 4(1)](https://www.legislation.gov.uk/ukpga/2025/36/section/4/1), [159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3); [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [reg. 2(2)(d)](https://www.legislation.gov.uk/uksi/2026/3/regulation/2/2/d)

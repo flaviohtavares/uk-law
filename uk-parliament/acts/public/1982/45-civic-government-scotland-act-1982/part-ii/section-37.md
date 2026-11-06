@@ -22,7 +22,7 @@ summary: ''
 
 (1) In sections 28 to 36 of this Act—
 
-- “[^key-259d130f54ec873480946ac8a4b0a6bb]**itinerant metal dealer**” means a person who—
+- “[^c-259d130f54ec873480946ac8a4b0a6bb]**itinerant metal dealer**” means a person who—
   -
     - ((a)) carries on a business which consists wholly or substantially of buying or selling for scrap—
       - ((i)) metal articles that are old, broken, worn out or defaced, or
@@ -35,7 +35,7 @@ summary: ''
 - “**metal store**” means a place where metal is received or kept in the course of a metal dealer’s business;
 - “**processing**”, in relation to metal, includes melting down and any process whereby the composition or form of the metal or of any article which is made of the metal is altered so as to make it substantially less identifiable than before the process, and “**process**” and “**processed**” shall be construed accordingly.
 
-(2) For the purposes of sections 28 to 36, a person carries on business as a metal dealer if the person—[^key-1e2153fcf309d9eaac1eb6ee366687ac]
+(2) For the purposes of sections 28 to 36, a person carries on business as a metal dealer if the person—[^c-1e2153fcf309d9eaac1eb6ee366687ac]
 
 - (a) carries on a business which consists wholly or substantially of buying or selling for scrap—
   - (i) metal articles that are old, broken, worn out or defaced, or
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-259d130f54ec873480946ac8a4b0a6bb]: Textual amendment: Words in s. 37(1) substituted (16.3.2016 for specified purposes) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 72(2)](https://www.legislation.gov.uk/asp/2015/10/section/72/2), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2016/85/article/4), [6](https://www.legislation.gov.uk/ssi/2016/85/article/6))
+[^c-259d130f54ec873480946ac8a4b0a6bb]: Textual amendment: Words in s. 37(1) substituted (16.3.2016 for specified purposes) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 72(2)](https://www.legislation.gov.uk/asp/2015/10/section/72/2), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2016/85/article/4), [6](https://www.legislation.gov.uk/ssi/2016/85/article/6))
 
-[^key-1e2153fcf309d9eaac1eb6ee366687ac]: Textual amendment: S. 37(2)(3) substituted for s. 37(2) (16.3.2016 for specified purposes) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 72(3)](https://www.legislation.gov.uk/asp/2015/10/section/72/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2016/85/article/4), [6](https://www.legislation.gov.uk/ssi/2016/85/article/6))
+[^c-1e2153fcf309d9eaac1eb6ee366687ac]: Textual amendment: S. 37(2)(3) substituted for s. 37(2) (16.3.2016 for specified purposes) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 72(3)](https://www.legislation.gov.uk/asp/2015/10/section/72/3), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2016/85](https://www.legislation.gov.uk/ssi/2016/85), [art. 2](https://www.legislation.gov.uk/ssi/2016/85/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/85/schedule) (with [arts. 4](https://www.legislation.gov.uk/ssi/2016/85/article/4), [6](https://www.legislation.gov.uk/ssi/2016/85/article/6))

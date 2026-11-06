@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Transitory provision in connection with the civilian staff of the metropolitan police force[^key-b5d6e405e991bbadd90991ceacdb10b9]
+## 7. Transitory provision in connection with the civilian staff of the metropolitan police force[^c-b5d6e405e991bbadd90991ceacdb10b9]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,10 +35,10 @@ summary: ''
 
 that person does not become a member of the staff of the Commissioner by virtue of the appointment, but becomes or remains a civilian member of the staff of the Mayor’s Office for Policing and Crime.
 
-(4)[^key-d496cc3e701f23b078391de2233109ae] Section 33(5) and (6)(b) of the Act (which allows the London Assembly to require any member of the staff of the Mayor’s Office for Policing and Crime to attend proceedings of the Assembly for the purpose of giving evidence, or to produce documents to the Assembly) shall not apply in relation to a police civilian member of the staff of the Office.
+(4)[^c-d496cc3e701f23b078391de2233109ae] Section 33(5) and (6)(b) of the Act (which allows the London Assembly to require any member of the staff of the Mayor’s Office for Policing and Crime to attend proceedings of the Assembly for the purpose of giving evidence, or to produce documents to the Assembly) shall not apply in relation to a police civilian member of the staff of the Office.
 
 ## Annotations
 
-[^key-b5d6e405e991bbadd90991ceacdb10b9]: Commencement: Art. 7 in force at made date
+[^c-b5d6e405e991bbadd90991ceacdb10b9]: Commencement: Art. 7 in force at made date
 
-[^key-d496cc3e701f23b078391de2233109ae]: Textual amendment: [Art. 7(4)](https://www.legislation.gov.uk/uksi/2011/3019/article/7/4) inserted (14.11.2012) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 7 and Transitional Provisions and Commencement No. 3 and Transitional Provisions (Amendment)) Order 2012 (S.I. 2012/2892)](https://www.legislation.gov.uk/uksi/2012/2892), [art. 8(2)](https://www.legislation.gov.uk/uksi/2012/2892/article/8/2)
+[^c-d496cc3e701f23b078391de2233109ae]: Textual amendment: [Art. 7(4)](https://www.legislation.gov.uk/uksi/2011/3019/article/7/4) inserted (14.11.2012) by [The Police Reform and Social Responsibility Act 2011 (Commencement No. 7 and Transitional Provisions and Commencement No. 3 and Transitional Provisions (Amendment)) Order 2012 (S.I. 2012/2892)](https://www.legislation.gov.uk/uksi/2012/2892), [art. 8(2)](https://www.legislation.gov.uk/uksi/2012/2892/article/8/2)

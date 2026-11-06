@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Rights to request acceptance of transfer value payment[^key-f258eef6c92a3d4d452fb97520df4b11]
+## 106. Rights to request acceptance of transfer value payment[^c-f258eef6c92a3d4d452fb97520df4b11]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f258eef6c92a3d4d452fb97520df4b11]: Commencement: [Reg. 106](https://www.legislation.gov.uk/uksi/2014/2336/regulation/106) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)
+[^c-f258eef6c92a3d4d452fb97520df4b11]: Commencement: [Reg. 106](https://www.legislation.gov.uk/uksi/2014/2336/regulation/106) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2336/regulation/1/2)

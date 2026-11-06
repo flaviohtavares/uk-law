@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Extension of prohibition on employment to other working arrangements[^key-e414c36de6385c6cbf39abdbac288d5d][^key-606047a6e6faf6cfbadeee9d574f026d]
+## 48. Extension of prohibition on employment to other working arrangements[^c-e414c36de6385c6cbf39abdbac288d5d][^c-606047a6e6faf6cfbadeee9d574f026d]
 
 *Extent: E+W+S+N.I.*
 
@@ -102,6 +102,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e414c36de6385c6cbf39abdbac288d5d]: Commencement: S. 48 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-e414c36de6385c6cbf39abdbac288d5d]: Commencement: S. 48 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-606047a6e6faf6cfbadeee9d574f026d]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2025/31/section/48) in force at 1.10.2026 by [S.I. 2026/683](https://www.legislation.gov.uk/uksi/2026/683), [reg. 2](https://www.legislation.gov.uk/uksi/2026/683/regulation/2)
+[^c-606047a6e6faf6cfbadeee9d574f026d]: Commencement: [S. 48](https://www.legislation.gov.uk/ukpga/2025/31/section/48) in force at 1.10.2026 by [S.I. 2026/683](https://www.legislation.gov.uk/uksi/2026/683), [reg. 2](https://www.legislation.gov.uk/uksi/2026/683/regulation/2)

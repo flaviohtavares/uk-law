@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 139. Surviving adult pensions[^key-a7874033a399db612c5e7ce03ee85668]
+## 139. Surviving adult pensions[^c-a7874033a399db612c5e7ce03ee85668]
 
 *Extent: S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7874033a399db612c5e7ce03ee85668]: Commencement: [Reg. 139](https://www.legislation.gov.uk/ssi/2014/292/regulation/139) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-a7874033a399db612c5e7ce03ee85668]: Commencement: [Reg. 139](https://www.legislation.gov.uk/ssi/2014/292/regulation/139) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

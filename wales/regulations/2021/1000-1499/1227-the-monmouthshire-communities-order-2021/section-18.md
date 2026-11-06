@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Lansdown and Priory — change in community ward boundaries and consequential change to electoral wards[^key-1681b935974fc42d408203cfd642b35f][^key-f3f928c373722b3edd09caaa2298d21c]
+## 18. Lansdown and Priory — change in community ward boundaries and consequential change to electoral wards[^c-1681b935974fc42d408203cfd642b35f][^c-f3f928c373722b3edd09caaa2298d21c]
 
 *Extent: E+W*
 
@@ -27,6 +27,6 @@ The part of the Lansdown ward of the community of Abergavenny shown hatched on M
 
 ## Annotations
 
-[^key-1681b935974fc42d408203cfd642b35f]: Commencement: Art. 18 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-1681b935974fc42d408203cfd642b35f]: Commencement: Art. 18 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-f3f928c373722b3edd09caaa2298d21c]: Commencement: [Art. 18](https://www.legislation.gov.uk/wsi/2021/1227/article/18) in force at 4.5.2022 at 23:59 hours at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-f3f928c373722b3edd09caaa2298d21c]: Commencement: [Art. 18](https://www.legislation.gov.uk/wsi/2021/1227/article/18) in force at 4.5.2022 at 23:59 hours at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)

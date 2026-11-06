@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Procedural fairness in unfair dismissal[^key-bbba112359a250abd07e40edf8936280]
+## 34. Procedural fairness in unfair dismissal[^c-bbba112359a250abd07e40edf8936280]
 
 *Extent: E+W+S*
 
 (1) Part 10 of the Employment Rights Act 1996 (c. 18) (unfair dismissal) is amended as follows.
 
-(2)[^key-acfd46bcbbb91d65842a3895f25008ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-acfd46bcbbb91d65842a3895f25008ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 112 (the remedies: orders and compensation), at the end there is inserted—
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-bbba112359a250abd07e40edf8936280]: Commencement: S. 34 in force at 1.10.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)
+[^c-bbba112359a250abd07e40edf8936280]: Commencement: S. 34 in force at 1.10.2004 by [S.I. 2004/1717](https://www.legislation.gov.uk/uksi/2004/1717), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/1717/article/2/2)
 
-[^key-acfd46bcbbb91d65842a3895f25008ce]: Textual amendment: [S. 34(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/34/2) repealed (6.4.2009) by [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), [s. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2008/24/section/22/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/1); [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3) [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))
+[^c-acfd46bcbbb91d65842a3895f25008ce]: Textual amendment: [S. 34(2)](https://www.legislation.gov.uk/ukpga/2002/22/section/34/2) repealed (6.4.2009) by [Employment Act 2008 (c. 24)](https://www.legislation.gov.uk/ukpga/2008/24), [s. 22(1)(a)](https://www.legislation.gov.uk/ukpga/2008/24/section/22/1/a), [Sch. Pt. 1](https://www.legislation.gov.uk/ukpga/2008/24/schedule/part/1); [S.I. 2008/3232](https://www.legislation.gov.uk/uksi/2008/3232), [art. 2](https://www.legislation.gov.uk/uksi/2008/3232/article/2) (with [art. 3](https://www.legislation.gov.uk/uksi/2008/3232/article/3) [Sch.](https://www.legislation.gov.uk/uksi/2008/3232/schedule))

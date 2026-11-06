@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 551. Interpretation of the 1997 Order[^key-eacc7f2655afae35d57120881ae6b16b]
+## 551. Interpretation of the 1997 Order[^c-eacc7f2655afae35d57120881ae6b16b]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eacc7f2655afae35d57120881ae6b16b]: Commencement: Art. 551 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-eacc7f2655afae35d57120881ae6b16b]: Commencement: Art. 551 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

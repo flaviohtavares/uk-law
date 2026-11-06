@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 62. Licensed hours[^key-72b6c8a7bddc2dca68355fda59832f7d]
+## 62. Licensed hours[^c-72b6c8a7bddc2dca68355fda59832f7d]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ and a reference to a period of licensed hours is a reference to any of those per
 
 ## Annotations
 
-[^key-72b6c8a7bddc2dca68355fda59832f7d]: Commencement: S. 62 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-72b6c8a7bddc2dca68355fda59832f7d]: Commencement: S. 62 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

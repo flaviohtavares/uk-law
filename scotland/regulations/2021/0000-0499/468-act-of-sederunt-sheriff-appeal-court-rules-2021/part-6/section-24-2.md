@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 24.2. Applications to intervene[^key-1a565b1d12111ede41ff39c4267cb328]
+## 24.2. Applications to intervene[^c-1a565b1d12111ede41ff39c4267cb328]
 
 *Extent: S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a565b1d12111ede41ff39c4267cb328]: Commencement: Para. 24.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-1a565b1d12111ede41ff39c4267cb328]: Commencement: Para. 24.2 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

@@ -37,14 +37,14 @@ amending Decision 2005/50/EC on the harmonisation of the 24 GHz range radio spec
 
 (Text with EEA relevance) (revoked)
 
-[^key-3156d1fa37912480c38cc7d817be8b28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3156d1fa37912480c38cc7d817be8b28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-3156d1fa37912480c38cc7d817be8b28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3156d1fa37912480c38cc7d817be8b28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3156d1fa37912480c38cc7d817be8b28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3156d1fa37912480c38cc7d817be8b28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3156d1fa37912480c38cc7d817be8b28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3156d1fa37912480c38cc7d817be8b28]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3156d1fa37912480c38cc7d817be8b28]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3156d1fa37912480c38cc7d817be8b28]: Textual amendment: Decision revoked (31.12.2020) by [The Radio Spectrum (EU Exit) Regulations 2018 (S.I. 2018/1385)](https://www.legislation.gov.uk/uksi/2018/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1385/regulation/1), [Sch. 2 para. 40](https://www.legislation.gov.uk/uksi/2018/1385/schedule/2/paragraph/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

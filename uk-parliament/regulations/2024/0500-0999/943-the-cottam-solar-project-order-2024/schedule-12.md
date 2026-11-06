@@ -22,7 +22,7 @@ summary: ''
 
 Article 38
 
-### PART 1 — REMOVAL OF HEDGEROWS[^key-3a48958116fc2814f4f49b7fde53d41b]
+### PART 1 — REMOVAL OF HEDGEROWS[^c-3a48958116fc2814f4f49b7fde53d41b]
 
 | *(1)*<br>*Area* | *(2)*<br>*Number of hedgerow and extent of removal* |
 | --- | --- |
@@ -201,7 +201,7 @@ Article 38
 | District of Bassetlaw | Removal of part of approximately 482.41m of hedgerow within the area identified by a green line on sheet 18 of the important hedgerows plan, reference H396 |
 | District of Bassetlaw | Removal of part of approximately 67.39m of hedgerow within the area identified by a green line on sheet 19 of the important hedgerows plan, reference H402 |
 
-### PART 2 — REMOVAL OF POTENTIALLY IMPORTANT HEDGEROWS[^key-79bcd08743019393e796bd0242beda2a]
+### PART 2 — REMOVAL OF POTENTIALLY IMPORTANT HEDGEROWS[^c-79bcd08743019393e796bd0242beda2a]
 
 | *(1)*<br>*Area* | *(2)*<br>*Number of hedgerow and extent of removal* |
 | --- | --- |
@@ -232,7 +232,7 @@ Article 38
 | District of West Lindsey | Removal of part of approximately 214.86m of potentially important hedgerow within the area identified by a yellow line on sheet 12 of the important hedgerows plan, reference H271 |
 | District of West Lindsey | Removal of part of approximately 268.52m of potentially important hedgerow within the area identified by a yellow line on sheet 12 of the important hedgerows plan, reference H274 |
 
-### PART 3 — REMOVAL OF IMPORTANT HEDGEROWS[^key-c7053886a350879be2e7b3badce10f28]
+### PART 3 — REMOVAL OF IMPORTANT HEDGEROWS[^c-c7053886a350879be2e7b3badce10f28]
 
 | *(1)*<br>*Area* | *(2)*<br>*Number of hedgerow and extent of removal* |
 | --- | --- |
@@ -456,8 +456,8 @@ Article 38
 
 ## Annotations
 
-[^key-3a48958116fc2814f4f49b7fde53d41b]: Commencement: Sch. 12 Pt. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-3a48958116fc2814f4f49b7fde53d41b]: Commencement: Sch. 12 Pt. 1 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
-[^key-79bcd08743019393e796bd0242beda2a]: Commencement: Sch. 12 Pt. 2 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-79bcd08743019393e796bd0242beda2a]: Commencement: Sch. 12 Pt. 2 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
 
-[^key-c7053886a350879be2e7b3badce10f28]: Commencement: Sch. 12 Pt. 3 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)
+[^c-c7053886a350879be2e7b3badce10f28]: Commencement: Sch. 12 Pt. 3 in force at 27.9.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/943/article/1)

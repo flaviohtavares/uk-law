@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 104. Power to regulate procedure etc. in the sheriff court and the Sheriff Appeal Court[^key-7be10b9ee768d914b378055fb7051f77]
+## 104. Power to regulate procedure etc. in the sheriff court and the Sheriff Appeal Court[^c-7be10b9ee768d914b378055fb7051f77]
 
 *Extent: S*
 
@@ -32,15 +32,15 @@ summary: ''
   - (i) encouraging settlement of disputes and the use of alternative dispute resolution procedures,
   - (ii) action to be taken before such proceedings are brought by persons who will be party to the proceedings,
 - (c) other aspects of the conduct and management of such proceedings, including the use of technology,
-- (ca)[^key-b5b125014a1f8ab5a05ca7264a225400] ensuring that such proceedings are conducted in a way that accords with trauma-informed practice,
+- (ca)[^c-b5b125014a1f8ab5a05ca7264a225400] ensuring that such proceedings are conducted in a way that accords with trauma-informed practice,
 - (d) simplifying the language used in connection with such proceedings or matters incidental or ancillary to them,
 - (e) the form of any document to be used in connection with such proceedings, matters incidental or ancillary to them or matters specified in this subsection,
 - (f) appeals against a decision of a sheriff or the Sheriff Appeal Court,
 - (g) applications that may be made to a sheriff or the Sheriff Appeal Court,
 - (h) time limits in relation to proceedings mentioned in subsection (1), matters incidental or ancillary to them or matters specified in this subsection,
 - (i) the steps that a sheriff or the Sheriff Appeal Court may take where there has been an abuse of process by a party to such proceedings,
-- (j) expenses that may be awarded in[^key-2be4437085a4c63e3dd332fa3901f226] such proceedings,
-- (k) other payments such parties or persons representing such parties[^key-553bb0c2dae03f7cc11385962b2fb445] may be required to make in respect of their conduct relating to such proceedings,
+- (j) expenses that may be awarded in[^c-2be4437085a4c63e3dd332fa3901f226] such proceedings,
+- (k) other payments such parties or persons representing such parties[^c-553bb0c2dae03f7cc11385962b2fb445] may be required to make in respect of their conduct relating to such proceedings,
 - (l) the payment, investment or application of any sum of money awarded in such proceedings to or in respect of a person under a legal disability,
 - (m) the representation of parties to such proceedings, and others, including representation by persons who—
   - (i) are neither solicitors nor advocates, or
@@ -73,10 +73,10 @@ summary: ''
 
 ## Annotations
 
-[^key-7be10b9ee768d914b378055fb7051f77]: Commencement: S. 104 in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-7be10b9ee768d914b378055fb7051f77]: Commencement: S. 104 in force at 1.4.2015 by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-b5b125014a1f8ab5a05ca7264a225400]: Textual amendment: [S. 104(2)(ca)](https://www.legislation.gov.uk/asp/2014/18/section/104/2/ca) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 28(3)](https://www.legislation.gov.uk/asp/2025/12/section/28/3), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
+[^c-b5b125014a1f8ab5a05ca7264a225400]: Textual amendment: [S. 104(2)(ca)](https://www.legislation.gov.uk/asp/2014/18/section/104/2/ca) inserted (1.10.2026) by [Victims, Witnesses, and Justice Reform (Scotland) Act 2025 (asp 12)](https://www.legislation.gov.uk/asp/2025/12), [ss. 28(3)](https://www.legislation.gov.uk/asp/2025/12/section/28/3), [116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2); [S.S.I. 2026/120](https://www.legislation.gov.uk/ssi/2026/120), [reg. 2](https://www.legislation.gov.uk/ssi/2026/120/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2026/120/schedule)
 
-[^key-2be4437085a4c63e3dd332fa3901f226]: Textual amendment: Word in [s. 104(2)(j)](https://www.legislation.gov.uk/asp/2014/18/section/104/2/j) substituted (30.1.2019) by [Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (asp 10)](https://www.legislation.gov.uk/asp/2018/10), [ss. 12(4)(a)](https://www.legislation.gov.uk/asp/2018/10/section/12/4/a), [27(3)](https://www.legislation.gov.uk/asp/2018/10/section/27/3); [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/e)
+[^c-2be4437085a4c63e3dd332fa3901f226]: Textual amendment: Word in [s. 104(2)(j)](https://www.legislation.gov.uk/asp/2014/18/section/104/2/j) substituted (30.1.2019) by [Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (asp 10)](https://www.legislation.gov.uk/asp/2018/10), [ss. 12(4)(a)](https://www.legislation.gov.uk/asp/2018/10/section/12/4/a), [27(3)](https://www.legislation.gov.uk/asp/2018/10/section/27/3); [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/e)
 
-[^key-553bb0c2dae03f7cc11385962b2fb445]: Textual amendment: Words in [s. 104(2)(k)](https://www.legislation.gov.uk/asp/2014/18/section/104/2/k) inserted (30.1.2019) by [Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (asp 10)](https://www.legislation.gov.uk/asp/2018/10), [ss. 12(4)(b)](https://www.legislation.gov.uk/asp/2018/10/section/12/4/b), [27(3)](https://www.legislation.gov.uk/asp/2018/10/section/27/3); [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/e)
+[^c-553bb0c2dae03f7cc11385962b2fb445]: Textual amendment: Words in [s. 104(2)(k)](https://www.legislation.gov.uk/asp/2014/18/section/104/2/k) inserted (30.1.2019) by [Civil Litigation (Expenses and Group Proceedings) (Scotland) Act 2018 (asp 10)](https://www.legislation.gov.uk/asp/2018/10), [ss. 12(4)(b)](https://www.legislation.gov.uk/asp/2018/10/section/12/4/b), [27(3)](https://www.legislation.gov.uk/asp/2018/10/section/27/3); [S.S.I. 2018/368](https://www.legislation.gov.uk/ssi/2018/368), [reg. 2(e)](https://www.legislation.gov.uk/ssi/2018/368/regulation/2/e)

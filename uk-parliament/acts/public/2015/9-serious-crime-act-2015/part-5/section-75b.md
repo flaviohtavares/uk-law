@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 75B. Offences under section 75A committed outside the United Kingdom[^key-a86717825e4ee352acfaf0eae1590772]
+## 75B. Offences under section 75A committed outside the United Kingdom[^c-a86717825e4ee352acfaf0eae1590772]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ the person is guilty in England and Wales of that offence.
 
 ## Annotations
 
-[^key-a86717825e4ee352acfaf0eae1590772]: Textual amendment: [Ss. 75A](https://www.legislation.gov.uk/ukpga/2015/9/section/75A), [75B](https://www.legislation.gov.uk/ukpga/2015/9/section/75B) and cross-heading inserted (E.W.) (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 70(1)](https://www.legislation.gov.uk/ukpga/2021/17/section/70/1), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/a)
+[^c-a86717825e4ee352acfaf0eae1590772]: Textual amendment: [Ss. 75A](https://www.legislation.gov.uk/ukpga/2015/9/section/75A), [75B](https://www.legislation.gov.uk/ukpga/2015/9/section/75B) and cross-heading inserted (E.W.) (7.6.2022) by [Domestic Abuse Act 2021 (c. 17)](https://www.legislation.gov.uk/ukpga/2021/17), [ss. 70(1)](https://www.legislation.gov.uk/ukpga/2021/17/section/70/1), [90(6)](https://www.legislation.gov.uk/ukpga/2021/17/section/90/6); [S.I. 2022/553](https://www.legislation.gov.uk/uksi/2022/553), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/553/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2022/553/regulation/3/a)

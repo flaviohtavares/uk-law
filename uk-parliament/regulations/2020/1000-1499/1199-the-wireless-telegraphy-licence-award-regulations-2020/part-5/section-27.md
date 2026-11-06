@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Round price for 700 MHz individual frequency lots[^key-24a740dcd319636eca00a4641ea68eb6]
+## 27. Round price for 700 MHz individual frequency lots[^c-24a740dcd319636eca00a4641ea68eb6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-24a740dcd319636eca00a4641ea68eb6]: Commencement: Reg. 27 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)
+[^c-24a740dcd319636eca00a4641ea68eb6]: Commencement: Reg. 27 in force at 18.11.2020, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2020/1199/regulation/1/1)

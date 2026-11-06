@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 543. Maintenance of files for registered societies[^key-aa48f286d18f37c24c176adb3b4cd756]
+## 543. Maintenance of files for registered societies[^c-aa48f286d18f37c24c176adb3b4cd756]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In paragraph (2) of regulation 12 of the Industrial and Provident Societies (For
 
 ## Annotations
 
-[^key-aa48f286d18f37c24c176adb3b4cd756]: Commencement: Art. 543 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-aa48f286d18f37c24c176adb3b4cd756]: Commencement: Art. 543 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

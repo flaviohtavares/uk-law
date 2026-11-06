@@ -31,7 +31,7 @@ summary: ''
 
 PLANT HEALTH, ENGLAND
 
-The Potatoes Originating in Egypt (Amendment) (England) Regulations 2001 (revoked)[^key-4a964a0cd51ab2ce068371f6faaec1e0]
+The Potatoes Originating in Egypt (Amendment) (England) Regulations 2001 (revoked)[^c-4a964a0cd51ab2ce068371f6faaec1e0]
 
 Made
 
@@ -45,24 +45,24 @@ Coming into force
 
 30th November 2001
 
-[^key-4a964a0cd51ab2ce068371f6faaec1e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a964a0cd51ab2ce068371f6faaec1e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, extent and commencement[^key-4a964a0cd51ab2ce068371f6faaec1e0]
+## 1. Title, extent and commencement[^c-4a964a0cd51ab2ce068371f6faaec1e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Potatoes Originating in Egypt Regulations 1998[^key-4a964a0cd51ab2ce068371f6faaec1e0]
+## 2. Amendment of the Potatoes Originating in Egypt Regulations 1998[^c-4a964a0cd51ab2ce068371f6faaec1e0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-4a964a0cd51ab2ce068371f6faaec1e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a964a0cd51ab2ce068371f6faaec1e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-4a964a0cd51ab2ce068371f6faaec1e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4a964a0cd51ab2ce068371f6faaec1e0]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4a964a0cd51ab2ce068371f6faaec1e0]: Textual amendment: Regulations revoked (15.5.2004) by [The Potatoes Originating in Egypt (England) Regulations 2004 (S.I. 2004/1165)](https://www.legislation.gov.uk/uksi/2004/1165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1165/regulation/1/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2004/1165/regulation/8/2/c)
+[^c-4a964a0cd51ab2ce068371f6faaec1e0]: Textual amendment: Regulations revoked (15.5.2004) by [The Potatoes Originating in Egypt (England) Regulations 2004 (S.I. 2004/1165)](https://www.legislation.gov.uk/uksi/2004/1165), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2004/1165/regulation/1/1), [8(2)(c)](https://www.legislation.gov.uk/uksi/2004/1165/regulation/8/2/c)

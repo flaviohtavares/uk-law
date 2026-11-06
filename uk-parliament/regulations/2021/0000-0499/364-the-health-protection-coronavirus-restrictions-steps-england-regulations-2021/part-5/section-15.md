@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Amount of fixed penalty: organised gathering offences[^key-63574b350c0e5642d8b8f0b5715d9698]
+## 15. Amount of fixed penalty: organised gathering offences[^c-63574b350c0e5642d8b8f0b5715d9698]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-63574b350c0e5642d8b8f0b5715d9698]: Textual amendment: Regulations revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2021/848/regulation/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/848/regulation/5))
+[^c-63574b350c0e5642d8b8f0b5715d9698]: Textual amendment: Regulations revoked (18.7.2021 at 11.55 p.m.) by [The Health Protection (Coronavirus, Restrictions) (Steps etc.) (England) (Revocation and Amendment) Regulations 2021 (S.I. 2021/848)](https://www.legislation.gov.uk/uksi/2021/848), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/848/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2021/848/regulation/2/a) (with [reg. 5](https://www.legislation.gov.uk/uksi/2021/848/regulation/5))

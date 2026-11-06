@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Report of meeting[^key-0da8da9506f490a65fc0e18eaead822a]
+## 102. Report of meeting[^c-0da8da9506f490a65fc0e18eaead822a]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Apply rule 7.13 of the 1986 Rules.
 
 ## Annotations
 
-[^key-0da8da9506f490a65fc0e18eaead822a]: Commencement: Rule 102 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)
+[^c-0da8da9506f490a65fc0e18eaead822a]: Commencement: Rule 102 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2584/rule/1)

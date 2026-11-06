@@ -52,7 +52,7 @@ summary: ''
 
 - (a) an arbitrator appointed by the President of the Royal Institution of Chartered Surveyors (if the proceedings are to be held in England and Wales),
 - (b) an arbiter appointed by the Chairman of the Royal Institution of Chartered Surveyors in Scotland (if the proceedings are to be held in Scotland), or
-- (c) an arbitrator appointed by the Chairman of the Royal Institution of Chartered Surveyors in Northern Ireland[^key-8d9ac2d0f7d45be1748a3492e98c52ee] (if the proceedings are to be held in Northern Ireland).
+- (c) an arbitrator appointed by the Chairman of the Royal Institution of Chartered Surveyors in Northern Ireland[^c-8d9ac2d0f7d45be1748a3492e98c52ee] (if the proceedings are to be held in Northern Ireland).
 
 (7) If it appears to the person transferring the land that a person is or may be entitled to compensation he must—
 
@@ -70,4 +70,4 @@ summary: ''
 
 [^c14879541]: Commencement: S. 61 wholly in force at 1.2.2001, see s. 275(1)(2) and [S.I. 2001/57](https://www.legislation.gov.uk/uksi/2001/57), [art. 3(1)](https://www.legislation.gov.uk/uksi/2001/57/article/3/1), [Sch. 2 Pt. I](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/I) (subject to the transitional provision and saving in [Sch. 2 Pt. II](https://www.legislation.gov.uk/uksi/2001/57/schedule/2/part/II))
 
-[^key-8d9ac2d0f7d45be1748a3492e98c52ee]: Textual amendment: Words in s. 61(6)(c) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 294](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/294); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(x)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/x)
+[^c-8d9ac2d0f7d45be1748a3492e98c52ee]: Textual amendment: Words in s. 61(6)(c) substituted (3.4.2006) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 4 para. 294](https://www.legislation.gov.uk/ukpga/2005/4/schedule/4/paragraph/294); [S.I. 2006/1014](https://www.legislation.gov.uk/uksi/2006/1014), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1014/article/2/a), [Sch. 1 para. 11(x)](https://www.legislation.gov.uk/uksi/2006/1014/schedule/1/paragraph/11/x)

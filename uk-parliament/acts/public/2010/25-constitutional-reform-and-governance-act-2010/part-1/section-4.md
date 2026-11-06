@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Other statutory management powers[^key-0b4563e95f2ff2c52e00bb1207c5d004]
+## 4. Other statutory management powers[^c-0b4563e95f2ff2c52e00bb1207c5d004]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,4 +37,4 @@ but excludes this Part of this Act.
 
 ## Annotations
 
-[^key-0b4563e95f2ff2c52e00bb1207c5d004]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2010/25/section/4) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)
+[^c-0b4563e95f2ff2c52e00bb1207c5d004]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2010/25/section/4) in force at 11.11.2010 by [S.I. 2010/2703](https://www.legislation.gov.uk/uksi/2010/2703), [art. 2(a)](https://www.legislation.gov.uk/uksi/2010/2703/article/2/a)

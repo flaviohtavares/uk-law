@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 251. Initial expenses etc of new community councils[^key-0c4220880bbbf9091b79412210f9e91c][^key-b66b70d3e8ce14d3846978c217b9e6f5]
+## 251. Initial expenses etc of new community councils[^c-0c4220880bbbf9091b79412210f9e91c][^c-b66b70d3e8ce14d3846978c217b9e6f5]
 
 *Extent: E+W*
 
@@ -52,9 +52,9 @@ summary: ''
 
 ## Annotations
 
-[^key-0c4220880bbbf9091b79412210f9e91c]: Commencement: Art. 251 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
+[^c-0c4220880bbbf9091b79412210f9e91c]: Commencement: Art. 251 in force at 8.11.2021 for specified purposes, see [art. 1(2)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/2)
 
-[^key-b66b70d3e8ce14d3846978c217b9e6f5]: Commencement: [Art. 251](https://www.legislation.gov.uk/wsi/2021/1227/article/251) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
+[^c-b66b70d3e8ce14d3846978c217b9e6f5]: Commencement: [Art. 251](https://www.legislation.gov.uk/wsi/2021/1227/article/251) in force at 4.5.2022 at 23:59 hours in so far as not already in force, see [art. 1(3)](https://www.legislation.gov.uk/wsi/2021/1227/article/1/3)
 
 [^f00008]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14). Sections 32 and 35 were amended, in relation to Wales, by paragraphs 4 and 6 respectively of Schedule 12 to the Local Government (Wales) Act [1994 (c. 19)](https://www.legislation.gov.uk/ukpga/1994/19). Section 50 was amended by Part 1 of Schedule 8 to the Local Government Act 2003) (c. 26). Sections 52X and 52Y were inserted by Part 1 of Schedule 1 to the Local Government Act [1999 (c. 27)](https://www.legislation.gov.uk/ukpga/1999/27).
 

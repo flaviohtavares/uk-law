@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 41. Failure to comply with requirements of notices etc.[^key-60c567feb2196a2c676a927a52b24189]
+## 41. Failure to comply with requirements of notices etc.[^c-60c567feb2196a2c676a927a52b24189]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ A person commits an offence if the person fails to comply with—
 
 ## Annotations
 
-[^key-60c567feb2196a2c676a927a52b24189]: Commencement: Reg. 41 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)
+[^c-60c567feb2196a2c676a927a52b24189]: Commencement: Reg. 41 in operation at 23.12.2020, see [reg. 1](https://www.legislation.gov.uk/nisr/2020/293/regulation/1)

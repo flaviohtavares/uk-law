@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 23. Powers of authorised officers to search for relevant articles[^key-3e5f1e1667dc68839bf7b997c5611a02][^key-8ec0034883b6d2aca2cacc4306f21805]
+## 23. Powers of authorised officers to search for relevant articles[^c-3e5f1e1667dc68839bf7b997c5611a02][^c-8ec0034883b6d2aca2cacc4306f21805]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,6 +61,6 @@ summary: ''
 
 ## Annotations
 
-[^key-3e5f1e1667dc68839bf7b997c5611a02]: Commencement: S. 23 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
+[^c-3e5f1e1667dc68839bf7b997c5611a02]: Commencement: S. 23 not in force at Royal Assent, see [s. 65(1)](https://www.legislation.gov.uk/ukpga/2025/31/section/65/1)
 
-[^key-8ec0034883b6d2aca2cacc4306f21805]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2025/31/section/23) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)
+[^c-8ec0034883b6d2aca2cacc4306f21805]: Commencement: [S. 23](https://www.legislation.gov.uk/ukpga/2025/31/section/23) in force at 5.1.2026 by [S.I. 2025/1318](https://www.legislation.gov.uk/uksi/2025/1318), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2025/1318/regulation/2/e)

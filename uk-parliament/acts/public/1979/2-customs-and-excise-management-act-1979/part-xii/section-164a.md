@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 164A. Powers to search for cash[^key-c64598341fd416a8e0b6f5075072e76c]
+## 164A. Powers to search for cash[^c-c64598341fd416a8e0b6f5075072e76c]
 
 *Extent: E+W+S+N.I.*
 
@@ -55,7 +55,7 @@ summary: ''
 - “cash”—
   - (a) so far as relating to purposes falling within subsection (1)(a) above, has the meaning given by section 289(6) and (7) of the 2002 Act; and
   - (b) so far as relating to purposes falling within subsection (1)(b) above, has the same meaning as in the Cash Control Regulation;
-- “**the Cash Control Regulation**” means Regulation [(EC) No. 1889/2005](https://www.legislation.gov.uk/european/regulation/2005/1889) of the European Parliament and of the Council of 26 October 2005 on controls of cash entering or leaving the European Union[^key-b2509ff0ebe59fb37e644c44bb44fec6] ;
+- “**the Cash Control Regulation**” means Regulation [(EC) No. 1889/2005](https://www.legislation.gov.uk/european/regulation/2005/1889) of the European Parliament and of the Council of 26 October 2005 on controls of cash entering or leaving the European Union[^c-b2509ff0ebe59fb37e644c44bb44fec6] ;
 - “**minimum amount**” has the meaning given by section 303 of the 2002 Act;
 - “**modifications**” includes omissions;
 - “**recoverable property**” has the meaning given by section 316(1) of the 2002 Act;
@@ -63,6 +63,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c64598341fd416a8e0b6f5075072e76c]: Textual amendment: S. 164A inserted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 99(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/99/1), [116(3)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/3/b); [S.I. 2010/52](https://www.legislation.gov.uk/uksi/2010/52), [art. 2](https://www.legislation.gov.uk/uksi/2010/52/article/2)
+[^c-c64598341fd416a8e0b6f5075072e76c]: Textual amendment: S. 164A inserted (25.1.2010) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [ss. 99(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/99/1), [116(3)(b)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/3/b); [S.I. 2010/52](https://www.legislation.gov.uk/uksi/2010/52), [art. 2](https://www.legislation.gov.uk/uksi/2010/52/article/2)
 
-[^key-b2509ff0ebe59fb37e644c44bb44fec6]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))
+[^c-b2509ff0ebe59fb37e644c44bb44fec6]: Textual amendment: Words in Act substituted (22.4.2011) by [The Treaty of Lisbon (Changes in Terminology) Order 2011 (S.I. 2011/1043)](https://www.legislation.gov.uk/uksi/2011/1043), [arts. 2](https://www.legislation.gov.uk/uksi/2011/1043/article/2), [3](https://www.legislation.gov.uk/uksi/2011/1043/article/3), [4](https://www.legislation.gov.uk/uksi/2011/1043/article/4) (with [art. 3(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/2)[(3)](https://www.legislation.gov.uk/uksi/2011/1043/article/3/3), [4(2)](https://www.legislation.gov.uk/uksi/2011/1043/article/4/2), [6(4)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/4)[(5)](https://www.legislation.gov.uk/uksi/2011/1043/article/6/5))

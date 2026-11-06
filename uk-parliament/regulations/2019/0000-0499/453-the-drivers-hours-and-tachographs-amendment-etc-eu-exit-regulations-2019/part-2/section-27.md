@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card Fees) Regulations 2005[^key-b3354381823f7c940b1995b7aa539b13]
+## 27. Passenger and Goods Vehicles (Recording Equipment) (Tachograph Card Fees) Regulations 2005[^c-b3354381823f7c940b1995b7aa539b13]
 
 *Extent: E+W+S*
 
@@ -24,7 +24,7 @@ In regulation 3(2)(a)(i) of the Passenger and Goods Vehicles (Recording Equipmen
 
 ## Annotations
 
-[^key-b3354381823f7c940b1995b7aa539b13]: Commencement: Reg. 27 in force at 26.3.2019, see reg. 1(2)
+[^c-b3354381823f7c940b1995b7aa539b13]: Commencement: Reg. 27 in force at 26.3.2019, see reg. 1(2)
 
 [^c23620861]: Marginal citation: [S.I. 2005/1140](https://www.legislation.gov.uk/uksi/2005/1140), amended by [S.I. 2014/2557](https://www.legislation.gov.uk/uksi/2014/2557), 2016/248.
 

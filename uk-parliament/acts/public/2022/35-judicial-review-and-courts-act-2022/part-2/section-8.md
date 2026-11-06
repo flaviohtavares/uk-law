@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Written procedure for indicating plea and determining mode of trial: children[^key-f44e7011349f77c7b8ad0eeed3c6d4a4]
+## 8. Written procedure for indicating plea and determining mode of trial: children[^c-f44e7011349f77c7b8ad0eeed3c6d4a4]
 
 *Extent: E+W+S+N.I.*
 
@@ -141,4 +141,4 @@ In the Magistrates’ Courts Act 1980, after section 24 insert—
 
 ## Annotations
 
-[^key-f44e7011349f77c7b8ad0eeed3c6d4a4]: Commencement: S. 8 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-f44e7011349f77c7b8ad0eeed3c6d4a4]: Commencement: S. 8 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)

@@ -89,7 +89,7 @@ An Act to make further provision, as respects England and Wales, with respect to
 
 #### 62. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c618755]
 
-#### 63. General provisions as to local inquiries.[^key-48ec98e3c2defa1867c6ada3007902d8]
+#### 63. General provisions as to local inquiries.[^c-48ec98e3c2defa1867c6ada3007902d8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -320,7 +320,7 @@ Paragraphs . . . [^c618831], 2, . . . [^c618831], 16, . . . [^c618831], . . . [^
 
 [^c618755]: Textual amendment: [S. 62](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/55/section/62) repealed (5.11.1993) by [1993 c. 50](https://www.legislation.gov.uk/ukpga/1993/50), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1993/50/section/1/1), [Sch. 1 Pt.X](https://www.legislation.gov.uk/ukpga/1993/50/schedule/1/part/X).
 
-[^key-48ec98e3c2defa1867c6ada3007902d8]: Textual amendment: [S. 63](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/55/section/63) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
+[^c-48ec98e3c2defa1867c6ada3007902d8]: Textual amendment: [S. 63](https://www.legislation.gov.uk/ukpga/Eliz2/6-7/55/section/63) repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2004/14/schedule/1/part/10) Group 3
 
 [^c618757]: Textual amendment: Words repealed by [Statute Law (Repeals) Act 1978 (c. 45)](https://www.legislation.gov.uk/ukpga/1978/45), [s. 1(1)](https://www.legislation.gov.uk/ukpga/1978/45/section/1/1), [Sch. 1 Pt. XII](https://www.legislation.gov.uk/ukpga/1978/45/schedule/1/part/XII)
 

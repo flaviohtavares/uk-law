@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 122. Payment of grants for books, travel and other expenditure and disabled part-time students’ allowances[^key-e434addc991bfdc8c08a1a5630bd2683]
+## 122. Payment of grants for books, travel and other expenditure and disabled part-time students’ allowances[^c-e434addc991bfdc8c08a1a5630bd2683]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e434addc991bfdc8c08a1a5630bd2683]: Commencement: [Reg. 122](https://www.legislation.gov.uk/nisr/2007/195/regulation/122) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-e434addc991bfdc8c08a1a5630bd2683]: Commencement: [Reg. 122](https://www.legislation.gov.uk/nisr/2007/195/regulation/122) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

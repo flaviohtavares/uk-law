@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 82. Persons to be treated as eligible students[^key-0202ad25d848fd6f3e08ca91f066bd6e]
+## 82. Persons to be treated as eligible students[^c-0202ad25d848fd6f3e08ca91f066bd6e]
 
 *Extent: N.I.*
 
@@ -29,4 +29,4 @@ A person is “a person treated as an eligible student” if—
 
 ## Annotations
 
-[^key-0202ad25d848fd6f3e08ca91f066bd6e]: Commencement: [Reg. 82](https://www.legislation.gov.uk/nisr/2007/195/regulation/82) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)
+[^c-0202ad25d848fd6f3e08ca91f066bd6e]: Commencement: [Reg. 82](https://www.legislation.gov.uk/nisr/2007/195/regulation/82) in operation at 1.5.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/195/regulation/1)

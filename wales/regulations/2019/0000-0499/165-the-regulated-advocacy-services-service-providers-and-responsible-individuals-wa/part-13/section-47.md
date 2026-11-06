@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 47. Duty to ensure there are systems in place to record incidents and complaints[^key-4898e2a7b7b152134dae6fed55877340]
+## 47. Duty to ensure there are systems in place to record incidents and complaints[^c-4898e2a7b7b152134dae6fed55877340]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The responsible individual must ensure that there are effective systems in place
 
 ## Annotations
 
-[^key-4898e2a7b7b152134dae6fed55877340]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2019/165/regulation/47) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)
+[^c-4898e2a7b7b152134dae6fed55877340]: Commencement: [Reg. 47](https://www.legislation.gov.uk/wsi/2019/165/regulation/47) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/165/regulation/1/2)

@@ -30,7 +30,7 @@ summary: ''
 (3) If the Chief Inspector prepares a report under subsection (2) he must send a copy of the report to—
 
 - (a) the governing body of the school (unless the school falls within paragraph (b)), or
-- (b) if the school is a maintained school which does not have a delegated budget, the local authority[^key-94ed0295e29907765ea29be5dd3e5cb4] who maintain the school.
+- (b) if the school is a maintained school which does not have a delegated budget, the local authority[^c-94ed0295e29907765ea29be5dd3e5cb4] who maintain the school.
 
 (4) The body to whom a report is sent under subsection (3) must, if so requested by the Chief Inspector, provide a copy of the report to the registered parents of registered pupils at the school to which the complaint relates.
 
@@ -40,4 +40,4 @@ summary: ''
 
 [^c19248091]: Textual amendment: Ss. 11A-11C and preceding cross-heading inserted (28.3.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 160](https://www.legislation.gov.uk/ukpga/2006/40/section/160), [188](https://www.legislation.gov.uk/ukpga/2006/40/section/188); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 3](https://www.legislation.gov.uk/uksi/2007/935/article/3)
 
-[^key-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)
+[^c-94ed0295e29907765ea29be5dd3e5cb4]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 13(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/13/2)

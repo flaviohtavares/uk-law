@@ -30,7 +30,7 @@ summary: ''
 
 EUROPEAN COMMUNITIES
 
-The European Communities (Definition of Treaties) (International Convention on the Harmonised Commodity Description and Coding System) Order 1987 (revoked)[^key-f2d10dcdf8a36edaef2f432759df5e26]
+The European Communities (Definition of Treaties) (International Convention on the Harmonised Commodity Description and Coding System) Order 1987 (revoked)[^c-f2d10dcdf8a36edaef2f432759df5e26]
 
 Made
 
@@ -44,26 +44,26 @@ Present,
 
 The Queen’s Most Excellent Majesty in Council
 
-[^key-f2d10dcdf8a36edaef2f432759df5e26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2d10dcdf8a36edaef2f432759df5e26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-f2d10dcdf8a36edaef2f432759df5e26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f2d10dcdf8a36edaef2f432759df5e26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f2d10dcdf8a36edaef2f432759df5e26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f2d10dcdf8a36edaef2f432759df5e26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2d10dcdf8a36edaef2f432759df5e26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2d10dcdf8a36edaef2f432759df5e26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-f2d10dcdf8a36edaef2f432759df5e26]
+## SCHEDULE[^c-f2d10dcdf8a36edaef2f432759df5e26]
 
-**1.**[^key-f2d10dcdf8a36edaef2f432759df5e26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-f2d10dcdf8a36edaef2f432759df5e26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-f2d10dcdf8a36edaef2f432759df5e26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-f2d10dcdf8a36edaef2f432759df5e26] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f2d10dcdf8a36edaef2f432759df5e26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f2d10dcdf8a36edaef2f432759df5e26]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f2d10dcdf8a36edaef2f432759df5e26]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1987/2040) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f2d10dcdf8a36edaef2f432759df5e26]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1987/2040) revoked (31.12.2020) by [The European Union (Definition of Treaties Orders) (Revocation) (EU Exit) Regulations 2018 (S.I. 2018/1012)](https://www.legislation.gov.uk/uksi/2018/1012), [reg. 1](https://www.legislation.gov.uk/uksi/2018/1012/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2018/1012/schedule); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

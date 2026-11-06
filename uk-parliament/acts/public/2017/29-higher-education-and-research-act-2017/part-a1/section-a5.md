@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## A5. Duty to take steps to secure freedom of speech[^key-748b03e9e8d57c602018a59a4123e965]
+## A5. Duty to take steps to secure freedom of speech[^c-748b03e9e8d57c602018a59a4123e965]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-748b03e9e8d57c602018a59a4123e965]: Textual amendment: [Ss. A5](https://www.legislation.gov.uk/ukpga/2017/29/section/A5), [A6](https://www.legislation.gov.uk/ukpga/2017/29/section/A6) and cross-heading inserted (1.8.2025 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/16/section/3), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/c)
+[^c-748b03e9e8d57c602018a59a4123e965]: Textual amendment: [Ss. A5](https://www.legislation.gov.uk/ukpga/2017/29/section/A5), [A6](https://www.legislation.gov.uk/ukpga/2017/29/section/A6) and cross-heading inserted (1.8.2025 for specified purposes) by [Higher Education (Freedom of Speech) Act 2023 (c. 16)](https://www.legislation.gov.uk/ukpga/2023/16), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/16/section/3), [13(3)](https://www.legislation.gov.uk/ukpga/2023/16/section/13/3); [S.I. 2025/528](https://www.legislation.gov.uk/uksi/2025/528), [reg. 2(c)](https://www.legislation.gov.uk/uksi/2025/528/regulation/2/c)

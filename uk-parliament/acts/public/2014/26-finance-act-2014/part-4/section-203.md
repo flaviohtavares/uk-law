@@ -27,7 +27,7 @@ In this Part “**tax appeal**” means—
 - (c) an appeal under section 705 of ITA 2007 (income tax: appeals against counteraction notices),
 - (d) an appeal under paragraph 34(3) or 48 of Schedule 18 to FA 1998 (corporation tax: appeals against amendment of a company's return made by closure notice, assessments other than self-assessments, etc),
 - (e) an appeal under section 750 of CTA 2010 (corporation tax: appeals against counteraction notices),
-- (ea)[^key-51aa3e69fe06d8805cef4263808e940b] an appeal under section 114 of FA 2016 (apprenticeship levy: appeal against an assessment),
+- (ea)[^c-51aa3e69fe06d8805cef4263808e940b] an appeal under section 114 of FA 2016 (apprenticeship levy: appeal against an assessment),
 - (f) an appeal under section 222 of IHTA 1984 (appeals against HMRC determinations) other than an appeal made by a person against a determination in respect of a transfer of value at a time when a tax enquiry is in progress in respect of a return made by that person in respect of that transfer,
 - (g) an appeal under paragraph 35 of Schedule 10 to FA 2003 (stamp duty land tax: appeals against amendment of self-assessment, discovery assessments, etc),
 - (h) an appeal under paragraph 35 of Schedule 33 to FA 2013 (annual tax on enveloped dwellings: appeals against amendment of self-assessment, discovery assessments, etc), or
@@ -37,4 +37,4 @@ In this Part “**tax appeal**” means—
 
 ## Annotations
 
-[^key-51aa3e69fe06d8805cef4263808e940b]: Textual amendment: [S. 203(ea)](https://www.legislation.gov.uk/ukpga/2014/26/section/203/ea) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 104(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/104/5) (with [s. 117](https://www.legislation.gov.uk/ukpga/2016/24/section/117))
+[^c-51aa3e69fe06d8805cef4263808e940b]: Textual amendment: [S. 203(ea)](https://www.legislation.gov.uk/ukpga/2014/26/section/203/ea) inserted (15.9.2016) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [s. 104(5)](https://www.legislation.gov.uk/ukpga/2016/24/section/104/5) (with [s. 117](https://www.legislation.gov.uk/ukpga/2016/24/section/117))

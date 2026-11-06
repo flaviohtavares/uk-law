@@ -34,15 +34,15 @@ An Act to make provision about banking.
 
 \[12th February 2009\]
 
-Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b82d26cfe407c64fef82875068e71d04]
+Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b82d26cfe407c64fef82875068e71d04]
 
 ## Contents
 
-### Part 1 — Special Resolution Regime[^key-3f368772f125ea1ae21ac6cfd6f06119][^key-f4fd0d520deafd39562d2dea05f424f5]
+### Part 1 — Special Resolution Regime[^c-3f368772f125ea1ae21ac6cfd6f06119][^c-f4fd0d520deafd39562d2dea05f424f5]
 
 *Extent: E+W+S+N.I.*
 
-#### Chapter 1 — Introduction[^key-70f4c67f6edc9301b2fbc739ce290239]
+#### Chapter 1 — Introduction[^c-70f4c67f6edc9301b2fbc739ce290239]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,14 +50,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 2 — Interpretation: “bank”](part-1/section-2.md)
 - [Section 3 — Interpretation: other expressions](part-1/section-3.md)
 
-#### Chapter 2 — Pre-resolution powers of the Bank of England[^key-295d9719523157f644543e712b703130]
+#### Chapter 2 — Pre-resolution powers of the Bank of England[^c-295d9719523157f644543e712b703130]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 3A — Removal of impediments to the exercise of stabilisation powers etc](part-1/section-3a.md)
 - [Section 3B — Safeguards relating to directions under section 3A](part-1/section-3b.md)
 
-#### Chapter 3 — Special resolution action[^key-66128f0e1311ca44b09df6cb3e25b25a]
+#### Chapter 3 — Special resolution action[^c-66128f0e1311ca44b09df6cb3e25b25a]
 
 *Extent: E+W+S+N.I.*
 
@@ -69,7 +69,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 5 — Code of practice](part-1/section-5.md)
 - [Section 6 — Code of practice: procedure](part-1/section-6.md)
 
-##### Mandatory write-down, conversion etc of capital instruments[^key-d2e997dacc8e152d26416177cd62c75a]
+##### Mandatory write-down, conversion etc of capital instruments[^c-d2e997dacc8e152d26416177cd62c75a]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,7 +78,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 6C — Mandatory reduction instruments: implementation of requirements of section 6B](part-1/section-6c.md)
 - [Section 6D — Mandatory reduction instruments: supplementary matters](part-1/section-6d.md)
 
-##### Valuation before mandatory write-down of capital or stabilisation action[^key-4c76101d2c6cf64b776730a13bb5517d]
+##### Valuation before mandatory write-down of capital or stabilisation action[^c-4c76101d2c6cf64b776730a13bb5517d]
 
 - [Section 6E — Pre-resolution valuation](part-1/section-6e.md)
 
@@ -167,7 +167,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 48 — Power to protect certain interests](part-1/section-48.md)
 - [Section 48A — Creation of liabilities](part-1/section-48a.md)
 
-##### Bail-in option[^key-e08285c6098396b69338da688e9dbcc0]
+##### Bail-in option[^c-e08285c6098396b69338da688e9dbcc0]
 
 *Extent: E+W+S+N.I.*
 
@@ -195,14 +195,14 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 48W — Reverse transfer](part-1/section-48w.md)
 - [Section 48WA — Bail-in option: recovery of expenses](part-1/section-48wa.md)
 
-##### Replacement of provisional valuation[^key-ada5966e0635f4358d85aab31d3bee7e]
+##### Replacement of provisional valuation[^c-ada5966e0635f4358d85aab31d3bee7e]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 48X — Replacement of Bank’s provisional valuation](part-1/section-48x.md)
 - [Section 48Y — Consequences of a replacement valuation](part-1/section-48y.md)
 
-##### Termination rights etc[^key-06a9fd44d1398c9a499c598f1a4a28f9]
+##### Termination rights etc[^c-06a9fd44d1398c9a499c598f1a4a28f9]
 
 *Extent: E+W+S+N.I.*
 
@@ -230,13 +230,13 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 61 — Sources of compensation](part-1/section-61.md)
 - [Section 62 — Procedure](part-1/section-62.md)
 
-##### Independent valuer: valuation under section 6E or 48X[^key-857f925a7a52fe069baf5464a75c2a99]
+##### Independent valuer: valuation under section 6E or 48X[^c-857f925a7a52fe069baf5464a75c2a99]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 62A — Independent valuer: sections 6E and 48X](part-1/section-62a.md)
 
-##### Resolution administrator[^key-8c56b8a8b7c49cbfeeda26703171fadc]
+##### Resolution administrator[^c-8c56b8a8b7c49cbfeeda26703171fadc]
 
 *Extent: E+W+S+N.I.*
 
@@ -282,7 +282,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 81 — Temporary public ownership: report](part-1/section-81.md)
 - [Section 81A — Accounting information to be included in reports under sections 80, 80A(2)(b) and 81](part-1/section-81a.md)
 
-##### Groups[^key-1662d027e9adcd95b20c8cc2c33a0290]
+##### Groups[^c-1662d027e9adcd95b20c8cc2c33a0290]
 
 *Extent: E+W+S+N.I.*
 
@@ -302,29 +302,29 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 82 — Temporary public ownership](part-1/section-82.md)
 - [Section 83 — Supplemental](part-1/section-83.md)
 
-#### Chapter 4 — Information, investigation and enforcement[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
+#### Chapter 4 — Information, investigation and enforcement[^c-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
 
 *Extent: E+W+S+N.I.*
 
-##### Powers to gather information[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
+##### Powers to gather information[^c-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
 
 - [Section 83ZA — Information](part-1/section-83za.md)
 - [Section 83ZB — Reports by skilled persons](part-1/section-83zb.md)
 
-##### Appointment of investigators[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
+##### Appointment of investigators[^c-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
 
 - [Section 83ZC — Appointment of persons to carry out general investigations](part-1/section-83zc.md)
 - [Section 83ZD — Appointment of person to carry out investigations in particular cases](part-1/section-83zd.md)
 - [Section 83ZE — Investigations etc in support of foreign resolution authorities](part-1/section-83ze.md)
 
-##### Conduct of investigations[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
+##### Conduct of investigations[^c-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
 
 - [Section 83ZF — Investigations: general](part-1/section-83zf.md)
 - [Section 83ZG — Powers of persons appointed under section 83ZC](part-1/section-83zg.md)
 - [Section 83ZH — Powers of persons appointed as a result of section 83ZD](part-1/section-83zh.md)
 - [Section 83ZI — Admissibility of statements made to investigators](part-1/section-83zi.md)
 
-##### Information and documents: supplemental provision[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
+##### Information and documents: supplemental provision[^c-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
 
 - [Section 83ZJ — Information and documents: supplemental provision](part-1/section-83zj.md)
 - [Section 83ZK — Protected items](part-1/section-83zk.md)
@@ -334,7 +334,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 83ZO — Prosecution of offences under section 83ZN](part-1/section-83zo.md)
 - [Section 83ZP — Offences under section 83ZN by bodies corporate etc](part-1/section-83zp.md)
 
-##### Enforcement of relevant requirements[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
+##### Enforcement of relevant requirements[^c-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
 
 - [Section 83ZQ — Injunctions: prevent failure to comply with relevant requirement](part-1/section-83zq.md)
 - [Section 83ZR — Regulatory sanctions](part-1/section-83zr.md)
@@ -348,15 +348,15 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 83ZZ — Co-operation](part-1/section-83zz.md)
 - [Section 83Z1 — Delegation of enforcement functions](part-1/section-83z1.md)
 
-##### Enforcement of share transfer orders[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
+##### Enforcement of share transfer orders[^c-078a3a5196c0cbc0c6c8cf9b32d7d4e1]
 
 - [Section 83Z2 — Enforcement: share transfer orders](part-1/section-83z2.md)
 
-#### Chapter 5 — Special cases[^key-12bdc81a0e7b51a4772974a763ddad20]
+#### Chapter 5 — Special cases[^c-12bdc81a0e7b51a4772974a763ddad20]
 
 *Extent: E+W+S+N.I.*
 
-##### Banks not regulated by PRA[^key-011bf2c067e43d8d7cff7c51a5316cdc]
+##### Banks not regulated by PRA[^c-011bf2c067e43d8d7cff7c51a5316cdc]
 
 *Extent: E+W+S+N.I.*
 
@@ -378,11 +378,11 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 88 — Consequential provision](part-1/section-88.md)
 - [Section 89 — Credit unions](part-1/section-89.md)
 
-##### Investment firms[^key-4c03dfce479c88084d2f8797729abbe9]
+##### Investment firms[^c-4c03dfce479c88084d2f8797729abbe9]
 
 - [Section 89A — Application to investment firms](part-1/section-89a.md)
 
-##### ...[^key-e897d6f8d601e9c6840770143f9f347c]
+##### ...[^c-e897d6f8d601e9c6840770143f9f347c]
 
 *Extent: E+W+S+N.I.*
 
@@ -393,23 +393,23 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 89F — Recognised central counterparty compensation orders](part-1/section-89f.md)
 - [Section 89G — Interpretation: “recognised central counterparty” &c.](part-1/section-89g.md)
 
-#### Chapter 6 — Third-country resolution actions[^key-d24a5b6f42961d432f0670ae6dc83586]
+#### Chapter 6 — Third-country resolution actions[^c-d24a5b6f42961d432f0670ae6dc83586]
 
 *Extent: E+W+S+N.I.*
 
-##### Third-country resolution actions[^key-d24a5b6f42961d432f0670ae6dc83586]
+##### Third-country resolution actions[^c-d24a5b6f42961d432f0670ae6dc83586]
 
 - [Section 89H — Recognition of third-country resolution actions](part-1/section-89h.md)
 - [Section 89I — Effect of recognition of third-country resolution action by Bank of England](part-1/section-89i.md)
 - [Section 89J — Third-country instruments: supplementary provision](part-1/section-89j.md)
 
-#### Chapter 6A — RESOLUTION OF UK BRANCHES OF THIRD-COUNTRY INSTITUTIONS[^key-12f95807c55e370fc2927bad1eb14534][^key-d24a5b6f42961d432f0670ae6dc83586]
+#### Chapter 6A — RESOLUTION OF UK BRANCHES OF THIRD-COUNTRY INSTITUTIONS[^c-12f95807c55e370fc2927bad1eb14534][^c-d24a5b6f42961d432f0670ae6dc83586]
 
 *Extent: E+W+S+N.I.*
 
 - [Section 89JA — Resolution of UK branches of third-country institutions](part-1/section-89ja.md)
 
-#### Chapter 7 — General provisions[^key-d24a5b6f42961d432f0670ae6dc83586]
+#### Chapter 7 — General provisions[^c-d24a5b6f42961d432f0670ae6dc83586]
 
 *Extent: E+W+S+N.I.*
 
@@ -417,7 +417,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 89L — Restrictions on disclosure of confidential information](part-1/section-89l.md)
 - [Section 89M — Giving of notices, documents etc under Part 1](part-1/section-89m.md)
 
-### Part 2 — Bank Insolvency[^key-b51e6c0382ca7cdcdc0e8125e497ae0e][^M_C_9d1f591a-5422-4003-a5ba-31adaef60d3d][^key-93f77ccf21d13fc3369d9cbadfb5b82c][^key-e5768b47ba00346b2c20a25d13f59326]
+### Part 2 — Bank Insolvency[^c-b51e6c0382ca7cdcdc0e8125e497ae0e][^M_C_9d1f591a-5422-4003-a5ba-31adaef60d3d][^c-93f77ccf21d13fc3369d9cbadfb5b82c][^c-e5768b47ba00346b2c20a25d13f59326]
 
 *Extent: E+W+S+N.I.*
 
@@ -494,7 +494,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 134 — Northern Ireland](part-2/section-134.md)
 - [Section 135 — Consequential provision](part-2/section-135.md)
 
-### Part 3 — Bank Administration[^key-06cac3067e0c7c9682453323996e75ac][^key-8c4303f3d84856980dffdf5e3dada612][^key-ba7c0d614b2d88de8c629e0141d3717b][^M_C_5e00122a-e5da-4b7e-c646-8cbdbce37777][^key-f189b2c50835966d7e41d15dcf221d7d]
+### Part 3 — Bank Administration[^c-06cac3067e0c7c9682453323996e75ac][^c-8c4303f3d84856980dffdf5e3dada612][^c-ba7c0d614b2d88de8c629e0141d3717b][^M_C_5e00122a-e5da-4b7e-c646-8cbdbce37777][^c-f189b2c50835966d7e41d15dcf221d7d]
 
 *Extent: E+W+S+N.I.*
 
@@ -569,7 +569,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 179 — Delegation of functions](part-4/section-179.md)
 - [Section 180 — Functions under this Act](part-4/section-180.md)
 
-### Part 5 — ... Payment Systems and service providers[^key-2e568712c058f911951f9ff34916ca00][^key-2d9cb448bdf53caaf9b18cda25f491ec]
+### Part 5 — ... Payment Systems and service providers[^c-2e568712c058f911951f9ff34916ca00][^c-2d9cb448bdf53caaf9b18cda25f491ec]
 
 *Extent: E+W+S+N.I.*
 
@@ -579,7 +579,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 182 — Interpretation: ... key terms](part-5/section-182.md)
 - [Section 183 — Interpretation: other expressions](part-5/section-183.md)
 
-#### Recognised systems and service providers[^key-3cdf5928837d7588fa9811b4f155fdaa]
+#### Recognised systems and service providers[^c-3cdf5928837d7588fa9811b4f155fdaa]
 
 - [Section 184 — Recognition order : payment system](part-5/section-184.md)
 - [Section 184A — Recognition order: DSA service provider](part-5/section-184a.md)
@@ -628,30 +628,30 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 206AA — Service providers connected with a recognised payment system that uses digital settlement assets](part-5/section-206aa.md)
 - [Section 206B — International obligations](part-5/section-206b.md)
 
-### PART 5A — Wholesale cash distribution[^key-ae09a7768d77aba2c7df294dec95488a]
+### PART 5A — Wholesale cash distribution[^c-ae09a7768d77aba2c7df294dec95488a]
 
-#### Introduction[^key-ae09a7768d77aba2c7df294dec95488a]
+#### Introduction[^c-ae09a7768d77aba2c7df294dec95488a]
 
 - [Section 206C — Overview and purpose](part-5a/section-206c.md)
 - [Section 206D — Policy statement](part-5a/section-206d.md)
 - [Section 206E — Interpretation: “wholesale cash distribution”](part-5a/section-206e.md)
 - [Section 206F — Interpretation: other terms](part-5a/section-206f.md)
 
-#### Recognised persons[^key-ae09a7768d77aba2c7df294dec95488a]
+#### Recognised persons[^c-ae09a7768d77aba2c7df294dec95488a]
 
 - [Section 206G — Wholesale cash oversight orders](part-5a/section-206g.md)
 - [Section 206H — “Market significance” and “systemic significance”](part-5a/section-206h.md)
 - [Section 206I — Procedure](part-5a/section-206i.md)
 - [Section 206J — Amendment or revocation of a wholesale cash oversight order](part-5a/section-206j.md)
 
-#### Regulation[^key-ae09a7768d77aba2c7df294dec95488a]
+#### Regulation[^c-ae09a7768d77aba2c7df294dec95488a]
 
 - [Section 206K — Principles](part-5a/section-206k.md)
 - [Section 206L — Codes of practice](part-5a/section-206l.md)
 - [Section 206M — Directions](part-5a/section-206m.md)
 - [Section 206N — Role of the FCA, PRA and Payment Systems Regulator](part-5a/section-206n.md)
 
-#### Enforcement[^key-ae09a7768d77aba2c7df294dec95488a]
+#### Enforcement[^c-ae09a7768d77aba2c7df294dec95488a]
 
 - [Section 206O — Inspection](part-5a/section-206o.md)
 - [Section 206P — Inspection: warrant](part-5a/section-206p.md)
@@ -665,7 +665,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 206X — Appeal](part-5a/section-206x.md)
 - [Section 206Y — Injunctions](part-5a/section-206y.md)
 
-#### Miscellaneous[^key-ae09a7768d77aba2c7df294dec95488a]
+#### Miscellaneous[^c-ae09a7768d77aba2c7df294dec95488a]
 
 - [Section 206Z — Fees](part-5a/section-206z.md)
 - [Section 206Z1 — Records](part-5a/section-206z1.md)
@@ -674,7 +674,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 206Z4 — Disclosure of information](part-5a/section-206z4.md)
 - [Section 206Z5 — Saving for informal oversight](part-5a/section-206z5.md)
 
-#### Companies wholly owned by the Crown[^key-ae09a7768d77aba2c7df294dec95488a]
+#### Companies wholly owned by the Crown[^c-ae09a7768d77aba2c7df294dec95488a]
 
 - [Section 206Z6 — Power to disapply regulation and enforcement provisions](part-5a/section-206z6.md)
 
@@ -784,7 +784,7 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 - [Section 255 — Regulations](part-7/section-255.md)
 - [Section 256 — Supplemental](part-7/section-256.md)
 
-#### ...[^key-9937820137260c1dc534b3038da0c7b4]
+#### ...[^c-9937820137260c1dc534b3038da0c7b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -808,72 +808,72 @@ Be it enacted by the Queen's most Excellent Majesty, by and with the advice and 
 
 ## Annotations
 
-[^key-b82d26cfe407c64fef82875068e71d04]: Modification: Act: power to apply (with modifications) conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
+[^c-b82d26cfe407c64fef82875068e71d04]: Modification: Act: power to apply (with modifications) conferred (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 165](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/165); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 4(ddd)(xiv)](https://www.legislation.gov.uk/uksi/2023/779/regulation/4/ddd/xiv)
 
-[^key-3f368772f125ea1ae21ac6cfd6f06119]: Modification: Pt. 1 restricted (7.1.2010) by [Banking Act 2009 (Exclusion of Insurers) Order 2010 (S.I. 2010/35)](https://www.legislation.gov.uk/uksi/2010/35), [arts. 1](https://www.legislation.gov.uk/uksi/2010/35/article/1), [2](https://www.legislation.gov.uk/uksi/2010/35/article/2)
+[^c-3f368772f125ea1ae21ac6cfd6f06119]: Modification: Pt. 1 restricted (7.1.2010) by [Banking Act 2009 (Exclusion of Insurers) Order 2010 (S.I. 2010/35)](https://www.legislation.gov.uk/uksi/2010/35), [arts. 1](https://www.legislation.gov.uk/uksi/2010/35/article/1), [2](https://www.legislation.gov.uk/uksi/2010/35/article/2)
 
-[^key-f4fd0d520deafd39562d2dea05f424f5]: Modification: Pt. 1: power to amend conferred (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 17(3)(f)](https://www.legislation.gov.uk/ukpga/2013/33/section/17/3/f), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2)
+[^c-f4fd0d520deafd39562d2dea05f424f5]: Modification: Pt. 1: power to amend conferred (1.3.2014) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [ss. 17(3)(f)](https://www.legislation.gov.uk/ukpga/2013/33/section/17/3/f), [148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2)
 
-[^key-70f4c67f6edc9301b2fbc739ce290239]: Textual amendment: Pt. 1 Ch. 1 formed from ss. 1-3 (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [3](https://www.legislation.gov.uk/uksi/2014/3329/article/3)
+[^c-70f4c67f6edc9301b2fbc739ce290239]: Textual amendment: Pt. 1 Ch. 1 formed from ss. 1-3 (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [3](https://www.legislation.gov.uk/uksi/2014/3329/article/3)
 
-[^key-295d9719523157f644543e712b703130]: Textual amendment: Pt. 1 Ch. 2 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [6](https://www.legislation.gov.uk/uksi/2014/3329/article/6)
+[^c-295d9719523157f644543e712b703130]: Textual amendment: Pt. 1 Ch. 2 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [6](https://www.legislation.gov.uk/uksi/2014/3329/article/6)
 
-[^key-66128f0e1311ca44b09df6cb3e25b25a]: Textual amendment: Pt. 1 Ch. 3 formed from ss. 4-83 (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [7](https://www.legislation.gov.uk/uksi/2014/3329/article/7)
+[^c-66128f0e1311ca44b09df6cb3e25b25a]: Textual amendment: Pt. 1 Ch. 3 formed from ss. 4-83 (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [7](https://www.legislation.gov.uk/uksi/2014/3329/article/7)
 
-[^key-d2e997dacc8e152d26416177cd62c75a]: Textual amendment: Ss. 6A-6D and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [10](https://www.legislation.gov.uk/uksi/2014/3329/article/10)
+[^c-d2e997dacc8e152d26416177cd62c75a]: Textual amendment: Ss. 6A-6D and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [10](https://www.legislation.gov.uk/uksi/2014/3329/article/10)
 
-[^key-4c76101d2c6cf64b776730a13bb5517d]: Textual amendment: S. 6E and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [11](https://www.legislation.gov.uk/uksi/2014/3329/article/11)
+[^c-4c76101d2c6cf64b776730a13bb5517d]: Textual amendment: S. 6E and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [11](https://www.legislation.gov.uk/uksi/2014/3329/article/11)
 
-[^key-e08285c6098396b69338da688e9dbcc0]: Textual amendment: Ss. 48B-48W and cross-heading inserted (1.3.2014 for the insertion of s. 48P for specified purposes, 31.12.2014 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/4); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
+[^c-e08285c6098396b69338da688e9dbcc0]: Textual amendment: Ss. 48B-48W and cross-heading inserted (1.3.2014 for the insertion of s. 48P for specified purposes, 31.12.2014 in so far as not already in force) by [Financial Services (Banking Reform) Act 2013 (c. 33)](https://www.legislation.gov.uk/ukpga/2013/33), [s. 148(5)](https://www.legislation.gov.uk/ukpga/2013/33/section/148/5), [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/2013/33/schedule/2/paragraph/4); [S.I. 2014/377](https://www.legislation.gov.uk/uksi/2014/377), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/377/article/2/1/b), [Sch. Pt. 2](https://www.legislation.gov.uk/uksi/2014/377/schedule/part/2); [S.I. 2014/3160](https://www.legislation.gov.uk/uksi/2014/3160), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/3160/article/2/1/b)
 
-[^key-ada5966e0635f4358d85aab31d3bee7e]: Textual amendment: Ss. 48X, 48Y and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [61](https://www.legislation.gov.uk/uksi/2014/3329/article/61)
+[^c-ada5966e0635f4358d85aab31d3bee7e]: Textual amendment: Ss. 48X, 48Y and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [61](https://www.legislation.gov.uk/uksi/2014/3329/article/61)
 
-[^key-06a9fd44d1398c9a499c598f1a4a28f9]: Textual amendment: S. 48Z and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [62](https://www.legislation.gov.uk/uksi/2014/3329/article/62)
+[^c-06a9fd44d1398c9a499c598f1a4a28f9]: Textual amendment: S. 48Z and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [62](https://www.legislation.gov.uk/uksi/2014/3329/article/62)
 
-[^key-857f925a7a52fe069baf5464a75c2a99]: Textual amendment: S. 62A and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [69](https://www.legislation.gov.uk/uksi/2014/3329/article/69)
+[^c-857f925a7a52fe069baf5464a75c2a99]: Textual amendment: S. 62A and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [69](https://www.legislation.gov.uk/uksi/2014/3329/article/69)
 
-[^key-8c56b8a8b7c49cbfeeda26703171fadc]: Textual amendment: Ss. 62B-62E and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [70](https://www.legislation.gov.uk/uksi/2014/3329/article/70)
+[^c-8c56b8a8b7c49cbfeeda26703171fadc]: Textual amendment: Ss. 62B-62E and cross-heading inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [70](https://www.legislation.gov.uk/uksi/2014/3329/article/70)
 
-[^key-1662d027e9adcd95b20c8cc2c33a0290]: Textual amendment: S. 82 cross-heading substituted (1.8.2014) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 100(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/5), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
+[^c-1662d027e9adcd95b20c8cc2c33a0290]: Textual amendment: S. 82 cross-heading substituted (1.8.2014) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 100(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/100/5), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), [art. 2](https://www.legislation.gov.uk/uksi/2014/1847/article/2)
 
-[^key-078a3a5196c0cbc0c6c8cf9b32d7d4e1]: Textual amendment: Pt. 1 Ch. 4 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [97](https://www.legislation.gov.uk/uksi/2014/3329/article/97)
+[^c-078a3a5196c0cbc0c6c8cf9b32d7d4e1]: Textual amendment: Pt. 1 Ch. 4 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [97](https://www.legislation.gov.uk/uksi/2014/3329/article/97)
 
-[^key-12bdc81a0e7b51a4772974a763ddad20]: Textual amendment: Pt. 1 Ch. 5 formed from ss. 83A-89G (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [98](https://www.legislation.gov.uk/uksi/2014/3329/article/98)
+[^c-12bdc81a0e7b51a4772974a763ddad20]: Textual amendment: Pt. 1 Ch. 5 formed from ss. 83A-89G (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [98](https://www.legislation.gov.uk/uksi/2014/3329/article/98)
 
-[^key-011bf2c067e43d8d7cff7c51a5316cdc]: Textual amendment: S. 83A and cross-heading inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 28](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/28) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
+[^c-011bf2c067e43d8d7cff7c51a5316cdc]: Textual amendment: S. 83A and cross-heading inserted (1.4.2013) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [s. 122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3), [Sch. 17 para. 28](https://www.legislation.gov.uk/ukpga/2012/21/schedule/17/paragraph/28) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2013/423](https://www.legislation.gov.uk/uksi/2013/423), [art. 3](https://www.legislation.gov.uk/uksi/2013/423/article/3), [Sch.](https://www.legislation.gov.uk/uksi/2013/423/schedule)
 
-[^key-4c03dfce479c88084d2f8797729abbe9]: Textual amendment: S. 89A and cross-heading inserted (5.6.2014 for specified purposes, 1.8.2014 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 101(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/5), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2014/1447](https://www.legislation.gov.uk/uksi/2014/1447), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/1447/article/2/e); [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), art. 2
+[^c-4c03dfce479c88084d2f8797729abbe9]: Textual amendment: S. 89A and cross-heading inserted (5.6.2014 for specified purposes, 1.8.2014 in so far as not already in force) by [Financial Services Act 2012 (c. 21)](https://www.legislation.gov.uk/ukpga/2012/21), [ss. 101(5)](https://www.legislation.gov.uk/ukpga/2012/21/section/101/5), [122(3)](https://www.legislation.gov.uk/ukpga/2012/21/section/122/3) (with [Sch. 20](https://www.legislation.gov.uk/ukpga/2012/21/schedule/20)); [S.I. 2014/1447](https://www.legislation.gov.uk/uksi/2014/1447), [art. 2(e)](https://www.legislation.gov.uk/uksi/2014/1447/article/2/e); [S.I. 2014/1847](https://www.legislation.gov.uk/uksi/2014/1847), art. 2
 
-[^key-e897d6f8d601e9c6840770143f9f347c]: Textual amendment: [S. 89B-89G and cross-heading](https://www.legislation.gov.uk/ukpga/2009/1/part/1/crossheading/uk-clearing-houses) omitted (31.12.2023) by virtue of [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 162(6)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/162/6); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2023/1382/regulation/14))
+[^c-e897d6f8d601e9c6840770143f9f347c]: Textual amendment: [S. 89B-89G and cross-heading](https://www.legislation.gov.uk/ukpga/2009/1/part/1/crossheading/uk-clearing-houses) omitted (31.12.2023) by virtue of [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 11 para. 162(6)](https://www.legislation.gov.uk/ukpga/2023/29/schedule/11/paragraph/162/6); [S.I. 2023/1382](https://www.legislation.gov.uk/uksi/2023/1382), [reg. 8(b)](https://www.legislation.gov.uk/uksi/2023/1382/regulation/8/b) (with [reg. 14](https://www.legislation.gov.uk/uksi/2023/1382/regulation/14))
 
-[^key-d24a5b6f42961d432f0670ae6dc83586]: Textual amendment: Pt. 1 Ch. 6, 7 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [103](https://www.legislation.gov.uk/uksi/2014/3329/article/103)
+[^c-d24a5b6f42961d432f0670ae6dc83586]: Textual amendment: Pt. 1 Ch. 6, 7 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [103](https://www.legislation.gov.uk/uksi/2014/3329/article/103)
 
-[^key-12f95807c55e370fc2927bad1eb14534]: Textual amendment: Pt. 1 Ch. 6A inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [29(5)](https://www.legislation.gov.uk/uksi/2016/1239/article/29/5)
+[^c-12f95807c55e370fc2927bad1eb14534]: Textual amendment: Pt. 1 Ch. 6A inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [29(5)](https://www.legislation.gov.uk/uksi/2016/1239/article/29/5)
 
-[^key-b51e6c0382ca7cdcdc0e8125e497ae0e]: Modification: Pt. 2 applied (with modifications) by 1986 c. 53, s. 90C (as inserted (29.3.2009) by [Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 2](https://www.legislation.gov.uk/uksi/2009/805/article/2))
+[^c-b51e6c0382ca7cdcdc0e8125e497ae0e]: Modification: Pt. 2 applied (with modifications) by 1986 c. 53, s. 90C (as inserted (29.3.2009) by [Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 2](https://www.legislation.gov.uk/uksi/2009/805/article/2))
 
 [^M_C_9d1f591a-5422-4003-a5ba-31adaef60d3d]: Modification: Pt. 2 modified (29.3.2009) by [Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/805/schedule/1/paragraph/1) (as amended (7.4.2010) by [Building Societies (Insolvency and Special Administration) (Amendment) Order 2010 (S.I. 2010/1189)](https://www.legislation.gov.uk/uksi/2010/1189), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1189/article/1/2), [2](https://www.legislation.gov.uk/uksi/2010/1189/article/2) and amended (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/400/regulation/8))
 
-[^key-93f77ccf21d13fc3369d9cbadfb5b82c]: Modification: Pt. 2 restricted (7.1.2010) by [Banking Act 2009 (Exclusion of Insurers) Order 2010 (S.I. 2010/35)](https://www.legislation.gov.uk/uksi/2010/35), [arts. 1](https://www.legislation.gov.uk/uksi/2010/35/article/1), [2](https://www.legislation.gov.uk/uksi/2010/35/article/2)
+[^c-93f77ccf21d13fc3369d9cbadfb5b82c]: Modification: Pt. 2 restricted (7.1.2010) by [Banking Act 2009 (Exclusion of Insurers) Order 2010 (S.I. 2010/35)](https://www.legislation.gov.uk/uksi/2010/35), [arts. 1](https://www.legislation.gov.uk/uksi/2010/35/article/1), [2](https://www.legislation.gov.uk/uksi/2010/35/article/2)
 
-[^key-e5768b47ba00346b2c20a25d13f59326]: Modification: Pt. 2 applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 1 paras. 6](https://www.legislation.gov.uk/uksi/2011/245/schedule/1/paragraph/6), [7](https://www.legislation.gov.uk/uksi/2011/245/schedule/1/paragraph/7)
+[^c-e5768b47ba00346b2c20a25d13f59326]: Modification: Pt. 2 applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 1 paras. 6](https://www.legislation.gov.uk/uksi/2011/245/schedule/1/paragraph/6), [7](https://www.legislation.gov.uk/uksi/2011/245/schedule/1/paragraph/7)
 
-[^key-06cac3067e0c7c9682453323996e75ac]: Modification: Pt. 3 modified (21.2.2009) by [Banking Act 2009 (Bank Administration) (Modification for Application to Multiple Transfers) Regulations 2009 (S.I. 2009/313)](https://www.legislation.gov.uk/uksi/2009/313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/313/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/313/regulation/2), [3](https://www.legislation.gov.uk/uksi/2009/313/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/313/schedule/1)
+[^c-06cac3067e0c7c9682453323996e75ac]: Modification: Pt. 3 modified (21.2.2009) by [Banking Act 2009 (Bank Administration) (Modification for Application to Multiple Transfers) Regulations 2009 (S.I. 2009/313)](https://www.legislation.gov.uk/uksi/2009/313), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/313/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2009/313/regulation/2), [3](https://www.legislation.gov.uk/uksi/2009/313/regulation/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2009/313/schedule/1)
 
-[^key-8c4303f3d84856980dffdf5e3dada612]: Modification: Pt. 3 modified (21.2.2009) by [The Banking Act 2009 (Bank Administration) (Modification for Application to Banks in Temporary Public Ownership) Regulations 2009 (S.I. 2009/312)](https://www.legislation.gov.uk/uksi/2009/312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/312/regulation/1/1), [2-4](https://www.legislation.gov.uk/uksi/2009/312/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/312/schedule)
+[^c-8c4303f3d84856980dffdf5e3dada612]: Modification: Pt. 3 modified (21.2.2009) by [The Banking Act 2009 (Bank Administration) (Modification for Application to Banks in Temporary Public Ownership) Regulations 2009 (S.I. 2009/312)](https://www.legislation.gov.uk/uksi/2009/312), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/312/regulation/1/1), [2-4](https://www.legislation.gov.uk/uksi/2009/312/regulation/2), [Sch.](https://www.legislation.gov.uk/uksi/2009/312/schedule)
 
-[^key-ba7c0d614b2d88de8c629e0141d3717b]: Modification: Pt. 3 applied (with modifications) by Building Societies Act 1986 (c. 53), s. 90C (as inserted (29.3.2009) by [Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 2](https://www.legislation.gov.uk/uksi/2009/805/article/2))
+[^c-ba7c0d614b2d88de8c629e0141d3717b]: Modification: Pt. 3 applied (with modifications) by Building Societies Act 1986 (c. 53), s. 90C (as inserted (29.3.2009) by [Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), [art. 2](https://www.legislation.gov.uk/uksi/2009/805/article/2))
 
 [^M_C_5e00122a-e5da-4b7e-c646-8cbdbce37777]: Modification: Pt. 3 modified (29.3.2009) by [Building Societies (Insolvency and Special Administration) Order 2009 (S.I. 2009/805)](https://www.legislation.gov.uk/uksi/2009/805), Sch. 1 Pts. 1, 3 (as amended (7.4.2010) by [S.I. 2010/1189](https://www.legislation.gov.uk/uksi/2010/1189), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1189/article/1/2), [2](https://www.legislation.gov.uk/uksi/2010/1189/article/2) and amended (7.4.2017) by [The Deregulation Act 2015, the Small Business, Enterprise and Employment Act 2015 and the Insolvency (Amendment) Act (Northern Ireland) 2016 (Consequential Amendments and Transitional Provisions) Regulations 2017 (S.I. 2017/400)](https://www.legislation.gov.uk/uksi/2017/400), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2017/400/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2017/400/regulation/8))
 
-[^key-f189b2c50835966d7e41d15dcf221d7d]: Modification: Pt. 3 applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/6) (as amended (1.4.2013) by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 198(q)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/ii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213)))
+[^c-f189b2c50835966d7e41d15dcf221d7d]: Modification: Pt. 3 applied (with modifications) (8.2.2011) by [The Investment Bank Special Administration Regulations 2011 (S.I. 2011/245)](https://www.legislation.gov.uk/uksi/2011/245), [reg. 1](https://www.legislation.gov.uk/uksi/2011/245/regulation/1), [Sch. 2 para. 6](https://www.legislation.gov.uk/uksi/2011/245/schedule/2/paragraph/6) (as amended (1.4.2013) by [S.I. 2013/472](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 198(q)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/198/q/ii) (with [Sch. 2 para. 213](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/213)))
 
-[^key-2e568712c058f911951f9ff34916ca00]: Textual amendment: Word in [Pt. 5](https://www.legislation.gov.uk/ukpga/2009/1/part/5) heading omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2017/30/schedule/9/paragraph/2)
+[^c-2e568712c058f911951f9ff34916ca00]: Textual amendment: Word in [Pt. 5](https://www.legislation.gov.uk/ukpga/2009/1/part/5) heading omitted (27.6.2017) by virtue of [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [s. 118(2)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/2), [Sch. 9 para. 2](https://www.legislation.gov.uk/ukpga/2017/30/schedule/9/paragraph/2)
 
-[^key-2d9cb448bdf53caaf9b18cda25f491ec]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/ukpga/2009/1/part/5) heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/2)
+[^c-2d9cb448bdf53caaf9b18cda25f491ec]: Textual amendment: Words in [Pt. 5](https://www.legislation.gov.uk/ukpga/2009/1/part/5) heading inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/2)
 
-[^key-3cdf5928837d7588fa9811b4f155fdaa]: Textual amendment: Words in [s. 184 cross-heading](https://www.legislation.gov.uk/ukpga/2009/1/part/5/crossheading/recognised-systems) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/6)
+[^c-3cdf5928837d7588fa9811b4f155fdaa]: Textual amendment: Words in [s. 184 cross-heading](https://www.legislation.gov.uk/ukpga/2009/1/part/5/crossheading/recognised-systems) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 6](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/6)
 
-[^key-ae09a7768d77aba2c7df294dec95488a]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2009/1/part/5A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/1)
+[^c-ae09a7768d77aba2c7df294dec95488a]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/ukpga/2009/1/part/5A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(d)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/d), [Sch. 9 para. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/9/paragraph/1)
 
-[^key-9937820137260c1dc534b3038da0c7b4]: Textual amendment: S. 256A and cross-heading omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/1/4) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))
+[^c-9937820137260c1dc534b3038da0c7b4]: Textual amendment: S. 256A and cross-heading omitted (31.12.2020) by virtue of [The State Aid (Revocations and Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1470)](https://www.legislation.gov.uk/uksi/2020/1470), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2020/1470/regulation/1/2), [Sch. 2 para. 1(4)](https://www.legislation.gov.uk/uksi/2020/1470/schedule/2/paragraph/1/4) (with [Sch. 3](https://www.legislation.gov.uk/uksi/2020/1470/schedule/3))

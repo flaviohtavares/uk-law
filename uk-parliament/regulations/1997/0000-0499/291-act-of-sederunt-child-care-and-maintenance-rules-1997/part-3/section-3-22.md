@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.22. Applications for evidence by live link[^key-bd68143de8ae6b0172f4e22df56aeb35]
+## 3.22. Applications for evidence by live link[^c-bd68143de8ae6b0172f4e22df56aeb35]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ to be made through a live link.
 
 ## Annotations
 
-[^key-bd68143de8ae6b0172f4e22df56aeb35]: Textual amendment: Rule 3.22 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(20)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/20) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-bd68143de8ae6b0172f4e22df56aeb35]: Textual amendment: Rule 3.22 substituted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(20)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/20) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

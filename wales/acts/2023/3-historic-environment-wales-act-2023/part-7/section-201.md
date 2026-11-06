@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 201. Civil sanctions[^key-b7ba3e84797e141ea7b26afcc1b23e51][^key-5d466c5a5ba2945955deac887f0a7a10]
+## 201. Civil sanctions[^c-b7ba3e84797e141ea7b26afcc1b23e51][^c-5d466c5a5ba2945955deac887f0a7a10]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b7ba3e84797e141ea7b26afcc1b23e51]: Commencement: S. 201 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
+[^c-b7ba3e84797e141ea7b26afcc1b23e51]: Commencement: S. 201 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
 
-[^key-5d466c5a5ba2945955deac887f0a7a10]: Commencement: [S. 201](https://www.legislation.gov.uk/asc/2023/3/section/201) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-5d466c5a5ba2945955deac887f0a7a10]: Commencement: [S. 201](https://www.legislation.gov.uk/asc/2023/3/section/201) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

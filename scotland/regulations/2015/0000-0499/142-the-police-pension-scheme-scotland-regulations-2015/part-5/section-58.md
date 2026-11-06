@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Closure of deferred member’s account after gap in service not exceeding 5 years[^key-c84d626edf3b3a359268a3306504521d]
+## 58. Closure of deferred member’s account after gap in service not exceeding 5 years[^c-c84d626edf3b3a359268a3306504521d]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c84d626edf3b3a359268a3306504521d]: Commencement: Reg. 58 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-c84d626edf3b3a359268a3306504521d]: Commencement: Reg. 58 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

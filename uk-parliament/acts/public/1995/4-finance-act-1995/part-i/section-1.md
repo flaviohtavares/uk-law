@@ -24,7 +24,7 @@ summary: ''
 
 (2) In section 1 (the alcoholic liquors dutiable under the Act) in subsections (4) and (5) (definitions of “wine” and “made-wine”) after the words “any liquor” there shall in both cases be inserted “ which is of a strength exceeding 1.2 per cent and which is ”.
 
-(3)[^key-a88a72d4ad98552374bdfaa00a0277be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a88a72d4ad98552374bdfaa00a0277be] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In section 59(1) (prohibition on rendering wine and made-wine sparkling) for paragraph (b) there shall be substituted the following paragraph—
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c15669771]: Marginal citation: [1979 c. 4](https://www.legislation.gov.uk/ukpga/1979/4).
 
-[^key-a88a72d4ad98552374bdfaa00a0277be]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1995/4/section/1/3) omitted (1.9.2010) by virtue of [The Alcoholic Liquor Duties (Definition of Cider) Order 2010 (S.I. 2010/1914)](https://www.legislation.gov.uk/uksi/2010/1914), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1914/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2010/1914/article/3/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/1914/article/1/3))
+[^c-a88a72d4ad98552374bdfaa00a0277be]: Textual amendment: [S. 1(3)](https://www.legislation.gov.uk/ukpga/1995/4/section/1/3) omitted (1.9.2010) by virtue of [The Alcoholic Liquor Duties (Definition of Cider) Order 2010 (S.I. 2010/1914)](https://www.legislation.gov.uk/uksi/2010/1914), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2010/1914/article/1/2), [3(b)](https://www.legislation.gov.uk/uksi/2010/1914/article/3/b) (with [art. 1(3)](https://www.legislation.gov.uk/uksi/2010/1914/article/1/3))

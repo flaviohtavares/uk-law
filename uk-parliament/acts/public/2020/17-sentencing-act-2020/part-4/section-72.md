@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Supply of psychoactive substance in certain circumstances[^key-0ac4db86311f732c30f7a0798552f9fb]
+## 72. Supply of psychoactive substance in certain circumstances[^c-0ac4db86311f732c30f7a0798552f9fb]
 
 *Extent: E+W*
 
@@ -65,4 +65,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0ac4db86311f732c30f7a0798552f9fb]: Commencement: S. 72 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-0ac4db86311f732c30f7a0798552f9fb]: Commencement: S. 72 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

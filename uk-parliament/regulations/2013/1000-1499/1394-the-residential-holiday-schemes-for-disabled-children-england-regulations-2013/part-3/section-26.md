@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 26. Notifiable events[^key-df3ce34a4231ab2dba2785df0aca1a9b]
+## 26. Notifiable events[^c-df3ce34a4231ab2dba2785df0aca1a9b]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-df3ce34a4231ab2dba2785df0aca1a9b]: Commencement: Reg. 26 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)
+[^c-df3ce34a4231ab2dba2785df0aca1a9b]: Commencement: Reg. 26 in force at 1.7.2013, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2013/1394/regulation/1/1)

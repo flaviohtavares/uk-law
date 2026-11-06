@@ -16,20 +16,20 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Financial promotion[^key-e18e7510442d75577f0e3a2eb9a970c3]
+## 20. Financial promotion[^c-e18e7510442d75577f0e3a2eb9a970c3]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-4eeb29589b081995874a45709afe2510][^key-5e6f32ea135b80dc63a45f3c7360f7b2][^key-713cbe52da3cc953b0229c0b867db5fc] FSMA 2000 is amended as follows.
+(1)[^c-4eeb29589b081995874a45709afe2510][^c-5e6f32ea135b80dc63a45f3c7360f7b2][^c-713cbe52da3cc953b0229c0b867db5fc] FSMA 2000 is amended as follows.
 
-(2)[^key-4eeb29589b081995874a45709afe2510][^key-5e6f32ea135b80dc63a45f3c7360f7b2][^key-713cbe52da3cc953b0229c0b867db5fc] In section 21 (restrictions on financial promotion), after subsection (2) insert—
+(2)[^c-4eeb29589b081995874a45709afe2510][^c-5e6f32ea135b80dc63a45f3c7360f7b2][^c-713cbe52da3cc953b0229c0b867db5fc] In section 21 (restrictions on financial promotion), after subsection (2) insert—
 
 > (2A) The content of a communication may be approved for the purposes of this section by an authorised person only if the giving of the approval—
 >
 > - (a) is permitted under section 55NA (which enables approval to be given with FCA permission), or
 > - (b) falls within an exemption conferred by regulations under section 55NB.
 
-(3)[^key-e18e7510442d75577f0e3a2eb9a970c3][^key-4eeb29589b081995874a45709afe2510][^key-5e6f32ea135b80dc63a45f3c7360f7b2][^key-713cbe52da3cc953b0229c0b867db5fc] After section 55N insert—
+(3)[^c-e18e7510442d75577f0e3a2eb9a970c3][^c-4eeb29589b081995874a45709afe2510][^c-5e6f32ea135b80dc63a45f3c7360f7b2][^c-713cbe52da3cc953b0229c0b867db5fc] After section 55N insert—
 
 > **55NA. General requirement relating to financial promotion approval**
 >
@@ -90,21 +90,21 @@ summary: ''
 >
 > (3) In this section “**specified**” means specified in regulations under this section.
 
-(4)[^key-4eeb29589b081995874a45709afe2510][^key-5e6f32ea135b80dc63a45f3c7360f7b2][^key-713cbe52da3cc953b0229c0b867db5fc] Schedule 5 contains amendments related to this section.
+(4)[^c-4eeb29589b081995874a45709afe2510][^c-5e6f32ea135b80dc63a45f3c7360f7b2][^c-713cbe52da3cc953b0229c0b867db5fc] Schedule 5 contains amendments related to this section.
 
-(5)[^key-f078ff6cfbf468cee6b34c0ba18bc63a] The amendments made by this section and Schedule 5—
+(5)[^c-f078ff6cfbf468cee6b34c0ba18bc63a] The amendments made by this section and Schedule 5—
 
 - (a) apply to an authorised person whether the person became authorised before or after the coming into force of this section;
 - (b) do not affect the approval of a communication given before the coming into force of this section.
 
 ## Annotations
 
-[^key-e18e7510442d75577f0e3a2eb9a970c3]: Commencement: S. 20(3) in force at Royal Assent for specified purposes, see [s. 86(1)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/c)
+[^c-e18e7510442d75577f0e3a2eb9a970c3]: Commencement: S. 20(3) in force at Royal Assent for specified purposes, see [s. 86(1)(c)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/1/c)
 
-[^key-4eeb29589b081995874a45709afe2510]: Commencement: [S. 20(1)-(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/20/1) in force at 6.9.2023 for specified purposes by [S.I. 2023/936](https://www.legislation.gov.uk/uksi/2023/936), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/1/a)[(2)(a)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/936/regulation/3))
+[^c-4eeb29589b081995874a45709afe2510]: Commencement: [S. 20(1)-(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/20/1) in force at 6.9.2023 for specified purposes by [S.I. 2023/936](https://www.legislation.gov.uk/uksi/2023/936), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/1/a)[(2)(a)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/936/regulation/3))
 
-[^key-5e6f32ea135b80dc63a45f3c7360f7b2]: Commencement: [S. 20(1)-(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/20/1) in force at 6.11.2023 for specified purposes by [S.I. 2023/936](https://www.legislation.gov.uk/uksi/2023/936), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/1/b)[(2)(a)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/936/regulation/3))
+[^c-5e6f32ea135b80dc63a45f3c7360f7b2]: Commencement: [S. 20(1)-(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/20/1) in force at 6.11.2023 for specified purposes by [S.I. 2023/936](https://www.legislation.gov.uk/uksi/2023/936), [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/1/b)[(2)(a)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/2/a)[(4)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/936/regulation/3))
 
-[^key-713cbe52da3cc953b0229c0b867db5fc]: Commencement: [S. 20(1)-(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/20/1) in force at 7.2.2024 in so far as not already in force by [S.I. 2023/936](https://www.legislation.gov.uk/uksi/2023/936), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/936/regulation/3))
+[^c-713cbe52da3cc953b0229c0b867db5fc]: Commencement: [S. 20(1)-(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/20/1) in force at 7.2.2024 in so far as not already in force by [S.I. 2023/936](https://www.legislation.gov.uk/uksi/2023/936), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2023/936/regulation/3))
 
-[^key-f078ff6cfbf468cee6b34c0ba18bc63a]: Commencement: [S. 20(5)](https://www.legislation.gov.uk/ukpga/2023/29/section/20/5) in force at 7.2.2024 by [S.I. 2023/936](https://www.legislation.gov.uk/uksi/2023/936), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/3)
+[^c-f078ff6cfbf468cee6b34c0ba18bc63a]: Commencement: [S. 20(5)](https://www.legislation.gov.uk/ukpga/2023/29/section/20/5) in force at 7.2.2024 by [S.I. 2023/936](https://www.legislation.gov.uk/uksi/2023/936), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/936/regulation/2/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63AB. National DNA Database Strategy Board[^key-23b0a407c86ee0950ca53df05f6a1dca]
+## 63AB. National DNA Database Strategy Board[^c-23b0a407c86ee0950ca53df05f6a1dca]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-23b0a407c86ee0950ca53df05f6a1dca]: Textual amendment: S. 63AB inserted (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 24](https://www.legislation.gov.uk/ukpga/2012/9/section/24), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/g)
+[^c-23b0a407c86ee0950ca53df05f6a1dca]: Textual amendment: S. 63AB inserted (31.10.2013) by [Protection of Freedoms Act 2012 (c. 9)](https://www.legislation.gov.uk/ukpga/2012/9), [ss. 24](https://www.legislation.gov.uk/ukpga/2012/9/section/24), [120](https://www.legislation.gov.uk/ukpga/2012/9/section/120) (with [s. 97](https://www.legislation.gov.uk/ukpga/2012/9/section/97)); [S.I. 2013/1814](https://www.legislation.gov.uk/uksi/2013/1814), [art. 2(g)](https://www.legislation.gov.uk/uksi/2013/1814/article/2/g)

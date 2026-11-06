@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 47. Planning permission and supplementary matters[^key-3c94a1df8b9fc8da19a618bac20f9faa]
+## 47. Planning permission and supplementary matters[^c-3c94a1df8b9fc8da19a618bac20f9faa]
 
 *Extent: E+W+S*
 
@@ -28,7 +28,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3c94a1df8b9fc8da19a618bac20f9faa]: Commencement: Art. 47 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-3c94a1df8b9fc8da19a618bac20f9faa]: Commencement: Art. 47 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
 
 [^f00026]: Footnote: [S.I. 1969/17](https://www.legislation.gov.uk/uksi/1969/17).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 280. The Gazette[^key-229e9d73219fceb39508b160e97e8c1d]
+## 280. The Gazette[^c-229e9d73219fceb39508b160e97e8c1d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 12.20 of the 1986 Rules.
 
 ## Annotations
 
-[^key-229e9d73219fceb39508b160e97e8c1d]: Commencement: Rule 280 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-229e9d73219fceb39508b160e97e8c1d]: Commencement: Rule 280 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

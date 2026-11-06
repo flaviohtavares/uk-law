@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 98. Powers of Commissioners to seek information and give advice[^key-e716f42acb07a968e95a42ce22bcf966]
+## 98. Powers of Commissioners to seek information and give advice[^c-e716f42acb07a968e95a42ce22bcf966]
 
 *Extent: E*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e716f42acb07a968e95a42ce22bcf966]: Commencement: S. 98 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-e716f42acb07a968e95a42ce22bcf966]: Commencement: S. 98 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

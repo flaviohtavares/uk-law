@@ -35,7 +35,7 @@ An Act to make provision enabling a court to require the dissolution of a religi
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Power to refuse decree absolute if steps not taken to dissolve religious marriage[^key-7b6330bde6b33147022b1357599bff4c]
+## 1. Power to refuse decree absolute if steps not taken to dissolve religious marriage[^c-7b6330bde6b33147022b1357599bff4c]
 
 (1) In the Matrimonial Causes Act 1973 (c. 18), insert—
 
@@ -82,4 +82,4 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## Annotations
 
-[^key-7b6330bde6b33147022b1357599bff4c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2002/27/section/1) in force at 24.2.2003 by [S.I. 2003/186](https://www.legislation.gov.uk/uksi/2003/186), [art. 2](https://www.legislation.gov.uk/uksi/2003/186/article/2)
+[^c-7b6330bde6b33147022b1357599bff4c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2002/27/section/1) in force at 24.2.2003 by [S.I. 2003/186](https://www.legislation.gov.uk/uksi/2003/186), [art. 2](https://www.legislation.gov.uk/uksi/2003/186/article/2)

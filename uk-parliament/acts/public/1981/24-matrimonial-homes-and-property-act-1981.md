@@ -39,7 +39,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ### 1–3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c8650691]
 
-### 4.[^key-2d88a441094c831e0b8c6158600c5184]
+### 4.[^c-2d88a441094c831e0b8c6158600c5184]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -123,7 +123,7 @@ The repeals in the Matrimonial Homes Act 1967 shall not affect any caution duly 
 
 [^c8650691]: Textual amendment: [Ss. 1–3](https://www.legislation.gov.uk/ukpga/1981/24/section/1), [4(2)(3)](https://www.legislation.gov.uk/ukpga/1981/24/section/4/2/3), [5](https://www.legislation.gov.uk/ukpga/1981/24/section/5), [6](https://www.legislation.gov.uk/ukpga/1981/24/section/6), [Schs. 1](https://www.legislation.gov.uk/ukpga/1981/24/schedule/1), [2](https://www.legislation.gov.uk/ukpga/1981/24/schedule/2) repealed by [Matrimonial Homes Act 1983 (c. 19, SIF 49:5)](https://www.legislation.gov.uk/ukpga/1983/19), [ss. 12](https://www.legislation.gov.uk/ukpga/1983/19/section/12), [13(3)](https://www.legislation.gov.uk/ukpga/1983/19/section/13/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1983/19/schedule/3)
 
-[^key-2d88a441094c831e0b8c6158600c5184]: Textual amendment: S. 4 repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
+[^c-2d88a441094c831e0b8c6158600c5184]: Textual amendment: S. 4 repealed (13.10.2003) by [Land Registration Act 2002 (c. 9)](https://www.legislation.gov.uk/ukpga/2002/9), [s. 136(2)](https://www.legislation.gov.uk/ukpga/2002/9/section/136/2), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/9/schedule/13) (with [s. 129](https://www.legislation.gov.uk/ukpga/2002/9/section/129), [Sch. 12 para. 1](https://www.legislation.gov.uk/ukpga/2002/9/schedule/12/paragraph/1)); [S.I. 2003/1725](https://www.legislation.gov.uk/uksi/2003/1725), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/1725/article/2/1)
 
 [^c8650791]: Textual amendment: [Ss. 1–3](https://www.legislation.gov.uk/ukpga/1981/24/section/1), [4(2)(3)](https://www.legislation.gov.uk/ukpga/1981/24/section/4/2/3), [5](https://www.legislation.gov.uk/ukpga/1981/24/section/5), [6](https://www.legislation.gov.uk/ukpga/1981/24/section/6), [Schs. 1](https://www.legislation.gov.uk/ukpga/1981/24/schedule/1), [2](https://www.legislation.gov.uk/ukpga/1981/24/schedule/2) repealed by [Matrimonial Homes Act 1983 (c. 19, SIF 49:5)](https://www.legislation.gov.uk/ukpga/1983/19), [ss. 12](https://www.legislation.gov.uk/ukpga/1983/19/section/12), [13(3)](https://www.legislation.gov.uk/ukpga/1983/19/section/13/3), [Sch. 3](https://www.legislation.gov.uk/ukpga/1983/19/schedule/3)
 

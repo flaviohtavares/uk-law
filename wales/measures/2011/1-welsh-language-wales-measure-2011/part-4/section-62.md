@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 62. Power to carry out standards investigations[^key-26a9148ce6d0f968b5aae313ac67f25e]
+## 62. Power to carry out standards investigations[^c-26a9148ce6d0f968b5aae313ac67f25e]
 
 *Extent: E+W*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-26a9148ce6d0f968b5aae313ac67f25e]: Commencement: [S. 62](https://www.legislation.gov.uk/mwa/2011/1/section/62) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(ii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/ii)
+[^c-26a9148ce6d0f968b5aae313ac67f25e]: Commencement: [S. 62](https://www.legislation.gov.uk/mwa/2011/1/section/62) in force at 1.4.2012 by [S.I. 2012/969](https://www.legislation.gov.uk/wsi/2012/969), [art. 2(i)(ii)](https://www.legislation.gov.uk/wsi/2012/969/article/2/i/ii)

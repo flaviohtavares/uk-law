@@ -28,7 +28,7 @@ Articles 6(3) and 8(7).
 
 (1A)[^c21644601] Those terms are to be determined by the Northern Ireland Judicial Appointments Commission with the agreement of the Department of Justice[^c21759821].
 
-(2) The President shall vacate his office on the day on which he attains the age of 75[^key-8b0175e99ea4ddac8c851fc7fcdf7ca9]
+(2) The President shall vacate his office on the day on which he attains the age of 75[^c-8b0175e99ea4ddac8c851fc7fcdf7ca9]
 
 (3) [^c19537941]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -38,7 +38,7 @@ Articles 6(3) and 8(7).
 
 **3.** The Department may pay, or make such payments towards the provision of, such remuneration, pensions or allowances to or in respect of any person appointed under this Chapter to act as a member of an appeal tribunal, or as an expert to such a tribunal, as it may determine.
 
-**3A.**[^key-3a146b510e785a517e782d351a38c736] Paragraph 2 and 3, so far as relating to pensions and allowances by way of superannuation, shall not have effect in relation to persons to whom a pension is payable under a scheme made by the Department of Justice under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 by virtue of section 1(2)(b) (holders of judicial office), except to the extent provided by or under that Act.
+**3A.**[^c-3a146b510e785a517e782d351a38c736] Paragraph 2 and 3, so far as relating to pensions and allowances by way of superannuation, shall not have effect in relation to persons to whom a pension is payable under a scheme made by the Department of Justice under section 1 of the Public Service Pensions Act (Northern Ireland) 2014 by virtue of section 1(2)(b) (holders of judicial office), except to the extent provided by or under that Act.
 
 **4.** (1) The Department may pay—
 
@@ -104,11 +104,11 @@ shall be conclusive evidence of the decision; anda certificate purportingto be s
 
 [^c21759821]: Textual amendment: Words in [Sch. 1 para. 1(1A)](https://www.legislation.gov.uk/nisi/1998/1506/schedule/1/paragraph/1/1A) substituted (12.4.2010) by [Department of Justice Act (Northern Ireland) 2010 (c. 3)](https://www.legislation.gov.uk/nia/2010/3), [ss. 1(5)](https://www.legislation.gov.uk/nia/2010/3/section/1/5), [3(2)](https://www.legislation.gov.uk/nia/2010/3/section/3/2), [Sch. para. 13](https://www.legislation.gov.uk/nia/2010/3/schedule/paragraph/13); [S.R. 2010/147](https://www.legislation.gov.uk/nisr/2010/147), [art. 2(2)](https://www.legislation.gov.uk/nisr/2010/147/article/2/2)
 
-[^key-8b0175e99ea4ddac8c851fc7fcdf7ca9]: Textual amendment: Word in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/nisi/1998/1506/schedule/1/paragraph/1/2) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/31) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
+[^c-8b0175e99ea4ddac8c851fc7fcdf7ca9]: Textual amendment: Word in [Sch. 1 para. 1(2)](https://www.legislation.gov.uk/nisi/1998/1506/schedule/1/paragraph/1/2) substituted (10.3.2022) by [Public Service Pensions and Judicial Offices Act 2022 (c. 7)](https://www.legislation.gov.uk/ukpga/2022/7), [s. 131(1)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/1)[(4)(a)](https://www.legislation.gov.uk/ukpga/2022/7/section/131/4/a), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/31) (with [Sch. 1 para. 43](https://www.legislation.gov.uk/ukpga/2022/7/schedule/1/paragraph/43))
 
 [^c19537941]: Textual amendment: [Sch. 1 para. 1(3)](https://www.legislation.gov.uk/nisi/1998/1506/schedule/1/paragraph/1/3) repealed (3.4.2006) by [Justice (Northern Ireland) Act 2002 (c. 26)](https://www.legislation.gov.uk/ukpga/2002/26), [ss. 86](https://www.legislation.gov.uk/ukpga/2002/26/section/86), [87](https://www.legislation.gov.uk/ukpga/2002/26/section/87), [Sch. 13](https://www.legislation.gov.uk/ukpga/2002/26/schedule/13); [S.R. 2006/124](https://www.legislation.gov.uk/nisr/2006/124), [art. 2](https://www.legislation.gov.uk/nisr/2006/124/article/2), [Sch. paras. 9](https://www.legislation.gov.uk/nisr/2006/124/schedule/paragraph/9), [11(k)](https://www.legislation.gov.uk/nisr/2006/124/schedule/paragraph/11/k)
 
-[^key-3a146b510e785a517e782d351a38c736]: Textual amendment: Sch. 1 para. 3A inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 25](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/25); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
+[^c-3a146b510e785a517e782d351a38c736]: Textual amendment: Sch. 1 para. 3A inserted (28.4.2014) by [Public Service Pensions Act (Northern Ireland) 2014 (c. 2)](https://www.legislation.gov.uk/nia/2014/2), [s. 37(2)](https://www.legislation.gov.uk/nia/2014/2/section/37/2), [Sch. 8 para. 25](https://www.legislation.gov.uk/nia/2014/2/schedule/8/paragraph/25); [S.R. 2014/123](https://www.legislation.gov.uk/nisr/2014/123), [art. 2(1)(r)](https://www.legislation.gov.uk/nisr/2014/123/article/2/1/r)
 
 [^c17082541]: Textual amendment: [2000 c. 4 (NI)](https://www.legislation.gov.uk/nia/2000/4)
 

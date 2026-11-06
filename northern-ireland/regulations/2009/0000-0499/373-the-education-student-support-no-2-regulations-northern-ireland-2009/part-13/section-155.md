@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 155. Availability of Master’s, etc. fee loan to eligible Master’s, etc. students[^key-a12f58dd1ceef8f338bc7269220958e6]
+## 155. Availability of Master’s, etc. fee loan to eligible Master’s, etc. students[^c-a12f58dd1ceef8f338bc7269220958e6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a12f58dd1ceef8f338bc7269220958e6]: Textual amendment: [Reg. 155](https://www.legislation.gov.uk/nisr/2009/373/regulation/155) omitted (with application in accordance with reg. 1(2)(a) of the amending Rule) by virtue of [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/79)](https://www.legislation.gov.uk/nisr/2020/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/79/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2020/79/regulation/13)
+[^c-a12f58dd1ceef8f338bc7269220958e6]: Textual amendment: [Reg. 155](https://www.legislation.gov.uk/nisr/2009/373/regulation/155) omitted (with application in accordance with reg. 1(2)(a) of the amending Rule) by virtue of [The Education (Student Support) (Amendment) Regulations (Northern Ireland) 2020 (S.R. 2020/79)](https://www.legislation.gov.uk/nisr/2020/79), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/79/regulation/1/1), [13](https://www.legislation.gov.uk/nisr/2020/79/regulation/13)

@@ -46,17 +46,17 @@ A draft of this instrument has been laid before, and approved by a resolution of
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-d1143f342052ae8500c0ed46a38d03cf]
+### 1. Citation and commencement[^c-d1143f342052ae8500c0ed46a38d03cf]
 
 This Order may be cited as the Combined Authorities (Finance) Order 2017 and comes into force on the day after the date on which it is made.
 
-### 2. Interpretation[^key-4ddca30728f3dc97fa053669859a024e]
+### 2. Interpretation[^c-4ddca30728f3dc97fa053669859a024e]
 
 In this Order—
 
 - “the 1992 Act” means the Local Government Finance Act 1992[^f00002];
 - “the 2009 Act” means the Local Democracy, Economic Development and Construction Act 2009;
-- “[^key-35d42840d388e45034d24f34c107d57d]**the 2023 Act**” means the Levelling-up and Regeneration Act 2023;
+- “[^c-35d42840d388e45034d24f34c107d57d]**the 2023 Act**” means the Levelling-up and Regeneration Act 2023;
 - “**CCA**” means a combined county authority established by regulations made under section 9(1) of the 2023 Act;
 - “**mayor**” means the mayor for a mayoral combined authority or, as the case may be, the mayor for a mayoral CCA;
 - “**mayoral CCA**” means a CCA for an area for which provision is made in regulations made under section 27(1) of the 2023 Act for there to be a mayor;
@@ -69,18 +69,18 @@ In this Order—
   - (c) estimates of such a calculation; or
   - (d) amounts required to be stated in a precept under Chapter 4 of Part 1 of the 1992 Act (precepts).
 
-## PART 2 — Mayoral combined authorities and mayoral CCAs: precepts[^key-4e4c9c184fdbc16f9f355f7f48a899bc]
+## PART 2 — Mayoral combined authorities and mayoral CCAs: precepts[^c-4e4c9c184fdbc16f9f355f7f48a899bc]
 
-### 3. Costs of mayor to be met from precepts[^key-626f99be1a20f07f1b04fb4f9b1cb5c6]
+### 3. Costs of mayor to be met from precepts[^c-626f99be1a20f07f1b04fb4f9b1cb5c6]
 
-(1) The costs of a mayor[^f00004] [^key-adc7052c8d44bb3fdae222d7b3ebc272]... that are incurred in, or in connection with, the exercise of mayoral functions are to be met from precepts issued by the authority under section 40 of the 1992 Act (issue of precepts by major precepting authorities)[^f00005].
+(1) The costs of a mayor[^f00004] [^c-adc7052c8d44bb3fdae222d7b3ebc272]... that are incurred in, or in connection with, the exercise of mayoral functions are to be met from precepts issued by the authority under section 40 of the 1992 Act (issue of precepts by major precepting authorities)[^f00005].
 
 (2) Paragraph (1) has effect subject to—
 
 - (a) the transitional provisions in Part 5; and
-- (b) any contrary provision made in an order under Part 6 of the 2009 Act (economic prosperity boards and combined authorities) or in regulations made under Part 2 of the 2023 Act (local democracy and devolution)[^key-465b733280f73962eb191bfef0ef462f].
+- (b) any contrary provision made in an order under Part 6 of the 2009 Act (economic prosperity boards and combined authorities) or in regulations made under Part 2 of the 2023 Act (local democracy and devolution)[^c-465b733280f73962eb191bfef0ef462f].
 
-### 4. Power to issue precept: supplementary provision in respect of PCC functions[^key-2a28d5015a45b8e83e622416123e0f19]
+### 4. Power to issue precept: supplementary provision in respect of PCC functions[^c-2a28d5015a45b8e83e622416123e0f19]
 
 (1) This article applies where a mayor exercises PCC functions.
 
@@ -94,72 +94,72 @@ In this Order—
 
 (4) In paragraph (3) “PCC component of a precept” means the amounts stated in a precept in respect of the mayor’s PCC functions in accordance with section 40 of the 1992 Act as modified by the Schedule to this Order.
 
-## PART 3 — Setting of a combined authority’s or CCA’s budget: mayor’s general functions[^key-4b7b8969f34ad1e41400bbd85dbe70be]
+## PART 3 — Setting of a combined authority’s or CCA’s budget: mayor’s general functions[^c-4b7b8969f34ad1e41400bbd85dbe70be]
 
-### 5. Mayor to notify combined authority or CCA of proposed budget: general component[^key-3d108115065e65efc252c65762c8f82c][^key-b95469fd6873c4ce446513171403fdf0]
+### 5. Mayor to notify combined authority or CCA of proposed budget: general component[^c-3d108115065e65efc252c65762c8f82c][^c-b95469fd6873c4ce446513171403fdf0]
 
-(1) The mayor must, before 1st February in any financial year, notify the combined authority or CCA as the case may be[^key-d8a1a2971ca4660435cc0579fee3b865] of the mayor’s draft budget in relation to the following financial year.
+(1) The mayor must, before 1st February in any financial year, notify the combined authority or CCA as the case may be[^c-d8a1a2971ca4660435cc0579fee3b865] of the mayor’s draft budget in relation to the following financial year.
 
 (2) The draft budget must—
 
 - (a) set out the mayor’s spending plans and how the mayor intends to meet the costs of the mayor’s general functions; and
 - (b) include the relevant amounts and calculations.
 
-(3) In this Part references to “the combined authority" or to the CCA as the case may be[^key-ba2b70e6c7a99ef0e249db5d9e085148] are, except in article 8(7) and (8), to be construed as references to members of the authority other than a non-constituent member, an associate member or the mayor[^key-f9952192e9965be28e21373ed29e14f5].
+(3) In this Part references to “the combined authority" or to the CCA as the case may be[^c-ba2b70e6c7a99ef0e249db5d9e085148] are, except in article 8(7) and (8), to be construed as references to members of the authority other than a non-constituent member, an associate member or the mayor[^c-f9952192e9965be28e21373ed29e14f5].
 
-### 6. Combined authority or CCA to review budget[^key-e5060bfbbaad7f81f570396299a9f803][^key-6511e41f360c39d1089ab2fad8a03a74]
+### 6. Combined authority or CCA to review budget[^c-e5060bfbbaad7f81f570396299a9f803][^c-6511e41f360c39d1089ab2fad8a03a74]
 
-(1) The combined authority or CCA as the case may be[^key-717fc3ce1bff1f1af8cadca5d6219d84] must review the mayor’s draft budget notified to it under article 5.
+(1) The combined authority or CCA as the case may be[^c-717fc3ce1bff1f1af8cadca5d6219d84] must review the mayor’s draft budget notified to it under article 5.
 
-(2) The combined authority or CCA as the case may be[^key-f499e81218a6c9589c772ec59c121c0e] may make a report to the mayor on the draft budget.
+(2) The combined authority or CCA as the case may be[^c-f499e81218a6c9589c772ec59c121c0e] may make a report to the mayor on the draft budget.
 
 (3) Any report—
 
-- (a) must set out whether or not the combined authority or CCA as the case may be[^key-dce5fce85d7925e7e677204abd06c038] would approve the draft budget in its current form; and
+- (a) must set out whether or not the combined authority or CCA as the case may be[^c-dce5fce85d7925e7e677204abd06c038] would approve the draft budget in its current form; and
 - (b) may include recommendations, including recommendations as to the relevant amounts and calculations that should be used for the financial year.
 
-(4) The mayor’s draft budget shall be deemed to be approved by the combined authority or CCA as the case may be[^key-790c209ee100a4100fb8cb4ceb3a07be] unless the authority makes a report under paragraph (2) to the mayor before 8th February.
+(4) The mayor’s draft budget shall be deemed to be approved by the combined authority or CCA as the case may be[^c-790c209ee100a4100fb8cb4ceb3a07be] unless the authority makes a report under paragraph (2) to the mayor before 8th February.
 
-### 7. Mayor’s consideration of report[^key-c0cdc7a2fb2074671d52f88557d37cb1]
+### 7. Mayor’s consideration of report[^c-c0cdc7a2fb2074671d52f88557d37cb1]
 
-Where the combined authority or CCA as the case may be[^key-2de51d326d6fd2e0f6e3f10dea0c0d2c] makes a report under article 6, it must specify a period of at least five working days beginning on the day after the day on which the mayor receives the report within which the mayor may—
+Where the combined authority or CCA as the case may be[^c-2de51d326d6fd2e0f6e3f10dea0c0d2c] makes a report under article 6, it must specify a period of at least five working days beginning on the day after the day on which the mayor receives the report within which the mayor may—
 
 - (a) decide whether or not to make any revisions to the draft budget; and
 - (b) notify the combined authority or CCA as the case may be of the reasons for that decision and, where revisions are made, the revised draft budget.
 
-### 8. Combined authority’s or CCA’s decision on budget[^key-1a7ebbc446dd033c1d31113b4447b48e][^key-caf93c68f6764bfdf4813984719a713f]
+### 8. Combined authority’s or CCA’s decision on budget[^c-1a7ebbc446dd033c1d31113b4447b48e][^c-caf93c68f6764bfdf4813984719a713f]
 
-(1) When any period specified under article 7 by the combined authority or CCA as the case may be[^key-73297b995d210e5028ae92248c6e83c5] has expired the authority must determine whether to—
+(1) When any period specified under article 7 by the combined authority or CCA as the case may be[^c-73297b995d210e5028ae92248c6e83c5] has expired the authority must determine whether to—
 
 - (a) approve the mayor’s draft budget (or revised draft budget, as the case may be); or
-- (b) veto the draft budget (or revised draft budget) and approve the mayor’s draft budget incorporating the recommendations of the combined authority or of the CCA as the case may be[^key-e84f7b689b1a2ea1e9e8ab41a6fa2b11] contained in the report to the mayor under article 6.
+- (b) veto the draft budget (or revised draft budget) and approve the mayor’s draft budget incorporating the recommendations of the combined authority or of the CCA as the case may be[^c-e84f7b689b1a2ea1e9e8ab41a6fa2b11] contained in the report to the mayor under article 6.
 
 (2) The mayor’s draft budget (or revised draft budget) shall be deemed to be approved unless vetoed within the relevant period in accordance with this article.
 
-(3) In making a decision on a question under paragraph (1) the combined authority or CCA as the case may be[^key-15642dd3ad4332cec478a3febba78001] must take into account the reasons given by the mayor under article 7.
+(3) In making a decision on a question under paragraph (1) the combined authority or CCA as the case may be[^c-15642dd3ad4332cec478a3febba78001] must take into account the reasons given by the mayor under article 7.
 
-(4)[^key-6a71923b371c27e641d864d480c958fe][^key-bdd51b58ea0b58ad1a5edec2a463bd0e][^key-592d31e129812ab382a167d72a88dbb1][^key-99d5f9273b111bf70aba0472b2574877][^M_C_7b15ce1b-c1b2-4ae3-ad5d-edd0b89496db] Any decision to veto the mayor’s draft budget (or draft revised budget) and approve the mayor’s draft budget incorporating the recommendations of the combined authority or of the CCA as the case may be[^key-9cfde8dcf819a670cc6e772c64ffa1da] contained in the report to the mayor under article 6 must be decided by a two thirds majority of the members, or substitute members acting in their place, of the combined authority or CCA as the case may be,[^key-3606ec3bf6fd2948a9717cc9aecc6590] present and voting on the question at a meeting of the authority.
+(4)[^c-6a71923b371c27e641d864d480c958fe][^c-bdd51b58ea0b58ad1a5edec2a463bd0e][^c-592d31e129812ab382a167d72a88dbb1][^c-99d5f9273b111bf70aba0472b2574877][^M_C_7b15ce1b-c1b2-4ae3-ad5d-edd0b89496db] Any decision to veto the mayor’s draft budget (or draft revised budget) and approve the mayor’s draft budget incorporating the recommendations of the combined authority or of the CCA as the case may be[^c-9cfde8dcf819a670cc6e772c64ffa1da] contained in the report to the mayor under article 6 must be decided by a two thirds majority of the members, or substitute members acting in their place, of the combined authority or CCA as the case may be,[^c-3606ec3bf6fd2948a9717cc9aecc6590] present and voting on the question at a meeting of the authority.
 
 (5) In paragraph (2) “relevant period” means the period of five working days beginning with the day after the date on which the period specified under article 7 expires.
 
-(6) Paragraph (7) applies in a case where the mayor has failed, in accordance with article 5(1), to notify the combined authority or CCA as the case may be[^key-5c816d59b8d2e8f16cf52105e0460e4d] of the mayor’s draft budget before 1st February.
+(6) Paragraph (7) applies in a case where the mayor has failed, in accordance with article 5(1), to notify the combined authority or CCA as the case may be[^c-5c816d59b8d2e8f16cf52105e0460e4d] of the mayor’s draft budget before 1st February.
 
-(7) Where this paragraph applies, the combined authority or CCA as the case may be[^key-ea068d0d2bf9d4dd402f9d10a5e200e1] must determine the relevant amounts and calculations that are to be used for the financial year.
+(7) Where this paragraph applies, the combined authority or CCA as the case may be[^c-ea068d0d2bf9d4dd402f9d10a5e200e1] must determine the relevant amounts and calculations that are to be used for the financial year.
 
-(8) Any decision under paragraph (7) must be decided by a two thirds majority of the members, or substitute members acting in their place, of the combined authority or CCA as the case may be[^key-3b757165218358835492d385bf4b6df3] present and voting on the question at a meeting of the authority.
+(8) Any decision under paragraph (7) must be decided by a two thirds majority of the members, or substitute members acting in their place, of the combined authority or CCA as the case may be[^c-3b757165218358835492d385bf4b6df3] present and voting on the question at a meeting of the authority.
 
 (9) Paragraphs (4) and (8) have effect subject to—
 
 - (a) paragraphs (10) and (11); and
-- (b) any provision to the contrary in an order made under Part 6 of the 2009 Act or in regulations made under Part 2 of the 2023 Act[^key-568fd45aaa3f6c88acd8fb2836b246a3].
+- (b) any provision to the contrary in an order made under Part 6 of the 2009 Act or in regulations made under Part 2 of the 2023 Act[^c-568fd45aaa3f6c88acd8fb2836b246a3].
 
 (10) In paragraphs (4) and (8) “member” and “substitute member” does not include any person who is not a member of a constituent council.
 
 (11) In relation to the Tees Valley Combined Authority[^f00011], the reference in paragraphs (4) and (8) to a two thirds majority is to be read as a reference to a three fifths majority.
 
-### 9. Calculations and amounts to be used in setting precept[^key-1b35b5e3a30444a69e9e00cc3f8e8686]
+### 9. Calculations and amounts to be used in setting precept[^c-1b35b5e3a30444a69e9e00cc3f8e8686]
 
-(1) The relevant amounts and calculations which are approved by the combined authority or CCA as the case may be[^key-ca60390f6c575b3f369b7ec263b30333] in accordance with article 8 shall be used in making a calculation (whether originally or by way of substitute)—
+(1) The relevant amounts and calculations which are approved by the combined authority or CCA as the case may be[^c-ca60390f6c575b3f369b7ec263b30333] in accordance with article 8 shall be used in making a calculation (whether originally or by way of substitute)—
 
 - (a) under the provisions of the 1992 Act mentioned in paragraph (2); and
 - (b) in calculating the amounts to be stated in a precept under Chapter 4 of Part 1 of the 1992 Act (precepts).
@@ -171,13 +171,13 @@ Where the combined authority or CCA as the case may be[^key-2de51d326d6fd2e0f6e3
 - (c) sections 47 to 49 (calculation of tax for different valuation bands; calculation of amount payable by each billing authority; substitute calculations); and
 - (d) section 52ZJ (major precepting authority’s duty to make substitute calculations).
 
-### 10. Transparency of budget decision[^key-29407d96377c5de9a75afad7a2a395de]
+### 10. Transparency of budget decision[^c-29407d96377c5de9a75afad7a2a395de]
 
 Immediately after any vote is taken at a meeting to consider a question under article 8, there must be recorded in the minutes of the proceedings of that meeting the names of the persons who cast a vote for the decision or against the decision or who abstained from voting.
 
 ## PART 4 — Funds
 
-### 11. Mayor’s general fund[^key-f90c4725a073ceb719055f97cb333083]
+### 11. Mayor’s general fund[^c-f90c4725a073ceb719055f97cb333083]
 
 (1) The mayor must keep a fund (to be known as the mayor’s general fund) in relation to receipts arising, and liabilities incurred, in the exercise of the mayor’s general functions.
 
@@ -189,7 +189,7 @@ Immediately after any vote is taken at a meeting to consider a question under ar
 
 ## PART 5 — Transitional provisions
 
-### 12. Disapplication of power to issue precepts for the financial year 2017/2018 and subsequent years in certain cases[^key-8db008d39f6e38e9530535dc29c95bd2]
+### 12. Disapplication of power to issue precepts for the financial year 2017/2018 and subsequent years in certain cases[^c-8db008d39f6e38e9530535dc29c95bd2]
 
 (1) Subject to article 13, the costs of a mayor for the area of a combined authority that are incurred in, or in connection with, the exercise of mayoral functions in the financial year commencing on 1st April 2017 are not to be met from precepts issued by the authority under section 40 of the 1992 Act (issue of precepts by major precepting authorities).
 
@@ -197,7 +197,7 @@ Immediately after any vote is taken at a meeting to consider a question under ar
 
 (3) The costs of a mayor for the area of a combined authority that are incurred in, or in connection with, the exercise of mayoral functions in the financial year that immediately follows the relevant year are not to be met from precepts issued by the authority under section 40 of the 1992 Act if the first election of a mayor for the area of the combined authority occurs after 23rd January in the relevant year.
 
-### 13. Transitional provision relating to the Greater Manchester Combined Authority[^key-1933d34a163a7c0ffefda58e9fb582a1]
+### 13. Transitional provision relating to the Greater Manchester Combined Authority[^c-1933d34a163a7c0ffefda58e9fb582a1]
 
 (1) This article applies in relation to—
 
@@ -232,13 +232,13 @@ Department for Communities and Local Government
 
 Article 4
 
-### 1. Modification of Chapters 4 and 4ZA of Part 1 of the Local Government Finance Act 1992[^key-9344bdb8c45112221dad3acdc8654401]
+### 1. Modification of Chapters 4 and 4ZA of Part 1 of the Local Government Finance Act 1992[^c-9344bdb8c45112221dad3acdc8654401]
 
 Section 40 of the 1992 Act (issue of precepts by major precepting authorities) applies as if after subsection (2) there were inserted—
 
-> (2A) In the case of a mayoral combined authority or a mayoral CCA[^key-dc1313d84d92d884711bb5a1c03ae570] the amounts referred to in subsection (2) above must be stated separately in respect of the PCC component and the general component referred to in section 42A.
+> (2A) In the case of a mayoral combined authority or a mayoral CCA[^c-dc1313d84d92d884711bb5a1c03ae570] the amounts referred to in subsection (2) above must be stated separately in respect of the PCC component and the general component referred to in section 42A.
 
-**2.**[^key-caff18fa65502ed34c44319ffdbfbe28] Section 42A of the 1992 Act (calculation of council tax requirement by authorities in England) applies as if—
+**2.**[^c-caff18fa65502ed34c44319ffdbfbe28] Section 42A of the 1992 Act (calculation of council tax requirement by authorities in England) applies as if—
 
 - (a) after subsection (3) there were inserted—
 
@@ -249,64 +249,64 @@ Section 40 of the 1992 Act (issue of precepts by major precepting authorities) a
   >
   > (4A) If the aggregate calculated under subsection (2) above in respect of the general component exceeds that calculated under subsection (3) above in respect of the general component, the authority must calculate the amount equal to the difference, and the amount so calculated is to be its general component council tax requirement for the year.
 
-**3.**[^key-93d76299cb90238056dcac9d59e40db4] Section 42B of the 1992 Act (calculation of basic amount of tax by authorities in England} applies as if—
+**3.**[^c-93d76299cb90238056dcac9d59e40db4] Section 42B of the 1992 Act (calculation of basic amount of tax by authorities in England} applies as if—
 
 - (a) in subsection (1), in the definition of item R, for “section 42A(4) above as its council tax requirement” there were substituted “section 42A(4) or (4A) above as its PCC component council tax requirement or as its general component council tax requirement, as the case may be”;
 - (b) after subsection (2) there were inserted—
 
   > (2A) The calculation under subsection (1) above must be made separately in respect of the authority’s PCC component council tax requirement in order to calculate its PCC component basic amount of council tax and in respect of its general component council tax requirement to calculate its general component basic amount of council tax.
 
-**4.**[^key-65ce2eb6510bda3b0e8c6748d760c2f6] Section 47 of the 1992 Act (calculation of tax for different valuation bands) applies as if after subsection (3) there were inserted—
+**4.**[^c-65ce2eb6510bda3b0e8c6748d760c2f6] Section 47 of the 1992 Act (calculation of tax for different valuation bands) applies as if after subsection (3) there were inserted—
 
 > (3A) The calculation under subsection (1) above must be made separately in respect of the authority’s PCC component basic amount of council tax and its general component basic amount of council tax.
 
-**5.**[^key-e93e5b4f3213b9e27e2530cb1a202e6b] Section 48 of the 1992 Act (calculation of amount payable by each billing authority) applies as if after subsection (4) there were inserted—
+**5.**[^c-e93e5b4f3213b9e27e2530cb1a202e6b] Section 48 of the 1992 Act (calculation of amount payable by each billing authority) applies as if after subsection (4) there were inserted—
 
 > (4A) The calculations in subsections (2) and (3) must be made separately in respect of the authority’s PCC component basic amount of council tax for the year and its general component basic amount of council tax for the year.
 
-**6.**[^key-295669e961a2761282a64ba75ab30418] Section 49 of the 1992 Act (substitute calculations) applies as if in subsection (2)—
+**6.**[^c-295669e961a2761282a64ba75ab30418] Section 49 of the 1992 Act (substitute calculations) applies as if in subsection (2)—
 
-- (a) in paragraph (za) after “other than” there were inserted “a mayoral combined authority or a mayoral CCA[^key-79db0051784779aa3276e304bcd795ec] or”;
+- (a) in paragraph (za) after “other than” there were inserted “a mayoral combined authority or a mayoral CCA[^c-79db0051784779aa3276e304bcd795ec] or”;
 - (b) after paragraph (aa) there were inserted—
 
   > - (ab) in the case of a mayoral combined authority or a mayoral CCA—
   >   - (i) the amount under section 42A(4) above as its PCC component council tax requirement, or any amount calculated under section 42B(1) above as its PCC component basic amount of council tax applicable to any dwelling, would exceed that calculated in the previous calculations;
   >   - (ii) the amount under section 42A(4A) above as its general component council tax requirement, or any amount calculated under section 42B(1) above as its general component basic amount of council tax applicable to any dwelling, would exceed that calculated in the previous calculations.
 
-**7.**[^key-68e0c465f5fd21dcf2ec2933a8f1cccb] Section 52ZC of the 1992 Act (determination of whether increase is excessive) applies as if after subsection (6) there were inserted—
+**7.**[^c-68e0c465f5fd21dcf2ec2933a8f1cccb] Section 52ZC of the 1992 Act (determination of whether increase is excessive) applies as if after subsection (6) there were inserted—
 
-> (6A) A principle that applies to a mayoral combined authority or a mayoral CCA[^key-9ea1aa30d243dd26a43602bb5049cd1f] and that constitutes or includes a comparison falling within subsection (3) above may only provide for—
+> (6A) A principle that applies to a mayoral combined authority or a mayoral CCA[^c-9ea1aa30d243dd26a43602bb5049cd1f] and that constitutes or includes a comparison falling within subsection (3) above may only provide for—
 >
 > - (a) a comparison between PCC component relevant basic amounts of council tax,
 > - (b) a comparison between general component relevant basic amounts of council tax, or
 > - (c) a comparison within paragraph (a) and a comparison within paragraph (b).
 
-**8.**[^key-090f6c2cd87ea2f7cae997493246fe7d] Section 52ZK of the 1992 Act (major precepting authority’s duty to notify appropriate billing authorities) applies as if after subsection (3) there were inserted—
+**8.**[^c-090f6c2cd87ea2f7cae997493246fe7d] Section 52ZK of the 1992 Act (major precepting authority’s duty to notify appropriate billing authorities) applies as if after subsection (3) there were inserted—
 
-> (3A) In the case of a mayoral combined authority or a mayoral CCA[^key-af9dc5a3db163638814486af342084a3], the reference in subsections (2) and (3) to “precept” is a reference to—
+> (3A) In the case of a mayoral combined authority or a mayoral CCA[^c-af9dc5a3db163638814486af342084a3], the reference in subsections (2) and (3) to “precept” is a reference to—
 >
 > - (a) in a case where its PCC component relevant basic amount of council tax is excessive, that part of the precept which relates to the PCC component;
 > - (b) in a case where its general component relevant basic amount of council tax is excessive, that part of the precept which relates to the general component;
 > - (c) in a case where both are excessive, both components of the precept.
 
-**9.**[^key-6848fa65b24c1c5a32b13604eb2de363] Section 52ZT of the 1992 Act (directions to major precepting authorities) applies as if in subsection (2) for “council tax requirement” there were substituted “PCC component council tax requirement or general component council tax requirement as the case may be”.
+**9.**[^c-6848fa65b24c1c5a32b13604eb2de363] Section 52ZT of the 1992 Act (directions to major precepting authorities) applies as if in subsection (2) for “council tax requirement” there were substituted “PCC component council tax requirement or general component council tax requirement as the case may be”.
 
-**10.**[^key-e192d5777f059f38d17e18e5fd9eaab7] Section 52ZX of the 1992 Act (meaning of relevant basic amount of council tax) has effect as if after subsection (4) there were inserted—
+**10.**[^c-e192d5777f059f38d17e18e5fd9eaab7] Section 52ZX of the 1992 Act (meaning of relevant basic amount of council tax) has effect as if after subsection (4) there were inserted—
 
-> (4A) In the case of a mayoral combined authority or a mayoral CCA[^key-0a088c7c9af0c2775b831e3b40cdc655], any reference in this Chapter to the authority’s relevant basic amount of council tax for a financial year is a reference to the amount calculated by it in relation to the year under section 42B(1) above—
+> (4A) In the case of a mayoral combined authority or a mayoral CCA[^c-0a088c7c9af0c2775b831e3b40cdc655], any reference in this Chapter to the authority’s relevant basic amount of council tax for a financial year is a reference to the amount calculated by it in relation to the year under section 42B(1) above—
 >
-> - (a) as its PCC component basic amount of council tax for the year (referred to in this Chapter as the mayoral combined authority’s or the mayoral CCA’s as the case may be[^key-272f71e8de3b0ab704ba3aa44567bc05] PCC component relevant basic amount of council tax for the year); or
+> - (a) as its PCC component basic amount of council tax for the year (referred to in this Chapter as the mayoral combined authority’s or the mayoral CCA’s as the case may be[^c-272f71e8de3b0ab704ba3aa44567bc05] PCC component relevant basic amount of council tax for the year); or
 > - (b) as its general component basic amount of council tax for the year (referred to in this Chapter as the mayoral combined authority’s or the mayoral CCA’s as the case may be general component relevant basic amount of council tax).
 
-### 11. Modification of the Council Tax (Demand Notices) (England) Regulations 2011[^key-f6c5d73d12be3225d209aae73d82b020]
+### 11. Modification of the Council Tax (Demand Notices) (England) Regulations 2011[^c-f6c5d73d12be3225d209aae73d82b020]
 
 Regulation 3 (definition of “council tax requirement”) of the Council Tax (Demand Notices) (England) Regulations 2011 (“the 2011 Regulations”) applies as if in paragraph (4)(b) after “42A(4)” there were inserted “or 42A(4A) as the case may be”.
 
-**12.**[^key-dc8efe19ca8b76e68ae84898ca75e380] Regulation 8 (supply of information by precepting authorities) of the 2011 Regulations applies as if in paragraph (2)(b) for “council tax requirement” there were substituted “PCC component council tax requirement and general component council tax requirement”.
+**12.**[^c-dc8efe19ca8b76e68ae84898ca75e380] Regulation 8 (supply of information by precepting authorities) of the 2011 Regulations applies as if in paragraph (2)(b) for “council tax requirement” there were substituted “PCC component council tax requirement and general component council tax requirement”.
 
-**13.**[^key-d7e35ef3851d9758772152dc39ab9c8c] Schedule 1 (contents of demand notices) to the 2011 Regulations applies as if in paragraph 8 at the end there were inserted “including the amount of the PCC component and the amount of the general component”.
+**13.**[^c-d7e35ef3851d9758772152dc39ab9c8c] Schedule 1 (contents of demand notices) to the 2011 Regulations applies as if in paragraph 8 at the end there were inserted “including the amount of the PCC component and the amount of the general component”.
 
-### 14. Modification of the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012[^key-410bfa0278c2fda24293ccc768adb156]
+### 14. Modification of the Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012[^c-410bfa0278c2fda24293ccc768adb156]
 
 The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England) Regulations 2012 apply as if—
 
@@ -315,15 +315,15 @@ The Local Authorities (Conduct of Referendums) (Council Tax Increases) (England)
   > - “general component relevant basic amount of council tax” and “PCC component relevant basic amount of council tax” have the meaning given by section 52ZX of the 1992 Act;
 - (b) in regulation 3 (question to be asked in a referendum) after paragraph (3) there were inserted—
 
-  > (4) Where a referendum is held in relation to a mayoral combined authority’s or a mayoral CCA’s[^key-c0c1474ea6d579fb86dde2fa80939766] PCC component relevant basic amount of council tax for a financial year, references to an authority’s relevant basic amount of council tax in Schedule 1 are to be interpreted as references to the authority’s PCC component relevant basic amount of council tax.
+  > (4) Where a referendum is held in relation to a mayoral combined authority’s or a mayoral CCA’s[^c-c0c1474ea6d579fb86dde2fa80939766] PCC component relevant basic amount of council tax for a financial year, references to an authority’s relevant basic amount of council tax in Schedule 1 are to be interpreted as references to the authority’s PCC component relevant basic amount of council tax.
   >
   > (5) Where a referendum is held in relation to a mayoral combined authority’s or a mayoral CCA’s general component relevant basic amount of council tax for a financial year, references to an authority’s relevant basic amount of council tax in Schedule 1 are to be interpreted as references to the authority’s general component relevant basic amount of council tax.
 - (c) in regulation 5 (publicity and other information to be provided in connection with referendums by precepting authorities other than the Greater London authority—
-  - (i) in the heading at the end there were inserted “or a mayoral combined authority or a mayoral CCA[^key-601c522396a16c31fb1cb3696b3a19ff]”;
-  - (ii) in paragraph (1) after “Greater London Authority” there were inserted “or a mayoral combined authority or a mayoral CCA[^key-d5842b2fe5cb63e045f0550f20451298]”;
+  - (i) in the heading at the end there were inserted “or a mayoral combined authority or a mayoral CCA[^c-601c522396a16c31fb1cb3696b3a19ff]”;
+  - (ii) in paragraph (1) after “Greater London Authority” there were inserted “or a mayoral combined authority or a mayoral CCA[^c-d5842b2fe5cb63e045f0550f20451298]”;
 - (d) after regulation 6 (publicity and other information to be provided in connection with referendums by the Greater London Authority) there were inserted—
 
-  > **6A. Publicity and other information to be provided in connection with referendums by a mayoral combined authority or a mayoral CCA[^key-7788dccde546ac5f267a3ff328864ede]**
+  > **6A. Publicity and other information to be provided in connection with referendums by a mayoral combined authority or a mayoral CCA[^c-7788dccde546ac5f267a3ff328864ede]**
   >
   > (1) This paragraph applies where a mayoral combined authority or a mayoral CCA has determined under section 52ZB(3) in relation to a financial year (“the relevant financial year”) that—
   >
@@ -384,29 +384,29 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00001]: Footnote: [2009 c. 20](https://www.legislation.gov.uk/ukpga/2009/20). Section 107G was inserted by section 5 of the Cities and Local Government Devolution Act 2016 (“the 2016 Act”). Section 114 was amended by Schedule 5 to the 2016 Act. Subsections (2), (2A) and (3) of section 117 were substituted by section 13 of the 2016 Act, Schedule 5C was inserted by section 4(2) of, and Schedule 2 to, the 2016 Act and subsections (1A) and (5) were inserted by paragraph 29 of Schedule 5 to the 2016 Act.
 
-[^key-d1143f342052ae8500c0ed46a38d03cf]: Commencement: Art. 1 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-d1143f342052ae8500c0ed46a38d03cf]: Commencement: Art. 1 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-4ddca30728f3dc97fa053669859a024e]: Commencement: Art. 2 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-4ddca30728f3dc97fa053669859a024e]: Commencement: Art. 2 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
 [^f00002]: Footnote: [1992 c. 14](https://www.legislation.gov.uk/ukpga/1992/14).
 
-[^key-35d42840d388e45034d24f34c107d57d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/611/article/2) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-35d42840d388e45034d24f34c107d57d]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2017/611/article/2) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
 [^f00003]: Footnote: See section 120 of the Local Democracy, Economic Development and Construction Act 2009 for meaning of “general functions” and “PCC functions”.
 
-[^key-4e4c9c184fdbc16f9f355f7f48a899bc]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2017/611/part/2) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-4e4c9c184fdbc16f9f355f7f48a899bc]: Textual amendment: Words in [Pt. 2](https://www.legislation.gov.uk/uksi/2017/611/part/2) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/3) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-626f99be1a20f07f1b04fb4f9b1cb5c6]: Commencement: Art. 3 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-626f99be1a20f07f1b04fb4f9b1cb5c6]: Commencement: Art. 3 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
 [^f00004]: Footnote: See section 120 of the Local Democracy, Economic Development and Construction Act 2009 for meaning of “mayor” and “combined authority”.
 
-[^key-adc7052c8d44bb3fdae222d7b3ebc272]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2017/611/article/3/1) omitted (17.5.2024) by virtue of [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/4/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-adc7052c8d44bb3fdae222d7b3ebc272]: Textual amendment: Words in [art. 3(1)](https://www.legislation.gov.uk/uksi/2017/611/article/3/1) omitted (17.5.2024) by virtue of [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(4)(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/4/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
 [^f00005]: Footnote: Section 40 was amended by section 83 of the Greater London Authority Act 1999 ( c. 29); section 79 of, and paragraph 17 of Schedule 7 to, the Localism Act [2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20); and by section 5 of the Cities and Local Government Act 2016.
 
-[^key-465b733280f73962eb191bfef0ef462f]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/611/article/3/2) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/4/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-465b733280f73962eb191bfef0ef462f]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2017/611/article/3/2) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(4)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/4/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-2a28d5015a45b8e83e622416123e0f19]: Commencement: Art. 4 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-2a28d5015a45b8e83e622416123e0f19]: Commencement: Art. 4 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
 [^f00006]: Footnote: Sections 42A and 42B and Part 4ZA were inserted by sections 72 and 75 of, and Schedule 5 to, the Localism Act 2011. Consequential amendments were made to sections 40, 47, 48 and 49 by Schedule 7 to the Localism Act 2011.
 
@@ -418,79 +418,79 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00010]: Footnote: [2011 c. 13](https://www.legislation.gov.uk/ukpga/2011/13). For modification of section 21 in respect of the mayor for the area of the Greater Manchester Combined Authority see [S.I. 2017/470](https://www.legislation.gov.uk/uksi/2017/470).
 
-[^key-4b7b8969f34ad1e41400bbd85dbe70be]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2017/611/part/3) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-4b7b8969f34ad1e41400bbd85dbe70be]: Textual amendment: Words in [Pt. 3](https://www.legislation.gov.uk/uksi/2017/611/part/3) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(5)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/5) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-3d108115065e65efc252c65762c8f82c]: Commencement: Art. 5 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-3d108115065e65efc252c65762c8f82c]: Commencement: Art. 5 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-b95469fd6873c4ce446513171403fdf0]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2017/611/article/5) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-b95469fd6873c4ce446513171403fdf0]: Textual amendment: Words in [art. 5](https://www.legislation.gov.uk/uksi/2017/611/article/5) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(6)(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/6/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-d8a1a2971ca4660435cc0579fee3b865]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2017/611/article/5/1) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/6/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-d8a1a2971ca4660435cc0579fee3b865]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2017/611/article/5/1) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(6)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/6/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-ba2b70e6c7a99ef0e249db5d9e085148]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2017/611/article/5/3) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/6/c/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-ba2b70e6c7a99ef0e249db5d9e085148]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2017/611/article/5/3) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(6)(c)(i)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/6/c/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-f9952192e9965be28e21373ed29e14f5]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2017/611/article/5/3) substituted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/6/c/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-f9952192e9965be28e21373ed29e14f5]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2017/611/article/5/3) substituted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(6)(c)(ii)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/6/c/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-e5060bfbbaad7f81f570396299a9f803]: Commencement: Art. 6 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-e5060bfbbaad7f81f570396299a9f803]: Commencement: Art. 6 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-6511e41f360c39d1089ab2fad8a03a74]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2017/611/article/6) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/7/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-6511e41f360c39d1089ab2fad8a03a74]: Textual amendment: Words in [art. 6](https://www.legislation.gov.uk/uksi/2017/611/article/6) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/7/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-717fc3ce1bff1f1af8cadca5d6219d84]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2017/611/article/6/1) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/7/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-717fc3ce1bff1f1af8cadca5d6219d84]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2017/611/article/6/1) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/7/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-f499e81218a6c9589c772ec59c121c0e]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2017/611/article/6/2) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/7/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-f499e81218a6c9589c772ec59c121c0e]: Textual amendment: Words in [art. 6(2)](https://www.legislation.gov.uk/uksi/2017/611/article/6/2) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/7/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-dce5fce85d7925e7e677204abd06c038]: Textual amendment: Words in [art. 6(3)(a)](https://www.legislation.gov.uk/uksi/2017/611/article/6/3/a) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/7/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-dce5fce85d7925e7e677204abd06c038]: Textual amendment: Words in [art. 6(3)(a)](https://www.legislation.gov.uk/uksi/2017/611/article/6/3/a) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/7/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-790c209ee100a4100fb8cb4ceb3a07be]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/uksi/2017/611/article/6/4) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/7/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-790c209ee100a4100fb8cb4ceb3a07be]: Textual amendment: Words in [art. 6(4)](https://www.legislation.gov.uk/uksi/2017/611/article/6/4) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(7)(b)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/7/b) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-c0cdc7a2fb2074671d52f88557d37cb1]: Commencement: Art. 7 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-c0cdc7a2fb2074671d52f88557d37cb1]: Commencement: Art. 7 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-2de51d326d6fd2e0f6e3f10dea0c0d2c]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2017/611/article/7) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-2de51d326d6fd2e0f6e3f10dea0c0d2c]: Textual amendment: Words in [art. 7](https://www.legislation.gov.uk/uksi/2017/611/article/7) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(8)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/8) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-1a7ebbc446dd033c1d31113b4447b48e]: Commencement: Art. 8 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-1a7ebbc446dd033c1d31113b4447b48e]: Commencement: Art. 8 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-caf93c68f6764bfdf4813984719a713f]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/uksi/2017/611/article/8) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-caf93c68f6764bfdf4813984719a713f]: Textual amendment: Words in [art. 8](https://www.legislation.gov.uk/uksi/2017/611/article/8) heading inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-73297b995d210e5028ae92248c6e83c5]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/uksi/2017/611/article/8/1) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(b)(i)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-73297b995d210e5028ae92248c6e83c5]: Textual amendment: Words in [art. 8(1)](https://www.legislation.gov.uk/uksi/2017/611/article/8/1) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(b)(i)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-e84f7b689b1a2ea1e9e8ab41a6fa2b11]: Textual amendment: Words in [art. 8(1)(b)](https://www.legislation.gov.uk/uksi/2017/611/article/8/1/b) substituted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-e84f7b689b1a2ea1e9e8ab41a6fa2b11]: Textual amendment: Words in [art. 8(1)(b)](https://www.legislation.gov.uk/uksi/2017/611/article/8/1/b) substituted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(b)(ii)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-15642dd3ad4332cec478a3febba78001]: Textual amendment: Words in [art. 8(3)](https://www.legislation.gov.uk/uksi/2017/611/article/8/3) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(c)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-15642dd3ad4332cec478a3febba78001]: Textual amendment: Words in [art. 8(3)](https://www.legislation.gov.uk/uksi/2017/611/article/8/3) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(c)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/c) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-6a71923b371c27e641d864d480c958fe]: Modification: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2017/611/article/8/4) modified (30.1.2021) by [S.I. 2014/864](https://www.legislation.gov.uk/uksi/2014/864), [Sch. 1 para. 3(12)](https://www.legislation.gov.uk/uksi/2014/864/schedule/1/paragraph/3/12) (as substituted by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2021/112/schedule/7))
+[^c-6a71923b371c27e641d864d480c958fe]: Modification: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2017/611/article/8/4) modified (30.1.2021) by [S.I. 2014/864](https://www.legislation.gov.uk/uksi/2014/864), [Sch. 1 para. 3(12)](https://www.legislation.gov.uk/uksi/2014/864/schedule/1/paragraph/3/12) (as substituted by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/112/article/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2021/112/schedule/7))
 
-[^key-bdd51b58ea0b58ad1a5edec2a463bd0e]: Modification: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2017/611/article/8/4) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [Sch. 1 para. 4(8)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/1/paragraph/4/8)
+[^c-bdd51b58ea0b58ad1a5edec2a463bd0e]: Modification: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2017/611/article/8/4) applied (with modifications) (20.12.2023) by [The York and North Yorkshire Combined Authority Order 2023 (S.I. 2023/1432)](https://www.legislation.gov.uk/uksi/2023/1432), [art. 1(2)](https://www.legislation.gov.uk/uksi/2023/1432/article/1/2), [Sch. 1 para. 4(8)](https://www.legislation.gov.uk/uksi/2023/1432/schedule/1/paragraph/4/8)
 
-[^key-592d31e129812ab382a167d72a88dbb1]: Modification: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2017/611/article/8/4) applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [Sch. 1 para. 2(9)](https://www.legislation.gov.uk/uksi/2024/402/schedule/1/paragraph/2/9) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
+[^c-592d31e129812ab382a167d72a88dbb1]: Modification: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2017/611/article/8/4) applied (with modifications) (7.5.2024) by [The North East Mayoral Combined Authority (Establishment and Functions) Order 2024 (S.I. 2024/402)](https://www.legislation.gov.uk/uksi/2024/402), [art. 1(3)](https://www.legislation.gov.uk/uksi/2024/402/article/1/3), [Sch. 1 para. 2(9)](https://www.legislation.gov.uk/uksi/2024/402/schedule/1/paragraph/2/9) (with [art. 9](https://www.legislation.gov.uk/uksi/2024/402/article/9))
 
-[^key-99d5f9273b111bf70aba0472b2574877]: Modification: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2017/611/article/8/4) applied (with modifications) (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [Sch. 1 para. 5(9)](https://www.legislation.gov.uk/uksi/2025/113/schedule/1/paragraph/5/9)
+[^c-99d5f9273b111bf70aba0472b2574877]: Modification: [Art. 8(4)](https://www.legislation.gov.uk/uksi/2017/611/article/8/4) applied (with modifications) (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [art. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [Sch. 1 para. 5(9)](https://www.legislation.gov.uk/uksi/2025/113/schedule/1/paragraph/5/9)
 
 [^M_C_7b15ce1b-c1b2-4ae3-ad5d-edd0b89496db]: Modification: Art. 8(4) modified (5.2.2025) by [The Greater Lincolnshire Combined County Authority Regulations 2025 (S.I. 2025/117)](https://www.legislation.gov.uk/uksi/2025/117), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/117/regulation/1/2), [Sch. 1 para. 6(8)](https://www.legislation.gov.uk/uksi/2025/117/schedule/1/paragraph/6/8)
 
-[^key-9cfde8dcf819a670cc6e772c64ffa1da]: Textual amendment: Words in [art. 8(4)](https://www.legislation.gov.uk/uksi/2017/611/article/8/4) substituted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(d)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-9cfde8dcf819a670cc6e772c64ffa1da]: Textual amendment: Words in [art. 8(4)](https://www.legislation.gov.uk/uksi/2017/611/article/8/4) substituted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(d)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-3606ec3bf6fd2948a9717cc9aecc6590]: Textual amendment: Words in [art. 8(4)](https://www.legislation.gov.uk/uksi/2017/611/article/8/4) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(d)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-3606ec3bf6fd2948a9717cc9aecc6590]: Textual amendment: Words in [art. 8(4)](https://www.legislation.gov.uk/uksi/2017/611/article/8/4) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(d)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/d) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-5c816d59b8d2e8f16cf52105e0460e4d]: Textual amendment: Words in [art. 8(6)](https://www.legislation.gov.uk/uksi/2017/611/article/8/6) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(e)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-5c816d59b8d2e8f16cf52105e0460e4d]: Textual amendment: Words in [art. 8(6)](https://www.legislation.gov.uk/uksi/2017/611/article/8/6) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(e)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-ea068d0d2bf9d4dd402f9d10a5e200e1]: Textual amendment: Words in [art. 8(7)](https://www.legislation.gov.uk/uksi/2017/611/article/8/7) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(e)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-ea068d0d2bf9d4dd402f9d10a5e200e1]: Textual amendment: Words in [art. 8(7)](https://www.legislation.gov.uk/uksi/2017/611/article/8/7) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(e)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-3b757165218358835492d385bf4b6df3]: Textual amendment: Words in [art. 8(8)](https://www.legislation.gov.uk/uksi/2017/611/article/8/8) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(e)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-3b757165218358835492d385bf4b6df3]: Textual amendment: Words in [art. 8(8)](https://www.legislation.gov.uk/uksi/2017/611/article/8/8) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(e)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/e) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-568fd45aaa3f6c88acd8fb2836b246a3]: Textual amendment: Words in [art. 8(9)(b)](https://www.legislation.gov.uk/uksi/2017/611/article/8/9/b) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(f)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-568fd45aaa3f6c88acd8fb2836b246a3]: Textual amendment: Words in [art. 8(9)(b)](https://www.legislation.gov.uk/uksi/2017/611/article/8/9/b) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(9)(f)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/9/f) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
 [^f00011]: Footnote: The Tees Valley Combined Authority was established by article 3 of the Tees Valley Combined Authority Order 2016 ([S.I. 2016/449](https://www.legislation.gov.uk/uksi/2016/449)).
 
-[^key-1b35b5e3a30444a69e9e00cc3f8e8686]: Commencement: Art. 9 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-1b35b5e3a30444a69e9e00cc3f8e8686]: Commencement: Art. 9 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-ca60390f6c575b3f369b7ec263b30333]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/uksi/2017/611/article/9/1) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-ca60390f6c575b3f369b7ec263b30333]: Textual amendment: Words in [art. 9(1)](https://www.legislation.gov.uk/uksi/2017/611/article/9/1) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [2(10)](https://www.legislation.gov.uk/uksi/2024/652/regulation/2/10) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-29407d96377c5de9a75afad7a2a395de]: Commencement: Art. 10 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-29407d96377c5de9a75afad7a2a395de]: Commencement: Art. 10 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-f90c4725a073ceb719055f97cb333083]: Commencement: Art. 11 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-f90c4725a073ceb719055f97cb333083]: Commencement: Art. 11 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-8db008d39f6e38e9530535dc29c95bd2]: Commencement: Art. 12 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-8db008d39f6e38e9530535dc29c95bd2]: Commencement: Art. 12 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-1933d34a163a7c0ffefda58e9fb582a1]: Commencement: Art. 13 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-1933d34a163a7c0ffefda58e9fb582a1]: Commencement: Art. 13 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
 [^f00012]: Footnote: The Greater Manchester Combined Authority was established by article 3 of the Greater Manchester Combined Authority Order 2011 ([S.I. 2011/908](https://www.legislation.gov.uk/uksi/2011/908)).
 
@@ -502,50 +502,50 @@ A full regulatory impact assessment has not been prepared as this instrument wil
 
 [^f00016]: Footnote: [S.I. 2013/452](https://www.legislation.gov.uk/uksi/2013/452).
 
-[^key-9344bdb8c45112221dad3acdc8654401]: Commencement: Sch. para. 1 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-9344bdb8c45112221dad3acdc8654401]: Commencement: Sch. para. 1 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-dc1313d84d92d884711bb5a1c03ae570]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/1) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-dc1313d84d92d884711bb5a1c03ae570]: Textual amendment: Words in [Sch. para. 1](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/1) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-caff18fa65502ed34c44319ffdbfbe28]: Commencement: Sch. para. 2 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-caff18fa65502ed34c44319ffdbfbe28]: Commencement: Sch. para. 2 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-93d76299cb90238056dcac9d59e40db4]: Commencement: Sch. para. 3 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-93d76299cb90238056dcac9d59e40db4]: Commencement: Sch. para. 3 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-65ce2eb6510bda3b0e8c6748d760c2f6]: Commencement: Sch. para. 4 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-65ce2eb6510bda3b0e8c6748d760c2f6]: Commencement: Sch. para. 4 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-e93e5b4f3213b9e27e2530cb1a202e6b]: Commencement: Sch. para. 5 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-e93e5b4f3213b9e27e2530cb1a202e6b]: Commencement: Sch. para. 5 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-295669e961a2761282a64ba75ab30418]: Commencement: Sch. para. 6 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-295669e961a2761282a64ba75ab30418]: Commencement: Sch. para. 6 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-79db0051784779aa3276e304bcd795ec]: Textual amendment: Words in [Sch. para. 6](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/6) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-79db0051784779aa3276e304bcd795ec]: Textual amendment: Words in [Sch. para. 6](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/6) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-68e0c465f5fd21dcf2ec2933a8f1cccb]: Commencement: Sch. para. 7 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-68e0c465f5fd21dcf2ec2933a8f1cccb]: Commencement: Sch. para. 7 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-9ea1aa30d243dd26a43602bb5049cd1f]: Textual amendment: Words in [Sch. para. 7](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/7) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-9ea1aa30d243dd26a43602bb5049cd1f]: Textual amendment: Words in [Sch. para. 7](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/7) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-090f6c2cd87ea2f7cae997493246fe7d]: Commencement: Sch. para. 8 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-090f6c2cd87ea2f7cae997493246fe7d]: Commencement: Sch. para. 8 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-af9dc5a3db163638814486af342084a3]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/8) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-af9dc5a3db163638814486af342084a3]: Textual amendment: Words in [Sch. para. 8](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/8) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(a)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/a) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-6848fa65b24c1c5a32b13604eb2de363]: Commencement: Sch. para. 9 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-6848fa65b24c1c5a32b13604eb2de363]: Commencement: Sch. para. 9 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-e192d5777f059f38d17e18e5fd9eaab7]: Commencement: Sch. para. 10 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-e192d5777f059f38d17e18e5fd9eaab7]: Commencement: Sch. para. 10 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-0a088c7c9af0c2775b831e3b40cdc655]: Textual amendment: Words in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/10) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-0a088c7c9af0c2775b831e3b40cdc655]: Textual amendment: Words in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/10) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(b)(i)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/b/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-272f71e8de3b0ab704ba3aa44567bc05]: Textual amendment: Words in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/10) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-272f71e8de3b0ab704ba3aa44567bc05]: Textual amendment: Words in [Sch. para. 10](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/10) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(b)(ii)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/b/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-f6c5d73d12be3225d209aae73d82b020]: Commencement: Sch. para. 11 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-f6c5d73d12be3225d209aae73d82b020]: Commencement: Sch. para. 11 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-dc8efe19ca8b76e68ae84898ca75e380]: Commencement: Sch. para. 12 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-dc8efe19ca8b76e68ae84898ca75e380]: Commencement: Sch. para. 12 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-d7e35ef3851d9758772152dc39ab9c8c]: Commencement: Sch. para. 13 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-d7e35ef3851d9758772152dc39ab9c8c]: Commencement: Sch. para. 13 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-410bfa0278c2fda24293ccc768adb156]: Commencement: Sch. para. 14 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
+[^c-410bfa0278c2fda24293ccc768adb156]: Commencement: Sch. para. 14 in force at 27.4.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/611/article/1)
 
-[^key-c0c1474ea6d579fb86dde2fa80939766]: Textual amendment: Words in [Sch. para. 14(b)](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/14/b) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(c)(i)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/c/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-c0c1474ea6d579fb86dde2fa80939766]: Textual amendment: Words in [Sch. para. 14(b)](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/14/b) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(c)(i)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/c/i) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-601c522396a16c31fb1cb3696b3a19ff]: Textual amendment: Words in [Sch. para. 14(c)(i)](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/14/c/i) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/c/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-601c522396a16c31fb1cb3696b3a19ff]: Textual amendment: Words in [Sch. para. 14(c)(i)](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/14/c/i) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/c/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-d5842b2fe5cb63e045f0550f20451298]: Textual amendment: Words in [Sch. para. 14(c)(ii)](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/14/c/ii) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/c/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-d5842b2fe5cb63e045f0550f20451298]: Textual amendment: Words in [Sch. para. 14(c)(ii)](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/14/c/ii) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(c)(ii)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/c/ii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
 
-[^key-7788dccde546ac5f267a3ff328864ede]: Textual amendment: Words in [Sch. para. 14(d)](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/14/d) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(c)(iii)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/c/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))
+[^c-7788dccde546ac5f267a3ff328864ede]: Textual amendment: Words in [Sch. para. 14(d)](https://www.legislation.gov.uk/uksi/2017/611/schedule/paragraph/14/d) inserted (17.5.2024) by [The Combined Authorities (Finance) (Amendment) Regulations 2024 (S.I. 2024/652)](https://www.legislation.gov.uk/uksi/2024/652), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/652/regulation/1/2), [3(c)(iii)](https://www.legislation.gov.uk/uksi/2024/652/regulation/3/c/iii) (with [reg. 4](https://www.legislation.gov.uk/uksi/2024/652/regulation/4))

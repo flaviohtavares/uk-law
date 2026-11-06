@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29. Control of pharmacy premises: representative of pharmacist in case of death or disability[^key-f89584181c9f064b278e117ae7c9d6ff]
+## 29. Control of pharmacy premises: representative of pharmacist in case of death or disability[^c-f89584181c9f064b278e117ae7c9d6ff]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ In section 72 of the Medicines Act 1968 (representative of pharmacist in case of
 
 ## Annotations
 
-[^key-f89584181c9f064b278e117ae7c9d6ff]: Commencement: S. 29 in force at 1.10.2009 by [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/a)
+[^c-f89584181c9f064b278e117ae7c9d6ff]: Commencement: S. 29 in force at 1.10.2009 by [S.I. 2008/2714](https://www.legislation.gov.uk/uksi/2008/2714), [art. 2(a)](https://www.legislation.gov.uk/uksi/2008/2714/article/2/a)

@@ -73,7 +73,7 @@ Section 3.
 | 1981 c. 38. | The British Telecom- munications Act 1981. | In Schedule 3, paragraph 10(2)(c). |
 | 1981 c. 41. | The Local Government and Planning (Amendment) Act 1981. | The whole Act. |
 | 1981 c. 43. | The Disabled Persons Act 1981. | Section 3. |
-| 1981 c. 54. | Senior Courts Act 1981[^key-f3b9455a1f67d2375508674b5c596889] | In Schedule 5, the entry relating to the Town and Country Planning Act 1971. |
+| 1981 c. 54. | Senior Courts Act 1981[^c-f3b9455a1f67d2375508674b5c596889] | In Schedule 5, the entry relating to the Town and Country Planning Act 1971. |
 | 1981 c. 64. | The New Towns Act 1981. | In Schedule 12, paragraph 11. |
 | 1981 c. 67. | The Acquisition of Land Act 1981. | In Schedule 4, in the Table in paragraph 1, the entry relating to the Town and Country Planning Act 1971 and paragraph 21. |
 | 1981 c. 69. | The Wildlife and Countryside Act 1981. | In Schedule 16, paragraphs 1 to 4. |
@@ -156,4 +156,4 @@ Section 3.
 
 ## Annotations
 
-[^key-f3b9455a1f67d2375508674b5c596889]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-f3b9455a1f67d2375508674b5c596889]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)

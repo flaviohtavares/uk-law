@@ -32,7 +32,7 @@ summary: ''
 
 Medicines
 
-The Medicines for Human Use (Prescribing by EEA Practitioners) Regulations 2008 (revoked)[^key-c044123022a13a64a2ecdaadb5222ad4]
+The Medicines for Human Use (Prescribing by EEA Practitioners) Regulations 2008 (revoked)[^c-c044123022a13a64a2ecdaadb5222ad4]
 
 Made
 
@@ -46,44 +46,44 @@ Coming into force
 
 3rd November 2008
 
-[^key-c044123022a13a64a2ecdaadb5222ad4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c044123022a13a64a2ecdaadb5222ad4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c044123022a13a64a2ecdaadb5222ad4]
+## 1. Citation, commencement and interpretation[^c-c044123022a13a64a2ecdaadb5222ad4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Appropriate practitioner for purposes of section 58 of the Medicines Act 1968[^key-c044123022a13a64a2ecdaadb5222ad4]
+## 2. Appropriate practitioner for purposes of section 58 of the Medicines Act 1968[^c-c044123022a13a64a2ecdaadb5222ad4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Prescriptions given by EEA health professionals[^key-c044123022a13a64a2ecdaadb5222ad4]
+## 3. Prescriptions given by EEA health professionals[^c-c044123022a13a64a2ecdaadb5222ad4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Prescriptions in electronic form[^key-c044123022a13a64a2ecdaadb5222ad4]
+## 4. Prescriptions in electronic form[^c-c044123022a13a64a2ecdaadb5222ad4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Repeatable prescriptions given by EEA health professionals[^key-c044123022a13a64a2ecdaadb5222ad4]
+## 5. Repeatable prescriptions given by EEA health professionals[^c-c044123022a13a64a2ecdaadb5222ad4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Exemption in case of due diligence[^key-c044123022a13a64a2ecdaadb5222ad4]
+## 6. Exemption in case of due diligence[^c-c044123022a13a64a2ecdaadb5222ad4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Exemption in case of emergency sale or supply[^key-c044123022a13a64a2ecdaadb5222ad4]
+## 7. Exemption in case of emergency sale or supply[^c-c044123022a13a64a2ecdaadb5222ad4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c044123022a13a64a2ecdaadb5222ad4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c044123022a13a64a2ecdaadb5222ad4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c044123022a13a64a2ecdaadb5222ad4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c044123022a13a64a2ecdaadb5222ad4]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c044123022a13a64a2ecdaadb5222ad4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1692) revoked (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))
+[^c-c044123022a13a64a2ecdaadb5222ad4]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2008/1692) revoked (14.8.2012) by [The Human Medicines Regulations 2012 (S.I. 2012/1916)](https://www.legislation.gov.uk/uksi/2012/1916), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2012/1916/regulation/1/2), [Sch. 35](https://www.legislation.gov.uk/uksi/2012/1916/schedule/35) (with [Sch. 32](https://www.legislation.gov.uk/uksi/2012/1916/schedule/32))

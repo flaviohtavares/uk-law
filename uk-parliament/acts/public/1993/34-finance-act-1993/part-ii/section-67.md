@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Donations from companies and individuals.[^key-e0b0c73df1a3d9c37d0f6f625d80cd89]
+## 67. Donations from companies and individuals.[^c-e0b0c73df1a3d9c37d0f6f625d80cd89]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0b0c73df1a3d9c37d0f6f625d80cd89]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/1993/34/section/67) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1
+[^c-e0b0c73df1a3d9c37d0f6f625d80cd89]: Textual amendment: [S. 67](https://www.legislation.gov.uk/ukpga/1993/34/section/67) repealed (31.1.2013) by [Statute Law (Repeals) Act 2013 (c. 2)](https://www.legislation.gov.uk/ukpga/2013/2), [s. 3(2)](https://www.legislation.gov.uk/ukpga/2013/2/section/3/2), [Sch. 1 Pt. 10](https://www.legislation.gov.uk/ukpga/2013/2/schedule/1/part/10) Group 1

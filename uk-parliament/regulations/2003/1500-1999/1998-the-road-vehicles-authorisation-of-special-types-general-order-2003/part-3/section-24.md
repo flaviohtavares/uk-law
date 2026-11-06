@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 24. Width: police notification and attendants[^key-94f12091f0dc25ba979fa803b5b58b59]
+## 24. Width: police notification and attendants[^c-94f12091f0dc25ba979fa803b5b58b59]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94f12091f0dc25ba979fa803b5b58b59]: Commencement: Art. 24 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)
+[^c-94f12091f0dc25ba979fa803b5b58b59]: Commencement: Art. 24 in force at 25.8.2003, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2003/1998/article/1/2)

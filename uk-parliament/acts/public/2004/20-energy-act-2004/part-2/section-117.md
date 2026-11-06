@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Use of green certificates issued in Northern Ireland[^key-2e0a428af6dc3baa3c1d6f8f31cdb442]
+## 117. Use of green certificates issued in Northern Ireland[^c-2e0a428af6dc3baa3c1d6f8f31cdb442]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 >
 > (2) In this section “**Northern Ireland certificate**” means a certificate issued by the Northern Ireland authority in accordance with provision included, by virtue of Article 54 of the Energy (Northern Ireland) Order 2003, in an order under Article 52 of that Order (renewables obligations for Northern Ireland suppliers).
 
-(2)[^key-05ee0685a5483741416740a06bc59c42] The requirements of section 32(7) of the 1989 Act (consultation before making an order) may be satisfied in the case of an order containing provision made by virtue of this section by consultation that took place wholly or partly before the commencement of this section.
+(2)[^c-05ee0685a5483741416740a06bc59c42] The requirements of section 32(7) of the 1989 Act (consultation before making an order) may be satisfied in the case of an order containing provision made by virtue of this section by consultation that took place wholly or partly before the commencement of this section.
 
 (3) In Article 56(1) of the Energy (Northern Ireland) Order 2003 (S.I. 2003/419 (N.I. 6)) (power to amend Part 7 of that Order to take account of amendments of corresponding Great Britain provisions), the reference to amendments made to sections 32 to 32C of the 1989 Act includes a reference to subsection (1) of this section.
 
@@ -41,6 +41,6 @@ summary: ''
 
 ## Annotations
 
-[^key-2e0a428af6dc3baa3c1d6f8f31cdb442]: Commencement: S. 117 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-2e0a428af6dc3baa3c1d6f8f31cdb442]: Commencement: S. 117 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-05ee0685a5483741416740a06bc59c42]: Modification: S. 117(2): transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-05ee0685a5483741416740a06bc59c42]: Modification: S. 117(2): transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))

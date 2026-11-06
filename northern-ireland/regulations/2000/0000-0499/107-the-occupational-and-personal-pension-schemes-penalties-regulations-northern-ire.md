@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 2(2), 164(1), (2) and (4), 177(4) and 178(1) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 3(2), 10(3), 41(1), 113(1) and 166(3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-9acc50b799f1e4e70be80c34def97d4f]
+## 1. Citation, commencement and interpretation[^c-9acc50b799f1e4e70be80c34def97d4f]
 
 (1) These Regulations may be cited as the Occupational and Personal Pension Schemes (Penalties) Regulations (Northern Ireland) 2000 and shall come into operation on 3rd April 2000.
 
@@ -52,7 +52,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Audited Accounts Regulations[^key-adc169a1f73d3d1b08d2f44fb4624116]
+## 2. Amendment of the Audited Accounts Regulations[^c-adc169a1f73d3d1b08d2f44fb4624116]
 
 In regulation 2 of the Audited Accounts Regulations (requirement of trustees or managers to obtain documents) for paragraph (3) there shall be substituted the following paragraphs—
 
@@ -65,7 +65,7 @@ In regulation 2 of the Audited Accounts Regulations (requirement of trustees or 
 
 .
 
-## 3. Amendment of the Register Regulations[^key-2bb6cb65c187926fa00bb6241ea5097e]
+## 3. Amendment of the Register Regulations[^c-2bb6cb65c187926fa00bb6241ea5097e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -97,7 +97,7 @@ As these Regulations, in so far as they are made under Part II of the Order, mak
 
 [^f00003]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-9acc50b799f1e4e70be80c34def97d4f]: Commencement: Reg. 1 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/107/regulation/1/1)
+[^c-9acc50b799f1e4e70be80c34def97d4f]: Commencement: Reg. 1 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/107/regulation/1/1)
 
 [^f00004]: Footnote: [S.R. 1997 No. 40](https://www.legislation.gov.uk/nisr/1997/40); to which there are amendments not relevant to these regulations
 
@@ -105,6 +105,6 @@ As these Regulations, in so far as they are made under Part II of the Order, mak
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-adc169a1f73d3d1b08d2f44fb4624116]: Commencement: Reg. 2 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/107/regulation/1/1)
+[^c-adc169a1f73d3d1b08d2f44fb4624116]: Commencement: Reg. 2 in operation at 3.4.2000, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2000/107/regulation/1/1)
 
-[^key-2bb6cb65c187926fa00bb6241ea5097e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/107/regulation/3) revoked (6.4.2005) by [The Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 2005 (S.R. 2005/93)](https://www.legislation.gov.uk/nisr/2005/93), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/b), [6(e)](https://www.legislation.gov.uk/nisr/2005/93/regulation/6/e)
+[^c-2bb6cb65c187926fa00bb6241ea5097e]: Textual amendment: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/107/regulation/3) revoked (6.4.2005) by [The Register of Occupational and Personal Pension Schemes Regulations (Northern Ireland) 2005 (S.R. 2005/93)](https://www.legislation.gov.uk/nisr/2005/93), [regs. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/93/regulation/1/1/b), [6(e)](https://www.legislation.gov.uk/nisr/2005/93/regulation/6/e)

@@ -42,11 +42,11 @@ Coming into operation
 
 The Department for the Economy[^f00001] in exercise of the powers conferred by Article 150A[^f00002], of the Insolvency (Northern Ireland) Order 1989 makes the following Order.
 
-## 1. Citation and commencement[^key-407c19621b88b59bc887270842b6d2fb]
+## 1. Citation and commencement[^c-407c19621b88b59bc887270842b6d2fb]
 
 This Order may be cited as the Insolvency (Northern Ireland) Order 1989 (Prescribed Part) (Amendment) Order (Northern Ireland) 2022 and comes into operation on 4<sup>th</sup> November 2022.
 
-## 2. The Insolvency (Northern Ireland) Order 1989 (Prescribed Part) Order (Northern Ireland) 2006 amendment and transitional provision[^key-09ae485b35eac1e02e5a63804a1b93ad]
+## 2. The Insolvency (Northern Ireland) Order 1989 (Prescribed Part) Order (Northern Ireland) 2006 amendment and transitional provision[^c-09ae485b35eac1e02e5a63804a1b93ad]
 
 (1) The Insolvency (Northern Ireland) Order 1989 (Prescribed Part) Order (Northern Ireland) 2006[^f00003] is amended as follows–
 
@@ -85,8 +85,8 @@ An Explanatory Memorandum has been published alongside this instrument at www.le
 
 [^f00002]: Footnote: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405), Article 150A was inserted by Article 7(1) of the Insolvency (Northern Ireland) Order 2005 ([S.I. 2005/1455 (N.I. 10)](https://www.legislation.gov.uk/nisi/2005/1455)).
 
-[^key-407c19621b88b59bc887270842b6d2fb]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2022/242/article/1) in operation at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/242/article/1)
+[^c-407c19621b88b59bc887270842b6d2fb]: Commencement: [Art. 1](https://www.legislation.gov.uk/nisr/2022/242/article/1) in operation at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/242/article/1)
 
-[^key-09ae485b35eac1e02e5a63804a1b93ad]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2022/242/article/2) in operation at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/242/article/1)
+[^c-09ae485b35eac1e02e5a63804a1b93ad]: Commencement: [Art. 2](https://www.legislation.gov.uk/nisr/2022/242/article/2) in operation at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/nisr/2022/242/article/1)
 
 [^f00003]: Footnote: [S.R. 2006 No. 25](https://www.legislation.gov.uk/nisr/2006/25).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34.9. Abandoning an appeal[^key-1a12ab9cbf07eb21aa90aea3d770f877]
+## 34.9. Abandoning an appeal[^c-1a12ab9cbf07eb21aa90aea3d770f877]
 
 *Extent: E+W*
 
@@ -41,7 +41,7 @@ summary: ''
 
 ## Annotations
 
-[^key-1a12ab9cbf07eb21aa90aea3d770f877]: Commencement: [Rule 34.9](https://www.legislation.gov.uk/uksi/2025/909/rule/34.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-1a12ab9cbf07eb21aa90aea3d770f877]: Commencement: [Rule 34.9](https://www.legislation.gov.uk/uksi/2025/909/rule/34.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00889]: Footnote: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54); section 52 was amended by section 31(5) of, and Part II of Schedule 1 to, the Prosecution of Offences Act [1985 (c. 23)](https://www.legislation.gov.uk/ukpga/1985/23), section 4 of the Courts and Legal Services Act [1990 (c. 41)](https://www.legislation.gov.uk/ukpga/1990/41), article 3 of, and paragraphs 11 and 12(a) of the Schedule to, [S.I. 2004/2035](https://www.legislation.gov.uk/uksi/2004/2035), and section 59(5) of, and paragraph 26(1) and (2) of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4). The Act’s title was amended by section 59(5) of, and paragraph 1 of Schedule 11 to, the Constitutional Reform Act [2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4).
 

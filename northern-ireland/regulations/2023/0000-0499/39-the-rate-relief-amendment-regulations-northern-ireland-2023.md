@@ -42,11 +42,11 @@ Coming into operation
 
 The Department of Finance[^f00001] makes the following Regulations in exercise of the powers conferred by Article 30A of the Rates (Northern Ireland) Order 1977[^f00002].
 
-## 1. Citation and commencement[^key-8811e7fd337969ebca4c0e24aeb60cf0]
+## 1. Citation and commencement[^c-8811e7fd337969ebca4c0e24aeb60cf0]
 
 These Regulations may be cited as the Rate Relief (Amendment) Regulations (Northern Ireland) 2023 and shall come into operation on 1st April 2023.
 
-## 2. Amendment of the Rate Relief Regulations (Northern Ireland) 2017[^key-4fb629d546a7e54c958de9970988da3d]
+## 2. Amendment of the Rate Relief Regulations (Northern Ireland) 2017[^c-4fb629d546a7e54c958de9970988da3d]
 
 (1) The Rate Relief Regulations (Northern Ireland) 2017[^f00003] are amended in accordance with paragraphs (2) to (11).
 
@@ -110,7 +110,7 @@ These Regulations may be cited as the Rate Relief (Amendment) Regulations (North
   - (iii) in subparagraph (b)—
     - (aa) in head (iii) after 1988 add “, regulations 96 to 104 of the Housing Benefit Regulations (Northern Ireland) 2006 and regulations 77 to 85 of the Housing Benefit (Persons who have attained the qualifying age for state pension credit) Regulations (Northern Ireland) 2006”;
     - (bb) in head (iv) omit “(Northern Ireland) 2016”;
-    - (cc) in head (vi) [^key-e620e1efe7e38accc8a819b5120f940e]... after “(deduction from benefit and direct payment to third parties and in respect of child support maintenance and payment to persons with care)” insert “as modified by regulation 18 of the Universal Credit (Transitional Provisions) Regulations”;
+    - (cc) in head (vi) [^c-e620e1efe7e38accc8a819b5120f940e]... after “(deduction from benefit and direct payment to third parties and in respect of child support maintenance and payment to persons with care)” insert “as modified by regulation 18 of the Universal Credit (Transitional Provisions) Regulations”;
   - (iv) in subparagraph (c) after “(the benefit cap)” insert “as modified by regulations 6B(a) and 7 of the Universal Credit (Transitional Provisions)”;
 - (d) in paragraph (7)—
   - (i) substitute “for the purposes of this regulation” with “for the purposes of these regulations”;
@@ -188,10 +188,10 @@ The regulations also provide that the relevant authority may treat claims to rat
 
 [^f00002]: Footnote: [S.I. 1977/2157 (N.I.28)](https://www.legislation.gov.uk/nisi/1977/2157); Article 30A was inserted by Article 14 of The Rates (Amendment) (Northern Ireland) Order 2006 ([S.I.2006/2954 (N.I.18)](https://www.legislation.gov.uk/nisi/2006/2954) and amended by Article 134 of The Welfare Reform (Northern Ireland) Order 2015 ([S.I. 2015/2006 (N.I.1))](https://www.legislation.gov.uk/nisi/2015/2006)
 
-[^key-8811e7fd337969ebca4c0e24aeb60cf0]: Commencement: Reg. 1 in operation at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1)
+[^c-8811e7fd337969ebca4c0e24aeb60cf0]: Commencement: Reg. 1 in operation at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1)
 
-[^key-4fb629d546a7e54c958de9970988da3d]: Commencement: Reg. 2 in operation at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1)
+[^c-4fb629d546a7e54c958de9970988da3d]: Commencement: Reg. 2 in operation at 1.4.2023, see [reg. 1](https://www.legislation.gov.uk/nisr/2023/39/regulation/1)
 
 [^f00003]: Footnote: [S.R. 2017 No. 184](https://www.legislation.gov.uk/nisr/2017/184)
 
-[^key-e620e1efe7e38accc8a819b5120f940e]: Textual amendment: Words in [reg. 2(5)(c)(iii)(cc)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iii/cc) omitted (16.6.2025) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [2](https://www.legislation.gov.uk/nisr/2025/91/regulation/2)
+[^c-e620e1efe7e38accc8a819b5120f940e]: Textual amendment: Words in [reg. 2(5)(c)(iii)(cc)](https://www.legislation.gov.uk/nisr/2023/39/regulation/2/5/c/iii/cc) omitted (16.6.2025) by virtue of [The Rate Relief (Amendment) Regulations (Northern Ireland) 2025 (S.R. 2025/91)](https://www.legislation.gov.uk/nisr/2025/91), [regs. 1](https://www.legislation.gov.uk/nisr/2025/91/regulation/1), [2](https://www.legislation.gov.uk/nisr/2025/91/regulation/2)

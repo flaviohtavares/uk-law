@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 72. Closing date for applications: Northern Ireland[^key-abe1b191420c2d76832c576d92470fbe]
+## 72. Closing date for applications: Northern Ireland[^c-abe1b191420c2d76832c576d92470fbe]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ and a notice under regulation 57(9) by an elector cancelling a proxy’s appoint
 
 ## Annotations
 
-[^key-abe1b191420c2d76832c576d92470fbe]: Commencement: Reg. 72 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)
+[^c-abe1b191420c2d76832c576d92470fbe]: Commencement: Reg. 72 in force at 4.3.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/295/regulation/1)

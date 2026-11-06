@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 31. Acquisition of subsoil or airspace only[^key-e4e9b451159f5a5e4d0304e0795aa712]
+## 31. Acquisition of subsoil or airspace only[^c-e4e9b451159f5a5e4d0304e0795aa712]
 
 *Extent: E+W*
 
-(1) The undertaker may acquire compulsorily so much of, or such rights in, the subsoil of or the airspace over the land referred to in article 28(1) (compulsory acquisition of land) and paragraphs (1) and (2) of article 30 (compulsory acquisition of rights)[^key-51633354443d99675444b548ad429824] as may be required for any purpose for which that land or rights over land may be created or acquired under that provision[^key-9b230f3db013e334ba51a0297126ca7a] instead of acquiring the whole of the land.
+(1) The undertaker may acquire compulsorily so much of, or such rights in, the subsoil of or the airspace over the land referred to in article 28(1) (compulsory acquisition of land) and paragraphs (1) and (2) of article 30 (compulsory acquisition of rights)[^c-51633354443d99675444b548ad429824] as may be required for any purpose for which that land or rights over land may be created or acquired under that provision[^c-9b230f3db013e334ba51a0297126ca7a] instead of acquiring the whole of the land.
 
 (2) Where the undertaker acquires any part of, or rights in, the subsoil of or the airspace over land under paragraph (1), the undertaker is not required to acquire an interest in any other part of the land.
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e4e9b451159f5a5e4d0304e0795aa712]: Commencement: Art. 31 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-e4e9b451159f5a5e4d0304e0795aa712]: Commencement: Art. 31 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
 
-[^key-51633354443d99675444b548ad429824]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/uksi/2025/1227/article/31/1) inserted (8.6.2026) by [The Cory Decarbonisation Project (Correction) Order 2026 (S.I. 2026/606)](https://www.legislation.gov.uk/uksi/2026/606), [art. 1](https://www.legislation.gov.uk/uksi/2026/606/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/606/schedule)
+[^c-51633354443d99675444b548ad429824]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/uksi/2025/1227/article/31/1) inserted (8.6.2026) by [The Cory Decarbonisation Project (Correction) Order 2026 (S.I. 2026/606)](https://www.legislation.gov.uk/uksi/2026/606), [art. 1](https://www.legislation.gov.uk/uksi/2026/606/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/606/schedule)
 
-[^key-9b230f3db013e334ba51a0297126ca7a]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/uksi/2025/1227/article/31/1) substituted (8.6.2026) by [The Cory Decarbonisation Project (Correction) Order 2026 (S.I. 2026/606)](https://www.legislation.gov.uk/uksi/2026/606), [art. 1](https://www.legislation.gov.uk/uksi/2026/606/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/606/schedule)
+[^c-9b230f3db013e334ba51a0297126ca7a]: Textual amendment: Words in [art. 31(1)](https://www.legislation.gov.uk/uksi/2025/1227/article/31/1) substituted (8.6.2026) by [The Cory Decarbonisation Project (Correction) Order 2026 (S.I. 2026/606)](https://www.legislation.gov.uk/uksi/2026/606), [art. 1](https://www.legislation.gov.uk/uksi/2026/606/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2026/606/schedule)

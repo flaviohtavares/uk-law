@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65. Protection of aircrew from cosmic radiation[^key-c7bac3963c1c4ca1bd545c3ee536a9c8]
+## 65. Protection of aircrew from cosmic radiation[^c-c7bac3963c1c4ca1bd545c3ee536a9c8]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7bac3963c1c4ca1bd545c3ee536a9c8]: Commencement: [Art. 65](https://www.legislation.gov.uk/uksi/2013/2870/article/65) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)
+[^c-c7bac3963c1c4ca1bd545c3ee536a9c8]: Commencement: [Art. 65](https://www.legislation.gov.uk/uksi/2013/2870/article/65) in force at 1.1.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2013/2870/article/1)

@@ -50,7 +50,7 @@ In exercise of the powers conferred by section 2(2) of that Act, the Secretary o
 
 ## PART 1 — INTRODUCTORY
 
-### 1. Citation, commencement and application[^key-223514de0db0eb90f9deb396f9a332df]
+### 1. Citation, commencement and application[^c-223514de0db0eb90f9deb396f9a332df]
 
 (1) These Regulations may be cited as the Companies (Reporting Requirements in Mergers and Divisions) Regulations 2011.
 
@@ -58,7 +58,7 @@ In exercise of the powers conferred by section 2(2) of that Act, the Secretary o
 
 ## PART 2 — AMENDMENTS TO PART 17 OF THE COMPANIES ACT 2006
 
-### 2. Public company: valuation of non-cash consideration for shares: exceptions[^key-61cdcc4036cf1b82cff134b686ff334a]
+### 2. Public company: valuation of non-cash consideration for shares: exceptions[^c-61cdcc4036cf1b82cff134b686ff334a]
 
 (1) Section 595 of the Companies Act 2006[^f00003] (exception to valuation requirement: merger) is amended as follows.
 
@@ -80,13 +80,13 @@ In exercise of the powers conferred by section 2(2) of that Act, the Secretary o
 
 ## PART 3 — AMENDMENTS TO PART 27 OF THE COMPANIES ACT 2006
 
-**3.**[^key-5d43a5b9cac5621d102052de6766f7b8] The Companies Act 2006 is amended as set out in this Part; and accordingly any reference in this Part to a numbered section is to that section of that Act.
+**3.**[^c-5d43a5b9cac5621d102052de6766f7b8] The Companies Act 2006 is amended as set out in this Part; and accordingly any reference in this Part to a numbered section is to that section of that Act.
 
-### 4. Relationship of Part 27 to Part 26[^key-8026782ad37ff24142d8bff15858554b]
+### 4. Relationship of Part 27 to Part 26[^c-8026782ad37ff24142d8bff15858554b]
 
 In section 903 (relationship of Part 27 to Part 26), in subsection (2), for “918” substitute “918A”.
 
-### 5. Publication of draft terms (merger)[^key-0bdd6e997b46f0ba6ffd7a068057a3b7]
+### 5. Publication of draft terms (merger)[^c-0bdd6e997b46f0ba6ffd7a068057a3b7]
 
 (1) At the end of section 906 (publication of draft terms (merger)) add—
 
@@ -96,7 +96,7 @@ In section 903 (relationship of Part 27 to Part 26), in subsection (2), for “9
 
 (2) In the heading to that section, after “**draft terms**” insert “**by registrar**”.
 
-**6.**[^key-d913868b476bc26a49b65041ca149908] After section 906 insert—
+**6.**[^c-d913868b476bc26a49b65041ca149908] After section 906 insert—
 
 > **906A. Publication of draft terms on company website (merger)**
 >
@@ -117,15 +117,15 @@ In section 903 (relationship of Part 27 to Part 26), in subsection (2), for “9
 
 .
 
-### 7. Directors’ explanatory report (merger)[^key-6c5e1bee4cb332af03b807043133624f]
+### 7. Directors’ explanatory report (merger)[^c-6c5e1bee4cb332af03b807043133624f]
 
 In section 908 (directors’ explanatory report (merger)), at the end of subsection (3) add “, section 915A (other circumstances in which reports and inspection not required) and section 918A (agreement to dispense with reports etc).”.
 
-### 8. Expert’s report (merger)[^key-dc51bce54895fac9c1b7cd3908a2d850]
+### 8. Expert’s report (merger)[^c-dc51bce54895fac9c1b7cd3908a2d850]
 
 In section 909(7) (expert’s report), after “section 915 (circumstances in which reports not required)” insert “, section 915A (other circumstances in which reports and inspection not required)”.
 
-### 9. Supplementary accounting statement (merger)[^key-b6a98241905e3bc6404d73f4d8719407]
+### 9. Supplementary accounting statement (merger)[^c-b6a98241905e3bc6404d73f4d8719407]
 
 (1) Section 910 (supplementary accounting statement (merger)) is amended as follows.
 
@@ -148,7 +148,7 @@ In section 909(7) (expert’s report), after “section 915 (circumstances in wh
 
 .
 
-### 10. Inspection of documents (merger)[^key-8e74d6403496427f894e7c420a8931cd]
+### 10. Inspection of documents (merger)[^c-8e74d6403496427f894e7c420a8931cd]
 
 (1) Section 911 (inspection of documents (merger)) is amended as follows.
 
@@ -178,7 +178,7 @@ In section 909(7) (expert’s report), after “section 915 (circumstances in wh
 
 .
 
-**11.**[^key-eca3529cddb3378fc6b8547342eb61be] After section 911 insert—
+**11.**[^c-eca3529cddb3378fc6b8547342eb61be] After section 911 insert—
 
 > **911A. Publication of documents on company website (merger)**
 >
@@ -206,7 +206,7 @@ In section 909(7) (expert’s report), after “section 915 (circumstances in wh
 
 .
 
-### 12. Report on material changes of assets etc (merger)[^key-8619133568fc9cd732b6bffc964cf047]
+### 12. Report on material changes of assets etc (merger)[^c-8619133568fc9cd732b6bffc964cf047]
 
 After section 911A (inserted by Regulation 11) insert—
 
@@ -228,11 +228,11 @@ After section 911A (inserted by Regulation 11) insert—
 
 .
 
-### 13. Approval of articles of new transferee company (merger)[^key-b5cddb933a9d64de42694b4e59bd29c0]
+### 13. Approval of articles of new transferee company (merger)[^c-b5cddb933a9d64de42694b4e59bd29c0]
 
 In section 912 (approval of articles of new transferee company), omit “the transferor company or, as the case may be,”.
 
-### 14. Reports and inspection not required if minority shareholders have right to sell out (merger)[^key-0de510770e3f58a78ffbfe89641dc020]
+### 14. Reports and inspection not required if minority shareholders have right to sell out (merger)[^c-0de510770e3f58a78ffbfe89641dc020]
 
 After section 915 insert—
 
@@ -261,7 +261,7 @@ After section 915 insert—
 
 .
 
-### 15. Circumstances in which meeting of members of transferee company not required (merger)[^key-4c347478c80deec6d2692d1f3b0afa6d]
+### 15. Circumstances in which meeting of members of transferee company not required (merger)[^c-4c347478c80deec6d2692d1f3b0afa6d]
 
 (1) Section 916 (circumstances in which meeting of members of transferee company not required (merger)) is amended as follows.
 
@@ -302,7 +302,7 @@ After section 915 insert—
 
 (4) In subsection (5) for “third” substitute “fourth”.
 
-### 16. Circumstances in which no meetings required (merger)[^key-d453042ede8a914157d1ac691e36bc27]
+### 16. Circumstances in which no meetings required (merger)[^c-d453042ede8a914157d1ac691e36bc27]
 
 (1) Section 917 (circumstances in which no meetings required (merger)) is amended as follows.
 
@@ -343,7 +343,7 @@ After section 915 insert—
 
 (4) In subsection (5) for “third” substitute “fourth”.
 
-### 17. Other circumstances in which meeting of members of transferee company not required (merger)[^key-0d0ee60e09381eb71bd70fa84ca0164c]
+### 17. Other circumstances in which meeting of members of transferee company not required (merger)[^c-0d0ee60e09381eb71bd70fa84ca0164c]
 
 (1) Section 918 (other circumstances in which meeting of members of transferee company not required (merger)) is amended as follows.
 
@@ -384,7 +384,7 @@ After section 915 insert—
 
 (4) In subsection (4) for “third” substitute “fourth”.
 
-### 18. Agreement to dispense with report (merger)[^key-a666705c0af476a206d738ea0a2c30e1]
+### 18. Agreement to dispense with report (merger)[^c-a666705c0af476a206d738ea0a2c30e1]
 
 (1) Section 918A[^f00005] (agreement to dispense with expert’s report (merger)) is amended as follows.
 
@@ -408,13 +408,13 @@ After section 915 insert—
 
 (4) In the section heading, for “**expert’s report**” substitute “**reports etc**”.
 
-### 19. Publication of draft terms (division)[^key-b17e5e28a479be03a5cdf6a8e78027f7]
+### 19. Publication of draft terms (division)[^c-b17e5e28a479be03a5cdf6a8e78027f7]
 
 (1) In section 921 (publication of draft terms (division)), in subsection (4), after “subject to” insert “section 921A (publication of draft terms on company website) and”.
 
 (2) In the heading to that section, after “**draft terms**” insert “**by registrar**”.
 
-**20.**[^key-c0a1e08586a52a3dcc88d5b16e83c92e] After section 921 insert—
+**20.**[^c-c0a1e08586a52a3dcc88d5b16e83c92e] After section 921 insert—
 
 > **921A. Publication of draft terms on company website (division)**
 >
@@ -435,15 +435,15 @@ After section 915 insert—
 
 .
 
-### 21. Directors’ explanatory report (division)[^key-4499b3a8a5a2699552de7999f80a35da]
+### 21. Directors’ explanatory report (division)[^c-4499b3a8a5a2699552de7999f80a35da]
 
 In section 923(4) (directors’ explanatory report) after “section 933 (agreement to dispense with reports etc)” add “and section 933A (certain requirements excluded where shareholders given proportional rights)”.
 
-### 22. Expert’s report (division)[^key-c1abebf0725683b4360027a4cb656e4c]
+### 22. Expert’s report (division)[^c-c1abebf0725683b4360027a4cb656e4c]
 
 In section 924(7) (expert’s report) after “section 933 (agreement to dispense with reports etc)” add “and section 933A (certain requirements excluded where shareholders given proportional rights)”.
 
-### 23. Supplementary accounting statement (division)[^key-570a37ded3e5d5127ad984896840d045]
+### 23. Supplementary accounting statement (division)[^c-570a37ded3e5d5127ad984896840d045]
 
 (1) Section 925 (supplementary accounting statement (division)) is amended as follows.
 
@@ -466,7 +466,7 @@ In section 924(7) (expert’s report) after “section 933 (agreement to dispens
 
 (4) In subsection (5), after “section 933 (agreement to dispense with reports etc)” add “and section 933A (certain requirements excluded where shareholders given proportional rights)”.
 
-### 24. Inspection of documents (division)[^key-61870568c18f85827c7777c159f9d336]
+### 24. Inspection of documents (division)[^c-61870568c18f85827c7777c159f9d336]
 
 (1) Section 926 (inspection of documents (division)) is amended as follows.
 
@@ -494,7 +494,7 @@ In section 924(7) (expert’s report) after “section 933 (agreement to dispens
 
 .
 
-**25.**[^key-a6e3fbdbbaef8f1cdc436f8675444c8c] After section 926 insert—
+**25.**[^c-a6e3fbdbbaef8f1cdc436f8675444c8c] After section 926 insert—
 
 > **926A. Publication of documents on company website (division)**
 >
@@ -522,11 +522,11 @@ In section 924(7) (expert’s report) after “section 933 (agreement to dispens
 
 .
 
-### 26. Report on material changes of assets of transferor company (division)[^key-c17b1b20a3f4b0fa977af28a6e7ff06e]
+### 26. Report on material changes of assets of transferor company (division)[^c-c17b1b20a3f4b0fa977af28a6e7ff06e]
 
 In section 927(3) (report on material changes of assets of transferor company), after “section 933 (agreement to dispense with reports etc)” add “and section 933A (certain requirements excluded where shareholders given proportional rights)”.
 
-### 27. Circumstances in which meeting of members of transferor company not required (division)[^key-a03ca8a9f0cada6832af0683e3b16e38]
+### 27. Circumstances in which meeting of members of transferor company not required (division)[^c-a03ca8a9f0cada6832af0683e3b16e38]
 
 (1) Section 931 (circumstances in which meeting of members of transferor company not required (division)) is amended as follows.
 
@@ -567,7 +567,7 @@ In section 927(3) (report on material changes of assets of transferor company), 
 
 (4) Omit subsection (5) (the third condition).
 
-### 28. Circumstances in which meeting of members of transferee company not required (division)[^key-c112f281bf04bfa527221732c4f5db61]
+### 28. Circumstances in which meeting of members of transferee company not required (division)[^c-c112f281bf04bfa527221732c4f5db61]
 
 (1) Section 932 (circumstances in which meeting of members of transferee company not required (division)) is amended as follows.
 
@@ -610,7 +610,7 @@ In section 927(3) (report on material changes of assets of transferor company), 
 
 (5) In subsection (5), for “first and second” substitute “first, second and third”.
 
-### 29. Certain requirements excluded where shareholders given proportional rights (division)[^key-fe49dfea0a402973d69b47d40cfc4454]
+### 29. Certain requirements excluded where shareholders given proportional rights (division)[^c-fe49dfea0a402973d69b47d40cfc4454]
 
 After section 933 insert—
 
@@ -631,11 +631,11 @@ After section 933 insert—
 
 .
 
-### 30. Power of court to exclude certain requirements (division)[^key-82b0b6adedd58e3b653e77f78b07c2a3]
+### 30. Power of court to exclude certain requirements (division)[^c-82b0b6adedd58e3b653e77f78b07c2a3]
 
 In section 934(1)(b) (power of court to direct that certain conditions in section 932 do not apply), for “first and second” substitute “first, second and third”.
 
-### 31. Disruption of websites[^key-c350b0a63c680836b67c6e3f96ec7a54]
+### 31. Disruption of websites[^c-c350b0a63c680836b67c6e3f96ec7a54]
 
 After section 940 insert—
 
@@ -662,25 +662,25 @@ After section 940 insert—
 
 .
 
-## PART 4 — AMENDMENTS TO COMPANIES (CROSS-BORDER MERGERS) REGULATIONS 2007[^key-93b956add9c74e322632b6082d27eda0]
+## PART 4 — AMENDMENTS TO COMPANIES (CROSS-BORDER MERGERS) REGULATIONS 2007[^c-93b956add9c74e322632b6082d27eda0]
 
 **No longer in force.**
 
-### 32. Amendment to Companies (Cross-Border Mergers) Regulations 2007[^key-93b956add9c74e322632b6082d27eda0]
+### 32. Amendment to Companies (Cross-Border Mergers) Regulations 2007[^c-93b956add9c74e322632b6082d27eda0]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**33.**[^key-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**33.**[^c-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**34.**[^key-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**34.**[^c-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**35.**[^key-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**35.**[^c-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**36.**[^key-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**36.**[^c-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**37.**[^key-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**37.**[^c-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**38.**[^key-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**38.**[^c-93b956add9c74e322632b6082d27eda0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 Edward Davey
 
@@ -731,72 +731,72 @@ A full regulatory impact assessment of the effect that these Regulations will ha
 
 [^f00002]: Footnote: [S.I. 2007/193](https://www.legislation.gov.uk/uksi/2007/193).
 
-[^key-223514de0db0eb90f9deb396f9a332df]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-223514de0db0eb90f9deb396f9a332df]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-61cdcc4036cf1b82cff134b686ff334a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/1606/regulation/2) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-61cdcc4036cf1b82cff134b686ff334a]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2011/1606/regulation/2) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
 [^f00003]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46). There are amendments to the Act which are not relevant to these Regulations.
 
-[^key-5d43a5b9cac5621d102052de6766f7b8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1606/regulation/3) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-5d43a5b9cac5621d102052de6766f7b8]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2011/1606/regulation/3) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-8026782ad37ff24142d8bff15858554b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/1606/regulation/4) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-8026782ad37ff24142d8bff15858554b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2011/1606/regulation/4) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-0bdd6e997b46f0ba6ffd7a068057a3b7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/1606/regulation/5) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-0bdd6e997b46f0ba6ffd7a068057a3b7]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2011/1606/regulation/5) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-d913868b476bc26a49b65041ca149908]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/1606/regulation/6) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-d913868b476bc26a49b65041ca149908]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/1606/regulation/6) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-6c5e1bee4cb332af03b807043133624f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/1606/regulation/7) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-6c5e1bee4cb332af03b807043133624f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2011/1606/regulation/7) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-dc51bce54895fac9c1b7cd3908a2d850]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/1606/regulation/8) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-dc51bce54895fac9c1b7cd3908a2d850]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/1606/regulation/8) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-b6a98241905e3bc6404d73f4d8719407]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/1606/regulation/9) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-b6a98241905e3bc6404d73f4d8719407]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2011/1606/regulation/9) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
 [^f00004]: Footnote: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8). Section 89A was inserted by section 1266 of the Companies Act 2006.
 
-[^key-8e74d6403496427f894e7c420a8931cd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/1606/regulation/10) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-8e74d6403496427f894e7c420a8931cd]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2011/1606/regulation/10) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-eca3529cddb3378fc6b8547342eb61be]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2011/1606/regulation/11) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-eca3529cddb3378fc6b8547342eb61be]: Commencement: [Reg. 11](https://www.legislation.gov.uk/uksi/2011/1606/regulation/11) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-8619133568fc9cd732b6bffc964cf047]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2011/1606/regulation/12) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-8619133568fc9cd732b6bffc964cf047]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2011/1606/regulation/12) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-b5cddb933a9d64de42694b4e59bd29c0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2011/1606/regulation/13) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-b5cddb933a9d64de42694b4e59bd29c0]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2011/1606/regulation/13) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-0de510770e3f58a78ffbfe89641dc020]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2011/1606/regulation/14) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-0de510770e3f58a78ffbfe89641dc020]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2011/1606/regulation/14) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-4c347478c80deec6d2692d1f3b0afa6d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2011/1606/regulation/15) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-4c347478c80deec6d2692d1f3b0afa6d]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2011/1606/regulation/15) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-d453042ede8a914157d1ac691e36bc27]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2011/1606/regulation/16) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-d453042ede8a914157d1ac691e36bc27]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2011/1606/regulation/16) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-0d0ee60e09381eb71bd70fa84ca0164c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/1606/regulation/17) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-0d0ee60e09381eb71bd70fa84ca0164c]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2011/1606/regulation/17) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-a666705c0af476a206d738ea0a2c30e1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2011/1606/regulation/18) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-a666705c0af476a206d738ea0a2c30e1]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2011/1606/regulation/18) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
 [^f00005]: Footnote: Section 918A was inserted into the Companies Act 2006 by [S.I. 2008/690](https://www.legislation.gov.uk/uksi/2008/690).
 
-[^key-b17e5e28a479be03a5cdf6a8e78027f7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2011/1606/regulation/19) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-b17e5e28a479be03a5cdf6a8e78027f7]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2011/1606/regulation/19) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-c0a1e08586a52a3dcc88d5b16e83c92e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2011/1606/regulation/20) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-c0a1e08586a52a3dcc88d5b16e83c92e]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2011/1606/regulation/20) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-4499b3a8a5a2699552de7999f80a35da]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2011/1606/regulation/21) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-4499b3a8a5a2699552de7999f80a35da]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2011/1606/regulation/21) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-c1abebf0725683b4360027a4cb656e4c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2011/1606/regulation/22) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-c1abebf0725683b4360027a4cb656e4c]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2011/1606/regulation/22) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-570a37ded3e5d5127ad984896840d045]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2011/1606/regulation/23) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-570a37ded3e5d5127ad984896840d045]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2011/1606/regulation/23) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-61870568c18f85827c7777c159f9d336]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2011/1606/regulation/24) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-61870568c18f85827c7777c159f9d336]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2011/1606/regulation/24) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-a6e3fbdbbaef8f1cdc436f8675444c8c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2011/1606/regulation/25) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-a6e3fbdbbaef8f1cdc436f8675444c8c]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2011/1606/regulation/25) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-c17b1b20a3f4b0fa977af28a6e7ff06e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2011/1606/regulation/26) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-c17b1b20a3f4b0fa977af28a6e7ff06e]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2011/1606/regulation/26) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-a03ca8a9f0cada6832af0683e3b16e38]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2011/1606/regulation/27) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-a03ca8a9f0cada6832af0683e3b16e38]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2011/1606/regulation/27) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-c112f281bf04bfa527221732c4f5db61]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2011/1606/regulation/28) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-c112f281bf04bfa527221732c4f5db61]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2011/1606/regulation/28) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-fe49dfea0a402973d69b47d40cfc4454]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2011/1606/regulation/29) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-fe49dfea0a402973d69b47d40cfc4454]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2011/1606/regulation/29) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-82b0b6adedd58e3b653e77f78b07c2a3]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2011/1606/regulation/30) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-82b0b6adedd58e3b653e77f78b07c2a3]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2011/1606/regulation/30) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-c350b0a63c680836b67c6e3f96ec7a54]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2011/1606/regulation/31) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
+[^c-c350b0a63c680836b67c6e3f96ec7a54]: Commencement: [Reg. 31](https://www.legislation.gov.uk/uksi/2011/1606/regulation/31) in force at 1.8.2011, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2011/1606/regulation/1/2)
 
-[^key-93b956add9c74e322632b6082d27eda0]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2011/1606/part/4) revoked (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [regs. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [5(c)](https://www.legislation.gov.uk/uksi/2019/348/regulation/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-93b956add9c74e322632b6082d27eda0]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2011/1606/part/4) revoked (31.12.2020) by [The Companies, Limited Liability Partnerships and Partnerships (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/348)](https://www.legislation.gov.uk/uksi/2019/348), [regs. 2](https://www.legislation.gov.uk/uksi/2019/348/regulation/2), [5(c)](https://www.legislation.gov.uk/uksi/2019/348/regulation/5/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

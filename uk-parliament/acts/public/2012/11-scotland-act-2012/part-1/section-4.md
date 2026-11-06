@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Presiding Officer and deputies[^key-abdcde4cf4182b4e72a946a8a853a65b]
+## 4. Presiding Officer and deputies[^c-abdcde4cf4182b4e72a946a8a853a65b]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-abdcde4cf4182b4e72a946a8a853a65b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/11/section/4) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/a)
+[^c-abdcde4cf4182b4e72a946a8a853a65b]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2012/11/section/4) in force at 3.7.2012 by [S.I. 2012/1710](https://www.legislation.gov.uk/uksi/2012/1710), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/1710/article/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.G.4. Effect of re-employment on tier 2 ill-health pensions[^key-d8b7394b5516cee263fa1805f85422f4]
+## 3.G.4. Effect of re-employment on tier 2 ill-health pensions[^c-d8b7394b5516cee263fa1805f85422f4]
 
 *Extent: E+W*
 
@@ -44,7 +44,7 @@ paragraph (2) does not apply during the initial period.
 (5) As regards a further employment in NHS employment—
 
 - (a) paragraph (2) applies from the first tier 1 ill-health pension payment date which falls after the first anniversary of the member’s re-entry into NHS employment, whether or not that day is part of a continuous period of further NHS employment beginning with entry into that employment, and
-- (b) the member may not rejoin this Section of[^key-f8a0464804c3197feabe058378db471c] the Scheme in respect of that employment or any other NHS employment until after the first anniversary of the member’s re-entry into NHS employment, whether or not that or any other NHS employment is an excluded employment.
+- (b) the member may not rejoin this Section of[^c-f8a0464804c3197feabe058378db471c] the Scheme in respect of that employment or any other NHS employment until after the first anniversary of the member’s re-entry into NHS employment, whether or not that or any other NHS employment is an excluded employment.
 
 (6) For the purposes of this regulation—
 
@@ -85,6 +85,6 @@ may apply to the Secretary of State under this paragraph to become entitled to a
 
 ## Annotations
 
-[^key-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-d8b7394b5516cee263fa1805f85422f4]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-f8a0464804c3197feabe058378db471c]: Textual amendment: Words in [reg. 3.G.4(5)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.G.4/5/b) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)
+[^c-f8a0464804c3197feabe058378db471c]: Textual amendment: Words in [reg. 3.G.4(5)(b)](https://www.legislation.gov.uk/uksi/2008/653/regulation/3.G.4/5/b) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [Sch. 2 para. 1](https://www.legislation.gov.uk/uksi/2009/2446/schedule/2/paragraph/1)

@@ -20,10 +20,10 @@ summary: ''
 
 *Extent: E+W+S*
 
-No part of a student's covenant income or grant income shall be disregarded under paragraph 14[^key-4727946ca0c361f38d66945e0a7bead1] of Schedule 5 [^key-ae7ce309a0b61524f35afb1dcb9b7a46]....
+No part of a student's covenant income or grant income shall be disregarded under paragraph 14[^c-4727946ca0c361f38d66945e0a7bead1] of Schedule 5 [^c-ae7ce309a0b61524f35afb1dcb9b7a46]....
 
 ## Annotations
 
-[^key-4727946ca0c361f38d66945e0a7bead1]: Textual amendment: Words in reg. 62 substituted (1.8.2006 for specified purposes and, 1.9.2006 in so far as not already in force) by [The Social Security (Students and Income-related Benefits) Amendment Regulations 2006 (S.I. 2006/1752)](https://www.legislation.gov.uk/uksi/2006/1752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1752/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2006/1752/regulation/3/4)
+[^c-4727946ca0c361f38d66945e0a7bead1]: Textual amendment: Words in reg. 62 substituted (1.8.2006 for specified purposes and, 1.9.2006 in so far as not already in force) by [The Social Security (Students and Income-related Benefits) Amendment Regulations 2006 (S.I. 2006/1752)](https://www.legislation.gov.uk/uksi/2006/1752), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2006/1752/regulation/1/2), [3(4)](https://www.legislation.gov.uk/uksi/2006/1752/regulation/3/4)
 
-[^key-ae7ce309a0b61524f35afb1dcb9b7a46]: Textual amendment: Words in reg. 62 omitted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [reg. 15(3)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/15/3)
+[^c-ae7ce309a0b61524f35afb1dcb9b7a46]: Textual amendment: Words in reg. 62 omitted (for specified purposes and with effect in accordance with reg. 1(4) of the amending S.I.) by virtue of [The Social Security (Miscellaneous Amendments) (No. 4) Regulations 2006 (S.I. 2006/2378)](https://www.legislation.gov.uk/uksi/2006/2378), [reg. 15(3)](https://www.legislation.gov.uk/uksi/2006/2378/regulation/15/3)

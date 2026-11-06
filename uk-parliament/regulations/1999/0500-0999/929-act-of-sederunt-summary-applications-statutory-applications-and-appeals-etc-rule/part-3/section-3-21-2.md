@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.21.2. Appeals[^key-ee0f7080e7951d56d8ad4e3e3809c1ae]
+## 3.21.2. Appeals[^c-ee0f7080e7951d56d8ad4e3e3809c1ae]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ee0f7080e7951d56d8ad4e3e3809c1ae]: Textual amendment: Ch. 3 Pt. 21 inserted (24.5.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Immigration and Asylum) 2003 (S.S.I. 2003/261)](https://www.legislation.gov.uk/ssi/2003/261), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2003/261/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2003/261/paragraph/2/2)
+[^c-ee0f7080e7951d56d8ad4e3e3809c1ae]: Textual amendment: Ch. 3 Pt. 21 inserted (24.5.2003) by [Act of Sederunt (Summary Applications, Statutory Applications and Appeals etc. Rules) Amendment (Immigration and Asylum) 2003 (S.S.I. 2003/261)](https://www.legislation.gov.uk/ssi/2003/261), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2003/261/paragraph/1/1), [2(2)](https://www.legislation.gov.uk/ssi/2003/261/paragraph/2/2)

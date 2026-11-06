@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 51. Cost of arrangements at any time after variation[^key-4a9d12ab36df7a433ff9ede1203843ee]
+## 51. Cost of arrangements at any time after variation[^c-4a9d12ab36df7a433ff9ede1203843ee]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ Where a local authority agree to a variation of a credit arrangement which is ex
 
 ## Annotations
 
-[^key-4a9d12ab36df7a433ff9ede1203843ee]: Commencement: Reg. 51 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-4a9d12ab36df7a433ff9ede1203843ee]: Commencement: Reg. 51 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

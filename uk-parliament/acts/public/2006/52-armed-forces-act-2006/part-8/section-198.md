@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Transfer to Scotland or Northern Ireland of custody plus order[^key-c7bc9996416c2e47633fe033652e4a32]
+## 198. Transfer to Scotland or Northern Ireland of custody plus order[^c-c7bc9996416c2e47633fe033652e4a32]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7bc9996416c2e47633fe033652e4a32]: Textual amendment: Ss. 197-199 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 41(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/41/3); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)
+[^c-c7bc9996416c2e47633fe033652e4a32]: Textual amendment: Ss. 197-199 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [s. 151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1), [Sch. 10 para. 41(3)](https://www.legislation.gov.uk/ukpga/2012/10/schedule/10/paragraph/41/3); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(h)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/h)

@@ -20,8 +20,8 @@ summary: ''
 
 **Not yet in force.**
 
-**74.**[^key-54aaf25b2f60f165e6ab2131cb155afc] In Upper and Lower Lough Erne and all rivers flowing into those loughs and in the River Erne the annual close season for angling for salmon, trout and rainbow trout shall be from 1st October in each year to the last day of February in the next following year, both dates inclusive.
+**74.**[^c-54aaf25b2f60f165e6ab2131cb155afc] In Upper and Lower Lough Erne and all rivers flowing into those loughs and in the River Erne the annual close season for angling for salmon, trout and rainbow trout shall be from 1st October in each year to the last day of February in the next following year, both dates inclusive.
 
 ## Annotations
 
-[^key-54aaf25b2f60f165e6ab2131cb155afc]: Commencement: S. 74 in operation at 1.11.1997, see byelaw 1
+[^c-54aaf25b2f60f165e6ab2131cb155afc]: Commencement: S. 74 in operation at 1.11.1997, see byelaw 1

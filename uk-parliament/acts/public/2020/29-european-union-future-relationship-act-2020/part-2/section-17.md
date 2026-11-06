@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 17. General provisions about disclosure of non-food product safety information[^key-1d7b96d8e6086c03003d3ca1275324d3]
+## 17. General provisions about disclosure of non-food product safety information[^c-1d7b96d8e6086c03003d3ca1275324d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1d7b96d8e6086c03003d3ca1275324d3]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2020/29/section/17) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/p)
+[^c-1d7b96d8e6086c03003d3ca1275324d3]: Commencement: [S. 17](https://www.legislation.gov.uk/ukpga/2020/29/section/17) in force at 31.12.2020 by [S.I. 2020/1662](https://www.legislation.gov.uk/uksi/2020/1662), [reg. 2(p)](https://www.legislation.gov.uk/uksi/2020/1662/regulation/2/p)

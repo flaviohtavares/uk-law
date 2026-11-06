@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20. Further provisions with respect to schemes under s.19[^key-41c3627672814b909ff69b50c701eeba]
+## 20. Further provisions with respect to schemes under s.19[^c-41c3627672814b909ff69b50c701eeba]
 
 *Extent: E*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41c3627672814b909ff69b50c701eeba]: Commencement: [S. 20](https://www.legislation.gov.uk/ukcm/2007/1/section/20) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops
+[^c-41c3627672814b909ff69b50c701eeba]: Commencement: [S. 20](https://www.legislation.gov.uk/ukcm/2007/1/section/20) in force at 1.9.2008 by [2008 No. 1](https://www.legislation.gov.uk/ukci/2008/1), Instrument made by Archbishops

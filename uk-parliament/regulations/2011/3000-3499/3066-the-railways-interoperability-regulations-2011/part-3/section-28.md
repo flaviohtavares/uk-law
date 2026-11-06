@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 28. Recognition of assessments of other Member States[^key-0aa1fd4fb87ca4239fe7b80024126425]
+## 28. Recognition of assessments of other Member States[^c-0aa1fd4fb87ca4239fe7b80024126425]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0aa1fd4fb87ca4239fe7b80024126425]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2011/3066/regulation/28) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(33)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/33); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0aa1fd4fb87ca4239fe7b80024126425]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/uksi/2011/3066/regulation/28) omitted (31.12.2020) by virtue of [The Railways (Interoperability) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/345)](https://www.legislation.gov.uk/uksi/2019/345), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/345/regulation/1/2), [2(33)](https://www.legislation.gov.uk/uksi/2019/345/regulation/2/33); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

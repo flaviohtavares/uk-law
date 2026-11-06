@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 33A. Reduction of the duration of capacity agreements: Secretary of State’s discretion[^key-75c03c47b503ae8d2b8ba896c6491f0d]
+## 33A. Reduction of the duration of capacity agreements: Secretary of State’s discretion[^c-75c03c47b503ae8d2b8ba896c6491f0d]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75c03c47b503ae8d2b8ba896c6491f0d]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/2014/2043/regulation/33A) inserted (27.7.2021) by [The Electricity Capacity (Amendment) Regulations 2021 (S.I. 2021/901)](https://www.legislation.gov.uk/uksi/2021/901), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/901/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/901/schedule/paragraph/3)
+[^c-75c03c47b503ae8d2b8ba896c6491f0d]: Textual amendment: [Reg. 33A](https://www.legislation.gov.uk/uksi/2014/2043/regulation/33A) inserted (27.7.2021) by [The Electricity Capacity (Amendment) Regulations 2021 (S.I. 2021/901)](https://www.legislation.gov.uk/uksi/2021/901), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2021/901/regulation/1/2), [Sch. para. 3](https://www.legislation.gov.uk/uksi/2021/901/schedule/paragraph/3)

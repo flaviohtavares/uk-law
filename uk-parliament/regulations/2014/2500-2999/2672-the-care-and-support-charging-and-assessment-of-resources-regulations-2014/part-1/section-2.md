@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-3863a380e06d09f4b06dc665f8f6c887]
+## 2. Interpretation[^c-3863a380e06d09f4b06dc665f8f6c887]
 
 *Extent: E+W*
 
@@ -64,7 +64,7 @@ summary: ''
 
 ## Annotations
 
-[^key-3863a380e06d09f4b06dc665f8f6c887]: Commencement: Reg. 2 in force at 1.4.2015 in accordance with reg. 1
+[^c-3863a380e06d09f4b06dc665f8f6c887]: Commencement: Reg. 2 in force at 1.4.2015 in accordance with reg. 1
 
 [^f00002]: Footnote: [1992 c.4](https://www.legislation.gov.uk/ukpga/1992/4).
 

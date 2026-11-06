@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Default scheme[^key-515bdae6dfd069ce525e2012f87ae715]
+## 2. Default scheme[^c-515bdae6dfd069ce525e2012f87ae715]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-515bdae6dfd069ce525e2012f87ae715]: Textual amendment: Regulations revoked (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013 (S.I. 2013/3035)](https://www.legislation.gov.uk/uksi/2013/3035), [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/2013/3035/regulation/1/2/4)
+[^c-515bdae6dfd069ce525e2012f87ae715]: Textual amendment: Regulations revoked (with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Default Scheme) (Wales) Regulations 2013 (S.I. 2013/3035)](https://www.legislation.gov.uk/uksi/2013/3035), [reg. 1(2)(4)](https://www.legislation.gov.uk/uksi/2013/3035/regulation/1/2/4)

@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 228(2)
 
-**1.**[^key-3d7b792c00b1ced1cb64e187c65474a4] After Schedule 33 insert—
+**1.**[^c-3d7b792c00b1ced1cb64e187c65474a4] After Schedule 33 insert—
 
 > **SCHEDULE 33A — Transitional provision in relation to EU Exit**
 >
@@ -41,7 +41,7 @@ Regulation 228(2)
 >
 > **PART 2 — Manufacturing, wholesale dealing and brokering**
 >
-> **2. Wholesale dealer's licence used to distribute a medicinal product imported from an EEA State before IP completion day[^key-7d49d4f4dd2268db9589a65f9f23d3ed]**
+> **2. Wholesale dealer's licence used to distribute a medicinal product imported from an EEA State before IP completion day[^c-7d49d4f4dd2268db9589a65f9f23d3ed]**
 >
 > (1) Subject to sub-paragraphs (2) and (3), a person (“P”) who is the holder of a wholesale dealer's licence which—
 >
@@ -114,7 +114,7 @@ Regulation 228(2)
 > - (c) Brazil;
 > - (d) Israel;
 > - (e) Japan;
-> - (ea)[^key-3aabeb500ff4064cfb2034c2211f77ed] Republic of Korea;
+> - (ea)[^c-3aabeb500ff4064cfb2034c2211f77ed] Republic of Korea;
 > - (f) Switzerland; and
 > - (g) the United States of America.
 >
@@ -130,7 +130,7 @@ Regulation 228(2)
 >
 > (2) An EU marketing authorisation to which this paragraph applies—
 >
-> - (a)[^key-3e6f989561986f7a61151361359450c2] insofar as it authorises sale or supply of a medicinal product in Great Britain, has effect on and after IP completion day as a UKMA(GB) granted under regulation 49(1) of these Regulations (but, insofar as it authorises sale or supply of a medicinal product in Northern Ireland, continues to operate in Northern Ireland as an EU marketing authorisation); and
+> - (a)[^c-3e6f989561986f7a61151361359450c2] insofar as it authorises sale or supply of a medicinal product in Great Britain, has effect on and after IP completion day as a UKMA(GB) granted under regulation 49(1) of these Regulations (but, insofar as it authorises sale or supply of a medicinal product in Northern Ireland, continues to operate in Northern Ireland as an EU marketing authorisation); and
 > - (b) is referred to in this Part as a “**converted EU marketing authorisation**”.
 >
 > (3) If the holder of an EU marketing authorisation to which this paragraph applies notifies the licensing authority in writing before the end of the period of 21 days beginning with IP completion day that it does not wish to be the holder of a converted EU marketing authorisation, the licensing authority must revoke the converted EU marketing authorisation with effect from the date of receipt of the notification.
@@ -142,7 +142,7 @@ Regulation 228(2)
 > - (c) is treated for the purposes of regulation 67(1) (failure to place on the market) as if it had been granted on IP completion day, and the period of three years referred to in regulation 67(2) is treated as having started on IP completion day;
 > - (d) is treated for the purposes of determining the relevant fee period for the purposes of Schedule 4 to the Fees Regulations (periodic fees for marketing authorisations) as if it had been granted by the licensing authority on the date that the EU marketing authorisation took effect;
 > - (e) is treated, for the purposes of the reference to the date of grant in regulation 27A(a) of the Fees Regulations (fees for renewals of a marketing authorisation) as if it had been granted on the date that the EU marketing authorisation took effect;
-> - (f) retains, for the purposes of regulation 51A(1) and (6)[^key-47169d5bba527466de0951044015dd1e], the benefit of any remaining periods of data or marketing exclusivity (if any) from which the holder benefitted immediately before IP completion day;
+> - (f) retains, for the purposes of regulation 51A(1) and (6)[^c-47169d5bba527466de0951044015dd1e], the benefit of any remaining periods of data or marketing exclusivity (if any) from which the holder benefitted immediately before IP completion day;
 > - (g) retains the benefit of any decision by the EMA to exempt the holder from Articles 14(4) or (5) of Regulation [(EC) No 726/2004](https://www.legislation.gov.uk/eur/2004/726) (failure to place on the market), and that decision is treated as if it had been made by the licensing authority under regulation 67(3); and
 > - (h) remains subject to—
 >   - (i) any suspension of the EU marketing authorisation that is in force immediately before IP completion day,
@@ -411,11 +411,11 @@ Regulation 228(2)
 > (3) In this paragraph—
 >
 > - “**the specified period**” means 4 weeks beginning with IP completion day; and
-> - “**the transitional period**” means the period of 24 months[^key-0c2357a699034de472af440054a44715] beginning with IP completion day.
+> - “**the transitional period**” means the period of 24 months[^c-0c2357a699034de472af440054a44715] beginning with IP completion day.
 >
 > **23. Temporary exemption as to packaging requirements for converted EU marketing authorisations**
 >
-> (1) A holder of a converted EU marketing authorisation does not commit an offence under regulation 268 during the period of 36 months[^key-8723d0681816678cbf07adc3a073ca2d] beginning with IP completion day day to the extent that—
+> (1) A holder of a converted EU marketing authorisation does not commit an offence under regulation 268 during the period of 36 months[^c-8723d0681816678cbf07adc3a073ca2d] beginning with IP completion day day to the extent that—
 >
 > - (a) the packaging and package leaflet do not comply with the requirements of Part 13 by reason only of the fact that the outer or immediate packaging, or the package leaflet, do not include the correct information as to—
 >   - (i) the name and address of the holder of the UK marketing authorisation, or, where applicable, the name of the holder's representative,
@@ -465,7 +465,7 @@ Regulation 228(2)
 >
 > **PART 4 — Transitional provision in respect of UK marketing authorisations, parallel import licences and parallel distribution notices**
 >
-> **26ZA. Status of certain UK marketing authorisations granted before IP completion day[^key-7ff1c9a0ab77d933321538c28fe9037e]**
+> **26ZA. Status of certain UK marketing authorisations granted before IP completion day[^c-7ff1c9a0ab77d933321538c28fe9037e]**
 >
 > (1) This paragraph applies in relation to a UK marketing authorisation granted by the licensing authority under Chapter 4 of Title III to the 2001 Directive that was in force immediately before IP completion day.
 >
@@ -481,14 +481,14 @@ Regulation 228(2)
 > - (a) who—
 >   - (i) holds a UK marketing authorisation immediately before IP completion day which remains in force on IP completion day (whether or not it is suspended),
 >   - (ii) holds a parallel import licence immediately before IP completion day which remains in force on IP completion day (whether or not it is suspended),
->   - (iii) has made an application for, or to renew, a UK marketing authorisation or parallel import licence before IP completion day, which has not been determined before that date, [^key-07091680ed969e59e6b1a4e023b7c00d]...
->   - (iv) makes such an application on or after IP completion day but before the end of the transitional period; or[^key-dc822c8431430a2e6c356f9e03d3b7cc]
+>   - (iii) has made an application for, or to renew, a UK marketing authorisation or parallel import licence before IP completion day, which has not been determined before that date, [^c-07091680ed969e59e6b1a4e023b7c00d]...
+>   - (iv) makes such an application on or after IP completion day but before the end of the transitional period; or[^c-dc822c8431430a2e6c356f9e03d3b7cc]
 >   - (v) is deemed to hold a parallel import licence under paragraph 28(2); and
 > - (b) who was, immediately before IP completion day, established in an EEA State and remains established there on and after IP completion day,
 >
 > is to be treated, for the transitional period, as satisfying the requirements of regulation 49(3), 66(2) or 66A(2) (as the case may be), notwithstanding the amendments made to those provisions by the EU Exit Regulations.
 >
-> (2) But sub-paragraph (1) continues to apply to a person where the UK marketing authorisation or parallel import licence authorises sale or supply of the medicinal product in Great Britain[^key-d9da024c65fe481824378678e7d41321] only if the person has notified the licensing authority in writing of—
+> (2) But sub-paragraph (1) continues to apply to a person where the UK marketing authorisation or parallel import licence authorises sale or supply of the medicinal product in Great Britain[^c-d9da024c65fe481824378678e7d41321] only if the person has notified the licensing authority in writing of—
 >
 > - (a) a named individual who resides and operates in the United Kingdom who the licensing authority may contact in respect of any matter relating to the UK marketing authorisation or parallel import licence, or application for a UK marketing authorisation or parallel import licence (as the case may be), during the transitional period; and
 > - (b) that individual's address, telephone number and email address.
@@ -504,7 +504,7 @@ Regulation 228(2)
 >
 > **27. Temporary exemption as to packaging requirements: change of place of establishment**
 >
-> (1) Subject to sub-paragraph (2), a person to whom paragraph 26 applies does not commit an offence under regulation 268 (offence relating to packaging and package leaflets in Great Britain[^key-75bdb48465ed6c7af9066bb74004b494]: holder of authorisation etc) during the transitional period to the extent that—
+> (1) Subject to sub-paragraph (2), a person to whom paragraph 26 applies does not commit an offence under regulation 268 (offence relating to packaging and package leaflets in Great Britain[^c-75bdb48465ed6c7af9066bb74004b494]: holder of authorisation etc) during the transitional period to the extent that—
 >
 > - (a) the packaging and package leaflet do not comply with the requirements of Part 13 (packaging and leaflets) by reason only of the fact that the outer or immediate packaging, or the package leaflet (as the case may be), do not include the correct information as to—
 >   - (i) the name and address of the holder of the UK marketing authorisation, or, where applicable, the name of that holder's representative,
@@ -521,7 +521,7 @@ Regulation 228(2)
 >
 > (3) In this paragraph “**the transitional period**” means the period of 36 months beginning with IP completion day.
 >
-> **27A. Status of parallel import licences granted before IP completion day[^key-f4f55084a1d80764b7d7abcd9ff7aeff]**
+> **27A. Status of parallel import licences granted before IP completion day[^c-f4f55084a1d80764b7d7abcd9ff7aeff]**
 >
 > (1) This paragraph applies in relation to a parallel import licence granted by the licensing authority that was in force immediately before IP completion day.
 >
@@ -538,7 +538,7 @@ Regulation 228(2)
 > - (b) that distribution notice, and that EU marketing authorisation, are in force immediately before IP completion day; and
 > - (c) that parallel distribution notice specifies the United Kingdom as a member state of destination in respect of that medicinal product.
 >
-> (2) Subject to sub-paragraph (3), a person who falls within sub-paragraph (1) is deemed, on and after IP completion day, to have a parallel import licence granted under Part 5 , in force in Great Britain only,[^key-cc43f37f0816c458f22c4395fbb37337] in respect of the medicinal product specified in the parallel distribution notice.
+> (2) Subject to sub-paragraph (3), a person who falls within sub-paragraph (1) is deemed, on and after IP completion day, to have a parallel import licence granted under Part 5 , in force in Great Britain only,[^c-cc43f37f0816c458f22c4395fbb37337] in respect of the medicinal product specified in the parallel distribution notice.
 >
 > (3) A person who falls within sub-paragraph (1) continues to hold a parallel import licence pursuant to sub-paragraph (2) only if that person notifies the licensing authority—
 >
@@ -582,12 +582,12 @@ Regulation 228(2)
 > - (a) “**the transitional period**” means the period of 24 months beginning with IP completion day; and
 > - (b) “**the batch testing condition**” and “**the batch testing exemption**” have the same meaning as in regulation 60A.
 >
-> (8)[^key-3aa395db7433e5b608f21c2343ede90a] This paragraph, with the exception of sub-paragraphs (3) and (4), applies equally to a medicinal product imported into the United Kingdom pursuant to a parallel import licence and accordingly any reference in this paragraph (other than in this sub-paragraph) to—
+> (8)[^c-3aa395db7433e5b608f21c2343ede90a] This paragraph, with the exception of sub-paragraphs (3) and (4), applies equally to a medicinal product imported into the United Kingdom pursuant to a parallel import licence and accordingly any reference in this paragraph (other than in this sub-paragraph) to—
 >
 > - (a) a marketing authorisation or a UK marketing authorisation is to be read as a reference to a parallel import licence for a medicinal product, and
 > - (b) the holder of a UK marketing authorisation is to be read as a reference to the holder of a parallel import licence.
 >
-> **29A. Application of the batch testing requirement to relevant EU marketing authorisations, and batch testing of biological medicinal products in the EEA before IP completion day (regulation 60B)[^key-d33da51d520d20a82f758a4930469260]**
+> **29A. Application of the batch testing requirement to relevant EU marketing authorisations, and batch testing of biological medicinal products in the EEA before IP completion day (regulation 60B)[^c-d33da51d520d20a82f758a4930469260]**
 >
 > (1) Sub-paragraph (2) applies where—
 >
@@ -836,9 +836,9 @@ Regulation 228(2)
 >
 > (3) Where this sub-paragraph applies, the licensing authority must—
 >
-> - (a) where an opinion favourable to agreeing the paediatric investigation plan [^key-c4e9a20315b5fe3dbd2b895652a71859]... has been given by the Paediatric Committee before IP completion day, treat the plan as an agreed paediatric investigation plan;
-> - (b) where an opinion against agreeing the paediatric investigation plan [^key-c4e9a20315b5fe3dbd2b895652a71859]... has been given by the Paediatric Committee before IP completion day, decide that it cannot agree the plan under regulation 50B(5) (agreement and modification of paediatric investigation plan); or
-> - (c) where before IP completion day no opinion in relation to the paediatric investigation plan has been given by the Paediatric Committee[^key-c03b87a24670c931ca1f7b927b7774bb]... treat it as a request for agreement under regulation 50B(1) and determine that request as soon as reasonably practicable, unless the applicant notifies the licensing authority in writing that they do not want the application to proceed as a request for agreement of a paediatric investigation plan under these Regulations.
+> - (a) where an opinion favourable to agreeing the paediatric investigation plan [^c-c4e9a20315b5fe3dbd2b895652a71859]... has been given by the Paediatric Committee before IP completion day, treat the plan as an agreed paediatric investigation plan;
+> - (b) where an opinion against agreeing the paediatric investigation plan [^c-c4e9a20315b5fe3dbd2b895652a71859]... has been given by the Paediatric Committee before IP completion day, decide that it cannot agree the plan under regulation 50B(5) (agreement and modification of paediatric investigation plan); or
+> - (c) where before IP completion day no opinion in relation to the paediatric investigation plan has been given by the Paediatric Committee[^c-c03b87a24670c931ca1f7b927b7774bb]... treat it as a request for agreement under regulation 50B(1) and determine that request as soon as reasonably practicable, unless the applicant notifies the licensing authority in writing that they do not want the application to proceed as a request for agreement of a paediatric investigation plan under these Regulations.
 >
 > (4) Sub-paragraph (5) applies where—
 >
@@ -848,9 +848,9 @@ Regulation 228(2)
 >
 > (5) Where this sub-paragraph applies, the licensing authority must—
 >
-> - (a) where an opinion favourable to agreeing the modification or waiver [^key-c4e9a20315b5fe3dbd2b895652a71859]... has been given by the Paediatric Committee before IP completion day, agree to the modification or waiver as if it had been requested under regulation 50B(6);
-> - (b) where an opinion against agreeing the modification or waiver [^key-c4e9a20315b5fe3dbd2b895652a71859]... has been given by the Paediatric Committee before IP completion day, decide that it cannot agree to the modification or waiver as if it had been requested under regulation 50B(6); or
-> - (c) where before IP completion day no opinion in relation to the modification or waiver has been given by the Paediatric Committee[^key-c03b87a24670c931ca1f7b927b7774bb]... treat the proposal as one made under regulation 50B(6) and consider it accordingly, unless the applicant notifies the licensing authority in writing that they do not want the proposal to proceed as a proposal under regulation 50B(6).
+> - (a) where an opinion favourable to agreeing the modification or waiver [^c-c4e9a20315b5fe3dbd2b895652a71859]... has been given by the Paediatric Committee before IP completion day, agree to the modification or waiver as if it had been requested under regulation 50B(6);
+> - (b) where an opinion against agreeing the modification or waiver [^c-c4e9a20315b5fe3dbd2b895652a71859]... has been given by the Paediatric Committee before IP completion day, decide that it cannot agree to the modification or waiver as if it had been requested under regulation 50B(6); or
+> - (c) where before IP completion day no opinion in relation to the modification or waiver has been given by the Paediatric Committee[^c-c03b87a24670c931ca1f7b927b7774bb]... treat the proposal as one made under regulation 50B(6) and consider it accordingly, unless the applicant notifies the licensing authority in writing that they do not want the proposal to proceed as a proposal under regulation 50B(6).
 >
 > (6) Where the EMA has adopted a decision to grant, and has not revoked, a waiver of the obligation to produce the information in Article 7(1)(a) of the Paediatric Regulation before IP completion day, that waiver has effect on and after IP completion day as a waiver granted by the licensing authority under regulation 50D (waiver of production of information in a paediatric investigation plan).
 >
@@ -862,17 +862,17 @@ Regulation 228(2)
 >
 > (8) Where this sub-paragraph applies, the licensing authority must—
 >
-> - (a) where an opinion favourable to agreeing the waiver [^key-c4e9a20315b5fe3dbd2b895652a71859]... has been given by the Paediatric Committee before IP completion day, grant the waiver under regulation 50D(2);
-> - (b) where an opinion against agreeing the waiver [^key-c4e9a20315b5fe3dbd2b895652a71859]... has been given by the Paediatric Committee before IP completion day, decide that it cannot grant the waiver under regulation 50D(2); or
-> - (c) where before IP completion day no opinion in relation to the waiver has been given by the Paediatric Committee[^key-c03b87a24670c931ca1f7b927b7774bb]... treat the proposal as one made under regulation 50D and consider it accordingly, unless the applicant notifies the licensing authority in writing that they do not want the proposal to proceed as a proposal under regulation 50D.
+> - (a) where an opinion favourable to agreeing the waiver [^c-c4e9a20315b5fe3dbd2b895652a71859]... has been given by the Paediatric Committee before IP completion day, grant the waiver under regulation 50D(2);
+> - (b) where an opinion against agreeing the waiver [^c-c4e9a20315b5fe3dbd2b895652a71859]... has been given by the Paediatric Committee before IP completion day, decide that it cannot grant the waiver under regulation 50D(2); or
+> - (c) where before IP completion day no opinion in relation to the waiver has been given by the Paediatric Committee[^c-c03b87a24670c931ca1f7b927b7774bb]... treat the proposal as one made under regulation 50D and consider it accordingly, unless the applicant notifies the licensing authority in writing that they do not want the proposal to proceed as a proposal under regulation 50D.
 >
-> **41A. Transitional provision in relation to global marketing authorisations under the 2001 Directive[^key-4efad4667fca458f1da8cd55eeb30a42]**
+> **41A. Transitional provision in relation to global marketing authorisations under the 2001 Directive[^c-4efad4667fca458f1da8cd55eeb30a42]**
 >
 > Where a relevant medicinal product is subject to a global marketing authorisation as described in Article 6 of the 2001 Directive before IP completion day, a paediatric investigation plan does not need to be carried out in relation to that product.
 >
 > **PART 7 — Transitional provision in relation to orphan medicinal products**
 >
-> **...[^key-0ff5135834347caf92ba8d03005ea5d3]**
+> **...[^c-0ff5135834347caf92ba8d03005ea5d3]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -898,7 +898,7 @@ Regulation 228(2)
 >
 > is to be treated, for the transitional period, as satisfying the requirements of regulation 103(4) or 108(2) (as the case may be), notwithstanding the amendments made to those provisions by the EU Exit Regulations.
 >
-> (2) But sub-paragraph (1) continues to apply to a person , in relation to a certificate of registration in force in Great Britain,[^key-73f8676105d820860e9c1b808c0deab3] only if the person has notified the licensing authority in writing of—
+> (2) But sub-paragraph (1) continues to apply to a person , in relation to a certificate of registration in force in Great Britain,[^c-73f8676105d820860e9c1b808c0deab3] only if the person has notified the licensing authority in writing of—
 >
 > - (a) a named individual who resides and operates in the United Kingdom who the licensing authority may contact in respect of any matter relating to the certificate of registration, or application for a certificate of registration, during the transitional period; and
 > - (b) that individual's address, telephone number and email address.
@@ -1005,7 +1005,7 @@ Regulation 228(2)
 >
 > is to be treated, for the transitional period, as satisfying the requirements of regulation 127(3) or 133(2) (as the case may be), notwithstanding the amendments made to those provisions by the EU Exit Regulations.
 >
-> (2) But sub-paragraph (1) continues to apply to a person , only in relation to a registration in force in Great Britain, and[^key-c950f2c0351be5025cb90f7f5605e508] only if the person notifies the licensing authority in writing of—
+> (2) But sub-paragraph (1) continues to apply to a person , only in relation to a registration in force in Great Britain, and[^c-c950f2c0351be5025cb90f7f5605e508] only if the person notifies the licensing authority in writing of—
 >
 > - (a) a named individual who resides and operates in the United Kingdom who the licensing authority may contact in respect of any matter relating to the traditional herbal registration, or application for a traditional herbal registration, during the transitional period; and
 > - (b) that individual's address, telephone number and email address.
@@ -1046,7 +1046,7 @@ Regulation 228(2)
 >
 > **52. Applications made for a traditional herbal registration before IP completion day to which Chapter 4 of Title III of the 2001 Directive applied**
 >
-> (1) Sub-paragraph (2) applies where an application for a traditional herbal registration to be in force in Great Britain only[^key-5833df31ee7c8e8a3150721ed6cd6bb3] has been made before IP completion day and—
+> (1) Sub-paragraph (2) applies where an application for a traditional herbal registration to be in force in Great Britain only[^c-5833df31ee7c8e8a3150721ed6cd6bb3] has been made before IP completion day and—
 >
 > - (a) regulation 130(12) and (13) (applications to be determined under Chapter 4 of Title III of the 2001 Directive) applied to that application before IP completion day; but
 > - (b) a decision as specified in Article 28(5) of the 2001 Directive has not been adopted by the licensing authority before IP completion day.
@@ -1066,7 +1066,7 @@ Regulation 228(2)
 >
 > **53. Suspensions of traditional herbal registrations that have effect immediately before IP completion day that were imposed under Chapter 4 of Title III of the 2001 Directive**
 >
-> Where, immediately before IP completion day, a traditional herbal registration in force in Great Britain only[^key-145edfca82940acf653128ff23ef1da3] has been suspended pursuant to the procedures in Chapter IV of Title III of 2001 Directive, the suspension—
+> Where, immediately before IP completion day, a traditional herbal registration in force in Great Britain only[^c-145edfca82940acf653128ff23ef1da3] has been suspended pursuant to the procedures in Chapter IV of Title III of 2001 Directive, the suspension—
 >
 > - (a) continues to have effect on and after IP completion day in accordance with the terms on which it was imposed; and
 > - (b) is to be treated as if it had been imposed by the licensing authority under Part 7 of these Regulations (traditional herbal registrations).
@@ -1111,7 +1111,7 @@ Regulation 228(2)
 >
 > (1) This paragraph applies where—
 >
-> - (a) the licensing authority has proposed to refer an application for a traditional herbal registration to be in force in Great Britain only[^key-043c9c4518044bc85c27094792d10bc5] to the Committee on Herbal Medicinal Products in accordance with Article 16c(4) of the 2001 Directive before IP completion day; but
+> - (a) the licensing authority has proposed to refer an application for a traditional herbal registration to be in force in Great Britain only[^c-043c9c4518044bc85c27094792d10bc5] to the Committee on Herbal Medicinal Products in accordance with Article 16c(4) of the 2001 Directive before IP completion day; but
 > - (b) that application has not been determined in accordance with Part 7 of these Regulations before IP completion day.
 >
 > (2) Where the licensing authority has received an opinion of the Committee for Herbal Medicinal Products before IP completion day in relation to the application, it must take that decision in to account and determine that application.
@@ -1123,11 +1123,11 @@ Regulation 228(2)
 >
 > **PART 10 — Transitional provision in respect of pharmacovigilance**
 >
-> **56. Interpretation of Part[^key-fc91e1091ab8a9673a372a1197ef4e11]**
+> **56. Interpretation of Part[^c-fc91e1091ab8a9673a372a1197ef4e11]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **57. Temporary exemption as to the location of an appropriately qualified person for pharmacovigilance[^key-94edfbac87e4f3b54c3867f96abec472]**
+> **57. Temporary exemption as to the location of an appropriately qualified person for pharmacovigilance[^c-94edfbac87e4f3b54c3867f96abec472]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -1135,10 +1135,10 @@ Regulation 228(2)
 >
 > (1) Sub-paragraph (2) applies where—
 >
-> - (a) a specified matter in relation to a UKMA(GB) or a THR(GB)[^key-8bd756eadd2045bb2a4f8214e0b5f958] has been referred under Article 107i of the 2001 Directive (urgent Union procedure) before IP completion day; but
+> - (a) a specified matter in relation to a UKMA(GB) or a THR(GB)[^c-8bd756eadd2045bb2a4f8214e0b5f958] has been referred under Article 107i of the 2001 Directive (urgent Union procedure) before IP completion day; but
 > - (b) that procedure has not concluded before IP completion day.
 >
-> (2) Where this sub-paragraph applies, the licensing authority must make a decision in respect of the specified matter in accordance with regulation 68 or 135 (revocation, variation and suspension of UKMA(GB) or THR(GB)[^key-ca0caee24f704088f3c74bcb7e0b85cb]) as soon as reasonably practicable.
+> (2) Where this sub-paragraph applies, the licensing authority must make a decision in respect of the specified matter in accordance with regulation 68 or 135 (revocation, variation and suspension of UKMA(GB) or THR(GB)[^c-ca0caee24f704088f3c74bcb7e0b85cb]) as soon as reasonably practicable.
 >
 > (3) In making a decision under regulation 68 or 135 in accordance with sub-paragraph (2), the licensing authority must have regard to—
 >
@@ -1154,7 +1154,7 @@ Regulation 228(2)
 >
 > (7) Sub-paragraph (8) applies where—
 >
-> - (a) a specified matter in relation to a UKMA(GB) or a THR(GB)[^key-a86edc4b6cb91389955ee91f623c6103] has been referred under Article 107i of the 2001 Directive before IP completion day; and
+> - (a) a specified matter in relation to a UKMA(GB) or a THR(GB)[^c-a86edc4b6cb91389955ee91f623c6103] has been referred under Article 107i of the 2001 Directive before IP completion day; and
 > - (b) that referral has concluded before IP completion day; but
 > - (c) the licensing authority has not, before IP completion day, taken the steps necessary to give effect to that decision or that opinion (as the case may be).
 >
@@ -1174,16 +1174,16 @@ Regulation 228(2)
 >
 > (1) Sub-paragraph (2) applies where—
 >
-> - (a) a holder of a UKMA(GB) or a THR(GB)[^key-fb85d538b71e8a41250c2de67016cbc9] has submitted a periodic safety update report under regulation 191 before IP completion day;
+> - (a) a holder of a UKMA(GB) or a THR(GB)[^c-fb85d538b71e8a41250c2de67016cbc9] has submitted a periodic safety update report under regulation 191 before IP completion day;
 > - (b) that periodic safety report is, immediately before IP completion day, to be assessed in accordance with the single assessment procedure in Article 107e of the 2001 Directive;
 > - (c) the procedure described in Article 107e(3) of the 2001 Directive has been completed before IP completion day; but
 > - (d) the licensing authority has not yet taken the steps described in regulation 194 before IP completion day.
 >
-> (2) Where this sub-paragraph applies, notwithstanding the amendment[^key-8355c7a411fb33824695914d8975af04] of regulation 194 (responding to a single assessment of PSUR under Article 107e of the 2001 Directive) by the EU Exit Regulations, the licensing authority must take the steps specified in regulation 194 in respect of the UKMA(GB) or THR(GB)[^key-099486ad07c097a5a23ae6793f4e79be] as soon as reasonably practicable.
+> (2) Where this sub-paragraph applies, notwithstanding the amendment[^c-8355c7a411fb33824695914d8975af04] of regulation 194 (responding to a single assessment of PSUR under Article 107e of the 2001 Directive) by the EU Exit Regulations, the licensing authority must take the steps specified in regulation 194 in respect of the UKMA(GB) or THR(GB)[^c-099486ad07c097a5a23ae6793f4e79be] as soon as reasonably practicable.
 >
 > (3) Sub-paragraph (4) applies where—
 >
-> - (a) a holder of a UKMA(GB) or a THR(GB)[^key-13b7c195a5cd20a73379c13635e491ab] has submitted a periodic safety update report under regulation 191 before IP completion day;
+> - (a) a holder of a UKMA(GB) or a THR(GB)[^c-13b7c195a5cd20a73379c13635e491ab] has submitted a periodic safety update report under regulation 191 before IP completion day;
 > - (b) that periodic safety report is, immediately before IP completion day, to be assessed in accordance with the single assessment procedure in Article 107e of the 2001 Directive; and
 > - (c) the procedure described in Article 107e(3) of the 2001 Directive has not been completed before IP completion day.
 >
@@ -1205,16 +1205,16 @@ Regulation 228(2)
 > (1) Where the Pharmacovigilance Risk Assessment Committee has, before IP completion day—
 >
 > - (a) issued a letter endorsing a draft study protocol under Article 107n(2)(a) of the 2001 Directive;
-> - (b) informed a holder of a UKMA(GB) or a THR(GB)[^key-f892dbb3efba80d007bae2e243803f20] that the study is a clinical trial under Article 107n(2)(c) of the 2001 Directive; or
+> - (b) informed a holder of a UKMA(GB) or a THR(GB)[^c-f892dbb3efba80d007bae2e243803f20] that the study is a clinical trial under Article 107n(2)(c) of the 2001 Directive; or
 > - (c) informed a holder of its endorsement of a substantial amendment to that protocol under Article 107o of the 2001 Directive,
 >
 > the licensing authority is deemed to have accepted the draft study protocol, or the amended draft study protocol, or made that decision (as the case may be) under regulation 199(5) (submission of draft study protocols for required studies) or 200(5)(b) (amendment to study protocols for required studies).
 >
-> (2) Where sub-paragraph (1) applies, the licensing authority may request the holder of a UKMA(GB) or a THR(GB)[^key-b4639d10c966040d511d0c77c9b0f9f4] to provide to it any information in relation to the procedures under Article 107n or 107o of the 2001 Directive within a specified time period, and that holder must provide that information within that time period.
+> (2) Where sub-paragraph (1) applies, the licensing authority may request the holder of a UKMA(GB) or a THR(GB)[^c-b4639d10c966040d511d0c77c9b0f9f4] to provide to it any information in relation to the procedures under Article 107n or 107o of the 2001 Directive within a specified time period, and that holder must provide that information within that time period.
 >
 > (3) Sub-paragraph (4) applies where, before IP completion day—
 >
-> - (a) a holder of a UKMA(GB) or a THR(GB)[^key-1d3b3ad57c53afff53c5150388fcdece] is proposing to, or, pursuant to Article 21a or 22a of the 2001 Directive, is under a duty to, undertake a non-interventional post-authorisation safety study; and
+> - (a) a holder of a UKMA(GB) or a THR(GB)[^c-1d3b3ad57c53afff53c5150388fcdece] is proposing to, or, pursuant to Article 21a or 22a of the 2001 Directive, is under a duty to, undertake a non-interventional post-authorisation safety study; and
 > - (b) the procedure specified in Article 107n or 107o of the 2001 Directive has not concluded before IP completion day.
 >
 > (4) Where this sub-paragraph applies, on and after IP completion day, the holder must—
@@ -1226,7 +1226,7 @@ Regulation 228(2)
 >
 > (5) In this paragraph, “**not concluded before IP completion day**” means that—
 >
-> - (a) a holder of a UKMA(GB) or a THR(GB)[^key-a9b14176d99116bfa597afadb1f5110d] is proposing to, or, pursuant to Article 21a or 22a of the 2001 Directive, is under a duty to, undertake a non-interventional post-authorisation safety study;
+> - (a) a holder of a UKMA(GB) or a THR(GB)[^c-a9b14176d99116bfa597afadb1f5110d] is proposing to, or, pursuant to Article 21a or 22a of the 2001 Directive, is under a duty to, undertake a non-interventional post-authorisation safety study;
 > - (b) the Pharmacovigilance Risk Assessment Committee has not taken any of the steps specified in sub-paragraph (1)(a) to (c).
 >
 > **61. Matters on-going at IP completion day in respect of the follow up of final study reports**
@@ -1238,7 +1238,7 @@ Regulation 228(2)
 >
 > (2) Where this sub-paragraph applies—
 >
-> - (a) the licensing authority may, on or after IP completion day, request the holder of a UKMA(GB) or a THR(GB)[^key-9e3aaf5926ef051ce5af82cd3b83ee17] to submit to it the information specified in regulation 201(2) (submission and evaluation of final study reports for required studies), and such further information relating to the final study report, or the procedure provided for in Chapter 4 of Title IX of the 2001 Directive, as the licensing authority may require; and
+> - (a) the licensing authority may, on or after IP completion day, request the holder of a UKMA(GB) or a THR(GB)[^c-9e3aaf5926ef051ce5af82cd3b83ee17] to submit to it the information specified in regulation 201(2) (submission and evaluation of final study reports for required studies), and such further information relating to the final study report, or the procedure provided for in Chapter 4 of Title IX of the 2001 Directive, as the licensing authority may require; and
 > - (b) that holder of a UKMA(GB) or a THR(GB) must, in any event, undertake the steps specified in regulation 201(5) in respect of that final study report.
 >
 > (3) Sub-paragraph (4) applies where—
@@ -1246,16 +1246,16 @@ Regulation 228(2)
 > - (a) regulation 202(1) (follow-up of final study reports) applied before IP completion day in respect of a final study report; but
 > - (b) the licensing authority has not, before IP completion day, taken the steps specified in regulation 202(2).
 >
-> (4) Where this paragraph applies, notwithstanding the amendment[^key-9ca1f4a101fa1262e4649fdf19ece96b] of regulation 202 by the EU Exit Regulations, the licensing authority must take the steps specified in regulation 202(2) in accordance with the time period specified in that paragraph.
+> (4) Where this paragraph applies, notwithstanding the amendment[^c-9ca1f4a101fa1262e4649fdf19ece96b] of regulation 202 by the EU Exit Regulations, the licensing authority must take the steps specified in regulation 202(2) in accordance with the time period specified in that paragraph.
 >
 > (5) Sub-paragraph (6) applies where—
 >
 > - (a) regulation 202(3) applied before IP completion day; but
-> - (b) the holder of a UKMA(GB) or a THR(GB)[^key-3dc05b614a26d116f5aa15a158fead1c] has not taken the steps specified in regulation 202(4) before IP completion day.
+> - (b) the holder of a UKMA(GB) or a THR(GB)[^c-3dc05b614a26d116f5aa15a158fead1c] has not taken the steps specified in regulation 202(4) before IP completion day.
 >
-> (6) Where this sub-paragraph applies, notwithstanding the amendment[^key-b4fec43cb1c956ba1e009b42e45c4454] of regulation 202—
+> (6) Where this sub-paragraph applies, notwithstanding the amendment[^c-b4fec43cb1c956ba1e009b42e45c4454] of regulation 202—
 >
-> - (a) the holder of a UKMA(GB) or a THR(GB)[^key-77b3ad82ea3f67d47c43896e8f2dce67] must take the steps specified in regulation 202(4); and
+> - (a) the holder of a UKMA(GB) or a THR(GB)[^c-77b3ad82ea3f67d47c43896e8f2dce67] must take the steps specified in regulation 202(4); and
 > - (b) the licensing authority must determine that application for a variation in accordance with Part 5 (marketing authorisations) or 7 (traditional herbal registrations).
 >
 > **PART 11 — Transitional provision in respect of Part 12**
@@ -1285,94 +1285,94 @@ Regulation 228(2)
 
 ## Annotations
 
-[^key-3d7b792c00b1ced1cb64e187c65474a4]: Commencement: Sch. 7 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-3d7b792c00b1ced1cb64e187c65474a4]: Commencement: Sch. 7 para. 1 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23885611]: Marginal citation: OJ No. L 387, 27.12.2006, p. 1.
 
 [^c23885621]: Marginal citation: OJ No. L 92, 30.3.2006, p. 6.
 
-[^key-7d49d4f4dd2268db9589a65f9f23d3ed]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/a)
+[^c-7d49d4f4dd2268db9589a65f9f23d3ed]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(a)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/a)
 
-[^key-3aabeb500ff4064cfb2034c2211f77ed]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3aabeb500ff4064cfb2034c2211f77ed]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines and Medical Devices (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/1385)](https://www.legislation.gov.uk/uksi/2019/1385), [reg. 1](https://www.legislation.gov.uk/uksi/2019/1385/regulation/1), [Sch. 1 para. 10(2)](https://www.legislation.gov.uk/uksi/2019/1385/schedule/1/paragraph/10/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3e6f989561986f7a61151361359450c2]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/d)
+[^c-3e6f989561986f7a61151361359450c2]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(d)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/d)
 
-[^key-47169d5bba527466de0951044015dd1e]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/e)
+[^c-47169d5bba527466de0951044015dd1e]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(e)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/e)
 
-[^key-0c2357a699034de472af440054a44715]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/b)
+[^c-0c2357a699034de472af440054a44715]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(b)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/b)
 
-[^key-8723d0681816678cbf07adc3a073ca2d]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/c)
+[^c-8723d0681816678cbf07adc3a073ca2d]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(c)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/c)
 
-[^key-7ff1c9a0ab77d933321538c28fe9037e]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(f)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/f)
+[^c-7ff1c9a0ab77d933321538c28fe9037e]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(f)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/f)
 
-[^key-07091680ed969e59e6b1a4e023b7c00d]: Textual amendment: Word in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(g)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/g/i)
+[^c-07091680ed969e59e6b1a4e023b7c00d]: Textual amendment: Word in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(g)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/g/i)
 
-[^key-dc822c8431430a2e6c356f9e03d3b7cc]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(g)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/g/ii)
+[^c-dc822c8431430a2e6c356f9e03d3b7cc]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(g)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/g/ii)
 
-[^key-d9da024c65fe481824378678e7d41321]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(h)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/h)
+[^c-d9da024c65fe481824378678e7d41321]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(h)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/h)
 
-[^key-75bdb48465ed6c7af9066bb74004b494]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/i)
+[^c-75bdb48465ed6c7af9066bb74004b494]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/i)
 
-[^key-f4f55084a1d80764b7d7abcd9ff7aeff]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(j)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/j)
+[^c-f4f55084a1d80764b7d7abcd9ff7aeff]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(j)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/j)
 
-[^key-cc43f37f0816c458f22c4395fbb37337]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(k)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/k)
+[^c-cc43f37f0816c458f22c4395fbb37337]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(k)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/k)
 
-[^key-3aa395db7433e5b608f21c2343ede90a]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(l)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/l)
+[^c-3aa395db7433e5b608f21c2343ede90a]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(l)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/l)
 
-[^key-d33da51d520d20a82f758a4930469260]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(m)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/m)
+[^c-d33da51d520d20a82f758a4930469260]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(m)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/m)
 
-[^key-c4e9a20315b5fe3dbd2b895652a71859]: Textual amendment: Words in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(n)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/n/i)
+[^c-c4e9a20315b5fe3dbd2b895652a71859]: Textual amendment: Words in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(n)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/n/i)
 
-[^key-c03b87a24670c931ca1f7b927b7774bb]: Textual amendment: Words in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(n)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/n/ii)
+[^c-c03b87a24670c931ca1f7b927b7774bb]: Textual amendment: Words in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(n)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/n/ii)
 
-[^key-4efad4667fca458f1da8cd55eeb30a42]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(o)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/o)
+[^c-4efad4667fca458f1da8cd55eeb30a42]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(o)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/o)
 
-[^key-0ff5135834347caf92ba8d03005ea5d3]: Textual amendment: Words in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(p)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/p)
+[^c-0ff5135834347caf92ba8d03005ea5d3]: Textual amendment: Words in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(p)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/p)
 
-[^key-73f8676105d820860e9c1b808c0deab3]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(q)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/q)
+[^c-73f8676105d820860e9c1b808c0deab3]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(q)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/q)
 
-[^key-c950f2c0351be5025cb90f7f5605e508]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(r)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/r)
+[^c-c950f2c0351be5025cb90f7f5605e508]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(r)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/r)
 
-[^key-5833df31ee7c8e8a3150721ed6cd6bb3]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(s)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/s)
+[^c-5833df31ee7c8e8a3150721ed6cd6bb3]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(s)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/s)
 
-[^key-145edfca82940acf653128ff23ef1da3]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(t)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/t)
+[^c-145edfca82940acf653128ff23ef1da3]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(t)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/t)
 
-[^key-043c9c4518044bc85c27094792d10bc5]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(u)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/u)
+[^c-043c9c4518044bc85c27094792d10bc5]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(u)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/u)
 
-[^key-fc91e1091ab8a9673a372a1197ef4e11]: Textual amendment: Words in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(v)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/v)
+[^c-fc91e1091ab8a9673a372a1197ef4e11]: Textual amendment: Words in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(v)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/v)
 
-[^key-94edfbac87e4f3b54c3867f96abec472]: Textual amendment: Words in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(w)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/w)
+[^c-94edfbac87e4f3b54c3867f96abec472]: Textual amendment: Words in Sch. 7 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(w)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/w)
 
-[^key-8bd756eadd2045bb2a4f8214e0b5f958]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/i)[(x)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/x)
+[^c-8bd756eadd2045bb2a4f8214e0b5f958]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/i)[(x)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/x)
 
-[^key-ca0caee24f704088f3c74bcb7e0b85cb]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/ii)[(x)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/x)
+[^c-ca0caee24f704088f3c74bcb7e0b85cb]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/ii)[(x)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/x)
 
-[^key-a86edc4b6cb91389955ee91f623c6103]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/iii)[(x)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/x)
+[^c-a86edc4b6cb91389955ee91f623c6103]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/iii)[(x)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/x)
 
-[^key-fb85d538b71e8a41250c2de67016cbc9]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(y)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/y/i)
+[^c-fb85d538b71e8a41250c2de67016cbc9]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(y)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/y/i)
 
-[^key-8355c7a411fb33824695914d8975af04]: Textual amendment: Word in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(y)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/y/ii/aa)
+[^c-8355c7a411fb33824695914d8975af04]: Textual amendment: Word in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(y)(ii)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/y/ii/aa)
 
-[^key-099486ad07c097a5a23ae6793f4e79be]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(y)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/y/ii/bb)
+[^c-099486ad07c097a5a23ae6793f4e79be]: Textual amendment: Words in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(y)(ii)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/y/ii/bb)
 
-[^key-13b7c195a5cd20a73379c13635e491ab]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(y)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/y/iii)
+[^c-13b7c195a5cd20a73379c13635e491ab]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(y)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/y/iii)
 
-[^key-f892dbb3efba80d007bae2e243803f20]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(z)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/z/i)
+[^c-f892dbb3efba80d007bae2e243803f20]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(z)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/z/i)
 
-[^key-b4639d10c966040d511d0c77c9b0f9f4]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(z)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/z/ii)
+[^c-b4639d10c966040d511d0c77c9b0f9f4]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(z)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/z/ii)
 
-[^key-1d3b3ad57c53afff53c5150388fcdece]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(z)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/z/iii)
+[^c-1d3b3ad57c53afff53c5150388fcdece]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(z)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/z/iii)
 
-[^key-a9b14176d99116bfa597afadb1f5110d]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(z)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/z/iv)
+[^c-a9b14176d99116bfa597afadb1f5110d]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(z)(iv)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/z/iv)
 
-[^key-9e3aaf5926ef051ce5af82cd3b83ee17]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(aa)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/aa/i)
+[^c-9e3aaf5926ef051ce5af82cd3b83ee17]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(aa)(i)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/aa/i)
 
-[^key-9ca1f4a101fa1262e4649fdf19ece96b]: Textual amendment: Word in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(aa)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/aa/ii)
+[^c-9ca1f4a101fa1262e4649fdf19ece96b]: Textual amendment: Word in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(aa)(ii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/aa/ii)
 
-[^key-3dc05b614a26d116f5aa15a158fead1c]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(aa)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/aa/iii)
+[^c-3dc05b614a26d116f5aa15a158fead1c]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(aa)(iii)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/aa/iii)
 
-[^key-b4fec43cb1c956ba1e009b42e45c4454]: Textual amendment: Word in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(aa)(iv)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/aa/iv/aa)
+[^c-b4fec43cb1c956ba1e009b42e45c4454]: Textual amendment: Word in Sch. 7 substituted (31.12.2020 immediately before IP completion day) by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(aa)(iv)(aa)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/aa/iv/aa)
 
-[^key-77b3ad82ea3f67d47c43896e8f2dce67]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(aa)(iv)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/aa/iv/bb)
+[^c-77b3ad82ea3f67d47c43896e8f2dce67]: Textual amendment: Words in Sch. 7 inserted (31.12.2020 immediately before IP completion day) by virtue of [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 193(aa)(iv)(bb)](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/193/aa/iv/bb)
 
 [^c23885631]: Marginal citation: [2018 c. 12](https://www.legislation.gov.uk/ukpga/2018/12).

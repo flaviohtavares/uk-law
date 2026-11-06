@@ -24,7 +24,7 @@ Article 7(1)
 
 ### PART 1 — Manner of voting
 
-#### 1. Persons entitled to vote[^key-e740f64b7698fc5ac0588802e32925da]
+#### 1. Persons entitled to vote[^c-e740f64b7698fc5ac0588802e32925da]
 
 (1) This paragraph applies to determine the manner of voting of a person entitled to vote as an elector in the referendum [^f00023].
 
@@ -55,7 +55,7 @@ that person may vote in person at any polling station in the voting area in whic
 
 (9) Sub-paragraph (2) does not prevent a person, at the polling station allotted to that person, marking a tendered ballot paper in pursuance of rule 28(6) of the Referendum Rules.
 
-#### 2. Existing postal and proxy voters[^key-3b7e86377bef7dce11268039e96f9baa]
+#### 2. Existing postal and proxy voters[^c-3b7e86377bef7dce11268039e96f9baa]
 
 (1) An elector is taken to have been granted a vote by post in the referendum if, at the relevant time, the elector is shown in the record kept under article 8(3) of the 2007 Order (*absent vote at Assembly elections for a particular or an indefinite period)* as voting by post at elections for the Assembly[^f00026] (in this Schedule referred to as “Assembly elections”) for an indefinite period or for a period which extends beyond the date of the poll at the referendum.
 
@@ -67,7 +67,7 @@ that person may vote in person at any polling station in the voting area in whic
 
 (5) Sub-paragraph (1) does not apply to a person if the person is granted a vote by proxy by virtue of an application under paragraph 3.
 
-#### 3. Applications by electors for absent vote[^key-f13053a391647054ace77b7de3922715]
+#### 3. Applications by electors for absent vote[^c-f13053a391647054ace77b7de3922715]
 
 (1) Where a person applies to the registration officer to vote by post in the referendum, the registration officer must grant the application if —
 
@@ -100,7 +100,7 @@ as provided in accordance with the requirements set out in paragraph 9 and, as t
 
 (8) The record kept under sub-paragraph (7) must be retained by the registration officer for the period of twelve months beginning with the date of the poll at the referendum.
 
-#### 4. Absent voters lists[^key-70ed9c4594c4a0ac1eae7e2710898e2b]
+#### 4. Absent voters lists[^c-70ed9c4594c4a0ac1eae7e2710898e2b]
 
 (1) The registration officer must keep the 2 lists mentioned in sub-paragraphs (2) and (3).
 
@@ -122,7 +122,7 @@ together (in each case) with the names and addresses of those appointed as their
 
 (4) In the case of an elector who has an anonymous entry in the register, any entry in the postal voters list or list of proxies, as the case may be, must show in relation to the elector only the elector’s electoral number and the period for which the anonymous entry has effect.
 
-#### 5. Proxies[^key-e845b4ab081dacc660fe5f733daa091e]
+#### 5. Proxies[^c-e845b4ab081dacc660fe5f733daa091e]
 
 (1) Subject to the provisions of this paragraph, any person is capable of being appointed as a proxy to vote for an elector in the referendum and may vote in pursuance of the appointment.
 
@@ -156,7 +156,7 @@ together (in each case) with the names and addresses of those appointed as their
 - (a) may be cancelled by the elector by giving notice to the registration officer, and
 - (b) ceases to be in force on the issue of a proxy paper appointing a different person to vote as proxy for the elector in the referendum.
 
-#### 6. Voting as proxy[^key-48982ec266c2661159b929a83950b71c]
+#### 6. Voting as proxy[^c-48982ec266c2661159b929a83950b71c]
 
 (1) A person entitled to vote as proxy for an elector in the referendum may do so in person at the polling station allotted to the elector under rule 13 of the Referendum Rules unless the person is entitled to vote by post as proxy for that elector in the referendum, in which case the person may vote by post.
 
@@ -198,21 +198,21 @@ as provided in accordance with the requirements set out in paragraph 9.
 
 (12) The record kept under sub-paragraph (11) must be retained by the registration officer for the period of twelve months beginning with the date of the poll at the referendum.
 
-#### 7. Use of personal identifier information[^key-d6e86929b9df866fceb9c9cffe6365d3]
+#### 7. Use of personal identifier information[^c-d6e86929b9df866fceb9c9cffe6365d3]
 
 Where the registration officer is not the counting officer for any voting area that is the same as or falls wholly or partly within the registration officer’s area, the registration officer must provide the counting officer for that voting area with a copy of the information contained in the records kept by the registration officer in pursuance of —
 
 - (a) paragraphs 3(7) and 6(11); and
 - (b) articles 8(9) and 12 (13) of the 2007 Order in relation to persons entitled to an absent vote in the referendum by virtue of paragraph 2(3) or 6(4).
 
-**8.**[^key-6637eb8e118fd56bca14e27f5fe667c5] Information contained in records kept by a registration officer in pursuance of paragraph 3(7) or 6(11) may be disclosed by the officer to —
+**8.**[^c-6637eb8e118fd56bca14e27f5fe667c5] Information contained in records kept by a registration officer in pursuance of paragraph 3(7) or 6(11) may be disclosed by the officer to —
 
 - (a) any other registration officer if the officer by whom the information is kept thinks that to do so will assist the other registration officer in the performance of that other officer’s duties; and
 - (b) any person exercising functions in relation to the preparation or conduct of legal proceedings under this Order.
 
 ### PART 2 — Applications for absent vote
 
-#### 9. General requirements for applications[^key-e3da7919eb72f9c964f93155c61368b4]
+#### 9. General requirements for applications[^c-e3da7919eb72f9c964f93155c61368b4]
 
 (1) This paragraph applies in relation to applications under paragraphs 3, 5(8) or 6(6) or (7).
 
@@ -275,7 +275,7 @@ the application must set out why the applicant’s circumstances will be or are 
 
 (12) Sub-paragraphs (4) and (5) do not apply where an applicant has, or has applied for, an anonymous entry in the register.
 
-#### 10. Additional requirements for applications to vote by proxy[^key-c3fbfedb903f3f43f5a61e96c732551f]
+#### 10. Additional requirements for applications to vote by proxy[^c-c3fbfedb903f3f43f5a61e96c732551f]
 
 (1) An application under paragraph 3(2) or (6) to vote by proxy must also contain a statement of the reasons why the applicant’s circumstances on the date of the poll at the referendum will be or are likely to be such that the application cannot reasonably be expected to vote in person at the polling station allotted to the applicant.
 
@@ -301,7 +301,7 @@ the requirements of paragraph 4 of Schedule 1 to the 2007 Order[^f00029] as to t
 
 (6) This paragraph does not apply where the applicant has an anonymous entry in the register.
 
-#### 11. Closing dates for applications[^key-65257b6fbe337c726d7a3b49bdde59ba]
+#### 11. Closing dates for applications[^c-65257b6fbe337c726d7a3b49bdde59ba]
 
 (1) An application—
 
@@ -338,7 +338,7 @@ must be refused if it is received by the registration officer after 5p.m. on the
 
 (7) In sub-paragraph (6) “bank holiday” means a day which is a bank holiday in Wales under the Banking and Financial Dealings Act 1971[^f00031].
 
-#### 12. Grant or refusal of applications[^key-1258aaa84cb3a54ef4537fb269bb71b5]
+#### 12. Grant or refusal of applications[^c-1258aaa84cb3a54ef4537fb269bb71b5]
 
 (1) Where the registration officer grants an application to vote by post the registration officer must notify the applicant of the decision.
 
@@ -359,11 +359,11 @@ the registration officer must notify the applicant of this.
 
 (7) If, for the purposes of the referendum, the registration officer is not also the counting officer for any voting area that is the same as or falls wholly or partly within the registration officer’s area, the registration officer must send to the counting officer for that voting area details of any application to vote by post which the registration officer has granted as soon as practicable after doing so.
 
-#### 13. Cancellation of proxy appointment[^key-3b46c5121fd03b4e751244445ded79cb]
+#### 13. Cancellation of proxy appointment[^c-3b46c5121fd03b4e751244445ded79cb]
 
 Where the appointment of a proxy is cancelled by notice given to the registration officer under paragraph 5(10) or ceases to be in force under that provision, the registration officer must notify the person whose appointment as proxy has been cancelled or ceases to be or is no longer in force, unless the registration officer has previously been notified by that person that the person no longer wishes to act as proxy.
 
-#### 14. The personal identifiers record[^key-1befaa9d02f8a456d6a04ff6abaded67]
+#### 14. The personal identifiers record[^c-1befaa9d02f8a456d6a04ff6abaded67]
 
 (1) In this paragraph, “personal identifiers record” means a record kept by a registration officer in pursuance of—
 
@@ -385,7 +385,7 @@ Where the appointment of a proxy is cancelled by notice given to the registratio
 
 ### PART 3 — Registration
 
-#### 15. Effect of register[^key-f6ebd85d1a863ad4dbcbabd533e3b807]
+#### 15. Effect of register[^c-f6ebd85d1a863ad4dbcbabd533e3b807]
 
 (1) Any entry in the register, if it gives a date as that on which the person named will attain voting age, is for any purpose of this Order relating to that person as an elector conclusive that until the date given in the entry that person is not of voting age nor entitled to be treated as an elector for the purposes of the referendum unless the day fixed for the poll is that or a later date.
 
@@ -407,7 +407,7 @@ Where the appointment of a proxy is cancelled by notice given to the registratio
 
 (5) Sub-paragraph (1) applies to an entry in the record of anonymous entries as it applies to an entry in the register.
 
-#### 16. Effect of misdescription[^key-d4ada86c2b7fa02201c78ec0d4dc8578]
+#### 16. Effect of misdescription[^c-d4ada86c2b7fa02201c78ec0d4dc8578]
 
 No misnomer or inaccurate description of any person or place named—
 
@@ -416,7 +416,7 @@ No misnomer or inaccurate description of any person or place named—
 
 affects the full operation of the document with respect to that person or place in any case where the description of the person or place is such as to be commonly understood.
 
-#### 17. Discharge of registration duties[^key-3950179c3ac8f4e2e26dd667b562ea9e]
+#### 17. Discharge of registration duties[^c-3950179c3ac8f4e2e26dd667b562ea9e]
 
 (1) A registration officer must carry out the registration officer’s functions under this Order in accordance with any general or specific directions given by the Secretary of State.
 
@@ -428,7 +428,7 @@ affects the full operation of the document with respect to that person or place 
 
 (5) A county or county borough council by whom a registration officer is appointed must assign such officers to assist the registration officer as may be required in carrying out the registration officer’s functions under this Order.
 
-#### 18. Alterations in the register[^key-336f034a32d9f6282c1cfdb07ebd5f7f]
+#### 18. Alterations in the register[^c-336f034a32d9f6282c1cfdb07ebd5f7f]
 
 (1) Section 13B of the 1983 Act[^f00035] (*alteration of register: pending elections*) and regulations having effect in relation to that section[^f00036] have effect for the purposes of the referendum as if a reference to an election to which that section applies included a reference to the referendum.
 
@@ -436,7 +436,7 @@ affects the full operation of the document with respect to that person or place 
 
 (3) Sub-paragraphs (1) and (2) have effect, in relation to any register, until the first publication after the referendum of a revised version of the register under section 13 of the 1983 Act.
 
-#### 19. Payment of expenses of registration[^key-394f30f6a0cf5b8f432e776feca58bb6]
+#### 19. Payment of expenses of registration[^c-394f30f6a0cf5b8f432e776feca58bb6]
 
 (1) Any expenses properly incurred by a registration officer in the performance of that officer’s functions under this Order (in this paragraph referred to as “registration expenses”) must be paid by the county or county borough council by whom the registration officer was appointed.
 
@@ -444,7 +444,7 @@ affects the full operation of the document with respect to that person or place 
 
 (3) On the request of a registration officer for an advance on account of registration expenses, the county or county borough council by whom the registration officer was appointed may, if it thinks fit, make such an advance to the officer of such an amount and subject to such conditions as it may approve.
 
-#### 20. Supply of free copy of register, notices and lists for referendum purposes[^key-4b9c6489aeac543fd7258279ab7dd627]
+#### 20. Supply of free copy of register, notices and lists for referendum purposes[^c-4b9c6489aeac543fd7258279ab7dd627]
 
 (1) This paragraph applies where a registration officer is not the counting officer for the voting area that is the same as or falls wholly or party within the registration officer’s area; and references in this paragraph to “relevant counting officer” mean the counting officer for that voting area.
 
@@ -477,7 +477,7 @@ other than for the purposes of the referendum.
 - (a) the full register and edited register have the same meaning as in regulation 93 of the 2001 Regulations; and
 - (b) “data form” means information which is in a form which is capable of being processed by means of equipment operating automatically in response to instructions given for that purpose.
 
-**21.**[^key-b80e4a0f4d767c153e43d706270faf6d] (1) A permitted participant is entitled, subject to the following provisions of this paragraph, to request that the registration officer supply free of charge a copy of the current or the final version of any of the postal voters list, the list of proxies or the proxy postal voters list.
+**21.**[^c-b80e4a0f4d767c153e43d706270faf6d] (1) A permitted participant is entitled, subject to the following provisions of this paragraph, to request that the registration officer supply free of charge a copy of the current or the final version of any of the postal voters list, the list of proxies or the proxy postal voters list.
 
 (2) A request under sub-paragraph (1) must be made in writing and must specify —
 
@@ -550,37 +550,37 @@ otherwise than by means of hand-written notes.
 - (a) a person who has an anonymous entry in the register, or
 - (b) the proxy of a person who has an anonymous entry in the register.
 
-#### 22. Appeals[^key-6c1a25b288590b95531887664d90da09]
+#### 22. Appeals[^c-6c1a25b288590b95531887664d90da09]
 
 (1) An appeal under section 56 of the 1983 Act [^f00040] (*registration appeals*) or under article 5 of the 2007 Order (*registration appeals)* which is pending when notice of the referendum is given does not prejudice the operation as respects the referendum of the decision appealed against, and anything done in pursuance of the decision is as good as if no such appeal had been brought and is not affected by the decision on appeal.
 
 (2) Where, as a result of the decision on an appeal under section 56 of the 1983 Act, an alteration in the register is made which takes effect under section 13(5), 13A(2) or 13B(3) or (3B) of the 1983 Act on or before the day of the poll at the referendum, sub-paragraph (1) does not apply to that appeal.
 
-#### 23. Marked register for polling stations[^key-22fc0097a3e26fa46cadccec28784ba1]
+#### 23. Marked register for polling stations[^c-22fc0097a3e26fa46cadccec28784ba1]
 
 To indicate that an elector or a proxy is entitled to vote by post and is for that reason not entitled to vote in person, the letter “A” must be placed against the entry for that elector in any copy of the register, or part of it, provided for a polling station.
 
-#### 24. Notification by registration officer[^key-da852ca607eeff409eb61f10ca385220]
+#### 24. Notification by registration officer[^c-da852ca607eeff409eb61f10ca385220]
 
 Where a registration officer is required by this Schedule to notify any person, such notification must be in writing and may be sent by post—
 
 - (a) in the case of a person other than a service voter, to the address provided by that person for the purpose of such notification or of any record or list or, if there is no such address, to the last known place of abode of that person; or
 - (b) in the case of a service voter, to any address provided by the service voter for the purpose of such notification or of any record or list or to the address provided for the purpose by the appropriate government department (as defined by section 59(3B) of the 1983 Act) or, as the case may be, the British Council.
 
-#### 25. Service Voters[^key-af51ab90cc35f02b4f3c08a509c92c4d]
+#### 25. Service Voters[^c-af51ab90cc35f02b4f3c08a509c92c4d]
 
 For the purposes of section 59 of the 1983 Act (supplemental provisions as to members of forces and service voters)—
 
 - (a) subsections (3)(b) and (c)[^f00041] are to be construed as including a reference to this Order in connection with the right conferred by this Order on a person having a service qualification by virtue of section 14(1)(a) or (b) of that Act in relation to the making and cancellation of appointments of a proxy and in relation to voting in person, by post or by proxy; and
 - (b) subsection (3A) is to be similarly construed.
 
-#### 26. Forms[^key-62f2659dd24db2cc561c47adba21886d]
+#### 26. Forms[^c-62f2659dd24db2cc561c47adba21886d]
 
 A registration officer must supply free of charge as many forms for use in connection with applications made under Parts 1 and 2 of this Schedule as appear to that officer reasonable in the circumstances to any person who satisfies that officer of that person’s intention to use the forms in connection with the referendum.
 
 ## Annotations
 
-[^key-e740f64b7698fc5ac0588802e32925da]: Commencement: Sch. 1 para. 1 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-e740f64b7698fc5ac0588802e32925da]: Commencement: Sch. 1 para. 1 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00023]: Footnote: *See* paragraph 1 of Schedule 6 to the Government of Wales Act [2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32) as read with section 12 of that Act.
 
@@ -588,67 +588,67 @@ A registration officer must supply free of charge as many forms for use in conne
 
 [^f00025]: Footnote: Section 7A was inserted by section 5 of the Representation of the People Act 2000 and to which there are relevant amendments by section 12(2) of the Electoral Administration Act 2006 and by [S.I.2005/2078](https://www.legislation.gov.uk/uksi/2005/2078) Schedule 1 paragraph 1(4).
 
-[^key-3b7e86377bef7dce11268039e96f9baa]: Commencement: Sch. 1 para. 2 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-3b7e86377bef7dce11268039e96f9baa]: Commencement: Sch. 1 para. 2 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00026]: Footnote: *See* Part 1 of the Government of Wales Act 2006 for the National Assembly for Wales and elections to it.
 
-[^key-f13053a391647054ace77b7de3922715]: Commencement: Sch. 1 para. 3 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-f13053a391647054ace77b7de3922715]: Commencement: Sch. 1 para. 3 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-70ed9c4594c4a0ac1eae7e2710898e2b]: Commencement: Sch. 1 para. 4 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-70ed9c4594c4a0ac1eae7e2710898e2b]: Commencement: Sch. 1 para. 4 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-e845b4ab081dacc660fe5f733daa091e]: Commencement: Sch. 1 para. 5 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-e845b4ab081dacc660fe5f733daa091e]: Commencement: Sch. 1 para. 5 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-48982ec266c2661159b929a83950b71c]: Commencement: Sch. 1 para. 6 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-48982ec266c2661159b929a83950b71c]: Commencement: Sch. 1 para. 6 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-d6e86929b9df866fceb9c9cffe6365d3]: Commencement: Sch. 1 para. 7 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-d6e86929b9df866fceb9c9cffe6365d3]: Commencement: Sch. 1 para. 7 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-6637eb8e118fd56bca14e27f5fe667c5]: Commencement: Sch. 1 para. 8 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-6637eb8e118fd56bca14e27f5fe667c5]: Commencement: Sch. 1 para. 8 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-e3da7919eb72f9c964f93155c61368b4]: Commencement: Sch. 1 para. 9 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-e3da7919eb72f9c964f93155c61368b4]: Commencement: Sch. 1 para. 9 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00027]: Footnote: Section 16(d) of the Representation of the People Act 1983 was amended by paragraph 9(c) of Schedule 1 to the Representation of the People Act 2000.
 
 [^f00028]: Footnote: Section 7B of the Representation of the People Act 1983 was inserted by section 6 of the Representation of the People Act 2000 and to which there is an amendment not relevant to this Order.
 
-[^key-c3fbfedb903f3f43f5a61e96c732551f]: Commencement: Sch. 1 para. 10 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-c3fbfedb903f3f43f5a61e96c732551f]: Commencement: Sch. 1 para. 10 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00029]: Footnote: Paragraph 4 of Schedule 1 was amended by [SIs 2009/1182](https://www.legislation.gov.uk/uksi/2009/1182) and [1357](https://www.legislation.gov.uk/uksi/2009/1357) and [2010/1621](https://www.legislation.gov.uk/uksi/2010/1621).
 
 [^f00030]: Footnote: [1983 c.20](https://www.legislation.gov.uk/ukpga/1983/20). *See* section 145(1), for the meaning of “hospital” and the meaning of “the managers”. Both definitions have been amended.
 
-[^key-65257b6fbe337c726d7a3b49bdde59ba]: Commencement: Sch. 1 para. 11 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-65257b6fbe337c726d7a3b49bdde59ba]: Commencement: Sch. 1 para. 11 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00031]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80)
 
-[^key-1258aaa84cb3a54ef4537fb269bb71b5]: Commencement: Sch. 1 para. 12 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-1258aaa84cb3a54ef4537fb269bb71b5]: Commencement: Sch. 1 para. 12 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-3b46c5121fd03b4e751244445ded79cb]: Commencement: Sch. 1 para. 13 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-3b46c5121fd03b4e751244445ded79cb]: Commencement: Sch. 1 para. 13 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-1befaa9d02f8a456d6a04ff6abaded67]: Commencement: Sch. 1 para. 14 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-1befaa9d02f8a456d6a04ff6abaded67]: Commencement: Sch. 1 para. 14 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00032]: Footnote: Sections 6A-6D were Inserted into the Political Parties, Elections and Referendums Act 2000 by section 29 of the Electoral Administration Act 2006. Section 6A was amended by [S.I.2007/1388](https://www.legislation.gov.uk/uksi/2007/1388), Schedule 1 paragraph 92.
 
-[^key-f6ebd85d1a863ad4dbcbabd533e3b807]: Commencement: Sch. 1 para. 15 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-f6ebd85d1a863ad4dbcbabd533e3b807]: Commencement: Sch. 1 para. 15 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00033]: Footnote: Section 13 (together with sections 13A and 13B)) was substituted for previous section 13 of the Representation of the People Act 1983 by the Representation of the People Act 2000, Schedule 1 paragraph 6.There have been amendments to this substituted section 13 which are not relevant to this Order.
 
 [^f00034]: Footnote: Section 4 of the Representation of the People Act 1983 was substituted by section 1(2) of the Representation of the People Act 2000 and has been amended by the Electoral Administration Act 2006, Schedule 1 paragraph 3.
 
-[^key-d4ada86c2b7fa02201c78ec0d4dc8578]: Commencement: Sch. 1 para. 16 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-d4ada86c2b7fa02201c78ec0d4dc8578]: Commencement: Sch. 1 para. 16 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-3950179c3ac8f4e2e26dd667b562ea9e]: Commencement: Sch. 1 para. 17 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-3950179c3ac8f4e2e26dd667b562ea9e]: Commencement: Sch. 1 para. 17 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-336f034a32d9f6282c1cfdb07ebd5f7f]: Commencement: Sch. 1 para. 18 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-336f034a32d9f6282c1cfdb07ebd5f7f]: Commencement: Sch. 1 para. 18 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00035]: Footnote: A relevant amendment to section 13B was made by section 11 of the Electoral Administration Act 2006.
 
 [^f00036]: Footnote: *See* in particular regulations 32, 36 and 36A of the Representation of the People (England and Wales) Regulations 2001 ([S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341)) as amended by [S.I. 2002/1871](https://www.legislation.gov.uk/uksi/2002/1871) and [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910).
 
-[^key-394f30f6a0cf5b8f432e776feca58bb6]: Commencement: Sch. 1 para. 19 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-394f30f6a0cf5b8f432e776feca58bb6]: Commencement: Sch. 1 para. 19 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-4b9c6489aeac543fd7258279ab7dd627]: Commencement: Sch. 1 para. 20 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-4b9c6489aeac543fd7258279ab7dd627]: Commencement: Sch. 1 para. 20 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-b80e4a0f4d767c153e43d706270faf6d]: Commencement: Sch. 1 para. 21 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-b80e4a0f4d767c153e43d706270faf6d]: Commencement: Sch. 1 para. 21 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00037]: Footnote: Regulations 93 ,94 and 96 were inserted by [S.I..2002/1871](https://www.legislation.gov.uk/uksi/2002/1871).Relevant amendments have been made to regulation 96 by [S.I.2006/752](https://www.legislation.gov.uk/uksi/2006/752).
 
@@ -656,16 +656,16 @@ A registration officer must supply free of charge as many forms for use in conne
 
 [^f00039]: Footnote: Regulation 92 was inserted by [S.I.2002/1871](https://www.legislation.gov.uk/uksi/2002/1871).Paragraph (2) of that regulation has been amended by [S.I.2006/752](https://www.legislation.gov.uk/uksi/2006/752).
 
-[^key-6c1a25b288590b95531887664d90da09]: Commencement: Sch. 1 para. 22 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-6c1a25b288590b95531887664d90da09]: Commencement: Sch. 1 para. 22 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00040]: Footnote: There are amendments to section 56 that are not relevant for the purposes of this Order.
 
-[^key-22fc0097a3e26fa46cadccec28784ba1]: Commencement: Sch. 1 para. 23 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-22fc0097a3e26fa46cadccec28784ba1]: Commencement: Sch. 1 para. 23 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-da852ca607eeff409eb61f10ca385220]: Commencement: Sch. 1 para. 24 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-da852ca607eeff409eb61f10ca385220]: Commencement: Sch. 1 para. 24 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
-[^key-af51ab90cc35f02b4f3c08a509c92c4d]: Commencement: Sch. 1 para. 25 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-af51ab90cc35f02b4f3c08a509c92c4d]: Commencement: Sch. 1 para. 25 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
 
 [^f00041]: Footnote: Section 59(3) and (3A) to (3D) substituted for subsection (3) as originally enacted by section 13(2) of the Electoral Administration Act 2006.
 
-[^key-62f2659dd24db2cc561c47adba21886d]: Commencement: Sch. 1 para. 26 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)
+[^c-62f2659dd24db2cc561c47adba21886d]: Commencement: Sch. 1 para. 26 in force at 16.12.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2837/article/1/2)

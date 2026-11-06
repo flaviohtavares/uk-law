@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-d63a8ceaf6f680e845a18423c7796405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-d63a8ceaf6f680e845a18423c7796405] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2)[^key-40dba7b60348aac963c9a3b6ea846ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-40dba7b60348aac963c9a3b6ea846ef4] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The personal representatives of a person who is the purchaser under a land transaction—
 
@@ -35,6 +35,6 @@ summary: ''
 
 [^c5522261]: Commencement: Pt. 4 wholly in force at Royal Assent subject to Sch. 19, see s. 124, Sch. 19 para. 1(1)
 
-[^key-d63a8ceaf6f680e845a18423c7796405]: Textual amendment: S. 106(1) omitted (with effect in accordance with s. 222(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 222(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/222/2)
+[^c-d63a8ceaf6f680e845a18423c7796405]: Textual amendment: S. 106(1) omitted (with effect in accordance with s. 222(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 222(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/222/2)
 
-[^key-40dba7b60348aac963c9a3b6ea846ef4]: Textual amendment: S. 106(2) omitted (with effect in accordance with s. 222(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 222(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/222/2)
+[^c-40dba7b60348aac963c9a3b6ea846ef4]: Textual amendment: S. 106(2) omitted (with effect in accordance with s. 222(6) of the amending Act) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 222(2)](https://www.legislation.gov.uk/ukpga/2012/14/section/222/2)

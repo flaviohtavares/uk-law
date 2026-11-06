@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Commission Implementing Regulation (EU) No 1418/2013 concerning production and marketing plans pursuant to Regulation (EU) No 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products[^key-ba59ac315680805748c867ec8b57d24f]
+## 24. Commission Implementing Regulation (EU) No 1418/2013 concerning production and marketing plans pursuant to Regulation (EU) No 1379/2013 of the European Parliament and of the Council on the common organisation of the markets in fishery and aquaculture products[^c-ba59ac315680805748c867ec8b57d24f]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ba59ac315680805748c867ec8b57d24f]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-ba59ac315680805748c867ec8b57d24f]: Commencement: Reg. 24 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

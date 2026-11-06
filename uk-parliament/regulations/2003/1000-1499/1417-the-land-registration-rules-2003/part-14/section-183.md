@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 183. Registration of certain corporations[^key-30a0a1b3248c29f129cd92b1b28ee45a]
+## 183. Registration of certain corporations[^c-30a0a1b3248c29f129cd92b1b28ee45a]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-30a0a1b3248c29f129cd92b1b28ee45a]: Textual amendment: [Rule 183](https://www.legislation.gov.uk/uksi/2003/1417/rule/183) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/56) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))
+[^c-30a0a1b3248c29f129cd92b1b28ee45a]: Textual amendment: [Rule 183](https://www.legislation.gov.uk/uksi/2003/1417/rule/183) substituted (10.11.2008) by [The Land Registration (Amendment) Rules 2008 (S.I. 2008/1919)](https://www.legislation.gov.uk/uksi/2008/1919), [rule 2(1)](https://www.legislation.gov.uk/uksi/2008/1919/rule/2/1), [Sch. 1 para. 56](https://www.legislation.gov.uk/uksi/2008/1919/schedule/1/paragraph/56) (with [rule 5](https://www.legislation.gov.uk/uksi/2008/1919/rule/5))

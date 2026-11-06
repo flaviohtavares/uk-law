@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 233. Delivery of district heat networks within zones[^key-0f2c78bb7680caadb1fc42b5cf8bdb95]
+## 233. Delivery of district heat networks within zones[^c-0f2c78bb7680caadb1fc42b5cf8bdb95]
 
 *Extent: E+W*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0f2c78bb7680caadb1fc42b5cf8bdb95]: Commencement: S. 233 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)
+[^c-0f2c78bb7680caadb1fc42b5cf8bdb95]: Commencement: S. 233 in force at Royal Assent, see [s. 334(2)(l)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/2/l)

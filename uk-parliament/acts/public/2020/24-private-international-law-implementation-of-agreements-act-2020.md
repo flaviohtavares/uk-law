@@ -1806,7 +1806,7 @@ Section 1
 
 #### European Union (Withdrawal) Act 2018 (c. 16)
 
-**2.**[^key-81972fd2837c00e2460bad11eae03c30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-81972fd2837c00e2460bad11eae03c30] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Civil Jurisdiction and Judgments (Hague Convention on Choice of Court Agreements 2005) (EU Exit) Regulations 2018 (S.I. 2018/1124)
 
@@ -1943,4 +1943,4 @@ unless a draft of the regulations has been laid before the Northern Ireland Asse
 
 ## Annotations
 
-[^key-81972fd2837c00e2460bad11eae03c30]: Textual amendment: Sch. 5 para. 2 omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 95](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/95)
+[^c-81972fd2837c00e2460bad11eae03c30]: Textual amendment: Sch. 5 para. 2 omitted (1.1.2024) by virtue of [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 95](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/95)

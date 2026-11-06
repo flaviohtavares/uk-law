@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 203. Determination of compensation claims by Upper Tribunal[^key-14889208e8f2647011dfa79b3778611a][^key-aae1f42bc4d786091d67156ef6c1b7d4]
+## 203. Determination of compensation claims by Upper Tribunal[^c-14889208e8f2647011dfa79b3778611a][^c-aae1f42bc4d786091d67156ef6c1b7d4]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-14889208e8f2647011dfa79b3778611a]: Commencement: S. 203 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
+[^c-14889208e8f2647011dfa79b3778611a]: Commencement: S. 203 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
 
-[^key-aae1f42bc4d786091d67156ef6c1b7d4]: Commencement: [S. 203](https://www.legislation.gov.uk/asc/2023/3/section/203) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-aae1f42bc4d786091d67156ef6c1b7d4]: Commencement: [S. 203](https://www.legislation.gov.uk/asc/2023/3/section/203) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

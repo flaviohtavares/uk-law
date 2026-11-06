@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Training in operation of airborne collision avoidance system[^key-007cf0dfa4b457ebb4372919da19cc6e]
+## 61. Training in operation of airborne collision avoidance system[^c-007cf0dfa4b457ebb4372919da19cc6e]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-007cf0dfa4b457ebb4372919da19cc6e]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2015/870/article/61) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-007cf0dfa4b457ebb4372919da19cc6e]: Commencement: [Art. 61](https://www.legislation.gov.uk/uksi/2015/870/article/61) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)

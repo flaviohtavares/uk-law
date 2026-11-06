@@ -20,11 +20,11 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-A person may not claim—[^key-5b8b035c2c2a4caee30917ceb8909cfd]
+A person may not claim—[^c-5b8b035c2c2a4caee30917ceb8909cfd]
 
 - (a) an annual investment allowance and a first-year allowance in respect of the same expenditure, or
 - (b) first-year allowances under two or more of the provisions listed in section 39 in respect of the same expenditure.
 
 ## Annotations
 
-[^key-5b8b035c2c2a4caee30917ceb8909cfd]: Textual amendment: Words in s. 52A substituted (with effect in accordance with Sch. 11 para. 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/11/paragraph/6)
+[^c-5b8b035c2c2a4caee30917ceb8909cfd]: Textual amendment: Words in s. 52A substituted (with effect in accordance with Sch. 11 para. 8 of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2012/14/schedule/11/paragraph/6)

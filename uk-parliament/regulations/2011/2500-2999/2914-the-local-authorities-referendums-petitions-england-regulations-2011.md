@@ -157,7 +157,7 @@ As soon as reasonably practicable after the publication of a verification number
   - (i) the petition that contains the greatest number of signatures;
   - (ii) the petition that contains the next greatest number of signatures; and so on.
 
-### 9. Validity of petitions[^key-59bf134c830164cee102024c95fbac5e]
+### 9. Validity of petitions[^c-59bf134c830164cee102024c95fbac5e]
 
 (1) Subject to paragraph (2) a petition shall be a valid petition if—
 
@@ -261,18 +261,18 @@ The authority shall secure that for the period of six years beginning with the p
 
 (3) In determining for the purposes of paragraph (2) whether any information is presented fairly, regard shall be had to any guidance for the time being issued by the Secretary of State under section 9Q.
 
-### 16. Timing of referendum in consequence of valid petition[^key-7f8e3e39a758c251d0cc6a49ce6576ac]
+### 16. Timing of referendum in consequence of valid petition[^c-7f8e3e39a758c251d0cc6a49ce6576ac]
 
-(1) Subject to paragraphs (2), (2A) and (3)[^key-15a4a368b86ae480abfd6e8c636c27e6], a referendum in consequence of a valid petition shall be held no later than the end of the next ordinary day of election after the petition date.
+(1) Subject to paragraphs (2), (2A) and (3)[^c-15a4a368b86ae480abfd6e8c636c27e6], a referendum in consequence of a valid petition shall be held no later than the end of the next ordinary day of election after the petition date.
 
-(2) Subject to paragraph (2A), paragraph[^key-ac0f28e0fdc1f9ef97b901f0dce3cedf] (1) shall not apply where—
+(2) Subject to paragraph (2A), paragraph[^c-ac0f28e0fdc1f9ef97b901f0dce3cedf] (1) shall not apply where—
 
 - (a) the petition date falls 4 months or less before the next ordinary day of election; or
 - (b) the next ordinary day of election falls within the period of six months beginning with the date that is six months before the earliest date on which a second (or subsequent) referendum may lawfully be held in the area of the authority to whom the petition is addressed,
 
 and, in such a case, a referendum in consequence of a valid petition shall be held no later than the end of the period of six months beginning with the petition date.
 
-(2A)[^key-df026812223e3b5a971b0bfb77b7ab5e] Where the petition date for a valid petition falls within the period beginning with 16th July 2025 and ending with the day before the ordinary day of election in 2026—
+(2A)[^c-df026812223e3b5a971b0bfb77b7ab5e] Where the petition date for a valid petition falls within the period beginning with 16th July 2025 and ending with the day before the ordinary day of election in 2026—
 
 - (a) paragraphs (1) and (2) shall not apply, and
 - (b) a referendum in consequence of that valid petition shall be held no later than the end of the period of six months beginning with the ordinary day of election in 2026.
@@ -385,15 +385,15 @@ A full impact assessment has not been produced for these Regulations as no impac
 
 [^c21135601]: Marginal citation: [Section 9MF(1)](https://www.legislation.gov.uk/uksi/2011/2914/section/9MF/1) prevents a local authority from holding a second or subsequent referendum within the period of ten years beginning with the date of the previous referendum.
 
-[^key-59bf134c830164cee102024c95fbac5e]: Modification: Reg. 9 modified (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2020/395/regulation/12/3)[(5)](https://www.legislation.gov.uk/uksi/2020/395/regulation/12/5) (as amended (9.2.2021) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) (Amendment) (England) Regulations 2021 (S.I. 2021/52)](https://www.legislation.gov.uk/uksi/2021/52), [regs. 1](https://www.legislation.gov.uk/uksi/2021/52/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/52/regulation/3))
+[^c-59bf134c830164cee102024c95fbac5e]: Modification: Reg. 9 modified (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [12(3)](https://www.legislation.gov.uk/uksi/2020/395/regulation/12/3)[(5)](https://www.legislation.gov.uk/uksi/2020/395/regulation/12/5) (as amended (9.2.2021) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) (Amendment) (England) Regulations 2021 (S.I. 2021/52)](https://www.legislation.gov.uk/uksi/2021/52), [regs. 1](https://www.legislation.gov.uk/uksi/2021/52/regulation/1), [3](https://www.legislation.gov.uk/uksi/2021/52/regulation/3))
 
-[^key-7f8e3e39a758c251d0cc6a49ce6576ac]: Modification: Reg. 16 modified (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2020/395/regulation/12/2)[(4)](https://www.legislation.gov.uk/uksi/2020/395/regulation/12/4)[(5)](https://www.legislation.gov.uk/uksi/2020/395/regulation/12/5)
+[^c-7f8e3e39a758c251d0cc6a49ce6576ac]: Modification: Reg. 16 modified (7.4.2020) by [The Local Government and Police and Crime Commissioner (Coronavirus) (Postponement of Elections and Referendums) (England and Wales) Regulations 2020 (S.I. 2020/395)](https://www.legislation.gov.uk/uksi/2020/395), [regs. 1](https://www.legislation.gov.uk/uksi/2020/395/regulation/1), [12(2)](https://www.legislation.gov.uk/uksi/2020/395/regulation/12/2)[(4)](https://www.legislation.gov.uk/uksi/2020/395/regulation/12/4)[(5)](https://www.legislation.gov.uk/uksi/2020/395/regulation/12/5)
 
-[^key-15a4a368b86ae480abfd6e8c636c27e6]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2011/2914/regulation/16/1) substituted (16.7.2025) by [The Local Authorities (Referendums and Election of Mayors) (England) (Amendment) Regulations 2025 (S.I. 2025/746)](https://www.legislation.gov.uk/uksi/2025/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/746/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2025/746/regulation/2/a)
+[^c-15a4a368b86ae480abfd6e8c636c27e6]: Textual amendment: Words in [reg. 16(1)](https://www.legislation.gov.uk/uksi/2011/2914/regulation/16/1) substituted (16.7.2025) by [The Local Authorities (Referendums and Election of Mayors) (England) (Amendment) Regulations 2025 (S.I. 2025/746)](https://www.legislation.gov.uk/uksi/2025/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/746/regulation/1/2), [2(a)](https://www.legislation.gov.uk/uksi/2025/746/regulation/2/a)
 
-[^key-ac0f28e0fdc1f9ef97b901f0dce3cedf]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2011/2914/regulation/16/2) substituted (16.7.2025) by [The Local Authorities (Referendums and Election of Mayors) (England) (Amendment) Regulations 2025 (S.I. 2025/746)](https://www.legislation.gov.uk/uksi/2025/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/746/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2025/746/regulation/2/b)
+[^c-ac0f28e0fdc1f9ef97b901f0dce3cedf]: Textual amendment: Words in [reg. 16(2)](https://www.legislation.gov.uk/uksi/2011/2914/regulation/16/2) substituted (16.7.2025) by [The Local Authorities (Referendums and Election of Mayors) (England) (Amendment) Regulations 2025 (S.I. 2025/746)](https://www.legislation.gov.uk/uksi/2025/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/746/regulation/1/2), [2(b)](https://www.legislation.gov.uk/uksi/2025/746/regulation/2/b)
 
-[^key-df026812223e3b5a971b0bfb77b7ab5e]: Textual amendment: [Reg. 16(2A)](https://www.legislation.gov.uk/uksi/2011/2914/regulation/16/2A) inserted (16.7.2025) by [The Local Authorities (Referendums and Election of Mayors) (England) (Amendment) Regulations 2025 (S.I. 2025/746)](https://www.legislation.gov.uk/uksi/2025/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/746/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2025/746/regulation/2/c)
+[^c-df026812223e3b5a971b0bfb77b7ab5e]: Textual amendment: [Reg. 16(2A)](https://www.legislation.gov.uk/uksi/2011/2914/regulation/16/2A) inserted (16.7.2025) by [The Local Authorities (Referendums and Election of Mayors) (England) (Amendment) Regulations 2025 (S.I. 2025/746)](https://www.legislation.gov.uk/uksi/2025/746), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/746/regulation/1/2), [2(c)](https://www.legislation.gov.uk/uksi/2025/746/regulation/2/c)
 
 [^c21135611]: Marginal citation: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51N. Input fuels referable to the production of electricity in combined heat and power stations[^key-c2b456b20870cc6fcc7702c39a2d31a6]
+## 51N. Input fuels referable to the production of electricity in combined heat and power stations[^c-c2b456b20870cc6fcc7702c39a2d31a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 3 has effect for the purpose of determining the extent to which a quant
 
 ## Annotations
 
-[^key-c2b456b20870cc6fcc7702c39a2d31a6]: Textual amendment: [Reg. 51N](https://www.legislation.gov.uk/uksi/2001/838/regulation/51N) inserted (1.4.2013) by [The Climate Change Levy (General) (Amendment) Regulations 2013 (S.I. 2013/713)](https://www.legislation.gov.uk/uksi/2013/713), [regs. 1](https://www.legislation.gov.uk/uksi/2013/713/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/713/regulation/8)
+[^c-c2b456b20870cc6fcc7702c39a2d31a6]: Textual amendment: [Reg. 51N](https://www.legislation.gov.uk/uksi/2001/838/regulation/51N) inserted (1.4.2013) by [The Climate Change Levy (General) (Amendment) Regulations 2013 (S.I. 2013/713)](https://www.legislation.gov.uk/uksi/2013/713), [regs. 1](https://www.legislation.gov.uk/uksi/2013/713/regulation/1), [8](https://www.legislation.gov.uk/uksi/2013/713/regulation/8)

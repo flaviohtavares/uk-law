@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.2. Costs orders in favour of or against non-parties[^key-b941119c8cdc9da1893b8454ae2b36e6][^key-e29b11087b51391ef28fb70029910664]
+## 46.2. Costs orders in favour of or against non-parties[^c-b941119c8cdc9da1893b8454ae2b36e6][^c-e29b11087b51391ef28fb70029910664]
 
 *Extent: E+W*
 
@@ -32,12 +32,12 @@ summary: ''
   - (ii) make a wasted costs order (as defined in rule 46.8); and
 - (b) in proceedings to which rule 46.1 applies (pre-commencement disclosure and orders for disclosure against a person who is not a party).
 
-(3)[^key-50788fb1f11d50c4e3e6c7e03ca668ab] Neither rule 19.4 nor rule 20.7 applies to the joinder of a person under paragraph (1).
+(3)[^c-50788fb1f11d50c4e3e6c7e03ca668ab] Neither rule 19.4 nor rule 20.7 applies to the joinder of a person under paragraph (1).
 
 ## Annotations
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
 
-[^key-e29b11087b51391ef28fb70029910664]: Modification: Rule 46.2(2)(a)(i) modified (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [regs. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [14(4)(b)](https://www.legislation.gov.uk/uksi/2013/534/regulation/14/4/b)
+[^c-e29b11087b51391ef28fb70029910664]: Modification: Rule 46.2(2)(a)(i) modified (1.4.2013) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Consequential, Transitional and Saving Provisions) Regulations 2013 (S.I. 2013/534)](https://www.legislation.gov.uk/uksi/2013/534), [regs. 1](https://www.legislation.gov.uk/uksi/2013/534/regulation/1), [14(4)(b)](https://www.legislation.gov.uk/uksi/2013/534/regulation/14/4/b)
 
-[^key-50788fb1f11d50c4e3e6c7e03ca668ab]: Textual amendment: Rule 46.2(3) inserted (1.10.2025) by [The Civil Procedure (Amendment No. 2) Rules 2025 (S.I. 2025/893)](https://www.legislation.gov.uk/uksi/2025/893), [rules 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/893/rule/1/2/b), [8](https://www.legislation.gov.uk/uksi/2025/893/rule/8)
+[^c-50788fb1f11d50c4e3e6c7e03ca668ab]: Textual amendment: Rule 46.2(3) inserted (1.10.2025) by [The Civil Procedure (Amendment No. 2) Rules 2025 (S.I. 2025/893)](https://www.legislation.gov.uk/uksi/2025/893), [rules 1(2)(b)](https://www.legislation.gov.uk/uksi/2025/893/rule/1/2/b), [8](https://www.legislation.gov.uk/uksi/2025/893/rule/8)

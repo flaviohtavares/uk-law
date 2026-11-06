@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: E+W*
 
-**296.**[^key-463c0e4e7d7088a6ee65c1b25569d35b] In section 37(4) (duty to meet care and support needs of a child) after “notified about a child under section 120(2)(a)” insert “or under section 85(1) of the Children Act 1989 (children accommodated by health authorities and local education authorities)”.
+**296.**[^c-463c0e4e7d7088a6ee65c1b25569d35b] In section 37(4) (duty to meet care and support needs of a child) after “notified about a child under section 120(2)(a)” insert “or under section 85(1) of the Children Act 1989 (children accommodated by health authorities and local education authorities)”.
 
 ## Annotations
 
-[^key-463c0e4e7d7088a6ee65c1b25569d35b]: Commencement: Reg. 296 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)
+[^c-463c0e4e7d7088a6ee65c1b25569d35b]: Commencement: Reg. 296 in force at 6.4.2016, see [reg. 2(1)](https://www.legislation.gov.uk/wsi/2016/413/regulation/2/1)

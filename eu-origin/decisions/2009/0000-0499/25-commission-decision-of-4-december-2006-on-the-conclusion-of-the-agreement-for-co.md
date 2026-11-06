@@ -35,16 +35,16 @@ on the conclusion of the Agreement for co-operation in the peaceful uses of nucl
 
 (2009/25/Euratom) (revoked) (revoked)
 
-[^key-1344b4636f84ecd9cca8520d31c7cf37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1344b4636f84ecd9cca8520d31c7cf37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-1344b4636f84ecd9cca8520d31c7cf37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-1344b4636f84ecd9cca8520d31c7cf37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-1344b4636f84ecd9cca8520d31c7cf37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-1344b4636f84ecd9cca8520d31c7cf37] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1344b4636f84ecd9cca8520d31c7cf37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1344b4636f84ecd9cca8520d31c7cf37]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1344b4636f84ecd9cca8520d31c7cf37]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)
+[^c-1344b4636f84ecd9cca8520d31c7cf37]: Textual amendment: Decision revoked (16.5.2025) by [The Energy (Euratom Decisions and Miscellaneous Provisions) (Amendment and Revocation) Regulations 2025 (S.I. 2025/514)](https://www.legislation.gov.uk/uksi/2025/514), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/514/regulation/1/2), [Sch.](https://www.legislation.gov.uk/uksi/2025/514/schedule)

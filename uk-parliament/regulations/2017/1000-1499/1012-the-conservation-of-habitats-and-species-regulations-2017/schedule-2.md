@@ -48,8 +48,8 @@ Regulation 42(1)
 </tbody>
 </table>
 
-[^key-b6e6c9224164cbb4fbdfaee1b38b3603]
+[^c-b6e6c9224164cbb4fbdfaee1b38b3603]
 
 ## Annotations
 
-[^key-b6e6c9224164cbb4fbdfaee1b38b3603]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1012/schedule/2): entry inserted (E.) (1.10.2022) by [The Beavers (England) Order 2022 (S.I. 2022/858)](https://www.legislation.gov.uk/uksi/2022/858), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/858/article/1/1), [2](https://www.legislation.gov.uk/uksi/2022/858/article/2); and (W.) (4.3.2026) by [The Beavers (Wales) Order 2026 (W.S.I. 2026/18)](https://www.legislation.gov.uk/wsi/2026/18), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2026/18/article/1/1), [3](https://www.legislation.gov.uk/wsi/2026/18/article/3)
+[^c-b6e6c9224164cbb4fbdfaee1b38b3603]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2017/1012/schedule/2): entry inserted (E.) (1.10.2022) by [The Beavers (England) Order 2022 (S.I. 2022/858)](https://www.legislation.gov.uk/uksi/2022/858), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2022/858/article/1/1), [2](https://www.legislation.gov.uk/uksi/2022/858/article/2); and (W.) (4.3.2026) by [The Beavers (Wales) Order 2026 (W.S.I. 2026/18)](https://www.legislation.gov.uk/wsi/2026/18), [arts. 1(1)](https://www.legislation.gov.uk/wsi/2026/18/article/1/1), [3](https://www.legislation.gov.uk/wsi/2026/18/article/3)

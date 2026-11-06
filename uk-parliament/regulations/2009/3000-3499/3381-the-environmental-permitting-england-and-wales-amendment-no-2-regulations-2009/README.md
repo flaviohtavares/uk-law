@@ -32,7 +32,7 @@ summary: ''
 
 Environmental Protection, England And Wales
 
-The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2009 (revoked)[^key-fbbc3e13c65f77397a63158c5e38f696]
+The Environmental Permitting (England and Wales) (Amendment) (No. 2) Regulations 2009 (revoked)[^c-fbbc3e13c65f77397a63158c5e38f696]
 
 Made
 
@@ -42,7 +42,7 @@ Coming into force
 
 6th April 2010
 
-[^key-fbbc3e13c65f77397a63158c5e38f696]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbbc3e13c65f77397a63158c5e38f696]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
@@ -70,12 +70,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-fbbc3e13c65f77397a63158c5e38f696]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbbc3e13c65f77397a63158c5e38f696]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-fbbc3e13c65f77397a63158c5e38f696]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-fbbc3e13c65f77397a63158c5e38f696]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-fbbc3e13c65f77397a63158c5e38f696]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3381) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)
+[^c-fbbc3e13c65f77397a63158c5e38f696]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2009/3381) revoked (9.5.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Environment, Food and Rural Affairs) (Revocation) Regulations 2024 (S.I. 2024/513)](https://www.legislation.gov.uk/uksi/2024/513), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/513/regulation/1/2), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2024/513/schedule/1/part/1)

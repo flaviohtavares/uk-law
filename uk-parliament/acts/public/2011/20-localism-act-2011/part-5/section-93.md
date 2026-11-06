@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93. List of land nominated by unsuccessful community nominations[^key-0bcc4cd40985454d381cf536a1bec4c1]
+## 93. List of land nominated by unsuccessful community nominations[^c-0bcc4cd40985454d381cf536a1bec4c1]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0bcc4cd40985454d381cf536a1bec4c1]: Commencement: S. 93 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)
+[^c-0bcc4cd40985454d381cf536a1bec4c1]: Commencement: S. 93 in force at 21.9.2012 for E. by [S.I. 2012/2420](https://www.legislation.gov.uk/uksi/2012/2420), [art. 2](https://www.legislation.gov.uk/uksi/2012/2420/article/2)

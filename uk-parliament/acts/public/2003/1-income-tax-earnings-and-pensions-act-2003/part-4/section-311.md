@@ -32,8 +32,8 @@ summary: ''
 (3) The course conditions are that—
 
 - (a) the course provides training designed to impart or improve skills or knowledge relevant to, and intended to be used in the course of, gainful employment (including self-employment) of any description,
-- (b) it is entirely devoted to the teaching or practical application (or both) of the skills or knowledge, and[^key-daf23483854e59255523ac1b323941b2]
-- (c) it lasts no more than two years[^key-1489bd761c5bdd2cba9fe923c369e7e8]. ...
+- (b) it is entirely devoted to the teaching or practical application (or both) of the skills or knowledge, and[^c-daf23483854e59255523ac1b323941b2]
+- (c) it lasts no more than two years[^c-1489bd761c5bdd2cba9fe923c369e7e8]. ...
 - (d) . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The employment conditions are that—
@@ -62,6 +62,6 @@ summary: ''
 
 ## Annotations
 
-[^key-daf23483854e59255523ac1b323941b2]: Textual amendment: Word in s. 311(3)(b) inserted (with effect in accordance with s. 18(5) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2005/7/section/18/3/a)
+[^c-daf23483854e59255523ac1b323941b2]: Textual amendment: Word in s. 311(3)(b) inserted (with effect in accordance with s. 18(5) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 18(3)(a)](https://www.legislation.gov.uk/ukpga/2005/7/section/18/3/a)
 
-[^key-1489bd761c5bdd2cba9fe923c369e7e8]: Textual amendment: Words in s. 311(3)(c) substituted (with effect in accordance with s. 18(5) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2005/7/section/18/3/b)
+[^c-1489bd761c5bdd2cba9fe923c369e7e8]: Textual amendment: Words in s. 311(3)(c) substituted (with effect in accordance with s. 18(5) of the amending Act) by [Finance Act 2005 (c. 7)](https://www.legislation.gov.uk/ukpga/2005/7), [s. 18(3)(b)](https://www.legislation.gov.uk/ukpga/2005/7/section/18/3/b)

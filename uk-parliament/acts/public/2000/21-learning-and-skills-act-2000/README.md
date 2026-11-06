@@ -33,7 +33,7 @@ An Act to establish the Learning and Skills Council for England and the National
 
 \[28th July 2000\]
 
-[^c13163811]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-7f34dfcc2602908aa971356fc3eee3e3]
+[^c13163811]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-7f34dfcc2602908aa971356fc3eee3e3]
 
 ## Contents
 
@@ -82,7 +82,7 @@ An Act to establish the Learning and Skills Council for England and the National
 - [Section 17 — Use of information by Council.](part-i/section-17.md)
 - [Section 18 — Supplementary functions.](part-i/section-18.md)
 
-#### Regional councils[^key-a9f48085b188004767f71661895e187b]
+#### Regional councils[^c-a9f48085b188004767f71661895e187b]
 
 *Extent: E+W*
 
@@ -114,7 +114,7 @@ An Act to establish the Learning and Skills Council for England and the National
 - [Section 28 — Annual report.](part-i/section-28.md)
 - [Section 29 — Council’s financial year.](part-i/section-29.md)
 
-### Part II — Further Education and Sixth Form Education: Wales[^key-d205e75f2011f90fb324509cb63de873][^key-9e6535b211156286b11dd71093bd5544]
+### Part II — Further Education and Sixth Form Education: Wales[^c-d205e75f2011f90fb324509cb63de873][^c-9e6535b211156286b11dd71093bd5544]
 
 *Extent: E+W*
 
@@ -132,7 +132,7 @@ An Act to establish the Learning and Skills Council for England and the National
 - [Section 32 — Education and training for persons over 19.](part-ii/section-32.md)
 - [Section 33 — Encouragement of education and training.](part-ii/section-33.md)
 
-#### The local curricula[^key-45be640203ee3ba972db58a91898d807]
+#### The local curricula[^c-45be640203ee3ba972db58a91898d807]
 
 *Extent: E+W*
 
@@ -303,7 +303,7 @@ An Act to establish the Learning and Skills Council for England and the National
 - [Section 94A — Stamp duty land tax](part-v/section-94a.md)
 - [Section 95 — Contracts of employment.](part-v/section-95.md)
 
-#### External qualifications : England[^key-22111990d5162224dd5ae3efb383f2ea]
+#### External qualifications : England[^c-22111990d5162224dd5ae3efb383f2ea]
 
 *Extent: E+W*
 
@@ -441,16 +441,16 @@ SCHEDULES
 
     Act applied (1.1.2002) by [S.I. 2001/3810](https://www.legislation.gov.uk/uksi/2001/3810), [reg. 2](https://www.legislation.gov.uk/uksi/2001/3810/regulation/2), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2001/3810/schedule/2/paragraph/2)
 
-[^key-7f34dfcc2602908aa971356fc3eee3e3]: Modification: Act applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
+[^c-7f34dfcc2602908aa971356fc3eee3e3]: Modification: Act applied (1.4.2005) by [Central Sussex College (Government) Regulations 2005 (S.I. 2005/397)](https://www.legislation.gov.uk/uksi/2005/397), [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2005/397/schedule/2/paragraph/2)
 
-[^key-a9f48085b188004767f71661895e187b]: Textual amendment: Ss. 18A-18C and cross-heading inserted (31.1.2008 for the insertion of s. 18A(2)-(4), 1.9.2008 in so far as not aready in force) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 2](https://www.legislation.gov.uk/ukpga/2007/25/section/2), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/3/a); S.I. 2008/313, art. 3
+[^c-a9f48085b188004767f71661895e187b]: Textual amendment: Ss. 18A-18C and cross-heading inserted (31.1.2008 for the insertion of s. 18A(2)-(4), 1.9.2008 in so far as not aready in force) by [Further Education and Training Act 2007 (c. 25)](https://www.legislation.gov.uk/ukpga/2007/25), [ss. 2](https://www.legislation.gov.uk/ukpga/2007/25/section/2), [32(5)](https://www.legislation.gov.uk/ukpga/2007/25/section/32/5); [S.I. 2007/3505](https://www.legislation.gov.uk/uksi/2007/3505), [art. 3(a)](https://www.legislation.gov.uk/uksi/2007/3505/article/3/a); S.I. 2008/313, art. 3
 
-[^key-d205e75f2011f90fb324509cb63de873]: Modification: Pt. 2 certain functions made exercisable jointly with the Welsh Ministers (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [ss. 113(3)(f)](https://www.legislation.gov.uk/ukpga/2017/29/section/113/3/f), [124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/m)
+[^c-d205e75f2011f90fb324509cb63de873]: Modification: Pt. 2 certain functions made exercisable jointly with the Welsh Ministers (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [ss. 113(3)(f)](https://www.legislation.gov.uk/ukpga/2017/29/section/113/3/f), [124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/m)
 
-[^key-9e6535b211156286b11dd71093bd5544]: Textual amendment: Pt. 2 heading substituted (1.4.2006) by [National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/49) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))
+[^c-9e6535b211156286b11dd71093bd5544]: Textual amendment: Pt. 2 heading substituted (1.4.2006) by [National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 49](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/49) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))
 
 [^M_F_d0299093-36a8-465c-a466-026c5eb2de08]: Textual amendment: S. 30 crossheading omitted (1.4.2006) by virtue of [National Council for Education and Training for Wales (Transfer of Functions to the National Assembly for Wales and Abolition) Order 2005 (S.I. 2005/3238)](https://www.legislation.gov.uk/uksi/2005/3238), [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3238/article/1/1), [Sch. 1 para. 50](https://www.legislation.gov.uk/uksi/2005/3238/schedule/1/paragraph/50) (with [art. 7](https://www.legislation.gov.uk/uksi/2005/3238/article/7))
 
-[^key-45be640203ee3ba972db58a91898d807]: Textual amendment: S. 33A and cross-heading inserted (14.2.2011) by [Learning and Skills (Wales) Measure 2009 (nawm 1)](https://www.legislation.gov.uk/mwa/2009/1), [ss. 22](https://www.legislation.gov.uk/mwa/2009/1/section/22), [49(2)](https://www.legislation.gov.uk/mwa/2009/1/section/49/2) (as amended by S.I. 2010/1148, art. 3); [S.I. 2011/97](https://www.legislation.gov.uk/uksi/2011/97), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2011/97/article/2/2/b)
+[^c-45be640203ee3ba972db58a91898d807]: Textual amendment: S. 33A and cross-heading inserted (14.2.2011) by [Learning and Skills (Wales) Measure 2009 (nawm 1)](https://www.legislation.gov.uk/mwa/2009/1), [ss. 22](https://www.legislation.gov.uk/mwa/2009/1/section/22), [49(2)](https://www.legislation.gov.uk/mwa/2009/1/section/49/2) (as amended by S.I. 2010/1148, art. 3); [S.I. 2011/97](https://www.legislation.gov.uk/uksi/2011/97), [art. 2(2)(b)](https://www.legislation.gov.uk/uksi/2011/97/article/2/2/b)
 
-[^key-22111990d5162224dd5ae3efb383f2ea]: Textual amendment: Word in [s. 96 cross-heading](https://www.legislation.gov.uk/ukpga/2000/21/part/V/crossheading/external-qualifications) inserted (21.9.2015) by [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/3/3); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-22111990d5162224dd5ae3efb383f2ea]: Textual amendment: Word in [s. 96 cross-heading](https://www.legislation.gov.uk/ukpga/2000/21/part/V/crossheading/external-qualifications) inserted (21.9.2015) by [Qualifications Wales Act 2015 (anaw 5)](https://www.legislation.gov.uk/anaw/2015/5), [s. 60(2)](https://www.legislation.gov.uk/anaw/2015/5/section/60/2), [Sch. 4 para. 3(3)](https://www.legislation.gov.uk/anaw/2015/5/schedule/4/paragraph/3/3); [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

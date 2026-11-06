@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75. Effect of additional statutory paternity pay on an employment and support allowance[^key-ed82ffc86ae436d50ff78c2bbbc351ac]
+## 75. Effect of additional statutory paternity pay on an employment and support allowance[^c-ed82ffc86ae436d50ff78c2bbbc351ac]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed82ffc86ae436d50ff78c2bbbc351ac]: Textual amendment: [Reg. 75](https://www.legislation.gov.uk/uksi/2013/379/regulation/75) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [30(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/30/2) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))
+[^c-ed82ffc86ae436d50ff78c2bbbc351ac]: Textual amendment: [Reg. 75](https://www.legislation.gov.uk/uksi/2013/379/regulation/75) omitted (5.4.2015) by virtue of [The Shared Parental Leave and Statutory Shared Parental Pay (Consequential Amendments to Subordinate Legislation) Order 2014 (S.I. 2014/3255)](https://www.legislation.gov.uk/uksi/2014/3255), [arts. 1(3)](https://www.legislation.gov.uk/uksi/2014/3255/article/1/3), [30(2)](https://www.legislation.gov.uk/uksi/2014/3255/article/30/2) (with [art. 35(1)](https://www.legislation.gov.uk/uksi/2014/3255/article/35/1))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Fixed penalties in Wales: use of proceeds[^key-62afb3f003392f6f8a31a88c4a226dbf]
+## 41. Fixed penalties in Wales: use of proceeds[^c-62afb3f003392f6f8a31a88c4a226dbf]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-62afb3f003392f6f8a31a88c4a226dbf]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2026/18/section/41) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-62afb3f003392f6f8a31a88c4a226dbf]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2026/18/section/41) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 41. Transfer arrangements[^key-aca1657aad2f5aa775488572b3fde13d]
+## 41. Transfer arrangements[^c-aca1657aad2f5aa775488572b3fde13d]
 
 *Extent: S*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aca1657aad2f5aa775488572b3fde13d]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2010/16/section/41) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-aca1657aad2f5aa775488572b3fde13d]: Commencement: [S. 41](https://www.legislation.gov.uk/asp/2010/16/section/41) in force at 2.7.2012 by [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Enforcement of requirements imposed under Part 2[^key-f5a5c3a956a55e248d95acb181af7359]
+## 52. Enforcement of requirements imposed under Part 2[^c-f5a5c3a956a55e248d95acb181af7359]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,14 +24,14 @@ summary: ''
 
 (2) In section 25 of the Electricity Act 1989 (c. 29) (orders for securing compliance), in subsection (8), in the definition of “relevant requirement”, after “that Act)” (as inserted by paragraph 2 of Schedule 2) insert “ , or section 43, 46 or 47 of that Act (complaints). ”
 
-(3) A requirement imposed under section 47 on a water undertaker, sewerage undertaker , water supply licensee or sewerage licensee[^key-099efbb8bcdc7047a5e41ea79cd23266] is enforceable by the Water Services Regulation Authority under section 18 of the Water Industry Act 1991 (c. 56) (orders for securing compliance).
+(3) A requirement imposed under section 47 on a water undertaker, sewerage undertaker , water supply licensee or sewerage licensee[^c-099efbb8bcdc7047a5e41ea79cd23266] is enforceable by the Water Services Regulation Authority under section 18 of the Water Industry Act 1991 (c. 56) (orders for securing compliance).
 
-(4)[^key-48d71c288ab6a514d0829067a881818d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-48d71c288ab6a514d0829067a881818d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f5a5c3a956a55e248d95acb181af7359]: Commencement: S. 52 in force at 1.10.2008 by [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
+[^c-f5a5c3a956a55e248d95acb181af7359]: Commencement: S. 52 in force at 1.10.2008 by [S.I. 2008/2550](https://www.legislation.gov.uk/uksi/2008/2550), [art. 2](https://www.legislation.gov.uk/uksi/2008/2550/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/2550/schedule)
 
-[^key-099efbb8bcdc7047a5e41ea79cd23266]: Textual amendment: Words in [s. 52(3)](https://www.legislation.gov.uk/ukpga/2007/17/section/52/3) substituted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 142](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/142); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
+[^c-099efbb8bcdc7047a5e41ea79cd23266]: Textual amendment: Words in [s. 52(3)](https://www.legislation.gov.uk/ukpga/2007/17/section/52/3) substituted (1.4.2017) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [s. 94(3)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/3), [Sch. 7 para. 142](https://www.legislation.gov.uk/ukpga/2014/21/schedule/7/paragraph/142); [S.I. 2017/462](https://www.legislation.gov.uk/uksi/2017/462), [art. 3(k)(xxv)](https://www.legislation.gov.uk/uksi/2017/462/article/3/k/xxv)
 
-[^key-48d71c288ab6a514d0829067a881818d]: Textual amendment: S. 52(4) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 185](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/185); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-48d71c288ab6a514d0829067a881818d]: Textual amendment: S. 52(4) omitted (1.10.2011) by virtue of [Postal Services Act 2011 (c. 5)](https://www.legislation.gov.uk/ukpga/2011/5), [s. 93(2)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/2)[(3)](https://www.legislation.gov.uk/ukpga/2011/5/section/93/3), [Sch. 12 para. 185](https://www.legislation.gov.uk/ukpga/2011/5/schedule/12/paragraph/185); [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

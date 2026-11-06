@@ -31,7 +31,7 @@ summary: ''
 
 Sea Fisheries, Wales
 
-The Sea Fishing (Licences and Notices) (Wales) Regulations 2019 (revoked)[^key-235ffee046ba34c08b885585a1695497]
+The Sea Fishing (Licences and Notices) (Wales) Regulations 2019 (revoked)[^c-235ffee046ba34c08b885585a1695497]
 
 Made
 
@@ -43,44 +43,44 @@ Laid before the National Assembly for Wales
 
 Coming into force in accordance with regulation 1(1)
 
-[^key-235ffee046ba34c08b885585a1695497]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-235ffee046ba34c08b885585a1695497]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, commencement and application[^key-235ffee046ba34c08b885585a1695497]
+## 1. Title, commencement and application[^c-235ffee046ba34c08b885585a1695497]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Interpretation[^key-235ffee046ba34c08b885585a1695497]
+## 2. Interpretation[^c-235ffee046ba34c08b885585a1695497]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Communication of licences and notices[^key-235ffee046ba34c08b885585a1695497]
+## 3. Communication of licences and notices[^c-235ffee046ba34c08b885585a1695497]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Time at which licences are delivered and notices are given[^key-235ffee046ba34c08b885585a1695497]
+## 4. Time at which licences are delivered and notices are given[^c-235ffee046ba34c08b885585a1695497]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Time at which licences and notices have effect[^key-235ffee046ba34c08b885585a1695497]
+## 5. Time at which licences and notices have effect[^c-235ffee046ba34c08b885585a1695497]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Special provision for certain licences and notices[^key-235ffee046ba34c08b885585a1695497]
+## 6. Special provision for certain licences and notices[^c-235ffee046ba34c08b885585a1695497]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Revocation of the Sea Fishing (Licences and Notices) Regulations 1994[^key-235ffee046ba34c08b885585a1695497]
+## 7. Revocation of the Sea Fishing (Licences and Notices) Regulations 1994[^c-235ffee046ba34c08b885585a1695497]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-235ffee046ba34c08b885585a1695497]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-235ffee046ba34c08b885585a1695497]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-235ffee046ba34c08b885585a1695497]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-235ffee046ba34c08b885585a1695497]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-235ffee046ba34c08b885585a1695497]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2019/500) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/23) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-235ffee046ba34c08b885585a1695497]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2019/500) revoked (31.12.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/23) (with [s. 50](https://www.legislation.gov.uk/ukpga/2020/22/section/50), [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

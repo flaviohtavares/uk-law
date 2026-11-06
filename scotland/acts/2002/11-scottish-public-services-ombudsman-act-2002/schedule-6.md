@@ -42,7 +42,7 @@ Section 184(2) (disclosure of information to Commissioner for Local Administrati
 
 Schedule 1 (powers of Commissioner for Local Administration in Scotland) to the Local Government (Miscellaneous Provisions) (Scotland) Act 1981 is repealed.
 
-### 6. Mental Health (Scotland) Act 1984 (c.36)[^key-8858d9bace4e9a3ea335e0f9104fe344]
+### 6. Mental Health (Scotland) Act 1984 (c.36)[^c-8858d9bace4e9a3ea335e0f9104fe344]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -152,4 +152,4 @@ Section 66 (maladministration) of the Regulation of Care (Scotland) Act 2001 is 
 
 ## Annotations
 
-[^key-8858d9bace4e9a3ea335e0f9104fe344]: Textual amendment: Sch. 6 para. 6 repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)
+[^c-8858d9bace4e9a3ea335e0f9104fe344]: Textual amendment: Sch. 6 para. 6 repealed (5.10.2005) by [Mental Health (Care and Treatment) (Scotland) Act 2003 (asp 13)](https://www.legislation.gov.uk/asp/2003/13), [s. 333(2)](https://www.legislation.gov.uk/asp/2003/13/section/333/2), [sch. 5 Pt. 1](https://www.legislation.gov.uk/asp/2003/13/schedule/5/part/1); [S.S.I. 2005/161](https://www.legislation.gov.uk/ssi/2005/161), [art. 3](https://www.legislation.gov.uk/ssi/2005/161/article/3) (as substituted (1.7.2005) by [S.S.I. 2005/375](https://www.legislation.gov.uk/ssi/2005/375), art. 2 and as amended (22.9.2005) by [S.S.I. 2005/459](https://www.legislation.gov.uk/ssi/2005/459), art. 2)

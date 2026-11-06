@@ -20,7 +20,7 @@ summary: ''
 
 - (a) in the case of a self-employed earner who is engaged in employment on his own account, the net profit derived from that employment;
 - (b) in the case of a self-employed earner whose employment is carried on in partnership, his share of the net profit derived from that employment, less—
-  - (i) an amount in respect of income tax and of national insurance contributions[^key-70cda320e47a8270647fbf5b8eaafbb3] payable under the Act calculated in accordance with regulation 40 (deduction of tax and contributions for self-employed earners); and
+  - (i) an amount in respect of income tax and of national insurance contributions[^c-70cda320e47a8270647fbf5b8eaafbb3] payable under the Act calculated in accordance with regulation 40 (deduction of tax and contributions for self-employed earners); and
   - (ii) one-half of the amount calculated in accordance with paragraph (10) in respect of any qualifying premium.
 
 (2) For the purposes of paragraph (1)(a) the net profit of the employment shall, except where paragraph (8) applies, be calculated by taking into account the earnings of the employment over the assessment period less—
@@ -28,7 +28,7 @@ summary: ''
 - (a) subject to paragraphs (4) to (7), any expenses wholly and exclusively incurred in that period for the purposes of that employment;
 - (b) an amount in respect of—
   - (i) income tax; and
-  - (ii) national insurance contributions[^key-cfd0226d052ecb1f4d7edcf1ebeac648] payable under the Act,
+  - (ii) national insurance contributions[^c-cfd0226d052ecb1f4d7edcf1ebeac648] payable under the Act,
 
   calculated in accordance with regulation 40 (deduction of tax and contributions for self-employed earners); and
 - (c) one-half of the amount calculated in accordance with paragraph (10) in respect of any qualifying premium.
@@ -63,7 +63,7 @@ summary: ''
 
 - (a) an amount in respect of—
   - (i) income tax; and
-  - (ii) national insurance contributions[^key-31796f4c3870a1094463be11ce73ec0e] payable under the Act,
+  - (ii) national insurance contributions[^c-31796f4c3870a1094463be11ce73ec0e] payable under the Act,
 
   calculated in accordance with regulation 40 (deduction of tax and contributions for self-employed earners); and
 - (b) one-half of the amount calculated in accordance with paragraph (10) in respect of any qualifying premium.
@@ -75,14 +75,14 @@ summary: ''
 - (a) where the qualifying premium is payable monthly, by multiplying the amount of the qualifying premium by 12 and dividing the product by 365;
 - (b) in any other case, by dividing the amount of the qualifying premium by the number equal to the number of days in the period to which the qualifying premium relates.
 
-(11) In this regulation, “**qualifying premium**” means any premium which is payable periodically in respect of [^key-227f7b7ef71cd95b9e45dd34ac7834e2]... a personal pension scheme and is so payable on or after the date of claim.
+(11) In this regulation, “**qualifying premium**” means any premium which is payable periodically in respect of [^c-227f7b7ef71cd95b9e45dd34ac7834e2]... a personal pension scheme and is so payable on or after the date of claim.
 
 ## Annotations
 
-[^key-70cda320e47a8270647fbf5b8eaafbb3]: Textual amendment: Words in reg. 39(1)(b)(i) substituted (1.4.2014 for specified purposes, 7.4.2014 in so far as not already in force) by [The Housing Benefit (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/213)](https://www.legislation.gov.uk/uksi/2014/213), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/213/regulation/1/3), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2014/213/regulation/4/3/b/i)
+[^c-70cda320e47a8270647fbf5b8eaafbb3]: Textual amendment: Words in reg. 39(1)(b)(i) substituted (1.4.2014 for specified purposes, 7.4.2014 in so far as not already in force) by [The Housing Benefit (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/213)](https://www.legislation.gov.uk/uksi/2014/213), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/213/regulation/1/3), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2014/213/regulation/4/3/b/i)
 
-[^key-cfd0226d052ecb1f4d7edcf1ebeac648]: Textual amendment: Words in reg. 39(2)(b)(ii) substituted (1.4.2014 for specified purposes, 7.4.2014 in so far as not already in force) by [The Housing Benefit (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/213)](https://www.legislation.gov.uk/uksi/2014/213), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/213/regulation/1/3), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/213/regulation/4/3/b/ii)
+[^c-cfd0226d052ecb1f4d7edcf1ebeac648]: Textual amendment: Words in reg. 39(2)(b)(ii) substituted (1.4.2014 for specified purposes, 7.4.2014 in so far as not already in force) by [The Housing Benefit (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/213)](https://www.legislation.gov.uk/uksi/2014/213), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/213/regulation/1/3), [4(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2014/213/regulation/4/3/b/ii)
 
-[^key-31796f4c3870a1094463be11ce73ec0e]: Textual amendment: Words in reg. 39(8)(a)(ii) substituted (1.4.2014 for specified purposes, 7.4.2014 in so far as not already in force) by [The Housing Benefit (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/213)](https://www.legislation.gov.uk/uksi/2014/213), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/213/regulation/1/3), [4(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2014/213/regulation/4/3/b/iii)
+[^c-31796f4c3870a1094463be11ce73ec0e]: Textual amendment: Words in reg. 39(8)(a)(ii) substituted (1.4.2014 for specified purposes, 7.4.2014 in so far as not already in force) by [The Housing Benefit (Miscellaneous Amendments) Regulations 2014 (S.I. 2014/213)](https://www.legislation.gov.uk/uksi/2014/213), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2014/213/regulation/1/3), [4(3)(b)(iii)](https://www.legislation.gov.uk/uksi/2014/213/regulation/4/3/b/iii)
 
-[^key-227f7b7ef71cd95b9e45dd34ac7834e2]: Textual amendment: Words in reg. 39(11) omitted (16.7.2007) by virtue of [Social Security (Miscellaneous Amendments) (No.3) Regulations 2007 (S.I. 2007/1749)](https://www.legislation.gov.uk/uksi/2007/1749), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1749/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2007/1749/regulation/5/3)
+[^c-227f7b7ef71cd95b9e45dd34ac7834e2]: Textual amendment: Words in reg. 39(11) omitted (16.7.2007) by virtue of [Social Security (Miscellaneous Amendments) (No.3) Regulations 2007 (S.I. 2007/1749)](https://www.legislation.gov.uk/uksi/2007/1749), [regs. 1](https://www.legislation.gov.uk/uksi/2007/1749/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2007/1749/regulation/5/3)

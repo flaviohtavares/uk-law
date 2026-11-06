@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Allergy safety policy for pupils at schools[^key-88d09598253c0afc711c75d0c5d0c395][^key-aca8bc5d36c303b3b79b9f27bb75766c]
+## 34. Allergy safety policy for pupils at schools[^c-88d09598253c0afc711c75d0c5d0c395][^c-aca8bc5d36c303b3b79b9f27bb75766c]
 
 *Extent: E+W*
 
@@ -89,6 +89,6 @@ summary: ''
 
 ## Annotations
 
-[^key-88d09598253c0afc711c75d0c5d0c395]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
+[^c-88d09598253c0afc711c75d0c5d0c395]: Commencement: S. 34 in force at Royal Assent for specified purposes, see [s. 78(1)(a)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/1/a)(5)
 
-[^key-aca8bc5d36c303b3b79b9f27bb75766c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2026/21/section/34) in force at 1.9.2026 in so far as not already in force by [S.I. 2026/933](https://www.legislation.gov.uk/uksi/2026/933), [reg. 2](https://www.legislation.gov.uk/uksi/2026/933/regulation/2)
+[^c-aca8bc5d36c303b3b79b9f27bb75766c]: Commencement: [S. 34](https://www.legislation.gov.uk/ukpga/2026/21/section/34) in force at 1.9.2026 in so far as not already in force by [S.I. 2026/933](https://www.legislation.gov.uk/uksi/2026/933), [reg. 2](https://www.legislation.gov.uk/uksi/2026/933/regulation/2)

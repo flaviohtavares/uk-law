@@ -89,7 +89,7 @@ The measures provided for in this Regulation are in accordance with the opinion 
 
 HAS ADOPTED THIS REGULATION:
 
-**Article 1.** In this Regulation a reference to an Annex to[^key-99a361f690c310d1c2f9de386c477b82] [Directive 90/385/EEC](https://www.legislation.gov.uk/european/directive/1990/0385) or to an Annex to [Directive 93/42/EEC](https://www.legislation.gov.uk/european/directive/1993/0042) is to be construed as a reference to those Annexes as they applied immediately before IP completion day and as modified by Schedule 2A to the Medical Devices Regulations 2002.
+**Article 1.** In this Regulation a reference to an Annex to[^c-99a361f690c310d1c2f9de386c477b82] [Directive 90/385/EEC](https://www.legislation.gov.uk/european/directive/1990/0385) or to an Annex to [Directive 93/42/EEC](https://www.legislation.gov.uk/european/directive/1993/0042) is to be construed as a reference to those Annexes as they applied immediately before IP completion day and as modified by Schedule 2A to the Medical Devices Regulations 2002.
 
 This Regulation establishes the conditions under which the instructions for use of medical devices referred to in point 15 of Annex 1 to Directive 90/385/EEC and in point 13 of Annex I to Directive 93/42/EEC may be provided in electronic form instead of in paper form.
 
@@ -104,11 +104,11 @@ It also establishes certain requirements concerning instructions for use in elec
 
 **Article 3.** 1. Subject to the conditions set out in paragraph 2, manufacturers may provide instructions for use in electronic form instead of in paper form where those instructions relate to any of the following devices:
 
-- (a) active implantable medical devices and their accessories covered by Part 3 of the Medical Devices Regulations 2002[^key-b459e69fa50e51e5ecda08c8e1697a24] intended to be used exclusively for the implantation or programming of a defined active implantable medical device;
-- (b) implantable medical devices and their accessories covered by Part 2 of the Medical Devices Regulations 2002[^key-8e81e6feb039322174c6c4c4acf43f09] intended to be used exclusively for the implantation of a defined implantable medical device;
-- (c) fixed installed medical devices covered by Part 2 of the Medical Devices Regulations 2002[^key-749fd7490dcd191765f479c0d4733906];
-- (d) medical devices and their accessories covered by Part 3 or Part 2 of the Medical Devices Regulations 2002[^key-1589ac647b37aa0620c788a7c2adf2c0] fitted with a built-in system visually displaying the instructions for use;
-- (e) stand-alone software covered by Part 2 of the Medical Devices Regulations 2002[^key-de234629cf29de1a0d273f8e7f397c19].
+- (a) active implantable medical devices and their accessories covered by Part 3 of the Medical Devices Regulations 2002[^c-b459e69fa50e51e5ecda08c8e1697a24] intended to be used exclusively for the implantation or programming of a defined active implantable medical device;
+- (b) implantable medical devices and their accessories covered by Part 2 of the Medical Devices Regulations 2002[^c-8e81e6feb039322174c6c4c4acf43f09] intended to be used exclusively for the implantation of a defined implantable medical device;
+- (c) fixed installed medical devices covered by Part 2 of the Medical Devices Regulations 2002[^c-749fd7490dcd191765f479c0d4733906];
+- (d) medical devices and their accessories covered by Part 3 or Part 2 of the Medical Devices Regulations 2002[^c-1589ac647b37aa0620c788a7c2adf2c0] fitted with a built-in system visually displaying the instructions for use;
+- (e) stand-alone software covered by Part 2 of the Medical Devices Regulations 2002[^c-de234629cf29de1a0d273f8e7f397c19].
 
 2. Manufacturers may provide instructions for use in electronic form instead of in paper form for the devices listed in paragraph 1 under the following conditions:
 
@@ -169,13 +169,13 @@ That information shall be provided as set out in the second subparagraph of para
 - (b) it shall be protected against hardware and software intrusion;
 - (c) it shall be provided in such a way that the server downtime and display errors are reduced as far as possible;
 - (d) it shall mention in which Union languages the manufacturer provides the instructions for use in electronic form;
-- (e) it shall fulfil the requirements of the Data Protection Act 2018 and the UK GDPR[^key-fa695c520f3e2070e6e31d388a0bcfe9];
+- (e) it shall fulfil the requirements of the Data Protection Act 2018 and the UK GDPR[^c-fa695c520f3e2070e6e31d388a0bcfe9];
 - (f) the Internet address as displayed in accordance with Article 6(2) shall be stable and directly accessible during the periods set out in points (9) and (10) of Article 5;
 - (g) all previous versions of the instructions for use issued in electronic form and their date of publication shall be available on the website.
 
-(3.)[^key-1687adcce96087c8d6685edc4d4d2308] In this Article “the UK GDPR” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act).
+(3.)[^c-1687adcce96087c8d6685edc4d4d2308] In this Article “the UK GDPR” has the same meaning as in Parts 5 to 7 of the Data Protection Act 2018 (see section 3(10) and (14) of that Act).
 
-**Article 8.**[^key-085ab603b9bd1ed353f9e0ee4ce68113] Except for medical devices of Class I, as defined in Annex IX to Directive 93/42, the fulfilment of the obligations laid down in Articles 4 to 7 of this Regulation must be reviewed by an approved body during the applicable conformity assessment procedure for the medical device in question, as set out in Part 2 or Part 3 of the Medical Devices Regulations 2002. The review must be based on a specific sampling method adapted to the class and the complexity of the product.
+**Article 8.**[^c-085ab603b9bd1ed353f9e0ee4ce68113] Except for medical devices of Class I, as defined in Annex IX to Directive 93/42, the fulfilment of the obligations laid down in Articles 4 to 7 of this Regulation must be reviewed by an approved body during the applicable conformity assessment procedure for the medical device in question, as set out in Part 2 or Part 3 of the Medical Devices Regulations 2002. The review must be based on a specific sampling method adapted to the class and the complexity of the product.
 
 **Article 9.** Instructions for use in electronic form which are provided in addition to complete instructions for use in paper form shall be consistent with the content of the instructions for use in paper form.
 
@@ -185,7 +185,7 @@ Where such instructions for use are provided through a website, this website sha
 
 It shall apply from 1 March 2013.
 
-[^key-4cff078869ceaf9a6cd72c50faad639d]...
+[^c-4cff078869ceaf9a6cd72c50faad639d]...
 
 Done at Brussels, 9 March 2012.
 
@@ -203,22 +203,22 @@ José Manuel Barroso
 
 [^f00003]: Footnote: [OJ L 281, 23.11.1995, p. 31](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1995.281.01.0031.01.ENG).
 
-[^key-99a361f690c310d1c2f9de386c477b82]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2012/207/article/1) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/4)
+[^c-99a361f690c310d1c2f9de386c477b82]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2012/207/article/1) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/4)
 
-[^key-b459e69fa50e51e5ecda08c8e1697a24]: Textual amendment: Words in [Art. 3(1)(a)](https://www.legislation.gov.uk/eur/2012/207/article/3/1/a) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/5/a)
+[^c-b459e69fa50e51e5ecda08c8e1697a24]: Textual amendment: Words in [Art. 3(1)(a)](https://www.legislation.gov.uk/eur/2012/207/article/3/1/a) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 5(a)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/5/a)
 
-[^key-8e81e6feb039322174c6c4c4acf43f09]: Textual amendment: Words in [Art. 3(1)(b)](https://www.legislation.gov.uk/eur/2012/207/article/3/1/b) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/5/b)
+[^c-8e81e6feb039322174c6c4c4acf43f09]: Textual amendment: Words in [Art. 3(1)(b)](https://www.legislation.gov.uk/eur/2012/207/article/3/1/b) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/5/b)
 
-[^key-749fd7490dcd191765f479c0d4733906]: Textual amendment: Words in [Art. 3(1)(c)](https://www.legislation.gov.uk/eur/2012/207/article/3/1/c) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/5/b)
+[^c-749fd7490dcd191765f479c0d4733906]: Textual amendment: Words in [Art. 3(1)(c)](https://www.legislation.gov.uk/eur/2012/207/article/3/1/c) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/5/b)
 
-[^key-1589ac647b37aa0620c788a7c2adf2c0]: Textual amendment: Words in [Art. 3(1)(d)](https://www.legislation.gov.uk/eur/2012/207/article/3/1/d) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 5(c)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/5/c)
+[^c-1589ac647b37aa0620c788a7c2adf2c0]: Textual amendment: Words in [Art. 3(1)(d)](https://www.legislation.gov.uk/eur/2012/207/article/3/1/d) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 5(c)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/5/c)
 
-[^key-de234629cf29de1a0d273f8e7f397c19]: Textual amendment: Words in [Art. 3(1)(e)](https://www.legislation.gov.uk/eur/2012/207/article/3/1/e) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/5/b)
+[^c-de234629cf29de1a0d273f8e7f397c19]: Textual amendment: Words in [Art. 3(1)(e)](https://www.legislation.gov.uk/eur/2012/207/article/3/1/e) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 5(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/5/b)
 
-[^key-fa695c520f3e2070e6e31d388a0bcfe9]: Textual amendment: Words in [Art. 7(2)(e)](https://www.legislation.gov.uk/eur/2012/207/article/7/2/e) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/6/a)
+[^c-fa695c520f3e2070e6e31d388a0bcfe9]: Textual amendment: Words in [Art. 7(2)(e)](https://www.legislation.gov.uk/eur/2012/207/article/7/2/e) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 6(a)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/6/a)
 
-[^key-1687adcce96087c8d6685edc4d4d2308]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/eur/2012/207/article/7/3) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/6/b)
+[^c-1687adcce96087c8d6685edc4d4d2308]: Textual amendment: [Art. 7(3)](https://www.legislation.gov.uk/eur/2012/207/article/7/3) inserted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 6(b)](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/6/b)
 
-[^key-085ab603b9bd1ed353f9e0ee4ce68113]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2012/207/article/8) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/7)
+[^c-085ab603b9bd1ed353f9e0ee4ce68113]: Textual amendment: [Art. 8](https://www.legislation.gov.uk/eur/2012/207/article/8) substituted (11.8.2021) by [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 7](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/7)
 
-[^key-4cff078869ceaf9a6cd72c50faad639d]: Textual amendment: Words in Signature omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/8)
+[^c-4cff078869ceaf9a6cd72c50faad639d]: Textual amendment: Words in Signature omitted (11.8.2021) by virtue of [The Medical Devices (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/873)](https://www.legislation.gov.uk/uksi/2021/873), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/873/regulation/1/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2021/873/schedule/2/paragraph/8)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 288J. Effect of postponement[^key-847f09caa2b314654a04766a22dc0e7f]
+## 288J. Effect of postponement[^c-847f09caa2b314654a04766a22dc0e7f]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-847f09caa2b314654a04766a22dc0e7f]: Textual amendment: Ss. 288H-288L and cross-heading inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 110(1)](https://www.legislation.gov.uk/asp/2016/1/section/110/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)
+[^c-847f09caa2b314654a04766a22dc0e7f]: Textual amendment: Ss. 288H-288L and cross-heading inserted (25.1.2018) by [Criminal Justice (Scotland) Act 2016 (asp 1)](https://www.legislation.gov.uk/asp/2016/1), [ss. 110(1)](https://www.legislation.gov.uk/asp/2016/1/section/110/1), [117(2)](https://www.legislation.gov.uk/asp/2016/1/section/117/2); [S.S.I. 2017/345](https://www.legislation.gov.uk/ssi/2017/345), [art. 3](https://www.legislation.gov.uk/ssi/2017/345/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/345/schedule)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 278. Notice, etc. to solicitors[^key-b41d365e517e4a4bc7864de48593efcd]
+## 278. Notice, etc. to solicitors[^c-b41d365e517e4a4bc7864de48593efcd]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Apply rule 13.4 of the 1986 Rules.
 
 ## Annotations
 
-[^key-b41d365e517e4a4bc7864de48593efcd]: Commencement: Rule 278 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-b41d365e517e4a4bc7864de48593efcd]: Commencement: Rule 278 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)

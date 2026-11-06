@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Private purpose trusts: general[^key-69e2af406e24b3da0a39531759d7f1c6]
+## 46. Private purpose trusts: general[^c-69e2af406e24b3da0a39531759d7f1c6]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69e2af406e24b3da0a39531759d7f1c6]: Commencement: S. 46 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-69e2af406e24b3da0a39531759d7f1c6]: Commencement: S. 46 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

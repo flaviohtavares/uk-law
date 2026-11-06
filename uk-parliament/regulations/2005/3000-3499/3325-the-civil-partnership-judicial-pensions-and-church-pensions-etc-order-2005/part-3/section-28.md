@@ -18,8 +18,8 @@ summary: ''
 
 *Extent: N.I.*
 
-**28.**[^key-9ad566926fcdacab8db5f4afe8b735b9] In section 132 (recommendation of Lord Chancellor in certain cases), for “widow’s widower's” substitute “widow's, widower's, surviving civil partner's”.
+**28.**[^c-9ad566926fcdacab8db5f4afe8b735b9] In section 132 (recommendation of Lord Chancellor in certain cases), for “widow’s widower's” substitute “widow's, widower's, surviving civil partner's”.
 
 ## Annotations
 
-[^key-9ad566926fcdacab8db5f4afe8b735b9]: Commencement: Art. 28 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)
+[^c-9ad566926fcdacab8db5f4afe8b735b9]: Commencement: Art. 28 in force at 5.12.2005, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2005/3325/article/1/1)

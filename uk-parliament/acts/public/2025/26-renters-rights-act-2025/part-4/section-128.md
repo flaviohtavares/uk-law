@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 128. Suspected residential tenancy: warrant authorising entry[^key-1701b2eac286be8b24916559b25cb733]
+## 128. Suspected residential tenancy: warrant authorising entry[^c-1701b2eac286be8b24916559b25cb733]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ A justice of the peace may issue a warrant authorising an officer of a local hou
 
 ## Annotations
 
-[^key-1701b2eac286be8b24916559b25cb733]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2025/26/section/128) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)
+[^c-1701b2eac286be8b24916559b25cb733]: Commencement: [S. 128](https://www.legislation.gov.uk/ukpga/2025/26/section/128) in force at 27.12.2025, see [s. 145(5)(d)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/5/d)

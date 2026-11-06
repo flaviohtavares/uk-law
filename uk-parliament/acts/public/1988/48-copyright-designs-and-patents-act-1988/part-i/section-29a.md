@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 29A. Copies for text and data analysis for non-commercial research[^key-795dd34469abe0bde6b3e8e8c825ff6a]
+## 29A. Copies for text and data analysis for non-commercial research[^c-795dd34469abe0bde6b3e8e8c825ff6a]
 
 *Extent: E+W+S+N.I.*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-795dd34469abe0bde6b3e8e8c825ff6a]: Textual amendment: S. 29A inserted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/3/2)
+[^c-795dd34469abe0bde6b3e8e8c825ff6a]: Textual amendment: S. 29A inserted (1.6.2014) by [The Copyright and Rights in Performances (Research, Education, Libraries and Archives) Regulations 2014 (S.I. 2014/1372)](https://www.legislation.gov.uk/uksi/2014/1372), [regs. 1](https://www.legislation.gov.uk/uksi/2014/1372/regulation/1), [3(2)](https://www.legislation.gov.uk/uksi/2014/1372/regulation/3/2)

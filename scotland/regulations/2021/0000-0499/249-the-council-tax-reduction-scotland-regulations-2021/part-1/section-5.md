@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5. Couples[^key-dd18a6a6aaaaf3926012e6c527a0f300]
+## 5. Couples[^c-dd18a6a6aaaaf3926012e6c527a0f300]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ and, accordingly, A and B are not to be treated as a couple for the purposes of 
 
 ## Annotations
 
-[^key-dd18a6a6aaaaf3926012e6c527a0f300]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/249/regulation/5) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)
+[^c-dd18a6a6aaaaf3926012e6c527a0f300]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2021/249/regulation/5) in force at 1.4.2022, see [reg. 1](https://www.legislation.gov.uk/ssi/2021/249/regulation/1)

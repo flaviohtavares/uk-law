@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Works for preservation of scheduled monument in cases of urgency[^key-44efebd10e31bab5a434682dfa1bbe1d][^key-f09c65c6dd832544c23b3dc971c83cac]
+## 61. Works for preservation of scheduled monument in cases of urgency[^c-44efebd10e31bab5a434682dfa1bbe1d][^c-f09c65c6dd832544c23b3dc971c83cac]
 
 *Extent: E+W*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-44efebd10e31bab5a434682dfa1bbe1d]: Commencement: S. 61 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-44efebd10e31bab5a434682dfa1bbe1d]: Commencement: S. 61 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-f09c65c6dd832544c23b3dc971c83cac]: Commencement: [S. 61](https://www.legislation.gov.uk/asc/2023/3/section/61) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-f09c65c6dd832544c23b3dc971c83cac]: Commencement: [S. 61](https://www.legislation.gov.uk/asc/2023/3/section/61) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

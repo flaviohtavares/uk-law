@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Schools budget[^key-f7d7e39b730a6540acb0f76c7371e70c]
+## 6. Schools budget[^c-f7d7e39b730a6540acb0f76c7371e70c]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f7d7e39b730a6540acb0f76c7371e70c]: Commencement: Reg. 6 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
+[^c-f7d7e39b730a6540acb0f76c7371e70c]: Commencement: Reg. 6 in force at 1.2.2027, see [reg. 1(2)(3)](https://www.legislation.gov.uk/wsi/2026/66/regulation/1/2/3)
 
 [^f00045]: Footnote: Section 2(1) was substituted by the Education Act 2002, section 156(2).

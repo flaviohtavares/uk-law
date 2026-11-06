@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 34. Minors under guardianship, etc.[^key-63517c394965f05d196ce376e890a82e][^key-af98b7611a380b40483cabef2c29a0c8]
+## 34. Minors under guardianship, etc.[^c-63517c394965f05d196ce376e890a82e][^c-af98b7611a380b40483cabef2c29a0c8]
 
 *Extent: N.I.*
 
@@ -35,8 +35,8 @@ the guardian (or guardians, where there is more than one) or the person named in
 
 ## Annotations
 
-[^key-63517c394965f05d196ce376e890a82e]: Modification: [Art. 34](https://www.legislation.gov.uk/nisi/1986/595/article/34) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(dd)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/dd), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
+[^c-63517c394965f05d196ce376e890a82e]: Modification: [Art. 34](https://www.legislation.gov.uk/nisi/1986/595/article/34) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2012 (S.R. 2012/403)](https://www.legislation.gov.uk/nisr/2012/403), [regs. 1](https://www.legislation.gov.uk/nisr/2012/403/regulation/1), [3(3)(dd)](https://www.legislation.gov.uk/nisr/2012/403/regulation/3/3/dd), [4](https://www.legislation.gov.uk/nisr/2012/403/regulation/4)
 
-[^key-af98b7611a380b40483cabef2c29a0c8]: Modification: [Art. 34](https://www.legislation.gov.uk/nisi/1986/595/article/34) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(u)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/u), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
+[^c-af98b7611a380b40483cabef2c29a0c8]: Modification: [Art. 34](https://www.legislation.gov.uk/nisi/1986/595/article/34) applied (31.3.2013) by [Mental Health (Private Hospitals) Regulations (Northern Ireland) 2013 (S.R. 2013/22)](https://www.legislation.gov.uk/nisr/2013/22), [regs. 1](https://www.legislation.gov.uk/nisr/2013/22/regulation/1), [3(3)(u)](https://www.legislation.gov.uk/nisr/2013/22/regulation/3/3/u), [4](https://www.legislation.gov.uk/nisr/2013/22/regulation/4)
 
 [^c17124231]: Textual amendment: [1995 NI 2](https://www.legislation.gov.uk/1995/ni2)

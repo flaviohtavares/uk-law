@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 106. Functions of the specified youth offending team[^key-82b6866392e7bdaa3e4ca6a17fe111fd]
+## 106. Functions of the specified youth offending team[^c-82b6866392e7bdaa3e4ca6a17fe111fd]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82b6866392e7bdaa3e4ca6a17fe111fd]: Commencement: S. 106 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-82b6866392e7bdaa3e4ca6a17fe111fd]: Commencement: S. 106 in force at 1.12.2020 by [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 37. Appeal to Lands Tribunal against valuation[^key-d1110de1f97574884ef11af659310e45]
+## 37. Appeal to Lands Tribunal against valuation[^c-d1110de1f97574884ef11af659310e45]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d1110de1f97574884ef11af659310e45]: Commencement: S. 37 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)
+[^c-d1110de1f97574884ef11af659310e45]: Commencement: S. 37 in force at 15.12.2004 by [S.S.I. 2004/511](https://www.legislation.gov.uk/ssi/2004/511), [art. 2](https://www.legislation.gov.uk/ssi/2004/511/article/2)

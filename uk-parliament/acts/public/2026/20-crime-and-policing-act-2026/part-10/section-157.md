@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Offence of concealing identity at protests[^key-d725bdb346d67b1331b6035adc37eae1][^key-a7f0e9068dc9f2bd27d122321889f174]
+## 157. Offence of concealing identity at protests[^c-d725bdb346d67b1331b6035adc37eae1][^c-a7f0e9068dc9f2bd27d122321889f174]
 
 *Extent: E+W*
 
@@ -39,6 +39,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d725bdb346d67b1331b6035adc37eae1]: Commencement: S. 157 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
+[^c-d725bdb346d67b1331b6035adc37eae1]: Commencement: S. 157 not in force at Royal Assent, see [s. 255(1)](https://www.legislation.gov.uk/ukpga/2026/20/section/255/1)
 
-[^key-a7f0e9068dc9f2bd27d122321889f174]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2026/20/section/157) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/l)
+[^c-a7f0e9068dc9f2bd27d122321889f174]: Commencement: [S. 157](https://www.legislation.gov.uk/ukpga/2026/20/section/157) in force at 29.6.2026 by [S.I. 2026/689](https://www.legislation.gov.uk/uksi/2026/689), [reg. 2(1)(l)](https://www.legislation.gov.uk/uksi/2026/689/regulation/2/1/l)

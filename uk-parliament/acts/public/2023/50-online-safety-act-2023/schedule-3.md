@@ -24,7 +24,7 @@ Sections 9, 11, 14, 26, 28 and 36
 
 ### PART 1 — Timing of illegal content risk assessments and children’s access assessments
 
-#### 1. Part 3 services already in operation at the outset of the regime provided for by this Act[^key-e080d3bf22ccd543877014a633a12614][^key-a414b8338cb89dc433b8db737db9d6dd]
+#### 1. Part 3 services already in operation at the outset of the regime provided for by this Act[^c-e080d3bf22ccd543877014a633a12614][^c-a414b8338cb89dc433b8db737db9d6dd]
 
 (1) This paragraph applies in relation to a Part 3 service which is in operation immediately before the day on which the first illegal content risk assessment guidance is published.
 
@@ -32,7 +32,7 @@ Sections 9, 11, 14, 26, 28 and 36
 
 (3) The first CAA of the service must be completed within the period of three months beginning with the day on which the first CAA guidance is published.
 
-#### 2. New Part 3 services which start up, and existing services which become Part 3 services, between publication of the first illegal content risk assessment guidance and the first CAA guidance[^key-a944a2a93bbb183007da765eca3dd3d2][^key-0125e438dae3e02d67a034d45802ffcd]
+#### 2. New Part 3 services which start up, and existing services which become Part 3 services, between publication of the first illegal content risk assessment guidance and the first CAA guidance[^c-a944a2a93bbb183007da765eca3dd3d2][^c-0125e438dae3e02d67a034d45802ffcd]
 
 (1) In this paragraph “**the first day**”, in relation to a Part 3 service, means—
 
@@ -45,7 +45,7 @@ Sections 9, 11, 14, 26, 28 and 36
 
 (4) The first CAA of the service must be completed within the period of three months beginning with the day on which the first CAA guidance is published.
 
-#### 3. New Part 3 services which start up when illegal content risk assessment guidance and CAA guidance are both available[^key-0bbd7ed2bca0db8021455b0d7c346d71][^key-e4de6f92aff31bbc6c34b0032f763092]
+#### 3. New Part 3 services which start up when illegal content risk assessment guidance and CAA guidance are both available[^c-0bbd7ed2bca0db8021455b0d7c346d71][^c-e4de6f92aff31bbc6c34b0032f763092]
 
 (1) In this paragraph “**the first day**”, in relation to a Part 3 service, means the first day on which the service is a Part 3 service (being a new service).
 
@@ -54,7 +54,7 @@ Sections 9, 11, 14, 26, 28 and 36
 - (a) the first illegal content risk assessment of the service, and
 - (b) the first CAA of the service.
 
-#### 4. Existing services which become Part 3 services when illegal content risk assessment guidance and CAA guidance are both available[^key-56b8817d0a223355cda045ca8ea5fdcb][^key-d9169dbab8b6cdfecc5f8e61f3e46782]
+#### 4. Existing services which become Part 3 services when illegal content risk assessment guidance and CAA guidance are both available[^c-56b8817d0a223355cda045ca8ea5fdcb][^c-d9169dbab8b6cdfecc5f8e61f3e46782]
 
 (1) In this paragraph “**the first day**”, in relation to a Part 3 service, means the first day on which the service becomes, or again becomes, a Part 3 service (following a period during which the service was not a Part 3 service).
 
@@ -65,7 +65,7 @@ Sections 9, 11, 14, 26, 28 and 36
 
 ### PART 2 — Timing of children’s risk assessments and section 15(2) assessments
 
-#### 5. Children’s risk assessments[^key-31a2bf8624876c6aad7cc2f4a446c36a][^key-d3347292c6c78b23b2dde59d8f27adb0]
+#### 5. Children’s risk assessments[^c-31a2bf8624876c6aad7cc2f4a446c36a][^c-d3347292c6c78b23b2dde59d8f27adb0]
 
 (1) In this paragraph “**the relevant day**”, in relation to a Part 3 service, means—
 
@@ -81,7 +81,7 @@ Sections 9, 11, 14, 26, 28 and 36
 
 (4) The first children’s risk assessment of the service must be completed within the period of three months beginning with the day on which the first children’s risk assessment guidance is published.
 
-#### 6. Section 15(2) assessments[^key-42afa0e40cd979628e1af1c1165f7a9f][^key-5df04fcd6d4acf8c8f8f93b478c9115a]
+#### 6. Section 15(2) assessments[^c-42afa0e40cd979628e1af1c1165f7a9f][^c-5df04fcd6d4acf8c8f8f93b478c9115a]
 
 (1) In this paragraph “**the relevant day**”, in relation to a regulated user-to-user service, means—
 
@@ -99,7 +99,7 @@ Sections 9, 11, 14, 26, 28 and 36
 
 ### PART 3 — Pre-existing Part 4B services
 
-#### 7. Interpretation of this Part[^key-4c9ec79485457cba664e1cd3ba03d59f][^key-2ad5f28e40dab0917fd3b48e90765a3d]
+#### 7. Interpretation of this Part[^c-4c9ec79485457cba664e1cd3ba03d59f][^c-2ad5f28e40dab0917fd3b48e90765a3d]
 
 (1) In this Part, “**pre-existing Part 4B service**” means—
 
@@ -112,7 +112,7 @@ Sections 9, 11, 14, 26, 28 and 36
 
 (2) In sub-paragraph (1), any reference to a service provided before Schedule 17 comes into force includes a reference to a service provided in breach of the requirement in section 368V of the Communications Act.
 
-**8.**[^key-88ecf67be2848ca4221015a0791abad5][^key-7f3f2093aad8d13370018b6cb21aeeee] (1) In this Part, “**assessment start day**”, in relation to a pre-existing Part 4B service, means—
+**8.**[^c-88ecf67be2848ca4221015a0791abad5][^c-7f3f2093aad8d13370018b6cb21aeeee] (1) In this Part, “**assessment start day**”, in relation to a pre-existing Part 4B service, means—
 
 - (a) the date specified in regulations made by the Secretary of State for the purposes of this Part of this Schedule, or
 - (b) if the pre-existing Part 4B service ceases to be a video-sharing platform service before the date specified in the regulations, the date when that service ceases to be a video-sharing platform service.
@@ -122,13 +122,13 @@ Sections 9, 11, 14, 26, 28 and 36
 - (a) for paragraph (a) there were substituted “the date when section 210 comes into force”, and
 - (b) in paragraph (b), for “specified in the regulations” there were substituted “when section 210 comes into force”.
 
-**9.**[^key-9335aa7798d3bf718e6ca8edec27f992][^key-49d67e497fc9bc5f15070c361fb5505f] In this Part “**video-sharing platform service**” has the same meaning as in Part 4B of the Communications Act (see section 368S of that Act).
+**9.**[^c-9335aa7798d3bf718e6ca8edec27f992][^c-49d67e497fc9bc5f15070c361fb5505f] In this Part “**video-sharing platform service**” has the same meaning as in Part 4B of the Communications Act (see section 368S of that Act).
 
-**10.**[^key-914b7192f502b88d8e005c166881acff][^key-def4929003f01b8202eb88079aedd856] Any reference in this Part to the effect of Part 1 or 2 of this Schedule is a reference to the effect that Part 1 or 2 would have if this Part were disregarded.
+**10.**[^c-914b7192f502b88d8e005c166881acff][^c-def4929003f01b8202eb88079aedd856] Any reference in this Part to the effect of Part 1 or 2 of this Schedule is a reference to the effect that Part 1 or 2 would have if this Part were disregarded.
 
 ### Pre-existing Part 4B services which are regulated user-to-user services
 
-#### 11. Application of paragraphs 12 to 14[^key-6af3914e1ccc44acb075bfa9df59604b][^key-a21bbe78420fc1af585fdbbc77d0a4f0]
+#### 11. Application of paragraphs 12 to 14[^c-6af3914e1ccc44acb075bfa9df59604b][^c-a21bbe78420fc1af585fdbbc77d0a4f0]
 
 (1) This paragraph and paragraphs 12 to 14 apply in relation to a pre-existing Part 4B service which—
 
@@ -141,7 +141,7 @@ Sections 9, 11, 14, 26, 28 and 36
 
 (4) But paragraphs 12 to 14 do not apply if the service ceases to be a regulated user-to-user service on the assessment start day.
 
-#### 12. Illegal content risk assessments and children’s access assessments[^key-ce6debdd47f2374cce9de3638a37ad32][^key-2c86a26b06461ba2a25819af79ec0a3f]
+#### 12. Illegal content risk assessments and children’s access assessments[^c-ce6debdd47f2374cce9de3638a37ad32][^c-2c86a26b06461ba2a25819af79ec0a3f]
 
 (1) Sub-paragraphs (2) and (3) apply in relation to the service if, on the assessment start day, illegal content risk assessment guidance is available but the first CAA guidance has not yet been published.
 
@@ -149,12 +149,12 @@ Sections 9, 11, 14, 26, 28 and 36
 
 (3) The first CAA of the service must be completed within the period of three months beginning with the day on which the first CAA guidance is published.
 
-**13.**[^key-8c0b5eede61df0c2f52cd50cbbaea635][^key-9d8f7725eaa752c44814612a6f5a720b] If, on the assessment start day, illegal content risk assessment guidance and CAA guidance are both available, both of the following must be completed within the period of three months beginning with that day—
+**13.**[^c-8c0b5eede61df0c2f52cd50cbbaea635][^c-9d8f7725eaa752c44814612a6f5a720b] If, on the assessment start day, illegal content risk assessment guidance and CAA guidance are both available, both of the following must be completed within the period of three months beginning with that day—
 
 - (a) the first illegal content risk assessment of the service, and
 - (b) the first CAA of the service.
 
-#### 14. Section 15(2) assessments[^key-a087532a8918adaf8b24f55b370a3e58][^key-fbc4a1613b0618792bdf6815239f222d]
+#### 14. Section 15(2) assessments[^c-a087532a8918adaf8b24f55b370a3e58][^c-fbc4a1613b0618792bdf6815239f222d]
 
 (1) If section 15(2) guidance is available on the assessment start day, the first section 15(2) assessment of the service must be completed within the period of three months beginning with that day.
 
@@ -162,7 +162,7 @@ Sections 9, 11, 14, 26, 28 and 36
 
 ### Regulated user-to-user services which include a pre-existing Part 4B service
 
-#### 15. Application of paragraphs 16 to 20[^key-f3804d98e9146a610e9b4c4d2268bea9][^key-dec316e2adef5315d8263d8a5e95d1e6]
+#### 15. Application of paragraphs 16 to 20[^c-f3804d98e9146a610e9b4c4d2268bea9][^c-dec316e2adef5315d8263d8a5e95d1e6]
 
 (1) Paragraphs 16 to 20 make provision about the timing of assessments in the case of a regulated user-to-user service which includes a pre-existing Part 4B service within the definition in paragraph (b) of paragraph 7(1).
 
@@ -179,7 +179,7 @@ Sections 9, 11, 14, 26, 28 and 36
 
 (4) But paragraphs 16 to 20 do not apply if the service ceases to be a regulated user-to-user service on the assessment start day.
 
-#### 16. Illegal content risk assessments and children’s access assessments of Part 4B part[^key-d305390e878f37919fa88684bf28046f][^key-6ab2d7974221bde1d533a6cbad9d5ef1]
+#### 16. Illegal content risk assessments and children’s access assessments of Part 4B part[^c-d305390e878f37919fa88684bf28046f][^c-6ab2d7974221bde1d533a6cbad9d5ef1]
 
 (1) Sub-paragraphs (2) and (3) apply in relation to the Part 4B part if, on the assessment start day, illegal content risk assessment guidance is available but the first CAA guidance has not yet been published.
 
@@ -187,18 +187,18 @@ Sections 9, 11, 14, 26, 28 and 36
 
 (3) The first CAA of the Part 4B part must be completed within the period of three months beginning with the day on which the first CAA guidance is published.
 
-**17.**[^key-5195a49a9cbf44d53412b3dacffa8f63][^key-831438d656b3d7f71a1a16e01ee6958c] If, on the assessment start day, illegal content risk assessment guidance and CAA guidance are both available, both of the following must be completed within the period of three months beginning with that day—
+**17.**[^c-5195a49a9cbf44d53412b3dacffa8f63][^c-831438d656b3d7f71a1a16e01ee6958c] If, on the assessment start day, illegal content risk assessment guidance and CAA guidance are both available, both of the following must be completed within the period of three months beginning with that day—
 
 - (a) an illegal content risk assessment of the Part 4B part, and
 - (b) a CAA of the Part 4B part.
 
-#### 18. Section 15(2) assessments of Part 4B part[^key-8ad06977b917e5f43ef75390a6c19316][^key-7cea268807035e680459a6f5dd00c0b5]
+#### 18. Section 15(2) assessments of Part 4B part[^c-8ad06977b917e5f43ef75390a6c19316][^c-7cea268807035e680459a6f5dd00c0b5]
 
 (1) If section 15(2) guidance is available on the assessment start day, a section 15(2) assessment of the Part 4B part must be completed within the period of three months beginning with that day.
 
 (2) If, on the assessment start day, the first section 15(2) guidance has not yet been published, a section 15(2) assessment of the Part 4B part must be completed within the period of three months beginning with the day on which the first section 15(2) guidance is published.
 
-#### 19. Application of Part 1 and paragraph 6[^key-62d8876e1e277e58a15f1158002800bb][^key-eed65d8ebe48015dd641c408f65572ce]
+#### 19. Application of Part 1 and paragraph 6[^c-62d8876e1e277e58a15f1158002800bb][^c-eed65d8ebe48015dd641c408f65572ce]
 
 (1) This paragraph applies in relation to—
 
@@ -225,7 +225,7 @@ References in the rest of this paragraph to an illegal content risk assessment, 
 
 (6) If the regulated service is type 3, no illegal content risk assessment, CAA or section 15(2) assessment is required to be carried out at the time provided for by Part 1 or paragraph 6.
 
-#### 20. Application of paragraph 5[^key-d47f82d0b18f2bbb701e6887180f5d60][^key-6a9744f644483bb333495c5de344c553]
+#### 20. Application of paragraph 5[^c-d47f82d0b18f2bbb701e6887180f5d60][^c-6a9744f644483bb333495c5de344c553]
 
 (1) This paragraph sets out how paragraph 5 (children’s risk assessments) is to apply if a CAA is required to be carried out in accordance with—
 
@@ -239,7 +239,7 @@ References in the rest of this paragraph to an illegal content risk assessment, 
 
 ### PART 4 — Interpretation, and extension of three-month periods
 
-#### 21. Interpretation of this Schedule[^key-8b3557719b5cb265c2fd41e1ece8a6f1][^key-e306d349e9b1cf5b71a961c9e5e3e4e2]
+#### 21. Interpretation of this Schedule[^c-8b3557719b5cb265c2fd41e1ece8a6f1][^c-e306d349e9b1cf5b71a961c9e5e3e4e2]
 
 In this Schedule—
 
@@ -249,31 +249,31 @@ In this Schedule—
 - “section 15(2) assessment” means OFCOM’s assessment under section 14 (assessments related to the adult user empowerment duty set out in section 15(2));
 - “**section 15(2) guidance**” means OFCOM’s guidance under section 52(1).
 
-**22.**[^key-53c3b26e57f1fe6b8409fb0e2f1e09fb][^key-480f44c317fe15d1c623424f1dc20ddf] For the meaning of “likely to be accessed by children”, see section 37.
+**22.**[^c-53c3b26e57f1fe6b8409fb0e2f1e09fb][^c-480f44c317fe15d1c623424f1dc20ddf] For the meaning of “likely to be accessed by children”, see section 37.
 
-**23.**[^key-c4766c3e16c6562b05cf4a232d157c49][^key-b3be7069024a8fa5446d4e7d541252b0] In relation to regulated user-to-user services (or in the case of combined services, the user-to-user part of such services)—
+**23.**[^c-c4766c3e16c6562b05cf4a232d157c49][^c-b3be7069024a8fa5446d4e7d541252b0] In relation to regulated user-to-user services (or in the case of combined services, the user-to-user part of such services)—
 
 - (a) references to an illegal content risk assessment are to an illegal content risk assessment as defined by section 9;
 - (b) references to illegal content risk assessment guidance are to OFCOM’s guidance under section 99(1).
 
-**24.**[^key-637abf26272551eaa1ebb677bac188ef][^key-cec4bf067a796ba00c675cccb40da3eb] In relation to regulated search services and the search engine of combined services—
+**24.**[^c-637abf26272551eaa1ebb677bac188ef][^c-cec4bf067a796ba00c675cccb40da3eb] In relation to regulated search services and the search engine of combined services—
 
 - (a) references to an illegal content risk assessment are to an illegal content risk assessment as defined by section 26;
 - (b) references to illegal content risk assessment guidance are to OFCOM’s guidance under section 99(2).
 
-**25.**[^key-00e855de13fbb398ed5faa499659908f][^key-b5d25d3e9432d5936d1271c0d6ca1a55] In relation to regulated user-to-user services (or in the case of combined services, the user-to-user part of such services)—
+**25.**[^c-00e855de13fbb398ed5faa499659908f][^c-b5d25d3e9432d5936d1271c0d6ca1a55] In relation to regulated user-to-user services (or in the case of combined services, the user-to-user part of such services)—
 
 - (a) references to a children’s risk assessment are to a children’s risk assessment as defined by section 11;
 - (b) references to children’s risk assessment guidance are to be read as references to guidance about such children’s risk assessments.
 
-**26.**[^key-dabcd9e444652d1668f706c27a764d8b][^key-29e42081a03b5060db8c4596b9541e8f] In relation to regulated search services and the search engine of combined services—
+**26.**[^c-dabcd9e444652d1668f706c27a764d8b][^c-29e42081a03b5060db8c4596b9541e8f] In relation to regulated search services and the search engine of combined services—
 
 - (a) references to a children’s risk assessment are to a children’s risk assessment as defined by section 28;
 - (b) references to children’s risk assessment guidance are to be read as references to guidance about such children’s risk assessments.
 
-**27.**[^key-4dea2518a0f872e5ec83b7e8185308c1][^key-edfaf30ec39b2a4912616587d225a814] For the purposes of this Schedule, guidance of a particular kind is available at a particular time if at that time there is in existence published guidance of that kind.
+**27.**[^c-4dea2518a0f872e5ec83b7e8185308c1][^c-edfaf30ec39b2a4912616587d225a814] For the purposes of this Schedule, guidance of a particular kind is available at a particular time if at that time there is in existence published guidance of that kind.
 
-#### 28. Extension of three-month periods[^key-e9a3c9190199909e8ae29559dcbbcb3f][^key-bc94cbc85bc08a44ef807b60b5c90aef]
+#### 28. Extension of three-month periods[^c-e9a3c9190199909e8ae29559dcbbcb3f][^c-bc94cbc85bc08a44ef807b60b5c90aef]
 
 (1) This paragraph applies in relation to a time-limit of three months imposed by any provision of this Schedule for completing a CAA, a section 15(2) assessment or a particular kind of risk assessment.
 
@@ -284,114 +284,114 @@ In this Schedule—
 
 ## Annotations
 
-[^key-e080d3bf22ccd543877014a633a12614]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-e080d3bf22ccd543877014a633a12614]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-a414b8338cb89dc433b8db737db9d6dd]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/1) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-a414b8338cb89dc433b8db737db9d6dd]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/1) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-a944a2a93bbb183007da765eca3dd3d2]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-a944a2a93bbb183007da765eca3dd3d2]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-0125e438dae3e02d67a034d45802ffcd]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/2) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-0125e438dae3e02d67a034d45802ffcd]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/2) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-0bbd7ed2bca0db8021455b0d7c346d71]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-0bbd7ed2bca0db8021455b0d7c346d71]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-e4de6f92aff31bbc6c34b0032f763092]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/3) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-e4de6f92aff31bbc6c34b0032f763092]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/3) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-56b8817d0a223355cda045ca8ea5fdcb]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-56b8817d0a223355cda045ca8ea5fdcb]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-d9169dbab8b6cdfecc5f8e61f3e46782]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/4) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-d9169dbab8b6cdfecc5f8e61f3e46782]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/4) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-31a2bf8624876c6aad7cc2f4a446c36a]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-31a2bf8624876c6aad7cc2f4a446c36a]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-d3347292c6c78b23b2dde59d8f27adb0]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/5) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-d3347292c6c78b23b2dde59d8f27adb0]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/5) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-42afa0e40cd979628e1af1c1165f7a9f]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-42afa0e40cd979628e1af1c1165f7a9f]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-5df04fcd6d4acf8c8f8f93b478c9115a]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/6) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-5df04fcd6d4acf8c8f8f93b478c9115a]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/6) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-4c9ec79485457cba664e1cd3ba03d59f]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-4c9ec79485457cba664e1cd3ba03d59f]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-2ad5f28e40dab0917fd3b48e90765a3d]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/7) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-2ad5f28e40dab0917fd3b48e90765a3d]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/7) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-88ecf67be2848ca4221015a0791abad5]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-88ecf67be2848ca4221015a0791abad5]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-7f3f2093aad8d13370018b6cb21aeeee]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/8) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-7f3f2093aad8d13370018b6cb21aeeee]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/8) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-9335aa7798d3bf718e6ca8edec27f992]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-9335aa7798d3bf718e6ca8edec27f992]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-49d67e497fc9bc5f15070c361fb5505f]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/9) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-49d67e497fc9bc5f15070c361fb5505f]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/9) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-914b7192f502b88d8e005c166881acff]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-914b7192f502b88d8e005c166881acff]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-def4929003f01b8202eb88079aedd856]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/10) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-def4929003f01b8202eb88079aedd856]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/10) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-6af3914e1ccc44acb075bfa9df59604b]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-6af3914e1ccc44acb075bfa9df59604b]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-a21bbe78420fc1af585fdbbc77d0a4f0]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/11) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-a21bbe78420fc1af585fdbbc77d0a4f0]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/11) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-ce6debdd47f2374cce9de3638a37ad32]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-ce6debdd47f2374cce9de3638a37ad32]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-2c86a26b06461ba2a25819af79ec0a3f]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/12) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-2c86a26b06461ba2a25819af79ec0a3f]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/12) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-8c0b5eede61df0c2f52cd50cbbaea635]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-8c0b5eede61df0c2f52cd50cbbaea635]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-9d8f7725eaa752c44814612a6f5a720b]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/13) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-9d8f7725eaa752c44814612a6f5a720b]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/13) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-a087532a8918adaf8b24f55b370a3e58]: Commencement: Sch. 3 para. 14 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-a087532a8918adaf8b24f55b370a3e58]: Commencement: Sch. 3 para. 14 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-fbc4a1613b0618792bdf6815239f222d]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/14) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-fbc4a1613b0618792bdf6815239f222d]: Commencement: [Sch. 3 para. 14](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/14) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-f3804d98e9146a610e9b4c4d2268bea9]: Commencement: Sch. 3 para. 15 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-f3804d98e9146a610e9b4c4d2268bea9]: Commencement: Sch. 3 para. 15 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-dec316e2adef5315d8263d8a5e95d1e6]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/15) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-dec316e2adef5315d8263d8a5e95d1e6]: Commencement: [Sch. 3 para. 15](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/15) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-d305390e878f37919fa88684bf28046f]: Commencement: Sch. 3 para. 16 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-d305390e878f37919fa88684bf28046f]: Commencement: Sch. 3 para. 16 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-6ab2d7974221bde1d533a6cbad9d5ef1]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/16) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-6ab2d7974221bde1d533a6cbad9d5ef1]: Commencement: [Sch. 3 para. 16](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/16) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-5195a49a9cbf44d53412b3dacffa8f63]: Commencement: Sch. 3 para. 17 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-5195a49a9cbf44d53412b3dacffa8f63]: Commencement: Sch. 3 para. 17 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-831438d656b3d7f71a1a16e01ee6958c]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/17) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-831438d656b3d7f71a1a16e01ee6958c]: Commencement: [Sch. 3 para. 17](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/17) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-8ad06977b917e5f43ef75390a6c19316]: Commencement: Sch. 3 para. 18 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-8ad06977b917e5f43ef75390a6c19316]: Commencement: Sch. 3 para. 18 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-7cea268807035e680459a6f5dd00c0b5]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/18) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-7cea268807035e680459a6f5dd00c0b5]: Commencement: [Sch. 3 para. 18](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/18) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-62d8876e1e277e58a15f1158002800bb]: Commencement: Sch. 3 para. 19 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-62d8876e1e277e58a15f1158002800bb]: Commencement: Sch. 3 para. 19 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-eed65d8ebe48015dd641c408f65572ce]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/19) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-eed65d8ebe48015dd641c408f65572ce]: Commencement: [Sch. 3 para. 19](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/19) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-d47f82d0b18f2bbb701e6887180f5d60]: Commencement: Sch. 3 para. 20 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-d47f82d0b18f2bbb701e6887180f5d60]: Commencement: Sch. 3 para. 20 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-6a9744f644483bb333495c5de344c553]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/20) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-6a9744f644483bb333495c5de344c553]: Commencement: [Sch. 3 para. 20](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/20) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-8b3557719b5cb265c2fd41e1ece8a6f1]: Commencement: Sch. 3 para. 21 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-8b3557719b5cb265c2fd41e1ece8a6f1]: Commencement: Sch. 3 para. 21 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-e306d349e9b1cf5b71a961c9e5e3e4e2]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/21) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-e306d349e9b1cf5b71a961c9e5e3e4e2]: Commencement: [Sch. 3 para. 21](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/21) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-53c3b26e57f1fe6b8409fb0e2f1e09fb]: Commencement: Sch. 3 para. 22 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-53c3b26e57f1fe6b8409fb0e2f1e09fb]: Commencement: Sch. 3 para. 22 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-480f44c317fe15d1c623424f1dc20ddf]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/22) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-480f44c317fe15d1c623424f1dc20ddf]: Commencement: [Sch. 3 para. 22](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/22) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-c4766c3e16c6562b05cf4a232d157c49]: Commencement: Sch. 3 para. 23 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-c4766c3e16c6562b05cf4a232d157c49]: Commencement: Sch. 3 para. 23 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-b3be7069024a8fa5446d4e7d541252b0]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/23) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-b3be7069024a8fa5446d4e7d541252b0]: Commencement: [Sch. 3 para. 23](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/23) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-637abf26272551eaa1ebb677bac188ef]: Commencement: Sch. 3 para. 24 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-637abf26272551eaa1ebb677bac188ef]: Commencement: Sch. 3 para. 24 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-cec4bf067a796ba00c675cccb40da3eb]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/24) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-cec4bf067a796ba00c675cccb40da3eb]: Commencement: [Sch. 3 para. 24](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/24) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-00e855de13fbb398ed5faa499659908f]: Commencement: Sch. 3 para. 25 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-00e855de13fbb398ed5faa499659908f]: Commencement: Sch. 3 para. 25 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-b5d25d3e9432d5936d1271c0d6ca1a55]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/25) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-b5d25d3e9432d5936d1271c0d6ca1a55]: Commencement: [Sch. 3 para. 25](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/25) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-dabcd9e444652d1668f706c27a764d8b]: Commencement: Sch. 3 para. 26 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-dabcd9e444652d1668f706c27a764d8b]: Commencement: Sch. 3 para. 26 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-29e42081a03b5060db8c4596b9541e8f]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/26) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-29e42081a03b5060db8c4596b9541e8f]: Commencement: [Sch. 3 para. 26](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/26) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-4dea2518a0f872e5ec83b7e8185308c1]: Commencement: Sch. 3 para. 27 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-4dea2518a0f872e5ec83b7e8185308c1]: Commencement: Sch. 3 para. 27 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-edfaf30ec39b2a4912616587d225a814]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/27) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-edfaf30ec39b2a4912616587d225a814]: Commencement: [Sch. 3 para. 27](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/27) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
 
-[^key-e9a3c9190199909e8ae29559dcbbcb3f]: Commencement: Sch. 3 para. 28 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-e9a3c9190199909e8ae29559dcbbcb3f]: Commencement: Sch. 3 para. 28 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-bc94cbc85bc08a44ef807b60b5c90aef]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/28) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)
+[^c-bc94cbc85bc08a44ef807b60b5c90aef]: Commencement: [Sch. 3 para. 28](https://www.legislation.gov.uk/ukpga/2023/50/schedule/3/paragraph/28) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z35)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z35)

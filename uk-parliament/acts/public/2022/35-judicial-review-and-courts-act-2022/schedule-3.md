@@ -26,20 +26,20 @@ Section 19
 
 *Extent: E+W*
 
-#### 1. Power to give practice directions[^key-396964f6d968d2084b544b8960cb55cb][^key-3f60e2cf5a1136e14ae12f15a390ba43]
+#### 1. Power to give practice directions[^c-396964f6d968d2084b544b8960cb55cb][^c-3f60e2cf5a1136e14ae12f15a390ba43]
 
 Practice directions may be given in relation to—
 
 - (a) civil proceedings in England and Wales that are governed by Online Procedure Rules;
 - (b) family proceedings in England and Wales that are governed by Online Procedure Rules.
 
-#### 2. Contents of practice directions[^key-af5fd6ee9fb63aa21b56d1cf03c2a383][^key-f13f8b38a7315a5784e8a1117e038308]
+#### 2. Contents of practice directions[^c-af5fd6ee9fb63aa21b56d1cf03c2a383][^c-f13f8b38a7315a5784e8a1117e038308]
 
 (1) Practice directions under paragraph 1(a) may provide for any matter which may be provided for in Online Procedure Rules for civil proceedings in England and Wales.
 
 (2) Practice directions under paragraph 1(b) may provide for any matter which may be provided for in Online Procedure Rules for family proceedings in England and Wales.
 
-#### 3. Giving practice directions[^key-060c2a1ab0dc35e8e4bf6ce84d088c17][^key-285f18504a255fff6dcac279a4723719]
+#### 3. Giving practice directions[^c-060c2a1ab0dc35e8e4bf6ce84d088c17][^c-285f18504a255fff6dcac279a4723719]
 
 (1) Practice directions under paragraph 1 may be given in accordance with Part 1 of Schedule 2 to the Constitutional Reform Act 2005.
 
@@ -55,7 +55,7 @@ Practice directions may be given in relation to—
 
 (4) Sub-paragraph (2)(a) does not require the approval of the Lord Chancellor for practice directions to the extent that they consist of criteria for determining which judges may be allocated to hear particular categories of case; but the directions may, to that extent, be given only after consultation with the Lord Chancellor (as well as with the approval of the Lord Chief Justice required by sub-paragraph (2)(b)).
 
-#### 4. Particular provision in practice directions[^key-6210113826920cabe1e8e644cbdee84b][^key-be1de910b33d87c26f0ae67105df9350]
+#### 4. Particular provision in practice directions[^c-6210113826920cabe1e8e644cbdee84b][^c-be1de910b33d87c26f0ae67105df9350]
 
 The power under paragraph 1 to give practice directions includes power—
 
@@ -65,20 +65,20 @@ The power under paragraph 1 to give practice directions includes power—
 
 ### Part 2 — Proceedings in the First-tier Tribunal and Upper Tribunal
 
-#### 5. Power to give practice directions[^key-092316da54f066d0e52141d14dead570][^key-ed89f5065d1100f06ee60f9b46ceeaf9]
+#### 5. Power to give practice directions[^c-092316da54f066d0e52141d14dead570][^c-ed89f5065d1100f06ee60f9b46ceeaf9]
 
 Practice directions may be given in relation to—
 
 - (a) proceedings in the First-tier Tribunal that are governed by Online Procedure Rules;
 - (b) proceedings in the Upper Tribunal that are governed by Online Procedure Rules.
 
-#### 6. Contents of practice directions[^key-8247fc45e2e8f1f3e3ac2e38a670df9c][^key-dbe9b48af7ff790ef96ab97a01ae64ad]
+#### 6. Contents of practice directions[^c-8247fc45e2e8f1f3e3ac2e38a670df9c][^c-dbe9b48af7ff790ef96ab97a01ae64ad]
 
 (1) Practice directions under paragraph 5(a) may provide for any matter which may be provided for in Online Procedure Rules for proceedings in the First-tier Tribunal.
 
 (2) Practice directions under paragraph 5(b) may provide for any matter which may be provided for in Online Procedure Rules for proceedings in the Upper Tribunal.
 
-#### 7. Giving practice directions[^key-a298375c06843d87959158c111d7b89a][^key-75391de2375cfd118084bdf20c3a240f]
+#### 7. Giving practice directions[^c-a298375c06843d87959158c111d7b89a][^c-75391de2375cfd118084bdf20c3a240f]
 
 (1) The Senior President of Tribunals may give practice directions under paragraph 5 in relation to any proceedings.
 
@@ -98,7 +98,7 @@ Practice directions may be given in relation to—
 
 (6) Neither sub-paragraph (2) nor sub-paragraph (4)(a) requires the approval of the Lord Chancellor for practice directions to the extent that they consist of criteria for determining which members of the First-tier Tribunal or Upper Tribunal may be chosen to hear particular categories of case; but the directions may, to that extent, be given only after consultation with the Lord Chancellor (as well as with the approval of the Senior President of Tribunals if required by sub-paragraph (4)(b)).
 
-#### 8. Particular provision in practice directions[^key-72e3d798b550f327e97cf539385800ce][^key-3f234dfda4da8784061b42d733d1a7c2]
+#### 8. Particular provision in practice directions[^c-72e3d798b550f327e97cf539385800ce][^c-3f234dfda4da8784061b42d733d1a7c2]
 
 The power under paragraph 5 to give practice directions includes power—
 
@@ -109,20 +109,20 @@ The power under paragraph 5 to give practice directions includes power—
 
 *Extent: E+W+S*
 
-#### 9. Power to give practice directions[^key-271596b5057443aefb4c774ac6b2de16][^key-e5f95ea0f1f1b3d5e35a683648db85f7]
+#### 9. Power to give practice directions[^c-271596b5057443aefb4c774ac6b2de16][^c-e5f95ea0f1f1b3d5e35a683648db85f7]
 
 Practice directions may be given in relation to—
 
 - (a) proceedings in employment tribunals that are governed by Online Procedure Rules;
 - (b) proceedings in the Employment Appeal Tribunal that are governed by Online Procedure Rules.
 
-#### 10. Contents of practice directions[^key-390227cb97c16488c59e9994f4c590ce][^key-c6cdb4d103d95603e75f5e4e45a2b52d]
+#### 10. Contents of practice directions[^c-390227cb97c16488c59e9994f4c590ce][^c-c6cdb4d103d95603e75f5e4e45a2b52d]
 
 (1) Practice directions under paragraph 9(a) may provide for any matter which may be provided for in Online Procedure Rules for proceedings in employment tribunals.
 
 (2) Practice directions under paragraph 9(b) may provide for any matter which may be provided for in Online Procedure Rules for proceedings in the Employment Appeal Tribunal.
 
-#### 11. Giving practice directions[^key-acf93d1986dc1a9795265603b3eea7e1][^key-6339ee87b6fc4d1461fd290ba142d311]
+#### 11. Giving practice directions[^c-acf93d1986dc1a9795265603b3eea7e1][^c-6339ee87b6fc4d1461fd290ba142d311]
 
 (1) The Senior President of Tribunals may give practice directions under paragraph 9 in relation to any proceedings.
 
@@ -149,14 +149,14 @@ Practice directions may be given in relation to—
 - (a) President of Employment Tribunals (England and Wales), or
 - (b) President of Employment Tribunals (Scotland).
 
-#### 12. Particular provision in practice directions[^key-3584c3edfc858887ab3baea8d8df057e][^key-decf612034ab7e776fcc020a6fb666fc]
+#### 12. Particular provision in practice directions[^c-3584c3edfc858887ab3baea8d8df057e][^c-decf612034ab7e776fcc020a6fb666fc]
 
 The power under paragraph 9 to give practice directions includes power—
 
 - (a) to vary or revoke directions made in exercise of the power;
 - (b) to make different provision for different purposes (including different provision for different areas).
 
-#### 13. Practice directions relating to mediation[^key-26d05aa5d33aba8937d619570fe94c32][^key-872881130b574247e8beeee2ff50a008]
+#### 13. Practice directions relating to mediation[^c-26d05aa5d33aba8937d619570fe94c32][^c-872881130b574247e8beeee2ff50a008]
 
 (1) A person exercising the power under paragraph 9 must, when making provision in relation to mediation, have regard to the following principles—
 
@@ -181,54 +181,54 @@ The power under paragraph 9 to give practice directions includes power—
 
 ## Annotations
 
-[^key-396964f6d968d2084b544b8960cb55cb]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-396964f6d968d2084b544b8960cb55cb]: Commencement: Sch. 3 para. 1 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-3f60e2cf5a1136e14ae12f15a390ba43]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/1) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-3f60e2cf5a1136e14ae12f15a390ba43]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/1) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
 
-[^key-af5fd6ee9fb63aa21b56d1cf03c2a383]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-af5fd6ee9fb63aa21b56d1cf03c2a383]: Commencement: Sch. 3 para. 2 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-f13f8b38a7315a5784e8a1117e038308]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/2) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-f13f8b38a7315a5784e8a1117e038308]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/2) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
 
-[^key-060c2a1ab0dc35e8e4bf6ce84d088c17]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-060c2a1ab0dc35e8e4bf6ce84d088c17]: Commencement: Sch. 3 para. 3 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-285f18504a255fff6dcac279a4723719]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/3) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-285f18504a255fff6dcac279a4723719]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/3) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
 
-[^key-6210113826920cabe1e8e644cbdee84b]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-6210113826920cabe1e8e644cbdee84b]: Commencement: Sch. 3 para. 4 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-be1de910b33d87c26f0ae67105df9350]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/4) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-be1de910b33d87c26f0ae67105df9350]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/4) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
 
-[^key-092316da54f066d0e52141d14dead570]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-092316da54f066d0e52141d14dead570]: Commencement: Sch. 3 para. 5 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-ed89f5065d1100f06ee60f9b46ceeaf9]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/5) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-ed89f5065d1100f06ee60f9b46ceeaf9]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/5) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
 
-[^key-8247fc45e2e8f1f3e3ac2e38a670df9c]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-8247fc45e2e8f1f3e3ac2e38a670df9c]: Commencement: Sch. 3 para. 6 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-dbe9b48af7ff790ef96ab97a01ae64ad]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/6) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-dbe9b48af7ff790ef96ab97a01ae64ad]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/6) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
 
-[^key-a298375c06843d87959158c111d7b89a]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-a298375c06843d87959158c111d7b89a]: Commencement: Sch. 3 para. 7 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-75391de2375cfd118084bdf20c3a240f]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/7) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-75391de2375cfd118084bdf20c3a240f]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/7) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
 
-[^key-72e3d798b550f327e97cf539385800ce]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-72e3d798b550f327e97cf539385800ce]: Commencement: Sch. 3 para. 8 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-3f234dfda4da8784061b42d733d1a7c2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/8) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-3f234dfda4da8784061b42d733d1a7c2]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/8) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
 
-[^key-271596b5057443aefb4c774ac6b2de16]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-271596b5057443aefb4c774ac6b2de16]: Commencement: Sch. 3 para. 9 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-e5f95ea0f1f1b3d5e35a683648db85f7]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/9) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-e5f95ea0f1f1b3d5e35a683648db85f7]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/9) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
 
-[^key-390227cb97c16488c59e9994f4c590ce]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-390227cb97c16488c59e9994f4c590ce]: Commencement: Sch. 3 para. 10 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-c6cdb4d103d95603e75f5e4e45a2b52d]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/10) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-c6cdb4d103d95603e75f5e4e45a2b52d]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/10) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
 
-[^key-acf93d1986dc1a9795265603b3eea7e1]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-acf93d1986dc1a9795265603b3eea7e1]: Commencement: Sch. 3 para. 11 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-6339ee87b6fc4d1461fd290ba142d311]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/11) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-6339ee87b6fc4d1461fd290ba142d311]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/11) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
 
-[^key-3584c3edfc858887ab3baea8d8df057e]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-3584c3edfc858887ab3baea8d8df057e]: Commencement: Sch. 3 para. 12 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-decf612034ab7e776fcc020a6fb666fc]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/12) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-decf612034ab7e776fcc020a6fb666fc]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/12) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
 
-[^key-26d05aa5d33aba8937d619570fe94c32]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-26d05aa5d33aba8937d619570fe94c32]: Commencement: Sch. 3 para. 13 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-872881130b574247e8beeee2ff50a008]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/13) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)
+[^c-872881130b574247e8beeee2ff50a008]: Commencement: [Sch. 3 para. 13](https://www.legislation.gov.uk/ukpga/2022/35/schedule/3/paragraph/13) in force at 28.6.2023 by [S.I. 2023/631](https://www.legislation.gov.uk/uksi/2023/631), [reg. 2](https://www.legislation.gov.uk/uksi/2023/631/regulation/2)

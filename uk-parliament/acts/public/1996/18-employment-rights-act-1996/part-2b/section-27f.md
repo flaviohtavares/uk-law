@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27F. Independent troncs[^key-b14759f6ddb8da9225f7b42c2ae40831]
+## 27F. Independent troncs[^c-b14759f6ddb8da9225f7b42c2ae40831]
 
 *Extent: E+W+S*
 
@@ -73,4 +73,4 @@ the employer is to be treated as having ensured that that part of the total amou
 
 ## Annotations
 
-[^key-b14759f6ddb8da9225f7b42c2ae40831]: Textual amendment: S. 27F inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/13/section/3), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/c)
+[^c-b14759f6ddb8da9225f7b42c2ae40831]: Textual amendment: S. 27F inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/13/section/3), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/c)

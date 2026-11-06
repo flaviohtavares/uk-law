@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 80. Withholding of benefit[^key-b832a5e02d86315fd6940ef5246c3f8d]
+## 80. Withholding of benefit[^c-b832a5e02d86315fd6940ef5246c3f8d]
 
 *Extent: E+W+S*
 
@@ -26,15 +26,15 @@ summary: ''
 
 (3) Subject to paragraph (4), upon determination of a question to which paragraph (1) or (2) refers, any benefit withheld under those paragraphs shall be
 
-- (a)[^key-6802be22828e24f8c1277313d562f980] allowed to the person concerned by reducing, so far as possible, the next and any subsequent payments he is liable to make in respect of the personal community charge of the authority concerned as it has effect for the relevant chargeable financial year, until the benefit withheld is made good, or
+- (a)[^c-6802be22828e24f8c1277313d562f980] allowed to the person concerned by reducing, so far as possible, the next and any subsequent payments he is liable to make in respect of the personal community charge of the authority concerned as it has effect for the relevant chargeable financial year, until the benefit withheld is made good, or
 - (b) where this is not possible or the person concerned so requests, paid to that person within 14 days of the determination of that question or, if this is not reasonably practicable, as soon as possible afterwards, except to the extent that there was no entitlement to that benefit or recoverable excess benefits remain due from the person from whom the benefit was withheld
 
-(4) If the benefit withheld under paragraph (1) or (2) is in respect of any collective community charge contributions and the authority is satisfied that such contributions remain unpaid, upon determination of a question mentioned in those paragraphs the authority, with the consent of the person from whom the benefit was withheld, may allow,[^key-9b58148fc6af701d55ea5e15fb70bb39] or pay the withheld benefit to the person to whom the contributions are due, except to the extent that there was no entitlement to that benefit or recoverable excess benefits remain due from the person from whom the benefit was withheld.
+(4) If the benefit withheld under paragraph (1) or (2) is in respect of any collective community charge contributions and the authority is satisfied that such contributions remain unpaid, upon determination of a question mentioned in those paragraphs the authority, with the consent of the person from whom the benefit was withheld, may allow,[^c-9b58148fc6af701d55ea5e15fb70bb39] or pay the withheld benefit to the person to whom the contributions are due, except to the extent that there was no entitlement to that benefit or recoverable excess benefits remain due from the person from whom the benefit was withheld.
 
 ## Annotations
 
-[^key-b832a5e02d86315fd6940ef5246c3f8d]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/1989/1321/regulation/80) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
+[^c-b832a5e02d86315fd6940ef5246c3f8d]: Commencement: [Reg. 80](https://www.legislation.gov.uk/uksi/1989/1321/regulation/80) in force at 1.4.1990, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1321/regulation/1)
 
-[^key-6802be22828e24f8c1277313d562f980]: Textual amendment: Words in [reg. 80(3)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/80/3) substituted (1.4.1990) by [The Community Charge Benefits (General) Amendment Regulations 1990 (S.I. 1990/834)](https://www.legislation.gov.uk/uksi/1990/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/834/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/1990/834/regulation/23/a)
+[^c-6802be22828e24f8c1277313d562f980]: Textual amendment: Words in [reg. 80(3)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/80/3) substituted (1.4.1990) by [The Community Charge Benefits (General) Amendment Regulations 1990 (S.I. 1990/834)](https://www.legislation.gov.uk/uksi/1990/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/834/regulation/1/1), [23(a)](https://www.legislation.gov.uk/uksi/1990/834/regulation/23/a)
 
-[^key-9b58148fc6af701d55ea5e15fb70bb39]: Textual amendment: Words in [reg. 80(4)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/80/4) substituted (1.4.1990) by [The Community Charge Benefits (General) Amendment Regulations 1990 (S.I. 1990/834)](https://www.legislation.gov.uk/uksi/1990/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/834/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/1990/834/regulation/23/b)
+[^c-9b58148fc6af701d55ea5e15fb70bb39]: Textual amendment: Words in [reg. 80(4)](https://www.legislation.gov.uk/uksi/1989/1321/regulation/80/4) substituted (1.4.1990) by [The Community Charge Benefits (General) Amendment Regulations 1990 (S.I. 1990/834)](https://www.legislation.gov.uk/uksi/1990/834), [regs. 1(1)](https://www.legislation.gov.uk/uksi/1990/834/regulation/1/1), [23(b)](https://www.legislation.gov.uk/uksi/1990/834/regulation/23/b)

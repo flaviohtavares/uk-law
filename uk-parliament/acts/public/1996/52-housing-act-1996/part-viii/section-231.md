@@ -24,7 +24,7 @@ summary: ''
 
 (2) The following provisions also extend to Scotland—
 
-- Part IV (universal credit,[^key-7f5543a732f574acb2386986ce362737] housing benefit and related matters), and
+- Part IV (universal credit,[^c-7f5543a732f574acb2386986ce362737] housing benefit and related matters), and
 - the provisions of this Part so far as relating to Part IV.
 
 (3) Section 226 (power to make corresponding provision for Northern Ireland) also extends to Northern Ireland.
@@ -44,7 +44,7 @@ summary: ''
 
 ## Annotations
 
-[^key-7f5543a732f574acb2386986ce362737]: Textual amendment: Words in [s. 231(2)](https://www.legislation.gov.uk/ukpga/1996/52/section/231/2) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [12(6)](https://www.legislation.gov.uk/uksi/2013/630/regulation/12/6)
+[^c-7f5543a732f574acb2386986ce362737]: Textual amendment: Words in [s. 231(2)](https://www.legislation.gov.uk/ukpga/1996/52/section/231/2) inserted (29.4.2013) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations 2013 (S.I. 2013/630)](https://www.legislation.gov.uk/uksi/2013/630), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2013/630/regulation/1/2), [12(6)](https://www.legislation.gov.uk/uksi/2013/630/regulation/12/6)
 
 [^c13155081]: Marginal citation: [1993 c. 23](https://www.legislation.gov.uk/ukpga/1993/23).
 

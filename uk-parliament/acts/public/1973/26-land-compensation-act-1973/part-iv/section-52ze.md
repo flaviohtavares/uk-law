@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52ZE. Payment to mortgagee recoverable if notice to treat withdrawn[^key-502368d0be6647ace95459b93fc2e100]
+## 52ZE. Payment to mortgagee recoverable if notice to treat withdrawn[^c-502368d0be6647ace95459b93fc2e100]
 
 *Extent: E+W*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-502368d0be6647ace95459b93fc2e100]: Textual amendment: [S. 52ZE](https://www.legislation.gov.uk/ukpga/1973/26/section/52ZE) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 198](https://www.legislation.gov.uk/ukpga/2016/22/section/198), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))
+[^c-502368d0be6647ace95459b93fc2e100]: Textual amendment: [S. 52ZE](https://www.legislation.gov.uk/ukpga/1973/26/section/52ZE) inserted (6.4.2018) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [ss. 198](https://www.legislation.gov.uk/ukpga/2016/22/section/198), [216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3); [S.I. 2018/251](https://www.legislation.gov.uk/uksi/2018/251), [reg. 4(i)](https://www.legislation.gov.uk/uksi/2018/251/regulation/4/i) (with [reg. 6](https://www.legislation.gov.uk/uksi/2018/251/regulation/6))

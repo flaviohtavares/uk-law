@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Studies for improving economy, efficiency and effectiveness[^key-901fd7b5c2f5d980d9e44b1fefba6164]
+## 69. Studies for improving economy, efficiency and effectiveness[^c-901fd7b5c2f5d980d9e44b1fefba6164]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-901fd7b5c2f5d980d9e44b1fefba6164]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2017/29/section/69) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/g)
+[^c-901fd7b5c2f5d980d9e44b1fefba6164]: Commencement: [S. 69](https://www.legislation.gov.uk/ukpga/2017/29/section/69) in force at 1.8.2019 by [S.I. 2018/1226](https://www.legislation.gov.uk/uksi/2018/1226), [reg. 4(g)](https://www.legislation.gov.uk/uksi/2018/1226/regulation/4/g)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 98. Subordinate legislation: Scotland[^key-c1eb265acdc72d4f2931a0f9d2142132]
+## 98. Subordinate legislation: Scotland[^c-c1eb265acdc72d4f2931a0f9d2142132]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c1eb265acdc72d4f2931a0f9d2142132]: Commencement: S. 98 in force at 20.3.2006 by [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2)
+[^c-c1eb265acdc72d4f2931a0f9d2142132]: Commencement: S. 98 in force at 20.3.2006 by [S.S.I. 2006/101](https://www.legislation.gov.uk/ssi/2006/101), [art. 2](https://www.legislation.gov.uk/ssi/2006/101/article/2)

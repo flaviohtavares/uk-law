@@ -22,7 +22,7 @@ summary: ''
 
 (1) [^c21030371]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) The Scottish Ministers may, following submission of a proposal under subsection (7),[^key-032da35687e13da733bbf45fcabee4e0] by order establish courts of summary criminal jurisdiction to be known as justice of the peace courts.
+(2) The Scottish Ministers may, following submission of a proposal under subsection (7),[^c-032da35687e13da733bbf45fcabee4e0] by order establish courts of summary criminal jurisdiction to be known as justice of the peace courts.
 
 (3) JP courts are to be established by reference to a particular sheriff court district.
 
@@ -35,12 +35,12 @@ summary: ''
   - (i) other JP courts in the same sheriffdom,
   - (ii) the sheriff courts in that sheriffdom.
 
-(6) The Scottish Ministers may, following submission of a proposal under subsection (7),[^key-1b2348146e85aefa944f3020009af225] by order provide for—
+(6) The Scottish Ministers may, following submission of a proposal under subsection (7),[^c-1b2348146e85aefa944f3020009af225] by order provide for—
 
 - (a) the relocation of a JP court,
 - (b) the disestablishment of a JP court.
 
-(7)[^key-9a4d65d8422a74c05ff0142cd9a0c2dc] The Scottish Courts and Tribunals Service may, with the agreement of the Lord President, submit a proposal to the Scottish Ministers for the making of an order under subsection (2) or (6).
+(7)[^c-9a4d65d8422a74c05ff0142cd9a0c2dc] The Scottish Courts and Tribunals Service may, with the agreement of the Lord President, submit a proposal to the Scottish Ministers for the making of an order under subsection (2) or (6).
 
 (7A) Before submitting a proposal to the Scottish Ministers, the Scottish Courts and Tribunals Service must consult such persons as it considers appropriate.
 
@@ -68,14 +68,14 @@ summary: ''
 
 [^c21030371]: Textual amendment: S. 59(1) repealed (1.4.2010) by [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 57(2)(a)](https://www.legislation.gov.uk/asp/2008/6/section/57/2/a), [76](https://www.legislation.gov.uk/asp/2008/6/section/76); [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2](https://www.legislation.gov.uk/ssi/2010/39/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 
-[^key-032da35687e13da733bbf45fcabee4e0]: Textual amendment: Words in s. 59(2) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 127(2)](https://www.legislation.gov.uk/asp/2014/18/section/127/2), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-032da35687e13da733bbf45fcabee4e0]: Textual amendment: Words in s. 59(2) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 127(2)](https://www.legislation.gov.uk/asp/2014/18/section/127/2), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
 [^c21030391]: Textual amendment: Words in s. 59(4) substituted (1.4.2010) by [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 57(2)(b)](https://www.legislation.gov.uk/asp/2008/6/section/57/2/b), [76](https://www.legislation.gov.uk/asp/2008/6/section/76); [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2](https://www.legislation.gov.uk/ssi/2010/39/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 
 [^c21030411]: Textual amendment: Words in s. 59(5) substituted (1.4.2010) by [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 57(2)(c)](https://www.legislation.gov.uk/asp/2008/6/section/57/2/c), [76](https://www.legislation.gov.uk/asp/2008/6/section/76); [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2](https://www.legislation.gov.uk/ssi/2010/39/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)
 
-[^key-1b2348146e85aefa944f3020009af225]: Textual amendment: Words in s. 59(6) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 127(2)](https://www.legislation.gov.uk/asp/2014/18/section/127/2), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-1b2348146e85aefa944f3020009af225]: Textual amendment: Words in s. 59(6) inserted (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 127(2)](https://www.legislation.gov.uk/asp/2014/18/section/127/2), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
-[^key-9a4d65d8422a74c05ff0142cd9a0c2dc]: Textual amendment: S. 59(7)-(7C) substituted for s. 59(7)(7A) (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 127(3)](https://www.legislation.gov.uk/asp/2014/18/section/127/3), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-9a4d65d8422a74c05ff0142cd9a0c2dc]: Textual amendment: S. 59(7)-(7C) substituted for s. 59(7)(7A) (1.4.2015) by [Courts Reform (Scotland) Act 2014 (asp 18)](https://www.legislation.gov.uk/asp/2014/18), [ss. 127(3)](https://www.legislation.gov.uk/asp/2014/18/section/127/3), [138(2)](https://www.legislation.gov.uk/asp/2014/18/section/138/2); [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
 
 [^c21030451]: Textual amendment: S. 59(8)(a) and following word repealed (1.4.2010) by [Judiciary and Courts (Scotland) Act 2008 (asp 6)](https://www.legislation.gov.uk/asp/2008/6), [ss. 73](https://www.legislation.gov.uk/asp/2008/6/section/73), [76](https://www.legislation.gov.uk/asp/2008/6/section/76), [Sch. 5 para. 5(3)(a)](https://www.legislation.gov.uk/asp/2008/6/schedule/5/paragraph/5/3/a); [S.S.I. 2010/39](https://www.legislation.gov.uk/ssi/2010/39), [art. 2](https://www.legislation.gov.uk/ssi/2010/39/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2010/39/schedule)

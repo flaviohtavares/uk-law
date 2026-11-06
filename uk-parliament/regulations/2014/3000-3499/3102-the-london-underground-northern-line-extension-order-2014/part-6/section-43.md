@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Defence to proceedings in respect of statutory nuisance[^key-8e3ca248dea1ce98b063bbedf893bbf6]
+## 43. Defence to proceedings in respect of statutory nuisance[^c-8e3ca248dea1ce98b063bbedf893bbf6]
 
 *Extent: E+W+S*
 
@@ -36,7 +36,7 @@ do not apply where the consent relates to the use of premises by LUL for the pur
 
 ## Annotations
 
-[^key-8e3ca248dea1ce98b063bbedf893bbf6]: Commencement: Art. 43 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
+[^c-8e3ca248dea1ce98b063bbedf893bbf6]: Commencement: Art. 43 in force at 15.12.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/3102/article/1)
 
 [^f00048]: Footnote: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43). Section 82 was amended by section 5(2) of the Noise and Statutory Nuisance Act [1993 (c. 40)](https://www.legislation.gov.uk/ukpga/1993/40) and paragraph 6 of Schedule 17 to the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 

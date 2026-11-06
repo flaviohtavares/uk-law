@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 11 — Electronic communication[^key-60f523b58de279b7253ba0c35b1f1bf1][^key-8467fbf80c756d314dffc398d129a4b7]
+## SCHEDULE 11 — Electronic communication[^c-60f523b58de279b7253ba0c35b1f1bf1][^c-8467fbf80c756d314dffc398d129a4b7]
 
 *Extent: N.I.*
 
@@ -95,6 +95,6 @@ If it is necessary to prove, for the purpose of any legal proceedings, the conte
 
 ## Annotations
 
-[^key-60f523b58de279b7253ba0c35b1f1bf1]: Modification: [Sch. 11](https://www.legislation.gov.uk/nisr/2006/405/schedule/11) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [26(2)](https://www.legislation.gov.uk/nisr/2007/204/regulation/26/2)
+[^c-60f523b58de279b7253ba0c35b1f1bf1]: Modification: [Sch. 11](https://www.legislation.gov.uk/nisr/2006/405/schedule/11) applied (with modifications) (1.4.2007) by [The Rate Relief (General) Regulations (Northern Ireland) 2007 (S.R. 2007/204)](https://www.legislation.gov.uk/nisr/2007/204), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2007/204/regulation/1/1), [26(2)](https://www.legislation.gov.uk/nisr/2007/204/regulation/26/2)
 
-[^key-8467fbf80c756d314dffc398d129a4b7]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/nisr/2006/405/schedule/11) added (20.12.2006) by [The Housing Benefit (Electronic Communications) Order (Northern Ireland) 2006 (S.R. 2006/463)](https://www.legislation.gov.uk/nisr/2006/463), [arts. 1](https://www.legislation.gov.uk/nisr/2006/463/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2006/463/article/2/5), [Sch.](https://www.legislation.gov.uk/nisr/2006/463/schedule)
+[^c-8467fbf80c756d314dffc398d129a4b7]: Textual amendment: [Sch. 11](https://www.legislation.gov.uk/nisr/2006/405/schedule/11) added (20.12.2006) by [The Housing Benefit (Electronic Communications) Order (Northern Ireland) 2006 (S.R. 2006/463)](https://www.legislation.gov.uk/nisr/2006/463), [arts. 1](https://www.legislation.gov.uk/nisr/2006/463/article/1), [2(5)](https://www.legislation.gov.uk/nisr/2006/463/article/2/5), [Sch.](https://www.legislation.gov.uk/nisr/2006/463/schedule)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**50.**[^key-1a89be605677723750e1c17ecdb12a13] Supplies shall not be regarded as exempt renewable supplies for the purposes of paragraph 19 of the Act unless—
+**50.**[^c-1a89be605677723750e1c17ecdb12a13] Supplies shall not be regarded as exempt renewable supplies for the purposes of paragraph 19 of the Act unless—
 
 - (a) the supplier provides the recipient with a written notice for the duration of the renewable source contract, updated as necessary, setting out how to identify those supplies of electricity that—
   - (i) are or will be made under the renewable source contract, and
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a89be605677723750e1c17ecdb12a13]: Commencement: Reg. 50 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)
+[^c-1a89be605677723750e1c17ecdb12a13]: Commencement: Reg. 50 in force at 1.4.2001, see [reg. 1](https://www.legislation.gov.uk/uksi/2001/838/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 78. Rights of certain persons to attend children's hearing[^key-da190d46d2b0c42878c3005fc316363a]
+## 78. Rights of certain persons to attend children's hearing[^c-da190d46d2b0c42878c3005fc316363a]
 
 *Extent: S*
 
@@ -28,7 +28,7 @@ summary: ''
 - (d) a person representing a relevant person in relation to the child (unless that person is excluded under section 77(2)),
 - (e) the Principal Reporter,
 - (f) if a safeguarder is appointed under this Act in relation to the child, the safeguarder,
-- (g)[^key-149a059eeecfd768167ab3a2ea43f473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (g)[^c-149a059eeecfd768167ab3a2ea43f473] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (h) a member of an area support team (acting in that person's capacity as such),
 - (i) subject to subsection (5), a representative of a newspaper or news agency.
 
@@ -49,12 +49,12 @@ summary: ''
 
 (6) Where a person is excluded under subsection (5), after the exclusion has ended, the chairing member may explain to the person, where appropriate to do so, the substance of what has taken place in the person's absence.
 
-(7)[^key-5c09bc37286e338fde1d1ee86ec3a05b] In this section “children’s hearing” includes a pre-hearing panel.
+(7)[^c-5c09bc37286e338fde1d1ee86ec3a05b] In this section “children’s hearing” includes a pre-hearing panel.
 
 ## Annotations
 
-[^key-da190d46d2b0c42878c3005fc316363a]: Commencement: S. 78 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-da190d46d2b0c42878c3005fc316363a]: Commencement: S. 78 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
 
-[^key-149a059eeecfd768167ab3a2ea43f473]: Textual amendment: S. 78(1)(g) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/42)
+[^c-149a059eeecfd768167ab3a2ea43f473]: Textual amendment: S. 78(1)(g) omitted (19.9.2013) by virtue of [The Public Bodies (Abolition of Administrative Justice and Tribunals Council) Order 2013 (S.I. 2013/2042)](https://www.legislation.gov.uk/uksi/2013/2042), [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2013/2042/schedule/paragraph/42)
 
-[^key-5c09bc37286e338fde1d1ee86ec3a05b]: Textual amendment: S. 78(7) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(9)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/9)
+[^c-5c09bc37286e338fde1d1ee86ec3a05b]: Textual amendment: S. 78(7) inserted (24.6.2013) by [The Children's Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 1 para. 20(9)](https://www.legislation.gov.uk/ssi/2013/211/schedule/1/paragraph/20/9)

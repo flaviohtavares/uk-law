@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 23. Duration of approval[^key-1ee44b6e76dd6dea7dfa1cc040b67b68]
+## 23. Duration of approval[^c-1ee44b6e76dd6dea7dfa1cc040b67b68]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1ee44b6e76dd6dea7dfa1cc040b67b68]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2015/5/section/23) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))
+[^c-1ee44b6e76dd6dea7dfa1cc040b67b68]: Commencement: [S. 23](https://www.legislation.gov.uk/anaw/2015/5/section/23) in force at 21.9.2015 by [S.I. 2015/1687](https://www.legislation.gov.uk/wsi/2015/1687), [art. 2](https://www.legislation.gov.uk/wsi/2015/1687/article/2) (with [arts. 3-12](https://www.legislation.gov.uk/wsi/2015/1687/article/3))

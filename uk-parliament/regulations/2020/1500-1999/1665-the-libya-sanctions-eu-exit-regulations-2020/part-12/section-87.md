@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Transitional provision: trade licences[^key-37e47747c6938f3a67999ff7ea815f53]
+## 87. Transitional provision: trade licences[^c-37e47747c6938f3a67999ff7ea815f53]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ and such a licence or authorisation is referred to in this regulation as “**an
 
 ## Annotations
 
-[^key-37e47747c6938f3a67999ff7ea815f53]: Commencement: Reg. 87 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)
+[^c-37e47747c6938f3a67999ff7ea815f53]: Commencement: Reg. 87 in force at 31.12.2020 on IP completion day, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1665/regulation/1/3)

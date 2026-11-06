@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Short title[^key-9073685494b7e53934c6b821c98d3934]
+## 73. Short title[^c-9073685494b7e53934c6b821c98d3934]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The short title of this Act is the Elections and Elected Bodies (Wales) Act 2024
 
 ## Annotations
 
-[^key-9073685494b7e53934c6b821c98d3934]: Commencement: S. 73 in force at 10.9.2024, see [s. 72(1)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/d)
+[^c-9073685494b7e53934c6b821c98d3934]: Commencement: S. 73 in force at 10.9.2024, see [s. 72(1)(d)](https://www.legislation.gov.uk/asc/2024/5/section/72/1/d)

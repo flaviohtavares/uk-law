@@ -27,7 +27,7 @@ summary: ''
 - (a) an individual disposes of shares (“the new shares”), and
 - (b) the new shares are, by virtue of section 127 of TCGA 1992 (reorganisation etc treated as not involving disposal), identified with other shares (“the old shares”) previously held by the individual,
 
-the individual is not eligible for share loss relief on the disposal of the new shares unless condition A or B[^key-64be4182e3f90dc98fe4df31df5a793e] is met.
+the individual is not eligible for share loss relief on the disposal of the new shares unless condition A or B[^c-64be4182e3f90dc98fe4df31df5a793e] is met.
 
 This is subject to section 145(3).
 
@@ -42,4 +42,4 @@ This is subject to section 145(3).
 
 ## Annotations
 
-[^key-64be4182e3f90dc98fe4df31df5a793e]: Textual amendment: Words in s. 136(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 496](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/496) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))
+[^c-64be4182e3f90dc98fe4df31df5a793e]: Textual amendment: Words in s. 136(2) substituted (with effect in accordance with s. 1184(1) of the amending Act) by [Corporation Tax Act 2010 (c. 4)](https://www.legislation.gov.uk/ukpga/2010/4), [s. 1184(1)](https://www.legislation.gov.uk/ukpga/2010/4/section/1184/1), [Sch. 1 para. 496](https://www.legislation.gov.uk/ukpga/2010/4/schedule/1/paragraph/496) (with [Sch. 2](https://www.legislation.gov.uk/ukpga/2010/4/schedule/2))

@@ -46,7 +46,7 @@ In accordance with section 16C(4) of that Act they have consulted such persons a
 
 In accordance with section 59(3)(ad) [^c24453441] of that Act a draft of this instrument has been laid before and approved by resolution of the Scottish Parliament.
 
-## 1. Citation, commencement and interpretation[^key-59f9557444934e028bb51f8306f8ca19]
+## 1. Citation, commencement and interpretation[^c-59f9557444934e028bb51f8306f8ca19]
 
 (1) These Regulations may be cited as the Human Tissue (Authorisation) (Specified Type B Procedures) (Scotland) Regulations 2021 and come into force on the day on which section 23 of the Human Tissue (Authorisation) (Scotland) Act 2019 [^c24453451] comes into force for all purposes.
 
@@ -55,11 +55,11 @@ In accordance with section 59(3)(ad) [^c24453441] of that Act a draft of this in
 - “**the 2006 Act**” means the Human Tissue (Scotland) Act 2006,
 - “**relevant time**” has the same meaning as in section 16K(2) of the 2006 Act.
 
-## 2. Type B Procedures[^key-8111457a40807fdbe7e9b0a2c07de715]
+## 2. Type B Procedures[^c-8111457a40807fdbe7e9b0a2c07de715]
 
 The pre-death procedures specified in the second column of the table in the schedule are specified as Type B procedures for the purposes of sections 16D and 16E of the 2006 Act [^c24453461].
 
-## 3. Circumstances in which Type B procedures may be carried out[^key-c0422bff85859a173ad50884da29108a]
+## 3. Circumstances in which Type B procedures may be carried out[^c-c0422bff85859a173ad50884da29108a]
 
 (1) A Type B procedure may be carried out only if—
 
@@ -78,7 +78,7 @@ The pre-death procedures specified in the second column of the table in the sche
 
 (4) The views of the registered medical practitioners referred to in paragraph (1)(a) must be recorded in writing.
 
-## 4. Authorisation of Type B procedures[^key-c2ae90ad33c6f49cc125467bed36eac1]
+## 4. Authorisation of Type B procedures[^c-c2ae90ad33c6f49cc125467bed36eac1]
 
 (1) The carrying out of a Type B procedure is authorised in relation to a person (“A”) if—
 
@@ -115,7 +115,7 @@ St Andrew's House,
 
 Edinburgh
 
-## SCHEDULE — Specification of Pre-Death Procedures[^key-07f7a6c4cd555d7cd6368bbbdbae4142]
+## SCHEDULE — Specification of Pre-Death Procedures[^c-07f7a6c4cd555d7cd6368bbbdbae4142]
 
 Regulation 2
 
@@ -153,16 +153,16 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^c24453441]: Marginal citation: [Section 59(3)(ad)](https://www.legislation.gov.uk/ssi/2021/110/section/59/3/ad) was inserted by section 23(2) of the 2019 Act.
 
-[^key-59f9557444934e028bb51f8306f8ca19]: Commencement: Reg. 1 in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-59f9557444934e028bb51f8306f8ca19]: Commencement: Reg. 1 in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
 [^c24453451]: Marginal citation: [2019 asp 11](https://www.legislation.gov.uk/asp/2019/11).
 
-[^key-8111457a40807fdbe7e9b0a2c07de715]: Commencement: Reg. 2 in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-8111457a40807fdbe7e9b0a2c07de715]: Commencement: Reg. 2 in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
 [^c24453461]: Marginal citation: Sections 16D and 16E were inserted by section 23(1) of the 2019 Act.
 
-[^key-c0422bff85859a173ad50884da29108a]: Commencement: Reg. 3 in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-c0422bff85859a173ad50884da29108a]: Commencement: Reg. 3 in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-c2ae90ad33c6f49cc125467bed36eac1]: Commencement: Reg. 4 in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-c2ae90ad33c6f49cc125467bed36eac1]: Commencement: Reg. 4 in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
 
-[^key-07f7a6c4cd555d7cd6368bbbdbae4142]: Commencement: Sch. in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)
+[^c-07f7a6c4cd555d7cd6368bbbdbae4142]: Commencement: Sch. in force at 26.3.2021, see reg. 1(1); [S.S.I. 2021/108](https://www.legislation.gov.uk/ssi/2021/108), [reg. 2](https://www.legislation.gov.uk/ssi/2021/108/regulation/2)

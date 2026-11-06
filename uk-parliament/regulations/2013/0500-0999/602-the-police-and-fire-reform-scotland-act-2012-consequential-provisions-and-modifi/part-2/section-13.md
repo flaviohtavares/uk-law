@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 13. Provision of goods and services[^key-fc8183bd16f99ebf45f2ac0f767f1b63]
+## 13. Provision of goods and services[^c-fc8183bd16f99ebf45f2ac0f767f1b63]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The functions conferred by subsections (1), (3) and (5) of section 87 of the 201
 
 ## Annotations
 
-[^key-fc8183bd16f99ebf45f2ac0f767f1b63]: Commencement: Art. 13 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)
+[^c-fc8183bd16f99ebf45f2ac0f767f1b63]: Commencement: Art. 13 in force at 1.4.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/602/article/1/2)

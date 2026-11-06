@@ -34,7 +34,7 @@ summary: ''
 - N is the amount which is the notional principal amount in the case of the derivative contract, and
 - R% is the percentage change (if any) in the capital value index over the relevant period.
 
-(4A)[^key-cf59079b139c3ed873a83325ccd5fd13] But if the derivative contract has effect such that the return arising from the contract, so far as calculated by reference to that index, is calculated by reference to a percentage (“the capped percentage”) which is closer to zero than the full percentage change in that index over that period (or which is zero even though there has been a change in that index), for the purposes of subsection (4) R% is the capped percentage.
+(4A)[^c-cf59079b139c3ed873a83325ccd5fd13] But if the derivative contract has effect such that the return arising from the contract, so far as calculated by reference to that index, is calculated by reference to a percentage (“the capped percentage”) which is closer to zero than the full percentage change in that index over that period (or which is zero even though there has been a change in that index), for the purposes of subsection (4) R% is the capped percentage.
 
 (5) In subsection (4) “**the relevant period**” means—
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf59079b139c3ed873a83325ccd5fd13]: Textual amendment: S. 659(4A) inserted (with effect in accordance with s. 41(5)(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/41/4)
+[^c-cf59079b139c3ed873a83325ccd5fd13]: Textual amendment: S. 659(4A) inserted (with effect in accordance with s. 41(5)(6) of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [s. 41(4)](https://www.legislation.gov.uk/ukpga/2013/29/section/41/4)

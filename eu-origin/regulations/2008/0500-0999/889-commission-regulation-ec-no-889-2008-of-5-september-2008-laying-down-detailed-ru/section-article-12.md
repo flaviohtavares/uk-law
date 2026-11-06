@@ -53,8 +53,8 @@ summary: ''
 - (h) 140 days for male turkeys and roasting geese and
 - (i) 100 days for female turkeys.
 
-The competent authority shall define the criteria of slow-growing strains [^key-8552065241b9ea2cd098fdcbe283065a]....
+The competent authority shall define the criteria of slow-growing strains [^c-8552065241b9ea2cd098fdcbe283065a]....
 
 ## Annotations
 
-[^key-8552065241b9ea2cd098fdcbe283065a]: Textual amendment: Words in [Art. 12(5)](https://www.legislation.gov.uk/eur/2008/889/article/12/5) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8552065241b9ea2cd098fdcbe283065a]: Textual amendment: Words in [Art. 12(5)](https://www.legislation.gov.uk/eur/2008/889/article/12/5) omitted (31.12.2020) by virtue of [The Organic Production and Control (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/693)](https://www.legislation.gov.uk/uksi/2019/693), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/693/regulation/1/2), [3(6)](https://www.legislation.gov.uk/uksi/2019/693/regulation/3/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

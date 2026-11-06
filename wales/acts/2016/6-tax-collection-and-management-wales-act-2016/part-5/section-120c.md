@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 120C. Expiry of penalty points[^key-91039e39d9c8dc8a070ffd4c9e563c40]
+## 120C. Expiry of penalty points[^c-91039e39d9c8dc8a070ffd4c9e563c40]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91039e39d9c8dc8a070ffd4c9e563c40]: Textual amendment: [Ss. 120A-120H](https://www.legislation.gov.uk/anaw/2016/6/section/120A) and cross-headings inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 42](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/42)
+[^c-91039e39d9c8dc8a070ffd4c9e563c40]: Textual amendment: [Ss. 120A-120H](https://www.legislation.gov.uk/anaw/2016/6/section/120A) and cross-headings inserted (19.9.2025) by [Visitor Accommodation (Register and Levy) Etc. (Wales) Act 2025 (asc 5)](https://www.legislation.gov.uk/asc/2025/5), [s. 67(1)](https://www.legislation.gov.uk/asc/2025/5/section/67/1), [Sch. 2 para. 42](https://www.legislation.gov.uk/asc/2025/5/schedule/2/paragraph/42)

@@ -32,9 +32,9 @@ Section 29
 
 (2) In sub-paragraph (2) (claims to which Part 8, 9 or 9A of Schedule 18 applies) for “R&D tax credit” substitute “ R&D tax relief ”.
 
-(3)[^key-dc44cce450e84bffb56c0c100ba2f68a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-dc44cce450e84bffb56c0c100ba2f68a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-dc44cce450e84bffb56c0c100ba2f68a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-dc44cce450e84bffb56c0c100ba2f68a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Claims for R&D tax relief
 
@@ -51,15 +51,15 @@ Section 29
 
 ### Claims for relief under Schedule 12 to FA 2002
 
-**6.**[^key-b1312b70c57a549a9f440ef27f743d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-b1312b70c57a549a9f440ef27f743d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Claims for relief under Schedule 13 to FA 2002
 
-**7.**[^key-b1312b70c57a549a9f440ef27f743d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-b1312b70c57a549a9f440ef27f743d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-b1312b70c57a549a9f440ef27f743d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-b1312b70c57a549a9f440ef27f743d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-b1312b70c57a549a9f440ef27f743d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-b1312b70c57a549a9f440ef27f743d44] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Commencement and transitional provision
 
@@ -80,6 +80,6 @@ Section 29
 
 ## Annotations
 
-[^key-dc44cce450e84bffb56c0c100ba2f68a]: Textual amendment: Sch. 3 para. 2(3) (4) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-dc44cce450e84bffb56c0c100ba2f68a]: Textual amendment: Sch. 3 para. 2(3) (4) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
 
-[^key-b1312b70c57a549a9f440ef27f743d44]: Textual amendment: [Sch. 3 paras. 6-9](https://www.legislation.gov.uk/ukpga/2006/25/schedule/3/paragraph/6) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))
+[^c-b1312b70c57a549a9f440ef27f743d44]: Textual amendment: [Sch. 3 paras. 6-9](https://www.legislation.gov.uk/ukpga/2006/25/schedule/3/paragraph/6) repealed (with effect in accordance with s. 1329(1) of the amending Act) by [Corporation Tax Act 2009 (c. 4)](https://www.legislation.gov.uk/ukpga/2009/4), [s. 1329(1)](https://www.legislation.gov.uk/ukpga/2009/4/section/1329/1), [Sch. 3 Pt. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/3/part/1) (with [Sch. 2 Pts. 1](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/1), [2](https://www.legislation.gov.uk/ukpga/2009/4/schedule/2/part/2))

@@ -66,7 +66,7 @@ The Scottish Ministers, in exercise of the powers conferred by section 2(2) of t
 
 In paragraph 4(1)(c)(iii) of the Schedule to the Environmental Protection (Prescribed Processes and Substances etc.) (Amendment) (Petrol Vapour Recovery) Regulations 1996 [^c5378171] for “in any other case” substitute “ where the largest total annual quantity of petrol loaded into stationary storage tanks at the service station during the three preceding years is 500m3 ”.
 
-## 4. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^key-aec5b1b2880feea338eabb6f358e509d]
+## 4. Amendment of the Pollution Prevention and Control (Scotland) Regulations 2000[^c-aec5b1b2880feea338eabb6f358e509d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -100,4 +100,4 @@ A Regulatory Impact Assessment covering these regulations is available from Air,
 
 [^c5378171]: Marginal citation: [S.I. 1996/2678](https://www.legislation.gov.uk/uksi/1996/2678).
 
-[^key-aec5b1b2880feea338eabb6f358e509d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2004/512/regulation/4) revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))
+[^c-aec5b1b2880feea338eabb6f358e509d]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/ssi/2004/512/regulation/4) revoked (7.1.2013) by [The Pollution Prevention and Control (Scotland) Regulations2012 (S.S.I. 2012/360)](https://www.legislation.gov.uk/ssi/2012/360), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2012/360/regulation/1/2), [sch. 12](https://www.legislation.gov.uk/ssi/2012/360/schedule/12) (with [reg. 71](https://www.legislation.gov.uk/ssi/2012/360/regulation/71))

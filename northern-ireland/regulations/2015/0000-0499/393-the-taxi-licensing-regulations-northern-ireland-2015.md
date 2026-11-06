@@ -59,10 +59,10 @@ The Department of the Environment makes the following Regulations in exercise of
 - “**the 2011 Act**” means the Transport Act (Northern Ireland) 2011 [^c22617491];
 - “**approved M1 vehicle**” means a vehicle which is issued with—
   - (a) an EC certificate of conformity under Directive [2007/46/EC](https://www.legislation.gov.uk/eudr/2007/46) [^c22617501];
-  - (aa) an EU certificate of conformity under Regulation (EU) 2018/858;[^key-c1ae4724a8968bb20b4b5a5c029b255e]
+  - (aa) an EU certificate of conformity under Regulation (EU) 2018/858;[^c-c1ae4724a8968bb20b4b5a5c029b255e]
   - (b) a certificate of conformity in compliance with regulations made under the 1981 Order or the 1988 Act;
   - (c) a single vehicle approval certificate in compliance with regulations made under the 1981 Order or the 1988 Act; or
-  - (d) an individual vehicle approval certificate in compliance with the Road Vehicles (Approval) Regulations 2009 or the Road Vehicles (Approval) Regulations 2020[^key-ce229cb541d18f5e989602df7cd3e16c] [^c22617511];
+  - (d) an individual vehicle approval certificate in compliance with the Road Vehicles (Approval) Regulations 2009 or the Road Vehicles (Approval) Regulations 2020[^c-ce229cb541d18f5e989602df7cd3e16c] [^c22617511];
 - “**boarding lift**” means a lift fitted to a taxi for the purposes of allowing wheelchair users to board and alight from the vehicle;
 - “**boarding ramp**” means a ramp fitted to a taxi for the purposes of allowing wheelchair users to board and alight from the vehicle;
 - “**centre**” means a centre provided and maintained by the Department under Article 73 of the 1995 Order;
@@ -78,7 +78,7 @@ The Department of the Environment makes the following Regulations in exercise of
 - “**portable ramp**” means a ramp which is carried on a taxi for the purposes of allowing wheelchair users to board and alight from the vehicle;
 - “**public service vehicle licence**” means a licence granted under Article 61(1) of the 1981 Order;
 - “the Public Service Vehicles Regulations” mean the Public Service Vehicles Regulations (Northern Ireland) 1985 [^c22617541];
-- “Regulation (EU) 2018/858” means Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles;[^key-b7dd5b26a2e91c89537a011cc59b82ba]
+- “Regulation (EU) 2018/858” means Regulation (EU) 2018/858 of the European Parliament and of the Council of 30 May 2018 on the approval and market surveillance of motor vehicles and their trailers, and of systems, components and separate technical units intended for such vehicles;[^c-b7dd5b26a2e91c89537a011cc59b82ba]
 - “**the Taximeters Regulations**” means the Taxis (Taximeters, Devices and Maximum Fares) Regulations (Northern Ireland) 2015 [^c22617551];
 - “**the Taxi Operators Licensing Regulations**” means the Taxi Operators Licensing Regulations (Northern Ireland) 2012 [^c22617561]; and
 - “**tour service**” has the same meaning as in regulation 2 of the Taxi Operators Licensing Regulations [^c22617571].
@@ -93,15 +93,15 @@ The Department of the Environment makes the following Regulations in exercise of
 
 The owner of a taxi shall, on making an application for a taxi licence under section 13(1) of the Act (taxi licences), pay to the Department the appropriate fee specified in column (2) of Schedule 1.
 
-### 3A. Automatic renewal of licences[^key-4e608c7903591698f1c1f397a2fb6ca5]
+### 3A. Automatic renewal of licences[^c-4e608c7903591698f1c1f397a2fb6ca5]
 
-(1)[^key-fac6b658c89a95c819115bab241cfe83] Paragraph (2) applies where a taxi licence granted in respect of a taxi before 10<sup>th</sup> October 2020 has expired in the period beginning with 9<sup>th</sup> March 2020 and ending with 31<sup>st</sup> May 2021.
+(1)[^c-fac6b658c89a95c819115bab241cfe83] Paragraph (2) applies where a taxi licence granted in respect of a taxi before 10<sup>th</sup> October 2020 has expired in the period beginning with 9<sup>th</sup> March 2020 and ending with 31<sup>st</sup> May 2021.
 
 (2) The Department may grant a taxi licence in respect of the taxi (an “automatic renewal licence”) as if—
 
 - (a) an application had been made for a taxi licence in respect of the taxi;
 - (b) the licence applied for were of the same Class as the licence mentioned in paragraph (1); and
-- (c) the Department were satisfied as required by section 13(3)(b) of the Act and regulation 7(1) or (2). ,[^key-a768a39f848bf67bdb329e67e68c07e9]
+- (c) the Department were satisfied as required by section 13(3)(b) of the Act and regulation 7(1) or (2). ,[^c-a768a39f848bf67bdb329e67e68c07e9]
 
 provided that the aggregate period for which any consecutive automatic renewal licences are granted shall not exceed 12 months for any taxi
 
@@ -111,7 +111,7 @@ provided that the aggregate period for which any consecutive automatic renewal l
 
 ### 4. Inspection of taxi
 
-(1) On notification by the Department, the applicant shall[^key-ce28c111882eb536d595a1144daa85fd] present the taxi for inspection and testing by a vehicle examiner at the time and centre specified in the notice, together with the—
+(1) On notification by the Department, the applicant shall[^c-ce28c111882eb536d595a1144daa85fd] present the taxi for inspection and testing by a vehicle examiner at the time and centre specified in the notice, together with the—
 
 - (a) registration document;
 - (b) most recent licence, plate or sign, if any; and
@@ -212,7 +212,7 @@ it shall grant a licence.
 
 ### 9. Further application for a taxi licence within 21 days of refusal[^M_F_dcdeb6d3-65d7-4194-a7f0-ae966c86408f]
 
-(1)[^key-6daab595bfdf09f95b0ebb5297d7e91f] Where an applicant is notified in accordance with regulation 7(4), the applicant may make a further application for a taxi licence within 21 days from and including the date of notification.
+(1)[^c-6daab595bfdf09f95b0ebb5297d7e91f] Where an applicant is notified in accordance with regulation 7(4), the applicant may make a further application for a taxi licence within 21 days from and including the date of notification.
 
 (1A) Where a further application is made in accordance with paragraph (1) the taxi must be presented for a further inspection no later than 60 days from and including the date of notification on a date and at a time appointed by the Department.
 
@@ -370,7 +370,7 @@ The exhaust system of every taxi shall be so fitted or shielded that no flammabl
 
 ### 22. Luggage
 
-(1) Subject to paragraph (2), provision shall be made for the carriage of baggage of at least 80 litres capacity. This shall[^key-d6845ca2ef34650a2d393bcfec5009c7] be provided separately from the carriage of passengers, and be properly secured to ensure that there is no risk to passenger safety.
+(1) Subject to paragraph (2), provision shall be made for the carriage of baggage of at least 80 litres capacity. This shall[^c-d6845ca2ef34650a2d393bcfec5009c7] be provided separately from the carriage of passengers, and be properly secured to ensure that there is no risk to passenger safety.
 
 (2) Paragraph (1) shall not apply where an application is in respect of a Class C taxi licence.
 
@@ -378,7 +378,7 @@ The exhaust system of every taxi shall be so fitted or shielded that no flammabl
 
 ### 23. Fire extinguishers
 
-(1) Every taxi shall be fitted with suitable and efficient fire extinguishing apparatus which is of the type[^key-a1837b5e530c8873029530d84ff868aa] specified in Schedule 4.
+(1) Every taxi shall be fitted with suitable and efficient fire extinguishing apparatus which is of the type[^c-a1837b5e530c8873029530d84ff868aa] specified in Schedule 4.
 
 (2) The apparatus referred to in paragraph (1) shall be—
 
@@ -389,12 +389,12 @@ The exhaust system of every taxi shall be so fitted or shielded that no flammabl
 (3) Paragraph (1) shall not apply to a taxi if it carries apparatus for extinguishing fire which would meet the requirements of that paragraph were there substituted—
 
 - (a) for a reference in Schedule 4 to any British Standard, a reference to a corresponding standard;
-- (b) for the reference in Schedule 4 to a test fire rating of 8A or the reference in that Schedule to a test fire rating of 34B[^key-2dcdb6d1a59ab5c15fe063754800e8b2], a reference to an equivalent level of performance specified in the corresponding standard; and
+- (b) for the reference in Schedule 4 to a test fire rating of 8A or the reference in that Schedule to a test fire rating of 34B[^c-2dcdb6d1a59ab5c15fe063754800e8b2], a reference to an equivalent level of performance specified in the corresponding standard; and
 - (c) for the reference in paragraph (2)(b) to the appropriate British Standards Institution Specification number, a reference to a marking indicating compliance with the corresponding standard.
 
 (4) In this regulation “**corresponding standard**” in relation to a British Standard means—
 
-- (a) a standard or code of practice of a national standards body or equivalent body of an EEA State or the Republic of Turkey[^key-10219d557944a890ae7606ad809c6156];
+- (a) a standard or code of practice of a national standards body or equivalent body of an EEA State or the Republic of Turkey[^c-10219d557944a890ae7606ad809c6156];
 - (b) any international standard recognised for use as a standard by any EEA State or the Republic of Turkey; or
 - (c) a technical specification or code of practice which, whether mandatory or not, is recognised for use as a standard by a public authority of any EEA State or the Republic of Turkey,
 
@@ -433,7 +433,7 @@ where the standard or code of practice, international standard or technical spec
 - (d) be mounted centrally and positioned transversely when viewed from the front of the vehicle;
 - (e) not overhang the roof or measure less than 750 millimetres across but may occupy the breadth of the roof;
 - (f) not project more than 250 millimetres above the highest part of the roof;
-- (g) be illuminated internally during the hours of darkness to show a steady [^key-f7727a5195af80ecf9aca7456a0be775]... light to the front and the rear;
+- (g) be illuminated internally during the hours of darkness to show a steady [^c-f7727a5195af80ecf9aca7456a0be775]... light to the front and the rear;
 - (h) be fused at source against electrical short circuit; and
 - (i) not cause dazzle or discomfort to other road users.
 
@@ -532,7 +532,7 @@ A senior officer of the
 
 Department of the Environment
 
-## SCHEDULE 1 — Fees for Taxi Licences[^key-237b4d144ee42c906ccc90204a1b0e2d]
+## SCHEDULE 1 — Fees for Taxi Licences[^c-237b4d144ee42c906ccc90204a1b0e2d]
 
 Regulations 3, 9(2) and 13
 
@@ -542,7 +542,7 @@ Regulations 3, 9(2) and 13
 | Further application for a taxi licence within 21 days | £29.50 |
 | New taxi licence, plate or sign to replace one lost, accidentally defaced or destroyed | £10.00 |
 
-## SCHEDULE 1A — CONDITIONS FOR AUTOMATIC RENEWAL LICENCE[^key-af24694fd1c5051d25aadfc9a7e7b927]
+## SCHEDULE 1A — CONDITIONS FOR AUTOMATIC RENEWAL LICENCE[^c-af24694fd1c5051d25aadfc9a7e7b927]
 
 Regulation 3A
 
@@ -588,7 +588,7 @@ Regulation 4(2)
 | (a) condition and operation<br>(b) colour and visual efficiency<br>(c) switches<br>(d) flashing frequency |
 | (5) Rear fog lamps |
 | (a) position<br>(b) condition and operation<br>(c) colour and visual efficiency |
-| (5A) Front fog lights[^key-e4520bc998c101311f00cd326d2365fb] |
+| (5A) Front fog lights[^c-e4520bc998c101311f00cd326d2365fb] |
 | (a) position<br>(b) condition and operation<br>(c) colour and visual efficiency |
 | (6) Reflex reflectors — condition and colour |
 | (7) Tell-tales — trafficators |
@@ -596,7 +596,7 @@ Regulation 4(2)
 | (9) Hazard warning signals |
 | (10) Side marker lamps, unless a vehicle constructed solely for the carriage of passengers and their personal effects |
 | (11) End outline marker lamps |
-| (12) Reversing lamps[^key-55fc5071bc1df3bc9d7ef78c34e9f817] |
+| (12) Reversing lamps[^c-55fc5071bc1df3bc9d7ef78c34e9f817] |
 | (13) Daytime running lamps |
 | **5. AXLES, WHEELS, TYRES SUSPENSION** |
 | (1) Axles<br>(2) Wheels and tyres<br>(3) Suspension |
@@ -626,7 +626,7 @@ Regulation 7(5)(f)(i)
 
 In this Schedule “**restraint**” means a belt or other suitable device, which can be attached to a wheelchair or intended to be worn by its occupant and designed to prevent or lessen injury in the event of an accident.
 
-## SCHEDULE 4 — Fire Extinguishing Apparatus[^key-b7dc9cbcfbd313e7932c380d7e83da13]
+## SCHEDULE 4 — Fire Extinguishing Apparatus[^c-b7dc9cbcfbd313e7932c380d7e83da13]
 
 Regulation 23(1)
 
@@ -670,9 +670,9 @@ An Explanatory Memorandum and a Regulatory Impact Assessment have been produced 
 
 [^c22617501]: Marginal citation: O.J. No. L 263, 9. 10. 2007, p. 1
 
-[^key-c1ae4724a8968bb20b4b5a5c029b255e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/393/regulation/2/1) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 30(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/30/2/a/i) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-c1ae4724a8968bb20b4b5a5c029b255e]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/393/regulation/2/1) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 30(2)(a)(i)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/30/2/a/i) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
-[^key-ce229cb541d18f5e989602df7cd3e16c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/393/regulation/2/1) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 30(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/30/2/a/ii) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-ce229cb541d18f5e989602df7cd3e16c]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/393/regulation/2/1) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 30(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/30/2/a/ii) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^c22617511]: Marginal citation: [S.I. 2009/717](https://www.legislation.gov.uk/uksi/2009/717)
 
@@ -682,7 +682,7 @@ An Explanatory Memorandum and a Regulatory Impact Assessment have been produced 
 
 [^c22617541]: Marginal citation: S.R. [1985 No.123](https://www.legislation.gov.uk/ukcm/1985/123)
 
-[^key-b7dd5b26a2e91c89537a011cc59b82ba]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/393/regulation/2/1) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 30(2)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/30/2/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
+[^c-b7dd5b26a2e91c89537a011cc59b82ba]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2015/393/regulation/2/1) inserted (1.9.2020) by [The Road Vehicles (Approval) Regulations 2020 (S.I. 2020/818)](https://www.legislation.gov.uk/uksi/2020/818), [reg. 1(b)](https://www.legislation.gov.uk/uksi/2020/818/regulation/1/b), [Sch. 6 para. 30(2)(b)](https://www.legislation.gov.uk/uksi/2020/818/schedule/6/paragraph/30/2/b) (with [Sch. 4 paras. 16](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/16), [17](https://www.legislation.gov.uk/uksi/2020/818/schedule/4/paragraph/17))
 
 [^c22617551]: Marginal citation: S.R. [2015 No. 394](https://www.legislation.gov.uk/ukcm/2015/394)
 
@@ -690,13 +690,13 @@ An Explanatory Memorandum and a Regulatory Impact Assessment have been produced 
 
 [^c22617571]: Marginal citation: The definition of “tour service” is inserted by regulation 2(2) of S.R. [2015 No. 395](https://www.legislation.gov.uk/ukcm/2015/395)
 
-[^key-4e608c7903591698f1c1f397a2fb6ca5]: Textual amendment: Reg. 3A inserted (10.4.2020) by [The Taxi Licensing (Amendment) (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020/64)](https://www.legislation.gov.uk/nisr/2020/64), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/64/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/64/regulation/2/2)
+[^c-4e608c7903591698f1c1f397a2fb6ca5]: Textual amendment: Reg. 3A inserted (10.4.2020) by [The Taxi Licensing (Amendment) (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020/64)](https://www.legislation.gov.uk/nisr/2020/64), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/64/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/64/regulation/2/2)
 
-[^key-fac6b658c89a95c819115bab241cfe83]: Textual amendment: Reg. 3A(1) substituted (7.9.2020) by [The Taxi Licensing (Amendment No. 2) (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020/190)](https://www.legislation.gov.uk/nisr/2020/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/190/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/190/regulation/2/2)
+[^c-fac6b658c89a95c819115bab241cfe83]: Textual amendment: Reg. 3A(1) substituted (7.9.2020) by [The Taxi Licensing (Amendment No. 2) (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020/190)](https://www.legislation.gov.uk/nisr/2020/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/190/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2020/190/regulation/2/2)
 
-[^key-a768a39f848bf67bdb329e67e68c07e9]: Textual amendment: Words in reg. 3A(2) inserted (7.9.2020) by [The Taxi Licensing (Amendment No. 2) (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020/190)](https://www.legislation.gov.uk/nisr/2020/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/190/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2020/190/regulation/2/3)
+[^c-a768a39f848bf67bdb329e67e68c07e9]: Textual amendment: Words in reg. 3A(2) inserted (7.9.2020) by [The Taxi Licensing (Amendment No. 2) (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020/190)](https://www.legislation.gov.uk/nisr/2020/190), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2020/190/regulation/1/1), [2(3)](https://www.legislation.gov.uk/nisr/2020/190/regulation/2/3)
 
-[^key-ce28c111882eb536d595a1144daa85fd]: Textual amendment: Word in reg. 4(1) substituted (31.5.2016) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/140)](https://www.legislation.gov.uk/nisr/2016/140), [regs. 1](https://www.legislation.gov.uk/nisr/2016/140/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/140/regulation/2/2)
+[^c-ce28c111882eb536d595a1144daa85fd]: Textual amendment: Word in reg. 4(1) substituted (31.5.2016) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/140)](https://www.legislation.gov.uk/nisr/2016/140), [regs. 1](https://www.legislation.gov.uk/nisr/2016/140/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/140/regulation/2/2)
 
 [^c22617581]: Marginal citation: S.R. [2000 No.169](https://www.legislation.gov.uk/ukcm/2000/169)
 
@@ -714,21 +714,21 @@ An Explanatory Memorandum and a Regulatory Impact Assessment have been produced 
 
 [^M_F_dcdeb6d3-65d7-4194-a7f0-ae966c86408f]: Textual amendment: Reg. 9 sidenote substituted (20.5.2018) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/90)](https://www.legislation.gov.uk/nisr/2018/90), [regs. 1](https://www.legislation.gov.uk/nisr/2018/90/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2018/90/regulation/2/2)
 
-[^key-6daab595bfdf09f95b0ebb5297d7e91f]: Textual amendment: Reg. 9(1)(1A) substituted for reg. 9(1) (20.5.2018) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/90)](https://www.legislation.gov.uk/nisr/2018/90), [regs. 1](https://www.legislation.gov.uk/nisr/2018/90/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2018/90/regulation/2/2)
+[^c-6daab595bfdf09f95b0ebb5297d7e91f]: Textual amendment: Reg. 9(1)(1A) substituted for reg. 9(1) (20.5.2018) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/90)](https://www.legislation.gov.uk/nisr/2018/90), [regs. 1](https://www.legislation.gov.uk/nisr/2018/90/regulation/1), [2(2)](https://www.legislation.gov.uk/nisr/2018/90/regulation/2/2)
 
-[^key-d6845ca2ef34650a2d393bcfec5009c7]: Textual amendment: Word in [reg. 22(1)](https://www.legislation.gov.uk/nisr/2015/393/regulation/22/1) substituted (31.5.2016) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/140)](https://www.legislation.gov.uk/nisr/2016/140), [regs. 1](https://www.legislation.gov.uk/nisr/2016/140/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2016/140/regulation/2/3)
+[^c-d6845ca2ef34650a2d393bcfec5009c7]: Textual amendment: Word in [reg. 22(1)](https://www.legislation.gov.uk/nisr/2015/393/regulation/22/1) substituted (31.5.2016) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/140)](https://www.legislation.gov.uk/nisr/2016/140), [regs. 1](https://www.legislation.gov.uk/nisr/2016/140/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2016/140/regulation/2/3)
 
-[^key-a1837b5e530c8873029530d84ff868aa]: Textual amendment: Words in reg. 23(1) substituted (6.11.2017) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/141)](https://www.legislation.gov.uk/nisr/2017/141), [regs. 1](https://www.legislation.gov.uk/nisr/2017/141/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2017/141/regulation/2/2/a)
+[^c-a1837b5e530c8873029530d84ff868aa]: Textual amendment: Words in reg. 23(1) substituted (6.11.2017) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/141)](https://www.legislation.gov.uk/nisr/2017/141), [regs. 1](https://www.legislation.gov.uk/nisr/2017/141/regulation/1), [2(2)(a)](https://www.legislation.gov.uk/nisr/2017/141/regulation/2/2/a)
 
-[^key-2dcdb6d1a59ab5c15fe063754800e8b2]: Textual amendment: Word in reg. 23(3) substituted (6.11.2017) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/141)](https://www.legislation.gov.uk/nisr/2017/141), [regs. 1](https://www.legislation.gov.uk/nisr/2017/141/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2017/141/regulation/2/2/b)
+[^c-2dcdb6d1a59ab5c15fe063754800e8b2]: Textual amendment: Word in reg. 23(3) substituted (6.11.2017) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/141)](https://www.legislation.gov.uk/nisr/2017/141), [regs. 1](https://www.legislation.gov.uk/nisr/2017/141/regulation/1), [2(2)(b)](https://www.legislation.gov.uk/nisr/2017/141/regulation/2/2/b)
 
-[^key-10219d557944a890ae7606ad809c6156]: Textual amendment: Words in reg. 23(4) inserted (6.11.2017) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/141)](https://www.legislation.gov.uk/nisr/2017/141), [regs. 1](https://www.legislation.gov.uk/nisr/2017/141/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2017/141/regulation/2/2/c)
+[^c-10219d557944a890ae7606ad809c6156]: Textual amendment: Words in reg. 23(4) inserted (6.11.2017) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/141)](https://www.legislation.gov.uk/nisr/2017/141), [regs. 1](https://www.legislation.gov.uk/nisr/2017/141/regulation/1), [2(2)(c)](https://www.legislation.gov.uk/nisr/2017/141/regulation/2/2/c)
 
 [^c22617651]: Marginal citation: Cm 2073; O.J. No. L1, 3.1.94, p.3
 
 [^c22617661]: Marginal citation: Cm 2183
 
-[^key-f7727a5195af80ecf9aca7456a0be775]: Textual amendment: Word in [reg. 25(2)(g)](https://www.legislation.gov.uk/nisr/2015/393/regulation/25/2/g) omitted (31.5.2016) by virtue of [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/140)](https://www.legislation.gov.uk/nisr/2016/140), [regs. 1](https://www.legislation.gov.uk/nisr/2016/140/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2016/140/regulation/2/4)
+[^c-f7727a5195af80ecf9aca7456a0be775]: Textual amendment: Word in [reg. 25(2)(g)](https://www.legislation.gov.uk/nisr/2015/393/regulation/25/2/g) omitted (31.5.2016) by virtue of [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/140)](https://www.legislation.gov.uk/nisr/2016/140), [regs. 1](https://www.legislation.gov.uk/nisr/2016/140/regulation/1), [2(4)](https://www.legislation.gov.uk/nisr/2016/140/regulation/2/4)
 
 [^c22617671]: Marginal citation: S.R. [2003 No. 37](https://www.legislation.gov.uk/ukcm/2003/37)
 
@@ -736,12 +736,12 @@ An Explanatory Memorandum and a Regulatory Impact Assessment have been produced 
 
 [^c22617691]: Marginal citation: S.R. [2014 No. 302](https://www.legislation.gov.uk/ukcm/2014/302)
 
-[^key-237b4d144ee42c906ccc90204a1b0e2d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/393/schedule/1) substituted (1.10.2023) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/128)](https://www.legislation.gov.uk/nisr/2023/128), [regs. 1](https://www.legislation.gov.uk/nisr/2023/128/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/128/regulation/2)
+[^c-237b4d144ee42c906ccc90204a1b0e2d]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/nisr/2015/393/schedule/1) substituted (1.10.2023) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2023 (S.R. 2023/128)](https://www.legislation.gov.uk/nisr/2023/128), [regs. 1](https://www.legislation.gov.uk/nisr/2023/128/regulation/1), [2](https://www.legislation.gov.uk/nisr/2023/128/regulation/2)
 
-[^key-af24694fd1c5051d25aadfc9a7e7b927]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/nisr/2015/393/schedule/1A) inserted (10.4.2020) by [The Taxi Licensing (Amendment) (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020/64)](https://www.legislation.gov.uk/nisr/2020/64), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/64/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2020/64/schedule)
+[^c-af24694fd1c5051d25aadfc9a7e7b927]: Textual amendment: [Sch. 1A](https://www.legislation.gov.uk/nisr/2015/393/schedule/1A) inserted (10.4.2020) by [The Taxi Licensing (Amendment) (Coronavirus) Regulations (Northern Ireland) 2020 (S.R. 2020/64)](https://www.legislation.gov.uk/nisr/2020/64), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2020/64/regulation/1/1), [Sch.](https://www.legislation.gov.uk/nisr/2020/64/schedule)
 
-[^key-e4520bc998c101311f00cd326d2365fb]: Textual amendment: Sch. 2 Item 4(5A) inserted (20.5.2018) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/90)](https://www.legislation.gov.uk/nisr/2018/90), [regs. 1](https://www.legislation.gov.uk/nisr/2018/90/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2018/90/regulation/2/3/a)
+[^c-e4520bc998c101311f00cd326d2365fb]: Textual amendment: Sch. 2 Item 4(5A) inserted (20.5.2018) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/90)](https://www.legislation.gov.uk/nisr/2018/90), [regs. 1](https://www.legislation.gov.uk/nisr/2018/90/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/nisr/2018/90/regulation/2/3/a)
 
-[^key-55fc5071bc1df3bc9d7ef78c34e9f817]: Textual amendment: Sch. 2 Item 4(12)(13) inserted (20.5.2018) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/90)](https://www.legislation.gov.uk/nisr/2018/90), [regs. 1](https://www.legislation.gov.uk/nisr/2018/90/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2018/90/regulation/2/3/b)
+[^c-55fc5071bc1df3bc9d7ef78c34e9f817]: Textual amendment: Sch. 2 Item 4(12)(13) inserted (20.5.2018) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2018 (S.R. 2018/90)](https://www.legislation.gov.uk/nisr/2018/90), [regs. 1](https://www.legislation.gov.uk/nisr/2018/90/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/nisr/2018/90/regulation/2/3/b)
 
-[^key-b7dc9cbcfbd313e7932c380d7e83da13]: Textual amendment: Sch. 4 substituted (6.11.2017) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/141)](https://www.legislation.gov.uk/nisr/2017/141), [regs. 1](https://www.legislation.gov.uk/nisr/2017/141/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2017/141/regulation/2/3)
+[^c-b7dc9cbcfbd313e7932c380d7e83da13]: Textual amendment: Sch. 4 substituted (6.11.2017) by [The Taxi Licensing (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/141)](https://www.legislation.gov.uk/nisr/2017/141), [regs. 1](https://www.legislation.gov.uk/nisr/2017/141/regulation/1), [2(3)](https://www.legislation.gov.uk/nisr/2017/141/regulation/2/3)

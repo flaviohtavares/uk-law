@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 20.5. Procedural questions[^key-56dcf505a8ec1622170df097d8262f79]
+## 20.5. Procedural questions[^c-56dcf505a8ec1622170df097d8262f79]
 
 *Extent: E*
 
@@ -31,6 +31,6 @@ and in either case no provision is made for that matter in these Rules, the cour
 
 ## Annotations
 
-[^key-56dcf505a8ec1622170df097d8262f79]: Commencement: [Rule 20.5](https://www.legislation.gov.uk/uksi/2015/1568/article/20.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-56dcf505a8ec1622170df097d8262f79]: Commencement: [Rule 20.5](https://www.legislation.gov.uk/uksi/2015/1568/article/20.5) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
 
 [^f00009]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132) (to which amendments have been made by numerous amending instruments).

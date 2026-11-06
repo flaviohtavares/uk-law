@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 58. Guidance[^key-c7cfcf5b9554a2ae0cac56b637f44015][^key-2d8271883d928c90a7a2afe435dc662b]
+## 58. Guidance[^c-c7cfcf5b9554a2ae0cac56b637f44015][^c-2d8271883d928c90a7a2afe435dc662b]
 
 *Extent: S*
 
@@ -54,6 +54,6 @@ summary: ''
 
 ## Annotations
 
-[^key-c7cfcf5b9554a2ae0cac56b637f44015]: Commencement: S. 58 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-c7cfcf5b9554a2ae0cac56b637f44015]: Commencement: S. 58 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-2d8271883d928c90a7a2afe435dc662b]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2025/4/section/58) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)
+[^c-2d8271883d928c90a7a2afe435dc662b]: Commencement: [S. 58](https://www.legislation.gov.uk/asp/2025/4/section/58) in force at 14.4.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(a)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/a), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138. Specified assets[^key-da55ee7547ad13fc0dcfa3fd4c77e836]
+## 138. Specified assets[^c-da55ee7547ad13fc0dcfa3fd4c77e836]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In regulation 7(9) and (13) of the Exchange Gains and Losses (Insurance Companie
 
 ## Annotations
 
-[^key-da55ee7547ad13fc0dcfa3fd4c77e836]: Commencement: Art. 138 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
+[^c-da55ee7547ad13fc0dcfa3fd4c77e836]: Commencement: Art. 138 in force at 1.12.2001, see [art. 1(2)(b)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/b)
 
 [^f00133]: Footnote: Regulation 7 was added by regulation 4 of S.I. [1996/673](https://www.legislation.gov.uk/uksi/1996/673).

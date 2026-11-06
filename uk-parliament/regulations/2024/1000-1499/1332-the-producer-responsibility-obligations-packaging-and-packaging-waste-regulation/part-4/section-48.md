@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 48. Conditions of approval of a compliance scheme[^key-d7efc523fe3f11fb5a7c5184635fd216]
+## 48. Conditions of approval of a compliance scheme[^c-d7efc523fe3f11fb5a7c5184635fd216]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7efc523fe3f11fb5a7c5184635fd216]: Commencement: Reg. 48 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)
+[^c-d7efc523fe3f11fb5a7c5184635fd216]: Commencement: Reg. 48 in force at 1.1.2025, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2024/1332/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 5 — Control and eradication of TSE in animals that are not bovine, ovine or caprine[^key-6d521f35a027671148d1c98cddcbfa3f]
+## SCHEDULE 5 — Control and eradication of TSE in animals that are not bovine, ovine or caprine[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 *Extent: E+W*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Regulation 5
 
-### 1. Notification[^key-6d521f35a027671148d1c98cddcbfa3f]
+### 1. Notification[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Restriction of a notified animal[^key-6d521f35a027671148d1c98cddcbfa3f]
+### 2. Restriction of a notified animal[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Slaughter of a suspect animal[^key-6d521f35a027671148d1c98cddcbfa3f]
+### 3. Slaughter of a suspect animal[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Compensation[^key-6d521f35a027671148d1c98cddcbfa3f]
+### 4. Compensation[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Retention of products and disposal[^key-6d521f35a027671148d1c98cddcbfa3f]
+### 5. Retention of products and disposal[^c-6d521f35a027671148d1c98cddcbfa3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6d521f35a027671148d1c98cddcbfa3f]: Textual amendment: Regulations revoked (1.10.2018) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/uksi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/968/regulation/1/3), [24(a)](https://www.legislation.gov.uk/uksi/2018/968/regulation/24/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2018/968/regulation/25))
+[^c-6d521f35a027671148d1c98cddcbfa3f]: Textual amendment: Regulations revoked (1.10.2018) by [The Transmissible Spongiform Encephalopathies (Wales) Regulations 2018 (S.I. 2018/968)](https://www.legislation.gov.uk/uksi/2018/968), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2018/968/regulation/1/3), [24(a)](https://www.legislation.gov.uk/uksi/2018/968/regulation/24/a) (with [reg. 25](https://www.legislation.gov.uk/uksi/2018/968/regulation/25))

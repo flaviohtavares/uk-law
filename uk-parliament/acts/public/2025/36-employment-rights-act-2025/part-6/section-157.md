@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 157. Financial provision[^key-38a1827a63c3e8e196a31edd51b766ef]
+## 157. Financial provision[^c-38a1827a63c3e8e196a31edd51b766ef]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ There is to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-38a1827a63c3e8e196a31edd51b766ef]: Commencement: S. 157 in force at Royal Assent, see [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/d)
+[^c-38a1827a63c3e8e196a31edd51b766ef]: Commencement: S. 157 in force at Royal Assent, see [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/d)

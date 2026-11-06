@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Disapplication of legislative provisions and modifications to section 36 consent and RRRF planning permission[^key-594a05f0459863282e60bc54ede4c70a]
+## 6. Disapplication of legislative provisions and modifications to section 36 consent and RRRF planning permission[^c-594a05f0459863282e60bc54ede4c70a]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 (3) The section 36 consent and the RRRF planning permission are to be amended for the purposes of this Order only as set out in Schedule 13 (modifications to the section 36 consent and RRRF planning permission).
 
-(4)[^key-b7f40237e2e3046bc2e16fae3e37ab7d] To the extent that there is an inconsistency on the land coloured brown identified on the REP and RRRF Applications Boundaries Plan between any provision of this Order and all or any of RRRF condition 1, RRRF condition 22, RRRF condition 32, RRRF 2021 condition 1, RRRF 2021 condition 22 or RRRF 2021 condition 32 then, in respect of such inconsistency only, there is deemed to be no breach of all or any of RRRF condition 1, RRRF condition 22, RRRF condition 32, RRRF 2021 condition 1, RRRF 2021 condition 22 or RRRF 2021 condition 32 (as applicable) and no enforcement action can be taken following the carrying out of the pre-commencement works, commencement or operation of the authorised development.
+(4)[^c-b7f40237e2e3046bc2e16fae3e37ab7d] To the extent that there is an inconsistency on the land coloured brown identified on the REP and RRRF Applications Boundaries Plan between any provision of this Order and all or any of RRRF condition 1, RRRF condition 22, RRRF condition 32, RRRF 2021 condition 1, RRRF 2021 condition 22 or RRRF 2021 condition 32 then, in respect of such inconsistency only, there is deemed to be no breach of all or any of RRRF condition 1, RRRF condition 22, RRRF condition 32, RRRF 2021 condition 1, RRRF 2021 condition 22 or RRRF 2021 condition 32 (as applicable) and no enforcement action can be taken following the carrying out of the pre-commencement works, commencement or operation of the authorised development.
 
 (5) In the event that planning permission 15/02926/OUTM is implemented and the land which is the subject of that planning permission is subsequently used for the temporary uses as authorised under this Order, a new planning permission is not required for the resumption of the land's development and use for which planning permission 15/02926/OUTM grants consent following the end of the temporary uses authorised under this Order.
 
@@ -34,10 +34,10 @@ summary: ''
 
 ## Annotations
 
-[^key-594a05f0459863282e60bc54ede4c70a]: Commencement: Art. 6 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
+[^c-594a05f0459863282e60bc54ede4c70a]: Commencement: Art. 6 in force at 1.5.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/419/article/1)
 
 [^c24052561]: Marginal citation: [1991 c. 57](https://www.legislation.gov.uk/ukpga/1991/57)
 
-[^key-b7f40237e2e3046bc2e16fae3e37ab7d]: Textual amendment: [Art. 6(4)](https://www.legislation.gov.uk/uksi/2020/419/article/6/4) substituted (17.2.2023) by [The Riverside Energy Park (Amendment) Order 2023 (S.I. 2023/165)](https://www.legislation.gov.uk/uksi/2023/165), [arts. 1](https://www.legislation.gov.uk/uksi/2023/165/article/1), [4](https://www.legislation.gov.uk/uksi/2023/165/article/4)
+[^c-b7f40237e2e3046bc2e16fae3e37ab7d]: Textual amendment: [Art. 6(4)](https://www.legislation.gov.uk/uksi/2020/419/article/6/4) substituted (17.2.2023) by [The Riverside Energy Park (Amendment) Order 2023 (S.I. 2023/165)](https://www.legislation.gov.uk/uksi/2023/165), [arts. 1](https://www.legislation.gov.uk/uksi/2023/165/article/1), [4](https://www.legislation.gov.uk/uksi/2023/165/article/4)
 
 [^c24052571]: Marginal citation: [2017 c. 20](https://www.legislation.gov.uk/ukpga/2017/20)

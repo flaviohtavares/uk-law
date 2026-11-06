@@ -347,7 +347,7 @@ provided, in each case, that the use is in accordance with honest practices in i
 
 #### 13. Advertising offence
 
-(1)[^key-adda09f5e5d062a5a534089d3e9a075d] It is an offence for a person—
+(1)[^c-adda09f5e5d062a5a534089d3e9a075d] It is an offence for a person—
 
 - (a) to carry out Games location advertising (see subsection (2));
 - (b) to arrange for such advertising to be carried out;
@@ -436,7 +436,7 @@ provided, in each case, that the use is in accordance with honest practices in i
 
 #### 16. Trading offence
 
-(1)[^key-251c960536859fed2b39dc35fdb1d3e0] It is an offence for a person—
+(1)[^c-251c960536859fed2b39dc35fdb1d3e0] It is an offence for a person—
 
 - (a) to carry out Games location trading (see subsection (2));
 - (b) to arrange for such trading to be carried out;
@@ -1173,6 +1173,6 @@ This does not affect any power of the officer to seize the advertising.
 
 ## Annotations
 
-[^key-adda09f5e5d062a5a534089d3e9a075d]: Modification: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2020/10/section/13/1) excluded (19.11.2021) by [The Birmingham Commonwealth Games (Advertising and Trading) Regulations 2021 (S.I. 2021/1198)](https://www.legislation.gov.uk/uksi/2021/1198), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1198/regulation/1/2), [7-10](https://www.legislation.gov.uk/uksi/2021/1198/regulation/7), [Sch. 4 paras. 1-3](https://www.legislation.gov.uk/uksi/2021/1198/schedule/4/paragraph/1)
+[^c-adda09f5e5d062a5a534089d3e9a075d]: Modification: [S. 13(1)](https://www.legislation.gov.uk/ukpga/2020/10/section/13/1) excluded (19.11.2021) by [The Birmingham Commonwealth Games (Advertising and Trading) Regulations 2021 (S.I. 2021/1198)](https://www.legislation.gov.uk/uksi/2021/1198), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1198/regulation/1/2), [7-10](https://www.legislation.gov.uk/uksi/2021/1198/regulation/7), [Sch. 4 paras. 1-3](https://www.legislation.gov.uk/uksi/2021/1198/schedule/4/paragraph/1)
 
-[^key-251c960536859fed2b39dc35fdb1d3e0]: Modification: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2020/10/section/16/1) excluded (19.11.2021) by [The Birmingham Commonwealth Games (Advertising and Trading) Regulations 2021 (S.I. 2021/1198)](https://www.legislation.gov.uk/uksi/2021/1198), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1198/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2021/1198/regulation/12), [Sch. 4 paras. 1-3](https://www.legislation.gov.uk/uksi/2021/1198/schedule/4/paragraph/1)
+[^c-251c960536859fed2b39dc35fdb1d3e0]: Modification: [S. 16(1)](https://www.legislation.gov.uk/ukpga/2020/10/section/16/1) excluded (19.11.2021) by [The Birmingham Commonwealth Games (Advertising and Trading) Regulations 2021 (S.I. 2021/1198)](https://www.legislation.gov.uk/uksi/2021/1198), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1198/regulation/1/2), [12](https://www.legislation.gov.uk/uksi/2021/1198/regulation/12), [Sch. 4 paras. 1-3](https://www.legislation.gov.uk/uksi/2021/1198/schedule/4/paragraph/1)

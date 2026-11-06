@@ -14,7 +14,7 @@ summary: ''
 
 > Text as at 2026-04-01.
 
-## SCHEDULE 2C — Pharmacotherapy services[^key-3add7bb0d92c3540944d1261619556a9]
+## SCHEDULE 2C — Pharmacotherapy services[^c-3add7bb0d92c3540944d1261619556a9]
 
 Regulation 18A(1)
 
@@ -44,4 +44,4 @@ whichever date is earlier.
 
 ## Annotations
 
-[^key-3add7bb0d92c3540944d1261619556a9]: Textual amendment: [Sch. 2C](https://www.legislation.gov.uk/ssi/2018/66/schedule/2C) inserted (14.3.2026) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/37)](https://www.legislation.gov.uk/ssi/2026/37), [regs. 1](https://www.legislation.gov.uk/ssi/2026/37/regulation/1), [5](https://www.legislation.gov.uk/ssi/2026/37/regulation/5)
+[^c-3add7bb0d92c3540944d1261619556a9]: Textual amendment: [Sch. 2C](https://www.legislation.gov.uk/ssi/2018/66/schedule/2C) inserted (14.3.2026) by [The National Health Service (General Medical Services Contracts and Primary Medical Services Section 17C Agreements) (Miscellaneous Amendment) (Scotland) Regulations 2026 (S.S.I. 2026/37)](https://www.legislation.gov.uk/ssi/2026/37), [regs. 1](https://www.legislation.gov.uk/ssi/2026/37/regulation/1), [5](https://www.legislation.gov.uk/ssi/2026/37/regulation/5)

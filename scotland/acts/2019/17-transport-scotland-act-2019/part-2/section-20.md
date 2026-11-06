@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20. Use of equipment[^key-94f8402aa82f09ebfbcc84605aa9da8f]
+## 20. Use of equipment[^c-94f8402aa82f09ebfbcc84605aa9da8f]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ on a road for use for or in connection with the operation of the scheme.
 
 ## Annotations
 
-[^key-94f8402aa82f09ebfbcc84605aa9da8f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2019/17/section/20) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)
+[^c-94f8402aa82f09ebfbcc84605aa9da8f]: Commencement: [S. 20](https://www.legislation.gov.uk/asp/2019/17/section/20) in force at 14.1.2021 by [S.S.I. 2020/429](https://www.legislation.gov.uk/ssi/2020/429), [reg. 2(a)](https://www.legislation.gov.uk/ssi/2020/429/regulation/2/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 72. Power to make and modify schemes[^key-75cc735a3e1c43172e1feba080117791]
+## 72. Power to make and modify schemes[^c-75cc735a3e1c43172e1feba080117791]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-75cc735a3e1c43172e1feba080117791]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2019/17/section/72) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)
+[^c-75cc735a3e1c43172e1feba080117791]: Commencement: [S. 72](https://www.legislation.gov.uk/asp/2019/17/section/72) in force at 10.1.2022 by [S.S.I. 2021/428](https://www.legislation.gov.uk/ssi/2021/428), [reg. 2](https://www.legislation.gov.uk/ssi/2021/428/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2021/428/schedule)

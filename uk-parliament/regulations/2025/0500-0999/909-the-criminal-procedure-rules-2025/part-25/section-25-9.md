@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25.9. Procedure on plea of not guilty[^key-d8281e0292d16e340323eba445ff6f33]
+## 25.9. Procedure on plea of not guilty[^c-d8281e0292d16e340323eba445ff6f33]
 
 *Extent: E+W*
 
@@ -92,7 +92,7 @@ summary: ''
 
 ## Annotations
 
-[^key-d8281e0292d16e340323eba445ff6f33]: Commencement: [Rule 25.9](https://www.legislation.gov.uk/uksi/2025/909/rule/25.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-d8281e0292d16e340323eba445ff6f33]: Commencement: [Rule 25.9](https://www.legislation.gov.uk/uksi/2025/909/rule/25.9) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00589]: Footnote: [1861 c. 100](https://www.legislation.gov.uk/ukpga/1861/100); section 18 was amended by the Statute Law Revision Act [1892 (c. 19)](https://www.legislation.gov.uk/ukpga/1892/19), the Statute Law Revision (No. 2) Act [1893 (c. 54)](https://www.legislation.gov.uk/ukpga/1893/54) and section 10 of, and Part III of Schedule 3 to, the Criminal Law Act [1967 (c. 58)](https://www.legislation.gov.uk/ukpga/1967/58). Section 20 was amended by the Statute Law Revision Act [1892 (c. 19)](https://www.legislation.gov.uk/ukpga/1892/19).
 

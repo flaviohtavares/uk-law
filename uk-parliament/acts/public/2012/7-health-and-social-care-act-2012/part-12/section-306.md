@@ -43,10 +43,10 @@ summary: ''
 - (a) another provision of this Act, or
 - (b) any other enactment (within the meaning of section 303).
 
-(7)[^key-86497a5c826293fef0a8ed9112a131ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(7)[^c-86497a5c826293fef0a8ed9112a131ce] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (8) Where a provision of this Act (or an amendment made by it) requires consultation to take place, consultation undertaken before the commencement of the provision is as effective for the purposes of that provision as consultation undertaken after that commencement.
 
 ## Annotations
 
-[^key-86497a5c826293fef0a8ed9112a131ce]: Textual amendment: [S. 306(7)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/7) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 188](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/188); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))
+[^c-86497a5c826293fef0a8ed9112a131ce]: Textual amendment: [S. 306(7)](https://www.legislation.gov.uk/ukpga/2012/7/section/306/7) omitted (1.7.2022) by virtue of [Health and Care Act 2022 (c. 31)](https://www.legislation.gov.uk/ukpga/2022/31), [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6), [Sch. 4 para. 188](https://www.legislation.gov.uk/ukpga/2022/31/schedule/4/paragraph/188); [S.I. 2022/734](https://www.legislation.gov.uk/uksi/2022/734), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/734/regulation/2/a), [Sch.](https://www.legislation.gov.uk/uksi/2022/734/schedule) (with [regs. 13](https://www.legislation.gov.uk/uksi/2022/734/regulation/13), [29](https://www.legislation.gov.uk/uksi/2022/734/regulation/29), [30](https://www.legislation.gov.uk/uksi/2022/734/regulation/30))

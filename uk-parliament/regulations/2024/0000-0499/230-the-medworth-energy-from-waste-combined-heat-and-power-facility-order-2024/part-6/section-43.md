@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Service of notices[^key-d0babb65879d7a65c929dd491675989a]
+## 43. Service of notices[^c-d0babb65879d7a65c929dd491675989a]
 
 *Extent: E+W+S*
 
@@ -26,7 +26,7 @@ summary: ''
 - (b) by delivering it to the person on whom it is to be served or to whom it is to be given or supplied; or
 - (c) with the consent of the recipient and subject to paragraphs (6) to (8), by electronic transmission.
 
-(2) Where the person on whom a notice or other document to be served for the purposes of this[^key-6d7c7e950cf10f46883b25407a591acd] Order is a body corporate, the notice or document is duly served if it is served on the secretary or clerk of that body.
+(2) Where the person on whom a notice or other document to be served for the purposes of this[^c-6d7c7e950cf10f46883b25407a591acd] Order is a body corporate, the notice or document is duly served if it is served on the secretary or clerk of that body.
 
 (3) For the purposes of section 7 (references to service by post) of the Interpretation Act 1978[^f00035] as it applies for the purposes of this article, the proper address of any person in relation to the service on that person of a notice or document under paragraph (1) is, if that person has given an address for service, that address and otherwise—
 
@@ -58,8 +58,8 @@ summary: ''
 
 ## Annotations
 
-[^key-d0babb65879d7a65c929dd491675989a]: Commencement: Art. 43 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
+[^c-d0babb65879d7a65c929dd491675989a]: Commencement: Art. 43 in force at 13.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/230/article/1)
 
-[^key-6d7c7e950cf10f46883b25407a591acd]: Textual amendment: Word in [art. 43(2)](https://www.legislation.gov.uk/uksi/2024/230/article/43/2) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
+[^c-6d7c7e950cf10f46883b25407a591acd]: Textual amendment: Word in [art. 43(2)](https://www.legislation.gov.uk/uksi/2024/230/article/43/2) substituted (8.11.2024) by [The Medworth Energy from Waste Combined Heat and Power Facility (Correction) Order 2024 (S.I. 2024/1136)](https://www.legislation.gov.uk/uksi/2024/1136), [art. 1(2)](https://www.legislation.gov.uk/uksi/2024/1136/article/1/2), [Sch. 1](https://www.legislation.gov.uk/uksi/2024/1136/schedule/1)
 
 [^f00035]: Footnote: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).

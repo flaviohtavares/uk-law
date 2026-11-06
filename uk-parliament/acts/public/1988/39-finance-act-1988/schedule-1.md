@@ -61,7 +61,7 @@ Section 1.
 
 (2) In subsection (5) of that section, for the words “render any made-wine sparkling” there shall be substituted the words “render sparkling any made-wine other than made-wine to which section 55A below applies”.
 
-**6.**[^key-d31a568cf242a9d51a591e620646fe8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-d31a568cf242a9d51a591e620646fe8c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **7.** In section 59 of that Act (rendering imported wine or made-wine sparkling in warehouse), for subsection (1) there shall be substituted—
 
@@ -76,7 +76,7 @@ Section 1.
 
 **9.** Section 63 of that Act (repayment of duty on imported cider used in the production of other beverages etc.) shall be renumbered as subsection (1) of that section [^c13529791]. . . .
 
-**10.**[^key-c2de4ee2ed089a1abd0b150470e1acc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-c2de4ee2ed089a1abd0b150470e1acc8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **11.**[^c13529801] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -107,12 +107,12 @@ Section 1.
 
 [^c13529771]: Textual amendment: [Sch. 1 Pt. II para. 3](https://www.legislation.gov.uk/ukpga/1988/39/schedule/1/part/II/paragraph/3) repealed (1.6.1993) by [Finance Act 1991 (c. 31, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1991/31), [ss. 7](https://www.legislation.gov.uk/ukpga/1991/31/section/7), [123](https://www.legislation.gov.uk/ukpga/1991/31/section/123), [Sch. 19 Pt. II](https://www.legislation.gov.uk/ukpga/1991/31/schedule/19/part/II); [S.I. 1993/1152](https://www.legislation.gov.uk/uksi/1993/1152), [art. 3](https://www.legislation.gov.uk/uksi/1993/1152/article/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/1993/1152/schedule/1/part/2)
 
-[^key-d31a568cf242a9d51a591e620646fe8c]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1988/39/schedule/1/paragraph/6) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-d31a568cf242a9d51a591e620646fe8c]: Textual amendment: [Sch. 1 para. 6](https://www.legislation.gov.uk/ukpga/1988/39/schedule/1/paragraph/6) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
 [^c13529781]: Textual amendment: [Sch. 1 Pt. II para. 8](https://www.legislation.gov.uk/ukpga/1988/39/schedule/1/part/II/paragraph/8) repealed (1.5.1995 with effect as mentioned in Sch. 29 Pt. I(1) of the repealing Act) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 162](https://www.legislation.gov.uk/ukpga/1995/4/section/162), [Sch. 29](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29), [Pt. I](https://www.legislation.gov.uk/ukpga/1995/4/part/I), note
 
 [^c13529791]: Textual amendment: Words in [Sch. 1 Pt. II para. 9](https://www.legislation.gov.uk/ukpga/1988/39/schedule/1/part/II/paragraph/9) repealed (1.5.1995 with effect as mentioned in Sch. 29 Pt. I(1) of the repealing Act) by [1995 c. 4](https://www.legislation.gov.uk/ukpga/1995/4), [s. 162](https://www.legislation.gov.uk/ukpga/1995/4/section/162), [Sch. 29](https://www.legislation.gov.uk/ukpga/1995/4/schedule/29), [Pt. I(1)](https://www.legislation.gov.uk/ukpga/1995/4/part/I/1), note
 
-[^key-c2de4ee2ed089a1abd0b150470e1acc8]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/1988/39/schedule/1/paragraph/10) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
+[^c-c2de4ee2ed089a1abd0b150470e1acc8]: Textual amendment: [Sch. 1 para. 10](https://www.legislation.gov.uk/ukpga/1988/39/schedule/1/paragraph/10) repealed (19.7.2006) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 26 Pt. 1(1)](https://www.legislation.gov.uk/ukpga/2006/25/schedule/26/part/1/1)
 
 [^c13529801]: Textual amendment: [Sch. 1 Pt. II para. 11](https://www.legislation.gov.uk/ukpga/1988/39/schedule/1/part/II/paragraph/11) repealed (1.6.1993) by [Finance Act 1991 (c. 31, SIF 40:1)](https://www.legislation.gov.uk/ukpga/1991/31), [ss. 7](https://www.legislation.gov.uk/ukpga/1991/31/section/7), [123](https://www.legislation.gov.uk/ukpga/1991/31/section/123), [Sch. 19 Pt. II](https://www.legislation.gov.uk/ukpga/1991/31/schedule/19/part/II); [S.I. 1993/1152](https://www.legislation.gov.uk/uksi/1993/1152), [art. 3](https://www.legislation.gov.uk/uksi/1993/1152/article/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/1993/1152/schedule/1/part/2)

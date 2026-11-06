@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Operation of authorised development[^key-7ee2b9a2388c37e612b467880fa63ac2]
+## 5. Operation of authorised development[^c-7ee2b9a2388c37e612b467880fa63ac2]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7ee2b9a2388c37e612b467880fa63ac2]: Commencement: Art. 5 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)
+[^c-7ee2b9a2388c37e612b467880fa63ac2]: Commencement: Art. 5 in force at 3.4.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/578/article/1)

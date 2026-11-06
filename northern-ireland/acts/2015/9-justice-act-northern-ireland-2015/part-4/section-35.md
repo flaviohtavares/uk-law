@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 35. Use of victim statement[^key-220d27d431e207fb863c1592fc197ff9]
+## 35. Use of victim statement[^c-220d27d431e207fb863c1592fc197ff9]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-220d27d431e207fb863c1592fc197ff9]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2015/9/section/35) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(g)](https://www.legislation.gov.uk/nisr/2015/320/article/2/g)
+[^c-220d27d431e207fb863c1592fc197ff9]: Commencement: [S. 35](https://www.legislation.gov.uk/nia/2015/9/section/35) in operation at 1.9.2015 by [S.R. 2015/320](https://www.legislation.gov.uk/nisr/2015/320), [art. 2(g)](https://www.legislation.gov.uk/nisr/2015/320/article/2/g)

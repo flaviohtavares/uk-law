@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 18A. Publication and coming into effect of taxi fares[^key-191f68dfafb7b83d1dd4a03566972818]
+## 18A. Publication and coming into effect of taxi fares[^c-191f68dfafb7b83d1dd4a03566972818]
 
 *Extent: E+W+S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-191f68dfafb7b83d1dd4a03566972818]: Textual amendment: S. 18A inserted (1.11.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 174(5)](https://www.legislation.gov.uk/asp/2010/13/section/174/5), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/354/article/3))
+[^c-191f68dfafb7b83d1dd4a03566972818]: Textual amendment: S. 18A inserted (1.11.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 174(5)](https://www.legislation.gov.uk/asp/2010/13/section/174/5), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/354](https://www.legislation.gov.uk/ssi/2011/354), [art. 2](https://www.legislation.gov.uk/ssi/2011/354/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/354/schedule) (with [art. 3](https://www.legislation.gov.uk/ssi/2011/354/article/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2.K.6. Treatment of unreduced retirement lump sum[^key-689c5d36d0edf6a08d1cd456a1c288ce]
+## 2.K.6. Treatment of unreduced retirement lump sum[^c-689c5d36d0edf6a08d1cd456a1c288ce]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ which satisfies any of the conditions in paragraph (2).
 
 ## Annotations
 
-[^key-689c5d36d0edf6a08d1cd456a1c288ce]: Textual amendment: [Ch. 2K](https://www.legislation.gov.uk/uksi/2008/653/chapter/2K) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2009/2446/regulation/52)
+[^c-689c5d36d0edf6a08d1cd456a1c288ce]: Textual amendment: [Ch. 2K](https://www.legislation.gov.uk/uksi/2008/653/chapter/2K) inserted (1.10.2009) by [The National Health Service Pension Scheme, Injury Benefits and Additional Voluntary Contributions (Amendment) Regulations 2009 (S.I. 2009/2446)](https://www.legislation.gov.uk/uksi/2009/2446), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/2446/regulation/1/2), [52](https://www.legislation.gov.uk/uksi/2009/2446/regulation/52)

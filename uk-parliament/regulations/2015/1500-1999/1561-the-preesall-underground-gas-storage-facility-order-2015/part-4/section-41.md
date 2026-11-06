@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Arbitration[^key-10320764b2a5bcfba382a8265a8c8a15]
+## 41. Arbitration[^c-10320764b2a5bcfba382a8265a8c8a15]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Any difference or dispute under any provision of this Order (other than a differ
 
 ## Annotations
 
-[^key-10320764b2a5bcfba382a8265a8c8a15]: Commencement: Art. 41 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)
+[^c-10320764b2a5bcfba382a8265a8c8a15]: Commencement: Art. 41 in force at 7.8.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/1561/article/1)

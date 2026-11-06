@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27G. When tips etc must be dealt with[^key-ec1463600269d8524afe84a1c428e5e0]
+## 27G. When tips etc must be dealt with[^c-ec1463600269d8524afe84a1c428e5e0]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ no later than the end of the month following the month in which the tip, gratuit
 
 ## Annotations
 
-[^key-ec1463600269d8524afe84a1c428e5e0]: Textual amendment: S. 27G inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 4](https://www.legislation.gov.uk/ukpga/2023/13/section/4), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/d)
+[^c-ec1463600269d8524afe84a1c428e5e0]: Textual amendment: S. 27G inserted (E.W.S.) (31.7.2023 for specified purposes, 1.10.2024 in so far as not already in force) by [Employment (Allocation of Tips) Act 2023 (c. 13)](https://www.legislation.gov.uk/ukpga/2023/13), [ss. 4](https://www.legislation.gov.uk/ukpga/2023/13/section/4), [14(2)](https://www.legislation.gov.uk/ukpga/2023/13/section/14/2); [S.I. 2023/876](https://www.legislation.gov.uk/uksi/2023/876), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2023/876/regulation/3/a); [S.I. 2024/829](https://www.legislation.gov.uk/uksi/2024/829), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2024/829/regulation/3/d)

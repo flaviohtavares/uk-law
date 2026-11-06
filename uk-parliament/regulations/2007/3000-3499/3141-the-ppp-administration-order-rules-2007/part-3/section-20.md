@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Statement to be annexed to proposals[^key-f2536528648be3fbf8b6a8a40e718529]
+## 20. Statement to be annexed to proposals[^c-f2536528648be3fbf8b6a8a40e718529]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f2536528648be3fbf8b6a8a40e718529]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2007/3141/rule/20) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)
+[^c-f2536528648be3fbf8b6a8a40e718529]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2007/3141/rule/20) in force at 30.11.2007, see [rule 1](https://www.legislation.gov.uk/uksi/2007/3141/rule/1)

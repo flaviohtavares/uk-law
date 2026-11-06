@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 43. Power to transfer undertaking[^key-b9667338c334c8c41df5a6507c4d7f64]
+## 43. Power to transfer undertaking[^c-b9667338c334c8c41df5a6507c4d7f64]
 
 *Extent: E+W+S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b9667338c334c8c41df5a6507c4d7f64]: Commencement: Art. 43 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)
+[^c-b9667338c334c8c41df5a6507c4d7f64]: Commencement: Art. 43 in force at 13.11.2012, see [art. 1](https://www.legislation.gov.uk/uksi/2012/2679/article/1)

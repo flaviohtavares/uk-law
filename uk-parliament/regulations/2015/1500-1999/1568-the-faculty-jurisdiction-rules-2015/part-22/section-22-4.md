@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 22.4. Review of findings of the Court of Ecclesiastical Causes Reserved[^key-a301bf25ea935c1b69ccd8a39f925b88]
+## 22.4. Review of findings of the Court of Ecclesiastical Causes Reserved[^c-a301bf25ea935c1b69ccd8a39f925b88]
 
 *Extent: E*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a301bf25ea935c1b69ccd8a39f925b88]: Commencement: [Rule 22.4](https://www.legislation.gov.uk/uksi/2015/1568/article/22.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-a301bf25ea935c1b69ccd8a39f925b88]: Commencement: [Rule 22.4](https://www.legislation.gov.uk/uksi/2015/1568/article/22.4) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

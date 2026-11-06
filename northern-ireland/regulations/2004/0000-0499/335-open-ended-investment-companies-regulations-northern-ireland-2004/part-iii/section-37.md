@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 37. General meetings[^key-646ad0236694af9bbc21ec310b515b40]
+## 37. General meetings[^c-646ad0236694af9bbc21ec310b515b40]
 
 *Extent: N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-646ad0236694af9bbc21ec310b515b40]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2004/335/regulation/37) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)
+[^c-646ad0236694af9bbc21ec310b515b40]: Commencement: [Reg. 37](https://www.legislation.gov.uk/nisr/2004/335/regulation/37) in operation at 1.11.2004, see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2004/335/regulation/1/1/b)

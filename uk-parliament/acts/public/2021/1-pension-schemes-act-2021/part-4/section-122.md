@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. The Money and Pensions Service: the pensions guidance function[^c24494191][^key-c685777c2f0022cbfa6d886c6d692362]
+## 122. The Money and Pensions Service: the pensions guidance function[^c24494191][^c-c685777c2f0022cbfa6d886c6d692362]
 
 *Extent: E+W+S*
 
@@ -64,4 +64,4 @@ In the Financial Guidance and Claims Act 2018, after section 4 (specific require
 
 [^c24494191]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2021/1/section/122) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-c685777c2f0022cbfa6d886c6d692362]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2021/1/section/122) in force at 14.10.2022 for specified purposes by [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1044/regulation/3))
+[^c-c685777c2f0022cbfa6d886c6d692362]: Commencement: [S. 122](https://www.legislation.gov.uk/ukpga/2021/1/section/122) in force at 14.10.2022 for specified purposes by [S.I. 2022/1044](https://www.legislation.gov.uk/uksi/2022/1044), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2022/1044/regulation/2/d) (with [reg. 3](https://www.legislation.gov.uk/uksi/2022/1044/regulation/3))

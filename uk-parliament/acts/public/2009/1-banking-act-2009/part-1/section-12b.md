@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12B. Bail-in administrators[^key-eefbbc0cefb15c01ca01cb5421bd2458]
+## 12B. Bail-in administrators[^c-eefbbc0cefb15c01ca01cb5421bd2458]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eefbbc0cefb15c01ca01cb5421bd2458]: Textual amendment: S. 12B omitted (1.1.2015) by virtue of [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [22](https://www.legislation.gov.uk/uksi/2014/3329/article/22)
+[^c-eefbbc0cefb15c01ca01cb5421bd2458]: Textual amendment: S. 12B omitted (1.1.2015) by virtue of [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [22](https://www.legislation.gov.uk/uksi/2014/3329/article/22)

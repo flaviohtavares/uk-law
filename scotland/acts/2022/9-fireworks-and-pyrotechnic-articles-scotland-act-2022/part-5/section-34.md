@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 34. Application of Part[^key-5ca7ab3904647ea9448f49a1f14dba7b][^key-1acbad15420fc3b0aad318ce6c2a804b]
+## 34. Application of Part[^c-5ca7ab3904647ea9448f49a1f14dba7b][^c-1acbad15420fc3b0aad318ce6c2a804b]
 
 *Extent: S*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5ca7ab3904647ea9448f49a1f14dba7b]: Commencement: S. 34 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-5ca7ab3904647ea9448f49a1f14dba7b]: Commencement: S. 34 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
 
-[^key-1acbad15420fc3b0aad318ce6c2a804b]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2022/9/section/34) in force at 6.6.2023 by [S.S.I. 2023/99](https://www.legislation.gov.uk/ssi/2023/99), [reg. 2](https://www.legislation.gov.uk/ssi/2023/99/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/99/schedule)
+[^c-1acbad15420fc3b0aad318ce6c2a804b]: Commencement: [S. 34](https://www.legislation.gov.uk/asp/2022/9/section/34) in force at 6.6.2023 by [S.S.I. 2023/99](https://www.legislation.gov.uk/ssi/2023/99), [reg. 2](https://www.legislation.gov.uk/ssi/2023/99/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2023/99/schedule)

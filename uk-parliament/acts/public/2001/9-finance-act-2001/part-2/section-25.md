@@ -50,7 +50,7 @@ he shall be liable to a penalty of £250.
 (5) Where, by reason of any failure falling within paragraph (a) or (b) of subsection (3) above—
 
 - (a) a person is convicted of an offence (whether under this Act or otherwise), or
-- (b) a person is assessed to a penalty under paragraph 7 of Schedule 6 to this Act (penalty for evasion) or a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007 (penalties for errors)[^key-aec95e953ff01b1c80761032202e9ef5],
+- (b) a person is assessed to a penalty under paragraph 7 of Schedule 6 to this Act (penalty for evasion) or a penalty for a deliberate inaccuracy under Schedule 24 to the Finance Act 2007 (penalties for errors)[^c-aec95e953ff01b1c80761032202e9ef5],
 
 that person shall not, by reason of that failure, be liable also to a penalty under that subsection (3).
 
@@ -58,4 +58,4 @@ that person shall not, by reason of that failure, be liable also to a penalty un
 
 ## Annotations
 
-[^key-aec95e953ff01b1c80761032202e9ef5]: Textual amendment: Words in s. 25(5)(b) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/22)
+[^c-aec95e953ff01b1c80761032202e9ef5]: Textual amendment: Words in s. 25(5)(b) inserted (1.4.2009) by [The Finance Act 2008, Schedule 40 (Appointed Day, Transitional Provisions and Consequential Amendments) Order 2009 (S.I. 2009/571)](https://www.legislation.gov.uk/uksi/2009/571), [art. 1(1)](https://www.legislation.gov.uk/uksi/2009/571/article/1/1), [Sch. 1 para. 22](https://www.legislation.gov.uk/uksi/2009/571/schedule/1/paragraph/22)

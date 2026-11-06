@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2A — Gibraltar-based persons carrying on activities in the UK[^key-d52f3d0e63c3fb4913db8a69babcb8c0]
+## SCHEDULE 2A — Gibraltar-based persons carrying on activities in the UK[^c-d52f3d0e63c3fb4913db8a69babcb8c0]
 
 *Extent: E+W+S+N.I.*
 
@@ -1455,4 +1455,4 @@ subject to the defences and other incidents applying to actions for breach of st
 
 ## Annotations
 
-[^key-d52f3d0e63c3fb4913db8a69babcb8c0]: Textual amendment: Sch. 2A inserted (1.9.2023 for specified purposes) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/6) (as amended (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 100(3)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/100/3/b)); [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/a)
+[^c-d52f3d0e63c3fb4913db8a69babcb8c0]: Textual amendment: Sch. 2A inserted (1.9.2023 for specified purposes) by [Financial Services Act 2021 (c. 22)](https://www.legislation.gov.uk/ukpga/2021/22), [s. 49(5)](https://www.legislation.gov.uk/ukpga/2021/22/section/49/5), [Sch. 6](https://www.legislation.gov.uk/ukpga/2021/22/schedule/6) (as amended (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 100(3)(b)](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/100/3/b)); [S.I. 2023/934](https://www.legislation.gov.uk/uksi/2023/934), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/934/regulation/2/a)

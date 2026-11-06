@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Political funds: requirement to pass political resolution[^key-9173fd35db088b0a9db9270407663949]
+## 61. Political funds: requirement to pass political resolution[^c-9173fd35db088b0a9db9270407663949]
 
 *Extent: E+W+S*
 
@@ -27,4 +27,4 @@ In section 73 of the Trade Union and Labour Relations (Consolidation) Act 1992 (
 
 ## Annotations
 
-[^key-9173fd35db088b0a9db9270407663949]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2025/36/section/61) in force at 18.2.2026, see [s. 159(2)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/a)
+[^c-9173fd35db088b0a9db9270407663949]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2025/36/section/61) in force at 18.2.2026, see [s. 159(2)(a)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/a)

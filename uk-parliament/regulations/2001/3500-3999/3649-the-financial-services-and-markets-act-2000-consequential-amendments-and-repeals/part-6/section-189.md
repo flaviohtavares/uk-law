@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 189. Advertising dissolution of society[^key-160ca32a70f4b1915ab0567be614e31e]
+## 189. Advertising dissolution of society[^c-160ca32a70f4b1915ab0567be614e31e]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ In section 94(7)[^f00133] of the Friendly Societies Act 1974 (instrument of diss
 
 ## Annotations
 
-[^key-160ca32a70f4b1915ab0567be614e31e]: Commencement: Art. 189 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-160ca32a70f4b1915ab0567be614e31e]: Commencement: Art. 189 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00133]: Footnote: Section 94(7) has been amended by [S.I. 2001/2617](https://www.legislation.gov.uk/uksi/2001/2617) Schedule 3 paragraph 38(b).

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies where a distributor considers, or has reason to believe, that a regulated measuring instrument made available[^key-64936d9edc5c8eaf1b70dee90e0115be] on the market or put into use by that distributor is not in conformity with the requirements of these Regulations.
+(1) This regulation applies where a distributor considers, or has reason to believe, that a regulated measuring instrument made available[^c-64936d9edc5c8eaf1b70dee90e0115be] on the market or put into use by that distributor is not in conformity with the requirements of these Regulations.
 
 (2) The distributor must immediately take the corrective measures necessary to bring the regulated measuring instrument into conformity, or withdraw or recall it, if appropriate.
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-64936d9edc5c8eaf1b70dee90e0115be]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/31/1) substituted (1.2.2019) by [The Weights and Measures etc. (Miscellaneous) (Amendment) Regulations 2019 (S.I. 2019/5)](https://www.legislation.gov.uk/uksi/2019/5), [regs. 1](https://www.legislation.gov.uk/uksi/2019/5/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/5/regulation/8/2)
+[^c-64936d9edc5c8eaf1b70dee90e0115be]: Textual amendment: Words in [reg. 31(1)](https://www.legislation.gov.uk/uksi/2016/1153/regulation/31/1) substituted (1.2.2019) by [The Weights and Measures etc. (Miscellaneous) (Amendment) Regulations 2019 (S.I. 2019/5)](https://www.legislation.gov.uk/uksi/2019/5), [regs. 1](https://www.legislation.gov.uk/uksi/2019/5/regulation/1), [8(2)](https://www.legislation.gov.uk/uksi/2019/5/regulation/8/2)

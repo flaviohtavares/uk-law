@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Compulsory acquisition of rights[^key-ebc2648496216956019bbb7c0fe7931f]
+## 27. Compulsory acquisition of rights[^c-ebc2648496216956019bbb7c0fe7931f]
 
 *Extent: E+W+S*
 
-(1) The undertaker may acquire compulsorily the rights[^key-4a5b605526b51333e3e1207a68ea1261] described in the book of reference and shown on the land plans.
+(1) The undertaker may acquire compulsorily the rights[^c-4a5b605526b51333e3e1207a68ea1261] described in the book of reference and shown on the land plans.
 
 (2) Subject to section 8 of the 1965 Act (provisions as to divided land), as substituted by article 31 (acquisition of part of certain properties), where the undertaker acquires an existing right over land under paragraph (1), the undertaker shall not be required to acquire a greater interest in that land.
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ebc2648496216956019bbb7c0fe7931f]: Commencement: Art. 27 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-ebc2648496216956019bbb7c0fe7931f]: Commencement: Art. 27 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
 
-[^key-4a5b605526b51333e3e1207a68ea1261]: Textual amendment: Words in [art. 27(1)](https://www.legislation.gov.uk/uksi/2013/648/article/27/1) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 1
+[^c-4a5b605526b51333e3e1207a68ea1261]: Textual amendment: Words in [art. 27(1)](https://www.legislation.gov.uk/uksi/2013/648/article/27/1) substituted (20.11.2013) by [The Hinkley Point C (Nuclear Generating Station) (Correction) Order 2013 (S.I. 2013/2938)](https://www.legislation.gov.uk/uksi/2013/2938), [art. 1](https://www.legislation.gov.uk/uksi/2013/2938/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2013/2938/schedule) Table 1

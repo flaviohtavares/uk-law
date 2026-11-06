@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 27. Modification of Part 1 of the 1965 Act[^key-513ab1d09bd1634af05196d212a3fe0d]
+## 27. Modification of Part 1 of the 1965 Act[^c-513ab1d09bd1634af05196d212a3fe0d]
 
 *Extent: E+W+S*
 
@@ -46,7 +46,7 @@ summary: ''
 
 ## Annotations
 
-[^key-513ab1d09bd1634af05196d212a3fe0d]: Commencement: Art. 27 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
+[^c-513ab1d09bd1634af05196d212a3fe0d]: Commencement: Art. 27 in force at 7.12.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1206/article/1)
 
 [^f00057]: Footnote: Section 125 was amended by section 190 of, and paragraph 17 of Schedule 16 to, the Housing and Planning Act [2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22).
 

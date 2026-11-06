@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 36. Calculation of tax for different valuation bands.[^c12076661][^c12076671][^key-8d3a5cc104e8bb2fea7476f4d74a6994][^key-cecf43ec7af88867873791e295e7504a][^key-90cd387516e88f9820eea0caf466e4ea][^key-8d3a5cc104e8bb2fea7476f4d74a6994][^key-90cd387516e88f9820eea0caf466e4ea][^key-1304ad51e0298e9c29d2496b54843766]
+## 36. Calculation of tax for different valuation bands.[^c12076661][^c12076671][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-cecf43ec7af88867873791e295e7504a][^c-90cd387516e88f9820eea0caf466e4ea][^c-8d3a5cc104e8bb2fea7476f4d74a6994][^c-90cd387516e88f9820eea0caf466e4ea][^c-1304ad51e0298e9c29d2496b54843766]
 
 *Extent: E+W*
 
@@ -26,7 +26,7 @@ summary: ''
 
 where—
 
-A is the amount calculated (or last calculated) by the billing authority for that year under section 31B(1) above or[^key-8667bcccd61de7f57f28f53e6fc13525] section 33(1) above or, where section 34 above applies, the amount calculated (or last calculated) by it for that year under subsection (2) or (3) of that section in relation to that category of dwellings;
+A is the amount calculated (or last calculated) by the billing authority for that year under section 31B(1) above or[^c-8667bcccd61de7f57f28f53e6fc13525] section 33(1) above or, where section 34 above applies, the amount calculated (or last calculated) by it for that year under subsection (2) or (3) of that section in relation to that category of dwellings;
 
 N is the number which, in the proportion set out in section 5(1) above, is applicable to dwellings listed in that valuation band;
 
@@ -44,12 +44,12 @@ D is the number which, in that proportion, is applicable to dwellings listed in 
 
 [^c12076671]: Modification: Pt. 1 Chs. 3, 4 (ss. 30-52) modified (E.) (1.2.1993) by [S.I. 1993/22](https://www.legislation.gov.uk/uksi/1993/22), [art. 4(2)](https://www.legislation.gov.uk/uksi/1993/22/article/4/2)
 
-[^key-8d3a5cc104e8bb2fea7476f4d74a6994]: Modification: Pt. 1 modified (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2008/3022/regulation/8)
+[^c-8d3a5cc104e8bb2fea7476f4d74a6994]: Modification: Pt. 1 modified (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2008/3022/regulation/8)
 
-[^key-cecf43ec7af88867873791e295e7504a]: Modification: S. 36 modified (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2008/3022/schedule/2/paragraph/4)
+[^c-cecf43ec7af88867873791e295e7504a]: Modification: S. 36 modified (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2), [Sch. 2 para. 4](https://www.legislation.gov.uk/uksi/2008/3022/schedule/2/paragraph/4)
 
-[^key-90cd387516e88f9820eea0caf466e4ea]: Modification: Pt. 1 modified (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2008/3022/regulation/7)
+[^c-90cd387516e88f9820eea0caf466e4ea]: Modification: Pt. 1 modified (24.12.2008) by [The Local Government (Structural Changes) (Finance) Regulations 2008 (S.I. 2008/3022)](https://www.legislation.gov.uk/uksi/2008/3022), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/3022/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2008/3022/regulation/7)
 
-[^key-1304ad51e0298e9c29d2496b54843766]: Modification: Pt. 1 Ch. 3 modified (7.12.2011 for specified purposes, 3.5.2012 in so far as not already in force) by [The Swansea (Communities) Order 2011 (S.I. 2011/2932)](https://www.legislation.gov.uk/wsi/2011/2932), [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/3), [22(4)](https://www.legislation.gov.uk/wsi/2011/2932/article/22/4)
+[^c-1304ad51e0298e9c29d2496b54843766]: Modification: Pt. 1 Ch. 3 modified (7.12.2011 for specified purposes, 3.5.2012 in so far as not already in force) by [The Swansea (Communities) Order 2011 (S.I. 2011/2932)](https://www.legislation.gov.uk/wsi/2011/2932), [art. 1(2)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/2)[(3)](https://www.legislation.gov.uk/wsi/2011/2932/article/1/3), [22(4)](https://www.legislation.gov.uk/wsi/2011/2932/article/22/4)
 
-[^key-8667bcccd61de7f57f28f53e6fc13525]: Textual amendment: Words in s. 36(1) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/14); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)
+[^c-8667bcccd61de7f57f28f53e6fc13525]: Textual amendment: Words in s. 36(1) inserted (3.12.2011) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 7 para. 14](https://www.legislation.gov.uk/ukpga/2011/20/schedule/7/paragraph/14); [S.I. 2011/2896](https://www.legislation.gov.uk/uksi/2011/2896), [art. 2(i)](https://www.legislation.gov.uk/uksi/2011/2896/article/2/i)

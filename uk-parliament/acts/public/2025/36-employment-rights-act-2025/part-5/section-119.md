@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 119. Power to request LME undertaking[^key-7ec8b4f85d9ce5ce72f60a43a798b9be][^key-91a6dea92505bc76d65dd72874495692]
+## 119. Power to request LME undertaking[^c-7ec8b4f85d9ce5ce72f60a43a798b9be][^c-91a6dea92505bc76d65dd72874495692]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-7ec8b4f85d9ce5ce72f60a43a798b9be]: Commencement: S. 119 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-7ec8b4f85d9ce5ce72f60a43a798b9be]: Commencement: S. 119 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-91a6dea92505bc76d65dd72874495692]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2025/36/section/119) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(21)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/21/a)
+[^c-91a6dea92505bc76d65dd72874495692]: Commencement: [S. 119](https://www.legislation.gov.uk/ukpga/2025/36/section/119) in force at 7.4.2026 for specified purposes by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 4(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/1)[(2)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/2)[(21)(a)](https://www.legislation.gov.uk/uksi/2026/323/regulation/4/21/a)

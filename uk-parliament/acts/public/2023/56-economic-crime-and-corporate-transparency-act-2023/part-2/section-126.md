@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Confirmation statements[^key-42d3d03d2146100b9b43ca4dab9556f6]
+## 126. Confirmation statements[^c-42d3d03d2146100b9b43ca4dab9556f6]
 
 *Extent: E+W+S+N.I.*
 
@@ -97,4 +97,4 @@ After section 10C of the Limited Partnerships Act 1907 (inserted by section 125 
 
 ## Annotations
 
-[^key-42d3d03d2146100b9b43ca4dab9556f6]: Commencement: S. 126 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-42d3d03d2146100b9b43ca4dab9556f6]: Commencement: S. 126 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)

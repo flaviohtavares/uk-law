@@ -45,7 +45,7 @@ The Rule Committee, in exercise of powers conferred by section 26(1) of the Care
 
 ## PART 1 — Churchwardens
 
-### 1.1. Appeal by churchwarden[^key-f3af0b81abe1cfde014593ce87b281c6]
+### 1.1. Appeal by churchwarden[^c-f3af0b81abe1cfde014593ce87b281c6]
 
 (1) An appeal to the President by a churchwarden under section 6B(1) of the Churchwardens Measure 2001[^f00002] against suspension shall be made in writing within 21 days of receipt of the notice of suspension.
 
@@ -55,7 +55,7 @@ The Rule Committee, in exercise of powers conferred by section 26(1) of the Care
 
 (4) Within 14 days of receiving a copy of the written appeal, the bishop may send or deliver to the President comments in writing in answer to the appeal, and a copy of those comments shall be sent or delivered by the bishop to the appellant at the same time as they are sent or delivered to the President.
 
-### 1.2. The President’s decision[^key-7d79ed06bb6597a068bfd6fcc189c69c]
+### 1.2. The President’s decision[^c-7d79ed06bb6597a068bfd6fcc189c69c]
 
 (1) The President may, within 28 days following the lodging of the appeal, either confirm or revoke the suspension.
 
@@ -67,9 +67,9 @@ The Rule Committee, in exercise of powers conferred by section 26(1) of the Care
 
 ## PART 2 — Parochial church council members etc.
 
-### 2.1. Appeal by parochial church council member etc.[^key-629de2b81aca365758c99fd5fe5596b8]
+### 2.1. Appeal by parochial church council member etc.[^c-629de2b81aca365758c99fd5fe5596b8]
 
-(1) An appeal to the President by a member of a parochial church council, district council or synod, or the secretary or treasurer of a parochial church council under Rule 70(1)[^key-f5b4f6c076c0178660340f8b6f8a5c80] of the Church Representation Rules against suspension shall be made in writing within 21 days of receipt of the notice of suspension.
+(1) An appeal to the President by a member of a parochial church council, district council or synod, or the secretary or treasurer of a parochial church council under Rule 70(1)[^c-f5b4f6c076c0178660340f8b6f8a5c80] of the Church Representation Rules against suspension shall be made in writing within 21 days of receipt of the notice of suspension.
 
 (2) The written appeal shall set out the grounds of appeal, and a copy of the notice of suspension shall be attached.
 
@@ -77,19 +77,19 @@ The Rule Committee, in exercise of powers conferred by section 26(1) of the Care
 
 (4) Within 14 days of receiving a copy of the written appeal, the bishop may send or deliver to the President comments in writing in answer to the appeal, and a copy of those comments shall be sent or delivered by the bishop to the appellant at the same time as they are sent or delivered to the President.
 
-### 2.2. The President’s decision[^key-a2fcb4d8f07aafca4d4cd887c95ccd68]
+### 2.2. The President’s decision[^c-a2fcb4d8f07aafca4d4cd887c95ccd68]
 
 (1) The President may, within 28 days following the lodging of the appeal, either confirm or revoke the suspension.
 
 (2) The President’s decision shall be in writing, and a copy of the decision shall be sent or delivered to the appellant and to the bishop.
 
-(3) Where the suspension is revoked by the President on appeal, the bishop shall notify in writing each person to whom notice of suspension was given under Rule 69(11)[^key-800a7c3d28d4a1e7de609f32216480c7] of the Church Representation Rules that the suspension has been revoked.
+(3) Where the suspension is revoked by the President on appeal, the bishop shall notify in writing each person to whom notice of suspension was given under Rule 69(11)[^c-800a7c3d28d4a1e7de609f32216480c7] of the Church Representation Rules that the suspension has been revoked.
 
 (4) The registrar shall file a copy of the written notice of revocation in the diocesan registry.
 
 ## PART 3 — Readers
 
-### 3.1. Appeal by reader[^key-6cb68b6929bc30f4dd3fd94beed714f4]
+### 3.1. Appeal by reader[^c-6cb68b6929bc30f4dd3fd94beed714f4]
 
 (1) An appeal to the President by a reader under paragraph 8(1) of Canon E 6 against suspension shall be made in writing within 21 days of receipt of the notice of suspension.
 
@@ -99,7 +99,7 @@ The Rule Committee, in exercise of powers conferred by section 26(1) of the Care
 
 (4) Within 14 days of receiving a copy of the written appeal, the bishop may send or deliver to the President comments in writing in answer to the appeal, and a copy of those comments shall be sent or delivered by the bishop to the appellant at the same time as they are sent or delivered to the President.
 
-### 3.2. The President’s decision[^key-2a6649dfb2a58957a6a91c3db28b668c]
+### 3.2. The President’s decision[^c-2a6649dfb2a58957a6a91c3db28b668c]
 
 (1) The President may, within 28 days following the lodging of the appeal, either confirm or revoke the suspension.
 
@@ -111,7 +111,7 @@ The Rule Committee, in exercise of powers conferred by section 26(1) of the Care
 
 ## PART 4 — Lay workers
 
-### 4.1. Appeal by lay worker[^key-1fdf991021cf9eb344a0e16598b0a35e]
+### 4.1. Appeal by lay worker[^c-1fdf991021cf9eb344a0e16598b0a35e]
 
 (1) An appeal to the President by a lay worker under paragraph 10(1) of Canon E 8 against suspension shall be made in writing within 21 days of receipt of the notice of suspension.
 
@@ -121,7 +121,7 @@ The Rule Committee, in exercise of powers conferred by section 26(1) of the Care
 
 (4) Within 14 days of receiving a copy of the written appeal, the bishop may send or deliver to the President comments in writing in answer to the appeal, and a copy of those comments shall be sent or delivered by the bishop to the appellant at the same time as they are sent or delivered to the President.
 
-### 4.2. The President’s decision[^key-9d92ef314294d295672399d19af63173]
+### 4.2. The President’s decision[^c-9d92ef314294d295672399d19af63173]
 
 (1) The President may, within 28 days following the lodging of the appeal, either confirm or revoke the suspension.
 
@@ -133,7 +133,7 @@ The Rule Committee, in exercise of powers conferred by section 26(1) of the Care
 
 ## PART 5 — Miscellaneous
 
-### 5.1. Sending or delivering documents[^key-51740b0862690c5bfb3b7590ce349415]
+### 5.1. Sending or delivering documents[^c-51740b0862690c5bfb3b7590ce349415]
 
 (1) Any document required by these Rules to be sent or delivered to any person shall be sent or delivered by any of the following means—
 
@@ -146,17 +146,17 @@ The Rule Committee, in exercise of powers conferred by section 26(1) of the Care
 
 (3) The proper address for the President shall be care of the Legal Office of the National Institutions of the Church of England.
 
-### 5.2. Time[^key-ac9e6fbabb5927dfee471708e1e29bfe]
+### 5.2. Time[^c-ac9e6fbabb5927dfee471708e1e29bfe]
 
 (1) The President may extend the time limits specified under these Rules.
 
 (2) The time limits may be extended even if the time so specified has expired.
 
-### 5.3. Stay of suspension[^key-95ef47bee4a8f37239dc47a0d4276e8f]
+### 5.3. Stay of suspension[^c-95ef47bee4a8f37239dc47a0d4276e8f]
 
 There shall be no stay of suspension pending the determination of an appeal under these rules to the President.
 
-### 5.4. Interpretation[^key-c77ee08f28512889e2af81621c78dc5b]
+### 5.4. Interpretation[^c-c77ee08f28512889e2af81621c78dc5b]
 
 In these Rules, unless the context otherwise requires—
 
@@ -164,7 +164,7 @@ In these Rules, unless the context otherwise requires—
 - “President” means the President of Tribunals for the purposes of the Clergy Discipline Measure 2003; and section 4(3) and (4) of that Measure (delegation of functions) applies to the functions of the President under these Rules.
 - “registrar” means the registrar of the relevant diocese.
 
-### 5.5. Citation and commencement[^key-1571ddf06cbbb42f1d8b9ebf6921f014]
+### 5.5. Citation and commencement[^c-1571ddf06cbbb42f1d8b9ebf6921f014]
 
 (1) These Rules may be cited as the Suspension Appeals (Churchwardens etc.) Rules 2016.
 
@@ -226,34 +226,34 @@ Part 5 makes provision for certain miscellaneous matters.
 
 [^f00001]: Footnote: [1991 No. 1](https://www.legislation.gov.uk/ukcm/1991/1). Relevant amendments were made by section 45 of the Clergy Discipline Measure 2003 ([2003 No. 3](https://www.legislation.gov.uk/ukcm/2003/3)) and section 4 of the Safeguarding and Clergy Discipline Measure 2016 ([2016 No. 1](https://www.legislation.gov.uk/ukcm/2016/1)).
 
-[^key-f3af0b81abe1cfde014593ce87b281c6]: Commencement: Rule 1.1 comes into force in accordance with rule 5.5(2)
+[^c-f3af0b81abe1cfde014593ce87b281c6]: Commencement: Rule 1.1 comes into force in accordance with rule 5.5(2)
 
 [^f00002]: Footnote: [2001 No. 1](https://www.legislation.gov.uk/ukcm/2001/1).
 
-[^key-7d79ed06bb6597a068bfd6fcc189c69c]: Commencement: Rule 1.2 comes into force in accordance with rule 5.5(2)
+[^c-7d79ed06bb6597a068bfd6fcc189c69c]: Commencement: Rule 1.2 comes into force in accordance with rule 5.5(2)
 
-[^key-629de2b81aca365758c99fd5fe5596b8]: Commencement: Rule 2.1 comes into force in accordance with rule 5.5(2)
+[^c-629de2b81aca365758c99fd5fe5596b8]: Commencement: Rule 2.1 comes into force in accordance with rule 5.5(2)
 
-[^key-f5b4f6c076c0178660340f8b6f8a5c80]: Textual amendment: Words in [rule 2.1(1)](https://www.legislation.gov.uk/uksi/2016/816/rule/2.1/1) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 37](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/37); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-f5b4f6c076c0178660340f8b6f8a5c80]: Textual amendment: Words in [rule 2.1(1)](https://www.legislation.gov.uk/uksi/2016/816/rule/2.1/1) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 37](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/37); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
-[^key-a2fcb4d8f07aafca4d4cd887c95ccd68]: Commencement: Rule 2.2 comes into force in accordance with rule 5.5(2)
+[^c-a2fcb4d8f07aafca4d4cd887c95ccd68]: Commencement: Rule 2.2 comes into force in accordance with rule 5.5(2)
 
-[^key-800a7c3d28d4a1e7de609f32216480c7]: Textual amendment: Words in [rule 2.2(3)](https://www.legislation.gov.uk/uksi/2016/816/rule/2.2/3) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 38](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/38); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
+[^c-800a7c3d28d4a1e7de609f32216480c7]: Textual amendment: Words in [rule 2.2(3)](https://www.legislation.gov.uk/uksi/2016/816/rule/2.2/3) substituted (1.1.2020) by [Church Representation and Ministers Measure 2019 (No. 1)](https://www.legislation.gov.uk/ukcm/2019/1), [s. 1(3)](https://www.legislation.gov.uk/ukcm/2019/1/section/1/3), [Sch. 2 para. 38](https://www.legislation.gov.uk/ukcm/2019/1/schedule/2/paragraph/38); [S.I. 2019/1460](https://www.legislation.gov.uk/uksi/2019/1460), [art. 2](https://www.legislation.gov.uk/uksi/2019/1460/article/2)
 
-[^key-6cb68b6929bc30f4dd3fd94beed714f4]: Commencement: Rule 3.1 comes into force in accordance with rule 5.5(2)
+[^c-6cb68b6929bc30f4dd3fd94beed714f4]: Commencement: Rule 3.1 comes into force in accordance with rule 5.5(2)
 
-[^key-2a6649dfb2a58957a6a91c3db28b668c]: Commencement: Rule 3.2 comes into force in accordance with rule 5.5(2)
+[^c-2a6649dfb2a58957a6a91c3db28b668c]: Commencement: Rule 3.2 comes into force in accordance with rule 5.5(2)
 
-[^key-1fdf991021cf9eb344a0e16598b0a35e]: Commencement: Rule 4.1 comes into force in accordance with rule 5.5(2)
+[^c-1fdf991021cf9eb344a0e16598b0a35e]: Commencement: Rule 4.1 comes into force in accordance with rule 5.5(2)
 
-[^key-9d92ef314294d295672399d19af63173]: Commencement: Rule 4.2 comes into force in accordance with rule 5.5(2)
+[^c-9d92ef314294d295672399d19af63173]: Commencement: Rule 4.2 comes into force in accordance with rule 5.5(2)
 
-[^key-51740b0862690c5bfb3b7590ce349415]: Commencement: Rule 5.1 comes into force in accordance with rule 5.5(2)
+[^c-51740b0862690c5bfb3b7590ce349415]: Commencement: Rule 5.1 comes into force in accordance with rule 5.5(2)
 
-[^key-ac9e6fbabb5927dfee471708e1e29bfe]: Commencement: Rule 5.2 comes into force in accordance with rule 5.5(2)
+[^c-ac9e6fbabb5927dfee471708e1e29bfe]: Commencement: Rule 5.2 comes into force in accordance with rule 5.5(2)
 
-[^key-95ef47bee4a8f37239dc47a0d4276e8f]: Commencement: Rule 5.3 comes into force in accordance with rule 5.5(2)
+[^c-95ef47bee4a8f37239dc47a0d4276e8f]: Commencement: Rule 5.3 comes into force in accordance with rule 5.5(2)
 
-[^key-c77ee08f28512889e2af81621c78dc5b]: Commencement: Rule 5.4 comes into force in accordance with rule 5.5(2)
+[^c-c77ee08f28512889e2af81621c78dc5b]: Commencement: Rule 5.4 comes into force in accordance with rule 5.5(2)
 
-[^key-1571ddf06cbbb42f1d8b9ebf6921f014]: Commencement: Rule 5.5 comes into force in accordance with rule 5.5(2)
+[^c-1571ddf06cbbb42f1d8b9ebf6921f014]: Commencement: Rule 5.5 comes into force in accordance with rule 5.5(2)

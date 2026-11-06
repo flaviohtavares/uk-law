@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 283. Introductory[^key-53445e15ae1e5864dda97f98621966bf]
+## 283. Introductory[^c-53445e15ae1e5864dda97f98621966bf]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part of the Rules has effect for their interpretation and application; and 
 
 ## Annotations
 
-[^key-53445e15ae1e5864dda97f98621966bf]: Commencement: Rule 283 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)
+[^c-53445e15ae1e5864dda97f98621966bf]: Commencement: Rule 283 in force at 25.2.2009, see [rule 1](https://www.legislation.gov.uk/uksi/2009/356/rule/1)

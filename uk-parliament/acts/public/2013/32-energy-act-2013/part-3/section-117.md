@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 117. Application of Part 3[^key-b06e0ffbe099eaa1e0c077f7ee137a67]
+## 117. Application of Part 3[^c-b06e0ffbe099eaa1e0c077f7ee137a67]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b06e0ffbe099eaa1e0c077f7ee137a67]: Commencement: S. 117 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-b06e0ffbe099eaa1e0c077f7ee137a67]: Commencement: S. 117 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

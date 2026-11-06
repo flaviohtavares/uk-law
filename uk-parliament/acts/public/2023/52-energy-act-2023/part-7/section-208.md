@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 208. Grant of MPI licences to existing operators[^key-78d92182a36792f790b59513c0d5216b]
+## 208. Grant of MPI licences to existing operators[^c-78d92182a36792f790b59513c0d5216b]
 
 *Extent: E+W+S*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-78d92182a36792f790b59513c0d5216b]: Commencement: S. 208 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-78d92182a36792f790b59513c0d5216b]: Commencement: S. 208 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)

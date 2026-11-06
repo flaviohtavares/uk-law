@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Amendment of the Police Act 1996[^key-da24b657ae19331cefc5aceb3b5713b6]
+## 67. Amendment of the Police Act 1996[^c-da24b657ae19331cefc5aceb3b5713b6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-da24b657ae19331cefc5aceb3b5713b6]: Commencement: Reg. 67 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-da24b657ae19331cefc5aceb3b5713b6]: Commencement: Reg. 67 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691621]: Marginal citation: [1996 c. 16](https://www.legislation.gov.uk/ukpga/1996/16). Section 88(7) was inserted by section 103(1) of the [Police Reform Act 2002 (c. 30)](https://www.legislation.gov.uk/ukpga/2002/30) (“the PRA 2002”) and amended by [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809), and section 89(5) was inserted by section 104(1) of the PRA 2002 and amended by [S.I. 2012/1809](https://www.legislation.gov.uk/uksi/2012/1809).

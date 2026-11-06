@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 54. Trees subject to tree preservation order or within conservation area[^key-db926a8fc4a57aa81b8d57ca481930e4]
+## 54. Trees subject to tree preservation order or within conservation area[^c-db926a8fc4a57aa81b8d57ca481930e4]
 
 *Extent: E+W+S*
 
@@ -37,7 +37,7 @@ summary: ''
 
 ## Annotations
 
-[^key-db926a8fc4a57aa81b8d57ca481930e4]: Commencement: Art. 54 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
+[^c-db926a8fc4a57aa81b8d57ca481930e4]: Commencement: Art. 54 in force at 15.10.2020, see [art. 1](https://www.legislation.gov.uk/uksi/2020/1075/article/1)
 
 [^c24294731]: Marginal citation: [Section 206(1)](https://www.legislation.gov.uk/uksi/2020/1075/section/206/1) was amended by paragraph 11 of Schedule 8 to the 2008 Act.
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 192. Charges for copy documents[^key-e70c0666520394f262546521ac9349a0]
+## 192. Charges for copy documents[^c-e70c0666520394f262546521ac9349a0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ Except where prohibited by these Rules, the administrator is entitled to require
 
 ## Annotations
 
-[^key-e70c0666520394f262546521ac9349a0]: Commencement: Rule 192 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-e70c0666520394f262546521ac9349a0]: Commencement: Rule 192 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

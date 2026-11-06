@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 44. Rules of court[^key-76fa55c75fe5ebb49a7ff5e72a83571d]
+## 44. Rules of court[^c-76fa55c75fe5ebb49a7ff5e72a83571d]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-76fa55c75fe5ebb49a7ff5e72a83571d]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2024/1/section/44) in force at 31.1.2024, see [s. 47(2)(b)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/b) and [S.S.I. 2024/13](https://www.legislation.gov.uk/ssi/2024/13), [reg. 2](https://www.legislation.gov.uk/ssi/2024/13/regulation/2)
+[^c-76fa55c75fe5ebb49a7ff5e72a83571d]: Commencement: [S. 44](https://www.legislation.gov.uk/asp/2024/1/section/44) in force at 31.1.2024, see [s. 47(2)(b)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/b) and [S.S.I. 2024/13](https://www.legislation.gov.uk/ssi/2024/13), [reg. 2](https://www.legislation.gov.uk/ssi/2024/13/regulation/2)

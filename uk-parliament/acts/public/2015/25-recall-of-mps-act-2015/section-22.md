@@ -32,7 +32,7 @@ summary: ''
   - (c) an Act or Measure of the National Assembly for Wales,
   - (d) Northern Ireland legislation, or
   - (e) an instrument made under legislation as mentioned in any of paragraphs (a) to (d) above;
-- “**the Minister**” means the Minister for the Cabinet Office[^key-4f54be84ae0b7c49cb7f8a94bbf30a41] or the Secretary of State;
+- “**the Minister**” means the Minister for the Cabinet Office[^c-4f54be84ae0b7c49cb7f8a94bbf30a41] or the Secretary of State;
 - “**modifications**” includes additions, omissions and amendments;
 - “**MP**” means member of the House of Commons (and see section 2(5) regarding the time at which a person becomes an MP);
 - “**overturned on appeal**” means—
@@ -69,4 +69,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4f54be84ae0b7c49cb7f8a94bbf30a41]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/ukpga/2015/25/section/22/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/29) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-4f54be84ae0b7c49cb7f8a94bbf30a41]: Textual amendment: Words in [s. 22(1)](https://www.legislation.gov.uk/ukpga/2015/25/section/22/1) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 29](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/29) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

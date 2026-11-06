@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Unfitness through alcohol or drugs[^key-fd88bcaf914238ceaff483be308184b4]
+## 9. Unfitness through alcohol or drugs[^c-fd88bcaf914238ceaff483be308184b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ In section 20 of AFA 2006 (unfitness or misconduct through alcohol or drugs), af
 
 ## Annotations
 
-[^key-fd88bcaf914238ceaff483be308184b4]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2011/18/section/9) in force at 1.11.2013 by [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/a)
+[^c-fd88bcaf914238ceaff483be308184b4]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2011/18/section/9) in force at 1.11.2013 by [S.I. 2013/2501](https://www.legislation.gov.uk/uksi/2013/2501), [art. 3(a)](https://www.legislation.gov.uk/uksi/2013/2501/article/3/a)

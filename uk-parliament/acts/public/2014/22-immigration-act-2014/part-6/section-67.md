@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 67. Embarkation checks[^key-aff79a65e8f437a7fe56e52f0738735c][^M_C_4a795e26-254d-4a55-fe30-86f2e6a62e88][^key-7057e654afe7c51f7770f1f9da85794f]
+## 67. Embarkation checks[^c-aff79a65e8f437a7fe56e52f0738735c][^M_C_4a795e26-254d-4a55-fe30-86f2e6a62e88][^c-7057e654afe7c51f7770f1f9da85794f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,8 +24,8 @@ Schedule 8 (embarkation checks) has effect.
 
 ## Annotations
 
-[^key-aff79a65e8f437a7fe56e52f0738735c]: Commencement: S. 67 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(u)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/u)
+[^c-aff79a65e8f437a7fe56e52f0738735c]: Commencement: S. 67 in force at 28.7.2014 by [S.I. 2014/1820](https://www.legislation.gov.uk/uksi/2014/1820), [art. 3(u)](https://www.legislation.gov.uk/uksi/2014/1820/article/3/u)
 
 [^M_C_4a795e26-254d-4a55-fe30-86f2e6a62e88]: Modification: S. 67 extended (with modifications) to Jersey (coming into force in accordance with art. 1(1) of the amending S.I.) by [The Immigration (Jersey) Order 2015 (S.I. 2015/1532)](https://www.legislation.gov.uk/uksi/2015/1532), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2015/1532/article/1/1), [2(2)(3)](https://www.legislation.gov.uk/uksi/2015/1532/article/2/2/3), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1532/schedule/2) (with [art. 2(3)](https://www.legislation.gov.uk/uksi/2015/1532/article/2/3))
 
-[^key-7057e654afe7c51f7770f1f9da85794f]: Modification: S. 67 extended (with modifications) to Guernsey (coming into force in accordance with art. 1 of the amending S.I.) by [The Immigration (Guernsey) Order 2015 (S.I. 2015/1533)](https://www.legislation.gov.uk/uksi/2015/1533), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1533/article/1), [5](https://www.legislation.gov.uk/uksi/2015/1533/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1533/schedule/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/1533/article/6))
+[^c-7057e654afe7c51f7770f1f9da85794f]: Modification: S. 67 extended (with modifications) to Guernsey (coming into force in accordance with art. 1 of the amending S.I.) by [The Immigration (Guernsey) Order 2015 (S.I. 2015/1533)](https://www.legislation.gov.uk/uksi/2015/1533), [arts. 1](https://www.legislation.gov.uk/uksi/2015/1533/article/1), [5](https://www.legislation.gov.uk/uksi/2015/1533/article/5), [Sch. 2](https://www.legislation.gov.uk/uksi/2015/1533/schedule/2) (with [art. 6](https://www.legislation.gov.uk/uksi/2015/1533/article/6))

@@ -22,7 +22,7 @@ summary: ''
 
 Articles 15 and 21
 
-### PART 1 — TRUNK ROADS[^key-5f918e7c2826e98d265f51881a78692b]
+### PART 1 — TRUNK ROADS[^c-5f918e7c2826e98d265f51881a78692b]
 
 <table>
 <thead>
@@ -59,7 +59,7 @@ Articles 15 and 21
 </tbody>
 </table>
 
-### PART 2 — CLASSIFIED A ROADS[^key-5fb0c58f7d613129de9e0058363cedbc]
+### PART 2 — CLASSIFIED A ROADS[^c-5fb0c58f7d613129de9e0058363cedbc]
 
 <table>
 <thead>
@@ -75,7 +75,7 @@ Articles 15 and 21
 </tbody>
 </table>
 
-### PART 3 — CLASSIFIED B ROADS[^key-4d7214181fc0b5080805306c8f4d6a27]
+### PART 3 — CLASSIFIED B ROADS[^c-4d7214181fc0b5080805306c8f4d6a27]
 
 <table>
 <thead>
@@ -89,7 +89,7 @@ Articles 15 and 21
 </tbody>
 </table>
 
-### PART 4 — UNCLASSIFIED ROADS[^key-148f934f3d91bad26d7d3527c2eb279d]
+### PART 4 — UNCLASSIFIED ROADS[^c-148f934f3d91bad26d7d3527c2eb279d]
 
 <table>
 <thead>
@@ -105,7 +105,7 @@ Articles 15 and 21
 </tbody>
 </table>
 
-### PART 5 — SPEED LIMITS[^key-04b9e3757368c1640ce4ba62352629bb]
+### PART 5 — SPEED LIMITS[^c-04b9e3757368c1640ce4ba62352629bb]
 
 Note: Where speed limits are indicated on the permanent speed limits plans but are not referenced in this Schedule, they indicate that national speed limits apply in accordance with either—
 
@@ -194,7 +194,7 @@ and are not subject to this Order.
 </tbody>
 </table>
 
-### PART 6 — TRAFFIC REGULATION MEASURES (CLEARWAYS)[^key-b6460375c446cd84e1218c246ae988e4]
+### PART 6 — TRAFFIC REGULATION MEASURES (CLEARWAYS)[^c-b6460375c446cd84e1218c246ae988e4]
 
 <table>
 <thead>
@@ -233,7 +233,7 @@ and are not subject to this Order.
 </tbody>
 </table>
 
-### PART 7 — TRAFFIC REGULATION MEASURES (WAITING RESTRICTIONS)[^key-4a00029871397e3201dcb3736be20344]
+### PART 7 — TRAFFIC REGULATION MEASURES (WAITING RESTRICTIONS)[^c-4a00029871397e3201dcb3736be20344]
 
 <table>
 <thead>
@@ -245,7 +245,7 @@ and are not subject to this Order.
 </tbody>
 </table>
 
-### PART 8 — TRAFFIC REGULATION MEASURES (NO ENTRY)[^key-3e8540c921785ce958bf470db24525ce]
+### PART 8 — TRAFFIC REGULATION MEASURES (NO ENTRY)[^c-3e8540c921785ce958bf470db24525ce]
 
 <table>
 <thead>
@@ -272,7 +272,7 @@ and are not subject to this Order.
 </tbody>
 </table>
 
-### PART 9 — REVOCATIONS & VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^key-71ef127ccd608237c44610460c6bf0fe]
+### PART 9 — REVOCATIONS & VARIATIONS OF EXISTING TRAFFIC REGULATION ORDERS[^c-71ef127ccd608237c44610460c6bf0fe]
 
 <table>
 <thead>
@@ -315,7 +315,7 @@ and are not subject to this Order.
 
 [^f00118][^f00119][^f00120]
 
-### PART 10 — CYCLE TRACKS[^key-d3570deb3dcf54a245177f9e70091740]
+### PART 10 — CYCLE TRACKS[^c-d3570deb3dcf54a245177f9e70091740]
 
 <table>
 <thead>
@@ -349,15 +349,15 @@ and are not subject to this Order.
 
 ## Annotations
 
-[^key-5f918e7c2826e98d265f51881a78692b]: Commencement: Sch. 3 Pt. 1 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-5f918e7c2826e98d265f51881a78692b]: Commencement: Sch. 3 Pt. 1 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-5fb0c58f7d613129de9e0058363cedbc]: Commencement: Sch. 3 Pt. 2 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-5fb0c58f7d613129de9e0058363cedbc]: Commencement: Sch. 3 Pt. 2 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-4d7214181fc0b5080805306c8f4d6a27]: Commencement: Sch. 3 Pt. 3 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-4d7214181fc0b5080805306c8f4d6a27]: Commencement: Sch. 3 Pt. 3 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-148f934f3d91bad26d7d3527c2eb279d]: Commencement: Sch. 3 Pt. 4 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-148f934f3d91bad26d7d3527c2eb279d]: Commencement: Sch. 3 Pt. 4 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-04b9e3757368c1640ce4ba62352629bb]: Commencement: Sch. 3 Pt. 5 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-04b9e3757368c1640ce4ba62352629bb]: Commencement: Sch. 3 Pt. 5 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00114]: Footnote: There are amendments to section 86 which are not relevant to this Order.
 
@@ -367,13 +367,13 @@ and are not subject to this Order.
 
 [^f00117]: Footnote: There are amendments to sections 81 and 82 which are not relevant to this Order.
 
-[^key-b6460375c446cd84e1218c246ae988e4]: Commencement: Sch. 3 Pt. 6 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-b6460375c446cd84e1218c246ae988e4]: Commencement: Sch. 3 Pt. 6 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-4a00029871397e3201dcb3736be20344]: Commencement: Sch. 3 Pt. 7 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-4a00029871397e3201dcb3736be20344]: Commencement: Sch. 3 Pt. 7 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-3e8540c921785ce958bf470db24525ce]: Commencement: Sch. 3 Pt. 8 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-3e8540c921785ce958bf470db24525ce]: Commencement: Sch. 3 Pt. 8 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
-[^key-71ef127ccd608237c44610460c6bf0fe]: Commencement: Sch. 3 Pt. 9 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-71ef127ccd608237c44610460c6bf0fe]: Commencement: Sch. 3 Pt. 9 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
 
 [^f00118]: Footnote: [S.I. 2012/1082](https://www.legislation.gov.uk/uksi/2012/1082)
 
@@ -381,4 +381,4 @@ and are not subject to this Order.
 
 [^f00120]: Footnote: [S.I. 2003/3263](https://www.legislation.gov.uk/uksi/2003/3263)
 
-[^key-d3570deb3dcf54a245177f9e70091740]: Commencement: Sch. 3 Pt. 10 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)
+[^c-d3570deb3dcf54a245177f9e70091740]: Commencement: Sch. 3 Pt. 10 in force at 22.10.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1090/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 289. Postal delivery of documents[^key-5ba4bd0af699d7687608fe779d152224]
+## 289. Postal delivery of documents[^c-5ba4bd0af699d7687608fe779d152224]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Unless in any particular case some other form of delivery is required by the Reg
 
 ## Annotations
 
-[^key-5ba4bd0af699d7687608fe779d152224]: Commencement: [Rule 289](https://www.legislation.gov.uk/uksi/2011/1301/rule/289) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-5ba4bd0af699d7687608fe779d152224]: Commencement: [Rule 289](https://www.legislation.gov.uk/uksi/2011/1301/rule/289) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

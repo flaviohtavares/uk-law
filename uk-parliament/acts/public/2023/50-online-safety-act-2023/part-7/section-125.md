@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 125. Notices under section 121(1): supplementary[^key-46e3c123021a57312bb30db57e521a6a][^key-3e7f8bc6f00c59cd9aa59906e56ca344]
+## 125. Notices under section 121(1): supplementary[^c-46e3c123021a57312bb30db57e521a6a][^c-3e7f8bc6f00c59cd9aa59906e56ca344]
 
 *Extent: E+W+S+N.I.*
 
@@ -73,6 +73,6 @@ summary: ''
 
 ## Annotations
 
-[^key-46e3c123021a57312bb30db57e521a6a]: Commencement: S. 125 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
+[^c-46e3c123021a57312bb30db57e521a6a]: Commencement: S. 125 not in force at Royal Assent, see [s. 240(1)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/1)
 
-[^key-3e7f8bc6f00c59cd9aa59906e56ca344]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2023/50/section/125) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z16)
+[^c-3e7f8bc6f00c59cd9aa59906e56ca344]: Commencement: [S. 125](https://www.legislation.gov.uk/ukpga/2023/50/section/125) in force at 10.1.2024 by [S.I. 2023/1420](https://www.legislation.gov.uk/uksi/2023/1420), [reg. 2(z16)](https://www.legislation.gov.uk/uksi/2023/1420/regulation/2/z16)

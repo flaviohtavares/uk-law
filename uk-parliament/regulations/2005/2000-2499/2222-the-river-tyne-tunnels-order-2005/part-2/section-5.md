@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Power to execute street works[^key-ed3078e6d55a3aff172e81d26c5fe17b]
+## 5. Power to execute street works[^c-ed3078e6d55a3aff172e81d26c5fe17b]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ed3078e6d55a3aff172e81d26c5fe17b]: Commencement: Art. 5 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-ed3078e6d55a3aff172e81d26c5fe17b]: Commencement: Art. 5 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

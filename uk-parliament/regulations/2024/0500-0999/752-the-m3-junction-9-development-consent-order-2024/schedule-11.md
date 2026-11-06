@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 11 — DOCUMENTS TO BE CERTIFIED[^key-f1d529592e16d887aa49f253535790db]
+## SCHEDULE 11 — DOCUMENTS TO BE CERTIFIED[^c-f1d529592e16d887aa49f253535790db]
 
 *Extent: E+W*
 
@@ -156,4 +156,4 @@ Articles 28 and 46
 
 ## Annotations
 
-[^key-f1d529592e16d887aa49f253535790db]: Commencement: [Sch. 11](https://www.legislation.gov.uk/uksi/2024/752/schedule/11) in force at 9.10.2024 (as amended by S.I. 2024/1020, Sch.), see [art. 1](https://www.legislation.gov.uk/uksi/2024/752/article/1)
+[^c-f1d529592e16d887aa49f253535790db]: Commencement: [Sch. 11](https://www.legislation.gov.uk/uksi/2024/752/schedule/11) in force at 9.10.2024 (as amended by S.I. 2024/1020, Sch.), see [art. 1](https://www.legislation.gov.uk/uksi/2024/752/article/1)

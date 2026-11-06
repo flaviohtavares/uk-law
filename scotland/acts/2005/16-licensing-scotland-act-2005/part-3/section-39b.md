@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39B. Recall of revocation of licence under section 39(2A)[^key-52ecf2fe2637359971dfcc38f45b92b5]
+## 39B. Recall of revocation of licence under section 39(2A)[^c-52ecf2fe2637359971dfcc38f45b92b5]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-52ecf2fe2637359971dfcc38f45b92b5]: Textual amendment: S. 39B inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 45(6)](https://www.legislation.gov.uk/asp/2015/10/section/45/6), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))
+[^c-52ecf2fe2637359971dfcc38f45b92b5]: Textual amendment: S. 39B inserted (15.5.2017) by [Air Weapons and Licensing (Scotland) Act 2015 (asp 10)](https://www.legislation.gov.uk/asp/2015/10), [ss. 45(6)](https://www.legislation.gov.uk/asp/2015/10/section/45/6), [88(2)](https://www.legislation.gov.uk/asp/2015/10/section/88/2); [S.S.I. 2017/119](https://www.legislation.gov.uk/ssi/2017/119), [art. 2](https://www.legislation.gov.uk/ssi/2017/119/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/119/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2017/119/article/3), [4](https://www.legislation.gov.uk/ssi/2017/119/article/4))

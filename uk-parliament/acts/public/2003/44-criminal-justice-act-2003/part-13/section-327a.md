@@ -46,7 +46,7 @@ summary: ''
 - (b) the reasons for making a decision not to disclose information under this section, and
 - (c) the information which is disclosed under this section, any conditions imposed in relation to its further disclosure and the name and address of the person to whom it is disclosed.
 
-(9) Nothing in this section requires or authorises the making of a disclosure which contravenes the data protection legislation[^key-de86f28a4c81d6f397e7bf8d3fbf4d8e].
+(9) Nothing in this section requires or authorises the making of a disclosure which contravenes the data protection legislation[^c-de86f28a4c81d6f397e7bf8d3fbf4d8e].
 
 (10) This section is not to be taken as affecting any power of any person to disclose any information about a child sex offender.
 
@@ -54,4 +54,4 @@ summary: ''
 
 [^c20410851]: Textual amendment: Ss. 327A, 327B inserted (14.7.2008) by [Criminal Justice and Immigration Act 2008 (c. 4)](https://www.legislation.gov.uk/ukpga/2008/4), [ss. 140](https://www.legislation.gov.uk/ukpga/2008/4/section/140), [153](https://www.legislation.gov.uk/ukpga/2008/4/section/153); [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 43](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/43)
 
-[^key-de86f28a4c81d6f397e7bf8d3fbf4d8e]: Textual amendment: Words in s. 327A(9) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 96](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/96) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-de86f28a4c81d6f397e7bf8d3fbf4d8e]: Textual amendment: Words in s. 327A(9) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 96](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/96) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

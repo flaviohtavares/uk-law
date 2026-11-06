@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198. Power of the regulators to give transitional directions[^key-11ce67f7b15e8aa9a329e254a2744a8b]
+## 198. Power of the regulators to give transitional directions[^c-11ce67f7b15e8aa9a329e254a2744a8b]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,6 +33,6 @@ summary: ''
 
 ## Annotations
 
-[^key-11ce67f7b15e8aa9a329e254a2744a8b]: Commencement: Reg. 198 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
+[^c-11ce67f7b15e8aa9a329e254a2744a8b]: Commencement: Reg. 198 in force at 23.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/632/regulation/1/2)
 
 [^c23661071]: Marginal citation: [Section 138A](https://www.legislation.gov.uk/uksi/2019/632/section/138A) was inserted by section 24 of the Financial Services Act 2012.

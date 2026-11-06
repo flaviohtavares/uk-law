@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Model clauses of petroleum licences[^key-4f7f74af543f1a742bd515e11bebe34f]
+## 77. Model clauses of petroleum licences[^c-4f7f74af543f1a742bd515e11bebe34f]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,12 +32,12 @@ summary: ''
 
 (6) A reference in any document to provisions of a licence which are amended by Schedule 3 is to be construed, unless the nature of the document or the context otherwise requires, as a reference to those provisions as amended.
 
-(7) A provision inserted in a licence by virtue of Schedule 3 may be altered or deleted by deed executed by the Secretary of State and the licensee or, as respects Scotland, by an instrument subscribed or authenticated *(Extent: S)*[^key-1c1d8b36330d01933e1477393d42350f] by the Secretary of State and the licensee in accordance with the Requirements of Writing (Scotland) Act 1995 (c. 7).
+(7) A provision inserted in a licence by virtue of Schedule 3 may be altered or deleted by deed executed by the Secretary of State and the licensee or, as respects Scotland, by an instrument subscribed or authenticated *(Extent: S)*[^c-1c1d8b36330d01933e1477393d42350f] by the Secretary of State and the licensee in accordance with the Requirements of Writing (Scotland) Act 1995 (c. 7).
 
 (8) In this section “**commencement**”, in relation to a paragraph of Schedule 3, means the time when that paragraph comes into force.
 
 ## Annotations
 
-[^key-4f7f74af543f1a742bd515e11bebe34f]: Commencement: S. 77 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
+[^c-4f7f74af543f1a742bd515e11bebe34f]: Commencement: S. 77 in force at 26.1.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 2(c)(ii)](https://www.legislation.gov.uk/uksi/2009/45/article/2/c/ii)
 
-[^key-1c1d8b36330d01933e1477393d42350f]: Textual amendment: Words in [s. 77(7)](https://www.legislation.gov.uk/ukpga/2008/32/section/77/7) inserted (S.) (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 55](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/55) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)
+[^c-1c1d8b36330d01933e1477393d42350f]: Textual amendment: Words in [s. 77(7)](https://www.legislation.gov.uk/ukpga/2008/32/section/77/7) inserted (S.) (8.12.2014) by [Land Registration etc. (Scotland) Act 2012 (asp 5)](https://www.legislation.gov.uk/asp/2012/5), [ss. 122](https://www.legislation.gov.uk/asp/2012/5/section/122), [123](https://www.legislation.gov.uk/asp/2012/5/section/123), [Sch. 5 para. 55](https://www.legislation.gov.uk/asp/2012/5/schedule/5/paragraph/55) (with [s. 121](https://www.legislation.gov.uk/asp/2012/5/section/121), [Sch. 4 paras. 13](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/13), [16](https://www.legislation.gov.uk/asp/2012/5/schedule/4/paragraph/16)); [S.S.I. 2014/127](https://www.legislation.gov.uk/ssi/2014/127), [art. 2](https://www.legislation.gov.uk/ssi/2014/127/article/2)

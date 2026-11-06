@@ -27,164 +27,164 @@ summary: ''
 
 2006 No. 524
 
-HEALTH AND SAFETY *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+HEALTH AND SAFETY *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-The Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 2006 *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+The Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 2006 *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-Made *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+Made *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-18th December 2006 *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+18th December 2006 *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-Coming into operation *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+Coming into operation *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-for the purpose of regulation 3(12) to 3(16) *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+for the purpose of regulation 3(12) to 3(16) *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-1st May 2007 *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+1st May 2007 *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-for all other purposes *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+for all other purposes *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-1st February 2007 *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+1st February 2007 *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-The Department of Enterprise, Trade and Investment *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00001], being the Department concerned *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00002], makes the following Regulations in exercise of powers conferred on it by Articles 17(1) and (2) and 40(2), (4) and 55(2) of and paragraphs 1(1), (2), 10, 14(1) and 15 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978 *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00003] (“the *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] 1978 Order *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]”). It is a Department designated for the purposes of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00004] in relation to the control and regulation of genetically modified organisms *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00005]. The Regulations give effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A) *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00006] of the *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] 1978 Order *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] after the Executive had carried out consultations in accordance with Article 46(3) *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00007] of the *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] 1978 Order *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed].
+The Department of Enterprise, Trade and Investment *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00001], being the Department concerned *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00002], makes the following Regulations in exercise of powers conferred on it by Articles 17(1) and (2) and 40(2), (4) and 55(2) of and paragraphs 1(1), (2), 10, 14(1) and 15 of Schedule 3 to, the Health and Safety at Work (Northern Ireland) Order 1978 *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00003] (“the *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] 1978 Order *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]”). It is a Department designated for the purposes of section 2(2) of the European Communities Act 1972 *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00004] in relation to the control and regulation of genetically modified organisms *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00005]. The Regulations give effect without modifications to proposals submitted to it by the Health and Safety Executive for Northern Ireland under Article 13(1A) *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00006] of the *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] 1978 Order *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] after the Executive had carried out consultations in accordance with Article 46(3) *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00007] of the *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] 1978 Order *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed].
 
-## 1. Citation and Commencement (affected by repeal, see note)[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+## 1. Citation and Commencement (affected by repeal, see note)[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-These Regulations may be cited as the Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 2006 and for the purpose of regulation 3(12) to 3(16) shall come into operation on 1st May 2007 and for all other purposes on 1st February 2007. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+These Regulations may be cited as the Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 2006 and for the purpose of regulation 3(12) to 3(16) shall come into operation on 1st May 2007 and for all other purposes on 1st February 2007. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-## 2. Interpretation (affected by repeal, see note)[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+## 2. Interpretation (affected by repeal, see note)[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(1) In these Regulations, “the *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] 2001 Regulations *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]” means the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2001 *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00008].
+(1) In these Regulations, “the *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] 2001 Regulations *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]” means the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2001 *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00008].
 
-(2) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00009] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(2) The Interpretation Act (Northern Ireland) 1954 *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00009] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-## 3. Amendment of the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2001 (affected by repeal, see note)[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+## 3. Amendment of the Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2001 (affected by repeal, see note)[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(1) The *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] 2001 Regulations *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] shall be amended as follows. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(1) The *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] 2001 Regulations *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] shall be amended as follows. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(2) In regulation 2(1)— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(2) In regulation 2(1)— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-- (a) after the definition of “organism”, insert— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+- (a) after the definition of “organism”, insert— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-  > - “transboundary movement” has the meaning assigned to it by Article 3 of Regulation 1946/2003/ *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]EC *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] of the European Parliament and of the Council on transboundary movements of genetically modified organisms *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00010]
+  > - “transboundary movement” has the meaning assigned to it by Article 3 of Regulation 1946/2003/ *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]EC *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] of the European Parliament and of the Council on transboundary movements of genetically modified organisms *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00010]
 
-  ; and *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
-- (b) the definition of “territorial waters” shall be omitted. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+  ; and *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
+- (b) the definition of “territorial waters” shall be omitted. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(3) In regulation 3— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(3) In regulation 3— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-- (a) In (3)(a)(i)(bb) after “Article 13(4) of Council Directive *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] [90/220/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1990/0220)[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]” insert “or Articles 15(3), 17(6), or 18(2) of Directive *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] [2001/18/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2001/0018)[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] of the European Parliament and Council *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00011]”;
-- (b) for (3)(a)(iii) substitute, “food or feed authorised in accordance with the provisions of Regulation 1829/2003/ *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]EC *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] of the European Parliament and of the Council on genetically modified food and feed *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00012]”;
-- (c) insert as (3)(a)(iv), “food products notified to the Commission in accordance with the provisions of Article 8.1, or feed products notified to the Commission in accordance with the provisions of Article 20.1, of Council Regulation 1829/2003/ *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]EC *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]”.
+- (a) In (3)(a)(i)(bb) after “Article 13(4) of Council Directive *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] [90/220/EEC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/1990/0220)[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]” insert “or Articles 15(3), 17(6), or 18(2) of Directive *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] [2001/18/EC *(affected by repeal, see note)*](https://www.legislation.gov.uk/european/directive/2001/0018)[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] of the European Parliament and Council *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00011]”;
+- (b) for (3)(a)(iii) substitute, “food or feed authorised in accordance with the provisions of Regulation 1829/2003/ *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]EC *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] of the European Parliament and of the Council on genetically modified food and feed *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00012]”;
+- (c) insert as (3)(a)(iv), “food products notified to the Commission in accordance with the provisions of Article 8.1, or feed products notified to the Commission in accordance with the provisions of Article 20.1, of Council Regulation 1829/2003/ *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]EC *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]”.
 
-(4) In regulation 15— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(4) In regulation 15— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-- (a) in paragraph (4), for the words “Subject to paragraphs (5) and (6)”, substitute “Subject to paragraph (5)”; *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
-- (b) in paragraph (5) for the words “Subject to paragraph (6), where a change referred to in paragraph (3)(a)”, substitute “Where a change referred to in paragraph (4)(a)”; and *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
-- (c) omit paragraph (6). *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+- (a) in paragraph (4), for the words “Subject to paragraphs (5) and (6)”, substitute “Subject to paragraph (5)”; *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
+- (b) in paragraph (5) for the words “Subject to paragraph (6), where a change referred to in paragraph (3)(a)”, substitute “Where a change referred to in paragraph (4)(a)”; and *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
+- (c) omit paragraph (6). *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(5) In regulation 18(2), after “necessary”, insert “or practicable”. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(5) In regulation 18(2), after “necessary”, insert “or practicable”. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(6) Regulations 22 and 23 shall be omitted. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(6) Regulations 22 and 23 shall be omitted. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(7) In regulation 24— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(7) In regulation 24— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-- (a) for paragraph 1 there shall be substituted the following paragraph, namely—“This regulation is subject to regulation 24A.”; *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
-- (b) in paragraph (2), for the words “register referred to in paragraph (1)”, there shall be substituted the words— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+- (a) for paragraph 1 there shall be substituted the following paragraph, namely—“This regulation is subject to regulation 24A.”; *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
+- (b) in paragraph (2), for the words “register referred to in paragraph (1)”, there shall be substituted the words— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-  > competent authority shall maintain a register of every notification submitted under regulations 9 to 12 and the register *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
-
-  ;
-- (c) in paragraph (3), there shall be omitted the words “referred to in paragraph (1)”, and for the words “regulation 22(2)(b) or shall be withheld under regulation 22(8)” substitute “ the provisions of the Environmental Information Regulations 2004 *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00013].”;
-- (d) for paragraph (4) substitute— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
-
-  > (4) Information shall be entered in the register within 14 days of its receipt by the competent authority. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+  > competent authority shall maintain a register of every notification submitted under regulations 9 to 12 and the register *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
   ;
-- (e) omit paragraph (5); and *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
-- (f) after paragraph (8), there shall be added the following paragraph, namely— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+- (c) in paragraph (3), there shall be omitted the words “referred to in paragraph (1)”, and for the words “regulation 22(2)(b) or shall be withheld under regulation 22(8)” substitute “ the provisions of the Environmental Information Regulations 2004 *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00013].”;
+- (d) for paragraph (4) substitute— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-  > (9) In this regulation “the register” means the register maintained by the competent authority in accordance with paragraph (2) *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+  > (4) Information shall be entered in the register within 14 days of its receipt by the competent authority. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
+
+  ;
+- (e) omit paragraph (5); and *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
+- (f) after paragraph (8), there shall be added the following paragraph, namely— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
+
+  > (9) In this regulation “the register” means the register maintained by the competent authority in accordance with paragraph (2) *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
   .
 
-(8) After regulation 24 there shall be inserted the following regulation, namely— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(8) After regulation 24 there shall be inserted the following regulation, namely— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-> **24A. “Information not to be included in the register (affected by repeal, see note)[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]**
+> **24A. “Information not to be included in the register (affected by repeal, see note)[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]**
 >
-> (1) No information shall be included in the register if and so long as, in the opinion of the Department of Enterprise, Trade and Investment, the inclusion in the register of that information, or information of that description, would be a breach of confidentiality. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> (1) No information shall be included in the register if and so long as, in the opinion of the Department of Enterprise, Trade and Investment, the inclusion in the register of that information, or information of that description, would be a breach of confidentiality. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 >
-> (2) For the purpose of securing the exclusion from the register of information to which paragraph (1) applies, the Department of Enterprise, Trade and Investment may give to the competent authority directions— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> (2) For the purpose of securing the exclusion from the register of information to which paragraph (1) applies, the Department of Enterprise, Trade and Investment may give to the competent authority directions— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 >
-> - (a) specifying information, or descriptions of information, to be excluded from the register; or *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
-> - (b) specifying descriptions of information to be referred to the Department of Enterprise, Trade and Investment for its determination. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> - (a) specifying information, or descriptions of information, to be excluded from the register; or *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> - (b) specifying descriptions of information to be referred to the Department of Enterprise, Trade and Investment for its determination. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 >
-> (3) No information referred to the Department of Enterprise, Trade and Investment pursuant to paragraph (2)(b) shall be included in the register until the Department of Enterprise, Trade and Investment determines that it should be so included. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> (3) No information referred to the Department of Enterprise, Trade and Investment pursuant to paragraph (2)(b) shall be included in the register until the Department of Enterprise, Trade and Investment determines that it should be so included. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 >
-> (4) The competent authority shall notify the Department of Enterprise, Trade and Investment of any information it excludes from the register in accordance with directions given to it under paragraph (2). *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> (4) The competent authority shall notify the Department of Enterprise, Trade and Investment of any information it excludes from the register in accordance with directions given to it under paragraph (2). *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 >
-> (5) A person may give a written notice to the Department of Enterprise, Trade and Investment — *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> (5) A person may give a written notice to the Department of Enterprise, Trade and Investment — *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 >
-> - (a) specifying information which appears to that person to be information to which paragraph (1) may apply; and *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
-> - (b) indicating its apparent nature. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> - (a) specifying information which appears to that person to be information to which paragraph (1) may apply; and *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> - (b) indicating its apparent nature. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 >
-> (6) If a person gives a written notice pursuant to paragraph (5), at the same time he shall give written notice to the competent authority that he has done so. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> (6) If a person gives a written notice pursuant to paragraph (5), at the same time he shall give written notice to the competent authority that he has done so. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 >
-> (7) No information notified pursuant to paragraph (5) shall be included in the register until the Department of Enterprise, Trade and Investment has determined that it shall be so included. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> (7) No information notified pursuant to paragraph (5) shall be included in the register until the Department of Enterprise, Trade and Investment has determined that it shall be so included. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 >
-> (8) In this regulation, “the Register” means the register maintained by the competent authority in accordance with regulation 24(2). *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> (8) In this regulation, “the Register” means the register maintained by the competent authority in accordance with regulation 24(2). *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
 .
 
-(9) In regulation 29 omit paragraph (3). *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(9) In regulation 29 omit paragraph (3). *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(10) Omit regulation 30. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(10) Omit regulation 30. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(11) In paragraph 2 of Schedule 6— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(11) In paragraph 2 of Schedule 6— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-- (a) omit the word “and” at the end of sub-paragraph (n)(vi); *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
-- (b) For sub-paragraph (o), substitute— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+- (a) omit the word “and” at the end of sub-paragraph (n)(vi); *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
+- (b) For sub-paragraph (o), substitute— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-  > - (o) a copy of the assessment referred to in regulation 6(1); and *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
-  > - (p) whether the genetically modified organism is likely to be subject to transboundary movement. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+  > - (o) a copy of the assessment referred to in regulation 6(1); and *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
+  > - (p) whether the genetically modified organism is likely to be subject to transboundary movement. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(12) In Schedule 8, in Table 1a for point 17, substitute— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(12) In Schedule 8, in Table 1a for point 17, substitute— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
 > |  | 1 | 2 | 3 | 4 |
 > | --- | --- | --- | --- | --- |
-> | Inactivation of GMMs in contaminated material and waste *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | required by validated means *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | required by validated means *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | required by validated means, with waste inactivated within the laboratory suite *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | required by validated means, with waste inactivated within the laboratory *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] |
+> | Inactivation of GMMs in contaminated material and waste *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | required by validated means *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | required by validated means *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | required by validated means, with waste inactivated within the laboratory suite *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | required by validated means, with waste inactivated within the laboratory *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] |
 
-(13) In Schedule 8, in Table 1b point 3 (control of contaminated run-off water), for containment level 2, for the word “prevent” substitute “minimise”. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(13) In Schedule 8, in Table 1b point 3 (control of contaminated run-off water), for containment level 2, for the word “prevent” substitute “minimise”. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(14) In Schedule 8, in Table 1b point 6 (procedures for transfer of living material), for containment level 2, for the word “prevent” substitute “minimise”. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(14) In Schedule 8, in Table 1b point 6 (procedures for transfer of living material), for containment level 2, for the word “prevent” substitute “minimise”. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(15) In Schedule 8, in Table 1c for point 8, substitute— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(15) In Schedule 8, in Table 1c for point 8, substitute— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-> |  |  | 1 | 2 | 3 | 4 | Additional *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] |
+> |  |  | 1 | 2 | 3 | 4 | Additional *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] |
 > | --- | --- | --- | --- | --- | --- | --- |
-> | 8 | Animals kept in appropriate containment facilities, such as cages, pens or tanks but not isolators *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | required where and to the extent the risk assessment shows it is required *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | required where and to the extent the risk assessment shows it is required *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | required where and to the extent the risk assessment shows it is required *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | required where and to the extent the risk assessment shows it is required *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | Additional *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] |
+> | 8 | Animals kept in appropriate containment facilities, such as cages, pens or tanks but not isolators *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | required where and to the extent the risk assessment shows it is required *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | required where and to the extent the risk assessment shows it is required *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | required where and to the extent the risk assessment shows it is required *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | required where and to the extent the risk assessment shows it is required *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | Additional *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] |
 
-(16) In Schedule 8, in Table 1c, after point 8, insert— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(16) In Schedule 8, in Table 1c, after point 8, insert— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-> |  |  | 1 | 2 | 3 | 4 | Additional *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] |
+> |  |  | 1 | 2 | 3 | 4 | Additional *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] |
 > | --- | --- | --- | --- | --- | --- | --- |
-> | 9 | Animals kept in isolators *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | required where and to the extent the risk assessment shows it is required *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | required where and to the extent the risk assessment shows it is required *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | required *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | required *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] | Additional *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] |
+> | 9 | Animals kept in isolators *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | required where and to the extent the risk assessment shows it is required *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | required where and to the extent the risk assessment shows it is required *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | required *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | required *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] | Additional *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] |
 
 .
 
-(17) Omit Schedule 11. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(17) Omit Schedule 11. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-## 4. Amendment of the Health and Safety (Fees) Regulations (Northern Ireland) 2005 (affected by repeal, see note)[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+## 4. Amendment of the Health and Safety (Fees) Regulations (Northern Ireland) 2005 (affected by repeal, see note)[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(1) Regulation 10 of the Health and Safety (Fees) Regulations (Northern Ireland) 2005 *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00014] shall be amended as follows. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(1) Regulation 10 of the Health and Safety (Fees) Regulations (Northern Ireland) 2005 *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed][^f00014] shall be amended as follows. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(2) At the beginning of paragraph (1) insert the following words “Subject to paragraph (1A)”; *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(2) At the beginning of paragraph (1) insert the following words “Subject to paragraph (1A)”; *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-(3) after paragraph (1) there shall be inserted the following paragraph— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+(3) after paragraph (1) there shall be inserted the following paragraph— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
-> (1A) No fee shall be payable by a notifier to the competent authority for a notification of an activity involving genetic modification in class 3 under regulation 11(1) or an application for the written agreement of that authority under regulation 18(2) of the *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] 2001 Regulations *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed] in circumstances where— *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> (1A) No fee shall be payable by a notifier to the competent authority for a notification of an activity involving genetic modification in class 3 under regulation 11(1) or an application for the written agreement of that authority under regulation 18(2) of the *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] 2001 Regulations *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed] in circumstances where— *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 >
-> - (a) the notifier is of the view, and makes a statement in writing to the effect, that the containment measure for the activity in question has changed as a result of an amendment to any of the containment measures that has been effected by the Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 2006; and *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
-> - (b) the application was submitted to the authority no later than 1st April 2007. *(affected by repeal, see note)*[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> - (a) the notifier is of the view, and makes a statement in writing to the effect, that the containment measure for the activity in question has changed as a result of an amendment to any of the containment measures that has been effected by the Genetically Modified Organisms (Contained Use) (Amendment) Regulations (Northern Ireland) 2006; and *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
+> - (b) the application was submitted to the authority no later than 1st April 2007. *(affected by repeal, see note)*[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]
 
 .
 
@@ -216,7 +216,7 @@ EXPLANATORY NOTE
 
 ## Annotations
 
-[^key-f9f6502e436cc7fc40a18bf4d1eb46ed]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/524) revoked (23.10.2015) by [The Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015 (S.R. 2015/339)](https://www.legislation.gov.uk/nisr/2015/339), [reg. 36(b)](https://www.legislation.gov.uk/nisr/2015/339/regulation/36/b) (with [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2))
+[^c-f9f6502e436cc7fc40a18bf4d1eb46ed]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2006/524) revoked (23.10.2015) by [The Genetically Modified Organisms (Contained Use) Regulations (Northern Ireland) 2015 (S.R. 2015/339)](https://www.legislation.gov.uk/nisr/2015/339), [reg. 36(b)](https://www.legislation.gov.uk/nisr/2015/339/regulation/36/b) (with [reg. 3(1)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/1)[(2)](https://www.legislation.gov.uk/nisr/2015/339/regulation/3/2))
 
 [^f00001]: Footnote: Formerly the Department of Economic Development; see [1999 No. 283 (N.I. 1)](https://www.legislation.gov.uk/nisi/1999/283), Article 3(5)
 

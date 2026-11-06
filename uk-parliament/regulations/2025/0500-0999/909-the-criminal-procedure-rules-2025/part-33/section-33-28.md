@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 33.28. Application to vary or discharge order for extended detention[^key-ef834f1e553406a79305edaa68231fc8]
+## 33.28. Application to vary or discharge order for extended detention[^c-ef834f1e553406a79305edaa68231fc8]
 
 *Extent: E+W*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef834f1e553406a79305edaa68231fc8]: Commencement: [Rule 33.28](https://www.legislation.gov.uk/uksi/2025/909/rule/33.28) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ef834f1e553406a79305edaa68231fc8]: Commencement: [Rule 33.28](https://www.legislation.gov.uk/uksi/2025/909/rule/33.28) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00833]: Footnote: [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29); section 47N was inserted by section 55 of the Policing and Crime Act [2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26).

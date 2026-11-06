@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Dealing with the late payment fund: payments into the Consolidated Fund and to the Great Britain authority[^key-2bf77cffb2e7bc8d2a112acac5219915]
+## 43. Dealing with the late payment fund: payments into the Consolidated Fund and to the Great Britain authority[^c-2bf77cffb2e7bc8d2a112acac5219915]
 
 *Extent: N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2bf77cffb2e7bc8d2a112acac5219915]: Commencement: Art. 43 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-2bf77cffb2e7bc8d2a112acac5219915]: Commencement: Art. 43 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 116M. Duty to disclose information on Welsh land transactions to HMRC[^key-e245e107e61639c1e923cd5f4f8cad69]
+## 116M. Duty to disclose information on Welsh land transactions to HMRC[^c-e245e107e61639c1e923cd5f4f8cad69]
 
 *Extent: E+W+S+N.I.*
 
-(1) The Welsh Revenue Authority[^key-5e11573f590d4d1593ad134e8322b704] must provide to HMRC such of the information falling within subsection (2) as HMRC may require.
+(1) The Welsh Revenue Authority[^c-5e11573f590d4d1593ad134e8322b704] must provide to HMRC such of the information falling within subsection (2) as HMRC may require.
 
 (2) Information falls within this subsection if it—
 
@@ -40,6 +40,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e245e107e61639c1e923cd5f4f8cad69]: Textual amendment: Pt. 4A Ch. 3 inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/15/1), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/15/2))
+[^c-e245e107e61639c1e923cd5f4f8cad69]: Textual amendment: Pt. 4A Ch. 3 inserted (17.2.2015) by [Wales Act 2014 (c. 29)](https://www.legislation.gov.uk/ukpga/2014/29), [ss. 15(1)](https://www.legislation.gov.uk/ukpga/2014/29/section/15/1), [29(2)(b)(3)](https://www.legislation.gov.uk/ukpga/2014/29/section/29/2/b) (with [s. 15(2)](https://www.legislation.gov.uk/ukpga/2014/29/section/15/2))
 
-[^key-5e11573f590d4d1593ad134e8322b704]: Textual amendment: Words in s. 116M(1) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/7) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)
+[^c-5e11573f590d4d1593ad134e8322b704]: Textual amendment: Words in s. 116M(1) substituted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 6 para. 7](https://www.legislation.gov.uk/ukpga/2017/4/schedule/6/paragraph/7) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(q)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/q)

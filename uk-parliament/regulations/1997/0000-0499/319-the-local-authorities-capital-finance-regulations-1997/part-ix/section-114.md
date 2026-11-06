@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 114. Disposal of assets in exchange for share or loan capital in a company[^key-d88db28197a1d2ed2b7d7848c023c24a]
+## 114. Disposal of assets in exchange for share or loan capital in a company[^c-d88db28197a1d2ed2b7d7848c023c24a]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d88db28197a1d2ed2b7d7848c023c24a]: Commencement: Reg. 114 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-d88db28197a1d2ed2b7d7848c023c24a]: Commencement: Reg. 114 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
 
 [^f00098]: Footnote: [S.I. 1995/849](https://www.legislation.gov.uk/uksi/1995/849). There are amendments which are not relevant to this regulation.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6.96. Meaning of “prove”[^key-94ddbec149cdb08066425fe4263c0026]
+## 6.96. Meaning of “prove”[^c-94ddbec149cdb08066425fe4263c0026]
 
 *Extent: E+W*
 
@@ -34,7 +34,7 @@ summary: ''
 
 ## Annotations
 
-[^key-94ddbec149cdb08066425fe4263c0026]: Commencement: [Rule 6.96](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.96) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-94ddbec149cdb08066425fe4263c0026]: Commencement: [Rule 6.96](https://www.legislation.gov.uk/uksi/1986/1925/rule/6.96) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
 
 [^m00158]: Marginal citation: \[FORM 6.37\]
 

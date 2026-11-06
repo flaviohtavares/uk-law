@@ -44,7 +44,7 @@ The Department of the Environment, with the consent of the Department of Finance
 
 In accordance with section 21 of that Act, the Department has consulted with such persons or representatives of such persons as appears to the Department likely to be affected by these Regulations.
 
-## 1. Citation, commencement, interpretation and retrospection[^key-f803470e1ae7db2ef832740ad267c6b2]
+## 1. Citation, commencement, interpretation and retrospection[^c-f803470e1ae7db2ef832740ad267c6b2]
 
 (1) These Regulations may be cited as The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2016 and except as provided for by paragraph (2), shall come into operation on 1st April 2016.
 
@@ -59,17 +59,17 @@ In accordance with section 21 of that Act, the Department has consulted with suc
 - (e) “the Principal Regulations” means The Local Government Pension Scheme Regulations (Northern Ireland) 2014[^f00006]; and
 - (f) “the Transitional Regulations” means The Local Government Pension Scheme (Amendment and Transitional Provisions) Regulations (Northern Ireland) 2014[^f00007].
 
-## 2. Amendment of the Principal Regulations[^key-7cf11481cd645e4b66936337d3312cbe]
+## 2. Amendment of the Principal Regulations[^c-7cf11481cd645e4b66936337d3312cbe]
 
 The Principal Regulations shall be amended in accordance with regulations 3 to 26.
 
-**3.**[^key-5e2ff4cd46bae3acb8ca7f0a644d1e0e] For regulation 3(3)(b) (active membership) substitute—
+**3.**[^c-5e2ff4cd46bae3acb8ca7f0a644d1e0e] For regulation 3(3)(b) (active membership) substitute—
 
 > - (b) where regulation 7(2) (ending active membership) applies, on the person’s automatic re-enrolment date or if the person applies to become a member on the first day of the first payment period following the application; or
 
 ;
 
-**4.**[^key-1e4db8328600ae3ccfac188907e4d1db] After regulation 10 (pension credit members and survivor members) insert—
+**4.**[^c-1e4db8328600ae3ccfac188907e4d1db] After regulation 10 (pension credit members and survivor members) insert—
 
 > **10A. Separate employments, etc.**
 >
@@ -79,15 +79,15 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
 
 .
 
-**5.**[^key-e3af844166f6e9185f473337c480b806] For regulation 17(6) (employing authority contributions during absences), substitute—
+**5.**[^c-e3af844166f6e9185f473337c480b806] For regulation 17(6) (employing authority contributions during absences), substitute—
 
 > (6) The amount that an employing authority can be required to pay under paragraph (5) must not exceed the cost of an arrangement which would give rise to additional pension accrual equivalent to that which a member would have accrued if treated as receiving pensionable pay for the period of absence from work up to a maximum period of 36 months, which amount shall be calculated in accordance with actuarial guidance issued by the Department where the amount of pensionable remuneration cannot be readily determined.
 
 .
 
-**6.**[^key-d291196b84935eebd87b3822874960d2] In regulation 18(11) (additional pension contributions), at the end of sub-paragraphs (d) and (e) insert “in the employment to which the APC is attached.”.
+**6.**[^c-d291196b84935eebd87b3822874960d2] In regulation 18(11) (additional pension contributions), at the end of sub-paragraphs (d) and (e) insert “in the employment to which the APC is attached.”.
 
-**7.**[^key-ab976d437126c0b6e1ffbb3f6b17669e] In regulation 19 (additional voluntary contributions)—
+**7.**[^c-ab976d437126c0b6e1ffbb3f6b17669e] In regulation 19 (additional voluntary contributions)—
 
 - (a) after paragraph (5) insert—
 
@@ -109,7 +109,7 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
   ; and
 - (e) in paragraph (12) after “the Committee shall” insert “at its discretion”.
 
-**8.**[^key-d25967613cf1a6698ec83ac4942b586e] In regulation 23 (assumed pensionable pay)—
+**8.**[^c-d25967613cf1a6698ec83ac4942b586e] In regulation 23 (assumed pensionable pay)—
 
 - (a) in paragraph (2)(a) for “sickness” substitute “illness”;
 - (b) in paragraph (2)(b) after “child related leave” insert “other than any part of that leave period where the pensionable pay received is greater than the assumed pensionable pay that the member would otherwise have been treated as receiving for that part of the leave period”;
@@ -123,7 +123,7 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
 
   .
 
-**9.**[^key-1b0095e8f7adef57f170711da7e34bd1] In regulation 24 (pension accounts)—
+**9.**[^c-1b0095e8f7adef57f170711da7e34bd1] In regulation 24 (pension accounts)—
 
 - (a) in paragraph (4) delete “or” after sub-paragraph (e) and for sub-paragraph (f) substitute—
 
@@ -149,20 +149,20 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
 
   .
 
-**10.**[^key-c17fe9361a5107bb5db6da00a3d05b86] In regulation 33 (commencement of pensions) after paragraph (5) insert—
+**10.**[^c-c17fe9361a5107bb5db6da00a3d05b86] In regulation 33 (commencement of pensions) after paragraph (5) insert—
 
 > (5A) A notice may be given under paragraph (3) before the date the member fulfils any qualifying criteria for an election so long as that member fulfils the qualifying criteria on the date specified in the notice.
 
 .
 
-**11.**[^key-88deed11071bb78c278e5d6442c4de65] In regulation 34 (election for lump sum instead of pension)—
+**11.**[^c-88deed11071bb78c278e5d6442c4de65] In regulation 34 (election for lump sum instead of pension)—
 
 - (a) in paragraph (2)—
   - (i) for “excluding” substitute “including any retirement grant, standard retirement grant, retiring allowance and”; and
   - (ii) delete “entered into before 1st April 2015 referred to in regulation 19(7)(a) (additional voluntary contributions)”.
 - (b) delete paragraph (3).
 
-**12.**[^key-40365e094151e74241db2c9e41b74570] In regulation 38 (role of the IRMP)—
+**12.**[^c-40365e094151e74241db2c9e41b74570] In regulation 38 (role of the IRMP)—
 
 - (a) for paragraph (1)(c) substitute—
 
@@ -175,13 +175,13 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
 
   .
 
-**13.**[^key-8ccc38621e2cec5e40a99ce97a643d0b] For regulation 39(7)(a) (calculation of ill-health pension amounts)—
+**13.**[^c-8ccc38621e2cec5e40a99ce97a643d0b] For regulation 39(7)(a) (calculation of ill-health pension amounts)—
 
 > - (a) in calculating assumed pensionable pay in accordance with regulation 23(4) (assumed pensionable pay), no account is to be taken of any reduction in the pensionable pay the member received if an IRMP has certified that the member was working reduced contractual hours or at a lower grade, wholly or temporarily as a result of the condition that caused or contributed to the member’s ill-health retirement; and
 
 .
 
-**14.**[^key-c9f27fa4dd96245ea6f6d0848eaba0f1] In regulation 40 (death grants: active members)—
+**14.**[^c-c9f27fa4dd96245ea6f6d0848eaba0f1] In regulation 40 (death grants: active members)—
 
 - (a) in paragraph (3) at the end insert “,but where, in the opinion of an IRMP the member was, at the date of death, wholly or temporarily in part time service or working at a lower grade, as a result of the condition that caused or contributed to the member’s death, no account shall be taken of any reduction in pensionable pay due to such reduction in service as is attributable to that condition”; and
 - (b) after paragraph (4) insert—
@@ -195,7 +195,7 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
 
   .
 
-**15.**[^key-25623dc64c231ad74cd8914d6f4eceae] At the end of regulation 41(4) (survivor benefits: partners of active members)—
+**15.**[^c-25623dc64c231ad74cd8914d6f4eceae] At the end of regulation 41(4) (survivor benefits: partners of active members)—
 
 - (a) at the end of sub-paragraph (a)(iv) delete “and”;
 - (b) at the end of sub-paragraph (a)(v) insert “and”;
@@ -206,11 +206,11 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
   ; and
 - (d) in sub-paragraph (b) after “normal pension age” insert “, but where, in the opinion of an IRMP the member was, at the date of death, wholly or temporarily in part time service or working at a lower grade as a result of the condition that caused or contributed to the member’s death, no account shall be taken of any reduction in pensionable pay due to such reduction in service as is attributable to that condition.”.
 
-**16.**[^key-2d8d6b17ef5767507bcd0163fc71ca4c] In regulation 44 (survivor benefits: children of active members where a pension is payable to partner of an active member) at the end of paragraphs (3)(b) and (4)(b), insert “, but where, in the opinion of an IRMP the member was, at the date of death, wholly or temporarily in part time service or working at a lower grade as a result of the condition that caused or contributed to the member’s death, no account shall be taken of any reduction in pensionable pay due to such reduction in service as is attributable to that condition.”.
+**16.**[^c-2d8d6b17ef5767507bcd0163fc71ca4c] In regulation 44 (survivor benefits: children of active members where a pension is payable to partner of an active member) at the end of paragraphs (3)(b) and (4)(b), insert “, but where, in the opinion of an IRMP the member was, at the date of death, wholly or temporarily in part time service or working at a lower grade as a result of the condition that caused or contributed to the member’s death, no account shall be taken of any reduction in pensionable pay due to such reduction in service as is attributable to that condition.”.
 
-**17.**[^key-3b489decf9cb0827bac96acccca8ab55] In regulation 45 (survivor benefits: children of active members where no pension is payable to partner of an active member) at the end of paragraphs (3)(b) and (4)(b), insert “, but where, in the opinion of an IRMP the member was, at the date of death, wholly or temporarily in part time service or working at a lower grade as a result of the condition that caused or contributed to the member’s death, no account shall be taken of any reduction in pensionable pay due to such reduction in service as is attributable to that condition.”.
+**17.**[^c-3b489decf9cb0827bac96acccca8ab55] In regulation 45 (survivor benefits: children of active members where no pension is payable to partner of an active member) at the end of paragraphs (3)(b) and (4)(b), insert “, but where, in the opinion of an IRMP the member was, at the date of death, wholly or temporarily in part time service or working at a lower grade as a result of the condition that caused or contributed to the member’s death, no account shall be taken of any reduction in pensionable pay due to such reduction in service as is attributable to that condition.”.
 
-**18.**[^key-896f961425dc2eb8b259b985af1256fc] For regulation 66(2) (statements of policy about the exercise of discretionary functions), substitute—
+**18.**[^c-896f961425dc2eb8b259b985af1256fc] For regulation 66(2) (statements of policy about the exercise of discretionary functions), substitute—
 
 > (2) Each employing authority shall send a copy of its statement to the Committee and shall publish its statement—
 >
@@ -219,7 +219,7 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
 
 .
 
-**19.**[^key-e8a90daff234e9718ebf9d65c017c52e] In regulation 70 (special circumstances where revised actuarial valuations and certificates shall be obtained)
+**19.**[^c-e8a90daff234e9718ebf9d65c017c52e] In regulation 70 (special circumstances where revised actuarial valuations and certificates shall be obtained)
 
 - (a) in paragraph (10)—
   - (i) at the end of sub-paragraph (b) for “assumptions).” substitute “assumptions); or”
@@ -243,7 +243,7 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
 
   .
 
-**20.**[^key-87a73f1c3523630f0e9bdf6477152419] In regulation 74 (employing authority’s further payment)—
+**20.**[^c-87a73f1c3523630f0e9bdf6477152419] In regulation 74 (employing authority’s further payment)—
 
 - (a) in paragraph (2), before “31(6)” insert “31(5) (retirement benefits, election for early payment of pension),”; and
 - (b) after paragraph (3) insert—
@@ -258,7 +258,7 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
 
   .
 
-**21.**[^key-5f788752a048d93ac3cba5f9367681b9] In regulation 75(1) (payment by employing authorities to the committee)—
+**21.**[^c-5f788752a048d93ac3cba5f9367681b9] In regulation 75(1) (payment by employing authorities to the committee)—
 
 - (a) at the end of sub-paragraph (c) delete “and”; and
 - (b) for sub-paragraph (d), substitute—
@@ -268,9 +268,9 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
 
   .
 
-**22.**[^key-24cf817d69d9e54564869687a8f81f0a] In regulation 90(3) (exchange of information) for “Within three months” substitute “Within one month”.
+**22.**[^c-24cf817d69d9e54564869687a8f81f0a] In regulation 90(3) (exchange of information) for “Within three months” substitute “Within one month”.
 
-**23.**[^key-28bfb09864e48deb6e5f2e8295a4137c] In regulation 99 (annual benefit statements)—
+**23.**[^c-28bfb09864e48deb6e5f2e8295a4137c] In regulation 99 (annual benefit statements)—
 
 - (a) in paragraphs (2) and (3) for “six” substitute “five”;
 - (b) for paragraph (4) substitute—
@@ -280,7 +280,7 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
   and
 - (c) delete paragraph (5).
 
-**24.**[^key-22f70d9e23eb550727f1e8ca34b2490a] In regulation 105 (adjustments of accounts following forfeiture, etc)—
+**24.**[^c-22f70d9e23eb550727f1e8ca34b2490a] In regulation 105 (adjustments of accounts following forfeiture, etc)—
 
 - (a) at the end of paragraph (1) insert “and pay the relevant employing authority an amount determined by an actuary as representing the capital value of those benefits”; and
 - (b) after paragraph (3) insert—
@@ -289,13 +289,13 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
 
   .
 
-**25.**[^key-223a1bc03ffa42471c1abe40332604a8] At the end of regulation 108(3) (rights to payment out of the pension fund) insert—
+**25.**[^c-223a1bc03ffa42471c1abe40332604a8] At the end of regulation 108(3) (rights to payment out of the pension fund) insert—
 
 > (4) For the purposes of this regulation, where a member applies for a transfer under paragraph (1), that member’s normal pension age is to be construed as having the same meaning as that expression has in Schedule 1 (interpretation).
 
 .
 
-**26.**[^key-c6fe8cbd2a5f6ae031c264e6b2933f21] In Schedule 1 (interpretation)—
+**26.**[^c-c6fe8cbd2a5f6ae031c264e6b2933f21] In Schedule 1 (interpretation)—
 
 - (a) after the definition of “the 1999 Order” insert—
 
@@ -319,11 +319,11 @@ The Principal Regulations shall be amended in accordance with regulations 3 to 2
 
   .
 
-## 27. Amendment of the Transitional Regulations[^key-68f09485abd1bf9ad7366c5abdc980e2]
+## 27. Amendment of the Transitional Regulations[^c-68f09485abd1bf9ad7366c5abdc980e2]
 
 The Transitional Regulations shall be amended in accordance with regulations 28 to 31.
 
-**28.**[^key-3ea63ae75578e0e49d07d8af11f8e109] After regulation 9 (transfers) insert—
+**28.**[^c-3ea63ae75578e0e49d07d8af11f8e109] After regulation 9 (transfers) insert—
 
 > **9A. Aggregation adjustments etc.**
 >
@@ -357,7 +357,7 @@ The Transitional Regulations shall be amended in accordance with regulations 28 
 
 .
 
-**29.**[^key-4ac4feba9015d494085e024d3b10e26e] In regulation 17 (survivor benefits)—
+**29.**[^c-4ac4feba9015d494085e024d3b10e26e] In regulation 17 (survivor benefits)—
 
 - (a)[^M_F_299ba011-ac75-42d2-a145-9ea429bed870] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) for paragraph (9) substitute—
@@ -366,7 +366,7 @@ The Transitional Regulations shall be amended in accordance with regulations 28 
 
   .
 
-**30.**[^key-03dcc836b749fd0acb0b7aa2460867b4] In regulation 21 (councillors’ pensions)—
+**30.**[^c-03dcc836b749fd0acb0b7aa2460867b4] In regulation 21 (councillors’ pensions)—
 
 - (a) in paragraph (5) after “paragraph” insert “3 and”; and
 - (b) after paragraph (7) insert—
@@ -375,7 +375,7 @@ The Transitional Regulations shall be amended in accordance with regulations 28 
 
   .
 
-**31.**[^key-ba8546004e2feba2570f64af0c583599] In Schedule 3 (the 85 year rule: transitional provisions and savings)—
+**31.**[^c-ba8546004e2feba2570f64af0c583599] In Schedule 3 (the 85 year rule: transitional provisions and savings)—
 
 - (a) after paragraph 2(1) insert—
 
@@ -384,23 +384,23 @@ The Transitional Regulations shall be amended in accordance with regulations 28 
   ; and
 - (b) in paragraph 6(1) for “or regulation 12 (re-employed and rejoining members) of the Administration Regulations” substitute “, regulation 12 (re-employed and rejoining members) of the Administration Regulations or regulation 9A(1) (aggregation adjustments etc.)”.
 
-## 32. Amendment of the Benefits Regulations[^key-27895ed8a41ab3675aa7a3ddafcffb93]
+## 32. Amendment of the Benefits Regulations[^c-27895ed8a41ab3675aa7a3ddafcffb93]
 
 In the Benefits Regulations, delete regulation 30(2) (choice of early payment of pension).
 
-## 33. Amendment of the Administration Regulations[^key-2aa682b8254fc5a863bfc4a836d88521]
+## 33. Amendment of the Administration Regulations[^c-2aa682b8254fc5a863bfc4a836d88521]
 
 In the Administration Regulations, in regulation 91(4) (payment of benefits) for “age 60” substitute “age 55”.
 
-## 34. Amendment of the 2002 Regulations[^key-1ff98c58317674d5ef010fee9bcb5fe2]
+## 34. Amendment of the 2002 Regulations[^c-1ff98c58317674d5ef010fee9bcb5fe2]
 
 In the 2002 Regulations, in regulation 33(2) (other early leavers: deferred retirement benefits and elections for early payment) for “60” substitute “55”.
 
-## 35. Amendment of the 2000 Regulations[^key-45d439b9ceb6d3a2c181441b55664e27]
+## 35. Amendment of the 2000 Regulations[^c-45d439b9ceb6d3a2c181441b55664e27]
 
 The 2000 Regulations will be amended in accordance with regulation 36.
 
-**36.**[^key-7f1f65c1478c778860d4c785b175ac90] In regulation D11 (entitlement to deferred retirement benefits (“preserved benefits”))—
+**36.**[^c-7f1f65c1478c778860d4c785b175ac90] In regulation D11 (entitlement to deferred retirement benefits (“preserved benefits”))—
 
 - (a) in paragraph (2)(e) for “60” substitute “55”;
 - (b) delete paragraph (3); and
@@ -504,7 +504,7 @@ Regulation 36 amends regulation D11 (entitlement to deferred retirement benefits
 
 [^f00001]: Footnote: [2014 c. 2 (N.I)](https://www.legislation.gov.uk/nia/2014/2).
 
-[^key-f803470e1ae7db2ef832740ad267c6b2]: Commencement: Reg. 1 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-f803470e1ae7db2ef832740ad267c6b2]: Commencement: Reg. 1 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
 [^f00002]: Footnote: [S.R. 2000 No. 177](https://www.legislation.gov.uk/nisr/2000/177) as amended by [S.R. 2001 No. 61](https://www.legislation.gov.uk/nisr/2001/61), [S.R. 2001 No. 63](https://www.legislation.gov.uk/nisr/2001/63), [S.R 2001 No. 64](https://www.legislation.gov.uk/nisr/2001/64), and [S.R. 2002 No. 115](https://www.legislation.gov.uk/nisr/2002/115).
 
@@ -518,59 +518,59 @@ Regulation 36 amends regulation D11 (entitlement to deferred retirement benefits
 
 [^f00007]: Footnote: [S.R 2014 No. 189](https://www.legislation.gov.uk/nisr/2014/189) as amended by [S.R. 2015 No. 162](https://www.legislation.gov.uk/nisr/2015/162).
 
-[^key-7cf11481cd645e4b66936337d3312cbe]: Commencement: Reg. 2 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-7cf11481cd645e4b66936337d3312cbe]: Commencement: Reg. 2 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-5e2ff4cd46bae3acb8ca7f0a644d1e0e]: Commencement: Reg. 3 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-5e2ff4cd46bae3acb8ca7f0a644d1e0e]: Commencement: Reg. 3 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-1e4db8328600ae3ccfac188907e4d1db]: Commencement: Reg. 4 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-1e4db8328600ae3ccfac188907e4d1db]: Commencement: Reg. 4 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
 [^f00008]: Footnote: [S.I. 1972/1264 (N.I. 13)](https://www.legislation.gov.uk/nisi/1972/1264) as amended by [S.I. 1972/1998 (N.I. 21)](https://www.legislation.gov.uk/nisi/1972/1998).
 
-[^key-e3af844166f6e9185f473337c480b806]: Commencement: Reg. 5 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-e3af844166f6e9185f473337c480b806]: Commencement: Reg. 5 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-d291196b84935eebd87b3822874960d2]: Commencement: Reg. 6 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-d291196b84935eebd87b3822874960d2]: Commencement: Reg. 6 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-ab976d437126c0b6e1ffbb3f6b17669e]: Commencement: Reg. 7 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-ab976d437126c0b6e1ffbb3f6b17669e]: Commencement: Reg. 7 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-d25967613cf1a6698ec83ac4942b586e]: Commencement: Reg. 8 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-d25967613cf1a6698ec83ac4942b586e]: Commencement: Reg. 8 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-1b0095e8f7adef57f170711da7e34bd1]: Commencement: Reg. 9 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-1b0095e8f7adef57f170711da7e34bd1]: Commencement: Reg. 9 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-c17fe9361a5107bb5db6da00a3d05b86]: Commencement: Reg. 10 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-c17fe9361a5107bb5db6da00a3d05b86]: Commencement: Reg. 10 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-88deed11071bb78c278e5d6442c4de65]: Commencement: Reg. 11 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-88deed11071bb78c278e5d6442c4de65]: Commencement: Reg. 11 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-40365e094151e74241db2c9e41b74570]: Commencement: Reg. 12 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-40365e094151e74241db2c9e41b74570]: Commencement: Reg. 12 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-8ccc38621e2cec5e40a99ce97a643d0b]: Commencement: Reg. 13 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-8ccc38621e2cec5e40a99ce97a643d0b]: Commencement: Reg. 13 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-c9f27fa4dd96245ea6f6d0848eaba0f1]: Commencement: Reg. 14 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-c9f27fa4dd96245ea6f6d0848eaba0f1]: Commencement: Reg. 14 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-25623dc64c231ad74cd8914d6f4eceae]: Commencement: Reg. 15 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-25623dc64c231ad74cd8914d6f4eceae]: Commencement: Reg. 15 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-2d8d6b17ef5767507bcd0163fc71ca4c]: Commencement: Reg. 16 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-2d8d6b17ef5767507bcd0163fc71ca4c]: Commencement: Reg. 16 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-3b489decf9cb0827bac96acccca8ab55]: Commencement: Reg. 17 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-3b489decf9cb0827bac96acccca8ab55]: Commencement: Reg. 17 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-896f961425dc2eb8b259b985af1256fc]: Commencement: Reg. 18 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-896f961425dc2eb8b259b985af1256fc]: Commencement: Reg. 18 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-e8a90daff234e9718ebf9d65c017c52e]: Commencement: Reg. 19 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-e8a90daff234e9718ebf9d65c017c52e]: Commencement: Reg. 19 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-87a73f1c3523630f0e9bdf6477152419]: Commencement: Reg. 20 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-87a73f1c3523630f0e9bdf6477152419]: Commencement: Reg. 20 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-5f788752a048d93ac3cba5f9367681b9]: Commencement: Reg. 21 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-5f788752a048d93ac3cba5f9367681b9]: Commencement: Reg. 21 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-24cf817d69d9e54564869687a8f81f0a]: Commencement: Reg. 22 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-24cf817d69d9e54564869687a8f81f0a]: Commencement: Reg. 22 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-28bfb09864e48deb6e5f2e8295a4137c]: Commencement: Reg. 23 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-28bfb09864e48deb6e5f2e8295a4137c]: Commencement: Reg. 23 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
 [^f00009]: Footnote: [2014 c. 2 (N.I.)](https://www.legislation.gov.uk/nia/2014/2).
 
-[^key-22f70d9e23eb550727f1e8ca34b2490a]: Commencement: Reg. 24 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-22f70d9e23eb550727f1e8ca34b2490a]: Commencement: Reg. 24 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-223a1bc03ffa42471c1abe40332604a8]: Commencement: Reg. 25 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-223a1bc03ffa42471c1abe40332604a8]: Commencement: Reg. 25 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-c6fe8cbd2a5f6ae031c264e6b2933f21]: Commencement: Reg. 26 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-c6fe8cbd2a5f6ae031c264e6b2933f21]: Commencement: Reg. 26 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
 [^f00010]: Footnote: [S.R. 2000 No.178](https://www.legislation.gov.uk/nisr/2000/178) as amended by [S.R 2001 No. 62](https://www.legislation.gov.uk/nisr/2001/62), [S.R. 2003 No. 433](https://www.legislation.gov.uk/nisr/2003/433), [S.R. 2004 No. 260](https://www.legislation.gov.uk/nisr/2004/260) and [S.R. 2006 No. 400](https://www.legislation.gov.uk/nisr/2006/400).
 
@@ -580,26 +580,26 @@ Regulation 36 amends regulation D11 (entitlement to deferred retirement benefits
 
 [^f00013]: Footnote: [S.R. 2000 No. 177](https://www.legislation.gov.uk/nisr/2000/177) as amended by [S.R. 2001 No. 61](https://www.legislation.gov.uk/nisr/2001/61), [S.R. 2001 No. 63](https://www.legislation.gov.uk/nisr/2001/63), [S.R. 2001 No. 64](https://www.legislation.gov.uk/nisr/2001/64) and [S.R. 2002 No. 115](https://www.legislation.gov.uk/nisr/2002/115).
 
-[^key-68f09485abd1bf9ad7366c5abdc980e2]: Commencement: Reg. 27 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-68f09485abd1bf9ad7366c5abdc980e2]: Commencement: Reg. 27 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-3ea63ae75578e0e49d07d8af11f8e109]: Commencement: Reg. 28 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-3ea63ae75578e0e49d07d8af11f8e109]: Commencement: Reg. 28 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-4ac4feba9015d494085e024d3b10e26e]: Commencement: Reg. 29 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-4ac4feba9015d494085e024d3b10e26e]: Commencement: Reg. 29 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
 [^M_F_299ba011-ac75-42d2-a145-9ea429bed870]: Textual amendment: [Reg. 29(a)](https://editorial.legislation.gov.uk/nisr/2016/128/regulation/29) omitted (with effect in accordance with reg. 24 of the amending SR) by virtue of The Local Government Pension Scheme (Amendment) Regulations (Northern Ireland) 2022 [reg. 24](https://editorial.legislation.gov.uk/nisr/2022/163/regulation/24), [reg. 1(1)](https://editorial.legislation.gov.uk/nisr/2022/163/regulation/1).
 
 [^f00014]: Footnote: Regulation 14A was inserted by regulation 15 of [S.R 2010 No. 410](https://www.legislation.gov.uk/nisr/2010/410).
 
-[^key-03dcc836b749fd0acb0b7aa2460867b4]: Commencement: Reg. 30 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-03dcc836b749fd0acb0b7aa2460867b4]: Commencement: Reg. 30 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-ba8546004e2feba2570f64af0c583599]: Commencement: Reg. 31 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-ba8546004e2feba2570f64af0c583599]: Commencement: Reg. 31 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-27895ed8a41ab3675aa7a3ddafcffb93]: Commencement: Reg. 32 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-27895ed8a41ab3675aa7a3ddafcffb93]: Commencement: Reg. 32 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-2aa682b8254fc5a863bfc4a836d88521]: Commencement: Reg. 33 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-2aa682b8254fc5a863bfc4a836d88521]: Commencement: Reg. 33 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-1ff98c58317674d5ef010fee9bcb5fe2]: Commencement: Reg. 34 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-1ff98c58317674d5ef010fee9bcb5fe2]: Commencement: Reg. 34 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-45d439b9ceb6d3a2c181441b55664e27]: Commencement: Reg. 35 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-45d439b9ceb6d3a2c181441b55664e27]: Commencement: Reg. 35 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
 
-[^key-7f1f65c1478c778860d4c785b175ac90]: Commencement: Reg. 36 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)
+[^c-7f1f65c1478c778860d4c785b175ac90]: Commencement: Reg. 36 in operation at 1.4.2016, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2016/128/regulation/1/1)

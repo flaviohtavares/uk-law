@@ -60,7 +60,7 @@ In these Regulations, unless the context otherwise requires—
 - “**the Appeal Regulations**” means the Civil Legal Services (Appeal) Regulations (Northern Ireland) 2015 [^c22508141];
 - “**applicant**” means an individual who applies for civil legal services;
 - “**application**” means an application to receive funded services made by or on behalf of an individual in accordance with these Regulations;
-- “assessing authority” means—[^key-415c63d740fad19ce4c06c485c61edc5]
+- “assessing authority” means—[^c-415c63d740fad19ce4c06c485c61edc5]
   - (a) in respect of advice and assistance and representation (lower courts), the supplier,
   - (b) in respect of representation (higher courts) and exceptional funding, the Director;
 - “**assisted party**” means an individual in receipt of advice and assistance, or in respect of whom a certificate, or emergency certificate, is in force;
@@ -270,7 +270,7 @@ Nothing in these Regulations shall prevent a supplier from entrusting any functi
 - (a) the certificate relates to family proceedings; or
 - (b) the Director considers that two or more sets of proceedings are so closely related that they should be covered under a single certificate.
 
-(10) Without prejudice to regulation 19 of the Financial Regulations, the Director shall not require a re-determination of[^key-b5eee7b1f2b8074e534a415470e5d5c7] an applicant's disposable income or capital in circumstances in which an application for a certificate is made relating to proceedings—
+(10) Without prejudice to regulation 19 of the Financial Regulations, the Director shall not require a re-determination of[^c-b5eee7b1f2b8074e534a415470e5d5c7] an applicant's disposable income or capital in circumstances in which an application for a certificate is made relating to proceedings—
 
 - (a) (other than interlocutory proceedings) in an appellate court in any proceedings in which the applicant was an assisted party in the court below; or
 - (b) by way of a new trial ordered by an appellate court before whom the applicant was an assisted party.
@@ -308,7 +308,7 @@ Nothing in these Regulations shall prevent a supplier from entrusting any functi
 
 (5) Notwithstanding regulation 3, a certificate issued under this regulation may, at the discretion of the Director, specify that the certificate is to be treated as having effect from such date as the Director considers appropriate.
 
-(6) If the Director considers it appropriate to do so, the Director may issue an emergency certificate without reference to a determination in respect of an applicant’s disposable income or capital[^key-3e5f00396d022f1b0aa3f84d71f2dba8] .
+(6) If the Director considers it appropriate to do so, the Director may issue an emergency certificate without reference to a determination in respect of an applicant’s disposable income or capital[^c-3e5f00396d022f1b0aa3f84d71f2dba8] .
 
 (7) An emergency certificate shall have the same effect in all respects as a certificate issued under regulation 16 and any individual holding an emergency certificate shall, while it is in force, be deemed for the purposes of Part 2 of the Financial Regulations to have a disposable income of an amount which makes civil legal services available to that individual.
 
@@ -492,7 +492,7 @@ the amendment shall take effect from such date, which may be before or after the
 
 (3) A certificate may not be revoked under paragraph (1) (a) to (c) if the assisted party or the supplier satisfies the Director that the assisted party used due care and diligence to avoid such misstatement or failure.
 
-(4)[^key-31957bd9d48cc6be978be3b0e0998ccf] If a certificate is revoked under this regulation, the Director shall notify the supplier and the assisted party in writing and shall include the reasons for such revocation.
+(4)[^c-31957bd9d48cc6be978be3b0e0998ccf] If a certificate is revoked under this regulation, the Director shall notify the supplier and the assisted party in writing and shall include the reasons for such revocation.
 
 (5) It shall be the duty of the supplier to notify, as soon as practicable, instructed counsel in proceedings to which the certificate relates, that the certificate has been revoked.
 
@@ -645,7 +645,7 @@ the amendment shall take effect from such date, which may be before or after the
 
 ### 35. Applications for certificates
 
-(1) Where it appears to the supplier that an individual requires representation in respect of any of those proceedings listed in paragraph 2(d), (g) , (hh) or (ja) to (jc)[^key-eddbf83e79759f819e5a8e75c4224906] of Schedule 2 to the Order, an application for a certificate under this Part may be submitted to the Director.
+(1) Where it appears to the supplier that an individual requires representation in respect of any of those proceedings listed in paragraph 2(d), (g) , (hh) or (ja) to (jc)[^c-eddbf83e79759f819e5a8e75c4224906] of Schedule 2 to the Order, an application for a certificate under this Part may be submitted to the Director.
 
 (2) Subject to regulations 6 and 7, an application for a certificate under this Part shall be made by an applicant in person to the supplier from whom the representation is sought.
 
@@ -736,7 +736,7 @@ the amendment shall take effect from such date, which may be before or after the
 
 (2) Subject to regulations 6 and 7, an application for a certificate under this Part shall be made by an applicant in person to the supplier from whom the representation is sought.
 
-(3) The applicant shall furnish the supplier with the information and supporting documentary evidence necessary to enable the Director [^key-ab55e381daefadcad18b365426315007]... to determine—
+(3) The applicant shall furnish the supplier with the information and supporting documentary evidence necessary to enable the Director [^c-ab55e381daefadcad18b365426315007]... to determine—
 
 - (a) the nature of the proceedings in relation to which a certificate under this Part is sought and the circumstances in which representation is required;
 - (b) whether the requirements of regulation 43(1) are met; and
@@ -746,7 +746,7 @@ the amendment shall take effect from such date, which may be before or after the
   - (iii) whether the applicant is in receipt of any benefit or allowance referred to in regulation 5 of the Financial Regulations; and
   - (iv) the applicant's maximum contribution.
 
-(4) The applicant shall, if required by the Director [^key-1bba82deabbb04bd2bf9083e39203abd]..., attend for an interview or supply such further information or documents as may be required.
+(4) The applicant shall, if required by the Director [^c-1bba82deabbb04bd2bf9083e39203abd]..., attend for an interview or supply such further information or documents as may be required.
 
 (5) Subject to paragraph (6), where the applicant has failed to comply with a requirement under paragraph (4), the Director may treat the application as withdrawn.
 
@@ -756,7 +756,7 @@ the amendment shall take effect from such date, which may be before or after the
 
 ### 42. Determination of financial eligibility and contributions
 
-(1) Unless the Director has previously refused the application (and there has been no change in circumstances) or an exemption applies under regulation 4 of the Financial Regulations, the Director shall [^key-b23f263853fec2e8f76c083e44da7f80]... assess the applicant's disposable income and disposable capital.
+(1) Unless the Director has previously refused the application (and there has been no change in circumstances) or an exemption applies under regulation 4 of the Financial Regulations, the Director shall [^c-b23f263853fec2e8f76c083e44da7f80]... assess the applicant's disposable income and disposable capital.
 
 (2) The Director shall fix the method by which any contribution shall be paid in accordance with regulation 63 of the Financial Regulations.
 
@@ -830,13 +830,13 @@ the amendment shall take effect from such date, which may be before or after the
 
 (1) Subject to regulations 6 and 7, an application for a certificate under this Part shall be made by an applicant in person to the supplier from whom the representation is sought.
 
-(2) The applicant shall furnish the supplier with the information and supporting documentary evidence necessary to enable the Director [^key-68feeb845ee4b46d1024ff2fdadb3188]... to determine—
+(2) The applicant shall furnish the supplier with the information and supporting documentary evidence necessary to enable the Director [^c-68feeb845ee4b46d1024ff2fdadb3188]... to determine—
 
 - (a) the nature of the proceedings in relation to which a grant of exceptional funding is sought and the circumstances in which representation is required;
 - (b) whether the criteria as set out in Article 12A of the Order are satisfied; and
 - (c) the disposable income, disposable capital and maximum contribution of the applicant.
 
-(3) The applicant shall, if required by the Director [^key-04ec2072c7655e0c23524a5193128ae3]..., attend for an interview or supply such further information or documents as may be required.
+(3) The applicant shall, if required by the Director [^c-04ec2072c7655e0c23524a5193128ae3]..., attend for an interview or supply such further information or documents as may be required.
 
 (4) Subject to paragraph (5), where the applicant has failed to comply with a requirement under paragraph (3), the Director may treat the application as withdrawn.
 
@@ -854,7 +854,7 @@ the amendment shall take effect from such date, which may be before or after the
 
 ### 50. Determination of financial eligibility and contributions
 
-(1) Unless the Director has previously refused the application (and there has been no change in circumstances), the Director shall [^key-9e351e40a782501511a59cc23b7790bf]... assess the applicant's disposable income and disposable capital.
+(1) Unless the Director has previously refused the application (and there has been no change in circumstances), the Director shall [^c-9e351e40a782501511a59cc23b7790bf]... assess the applicant's disposable income and disposable capital.
 
 (2) Subject to paragraph (3), the supplier shall collect the maximum contribution, if any, payable by the applicant in accordance with the provisions of the Financial Regulations.
 
@@ -928,7 +928,7 @@ These Regulations come into operation on 1st April 2015.
 
 [^c22508141]: Marginal citation: S.R. [2015 No. 197](https://www.legislation.gov.uk/ukcm/2015/197)
 
-[^key-415c63d740fad19ce4c06c485c61edc5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/195/regulation/2) substituted (4.3.2019) by [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [3](https://www.legislation.gov.uk/nisr/2019/13/regulation/3)
+[^c-415c63d740fad19ce4c06c485c61edc5]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2015/195/regulation/2) substituted (4.3.2019) by [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [3](https://www.legislation.gov.uk/nisr/2019/13/regulation/3)
 
 [^c22508151]: Marginal citation: [2004 c. 33](https://www.legislation.gov.uk/ukpga/2004/33)
 
@@ -956,15 +956,15 @@ These Regulations come into operation on 1st April 2015.
 
 [^c22508271]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-b5eee7b1f2b8074e534a415470e5d5c7]: Textual amendment: Words in [reg. 15(10)](https://www.legislation.gov.uk/nisr/2015/195/regulation/15/10) substituted (4.3.2019) by [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [4](https://www.legislation.gov.uk/nisr/2019/13/regulation/4)
+[^c-b5eee7b1f2b8074e534a415470e5d5c7]: Textual amendment: Words in [reg. 15(10)](https://www.legislation.gov.uk/nisr/2015/195/regulation/15/10) substituted (4.3.2019) by [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [4](https://www.legislation.gov.uk/nisr/2019/13/regulation/4)
 
-[^key-3e5f00396d022f1b0aa3f84d71f2dba8]: Textual amendment: Words in reg. 17(6) substituted (4.3.2019) by [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [5](https://www.legislation.gov.uk/nisr/2019/13/regulation/5)
+[^c-3e5f00396d022f1b0aa3f84d71f2dba8]: Textual amendment: Words in reg. 17(6) substituted (4.3.2019) by [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [5](https://www.legislation.gov.uk/nisr/2019/13/regulation/5)
 
 [^c22508281]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
 [^c22508291]: Marginal citation: [S.I. 1989/2405 (N.I. 19)](https://www.legislation.gov.uk/nisi/1989/2405)
 
-[^key-31957bd9d48cc6be978be3b0e0998ccf]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/nisr/2015/195/regulation/26/4)[(5)](https://www.legislation.gov.uk/nisr/2015/195/regulation/26/5) inserted (11.10.2016) by [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/337)](https://www.legislation.gov.uk/nisr/2016/337), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/337/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2016/337/regulation/3)
+[^c-31957bd9d48cc6be978be3b0e0998ccf]: Textual amendment: [Reg. 26(4)](https://www.legislation.gov.uk/nisr/2015/195/regulation/26/4)[(5)](https://www.legislation.gov.uk/nisr/2015/195/regulation/26/5) inserted (11.10.2016) by [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/337)](https://www.legislation.gov.uk/nisr/2016/337), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/337/regulation/1/1), [3](https://www.legislation.gov.uk/nisr/2016/337/regulation/3)
 
 [^c22508301]: Marginal citation: [1955 c. 18](https://www.legislation.gov.uk/ukpga/1955/18)
 
@@ -972,20 +972,20 @@ These Regulations come into operation on 1st April 2015.
 
 [^c22508321]: Marginal citation: [1957 c. 53](https://www.legislation.gov.uk/ukpga/1957/53)
 
-[^key-eddbf83e79759f819e5a8e75c4224906]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/195/regulation/35/1) substituted (11.10.2016) by [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/337)](https://www.legislation.gov.uk/nisr/2016/337), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/337/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2016/337/regulation/4)
+[^c-eddbf83e79759f819e5a8e75c4224906]: Textual amendment: Words in [reg. 35(1)](https://www.legislation.gov.uk/nisr/2015/195/regulation/35/1) substituted (11.10.2016) by [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/337)](https://www.legislation.gov.uk/nisr/2016/337), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/337/regulation/1/1), [4](https://www.legislation.gov.uk/nisr/2016/337/regulation/4)
 
 [^c22508331]: Marginal citation: [S.I. 1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228)
 
-[^key-ab55e381daefadcad18b365426315007]: Textual amendment: Words in [reg. 41(3)](https://www.legislation.gov.uk/nisr/2015/195/regulation/41/3) omitted (4.3.2019) by virtue of [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2019/13/regulation/6/a)
+[^c-ab55e381daefadcad18b365426315007]: Textual amendment: Words in [reg. 41(3)](https://www.legislation.gov.uk/nisr/2015/195/regulation/41/3) omitted (4.3.2019) by virtue of [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [6(a)](https://www.legislation.gov.uk/nisr/2019/13/regulation/6/a)
 
-[^key-1bba82deabbb04bd2bf9083e39203abd]: Textual amendment: Words in [reg. 41(4)](https://www.legislation.gov.uk/nisr/2015/195/regulation/41/4) omitted (4.3.2019) by virtue of [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2019/13/regulation/6/b)
+[^c-1bba82deabbb04bd2bf9083e39203abd]: Textual amendment: Words in [reg. 41(4)](https://www.legislation.gov.uk/nisr/2015/195/regulation/41/4) omitted (4.3.2019) by virtue of [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [6(b)](https://www.legislation.gov.uk/nisr/2019/13/regulation/6/b)
 
-[^key-b23f263853fec2e8f76c083e44da7f80]: Textual amendment: Words in [reg. 42(1)](https://www.legislation.gov.uk/nisr/2015/195/regulation/42/1) omitted (4.3.2019) by virtue of [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [7](https://www.legislation.gov.uk/nisr/2019/13/regulation/7)
+[^c-b23f263853fec2e8f76c083e44da7f80]: Textual amendment: Words in [reg. 42(1)](https://www.legislation.gov.uk/nisr/2015/195/regulation/42/1) omitted (4.3.2019) by virtue of [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [7](https://www.legislation.gov.uk/nisr/2019/13/regulation/7)
 
 [^c22508341]: Marginal citation: [S.I. 1981/228 (N.I. 8)](https://www.legislation.gov.uk/nisi/1981/228)
 
-[^key-68feeb845ee4b46d1024ff2fdadb3188]: Textual amendment: Words in [reg. 49(2)](https://www.legislation.gov.uk/nisr/2015/195/regulation/49/2) omitted (4.3.2019) by virtue of [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2019/13/regulation/8/a)
+[^c-68feeb845ee4b46d1024ff2fdadb3188]: Textual amendment: Words in [reg. 49(2)](https://www.legislation.gov.uk/nisr/2015/195/regulation/49/2) omitted (4.3.2019) by virtue of [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [8(a)](https://www.legislation.gov.uk/nisr/2019/13/regulation/8/a)
 
-[^key-04ec2072c7655e0c23524a5193128ae3]: Textual amendment: Words in [reg. 49(3)](https://www.legislation.gov.uk/nisr/2015/195/regulation/49/3) omitted (4.3.2019) by virtue of [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2019/13/regulation/8/b)
+[^c-04ec2072c7655e0c23524a5193128ae3]: Textual amendment: Words in [reg. 49(3)](https://www.legislation.gov.uk/nisr/2015/195/regulation/49/3) omitted (4.3.2019) by virtue of [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [8(b)](https://www.legislation.gov.uk/nisr/2019/13/regulation/8/b)
 
-[^key-9e351e40a782501511a59cc23b7790bf]: Textual amendment: Words in [reg. 50(1)](https://www.legislation.gov.uk/nisr/2015/195/regulation/50/1) omitted (4.3.2019) by virtue of [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [9](https://www.legislation.gov.uk/nisr/2019/13/regulation/9)
+[^c-9e351e40a782501511a59cc23b7790bf]: Textual amendment: Words in [reg. 50(1)](https://www.legislation.gov.uk/nisr/2015/195/regulation/50/1) omitted (4.3.2019) by virtue of [The Civil Legal Services (General) (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/13)](https://www.legislation.gov.uk/nisr/2019/13), [regs. 1](https://www.legislation.gov.uk/nisr/2019/13/regulation/1), [9](https://www.legislation.gov.uk/nisr/2019/13/regulation/9)

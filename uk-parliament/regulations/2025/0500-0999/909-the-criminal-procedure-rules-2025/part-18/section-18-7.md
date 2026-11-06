@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18.7. Custody of documents[^key-2e7cbedea1a8adab939cb6f62af7e0ce]
+## 18.7. Custody of documents[^c-2e7cbedea1a8adab939cb6f62af7e0ce]
 
 *Extent: E+W*
 
@@ -27,4 +27,4 @@ Unless the court otherwise directs, the court officer may—
 
 ## Annotations
 
-[^key-2e7cbedea1a8adab939cb6f62af7e0ce]: Commencement: [Rule 18.7](https://www.legislation.gov.uk/uksi/2025/909/rule/18.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2e7cbedea1a8adab939cb6f62af7e0ce]: Commencement: [Rule 18.7](https://www.legislation.gov.uk/uksi/2025/909/rule/18.7) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

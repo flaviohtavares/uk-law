@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 112. Northern Ireland department: restrictions on the exercise of powers[^key-1fa9f8899a6a9eabc28e2b14eb766b0c][^key-e999b38b33c1aa054ed0578bf450e11b]
+## 112. Northern Ireland department: restrictions on the exercise of powers[^c-1fa9f8899a6a9eabc28e2b14eb766b0c][^c-e999b38b33c1aa054ed0578bf450e11b]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,6 +44,6 @@ summary: ''
 
 ## Annotations
 
-[^key-1fa9f8899a6a9eabc28e2b14eb766b0c]: Commencement: S. 112 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
+[^c-1fa9f8899a6a9eabc28e2b14eb766b0c]: Commencement: S. 112 not in force at Royal Assent, see [s. 127(2)](https://www.legislation.gov.uk/ukpga/2023/54/section/127/2)
 
-[^key-e999b38b33c1aa054ed0578bf450e11b]: Commencement: S. 112 in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))
+[^c-e999b38b33c1aa054ed0578bf450e11b]: Commencement: S. 112 in force at 24.2.2025 by [S.I. 2024/716](https://www.legislation.gov.uk/uksi/2024/716), [Sch.](https://www.legislation.gov.uk/uksi/2024/716/schedule) (as amended by [S.I. 2024/959](https://www.legislation.gov.uk/uksi/2024/959), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/959/regulation/1/2), [2(7)(a)](https://www.legislation.gov.uk/uksi/2024/959/regulation/2/7/a))

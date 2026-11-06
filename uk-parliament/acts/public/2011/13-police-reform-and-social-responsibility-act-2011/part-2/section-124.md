@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124. Review of effect of amendments on licensing scheme[^key-0c16657440a7ffd359a82a269fa5a035]
+## 124. Review of effect of amendments on licensing scheme[^c-0c16657440a7ffd359a82a269fa5a035]
 
 *Extent: E+W*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c16657440a7ffd359a82a269fa5a035]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2011/13/section/124) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)
+[^c-0c16657440a7ffd359a82a269fa5a035]: Commencement: [S. 124](https://www.legislation.gov.uk/ukpga/2011/13/section/124) in force at 25.4.2012 by [S.I. 2012/1129](https://www.legislation.gov.uk/uksi/2012/1129), [art. 2(d)](https://www.legislation.gov.uk/uksi/2012/1129/article/2/d)

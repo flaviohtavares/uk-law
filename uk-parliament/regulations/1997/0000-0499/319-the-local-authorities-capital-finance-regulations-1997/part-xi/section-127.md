@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 127. Amounts set aside—transferred debt of designated councils[^key-7af005a01ccf960098536ba05d523d28]
+## 127. Amounts set aside—transferred debt of designated councils[^c-7af005a01ccf960098536ba05d523d28]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In determining their adjusted credit ceiling at any time, a local authority shal
 
 ## Annotations
 
-[^key-7af005a01ccf960098536ba05d523d28]: Commencement: Reg. 127 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-7af005a01ccf960098536ba05d523d28]: Commencement: Reg. 127 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 3.8. Rights, powers and duties of safeguarder on appointment[^key-43ccfeb81f3c450f419686c0e19c8681]
+## 3.8. Rights, powers and duties of safeguarder on appointment[^c-43ccfeb81f3c450f419686c0e19c8681]
 
 *Extent: S*
 
@@ -27,10 +27,10 @@ A safeguarder appointed in an application shall–
 - (c) subject to rule 3.5(1)(a), determine whether the child wishes to express his views in relation to the application and, if so, where the child so wishes transmit his views to the sheriff;
 - (d) make such enquiries so far as relevant to the application as he considers appropriate; and
 - (e) without delay, and in any event before the hearing on the application, intimate in writing to the sheriff clerk whether or not he intends to become a party to the proceedings.
-- (f)[^key-5ceb8f07810fe71945df6f9d1bf3b80c] whether or not a party, be entitled to receive from the sheriff clerk all interlocutors subsequent to his or her appointment.
+- (f)[^c-5ceb8f07810fe71945df6f9d1bf3b80c] whether or not a party, be entitled to receive from the sheriff clerk all interlocutors subsequent to his or her appointment.
 
 ## Annotations
 
-[^key-43ccfeb81f3c450f419686c0e19c8681]: Commencement: Rule 3.8 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
+[^c-43ccfeb81f3c450f419686c0e19c8681]: Commencement: Rule 3.8 in force at 1.4.1997, see [rule 1.1(1)](https://www.legislation.gov.uk/uksi/1997/291/rule/1.1/1)
 
-[^key-5ceb8f07810fe71945df6f9d1bf3b80c]: Textual amendment: Rule 3.8(f) inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(11)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/10/b) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))
+[^c-5ceb8f07810fe71945df6f9d1bf3b80c]: Textual amendment: Rule 3.8(f) inserted (24.6.2013) by [Act of Sederunt (Children’s Hearings (Scotland) Act 2011) (Miscellaneous Amendments) 2013 (S.S.I. 2013/172)](https://www.legislation.gov.uk/ssi/2013/172), [paras. 1(1)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/1/1), [3(11)](https://www.legislation.gov.uk/ssi/2013/172/paragraph/3/10/b) (with [para. 8](https://www.legislation.gov.uk/ssi/2013/172/paragraph/8))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3.12. Readiness for trial or appeal[^key-ac6a7237f7de4e3c516b335f2eb50d36]
+## 3.12. Readiness for trial or appeal[^c-ac6a7237f7de4e3c516b335f2eb50d36]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ac6a7237f7de4e3c516b335f2eb50d36]: Commencement: [Rule 3.12](https://www.legislation.gov.uk/uksi/2025/909/rule/3.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-ac6a7237f7de4e3c516b335f2eb50d36]: Commencement: [Rule 3.12](https://www.legislation.gov.uk/uksi/2025/909/rule/3.12) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Use of information[^key-0be4aa48e34f0f78055f01e642098aee]
+## 81. Use of information[^c-0be4aa48e34f0f78055f01e642098aee]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ may be used by the Regulator for the purposes of, or for any purpose connected w
 
 ## Annotations
 
-[^key-0be4aa48e34f0f78055f01e642098aee]: Commencement: S. 81 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)
+[^c-0be4aa48e34f0f78055f01e642098aee]: Commencement: S. 81 in force at 6.4.2005 by [S.I. 2005/275](https://www.legislation.gov.uk/uksi/2005/275), [art. 2(7)](https://www.legislation.gov.uk/uksi/2005/275/article/2/7), [Sch. Pt. 7](https://www.legislation.gov.uk/uksi/2005/275/schedule/part/7)

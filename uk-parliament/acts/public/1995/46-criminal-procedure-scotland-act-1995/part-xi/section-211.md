@@ -36,7 +36,7 @@ summary: ''
 
 (5) [^c19833731]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) All[^key-b059de6b1e059d7138607c62b978b204] fines and expenses imposed in [^c19833751]. . . proceedings under this Act shall be paid to the clerk of any court, or to any other person (or class of person) authorised by the Scottish Ministers for the purpose,[^c19833771] to be accounted for [^c19833791]. . . to the person entitled to such fines and expenses, and it shall not be necessary to specify in any sentence the person entitled to payment of such fines or expenses unless it is necessary to provide for the division of the penalty.
+(6) All[^c-b059de6b1e059d7138607c62b978b204] fines and expenses imposed in [^c19833751]. . . proceedings under this Act shall be paid to the clerk of any court, or to any other person (or class of person) authorised by the Scottish Ministers for the purpose,[^c19833771] to be accounted for [^c19833791]. . . to the person entitled to such fines and expenses, and it shall not be necessary to specify in any sentence the person entitled to payment of such fines or expenses unless it is necessary to provide for the division of the penalty.
 
 (7) A court in determining the amount of any fine to be imposed on an offender shall take into consideration, amongst other things, the means of the offender so far as known to the court.
 
@@ -50,7 +50,7 @@ summary: ''
 
 [^c19833731]: Textual amendment: S. 211(5) repealed (10.3.2008) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 80](https://www.legislation.gov.uk/asp/2007/6/section/80), [84](https://www.legislation.gov.uk/asp/2007/6/section/84), [Sch. para. 20(1)(a)](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/20/1/a); [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42), [art. 3](https://www.legislation.gov.uk/ssi/2008/42/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule)
 
-[^key-b059de6b1e059d7138607c62b978b204]: Textual amendment: Word in [s. 211(6)](https://www.legislation.gov.uk/ukpga/1995/46/section/211/6) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [3(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/3/2)
+[^c-b059de6b1e059d7138607c62b978b204]: Textual amendment: Word in [s. 211(6)](https://www.legislation.gov.uk/ukpga/1995/46/section/211/6) substituted (31.12.2020) by [The Criminal Justice (EU Exit) (Scotland) (Amendment etc.) Regulations 2020 (S.S.I. 2020/339)](https://www.legislation.gov.uk/ssi/2020/339), [regs. 1(3)](https://www.legislation.gov.uk/ssi/2020/339/regulation/1/3), [3(2)](https://www.legislation.gov.uk/ssi/2020/339/regulation/3/2)
 
 [^c19833751]: Textual amendment: Word in s. 211(6) repealed (10.3.2008) by [Criminal Proceedings etc. (Reform) (Scotland) Act 2007 (asp 6)](https://www.legislation.gov.uk/asp/2007/6), [ss. 80](https://www.legislation.gov.uk/asp/2007/6/section/80), [84](https://www.legislation.gov.uk/asp/2007/6/section/84), [Sch. para. 20(1)(b)(i)](https://www.legislation.gov.uk/asp/2007/6/schedule/paragraph/20/1/b/i); [S.S.I. 2008/42](https://www.legislation.gov.uk/ssi/2008/42), [art. 3](https://www.legislation.gov.uk/ssi/2008/42/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2008/42/schedule)
 

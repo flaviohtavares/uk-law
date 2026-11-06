@@ -32,7 +32,7 @@ summary: ''
 
 Consumer Protection, England And Wales
 
-The Compensation (Claims Management Services) (Amendment) Regulations 2014 (revoked)[^key-82597ef5f560f38fb695dfe8d0244e72]
+The Compensation (Claims Management Services) (Amendment) Regulations 2014 (revoked)[^c-82597ef5f560f38fb695dfe8d0244e72]
 
 Made
 
@@ -44,15 +44,15 @@ Coming into force in accordance with regulation 1
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-82597ef5f560f38fb695dfe8d0244e72]
+## 1. Citation, commencement and interpretation[^c-82597ef5f560f38fb695dfe8d0244e72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the 2006 Regulations[^key-82597ef5f560f38fb695dfe8d0244e72]
+## 2. Amendment of the 2006 Regulations[^c-82597ef5f560f38fb695dfe8d0244e72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Transitional provision[^key-82597ef5f560f38fb695dfe8d0244e72]
+## 3. Transitional provision[^c-82597ef5f560f38fb695dfe8d0244e72]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -64,4 +64,4 @@ Coming into force in accordance with regulation 1
 
 ## Annotations
 
-[^key-82597ef5f560f38fb695dfe8d0244e72]: Textual amendment: Regulations revoked (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [105(g)](https://www.legislation.gov.uk/uksi/2018/1253/article/105/g)
+[^c-82597ef5f560f38fb695dfe8d0244e72]: Textual amendment: Regulations revoked (29.11.2018 for specified purposes, 1.4.2019 in so far as not already in force) by [The Financial Services and Markets Act 2000 (Claims Management Activity) Order 2018 (S.I. 2018/1253)](https://www.legislation.gov.uk/uksi/2018/1253), [arts. 1(2)(3)](https://www.legislation.gov.uk/uksi/2018/1253/article/1/3), [105(g)](https://www.legislation.gov.uk/uksi/2018/1253/article/105/g)

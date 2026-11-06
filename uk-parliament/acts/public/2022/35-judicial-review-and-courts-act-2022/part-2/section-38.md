@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 38. Responsibility for remunerating tribunal members[^key-26a3cd13c146efc4ba71b187f58f68ec][^key-06733e14e1d3a7f42e596b330fd58304]
+## 38. Responsibility for remunerating tribunal members[^c-26a3cd13c146efc4ba71b187f58f68ec][^c-06733e14e1d3a7f42e596b330fd58304]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,6 +27,6 @@ In the following provisions of the Employment Tribunals Act 1996, for “Secreta
 
 ## Annotations
 
-[^key-26a3cd13c146efc4ba71b187f58f68ec]: Commencement: S. 38 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
+[^c-26a3cd13c146efc4ba71b187f58f68ec]: Commencement: S. 38 not in force at Royal Assent, see [s. 51(4)](https://www.legislation.gov.uk/ukpga/2022/35/section/51/4)
 
-[^key-06733e14e1d3a7f42e596b330fd58304]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/35/section/38) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/d)
+[^c-06733e14e1d3a7f42e596b330fd58304]: Commencement: [S. 38](https://www.legislation.gov.uk/ukpga/2022/35/section/38) in force at 7.11.2023 by [S.I. 2023/1194](https://www.legislation.gov.uk/uksi/2023/1194), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/1194/regulation/2/d)

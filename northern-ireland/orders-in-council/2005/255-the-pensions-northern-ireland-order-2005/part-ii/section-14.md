@@ -39,18 +39,18 @@ summary: ''
 
 (3) The following are “relevant statutory provisions” for the purposes of paragraph (2)—
 
-- (a)[^key-263ce4659646cb0b36f5fdf20b6f886d] section 90 of the Pension Schemes Act (right to cash equivalent under Chapter 1 of Part 4ZA of that Act);
-- (b) section 97AB(1)(a) of that Act (right to cash transfer sum under Chapter 2 of Part 4ZA[^key-15e7a740fe99cc45f1eb783b5a225f51] of that Act);
+- (a)[^c-263ce4659646cb0b36f5fdf20b6f886d] section 90 of the Pension Schemes Act (right to cash equivalent under Chapter 1 of Part 4ZA of that Act);
+- (b) section 97AB(1)(a) of that Act (right to cash transfer sum under Chapter 2 of Part 4ZA[^c-15e7a740fe99cc45f1eb783b5a225f51] of that Act);
 - (c) section 97F(1) of that Act (right to cash equivalent of pension credit benefit).
 
 (4) In paragraph (2) “authorised way” means—
 
-- (a) where the amount concerned is transferred out of the scheme in pursuance of a provision mentioned in paragraph (3)(a), a way specified in [^key-2be90bffc487b69153092519ba9c6827]... section 91 of the Pension Schemes Act;
+- (a) where the amount concerned is transferred out of the scheme in pursuance of a provision mentioned in paragraph (3)(a), a way specified in [^c-2be90bffc487b69153092519ba9c6827]... section 91 of the Pension Schemes Act;
 - (b) where that amount is transferred out in pursuance of the provision mentioned in paragraph (3)(b), a way specified in section 97AE(2) of that Act;
 - (c) where that amount is transferred out in pursuance of the provision mentioned in paragraph (3)(c), a way specified in subsection (2) or, as the case may be, subsection (3) of section 97F of that Act;
-- (d) where that amount is transferred out in pursuance of a provision of the kind mentioned in paragraph (2)(a)(ii), a way that is authorised by the scheme rules[^key-1352364bdb20deb541f9c185220652fa] for amounts transferred out in pursuance of that provision.
+- (d) where that amount is transferred out in pursuance of a provision of the kind mentioned in paragraph (2)(a)(ii), a way that is authorised by the scheme rules[^c-1352364bdb20deb541f9c185220652fa] for amounts transferred out in pursuance of that provision.
 
-(5)[^key-fbf78b4d79f56a301f9d45caade811f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-fbf78b4d79f56a301f9d45caade811f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -60,12 +60,12 @@ summary: ''
 
 [^M_F_3a45c1e0-bf94-44c1-dea3-8ae5f826ea61]: Textual amendment: Words in art. 14(2)(a)(ii) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 81(2)(b)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/81/2/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-263ce4659646cb0b36f5fdf20b6f886d]: Textual amendment: [Art. 14(3)(a)](https://www.legislation.gov.uk/nisi/2005/255/article/14/3/a) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 81(3)(a)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/81/3/a) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-263ce4659646cb0b36f5fdf20b6f886d]: Textual amendment: [Art. 14(3)(a)](https://www.legislation.gov.uk/nisi/2005/255/article/14/3/a) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 81(3)(a)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/81/3/a) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-15e7a740fe99cc45f1eb783b5a225f51]: Textual amendment: Words in [art. 14(3)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/14/3/b) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 81(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/81/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-15e7a740fe99cc45f1eb783b5a225f51]: Textual amendment: Words in [art. 14(3)(b)](https://www.legislation.gov.uk/nisi/2005/255/article/14/3/b) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 81(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/81/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-2be90bffc487b69153092519ba9c6827]: Textual amendment: Words in [art. 14(4)(a)](https://www.legislation.gov.uk/nisi/2005/255/article/14/4/a) omitted (6.4.2015) by virtue of [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/8/section/73/3), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-2be90bffc487b69153092519ba9c6827]: Textual amendment: Words in [art. 14(4)(a)](https://www.legislation.gov.uk/nisi/2005/255/article/14/4/a) omitted (6.4.2015) by virtue of [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [ss. 73(3)](https://www.legislation.gov.uk/ukpga/2015/8/section/73/3), [89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-1352364bdb20deb541f9c185220652fa]: Textual amendment: Words in [art. 14(4)(d)](https://www.legislation.gov.uk/nisi/2005/255/article/14/4/d) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 81(4)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/81/4) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-1352364bdb20deb541f9c185220652fa]: Textual amendment: Words in [art. 14(4)(d)](https://www.legislation.gov.uk/nisi/2005/255/article/14/4/d) substituted (6.4.2015) by [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 81(4)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/81/4) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
 
-[^key-fbf78b4d79f56a301f9d45caade811f5]: Textual amendment: [Art. 14(5)](https://www.legislation.gov.uk/nisi/2005/255/article/14/5) omitted (6.4.2015) by virtue of [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 81(5)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/81/5) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))
+[^c-fbf78b4d79f56a301f9d45caade811f5]: Textual amendment: [Art. 14(5)](https://www.legislation.gov.uk/nisi/2005/255/article/14/5) omitted (6.4.2015) by virtue of [Pension Schemes Act 2015 (c. 8)](https://www.legislation.gov.uk/ukpga/2015/8), [s. 89(3)(b)](https://www.legislation.gov.uk/ukpga/2015/8/section/89/3/b), [Sch. 4 para. 81(5)](https://www.legislation.gov.uk/ukpga/2015/8/schedule/4/paragraph/81/5) (with [s. 87](https://www.legislation.gov.uk/ukpga/2015/8/section/87))

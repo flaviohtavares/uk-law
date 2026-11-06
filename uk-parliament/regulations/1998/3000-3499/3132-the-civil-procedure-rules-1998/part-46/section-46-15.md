@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 46.15. Claims for judicial review: costs against interveners[^key-503b57c8bf46d050b0d31262ec8e566a][^key-b941119c8cdc9da1893b8454ae2b36e6]
+## 46.15. Claims for judicial review: costs against interveners[^c-503b57c8bf46d050b0d31262ec8e566a][^c-b941119c8cdc9da1893b8454ae2b36e6]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-503b57c8bf46d050b0d31262ec8e566a]: Textual amendment: [Pt. 46 Section 5](https://www.legislation.gov.uk/uksi/1998/3132/part/46/section/5) inserted (13.4.2015) by [The Civil Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/670)](https://www.legislation.gov.uk/uksi/2015/670), [rules 2(3)](https://www.legislation.gov.uk/uksi/2015/670/rule/2/3), [6](https://www.legislation.gov.uk/uksi/2015/670/rule/6) (with [rule 12(1)](https://www.legislation.gov.uk/uksi/2015/670/rule/12/1)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 70](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/70)
+[^c-503b57c8bf46d050b0d31262ec8e566a]: Textual amendment: [Pt. 46 Section 5](https://www.legislation.gov.uk/uksi/1998/3132/part/46/section/5) inserted (13.4.2015) by [The Civil Procedure (Amendment No. 2) Rules 2015 (S.I. 2015/670)](https://www.legislation.gov.uk/uksi/2015/670), [rules 2(3)](https://www.legislation.gov.uk/uksi/2015/670/rule/2/3), [6](https://www.legislation.gov.uk/uksi/2015/670/rule/6) (with [rule 12(1)](https://www.legislation.gov.uk/uksi/2015/670/rule/12/1)); [S.I. 2015/778](https://www.legislation.gov.uk/uksi/2015/778), [art. 3](https://www.legislation.gov.uk/uksi/2015/778/article/3), [Sch. 1 para. 70](https://www.legislation.gov.uk/uksi/2015/778/schedule/1/paragraph/70)
 
-[^key-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))
+[^c-b941119c8cdc9da1893b8454ae2b36e6]: Textual amendment: Pts. 44-48 substituted (1.4.2013) by [The Civil Procedure (Amendment) Rules 2013 (S.I. 2013/262)](https://www.legislation.gov.uk/uksi/2013/262), [rules 2](https://www.legislation.gov.uk/uksi/2013/262/rule/2), [16](https://www.legislation.gov.uk/uksi/2013/262/rule/16), [Sch.](https://www.legislation.gov.uk/uksi/2013/262/schedule) (with [rule 22](https://www.legislation.gov.uk/uksi/2013/262/rule/22))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 256. Short title[^key-0d423da7a5034315fc7226bc46393018]
+## 256. Short title[^c-0d423da7a5034315fc7226bc46393018]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ This Act may be cited as the Levelling-up and Regeneration Act 2023.
 
 ## Annotations
 
-[^key-0d423da7a5034315fc7226bc46393018]: Commencement: S. 256 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)
+[^c-0d423da7a5034315fc7226bc46393018]: Commencement: S. 256 in force at Royal Assent, see [s. 255(10)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/10/a)

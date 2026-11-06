@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Combined certificates of registration[^key-f1e06a99994ab294775e4fac79a127d7][^key-937b80e65996762f0b20cfc9d1a3c4ba]
+## 92. Combined certificates of registration[^c-f1e06a99994ab294775e4fac79a127d7][^c-937b80e65996762f0b20cfc9d1a3c4ba]
 
 *Extent: E+W*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f1e06a99994ab294775e4fac79a127d7]: Commencement: S. 92 in force at 20.12.2006 for specified purposes by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/d)
+[^c-f1e06a99994ab294775e4fac79a127d7]: Commencement: S. 92 in force at 20.12.2006 for specified purposes by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/d)
 
-[^key-937b80e65996762f0b20cfc9d1a3c4ba]: Commencement: S. 92 in force at 1.9.2008 in so far as not already in force by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1), [2](https://www.legislation.gov.uk/uksi/2008/2261/schedule/2))
+[^c-937b80e65996762f0b20cfc9d1a3c4ba]: Commencement: S. 92 in force at 1.9.2008 in so far as not already in force by [S.I. 2008/2261](https://www.legislation.gov.uk/uksi/2008/2261), [art. 2](https://www.legislation.gov.uk/uksi/2008/2261/article/2) (with [Schs. 1](https://www.legislation.gov.uk/uksi/2008/2261/schedule/1), [2](https://www.legislation.gov.uk/uksi/2008/2261/schedule/2))

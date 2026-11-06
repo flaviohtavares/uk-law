@@ -58,7 +58,7 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 - (a) section 2(2) of, and paragraph 1A of Schedule 2 [^c21818831] to, the 1972 Act;
 - (b) section 56(1) and (2) of the Finance Act 1973 [^c21818841];
 - (c) section 1 of the Animal Health Act 1981 [^c21818851]; and
-- (d) section 10(3)(c) of the Animal Health and Welfare Act 1984 [^c21818861].[^key-b2056c28fee256516503cd34924066cb]
+- (d) section 10(3)(c) of the Animal Health and Welfare Act 1984 [^c21818861].[^c-b2056c28fee256516503cd34924066cb]
 
 ## 1. Title, application and commencement
 
@@ -68,11 +68,11 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 (3) These Regulations come into force on 24 June 2013.
 
-## 2. Interpretation[^key-b2056c28fee256516503cd34924066cb]
+## 2. Interpretation[^c-b2056c28fee256516503cd34924066cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Refund of Fees[^key-b2056c28fee256516503cd34924066cb]
+## 3. Refund of Fees[^c-b2056c28fee256516503cd34924066cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -105,11 +105,11 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
   - (ii) in sub-paragraph (3)(b), for “3.1.3” substitute “ 3.1.4 ”, and
   - (iii) in sub-paragraph (4)(a), for “Commission Regulation [(EC) No 1168/2006](https://www.legislation.gov.uk/european/regulation/2006/1168)” substitute “ Commission Regulation (EU) No 517/2011 ”.
 
-## 5.[^key-b2056c28fee256516503cd34924066cb]
+## 5.[^c-b2056c28fee256516503cd34924066cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Poultry Health Scheme: fees[^key-b2056c28fee256516503cd34924066cb]
+## 6. Poultry Health Scheme: fees[^c-b2056c28fee256516503cd34924066cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -125,21 +125,21 @@ The Welsh Ministers make these Regulations in exercise of the powers conferred b
 
 (3) Omit regulation 42.
 
-(4)[^key-b2056c28fee256516503cd34924066cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-b2056c28fee256516503cd34924066cb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Porcine semen: fees[^key-b2056c28fee256516503cd34924066cb]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 9. Bovine embryo (collection, production and transfer): fees[^key-b2056c28fee256516503cd34924066cb]
+## 8. Porcine semen: fees[^c-b2056c28fee256516503cd34924066cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 10. Checking consignments of live animals at border inspection posts: fees[^key-b2056c28fee256516503cd34924066cb]
+## 9. Bovine embryo (collection, production and transfer): fees[^c-b2056c28fee256516503cd34924066cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Revocations[^key-b2056c28fee256516503cd34924066cb]
+## 10. Checking consignments of live animals at border inspection posts: fees[^c-b2056c28fee256516503cd34924066cb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## 11. Revocations[^c-b2056c28fee256516503cd34924066cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -155,11 +155,11 @@ Robert Goodwill
 
 Two of the Lords Commissioners of Her Majesty's Treasury
 
-## SCHEDULE 1 — ...[^key-b2056c28fee256516503cd34924066cb]
+## SCHEDULE 1 — ...[^c-b2056c28fee256516503cd34924066cb]
 
 Regulation 5
 
-[^key-b2056c28fee256516503cd34924066cb]...
+[^c-b2056c28fee256516503cd34924066cb]...
 
 <table>
 <tbody>
@@ -174,7 +174,7 @@ Regulation 5
 </tbody>
 </table>
 
-[^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb]
+[^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb]
 
 <table>
 <tbody>
@@ -190,7 +190,7 @@ Regulation 5
 </tbody>
 </table>
 
-[^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb]
+[^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb]
 
 <table>
 <tbody>
@@ -202,13 +202,13 @@ Regulation 5
 </tbody>
 </table>
 
-[^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb]
+[^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb]
 
-## SCHEDULE 2 — ...[^key-b2056c28fee256516503cd34924066cb]
+## SCHEDULE 2 — ...[^c-b2056c28fee256516503cd34924066cb]
 
 Regulation 6
 
-[^key-b2056c28fee256516503cd34924066cb]...
+[^c-b2056c28fee256516503cd34924066cb]...
 
 <table>
 <tbody>
@@ -225,7 +225,7 @@ Regulation 6
 </tbody>
 </table>
 
-[^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb]
+[^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb]
 
 <table>
 <tbody>
@@ -240,9 +240,9 @@ Regulation 6
 </tbody>
 </table>
 
-[^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb]
+[^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb]
 
-## SCHEDULE 3 — ...[^key-b2056c28fee256516503cd34924066cb]
+## SCHEDULE 3 — ...[^c-b2056c28fee256516503cd34924066cb]
 
 Regulation 7(4)
 
@@ -263,9 +263,9 @@ Regulation 7(4)
 </tbody>
 </table>
 
-[^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb]
+[^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb]
 
-## SCHEDULE 4 — ...[^key-b2056c28fee256516503cd34924066cb]
+## SCHEDULE 4 — ...[^c-b2056c28fee256516503cd34924066cb]
 
 Regulation 8
 
@@ -290,9 +290,9 @@ Regulation 8
 </tbody>
 </table>
 
-[^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb]
+[^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb]
 
-## SCHEDULE 5 — ...[^key-b2056c28fee256516503cd34924066cb]
+## SCHEDULE 5 — ...[^c-b2056c28fee256516503cd34924066cb]
 
 Regulation 9
 
@@ -312,9 +312,9 @@ Regulation 9
 </tbody>
 </table>
 
-[^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb][^key-b2056c28fee256516503cd34924066cb]
+[^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb][^c-b2056c28fee256516503cd34924066cb]
 
-## SCHEDULE 6 — ...[^key-b2056c28fee256516503cd34924066cb]
+## SCHEDULE 6 — ...[^c-b2056c28fee256516503cd34924066cb]
 
 Regulation 10
 
@@ -335,7 +335,7 @@ Regulation 10
 </tbody>
 </table>
 
-[^key-b2056c28fee256516503cd34924066cb]
+[^c-b2056c28fee256516503cd34924066cb]
 
 *(This note is not part of the Regulations)*
 
@@ -377,7 +377,7 @@ The Welsh Ministers' Code of Practice on the carrying out of Regulatory Impact A
 
 [^c21818861]: Marginal citation: [1984 c.40](https://www.legislation.gov.uk/ukpga/1984/40); section 10(8) defines the “appropriate Minister” as meaning the Secretary of State in relation to Wales for the purposes of section 10. The functions of the Secretary of State, insofar as they are exercisable in relation to Wales, were transferred to the National Assembly for Wales by virtue of [S.I. 1999/672](https://www.legislation.gov.uk/uksi/1999/672). Those functions are now exercisable by the Welsh Ministers by virtue of section 162 of, and paragraph 30 of Schedule 11 to, the [Government of Wales Act 2006 (c.32)](https://www.legislation.gov.uk/ukpga/2006/32).
 
-[^key-b2056c28fee256516503cd34924066cb]: Textual amendment: Regulations revoked (except regs. 1, 4, 7(1)-(3)) (30.6.2018) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2018 (S.I. 2018/650)](https://www.legislation.gov.uk/wsi/2018/650), [reg. 10](https://www.legislation.gov.uk/wsi/2018/650/regulation/10)
+[^c-b2056c28fee256516503cd34924066cb]: Textual amendment: Regulations revoked (except regs. 1, 4, 7(1)-(3)) (30.6.2018) by [The Animal Health (Miscellaneous Fees) (Wales) Regulations 2018 (S.I. 2018/650)](https://www.legislation.gov.uk/wsi/2018/650), [reg. 10](https://www.legislation.gov.uk/wsi/2018/650/regulation/10)
 
 [^c21818911]: Marginal citation: [S.I. 2008/524](https://www.legislation.gov.uk/uksi/2008/524) (W.50).
 

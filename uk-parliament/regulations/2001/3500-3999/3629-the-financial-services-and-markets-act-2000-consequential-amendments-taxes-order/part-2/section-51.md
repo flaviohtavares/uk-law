@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Apportionment in relation to foreign controlled company: exempt activities[^key-9d32645381e9e853ba40bc44977cde45]
+## 51. Apportionment in relation to foreign controlled company: exempt activities[^c-9d32645381e9e853ba40bc44977cde45]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d32645381e9e853ba40bc44977cde45]: Commencement: Art. 51 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)
+[^c-9d32645381e9e853ba40bc44977cde45]: Commencement: Art. 51 in force at 1.12.2001, see [art. 1(2)(a)](https://www.legislation.gov.uk/uksi/2001/3629/article/1/2/a)

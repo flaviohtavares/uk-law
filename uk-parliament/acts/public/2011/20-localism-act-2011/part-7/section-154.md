@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Flexible tenancies[^key-45f0424b2cbbefc3708836484f3a78ac][^key-945494c407f7e3d333cabcc62ef0c327]
+## 154. Flexible tenancies[^c-45f0424b2cbbefc3708836484f3a78ac][^c-945494c407f7e3d333cabcc62ef0c327]
 
 *Extent: E+W*
 
@@ -156,6 +156,6 @@ After section 106A of the Housing Act 1985 insert—
 
 ## Annotations
 
-[^key-45f0424b2cbbefc3708836484f3a78ac]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2011/20/section/154) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(p)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/p) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
+[^c-45f0424b2cbbefc3708836484f3a78ac]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2011/20/section/154) in force at 15.1.2012 for specified purposes by [S.I. 2012/57](https://www.legislation.gov.uk/uksi/2012/57), [art. 4(1)(p)](https://www.legislation.gov.uk/uksi/2012/57/article/4/1/p) (with [arts. 6](https://www.legislation.gov.uk/uksi/2012/57/article/6), [7](https://www.legislation.gov.uk/uksi/2012/57/article/7), [arts. 9-11](https://www.legislation.gov.uk/uksi/2012/57/article/9))
 
-[^key-945494c407f7e3d333cabcc62ef0c327]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2011/20/section/154) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))
+[^c-945494c407f7e3d333cabcc62ef0c327]: Commencement: [S. 154](https://www.legislation.gov.uk/ukpga/2011/20/section/154) in force at 1.4.2012 in so far as not already in force by [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 6(a)](https://www.legislation.gov.uk/uksi/2012/628/article/6/a) (with [arts. 9](https://www.legislation.gov.uk/uksi/2012/628/article/9), [11](https://www.legislation.gov.uk/uksi/2012/628/article/11), [14](https://www.legislation.gov.uk/uksi/2012/628/article/14), [15](https://www.legislation.gov.uk/uksi/2012/628/article/15), [17](https://www.legislation.gov.uk/uksi/2012/628/article/17))

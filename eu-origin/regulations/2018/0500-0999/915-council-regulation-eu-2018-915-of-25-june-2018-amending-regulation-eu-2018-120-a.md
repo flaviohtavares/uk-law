@@ -33,37 +33,37 @@ of 25 June 2018
 
 amending Regulation (EU) 2018/120 as regards certain fishing opportunities (revoked)
 
-[^key-072bda46c7ed9dafc9d6567f700aa23b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-072bda46c7ed9dafc9d6567f700aa23b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## Article 1. Amendments to Regulation (EU) 2018/120[^key-072bda46c7ed9dafc9d6567f700aa23b]
+## Article 1. Amendments to Regulation (EU) 2018/120[^c-072bda46c7ed9dafc9d6567f700aa23b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 2. Entry into force[^key-072bda46c7ed9dafc9d6567f700aa23b]
+## Article 2. Entry into force[^c-072bda46c7ed9dafc9d6567f700aa23b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-072bda46c7ed9dafc9d6567f700aa23b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-072bda46c7ed9dafc9d6567f700aa23b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-072bda46c7ed9dafc9d6567f700aa23b]
+## ANNEX[^c-072bda46c7ed9dafc9d6567f700aa23b]
 
-[^key-072bda46c7ed9dafc9d6567f700aa23b]1.
+[^c-072bda46c7ed9dafc9d6567f700aa23b]1.
 
 Annex IA to Regulation (EU) 2018/120 is amended as follows:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-072bda46c7ed9dafc9d6567f700aa23b]2.
+[^c-072bda46c7ed9dafc9d6567f700aa23b]2.
 
 In Annex IJ to Regulation (EU) 2018/120, the fishing opportunities table for jack mackerel in the SPRFMO Convention area is replaced by the following:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-072bda46c7ed9dafc9d6567f700aa23b]3.
+[^c-072bda46c7ed9dafc9d6567f700aa23b]3.
 
 In Annex IV, Section 4, the Table A is replaced by the following:
 
@@ -71,4 +71,4 @@ In Annex IV, Section 4, the Table A is replaced by the following:
 
 ## Annotations
 
-[^key-072bda46c7ed9dafc9d6567f700aa23b]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-072bda46c7ed9dafc9d6567f700aa23b]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

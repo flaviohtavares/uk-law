@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Attachment of conditions to related licences[^key-3b5992e2a6941e47874a6d15b1906ca5]
+## 62. Attachment of conditions to related licences[^c-3b5992e2a6941e47874a6d15b1906ca5]
 
 *Extent: E+W*
 
@@ -99,4 +99,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3b5992e2a6941e47874a6d15b1906ca5]: Commencement: S. 62 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1) (with [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/paragraph/2/1))
+[^c-3b5992e2a6941e47874a6d15b1906ca5]: Commencement: S. 62 in force at 9.2.2009 by [S.I. 2009/107](https://www.legislation.gov.uk/uksi/2009/107), [art. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/article/2/1), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/part/1) (with [Sch. 1 para. 2(1)](https://www.legislation.gov.uk/uksi/2009/107/schedule/1/paragraph/2/1))

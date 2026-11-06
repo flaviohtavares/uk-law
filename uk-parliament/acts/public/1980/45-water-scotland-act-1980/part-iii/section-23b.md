@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 23B. Construction standards for mains and communication pipes to vest in Scottish Water[^key-305dbf67d6c98c137aa4f34f40d62928]
+## 23B. Construction standards for mains and communication pipes to vest in Scottish Water[^c-305dbf67d6c98c137aa4f34f40d62928]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-305dbf67d6c98c137aa4f34f40d62928]: Textual amendment: Ss. 23A-23C inserted (10.7.2008) by [Water Environment and Water Services (Scotland) Act 2003 (asp 3)](https://www.legislation.gov.uk/asp/2003/3), [ss. 31](https://www.legislation.gov.uk/asp/2003/3/section/31), [38(1)](https://www.legislation.gov.uk/asp/2003/3/section/38/1) (with [s. 35(2)](https://www.legislation.gov.uk/asp/2003/3/section/35/2)); [S.S.I. 2008/269](https://www.legislation.gov.uk/ssi/2008/269), [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/269/article/2/b)
+[^c-305dbf67d6c98c137aa4f34f40d62928]: Textual amendment: Ss. 23A-23C inserted (10.7.2008) by [Water Environment and Water Services (Scotland) Act 2003 (asp 3)](https://www.legislation.gov.uk/asp/2003/3), [ss. 31](https://www.legislation.gov.uk/asp/2003/3/section/31), [38(1)](https://www.legislation.gov.uk/asp/2003/3/section/38/1) (with [s. 35(2)](https://www.legislation.gov.uk/asp/2003/3/section/35/2)); [S.S.I. 2008/269](https://www.legislation.gov.uk/ssi/2008/269), [art. 2(b)](https://www.legislation.gov.uk/ssi/2008/269/article/2/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 77. Limit on student fees: part-time courses[^key-b428b0a4bb990d3246ea47684212bf87]
+## 77. Limit on student fees: part-time courses[^c-b428b0a4bb990d3246ea47684212bf87]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b428b0a4bb990d3246ea47684212bf87]: Textual amendment: [S. 77](https://www.legislation.gov.uk/ukpga/2011/21/section/77) omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 33(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/33/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 19)
+[^c-b428b0a4bb990d3246ea47684212bf87]: Textual amendment: [S. 77](https://www.legislation.gov.uk/ukpga/2011/21/section/77) omitted (1.4.2018) by virtue of [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 11 para. 33(a)](https://www.legislation.gov.uk/ukpga/2017/29/schedule/11/paragraph/33/a); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/s) (with transitional and savings provisions in [S.I. 2018/245](https://www.legislation.gov.uk/uksi/2018/245), regs. 2, 3, 19)

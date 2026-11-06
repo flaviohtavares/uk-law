@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 7 — Determination of payments to early retirees and other beneficiaries[^key-a38e828ba5eebab0c69c39d9489e92d1]
+## SCHEDULE 7 — Determination of payments to early retirees and other beneficiaries[^c-a38e828ba5eebab0c69c39d9489e92d1]
 
 *Extent: E+W+S+N.I.*
 
@@ -81,7 +81,7 @@ less any amount by which the scheme manager determines a payment is to be reduce
 
 ### 4. Annual increases
 
-(1) Except where there is no percentage increase in the general level of prices[^key-f164a312954f73a30262eb834e5a67de] for the period of 12 months ending with 31st May last falling before the indexation date, where the asset share determined in respect of a person to whom an amount is payable in accordance with this Schedule was sufficient to be applied to annual increases, that person shall be entitled, on each indexation date after the day on which the transfer notice is given, to an increase of—
+(1) Except where there is no percentage increase in the general level of prices[^c-f164a312954f73a30262eb834e5a67de] for the period of 12 months ending with 31st May last falling before the indexation date, where the asset share determined in respect of a person to whom an amount is payable in accordance with this Schedule was sufficient to be applied to annual increases, that person shall be entitled, on each indexation date after the day on which the transfer notice is given, to an increase of—
 
 - (a) the appropriate percentage of the amount of the underlying rate immediately before that date; or
 - (b) where that person first became entitled to a payment in accordance with regulation 17G or 17H during the period of 12 months ending immediately before that date, one twelfth of that amount for each full month since the date on which the payment was first payable.
@@ -110,6 +110,6 @@ less any amount by which the scheme manager determines a payment is to be reduce
 
 ## Annotations
 
-[^key-a38e828ba5eebab0c69c39d9489e92d1]: Textual amendment: Sch. 7 added (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [18(e)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/18/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1149/schedule/2)
+[^c-a38e828ba5eebab0c69c39d9489e92d1]: Textual amendment: Sch. 7 added (2.4.2010) by [The Financial Assistance Scheme (Miscellaneous Amendments) Regulations 2010 (S.I. 2010/1149)](https://www.legislation.gov.uk/uksi/2010/1149), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1149/regulation/1), [18(e)](https://www.legislation.gov.uk/uksi/2010/1149/regulation/18/e), [Sch. 2](https://www.legislation.gov.uk/uksi/2010/1149/schedule/2)
 
-[^key-f164a312954f73a30262eb834e5a67de]: Textual amendment: Words in [Schs. 3-7](https://www.legislation.gov.uk/uksi/2005/1986/schedule/3) substituted (31.12.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2011/839/regulation/15)
+[^c-f164a312954f73a30262eb834e5a67de]: Textual amendment: Words in [Schs. 3-7](https://www.legislation.gov.uk/uksi/2005/1986/schedule/3) substituted (31.12.2011) by [The Financial Assistance Scheme (Revaluation and Indexation Amendments) Regulations 2011 (S.I. 2011/839)](https://www.legislation.gov.uk/uksi/2011/839), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2011/839/regulation/1/2), [15](https://www.legislation.gov.uk/uksi/2011/839/regulation/15)

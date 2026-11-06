@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 124. Adjusted credit ceiling[^key-90c4eb2262e046c8ff122d25cfa7b105]
+## 124. Adjusted credit ceiling[^c-90c4eb2262e046c8ff122d25cfa7b105]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ At any time on or after 1st April 1997, a local authority’s adjusted credit ce
 
 ## Annotations
 
-[^key-90c4eb2262e046c8ff122d25cfa7b105]: Commencement: Reg. 124 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-90c4eb2262e046c8ff122d25cfa7b105]: Commencement: Reg. 124 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

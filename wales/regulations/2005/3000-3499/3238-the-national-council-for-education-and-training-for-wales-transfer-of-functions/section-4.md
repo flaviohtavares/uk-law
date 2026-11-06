@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Transfer of property, rights and liabilities[^key-ca7ed208d927d512f6925a317f8f9798]
+## 4. Transfer of property, rights and liabilities[^c-ca7ed208d927d512f6925a317f8f9798]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ca7ed208d927d512f6925a317f8f9798]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2005/3238/article/4) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)
+[^c-ca7ed208d927d512f6925a317f8f9798]: Commencement: [Art. 4](https://www.legislation.gov.uk/wsi/2005/3238/article/4) in force at 1.4.2006, see [art. 1(1)](https://www.legislation.gov.uk/wsi/2005/3238/article/1/1)

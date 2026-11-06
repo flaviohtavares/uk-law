@@ -24,13 +24,13 @@ summary: ''
 
 - (a) a taxable person makes a supply of specified services;
 - (b) those services are wholly performed on or in relation to goods while those goods are subject to a warehousing or fiscal warehousing regime;
-- (c) (except where the services are the supply by an occupier of a warehouse or a fiscal warehousekeeper of warehousing or fiscally warehousing the goods) the person to whom the supply is made gives the supplier a certificate [^key-62bde72fe9f5517d3d7994e89e0ff94b]... that the services are so performed;
+- (c) (except where the services are the supply by an occupier of a warehouse or a fiscal warehousekeeper of warehousing or fiscally warehousing the goods) the person to whom the supply is made gives the supplier a certificate [^c-62bde72fe9f5517d3d7994e89e0ff94b]... that the services are so performed;
 - (d) the supply of services would (apart from this section) be taxable and not zero-rated; and
 - (e) the supplier issues to the person to whom the supply is made an invoice of such a description as the Commissioners may by regulations prescribe,
 
 his supply shall be zero-rated.
 
-(1A)[^key-fb04611b5ef06ac0a7edc0bb038f7fbc] A certificate under subsection (1)(c) must be in such form as may be specified by regulations or by the Commissioners in accordance with regulations.
+(1A)[^c-fb04611b5ef06ac0a7edc0bb038f7fbc] A certificate under subsection (1)(c) must be in such form as may be specified by regulations or by the Commissioners in accordance with regulations.
 
 (2) If a supply of services is zero-rated under subsection (1) above (“the zero-rated supply of services”) then, unless there is a supply of the goods in question the material time for which is—
 
@@ -49,15 +49,15 @@ subsection (3) below shall apply.
 (4) In this section “**specified services**” means—
 
 - (a) services of an occupier of a warehouse or a fiscal warehousekeeper of keeping the goods in question in a warehousing or fiscal warehousing regime;
-- (b) in relation to goods subject to a warehousing regime, services of carrying out on the goods operations which are permitted to be carried out under the customs and excise Acts or any subordinate legislation made under those Acts[^key-8008c1738bcf37ecf7f5a52114ec5dda] as the case may be; and
+- (b) in relation to goods subject to a warehousing regime, services of carrying out on the goods operations which are permitted to be carried out under the customs and excise Acts or any subordinate legislation made under those Acts[^c-8008c1738bcf37ecf7f5a52114ec5dda] as the case may be; and
 - (c) in relation to goods subject to a fiscal warehousing regime, services of carrying out on the goods any physical operations (other than any prohibited by regulations made under section 18F), for example, and without prejudice to the generality of the foregoing words, preservation and repacking operations.
 
 ## Annotations
 
 [^M_F_c50bbe53-3aa1-4c1c-c6fb-c74b540ecde3]: Textual amendment: S. 18C inserted (29.4.1996 for certain purposes and 1.6.1996 otherwise with application to any acquisition of goods from another member State and any supply taking place on or after that day) by [1996 c. 8](https://www.legislation.gov.uk/ukpga/1996/8), ss. 25, 26, Sch. 3 para. 5; [S.I. 1996/1249](https://www.legislation.gov.uk/uksi/1996/1249), art. 2
 
-[^key-62bde72fe9f5517d3d7994e89e0ff94b]: Textual amendment: Words in s. 18C(1)(c) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 29 para. 3(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/29/paragraph/3/2)
+[^c-62bde72fe9f5517d3d7994e89e0ff94b]: Textual amendment: Words in s. 18C(1)(c) omitted (17.7.2012) by virtue of [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 29 para. 3(2)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/29/paragraph/3/2)
 
-[^key-fb04611b5ef06ac0a7edc0bb038f7fbc]: Textual amendment: S. 18C(1A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 29 para. 3(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/29/paragraph/3/3)
+[^c-fb04611b5ef06ac0a7edc0bb038f7fbc]: Textual amendment: S. 18C(1A) inserted (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 29 para. 3(3)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/29/paragraph/3/3)
 
-[^key-8008c1738bcf37ecf7f5a52114ec5dda]: Textual amendment: Words in s. 18C(4)(b) substituted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/19) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))
+[^c-8008c1738bcf37ecf7f5a52114ec5dda]: Textual amendment: Words in s. 18C(4)(b) substituted (31.12.2020) by [Taxation (Cross-border Trade) Act 2018 (c. 22)](https://www.legislation.gov.uk/ukpga/2018/22), [s. 57(3)](https://www.legislation.gov.uk/ukpga/2018/22/section/57/3), [Sch. 8 para. 19](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/19) (with [Sch. 8 para. 99](https://www.legislation.gov.uk/ukpga/2018/22/schedule/8/paragraph/99)) (with savings and transitional provisions in [S.I. 2019/105](https://www.legislation.gov.uk/uksi/2019/105) (as amended by [S.I. 2020/1495](https://www.legislation.gov.uk/uksi/2020/1495), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1495/regulation/1/2), [21](https://www.legislation.gov.uk/uksi/2020/1495/regulation/21)), [S.I. 2020/1545](https://www.legislation.gov.uk/uksi/2020/1545), [Pt. 4](https://www.legislation.gov.uk/uksi/2020/1545/part/4) and [2020 c. 26](https://www.legislation.gov.uk/ukpga/2020/26), [Sch. 2 para. 7(7)-(9)](https://www.legislation.gov.uk/ukpga/2020/26/schedule/2/paragraph/7/7)); [S.I. 2020/1642](https://www.legislation.gov.uk/uksi/2020/1642), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2020/1642/regulation/4/b) (with [reg. 7](https://www.legislation.gov.uk/uksi/2020/1642/regulation/7))

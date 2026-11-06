@@ -49,11 +49,11 @@ Coming into force
 
 The Treasury, in exercise of the powers conferred on them by section 178 of the Finance Act 1989[^f00001], hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-a214dbfcd8fd51ad3cef401ebad5c4cd]
+## 1. Citation and commencement[^c-a214dbfcd8fd51ad3cef401ebad5c4cd]
 
 These Regulations may be cited as the Taxes (Interest Rate) Regulations 1989 and shall come into force on 18th August 1989.
 
-## 2. Interpretation[^key-580861d6b1749740f5824f534abb1468]
+## 2. Interpretation[^c-580861d6b1749740f5824f534abb1468]
 
 (1) In these Regulations unless the context otherwise requires–
 
@@ -76,7 +76,7 @@ These Regulations may be cited as the Taxes (Interest Rate) Regulations 1989 and
 
 and, if the result is not a whole number, rounding the result to the nearest such number, with any result midway between two whole numbers rounded down.
 
-## 3. Applicable rate of interest on unpaid tax, tax repaid and repayment supplement[^key-2e75e1595e3e2ff2b99ab0909a313657]
+## 3. Applicable rate of interest on unpaid tax, tax repaid and repayment supplement[^c-2e75e1595e3e2ff2b99ab0909a313657]
 
 (1) For the purposes of–
 
@@ -98,7 +98,7 @@ the rate applicable under section 178 shall, subject to paragraph (2), be 12.25 
 
 - where RR is the reference rate referred to in paragraph (2) and BR is the percentage at which income tax at the basic rate is charged for the year of assessment in which the reference date referred to in that paragraph falls.
 
-## 4. Applicable rate of interest on unpaid inheritance tax, capital transfer tax and estate duty[^key-8f823f3a29af9edd148f574e46790dd0]
+## 4. Applicable rate of interest on unpaid inheritance tax, capital transfer tax and estate duty[^c-8f823f3a29af9edd148f574e46790dd0]
 
 (1) For the purposes of–
 
@@ -119,7 +119,7 @@ the rate applicable under section 178 shall, subject to paragraph (2), be 11 per
 
 - where RR is the reference rate referred to in paragraph (2) and BR is the percentage at which income tax at the basic rate is charged for the year of assessment in which the reference date referred to in that paragraph falls.
 
-## 5. Applicable rate of official rate of interest[^key-57ccd3df3b98c0b82bf14b64a75994a7]
+## 5. Applicable rate of official rate of interest[^c-57ccd3df3b98c0b82bf14b64a75994a7]
 
 (1) For the purpose of section 160 of the Income and Corporation Taxes Act 1988[^f00016] the rate applicable under section 178 shall, subject to paragraph (2), be 15.5 per cent. per annum.
 
@@ -131,7 +131,7 @@ the rate applicable under section 178 shall, subject to paragraph (2), be 11 per
 
 where RR is the reference rate referred to in paragraph (2).
 
-## 6. Effect of change in applicable rate[^key-0b277dad803d08ea9b1bdf3bf064d169]
+## 6. Effect of change in applicable rate[^c-0b277dad803d08ea9b1bdf3bf064d169]
 
 Where the rate applicable under section 178 for the purpose of any of the enactments referred to in regulation 3(1), 4(1) or 5(1) changes on an operative date by virtue of these Regulations, that change shall have effect for periods beginning on or after the operative date in relation to interest running from before that date as well as from or from after that date.
 
@@ -165,13 +165,13 @@ Regulation 6 provides that changes in interest rates by virtue of the Regulation
 
 [^f00001]: Footnote: [1989 c. 26](https://www.legislation.gov.uk/ukpga/1989/26).
 
-[^key-a214dbfcd8fd51ad3cef401ebad5c4cd]: Commencement: Reg. 1 in force at 18.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1297/regulation/1)
+[^c-a214dbfcd8fd51ad3cef401ebad5c4cd]: Commencement: Reg. 1 in force at 18.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1297/regulation/1)
 
-[^key-580861d6b1749740f5824f534abb1468]: Commencement: Reg. 2 in force at 18.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1297/regulation/1)
+[^c-580861d6b1749740f5824f534abb1468]: Commencement: Reg. 2 in force at 18.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1297/regulation/1)
 
 [^f00002]: Footnote: [1882 c. 61](https://www.legislation.gov.uk/ukpga/1882/61); section 92 was amended by sections 3(1) and (3) and 4(4) of the Banking and Finance Dealings Act [1971 (c. 80)](https://www.legislation.gov.uk/ukpga/1971/80).
 
-[^key-2e75e1595e3e2ff2b99ab0909a313657]: Commencement: Reg. 3 in force at 18.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1297/regulation/1)
+[^c-2e75e1595e3e2ff2b99ab0909a313657]: Commencement: Reg. 3 in force at 18.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1297/regulation/1)
 
 [^f00003]: Footnote: [1970 c. 9](https://www.legislation.gov.uk/ukpga/1970/9); section 86 was substituted by section 46(1) of the Finance (No. 2) Act [1975 (c. 45)](https://www.legislation.gov.uk/ukpga/1975/45); the section as substituted was amended by sections 61(3) and 62(1) and (2) of the Finance Act [1980 (c. 48)](https://www.legislation.gov.uk/ukpga/1980/48), by section 69(1) of the Finance Act [1982 (c. 39)](https://www.legislation.gov.uk/ukpga/1982/39), by section 844(1) of, and paragraph 32 of Schedule 29 to, the Income and Corporation Taxes Act [1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1) and by section 179(1) of the Finance Act 1989. Other modifications and applications of the section were made by section 46(2) of the Finance (No. 2) Act [1975 (c. 45)](https://www.legislation.gov.uk/ukpga/1975/45), section 62(6) of the Finance Act [1981 (c. 35)](https://www.legislation.gov.uk/ukpga/1981/35) and by section 26 of, and paragraph 13(9) of Schedule 5 to, the Finance Act [1983 (c. 28)](https://www.legislation.gov.uk/ukpga/1983/28). Section 86A was inserted (for the purposes of development land tax only) by section 41 of, and paragraph 21(2) of Schedule 8 to, the Development Land Tax Act [1976 (c. 24)](https://www.legislation.gov.uk/ukpga/1976/24) and amended by section 115(2) and section 122(4) of, and Part XIV of Schedule 20 to, the Finance Act [1980 (c. 48)](https://www.legislation.gov.uk/ukpga/1980/48), by section 123(4) of the Finance Act [1984 (c. 43)](https://www.legislation.gov.uk/ukpga/1984/43) and by section 179(1) of the Finance Act 1989. (The Development Land Tax Act [1976 (c. 24)](https://www.legislation.gov.uk/ukpga/1976/24) was repealed by section 98(6) of, and Part X of Schedule 27 to, the Finance Act [1985 (c. 54)](https://www.legislation.gov.uk/ukpga/1985/54)). Section 87 was substituted by section 111 of, and paragraph 10 of Schedule 24 to, the Finance Act [1972 (c. 41)](https://www.legislation.gov.uk/ukpga/1972/41); the section as substituted was amended by section 46(3) of the Finance (No. 2) Act [1975 (c. 45)](https://www.legislation.gov.uk/ukpga/1975/45), by section 62(1) and (2) of the Finance Act [1980 (c. 48)](https://www.legislation.gov.uk/ukpga/1980/48), by section 844(1) of, and paragraph 32 of Schedule 29 to, the Income and Corporation Taxes Act [1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1) and by section 179(1) of the Finance Act 1989. Section 88 was amended by section 37(1) of, and paragraph 87 of Schedule 6 to, the Finance Act [1971 (c. 68)](https://www.legislation.gov.uk/ukpga/1971/68), section 111 of, and paragraph 11 of Schedule 24 to, the Finance Act [1972 (c. 41)](https://www.legislation.gov.uk/ukpga/1972/41), section 46(4) of the Finance (No. 2) Act [1975 (c. 45)](https://www.legislation.gov.uk/ukpga/1975/45), section 41 of, and (for the purposes of development land tax only) paragraph 22(1) of Schedule 8 to, the Development Land Tax Act [1976 (c. 24)](https://www.legislation.gov.uk/ukpga/1976/24), by section 61(4) of the Finance Act [1980 (c. 48)](https://www.legislation.gov.uk/ukpga/1980/48), by section 844(1) and (3) of, and paragraph 32 of Schedule 29 and Schedule 31 to, the Income and Corporation Taxes Act [1988 (c. 1)](https://www.legislation.gov.uk/ukpga/1988/1) and by section 179(1) of the Finance Act 1989.
 
@@ -187,7 +187,7 @@ Regulation 6 provides that changes in interest rates by virtue of the Regulation
 
 [^f00009]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); sections 824 and 825 were amended by section 179(1) of the Finance Act 1989 and Schedule 19A was inserted by section 58(4) of the Finance Act [1988 (c. 39)](https://www.legislation.gov.uk/ukpga/1988/39) and amended by section 179(1) of the Finance Act 1989.
 
-[^key-8f823f3a29af9edd148f574e46790dd0]: Commencement: Reg. 4 in force at 18.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1297/regulation/1)
+[^c-8f823f3a29af9edd148f574e46790dd0]: Commencement: Reg. 4 in force at 18.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1297/regulation/1)
 
 [^f00010]: Footnote: [1894 c. 30](https://www.legislation.gov.uk/ukpga/1894/30); section 8(9) was amended by section 179(2) of the Finance Act 1989.
 
@@ -201,8 +201,8 @@ Regulation 6 provides that changes in interest rates by virtue of the Regulation
 
 [^f00015]: Footnote: [1984 c. 51](https://www.legislation.gov.uk/ukpga/1984/51); subsection (1)(c) of section 233 was amended by section 94 of, and paragraph 11 of Schedule 26 to, the Finance Act [1985 (c. 54)](https://www.legislation.gov.uk/ukpga/1985/54), in relation to events on or after 19th March 1985. Subsection (1) was amended, and subsection (1A) was inserted, by section 60(1) and (3) and section 60(2) and (3), respectively, of the Finance Act [1987 (c. 16)](https://www.legislation.gov.uk/ukpga/1987/16), where the acceptance referred to in section 230 of the Inheritance Tax Act 1984 occurs on or after 17th March 1987. Subsection (1) was further amended by section 179(1) of the Finance Act 1989. Subsection (2) of section 233 was amended by section 101(3) of, and paragraph 32 of Schedule 19 to, the Finance Act [1986 (c. 41)](https://www.legislation.gov.uk/ukpga/1986/41), with respect to transfers of value made and other events occurring after 17th March 1986, and by section 179(1) of the Finance Act 1989. Section 236(4) was amended by section 179(3) of the Finance Act 1989. By virtue of section 100(1) and (2) of the Finance Act 1986, on and after 25th July 1986 and Capital Transfer Tax Act 1984 may be cited as the Inheritance Tax Act 1984, and any reference in that Act to capital transfer tax is to have effect as a reference to inheritance tax, except where the reference relates to a liability arising before 25th July 1986.
 
-[^key-57ccd3df3b98c0b82bf14b64a75994a7]: Commencement: Reg. 5 in force at 18.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1297/regulation/1)
+[^c-57ccd3df3b98c0b82bf14b64a75994a7]: Commencement: Reg. 5 in force at 18.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1297/regulation/1)
 
 [^f00016]: Footnote: [1988 c. 1](https://www.legislation.gov.uk/ukpga/1988/1); section 160 was amended by section 179(1) of the Finance Act 1989.
 
-[^key-0b277dad803d08ea9b1bdf3bf064d169]: Commencement: Reg. 6 in force at 18.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1297/regulation/1)
+[^c-0b277dad803d08ea9b1bdf3bf064d169]: Commencement: Reg. 6 in force at 18.8.1989, see [reg. 1](https://www.legislation.gov.uk/uksi/1989/1297/regulation/1)

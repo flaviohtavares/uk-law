@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 67. Constitution of creditors’ committee[^key-74f54b4ae607ba2258451826515a8ff8]
+## 67. Constitution of creditors’ committee[^c-74f54b4ae607ba2258451826515a8ff8]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-74f54b4ae607ba2258451826515a8ff8]: Commencement: Rule 67 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)
+[^c-74f54b4ae607ba2258451826515a8ff8]: Commencement: Rule 67 in force at 19.12.2022, see [rule 2](https://www.legislation.gov.uk/uksi/2022/1239/rule/2)

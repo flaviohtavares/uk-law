@@ -44,7 +44,7 @@ Coming into force
 
 6th April 2007
 
-The Secretary of State for Communities and Local Government, in exercise of the powers conferred by sections 220, 221, 223(1), 224(3) and 333(1) of the Town and Country Planning Act 1990 [^c18473011], makes the following Regulations:[^key-606a9ce785ff62f1f315da23dbb96bc1]
+The Secretary of State for Communities and Local Government, in exercise of the powers conferred by sections 220, 221, 223(1), 224(3) and 333(1) of the Town and Country Planning Act 1990 [^c18473011], makes the following Regulations:[^c-606a9ce785ff62f1f315da23dbb96bc1]
 
 ## Contents
 
@@ -89,7 +89,7 @@ The Secretary of State for Communities and Local Government, in exercise of the 
 - [Section 20 — Area of special control orders](part-4/section-20.md)
 - [Section 21 — Control in areas of special control](part-4/section-21.md)
 
-### Part 4A — Flags[^key-e8f9957e8ed8e63d9d7b939d7783cabd]
+### Part 4A — Flags[^c-e8f9957e8ed8e63d9d7b939d7783cabd]
 
 - [Section 21A — Limitation on number of flags on flagstaff](part-4a/section-21a.md)
 - [Section 21B — Two flags: conditions of display](part-4a/section-21b.md)
@@ -188,6 +188,6 @@ A full regulatory impact assessment has been prepared in relation to the Regulat
 
 [^c18473011]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-606a9ce785ff62f1f315da23dbb96bc1]: Modification: Regulations applied (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [14](https://www.legislation.gov.uk/uksi/2012/2031/regulation/14)
+[^c-606a9ce785ff62f1f315da23dbb96bc1]: Modification: Regulations applied (3.8.2012) by [The Neighbourhood Planning (Referendums) Regulations 2012 (S.I. 2012/2031)](https://www.legislation.gov.uk/uksi/2012/2031), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2031/regulation/1), [14](https://www.legislation.gov.uk/uksi/2012/2031/regulation/14)
 
-[^key-e8f9957e8ed8e63d9d7b939d7783cabd]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2007/783/part/4A) inserted (24.6.2021) by [The Town and Country Planning (Control of Advertisements) (England) (Amendment) Regulations 2021 (S.I. 2021/617)](https://www.legislation.gov.uk/uksi/2021/617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/617/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/617/regulation/3)
+[^c-e8f9957e8ed8e63d9d7b939d7783cabd]: Textual amendment: [Pt. 4A](https://www.legislation.gov.uk/uksi/2007/783/part/4A) inserted (24.6.2021) by [The Town and Country Planning (Control of Advertisements) (England) (Amendment) Regulations 2021 (S.I. 2021/617)](https://www.legislation.gov.uk/uksi/2021/617), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/617/regulation/1/2), [3](https://www.legislation.gov.uk/uksi/2021/617/regulation/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 162A. Election for section 162 not to apply[^key-e0215abe3959c3562f4344cd7e5027c2]
+## 162A. Election for section 162 not to apply[^c-e0215abe3959c3562f4344cd7e5027c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0215abe3959c3562f4344cd7e5027c2]: Textual amendment: S. 162A omitted (with effect in accordance with s. 39(5) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 39(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/39/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/39/5)
+[^c-e0215abe3959c3562f4344cd7e5027c2]: Textual amendment: S. 162A omitted (with effect in accordance with s. 39(5) of the amending Act) by virtue of [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 39(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/39/4)[(5)](https://www.legislation.gov.uk/ukpga/2026/11/section/39/5)

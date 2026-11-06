@@ -28,7 +28,7 @@ summary: ''
 
 Pensions
 
-The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2016 (revoked)[^key-c3eae8e00c52e9aa325ecfa60a0ec526]
+The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2016 (revoked)[^c-c3eae8e00c52e9aa325ecfa60a0ec526]
 
 Made
 
@@ -40,35 +40,35 @@ Laid before Parliament
 
 Coming into force in accordance with article 1(2)
 
-[^key-c3eae8e00c52e9aa325ecfa60a0ec526]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3eae8e00c52e9aa325ecfa60a0ec526]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-c3eae8e00c52e9aa325ecfa60a0ec526]
+## 1. Citation, commencement and interpretation[^c-c3eae8e00c52e9aa325ecfa60a0ec526]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The earnings percentage[^key-c3eae8e00c52e9aa325ecfa60a0ec526]
+## 2. The earnings percentage[^c-c3eae8e00c52e9aa325ecfa60a0ec526]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. The levy ceiling[^key-c3eae8e00c52e9aa325ecfa60a0ec526]
+## 3. The levy ceiling[^c-c3eae8e00c52e9aa325ecfa60a0ec526]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. The compensation cap[^key-c3eae8e00c52e9aa325ecfa60a0ec526]
+## 4. The compensation cap[^c-c3eae8e00c52e9aa325ecfa60a0ec526]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Revocations[^key-c3eae8e00c52e9aa325ecfa60a0ec526]
+## 5. Revocations[^c-c3eae8e00c52e9aa325ecfa60a0ec526]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c3eae8e00c52e9aa325ecfa60a0ec526]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c3eae8e00c52e9aa325ecfa60a0ec526]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-c3eae8e00c52e9aa325ecfa60a0ec526]EXPLANATORY NOTE
+[^c-c3eae8e00c52e9aa325ecfa60a0ec526]EXPLANATORY NOTE
 
 (This note is not part of the Order)
 
@@ -90,4 +90,4 @@ This Order amends an existing regulatory regime by a pre-determined formula and 
 
 ## Annotations
 
-[^key-c3eae8e00c52e9aa325ecfa60a0ec526]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2016/82) revoked (1.4.2017) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2017 (S.I. 2017/50)](https://www.legislation.gov.uk/uksi/2017/50), [art. 5](https://www.legislation.gov.uk/uksi/2017/50/article/5)
+[^c-c3eae8e00c52e9aa325ecfa60a0ec526]: Textual amendment: [Instrument](https://www.legislation.gov.uk/uksi/2016/82) revoked (1.4.2017) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order 2017 (S.I. 2017/50)](https://www.legislation.gov.uk/uksi/2017/50), [art. 5](https://www.legislation.gov.uk/uksi/2017/50/article/5)

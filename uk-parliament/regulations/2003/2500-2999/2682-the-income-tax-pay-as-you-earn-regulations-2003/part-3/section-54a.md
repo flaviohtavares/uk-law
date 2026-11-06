@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54A. Relevant pension payments and relevant payments being received by a pensioner[^key-f15c7cdb504e62fa62da235bdebb33f1]
+## 54A. Relevant pension payments and relevant payments being received by a pensioner[^c-f15c7cdb504e62fa62da235bdebb33f1]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f15c7cdb504e62fa62da235bdebb33f1]: Textual amendment: [Regs. 54A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/54A), [54B](https://www.legislation.gov.uk/uksi/2003/2682/regulation/54B) and cross-headings inserted (6.4.2011) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2011 (S.I. 2011/729)](https://www.legislation.gov.uk/uksi/2011/729), [regs. 1](https://www.legislation.gov.uk/uksi/2011/729/regulation/1), [13](https://www.legislation.gov.uk/uksi/2011/729/regulation/13)
+[^c-f15c7cdb504e62fa62da235bdebb33f1]: Textual amendment: [Regs. 54A](https://www.legislation.gov.uk/uksi/2003/2682/regulation/54A), [54B](https://www.legislation.gov.uk/uksi/2003/2682/regulation/54B) and cross-headings inserted (6.4.2011) by [The Income Tax (Pay As You Earn) (Amendment) Regulations 2011 (S.I. 2011/729)](https://www.legislation.gov.uk/uksi/2011/729), [regs. 1](https://www.legislation.gov.uk/uksi/2011/729/regulation/1), [13](https://www.legislation.gov.uk/uksi/2011/729/regulation/13)

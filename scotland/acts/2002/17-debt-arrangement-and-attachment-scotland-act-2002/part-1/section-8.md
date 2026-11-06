@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 8. Functions of the Scottish Ministers[^key-5dcde15f19b980bdc9e9f1934f6b2494]
+## 8. Functions of the Scottish Ministers[^c-5dcde15f19b980bdc9e9f1934f6b2494]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dcde15f19b980bdc9e9f1934f6b2494]: Commencement: S. 8 in force at 24.9.2004 by [S.S.I. 2004/416](https://www.legislation.gov.uk/ssi/2004/416), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2004/416/article/2/1/b)
+[^c-5dcde15f19b980bdc9e9f1934f6b2494]: Commencement: S. 8 in force at 24.9.2004 by [S.S.I. 2004/416](https://www.legislation.gov.uk/ssi/2004/416), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2004/416/article/2/1/b)

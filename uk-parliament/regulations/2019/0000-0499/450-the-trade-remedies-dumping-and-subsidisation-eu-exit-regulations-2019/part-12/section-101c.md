@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 101C. Acceptance of recommendation after replacement of EU trade duty[^key-dc68a8dc60108bd892ea7da55f232855]
+## 101C. Acceptance of recommendation after replacement of EU trade duty[^c-dc68a8dc60108bd892ea7da55f232855]
 
 *Extent: E+W+S+N.I.*
 
-(1) This regulation applies if the Secretary of State accepts under regulation 101(1) a recommendation[^key-72127ad543267211a7af3ba6c0abf5fe] after replacement of EU trade duty.
+(1) This regulation applies if the Secretary of State accepts under regulation 101(1) a recommendation[^c-72127ad543267211a7af3ba6c0abf5fe] after replacement of EU trade duty.
 
 (2) The Secretary of State must—
 
@@ -29,7 +29,7 @@ summary: ''
 
 (3) A notice made under paragraph (2)(a) must—
 
-- (a) contain the information set out in regulation 101A(2)(a)(i) to (iii)[^key-11bc7e66939bc4ff5c8259f1b6f77973];
+- (a) contain the information set out in regulation 101A(2)(a)(i) to (iii)[^c-11bc7e66939bc4ff5c8259f1b6f77973];
 - (b) specify —
   - (i) the anti-dumping amount or the countervailing amount;
   - (ii) the goods or the description of the goods to which the anti-dumping amount or the countervailing amount applies;
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
+[^c-dc68a8dc60108bd892ea7da55f232855]: Textual amendment: Pt. 12 substituted (23.7.2019) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/1076)](https://www.legislation.gov.uk/uksi/2019/1076), [regs. 1](https://www.legislation.gov.uk/uksi/2019/1076/regulation/1), [10](https://www.legislation.gov.uk/uksi/2019/1076/regulation/10)
 
-[^key-72127ad543267211a7af3ba6c0abf5fe]: Textual amendment: Words in [reg. 101C(1)](https://www.legislation.gov.uk/uksi/2019/450/regulation/101C/1) substituted (1.3.2020) by virtue of [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [30(a)](https://www.legislation.gov.uk/uksi/2020/99/regulation/30/a)
+[^c-72127ad543267211a7af3ba6c0abf5fe]: Textual amendment: Words in [reg. 101C(1)](https://www.legislation.gov.uk/uksi/2019/450/regulation/101C/1) substituted (1.3.2020) by virtue of [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [30(a)](https://www.legislation.gov.uk/uksi/2020/99/regulation/30/a)
 
-[^key-11bc7e66939bc4ff5c8259f1b6f77973]: Textual amendment: Words in [reg. 101C(3)(a)](https://www.legislation.gov.uk/uksi/2019/450/regulation/101C/3/a) substituted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [30(b)](https://www.legislation.gov.uk/uksi/2020/99/regulation/30/b)
+[^c-11bc7e66939bc4ff5c8259f1b6f77973]: Textual amendment: Words in [reg. 101C(3)(a)](https://www.legislation.gov.uk/uksi/2019/450/regulation/101C/3/a) substituted (1.3.2020) by [The Trade Remedies (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/99)](https://www.legislation.gov.uk/uksi/2020/99), [regs. 1](https://www.legislation.gov.uk/uksi/2020/99/regulation/1), [30(b)](https://www.legislation.gov.uk/uksi/2020/99/regulation/30/b)

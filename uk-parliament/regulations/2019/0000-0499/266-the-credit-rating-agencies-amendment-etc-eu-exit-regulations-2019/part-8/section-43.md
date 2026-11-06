@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Acknowledgement of receipt[^key-eac5fcf7f905dcfc50f484a843187ca7]
+## 43. Acknowledgement of receipt[^c-eac5fcf7f905dcfc50f484a843187ca7]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ The FCA must, before the end of a period of 10 working days beginning with the d
 
 ## Annotations
 
-[^key-eac5fcf7f905dcfc50f484a843187ca7]: Commencement: Reg. 43 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)
+[^c-eac5fcf7f905dcfc50f484a843187ca7]: Commencement: Reg. 43 in force at 14.2.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/266/regulation/1/2)

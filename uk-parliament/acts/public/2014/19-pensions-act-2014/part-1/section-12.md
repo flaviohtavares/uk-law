@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12. Reduced rate elections: pension for women with no section 4 pension[^key-50ae573d6e0d2e00f991c969a813c76f]
+## 12. Reduced rate elections: pension for women with no section 4 pension[^c-50ae573d6e0d2e00f991c969a813c76f]
 
 *Extent: E+W+S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-50ae573d6e0d2e00f991c969a813c76f]: Commencement: S. 12 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)
+[^c-50ae573d6e0d2e00f991c969a813c76f]: Commencement: S. 12 in force at 6.4.2016, see [s. 56(1)(4)](https://www.legislation.gov.uk/ukpga/2014/19/section/56/1/4)

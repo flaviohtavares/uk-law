@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 5E. Conflict of interest[^key-513815636cc90e8b5f54443f983c84c1]
+## 5E. Conflict of interest[^c-513815636cc90e8b5f54443f983c84c1]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-513815636cc90e8b5f54443f983c84c1]: Textual amendment: [Regs. 5A-5E](https://www.legislation.gov.uk/ssi/2015/19/regulation/5A) inserted (1.4.2015) by [The Firefighters' Pension Schemes (Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/141)](https://www.legislation.gov.uk/ssi/2015/141), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/141/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2015/141/regulation/4)
+[^c-513815636cc90e8b5f54443f983c84c1]: Textual amendment: [Regs. 5A-5E](https://www.legislation.gov.uk/ssi/2015/19/regulation/5A) inserted (1.4.2015) by [The Firefighters' Pension Schemes (Amendment) (Scotland) Regulations 2015 (S.S.I. 2015/141)](https://www.legislation.gov.uk/ssi/2015/141), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2015/141/regulation/1/2), [4](https://www.legislation.gov.uk/ssi/2015/141/regulation/4)

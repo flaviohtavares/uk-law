@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 80. Payment of fee for information from certain police forces[^key-6a214611e0fec21e493a144c564405e9]
+## 80. Payment of fee for information from certain police forces[^c-6a214611e0fec21e493a144c564405e9]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 113B of the 1997 Act, after subsection (5) insert—
 
 ## Annotations
 
-[^key-6a214611e0fec21e493a144c564405e9]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2007/14/section/80) in force at 11.1.2008 by [S.S.I. 2007/564](https://www.legislation.gov.uk/ssi/2007/564), [art. 2](https://www.legislation.gov.uk/ssi/2007/564/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/564/schedule)
+[^c-6a214611e0fec21e493a144c564405e9]: Commencement: [S. 80](https://www.legislation.gov.uk/asp/2007/14/section/80) in force at 11.1.2008 by [S.S.I. 2007/564](https://www.legislation.gov.uk/ssi/2007/564), [art. 2](https://www.legislation.gov.uk/ssi/2007/564/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2007/564/schedule)

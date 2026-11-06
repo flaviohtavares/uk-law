@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Further provisions[^key-2808dd43cc0e62a8423a974bc027faeb]
+## 20. Further provisions[^c-2808dd43cc0e62a8423a974bc027faeb]
 
 *Extent: E+W+N.I.*
 
@@ -47,4 +47,4 @@ they may be retained until the proceedings are concluded.
 
 ## Annotations
 
-[^key-2808dd43cc0e62a8423a974bc027faeb]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2013/2605/article/20) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)
+[^c-2808dd43cc0e62a8423a974bc027faeb]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2013/2605/article/20) in force at 11.11.2013, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/2605/article/1/1)

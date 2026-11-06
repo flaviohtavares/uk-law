@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 5 — Limitation of entitlement to relief under section 35[^key-042fd2d93086f7f769ff93f1265b3a6d]
+## SCHEDULE 5 — Limitation of entitlement to relief under section 35[^c-042fd2d93086f7f769ff93f1265b3a6d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,26 +24,26 @@ summary: ''
 
 Section 35.
 
-### Part I — Qualifying distributions other than bonus issues[^key-042fd2d93086f7f769ff93f1265b3a6d]
+### Part I — Qualifying distributions other than bonus issues[^c-042fd2d93086f7f769ff93f1265b3a6d]
 
-**1.**[^key-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Part II — Bonus issues[^key-042fd2d93086f7f769ff93f1265b3a6d]
+### Part II — Bonus issues[^c-042fd2d93086f7f769ff93f1265b3a6d]
 
-**6.**[^key-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-042fd2d93086f7f769ff93f1265b3a6d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-042fd2d93086f7f769ff93f1265b3a6d]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/1997/58/schedule/5) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 1(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/1/1)
+[^c-042fd2d93086f7f769ff93f1265b3a6d]: Textual amendment: [Sch. 5](https://www.legislation.gov.uk/ukpga/1997/58/schedule/5) repealed (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 26 para. 1(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/26/paragraph/1/1)

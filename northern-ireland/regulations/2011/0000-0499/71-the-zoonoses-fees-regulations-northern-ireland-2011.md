@@ -50,17 +50,17 @@ The Department of Agriculture and Rural Development makes the following Regulati
 
 In accordance with section 56(1) and (5) of the Finance Act 1973, the Department of Finance and Personnel consents to the making of these Regulations.
 
-## 1. Citation and commencement[^key-08aaba025735411d1ccf81337f2b701a]
+## 1. Citation and commencement[^c-08aaba025735411d1ccf81337f2b701a]
 
 These Regulations may be cited as the Zoonoses (Fees) Regulations (Northern Ireland) 2011 and shall come into operation on 1<sup>st</sup> April 2011.
 
-## 2. Interpretation[^key-1a0ac864d8f082b3f76af1281a2177ec]
+## 2. Interpretation[^c-1a0ac864d8f082b3f76af1281a2177ec]
 
 (1) In these regulations—
 
 - “the Department” means the Department of Agriculture and Rural Development;
 - “the European Regulation” means Regulation [(EC) No. 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council on the control of salmonella and other specified food-borne zoonotic agents as last amended by [Commission Regulation (EC) No. 213/2009](https://www.legislation.gov.uk/european/regulation/2009/0213) and as amended from time to time [^f00006];
-- “official control samples” means samples taken by the Department under—[^key-04fba0760b0532b8277346f784eb275d]
+- “official control samples” means samples taken by the Department under—[^c-04fba0760b0532b8277346f784eb275d]
   - (i) point 2.1.2.2 of the Annex to [Commission Regulation (EU) No 200/2010](https://www.legislation.gov.uk/european/regulation/2010/0200) implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of *Salmonella* serotypes in adult breeding flocks of *Gallus gallus*; or
   - (ii) point 2.1 of the Annex to [Commission Regulation (EU) No 517/2011](https://www.legislation.gov.uk/european/regulation/2011/0517) implementing Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) of the European Parliament and of the Council as regards a Union target for the reduction of the prevalence of certain *Salmonella* serotypes in laying hens of *Gallus gallus* and amending Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160) and [Commission Regulation (EU) No 200/2010](https://www.legislation.gov.uk/european/regulation/2010/0200), as amended from time to time; or
   - (iii) point 1 and 2.1 of the Annex to [Commission Regulation (EU) No 200/2012](https://www.legislation.gov.uk/european/regulation/2012/0200) concerning a Union target for the reduction of *Salmonella enteritidis* and *Salmonella typhimurium* in flocks of broilers, as provided for in Regulation [(EC) No 2160/2003](https://www.legislation.gov.uk/european/regulation/2003/2160), as amended from time to time; or
@@ -69,11 +69,11 @@ These Regulations may be cited as the Zoonoses (Fees) Regulations (Northern Irel
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00011] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Fees[^key-b0e30ccbd1ac2a855e3893e53a0d9edf]
+## 3. Fees[^c-b0e30ccbd1ac2a855e3893e53a0d9edf]
 
 The fees specified in column (2) of the Schedule shall be paid to the Department by the person specified in column (3) in respect of the activities specified in column (1) and shall be paid within 14 days of demand.
 
-## 4. Revocation[^key-7a84843c06584c678571604f797c2694]
+## 4. Revocation[^c-7a84843c06584c678571604f797c2694]
 
 (1) The Zoonoses and Animal By-Products (Fees) Regulations (Northern Ireland) 2008 are hereby revoked [^f00012].
 
@@ -93,7 +93,7 @@ Jack Layberry
 
 A senior officer of the Department of Finance and Personnel
 
-## SCHEDULE — Fees payable to the Department[^key-447579254915e5e8dc70ba5cf4cd4257]
+## SCHEDULE — Fees payable to the Department[^c-447579254915e5e8dc70ba5cf4cd4257]
 
 Regulation 3
 
@@ -137,19 +137,19 @@ A regulatory impact assessment, which includes compliance cost assessment of the
 
 [^f00005]: Footnote: [1973 c. 51](https://www.legislation.gov.uk/ukpga/1973/51)
 
-[^key-08aaba025735411d1ccf81337f2b701a]: Commencement: Reg. 1 in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/71/regulation/1)
+[^c-08aaba025735411d1ccf81337f2b701a]: Commencement: Reg. 1 in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/71/regulation/1)
 
-[^key-1a0ac864d8f082b3f76af1281a2177ec]: Commencement: Reg. 2 in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/71/regulation/1)
+[^c-1a0ac864d8f082b3f76af1281a2177ec]: Commencement: Reg. 2 in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/71/regulation/1)
 
 [^f00006]: Footnote: O.J. No. L 325, 12.12.2003 p1, as last amended by [Commission Regulation (EC) No. 1791/2006](https://www.legislation.gov.uk/european/regulation/2006/1791)
 
-[^key-04fba0760b0532b8277346f784eb275d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/71/regulation/2/1) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/nisr/2019/82/schedule/4/paragraph/13)
+[^c-04fba0760b0532b8277346f784eb275d]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2011/71/regulation/2/1) substituted (11.4.2019) by [The Animal Health and Welfare (Amendment) Regulations (Northern Ireland) 2019 (S.R. 2019/82)](https://www.legislation.gov.uk/nisr/2019/82), [reg. 1](https://www.legislation.gov.uk/nisr/2019/82/regulation/1), [Sch. 4 para. 13](https://www.legislation.gov.uk/nisr/2019/82/schedule/4/paragraph/13)
 
 [^f00011]: Footnote: [1954 c.33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-b0e30ccbd1ac2a855e3893e53a0d9edf]: Commencement: Reg. 3 in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/71/regulation/1)
+[^c-b0e30ccbd1ac2a855e3893e53a0d9edf]: Commencement: Reg. 3 in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/71/regulation/1)
 
-[^key-7a84843c06584c678571604f797c2694]: Commencement: Reg. 4 in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/71/regulation/1)
+[^c-7a84843c06584c678571604f797c2694]: Commencement: Reg. 4 in operation at 1.4.2011, see [reg. 1](https://www.legislation.gov.uk/nisr/2011/71/regulation/1)
 
 [^f00012]: Footnote: [S.R. 2008 No.359](https://www.legislation.gov.uk/nisr/2008/359) as amended
 
@@ -157,4 +157,4 @@ A regulatory impact assessment, which includes compliance cost assessment of the
 
 [^f00014]: Footnote: [S.R. 2010 No.253](https://www.legislation.gov.uk/nisr/2010/253)
 
-[^key-447579254915e5e8dc70ba5cf4cd4257]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2011/71/schedule) substituted (1.4.2016) by [The Zoonoses (Fees) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/75)](https://www.legislation.gov.uk/nisr/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/75/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/75/regulation/2/2)
+[^c-447579254915e5e8dc70ba5cf4cd4257]: Textual amendment: [Sch.](https://www.legislation.gov.uk/nisr/2011/71/schedule) substituted (1.4.2016) by [The Zoonoses (Fees) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/75)](https://www.legislation.gov.uk/nisr/2016/75), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/75/regulation/1/1), [2(2)](https://www.legislation.gov.uk/nisr/2016/75/regulation/2/2)

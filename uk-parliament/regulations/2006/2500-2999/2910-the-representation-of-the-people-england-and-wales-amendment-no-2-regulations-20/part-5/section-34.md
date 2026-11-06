@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 34. Requirement to provide fresh signatures at five yearly intervals[^key-c01e06b143d3debff77f801a0173a841]
+## 34. Requirement to provide fresh signatures at five yearly intervals[^c-c01e06b143d3debff77f801a0173a841]
 
 *Extent: E+W*
 
@@ -61,6 +61,6 @@ After regulation 60[^f00053], insert—
 
 ## Annotations
 
-[^key-c01e06b143d3debff77f801a0173a841]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2006/2910/regulation/34) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
+[^c-c01e06b143d3debff77f801a0173a841]: Commencement: [Reg. 34](https://www.legislation.gov.uk/uksi/2006/2910/regulation/34) in force at 1.1.2007, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/2910/regulation/1/1)
 
 [^f00053]: Footnote: Regulation 60(2) was amended by [S.I. 2006/752](https://www.legislation.gov.uk/uksi/2006/752).

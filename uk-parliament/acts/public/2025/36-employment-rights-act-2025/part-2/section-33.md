@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 33. Equality action plans[^key-d3fc80117d41a20de91de8f9f88fa79b][^key-8309c9beef6a1bca4cafd099f5357629]
+## 33. Equality action plans[^c-d3fc80117d41a20de91de8f9f88fa79b][^c-8309c9beef6a1bca4cafd099f5357629]
 
 *Extent: E+W+S*
 
@@ -76,6 +76,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d3fc80117d41a20de91de8f9f88fa79b]: Commencement: S. 33 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
+[^c-d3fc80117d41a20de91de8f9f88fa79b]: Commencement: S. 33 not in force at Royal Assent, see [s. 159(3)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/3)
 
-[^key-8309c9beef6a1bca4cafd099f5357629]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2025/36/section/33) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(7)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/7)
+[^c-8309c9beef6a1bca4cafd099f5357629]: Commencement: [S. 33](https://www.legislation.gov.uk/ukpga/2025/36/section/33) in force at 6.4.2026 by [S.I. 2026/323](https://www.legislation.gov.uk/uksi/2026/323), [reg. 3(1)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/1)[(7)](https://www.legislation.gov.uk/uksi/2026/323/regulation/3/7)

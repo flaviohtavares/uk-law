@@ -49,7 +49,7 @@ In accordance with section 48(4A)[^f00003] of that Act, the Welsh Ministers have
 
 There has been consultation as required by Article 9 of Regulation [(EC) No 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety[^f00004].
 
-## 1. Title, application and coming into force[^key-d7cb2475f4698085a6e391611268bd7c]
+## 1. Title, application and coming into force[^c-d7cb2475f4698085a6e391611268bd7c]
 
 (1) The title of these Regulations is the Charges for Residues Surveillance (Amendment) (Wales) Regulations 2024.
 
@@ -57,7 +57,7 @@ There has been consultation as required by Article 9 of Regulation [(EC) No 178/
 
 (3) These Regulations come into force on 1 October 2024.
 
-## 2. Amendment to the Charges for Residues Surveillance Regulations 2006[^key-15a0fe73b16825f4e8b1ce995b73c0aa]
+## 2. Amendment to the Charges for Residues Surveillance Regulations 2006[^c-15a0fe73b16825f4e8b1ce995b73c0aa]
 
 (1) The Charges for Residues Surveillance Regulations 2006[^f00005] are amended as follows.
 
@@ -170,9 +170,9 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00004]: Footnote: EUR 2002/178, to which there are amendments not relevant to these Regulations.
 
-[^key-d7cb2475f4698085a6e391611268bd7c]: Commencement: Reg. 1 in force at 1.10.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/967/regulation/1/3)
+[^c-d7cb2475f4698085a6e391611268bd7c]: Commencement: Reg. 1 in force at 1.10.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/967/regulation/1/3)
 
-[^key-15a0fe73b16825f4e8b1ce995b73c0aa]: Commencement: Reg. 2 in force at 1.10.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/967/regulation/1/3)
+[^c-15a0fe73b16825f4e8b1ce995b73c0aa]: Commencement: Reg. 2 in force at 1.10.2024, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2024/967/regulation/1/3)
 
 [^f00005]: Footnote: [S.I. 2006/2285](https://www.legislation.gov.uk/uksi/2006/2285), amended by [S.I. 2007/2439](https://www.legislation.gov.uk/uksi/2007/2439), [2008/2999](https://www.legislation.gov.uk/uksi/2008/2999), [2009/2779](https://www.legislation.gov.uk/uksi/2009/2779) and [2011/2945](https://www.legislation.gov.uk/uksi/2011/2945).
 

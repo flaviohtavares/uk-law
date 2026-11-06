@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Regulations[^key-dd725cf4aa097ff6543bd0b4332be86f]
+## 156. Regulations[^c-dd725cf4aa097ff6543bd0b4332be86f]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd725cf4aa097ff6543bd0b4332be86f]: Commencement: S. 156 in force at Royal Assent, see [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/d)
+[^c-dd725cf4aa097ff6543bd0b4332be86f]: Commencement: S. 156 in force at Royal Assent, see [s. 159(1)(d)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/1/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Penalties: guidance etc.[^key-5a5fc186ced0e506bb7e123dcc940525]
+## 44. Penalties: guidance etc.[^c-5a5fc186ced0e506bb7e123dcc940525]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5a5fc186ced0e506bb7e123dcc940525]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2013/24/section/44) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-5a5fc186ced0e506bb7e123dcc940525]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2013/24/section/44) in force at 1.4.2014 by [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/b) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

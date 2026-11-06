@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 2 — Commission for Rural Communities[^key-cadeb3847306982388e8ddb395c1745b]
+## SCHEDULE 2 — Commission for Rural Communities[^c-cadeb3847306982388e8ddb395c1745b]
 
 *Extent: E+W*
 
@@ -114,4 +114,4 @@ Section 17
 
 ## Annotations
 
-[^key-cadeb3847306982388e8ddb395c1745b]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/16/schedule/2) repealed (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)
+[^c-cadeb3847306982388e8ddb395c1745b]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/ukpga/2006/16/schedule/2) repealed (1.4.2013) by [The Public Bodies (Abolition of the Commission for Rural Communities) Order 2012 (S.I. 2012/2654)](https://www.legislation.gov.uk/uksi/2012/2654), [art. 1(4)](https://www.legislation.gov.uk/uksi/2012/2654/article/1/4), [Sch.](https://www.legislation.gov.uk/uksi/2012/2654/schedule)

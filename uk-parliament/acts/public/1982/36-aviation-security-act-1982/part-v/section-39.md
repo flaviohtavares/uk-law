@@ -24,7 +24,7 @@ summary: ''
 
 (2)[^c794804] Subsection (4) of section 26 of the Merchant Shipping and Maritime Security Act 1997 (power to extend provisions about piracy to Isle of Man, Channel Islands and colonies) shall apply to section 5 of this Act as it applies to the provisions mentioned in that subsection.
 
-(3)[^c794805][^key-e327492b18b235156b616580a836994f][^key-38c47b5c89a23f5921a991a957e0a104] Her Majesty may by Order in Council make provision for extending any of the provisions of Part 2A or this Act (other than the provisions to which subsection (1) or (2) above applies and the provisions of Part III) with such exceptions, adaptations or modifications as may be specified in the Order, to any of the Channel Islands, the Isle of Man, any colony, . . . [^c794806]
+(3)[^c794805][^c-e327492b18b235156b616580a836994f][^c-38c47b5c89a23f5921a991a957e0a104] Her Majesty may by Order in Council make provision for extending any of the provisions of Part 2A or this Act (other than the provisions to which subsection (1) or (2) above applies and the provisions of Part III) with such exceptions, adaptations or modifications as may be specified in the Order, to any of the Channel Islands, the Isle of Man, any colony, . . . [^c794806]
 
 (4) Except in pursuance of subsection (1), [^c794807] . . .or (3) above, the provisions of this Act and, in particular, the repeal of the provisions which those subsections re-enact do not affect the law of any country or territory outside the United Kingdom.
 
@@ -36,9 +36,9 @@ summary: ''
 
 [^c794805]: Modification: S. 39(3) : applied (14.12.2001) by [2001 (c. 24)](https://www.legislation.gov.uk/ukpga/2001/24) , [s. 88(2)](https://www.legislation.gov.uk/ukpga/2001/24/section/88/2)
 
-[^key-e327492b18b235156b616580a836994f]: Textual amendment: Words in s. 39(3) inserted (29.1.2010 for E.W.S., 1.4.2010 for N.I.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/13); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s); S.I. 2010/507, art. 5(u)
+[^c-e327492b18b235156b616580a836994f]: Textual amendment: Words in s. 39(3) inserted (29.1.2010 for E.W.S., 1.4.2010 for N.I.) by [Policing and Crime Act 2009 (c. 26)](https://www.legislation.gov.uk/ukpga/2009/26), [s. 116(1)](https://www.legislation.gov.uk/ukpga/2009/26/section/116/1), [Sch. 6 para. 13](https://www.legislation.gov.uk/ukpga/2009/26/schedule/6/paragraph/13); [S.I. 2010/125](https://www.legislation.gov.uk/uksi/2010/125), [art. 2(s)](https://www.legislation.gov.uk/uksi/2010/125/article/2/s); S.I. 2010/507, art. 5(u)
 
-[^key-38c47b5c89a23f5921a991a957e0a104]: Modification: S. 39(3) modified (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 51(6)](https://www.legislation.gov.uk/ukpga/2015/6/section/51/6), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
+[^c-38c47b5c89a23f5921a991a957e0a104]: Modification: S. 39(3) modified (12.2.2015) by [Counter-Terrorism and Security Act 2015 (c. 6)](https://www.legislation.gov.uk/ukpga/2015/6), [ss. 51(6)](https://www.legislation.gov.uk/ukpga/2015/6/section/51/6), [52(5)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/5)
 
 [^c794806]: Textual amendment: Words in s. 39(3) repealed (26.7.1990) by [Aviation and Maritime Security Act 1990 (c. 31)](https://www.legislation.gov.uk/ukpga/1990/31) , [s. 53(2)](https://www.legislation.gov.uk/ukpga/1990/31/section/53/2) , [Sch. 4](https://www.legislation.gov.uk/ukpga/1990/31/schedule/4)
 

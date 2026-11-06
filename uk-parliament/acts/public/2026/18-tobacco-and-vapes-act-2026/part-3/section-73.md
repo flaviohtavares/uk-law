@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 73. Purchase of tobacco on behalf of others[^key-68b1ca7844f3fa221d00c1e42c0ec6a9]
+## 73. Purchase of tobacco on behalf of others[^c-68b1ca7844f3fa221d00c1e42c0ec6a9]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ For Article 4A of the Health and Personal Social Services (Northern Ireland) Ord
 
 ## Annotations
 
-[^key-68b1ca7844f3fa221d00c1e42c0ec6a9]: Commencement: S. 73 in force at 1.1.2027, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)
+[^c-68b1ca7844f3fa221d00c1e42c0ec6a9]: Commencement: S. 73 in force at 1.1.2027, see [s. 175(3)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/3)

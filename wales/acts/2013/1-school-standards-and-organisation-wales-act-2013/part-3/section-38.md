@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 38. School Organisation Code[^key-30c2aeb6e05c9cb8b93ccc42bf141161][^key-320fbb1da2f5670e532fe0ee7489b5a7]
+## 38. School Organisation Code[^c-30c2aeb6e05c9cb8b93ccc42bf141161][^c-320fbb1da2f5670e532fe0ee7489b5a7]
 
 *Extent: E+W*
 
@@ -27,7 +27,7 @@ summary: ''
 - (a) the Welsh Ministers;
 - (b) local authorities;
 - (c) governing bodies of maintained schools;
-- (ca)[^key-15004d0114b54ccfadece2218312cbe2] the Commission for Tertiary Education and Research;
+- (ca)[^c-15004d0114b54ccfadece2218312cbe2] the Commission for Tertiary Education and Research;
 - (d) other persons in connection with proposals made (or to be made) by them under this Part.
 
 (3) The Code may impose requirements, and may include guidelines setting out aims, objectives and other matters.
@@ -41,8 +41,8 @@ summary: ''
 
 - (a) the Welsh Ministers,
 - (b) a local authority,
-- (c) the governing body of a maintained school, [^key-a93728923c48759d93f276c21a80385d]...
-- (ca)[^key-dc3761cab47a0a04037396fe0a65e554] the Commission for Tertiary Education and Research, or
+- (c) the governing body of a maintained school, [^c-a93728923c48759d93f276c21a80385d]...
+- (ca)[^c-dc3761cab47a0a04037396fe0a65e554] the Commission for Tertiary Education and Research, or
 - (d) other persons in connection with proposals made (or to be made) by them under this Part.
 
 (6) The Welsh Ministers must publish the Code for the time being in force on their website.
@@ -53,12 +53,12 @@ summary: ''
 
 ## Annotations
 
-[^key-30c2aeb6e05c9cb8b93ccc42bf141161]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2013/1/section/38) in force at 26.4.2013 for specified purposes by [S.I. 2013/1000](https://www.legislation.gov.uk/wsi/2013/1000), [art. 2(a)](https://www.legislation.gov.uk/wsi/2013/1000/article/2/a)
+[^c-30c2aeb6e05c9cb8b93ccc42bf141161]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2013/1/section/38) in force at 26.4.2013 for specified purposes by [S.I. 2013/1000](https://www.legislation.gov.uk/wsi/2013/1000), [art. 2(a)](https://www.legislation.gov.uk/wsi/2013/1000/article/2/a)
 
-[^key-320fbb1da2f5670e532fe0ee7489b5a7]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2013/1/section/38) in force at 19.7.2013 in so far as not already in force by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 2](https://www.legislation.gov.uk/wsi/2013/1800/article/2)
+[^c-320fbb1da2f5670e532fe0ee7489b5a7]: Commencement: [S. 38](https://www.legislation.gov.uk/anaw/2013/1/section/38) in force at 19.7.2013 in so far as not already in force by [S.I. 2013/1800](https://www.legislation.gov.uk/wsi/2013/1800), [art. 2](https://www.legislation.gov.uk/wsi/2013/1800/article/2)
 
-[^key-15004d0114b54ccfadece2218312cbe2]: Textual amendment: [S. 38(2)(ca)](https://www.legislation.gov.uk/anaw/2013/1/section/38/2/ca) inserted (5.4.2025) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(3)(a)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/3/a) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)
+[^c-15004d0114b54ccfadece2218312cbe2]: Textual amendment: [S. 38(2)(ca)](https://www.legislation.gov.uk/anaw/2013/1/section/38/2/ca) inserted (5.4.2025) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(3)(a)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/3/a) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)
 
-[^key-a93728923c48759d93f276c21a80385d]: Textual amendment: Word in [s. 38(5)(c)](https://www.legislation.gov.uk/anaw/2013/1/section/38/5/c) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(3)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/3/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)
+[^c-a93728923c48759d93f276c21a80385d]: Textual amendment: Word in [s. 38(5)(c)](https://www.legislation.gov.uk/anaw/2013/1/section/38/5/c) omitted (5.4.2025) by virtue of [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(3)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/3/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)
 
-[^key-dc3761cab47a0a04037396fe0a65e554]: Textual amendment: [S. 38(5)(ca)](https://www.legislation.gov.uk/anaw/2013/1/section/38/5/ca) inserted (5.4.2025) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(3)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/3/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)
+[^c-dc3761cab47a0a04037396fe0a65e554]: Textual amendment: [S. 38(5)(ca)](https://www.legislation.gov.uk/anaw/2013/1/section/38/5/ca) inserted (5.4.2025) by [Tertiary Education and Research (Wales) Act 2022 (asc 1)](https://www.legislation.gov.uk/asc/2022/1), [s. 148(2)](https://www.legislation.gov.uk/asc/2022/1/section/148/2), [Sch. 4 para. 29(3)(b)](https://www.legislation.gov.uk/asc/2022/1/schedule/4/paragraph/29/3/b) (with [s. 19](https://www.legislation.gov.uk/asc/2022/1/section/19)); [S.I. 2025/432](https://www.legislation.gov.uk/wsi/2025/432), [art. 2(ll)(iii)](https://www.legislation.gov.uk/wsi/2025/432/article/2/ll/iii)

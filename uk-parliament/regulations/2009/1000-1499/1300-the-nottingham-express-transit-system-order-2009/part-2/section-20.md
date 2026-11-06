@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 20. Temporary closure of, and works in, waterways[^key-46453bcae612a272bc75b32c9c7f08da]
+## 20. Temporary closure of, and works in, waterways[^c-46453bcae612a272bc75b32c9c7f08da]
 
 *Extent: E+W*
 
@@ -50,4 +50,4 @@ shall be entitled to be paid compensation for such loss or damage by the promote
 
 ## Annotations
 
-[^key-46453bcae612a272bc75b32c9c7f08da]: Commencement: Art. 20 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)
+[^c-46453bcae612a272bc75b32c9c7f08da]: Commencement: Art. 20 in force at 9.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1300/article/1)

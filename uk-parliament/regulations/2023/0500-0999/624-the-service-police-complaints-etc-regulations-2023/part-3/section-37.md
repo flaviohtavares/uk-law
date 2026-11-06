@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Timeliness of investigations[^key-da2047a4044af6ece97e9948d089da9b]
+## 37. Timeliness of investigations[^c-da2047a4044af6ece97e9948d089da9b]
 
 *Extent: E+W+S+N.I.*
 
@@ -61,4 +61,4 @@ except in a case where it appears to the Commissioner that to do so might prejud
 
 ## Annotations
 
-[^key-da2047a4044af6ece97e9948d089da9b]: Commencement: Reg. 37 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)
+[^c-da2047a4044af6ece97e9948d089da9b]: Commencement: Reg. 37 in force at 19.6.2023, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/624/regulation/1/1)

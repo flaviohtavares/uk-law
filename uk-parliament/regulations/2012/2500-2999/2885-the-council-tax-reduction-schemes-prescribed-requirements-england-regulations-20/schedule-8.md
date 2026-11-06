@@ -24,9 +24,9 @@ Regulation 15(1)
 
 ### PART 1 — Extended reductions: persons who are not pensioners
 
-**1.**[^key-ecb0046e461e9b69117bf2704650b6c9] Paragraph 2 applies only in relation to persons who are not pensioners.
+**1.**[^c-ecb0046e461e9b69117bf2704650b6c9] Paragraph 2 applies only in relation to persons who are not pensioners.
 
-#### 2. Extended reductions: movers into an authority’s area[^key-d969650d986d62d36129f8ae66713556]
+#### 2. Extended reductions: movers into an authority’s area[^c-d969650d986d62d36129f8ae66713556]
 
 Where—
 
@@ -39,9 +39,9 @@ the current authority must reduce any reduction to which the applicant is entitl
 
 ### PART 2 — Further provision about applications and duty to notify a change of circumstances
 
-**3.**[^key-ab00566e84bd1b01402bd54e986d1a63] Except for paragraph 6 (which applies to persons who are pensioners only), paragraphs 4 to 9 apply to persons who are pensioners and persons who are not pensioners.
+**3.**[^c-ab00566e84bd1b01402bd54e986d1a63] Except for paragraph 6 (which applies to persons who are pensioners only), paragraphs 4 to 9 apply to persons who are pensioners and persons who are not pensioners.
 
-#### 4. Making an application[^key-8877b6219116abde706f676b9135fd79]
+#### 4. Making an application[^c-8877b6219116abde706f676b9135fd79]
 
 (1) In the case of a couple or members of a polygamous marriage an application is to be made by whichever one of them they agree should so apply or, in default of agreement, by such one of them as the authority determines.
 
@@ -71,7 +71,7 @@ that deputy, judicial factor, guardian or attorney, as the case may be, may make
 - (b) explain the possible consequences (including prosecution) of failing to comply with that duty; and
 - (c) set out the circumstances a change in which might affect entitlement to the reduction or its amount.
 
-#### 5. Date on which an application is made[^key-e8507e101ba6b76976c327d2a3c59aae]
+#### 5. Date on which an application is made[^c-e8507e101ba6b76976c327d2a3c59aae]
 
 (1) Subject to sub-paragraph (7), the date on which an application is made is—
 
@@ -144,7 +144,7 @@ the authority may treat the application as made on a date in the reduction week 
 
 (8) In this paragraph “appropriate DWP office” means an office of the Department for Work and Pensions dealing with state pension credit or an office which is normally open to the public for the receipt of claims of income support, a job seekers allowance or an employment and support allowance.
 
-#### 6. Back-dating of applications[^key-1d7d1d25bedcda823248073ad234fd20]
+#### 6. Back-dating of applications[^c-1d7d1d25bedcda823248073ad234fd20]
 
 (1) This paragraph applies only to persons who are pensioners.
 
@@ -152,7 +152,7 @@ the authority may treat the application as made on a date in the reduction week 
 
 (3) In any case where paragraph 5(1)(a) (date on which application made: state pension credit comprising guarantee credit) applies, sub-paragraph (2) does not entitle a person to apply for a reduction under an authority’s scheme in respect of any day earlier than three months before the date on which the claim for state pension credit is made (or treated as made by virtue of any provision of the Social Security (Claims and Payments) Regulations 1987).
 
-#### 7. Information and evidence[^key-570cfecb77f75699c0e4cf0ef98a02be]
+#### 7. Information and evidence[^c-570cfecb77f75699c0e4cf0ef98a02be]
 
 (1) Subject to sub-paragraph (3), a person who makes an application for a reduction under an authority’s scheme must satisfy sub-paragraph (2) in relation both to himself and to any other person in respect of whom he is making the application.
 
@@ -184,8 +184,8 @@ the authority may treat the application as made on a date in the reduction week 
 
 (7) This sub-paragraph applies to any of the following payments—
 
-- (a) a payment which is made under or by the Trusts, the Fund, the Eileen Trust, MFET Limited, the Skipton Fund, the Caxton Foundation , the London Emergencies Trust, the We Love Manchester Emergency Fund[^key-e524e98fa5b353ad1500e7b7e3542158] ,[^key-097791d91caabbf90a58038cc5731217] [^key-5eb35e96f78cb8285a1d77bfec408384]... the Windrush Compensation Scheme , the National Emergencies Trust[^key-ebeae39871bb4e83658427b3e8df2c1e] or the London Bombings Relief Charitable Fund;
-- (aa)[^key-36e7fb99e1713395c1bfbe721dc03b49] a Grenfell Tower support payment;
+- (a) a payment which is made under or by the Trusts, the Fund, the Eileen Trust, MFET Limited, the Skipton Fund, the Caxton Foundation , the London Emergencies Trust, the We Love Manchester Emergency Fund[^c-e524e98fa5b353ad1500e7b7e3542158] ,[^c-097791d91caabbf90a58038cc5731217] [^c-5eb35e96f78cb8285a1d77bfec408384]... the Windrush Compensation Scheme , the National Emergencies Trust[^c-ebeae39871bb4e83658427b3e8df2c1e] or the London Bombings Relief Charitable Fund;
+- (aa)[^c-36e7fb99e1713395c1bfbe721dc03b49] a Grenfell Tower support payment;
 - (b) a payment which is disregarded under paragraph 16 of Schedule 6 (payments made under certain trusts and certain other payments), other than a payment under the Independent Living Fund (2006);
 - (c) a payment which is disregarded under paragraph 8(10) of Schedule 1.
 
@@ -194,7 +194,7 @@ the authority may treat the application as made on a date in the reduction week 
 - (a) the name and address of the pension fund holder[^f00234];
 - (b) such other information including any reference or policy number as is needed to enable the personal pension scheme to be identified.
 
-#### 8. Amendment and withdrawal of application[^key-a4d7fb38ce602aabc4984de90e342405]
+#### 8. Amendment and withdrawal of application[^c-a4d7fb38ce602aabc4984de90e342405]
 
 (1) A person who has made an application may amend it at any time before a decision has been made on it by a notice in writing delivered or sent to the designated office.
 
@@ -210,9 +210,9 @@ the authority may treat the application as made on a date in the reduction week 
 
 (7) Where a person, by telephone, amends or withdraws an application the person must (if required to do so by the authority) confirm the amendment or withdrawal by a notice in writing delivered or sent to the designated office.
 
-#### 9. Duty to notify changes of circumstances[^key-08834ae7cc2a58b22f484014dfbaeec5]
+#### 9. Duty to notify changes of circumstances[^c-08834ae7cc2a58b22f484014dfbaeec5]
 
-(1) Subject to sub-paragraphs (3) and (9)[^key-928551ba51f2b355056f96889e617235], an applicant (or any person acting on his behalf) must comply with sub-paragraph (2) if there is a relevant change of circumstances at any time—
+(1) Subject to sub-paragraphs (3) and (9)[^c-928551ba51f2b355056f96889e617235], an applicant (or any person acting on his behalf) must comply with sub-paragraph (2) if there is a relevant change of circumstances at any time—
 
 - (a) between the making of an application and a decision being made on it, or
 - (b) after the decision is made (where the decision is that the applicant is entitled to a reduction under an authority’s scheme) including at any time while the applicant is in receipt of such a reduction.
@@ -242,7 +242,7 @@ within a period of 21 days beginning with the day on which the change occurs, or
 (7) A person who has been awarded a reduction under an authority’s scheme who is also on state pension credit must report—
 
 - (a) changes affecting the residence or income of any non-dependant normally residing with the applicant or with whom the applicant normally resides;
-- (b) any absence from the dwelling which exceeds or is likely to exceed 13 weeks or where the absence is from Great Britain, which exceeds or is likely to exceed 4 weeks[^key-35e15b4ec95bceb12292ba1ac4336a62].
+- (b) any absence from the dwelling which exceeds or is likely to exceed 13 weeks or where the absence is from Great Britain, which exceeds or is likely to exceed 4 weeks[^c-35e15b4ec95bceb12292ba1ac4336a62].
 
 (8) In addition to the changes required to be reported under sub-paragraph (7), a person whose state pension credit comprises only a savings credit must also report—
 
@@ -258,13 +258,13 @@ within a period of 21 days beginning with the day on which the change occurs, or
 
 ### PART 3 — Decisions by an authority
 
-**10.**[^key-b99aa674ade6425e236c003ca853a01e] This Part applies to persons who are pensioners and persons who are not pensioners.
+**10.**[^c-b99aa674ade6425e236c003ca853a01e] This Part applies to persons who are pensioners and persons who are not pensioners.
 
-#### 11. Decision by authority[^key-12e2d2f035f59d25032481d26d944798]
+#### 11. Decision by authority[^c-12e2d2f035f59d25032481d26d944798]
 
 An authority must make a decision on an application under its scheme within 14 days of paragraphs 4 and 7 and Part 1 of Schedule 7 being satisfied, or as soon as reasonably practicable thereafter.
 
-#### 12. Notification of decision[^key-594b76e6597f897c133b96fba1f6e6ad]
+#### 12. Notification of decision[^c-594b76e6597f897c133b96fba1f6e6ad]
 
 (1) An authority must notify in writing any person affected by a decision made by it under its scheme—
 
@@ -298,9 +298,9 @@ An authority must make a decision on an application under its scheme within 14 d
 
 ### PART 4 — Circumstances in which a payment may be made
 
-**13.**[^key-ffb08aace9d0d2cd7060b50235168b5c] This part applies to persons who are pensioners and persons who are not pensioners.
+**13.**[^c-ffb08aace9d0d2cd7060b50235168b5c] This part applies to persons who are pensioners and persons who are not pensioners.
 
-#### 14. Payment where there is joint and several liability[^key-dfb37caeb84286b355263fc20a7da300]
+#### 14. Payment where there is joint and several liability[^c-dfb37caeb84286b355263fc20a7da300]
 
 (1) Where—
 
@@ -316,47 +316,47 @@ it may make a payment to him of the amount of the reduction to which he is entit
 
 ## Annotations
 
-[^key-ecb0046e461e9b69117bf2704650b6c9]: Commencement: Sch. 8 para. 1 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-ecb0046e461e9b69117bf2704650b6c9]: Commencement: Sch. 8 para. 1 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-d969650d986d62d36129f8ae66713556]: Commencement: Sch. 8 para. 2 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-d969650d986d62d36129f8ae66713556]: Commencement: Sch. 8 para. 2 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-ab00566e84bd1b01402bd54e986d1a63]: Commencement: Sch. 8 para. 3 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-ab00566e84bd1b01402bd54e986d1a63]: Commencement: Sch. 8 para. 3 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-8877b6219116abde706f676b9135fd79]: Commencement: Sch. 8 para. 4 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-8877b6219116abde706f676b9135fd79]: Commencement: Sch. 8 para. 4 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-e8507e101ba6b76976c327d2a3c59aae]: Commencement: Sch. 8 para. 5 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-e8507e101ba6b76976c327d2a3c59aae]: Commencement: Sch. 8 para. 5 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-1d7d1d25bedcda823248073ad234fd20]: Commencement: Sch. 8 para. 6 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-1d7d1d25bedcda823248073ad234fd20]: Commencement: Sch. 8 para. 6 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-570cfecb77f75699c0e4cf0ef98a02be]: Commencement: Sch. 8 para. 7 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-570cfecb77f75699c0e4cf0ef98a02be]: Commencement: Sch. 8 para. 7 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
 [^f00233]: Footnote: As to which, see paragraph 12 of Schedule 1.
 
-[^key-e524e98fa5b353ad1500e7b7e3542158]: Textual amendment: Words in [Sch. 8 para. 7(7)(a)](https://www.legislation.gov.uk/uksi/2012/2885/schedule/8/paragraph/7/7/a) inserted (12.1.2018 with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Amendment) (England) Regulations 2017 (S.I. 2017/1305)](https://www.legislation.gov.uk/uksi/2017/1305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1305/regulation/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2017/1305/regulation/16/a)
+[^c-e524e98fa5b353ad1500e7b7e3542158]: Textual amendment: Words in [Sch. 8 para. 7(7)(a)](https://www.legislation.gov.uk/uksi/2012/2885/schedule/8/paragraph/7/7/a) inserted (12.1.2018 with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Amendment) (England) Regulations 2017 (S.I. 2017/1305)](https://www.legislation.gov.uk/uksi/2017/1305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1305/regulation/1/1), [16(a)](https://www.legislation.gov.uk/uksi/2017/1305/regulation/16/a)
 
-[^key-097791d91caabbf90a58038cc5731217]: Textual amendment: Words in [Sch. 8 para. 7(7)(a)](https://www.legislation.gov.uk/uksi/2012/2885/schedule/8/paragraph/7/7/a) inserted (11.2.2020 with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2020 (S.I. 2020/23)](https://www.legislation.gov.uk/uksi/2020/23), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/23/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2020/23/regulation/12/a)
+[^c-097791d91caabbf90a58038cc5731217]: Textual amendment: Words in [Sch. 8 para. 7(7)(a)](https://www.legislation.gov.uk/uksi/2012/2885/schedule/8/paragraph/7/7/a) inserted (11.2.2020 with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2020 (S.I. 2020/23)](https://www.legislation.gov.uk/uksi/2020/23), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/23/regulation/1/1), [12(a)](https://www.legislation.gov.uk/uksi/2020/23/regulation/12/a)
 
-[^key-5eb35e96f78cb8285a1d77bfec408384]: Textual amendment: Words in [Sch. 8 para. 7(7)(a)](https://www.legislation.gov.uk/uksi/2012/2885/schedule/8/paragraph/7/7/a) omitted (11.2.2021 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2021 (S.I. 2021/29)](https://www.legislation.gov.uk/uksi/2021/29), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/29/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2021/29/regulation/10/a)
+[^c-5eb35e96f78cb8285a1d77bfec408384]: Textual amendment: Words in [Sch. 8 para. 7(7)(a)](https://www.legislation.gov.uk/uksi/2012/2885/schedule/8/paragraph/7/7/a) omitted (11.2.2021 with application in accordance with reg. 1(2) of the amending S.I.) by virtue of [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2021 (S.I. 2021/29)](https://www.legislation.gov.uk/uksi/2021/29), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/29/regulation/1/1), [10(a)](https://www.legislation.gov.uk/uksi/2021/29/regulation/10/a)
 
-[^key-ebeae39871bb4e83658427b3e8df2c1e]: Textual amendment: Words in [Sch. 8 para. 7(7)(a)](https://www.legislation.gov.uk/uksi/2012/2885/schedule/8/paragraph/7/7/a) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2021 (S.I. 2021/29)](https://www.legislation.gov.uk/uksi/2021/29), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/29/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2021/29/regulation/10/b)
+[^c-ebeae39871bb4e83658427b3e8df2c1e]: Textual amendment: Words in [Sch. 8 para. 7(7)(a)](https://www.legislation.gov.uk/uksi/2012/2885/schedule/8/paragraph/7/7/a) inserted (with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2021 (S.I. 2021/29)](https://www.legislation.gov.uk/uksi/2021/29), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/29/regulation/1/1), [10(b)](https://www.legislation.gov.uk/uksi/2021/29/regulation/10/b)
 
-[^key-36e7fb99e1713395c1bfbe721dc03b49]: Textual amendment: [Sch. 8 para. 7(7)(aa)](https://www.legislation.gov.uk/uksi/2012/2885/schedule/8/paragraph/7/7/aa) inserted (11.2.2020 with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2020 (S.I. 2020/23)](https://www.legislation.gov.uk/uksi/2020/23), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/23/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2020/23/regulation/12/b)
+[^c-36e7fb99e1713395c1bfbe721dc03b49]: Textual amendment: [Sch. 8 para. 7(7)(aa)](https://www.legislation.gov.uk/uksi/2012/2885/schedule/8/paragraph/7/7/aa) inserted (11.2.2020 with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2020 (S.I. 2020/23)](https://www.legislation.gov.uk/uksi/2020/23), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/23/regulation/1/1), [12(b)](https://www.legislation.gov.uk/uksi/2020/23/regulation/12/b)
 
 [^f00234]: Footnote: For provisions requiring a pension fund holder to provide information to the billing authority see regulations under section 14A of the Local Government Finance Act 1992.
 
-[^key-a4d7fb38ce602aabc4984de90e342405]: Commencement: Sch. 8 para. 8 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-a4d7fb38ce602aabc4984de90e342405]: Commencement: Sch. 8 para. 8 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-08834ae7cc2a58b22f484014dfbaeec5]: Commencement: Sch. 8 para. 9 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-08834ae7cc2a58b22f484014dfbaeec5]: Commencement: Sch. 8 para. 9 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-928551ba51f2b355056f96889e617235]: Textual amendment: Words in Sch. 8 para. 9(1) substituted (13.1.2014 with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2013 (S.I. 2013/3181)](https://www.legislation.gov.uk/uksi/2013/3181), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/2/13)
+[^c-928551ba51f2b355056f96889e617235]: Textual amendment: Words in Sch. 8 para. 9(1) substituted (13.1.2014 with application in accordance with reg. 1(2) of the amending S.I.) by [The Council Tax Reduction Schemes (Prescribed Requirements) (England) (Amendment) Regulations 2013 (S.I. 2013/3181)](https://www.legislation.gov.uk/uksi/2013/3181), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/1/1), [2(13)](https://www.legislation.gov.uk/uksi/2013/3181/regulation/2/13)
 
-[^key-35e15b4ec95bceb12292ba1ac4336a62]: Textual amendment: Words in [Sch. 8 para. 9(7)(b)](https://www.legislation.gov.uk/uksi/2012/2885/schedule/8/paragraph/9/7/b) inserted (12.1.2018 with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Amendment) (England) Regulations 2017 (S.I. 2017/1305)](https://www.legislation.gov.uk/uksi/2017/1305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1305/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2017/1305/regulation/16/b)
+[^c-35e15b4ec95bceb12292ba1ac4336a62]: Textual amendment: Words in [Sch. 8 para. 9(7)(b)](https://www.legislation.gov.uk/uksi/2012/2885/schedule/8/paragraph/9/7/b) inserted (12.1.2018 with application in accordance with reg. 1(3) of the amending S.I.) by [The Council Tax Reduction Schemes (Amendment) (England) Regulations 2017 (S.I. 2017/1305)](https://www.legislation.gov.uk/uksi/2017/1305), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2017/1305/regulation/1/1), [16(b)](https://www.legislation.gov.uk/uksi/2017/1305/regulation/16/b)
 
-[^key-b99aa674ade6425e236c003ca853a01e]: Commencement: Sch. 8 para. 10 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-b99aa674ade6425e236c003ca853a01e]: Commencement: Sch. 8 para. 10 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-12e2d2f035f59d25032481d26d944798]: Commencement: Sch. 8 para. 11 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-12e2d2f035f59d25032481d26d944798]: Commencement: Sch. 8 para. 11 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-594b76e6597f897c133b96fba1f6e6ad]: Commencement: Sch. 8 para. 12 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-594b76e6597f897c133b96fba1f6e6ad]: Commencement: Sch. 8 para. 12 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
 [^f00235]: Footnote: [2000 asp 4](https://www.legislation.gov.uk/asp/2000/4).
 
@@ -366,8 +366,8 @@ it may make a payment to him of the amount of the reduction to which he is entit
 
 [^f00238]: Footnote: [2005 c. 9](https://www.legislation.gov.uk/ukpga/2005/9).
 
-[^key-ffb08aace9d0d2cd7060b50235168b5c]: Commencement: Sch. 8 para. 13 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-ffb08aace9d0d2cd7060b50235168b5c]: Commencement: Sch. 8 para. 13 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
-[^key-dfb37caeb84286b355263fc20a7da300]: Commencement: Sch. 8 para. 14 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
+[^c-dfb37caeb84286b355263fc20a7da300]: Commencement: Sch. 8 para. 14 in force at 27.11.2012, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2885/regulation/1/1)
 
 [^f00239]: Footnote: [S.I. 1992/613](https://www.legislation.gov.uk/uksi/1992/613).

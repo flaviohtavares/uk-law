@@ -22,7 +22,7 @@ summary: ''
 
 Section 94
 
-### 1. Regulations specifying threshold conditions for categories of Part 3 services[^key-ac4d7f7ac0ea42c478a034c29121ff08]
+### 1. Regulations specifying threshold conditions for categories of Part 3 services[^c-ac4d7f7ac0ea42c478a034c29121ff08]
 
 (1) The Secretary of State must make regulations specifying conditions (“Category 1 threshold conditions”) for the user-to-user part of regulated user-to-user services relating to each of the following—
 
@@ -54,7 +54,7 @@ Section 94
 
 (8) In this paragraph “**specified**” means specified in the regulations.
 
-### 2. Procedure for first regulations under paragraph 1[^key-c947231412d48a1d23ed6917766b7585]
+### 2. Procedure for first regulations under paragraph 1[^c-c947231412d48a1d23ed6917766b7585]
 
 (1) This paragraph describes the procedure that must be followed in relation to the making of the first regulations under each of sub-paragraphs (1), (2) and (3) of paragraph 1.
 
@@ -96,7 +96,7 @@ Section 94
 
 (11) The Secretary of State may not make regulations under paragraph 1 until OFCOM have carried out research and provided advice to the Secretary of State as required by this paragraph.
 
-### 3. Procedure for amending or replacing regulations under paragraph 1[^key-e001b17349b4a70ed5fda61782675dbe]
+### 3. Procedure for amending or replacing regulations under paragraph 1[^c-e001b17349b4a70ed5fda61782675dbe]
 
 (1) Regulations in force under paragraph 1(1) may not be amended or replaced by further regulations under that provision except following further research carried out by OFCOM into the matters mentioned in paragraph 2(2).
 
@@ -131,7 +131,7 @@ Section 94
 
 (12) Sub-paragraphs (1) to (3) do not apply to regulations made only for the purpose of correcting existing regulations under paragraph 1.
 
-### 4. Publication of OFCOM’s advice under paragraphs 2 and 3[^key-406c785096e5296c63ebb4089d1d8ed5]
+### 4. Publication of OFCOM’s advice under paragraphs 2 and 3[^c-406c785096e5296c63ebb4089d1d8ed5]
 
 (1) In arranging for the publication of advice under paragraph 2(7)(a) or 3(7), OFCOM must have regard to the need to exclude from publication, so far as that is practicable, matters which are confidential in accordance with sub-paragraphs (2) and (3).
 
@@ -145,13 +145,13 @@ Section 94
 - (a) it relates to the private affairs of an individual, and
 - (b) publication of that matter would or might, in OFCOM’s opinion, seriously and prejudicially affect the interests of that individual.
 
-### 5. Interpretation[^key-b47fffe4909cccf021db2ff50893cca4]
+### 5. Interpretation[^c-b47fffe4909cccf021db2ff50893cca4]
 
 References in this Schedule to the number of users of a user-to-user part of a service or a search engine are to the number of United Kingdom users of such a part or search engine.
 
-**6.**[^key-d540047dd94ba4b641d19d87bfaf091e] In this Schedule the “characteristics” of a user-to-user part of a service or a search engine include its user base, business model, governance and other systems and processes.
+**6.**[^c-d540047dd94ba4b641d19d87bfaf091e] In this Schedule the “characteristics” of a user-to-user part of a service or a search engine include its user base, business model, governance and other systems and processes.
 
-**7.**[^key-32a26e4e6f7522357882663793ed0c4b] In this Schedule—
+**7.**[^c-32a26e4e6f7522357882663793ed0c4b] In this Schedule—
 
 - “**content that is harmful to children**” has the same meaning as in Part 3 (see section 60);
 - “**illegal content**” has the same meaning as in Part 3 (see section 59);
@@ -160,16 +160,16 @@ References in this Schedule to the number of users of a user-to-user part of a s
 
 ## Annotations
 
-[^key-ac4d7f7ac0ea42c478a034c29121ff08]: Commencement: Sch. 11 para. 1 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
+[^c-ac4d7f7ac0ea42c478a034c29121ff08]: Commencement: Sch. 11 para. 1 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
 
-[^key-c947231412d48a1d23ed6917766b7585]: Commencement: Sch. 11 para. 2 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
+[^c-c947231412d48a1d23ed6917766b7585]: Commencement: Sch. 11 para. 2 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
 
-[^key-e001b17349b4a70ed5fda61782675dbe]: Commencement: Sch. 11 para. 3 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
+[^c-e001b17349b4a70ed5fda61782675dbe]: Commencement: Sch. 11 para. 3 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
 
-[^key-406c785096e5296c63ebb4089d1d8ed5]: Commencement: Sch. 11 para. 4 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
+[^c-406c785096e5296c63ebb4089d1d8ed5]: Commencement: Sch. 11 para. 4 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
 
-[^key-b47fffe4909cccf021db2ff50893cca4]: Commencement: Sch. 11 para. 5 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
+[^c-b47fffe4909cccf021db2ff50893cca4]: Commencement: Sch. 11 para. 5 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
 
-[^key-d540047dd94ba4b641d19d87bfaf091e]: Commencement: Sch. 11 para. 6 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
+[^c-d540047dd94ba4b641d19d87bfaf091e]: Commencement: Sch. 11 para. 6 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
 
-[^key-32a26e4e6f7522357882663793ed0c4b]: Commencement: Sch. 11 para. 7 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)
+[^c-32a26e4e6f7522357882663793ed0c4b]: Commencement: Sch. 11 para. 7 in force at Royal Assent, see [s. 240(4)(p)](https://www.legislation.gov.uk/ukpga/2023/50/section/240/4/p)

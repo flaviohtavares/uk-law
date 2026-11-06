@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 79. Codes of practice[^key-3156eace4dacc4dc3a98cb1d4c3b22d5]
+## 79. Codes of practice[^c-3156eace4dacc4dc3a98cb1d4c3b22d5]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,4 +50,4 @@ that matter is to be taken as proved unless the defendant proves that the requir
 
 ## Annotations
 
-[^key-3156eace4dacc4dc3a98cb1d4c3b22d5]: Commencement: S. 79 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)
+[^c-3156eace4dacc4dc3a98cb1d4c3b22d5]: Commencement: S. 79 in force at 1.4.2014 by [S.I. 2014/251](https://www.legislation.gov.uk/uksi/2014/251), [art. 4](https://www.legislation.gov.uk/uksi/2014/251/article/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 226E. Sporting testimonial payments[^key-06f7d34871aabab28380a1da64a3f4f3]
+## 226E. Sporting testimonial payments[^c-06f7d34871aabab28380a1da64a3f4f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -68,4 +68,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06f7d34871aabab28380a1da64a3f4f3]: Textual amendment: [S. 226E](https://www.legislation.gov.uk/ukpga/2003/1/section/226E) and cross-heading inserted (with effect in accordance with Sch. 2 para. 4(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/2/paragraph/1)
+[^c-06f7d34871aabab28380a1da64a3f4f3]: Textual amendment: [S. 226E](https://www.legislation.gov.uk/ukpga/2003/1/section/226E) and cross-heading inserted (with effect in accordance with Sch. 2 para. 4(1) of the amending Act) by [Finance Act 2016 (c. 24)](https://www.legislation.gov.uk/ukpga/2016/24), [Sch. 2 para. 1](https://www.legislation.gov.uk/ukpga/2016/24/schedule/2/paragraph/1)

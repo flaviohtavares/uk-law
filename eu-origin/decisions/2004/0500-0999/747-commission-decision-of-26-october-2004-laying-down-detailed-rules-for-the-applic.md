@@ -40,52 +40,52 @@ laying down detailed rules for the application of Council Directive 93/25/EEC on
 
 (2004/747/EC) (revoked)
 
-[^key-e5bfb9b068b05f20d634b9a287776dcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5bfb9b068b05f20d634b9a287776dcb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-e5bfb9b068b05f20d634b9a287776dcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — DEFINITIONS OF CATEGORIES[^key-e5bfb9b068b05f20d634b9a287776dcb]
+## ANNEX I — DEFINITIONS OF CATEGORIES[^c-e5bfb9b068b05f20d634b9a287776dcb]
 
-[^key-e5bfb9b068b05f20d634b9a287776dcb]Ewes and ewe lambs put to the ram
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-e5bfb9b068b05f20d634b9a287776dcb]Milk ewes
+[^c-e5bfb9b068b05f20d634b9a287776dcb]Ewes and ewe lambs put to the ram
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5bfb9b068b05f20d634b9a287776dcb]Other ewes
+[^c-e5bfb9b068b05f20d634b9a287776dcb]Milk ewes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5bfb9b068b05f20d634b9a287776dcb]Lambs
+[^c-e5bfb9b068b05f20d634b9a287776dcb]Other ewes
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-e5bfb9b068b05f20d634b9a287776dcb]
+[^c-e5bfb9b068b05f20d634b9a287776dcb]Lambs
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-e5bfb9b068b05f20d634b9a287776dcb]
+## ANNEX II[^c-e5bfb9b068b05f20d634b9a287776dcb]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX III[^c-e5bfb9b068b05f20d634b9a287776dcb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5bfb9b068b05f20d634b9a287776dcb]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/47)
+[^c-e5bfb9b068b05f20d634b9a287776dcb]: Textual amendment: Decision revoked (15.12.2021) by [The UK Statistics (Amendment etc.) (EU Exit) Regulations 2021 (S.I. 2021/1300)](https://www.legislation.gov.uk/uksi/2021/1300), [reg. 1](https://www.legislation.gov.uk/uksi/2021/1300/regulation/1), [Sch. 1 para. 47](https://www.legislation.gov.uk/uksi/2021/1300/schedule/1/paragraph/47)

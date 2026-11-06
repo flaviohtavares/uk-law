@@ -32,7 +32,7 @@ summary: ''
 
 betting, gaming and lotteries
 
-The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) (No. 2) Regulations 2007 (revoked)[^key-1984800b72723dcb6edc5b43a510ab19]
+The Gambling (Operating Licence and Single-Machine Permit Fees) (Amendment) (No. 2) Regulations 2007 (revoked)[^c-1984800b72723dcb6edc5b43a510ab19]
 
 Made
 
@@ -46,50 +46,50 @@ Coming into force
 
 1st August 2007
 
-[^key-1984800b72723dcb6edc5b43a510ab19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1984800b72723dcb6edc5b43a510ab19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-1984800b72723dcb6edc5b43a510ab19]
+## 1. Citation, commencement and interpretation[^c-1984800b72723dcb6edc5b43a510ab19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of Arrangement of Regulations[^key-1984800b72723dcb6edc5b43a510ab19]
+## 2. Amendment of Arrangement of Regulations[^c-1984800b72723dcb6edc5b43a510ab19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 2[^key-1984800b72723dcb6edc5b43a510ab19]
+## 3. Amendment of regulation 2[^c-1984800b72723dcb6edc5b43a510ab19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Insertion of new regulation 3A[^key-1984800b72723dcb6edc5b43a510ab19]
+## 4. Insertion of new regulation 3A[^c-1984800b72723dcb6edc5b43a510ab19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 8[^key-1984800b72723dcb6edc5b43a510ab19]
+## 5. Amendment of regulation 8[^c-1984800b72723dcb6edc5b43a510ab19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of table in Schedule 3[^key-1984800b72723dcb6edc5b43a510ab19]
+## 6. Amendment of table in Schedule 3[^c-1984800b72723dcb6edc5b43a510ab19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Substitution of table in Schedule 6[^key-1984800b72723dcb6edc5b43a510ab19]
+## 7. Substitution of table in Schedule 6[^c-1984800b72723dcb6edc5b43a510ab19]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1984800b72723dcb6edc5b43a510ab19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1984800b72723dcb6edc5b43a510ab19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — New table in Schedule 6 to the Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2006 (annual fees for remote operating licences)[^key-1984800b72723dcb6edc5b43a510ab19]
+## SCHEDULE — New table in Schedule 6 to the Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2006 (annual fees for remote operating licences)[^c-1984800b72723dcb6edc5b43a510ab19]
 
 Regulation 7
 
 **May not be in force at this date. Check the source.**
 
-[^key-1984800b72723dcb6edc5b43a510ab19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1984800b72723dcb6edc5b43a510ab19]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1984800b72723dcb6edc5b43a510ab19]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1791) revoked (6.4.2017) by [The Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2017 (S.I. 2017/303)](https://www.legislation.gov.uk/uksi/2017/303), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/303/schedule/7)
+[^c-1984800b72723dcb6edc5b43a510ab19]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2007/1791) revoked (6.4.2017) by [The Gambling (Operating Licence and Single-Machine Permit Fees) Regulations 2017 (S.I. 2017/303)](https://www.legislation.gov.uk/uksi/2017/303), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/303/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/303/schedule/7)

@@ -213,7 +213,7 @@ In regulation 75(1)(b) of the Jobseeker’s Allowance Regulations—
 
   .
 
-## 10. Amendment of the Council Tax Benefit (General) Regulations 1992 and of the Housing Benefit (General) Regulations 1987[^key-e29d44aa003e513235fd99d821a9e7f8]
+## 10. Amendment of the Council Tax Benefit (General) Regulations 1992 and of the Housing Benefit (General) Regulations 1987[^c-e29d44aa003e513235fd99d821a9e7f8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -275,4 +275,4 @@ Regulation 10 amends the Council Tax Benefit (General) Regulations 1992 and the 
 
 [^c1663050]: Marginal citation: [1990 c.35](https://www.legislation.gov.uk/ukpga/1990/35); [section 2(3)](https://www.legislation.gov.uk/uksi/1998/1274/section/2/3) was amended by the [Trade Union Reform and Employment Rights Act 1993 (c.19)](https://www.legislation.gov.uk/ukpga/1993/19), [section 47(4)(a)](https://www.legislation.gov.uk/ukpga/1993/19/section/47/4/a) and Schedule 10.
 
-[^key-e29d44aa003e513235fd99d821a9e7f8]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/1274/regulation/10) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-e29d44aa003e513235fd99d821a9e7f8]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/uksi/1998/1274/regulation/10) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))

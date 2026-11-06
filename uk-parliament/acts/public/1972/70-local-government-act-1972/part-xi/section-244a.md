@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 244A. Application of this Part to the London Fire Commissioner[^key-184edda7eb1a300bf7a72b2a104e74b2]
+## 244A. Application of this Part to the London Fire Commissioner[^c-184edda7eb1a300bf7a72b2a104e74b2]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ This Part shall have effect as if any reference to a joint authority included a 
 
 ## Annotations
 
-[^key-184edda7eb1a300bf7a72b2a104e74b2]: Textual amendment: S. 244A substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/47); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)
+[^c-184edda7eb1a300bf7a72b2a104e74b2]: Textual amendment: S. 244A substituted (31.1.2017 for specified purposes, 1.4.2018 in so far as not already in force) by [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1/5/e), [Sch. 2 para. 47](https://www.legislation.gov.uk/ukpga/2017/3/schedule/2/paragraph/47); [S.I. 2018/227](https://www.legislation.gov.uk/uksi/2018/227), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2018/227/regulation/4/c)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Amendments of other regulations[^key-ab692ca99ec6c9aeac174a83304a7980]
+## 4. Amendments of other regulations[^c-ab692ca99ec6c9aeac174a83304a7980]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ab692ca99ec6c9aeac174a83304a7980]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2005/438/article/4) in force at 6.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/438/article/1)
+[^c-ab692ca99ec6c9aeac174a83304a7980]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2005/438/article/4) in force at 6.4.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/438/article/1)
 
 [^f00005]: Footnote: S.I. [1997/785](https://www.legislation.gov.uk/uksi/1997/785).

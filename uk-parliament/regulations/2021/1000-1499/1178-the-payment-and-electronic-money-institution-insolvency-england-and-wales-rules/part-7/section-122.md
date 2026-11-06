@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 122. Administrator to allow inspection of proofs[^key-1ebf88b7021268c7ee8e3bc1267cc4d1]
+## 122. Administrator to allow inspection of proofs[^c-1ebf88b7021268c7ee8e3bc1267cc4d1]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ The administrator must, so long as proofs lodged are in the administrator’s ha
 
 ## Annotations
 
-[^key-1ebf88b7021268c7ee8e3bc1267cc4d1]: Commencement: Rule 122 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-1ebf88b7021268c7ee8e3bc1267cc4d1]: Commencement: Rule 122 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

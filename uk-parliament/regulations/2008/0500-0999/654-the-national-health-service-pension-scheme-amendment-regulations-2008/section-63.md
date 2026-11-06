@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 63. Amendment of regulation U1A[^key-c68b194451394e29668073110fd8242a][^M_F_32adb1c2-77e4-4aab-c1ee-313a4dab0d5a]
+## 63. Amendment of regulation U1A[^c-c68b194451394e29668073110fd8242a][^M_F_32adb1c2-77e4-4aab-c1ee-313a4dab0d5a]
 
 *Extent: E+W*
 
@@ -31,6 +31,6 @@ In regulation U1A (determinations by medical practitioners)—
 
 ## Annotations
 
-[^key-c68b194451394e29668073110fd8242a]: Commencement: Reg. 63 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
+[^c-c68b194451394e29668073110fd8242a]: Commencement: Reg. 63 in force at 1.4.2008, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2008/654/regulation/1/2)
 
 [^M_F_32adb1c2-77e4-4aab-c1ee-313a4dab0d5a]: Textual amendment: Regs. 62-66: incorrectly numbered regs. 1-5 following reg. 61 renumbered as regs. 62-66 (31.3.2008) by [The National Health Service Pension Scheme (Correction to Amendment) Regulations 2008 (S.I. 2008/906)](https://www.legislation.gov.uk/uksi/2008/906), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2008/906/regulation/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2008/906/regulation/2/3)

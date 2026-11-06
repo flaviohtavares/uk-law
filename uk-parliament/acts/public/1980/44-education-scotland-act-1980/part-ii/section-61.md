@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Examination and assessment of children and young persons.[^key-376d3c570e6dd885a145004198b0b819]
+## 61. Examination and assessment of children and young persons.[^c-376d3c570e6dd885a145004198b0b819]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-376d3c570e6dd885a145004198b0b819]: Textual amendment: Ss. 60-65G repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(12)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/12); S.S.I. 2005/516, arts. 3, 4, 7, 8, 10, 11, sch; [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)
+[^c-376d3c570e6dd885a145004198b0b819]: Textual amendment: Ss. 60-65G repealed (14.11.2005) by [Education (Additional Support for Learning) (Scotland) Act 2004 (asp 4)](https://www.legislation.gov.uk/asp/2004/4), [s. 35(1)](https://www.legislation.gov.uk/asp/2004/4/section/35/1), [sch. 3 para. 3(12)](https://www.legislation.gov.uk/asp/2004/4/schedule/3/paragraph/3/12); S.S.I. 2005/516, arts. 3, 4, 7, 8, 10, 11, sch; [S.S.I. 2005/564](https://www.legislation.gov.uk/ssi/2005/564), [art. 2](https://www.legislation.gov.uk/ssi/2005/564/article/2)

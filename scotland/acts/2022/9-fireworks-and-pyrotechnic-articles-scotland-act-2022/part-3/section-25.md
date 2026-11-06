@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 25. Compensation for specialist firework businesses affected by section 22[^key-0e531f6fdf506bc9f7038fd39cb968d1]
+## 25. Compensation for specialist firework businesses affected by section 22[^c-0e531f6fdf506bc9f7038fd39cb968d1]
 
 *Extent: S*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0e531f6fdf506bc9f7038fd39cb968d1]: Commencement: S. 25 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)
+[^c-0e531f6fdf506bc9f7038fd39cb968d1]: Commencement: S. 25 not in force at Royal Assent, see [s. 56(2)](https://www.legislation.gov.uk/asp/2022/9/section/56/2)

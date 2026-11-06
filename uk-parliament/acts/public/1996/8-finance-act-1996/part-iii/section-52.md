@@ -22,7 +22,7 @@ summary: ''
 
 (1) Regulations may be made under section 51 above with a view to securing that a person is entitled to credit if—
 
-- (a) he carries out a taxable activity at a landfill site[^key-181bc13f00e2bb0069f1cf81bf41caa4] as a result of which he becomes entitled to a debt which turns out to be bad (in whole or in part), and
+- (a) he carries out a taxable activity at a landfill site[^c-181bc13f00e2bb0069f1cf81bf41caa4] as a result of which he becomes entitled to a debt which turns out to be bad (in whole or in part), and
 - (b) such other conditions as may be prescribed are fulfilled.
 
 (2) The regulations may include provision under section 51(5)(b) or (c) above requiring repayment or payment if it turns out that it was not justified to regard a debt as bad (or to regard it as bad to the extent that it was so regarded).
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-181bc13f00e2bb0069f1cf81bf41caa4]: Textual amendment: Words in [s. 52(1)(a)](https://www.legislation.gov.uk/ukpga/1996/8/section/52/1/a) inserted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/12)
+[^c-181bc13f00e2bb0069f1cf81bf41caa4]: Textual amendment: Words in [s. 52(1)(a)](https://www.legislation.gov.uk/ukpga/1996/8/section/52/1/a) inserted (with effect in accordance with s. 42(2), Sch. 12 para. 29(1) of the amending Act) by [Finance Act 2018 (c. 3)](https://www.legislation.gov.uk/ukpga/2018/3), [Sch. 12 para. 12](https://www.legislation.gov.uk/ukpga/2018/3/schedule/12/paragraph/12)

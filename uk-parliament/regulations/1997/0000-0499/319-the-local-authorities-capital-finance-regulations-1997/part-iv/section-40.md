@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Transactions for the provision of a capital asset and services[^key-fd97f9dfbef5fa11e1cc16e8bd7d6fe5]
+## 40. Transactions for the provision of a capital asset and services[^c-fd97f9dfbef5fa11e1cc16e8bd7d6fe5]
 
 *Extent: E+W*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd97f9dfbef5fa11e1cc16e8bd7d6fe5]: Commencement: Reg. 40 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)
+[^c-fd97f9dfbef5fa11e1cc16e8bd7d6fe5]: Commencement: Reg. 40 in force at 1.4.1997, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/1997/319/regulation/1/1/b)

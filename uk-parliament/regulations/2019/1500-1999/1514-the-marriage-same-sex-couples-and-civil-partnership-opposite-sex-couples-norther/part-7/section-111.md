@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Pension Protection Fund (Pension Compensation Sharing and Attachment on Divorce etc.) Regulations (Northern Ireland) 2011[^key-8d2de5576d4b305a2161417d92457429]
+## 111. Pension Protection Fund (Pension Compensation Sharing and Attachment on Divorce etc.) Regulations (Northern Ireland) 2011[^c-8d2de5576d4b305a2161417d92457429]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ In regulation 1(2) of the Pension Protection Fund (Pension Compensation Sharing 
 
 ## Annotations
 
-[^key-8d2de5576d4b305a2161417d92457429]: Commencement: Reg. 111 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-8d2de5576d4b305a2161417d92457429]: Commencement: Reg. 111 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00176]: Footnote: [S.R. (N.I.) 2011/113](https://www.legislation.gov.uk/nisr/2011/113).

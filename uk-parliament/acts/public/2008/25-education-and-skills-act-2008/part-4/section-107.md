@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Quality assurance of independent inspectorates[^key-5d8db254cde11c6eb277f337a75a486b]
+## 107. Quality assurance of independent inspectorates[^c-5d8db254cde11c6eb277f337a75a486b]
 
 *Extent: E+W*
 
-(1)[^key-693bcc7d761a397160117eb641b15086] The Secretary of State may require the Chief Inspector to prepare and send to the Secretary of State a report about—
+(1)[^c-693bcc7d761a397160117eb641b15086] The Secretary of State may require the Chief Inspector to prepare and send to the Secretary of State a report about—
 
 - (a) a particular independent inspectorate, or
 - (b) independent inspectorates generally or of a particular description.
@@ -34,6 +34,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5d8db254cde11c6eb277f337a75a486b]: Commencement: S. 107 in force at 8.9.2014 by [S.I. 2014/2379](https://www.legislation.gov.uk/uksi/2014/2379), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2379/article/2/b)
+[^c-5d8db254cde11c6eb277f337a75a486b]: Commencement: S. 107 in force at 8.9.2014 by [S.I. 2014/2379](https://www.legislation.gov.uk/uksi/2014/2379), [art. 2(b)](https://www.legislation.gov.uk/uksi/2014/2379/article/2/b)
 
-[^key-693bcc7d761a397160117eb641b15086]: Textual amendment: S. 107(1) substituted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 51(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/51/3), [78(2)(e)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/e)
+[^c-693bcc7d761a397160117eb641b15086]: Textual amendment: S. 107(1) substituted (29.6.2026) by [Children’s Wellbeing and Schools Act 2026 (c. 21)](https://www.legislation.gov.uk/ukpga/2026/21), [ss. 51(3)](https://www.legislation.gov.uk/ukpga/2026/21/section/51/3), [78(2)(e)](https://www.legislation.gov.uk/ukpga/2026/21/section/78/2/e)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 35. Order relieving trustee of consequences of entering into a transaction in breach of fiduciary duty[^key-4db9d0e95de5cc35882853a9a051277d]
+## 35. Order relieving trustee of consequences of entering into a transaction in breach of fiduciary duty[^c-4db9d0e95de5cc35882853a9a051277d]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4db9d0e95de5cc35882853a9a051277d]: Commencement: S. 35 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)
+[^c-4db9d0e95de5cc35882853a9a051277d]: Commencement: S. 35 not in force at Royal Assent, see [s. 88(3)](https://www.legislation.gov.uk/asp/2024/2/section/88/3)

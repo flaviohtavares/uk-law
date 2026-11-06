@@ -25,7 +25,7 @@ summary: ''
 - “**body**” includes an unincorporated association, and
 - “**bonus shares**” means shares which are issued otherwise than for payment (whether in cash or otherwise).
 
-(2) For the purposes of this Part shares in a company are not treated as being of the same class unless they would be so treated if dealt in on a recognised stock exchange[^key-1903df34b55bcdeb10b680c42929c3e0].
+(2) For the purposes of this Part shares in a company are not treated as being of the same class unless they would be so treated if dealt in on a recognised stock exchange[^c-1903df34b55bcdeb10b680c42929c3e0].
 
 (3) For the purposes of this Part the market value at any time of any asset is the price which it might reasonably be expected to fetch on a sale at that time in the open market free from any interest or right which exists by way of security in or over it.
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1903df34b55bcdeb10b680c42929c3e0]: Textual amendment: Words in s. 382(2) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/8)
+[^c-1903df34b55bcdeb10b680c42929c3e0]: Textual amendment: Words in s. 382(2) substituted (19.7.2007) by [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11), [Sch. 26 para. 12(8)](https://www.legislation.gov.uk/ukpga/2007/11/schedule/26/paragraph/12/8)

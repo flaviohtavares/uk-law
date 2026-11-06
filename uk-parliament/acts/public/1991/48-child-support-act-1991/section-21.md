@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Child support appeal tribunals.[^key-47b3f714323bf408a6d70e535aef1c96]
+## 21. Child support appeal tribunals.[^c-47b3f714323bf408a6d70e535aef1c96]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-47b3f714323bf408a6d70e535aef1c96]: Textual amendment: S. 20 substituted for ss. 20–21 (4.3.1999 for specified purposes, 1.6.1999 in so far as not already in force) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 42](https://www.legislation.gov.uk/ukpga/1998/14/section/42), [87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2); [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule); [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(d)](https://www.legislation.gov.uk/uksi/1999/1510/article/2/d)
+[^c-47b3f714323bf408a6d70e535aef1c96]: Textual amendment: S. 20 substituted for ss. 20–21 (4.3.1999 for specified purposes, 1.6.1999 in so far as not already in force) by [Social Security Act 1998 (c. 14)](https://www.legislation.gov.uk/ukpga/1998/14), [ss. 42](https://www.legislation.gov.uk/ukpga/1998/14/section/42), [87(2)](https://www.legislation.gov.uk/ukpga/1998/14/section/87/2); [S.I. 1999/528](https://www.legislation.gov.uk/uksi/1999/528), [art. 2(a)](https://www.legislation.gov.uk/uksi/1999/528/article/2/a), [Sch.](https://www.legislation.gov.uk/uksi/1999/528/schedule); [S.I. 1999/1510](https://www.legislation.gov.uk/uksi/1999/1510), [art. 2(d)](https://www.legislation.gov.uk/uksi/1999/1510/article/2/d)

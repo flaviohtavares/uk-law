@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2B. Meaning of junior ISA account[^key-02371ddf8ddfb120fa5106013463019f]
+## 2B. Meaning of junior ISA account[^c-02371ddf8ddfb120fa5106013463019f]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ In these Regulations—
 
 ## Annotations
 
-[^key-02371ddf8ddfb120fa5106013463019f]: Textual amendment: Regs. 2A-2E inserted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [6](https://www.legislation.gov.uk/uksi/2011/1780/regulation/6)
+[^c-02371ddf8ddfb120fa5106013463019f]: Textual amendment: Regs. 2A-2E inserted (1.11.2011) by [The Individual Savings Account (Amendment No. 2) Regulations 2011 (S.I. 2011/1780)](https://www.legislation.gov.uk/uksi/2011/1780), [regs. 1](https://www.legislation.gov.uk/uksi/2011/1780/regulation/1), [6](https://www.legislation.gov.uk/uksi/2011/1780/regulation/6)

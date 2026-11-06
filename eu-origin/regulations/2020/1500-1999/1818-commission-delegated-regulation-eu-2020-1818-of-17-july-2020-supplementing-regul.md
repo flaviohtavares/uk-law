@@ -29,9 +29,9 @@ Commission Delegated Regulation (EU) 2020/1818
 
 of 17 July 2020
 
-supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council as regards minimum standards for UK Climate Transition Benchmarks and UK Paris-aligned Benchmarks[^key-72978de114c1c4dce18f60066e7a1d57]
+supplementing Regulation (EU) 2016/1011 of the European Parliament and of the Council as regards minimum standards for UK Climate Transition Benchmarks and UK Paris-aligned Benchmarks[^c-72978de114c1c4dce18f60066e7a1d57]
 
-[^key-d092a5a5d63dc4c16875c8c387144113]
+[^c-d092a5a5d63dc4c16875c8c387144113]
 
 THE EUROPEAN COMMISSION,
 
@@ -117,20 +117,20 @@ HAS ADOPTED THIS REGULATION:
 
 For the purposes of this Regulation, the following definitions shall apply:
 
-- ((a)) ‘greenhouse gas (GHG) emissions’ means emissions of carbon dioxide (CO[^key-0b0a8664fdabd818af51c56ddfdd6277]<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), nitrogen trifluoride (NF<sub>3</sub>) and sulphur hexafluoride (SF<sub>6</sub>);
-- ((b)) ‘absolute greenhouse gas (GHG) emissions’ means tonnes of CO<sub>2</sub> equivalent[^key-cf3afbdddebeb196f6a4611c1b669042]...;
-- ((ba)) “emissions”, in relation to a greenhouse gas, means emissions of that gas into the atmosphere that are attributable to human activity;[^key-60b041b66c8472e0776458e86e259d1f]
+- ((a)) ‘greenhouse gas (GHG) emissions’ means emissions of carbon dioxide (CO[^c-0b0a8664fdabd818af51c56ddfdd6277]<sub>2</sub>), methane (CH<sub>4</sub>), nitrous oxide (N<sub>2</sub>O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), nitrogen trifluoride (NF<sub>3</sub>) and sulphur hexafluoride (SF<sub>6</sub>);
+- ((b)) ‘absolute greenhouse gas (GHG) emissions’ means tonnes of CO<sub>2</sub> equivalent[^c-cf3afbdddebeb196f6a4611c1b669042]...;
+- ((ba)) “emissions”, in relation to a greenhouse gas, means emissions of that gas into the atmosphere that are attributable to human activity;[^c-60b041b66c8472e0776458e86e259d1f]
 - ((bb)) “global warming potential” and “GWP” have the same meaning as in Article 2(6) of [Regulation (EU) No 517/2014](https://www.legislation.gov.uk/european/regulation/2014/0517);
 - ((bc)) a “tonne(s) of CO<sub>2 </sub>equivalent” means a quantity of greenhouse gases, expressed as the product of the mass of the greenhouse gases in metric tonnes and of their global warming potential (GWP);
-- ((c)) ‘greenhouse gas (GHG) intensity’ means absolute GHG emissions divided by millions of pounds sterling[^key-2f1fb387541901c20653272b0066a48a] in enterprise value including cash;
+- ((c)) ‘greenhouse gas (GHG) intensity’ means absolute GHG emissions divided by millions of pounds sterling[^c-2f1fb387541901c20653272b0066a48a] in enterprise value including cash;
 - ((d)) ‘enterprise value including cash’ or ‘EVIC’ means the sum, at fiscal year-end, of the market capitalisation of ordinary shares, the market capitalization of preferred shares, and the book value of total debt and non-controlling interests, without the deduction of cash or cash equivalents;
 - ((e)) ‘investable universe’ means the set of all investable instruments in a given asset class or group of asset classes;
 - ((f)) ‘base year’ means the first of a series of years in a benchmark;
-- ((g)) “SIC” means the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007) published by the Office for National Statistics, as amended from time to time.[^key-91c3e8395348d8dffb585f1f805abab5]
+- ((g)) “SIC” means the UK Standard Industrial Classification of Economic Activities 2007 (SIC 2007) published by the Office for National Statistics, as amended from time to time.[^c-91c3e8395348d8dffb585f1f805abab5]
 
 ## CHAPTER II — MINIMUM STANDARDS FOR THE DESIGN OF THE BENCHMARK METHODOLOGY
 
-### SECTION 1 — MINIMUM STANDARDS COMMON FOR UK CLIMATE TRANSITION BENCHMARKS AND UK PARIS-ALIGNED BENCHMARKS[^key-047e13564bc55dc0e9ba744c02f1c5d7][^key-99e836d678646147e820bc762b714fbd]
+### SECTION 1 — MINIMUM STANDARDS COMMON FOR UK CLIMATE TRANSITION BENCHMARKS AND UK PARIS-ALIGNED BENCHMARKS[^c-047e13564bc55dc0e9ba744c02f1c5d7][^c-99e836d678646147e820bc762b714fbd]
 
 #### Article 2. Reference temperature scenario
 
@@ -138,7 +138,7 @@ Administrators of UK Climate Transition Benchmarks and administrators of UK Pari
 
 #### Article 3. Equity allocation constraint
 
-UK Climate Transition Benchmarks and UK Paris-aligned Benchmarks that are based on equity securities admitted to a public market in the Union or in another jurisdiction, shall have an aggregated exposure to the sectors listed in Sections A to H and Section L of SIC[^key-79c9f3e4f53aae752a6f4d060b9474eb] that is at least equivalent to the aggregated exposure of the underlying investable universe to those sectors.
+UK Climate Transition Benchmarks and UK Paris-aligned Benchmarks that are based on equity securities admitted to a public market in the Union or in another jurisdiction, shall have an aggregated exposure to the sectors listed in Sections A to H and Section L of SIC[^c-79c9f3e4f53aae752a6f4d060b9474eb] that is at least equivalent to the aggregated exposure of the underlying investable universe to those sectors.
 
 #### Article 4. Calculation of GHG intensity or absolute GHG emissions
 
@@ -150,7 +150,7 @@ UK Climate Transition Benchmarks and UK Paris-aligned Benchmarks that are based 
 
 1. The benchmark methodology for UK Climate Transition Benchmarks or UK Paris-aligned Benchmarks shall include Scope 3 GHG emissions data in the following way:
 
-- (a) As of 23 December 2020, Scope 3 GHG emissions data for at least the energy and mining sectors referred to in Divisions 05 to 09 and 19 and 20 of SIC[^key-a1c406c4f8863f207d2d487a02e47778];
+- (a) As of 23 December 2020, Scope 3 GHG emissions data for at least the energy and mining sectors referred to in Divisions 05 to 09 and 19 and 20 of SIC[^c-a1c406c4f8863f207d2d487a02e47778];
 - (b) within two years from 23 December 2020, Scope 3 GHG emissions data for at least the transportation, construction, buildings, materials and industrial sectors referred to in Divisions 10 to 18, 21 to 33, 41, 42 and 43, 49 to 53 and Division 81 of SIC;
 - (c) within four years from 23 December 2020, Scope 3 GHG emissions data for all other sectors referred to in SIC.
 
@@ -169,7 +169,7 @@ For the purposes of the first subparagraph, Scope 3 GHG emissions shall be const
 
 1. The decarbonisation trajectory for UK Climate Transition Benchmarks and UK Paris-aligned Benchmarks shall have the following targets:
 
-- (a) for equity securities admitted to a public market in the UK[^key-846c16c1bb4cec46d92c28f7ecbb9177] or in another jurisdiction, at least 7 % reduction of GHG intensity on average per annum;
+- (a) for equity securities admitted to a public market in the UK[^c-846c16c1bb4cec46d92c28f7ecbb9177] or in another jurisdiction, at least 7 % reduction of GHG intensity on average per annum;
 - (b) for debt securities other than those issued by a sovereign issuer, where the issuer of those debt securities has equity securities admitted to a public market in the UK or in another jurisdiction, at least 7 % reduction of GHG intensity on average per annum or at least 7 % reduction of absolute GHG emissions on average per annum;
 - (c) for debt securities other than those issued by a sovereign issuer, where the issuer of those debt securities does not have equity securities admitted to a public market in the UK or in another jurisdiction, at least 7 % reduction of absolute GHG emissions on average per annum.
 
@@ -184,11 +184,11 @@ For the purposes of the first subparagraph, Scope 3 GHG emissions shall be const
 - (a) the targets laid down in paragraph 1 are not achieved in a given year and the target miss is not compensated in the following year; or
 - (b) the targets laid down in paragraph 1 are not achieved on three occasions in any consecutive 10-year period.
 
-Benchmark administrators may relabel a benchmark as a UK Climate Transition Benchmark[^key-4f0f54f4dd56560d6454845177870d4c] or as a UK Paris-aligned Benchmark[^key-7a5bc8ceaf8f9ddfff4aa6dc3f059e75] where that benchmark meets the decarbonisation trajectory target for two consecutive years following the loss of the label, unless that benchmark lost that label twice.
+Benchmark administrators may relabel a benchmark as a UK Climate Transition Benchmark[^c-4f0f54f4dd56560d6454845177870d4c] or as a UK Paris-aligned Benchmark[^c-7a5bc8ceaf8f9ddfff4aa6dc3f059e75] where that benchmark meets the decarbonisation trajectory target for two consecutive years following the loss of the label, unless that benchmark lost that label twice.
 
 #### Article 8. Change in GHG intensity and absolute GHG emissions
 
-1. The change in GHG intensity or absolute GHG emissions shall be calculated as the percentage change between, on the one hand, the weighted average GHG intensity or absolute GHG emissions of all constituents of the UK Climate Transition Benchmark[^key-fa4b88fdc442e8809ba61fa7624d5155] or the UK Paris-aligned Benchmark[^key-3f07e5016459ed1ec8bad2494c0f9496] at the end of year ‘n’ and, on the other hand, the weighted average GHG intensity or absolute GHG emissions of all constituents of the benchmarks at the end of year n-1.
+1. The change in GHG intensity or absolute GHG emissions shall be calculated as the percentage change between, on the one hand, the weighted average GHG intensity or absolute GHG emissions of all constituents of the UK Climate Transition Benchmark[^c-fa4b88fdc442e8809ba61fa7624d5155] or the UK Paris-aligned Benchmark[^c-3f07e5016459ed1ec8bad2494c0f9496] at the end of year ‘n’ and, on the other hand, the weighted average GHG intensity or absolute GHG emissions of all constituents of the benchmarks at the end of year n-1.
 
 2. Benchmark administrators shall use a new base year whenever significant changes in the calculation methodology of GHG intensity or absolute GHG emissions occur.
 
@@ -196,7 +196,7 @@ For the purposes of the first subparagraph, a new base year shall mean the year 
 
 The selection of a new base year shall be without prejudice to the rules laid down in Article 7(5).
 
-### SECTION 2 — MINIMUM STANDARDS FOR UK CLIMATE TRANSITION BENCHMARKS[^key-f363b9ebeda767d2dc62708261a2b699]
+### SECTION 2 — MINIMUM STANDARDS FOR UK CLIMATE TRANSITION BENCHMARKS[^c-f363b9ebeda767d2dc62708261a2b699]
 
 #### Article 9. Baseline reduction of GHG intensity or absolute GHG emissions for UK Climate Transition Benchmarks
 
@@ -210,7 +210,7 @@ For the purposes of the first subparagraph, Scope 3 GHG emissions shall be const
 
 2. By 31 December 2022, administrators of UK Climate Transition Benchmarks shall comply with the requirements set out in Article 12(1), points (a), (b) and (c), and Article 12(2).
 
-### SECTION 3 — MINIMUM STANDARDS FOR UK PARIS-ALIGNED BENCHMARKS[^key-df4330a9eeb23440299bc5dcd77cb738]
+### SECTION 3 — MINIMUM STANDARDS FOR UK PARIS-ALIGNED BENCHMARKS[^c-df4330a9eeb23440299bc5dcd77cb738]
 
 #### Article 11. Baseline reduction of GHG intensity or absolute GHG emissions for UK Paris-aligned Benchmarks
 
@@ -230,7 +230,7 @@ For the purposes of the first subparagraph, Scope 3 GHG emissions shall be const
 - (f) companies that derive 50 % or more of their revenues from the exploration, extraction, manufacturing or distribution of gaseous fuels;
 - (g) companies that derive 50 % or more of their revenues from electricity generation with a GHG intensity of more than 100 g CO<sub>2</sub> e/kWh.
 
-For the purposes of point (a), controversial weapons shall mean controversial weapons as referred to in international treaties and conventions, United Nations principles and, where applicable, UK legislation[^key-f53e7bbf7adcc6e44f0b3af814304764].
+For the purposes of point (a), controversial weapons shall mean controversial weapons as referred to in international treaties and conventions, United Nations principles and, where applicable, UK legislation[^c-f53e7bbf7adcc6e44f0b3af814304764].
 
 2. Administrators of UK Paris-aligned Benchmarks shall exclude from those benchmarks any companies that are found or estimated by them or by external data providers to significantly harm one or more of the environmental objectives referred to in Article 9 of Regulation (EU) 2020/852 of the European Parliament and of the Council[^f00008], in accordance with the rules on estimations laid down in Article 13(2) of this Regulation.
 
@@ -240,7 +240,7 @@ For the purposes of point (a), controversial weapons shall mean controversial we
 
 ### Article 13. Transparency requirements for estimations
 
-1. In addition to the requirements laid down in Annex III to Regulation (EU) 2016/1011, administrators of UK Climate Transition Benchmarks[^key-0d71935bb8a9cd55f7cf98feffe56be3] and administrators of UK Paris-aligned Benchmarks[^key-7b2a7cb79fa2612eba697cac1d93cf6f] shall comply with the following requirements:
+1. In addition to the requirements laid down in Annex III to Regulation (EU) 2016/1011, administrators of UK Climate Transition Benchmarks[^c-0d71935bb8a9cd55f7cf98feffe56be3] and administrators of UK Paris-aligned Benchmarks[^c-7b2a7cb79fa2612eba697cac1d93cf6f] shall comply with the following requirements:
 
 - (a) administrators of UK Climate Transition Benchmarks and administrators of UK Paris-aligned Benchmarks that use estimations that are not based on data provided by an external data provider, shall formalise, document and make public the methodology upon which such estimations are based, including:
   - ((i)) the approach that they have used to calculate GHG emissions, and the main assumptions and the precautionary principles underlying those estimations;
@@ -267,7 +267,7 @@ Administrators of UK Climate Transition Benchmarks and administrators of UK Pari
 
 ### Article 15. Accuracy of the data sources
 
-1. Administrators of UK Climate Transition Benchmarks and administrators of UK Paris-aligned Benchmarks shall ensure that data on Scope 1, 2 and 3 GHG emissions are accurate, in accordance with global standards[^key-209661a102eddd6541973b386f9a3dc0].
+1. Administrators of UK Climate Transition Benchmarks and administrators of UK Paris-aligned Benchmarks shall ensure that data on Scope 1, 2 and 3 GHG emissions are accurate, in accordance with global standards[^c-209661a102eddd6541973b386f9a3dc0].
 
 2. For the purposes of paragraph 1, administrators of UK Climate Transition Benchmarks and administrators of UK Paris-aligned Benchmarks shall disclose in their methodology the standard used.
 
@@ -291,9 +291,9 @@ Ursula von der Leyen
 
 ## Annotations
 
-[^key-72978de114c1c4dce18f60066e7a1d57]: Textual amendment: Words in title substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (revoked) 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/2)
+[^c-72978de114c1c4dce18f60066e7a1d57]: Textual amendment: Words in title substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (revoked) 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [reg. 6(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/2)
 
-[^key-d092a5a5d63dc4c16875c8c387144113]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/13); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-d092a5a5d63dc4c16875c8c387144113]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 13](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/13); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 171, 29.6.2016, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2016.171.01.0001.01.ENG).
 
@@ -305,44 +305,44 @@ Ursula von der Leyen
 
 [^f00005]: Footnote: Regulation (EC) No 1893/2006 of the European Parliament and of the Council of 20 December 2006 establishing the statistical classification of economic activities NACE Revision 2 and amending Council Regulation (EEC) No 3037/90 as well as certain EC Regulations on specific statistical domains ([OJ L 393, 30.12.2006, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.393.01.0001.01.ENG)).
 
-[^key-0b0a8664fdabd818af51c56ddfdd6277]: Textual amendment: Words in Art. 1(a) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/3/a)
+[^c-0b0a8664fdabd818af51c56ddfdd6277]: Textual amendment: Words in Art. 1(a) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(3)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/3/a)
 
-[^key-cf3afbdddebeb196f6a4611c1b669042]: Textual amendment: Words in Art. 1(b) omitted (18.10.2021) by virtue of [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/3/b)
+[^c-cf3afbdddebeb196f6a4611c1b669042]: Textual amendment: Words in Art. 1(b) omitted (18.10.2021) by virtue of [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(3)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/3/b)
 
-[^key-60b041b66c8472e0776458e86e259d1f]: Textual amendment: Arts. 1(ba)-(bc) inserted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/3/c)
+[^c-60b041b66c8472e0776458e86e259d1f]: Textual amendment: Arts. 1(ba)-(bc) inserted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(3)(c)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/3/c)
 
-[^key-2f1fb387541901c20653272b0066a48a]: Textual amendment: Words in Art. 1(c) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(3)(d)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/3/d)
+[^c-2f1fb387541901c20653272b0066a48a]: Textual amendment: Words in Art. 1(c) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(3)(d)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/3/d)
 
-[^key-91c3e8395348d8dffb585f1f805abab5]: Textual amendment: Art. 1(g) inserted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(3)(e)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/3/e)
+[^c-91c3e8395348d8dffb585f1f805abab5]: Textual amendment: Art. 1(g) inserted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(3)(e)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/3/e)
 
-[^key-047e13564bc55dc0e9ba744c02f1c5d7]: Textual amendment: Words in [Ch. 2 s. 1](https://www.legislation.gov.uk/eur/2020/1818/chapter/2/section/1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/a)
+[^c-047e13564bc55dc0e9ba744c02f1c5d7]: Textual amendment: Words in [Ch. 2 s. 1](https://www.legislation.gov.uk/eur/2020/1818/chapter/2/section/1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/a)
 
-[^key-99e836d678646147e820bc762b714fbd]: Textual amendment: Words in [Ch. 2 s. 1](https://www.legislation.gov.uk/eur/2020/1818/chapter/2/section/1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/b)
+[^c-99e836d678646147e820bc762b714fbd]: Textual amendment: Words in [Ch. 2 s. 1](https://www.legislation.gov.uk/eur/2020/1818/chapter/2/section/1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/b)
 
-[^key-79c9f3e4f53aae752a6f4d060b9474eb]: Textual amendment: Word in Art. 3 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(c)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/c)
+[^c-79c9f3e4f53aae752a6f4d060b9474eb]: Textual amendment: Word in Art. 3 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(c)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/c)
 
-[^key-a1c406c4f8863f207d2d487a02e47778]: Textual amendment: Word in Art. 5(1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(d)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/d)
+[^c-a1c406c4f8863f207d2d487a02e47778]: Textual amendment: Word in Art. 5(1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(d)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/d)
 
-[^key-846c16c1bb4cec46d92c28f7ecbb9177]: Textual amendment: Word in Art. 7(1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(e)(i)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/e/i)
+[^c-846c16c1bb4cec46d92c28f7ecbb9177]: Textual amendment: Word in Art. 7(1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(e)(i)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/e/i)
 
-[^key-4f0f54f4dd56560d6454845177870d4c]: Textual amendment: Words in Art. 7(5) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/e/ii/aa)
+[^c-4f0f54f4dd56560d6454845177870d4c]: Textual amendment: Words in Art. 7(5) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(e)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/e/ii/aa)
 
-[^key-7a5bc8ceaf8f9ddfff4aa6dc3f059e75]: Textual amendment: Words in Art. 7(5) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/e/ii/bb)
+[^c-7a5bc8ceaf8f9ddfff4aa6dc3f059e75]: Textual amendment: Words in Art. 7(5) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(e)(ii)(bb)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/e/ii/bb)
 
-[^key-fa4b88fdc442e8809ba61fa7624d5155]: Textual amendment: Words in Art. 8(1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(f)(i)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/f/i)
+[^c-fa4b88fdc442e8809ba61fa7624d5155]: Textual amendment: Words in Art. 8(1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(f)(i)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/f/i)
 
-[^key-3f07e5016459ed1ec8bad2494c0f9496]: Textual amendment: Words in Art. 8(1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(f)(ii)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/f/ii)
+[^c-3f07e5016459ed1ec8bad2494c0f9496]: Textual amendment: Words in Art. 8(1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(4)(f)(ii)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/4/f/ii)
 
-[^key-f363b9ebeda767d2dc62708261a2b699]: Textual amendment: Words in [Ch. 2 s. 2](https://www.legislation.gov.uk/eur/2020/1818/chapter/2/section/2) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/5)
+[^c-f363b9ebeda767d2dc62708261a2b699]: Textual amendment: Words in [Ch. 2 s. 2](https://www.legislation.gov.uk/eur/2020/1818/chapter/2/section/2) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/5)
 
-[^key-df4330a9eeb23440299bc5dcd77cb738]: Textual amendment: Words in Ch. 2 s. 3 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(6)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/6/a)
+[^c-df4330a9eeb23440299bc5dcd77cb738]: Textual amendment: Words in Ch. 2 s. 3 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(6)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/6/a)
 
-[^key-f53e7bbf7adcc6e44f0b3af814304764]: Textual amendment: Words in Art. 12(1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(6)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/6/b)
+[^c-f53e7bbf7adcc6e44f0b3af814304764]: Textual amendment: Words in Art. 12(1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(6)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/6/b)
 
 [^f00008]: Footnote: Regulation (EU) 2020/852 of the European Parliament and of the Council of 18 June 2020 on the establishment of a framework to facilitate sustainable investment, and amending Regulation (EU) 2019/2088 ([OJ L 198, 22.6.2020, p. 13](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2020.198.01.0013.01.ENG)).
 
-[^key-0d71935bb8a9cd55f7cf98feffe56be3]: Textual amendment: Words in Ch. 3 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(7)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/7/a)
+[^c-0d71935bb8a9cd55f7cf98feffe56be3]: Textual amendment: Words in Ch. 3 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(7)(a)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/7/a)
 
-[^key-7b2a7cb79fa2612eba697cac1d93cf6f]: Textual amendment: Words in Ch. 3 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(7)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/7/b)
+[^c-7b2a7cb79fa2612eba697cac1d93cf6f]: Textual amendment: Words in Ch. 3 substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(7)(b)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/7/b)
 
-[^key-209661a102eddd6541973b386f9a3dc0]: Textual amendment: Word in Art. 15(1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(8)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/8)
+[^c-209661a102eddd6541973b386f9a3dc0]: Textual amendment: Word in Art. 15(1) substituted (18.10.2021) by [The Markets in Financial Instruments, Benchmarks and Financial Promotions (Amendment) (EU Exit) Regulations 2021 (S.I. 2021/1074)](https://www.legislation.gov.uk/uksi/2021/1074), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/1/2), [6(8)](https://www.legislation.gov.uk/uksi/2021/1074/regulation/6/8)

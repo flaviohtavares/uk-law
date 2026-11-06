@@ -38,7 +38,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 ## PART 1 — Introductory provisions
 
-### 1. Overview[^key-e6c98016bb3d5e753df22090b39dfb74][^key-e6c98016bb3d5e753df22090b39dfb74]
+### 1. Overview[^c-e6c98016bb3d5e753df22090b39dfb74][^c-e6c98016bb3d5e753df22090b39dfb74]
 
 (1) This Act enables the matter of relief from payment of protected rent debts due from the tenant to the landlord under a business tenancy to be resolved by arbitration (if not resolved by agreement).
 
@@ -53,7 +53,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (a) affecting the capacity of the parties to a business tenancy to resolve by agreement, at any time, the matter of relief from payment of a protected rent debt (or any other matter relating to the tenancy), or
 - (b) preventing an agreement resolving the matter of relief from payment of a protected rent debt from having effect or being enforced.
 
-### 2. “Rent” and “business tenancy”[^key-2af89feca43d0f68d5da68421c5e1cd0][^key-2af89feca43d0f68d5da68421c5e1cd0]
+### 2. “Rent” and “business tenancy”[^c-2af89feca43d0f68d5da68421c5e1cd0][^c-2af89feca43d0f68d5da68421c5e1cd0]
 
 (1) “**Rent**”, in relation to a business tenancy, means an amount consisting of one or more of the following—
 
@@ -88,7 +88,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (7) “**Welsh business tenancy**” means a business tenancy comprising premises in Wales.
 
-### 3. “Protected rent debt”[^key-68e5356bc1590a771b97868002350c3c][^key-68e5356bc1590a771b97868002350c3c]
+### 3. “Protected rent debt”[^c-68e5356bc1590a771b97868002350c3c][^c-68e5356bc1590a771b97868002350c3c]
 
 (1) A “protected rent debt” is a debt under a business tenancy consisting of unpaid protected rent.
 
@@ -105,7 +105,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (6) An amount treated by section 2(4) as unpaid rent is to be regarded as unpaid protected rent if the rent debt that was satisfied (in whole or part) by drawing it down from the tenancy deposit would otherwise have been a protected rent debt.
 
-### 4. “Adversely affected by coronavirus”[^key-94eeb252767bb1146de20dc482c1c925][^key-94eeb252767bb1146de20dc482c1c925]
+### 4. “Adversely affected by coronavirus”[^c-94eeb252767bb1146de20dc482c1c925][^c-94eeb252767bb1146de20dc482c1c925]
 
 (1) A business tenancy was “**adversely affected by coronavirus**” for the purposes of section 3(2)(a) if, for any relevant period—
 
@@ -134,7 +134,7 @@ was of a description subject to a closure requirement.
 - (a) made under section 45C of the Public Health (Control of Disease) Act 1984 (whether or not also made under any other power), and
 - (b) expressed to be made in response to the threat to public health posed by the incidence or spread of coronavirus.
 
-### 5. “Protected period”[^key-30b49be8e9b2dcf737bf4133e7f3985a][^key-30b49be8e9b2dcf737bf4133e7f3985a]
+### 5. “Protected period”[^c-30b49be8e9b2dcf737bf4133e7f3985a][^c-30b49be8e9b2dcf737bf4133e7f3985a]
 
 (1) The “**protected period**”, in relation to a business tenancy adversely affected by coronavirus, is the period beginning with 21 March 2020 and ending with—
 
@@ -166,7 +166,7 @@ are not specific coronavirus restrictions.
 
 (5) In this section “**closure requirement**” and “**coronavirus regulations**” have the same meaning as in section 4.
 
-### 6. “The matter of relief from payment”[^key-c927e12380e0d151b8a12f538a35453f][^key-c927e12380e0d151b8a12f538a35453f]
+### 6. “The matter of relief from payment”[^c-c927e12380e0d151b8a12f538a35453f][^c-c927e12380e0d151b8a12f538a35453f]
 
 (1) References to the matter of relief from payment of a protected rent debt are to all issues relating to the questions—
 
@@ -183,7 +183,7 @@ are not specific coronavirus restrictions.
 
 ### Approved arbitration bodies
 
-#### 7. Approval of arbitration bodies[^key-5dca37515749364e886fb8327d4b6f34][^key-5dca37515749364e886fb8327d4b6f34]
+#### 7. Approval of arbitration bodies[^c-5dca37515749364e886fb8327d4b6f34][^c-5dca37515749364e886fb8327d4b6f34]
 
 *Extent: E+W*
 
@@ -204,7 +204,7 @@ are not specific coronavirus restrictions.
 
 (7) The Secretary of State must maintain and publish a list of approved arbitration bodies.
 
-#### 8. Functions of approved arbitration bodies[^key-255d674464e7aca4eded2a9fba10ae75][^key-255d674464e7aca4eded2a9fba10ae75]
+#### 8. Functions of approved arbitration bodies[^c-255d674464e7aca4eded2a9fba10ae75][^c-255d674464e7aca4eded2a9fba10ae75]
 
 *Extent: E+W*
 
@@ -244,7 +244,7 @@ are not specific coronavirus restrictions.
 
 *Extent: E+W*
 
-#### 9. Period for making a reference to arbitration[^key-53b283b93ee799148f90f258ed9a7ea2][^key-53b283b93ee799148f90f258ed9a7ea2]
+#### 9. Period for making a reference to arbitration[^c-53b283b93ee799148f90f258ed9a7ea2][^c-53b283b93ee799148f90f258ed9a7ea2]
 
 (1) This section applies where the tenant and the landlord under a business tenancy are not in agreement as to the resolution of the matter of relief from payment of a protected rent debt.
 
@@ -258,7 +258,7 @@ are not specific coronavirus restrictions.
 
 (4) A statutory instrument containing regulations under subsection (3) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-#### 10. Requirements for making a reference to arbitration[^key-c41a01024fce7a2119724996f9fb6fd7][^key-c41a01024fce7a2119724996f9fb6fd7]
+#### 10. Requirements for making a reference to arbitration[^c-c41a01024fce7a2119724996f9fb6fd7][^c-c41a01024fce7a2119724996f9fb6fd7]
 
 (1) Before making a reference to arbitration—
 
@@ -290,7 +290,7 @@ are not specific coronavirus restrictions.
 
 *Extent: E+W*
 
-#### 11. Proposals for resolving the matter of relief from payment[^key-9d413fbef896a03b7843e048cd796646][^key-9d413fbef896a03b7843e048cd796646]
+#### 11. Proposals for resolving the matter of relief from payment[^c-9d413fbef896a03b7843e048cd796646][^c-9d413fbef896a03b7843e048cd796646]
 
 (1) A reference to arbitration must include a formal proposal for resolving the matter of relief from payment of a protected rent debt.
 
@@ -313,7 +313,7 @@ are not specific coronavirus restrictions.
 - (b) expressed to be made for the purposes of this section, and
 - (c) given to the other party and the arbitrator.
 
-#### 12. Written statements[^key-53b5f3eaa10867d614593c848d8cb13a][^key-53b5f3eaa10867d614593c848d8cb13a]
+#### 12. Written statements[^c-53b5f3eaa10867d614593c848d8cb13a][^c-53b5f3eaa10867d614593c848d8cb13a]
 
 (1) This section applies to any written statement provided to the arbitrator by a party (whether made by the party or another person) which relates to a matter relevant to the arbitration.
 
@@ -325,7 +325,7 @@ are not specific coronavirus restrictions.
 
 *Extent: E+W*
 
-#### 13. Arbitration awards available[^key-b4e99139a4e236158ad967f2fc7176a1][^key-b4e99139a4e236158ad967f2fc7176a1]
+#### 13. Arbitration awards available[^c-b4e99139a4e236158ad967f2fc7176a1][^c-b4e99139a4e236158ad967f2fc7176a1]
 
 (1) This section sets out the awards open to the arbitrator on a reference under this Part.
 
@@ -354,7 +354,7 @@ the arbitrator must make an award dismissing the reference.
 - (a) considering whether the tenant should receive any relief from payment and, if so, what relief, and
 - (b) making an award in accordance with section 14.
 
-#### 14. Arbitrator’s award on the matter of relief from payment[^key-882b215fffb787f0d4894599d68a4ec8][^key-882b215fffb787f0d4894599d68a4ec8]
+#### 14. Arbitrator’s award on the matter of relief from payment[^c-882b215fffb787f0d4894599d68a4ec8][^c-882b215fffb787f0d4894599d68a4ec8]
 
 (1) This section applies where the arbitrator is considering how to resolve the matter of relief from payment of a protected rent debt as required by section 13(5).
 
@@ -396,7 +396,7 @@ the arbitrator must make an award dismissing the reference.
 - (a) the revised formal proposal put forward by a party under section 11(4), or
 - (b) if there is no revised formal proposal put forward by a party, the formal proposal put forward by the party under section 11(1) or (2).
 
-#### 15. Arbitrator’s principles[^key-caf25688c37e890106b8e3a570e21643][^key-caf25688c37e890106b8e3a570e21643]
+#### 15. Arbitrator’s principles[^c-caf25688c37e890106b8e3a570e21643][^c-caf25688c37e890106b8e3a570e21643]
 
 (1) The principles in this section are—
 
@@ -411,7 +411,7 @@ the arbitrator must make an award dismissing the reference.
 
 (3) For the purposes of this section, the landlord is “solvent” unless the landlord is, or is likely to become, unable to pay their debts as they fall due.
 
-#### 16. Arbitrator: assessment of “viability” and “solvency”[^key-7dd2115f2eb787749c92855b6139d845][^key-7dd2115f2eb787749c92855b6139d845]
+#### 16. Arbitrator: assessment of “viability” and “solvency”[^c-7dd2115f2eb787749c92855b6139d845][^c-7dd2115f2eb787749c92855b6139d845]
 
 (1) In assessing the viability of the business of the tenant, the arbitrator must, so far as known, have regard to—
 
@@ -430,7 +430,7 @@ the arbitrator must make an award dismissing the reference.
 - (a) borrowing money, or
 - (b) restructuring its business.
 
-#### 17. Timing of arbitrator’s award[^key-a7b6e368ba8eee75053d409e8000f36f][^key-a7b6e368ba8eee75053d409e8000f36f]
+#### 17. Timing of arbitrator’s award[^c-a7b6e368ba8eee75053d409e8000f36f][^c-a7b6e368ba8eee75053d409e8000f36f]
 
 (1) Subject to subsection (2), the arbitrator must make an award under section 14 as soon as reasonably practicable after—
 
@@ -446,7 +446,7 @@ the arbitrator must make an award dismissing the reference.
 
 (4) In this section “**final proposal**” has the same meaning as in section 14(11).
 
-#### 18. Publication of award[^key-32f61ee02eeb03737d731c5ecdb07464][^key-32f61ee02eeb03737d731c5ecdb07464]
+#### 18. Publication of award[^c-32f61ee02eeb03737d731c5ecdb07464][^c-32f61ee02eeb03737d731c5ecdb07464]
 
 (1) This section applies when the arbitrator has made an award on a reference under this Part.
 
@@ -463,7 +463,7 @@ the arbitrator must make an award dismissing the reference.
 
 *Extent: E+W*
 
-#### 19. Arbitration fees and expenses[^key-57bb0cf0326b5a79dfea82087270ad30][^key-57bb0cf0326b5a79dfea82087270ad30]
+#### 19. Arbitration fees and expenses[^c-57bb0cf0326b5a79dfea82087270ad30][^c-57bb0cf0326b5a79dfea82087270ad30]
 
 (1) In this section references to arbitration fees are to—
 
@@ -486,7 +486,7 @@ the arbitrator must make an award dismissing the reference.
 
 (9) In this section, “**applicant**” means the party which made the reference to arbitration.
 
-#### 20. Oral hearings[^key-cc90990c037b58070bb5898bc5324628][^key-cc90990c037b58070bb5898bc5324628]
+#### 20. Oral hearings[^c-cc90990c037b58070bb5898bc5324628][^c-cc90990c037b58070bb5898bc5324628]
 
 (1) An oral hearing must be held where either or both of the parties make a request to the arbitrator.
 
@@ -511,7 +511,7 @@ the arbitrator must make an award dismissing the reference.
 
 *Extent: E+W*
 
-#### 21. Guidance[^key-008b205a71041ea19dcd76490b0bd02d][^key-008b205a71041ea19dcd76490b0bd02d]
+#### 21. Guidance[^c-008b205a71041ea19dcd76490b0bd02d][^c-008b205a71041ea19dcd76490b0bd02d]
 
 (1) The Secretary of State may issue guidance to—
 
@@ -526,13 +526,13 @@ the arbitrator must make an award dismissing the reference.
 
 *Extent: E+W*
 
-#### 22. Modification of Part 1 of the Arbitration Act 1996[^key-83b2671512c3b686e2eece60bf51d829][^key-83b2671512c3b686e2eece60bf51d829]
+#### 22. Modification of Part 1 of the Arbitration Act 1996[^c-83b2671512c3b686e2eece60bf51d829][^c-83b2671512c3b686e2eece60bf51d829]
 
 Schedule 1 modifies Part 1 of the Arbitration Act 1996 in relation to arbitrations under this Part.
 
 ## PART 3 — Moratorium on certain remedies and insolvency arrangements
 
-### 23. Temporary moratorium on enforcement of protected rent debts[^key-2c92efbf3650c7a14b45c70cae4f42da][^key-2c92efbf3650c7a14b45c70cae4f42da]
+### 23. Temporary moratorium on enforcement of protected rent debts[^c-2c92efbf3650c7a14b45c70cae4f42da][^c-2c92efbf3650c7a14b45c70cae4f42da]
 
 *Extent: E+W*
 
@@ -568,7 +568,7 @@ Schedule 1 modifies Part 1 of the Arbitration Act 1996 in relation to arbitratio
 
 (5) In this section “**arbitration**” means arbitration under Part 2.
 
-### 24. Alteration of moratorium period[^key-f7f482911af8a2a5d35503c916dbbab2][^key-f7f482911af8a2a5d35503c916dbbab2]
+### 24. Alteration of moratorium period[^c-f7f482911af8a2a5d35503c916dbbab2][^c-f7f482911af8a2a5d35503c916dbbab2]
 
 *Extent: E+W*
 
@@ -589,7 +589,7 @@ Schedule 1 modifies Part 1 of the Arbitration Act 1996 in relation to arbitratio
 
 (7) A statutory instrument containing regulations under subsection (4) is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-### 25. Temporary restriction on initiating certain insolvency arrangements[^key-b9d461e760c69259863e589284dca125][^key-b9d461e760c69259863e589284dca125]
+### 25. Temporary restriction on initiating certain insolvency arrangements[^c-b9d461e760c69259863e589284dca125][^c-b9d461e760c69259863e589284dca125]
 
 (1) This section applies where the matter of relief from payment of a protected rent debt has been referred to arbitration.
 
@@ -608,7 +608,7 @@ Schedule 1 modifies Part 1 of the Arbitration Act 1996 in relation to arbitratio
 
 (4) This section, so far as relating to a company voluntary arrangement and a compromise or arrangement under section 899 or 901F of the Companies Act 2006, applies to limited liability partnerships (as well as to companies).
 
-### 26. Temporary restriction on initiating arbitration proceedings[^key-17070f49f6cbc522bfaf841264262a41][^key-17070f49f6cbc522bfaf841264262a41]
+### 26. Temporary restriction on initiating arbitration proceedings[^c-17070f49f6cbc522bfaf841264262a41][^c-17070f49f6cbc522bfaf841264262a41]
 
 *Extent: E+W*
 
@@ -616,7 +616,7 @@ Schedule 1 modifies Part 1 of the Arbitration Act 1996 in relation to arbitratio
 
 (2) In this section “**the moratorium period**” has the meaning given by section 23(2).
 
-### 27. Temporary restriction on winding-up petitions and petitions for bankruptcy orders[^key-fd46427343484cb641da825f2706767b]
+### 27. Temporary restriction on winding-up petitions and petitions for bankruptcy orders[^c-fd46427343484cb641da825f2706767b]
 
 *Extent: E+W+S*
 
@@ -624,7 +624,7 @@ Schedule 3 contains temporary provision in relation to winding up petitions and 
 
 ## PART 4 — Final provisions
 
-### 28. Power to apply Act in relation to future periods of coronavirus control[^key-15f554b8614629efc7bd0f05a548861c][^key-15f554b8614629efc7bd0f05a548861c]
+### 28. Power to apply Act in relation to future periods of coronavirus control[^c-15f554b8614629efc7bd0f05a548861c][^c-15f554b8614629efc7bd0f05a548861c]
 
 (1) The Secretary of State may by regulations provide for this Act (apart from this section) to apply again in relation to rent debts under business tenancies adversely affected by closure requirements.
 
@@ -676,7 +676,7 @@ is of a description subject to a closure requirement imposed at any time after 7
 - (a) are to be made by statutory instrument, and
 - (b) may not be made unless a draft of the statutory instrument containing them has been laid before and approved by a resolution of each House of Parliament.
 
-### 29. Concurrent power for Welsh Ministers to apply moratorium provisions again[^key-d542168a37824e74eac55b028865ac1f][^key-d542168a37824e74eac55b028865ac1f]
+### 29. Concurrent power for Welsh Ministers to apply moratorium provisions again[^c-d542168a37824e74eac55b028865ac1f][^c-d542168a37824e74eac55b028865ac1f]
 
 (1) The Welsh Ministers may exercise the power conferred by section 28, concurrently with the Secretary of State, so far as it relates to the re-application, in relation to Welsh business tenancies, of—
 
@@ -703,11 +703,11 @@ is of a description subject to a closure requirement imposed at any time after 7
   >
   > - (viii) section 28 of the Commercial Rent (Coronavirus) Act 2022.
 
-### 30. Crown application[^key-92484cbce12a34a712d79a93410adc7f][^key-92484cbce12a34a712d79a93410adc7f]
+### 30. Crown application[^c-92484cbce12a34a712d79a93410adc7f][^c-92484cbce12a34a712d79a93410adc7f]
 
 This Act binds the Crown (but without prejudice to section 2(5) which secures that the business tenancies to which this Act applies are those to which Part 2 of the Landlord and Tenant Act 1954 applies).
 
-### 31. Extent, commencement and short title[^key-1e86d18b5bd4d94466beaf30b8867f08][^key-1e86d18b5bd4d94466beaf30b8867f08]
+### 31. Extent, commencement and short title[^c-1e86d18b5bd4d94466beaf30b8867f08][^c-1e86d18b5bd4d94466beaf30b8867f08]
 
 (1) Parts 1 to 3 extend to England and Wales only (except as provided by subsections (2) and (3)).
 
@@ -741,7 +741,7 @@ SCHEDULES
 
 Section 22
 
-**1.**[^key-1457875b970624792014a0773c8f1192][^key-1457875b970624792014a0773c8f1192] Part 1 of the Arbitration Act 1996 has effect in relation to arbitrations under this Act as if the following were omitted—
+**1.**[^c-1457875b970624792014a0773c8f1192][^c-1457875b970624792014a0773c8f1192] Part 1 of the Arbitration Act 1996 has effect in relation to arbitrations under this Act as if the following were omitted—
 
 - (a) in section 14 (commencement of arbitral proceedings), subsections (1) and (2);
 - (b) in section 15 (arbitral tribunal), in subsection (1), the words “or umpire”;
@@ -765,7 +765,7 @@ Section 22
 - (r) in section 58 (effect of award), in subsection (1), the words “Unless otherwise agreed by the parties”;
 - (s) in section 68 (challenging the award: serious irregularity), in subsection (2)(e), the words “vested by the parties”.
 
-**2.**[^key-7e257c82fa9cb02a84baea23c606085d][^key-7e257c82fa9cb02a84baea23c606085d] Part 1 of the Arbitration Act 1996 has effect in relation to arbitrations under this Act as if —
+**2.**[^c-7e257c82fa9cb02a84baea23c606085d][^c-7e257c82fa9cb02a84baea23c606085d] Part 1 of the Arbitration Act 1996 has effect in relation to arbitrations under this Act as if —
 
 - (a) in section 20 (chairman), in subsection (3), at the beginning there were inserted “Where there is a chairman,”;
 - (b) in section 22 (decision-making where no chairman), in subsection (2) for “If there is no such agreement” there were substituted “Where there are two or more arbitrators with no chairman”;
@@ -777,7 +777,7 @@ Section 22
   - (i) in subsection (1), for “appoint or nominate” there were substituted “appoint, nominate or remove”;
   - (ii) in subsection (2), for “appointed or nominated”, in both places, there were substituted “appointed, nominated or removed”.
 
-**3.**[^key-47d16c882a1ac510bab29c8e98b55f9f][^key-47d16c882a1ac510bab29c8e98b55f9f] The modifications under paragraphs 1 and 2 are without prejudice to the operation of sections 94 to 98 of the Arbitration Act 1996 in relation to other provisions.
+**3.**[^c-47d16c882a1ac510bab29c8e98b55f9f][^c-47d16c882a1ac510bab29c8e98b55f9f] The modifications under paragraphs 1 and 2 are without prejudice to the operation of sections 94 to 98 of the Arbitration Act 1996 in relation to other provisions.
 
 ## SCHEDULE 2 — Temporary moratorium on enforcement of protected rent debts
 
@@ -785,7 +785,7 @@ Section 22
 
 Section 23
 
-### 1. Preliminary: interpretation[^key-5f88acb64cd4aae00749bef4357ade6a][^key-5f88acb64cd4aae00749bef4357ade6a]
+### 1. Preliminary: interpretation[^c-5f88acb64cd4aae00749bef4357ade6a][^c-5f88acb64cd4aae00749bef4357ade6a]
 
 (1) This Schedule applies in relation to a protected rent debt under a business tenancy.
 
@@ -797,13 +797,13 @@ Section 23
 - (d) “**the moratorium period**”, in relation to the protected debt, has the meaning given by section 23(2);
 - (e) a reference to doing something “in relation to” the protected debt includes, where appropriate, its being done on the basis of the debt.
 
-### 2. Making a debt claim[^key-ac90c98875ef39a72a97b1da9a2ed92d][^key-ac90c98875ef39a72a97b1da9a2ed92d]
+### 2. Making a debt claim[^c-ac90c98875ef39a72a97b1da9a2ed92d][^c-ac90c98875ef39a72a97b1da9a2ed92d]
 
 (1) The landlord may not, during the moratorium period for the debt, make a debt claim to enforce the protected debt.
 
 (2) In this paragraph “**debt claim**” means a claim to enforce a debt in civil proceedings (including by a counterclaim or any other way of claiming payment of a debt in such proceedings).
 
-### 3. Debt claims made before the day on which this Act is passed[^key-cab688467ef291e550169108dcf68080][^key-cab688467ef291e550169108dcf68080]
+### 3. Debt claims made before the day on which this Act is passed[^c-cab688467ef291e550169108dcf68080][^c-cab688467ef291e550169108dcf68080]
 
 (1) This paragraph applies to proceedings on a debt claim which—
 
@@ -841,7 +841,7 @@ the officer must send a request to the registrar to cancel the entry in the regi
   - (b) a person other than the tenant who is liable on an indemnity basis for the payment of rent under a business tenancy, and
   - (c) a former tenant who is liable for the payment of rent under a business tenancy.
 
-### 4. Using CRAR (the commercial rent arrears recovery power)[^key-9ca5d237fb35728888c5a79b187c3f0a][^key-9ca5d237fb35728888c5a79b187c3f0a]
+### 4. Using CRAR (the commercial rent arrears recovery power)[^c-9ca5d237fb35728888c5a79b187c3f0a][^c-9ca5d237fb35728888c5a79b187c3f0a]
 
 (1) The landlord may not, during the moratorium period for the protected debt, use CRAR in relation to the debt.
 
@@ -859,7 +859,7 @@ the officer must send a request to the registrar to cancel the entry in the regi
 >
 > - (c) it is not excluded from recovery using CRAR by paragraph 4 of Schedule 2 to the Commercial Rent (Coronavirus) Act 2022 (temporary moratorium on enforcement of protected rent debts).
 
-### 5. Enforcing a right of re-entry or forfeiture[^key-dc475261294f51f4c6cb23802fcfdcb3][^key-dc475261294f51f4c6cb23802fcfdcb3]
+### 5. Enforcing a right of re-entry or forfeiture[^c-dc475261294f51f4c6cb23802fcfdcb3][^c-dc475261294f51f4c6cb23802fcfdcb3]
 
 (1) The landlord may not, during the moratorium period for the protected debt, enforce, by action or otherwise, a right of re-entry or forfeiture for non-payment of the debt.
 
@@ -867,14 +867,14 @@ the officer must send a request to the registrar to cancel the entry in the regi
 
 (3) For the purposes of determining whether the ground mentioned in section 30(1)(b) of the Landlord and Tenant Act 1954 (persistent delay in paying rent which has become due) is established in relation to the business tenancy, any failure to pay the debt during the moratorium period is to be disregarded.
 
-**6.**[^key-1ee5236551b7fe987c97ce9d375e2064] (1) This paragraph applies where—
+**6.**[^c-1ee5236551b7fe987c97ce9d375e2064] (1) This paragraph applies where—
 
 - (a) a superior landlord enforces, by action or otherwise, a right of re-entry or forfeiture in relation to a superior tenancy during the moratorium period, and
 - (b) the tenant applies for relief from forfeiture in relation to its interest in the property comprised in the tenancy.
 
 (2) For the purposes of determining whether to grant the tenant relief from forfeiture and, if so, the terms of such relief, the court must disregard any failure to pay the protected rent debt.
 
-### 7. Using landlord’s right to appropriate rent[^key-7ddb0be3f985770d5dcf887592bc8172][^key-7ddb0be3f985770d5dcf887592bc8172]
+### 7. Using landlord’s right to appropriate rent[^c-7ddb0be3f985770d5dcf887592bc8172][^c-7ddb0be3f985770d5dcf887592bc8172]
 
 (1) This paragraph applies in relation to a payment of rent under a business tenancy which is paid during the moratorium period for the debt at a time when—
 
@@ -888,7 +888,7 @@ the officer must send a request to the registrar to cancel the entry in the regi
 - (a) rent that is not protected rent, or
 - (b) interest on rent that is not protected rent.
 
-**8.**[^key-f05aa866a605aefa62e608ceacbc0579] (1) This paragraph applies in relation to any payment of rent under a business tenancy which was paid during the period mentioned in sub-paragraph (2) at a time when—
+**8.**[^c-f05aa866a605aefa62e608ceacbc0579] (1) This paragraph applies in relation to any payment of rent under a business tenancy which was paid during the period mentioned in sub-paragraph (2) at a time when—
 
 - (a) the tenant owed the landlord an unprotected rent debt in addition to the debt, and
 - (b) the tenant had not exercised the tenant’s right to appropriate the payment to any particular rent debt.
@@ -907,7 +907,7 @@ the officer must send a request to the registrar to cancel the entry in the regi
 
 (5) In this paragraph “**unprotected rent debt**” has the same meaning as in paragraph 7.
 
-### 9. Using tenant’s deposit to apply towards unpaid rent debt[^key-f95ea14bf677ba061613f5914c35b640][^key-f95ea14bf677ba061613f5914c35b640]
+### 9. Using tenant’s deposit to apply towards unpaid rent debt[^c-f95ea14bf677ba061613f5914c35b640][^c-f95ea14bf677ba061613f5914c35b640]
 
 (1) This paragraph applies where a tenancy deposit is available to the landlord for the purpose of applying towards an unpaid rent debt.
 
@@ -921,7 +921,7 @@ the officer must send a request to the registrar to cancel the entry in the regi
 
 Section 27
 
-### 1. Prohibition on presenting a winding-up petition solely in relation to a protected rent debt[^key-299baa558aa96a9393521eded8b300ab]
+### 1. Prohibition on presenting a winding-up petition solely in relation to a protected rent debt[^c-299baa558aa96a9393521eded8b300ab]
 
 (1) This paragraph applies where a landlord under a business tenancy is owed a protected rent debt and the tenant is a company.
 
@@ -940,7 +940,7 @@ unless the landlord is owed a debt by the company which is not a protected rent 
 
 (4) This paragraph, so far as relating to registered companies, applies to limited liability partnerships.
 
-### 2. Prohibition on presenting a bankruptcy order petition in relation to a protected rent debt[^key-0628aa0af1ee0abf859f6d6bf2169d55][^key-0628aa0af1ee0abf859f6d6bf2169d55]
+### 2. Prohibition on presenting a bankruptcy order petition in relation to a protected rent debt[^c-0628aa0af1ee0abf859f6d6bf2169d55][^c-0628aa0af1ee0abf859f6d6bf2169d55]
 
 *Extent: E+W*
 
@@ -962,7 +962,7 @@ unless the landlord is owed a debt by the company which is not a protected rent 
 
 (9) This paragraph is to be regarded as having come into force on 10 November 2021.
 
-### 3. Bankruptcy orders made before the day on which this Act is passed[^key-3fc5c22ad8fe7614bdf96548e0c3f07e][^key-3fc5c22ad8fe7614bdf96548e0c3f07e]
+### 3. Bankruptcy orders made before the day on which this Act is passed[^c-3fc5c22ad8fe7614bdf96548e0c3f07e][^c-3fc5c22ad8fe7614bdf96548e0c3f07e]
 
 *Extent: E+W*
 
@@ -985,7 +985,7 @@ unless the landlord is owed a debt by the company which is not a protected rent 
 
 the trustee, official receiver, interim receiver or special manager must refer the matter to the court to determine whether to make such an order or give such directions.
 
-### 4. Interpretation[^key-f50236989cdc38060c46c2301377a9be][^key-f50236989cdc38060c46c2301377a9be]
+### 4. Interpretation[^c-f50236989cdc38060c46c2301377a9be][^c-f50236989cdc38060c46c2301377a9be]
 
 *Extent: E+W*
 
@@ -1003,96 +1003,96 @@ the trustee, official receiver, interim receiver or special manager must refer t
 
 ## Annotations
 
-[^key-e6c98016bb3d5e753df22090b39dfb74]: Commencement: S. 1 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-e6c98016bb3d5e753df22090b39dfb74]: Commencement: S. 1 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-2af89feca43d0f68d5da68421c5e1cd0]: Commencement: S. 2 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-2af89feca43d0f68d5da68421c5e1cd0]: Commencement: S. 2 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-68e5356bc1590a771b97868002350c3c]: Commencement: S. 3 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-68e5356bc1590a771b97868002350c3c]: Commencement: S. 3 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-94eeb252767bb1146de20dc482c1c925]: Commencement: S. 4 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-94eeb252767bb1146de20dc482c1c925]: Commencement: S. 4 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-30b49be8e9b2dcf737bf4133e7f3985a]: Commencement: S. 5 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-30b49be8e9b2dcf737bf4133e7f3985a]: Commencement: S. 5 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-c927e12380e0d151b8a12f538a35453f]: Commencement: S. 6 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-c927e12380e0d151b8a12f538a35453f]: Commencement: S. 6 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-5dca37515749364e886fb8327d4b6f34]: Commencement: S. 7 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-5dca37515749364e886fb8327d4b6f34]: Commencement: S. 7 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-255d674464e7aca4eded2a9fba10ae75]: Commencement: S. 8 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-255d674464e7aca4eded2a9fba10ae75]: Commencement: S. 8 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-53b283b93ee799148f90f258ed9a7ea2]: Commencement: S. 9 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-53b283b93ee799148f90f258ed9a7ea2]: Commencement: S. 9 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-c41a01024fce7a2119724996f9fb6fd7]: Commencement: S. 10 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-c41a01024fce7a2119724996f9fb6fd7]: Commencement: S. 10 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-9d413fbef896a03b7843e048cd796646]: Commencement: S. 11 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-9d413fbef896a03b7843e048cd796646]: Commencement: S. 11 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-53b5f3eaa10867d614593c848d8cb13a]: Commencement: S. 12 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-53b5f3eaa10867d614593c848d8cb13a]: Commencement: S. 12 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-b4e99139a4e236158ad967f2fc7176a1]: Commencement: S. 13 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-b4e99139a4e236158ad967f2fc7176a1]: Commencement: S. 13 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-882b215fffb787f0d4894599d68a4ec8]: Commencement: S. 14 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-882b215fffb787f0d4894599d68a4ec8]: Commencement: S. 14 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-caf25688c37e890106b8e3a570e21643]: Commencement: S. 15 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-caf25688c37e890106b8e3a570e21643]: Commencement: S. 15 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-7dd2115f2eb787749c92855b6139d845]: Commencement: S. 16 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-7dd2115f2eb787749c92855b6139d845]: Commencement: S. 16 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-a7b6e368ba8eee75053d409e8000f36f]: Commencement: S. 17 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-a7b6e368ba8eee75053d409e8000f36f]: Commencement: S. 17 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-32f61ee02eeb03737d731c5ecdb07464]: Commencement: S. 18 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-32f61ee02eeb03737d731c5ecdb07464]: Commencement: S. 18 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-57bb0cf0326b5a79dfea82087270ad30]: Commencement: S. 19 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-57bb0cf0326b5a79dfea82087270ad30]: Commencement: S. 19 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-cc90990c037b58070bb5898bc5324628]: Commencement: S. 20 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-cc90990c037b58070bb5898bc5324628]: Commencement: S. 20 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-008b205a71041ea19dcd76490b0bd02d]: Commencement: S. 21 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-008b205a71041ea19dcd76490b0bd02d]: Commencement: S. 21 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-83b2671512c3b686e2eece60bf51d829]: Commencement: S. 22 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-83b2671512c3b686e2eece60bf51d829]: Commencement: S. 22 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-2c92efbf3650c7a14b45c70cae4f42da]: Commencement: S. 23 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-2c92efbf3650c7a14b45c70cae4f42da]: Commencement: S. 23 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-f7f482911af8a2a5d35503c916dbbab2]: Commencement: S. 24 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-f7f482911af8a2a5d35503c916dbbab2]: Commencement: S. 24 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-b9d461e760c69259863e589284dca125]: Commencement: S. 25 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-b9d461e760c69259863e589284dca125]: Commencement: S. 25 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-17070f49f6cbc522bfaf841264262a41]: Commencement: S. 26 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-17070f49f6cbc522bfaf841264262a41]: Commencement: S. 26 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-fd46427343484cb641da825f2706767b]: Commencement: S. 27 in force at 1.4.2022 for specified purposes, see [s. 31(5)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/5)
+[^c-fd46427343484cb641da825f2706767b]: Commencement: S. 27 in force at 1.4.2022 for specified purposes, see [s. 31(5)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/5)
 
-[^key-15f554b8614629efc7bd0f05a548861c]: Commencement: S. 28 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-15f554b8614629efc7bd0f05a548861c]: Commencement: S. 28 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-d542168a37824e74eac55b028865ac1f]: Commencement: S. 29 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-d542168a37824e74eac55b028865ac1f]: Commencement: S. 29 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-92484cbce12a34a712d79a93410adc7f]: Commencement: S. 30 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-92484cbce12a34a712d79a93410adc7f]: Commencement: S. 30 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-1e86d18b5bd4d94466beaf30b8867f08]: Commencement: S. 31 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-1e86d18b5bd4d94466beaf30b8867f08]: Commencement: S. 31 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-1457875b970624792014a0773c8f1192]: Commencement: Sch. 1 para. 1 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-1457875b970624792014a0773c8f1192]: Commencement: Sch. 1 para. 1 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-7e257c82fa9cb02a84baea23c606085d]: Commencement: Sch. 1 para. 2 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-7e257c82fa9cb02a84baea23c606085d]: Commencement: Sch. 1 para. 2 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-47d16c882a1ac510bab29c8e98b55f9f]: Commencement: Sch. 1 para. 3 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-47d16c882a1ac510bab29c8e98b55f9f]: Commencement: Sch. 1 para. 3 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-5f88acb64cd4aae00749bef4357ade6a]: Commencement: Sch. 2 para. 1 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-5f88acb64cd4aae00749bef4357ade6a]: Commencement: Sch. 2 para. 1 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-ac90c98875ef39a72a97b1da9a2ed92d]: Commencement: Sch. 2 para. 2 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-ac90c98875ef39a72a97b1da9a2ed92d]: Commencement: Sch. 2 para. 2 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-cab688467ef291e550169108dcf68080]: Commencement: Sch. 2 para. 3 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-cab688467ef291e550169108dcf68080]: Commencement: Sch. 2 para. 3 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-9ca5d237fb35728888c5a79b187c3f0a]: Commencement: Sch. 2 para. 4 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-9ca5d237fb35728888c5a79b187c3f0a]: Commencement: Sch. 2 para. 4 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-dc475261294f51f4c6cb23802fcfdcb3]: Commencement: Sch. 2 para. 5 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-dc475261294f51f4c6cb23802fcfdcb3]: Commencement: Sch. 2 para. 5 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-1ee5236551b7fe987c97ce9d375e2064]: Commencement: Sch. 2 para. 6 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-1ee5236551b7fe987c97ce9d375e2064]: Commencement: Sch. 2 para. 6 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-7ddb0be3f985770d5dcf887592bc8172]: Commencement: Sch. 2 para. 7 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-7ddb0be3f985770d5dcf887592bc8172]: Commencement: Sch. 2 para. 7 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-f05aa866a605aefa62e608ceacbc0579]: Commencement: Sch. 2 para. 8 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-f05aa866a605aefa62e608ceacbc0579]: Commencement: Sch. 2 para. 8 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-f95ea14bf677ba061613f5914c35b640]: Commencement: Sch. 2 para. 9 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-f95ea14bf677ba061613f5914c35b640]: Commencement: Sch. 2 para. 9 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-299baa558aa96a9393521eded8b300ab]: Commencement: Sch. 3 para. 1 in force at 1.4.2022, see [s. 31(5)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/5)
+[^c-299baa558aa96a9393521eded8b300ab]: Commencement: Sch. 3 para. 1 in force at 1.4.2022, see [s. 31(5)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/5)
 
-[^key-0628aa0af1ee0abf859f6d6bf2169d55]: Commencement: Sch. 3 para. 2 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-0628aa0af1ee0abf859f6d6bf2169d55]: Commencement: Sch. 3 para. 2 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-3fc5c22ad8fe7614bdf96548e0c3f07e]: Commencement: Sch. 3 para. 3 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-3fc5c22ad8fe7614bdf96548e0c3f07e]: Commencement: Sch. 3 para. 3 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
 
-[^key-f50236989cdc38060c46c2301377a9be]: Commencement: Sch. 3 para. 4 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)
+[^c-f50236989cdc38060c46c2301377a9be]: Commencement: Sch. 3 para. 4 in force at Royal Assent, see [s. 31(4)](https://www.legislation.gov.uk/ukpga/2022/12/section/31/4)

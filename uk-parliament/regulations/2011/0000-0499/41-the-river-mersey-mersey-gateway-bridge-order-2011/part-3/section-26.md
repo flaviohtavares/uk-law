@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 26. Open Space at Widnes[^key-376dd924abdfd9aadf0cf316148a693c]
+## 26. Open Space at Widnes[^c-376dd924abdfd9aadf0cf316148a693c]
 
 *Extent: E+W+S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-376dd924abdfd9aadf0cf316148a693c]: Commencement: Art. 26 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)
+[^c-376dd924abdfd9aadf0cf316148a693c]: Commencement: Art. 26 in force at 1.2.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1)

@@ -50,17 +50,17 @@ The Secretary of State makes this Order in exercise of the powers conferred by s
 
 In accordance with section 34(5) of that Act, the Secretary of State has consulted those persons the Secretary of State considers appropriate.
 
-## 1. Citation, commencement and extent and application[^key-46765ff511ea82d9e88edd4a9665457a]
+## 1. Citation, commencement and extent and application[^c-46765ff511ea82d9e88edd4a9665457a]
 
 (1) This Order may be cited as the Firefighters’ Pension Scheme (England) (Amendment) Order 2026.
 
-(2) This Order comes into force on 1st April 2026[^key-fbe9e16407f03c2fed4000eb0cead7c6].
+(2) This Order comes into force on 1st April 2026[^c-fbe9e16407f03c2fed4000eb0cead7c6].
 
 (3) This Order extends to England and Wales.
 
 (4) This Order applies in relation to England only.
 
-## 2. Amendment of the Firefighters’ Pension Scheme (England) Order 2006[^key-8db068c0c9c555979a00a84d995a20ce]
+## 2. Amendment of the Firefighters’ Pension Scheme (England) Order 2006[^c-8db068c0c9c555979a00a84d995a20ce]
 
 Schedule 1 to the Firefighters’ Pension Scheme (England) Order 2006 (the New Firefighters’ Pension Scheme (England))[^f00002] is amended in accordance with the Schedule to this Order.
 
@@ -78,7 +78,7 @@ at 11.05 a.m. on 11th March 2026
 
 Article 2
 
-**1.**[^key-742857a18f6aa2c4d1d903f3546ec18f] (1) Part 1 (citation and interpretation) is amended as follows.
+**1.**[^c-742857a18f6aa2c4d1d903f3546ec18f] (1) Part 1 (citation and interpretation) is amended as follows.
 
 (2) In rule 2 (interpretation)[^f00003]—
 
@@ -97,11 +97,11 @@ Article 2
 
 .
 
-**2.**[^key-5c5c8c51fabedf6430a1fa957d898644] (1) Part 3 (personal awards) is amended as follows.
+**2.**[^c-5c5c8c51fabedf6430a1fa957d898644] (1) Part 3 (personal awards) is amended as follows.
 
 (2) In rule 1A(8) (special member’s ordinary pension)[^f00005], after “Part 11” insert “and rules 17 and 18 of Part 12”.
 
-**3.**[^key-e9ec98010579851af8ff4faa34e816dd] (1) Part 5 (awards on death) is amended as follows.
+**3.**[^c-e9ec98010579851af8ff4faa34e816dd] (1) Part 5 (awards on death) is amended as follows.
 
 (2) In rule 1B (death grant for extended limited period)[^f00006]—
 
@@ -244,11 +244,11 @@ Article 2
 
 .
 
-**4.**[^key-16d449edf6ee179727c027f1e9448a0c] (1) Part 11 (pensionable pay, pension contributions and purchase of additional service) is amended as follows.
+**4.**[^c-16d449edf6ee179727c027f1e9448a0c] (1) Part 11 (pensionable pay, pension contributions and purchase of additional service) is amended as follows.
 
 (2) In rule 6B (election to purchase service during the limited period or the extended limited period: supplemental provision)[^f00007], in paragraphs (13) and (14), for “after 31st March 2025” substitute “any later than 1st April 2027.”.
 
-**5.**[^key-ca96687923151d40b29d46ac2d76f989] (1) Part 12 (transfers into and out of the scheme) is amended as follows.
+**5.**[^c-ca96687923151d40b29d46ac2d76f989] (1) Part 12 (transfers into and out of the scheme) is amended as follows.
 
 (2) In rule 17(1) (converting membership from standard membership to special membership), for sub-paragraph (a) substitute—
 
@@ -316,7 +316,7 @@ Article 2
 
 .
 
-**6.**[^key-42dcacef156330489bde2402fa7e6751] (1) Part 15 (miscellaneous provisions) is amended as follows.
+**6.**[^c-42dcacef156330489bde2402fa7e6751] (1) Part 15 (miscellaneous provisions) is amended as follows.
 
 (2) After rule 6 (death on or before 31st March 2007 of retained or volunteer firefighter employed before 6th April 2006) insert—
 
@@ -393,36 +393,36 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2004 c. 21](https://www.legislation.gov.uk/ukpga/2004/21). There are amending instruments but none is relevant.
 
-[^key-46765ff511ea82d9e88edd4a9665457a]: Commencement: Art. 1 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
+[^c-46765ff511ea82d9e88edd4a9665457a]: Commencement: Art. 1 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
 
-[^key-fbe9e16407f03c2fed4000eb0cead7c6]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2) substituted (31.3.2026) by The Firefighters’ [Pension Scheme (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/301)](https://www.legislation.gov.uk/uksi/2026/301), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/301/article/1/1), [2](https://www.legislation.gov.uk/uksi/2026/301/article/2)
+[^c-fbe9e16407f03c2fed4000eb0cead7c6]: Textual amendment: Words in [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2) substituted (31.3.2026) by The Firefighters’ [Pension Scheme (England) (Amendment) (No. 2) Order 2026 (S.I. 2026/301)](https://www.legislation.gov.uk/uksi/2026/301), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/301/article/1/1), [2](https://www.legislation.gov.uk/uksi/2026/301/article/2)
 
-[^key-8db068c0c9c555979a00a84d995a20ce]: Commencement: Art. 2 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
+[^c-8db068c0c9c555979a00a84d995a20ce]: Commencement: Art. 2 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
 
 [^f00002]: Footnote: [S.I. 2006/3432](https://www.legislation.gov.uk/uksi/2006/3432), amended by [S.I. 2008/213](https://www.legislation.gov.uk/uksi/2008/213), [2010/234](https://www.legislation.gov.uk/uksi/2010/234), [2012/954](https://www.legislation.gov.uk/uksi/2012/954), [2012/2988](https://www.legislation.gov.uk/uksi/2012/2988), [2013/704](https://www.legislation.gov.uk/uksi/2013/704), [2013/1393](https://www.legislation.gov.uk/uksi/2013/1393), [2014/445](https://www.legislation.gov.uk/uksi/2014/445), [2014/560](https://www.legislation.gov.uk/uksi/2014/560), [2015/589](https://www.legislation.gov.uk/uksi/2015/589), [2015/590](https://www.legislation.gov.uk/uksi/2015/590), [2017/892](https://www.legislation.gov.uk/uksi/2017/892), [2018/269](https://www.legislation.gov.uk/uksi/2018/269), [2018/997](https://www.legislation.gov.uk/uksi/2018/997), [2020/354](https://www.legislation.gov.uk/uksi/2020/354), [2023/986](https://www.legislation.gov.uk/uksi/2023/986), [2023/1267](https://www.legislation.gov.uk/uksi/2023/1267).
 
-[^key-742857a18f6aa2c4d1d903f3546ec18f]: Commencement: Sch. para. 1 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
+[^c-742857a18f6aa2c4d1d903f3546ec18f]: Commencement: Sch. para. 1 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
 
 [^f00003]: Footnote: Substituted by [S.I. 2014/445](https://www.legislation.gov.uk/uksi/2014/445) and [S.I. 2023/986](https://www.legislation.gov.uk/uksi/2023/986).
 
 [^f00004]: Footnote: Substituted by [S.I. 2014/445](https://www.legislation.gov.uk/uksi/2014/445).
 
-[^key-5c5c8c51fabedf6430a1fa957d898644]: Commencement: Sch. para. 2 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
+[^c-5c5c8c51fabedf6430a1fa957d898644]: Commencement: Sch. para. 2 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
 
 [^f00005]: Footnote: [S.I. 2014/445](https://www.legislation.gov.uk/uksi/2014/445).
 
-[^key-e9ec98010579851af8ff4faa34e816dd]: Commencement: Sch. para. 3 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
+[^c-e9ec98010579851af8ff4faa34e816dd]: Commencement: Sch. para. 3 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
 
 [^f00006]: Footnote: [S.I. 2014/445](https://www.legislation.gov.uk/uksi/2014/445) and [S.I. 2023/986](https://www.legislation.gov.uk/uksi/2023/986).
 
-[^key-16d449edf6ee179727c027f1e9448a0c]: Commencement: Sch. para. 4 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
+[^c-16d449edf6ee179727c027f1e9448a0c]: Commencement: Sch. para. 4 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
 
 [^f00007]: Footnote: [S.I. 2014/445](https://www.legislation.gov.uk/uksi/2014/445), amended by [S.I. 2023/986](https://www.legislation.gov.uk/uksi/2023/986); there are other amending instruments but none is relevant.
 
-[^key-ca96687923151d40b29d46ac2d76f989]: Commencement: Sch. para. 5 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
+[^c-ca96687923151d40b29d46ac2d76f989]: Commencement: Sch. para. 5 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
 
 [^f00008]: Footnote: [S.I. 2014/445](https://www.legislation.gov.uk/uksi/2014/445) and [S.I. 2023/986](https://www.legislation.gov.uk/uksi/2023/986).
 
-[^key-42dcacef156330489bde2402fa7e6751]: Commencement: Sch. para. 6 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
+[^c-42dcacef156330489bde2402fa7e6751]: Commencement: Sch. para. 6 in force at 1.4.2026 (as amended by S.I. 2026/301, art. 2), see [art. 1(2)](https://www.legislation.gov.uk/uksi/2026/281/article/1/2)
 
 [^f00009]: Footnote: [S.I. 2023/986](https://www.legislation.gov.uk/uksi/2023/986).

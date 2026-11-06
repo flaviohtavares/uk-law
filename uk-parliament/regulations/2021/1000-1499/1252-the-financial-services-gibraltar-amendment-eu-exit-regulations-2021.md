@@ -34,7 +34,7 @@ Exiting The European Union
 
 Financial Services
 
-The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2021 (revoked)[^key-16db9fb1c3e2aee7d17e8beee25dc02d]
+The Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2021 (revoked)[^c-16db9fb1c3e2aee7d17e8beee25dc02d]
 
 Made
 
@@ -48,22 +48,22 @@ Coming into force
 
 15th December 2021
 
-[^key-16db9fb1c3e2aee7d17e8beee25dc02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16db9fb1c3e2aee7d17e8beee25dc02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-16db9fb1c3e2aee7d17e8beee25dc02d]
+## 1. Citation and commencement[^c-16db9fb1c3e2aee7d17e8beee25dc02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019[^key-16db9fb1c3e2aee7d17e8beee25dc02d]
+## 2. Amendment of the Financial Services (Gibraltar) (Amendment) (EU Exit) Regulations 2019[^c-16db9fb1c3e2aee7d17e8beee25dc02d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16db9fb1c3e2aee7d17e8beee25dc02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16db9fb1c3e2aee7d17e8beee25dc02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-16db9fb1c3e2aee7d17e8beee25dc02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-16db9fb1c3e2aee7d17e8beee25dc02d]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-16db9fb1c3e2aee7d17e8beee25dc02d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1252) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)
+[^c-16db9fb1c3e2aee7d17e8beee25dc02d]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2021/1252) revoked (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2) (with [s. 1(4)](https://www.legislation.gov.uk/ukpga/2023/29/section/1/4)); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 3(b)](https://www.legislation.gov.uk/uksi/2023/779/regulation/3/b), [Sch.](https://www.legislation.gov.uk/uksi/2023/779/schedule)

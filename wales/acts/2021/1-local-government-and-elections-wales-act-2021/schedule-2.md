@@ -38,16 +38,16 @@ summary: ''
   - (ii) after “2013 (anaw 4)” insert “ , or by regulations under paragraph 9 or 10 of Schedule 1 to the Local Government and Elections (Wales) Act 2021 ”;
 - (c) in subsection (3) for “division” substitute “ ward ”.
 
-(3)[^key-7fd4ad906acacb335c28d1f22f4822ff] In section 80 (disqualifications for election and holding office as member of local authority)—
+(3)[^c-7fd4ad906acacb335c28d1f22f4822ff] In section 80 (disqualifications for election and holding office as member of local authority)—
 
 - (a) in subsection (1), after “local authority”, where it first occurs, insert “ in England ”;
 - (b) in subsection (2), after “paid officer of a local authority” insert “ in England ”;
 - (c) omit subsection (3B);
 - (d) in the heading, for “local authority” substitute “ a local authority in England ”.
 
-(4)[^key-7fd4ad906acacb335c28d1f22f4822ff] In section 86(1)(b) (declaration of vacancy of local authority member), after “otherwise than under” insert “ section 80A(1)(c) of this Act, ”.
+(4)[^c-7fd4ad906acacb335c28d1f22f4822ff] In section 86(1)(b) (declaration of vacancy of local authority member), after “otherwise than under” insert “ section 80A(1)(c) of this Act, ”.
 
-(5)[^key-7fd4ad906acacb335c28d1f22f4822ff] In section 87(1)(date of casual vacancies), after paragraph (d) insert—
+(5)[^c-7fd4ad906acacb335c28d1f22f4822ff] In section 87(1)(date of casual vacancies), after paragraph (d) insert—
 
 > - (da) in the case of disqualification of a member of a local authority in Wales under paragraph (c) of section 80A(1), on the date on which the person becomes disqualified under that paragraph;
 
@@ -55,14 +55,14 @@ summary: ''
 
 (6) In section 89 (filling of casual vacancies in case of councillors), in subsection (6), at the end, insert “ in the case of a parish council or, in the case of a community council, made under section 36A of the 1983 Act ”.
 
-(7)[^key-7fd4ad906acacb335c28d1f22f4822ff] In section 116 (members of local authorities not to be appointed as officers)—
+(7)[^c-7fd4ad906acacb335c28d1f22f4822ff] In section 116 (members of local authorities not to be appointed as officers)—
 
 - (a) after “local authority”, in both places where it occurs, insert “ in England ”;
 - (b) in the heading, after “local authorities” insert “ in England ”.
 
-(8)[^key-aef47d731ab4d3b613fdc3405b76752f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-aef47d731ab4d3b613fdc3405b76752f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(9)[^key-0b587fff948615d376140da3147e3902] In this Act, omit paragraph 2 of Schedule 6 (modification of sections 80 and 116 of the 1972 Act relating to assistants to the executive).
+(9)[^c-0b587fff948615d376140da3147e3902] In this Act, omit paragraph 2 of Schedule 6 (modification of sections 80 and 116 of the 1972 Act relating to assistants to the executive).
 
 #### Representation of the People Act 1983 (c. 2)
 
@@ -210,7 +210,7 @@ summary: ''
 
 #### Local Government and Housing Act 1989 (c. 42)
 
-**5.**[^key-35aa5b6475b8c5607c0903309b0529e2] In section 12 of the Local Government and Housing Act 1989 (conflict of interest in staff negotiations), in subsection (2) after “section 80(1)(a)” insert “ or section 80C(1) ”.
+**5.**[^c-35aa5b6475b8c5607c0903309b0529e2] In section 12 of the Local Government and Housing Act 1989 (conflict of interest in staff negotiations), in subsection (2) after “section 80(1)(a)” insert “ or section 80C(1) ”.
 
 #### Local Government (Wales) Act 1994 (c. 19)
 
@@ -272,7 +272,7 @@ summary: ''
 
 #### Local Government and Public Involvement in Health Act 2007 (c. 28)
 
-**13.**[^key-7f97e8664f4ae1058df7b238b2c2235e] (1) The Local Government and Public Involvement in Health Act 2007 is amended as follows.
+**13.**[^c-7f97e8664f4ae1058df7b238b2c2235e] (1) The Local Government and Public Involvement in Health Act 2007 is amended as follows.
 
 (2) In section 218 (definition of certain terms in enactments)—
 
@@ -389,7 +389,7 @@ summary: ''
 
 #### Local Elections (Principal Areas) (England and Wales) Rules 2006 (S.I. 2006/3304)
 
-**19.**[^key-8ead6c38e448057f5b142cd2c5a5f4f5][^c24533051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-8ead6c38e448057f5b142cd2c5a5f4f5][^c24533051] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
@@ -399,11 +399,11 @@ summary: ''
 
 [^c24532771]: Commencement: [Sch. 2 para. 1(8)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/1/8) in force at 20.3.2021, see [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f)
 
-[^key-7fd4ad906acacb335c28d1f22f4822ff]: Commencement: Sch. 2 para. 1(3)-(5)(7) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/1249/article/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2021/1249/article/4))
+[^c-7fd4ad906acacb335c28d1f22f4822ff]: Commencement: Sch. 2 para. 1(3)-(5)(7) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/uksi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/uksi/2021/1249/article/2/b) (with [art. 4](https://www.legislation.gov.uk/uksi/2021/1249/article/4))
 
-[^key-aef47d731ab4d3b613fdc3405b76752f]: Textual amendment: [Sch. 2 para. 1(8)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/1/8) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 13 para. 12](https://www.legislation.gov.uk/asc/2021/1/schedule/13/paragraph/12); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(v)](https://www.legislation.gov.uk/wsi/2021/231/article/6/v)
+[^c-aef47d731ab4d3b613fdc3405b76752f]: Textual amendment: [Sch. 2 para. 1(8)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/1/8) omitted (5.5.2022) by virtue of [Local Government and Elections (Wales) Act 2021 (asc 1)](https://www.legislation.gov.uk/asc/2021/1), [s. 175(7)](https://www.legislation.gov.uk/asc/2021/1/section/175/7), [Sch. 13 para. 12](https://www.legislation.gov.uk/asc/2021/1/schedule/13/paragraph/12); [S.I. 2021/231](https://www.legislation.gov.uk/wsi/2021/231), [art. 6(v)](https://www.legislation.gov.uk/wsi/2021/231/article/6/v)
 
-[^key-0b587fff948615d376140da3147e3902]: Commencement: [Sch. 2 para. 1(9)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/1/9) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/b)
+[^c-0b587fff948615d376140da3147e3902]: Commencement: [Sch. 2 para. 1(9)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/1/9) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/b)
 
 [^c24532791]: Commencement: [Sch. 2 para. 2(1)](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/2/1) in force at 20.3.2021, see [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f)
 
@@ -425,7 +425,7 @@ summary: ''
 
 [^c24532891]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/4) in force at 20.3.2021, see [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f)
 
-[^key-35aa5b6475b8c5607c0903309b0529e2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/5) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/b)
+[^c-35aa5b6475b8c5607c0903309b0529e2]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/5) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/b)
 
 [^c24532901]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/6) in force at 20.3.2021, see [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f)
 
@@ -443,7 +443,7 @@ summary: ''
 
 [^c24532971]: Commencement: [Sch. 2 para. 12](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/12) in force at 20.3.2021, see [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f)
 
-[^key-7f97e8664f4ae1058df7b238b2c2235e]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/13) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/b)
+[^c-7f97e8664f4ae1058df7b238b2c2235e]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/13) in force at 17.11.2021 by [S.I. 2021/1249](https://www.legislation.gov.uk/wsi/2021/1249), [art. 2(b)](https://www.legislation.gov.uk/wsi/2021/1249/article/2/b)
 
 [^c24532981]: Commencement: [Sch. 2 para. 14](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/14) in force at 20.3.2021, see [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f)
 
@@ -455,6 +455,6 @@ summary: ''
 
 [^c24533041]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/18) in force at 20.3.2021, see [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f)
 
-[^key-8ead6c38e448057f5b142cd2c5a5f4f5]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/19) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/wsi/2022/263/schedule/4/paragraph/1/b) (with [reg. 12(g)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/g))
+[^c-8ead6c38e448057f5b142cd2c5a5f4f5]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/19) omitted (10.3.2022) by virtue of [The Local Elections (Miscellaneous and Consequential Amendments) (Wales) Regulations 2022 (S.I. 2022/263)](https://www.legislation.gov.uk/wsi/2022/263), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/263/regulation/1/2), [Sch. 4 para. 1(b)](https://www.legislation.gov.uk/wsi/2022/263/schedule/4/paragraph/1/b) (with [reg. 12(g)](https://www.legislation.gov.uk/wsi/2022/263/regulation/12/g))
 
 [^c24533051]: Commencement: [Sch. 2 para. 19](https://www.legislation.gov.uk/asc/2021/1/schedule/2/paragraph/19) in force at 20.3.2021, see [s. 175(3)(f)](https://www.legislation.gov.uk/asc/2021/1/section/175/3/f) (subject to s. 3)

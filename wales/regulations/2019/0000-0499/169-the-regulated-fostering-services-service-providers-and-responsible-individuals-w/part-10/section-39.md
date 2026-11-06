@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Records with respect to fostering services[^key-2218e3ed6086b3d28aa0a500ddf2b171]
+## 39. Records with respect to fostering services[^c-2218e3ed6086b3d28aa0a500ddf2b171]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2218e3ed6086b3d28aa0a500ddf2b171]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2019/169/regulation/39) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)
+[^c-2218e3ed6086b3d28aa0a500ddf2b171]: Commencement: [Reg. 39](https://www.legislation.gov.uk/wsi/2019/169/regulation/39) in force at 29.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2019/169/regulation/1/2)

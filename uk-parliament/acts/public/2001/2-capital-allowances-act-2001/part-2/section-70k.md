@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 70K. “Plant or machinery lease”[^key-a13126d697f407bec9ee5043e9398ee4][^key-5703efb87a689d0aca5dc79e67f642d9]
+## 70K. “Plant or machinery lease”[^c-a13126d697f407bec9ee5043e9398ee4][^c-5703efb87a689d0aca5dc79e67f642d9]
 
 *Extent: E+W+S+N.I.*
 
@@ -52,6 +52,6 @@ and “lease”, “lessor”, “lessee” and other related expressions are to
 
 ## Annotations
 
-[^key-a13126d697f407bec9ee5043e9398ee4]: Modification: S. 70K applied by 2009 c. 4, s. 18C(4) (as inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/4), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31))
+[^c-a13126d697f407bec9ee5043e9398ee4]: Modification: S. 70K applied by 2009 c. 4, s. 18C(4) (as inserted (19.7.2011) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 13 paras. 4](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/4), [31](https://www.legislation.gov.uk/ukpga/2011/11/schedule/13/paragraph/31))
 
-[^key-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)
+[^c-5703efb87a689d0aca5dc79e67f642d9]: Textual amendment: Pt. 2 Ch. 6A inserted (with effect in accordance with Sch. 8 para. 15 of the amending Act) by [Finance Act 2006 (c. 25)](https://www.legislation.gov.uk/ukpga/2006/25), [Sch. 8 para. 7](https://www.legislation.gov.uk/ukpga/2006/25/schedule/8/paragraph/7)

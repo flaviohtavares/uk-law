@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 25. Appeals[^key-91c7b3a06d372ad73c04f1038c45ca72]
+## 25. Appeals[^c-91c7b3a06d372ad73c04f1038c45ca72]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91c7b3a06d372ad73c04f1038c45ca72]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2016/21/section/25) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)
+[^c-91c7b3a06d372ad73c04f1038c45ca72]: Commencement: [S. 25](https://www.legislation.gov.uk/nia/2016/21/section/25) in operation at 1.6.2018 by [S.R. 2018/99](https://www.legislation.gov.uk/nisr/2018/99), [art. 2(a)](https://www.legislation.gov.uk/nisr/2018/99/article/2/a)

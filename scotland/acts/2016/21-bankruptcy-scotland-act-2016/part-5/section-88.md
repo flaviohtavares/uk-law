@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Limitation on vesting[^key-488328a7c0d33ee1eb03da468eb447de]
+## 88. Limitation on vesting[^c-488328a7c0d33ee1eb03da468eb447de]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-488328a7c0d33ee1eb03da468eb447de]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2016/21/section/88) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-488328a7c0d33ee1eb03da468eb447de]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2016/21/section/88) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

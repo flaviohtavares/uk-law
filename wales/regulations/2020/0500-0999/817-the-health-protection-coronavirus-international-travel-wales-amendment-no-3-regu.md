@@ -31,7 +31,7 @@ summary: ''
 
 Public Health, Wales
 
-The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 3) Regulations 2020 (revoked)[^key-13784f1016fbb3aa069148486c9322e8]
+The Health Protection (Coronavirus, International Travel) (Wales) (Amendment) (No. 3) Regulations 2020 (revoked)[^c-13784f1016fbb3aa069148486c9322e8]
 
 Made
 
@@ -45,49 +45,49 @@ Laid before Senedd Cymru
 
 31 July 2020
 
-[^key-13784f1016fbb3aa069148486c9322e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-13784f1016fbb3aa069148486c9322e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title, coming into force and interpretation[^key-13784f1016fbb3aa069148486c9322e8]
+## 1. Title, coming into force and interpretation[^c-13784f1016fbb3aa069148486c9322e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the International Travel Regulations[^key-13784f1016fbb3aa069148486c9322e8]
+## 2. Amendments to the International Travel Regulations[^c-13784f1016fbb3aa069148486c9322e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Additions to the list of exempt countries and territories[^key-13784f1016fbb3aa069148486c9322e8]
+## 3. Additions to the list of exempt countries and territories[^c-13784f1016fbb3aa069148486c9322e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Transitional provisions relating to regulation 3[^key-13784f1016fbb3aa069148486c9322e8]
+## 4. Transitional provisions relating to regulation 3[^c-13784f1016fbb3aa069148486c9322e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-13784f1016fbb3aa069148486c9322e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-13784f1016fbb3aa069148486c9322e8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Removal of Luxembourg from the list of exempt countries and territories[^key-13784f1016fbb3aa069148486c9322e8]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## 7. Transitional provision relating to Luxembourg[^key-13784f1016fbb3aa069148486c9322e8]
+## 6. Removal of Luxembourg from the list of exempt countries and territories[^c-13784f1016fbb3aa069148486c9322e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Additions to the list of specified sporting events[^key-13784f1016fbb3aa069148486c9322e8]
+## 7. Transitional provision relating to Luxembourg[^c-13784f1016fbb3aa069148486c9322e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Meaning of “sewerage licensee”[^key-13784f1016fbb3aa069148486c9322e8]
+## 8. Additions to the list of specified sporting events[^c-13784f1016fbb3aa069148486c9322e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-13784f1016fbb3aa069148486c9322e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## 9. Meaning of “sewerage licensee”[^c-13784f1016fbb3aa069148486c9322e8]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-13784f1016fbb3aa069148486c9322e8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-13784f1016fbb3aa069148486c9322e8]EXPLANATORY NOTE
+[^c-13784f1016fbb3aa069148486c9322e8]EXPLANATORY NOTE
 
 (This note is not part of the Regulations)
 
@@ -128,4 +128,4 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 ## Annotations
 
-[^key-13784f1016fbb3aa069148486c9322e8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/817) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/4)
+[^c-13784f1016fbb3aa069148486c9322e8]: Textual amendment: [Regulations](https://www.legislation.gov.uk/wsi/2020/817) revoked (18.3.2022 at 4.00 a.m.) by [The Health Protection (Coronavirus, International Travel, Operator Liability and Public Health Information to Travellers etc.) (Wales) (Revocation) Regulations 2022 (S.I. 2022/315)](https://www.legislation.gov.uk/wsi/2022/315), [reg. 1(2)](https://www.legislation.gov.uk/wsi/2022/315/regulation/1/2), [Sch. para. 4](https://www.legislation.gov.uk/wsi/2022/315/schedule/paragraph/4)

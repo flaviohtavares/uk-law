@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Directions to admit child to specified school: supplementary provisions[^key-9cff22fa62b9f58c38f4069f500163a9]
+## 51. Directions to admit child to specified school: supplementary provisions[^c-9cff22fa62b9f58c38f4069f500163a9]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9cff22fa62b9f58c38f4069f500163a9]: Commencement: S. 51 in force at 8.1.2007 by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/d)
+[^c-9cff22fa62b9f58c38f4069f500163a9]: Commencement: S. 51 in force at 8.1.2007 by [S.I. 2006/3400](https://www.legislation.gov.uk/uksi/2006/3400), [art. 3(d)](https://www.legislation.gov.uk/uksi/2006/3400/article/3/d)

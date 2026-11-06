@@ -33,30 +33,30 @@ Employee Share Schemes Act 2002 (repealed)
 
 \[7th November 2002\]
 
-[^key-00d929a459071c28fb32774e4180c1e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-00d929a459071c28fb32774e4180c1e1]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Employee share ownership plans[^key-00d929a459071c28fb32774e4180c1e1][^key-00d929a459071c28fb32774e4180c1e1]
+## 1. Employee share ownership plans[^c-00d929a459071c28fb32774e4180c1e1][^c-00d929a459071c28fb32774e4180c1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Deductions: supplementary[^key-00d929a459071c28fb32774e4180c1e1][^key-00d929a459071c28fb32774e4180c1e1]
+## 2. Deductions: supplementary[^c-00d929a459071c28fb32774e4180c1e1][^c-00d929a459071c28fb32774e4180c1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Deductions: income tax and capital gains tax[^key-00d929a459071c28fb32774e4180c1e1][^key-00d929a459071c28fb32774e4180c1e1]
+## 3. Deductions: income tax and capital gains tax[^c-00d929a459071c28fb32774e4180c1e1][^c-00d929a459071c28fb32774e4180c1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Short title[^key-00d929a459071c28fb32774e4180c1e1][^key-00d929a459071c28fb32774e4180c1e1]
+## 4. Short title[^c-00d929a459071c28fb32774e4180c1e1][^c-00d929a459071c28fb32774e4180c1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Commencement[^key-00d929a459071c28fb32774e4180c1e1][^key-00d929a459071c28fb32774e4180c1e1]
+## 5. Commencement[^c-00d929a459071c28fb32774e4180c1e1][^c-00d929a459071c28fb32774e4180c1e1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-00d929a459071c28fb32774e4180c1e1]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2002/34) repealed (6.4.2003) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))
+[^c-00d929a459071c28fb32774e4180c1e1]: Textual amendment: [Act](https://www.legislation.gov.uk/ukpga/2002/34) repealed (6.4.2003) by [Income Tax (Earnings and Pensions) Act 2003 (c. 1)](https://www.legislation.gov.uk/ukpga/2003/1), [s. 723](https://www.legislation.gov.uk/ukpga/2003/1/section/723), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2003/1/schedule/8/part/1) (with [Sch. 7](https://www.legislation.gov.uk/ukpga/2003/1/schedule/7))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Duty to assist protection providers[^key-b3c2c8c51ffcfba7641bb4cb5d1ecd68][^key-594da214aafca1297d744c3a2c8efcfe]
+## 85. Duty to assist protection providers[^c-b3c2c8c51ffcfba7641bb4cb5d1ecd68][^c-594da214aafca1297d744c3a2c8efcfe]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b3c2c8c51ffcfba7641bb4cb5d1ecd68]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2005/15/section/85) in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
+[^c-b3c2c8c51ffcfba7641bb4cb5d1ecd68]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2005/15/section/85) in force at 1.4.2006 except to the extent that it extends to S. by [S.I. 2005/1521](https://www.legislation.gov.uk/uksi/2005/1521), [art. 5(1)](https://www.legislation.gov.uk/uksi/2005/1521/article/5/1)
 
-[^key-594da214aafca1297d744c3a2c8efcfe]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2005/15/section/85) in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/b)
+[^c-594da214aafca1297d744c3a2c8efcfe]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2005/15/section/85) in force at 1.4.2006 for S. by [S.S.I. 2006/166](https://www.legislation.gov.uk/ssi/2006/166), [art. 2(1)(b)](https://www.legislation.gov.uk/ssi/2006/166/article/2/1/b)

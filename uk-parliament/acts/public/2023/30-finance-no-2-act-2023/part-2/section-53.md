@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Repackaging in contravention of section 52 (2)[^M_I_0e0cb699-775d-4616-fe2c-8455a49ed593][^key-a292d9169196bd62bc3f2b64b358965d]
+## 53. Repackaging in contravention of section 52 (2)[^M_I_0e0cb699-775d-4616-fe2c-8455a49ed593][^c-a292d9169196bd62bc3f2b64b358965d]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 [^M_I_0e0cb699-775d-4616-fe2c-8455a49ed593]: Commencement: S. 53 not in force at Royal Assent, see s. s. 120(2)
 
-[^key-a292d9169196bd62bc3f2b64b358965d]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/30/section/53) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))
+[^c-a292d9169196bd62bc3f2b64b358965d]: Commencement: [S. 53](https://www.legislation.gov.uk/ukpga/2023/30/section/53) in force at 1.8.2023 by [S.I. 2023/884](https://www.legislation.gov.uk/uksi/2023/884), [reg. 2(1)(a)](https://www.legislation.gov.uk/uksi/2023/884/regulation/2/1/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/884/regulation/10))

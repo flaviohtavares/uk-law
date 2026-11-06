@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 290. Exercise by traffic wardens of functions of parking attendants.[^key-6a86e88583bf2da5ba26de4406938bf7]
+## 290. Exercise by traffic wardens of functions of parking attendants.[^c-6a86e88583bf2da5ba26de4406938bf7]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6a86e88583bf2da5ba26de4406938bf7]: Textual amendment: S. 290 omitted (31.1.2017 for specified purposes, 1.12.2018 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/13/paragraph/4); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1139/regulation/3)
+[^c-6a86e88583bf2da5ba26de4406938bf7]: Textual amendment: S. 290 omitted (31.1.2017 for specified purposes, 1.12.2018 in so far as not already in force) by virtue of [Policing and Crime Act 2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3), [s. 183(1)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/1)[(5)(e)](https://www.legislation.gov.uk/ukpga/2017/3/section/183/5/e), [Sch. 13 para. 4](https://www.legislation.gov.uk/ukpga/2017/3/schedule/13/paragraph/4); [S.I. 2017/1139](https://www.legislation.gov.uk/uksi/2017/1139), [reg. 3](https://www.legislation.gov.uk/uksi/2017/1139/regulation/3)

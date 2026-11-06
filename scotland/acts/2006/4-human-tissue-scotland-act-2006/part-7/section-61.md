@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 61. Repeals[^key-9a9f39f31470999a11714260aa09b935]
+## 61. Repeals[^c-9a9f39f31470999a11714260aa09b935]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The enactments specified in column 1 of the schedule are repealed to the extent 
 
 ## Annotations
 
-[^key-9a9f39f31470999a11714260aa09b935]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2006/4/section/61) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)
+[^c-9a9f39f31470999a11714260aa09b935]: Commencement: [S. 61](https://www.legislation.gov.uk/asp/2006/4/section/61) in force at 1.9.2006 by [S.S.I. 2006/251](https://www.legislation.gov.uk/ssi/2006/251), [art. 3](https://www.legislation.gov.uk/ssi/2006/251/article/3)

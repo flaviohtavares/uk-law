@@ -34,7 +34,7 @@ summary: ''
 - (k) to turn their resources to account so far as not required for the purposes of their business, and
 - (l) to do all other things which in the opinion of the Board are necessary to facilitate the proper carrying on of their business.
 
-(1A)[^key-16a6bd2e5212495809545de7d8573974] In the application of this section to the British Waterways Board, the power in subsection (1)(c) is limited to land in Scotland.
+(1A)[^c-16a6bd2e5212495809545de7d8573974] In the application of this section to the British Waterways Board, the power in subsection (1)(c) is limited to land in Scotland.
 
 (2)[^c4790151] The Boards shall have power to acquire any undertaking or part of an undertaking if the assets comprised in the undertaking or the part of the undertaking are wholly or mainly assets which the Board require for the purposes of their business.
 
@@ -44,21 +44,21 @@ summary: ''
 
 (4A)[^c4790231] Subsections (3) and (4) above do not apply to the British Waterways Board.
 
-(4B) The British Waterways Board shall have the power with the consent of the Scottish Ministers, and for the purposes of the Board’s business,[^key-1e4ef08c745ba0de68471492efc43f20]–
+(4B) The British Waterways Board shall have the power with the consent of the Scottish Ministers, and for the purposes of the Board’s business,[^c-1e4ef08c745ba0de68471492efc43f20]–
 
-- (a)[^key-c3eb54ce479b60c251c2a5f0801febd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-c3eb54ce479b60c251c2a5f0801febd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-c3eb54ce479b60c251c2a5f0801febd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-c3eb54ce479b60c251c2a5f0801febd7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 to lend money to, or give a guarantee for the benefit of, any person for the purposes of an undertaking carried on by that person, or, where that person is a body corporate, any undertaking carried on by a subsidiary of that body corporate.
 
-(4C) The British Waterways Board shall have the power with the consent of the Scottish Ministers, and for the purposes of the Board’s business,[^key-32ec64c43fc62cc8cd49c973e7b29ca4]–
+(4C) The British Waterways Board shall have the power with the consent of the Scottish Ministers, and for the purposes of the Board’s business,[^c-32ec64c43fc62cc8cd49c973e7b29ca4]–
 
-- (a)[^key-037c384eb003208b6100ea0279c72f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-037c384eb003208b6100ea0279c72f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-037c384eb003208b6100ea0279c72f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-037c384eb003208b6100ea0279c72f4a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 to subscribe for or acquire any securities of a body corporate.
 
-(4D)[^key-56c7df69f9b2e09c3b8a3817480026e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4D)[^c-56c7df69f9b2e09c3b8a3817480026e9] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (5) Subsections (3) , (4), (4B) and (4C).[^c4790241] of this section shall not affect the power of a Board—
 
@@ -75,7 +75,7 @@ to subscribe for or acquire any securities of a body corporate.
 
 [^c4790161]: Modification: S. 14(1) amended by [Transport Act 1968 (c. 73)](https://www.legislation.gov.uk/ukpga/1968/73), [ss. 50(9)](https://www.legislation.gov.uk/ukpga/1968/73/section/50/9), [51(2)](https://www.legislation.gov.uk/ukpga/1968/73/section/51/2)
 
-[^key-16a6bd2e5212495809545de7d8573974]: Textual amendment: S. 14(1A) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/6/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-16a6bd2e5212495809545de7d8573974]: Textual amendment: S. 14(1A) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 6(2)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/6/2) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c4790191]: Modification: S. 14(3)(4) restricted (E.W.S.) (1.1.1993) by [S.I. 1992/3060](https://www.legislation.gov.uk/uksi/1992/3060), [reg. 4(2)](https://www.legislation.gov.uk/uksi/1992/3060/regulation/4/2)
 
@@ -83,15 +83,15 @@ to subscribe for or acquire any securities of a body corporate.
 
 [^c4790231]: Textual amendment: S. 14(4A)-(4D) inserted (1.4.2001) by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2000/3251/article/1/2/b), [2](https://www.legislation.gov.uk/uksi/2000/3251/article/2), [Sch. 2 para. 2(7)](https://www.legislation.gov.uk/uksi/2000/3251/schedule/2/paragraph/2/7) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2000/3251/article/4))
 
-[^key-1e4ef08c745ba0de68471492efc43f20]: Textual amendment: Words in s. 14(4B) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/6/3/a) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-1e4ef08c745ba0de68471492efc43f20]: Textual amendment: Words in s. 14(4B) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 6(3)(a)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/6/3/a) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-c3eb54ce479b60c251c2a5f0801febd7]: Textual amendment: S. 14(4B)(a)(b) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/6/3/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-c3eb54ce479b60c251c2a5f0801febd7]: Textual amendment: S. 14(4B)(a)(b) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 6(3)(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/6/3/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-32ec64c43fc62cc8cd49c973e7b29ca4]: Textual amendment: Words in s. 14(4C) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 6(4)(a)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/6/4/a) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-32ec64c43fc62cc8cd49c973e7b29ca4]: Textual amendment: Words in s. 14(4C) inserted (2.7.2012) by [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 6(4)(a)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/6/4/a) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-037c384eb003208b6100ea0279c72f4a]: Textual amendment: S. 14(4C)(a)(b) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 6(4)(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/6/4/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-037c384eb003208b6100ea0279c72f4a]: Textual amendment: S. 14(4C)(a)(b) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 6(4)(b)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/6/4/b) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
-[^key-56c7df69f9b2e09c3b8a3817480026e9]: Textual amendment: S. 14(4D) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 6(5)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/6/5) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
+[^c-56c7df69f9b2e09c3b8a3817480026e9]: Textual amendment: S. 14(4D) omitted (2.7.2012) by virtue of [The British Waterways Board (Transfer of Functions) Order 2012 (S.I. 2012/1659)](https://www.legislation.gov.uk/uksi/2012/1659), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1659/article/1/2), [Sch. 2 para. 6(5)](https://www.legislation.gov.uk/uksi/2012/1659/schedule/2/paragraph/6/5) (with [arts. 4-6](https://www.legislation.gov.uk/uksi/2012/1659/article/4))
 
 [^c4790241]: Textual amendment: Words in s. 14(5) substituted (1.4.2001) by [S.I. 2000/3251](https://www.legislation.gov.uk/uksi/2000/3251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2000/3251/article/1/2/b), [2](https://www.legislation.gov.uk/uksi/2000/3251/article/2), [Sch. 2 para. 2(8)](https://www.legislation.gov.uk/uksi/2000/3251/schedule/2/paragraph/2/8) (with transitional provisions and savings in [art. 4](https://www.legislation.gov.uk/uksi/2000/3251/article/4))
 

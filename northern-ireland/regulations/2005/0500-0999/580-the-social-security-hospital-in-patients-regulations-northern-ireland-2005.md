@@ -39,7 +39,7 @@ Coming into operation in accordance with regulation 1(1)
 
 The Department for Social Development, in exercise of the powers conferred by sections 113(1)(b), 122(1)(a) and (d), 123(5), 129(4), 131(1), 132(3), 134(2) and 171(1), (3) and (4) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001], sections 5(1)(q), 71(1)(b) and 165(1) and (4) to (6) of the Social Security Administration (Northern Ireland) Act 1992[^f00002] and Articles 6(5) and 36(2)(a) of the Jobseekers (Northern Ireland) Order 1995[^f00003], and now vested in it[^f00004], and sections 2(3), (6) and (9), 3(8) and 19(1) to (3) of the State Pension Credit Act (Northern Ireland) 2002[^f00005], with the consent of the Department of Finance and Personnel in so far as regulation 4 is concerned[^f00006], and all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-cf89c378b76cf3116b8b9fcdaca3140f]
+## 1. Citation, commencement and interpretation[^c-cf89c378b76cf3116b8b9fcdaca3140f]
 
 (1) These Regulations may be cited as the Social Security (Hospital In-Patients) Regulations (Northern Ireland) 2005 and shall come into operation for the purposes of—
 
@@ -53,7 +53,7 @@ The Department for Social Development, in exercise of the powers conferred by se
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00009] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Hospital in-patients entitled to an increase in benefit for a dependant[^key-7146fe1c843e35da557590a33e32bb82]
+## 2. Hospital in-patients entitled to an increase in benefit for a dependant[^c-7146fe1c843e35da557590a33e32bb82]
 
 (1) Paragraphs (2) and (3) apply where a beneficiary is entitled to an increase in benefit for an adult or child dependant under Part IV of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00010].
 
@@ -81,7 +81,7 @@ and such a person shall, for the purposes of sub-paragraph (a), be regarded as b
 - (a) where an increase in a person’s benefit is payable in respect of an adult or child dependant the increase shall be treated as a separate benefit; and
 - (b) where a beneficiary’s spouse or civil partner (“dependant”) is temporarily absent from Northern Ireland for the purpose of being treated for incapacity which commenced before he left Northern Ireland the absence shall be disregarded for the purpose of determining whether the beneficiary is residing with the dependant and is entitled to an increase in benefit for him.
 
-## 3. Amendment of the Income Support (General) Regulations[^key-6c69accff7668647634a6a47090e2df3]
+## 3. Amendment of the Income Support (General) Regulations[^c-6c69accff7668647634a6a47090e2df3]
 
 (1) The Income Support (General) Regulations (Northern Ireland) 1987 shall be amended in accordance with the paragraphs (2) to (6).
 
@@ -93,7 +93,7 @@ and such a person shall, for the purposes of sub-paragraph (a), be regarded as b
 (3) In paragraph 12(1) of Schedule 2 (applicable amounts)—
 
 - (a) in head (b)(ii)(bb)[^f00015] at the beginning there shall be inserted “subject to paragraphs 2A and 2B of Schedule 7,”; and
-- (b)[^key-917dec640bae46929d3011ec26138555] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-917dec640bae46929d3011ec26138555] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) In paragraph 18(7)(g) of Schedule 3[^f00017] (housing costs) for sub-heads (i) and (ii) there shall be substituted the following sub-heads—
 
@@ -109,11 +109,11 @@ and such a person shall, for the purposes of sub-paragraph (a), be regarded as b
 
 (6) In Schedule 9 (sums to be disregarded in the calculation of income other than earnings) paragraph 38[^f00020] shall be omitted.
 
-## 4. Amendment of the Housing Benefit (General) Regulations[^key-6e29359d1704e9dbd5ee7488d133139a]
+## 4. Amendment of the Housing Benefit (General) Regulations[^c-6e29359d1704e9dbd5ee7488d133139a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of the Jobseeker’s Allowance Regulations[^key-3a2f7817c5850ea955ff000eb22d2634]
+## 5. Amendment of the Jobseeker’s Allowance Regulations[^c-3a2f7817c5850ea955ff000eb22d2634]
 
 (1) The Jobseeker’s Allowance Regulations (Northern Ireland) 1996 shall be amended in accordance with paragraphs (2) to (6).
 
@@ -134,18 +134,18 @@ and such a person shall, for the purposes of sub-paragraph (a), be regarded as b
 (5) In Schedule 4 (applicable amounts in special cases)—
 
 - (a) paragraph 1[^f00027] shall be omitted; and
-- (b)[^key-51db6361a30372546ae92f5d9f732ea0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-51db6361a30372546ae92f5d9f732ea0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) In Schedule 4A[^f00028] (applicable amounts of joint-claim couples in special cases)—
 
 - (a) paragraph 1 (but not the heading before it) shall be omitted; and
-- (b)[^key-b71aa7348ec9341714b2369c4a359adb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b71aa7348ec9341714b2369c4a359adb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of the Social Fund Winter Fuel Payment Regulations[^key-7b549d64b3f415fb1c5d4775e3d4eca5]
+## 6. Amendment of the Social Fund Winter Fuel Payment Regulations[^c-7b549d64b3f415fb1c5d4775e3d4eca5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of the State Pension Credit Regulations[^key-0844a86e6d767e40ff23eb82ff782d5b]
+## 7. Amendment of the State Pension Credit Regulations[^c-0844a86e6d767e40ff23eb82ff782d5b]
 
 (1) The State Pension Credit Regulations (Northern Ireland) 2003[^f00030] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -177,7 +177,7 @@ and such a person shall, for the purposes of sub-paragraph (a), be regarded as b
 
 .
 
-## 8. Revocations[^key-f19d9957a3e70981ead13b625ede9c8f]
+## 8. Revocations[^c-f19d9957a3e70981ead13b625ede9c8f]
 
 The regulations specified in column (1) of the Schedule are revoked to the extent specified in column (3).
 
@@ -199,7 +199,7 @@ A senior officer of the
 
 Department of Finance and Personnel
 
-## SCHEDULE 1 — Revocations[^key-a6f4996c42b8eac0497ac79a2ae98385]
+## SCHEDULE 1 — Revocations[^c-a6f4996c42b8eac0497ac79a2ae98385]
 
 Regulation 8
 
@@ -269,7 +269,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00006]: Footnote: *See* section 171(6A) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992 as inserted by Article 3(3) of the Social Security (Amendment) (Northern Ireland) Order 1993 ([S.I.1993/1579 (N.I. 8)](https://www.legislation.gov.uk/nisi/1993/1579)); *see also* Article 6(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-cf89c378b76cf3116b8b9fcdaca3140f]: Commencement: Reg. 1 in operation at 10.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/a)
+[^c-cf89c378b76cf3116b8b9fcdaca3140f]: Commencement: Reg. 1 in operation at 10.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/a)
 
 [^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); the definition of “benefit week” was amended by regulation 2(a) of [S.R. 1988 No. 318](https://www.legislation.gov.uk/nisr/1988/318)
 
@@ -279,7 +279,7 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00009]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-7146fe1c843e35da557590a33e32bb82]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/580/regulation/2) in operation at 10.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/a)
+[^c-7146fe1c843e35da557590a33e32bb82]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2005/580/regulation/2) in operation at 10.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/a)
 
 [^f00010]: Footnote: Provisions for increases in benefit for child dependants were repealed by Schedule 6 to the Tax Credits Act 2002 subject to savings and transitional provisions under section 62 of that Act
 
@@ -289,13 +289,13 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00013]: Footnote: Article 31 was substituted by Article 3(9) of the Health and Medicines (Northern Ireland) Order 1988 (S.I. [1988/2249 (N.I. 24)](https://www.legislation.gov.uk/nisi/1988/2249))
 
-[^key-6c69accff7668647634a6a47090e2df3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/580/regulation/3) in operation at 10.4.2006 coming into force in accordance with , see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/b)
+[^c-6c69accff7668647634a6a47090e2df3]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2005/580/regulation/3) in operation at 10.4.2006 coming into force in accordance with , see [reg. 1(1)(b)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/b)
 
 [^f00014]: Footnote: Paragraph (2) was amended by regulation 3(b) of [S.R. 2003 No. 412](https://www.legislation.gov.uk/nisr/2003/412)
 
 [^f00015]: Footnote: Head (b) was substituted by regulation 2(12)(a)(ii) of [S.R. 1995 No. 67](https://www.legislation.gov.uk/nisr/1995/67) and amended by regulation 2(8) of S.R [1995 No. 367](https://www.legislation.gov.uk/nisr/1995/367)
 
-[^key-917dec640bae46929d3011ec26138555]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/nisr/2005/580/regulation/3/3/b) revoked (coming into force in accordance with reg. 1(6) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/154)](https://www.legislation.gov.uk/nisr/2007/154), [regs. 1(6)](https://www.legislation.gov.uk/nisr/2007/154/regulation/1/6), [9(b)](https://www.legislation.gov.uk/nisr/2007/154/regulation/9/b)
+[^c-917dec640bae46929d3011ec26138555]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/nisr/2005/580/regulation/3/3/b) revoked (coming into force in accordance with reg. 1(6) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/154)](https://www.legislation.gov.uk/nisr/2007/154), [regs. 1(6)](https://www.legislation.gov.uk/nisr/2007/154/regulation/1/6), [9(b)](https://www.legislation.gov.uk/nisr/2007/154/regulation/9/b)
 
 [^f00017]: Footnote: Schedule 3 was substituted by Schedule 1 to [S. R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and paragraph 18(7)(g) was amended by regulation 3(4) of [S.R.2003 No. 261](https://www.legislation.gov.uk/nisr/2003/261) and regulation 4(b)(ii)(aa) of [S.R. 2004 No. 394](https://www.legislation.gov.uk/nisr/2004/394)
 
@@ -305,9 +305,9 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00020]: Footnote: Paragraph 38 was added by regulation 36(g) of [S.R. 1988 No. 146](https://www.legislation.gov.uk/nisr/1988/146)
 
-[^key-6e29359d1704e9dbd5ee7488d133139a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/580/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-6e29359d1704e9dbd5ee7488d133139a]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/nisr/2005/580/regulation/4) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-3a2f7817c5850ea955ff000eb22d2634]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/580/regulation/5) in operation at 10.4.2006 coming into force in accordance with , see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/c)
+[^c-3a2f7817c5850ea955ff000eb22d2634]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2005/580/regulation/5) in operation at 10.4.2006 coming into force in accordance with , see [reg. 1(1)(c)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/c)
 
 [^f00024]: Footnote: Paragraph (3) was amended by paragraph 4(a) of Schedule 3 to [S.R. 2005 No. 458](https://www.legislation.gov.uk/nisr/2005/458)
 
@@ -317,15 +317,15 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00027]: Footnote: Paragraph 1 was amended by regulation 5(5)(a) of [S.R. 2003 No. 261](https://www.legislation.gov.uk/nisr/2003/261) and regulation 4(11)(a) of [S.R. 2003 No. 267](https://www.legislation.gov.uk/nisr/2003/267)
 
-[^key-51db6361a30372546ae92f5d9f732ea0]: Textual amendment: [Reg. 5(5)(b)](https://www.legislation.gov.uk/nisr/2005/580/regulation/5/5/b) revoked (coming into force in accordance with reg. 1(6) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/154)](https://www.legislation.gov.uk/nisr/2007/154), [regs. 1(6)](https://www.legislation.gov.uk/nisr/2007/154/regulation/1/6), [9(b)](https://www.legislation.gov.uk/nisr/2007/154/regulation/9/b)
+[^c-51db6361a30372546ae92f5d9f732ea0]: Textual amendment: [Reg. 5(5)(b)](https://www.legislation.gov.uk/nisr/2005/580/regulation/5/5/b) revoked (coming into force in accordance with reg. 1(6) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/154)](https://www.legislation.gov.uk/nisr/2007/154), [regs. 1(6)](https://www.legislation.gov.uk/nisr/2007/154/regulation/1/6), [9(b)](https://www.legislation.gov.uk/nisr/2007/154/regulation/9/b)
 
 [^f00028]: Footnote: Schedule 4A was inserted by paragraph 57 of Schedule 2 to [S.R. 2000 No. 350](https://www.legislation.gov.uk/nisr/2000/350) and paragraph 1 was amended by regulation 5(6) of [S.R. 2003 No. 261](https://www.legislation.gov.uk/nisr/2003/261) and regulation 4(12)(a) of [S.R. 2003 No. 267](https://www.legislation.gov.uk/nisr/2003/267)
 
-[^key-b71aa7348ec9341714b2369c4a359adb]: Textual amendment: [Reg. 5(6)(b)](https://www.legislation.gov.uk/nisr/2005/580/regulation/5/6/b) revoked (coming into force in accordance with reg. 1(6) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/154)](https://www.legislation.gov.uk/nisr/2007/154), [regs. 1(6)](https://www.legislation.gov.uk/nisr/2007/154/regulation/1/6), [9(b)](https://www.legislation.gov.uk/nisr/2007/154/regulation/9/b)
+[^c-b71aa7348ec9341714b2369c4a359adb]: Textual amendment: [Reg. 5(6)(b)](https://www.legislation.gov.uk/nisr/2005/580/regulation/5/6/b) revoked (coming into force in accordance with reg. 1(6) of the amending Rule) by [The Social Security (Miscellaneous Amendments) Regulations (Northern Ireland) 2007 (S.R. 2007/154)](https://www.legislation.gov.uk/nisr/2007/154), [regs. 1(6)](https://www.legislation.gov.uk/nisr/2007/154/regulation/1/6), [9(b)](https://www.legislation.gov.uk/nisr/2007/154/regulation/9/b)
 
-[^key-7b549d64b3f415fb1c5d4775e3d4eca5]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/580/regulation/6) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
+[^c-7b549d64b3f415fb1c5d4775e3d4eca5]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/nisr/2005/580/regulation/6) revoked (16.9.2024) by [The Social Fund Winter Fuel Payment Regulations (Northern Ireland) 2024 (S.R. 2024/160)](https://www.legislation.gov.uk/nisr/2024/160), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/1/1), [7(1)](https://www.legislation.gov.uk/nisr/2024/160/regulation/7/1), [Sch. 2](https://www.legislation.gov.uk/nisr/2024/160/schedule/2)
 
-[^key-0844a86e6d767e40ff23eb82ff782d5b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/580/regulation/7) in operation at 10.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/a)
+[^c-0844a86e6d767e40ff23eb82ff782d5b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2005/580/regulation/7) in operation at 10.4.2006, see [reg. 1(1)(a)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/a)
 
 [^f00030]: Footnote: [S.R. 2003 No. 28](https://www.legislation.gov.uk/nisr/2003/28); relevant amending regulations are [S.R. 2003 No. 261](https://www.legislation.gov.uk/nisr/2003/261)
 
@@ -333,6 +333,6 @@ These Regulations make in relation to Northern Ireland only provision correspond
 
 [^f00032]: Footnote: Paragraph 2 was amended by regulation 7(3) of [S.R. 2003 No. 261](https://www.legislation.gov.uk/nisr/2003/261)
 
-[^key-f19d9957a3e70981ead13b625ede9c8f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/580/regulation/8) in operation at 10.4.2006 coming into force in accordance with , see [reg. 1(1)(d)(i)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d/ii)
+[^c-f19d9957a3e70981ead13b625ede9c8f]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2005/580/regulation/8) in operation at 10.4.2006 coming into force in accordance with , see [reg. 1(1)(d)(i)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d/ii)
 
-[^key-a6f4996c42b8eac0497ac79a2ae98385]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1) in operation at 10.4.2006 coming into force in accordance with , see [reg. 1(1)(d)(i)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d/ii)
+[^c-a6f4996c42b8eac0497ac79a2ae98385]: Commencement: [Sch. 1](https://www.legislation.gov.uk/nisr/2005/580/schedule/1) in operation at 10.4.2006 coming into force in accordance with , see [reg. 1(1)(d)(i)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d/i)[(ii)](https://www.legislation.gov.uk/nisr/2005/580/regulation/1/1/d/ii)

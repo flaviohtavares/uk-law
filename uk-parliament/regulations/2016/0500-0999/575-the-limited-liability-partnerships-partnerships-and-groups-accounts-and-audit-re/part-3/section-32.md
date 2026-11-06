@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**32.**[^key-066098d1c6d8ee4d252eab8628fa299f] At the end of Part 2 insert—
+**32.**[^c-066098d1c6d8ee4d252eab8628fa299f] At the end of Part 2 insert—
 
 > **5A. Non-IAS individual accounts: micro-entities – notes to the accounts**
 >
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-066098d1c6d8ee4d252eab8628fa299f]: Commencement: Reg. 32 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)
+[^c-066098d1c6d8ee4d252eab8628fa299f]: Commencement: Reg. 32 in force at 17.5.2016, see [reg. 2(1)](https://www.legislation.gov.uk/uksi/2016/575/regulation/2/1)

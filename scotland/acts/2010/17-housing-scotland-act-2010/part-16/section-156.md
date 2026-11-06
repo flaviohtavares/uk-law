@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 156. Local authority duties on homelessness: armed forces[^key-7333e28b2ff0364d649bfe0614ff63da]
+## 156. Local authority duties on homelessness: armed forces[^c-7333e28b2ff0364d649bfe0614ff63da]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ In section 27 of the Housing (Scotland) Act 1987 (c.26)—
 
 ## Annotations
 
-[^key-7333e28b2ff0364d649bfe0614ff63da]: Commencement: S. 156 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)
+[^c-7333e28b2ff0364d649bfe0614ff63da]: Commencement: S. 156 in force at 1.3.2011 by [S.S.I. 2011/96](https://www.legislation.gov.uk/ssi/2011/96), [art. 2](https://www.legislation.gov.uk/ssi/2011/96/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/96/schedule)

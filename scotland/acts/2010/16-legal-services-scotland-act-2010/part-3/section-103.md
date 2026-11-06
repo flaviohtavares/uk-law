@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 103. Certification of bodies[^key-491cb47d1022b0f98187381b5c64b989]
+## 103. Certification of bodies[^c-491cb47d1022b0f98187381b5c64b989]
 
 *Extent: S*
 
@@ -37,7 +37,7 @@ summary: ''
 
 (4) Before deciding whether or not to certify the applicant as an approving body, the Scottish Ministers must consult—
 
-- (a) the CMA[^key-b7a3b6843a6e3e18d841de2be484fa5b], and such other organisation (appearing to them to represent the interests of consumers in Scotland) as they consider appropriate,
+- (a) the CMA[^c-b7a3b6843a6e3e18d841de2be484fa5b], and such other organisation (appearing to them to represent the interests of consumers in Scotland) as they consider appropriate,
 - (b) such other person or body as they consider appropriate.
 
 (5) In consulting under subsection (4), the Scottish Ministers—
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-491cb47d1022b0f98187381b5c64b989]: Commencement: S. 103 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
+[^c-491cb47d1022b0f98187381b5c64b989]: Commencement: S. 103 in force at 1.4.2011 for specified purposes by [S.S.I. 2011/180](https://www.legislation.gov.uk/ssi/2011/180), [art. 3](https://www.legislation.gov.uk/ssi/2011/180/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2011/180/schedule)
 
-[^key-b7a3b6843a6e3e18d841de2be484fa5b]: Textual amendment: Words in [s. 103(4)](https://www.legislation.gov.uk/asp/2010/16/section/103/4)[(5)](https://www.legislation.gov.uk/asp/2010/16/section/103/5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 199](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/199); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))
+[^c-b7a3b6843a6e3e18d841de2be484fa5b]: Textual amendment: Words in [s. 103(4)](https://www.legislation.gov.uk/asp/2010/16/section/103/4)[(5)](https://www.legislation.gov.uk/asp/2010/16/section/103/5) substituted (1.4.2014) by [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [s. 103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3), [Sch. 6 para. 199](https://www.legislation.gov.uk/ukpga/2013/24/schedule/6/paragraph/199); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule)); [S.I. 2014/416](https://www.legislation.gov.uk/uksi/2014/416), [art. 2(1)(d)](https://www.legislation.gov.uk/uksi/2014/416/article/2/1/d) (with [Sch.](https://www.legislation.gov.uk/uksi/2014/416/schedule))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 34. Overriding requirements[^key-46cf5ee759976f9e4f8c612f3e70c8c8]
+## 34. Overriding requirements[^c-46cf5ee759976f9e4f8c612f3e70c8c8]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-46cf5ee759976f9e4f8c612f3e70c8c8]: Textual amendment: [Ss. 8-35](https://www.legislation.gov.uk/ukpga/2015/8/section/8) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 128(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/128/b), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/e)
+[^c-46cf5ee759976f9e4f8c612f3e70c8c8]: Textual amendment: [Ss. 8-35](https://www.legislation.gov.uk/ukpga/2015/8/section/8) omitted (1.8.2022) by virtue of [Pension Schemes Act 2021 (c. 1)](https://www.legislation.gov.uk/ukpga/2021/1), [ss. 128(b)](https://www.legislation.gov.uk/ukpga/2021/1/section/128/b), [131(1)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/1); [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/721/regulation/1/2), [3(e)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/e)

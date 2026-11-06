@@ -41,13 +41,13 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by Articles 3(2), 10(2)(*b*) and (3), 41(1) and (6), 50(1), (2)(*a*), (3) and (7) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00001] and Articles 3(1)(*b*), (3), (5) and (7), 5(1), (3)(*b*), (5) and (9)[^f00002] and 73(4) of the Welfare Reform and Pensions (Northern Ireland) Order 1999[^f00003], and now vested in it[^f00004], and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-b01ce69ccb53796b5509d61c2c376a8e]
+## 1. Citation, commencement and interpretation[^c-b01ce69ccb53796b5509d61c2c376a8e]
 
 (1) These Regulations may be cited as the Stakeholder Pension Schemes (Amendment No. 2) Regulations (Northern Ireland) 2001 and shall come into operation on 5th April 2001.
 
 (2) In these Regulations any reference to a numbered regulation or numbered Schedule is a reference to the regulation or Schedule bearing that number in the Stakeholder Pension Schemes Regulations (Northern Ireland) 2000[^f00005].
 
-## 2. Amendment of regulation 1[^key-ad06ca8f36942dbd0d75aecb315e78c5]
+## 2. Amendment of regulation 1[^c-ad06ca8f36942dbd0d75aecb315e78c5]
 
 (1) Regulation 1 (citation, commencement and interpretation) shall be amended in accordance with paragraphs (2) to (4).
 
@@ -62,7 +62,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 (3) In paragraph (3)—
 
-- (a)[^key-d8b88315e6f6624ab97a03f9e95cfb94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-d8b88315e6f6624ab97a03f9e95cfb94] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) after the definition of “reporting accountant” there shall be inserted the following definition—
 
   > - “scheme instruments” means instruments establishing a stakeholder pension scheme;
@@ -71,7 +71,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 (4)[^M_F_885c2d3c-d435-45a2-f4e3-f717f4e935b8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 3[^key-30e5466e80082ed4809fdd7623c62fe2]
+## 3. Amendment of regulation 3[^c-30e5466e80082ed4809fdd7623c62fe2]
 
 (1) Regulation 3 (requirements applying to all stakeholder pension schemes as regards instruments establishing such schemes)[^f00008] shall be amended in accordance with paragraphs (2) to (5).
 
@@ -94,7 +94,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 (5) Paragraph (11)[^f00011] shall be omitted.
 
-## 4. Amendment of regulation 4[^key-63c6b1d84c2c91439fba3c953b1c9e54]
+## 4. Amendment of regulation 4[^c-63c6b1d84c2c91439fba3c953b1c9e54]
 
 (1) Regulation 4 (additional requirements as regards instruments establishing a stakeholder pension scheme established under a trust)[^f00012] shall be amended in accordance with paragraphs (2) and (3).
 
@@ -102,11 +102,11 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 (3) In paragraph (4)(*a*) for “or by this regulation” there shall be substituted “, by this regulation or by regulation 6”.
 
-## 5. Amendment of regulation 8[^key-3c8729a762766659279d590a2758072b]
+## 5. Amendment of regulation 8[^c-3c8729a762766659279d590a2758072b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 10[^key-9ed7e9ed2d81d49c543d6e2f361c2c0f]
+## 6. Amendment of regulation 10[^c-9ed7e9ed2d81d49c543d6e2f361c2c0f]
 
 (1) Regulation 10 (requirement for manager of schemes not established under a trust to have regard to certain matters, and to take advice, relating to investment) shall be amended in accordance with paragraphs (2) to (7).
 
@@ -155,7 +155,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 .
 
-## 7. Amendment of regulation 11[^key-815260eb0a10250032cfed5bb75c8f95]
+## 7. Amendment of regulation 11[^c-815260eb0a10250032cfed5bb75c8f95]
 
 (1) Regulation 11 (requirement for manager of schemes not established under trust to appoint a reporting accountant) shall be amended in accordance with paragraphs (2) to (10).
 
@@ -230,11 +230,11 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 .
 
-## 8. Amendment of regulation 12[^key-287510663543511ea5d385879fb39297]
+## 8. Amendment of regulation 12[^c-287510663543511ea5d385879fb39297]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 9. Amendment of regulation 13[^key-180c24171912c2b1b312bdde796672f6]
+## 9. Amendment of regulation 13[^c-180c24171912c2b1b312bdde796672f6]
 
 (1) Regulation 13 (expenses, commission etc.—principles) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -259,11 +259,11 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 .
 
-## 10. Amendment of regulation 14[^key-7c8699510e7751d3b0b06e9ab7bd8f93]
+## 10. Amendment of regulation 14[^c-7c8699510e7751d3b0b06e9ab7bd8f93]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 11. Amendment of regulation 15[^key-f4ea8ea267467bdc89d46367e65c94e2]
+## 11. Amendment of regulation 15[^c-f4ea8ea267467bdc89d46367e65c94e2]
 
 (1) Regulation 15 (requirement for trustees or manager to satisfy certain conditions in relation to with-profits funds) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -275,7 +275,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 - (b) for “systems and controls that are designed and used so that” there shall be substituted “systems which and controls which are of a design such that, and used such that”, and
 - (c) in sub-paragraph (*b*) for “auditor or reporting accountant, as the case may be,” there shall be substituted “reporting accountant and, as the case may be, to the auditor”.
 
-## 12. Amendment of regulation 17[^key-6056a6529d1132e6671e8e94bf9c165d]
+## 12. Amendment of regulation 17[^c-6056a6529d1132e6671e8e94bf9c165d]
 
 (1) Regulation 17 (restrictions on contributions) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -291,19 +291,19 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 .
 
-## 13. Amendment of regulation 18[^key-9cd7e0e344c4ead2b6f0fd5c5ce1bdfd]
+## 13. Amendment of regulation 18[^c-9cd7e0e344c4ead2b6f0fd5c5ce1bdfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 14. Amendment of regulation 22[^key-4a4a40149cc20172c6dfea916e0be6bd]
+## 14. Amendment of regulation 22[^c-4a4a40149cc20172c6dfea916e0be6bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 15. Amendment of regulation 23[^key-4a4a40149cc20172c6dfea916e0be6bd]
+## 15. Amendment of regulation 23[^c-4a4a40149cc20172c6dfea916e0be6bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 16. Amendment of regulation 24[^key-4a25aaca1431284efb076198d0329ce3]
+## 16. Amendment of regulation 24[^c-4a25aaca1431284efb076198d0329ce3]
 
 (1) Regulation 24 (payroll deduction of contributions) shall be amended in accordance with paragraphs (2) to (6).
 
@@ -376,7 +376,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 .
 
-## 17. Amendment of regulation 25[^key-dba84be0a69b377159a2fd2b0a8bd7db]
+## 17. Amendment of regulation 25[^c-dba84be0a69b377159a2fd2b0a8bd7db]
 
 (1) Regulation 25 (disclosure of information to relevant employees) shall be amended in accordance with paragraphs (2) and (3).
 
@@ -407,11 +407,11 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
   .
 
-## 18. Amendment of Schedule 2[^key-836929795ef33b1571dad9c4e8cb82b6]
+## 18. Amendment of Schedule 2[^c-836929795ef33b1571dad9c4e8cb82b6]
 
 (1) Schedule 2 (regulations applying to schemes which are or have been registered under Article 4) shall be amended in accordance with paragraphs (2) and (3).
 
-(2)[^key-c369f05c243d7f8922c3d1c7bbb2f085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-c369f05c243d7f8922c3d1c7bbb2f085] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) After the entry for “The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 1996” there shall be inserted the following—
 
@@ -421,7 +421,7 @@ The Department for Social Development, in exercise of the powers conferred by Ar
 
 .
 
-## 19. Transitional provision[^key-e7e4b5651ccbd6af42e30ccda4fa0019]
+## 19. Transitional provision[^c-e7e4b5651ccbd6af42e30ccda4fa0019]
 
 Where, prior to the coming into operation of these Regulations, the reporting accountant appointed for the purposes of regulation 11 has been removed or has resigned or died, regulation 11(8) shall, for the purposes of appointing the next reporting accountant after him for the purposes of regulation 11, continue to have effect as in operation immediately prior to the coming into operation of these Regulations.
 
@@ -463,17 +463,17 @@ As these Regulations, in so far as they are made under Part II of the Pensions (
 
 [^f00004]: Footnote: *See* Article 8(*b*) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481)
 
-[^key-b01ce69ccb53796b5509d61c2c376a8e]: Commencement: Reg. 1 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-b01ce69ccb53796b5509d61c2c376a8e]: Commencement: Reg. 1 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 2000 No. 262](https://www.legislation.gov.uk/nisr/2000/262), amended by [S.R. 2001 No. 13](https://www.legislation.gov.uk/nisr/2001/13)
 
-[^key-ad06ca8f36942dbd0d75aecb315e78c5]: Commencement: Reg. 2 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-ad06ca8f36942dbd0d75aecb315e78c5]: Commencement: Reg. 2 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
 
-[^key-d8b88315e6f6624ab97a03f9e95cfb94]: Textual amendment: [Reg. 2(3)(a)](https://www.legislation.gov.uk/nisr/2001/119/regulation/2/3/a) revoked (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/110)](https://www.legislation.gov.uk/nisr/2005/110), [regs. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/110/regulation/3)
+[^c-d8b88315e6f6624ab97a03f9e95cfb94]: Textual amendment: [Reg. 2(3)(a)](https://www.legislation.gov.uk/nisr/2001/119/regulation/2/3/a) revoked (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/110)](https://www.legislation.gov.uk/nisr/2005/110), [regs. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/110/regulation/3)
 
 [^M_F_885c2d3c-d435-45a2-f4e3-f717f4e935b8]: Textual amendment: [Reg. 2(4)](https://www.legislation.gov.uk/nisr/2001/119/regulation/2/4) revoked (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/110)](https://www.legislation.gov.uk/nisr/2005/110), [regs. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/110/regulation/3)
 
-[^key-30e5466e80082ed4809fdd7623c62fe2]: Commencement: Reg. 3 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-30e5466e80082ed4809fdd7623c62fe2]: Commencement: Reg. 3 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
 
 [^f00008]: Footnote: Regulation 3 was amended by [S.R. 2001 No. 13](https://www.legislation.gov.uk/nisr/2001/13)
 
@@ -483,21 +483,21 @@ As these Regulations, in so far as they are made under Part II of the Pensions (
 
 [^f00011]: Footnote: Paragraph (11) was inserted by [S.R. 2001 No. 13](https://www.legislation.gov.uk/nisr/2001/13)
 
-[^key-63c6b1d84c2c91439fba3c953b1c9e54]: Commencement: Reg. 4 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-63c6b1d84c2c91439fba3c953b1c9e54]: Commencement: Reg. 4 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
 
 [^f00012]: Footnote: Regulation 4 was amended by [S.R. 2001 No.13](https://www.legislation.gov.uk/nisr/2001/13)
 
-[^key-3c8729a762766659279d590a2758072b]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/119/regulation/5) revoked (2.6.2003) by [The Social Security and Pensions (Financial Services and Markets Act 2000) (Consequential Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/256)](https://www.legislation.gov.uk/nisr/2003/256), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1), [19(f)](https://www.legislation.gov.uk/nisr/2003/256/regulation/19/f)
+[^c-3c8729a762766659279d590a2758072b]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/nisr/2001/119/regulation/5) revoked (2.6.2003) by [The Social Security and Pensions (Financial Services and Markets Act 2000) (Consequential Amendments) Regulations (Northern Ireland) 2003 (S.R. 2003/256)](https://www.legislation.gov.uk/nisr/2003/256), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/256/regulation/1/1), [19(f)](https://www.legislation.gov.uk/nisr/2003/256/regulation/19/f)
 
-[^key-9ed7e9ed2d81d49c543d6e2f361c2c0f]: Commencement: Reg. 6 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-9ed7e9ed2d81d49c543d6e2f361c2c0f]: Commencement: Reg. 6 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
 
-[^key-815260eb0a10250032cfed5bb75c8f95]: Commencement: Reg. 7 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-815260eb0a10250032cfed5bb75c8f95]: Commencement: Reg. 7 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
 
 [^f00014]: Footnote: [S.I. 1990/593 (N.I. 5)](https://www.legislation.gov.uk/nisi/1990/593)
 
-[^key-287510663543511ea5d385879fb39297]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/119/regulation/8) revoked (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations (Northern Ireland) 2002 (S.R. 2002/268)](https://www.legislation.gov.uk/nisr/2002/268), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2002/268/regulation/1/1), [6(a)](https://www.legislation.gov.uk/nisr/2002/268/regulation/6/a)
+[^c-287510663543511ea5d385879fb39297]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/nisr/2001/119/regulation/8) revoked (9.9.2002) by [The Stakeholder Pension Schemes (Amendment No. 2) Regulations (Northern Ireland) 2002 (S.R. 2002/268)](https://www.legislation.gov.uk/nisr/2002/268), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2002/268/regulation/1/1), [6(a)](https://www.legislation.gov.uk/nisr/2002/268/regulation/6/a)
 
-[^key-180c24171912c2b1b312bdde796672f6]: Commencement: Reg. 9 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-180c24171912c2b1b312bdde796672f6]: Commencement: Reg. 9 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
 
 [^f00015]: Footnote: [S.R. 1997 No. 56](https://www.legislation.gov.uk/nisr/1997/56), to which there are amendments not relevant to these regulations
 
@@ -507,24 +507,24 @@ As these Regulations, in so far as they are made under Part II of the Pensions (
 
 [^f00018]: Footnote: [S.R. 1997 No. 153](https://www.legislation.gov.uk/nisr/1997/153), amended by [S.R. 1999 No. 309](https://www.legislation.gov.uk/nisr/1999/309)
 
-[^key-7c8699510e7751d3b0b06e9ab7bd8f93]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2001/119/regulation/10) revoked (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/110)](https://www.legislation.gov.uk/nisr/2005/110), [regs. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/110/regulation/3)
+[^c-7c8699510e7751d3b0b06e9ab7bd8f93]: Textual amendment: [Reg. 10](https://www.legislation.gov.uk/nisr/2001/119/regulation/10) revoked (6.4.2005) by [The Stakeholder Pension Schemes (Amendment) Regulations (Northern Ireland) 2005 (S.R. 2005/110)](https://www.legislation.gov.uk/nisr/2005/110), [regs. 1](https://www.legislation.gov.uk/nisr/2005/110/regulation/1), [3](https://www.legislation.gov.uk/nisr/2005/110/regulation/3)
 
-[^key-f4ea8ea267467bdc89d46367e65c94e2]: Commencement: Reg. 11 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-f4ea8ea267467bdc89d46367e65c94e2]: Commencement: Reg. 11 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
 
-[^key-6056a6529d1132e6671e8e94bf9c165d]: Commencement: Reg. 12 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-6056a6529d1132e6671e8e94bf9c165d]: Commencement: Reg. 12 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
 
-[^key-9cd7e0e344c4ead2b6f0fd5c5ce1bdfd]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2001/119/regulation/13) revoked (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/373)](https://www.legislation.gov.uk/nisr/2010/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2010/373/regulation/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/373/schedule/2)
+[^c-9cd7e0e344c4ead2b6f0fd5c5ce1bdfd]: Textual amendment: [Reg. 13](https://www.legislation.gov.uk/nisr/2001/119/regulation/13) revoked (1.12.2010) by [The Occupational, Personal and Stakeholder Pension Schemes (Disclosure of Information) (Amendment) Regulations (Northern Ireland) 2010 (S.R. 2010/373)](https://www.legislation.gov.uk/nisr/2010/373), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2010/373/regulation/1/1), [5](https://www.legislation.gov.uk/nisr/2010/373/regulation/5), [Sch. 2](https://www.legislation.gov.uk/nisr/2010/373/schedule/2)
 
-[^key-4a4a40149cc20172c6dfea916e0be6bd]: Textual amendment: [Regs. 14, 15](https://www.legislation.gov.uk/nisr/2001/119/regulation/15) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/72)](https://www.legislation.gov.uk/nisr/2013/72), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/72/regulation/1/1), [10(c)](https://www.legislation.gov.uk/nisr/2013/72/regulation/10/c)
+[^c-4a4a40149cc20172c6dfea916e0be6bd]: Textual amendment: [Regs. 14, 15](https://www.legislation.gov.uk/nisr/2001/119/regulation/15) revoked (6.4.2013) by [The Occupational and Stakeholder Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2013 (S.R. 2013/72)](https://www.legislation.gov.uk/nisr/2013/72), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2013/72/regulation/1/1), [10(c)](https://www.legislation.gov.uk/nisr/2013/72/regulation/10/c)
 
-[^key-4a25aaca1431284efb076198d0329ce3]: Commencement: Reg. 16 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-4a25aaca1431284efb076198d0329ce3]: Commencement: Reg. 16 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
 
-[^key-dba84be0a69b377159a2fd2b0a8bd7db]: Commencement: Reg. 17 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-dba84be0a69b377159a2fd2b0a8bd7db]: Commencement: Reg. 17 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
 
-[^key-836929795ef33b1571dad9c4e8cb82b6]: Commencement: Reg. 18 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-836929795ef33b1571dad9c4e8cb82b6]: Commencement: Reg. 18 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
 
-[^key-c369f05c243d7f8922c3d1c7bbb2f085]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2001/119/regulation/18/2) revoked (6.4.2008) by [The Occupational Pension Schemes (Internal Dispute Resolution Procedures) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/116)](https://www.legislation.gov.uk/nisr/2008/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2008/116/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/116/schedule)
+[^c-c369f05c243d7f8922c3d1c7bbb2f085]: Textual amendment: [Reg. 18(2)](https://www.legislation.gov.uk/nisr/2001/119/regulation/18/2) revoked (6.4.2008) by [The Occupational Pension Schemes (Internal Dispute Resolution Procedures) (Consequential and Miscellaneous Amendments) Regulations (Northern Ireland) 2008 (S.R. 2008/116)](https://www.legislation.gov.uk/nisr/2008/116), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/116/regulation/1/1), [7](https://www.legislation.gov.uk/nisr/2008/116/regulation/7), [Sch.](https://www.legislation.gov.uk/nisr/2008/116/schedule)
 
 [^f00021]: Footnote: [S.R. 1997 No. 40](https://www.legislation.gov.uk/nisr/1997/40); relevant amending regulations are [S.R. 1997 Nos. 160](https://www.legislation.gov.uk/nisr/1997/160) and [544](https://www.legislation.gov.uk/nisr/1997/544) and [S.R. 2000 No. 107](https://www.legislation.gov.uk/nisr/2000/107)
 
-[^key-e7e4b5651ccbd6af42e30ccda4fa0019]: Commencement: Reg. 19 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)
+[^c-e7e4b5651ccbd6af42e30ccda4fa0019]: Commencement: Reg. 19 in operation at 5.4.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/119/regulation/1/1)

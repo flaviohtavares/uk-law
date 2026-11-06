@@ -16,48 +16,48 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 3A — Further provision about the inspectors of court administration[^key-dcbf7b0c175aaf34fc12f97509633e83]
+## SCHEDULE 3A — Further provision about the inspectors of court administration[^c-dcbf7b0c175aaf34fc12f97509633e83]
 
 *Extent: E+W*
 
 Section 61A
 
-[^key-dcbf7b0c175aaf34fc12f97509633e83]
+[^c-dcbf7b0c175aaf34fc12f97509633e83]
 
 **May not be in force at this date. Check the source.**
 
-**1.**[^key-dcbf7b0c175aaf34fc12f97509633e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-dcbf7b0c175aaf34fc12f97509633e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcbf7b0c175aaf34fc12f97509633e83]
-
-**May not be in force at this date. Check the source.**
-
-**2.**[^key-dcbf7b0c175aaf34fc12f97509633e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-dcbf7b0c175aaf34fc12f97509633e83]
+[^c-dcbf7b0c175aaf34fc12f97509633e83]
 
 **May not be in force at this date. Check the source.**
 
-**3.**[^key-dcbf7b0c175aaf34fc12f97509633e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-dcbf7b0c175aaf34fc12f97509633e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcbf7b0c175aaf34fc12f97509633e83]
-
-**May not be in force at this date. Check the source.**
-
-**4.**[^key-dcbf7b0c175aaf34fc12f97509633e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-dcbf7b0c175aaf34fc12f97509633e83]
+[^c-dcbf7b0c175aaf34fc12f97509633e83]
 
 **May not be in force at this date. Check the source.**
 
-**5.**[^key-dcbf7b0c175aaf34fc12f97509633e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-dcbf7b0c175aaf34fc12f97509633e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-dcbf7b0c175aaf34fc12f97509633e83]
+[^c-dcbf7b0c175aaf34fc12f97509633e83]
 
 **May not be in force at this date. Check the source.**
 
-**6.**[^key-dcbf7b0c175aaf34fc12f97509633e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-dcbf7b0c175aaf34fc12f97509633e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-dcbf7b0c175aaf34fc12f97509633e83]
+
+**May not be in force at this date. Check the source.**
+
+**5.**[^c-dcbf7b0c175aaf34fc12f97509633e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-dcbf7b0c175aaf34fc12f97509633e83]
+
+**May not be in force at this date. Check the source.**
+
+**6.**[^c-dcbf7b0c175aaf34fc12f97509633e83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dcbf7b0c175aaf34fc12f97509633e83]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/ukpga/2003/39/schedule/3A) repealed (18.9.2012) by [The Public Bodies (Abolition of Her Majesty s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2012/2401/schedule/1/paragraph/14) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))
+[^c-dcbf7b0c175aaf34fc12f97509633e83]: Textual amendment: [Sch. 3A](https://www.legislation.gov.uk/ukpga/2003/39/schedule/3A) repealed (18.9.2012) by [The Public Bodies (Abolition of Her Majesty s Inspectorate of Courts Administration and the Public Guardian Board) Order 2012 (S.I. 2012/2401)](https://www.legislation.gov.uk/uksi/2012/2401), [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/2)[(3)](https://www.legislation.gov.uk/uksi/2012/2401/article/1/3), [Sch. 1 para. 14](https://www.legislation.gov.uk/uksi/2012/2401/schedule/1/paragraph/14) (with [art. 2](https://www.legislation.gov.uk/uksi/2012/2401/article/2))

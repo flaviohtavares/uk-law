@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 89. Annual rate of eligible child’s pension[^key-6b4ddc7eee2e279d3ddc60c298da5c99]
+## 89. Annual rate of eligible child’s pension[^c-6b4ddc7eee2e279d3ddc60c298da5c99]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ where—
 
 ## Annotations
 
-[^key-6b4ddc7eee2e279d3ddc60c298da5c99]: Commencement: Reg. 89 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-6b4ddc7eee2e279d3ddc60c298da5c99]: Commencement: Reg. 89 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

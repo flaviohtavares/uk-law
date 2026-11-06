@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 150. Property freezing orders: restrictions on proceedings and remedies[^key-80d6f1b4ec3752d0ba6fa2282e29a1de]
+## 150. Property freezing orders: restrictions on proceedings and remedies[^c-80d6f1b4ec3752d0ba6fa2282e29a1de]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80d6f1b4ec3752d0ba6fa2282e29a1de]: Commencement: [Art. 150](https://www.legislation.gov.uk/uksi/2005/3181/article/150) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-80d6f1b4ec3752d0ba6fa2282e29a1de]: Commencement: [Art. 150](https://www.legislation.gov.uk/uksi/2005/3181/article/150) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

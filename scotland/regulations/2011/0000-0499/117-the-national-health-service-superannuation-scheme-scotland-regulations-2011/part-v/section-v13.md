@@ -33,7 +33,7 @@ summary: ''
 
 (5) The final year's pensionable pay under paragraph (3) will be increased by the amount that the member's benefits would have been increased under Part 1 of the Pensions (Increase) Act 1971 [^c21042491] if benefits had been preserved on the valuation day.
 
-(6) Where a pension credit member referred to in paragraph (1) died on or before 5th April 2011 and had[^key-665f94d7612499c5d48ed42e003100e6] attained the age of 75 at the date of the pension credit member's death—
+(6) Where a pension credit member referred to in paragraph (1) died on or before 5th April 2011 and had[^c-665f94d7612499c5d48ed42e003100e6] attained the age of 75 at the date of the pension credit member's death—
 
 - (a) the lump sum referred to in that paragraph ceases to be payable; and
 - (b) that lump sum is to be converted into an annual pension to be determined and paid in accordance with paragraph (6).
@@ -67,4 +67,4 @@ and the pension (or, as the case may be, the percentage of it specified in respe
 
 [^c21042491]: Marginal citation: [1971 c.56](https://www.legislation.gov.uk/ukpga/1971/56).
 
-[^key-665f94d7612499c5d48ed42e003100e6]: Textual amendment: Words in reg. V13(6) substituted (with effect in accordance with reg. 1(8) of the amending S.S.I.) by [The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/364)](https://www.legislation.gov.uk/ssi/2011/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2), [13](https://www.legislation.gov.uk/ssi/2011/364/regulation/13)
+[^c-665f94d7612499c5d48ed42e003100e6]: Textual amendment: Words in reg. V13(6) substituted (with effect in accordance with reg. 1(8) of the amending S.S.I.) by [The National Health Service Superannuation Scheme etc. (Miscellaneous Amendments) (Scotland) Regulations 2011 (S.S.I. 2011/364)](https://www.legislation.gov.uk/ssi/2011/364), [regs. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2), [13](https://www.legislation.gov.uk/ssi/2011/364/regulation/13)

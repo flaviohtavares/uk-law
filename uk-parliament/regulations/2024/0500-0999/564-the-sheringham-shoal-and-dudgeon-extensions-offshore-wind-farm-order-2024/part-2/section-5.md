@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Benefit of Order[^key-b219d1b8c41a0c29f7f746826c26c2ac]
+## 5. Benefit of Order[^c-b219d1b8c41a0c29f7f746826c26c2ac]
 
 *Extent: E+W*
 
 (1) Subject to this article, the provisions of this Order have effect solely for the benefit of the undertaker.
 
-(2) Subject to paragraphs (5)[^key-e9b98690a54b8ff5829add450d9e65f1], ‎(7) and ‎(8) the undertaker may with the written consent of the Secretary of State—
+(2) Subject to paragraphs (5)[^c-e9b98690a54b8ff5829add450d9e65f1], ‎(7) and ‎(8) the undertaker may with the written consent of the Secretary of State—
 
 - (a) transfer to another person (“**the transferee**”) any or all of the benefit of the provisions of this Order (excluding the deemed marine licences referred to in paragraph ‎(3) below) and such related statutory rights as may be agreed between the undertaker and the transferee; and
 - (b) grant to another person (“**the lessee**”) for a period agreed between the undertaker and the lessee any or all of the benefit of the provisions of the Order (excluding the deemed marine licences referred to in paragraph ‎(3) below) and such related statutory rights as may be so agreed.
@@ -81,6 +81,6 @@ except where paragraph ‎(8) applies, in which case no consent of the Secretary
 
 ## Annotations
 
-[^key-b219d1b8c41a0c29f7f746826c26c2ac]: Commencement: Art. 5 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
+[^c-b219d1b8c41a0c29f7f746826c26c2ac]: Commencement: Art. 5 in force at 9.5.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/564/article/1)
 
-[^key-e9b98690a54b8ff5829add450d9e65f1]: Textual amendment: Word in [art. 5(2)](https://www.legislation.gov.uk/uksi/2024/564/article/5/2) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table
+[^c-e9b98690a54b8ff5829add450d9e65f1]: Textual amendment: Word in [art. 5(2)](https://www.legislation.gov.uk/uksi/2024/564/article/5/2) substituted (11.12.2024) by [The Sheringham Shoal and Dudgeon Extensions Offshore Wind Farm (Correction) Order 2024 (S.I. 2024/1338)](https://www.legislation.gov.uk/uksi/2024/1338), [art. 1](https://www.legislation.gov.uk/uksi/2024/1338/article/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2024/1338/schedule/part/1) table

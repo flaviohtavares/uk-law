@@ -42,10 +42,10 @@ as it thinks appropriate.
 
 (5) Where the court has made an order under this section it may vary or revoke it by a subsequent order.
 
-(6) The court for the purposes of this section is the county court[^key-27dd25b38f2c0e0be21e7be41130d1c8] , except that where an application under subsection (1) above is made in pursuance of any step taken by the mortgagee in the High Court it is the High Court.
+(6) The court for the purposes of this section is the county court[^c-27dd25b38f2c0e0be21e7be41130d1c8] , except that where an application under subsection (1) above is made in pursuance of any step taken by the mortgagee in the High Court it is the High Court.
 
 ## Annotations
 
 [^c16041331]: Textual amendment: Words substituted by [Housing Act 1980 (c. 51, SIF 61)](https://www.legislation.gov.uk/ukpga/1980/51), [Sch. 25 Pt. I para. 49](https://www.legislation.gov.uk/ukpga/1980/51/schedule/25/part/I/paragraph/49)
 
-[^key-27dd25b38f2c0e0be21e7be41130d1c8]: Textual amendment: Words in [s. 132(6)](https://www.legislation.gov.uk/ukpga/1977/42/section/132/6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)
+[^c-27dd25b38f2c0e0be21e7be41130d1c8]: Textual amendment: Words in [s. 132(6)](https://www.legislation.gov.uk/ukpga/1977/42/section/132/6) substituted (22.4.2014) by [Crime and Courts Act 2013 (c. 22)](https://www.legislation.gov.uk/ukpga/2013/22), [s. 61(3)](https://www.legislation.gov.uk/ukpga/2013/22/section/61/3), [Sch. 9 para. 52](https://www.legislation.gov.uk/ukpga/2013/22/schedule/9/paragraph/52); [S.I. 2014/954](https://www.legislation.gov.uk/uksi/2014/954), [art. 2(c)](https://www.legislation.gov.uk/uksi/2014/954/article/2/c) (with [art. 3](https://www.legislation.gov.uk/uksi/2014/954/article/3)) (with transitional provisions and savings in [S.I. 2014/956](https://www.legislation.gov.uk/uksi/2014/956), arts. 3-11)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.35. Costs and expenses of witnesses[^key-c8ffe209868a3da7ff8f3e2d53cc6d18]
+## 4.35. Costs and expenses of witnesses[^c-c8ffe209868a3da7ff8f3e2d53cc6d18]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c8ffe209868a3da7ff8f3e2d53cc6d18]: Commencement: Rule 4.35 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)
+[^c-c8ffe209868a3da7ff8f3e2d53cc6d18]: Commencement: Rule 4.35 in force at 5.7.2018, see [rule 1.1](https://www.legislation.gov.uk/uksi/2018/719/rule/1)

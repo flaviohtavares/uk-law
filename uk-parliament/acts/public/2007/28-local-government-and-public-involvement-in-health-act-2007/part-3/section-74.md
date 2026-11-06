@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-331fdbd293f09cb2ba712c39b8a0f536] Schedule 3 (executives: further amendments) has effect.
+(1)[^c-331fdbd293f09cb2ba712c39b8a0f536] Schedule 3 (executives: further amendments) has effect.
 
 (2) Schedule 4 (new arrangements for executives: transitional provision) has effect.
 
@@ -28,4 +28,4 @@ summary: ''
 
 [^c19030091]: Commencement: S. 74(2) in force at Royal Assent, see s. 245(1)
 
-[^key-331fdbd293f09cb2ba712c39b8a0f536]: Commencement: S. 74(1) in force at 30.12.2007, see s. 245(2)
+[^c-331fdbd293f09cb2ba712c39b8a0f536]: Commencement: S. 74(1) in force at 30.12.2007, see s. 245(2)

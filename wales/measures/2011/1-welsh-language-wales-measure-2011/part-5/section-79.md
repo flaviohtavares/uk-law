@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 79. Requirement to prepare action plan or take steps[^key-7d411c68a7939dd0c69b5c822a690a1d]
+## 79. Requirement to prepare action plan or take steps[^c-7d411c68a7939dd0c69b5c822a690a1d]
 
 *Extent: E+W*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7d411c68a7939dd0c69b5c822a690a1d]: Commencement: [S. 79](https://www.legislation.gov.uk/mwa/2011/1/section/79) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)
+[^c-7d411c68a7939dd0c69b5c822a690a1d]: Commencement: [S. 79](https://www.legislation.gov.uk/mwa/2011/1/section/79) in force at 7.7.2015 by [S.I. 2015/1413](https://www.legislation.gov.uk/wsi/2015/1413), [art. 3(c)](https://www.legislation.gov.uk/wsi/2015/1413/article/3/c)

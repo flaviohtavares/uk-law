@@ -316,15 +316,15 @@ In Schedule 9 to the General Regulations (sums to be disregarded in the calculat
 
 In Schedule 10 to the General Regulations (capital to be disregarded) [^c1856095], in paragraph 23, following the word “occupational” there shall be added the words “ or personal ”.
 
-## 22. Saving Provision[^key-cb37d32686cb4a988a3e4722667c30e9]
+## 22. Saving Provision[^c-cb37d32686cb4a988a3e4722667c30e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 23. Circumstances in which regulation 22 ceases to apply[^key-cb37d32686cb4a988a3e4722667c30e9]
+## 23. Circumstances in which regulation 22 ceases to apply[^c-cb37d32686cb4a988a3e4722667c30e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 24. Permitted period[^key-cb37d32686cb4a988a3e4722667c30e9]
+## 24. Permitted period[^c-cb37d32686cb4a988a3e4722667c30e9]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -402,4 +402,4 @@ These Regulations further amend the Income Support (General) Regulations 1987 in
 
 [^c1856095]: Marginal citation: Paragraph 23 was added by regulation 36(b) of [S.I. 1988/663](https://www.legislation.gov.uk/uksi/1988/663).
 
-[^key-cb37d32686cb4a988a3e4722667c30e9]: Textual amendment: [Regs. 22-24](https://www.legislation.gov.uk/uksi/1991/1559/regulation/22) revoked (25.1.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2009 (S.I. 2009/3228)](https://www.legislation.gov.uk/uksi/2009/3228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/3228/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2009/3228/regulation/4/2)
+[^c-cb37d32686cb4a988a3e4722667c30e9]: Textual amendment: [Regs. 22-24](https://www.legislation.gov.uk/uksi/1991/1559/regulation/22) revoked (25.1.2010) by [Social Security (Miscellaneous Amendments) (No.5) Regulations 2009 (S.I. 2009/3228)](https://www.legislation.gov.uk/uksi/2009/3228), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2009/3228/regulation/1/2), [4(2)](https://www.legislation.gov.uk/uksi/2009/3228/regulation/4/2)

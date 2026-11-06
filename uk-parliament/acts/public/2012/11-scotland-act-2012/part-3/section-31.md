@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Disapplication of UK landfill tax[^key-4274c8eece1c8f61becb2fd9ee2c96bb]
+## 31. Disapplication of UK landfill tax[^c-4274c8eece1c8f61becb2fd9ee2c96bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4274c8eece1c8f61becb2fd9ee2c96bb]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2012/11/section/31) has effect as specified by [The Scotland Act 2012, Section 31 (Disapplication of UK Landfill Tax) (Appointed Day) Order 2015 (S.I. 2015/638)](https://www.legislation.gov.uk/uksi/2015/638), [art. 2](https://www.legislation.gov.uk/uksi/2015/638/article/2)
+[^c-4274c8eece1c8f61becb2fd9ee2c96bb]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2012/11/section/31) has effect as specified by [The Scotland Act 2012, Section 31 (Disapplication of UK Landfill Tax) (Appointed Day) Order 2015 (S.I. 2015/638)](https://www.legislation.gov.uk/uksi/2015/638), [art. 2](https://www.legislation.gov.uk/uksi/2015/638/article/2)

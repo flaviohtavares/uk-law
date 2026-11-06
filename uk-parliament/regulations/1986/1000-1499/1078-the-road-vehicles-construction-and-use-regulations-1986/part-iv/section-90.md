@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 90. Passengers in trailers[^key-1289d0bda0e902d78f4c24231ca5ed2d]
+## 90. Passengers in trailers[^c-1289d0bda0e902d78f4c24231ca5ed2d]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1289d0bda0e902d78f4c24231ca5ed2d]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/1986/1078/regulation/90) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)
+[^c-1289d0bda0e902d78f4c24231ca5ed2d]: Commencement: [Reg. 90](https://www.legislation.gov.uk/uksi/1986/1078/regulation/90) in force at 11.8.1986, see [reg. 1](https://www.legislation.gov.uk/uksi/1986/1078/regulation/1)

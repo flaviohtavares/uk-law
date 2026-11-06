@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97. Modification of Taxes Act 1988.[^key-d7b1d9bd51644a696181951ac4c066b2]
+## 97. Modification of Taxes Act 1988.[^c-d7b1d9bd51644a696181951ac4c066b2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d7b1d9bd51644a696181951ac4c066b2]: Textual amendment: S. 97 repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)
+[^c-d7b1d9bd51644a696181951ac4c066b2]: Textual amendment: S. 97 repealed (with effect in accordance with reg. 1 of the amending S.I.) by [The Overseas Life Insurance Companies Regulations 2006 (S.I. 2006/3271)](https://www.legislation.gov.uk/uksi/2006/3271), [reg. 1](https://www.legislation.gov.uk/uksi/2006/3271/regulation/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2006/3271/schedule/part/1)

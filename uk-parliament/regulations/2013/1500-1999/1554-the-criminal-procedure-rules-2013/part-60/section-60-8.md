@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60.8. Non-compliance by receiver[^key-d6d6e01211565fc420e3a8325dda7a09]
+## 60.8. Non-compliance by receiver[^c-d6d6e01211565fc420e3a8325dda7a09]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d6d6e01211565fc420e3a8325dda7a09]: Textual amendment: Rules revoked (6.10.2014) by [The Criminal Procedure Rules 2014 (S.I. 2014/1610)](https://www.legislation.gov.uk/uksi/2014/1610), [Preamble](https://www.legislation.gov.uk/uksi/2014/1610/introduction) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2014/1610/article/2.1))
+[^c-d6d6e01211565fc420e3a8325dda7a09]: Textual amendment: Rules revoked (6.10.2014) by [The Criminal Procedure Rules 2014 (S.I. 2014/1610)](https://www.legislation.gov.uk/uksi/2014/1610), [Preamble](https://www.legislation.gov.uk/uksi/2014/1610/introduction) (with [rule 2.1](https://www.legislation.gov.uk/uksi/2014/1610/article/2.1))
 
     \[**Editorial note**: No historical revised versions have been created for amendments to this S.I. made prior to its final revocation. A revised version of how the S.I. stood at its first commencement is available and, to see the document content as it originally stood when it was made, select the ‘Original (As Made)’ version. For further details of the amendments see the List of All Changes available in ‘More Resources’\]

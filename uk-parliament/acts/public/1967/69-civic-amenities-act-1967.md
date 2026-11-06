@@ -31,7 +31,7 @@ Civic Amenities Act 1967
 
 An Act to make further provision for the protection and improvement of buildings of architectural or historic interest and of the character of areas of such interest; for the preservation and planting of trees; and for the orderly disposal of disused vehicles and equipment and other rubbish.
 
-\[27th July 1967\][^c669337][^c669338][^key-3b72d50bb496172c376a95b697d38ce7]
+\[27th July 1967\][^c669337][^c669338][^c-3b72d50bb496172c376a95b697d38ce7]
 
 ## Part I — Preservation of areas and buildings of architectural or historic interest
 
@@ -41,11 +41,11 @@ An Act to make further provision for the protection and improvement of buildings
 
 ### 3. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c669341]
 
-### 4. Loans for preservation of historic buildings (affected by repeal, see note) etc. (affected by repeal, see note)[^key-dfce4d610af9a93fa58146b8d40a3e74][^key-dfce4d610af9a93fa58146b8d40a3e74][^key-dfce4d610af9a93fa58146b8d40a3e74]
+### 4. Loans for preservation of historic buildings (affected by repeal, see note) etc. (affected by repeal, see note)[^c-dfce4d610af9a93fa58146b8d40a3e74][^c-dfce4d610af9a93fa58146b8d40a3e74][^c-dfce4d610af9a93fa58146b8d40a3e74]
 
-(1) The power conferred by subsection (1) of section 4 of the *(affected by repeal, see note)*[^key-dfce4d610af9a93fa58146b8d40a3e74] [^c669342]Historic Buildings and Ancient Monuments Act 1953 to make grants for the purposes mentioned in that subsection shall include power to make loans for those purposes, and references to grants in subsections (3) and (4) of that section shall be construed accordingly. *(affected by repeal, see note)*[^key-dfce4d610af9a93fa58146b8d40a3e74]
+(1) The power conferred by subsection (1) of section 4 of the *(affected by repeal, see note)*[^c-dfce4d610af9a93fa58146b8d40a3e74] [^c669342]Historic Buildings and Ancient Monuments Act 1953 to make grants for the purposes mentioned in that subsection shall include power to make loans for those purposes, and references to grants in subsections (3) and (4) of that section shall be construed accordingly. *(affected by repeal, see note)*[^c-dfce4d610af9a93fa58146b8d40a3e74]
 
-(2) Any loan made by virtue of this section shall be made on such terms as to repayment, payment of interest and otherwise as the Minister making the loan may determine with the approval of the Treasury; and all sums received by any Minister by way of interest on or repayment of such a loan shall be paid into the Exchequer. *(affected by repeal, see note)*[^key-dfce4d610af9a93fa58146b8d40a3e74]
+(2) Any loan made by virtue of this section shall be made on such terms as to repayment, payment of interest and otherwise as the Minister making the loan may determine with the approval of the Treasury; and all sums received by any Minister by way of interest on or repayment of such a loan shall be paid into the Exchequer. *(affected by repeal, see note)*[^c-dfce4d610af9a93fa58146b8d40a3e74]
 
 ### 5. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c669351]
 
@@ -63,7 +63,7 @@ An Act to make further provision for the protection and improvement of buildings
 
 ### 12—14. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c669357]
 
-### 15. Penalties.[^key-2ecd5da56cd3da18aa8e7f127d9f20ca]
+### 15. Penalties.[^c-2ecd5da56cd3da18aa8e7f127d9f20ca]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -91,7 +91,7 @@ In subsection (1) of section 34 of the Public Health Act 1961 (which provides fo
 
 ### 30. Interpretation —general.
 
-(1)[^key-57b2037fa1a4735fa196b5f88e06efae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(1)[^c-57b2037fa1a4735fa196b5f88e06efae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (2) Any reference in this Act to any enactment is a reference to it as amended or applied by or under any other enactment, including this Act.
 
@@ -103,7 +103,7 @@ There shall be paid out of moneys provided by Parliament any increase attributab
 
 (1) This Act may be cited as the Civic Amenities Act 1967.
 
-(2)[^key-3f82c037d41086b8c66d62f08c3a5e61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-3f82c037d41086b8c66d62f08c3a5e61] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) This Act does not extend to Northern Ireland.
 
@@ -113,7 +113,7 @@ There shall be paid out of moneys provided by Parliament any increase attributab
 
 [^c669338]: Commencement: Act partly in force at Royal Assent and wholly in force at 27.8.1967, see [s. 32(2)](https://www.legislation.gov.uk/ukpga/1967/69/section/32/2).
 
-[^key-3b72d50bb496172c376a95b697d38ce7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1967/69): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
+[^c-3b72d50bb496172c376a95b697d38ce7]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1967/69): power to amend conferred (26.12.2023) by [Levelling-up and Regeneration Act 2023 (c. 55)](https://www.legislation.gov.uk/ukpga/2023/55), [ss. 132](https://www.legislation.gov.uk/ukpga/2023/55/section/132), [255(3)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/3/a) (with [s. 247](https://www.legislation.gov.uk/ukpga/2023/55/section/247))
 
 [^c669339]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/1967/69/section/1), [3](https://www.legislation.gov.uk/ukpga/1967/69/section/3), [6](https://www.legislation.gov.uk/ukpga/1967/69/section/6), [8](https://www.legislation.gov.uk/ukpga/1967/69/section/8), [11–14](https://www.legislation.gov.uk/ukpga/1967/69/section/11), [15(1)](https://www.legislation.gov.uk/ukpga/1967/69/section/15/1), [16](https://www.legislation.gov.uk/ukpga/1967/69/section/16), [17](https://www.legislation.gov.uk/ukpga/1967/69/section/17) repealed by [Town and Country Planning Act 1971 (c. 78)](https://www.legislation.gov.uk/ukpga/1971/78), [Sch. 25](https://www.legislation.gov.uk/ukpga/1971/78/schedule/25) and [Town and Country Planning (Scotland) Act 1972 (c. 52)](https://www.legislation.gov.uk/ukpga/1972/52), [Sch. 23](https://www.legislation.gov.uk/ukpga/1972/52/schedule/23)
 
@@ -121,7 +121,7 @@ There shall be paid out of moneys provided by Parliament any increase attributab
 
 [^c669341]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/1967/69/section/1), [3](https://www.legislation.gov.uk/ukpga/1967/69/section/3), [6](https://www.legislation.gov.uk/ukpga/1967/69/section/6), [8](https://www.legislation.gov.uk/ukpga/1967/69/section/8), [11–14](https://www.legislation.gov.uk/ukpga/1967/69/section/11), [15(1)](https://www.legislation.gov.uk/ukpga/1967/69/section/15/1), [16](https://www.legislation.gov.uk/ukpga/1967/69/section/16), [17](https://www.legislation.gov.uk/ukpga/1967/69/section/17) repealed by [Town and Country Planning Act 1971 (c. 78)](https://www.legislation.gov.uk/ukpga/1971/78), [Sch. 25](https://www.legislation.gov.uk/ukpga/1971/78/schedule/25) and [Town and Country Planning (Scotland) Act 1972 (c. 52)](https://www.legislation.gov.uk/ukpga/1972/52), [Sch. 23](https://www.legislation.gov.uk/ukpga/1972/52/schedule/23)
 
-[^key-dfce4d610af9a93fa58146b8d40a3e74]: Textual amendment: S. 4 omitted (W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 12](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/12) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
+[^c-dfce4d610af9a93fa58146b8d40a3e74]: Textual amendment: S. 4 omitted (W.) (4.11.2024) by virtue of [Historic Environment (Wales) Act 2023 (asc 3)](https://www.legislation.gov.uk/asc/2023/3), [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2), [Sch. 13 para. 12](https://www.legislation.gov.uk/asc/2023/3/schedule/13/paragraph/12) (with [Sch. 14 paras. 1-3](https://www.legislation.gov.uk/asc/2023/3/schedule/14/paragraph/1)); [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(d)](https://www.legislation.gov.uk/wsi/2024/860/article/3/d)
 
 [^c669342]: Marginal citation: [1953 c. 49](https://www.legislation.gov.uk/ukpga/1953/49).
 
@@ -139,7 +139,7 @@ There shall be paid out of moneys provided by Parliament any increase attributab
 
 [^c669357]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/1967/69/section/1), [3](https://www.legislation.gov.uk/ukpga/1967/69/section/3), [6](https://www.legislation.gov.uk/ukpga/1967/69/section/6), [8](https://www.legislation.gov.uk/ukpga/1967/69/section/8), [11–14](https://www.legislation.gov.uk/ukpga/1967/69/section/11), [15(1)](https://www.legislation.gov.uk/ukpga/1967/69/section/15/1), [16](https://www.legislation.gov.uk/ukpga/1967/69/section/16), [17](https://www.legislation.gov.uk/ukpga/1967/69/section/17) repealed by [Town and Country Planning Act 1971 (c. 78)](https://www.legislation.gov.uk/ukpga/1971/78), [Sch. 25](https://www.legislation.gov.uk/ukpga/1971/78/schedule/25) and [Town and Country Planning (Scotland) Act 1972 (c. 52)](https://www.legislation.gov.uk/ukpga/1972/52), [Sch. 23](https://www.legislation.gov.uk/ukpga/1972/52/schedule/23)
 
-[^key-2ecd5da56cd3da18aa8e7f127d9f20ca]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/1967/69/section/15) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-2ecd5da56cd3da18aa8e7f127d9f20ca]: Textual amendment: [S. 15](https://www.legislation.gov.uk/ukpga/1967/69/section/15) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
 [^c669361]: Textual amendment: [Ss. 1](https://www.legislation.gov.uk/ukpga/1967/69/section/1), [3](https://www.legislation.gov.uk/ukpga/1967/69/section/3), [6](https://www.legislation.gov.uk/ukpga/1967/69/section/6), [8](https://www.legislation.gov.uk/ukpga/1967/69/section/8), [11–14](https://www.legislation.gov.uk/ukpga/1967/69/section/11), [15(1)](https://www.legislation.gov.uk/ukpga/1967/69/section/15/1), [16](https://www.legislation.gov.uk/ukpga/1967/69/section/16), [17](https://www.legislation.gov.uk/ukpga/1967/69/section/17) repealed by [Town and Country Planning Act 1971 (c. 78)](https://www.legislation.gov.uk/ukpga/1971/78), [Sch. 25](https://www.legislation.gov.uk/ukpga/1971/78/schedule/25) and [Town and Country Planning (Scotland) Act 1972 (c. 52)](https://www.legislation.gov.uk/ukpga/1972/52), [Sch. 23](https://www.legislation.gov.uk/ukpga/1972/52/schedule/23)
 
@@ -155,6 +155,6 @@ There shall be paid out of moneys provided by Parliament any increase attributab
 
 [^c669367]: Textual amendment: Words substituted by virtue of [S.I. 1970/1681](https://www.legislation.gov.uk/uksi/1970/1681), [arts. 2(1)](https://www.legislation.gov.uk/uksi/1970/1681/article/2/1), [6(3)](https://www.legislation.gov.uk/uksi/1970/1681/article/6/3)
 
-[^key-57b2037fa1a4735fa196b5f88e06efae]: Textual amendment: [S. 30(1)](https://www.legislation.gov.uk/ukpga/1967/69/section/30/1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-57b2037fa1a4735fa196b5f88e06efae]: Textual amendment: [S. 30(1)](https://www.legislation.gov.uk/ukpga/1967/69/section/30/1) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
 
-[^key-3f82c037d41086b8c66d62f08c3a5e61]: Textual amendment: [S. 32(2)](https://www.legislation.gov.uk/ukpga/1967/69/section/32/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)
+[^c-3f82c037d41086b8c66d62f08c3a5e61]: Textual amendment: [S. 32(2)](https://www.legislation.gov.uk/ukpga/1967/69/section/32/2) repealed (21.7.2008) by [Statute Law (Repeals) Act 2008 (c. 12)](https://www.legislation.gov.uk/ukpga/2008/12), [Sch. 1 Pt. 9](https://www.legislation.gov.uk/ukpga/2008/12/schedule/1/part/9)

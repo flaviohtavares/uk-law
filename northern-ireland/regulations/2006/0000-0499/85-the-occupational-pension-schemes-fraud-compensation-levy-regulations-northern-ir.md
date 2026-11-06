@@ -41,11 +41,11 @@ Coming into operation
 
 The Department for Social Development makes the following Regulations in exercise of the powers conferred by Articles 10(3), 75(10) and 87(2) of the Pensions (Northern Ireland) Order 1995[^f00001], and now vested in it[^f00002], and Articles 171(1), (4), (6) and (11) and 287(2) and (3) of the Pensions (Northern Ireland) Order 2005[^f00003].
 
-## 1. Citation and commencement[^key-8aa45b2637f4f7f497621e5601cf931c]
+## 1. Citation and commencement[^c-8aa45b2637f4f7f497621e5601cf931c]
 
 These Regulations may be cited as the Occupational Pension Schemes (Fraud Compensation Levy) Regulations (Northern Ireland) 2006 and shall come into operation on 1st April 2006.
 
-## 2. Interpretation[^key-b6dab7dbbc16d50261ccb81e46212ad9]
+## 2. Interpretation[^c-b6dab7dbbc16d50261ccb81e46212ad9]
 
 (1) In these Regulations—
 
@@ -70,7 +70,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Fraud Compen
 
 (2) In these regulations any reference to a numbered Article is a reference to the Article of the Order bearing that number.
 
-## 3. The fraud compensation levy[^key-0c33d68a6d93507a3f7dc3b04207fb74]
+## 3. The fraud compensation levy[^c-0c33d68a6d93507a3f7dc3b04207fb74]
 
 (1) For the purposes of meeting expenditure payable out of the Fraud Compensation Fund, trustees or managers of schemes shall be liable to pay a fraud compensation levy in respect of each financial year.
 
@@ -79,7 +79,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Fraud Compen
 (3) The fraud compensation levy payable shall—
 
 - (a) be payable by reference to the total number of members of the scheme on the reference day, and
-- (b)[^key-7f751838faa509f5e3e603e79f8ab1ff] not exceed—
+- (b)[^c-7f751838faa509f5e3e603e79f8ab1ff] not exceed—
   - (i) in the case of a scheme which is authorised by the Regulator under section 5 of the Pension Schemes Act (Northern Ireland) 2021 (decision on application), 65 pence per member, and
   - (ii) in any other case, £1.80 per member.
 
@@ -87,7 +87,7 @@ These Regulations may be cited as the Occupational Pension Schemes (Fraud Compen
 
 (5) Where a scheme ceases to be a registrable scheme during a financial year, any fraud compensation levy payable is payable in full for that year.
 
-## 4. The reference day[^key-04d083ed8e724874228d788a9cc62085]
+## 4. The reference day[^c-04d083ed8e724874228d788a9cc62085]
 
 (1) Subject to paragraph (2), the reference day for a scheme is the last day of the scheme year which ended before the beginning of the previous financial year.
 
@@ -98,13 +98,13 @@ These Regulations may be cited as the Occupational Pension Schemes (Fraud Compen
 
 the reference day is the date on which the scheme becomes a registrable scheme.
 
-## 5. Payment of the fraud compensation levy[^key-da9caf9e3da10822af4ba0dc8f412d6c]
+## 5. Payment of the fraud compensation levy[^c-da9caf9e3da10822af4ba0dc8f412d6c]
 
 (1) The fraud compensation levy shall be payable on the first day of a financial year (“payable date”).
 
 (2) If the amount of any fraud compensation levy payable is not notified under Article 171(7)(c) (fraud compensation levy: notice of amount of levy) to the trustees or managers of a scheme before the payable date, the levy is payable within the period of 28 days beginning with the date on which the notification is given.
 
-## 6. Notices[^key-ecf5d90cce19c7940d8d8c67c743c64a]
+## 6. Notices[^c-ecf5d90cce19c7940d8d8c67c743c64a]
 
 (1) Subject to paragraph (2), where any fraud compensation levy is payable, the notice referred to in Article 171(6) (fraud compensation levy: notice of rates) must be given—
 
@@ -113,7 +113,7 @@ the reference day is the date on which the scheme becomes a registrable scheme.
 
 (2) The Board shall take reasonable steps to ascertain the address to which the notice should be sent.
 
-## 7. Waiver[^key-e11c7989295eb83b13e6b45848f5108a]
+## 7. Waiver[^c-e11c7989295eb83b13e6b45848f5108a]
 
 (1) Where any fraud compensation levy is payable, the Board shall waive payment of an amount payable by way of the levy if the trustees or managers of the scheme confirm in writing to the Board—
 
@@ -126,7 +126,7 @@ the reference day is the date on which the scheme becomes a registrable scheme.
 
 (3) Paragraph (1) shall not apply in the case of a stakeholder pension scheme.
 
-## 8. Multi-employer schemes[^key-050ed3feebb2567b973d02647badea5d]
+## 8. Multi-employer schemes[^c-050ed3feebb2567b973d02647badea5d]
 
 (1) If a scheme in relation to which there is more than one employer is divided into two or more sections and the provisions of the scheme are such that they meet conditions A and B, the provisions of these Regulations (apart from this regulation) apply as if each section of the scheme were a separate scheme.
 
@@ -140,9 +140,9 @@ the reference day is the date on which the scheme becomes a registrable scheme.
 
 (6) For the purposes of this regulation, any provisions of the scheme by virtue of which assets attributable to one section may on the winding up of the scheme or a section be used for the purposes of another section are disregarded.
 
-## 9. Partially guaranteed schemes[^key-8c4e18135f2b7e3b54f18a81a3b5641c]
+## 9. Partially guaranteed schemes[^c-8c4e18135f2b7e3b54f18a81a3b5641c]
 
-(1) Except where paragraph (3) applies, this regulation[^key-176ce0a28fed8a5e6bcdc2099d7fb607] applies if a relevant public authority has—
+(1) Except where paragraph (3) applies, this regulation[^c-176ce0a28fed8a5e6bcdc2099d7fb607] applies if a relevant public authority has—
 
 - (a) given a guarantee in relation to any part of a scheme, any benefits payable under the scheme, or any member of the scheme, or
 - (b) made any other arrangements for the purpose of securing that the assets of the scheme are sufficient to meet any part of its liabilities.
@@ -153,9 +153,9 @@ the reference day is the date on which the scheme becomes a registrable scheme.
 - (b) which relates to benefits payable under the scheme in relation to which the guarantee has been given, or
 - (c) which relates to benefits payable under the scheme in relation to the liabilities for which those other arrangements have been made.
 
-(3)[^key-a242be240f53ccda1b2d22e6d3fe07fc] This paragraph applies where regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations (Northern Ireland) 2005 (schemes to which regulation 2(1) does not apply) applies to a scheme.
+(3)[^c-a242be240f53ccda1b2d22e6d3fe07fc] This paragraph applies where regulation 2A of the Pension Protection Fund (Partially Guaranteed Schemes) (Modification) Regulations (Northern Ireland) 2005 (schemes to which regulation 2(1) does not apply) applies to a scheme.
 
-## 10. Avoidance of double liability: schemes in Great Britain[^key-4349206e33a1b23cb937ec210fb2d89e]
+## 10. Avoidance of double liability: schemes in Great Britain[^c-4349206e33a1b23cb937ec210fb2d89e]
 
 (1) This regulation applies if, apart from paragraph (2), the fraud compensation levy would be payable in respect of a scheme in respect of which a corresponding Great Britain levy is imposed.
 
@@ -165,14 +165,14 @@ the reference day is the date on which the scheme becomes a registrable scheme.
 
 (4) For the purposes of paragraph (1), a fraud compensation levy is a corresponding Great Britain levy if it is imposed under provisions equivalent to those made under Article 171 (fraud compensation levy).
 
-## 11. Penalties[^key-755aeb2db7733f5a15c35db90412490a]
+## 11. Penalties[^c-755aeb2db7733f5a15c35db90412490a]
 
-Where any person, without reasonable cause, fails to pay any fraud compensation levy which is payable under regulation 3(1), the Regulator may by notice in writing[^key-ec678c0db6667e35a5d0ca0f4f549f34] require that person to pay within 28 days, after the levy became due, a penalty which shall—
+Where any person, without reasonable cause, fails to pay any fraud compensation levy which is payable under regulation 3(1), the Regulator may by notice in writing[^c-ec678c0db6667e35a5d0ca0f4f549f34] require that person to pay within 28 days, after the levy became due, a penalty which shall—
 
 - (a) in the case of an individual, not exceed £1,000, and
 - (b) in any other case, not exceed £10,000.
 
-## 12. Amendment of the Occupational Pension Schemes (Employer Debt) Regulations[^key-4b08e26fa87caea0e49db08711f44cfe]
+## 12. Amendment of the Occupational Pension Schemes (Employer Debt) Regulations[^c-4b08e26fa87caea0e49db08711f44cfe]
 
 In regulation 10 of the Occupational Pension Schemes (Employer Debt) Regulations (Northern Ireland) 2005[^f00006] (money purchase schemes: fraud and levy deficiencies etc.)—
 
@@ -225,40 +225,40 @@ As these Regulations make in relation to Northern Ireland only provision corresp
 
 [^f00003]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-8aa45b2637f4f7f497621e5601cf931c]: Commencement: Reg. 1 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
+[^c-8aa45b2637f4f7f497621e5601cf931c]: Commencement: Reg. 1 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
 
-[^key-b6dab7dbbc16d50261ccb81e46212ad9]: Commencement: Reg. 2 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
+[^c-b6dab7dbbc16d50261ccb81e46212ad9]: Commencement: Reg. 2 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
 
 [^f00004]: Footnote: [S.R. 2005 No. 93](https://www.legislation.gov.uk/nisr/2005/93); regulation 2 was amended by regulation 5(3) of [S.R. 2006 No. 65](https://www.legislation.gov.uk/nisr/2006/65)
 
 [^f00005]: Footnote: [S.I. 1999/3147 (N.I. 11)](https://www.legislation.gov.uk/nisi/1999/3147); Article 3 was amended by Article 262(2) to (4) of the Pensions (Northern Ireland) Order 2005
 
-[^key-0c33d68a6d93507a3f7dc3b04207fb74]: Commencement: Reg. 3 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
+[^c-0c33d68a6d93507a3f7dc3b04207fb74]: Commencement: Reg. 3 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
 
-[^key-7f751838faa509f5e3e603e79f8ab1ff]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/nisr/2006/85/regulation/3/3/b) substituted (1.4.2022) by [The Occupational Pension Schemes (Fraud Compensation Levy) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/98)](https://www.legislation.gov.uk/nisr/2022/98), [regs. 1](https://www.legislation.gov.uk/nisr/2022/98/regulation/1), [2](https://www.legislation.gov.uk/nisr/2022/98/regulation/2)
+[^c-7f751838faa509f5e3e603e79f8ab1ff]: Textual amendment: [Reg. 3(3)(b)](https://www.legislation.gov.uk/nisr/2006/85/regulation/3/3/b) substituted (1.4.2022) by [The Occupational Pension Schemes (Fraud Compensation Levy) (Amendment) Regulations (Northern Ireland) 2022 (S.R. 2022/98)](https://www.legislation.gov.uk/nisr/2022/98), [regs. 1](https://www.legislation.gov.uk/nisr/2022/98/regulation/1), [2](https://www.legislation.gov.uk/nisr/2022/98/regulation/2)
 
-[^key-04d083ed8e724874228d788a9cc62085]: Commencement: Reg. 4 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
+[^c-04d083ed8e724874228d788a9cc62085]: Commencement: Reg. 4 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
 
-[^key-da9caf9e3da10822af4ba0dc8f412d6c]: Commencement: Reg. 5 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
+[^c-da9caf9e3da10822af4ba0dc8f412d6c]: Commencement: Reg. 5 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
 
-[^key-ecf5d90cce19c7940d8d8c67c743c64a]: Commencement: Reg. 6 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
+[^c-ecf5d90cce19c7940d8d8c67c743c64a]: Commencement: Reg. 6 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
 
-[^key-e11c7989295eb83b13e6b45848f5108a]: Commencement: Reg. 7 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
+[^c-e11c7989295eb83b13e6b45848f5108a]: Commencement: Reg. 7 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
 
-[^key-050ed3feebb2567b973d02647badea5d]: Commencement: Reg. 8 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
+[^c-050ed3feebb2567b973d02647badea5d]: Commencement: Reg. 8 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
 
-[^key-8c4e18135f2b7e3b54f18a81a3b5641c]: Commencement: Reg. 9 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
+[^c-8c4e18135f2b7e3b54f18a81a3b5641c]: Commencement: Reg. 9 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
 
-[^key-176ce0a28fed8a5e6bcdc2099d7fb607]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2006/85/regulation/9/1) substituted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [7(a)](https://www.legislation.gov.uk/nisr/2010/32/regulation/7/a)
+[^c-176ce0a28fed8a5e6bcdc2099d7fb607]: Textual amendment: Words in [reg. 9(1)](https://www.legislation.gov.uk/nisr/2006/85/regulation/9/1) substituted (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [7(a)](https://www.legislation.gov.uk/nisr/2010/32/regulation/7/a)
 
-[^key-a242be240f53ccda1b2d22e6d3fe07fc]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/nisr/2006/85/regulation/9/3) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [7(b)](https://www.legislation.gov.uk/nisr/2010/32/regulation/7/b)
+[^c-a242be240f53ccda1b2d22e6d3fe07fc]: Textual amendment: [Reg. 9(3)](https://www.legislation.gov.uk/nisr/2006/85/regulation/9/3) added (8.3.2010) by [The Pension Protection Fund and Occupational Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2010 (S.R. 2010/32)](https://www.legislation.gov.uk/nisr/2010/32), [regs. 1](https://www.legislation.gov.uk/nisr/2010/32/regulation/1), [7(b)](https://www.legislation.gov.uk/nisr/2010/32/regulation/7/b)
 
-[^key-4349206e33a1b23cb937ec210fb2d89e]: Commencement: Reg. 10 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
+[^c-4349206e33a1b23cb937ec210fb2d89e]: Commencement: Reg. 10 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
 
-[^key-755aeb2db7733f5a15c35db90412490a]: Commencement: Reg. 11 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
+[^c-755aeb2db7733f5a15c35db90412490a]: Commencement: Reg. 11 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
 
-[^key-ec678c0db6667e35a5d0ca0f4f549f34]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2006/85/regulation/11) inserted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [19](https://www.legislation.gov.uk/nisr/2009/115/regulation/19)
+[^c-ec678c0db6667e35a5d0ca0f4f549f34]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/nisr/2006/85/regulation/11) inserted (6.4.2009) by [The Occupational and Personal Pension Schemes (Miscellaneous Amendments) Regulations (Northern Ireland) 2009 (S.R. 2009/115)](https://www.legislation.gov.uk/nisr/2009/115), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2009/115/regulation/1/2), [19](https://www.legislation.gov.uk/nisr/2009/115/regulation/19)
 
-[^key-4b08e26fa87caea0e49db08711f44cfe]: Commencement: Reg. 12 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
+[^c-4b08e26fa87caea0e49db08711f44cfe]: Commencement: Reg. 12 in operation at 1.4.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/85/regulation/1)
 
 [^f00006]: Footnote: [S.R. 2005 No. 168](https://www.legislation.gov.uk/nisr/2005/168) to which there are amendments not relevant to these Regulations

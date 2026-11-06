@@ -46,7 +46,7 @@ summary: ''
 - [^c19339701]...
 - section 47(2);
 - section 49;
-- [^key-f3bc86a0fefb245144a12dab32dbce81]...
+- [^c-f3bc86a0fefb245144a12dab32dbce81]...
 - section 64 (including Schedule 10);
 - section 68(2) (including Schedule 13);
 - section 75;[^c19339711]
@@ -67,9 +67,9 @@ summary: ''
 
 (8) Section 79 above extends to Scotland only, so far as it relates to paragraph 18 of Schedule 17.
 
-(9)[^key-6b6b50faa74f7d2538497c7474de80ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(9)[^c-6b6b50faa74f7d2538497c7474de80ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(10)[^key-c345ac6accbe5632011634ec949b3bf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-c345ac6accbe5632011634ec949b3bf2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) Her Majesty may by Order in Council direct that all or any of the enactments specified in subsection (12) below shall extend, subject to such modifications as may be specified in the Order, to the Isle of Man or any of the Channel Islands.
 
@@ -82,7 +82,7 @@ summary: ''
   - (ii) section 39 (including Schedules 2 and 3);
   - (iii) section 40;
   - (iv) sections 46 and 47;
-  - (v)[^key-453fdc7d922a9956db552a6f037cab06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (v)[^c-453fdc7d922a9956db552a6f037cab06] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (vi) section 64 (including Schedule 10);
   - (vii) section 74(1); and
   - (viii) section 75.
@@ -105,7 +105,7 @@ summary: ''
 
 [^c19339701]: Textual amendment: Words repealed by [Airports Act 1986 (c. 31, SIF 9)](https://www.legislation.gov.uk/ukpga/1986/31), [s. 83(5)](https://www.legislation.gov.uk/ukpga/1986/31/section/83/5), [Sch. 6](https://www.legislation.gov.uk/ukpga/1986/31/schedule/6)
 
-[^key-f3bc86a0fefb245144a12dab32dbce81]: Textual amendment: Words in s. 81(5) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+[^c-f3bc86a0fefb245144a12dab32dbce81]: Textual amendment: Words in s. 81(5) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
 
 [^c19339711]: Textual amendment: Words inserted by [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703), [art. 19(1)](https://www.legislation.gov.uk/nisi/1984/703/article/19/1), [Sch. 6 para. 29](https://www.legislation.gov.uk/nisi/1984/703/schedule/6/paragraph/29)(*c*)
 
@@ -113,15 +113,15 @@ summary: ''
 
 [^c19339731]: Marginal citation: [1899 c. 19](https://www.legislation.gov.uk/ukpga/1899/19).
 
-[^key-6b6b50faa74f7d2538497c7474de80ba]: Textual amendment: S. 81(9) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-6b6b50faa74f7d2538497c7474de80ba]: Textual amendment: S. 81(9) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
-[^key-c345ac6accbe5632011634ec949b3bf2]: Textual amendment: S. 81(10) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-c345ac6accbe5632011634ec949b3bf2]: Textual amendment: S. 81(10) repealed (28.3.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [Armed Forces Act 2006 (c. 52)](https://www.legislation.gov.uk/ukpga/2006/52), [s. 383(2)](https://www.legislation.gov.uk/ukpga/2006/52/section/383/2), [Sch. 17](https://www.legislation.gov.uk/ukpga/2006/52/schedule/17); [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059)); [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
 
 [^c19339781]: Marginal citation: [1977 c. 45](https://www.legislation.gov.uk/ukpga/1977/45).
 
 [^c19339791]: Marginal citation: [1980 c. 43](https://www.legislation.gov.uk/ukpga/1980/43).
 
-[^key-453fdc7d922a9956db552a6f037cab06]: Textual amendment: S. 81(12)(c)(v) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
+[^c-453fdc7d922a9956db552a6f037cab06]: Textual amendment: S. 81(12)(c)(v) repealed (8.2.2007) by [Wireless Telegraphy Act 2006 (c. 36)](https://www.legislation.gov.uk/ukpga/2006/36), [s. 126(2)](https://www.legislation.gov.uk/ukpga/2006/36/section/126/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/9/part/1) (with [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2006/36/schedule/8/part/1))
 
 [^c19339801]: Textual amendment: S. 81(13) repealed (1.1.1996) by [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21), [ss. 314(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/314/1), [316(2)](https://www.legislation.gov.uk/ukpga/1995/21/section/316/2), [Sch.12](https://www.legislation.gov.uk/ukpga/1995/21/schedule/12) (with [s. 312(1)](https://www.legislation.gov.uk/ukpga/1995/21/section/312/1), [Sch. 14 para. 1](https://www.legislation.gov.uk/ukpga/1995/21/schedule/14/paragraph/1))
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 186. Further provisions relating to intermittent custody[^key-2f666dfe51ba7644fab9216627d6f9ef]
+## 186. Further provisions relating to intermittent custody[^c-2f666dfe51ba7644fab9216627d6f9ef]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2f666dfe51ba7644fab9216627d6f9ef]: Textual amendment: Ss. 181-188 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 89(1)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/89/1/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/a)
+[^c-2f666dfe51ba7644fab9216627d6f9ef]: Textual amendment: Ss. 181-188 omitted (3.12.2012) by virtue of [Legal Aid, Sentencing and Punishment of Offenders Act 2012 (c. 10)](https://www.legislation.gov.uk/ukpga/2012/10), [ss. 89(1)(a)](https://www.legislation.gov.uk/ukpga/2012/10/section/89/1/a), [151(1)](https://www.legislation.gov.uk/ukpga/2012/10/section/151/1); [S.I. 2012/2906](https://www.legislation.gov.uk/uksi/2012/2906), [art. 2(a)](https://www.legislation.gov.uk/uksi/2012/2906/article/2/a)

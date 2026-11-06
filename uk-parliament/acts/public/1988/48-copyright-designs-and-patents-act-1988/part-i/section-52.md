@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Effect of exploitation of design derived from artistic work.[^key-72f3e23c8e46c258e41e238d0b425d82]
+## 52. Effect of exploitation of design derived from artistic work.[^c-72f3e23c8e46c258e41e238d0b425d82]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72f3e23c8e46c258e41e238d0b425d82]: Textual amendment: S. 52 omitted (28.7.2016) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/74/2), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2016/593](https://www.legislation.gov.uk/uksi/2016/593), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2016/593/article/2/1), [3](https://www.legislation.gov.uk/uksi/2016/593/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2016/593/article/4), [5](https://www.legislation.gov.uk/uksi/2016/593/article/5))
+[^c-72f3e23c8e46c258e41e238d0b425d82]: Textual amendment: S. 52 omitted (28.7.2016) by virtue of [Enterprise and Regulatory Reform Act 2013 (c. 24)](https://www.legislation.gov.uk/ukpga/2013/24), [ss. 74(2)](https://www.legislation.gov.uk/ukpga/2013/24/section/74/2), [103(3)](https://www.legislation.gov.uk/ukpga/2013/24/section/103/3); [S.I. 2016/593](https://www.legislation.gov.uk/uksi/2016/593), [arts. 2(1)](https://www.legislation.gov.uk/uksi/2016/593/article/2/1), [3](https://www.legislation.gov.uk/uksi/2016/593/article/3) (with [arts. 4](https://www.legislation.gov.uk/uksi/2016/593/article/4), [5](https://www.legislation.gov.uk/uksi/2016/593/article/5))

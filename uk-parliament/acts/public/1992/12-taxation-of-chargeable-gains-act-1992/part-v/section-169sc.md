@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 169SC. Election by individual where company ceases to be personal company[^key-54aca3dbf6a607f6e276424c1fec282b]
+## 169SC. Election by individual where company ceases to be personal company[^c-54aca3dbf6a607f6e276424c1fec282b]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,7 +27,7 @@ summary: ''
 (3) The second condition is that—
 
 - (a) if, immediately before the relevant share issue, the individual had made a disposal at their relevant value of all assets consisting of shares in or securities of the company, the disposal would have been a material disposal of business assets, and
-- (b) if a claim for business asset disposal relief[^key-81bc625811da9cbe5b35aca85a72dfb8] had been made in respect of that disposal, a chargeable gain would have been treated by section 169N(2) as accruing to the individual.
+- (b) if a claim for business asset disposal relief[^c-81bc625811da9cbe5b35aca85a72dfb8] had been made in respect of that disposal, a chargeable gain would have been treated by section 169N(2) as accruing to the individual.
 
 (4) Where this section has effect, the individual is to be treated for the purposes of this Act—
 
@@ -65,6 +65,6 @@ at their relevant value.
 
 ## Annotations
 
-[^key-54aca3dbf6a607f6e276424c1fec282b]: Textual amendment: Pt. 5 Ch. 3A inserted (with effect in accordance with Sch. 16 para. 4(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/3)
+[^c-54aca3dbf6a607f6e276424c1fec282b]: Textual amendment: Pt. 5 Ch. 3A inserted (with effect in accordance with Sch. 16 para. 4(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 16 para. 3](https://www.legislation.gov.uk/ukpga/2019/1/schedule/16/paragraph/3)
 
-[^key-81bc625811da9cbe5b35aca85a72dfb8]: Textual amendment: Words in Act substituted (with effect for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/2/a), [8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/8) (with [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/3))
+[^c-81bc625811da9cbe5b35aca85a72dfb8]: Textual amendment: Words in Act substituted (with effect for the tax year 2020-21 and subsequent tax years) by [Finance Act 2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), [Sch. 3 paras. 7(2)(a)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/2/a), [8](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/8) (with [Sch. 3 para. 7(3)](https://www.legislation.gov.uk/ukpga/2020/14/schedule/3/paragraph/7/3))

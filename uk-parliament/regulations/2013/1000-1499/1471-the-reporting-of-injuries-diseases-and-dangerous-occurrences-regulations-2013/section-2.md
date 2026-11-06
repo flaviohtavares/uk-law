@@ -36,7 +36,7 @@ summary: ''
 - “**biological agent**” has the meaning given by regulation 2(1) of the 2002 Regulations;
 - “**carcinogen**” has the meaning given by regulation 2(1) of the 2002 Regulations;
 - “**consecutive days**” includes any days which are not or would not have been working days;
-- “**construction site**” has the meaning given by regulation 2(1) of the Construction (Design and Management) Regulations 2015[^key-619056c45c9ca08f789a9072395f6ba8];
+- “**construction site**” has the meaning given by regulation 2(1) of the Construction (Design and Management) Regulations 2015[^c-619056c45c9ca08f789a9072395f6ba8];
 - “**dangerous occurrence**” means an occurrence which arises out of or in connection with work and is of a class specified in—
   - (a) Part 1 of Schedule 2;
   - (b) Part 2 of Schedule 2 and takes place anywhere except an offshore workplace;
@@ -51,10 +51,10 @@ summary: ''
 - “diving contractor” and “diving project” have the meanings they are given by regulation 2(1) of the Diving at Work Regulations 1997 [^c21824321];
 - “**dock**” means any place to which section 125(1) of the Factories Act 1961 [^c21824331] applies;
 - “**the Executive**” means the Health and Safety Executive;
-- “**explosives**” has the meaning given by regulation 2(1) of the Explosives Regulations 2014[^key-96d98ba6a38c48fafae63e51d4f5a2b6];
+- “**explosives**” has the meaning given by regulation 2(1) of the Explosives Regulations 2014[^c-96d98ba6a38c48fafae63e51d4f5a2b6];
 - “**factory**” has the meaning given by section 175 of the Factories Act 1961;
 - “flammable gas” and “flammable liquid” have the meanings associated with those hazard classes in Part 2 of Annex I of Regulation [(EC) No 1272/2008](https://www.legislation.gov.uk/european/regulation/2008/1272) (the CLP Regulation) [^c21824351];
-- “mine” has the meaning given by regulation 3 of the Mines Regulations 2014 and for the purposes of these Regulations includes a tip within the meaning of regulation 4(3)(b) of those Regulations which is associated with such a mine;[^key-978fc93ddb94b2d9e122cd03ef9072e5]
+- “mine” has the meaning given by regulation 3 of the Mines Regulations 2014 and for the purposes of these Regulations includes a tip within the meaning of regulation 4(3)(b) of those Regulations which is associated with such a mine;[^c-978fc93ddb94b2d9e122cd03ef9072e5]
 - “**mutagen**” has the meaning given by regulation 2(1) of the 2002 Regulations;
 - “**nominated person**” means, in relation to a mine or quarry, the person (if any) who is for the time being nominated—
   - (a) in a case where there is an association or body representative of a majority of the total number of persons employed at a mine or quarry, by that association or body; or
@@ -67,7 +67,7 @@ summary: ''
 - “**operator**” means—
   - (a) in relation to a pipeline, the person identified as such by regulation 2(1) of the Pipelines Safety Regulations 1996 [^c21824361]; and
   - (b) in relation to a quarry, the person in overall control of the working of the quarry;
-- “**the ORR**” means the Office of Rail and Road[^key-df2caf4b658777182a89f0763ee5400c];
+- “**the ORR**” means the Office of Rail and Road[^c-df2caf4b658777182a89f0763ee5400c];
 - “**owner**” in relation to a mine means the person who is for the time being entitled to work it;
 - “**passenger train**” means a train carrying passengers or made available for that purpose;
 - “pipeline” and “pipeline works” have the meanings given by article 6(2) of the 2013 Order;
@@ -96,8 +96,8 @@ summary: ''
 - “**specified injury**” means any injury or condition specified in regulation 4(1)(a) to (h);
 - “**train**” includes a locomotive, tramcar or other power unit, and any vehicle used on a relevant transport system;
 - “**well**” includes any structures and devices on top of a well;
-- “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of Great Britain;[^key-25dcc56295c641c45ce9b8cc643b42de]
-- “**workmen's inspectors**” means workmen's inspectors exercising the powers conferred on them by either regulation 5 of the Safety Representatives and Safety Committees Regulations 1977 in relation to a mine[^key-89c54c54037012f25f4e12ff3a54ecaa] or regulation 40 of the 1999 Regulations;
+- “working day” means any day other than a Saturday, a Sunday, Christmas Day, Good Friday or a day which is a bank holiday under the Banking and Financial Dealings Act 1971 in any part of Great Britain;[^c-25dcc56295c641c45ce9b8cc643b42de]
+- “**workmen's inspectors**” means workmen's inspectors exercising the powers conferred on them by either regulation 5 of the Safety Representatives and Safety Committees Regulations 1977 in relation to a mine[^c-89c54c54037012f25f4e12ff3a54ecaa] or regulation 40 of the 1999 Regulations;
 - “**work-related accident**” means an accident arising out of or in connection with work.
 
 (2) In these Regulations, any reference to a work-related accident or dangerous occurrence includes an accident or dangerous occurrence attributable to—
@@ -124,26 +124,26 @@ summary: ''
 
 [^c21824301]: Marginal citation: [S.I. 2006/557](https://www.legislation.gov.uk/uksi/2006/557).
 
-[^key-619056c45c9ca08f789a9072395f6ba8]: Textual amendment: Word in reg. 2(1) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
+[^c-619056c45c9ca08f789a9072395f6ba8]: Textual amendment: Word in reg. 2(1) substituted (6.4.2015) by [The Construction (Design and Management) Regulations 2015 (S.I. 2015/51)](https://www.legislation.gov.uk/uksi/2015/51), [reg. 1](https://www.legislation.gov.uk/uksi/2015/51/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/51/schedule/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/51/regulation/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2015/51/schedule/4))
 
 [^c21824321]: Marginal citation: [S.I. 1997/2776](https://www.legislation.gov.uk/uksi/1997/2776).
 
 [^c21824331]: Marginal citation: [1961 c.34](https://www.legislation.gov.uk/ukpga/1961/34); section 175 was amended by [S.I. 1983/978](https://www.legislation.gov.uk/uksi/1983/978); there are other amending instruments but none is relevant.
 
-[^key-96d98ba6a38c48fafae63e51d4f5a2b6]: Textual amendment: Words in reg. 2(1) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 31(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/31/a)
+[^c-96d98ba6a38c48fafae63e51d4f5a2b6]: Textual amendment: Words in reg. 2(1) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 31(a)](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/31/a)
 
 [^c21824351]: Marginal citation: OJ No L 353, 31.12.2008, p1. Annex I is amended from time to time.
 
-[^key-978fc93ddb94b2d9e122cd03ef9072e5]: Textual amendment: Words in reg. 2(1) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 16(a)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/16/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-978fc93ddb94b2d9e122cd03ef9072e5]: Textual amendment: Words in reg. 2(1) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 16(a)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/16/a) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
 
 [^c21824361]: Marginal citation: [S.I. 1996/825](https://www.legislation.gov.uk/uksi/1996/825).
 
-[^key-df2caf4b658777182a89f0763ee5400c]: Textual amendment: Words in reg. 2(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/ii)
+[^c-df2caf4b658777182a89f0763ee5400c]: Textual amendment: Words in reg. 2(1) substituted (16.10.2015) by [The Office of Rail Regulation (Change of Name) Regulations 2015 (S.I. 2015/1682)](https://www.legislation.gov.uk/uksi/2015/1682), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2015/1682/regulation/1/2), [Sch. para. 10(ii)](https://www.legislation.gov.uk/uksi/2015/1682/schedule/paragraph/10/ii)
 
 [^c21824371]: Marginal citation: [1992 c.42](https://www.legislation.gov.uk/ukpga/1992/42).
 
 [^c21824381]: Marginal citation: [1984 c.54](https://www.legislation.gov.uk/ukpga/1984/54); the definition of “road” in section 151 was amended by paragraph 94 of Schedule 8 to the [New Roads and Street Works Act 1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22); there are other amending instruments but none is relevant.
 
-[^key-25dcc56295c641c45ce9b8cc643b42de]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [4(2)](https://www.legislation.gov.uk/uksi/2017/304/regulation/4/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/3))
+[^c-25dcc56295c641c45ce9b8cc643b42de]: Textual amendment: Words in reg. 2(1) inserted (6.4.2017) by [The Health and Safety (Miscellaneous Amendments and Revocation) Regulations 2017 (S.I. 2017/304)](https://www.legislation.gov.uk/uksi/2017/304), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/4), [4(2)](https://www.legislation.gov.uk/uksi/2017/304/regulation/4/2) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2017/304/regulation/1/3))
 
-[^key-89c54c54037012f25f4e12ff3a54ecaa]: Textual amendment: Words in reg. 2(1) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 16(b)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/16/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))
+[^c-89c54c54037012f25f4e12ff3a54ecaa]: Textual amendment: Words in reg. 2(1) substituted (6.4.2015) by [The Mines Regulations 2014 (S.I. 2014/3248)](https://www.legislation.gov.uk/uksi/2014/3248), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2), [Sch. 5 para. 16(b)](https://www.legislation.gov.uk/uksi/2014/3248/schedule/5/paragraph/16/b) (with [reg. 1(3)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/3))

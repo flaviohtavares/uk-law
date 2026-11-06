@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80A. Relevant amount[^key-94a568509eb138beb54d63cf58b0e1c1]
+## 80A. Relevant amount[^c-94a568509eb138beb54d63cf58b0e1c1]
 
 *Extent: N.I.*
 
@@ -24,15 +24,15 @@ summary: ''
 
 (2) The applicable annual limit is—
 
-- (a) £14,753[^key-1782d9c4935dd5773d3d52df853ff39a] for a single claimant who is not responsible for a child or qualifying young person;
-- (b) £22,020[^key-0a56918bd2e46f3e26caedac6c0eb175] for—
+- (a) £14,753[^c-1782d9c4935dd5773d3d52df853ff39a] for a single claimant who is not responsible for a child or qualifying young person;
+- (b) £22,020[^c-0a56918bd2e46f3e26caedac6c0eb175] for—
   - (i) joint claimants;
   - (ii) a single claimant who is responsible for a child or qualifying young person.
 
 ## Annotations
 
-[^key-94a568509eb138beb54d63cf58b0e1c1]: Textual amendment: [Reg. 80A](https://www.legislation.gov.uk/nisr/2016/216/regulation/80A) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/375)](https://www.legislation.gov.uk/nisr/2016/375), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/375/regulation/1/3), [3(4)](https://www.legislation.gov.uk/nisr/2016/375/regulation/3/4)
+[^c-94a568509eb138beb54d63cf58b0e1c1]: Textual amendment: [Reg. 80A](https://www.legislation.gov.uk/nisr/2016/216/regulation/80A) inserted (coming into force in accordance with reg. 1(3) of the amending Rule) by [The Benefit Cap (Housing Benefit and Universal Credit) (Amendment) Regulations (Northern Ireland) 2016 (S.R. 2016/375)](https://www.legislation.gov.uk/nisr/2016/375), [regs. 1(3)](https://www.legislation.gov.uk/nisr/2016/375/regulation/1/3), [3(4)](https://www.legislation.gov.uk/nisr/2016/375/regulation/3/4)
 
-[^key-1782d9c4935dd5773d3d52df853ff39a]: Textual amendment: Sum in [Reg. 80A(2)(a)](https://www.legislation.gov.uk/nisr/2016/216/regulation/80A/2/a) substituted (21.3.2024) by [The Benefit Cap (Annual Limit) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/58)](https://www.legislation.gov.uk/nisr/2024/58), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/58/regulation/1/2), [3(a)](https://www.legislation.gov.uk/nisr/2024/58/regulation/3/a), [5](https://editorial.legislation.gov.uk/nisr/2024/58/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/58/regulation/1/3))
+[^c-1782d9c4935dd5773d3d52df853ff39a]: Textual amendment: Sum in [Reg. 80A(2)(a)](https://www.legislation.gov.uk/nisr/2016/216/regulation/80A/2/a) substituted (21.3.2024) by [The Benefit Cap (Annual Limit) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/58)](https://www.legislation.gov.uk/nisr/2024/58), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/58/regulation/1/2), [3(a)](https://www.legislation.gov.uk/nisr/2024/58/regulation/3/a), [5](https://editorial.legislation.gov.uk/nisr/2024/58/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/58/regulation/1/3))
 
-[^key-0a56918bd2e46f3e26caedac6c0eb175]: Textual amendment: Sum in [Reg. 80A(2)(b)](https://www.legislation.gov.uk/nisr/2016/216/regulation/80A/2/b) substituted (21.3.2024) by [The Benefit Cap (Annual Limit) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/58)](https://www.legislation.gov.uk/nisr/2024/58), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/58/regulation/1/2), [3(b)](https://www.legislation.gov.uk/nisr/2024/58/regulation/3/b), [5](https://editorial.legislation.gov.uk/nisr/2024/58/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/58/regulation/1/3))
+[^c-0a56918bd2e46f3e26caedac6c0eb175]: Textual amendment: Sum in [Reg. 80A(2)(b)](https://www.legislation.gov.uk/nisr/2016/216/regulation/80A/2/b) substituted (21.3.2024) by [The Benefit Cap (Annual Limit) (Amendment) Regulations (Northern Ireland) 2024 (S.R. 2024/58)](https://www.legislation.gov.uk/nisr/2024/58), [regs. 1(2)](https://www.legislation.gov.uk/nisr/2024/58/regulation/1/2), [3(b)](https://www.legislation.gov.uk/nisr/2024/58/regulation/3/b), [5](https://editorial.legislation.gov.uk/nisr/2024/58/regulation/5) (with [reg. 1(3)](https://www.legislation.gov.uk/nisr/2024/58/regulation/1/3))

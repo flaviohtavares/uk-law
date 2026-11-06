@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Directions[^key-bca9c287f8f85ebfcfff7a2e999d9fc6]
+## 36. Directions[^c-bca9c287f8f85ebfcfff7a2e999d9fc6]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,12 +37,12 @@ summary: ''
 (5) Before giving, varying or revoking a direction under this section, the Secretary of State must consult—
 
 - (a) the body to which the direction is to be or has been given, and
-- (b) Citizens Advice[^key-07f4280f225a9e7732354b827c8538f4].
+- (b) Citizens Advice[^c-07f4280f225a9e7732354b827c8538f4].
 
 (6) In this section “ **specified** ” means specified in the direction given by the Secretary of State.
 
 ## Annotations
 
-[^key-bca9c287f8f85ebfcfff7a2e999d9fc6]: Commencement: S. 36 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546) , [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3) , [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)
+[^c-bca9c287f8f85ebfcfff7a2e999d9fc6]: Commencement: S. 36 in force at 21.12.2007 by [S.I. 2007/3546](https://www.legislation.gov.uk/uksi/2007/3546) , [art. 3](https://www.legislation.gov.uk/uksi/2007/3546/article/3) , [Sch.](https://www.legislation.gov.uk/uksi/2007/3546/schedule)
 
-[^key-07f4280f225a9e7732354b827c8538f4]: Textual amendment: Words in s. 36(5)(b) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 12(37)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/37) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))
+[^c-07f4280f225a9e7732354b827c8538f4]: Textual amendment: Words in s. 36(5)(b) substituted (1.4.2014) by [The Public Bodies (Abolition of the National Consumer Council and Transfer of the Office of Fair Trading's Functions in relation to Estate Agents etc) Order 2014 (S.I. 2014/631)](https://www.legislation.gov.uk/uksi/2014/631), [art. 1(3)](https://www.legislation.gov.uk/uksi/2014/631/article/1/3), [Sch. 1 para. 12(37)](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/12/37) (with [Sch. 1 para. 28](https://www.legislation.gov.uk/uksi/2014/631/schedule/1/paragraph/28), [Sch. 2 paras. 13-15](https://www.legislation.gov.uk/uksi/2014/631/schedule/2/paragraph/13))

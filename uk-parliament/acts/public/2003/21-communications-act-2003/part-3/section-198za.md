@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 198ZA. Penalties for failure to provide information[^key-d181d35ed79f71bd40c5d1bfc3a9d725][^key-d67da7d6dc14564a454873a403c697b0]
+## 198ZA. Penalties for failure to provide information[^c-d181d35ed79f71bd40c5d1bfc3a9d725][^c-d67da7d6dc14564a454873a403c697b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d181d35ed79f71bd40c5d1bfc3a9d725]: Modification: S. 198ZA amendment by 2017 c. 30, s. 88(6) extended to Isle of Man (1.3.2020) by [The Communications (Isle of Man) Order 2020 (S.I. 2020/149)](https://www.legislation.gov.uk/uksi/2020/149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/149/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/149/article/2)
+[^c-d181d35ed79f71bd40c5d1bfc3a9d725]: Modification: S. 198ZA amendment by 2017 c. 30, s. 88(6) extended to Isle of Man (1.3.2020) by [The Communications (Isle of Man) Order 2020 (S.I. 2020/149)](https://www.legislation.gov.uk/uksi/2020/149), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/149/article/1/2), [2](https://www.legislation.gov.uk/uksi/2020/149/article/2)
 
-[^key-d67da7d6dc14564a454873a403c697b0]: Textual amendment: S. 198ZA inserted (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 88(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/88/6), [118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1)
+[^c-d67da7d6dc14564a454873a403c697b0]: Textual amendment: S. 198ZA inserted (27.4.2017) by [Digital Economy Act 2017 (c. 30)](https://www.legislation.gov.uk/ukpga/2017/30), [ss. 88(6)](https://www.legislation.gov.uk/ukpga/2017/30/section/88/6), [118(1)](https://www.legislation.gov.uk/ukpga/2017/30/section/118/1)

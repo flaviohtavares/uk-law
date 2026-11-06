@@ -34,7 +34,7 @@ by order establish a board (in this Part referred to as “**a conservation boar
 - (a) provide for the transfer to the conservation board to which the order relates of any of the functions of local authorities, so far as relating to the area of outstanding natural beauty in question, or
 - (b) provide for any function of a local authority, so far as relating to the area of outstanding natural beauty in question, to be exercisable concurrently by the local authority and by the conservation board.
 
-(4) Subsection (3) does not apply to functions of a local authority under Part [^key-b6e07b2ad0571fc3adb0e2183b7fd975]... III, VII or XIII of the [^c1057092]Town and Country Planning Act 1990 or under Part 2 or 6 of the Planning and Compulsory Purchase Act 2004[^key-1d52fc40c3f3c78e2bcd4d3fbde70d35].
+(4) Subsection (3) does not apply to functions of a local authority under Part [^c-b6e07b2ad0571fc3adb0e2183b7fd975]... III, VII or XIII of the [^c1057092]Town and Country Planning Act 1990 or under Part 2 or 6 of the Planning and Compulsory Purchase Act 2004[^c-1d52fc40c3f3c78e2bcd4d3fbde70d35].
 
 (5) An order under subsection (1) may make further provision as to the constitution and administration of the conservation board to which it relates, including provision with respect to—
 
@@ -50,14 +50,14 @@ by order establish a board (in this Part referred to as “**a conservation boar
 
 (6) Before making an order under subsection (1) in relation to an area of outstanding natural beauty in England, the Secretary of State shall consult—
 
-- (a) Natural England[^key-3ea9756b5be01cb33242b88e9b63caed], and
+- (a) Natural England[^c-3ea9756b5be01cb33242b88e9b63caed], and
 - (b) every local authority whose area consists of or includes the whole or part of the area of outstanding natural beauty,
 
 and shall not make the order unless satisfied that the majority of those local authorities consent.
 
 (7) Before making an order under subsection (1) in relation to an area of outstanding natural beauty in Wales, the National Assembly for Wales shall consult—
 
-- (a) the NRBW[^key-ec9a17dcad79b140614c65d635e82dd2], and
+- (a) the NRBW[^c-ec9a17dcad79b140614c65d635e82dd2], and
 - (b) every local authority whose area consists of or includes the whole or part of the area of outstanding natural beauty,
 
 and shall not make the order unless satisfied that the majority of those local authorities consent.
@@ -78,12 +78,12 @@ and shall not make the order unless satisfied that the majority of those local a
 
 [^c1057091]: Commencement: Pt. IV (ss. 82-93) wholly in force at 1.5.2001; Pt. IV not in force at Royal Assent see s. 103(3); Pt. IV in force for E. at 1.4.2001 by [S.I. 2001/114](https://www.legislation.gov.uk/uksi/2001/114), [art. 2(2)(e)](https://www.legislation.gov.uk/uksi/2001/114/article/2/2/e); Pt. IV in force for W. at 1.5.2001 by [S.I. 2001/1410](https://www.legislation.gov.uk/uksi/2001/1410), [art. 2(g)](https://www.legislation.gov.uk/uksi/2001/1410/article/2/g)
 
-[^key-b6e07b2ad0571fc3adb0e2183b7fd975]: Textual amendment: Word in s. 86(4) repealed (28.9.2004 for E., 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 23(a)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/23/a), [9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)(k)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i/k), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/2202/schedule/1/part/1); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)(g)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f/g), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2847/schedule/1)
+[^c-b6e07b2ad0571fc3adb0e2183b7fd975]: Textual amendment: Word in s. 86(4) repealed (28.9.2004 for E., 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 23(a)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/23/a), [9](https://www.legislation.gov.uk/ukpga/2004/5/schedule/9) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)(k)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i/k), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2004/2202/schedule/1/part/1); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)(g)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f/g), [Sch. 1](https://www.legislation.gov.uk/uksi/2005/2847/schedule/1)
 
 [^c1057092]: Marginal citation: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
-[^key-1d52fc40c3f3c78e2bcd4d3fbde70d35]: Textual amendment: Words in s. 86(4) inserted (28.9.2004 for E., 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 23(b)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/23/b) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
+[^c-1d52fc40c3f3c78e2bcd4d3fbde70d35]: Textual amendment: Words in s. 86(4) inserted (28.9.2004 for E., 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [Sch. 7 para. 23(b)](https://www.legislation.gov.uk/ukpga/2004/5/schedule/7/paragraph/23/b) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(i)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/i); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(f)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/f)
 
-[^key-3ea9756b5be01cb33242b88e9b63caed]: Textual amendment: Words in s. 86(6)(a) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 164(c)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/164/c); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-3ea9756b5be01cb33242b88e9b63caed]: Textual amendment: Words in s. 86(6)(a) substituted (1.10.2006) by [Natural Environment and Rural Communities Act 2006 (c. 16)](https://www.legislation.gov.uk/ukpga/2006/16), [s. 107](https://www.legislation.gov.uk/ukpga/2006/16/section/107), [Sch. 11 para. 164(c)](https://www.legislation.gov.uk/ukpga/2006/16/schedule/11/paragraph/164/c); [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
 
-[^key-ec9a17dcad79b140614c65d635e82dd2]: Textual amendment: Words in s. 86(7)(a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 408](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/408) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ec9a17dcad79b140614c65d635e82dd2]: Textual amendment: Words in s. 86(7)(a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 408](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/408) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))

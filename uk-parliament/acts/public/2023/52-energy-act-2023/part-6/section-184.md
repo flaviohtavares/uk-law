@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184. Designation of central systems[^key-0a321f4fb3a3a7ed147943fd90f70f1e][^key-c6522fc1e9080e90decdd00743373bcb]
+## 184. Designation of central systems[^c-0a321f4fb3a3a7ed147943fd90f70f1e][^c-c6522fc1e9080e90decdd00743373bcb]
 
 *Extent: E+W+S*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0a321f4fb3a3a7ed147943fd90f70f1e]: Commencement: S. 184 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
+[^c-0a321f4fb3a3a7ed147943fd90f70f1e]: Commencement: S. 184 not in force at Royal Assent, see [s. 334(1)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/1)
 
-[^key-c6522fc1e9080e90decdd00743373bcb]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2023/52/section/184) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/i)
+[^c-c6522fc1e9080e90decdd00743373bcb]: Commencement: [S. 184](https://www.legislation.gov.uk/ukpga/2023/52/section/184) in force at 10.9.2024 by [S.I. 2024/890](https://www.legislation.gov.uk/uksi/2024/890), [reg. 2(b)(i)](https://www.legislation.gov.uk/uksi/2024/890/regulation/2/b/i)

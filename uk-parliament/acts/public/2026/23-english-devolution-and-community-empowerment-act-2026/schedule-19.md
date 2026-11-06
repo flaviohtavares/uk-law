@@ -22,11 +22,11 @@ summary: ''
 
 Section 37
 
-### 1. Introduction[^key-f6fb70bd2c6bb0fe374b1d64175f0979]
+### 1. Introduction[^c-f6fb70bd2c6bb0fe374b1d64175f0979]
 
 The Housing Act 1985 is amended in accordance with this Schedule.
 
-### 2. Periodical review of housing needs[^key-958ce75fb9d6140d722e0ed7f34a13e3]
+### 2. Periodical review of housing needs[^c-958ce75fb9d6140d722e0ed7f34a13e3]
 
 (1) Section 8 is amended in accordance with this paragraph.
 
@@ -52,7 +52,7 @@ The Housing Act 1985 is amended in accordance with this Schedule.
 - (a) after “England,” insert “or a combined authority, CCA or county council,”;
 - (b) after “district” insert “, or area,”.
 
-### 3. Provision of housing accommodation[^key-05cbb67d49cfe9873285330d6728e1de]
+### 3. Provision of housing accommodation[^c-05cbb67d49cfe9873285330d6728e1de]
 
 (1) Section 9 is amended in accordance with this paragraph.
 
@@ -62,7 +62,7 @@ The Housing Act 1985 is amended in accordance with this Schedule.
 
 (4) In subsection (5), for “a local housing authority” substitute “an authority”.
 
-### 4. Provision of board and laundry facilities[^key-c63820b7feb04253bdf7c6d211d89d51]
+### 4. Provision of board and laundry facilities[^c-c63820b7feb04253bdf7c6d211d89d51]
 
 (1) Section 11 is amended in accordance with this paragraph.
 
@@ -72,7 +72,7 @@ The Housing Act 1985 is amended in accordance with this Schedule.
 
 (3) In subsection (4), for “A local housing authority” substitute “An authority”.
 
-### 5. Provision of shops, recreation grounds, etc[^key-2b74978f8bc792fa2a213483e160a0ca]
+### 5. Provision of shops, recreation grounds, etc[^c-2b74978f8bc792fa2a213483e160a0ca]
 
 (1) Section 12 is amended in accordance with this paragraph.
 
@@ -84,7 +84,7 @@ The Housing Act 1985 is amended in accordance with this Schedule.
 
 (3) In subsection (3), for “the local housing authority” substitute “the authority”.
 
-### 6. Acquisition of land for housing purposes[^key-cfd5b78e6928f5b76b1e35f713efef2d]
+### 6. Acquisition of land for housing purposes[^c-cfd5b78e6928f5b76b1e35f713efef2d]
 
 (1) Section 17 is amended in accordance with this paragraph.
 
@@ -147,7 +147,7 @@ The Housing Act 1985 is amended in accordance with this Schedule.
 >
 > (8) In this section “**compulsory acquisition function**” means the function of acquiring land compulsorily under an authorisation under section 17(3).
 
-### 7. Duties with respect to buildings acquired for housing purposes[^key-c248d8bc086f7e66409b75855f10ec6f]
+### 7. Duties with respect to buildings acquired for housing purposes[^c-c248d8bc086f7e66409b75855f10ec6f]
 
 (1) Section 18 is amended in accordance with this paragraph.
 
@@ -155,7 +155,7 @@ The Housing Act 1985 is amended in accordance with this Schedule.
 
 (3) In subsection (2), after “local housing authority” insert “, a combined authority or CCA, or a two-tier county council that is a strategic authority”.
 
-### 8. Interpretation[^key-409239e4a1e79b5ef50169e0d957df52]
+### 8. Interpretation[^c-409239e4a1e79b5ef50169e0d957df52]
 
 In section 56 (minor definitions), in subsection (1)—
 
@@ -192,7 +192,7 @@ In section 56 (minor definitions), in subsection (1)—
 
   .
 
-**9.**[^key-5a7b987d1f005ae57b674640d3173cba] In section 57 (index of defined expressions)—
+**9.**[^c-5a7b987d1f005ae57b674640d3173cba] In section 57 (index of defined expressions)—
 
 - (a) at the appropriate place insert—
 
@@ -235,20 +235,20 @@ In section 56 (minor definitions), in subsection (1)—
 
 ## Annotations
 
-[^key-f6fb70bd2c6bb0fe374b1d64175f0979]: Commencement: Sch. 19 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-f6fb70bd2c6bb0fe374b1d64175f0979]: Commencement: Sch. 19 para. 1 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-958ce75fb9d6140d722e0ed7f34a13e3]: Commencement: Sch. 19 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-958ce75fb9d6140d722e0ed7f34a13e3]: Commencement: Sch. 19 para. 2 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-05cbb67d49cfe9873285330d6728e1de]: Commencement: Sch. 19 para. 3 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-05cbb67d49cfe9873285330d6728e1de]: Commencement: Sch. 19 para. 3 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-c63820b7feb04253bdf7c6d211d89d51]: Commencement: Sch. 19 para. 4 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-c63820b7feb04253bdf7c6d211d89d51]: Commencement: Sch. 19 para. 4 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-2b74978f8bc792fa2a213483e160a0ca]: Commencement: Sch. 19 para. 5 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-2b74978f8bc792fa2a213483e160a0ca]: Commencement: Sch. 19 para. 5 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-cfd5b78e6928f5b76b1e35f713efef2d]: Commencement: Sch. 19 para. 6 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-cfd5b78e6928f5b76b1e35f713efef2d]: Commencement: Sch. 19 para. 6 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-c248d8bc086f7e66409b75855f10ec6f]: Commencement: Sch. 19 para. 7 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-c248d8bc086f7e66409b75855f10ec6f]: Commencement: Sch. 19 para. 7 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-409239e4a1e79b5ef50169e0d957df52]: Commencement: Sch. 19 para. 8 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-409239e4a1e79b5ef50169e0d957df52]: Commencement: Sch. 19 para. 8 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
 
-[^key-5a7b987d1f005ae57b674640d3173cba]: Commencement: Sch. 19 para. 9 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-5a7b987d1f005ae57b674640d3173cba]: Commencement: Sch. 19 para. 9 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

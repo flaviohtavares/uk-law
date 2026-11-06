@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4. Definition of marketing[^key-2c9c70438aaf54bae51dace71512fa8a]
+## 4. Definition of marketing[^c-2c9c70438aaf54bae51dace71512fa8a]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ shall not be treated as marketing of seed of that variety.
 
 ## Annotations
 
-[^key-2c9c70438aaf54bae51dace71512fa8a]: Commencement: Reg. 4 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)
+[^c-2c9c70438aaf54bae51dace71512fa8a]: Commencement: Reg. 4 in force at 1.7.2005, see [reg. 1(1)](https://www.legislation.gov.uk/ssi/2005/329/regulation/1/1)

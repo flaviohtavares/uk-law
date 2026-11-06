@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 27. Swiss trade and Swiss plant passports (affected by repeal, see note)[^key-a1f3b6ed7c6388e6cc0aa70c26f12df9][^key-bf4e0a7ee3a5028ca90807cb4b6293cf][^key-bf4e0a7ee3a5028ca90807cb4b6293cf]
+## 27. Swiss trade and Swiss plant passports (affected by repeal, see note)[^c-a1f3b6ed7c6388e6cc0aa70c26f12df9][^c-bf4e0a7ee3a5028ca90807cb4b6293cf][^c-bf4e0a7ee3a5028ca90807cb4b6293cf]
 
 *Extent: N.I.*
 
@@ -24,6 +24,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a1f3b6ed7c6388e6cc0aa70c26f12df9]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/nisr/2006/66/part/5) omitted (31.12.2020) by virtue of [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [3(31)](https://www.legislation.gov.uk/uksi/2019/820/regulation/3/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a1f3b6ed7c6388e6cc0aa70c26f12df9]: Textual amendment: [Pt. 5](https://www.legislation.gov.uk/nisr/2006/66/part/5) omitted (31.12.2020) by virtue of [The Plant Health (Amendment) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/820)](https://www.legislation.gov.uk/uksi/2019/820), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/820/regulation/1/1), [3(31)](https://www.legislation.gov.uk/uksi/2019/820/regulation/3/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bf4e0a7ee3a5028ca90807cb4b6293cf]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/66) revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))
+[^c-bf4e0a7ee3a5028ca90807cb4b6293cf]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2006/66) revoked (14.12.2019) by [The Plant Health (Official Controls and Miscellaneous Provisions) Regulations (Northern Ireland) 2019 (S.R. 2019/230)](https://www.legislation.gov.uk/nisr/2019/230), [reg. 1](https://www.legislation.gov.uk/nisr/2019/230/regulation/1), [Sch. 6](https://www.legislation.gov.uk/nisr/2019/230/schedule/6) (with [regs. 51-53](https://www.legislation.gov.uk/nisr/2019/230/regulation/51))

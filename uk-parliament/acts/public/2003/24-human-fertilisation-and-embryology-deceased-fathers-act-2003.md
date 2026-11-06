@@ -36,7 +36,7 @@ An Act to make provision about the circumstances in which, and the extent to whi
 
 Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Certain deceased men to be registered as fathers[^key-0ab6a88e278f505d6a5b287e9162f971]
+## 1. Certain deceased men to be registered as fathers[^c-0ab6a88e278f505d6a5b287e9162f971]
 
 (1) After section 28(5) of the Human Fertilisation and Embryology Act 1990 (c. 37) (meaning of “father”) there shall be inserted—
 
@@ -117,15 +117,15 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 >
 > (3D) In subsection (3C) above “**enactment**” includes an enactment comprised in, or in an instrument made under, an Act of the Scottish Parliament or Northern Ireland legislation.
 
-## 2. Consequential and supplementary provision[^key-2bdbffd1f487c7447fac1e41f1022b35]
+## 2. Consequential and supplementary provision[^c-2bdbffd1f487c7447fac1e41f1022b35]
 
 (1) The Schedule (which contains consequential amendments) shall have effect.
 
-(2)[^key-25da95bb475e61eecc4ee0756d575aae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-25da95bb475e61eecc4ee0756d575aae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-25da95bb475e61eecc4ee0756d575aae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-25da95bb475e61eecc4ee0756d575aae] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Retrospective, transitional and transitory provision[^key-cfa145e272a3577795314bed62ac1d0c]
+## 3. Retrospective, transitional and transitory provision[^c-cfa145e272a3577795314bed62ac1d0c]
 
 (1) This Act shall (in addition to any case where the sperm or embryo is used on or after the coming into force of section 1) apply to any case where the sperm of a man, or any embryo the creation of which was brought about with the sperm of a man, was used on or after 1st August 1991 and before the coming into force of that section.
 
@@ -183,104 +183,104 @@ Section 2(1)
 
 ### Births and Deaths Registration Act 1953 (c. 20)
 
-**1.**[^key-48e2b56025a5c2aeb9d3280c9678ceab] After section 9(4) of the Births and Deaths Registration Act 1953 (giving of information to a person other than the registrar) there shall be inserted—
+**1.**[^c-48e2b56025a5c2aeb9d3280c9678ceab] After section 9(4) of the Births and Deaths Registration Act 1953 (giving of information to a person other than the registrar) there shall be inserted—
 
 > (4A) A request made under section 10ZA of this Act may be included in a declaration under subsection (1) of this section and the documents required by that section to be produced shall be produced to the officer in whose presence the declaration is made and sent by him with the declaration to the registrar.
 
-**2.**[^key-3f79cfbb9e556c0edac696dc2b1e1658] In section 10(1) of that Act (registration of father where parents not married at time of birth) after “Act”, where it first appears, there shall be inserted “ and subject to section 10ZA of this Act ”.
+**2.**[^c-3f79cfbb9e556c0edac696dc2b1e1658] In section 10(1) of that Act (registration of father where parents not married at time of birth) after “Act”, where it first appears, there shall be inserted “ and subject to section 10ZA of this Act ”.
 
-**3.**[^key-f23613e6ccbe3700a87a3b09e0fd7369] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-f23613e6ccbe3700a87a3b09e0fd7369] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-d01684ccd018168192811800c8eee0c2] After “or” at the end of section 10A(1)(f) of that Act (re-registration where parents not married) there shall be inserted—
+**4.**[^c-d01684ccd018168192811800c8eee0c2] After “or” at the end of section 10A(1)(f) of that Act (re-registration where parents not married) there shall be inserted—
 
 > - (ff) in a case of a man who is to be treated as the father of the child by virtue of section 28(5A), (5B), (5C) or (5D) of the Human Fertilisation and Embryology Act 1990, if the condition in section 10ZA(2) of this Act is satisfied; or
 
 .
 
-**5.**[^key-7a9b8729f9a5d27c9ccf23270d5d984a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-7a9b8729f9a5d27c9ccf23270d5d984a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Registration of Births, Deaths and Marriages (Scotland) Act 1965 (c. 49)
 
-**6.**[^key-da7cfe582643378dc812c4f55d13a1fb] In section 18 of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 (births of children born out of wedlock) in subsection (1) at the beginning there shall be inserted “ Subject to section 18ZA of this Act ”.
+**6.**[^c-da7cfe582643378dc812c4f55d13a1fb] In section 18 of the Registration of Births, Deaths and Marriages (Scotland) Act 1965 (births of children born out of wedlock) in subsection (1) at the beginning there shall be inserted “ Subject to section 18ZA of this Act ”.
 
-**7.**[^key-7f7c5716a3ff87595dd9986131e2573f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-7f7c5716a3ff87595dd9986131e2573f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Births and Deaths Registration (Northern Ireland) Order 1976 (S.I. 1976/1041 (N.I.14))
 
-**8.**[^key-b2aa2d0b9aeee4f06166c6210a489f36] In Article 14(1) of the Births and Deaths Registration (Northern Ireland) Order 1976 (registration of father where parents not married) at the end there shall be inserted “ and subject to Article 14A ”.
+**8.**[^c-b2aa2d0b9aeee4f06166c6210a489f36] In Article 14(1) of the Births and Deaths Registration (Northern Ireland) Order 1976 (registration of father where parents not married) at the end there shall be inserted “ and subject to Article 14A ”.
 
-**9.**[^key-7da67d7aee484593cd7caea78d2c6a87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-7da67d7aee484593cd7caea78d2c6a87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-efc26451536b426e5f72ba37cc661b3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-efc26451536b426e5f72ba37cc661b3c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Adoption (Scotland) Act 1978 (c. 28)
 
-**11.**[^key-6f10bea906fbb91946ca48caa3f4fc86] In section 15(3)(a) of the Adoption (Scotland) Act 1978 (adoption by one person where no other parent) after “1990” there shall be inserted *(Extent: S)* *(affected by repeal, see note)*[^key-fcf61f092429221a2244f59935b54647] “ (disregarding subsections (5A) to (5I) of that section) ” *(Extent: S)* *(affected by repeal, see note)*[^key-fcf61f092429221a2244f59935b54647]. *(Extent: S)* *(affected by repeal, see note)*[^key-fcf61f092429221a2244f59935b54647]
+**11.**[^c-6f10bea906fbb91946ca48caa3f4fc86] In section 15(3)(a) of the Adoption (Scotland) Act 1978 (adoption by one person where no other parent) after “1990” there shall be inserted *(Extent: S)* *(affected by repeal, see note)*[^c-fcf61f092429221a2244f59935b54647] “ (disregarding subsections (5A) to (5I) of that section) ” *(Extent: S)* *(affected by repeal, see note)*[^c-fcf61f092429221a2244f59935b54647]. *(Extent: S)* *(affected by repeal, see note)*[^c-fcf61f092429221a2244f59935b54647]
 
 ### Adoption (Northern Ireland) Order 1987 (S.I. 1987/2203 (N.I.22))
 
-**12.**[^key-ed09fd8a0e12d1bb8f2296349163bd80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-ed09fd8a0e12d1bb8f2296349163bd80] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Human Fertilisation and Embryology Act 1990 (c. 37)
 
-**13.**[^key-0ef3ae230765bcc2b9fc530d8cab9fbc] In section 28 of the Human Fertilisation and Embryology Act 1990, in subsection (1) (children to whom section 28 applies), at the beginning, there shall be inserted “ Subject to subsections (5A) to (5I) below, ”.
+**13.**[^c-0ef3ae230765bcc2b9fc530d8cab9fbc] In section 28 of the Human Fertilisation and Embryology Act 1990, in subsection (1) (children to whom section 28 applies), at the beginning, there shall be inserted “ Subject to subsections (5A) to (5I) below, ”.
 
-**14.**[^key-ac0ced2c9be7251732980fd0725ad590] In section 28(6) of that Act (man whose sperm was used after his death not to be treated as father of child) after “not” there shall be inserted “ , subject to subsections (5A) and (5B) above, ”.
+**14.**[^c-ac0ced2c9be7251732980fd0725ad590] In section 28(6) of that Act (man whose sperm was used after his death not to be treated as father of child) after “not” there shall be inserted “ , subject to subsections (5A) and (5B) above, ”.
 
-**15.**[^key-eda7fb7ac228879655536dc4dda712e0] In section 28(7) of that Act (meaning of references to the parties to a marriage) after “subsection (2) above” there shall be inserted “ and subsections (5A) to (5D) above ”.
+**15.**[^c-eda7fb7ac228879655536dc4dda712e0] In section 28(7) of that Act (meaning of references to the parties to a marriage) after “subsection (2) above” there shall be inserted “ and subsections (5A) to (5D) above ”.
 
-**16.**[^key-ec0772d02f380699484d08a393843e32] In section 29(4) of that Act (succession to dignities etc.) after “(4)” there shall be inserted “ or (5A) to (5I) ”.
+**16.**[^c-ec0772d02f380699484d08a393843e32] In section 29(4) of that Act (succession to dignities etc.) after “(4)” there shall be inserted “ or (5A) to (5I) ”.
 
-**17.**[^key-c7bf2ca818c5043d2e226930f5540338] In section 30(9)(b) of that Act (power to make regulations about references to adoption etc.) the reference to any enactment shall be read as including a reference to any enactment contained in section 28(5A) to (5I) of that Act.
+**17.**[^c-c7bf2ca818c5043d2e226930f5540338] In section 30(9)(b) of that Act (power to make regulations about references to adoption etc.) the reference to any enactment shall be read as including a reference to any enactment contained in section 28(5A) to (5I) of that Act.
 
 ### Adoption and Children Act 2002 (c. 38)
 
-**18.**[^key-0eb14f0e2ec24435ea7f209b571f8a50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-0eb14f0e2ec24435ea7f209b571f8a50] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-0ab6a88e278f505d6a5b287e9162f971]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2003/24/section/1) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-0ab6a88e278f505d6a5b287e9162f971]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2003/24/section/1) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-2bdbffd1f487c7447fac1e41f1022b35]: Commencement: S. 2 in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-2bdbffd1f487c7447fac1e41f1022b35]: Commencement: S. 2 in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-25da95bb475e61eecc4ee0756d575aae]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2003/24/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/24/section/2/3) repealed (8.1.2007) by [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [s. 33](https://www.legislation.gov.uk/ukpga/2006/51/section/33), [Sch.](https://www.legislation.gov.uk/ukpga/2006/51/schedule) (with [s. 30(2)-(5)](https://www.legislation.gov.uk/ukpga/2006/51/section/30/2))
+[^c-25da95bb475e61eecc4ee0756d575aae]: Textual amendment: [S. 2(2)](https://www.legislation.gov.uk/ukpga/2003/24/section/2/2)[(3)](https://www.legislation.gov.uk/ukpga/2003/24/section/2/3) repealed (8.1.2007) by [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51), [s. 33](https://www.legislation.gov.uk/ukpga/2006/51/section/33), [Sch.](https://www.legislation.gov.uk/ukpga/2006/51/schedule) (with [s. 30(2)-(5)](https://www.legislation.gov.uk/ukpga/2006/51/section/30/2))
 
-[^key-cfa145e272a3577795314bed62ac1d0c]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2003/24/section/3) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-cfa145e272a3577795314bed62ac1d0c]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2003/24/section/3) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-48e2b56025a5c2aeb9d3280c9678ceab]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/1) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-48e2b56025a5c2aeb9d3280c9678ceab]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/1) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-3f79cfbb9e556c0edac696dc2b1e1658]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/2) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-3f79cfbb9e556c0edac696dc2b1e1658]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/2) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-f23613e6ccbe3700a87a3b09e0fd7369]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/3) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-f23613e6ccbe3700a87a3b09e0fd7369]: Textual amendment: [Sch. para. 3](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/3) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
-[^key-d01684ccd018168192811800c8eee0c2]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/4) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-d01684ccd018168192811800c8eee0c2]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/4) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-7a9b8729f9a5d27c9ccf23270d5d984a]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/5) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-7a9b8729f9a5d27c9ccf23270d5d984a]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/5) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
-[^key-da7cfe582643378dc812c4f55d13a1fb]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/6) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-da7cfe582643378dc812c4f55d13a1fb]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/6) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-7f7c5716a3ff87595dd9986131e2573f]: Textual amendment: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/7) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-7f7c5716a3ff87595dd9986131e2573f]: Textual amendment: [Sch. para. 7](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/7) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
-[^key-b2aa2d0b9aeee4f06166c6210a489f36]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/8) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-b2aa2d0b9aeee4f06166c6210a489f36]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/8) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-7da67d7aee484593cd7caea78d2c6a87]: Textual amendment: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/9) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-7da67d7aee484593cd7caea78d2c6a87]: Textual amendment: [Sch. para. 9](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/9) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
-[^key-efc26451536b426e5f72ba37cc661b3c]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/10) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-efc26451536b426e5f72ba37cc661b3c]: Textual amendment: [Sch. para. 10](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/10) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
-[^key-6f10bea906fbb91946ca48caa3f4fc86]: Commencement: Sch. para. 11 in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-6f10bea906fbb91946ca48caa3f4fc86]: Commencement: Sch. para. 11 in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-fcf61f092429221a2244f59935b54647]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/11) repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
+[^c-fcf61f092429221a2244f59935b54647]: Textual amendment: [Sch. para. 11](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/11) repealed (S.) (28.9.2009) by [Adoption and Children (Scotland) Act 2007 (asp 4)](https://www.legislation.gov.uk/asp/2007/4), [s. 121(2)](https://www.legislation.gov.uk/asp/2007/4/section/121/2), [Sch. 3](https://www.legislation.gov.uk/asp/2007/4/schedule/3); [S.S.I. 2009/267](https://www.legislation.gov.uk/ssi/2009/267), [arts. 1(2)](https://www.legislation.gov.uk/ssi/2009/267/article/1/2), [2](https://www.legislation.gov.uk/ssi/2009/267/article/2) (with [arts. 3-21](https://www.legislation.gov.uk/ssi/2009/267/article/3)) (as amended (7.5.2012) by [S.S.I. 2012/99](https://www.legislation.gov.uk/ssi/2012/99), art. 2)
 
-[^key-ed09fd8a0e12d1bb8f2296349163bd80]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/12) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-ed09fd8a0e12d1bb8f2296349163bd80]: Textual amendment: [Sch. para. 12](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/12) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
 
-[^key-0ef3ae230765bcc2b9fc530d8cab9fbc]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/13) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-0ef3ae230765bcc2b9fc530d8cab9fbc]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/13) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-ac0ced2c9be7251732980fd0725ad590]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/14) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-ac0ced2c9be7251732980fd0725ad590]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/14) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-eda7fb7ac228879655536dc4dda712e0]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/15) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-eda7fb7ac228879655536dc4dda712e0]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/15) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-ec0772d02f380699484d08a393843e32]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/16) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-ec0772d02f380699484d08a393843e32]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/16) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-c7bf2ca818c5043d2e226930f5540338]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/17) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
+[^c-c7bf2ca818c5043d2e226930f5540338]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/17) in force at 1.12.2003 by [S.I. 2003/3095](https://www.legislation.gov.uk/uksi/2003/3095), [art. 2](https://www.legislation.gov.uk/uksi/2003/3095/article/2)
 
-[^key-0eb14f0e2ec24435ea7f209b571f8a50]: Textual amendment: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/18) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))
+[^c-0eb14f0e2ec24435ea7f209b571f8a50]: Textual amendment: [Sch. para. 18](https://www.legislation.gov.uk/ukpga/2003/24/schedule/paragraph/18) repealed (1.9.2009) by [Human Fertilisation and Embryology Act 2008 (c. 22)](https://www.legislation.gov.uk/ukpga/2008/22), [s. 68(2)](https://www.legislation.gov.uk/ukpga/2008/22/section/68/2), [Sch. 8 Pt. 1](https://www.legislation.gov.uk/ukpga/2008/22/schedule/8/part/1); [S.I. 2009/479](https://www.legislation.gov.uk/uksi/2009/479), [art. 6(2)](https://www.legislation.gov.uk/uksi/2009/479/article/6/2) (with [art. 7](https://www.legislation.gov.uk/uksi/2009/479/article/7), [Sch.](https://www.legislation.gov.uk/uksi/2009/479/schedule))

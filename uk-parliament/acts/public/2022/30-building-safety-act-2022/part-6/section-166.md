@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 166. Power of Secretary of State to make consequential provision[^key-9ac587200cafca96a1b55394954bd3f2]
+## 166. Power of Secretary of State to make consequential provision[^c-9ac587200cafca96a1b55394954bd3f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9ac587200cafca96a1b55394954bd3f2]: Commencement: S. 166 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)
+[^c-9ac587200cafca96a1b55394954bd3f2]: Commencement: S. 166 in force at Royal Assent, see [s. 170(1)(h)](https://www.legislation.gov.uk/ukpga/2022/30/section/170/1/h)

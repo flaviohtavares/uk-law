@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 4A. Power of local authority to pay share of scheme costs[^key-4e01fcb0b639dce588f25d779fff69c3]
+## 4A. Power of local authority to pay share of scheme costs[^c-4e01fcb0b639dce588f25d779fff69c3]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4e01fcb0b639dce588f25d779fff69c3]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/asp/2004/11/section/4A) inserted (1.4.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 85(1)(b)](https://www.legislation.gov.uk/asp/2014/14/section/85/1/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2](https://www.legislation.gov.uk/ssi/2015/122/article/2)
+[^c-4e01fcb0b639dce588f25d779fff69c3]: Textual amendment: [S. 4A](https://www.legislation.gov.uk/asp/2004/11/section/4A) inserted (1.4.2015) by [Housing (Scotland) Act 2014 (asp 14)](https://www.legislation.gov.uk/asp/2014/14), [ss. 85(1)(b)](https://www.legislation.gov.uk/asp/2014/14/section/85/1/b), [104(3)](https://www.legislation.gov.uk/asp/2014/14/section/104/3); [S.S.I. 2015/122](https://www.legislation.gov.uk/ssi/2015/122), [art. 2](https://www.legislation.gov.uk/ssi/2015/122/article/2)

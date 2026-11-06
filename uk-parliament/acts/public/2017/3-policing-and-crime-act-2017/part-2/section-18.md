@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. IPCC power to require re-investigation[^c22718511][^key-2b4e4071920845ac0be0487fc57b4afb]
+## 18. IPCC power to require re-investigation[^c22718511][^c-2b4e4071920845ac0be0487fc57b4afb]
 
 *Extent: E+W*
 
@@ -88,4 +88,4 @@ summary: ''
 
 [^c22718511]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/3/section/18) in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-2b4e4071920845ac0be0487fc57b4afb]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/3/section/18) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/f) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))
+[^c-2b4e4071920845ac0be0487fc57b4afb]: Commencement: [S. 18](https://www.legislation.gov.uk/ukpga/2017/3/section/18) in force at 1.2.2020 in so far as not already in force by [S.I. 2020/5](https://www.legislation.gov.uk/uksi/2020/5), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2020/5/regulation/2/f) (with [reg. 3(4)](https://www.legislation.gov.uk/uksi/2020/5/article/3/4))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 64. Timing of a reportable event[^key-d6a14b0341e7562cc1c0237614619b63][^key-9034afe656e8274eee3df5345e8f4ccd]
+## 64. Timing of a reportable event[^c-d6a14b0341e7562cc1c0237614619b63][^c-9034afe656e8274eee3df5345e8f4ccd]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Where a reportable event results from an agreement providing for P to acquire sh
 
 ## Annotations
 
-[^key-d6a14b0341e7562cc1c0237614619b63]: Commencement: S. 64 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-d6a14b0341e7562cc1c0237614619b63]: Commencement: S. 64 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-9034afe656e8274eee3df5345e8f4ccd]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2024/13/section/64) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)
+[^c-9034afe656e8274eee3df5345e8f4ccd]: Commencement: [S. 64](https://www.legislation.gov.uk/ukpga/2024/13/section/64) in force at 1.1.2025 by [S.I. 2024/1226](https://www.legislation.gov.uk/uksi/2024/1226), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2024/1226/regulation/2/2)

@@ -23,8 +23,8 @@ summary: ''
 (1) For the purposes of these Regulations, “**competent authority**” includes—
 
 - (a) any Minister of the Crown (as defined in the Ministers of the Crown Act 1975 [^c23343271]), government department, statutory undertaker, public body of any description or person holding a public office;
-- (b) the Welsh Ministers; [^key-6ee5e9c643a78e28a5827431c7a7693f]...
-- (c) any person exercising any function of a person mentioned in sub-paragraph (a) or (b) ; and[^key-77adce95c0b9d178c776a68111f7c083]
+- (b) the Welsh Ministers; [^c-6ee5e9c643a78e28a5827431c7a7693f]...
+- (c) any person exercising any function of a person mentioned in sub-paragraph (a) or (b) ; and[^c-77adce95c0b9d178c776a68111f7c083]
 - (d) an examining authority appointed under section 40 of the Infrastructure (Wales) Act 2024.
 
 (2) In the following provisions (and as provided in regulation 69(3)(a)), “**competent authority**” includes the Scottish Ministers—
@@ -53,9 +53,9 @@ summary: ''
 
 [^c23343271]: Marginal citation: [1975 c. 26](https://www.legislation.gov.uk/ukpga/1975/26).
 
-[^key-6ee5e9c643a78e28a5827431c7a7693f]: Textual amendment: Word in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/7/1/b) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [13(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/13/2/a)
+[^c-6ee5e9c643a78e28a5827431c7a7693f]: Textual amendment: Word in [reg. 7(1)(b)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/7/1/b) omitted (15.12.2025) by virtue of [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [13(2)(a)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/13/2/a)
 
-[^key-77adce95c0b9d178c776a68111f7c083]: Textual amendment: [Reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/7/1/d) and word inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [13(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/13/2/b)
+[^c-77adce95c0b9d178c776a68111f7c083]: Textual amendment: [Reg. 7(1)(d)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/7/1/d) and word inserted (15.12.2025) by [The Infrastructure (Wales) Act 2024 (Consequential, Transitional, Revocation and Saving Provisions) Regulations 2025 (S.I. 2025/1192)](https://www.legislation.gov.uk/wsi/2025/1192), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/1/2/b), [13(2)(b)](https://www.legislation.gov.uk/wsi/2025/1192/regulation/13/2/b)
 
 [^c23343281]: Marginal citation: [1997 c. 8](https://www.legislation.gov.uk/ukpga/1997/8). Section 57(2) was substituted, and section 57(2ZA) was inserted, by the [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [section 21(5)](https://www.legislation.gov.uk/ukpga/2013/27/section/21/5).
 

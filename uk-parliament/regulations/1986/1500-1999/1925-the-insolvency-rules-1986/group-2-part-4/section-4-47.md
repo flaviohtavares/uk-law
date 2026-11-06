@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4.47. General rule as to reporting[^key-99abd7330a8108649e1f13b15cb5204d]
+## 4.47. General rule as to reporting[^c-99abd7330a8108649e1f13b15cb5204d]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-99abd7330a8108649e1f13b15cb5204d]: Commencement: [Rule 4.47](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.47) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)
+[^c-99abd7330a8108649e1f13b15cb5204d]: Commencement: [Rule 4.47](https://www.legislation.gov.uk/uksi/1986/1925/rule/4.47) in force at 29.12.1986, see [rule 0.1](https://www.legislation.gov.uk/uksi/1986/1925/rule/0.1)

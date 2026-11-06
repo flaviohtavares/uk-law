@@ -37,18 +37,18 @@ unless the disclosure is permitted under this Part.
 - (a) that subsection;
 - (b) any other enactment or rule of law prohibiting or restricting the disclosure of the information.
 
-(4) Nothing in this Part authorises a disclosure of information which contravenes the data protection legislation[^key-d1a23c9d9b88ebd13741de6b504e5cbc].
+(4) Nothing in this Part authorises a disclosure of information which contravenes the data protection legislation[^c-d1a23c9d9b88ebd13741de6b504e5cbc].
 
 (5) Nothing in this Part affects the Competition Appeal Tribunal.
 
 (6) This Part (except section 244) does not affect any power or duty to disclose information which exists apart from this Part.
 
-(7)[^key-39656970fb8e7ba34232728e529eda47] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
+(7)[^c-39656970fb8e7ba34232728e529eda47] In this section, “**the data protection legislation**” has the same meaning as in the Data Protection Act 2018 (see section 3 of that Act).
 
 ## Annotations
 
 [^c19208201]: Modification: S. 237 restricted (31.10.2003) by [Railways and Transport Safety Act 2003 (c. 20)](https://www.legislation.gov.uk/ukpga/2003/20), [ss. 115](https://www.legislation.gov.uk/ukpga/2003/20/section/115), [120](https://www.legislation.gov.uk/ukpga/2003/20/section/120); [S.I. 2003/2681](https://www.legislation.gov.uk/uksi/2003/2681), [art. 2(b)](https://www.legislation.gov.uk/uksi/2003/2681/article/2/b)
 
-[^key-d1a23c9d9b88ebd13741de6b504e5cbc]: Textual amendment: Words in [s. 237(4)](https://www.legislation.gov.uk/ukpga/2002/40/section/237/4) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 86(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/86/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-d1a23c9d9b88ebd13741de6b504e5cbc]: Textual amendment: Words in [s. 237(4)](https://www.legislation.gov.uk/ukpga/2002/40/section/237/4) substituted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 86(2)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/86/2) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
-[^key-39656970fb8e7ba34232728e529eda47]: Textual amendment: [S. 237(7)](https://www.legislation.gov.uk/ukpga/2002/40/section/237/7) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 86(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/86/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-39656970fb8e7ba34232728e529eda47]: Textual amendment: [S. 237(7)](https://www.legislation.gov.uk/ukpga/2002/40/section/237/7) inserted (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [s. 212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1), [Sch. 19 para. 86(3)](https://www.legislation.gov.uk/ukpga/2018/12/schedule/19/paragraph/86/3) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)

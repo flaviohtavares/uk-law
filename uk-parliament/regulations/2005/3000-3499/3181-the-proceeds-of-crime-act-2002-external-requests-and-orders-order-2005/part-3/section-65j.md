@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 65J. Further detention pending variation of restraint order[^key-975775a42ef1622cf6b07daab5659aef]
+## 65J. Further detention pending variation of restraint order[^c-975775a42ef1622cf6b07daab5659aef]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ summary: ''
 - (a) the decision to refuse the application; or
 - (b) any decision made on an appeal against (or review of) that decision.
 
-(4)[^key-fb979064587e1fed69c2291b4e8c7696] Exempt property seized under article 65B(4A) may be detained under paragraphs (2) and (3) only with the approval of a senior officer.
+(4)[^c-fb979064587e1fed69c2291b4e8c7696] Exempt property seized under article 65B(4A) may be detained under paragraphs (2) and (3) only with the approval of a senior officer.
 
 (5) In paragraph (4)—
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-975775a42ef1622cf6b07daab5659aef]: Textual amendment: [Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/1A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [25](https://www.legislation.gov.uk/uksi/2015/1750/article/25)
+[^c-975775a42ef1622cf6b07daab5659aef]: Textual amendment: [Ch. 1A](https://www.legislation.gov.uk/uksi/2005/3181/chapter/1A) inserted (30.11.2015) by [The Proceeds of Crime Act 2002 (External Requests and Orders) (Amendment) Order 2015 (S.I. 2015/1750)](https://www.legislation.gov.uk/uksi/2015/1750), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1750/article/1/2), [25](https://www.legislation.gov.uk/uksi/2015/1750/article/25)
 
-[^key-fb979064587e1fed69c2291b4e8c7696]: Textual amendment: [Art. 65J(4)](https://www.legislation.gov.uk/uksi/2005/3181/article/65J/4)[(5)](https://www.legislation.gov.uk/uksi/2005/3181/article/65J/5) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2024/1127/article/8/3)
+[^c-fb979064587e1fed69c2291b4e8c7696]: Textual amendment: [Art. 65J(4)](https://www.legislation.gov.uk/uksi/2005/3181/article/65J/4)[(5)](https://www.legislation.gov.uk/uksi/2005/3181/article/65J/5) inserted (26.4.2025) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2024 (S.I. 2024/1127)](https://www.legislation.gov.uk/uksi/2024/1127), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/1127/article/1/2), [8(3)](https://www.legislation.gov.uk/uksi/2024/1127/article/8/3)

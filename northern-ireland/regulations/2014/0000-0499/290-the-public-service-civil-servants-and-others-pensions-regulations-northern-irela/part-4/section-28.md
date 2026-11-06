@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 28. Meaning of “deferred member”[^key-a7112afa167c9c5829d328851b530fd1][^key-df7e675a475475271941c9a2cd25e04e]
+## 28. Meaning of “deferred member”[^c-a7112afa167c9c5829d328851b530fd1][^c-df7e675a475475271941c9a2cd25e04e]
 
 *Extent: N.I.*
 
@@ -42,6 +42,6 @@ summary: ''
 
 ## Annotations
 
-[^key-a7112afa167c9c5829d328851b530fd1]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2014/290/regulation/28) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-a7112afa167c9c5829d328851b530fd1]: Commencement: [Reg. 28](https://www.legislation.gov.uk/nisr/2014/290/regulation/28) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
 
-[^key-df7e675a475475271941c9a2cd25e04e]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/nisr/2014/290/regulation/28) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [regs. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2015/181/regulation/2/5)
+[^c-df7e675a475475271941c9a2cd25e04e]: Textual amendment: [Reg. 28](https://www.legislation.gov.uk/nisr/2014/290/regulation/28) substituted (1.4.2015) by [The Public Service (Civil Servants and Others) Pensions (Amendment) Regulations (Northern Ireland) 2015 (S.R. 2015/181)](https://www.legislation.gov.uk/nisr/2015/181), [regs. 1](https://www.legislation.gov.uk/nisr/2015/181/regulation/1), [2(5)](https://www.legislation.gov.uk/nisr/2015/181/regulation/2/5)

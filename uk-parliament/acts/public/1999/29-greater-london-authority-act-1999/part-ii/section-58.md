@@ -47,7 +47,7 @@ any reference to the disclosure (or likelihood of disclosure) of confidential in
 - (c) any terms proposed or to be proposed by or to a relevant body in the course of negotiations for any particular contract, if and so long as disclosure would prejudice the relevant body in those or any other negotiations concerning the subject matter of the contract;
 - (d) the identity of any person as the person offering any particular tender for a contract for the supply of goods or services to a relevant body;
 
-and in this subsection relevant body means Transport for London [^key-6415e474a94d7229ee98952f8d72969d]....
+and in this subsection relevant body means Transport for London [^c-6415e474a94d7229ee98952f8d72969d]....
 
 (5) In section 100C of that Act (inspection of minutes and other documents after meetings) any reference to the minutes of a meeting shall, in the case of a meeting of the Assembly under section 52(3) above, be taken to include a reference to—
 
@@ -75,4 +75,4 @@ whether the question was put, or the answer given, orally or in writing.
 
 [^c12800681]: Marginal citation: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-6415e474a94d7229ee98952f8d72969d]: Textual amendment: Words in s. 58(4) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-6415e474a94d7229ee98952f8d72969d]: Textual amendment: Words in s. 58(4) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Absence without leave[^key-79520a24b20bf74ad2d289d02e8e91f8][^key-0d3a8986d7ad68ed22c4ce1bc25908c2]
+## 9. Absence without leave[^c-79520a24b20bf74ad2d289d02e8e91f8][^c-0d3a8986d7ad68ed22c4ce1bc25908c2]
 
 *Extent: E+W+S+N.I.*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-79520a24b20bf74ad2d289d02e8e91f8]: Commencement: S. 9 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
+[^c-79520a24b20bf74ad2d289d02e8e91f8]: Commencement: S. 9 in force at 28.3.2009 for specified purposes by [S.I. 2009/812](https://www.legislation.gov.uk/uksi/2009/812), [art. 3(a)(b)](https://www.legislation.gov.uk/uksi/2009/812/article/3/a/b) (with transitional provisions in [S.I. 2009/1059](https://www.legislation.gov.uk/uksi/2009/1059))
 
-[^key-0d3a8986d7ad68ed22c4ce1bc25908c2]: Commencement: S. 9 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)
+[^c-0d3a8986d7ad68ed22c4ce1bc25908c2]: Commencement: S. 9 in force at 31.10.2009 in so far as not already in force by [S.I. 2009/1167](https://www.legislation.gov.uk/uksi/2009/1167), [art. 4](https://www.legislation.gov.uk/uksi/2009/1167/article/4)

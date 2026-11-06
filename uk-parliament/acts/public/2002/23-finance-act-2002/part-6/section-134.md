@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Recovery of taxes etc due in other member States[^key-3601493e516a67e47c2f8839c61f863a]
+## 134. Recovery of taxes etc due in other member States[^c-3601493e516a67e47c2f8839c61f863a]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3601493e516a67e47c2f8839c61f863a]: Textual amendment: S. 134 repealed (with effect in accordance with Sch. 25 paras. 17(1), 19 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 25 para. 17(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/25/paragraph/17/1)
+[^c-3601493e516a67e47c2f8839c61f863a]: Textual amendment: S. 134 repealed (with effect in accordance with Sch. 25 paras. 17(1), 19 of the amending Act) by [Finance Act 2011 (c. 11)](https://www.legislation.gov.uk/ukpga/2011/11), [Sch. 25 para. 17(1)](https://www.legislation.gov.uk/ukpga/2011/11/schedule/25/paragraph/17/1)

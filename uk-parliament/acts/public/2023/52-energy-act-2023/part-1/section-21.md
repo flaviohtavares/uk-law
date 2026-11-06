@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21. Procedure on appeal to CMA[^key-e6bd897b182f5f693358de9a3113238b]
+## 21. Procedure on appeal to CMA[^c-e6bd897b182f5f693358de9a3113238b]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e6bd897b182f5f693358de9a3113238b]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/52/section/21) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)
+[^c-e6bd897b182f5f693358de9a3113238b]: Commencement: [S. 21](https://www.legislation.gov.uk/ukpga/2023/52/section/21) in force at 26.12.2023, see [s. 334(3)(a)](https://www.legislation.gov.uk/ukpga/2023/52/section/334/3/a)

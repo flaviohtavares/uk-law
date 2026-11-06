@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 196. Use of affidavit evidence[^key-9f1e3bee9f7b2de253a14524f87bdd32]
+## 196. Use of affidavit evidence[^c-9f1e3bee9f7b2de253a14524f87bdd32]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 7.10 of the 1991 Rules.
 
 ## Annotations
 
-[^key-9f1e3bee9f7b2de253a14524f87bdd32]: Commencement: Rule 196 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-9f1e3bee9f7b2de253a14524f87bdd32]: Commencement: Rule 196 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

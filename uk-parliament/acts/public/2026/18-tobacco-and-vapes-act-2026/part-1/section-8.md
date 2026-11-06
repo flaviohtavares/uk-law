@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Ban on sales of snus etc[^key-177d6329c4f5f9d82663ba63e4989d89]
+## 8. Ban on sales of snus etc[^c-177d6329c4f5f9d82663ba63e4989d89]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-177d6329c4f5f9d82663ba63e4989d89]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/18/section/8) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-177d6329c4f5f9d82663ba63e4989d89]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2026/18/section/8) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

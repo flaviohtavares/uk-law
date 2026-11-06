@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 52. Notification and publicity where specification power used[^key-3eb04c5f41b2980a6364db76cb8d46c7]
+## 52. Notification and publicity where specification power used[^c-3eb04c5f41b2980a6364db76cb8d46c7]
 
 *Extent: E+W+S+N.I.*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3eb04c5f41b2980a6364db76cb8d46c7]: Commencement: Reg. 52 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-3eb04c5f41b2980a6364db76cb8d46c7]: Commencement: Reg. 52 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)

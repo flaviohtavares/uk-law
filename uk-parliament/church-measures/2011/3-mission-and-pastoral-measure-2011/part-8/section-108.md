@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 108. Provisions as to guild churches[^key-1655a5faa319e5ccd040051ddc23e7c7]
+## 108. Provisions as to guild churches[^c-1655a5faa319e5ccd040051ddc23e7c7]
 
 *Extent: E*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1655a5faa319e5ccd040051ddc23e7c7]: Commencement: S. 108 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)
+[^c-1655a5faa319e5ccd040051ddc23e7c7]: Commencement: S. 108 in force at 1.7.2012 by [S.I. 2012/1](https://www.legislation.gov.uk/ukci/2012/1), [art. 2](https://www.legislation.gov.uk/ukci/2012/1/article/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 115A. Application of Chapter 1 to corporate joint committees[^key-4a05c026535054d4a99c3c2179cfe542]
+## 115A. Application of Chapter 1 to corporate joint committees[^c-4a05c026535054d4a99c3c2179cfe542]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 10A applies Chapter 1 (performance, performance assessments and interve
 
 ## Annotations
 
-[^key-4a05c026535054d4a99c3c2179cfe542]: Textual amendment: [Pt. 6 Ch. 1A](https://www.legislation.gov.uk/asc/2021/1/part/6/chapter/1A) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2022/797/regulation/4)
+[^c-4a05c026535054d4a99c3c2179cfe542]: Textual amendment: [Pt. 6 Ch. 1A](https://www.legislation.gov.uk/asc/2021/1/part/6/chapter/1A) inserted (15.7.2022) by [The Corporate Joint Committees (General) (No. 2) (Wales) Regulations 2022 (S.I. 2022/797)](https://www.legislation.gov.uk/wsi/2022/797), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2022/797/regulation/1/2), [4](https://www.legislation.gov.uk/wsi/2022/797/regulation/4)

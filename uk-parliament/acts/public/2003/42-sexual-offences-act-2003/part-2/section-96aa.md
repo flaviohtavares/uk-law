@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 96AA. Convictions, etc. in a country which is not a member of the Council of Europe[^key-a664146b9713b6c19e0ea2b71477c42f]
+## 96AA. Convictions, etc. in a country which is not a member of the Council of Europe[^c-a664146b9713b6c19e0ea2b71477c42f]
 
 *Extent: N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a664146b9713b6c19e0ea2b71477c42f]: Textual amendment: Ss. 96A, 96AA inserted (N.I.) (24.6.2014) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 4(2)](https://www.legislation.gov.uk/nia/2013/7/section/4/2), [15(2)(c)](https://www.legislation.gov.uk/nia/2013/7/section/15/2/c); [S.R. 2014/179](https://www.legislation.gov.uk/nisr/2014/179), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/179/article/2/b)
+[^c-a664146b9713b6c19e0ea2b71477c42f]: Textual amendment: Ss. 96A, 96AA inserted (N.I.) (24.6.2014) by [Criminal Justice Act (Northern Ireland) 2013 (c. 7)](https://www.legislation.gov.uk/nia/2013/7), [ss. 4(2)](https://www.legislation.gov.uk/nia/2013/7/section/4/2), [15(2)(c)](https://www.legislation.gov.uk/nia/2013/7/section/15/2/c); [S.R. 2014/179](https://www.legislation.gov.uk/nisr/2014/179), [art. 2(b)](https://www.legislation.gov.uk/nisr/2014/179/article/2/b)

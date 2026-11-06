@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Regulation [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies[^key-4c5f5124ae5a4241ae8d923568fdc12a]
+## 4. Regulation [(EC) No 999/2001](https://www.legislation.gov.uk/eur/2001/999) of the European Parliament and of the Council laying down rules for the prevention, control and eradication of certain transmissible spongiform encephalopathies[^c-4c5f5124ae5a4241ae8d923568fdc12a]
 
 *Extent: E+W+S+N.I.*
 
@@ -36,7 +36,7 @@ summary: ''
 >
 > The appropriate authority may by regulations make provision for laying down safeguard measures to reduce the risk of spread of transmissible spongiform encephalopathies covered by this Regulation, including but not limited to suspension of trade, isolation of holdings, delineation of buffer zones and quarantining of animals.
 >
-> **2.[^key-2e7e2defed2f3b434b3005f6050dde6f]**
+> **2.[^c-2e7e2defed2f3b434b3005f6050dde6f]**
 >
 > The appropriate authority that introduced the safeguard measures must notify each affected exporting country of the reasons for introducing such measures.
 
@@ -46,7 +46,7 @@ summary: ''
 
 > **7.**
 >
-> The Secretary of State may, with the consent of each other[^key-2d1ab43248a86221d8b0db91dd10dfc0] authority which in relation to any part of Great Britain[^key-49ddf3a5fb30e33f493ebc0fb3c7b467] is the appropriate authority, decide to change the BSE classification of a country or region from a date specified in the decision, on the basis of a risk assessment, taking into consideration the criteria set out in Annex 2, Chapters A and B and the OIE classification.
+> The Secretary of State may, with the consent of each other[^c-2d1ab43248a86221d8b0db91dd10dfc0] authority which in relation to any part of Great Britain[^c-49ddf3a5fb30e33f493ebc0fb3c7b467] is the appropriate authority, decide to change the BSE classification of a country or region from a date specified in the decision, on the basis of a risk assessment, taking into consideration the criteria set out in Annex 2, Chapters A and B and the OIE classification.
 
 .
 
@@ -117,7 +117,7 @@ summary: ''
 
 > **5.**
 >
-> [^key-c7fa38f1a6764598e95cbfd01d595370]... The appropriate authority may by regulations—
+> [^c-c7fa38f1a6764598e95cbfd01d595370]... The appropriate authority may by regulations—
 >
 > - (a) prescribe the age of bovine animals from which the vertebral column is to be treated as specified risk material;
 > - (b) amend the list of specified risk material in Annex 5;
@@ -231,7 +231,7 @@ summary: ''
   > The appropriate authority may by regulations amend the following non-essential elements of this Regulation, including by supplementing it:
 
   ;
-- (b) omit paragraphs (g)[^key-bb2ed59ccd3809927c2b1028b482025a] and (m).
+- (b) omit paragraphs (g)[^c-bb2ed59ccd3809927c2b1028b482025a] and (m).
 
 (17) For Article 24 substitute—
 
@@ -245,7 +245,7 @@ summary: ''
 >
 > For regulations made under this Regulation by the Scottish Ministers, see section 27 of the Interpretation and Legislative Reform (Scotland) Act 2010 [^c23643831].
 >
-> **3.[^key-7dc67ac09d05cf8a3e1707b3909ecbf2]**
+> **3.[^c-7dc67ac09d05cf8a3e1707b3909ecbf2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -255,13 +255,13 @@ summary: ''
 >
 > **5.**
 >
-> A statutory instrument containing regulations made by the Welsh Ministers under this Regulation is subject to annulment in pursuance of a resolution of the Welsh Parliament[^key-ad461548e9de7a6607f2ebe0b1fbcc97].
+> A statutory instrument containing regulations made by the Welsh Ministers under this Regulation is subject to annulment in pursuance of a resolution of the Welsh Parliament[^c-ad461548e9de7a6607f2ebe0b1fbcc97].
 >
 > **6.**
 >
 > Regulations made by the Scottish Ministers under this Regulation are subject to the negative procedure (see section 28 of the Interpretation and Legislative Reform (Scotland) Act 2010).
 >
-> **7.[^key-7dc67ac09d05cf8a3e1707b3909ecbf2]**
+> **7.[^c-7dc67ac09d05cf8a3e1707b3909ecbf2]**
 >
 > . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
@@ -285,7 +285,7 @@ summary: ''
 
 (18) Omit Article 24a.
 
-(19) In Annex 3, Chapter A is amended in accordance with paragraphs (20) and (21)[^key-f223fe101e5328fdfeebdcd6f5f016a1] .
+(19) In Annex 3, Chapter A is amended in accordance with paragraphs (20) and (21)[^c-f223fe101e5328fdfeebdcd6f5f016a1] .
 
 (20) In Part 1—
 
@@ -304,7 +304,7 @@ summary: ''
 (21) In Part 2—
 
 - (a) in point 4—
-  - (i)[^key-0f45148d9c4940f0a83ee3f237561aae] in the fourth paragraph, for “Member States shall aim their monitoring programmes” substitute “The monitoring programmes must be designed by the Secretary of State, with the consent of each other authority which, in relation to any part of Great Britain, is the appropriate authority so as”;
+  - (i)[^c-0f45148d9c4940f0a83ee3f237561aae] in the fourth paragraph, for “Member States shall aim their monitoring programmes” substitute “The monitoring programmes must be designed by the Secretary of State, with the consent of each other authority which, in relation to any part of Great Britain, is the appropriate authority so as”;
   - (ii) in the fifth paragraph, for “Member States”, substitute “ appropriate authority ”; and
   - (iii) for the sixth paragraph substitute—
 
@@ -325,24 +325,24 @@ summary: ''
 
 ## Annotations
 
-[^key-4c5f5124ae5a4241ae8d923568fdc12a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-4c5f5124ae5a4241ae8d923568fdc12a]: Commencement: Reg. 4 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-2e7e2defed2f3b434b3005f6050dde6f]: Textual amendment: Words in reg. 4(3) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/a)
+[^c-2e7e2defed2f3b434b3005f6050dde6f]: Textual amendment: Words in reg. 4(3) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/a)
 
-[^key-2d1ab43248a86221d8b0db91dd10dfc0]: Textual amendment: Word in reg. 4(4) inserted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/b/i)
+[^c-2d1ab43248a86221d8b0db91dd10dfc0]: Textual amendment: Word in reg. 4(4) inserted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/b/i)
 
-[^key-49ddf3a5fb30e33f493ebc0fb3c7b467]: Textual amendment: Words in reg. 4(4) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/b/ii)
+[^c-49ddf3a5fb30e33f493ebc0fb3c7b467]: Textual amendment: Words in reg. 4(4) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/b/ii)
 
-[^key-c7fa38f1a6764598e95cbfd01d595370]: Textual amendment: Words in reg. 4(8) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(c)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/c)
+[^c-c7fa38f1a6764598e95cbfd01d595370]: Textual amendment: Words in reg. 4(8) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(c)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/c)
 
-[^key-bb2ed59ccd3809927c2b1028b482025a]: Textual amendment: Word in reg. 4(16)(b) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(d)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/d)
+[^c-bb2ed59ccd3809927c2b1028b482025a]: Textual amendment: Word in reg. 4(16)(b) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(d)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/d)
 
 [^c23643831]: Marginal citation: [2010 asp 10](https://www.legislation.gov.uk/asp/2010/10).
 
-[^key-7dc67ac09d05cf8a3e1707b3909ecbf2]: Textual amendment: Words in reg. 4(17) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/e/ii)
+[^c-7dc67ac09d05cf8a3e1707b3909ecbf2]: Textual amendment: Words in reg. 4(17) omitted (31.12.2020 immediately before IP completion day) by virtue of [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(e)(ii)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/e/ii)
 
-[^key-ad461548e9de7a6607f2ebe0b1fbcc97]: Textual amendment: Words in reg. 4(17) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/e/i)
+[^c-ad461548e9de7a6607f2ebe0b1fbcc97]: Textual amendment: Words in reg. 4(17) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(e)(i)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/e/i)
 
-[^key-f223fe101e5328fdfeebdcd6f5f016a1]: Textual amendment: Words in reg. 4(19) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(f)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/f)
+[^c-f223fe101e5328fdfeebdcd6f5f016a1]: Textual amendment: Words in reg. 4(19) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(f)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/f)
 
-[^key-0f45148d9c4940f0a83ee3f237561aae]: Textual amendment: Reg. 4(21)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(g)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/g)
+[^c-0f45148d9c4940f0a83ee3f237561aae]: Textual amendment: Reg. 4(21)(a)(i) substituted (31.12.2020 immediately before IP completion day) by [The Aquatic Animal Health and Alien Species in Aquaculture, Animals, and Marketing of Seed, Plant and Propagating Material (Legislative Functions and Miscellaneous Provisions) (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1463)](https://www.legislation.gov.uk/uksi/2020/1463), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/1/2/a), [6(3)(g)](https://www.legislation.gov.uk/uksi/2020/1463/regulation/6/3/g)

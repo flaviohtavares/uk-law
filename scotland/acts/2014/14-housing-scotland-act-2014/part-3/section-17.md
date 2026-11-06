@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17. Repairing standard[^key-d14b4ab6526e9fd9fe6a952236924d02]
+## 17. Repairing standard[^c-d14b4ab6526e9fd9fe6a952236924d02]
 
 *Extent: S*
 
@@ -45,4 +45,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d14b4ab6526e9fd9fe6a952236924d02]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/14/section/17) in force at 1.12.2017 by [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)
+[^c-d14b4ab6526e9fd9fe6a952236924d02]: Commencement: [S. 17](https://www.legislation.gov.uk/asp/2014/14/section/17) in force at 1.12.2017 by [S.S.I. 2017/330](https://www.legislation.gov.uk/ssi/2017/330), [art. 3](https://www.legislation.gov.uk/ssi/2017/330/article/3), [sch.](https://www.legislation.gov.uk/ssi/2017/330/schedule)

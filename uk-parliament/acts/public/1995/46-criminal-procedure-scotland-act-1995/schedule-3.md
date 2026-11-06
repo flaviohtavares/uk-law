@@ -68,7 +68,7 @@ it shall be sufficient to specify that the accused received the property, it hav
 
 (3) Under an indictment or a complaint for robbery, breach of trust and embezzlement, or falsehood, fraud and wilful imposition, an accused may be convicted of theft.
 
-(3A)[^key-aec5ccd30b8ec8b0933d535abce469e1] Under an indictment or a complaint for breach of trust and embezzlement, an accused may be convicted of falsehood, fraud and wilful imposition.
+(3A)[^c-aec5ccd30b8ec8b0933d535abce469e1] Under an indictment or a complaint for breach of trust and embezzlement, an accused may be convicted of falsehood, fraud and wilful imposition.
 
 (3B) Under an indictment or a complaint for falsehood, fraud and wilful imposition, an accused may be convicted of breach of trust and embezzlement.
 
@@ -126,4 +126,4 @@ it shall be lawful to convict of the common law offence.
 
 [^c14477411]: Marginal citation: [1954 c. 48](https://www.legislation.gov.uk/ukpga/1954/48).
 
-[^key-aec5ccd30b8ec8b0933d535abce469e1]: Textual amendment: Sch. 3 para. 8(3A)(3B) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 48](https://www.legislation.gov.uk/asp/2010/13/section/48), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-aec5ccd30b8ec8b0933d535abce469e1]: Textual amendment: Sch. 3 para. 8(3A)(3B) inserted (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [ss. 48](https://www.legislation.gov.uk/asp/2010/13/section/48), [206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)

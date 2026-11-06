@@ -27,7 +27,7 @@ summary: ''
 
 (2) A person who commits an offence under this section where the relevant contravention of section 8 would constitute an offence to which section 35(2) applies is liable—
 
-- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^key-82c17ae7c782ca55241c9b09cbc63181] or to a fine not exceeding the statutory maximum or to both;
+- (a) on summary conviction, to imprisonment for a term not exceeding the general limit in a magistrates’ court[^c-82c17ae7c782ca55241c9b09cbc63181] or to a fine not exceeding the statutory maximum or to both;
 - (b) on conviction on indictment, to imprisonment for a term not exceeding two years or to a fine or to both.
 
 (3) In the application of subsection (2) to Scotland or Northern Ireland the reference to 12 months is to be read as a reference to six months.
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-82c17ae7c782ca55241c9b09cbc63181]: Textual amendment: Words in [s. 36(2)(a)](https://www.legislation.gov.uk/ukpga/2006/36/section/36/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)
+[^c-82c17ae7c782ca55241c9b09cbc63181]: Textual amendment: Words in [s. 36(2)(a)](https://www.legislation.gov.uk/ukpga/2006/36/section/36/2/a) substituted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1)

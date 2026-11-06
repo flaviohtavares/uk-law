@@ -46,7 +46,7 @@ Coming into force in accordance with regulation 1(2)
 
 The Defence Council makes these Regulations in exercise of the powers conferred by row 7 of the Table in section 132, section 132(3), section 138(7), row 11 of the Table in section 164, section 164(4) and section 164(6) of the Armed Forces Act 2006[^f00001].
 
-## 1. Citation, commencement and extent[^key-eb6e490cd24dc5801cbcf41820337f06]
+## 1. Citation, commencement and extent[^c-eb6e490cd24dc5801cbcf41820337f06]
 
 (1) These Regulations may be cited as the Armed Forces (Minor Punishments and Limitation on Power to Reduce in Rank) Regulations 2023.
 
@@ -54,7 +54,7 @@ The Defence Council makes these Regulations in exercise of the powers conferred 
 
 (3) These Regulations extend to England and Wales, Scotland, Northern Ireland, the Isle of Man and the British overseas territories (except Gibraltar).
 
-## 2. Minor punishments available to the Court Martial and commanding officers[^key-fc9aabfaae9619bd20e4b82d776db7e9]
+## 2. Minor punishments available to the Court Martial and commanding officers[^c-fc9aabfaae9619bd20e4b82d776db7e9]
 
 The first column of the following Table lists the minor punishments that may be awarded by the Court Martial or by a commanding officer who has heard a charge summarily, subject in the case of each punishment to any limitation shown in the second column opposite it.
 
@@ -66,7 +66,7 @@ Table
 | a restriction of privileges order | only if the offender is an able rate, marine, soldier, airman or military officer cadet |
 | an admonition |  |
 
-## 3. Stoppage of leave order[^key-eaf89131c38e376db2fa6f28885689c6]
+## 3. Stoppage of leave order[^c-eaf89131c38e376db2fa6f28885689c6]
 
 (1) A stoppage of leave order is an order that the offender must not leave a relevant place on a specified number of days without the permission of the offender’s commanding officer.
 
@@ -91,7 +91,7 @@ Table
 - (b) a military establishment; or
 - (c) an air force station.
 
-## 4. Restriction of privileges order[^key-6e7539daf9f5319e58cf534470987c8f]
+## 4. Restriction of privileges order[^c-6e7539daf9f5319e58cf534470987c8f]
 
 (1) Subject to paragraph (8), a restriction of privileges order is an order that on a specified number of days the offender must perform such extra duties as the offender’s commanding officer decides.
 
@@ -112,7 +112,7 @@ Table
 
 (8) The offender must not spend more than a total of five and a half hours performing extra duties on each day of the specified number.
 
-## 5. Prohibited combinations of punishments[^key-6411abeb1c05ba3317700419d7ac99ae]
+## 5. Prohibited combinations of punishments[^c-6411abeb1c05ba3317700419d7ac99ae]
 
 (1) Paragraphs (2) to (4) apply where a commanding officer awards a minor punishment in respect of an offender.
 
@@ -136,11 +136,11 @@ Table
 - (a) a service compensation order;
 - (b) a deprivation order.
 
-## 6. Power to direct that a minor punishment is to take effect at a later date[^key-23ac58131ba3cb60e29ab3962de8fdae]
+## 6. Power to direct that a minor punishment is to take effect at a later date[^c-23ac58131ba3cb60e29ab3962de8fdae]
 
 When awarding a minor punishment other than an admonition, the Court Martial or a commanding officer may direct that the punishment must be treated as if it were awarded at a time not later than 28 days after it was awarded. In that event, any reference in these Regulations to when an order is awarded is to be construed as a reference to when, in accordance with this regulation, it is to be treated as awarded.
 
-## 7. Delegations[^key-eca838174fb588c87b6b0dc3043d0b8b]
+## 7. Delegations[^c-eca838174fb588c87b6b0dc3043d0b8b]
 
 (1) Subject to paragraphs (2) and (3), any function conferred by these Regulations on a commanding officer in relation to a punishment may be delegated to any person subject to service law who is of or above the rank of naval lieutenant, military or marine captain or flight lieutenant.
 
@@ -148,11 +148,11 @@ When awarding a minor punishment other than an admonition, the Court Martial or 
 
 (3) The commanding officer may delegate the function conferred under regulation 4(1) (deciding the extra duties which the offender must perform) to any person subject to service law who is of or above the rank or rate of chief petty officer, marine colour sergeant, military staff sergeant or flight sergeant.
 
-## 8. Limitation on power to reduce an offender in rank[^key-f297f04e96a35b2e2c72058d4a5a0218]
+## 8. Limitation on power to reduce an offender in rank[^c-f297f04e96a35b2e2c72058d4a5a0218]
 
 A member of any of His Majesty's air forces may not be reduced under section 164 of the Armed Forces Act 2006 to a rank which is lower than the highest rank the member has held in that force as an airman.
 
-## 9. Revocation of the Armed Forces (Minor Punishments and Limitation on Power to Reduce in Rank) Regulations 2009[^key-dafdfa39dd552d6fdcc9cb7e7bad94e3]
+## 9. Revocation of the Armed Forces (Minor Punishments and Limitation on Power to Reduce in Rank) Regulations 2009[^c-dafdfa39dd552d6fdcc9cb7e7bad94e3]
 
 The Armed Forces (Minor Punishments and Limitation on Power to Reduce in Rank) Regulations 2009[^f00002] are revoked[^f00003].
 
@@ -196,23 +196,23 @@ A full impact assessment has not been produced for this instrument as no, or no 
 
 [^f00001]: Footnote: [2006 c. 52](https://www.legislation.gov.uk/ukpga/2006/52). There are amendments to the Act that are not relevant to these Regulations.
 
-[^key-eb6e490cd24dc5801cbcf41820337f06]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/869/regulation/1) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
+[^c-eb6e490cd24dc5801cbcf41820337f06]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2023/869/regulation/1) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
 
-[^key-fc9aabfaae9619bd20e4b82d776db7e9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/869/regulation/2) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
+[^c-fc9aabfaae9619bd20e4b82d776db7e9]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2023/869/regulation/2) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
 
-[^key-eaf89131c38e376db2fa6f28885689c6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/869/regulation/3) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
+[^c-eaf89131c38e376db2fa6f28885689c6]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2023/869/regulation/3) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
 
-[^key-6e7539daf9f5319e58cf534470987c8f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/869/regulation/4) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
+[^c-6e7539daf9f5319e58cf534470987c8f]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2023/869/regulation/4) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
 
-[^key-6411abeb1c05ba3317700419d7ac99ae]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/869/regulation/5) substituted (22.11.2023) by [The Armed Forces (Minor Punishments and Limitation on Power to Reduce in Rank) (Amendment) Regulations 2023 (S.I. 2023/1151)](https://www.legislation.gov.uk/uksi/2023/1151), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1151/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1151/regulation/2/2)
+[^c-6411abeb1c05ba3317700419d7ac99ae]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2023/869/regulation/5) substituted (22.11.2023) by [The Armed Forces (Minor Punishments and Limitation on Power to Reduce in Rank) (Amendment) Regulations 2023 (S.I. 2023/1151)](https://www.legislation.gov.uk/uksi/2023/1151), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1151/regulation/1/2), [2(2)](https://www.legislation.gov.uk/uksi/2023/1151/regulation/2/2)
 
-[^key-23ac58131ba3cb60e29ab3962de8fdae]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/869/regulation/6) in force at 26.7.2023 at 2.00 p.m. , see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
+[^c-23ac58131ba3cb60e29ab3962de8fdae]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2023/869/regulation/6) in force at 26.7.2023 at 2.00 p.m. , see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
 
-[^key-eca838174fb588c87b6b0dc3043d0b8b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/869/regulation/7) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
+[^c-eca838174fb588c87b6b0dc3043d0b8b]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2023/869/regulation/7) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
 
-[^key-f297f04e96a35b2e2c72058d4a5a0218]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/869/regulation/8) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
+[^c-f297f04e96a35b2e2c72058d4a5a0218]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2023/869/regulation/8) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
 
-[^key-dafdfa39dd552d6fdcc9cb7e7bad94e3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/869/regulation/9) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
+[^c-dafdfa39dd552d6fdcc9cb7e7bad94e3]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2023/869/regulation/9) in force at 26.7.2023 at 2.00 p.m., see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/869/regulation/1/2)
 
 [^f00002]: Footnote: [S.I. 2009/1215](https://www.legislation.gov.uk/uksi/2009/1215).
 

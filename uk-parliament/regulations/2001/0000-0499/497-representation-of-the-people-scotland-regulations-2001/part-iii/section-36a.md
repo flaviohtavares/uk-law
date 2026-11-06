@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 36A. Communication of notices made on polling day[^key-24963ef1aa52719d9e7d232e4b85bd64][^key-75e165d423d9b22934744c943bb58760]
+## 36A. Communication of notices made on polling day[^c-24963ef1aa52719d9e7d232e4b85bd64][^c-75e165d423d9b22934744c943bb58760]
 
 *Extent: S*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-24963ef1aa52719d9e7d232e4b85bd64]: Modification: [Reg. 36A](https://www.legislation.gov.uk/uksi/2001/497/regulation/36A) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(f)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/f)
+[^c-24963ef1aa52719d9e7d232e4b85bd64]: Modification: [Reg. 36A](https://www.legislation.gov.uk/uksi/2001/497/regulation/36A) applied (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 2(f)](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/2/f)
 
-[^key-75e165d423d9b22934744c943bb58760]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2001/497/regulation/36A) inserted (with effect in accordance with reg. 1(2)(3)(a) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2007/925/regulation/26)
+[^c-75e165d423d9b22934744c943bb58760]: Textual amendment: [Reg. 36A](https://www.legislation.gov.uk/uksi/2001/497/regulation/36A) inserted (with effect in accordance with reg. 1(2)(3)(a) of the amending S.I.) by [The Representation of the People (Scotland) (Amendment) Regulations 2007 (S.I. 2007/925)](https://www.legislation.gov.uk/uksi/2007/925), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2007/925/regulation/1/1), [26](https://www.legislation.gov.uk/uksi/2007/925/regulation/26)

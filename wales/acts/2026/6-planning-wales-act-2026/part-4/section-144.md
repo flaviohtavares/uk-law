@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 144. Power of the Welsh Ministers to issue enforcement notice[^key-06c09b05e33471341859ec096af0ac01]
+## 144. Power of the Welsh Ministers to issue enforcement notice[^c-06c09b05e33471341859ec096af0ac01]
 
 *Extent: E+W*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-06c09b05e33471341859ec096af0ac01]: Commencement: S. 144 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-06c09b05e33471341859ec096af0ac01]: Commencement: S. 144 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

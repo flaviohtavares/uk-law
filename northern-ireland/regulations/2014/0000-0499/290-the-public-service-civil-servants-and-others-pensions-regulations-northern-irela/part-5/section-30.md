@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 30. Descriptions of full retirement pension[^key-70b9c41ed20c621300167ed692ce3cfa]
+## 30. Descriptions of full retirement pension[^c-70b9c41ed20c621300167ed692ce3cfa]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ For the purpose of these Regulations, the descriptions of full retirement pensio
 
 ## Annotations
 
-[^key-70b9c41ed20c621300167ed692ce3cfa]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2014/290/regulation/30) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-70b9c41ed20c621300167ed692ce3cfa]: Commencement: [Reg. 30](https://www.legislation.gov.uk/nisr/2014/290/regulation/30) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

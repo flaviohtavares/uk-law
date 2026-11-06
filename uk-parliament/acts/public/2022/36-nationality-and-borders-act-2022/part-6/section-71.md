@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Visa penalties for countries posing risk to international peace and security etc[^key-42be913d2cadbd2096f22143cce370b0]
+## 71. Visa penalties for countries posing risk to international peace and security etc[^c-42be913d2cadbd2096f22143cce370b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-42be913d2cadbd2096f22143cce370b0]: Commencement: S. 71 in force at Royal Assent, see [s. 87(3)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/b)
+[^c-42be913d2cadbd2096f22143cce370b0]: Commencement: S. 71 in force at Royal Assent, see [s. 87(3)(b)](https://www.legislation.gov.uk/ukpga/2022/36/section/87/3/b)

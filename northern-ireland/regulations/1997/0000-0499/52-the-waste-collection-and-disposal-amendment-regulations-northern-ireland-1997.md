@@ -32,7 +32,7 @@ EUROPEAN COMMUNITIES
 
 PUBLIC HEALTH
 
-The Waste Collection and Disposal (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^key-769e86bcdbd5db1f3f5e626078b9ed8f]
+The Waste Collection and Disposal (Amendment) Regulations (Northern Ireland) 1997 (revoked)[^c-769e86bcdbd5db1f3f5e626078b9ed8f]
 
 Made
 
@@ -42,28 +42,28 @@ Coming into operation
 
 14th March 1997
 
-[^key-769e86bcdbd5db1f3f5e626078b9ed8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-769e86bcdbd5db1f3f5e626078b9ed8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-769e86bcdbd5db1f3f5e626078b9ed8f]
+## 1. Citation, commencement and interpretation[^c-769e86bcdbd5db1f3f5e626078b9ed8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Waste Collection and Disposal Regulations (Northern Ireland) 1992[^key-769e86bcdbd5db1f3f5e626078b9ed8f]
+## 2. Amendment of the Waste Collection and Disposal Regulations (Northern Ireland) 1992[^c-769e86bcdbd5db1f3f5e626078b9ed8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Registration in connection with exempt activities[^key-769e86bcdbd5db1f3f5e626078b9ed8f]
+## 3. Registration in connection with exempt activities[^c-769e86bcdbd5db1f3f5e626078b9ed8f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-769e86bcdbd5db1f3f5e626078b9ed8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-769e86bcdbd5db1f3f5e626078b9ed8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-769e86bcdbd5db1f3f5e626078b9ed8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-769e86bcdbd5db1f3f5e626078b9ed8f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-769e86bcdbd5db1f3f5e626078b9ed8f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/52) revoked (19.12.2003) by [The Waste Management Licensing Regulations (Northern Ireland) 2003 (S.R. 2003/493)](https://www.legislation.gov.uk/nisr/2003/493), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1), [27(2)](https://www.legislation.gov.uk/nisr/2003/493/regulation/27/2)
+[^c-769e86bcdbd5db1f3f5e626078b9ed8f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1997/52) revoked (19.12.2003) by [The Waste Management Licensing Regulations (Northern Ireland) 2003 (S.R. 2003/493)](https://www.legislation.gov.uk/nisr/2003/493), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2003/493/regulation/1/1), [27(2)](https://www.legislation.gov.uk/nisr/2003/493/regulation/27/2)

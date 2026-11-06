@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 94. Amendment of Schedule 1 (combined authorities mayoral election rules)[^key-1de3c198cc9179cc782b9517b543db7f]
+## 94. Amendment of Schedule 1 (combined authorities mayoral election rules)[^c-1de3c198cc9179cc782b9517b543db7f]
 
 *Extent: E+W+S+N.I.*
 
@@ -326,4 +326,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1de3c198cc9179cc782b9517b543db7f]: Commencement: Reg. 94 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-1de3c198cc9179cc782b9517b543db7f]: Commencement: Reg. 94 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

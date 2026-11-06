@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 126. Firearms Act 1968: meaning of “antique firearm”[^c22719651][^key-1eae5f026c8bd52de082cd9e7ef23def]
+## 126. Firearms Act 1968: meaning of “antique firearm”[^c22719651][^c-1eae5f026c8bd52de082cd9e7ef23def]
 
 *Extent: E+W+S*
 
@@ -76,4 +76,4 @@ summary: ''
 
 [^c22719651]: Commencement: S. 126 in force for specified purposes at Royal Assent, see [s. 183](https://www.legislation.gov.uk/ukpga/2017/3/section/183)
 
-[^key-1eae5f026c8bd52de082cd9e7ef23def]: Commencement: S. 126 in force at 22.3.2021 in so far as not already in force by [S.I. 2021/282](https://www.legislation.gov.uk/uksi/2021/282), [reg. 2](https://www.legislation.gov.uk/uksi/2021/282/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2021/282/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/282/regulation/4)) (as amended (20.9.2021) by [S.I. 2021/945](https://www.legislation.gov.uk/uksi/2021/945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/945/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/945/regulation/2))
+[^c-1eae5f026c8bd52de082cd9e7ef23def]: Commencement: S. 126 in force at 22.3.2021 in so far as not already in force by [S.I. 2021/282](https://www.legislation.gov.uk/uksi/2021/282), [reg. 2](https://www.legislation.gov.uk/uksi/2021/282/regulation/2) (with [regs. 3](https://www.legislation.gov.uk/uksi/2021/282/regulation/3), [4](https://www.legislation.gov.uk/uksi/2021/282/regulation/4)) (as amended (20.9.2021) by [S.I. 2021/945](https://www.legislation.gov.uk/uksi/2021/945), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/945/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2021/945/regulation/2))

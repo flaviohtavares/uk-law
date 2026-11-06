@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230. Abolition of functions of Patients' Forums[^key-3d39d110555324ef917148dab301c5bf]
+## 230. Abolition of functions of Patients' Forums[^c-3d39d110555324ef917148dab301c5bf]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3d39d110555324ef917148dab301c5bf]: Commencement: S. 230 in force at 1.4.2008 by [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/461/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/461/schedule)
+[^c-3d39d110555324ef917148dab301c5bf]: Commencement: S. 230 in force at 1.4.2008 by [S.I. 2008/461](https://www.legislation.gov.uk/uksi/2008/461), [art. 2(3)](https://www.legislation.gov.uk/uksi/2008/461/article/2/3), [Sch.](https://www.legislation.gov.uk/uksi/2008/461/schedule)

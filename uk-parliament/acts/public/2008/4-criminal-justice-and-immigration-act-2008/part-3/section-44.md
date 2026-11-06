@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Determination of prosecution appeals: England and Wales[^key-770a197bda8d762f4020d0203809d839]
+## 44. Determination of prosecution appeals: England and Wales[^c-770a197bda8d762f4020d0203809d839]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ In section 61 of the Criminal Justice Act 2003 (c. 44) (determination of prosecu
 
 ## Annotations
 
-[^key-770a197bda8d762f4020d0203809d839]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2008/4/section/44) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/23)
+[^c-770a197bda8d762f4020d0203809d839]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2008/4/section/44) in force at 14.7.2008 by [S.I. 2008/1586](https://www.legislation.gov.uk/uksi/2008/1586), [art. 2(1)](https://www.legislation.gov.uk/uksi/2008/1586/article/2/1), [Sch. 1 para. 23](https://www.legislation.gov.uk/uksi/2008/1586/schedule/1/paragraph/23)

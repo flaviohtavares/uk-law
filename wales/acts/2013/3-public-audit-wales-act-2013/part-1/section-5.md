@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 5. Employment etc of former Auditor General[^key-c163a9d2258663fb9aca5ac53c8d1d8e]
+## 5. Employment etc of former Auditor General[^c-c163a9d2258663fb9aca5ac53c8d1d8e]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ the person must consult any person specified by the National Assembly.
 
 ## Annotations
 
-[^key-c163a9d2258663fb9aca5ac53c8d1d8e]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2013/3/section/5) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)
+[^c-c163a9d2258663fb9aca5ac53c8d1d8e]: Commencement: [S. 5](https://www.legislation.gov.uk/anaw/2013/3/section/5) in force at 1.4.2014 by [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 3(1)](https://www.legislation.gov.uk/wsi/2013/1466/article/3/1)

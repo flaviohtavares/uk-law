@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 71. Industrial action ballots: information to be included on voting paper[^key-f8c5a8336c4e9bb96cfe0af2b5c5228f]
+## 71. Industrial action ballots: information to be included on voting paper[^c-f8c5a8336c4e9bb96cfe0af2b5c5228f]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f8c5a8336c4e9bb96cfe0af2b5c5228f]: Commencement: S. 71 in force at 18.2.2026, see [s. 159(2)(h)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/h) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/8))
+[^c-f8c5a8336c4e9bb96cfe0af2b5c5228f]: Commencement: S. 71 in force at 18.2.2026, see [s. 159(2)(h)](https://www.legislation.gov.uk/ukpga/2025/36/section/159/2/h) (with savings and transitional provisions in [S.I. 2026/3](https://www.legislation.gov.uk/uksi/2026/3), [Sch. 2 para. 8](https://www.legislation.gov.uk/uksi/2026/3/schedule/2/paragraph/8))

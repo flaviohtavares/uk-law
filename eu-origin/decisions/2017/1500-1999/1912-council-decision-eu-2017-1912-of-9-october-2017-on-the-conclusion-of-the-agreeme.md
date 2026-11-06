@@ -33,18 +33,18 @@ of 9 October 2017
 
 on the conclusion of the Agreement between the European Union and Iceland on the protection of geographical indications for agricultural products and foodstuffs (revoked)
 
-[^key-e5ec5e890850e4941b5a305b7b246b4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5ec5e890850e4941b5a305b7b246b4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-e5ec5e890850e4941b5a305b7b246b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-e5ec5e890850e4941b5a305b7b246b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-e5ec5e890850e4941b5a305b7b246b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-e5ec5e890850e4941b5a305b7b246b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-e5ec5e890850e4941b5a305b7b246b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-e5ec5e890850e4941b5a305b7b246b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-e5ec5e890850e4941b5a305b7b246b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-e5ec5e890850e4941b5a305b7b246b4c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5ec5e890850e4941b5a305b7b246b4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5ec5e890850e4941b5a305b7b246b4c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5ec5e890850e4941b5a305b7b246b4c]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 42](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e5ec5e890850e4941b5a305b7b246b4c]: Textual amendment: Decision revoked (31.12.2020) by [The Food and Drink, Veterinary Medicines and Residues (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/865)](https://www.legislation.gov.uk/uksi/2019/865), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/865/regulation/1/2), [Sch. 7 para. 42](https://www.legislation.gov.uk/uksi/2019/865/schedule/7/paragraph/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

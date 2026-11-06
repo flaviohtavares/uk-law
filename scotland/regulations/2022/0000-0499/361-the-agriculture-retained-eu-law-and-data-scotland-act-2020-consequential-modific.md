@@ -58,13 +58,13 @@ There has been consultation as required by Article 9 of Regulation [(EC) 178/20
 
 ## PART 1 — Introduction
 
-### 1. Citation and commencement[^key-a0b56cf6e06f6e8a90f3fe8a940da643]
+### 1. Citation and commencement[^c-a0b56cf6e06f6e8a90f3fe8a940da643]
 
 These Regulations may be cited as the Agriculture (Retained EU Law and Data) (Scotland) Act 2020 (Consequential Modifications) and Agricultural Products, Aquatic Animal Health and Genetically Modified Organisms (EU Exit) (Amendment) Regulations 2022 and come into force on 2 February 2023.
 
 ## PART 2 — Amendment of retained direct EU legislation
 
-### 2. Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)[^key-40adb7d7ec867705a14acc78d162717e]
+### 2. Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)[^c-40adb7d7ec867705a14acc78d162717e]
 
 (1) Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) establishing a common organisation of agricultural markets and on specific provisions for certain agricultural products (Single CMO Regulation)[^f00004] is amended as follows.
 
@@ -123,7 +123,7 @@ These Regulations may be cited as the Agriculture (Retained EU Law and Data) (Sc
 - (b) in paragraph 3, for “Community” substitute “retained EU law”,
 - (c) omit paragraph 6.
 
-### 3. Commission Regulation [(EC) No 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543)[^key-81b35e69a4b2402f9d3401f2da933bee]
+### 3. Commission Regulation [(EC) No 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543)[^c-81b35e69a4b2402f9d3401f2da933bee]
 
 (1) [Commission Regulation (EC) No 543/2008](https://www.legislation.gov.uk/european/regulation/2008/0543) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards the marketing standards for poultrymeat[^f00006] is amended as follows.
 
@@ -138,11 +138,11 @@ These Regulations may be cited as the Agriculture (Retained EU Law and Data) (Sc
 
 (5) In Article 20(4), for “Articles 17 and” substitute “Article”.
 
-### 4. Commission Regulation [(EC) 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617)[^key-73077c7f15f4fca1ca69f1b6341584cb]
+### 4. Commission Regulation [(EC) 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617)[^c-73077c7f15f4fca1ca69f1b6341584cb]
 
 In Article 3(5) (marking of eggs for hatching and their packaging) of Commission Regulation [(EC) 617/2008](https://www.legislation.gov.uk/european/regulation/2008/0617) laying down detailed rules for implementing Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) as regards marketing standards for eggs for hatching and farmyard poultry chicks[^f00008], for “and with” to the end substitute “, those provided for in Articles 78(1) and 89 of Regulation (EU) 1308/2013, its implementing regulations and regulations made under section 9 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020.”.
 
-### 5. Commission Regulation [(EC) 543/2011](https://www.legislation.gov.uk/european/regulation/2011/0543)[^key-aa4b804cdda3f7c11517790639055e57]
+### 5. Commission Regulation [(EC) 543/2011](https://www.legislation.gov.uk/european/regulation/2011/0543)[^c-aa4b804cdda3f7c11517790639055e57]
 
 (1) [Commission Regulation (EC) No 543/2011](https://www.legislation.gov.uk/european/regulation/2011/0543) laying down detailed rules for the application of Council Regulation [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234) in respect of the fruit and vegetables and processed fruit and vegetables sectors[^f00009] is amended as follows.
 
@@ -154,7 +154,7 @@ In Article 3(5) (marking of eggs for hatching and their packaging) of Commission
 
 (5) In Article 11(1) (conformity checks), for “and of” to the end substitute “, of Article 76 of Regulation [(EC) 1308/2018](https://www.legislation.gov.uk/european/regulation/2018/1308) and in regulations made under section 9 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020.”.
 
-### 6. Regulation (EU) No 1308/2013 of the European Parliament and of the Council[^key-e6241103df94bcea64dd37490137355f]
+### 6. Regulation (EU) No 1308/2013 of the European Parliament and of the Council[^c-e6241103df94bcea64dd37490137355f]
 
 (1) [Commission Regulation (EU) No 1308/2013](https://www.legislation.gov.uk/european/regulation/2013/1308) of the European Parliament and of the Council establishing a common organisation of the markets in agricultural products and repealing Council Regulations [(EEC) No 922/72](https://www.legislation.gov.uk/european/regulation/1972/0922), [(EEC) No 234/79](https://www.legislation.gov.uk/european/regulation/1979/0234), [(EC) No 1037/2001](https://www.legislation.gov.uk/european/regulation/2001/1037) and [(EC) No 1234/2007](https://www.legislation.gov.uk/european/regulation/2007/1234)[^f00010] is amended as follows.
 
@@ -222,14 +222,14 @@ In Article 3(5) (marking of eggs for hatching and their packaging) of Commission
   - (ii) in Section D, in paragraphs 1 and 4, for “under Article 75(2)” substitute “in Regulation (EU) 2019/934 or in regulations made under section 9 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020”,
 - (b) in Part 2 (restrictions), in Section D, in paragraph 5, for “prescribed under Article 75(2)” substitute “set out in Article 14 of Regulation (EU) 2019/934 and in regulations made under section 9 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020”.
 
-### 7. Regulation (EU) No 251/2014 of the European Parliament and of the Council[^key-800e79db3b9920f3be601d63067c9b84]
+### 7. Regulation (EU) No 251/2014 of the European Parliament and of the Council[^c-800e79db3b9920f3be601d63067c9b84]
 
 In Article 4(4) (production processes and methods of analysis for aromatised wine products) of Regulation (EU) No 251/2014 of the European Parliament and of the Council on the definition, description, presentation, labelling and the protection of geographical indications of aromatised wine products[^f00015]—
 
 - (a) For “in accordance with Articles 74, 75(4) and 80 of” substitute “in Annex VIII to”,
 - (b) after “Regulation (EU) No 1308/2013” insert “, Commission Delegated Regulation (EU) 2019/934 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards wine-growing areas where the alcoholic strength may be increased, authorised oenological practices and restrictions applicable to the production and conservation of grapevine products, the minimum percentage of alcohol for by-products and their disposal, and publication of OIV files, and regulations made under section 9 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020”.
 
-### 8. Commission Delegated Regulation (EU) 2018/273[^key-51871df8e8ecb1a6ee6e97f860341bde]
+### 8. Commission Delegated Regulation (EU) 2018/273[^c-51871df8e8ecb1a6ee6e97f860341bde]
 
 (1) Commission Delegated Regulation (EU) 2018/273 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the scheme of authorisations for vine plantings, the vineyard register, accompanying documents and certification, the inward and outward register, compulsory declarations, notifications and publication of notified information, and supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards the relevant checks and penalties, amending Commission Regulations [(EC) No 555/2008](https://www.legislation.gov.uk/european/regulation/2008/0555), [(EC) No 606/2009](https://www.legislation.gov.uk/european/regulation/2009/0606) and [(EC) No 606/2009](https://www.legislation.gov.uk/european/regulation/2009/0606) and repealing Commission Regulation[(EC) No 436/2009](https://www.legislation.gov.uk/european/regulation/2009/0436) and Commission Delegated Regulation (EU) 2015/560[^f00016] is amended as follows.
 
@@ -239,15 +239,15 @@ In Article 4(4) (production processes and methods of analysis for aromatised win
 
 (4) In Article 47 (penalties relating to accompanying documents and VI-1 documents for non-conformity with certain rules in retained EU law), after “Regulation (EU) No 1308/2013” insert “or with regulations made under section 9 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020”.
 
-### 9. Commission Implementing Regulation (EU) 2018/274[^key-76079275fce5efbd86c601b0902bd906]
+### 9. Commission Implementing Regulation (EU) 2018/274[^c-76079275fce5efbd86c601b0902bd906]
 
 (1) In Article 14(1)(a)(v) (products to be entered in the register) of Commission Implementing Regulation (EU) 2018/274 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards the scheme of authorisations for vine plantings, certification, the inward and outward register, compulsory declarations and notifications, and of Regulation (EU) No 1306/2013 of the European Parliament and of the Council as regards the relevant checks, and repealing Commission Implementing Regulation (EU) 2015/561[^f00017], after “Regulation (EU) No 1308/2013” insert “, regulations made under section 9 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020”.
 
-### 10. Commission Delegated Regulation (EU) 2019/33[^key-facc5c2c00da350b6f2ccaed44f1ca3b]
+### 10. Commission Delegated Regulation (EU) 2019/33[^c-facc5c2c00da350b6f2ccaed44f1ca3b]
 
 In Article 40(1) (presentation of compulsory particulars) of Commission Delegated Regulation (EU) 2019/33 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards applications for protection of designations of origin, geographical indications and traditional terms in the wine sector, the objection procedure, restrictions of use, amendments to product specifications, cancellation of protection, and labelling and presentation[^f00018], after “Regulation (EU) 1308/2013” insert “and in regulations made under section 9 of the Agriculture (Retained EU Law and Data) (Scotland) Act 2020”.
 
-### 11. Commission Delegated Regulation (EU) 2019/934[^key-8df60200eb795c1ad8d1f2205725dbc7]
+### 11. Commission Delegated Regulation (EU) 2019/934[^c-8df60200eb795c1ad8d1f2205725dbc7]
 
 (1) Commission Delegated Regulation (EU) 2019/934 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards wine-growing areas where the alcoholic strength may be increased, authorised oenological practices and restrictions applicable to the production and conservation of grapevine products, the minimum percentage of alcohol for by-products and their disposal, and publication of OIV files is amended as follows.
 
@@ -260,17 +260,17 @@ In Article 40(1) (presentation of compulsory particulars) of Commission Delegate
 
 (4) In Article 9(1) (the purity and identification specifications of substances used in oenological practices), for “Article 75(3)(f) of Regulation 1308/2013” substitute “this regulation”.
 
-### 12. Commission Implementing Regulation (EU) 2019/935[^key-a01305064b6422d8c3672b8cc4c5a483]
+### 12. Commission Implementing Regulation (EU) 2019/935[^c-a01305064b6422d8c3672b8cc4c5a483]
 
 In Article 2 (applicable analysis methods) of Commission Implementing Regulation (EU) 2019/935 laying down rules for the application of Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards analysis methods for determining the physical, chemical and organoleptic characteristics of grapevine products and notifications of Member States decisions concerning increases in natural alcoholic strength[^f00019], omit “referred to in point (d) of Article 75(5) of Regulation (EU) No 1308/2013”.
 
 ## PART 3 — Amendment of EU derived domestic legislation
 
-### 13. The Hops Certification Regulations 1979[^key-d62e0e4d0c68ef9d44b37e6a1be65825]
+### 13. The Hops Certification Regulations 1979[^c-d62e0e4d0c68ef9d44b37e6a1be65825]
 
 In regulation 3(1) (sale, etc. contrary to relevant provisions) of the Hops Certification Regulations 1979[^f00020] omit sub-paragraph (f).
 
-### 14. The Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002[^key-0d33c1837b4acb7398360788fb1a78f6]
+### 14. The Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002[^c-0d33c1837b4acb7398360788fb1a78f6]
 
 (1) The Genetically Modified Organisms (Deliberate Release) (Scotland) Regulations 2002[^f00021] are amended as follows.
 
@@ -279,11 +279,11 @@ In regulation 3(1) (sale, etc. contrary to relevant provisions) of the Hops Cert
 - (i) in sub-head (i), for “the United Kingdom” substitute “Great Britain”, and
 - (ii) in sub-head (ii), after “a member state of the EU” insert “or in Northern Ireland”.
 
-### 15. The Eggs and Chicks (Scotland) (No. 2) Regulations 2008[^key-95c495dc6f0185cc044b307e11ee48b9]
+### 15. The Eggs and Chicks (Scotland) (No. 2) Regulations 2008[^c-95c495dc6f0185cc044b307e11ee48b9]
 
 In the Eggs and Chicks (Scotland) (No. 2) Regulations 2008[^f00022], in Schedule 2 (retained EU provisions relating to eggs in shell for consumption contravention of which is an offence), in Part 1, in the table, omit the ninth and tenth rows (Articles 75(2) and (3) or Council Regulation 2013).
 
-### 16. The Aquatic Animal Health (Scotland) Regulations 2009[^key-97973a9e9e3fbd07af7cac199da55536]
+### 16. The Aquatic Animal Health (Scotland) Regulations 2009[^c-97973a9e9e3fbd07af7cac199da55536]
 
 (1) The Aquatic Animal Health (Scotland) Regulations 2009[^f00023] are amended as follows.
 
@@ -306,7 +306,7 @@ In the Eggs and Chicks (Scotland) (No. 2) Regulations 2008[^f00022], in Schedule
 
   .
 
-### 17. The Marketing of Horticultural Produce (Scotland) Regulations 2009[^key-5cb053c003dcb33cbd9ac1d1c3453cc9]
+### 17. The Marketing of Horticultural Produce (Scotland) Regulations 2009[^c-5cb053c003dcb33cbd9ac1d1c3453cc9]
 
 In regulation 2(1) (interpretation) of the Marketing of Horticultural Produce (Scotland) Regulations 2009[^f00026]—
 
@@ -351,29 +351,29 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00003]: Footnote: EUR 178/2002, as amended by [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641). [S.I. 2019/641](https://www.legislation.gov.uk/uksi/2019/641) was amended by [S.I. 2020/1504](https://www.legislation.gov.uk/uksi/2020/1504).
 
-[^key-a0b56cf6e06f6e8a90f3fe8a940da643]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-a0b56cf6e06f6e8a90f3fe8a940da643]: Commencement: [Reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
-[^key-40adb7d7ec867705a14acc78d162717e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/361/regulation/2) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-40adb7d7ec867705a14acc78d162717e]: Commencement: [Reg. 2](https://www.legislation.gov.uk/ssi/2022/361/regulation/2) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00004]: Footnote: EUR 2007/1234, repealed by EUR 2013/1308. The provisions of EUR 2007/1234 amended by regulation 2 continue to apply by virtue of Article 230(1)(c) of EUR 2013/1308, which was amended by [S.I. 2019/1422](https://www.legislation.gov.uk/uksi/2019/1422).
 
 [^f00005]: Footnote: EUR 2011/1169.
 
-[^key-81b35e69a4b2402f9d3401f2da933bee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/361/regulation/3) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-81b35e69a4b2402f9d3401f2da933bee]: Commencement: [Reg. 3](https://www.legislation.gov.uk/ssi/2022/361/regulation/3) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00006]: Footnote: EUR 2008/543, relevantly amended by [S.I. 2019/1422](https://www.legislation.gov.uk/uksi/2019/1422).
 
 [^f00007]: Footnote: [1985 c. 72](https://www.legislation.gov.uk/ukpga/1985/72), relevantly amended by [S.I. 1994/2867](https://www.legislation.gov.uk/uksi/1994/2867) and [S.I. 2009/3046](https://www.legislation.gov.uk/uksi/2009/3046).
 
-[^key-73077c7f15f4fca1ca69f1b6341584cb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/361/regulation/4) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-73077c7f15f4fca1ca69f1b6341584cb]: Commencement: [Reg. 4](https://www.legislation.gov.uk/ssi/2022/361/regulation/4) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00008]: Footnote: EUR 617/2008, relevantly amended by [S.I. 2019/1422](https://www.legislation.gov.uk/uksi/2019/1422).
 
-[^key-aa4b804cdda3f7c11517790639055e57]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/361/regulation/5) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-aa4b804cdda3f7c11517790639055e57]: Commencement: [Reg. 5](https://www.legislation.gov.uk/ssi/2022/361/regulation/5) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00009]: Footnote: EUR 2011/543, relevantly amended by [S.I. 2019/822](https://www.legislation.gov.uk/uksi/2019/822).
 
-[^key-e6241103df94bcea64dd37490137355f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/361/regulation/6) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-e6241103df94bcea64dd37490137355f]: Commencement: [Reg. 6](https://www.legislation.gov.uk/ssi/2022/361/regulation/6) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00010]: Footnote: EUR 2013/1308, relevantly amended by [S.I. 2019/821](https://www.legislation.gov.uk/uksi/2019/821), [S.I. 2019/831](https://www.legislation.gov.uk/uksi/2019/831) and [S.I. 2019/1422](https://www.legislation.gov.uk/uksi/2019/1422).
 
@@ -385,41 +385,41 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00014]: Footnote: EUR 2012/29, relevantly amended by [S.I. 2019/1422](https://www.legislation.gov.uk/uksi/2019/1422).
 
-[^key-800e79db3b9920f3be601d63067c9b84]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/361/regulation/7) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-800e79db3b9920f3be601d63067c9b84]: Commencement: [Reg. 7](https://www.legislation.gov.uk/ssi/2022/361/regulation/7) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00015]: Footnote: EUR 2014/251.
 
-[^key-51871df8e8ecb1a6ee6e97f860341bde]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/361/regulation/8) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-51871df8e8ecb1a6ee6e97f860341bde]: Commencement: [Reg. 8](https://www.legislation.gov.uk/ssi/2022/361/regulation/8) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00016]: Footnote: EUR 2018/273, relevantly amended by [S.I. 2020/1637](https://www.legislation.gov.uk/uksi/2020/1637).
 
-[^key-76079275fce5efbd86c601b0902bd906]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/361/regulation/9) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-76079275fce5efbd86c601b0902bd906]: Commencement: [Reg. 9](https://www.legislation.gov.uk/ssi/2022/361/regulation/9) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00017]: Footnote: EUR 2018/274, relevantly amended by [S.I. 2020/1637](https://www.legislation.gov.uk/uksi/2020/1637).
 
-[^key-facc5c2c00da350b6f2ccaed44f1ca3b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2022/361/regulation/10) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-facc5c2c00da350b6f2ccaed44f1ca3b]: Commencement: [Reg. 10](https://www.legislation.gov.uk/ssi/2022/361/regulation/10) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00018]: Footnote: EUR 2019/33, relevantly amended by [S.I. 2020/1637](https://www.legislation.gov.uk/uksi/2020/1637).
 
-[^key-8df60200eb795c1ad8d1f2205725dbc7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2022/361/regulation/11) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-8df60200eb795c1ad8d1f2205725dbc7]: Commencement: [Reg. 11](https://www.legislation.gov.uk/ssi/2022/361/regulation/11) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
-[^key-a01305064b6422d8c3672b8cc4c5a483]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2022/361/regulation/12) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-a01305064b6422d8c3672b8cc4c5a483]: Commencement: [Reg. 12](https://www.legislation.gov.uk/ssi/2022/361/regulation/12) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00019]: Footnote: EUR 2019/935, relevantly amended by [S.I. 2020/1637](https://www.legislation.gov.uk/uksi/2020/1637).
 
-[^key-d62e0e4d0c68ef9d44b37e6a1be65825]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2022/361/regulation/13) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-d62e0e4d0c68ef9d44b37e6a1be65825]: Commencement: [Reg. 13](https://www.legislation.gov.uk/ssi/2022/361/regulation/13) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00020]: Footnote: [S.I. 1979/1095](https://www.legislation.gov.uk/uksi/1979/1095), relevantly amended by [S.I. 2020/1453](https://www.legislation.gov.uk/uksi/2020/1453).
 
-[^key-0d33c1837b4acb7398360788fb1a78f6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2022/361/regulation/14) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-0d33c1837b4acb7398360788fb1a78f6]: Commencement: [Reg. 14](https://www.legislation.gov.uk/ssi/2022/361/regulation/14) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00021]: Footnote: [S.S.I. 2002/541](https://www.legislation.gov.uk/ssi/2002/541), as amended by [S.S.I. 2004/439](https://www.legislation.gov.uk/ssi/2004/439), [S.I. 2005 2759](https://www.legislation.gov.uk/uksi/2005/2759), [S.I. 2011/1043](https://www.legislation.gov.uk/uksi/2011/1043), [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100), [S.S.I. 2019/57](https://www.legislation.gov.uk/ssi/2019/57) and [S.S.I. 2019/86](https://www.legislation.gov.uk/ssi/2019/86).
 
-[^key-95c495dc6f0185cc044b307e11ee48b9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2022/361/regulation/15) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-95c495dc6f0185cc044b307e11ee48b9]: Commencement: [Reg. 15](https://www.legislation.gov.uk/ssi/2022/361/regulation/15) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00022]: Footnote: [S.S.I. 2008/395](https://www.legislation.gov.uk/ssi/2008/395), relevantly amended by [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235) and [S.S.I. 2019/347](https://www.legislation.gov.uk/ssi/2019/347).
 
-[^key-97973a9e9e3fbd07af7cac199da55536]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2022/361/regulation/16) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-97973a9e9e3fbd07af7cac199da55536]: Commencement: [Reg. 16](https://www.legislation.gov.uk/ssi/2022/361/regulation/16) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00023]: Footnote: [S.S.I. 2009/85](https://www.legislation.gov.uk/ssi/2009/85), as amended by [S.S.I. 2011/259](https://www.legislation.gov.uk/ssi/2011/259), [S.S.I. 2011/427](https://www.legislation.gov.uk/ssi/2011/427), [S.S.I. 2015/100](https://www.legislation.gov.uk/ssi/2015/100), [S.S.I. 2019/412](https://www.legislation.gov.uk/ssi/2019/412), [S.S.I. 2020/393](https://www.legislation.gov.uk/ssi/2020/393), and [S.I. 2022/835](https://www.legislation.gov.uk/uksi/2022/835).
 
@@ -427,6 +427,6 @@ No business and regulatory impact assessment has been prepared for these Regulat
 
 [^f00025]: Footnote: Paragraph 1 of schedule 1E was inserted by [S.S.I. 2020/393](https://www.legislation.gov.uk/ssi/2020/393).
 
-[^key-5cb053c003dcb33cbd9ac1d1c3453cc9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2022/361/regulation/17) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
+[^c-5cb053c003dcb33cbd9ac1d1c3453cc9]: Commencement: [Reg. 17](https://www.legislation.gov.uk/ssi/2022/361/regulation/17) in force at 2.2.2023, see [reg. 1](https://www.legislation.gov.uk/ssi/2022/361/regulation/1)
 
 [^f00026]: Footnote: [S.S.I. 2009/225](https://www.legislation.gov.uk/ssi/2009/225), relevantly amended by [S.S.I. 2011/324](https://www.legislation.gov.uk/ssi/2011/324), [S.I. 2013/3235](https://www.legislation.gov.uk/uksi/2013/3235), [S.S.I. 2018/391](https://www.legislation.gov.uk/ssi/2018/391) and [S.I. 2019/169](https://www.legislation.gov.uk/uksi/2019/169).

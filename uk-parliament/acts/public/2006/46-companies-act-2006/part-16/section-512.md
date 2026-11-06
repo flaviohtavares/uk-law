@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 512. Notice to registrar of resolution removing auditor from office[^key-98676c24b53631a4a2e31df391cc1d94]
+## 512. Notice to registrar of resolution removing auditor from office[^c-98676c24b53631a4a2e31df391cc1d94]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-98676c24b53631a4a2e31df391cc1d94]: Textual amendment: S. 512 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/2); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4) [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))
+[^c-98676c24b53631a4a2e31df391cc1d94]: Textual amendment: S. 512 omitted (1.10.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(7)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/7), [Sch. 5 para. 2](https://www.legislation.gov.uk/ukpga/2015/20/schedule/5/paragraph/2); [S.I. 2015/1732](https://www.legislation.gov.uk/uksi/2015/1732), [art. 2(d)](https://www.legislation.gov.uk/uksi/2015/1732/article/2/d) (with [arts. 4](https://www.legislation.gov.uk/uksi/2015/1732/article/4) [6](https://www.legislation.gov.uk/uksi/2015/1732/article/6))

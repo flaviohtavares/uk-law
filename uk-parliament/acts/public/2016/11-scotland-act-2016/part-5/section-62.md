@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Offshore renewable energy installations[^key-20b4629fcdd63184d10c7a8b6af6dc55]
+## 62. Offshore renewable energy installations[^c-20b4629fcdd63184d10c7a8b6af6dc55]
 
 *Extent: E+W+S+N.I.*
 
@@ -143,4 +143,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20b4629fcdd63184d10c7a8b6af6dc55]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2016/11/section/62) in force at 1.4.2017 by [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))
+[^c-20b4629fcdd63184d10c7a8b6af6dc55]: Commencement: [S. 62](https://www.legislation.gov.uk/ukpga/2016/11/section/62) in force at 1.4.2017 by [S.I. 2017/300](https://www.legislation.gov.uk/uksi/2017/300), [reg. 3](https://www.legislation.gov.uk/uksi/2017/300/regulation/3) (with [regs. 4-6](https://www.legislation.gov.uk/uksi/2017/300/regulation/4))

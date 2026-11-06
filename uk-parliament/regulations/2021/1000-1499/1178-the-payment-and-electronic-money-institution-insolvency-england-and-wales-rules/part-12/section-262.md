@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 262. Notice etc to joint administrators[^key-84180c118788d4e150af728b6f7902d3]
+## 262. Notice etc to joint administrators[^c-84180c118788d4e150af728b6f7902d3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Where there are joint office-holders in a special administration, delivery of a 
 
 ## Annotations
 
-[^key-84180c118788d4e150af728b6f7902d3]: Commencement: Rule 262 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-84180c118788d4e150af728b6f7902d3]: Commencement: Rule 262 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

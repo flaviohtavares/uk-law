@@ -65,7 +65,7 @@ These Regulations may be cited as the Addition of Vitamins, Minerals and Other S
 - “**port health authority**” means —
   - (a) in relation to the London port health district, the Common Council of the City of London, and
   - (b) in relation to any port health district constituted by order under section 2(3) of the Public Health (Control of Disease) Act 1984 [^c18724201], a port health authority for that district constituted by order under section 2(4) of that Act;
-- “the[^key-769deef3f975efe9ddf133c5a72f2cbd] EC Regulation” means Regulation [(EC) No. 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods, as Annex I, II or III[^key-30ea98bd034e567423c5d73b643c4c22] to that Regulation may be amended from time to time;
+- “the[^c-769deef3f975efe9ddf133c5a72f2cbd] EC Regulation” means Regulation [(EC) No. 1925/2006](https://www.legislation.gov.uk/eur/2006/1925) of the European Parliament and of the Council on the addition of vitamins and minerals and of certain other substances to foods, as Annex I, II or III[^c-30ea98bd034e567423c5d73b643c4c22] to that Regulation may be amended from time to time;
 
 (2) Expressions used in these Regulations and in the EC Regulation have the same meaning in these Regulations as they do in that Regulation.
 
@@ -77,22 +77,22 @@ Each port health authority within its district and each food authority within it
 
 ## 4. Offences and penalties
 
-(1) [^key-e4e765e9b47ef8f6926c30479e72b36d]... Any person who contravenes or fails to comply with the provisions of the EC Regulation specified in paragraph (2) is guilty of an offence and liable —
+(1) [^c-e4e765e9b47ef8f6926c30479e72b36d]... Any person who contravenes or fails to comply with the provisions of the EC Regulation specified in paragraph (2) is guilty of an offence and liable —
 
 - (a) on conviction on indictment to a term of imprisonment not exceeding two years or to a fine or both;
 - (b) on summary conviction to a term of imprisonment not exceeding three months or to a fine not exceeding the statutory maximum or both.
 
 (2) The specified provisions referred to in paragraph (1) are —
 
-- (a) Article 3(1) (requirement that only vitamins or minerals listed in Annex I and in form listed in Annex II may be added to food) [^key-5fcb91475fe886c80da431dd042aa364]...;
+- (a) Article 3(1) (requirement that only vitamins or minerals listed in Annex I and in form listed in Annex II may be added to food) [^c-5fcb91475fe886c80da431dd042aa364]...;
 - (b) Article 4 (prohibition on addition of vitamins and minerals to certain foods);
 - (c) Article 5(2) (requirement to observe purity criteria);
-- (d) Article 6(6) (requirement for added vitamins and minerals to be in the food in at least a significant amount as defined); [^key-eff6c48d85bf13a2fec47ce1443987cf]...
-- (e)[^key-dc8f43c9bd9f82a9db951fb28ddfd599] Article 7(1), (2) and (3) (restrictions and conditions applying to labelling, presentation and advertising of foods to which vitamins or minerals have been added).
-- (f)[^key-405fcd15f812e1855e029ec872759096] Article 8(2)(a)(i) (prohibition of the addition of a substance listed in Annex III, Part A to foods or its use in the manufacture of foods); and
+- (d) Article 6(6) (requirement for added vitamins and minerals to be in the food in at least a significant amount as defined); [^c-eff6c48d85bf13a2fec47ce1443987cf]...
+- (e)[^c-dc8f43c9bd9f82a9db951fb28ddfd599] Article 7(1), (2) and (3) (restrictions and conditions applying to labelling, presentation and advertising of foods to which vitamins or minerals have been added).
+- (f)[^c-405fcd15f812e1855e029ec872759096] Article 8(2)(a)(i) (prohibition of the addition of a substance listed in Annex III, Part A to foods or its use in the manufacture of foods); and
 - (g) Article 8(2)(a)(ii) (prohibition of the addition of a substance listed in Annex III, Part B to foods or its use in the manufacture of foods unless that substance is added or used in accordance with the conditions specified in that Part).
 
-## 4A. Transitional provision in relation to food containing substance listed in Annex III, Part B[^key-dd8ce56eb5232f6e18740d9821e99121]
+## 4A. Transitional provision in relation to food containing substance listed in Annex III, Part B[^c-dd8ce56eb5232f6e18740d9821e99121]
 
 An offence is not committed under paragraph (1) of regulation 4 by virtue of paragraph (2)(g) of that regulation in respect of the addition of a substance to, or its use in the manufacture of, any food if—
 
@@ -166,18 +166,18 @@ Department of Health
 
 [^c18724201]: Marginal citation: [1984 c.22](https://www.legislation.gov.uk/ukpga/1984/22).
 
-[^key-769deef3f975efe9ddf133c5a72f2cbd]: Textual amendment: Words in reg. 2(1) substituted (1.10.2010) by [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2010 (S.I. 2010/1886)](https://www.legislation.gov.uk/uksi/2010/1886), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1886/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/1886/regulation/3)
+[^c-769deef3f975efe9ddf133c5a72f2cbd]: Textual amendment: Words in reg. 2(1) substituted (1.10.2010) by [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2010 (S.I. 2010/1886)](https://www.legislation.gov.uk/uksi/2010/1886), [regs. 1](https://www.legislation.gov.uk/uksi/2010/1886/regulation/1), [3](https://www.legislation.gov.uk/uksi/2010/1886/regulation/3)
 
-[^key-30ea98bd034e567423c5d73b643c4c22]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/2/1) substituted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2020 (S.I. 2020/256)](https://www.legislation.gov.uk/uksi/2020/256), [regs. 1](https://www.legislation.gov.uk/uksi/2020/256/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/256/regulation/2/2)
+[^c-30ea98bd034e567423c5d73b643c4c22]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/2/1) substituted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2020 (S.I. 2020/256)](https://www.legislation.gov.uk/uksi/2020/256), [regs. 1](https://www.legislation.gov.uk/uksi/2020/256/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2020/256/regulation/2/2)
 
-[^key-e4e765e9b47ef8f6926c30479e72b36d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/1) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2019/651/regulation/13/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e4e765e9b47ef8f6926c30479e72b36d]: Textual amendment: Words in [reg. 4(1)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/1) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [13(2)(a)](https://www.legislation.gov.uk/uksi/2019/651/regulation/13/2/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5fcb91475fe886c80da431dd042aa364]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/2/a) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2019/651/regulation/13/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5fcb91475fe886c80da431dd042aa364]: Textual amendment: Words in [reg. 4(2)(a)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/2/a) omitted (31.12.2020) by virtue of [The Nutrition (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/651)](https://www.legislation.gov.uk/uksi/2019/651), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/651/regulation/1/1), [13(2)(b)](https://www.legislation.gov.uk/uksi/2019/651/regulation/13/2/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-eff6c48d85bf13a2fec47ce1443987cf]: Textual amendment: Word in [reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/2/d) omitted (3.4.2020) by virtue of [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2020 (S.I. 2020/256)](https://www.legislation.gov.uk/uksi/2020/256), [regs. 1](https://www.legislation.gov.uk/uksi/2020/256/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/256/regulation/2/3/a)
+[^c-eff6c48d85bf13a2fec47ce1443987cf]: Textual amendment: Word in [reg. 4(2)(d)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/2/d) omitted (3.4.2020) by virtue of [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2020 (S.I. 2020/256)](https://www.legislation.gov.uk/uksi/2020/256), [regs. 1](https://www.legislation.gov.uk/uksi/2020/256/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2020/256/regulation/2/3/a)
 
-[^key-dc8f43c9bd9f82a9db951fb28ddfd599]: Textual amendment: Reg. 4(2)(e) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 46](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/46)
+[^c-dc8f43c9bd9f82a9db951fb28ddfd599]: Textual amendment: Reg. 4(2)(e) substituted (13.12.2014) by [The Food Information Regulations 2014 (S.I. 2014/1855)](https://www.legislation.gov.uk/uksi/2014/1855), [reg. 1(5)](https://www.legislation.gov.uk/uksi/2014/1855/regulation/1/5), [Sch. 7 para. 46](https://www.legislation.gov.uk/uksi/2014/1855/schedule/7/paragraph/46)
 
-[^key-405fcd15f812e1855e029ec872759096]: Textual amendment: [Reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/2/f)[(g)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/2/g) inserted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2020 (S.I. 2020/256)](https://www.legislation.gov.uk/uksi/2020/256), [regs. 1](https://www.legislation.gov.uk/uksi/2020/256/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/256/regulation/2/3/b)
+[^c-405fcd15f812e1855e029ec872759096]: Textual amendment: [Reg. 4(2)(f)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/2/f)[(g)](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4/2/g) inserted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2020 (S.I. 2020/256)](https://www.legislation.gov.uk/uksi/2020/256), [regs. 1](https://www.legislation.gov.uk/uksi/2020/256/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/256/regulation/2/3/b)
 
-[^key-dd8ce56eb5232f6e18740d9821e99121]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4A) inserted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2020 (S.I. 2020/256)](https://www.legislation.gov.uk/uksi/2020/256), [regs. 1](https://www.legislation.gov.uk/uksi/2020/256/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/256/regulation/2/4)
+[^c-dd8ce56eb5232f6e18740d9821e99121]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/2007/1631/regulation/4A) inserted (3.4.2020) by [The Addition of Vitamins, Minerals and Other Substances (England) (Amendment) Regulations 2020 (S.I. 2020/256)](https://www.legislation.gov.uk/uksi/2020/256), [regs. 1](https://www.legislation.gov.uk/uksi/2020/256/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2020/256/regulation/2/4)

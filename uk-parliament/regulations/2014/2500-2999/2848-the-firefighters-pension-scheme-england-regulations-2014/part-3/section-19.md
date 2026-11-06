@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Active membership[^key-c2bc20f497cf997ec178a2e1cc1c15c3]
+## 19. Active membership[^c-c2bc20f497cf997ec178a2e1cc1c15c3]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ A person (P) is an active member of this scheme if—
 
 ## Annotations
 
-[^key-c2bc20f497cf997ec178a2e1cc1c15c3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/2848/regulation/19) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)
+[^c-c2bc20f497cf997ec178a2e1cc1c15c3]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2014/2848/regulation/19) in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/2848/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 27A. First registration – where land is or was listed as land of community value[^key-fc141e7d56b26dc7700d914e94e0d2ce]
+## 27A. First registration – where land is or was listed as land of community value[^c-fc141e7d56b26dc7700d914e94e0d2ce]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fc141e7d56b26dc7700d914e94e0d2ce]: Textual amendment: [Rule 27A](https://www.legislation.gov.uk/uksi/2003/1417/rule/27A) inserted (E.) (21.9.2012) by [The Assets of Community Value (England) Regulations 2012 (S.I. 2012/2421)](https://www.legislation.gov.uk/uksi/2012/2421), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2012/2421/schedule/4/paragraph/2)
+[^c-fc141e7d56b26dc7700d914e94e0d2ce]: Textual amendment: [Rule 27A](https://www.legislation.gov.uk/uksi/2003/1417/rule/27A) inserted (E.) (21.9.2012) by [The Assets of Community Value (England) Regulations 2012 (S.I. 2012/2421)](https://www.legislation.gov.uk/uksi/2012/2421), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2012/2421/regulation/1/1), [Sch. 4 para. 2](https://www.legislation.gov.uk/uksi/2012/2421/schedule/4/paragraph/2)

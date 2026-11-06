@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 77. Duty to supply information to collecting authority[^key-cc04445c7f736278a608af19cf222edf]
+## 77. Duty to supply information to collecting authority[^c-cc04445c7f736278a608af19cf222edf]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc04445c7f736278a608af19cf222edf]: Commencement: Reg. 77 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)
+[^c-cc04445c7f736278a608af19cf222edf]: Commencement: Reg. 77 in force at 6.4.2010, see [reg. 1](https://www.legislation.gov.uk/uksi/2010/948/regulation/1)

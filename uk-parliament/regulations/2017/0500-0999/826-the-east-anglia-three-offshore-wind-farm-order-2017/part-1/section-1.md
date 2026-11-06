@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 1. Citation and commencement[^key-ef3710c602203bf27572df3fb8568644]
+## 1. Citation and commencement[^c-ef3710c602203bf27572df3fb8568644]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ This Order may be cited as the East Anglia THREE Offshore Wind Farm Order 2017 a
 
 ## Annotations
 
-[^key-ef3710c602203bf27572df3fb8568644]: Commencement: Art. 1 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)
+[^c-ef3710c602203bf27572df3fb8568644]: Commencement: Art. 1 in force at 29.8.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/826/article/1)

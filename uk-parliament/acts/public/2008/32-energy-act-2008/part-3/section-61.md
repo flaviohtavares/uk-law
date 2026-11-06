@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Restriction on prosecutions under this Chapter[^key-8bb6a104df88cfccb1960e14ea60713d]
+## 61. Restriction on prosecutions under this Chapter[^c-8bb6a104df88cfccb1960e14ea60713d]
 
 *Extent: E+W+N.I.*
 
@@ -27,4 +27,4 @@ No proceedings for an offence under this Chapter (including an offence created b
 
 ## Annotations
 
-[^key-8bb6a104df88cfccb1960e14ea60713d]: Commencement: S. 61 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)
+[^c-8bb6a104df88cfccb1960e14ea60713d]: Commencement: S. 61 in force at 6.4.2009 by [S.I. 2009/45](https://www.legislation.gov.uk/uksi/2009/45), [art. 4(b)(i)](https://www.legislation.gov.uk/uksi/2009/45/article/4/b/i)

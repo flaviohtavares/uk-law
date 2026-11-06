@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 32. Remuneration and expenses of agents, nominees and custodians.[^key-e4b0305751bda57832c8f7bdb0344b81][^key-d82c8c840073e16b9481d5a6f66aed9f][^key-a1797c92d006ee33e6a212ca03079423]
+## 32. Remuneration and expenses of agents, nominees and custodians.[^c-e4b0305751bda57832c8f7bdb0344b81][^c-d82c8c840073e16b9481d5a6f66aed9f][^c-a1797c92d006ee33e6a212ca03079423]
 
 *Extent: E+W*
 
@@ -34,8 +34,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e4b0305751bda57832c8f7bdb0344b81]: Modification: S. 32 applied (with modifications) (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [33](https://www.legislation.gov.uk/uksi/2012/3012/regulation/33)
+[^c-e4b0305751bda57832c8f7bdb0344b81]: Modification: S. 32 applied (with modifications) (2.1.2013) by [The Charitable Incorporated Organisations (General) Regulations 2012 (S.I. 2012/3012)](https://www.legislation.gov.uk/uksi/2012/3012), [regs. 1](https://www.legislation.gov.uk/uksi/2012/3012/regulation/1), [33](https://www.legislation.gov.uk/uksi/2012/3012/regulation/33)
 
-[^key-d82c8c840073e16b9481d5a6f66aed9f]: Modification: S. 32 applied (with modifications) by 1956 c. lxvii s. 5(1B)-(1D) (as substituted (10.3.2015) by [The Charities (People's Dispensary for Sick Animals) Order 2015 (S.I. 2015/198)](https://www.legislation.gov.uk/uksi/2015/198), [art. 1](https://www.legislation.gov.uk/uksi/2015/198/article/1), [Sch. Scheme para. 4](https://www.legislation.gov.uk/uksi/2015/198/schedule/Scheme/paragraph/4))
+[^c-d82c8c840073e16b9481d5a6f66aed9f]: Modification: S. 32 applied (with modifications) by 1956 c. lxvii s. 5(1B)-(1D) (as substituted (10.3.2015) by [The Charities (People's Dispensary for Sick Animals) Order 2015 (S.I. 2015/198)](https://www.legislation.gov.uk/uksi/2015/198), [art. 1](https://www.legislation.gov.uk/uksi/2015/198/article/1), [Sch. Scheme para. 4](https://www.legislation.gov.uk/uksi/2015/198/schedule/Scheme/paragraph/4))
 
-[^key-a1797c92d006ee33e6a212ca03079423]: Modification: S. 32 applied (with modifications) by 1961 c. xxxviii, s. 9(2)(3)(b)(4) (as substituted (1.9.2017) by [The Charities (Shakespeare Birthplace Trust) Order 2017 (S.I. 2017/783)](https://www.legislation.gov.uk/uksi/2017/783), [art. 1](https://www.legislation.gov.uk/uksi/2017/783/article/1), [Sch. Scheme para. 5](https://www.legislation.gov.uk/uksi/2017/783/schedule/Scheme/paragraph/5))
+[^c-a1797c92d006ee33e6a212ca03079423]: Modification: S. 32 applied (with modifications) by 1961 c. xxxviii, s. 9(2)(3)(b)(4) (as substituted (1.9.2017) by [The Charities (Shakespeare Birthplace Trust) Order 2017 (S.I. 2017/783)](https://www.legislation.gov.uk/uksi/2017/783), [art. 1](https://www.legislation.gov.uk/uksi/2017/783/article/1), [Sch. Scheme para. 5](https://www.legislation.gov.uk/uksi/2017/783/schedule/Scheme/paragraph/5))

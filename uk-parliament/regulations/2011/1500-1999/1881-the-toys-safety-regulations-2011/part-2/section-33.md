@@ -27,7 +27,7 @@ summary: ''
 (3) A distributor must not make a toy available on the market unless the distributor has—
 
 - (a) verified that the manufacturer has done all of the following things in relation to the toy—
-  - (i) affixed the UK[^key-655252c1607a440ac45973135626c911] marking in accordance with regulation 18;
+  - (i) affixed the UK[^c-655252c1607a440ac45973135626c911] marking in accordance with regulation 18;
   - (ii) complied with regulation 19 (information identifying toy and manufacturer); and
   - (iii) complied with regulation 20 (instructions for use, safety information and warnings);
 - (b) verified that any importer has complied with regulation 27 (information identifying importer) in relation to the toy; and
@@ -54,4 +54,4 @@ summary: ''
 
 [^M_E_4b72f11b-f7f4-41d9-e6b7-c58efd5ecb74]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-655252c1607a440ac45973135626c911]: Textual amendment: Word in [reg. 33(3)(a)(i)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/33/3/a/i) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 25](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/25) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-655252c1607a440ac45973135626c911]: Textual amendment: Word in [reg. 33(3)(a)(i)](https://www.legislation.gov.uk/uksi/2011/1881/regulation/33/3/a/i) substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 15 para. 25](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/25) (with [Sch. 15 para. 3](https://www.legislation.gov.uk/uksi/2019/696/schedule/15/paragraph/3)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

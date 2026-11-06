@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Functions of the Chief Inspector[^key-77f5daa90780008792510cf8a72af8eb]
+## 118. Functions of the Chief Inspector[^c-77f5daa90780008792510cf8a72af8eb]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ is to have effect, with any necessary modifications, so as to enable him to cond
 
 ## Annotations
 
-[^key-77f5daa90780008792510cf8a72af8eb]: Commencement: S. 118 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)
+[^c-77f5daa90780008792510cf8a72af8eb]: Commencement: S. 118 in force at 1.4.2007 by [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(u)](https://www.legislation.gov.uk/uksi/2007/935/article/5/u)

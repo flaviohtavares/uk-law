@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+N.I.*
 
-(1)[^key-67d0745b7816c343eaedc4eacaf436cf] This section applies in relation to a person who commits acts outside the United Kingdom at a time when he is not a United Kingdom national, a United Kingdom resident or a person subject to UK service jurisdiction and who subsequently becomes resident in the United Kingdom.
+(1)[^c-67d0745b7816c343eaedc4eacaf436cf] This section applies in relation to a person who commits acts outside the United Kingdom at a time when he is not a United Kingdom national, a United Kingdom resident or a person subject to UK service jurisdiction and who subsequently becomes resident in the United Kingdom.
 
 (2) Proceedings may be brought against such a person in England and Wales or Northern Ireland for a substantive offence under this Part if—
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67d0745b7816c343eaedc4eacaf436cf]: Modification: S. 68(1) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 48(2)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/48/2)
+[^c-67d0745b7816c343eaedc4eacaf436cf]: Modification: S. 68(1) modified (24.4.2009 for specified purposes, 31.10.2009 in so far as not already in force) by [The Armed Forces Act 2006 (Transitional Provisions etc) Order 2009 (S.I. 2009/1059)](https://www.legislation.gov.uk/uksi/2009/1059), [art. 1(3)](https://www.legislation.gov.uk/uksi/2009/1059/article/1/3), [Sch. 1 para. 48(2)](https://www.legislation.gov.uk/uksi/2009/1059/schedule/1/paragraph/48/2)

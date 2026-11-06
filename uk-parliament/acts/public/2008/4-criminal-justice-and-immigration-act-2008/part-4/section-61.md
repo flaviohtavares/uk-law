@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Compensation for miscarriages of justice[^key-c81b67333a039b280a130b8035c1d00e]
+## 61. Compensation for miscarriages of justice[^c-c81b67333a039b280a130b8035c1d00e]
 
 *Extent: E+W+N.I.*
 
@@ -138,4 +138,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c81b67333a039b280a130b8035c1d00e]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2008/4/section/61) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/a)
+[^c-c81b67333a039b280a130b8035c1d00e]: Commencement: [S. 61](https://www.legislation.gov.uk/ukpga/2008/4/section/61) in force at 1.12.2008 by [S.I. 2008/2993](https://www.legislation.gov.uk/uksi/2008/2993), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2008/2993/article/2/1/a)

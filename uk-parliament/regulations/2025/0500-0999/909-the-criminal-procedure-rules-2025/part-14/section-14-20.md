@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.20. Application to withhold information from the defendant[^key-f3a5afcfd7021247a38cf258812ccfc0]
+## 14.20. Application to withhold information from the defendant[^c-f3a5afcfd7021247a38cf258812ccfc0]
 
 *Extent: E+W*
 
@@ -45,6 +45,6 @@ summary: ''
 
 ## Annotations
 
-[^key-f3a5afcfd7021247a38cf258812ccfc0]: Commencement: [Rule 14.20](https://www.legislation.gov.uk/uksi/2025/909/rule/14.20) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-f3a5afcfd7021247a38cf258812ccfc0]: Commencement: [Rule 14.20](https://www.legislation.gov.uk/uksi/2025/909/rule/14.20) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
 
 [^f00386]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); sections 47ZH and 47ZI were inserted by section 63 of the Policing and Crime Act [2017 (c. 3)](https://www.legislation.gov.uk/ukpga/2017/3).

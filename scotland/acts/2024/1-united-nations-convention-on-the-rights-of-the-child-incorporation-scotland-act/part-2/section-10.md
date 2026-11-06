@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 10. Restriction on proceedings in respect of judicial acts[^key-5e0123e243205dc14739a8c769745b07]
+## 10. Restriction on proceedings in respect of judicial acts[^c-5e0123e243205dc14739a8c769745b07]
 
 *Extent: S*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5e0123e243205dc14739a8c769745b07]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/1/section/10) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)
+[^c-5e0123e243205dc14739a8c769745b07]: Commencement: [S. 10](https://www.legislation.gov.uk/asp/2024/1/section/10) in force at 16.7.2024, see [s. 47(2)(a)](https://www.legislation.gov.uk/asp/2024/1/section/47/2/a)

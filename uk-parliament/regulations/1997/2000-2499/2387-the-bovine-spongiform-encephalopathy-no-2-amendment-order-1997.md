@@ -30,34 +30,34 @@ ANIMALS
 
 ANIMAL HEALTH
 
-The Bovine Spongiform Encephalopathy (No. 2) (Amendment) Order 1997 *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
+The Bovine Spongiform Encephalopathy (No. 2) (Amendment) Order 1997 *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-Made *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
+Made *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-2nd October 1997 *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
+2nd October 1997 *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-Coming into force *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
+Coming into force *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-24th October 1997 *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
+24th October 1997 *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales, acting jointly, in exercise of the powers conferred on them by sections 1, 32(2) and 83(2) of the Animal Health Act 1981 *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d][^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:— *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
+The Minister of Agriculture, Fisheries and Food, the Secretary of State for Scotland and the Secretary of State for Wales, acting jointly, in exercise of the powers conferred on them by sections 1, 32(2) and 83(2) of the Animal Health Act 1981 *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d][^f00001] and of all other powers enabling them in that behalf, hereby make the following Order:— *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-## 1 (Extent: S) (affected by repeal, see note). Title and commencement (Extent: S) (affected by repeal, see note)[^key-117dc95ec8d2e041f0ab642c42ca297a][^key-e33ce6b0bd716af1da3a547c2d51257d][^key-e33ce6b0bd716af1da3a547c2d51257d]
+## 1 (Extent: S) (affected by repeal, see note). Title and commencement (Extent: S) (affected by repeal, see note)[^c-117dc95ec8d2e041f0ab642c42ca297a][^c-e33ce6b0bd716af1da3a547c2d51257d][^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-This Order may be cited as the Bovine Spongiform Encephalopathy ( *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]No. *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d] 2) (Amendment) Order 1997 and shall come into force on 24th October 1997. *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
+This Order may be cited as the Bovine Spongiform Encephalopathy ( *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]No. *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d] 2) (Amendment) Order 1997 and shall come into force on 24th October 1997. *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-## 2 (Extent: S) (affected by repeal, see note). Amendment of the Bovine Spongiform Encephalopathy ( (Extent: S) (affected by repeal, see note)No. (Extent: S) (affected by repeal, see note) 2) Order 1996 (Extent: S) (affected by repeal, see note)[^key-27f4ed333881a12f247af5a0f86e3257][^key-e33ce6b0bd716af1da3a547c2d51257d][^key-e33ce6b0bd716af1da3a547c2d51257d][^key-e33ce6b0bd716af1da3a547c2d51257d][^key-e33ce6b0bd716af1da3a547c2d51257d]
+## 2 (Extent: S) (affected by repeal, see note). Amendment of the Bovine Spongiform Encephalopathy ( (Extent: S) (affected by repeal, see note)No. (Extent: S) (affected by repeal, see note) 2) Order 1996 (Extent: S) (affected by repeal, see note)[^c-27f4ed333881a12f247af5a0f86e3257][^c-e33ce6b0bd716af1da3a547c2d51257d][^c-e33ce6b0bd716af1da3a547c2d51257d][^c-e33ce6b0bd716af1da3a547c2d51257d][^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-(1 (Extent: S) (affected by repeal, see note))[^key-e33ce6b0bd716af1da3a547c2d51257d] The Bovine Spongiform Encephalopathy ( *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]No. *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d] 2) Order 1996 *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d][^f00002] shall be amended in accordance with the following provisions of this article. *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
+(1 (Extent: S) (affected by repeal, see note))[^c-e33ce6b0bd716af1da3a547c2d51257d] The Bovine Spongiform Encephalopathy ( *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]No. *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d] 2) Order 1996 *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d][^f00002] shall be amended in accordance with the following provisions of this article. *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-(2 (Extent: S) (affected by repeal, see note))[^key-e33ce6b0bd716af1da3a547c2d51257d] In article 10(3)(a), for the words “a veterinary inspector” there shall be substituted the words “an inspector of the Minister or a veterinary inspector”. *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
+(2 (Extent: S) (affected by repeal, see note))[^c-e33ce6b0bd716af1da3a547c2d51257d] In article 10(3)(a), for the words “a veterinary inspector” there shall be substituted the words “an inspector of the Minister or a veterinary inspector”. *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-(3 (Extent: S) (affected by repeal, see note))[^key-e33ce6b0bd716af1da3a547c2d51257d] In Form F in the Schedule to the Order for the words “a veterinary inspector” there shall be substituted the words “a veterinary inspector/inspector”. *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
+(3 (Extent: S) (affected by repeal, see note))[^c-e33ce6b0bd716af1da3a547c2d51257d] In Form F in the Schedule to the Order for the words “a veterinary inspector” there shall be substituted the words “a veterinary inspector/inspector”. *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-(4 (Extent: S) (affected by repeal, see note))[^key-e33ce6b0bd716af1da3a547c2d51257d] In Form G in the Schedule to the Order:— *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
+(4 (Extent: S) (affected by repeal, see note))[^c-e33ce6b0bd716af1da3a547c2d51257d] In Form G in the Schedule to the Order:— *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
 
-- (a (Extent: S) (affected by repeal, see note))[^key-e33ce6b0bd716af1da3a547c2d51257d] for the words “a veterinary inspector” there shall be substituted the words “a veterinary inspector/inspector”; and *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
-- (b (Extent: S) (affected by repeal, see note))[^key-e33ce6b0bd716af1da3a547c2d51257d] for the words “Form E” there shall be substituted the words “Form F”. *(Extent: S)* *(affected by repeal, see note)*[^key-e33ce6b0bd716af1da3a547c2d51257d]
+- (a (Extent: S) (affected by repeal, see note))[^c-e33ce6b0bd716af1da3a547c2d51257d] for the words “a veterinary inspector” there shall be substituted the words “a veterinary inspector/inspector”; and *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
+- (b (Extent: S) (affected by repeal, see note))[^c-e33ce6b0bd716af1da3a547c2d51257d] for the words “Form E” there shall be substituted the words “Form F”. *(Extent: S)* *(affected by repeal, see note)*[^c-e33ce6b0bd716af1da3a547c2d51257d]
 
 Jeff Rooker
 
@@ -87,12 +87,12 @@ In continuing to make provision for the slaughter of animals exposed to the infe
 
 ## Annotations
 
-[^key-e33ce6b0bd716af1da3a547c2d51257d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1997/2387) revoked (S.) (19.6.2002) by [The TSE (Scotland) Regulations 2002 (S.S.I. 2002/255)](https://www.legislation.gov.uk/ssi/2002/255), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/255/regulation/1/1), [sch. 9 Pt. I](https://www.legislation.gov.uk/ssi/2002/255/schedule/9/part/I) (with [reg. 2](https://www.legislation.gov.uk/ssi/2002/255/regulation/2))
+[^c-e33ce6b0bd716af1da3a547c2d51257d]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/1997/2387) revoked (S.) (19.6.2002) by [The TSE (Scotland) Regulations 2002 (S.S.I. 2002/255)](https://www.legislation.gov.uk/ssi/2002/255), [reg. 1(1)](https://www.legislation.gov.uk/ssi/2002/255/regulation/1/1), [sch. 9 Pt. I](https://www.legislation.gov.uk/ssi/2002/255/schedule/9/part/I) (with [reg. 2](https://www.legislation.gov.uk/ssi/2002/255/regulation/2))
 
 [^f00001]: Footnote: [1981 c. 22](https://www.legislation.gov.uk/ukpga/1981/22); see section 86(1) for definitions of “the Minister” and “the Ministers”; sections 1, 7(1), 8(1), 72, 83(2), 86(1), 87(2) and (5) and 88(2) were applied to bovine spongiform encephalopathy by the Zoonoses Order 1988 (S.I. [1988/2264](https://www.legislation.gov.uk/uksi/1988/2264)).
 
-[^key-117dc95ec8d2e041f0ab642c42ca297a]: Commencement: Art. 1 in force at 24.10.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/2387/article/1)
+[^c-117dc95ec8d2e041f0ab642c42ca297a]: Commencement: Art. 1 in force at 24.10.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/2387/article/1)
 
-[^key-27f4ed333881a12f247af5a0f86e3257]: Commencement: Art. 2 in force at 24.10.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/2387/article/1)
+[^c-27f4ed333881a12f247af5a0f86e3257]: Commencement: Art. 2 in force at 24.10.1997, see [art. 1](https://www.legislation.gov.uk/uksi/1997/2387/article/1)
 
 [^f00002]: Footnote: S.I. [1996/3183](https://www.legislation.gov.uk/uksi/1996/3183).

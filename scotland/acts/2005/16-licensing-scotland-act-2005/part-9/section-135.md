@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 135. Power to relieve failure to comply with rules and other requirements[^key-dd9ef07cba588bb0ecb3195d9d5dfc2d]
+## 135. Power to relieve failure to comply with rules and other requirements[^c-dd9ef07cba588bb0ecb3195d9d5dfc2d]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-dd9ef07cba588bb0ecb3195d9d5dfc2d]: Commencement: S. 135 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)
+[^c-dd9ef07cba588bb0ecb3195d9d5dfc2d]: Commencement: S. 135 in force at 1.2.2008 by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 2](https://www.legislation.gov.uk/ssi/2007/472/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2007/472/schedule/1)

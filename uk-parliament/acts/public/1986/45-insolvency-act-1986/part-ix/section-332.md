@@ -25,7 +25,7 @@ summary: ''
 - (a) there is comprised in the bankrupt’s estate property consisting of an interest in a dwelling house which is occupied by the bankrupt or by his spouse or former spouse or by his civil partner or former civil partner[^c18978891], and
 - (b) the trustee has been unable for any reason to realise that property.
 
-(2) The trustee shall not give notice under section 331(2)[^key-93e7e2038b000f65e58a1eeb73969f84] unless either—
+(2) The trustee shall not give notice under section 331(2)[^c-93e7e2038b000f65e58a1eeb73969f84] unless either—
 
 - (a) the court has made an order under section 313 imposing a charge on that property for the benefit of the bankrupt’s estate, or
 - (b) the court has declined, on an application under that section, to make such an order, or
@@ -37,4 +37,4 @@ summary: ''
 
 [^c18978891]: Textual amendment: Words in s. 332(1) inserted (5.12.2005) by [Civil Partnership Act 2004 (c. 33)](https://www.legislation.gov.uk/ukpga/2004/33), [ss. 261(1)](https://www.legislation.gov.uk/ukpga/2004/33/section/261/1), [263](https://www.legislation.gov.uk/ukpga/2004/33/section/263), [Sch. 27 para. 117](https://www.legislation.gov.uk/ukpga/2004/33/schedule/27/paragraph/117); [S.I. 2005/3175](https://www.legislation.gov.uk/uksi/2005/3175), [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/2) (subject to [art. 2(3)-(5)](https://www.legislation.gov.uk/uksi/2005/3175/article/2/3))
 
-[^key-93e7e2038b000f65e58a1eeb73969f84]: Textual amendment: Word in s. 332(2) substituted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 9 para. 84](https://www.legislation.gov.uk/ukpga/2015/26/schedule/9/paragraph/84); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), reg. 4(e) (with reg. 5) (as amended by S.I. 2017/363, reg. 3)
+[^c-93e7e2038b000f65e58a1eeb73969f84]: Textual amendment: Word in s. 332(2) substituted (26.5.2015 for specified purposes, 6.4.2017 for E.W. in so far as not already in force) by [Small Business, Enterprise and Employment Act 2015 (c. 26)](https://www.legislation.gov.uk/ukpga/2015/26), [s. 164(1)](https://www.legislation.gov.uk/ukpga/2015/26/section/164/1), [Sch. 9 para. 84](https://www.legislation.gov.uk/ukpga/2015/26/schedule/9/paragraph/84); [S.I. 2015/1329](https://www.legislation.gov.uk/uksi/2015/1329), [reg. 3(d)](https://www.legislation.gov.uk/uksi/2015/1329/regulation/3/d); [S.I. 2016/1020](https://www.legislation.gov.uk/uksi/2016/1020), reg. 4(e) (with reg. 5) (as amended by S.I. 2017/363, reg. 3)

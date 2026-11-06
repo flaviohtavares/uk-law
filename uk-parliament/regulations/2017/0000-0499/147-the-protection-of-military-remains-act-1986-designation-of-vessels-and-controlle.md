@@ -41,39 +41,39 @@ Coming into force
 
 3rd March 2017
 
-[^key-e5e8966d73d1f50ba86e9f40f8081eb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5e8966d73d1f50ba86e9f40f8081eb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-e5e8966d73d1f50ba86e9f40f8081eb2]
+## 1. Citation, commencement and interpretation[^c-e5e8966d73d1f50ba86e9f40f8081eb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Designated vessels[^key-e5e8966d73d1f50ba86e9f40f8081eb2]
+## 2. Designated vessels[^c-e5e8966d73d1f50ba86e9f40f8081eb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Designated controlled sites[^key-e5e8966d73d1f50ba86e9f40f8081eb2]
+## 3. Designated controlled sites[^c-e5e8966d73d1f50ba86e9f40f8081eb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation[^key-e5e8966d73d1f50ba86e9f40f8081eb2]
+## 4. Revocation[^c-e5e8966d73d1f50ba86e9f40f8081eb2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-e5e8966d73d1f50ba86e9f40f8081eb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5e8966d73d1f50ba86e9f40f8081eb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-[^key-e5e8966d73d1f50ba86e9f40f8081eb2]SCHEDULES
+[^c-e5e8966d73d1f50ba86e9f40f8081eb2]SCHEDULES
 
-## SCHEDULE 1 — Designated vessels[^key-e5e8966d73d1f50ba86e9f40f8081eb2]
+## SCHEDULE 1 — Designated vessels[^c-e5e8966d73d1f50ba86e9f40f8081eb2]
 
 Article 2
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — Designated controlled sites[^key-e5e8966d73d1f50ba86e9f40f8081eb2]
+## SCHEDULE 2 — Designated controlled sites[^c-e5e8966d73d1f50ba86e9f40f8081eb2]
 
 Article 3
 
@@ -81,8 +81,8 @@ Article 3
 
 **May not be in force at this date. Check the source.**
 
-[^key-e5e8966d73d1f50ba86e9f40f8081eb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-e5e8966d73d1f50ba86e9f40f8081eb2]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-e5e8966d73d1f50ba86e9f40f8081eb2]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/147) revoked (2.9.2019) by [The Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites) Order 2019 (S.I. 2019/1191)](https://www.legislation.gov.uk/uksi/2019/1191), [art. 4](https://www.legislation.gov.uk/uksi/2019/1191/article/4)
+[^c-e5e8966d73d1f50ba86e9f40f8081eb2]: Textual amendment: [Order](https://www.legislation.gov.uk/uksi/2017/147) revoked (2.9.2019) by [The Protection of Military Remains Act 1986 (Designation of Vessels and Controlled Sites) Order 2019 (S.I. 2019/1191)](https://www.legislation.gov.uk/uksi/2019/1191), [art. 4](https://www.legislation.gov.uk/uksi/2019/1191/article/4)

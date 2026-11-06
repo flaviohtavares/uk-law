@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 61D. Review of regulations 61 to 61B[^key-adfa5e095c4f48011b19159ff65d3793]
+## 61D. Review of regulations 61 to 61B[^c-adfa5e095c4f48011b19159ff65d3793]
 
 *Extent: E+W+S*
 
@@ -45,4 +45,4 @@ which are implemented by means of various provisions in these Regulations and by
 
 ## Annotations
 
-[^key-adfa5e095c4f48011b19159ff65d3793]: Textual amendment: [S. 61D](https://www.legislation.gov.uk/uksi/1986/1078/section/61D) inserted (14.1.2012) by [The Road Vehicles (Construction and Use) (Amendment No. 2) Regulations 2011 (S.I. 2011/3065)](https://www.legislation.gov.uk/uksi/2011/3065), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3065/regulation/1), [5](https://www.legislation.gov.uk/uksi/2011/3065/regulation/5)
+[^c-adfa5e095c4f48011b19159ff65d3793]: Textual amendment: [S. 61D](https://www.legislation.gov.uk/uksi/1986/1078/section/61D) inserted (14.1.2012) by [The Road Vehicles (Construction and Use) (Amendment No. 2) Regulations 2011 (S.I. 2011/3065)](https://www.legislation.gov.uk/uksi/2011/3065), [regs. 1](https://www.legislation.gov.uk/uksi/2011/3065/regulation/1), [5](https://www.legislation.gov.uk/uksi/2011/3065/regulation/5)

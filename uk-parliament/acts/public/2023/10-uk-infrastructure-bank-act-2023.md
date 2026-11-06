@@ -35,11 +35,11 @@ An Act to make provision about the UK Infrastructure Bank.
 
 Be it enacted by the King’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. The UK Infrastructure Bank[^key-b13d80c3589d0d68608cf70de5587bf9]
+## 1. The UK Infrastructure Bank[^c-b13d80c3589d0d68608cf70de5587bf9]
 
 For the purposes of this Act, the UK Infrastructure Bank (“**the Bank**”) is the company registered in England and Wales with the company registration number 06816271.
 
-## 2. Objectives and activities[^key-0e7f6253b69b76280846c6c95ac8cc77]
+## 2. Objectives and activities[^c-0e7f6253b69b76280846c6c95ac8cc77]
 
 (1) The Bank must secure that its articles of association contain a statement of its objects.
 
@@ -80,7 +80,7 @@ apart from provision that is merely incidental to, or consequential on, provisio
 
 (9) A statutory instrument containing regulations under subsection (7) may not be made unless a draft of the instrument has been laid before and approved by a resolution of each House of Parliament.
 
-## 3. Strategic priorities and plans[^key-d36b9af086b0a76cf8548c684bb1ee9a]
+## 3. Strategic priorities and plans[^c-d36b9af086b0a76cf8548c684bb1ee9a]
 
 (1) The Treasury must prepare a statement of strategic priorities for the Bank.
 
@@ -103,7 +103,7 @@ apart from provision that is merely incidental to, or consequential on, provisio
 - (a) to publish and act in accordance with strategic plans which reflect the Treasury’s statement, and
 - (b) to update those plans whenever the Treasury revises or replaces its statement.
 
-## 4. Directions[^key-603fc983048b02a929d4ab053c3b1f27]
+## 4. Directions[^c-603fc983048b02a929d4ab053c3b1f27]
 
 (1) The Treasury may give a specific or general direction to the Bank about how it is to deliver its objectives.
 
@@ -114,7 +114,7 @@ apart from provision that is merely incidental to, or consequential on, provisio
 - (a) consult the Bank’s directors before giving a direction, and
 - (b) publish a direction.
 
-## 5. Financial assistance[^key-a3c07f457af8d91f2dc37717b2b4c6db]
+## 5. Financial assistance[^c-a3c07f457af8d91f2dc37717b2b4c6db]
 
 (1) The Treasury may provide financial assistance to the Bank for the purpose of helping the Bank in the delivery of its objectives.
 
@@ -125,13 +125,13 @@ apart from provision that is merely incidental to, or consequential on, provisio
 - (a) the rate of interest on the loan, and
 - (b) other terms and conditions.
 
-## 6. Annual accounts and reports[^key-42fef3496aa36b3e25ca515342467432]
+## 6. Annual accounts and reports[^c-42fef3496aa36b3e25ca515342467432]
 
 (1) The Bank’s directors must, as soon as reasonably practicable after complying with section 441 of the Companies Act 2006 in relation to a financial year, deliver to the Treasury a copy of the accounts and reports which they are required to deliver to the registrar for that financial year in accordance with that section.
 
 (2) The Treasury must lay a copy of those accounts and reports before Parliament.
 
-## 7. Directors: appointment and tenure[^key-c4a21aecaeb5417dee0f175d37dbf9e0]
+## 7. Directors: appointment and tenure[^c-c4a21aecaeb5417dee0f175d37dbf9e0]
 
 The Bank must secure that its articles of association provide that—
 
@@ -146,14 +146,14 @@ The Bank must secure that its articles of association provide that—
   - (iii) a registered medical practitioner who is treating the person gives a written opinion to the Bank stating that the person has become physically or mentally incapable of acting as a director and is likely to remain so for more than three months, or
   - (iv) the person has resigned as non-executive director in accordance with notification which the person has given to the Bank.
 
-## 8. Duties of the Bank etc[^key-0eb687bc843b95c2ebcc7abf21c999f4]
+## 8. Duties of the Bank etc[^c-0eb687bc843b95c2ebcc7abf21c999f4]
 
 Any duty imposed on the Bank or its directors by or under this Act is enforceable on an application by the Treasury—
 
 - (a) by injunction, or
 - (b) in Scotland, by interdict or by an order for specific performance of a statutory duty under section 45(b) of the Court of Session Act 1988.
 
-## 9. Reviews of the Bank’s effectiveness and impact[^key-f729625a8884760b6c69ab1a4af6b88c]
+## 9. Reviews of the Bank’s effectiveness and impact[^c-f729625a8884760b6c69ab1a4af6b88c]
 
 (1) The Chancellor of the Exchequer must appoint an independent person to carry out reviews of—
 
@@ -179,7 +179,7 @@ Any duty imposed on the Bank or its directors by or under this Act is enforceabl
 - (a) the Treasury, and
 - (b) the Bank.
 
-## 10. Interpretation[^key-219b776e7e545b5dcc7496cf442c6f71]
+## 10. Interpretation[^c-219b776e7e545b5dcc7496cf442c6f71]
 
 In this Act—
 
@@ -196,7 +196,7 @@ In this Act—
 - “**objectives**”, in relation to the Bank, has the meaning given by section 2(3);
 - “**public authorities**” means local authorities, Northern Ireland departments and any other person exercising functions of a public nature.
 
-## 11. Extent, commencement and short title[^key-5db934111ae153d9ce007c37450f8226]
+## 11. Extent, commencement and short title[^c-5db934111ae153d9ce007c37450f8226]
 
 (1) This Act extends to England and Wales, Scotland and Northern Ireland.
 
@@ -206,24 +206,24 @@ In this Act—
 
 ## Annotations
 
-[^key-b13d80c3589d0d68608cf70de5587bf9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/10/section/1) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
+[^c-b13d80c3589d0d68608cf70de5587bf9]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2023/10/section/1) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
 
-[^key-0e7f6253b69b76280846c6c95ac8cc77]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/10/section/2) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
+[^c-0e7f6253b69b76280846c6c95ac8cc77]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2023/10/section/2) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
 
-[^key-d36b9af086b0a76cf8548c684bb1ee9a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/10/section/3) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
+[^c-d36b9af086b0a76cf8548c684bb1ee9a]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2023/10/section/3) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
 
-[^key-603fc983048b02a929d4ab053c3b1f27]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/10/section/4) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
+[^c-603fc983048b02a929d4ab053c3b1f27]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2023/10/section/4) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
 
-[^key-a3c07f457af8d91f2dc37717b2b4c6db]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/10/section/5) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
+[^c-a3c07f457af8d91f2dc37717b2b4c6db]: Commencement: [S. 5](https://www.legislation.gov.uk/ukpga/2023/10/section/5) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
 
-[^key-42fef3496aa36b3e25ca515342467432]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/10/section/6) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
+[^c-42fef3496aa36b3e25ca515342467432]: Commencement: [S. 6](https://www.legislation.gov.uk/ukpga/2023/10/section/6) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
 
-[^key-c4a21aecaeb5417dee0f175d37dbf9e0]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/10/section/7) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
+[^c-c4a21aecaeb5417dee0f175d37dbf9e0]: Commencement: [S. 7](https://www.legislation.gov.uk/ukpga/2023/10/section/7) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
 
-[^key-0eb687bc843b95c2ebcc7abf21c999f4]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/10/section/8) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
+[^c-0eb687bc843b95c2ebcc7abf21c999f4]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2023/10/section/8) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
 
-[^key-f729625a8884760b6c69ab1a4af6b88c]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/10/section/9) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
+[^c-f729625a8884760b6c69ab1a4af6b88c]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2023/10/section/9) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
 
-[^key-219b776e7e545b5dcc7496cf442c6f71]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/10/section/10) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
+[^c-219b776e7e545b5dcc7496cf442c6f71]: Commencement: [S. 10](https://www.legislation.gov.uk/ukpga/2023/10/section/10) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
 
-[^key-5db934111ae153d9ce007c37450f8226]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/10/section/11) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)
+[^c-5db934111ae153d9ce007c37450f8226]: Commencement: [S. 11](https://www.legislation.gov.uk/ukpga/2023/10/section/11) in force at 23.5.2023, see [s. 11(2)](https://www.legislation.gov.uk/ukpga/2023/10/section/11/2)

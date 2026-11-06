@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 6 — RELEVANT INSTITUTIONS OF HIGHER EDUCATION IN THE REPUBLIC OF IRELAND[^key-54e7810d41cb48b88932ffb4c2f5e956]
+## SCHEDULE 6 — RELEVANT INSTITUTIONS OF HIGHER EDUCATION IN THE REPUBLIC OF IRELAND[^c-54e7810d41cb48b88932ffb4c2f5e956]
 
 *Extent: N.I.*
 
 Regulation 2(1)
 
-[^key-54e7810d41cb48b88932ffb4c2f5e956]
+[^c-54e7810d41cb48b88932ffb4c2f5e956]
 
 - All Hallows College, Drumcondra
 - Church of Ireland College of Education, Dublin
@@ -69,4 +69,4 @@ Regulation 2(1)
 
 ## Annotations
 
-[^key-54e7810d41cb48b88932ffb4c2f5e956]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2006/312/schedule/6) in operation at 1.9.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/312/regulation/1)
+[^c-54e7810d41cb48b88932ffb4c2f5e956]: Commencement: [Sch. 6](https://www.legislation.gov.uk/nisr/2006/312/schedule/6) in operation at 1.9.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/312/regulation/1)

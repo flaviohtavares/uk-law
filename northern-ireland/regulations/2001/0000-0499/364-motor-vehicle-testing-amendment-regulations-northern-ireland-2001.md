@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-1a348b93a1afeb20dd88c6232ad9fc39]
+Motor Vehicle Testing (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-1a348b93a1afeb20dd88c6232ad9fc39]
 
 Made
 
@@ -41,44 +41,44 @@ Coming into operation
 
 1st December 2001
 
-[^key-1a348b93a1afeb20dd88c6232ad9fc39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a348b93a1afeb20dd88c6232ad9fc39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-1a348b93a1afeb20dd88c6232ad9fc39]
+## 1. Citation, commencement and interpretation[^c-1a348b93a1afeb20dd88c6232ad9fc39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of regulation 7 (manner of making application for examinations, and fees)[^key-1a348b93a1afeb20dd88c6232ad9fc39]
+## 2. Amendment of regulation 7 (manner of making application for examinations, and fees)[^c-1a348b93a1afeb20dd88c6232ad9fc39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Amendment of regulation 9 (notice of place and time of examinations)[^key-1a348b93a1afeb20dd88c6232ad9fc39]
+## 3. Amendment of regulation 9 (notice of place and time of examinations)[^c-1a348b93a1afeb20dd88c6232ad9fc39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. (Amendment of regulation 9A (requirements as to vehicles submitted for examinations)[^key-1a348b93a1afeb20dd88c6232ad9fc39]
+## 4. (Amendment of regulation 9A (requirements as to vehicles submitted for examinations)[^c-1a348b93a1afeb20dd88c6232ad9fc39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Amendment of regulation 10 (application for re-examinations)[^key-1a348b93a1afeb20dd88c6232ad9fc39]
+## 5. Amendment of regulation 10 (application for re-examinations)[^c-1a348b93a1afeb20dd88c6232ad9fc39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Amendment of regulation 13 (form of test certificates and notices of refusal)[^key-1a348b93a1afeb20dd88c6232ad9fc39]
+## 6. Amendment of regulation 13 (form of test certificates and notices of refusal)[^c-1a348b93a1afeb20dd88c6232ad9fc39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Amendment of regulation 20 (general provisions as to repayment of fees)[^key-1a348b93a1afeb20dd88c6232ad9fc39]
+## 7. Amendment of regulation 20 (general provisions as to repayment of fees)[^c-1a348b93a1afeb20dd88c6232ad9fc39]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-1a348b93a1afeb20dd88c6232ad9fc39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a348b93a1afeb20dd88c6232ad9fc39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-1a348b93a1afeb20dd88c6232ad9fc39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-1a348b93a1afeb20dd88c6232ad9fc39]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-1a348b93a1afeb20dd88c6232ad9fc39]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/364) revoked (1.8.2003) by [Motor Vehicle Testing Regulations (Northern Ireland) 2003 (S.R. 2003/303)](https://www.legislation.gov.uk/nisr/2003/303), [regs. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1), [24](https://www.legislation.gov.uk/nisr/2003/303/regulation/24), [Sch. 4](https://www.legislation.gov.uk/nisr/2003/303/schedule/4)
+[^c-1a348b93a1afeb20dd88c6232ad9fc39]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/364) revoked (1.8.2003) by [Motor Vehicle Testing Regulations (Northern Ireland) 2003 (S.R. 2003/303)](https://www.legislation.gov.uk/nisr/2003/303), [regs. 1](https://www.legislation.gov.uk/nisr/2003/303/regulation/1), [24](https://www.legislation.gov.uk/nisr/2003/303/regulation/24), [Sch. 4](https://www.legislation.gov.uk/nisr/2003/303/schedule/4)

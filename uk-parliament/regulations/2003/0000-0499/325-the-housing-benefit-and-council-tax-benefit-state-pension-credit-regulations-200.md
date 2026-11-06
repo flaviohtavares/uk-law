@@ -46,60 +46,60 @@ The Secretary of State, in exercise of the powers conferred upon him by the prov
 
 ## PART 1 — General
 
-### 1. Citation, commencement and interpretation[^key-518f78c0856b50bd4cc183af45d932c6]
+### 1. Citation, commencement and interpretation[^c-518f78c0856b50bd4cc183af45d932c6]
 
 (1) These Regulations may be cited as the Housing Benefit and Council Tax Benefit (State Pension Credit) Regulations 2003 and shall come into force—
 
 - (a) for the purposes of this regulation and regulation 30, on 6th April 2003;
 - (b) for all other purposes, on 6th October 2003.
 
-(2)[^key-63fa2596e0eb52d350e6181d9a163f28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-63fa2596e0eb52d350e6181d9a163f28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-63fa2596e0eb52d350e6181d9a163f28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-63fa2596e0eb52d350e6181d9a163f28] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 2 — Housing Benefit
 
-### 2. Housing Benefit Regulations[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-574017822f00d45b00d187c7b3a2cb27]
+### 2. Housing Benefit Regulations[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-574017822f00d45b00d187c7b3a2cb27]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Interpretation[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-c259f03ea79a7026ccd2571ff5dbcd1d]
+### 3. Interpretation[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-c259f03ea79a7026ccd2571ff5dbcd1d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3A. Modification of regulation 4[^M_I_384beec3-d327-4da6-f686-cfbdc8f94a71][^key-3f44d07c69fad2b9b34c018e1c8c5b83]
+### 3A. Modification of regulation 4[^M_I_384beec3-d327-4da6-f686-cfbdc8f94a71][^c-3f44d07c69fad2b9b34c018e1c8c5b83]
 
 ... . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Modification of regulation 5[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-a403fce326b2a34cb25704b901de960b]
+### 4. Modification of regulation 5[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-a403fce326b2a34cb25704b901de960b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Persons from abroad[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-298ac63ae9a0bb9380c77fc03a3386b5]
+### 5. Persons from abroad[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-298ac63ae9a0bb9380c77fc03a3386b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Applicable amounts[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-8e2b97e1870af9a23a7e684e7f46da46]
+### 6. Applicable amounts[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-8e2b97e1870af9a23a7e684e7f46da46]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Amendment of regulation 19[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-4dc3cce40653b6412c0195b062a5d31f]
+### 7. Amendment of regulation 19[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-4dc3cce40653b6412c0195b062a5d31f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 8. Income and capital[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-5db55c5a78be52d4fd0f3c0556873e53]
+### 8. Income and capital[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-5db55c5a78be52d4fd0f3c0556873e53]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9. Provisions which do not apply[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-24d9afa2fce4a03f72574d79f35237a1]
+### 9. Provisions which do not apply[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-24d9afa2fce4a03f72574d79f35237a1]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 10. Continuing payments where state pension credit claimed[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-8431af8c056ce634a4cec4357fb94968]
+### 10. Continuing payments where state pension credit claimed[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-8431af8c056ce634a4cec4357fb94968]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment of regulation 63[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-ffde01ddb6d473dd6c89c2c2ab970d53]
+### 11. Amendment of regulation 63[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-ffde01ddb6d473dd6c89c2c2ab970d53]
 
 **Not yet in force.**
 
@@ -107,96 +107,96 @@ The Secretary of State, in exercise of the powers conferred upon him by the prov
 
 ## PART 3 — Council Tax Benefit
 
-### 12. Council Tax Benefit Regulations[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-13b49eb720ecb475f706d6b50574870b]
+### 12. Council Tax Benefit Regulations[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-13b49eb720ecb475f706d6b50574870b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13. Interpretation[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-165f89dcfe5feaf073f433f727f1df87]
+### 13. Interpretation[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-165f89dcfe5feaf073f433f727f1df87]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 13A. Modification of regulation 4[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^M_I_51e3c73b-ee07-494f-c93b-9df2f749b6b4]
+### 13A. Modification of regulation 4[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^M_I_51e3c73b-ee07-494f-c93b-9df2f749b6b4]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 14. Persons from abroad[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-c78fe4f2121bae1a566feb140008dc3f]
+### 14. Persons from abroad[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-c78fe4f2121bae1a566feb140008dc3f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 15. Applicable amounts[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-9a966510eba5e1e3a362b52b1ea3ac90]
+### 15. Applicable amounts[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-9a966510eba5e1e3a362b52b1ea3ac90]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Amendment of regulation 11[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-7098a7a9e1274212e5d3dfae8b945201]
+### 16. Amendment of regulation 11[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-7098a7a9e1274212e5d3dfae8b945201]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 17. Income and capital[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-fee3b8e0104f3e807ac13f7527e97d0f]
+### 17. Income and capital[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-fee3b8e0104f3e807ac13f7527e97d0f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 18. Provisions which do not apply[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-01faf103699975aa73d823d664b7089c]
+### 18. Provisions which do not apply[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-01faf103699975aa73d823d664b7089c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 19. Amendment of regulation 52[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-169b09ee8639f8bc7540ed3abdb9c227]
+### 19. Amendment of regulation 52[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-169b09ee8639f8bc7540ed3abdb9c227]
 
 **Not yet in force.**
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 20. Continuing payments[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-3d908886b81f6f51e887544e7d1f50e7]
+### 20. Continuing payments[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-3d908886b81f6f51e887544e7d1f50e7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 4 — Schedules Common to Housing Benefit and Council Tax Benefit
 
-### 21. Application of Schedule 2[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-7fca9326cd5a317b7376c93b995f9785]
+### 21. Application of Schedule 2[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-7fca9326cd5a317b7376c93b995f9785]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## PART 5 — Consequential and Transitional Provisions
 
-### 22. Date on which change of circumstances takes effect[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-5e3c0c5d8966ade385d0f9c9d214708a]
+### 22. Date on which change of circumstances takes effect[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-5e3c0c5d8966ade385d0f9c9d214708a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Time claims are made or treated as made[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-332b803ef489e7b4e560c1094b11d88b]
+### 23. Time claims are made or treated as made[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-332b803ef489e7b4e560c1094b11d88b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 24. Notification of change of circumstances[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-e539ca3a2c8a260e8bc3eb345f5dc4e8]
+### 24. Notification of change of circumstances[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-e539ca3a2c8a260e8bc3eb345f5dc4e8]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 25. Decisions[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-a594ca9c77fbd667edce8d6ccaf80e4f]
+### 25. Decisions[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-a594ca9c77fbd667edce8d6ccaf80e4f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 26. Amendments relating to recovery of overpaid housing benefit or excess council tax benefit[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-91211038ac7ecbae953f97633f0659ce]
+### 26. Amendments relating to recovery of overpaid housing benefit or excess council tax benefit[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-91211038ac7ecbae953f97633f0659ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 27. Minor amendments[^key-3f44d07c69fad2b9b34c018e1c8c5b83][^key-c84c099147f2068227d6c5eaac221e9a]
+### 27. Minor amendments[^c-3f44d07c69fad2b9b34c018e1c8c5b83][^c-c84c099147f2068227d6c5eaac221e9a]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 28. Amendment of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^key-e0872c270d4d5270570299d5b410fadd]
+### 28. Amendment of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^c-e0872c270d4d5270570299d5b410fadd]
 
 In regulation 8 of the Housing Benefit and Council Tax Benefit (Decisions and Appeals) Regulations 2001[^f00156] (date from which a decision superseding an earlier decision takes effect)—
 
 - (a) in paragraph (2), for the words “in accordance with regulations 68 and 68A of the Housing Benefit Regulations or, as the case may be, regulations 59 and 59A of the Council Tax Benefit Regulations”, substitute “in accordance with regulations 68, 68A or 68B of the Housing Benefit Regulations or, as the case may be, regulations 59, 59A or 59B of the Council Tax Benefit Regulations”;
 - (b) in paragraph (3), after “68A”, insert “or 68B” and after “59A”, insert “or 59B”.
 
-### 29. Transitional provision[^key-2520c9056051542e097c0a7752b3e890][^key-8e21d53250f4a5a958ad4334be71a3bd]
+### 29. Transitional provision[^c-2520c9056051542e097c0a7752b3e890][^c-8e21d53250f4a5a958ad4334be71a3bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 30. Claims made before 6th October 2003[^key-17779719bcbb9fdf1618307b7511b7bf][^key-8e21d53250f4a5a958ad4334be71a3bd]
+### 30. Claims made before 6th October 2003[^c-17779719bcbb9fdf1618307b7511b7bf][^c-8e21d53250f4a5a958ad4334be71a3bd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 31. Existing claimants[^key-5896ea02ada968dbbaea67220c3241a5]
+### 31. Existing claimants[^c-5896ea02ada968dbbaea67220c3241a5]
 
 **Not yet in force.**
 
@@ -208,7 +208,7 @@ Parliamentary Under-Secretary of State,
 
 Department for Work and Pensions
 
-## SCHEDULE 1 — Provisions Conferring Powers Exercised in making these Regulations[^key-19abc8816874eeb415975cb42f5412e0]
+## SCHEDULE 1 — Provisions Conferring Powers Exercised in making these Regulations[^c-19abc8816874eeb415975cb42f5412e0]
 
 <table>
 <thead>
@@ -238,13 +238,13 @@ Department for Work and Pensions
 
 [^f00159][^f00160][^f00161][^f00162][^f00163][^f00164][^f00165][^f00166]
 
-## SCHEDULE 2 — Disregards[^key-5046494204b2101f2ca3bf8f5bcec93b]
+## SCHEDULE 2 — Disregards[^c-5046494204b2101f2ca3bf8f5bcec93b]
 
 Regulation 21
 
-**1.**[^key-181880778b1799b0ecd17431b4bf437b][^key-5046494204b2101f2ca3bf8f5bcec93b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-181880778b1799b0ecd17431b4bf437b][^c-5046494204b2101f2ca3bf8f5bcec93b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a49a85e218d958d4550a27218ac8a92c][^key-5046494204b2101f2ca3bf8f5bcec93b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a49a85e218d958d4550a27218ac8a92c][^c-5046494204b2101f2ca3bf8f5bcec93b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (This note is not part of the Regulations)
 
@@ -296,81 +296,81 @@ These Regulations do not impose a charge on business.
 
 [^f00003]: Footnote: *See* section 173(5)(b) of the Social Security Administration Act 1992.
 
-[^key-518f78c0856b50bd4cc183af45d932c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/325/regulation/1) in force at 6.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/a)
+[^c-518f78c0856b50bd4cc183af45d932c6]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2003/325/regulation/1) in force at 6.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/a)
 
-[^key-63fa2596e0eb52d350e6181d9a163f28]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-63fa2596e0eb52d350e6181d9a163f28]: Textual amendment: [Reg. 1(2)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/3) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-3f44d07c69fad2b9b34c018e1c8c5b83]: Textual amendment: [Regs. 2-27](https://www.legislation.gov.uk/uksi/2003/325/regulation/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-3f44d07c69fad2b9b34c018e1c8c5b83]: Textual amendment: [Regs. 2-27](https://www.legislation.gov.uk/uksi/2003/325/regulation/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-574017822f00d45b00d187c7b3a2cb27]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/325/regulation/2) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-574017822f00d45b00d187c7b3a2cb27]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2003/325/regulation/2) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-c259f03ea79a7026ccd2571ff5dbcd1d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/325/regulation/3) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-c259f03ea79a7026ccd2571ff5dbcd1d]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2003/325/regulation/3) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
 [^M_I_384beec3-d327-4da6-f686-cfbdc8f94a71]: Commencement: Reg. 3A in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-a403fce326b2a34cb25704b901de960b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/325/regulation/4) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-a403fce326b2a34cb25704b901de960b]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2003/325/regulation/4) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-298ac63ae9a0bb9380c77fc03a3386b5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/325/regulation/5) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-298ac63ae9a0bb9380c77fc03a3386b5]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2003/325/regulation/5) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-8e2b97e1870af9a23a7e684e7f46da46]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/325/regulation/6) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-8e2b97e1870af9a23a7e684e7f46da46]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2003/325/regulation/6) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-4dc3cce40653b6412c0195b062a5d31f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/325/regulation/7) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-4dc3cce40653b6412c0195b062a5d31f]: Commencement: [Reg. 7](https://www.legislation.gov.uk/uksi/2003/325/regulation/7) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-5db55c5a78be52d4fd0f3c0556873e53]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/325/regulation/8) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-5db55c5a78be52d4fd0f3c0556873e53]: Commencement: [Reg. 8](https://www.legislation.gov.uk/uksi/2003/325/regulation/8) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-24d9afa2fce4a03f72574d79f35237a1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/325/regulation/9) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-24d9afa2fce4a03f72574d79f35237a1]: Commencement: [Reg. 9](https://www.legislation.gov.uk/uksi/2003/325/regulation/9) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-8431af8c056ce634a4cec4357fb94968]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2003/325/regulation/10) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-8431af8c056ce634a4cec4357fb94968]: Commencement: [Reg. 10](https://www.legislation.gov.uk/uksi/2003/325/regulation/10) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-ffde01ddb6d473dd6c89c2c2ab970d53]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2003/325/regulation/11) omitted (5.10.2003) by virtue of [The Housing Benefit and Council Tax Benefit (State Pension Credit and Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2275)](https://www.legislation.gov.uk/uksi/2003/2275), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/2275/regulation/1/1/a), [2(6)](https://www.legislation.gov.uk/uksi/2003/2275/regulation/2/6)
+[^c-ffde01ddb6d473dd6c89c2c2ab970d53]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2003/325/regulation/11) omitted (5.10.2003) by virtue of [The Housing Benefit and Council Tax Benefit (State Pension Credit and Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2275)](https://www.legislation.gov.uk/uksi/2003/2275), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/2275/regulation/1/1/a), [2(6)](https://www.legislation.gov.uk/uksi/2003/2275/regulation/2/6)
 
-[^key-13b49eb720ecb475f706d6b50574870b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2003/325/regulation/12) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-13b49eb720ecb475f706d6b50574870b]: Commencement: [Reg. 12](https://www.legislation.gov.uk/uksi/2003/325/regulation/12) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-165f89dcfe5feaf073f433f727f1df87]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2003/325/regulation/13) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-165f89dcfe5feaf073f433f727f1df87]: Commencement: [Reg. 13](https://www.legislation.gov.uk/uksi/2003/325/regulation/13) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
 [^M_I_51e3c73b-ee07-494f-c93b-9df2f749b6b4]: Commencement: Reg. 13A in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-c78fe4f2121bae1a566feb140008dc3f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2003/325/regulation/14) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-c78fe4f2121bae1a566feb140008dc3f]: Commencement: [Reg. 14](https://www.legislation.gov.uk/uksi/2003/325/regulation/14) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-9a966510eba5e1e3a362b52b1ea3ac90]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2003/325/regulation/15) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-9a966510eba5e1e3a362b52b1ea3ac90]: Commencement: [Reg. 15](https://www.legislation.gov.uk/uksi/2003/325/regulation/15) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-7098a7a9e1274212e5d3dfae8b945201]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2003/325/regulation/16) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-7098a7a9e1274212e5d3dfae8b945201]: Commencement: [Reg. 16](https://www.legislation.gov.uk/uksi/2003/325/regulation/16) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-fee3b8e0104f3e807ac13f7527e97d0f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2003/325/regulation/17) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-fee3b8e0104f3e807ac13f7527e97d0f]: Commencement: [Reg. 17](https://www.legislation.gov.uk/uksi/2003/325/regulation/17) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-01faf103699975aa73d823d664b7089c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2003/325/regulation/18) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-01faf103699975aa73d823d664b7089c]: Commencement: [Reg. 18](https://www.legislation.gov.uk/uksi/2003/325/regulation/18) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-169b09ee8639f8bc7540ed3abdb9c227]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2003/325/regulation/19) omitted (5.10.2003) by virtue of [The Housing Benefit and Council Tax Benefit (State Pension Credit and Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2275)](https://www.legislation.gov.uk/uksi/2003/2275), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/2275/regulation/1/1/a), [2(10)](https://www.legislation.gov.uk/uksi/2003/2275/regulation/2/10)
+[^c-169b09ee8639f8bc7540ed3abdb9c227]: Textual amendment: [Reg. 19](https://www.legislation.gov.uk/uksi/2003/325/regulation/19) omitted (5.10.2003) by virtue of [The Housing Benefit and Council Tax Benefit (State Pension Credit and Miscellaneous Amendments) Regulations 2003 (S.I. 2003/2275)](https://www.legislation.gov.uk/uksi/2003/2275), [regs. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/2275/regulation/1/1/a), [2(10)](https://www.legislation.gov.uk/uksi/2003/2275/regulation/2/10)
 
-[^key-3d908886b81f6f51e887544e7d1f50e7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2003/325/regulation/20) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-3d908886b81f6f51e887544e7d1f50e7]: Commencement: [Reg. 20](https://www.legislation.gov.uk/uksi/2003/325/regulation/20) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-7fca9326cd5a317b7376c93b995f9785]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2003/325/regulation/21) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-7fca9326cd5a317b7376c93b995f9785]: Commencement: [Reg. 21](https://www.legislation.gov.uk/uksi/2003/325/regulation/21) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-5e3c0c5d8966ade385d0f9c9d214708a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2003/325/regulation/22) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-5e3c0c5d8966ade385d0f9c9d214708a]: Commencement: [Reg. 22](https://www.legislation.gov.uk/uksi/2003/325/regulation/22) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-332b803ef489e7b4e560c1094b11d88b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2003/325/regulation/23) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-332b803ef489e7b4e560c1094b11d88b]: Commencement: [Reg. 23](https://www.legislation.gov.uk/uksi/2003/325/regulation/23) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-e539ca3a2c8a260e8bc3eb345f5dc4e8]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2003/325/regulation/24) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-e539ca3a2c8a260e8bc3eb345f5dc4e8]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2003/325/regulation/24) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-a594ca9c77fbd667edce8d6ccaf80e4f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2003/325/regulation/25) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-a594ca9c77fbd667edce8d6ccaf80e4f]: Commencement: [Reg. 25](https://www.legislation.gov.uk/uksi/2003/325/regulation/25) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-91211038ac7ecbae953f97633f0659ce]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2003/325/regulation/26) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-91211038ac7ecbae953f97633f0659ce]: Commencement: [Reg. 26](https://www.legislation.gov.uk/uksi/2003/325/regulation/26) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-c84c099147f2068227d6c5eaac221e9a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2003/325/regulation/27) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-c84c099147f2068227d6c5eaac221e9a]: Commencement: [Reg. 27](https://www.legislation.gov.uk/uksi/2003/325/regulation/27) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-e0872c270d4d5270570299d5b410fadd]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2003/325/regulation/28) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-e0872c270d4d5270570299d5b410fadd]: Commencement: [Reg. 28](https://www.legislation.gov.uk/uksi/2003/325/regulation/28) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
 [^f00156]: Footnote: [S.I. 2001/1002](https://www.legislation.gov.uk/uksi/2001/1002).
 
-[^key-2520c9056051542e097c0a7752b3e890]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2003/325/regulation/29) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-2520c9056051542e097c0a7752b3e890]: Commencement: [Reg. 29](https://www.legislation.gov.uk/uksi/2003/325/regulation/29) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-8e21d53250f4a5a958ad4334be71a3bd]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2003/325/regulation/30) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-8e21d53250f4a5a958ad4334be71a3bd]: Textual amendment: [Reg. 29](https://www.legislation.gov.uk/uksi/2003/325/regulation/30) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-17779719bcbb9fdf1618307b7511b7bf]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2003/325/regulation/30) in force at 6.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/a)
+[^c-17779719bcbb9fdf1618307b7511b7bf]: Commencement: [Reg. 30](https://www.legislation.gov.uk/uksi/2003/325/regulation/30) in force at 6.4.2003, see [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/a)
 
-[^key-5896ea02ada968dbbaea67220c3241a5]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2003/325/regulation/31) omitted (21.5.2003) by virtue of [The Social Security (Hospital In-Patients and Miscellaneous Amendments) Regulations 2003 (S.I. 2003/1195)](https://www.legislation.gov.uk/uksi/2003/1195), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2003/1195/regulation/1/a), [10](https://www.legislation.gov.uk/uksi/2003/1195/regulation/10)
+[^c-5896ea02ada968dbbaea67220c3241a5]: Textual amendment: [Reg. 31](https://www.legislation.gov.uk/uksi/2003/325/regulation/31) omitted (21.5.2003) by virtue of [The Social Security (Hospital In-Patients and Miscellaneous Amendments) Regulations 2003 (S.I. 2003/1195)](https://www.legislation.gov.uk/uksi/2003/1195), [regs. 1(a)](https://www.legislation.gov.uk/uksi/2003/1195/regulation/1/a), [10](https://www.legislation.gov.uk/uksi/2003/1195/regulation/10)
 
-[^key-19abc8816874eeb415975cb42f5412e0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/325/schedule/1) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-19abc8816874eeb415975cb42f5412e0]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2003/325/schedule/1) in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
 [^f00159]: Footnote: [1992 c. 4](https://www.legislation.gov.uk/ukpga/1992/4).
 
@@ -388,8 +388,8 @@ These Regulations do not impose a charge on business.
 
 [^f00166]: Footnote: [2000 c. 19](https://www.legislation.gov.uk/ukpga/2000/19).
 
-[^key-5046494204b2101f2ca3bf8f5bcec93b]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/325/schedule/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
+[^c-5046494204b2101f2ca3bf8f5bcec93b]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2003/325/schedule/2) revoked (6.3.2006) by [The Housing Benefit and Council Tax Benefit (Consequential Provisions) Regulations 2006 (S.I. 2006/217)](https://www.legislation.gov.uk/uksi/2006/217), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2006/217/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2006/217/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/uksi/2006/217/regulation/2), [3](https://www.legislation.gov.uk/uksi/2006/217/regulation/3), [Sch. 3](https://www.legislation.gov.uk/uksi/2006/217/schedule/3), [Sch. 4](https://www.legislation.gov.uk/uksi/2006/217/schedule/4))
 
-[^key-181880778b1799b0ecd17431b4bf437b]: Commencement: Sch. 2 para. 1 in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-181880778b1799b0ecd17431b4bf437b]: Commencement: Sch. 2 para. 1 in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
 
-[^key-a49a85e218d958d4550a27218ac8a92c]: Commencement: Sch. 2 para. 2 in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)
+[^c-a49a85e218d958d4550a27218ac8a92c]: Commencement: Sch. 2 para. 2 in force at 6.10.2003, see [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2003/325/regulation/1/1/b)

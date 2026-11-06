@@ -24,7 +24,7 @@ summary: ''
 
 Sections 80 and 81
 
-**1.**[^key-5e291473fafc47c4ea254d3e88567269] The Schedule to be inserted in the Social Security Administration Act 1992 after Schedule 3ZB (inserted by section 96(3) of this Act) is—
+**1.**[^c-5e291473fafc47c4ea254d3e88567269] The Schedule to be inserted in the Social Security Administration Act 1992 after Schedule 3ZB (inserted by section 96(3) of this Act) is—
 
 > **Schedule 3ZC — Entry, search and seizure etc: England and Wales**
 >
@@ -108,7 +108,7 @@ Sections 80 and 81
 > - (c) in paragraph 2(a)(ii), for the words “and does not also include excluded material” there were substituted “, or consists of or includes excluded material,”;
 > - (d) paragraph 3 (second set of access conditions) were omitted.
 
-**2.**[^key-80c023275b337d017c9c99cc250c803d] The Schedule to be inserted in the Social Security Administration Act 1992 after Schedule 3ZC (inserted by section 80(3) of this Schedule) is—
+**2.**[^c-80c023275b337d017c9c99cc250c803d] The Schedule to be inserted in the Social Security Administration Act 1992 after Schedule 3ZC (inserted by section 80(3) of this Schedule) is—
 
 > **Schedule 3ZD — Entry, search and seizure etc: Scotland**
 >
@@ -415,6 +415,6 @@ Sections 80 and 81
 
 ## Annotations
 
-[^key-5e291473fafc47c4ea254d3e88567269]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-5e291473fafc47c4ea254d3e88567269]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
 
-[^key-80c023275b337d017c9c99cc250c803d]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)
+[^c-80c023275b337d017c9c99cc250c803d]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 109(1)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/1)

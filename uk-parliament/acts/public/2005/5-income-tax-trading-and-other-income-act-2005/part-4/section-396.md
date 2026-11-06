@@ -20,9 +20,9 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) This section and sections 392 to 395 form part of the SIP code (see section 488 of ITEPA 2003 ([^key-cedb4f01d05c678806767686cc9944bd]... share incentive plans)).
+(1) This section and sections 392 to 395 form part of the SIP code (see section 488 of ITEPA 2003 ([^c-cedb4f01d05c678806767686cc9944bd]... share incentive plans)).
 
-(2) Accordingly, expressions used in this section or those sections and contained in the index in paragraph 100 of Schedule 2 to that Act ([^key-3e096291adc67da5d2880b4499cbd661]... share incentive plans) have the meaning indicated by that index.
+(2) Accordingly, expressions used in this section or those sections and contained in the index in paragraph 100 of Schedule 2 to that Act ([^c-3e096291adc67da5d2880b4499cbd661]... share incentive plans) have the meaning indicated by that index.
 
 (3) In particular—
 
@@ -36,6 +36,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cedb4f01d05c678806767686cc9944bd]: Textual amendment: Word in s. 396(1) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 59](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/59), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-cedb4f01d05c678806767686cc9944bd]: Textual amendment: Word in s. 396(1) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 59](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/59), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
 
-[^key-3e096291adc67da5d2880b4499cbd661]: Textual amendment: Word in s. 396(2) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 59](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/59), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))
+[^c-3e096291adc67da5d2880b4499cbd661]: Textual amendment: Word in s. 396(2) omitted (6.4.2014) by virtue of [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [Sch. 8 paras. 59](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/59), [89](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/89) (with [Sch. 8 paras. 90-96](https://www.legislation.gov.uk/ukpga/2014/26/schedule/8/paragraph/90))

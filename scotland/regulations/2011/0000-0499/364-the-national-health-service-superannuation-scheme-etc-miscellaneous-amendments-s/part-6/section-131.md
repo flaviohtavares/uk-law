@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 131. Amendment of regulation 11[^key-3f4f4096166baeac1f2234fff731d778]
+## 131. Amendment of regulation 11[^c-3f4f4096166baeac1f2234fff731d778]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ In regulation 11 (reduction of compensation in certain cases), for “Superannua
 
 ## Annotations
 
-[^key-3f4f4096166baeac1f2234fff731d778]: Commencement: [Reg. 131](https://www.legislation.gov.uk/ssi/2011/364/regulation/131) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)
+[^c-3f4f4096166baeac1f2234fff731d778]: Commencement: [Reg. 131](https://www.legislation.gov.uk/ssi/2011/364/regulation/131) in force at 1.12.2011, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2011/364/regulation/1/2)

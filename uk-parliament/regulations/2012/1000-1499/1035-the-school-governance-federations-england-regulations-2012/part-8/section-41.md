@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Dissolution of federations on discontinuance of federated schools[^key-392cbf233bfe9889f829769e8a4f9506]
+## 41. Dissolution of federations on discontinuance of federated schools[^c-392cbf233bfe9889f829769e8a4f9506]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-392cbf233bfe9889f829769e8a4f9506]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2012/1035/regulation/41) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)
+[^c-392cbf233bfe9889f829769e8a4f9506]: Commencement: [Reg. 41](https://www.legislation.gov.uk/uksi/2012/1035/regulation/41) in force at 1.9.2012, see [reg. 1](https://www.legislation.gov.uk/uksi/2012/1035/regulation/1)

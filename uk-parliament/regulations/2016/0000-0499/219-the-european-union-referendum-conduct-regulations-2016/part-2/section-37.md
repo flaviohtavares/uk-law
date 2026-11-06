@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37. Tendered ballot papers[^key-11845877d24382ee607cff06e04a5b68]
+## 37. Tendered ballot papers[^c-11845877d24382ee607cff06e04a5b68]
 
 *Extent: E+W+S+N.I.*
 
@@ -85,7 +85,7 @@ Regulation 38 makes further provision about tendered ballot papers.
 
 (13) This regulation does not apply in relation to an elector who has an anonymous entry in a register maintained by the Chief Electoral Officer for Northern Ireland.
 
-**38.**[^key-68d6291a908b7a6080974ce360bb9884] (1) Tendered ballot papers must be a different colour from the other ballot papers.
+**38.**[^c-68d6291a908b7a6080974ce360bb9884] (1) Tendered ballot papers must be a different colour from the other ballot papers.
 
 (2) A person in Northern Ireland who marks a tendered ballot paper in reliance on Case 7 or 8 in regulation 37 must sign the paper, unless it is marked after an application was refused under regulation 35 or 36.
 
@@ -109,6 +109,6 @@ Regulation 38 makes further provision about tendered ballot papers.
 
 ## Annotations
 
-[^key-11845877d24382ee607cff06e04a5b68]: Commencement: Reg. 37 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-11845877d24382ee607cff06e04a5b68]: Commencement: Reg. 37 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
 
-[^key-68d6291a908b7a6080974ce360bb9884]: Commencement: Reg. 38 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)
+[^c-68d6291a908b7a6080974ce360bb9884]: Commencement: Reg. 38 in force at 26.2.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1)

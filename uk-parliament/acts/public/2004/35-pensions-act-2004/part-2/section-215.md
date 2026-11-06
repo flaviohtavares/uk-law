@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 215. Referral of questions of law[^key-ea251ff41c2943b58fb89523a7c44418][^key-f00781d8345587e5a37f108a50bb7674]
+## 215. Referral of questions of law[^c-ea251ff41c2943b58fb89523a7c44418][^c-f00781d8345587e5a37f108a50bb7674]
 
 *Extent: E+W+S*
 
@@ -29,6 +29,6 @@ to, in England and Wales, the High Court or, in Scotland, the Court of Session.
 
 ## Annotations
 
-[^key-ea251ff41c2943b58fb89523a7c44418]: Commencement: S. 215 in force at 21.7.2005 by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/6/a)
+[^c-ea251ff41c2943b58fb89523a7c44418]: Commencement: S. 215 in force at 21.7.2005 by [S.I. 2005/1720](https://www.legislation.gov.uk/uksi/2005/1720), [art. 2(6)(a)](https://www.legislation.gov.uk/uksi/2005/1720/article/2/6/a)
 
-[^key-f00781d8345587e5a37f108a50bb7674]: Modification: S. 215 applied (with modifications) (24.11.2005) by [The Financial Assistance Scheme (Modifications and Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3256)](https://www.legislation.gov.uk/uksi/2005/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/3256/regulation/2), [3(4)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/3/4)
+[^c-f00781d8345587e5a37f108a50bb7674]: Modification: S. 215 applied (with modifications) (24.11.2005) by [The Financial Assistance Scheme (Modifications and Miscellaneous Amendments) Regulations 2005 (S.I. 2005/3256)](https://www.legislation.gov.uk/uksi/2005/3256), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2005/3256/regulation/2), [3(4)](https://www.legislation.gov.uk/uksi/2005/3256/regulation/3/4)

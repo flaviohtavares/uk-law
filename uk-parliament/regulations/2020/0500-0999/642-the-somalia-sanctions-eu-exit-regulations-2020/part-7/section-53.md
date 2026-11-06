@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53. Finance: reporting obligations[^key-b0038f057aa60414169d0dab90720aaf]
+## 53. Finance: reporting obligations[^c-b0038f057aa60414169d0dab90720aaf]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 - (a) it knows, or has reasonable cause to suspect, that a person—
   - (i) is a designated person, or
-  - (ii) has breached a prohibition or failed to comply with an obligation[^key-005f36abdb5c082a1c4ee114c3562b37] under any provision of Part 3 (Finance) or regulation 50 (finance: licensing offences), and
+  - (ii) has breached a prohibition or failed to comply with an obligation[^c-005f36abdb5c082a1c4ee114c3562b37] under any provision of Part 3 (Finance) or regulation 50 (finance: licensing offences), and
 - (b) the information or other matter on which the knowledge or cause for suspicion is based came to it in the course of carrying on its business.
 
 (2) Where a relevant firm informs the Treasury under paragraph (1), it must state—
@@ -39,7 +39,7 @@ summary: ''
 
 (4) The relevant firm must also state the nature and amount or quantity of any funds or economic resources held by it for the customer at the time when it first had the knowledge or suspicion.
 
-(4A)[^key-644f6999efdbd685d07399f8918c0577] Where a person (“**P**”) knows, or has reasonable cause to suspect, that P holds funds or economic resources owned, held or controlled by a designated person, P must by no later than 30th November in each calendar year provide a report to the Treasury as to the nature and amount or quantity of those funds or economic resources held by P as of 30th September in that calendar year.
+(4A)[^c-644f6999efdbd685d07399f8918c0577] Where a person (“**P**”) knows, or has reasonable cause to suspect, that P holds funds or economic resources owned, held or controlled by a designated person, P must by no later than 30th November in each calendar year provide a report to the Treasury as to the nature and amount or quantity of those funds or economic resources held by P as of 30th September in that calendar year.
 
 (4B) Where a report has been provided further to paragraph (4A) but as of 30th September in the following calendar year P no longer holds funds or economic resources owned, held or controlled by the designated person, P must by no later than 30th November in that calendar year report this to the Treasury.
 
@@ -52,7 +52,7 @@ summary: ''
 
 (6) A person who fails to comply with a requirement in paragraph (1), (2) or (4) commits an offence.
 
-(6A)[^key-cbef8a326b7a918ac196ce57fb4b91d5] A person commits an offence if that person, without reasonable excuse, fails to comply with a requirement in paragraph (4A) or (4B).
+(6A)[^c-cbef8a326b7a918ac196ce57fb4b91d5] A person commits an offence if that person, without reasonable excuse, fails to comply with a requirement in paragraph (4A) or (4B).
 
 (7) In this regulation—
 
@@ -63,10 +63,10 @@ summary: ''
 
 ## Annotations
 
-[^key-b0038f057aa60414169d0dab90720aaf]: Commencement: Reg. 53 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
+[^c-b0038f057aa60414169d0dab90720aaf]: Commencement: Reg. 53 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 12(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/12/2)
 
-[^key-005f36abdb5c082a1c4ee114c3562b37]: Textual amendment: Words in [reg. 53(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/642/regulation/53/1/a/ii) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [23(8)(a)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/23/8/a)
+[^c-005f36abdb5c082a1c4ee114c3562b37]: Textual amendment: Words in [reg. 53(1)(a)(ii)](https://www.legislation.gov.uk/uksi/2020/642/regulation/53/1/a/ii) substituted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [23(8)(a)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/23/8/a)
 
-[^key-644f6999efdbd685d07399f8918c0577]: Textual amendment: [Reg. 53(4A)-(4C)](https://www.legislation.gov.uk/uksi/2020/642/regulation/53/4A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [23(8)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/23/8/b)
+[^c-644f6999efdbd685d07399f8918c0577]: Textual amendment: [Reg. 53(4A)-(4C)](https://www.legislation.gov.uk/uksi/2020/642/regulation/53/4A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [23(8)(b)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/23/8/b)
 
-[^key-cbef8a326b7a918ac196ce57fb4b91d5]: Textual amendment: [Reg. 53(6A)](https://www.legislation.gov.uk/uksi/2020/642/regulation/53/6A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [23(8)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/23/8/c)
+[^c-cbef8a326b7a918ac196ce57fb4b91d5]: Textual amendment: [Reg. 53(6A)](https://www.legislation.gov.uk/uksi/2020/642/regulation/53/6A) inserted (5.12.2024) by [The Sanctions (EU Exit) (Miscellaneous Amendments) (No. 2) Regulations 2024 (S.I. 2024/1157)](https://www.legislation.gov.uk/uksi/2024/1157), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/1/2), [23(8)(c)](https://www.legislation.gov.uk/uksi/2024/1157/regulation/23/8/c)

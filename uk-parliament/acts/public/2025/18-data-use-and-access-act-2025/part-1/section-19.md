@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Duty to review regulations[^key-82049da6e998e9b037cfbffd9811b984][^key-8fb0415a00bdafc653bf2539ee96813e]
+## 19. Duty to review regulations[^c-82049da6e998e9b037cfbffd9811b984][^c-8fb0415a00bdafc653bf2539ee96813e]
 
 *Extent: E+W+S+N.I.*
 
@@ -58,6 +58,6 @@ nor does it require the relevant person to provide for the review of Part 1 prov
 
 ## Annotations
 
-[^key-82049da6e998e9b037cfbffd9811b984]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-82049da6e998e9b037cfbffd9811b984]: Commencement: S. 19 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-8fb0415a00bdafc653bf2539ee96813e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/18/section/19) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)
+[^c-8fb0415a00bdafc653bf2539ee96813e]: Commencement: [S. 19](https://www.legislation.gov.uk/ukpga/2025/18/section/19) in force at 20.8.2025 in so far as not already in force by [S.I. 2025/904](https://www.legislation.gov.uk/uksi/2025/904), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/904/regulation/2/a)

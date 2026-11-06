@@ -32,7 +32,7 @@ summary: ''
 
 Sports Grounds And Sporting Events, England And Wales
 
-The Football Spectators (2020 UEFA European Championship Control Period) Order 2020 (revoked)[^key-6c470cef50cf8161768a1b7faafb32b5]
+The Football Spectators (2020 UEFA European Championship Control Period) Order 2020 (revoked)[^c-6c470cef50cf8161768a1b7faafb32b5]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 31st January 2020
 
-[^key-6c470cef50cf8161768a1b7faafb32b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c470cef50cf8161768a1b7faafb32b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-6c470cef50cf8161768a1b7faafb32b5]
+## 1. Citation, commencement and interpretation[^c-6c470cef50cf8161768a1b7faafb32b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Control period[^key-6c470cef50cf8161768a1b7faafb32b5]
+## 2. Control period[^c-6c470cef50cf8161768a1b7faafb32b5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-6c470cef50cf8161768a1b7faafb32b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c470cef50cf8161768a1b7faafb32b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-6c470cef50cf8161768a1b7faafb32b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-6c470cef50cf8161768a1b7faafb32b5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-6c470cef50cf8161768a1b7faafb32b5]: Textual amendment: Order revoked (12.5.2020) by [The Football Spectators (2020 UEFA European Championship Control Period) (Coronavirus) (Revocation) Order 2020 (S.I. 2020/432)](https://www.legislation.gov.uk/uksi/2020/432), [arts. 1](https://www.legislation.gov.uk/uksi/2020/432/article/1), [2](https://www.legislation.gov.uk/uksi/2020/432/article/2)
+[^c-6c470cef50cf8161768a1b7faafb32b5]: Textual amendment: Order revoked (12.5.2020) by [The Football Spectators (2020 UEFA European Championship Control Period) (Coronavirus) (Revocation) Order 2020 (S.I. 2020/432)](https://www.legislation.gov.uk/uksi/2020/432), [arts. 1](https://www.legislation.gov.uk/uksi/2020/432/article/1), [2](https://www.legislation.gov.uk/uksi/2020/432/article/2)

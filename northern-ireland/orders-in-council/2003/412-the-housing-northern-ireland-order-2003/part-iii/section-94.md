@@ -65,10 +65,10 @@ In sub-paragraph (b) “residential occupation” does not include occupation fo
 
 (9) The Department may by order exclude any person from participating in a group repair scheme as an assisted participant.
 
-(10) An order under paragraph (9) may proceed wholly or in part by reference to the provisions relating to entitlement to housing benefit, universal credit,[^key-0a53658c1c212a6313791e8eb39a2bde] or any other form of assistance, as they have effect from time to time.
+(10) An order under paragraph (9) may proceed wholly or in part by reference to the provisions relating to entitlement to housing benefit, universal credit,[^c-0a53658c1c212a6313791e8eb39a2bde] or any other form of assistance, as they have effect from time to time.
 
 (11) A person eligible to participate in a group repair scheme who is unable to participate as an assisted participant may participate as an unassisted participant.
 
 ## Annotations
 
-[^key-0a53658c1c212a6313791e8eb39a2bde]: Textual amendment: Words in [art. 94(10)](https://www.legislation.gov.uk/nisi/2003/412/article/94/10) inserted (coming into force in accordance with reg. 1(1) of the amending Regulations) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [13(3)](https://www.legislation.gov.uk/nisr/2016/236/regulation/13/3)
+[^c-0a53658c1c212a6313791e8eb39a2bde]: Textual amendment: Words in [art. 94(10)](https://www.legislation.gov.uk/nisi/2003/412/article/94/10) inserted (coming into force in accordance with reg. 1(1) of the amending Regulations) by [The Universal Credit (Consequential, Supplementary, Incidental and Miscellaneous Provisions) Regulations (Northern Ireland) 2016 (S.R. 2016/236)](https://www.legislation.gov.uk/nisr/2016/236), [regs. 1(1)](https://www.legislation.gov.uk/nisr/2016/236/regulation/1/1), [13(3)](https://www.legislation.gov.uk/nisr/2016/236/regulation/13/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37.[^key-b2cdbf364c0a451f4508eed8c7abd565]
+## 37.[^c-b2cdbf364c0a451f4508eed8c7abd565]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,7 +51,7 @@ For Articles 227 to 229 substitute—
 >
 > **2.**
 >
-> A statutory instrument containing regulations made by the Secretary of State under Article 102d(4) or Article[^key-b4549f8247051cc276d841ef3341065e] 221(1) or (4) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
+> A statutory instrument containing regulations made by the Secretary of State under Article 102d(4) or Article[^c-b4549f8247051cc276d841ef3341065e] 221(1) or (4) may not be made unless a draft of the instrument has been laid before, and approved by a resolution of, each House of Parliament.
 >
 > **3.**
 >
@@ -180,12 +180,12 @@ For Articles 227 to 229 substitute—
 
 ## Annotations
 
-[^key-b2cdbf364c0a451f4508eed8c7abd565]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
+[^c-b2cdbf364c0a451f4508eed8c7abd565]: Commencement: Reg. 37 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(4)(a)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/4/a)
 
 [^c23706591]: Marginal citation: 2010 asp. 10.
 
 [^c23706601]: Marginal citation: [S.I. 1979/1573 (N.I. 12)](https://www.legislation.gov.uk/nisi/1979/1573).
 
-[^key-b4549f8247051cc276d841ef3341065e]: Textual amendment: Words in reg. 37 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [15(2)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/15/2)
+[^c-b4549f8247051cc276d841ef3341065e]: Textual amendment: Words in reg. 37 inserted (31.12.2020 immediately before IP completion day) by [The Agricultural Products, Food and Drink (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1661)](https://www.legislation.gov.uk/uksi/2020/1661), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/1/2/b), [15(2)](https://www.legislation.gov.uk/uksi/2020/1661/regulation/15/2)
 
 [^c23706611]: Marginal citation: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33). Section 41(6) was amended by [S.I. 1999/663](https://www.legislation.gov.uk/uksi/1999/663).

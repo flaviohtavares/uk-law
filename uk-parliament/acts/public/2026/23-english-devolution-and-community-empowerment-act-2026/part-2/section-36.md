@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 36. Acquisition and development of land[^key-0fb3183250d8b43670c7fef77173961a]
+## 36. Acquisition and development of land[^c-0fb3183250d8b43670c7fef77173961a]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 18 confers on strategic authorities functions relating to the acquisiti
 
 ## Annotations
 
-[^key-0fb3183250d8b43670c7fef77173961a]: Commencement: S. 36 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)
+[^c-0fb3183250d8b43670c7fef77173961a]: Commencement: S. 36 in force at Royal Assent, see [s. 108(1)(3)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/1/3)

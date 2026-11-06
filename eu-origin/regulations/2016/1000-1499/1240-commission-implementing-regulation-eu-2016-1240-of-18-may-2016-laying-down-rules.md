@@ -35,7 +35,7 @@ laying down rules for the application of Regulation (EU) No 1308/2013 of the Eur
 
 (Text with EEA relevance)
 
-[^key-3c09de222d6158ea1a09a59d34e5f717][^key-2c17d93a7e495341b38df2b9a35d8d32][^key-77fc136a07b05ee93f8796ae11857bf7][^key-727124e51dfa8683a96e357e215a924c]
+[^c-3c09de222d6158ea1a09a59d34e5f717][^c-2c17d93a7e495341b38df2b9a35d8d32][^c-77fc136a07b05ee93f8796ae11857bf7][^c-727124e51dfa8683a96e357e215a924c]
 
 THE EUROPEAN COMMISSION,
 
@@ -186,12 +186,12 @@ HAS ADOPTED THIS REGULATION:
 - (a) the buying-in and selling from public intervention of products listed in Article 11 of Regulation (EU) No 1308/2013;
 - (b) the granting of aid for private storage for products listed in Article 17 of Regulation (EU) No 1308/2013.
 
-2.[^key-0353ba91ab7343119c5c3767177bf7cd] This Regulation shall apply without prejudice to specific provisions laid down in—
+2.[^c-0353ba91ab7343119c5c3767177bf7cd] This Regulation shall apply without prejudice to specific provisions laid down in—
 
 - (a) the published tendering procedure for the buying-in of products or opening the sale of products from intervention; or
 - (b) the published tendering procedure for private storage or the Regulations fixing the amount of aid for private storage in advance.
 
-#### Article 1A. Definitions[^key-ab8ac61a1c5a60d82174580ba39b2552]
+#### Article 1A. Definitions[^c-ab8ac61a1c5a60d82174580ba39b2552]
 
 In this Regulation—
 
@@ -211,15 +211,15 @@ but the appropriate authority is the Secretary of State if consent is given by�
 
 #### Article 2. Submission and admissibility of offers, tenders and applications
 
-1. Operators shall lodge offers and tenders for public intervention as well as tenders and applications for aid for private storage using the method made available by the paying agency [^key-7ab9355d832bf013a59b1055c64ab743]....
+1. Operators shall lodge offers and tenders for public intervention as well as tenders and applications for aid for private storage using the method made available by the paying agency [^c-7ab9355d832bf013a59b1055c64ab743]....
 
-2. An offer, tender or application shall be admissible if it is submitted in English, or in the case of operators from Wales, English or Welsh[^key-56f692e8598ff784f4a9f636bb0dc0a4], and shall include, on a form made available by the paying agency, at least the following information:
+2. An offer, tender or application shall be admissible if it is submitted in English, or in the case of operators from Wales, English or Welsh[^c-56f692e8598ff784f4a9f636bb0dc0a4], and shall include, on a form made available by the paying agency, at least the following information:
 
-- (a) the operator's name, address and United Kingdom VAT registration number[^key-c70b46fee92e4ed87058b2041b63a424];
+- (a) the operator's name, address and United Kingdom VAT registration number[^c-c70b46fee92e4ed87058b2041b63a424];
 - (b) the product, or type of product, covered with its relevant CN code, if applicable;
 - (c) the quantity offered, tendered or applied for, subject to the minimum quantities laid down in Article 5, if applicable.
 
-3. The offer, tender or application shall not include any additional conditions introduced by the operator other than those laid down in this Regulation or in the relevant published tendering procedure or the Regulation[^key-f688d963e981200614f7f66bc2b7bc3a] fixing the amount of aid for private storage in advance.
+3. The offer, tender or application shall not include any additional conditions introduced by the operator other than those laid down in this Regulation or in the relevant published tendering procedure or the Regulation[^c-f688d963e981200614f7f66bc2b7bc3a] fixing the amount of aid for private storage in advance.
 
 4. Where the time limit for the submission of offers, tenders or applications is a public holiday, the offers, tenders or applications shall be submitted at the latest on the last working day preceding the public holiday.
 
@@ -231,11 +231,11 @@ but the appropriate authority is the Secretary of State if consent is given by�
 
 8. The rights and obligations resulting from the acceptance of the offer, tender or application shall not be transferable.
 
-9.[^key-a675ceff4c912147467a706d064f0d8c] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+9.[^c-a675ceff4c912147467a706d064f0d8c] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-10.[^key-c5adc580aaeb3b1f81ab22d835b02441] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+10.[^c-c5adc580aaeb3b1f81ab22d835b02441] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-11.[^key-dff7208a0b645a21346901641db7266b]  This Article does not apply in relation to public intervention schemes or private storage aid schemes in Wales.
+11.[^c-dff7208a0b645a21346901641db7266b]  This Article does not apply in relation to public intervention schemes or private storage aid schemes in Wales.
 
 ## TITLE II — PUBLIC INTERVENTION
 
@@ -249,17 +249,17 @@ but the appropriate authority is the Secretary of State if consent is given by�
 - (b) for rice: 5 000 tonnes, 7 500 tonnes from the public intervention period 2017/18, 10 000 tonnes from the 2018/19 period;
 - (c) for butter and skimmed milk powder: 400 tonnes, 600 tonnes from the 2017 public intervention period, 800 tonnes from the 2018 period.
 
-If the average annual production of cereals in the United Kingdom is less than 20 million tonnes, the appropriate authority may apply a minimum storage capacity of 10 000 tonnes from the 2019/20 period.[^key-13e11e121f137fa55ca7e77e6963193e]
+If the average annual production of cereals in the United Kingdom is less than 20 million tonnes, the appropriate authority may apply a minimum storage capacity of 10 000 tonnes from the 2019/20 period.[^c-13e11e121f137fa55ca7e77e6963193e]
 
 2. For the purposes of this Article, the ‘minimum storage capacity’ means a minimum capacity which may not be available permanently, but is readily achievable during the period when buying-in might take place.
 
 3. A paying agency may derogate from paragraph 1 only where it demonstrates that the minimum storage capacity specified in that paragraph is not available and where the replacement storage places have ready access to a river, a sea or a railway connection.
 
-4.[^key-398d410a0f6728075e7d24432a703fea] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+4.[^c-398d410a0f6728075e7d24432a703fea] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-5.[^key-7fe0281f67b96db78601a4dde20fcbec] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+5.[^c-7fe0281f67b96db78601a4dde20fcbec] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-6.[^key-ddd69d488583fc97d90d8aad59b00ce9]  This Article does not apply in relation to public intervention schemes in Wales.
+6.[^c-ddd69d488583fc97d90d8aad59b00ce9]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Article 4. Establishing the eligibility of products
 
@@ -271,13 +271,13 @@ If the average annual production of cereals in the United Kingdom is less than 2
 - (d)[^c000001] for butter: in Parts I and Ia of Annex IV to this Regulation;
 - (e) for skimmed milk powder: in Parts I and Ia of Annex V to this Regulation.
 
-2. The methods to be used to determine the quality of cereals, butter and skimmed milk powder eligible for public intervention referred to in Annexes I, IV and V respectively, shall be those established by the latest versions of the relevant domestic[^key-679e285739147316891483bd2348cc1d] or international standards, as the case may be, in force at least 6 months before the first day of the public intervention period as defined in Article 12 of Regulation (EU) No 1308/2013.
+2. The methods to be used to determine the quality of cereals, butter and skimmed milk powder eligible for public intervention referred to in Annexes I, IV and V respectively, shall be those established by the latest versions of the relevant domestic[^c-679e285739147316891483bd2348cc1d] or international standards, as the case may be, in force at least 6 months before the first day of the public intervention period as defined in Article 12 of Regulation (EU) No 1308/2013.
 
-3.[^key-29aee015e426f4ddae5030abc87a4769] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-29aee015e426f4ddae5030abc87a4769] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-5a9248b396b33a23616811abf3ad5aba] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-5a9248b396b33a23616811abf3ad5aba] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-9808026135af2d38f5fda61890746a62]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-9808026135af2d38f5fda61890746a62]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ### CHAPTER II — Buying-in of products into intervention
 
@@ -294,15 +294,15 @@ If the average annual production of cereals in the United Kingdom is less than 2
 - (e) for butter: 30 tonnes;
 - (f) for skimmed milk powder: 30 tonnes.
 
-If the United Kingdom has an average annual production of cereals of less than 20 million tonnes, the appropriate authority may decide to apply a minimum quantity of 120 tonnes for common wheat, barley and maize.[^key-4ce0bdbf088aaada4e90cfb3603ad386].
+If the United Kingdom has an average annual production of cereals of less than 20 million tonnes, the appropriate authority may decide to apply a minimum quantity of 120 tonnes for common wheat, barley and maize.[^c-4ce0bdbf088aaada4e90cfb3603ad386].
 
-2. A paying agency may set a minimum quantity higher than that provided for in paragraph 1 if justified by the conditions and practices of the wholesale trade or environmental rules in force in the United Kingdom[^key-6bd13ed7ef0934125f7ccba265b5d7df].
+2. A paying agency may set a minimum quantity higher than that provided for in paragraph 1 if justified by the conditions and practices of the wholesale trade or environmental rules in force in the United Kingdom[^c-6bd13ed7ef0934125f7ccba265b5d7df].
 
-3.[^key-3a77959a0cc412cd4fb114b0be23b22a] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-3a77959a0cc412cd4fb114b0be23b22a] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-d180e570e7e9d1e8c980ff29643eb31f] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-d180e570e7e9d1e8c980ff29643eb31f] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-cebebed062ee5f7892f1d725c30b3793]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-cebebed062ee5f7892f1d725c30b3793]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 6. Level of the security for buying-in of products
 
@@ -314,36 +314,36 @@ The level of the security required in accordance with Article 4(a) of Delegated 
 - ((d)) for butter: EUR 50/tonne;
 - ((e)) for skimmed milk powder: EUR 50/tonne.
 
-This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^key-720ed759272bb3c0c2d4411a78a0882f]
+This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^c-720ed759272bb3c0c2d4411a78a0882f]
 
-This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.[^key-9a79ce82844da94015ff0c63fb332f57]
+This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.[^c-9a79ce82844da94015ff0c63fb332f57]
 
-This Article does not apply in relation to public intervention schemes in Wales.[^key-cea12d977d802e63cd123eee7e5a09ac]
+This Article does not apply in relation to public intervention schemes in Wales.[^c-cea12d977d802e63cd123eee7e5a09ac]
 
 ##### Article 7. Submission and admissibility of offers and tenders
 
-1. An offer or tender shall be admissible if it complies with the requirements laid down in Article 2 and, in the case of a tendering procedure, in the published[^key-51d27ee495bda095af5215abfe1726da] tendering procedure referred to in Article 12. It shall also meet the following conditions:
+1. An offer or tender shall be admissible if it complies with the requirements laid down in Article 2 and, in the case of a tendering procedure, in the published[^c-51d27ee495bda095af5215abfe1726da] tendering procedure referred to in Article 12. It shall also meet the following conditions:
 
 - (a) it includes at least the following information:
   - ((i)) for rice, an indication of the type and variety;
   - ((ii)) except for beef, the place where the product is held at the time of the offer or tender;
   - ((iii)) for cereals and rice, the storage place for which the offer or tender is made;
-  - ((iv)) for cereals and rice, the year of harvest and the area or areas of production in the United Kingdom[^key-6af44abbd300bacb701946238e3f3822];
+  - ((iv)) for cereals and rice, the year of harvest and the area or areas of production in the United Kingdom[^c-6af44abbd300bacb701946238e3f3822];
   - ((v)) for butter and skimmed milk powder, the date of production;
   - ((vi)) for butter and skimmed milk powder, the name and approval number of the approved undertaking in which it was produced;
 - (b) the operator has lodged a security in accordance with Article 4(a) of Delegated Regulation (EU) 2016/1238;
 - (c) for cereals and rice, the operator has declared:
-  - ((i)) that the products are of United Kingdom[^key-46f59d0f4ba84d45d0c4bbafec8ead44] origin;
+  - ((i)) that the products are of United Kingdom[^c-46f59d0f4ba84d45d0c4bbafec8ead44] origin;
   - ((ii)) that the offer or tender refers to a homogeneous lot which, for rice, must comprise paddy rice of the same variety;
   - ((iii)) whether any post-harvest treatment has been carried out or not, and, where appropriate, the name of the product used, that it has been applied in conformity with the conditions of use, and that the product is authorised under Regulation (EC) No 1107/2009 of the European Parliament and of the Council[^f00014].
 
 2. For products other than beef, the operator may request on the form referred to in Article 2(2) that the product be taken over at the storage place where it is held at the time the offer or tender is submitted provided that the storage place fulfils the requirements laid down in Article 7(1) of Delegated Regulation (EU) 2016/1238 and in Article 3 of this Regulation.
 
-3.[^key-c67a9c4ff85200f8aea70be3ad8ff1d4] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-c67a9c4ff85200f8aea70be3ad8ff1d4] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-503337722bc243c281592230bde675e9] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-503337722bc243c281592230bde675e9] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-c213bbfff62bd85f5e9e27e4cd4ad65b]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-c213bbfff62bd85f5e9e27e4cd4ad65b]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 8. Verification of offers and tenders by the paying agency
 
@@ -353,13 +353,13 @@ Where the paying agency decides that an offer or tender is inadmissible, it shal
 
 2. As regards cereals and rice, the declarations referred to in Article 7(1)(c) may be checked for compliance by administrative means after the paying agency has verified that the offers or tenders are admissible, if necessary with the assistance of the paying agency competent for the storage place indicated by the operator, in accordance with Article 57(2).
 
-3.[^key-7adcb9eb40966ec982176ba472947b3d] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-7adcb9eb40966ec982176ba472947b3d] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-0cb73a322cd44b582ab40e6827584e8d] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-0cb73a322cd44b582ab40e6827584e8d] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-a5285e6bd33bc0eb78031f753aaa4995]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-a5285e6bd33bc0eb78031f753aaa4995]  This Article does not apply in relation to public intervention schemes in Wales.
 
-##### Article 9. Notifications of offers and tenders to the Commission[^key-9b826157b3b72a2f0dcef8fac193113c]
+##### Article 9. Notifications of offers and tenders to the Commission[^c-9b826157b3b72a2f0dcef8fac193113c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -369,69 +369,69 @@ Where the paying agency decides that an offer or tender is inadmissible, it shal
 
 Offers may be submitted to the paying agency from the beginning of the public intervention periods laid down in Article 12 of Regulation (EU) No 1308/2013.
 
-This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^key-fb9b93c7e0b1e7b173be3e096cd869ad]
+This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^c-fb9b93c7e0b1e7b173be3e096cd869ad]
 
-This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.[^key-54154ab8966fbfc29190170b7bd98b6d]
+This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.[^c-54154ab8966fbfc29190170b7bd98b6d]
 
-This Article does not apply in relation to public intervention schemes in Wales.[^key-4003ac6bfce879e42b2c44dae48d971e]
+This Article does not apply in relation to public intervention schemes in Wales.[^c-4003ac6bfce879e42b2c44dae48d971e]
 
 ##### Article 11. Measures for respecting the quantitative limitations
 
-1. In order to comply with the quantitative limitations fixed in Article 3(1) of Regulation (EU) No 1370/2013, the appropriate authority[^key-6b3a320260857d7b5332f032b6be5bfc] shall decide [^M_F_c9e62f37-a126-4fdb-8453-c37d6f0d31ce]...:
+1. In order to comply with the quantitative limitations fixed in Article 3(1) of Regulation (EU) No 1370/2013, the appropriate authority[^c-6b3a320260857d7b5332f032b6be5bfc] shall decide [^M_F_c9e62f37-a126-4fdb-8453-c37d6f0d31ce]...:
 
 - (a) to close intervention buying-in at fixed price;
 - (b) where acceptance of the full quantity offered would lead to the maximum quantity being exceeded, to set an allocation coefficient applicable to the total quantity in the offers received and notified to the appropriate authority from each operator on the day of the decision;
-- (c) where appropriate, to reject pending offers submitted to the paying agency[^key-a9e358c66dff15301bb555cfd5195463].
+- (c) where appropriate, to reject pending offers submitted to the paying agency[^c-a9e358c66dff15301bb555cfd5195463].
 
-The appropriate authority shall decide in the case of offers—[^key-b637d29365ebaf4613e5d4dcbeffff4a]
+The appropriate authority shall decide in the case of offers—[^c-b637d29365ebaf4613e5d4dcbeffff4a]
 
 - (a)) not later than each Thursday, considering the quantities of products, which during the preceding week, have been the subject of an admissible offer; and
 - (b)) when the quantities offered approach the quantitative limits fixed in Article 3(1) of Regulation (EU) No 1370/2013, on each working day, considering the quantities which have been the subject of an admissible offer up until 5 working days prior to the decision.
 
-For the purposes of this Article, when a date of submission[^key-744be57fbe4e8e9b84b1d0be3e2c401f] is a public holiday for the appropriate authority the counting of the deadline shall start on the first working day after that public holiday. If such public holidays are included in the time period for the appropriate authority's[^key-7db94c2338099ab4adb39a74b0f138fa] decision, only working days shall be counted.
+For the purposes of this Article, when a date of submission[^c-744be57fbe4e8e9b84b1d0be3e2c401f] is a public holiday for the appropriate authority the counting of the deadline shall start on the first working day after that public holiday. If such public holidays are included in the time period for the appropriate authority's[^c-7db94c2338099ab4adb39a74b0f138fa] decision, only working days shall be counted.
 
 2. By way of derogation from Article 2(6), an operator to whom an allocation coefficient as referred to in point (b) of paragraph 1 applies may withdraw his offer within five working days of the date of entry into force of the decision setting the allocation coefficient.
 
-3.[^key-0017493088b8d3f5b4a5aa5b48168e6a] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-0017493088b8d3f5b4a5aa5b48168e6a] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-6eba15c551c38d8e0aad14f32e7b5459] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-6eba15c551c38d8e0aad14f32e7b5459] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-0c4bdc921f836d4194a9295bde602680]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-0c4bdc921f836d4194a9295bde602680]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Section 3 — Buying-in via a tendering procedure
 
 ##### Article 12. Tendering procedure
 
-1. Where the appropriate authority decides to buy-in products under Article 13(2) of Regulation (EU) No. 1308/2013 or Article 3(2) of Regulation (EU) No 1370/2013, it must publish a tendering procedure. The tendering procedure must[^key-55ad419676e3d3b4aed98c792fac67d2] contain, in particular, the following information:
+1. Where the appropriate authority decides to buy-in products under Article 13(2) of Regulation (EU) No. 1308/2013 or Article 3(2) of Regulation (EU) No 1370/2013, it must publish a tendering procedure. The tendering procedure must[^c-55ad419676e3d3b4aed98c792fac67d2] contain, in particular, the following information:
 
 - (a) the products covered, and:
   - ((i)) for rice, an indication of the type and variety;
   - ((ii)) for beef, whether the tender is for the bought-in carcasses to be deboned or for storage without deboning;
 - (b) the period covered (‘tendering period’) and, if necessary, the different sub-periods during which the tenders can be submitted;
-- (c))[^key-9f95a03f4752485045deaf44d055266d] in the case of a restricted tendering procedure under Article 3(3) of Regulation (EU) No. 1370/2013, the region covered.
+- (c))[^c-9f95a03f4752485045deaf44d055266d] in the case of a restricted tendering procedure under Article 3(3) of Regulation (EU) No. 1370/2013, the region covered.
 
-2.[^key-8814a5affee3ef47a317890b638f8d3f] The appropriate authority may open a tendering procedure for buying-in of beef by category or region on the basis of the two most recent weekly market prices recorded. The appropriate authority may close the tendering procedure on the basis of the most recent weekly market prices recorded.
+2.[^c-8814a5affee3ef47a317890b638f8d3f] The appropriate authority may open a tendering procedure for buying-in of beef by category or region on the basis of the two most recent weekly market prices recorded. The appropriate authority may close the tendering procedure on the basis of the most recent weekly market prices recorded.
 
-3.[^key-fa2ab25ebe903927f95409787d42e501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-fa2ab25ebe903927f95409787d42e501] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 4. With regard to rice, the tendering procedure may be restricted to specific varieties or one or more types of paddy rice, namely ‘round grain rice’, ‘medium grain rice’, ‘long grain rice A’ or ‘long grain rice B’, as defined in points (a), (b) or (c) of point I.2 of Part I of Annex II to Regulation (EU) No 1308/2013.
 
 5. With regard to beef, the following rules shall apply:
 
-- (a) the average market price by eligible category in the United Kingdom[^key-92f132ab984d57d163f727c02938431c] or in a region thereof shall take account of the prices for qualities U, R and O, expressed in quality R3 using the conversion coefficients set out in Part II of Annex III in the United Kingdom[^key-5c6f5ca1b5a6ad89e7006df4bcc8e2ef] or the intervention region concerned;
-- (b) the average market prices shall be recorded in accordance with Commission Delegated Regulation (EU) 2017/1182 and Commission Implementing Regulation (EU) 2017/1184.[^key-efd3867623283c5c404eefc3b28880b0];
-- (c) the average market price by eligible category in the United Kingdom[^key-9938d06fb69a07f9c8a20a9a09d38878] or a region thereof shall be the average of the market prices for all the qualities referred to in point (b), weighted by the proportion each quality represents in the total number of slaughterings in the United Kingdom[^key-de41048ff9d97ca7674cdd247061cd62] or region.
+- (a) the average market price by eligible category in the United Kingdom[^c-92f132ab984d57d163f727c02938431c] or in a region thereof shall take account of the prices for qualities U, R and O, expressed in quality R3 using the conversion coefficients set out in Part II of Annex III in the United Kingdom[^c-5c6f5ca1b5a6ad89e7006df4bcc8e2ef] or the intervention region concerned;
+- (b) the average market prices shall be recorded in accordance with Commission Delegated Regulation (EU) 2017/1182 and Commission Implementing Regulation (EU) 2017/1184.[^c-efd3867623283c5c404eefc3b28880b0];
+- (c) the average market price by eligible category in the United Kingdom[^c-9938d06fb69a07f9c8a20a9a09d38878] or a region thereof shall be the average of the market prices for all the qualities referred to in point (b), weighted by the proportion each quality represents in the total number of slaughterings in the United Kingdom[^c-de41048ff9d97ca7674cdd247061cd62] or region.
 
   The United Kingdom shall consist of two intervention regions as follows:
 
   - ((i)) region I: Great Britain;
   - ((ii)) region II: Northern Ireland.
 
-6.[^key-7c7fb586a27a749496f132696d2336af] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+6.[^c-7c7fb586a27a749496f132696d2336af] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-7.[^key-67d568be29925359dd776a8f713439b6] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+7.[^c-67d568be29925359dd776a8f713439b6] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-8.[^key-a47bbc3a5f399bd5c65c59c82b162f31]  This Article does not apply in relation to public intervention schemes in Wales.
+8.[^c-a47bbc3a5f399bd5c65c59c82b162f31]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 13. Submission and admissibility of tenders
 
@@ -445,26 +445,26 @@ In the case of beef, tenders shall state the price quoted in accordance with Art
 
 2. Without prejudice to Article 15(2) of this Regulation, the price tendered shall not exceed the level of the public intervention price set out in Article 2(1) of Regulation (EU) No 1370/2013.
 
-3.[^key-8f08afa1f135fce84b0958d9061f4eae] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-8f08afa1f135fce84b0958d9061f4eae] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-b04cf1b42aaf04721fece88fb4ecda0a] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-b04cf1b42aaf04721fece88fb4ecda0a] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-07d18f9cc78513d8122e2a6af5d5ade4]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-07d18f9cc78513d8122e2a6af5d5ade4]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 14. Decisions on the buying-in price
 
-1. On the basis of the admissible tenders, the appropriate authority[^key-b4cef1f855422e8c06956e6ba0567a74] shall decide:
+1. On the basis of the admissible tenders, the appropriate authority[^c-b4cef1f855422e8c06956e6ba0567a74] shall decide:
 
 - (a) not to fix a maximum buying-in price; or
 - (b) to fix a maximum buying-in price.
 
-2. The decision referred to in paragraph 1 shall be published by the appropriate authority[^key-abc003ba1a2311bcc19a3eaf5117460c].
+2. The decision referred to in paragraph 1 shall be published by the appropriate authority[^c-abc003ba1a2311bcc19a3eaf5117460c].
 
-3.[^key-9efda281c303f8bc2020c20cfe016ff3] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-9efda281c303f8bc2020c20cfe016ff3] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-3319a61a60ea979727363713d8ba4820] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-3319a61a60ea979727363713d8ba4820] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-eaae276c550b988e5394da346bb02a79]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-eaae276c550b988e5394da346bb02a79]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 15. Individual decisions on tenders
 
@@ -472,31 +472,31 @@ In the case of beef, tenders shall state the price quoted in accordance with Art
 
 2. Where a maximum buying-in price has been fixed, the paying agency shall accept tenders which are equal to or lower than that amount. All the other tenders shall be rejected.
 
-The paying agency shall only accept admissible tenders[^key-8dfe83cb3b1097ae7a44287943d9c1e2].
+The paying agency shall only accept admissible tenders[^c-8dfe83cb3b1097ae7a44287943d9c1e2].
 
-3. The paying agency shall take the decisions referred to in paragraphs 1 and 2 of this Article after the publication of the decision of the appropriate authority[^key-93c728b31ce3f4b77c42739a5c90e2e4] referred to in Article 14(1).
+3. The paying agency shall take the decisions referred to in paragraphs 1 and 2 of this Article after the publication of the decision of the appropriate authority[^c-93c728b31ce3f4b77c42739a5c90e2e4] referred to in Article 14(1).
 
 The paying agency shall notify the operators of the outcome of their participation in the tendering procedure within three working days of the entry into force of that decision of the appropriate authority.
 
 This notification shall not be necessary when the tender is accepted, if the paying agency issues a delivery order as referred to in Article 17 within five working days of the entry into force of that decision of the appropriate authority. In case of such acceptance, no further extension of the time limit for the issue of the delivery order, as referred to in the second subparagraph of Article 17(1), may be granted.
 
-4.[^key-f273b319b9431d96b31c72fe34e9a886] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+4.[^c-f273b319b9431d96b31c72fe34e9a886] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-5.[^key-55a9fdd57d84d865dfe3b0bf2bf0bdb0] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+5.[^c-55a9fdd57d84d865dfe3b0bf2bf0bdb0] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-6.[^key-26dbba2ee76dfd5f800e0246bf023a3a]  This Article does not apply in relation to public intervention schemes in Wales.
+6.[^c-26dbba2ee76dfd5f800e0246bf023a3a]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 16. Limitation of buying-in for beef
 
-Where the paying agency is[^key-a4932338301de32d036d5fdd4d8c317d] offered beef in quantities greater than they are able to take over, they may limit the buying-in to the quantities they can take over in the United Kingdom[^key-830641bc2b165a8a568673b95f5b1c30] or in one of the[^key-ee6d63dd98857a99a0522761950d7911] intervention regions referred to in Article 12(5).
+Where the paying agency is[^c-a4932338301de32d036d5fdd4d8c317d] offered beef in quantities greater than they are able to take over, they may limit the buying-in to the quantities they can take over in the United Kingdom[^c-830641bc2b165a8a568673b95f5b1c30] or in one of the[^c-ee6d63dd98857a99a0522761950d7911] intervention regions referred to in Article 12(5).
 
-The paying agency[^key-35e37f71b927b040542ed3bee781837e] shall ensure equal access for all parties concerned in the event of such limitation.
+The paying agency[^c-35e37f71b927b040542ed3bee781837e] shall ensure equal access for all parties concerned in the event of such limitation.
 
-This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^key-47ca416f9c5d187d26c31a7643ee757c]
+This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^c-47ca416f9c5d187d26c31a7643ee757c]
 
-This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.[^key-1d923b13ebabfcfef7ceb9e02546d921]
+This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.[^c-1d923b13ebabfcfef7ceb9e02546d921]
 
-This Article does not apply in relation to public intervention schemes in Wales.[^key-a186fee5684120caa5c2e6c17b816e7b]
+This Article does not apply in relation to public intervention schemes in Wales.[^c-a186fee5684120caa5c2e6c17b816e7b]
 
 #### Section 4 — Deliveries and transport costs
 
@@ -513,13 +513,13 @@ The paying agency may decide to extend the time limit for the issue of the deliv
 - (c) the storage place to which the products shall be delivered;
 - (d) the price at which the offer or tender is accepted.
 
-3. The delivery order shall be issued only for the quantities included in the admissible offer or tender[^key-db6a175eedd1488f1d0146a9d7a6a53d].
+3. The delivery order shall be issued only for the quantities included in the admissible offer or tender[^c-db6a175eedd1488f1d0146a9d7a6a53d].
 
-4.[^key-5567dc3ffb3eb715d6ae6486360c6742] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+4.[^c-5567dc3ffb3eb715d6ae6486360c6742] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-5.[^key-6e73223bba9798bf9195161ea04eb5d4] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+5.[^c-6e73223bba9798bf9195161ea04eb5d4] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-6.[^key-befd22bc571df316b15cf77d593d7cd4]  This Article does not apply in relation to public intervention schemes in Wales.
+6.[^c-befd22bc571df316b15cf77d593d7cd4]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 18. Specific provisions for the delivery of cereals and rice
 
@@ -535,25 +535,25 @@ The paying agency may decide to extend the time limit for the issue of the deliv
 - ((iv)) the machinability test;
 - ((v)) analyses of contaminants.
 
-4.[^key-7311f71eb5d47fcf19d500b34d790c72] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+4.[^c-7311f71eb5d47fcf19d500b34d790c72] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-5.[^key-4cfbb145bb49a5929cd12b94f161f08a] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+5.[^c-4cfbb145bb49a5929cd12b94f161f08a] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-6.[^key-18d9f75b13a4550571e62a84ecfb55b7]  This Article does not apply in relation to public intervention schemes in Wales.
+6.[^c-18d9f75b13a4550571e62a84ecfb55b7]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 19. Transport costs for cereals and rice
 
 1. The cost of transporting the cereals or rice from the place where the product was stored at the time of the offer or tender to the storage place specified in the delivery order shall be borne by the operator, where the distance involved is equal to or less than 50 km.
 
-Beyond that maximum distance, the additional transport costs shall be borne by the paying agency [^key-0c7044a79176b64e169ab6400dd4ef03]....
+Beyond that maximum distance, the additional transport costs shall be borne by the paying agency [^c-0c7044a79176b64e169ab6400dd4ef03]....
 
-1A.[^key-40c4cce549b5d21bc40ebf6fe773d720] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+1A.[^c-40c4cce549b5d21bc40ebf6fe773d720] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-1B.[^key-240dc9d3869e48a3bcd5532de7aadf89] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+1B.[^c-240dc9d3869e48a3bcd5532de7aadf89] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-1C.[^key-34596751309c904b6ca9240957a509f1]  This Article does not apply in relation to public intervention schemes in Wales.
+1C.[^c-34596751309c904b6ca9240957a509f1]  This Article does not apply in relation to public intervention schemes in Wales.
 
-2.[^key-9b29df16e13155afe9fb0d5932bb8954] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-9b29df16e13155afe9fb0d5932bb8954] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ##### Article 20. Specific provisions for the delivery of beef
 
@@ -563,11 +563,11 @@ Beyond that maximum distance, the additional transport costs shall be borne by t
 
 3. Operators shall deliver the products not later than 15 days following the date of issue of the delivery order. However, depending on the quantities awarded, the paying agency may extend that period by up to seven days. In such cases the paying agency shall inform the affected operators.
 
-4.[^key-213600f94c35940a798c03d154da0f9f] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+4.[^c-213600f94c35940a798c03d154da0f9f] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-5.[^key-397481276398b5fce01077a0bdd860b2] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+5.[^c-397481276398b5fce01077a0bdd860b2] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-6.[^key-31fb35c01b4289755b969133060e6b90]  This Article does not apply in relation to public intervention schemes in Wales.
+6.[^c-31fb35c01b4289755b969133060e6b90]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 21. Specific provisions for the packing, delivery and storage of butter and skimmed milk powder
 
@@ -583,11 +583,11 @@ The costs incurred in unloading the butter or skimmed milk powder at the loading
 
 4. The paying agency shall require that butter and skimmed milk powder be placed and kept in storage on pallets in such a way as to create easily identifiable and readily accessible lots.
 
-5.[^key-07adf1568df94de61d00751c25c1f3fc] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+5.[^c-07adf1568df94de61d00751c25c1f3fc] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-6.[^key-412445bf464cdc6aa742e68228cbca96] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+6.[^c-412445bf464cdc6aa742e68228cbca96] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-7.[^key-a891881f850d5b7bbcf6714550a75c6f]  This Article does not apply in relation to public intervention schemes in Wales.
+7.[^c-a891881f850d5b7bbcf6714550a75c6f]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 22. Delivery
 
@@ -600,11 +600,11 @@ The costs incurred in unloading the butter or skimmed milk powder at the loading
 
 3. The products shall be taken over by the paying agency or its representative, who shall be independent from the operator.
 
-4.[^key-a47a0ee60a00ccb5882e30496aa09d91] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+4.[^c-a47a0ee60a00ccb5882e30496aa09d91] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-5.[^key-d5ed902c735bc54bc6550edcca02c817] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+5.[^c-d5ed902c735bc54bc6550edcca02c817] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-6.[^key-5dfce530d60431b1c061960a7397b6e6]  This Article does not apply in relation to public intervention schemes in Wales.
+6.[^c-5dfce530d60431b1c061960a7397b6e6]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Section 5 — Control and takeover
 
@@ -618,11 +618,11 @@ The costs incurred in unloading the butter or skimmed milk powder at the loading
 
 2. The takeover record shall be dated and sent to the operator and to the storekeeper.
 
-3.[^key-3c2be60cce927a29f2e13fb0bf2a20df] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-3c2be60cce927a29f2e13fb0bf2a20df] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-a672ae1e0c8f8c6fc65ec91cd304170f] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-a672ae1e0c8f8c6fc65ec91cd304170f] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-6fb859628f9a7aa08226b60a7692c1e4]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-6fb859628f9a7aa08226b60a7692c1e4]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 24. Obligations of the operator
 
@@ -633,21 +633,21 @@ The products shall meet the eligibility requirements set out in Article 3 of Del
 
 The costs to be paid by the operator shall be determined on the basis of standard amounts for entry, removal and storage costs in accordance with Article 3 of Commission Delegated Regulation (EU) No 906/2014[^f00016].
 
-This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^key-368f25cc165bb69505014575589d7e57]
+This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^c-368f25cc165bb69505014575589d7e57]
 
-This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.[^key-45c1cc4f765c3cab93e9d22a574c9a83]
+This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.[^c-45c1cc4f765c3cab93e9d22a574c9a83]
 
-This Article does not apply in relation to public intervention schemes in Wales.[^key-fb225e8a835374cea8d4918d024dc731]
+This Article does not apply in relation to public intervention schemes in Wales.[^c-fb225e8a835374cea8d4918d024dc731]
 
 ##### Article 25. Deboning requirement for beef
 
 Where deboning is required as a condition of the tendering procedure, the paying agency shall have all the beef that is bought-in deboned in accordance with Part III of Annex III.
 
-This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^key-9d077341d2aeb447457bdb0eddf68979]
+This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^c-9d077341d2aeb447457bdb0eddf68979]
 
-This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.[^key-4333c5c5737dce6d63b2777cfb2d4aca]
+This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.[^c-4333c5c5737dce6d63b2777cfb2d4aca]
 
-This Article does not apply in relation to public intervention schemes in Wales.[^key-b65cc482db16ee067a0da0923f58a258]
+This Article does not apply in relation to public intervention schemes in Wales.[^c-b65cc482db16ee067a0da0923f58a258]
 
 #### Section 6 — Price adjustments and payments
 
@@ -660,11 +660,11 @@ This Article does not apply in relation to public intervention schemes in Wales.
 
 2. If the paying agency takes over and stores cereals and rice at the storage place in accordance with Article 22(2), a reduction of EUR 5/tonne shall be made to the buying-in price.
 
-3.[^key-a120f2b4a166ed8bae3afa2be88fef31] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-a120f2b4a166ed8bae3afa2be88fef31] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-b91c4b0362353a5479addb1662c4865a] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-b91c4b0362353a5479addb1662c4865a] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-120e089e2bc6914915abb9a2b7a29a63]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-120e089e2bc6914915abb9a2b7a29a63]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 27. Payments
 
@@ -672,11 +672,11 @@ This Article does not apply in relation to public intervention schemes in Wales.
 
 2. Only the quantity actually delivered and accepted shall be paid for. However, if that quantity is greater than the quantity stated in the delivery order, only the quantity specified in the delivery order shall be paid for.
 
-3.[^key-6648d4613a4b2339e34d24e37664cf35] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-6648d4613a4b2339e34d24e37664cf35] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-2a3490caf3c7cd3c9495ad18a55ef4fc] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-2a3490caf3c7cd3c9495ad18a55ef4fc] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-a83488915ba6efec3dde470aeb712a11]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-a83488915ba6efec3dde470aeb712a11]  This Article does not apply in relation to public intervention schemes in Wales.
 
 ### CHAPTER III — Sale of products from intervention
 
@@ -684,11 +684,11 @@ This Article does not apply in relation to public intervention schemes in Wales.
 
 1. Products taken over into public intervention and available for sale shall be sold through a tendering procedure.
 
-2.[^key-bfc23f1bcab0dee919c8a6e46b2ccafb] The tendering procedure must be open for at least six days.
+2.[^c-bfc23f1bcab0dee919c8a6e46b2ccafb] The tendering procedure must be open for at least six days.
 
-3. Tendering procedures may be open for the sale of products stored in one or several regions of the constituent nation[^key-b2a6ce79a513ca8a9c05cc07e9c09098].
+3. Tendering procedures may be open for the sale of products stored in one or several regions of the constituent nation[^c-b2a6ce79a513ca8a9c05cc07e9c09098].
 
-4. The tendering procedure[^key-603b11b0a26d20f4528fe4bbc9253654] opening the sale shall contain, in particular, the following information:
+4. The tendering procedure[^c-603b11b0a26d20f4528fe4bbc9253654] opening the sale shall contain, in particular, the following information:
 
 - (a) the products covered, and in particular:
   - ((i)) for rice, an indication of the type and variety,
@@ -704,20 +704,20 @@ This Article does not apply in relation to public intervention schemes in Wales.
 
 5. Tendering procedures may be restricted to specified uses or destinations and include provisions for verifying the use or destination.
 
-6.[^key-55fff7880830a989e92c5703b3d40184] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+6.[^c-55fff7880830a989e92c5703b3d40184] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-7.[^key-47b6ec30f3ff496460f5a3968d84e613] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+7.[^c-47b6ec30f3ff496460f5a3968d84e613] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-8.[^key-e89560fcfd95f63921780bea2e10283e]  This Article does not apply in relation to public intervention schemes in Wales.
+8.[^c-e89560fcfd95f63921780bea2e10283e]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Article 29. Notice of invitation to tender and arrangements related to the invitation to tender
 
-1. Where the paying agency is holding intervention stocks available for sale, it[^key-53442ffe8e3326bfd152f9f3fa5d7ee3] shall draw up a notice of invitation to tender, and publish it at least four days before the first date for the submission of tenders.
+1. Where the paying agency is holding intervention stocks available for sale, it[^c-53442ffe8e3326bfd152f9f3fa5d7ee3] shall draw up a notice of invitation to tender, and publish it at least four days before the first date for the submission of tenders.
 
 2. The notice of invitation to tender shall indicate in particular:
 
 - (a) the name and address of the paying agency issuing the notice of invitation to tender;
-- (b) the reference to the published tendering procedure[^key-77b367d14b075cb0609b76a27bea29a6] opening the sale;
+- (b) the reference to the published tendering procedure[^c-77b367d14b075cb0609b76a27bea29a6] opening the sale;
 - (c) the closing dates for the submission of tenders for each partial invitation to tender;
 - (d) for each storage place, the name and address of the storekeeper, and, as appropriate:
   - ((i)) for cereals and rice, the quantities available presented in sales lots determined in such a way to ensure equal access to operators, together with a description of the quality of each sales lot;
@@ -734,15 +734,15 @@ This Article does not apply in relation to public intervention schemes in Wales.
 - (a) to inspect and to take and examine samples of cereals and rice put up for sale at their own expense before submitting a tender;
 - (b) to consult the results of the analyses referred to in Part IV of Annex I, Part I of Annex II, Part I of Annex IV or Part I of Annex V, as appropriate.
 
-5.[^key-222b2a925791be8a429f544d27788390] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+5.[^c-222b2a925791be8a429f544d27788390] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-6.[^key-a86611d4954fec4c12662be4fa5ef027] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+6.[^c-a86611d4954fec4c12662be4fa5ef027] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-7.[^key-292696bbe05632acd45bf0f8d719eaa3]  This Article does not apply in relation to public intervention schemes in Wales.
+7.[^c-292696bbe05632acd45bf0f8d719eaa3]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Article 30. Submission and admissibility of tenders
 
-1. A tender shall be admissible if it complies with the requirements laid down in Article 2 and the published tendering procedure[^key-eefc19f6b97285a7deb53e92999c5c03] opening the sale. It shall also meet the following conditions:
+1. A tender shall be admissible if it complies with the requirements laid down in Article 2 and the published tendering procedure[^c-eefc19f6b97285a7deb53e92999c5c03] opening the sale. It shall also meet the following conditions:
 
 - (a) it indicates a reference to the published tendering procedure opening the sale and the expiry date for the sub-period of submission of the tenders;
 - (b) for beef, it indicates the relevant cuts;
@@ -761,50 +761,50 @@ This Article does not apply in relation to public intervention schemes in Wales.
 
 For butter, where appropriate, the tender may specify that it is submitted exclusively for sweet cream butter as referred to in Article 29(2)(g).
 
-4.[^key-6a3d005c0cd0341c397e7f6dc6a5d530] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+4.[^c-6a3d005c0cd0341c397e7f6dc6a5d530] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-5.[^key-63e98f2912f6514c69f689b5ad64ccde] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+5.[^c-63e98f2912f6514c69f689b5ad64ccde] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-6.[^key-a7fca2e34ee61089048333273960d3f4]  This Article does not apply in relation to public intervention schemes in Wales.
+6.[^c-a7fca2e34ee61089048333273960d3f4]  This Article does not apply in relation to public intervention schemes in Wales.
 
-#### Article 31. Notification of tenders to the Commission[^key-924f6adec23b06d4fda18f633abeb5be]
+#### Article 31. Notification of tenders to the Commission[^c-924f6adec23b06d4fda18f633abeb5be]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Article 32. Decisions on the selling price
 
-1. On the basis of the admissible tenders submitted within the time limits set out in the published tendering procedure opening the sale, the appropriate authority shall decide[^key-6d8df9864e7b85641d662ea607aa938a]:
+1. On the basis of the admissible tenders submitted within the time limits set out in the published tendering procedure opening the sale, the appropriate authority shall decide[^c-6d8df9864e7b85641d662ea607aa938a]:
 
 - (a) not to fix a minimum selling price; or
 - (b) to fix a minimum selling price.
 
 For butter and skimmed milk powder the minimum selling price may vary according to the location of the products offered for sale.
 
-2. The decision referred to in paragraph 1 shall be published by the appropriate authority[^key-2f7b7be80c956ea98b3f01378a3fc8df].
+2. The decision referred to in paragraph 1 shall be published by the appropriate authority[^c-2f7b7be80c956ea98b3f01378a3fc8df].
 
-3.[^key-78ab5750846ec8d09d1c0512a0c9d27b] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-78ab5750846ec8d09d1c0512a0c9d27b] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-ff49a9fcdfd8de644cb32c7194a359a9] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-ff49a9fcdfd8de644cb32c7194a359a9] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-523dbff9a73a3b06a8f9c9b5888f5e98]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-523dbff9a73a3b06a8f9c9b5888f5e98]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Article 33. Individual decisions on tenders
 
 1. Where no minimum selling price has been fixed, all tenders shall be rejected.
 
-2. Where a minimum selling price has been fixed, the paying agency[^key-245c9b4c807ffc04f3308d6e49e6720f] shall reject any tender lower than the minimum selling price.
+2. Where a minimum selling price has been fixed, the paying agency[^c-245c9b4c807ffc04f3308d6e49e6720f] shall reject any tender lower than the minimum selling price.
 
-The paying agency shall only accept admissible tenders submitted within the time limits set in the published tendering procedure opening the sale.[^key-1dd025c9f870b58ed105497d7bc36880]
+The paying agency shall only accept admissible tenders submitted within the time limits set in the published tendering procedure opening the sale.[^c-1dd025c9f870b58ed105497d7bc36880]
 
-3. The paying agency[^key-48041b749d44550a3828ed420bb67c03] shall take the decisions referred to in paragraphs 1 and 2 of this Article after the publication of the decision of the appropriate authority[^key-a72d64e4bcd329242e8dc28aaad5823f] referred to in Article 32.
+3. The paying agency[^c-48041b749d44550a3828ed420bb67c03] shall take the decisions referred to in paragraphs 1 and 2 of this Article after the publication of the decision of the appropriate authority[^c-a72d64e4bcd329242e8dc28aaad5823f] referred to in Article 32.
 
 The paying agency shall notify the operators of the outcome of their participation in the tendering procedure within three working days of the entry into force of that decision of the appropriate authority.
 
-4.[^key-13304bc06ff75db9f89898e7cd53bbb1] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+4.[^c-13304bc06ff75db9f89898e7cd53bbb1] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-5.[^key-5cc7e7004541b18576627d06f0095d77] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+5.[^c-5cc7e7004541b18576627d06f0095d77] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-6.[^key-60b1acbfe1077f4890c2ec8b0e7010ed]  This Article does not apply in relation to public intervention schemes in Wales.
+6.[^c-60b1acbfe1077f4890c2ec8b0e7010ed]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Article 34. Specific rules for the allocation of beef, butter and skimmed milk powder
 
@@ -818,41 +818,41 @@ The paying agency shall notify the operators of the outcome of their participati
 
 5. The paying agency shall allocate the product on the basis of its date of entry into storage, starting with the oldest product of the total quantity available at the storage place designated by the operator or, as the case may be, the oldest of the quantity of butter or sweet cream butter or cut of beef available in the cold storage place designated by the operator.
 
-6.[^key-195c29a7c4d4c0f7fb2f1f0f0ed3be53] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+6.[^c-195c29a7c4d4c0f7fb2f1f0f0ed3be53] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-7.[^key-b187cdfacf389cef20f217c36a4df4a2] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+7.[^c-b187cdfacf389cef20f217c36a4df4a2] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-8.[^key-64adccbf9ecc01db52c45d99ed1d719d]  This Article does not apply in relation to public intervention schemes in Wales.
+8.[^c-64adccbf9ecc01db52c45d99ed1d719d]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Article 35. Payments
 
 Before removing the product and within the period specified in Article 37(2), operators shall pay the paying agency the amount corresponding to their tender for each quantity that they withdraw from the storage place, as notified by the paying agency in accordance with Article 33(3).
 
-This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^key-5cd353491778f1075ab470581cfc977b]
+This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^c-5cd353491778f1075ab470581cfc977b]
 
-This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.[^key-24345be885c0fd7c5dcf08e720968724]
+This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.[^c-24345be885c0fd7c5dcf08e720968724]
 
-This Article does not apply in relation to public intervention schemes in Wales.[^key-1b4b7b1768d658e5dfcb1037bb3d486d]
+This Article does not apply in relation to public intervention schemes in Wales.[^c-1b4b7b1768d658e5dfcb1037bb3d486d]
 
-#### Article 36. Sales by the paying agency[^key-09c54375cc92a5f52593f9e263be24b8]
+#### Article 36. Sales by the paying agency[^c-09c54375cc92a5f52593f9e263be24b8]
 
-1. Where[^key-df34548724ed1cd013ec6d71c6af16f2] no tendering procedure is open in accordance with Article 28, the paying agency may itself open a tendering procedure for the sale of intervention products when the total quantity remaining in all its storage places is less than:
+1. Where[^c-df34548724ed1cd013ec6d71c6af16f2] no tendering procedure is open in accordance with Article 28, the paying agency may itself open a tendering procedure for the sale of intervention products when the total quantity remaining in all its storage places is less than:
 
 - (a) for each cereal: 10 000 tonnes;
 - (b) for rice: 2 000 tonnes;
 - (c) for beef, butter or skimmed milk powder: 200 tonnes.
 
-2. Chapter II of Delegated Regulation (EU) 2016/1238 and this Chapter shall apply to a tendering procedure opened by the paying agency[^key-33b08e4f4b02a5a2ac37e1c0918d5b3d] in accordance with paragraph 1, with the exception of Articles 28(2), 29(2)(b), 30(1)(a) and (e), [^key-ff9ba80a64c2a4882f6597228cde2010]... and 32(2) of this Regulation. Article 32(1) shall apply *mutatis mutandis* to a respective decision of the paying agency[^key-6d3ae507cf81e3665c5ef8d22fe4d8cc].
+2. Chapter II of Delegated Regulation (EU) 2016/1238 and this Chapter shall apply to a tendering procedure opened by the paying agency[^c-33b08e4f4b02a5a2ac37e1c0918d5b3d] in accordance with paragraph 1, with the exception of Articles 28(2), 29(2)(b), 30(1)(a) and (e), [^c-ff9ba80a64c2a4882f6597228cde2010]... and 32(2) of this Regulation. Article 32(1) shall apply *mutatis mutandis* to a respective decision of the paying agency[^c-6d3ae507cf81e3665c5ef8d22fe4d8cc].
 
-3. Within the quantities fixed in paragraph 1, the paying agency[^key-651171baaff6e99cb2137d750e777471] may put up for direct sale products which, after visual examination in the context of the annual stocktaking in accordance with point (g) of the first subparagraph of Article 3(3) and Article 3(4) of Delegated Regulation (EU) No 907/2014 or during the inspection after taking into intervention, may no longer be repackaged or are deteriorated.
+3. Within the quantities fixed in paragraph 1, the paying agency[^c-651171baaff6e99cb2137d750e777471] may put up for direct sale products which, after visual examination in the context of the annual stocktaking in accordance with point (g) of the first subparagraph of Article 3(3) and Article 3(4) of Delegated Regulation (EU) No 907/2014 or during the inspection after taking into intervention, may no longer be repackaged or are deteriorated.
 
-4. The paying agency[^key-9b1acb040288434d7ed1362129a22998] shall ensure equality of access for all parties concerned.
+4. The paying agency[^c-9b1acb040288434d7ed1362129a22998] shall ensure equality of access for all parties concerned.
 
-5.[^key-f541709482827124b8122bb0d6a7ba50] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+5.[^c-f541709482827124b8122bb0d6a7ba50] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-6.[^key-0265f0db06ed6f6d95402160ce628006] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+6.[^c-0265f0db06ed6f6d95402160ce628006] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-7.[^key-6bc0a666d7128ee0ca5875fb9d65e8c3]  This Article does not apply in relation to public intervention schemes in Wales.
+7.[^c-6bc0a666d7128ee0ca5875fb9d65e8c3]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Article 37. Removal order
 
@@ -864,11 +864,11 @@ This Article does not apply in relation to public intervention schemes in Wales.
 
 2. The operators shall remove the product awarded to them within 30 days of the notification referred to in Article 33(3). After that period of time the costs and risks shall be borne by the operator.
 
-3.[^key-f3e376a17c59e9bd05016dd1303bcc53] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-f3e376a17c59e9bd05016dd1303bcc53] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-34a47a00027438e30b6e2bb736f1b0fc] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-34a47a00027438e30b6e2bb736f1b0fc] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-90cae689f7108289291c08643378bdee]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-90cae689f7108289291c08643378bdee]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Article 38. Removal of butter and skimmed milk powder
 
@@ -878,21 +878,21 @@ This Article does not apply in relation to public intervention schemes in Wales.
 
 3. Any stowage and depalletising costs shall be borne by the operator of the butter or skimmed milk powder.
 
-4.[^key-1dc2189f6734f830fbf2d306b05f1885] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+4.[^c-1dc2189f6734f830fbf2d306b05f1885] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-5.[^key-cef923fcbdb8c692aa8c265c3e3c4a0a] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+5.[^c-cef923fcbdb8c692aa8c265c3e3c4a0a] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-6.[^key-0b2ab37684bf9444ccaa29f70cdb0615]  This Article does not apply in relation to public intervention schemes in Wales.
+6.[^c-0b2ab37684bf9444ccaa29f70cdb0615]  This Article does not apply in relation to public intervention schemes in Wales.
 
-### CHAPTER IV — Disposal of products from intervention for the scheme for food distribution to the most deprived in the Union[^key-3e31df66e0d6ac624192433ed680ca6d]
+### CHAPTER IV — Disposal of products from intervention for the scheme for food distribution to the most deprived in the Union[^c-3e31df66e0d6ac624192433ed680ca6d]
 
 **No longer in force.**
 
-#### Article 38a. Making products from intervention available for the scheme[^key-3e31df66e0d6ac624192433ed680ca6d]
+#### Article 38a. Making products from intervention available for the scheme[^c-3e31df66e0d6ac624192433ed680ca6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### Article 38b. Sale of intervention products made available for the scheme[^key-3e31df66e0d6ac624192433ed680ca6d]
+#### Article 38b. Sale of intervention products made available for the scheme[^c-3e31df66e0d6ac624192433ed680ca6d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -904,7 +904,7 @@ This Article does not apply in relation to public intervention schemes in Wales.
 
 ##### Article 39. Opening of tendering procedures and fixing aid in advance
 
-1. Any tendering procedure (where tendering applies) or Regulations[^key-37af3114889d81c2e45bc9180de79e46] fixing the amount of aid in advance may contain the following information:
+1. Any tendering procedure (where tendering applies) or Regulations[^c-37af3114889d81c2e45bc9180de79e46] fixing the amount of aid in advance may contain the following information:
 
 - (a) the products, or types of products, covered with their relevant CN codes, if applicable;
 - (b) in the case of aid fixed in advance, the amount of aid for storage per unit of measurement for the products covered;
@@ -918,44 +918,44 @@ This Article does not apply in relation to public intervention schemes in Wales.
 - (j) the periods of placing into store and of removal from store;
 - (k) the specifications that have to appear on the packaging, if applicable.
 
-1A.[^key-5451b1d8458f4097302cb5cbc272ce2c] In relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020, or in relation to private storage aid schemes in England, paragraph 1 is to be read as if point (i) were omitted.
+1A.[^c-5451b1d8458f4097302cb5cbc272ce2c] In relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020, or in relation to private storage aid schemes in England, paragraph 1 is to be read as if point (i) were omitted.
 
-1B.[^key-946a516c2cd3f8d950ed057e358b699e] In relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023, paragraph 1 is to be read as if point (i) were omitted
+1B.[^c-946a516c2cd3f8d950ed057e358b699e] In relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023, paragraph 1 is to be read as if point (i) were omitted
 
 1C. In relation to private storage aid schemes in Scotland, paragraph 1 is to be read as if point (i) were omitted.
 
-1D.[^key-8be13558f08964693fb70083c2b88fb5]  This Article does not apply in relation to public intervention schemes or private storage aid schemes in Wales.
+1D.[^c-8be13558f08964693fb70083c2b88fb5]  This Article does not apply in relation to public intervention schemes or private storage aid schemes in Wales.
 
-2.[^key-d0f6e49ac410eba7b6ea74cc58a892d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-d0f6e49ac410eba7b6ea74cc58a892d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-3. In the case of tenders, at least six days shall elapse between [^key-ab21eb76d3f67aa15e59337c0b799f5c]... opening the tendering procedure and the first date for the submission of tenders.
+3. In the case of tenders, at least six days shall elapse between [^c-ab21eb76d3f67aa15e59337c0b799f5c]... opening the tendering procedure and the first date for the submission of tenders.
 
 ##### Article 40. Submission and admissibility of tenders and applications for aid for private storage
 
 A tender or application for aid for private storage shall be admissible if it complies with the requirements laid down in Article 2 and the following conditions are met:
 
 - ((a)) it includes at least the following information:
-  - ((i)) a reference to the published tendering procedure or Regulations[^key-1418857c5bfd9829e67ec6cd20fd771a] fixing the amount of aid for private storage in advance;
+  - ((i)) a reference to the published tendering procedure or Regulations[^c-1418857c5bfd9829e67ec6cd20fd771a] fixing the amount of aid for private storage in advance;
   - ((ii)) the storage period where so required in the published tendering procedure or Regulations fixing the amount of aid for private storage in advance;
   - ((iii)) the quantity of products covered by the tender or application;
   - ((iv)) where products are already stored, the name and address of each place of private storage, the location of the storage lots/batches/vats/silos with the corresponding quantities and, where appropriate, the number identifying the approved undertaking;
   - ((v)) in the case of tenders, the expiry date for the sub-period of submission;
   - ((vi)) in the case of tenders, the amount of aid in euro proposed per unit of measurement rounded to no more than two decimal places, exclusive of VAT;
-- ((b)) the operator has lodged the amount of the security referred to in the published tendering procedure or Regulations[^key-03fdb07ffee796ea05790282d8606ddb] fixing the amount of aid for private storage in advance.
+- ((b)) the operator has lodged the amount of the security referred to in the published tendering procedure or Regulations[^c-03fdb07ffee796ea05790282d8606ddb] fixing the amount of aid for private storage in advance.
 
-This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^key-40e39d2d158ca6e8e8ececb70bd9ce69]
+This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.[^c-40e39d2d158ca6e8e8ececb70bd9ce69]
 
 In relation to private storage aid schemes in England, this Article is to be read as if—
 
 - (a)) in point (a)(vi), for “euro” there were substituted “sterling”;
 - (b)) point (b) were omitted.
 
-In relation to private storage aid schemes in Scotland, this Article is to be read as if—[^key-7cd49f5495d2ff606d13ce72f79bf3cf]
+In relation to private storage aid schemes in Scotland, this Article is to be read as if—[^c-7cd49f5495d2ff606d13ce72f79bf3cf]
 
 - (a)) in point (a)(vi), for “euro” there were substituted “sterling”,
 - (b)) point (b) were omitted.
 
-This Article does not apply in relation to public intervention schemes or private storage aid schemes in Wales.[^key-b241535970fe930ac7c06b7260b32c64]
+This Article does not apply in relation to public intervention schemes or private storage aid schemes in Wales.[^c-b241535970fe930ac7c06b7260b32c64]
 
 ##### Article 41. Verification of tenders and applications by the paying agency
 
@@ -963,9 +963,9 @@ This Article does not apply in relation to public intervention schemes or privat
 
 2. Where the paying agency decides that a tender or application is inadmissible, it shall inform the operator concerned within three working days of the receipt of the tender or application.
 
-3.[^key-0d930bb7ed3a8104d42ec3a7f61b2b6d] This Article does not apply in relation to public intervention schemes or private storage aid schemes in Wales.
+3.[^c-0d930bb7ed3a8104d42ec3a7f61b2b6d] This Article does not apply in relation to public intervention schemes or private storage aid schemes in Wales.
 
-##### Article 42. Notification of tenders and applications to the Commission[^key-a04bf28b5e0e6241070cb13ce0fb815d]
+##### Article 42. Notification of tenders and applications to the Commission[^c-a04bf28b5e0e6241070cb13ce0fb815d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -973,18 +973,18 @@ This Article does not apply in relation to public intervention schemes or privat
 
 ##### Article 43. Decisions on the maximum amount of aid for private storage
 
-1. On the basis of the admissible tenders received within the time limits set down in the published tendering procedure[^key-df686603479e2115d25bb72f332446e0], the appropriate authority[^key-df61281b69adecfca512eda6550c98d2] shall decide [^M_F_4d598e06-4a69-4ab1-fa18-125efba6964f]...:
+1. On the basis of the admissible tenders received within the time limits set down in the published tendering procedure[^c-df686603479e2115d25bb72f332446e0], the appropriate authority[^c-df61281b69adecfca512eda6550c98d2] shall decide [^M_F_4d598e06-4a69-4ab1-fa18-125efba6964f]...:
 
 - (a) not to fix a maximum amount of the aid; or
 - (b) to fix a maximum amount of the aid.
 
-2. Where the tender is subject to a global quantity as referred to in Article 39(1)(g), and if the award of the total quantities for which that amount has been offered would lead to the global quantity being exceeded, the appropriate authority[^key-1b0b8d66ae528fa029b22efb0eae3425] shall fix[^key-1ba54933fd61a4baa21d8a8f45796e34] an allocation coefficient. The coefficient shall apply to the tenders which have been received at the level of the maximum amount of aid.
+2. Where the tender is subject to a global quantity as referred to in Article 39(1)(g), and if the award of the total quantities for which that amount has been offered would lead to the global quantity being exceeded, the appropriate authority[^c-1b0b8d66ae528fa029b22efb0eae3425] shall fix[^c-1ba54933fd61a4baa21d8a8f45796e34] an allocation coefficient. The coefficient shall apply to the tenders which have been received at the level of the maximum amount of aid.
 
 By way of derogation from Article 2(6), an operator to whom an allocation coefficient applies may withdraw his tender within 10 working days of the date of entry into force of the decision fixing the allocation coefficient.
 
-3. Decisions on aid referred to in paragraphs 1 and 2 shall be published by the appropriate authority[^key-851d77b2739c269d0d32a82005d7b427].
+3. Decisions on aid referred to in paragraphs 1 and 2 shall be published by the appropriate authority[^c-851d77b2739c269d0d32a82005d7b427].
 
-4.[^key-0490afc282f72869948ae0bbf3b65ca1]  This Article does not apply in relation to private storage aid schemes in Wales.
+4.[^c-0490afc282f72869948ae0bbf3b65ca1]  This Article does not apply in relation to private storage aid schemes in Wales.
 
 ##### Article 44. Individual decisions on tenders
 
@@ -992,23 +992,23 @@ By way of derogation from Article 2(6), an operator to whom an allocation coeffi
 
 2. Where a maximum amount of aid has been fixed, the paying agency shall accept tenders which are equal to, or lower than that amount, without prejudice to Article 43(2). All the other tenders shall be rejected.
 
-The paying agency shall only accept tenders received within the time limits set down in the published tendering procedure.[^key-5c98f0acf1d427e7b5c48888f1365490].
+The paying agency shall only accept tenders received within the time limits set down in the published tendering procedure.[^c-5c98f0acf1d427e7b5c48888f1365490].
 
-3. The paying agency shall take the decisions referred to in paragraphs 1 and 2 of this Article after the publication of the decision of the appropriate authority[^key-5ac6e9b7778af35ac47aaf76b43cba88] referred to in Article 43(1).
+3. The paying agency shall take the decisions referred to in paragraphs 1 and 2 of this Article after the publication of the decision of the appropriate authority[^c-5ac6e9b7778af35ac47aaf76b43cba88] referred to in Article 43(1).
 
 The paying agency shall notify operators of the outcome of their participation in the tendering procedure within three working days of the entry into force of that decision of the appropriate authority.
 
-4.[^key-940fadb27f8984be529ca86aa39c4673]  This Article does not apply in relation to private storage aid schemes in Wales.
+4.[^c-940fadb27f8984be529ca86aa39c4673]  This Article does not apply in relation to private storage aid schemes in Wales.
 
 #### Section III — Fixing the amount of aid for private storage in advance
 
-##### Article 45. Decisions on applications for aid for private storage fixed in advance[^key-3595e391184d306131f573e71266e2d5]
+##### Article 45. Decisions on applications for aid for private storage fixed in advance[^c-3595e391184d306131f573e71266e2d5]
 
-1. For products already in storage, an admissible application shall be deemed to have been accepted on the eighth working day following the date of receipt of that application, provided that the appropriate authority[^key-3de30a86eee3108df55fb9b100c3aa62] does not adopt a decision in accordance with paragraph 3 in the interim.
+1. For products already in storage, an admissible application shall be deemed to have been accepted on the eighth working day following the date of receipt of that application, provided that the appropriate authority[^c-3de30a86eee3108df55fb9b100c3aa62] does not adopt a decision in accordance with paragraph 3 in the interim.
 
 2. For products that are not already stored, decisions on acceptance of an admissible application shall be notified by the paying agency to the operator on the eighth working day following the date of receipt of that application, provided that the appropriate authority does not adopt a decision in accordance with paragraph 3 in the interim.
 
-3. Where an examination of the situation reveals that excessive use has been made of the aid for private storage scheme, or that there is a risk of excessive use or speculation, the appropriate authority may[^key-b6bbe23ff24b679e8a1d0a51f501cb74]... decide to:
+3. Where an examination of the situation reveals that excessive use has been made of the aid for private storage scheme, or that there is a risk of excessive use or speculation, the appropriate authority may[^c-b6bbe23ff24b679e8a1d0a51f501cb74]... decide to:
 
 - (a) suspend the application of the scheme for not more than five working days; applications submitted during that period shall not be accepted;
 - (b) set a single percentage by which the quantities in the applications are reduced, subject to observance of the minimum contractual quantity where appropriate;
@@ -1016,7 +1016,7 @@ The paying agency shall notify operators of the outcome of their participation i
 
 By way of derogation from Article 2(6), an operator to whom point (b) of the first subparagraph applies may withdraw his application within 10 working days of the date of entry into force of the decision setting the percentage reduction.
 
-4.[^key-0a69eee7dcd6cc22d20a3e58e151fc1b]  This Article does not apply in relation to private storage aid schemes in Wales.
+4.[^c-0a69eee7dcd6cc22d20a3e58e151fc1b]  This Article does not apply in relation to private storage aid schemes in Wales.
 
 #### Section IV — Placing of products into private storage
 
@@ -1024,7 +1024,7 @@ By way of derogation from Article 2(6), an operator to whom point (b) of the fir
 
 Following receipt of the notification referred to in the second subparagraph of Article 44(3) or the notification of the decision referred to in Article 45(2), the operator shall notify the paying agency of the timeframe for the entry of products into storage, the name and address of each place of private storage and the corresponding quantities. The notification shall be provided to the paying agency at least five working days before the start of the placing lots into storage. The paying agency may decide to accept a shorter period than five working days.
 
-This Article does not apply in relation to private storage aid schemes in Wales.[^key-a6fe9f34d0caf58e87d9c4bc2f1db39f]
+This Article does not apply in relation to private storage aid schemes in Wales.[^c-a6fe9f34d0caf58e87d9c4bc2f1db39f]
 
 ##### Article 47. Placing into storage of products not yet in storage
 
@@ -1037,7 +1037,7 @@ This Article does not apply in relation to private storage aid schemes in Wales.
 
 3. Placing into storage shall be considered completed on the day on which the last individual lot of the quantity covered by the tender or application is placed in storage.
 
-4.[^key-a9db3699f7c2f36d087dfe2a38b13c78]  This Article does not apply in relation to private storage aid schemes in Wales.
+4.[^c-a9db3699f7c2f36d087dfe2a38b13c78]  This Article does not apply in relation to private storage aid schemes in Wales.
 
 ### CHAPTER II — Storage contracts
 
@@ -1050,15 +1050,15 @@ This Article does not apply in relation to private storage aid schemes in Wales.
 - (a) the date of the notification referred to in Article 44(3), or the date of receipt of an admissible application without prejudice to Article 45(1), for products already placed in storage;
 - (b) the date that placing into storage is considered completed in accordance with Article 47(3) for products which are not yet stored.
 
-2. The last day of the contractual storage period may be fixed in the published tendering procedure or the Regulations[^key-7cf17d2061c527461a6f5088d1f61edf] fixing the amount of aid for private storage in advance, as referred to in Article 39(1)(f).
+2. The last day of the contractual storage period may be fixed in the published tendering procedure or the Regulations[^c-7cf17d2061c527461a6f5088d1f61edf] fixing the amount of aid for private storage in advance, as referred to in Article 39(1)(f).
 
 By way of derogation from Article 3(4) of Council Regulation (EEC, Euratom) No 1182/71[^f00018], when the last day of the contractual storage period falls on Saturday, Sunday or a public holiday, the contractual storage period shall end with the expiry of the last hour of that day.
 
-3.[^key-5df2904fef025239301dff04e57254e2] This Article does not apply in relation to private storage aid schemes in Wales.
+3.[^c-5df2904fef025239301dff04e57254e2] This Article does not apply in relation to private storage aid schemes in Wales.
 
 ##### Article 49. Conclusion of contracts
 
-Where products are stored or will be stored in the United Kingdom, contracts shall be concluded between the paying agency[^key-c2c6f23f4ffa0e807b3aa223824d3d2d] and operators fulfilling the requirements laid down in Article 2 of Delegated Regulation (EU) 2016/1238 from whom a tender or application has been accepted.
+Where products are stored or will be stored in the United Kingdom, contracts shall be concluded between the paying agency[^c-c2c6f23f4ffa0e807b3aa223824d3d2d] and operators fulfilling the requirements laid down in Article 2 of Delegated Regulation (EU) 2016/1238 from whom a tender or application has been accepted.
 
 Contracts shall be concluded for the quantity actually placed in storage (the ‘contractual quantity’), which shall not exceed the quantity referred to the second paragraph of Article 44(3) in the case of tenders, or the quantity in the application in respect of products already in store, or the notification of the decision referred to in Article 45(2) in the case of applications for products not yet in store.
 
@@ -1066,7 +1066,7 @@ Where the quantity actually placed in storage is less than 95 % of the quantity 
 
 Contracts shall not be concluded where the eligibility of the products is not confirmed.
 
-This Article does not apply in relation to private storage aid schemes in Wales.[^key-15d011317a45194ffc47d8779b074db5]
+This Article does not apply in relation to private storage aid schemes in Wales.[^c-15d011317a45194ffc47d8779b074db5]
 
 ##### Article 50. Notification of conclusion of contracts
 
@@ -1080,10 +1080,10 @@ The date of conclusion of the contract shall be that on which the paying agency 
 
 The contract shall be construed as including, where appropriate, the elements provided for in Article 52, as well as those provided for in:
 
-- ((a)) the relevant provisions of the [^key-1ac49bb4ea1b5aa66a1893fec183decc]... tendering procedure and in the tender; or
-- ((b)) the relevant provisions of the [^key-28160d05a2542f81b1c0081d18dd6fd4]... Regulation fixing the amount of aid for private storage in advance and in the application.
+- ((a)) the relevant provisions of the [^c-1ac49bb4ea1b5aa66a1893fec183decc]... tendering procedure and in the tender; or
+- ((b)) the relevant provisions of the [^c-28160d05a2542f81b1c0081d18dd6fd4]... Regulation fixing the amount of aid for private storage in advance and in the application.
 
-This Article does not apply in relation to private storage aid schemes in Wales.[^key-70efa0464a00ef8067a7cd7f8dfc5811]
+This Article does not apply in relation to private storage aid schemes in Wales.[^c-70efa0464a00ef8067a7cd7f8dfc5811]
 
 ##### Article 52. Obligations of the operator
 
@@ -1102,12 +1102,12 @@ This Article does not apply in relation to private storage aid schemes in Wales.
 - ((i)) for cheeses benefiting from a protected designation of origin (PDO) or from a protected geographical indication (PGI), where the operator submits a reasoned request;
 - ((ii)) for other products, in exceptional cases, where the operator submits a reasoned request.
 
-2A.[^key-fa19e8540d007f7104ff28b76f33fc68] In relation to private storage aid schemes in England, paragraph 2 is to be read as if—
+2A.[^c-fa19e8540d007f7104ff28b76f33fc68] In relation to private storage aid schemes in England, paragraph 2 is to be read as if—
 
 - (a) point (i) were omitted;
 - (b) in point (ii), “for other products” were omitted.
 
-2B.[^key-bcc9d3b7ed9624a3fb8704050019b148] In relation to private storage aid schemes in Scotland, paragraph 2 is to be read as if—
+2B.[^c-bcc9d3b7ed9624a3fb8704050019b148] In relation to private storage aid schemes in Scotland, paragraph 2 is to be read as if—
 
 - (a) point (i) were omitted;
 - (b) in point (ii), “for other products” were omitted.
@@ -1116,7 +1116,7 @@ This Article does not apply in relation to private storage aid schemes in Wales.
 
 4. The operator shall, on request, make available to the paying agency responsible for checking all documentation, for each contract, allowing in particular the following information on the products placed in storage to be verified:
 
-- (a) the number identifying the approved undertaking [^key-32156d58238f8b872102cd04abaef67e]...;
+- (a) the number identifying the approved undertaking [^c-32156d58238f8b872102cd04abaef67e]...;
 - (b) the origin and the date of production of the products, or for sugar the marketing year of production, and for meat the day of slaughtering;
 - (c) the date of placing into storage;
 - (d) the weight and, in the case of meat, the number of cuts packaged;
@@ -1130,7 +1130,7 @@ This Article does not apply in relation to private storage aid schemes in Wales.
 - (c) the quantity of products in storage by lot/batch/vat/silo;
 - (d) the location of the products by storage lot/batch/vat/silo within the store.
 
-6.[^key-1b8aaefbe0ac37362fe52cb7fdc1e8b8]  This Article does not apply in relation to private storage aid schemes in Wales.
+6.[^c-1b8aaefbe0ac37362fe52cb7fdc1e8b8]  This Article does not apply in relation to private storage aid schemes in Wales.
 
 ### CHAPTER III — Removal of products and payment of aid for private storage
 
@@ -1138,17 +1138,17 @@ This Article does not apply in relation to private storage aid schemes in Wales.
 
 ##### Article 53. Removal from storage
 
-1. Removal from storage may start on the day following the last day of the contractual storage period or, as the case may be, from the date specified in the published tendering procedure or the Regulations[^key-7d9c69281ab8c34971a4497a6a0fa260] fixing the amount of aid for private storage in advance.
+1. Removal from storage may start on the day following the last day of the contractual storage period or, as the case may be, from the date specified in the published tendering procedure or the Regulations[^c-7d9c69281ab8c34971a4497a6a0fa260] fixing the amount of aid for private storage in advance.
 
 2. Removal from storage shall be in whole storage lots unless the paying agency authorises removal in smaller quantities.
 
 However, in the case of sealed products as referred to in Article 60, only a sealed quantity may be removed from store.
 
-3. Where in the published tendering procedure or the Regulations[^key-f41a59e525d330f301bba1299c06321e] fixing the amount of aid for private storage in advance, the contractual storage period is specified as being between a period of days, the operator shall notify the paying agency of the intention to begin removing products from storage, indicating the storage lots/batches/vats/silos involved, at least five working days before the start of removal operations.
+3. Where in the published tendering procedure or the Regulations[^c-f41a59e525d330f301bba1299c06321e] fixing the amount of aid for private storage in advance, the contractual storage period is specified as being between a period of days, the operator shall notify the paying agency of the intention to begin removing products from storage, indicating the storage lots/batches/vats/silos involved, at least five working days before the start of removal operations.
 
 The paying agency may decide to accept a shorter period than five working days.
 
-4.[^key-cffa0a37ca32700234562c15ab719589]  This Article does not apply in relation to private storage aid schemes in Wales.
+4.[^c-cffa0a37ca32700234562c15ab719589]  This Article does not apply in relation to private storage aid schemes in Wales.
 
 #### Section II — Payment
 
@@ -1156,7 +1156,7 @@ The paying agency may decide to accept a shorter period than five working days.
 
 The operator shall lodge an application for payment within three months of the end of the contractual storage period.
 
-This Article does not apply in relation to private storage aid schemes in Wales.[^key-71276ab6d67d79ea765fef64901a2563]
+This Article does not apply in relation to private storage aid schemes in Wales.[^c-71276ab6d67d79ea765fef64901a2563]
 
 ##### Article 55. Payment of aid for private storage
 
@@ -1164,7 +1164,7 @@ Payment of the aid shall be made not later than 120 days following the date on w
 
 However, if an administrative inquiry is under way, payment shall not be made until entitlement has been recognised.
 
-This Article does not apply in relation to private storage aid schemes in Wales.[^key-ba26e02c34a275e32783265f23802393]
+This Article does not apply in relation to private storage aid schemes in Wales.[^c-ba26e02c34a275e32783265f23802393]
 
 ## TITLE IV — CHECKS AND PENALTIES
 
@@ -1172,7 +1172,7 @@ This Article does not apply in relation to private storage aid schemes in Wales.
 
 #### Article 56. General provisions on checks relating to public intervention and aid for private storage
 
-1. Paying agencies shall take all necessary measures to ensure compliance with the requirements relating to public intervention and the granting of aid for private storage laid down in Delegated Regulation (EU) 2016/1238, this Regulation , and the tendering procedures and the Regulations[^key-90e7582d445a4d9c7f922abb8c2fc53b] referred to in Article 1(2)(a) and (b) of this Regulation.
+1. Paying agencies shall take all necessary measures to ensure compliance with the requirements relating to public intervention and the granting of aid for private storage laid down in Delegated Regulation (EU) 2016/1238, this Regulation , and the tendering procedures and the Regulations[^c-90e7582d445a4d9c7f922abb8c2fc53b] referred to in Article 1(2)(a) and (b) of this Regulation.
 
 The measures shall include full administrative checking of offers and tenders for public intervention and tenders and applications for aid for private storage, which shall be supplemented by on-the-spot documentary and physical checks as specified in this Title.
 
@@ -1180,27 +1180,27 @@ The measures shall include full administrative checking of offers and tenders fo
 
 3. Physical samples taken for the purposes of verifying the quality and composition of products for public intervention and aid for private storage shall be taken by the officials of the paying agency or in their presence.
 
-4. For the purposes of the audit trail, all stock and financial records and documents checked by the paying agency shall be stamped or initialled during the control visit. Where computer records are verified, a record of the check undertaken shall be included in the inspection file, either in paper or in electronic form. Such records shall be made available to the appropriate authority[^key-aa4043b76d9702a762b10861dffdc6bf] on request.
+4. For the purposes of the audit trail, all stock and financial records and documents checked by the paying agency shall be stamped or initialled during the control visit. Where computer records are verified, a record of the check undertaken shall be included in the inspection file, either in paper or in electronic form. Such records shall be made available to the appropriate authority[^c-aa4043b76d9702a762b10861dffdc6bf] on request.
 
-5.[^key-2873a25994204754f3bfc17ea08bd41c] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+5.[^c-2873a25994204754f3bfc17ea08bd41c] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-6.[^key-a38214edd38dca9281370d2a484d5703] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+6.[^c-a38214edd38dca9281370d2a484d5703] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-7.[^key-1dc6feaa1049ab40541deeea33a87ab2]  This Article does not apply in relation to public intervention schemes or private storage aid schemes in Wales.
+7.[^c-1dc6feaa1049ab40541deeea33a87ab2]  This Article does not apply in relation to public intervention schemes or private storage aid schemes in Wales.
 
 #### Article 57. Specific provisions on checks relating to public intervention
 
 1. Without prejudice to the checks required by this Regulation for the takeover of products, the checks of the intervention stocks shall be carried out in accordance with Article 3 of Delegated Regulation (EU) No 907/2014.
 
-2.[^key-5f8d691452507e5bc6805ae0b29855a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+2.[^c-5f8d691452507e5bc6805ae0b29855a5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 3. For beef, the checks shall be carried out in accordance with Parts I and III of Annex III.
 
-4.[^key-b989ea6b36cb0cc4ee118daa80a209d2] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+4.[^c-b989ea6b36cb0cc4ee118daa80a209d2] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-5.[^key-e100a6b3011ed1d3befed729007f7410] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+5.[^c-e100a6b3011ed1d3befed729007f7410] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-6.[^key-8c7e23822eb5c0cbfa8332bb74a88f97]  This Article does not apply in relation to public intervention schemes in Wales.
+6.[^c-8c7e23822eb5c0cbfa8332bb74a88f97]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Article 58. Specific provisions on checks relating to public intervention for cereals and rice
 
@@ -1214,17 +1214,17 @@ Where the 5 % tolerance is exceeded, the cereals or rice shall be weighed forthw
 
 2. Where the level of contaminants in cereals is to be checked on the basis of the risk analysis referred to in point 3 of Part I of Annex I to Delegated Regulation (EU) 2016/1238, the paying agency shall be liable for the financial consequences of any failure to comply with the maximum contaminant levels in accordance with the rules set out in Article 3(6) of Delegated Regulation (EU) No 907/2014.
 
-[^key-ab790f2e9f7f68f050fe01d0fecadf63]...
+[^c-ab790f2e9f7f68f050fe01d0fecadf63]...
 
-3.[^key-2e4467ae3e387a2aa512aa32893ca639] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-2e4467ae3e387a2aa512aa32893ca639] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-fdd6da2b2bd7aa6df6dc29b07563c15e] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-fdd6da2b2bd7aa6df6dc29b07563c15e] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-ec75b658977835811b7fc06f509556ee]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-ec75b658977835811b7fc06f509556ee]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Article 59. Specific provisions for the takeover in storage place of the storekeeper for cereals and rice
 
-1. If the takeover of cereals or rice takes place at the storage place where the products are held at the time the offer or tender is submitted, the quantity taken over shall be established on the basis of the store register, which shall fulfil professional standards which allow to guarantee compliance with [^key-7b3567f960cad85bfa62ad29bc03f937]... legislation, in particular with Annex III to Delegated Regulation (EU) No 907/2014, and provided that:
+1. If the takeover of cereals or rice takes place at the storage place where the products are held at the time the offer or tender is submitted, the quantity taken over shall be established on the basis of the store register, which shall fulfil professional standards which allow to guarantee compliance with [^c-7b3567f960cad85bfa62ad29bc03f937]... legislation, in particular with Annex III to Delegated Regulation (EU) No 907/2014, and provided that:
 
 - (a) the store register shows:
   - ((i)) the weight recorded on weighing carried out within a period of no more than 10 months before the takeover;
@@ -1239,13 +1239,13 @@ Within 30 days of takeover the paying agency shall make a volumetric check. Any 
 
 Where the 5 % tolerance is not exceeded, the storekeeper shall bear all costs relating to any difference observed, at a later weight check, from the weight entered in the accounts on takeover.
 
-Where the 5 % tolerance is exceeded, the cereals or rice shall be weighed forthwith. Where the weight determined is less than that recorded, account being taken of the tolerance limits provided for in point 1 of Annex IV to Delegated Regulation (EU) No 907/2014, the costs of weighing shall be borne by the storekeeper. Otherwise, the costs of weighing shall be borne by the appropriate authority[^key-2eb429234d2bf7d796072e58d933e1cf].
+Where the 5 % tolerance is exceeded, the cereals or rice shall be weighed forthwith. Where the weight determined is less than that recorded, account being taken of the tolerance limits provided for in point 1 of Annex IV to Delegated Regulation (EU) No 907/2014, the costs of weighing shall be borne by the storekeeper. Otherwise, the costs of weighing shall be borne by the appropriate authority[^c-2eb429234d2bf7d796072e58d933e1cf].
 
-3.[^key-38ca45997fc4f77e82bddc8896d1ca2d] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+3.[^c-38ca45997fc4f77e82bddc8896d1ca2d] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-4.[^key-f0cad1b21a0a36ba513fd84062d199e1] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+4.[^c-f0cad1b21a0a36ba513fd84062d199e1] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-5.[^key-63b7bdf2f2d7b3c60709eb33dc88c639]  This Article does not apply in relation to public intervention schemes in Wales.
+5.[^c-63b7bdf2f2d7b3c60709eb33dc88c639]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Article 60. Specific provisions on checks relating to aid for private storage
 
@@ -1259,48 +1259,48 @@ In duly justified circumstances, the paying agency may extend the period referre
 
 In the case of cheese, physical checks shall be undertaken on all lots in order to verify the contractual quantity.
 
-2A.[^key-afd370f5f4ee6332c9d60a85c0f9112d] In relation to England, the first subparagraph of paragraph 2 is to be read as if for “5%”, in both places it appears, there were substituted “10%”.
+2A.[^c-afd370f5f4ee6332c9d60a85c0f9112d] In relation to England, the first subparagraph of paragraph 2 is to be read as if for “5%”, in both places it appears, there were substituted “10%”.
 
-2B.[^key-0326a22f201ac85696ba559e3de619d0] In relation to Scotland, the first subparagraph of paragraph 2 is to be read as if for “5%”, in both places it appears, there were substituted “10%”.
+2B.[^c-0326a22f201ac85696ba559e3de619d0] In relation to Scotland, the first subparagraph of paragraph 2 is to be read as if for “5%”, in both places it appears, there were substituted “10%”.
 
 3. During the storage period, the paying agency shall also undertake unannounced on-the-spot checks to ensure the presence and identity of the contractual quantity in the place of private storage, and that sugar stored in bulk is present in the silo designated by the operator. The check shall be undertaken on the basis of a random statistical sample of at least 5 % of the lots covering at least 5 % of the total quantities for which contracts have been concluded. This sample shall not include more than 25 % of lots already checked in accordance with paragraph 2, unless it would not be possible to conduct the on-the-spot check of at least 5 % of the lots covering at least 5 % of the total quantities for which contracts have been concluded.
 
 The unannounced check referred in the first subparagraph shall not be necessary where the paying agency, with the agreement of the operator, has sealed the products in such a way that the contractual quantities cannot be removed from the place of storage without breaking seal.
 
-3A.[^key-d712a3dc9afa91de86839f590bceab71] Paragraph 3 does not apply in relation to England.
+3A.[^c-d712a3dc9afa91de86839f590bceab71] Paragraph 3 does not apply in relation to England.
 
-3B.[^key-32428b89b6c8c449a6b1a516e6793525] Paragraph 3 does not apply in relation to Scotland.
+3B.[^c-32428b89b6c8c449a6b1a516e6793525] Paragraph 3 does not apply in relation to Scotland.
 
 4. At the end of the contractual storage period, or before the start of the removal of products where Article 53(3) applies, the paying agency shall undertake on-the-spot checks to verify that the contractual commitment has been met based on a documentary check of the store register and supporting documents, as well as a verification of the presence of the lots and the identity of the products in the place of private storage.
 
 In addition to the checks referred to in the first subparagraph, a representative statistical sample of at least 5 % of the lots covering at least 5 % of the total quantities for which contracts have been concluded shall be physically checked to verify the quantity, type, packaging and marking and identity of the products in the place of private storage.
 
-4A.[^key-b2b43d8089cdc70af5b3097238d2e103] In relation to England, the second subparagraph of paragraph 4 is to be read as if, for “5%”, in both places it appears, there were substituted “10%”.
+4A.[^c-b2b43d8089cdc70af5b3097238d2e103] In relation to England, the second subparagraph of paragraph 4 is to be read as if, for “5%”, in both places it appears, there were substituted “10%”.
 
-4B.[^key-1aa927e00834e67da60b778392fe539a] In relation to Scotland, the second subparagraph of paragraph 4 is to be read as if, for “5%”, in both places it appears, there were substituted “10%”.
+4B.[^c-1aa927e00834e67da60b778392fe539a] In relation to Scotland, the second subparagraph of paragraph 4 is to be read as if, for “5%”, in both places it appears, there were substituted “10%”.
 
 5. Where the paying agency, with the agreement of the operator, has sealed the products in such a way that the stored quantity cannot be removed from the individual lot without breaking seal, the checks referred to in paragraphs 3 and 4 may be limited to verifying the presence and integrity of the seals.
 
-6.[^key-56fa37d2378409a821b211c6acb82e45] In relation to England, paragraph 5 is to be read as if for “paragraphs 3 and” there were substituted “paragraph”.
+6.[^c-56fa37d2378409a821b211c6acb82e45] In relation to England, paragraph 5 is to be read as if for “paragraphs 3 and” there were substituted “paragraph”.
 
-7.[^key-abdf43b9d9a8411085b5466917de9abc] In relation to Scotland, paragraph 5 is to be read as if for “paragraphs 3 and” there were substituted “paragraph”.
+7.[^c-abdf43b9d9a8411085b5466917de9abc] In relation to Scotland, paragraph 5 is to be read as if for “paragraphs 3 and” there were substituted “paragraph”.
 
-8.[^key-58e64e7252da69965f6354202d073d4a] This Article does not apply in relation to private storage aid schemes in Wales.
+8.[^c-58e64e7252da69965f6354202d073d4a] This Article does not apply in relation to private storage aid schemes in Wales.
 
 #### Article 60a. Specific provision on checks relating to public intervention and aid for private storage for milk and milk products[^c000003]
 
 1. The eligibility of butter, skimmed milk powder and cheese to receive aid for private storage shall be established in accordance with the methods laid down in Annexes VI, VII and VIII respectively.
 
-Those methods shall be established by reference to the latest versions of the relevant domestic[^key-acd38efad8b52ed8c1f7481328a1f5a6] or international standards, as the case may be, in force at least 6 months before the first day of the public intervention period as defined in Article 12 of Regulation (EU) No 1308/2013.
+Those methods shall be established by reference to the latest versions of the relevant domestic[^c-acd38efad8b52ed8c1f7481328a1f5a6] or international standards, as the case may be, in force at least 6 months before the first day of the public intervention period as defined in Article 12 of Regulation (EU) No 1308/2013.
 
 2. The results of the checks conducted by applying the methods set out in this Regulation shall be evaluated in accordance with Annex IX.
 
-3.[^key-f632d361aa1c729321a526f0a5d1cff8] In relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020, or in relation to private storage aid schemes in England, this Article is to be read as if—
+3.[^c-f632d361aa1c729321a526f0a5d1cff8] In relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020, or in relation to private storage aid schemes in England, this Article is to be read as if—
 
 - (a) in the heading, “public intervention and” were omitted;
 - (b) in paragraph 1, in the second subparagraph, the words from “, in force” to the end were omitted.
 
-4.[^key-4b1dce020be867af595b5eceacf38767] In relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023, this Article is to be read as if—
+4.[^c-4b1dce020be867af595b5eceacf38767] In relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023, this Article is to be read as if—
 
 - (a) in the heading, “public intervention and” were omitted,
 - (b) in paragraph 1, in the second subparagraph, the words from “n force” to the end were omitted.
@@ -1310,7 +1310,7 @@ Those methods shall be established by reference to the latest versions of the re
 - (a) in the heading, “public intervention and” were omitted,
 - (b) in paragraph 1, in the second subparagraph, the words from “n force” to the end were omitted.
 
-6.[^key-9b76258fc1a182298128e411b21786a2] This Article does not apply in relation to public intervention schemes or private storage aid schemes in Wales.
+6.[^c-9b76258fc1a182298128e411b21786a2] This Article does not apply in relation to public intervention schemes or private storage aid schemes in Wales.
 
 #### Article 61. Reporting of checks
 
@@ -1330,21 +1330,21 @@ The report shall be signed by the responsible paying agency official and either 
 
 3. The paying agency shall record any cases of non-compliance on the basis of the criteria of gravity, extent, duration and repetition that may result in exclusion in accordance with Article 62(1), or in the repayment of unduly paid, aid for private storage, including interest where applicable, in accordance with Article 62(4).
 
-4.[^key-69c4a45a09b684f3248ac7783b15f514]  This Article does not apply in relation to private storage aid schemes in Wales.
+4.[^c-69c4a45a09b684f3248ac7783b15f514]  This Article does not apply in relation to private storage aid schemes in Wales.
 
 ### CHAPTER II — Penalties and administrative measures
 
 #### Article 62. Penalties and administrative measures in relation to aid for private storage
 
-1. Where the paying agency finds that a document presented by an operator, which is required under Delegated Regulation (EU) 2016/1238, this Regulation , or a published tendering procedure or the Regulations[^key-278bac83aa26b200509d35d99b6223c5] referred to in Article 1(2)(b) of this Regulation, provides incorrect information, and where the incorrect information concerned is decisive for the granting of aid for private storage, the paying agency shall exclude the operator from the procedure of granting aid for the product for which the incorrect information has been given for a period of one year from the date of adoption of a final administrative decision establishing the irregularity.
+1. Where the paying agency finds that a document presented by an operator, which is required under Delegated Regulation (EU) 2016/1238, this Regulation , or a published tendering procedure or the Regulations[^c-278bac83aa26b200509d35d99b6223c5] referred to in Article 1(2)(b) of this Regulation, provides incorrect information, and where the incorrect information concerned is decisive for the granting of aid for private storage, the paying agency shall exclude the operator from the procedure of granting aid for the product for which the incorrect information has been given for a period of one year from the date of adoption of a final administrative decision establishing the irregularity.
 
 2. The exclusion provided for in paragraph 1 shall not apply if the operator proves, to the satisfaction of the paying agency, that the situation referred to in that paragraph is due to force majeure or obvious error.
 
 3. Unduly paid aid shall be recovered, with interest, from the operators concerned. The rules laid down in Article 27 of Implementing Regulation (EU) No 908/2014 shall apply mutatis mutandis.
 
-4.[^key-531aea636f81e476db0cc96d54b6a112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+4.[^c-531aea636f81e476db0cc96d54b6a112] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-5.[^key-678a3289a3fcffb5e36e1d2cdc228f9e] This Article does not apply in relation to private storage aid schemes in Wales.
+5.[^c-678a3289a3fcffb5e36e1d2cdc228f9e] This Article does not apply in relation to private storage aid schemes in Wales.
 
 ## TITLE V — NOTIFICATIONS AND FINAL PROVISIONS
 
@@ -1352,11 +1352,11 @@ The report shall be signed by the responsible paying agency official and either 
 
 #### Section I — General provisions on notifications
 
-##### Article 63. Method of notification[^key-b85b9c969712568e3718b14c17a7b6ce]
+##### Article 63. Method of notification[^c-b85b9c969712568e3718b14c17a7b6ce]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-##### Article 64. Notifications concerning the paying agency[^key-2c55b6f41020cf26f2b8344fe60cd702]
+##### Article 64. Notifications concerning the paying agency[^c-2c55b6f41020cf26f2b8344fe60cd702]
 
 The appropriate authority shall make available to the public details of the approved paying agency, including by way of publication on the internet.
 
@@ -1364,7 +1364,7 @@ The appropriate authority shall make available to the public details of the appr
 
 ##### Article 65. Notifications of information on intervention stocks
 
-1. Where the paying agency holds intervention stocks, it shall notify the appropriate authority[^key-bec742cc413389b2a0f3a70a9dd61822], not later than the 15th of each month, of the following items:
+1. Where the paying agency holds intervention stocks, it shall notify the appropriate authority[^c-bec742cc413389b2a0f3a70a9dd61822], not later than the 15th of each month, of the following items:
 
 - (a) for cereals and rice:
   - ((i)) the quantities stored from the beginning of the marketing year;
@@ -1374,20 +1374,20 @@ The appropriate authority shall make available to the public details of the appr
   - ((v)) the quantities under offer at the end of the monthly reporting period;
 - (b) for butter and skimmed-milk powder:
   - ((i)) the quantities for each product in storage at the end of the previous month and the quantities entering and leaving the storage places during that month;
-  - ((ii)) a breakdown of the quantities of each product leaving the storage places during the previous month, according to the published[^key-e12347eb02123740d46112279d43ee50] tendering procedure for the sale of the products concerned;
+  - ((ii)) a breakdown of the quantities of each product leaving the storage places during the previous month, according to the published[^c-e12347eb02123740d46112279d43ee50] tendering procedure for the sale of the products concerned;
   - ((iii)) a breakdown by age of the quantities in storage at the end of the previous month;
 - (c) for beef:
   - ((i)) the quantities for each product in storage at the end of the previous month and the quantities entering and leaving the storage places during that month;
-  - ((ii)) a breakdown of the quantities of each product leaving the storage places during the previous month, according to the published[^key-4485fa638d00e161b44c46d291ffdb01] tendering procedure for the sale of the products concerned;
+  - ((ii)) a breakdown of the quantities of each product leaving the storage places during the previous month, according to the published[^c-4485fa638d00e161b44c46d291ffdb01] tendering procedure for the sale of the products concerned;
   - ((iii)) the quantities of each cut covered by contracts of sale concluded in the previous month;
   - ((iv)) the quantities of each cut covered by removal orders issued in the previous month;
   - ((v)) the quantities of each cut bought in during the previous month;
   - ((vi)) the uncommitted stocks and the physical stocks of each cut at the end of the previous month, with details of the length of time the uncommitted stocks have been in storage;
 - (d) for all products:
   - ((i)) the opening of a tendering procedure, the quantities awarded and the minimum sale prices fixed in the case of application of Article 36;
-  - ((ii)) [^key-619cf60e3ef2cd836d055a6aa057eb05]...
+  - ((ii)) [^c-619cf60e3ef2cd836d055a6aa057eb05]...
 
-(2) The appropriate authority[^key-e10d070daa1a6a9d5026f70583e8286e] may request that notifications provided for in paragraph 1 be made with an increased frequency where that is necessary for the purposes of the efficient management of the intervention system.
+(2) The appropriate authority[^c-e10d070daa1a6a9d5026f70583e8286e] may request that notifications provided for in paragraph 1 be made with an increased frequency where that is necessary for the purposes of the efficient management of the intervention system.
 
 3. For the purposes of point (b) of paragraph 1:
 
@@ -1399,15 +1399,15 @@ The appropriate authority shall make available to the public details of the appr
 - (a) ‘uncommitted stocks’ means stocks not yet covered by a contract of sale;
 - (b) ‘physical stocks’ means uncommitted stocks plus stocks covered by a contract of sale but not yet taken over.
 
-5.[^key-362b69e2932266a04ac7794f61c30f6f] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
+5.[^c-362b69e2932266a04ac7794f61c30f6f] This Article does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-6.[^key-fb9fe4ab7edbddf7b2e6b3be08880482] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
+6.[^c-fb9fe4ab7edbddf7b2e6b3be08880482] This Article ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-7.[^key-c26643346f6db767d5ca406a861b5b84]  This Article does not apply in relation to public intervention schemes in Wales.
+7.[^c-c26643346f6db767d5ca406a861b5b84]  This Article does not apply in relation to public intervention schemes in Wales.
 
 #### Section III — Notifications as regards aid for private storage
 
-##### Article 66. Notification of information on private storage[^key-d08d4201f9d7468d2b7d24bb9dda73e2]
+##### Article 66. Notification of information on private storage[^c-d08d4201f9d7468d2b7d24bb9dda73e2]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -1419,19 +1419,19 @@ This Regulation shall enter into force on the seventh day following that of its 
 
 It shall apply as from 1 October 2016. However, as regards buying-in to public intervention, Tables III and IV of Part V and Point (b) of Part VI of Annex I shall apply as of 1 July 2017.
 
-[^key-79044f9203c7dfcf68584e9be281f4f0]....
+[^c-79044f9203c7dfcf68584e9be281f4f0]....
 
 ## ANNEX I — CEREALS
 
-A1.[^key-a5149b2650a499a71319adc3ee2027ef]
+A1.[^c-a5149b2650a499a71319adc3ee2027ef]
 
 This Annex does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-A2.[^key-a57b8e17eefadff7f742348c45b8cd25]
+A2.[^c-a57b8e17eefadff7f742348c45b8cd25]
 
 This Annex ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-A3[^key-dfc27665b852ef824d5712ac4b95bc1a]
+A3[^c-dfc27665b852ef824d5712ac4b95bc1a]
 
 This Annex does not apply in relation to public intervention schemes in Wales.
 
@@ -1457,7 +1457,7 @@ For maize, the definition of ‘broken grains’ is that contained in standard E
 
 *Shrivelled grains*
 
-For durum wheat, common wheat and barley, the definition of ‘shrivelled grains’ is that contained in standard EN 15587. [^key-b8f62c7957a55cd1340f83b77886cca9]...
+For durum wheat, common wheat and barley, the definition of ‘shrivelled grains’ is that contained in standard EN 15587. [^c-b8f62c7957a55cd1340f83b77886cca9]...
 
 ‘Shrivelled grains’ does not apply to maize.
 
@@ -2032,15 +2032,15 @@ The price adjustments provided for in Article 26(1) shall be expressed in euro p
 
 ## ANNEX II — RICE
 
-A1.[^key-385fd2a2df83123351c7c24e658077fc]
+A1.[^c-385fd2a2df83123351c7c24e658077fc]
 
 This Annex does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-A2.[^key-a0718069e317eb72433e8de13fc515aa]
+A2.[^c-a0718069e317eb72433e8de13fc515aa]
 
 This Annex ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-A3.[^key-f949f90996340c82ad540b79aa50ddf5]
+A3.[^c-f949f90996340c82ad540b79aa50ddf5]
 
 This Annex does not apply in relation to public intervention schemes in Wales.
 
@@ -2128,15 +2128,15 @@ The price increases and decreases shall apply on the basis of the weighted avera
 
 ## ANNEX III — BEEF
 
-A1.[^key-60fa8e21cbff0b9ddf5015ff8f0da699]
+A1.[^c-60fa8e21cbff0b9ddf5015ff8f0da699]
 
 This Annex does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-A2.[^key-f3c19a2e0e37a31a8a53ce693bf07852]
+A2.[^c-f3c19a2e0e37a31a8a53ce693bf07852]
 
 This Annex ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-3A.[^key-179e3d53263c60851b13b6eb5b982138]
+3A.[^c-179e3d53263c60851b13b6eb5b982138]
 
 This Annex does not apply in relation to public intervention schemes in Wales.
 
@@ -2218,7 +2218,7 @@ IV.
 
 **Storage of cuts**
 
-Cuts shall be stored in cold stores located in the United Kingdom.[^key-2af4a33d06604499a919a56358780959]
+Cuts shall be stored in cold stores located in the United Kingdom.[^c-2af4a33d06604499a919a56358780959]
 
 V.
 
@@ -2401,15 +2401,15 @@ PART V
 
 ## ANNEX IV — BUTTER
 
-A1.[^key-9d5e627b165c527949b31f4fdef9cd0c]
+A1.[^c-9d5e627b165c527949b31f4fdef9cd0c]
 
 This Annex does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-A2.[^key-1c6eaf4218bf4bdada9d70b3c5dc1390]
+A2.[^c-1c6eaf4218bf4bdada9d70b3c5dc1390]
 
 This Annex ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-A3.[^key-67387c69b81e9e210513813a04b4eea9]
+A3.[^c-67387c69b81e9e210513813a04b4eea9]
 
 This Annex does not apply in relation to public intervention schemes in Wales.
 
@@ -2527,7 +2527,7 @@ Butter shall be delivered in blocks and packed in new, strong material in such a
 
 The packing shall show at least the following particulars, where appropriate in code:
 
-- ((a)) the approval number identifying the factory and indicating that the butter was produced in the United Kingdom[^key-15de92c3069a0548c53472ce96d8532e];
+- ((a)) the approval number identifying the factory and indicating that the butter was produced in the United Kingdom[^c-15de92c3069a0548c53472ce96d8532e];
 - ((b)) the date of production;
 - ((c)) the production batch number and the package number; the package number may be replaced by a pallet number marked on the pallet;
 - ((d)) the words ‘sweet cream’ if the butter has a pH of 6,2 or higher.
@@ -2538,15 +2538,15 @@ The storekeeper shall keep a register in which the particulars referred to in po
 
 ## ANNEX V — SKIMMED MILK POWDER
 
-A1.[^key-c939254175d1d4bef3722047bcd03d15]
+A1.[^c-c939254175d1d4bef3722047bcd03d15]
 
 This Annex does not apply in relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020.
 
-A2.[^key-e22dcc5bb1b650bc67e4604ef3d184a8]
+A2.[^c-e22dcc5bb1b650bc67e4604ef3d184a8]
 
 This Annex ceases to apply in relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023.
 
-A3.[^key-87f4d924940085332bd0917446a0dfdd]
+A3.[^c-87f4d924940085332bd0917446a0dfdd]
 
  This Annex does not apply in relation to public intervention schemes in Wales.
 
@@ -3146,7 +3146,7 @@ SAMPLING
 
 7.1.
 
-Samples shall be taken in accordance with the procedure laid down in International Standard ISO 707. However, the appropriate authority[^key-30592ad32da35b36fcb2285bee2e87fd] may use another method of sampling provided that it complies with the principles of the abovementioned standard
+Samples shall be taken in accordance with the procedure laid down in International Standard ISO 707. However, the appropriate authority[^c-30592ad32da35b36fcb2285bee2e87fd] may use another method of sampling provided that it complies with the principles of the abovementioned standard
 
 7.2.
 
@@ -3579,7 +3579,7 @@ SAMPLING
 
 7.1.
 
-**Samples shall be taken in accordance with the procedure laid down in International Standard ISO 707. However, the appropriate authority[^key-b7ab7cb2540c6ebda82d94db83169b3a] may use another method of sampling provided that it complies with the principles of the abovementioned standard**
+**Samples shall be taken in accordance with the procedure laid down in International Standard ISO 707. However, the appropriate authority[^c-b7ab7cb2540c6ebda82d94db83169b3a] may use another method of sampling provided that it complies with the principles of the abovementioned standard**
 
 7.2.
 
@@ -3837,7 +3837,7 @@ Skimmed milk powder shall be packed in new, clean, dry and intact bags meeting t
 
 The bags shall show the following particulars, where appropriate in code:
 
-- ((a)) the approval number identifying the factory and indicating that the skimmed milk powder was produced in the United Kingdom[^key-b490eb3eec18209e3f8b25eeef7219c8];
+- ((a)) the approval number identifying the factory and indicating that the skimmed milk powder was produced in the United Kingdom[^c-b490eb3eec18209e3f8b25eeef7219c8];
 - ((b)) the date or, where appropriate, the week of production;
 - ((c)) the number of the production batch;
 - ((d)) the description ‘spray skimmed-milk powder’.
@@ -3848,7 +3848,7 @@ The storekeeper shall keep a register in which the particulars referred to in po
 
 ## ANNEX VI — Methods of analysis of butter under private storage
 
-This Annex does not apply in relation to private storage aid schemes in Wales.[^key-c96648b18a3c97459c42aac0fbb4c72d]
+This Annex does not apply in relation to private storage aid schemes in Wales.[^c-c96648b18a3c97459c42aac0fbb4c72d]
 
 <table>
 <tfoot>
@@ -3867,7 +3867,7 @@ This Annex does not apply in relation to private storage aid schemes in Wales.[^
 
 ## ANNEX VII — Methods of analysis of skimmed milk powder under private storage
 
-This Annex does not apply in relation to private storage aid schemes in Wales.[^key-10eb83554c0fcf7d2406d7f6c5cf86da]
+This Annex does not apply in relation to private storage aid schemes in Wales.[^c-10eb83554c0fcf7d2406d7f6c5cf86da]
 
 | Parameter | Method |
 | --- | --- |
@@ -3877,7 +3877,7 @@ This Annex does not apply in relation to private storage aid schemes in Wales.[^
 
 ## ANNEX VIII — Methods of analysis of cheeses under private storage
 
-This Annex does not apply in relation to private storage aid schemes in Wales.[^key-4d20630fd385437a1258778d25a438bf]
+This Annex does not apply in relation to private storage aid schemes in Wales.[^c-4d20630fd385437a1258778d25a438bf]
 
 1\.
 
@@ -4427,7 +4427,7 @@ If the manufacturer can prove, within five working days of sampling, that the sa
 
 **No longer in force (ended 2023-10-17).**
 
-[^key-7e86945f12c34937eb9b48f2e05df19a]Appendix
+[^c-7e86945f12c34937eb9b48f2e05df19a]Appendix
 
 **Evaluation of compliance of a consignment with the legal limit**
 
@@ -4439,9 +4439,9 @@ This Appendix does not apply in relation to public intervention schemes or priva
 
 Where public intervention and private storage legislation lay down detailed sampling procedures then those procedures shall be followed. In all other cases a sample of at least 3 sample units taken randomly from the consignment submitted to control shall be used. A composite sample may be prepared. The result obtained shall be compared with the legal limits by calculation of a 95 % confidence interval as 2 x standard deviation, where the relevant standard deviation depends on whether (1) the method is validated through international collaboration with values for σ<sub> r </sub> and σ<sub> R </sub> or (2) in the case of in-house validation, an internal reproducibility has been calculated. This confidence interval will then equate to the measurement uncertainty of the result.
 
-In relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020, or in relation to private storage aid schemes in England, this paragraph is to be read as if for “public intervention and private storage legislation lay” there were substituted[^key-ffd90601120ef22770d1be23b0d49e32] “private storage legislation lays”.
+In relation to public intervention schemes in England, otherwise than in connection with exceptional market conditions which are the subject of a declaration under section 20 of the Agriculture Act 2020, or in relation to private storage aid schemes in England, this paragraph is to be read as if for “public intervention and private storage legislation lay” there were substituted[^c-ffd90601120ef22770d1be23b0d49e32] “private storage legislation lays”.
 
-In relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023, this paragraph is to be read as if for “public intervention and private storage legislation lay” there were substituted[^key-2232c3b9880d83f8388454501dd3c1e2] “private storage legislation lays”.
+In relation to public intervention schemes in Scotland, otherwise than in connection with public intervention measures which the appropriate authority takes under Article 219(1) of Regulation (EU) No 1308/2013, for a period of five years beginning on 1 July 2023, this paragraph is to be read as if for “public intervention and private storage legislation lay” there were substituted[^c-2232c3b9880d83f8388454501dd3c1e2] “private storage legislation lays”.
 
 2\.
 
@@ -4487,13 +4487,13 @@ Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29�
 
 ## Annotations
 
-[^key-3c09de222d6158ea1a09a59d34e5f717]: Modification: Regulation: power to modify conferred (E.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 22](https://www.legislation.gov.uk/ukpga/2020/21/section/22), [57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
+[^c-3c09de222d6158ea1a09a59d34e5f717]: Modification: Regulation: power to modify conferred (E.) (11.11.2020 for specified purposes, 11.1.2021 in so far as not already in force) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [ss. 22](https://www.legislation.gov.uk/ukpga/2020/21/section/22), [57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b)
 
-[^key-2c17d93a7e495341b38df2b9a35d8d32]: Modification: Regulation: power to modify conferred (N.I.) (11.11.2020 for specified purposes) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/21/schedule/6/paragraph/9)
+[^c-2c17d93a7e495341b38df2b9a35d8d32]: Modification: Regulation: power to modify conferred (N.I.) (11.11.2020 for specified purposes) by [Agriculture Act 2020 (c. 21)](https://www.legislation.gov.uk/ukpga/2020/21), [s. 57(1)(b)(c)(6)](https://www.legislation.gov.uk/ukpga/2020/21/section/57/1/b), [Sch. 6 para. 9](https://www.legislation.gov.uk/ukpga/2020/21/schedule/6/paragraph/9)
 
-[^key-77fc136a07b05ee93f8796ae11857bf7]: Modification: Regulations applied (with modifications) (S.) (8.11.2021) by [The Private Storage Aid Scheme (Pigmeat) (Scotland) Regulations 2021 (S.S.I. 2021/398)](https://www.legislation.gov.uk/ssi/2021/398), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1), [3(7)](https://www.legislation.gov.uk/ssi/2021/398/regulation/3/7), [6](https://www.legislation.gov.uk/ssi/2021/398/regulation/6) (with [reg. 5](https://www.legislation.gov.uk/ssi/2021/398/regulation/5))
+[^c-77fc136a07b05ee93f8796ae11857bf7]: Modification: Regulations applied (with modifications) (S.) (8.11.2021) by [The Private Storage Aid Scheme (Pigmeat) (Scotland) Regulations 2021 (S.S.I. 2021/398)](https://www.legislation.gov.uk/ssi/2021/398), [regs. 1(1)](https://www.legislation.gov.uk/ssi/2021/398/regulation/1/1), [3(7)](https://www.legislation.gov.uk/ssi/2021/398/regulation/3/7), [6](https://www.legislation.gov.uk/ssi/2021/398/regulation/6) (with [reg. 5](https://www.legislation.gov.uk/ssi/2021/398/regulation/5))
 
-[^key-727124e51dfa8683a96e357e215a924c]: Modification: Regulation: power to modify conferred (W.) (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 23](https://www.legislation.gov.uk/asc/2023/4/section/23), [56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4); [S.I. 2023/1092](https://www.legislation.gov.uk/uksi/2023/1092), [art. 2(a)](https://www.legislation.gov.uk/uksi/2023/1092/article/2/a)
+[^c-727124e51dfa8683a96e357e215a924c]: Modification: Regulation: power to modify conferred (W.) (17.10.2023) by [Agriculture (Wales) Act 2023 (asc 4)](https://www.legislation.gov.uk/asc/2023/4), [ss. 23](https://www.legislation.gov.uk/asc/2023/4/section/23), [56(4)](https://www.legislation.gov.uk/asc/2023/4/section/56/4); [S.I. 2023/1092](https://www.legislation.gov.uk/uksi/2023/1092), [art. 2(a)](https://www.legislation.gov.uk/uksi/2023/1092/article/2/a)
 
 [^f00001]: Footnote: [OJ L 347, 20.12.2013, p. 671](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.347.01.0671.01.ENG).
 
@@ -4521,539 +4521,539 @@ Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29�
 
 [^f00013]: Footnote: Commission Implementing Regulation (EU) No 908/2014 of 6 August 2014 laying down rules for the application of Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to paying agencies and other bodies, financial management, clearance of accounts, rules on checks, securities and transparency ([OJ L 255, 28.8.2014, p. 59](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.255.01.0059.01.ENG)).
 
-[^key-0353ba91ab7343119c5c3767177bf7cd]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eur/2016/1240/article/1/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0353ba91ab7343119c5c3767177bf7cd]: Textual amendment: [Art. 1(2)](https://www.legislation.gov.uk/eur/2016/1240/article/1/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab8ac61a1c5a60d82174580ba39b2552]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/eur/2016/1240/article/1A) inserted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab8ac61a1c5a60d82174580ba39b2552]: Textual amendment: [Art. 1A](https://www.legislation.gov.uk/eur/2016/1240/article/1A) inserted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7ab9355d832bf013a59b1055c64ab743]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eur/2016/1240/article/2/1) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7ab9355d832bf013a59b1055c64ab743]: Textual amendment: Words in [Art. 2(1)](https://www.legislation.gov.uk/eur/2016/1240/article/2/1) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(4)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/4/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-56f692e8598ff784f4a9f636bb0dc0a4]: Textual amendment: Words in [Art. 2(2)](https://www.legislation.gov.uk/eur/2016/1240/article/2/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-56f692e8598ff784f4a9f636bb0dc0a4]: Textual amendment: Words in [Art. 2(2)](https://www.legislation.gov.uk/eur/2016/1240/article/2/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(4)(b)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/4/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c70b46fee92e4ed87058b2041b63a424]: Textual amendment: Words in [Art. 2(2)(a)](https://www.legislation.gov.uk/eur/2016/1240/article/2/2/a) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c70b46fee92e4ed87058b2041b63a424]: Textual amendment: Words in [Art. 2(2)(a)](https://www.legislation.gov.uk/eur/2016/1240/article/2/2/a) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/4/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f688d963e981200614f7f66bc2b7bc3a]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eur/2016/1240/article/2/3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(4)(c)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f688d963e981200614f7f66bc2b7bc3a]: Textual amendment: Words in [Art. 2(3)](https://www.legislation.gov.uk/eur/2016/1240/article/2/3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(4)(c)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/4/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a675ceff4c912147467a706d064f0d8c]: Textual amendment: [Art. 2(9)](https://www.legislation.gov.uk/eur/2016/1240/article/2/9) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(2)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-a675ceff4c912147467a706d064f0d8c]: Textual amendment: [Art. 2(9)](https://www.legislation.gov.uk/eur/2016/1240/article/2/9) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(2)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-c5adc580aaeb3b1f81ab22d835b02441]: Textual amendment: Art. 2(10) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-c5adc580aaeb3b1f81ab22d835b02441]: Textual amendment: Art. 2(10) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(2)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/2) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-dff7208a0b645a21346901641db7266b]: Textual amendment: [Art. 2(11)](https://www.legislation.gov.uk/eur/2016/1240/article/2/11) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/2)
+[^c-dff7208a0b645a21346901641db7266b]: Textual amendment: [Art. 2(11)](https://www.legislation.gov.uk/eur/2016/1240/article/2/11) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/2)
 
-[^key-13e11e121f137fa55ca7e77e6963193e]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2016/1240/article/3/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-13e11e121f137fa55ca7e77e6963193e]: Textual amendment: Words in [Art. 3(1)](https://www.legislation.gov.uk/eur/2016/1240/article/3/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(5)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/5); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-398d410a0f6728075e7d24432a703fea]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/eur/2016/1240/article/3/4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-398d410a0f6728075e7d24432a703fea]: Textual amendment: [Art. 3(4)](https://www.legislation.gov.uk/eur/2016/1240/article/3/4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-7fe0281f67b96db78601a4dde20fcbec]: Textual amendment: Art. 3(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-7fe0281f67b96db78601a4dde20fcbec]: Textual amendment: Art. 3(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-ddd69d488583fc97d90d8aad59b00ce9]: Textual amendment: [Art. 3(6)](https://www.legislation.gov.uk/eur/2016/1240/article/3/6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
+[^c-ddd69d488583fc97d90d8aad59b00ce9]: Textual amendment: [Art. 3(6)](https://www.legislation.gov.uk/eur/2016/1240/article/3/6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
 
 [^c000001]: Textual amendment: Substituted by [Commission Implementing Regulation (EU) 2018/150 of 30 January 2018 amending Implementing Regulation (EU) 2016/1240 as regards methods for the analysis and quality evaluation of milk and milk products eligible for public intervention and aid for private storage](https://www.legislation.gov.uk/eur/2018/150).
 
-[^key-679e285739147316891483bd2348cc1d]: Textual amendment: Word in [Art. 4(2)](https://www.legislation.gov.uk/eur/2016/1240/article/4/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-679e285739147316891483bd2348cc1d]: Textual amendment: Word in [Art. 4(2)](https://www.legislation.gov.uk/eur/2016/1240/article/4/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(6)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-29aee015e426f4ddae5030abc87a4769]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/eur/2016/1240/article/4/3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-29aee015e426f4ddae5030abc87a4769]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/eur/2016/1240/article/4/3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-5a9248b396b33a23616811abf3ad5aba]: Textual amendment: Art. 4(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-5a9248b396b33a23616811abf3ad5aba]: Textual amendment: Art. 4(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-9808026135af2d38f5fda61890746a62]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/eur/2016/1240/article/4/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-9808026135af2d38f5fda61890746a62]: Textual amendment: [Art. 4(5)](https://www.legislation.gov.uk/eur/2016/1240/article/4/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-4ce0bdbf088aaada4e90cfb3603ad386]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2016/1240/article/5/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(7)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4ce0bdbf088aaada4e90cfb3603ad386]: Textual amendment: Words in [Art. 5(1)](https://www.legislation.gov.uk/eur/2016/1240/article/5/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(7)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/7/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6bd13ed7ef0934125f7ccba265b5d7df]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2016/1240/article/5/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(7)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6bd13ed7ef0934125f7ccba265b5d7df]: Textual amendment: Words in [Art. 5(2)](https://www.legislation.gov.uk/eur/2016/1240/article/5/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(7)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/7/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-3a77959a0cc412cd4fb114b0be23b22a]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/eur/2016/1240/article/5/3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-3a77959a0cc412cd4fb114b0be23b22a]: Textual amendment: [Art. 5(3)](https://www.legislation.gov.uk/eur/2016/1240/article/5/3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-d180e570e7e9d1e8c980ff29643eb31f]: Textual amendment: Art. 5(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-d180e570e7e9d1e8c980ff29643eb31f]: Textual amendment: Art. 5(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-cebebed062ee5f7892f1d725c30b3793]: Textual amendment: [Art. 5(5)](https://www.legislation.gov.uk/eur/2016/1240/article/5/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-cebebed062ee5f7892f1d725c30b3793]: Textual amendment: [Art. 5(5)](https://www.legislation.gov.uk/eur/2016/1240/article/5/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-720ed759272bb3c0c2d4411a78a0882f]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eur/2016/1240/article/6) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-720ed759272bb3c0c2d4411a78a0882f]: Textual amendment: Words in [Art. 6](https://www.legislation.gov.uk/eur/2016/1240/article/6) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-9a79ce82844da94015ff0c63fb332f57]: Textual amendment: Words in Art. 6 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-9a79ce82844da94015ff0c63fb332f57]: Textual amendment: Words in Art. 6 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-cea12d977d802e63cd123eee7e5a09ac]: Textual amendment: Words in Art. 6 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(5)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/5)
+[^c-cea12d977d802e63cd123eee7e5a09ac]: Textual amendment: Words in Art. 6 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(5)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/5)
 
-[^key-51d27ee495bda095af5215abfe1726da]: Textual amendment: Word in Art. 7(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(8)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-51d27ee495bda095af5215abfe1726da]: Textual amendment: Word in Art. 7(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(8)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/8/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6af44abbd300bacb701946238e3f3822]: Textual amendment: Words in Art. 7(1)(a)(iv) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(8)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6af44abbd300bacb701946238e3f3822]: Textual amendment: Words in Art. 7(1)(a)(iv) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(8)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/8/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-46f59d0f4ba84d45d0c4bbafec8ead44]: Textual amendment: Words in Art. 7(1)(c)(i) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(8)(c)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-46f59d0f4ba84d45d0c4bbafec8ead44]: Textual amendment: Words in Art. 7(1)(c)(i) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(8)(c)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/8/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00014]: Footnote: Regulation (EC) No 1107/2009 of the European Parliament and of the Council of 21 October 2009 concerning the placing of plant protection products on the market and repealing Council Directives 79/117/EEC and 91/414/EEC ([OJ L 309, 24.11.2009, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2009.309.01.0001.01.ENG)).
 
-[^key-c67a9c4ff85200f8aea70be3ad8ff1d4]: Textual amendment: Art. 7(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-c67a9c4ff85200f8aea70be3ad8ff1d4]: Textual amendment: Art. 7(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-503337722bc243c281592230bde675e9]: Textual amendment: Art. 7(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-503337722bc243c281592230bde675e9]: Textual amendment: Art. 7(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-c213bbfff62bd85f5e9e27e4cd4ad65b]: Textual amendment: Art. 7(5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-c213bbfff62bd85f5e9e27e4cd4ad65b]: Textual amendment: Art. 7(5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-7adcb9eb40966ec982176ba472947b3d]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/eur/2016/1240/article/8/3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-7adcb9eb40966ec982176ba472947b3d]: Textual amendment: [Art. 8(3)](https://www.legislation.gov.uk/eur/2016/1240/article/8/3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-0cb73a322cd44b582ab40e6827584e8d]: Textual amendment: Art. 8(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-0cb73a322cd44b582ab40e6827584e8d]: Textual amendment: Art. 8(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-a5285e6bd33bc0eb78031f753aaa4995]: Textual amendment: [Art. 8(5)](https://www.legislation.gov.uk/eur/2016/1240/article/8/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-a5285e6bd33bc0eb78031f753aaa4995]: Textual amendment: [Art. 8(5)](https://www.legislation.gov.uk/eur/2016/1240/article/8/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-9b826157b3b72a2f0dcef8fac193113c]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2016/1240/article/9) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(9)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b826157b3b72a2f0dcef8fac193113c]: Textual amendment: [Art. 9](https://www.legislation.gov.uk/eur/2016/1240/article/9) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(9)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fb9b93c7e0b1e7b173be3e096cd869ad]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2016/1240/article/10) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-fb9b93c7e0b1e7b173be3e096cd869ad]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2016/1240/article/10) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-54154ab8966fbfc29190170b7bd98b6d]: Textual amendment: Words in Art. 10 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-54154ab8966fbfc29190170b7bd98b6d]: Textual amendment: Words in Art. 10 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-4003ac6bfce879e42b2c44dae48d971e]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2016/1240/article/10) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(5)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/5)
+[^c-4003ac6bfce879e42b2c44dae48d971e]: Textual amendment: Words in [Art. 10](https://www.legislation.gov.uk/eur/2016/1240/article/10) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(5)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/5)
 
-[^key-6b3a320260857d7b5332f032b6be5bfc]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2016/1240/article/11/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(10)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6b3a320260857d7b5332f032b6be5bfc]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2016/1240/article/11/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(10)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/10/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_c9e62f37-a126-4fdb-8453-c37d6f0d31ce]: Textual amendment: Words in Art. 11(1) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(10)(ab)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/10/ab) (as inserted by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [15(3)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/15/3/a)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a9e358c66dff15301bb555cfd5195463]: Textual amendment: Word in [Art. 11(1)(c)](https://www.legislation.gov.uk/eur/2016/1240/article/11/1/c) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(10)(c)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/10/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a9e358c66dff15301bb555cfd5195463]: Textual amendment: Word in [Art. 11(1)(c)](https://www.legislation.gov.uk/eur/2016/1240/article/11/1/c) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(10)(c)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/10/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b637d29365ebaf4613e5d4dcbeffff4a]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2016/1240/article/11/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/10/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b637d29365ebaf4613e5d4dcbeffff4a]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2016/1240/article/11/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(10)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/10/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-744be57fbe4e8e9b84b1d0be3e2c401f]: Textual amendment: Word in [Art. 11(1)(c)](https://www.legislation.gov.uk/eur/2016/1240/article/11/1/c) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(10)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/10/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-744be57fbe4e8e9b84b1d0be3e2c401f]: Textual amendment: Word in [Art. 11(1)(c)](https://www.legislation.gov.uk/eur/2016/1240/article/11/1/c) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(10)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/10/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7db94c2338099ab4adb39a74b0f138fa]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2016/1240/article/11/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(10)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7db94c2338099ab4adb39a74b0f138fa]: Textual amendment: Words in [Art. 11(1)](https://www.legislation.gov.uk/eur/2016/1240/article/11/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(10)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/10/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0017493088b8d3f5b4a5aa5b48168e6a]: Textual amendment: [Art. 11(3)](https://www.legislation.gov.uk/eur/2016/1240/article/11/3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-0017493088b8d3f5b4a5aa5b48168e6a]: Textual amendment: [Art. 11(3)](https://www.legislation.gov.uk/eur/2016/1240/article/11/3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-6eba15c551c38d8e0aad14f32e7b5459]: Textual amendment: Art. 11(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-6eba15c551c38d8e0aad14f32e7b5459]: Textual amendment: Art. 11(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-0c4bdc921f836d4194a9295bde602680]: Textual amendment: [Art. 11(5)](https://www.legislation.gov.uk/eur/2016/1240/article/11/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-0c4bdc921f836d4194a9295bde602680]: Textual amendment: [Art. 11(5)](https://www.legislation.gov.uk/eur/2016/1240/article/11/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-55ad419676e3d3b4aed98c792fac67d2]: Textual amendment: Words in [Art. 12(1)](https://www.legislation.gov.uk/eur/2016/1240/article/12/1) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(a)(i)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/a/i) (as amended by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [16(7)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/16/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-55ad419676e3d3b4aed98c792fac67d2]: Textual amendment: Words in [Art. 12(1)](https://www.legislation.gov.uk/eur/2016/1240/article/12/1) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(a)(i)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/a/i) (as amended by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [16(7)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/16/7)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9f95a03f4752485045deaf44d055266d]: Textual amendment: [Art. 12(1)(c)](https://www.legislation.gov.uk/eur/2016/1240/article/12/1/c) inserted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(a)(ii)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9f95a03f4752485045deaf44d055266d]: Textual amendment: [Art. 12(1)(c)](https://www.legislation.gov.uk/eur/2016/1240/article/12/1/c) inserted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(a)(ii)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-8814a5affee3ef47a317890b638f8d3f]: Textual amendment: [Art. 12(2)](https://www.legislation.gov.uk/eur/2016/1240/article/12/2) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(b)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8814a5affee3ef47a317890b638f8d3f]: Textual amendment: [Art. 12(2)](https://www.legislation.gov.uk/eur/2016/1240/article/12/2) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(b)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-fa2ab25ebe903927f95409787d42e501]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/eur/2016/1240/article/12/3) omitted (31.12.2020) by virtue of [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(c)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-fa2ab25ebe903927f95409787d42e501]: Textual amendment: [Art. 12(3)](https://www.legislation.gov.uk/eur/2016/1240/article/12/3) omitted (31.12.2020) by virtue of [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(c)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-92f132ab984d57d163f727c02938431c]: Textual amendment: Words in [Art. 12(5)(a)](https://www.legislation.gov.uk/eur/2016/1240/article/12/5/a) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/d/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-92f132ab984d57d163f727c02938431c]: Textual amendment: Words in [Art. 12(5)(a)](https://www.legislation.gov.uk/eur/2016/1240/article/12/5/a) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(d)(i)(aa)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/d/i/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5c6f5ca1b5a6ad89e7006df4bcc8e2ef]: Textual amendment: Words in [Art. 12(5)(a)](https://www.legislation.gov.uk/eur/2016/1240/article/12/5/a) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/d/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c6f5ca1b5a6ad89e7006df4bcc8e2ef]: Textual amendment: Words in [Art. 12(5)(a)](https://www.legislation.gov.uk/eur/2016/1240/article/12/5/a) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(d)(i)(bb)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/d/i/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-efd3867623283c5c404eefc3b28880b0]: Textual amendment: Words in [Art. 12(5)(b)](https://www.legislation.gov.uk/eur/2016/1240/article/12/5/b) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(d)(ii)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-efd3867623283c5c404eefc3b28880b0]: Textual amendment: Words in [Art. 12(5)(b)](https://www.legislation.gov.uk/eur/2016/1240/article/12/5/b) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(d)(ii)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/d/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9938d06fb69a07f9c8a20a9a09d38878]: Textual amendment: Words in [Art. 12(5)(c)](https://www.legislation.gov.uk/eur/2016/1240/article/12/5/c) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(d)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/d/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9938d06fb69a07f9c8a20a9a09d38878]: Textual amendment: Words in [Art. 12(5)(c)](https://www.legislation.gov.uk/eur/2016/1240/article/12/5/c) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(d)(iii)(aa)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/d/iii/aa); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de41048ff9d97ca7674cdd247061cd62]: Textual amendment: Words in [Art. 12(5)(c)](https://www.legislation.gov.uk/eur/2016/1240/article/12/5/c) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(d)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/d/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-de41048ff9d97ca7674cdd247061cd62]: Textual amendment: Words in [Art. 12(5)(c)](https://www.legislation.gov.uk/eur/2016/1240/article/12/5/c) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [58(d)(iii)(bb)](https://www.legislation.gov.uk/uksi/2019/831/regulation/58/d/iii/bb); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7c7fb586a27a749496f132696d2336af]: Textual amendment: [Art. 12(6)](https://www.legislation.gov.uk/eur/2016/1240/article/12/6) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(6)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-7c7fb586a27a749496f132696d2336af]: Textual amendment: [Art. 12(6)](https://www.legislation.gov.uk/eur/2016/1240/article/12/6) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(6)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-67d568be29925359dd776a8f713439b6]: Textual amendment: Art. 12(7) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-67d568be29925359dd776a8f713439b6]: Textual amendment: Art. 12(7) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-a47bbc3a5f399bd5c65c59c82b162f31]: Textual amendment: [Art. 12(8)](https://www.legislation.gov.uk/eur/2016/1240/article/12/8) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(6)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/6)
+[^c-a47bbc3a5f399bd5c65c59c82b162f31]: Textual amendment: [Art. 12(8)](https://www.legislation.gov.uk/eur/2016/1240/article/12/8) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(6)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/6)
 
-[^key-8f08afa1f135fce84b0958d9061f4eae]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/eur/2016/1240/article/13/3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-8f08afa1f135fce84b0958d9061f4eae]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/eur/2016/1240/article/13/3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-b04cf1b42aaf04721fece88fb4ecda0a]: Textual amendment: Art. 13(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-b04cf1b42aaf04721fece88fb4ecda0a]: Textual amendment: Art. 13(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-07d18f9cc78513d8122e2a6af5d5ade4]: Textual amendment: Art. 13(5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-07d18f9cc78513d8122e2a6af5d5ade4]: Textual amendment: Art. 13(5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-b4cef1f855422e8c06956e6ba0567a74]: Textual amendment: Words in [Art. 14(1)](https://www.legislation.gov.uk/eur/2016/1240/article/14/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(11)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b4cef1f855422e8c06956e6ba0567a74]: Textual amendment: Words in [Art. 14(1)](https://www.legislation.gov.uk/eur/2016/1240/article/14/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(11)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/11/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-abc003ba1a2311bcc19a3eaf5117460c]: Textual amendment: Words in [Art. 14(2)](https://www.legislation.gov.uk/eur/2016/1240/article/14/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(11)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-abc003ba1a2311bcc19a3eaf5117460c]: Textual amendment: Words in [Art. 14(2)](https://www.legislation.gov.uk/eur/2016/1240/article/14/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(11)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/11/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9efda281c303f8bc2020c20cfe016ff3]: Textual amendment: Art. 14(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-9efda281c303f8bc2020c20cfe016ff3]: Textual amendment: Art. 14(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-3319a61a60ea979727363713d8ba4820]: Textual amendment: Art. 14(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-3319a61a60ea979727363713d8ba4820]: Textual amendment: Art. 14(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-eaae276c550b988e5394da346bb02a79]: Textual amendment: [Art. 14(5)](https://www.legislation.gov.uk/eur/2016/1240/article/14/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-eaae276c550b988e5394da346bb02a79]: Textual amendment: [Art. 14(5)](https://www.legislation.gov.uk/eur/2016/1240/article/14/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-8dfe83cb3b1097ae7a44287943d9c1e2]: Textual amendment: Words in [Art. 15(2)](https://www.legislation.gov.uk/eur/2016/1240/article/15/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(12)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-8dfe83cb3b1097ae7a44287943d9c1e2]: Textual amendment: Words in [Art. 15(2)](https://www.legislation.gov.uk/eur/2016/1240/article/15/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(12)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/12/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-93c728b31ce3f4b77c42739a5c90e2e4]: Textual amendment: Words in [Art. 15(3)](https://www.legislation.gov.uk/eur/2016/1240/article/15/3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(12)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-93c728b31ce3f4b77c42739a5c90e2e4]: Textual amendment: Words in [Art. 15(3)](https://www.legislation.gov.uk/eur/2016/1240/article/15/3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(12)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/12/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f273b319b9431d96b31c72fe34e9a886]: Textual amendment: Art. 15(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-f273b319b9431d96b31c72fe34e9a886]: Textual amendment: Art. 15(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-55a9fdd57d84d865dfe3b0bf2bf0bdb0]: Textual amendment: Art. 15(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-55a9fdd57d84d865dfe3b0bf2bf0bdb0]: Textual amendment: Art. 15(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-26dbba2ee76dfd5f800e0246bf023a3a]: Textual amendment: [Art. 15(6)](https://www.legislation.gov.uk/eur/2016/1240/article/15/6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
+[^c-26dbba2ee76dfd5f800e0246bf023a3a]: Textual amendment: [Art. 15(6)](https://www.legislation.gov.uk/eur/2016/1240/article/15/6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
 
-[^key-a4932338301de32d036d5fdd4d8c317d]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2016/1240/article/16) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(13)(a)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/13/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a4932338301de32d036d5fdd4d8c317d]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2016/1240/article/16) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(13)(a)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/13/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-830641bc2b165a8a568673b95f5b1c30]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2016/1240/article/16) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/13/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-830641bc2b165a8a568673b95f5b1c30]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2016/1240/article/16) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(13)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/13/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ee6d63dd98857a99a0522761950d7911]: Textual amendment: Word in [Art. 16](https://www.legislation.gov.uk/eur/2016/1240/article/16) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(13)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/13/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ee6d63dd98857a99a0522761950d7911]: Textual amendment: Word in [Art. 16](https://www.legislation.gov.uk/eur/2016/1240/article/16) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(13)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/13/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-35e37f71b927b040542ed3bee781837e]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2016/1240/article/16) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(13)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-35e37f71b927b040542ed3bee781837e]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2016/1240/article/16) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(13)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/13/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-47ca416f9c5d187d26c31a7643ee757c]: Textual amendment: Words in Art. 16 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-47ca416f9c5d187d26c31a7643ee757c]: Textual amendment: Words in Art. 16 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-1d923b13ebabfcfef7ceb9e02546d921]: Textual amendment: Words in Art. 16 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-1d923b13ebabfcfef7ceb9e02546d921]: Textual amendment: Words in Art. 16 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-a186fee5684120caa5c2e6c17b816e7b]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2016/1240/article/16) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(5)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/5)
+[^c-a186fee5684120caa5c2e6c17b816e7b]: Textual amendment: Words in [Art. 16](https://www.legislation.gov.uk/eur/2016/1240/article/16) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(5)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/5)
 
-[^key-db6a175eedd1488f1d0146a9d7a6a53d]: Textual amendment: Words in [Art. 17(3)](https://www.legislation.gov.uk/eur/2016/1240/article/17/3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(14)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-db6a175eedd1488f1d0146a9d7a6a53d]: Textual amendment: Words in [Art. 17(3)](https://www.legislation.gov.uk/eur/2016/1240/article/17/3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(14)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/14); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5567dc3ffb3eb715d6ae6486360c6742]: Textual amendment: Art. 17(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-5567dc3ffb3eb715d6ae6486360c6742]: Textual amendment: Art. 17(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-6e73223bba9798bf9195161ea04eb5d4]: Textual amendment: Art. 17(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-6e73223bba9798bf9195161ea04eb5d4]: Textual amendment: Art. 17(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-befd22bc571df316b15cf77d593d7cd4]: Textual amendment: [Art. 17(6)](https://www.legislation.gov.uk/eur/2016/1240/article/17/6) inserted (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
+[^c-befd22bc571df316b15cf77d593d7cd4]: Textual amendment: [Art. 17(6)](https://www.legislation.gov.uk/eur/2016/1240/article/17/6) inserted (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
 
-[^key-7311f71eb5d47fcf19d500b34d790c72]: Textual amendment: Art. 18(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-7311f71eb5d47fcf19d500b34d790c72]: Textual amendment: Art. 18(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-4cfbb145bb49a5929cd12b94f161f08a]: Textual amendment: Art. 18(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-4cfbb145bb49a5929cd12b94f161f08a]: Textual amendment: Art. 18(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-18d9f75b13a4550571e62a84ecfb55b7]: Textual amendment: [Art. 18(6)](https://www.legislation.gov.uk/eur/2016/1240/article/18/6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
+[^c-18d9f75b13a4550571e62a84ecfb55b7]: Textual amendment: [Art. 18(6)](https://www.legislation.gov.uk/eur/2016/1240/article/18/6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
 
-[^key-0c7044a79176b64e169ab6400dd4ef03]: Textual amendment: Words in [Art. 19(1)](https://www.legislation.gov.uk/eur/2016/1240/article/19/1) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(15)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/15/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-0c7044a79176b64e169ab6400dd4ef03]: Textual amendment: Words in [Art. 19(1)](https://www.legislation.gov.uk/eur/2016/1240/article/19/1) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(15)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/15/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-40c4cce549b5d21bc40ebf6fe773d720]: Textual amendment: Art. 19(1A) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(7)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/7) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-40c4cce549b5d21bc40ebf6fe773d720]: Textual amendment: Art. 19(1A) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(7)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/7) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-240dc9d3869e48a3bcd5532de7aadf89]: Textual amendment: Art. 19(1B) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/7) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-240dc9d3869e48a3bcd5532de7aadf89]: Textual amendment: Art. 19(1B) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(7)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/7) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-34596751309c904b6ca9240957a509f1]: Textual amendment: [Art. 19(1C)](https://www.legislation.gov.uk/eur/2016/1240/article/19/1C) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(7)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/7)
+[^c-34596751309c904b6ca9240957a509f1]: Textual amendment: [Art. 19(1C)](https://www.legislation.gov.uk/eur/2016/1240/article/19/1C) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(7)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/7)
 
-[^key-9b29df16e13155afe9fb0d5932bb8954]: Textual amendment: [Art. 19(2)](https://www.legislation.gov.uk/eur/2016/1240/article/19/2) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(15)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/15/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b29df16e13155afe9fb0d5932bb8954]: Textual amendment: [Art. 19(2)](https://www.legislation.gov.uk/eur/2016/1240/article/19/2) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(15)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/15/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-213600f94c35940a798c03d154da0f9f]: Textual amendment: Art. 20(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-213600f94c35940a798c03d154da0f9f]: Textual amendment: Art. 20(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-397481276398b5fce01077a0bdd860b2]: Textual amendment: Art. 20(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-397481276398b5fce01077a0bdd860b2]: Textual amendment: Art. 20(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-31fb35c01b4289755b969133060e6b90]: Textual amendment: [Art. 20(6)](https://www.legislation.gov.uk/eur/2016/1240/article/20/6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
+[^c-31fb35c01b4289755b969133060e6b90]: Textual amendment: [Art. 20(6)](https://www.legislation.gov.uk/eur/2016/1240/article/20/6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
 
-[^key-07adf1568df94de61d00751c25c1f3fc]: Textual amendment: Art. 21(5) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-07adf1568df94de61d00751c25c1f3fc]: Textual amendment: Art. 21(5) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-412445bf464cdc6aa742e68228cbca96]: Textual amendment: Art. 21(6) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-412445bf464cdc6aa742e68228cbca96]: Textual amendment: Art. 21(6) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-a891881f850d5b7bbcf6714550a75c6f]: Textual amendment: [Art. 21(7)](https://www.legislation.gov.uk/eur/2016/1240/article/21/7) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(8)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/8)
+[^c-a891881f850d5b7bbcf6714550a75c6f]: Textual amendment: [Art. 21(7)](https://www.legislation.gov.uk/eur/2016/1240/article/21/7) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(8)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/8)
 
-[^key-a47a0ee60a00ccb5882e30496aa09d91]: Textual amendment: Art. 22(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-a47a0ee60a00ccb5882e30496aa09d91]: Textual amendment: Art. 22(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-d5ed902c735bc54bc6550edcca02c817]: Textual amendment: Art. 22(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-d5ed902c735bc54bc6550edcca02c817]: Textual amendment: Art. 22(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-5dfce530d60431b1c061960a7397b6e6]: Textual amendment: [Art. 22(6)](https://www.legislation.gov.uk/eur/2016/1240/article/22/6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
+[^c-5dfce530d60431b1c061960a7397b6e6]: Textual amendment: [Art. 22(6)](https://www.legislation.gov.uk/eur/2016/1240/article/22/6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
 
-[^key-3c2be60cce927a29f2e13fb0bf2a20df]: Textual amendment: Art. 23(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-3c2be60cce927a29f2e13fb0bf2a20df]: Textual amendment: Art. 23(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-a672ae1e0c8f8c6fc65ec91cd304170f]: Textual amendment: Art. 23(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-a672ae1e0c8f8c6fc65ec91cd304170f]: Textual amendment: Art. 23(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-6fb859628f9a7aa08226b60a7692c1e4]: Textual amendment: [Art. 23(5)](https://www.legislation.gov.uk/eur/2016/1240/article/23/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-6fb859628f9a7aa08226b60a7692c1e4]: Textual amendment: [Art. 23(5)](https://www.legislation.gov.uk/eur/2016/1240/article/23/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
 [^f00016]: Footnote: Commission Delegated Regulation (EU) No 906/2014 of 11 March 2014 supplementing Regulation (EU) No 1306/2013 of the European Parliament and of the Council with regard to public intervention expenditure ([OJ L 255, 28.8.2014, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2014.255.01.0001.01.ENG)).
 
-[^key-368f25cc165bb69505014575589d7e57]: Textual amendment: Words in Art. 24 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-368f25cc165bb69505014575589d7e57]: Textual amendment: Words in Art. 24 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-45c1cc4f765c3cab93e9d22a574c9a83]: Textual amendment: Words in Art. 24 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-45c1cc4f765c3cab93e9d22a574c9a83]: Textual amendment: Words in Art. 24 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-fb225e8a835374cea8d4918d024dc731]: Textual amendment: Words in [Art. 24](https://www.legislation.gov.uk/eur/2016/1240/article/24) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(5)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/5)
+[^c-fb225e8a835374cea8d4918d024dc731]: Textual amendment: Words in [Art. 24](https://www.legislation.gov.uk/eur/2016/1240/article/24) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(5)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/5)
 
-[^key-9d077341d2aeb447457bdb0eddf68979]: Textual amendment: Words in Art. 25 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-9d077341d2aeb447457bdb0eddf68979]: Textual amendment: Words in Art. 25 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-4333c5c5737dce6d63b2777cfb2d4aca]: Textual amendment: Words in Art. 25 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-4333c5c5737dce6d63b2777cfb2d4aca]: Textual amendment: Words in Art. 25 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-b65cc482db16ee067a0da0923f58a258]: Textual amendment: Words in [Art. 25](https://www.legislation.gov.uk/eur/2016/1240/article/25) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(5)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/5)
+[^c-b65cc482db16ee067a0da0923f58a258]: Textual amendment: Words in [Art. 25](https://www.legislation.gov.uk/eur/2016/1240/article/25) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(5)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/5)
 
-[^key-a120f2b4a166ed8bae3afa2be88fef31]: Textual amendment: Art. 26(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-a120f2b4a166ed8bae3afa2be88fef31]: Textual amendment: Art. 26(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-b91c4b0362353a5479addb1662c4865a]: Textual amendment: Art. 26(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-b91c4b0362353a5479addb1662c4865a]: Textual amendment: Art. 26(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-120e089e2bc6914915abb9a2b7a29a63]: Textual amendment: [Art. 26(5)](https://www.legislation.gov.uk/eur/2016/1240/article/26/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-120e089e2bc6914915abb9a2b7a29a63]: Textual amendment: [Art. 26(5)](https://www.legislation.gov.uk/eur/2016/1240/article/26/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-6648d4613a4b2339e34d24e37664cf35]: Textual amendment: Art. 27(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-6648d4613a4b2339e34d24e37664cf35]: Textual amendment: Art. 27(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-2a3490caf3c7cd3c9495ad18a55ef4fc]: Textual amendment: Art. 27(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-2a3490caf3c7cd3c9495ad18a55ef4fc]: Textual amendment: Art. 27(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-a83488915ba6efec3dde470aeb712a11]: Textual amendment: [Art. 27(5)](https://www.legislation.gov.uk/eur/2016/1240/article/27/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-a83488915ba6efec3dde470aeb712a11]: Textual amendment: [Art. 27(5)](https://www.legislation.gov.uk/eur/2016/1240/article/27/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-bfc23f1bcab0dee919c8a6e46b2ccafb]: Textual amendment: Art. 28(2) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [59(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/59/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bfc23f1bcab0dee919c8a6e46b2ccafb]: Textual amendment: Art. 28(2) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [59(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/59/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b2a6ce79a513ca8a9c05cc07e9c09098]: Textual amendment: Words in Art. 28(3) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [59(b)](https://www.legislation.gov.uk/uksi/2019/831/regulation/59/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b2a6ce79a513ca8a9c05cc07e9c09098]: Textual amendment: Words in Art. 28(3) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [59(b)](https://www.legislation.gov.uk/uksi/2019/831/regulation/59/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-603b11b0a26d20f4528fe4bbc9253654]: Textual amendment: Words in Art. 28(4) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [59(c)](https://www.legislation.gov.uk/uksi/2019/831/regulation/59/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-603b11b0a26d20f4528fe4bbc9253654]: Textual amendment: Words in Art. 28(4) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [59(c)](https://www.legislation.gov.uk/uksi/2019/831/regulation/59/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-55fff7880830a989e92c5703b3d40184]: Textual amendment: Art. 28(6) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(6)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-55fff7880830a989e92c5703b3d40184]: Textual amendment: Art. 28(6) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(6)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-47b6ec30f3ff496460f5a3968d84e613]: Textual amendment: Art. 28(7) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(6)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-47b6ec30f3ff496460f5a3968d84e613]: Textual amendment: Art. 28(7) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(6)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-e89560fcfd95f63921780bea2e10283e]: Textual amendment: Art. 28(8) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(6)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/6)
+[^c-e89560fcfd95f63921780bea2e10283e]: Textual amendment: Art. 28(8) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(6)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/6)
 
-[^key-53442ffe8e3326bfd152f9f3fa5d7ee3]: Textual amendment: Words in Art. 29(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(16)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/16/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-53442ffe8e3326bfd152f9f3fa5d7ee3]: Textual amendment: Words in Art. 29(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(16)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/16/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-77b367d14b075cb0609b76a27bea29a6]: Textual amendment: Words in Art. 29(2)(b) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(16)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-77b367d14b075cb0609b76a27bea29a6]: Textual amendment: Words in Art. 29(2)(b) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(16)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/16/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-222b2a925791be8a429f544d27788390]: Textual amendment: Art. 29(5) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-222b2a925791be8a429f544d27788390]: Textual amendment: Art. 29(5) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-a86611d4954fec4c12662be4fa5ef027]: Textual amendment: Art. 29(6) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-a86611d4954fec4c12662be4fa5ef027]: Textual amendment: Art. 29(6) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-292696bbe05632acd45bf0f8d719eaa3]: Textual amendment: Art. 29(7) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(8)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/8)
+[^c-292696bbe05632acd45bf0f8d719eaa3]: Textual amendment: Art. 29(7) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(8)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/8)
 
-[^key-eefc19f6b97285a7deb53e92999c5c03]: Textual amendment: Words in Art. 30(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(17)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-eefc19f6b97285a7deb53e92999c5c03]: Textual amendment: Words in Art. 30(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(17)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/17); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6a3d005c0cd0341c397e7f6dc6a5d530]: Textual amendment: Art. 30(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-6a3d005c0cd0341c397e7f6dc6a5d530]: Textual amendment: Art. 30(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-63e98f2912f6514c69f689b5ad64ccde]: Textual amendment: Art. 30(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-63e98f2912f6514c69f689b5ad64ccde]: Textual amendment: Art. 30(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-a7fca2e34ee61089048333273960d3f4]: Textual amendment: Art. 30(6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
+[^c-a7fca2e34ee61089048333273960d3f4]: Textual amendment: Art. 30(6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
 
-[^key-924f6adec23b06d4fda18f633abeb5be]: Textual amendment: Art. 31 omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(18)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-924f6adec23b06d4fda18f633abeb5be]: Textual amendment: Art. 31 omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(18)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/18); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d8df9864e7b85641d662ea607aa938a]: Textual amendment: Words in Art. 32(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(19)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/19/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d8df9864e7b85641d662ea607aa938a]: Textual amendment: Words in Art. 32(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(19)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/19/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2f7b7be80c956ea98b3f01378a3fc8df]: Textual amendment: Words in Art. 32(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(19)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2f7b7be80c956ea98b3f01378a3fc8df]: Textual amendment: Words in Art. 32(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(19)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/19/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-78ab5750846ec8d09d1c0512a0c9d27b]: Textual amendment: Art. 32(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-78ab5750846ec8d09d1c0512a0c9d27b]: Textual amendment: Art. 32(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-ff49a9fcdfd8de644cb32c7194a359a9]: Textual amendment: Art. 32(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-ff49a9fcdfd8de644cb32c7194a359a9]: Textual amendment: Art. 32(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-523dbff9a73a3b06a8f9c9b5888f5e98]: Textual amendment: Art. 32(5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-523dbff9a73a3b06a8f9c9b5888f5e98]: Textual amendment: Art. 32(5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-245c9b4c807ffc04f3308d6e49e6720f]: Textual amendment: Words in Art. 33(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(20)(a)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/20/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-245c9b4c807ffc04f3308d6e49e6720f]: Textual amendment: Words in Art. 33(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(20)(a)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/20/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1dd025c9f870b58ed105497d7bc36880]: Textual amendment: Words in Art. 33(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(20)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/20/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1dd025c9f870b58ed105497d7bc36880]: Textual amendment: Words in Art. 33(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(20)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/20/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-48041b749d44550a3828ed420bb67c03]: Textual amendment: Words in Art. 33(3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(20)(b)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/20/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-48041b749d44550a3828ed420bb67c03]: Textual amendment: Words in Art. 33(3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(20)(b)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/20/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a72d64e4bcd329242e8dc28aaad5823f]: Textual amendment: Words in Art. 33(3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(20)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/20/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a72d64e4bcd329242e8dc28aaad5823f]: Textual amendment: Words in Art. 33(3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(20)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/20/b/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-13304bc06ff75db9f89898e7cd53bbb1]: Textual amendment: Art. 33(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-13304bc06ff75db9f89898e7cd53bbb1]: Textual amendment: Art. 33(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-5cc7e7004541b18576627d06f0095d77]: Textual amendment: Art. 33(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-5cc7e7004541b18576627d06f0095d77]: Textual amendment: Art. 33(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-60b1acbfe1077f4890c2ec8b0e7010ed]: Textual amendment: Art. 33(6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
+[^c-60b1acbfe1077f4890c2ec8b0e7010ed]: Textual amendment: Art. 33(6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
 
-[^key-195c29a7c4d4c0f7fb2f1f0f0ed3be53]: Textual amendment: Art. 34(6) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(6)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-195c29a7c4d4c0f7fb2f1f0f0ed3be53]: Textual amendment: Art. 34(6) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(6)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-b187cdfacf389cef20f217c36a4df4a2]: Textual amendment: Art. 34(7) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-b187cdfacf389cef20f217c36a4df4a2]: Textual amendment: Art. 34(7) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/6) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-64adccbf9ecc01db52c45d99ed1d719d]: Textual amendment: Art. 34(8) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(6)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/6)
+[^c-64adccbf9ecc01db52c45d99ed1d719d]: Textual amendment: Art. 34(8) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(6)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/6)
 
-[^key-5cd353491778f1075ab470581cfc977b]: Textual amendment: Words in Art. 35 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-5cd353491778f1075ab470581cfc977b]: Textual amendment: Words in Art. 35 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(5)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-24345be885c0fd7c5dcf08e720968724]: Textual amendment: Words in Art. 35 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-24345be885c0fd7c5dcf08e720968724]: Textual amendment: Words in Art. 35 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(5)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/5) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-1b4b7b1768d658e5dfcb1037bb3d486d]: Textual amendment: Words in Art. 35 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(5)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/5)
+[^c-1b4b7b1768d658e5dfcb1037bb3d486d]: Textual amendment: Words in Art. 35 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(5)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/5)
 
-[^key-09c54375cc92a5f52593f9e263be24b8]: Textual amendment: Words in Art. 36 heading substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-09c54375cc92a5f52593f9e263be24b8]: Textual amendment: Words in Art. 36 heading substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df34548724ed1cd013ec6d71c6af16f2]: Textual amendment: Word in Art. 36(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df34548724ed1cd013ec6d71c6af16f2]: Textual amendment: Word in Art. 36(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-33b08e4f4b02a5a2ac37e1c0918d5b3d]: Textual amendment: Words in Art. 36(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(c)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-33b08e4f4b02a5a2ac37e1c0918d5b3d]: Textual amendment: Words in Art. 36(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(c)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/c/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ff9ba80a64c2a4882f6597228cde2010]: Textual amendment: Word in Art. 36(2) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ff9ba80a64c2a4882f6597228cde2010]: Textual amendment: Word in Art. 36(2) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(c)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/c/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-6d3ae507cf81e3665c5ef8d22fe4d8cc]: Textual amendment: Words in Art. 36(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-6d3ae507cf81e3665c5ef8d22fe4d8cc]: Textual amendment: Words in Art. 36(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(c)(iii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/c/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-651171baaff6e99cb2137d750e777471]: Textual amendment: Words in Art. 36(3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(d)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-651171baaff6e99cb2137d750e777471]: Textual amendment: Words in Art. 36(3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(d)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9b1acb040288434d7ed1362129a22998]: Textual amendment: Words in Art. 36(4) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(e)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-9b1acb040288434d7ed1362129a22998]: Textual amendment: Words in Art. 36(4) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(21)(e)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/21/e); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f541709482827124b8122bb0d6a7ba50]: Textual amendment: Art. 36(5) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-f541709482827124b8122bb0d6a7ba50]: Textual amendment: Art. 36(5) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-0265f0db06ed6f6d95402160ce628006]: Textual amendment: Art. 36(6) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-0265f0db06ed6f6d95402160ce628006]: Textual amendment: Art. 36(6) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-6bc0a666d7128ee0ca5875fb9d65e8c3]: Textual amendment: Art. 36(7) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(8)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/8)
+[^c-6bc0a666d7128ee0ca5875fb9d65e8c3]: Textual amendment: Art. 36(7) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(8)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/8)
 
-[^key-f3e376a17c59e9bd05016dd1303bcc53]: Textual amendment: Art. 37(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-f3e376a17c59e9bd05016dd1303bcc53]: Textual amendment: Art. 37(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-34a47a00027438e30b6e2bb736f1b0fc]: Textual amendment: Art. 37(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-34a47a00027438e30b6e2bb736f1b0fc]: Textual amendment: Art. 37(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-90cae689f7108289291c08643378bdee]: Textual amendment: Art. 37(5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-90cae689f7108289291c08643378bdee]: Textual amendment: Art. 37(5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-1dc2189f6734f830fbf2d306b05f1885]: Textual amendment: Art. 38(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-1dc2189f6734f830fbf2d306b05f1885]: Textual amendment: Art. 38(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-cef923fcbdb8c692aa8c265c3e3c4a0a]: Textual amendment: Art. 38(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-cef923fcbdb8c692aa8c265c3e3c4a0a]: Textual amendment: Art. 38(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-0b2ab37684bf9444ccaa29f70cdb0615]: Textual amendment: Art. 38(6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
+[^c-0b2ab37684bf9444ccaa29f70cdb0615]: Textual amendment: Art. 38(6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(3)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/3)
 
-[^key-3e31df66e0d6ac624192433ed680ca6d]: Textual amendment: [Title 2 Ch. 4](https://www.legislation.gov.uk/eur/2016/1240/title/2/chapter/4) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(22)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3e31df66e0d6ac624192433ed680ca6d]: Textual amendment: [Title 2 Ch. 4](https://www.legislation.gov.uk/eur/2016/1240/title/2/chapter/4) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(22)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/22); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-37af3114889d81c2e45bc9180de79e46]: Textual amendment: Words in Art. 39(1) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [60(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/60/a) (as amended by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [16(8)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/16/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-37af3114889d81c2e45bc9180de79e46]: Textual amendment: Words in Art. 39(1) substituted (31.12.2020) by [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [60(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/60/a) (as amended by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [16(8)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/16/8)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5451b1d8458f4097302cb5cbc272ce2c]: Textual amendment: Art. 39(1A) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(9)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/9) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-5451b1d8458f4097302cb5cbc272ce2c]: Textual amendment: Art. 39(1A) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(9)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/9) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-946a516c2cd3f8d950ed057e358b699e]: Textual amendment: Art. 39(1B)(1C) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(9)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/9) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-946a516c2cd3f8d950ed057e358b699e]: Textual amendment: Art. 39(1B)(1C) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/uksi/2023/124/regulation/1), [9(9)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/9) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-8be13558f08964693fb70083c2b88fb5]: Textual amendment: Art. 39(1D) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(9)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/9)
+[^c-8be13558f08964693fb70083c2b88fb5]: Textual amendment: Art. 39(1D) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(9)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/9)
 
-[^key-d0f6e49ac410eba7b6ea74cc58a892d5]: Textual amendment: Art. 39(2) omitted (31.12.2020) by virtue of [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [60(b)](https://www.legislation.gov.uk/uksi/2019/831/regulation/60/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d0f6e49ac410eba7b6ea74cc58a892d5]: Textual amendment: Art. 39(2) omitted (31.12.2020) by virtue of [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [60(b)](https://www.legislation.gov.uk/uksi/2019/831/regulation/60/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-ab21eb76d3f67aa15e59337c0b799f5c]: Textual amendment: Words in Art. 39(3) omitted (31.12.2020) by virtue of [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [60(c)](https://www.legislation.gov.uk/uksi/2019/831/regulation/60/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab21eb76d3f67aa15e59337c0b799f5c]: Textual amendment: Words in Art. 39(3) omitted (31.12.2020) by virtue of [The Agriculture (Legislative Functions) (EU Exit) (No. 2) Regulations 2019 (S.I. 2019/831)](https://www.legislation.gov.uk/uksi/2019/831), [regs. 1(4)(a)](https://www.legislation.gov.uk/uksi/2019/831/regulation/1/4/a), [60(c)](https://www.legislation.gov.uk/uksi/2019/831/regulation/60/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1418857c5bfd9829e67ec6cd20fd771a]: Textual amendment: Words in Art. 40(a)(i)(ii) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(23)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1418857c5bfd9829e67ec6cd20fd771a]: Textual amendment: Words in Art. 40(a)(i)(ii) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(23)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-03fdb07ffee796ea05790282d8606ddb]: Textual amendment: Words in Art. 40(b) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(23)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-03fdb07ffee796ea05790282d8606ddb]: Textual amendment: Words in Art. 40(b) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(23)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/23); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-40e39d2d158ca6e8e8ececb70bd9ce69]: Textual amendment: Words in Art. 40 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(10)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/10) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-40e39d2d158ca6e8e8ececb70bd9ce69]: Textual amendment: Words in Art. 40 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(10)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/10) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-7cd49f5495d2ff606d13ce72f79bf3cf]: Textual amendment: Words in Art. 40 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(10)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/10) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-7cd49f5495d2ff606d13ce72f79bf3cf]: Textual amendment: Words in Art. 40 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(10)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/10) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-b241535970fe930ac7c06b7260b32c64]: Textual amendment: Words in Art. 40 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/uksi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/44/regulation/1/2), [10(10)](https://www.legislation.gov.uk/uksi/2026/44/regulation/10/10)
+[^c-b241535970fe930ac7c06b7260b32c64]: Textual amendment: Words in Art. 40 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/uksi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/44/regulation/1/2), [10(10)](https://www.legislation.gov.uk/uksi/2026/44/regulation/10/10)
 
-[^key-0d930bb7ed3a8104d42ec3a7f61b2b6d]: Textual amendment: Art. 41(3) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(11)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/11)
+[^c-0d930bb7ed3a8104d42ec3a7f61b2b6d]: Textual amendment: Art. 41(3) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(11)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/11)
 
-[^key-a04bf28b5e0e6241070cb13ce0fb815d]: Textual amendment: Art. 42 omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(24)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a04bf28b5e0e6241070cb13ce0fb815d]: Textual amendment: Art. 42 omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(24)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df686603479e2115d25bb72f332446e0]: Textual amendment: Words in Art. 43(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(25)(a)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/25/a/i) (as substituted by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [15(3)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/15/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df686603479e2115d25bb72f332446e0]: Textual amendment: Words in Art. 43(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(25)(a)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/25/a/i) (as substituted by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [15(3)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/15/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-df61281b69adecfca512eda6550c98d2]: Textual amendment: Words in Art. 43(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(25)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/25/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-df61281b69adecfca512eda6550c98d2]: Textual amendment: Words in Art. 43(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(25)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/25/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_F_4d598e06-4a69-4ab1-fa18-125efba6964f]: Textual amendment: Words in Art. 43(1) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(25)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/25/a/ii) (as substituted by [S.I. 2020/1445](https://www.legislation.gov.uk/uksi/2020/1445), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/1/2/a), [15(3)(b)](https://www.legislation.gov.uk/uksi/2020/1445/regulation/15/3/b)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b0b8d66ae528fa029b22efb0eae3425]: Textual amendment: Words in Art. 43(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(25)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/25/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1b0b8d66ae528fa029b22efb0eae3425]: Textual amendment: Words in Art. 43(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(25)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/25/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1ba54933fd61a4baa21d8a8f45796e34]: Textual amendment: Word in Art. 43(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(25)(c)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/25/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ba54933fd61a4baa21d8a8f45796e34]: Textual amendment: Word in Art. 43(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(25)(c)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/25/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-851d77b2739c269d0d32a82005d7b427]: Textual amendment: Words in Art. 43(3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(25)(d)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/25/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-851d77b2739c269d0d32a82005d7b427]: Textual amendment: Words in Art. 43(3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(25)(d)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/25/d); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0490afc282f72869948ae0bbf3b65ca1]: Textual amendment: Art. 43(4) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(12)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/12)
+[^c-0490afc282f72869948ae0bbf3b65ca1]: Textual amendment: Art. 43(4) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(12)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/12)
 
-[^key-5c98f0acf1d427e7b5c48888f1365490]: Textual amendment: Words in Art. 44(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(26)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/26/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5c98f0acf1d427e7b5c48888f1365490]: Textual amendment: Words in Art. 44(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(26)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/26/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-5ac6e9b7778af35ac47aaf76b43cba88]: Textual amendment: Words in Art. 44(3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(26)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/26/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5ac6e9b7778af35ac47aaf76b43cba88]: Textual amendment: Words in Art. 44(3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(26)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/26/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-940fadb27f8984be529ca86aa39c4673]: Textual amendment: Art. 44(4) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(12)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/12)
+[^c-940fadb27f8984be529ca86aa39c4673]: Textual amendment: Art. 44(4) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(12)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/12)
 
-[^key-3595e391184d306131f573e71266e2d5]: Modification: Art. 45 applied (with modifications) (E.) (16.11.2021) by [The Private Storage Aid for Pigmeat (England) Regulations 2021 (S.I. 2021/1269)](https://www.legislation.gov.uk/uksi/2021/1269), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2021/1269/regulation/7)
+[^c-3595e391184d306131f573e71266e2d5]: Modification: Art. 45 applied (with modifications) (E.) (16.11.2021) by [The Private Storage Aid for Pigmeat (England) Regulations 2021 (S.I. 2021/1269)](https://www.legislation.gov.uk/uksi/2021/1269), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/1269/regulation/1/2), [7](https://www.legislation.gov.uk/uksi/2021/1269/regulation/7)
 
-[^key-3de30a86eee3108df55fb9b100c3aa62]: Textual amendment: Words in Art. 45 substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(27)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/27/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3de30a86eee3108df55fb9b100c3aa62]: Textual amendment: Words in Art. 45 substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(27)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/27/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b6bbe23ff24b679e8a1d0a51f501cb74]: Textual amendment: Words in Art. 45(3) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(27)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/27/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b6bbe23ff24b679e8a1d0a51f501cb74]: Textual amendment: Words in Art. 45(3) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(27)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/27/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-0a69eee7dcd6cc22d20a3e58e151fc1b]: Textual amendment: Art. 45(4) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(12)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/12)
+[^c-0a69eee7dcd6cc22d20a3e58e151fc1b]: Textual amendment: Art. 45(4) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(12)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/12)
 
-[^key-a6fe9f34d0caf58e87d9c4bc2f1db39f]: Textual amendment: Words in Art. 46 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(13)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/13)
+[^c-a6fe9f34d0caf58e87d9c4bc2f1db39f]: Textual amendment: Words in Art. 46 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(13)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/13)
 
-[^key-a9db3699f7c2f36d087dfe2a38b13c78]: Textual amendment: Art. 47(4) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(12)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/12)
+[^c-a9db3699f7c2f36d087dfe2a38b13c78]: Textual amendment: Art. 47(4) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(12)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/12)
 
-[^key-7cf17d2061c527461a6f5088d1f61edf]: Textual amendment: Words in Art. 48(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(28)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7cf17d2061c527461a6f5088d1f61edf]: Textual amendment: Words in Art. 48(2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(28)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/28); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00018]: Footnote: Council Regulation (EEC, Euratom) No 1182/71 of 3 June 1971 determining the rules applicable to periods, dates and time limits ([OJ L 124, 8.6.1971, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.1971.124.01.0001.01.ENG)).
 
-[^key-5df2904fef025239301dff04e57254e2]: Textual amendment: Art. 48(3) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(14)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/14)
+[^c-5df2904fef025239301dff04e57254e2]: Textual amendment: Art. 48(3) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(14)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/14)
 
-[^key-c2c6f23f4ffa0e807b3aa223824d3d2d]: Textual amendment: Words in Art. 49 substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(29)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-c2c6f23f4ffa0e807b3aa223824d3d2d]: Textual amendment: Words in Art. 49 substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(29)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/29); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-15d011317a45194ffc47d8779b074db5]: Textual amendment: Words in Art. 49 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(13)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/13)
+[^c-15d011317a45194ffc47d8779b074db5]: Textual amendment: Words in Art. 49 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(13)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/13)
 
-[^key-1ac49bb4ea1b5aa66a1893fec183decc]: Textual amendment: Words in Art. 51(a) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(30)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/30/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-1ac49bb4ea1b5aa66a1893fec183decc]: Textual amendment: Words in Art. 51(a) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(30)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/30/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-28160d05a2542f81b1c0081d18dd6fd4]: Textual amendment: Word in Art. 51 omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(30)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/30/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-28160d05a2542f81b1c0081d18dd6fd4]: Textual amendment: Word in Art. 51 omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(30)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/30/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-70efa0464a00ef8067a7cd7f8dfc5811]: Textual amendment: Words in Art. 51 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(13)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/13)
+[^c-70efa0464a00ef8067a7cd7f8dfc5811]: Textual amendment: Words in Art. 51 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(13)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/13)
 
-[^key-fa19e8540d007f7104ff28b76f33fc68]: Textual amendment: Art. 52(2A) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(11)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/11) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-fa19e8540d007f7104ff28b76f33fc68]: Textual amendment: Art. 52(2A) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(11)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/11) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-bcc9d3b7ed9624a3fb8704050019b148]: Textual amendment: Art. 52(2B) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(11)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/11) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-bcc9d3b7ed9624a3fb8704050019b148]: Textual amendment: Art. 52(2B) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(11)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/11) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-32156d58238f8b872102cd04abaef67e]: Textual amendment: Words in Art. 52(4)(a) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(31)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-32156d58238f8b872102cd04abaef67e]: Textual amendment: Words in Art. 52(4)(a) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(31)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/31); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1b8aaefbe0ac37362fe52cb7fdc1e8b8]: Textual amendment: Art. 52(6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(15)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/15)
+[^c-1b8aaefbe0ac37362fe52cb7fdc1e8b8]: Textual amendment: Art. 52(6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(15)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/15)
 
-[^key-7d9c69281ab8c34971a4497a6a0fa260]: Textual amendment: Words in Art. 53(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(32)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7d9c69281ab8c34971a4497a6a0fa260]: Textual amendment: Words in Art. 53(1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(32)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f41a59e525d330f301bba1299c06321e]: Textual amendment: Words in Art. 53(3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(32)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-f41a59e525d330f301bba1299c06321e]: Textual amendment: Words in Art. 53(3) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(32)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/32); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-cffa0a37ca32700234562c15ab719589]: Textual amendment: Art. 53(4) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(12)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/12)
+[^c-cffa0a37ca32700234562c15ab719589]: Textual amendment: Art. 53(4) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(12)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/12)
 
-[^key-71276ab6d67d79ea765fef64901a2563]: Textual amendment: Words in Art. 54 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(13)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/13)
+[^c-71276ab6d67d79ea765fef64901a2563]: Textual amendment: Words in Art. 54 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(13)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/13)
 
-[^key-ba26e02c34a275e32783265f23802393]: Textual amendment: Words in Art. 55 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(13)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/13)
+[^c-ba26e02c34a275e32783265f23802393]: Textual amendment: Words in Art. 55 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(13)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/13)
 
-[^key-90e7582d445a4d9c7f922abb8c2fc53b]: Textual amendment: Words in [Art. 56(1)](https://www.legislation.gov.uk/eur/2016/1240/article/56/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(33)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/33/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-90e7582d445a4d9c7f922abb8c2fc53b]: Textual amendment: Words in [Art. 56(1)](https://www.legislation.gov.uk/eur/2016/1240/article/56/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(33)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/33/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-aa4043b76d9702a762b10861dffdc6bf]: Textual amendment: Words in [Art. 56(4)](https://www.legislation.gov.uk/eur/2016/1240/article/56/4) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(33)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/33/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-aa4043b76d9702a762b10861dffdc6bf]: Textual amendment: Words in [Art. 56(4)](https://www.legislation.gov.uk/eur/2016/1240/article/56/4) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(33)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/33/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2873a25994204754f3bfc17ea08bd41c]: Textual amendment: Art. 56(5) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(12)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/12) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-2873a25994204754f3bfc17ea08bd41c]: Textual amendment: Art. 56(5) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(12)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/12) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-a38214edd38dca9281370d2a484d5703]: Textual amendment: Art. 56(6) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(12)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/12) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-a38214edd38dca9281370d2a484d5703]: Textual amendment: Art. 56(6) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(12)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/12) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-1dc6feaa1049ab40541deeea33a87ab2]: Textual amendment: Art. 56(7) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(16)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/16)
+[^c-1dc6feaa1049ab40541deeea33a87ab2]: Textual amendment: Art. 56(7) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(16)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/16)
 
-[^key-5f8d691452507e5bc6805ae0b29855a5]: Textual amendment: [Art. 57(2)](https://www.legislation.gov.uk/eur/2016/1240/article/57/2) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(34)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-5f8d691452507e5bc6805ae0b29855a5]: Textual amendment: [Art. 57(2)](https://www.legislation.gov.uk/eur/2016/1240/article/57/2) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(34)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/34); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b989ea6b36cb0cc4ee118daa80a209d2]: Textual amendment: Art. 57(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-b989ea6b36cb0cc4ee118daa80a209d2]: Textual amendment: Art. 57(4) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(3)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-e100a6b3011ed1d3befed729007f7410]: Textual amendment: Art. 57(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(3)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-e100a6b3011ed1d3befed729007f7410]: Textual amendment: Art. 57(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(3)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/3) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-8c7e23822eb5c0cbfa8332bb74a88f97]: Textual amendment: [Art. 57(6)](https://www.legislation.gov.uk/eur/2016/1240/article/57/6) inserted (W.) (16.2.2026) by The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.[S.I. 2026/44](https://www.legislation.gov.uk/uksi/2026/44)), regs. 1(2), 10(3)
+[^c-8c7e23822eb5c0cbfa8332bb74a88f97]: Textual amendment: [Art. 57(6)](https://www.legislation.gov.uk/eur/2016/1240/article/57/6) inserted (W.) (16.2.2026) by The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.[S.I. 2026/44](https://www.legislation.gov.uk/uksi/2026/44)), regs. 1(2), 10(3)
 
-[^key-ab790f2e9f7f68f050fe01d0fecadf63]: Textual amendment: Words in [Art. 58(2)](https://www.legislation.gov.uk/eur/2016/1240/article/58/2) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(35)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-ab790f2e9f7f68f050fe01d0fecadf63]: Textual amendment: Words in [Art. 58(2)](https://www.legislation.gov.uk/eur/2016/1240/article/58/2) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(35)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/35); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2e4467ae3e387a2aa512aa32893ca639]: Textual amendment: Art. 58(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-2e4467ae3e387a2aa512aa32893ca639]: Textual amendment: Art. 58(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-fdd6da2b2bd7aa6df6dc29b07563c15e]: Textual amendment: Art. 58(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-fdd6da2b2bd7aa6df6dc29b07563c15e]: Textual amendment: Art. 58(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-ec75b658977835811b7fc06f509556ee]: Textual amendment: [Art. 58(5)](https://www.legislation.gov.uk/eur/2016/1240/article/58/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-ec75b658977835811b7fc06f509556ee]: Textual amendment: [Art. 58(5)](https://www.legislation.gov.uk/eur/2016/1240/article/58/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-7b3567f960cad85bfa62ad29bc03f937]: Textual amendment: Word in [Art. 59(1)](https://www.legislation.gov.uk/eur/2016/1240/article/59/1) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(36)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/36/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-7b3567f960cad85bfa62ad29bc03f937]: Textual amendment: Word in [Art. 59(1)](https://www.legislation.gov.uk/eur/2016/1240/article/59/1) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(36)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/36/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2eb429234d2bf7d796072e58d933e1cf]: Textual amendment: Words in [Art. 59(2)](https://www.legislation.gov.uk/eur/2016/1240/article/59/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(36)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/36/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2eb429234d2bf7d796072e58d933e1cf]: Textual amendment: Words in [Art. 59(2)](https://www.legislation.gov.uk/eur/2016/1240/article/59/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(36)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/36/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-38ca45997fc4f77e82bddc8896d1ca2d]: Textual amendment: Art. 59(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-38ca45997fc4f77e82bddc8896d1ca2d]: Textual amendment: Art. 59(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(4)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-f0cad1b21a0a36ba513fd84062d199e1]: Textual amendment: Art. 59(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-f0cad1b21a0a36ba513fd84062d199e1]: Textual amendment: Art. 59(4) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(4)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/4) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-63b7bdf2f2d7b3c60709eb33dc88c639]: Textual amendment: [Art. 59(5)](https://www.legislation.gov.uk/eur/2016/1240/article/59/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
+[^c-63b7bdf2f2d7b3c60709eb33dc88c639]: Textual amendment: [Art. 59(5)](https://www.legislation.gov.uk/eur/2016/1240/article/59/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(4)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/4)
 
-[^key-afd370f5f4ee6332c9d60a85c0f9112d]: Textual amendment: Art. 60(2A) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(13)(a)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/13/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-afd370f5f4ee6332c9d60a85c0f9112d]: Textual amendment: Art. 60(2A) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(13)(a)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/13/a) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-0326a22f201ac85696ba559e3de619d0]: Textual amendment: Art. 60(2B) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(13)(a)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/13/a) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-0326a22f201ac85696ba559e3de619d0]: Textual amendment: Art. 60(2B) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(13)(a)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/13/a) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-d712a3dc9afa91de86839f590bceab71]: Textual amendment: Art. 60(3A) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(13)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/13/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-d712a3dc9afa91de86839f590bceab71]: Textual amendment: Art. 60(3A) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(13)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/13/b) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-32428b89b6c8c449a6b1a516e6793525]: Textual amendment: Art. 60(3B) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(13)(b)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/13/b) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-32428b89b6c8c449a6b1a516e6793525]: Textual amendment: Art. 60(3B) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(13)(b)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/13/b) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-b2b43d8089cdc70af5b3097238d2e103]: Textual amendment: Art. 60(4A) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(13)(c)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/13/c) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-b2b43d8089cdc70af5b3097238d2e103]: Textual amendment: Art. 60(4A) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(13)(c)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/13/c) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-1aa927e00834e67da60b778392fe539a]: Textual amendment: Art. 60(4B) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(13)(c)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/13/c) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-1aa927e00834e67da60b778392fe539a]: Textual amendment: Art. 60(4B) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(13)(c)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/13/c) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-56fa37d2378409a821b211c6acb82e45]: Textual amendment: Art. 60(6) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(13)(d)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/13/d) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-56fa37d2378409a821b211c6acb82e45]: Textual amendment: Art. 60(6) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(13)(d)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/13/d) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-abdf43b9d9a8411085b5466917de9abc]: Textual amendment: Art. 60(7) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(13)(d)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/13/d) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-abdf43b9d9a8411085b5466917de9abc]: Textual amendment: Art. 60(7) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(13)(d)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/13/d) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-58e64e7252da69965f6354202d073d4a]: Textual amendment: [Art. 60(8)](https://www.legislation.gov.uk/eur/2016/1240/article/60/8) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(17)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/17)
+[^c-58e64e7252da69965f6354202d073d4a]: Textual amendment: [Art. 60(8)](https://www.legislation.gov.uk/eur/2016/1240/article/60/8) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(17)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/17)
 
 [^c000003]: Textual amendment: Inserted by [Commission Implementing Regulation (EU) 2018/150 of 30 January 2018 amending Implementing Regulation (EU) 2016/1240 as regards methods for the analysis and quality evaluation of milk and milk products eligible for public intervention and aid for private storage](https://www.legislation.gov.uk/eur/2018/150).
 
-[^key-acd38efad8b52ed8c1f7481328a1f5a6]: Textual amendment: Word in [Art. 60a](https://www.legislation.gov.uk/eur/2016/1240/article/60a) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(37)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-acd38efad8b52ed8c1f7481328a1f5a6]: Textual amendment: Word in [Art. 60a](https://www.legislation.gov.uk/eur/2016/1240/article/60a) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(37)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/37); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-f632d361aa1c729321a526f0a5d1cff8]: Textual amendment: Art. 60a(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(14)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/14) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-f632d361aa1c729321a526f0a5d1cff8]: Textual amendment: Art. 60a(3) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(14)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/14) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-4b1dce020be867af595b5eceacf38767]: Textual amendment: Art. 60a(4)(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(14)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/14) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-4b1dce020be867af595b5eceacf38767]: Textual amendment: Art. 60a(4)(5) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(14)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/14) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-9b76258fc1a182298128e411b21786a2]: Textual amendment: [Art. 60a(6)](https://www.legislation.gov.uk/eur/2016/1240/article/60a/6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(18)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/18)
+[^c-9b76258fc1a182298128e411b21786a2]: Textual amendment: [Art. 60a(6)](https://www.legislation.gov.uk/eur/2016/1240/article/60a/6) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(18)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/18)
 
-[^key-69c4a45a09b684f3248ac7783b15f514]: Textual amendment: [Art. 61(4)](https://www.legislation.gov.uk/eur/2016/1240/article/61/4) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(12)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/12)
+[^c-69c4a45a09b684f3248ac7783b15f514]: Textual amendment: [Art. 61(4)](https://www.legislation.gov.uk/eur/2016/1240/article/61/4) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(12)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/12)
 
-[^key-278bac83aa26b200509d35d99b6223c5]: Textual amendment: Words in [Art. 62(1)](https://www.legislation.gov.uk/eur/2016/1240/article/62/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(38)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/38/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-278bac83aa26b200509d35d99b6223c5]: Textual amendment: Words in [Art. 62(1)](https://www.legislation.gov.uk/eur/2016/1240/article/62/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(38)(a)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/38/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-531aea636f81e476db0cc96d54b6a112]: Textual amendment: [Art. 62(4)](https://www.legislation.gov.uk/eur/2016/1240/article/62/4) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(38)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/38/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-531aea636f81e476db0cc96d54b6a112]: Textual amendment: [Art. 62(4)](https://www.legislation.gov.uk/eur/2016/1240/article/62/4) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(38)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/38/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-678a3289a3fcffb5e36e1d2cdc228f9e]: Textual amendment: [Art. 62(5)](https://www.legislation.gov.uk/eur/2016/1240/article/62/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(19)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/19)
+[^c-678a3289a3fcffb5e36e1d2cdc228f9e]: Textual amendment: [Art. 62(5)](https://www.legislation.gov.uk/eur/2016/1240/article/62/5) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(19)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/19)
 
-[^key-b85b9c969712568e3718b14c17a7b6ce]: Textual amendment: [Art. 63](https://www.legislation.gov.uk/eur/2016/1240/article/63) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(39)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b85b9c969712568e3718b14c17a7b6ce]: Textual amendment: [Art. 63](https://www.legislation.gov.uk/eur/2016/1240/article/63) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(39)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/39); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-2c55b6f41020cf26f2b8344fe60cd702]: Textual amendment: [Art. 64](https://www.legislation.gov.uk/eur/2016/1240/article/64) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(40)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2c55b6f41020cf26f2b8344fe60cd702]: Textual amendment: [Art. 64](https://www.legislation.gov.uk/eur/2016/1240/article/64) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(40)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/40); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-bec742cc413389b2a0f3a70a9dd61822]: Textual amendment: Words in [Art. 65(1)](https://www.legislation.gov.uk/eur/2016/1240/article/65/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(41)(a)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/41/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-bec742cc413389b2a0f3a70a9dd61822]: Textual amendment: Words in [Art. 65(1)](https://www.legislation.gov.uk/eur/2016/1240/article/65/1) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(41)(a)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/41/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e12347eb02123740d46112279d43ee50]: Textual amendment: Word in [Art. 65(1)(b)(ii)](https://www.legislation.gov.uk/eur/2016/1240/article/65/1/b/ii) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(41)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/41/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e12347eb02123740d46112279d43ee50]: Textual amendment: Word in [Art. 65(1)(b)(ii)](https://www.legislation.gov.uk/eur/2016/1240/article/65/1/b/ii) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(41)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/41/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-4485fa638d00e161b44c46d291ffdb01]: Textual amendment: Word in [Art. 65(1)(c)(ii)](https://www.legislation.gov.uk/eur/2016/1240/article/65/1/c/ii) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(41)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/41/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-4485fa638d00e161b44c46d291ffdb01]: Textual amendment: Word in [Art. 65(1)(c)(ii)](https://www.legislation.gov.uk/eur/2016/1240/article/65/1/c/ii) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(41)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/41/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-619cf60e3ef2cd836d055a6aa057eb05]: Textual amendment: [Art. 65(1)(d)(ii)](https://www.legislation.gov.uk/eur/2016/1240/article/65/1/d/ii) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(41)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/41/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-619cf60e3ef2cd836d055a6aa057eb05]: Textual amendment: [Art. 65(1)(d)(ii)](https://www.legislation.gov.uk/eur/2016/1240/article/65/1/d/ii) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(41)(a)(iii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/41/a/iii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-e10d070daa1a6a9d5026f70583e8286e]: Textual amendment: Words in [Art. 65(2)](https://www.legislation.gov.uk/eur/2016/1240/article/65/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(41)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/41/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e10d070daa1a6a9d5026f70583e8286e]: Textual amendment: Words in [Art. 65(2)](https://www.legislation.gov.uk/eur/2016/1240/article/65/2) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(41)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/41/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-362b69e2932266a04ac7794f61c30f6f]: Textual amendment: Art. 65(5) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-362b69e2932266a04ac7794f61c30f6f]: Textual amendment: Art. 65(5) inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(8)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-fb9fe4ab7edbddf7b2e6b3be08880482]: Textual amendment: Art. 65(6) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(8)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-fb9fe4ab7edbddf7b2e6b3be08880482]: Textual amendment: Art. 65(6) inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(8)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/8) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-c26643346f6db767d5ca406a861b5b84]: Textual amendment: [Art. 65(7)](https://www.legislation.gov.uk/eur/2016/1240/article/65/7) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(8)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/8)
+[^c-c26643346f6db767d5ca406a861b5b84]: Textual amendment: [Art. 65(7)](https://www.legislation.gov.uk/eur/2016/1240/article/65/7) inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(8)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/8)
 
-[^key-d08d4201f9d7468d2b7d24bb9dda73e2]: Textual amendment: [Art. 66](https://www.legislation.gov.uk/eur/2016/1240/article/66) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(42)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d08d4201f9d7468d2b7d24bb9dda73e2]: Textual amendment: [Art. 66](https://www.legislation.gov.uk/eur/2016/1240/article/66) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(42)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/42); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-79044f9203c7dfcf68584e9be281f4f0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/1240/signature) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(43)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-79044f9203c7dfcf68584e9be281f4f0]: Textual amendment: Words in [Signature](https://www.legislation.gov.uk/eur/2016/1240/signature) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(43)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/43); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-a5149b2650a499a71319adc3ee2027ef]: Textual amendment: Annex 1 para. A1 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(15)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-a5149b2650a499a71319adc3ee2027ef]: Textual amendment: Annex 1 para. A1 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(15)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-a57b8e17eefadff7f742348c45b8cd25]: Textual amendment: Annex 1 para. A2 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(15)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-a57b8e17eefadff7f742348c45b8cd25]: Textual amendment: Annex 1 para. A2 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(15)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-dfc27665b852ef824d5712ac4b95bc1a]: Textual amendment: Annex 1 point A3 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(20)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/20)
+[^c-dfc27665b852ef824d5712ac4b95bc1a]: Textual amendment: Annex 1 point A3 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(20)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/20)
 
-[^key-b8f62c7957a55cd1340f83b77886cca9]: Textual amendment: Words in Annex 1 Pt. 1 para. 1.2(a) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(44)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/44); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b8f62c7957a55cd1340f83b77886cca9]: Textual amendment: Words in Annex 1 Pt. 1 para. 1.2(a) omitted (31.12.2020) by virtue of [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(44)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/44); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^f00021]: Footnote: Commission Regulation (EC) No 1881/2006 of 19 December 2006 setting maximum levels for certain contaminants in foodstuffs ([OJ L 364, 20.12.2006, p. 5](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2006.364.01.0005.01.ENG)).
 
@@ -5065,39 +5065,39 @@ Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29�
 
 [^f00026]: Footnote: As % of dry matter.
 
-[^key-385fd2a2df83123351c7c24e658077fc]: Textual amendment: Annex 2 para. A1 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(15)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-385fd2a2df83123351c7c24e658077fc]: Textual amendment: Annex 2 para. A1 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(15)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-a0718069e317eb72433e8de13fc515aa]: Textual amendment: Annex 2 para. A2 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(15)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-a0718069e317eb72433e8de13fc515aa]: Textual amendment: Annex 2 para. A2 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(15)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-f949f90996340c82ad540b79aa50ddf5]: Textual amendment: Annex 2 point A3 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(20)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/20)
+[^c-f949f90996340c82ad540b79aa50ddf5]: Textual amendment: Annex 2 point A3 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(20)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/20)
 
 [^f00027]: Footnote: To be applied where the milling yield of the rice differs from the basic milling yield for the variety concerned as set out in Part II of Annex II to Delegated Regulation (EU) 2016/1238.
 
-[^key-60fa8e21cbff0b9ddf5015ff8f0da699]: Textual amendment: Annex 3 para. A1 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(15)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-60fa8e21cbff0b9ddf5015ff8f0da699]: Textual amendment: Annex 3 para. A1 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(15)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-f3c19a2e0e37a31a8a53ce693bf07852]: Textual amendment: Annex 3 para. A2 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(15)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-f3c19a2e0e37a31a8a53ce693bf07852]: Textual amendment: Annex 3 para. A2 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(15)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-179e3d53263c60851b13b6eb5b982138]: Textual amendment: Annex 3 point A3 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(20)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/20)
+[^c-179e3d53263c60851b13b6eb5b982138]: Textual amendment: Annex 3 point A3 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(20)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/20)
 
 [^f00028]: Footnote: Regulation (EC) No 853/2004 of the European Parliament and of the Council of 29 April 2004 laying down specific hygiene rules for food of animal origin ([OJ L 139, 30.4.2004, p. 55](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2004.139.01.0055.01.ENG)).
 
-[^key-2af4a33d06604499a919a56358780959]: Textual amendment: Words in Annex 3 Pt. 3 para. 4 substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(45)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2af4a33d06604499a919a56358780959]: Textual amendment: Words in Annex 3 Pt. 3 para. 4 substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(45)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/45); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-9d5e627b165c527949b31f4fdef9cd0c]: Textual amendment: Annex 4 para. A1 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(15)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-9d5e627b165c527949b31f4fdef9cd0c]: Textual amendment: Annex 4 para. A1 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(15)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-1c6eaf4218bf4bdada9d70b3c5dc1390]: Textual amendment: Annex 4 para. A2 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(15)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-1c6eaf4218bf4bdada9d70b3c5dc1390]: Textual amendment: Annex 4 para. A2 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(15)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-67387c69b81e9e210513813a04b4eea9]: Textual amendment: Annex 4 point A3 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(20)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/20)
+[^c-67387c69b81e9e210513813a04b4eea9]: Textual amendment: Annex 4 point A3 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(20)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/20)
 
 [^f00029]: Footnote: The method to be applied shall be approved by the paying agency.[^c000003]
 
-[^key-15de92c3069a0548c53472ce96d8532e]: Textual amendment: Words in Annex 4 Pt. 2 para. 2(a) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(46)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/46); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-15de92c3069a0548c53472ce96d8532e]: Textual amendment: Words in Annex 4 Pt. 2 para. 2(a) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(46)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/46); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c939254175d1d4bef3722047bcd03d15]: Textual amendment: Annex 5 para. A1 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(15)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-c939254175d1d4bef3722047bcd03d15]: Textual amendment: Annex 5 para. A1 inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(15)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-e22dcc5bb1b650bc67e4604ef3d184a8]: Textual amendment: Annex 5 para. A2 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(15)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-e22dcc5bb1b650bc67e4604ef3d184a8]: Textual amendment: Annex 5 para. A2 inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(15)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/15) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
 
-[^key-87f4d924940085332bd0917446a0dfdd]: Textual amendment: Annex 5 point A3 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(20)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/20)
+[^c-87f4d924940085332bd0917446a0dfdd]: Textual amendment: Annex 5 point A3 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(20)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/20)
 
 [^f00030]: Footnote: Scorched particles' analyses may be conducted systematically. However, such analyses shall always be conducted if no sensory checks are performed.
 
@@ -5107,19 +5107,19 @@ Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29�
 
 [^f00033]: Footnote: Sensory checks shall be performed where deemed necessary after risk based analysis approved by the paying agency.
 
-[^key-30592ad32da35b36fcb2285bee2e87fd]: Textual amendment: Words in Annex 5 Pt. 1A Appendix 2 para. 7.1 substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(47)(a)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/47/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-30592ad32da35b36fcb2285bee2e87fd]: Textual amendment: Words in Annex 5 Pt. 1A Appendix 2 para. 7.1 substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(47)(a)(i)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/47/a/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b7ab7cb2540c6ebda82d94db83169b3a]: Textual amendment: Words in Annex 5 Pt. 1A Appendix 3 para. 7.1 substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(47)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/47/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b7ab7cb2540c6ebda82d94db83169b3a]: Textual amendment: Words in Annex 5 Pt. 1A Appendix 3 para. 7.1 substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(47)(a)(ii)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/47/a/ii); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-b490eb3eec18209e3f8b25eeef7219c8]: Textual amendment: Words in Annex 5 Pt. 2 para. 2(a) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(47)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/47/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b490eb3eec18209e3f8b25eeef7219c8]: Textual amendment: Words in Annex 5 Pt. 2 para. 2(a) substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(47)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/47/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-c96648b18a3c97459c42aac0fbb4c72d]: Textual amendment: Words in Annex 6 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(21)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/21)
+[^c-c96648b18a3c97459c42aac0fbb4c72d]: Textual amendment: Words in Annex 6 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(21)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/21)
 
 [^f00055]: Footnote: The method to be applied shall be approved by the paying agency.
 
-[^key-10eb83554c0fcf7d2406d7f6c5cf86da]: Textual amendment: Words in Annex 7 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(21)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/21)
+[^c-10eb83554c0fcf7d2406d7f6c5cf86da]: Textual amendment: Words in Annex 7 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(21)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/21)
 
-[^key-4d20630fd385437a1258778d25a438bf]: Textual amendment: Words in Annex 8 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(21)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/21)
+[^c-4d20630fd385437a1258778d25a438bf]: Textual amendment: Words in Annex 8 inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(21)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/21)
 
 [^f00067]: Footnote: Sample application: After pre-focusing (step 1), pipette 18 μl of the sample and standard solutions onto the sample applicators (10 × 5 mm), place them on the gel at 1 mm intervals from each other and 5 mm longitudinally from the anode and press lightly. Carry out focusing using the above conditions, carefully removing the sample applicators after the 60 minutes of sample focusing.
 
@@ -5127,8 +5127,8 @@ Regulation (EC) No 882/2004 of the European Parliament and of the Council of 29�
 
 [^M_F_ea6039a2-b1bf-4606-f17e-c000a901ddf1]: Textual amendment: Word in Annex 9 para. 2.3 substituted (31.12.2020) by [The Market Measures Payment Schemes (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/823)](https://www.legislation.gov.uk/uksi/2019/823), [regs. 1](https://www.legislation.gov.uk/uksi/2019/823/regulation/1), [6(48)(b)](https://www.legislation.gov.uk/uksi/2019/823/regulation/6/48/b); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-7e86945f12c34937eb9b48f2e05df19a]: Textual amendment: Words in Annex 9 Appendix inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(22)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/22)
+[^c-7e86945f12c34937eb9b48f2e05df19a]: Textual amendment: Words in Annex 9 Appendix inserted (W.) (16.2.2026) by [The Closure of European Union Legacy Agriculture Schemes (Wales) Regulations 2026 (W.S.I. 2026/44)](https://www.legislation.gov.uk/wsi/2026/44), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2026/44/regulation/1/2), [10(22)](https://www.legislation.gov.uk/wsi/2026/44/regulation/10/22)
 
-[^key-ffd90601120ef22770d1be23b0d49e32]: Textual amendment: Words in Annex 9 Appendix inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(16)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/16) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
+[^c-ffd90601120ef22770d1be23b0d49e32]: Textual amendment: Words in Annex 9 Appendix inserted (E.) (28.2.2023 at 9.10 a.m.) by [The Market Measures Payment Schemes (Amendments, Revocation and Transitional Provision) (England) Regulations 2023 (S.I. 2023/124)](https://www.legislation.gov.uk/uksi/2023/124), [regs. 1(2)(b)](https://www.legislation.gov.uk/uksi/2023/124/regulation/1/2/b), [9(16)](https://www.legislation.gov.uk/uksi/2023/124/regulation/9/16) (with [reg. 10](https://www.legislation.gov.uk/uksi/2023/124/regulation/10))
 
-[^key-2232c3b9880d83f8388454501dd3c1e2]: Textual amendment: Words in Annex 9 Appendix inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(16)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/16) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))
+[^c-2232c3b9880d83f8388454501dd3c1e2]: Textual amendment: Words in Annex 9 Appendix inserted (S.) (1.7.2023) by [The Public Intervention and Private Storage Aid (Amendment and Suspension) (Scotland) Regulations 2023 (S.S.I. 2023/150)](https://www.legislation.gov.uk/ssi/2023/150), [regs. 1](https://www.legislation.gov.uk/ssi/2023/150/regulation/1), [9(16)](https://www.legislation.gov.uk/ssi/2023/150/regulation/9/16) (with [reg. 10](https://www.legislation.gov.uk/ssi/2023/150/regulation/10))

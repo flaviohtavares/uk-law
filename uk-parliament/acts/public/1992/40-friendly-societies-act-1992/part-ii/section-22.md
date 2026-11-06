@@ -30,17 +30,17 @@ summary: ''
 - (f) the society is unable to pay its debts; or
 - (g) the court is of the opinion that it is just and equitable that the society should be wound up.
 
-(2) Except as provided by subsection (2A), (2B) or (3)[^key-7733f69bdc3d0385d02b9379e1f4b55c] or the applicable winding up legislation, a petition for the winding up of an incorporated friendly society may be presented by—
+(2) Except as provided by subsection (2A), (2B) or (3)[^c-7733f69bdc3d0385d02b9379e1f4b55c] or the applicable winding up legislation, a petition for the winding up of an incorporated friendly society may be presented by—
 
-- (a) the FCA[^key-b657712905e2164e38e5c7768c21616e];
-- (aa)[^key-8a64557d438876bd7e719937c4f9f4cb] the PRA;
+- (a) the FCA[^c-b657712905e2164e38e5c7768c21616e];
+- (aa)[^c-8a64557d438876bd7e719937c4f9f4cb] the PRA;
 - (b) the society or its committee of management;
 - (c) any creditor or creditors (including any contingent or any prospective creditor); or
 - (d) any contributory or contributories,
 
 or by all or any of those parties, together or separately.
 
-(2A)[^key-70fb2211f0087f34d5e3e24d69bc83c9] The FCA may only present a petition under subsection (2) in respect of a society which is a PRA-authorised person after consulting the PRA.
+(2A)[^c-70fb2211f0087f34d5e3e24d69bc83c9] The FCA may only present a petition under subsection (2) in respect of a society which is a PRA-authorised person after consulting the PRA.
 
 (2B) The PRA may only present a petition under subsection (2)—
 
@@ -53,10 +53,10 @@ or by all or any of those parties, together or separately.
 
 ## Annotations
 
-[^key-7733f69bdc3d0385d02b9379e1f4b55c]: Textual amendment: Words in [s. 22(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/22/2) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/10/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-7733f69bdc3d0385d02b9379e1f4b55c]: Textual amendment: Words in [s. 22(2)](https://www.legislation.gov.uk/ukpga/1992/40/section/22/2) substituted (1.4.2013) by virtue of [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 10(2)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/10/2) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-b657712905e2164e38e5c7768c21616e]: Textual amendment: Word in [s. 22(2)(a)](https://www.legislation.gov.uk/ukpga/1992/40/section/22/2/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 10(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/10/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-b657712905e2164e38e5c7768c21616e]: Textual amendment: Word in [s. 22(2)(a)](https://www.legislation.gov.uk/ukpga/1992/40/section/22/2/a) substituted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 10(3)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/10/3) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-8a64557d438876bd7e719937c4f9f4cb]: Textual amendment: [S. 22(2)(aa)](https://www.legislation.gov.uk/ukpga/1992/40/section/22/2/aa) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 10(4)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/10/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-8a64557d438876bd7e719937c4f9f4cb]: Textual amendment: [S. 22(2)(aa)](https://www.legislation.gov.uk/ukpga/1992/40/section/22/2/aa) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 10(4)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/10/4) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
 
-[^key-70fb2211f0087f34d5e3e24d69bc83c9]: Textual amendment: [S. 22(2A)](https://www.legislation.gov.uk/ukpga/1992/40/section/22/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1992/40/section/22/2B) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 10(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/10/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))
+[^c-70fb2211f0087f34d5e3e24d69bc83c9]: Textual amendment: [S. 22(2A)](https://www.legislation.gov.uk/ukpga/1992/40/section/22/2A)[(2B)](https://www.legislation.gov.uk/ukpga/1992/40/section/22/2B) inserted (1.4.2013) by [The Financial Services Act 2012 (Mutual Societies) Order 2013 (S.I. 2013/496)](https://www.legislation.gov.uk/uksi/2013/496), [art. 1(1)](https://www.legislation.gov.uk/uksi/2013/496/article/1/1), [Sch. 9 para. 10(5)](https://www.legislation.gov.uk/uksi/2013/496/schedule/9/paragraph/10/5) (with [Sch. 12](https://www.legislation.gov.uk/uksi/2013/496/schedule/12))

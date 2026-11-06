@@ -50,11 +50,11 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 Representative organisations have been consulted in accordance with section 134(2) of that Act.
 
-## 1. Citation and commencement[^key-9001c6ac7a12d7a56728f8e859c6ab32]
+## 1. Citation and commencement[^c-9001c6ac7a12d7a56728f8e859c6ab32]
 
 These Regulations may be cited as the M6 Motorway (Junctions 16 to 19) (Variable Speed Limits) Regulations 2018 and come into force on 6th July 2018.
 
-## 2. Interpretation[^key-2890040ffbbb92f2b04f10d1972c629b]
+## 2. Interpretation[^c-2890040ffbbb92f2b04f10d1972c629b]
 
 In these Regulations—
 
@@ -62,7 +62,7 @@ In these Regulations—
 - “the 2016 Regulations and Directions” means the Traffic Signs Regulations and General Directions 2016[^f00003]; and
 - “carriageway”, “hard shoulder”, “motorway” and “verge” have the same meaning as in the 1982 Regulations.
 
-## 3. Variable speed limits[^key-f0ff2c659dc97622bfed2673e540ab7d]
+## 3. Variable speed limits[^c-f0ff2c659dc97622bfed2673e540ab7d]
 
 (1) No person shall drive a vehicle on a section of a road which is subject to a variable speed limit at a speed exceeding that indicated by a speed limit sign.
 
@@ -100,20 +100,20 @@ Department for Transport
 
 Regulation 3(2)(a)
 
-**1.**[^key-f6fa1b1021836ae241db787e0707ef64] The specified roads are—
+**1.**[^c-f6fa1b1021836ae241db787e0707ef64] The specified roads are—
 
 - (a) that length of the northbound carriageway of the M6 beginning at junction 16 at a point which is 210 metres south of the southern bridge deck edge of the southern bridge deck and ending at junction 19 at a point which is 80 metres north-west of the north-western edge of the north-western bridge carrying the gyratory known as Tabley Interchange over the M6;
 - (b) that length of the southbound carriageway of the M6 beginning at junction 19 at a point which is 745 metres north-west of the north-western edge of the north-western bridge carrying the gyratory known as Tabley Interchange over the M6 and ending at junction 16 at a point which is 80 metres south of the southern bridge deck edge of the southern bridge deck; and
 - (c) the carriageways of the slip roads referred to in paragraph 4.
 
-**2.**[^key-1711ddba9360fb864e1b47396ef0fd3c] Any reference in this Schedule to—
+**2.**[^c-1711ddba9360fb864e1b47396ef0fd3c] Any reference in this Schedule to—
 
 - (a) the letter “A” followed by a number is a reference to the road known by that name; and
 - (b) a junction followed by a number is a reference to the junction of the M6 of that number.
 
-**3.**[^key-d0cc30ea01e616ccd0fdc824065f100f] In this Schedule—
+**3.**[^c-d0cc30ea01e616ccd0fdc824065f100f] In this Schedule—
 
-- “back”, in relation to a nose, means the shortest side of a nose;[^key-412cae40c64fc471dd33bb47a2a40c0d]
+- “back”, in relation to a nose, means the shortest side of a nose;[^c-412cae40c64fc471dd33bb47a2a40c0d]
 - “bridge deck” means those parts of the M6 which span the gyratory known as Barthomley Interchange at junction 16;
 - “bridge deck edge” means a joint which separates a bridge deck from another part of the M6;
 - “diverge nose” means a nose between the main carriageway of a motorway and an off-slip road;
@@ -123,14 +123,14 @@ Regulation 3(2)(a)
 - “on-slip road” means a slip road intended for the use of traffic entering the M6; and
 - “slip road” means a road which connects the M6 with another road.
 
-**4.**[^key-5965ea8b8b8c08d787bf65a7c6e25df1] The slip roads to which this paragraph refers are—
+**4.**[^c-5965ea8b8b8c08d787bf65a7c6e25df1] The slip roads to which this paragraph refers are—
 
 - (a) at junction 16, the on-slip roads connecting from, and the off-slip roads connecting to, the A500;
 - (b) between junction 16 and junction 17, the on-slip roads connecting from, and the off-slip roads connecting to, the Sandbach Services motorway services area;
 - (c) at junction 17, the on-slip roads connecting from, and the off-slip roads connecting to, the A534;
 - (d) at junction 18, the on-slip roads connecting from, and the off-slip roads connecting to, the A54;
 - (e) between junction 18 and junction 19, the on-slip roads connecting from, and the off-slip roads connecting to, the Knutsford Services motorway services area; and
-- (f)[^key-75ae5314492ef1796367eadf11389eba] at junction 19–
+- (f)[^c-75ae5314492ef1796367eadf11389eba] at junction 19–
   - (i) the on-slip roads connecting from the A556;
   - (ii) that length of the off-slip road connecting from the northbound carriageway to the A556 beginning at the diverge from the northbound carriageway and ending at a point which is 89 metres from the back of the diverge nose; and
   - (iii) that length of the off-slip road connecting from the southbound carriageway to the A556 beginning at the diverge from the southbound carriageway and ending at a point which is 88 metres from the back of the diverge nose.
@@ -154,24 +154,24 @@ An impact assessment has not been prepared for these Regulations as no impact on
 
 [^f00001]: Footnote: [1984 c.27](https://www.legislation.gov.uk/ukpga/1984/27); section 17(2) was amended by the New Roads and Street Works Act [1991 (c.22)](https://www.legislation.gov.uk/ukpga/1991/22), Schedule 8, Part 2, paragraph 28(3); section 17(2)(b) was amended by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 8; section 17(2)(d) was inserted by the Road Traffic Act [1991 (c.40)](https://www.legislation.gov.uk/ukpga/1991/40), Schedule 4, paragraph 25. There are other amendments to sections 17 and 134 which are not relevant to these Regulations.
 
-[^key-9001c6ac7a12d7a56728f8e859c6ab32]: Commencement: Reg. 1 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+[^c-9001c6ac7a12d7a56728f8e859c6ab32]: Commencement: Reg. 1 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
 
-[^key-2890040ffbbb92f2b04f10d1972c629b]: Commencement: Reg. 2 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+[^c-2890040ffbbb92f2b04f10d1972c629b]: Commencement: Reg. 2 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
 
 [^f00002]: Footnote: [S.I. 1982/1163](https://www.legislation.gov.uk/uksi/1982/1163), relevant amending instruments are [S.I. 1983/374](https://www.legislation.gov.uk/uksi/1983/374), [1984/1479](https://www.legislation.gov.uk/uksi/1984/1479), [1992/1364](https://www.legislation.gov.uk/uksi/1992/1364), [2004/3258](https://www.legislation.gov.uk/uksi/2004/3258), [2015/392](https://www.legislation.gov.uk/uksi/2015/392).
 
 [^f00003]: Footnote: [S.I. 2016/362](https://www.legislation.gov.uk/uksi/2016/362), to which there is an amendment not relevant to these Regulations.
 
-[^key-f0ff2c659dc97622bfed2673e540ab7d]: Commencement: Reg. 3 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+[^c-f0ff2c659dc97622bfed2673e540ab7d]: Commencement: Reg. 3 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
 
-[^key-f6fa1b1021836ae241db787e0707ef64]: Commencement: Sch. para. 1 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+[^c-f6fa1b1021836ae241db787e0707ef64]: Commencement: Sch. para. 1 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
 
-[^key-1711ddba9360fb864e1b47396ef0fd3c]: Commencement: Sch. para. 2 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+[^c-1711ddba9360fb864e1b47396ef0fd3c]: Commencement: Sch. para. 2 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
 
-[^key-d0cc30ea01e616ccd0fdc824065f100f]: Commencement: Sch. para. 3 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+[^c-d0cc30ea01e616ccd0fdc824065f100f]: Commencement: Sch. para. 3 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
 
-[^key-412cae40c64fc471dd33bb47a2a40c0d]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/717/schedule/paragraph/3) inserted (2.8.2021) by [The M6 Motorway (Junction 19) (40 Miles Per Hour Speed Limit) Regulations 2021 (S.I. 2021/824)](https://www.legislation.gov.uk/uksi/2021/824), [regs. 1](https://www.legislation.gov.uk/uksi/2021/824/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/824/regulation/4/2)
+[^c-412cae40c64fc471dd33bb47a2a40c0d]: Textual amendment: Words in [Sch. para. 3](https://www.legislation.gov.uk/uksi/2018/717/schedule/paragraph/3) inserted (2.8.2021) by [The M6 Motorway (Junction 19) (40 Miles Per Hour Speed Limit) Regulations 2021 (S.I. 2021/824)](https://www.legislation.gov.uk/uksi/2021/824), [regs. 1](https://www.legislation.gov.uk/uksi/2021/824/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2021/824/regulation/4/2)
 
-[^key-5965ea8b8b8c08d787bf65a7c6e25df1]: Commencement: Sch. para. 4 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
+[^c-5965ea8b8b8c08d787bf65a7c6e25df1]: Commencement: Sch. para. 4 in force at 6.7.2018, see [reg. 1](https://www.legislation.gov.uk/uksi/2018/717/regulation/1)
 
-[^key-75ae5314492ef1796367eadf11389eba]: Textual amendment: [Sch. para. 4(f)](https://www.legislation.gov.uk/uksi/2018/717/schedule/paragraph/4/f) substituted (2.8.2021) by [The M6 Motorway (Junction 19) (40 Miles Per Hour Speed Limit) Regulations 2021 (S.I. 2021/824)](https://www.legislation.gov.uk/uksi/2021/824), [regs. 1](https://www.legislation.gov.uk/uksi/2021/824/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/824/regulation/4/3)
+[^c-75ae5314492ef1796367eadf11389eba]: Textual amendment: [Sch. para. 4(f)](https://www.legislation.gov.uk/uksi/2018/717/schedule/paragraph/4/f) substituted (2.8.2021) by [The M6 Motorway (Junction 19) (40 Miles Per Hour Speed Limit) Regulations 2021 (S.I. 2021/824)](https://www.legislation.gov.uk/uksi/2021/824), [regs. 1](https://www.legislation.gov.uk/uksi/2021/824/regulation/1), [4(3)](https://www.legislation.gov.uk/uksi/2021/824/regulation/4/3)

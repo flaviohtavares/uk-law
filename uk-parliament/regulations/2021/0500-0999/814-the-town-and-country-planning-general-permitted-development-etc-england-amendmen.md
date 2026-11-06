@@ -48,17 +48,17 @@ Coming into force
 
 The Secretary of State makes the following Order in exercise of the powers conferred by sections 59, 60, 61, 62(1), 76C(2) and (3), 108(2A), (3C), (5) and (6) and 333(1), (2A) and (7) of the Town and Country Planning Act 1990[^f00001] and sections 54 and 122(1)(a) of the Planning and Compulsory Purchase Act 2004[^f00002]:
 
-## 1. Citation, commencement, extent and application[^key-853e1e8fe55f0376173e8f93e58f27a4]
+## 1. Citation, commencement, extent and application[^c-853e1e8fe55f0376173e8f93e58f27a4]
 
 (1) This Order may be cited as the Town and Country Planning (General Permitted Development etc.) (England) (Amendment) (No. 2) Order 2021 and comes into force on 1st August 2021.
 
 (2) This Order extends to England and Wales, and any amendment made by this Order has the same application as the provision amended.
 
-## 2. Amendments to the Town and Country Planning (General Permitted Development) (England) Order 2015[^key-665a6ffde77aba75677f7e01e41fcc99]
+## 2. Amendments to the Town and Country Planning (General Permitted Development) (England) Order 2015[^c-665a6ffde77aba75677f7e01e41fcc99]
 
 The Town and Country Planning (General Permitted Development) (England) Order 2015[^f00003] is amended in accordance with articles 3 to 9.
 
-## 3. Amendments to Part 1 of Schedule 2[^key-5c6f4f92d0e148c99a047019d93a5601]
+## 3. Amendments to Part 1 of Schedule 2[^c-5c6f4f92d0e148c99a047019d93a5601]
 
 (1) Part 1 (development within the curtilage of a dwellinghouse) of Schedule 2 (permitted development rights) is amended as follows.
 
@@ -80,7 +80,7 @@ The Town and Country Planning (General Permitted Development) (England) Order 20
 
 .
 
-## 4. Amendments to Part 3 of Schedule 2[^key-09409afb67cf004b83dab12317503d90]
+## 4. Amendments to Part 3 of Schedule 2[^c-09409afb67cf004b83dab12317503d90]
 
 (1) Part 3 (changes of use) of Schedule 2 is amended as follows.
 
@@ -340,7 +340,7 @@ The Town and Country Planning (General Permitted Development) (England) Order 20
 
 (21) In the definition of “sui generis use” in paragraph X (interpretation of Part 3), for “the Schedule” substitute “Schedule 1 or 2”.
 
-## 5. Amendments to Part 4 of Schedule 2[^key-1518c9730b504dd656737d105fe7e29a]
+## 5. Amendments to Part 4 of Schedule 2[^c-1518c9730b504dd656737d105fe7e29a]
 
 (1) Part 4 (temporary buildings and uses) of Schedule 2 is amended as follows.
 
@@ -399,7 +399,7 @@ The Town and Country Planning (General Permitted Development) (England) Order 20
   - (iv) omit sub-paragraph (c);
 - (b) in paragraph DA.2 (interpretation of Class DA), for “Class A5 of the Schedule to” substitute “article 3(6)(r) of”.
 
-## 6. Amendments to Part 7 of Schedule 2[^key-4c4cb057f986547f0e90b7f04cfd74cc]
+## 6. Amendments to Part 7 of Schedule 2[^c-4c4cb057f986547f0e90b7f04cfd74cc]
 
 (1) Part 7 (non-domestic extensions, alterations etc) of Schedule 2 is amended as follows.
 
@@ -452,11 +452,11 @@ for “Class A1 (shops) of the Schedule” substitute “Class E(a) (display or 
 - (b) in the definition of “school”, in each of sub-paragraph (a) and (b) omit “or registered nursery”;
 - (c) in the definition of “warehouse”, for “the Schedule” substitute “Schedule 1”.
 
-## 7. Amendments to Part 8 of Schedule 2[^key-cf9337c23d1a554065be4d79ffa95580]
+## 7. Amendments to Part 8 of Schedule 2[^c-cf9337c23d1a554065be4d79ffa95580]
 
 In paragraph O (interpretation of Part 8) of Part 8 (transport related development) of Schedule 2, in the definition of “operational building” after “means” insert “, for the purposes of Class F,”.
 
-## 8. Amendments to Part 11 of Schedule 2[^key-8c081d2a9728716408dce57ce785b7b9]
+## 8. Amendments to Part 11 of Schedule 2[^c-8c081d2a9728716408dce57ce785b7b9]
 
 In paragraph B.1 (development not permitted) of Class B (demolition of buildings) of Part 11 (heritage and demolition) of Schedule 2, for sub-paragraph (c) substitute—
 
@@ -466,7 +466,7 @@ In paragraph B.1 (development not permitted) of Class B (demolition of buildings
 
 .
 
-## 9. Amendments to Part 20 of Schedule 2[^key-24306633984ed5f69312780109f6b9f0]
+## 9. Amendments to Part 20 of Schedule 2[^c-24306633984ed5f69312780109f6b9f0]
 
 (1) Part 20 (construction of new dwellinghouses) of Schedule 2 is amended as follows.
 
@@ -535,7 +535,7 @@ In paragraph B.1 (development not permitted) of Class B (demolition of buildings
 
   .
 
-## 10. Amendment to the Town and Country Planning (Development Management Procedure) (England) Order 2015[^key-82cc34fd6bfaa9599c8d860a857fd0e7]
+## 10. Amendment to the Town and Country Planning (Development Management Procedure) (England) Order 2015[^c-82cc34fd6bfaa9599c8d860a857fd0e7]
 
 In paragraph (1) of article 22 (duty to respond to consultation) of the Town and Country Planning (Development Management Procedure) (England) Order 2015[^f00008]—
 
@@ -550,7 +550,7 @@ In paragraph (1) of article 22 (duty to respond to consultation) of the Town and
 
   .
 
-## 11. Amendment to the Town and Country Planning (Compensation) (England) Regulations 2015[^key-04fede7e640e12c2344ccd9e38bc70c9]
+## 11. Amendment to the Town and Country Planning (Compensation) (England) Regulations 2015[^c-04fede7e640e12c2344ccd9e38bc70c9]
 
 In paragraph (c) of regulation 2 (prescribed development) of the Town and Country Planning (Compensation) (England) Regulations 2015[^f00009]—
 
@@ -558,11 +558,11 @@ In paragraph (c) of regulation 2 (prescribed development) of the Town and Countr
 - (b) after “D,” insert “G,”;
 - (c) for “J,” substitute “I, J, K,”.
 
-## 12. Amendment to the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^key-cf58af42f45159baaff3e99d6c66f74e]
+## 12. Amendment to the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^c-cf58af42f45159baaff3e99d6c66f74e]
 
 In paragraph (3)(b) of article 7A (fire statements) of the Town and Country Planning (Section 62A Applications) (Procedure and Consequential Amendments) Order 2013[^f00010], omit “(ignoring any storey which is below ground level)”.
 
-## 13. Transitional and saving provision[^key-698024a51f5a0c4fb7715e38781825ff]
+## 13. Transitional and saving provision[^c-698024a51f5a0c4fb7715e38781825ff]
 
 The amendments made by this Order are subject to the Schedule (transitional and saving provision).
 
@@ -578,7 +578,7 @@ Ministry of Housing, Communities and Local Government
 
 Article 13
 
-### 1. Interpretation of the Schedule[^key-cbb123bcb79e44f9aa40e4d38b3aebc3]
+### 1. Interpretation of the Schedule[^c-cbb123bcb79e44f9aa40e4d38b3aebc3]
 
 In this Schedule—
 
@@ -586,7 +586,7 @@ In this Schedule—
 - “the GPDO” means the Town and Country Planning (General Permitted Development) (England) Order 2015;
 - “the Use Classes Order” means the Town and Country Planning (Use Classes) Order 1987[^f00012].
 
-### 2. Transitional provision for change in use which no longer constitutes development[^key-b6c9f84110de15ada741d4ba59c54f23]
+### 2. Transitional provision for change in use which no longer constitutes development[^c-b6c9f84110de15ada741d4ba59c54f23]
 
 Where a change of use of a building or land—
 
@@ -597,7 +597,7 @@ Where a change of use of a building or land—
 
 the change of use may proceed notwithstanding any undetermined prior approval application or related appeal proceedings.
 
-### 3. Transitional provision for development no longer subject to a condition[^key-7d0b5bd93beea13b9d5491317d66be7f]
+### 3. Transitional provision for development no longer subject to a condition[^c-7d0b5bd93beea13b9d5491317d66be7f]
 
 Where development—
 
@@ -610,7 +610,7 @@ Where development—
 
 the development may proceed notwithstanding any non-compliance with the previous condition (but the development must comply with any other condition imposed by the new provision).
 
-### 4. Transitional provision for development subject to a new condition[^key-4716689036c54f9bbd8f02f01eedb30c]
+### 4. Transitional provision for development subject to a new condition[^c-4716689036c54f9bbd8f02f01eedb30c]
 
 Where development—
 
@@ -622,7 +622,7 @@ Where development—
 
 the development may proceed irrespective of whether the new condition has been complied with (but the development must comply with any other condition imposed by the previous provision).
 
-### 5. Transitional and saving provision for development which is no longer permitted[^key-47b5859a38a8a324706c26fd06509a42]
+### 5. Transitional and saving provision for development which is no longer permitted[^c-47b5859a38a8a324706c26fd06509a42]
 
 (1) This paragraph applies to development (“protected development”) which—
 
@@ -690,15 +690,15 @@ An impact assessment has not been produced for this instrument.
 
 [^f00002]: Footnote: [2004 c. 5](https://www.legislation.gov.uk/ukpga/2004/5).
 
-[^key-853e1e8fe55f0376173e8f93e58f27a4]: Commencement: Art. 1 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-853e1e8fe55f0376173e8f93e58f27a4]: Commencement: Art. 1 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
-[^key-665a6ffde77aba75677f7e01e41fcc99]: Commencement: Art. 2 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-665a6ffde77aba75677f7e01e41fcc99]: Commencement: Art. 2 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
 [^f00003]: Footnote: [S.I. 2015/596](https://www.legislation.gov.uk/uksi/2015/596), which has been amended by [S.I. 2016/332](https://www.legislation.gov.uk/uksi/2016/332), [2016/765](https://www.legislation.gov.uk/uksi/2016/765), [2016/772](https://www.legislation.gov.uk/uksi/2016/772), [2016/1040](https://www.legislation.gov.uk/uksi/2016/1040), [2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [2017/391](https://www.legislation.gov.uk/uksi/2017/391), [2017/571](https://www.legislation.gov.uk/uksi/2017/571), [2017/619](https://www.legislation.gov.uk/uksi/2017/619), [2017/1011](https://www.legislation.gov.uk/uksi/2017/1011), [2017/1012](https://www.legislation.gov.uk/uksi/2017/1012), [2018/119](https://www.legislation.gov.uk/uksi/2018/119), [2018/343](https://www.legislation.gov.uk/uksi/2018/343), [2018/695](https://www.legislation.gov.uk/uksi/2018/695), [2019/907](https://www.legislation.gov.uk/uksi/2019/907), [2020/330](https://www.legislation.gov.uk/uksi/2020/330), [2020/412](https://www.legislation.gov.uk/uksi/2020/412), [2020/632](https://www.legislation.gov.uk/uksi/2020/632), [2020/755](https://www.legislation.gov.uk/uksi/2020/755), [2020/756](https://www.legislation.gov.uk/uksi/2020/756), [2020/1243](https://www.legislation.gov.uk/uksi/2020/1243), [2020/1459](https://www.legislation.gov.uk/uksi/2020/1459), [2021/428](https://www.legislation.gov.uk/uksi/2021/428) and [2021/467](https://www.legislation.gov.uk/uksi/2021/467).
 
-[^key-5c6f4f92d0e148c99a047019d93a5601]: Commencement: Art. 3 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-5c6f4f92d0e148c99a047019d93a5601]: Commencement: Art. 3 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
-[^key-09409afb67cf004b83dab12317503d90]: Commencement: Art. 4 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-09409afb67cf004b83dab12317503d90]: Commencement: Art. 4 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
 [^f00004]: Footnote: A body established under section 1 of the Environment Act [1995 (c. 25)](https://www.legislation.gov.uk/ukpga/1995/25).
 
@@ -706,44 +706,44 @@ An impact assessment has not been produced for this instrument.
 
 [^f00006]: Footnote: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595). Article 9A was inserted by [S.I. 2021/746](https://www.legislation.gov.uk/uksi/2021/746).
 
-[^key-1518c9730b504dd656737d105fe7e29a]: Commencement: Art. 5 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-1518c9730b504dd656737d105fe7e29a]: Commencement: Art. 5 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
-[^key-4c4cb057f986547f0e90b7f04cfd74cc]: Commencement: Art. 6 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-4c4cb057f986547f0e90b7f04cfd74cc]: Commencement: Art. 6 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
-[^key-cf9337c23d1a554065be4d79ffa95580]: Commencement: Art. 7 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-cf9337c23d1a554065be4d79ffa95580]: Commencement: Art. 7 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
-[^key-8c081d2a9728716408dce57ce785b7b9]: Commencement: Art. 8 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-8c081d2a9728716408dce57ce785b7b9]: Commencement: Art. 8 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
-[^key-24306633984ed5f69312780109f6b9f0]: Commencement: Art. 9 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-24306633984ed5f69312780109f6b9f0]: Commencement: Art. 9 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
 [^f00007]: Footnote: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595). Article 9A was inserted by [S.I. 2021/746](https://www.legislation.gov.uk/uksi/2021/746).
 
-[^key-82cc34fd6bfaa9599c8d860a857fd0e7]: Commencement: Art. 10 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-82cc34fd6bfaa9599c8d860a857fd0e7]: Commencement: Art. 10 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
 [^f00008]: Footnote: [S.I. 2015/595](https://www.legislation.gov.uk/uksi/2015/595).
 
-[^key-04fede7e640e12c2344ccd9e38bc70c9]: Commencement: Art. 11 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-04fede7e640e12c2344ccd9e38bc70c9]: Commencement: Art. 11 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
 [^f00009]: Footnote: [S.I. 2015/598](https://www.legislation.gov.uk/uksi/2015/598). Regulation 2 has been amended by S.I.s [2016/331](https://www.legislation.gov.uk/uksi/2016/331), [2017/392](https://www.legislation.gov.uk/uksi/2017/392), [2017/620](https://www.legislation.gov.uk/uksi/2017/620), [2019/907](https://www.legislation.gov.uk/uksi/2019/907), [2020/632](https://www.legislation.gov.uk/uksi/2020/632), [2020/1243](https://www.legislation.gov.uk/uksi/2020/1243) and [2021/428](https://www.legislation.gov.uk/uksi/2021/428).
 
-[^key-cf58af42f45159baaff3e99d6c66f74e]: Commencement: Art. 12 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-cf58af42f45159baaff3e99d6c66f74e]: Commencement: Art. 12 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
 [^f00010]: Footnote: [S.I. 2013/2140](https://www.legislation.gov.uk/uksi/2013/2140). Article 7A was inserted by [S.I. 2021/746](https://www.legislation.gov.uk/uksi/2021/746); there are no other amendments relevant to this instrument.
 
-[^key-698024a51f5a0c4fb7715e38781825ff]: Commencement: Art. 13 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-698024a51f5a0c4fb7715e38781825ff]: Commencement: Art. 13 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
-[^key-cbb123bcb79e44f9aa40e4d38b3aebc3]: Commencement: Sch. para. 1 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-cbb123bcb79e44f9aa40e4d38b3aebc3]: Commencement: Sch. para. 1 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
 [^f00011]: Footnote: Section 69A was inserted by section 17 of the Neighbourhood Planning Act [2017 (c. 20)](https://www.legislation.gov.uk/ukpga/2017/20).
 
 [^f00012]: Footnote: [S.I. 1987/764](https://www.legislation.gov.uk/uksi/1987/764) as amended by S.I.s [1991/1567](https://www.legislation.gov.uk/uksi/1991/1567), [1992/610](https://www.legislation.gov.uk/uksi/1992/610), [1992/657](https://www.legislation.gov.uk/uksi/1992/657), [1994/724](https://www.legislation.gov.uk/uksi/1994/724), [1995/297](https://www.legislation.gov.uk/uksi/1995/297), [1999/293](https://www.legislation.gov.uk/uksi/1999/293), [2005/84](https://www.legislation.gov.uk/uksi/2005/84), [2002/1875](https://www.legislation.gov.uk/uksi/2002/1875), [2006/220](https://www.legislation.gov.uk/uksi/2006/220), [2006/1282](https://www.legislation.gov.uk/uksi/2006/1282), [2006/1386](https://www.legislation.gov.uk/uksi/2006/1386), [2010/653](https://www.legislation.gov.uk/uksi/2010/653), [2010/675](https://www.legislation.gov.uk/uksi/2010/675), [2011/988](https://www.legislation.gov.uk/uksi/2011/988), [2015/597](https://www.legislation.gov.uk/uksi/2015/597), [2016/28](https://www.legislation.gov.uk/uksi/2016/28), [2016/1154](https://www.legislation.gov.uk/uksi/2016/1154), [2020/757](https://www.legislation.gov.uk/uksi/2020/757), [2020/895](https://www.legislation.gov.uk/uksi/2020/895) and [2021/428](https://www.legislation.gov.uk/uksi/2021/428).
 
-[^key-b6c9f84110de15ada741d4ba59c54f23]: Commencement: Sch. para. 2 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-b6c9f84110de15ada741d4ba59c54f23]: Commencement: Sch. para. 2 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
 [^f00013]: Footnote: By virtue of regulation 3(2) of [S.I. 2020/757](https://www.legislation.gov.uk/uksi/2020/757), any references in the GPDO to the uses or use classes specified in the Schedule to the Use Classes Order immediately before 1st August 2021 are to be read as if those references were to the use or use classes which applied in relation to England and were specified in the Schedule to the Use Classes Order on 31st August 2020.
 
-[^key-7d0b5bd93beea13b9d5491317d66be7f]: Commencement: Sch. para. 3 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-7d0b5bd93beea13b9d5491317d66be7f]: Commencement: Sch. para. 3 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
-[^key-4716689036c54f9bbd8f02f01eedb30c]: Commencement: Sch. para. 4 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-4716689036c54f9bbd8f02f01eedb30c]: Commencement: Sch. para. 4 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
 
-[^key-47b5859a38a8a324706c26fd06509a42]: Commencement: Sch. para. 5 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)
+[^c-47b5859a38a8a324706c26fd06509a42]: Commencement: Sch. para. 5 in force at 1.8.2021, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2021/814/article/1/1)

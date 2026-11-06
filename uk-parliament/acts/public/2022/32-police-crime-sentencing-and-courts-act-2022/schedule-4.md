@@ -24,11 +24,11 @@ Section 45
 
 ### PART 1 — Grant of pre-charge bail
 
-#### 1. Amendments to the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60)[^key-66773315e9c637d967e6dadc753ed5de][^key-5dda3f1994fa5ed49b7e86c7c282709d]
+#### 1. Amendments to the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60)[^c-66773315e9c637d967e6dadc753ed5de][^c-5dda3f1994fa5ed49b7e86c7c282709d]
 
 The Police and Criminal Evidence Act 1984 is amended as follows.
 
-**2.**[^key-214d82c1f4e3a612b4186b8a6f0355a7][^key-6fdbfa4e60215509baf3f952db9473af] (1) Section 30A (release of a person arrested elsewhere than at a police station) is amended as follows.
+**2.**[^c-214d82c1f4e3a612b4186b8a6f0355a7][^c-6fdbfa4e60215509baf3f952db9473af] (1) Section 30A (release of a person arrested elsewhere than at a police station) is amended as follows.
 
 (2) For subsection (1) substitute—
 
@@ -42,7 +42,7 @@ The Police and Criminal Evidence Act 1984 is amended as follows.
 
 (5) In subsection (2), after “subsection (1)” insert “or (1C)”.
 
-**3.**[^key-90d4c2667400eea32084d4694204b908][^key-1da501c4dc040d9adf8a7d0285191091] (1) Section 34 (limitations on police detention) is amended as follows.
+**3.**[^c-90d4c2667400eea32084d4694204b908][^c-1da501c4dc040d9adf8a7d0285191091] (1) Section 34 (limitations on police detention) is amended as follows.
 
 (2) For subsection (5) substitute—
 
@@ -54,11 +54,11 @@ The Police and Criminal Evidence Act 1984 is amended as follows.
 
 (4) In subsection (5B)(a), after “subsection (5)” insert “or (5AA)”.
 
-**4.**[^key-761b9565611ed0d6a1344cdace50cdbd][^key-de7a4fa757ae432fbf048d6a97b245b1] In section 36 (custody officers at police stations), after subsection (7B) insert—
+**4.**[^c-761b9565611ed0d6a1344cdace50cdbd][^c-de7a4fa757ae432fbf048d6a97b245b1] In section 36 (custody officers at police stations), after subsection (7B) insert—
 
 > (7C) The reference to a custody officer in section 30A(1A)(b) includes a reference to an officer other than a custody officer who is performing the functions of a custody officer by virtue of subsection (4) above.
 
-**5.**[^key-e6022789895fd83b5defaafeb6a61fad][^key-958b6ed06cd09ac862655eb82c420938] (1) Section 37 (duties of custody officer before charge) is amended as follows.
+**5.**[^c-e6022789895fd83b5defaafeb6a61fad][^c-958b6ed06cd09ac862655eb82c420938] (1) Section 37 (duties of custody officer before charge) is amended as follows.
 
 (2) For subsection (2) substitute—
 
@@ -95,7 +95,7 @@ The Police and Criminal Evidence Act 1984 is amended as follows.
 
 (6) In subsection (8A)(b), for “(c)” substitute “(b)”.
 
-**6.**[^key-5dc77acf3bde730077503f3d42617b65][^key-7eb7975d25faec692a202952cec4ef01] (1) Section 37CA (breach of bail following release under section 37(7)(c)) is amended as follows.
+**6.**[^c-5dc77acf3bde730077503f3d42617b65][^c-7eb7975d25faec692a202952cec4ef01] (1) Section 37CA (breach of bail following release under section 37(7)(c)) is amended as follows.
 
 (2) In the section heading, for “section 37(7)(c)” substitute “section 37(7)(b)”.
 
@@ -110,21 +110,21 @@ The Police and Criminal Evidence Act 1984 is amended as follows.
 >   - (i) without charge, and
 >   - (ii) if the pre-conditions for bail are not satisfied, without bail.
 
-**7.**[^key-e7af76f92770a81fc46876577860a321][^key-ca4733eb188230975ae84c2ce8ea8211] In section 37D(4A) (release on bail under section 37: further provision), for “section 37(7)(c)” substitute “section 37(7)(b)”.
+**7.**[^c-e7af76f92770a81fc46876577860a321][^c-ca4733eb188230975ae84c2ce8ea8211] In section 37D(4A) (release on bail under section 37: further provision), for “section 37(7)(c)” substitute “section 37(7)(b)”.
 
-**8.**[^key-a604822767ed385c15adfc7327f63273][^key-48cac6ebd8c72d2da4eb35ffd92ae5a2] In section 41(7) (release following period of detention without charge), for paragraphs (a) and (b) substitute—
+**8.**[^c-a604822767ed385c15adfc7327f63273][^c-48cac6ebd8c72d2da4eb35ffd92ae5a2] In section 41(7) (release following period of detention without charge), for paragraphs (a) and (b) substitute—
 
 > - (a) on bail, if the pre-conditions for bail are satisfied, or
 > - (b) without bail, if those pre-conditions are not satisfied.
 
-**9.**[^key-90d6d3097f9c63f04761da11f23982b7][^key-aef509c1ff0e622e07ef84adbbc879f2] In section 42(10) (release following continued detention without charge), for paragraphs (a) and (b) and the words following those paragraphs substitute—
+**9.**[^c-90d6d3097f9c63f04761da11f23982b7][^c-aef509c1ff0e622e07ef84adbbc879f2] In section 42(10) (release following continued detention without charge), for paragraphs (a) and (b) and the words following those paragraphs substitute—
 
 > - (a) on bail, if the pre-conditions for bail are satisfied, or
 > - (b) without bail, if those pre-conditions are not satisfied,
 >
 > subject to subsection (10A).
 
-**10.**[^key-d0c68f4e15b5809b2d0fe336b0678c89][^key-9072a407d23cccb1e07ba209195caf7d] (1) Section 43 (warrants of further detention) is amended as follows.
+**10.**[^c-d0c68f4e15b5809b2d0fe336b0678c89][^c-9072a407d23cccb1e07ba209195caf7d] (1) Section 43 (warrants of further detention) is amended as follows.
 
 (2) In subsection (15), for paragraphs (a) and (b) substitute—
 
@@ -136,26 +136,26 @@ The Police and Criminal Evidence Act 1984 is amended as follows.
 > - (a) on bail, if the pre-conditions for bail are satisfied, or
 > - (b) without bail, if those pre-conditions are not satisfied.
 
-**11.**[^key-7cba50e29ac9dc05585a30e255d164d0][^key-9bb4adb543743963adf092d574d8a337] In section 44(7) (release following extension of warrants of further detention), for paragraphs (a) and (b) substitute—
+**11.**[^c-7cba50e29ac9dc05585a30e255d164d0][^c-9bb4adb543743963adf092d574d8a337] In section 44(7) (release following extension of warrants of further detention), for paragraphs (a) and (b) substitute—
 
 > - (a) on bail, if the pre-conditions for bail are satisfied, or
 > - (b) without bail, if those pre-conditions are not satisfied.
 
-**12.**[^key-7e2eae129e5771590001eb6fd1f32d47][^key-ffcafec1c24fe19ed7fd55ae27c3d563] (1) Section 47ZC (applicable bail period: conditions A to D) is amended as follows.
+**12.**[^c-7e2eae129e5771590001eb6fd1f32d47][^c-ffcafec1c24fe19ed7fd55ae27c3d563] (1) Section 47ZC (applicable bail period: conditions A to D) is amended as follows.
 
 (2) In subsection (3)(a), for “section 37(7)(c)” substitute “section 37(7)(b)”.
 
 (3) In subsection (4)(a), for “section 37(7)(c)” substitute “section 37(7)(b)”.
 
-**13.**[^key-09769fdc82e1cbb46f8c7d04a98484b9][^key-9286ecb3248c1db2934bf98ca0837736] In section 50A (interpretation of references to pre-conditions for bail), for paragraph (b) substitute—
+**13.**[^c-09769fdc82e1cbb46f8c7d04a98484b9][^c-9286ecb3248c1db2934bf98ca0837736] In section 50A (interpretation of references to pre-conditions for bail), for paragraph (b) substitute—
 
 > - (b) that the custody officer has considered any representations made by the person or the person’s legal representative.
 
-#### 14. Amendments to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44)[^key-e653fabeccc7db8a7de5b3570d490792][^key-2addbc82c8f71c5b066c9523103b6675]
+#### 14. Amendments to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44)[^c-e653fabeccc7db8a7de5b3570d490792][^c-2addbc82c8f71c5b066c9523103b6675]
 
 The Criminal Justice Act 2003 is amended as follows.
 
-**15.**[^key-e9bded250e7b3201d15752e01793460d][^key-b49993d4704607c36cf84e8d4af3dac5] (1) Section 24A (arrest for failure to comply with conditions attached to conditional caution) is amended as follows.
+**15.**[^c-e9bded250e7b3201d15752e01793460d][^c-b49993d4704607c36cf84e8d4af3dac5] (1) Section 24A (arrest for failure to comply with conditions attached to conditional caution) is amended as follows.
 
 (2) In subsection (2), for paragraphs (b) and (c) substitute—
 
@@ -168,11 +168,11 @@ The Criminal Justice Act 2003 is amended as follows.
 
 (4) In subsection (4), for “subsection (2)(c)” substitute “subsection (2)(b)”.
 
-**6.**[^key-0deac10fa9cb11223166e7e7c3696b8a][^key-7ab0e8fa60a31418cb2d2d3097b9b960] In section 24B(5) (application of PACE provisions), for “section 24A(2)(c)” substitute “section 24A(2)(b)”.
+**6.**[^c-0deac10fa9cb11223166e7e7c3696b8a][^c-7ab0e8fa60a31418cb2d2d3097b9b960] In section 24B(5) (application of PACE provisions), for “section 24A(2)(c)” substitute “section 24A(2)(b)”.
 
 ### PART 2 — Factors to be taken into account in deciding whether to grant pre-charge bail
 
-**17.**[^key-675a162641ee07102aba123a56af9fc5][^key-4b510f1ea9f09ccbae428b1fb675207f] In section 30A of the Police and Criminal Evidence Act 1984 (release of person arrested elsewhere than at police station), after subsection (1A) insert—
+**17.**[^c-675a162641ee07102aba123a56af9fc5][^c-4b510f1ea9f09ccbae428b1fb675207f] In section 30A of the Police and Criminal Evidence Act 1984 (release of person arrested elsewhere than at police station), after subsection (1A) insert—
 
 > (1B) In determining whether releasing the person on bail is necessary and proportionate in all the circumstances, the constable must have regard in particular to—
 >
@@ -182,7 +182,7 @@ The Criminal Justice Act 2003 is amended as follows.
 > - (d) the need to safeguard the person, taking into account any vulnerabilities of the person where these vulnerabilities have been identified by the constable, and
 > - (e) the need to manage risks to the public.
 
-**18.**[^key-0f2dba4b2c05f773fc81dde08491786a][^key-e5b7822e8f1fd46c99e4a2f307e4599d] (1) Section 50A of the Police and Criminal Evidence Act 1984 (interpretation of references to pre-conditions for bail) is amended as follows.
+**18.**[^c-0f2dba4b2c05f773fc81dde08491786a][^c-e5b7822e8f1fd46c99e4a2f307e4599d] (1) Section 50A of the Police and Criminal Evidence Act 1984 (interpretation of references to pre-conditions for bail) is amended as follows.
 
 (2) The existing text becomes subsection (1).
 
@@ -198,17 +198,17 @@ The Criminal Justice Act 2003 is amended as follows.
 
 ### PART 3 — Duty to seek views of alleged victims
 
-#### 19. Amendments to the Bail Act [1976 (c. 63)](https://www.legislation.gov.uk/ukpga/1976/63)[^key-971f33d2d72a92b2433cb4b0f3ff6046][^key-a339ae9914830ff599cfdc1c4ac038a3]
+#### 19. Amendments to the Bail Act [1976 (c. 63)](https://www.legislation.gov.uk/ukpga/1976/63)[^c-971f33d2d72a92b2433cb4b0f3ff6046][^c-a339ae9914830ff599cfdc1c4ac038a3]
 
 In section 3A of the Bail Act 1976 (conditions of bail in case of police bail), after subsection (6) insert—
 
 > (7) For further provision about the grant of bail by a custody officer under Part 4 of the Police and Criminal Evidence Act 1984 or the variation by a custody officer of the conditions of bail granted under that Part, see section 47ZZA of that Act.
 
-#### 20. Amendments to the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60)[^key-47cff912ea4de3a0bce5fb6e71885674][^key-464813398655e897b35efe737e29a81c]
+#### 20. Amendments to the Police and Criminal Evidence Act [1984 (c. 60)](https://www.legislation.gov.uk/ukpga/1984/60)[^c-47cff912ea4de3a0bce5fb6e71885674][^c-464813398655e897b35efe737e29a81c]
 
 The Police and Criminal Evidence Act 1984 is amended as follows.
 
-**21.**[^key-147ef6c87ea21593a2a63e41fda7569a][^key-786603da2b8ad1638a5ae79883556a2e] (1) Section 30CA (bail under section 30A: variation of conditions by police) is amended as follows.
+**21.**[^c-147ef6c87ea21593a2a63e41fda7569a][^c-786603da2b8ad1638a5ae79883556a2e] (1) Section 30CA (bail under section 30A: variation of conditions by police) is amended as follows.
 
 (2) After subsection (4) insert—
 
@@ -249,7 +249,7 @@ The Police and Criminal Evidence Act 1984 is amended as follows.
 >   - (ii) a mental disorder within the meaning of the Mental Health Act 1983, or
 >   - (iii) a significant impairment of intelligence and social functioning.
 
-**22.**[^key-fcb1c6f0e51660f34b53067d95d18d8a][^key-6bb06562c243674defd785130af636fd] After section 47 insert—
+**22.**[^c-fcb1c6f0e51660f34b53067d95d18d8a][^c-6bb06562c243674defd785130af636fd] After section 47 insert—
 
 > **47ZZA. Duty to seek views of alleged victims on conditions of pre-charge bail**
 >
@@ -303,7 +303,7 @@ The Police and Criminal Evidence Act 1984 is amended as follows.
 >   - (ii) a mental disorder within the meaning of the Mental Health Act 1983, or
 >   - (iii) a significant impairment of intelligence and social functioning.
 
-#### 23. Amendments to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44)[^key-dea43ac6eeca56e08fd39e0a6052961c][^key-0320b5fa4368b3a4cdc0023d215d356a]
+#### 23. Amendments to the Criminal Justice Act [2003 (c. 44)](https://www.legislation.gov.uk/ukpga/2003/44)[^c-dea43ac6eeca56e08fd39e0a6052961c][^c-0320b5fa4368b3a4cdc0023d215d356a]
 
 In section 24B(3) of the Criminal Justice Act 2003 (arrest for failure to comply with conditions of conditional caution: application of PACE provisions)—
 
@@ -316,11 +316,11 @@ In section 24B(3) of the Criminal Justice Act 2003 (arrest for failure to comply
 
 ### PART 4 — Limits on period of bail without charge
 
-**24.**[^key-e82810e2e9f175346fa59f00f5978241][^key-aa0300c12018166342ff4b431f5bc23d] The Police and Criminal Evidence Act 1984 is amended as follows.
+**24.**[^c-e82810e2e9f175346fa59f00f5978241][^c-aa0300c12018166342ff4b431f5bc23d] The Police and Criminal Evidence Act 1984 is amended as follows.
 
-**25.**[^key-f1d35813ad69216ee6d3e8bb47e5cd07][^key-3503b3cb8ad3a1b223388ea97ec359b6] In section 30B(8) (notice of release under section 30A: bail end date), for “28 days” substitute “3 months”.
+**25.**[^c-f1d35813ad69216ee6d3e8bb47e5cd07][^c-3503b3cb8ad3a1b223388ea97ec359b6] In section 30B(8) (notice of release under section 30A: bail end date), for “28 days” substitute “3 months”.
 
-**26.**[^key-6ff4e37f5c38a9f4ad8c66c759a098c1][^key-2b4826eb10186602ef8d6e0908c423de] (1) Section 47ZB (applicable bail period: initial limit) is amended as follows.
+**26.**[^c-6ff4e37f5c38a9f4ad8c66c759a098c1][^c-2b4826eb10186602ef8d6e0908c423de] (1) Section 47ZB (applicable bail period: initial limit) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -347,7 +347,7 @@ In section 24B(3) of the Criminal Justice Act 2003 (arrest for failure to comply
 - (c) in paragraph (c)(ii), for “a senior officer” substitute “a member of the Serious Fraud Office”, and
 - (d) omit paragraph (d) and the “and” preceding that paragraph.
 
-**27.**[^key-142d1a68cc4aedd5ffdb385fb33781a1][^key-3f0a23a24b338b5fe35a9e7ec87fd96c] In section 47ZC (applicable bail period: conditions A to D in sections 47ZD to 47ZG), in subsection (6)—
+**27.**[^c-142d1a68cc4aedd5ffdb385fb33781a1][^c-3f0a23a24b338b5fe35a9e7ec87fd96c] In section 47ZC (applicable bail period: conditions A to D in sections 47ZD to 47ZG), in subsection (6)—
 
 - (a) in paragraph (a), for “senior officer” substitute “relevant officer”,
 - (b) after paragraph (a) insert—
@@ -358,7 +358,7 @@ In section 24B(3) of the Criminal Justice Act 2003 (arrest for failure to comply
   , and
 - (c) in paragraph (b), for “appropriate decision-maker” substitute “qualifying police officer”.
 
-**28.**[^key-f0652c8384e823030adf2dea34b2285b][^key-b6854198cda5842d15c46b079374ce1f] (1) Section 47ZD (applicable bail period: extension of initial limit in standard cases) is amended as follows.
+**28.**[^c-f0652c8384e823030adf2dea34b2285b][^c-b6854198cda5842d15c46b079374ce1f] (1) Section 47ZD (applicable bail period: extension of initial limit in standard cases) is amended as follows.
 
 (2) In subsection (1)(c), for “senior officer” substitute “relevant officer”.
 
@@ -373,7 +373,7 @@ In section 24B(3) of the Criminal Justice Act 2003 (arrest for failure to comply
 
 > (6) For the purposes of this Part “**relevant officer**” means a police officer of the rank of inspector or above.
 
-**29.**[^key-2e24dd17adfe2a3b2149ade32376bf47][^key-806157ff6da35d0acd731ad4306ff0da] After section 47ZD insert—
+**29.**[^c-2e24dd17adfe2a3b2149ade32376bf47][^c-806157ff6da35d0acd731ad4306ff0da] After section 47ZD insert—
 
 > **47ZDA. Applicable bail period: further extension of limit in standard cases**
 >
@@ -416,7 +416,7 @@ In section 24B(3) of the Criminal Justice Act 2003 (arrest for failure to comply
 > - (c) in an NCA case, a National Crime Agency officer of a grade that is equivalent to the rank of superintendent or above, and
 > - (d) in an SFO case, a member of the Serious Fraud Office who is of the Senior Civil Service.
 
-**30.**[^key-ddc1ddc29473293ecefe40ff596ea908][^key-abb24d3e2aabb267b44b29b119fd5c2d] (1) Section 47ZE (applicable bail period: extension of limit in designated cases) is amended as follows.
+**30.**[^c-ddc1ddc29473293ecefe40ff596ea908][^c-abb24d3e2aabb267b44b29b119fd5c2d] (1) Section 47ZE (applicable bail period: extension of limit in designated cases) is amended as follows.
 
 (2) In subsection (1), for paragraphs (a) and (b) substitute “a senior officer has authorised an extension of the applicable bail period in relation to the person under section 47ZDA.”
 
@@ -441,7 +441,7 @@ In section 24B(3) of the Criminal Justice Act 2003 (arrest for failure to comply
 
 (8) In subsection (9) omit the definition of “qualifying prosecutor” and the “and” immediately before that definition.
 
-**31.**[^key-4a00dd5ab2165b73fcd8cf338c6291f6][^key-e16defcb5465d4b397f00a4d66963a66] (1) Section 47ZF (applicable bail period: first extension of limit by court) is amended as follows.
+**31.**[^c-4a00dd5ab2165b73fcd8cf338c6291f6][^c-e16defcb5465d4b397f00a4d66963a66] (1) Section 47ZF (applicable bail period: first extension of limit by court) is amended as follows.
 
 (2) In subsection (1)—
 
@@ -479,25 +479,25 @@ In section 24B(3) of the Criminal Justice Act 2003 (arrest for failure to comply
 
 .
 
-**32.**[^key-cb0f77d4de1f628c073c86da57490b5f][^key-d5915da47e6bca5cf669c34ffed98cfa] In section 47ZI (sections 47ZF to 47ZH: proceedings in magistrates’ court), in each of subsections (2)(a) and (3)(a), for “12 months” substitute “24 months”.
+**32.**[^c-cb0f77d4de1f628c073c86da57490b5f][^c-d5915da47e6bca5cf669c34ffed98cfa] In section 47ZI (sections 47ZF to 47ZH: proceedings in magistrates’ court), in each of subsections (2)(a) and (3)(a), for “12 months” substitute “24 months”.
 
-**33.**[^key-366ff56e0a4f2b75b708cebd2757340f][^key-f5a17b4d17102f8a5bbbc1734954dc4f] In section 47ZM(2) (applicable bail period: special case of release on bail under section 30A), for “28 days”, in both places, substitute “3 months”.
+**33.**[^c-366ff56e0a4f2b75b708cebd2757340f][^c-f5a17b4d17102f8a5bbbc1734954dc4f] In section 47ZM(2) (applicable bail period: special case of release on bail under section 30A), for “28 days”, in both places, substitute “3 months”.
 
 ### PART 5 — Police detention after arrest for breach of pre-charge bail etc
 
-**34.**[^key-76ec226a7f7af1531ef05308537394e8][^key-24819cfcaa0a29ba8f3d12ac0a849f2a] The Police and Criminal Evidence Act 1984 is amended as follows.
+**34.**[^c-76ec226a7f7af1531ef05308537394e8][^c-24819cfcaa0a29ba8f3d12ac0a849f2a] The Police and Criminal Evidence Act 1984 is amended as follows.
 
-**35.**[^key-04b39e78f0236eafc821fc30e3550efe][^key-4984fcfc66aaf889cd14e140768c23c7] In section 41 (limits on period of detention without charge), after subsection (12) insert—
+**35.**[^c-04b39e78f0236eafc821fc30e3550efe][^c-4984fcfc66aaf889cd14e140768c23c7] In section 41 (limits on period of detention without charge), after subsection (12) insert—
 
 > (13) Section 47(6) and (6A) makes further provision about the calculation of a period of police detention for the purposes of this Part.
 
-**36.**[^key-9e1bec3aa54b98a3873c79146abe5523][^key-11470263777505d942570ef3a413a8e9] In section 47 (bail after arrest), after subsection (6) insert—
+**36.**[^c-9e1bec3aa54b98a3873c79146abe5523][^c-11470263777505d942570ef3a413a8e9] In section 47 (bail after arrest), after subsection (6) insert—
 
 > (6A) Where a person has been arrested under section 46A above (other than in a case within subsection (1ZA) or (1ZB) of that section) the period of 3 hours beginning with the time at which the person arrives at a police station following the arrest is not to be included as part of any period of police detention which falls to be calculated in relation to the person under this Part of this Act.
 
 ### PART 6 — Guidance on pre-charge bail
 
-**37.**[^key-f369fcfb91dc44986969b31678111b7b][^key-efd9fdf4f3f7dffe85ed89948de8db28] In the Police and Criminal Evidence Act 1984, after section 50A insert—
+**37.**[^c-f369fcfb91dc44986969b31678111b7b][^c-efd9fdf4f3f7dffe85ed89948de8db28] In the Police and Criminal Evidence Act 1984, after section 50A insert—
 
 > **50B. Guidance from the College of Policing on pre-charge bail**
 >
@@ -543,150 +543,150 @@ In section 24B(3) of the Criminal Justice Act 2003 (arrest for failure to comply
 
 ## Annotations
 
-[^key-66773315e9c637d967e6dadc753ed5de]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-66773315e9c637d967e6dadc753ed5de]: Commencement: Sch. 4 para. 1 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-5dda3f1994fa5ed49b7e86c7c282709d]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/1) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-5dda3f1994fa5ed49b7e86c7c282709d]: Commencement: [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/1) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-214d82c1f4e3a612b4186b8a6f0355a7]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-214d82c1f4e3a612b4186b8a6f0355a7]: Commencement: Sch. 4 para. 2 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-6fdbfa4e60215509baf3f952db9473af]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/2) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-6fdbfa4e60215509baf3f952db9473af]: Commencement: [Sch. 4 para. 2](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/2) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-90d4c2667400eea32084d4694204b908]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-90d4c2667400eea32084d4694204b908]: Commencement: Sch. 4 para. 3 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-1da501c4dc040d9adf8a7d0285191091]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/3) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-1da501c4dc040d9adf8a7d0285191091]: Commencement: [Sch. 4 para. 3](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/3) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-761b9565611ed0d6a1344cdace50cdbd]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-761b9565611ed0d6a1344cdace50cdbd]: Commencement: Sch. 4 para. 4 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-de7a4fa757ae432fbf048d6a97b245b1]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/4) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-de7a4fa757ae432fbf048d6a97b245b1]: Commencement: [Sch. 4 para. 4](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/4) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-e6022789895fd83b5defaafeb6a61fad]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-e6022789895fd83b5defaafeb6a61fad]: Commencement: Sch. 4 para. 5 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-958b6ed06cd09ac862655eb82c420938]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/5) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-958b6ed06cd09ac862655eb82c420938]: Commencement: [Sch. 4 para. 5](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/5) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-5dc77acf3bde730077503f3d42617b65]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-5dc77acf3bde730077503f3d42617b65]: Commencement: Sch. 4 para. 6 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-7eb7975d25faec692a202952cec4ef01]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/6) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-7eb7975d25faec692a202952cec4ef01]: Commencement: [Sch. 4 para. 6](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/6) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-e7af76f92770a81fc46876577860a321]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-e7af76f92770a81fc46876577860a321]: Commencement: Sch. 4 para. 7 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-ca4733eb188230975ae84c2ce8ea8211]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/7) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-ca4733eb188230975ae84c2ce8ea8211]: Commencement: [Sch. 4 para. 7](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/7) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-a604822767ed385c15adfc7327f63273]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-a604822767ed385c15adfc7327f63273]: Commencement: Sch. 4 para. 8 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-48cac6ebd8c72d2da4eb35ffd92ae5a2]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/8) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-48cac6ebd8c72d2da4eb35ffd92ae5a2]: Commencement: [Sch. 4 para. 8](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/8) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-90d6d3097f9c63f04761da11f23982b7]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-90d6d3097f9c63f04761da11f23982b7]: Commencement: Sch. 4 para. 9 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-aef509c1ff0e622e07ef84adbbc879f2]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/9) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-aef509c1ff0e622e07ef84adbbc879f2]: Commencement: [Sch. 4 para. 9](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/9) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-d0c68f4e15b5809b2d0fe336b0678c89]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-d0c68f4e15b5809b2d0fe336b0678c89]: Commencement: Sch. 4 para. 10 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-9072a407d23cccb1e07ba209195caf7d]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/10) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-9072a407d23cccb1e07ba209195caf7d]: Commencement: [Sch. 4 para. 10](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/10) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-7cba50e29ac9dc05585a30e255d164d0]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-7cba50e29ac9dc05585a30e255d164d0]: Commencement: Sch. 4 para. 11 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-9bb4adb543743963adf092d574d8a337]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/11) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-9bb4adb543743963adf092d574d8a337]: Commencement: [Sch. 4 para. 11](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/11) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-7e2eae129e5771590001eb6fd1f32d47]: Commencement: Sch. 4 para. 12 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-7e2eae129e5771590001eb6fd1f32d47]: Commencement: Sch. 4 para. 12 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-ffcafec1c24fe19ed7fd55ae27c3d563]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/12) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-ffcafec1c24fe19ed7fd55ae27c3d563]: Commencement: [Sch. 4 para. 12](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/12) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-09769fdc82e1cbb46f8c7d04a98484b9]: Commencement: Sch. 4 para. 13 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-09769fdc82e1cbb46f8c7d04a98484b9]: Commencement: Sch. 4 para. 13 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-9286ecb3248c1db2934bf98ca0837736]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/13) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-9286ecb3248c1db2934bf98ca0837736]: Commencement: [Sch. 4 para. 13](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/13) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-e653fabeccc7db8a7de5b3570d490792]: Commencement: Sch. 4 para. 14 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-e653fabeccc7db8a7de5b3570d490792]: Commencement: Sch. 4 para. 14 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-2addbc82c8f71c5b066c9523103b6675]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/14) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-2addbc82c8f71c5b066c9523103b6675]: Commencement: [Sch. 4 para. 14](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/14) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-e9bded250e7b3201d15752e01793460d]: Commencement: Sch. 4 para. 15 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-e9bded250e7b3201d15752e01793460d]: Commencement: Sch. 4 para. 15 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-b49993d4704607c36cf84e8d4af3dac5]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/15) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-b49993d4704607c36cf84e8d4af3dac5]: Commencement: [Sch. 4 para. 15](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/15) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-0deac10fa9cb11223166e7e7c3696b8a]: Commencement: Sch. 4 para. 16 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-0deac10fa9cb11223166e7e7c3696b8a]: Commencement: Sch. 4 para. 16 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-7ab0e8fa60a31418cb2d2d3097b9b960]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/16) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-7ab0e8fa60a31418cb2d2d3097b9b960]: Commencement: [Sch. 4 para. 16](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/16) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-675a162641ee07102aba123a56af9fc5]: Commencement: Sch. 4 para. 17 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-675a162641ee07102aba123a56af9fc5]: Commencement: Sch. 4 para. 17 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-4b510f1ea9f09ccbae428b1fb675207f]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/17) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-4b510f1ea9f09ccbae428b1fb675207f]: Commencement: [Sch. 4 para. 17](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/17) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-0f2dba4b2c05f773fc81dde08491786a]: Commencement: Sch. 4 para. 18 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-0f2dba4b2c05f773fc81dde08491786a]: Commencement: Sch. 4 para. 18 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-e5b7822e8f1fd46c99e4a2f307e4599d]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/18) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-e5b7822e8f1fd46c99e4a2f307e4599d]: Commencement: [Sch. 4 para. 18](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/18) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-971f33d2d72a92b2433cb4b0f3ff6046]: Commencement: Sch. 4 para. 19 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-971f33d2d72a92b2433cb4b0f3ff6046]: Commencement: Sch. 4 para. 19 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-a339ae9914830ff599cfdc1c4ac038a3]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/19) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-a339ae9914830ff599cfdc1c4ac038a3]: Commencement: [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/19) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-47cff912ea4de3a0bce5fb6e71885674]: Commencement: Sch. 4 para. 20 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-47cff912ea4de3a0bce5fb6e71885674]: Commencement: Sch. 4 para. 20 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-464813398655e897b35efe737e29a81c]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/20) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-464813398655e897b35efe737e29a81c]: Commencement: [Sch. 4 para. 20](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/20) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-147ef6c87ea21593a2a63e41fda7569a]: Commencement: Sch. 4 para. 21 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-147ef6c87ea21593a2a63e41fda7569a]: Commencement: Sch. 4 para. 21 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-786603da2b8ad1638a5ae79883556a2e]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/21) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-786603da2b8ad1638a5ae79883556a2e]: Commencement: [Sch. 4 para. 21](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/21) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-fcb1c6f0e51660f34b53067d95d18d8a]: Commencement: Sch. 4 para. 22 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-fcb1c6f0e51660f34b53067d95d18d8a]: Commencement: Sch. 4 para. 22 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-6bb06562c243674defd785130af636fd]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/22) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-6bb06562c243674defd785130af636fd]: Commencement: [Sch. 4 para. 22](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/22) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-dea43ac6eeca56e08fd39e0a6052961c]: Commencement: Sch. 4 para. 23 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-dea43ac6eeca56e08fd39e0a6052961c]: Commencement: Sch. 4 para. 23 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-0320b5fa4368b3a4cdc0023d215d356a]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/23) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-0320b5fa4368b3a4cdc0023d215d356a]: Commencement: [Sch. 4 para. 23](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/23) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-e82810e2e9f175346fa59f00f5978241]: Commencement: Sch. 4 para. 24 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-e82810e2e9f175346fa59f00f5978241]: Commencement: Sch. 4 para. 24 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-aa0300c12018166342ff4b431f5bc23d]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/24) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-aa0300c12018166342ff4b431f5bc23d]: Commencement: [Sch. 4 para. 24](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/24) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-f1d35813ad69216ee6d3e8bb47e5cd07]: Commencement: Sch. 4 para. 25 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-f1d35813ad69216ee6d3e8bb47e5cd07]: Commencement: Sch. 4 para. 25 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-3503b3cb8ad3a1b223388ea97ec359b6]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/25) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-3503b3cb8ad3a1b223388ea97ec359b6]: Commencement: [Sch. 4 para. 25](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/25) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-6ff4e37f5c38a9f4ad8c66c759a098c1]: Commencement: Sch. 4 para. 26 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-6ff4e37f5c38a9f4ad8c66c759a098c1]: Commencement: Sch. 4 para. 26 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-2b4826eb10186602ef8d6e0908c423de]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/26) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-2b4826eb10186602ef8d6e0908c423de]: Commencement: [Sch. 4 para. 26](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/26) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-142d1a68cc4aedd5ffdb385fb33781a1]: Commencement: Sch. 4 para. 27 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-142d1a68cc4aedd5ffdb385fb33781a1]: Commencement: Sch. 4 para. 27 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-3f0a23a24b338b5fe35a9e7ec87fd96c]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/27) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-3f0a23a24b338b5fe35a9e7ec87fd96c]: Commencement: [Sch. 4 para. 27](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/27) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-f0652c8384e823030adf2dea34b2285b]: Commencement: Sch. 4 para. 28 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-f0652c8384e823030adf2dea34b2285b]: Commencement: Sch. 4 para. 28 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-b6854198cda5842d15c46b079374ce1f]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/28) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-b6854198cda5842d15c46b079374ce1f]: Commencement: [Sch. 4 para. 28](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/28) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-2e24dd17adfe2a3b2149ade32376bf47]: Commencement: Sch. 4 para. 29 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-2e24dd17adfe2a3b2149ade32376bf47]: Commencement: Sch. 4 para. 29 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-806157ff6da35d0acd731ad4306ff0da]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/29) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-806157ff6da35d0acd731ad4306ff0da]: Commencement: [Sch. 4 para. 29](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/29) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-ddc1ddc29473293ecefe40ff596ea908]: Commencement: Sch. 4 para. 30 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-ddc1ddc29473293ecefe40ff596ea908]: Commencement: Sch. 4 para. 30 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-abb24d3e2aabb267b44b29b119fd5c2d]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/30) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-abb24d3e2aabb267b44b29b119fd5c2d]: Commencement: [Sch. 4 para. 30](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/30) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-4a00dd5ab2165b73fcd8cf338c6291f6]: Commencement: Sch. 4 para. 31 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-4a00dd5ab2165b73fcd8cf338c6291f6]: Commencement: Sch. 4 para. 31 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-e16defcb5465d4b397f00a4d66963a66]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/31) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-e16defcb5465d4b397f00a4d66963a66]: Commencement: [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/31) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-cb0f77d4de1f628c073c86da57490b5f]: Commencement: Sch. 4 para. 32 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-cb0f77d4de1f628c073c86da57490b5f]: Commencement: Sch. 4 para. 32 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-d5915da47e6bca5cf669c34ffed98cfa]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/32) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-d5915da47e6bca5cf669c34ffed98cfa]: Commencement: [Sch. 4 para. 32](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/32) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-366ff56e0a4f2b75b708cebd2757340f]: Commencement: Sch. 4 para. 33 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-366ff56e0a4f2b75b708cebd2757340f]: Commencement: Sch. 4 para. 33 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-f5a17b4d17102f8a5bbbc1734954dc4f]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/33) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-f5a17b4d17102f8a5bbbc1734954dc4f]: Commencement: [Sch. 4 para. 33](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/33) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-76ec226a7f7af1531ef05308537394e8]: Commencement: Sch. 4 para. 34 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-76ec226a7f7af1531ef05308537394e8]: Commencement: Sch. 4 para. 34 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-24819cfcaa0a29ba8f3d12ac0a849f2a]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/34) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-24819cfcaa0a29ba8f3d12ac0a849f2a]: Commencement: [Sch. 4 para. 34](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/34) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-04b39e78f0236eafc821fc30e3550efe]: Commencement: Sch. 4 para. 35 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-04b39e78f0236eafc821fc30e3550efe]: Commencement: Sch. 4 para. 35 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-4984fcfc66aaf889cd14e140768c23c7]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/35) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-4984fcfc66aaf889cd14e140768c23c7]: Commencement: [Sch. 4 para. 35](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/35) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-9e1bec3aa54b98a3873c79146abe5523]: Commencement: Sch. 4 para. 36 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-9e1bec3aa54b98a3873c79146abe5523]: Commencement: Sch. 4 para. 36 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-11470263777505d942570ef3a413a8e9]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/36) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
+[^c-11470263777505d942570ef3a413a8e9]: Commencement: [Sch. 4 para. 36](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/36) in force at 28.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 4(b)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/4/b)
 
-[^key-f369fcfb91dc44986969b31678111b7b]: Commencement: Sch. 4 para. 37 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
+[^c-f369fcfb91dc44986969b31678111b7b]: Commencement: Sch. 4 para. 37 not in force at Royal Assent, see [s. 208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1)
 
-[^key-efd9fdf4f3f7dffe85ed89948de8db28]: Commencement: [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/37) in force at 26.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/e)
+[^c-efd9fdf4f3f7dffe85ed89948de8db28]: Commencement: [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/2022/32/schedule/4/paragraph/37) in force at 26.10.2022 by [S.I. 2022/1075](https://www.legislation.gov.uk/uksi/2022/1075), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2022/1075/regulation/3/e)

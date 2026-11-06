@@ -31,24 +31,24 @@ summary: ''
 - (b) the own funds requirements for foreign exchange risk referred to in Chapter 3;
 - (c) the own funds requirements for commodity risk referred to in Chapter 4.
 
-3.[^key-a026c1c4e9a93908084877c016806eac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+3.[^c-a026c1c4e9a93908084877c016806eac] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 4. An institution may use in combination the approaches set out in points (a) and (b) of paragraph 1 of this Article on a permanent basis within a group in accordance with Article 363.
 
-5.[^key-e5e25283b2db0586ad659661790b29d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+5.[^c-e5e25283b2db0586ad659661790b29d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-6.[^key-e5e25283b2db0586ad659661790b29d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+6.[^c-e5e25283b2db0586ad659661790b29d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-7.[^key-e5e25283b2db0586ad659661790b29d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+7.[^c-e5e25283b2db0586ad659661790b29d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-8.[^key-e5e25283b2db0586ad659661790b29d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+8.[^c-e5e25283b2db0586ad659661790b29d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-9.[^key-e5e25283b2db0586ad659661790b29d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9.[^c-e5e25283b2db0586ad659661790b29d5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
 [^c000001]: Editorial: Substituted by [Corrigendum to Regulation (EU) No 575/2013 of the European Parliament and of the Council of 26 June 2013 on prudential requirements for credit institutions and investment firms and amending Regulation (EU) No 648/2012 (OJ L 176, 27.6.2013, p. 1)](https://www.legislation.gov.uk/eur/2013/575/pdfs/eurcs_20130575_en_002.pdf).
 
-[^key-a026c1c4e9a93908084877c016806eac]: Textual amendment: [Art. 325(3)](https://www.legislation.gov.uk/eur/2013/575/article/325/3) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(36)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/36)
+[^c-a026c1c4e9a93908084877c016806eac]: Textual amendment: [Art. 325(3)](https://www.legislation.gov.uk/eur/2013/575/article/325/3) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(36)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/36)
 
-[^key-e5e25283b2db0586ad659661790b29d5]: Textual amendment: [Art. 325(5)-(9)](https://www.legislation.gov.uk/eur/2013/575/article/325/5) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(36)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/36)
+[^c-e5e25283b2db0586ad659661790b29d5]: Textual amendment: [Art. 325(5)-(9)](https://www.legislation.gov.uk/eur/2013/575/article/325/5) omitted (1.1.2022) by virtue of [The Financial Services Act 2021 (Prudential Regulation of Credit Institutions and Investment Firms) (Consequential Amendments and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/1376)](https://www.legislation.gov.uk/uksi/2021/1376), [regs. 1(3)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/1/3), [25(36)](https://www.legislation.gov.uk/uksi/2021/1376/regulation/25/36)

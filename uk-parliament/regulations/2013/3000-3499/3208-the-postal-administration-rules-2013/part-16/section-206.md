@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 206. “Debt”, “liability”[^key-9d11b105cb103a98625b3b95fd167d78]
+## 206. “Debt”, “liability”[^c-9d11b105cb103a98625b3b95fd167d78]
 
 *Extent: E+W*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-9d11b105cb103a98625b3b95fd167d78]: Commencement: [Rule 206](https://www.legislation.gov.uk/uksi/2013/3208/rule/206) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)
+[^c-9d11b105cb103a98625b3b95fd167d78]: Commencement: [Rule 206](https://www.legislation.gov.uk/uksi/2013/3208/rule/206) in force at 31.1.2014, see [rule 1](https://www.legislation.gov.uk/uksi/2013/3208/rule/1)

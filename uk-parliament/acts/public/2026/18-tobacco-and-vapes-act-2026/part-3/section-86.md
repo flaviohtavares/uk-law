@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 86. Interpretation of 1978 Order[^key-076246b8bf17e753dcc0d428d70af25f]
+## 86. Interpretation of 1978 Order[^c-076246b8bf17e753dcc0d428d70af25f]
 
 *Extent: N.I.*
 
@@ -75,4 +75,4 @@ For Article 7 of the Health and Personal Social Services (Northern Ireland) Orde
 
 ## Annotations
 
-[^key-076246b8bf17e753dcc0d428d70af25f]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2026/18/section/86) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-076246b8bf17e753dcc0d428d70af25f]: Commencement: [S. 86](https://www.legislation.gov.uk/ukpga/2026/18/section/86) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

@@ -16,14 +16,14 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11. Powers of governing bodies to form or invest in companies to provide services etc.[^c396165][^key-064583b1c7576f68af55a97791ff4086]
+## 11. Powers of governing bodies to form or invest in companies to provide services etc.[^c396165][^c-064583b1c7576f68af55a97791ff4086]
 
 *Extent: E+W*
 
 (1) The governing body of a maintained school may form, or participate in forming, companies—
 
 - (a) to provide services or facilities for any schools,
-- (b) to exercise relevant local authority[^key-379c0a8ab791aad4cda0b42dbea5f020] functions, or
+- (b) to exercise relevant local authority[^c-379c0a8ab791aad4cda0b42dbea5f020] functions, or
 - (c) to make, or facilitate the making of, arrangements under which facilities or services are provided for any schools by other persons.
 
 (2) The governing body of a maintained school may, with a view to securing or facilitating—
@@ -48,8 +48,8 @@ invest in the company which is to provide the services or facilities or exercise
 
 (9) In this section and section 12—
 
-- “**company**” means a company registered under the Companies Act 2006[^key-c80b87342f2ffd02ad6a0d5e1025c5b6] as a company limited by shares or a company limited by guarantee;
-- “**relevant local authority functions**”, in relation to a company, means the education functions[^key-5b06d10d0fcc9f2b118ee1d91a9e0a53] of any local authority that are or may become[^key-0e29abdef0e03bcd6fd69dd212d2bf37] exercisable by the company in accordance with an authorisation given or direction made by virtue of any enactment;
+- “**company**” means a company registered under the Companies Act 2006[^c-c80b87342f2ffd02ad6a0d5e1025c5b6] as a company limited by shares or a company limited by guarantee;
+- “**relevant local authority functions**”, in relation to a company, means the education functions[^c-5b06d10d0fcc9f2b118ee1d91a9e0a53] of any local authority that are or may become[^c-0e29abdef0e03bcd6fd69dd212d2bf37] exercisable by the company in accordance with an authorisation given or direction made by virtue of any enactment;
 - “**facilities**” includes the provision of (or of the use of) premises, goods, materials, vehicles, plant or apparatus;
 - “**maintained school**” means a community, foundation or voluntary school, a community or foundation special school or a maintained nursery school;
 - “**participating school**”, in relation to a company, means a school whose governing body is, or is to be, a member of the company.
@@ -60,12 +60,12 @@ invest in the company which is to provide the services or facilities or exercise
 
 [^c396165]: Commencement: S. 11 partly in force; s. 11 not in force at Royal Assent, see s. 216; s. 11 in force for E. at 20.1.2003 by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2) (with savings and transitional provisions in [Sch.](https://www.legislation.gov.uk/uksi/2002/2952/schedule))
 
-[^key-064583b1c7576f68af55a97791ff4086]: Commencement: S. 11 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
+[^c-064583b1c7576f68af55a97791ff4086]: Commencement: S. 11 in force at 20.1.2003 except in relation to W. by [S.I. 2002/2952](https://www.legislation.gov.uk/uksi/2002/2952), [art. 2](https://www.legislation.gov.uk/uksi/2002/2952/article/2)
 
-[^key-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
+[^c-379c0a8ab791aad4cda0b42dbea5f020]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/2)
 
-[^key-c80b87342f2ffd02ad6a0d5e1025c5b6]: Textual amendment: Words in s. 11(9) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 198(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/198/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
+[^c-c80b87342f2ffd02ad6a0d5e1025c5b6]: Textual amendment: Words in s. 11(9) substituted (1.10.2009) by [The Companies Act 2006 (Consequential Amendments, Transitional Provisions and Savings) Order 2009 (S.I. 2009/1941)](https://www.legislation.gov.uk/uksi/2009/1941), [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1941/article/1/2), [Sch. 1 para. 198(2)](https://www.legislation.gov.uk/uksi/2009/1941/schedule/1/paragraph/198/2) (with [art. 10](https://www.legislation.gov.uk/uksi/2009/1941/article/10))
 
-[^key-5b06d10d0fcc9f2b118ee1d91a9e0a53]: Textual amendment: Words in s. 11(9) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(4)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/4/a)
+[^c-5b06d10d0fcc9f2b118ee1d91a9e0a53]: Textual amendment: Words in s. 11(9) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(4)(a)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/4/a)
 
-[^key-0e29abdef0e03bcd6fd69dd212d2bf37]: Textual amendment: Words in s. 11(9) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(4)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/4/b)
+[^c-0e29abdef0e03bcd6fd69dd212d2bf37]: Textual amendment: Words in s. 11(9) substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [art. 1](https://www.legislation.gov.uk/uksi/2010/1158/article/1), [Sch. 2 para. 11(4)(b)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/11/4/b)

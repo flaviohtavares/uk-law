@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 65. Revision of the statement of proposals[^key-96f5ab23fb80da97d47612b624066191]
+## 65. Revision of the statement of proposals[^c-96f5ab23fb80da97d47612b624066191]
 
 *Extent: E+W*
 
@@ -33,7 +33,7 @@ summary: ''
 - (g) details of the proposed revision including details of the administrator’s assessment of the likely impact of the proposed revision upon the creditors generally or upon each class of creditor or on the clients (as the case may be); and
 - (h) any other information that the administrator thinks necessary to enable creditors to decide whether or not to vote for the proposed revisions.
 
-(3) The FCA[^key-cf4596546a60fb6fccfd111def181f52] and, where the investment bank concerned is a PRA-authorised person, the PRA shall be sent a copy of the revised statement at the same time as the revised statement is sent out.
+(3) The FCA[^c-cf4596546a60fb6fccfd111def181f52] and, where the investment bank concerned is a PRA-authorised person, the PRA shall be sent a copy of the revised statement at the same time as the revised statement is sent out.
 
 (4) Where the administrator considers that the revision proposed will only affect creditors or, as the case may be, clients, the notice of the meeting to consider the revised proposals shall be sent to both creditors and clients, but will state who is invited to the meeting.
 
@@ -51,7 +51,7 @@ summary: ''
 (9) Paragraphs (4) and (5) shall not apply—
 
 - (a) in a special administration (bank administration) where—
-  - (i) the FCA[^key-472d707f9fe2b53eae36ef93278fc2d1] or, where relevant, the PRA has given a direction under regulation 16 and has not withdrawn its direction at the time that the administrator proposes a revision to the statement of proposals, and
+  - (i) the FCA[^c-472d707f9fe2b53eae36ef93278fc2d1] or, where relevant, the PRA has given a direction under regulation 16 and has not withdrawn its direction at the time that the administrator proposes a revision to the statement of proposals, and
   - (ii) Objective A has been achieved; and
 - (b) in a special administration or a special administration (bank insolvency) where the FCA or, where relevant, the PRA has given a direction under regulation 16 and has not withdrawn its direction at the time that the administrator proposes a revision to the statement of proposals.
 
@@ -62,8 +62,8 @@ summary: ''
 
 ## Annotations
 
-[^key-96f5ab23fb80da97d47612b624066191]: Commencement: [Rule 65](https://www.legislation.gov.uk/uksi/2011/1301/rule/65) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-96f5ab23fb80da97d47612b624066191]: Commencement: [Rule 65](https://www.legislation.gov.uk/uksi/2011/1301/rule/65) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
 
-[^key-cf4596546a60fb6fccfd111def181f52]: Textual amendment: Words in [art. 65(3)](https://www.legislation.gov.uk/uksi/2011/1301/article/65/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/vi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-cf4596546a60fb6fccfd111def181f52]: Textual amendment: Words in [art. 65(3)](https://www.legislation.gov.uk/uksi/2011/1301/article/65/3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(c)(d)(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/c/d/vi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
 
-[^key-472d707f9fe2b53eae36ef93278fc2d1]: Textual amendment: Words in [art. 65(9)](https://www.legislation.gov.uk/uksi/2011/1301/article/65/9) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(xi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/xi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))
+[^c-472d707f9fe2b53eae36ef93278fc2d1]: Textual amendment: Words in [art. 65(9)](https://www.legislation.gov.uk/uksi/2011/1301/article/65/9) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 210(a)(b)(xi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/210/a/b/xi) (with [Sch. 2 para. 211](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/211))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 19. Challenge of decisions[^key-93d9e16e2ad72221730a5865fbf8de7a]
+## 19. Challenge of decisions[^c-93d9e16e2ad72221730a5865fbf8de7a]
 
 *Extent: N.I.*
 
@@ -97,4 +97,4 @@ summary: ''
 
 ## Annotations
 
-[^key-93d9e16e2ad72221730a5865fbf8de7a]: Commencement: S. 19 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-93d9e16e2ad72221730a5865fbf8de7a]: Commencement: S. 19 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

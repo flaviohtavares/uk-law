@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 291. Meaning of “ADR” and related terms[^key-b0b334dd37588d22a8eff21b17876f2b][^key-0f4ca6549d2695de1c1151af2a2eeb39]
+## 291. Meaning of “ADR” and related terms[^c-b0b334dd37588d22a8eff21b17876f2b][^c-0f4ca6549d2695de1c1151af2a2eeb39]
 
 *Extent: E+W+S+N.I.*
 
@@ -64,6 +64,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b0b334dd37588d22a8eff21b17876f2b]: Commencement: S. 291 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
+[^c-b0b334dd37588d22a8eff21b17876f2b]: Commencement: S. 291 not in force at Royal Assent, see [s. 339(1)](https://www.legislation.gov.uk/ukpga/2024/13/section/339/1)
 
-[^key-0f4ca6549d2695de1c1151af2a2eeb39]: Commencement: [S. 291](https://www.legislation.gov.uk/ukpga/2024/13/section/291) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)
+[^c-0f4ca6549d2695de1c1151af2a2eeb39]: Commencement: [S. 291](https://www.legislation.gov.uk/ukpga/2024/13/section/291) in force at 6.4.2026 by [S.I. 2026/284](https://www.legislation.gov.uk/uksi/2026/284), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/1)[(2)](https://www.legislation.gov.uk/uksi/2026/284/regulation/2/2)

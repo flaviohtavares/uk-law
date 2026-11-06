@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 76. Review of council tax arrears: joint and several liability[^key-cd3c313a025e8181dd1ee2a44231e86b][^key-bbc98efa41c8c55fb68a5661da9695d8]
+## 76. Review of council tax arrears: joint and several liability[^c-cd3c313a025e8181dd1ee2a44231e86b][^c-bbc98efa41c8c55fb68a5661da9695d8]
 
 *Extent: S*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cd3c313a025e8181dd1ee2a44231e86b]: Commencement: S. 76 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
+[^c-cd3c313a025e8181dd1ee2a44231e86b]: Commencement: S. 76 not in force at Royal Assent, see [s. 86(2)](https://www.legislation.gov.uk/asp/2025/13/section/86/2)
 
-[^key-bbc98efa41c8c55fb68a5661da9695d8]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2025/13/section/76) in force at 12.1.2026 by [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/b)
+[^c-bbc98efa41c8c55fb68a5661da9695d8]: Commencement: [S. 76](https://www.legislation.gov.uk/asp/2025/13/section/76) in force at 12.1.2026 by [S.S.I. 2025/408](https://www.legislation.gov.uk/ssi/2025/408), [reg. 2(b)](https://www.legislation.gov.uk/ssi/2025/408/regulation/2/b)

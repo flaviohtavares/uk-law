@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 75D. Reduction of housing benefit[^key-3300f6a4af88852333099a324a65cb9a]
+## 75D. Reduction of housing benefit[^c-3300f6a4af88852333099a324a65cb9a]
 
 *Extent: E+W+S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3300f6a4af88852333099a324a65cb9a]: Textual amendment: Pt. 8A inserted (15.4.2013) by [The Benefit Cap (Housing Benefit) Regulations 2012 (S.I. 2012/2994)](https://www.legislation.gov.uk/uksi/2012/2994), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2994/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/2994/regulation/2/5) (as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/51); [S.I. 2013/546](https://www.legislation.gov.uk/uksi/2013/546), [regs. 1](https://www.legislation.gov.uk/uksi/2013/546/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/546/regulation/2); and [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1), [Sch. para. 48(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/48/2))
+[^c-3300f6a4af88852333099a324a65cb9a]: Textual amendment: Pt. 8A inserted (15.4.2013) by [The Benefit Cap (Housing Benefit) Regulations 2012 (S.I. 2012/2994)](https://www.legislation.gov.uk/uksi/2012/2994), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2994/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2012/2994/regulation/2/5) (as amended by [S.I. 2013/388](https://www.legislation.gov.uk/uksi/2013/388), [reg. 2](https://www.legislation.gov.uk/uksi/2013/388/regulation/2), [Sch. para. 51](https://www.legislation.gov.uk/uksi/2013/388/schedule/paragraph/51); [S.I. 2013/546](https://www.legislation.gov.uk/uksi/2013/546), [regs. 1](https://www.legislation.gov.uk/uksi/2013/546/regulation/1), [2](https://www.legislation.gov.uk/uksi/2013/546/regulation/2); and [S.I. 2013/591](https://www.legislation.gov.uk/uksi/2013/591), [art. 2(1)](https://www.legislation.gov.uk/uksi/2013/591/article/2/1), [Sch. para. 48(2)](https://www.legislation.gov.uk/uksi/2013/591/schedule/paragraph/48/2))

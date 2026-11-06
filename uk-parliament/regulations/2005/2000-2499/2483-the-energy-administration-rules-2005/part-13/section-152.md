@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 152. Costs of proceedings under section 236[^key-6b9d97a1329b6ea744f10fbbb23e9ac0]
+## 152. Costs of proceedings under section 236[^c-6b9d97a1329b6ea744f10fbbb23e9ac0]
 
 *Extent: E+W*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6b9d97a1329b6ea744f10fbbb23e9ac0]: Commencement: Rule 152 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-6b9d97a1329b6ea744f10fbbb23e9ac0]: Commencement: Rule 152 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

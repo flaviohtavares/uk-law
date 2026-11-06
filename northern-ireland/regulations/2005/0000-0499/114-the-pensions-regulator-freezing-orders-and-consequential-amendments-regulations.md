@@ -41,7 +41,7 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred by sections 89A(2), 95(4) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001], and now vested in it[^f00002], and Articles 19(10), 20(7)(a), 26(7)(c) and 287(3) of the Pensions (Northern Ireland) Order 2005[^f00003] and of all other powers enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-54a5cdb55a4c0efde9580cf85a9c3dcc]
+## 1. Citation, commencement and interpretation[^c-54a5cdb55a4c0efde9580cf85a9c3dcc]
 
 (1) These regulations may be cited as the Pensions Regulator (Freezing Orders and Consequential Amendments) Regulations (Northern Ireland) 2005 and shall come into operation on 6th April 2005.
 
@@ -51,11 +51,11 @@ The Department for Social Development, in exercise of the powers conferred by se
 - “the Order” means the Pensions (Northern Ireland) Order 2005, and
 - “salary related occupational pension scheme” shall be construed in accordance with section 89(1A) of the Act[^f00004].
 
-## 2. Meaning of “the actuary”[^key-b74e0f903c49db25eabffe12db0eba6e]
+## 2. Meaning of “the actuary”[^c-b74e0f903c49db25eabffe12db0eba6e]
 
-The qualification[^key-9368d68fafbc6fe3172b52abb2d5c42e] prescribed for the purposes of paragraph (b)(i) of the definition of “the actuary” in Article 19(10) of the Order (freezing orders) is Fellowship of the Institute and Faculty of Actuaries.[^M_F_397e4525-06e6-40c1-95e3-a0199a906c97]
+The qualification[^c-9368d68fafbc6fe3172b52abb2d5c42e] prescribed for the purposes of paragraph (b)(i) of the definition of “the actuary” in Article 19(10) of the Order (freezing orders) is Fellowship of the Institute and Faculty of Actuaries.[^M_F_397e4525-06e6-40c1-95e3-a0199a906c97]
 
-## 3. Modification of the Act[^key-413d080de7b6f5c8f587a0aba4cf258b]
+## 3. Modification of the Act[^c-413d080de7b6f5c8f587a0aba4cf258b]
 
 (1) This regulation applies where, in relation to a salary related occupational pension scheme –
 
@@ -70,7 +70,7 @@ The qualification[^key-9368d68fafbc6fe3172b52abb2d5c42e] prescribed for the purp
 
 .
 
-## 4. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations[^key-a6996e45ac8abeb720439b4d515c086d]
+## 4. Amendment of the Occupational Pension Schemes (Transfer Values) Regulations[^c-a6996e45ac8abeb720439b4d515c086d]
 
 (1) The Occupational Pension Schemes (Transfer Values) Regulations (Northern Ireland) 1996[^f00006] shall be amended in accordance with the following paragraphs.
 
@@ -106,7 +106,7 @@ The qualification[^key-9368d68fafbc6fe3172b52abb2d5c42e] prescribed for the purp
   , and
 - (c) in paragraph (c) for “paragraph (a) or (b)” there shall be substituted “paragraph (a), (b) or (ba)”.
 
-## 5. Prescribed period for notification of non-payment of contribution[^key-6dd57f2eac71e9013ac433281461a322]
+## 5. Prescribed period for notification of non-payment of contribution[^c-6dd57f2eac71e9013ac433281461a322]
 
 The period prescribed for the purposes of Article 26(7)(c) of the Order (period within which trustees or managers must give notice to the Regulator and to the member of failure to pay a contribution) is –
 
@@ -147,24 +147,24 @@ As these Regulations are made before the end of the period of six months beginni
 
 [^f00003]: Footnote: S.I. [2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255); *see* paragraph (b)(i) of the definition of “the actuary” in Article 19(10)
 
-[^key-54a5cdb55a4c0efde9580cf85a9c3dcc]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
+[^c-54a5cdb55a4c0efde9580cf85a9c3dcc]: Commencement: Reg. 1 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
 
 [^f00004]: Footnote: Section 89(1A) was inserted by Article 148(3) of the Pensions (Northern Ireland) Order 1995
 
-[^key-b74e0f903c49db25eabffe12db0eba6e]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
+[^c-b74e0f903c49db25eabffe12db0eba6e]: Commencement: Reg. 2 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
 
-[^key-9368d68fafbc6fe3172b52abb2d5c42e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/114/regulation/2) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [9(a)](https://www.legislation.gov.uk/nisr/2012/113/regulation/9/a/b)
+[^c-9368d68fafbc6fe3172b52abb2d5c42e]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/114/regulation/2) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [9(a)](https://www.legislation.gov.uk/nisr/2012/113/regulation/9/a/b)
 
 [^M_F_397e4525-06e6-40c1-95e3-a0199a906c97]: Textual amendment: Words in [reg. 2](https://www.legislation.gov.uk/nisr/2005/114/regulation/2) substituted (6.4.2012) by [The Pensions (Institute and Faculty of Actuaries and Consultation by Employers) (Amendment) Regulations (Northern Ireland) 2012 (S.R. 2012/113)](https://www.legislation.gov.uk/nisr/2012/113), [regs. 1](https://www.legislation.gov.uk/nisr/2012/113/regulation/1), [9(b)](https://www.legislation.gov.uk/nisr/2012/113/regulation/9/a/b)
 
-[^key-413d080de7b6f5c8f587a0aba4cf258b]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
+[^c-413d080de7b6f5c8f587a0aba4cf258b]: Commencement: Reg. 3 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
 
 [^f00005]: Footnote: Subsection (2) was substituted by paragraph 8(a) of Schedule 4 to the Pensions (Northern Ireland) Order 1995
 
-[^key-a6996e45ac8abeb720439b4d515c086d]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
+[^c-a6996e45ac8abeb720439b4d515c086d]: Commencement: Reg. 4 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
 
 [^f00006]: Footnote: [S.R. 1996 No. 619](https://www.legislation.gov.uk/nisr/1996/619), to which there are amendments not relevant to these Regulations
 
 [^M_F_c88c1998-3142-4cab-f3b3-e3b47287b95c]: Textual amendment: Reg. 4(2)(a) revoked (1.10.2008) by [The Occupational Pension Schemes (Transfer Values) (Amendment) Regulations (Northern Ireland) 2008 (S.R. 2008/370)](https://www.legislation.gov.uk/nisr/2008/370/contents/made), [Regs. 1(1)](https://www.legislation.gov.uk/nisr/2008/370/regulation/1/made), [sch. 3](https://www.legislation.gov.uk/nisr/2008/370/schedule/3/made)
 
-[^key-6dd57f2eac71e9013ac433281461a322]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)
+[^c-6dd57f2eac71e9013ac433281461a322]: Commencement: Reg. 5 in operation at 6.4.2005, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2005/114/regulation/1/1)

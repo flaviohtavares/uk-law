@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Establishment of Firefighters’ Pension Scheme (Wales) 2015[^key-50beeb0005b6b94c9157b5c1648fb1bc]
+## 2. Establishment of Firefighters’ Pension Scheme (Wales) 2015[^c-50beeb0005b6b94c9157b5c1648fb1bc]
 
 *Extent: E+W*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-50beeb0005b6b94c9157b5c1648fb1bc]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
+[^c-50beeb0005b6b94c9157b5c1648fb1bc]: Commencement: Reg. 2 in force at 1.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2015/622/regulation/1/2)
 
 [^f00006]: Footnote: See paragraph 6 of Schedule 1 to the Public Service Pensions Act 2013 for the definition of “fire and rescue workers”.

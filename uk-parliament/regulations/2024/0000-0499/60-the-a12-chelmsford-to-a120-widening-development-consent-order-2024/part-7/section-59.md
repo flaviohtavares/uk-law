@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 59. Certification of documents, etc.[^key-3508bd471f6c22be4e42e1bf4599b9bf]
+## 59. Certification of documents, etc.[^c-3508bd471f6c22be4e42e1bf4599b9bf]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3508bd471f6c22be4e42e1bf4599b9bf]: Commencement: Art. 59 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)
+[^c-3508bd471f6c22be4e42e1bf4599b9bf]: Commencement: Art. 59 in force at 9.2.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/60/article/1)

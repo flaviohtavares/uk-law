@@ -26,7 +26,7 @@ summary: ''
 
 - “**the finance lease test**” means the finance lease test in section 70N of CAA 2001,
 - “**long funding lease**” has the meaning given by section 70G of that Act,
-- “long funding finance lease” means—[^key-c15b23bba3f82142947d6a1e646a421d]
+- “long funding finance lease” means—[^c-c15b23bba3f82142947d6a1e646a421d]
   - (a) in relation to any person, a long funding lease that meets the finance lease test as a result of section 70N(1)(a) of that Act, or
   - (b) in relation to a lessee, a right-of-use lease (see section 70YI(1) of that Act) which is a long funding lease—
     - (i) that meets the lease payments test in section 70O of that Act or the useful economic life test in section 70P of that Act, but
@@ -64,4 +64,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c15b23bba3f82142947d6a1e646a421d]: Textual amendment: Words in [s. 381(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/381/2) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(6)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/6)
+[^c-c15b23bba3f82142947d6a1e646a421d]: Textual amendment: Words in [s. 381(2)](https://www.legislation.gov.uk/ukpga/2010/4/section/381/2) substituted (with effect in accordance with Sch. 14 para. 6(1) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 14 para. 4(6)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/14/paragraph/4/6)

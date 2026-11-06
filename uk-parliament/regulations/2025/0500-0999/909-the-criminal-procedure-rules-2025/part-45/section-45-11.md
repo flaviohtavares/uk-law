@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45.11. Assessment and re-assessment[^key-702629395d5f0e6b49eb15ba127e8060]
+## 45.11. Assessment and re-assessment[^c-702629395d5f0e6b49eb15ba127e8060]
 
 *Extent: E+W*
 
@@ -88,4 +88,4 @@ summary: ''
 
 ## Annotations
 
-[^key-702629395d5f0e6b49eb15ba127e8060]: Commencement: [Rule 45.11](https://www.legislation.gov.uk/uksi/2025/909/rule/45.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-702629395d5f0e6b49eb15ba127e8060]: Commencement: [Rule 45.11](https://www.legislation.gov.uk/uksi/2025/909/rule/45.11) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

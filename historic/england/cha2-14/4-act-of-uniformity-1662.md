@@ -36,7 +36,7 @@ An Act for the Uniformity of Publique Prayers and Administration of Sacraments &
 
 ## IV—IX. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .[^c919451]
 
-## X. Persons administering the Sacrament before they are ordained Priests;[^c919452][^key-6ce36889f74b2c2342a8a2b530dd8bd3]
+## X. Persons administering the Sacrament before they are ordained Priests;[^c919452][^c-6ce36889f74b2c2342a8a2b530dd8bd3]
 
 No person whatsoever shall thenceforth be capable to bee admitted to any Parsonage Vicarage Benefice or other Ecclesiastical Promotion or Dignity whatsoever [^c919453]. . . before such time as he shall be ordained Preist according to the forme and manner in and by the said Booke prescribed unlesse he have formerly beene made Preist by Episcopall Ordination [^c919454]. . .
 
@@ -74,7 +74,7 @@ No person shall be or be received as a Lecturer or permitted suffered or allowed
 
     [S. 10](https://www.legislation.gov.uk/aep/Cha2/14/4/section/10) excluded (Provinces of Canterbury and York except Channel Islands and Isle of Man) (1.6.1992) by [Church of England (Miscellaneous Provisions) Measure 1992 (No. 1)](https://www.legislation.gov.uk/ukcm/1992/1), [s.16](https://www.legislation.gov.uk/ukcm/1992/1/section/16);[Instrument dated 27.5.1992 made by the Archbishops of Canterbury and York](https://www.legislation.gov.uk/ukci/1992-05-27)
 
-[^key-6ce36889f74b2c2342a8a2b530dd8bd3]: Modification: [S. 10](https://www.legislation.gov.uk/aep/Cha2/14/4/section/10) excluded by [2021 No. 2](https://www.legislation.gov.uk/ukcm/2021/2), [s. 14A(3)(a)](https://www.legislation.gov.uk/ukcm/2021/2/section/14A/3/a) (as inserted (coming into force in accordance with s. 22(3) of the amending Measure) (Provinces of Canterbury and York except Channel Islands and Isle of Man) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 7(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/7/1), [22(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/3))
+[^c-6ce36889f74b2c2342a8a2b530dd8bd3]: Modification: [S. 10](https://www.legislation.gov.uk/aep/Cha2/14/4/section/10) excluded by [2021 No. 2](https://www.legislation.gov.uk/ukcm/2021/2), [s. 14A(3)(a)](https://www.legislation.gov.uk/ukcm/2021/2/section/14A/3/a) (as inserted (coming into force in accordance with s. 22(3) of the amending Measure) (Provinces of Canterbury and York except Channel Islands and Isle of Man) by [Church of England (Miscellaneous Provisions) Measure 2024 (No. 1)](https://www.legislation.gov.uk/ukcm/2024/1), [ss. 7(1)](https://www.legislation.gov.uk/ukcm/2024/1/section/7/1), [22(3)](https://www.legislation.gov.uk/ukcm/2024/1/section/22/3))
 
 [^c919453]: Textual amendment: Words repealed by [Church of England (Worship and Doctrine) Measure 1974 (No. 3)](https://www.legislation.gov.uk/ukcm/1974/3), [Sch. 2](https://www.legislation.gov.uk/ukcm/1974/3/schedule/2)
 

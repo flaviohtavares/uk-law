@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69K. The corporate ownership condition[^key-228ceee17a63954421c7bcbab46e5182]
+## 69K. The corporate ownership condition[^c-228ceee17a63954421c7bcbab46e5182]
 
 *Extent: E+W+S+N.I.*
 
@@ -33,7 +33,7 @@ This is subject to regulation 69L(1).
 - (c) immediately upon becoming aware of the situation, the company has taken steps to ensure that the holding is reduced below 10% of the net asset value of the fund, and
 - (d) the company has continued, with all reasonable speed, to take steps to ensure that the holding is so reduced.
 
-(4) Condition B is that the company’s instrument of incorporation and its prospectus include provisions under which any body corporate which becomes a participant[^key-deca399a44deeaac9bee8861da20ab0f] in the company—
+(4) Condition B is that the company’s instrument of incorporation and its prospectus include provisions under which any body corporate which becomes a participant[^c-deca399a44deeaac9bee8861da20ab0f] in the company—
 
 - (a) must undertake not to acquire 10% or more of the share capital of the company, and
 - (b) must undertake, on becoming aware that it has acquired 10% or more of the share capital of the company, to reduce its holding of that share capital below 10%.
@@ -54,6 +54,6 @@ This is subject to regulation 69L(1).
 
 ## Annotations
 
-[^key-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
+[^c-228ceee17a63954421c7bcbab46e5182]: Textual amendment: Pt. 4A inserted (6.4.2008) by [The Authorised Investment Funds (Tax) (Amendment) Regulations 2008 (S.I. 2008/705)](https://www.legislation.gov.uk/uksi/2008/705), [regs. 1](https://www.legislation.gov.uk/uksi/2008/705/regulation/1), [5](https://www.legislation.gov.uk/uksi/2008/705/regulation/5)
 
-[^key-deca399a44deeaac9bee8861da20ab0f]: Textual amendment: Word in reg. 69K(4) substituted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2008/3159/regulation/21)
+[^c-deca399a44deeaac9bee8861da20ab0f]: Textual amendment: Word in reg. 69K(4) substituted (1.1.2009) by [The Authorised Investment Funds (Tax) (Amendment No. 3) Regulations 2008 (S.I. 2008/3159)](https://www.legislation.gov.uk/uksi/2008/3159), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2008/3159/regulation/1/1), [21](https://www.legislation.gov.uk/uksi/2008/3159/regulation/21)

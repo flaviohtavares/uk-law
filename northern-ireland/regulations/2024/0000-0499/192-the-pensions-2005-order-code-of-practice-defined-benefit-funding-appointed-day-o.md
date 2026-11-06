@@ -37,11 +37,11 @@ Made
 
 The Department for Communities[^f00001] makes the following Order in exercise of the powers conferred by Article 86(7) of the Pensions (Northern Ireland) Order 2005[^f00002].
 
-## 1. Citation[^key-61226ae368724d770a7fd223d4a213ed]
+## 1. Citation[^c-61226ae368724d770a7fd223d4a213ed]
 
 This Order may be cited as the Pensions (2005 Order) (Code of Practice) (Defined Benefit Funding) (Appointed Day) Order (Northern Ireland) 2024.
 
-## 2. Appointed day[^key-745a5d8f56cb184e129f66d60e4245e1]
+## 2. Appointed day[^c-745a5d8f56cb184e129f66d60e4245e1]
 
 The day appointed for the purposes of Article 86(7) of the Pensions (Northern Ireland) Order 2005 (procedure for issue and publication of codes of practice) for the coming into operation of the Pensions Regulator Defined benefit funding code of practice is 12th November 2024[^f00003].
 
@@ -67,8 +67,8 @@ The Defined benefit funding code of practice is available on the Pensions Regula
 
 [^f00002]: Footnote: [S.I. 2005/255 (N.I. 1)](https://www.legislation.gov.uk/nisi/2005/255)
 
-[^key-61226ae368724d770a7fd223d4a213ed]: Commencement: Art. 1 in operation at made date
+[^c-61226ae368724d770a7fd223d4a213ed]: Commencement: Art. 1 in operation at made date
 
-[^key-745a5d8f56cb184e129f66d60e4245e1]: Commencement: Art. 2 in operation at made date
+[^c-745a5d8f56cb184e129f66d60e4245e1]: Commencement: Art. 2 in operation at made date
 
 [^f00003]: Footnote: *See* page 4 of the Pensions Regulator Defined benefit funding code of practice which states that it applies to scheme valuation with an effective date on or after 22nd September 2024

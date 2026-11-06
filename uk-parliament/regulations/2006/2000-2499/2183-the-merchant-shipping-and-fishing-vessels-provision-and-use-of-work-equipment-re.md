@@ -48,7 +48,7 @@ Coming into force
 
 [^c16508691]The Secretary of State is a Minister designated for the purposes of section 2(2) of the 1972 Act in relation to measures relating to the safety of ships and the health and safety of persons on them.
 
-In accordance with section 86(4) of the 1995 Act the Secretary of State has consulted the persons referred to in that section.[^key-36b05caffa36093ce3202c00d89d2026]
+In accordance with section 86(4) of the 1995 Act the Secretary of State has consulted the persons referred to in that section.[^c-36b05caffa36093ce3202c00d89d2026]
 
 ## PART 1 — GENERAL
 
@@ -72,14 +72,14 @@ In accordance with section 86(4) of the 1995 Act the Secretary of State has cons
 - “**contract of employment**” means a contract of employment, whether express or implied, and if express, whether oral or in writing;
 - “**employer**” means a person by whom a worker is employed under a contract of employment and (except in regulation 4(4) and (5)) includes a self-employed person to whom the requirements imposed by these Regulations apply by virtue of regulation 4(5);
 - “**fishing vessel**” means a vessel for the time being used for, or in connection with, fishing for sea fish other than a vessel used for fishing otherwise than for profit; and for the purposes of this definition “**sea fish**” includes shellfish, salmon and migratory trout (as defined by section 44 of the Fisheries Act 1981 [^c16508731]);
-- [^key-393865112a56ad0f5809c7b8c5ea2750]...
+- [^c-393865112a56ad0f5809c7b8c5ea2750]...
 - “**health and safety**” includes the occupational health and safety of persons whilst on board the ship and whilst boarding or leaving the ship;
 - “**public service vessel**” means any vessel operated by and on behalf of a public body while it is carrying out the authorised functions of that body;
 - “**relevant inspector**” means a person mentioned in paragraph (a), (b) or (c) of section 258(1) of the Act;
 - “**ship**” includes hovercraft;
 - “**United Kingdom ship**” means a ship which—
   - (a) is a United Kingdom ship within the meaning of section 85(2) of the Act; or
-  - (b) [^key-393865112a56ad0f5809c7b8c5ea2750]...
+  - (b) [^c-393865112a56ad0f5809c7b8c5ea2750]...
   - (c) is a hovercraft registered under the Hovercraft Act 1968 [^c16508741];
 - “**United Kingdom waters**” means the sea or other waters within the seaward limits of the territorial sea of the United Kingdom;
 - “**use**” in relation to work equipment, means any activity involving work equipment and includes starting, stopping, programming, setting, transporting, repairing, modifying, maintaining and servicing, including cleaning;
@@ -116,7 +116,7 @@ and in such a case there shall be a duty on the employer so far as is reasonably
 
 (2) Regulations 4(1), (4) to (6), 13, 14, 24 and 39 to 41 apply in relation to ships other than United Kingdom ships when they are in United Kingdom waters.
 
-(3)[^key-1225574a8f611377316b125655cd08c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-1225574a8f611377316b125655cd08c3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) The duties imposed by these Regulations on an employer in respect of work equipment shall apply in relation to such equipment provided for use or used by a worker who is an employee of his.
 
@@ -139,7 +139,7 @@ Where a person on whom a duty is imposed by any provision of these Regulations d
 
 ### 6. Suitability of work equipment
 
-(1)[^key-9670e516b1c4c20bdf8d7e0993b5b140] The employer shall ensure that the work equipment made available to workers on the ship may be used by workers without impairment to their health or safety, and is—
+(1)[^c-9670e516b1c4c20bdf8d7e0993b5b140] The employer shall ensure that the work equipment made available to workers on the ship may be used by workers without impairment to their health or safety, and is—
 
 - (a) suitable for the work to be carried out, or
 - (b) properly adapted for that purpose.
@@ -515,28 +515,28 @@ Department for Transport
 |  |  |
 | The Low Voltage Electrical Equipment (Safety) Regulations 1989 | S.I. 1989/728, amended by S.I. 1994/3260 |
 |  |  |
-| [^key-f577784f8869f61a46df23d8d0588b76]. . . | [^key-f577784f8869f61a46df23d8d0588b76]. . . |
+| [^c-f577784f8869f61a46df23d8d0588b76]. . . | [^c-f577784f8869f61a46df23d8d0588b76]. . . |
 |  |  |
-| [^key-e4f90620d05f209e7554cdeff2a0b020]. . . | [^key-e4f90620d05f209e7554cdeff2a0b020]. . . |
+| [^c-e4f90620d05f209e7554cdeff2a0b020]. . . | [^c-e4f90620d05f209e7554cdeff2a0b020]. . . |
 |  |  |
-| [^key-fe385d2584eda853d8b784f53eee9c6f]. . . | [^key-fe385d2584eda853d8b784f53eee9c6f]. . . |
+| [^c-fe385d2584eda853d8b784f53eee9c6f]. . . | [^c-fe385d2584eda853d8b784f53eee9c6f]. . . |
 |  |  |
-| [^key-448cdc78c86dcf899b37d3e3feb1d060]. . . | [^key-448cdc78c86dcf899b37d3e3feb1d060]. . . |
-| The Electrical Equipment (Safety) Regulations 2016[^key-337c75a480d5314246c8c05d50b6ea7c] | S.I. 2016/1101 |
+| [^c-448cdc78c86dcf899b37d3e3feb1d060]. . . | [^c-448cdc78c86dcf899b37d3e3feb1d060]. . . |
+| The Electrical Equipment (Safety) Regulations 2016[^c-337c75a480d5314246c8c05d50b6ea7c] | S.I. 2016/1101 |
 |  |  |
 | The Gas Appliances (Safety) Regulations 1995 | S.I. 1995/1629 |
 |  |  |
-| [^key-13cdff5deafe04b14f412340037766db]. . . | [^key-13cdff5deafe04b14f412340037766db]. . . |
+| [^c-13cdff5deafe04b14f412340037766db]. . . | [^c-13cdff5deafe04b14f412340037766db]. . . |
 |  |  |
 | The Lifts Regulations 1997 | S.I. 1997/831 amended by S.I. 2004/693<br>and S.I. 2005/831 |
 |  |  |
-| [^key-979d45fc720d5b6497ef3d76947fb1a4]. . . | [^key-979d45fc720d5b6497ef3d76947fb1a4]. . . |
+| [^c-979d45fc720d5b6497ef3d76947fb1a4]. . . | [^c-979d45fc720d5b6497ef3d76947fb1a4]. . . |
 |  |  |
-| [^key-74e99d113f44551b98abbaec8d70530b]. . . | [^key-74e99d113f44551b98abbaec8d70530b]. . . |
+| [^c-74e99d113f44551b98abbaec8d70530b]. . . | [^c-74e99d113f44551b98abbaec8d70530b]. . . |
 |  |  |
 | The Merchant Shipping and Fishing Vessels (Personal Protective Equipment) Regulations 1999 | S.I. 1999/2205 |
 |  |  |
-| The Merchant Shipping (Marine Equipment) Regulations 2025[^key-b34dc600e47d17651d576fca5cbe498e] | [S.I. 2025/1280](https://www.legislation.gov.uk/uksi/2025/1280) |
+| The Merchant Shipping (Marine Equipment) Regulations 2025[^c-b34dc600e47d17651d576fca5cbe498e] | [S.I. 2025/1280](https://www.legislation.gov.uk/uksi/2025/1280) |
 
 |  |  |
 | --- | --- |
@@ -550,7 +550,7 @@ Department for Transport
 | The Personal Protective Equipment Regulations 2002 | S.I. 2005/1144, amended by S.I. 2004/693 |
 |  |  |
 | The Electromagnetic Compatibility Regulations 2005 | S.I. 2002/281, amended by S.I. 2006/1258 and S.I. 2006/1449 |
-| The Supply of Machinery (Safety) Regulations 2008[^key-dacd22c9979f5fa3fb1347a97bc10aed] | S.I. 2008/1597 |
+| The Supply of Machinery (Safety) Regulations 2008[^c-dacd22c9979f5fa3fb1347a97bc10aed] | S.I. 2008/1597 |
 
 *(This note is not part of the Regulations)*
 
@@ -608,7 +608,7 @@ International Labour Organization Conventions are published by the International
 
 [^c16508691]: Textual amendment: [S.I. 1993/595](https://www.legislation.gov.uk/uksi/1993/595).
 
-[^key-36b05caffa36093ce3202c00d89d2026]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/2183) applied (6.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010 (S.I. 2010/332)](https://www.legislation.gov.uk/uksi/2010/332), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2010/332/regulation/5/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2010/332/regulation/4))
+[^c-36b05caffa36093ce3202c00d89d2026]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2006/2183) applied (6.4.2010) by [The Merchant Shipping and Fishing Vessels (Health and Safety at Work) (Work at Height) Regulations 2010 (S.I. 2010/332)](https://www.legislation.gov.uk/uksi/2010/332), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2010/332/regulation/5/2) (with [reg. 4](https://www.legislation.gov.uk/uksi/2010/332/regulation/4))
 
 [^c16508701]: Textual amendment: [S.I. 1988/1636](https://www.legislation.gov.uk/uksi/1988/1636).
 
@@ -618,7 +618,7 @@ International Labour Organization Conventions are published by the International
 
 [^c16508731]: Textual amendment: [1981 c.29](https://www.legislation.gov.uk/ukpga/1981/29).
 
-[^key-393865112a56ad0f5809c7b8c5ea2750]: Textual amendment: Words in reg. 2(1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-393865112a56ad0f5809c7b8c5ea2750]: Textual amendment: Words in reg. 2(1) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^c16508741]: Textual amendment: [1968 c.59](https://www.legislation.gov.uk/ukpga/1968/59). [S.I.1989/1350](https://www.legislation.gov.uk/uksi/1989/1350), as amended by [S.I. 1990/2594](https://www.legislation.gov.uk/uksi/1990/2594), applies various merchant shipping enactments to hovercraft, with modifications.
 
@@ -632,7 +632,7 @@ International Labour Organization Conventions are published by the International
 
 [^c16508791]: Textual amendment: Published by the Stationery Office in 1999 (ISBN 0-11-551812-6).
 
-[^key-1225574a8f611377316b125655cd08c3]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2006/2183/regulation/4/3) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
+[^c-1225574a8f611377316b125655cd08c3]: Textual amendment: [Reg. 4(3)](https://www.legislation.gov.uk/uksi/2006/2183/regulation/4/3) omitted (10.4.2026) by virtue of [The Merchant Shipping (Maritime Labour Convention and Miscellaneous Amendments) Regulations 2026 (S.I. 2026/260)](https://www.legislation.gov.uk/uksi/2026/260), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2026/260/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2026/260/schedule/1)
 
 [^c16508801]: Textual amendment: [S.I. 1998/2306](https://www.legislation.gov.uk/uksi/1998/2306), amended by [S.I. 2002/2174](https://www.legislation.gov.uk/uksi/2002/2174).
 
@@ -640,26 +640,26 @@ International Labour Organization Conventions are published by the International
 
 [^c16508821]: Textual amendment: [S.I. 1997/2962](https://www.legislation.gov.uk/uksi/1997/2962), amended by [S.I. 1998/2411](https://www.legislation.gov.uk/uksi/1998/2411) and [S.I. 2001/54](https://www.legislation.gov.uk/uksi/2001/54).
 
-[^key-9670e516b1c4c20bdf8d7e0993b5b140]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2006/2183/regulation/6/1) substituted (8.9.2008) by [The Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) (Amendment) Regulations 2008 (S.I. 2008/2165)](https://www.legislation.gov.uk/uksi/2008/2165), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2165/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/2165/regulation/2/2)
+[^c-9670e516b1c4c20bdf8d7e0993b5b140]: Textual amendment: [Reg. 6(1)](https://www.legislation.gov.uk/uksi/2006/2183/regulation/6/1) substituted (8.9.2008) by [The Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) (Amendment) Regulations 2008 (S.I. 2008/2165)](https://www.legislation.gov.uk/uksi/2008/2165), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2165/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2008/2165/regulation/2/2)
 
 [^c16508831]: Textual amendment: [Section 284](https://www.legislation.gov.uk/uksi/2006/2183/section/284) was amended by the Merchant Shipping and Maritime Security Act 1997, Schedule 1, paragraph 5.
 
-[^key-f577784f8869f61a46df23d8d0588b76]: Textual amendment: Words in Sch. omitted (1.7.2013) by virtue of [The Construction Products Regulations 2013 (S.I. 2013/1387)](https://www.legislation.gov.uk/uksi/2013/1387), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1387/regulation/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2013/1387/schedule/5/paragraph/5)
+[^c-f577784f8869f61a46df23d8d0588b76]: Textual amendment: Words in Sch. omitted (1.7.2013) by virtue of [The Construction Products Regulations 2013 (S.I. 2013/1387)](https://www.legislation.gov.uk/uksi/2013/1387), [reg. 1](https://www.legislation.gov.uk/uksi/2013/1387/regulation/1), [Sch. 5 para. 5](https://www.legislation.gov.uk/uksi/2013/1387/schedule/5/paragraph/5)
 
-[^key-e4f90620d05f209e7554cdeff2a0b020]: Textual amendment: Words in Sch. omitted (8.9.2008) by virtue of [The Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) (Amendment) Regulations 2008 (S.I. 2008/2165)](https://www.legislation.gov.uk/uksi/2008/2165), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2165/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2008/2165/regulation/2/3/a)
+[^c-e4f90620d05f209e7554cdeff2a0b020]: Textual amendment: Words in Sch. omitted (8.9.2008) by virtue of [The Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) (Amendment) Regulations 2008 (S.I. 2008/2165)](https://www.legislation.gov.uk/uksi/2008/2165), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2165/regulation/1), [2(3)(a)](https://www.legislation.gov.uk/uksi/2008/2165/regulation/2/3/a)
 
-[^key-fe385d2584eda853d8b784f53eee9c6f]: Textual amendment: Words in Sch. omitted (8.9.2008) by virtue of [The Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) (Amendment) Regulations 2008 (S.I. 2008/2165)](https://www.legislation.gov.uk/uksi/2008/2165), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2165/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2008/2165/regulation/2/3/b)
+[^c-fe385d2584eda853d8b784f53eee9c6f]: Textual amendment: Words in Sch. omitted (8.9.2008) by virtue of [The Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) (Amendment) Regulations 2008 (S.I. 2008/2165)](https://www.legislation.gov.uk/uksi/2008/2165), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2165/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2008/2165/regulation/2/3/b)
 
-[^key-448cdc78c86dcf899b37d3e3feb1d060]: Textual amendment: Words in Sch. omitted (8.12.2016) by virtue of [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
+[^c-448cdc78c86dcf899b37d3e3feb1d060]: Textual amendment: Words in Sch. omitted (8.12.2016) by virtue of [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 5](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
 
-[^key-337c75a480d5314246c8c05d50b6ea7c]: Textual amendment: Words in Sch. inserted (8.12.2016) by [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 5(a)](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/5/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
+[^c-337c75a480d5314246c8c05d50b6ea7c]: Textual amendment: Words in Sch. inserted (8.12.2016) by [The Electrical Equipment (Safety) Regulations 2016 (S.I. 2016/1101)](https://www.legislation.gov.uk/uksi/2016/1101), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1101/regulation/1), [Sch. 7 para. 5(a)](https://www.legislation.gov.uk/uksi/2016/1101/schedule/7/paragraph/5/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2016/1101/regulation/3))
 
-[^key-13cdff5deafe04b14f412340037766db]: Textual amendment: Words in Sch. omitted (8.9.2008) by virtue of [The Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) (Amendment) Regulations 2008 (S.I. 2008/2165)](https://www.legislation.gov.uk/uksi/2008/2165), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2165/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2008/2165/regulation/2/3/c)
+[^c-13cdff5deafe04b14f412340037766db]: Textual amendment: Words in Sch. omitted (8.9.2008) by virtue of [The Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) (Amendment) Regulations 2008 (S.I. 2008/2165)](https://www.legislation.gov.uk/uksi/2008/2165), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2165/regulation/1), [2(3)(c)](https://www.legislation.gov.uk/uksi/2008/2165/regulation/2/3/c)
 
-[^key-979d45fc720d5b6497ef3d76947fb1a4]: Textual amendment: Words in Sch. omitted (5.12.2016) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2016 (S.I. 2016/1025)](https://www.legislation.gov.uk/uksi/2016/1025), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1025/regulation/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2016/1025/schedule/paragraph/13)
+[^c-979d45fc720d5b6497ef3d76947fb1a4]: Textual amendment: Words in Sch. omitted (5.12.2016) by virtue of [The Merchant Shipping (Marine Equipment) Regulations 2016 (S.I. 2016/1025)](https://www.legislation.gov.uk/uksi/2016/1025), [reg. 1](https://www.legislation.gov.uk/uksi/2016/1025/regulation/1), [Sch. para. 13](https://www.legislation.gov.uk/uksi/2016/1025/schedule/paragraph/13)
 
-[^key-74e99d113f44551b98abbaec8d70530b]: Textual amendment: Words in Sch. omitted (8.9.2008) by virtue of [The Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) (Amendment) Regulations 2008 (S.I. 2008/2165)](https://www.legislation.gov.uk/uksi/2008/2165), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2165/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2008/2165/regulation/2/3/d)
+[^c-74e99d113f44551b98abbaec8d70530b]: Textual amendment: Words in Sch. omitted (8.9.2008) by virtue of [The Merchant Shipping and Fishing Vessels (Provision and Use of Work Equipment) (Amendment) Regulations 2008 (S.I. 2008/2165)](https://www.legislation.gov.uk/uksi/2008/2165), [regs. 1](https://www.legislation.gov.uk/uksi/2008/2165/regulation/1), [2(3)(d)](https://www.legislation.gov.uk/uksi/2008/2165/regulation/2/3/d)
 
-[^key-b34dc600e47d17651d576fca5cbe498e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2006/2183/schedule) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
+[^c-b34dc600e47d17651d576fca5cbe498e]: Textual amendment: Words in [Sch.](https://www.legislation.gov.uk/uksi/2006/2183/schedule) substituted (5.1.2026) by [The Merchant Shipping (Marine Equipment) Regulations 2025 (S.I. 2025/1280)](https://www.legislation.gov.uk/uksi/2025/1280), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2025/1280/regulation/1/1), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2025/1280/schedule/1/paragraph/6) (with [reg. 3](https://www.legislation.gov.uk/uksi/2025/1280/regulation/3))
 
-[^key-dacd22c9979f5fa3fb1347a97bc10aed]: Textual amendment: Words in Sch. inserted (29.12.2009) by [The Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597)](https://www.legislation.gov.uk/uksi/2008/1597), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/1/1), [Sch. 7 para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2008/1597/schedule/7/paragraph/6/b/i) (with [reg. 28](https://www.legislation.gov.uk/uksi/2008/1597/regulation/28))
+[^c-dacd22c9979f5fa3fb1347a97bc10aed]: Textual amendment: Words in Sch. inserted (29.12.2009) by [The Supply of Machinery (Safety) Regulations 2008 (S.I. 2008/1597)](https://www.legislation.gov.uk/uksi/2008/1597), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/1597/regulation/1/1), [Sch. 7 para. 6(b)(i)](https://www.legislation.gov.uk/uksi/2008/1597/schedule/7/paragraph/6/b/i) (with [reg. 28](https://www.legislation.gov.uk/uksi/2008/1597/regulation/28))

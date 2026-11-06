@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 26. Rail freight interchanges[^key-ce3b40fdffc86438317b1bca5cb0c032]
+## 26. Rail freight interchanges[^c-ce3b40fdffc86438317b1bca5cb0c032]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ce3b40fdffc86438317b1bca5cb0c032]: Commencement: S. 26 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(b)](https://www.legislation.gov.uk/uksi/2010/101/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))
+[^c-ce3b40fdffc86438317b1bca5cb0c032]: Commencement: S. 26 in force at 1.3.2010 by [S.I. 2010/101](https://www.legislation.gov.uk/uksi/2010/101), [art. 4(b)](https://www.legislation.gov.uk/uksi/2010/101/article/4/b) (with [art. 6](https://www.legislation.gov.uk/uksi/2010/101/article/6))

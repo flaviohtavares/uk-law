@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 68. Inspection plans[^key-a7319b84ed51729d08074cf97236d0d3]
+## 68. Inspection plans[^c-a7319b84ed51729d08074cf97236d0d3]
 
 *Extent: E+W+S+N.I.*
 
@@ -70,4 +70,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a7319b84ed51729d08074cf97236d0d3]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2013/24/section/68) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/e) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/2227/article/5))
+[^c-a7319b84ed51729d08074cf97236d0d3]: Commencement: [S. 68](https://www.legislation.gov.uk/ukpga/2013/24/section/68) in force at 1.10.2013 by [S.I. 2013/2227](https://www.legislation.gov.uk/uksi/2013/2227), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2227/article/2/e) (with [art. 5](https://www.legislation.gov.uk/uksi/2013/2227/article/5))

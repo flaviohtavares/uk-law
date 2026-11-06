@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 22. Authorisations granted by an appropriate authority[^key-61df263954121e456bd0fd80e52433f6]
+## 22. Authorisations granted by an appropriate authority[^c-61df263954121e456bd0fd80e52433f6]
 
 *Extent: E+W*
 
-(1) An authorisation granted by an appropriate authority for the purposes of the [^key-9f60186a5b042577f0a592758ea6052f]... Plant Health Regulation or[^key-4dd7306c5300fdc69026026ddba9b6f7] the Official Controls Regulation or for the purposes of, or under[^key-5632d6ff017392786608e424a2bf48a2] these Regulations must be in writing and may be granted—
+(1) An authorisation granted by an appropriate authority for the purposes of the [^c-9f60186a5b042577f0a592758ea6052f]... Plant Health Regulation or[^c-4dd7306c5300fdc69026026ddba9b6f7] the Official Controls Regulation or for the purposes of, or under[^c-5632d6ff017392786608e424a2bf48a2] these Regulations must be in writing and may be granted—
 
 - (a) subject to conditions;
 - (b) for an indefinite period or a specified period.
@@ -29,10 +29,10 @@ summary: ''
 
 ## Annotations
 
-[^key-61df263954121e456bd0fd80e52433f6]: Commencement: Reg. 22 in force at 27.3.2020, see reg. 1
+[^c-61df263954121e456bd0fd80e52433f6]: Commencement: Reg. 22 in force at 27.3.2020, see reg. 1
 
-[^key-9f60186a5b042577f0a592758ea6052f]: Textual amendment: Word in reg. 22(1) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [9(5)(a)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/9/5/a)
+[^c-9f60186a5b042577f0a592758ea6052f]: Textual amendment: Word in reg. 22(1) omitted (31.12.2020) by virtue of [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [9(5)(a)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/9/5/a)
 
-[^key-4dd7306c5300fdc69026026ddba9b6f7]: Textual amendment: Word in reg. 22(1) substituted for comma (31.12.2020) by [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [9(5)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/9/5/b)
+[^c-4dd7306c5300fdc69026026ddba9b6f7]: Textual amendment: Word in reg. 22(1) substituted for comma (31.12.2020) by [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [9(5)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/9/5/b)
 
-[^key-5632d6ff017392786608e424a2bf48a2]: Textual amendment: Words in reg. 22(1) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [9(5)(c)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/9/5/c)
+[^c-5632d6ff017392786608e424a2bf48a2]: Textual amendment: Words in reg. 22(1) inserted (31.12.2020) by [The Plant Health (Amendment etc.) (Wales) (EU Exit) Regulations 2020 (S.I. 2020/1628)](https://www.legislation.gov.uk/wsi/2020/1628), [regs. 1(2)(b)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/1/2/b), [9(5)(c)](https://www.legislation.gov.uk/wsi/2020/1628/regulation/9/5/c)

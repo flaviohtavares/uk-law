@@ -46,13 +46,13 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred by sections 89(1), 94(1), 259(4) and (5) and 272(7) and (8) of, and paragraph 1(4) of Schedule 21 to, the National Health Service Act 2006[^f00001] makes the following Regulations.
 
-## 1. Citation, commencement and application[^key-86acb4ca408ccbc4a643c721c6c38cc3]
+## 1. Citation, commencement and application[^c-86acb4ca408ccbc4a643c721c6c38cc3]
 
 (1) These Regulations may be cited as the Primary Medical Services (Prohibition on the Sale of Goodwill) Regulations 2019.
 
 (2) These Regulations come into force on 1st April 2019 and apply in relation to England only.
 
-## 2. Interpretation[^key-969f5b918a0d5b665084e1d90325fad6]
+## 2. Interpretation[^c-969f5b918a0d5b665084e1d90325fad6]
 
 In these Regulations—
 
@@ -60,14 +60,14 @@ In these Regulations—
 - “default contract” means a contract entered into by virtue of an order made under section 176(3) of the Health and Social Care (Community Health and Standards) Act 2003 (general medical services: transitional)[^f00002]; and
 - “primary medical services” means medical services which are provided under or by virtue of a contract or arrangements to which Part 4 of the Act (medical services)[^f00003] applies.
 
-## 3. Relevant area[^key-20040eb980e5713b00bc2e5314b5c32c]
+## 3. Relevant area[^c-20040eb980e5713b00bc2e5314b5c32c]
 
-For the purposes of section 259(1) of the Act (sale of medical practices), “the relevant area”, in relation to NHS England[^key-31372d3a8b3b448c9376aa5056a63910] means—
+For the purposes of section 259(1) of the Act (sale of medical practices), “the relevant area”, in relation to NHS England[^c-31372d3a8b3b448c9376aa5056a63910] means—
 
 - (a) the area for which an area team of NHS England is responsible; and
 - (b) in which the performers or providers specified in regulation 4(2) have performed or, as the case may be, provided primary medical services, in accordance with a contract or arrangements under Part 4 of the Act (medical services), notwithstanding that contract or arrangements may no longer subsist.
 
-## 4. Prohibition on the sale of goodwill in certain primary medical services practices[^key-4901558ae6d7804c4a23a71ba9787887]
+## 4. Prohibition on the sale of goodwill in certain primary medical services practices[^c-4901558ae6d7804c4a23a71ba9787887]
 
 (1) For the purposes of section 259(1) of the Act, the performers or providers of primary medical services specified in paragraph (2), or any other person on their behalf, may not sell the goodwill of a medical practice owned by those performers or providers or at which they perform or provide primary medical services.
 
@@ -100,11 +100,11 @@ is to be construed so as to apply in respect of the whole, or any part, of the c
 - “registered patient” has the meaning given in regulation 3 of the National Health Service (General Medical Services Contracts) Regulations 2015 (interpretation)[^f00010]; and
 - “relevant sub-contractor” means a person who has entered into contractual arrangements with an integrated care provider for the provision of primary medical services.
 
-## 5. Certificate that a transaction does not involve a sale of goodwill[^key-d6b5b4316f3cb7feea1b24b266582bab]
+## 5. Certificate that a transaction does not involve a sale of goodwill[^c-d6b5b4316f3cb7feea1b24b266582bab]
 
 The prescribed form of a certificate issued for the purposes of paragraph 1(4) of Schedule 21 to the Act (prohibition on sale of medical practices) is as set out in the Schedule to these Regulations.
 
-## 6. Revocations and saving[^key-30e23c295390488109ce80de2683aa18]
+## 6. Revocations and saving[^c-30e23c295390488109ce80de2683aa18]
 
 (1) The Primary Medical Services (Sale of Goodwill and Restrictions on Sub-contracting) Regulations 2004[^f00011] are revoked.
 
@@ -137,9 +137,9 @@ Signed by authority of the Secretary of State for the Department of Health and S
 
 #### Information required for application for Certificate
 
-**1.**[^key-422391c914f5d526405f87a623ece1f3] Details of transaction or series of transactions.
+**1.**[^c-422391c914f5d526405f87a623ece1f3] Details of transaction or series of transactions.
 
-**2.**[^key-45e2fa9e8a9d0712b44e67a56464e4d5] Disclose all material facts and circumstances regarding the transaction or series of transactions.
+**2.**[^c-45e2fa9e8a9d0712b44e67a56464e4d5] Disclose all material facts and circumstances regarding the transaction or series of transactions.
 
 EXPLANATORY NOTE
 
@@ -161,19 +161,19 @@ Regulation 6 revokes the 2004 Regulations in their entirety but saves the effect
 
 [^f00001]: Footnote: [2006 c.41](https://www.legislation.gov.uk/ukpga/2006/41). Sections 89 and 94 of the Act are cited because of the power to revoke provision contained in regulations made under those sections. Relevant amendments to section 89 were made by section 202(2) of, and paragraph 34 of Schedule 4 to, the Health and Social Care Act 2012 and to section 94 by paragraph 38 of Schedule 4 to that Act. Relevant amendments to section 259(4) and (5) were made by paragraph 132(2) and (4)(a) and (b) of Schedule 4 to the Health and Social Care Act 2012. Paragraph (b) in the definition “relevant area” in section 259(5) is defined for the purposes of determining to whom the regulations apply. *See* section 275(1) of the Act for the meaning given to “prescribed” and “regulations”.
 
-[^key-86acb4ca408ccbc4a643c721c6c38cc3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/251/regulation/1) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
+[^c-86acb4ca408ccbc4a643c721c6c38cc3]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2019/251/regulation/1) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
 
-[^key-969f5b918a0d5b665084e1d90325fad6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/251/regulation/2) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
+[^c-969f5b918a0d5b665084e1d90325fad6]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2019/251/regulation/2) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
 
 [^f00002]: Footnote: [2003 c.43](https://www.legislation.gov.uk/ukpga/2003/43).
 
 [^f00003]: Footnote: Part 4 of the Act imposes a duty on the National Health Service Commissioning Board (known as “NHS England”) to enter into contractual arrangements for the provision of primary medical services (i.e. GP services) with providers of such services as part of the NHS in England. The National Health Service Commissioning Board was established by section 1H of the Act. Section 1H was inserted into the Act by section 9(1) of the Health and Social Care Act 2012.
 
-[^key-20040eb980e5713b00bc2e5314b5c32c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/251/regulation/3) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
+[^c-20040eb980e5713b00bc2e5314b5c32c]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2019/251/regulation/3) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
 
-[^key-31372d3a8b3b448c9376aa5056a63910]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
+[^c-31372d3a8b3b448c9376aa5056a63910]: Textual amendment: Words in Regulations substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [Sch. para. 1](https://www.legislation.gov.uk/uksi/2023/1071/schedule/paragraph/1)
 
-[^key-4901558ae6d7804c4a23a71ba9787887]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/251/regulation/4) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
+[^c-4901558ae6d7804c4a23a71ba9787887]: Commencement: [Reg. 4](https://www.legislation.gov.uk/uksi/2019/251/regulation/4) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
 
 [^f00005]: Footnote: Section 83(2) was substituted by paragraph 30(2) of Schedule 4 to the Health and Social Care Act 2012.
 
@@ -187,9 +187,9 @@ Regulation 6 revokes the 2004 Regulations in their entirety but saves the effect
 
 [^f00010]: Footnote: Regulation 3 was amended by [S.I. 2016/696](https://www.legislation.gov.uk/uksi/2016/696) and [1077](https://www.legislation.gov.uk/uksi/2016/1077).
 
-[^key-d6b5b4316f3cb7feea1b24b266582bab]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/251/regulation/5) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
+[^c-d6b5b4316f3cb7feea1b24b266582bab]: Commencement: [Reg. 5](https://www.legislation.gov.uk/uksi/2019/251/regulation/5) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
 
-[^key-30e23c295390488109ce80de2683aa18]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/251/regulation/6) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
+[^c-30e23c295390488109ce80de2683aa18]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/2019/251/regulation/6) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
 
 [^f00011]: Footnote: [S.I. 2004/906](https://www.legislation.gov.uk/uksi/2004/906); as amended by [S.I. 2013/363](https://www.legislation.gov.uk/uksi/2013/363) and [2015/1862](https://www.legislation.gov.uk/uksi/2015/1862) and [1879](https://www.legislation.gov.uk/uksi/2015/1879); there is another amending instrument which is not relevant.
 
@@ -197,6 +197,6 @@ Regulation 6 revokes the 2004 Regulations in their entirety but saves the effect
 
 [^f00013]: Footnote: [S.I. 2004/627](https://www.legislation.gov.uk/uksi/2004/627) which was revoked and replaced by [S.I. 2015/1879](https://www.legislation.gov.uk/uksi/2015/1879).
 
-[^key-422391c914f5d526405f87a623ece1f3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/251/schedule/paragraph/1) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
+[^c-422391c914f5d526405f87a623ece1f3]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/uksi/2019/251/schedule/paragraph/1) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
 
-[^key-45e2fa9e8a9d0712b44e67a56464e4d5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/251/schedule/paragraph/2) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)
+[^c-45e2fa9e8a9d0712b44e67a56464e4d5]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/uksi/2019/251/schedule/paragraph/2) in force at 1.4.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/251/regulation/1/2)

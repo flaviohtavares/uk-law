@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 22. Carbon monoxide alarms[^key-4b138f76536bef61f5676cb974e6735c]
+## 22. Carbon monoxide alarms[^c-4b138f76536bef61f5676cb974e6735c]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ In section 13 of the 2006 Act—
 
 ## Annotations
 
-[^key-4b138f76536bef61f5676cb974e6735c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/14/section/22) in force at 1.12.2015 by [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)
+[^c-4b138f76536bef61f5676cb974e6735c]: Commencement: [S. 22](https://www.legislation.gov.uk/asp/2014/14/section/22) in force at 1.12.2015 by [S.S.I. 2015/272](https://www.legislation.gov.uk/ssi/2015/272), [art. 2](https://www.legislation.gov.uk/ssi/2015/272/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2015/272/schedule)

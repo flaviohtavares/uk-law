@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 28. Compulsory acquisition of land[^key-77483753f74b6ab63b1fb7beb1fada38]
+## 28. Compulsory acquisition of land[^c-77483753f74b6ab63b1fb7beb1fada38]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-77483753f74b6ab63b1fb7beb1fada38]: Commencement: Art. 28 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)
+[^c-77483753f74b6ab63b1fb7beb1fada38]: Commencement: Art. 28 in force at 27.11.2025, see [art. 1](https://www.legislation.gov.uk/uksi/2025/1227/article/1)

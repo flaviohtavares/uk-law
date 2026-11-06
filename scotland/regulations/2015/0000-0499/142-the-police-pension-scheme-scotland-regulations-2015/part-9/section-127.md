@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 127. Entitlement to surviving adult’s pension[^key-4cfdfc389dfe7e4746e1a1e624847ea1]
+## 127. Entitlement to surviving adult’s pension[^c-4cfdfc389dfe7e4746e1a1e624847ea1]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4cfdfc389dfe7e4746e1a1e624847ea1]: Commencement: Reg. 127 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)
+[^c-4cfdfc389dfe7e4746e1a1e624847ea1]: Commencement: Reg. 127 in force at 1.4.2015, see [reg. 1](https://www.legislation.gov.uk/ssi/2015/142/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Registration of greens[^c1967915][^key-d787d74371458d93d1cadd7347b5a412][^key-d2068e625a2b08c15ba90f72521f7d11]
+## 15. Registration of greens[^c1967915][^c-d787d74371458d93d1cadd7347b5a412][^c-d2068e625a2b08c15ba90f72521f7d11]
 
 *Extent: E+W*
 
@@ -31,9 +31,9 @@ summary: ''
 
 - (a) a significant number of the inhabitants of any locality, or of any neighbourhood within a locality, indulged as of right in lawful sports and pastimes on the land for a period of at least 20 years;
 - (b) they ceased to do so before the time of the application but after the commencement of this section; and
-- (c) the application is made within the relevant period[^key-885312a23e77fc19cd5a4eb84a074a09] .
+- (c) the application is made within the relevant period[^c-885312a23e77fc19cd5a4eb84a074a09] .
 
-(3A)[^key-ce063abb4e6a3ef78beaa2b6164101cd] In subsection (3), “ **the relevant period** ” means—
+(3A)[^c-ce063abb4e6a3ef78beaa2b6164101cd] In subsection (3), “ **the relevant period** ” means—
 
 - (a) in the case of an application relating to land in England, the period of one year beginning with the cessation mentioned in subsection (3)(b);
 - (b) in the case of an application relating to land in Wales, the period of two years beginning with that cessation.
@@ -76,10 +76,10 @@ summary: ''
 
 [^c1967915]: Commencement: S. 15 wholly in force at 6.9.2007; s. 15 not in force at Royal Assent see s. 56(1); s. 15 in force for E. at 6.4.2007 by [S.I. 2007/456](https://www.legislation.gov.uk/uksi/2007/456), [art. 3](https://www.legislation.gov.uk/uksi/2007/456/article/3) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/456/article/4/1)); s. 15 in force for W. at 6.9.2007 by [S.I. 2007/2386](https://www.legislation.gov.uk/uksi/2007/2386), [art. 3](https://www.legislation.gov.uk/uksi/2007/2386/article/3) (with [art. 4(1)](https://www.legislation.gov.uk/uksi/2007/2386/article/4/1))
 
-[^key-d787d74371458d93d1cadd7347b5a412]: Modification: S. 15 excluded (1.2.2011) by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [arts. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1), [49](https://www.legislation.gov.uk/uksi/2011/41/article/49) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68), [85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85))
+[^c-d787d74371458d93d1cadd7347b5a412]: Modification: S. 15 excluded (1.2.2011) by [The River Mersey (Mersey Gateway Bridge) Order 2011 (S.I. 2011/41)](https://www.legislation.gov.uk/uksi/2011/41), [arts. 1](https://www.legislation.gov.uk/uksi/2011/41/article/1), [49](https://www.legislation.gov.uk/uksi/2011/41/article/49) (with [art. 51](https://www.legislation.gov.uk/uksi/2011/41/article/51), [Sch. 10 paras. 68](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/68), [85](https://www.legislation.gov.uk/uksi/2011/41/schedule/10/paragraph/85))
 
-[^key-d2068e625a2b08c15ba90f72521f7d11]: Modification: S. 15 disapplied (6.11.2013) by [The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013 (S.I. 2013/2587)](https://www.legislation.gov.uk/uksi/2013/2587), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2587/article/1), [5](https://www.legislation.gov.uk/uksi/2013/2587/article/5) (with [arts. 42](https://www.legislation.gov.uk/uksi/2013/2587/article/42), [43](https://www.legislation.gov.uk/uksi/2013/2587/article/43))
+[^c-d2068e625a2b08c15ba90f72521f7d11]: Modification: S. 15 disapplied (6.11.2013) by [The Transport for Greater Manchester (Light Rapid Transit System) (Second City Crossing) Order 2013 (S.I. 2013/2587)](https://www.legislation.gov.uk/uksi/2013/2587), [arts. 1](https://www.legislation.gov.uk/uksi/2013/2587/article/1), [5](https://www.legislation.gov.uk/uksi/2013/2587/article/5) (with [arts. 42](https://www.legislation.gov.uk/uksi/2013/2587/article/42), [43](https://www.legislation.gov.uk/uksi/2013/2587/article/43))
 
-[^key-885312a23e77fc19cd5a4eb84a074a09]: Textual amendment: Words in s. 15(3)(c) substituted (1.10.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/14/2), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 6](https://www.legislation.gov.uk/uksi/2013/1488/article/6) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1488/article/8)[(2)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/2))
+[^c-885312a23e77fc19cd5a4eb84a074a09]: Textual amendment: Words in s. 15(3)(c) substituted (1.10.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 14(2)](https://www.legislation.gov.uk/ukpga/2013/27/section/14/2), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 6](https://www.legislation.gov.uk/uksi/2013/1488/article/6) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1488/article/8)[(2)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/2))
 
-[^key-ce063abb4e6a3ef78beaa2b6164101cd]: Textual amendment: S. 15(3A) inserted (1.10.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/14/3), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 6](https://www.legislation.gov.uk/uksi/2013/1488/article/6) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1488/article/8)[(2)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/2))
+[^c-ce063abb4e6a3ef78beaa2b6164101cd]: Textual amendment: S. 15(3A) inserted (1.10.2013) by [Growth and Infrastructure Act 2013 (c. 27)](https://www.legislation.gov.uk/ukpga/2013/27), [ss. 14(3)](https://www.legislation.gov.uk/ukpga/2013/27/section/14/3), [35(1)](https://www.legislation.gov.uk/ukpga/2013/27/section/35/1); [S.I. 2013/1488](https://www.legislation.gov.uk/uksi/2013/1488), [art. 6](https://www.legislation.gov.uk/uksi/2013/1488/article/6) (with [art. 8](https://www.legislation.gov.uk/uksi/2013/1488/article/8)[(2)](https://www.legislation.gov.uk/uksi/2013/1488/article/8/2))

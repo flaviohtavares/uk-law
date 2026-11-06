@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 20. Annotation of the register[^M_C_685143b5-3bd2-4e93-ad97-192e41c04023][^key-448558a33918872875731a0364f32a4c][^key-84fc367cf66c984de1dd8409ca54db1b][^key-5a823d9713a34eb22511036172616542]
+## 20. Annotation of the register[^M_C_685143b5-3bd2-4e93-ad97-192e41c04023][^c-448558a33918872875731a0364f32a4c][^c-84fc367cf66c984de1dd8409ca54db1b][^c-5a823d9713a34eb22511036172616542]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,8 +49,8 @@ summary: ''
 
 [^M_C_685143b5-3bd2-4e93-ad97-192e41c04023]: Modification: S. 20 modified (1.8.2022) by [The Register of Overseas Entities (Verification and Provision of Information) Regulations 2022 (S.I. 2022/725)](https://www.legislation.gov.uk/uksi/2022/725), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2022/725/regulation/1/1), [11](https://www.legislation.gov.uk/uksi/2022/725/regulation/11)
 
-[^key-448558a33918872875731a0364f32a4c]: Commencement: S. 20 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
+[^c-448558a33918872875731a0364f32a4c]: Commencement: S. 20 not in force at Royal Assent, see [s. 69](https://www.legislation.gov.uk/ukpga/2022/10/section/69)
 
-[^key-84fc367cf66c984de1dd8409ca54db1b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/10/section/20) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/f)
+[^c-84fc367cf66c984de1dd8409ca54db1b]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/10/section/20) in force at 1.8.2022 for specified purposes by [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 3(f)](https://www.legislation.gov.uk/uksi/2022/876/regulation/3/f)
 
-[^key-5a823d9713a34eb22511036172616542]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/10/section/20) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)
+[^c-5a823d9713a34eb22511036172616542]: Commencement: [S. 20](https://www.legislation.gov.uk/ukpga/2022/10/section/20) in force at 12.10.2022 in so far as not already in force by [S.I. 2022/1039](https://www.legislation.gov.uk/uksi/2022/1039), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2022/1039/regulation/2/a)

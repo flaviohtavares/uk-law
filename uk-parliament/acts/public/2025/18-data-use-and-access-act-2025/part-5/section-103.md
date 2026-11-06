@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103. Complaints by data subjects[^key-918bfe0aabd059440a5cb0ade2ca6a63][^key-e5a8cee97828c979cb40ae8e47fa4728]
+## 103. Complaints by data subjects[^c-918bfe0aabd059440a5cb0ade2ca6a63][^c-e5a8cee97828c979cb40ae8e47fa4728]
 
 *Extent: E+W+S+N.I.*
 
@@ -79,6 +79,6 @@ summary: ''
 
 ## Annotations
 
-[^key-918bfe0aabd059440a5cb0ade2ca6a63]: Commencement: S. 103 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
+[^c-918bfe0aabd059440a5cb0ade2ca6a63]: Commencement: S. 103 in force at Royal Assent for specified purposes, see [s. 142(1)(2)](https://www.legislation.gov.uk/ukpga/2025/18/section/142/1)(h)
 
-[^key-e5a8cee97828c979cb40ae8e47fa4728]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2025/18/section/103) in force at 19.6.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/82/regulation/3/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/82/regulation/7))
+[^c-e5a8cee97828c979cb40ae8e47fa4728]: Commencement: [S. 103](https://www.legislation.gov.uk/ukpga/2025/18/section/103) in force at 19.6.2026 in so far as not already in force by [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2026/82/regulation/3/a) (with [reg. 7](https://www.legislation.gov.uk/uksi/2026/82/regulation/7))

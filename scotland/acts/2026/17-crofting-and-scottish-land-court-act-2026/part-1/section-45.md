@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 45. Provisions as to right to sublet[^key-d5ae7107bedfcb1b243d24d4ce5cc548]
+## 45. Provisions as to right to sublet[^c-d5ae7107bedfcb1b243d24d4ce5cc548]
 
 *Extent: S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d5ae7107bedfcb1b243d24d4ce5cc548]: Commencement: S. 45 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-d5ae7107bedfcb1b243d24d4ce5cc548]: Commencement: S. 45 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

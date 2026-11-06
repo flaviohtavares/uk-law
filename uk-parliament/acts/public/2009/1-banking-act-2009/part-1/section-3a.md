@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 3A. Removal of impediments to the exercise of stabilisation powers etc[^key-295d9719523157f644543e712b703130]
+## 3A. Removal of impediments to the exercise of stabilisation powers etc[^c-295d9719523157f644543e712b703130]
 
 *Extent: E+W+S+N.I.*
 
@@ -50,7 +50,7 @@ summary: ''
   - (ii) so far as it is able to do so, to change the legal or operational structure of a subsidiary;
 - (j) to establish a financial holding company which is not a subsidiary of an institution, another financial holding company or a mixed financial holding company.
 
-(4)[^key-0abecbfa4678ce7a5165866f23421657] The Bank of England may give directions to a relevant person requiring that person to maintain or issue particular kinds of bail-in liabilities.
+(4)[^c-0abecbfa4678ce7a5165866f23421657] The Bank of England may give directions to a relevant person requiring that person to maintain or issue particular kinds of bail-in liabilities.
 
 (4A) Where the Bank of England gives directions to a relevant person under subsection (4) the bail-in liabilities that the person is required to maintain or issue are referred to, in relation to that person, as “eligible liabilities”.
 
@@ -68,7 +68,7 @@ summary: ''
   without the consent of the PRA, or
 - (b) in the case of a relevant person to which paragraph (a) does not apply, without the consent of the FCA.
 
-(5) Under subsection (4B)[^key-0e49affc95c40e1f0c9930858130c178], the Bank may, in particular, direct a relevant person to endeavour to re-negotiate any eligible liability or relevant capital instruments issued by that person, for the purpose of ensuring that any decision by the Bank to write down or convert the liability or instrument concerned would have effect under the law which governs that liability or instrument.
+(5) Under subsection (4B)[^c-0e49affc95c40e1f0c9930858130c178], the Bank may, in particular, direct a relevant person to endeavour to re-negotiate any eligible liability or relevant capital instruments issued by that person, for the purpose of ensuring that any decision by the Bank to write down or convert the liability or instrument concerned would have effect under the law which governs that liability or instrument.
 
 (6) The Bank may give directions to a relevant MAHC requiring it to establish a separate financial holding company as a parent of an institution for the purpose of—
 
@@ -86,7 +86,7 @@ summary: ''
 - “financial institution” has the meaning given by Article 4.1(26) of the capital requirements regulation;
 - “group” has the meaning given in section 3(2)(b);
 - “group financial support agreement” has the meaning given by section 192JB(4) of the Financial Services and Markets Act 2000;
-- “institution” (except in the phrase “financial institution”) means a bank , building society (within the meaning of section 119 of the Building Societies Act 1986)[^key-137c4a972e2a3ec63061456633a34af4] or investment firm;
+- “institution” (except in the phrase “financial institution”) means a bank , building society (within the meaning of section 119 of the Building Societies Act 1986)[^c-137c4a972e2a3ec63061456633a34af4] or investment firm;
 - “mixed financial holding company” has the meaning given by Article 4.1(21) of the capital requirements regulation;
 - “parent” means a parent undertaking within the meaning given by section 1162 of the Companies Act 2006;
 - “relevant MAHC” means a mixed activity holding company (within the meaning given by Article 4.1(22) of the capital requirements regulation) which has at least one subsidiary which—
@@ -96,10 +96,10 @@ summary: ''
 
 ## Annotations
 
-[^key-295d9719523157f644543e712b703130]: Textual amendment: Pt. 1 Ch. 2 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [6](https://www.legislation.gov.uk/uksi/2014/3329/article/6)
+[^c-295d9719523157f644543e712b703130]: Textual amendment: Pt. 1 Ch. 2 inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [6](https://www.legislation.gov.uk/uksi/2014/3329/article/6)
 
-[^key-0abecbfa4678ce7a5165866f23421657]: Textual amendment: S. 3A(4)-(4C) substituted for s. 3A(4) (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/5/a)
+[^c-0abecbfa4678ce7a5165866f23421657]: Textual amendment: S. 3A(4)-(4C) substituted for s. 3A(4) (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [5(a)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/5/a)
 
-[^key-0e49affc95c40e1f0c9930858130c178]: Textual amendment: Word in s. 3A(5) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/5/b)
+[^c-0e49affc95c40e1f0c9930858130c178]: Textual amendment: Word in s. 3A(5) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [5(b)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/5/b)
 
-[^key-137c4a972e2a3ec63061456633a34af4]: Textual amendment: Words in s. 3A(8) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [5](https://www.legislation.gov.uk/uksi/2016/1239/article/5)
+[^c-137c4a972e2a3ec63061456633a34af4]: Textual amendment: Words in s. 3A(8) inserted (16.12.2016) by [The Bank Recovery and Resolution Order 2016 (S.I. 2016/1239)](https://www.legislation.gov.uk/uksi/2016/1239), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2016/1239/article/1/2), [5](https://www.legislation.gov.uk/uksi/2016/1239/article/5)

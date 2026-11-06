@@ -41,7 +41,7 @@ summary: ''
 (6) This Article applies to—
 
 - (a) goods vehicles,
-- (aa)[^key-9268d94a4ce06ccb987b87e5e98e0acb] taxis;
+- (aa)[^c-9268d94a4ce06ccb987b87e5e98e0acb] taxis;
 - (b) public service vehicles, and
 - (c) motor vehicles which are not public service vehicles but are adapted to carry more than 8 passengers;
 - (d)[^c20473511] a motor car;
@@ -58,7 +58,7 @@ but paragraph (1)(b) shall not apply in relation to vehicles within sub-paragrap
 
 [^c20473381]: Textual amendment: Art. 76(4A) inserted (27.6.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [43(2)](https://www.legislation.gov.uk/nisi/2007/916/article/43/2); [S.R. 2007/302](https://www.legislation.gov.uk/nisr/2007/302), [art. 2](https://www.legislation.gov.uk/nisr/2007/302/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/302/schedule)
 
-[^key-9268d94a4ce06ccb987b87e5e98e0acb]: Textual amendment: [Art. 76(6)(aa)](https://www.legislation.gov.uk/nisi/1995/2994/article/76/6/aa) inserted (31.5.2016) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/9); [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
+[^c-9268d94a4ce06ccb987b87e5e98e0acb]: Textual amendment: [Art. 76(6)(aa)](https://www.legislation.gov.uk/nisi/1995/2994/article/76/6/aa) inserted (31.5.2016) by [Taxis Act (Northern Ireland) 2008 (c. 4)](https://www.legislation.gov.uk/nia/2008/4), [s. 59](https://www.legislation.gov.uk/nia/2008/4/section/59), [Sch. 2 para. 9](https://www.legislation.gov.uk/nia/2008/4/schedule/2/paragraph/9); [S.R. 2015/389](https://www.legislation.gov.uk/nisr/2015/389), [art. 2(3)](https://www.legislation.gov.uk/nisr/2015/389/article/2/3), [Sch. Pt. 3](https://www.legislation.gov.uk/nisr/2015/389/schedule/part/3)
 
 [^c20473511]: Textual amendment: Art. 76(6)(d) inserted (27.6.2007) by [Road Traffic (Northern Ireland) Order 2007 (S.I. 2007/916 (N.I. 10))](https://www.legislation.gov.uk/nisi/2007/916), [arts. 1(3)](https://www.legislation.gov.uk/nisi/2007/916/article/1/3), [43(3)(a)](https://www.legislation.gov.uk/nisi/2007/916/article/43/3/a); [S.R. 2007/302](https://www.legislation.gov.uk/nisr/2007/302), [art. 2](https://www.legislation.gov.uk/nisr/2007/302/article/2), [Sch.](https://www.legislation.gov.uk/nisr/2007/302/schedule)
 

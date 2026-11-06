@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 134. Interpretation[^key-bf8a27757ec7fc7496d1c0a3460b96b8]
+## 134. Interpretation[^c-bf8a27757ec7fc7496d1c0a3460b96b8]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,7 +60,7 @@ summary: ''
 
 ## Annotations
 
-[^key-bf8a27757ec7fc7496d1c0a3460b96b8]: Commencement: Reg. 134 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-bf8a27757ec7fc7496d1c0a3460b96b8]: Commencement: Reg. 134 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
 
 [^f00044]: Footnote: [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075), to which there are amendments not relevant to these Regulations.
 

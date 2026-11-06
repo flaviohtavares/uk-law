@@ -22,10 +22,10 @@ summary: ''
 
 (1) The cost of an employment-related benefit (“the taxable benefit”) is determined in accordance with this section if—
 
-- (a)[^key-f9ec6536287d1606b62a3020e520bb1c] the benefit consists in an asset being made available for private use, and
+- (a)[^c-f9ec6536287d1606b62a3020e520bb1c] the benefit consists in an asset being made available for private use, and
 - (b) there is no transfer of the property in the asset.
 
-(1A)[^key-e7f2a886c4520310465bab4a6a7ea927] In this section and section 205A, “**private use**” means private use by the employee or a member of the employee's family or household.
+(1A)[^c-e7f2a886c4520310465bab4a6a7ea927] In this section and section 205A, “**private use**” means private use by the employee or a member of the employee's family or household.
 
 (1B) For the purposes of subsection (1) and sections 205A and 205B, an asset made available in a tax year for use by the employee or a member of the employee's family or household is to be treated as made available throughout the year for private use unless—
 
@@ -39,7 +39,7 @@ summary: ''
 
 (1D) In certain cases, the cost of the taxable benefit is calculated under this section in accordance with section 205B (reduction of cost of taxable benefit where asset is shared).
 
-(2) The annual cost of the[^key-f5997539dbd19b41cc485f1300d38e15] benefit is the higher of—
+(2) The annual cost of the[^c-f5997539dbd19b41cc485f1300d38e15] benefit is the higher of—
 
 - (a) the annual value of the use of the asset, and
 - (b) the annual amount of the sums, if any, paid by those providing the benefit by way of rent or hire charge for the asset,
@@ -58,7 +58,7 @@ together with the amount of any additional expense.
 - (a) the expense of acquiring or producing the asset incurred by the person to whom the asset belongs, and
 - (b) any rent or hire charge payable for the asset by those providing the asset.
 
-(5)[^key-8c100775b47ce0eb8b47ddba23b60921] Where the asset is an emergency vehicle, the expense of providing fuel for it in a tax year is not an additional expense by virtue of subsection (4) so long as—
+(5)[^c-8c100775b47ce0eb8b47ddba23b60921] Where the asset is an emergency vehicle, the expense of providing fuel for it in a tax year is not an additional expense by virtue of subsection (4) so long as—
 
 - (a) the person incurring that expense incurs no expense in that tax year in the provision of fuel for the vehicle which is used for the employee's private travel (“private fuel expense”), or
 - (b) all private fuel expense that the person does incur in that tax year is made good by the employee on or before 6 July following the tax year.
@@ -71,10 +71,10 @@ together with the amount of any additional expense.
 
 ## Annotations
 
-[^key-f9ec6536287d1606b62a3020e520bb1c]: Textual amendment: S. 205(1)(a) substituted (with effect in accordance with s. 8(5) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2017/10/section/8/2/a)
+[^c-f9ec6536287d1606b62a3020e520bb1c]: Textual amendment: S. 205(1)(a) substituted (with effect in accordance with s. 8(5) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 8(2)(a)](https://www.legislation.gov.uk/ukpga/2017/10/section/8/2/a)
 
-[^key-e7f2a886c4520310465bab4a6a7ea927]: Textual amendment: S. 205(1A)-(1D) inserted (with effect in accordance with s. 8(5) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2017/10/section/8/2/b)
+[^c-e7f2a886c4520310465bab4a6a7ea927]: Textual amendment: S. 205(1A)-(1D) inserted (with effect in accordance with s. 8(5) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 8(2)(b)](https://www.legislation.gov.uk/ukpga/2017/10/section/8/2/b)
 
-[^key-f5997539dbd19b41cc485f1300d38e15]: Textual amendment: Words in s. 205(2) substituted (with effect in accordance with s. 8(5) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2017/10/section/8/2/c)
+[^c-f5997539dbd19b41cc485f1300d38e15]: Textual amendment: Words in s. 205(2) substituted (with effect in accordance with s. 8(5) of the amending Act) by [Finance Act 2017 (c. 10)](https://www.legislation.gov.uk/ukpga/2017/10), [s. 8(2)(c)](https://www.legislation.gov.uk/ukpga/2017/10/section/8/2/c)
 
-[^key-8c100775b47ce0eb8b47ddba23b60921]: Textual amendment: [S. 205(5)](https://www.legislation.gov.uk/ukpga/2003/1/section/205/5)[(6)](https://www.legislation.gov.uk/ukpga/2003/1/section/205/6) inserted (with effect in accordance with s. 9(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2019/1/section/9/4)
+[^c-8c100775b47ce0eb8b47ddba23b60921]: Textual amendment: [S. 205(5)](https://www.legislation.gov.uk/ukpga/2003/1/section/205/5)[(6)](https://www.legislation.gov.uk/ukpga/2003/1/section/205/6) inserted (with effect in accordance with s. 9(5) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [s. 9(4)](https://www.legislation.gov.uk/ukpga/2019/1/section/9/4)

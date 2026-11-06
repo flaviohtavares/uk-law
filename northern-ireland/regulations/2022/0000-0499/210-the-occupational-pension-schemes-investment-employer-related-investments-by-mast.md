@@ -42,13 +42,13 @@ Coming into operation
 
 The Department for Communities makes the following Regulations in exercise of the powers conferred by sections 109(1)(d) and (3) and 177(2) to (4) of the Pension Schemes (Northern Ireland) Act 1993[^f00001] and Articles 40(1) and (2), 41(1) and 166(1) to (3) of the Pensions (Northern Ireland) Order 1995[^f00002], and now vested in it[^f00003].
 
-## 1. Citation, commencement and interpretation[^key-9b8528b0e701efe12237ef63f50ddffc]
+## 1. Citation, commencement and interpretation[^c-9b8528b0e701efe12237ef63f50ddffc]
 
 (1) These Regulations may be cited as the Occupational Pension Schemes (Investment) (Employer-related Investments by Master Trusts) (Amendment) Regulations (Northern Ireland) 2022 and shall come into operation on 1st October 2022.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00004] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Amendment of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations[^key-b6ff64e2ae6d6756653f35ccb81a0e11]
+## 2. Amendment of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations[^c-b6ff64e2ae6d6756653f35ccb81a0e11]
 
 In regulation 3A of the Occupational Pension Schemes (Requirement to obtain Audited Accounts and a Statement from the Auditor) Regulations (Northern Ireland) 1997[^f00005] (information to be included in the accounts audited by the auditor)—
 
@@ -59,7 +59,7 @@ In regulation 3A of the Occupational Pension Schemes (Requirement to obtain Audi
 
   .
 
-## 3. Amendment of the Occupational Pension Schemes (Investment) Regulations[^key-1ae67a2a1a52829693eec401315674d9]
+## 3. Amendment of the Occupational Pension Schemes (Investment) Regulations[^c-1ae67a2a1a52829693eec401315674d9]
 
 (1) The Occupational Pension Schemes (Investment) Regulations (Northern Ireland) 2005 are amended in accordance with paragraphs (2) to (6).
 
@@ -149,7 +149,7 @@ In regulation 3A of the Occupational Pension Schemes (Requirement to obtain Audi
 
 .
 
-## 4. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^key-4782f5fc7885bc6b28fcb7ffdcdab8c3]
+## 4. Amendment of the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations[^c-4782f5fc7885bc6b28fcb7ffdcdab8c3]
 
 In paragraph 33 of Schedule 3 to the Occupational and Personal Pension Schemes (Disclosure of Information) Regulations (Northern Ireland) 2014[^f00013] (information to be given on request)—
 
@@ -192,17 +192,17 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00003]: Footnote: *See* Article 8(b) of [S.R. 1999 No. 481](https://www.legislation.gov.uk/nisr/1999/481) and section 1(7) of the Departments Act (Northern Ireland) [2016 (c. 5 (N.I.)](https://www.legislation.gov.uk/nia/2016/5))
 
-[^key-9b8528b0e701efe12237ef63f50ddffc]: Commencement: Reg. 1 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1)
+[^c-9b8528b0e701efe12237ef63f50ddffc]: Commencement: Reg. 1 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1)
 
 [^f00004]: Footnote: [1954 c. 33](https://www.legislation.gov.uk/ukpga/1954/33) (N.I.)
 
-[^key-b6ff64e2ae6d6756653f35ccb81a0e11]: Commencement: Reg. 2 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1)
+[^c-b6ff64e2ae6d6756653f35ccb81a0e11]: Commencement: Reg. 2 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1)
 
 [^f00005]: Footnote: [S.R. 1997 No. 40](https://www.legislation.gov.uk/nisr/1997/40); regulation 3A was inserted by regulation 2(4) of [S.R. 2016 No. 141](https://www.legislation.gov.uk/nisr/2016/141)
 
 [^f00006]: Footnote: [S.R. 2005 No. 569](https://www.legislation.gov.uk/nisr/2005/569); regulation 16A is inserted by regulation 3(6) of these Regulations
 
-[^key-1ae67a2a1a52829693eec401315674d9]: Commencement: Reg. 3 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1)
+[^c-1ae67a2a1a52829693eec401315674d9]: Commencement: Reg. 3 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1)
 
 [^f00007]: Footnote: Regulation 12 was amended by regulation 14(3) of [S.R. 2007 No. 185](https://www.legislation.gov.uk/nisr/2007/185) and regulation 17(3) of [S.R. 2009 No. 115](https://www.legislation.gov.uk/nisr/2009/115)
 
@@ -216,6 +216,6 @@ An assessment of the cost to business of these Regulations is detailed in a Regu
 
 [^f00012]: Footnote: Article 40(2A) and (2B) was inserted by Article 26(2) of [S.I. 2004/355](https://www.legislation.gov.uk/uksi/2004/355)
 
-[^key-4782f5fc7885bc6b28fcb7ffdcdab8c3]: Commencement: Reg. 4 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1)
+[^c-4782f5fc7885bc6b28fcb7ffdcdab8c3]: Commencement: Reg. 4 in operation at 1.10.2022, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2022/210/regulation/1/1)
 
 [^f00013]: Footnote: [S.R. 2014 No. 79](https://www.legislation.gov.uk/nisr/2014/79)

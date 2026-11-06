@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Amendment of the Extradition Act 2003 (Designation of Part 1 Territories) Order 2003[^key-95353c52baa4e4a169eb39cdc5dc7462]
+## 55. Amendment of the Extradition Act 2003 (Designation of Part 1 Territories) Order 2003[^c-95353c52baa4e4a169eb39cdc5dc7462]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95353c52baa4e4a169eb39cdc5dc7462]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-95353c52baa4e4a169eb39cdc5dc7462]: Commencement: Reg. 55 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
 [^c23691291]: Marginal citation: [S.I. 2003/3333](https://www.legislation.gov.uk/uksi/2003/3333), as amended by [S.I. 2004/1898](https://www.legislation.gov.uk/uksi/2004/1898), 2005/365, 2005/2036, 2006/3451, 2007/2238, and 2013/1583.

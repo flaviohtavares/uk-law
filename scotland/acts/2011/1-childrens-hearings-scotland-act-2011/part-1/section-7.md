@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 7. Holding of children's hearing[^key-4c434a8a668e25ae2b8456dd8f363ad7]
+## 7. Holding of children's hearing[^c-4c434a8a668e25ae2b8456dd8f363ad7]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The National Convener must ensure that a children's hearing is held for the purp
 
 ## Annotations
 
-[^key-4c434a8a668e25ae2b8456dd8f363ad7]: Commencement: S. 7 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)
+[^c-4c434a8a668e25ae2b8456dd8f363ad7]: Commencement: S. 7 in force at 24.6.2013 by [S.S.I. 2013/195](https://www.legislation.gov.uk/ssi/2013/195), [arts. 2](https://www.legislation.gov.uk/ssi/2013/195/article/2), [3](https://www.legislation.gov.uk/ssi/2013/195/article/3)

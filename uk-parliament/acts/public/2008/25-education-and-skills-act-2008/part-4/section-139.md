@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Continuity of the law[^key-fc9ed9e0f40da549e6ed7d81804f5177]
+## 139. Continuity of the law[^c-fc9ed9e0f40da549e6ed7d81804f5177]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ has effect from that time as if done under or for the purposes of the new provis
 
 ## Annotations
 
-[^key-fc9ed9e0f40da549e6ed7d81804f5177]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2008/25/section/139) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(w)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/w)
+[^c-fc9ed9e0f40da549e6ed7d81804f5177]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2008/25/section/139) in force at 5.1.2015 by [S.I. 2014/3364](https://www.legislation.gov.uk/uksi/2014/3364), [art. 2(w)](https://www.legislation.gov.uk/uksi/2014/3364/article/2/w)

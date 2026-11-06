@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) The appropriate authority must, as required in the light of information derived from surveillance arranged under regulation 50 [^key-44b34d92efcf53ac0a65c877287ca4f7]..., ensure that measures are taken for the purpose specified in paragraph (2).
+(1) The appropriate authority must, as required in the light of information derived from surveillance arranged under regulation 50 [^c-44b34d92efcf53ac0a65c877287ca4f7]..., ensure that measures are taken for the purpose specified in paragraph (2).
 
 (2) The purpose is to ensure that—
 
@@ -33,4 +33,4 @@ are compatible with the maintenance of that species at a favourable conservation
 
 ## Annotations
 
-[^key-44b34d92efcf53ac0a65c877287ca4f7]: Textual amendment: Words in [reg. 51(1)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/51/1) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [21](https://www.legislation.gov.uk/uksi/2019/579/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-44b34d92efcf53ac0a65c877287ca4f7]: Textual amendment: Words in [reg. 51(1)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/51/1) omitted (31.12.2020) by virtue of [The Conservation of Habitats and Species (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/579)](https://www.legislation.gov.uk/uksi/2019/579), [regs. 1](https://www.legislation.gov.uk/uksi/2019/579/regulation/1), [21](https://www.legislation.gov.uk/uksi/2019/579/regulation/21); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

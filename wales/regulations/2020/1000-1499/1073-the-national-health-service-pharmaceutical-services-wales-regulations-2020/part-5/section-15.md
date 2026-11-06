@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 15. Applications to be included in or make amendment to a pharmaceutical list[^key-3652e503b28456decb993bd56f8c791e]
+## 15. Applications to be included in or make amendment to a pharmaceutical list[^c-3652e503b28456decb993bd56f8c791e]
 
 *Extent: E+W*
 
@@ -69,4 +69,4 @@ applies and which are determined in accordance with those regulations.
 
 ## Annotations
 
-[^key-3652e503b28456decb993bd56f8c791e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2020/1073/regulation/15) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)
+[^c-3652e503b28456decb993bd56f8c791e]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2020/1073/regulation/15) in force at 1.10.2021, see [reg. 1(3)](https://www.legislation.gov.uk/wsi/2020/1073/regulation/1/3)

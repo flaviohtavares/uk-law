@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 20.7. Expenses of curator ad litem appointed to a respondent[^key-433072f126970e4cb3491a8e38b225ea]
+## 20.7. Expenses of curator ad litem appointed to a respondent[^c-433072f126970e4cb3491a8e38b225ea]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-433072f126970e4cb3491a8e38b225ea]: Commencement: Para. 20.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)
+[^c-433072f126970e4cb3491a8e38b225ea]: Commencement: Para. 20.7 in force at 6.1.2022, see [para. 1.1(2)](https://www.legislation.gov.uk/ssi/2021/468/paragraph/1.1/2)

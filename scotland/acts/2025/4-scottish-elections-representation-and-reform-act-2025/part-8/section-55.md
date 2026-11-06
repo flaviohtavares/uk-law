@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Individual culpability where organisation commits an offence[^key-9e4a9c56aa3eb179bad744d41bd03b42][^key-24cf3a3a68e58bd9ebcd15f383a7a0da]
+## 55. Individual culpability where organisation commits an offence[^c-9e4a9c56aa3eb179bad744d41bd03b42][^c-24cf3a3a68e58bd9ebcd15f383a7a0da]
 
 *Extent: S*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-9e4a9c56aa3eb179bad744d41bd03b42]: Commencement: S. 55 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-9e4a9c56aa3eb179bad744d41bd03b42]: Commencement: S. 55 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-24cf3a3a68e58bd9ebcd15f383a7a0da]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2025/4/section/55) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)
+[^c-24cf3a3a68e58bd9ebcd15f383a7a0da]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2025/4/section/55) in force at 17.11.2025 by [S.S.I. 2025/260](https://www.legislation.gov.uk/ssi/2025/260), [reg. 3](https://www.legislation.gov.uk/ssi/2025/260/regulation/3), [sch. Pt. 1](https://www.legislation.gov.uk/ssi/2025/260/schedule/part/1)

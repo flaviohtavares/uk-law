@@ -435,15 +435,15 @@ Where it appears to the Committee that an osteopath’s ability to practise may 
 
 **64.** If, following a reference to the Health Committee, the Health Committee certifies to the Committee its opinion that the fitness of the osteopath is seriously impaired, then the Committee shall cease to exercise its functions in relation to that case.
 
-##### 65. Service of documents[^key-b3fbc585266b374a79d0ced8a837f473]
+##### 65. Service of documents[^c-b3fbc585266b374a79d0ced8a837f473]
 
-(1) Any notice or communication required by these Rules to be served on a person may be served on the person using electronic mail to an electronic mail address that the person has notified to the Council as an address for communications or[^key-933b3baefc22c623eca395a287b0939c] [^key-897a48531793e910226b1f7302b95538]... by delivering it to him or leaving it at his address, or by sending it by Registered Post or by Recorded Delivery service.
+(1) Any notice or communication required by these Rules to be served on a person may be served on the person using electronic mail to an electronic mail address that the person has notified to the Council as an address for communications or[^c-933b3baefc22c623eca395a287b0939c] [^c-897a48531793e910226b1f7302b95538]... by delivering it to him or leaving it at his address, or by sending it by Registered Post or by Recorded Delivery service.
 
 (2) For the purposes of these Rules, the osteopath’s address shall be his address in the Register or his last known address if it differs from his address in the Register and it appears to the Solicitor that a letter sent to him there is more likely to reach him than at his registered address.
 
 (3) For the purpose of these Rules service of a notification sent by post shall be deemed to have been effected at the time when the letter containing it is sent.
 
-(4)[^key-10353a93d1e214fa94ec75ee9033bc69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-10353a93d1e214fa94ec75ee9033bc69] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (This note is not part of the Order)
 
@@ -455,10 +455,10 @@ This Order, made under the Osteopaths Act 1993, approves Rules made by the Gener
 
 [^c16377351]: Marginal citation: [1993 c. 21](https://www.legislation.gov.uk/ukpga/1993/21) amended by the [Chiropractors Act 1994 (c.17)](https://www.legislation.gov.uk/ukpga/1994/17), [Schedule 2](https://www.legislation.gov.uk/ukpga/1994/17/schedule/2).
 
-[^key-b3fbc585266b374a79d0ced8a837f473]: Textual amendment: Words in [Sch. rule 65](https://www.legislation.gov.uk/uksi/2000/241/schedule/rule/65) title substituted (16.7.2020) by [The General Osteopathic Council (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/596)](https://www.legislation.gov.uk/uksi/2020/596), [art. 1](https://www.legislation.gov.uk/uksi/2020/596/article/1), [Sch. rule 3(a)](https://www.legislation.gov.uk/uksi/2020/596/schedule/paragraph/3/a)
+[^c-b3fbc585266b374a79d0ced8a837f473]: Textual amendment: Words in [Sch. rule 65](https://www.legislation.gov.uk/uksi/2000/241/schedule/rule/65) title substituted (16.7.2020) by [The General Osteopathic Council (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/596)](https://www.legislation.gov.uk/uksi/2020/596), [art. 1](https://www.legislation.gov.uk/uksi/2020/596/article/1), [Sch. rule 3(a)](https://www.legislation.gov.uk/uksi/2020/596/schedule/paragraph/3/a)
 
-[^key-933b3baefc22c623eca395a287b0939c]: Textual amendment: Words in [Sch. rule 65(1)](https://www.legislation.gov.uk/uksi/2000/241/schedule/rule/65/1) inserted (16.7.2020) by [The General Osteopathic Council (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/596)](https://www.legislation.gov.uk/uksi/2020/596), [art. 1](https://www.legislation.gov.uk/uksi/2020/596/article/1), [Sch. rule 3(b)(i)](https://www.legislation.gov.uk/uksi/2020/596/schedule/paragraph/3/b/i)
+[^c-933b3baefc22c623eca395a287b0939c]: Textual amendment: Words in [Sch. rule 65(1)](https://www.legislation.gov.uk/uksi/2000/241/schedule/rule/65/1) inserted (16.7.2020) by [The General Osteopathic Council (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/596)](https://www.legislation.gov.uk/uksi/2020/596), [art. 1](https://www.legislation.gov.uk/uksi/2020/596/article/1), [Sch. rule 3(b)(i)](https://www.legislation.gov.uk/uksi/2020/596/schedule/paragraph/3/b/i)
 
-[^key-897a48531793e910226b1f7302b95538]: Textual amendment: Word in [Sch. rule 65(1)](https://www.legislation.gov.uk/uksi/2000/241/schedule/rule/65/1) omitted (16.7.2020) by virtue of [The General Osteopathic Council (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/596)](https://www.legislation.gov.uk/uksi/2020/596), [art. 1](https://www.legislation.gov.uk/uksi/2020/596/article/1), [Sch. rule 3(b)(ii)](https://www.legislation.gov.uk/uksi/2020/596/schedule/paragraph/3/b/ii)
+[^c-897a48531793e910226b1f7302b95538]: Textual amendment: Word in [Sch. rule 65(1)](https://www.legislation.gov.uk/uksi/2000/241/schedule/rule/65/1) omitted (16.7.2020) by virtue of [The General Osteopathic Council (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/596)](https://www.legislation.gov.uk/uksi/2020/596), [art. 1](https://www.legislation.gov.uk/uksi/2020/596/article/1), [Sch. rule 3(b)(ii)](https://www.legislation.gov.uk/uksi/2020/596/schedule/paragraph/3/b/ii)
 
-[^key-10353a93d1e214fa94ec75ee9033bc69]: Textual amendment: [Sch. rule 65(4)](https://www.legislation.gov.uk/uksi/2000/241/schedule/rule/65/4) omitted (16.7.2020) by virtue of [The General Osteopathic Council (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/596)](https://www.legislation.gov.uk/uksi/2020/596), [art. 1](https://www.legislation.gov.uk/uksi/2020/596/article/1), [Sch. rule 3(c)](https://www.legislation.gov.uk/uksi/2020/596/schedule/paragraph/3/c)
+[^c-10353a93d1e214fa94ec75ee9033bc69]: Textual amendment: [Sch. rule 65(4)](https://www.legislation.gov.uk/uksi/2000/241/schedule/rule/65/4) omitted (16.7.2020) by virtue of [The General Osteopathic Council (Coronavirus) (Amendment) Rules Order of Council 2020 (S.I. 2020/596)](https://www.legislation.gov.uk/uksi/2020/596), [art. 1](https://www.legislation.gov.uk/uksi/2020/596/article/1), [Sch. rule 3(c)](https://www.legislation.gov.uk/uksi/2020/596/schedule/paragraph/3/c)

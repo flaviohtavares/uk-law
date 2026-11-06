@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 213L. Forfeiture[^key-403d5302d229bcbcdcc03dacdb8f36e6]
+## 213L. Forfeiture[^c-403d5302d229bcbcdcc03dacdb8f36e6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,12 +28,12 @@ summary: ''
 (2) In this article, “the court” means—
 
 - (a) in England and Wales, a magistrates’ court;
-- (aa)[^key-4a7c35f8ff062a5e6e02d782b8c3b130] in Northern Ireland, a magistrates’ court;
+- (aa)[^c-4a7c35f8ff062a5e6e02d782b8c3b130] in Northern Ireland, a magistrates’ court;
 - (b) in Scotland, the sheriff court.
 
 (3) The persons referred to in paragraph (1) are—
 
-- (a) in England and Wales or Northern Ireland[^key-ba52aebf4534db9f2cd8a6632cb4c57c], the Commissioners for Her Majesty’s Revenue and Customs, a constable or an SFO officer, or
+- (a) in England and Wales or Northern Ireland[^c-ba52aebf4534db9f2cd8a6632cb4c57c], the Commissioners for Her Majesty’s Revenue and Customs, a constable or an SFO officer, or
 - (b) in Scotland, the Scottish Ministers.
 
 (4) In paragraph (1), “the detention period” means the period specified in article 213I(2) (detention of seized property).
@@ -71,8 +71,8 @@ summary: ''
 
 ## Annotations
 
-[^key-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
+[^c-403d5302d229bcbcdcc03dacdb8f36e6]: Textual amendment: [Pt. 5A](https://www.legislation.gov.uk/uksi/2005/3181/part/5A) inserted (12.11.2019) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2018 (S.I. 2018/1078)](https://www.legislation.gov.uk/uksi/2018/1078), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2018/1078/article/1/2), [30](https://www.legislation.gov.uk/uksi/2018/1078/article/30)
 
-[^key-4a7c35f8ff062a5e6e02d782b8c3b130]: Textual amendment: [Art. 213L(2)(aa)](https://www.legislation.gov.uk/uksi/2005/3181/article/213L/2/aa) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2021/638/article/12/a)
+[^c-4a7c35f8ff062a5e6e02d782b8c3b130]: Textual amendment: [Art. 213L(2)(aa)](https://www.legislation.gov.uk/uksi/2005/3181/article/213L/2/aa) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [12(a)](https://www.legislation.gov.uk/uksi/2021/638/article/12/a)
 
-[^key-ba52aebf4534db9f2cd8a6632cb4c57c]: Textual amendment: Words in [art. 213L(3)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/213L/3/a) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2021/638/article/12/b)
+[^c-ba52aebf4534db9f2cd8a6632cb4c57c]: Textual amendment: Words in [art. 213L(3)(a)](https://www.legislation.gov.uk/uksi/2005/3181/article/213L/3/a) inserted (28.6.2021) by [The Proceeds of Crime Act 2002 (External Investigations and External Orders and Requests) (Amendment) Order 2021 (S.I. 2021/638)](https://www.legislation.gov.uk/uksi/2021/638), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2021/638/article/1/2), [12(b)](https://www.legislation.gov.uk/uksi/2021/638/article/12/b)

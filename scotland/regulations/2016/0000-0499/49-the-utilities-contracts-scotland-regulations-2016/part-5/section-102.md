@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 102. Automatic Suspension of utility’s power to proceed with contract award[^key-cb41a06e9e1659fc15172b946eea2550]
+## 102. Automatic Suspension of utility’s power to proceed with contract award[^c-cb41a06e9e1659fc15172b946eea2550]
 
 *Extent: S*
 
@@ -27,4 +27,4 @@ Without prejudice to the application of any relevant standstill period, where pr
 
 ## Annotations
 
-[^key-cb41a06e9e1659fc15172b946eea2550]: Commencement: [Reg. 102](https://www.legislation.gov.uk/ssi/2016/49/regulation/102) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)
+[^c-cb41a06e9e1659fc15172b946eea2550]: Commencement: [Reg. 102](https://www.legislation.gov.uk/ssi/2016/49/regulation/102) in force at 18.4.2016, see [reg. 1(2)](https://www.legislation.gov.uk/ssi/2016/49/regulation/1/2)

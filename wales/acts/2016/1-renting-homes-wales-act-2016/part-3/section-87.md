@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 87. Compensation for failures relating to provision of written statements etc.[^key-96c8c746a4ed0138bb4b31dfcdf95c30]
+## 87. Compensation for failures relating to provision of written statements etc.[^c-96c8c746a4ed0138bb4b31dfcdf95c30]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-96c8c746a4ed0138bb4b31dfcdf95c30]: Commencement: [S. 87](https://www.legislation.gov.uk/anaw/2016/1/section/87) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-96c8c746a4ed0138bb4b31dfcdf95c30]: Commencement: [S. 87](https://www.legislation.gov.uk/anaw/2016/1/section/87) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

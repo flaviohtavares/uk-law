@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 87. Appeals from decisions of OFCOM and others: standard of review[^key-88e133ef3680c4f59bd01c980630f0f3]
+## 87. Appeals from decisions of OFCOM and others: standard of review[^c-88e133ef3680c4f59bd01c980630f0f3]
 
 *Extent: E+W+S+N.I.*
 
@@ -67,4 +67,4 @@ summary: ''
 
 ## Annotations
 
-[^key-88e133ef3680c4f59bd01c980630f0f3]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2017/30/section/87) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/w)
+[^c-88e133ef3680c4f59bd01c980630f0f3]: Commencement: [S. 87](https://www.legislation.gov.uk/ukpga/2017/30/section/87) in force at 31.7.2017 by [S.I. 2017/765](https://www.legislation.gov.uk/uksi/2017/765), [reg. 2(w)](https://www.legislation.gov.uk/uksi/2017/765/regulation/2/w)

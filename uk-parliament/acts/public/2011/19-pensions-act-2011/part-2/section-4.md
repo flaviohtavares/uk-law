@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Automatic re-enrolment where scheme membership interrupted[^c2114358][^key-6967ddc0e24e71209cf2571f16a0fcd8]
+## 4. Automatic re-enrolment where scheme membership interrupted[^c2114358][^c-6967ddc0e24e71209cf2571f16a0fcd8]
 
 *Extent: E+W+S+N.I.*
 
@@ -76,4 +76,4 @@ summary: ''
 
 [^c2114358]: Commencement: [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) partly in force; [Pt. 2](https://www.legislation.gov.uk/ukpga/2011/19/part/2) (ss. 4-18) in force at 3.11.2011 in so far as it confers power to make subordinate legislation see [s. 38(1)](https://www.legislation.gov.uk/ukpga/2011/19/section/38/1).
 
-[^key-6967ddc0e24e71209cf2571f16a0fcd8]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/19/section/4) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/1/a)
+[^c-6967ddc0e24e71209cf2571f16a0fcd8]: Commencement: [S. 4](https://www.legislation.gov.uk/ukpga/2011/19/section/4) in force at 30.6.2012 in so far as not already in force by [S.I. 2012/1681](https://www.legislation.gov.uk/uksi/2012/1681), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2012/1681/article/2/1/a)

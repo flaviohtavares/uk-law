@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Enforcement of regulatory requirements[^key-bbcf465bf8b64fec0a1e1dff03cfea0f]
+## 54. Enforcement of regulatory requirements[^c-bbcf465bf8b64fec0a1e1dff03cfea0f]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 7 makes provision for the enforcement of regulatory requirements impose
 
 ## Annotations
 
-[^key-bbcf465bf8b64fec0a1e1dff03cfea0f]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2011/5/section/54) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)
+[^c-bbcf465bf8b64fec0a1e1dff03cfea0f]: Commencement: [S. 54](https://www.legislation.gov.uk/ukpga/2011/5/section/54) in force at 1.10.2011 by [S.I. 2011/2329](https://www.legislation.gov.uk/uksi/2011/2329), [art. 3](https://www.legislation.gov.uk/uksi/2011/2329/article/3)

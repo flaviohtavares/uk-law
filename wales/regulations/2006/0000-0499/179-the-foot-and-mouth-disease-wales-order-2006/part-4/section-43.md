@@ -25,7 +25,7 @@ summary: ''
 - (a) a laboratory, zoo, wildlife park or other premises where susceptible animals are kept principally for the purposes of display and education of the public, or an enclosed area principally used for shooting;
 - (b) premises not falling within (a) of a body, institute or centre which—
   - (i) keeps susceptible animals only for the purposes of conservation, display and education of the public, or scientific research or breeding of such animals for research, and
-  - (ii) is approved in relation to those animals under the Trade in Animals and Related Products (Wales) Regulations 2011[^key-f0c66d9d2e6ebc4f18215f5844d6bc59];
+  - (ii) is approved in relation to those animals under the Trade in Animals and Related Products (Wales) Regulations 2011[^c-f0c66d9d2e6ebc4f18215f5844d6bc59];
 - (c) other premises where susceptible animals are kept for scientific purposes or purposes related to conservation of species or farm animal genetic resources.
 
 (2) The National Assembly must take such steps as it considers necessary to prevent the spread of disease to premises to which this article applies.
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f0c66d9d2e6ebc4f18215f5844d6bc59]: Textual amendment: Words in [art. 43(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2006/179/article/43/1/b/ii) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [28(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/28/3)
+[^c-f0c66d9d2e6ebc4f18215f5844d6bc59]: Textual amendment: Words in [art. 43(1)(b)(ii)](https://www.legislation.gov.uk/wsi/2006/179/article/43/1/b/ii) substituted (17.12.2018) by [The Environment, Planning and Rural Affairs (Miscellaneous Amendments) (Wales) Regulations 2018 (S.I. 2018/1216)](https://www.legislation.gov.uk/wsi/2018/1216), [regs. 1(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/1/3), [28(3)](https://www.legislation.gov.uk/wsi/2018/1216/regulation/28/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 43. Examinations of Scottish Police Authority by Auditor General[^key-7e1adef6e377c559e8adf3abc3801be8]
+## 43. Examinations of Scottish Police Authority by Auditor General[^c-7e1adef6e377c559e8adf3abc3801be8]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ The reference in section 23 of the Public Finance and Accountability (Scotland) 
 
 ## Annotations
 
-[^key-7e1adef6e377c559e8adf3abc3801be8]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2012/8/section/43) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)
+[^c-7e1adef6e377c559e8adf3abc3801be8]: Commencement: [S. 43](https://www.legislation.gov.uk/asp/2012/8/section/43) in force at 1.10.2012 by [S.S.I. 2012/253](https://www.legislation.gov.uk/ssi/2012/253), [art. 2](https://www.legislation.gov.uk/ssi/2012/253/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2012/253/schedule)

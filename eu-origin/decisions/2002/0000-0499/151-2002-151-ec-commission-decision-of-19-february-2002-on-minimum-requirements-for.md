@@ -31,10 +31,10 @@ summary: ''
 
 of 19 February 2002 on minimum requirements for the certificate of destruction issued in accordance with Article 5(3) of Directive 2000/53/EC of the European Parliament and of the Council on end-of-life vehicles (Text with EEA relevance) (notified under document number C(2002) 518) (revoked)
 
-[^key-3ea9219af5e8e6944118b9b79f9149c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ea9219af5e8e6944118b9b79f9149c8]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-3ea9219af5e8e6944118b9b79f9149c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-3ea9219af5e8e6944118b9b79f9149c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3ea9219af5e8e6944118b9b79f9149c8]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3ea9219af5e8e6944118b9b79f9149c8]: Textual amendment: Decision revoked (31.12.2020) by [The Waste (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/620)](https://www.legislation.gov.uk/uksi/2019/620), [reg. 1(2)(b)](https://www.legislation.gov.uk/uksi/2019/620/regulation/1/2/b), [Sch. para. 9](https://www.legislation.gov.uk/uksi/2019/620/schedule/paragraph/9); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

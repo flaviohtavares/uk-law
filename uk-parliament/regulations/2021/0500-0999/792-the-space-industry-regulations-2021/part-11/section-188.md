@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 188. Appropriate security training and qualifications[^key-054d0d02707b1192fdc397efe7fcc4cb]
+## 188. Appropriate security training and qualifications[^c-054d0d02707b1192fdc397efe7fcc4cb]
 
 *Extent: E+W+S+N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-054d0d02707b1192fdc397efe7fcc4cb]: Commencement: Reg. 188 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-054d0d02707b1192fdc397efe7fcc4cb]: Commencement: Reg. 188 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

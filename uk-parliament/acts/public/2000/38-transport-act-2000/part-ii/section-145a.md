@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 145A. England: mandatory concessions for journeys not beginning on the London bus network[^key-7305102b2da17deb9398164d02c7949c][^key-c05adb8597f2acc398b3fefbd54794ff][^key-1ef9626fb1ab8013de9a98c95a9337d6]
+## 145A. England: mandatory concessions for journeys not beginning on the London bus network[^c-7305102b2da17deb9398164d02c7949c][^c-c05adb8597f2acc398b3fefbd54794ff][^c-1ef9626fb1ab8013de9a98c95a9337d6]
 
 *Extent: E+W*
 
@@ -68,8 +68,8 @@ for a period in return for being entitled during that period to receive travel c
 
 ## Annotations
 
-[^key-7305102b2da17deb9398164d02c7949c]: Modification: [S. 145A](https://www.legislation.gov.uk/ukpga/2000/38/section/145A): functions made exercisable concurrently (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(6)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/6)
+[^c-7305102b2da17deb9398164d02c7949c]: Modification: [S. 145A](https://www.legislation.gov.uk/ukpga/2000/38/section/145A): functions made exercisable concurrently (28.2.2024) by [The East Midlands Combined County Authority Regulations 2024 (S.I. 2024/232)](https://www.legislation.gov.uk/uksi/2024/232), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2024/232/regulation/1/2), [15(6)](https://www.legislation.gov.uk/uksi/2024/232/regulation/15/6)
 
-[^key-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
+[^c-c05adb8597f2acc398b3fefbd54794ff]: Modification: Ss. 112-159: transfer of functions (5.2.2025) by [The Hull and East Yorkshire Combined Authority Order 2025 (S.I. 2025/113)](https://www.legislation.gov.uk/uksi/2025/113), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2025/113/article/1/2), [7](https://www.legislation.gov.uk/uksi/2025/113/article/7)
 
-[^key-1ef9626fb1ab8013de9a98c95a9337d6]: Textual amendment: S. 145A substituted for s. 145 (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [ss. 1](https://www.legislation.gov.uk/ukpga/2007/13/section/1), [15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))
+[^c-1ef9626fb1ab8013de9a98c95a9337d6]: Textual amendment: S. 145A substituted for s. 145 (17.10.2007 for specified purposes, 1.4.2008 in so far as not already in force) by [Concessionary Bus Travel Act 2007 (c. 13)](https://www.legislation.gov.uk/ukpga/2007/13), [ss. 1](https://www.legislation.gov.uk/ukpga/2007/13/section/1), [15(1)](https://www.legislation.gov.uk/ukpga/2007/13/section/15/1); [S.I. 2007/2799](https://www.legislation.gov.uk/uksi/2007/2799), [arts. 2](https://www.legislation.gov.uk/uksi/2007/2799/article/2), [3](https://www.legislation.gov.uk/uksi/2007/2799/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2007/2799/article/4))

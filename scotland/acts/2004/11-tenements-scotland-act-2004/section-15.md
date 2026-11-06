@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 15. Prescriptive period for costs to which section 12 relates[^key-4bddcca10d2fea4fbb5cacaad3d3d447]
+## 15. Prescriptive period for costs to which section 12 relates[^c-4bddcca10d2fea4fbb5cacaad3d3d447]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ In Schedule 1 to the Prescription and Limitation (Scotland) Act 1973 (c. 52) (ob
 
 ## Annotations
 
-[^key-4bddcca10d2fea4fbb5cacaad3d3d447]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2004/11/section/15) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)
+[^c-4bddcca10d2fea4fbb5cacaad3d3d447]: Commencement: [S. 15](https://www.legislation.gov.uk/asp/2004/11/section/15) in force at 28.11.2004 by [S.S.I. 2004/487](https://www.legislation.gov.uk/ssi/2004/487), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2004/487/article/2/1/c)

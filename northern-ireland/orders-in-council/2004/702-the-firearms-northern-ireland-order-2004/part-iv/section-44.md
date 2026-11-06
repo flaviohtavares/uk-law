@@ -30,7 +30,7 @@ summary: ''
 - (a) produces to the dealer from whom he purchases it a document which—
   - (i) has been issued under provisions which, in the member State where he resides, correspond to the provisions of Article 22 for the issue of Article 7 authorities; and
   - (ii) contains the prior agreement to its purchase which is required by Article 7 of the European weapons directive;
-- (b) shows that he is purchasing it exclusively in connection with the carrying on of activities in respect of which he, or the person on whose behalf he is purchasing the firearm, is recognised, for the purposes of the law of a member State[^key-cc783445023c7539f4af0599ecf43416] relating to firearms, as a collector of firearms or a body concerned in the cultural or historical aspects of weapons; or
+- (b) shows that he is purchasing it exclusively in connection with the carrying on of activities in respect of which he, or the person on whose behalf he is purchasing the firearm, is recognised, for the purposes of the law of a member State[^c-cc783445023c7539f4af0599ecf43416] relating to firearms, as a collector of firearms or a body concerned in the cultural or historical aspects of weapons; or
 - (c) shows that he resides in the United Kingdom or outside the member States.
 
 (3) A firearms dealer who sells a firearm to a person who shows that he is entitled by virtue of paragraph (1) to purchase it without holding a certificate shall within 48 hours from the transaction send the Chief Constable notice of it.
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cc783445023c7539f4af0599ecf43416]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/2004/702) substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/3)
+[^c-cc783445023c7539f4af0599ecf43416]: Textual amendment: Words in [Order](https://www.legislation.gov.uk/nisi/2004/702) substituted (31.12.2020 immediately before IP completion day) by [The Law Enforcement and Security (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1371)](https://www.legislation.gov.uk/uksi/2020/1371), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1371/regulation/1), [5(3)](https://www.legislation.gov.uk/uksi/2020/1371/regulation/5/3)

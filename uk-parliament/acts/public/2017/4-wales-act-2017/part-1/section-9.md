@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 9. Super-majority requirement for certain legislation[^c22718111][^key-a8b0343e4b97fdfc3c2014e1e8e4f296]
+## 9. Super-majority requirement for certain legislation[^c22718111][^c-a8b0343e4b97fdfc3c2014e1e8e4f296]
 
 *Extent: E+W+S+N.I.*
 
@@ -62,4 +62,4 @@ In the Government of Wales Act 2006, after section 111 insert—
 
 [^c22718111]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/4/section/9) in force for specified purposes at 31.3.2017, see [s. 71(2)(c)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/2/c)
 
-[^key-a8b0343e4b97fdfc3c2014e1e8e4f296]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/4/section/9) in force at 1.4.2018 in so far as not already in force by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/c)
+[^c-a8b0343e4b97fdfc3c2014e1e8e4f296]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2017/4/section/9) in force at 1.4.2018 in so far as not already in force by [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/c)

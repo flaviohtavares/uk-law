@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Interpretation[^key-c5bc5e4823c16d7e21cc95fef53577fd]
+## 2. Interpretation[^c-c5bc5e4823c16d7e21cc95fef53577fd]
 
 *Extent: E+W*
 
@@ -182,7 +182,7 @@ summary: ''
 
 ## Annotations
 
-[^key-c5bc5e4823c16d7e21cc95fef53577fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2026/37/regulation/2) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
+[^c-c5bc5e4823c16d7e21cc95fef53577fd]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2026/37/regulation/2) in force at 11.3.2026, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2026/37/regulation/1/2)
 
 [^f00002]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
 

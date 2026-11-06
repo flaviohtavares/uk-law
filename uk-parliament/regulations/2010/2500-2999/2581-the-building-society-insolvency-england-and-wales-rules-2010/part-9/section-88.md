@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 88. Creditors’ meeting to be notified of the building society liquidator’s resignation[^key-44c1f1b07d026a04c4629b878c76b0e2]
+## 88. Creditors’ meeting to be notified of the building society liquidator’s resignation[^c-44c1f1b07d026a04c4629b878c76b0e2]
 
 *Extent: E+W*
 
@@ -40,7 +40,7 @@ summary: ''
 
 ## Annotations
 
-[^key-44c1f1b07d026a04c4629b878c76b0e2]: Commencement: Rule 88 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
+[^c-44c1f1b07d026a04c4629b878c76b0e2]: Commencement: Rule 88 in force at 15.11.2010, see [rule 1](https://www.legislation.gov.uk/uksi/2010/2581/rule/1)
 
 [^f00037]: Footnote: Paragraphs (6) and (7) were added by [S.I.1987/1919](https://www.legislation.gov.uk/uksi/1987/1919).
 

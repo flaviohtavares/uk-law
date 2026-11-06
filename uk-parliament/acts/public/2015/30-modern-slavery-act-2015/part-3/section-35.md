@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Enforcement powers in relation to ships: England and Wales[^key-1c78079554121c02c4808ffb3b7328e8]
+## 35. Enforcement powers in relation to ships: England and Wales[^c-1c78079554121c02c4808ffb3b7328e8]
 
 *Extent: E+W*
 
@@ -48,4 +48,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1c78079554121c02c4808ffb3b7328e8]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2015/30/section/35) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/a)
+[^c-1c78079554121c02c4808ffb3b7328e8]: Commencement: [S. 35](https://www.legislation.gov.uk/ukpga/2015/30/section/35) in force at 8.8.2016 by [S.I. 2016/740](https://www.legislation.gov.uk/uksi/2016/740), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/740/regulation/2/a)

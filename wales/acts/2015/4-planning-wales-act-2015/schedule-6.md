@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 6 — TOWN AND VILLAGE GREENS: NEW SCHEDULE 1B TO THE COMMONS ACT 2006[^c22544141][^key-27470cfe676d1a2e7f45144df953c1da]
+## SCHEDULE 6 — TOWN AND VILLAGE GREENS: NEW SCHEDULE 1B TO THE COMMONS ACT 2006[^c22544141][^c-27470cfe676d1a2e7f45144df953c1da]
 
 *Extent: E+W*
 
@@ -44,4 +44,4 @@ summary: ''
 
 [^c22544141]: Commencement: [Sch. 6](https://www.legislation.gov.uk/anaw/2015/4/schedule/6) partly in force; [Sch. 6](https://www.legislation.gov.uk/anaw/2015/4/schedule/6) in force for specified purposes at 6.9.2015, see [s. 58(2)(b)(4)(b)](https://www.legislation.gov.uk/anaw/2015/4/section/58/2/b/4/b)
 
-[^key-27470cfe676d1a2e7f45144df953c1da]: Commencement: [Sch. 6](https://www.legislation.gov.uk/anaw/2015/4/schedule/6) in force at 22.10.2018 in so far as not already in force by [S.I. 2018/1022](https://www.legislation.gov.uk/wsi/2018/1022), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/1022/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/1022/article/3))
+[^c-27470cfe676d1a2e7f45144df953c1da]: Commencement: [Sch. 6](https://www.legislation.gov.uk/anaw/2015/4/schedule/6) in force at 22.10.2018 in so far as not already in force by [S.I. 2018/1022](https://www.legislation.gov.uk/wsi/2018/1022), [art. 2(b)](https://www.legislation.gov.uk/wsi/2018/1022/article/2/b) (with [art. 3](https://www.legislation.gov.uk/wsi/2018/1022/article/3))

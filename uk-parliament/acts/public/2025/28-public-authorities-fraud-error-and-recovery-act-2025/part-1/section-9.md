@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 9. Incidents etc[^key-ceaf4dbe1c76e616cdf948823cf9d62c][^key-351353b4bb8da06a883dd44f87a22a6b]
+## 9. Incidents etc[^c-ceaf4dbe1c76e616cdf948823cf9d62c][^c-351353b4bb8da06a883dd44f87a22a6b]
 
 *Extent: E+W*
 
@@ -86,6 +86,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ceaf4dbe1c76e616cdf948823cf9d62c]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
+[^c-ceaf4dbe1c76e616cdf948823cf9d62c]: Commencement: S. 9 in force at Royal Assent for specified purposes, see [s. 109(2)(b)](https://www.legislation.gov.uk/ukpga/2025/28/section/109/2/b)
 
-[^key-351353b4bb8da06a883dd44f87a22a6b]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/28/section/9) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)
+[^c-351353b4bb8da06a883dd44f87a22a6b]: Commencement: [S. 9](https://www.legislation.gov.uk/ukpga/2025/28/section/9) in force at 1.4.2026 in so far as not already in force by [S.I. 2026/371](https://www.legislation.gov.uk/uksi/2026/371), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2026/371/regulation/2/a)

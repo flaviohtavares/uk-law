@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## SCHEDULE 1A — APPLICATION OF PART 2A TO PRE-COMMENCEMENT ENACTMENTS[^key-bb3333c0fc52522dd7e2fce7bfd2501b]
+## SCHEDULE 1A — APPLICATION OF PART 2A TO PRE-COMMENCEMENT ENACTMENTS[^c-bb3333c0fc52522dd7e2fce7bfd2501b]
 
 *Extent: E+W*
 
@@ -92,4 +92,4 @@ The Welsh Ministers may by regulations amend any enactment to reflect the effect
 
 ## Annotations
 
-[^key-bb3333c0fc52522dd7e2fce7bfd2501b]: Textual amendment: [Schs. 1A-1C](https://www.legislation.gov.uk/anaw/2019/4/schedule/1A) inserted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [ss. 1(3)](https://www.legislation.gov.uk/asc/2025/3/section/1/3), [9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/1)[(2)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/2))
+[^c-bb3333c0fc52522dd7e2fce7bfd2501b]: Textual amendment: [Schs. 1A-1C](https://www.legislation.gov.uk/anaw/2019/4/schedule/1A) inserted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [ss. 1(3)](https://www.legislation.gov.uk/asc/2025/3/section/1/3), [9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/1)[(2)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/2))

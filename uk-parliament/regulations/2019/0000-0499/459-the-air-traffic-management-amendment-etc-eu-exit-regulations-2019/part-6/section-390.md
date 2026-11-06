@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 390. The Air Navigation (Single European Sky) (Penalties) Order 2009[^key-e20b70097fbf86edd2594b735aeb7b1b]
+## 390. The Air Navigation (Single European Sky) (Penalties) Order 2009[^c-e20b70097fbf86edd2594b735aeb7b1b]
 
 *Extent: E+W+S+N.I.*
 
@@ -91,6 +91,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e20b70097fbf86edd2594b735aeb7b1b]: Commencement: Reg. 390 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
+[^c-e20b70097fbf86edd2594b735aeb7b1b]: Commencement: Reg. 390 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(2)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/2)
 
 [^c24460811]: Marginal citation: [S.I. 2009/1735](https://www.legislation.gov.uk/uksi/2009/1735), amended by [S.I. 2013/2874](https://www.legislation.gov.uk/uksi/2013/2874) and [S.I. 2018/1354](https://www.legislation.gov.uk/uksi/2018/1354).

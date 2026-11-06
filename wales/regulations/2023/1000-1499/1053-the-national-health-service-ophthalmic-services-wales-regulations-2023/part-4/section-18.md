@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Prescribed health schemes[^key-ac7a01f4ca6b10b05d559983bd96ee87]
+## 18. Prescribed health schemes[^c-ac7a01f4ca6b10b05d559983bd96ee87]
 
 *Extent: E+W*
 
@@ -29,7 +29,7 @@ The following are prescribed as health schemes for the purposes of section 107(7
 
 ## Annotations
 
-[^key-ac7a01f4ca6b10b05d559983bd96ee87]: Commencement: Reg. 18 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-ac7a01f4ca6b10b05d559983bd96ee87]: Commencement: Reg. 18 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
 
 [^f00023]: Footnote: [1984 c. 22](https://www.legislation.gov.uk/ukpga/1984/22).
 

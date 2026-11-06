@@ -160,7 +160,7 @@ These Regulations may be cited as the Occupational and Personal Pension Schemes 
 
 - (a) in paragraph (1)—
   - (i) at the beginning of sub-paragraph (a) insert “ on or ”;
-  - (ii)[^key-d6609447be96ba5baa3b385f0a55a830] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-d6609447be96ba5baa3b385f0a55a830] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) for sub-paragraph (c) substitute—
 
     > - (c) on or after an automatic re-enrolment date for that employer.
@@ -262,7 +262,7 @@ Regulation 5 makes a consequential revocation.
 
 [^c22844271]: Marginal citation: S.R. [2010 No. 186](https://www.legislation.gov.uk/ukcm/2010/186); relevant amending Regulations are S.R. [2012 No. 232](https://www.legislation.gov.uk/ukcm/2012/232)
 
-[^key-d6609447be96ba5baa3b385f0a55a830]: Textual amendment: [Reg. 4(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/142/regulation/4/2/a/ii) revoked (1.10.2017) by [The Employers Duties (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/181)](https://www.legislation.gov.uk/nisr/2017/181), [regs. 1](https://www.legislation.gov.uk/nisr/2017/181/regulation/1), [4](https://www.legislation.gov.uk/nisr/2017/181/regulation/4)
+[^c-d6609447be96ba5baa3b385f0a55a830]: Textual amendment: [Reg. 4(2)(a)(ii)](https://www.legislation.gov.uk/nisr/2016/142/regulation/4/2/a/ii) revoked (1.10.2017) by [The Employers Duties (Miscellaneous Amendments) Regulations (Northern Ireland) 2017 (S.R. 2017/181)](https://www.legislation.gov.uk/nisr/2017/181), [regs. 1](https://www.legislation.gov.uk/nisr/2017/181/regulation/1), [4](https://www.legislation.gov.uk/nisr/2017/181/regulation/4)
 
 [^c22844281]: Marginal citation: Section 6(1)(b) was amended by section 8 of the Pensions Act (Northern Ireland) 2012
 

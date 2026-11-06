@@ -32,7 +32,7 @@ summary: ''
 
 FINANCIAL SERVICES
 
-The Money Laundering Regulations 2007 (revoked)[^key-ff870561612d1b963da10d538b4f7e9e]
+The Money Laundering Regulations 2007 (revoked)[^c-ff870561612d1b963da10d538b4f7e9e]
 
 Made
 
@@ -46,11 +46,11 @@ Coming into force
 
 15th December 2007
 
-[^key-ff870561612d1b963da10d538b4f7e9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff870561612d1b963da10d538b4f7e9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — GENERAL[^key-ff870561612d1b963da10d538b4f7e9e]
+### PART 1 — GENERAL[^c-ff870561612d1b963da10d538b4f7e9e]
 
 **No longer in force.**
 
@@ -59,7 +59,7 @@ Coming into force
 - [Section 3 — Application of the Regulations](part-1/section-3.md)
 - [Section 4 — Exclusions](part-1/section-4.md)
 
-### PART 2 — CUSTOMER DUE DILIGENCE[^key-ff870561612d1b963da10d538b4f7e9e]
+### PART 2 — CUSTOMER DUE DILIGENCE[^c-ff870561612d1b963da10d538b4f7e9e]
 
 **No longer in force.**
 
@@ -78,7 +78,7 @@ Coming into force
 - [Section 17 — Reliance](part-2/section-17.md)
 - [Section 18 — Directions where Financial Action Task Force applies counter-measures](part-2/section-18.md)
 
-### PART 3 — RECORD-KEEPING, PROCEDURES AND TRAINING[^key-ff870561612d1b963da10d538b4f7e9e]
+### PART 3 — RECORD-KEEPING, PROCEDURES AND TRAINING[^c-ff870561612d1b963da10d538b4f7e9e]
 
 **No longer in force.**
 
@@ -86,17 +86,17 @@ Coming into force
 - [Section 20 — Policies and procedures](part-3/section-20.md)
 - [Section 21 — Training](part-3/section-21.md)
 
-### PART 4 — SUPERVISION AND REGISTRATION[^key-ff870561612d1b963da10d538b4f7e9e]
+### PART 4 — SUPERVISION AND REGISTRATION[^c-ff870561612d1b963da10d538b4f7e9e]
 
 **No longer in force.**
 
-#### Interpretation[^key-ff870561612d1b963da10d538b4f7e9e]
+#### Interpretation[^c-ff870561612d1b963da10d538b4f7e9e]
 
 **No longer in force.**
 
 - [Section 22 — Interpretation](part-4/section-22.md)
 
-#### Supervision[^key-ff870561612d1b963da10d538b4f7e9e]
+#### Supervision[^c-ff870561612d1b963da10d538b4f7e9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -106,7 +106,7 @@ Coming into force
 - [Section 24 — Duties of supervisory authorities](part-4/section-24.md)
 - [Section 24A — Disclosure by supervisory authorities](part-4/section-24a.md)
 
-#### Registration of high value dealers, money service businesses and trust or company service providers[^key-ff870561612d1b963da10d538b4f7e9e]
+#### Registration of high value dealers, money service businesses and trust or company service providers[^c-ff870561612d1b963da10d538b4f7e9e]
 
 **No longer in force.**
 
@@ -117,13 +117,13 @@ Coming into force
 - [Section 29 — Determination of applications under regulation 27](part-4/section-29.md)
 - [Section 30 — Cancellation of registration in a register maintained under regulation 25](part-4/section-30.md)
 
-#### Requirement to inform the Authority[^key-ff870561612d1b963da10d538b4f7e9e]
+#### Requirement to inform the Authority[^c-ff870561612d1b963da10d538b4f7e9e]
 
 **No longer in force.**
 
 - [Section 31 — Requirement on authorised person to inform the Authority](part-4/section-31.md)
 
-#### Registration of Annex I financial institutions, estate agents etc.[^key-ff870561612d1b963da10d538b4f7e9e]
+#### Registration of Annex I financial institutions, estate agents etc.[^c-ff870561612d1b963da10d538b4f7e9e]
 
 **No longer in force.**
 
@@ -131,17 +131,17 @@ Coming into force
 - [Section 33 — Requirement to be registered](part-4/section-33.md)
 - [Section 34 — Applications for and cancellation of registration in a register maintained under regulation 32](part-4/section-34.md)
 
-#### Financial provisions[^key-ff870561612d1b963da10d538b4f7e9e]
+#### Financial provisions[^c-ff870561612d1b963da10d538b4f7e9e]
 
 **No longer in force.**
 
 - [Section 35 — Costs of supervision](part-4/section-35.md)
 
-### PART 5 — ENFORCEMENT[^key-ff870561612d1b963da10d538b4f7e9e]
+### PART 5 — ENFORCEMENT[^c-ff870561612d1b963da10d538b4f7e9e]
 
 **No longer in force.**
 
-#### Powers of designated authorities[^key-ff870561612d1b963da10d538b4f7e9e]
+#### Powers of designated authorities[^c-ff870561612d1b963da10d538b4f7e9e]
 
 **No longer in force.**
 
@@ -152,7 +152,7 @@ Coming into force
 - [Section 40 — Failure to comply with information requirement](part-5/section-40.md)
 - [Section 41 — Powers of relevant officers](part-5/section-41.md)
 
-#### Civil penalties, review and appeals[^key-ff870561612d1b963da10d538b4f7e9e]
+#### Civil penalties, review and appeals[^c-ff870561612d1b963da10d538b4f7e9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -168,7 +168,7 @@ Coming into force
 - [Section 43F — Bringing of appeals against decisions of the Commissioners](part-5/section-43f.md)
 - [Section 44 — Appeals](part-5/section-44.md)
 
-#### Criminal offences[^key-ff870561612d1b963da10d538b4f7e9e]
+#### Criminal offences[^c-ff870561612d1b963da10d538b4f7e9e]
 
 **No longer in force.**
 
@@ -176,7 +176,7 @@ Coming into force
 - [Section 46 — Prosecution of offences](part-5/section-46.md)
 - [Section 47 — Offences by bodies corporate etc.](part-5/section-47.md)
 
-### PART 6 — MISCELLANEOUS[^key-ff870561612d1b963da10d538b4f7e9e]
+### PART 6 — MISCELLANEOUS[^c-ff870561612d1b963da10d538b4f7e9e]
 
 *Extent: E+W+S+N.I.*
 
@@ -199,14 +199,14 @@ Coming into force
 
 **No longer in force.**
 
-[^key-ff870561612d1b963da10d538b4f7e9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff870561612d1b963da10d538b4f7e9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W+S+N.I.*
 
 **May not be in force at this date. Check the source.**
 
-[^key-ff870561612d1b963da10d538b4f7e9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ff870561612d1b963da10d538b4f7e9e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ff870561612d1b963da10d538b4f7e9e]: Textual amendment: Regulations revoked (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), regs. 1(2), [110](https://www.legislation.gov.uk/uksi/2017/692/regulation/110) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))
+[^c-ff870561612d1b963da10d538b4f7e9e]: Textual amendment: Regulations revoked (26.6.2017) by [The Money Laundering, Terrorist Financing and Transfer of Funds (Information on the Payer) Regulations 2017 (S.I. 2017/692)](https://www.legislation.gov.uk/uksi/2017/692), regs. 1(2), [110](https://www.legislation.gov.uk/uksi/2017/692/regulation/110) (with [regs. 8](https://www.legislation.gov.uk/uksi/2017/692/regulation/8), [15](https://www.legislation.gov.uk/uksi/2017/692/regulation/15))

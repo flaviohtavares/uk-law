@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Payment of pensions under this Part[^key-eb16816ee5b5cf6962b1bb8993a14483]
+## 90. Payment of pensions under this Part[^c-eb16816ee5b5cf6962b1bb8993a14483]
 
 *Extent: E+W+S+N.I.*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-eb16816ee5b5cf6962b1bb8993a14483]: Commencement: Reg. 90 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-eb16816ee5b5cf6962b1bb8993a14483]: Commencement: Reg. 90 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

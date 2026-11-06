@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## SCHEDULE 21 — Property not being transferred[^key-c66176711b20efa5d9b722460b7eb8c4]
+## SCHEDULE 21 — Property not being transferred[^c-c66176711b20efa5d9b722460b7eb8c4]
 
 *Extent: E+W+S+N.I.*
 
 Article 18(5)
 
-[^key-c66176711b20efa5d9b722460b7eb8c4]
+[^c-c66176711b20efa5d9b722460b7eb8c4]
 
 - St. Annes House, 15 Church Street, Belfast, BT1 1ER
 - 5<sup>th </sup>Floor, Windsor House, Bedford Street, Belfast, BT2 7SR
@@ -41,4 +41,4 @@ Article 18(5)
 
 ## Annotations
 
-[^key-c66176711b20efa5d9b722460b7eb8c4]: Commencement: Sch. 21 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-c66176711b20efa5d9b722460b7eb8c4]: Commencement: Sch. 21 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

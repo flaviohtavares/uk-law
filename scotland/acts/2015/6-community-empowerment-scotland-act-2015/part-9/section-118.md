@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 118. Disposal etc. of allotment sites leased by local authority[^key-ab7112bc42688903d74df0cc7c0e10af]
+## 118. Disposal etc. of allotment sites leased by local authority[^c-ab7112bc42688903d74df0cc7c0e10af]
 
 *Extent: S*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ab7112bc42688903d74df0cc7c0e10af]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2015/6/section/118) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 17](https://www.legislation.gov.uk/ssi/2017/458/article/17))
+[^c-ab7112bc42688903d74df0cc7c0e10af]: Commencement: [S. 118](https://www.legislation.gov.uk/asp/2015/6/section/118) in force at 1.4.2018 by [S.S.I. 2017/458](https://www.legislation.gov.uk/ssi/2017/458), [art. 2](https://www.legislation.gov.uk/ssi/2017/458/article/2), [sch.](https://www.legislation.gov.uk/ssi/2017/458/schedule) (with [art. 17](https://www.legislation.gov.uk/ssi/2017/458/article/17))

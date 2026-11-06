@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 40A. Biogas produced from feedstock derived from fossil fuel[^key-e2a17f2d2d782cf34a9c9879b935467d]
+## 40A. Biogas produced from feedstock derived from fossil fuel[^c-e2a17f2d2d782cf34a9c9879b935467d]
 
 *Extent: E+W+S*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2a17f2d2d782cf34a9c9879b935467d]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2018/611/regulation/40A) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [17](https://www.legislation.gov.uk/uksi/2021/76/regulation/17)
+[^c-e2a17f2d2d782cf34a9c9879b935467d]: Textual amendment: [Reg. 40A](https://www.legislation.gov.uk/uksi/2018/611/regulation/40A) inserted (1.4.2021) by [The Domestic Renewable Heat Incentive Scheme and Renewable Heat Incentive Scheme (Amendment) Regulations 2021 (S.I. 2021/76)](https://www.legislation.gov.uk/uksi/2021/76), [regs. 1(4)(b)](https://www.legislation.gov.uk/uksi/2021/76/regulation/1/4/b), [17](https://www.legislation.gov.uk/uksi/2021/76/regulation/17)

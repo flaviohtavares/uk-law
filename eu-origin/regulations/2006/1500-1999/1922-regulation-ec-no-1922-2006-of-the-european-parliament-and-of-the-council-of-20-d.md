@@ -34,106 +34,106 @@ of 20 December 2006
 
 on establishing a European Institute for Gender Equality (revoked)
 
-[^key-2d8b4744f4e22df912383aa46d8748c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-2d8b4744f4e22df912383aa46d8748c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Establishment of the Institute[^key-2d8b4744f4e22df912383aa46d8748c6]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Objectives[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 1. Establishment of the Institute[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Tasks[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 2. Objectives[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Areas of activity and working methods[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 3. Tasks[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Legal personality and capacity[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 4. Areas of activity and working methods[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 6. Independence of the Institute[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 5. Legal personality and capacity[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 7. Access to documents[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 6. Independence of the Institute[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 8. Cooperation with organisations at national and European level, international organisations and third countries[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 7. Access to documents[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 9. Composition of the Institute[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 8. Cooperation with organisations at national and European level, international organisations and third countries[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 10. Management Board[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 9. Composition of the Institute[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 11. Experts' Forum[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 10. Management Board[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 12. Director[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 11. Experts' Forum[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 13. Staff[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 12. Director[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 14. Drawing up of the budget[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 13. Staff[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 15. Implementation of the budget[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 14. Drawing up of the budget[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 16. Languages[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 15. Implementation of the budget[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 17. Privileges and immunities[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 16. Languages[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 18. Liability[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 17. Privileges and immunities[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 19. Participation of third countries[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 18. Liability[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 20. Evaluation[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 19. Participation of third countries[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 21. Review clause[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 20. Evaluation[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 22. Administrative control[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 21. Review clause[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 23. Start of the Institute's activities[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 22. Administrative control[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 24. Entry into force[^key-2d8b4744f4e22df912383aa46d8748c6]
+## Article 23. Start of the Institute's activities[^c-2d8b4744f4e22df912383aa46d8748c6]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-2d8b4744f4e22df912383aa46d8748c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+## Article 24. Entry into force[^c-2d8b4744f4e22df912383aa46d8748c6]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-2d8b4744f4e22df912383aa46d8748c6]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-2d8b4744f4e22df912383aa46d8748c6]: Textual amendment: Regulation revoked (31.12.2020) by [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/305/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-2d8b4744f4e22df912383aa46d8748c6]: Textual amendment: Regulation revoked (31.12.2020) by [The Equality (Amendment and Revocation) (EU Exit) Regulations 2019 (S.I. 2019/305)](https://www.legislation.gov.uk/uksi/2019/305), [regs. 1](https://www.legislation.gov.uk/uksi/2019/305/regulation/1), [8](https://www.legislation.gov.uk/uksi/2019/305/regulation/8); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

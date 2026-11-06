@@ -43,8 +43,8 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (1) The purpose of section 2 is to enable provision to be made for or in connection with—
 
-- (a)[^key-41540f2ee9c8e31ba2e88e90bb8d63d0] [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075) of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control);
-- (b) regulating , otherwise than in pursuance of that Directive, *(Extent: S)* *(affected by repeal, see note)*[^key-facbd463ceb1318ba6f7448aecc3f19e] activities which are capable of causing any environmental pollution;
+- (a)[^c-41540f2ee9c8e31ba2e88e90bb8d63d0] [Directive 2010/75/EU](https://www.legislation.gov.uk/european/directive/2010/0075) of the European Parliament and of the Council on industrial emissions (integrated pollution prevention and control);
+- (b) regulating , otherwise than in pursuance of that Directive, *(Extent: S)* *(affected by repeal, see note)*[^c-facbd463ceb1318ba6f7448aecc3f19e] activities which are capable of causing any environmental pollution;
 - (c) otherwise preventing or controlling emissions capable of causing any such pollution.
 
 (2) In this Act—
@@ -67,9 +67,9 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
   - (iii) other impairment of, or interference with, the ecological systems of which any living organisms form part;
 - (c) offence to the senses of human beings;
 - (d) damage to property; or
-- (e) impairment of, or interference with, amenities or other legitimate uses of the environment (expressions used in this paragraph having the same meaning as in Directive 2010/75/EU[^key-8b4567be0a74670bc1d2a9adb6f51239]).
+- (e) impairment of, or interference with, amenities or other legitimate uses of the environment (expressions used in this paragraph having the same meaning as in Directive 2010/75/EU[^c-8b4567be0a74670bc1d2a9adb6f51239]).
 
-## 2. Regulation of polluting activities.[^key-a7c3db4f9d967de369ccbf7eae7d5f0c][^key-ad301629dc39605bb531bfa7599ff694][^key-f209cf2d597a39c8e82e1b333120cc1e][^key-d90c55468b154ae45837465306d35405]
+## 2. Regulation of polluting activities.[^c-a7c3db4f9d967de369ccbf7eae7d5f0c][^c-ad301629dc39605bb531bfa7599ff694][^c-f209cf2d597a39c8e82e1b333120cc1e][^c-d90c55468b154ae45837465306d35405]
 
 *Extent: E+W+S*
 
@@ -84,8 +84,8 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) Before making any regulations under this section, the Secretary of State shall consult—
 
-- (a) the Environment Agency if the regulations are to apply in relation to England [^key-e963526e3291717b40b0e624904f0e21]...;
-- (aa)[^key-4dc88c892c0f15122053add0a3228376] the Natural Resources Body for Wales if the regulations are to apply in relation to Wales;
+- (a) the Environment Agency if the regulations are to apply in relation to England [^c-e963526e3291717b40b0e624904f0e21]...;
+- (aa)[^c-4dc88c892c0f15122053add0a3228376] the Natural Resources Body for Wales if the regulations are to apply in relation to Wales;
 - (b) the Scottish Environment Protection Agency if the regulations are to apply in relation to Scotland;
 - (c) such bodies or persons appearing to him to be representative of the interests of local government, industry, agriculture and small businesses respectively as he may consider appropriate; and
 - (d) such other bodies or persons as he may consider appropriate.
@@ -106,7 +106,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 - (d) regulations under this section which create an offence or increase a penalty for an existing offence;
 - (e) regulations under this section which amend or repeal any provision of an Act.
 
-(10)[^key-ddb288ba8a9aa04dc4a753851b35c587] See section 62 of the Water Act 2014 for further provision about the procedure applying to statutory instruments containing both regulations made under this section and regulations made under section 61 of that Act.
+(10)[^c-ddb288ba8a9aa04dc4a753851b35c587] See section 62 of the Water Act 2014 for further provision about the procedure applying to statutory instruments containing both regulations made under this section and regulations made under section 61 of that Act.
 
 ## 3. Prevention etc. of pollution after accidents involving offshore installations.
 
@@ -129,7 +129,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (4) Before making any regulations under this section, the Secretary of State shall consult—
 
-- (a) the Environment Agency, the Natural Resources Body for Wales[^key-a0ff134e983d5b16fbc9a25bf86912a3], the Scottish Environment Protection Agency and the Department of the Environment for Northern Ireland;
+- (a) the Environment Agency, the Natural Resources Body for Wales[^c-a0ff134e983d5b16fbc9a25bf86912a3], the Scottish Environment Protection Agency and the Department of the Environment for Northern Ireland;
 - (b) such bodies or persons appearing to him to be representative of the interests of owners or operators of offshore installations as he may consider appropriate; and
 - (c) such other bodies or persons as he may consider appropriate.
 
@@ -137,7 +137,7 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (6) No regulations shall be made under this section (whether alone or with other regulations) unless a draft of the statutory instrument containing the regulations has been laid before, and approved by a resolution of, each House of Parliament.
 
-## 4. Time-limited disposal or waste management licences.[^key-fe75f60490285181b2b1aa9680e688b3]
+## 4. Time-limited disposal or waste management licences.[^c-fe75f60490285181b2b1aa9680e688b3]
 
 *Extent: E+W+S*
 
@@ -157,13 +157,13 @@ Be it enacted by the Queen’s most Excellent Majesty, by and with the advice an
 
 (3) For the purposes of the [^c879334]Scotland Act 1998, this Act shall be taken to be a pre-commencement enactment within the meaning of that Act.
 
-## 6. Consequential and minor amendments and repeals.[^key-90863303ad3840e5161e76008668b20e][^c879335]
+## 6. Consequential and minor amendments and repeals.[^c-90863303ad3840e5161e76008668b20e][^c879335]
 
 *Extent: E+W+S*
 
-(1)[^key-c7a4b979841c71ed44afd2740d7829c3] The consequential and minor amendments specified in Schedule 2 shall have effect.
+(1)[^c-c7a4b979841c71ed44afd2740d7829c3] The consequential and minor amendments specified in Schedule 2 shall have effect.
 
-(2)[^key-52152b1462fc98ee3221bbb9c7b293b8][^key-3569cc63d27780a5271120465038b476] The enactments specified in Schedule 3 are repealed to the extent specified.
+(2)[^c-52152b1462fc98ee3221bbb9c7b293b8][^c-3569cc63d27780a5271120465038b476] The enactments specified in Schedule 3 are repealed to the extent specified.
 
 ## 7. Short title, interpretation, commencement and extent.
 
@@ -228,19 +228,19 @@ are to be exercisable (in this Schedule referred to as “regulators”).
 **3.** Enabling the Secretary of State to give directions which regulators are to comply with, or guidance which regulators are to have regard to, in exercising functions under the regulations, including—
 
 - (a) directions providing for any functions exercisable by one regulator to be instead exercisable by another;
-- (b)[^key-219d12ce0fbcb2ac59fb2a3f431cb224] directions given for the purposes of the implementation of—
-  - (i) any assimilated[^key-de6e26eadfcb5b382d7b3a82426b7b76] obligations, or
+- (b)[^c-219d12ce0fbcb2ac59fb2a3f431cb224] directions given for the purposes of the implementation of—
+  - (i) any assimilated[^c-de6e26eadfcb5b382d7b3a82426b7b76] obligations, or
   - (ii) any obligations under an international agreement to which the United Kingdom is a party;
 - (c) directions relating to the exercise of any function in a particular case or class of case.
 
 #### Permits
 
-**4.** (1)[^key-0dc16f2a1da3a4fa52e315f2cd1f9989] Prohibiting persons from operating any installation or plant of any specified description, or otherwise carrying on any activities of any specified description, except—
+**4.** (1)[^c-0dc16f2a1da3a4fa52e315f2cd1f9989] Prohibiting persons from operating any installation or plant of any specified description, or otherwise carrying on any activities of any specified description, except—
 
 - (a) under a permit in force under the regulations, and
 - (b) in accordance with any conditions to which the permit is subject.
 
-(2)[^key-9c961cc3d3a634435483ea0e472d87ec] In relation to England and Wales, imposing such a prohibition in relation to an activity except where the carrying on of the activity meets conditions determined by the regulators in accordance with the regulations.
+(2)[^c-9c961cc3d3a634435483ea0e472d87ec] In relation to England and Wales, imposing such a prohibition in relation to an activity except where the carrying on of the activity meets conditions determined by the regulators in accordance with the regulations.
 
 **5.** Specifying restrictions or other requirements in connection with the grant of permits (including provisions for restricting the grant of permits to those who are fit and proper persons within the meaning of the regulations); and otherwise regulating the procedure to be followed in connection with the grant of permits.
 
@@ -276,11 +276,11 @@ are to be exercisable (in this Schedule referred to as “regulators”).
 
 or in respect of the subsistence of a permit.
 
-**9A.**[^key-a27ccf8923029f1d88f267f34d1ee637] (1)[^key-df8cce5266e0b1a2a08896b66e17f5f4] Authorising the Secretary of State to make schemes for the charging by regulators of charges, as respects functions in relation to offshore installations, corresponding to those that may be prescribed under section 41A of the Environment Act 1995.
+**9A.**[^c-a27ccf8923029f1d88f267f34d1ee637] (1)[^c-df8cce5266e0b1a2a08896b66e17f5f4] Authorising the Secretary of State to make schemes for the charging by regulators of charges, as respects functions in relation to offshore installations, corresponding to those that may be prescribed under section 41A of the Environment Act 1995.
 
 (2) Subsections (2) to (5) of section 41A of that Act apply in relation to the Secretary of State and a charging scheme made by virtue of this paragraph as they apply in relation to the Scottish Environment Protection Agency and a charging scheme made by that Agency under the 1995 Act.
 
-(3) In this paragraph “offshore installation” has”[^key-7298d94e89548d622edf14fc0204e482] the same meaning as in the Greenhouse Gas Emissions Trading Scheme Regulations 2005.
+(3) In this paragraph “offshore installation” has”[^c-7298d94e89548d622edf14fc0204e482] the same meaning as in the Greenhouse Gas Emissions Trading Scheme Regulations 2005.
 
 **10.** Authorising, or authorising a Minister of the Crown to make schemes for, the charging by Ministers of the Crown or public or local authorities of fees or other charges in respect of—
 
@@ -346,17 +346,17 @@ in cases where the testing, analysis, validating or assessing is in any way in a
 **20.** (1) Making provision which, subject to any modifications that the Secretary of State considers appropriate, corresponds or is similar to—
 
 - (a) any provision made by or under, or capable of being made under, Part I or II of the [^c879342]Environmental Protection Act 1990 or made by any of sections 157, 158 and 160 of that Act; or
-- (b)[^key-d45e31b65203d300a1a1d62c489bf34b] any provision (not being provision within any of paragraphs 1 to 19 or paragraph (a) above) that might be made by an Act of Parliament in connection with the relevant directives, other than provision—
+- (b)[^c-d45e31b65203d300a1a1d62c489bf34b] any provision (not being provision within any of paragraphs 1 to 19 or paragraph (a) above) that might be made by an Act of Parliament in connection with the relevant directives, other than provision—
   - (i) imposing or increasing taxation;
   - (ii) taking effect from a date earlier than that of the making of the instrument containing the provision;
   - (iii) conferring any power to legislate by means of orders, rules, regulations or other subordinate instrument, other than rules of procedure for any court or tribunal.
 
 (2) In sub-paragraph (1) “**the relevant directives**” means—
 
-- (a)[^key-abe2830f2e3ffeaa9b805e11bffc0418] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (b)[^key-abe2830f2e3ffeaa9b805e11bffc0418] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-021d52b05d18f08abdff38bad956da41][^key-abef1762f2a3cab8be954ddf2da78780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-2c4668054bacbc26cff60966108e121f] Council [Directive 87/217/EEC](https://www.legislation.gov.uk/eudr/1987/0217) on the prevention and reduction of environmental pollution by asbestos;
+- (a)[^c-abe2830f2e3ffeaa9b805e11bffc0418] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-abe2830f2e3ffeaa9b805e11bffc0418] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-021d52b05d18f08abdff38bad956da41][^c-abef1762f2a3cab8be954ddf2da78780] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-2c4668054bacbc26cff60966108e121f] Council [Directive 87/217/EEC](https://www.legislation.gov.uk/eudr/1987/0217) on the prevention and reduction of environmental pollution by asbestos;
 - (e) Council [Directive 91/271/EEC](https://www.legislation.gov.uk/eudr/1991/0271) concerning urban waste water treatment;
 - (f) Council [Directive 91/676/EEC](https://www.legislation.gov.uk/eudr/1991/0676) concerning the protection of waters against pollution caused by nitrates from agricultural sources;
 - (g) European Parliament and Council [Directive 94/62/EC](https://www.legislation.gov.uk/eudr/1994/0062) on packaging and packaging waste;
@@ -389,7 +389,7 @@ in cases where the testing, analysis, validating or assessing is in any way in a
 - (hh) Directive (EU) 2016/2284 of the European Parliament and of the Council on the reduction of national emissions of certain atmospheric pollutants; and
 - (ii) Directive (EU) 2019/904 of the European Parliament and of the Council on the reduction of the impact of certain plastic products on the environment.
 
-(2A)[^key-d4355f80b68e652b183130cff80aeadc] In sub-paragraph (1)(b)(iii), the reference to provision conferring any power to legislate does not include provision—
+(2A)[^c-d4355f80b68e652b183130cff80aeadc] In sub-paragraph (1)(b)(iii), the reference to provision conferring any power to legislate does not include provision—
 
 - (a) amending or extending a power to legislate conferred other than under this paragraph;
 - (b) giving directions as to matters of administration.
@@ -402,7 +402,7 @@ in cases where the testing, analysis, validating or assessing is in any way in a
 
 **21.** The regulations may provide for specified provisions of the regulations to have effect in relation only to such environmental pollution as is specified.
 
-#### Emissions quota trading schemes: penalties[^key-078f37b598a4b4146daf79f58120fe5b]
+#### Emissions quota trading schemes: penalties[^c-078f37b598a4b4146daf79f58120fe5b]
 
 **21A.** (1) The regulations may authorise the inclusion in a trading scheme of—
 
@@ -428,7 +428,7 @@ in cases where the testing, analysis, validating or assessing is in any way in a
 
 **24.** The regulations may—
 
-- (a) require any such scheme as is mentioned in paragraph 9, 9A[^key-b0cb11ec7f973429aeedb1d149294e09] or 10 to be so framed that the fees and charges payable under the scheme are sufficient, taking one year with another, to cover such expenditure (whether or not incurred by the regulator or other person to whom they are so payable) as is specified;
+- (a) require any such scheme as is mentioned in paragraph 9, 9A[^c-b0cb11ec7f973429aeedb1d149294e09] or 10 to be so framed that the fees and charges payable under the scheme are sufficient, taking one year with another, to cover such expenditure (whether or not incurred by the regulator or other person to whom they are so payable) as is specified;
 - (b) authorise any such scheme to make different provision for different cases (and specify particular kinds of such cases).
 
 #### Offences
@@ -441,8 +441,8 @@ in cases where the testing, analysis, validating or assessing is in any way in a
 (2) The regulations may provide for such an offence to be punishable—
 
 - (a) on summary conviction by—
-  - (i) imprisonment for a term not exceeding such period as is specified (which may not exceed six months *(Extent: E+W)* *(affected by repeal, see note)*[^key-0d483cbff90be832273ee79ee6bee5c4]12 months *(Extent: E+W)* *(affected by repeal, see note)*[^key-cdd017fe7ee445b0ae2345281cca4003] *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-0d483cbff90be832273ee79ee6bee5c4] the general limit in a magistrates’ court *(Extent: E+W)* *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-0d483cbff90be832273ee79ee6bee5c4]), or
-  - (ii) a fine not exceeding such amount as is specified (which may not exceed *(Extent: E+W)* *(affected by repeal, see note)*[^key-bc57cb2f8130ff619bc3d1b23fcb2679] £20,000 *(Extent: E+W)* *(affected by repeal, see note)*[^key-fe45296010aa6c3ed2dded507e5c4347] *(Extent: E+W)* *(affected by repeal, see note)*[^key-bc57cb2f8130ff619bc3d1b23fcb2679]£50,000 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^key-fe45296010aa6c3ed2dded507e5c4347] *(Extent: E+W)* *(affected by repeal, see note)*[^key-bc57cb2f8130ff619bc3d1b23fcb2679]£40,000 *(Extent: S)*[^M_F_e81a5d34-e887-4c52-e967-173a6b0cf2af] *(Extent: E+W)* *(affected by repeal, see note)*[^key-fe45296010aa6c3ed2dded507e5c4347] *(Extent: E+W)* *(affected by repeal, see note)*[^key-bc57cb2f8130ff619bc3d1b23fcb2679]), *(Extent: E+W)* *(affected by repeal, see note)*[^key-bc57cb2f8130ff619bc3d1b23fcb2679]
+  - (i) imprisonment for a term not exceeding such period as is specified (which may not exceed six months *(Extent: E+W)* *(affected by repeal, see note)*[^c-0d483cbff90be832273ee79ee6bee5c4]12 months *(Extent: E+W)* *(affected by repeal, see note)*[^c-cdd017fe7ee445b0ae2345281cca4003] *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-0d483cbff90be832273ee79ee6bee5c4] the general limit in a magistrates’ court *(Extent: E+W)* *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-0d483cbff90be832273ee79ee6bee5c4]), or
+  - (ii) a fine not exceeding such amount as is specified (which may not exceed *(Extent: E+W)* *(affected by repeal, see note)*[^c-bc57cb2f8130ff619bc3d1b23fcb2679] £20,000 *(Extent: E+W)* *(affected by repeal, see note)*[^c-fe45296010aa6c3ed2dded507e5c4347] *(Extent: E+W)* *(affected by repeal, see note)*[^c-bc57cb2f8130ff619bc3d1b23fcb2679]£50,000 *(Extent: E+W)* *(Extent: E+W)* *(affected by repeal, see note)*[^c-fe45296010aa6c3ed2dded507e5c4347] *(Extent: E+W)* *(affected by repeal, see note)*[^c-bc57cb2f8130ff619bc3d1b23fcb2679]£40,000 *(Extent: S)*[^M_F_e81a5d34-e887-4c52-e967-173a6b0cf2af] *(Extent: E+W)* *(affected by repeal, see note)*[^c-fe45296010aa6c3ed2dded507e5c4347] *(Extent: E+W)* *(affected by repeal, see note)*[^c-bc57cb2f8130ff619bc3d1b23fcb2679]), *(Extent: E+W)* *(affected by repeal, see note)*[^c-bc57cb2f8130ff619bc3d1b23fcb2679]
 
     a fine, the amount of which may be limited by the regulations, *(Extent: E+W)*
 
@@ -484,7 +484,7 @@ Section 6.
 
 **4.**[^c879347] In section 8(7) (expenditure to be covered by charging schemes under the section is that of local enforcing authorities in exercising their functions under Part I of the Act), at the end insert “ together with the expenditure incurred by the Environment Agency in exercising, in relation to authorisations granted by local enforcing authorities or the prescribed processes to which such authorisations relate, such of its functions as are specified in the scheme. ”
 
-**5.**[^key-4fdb0e564ab774fd630bdaad71c5272d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-4fdb0e564ab774fd630bdaad71c5272d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.**[^c879350] In section 79(10) (restrictions on taking proceedings for statutory nuisance where proceedings possible under Part I of the Act), after “Part I” insert “ or under regulations under section 2 of the Pollution Prevention and Control Act 1999. ”
 
@@ -514,7 +514,7 @@ Section 6.
 
 ### Merchant Shipping Act 1995 (c.21)
 
-**13.**[^c879358][^key-dcdc36d66316ced24cecfc9b4e6bc4a8] After section 136 of the Merchant Shipping Act 1995 (oil pollution) insert—
+**13.**[^c879358][^c-dcdc36d66316ced24cecfc9b4e6bc4a8] After section 136 of the Merchant Shipping Act 1995 (oil pollution) insert—
 
 > **136A. Discharges etc. authorised under other enactments.**
 >
@@ -524,7 +524,7 @@ Section 6.
 
 **14.**[^c879360] The Environment Act 1995 has effect subject to the following amendments.
 
-**15.**[^c879361][^key-5af194b86150281ad6c8181a7a6a6db9] In section 5(5) (pollution control powers and functions), after paragraph (h) insert—
+**15.**[^c879361][^c-5af194b86150281ad6c8181a7a6a6db9] In section 5(5) (pollution control powers and functions), after paragraph (h) insert—
 
 > - (i) regulations under section 2 of the Pollution Prevention and Control Act 1999;
 
@@ -554,7 +554,7 @@ Section 6.
 
 ### Finance Act 1996 (c.8)
 
-**19.**[^key-b4b81b38e5f2c1e37c2f6928599a1dbd][^c879365] In section 66 of the Finance Act 1996 (landfill tax: definition of landfill site), after paragraph (b) insert—
+**19.**[^c-b4b81b38e5f2c1e37c2f6928599a1dbd][^c879365] In section 66 of the Finance Act 1996 (landfill tax: definition of landfill site), after paragraph (b) insert—
 
 > - (ba) a permit under regulations under section 2 of the Pollution Prevention and Control Act 1999 is in force in relation to the land and authorises deposits or disposals in or on the land,
 
@@ -562,15 +562,15 @@ Section 6.
 
 ### Government of Wales Act 1998 (c.38)
 
-**20.**[^key-c056f3304bac7180d72b8651f255be07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-c056f3304bac7180d72b8651f255be07] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 3 — Repeals[^c879367][^key-831054ecc2ae48e2df392b70fec1bbf5][^key-6bd488d4e80d47f0772213dcc67037da]
+## SCHEDULE 3 — Repeals[^c879367][^c-831054ecc2ae48e2df392b70fec1bbf5][^c-6bd488d4e80d47f0772213dcc67037da]
 
 | Chapter | Short title | Extent of repeal |
 | --- | --- | --- |
 | 1971 c. 60. | Prevention of Oil Pollution Act 1971. | In section 11A(1), the words “an authorisation granted under Part I of the Environmental Protection Act 1990 or”. |
 | 1984 c. 22. | Public Health (Control of Disease) Act 1984. | Section 7(4)(l). |
-| 1990 c. 43. | Environmental Protection Act 1990. | Sections 1 to 28.<br>[^key-05931eb92ed1fa52e1456c539c7d0ef9]...<br>Schedule 1. |
+| 1990 c. 43. | Environmental Protection Act 1990. | Sections 1 to 28.<br>[^c-05931eb92ed1fa52e1456c539c7d0ef9]...<br>Schedule 1. |
 | 1991 c. 56. | Water Industry Act 1991. | Section 138(2) to (4).<br>In section 206(3)(a), “I or”.<br>In section 206(4)(a), “I or”. |
 | 1991 c. 57. | Water Resources Act 1991. | Section 88(1)(b).<br>In section 204(2)(a), “I or”.<br>In section 204(3)(a), “I or”. |
 | 1991 c. 60. | Water Consolidation (Consequential Provisions) Act 1991. | In Schedule 1, paragraph 56. |
@@ -584,47 +584,47 @@ Section 6.
 
 ## Annotations
 
-[^key-41540f2ee9c8e31ba2e88e90bb8d63d0]: Textual amendment: S. 1(1)(a) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/4/2/a)
+[^c-41540f2ee9c8e31ba2e88e90bb8d63d0]: Textual amendment: S. 1(1)(a) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [4(2)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/4/2/a)
 
-[^key-facbd463ceb1318ba6f7448aecc3f19e]: Textual amendment: Words in s. 1(b) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/7/b); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-facbd463ceb1318ba6f7448aecc3f19e]: Textual amendment: Words in s. 1(b) repealed (S.) (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 7(b)](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/7/b); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
 
-[^key-8b4567be0a74670bc1d2a9adb6f51239]: Textual amendment: Words in s. 1(3)(e) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/4/2/b)
+[^c-8b4567be0a74670bc1d2a9adb6f51239]: Textual amendment: Words in s. 1(3)(e) substituted (17.9.2018) by [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [4(2)(b)](https://www.legislation.gov.uk/uksi/2018/942/regulation/4/2/b)
 
-[^key-a7c3db4f9d967de369ccbf7eae7d5f0c]: Modification: S. 2: transfer of functions (1.1.2006) by [National Assembly for Wales (Transfer of Functions) Order 2005 (S.I. 2005/1958)](https://www.legislation.gov.uk/uksi/2005/1958), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1958/article/1/1), [3](https://www.legislation.gov.uk/uksi/2005/1958/article/3)
+[^c-a7c3db4f9d967de369ccbf7eae7d5f0c]: Modification: S. 2: transfer of functions (1.1.2006) by [National Assembly for Wales (Transfer of Functions) Order 2005 (S.I. 2005/1958)](https://www.legislation.gov.uk/uksi/2005/1958), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2005/1958/article/1/1), [3](https://www.legislation.gov.uk/uksi/2005/1958/article/3)
 
-[^key-ad301629dc39605bb531bfa7599ff694]: Modification: S. 2: transfer of functions (10.7.2008) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2008 (S.I. 2008/1776)](https://www.legislation.gov.uk/uksi/2008/1776), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1776/article/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1776/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1776/schedule)
+[^c-ad301629dc39605bb531bfa7599ff694]: Modification: S. 2: transfer of functions (10.7.2008) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2008 (S.I. 2008/1776)](https://www.legislation.gov.uk/uksi/2008/1776), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1776/article/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1776/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1776/schedule)
 
-[^key-f209cf2d597a39c8e82e1b333120cc1e]: Modification: S. 2 functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
+[^c-f209cf2d597a39c8e82e1b333120cc1e]: Modification: S. 2 functions made exercisable concurrently or jointly with the Welsh Ministers by 2006 c. 32, Sch. 3A para. 1 (as inserted (1.4.2018) by [Wales Act 2017 (c. 4)](https://www.legislation.gov.uk/ukpga/2017/4), [s. 71(4)](https://www.legislation.gov.uk/ukpga/2017/4/section/71/4), [Sch. 4 para. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/4/paragraph/1) (with [Sch. 7 paras. 1](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/1), [6](https://www.legislation.gov.uk/ukpga/2017/4/schedule/7/paragraph/6)); [S.I. 2017/1179](https://www.legislation.gov.uk/uksi/2017/1179), [reg. 3(p)](https://www.legislation.gov.uk/uksi/2017/1179/regulation/3/p))
 
-[^key-d90c55468b154ae45837465306d35405]: Modification: S. 2 functions transferred (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [36(1)](https://www.legislation.gov.uk/uksi/2018/644/article/36/1) (with [art. 36(2)](https://www.legislation.gov.uk/uksi/2018/644/article/36/2))
+[^c-d90c55468b154ae45837465306d35405]: Modification: S. 2 functions transferred (24.5.2018) by [The Welsh Ministers (Transfer of Functions) Order 2018 (S.I. 2018/644)](https://www.legislation.gov.uk/uksi/2018/644), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2018/644/article/1/1), [36(1)](https://www.legislation.gov.uk/uksi/2018/644/article/36/1) (with [art. 36(2)](https://www.legislation.gov.uk/uksi/2018/644/article/36/2))
 
-[^key-e963526e3291717b40b0e624904f0e21]: Textual amendment: Words in s. 2(4)(a) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 395(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/395/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-e963526e3291717b40b0e624904f0e21]: Textual amendment: Words in s. 2(4)(a) omitted (1.4.2013) by virtue of [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 395(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/395/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-4dc88c892c0f15122053add0a3228376]: Textual amendment: S. 2(4)(aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 395(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/395/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-4dc88c892c0f15122053add0a3228376]: Textual amendment: S. 2(4)(aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 395(3)](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/395/3) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ddb288ba8a9aa04dc4a753851b35c587]: Textual amendment: S. 2(10) inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 62(13)](https://www.legislation.gov.uk/ukpga/2014/21/section/62/13), [94(2)(n)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/n)
+[^c-ddb288ba8a9aa04dc4a753851b35c587]: Textual amendment: S. 2(10) inserted (14.7.2014) by [Water Act 2014 (c. 21)](https://www.legislation.gov.uk/ukpga/2014/21), [ss. 62(13)](https://www.legislation.gov.uk/ukpga/2014/21/section/62/13), [94(2)(n)](https://www.legislation.gov.uk/ukpga/2014/21/section/94/2/n)
 
 [^c879329]: Marginal citation: [1995 c. 21](https://www.legislation.gov.uk/ukpga/1995/21)
 
 [^c879330]: Marginal citation: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
 
-[^key-a0ff134e983d5b16fbc9a25bf86912a3]: Textual amendment: Words in [s. 3(4)(a)](https://www.legislation.gov.uk/ukpga/1999/24/section/3/4/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 396](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-a0ff134e983d5b16fbc9a25bf86912a3]: Textual amendment: Words in [s. 3(4)(a)](https://www.legislation.gov.uk/ukpga/1999/24/section/3/4/a) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (No. 755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 396](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/396) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-fe75f60490285181b2b1aa9680e688b3]: Textual amendment: S. 4 repealed (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 26](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/26), [Sch. 23](https://www.legislation.gov.uk/uksi/2007/3538/schedule/23) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4)); and (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-fe75f60490285181b2b1aa9680e688b3]: Textual amendment: S. 4 repealed (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 21 para. 26](https://www.legislation.gov.uk/uksi/2007/3538/schedule/21/paragraph/26), [Sch. 23](https://www.legislation.gov.uk/uksi/2007/3538/schedule/23) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4)); and (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c879333]: Marginal citation: [1998 c. 38](https://www.legislation.gov.uk/ukpga/1998/38).
 
 [^c879334]: Marginal citation: [1998 c. 46](https://www.legislation.gov.uk/ukpga/1998/46).
 
-[^key-90863303ad3840e5161e76008668b20e]: Textual amendment: [S. 6(1)](https://www.legislation.gov.uk/ukpga/1999/24/section/6/1) amended (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 206(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/206/b)
+[^c-90863303ad3840e5161e76008668b20e]: Textual amendment: [S. 6(1)](https://www.legislation.gov.uk/ukpga/1999/24/section/6/1) amended (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 206(b)](https://www.legislation.gov.uk/ukpga/2012/14/section/206/b)
 
 [^c879335]: Commencement: S. 6 partly in force; s. 6 not in force at Royal Assent see s. 7(3); s. 6(1) in force (E.W.) (21.3.2000) by [S.I. 2000/800](https://www.legislation.gov.uk/uksi/2000/800), [art. 2](https://www.legislation.gov.uk/uksi/2000/800/article/2); s. 6(1) in force (S.) for certain purposes at 29.9.2000 by [S.S.I. 2000/322](https://www.legislation.gov.uk/ssi/2000/322), [art. 2(a)](https://www.legislation.gov.uk/ssi/2000/322/article/2/a)
 
-[^key-c7a4b979841c71ed44afd2740d7829c3]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/1999/24/section/6/1) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/74/article/2/1)
+[^c-c7a4b979841c71ed44afd2740d7829c3]: Commencement: [S. 6(1)](https://www.legislation.gov.uk/ukpga/1999/24/section/6/1) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/74/article/2/1)
 
-[^key-52152b1462fc98ee3221bbb9c7b293b8]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/ukpga/1999/24/section/6/2) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/139](https://www.legislation.gov.uk/ssi/2015/139), [art. 3](https://www.legislation.gov.uk/ssi/2015/139/article/3)
+[^c-52152b1462fc98ee3221bbb9c7b293b8]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/ukpga/1999/24/section/6/2) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/139](https://www.legislation.gov.uk/ssi/2015/139), [art. 3](https://www.legislation.gov.uk/ssi/2015/139/article/3)
 
-[^key-3569cc63d27780a5271120465038b476]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/ukpga/1999/24/section/6/2) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2)
+[^c-3569cc63d27780a5271120465038b476]: Commencement: [S. 6(2)](https://www.legislation.gov.uk/ukpga/1999/24/section/6/2) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2)
 
 [^c879336]: Marginal citation: [1978 c. 30](https://www.legislation.gov.uk/ukpga/1978/30).
 
@@ -640,47 +640,47 @@ Section 6.
 
 [^c879340]: Marginal citation: [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17).
 
-[^key-219d12ce0fbcb2ac59fb2a3f431cb224]: Textual amendment: [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/3/b) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/458/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-219d12ce0fbcb2ac59fb2a3f431cb224]: Textual amendment: [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/3/b) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/458/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-de6e26eadfcb5b382d7b3a82426b7b76]: Textual amendment: Word in [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/3/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/42)
+[^c-de6e26eadfcb5b382d7b3a82426b7b76]: Textual amendment: Word in [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/3/b) substituted (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Consequential Amendment) Regulations 2023 (S.I. 2023/1424)](https://www.legislation.gov.uk/uksi/2023/1424), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1424/regulation/1/2), [Sch. para. 42](https://www.legislation.gov.uk/uksi/2023/1424/schedule/paragraph/42)
 
-[^key-0dc16f2a1da3a4fa52e315f2cd1f9989]: Textual amendment: Sch. 1 para. 4 renumbered as Sch. 1 para. 4(1) (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 70(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/70/a), [147(2)(i)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/i) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-0dc16f2a1da3a4fa52e315f2cd1f9989]: Textual amendment: Sch. 1 para. 4 renumbered as Sch. 1 para. 4(1) (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 70(a)](https://www.legislation.gov.uk/ukpga/2021/30/section/70/a), [147(2)(i)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/i) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
-[^key-9c961cc3d3a634435483ea0e472d87ec]: Textual amendment: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/4/2) inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 70(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/70/b), [147(2)(i)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/i) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
+[^c-9c961cc3d3a634435483ea0e472d87ec]: Textual amendment: [Sch. 1 para. 4(2)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/4/2) inserted (9.1.2022) by [Environment Act 2021 (c. 30)](https://www.legislation.gov.uk/ukpga/2021/30), [ss. 70(b)](https://www.legislation.gov.uk/ukpga/2021/30/section/70/b), [147(2)(i)](https://www.legislation.gov.uk/ukpga/2021/30/section/147/2/i) (with [s. 144](https://www.legislation.gov.uk/ukpga/2021/30/section/144))
 
-[^key-a27ccf8923029f1d88f267f34d1ee637]: Textual amendment: Sch. 1 para. 9A inserted (21.4.2005) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2005 (S.I. 2005/925)](https://www.legislation.gov.uk/uksi/2005/925), [art. 1](https://www.legislation.gov.uk/uksi/2005/925/article/1), [Sch. 6 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/925/schedule/6/paragraph/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/925/regulation/3))
+[^c-a27ccf8923029f1d88f267f34d1ee637]: Textual amendment: Sch. 1 para. 9A inserted (21.4.2005) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2005 (S.I. 2005/925)](https://www.legislation.gov.uk/uksi/2005/925), [art. 1](https://www.legislation.gov.uk/uksi/2005/925/article/1), [Sch. 6 para. 2(2)(a)](https://www.legislation.gov.uk/uksi/2005/925/schedule/6/paragraph/2/2/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/925/regulation/3))
 
-[^key-df8cce5266e0b1a2a08896b66e17f5f4]: Textual amendment: [Sch. 1 para. 9A(1)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/9A/1) substituted (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/16/a)
+[^c-df8cce5266e0b1a2a08896b66e17f5f4]: Textual amendment: [Sch. 1 para. 9A(1)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/9A/1) substituted (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [16(a)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/16/a)
 
-[^key-7298d94e89548d622edf14fc0204e482]: Textual amendment: Words in [Sch. 1 para. 9A(3)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/9A/3) substituted (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/16/b)
+[^c-7298d94e89548d622edf14fc0204e482]: Textual amendment: Words in [Sch. 1 para. 9A(3)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/9A/3) substituted (3.12.2012) by [The Greenhouse Gas Emissions Trading Scheme (Amendment) (Charging Schemes) Regulations 2012 (S.I. 2012/2788)](https://www.legislation.gov.uk/uksi/2012/2788), [regs. 1](https://www.legislation.gov.uk/uksi/2012/2788/regulation/1), [16(b)](https://www.legislation.gov.uk/uksi/2012/2788/regulation/16/b)
 
 [^c879341]: Marginal citation: [1995 c. 25](https://www.legislation.gov.uk/ukpga/1995/25).
 
 [^c879342]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
-[^key-d45e31b65203d300a1a1d62c489bf34b]: Textual amendment: Sch. 1 para. 20(1)(b) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d45e31b65203d300a1a1d62c489bf34b]: Textual amendment: Sch. 1 para. 20(1)(b) substituted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [4(3)(a)](https://www.legislation.gov.uk/uksi/2019/458/regulation/4/3/a); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-abe2830f2e3ffeaa9b805e11bffc0418]: Textual amendment: Sch. 1 para. 20(2)(a)(b) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/4/3/a)
+[^c-abe2830f2e3ffeaa9b805e11bffc0418]: Textual amendment: Sch. 1 para. 20(2)(a)(b) omitted (17.9.2018) by virtue of [The Environment, Food and Rural Affairs (Miscellaneous Amendments and Revocations) Regulations 2018 (S.I. 2018/942)](https://www.legislation.gov.uk/uksi/2018/942), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2018/942/regulation/1/2), [4(3)(a)](https://www.legislation.gov.uk/uksi/2018/942/regulation/4/3/a)
 
-[^key-021d52b05d18f08abdff38bad956da41]: Textual amendment: Sch. 1 para. 20(2)(c) omitted (31.12.2020) by virtue of [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/458/regulation/4/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-021d52b05d18f08abdff38bad956da41]: Textual amendment: Sch. 1 para. 20(2)(c) omitted (31.12.2020) by virtue of [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [4(3)(b)(i)](https://www.legislation.gov.uk/uksi/2019/458/regulation/4/3/b/i); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-abef1762f2a3cab8be954ddf2da78780]: Modification: Sch. 1 para. 20(2)(c): transfer of functions (10.7.2008) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2008 (S.I. 2008/1776)](https://www.legislation.gov.uk/uksi/2008/1776), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1776/article/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1776/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1776/schedule)
+[^c-abef1762f2a3cab8be954ddf2da78780]: Modification: Sch. 1 para. 20(2)(c): transfer of functions (10.7.2008) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2008 (S.I. 2008/1776)](https://www.legislation.gov.uk/uksi/2008/1776), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2008/1776/article/1/1), [2](https://www.legislation.gov.uk/uksi/2008/1776/article/2), [Sch.](https://www.legislation.gov.uk/uksi/2008/1776/schedule)
 
-[^key-2c4668054bacbc26cff60966108e121f]: Textual amendment: Sch. 1 para. 20(2)(d)-(ii) inserted by S.I. 2019/458, reg. 4(3)(b)(iii) (as inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) (Amendment) (England and Wales) Regulations 2020 (S.I. 2020/603)](https://www.legislation.gov.uk/uksi/2020/603), [regs. 1](https://www.legislation.gov.uk/uksi/2020/603/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/603/regulation/2/3/b))
+[^c-2c4668054bacbc26cff60966108e121f]: Textual amendment: Sch. 1 para. 20(2)(d)-(ii) inserted by S.I. 2019/458, reg. 4(3)(b)(iii) (as inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) (Amendment) (England and Wales) Regulations 2020 (S.I. 2020/603)](https://www.legislation.gov.uk/uksi/2020/603), [regs. 1](https://www.legislation.gov.uk/uksi/2020/603/regulation/1), [2(3)(b)](https://www.legislation.gov.uk/uksi/2020/603/regulation/2/3/b))
 
-[^key-d4355f80b68e652b183130cff80aeadc]: Textual amendment: Sch. 1 para. 20(2A) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2019/458/regulation/4/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-d4355f80b68e652b183130cff80aeadc]: Textual amendment: Sch. 1 para. 20(2A) inserted (31.12.2020) by [The Environment (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/458)](https://www.legislation.gov.uk/uksi/2019/458), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2019/458/regulation/1/1), [4(3)(c)](https://www.legislation.gov.uk/uksi/2019/458/regulation/4/3/c); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-078f37b598a4b4146daf79f58120fe5b]: Textual amendment: Sch. 1 para. 21A and preceding cross-heading inserted (13.11.2003) by [Waste and Emissions Trading Act 2003 (c. 33)](https://www.legislation.gov.uk/ukpga/2003/33), [ss. 38](https://www.legislation.gov.uk/ukpga/2003/33/section/38), [40](https://www.legislation.gov.uk/ukpga/2003/33/section/40)
+[^c-078f37b598a4b4146daf79f58120fe5b]: Textual amendment: Sch. 1 para. 21A and preceding cross-heading inserted (13.11.2003) by [Waste and Emissions Trading Act 2003 (c. 33)](https://www.legislation.gov.uk/ukpga/2003/33), [ss. 38](https://www.legislation.gov.uk/ukpga/2003/33/section/38), [40](https://www.legislation.gov.uk/ukpga/2003/33/section/40)
 
-[^key-b0cb11ec7f973429aeedb1d149294e09]: Textual amendment: Word in [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/24) inserted (21.4.2005) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2005 (S.I. 2005/925)](https://www.legislation.gov.uk/uksi/2005/925), [art. 1](https://www.legislation.gov.uk/uksi/2005/925/article/1), [Sch. 6 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/925/schedule/6/paragraph/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/925/regulation/3))
+[^c-b0cb11ec7f973429aeedb1d149294e09]: Textual amendment: Word in [Sch. 1 para. 24](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/24) inserted (21.4.2005) by [The Greenhouse Gas Emissions Trading Scheme Regulations 2005 (S.I. 2005/925)](https://www.legislation.gov.uk/uksi/2005/925), [art. 1](https://www.legislation.gov.uk/uksi/2005/925/article/1), [Sch. 6 para. 2(2)(b)](https://www.legislation.gov.uk/uksi/2005/925/schedule/6/paragraph/2/2/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2005/925/regulation/3))
 
-[^key-0d483cbff90be832273ee79ee6bee5c4]: Textual amendment: Words in Sch. 1 para. 25(2)(a)(i) substituted (E.W.) (7.6.2005) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 105(1)(a)](https://www.legislation.gov.uk/ukpga/2005/16/section/105/1/a), [108(4)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/4) (with [s. 105(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/105/2))
+[^c-0d483cbff90be832273ee79ee6bee5c4]: Textual amendment: Words in Sch. 1 para. 25(2)(a)(i) substituted (E.W.) (7.6.2005) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 105(1)(a)](https://www.legislation.gov.uk/ukpga/2005/16/section/105/1/a), [108(4)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/4) (with [s. 105(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/105/2))
 
-[^key-cdd017fe7ee445b0ae2345281cca4003]: Textual amendment: Words in [Sch. 1 para. 25(2)(a)(i)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/25/2/a/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
+[^c-cdd017fe7ee445b0ae2345281cca4003]: Textual amendment: Words in [Sch. 1 para. 25(2)(a)(i)](https://www.legislation.gov.uk/ukpga/1999/24/schedule/1/paragraph/25/2/a/i) substituted (E.W.) (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2023/149/regulation/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2023/149/schedule/part/1) table
 
-[^key-bc57cb2f8130ff619bc3d1b23fcb2679]: Textual amendment: Sch. 1 para. 25(2)(a)(ii) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 90](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/90) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/2))
+[^c-bc57cb2f8130ff619bc3d1b23fcb2679]: Textual amendment: Sch. 1 para. 25(2)(a)(ii) substituted (E.W.) (12.3.2015) by [The Legal Aid, Sentencing and Punishment of Offenders Act 2012 (Fines on Summary Conviction) Regulations 2015 (S.I. 2015/664)](https://www.legislation.gov.uk/uksi/2015/664), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2015/664/regulation/1/1), [Sch. 4 para. 90](https://www.legislation.gov.uk/uksi/2015/664/schedule/4/paragraph/90) (with [reg. 5(2)](https://www.legislation.gov.uk/uksi/2015/664/regulation/5/2))
 
-[^key-fe45296010aa6c3ed2dded507e5c4347]: Textual amendment: Word in Sch. 1 para. 25(2)(a)(ii) substituted (E.W.) (7.6.2005) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 105(1)(b)](https://www.legislation.gov.uk/ukpga/2005/16/section/105/1/b), [108(4)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/4) (with [s. 105(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/105/2))
+[^c-fe45296010aa6c3ed2dded507e5c4347]: Textual amendment: Word in Sch. 1 para. 25(2)(a)(ii) substituted (E.W.) (7.6.2005) by [Clean Neighbourhoods and Environment Act 2005 (c. 16)](https://www.legislation.gov.uk/ukpga/2005/16), [ss. 105(1)(b)](https://www.legislation.gov.uk/ukpga/2005/16/section/105/1/b), [108(4)](https://www.legislation.gov.uk/ukpga/2005/16/section/108/4) (with [s. 105(2)](https://www.legislation.gov.uk/ukpga/2005/16/section/105/2))
 
 [^M_F_e81a5d34-e887-4c52-e967-173a6b0cf2af]: Textual amendment: Word in Sch. 1 para. 25(2)(a)(ii) substituted (S.) (28.10.2004) by [Antisocial Behaviour etc. (Scotland) Act 2004 (asp 8)](https://www.legislation.gov.uk/asp/2004/8), s. 145(2), Sch. 2 para. 5; [S.S.I. 2004/420](https://www.legislation.gov.uk/ssi/2004/420), art. 3, Sch. 1
 
@@ -692,7 +692,7 @@ Section 6.
 
 [^c879347]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/4) partly in force; [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/4) not in force at Royal Assent see [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3); [Sch. 2 para. 4](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/4) in force (E.W.) at 21.3.2000 by [S.I. 2000/800](https://www.legislation.gov.uk/uksi/2000/800), [art. 2](https://www.legislation.gov.uk/uksi/2000/800/article/2)
 
-[^key-4fdb0e564ab774fd630bdaad71c5272d]: Textual amendment: Sch. 2 para. 5 repealed (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 23](https://www.legislation.gov.uk/uksi/2007/3538/schedule/23) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4)); and (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
+[^c-4fdb0e564ab774fd630bdaad71c5272d]: Textual amendment: Sch. 2 para. 5 repealed (E.W.) (6.4.2008) by [The Environmental Permitting (England and Wales) Regulations 2007 (S.I. 2007/3538)](https://www.legislation.gov.uk/uksi/2007/3538), [reg. 1(1)(b)](https://www.legislation.gov.uk/uksi/2007/3538/regulation/1/1/b), [Sch. 23](https://www.legislation.gov.uk/uksi/2007/3538/schedule/23) (with [reg. 72](https://www.legislation.gov.uk/uksi/2007/3538/regulation/72), [Sch. 4](https://www.legislation.gov.uk/uksi/2007/3538/schedule/4)); and (S.) (1.11.2025) by [The Environmental Authorisations (Scotland) Amendment Regulations 2025 (S.S.I. 2025/165)](https://www.legislation.gov.uk/ssi/2025/165), [reg. 1(2)](https://www.legislation.gov.uk/ssi/2025/165/regulation/1/2), [sch. 21 para. 1](https://www.legislation.gov.uk/ssi/2025/165/schedule/21/paragraph/1) (with [sch. 23](https://www.legislation.gov.uk/ssi/2025/165/schedule/23))
 
 [^c879350]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/6) wholly in force; [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/6) not in force at Royal Assent see [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3); [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/6) in force (E.W.) at 21.3.2000 by [S.I. 2000/800](https://www.legislation.gov.uk/uksi/2000/800), [art. 2](https://www.legislation.gov.uk/uksi/2000/800/article/2); [Sch. 2 para. 6](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/6) in force (S.) at 29.9.2000 by [S.S.I. 2000/322](https://www.legislation.gov.uk/ssi/2000/322), [art. 2(b)](https://www.legislation.gov.uk/ssi/2000/322/article/2/b)
 
@@ -712,7 +712,7 @@ Section 6.
 
 [^c879358]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/13) partly in force; [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/13) not in force at Royal Assent see [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3); [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/13) in force (E.W.) at 21.3.2000 by [S.I. 2000/800](https://www.legislation.gov.uk/uksi/2000/800), [art. 2](https://www.legislation.gov.uk/uksi/2000/800/article/2)
 
-[^key-dcdc36d66316ced24cecfc9b4e6bc4a8]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/13) in force at 1.4.2015 for S. by [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/74/article/2/1)
+[^c-dcdc36d66316ced24cecfc9b4e6bc4a8]: Commencement: [Sch. 2 para. 13](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/13) in force at 1.4.2015 for S. by [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/74/article/2/1)
 
 [^c879359]: Marginal citation: [1990 c. 43](https://www.legislation.gov.uk/ukpga/1990/43).
 
@@ -720,7 +720,7 @@ Section 6.
 
 [^c879361]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/15) partly in force; [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/15) not in force at Royal Assent see [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3); [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/15) in force (E.W.) at 21.3.2000 by [S.I. 2000/800](https://www.legislation.gov.uk/uksi/2000/800), [art. 2](https://www.legislation.gov.uk/uksi/2000/800/article/2)
 
-[^key-5af194b86150281ad6c8181a7a6a6db9]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/15) in force at 1.4.2015 for S. by [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/74/article/2/1)
+[^c-5af194b86150281ad6c8181a7a6a6db9]: Commencement: [Sch. 2 para. 15](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/15) in force at 1.4.2015 for S. by [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(1)](https://www.legislation.gov.uk/ssi/2015/74/article/2/1)
 
 [^c879362]: Commencement: [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/16) wholly in force; [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/16) not in force at Royal Assent see [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3); [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/16) in force (E.W.) at 21.3.2000 by [S.I. 2000/800](https://www.legislation.gov.uk/uksi/2000/800), [art. 2](https://www.legislation.gov.uk/uksi/2000/800/article/2); [Sch. 2 para. 16](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/16) in force (S.) at 29.9.2000 by [S.S.I. 2000/322](https://www.legislation.gov.uk/ssi/2000/322), [art. 2(b)](https://www.legislation.gov.uk/ssi/2000/322/article/2/b)
 
@@ -728,16 +728,16 @@ Section 6.
 
 [^c879364]: Commencement: [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/18) wholly in force; [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/18) not in force at Royal Assent see [s. 7(3)](https://www.legislation.gov.uk/ukpga/1999/24/section/7/3); [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/18) in force (E.W.) at 21.3.2000 by [S.I. 2000/800](https://www.legislation.gov.uk/uksi/2000/800), [art. 2](https://www.legislation.gov.uk/uksi/2000/800/article/2); [Sch. 2 para. 18](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/18) in force (S.) at 29.9.2000 by [S.S.I. 2000/322](https://www.legislation.gov.uk/ssi/2000/322), [art. 2(b)](https://www.legislation.gov.uk/ssi/2000/322/article/2/b)
 
-[^key-b4b81b38e5f2c1e37c2f6928599a1dbd]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/19) amended (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 206(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/206/a)
+[^c-b4b81b38e5f2c1e37c2f6928599a1dbd]: Textual amendment: [Sch. 2 para. 19](https://www.legislation.gov.uk/ukpga/1999/24/schedule/2/paragraph/19) amended (17.7.2012) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [s. 206(a)](https://www.legislation.gov.uk/ukpga/2012/14/section/206/a)
 
 [^c879365]: Commencement: Sch. 2 para. 19 partly in force; Sch. 2 para. 19 not in force at Royal Assent see s. 7(3); Sch. 2 para. 19 in force (E.W.) at 21.3.2000 by [S.I. 2000/800](https://www.legislation.gov.uk/uksi/2000/800), [art. 2](https://www.legislation.gov.uk/uksi/2000/800/article/2)
 
-[^key-c056f3304bac7180d72b8651f255be07]: Textual amendment: Sch. 2 para. 20 repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 163, Sch. 12 (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
+[^c-c056f3304bac7180d72b8651f255be07]: Textual amendment: Sch. 2 para. 20 repealed by [Government of Wales Act 2006 (c. 32)](https://www.legislation.gov.uk/ukpga/2006/32), s. 163, Sch. 12 (with Sch. 11 para. 22) the amending provision coming into force immediately after "the 2007 election" (held on 3.5.2007) subject to s. 161(1)(4)(5) of the amending Act, which provides for certain provisions to come into force for specified purposes immediately after the end of "the initial period" (which ended with the day of the first appointment of a First Minister on 25.5.2007) - see ss. 46, 161(4)(5) of the amending Act.
 
 [^c879367]: Extent: For extent of repeals see s. 7(7).
 
-[^key-831054ecc2ae48e2df392b70fec1bbf5]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2) (as amended (31.3.2015) by S.S.I. 2015/139, arts. 1(2), 2)
+[^c-831054ecc2ae48e2df392b70fec1bbf5]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3) in force at 1.4.2015 for specified purposes for S. by [S.S.I. 2015/74](https://www.legislation.gov.uk/ssi/2015/74), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/74/article/2/2) (as amended (31.3.2015) by S.S.I. 2015/139, arts. 1(2), 2)
 
-[^key-6bd488d4e80d47f0772213dcc67037da]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/139](https://www.legislation.gov.uk/ssi/2015/139), [art. 3](https://www.legislation.gov.uk/ssi/2015/139/article/3)
+[^c-6bd488d4e80d47f0772213dcc67037da]: Commencement: [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3) in force at 1.4.2015 for specified purposes by [S.S.I. 2015/139](https://www.legislation.gov.uk/ssi/2015/139), [art. 3](https://www.legislation.gov.uk/ssi/2015/139/article/3)
 
-[^key-05931eb92ed1fa52e1456c539c7d0ef9]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 36](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/36); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)
+[^c-05931eb92ed1fa52e1456c539c7d0ef9]: Textual amendment: Words in [Sch. 3](https://www.legislation.gov.uk/ukpga/1999/24/schedule/3) repealed (30.6.2014) by [Regulatory Reform (Scotland) Act 2014 (asp 3)](https://www.legislation.gov.uk/asp/2014/3), [s. 61(2)](https://www.legislation.gov.uk/asp/2014/3/section/61/2), [Sch. 3 para. 36](https://www.legislation.gov.uk/asp/2014/3/schedule/3/paragraph/36); [S.S.I. 2014/160](https://www.legislation.gov.uk/ssi/2014/160), [art. 2(1)](https://www.legislation.gov.uk/ssi/2014/160/article/2/1)[(2)](https://www.legislation.gov.uk/ssi/2014/160/article/2/2), [Sch.](https://www.legislation.gov.uk/ssi/2014/160/schedule)

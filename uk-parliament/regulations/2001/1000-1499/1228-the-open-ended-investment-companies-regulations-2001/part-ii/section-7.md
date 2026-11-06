@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7. Modification or waiver of FCA rules[^key-22e07a67ed7afbb1a72aaed221fbf07f]
+## 7. Modification or waiver of FCA rules[^c-22e07a67ed7afbb1a72aaed221fbf07f]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,37 +30,37 @@ summary: ''
 - (a) are not to apply to the company; or
 - (b) are to apply to the company with such modifications as may be specified in the direction.
 
-(3) Sections 138A(3) to (7) and 138B of[^key-0a0a66e1e4d15a89d104fdf4d2b9d770] the Act (modification or waiver of rules) have effect in relation to a direction under paragraph (1) as they have effect in relation to a direction under section 138A(1)[^key-343909d1c83ae89c8cd8a48f1915a1b2] of the Act but with the following modifications—
+(3) Sections 138A(3) to (7) and 138B of[^c-0a0a66e1e4d15a89d104fdf4d2b9d770] the Act (modification or waiver of rules) have effect in relation to a direction under paragraph (1) as they have effect in relation to a direction under section 138A(1)[^c-343909d1c83ae89c8cd8a48f1915a1b2] of the Act but with the following modifications—
 
 - (a) subsection (4)(a) is to be read as if the words “by the authorised person" were omitted;
 - (b) any reference to the authorised person (except in subsection (4)(a)) is to be read as a reference to the person mentioned in paragraph (1); and
-- (c) section 138B(3)(c)[^key-69b36f64409f54ebb069d314c5663973] is to be read, in relation to a shareholder, as if the word “commercial" were omitted.
+- (c) section 138B(3)(c)[^c-69b36f64409f54ebb069d314c5663973] is to be read, in relation to a shareholder, as if the word “commercial" were omitted.
 
-(4) Sections 138A(3) to (7) and 138B of[^key-e45811b1195711bbd3cedb94d05bcc3c] the Act have effect in relation to a direction under paragraph (2) as they have effect in relation to a direction under section 138A(1)[^key-b53de621f3554e850021cc995c610787] of the Act but with the following modifications—
+(4) Sections 138A(3) to (7) and 138B of[^c-e45811b1195711bbd3cedb94d05bcc3c] the Act have effect in relation to a direction under paragraph (2) as they have effect in relation to a direction under section 138A(1)[^c-b53de621f3554e850021cc995c610787] of the Act but with the following modifications—
 
-- (a) section 138A(4)(a)[^key-b137fd3902fa304347875394a217d5e1] is to be read as if the words “by the authorised person" were omitted;
-- (b) section 138B(3)(c) and (5)[^key-e3192145d32b0f57bd66eed3227bc39f] are to be read as if the reference to the authorised person were a reference to each of the company and its depositary;
-- (c) section 138B(3)(c)[^key-387b732396dcaa24d45fb79f4a93996b] is to be read, in relation to a shareholder, as if the word “commercial" were omitted; and
-- (d) section 138A(7)[^key-2e5acd688d2ca1ec8ada852e01f7470d] is to be read as if the reference to the authorised person were a reference to the company and its depositary acting jointly.
+- (a) section 138A(4)(a)[^c-b137fd3902fa304347875394a217d5e1] is to be read as if the words “by the authorised person" were omitted;
+- (b) section 138B(3)(c) and (5)[^c-e3192145d32b0f57bd66eed3227bc39f] are to be read as if the reference to the authorised person were a reference to each of the company and its depositary;
+- (c) section 138B(3)(c)[^c-387b732396dcaa24d45fb79f4a93996b] is to be read, in relation to a shareholder, as if the word “commercial" were omitted; and
+- (d) section 138A(7)[^c-2e5acd688d2ca1ec8ada852e01f7470d] is to be read as if the reference to the authorised person were a reference to the company and its depositary acting jointly.
 
 ## Annotations
 
-[^key-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
+[^c-22e07a67ed7afbb1a72aaed221fbf07f]: Textual amendment: Words in Regulations substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(2)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/2)
 
-[^key-0a0a66e1e4d15a89d104fdf4d2b9d770]: Textual amendment: Words in reg. 7(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/a/i)
+[^c-0a0a66e1e4d15a89d104fdf4d2b9d770]: Textual amendment: Words in reg. 7(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(a)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/a/i)
 
-[^key-343909d1c83ae89c8cd8a48f1915a1b2]: Textual amendment: Words in reg. 7(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/a/ii)
+[^c-343909d1c83ae89c8cd8a48f1915a1b2]: Textual amendment: Words in reg. 7(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(a)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/a/ii)
 
-[^key-69b36f64409f54ebb069d314c5663973]: Textual amendment: Words in reg. 7(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/a/iii)
+[^c-69b36f64409f54ebb069d314c5663973]: Textual amendment: Words in reg. 7(3) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(a)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/a/iii)
 
-[^key-e45811b1195711bbd3cedb94d05bcc3c]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/b/i)
+[^c-e45811b1195711bbd3cedb94d05bcc3c]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(b)(i)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/b/i)
 
-[^key-b53de621f3554e850021cc995c610787]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/b/ii)
+[^c-b53de621f3554e850021cc995c610787]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(b)(ii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/b/ii)
 
-[^key-b137fd3902fa304347875394a217d5e1]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/b/iii)
+[^c-b137fd3902fa304347875394a217d5e1]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(b)(iii)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/b/iii)
 
-[^key-e3192145d32b0f57bd66eed3227bc39f]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/b/iv)
+[^c-e3192145d32b0f57bd66eed3227bc39f]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(b)(iv)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/b/iv)
 
-[^key-387b732396dcaa24d45fb79f4a93996b]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(b)(v)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/b/v)
+[^c-387b732396dcaa24d45fb79f4a93996b]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(b)(v)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/b/v)
 
-[^key-2e5acd688d2ca1ec8ada852e01f7470d]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(b)(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/b/vi)
+[^c-2e5acd688d2ca1ec8ada852e01f7470d]: Textual amendment: Words in reg. 7(4) substituted (1.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) Order 2013 (S.I. 2013/472)](https://www.legislation.gov.uk/uksi/2013/472), [Sch. 2 para. 41(4)(b)(vi)](https://www.legislation.gov.uk/uksi/2013/472/schedule/2/paragraph/41/4/b/vi)

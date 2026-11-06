@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 14. Licence conditions[^key-2473aee6ea1bdbd0425080a671c3012c]
+## 14. Licence conditions[^c-2473aee6ea1bdbd0425080a671c3012c]
 
 *Extent: N.I.*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2473aee6ea1bdbd0425080a671c3012c]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/22/section/14) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))
+[^c-2473aee6ea1bdbd0425080a671c3012c]: Commencement: [S. 14](https://www.legislation.gov.uk/nia/2016/22/section/14) in operation at 1.4.2019 by [S.R. 2019/39](https://www.legislation.gov.uk/nisr/2019/39), [art. 2](https://www.legislation.gov.uk/nisr/2019/39/article/2) (with [art. 3](https://www.legislation.gov.uk/nisr/2019/39/article/3))

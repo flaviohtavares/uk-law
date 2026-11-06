@@ -56,11 +56,11 @@ Her Majesty, by and with the advice of Her Privy Council, orders as follows:
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-c7f87cef3fa6f257654783447865fd27]
+### 1. Citation and commencement[^c-c7f87cef3fa6f257654783447865fd27]
 
 This Order may be cited as the Air Navigation (Cosmic Radiation: Protection of Air Crew and Space Crew and Consequential Amendments) Order 2019 and comes into force on 7th August 2019.
 
-### 2. Interpretation[^key-5206f6db6b6846c01bb639463d212601]
+### 2. Interpretation[^c-5206f6db6b6846c01bb639463d212601]
 
 (1) In this Order—
 
@@ -72,11 +72,11 @@ This Order may be cited as the Air Navigation (Cosmic Radiation: Protection of A
     - (i) members of the flight crew;
     - (ii) members of the cabin crew; or
     - (iii) task specialists; and
-  - (b) [^key-27bc3ca3c0fc7cad3666ebaa04aac10f]...
+  - (b) [^c-27bc3ca3c0fc7cad3666ebaa04aac10f]...
 - “crew member” is to be read accordingly;
 - “**doctor**” means a registered medical practitioner who—
   - (a) is an appointed doctor for the purposes of the Ionising Radiation Regulations 2017 [^c23829751] (see regulation 2 of those Regulations); and
-  - (b) has completed a course of training in providing medical surveillance for air crew [^key-92609a2838a0590a526ca0f55b775709]... who have been exposed to ionising radiation;
+  - (b) has completed a course of training in providing medical surveillance for air crew [^c-92609a2838a0590a526ca0f55b775709]... who have been exposed to ionising radiation;
 - “**effective dose**” has the meaning given in Article 4(25) of the Directive;
 - “**the Directive**” means Council Directive 2013/59/Euratom [^c23829761], laying down basic safety standards for protection against the dangers arising from exposure to ionising radiation;
 - “**flight crew**” means persons working on an aircraft who undertake to act as pilot, flight navigator, flight engineer or flight radiotelephony operator of the aircraft;
@@ -84,56 +84,56 @@ This Order may be cited as the Air Navigation (Cosmic Radiation: Protection of A
 - “**mSv**” means one thousandth of a sievert;
 - “**operator**” has the meaning given in article 4;
 - “**overexposure**” has the meaning given in article 11(7);
-- “**relevant crew member**” means a crew member who is employed or otherwise engaged to perform duties on an aircraft [^key-a1debd4a039cabc2862b631adaead4d5]... that would render the crew member liable to receive an effective dose of cosmic radiation that exceeds 1 mSv in a calendar year;
-- [^key-8fbd537f35ec1af44218c3e7c6087926]...
-- [^key-8fbd537f35ec1af44218c3e7c6087926]...
-- [^key-8fbd537f35ec1af44218c3e7c6087926]...
-- [^key-8fbd537f35ec1af44218c3e7c6087926]...
-- “**task specialist**” means a person who performs specialised tasks on board the aircraft [^key-aa3daf74762e567169dd519f91926156]....
+- “**relevant crew member**” means a crew member who is employed or otherwise engaged to perform duties on an aircraft [^c-a1debd4a039cabc2862b631adaead4d5]... that would render the crew member liable to receive an effective dose of cosmic radiation that exceeds 1 mSv in a calendar year;
+- [^c-8fbd537f35ec1af44218c3e7c6087926]...
+- [^c-8fbd537f35ec1af44218c3e7c6087926]...
+- [^c-8fbd537f35ec1af44218c3e7c6087926]...
+- [^c-8fbd537f35ec1af44218c3e7c6087926]...
+- “**task specialist**” means a person who performs specialised tasks on board the aircraft [^c-aa3daf74762e567169dd519f91926156]....
 
-(2) References in this Order to a crew member in relation to an operator are to a crew member of an aircraft [^key-5626363b42688d0b202fb3ac94b6b473]... operated by the operator.
+(2) References in this Order to a crew member in relation to an operator are to a crew member of an aircraft [^c-5626363b42688d0b202fb3ac94b6b473]... operated by the operator.
 
 (3) References in this Order to cosmic radiation do not include cosmic radiation prevailing at ground level.
 
-### 3. Application of this Order[^key-2595f19fc23273b1e5d29f30822566be]
+### 3. Application of this Order[^c-2595f19fc23273b1e5d29f30822566be]
 
 (1) This Order applies in relation to—
 
 - (a) the operation of aircraft by an operator who—
   - (i) is established in the United Kingdom; or
   - (ii) whose principal place of business is in the United Kingdom;
-- (b)[^key-9d671482904412efa5dd6ec4e8cc551e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-9d671482904412efa5dd6ec4e8cc551e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(2) This Order does not apply in relation to the operation of military aircraft [^key-8bc009e9ae9ac303361147b1688c9253]....
+(2) This Order does not apply in relation to the operation of military aircraft [^c-8bc009e9ae9ac303361147b1688c9253]....
 
-(3) In this article, “**military aircraft [^key-c2cc252d7855c7f09171b3dda6b7cb6e]...**” means—
+(3) In this article, “**military aircraft [^c-c2cc252d7855c7f09171b3dda6b7cb6e]...**” means—
 
-- (a) the naval, army or air force aircraft [^key-c2cc252d7855c7f09171b3dda6b7cb6e]... of any country;
-- (b) any aircraft [^key-c2cc252d7855c7f09171b3dda6b7cb6e]... for which there is in force a certificate issued by the Secretary of State that the aircraft is to be treated for the purpose of this Order as a military aircraft [^key-c2cc252d7855c7f09171b3dda6b7cb6e]....
+- (a) the naval, army or air force aircraft [^c-c2cc252d7855c7f09171b3dda6b7cb6e]... of any country;
+- (b) any aircraft [^c-c2cc252d7855c7f09171b3dda6b7cb6e]... for which there is in force a certificate issued by the Secretary of State that the aircraft is to be treated for the purpose of this Order as a military aircraft [^c-c2cc252d7855c7f09171b3dda6b7cb6e]....
 
-### 4. Meaning of “operator”[^key-cbb45cdaaa03d04f3a807e9edf5debed]
+### 4. Meaning of “operator”[^c-cbb45cdaaa03d04f3a807e9edf5debed]
 
-(1) For the purposes of the application of any provision of this Order, “**operator**” in relation to an aircraft [^key-bfc1f181c3553bd042140ee7161c0436]... means the person who at the relevant time has management of the aircraft [^key-bfc1f181c3553bd042140ee7161c0436]....
+(1) For the purposes of the application of any provision of this Order, “**operator**” in relation to an aircraft [^c-bfc1f181c3553bd042140ee7161c0436]... means the person who at the relevant time has management of the aircraft [^c-bfc1f181c3553bd042140ee7161c0436]....
 
-(2) But, for the purposes of the application of this Order in relation to aircraft [^key-43c70650be5877b236b5a8c32808a4aa]... belonging to or exclusively employed in the service of Her Majesty, a government department or other authority for the time being responsible on behalf of Her Majesty for the management of the aircraft [^key-43c70650be5877b236b5a8c32808a4aa]... is deemed to be the operator of the aircraft [^key-43c70650be5877b236b5a8c32808a4aa]....
+(2) But, for the purposes of the application of this Order in relation to aircraft [^c-43c70650be5877b236b5a8c32808a4aa]... belonging to or exclusively employed in the service of Her Majesty, a government department or other authority for the time being responsible on behalf of Her Majesty for the management of the aircraft [^c-43c70650be5877b236b5a8c32808a4aa]... is deemed to be the operator of the aircraft [^c-43c70650be5877b236b5a8c32808a4aa]....
 
-(3) Nothing in this article renders liable to any penalty any government department or other authority responsible on behalf of Her Majesty for the management of any aircraft [^key-6eac99dff0ab153be89b80c0958d2d77]....
+(3) Nothing in this article renders liable to any penalty any government department or other authority responsible on behalf of Her Majesty for the management of any aircraft [^c-6eac99dff0ab153be89b80c0958d2d77]....
 
 ## PART 2 — Generally applicable provisions
 
-### 5. Authorisation and prohibition on exposure[^key-23ffb3eef26e02450ebbf8da56999a57]
+### 5. Authorisation and prohibition on exposure[^c-23ffb3eef26e02450ebbf8da56999a57]
 
-(1) No operator may employ or otherwise engage a person to perform duties as a crew member on an aircraft [^key-bf73842bc015430c0fe0f4aa6c8ab84c]... that would render the person liable to receive an effective dose of cosmic radiation that exceeds 1 mSv in a calendar year, unless the operator is authorised for the purposes of this article.
+(1) No operator may employ or otherwise engage a person to perform duties as a crew member on an aircraft [^c-bf73842bc015430c0fe0f4aa6c8ab84c]... that would render the person liable to receive an effective dose of cosmic radiation that exceeds 1 mSv in a calendar year, unless the operator is authorised for the purposes of this article.
 
 (2) Subject to article 24 (CAA's power to determine an operator as not authorised), an operator is authorised for the purposes of this article if the operator—
 
-- (a) has been granted or issued with a relevant certificate [^key-78420d7f8300aeb2d498c166a3385401]... or a specialised operations authorisation and that certificate [^key-ae44986f86050e3c1f1f57af9ab372eb]... or authorisation is in force;
+- (a) has been granted or issued with a relevant certificate [^c-78420d7f8300aeb2d498c166a3385401]... or a specialised operations authorisation and that certificate [^c-ae44986f86050e3c1f1f57af9ab372eb]... or authorisation is in force;
 - (b) is an approved training organisation or a declared training organisation; or
 - (c) has made a relevant declaration to the CAA.
 
-(3) No operator may employ or otherwise engage a person to perform duties as a crew member on an aircraft [^key-4d09d011a6ce9062960d49358644c656]... that would render the person liable to receive an effective dose of cosmic radiation that exceeds 6 mSv in a calendar year unless the person is a classified crew member (see article 12 (continued working of overexposed crew)).
+(3) No operator may employ or otherwise engage a person to perform duties as a crew member on an aircraft [^c-4d09d011a6ce9062960d49358644c656]... that would render the person liable to receive an effective dose of cosmic radiation that exceeds 6 mSv in a calendar year unless the person is a classified crew member (see article 12 (continued working of overexposed crew)).
 
-(4) No operator may employ or otherwise engage a person to perform duties as a crew member on an aircraft [^key-b11af8253d474f5c704217cfc5083ade]... that would render the person liable to receive an effective dose of cosmic radiation that exceeds 20 mSv in a calendar year (and see article 12 (continued working of overexposed crew)).
+(4) No operator may employ or otherwise engage a person to perform duties as a crew member on an aircraft [^c-b11af8253d474f5c704217cfc5083ade]... that would render the person liable to receive an effective dose of cosmic radiation that exceeds 20 mSv in a calendar year (and see article 12 (continued working of overexposed crew)).
 
 (5) In this article—
 
@@ -148,25 +148,25 @@ This Order may be cited as the Air Navigation (Cosmic Radiation: Protection of A
 - “**relevant declaration**” means a declaration made to the CAA by an operator—
   - (a) in accordance with Annex III to the EASA Air Operations Regulation that the operator is performing, or intends to perform, specialised operations other than high risk commercial specialised operations;
   - (b) in accordance with Annex III to the EASA Air Operations Regulation that the operator is performing, or intends to perform, the non-commercial operation of complex motor-powered aircraft;
-- [^key-f012783846b404b8fbd45b6689717549]...
+- [^c-f012783846b404b8fbd45b6689717549]...
 - “**specialised operations**” and “**high risk commercial specialised operations**” have the same meaning as in the EASA Air Operations Regulation;
 - “**specialised operations authorisation**” means an authorisation granted to an operator under the EASA Air Operations Regulation authorising the operator to perform high risk commercial specialised operations.
 
-### 6. Risk assessments[^key-17be5bf707f3a8b1f625c02fd04028f1]
+### 6. Risk assessments[^c-17be5bf707f3a8b1f625c02fd04028f1]
 
-(1) Subject to paragraph (2), the operator must ensure that a suitable and sufficient assessment of the magnitude of the risk to crew members from exposure to cosmic radiation in the course of performing their duties aboard the aircraft [^key-4af6f355096ea9680f704c52d82afd29]... (a “risk assessment”) is conducted before undertaking aircraft [^key-4af6f355096ea9680f704c52d82afd29]... operations.
+(1) Subject to paragraph (2), the operator must ensure that a suitable and sufficient assessment of the magnitude of the risk to crew members from exposure to cosmic radiation in the course of performing their duties aboard the aircraft [^c-4af6f355096ea9680f704c52d82afd29]... (a “risk assessment”) is conducted before undertaking aircraft [^c-4af6f355096ea9680f704c52d82afd29]... operations.
 
-(2) Where an operator has completed a risk assessment (the “previous risk assessment”) in relation to an operation of aircraft [^key-b10a7d9c350a278422d51c609aada50c]..., no further risk assessment needs to be conducted in relation to that operation, but a further risk assessment must be conducted if—
+(2) Where an operator has completed a risk assessment (the “previous risk assessment”) in relation to an operation of aircraft [^c-b10a7d9c350a278422d51c609aada50c]..., no further risk assessment needs to be conducted in relation to that operation, but a further risk assessment must be conducted if—
 
 - (a) the operator has reason to suspect that the previous risk assessment is no longer valid;
 - (b) there has been a significant change to the matters to which the previous risk assessment relates; or
-- (c) the operator has reasonable cause to believe that a crew member has received an overexposure while performing duties for the operator on board that aircraft [^key-b10a7d9c350a278422d51c609aada50c]....
+- (c) the operator has reasonable cause to believe that a crew member has received an overexposure while performing duties for the operator on board that aircraft [^c-b10a7d9c350a278422d51c609aada50c]....
 
-(3) The operator must take into account the results of the most recent risk assessments it has conducted in relation to an operation of aircraft [^key-f18ea3c2c7823200750503f30c31235e]... when managing the operation of aircraft [^key-f18ea3c2c7823200750503f30c31235e]..., with a view to minimising as far as reasonably possible the exposure of crew members to cosmic radiation.
+(3) The operator must take into account the results of the most recent risk assessments it has conducted in relation to an operation of aircraft [^c-f18ea3c2c7823200750503f30c31235e]... when managing the operation of aircraft [^c-f18ea3c2c7823200750503f30c31235e]..., with a view to minimising as far as reasonably possible the exposure of crew members to cosmic radiation.
 
 (4) Nothing in this article affects the obligations of an operator under regulation 3 of the Management of Health and Safety at Work Regulations 1999 (risk assessment) [^c23829801].
 
-### 7. Requirements to assess and inform[^key-b8959b5aebc3763dda75b12d78f6ca3b]
+### 7. Requirements to assess and inform[^c-b8959b5aebc3763dda75b12d78f6ca3b]
 
 (1) An operator must—
 
@@ -176,7 +176,7 @@ This Order may be cited as the Air Navigation (Cosmic Radiation: Protection of A
 
 (2) “**Assess**” and “**highly exposed**” have the same meaning as in Article 35 of the Directive.
 
-### 8. Protection of pregnant crew[^key-893fc97c04797e6ed1a0ba3729f1fbdf]
+### 8. Protection of pregnant crew[^c-893fc97c04797e6ed1a0ba3729f1fbdf]
 
 (1) An operator must inform all relevant crew members of the importance of giving early notification of pregnancy to the operator in view of the risks of exposure to the unborn child.
 
@@ -187,7 +187,7 @@ This Order may be cited as the Air Navigation (Cosmic Radiation: Protection of A
 
 (3) In this article, “**equivalent dose**” has the meaning given in Article 4(33) of the Directive.
 
-### 9. Monitoring of exposure to cosmic radiation: crew other than classified crew[^key-8d1fa9fc05fa9e6629f227ee8ecaa824]
+### 9. Monitoring of exposure to cosmic radiation: crew other than classified crew[^c-8d1fa9fc05fa9e6629f227ee8ecaa824]
 
 (1) An operator must ensure that the exposure to cosmic radiation of relevant crew members who are not classified crew members is monitored to such an extent as is sufficient to identify any crew members who should be classified under article 13.
 
@@ -205,22 +205,22 @@ This Order may be cited as the Air Navigation (Cosmic Radiation: Protection of A
 - (c) “**SIEVERT PN**” means the computer programme of the same name, developed by the Institut De Radioprotection et de Surete Nucleaire;
 - (d) “**PCAire**” means the computer programme of the same name, developed by PCAire Inc.
 
-### 10. Provision of information and training to crew[^key-534a4abeeda3b30aa46e1eaf64ce4533]
+### 10. Provision of information and training to crew[^c-534a4abeeda3b30aa46e1eaf64ce4533]
 
 (1) An operator must ensure that each relevant crew member is given appropriate information and training about—
 
-- (a) the health risks arising from exposure to cosmic radiation while performing the crew member's duties on board the aircraft [^key-a45d27f6260adb90b0367413bf86f45c]...;
+- (a) the health risks arising from exposure to cosmic radiation while performing the crew member's duties on board the aircraft [^c-a45d27f6260adb90b0367413bf86f45c]...;
 - (b) the operator's procedures for conducting a risk assessment under article 6; and
 - (c) the operator's procedures for assessing and monitoring crew exposure to cosmic radiation.
 
 (2) The operator must ensure that training under paragraph (1) is given—
 
-- (a) in relation to a crew member employed or otherwise engaged to perform duties as a crew member on an aircraft [^key-1bb26a2ab4c707a906fd9ed2d31069a5]... at the time that this Order comes into, as soon as reasonably practicable after this Order comes into force; and
-- (b) in all other cases, before the crew member performs any duties on board the aircraft [^key-726169224cbf1762063eb972d0131740]....
+- (a) in relation to a crew member employed or otherwise engaged to perform duties as a crew member on an aircraft [^c-1bb26a2ab4c707a906fd9ed2d31069a5]... at the time that this Order comes into, as soon as reasonably practicable after this Order comes into force; and
+- (b) in all other cases, before the crew member performs any duties on board the aircraft [^c-726169224cbf1762063eb972d0131740]....
 
-### 11. Overexposure[^key-7d8abb3ec2cc80ee8afa20081a9ff1a4]
+### 11. Overexposure[^c-7d8abb3ec2cc80ee8afa20081a9ff1a4]
 
-(1) Where an operator has reasonable cause to believe that a crew member has received an overexposure while performing duties for that operator on board an aircraft [^key-4ff2264bb502ccfbe729fa85c22cd810]..., the operator must immediately conduct an investigation in order to conclude beyond reasonable doubt that no overexposure has occurred (a “negative conclusion”).
+(1) Where an operator has reasonable cause to believe that a crew member has received an overexposure while performing duties for that operator on board an aircraft [^c-4ff2264bb502ccfbe729fa85c22cd810]..., the operator must immediately conduct an investigation in order to conclude beyond reasonable doubt that no overexposure has occurred (a “negative conclusion”).
 
 (2) If the operator is not able to reach a negative conclusion within fourteen days beginning with the date on which the investigation commenced (the “fourteen day period”), an overexposure is deemed to have occurred and the operator must—
 
@@ -256,16 +256,16 @@ of the results of the investigation and any determination as to the necessary me
   - (i) in relation to a classified crew member, that the crew member has received an effective dose of cosmic radiation that exceeds 20 mSv in a calendar year;
   - (ii) in relation to any other crew member, that the crew member has received an effective dose of cosmic radiation that exceeds 6 mSv in a calendar year.
 
-### 12. Continued working of overexposed crew[^key-4418935475ae2e6dff1a9d88f7593ac1]
+### 12. Continued working of overexposed crew[^c-4418935475ae2e6dff1a9d88f7593ac1]
 
-(1) No operator may employ or engage a crew member who has received an overexposure to perform duties on board an aircraft [^key-0af070a79b31514085492c4eae7cdb81]... that would render the crew member liable to receive an effective dose of cosmic radiation that exceeds X mSv for the remainder of the calendar year.
+(1) No operator may employ or engage a crew member who has received an overexposure to perform duties on board an aircraft [^c-0af070a79b31514085492c4eae7cdb81]... that would render the crew member liable to receive an effective dose of cosmic radiation that exceeds X mSv for the remainder of the calendar year.
 
 (2) In paragraph (1), “X” is the lower of—
 
 - (a) the dose limit applicable to the crew member divided by 365 and multiplied by the number of days in the remainder of the calendar year; and
 - (b) the dose limit applicable to the crew member minus the effective dose of radiation received by the crew member for the calendar year to the date on which the crew member received the overexposure, excluding the dose resulting in the overexposure.
 
-(3) An operator employing or engaging a crew member who has received an overexposure to perform duties on board an aircraft [^key-6cba9d7bab06e84ae92c3229795eab47]... must inform the crew member of the dose limit applicable to the crew member.
+(3) An operator employing or engaging a crew member who has received an overexposure to perform duties on board an aircraft [^c-6cba9d7bab06e84ae92c3229795eab47]... must inform the crew member of the dose limit applicable to the crew member.
 
 (4) Where an overexposure received by a crew member was caused by exceptional circumstances beyond the control of the operator, the dose resulting in the overexposure is not to be included in any assessment of the crew member's effective dose for the purposes of article 5 (prohibition on exposure) and article 26 (offences and penalties).
 
@@ -280,7 +280,7 @@ of the results of the investigation and any determination as to the necessary me
 
 ## PART 3 — Provisions relating to classified crew
 
-### 13. Classification of crew[^key-97a173e2605df521587a27b09abf3f69]
+### 13. Classification of crew[^c-97a173e2605df521587a27b09abf3f69]
 
 (1) An operator may classify a crew member for the purpose of article 5(3) and a crew member classified under this article is referred to in this Order as a “**classified crew member**”.
 
@@ -304,7 +304,7 @@ of the results of the investigation and any determination as to the necessary me
   - (ii) fit, subject to certain conditions, to work as a classified crew member; and
 - (b) in a case within sub-paragraph (a)(ii), the conditions are not complied with.
 
-### 14. Medical surveillance[^key-6ce32a8b5130f87f5ba234787f55a10e]
+### 14. Medical surveillance[^c-6ce32a8b5130f87f5ba234787f55a10e]
 
 (1) An operator must ensure that—
 
@@ -335,7 +335,7 @@ of the results of the investigation and any determination as to the necessary me
 
 (7) An operator must allow a doctor access to any information the doctor may reasonably require in relation to the doctor's functions under this article.
 
-### 15. Health Records[^key-43e28e8813c736d8323f4ecb8da03c69]
+### 15. Health Records[^c-43e28e8813c736d8323f4ecb8da03c69]
 
 (1) An operator must ensure that a health record is created in respect of each classified crew member.
 
@@ -346,7 +346,7 @@ of the results of the investigation and any determination as to the necessary me
 - (a) maintained while the crew member to whom it relates is classified by the operator as a classified crew member; and
 - (b) retained until the later of—
   - (i) the 75th anniversary of the birth of the crew member (whether or not the crew member survives until that date); and
-  - (ii) the 30th anniversary of the date on which the crew member was last exposed to cosmic radiation in the course of performing duties for the operator on board an aircraft [^key-be5c47cc1e4b0cbe882b4bfcd92ec441]....
+  - (ii) the 30th anniversary of the date on which the crew member was last exposed to cosmic radiation in the course of performing duties for the operator on board an aircraft [^c-be5c47cc1e4b0cbe882b4bfcd92ec441]....
 
 (4) A crew member may request a copy of their health record.
 
@@ -354,7 +354,7 @@ of the results of the investigation and any determination as to the necessary me
 
 (6) An operator must, within a reasonable time of receiving a request under paragraph (4) or (5), ensure that a copy of the health record is produced to the crew member or, as the case may be, doctor.
 
-### 16. Monitoring of exposure to cosmic radiation: classified crew[^key-6b8bed13d23d99ab01a85a7a30cf3f23]
+### 16. Monitoring of exposure to cosmic radiation: classified crew[^c-6b8bed13d23d99ab01a85a7a30cf3f23]
 
 (1) An operator must ensure that the exposure to cosmic radiation of each classified crew member is individually monitored.
 
@@ -367,7 +367,7 @@ of the results of the investigation and any determination as to the necessary me
 
 (3) In this article, “CARI-7, “**EPCARD**”, “**SIEVERT PN**” and “**PCAire**” have the same meaning as in Article 9.
 
-### 17. Records of exposure to cosmic radiation of classified crew[^key-7c77017457abb18b3cd1443f5daeabd2]
+### 17. Records of exposure to cosmic radiation of classified crew[^c-7c77017457abb18b3cd1443f5daeabd2]
 
 (1) An operator must maintain a record of all monitoring undertaken under article 16 (monitoring of exposure of classified crew members).
 
@@ -384,18 +384,18 @@ of the results of the investigation and any determination as to the necessary me
 (3) An operator must ensure that a record under paragraph (1) is retained until the later of—
 
 - (a) the 75th anniversary of the birth of the crew member to whom the record relates (whether or not the crew member survives until that date); and
-- (b) the 30th anniversary of the date on which the crew member was last exposed to cosmic radiation in the course of performing duties for the operator on board an aircraft [^key-7a1fe5eb096439d326114ee2773ce42d]....
+- (b) the 30th anniversary of the date on which the crew member was last exposed to cosmic radiation in the course of performing duties for the operator on board an aircraft [^c-7a1fe5eb096439d326114ee2773ce42d]....
 
 (4) On or before 31st March of each calendar year the operator must submit to the CAA a copy of all records under paragraph (1) relating to the previous calendar year.
 
-### 18. Access to records of individual exposure to cosmic radiation[^key-1aed3f60bc9b2ef50c50bc16185e8a6a]
+### 18. Access to records of individual exposure to cosmic radiation[^c-1aed3f60bc9b2ef50c50bc16185e8a6a]
 
 (1) An interested person may request that an operator cause to be produced to the interested person a copy of the record required to be maintained under article 17(1) (records of exposure to cosmic radiation of classified crew) in relation to a crew member specified in that request.
 
 (2) “**Interested person**” means—
 
 - (a) the crew member to whom the record relates;
-- (b) another operator (“O”), or a person other than O employing or otherwise engaging the crew member to perform duties for O on board an aircraft [^key-244ac7a7cd4c2037045453baae4327a2]..., where the request is made for the purpose of complying with O's requirements in relation to the crew member under this Order;
+- (b) another operator (“O”), or a person other than O employing or otherwise engaging the crew member to perform duties for O on board an aircraft [^c-244ac7a7cd4c2037045453baae4327a2]..., where the request is made for the purpose of complying with O's requirements in relation to the crew member under this Order;
 - (c) any doctor who makes the request—
   - (i) in relation to an examination or health review the doctor is due to perform, or has performed, in accordance with article 14 of the crew member to whom the record relates; and
   - (ii) in connection with making a determination as mentioned in paragraph (2) of that article.
@@ -404,7 +404,7 @@ of the results of the investigation and any determination as to the necessary me
 
 ## PART 4 — Instruction of experts
 
-### 19. Instruction of experts[^key-ddda6c7cc3a875751d71ec5f36537535]
+### 19. Instruction of experts[^c-ddda6c7cc3a875751d71ec5f36537535]
 
 (1) An operator must instruct a suitably qualified person to review the processes implemented by the operator to comply with this Order.
 
@@ -417,11 +417,11 @@ of the results of the investigation and any determination as to the necessary me
 
 (4) An operator must provide the person instructed under paragraph (1) with any information and facilities that the person reasonably requests for the purpose of performing their review.
 
-(5) “**Regulated duties**” means duties of a crew member on board an aircraft [^key-2bd62b455bc8e27459a7509b92520279]... that would expose the person performing the duties to an effective dose of cosmic radiation that exceeds 1 mSv in a calendar year.
+(5) “**Regulated duties**” means duties of a crew member on board an aircraft [^c-2bd62b455bc8e27459a7509b92520279]... that would expose the person performing the duties to an effective dose of cosmic radiation that exceeds 1 mSv in a calendar year.
 
 ## PART 5 — Inspections, documents, records and information
 
-### 20. Provision of information, documents and records and powers of the CAA[^key-6434483aabb591a80983463c8d4f3c66]
+### 20. Provision of information, documents and records and powers of the CAA[^c-6434483aabb591a80983463c8d4f3c66]
 
 (1) The CAA may by notice in writing require any operator to—
 
@@ -436,7 +436,7 @@ of the results of the investigation and any determination as to the necessary me
 
 (3) The CAA may inspect and copy any document or record which the CAA may require the operator to produce under paragraph (1).
 
-### 21. Right of access to aerodromes and other places[^key-c4fc1a28b661df47390141d3ab08916e]
+### 21. Right of access to aerodromes and other places[^c-c4fc1a28b661df47390141d3ab08916e]
 
 (1) The CAA has the right of access at all reasonable times to any of the places mentioned in paragraph (2) in order to—
 
@@ -448,25 +448,25 @@ of the results of the investigation and any determination as to the necessary me
 - (a) any aerodrome;
 - (b) any place where an aircraft has landed;
 - (c) any premises for the time being controlled by any operator;
-- (d)[^key-276e1f7df43e875a163012ff92f46fb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-010a8ce6b22683bab4f3fb11f5265b83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-276e1f7df43e875a163012ff92f46fb8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-010a8ce6b22683bab4f3fb11f5265b83] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) But access to a relevant area may be obtained only with the permission of the person in charge of the relevant area.
 
-(4) “**Relevant area**” means any place where an aircraft has landed , or an aerodrome,[^key-f2d1e16124dea871b40cb639d6fbe799] which is in the occupation of a visiting force or any department of the government of the United Kingdom.
+(4) “**Relevant area**” means any place where an aircraft has landed , or an aerodrome,[^c-f2d1e16124dea871b40cb639d6fbe799] which is in the occupation of a visiting force or any department of the government of the United Kingdom.
 
-### 22. Prohibitions in relation to records[^key-4e247ccb8b7b1abda27a49bb28845bfd]
+### 22. Prohibitions in relation to records[^c-4e247ccb8b7b1abda27a49bb28845bfd]
 
 A person must not—
 
 - (a) knowingly make, or procure or assist in the making of, any false entry in or material omission from a health record under article 15 (health records) or a record maintained under article 17 (records of exposure to cosmic radiation of classified crew); or
 - (b) destroy any such record during the period for which it is required under this Order to be retained.
 
-### 23. Duty on the CAA to communicate findings[^key-f82f4c13d5762327b239625e1f684051]
+### 23. Duty on the CAA to communicate findings[^c-f82f4c13d5762327b239625e1f684051]
 
 The CAA must communicate the findings of any inspection under this Order to the operator to whom the inspection relates within a reasonable period of the inspection being completed.
 
-### 24. CAA's power to determine an operator as not authorised[^key-5c530320fa9f428644cb35a5f84dfc8c]
+### 24. CAA's power to determine an operator as not authorised[^c-5c530320fa9f428644cb35a5f84dfc8c]
 
 (1) The CAA may determine that an operator is not authorised for the purposes of this Order.
 
@@ -486,13 +486,13 @@ The CAA must communicate the findings of any inspection under this Order to the 
 
 (6) Such an application must be made in writing and include evidence that the operator did not fail to comply, is complying, or, as the case may be, substantially complying, with its duties under this Order.
 
-### 25. Obstruction of the CAA[^key-ac193b60ebf8e60e9ce46dbf3695c7db]
+### 25. Obstruction of the CAA[^c-ac193b60ebf8e60e9ce46dbf3695c7db]
 
 A person must not intentionally obstruct or impede the CAA while the CAA is exercising a power under this Order.
 
 ## PART 6 — Offences and penalties
 
-### 26. Offences and penalties[^key-9fff864452c2ff9a11a6ee07d68f9ec9]
+### 26. Offences and penalties[^c-9fff864452c2ff9a11a6ee07d68f9ec9]
 
 (1) A person who contravenes a provision specified in the table in paragraph (2) is guilty of an offence and liable—
 
@@ -526,7 +526,7 @@ A person must not intentionally obstruct or impede the CAA while the CAA is exer
 
 ## PART 7 — Transitional provision and revocation
 
-### 27. Transitional provision relating to part of calendar year after this Order comes into force[^key-cac30b943540bb0ab9d03fc1567b60b3]
+### 27. Transitional provision relating to part of calendar year after this Order comes into force[^c-cac30b943540bb0ab9d03fc1567b60b3]
 
 (1) For the period beginning with the day on which this Order comes into force and ending with 31st December 2019, this Order applies with the modifications set out in this article.
 
@@ -555,7 +555,7 @@ A person must not intentionally obstruct or impede the CAA while the CAA is exer
   - (ii) in paragraph (ii)(aa), for “20 mSv” there were substituted “ 8.05 mSv ”;
 - (d) in sub-paragraph (ii)(bb), for “6 mSv” there were substituted “ 2.41 mSv ”.
 
-### 28. Revocation and saving provision[^key-86155a86f4ce94b57aa101e7578cff32]
+### 28. Revocation and saving provision[^c-86155a86f4ce94b57aa101e7578cff32]
 
 (1) The following provisions of the Air Navigation Order 2016 are revoked—
 
@@ -571,7 +571,7 @@ A person must not intentionally obstruct or impede the CAA while the CAA is exer
 
 ## PART 8 — Review
 
-### 29. Review[^key-3cfe9745ddc62b7252cff70ff7d4c878]
+### 29. Review[^c-3cfe9745ddc62b7252cff70ff7d4c878]
 
 (1) The Secretary of State must from time to time—
 
@@ -597,11 +597,11 @@ Richard Tilbrook
 
 Clerk of the Privy Council
 
-## SCHEDULE — Information to be included in a health record[^key-941642b000dc8ac421c83871cd90c204]
+## SCHEDULE — Information to be included in a health record[^c-941642b000dc8ac421c83871cd90c204]
 
 Article 15(2)
 
-[^key-941642b000dc8ac421c83871cd90c204]
+[^c-941642b000dc8ac421c83871cd90c204]
 
 The information that must be included in a health record is—
 
@@ -694,146 +694,146 @@ An impact assessment has not been produced for this instrument as it has no sign
 
 [^c23829731]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and by section 3 of, and Part I of the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). Paragraph 1A was inserted by section 28 of the [Legislative and Regulatory Reform Act 2006 (c. 51)](https://www.legislation.gov.uk/ukpga/2006/51) and amended by paragraph 1 of Schedule 1 to the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7) and [S.I. 2007/1388](https://www.legislation.gov.uk/uksi/2007/1388).
 
-[^key-c7f87cef3fa6f257654783447865fd27]: Commencement: Art. 1 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-c7f87cef3fa6f257654783447865fd27]: Commencement: Art. 1 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-5206f6db6b6846c01bb639463d212601]: Commencement: Art. 2 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-5206f6db6b6846c01bb639463d212601]: Commencement: Art. 2 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
 [^c23829741]: Marginal citation: [S.I. 2016/765](https://www.legislation.gov.uk/uksi/2016/765).
 
-[^key-27bc3ca3c0fc7cad3666ebaa04aac10f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2019/1115/article/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 2(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/2/a)
+[^c-27bc3ca3c0fc7cad3666ebaa04aac10f]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2019/1115/article/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 2(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/2/a)
 
 [^c23829751]: Marginal citation: [S.I. 2017/1075](https://www.legislation.gov.uk/uksi/2017/1075), to which there are amendments not relevant to this Order.
 
-[^key-92609a2838a0590a526ca0f55b775709]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2019/1115/article/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 2(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/2/b)
+[^c-92609a2838a0590a526ca0f55b775709]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2019/1115/article/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 2(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/2/b)
 
 [^c23829761]: Marginal citation: OJ No L 13/1, 17.1.2014, p. 1.
 
-[^key-a1debd4a039cabc2862b631adaead4d5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2019/1115/article/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 2(c)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/2/c)
+[^c-a1debd4a039cabc2862b631adaead4d5]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2019/1115/article/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 2(c)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/2/c)
 
-[^key-8fbd537f35ec1af44218c3e7c6087926]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2019/1115/article/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 2(d)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/2/d)
+[^c-8fbd537f35ec1af44218c3e7c6087926]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2019/1115/article/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 2(d)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/2/d)
 
-[^key-aa3daf74762e567169dd519f91926156]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2019/1115/article/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 2(e)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/2/e)
+[^c-aa3daf74762e567169dd519f91926156]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2019/1115/article/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 2(e)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/2/e)
 
-[^key-5626363b42688d0b202fb3ac94b6b473]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2019/1115/article/2/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 2(f)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/2/f)
+[^c-5626363b42688d0b202fb3ac94b6b473]: Textual amendment: Words in [art. 2(2)](https://www.legislation.gov.uk/uksi/2019/1115/article/2/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 2(f)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/2/f)
 
-[^key-2595f19fc23273b1e5d29f30822566be]: Commencement: Art. 3 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-2595f19fc23273b1e5d29f30822566be]: Commencement: Art. 3 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-9d671482904412efa5dd6ec4e8cc551e]: Textual amendment: [Art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2019/1115/article/3/1/b) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 3(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/3/a)
+[^c-9d671482904412efa5dd6ec4e8cc551e]: Textual amendment: [Art. 3(1)(b)](https://www.legislation.gov.uk/uksi/2019/1115/article/3/1/b) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 3(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/3/a)
 
-[^key-8bc009e9ae9ac303361147b1688c9253]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2019/1115/article/3/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 3(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/3/b)
+[^c-8bc009e9ae9ac303361147b1688c9253]: Textual amendment: Words in [art. 3(2)](https://www.legislation.gov.uk/uksi/2019/1115/article/3/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 3(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/3/b)
 
-[^key-c2cc252d7855c7f09171b3dda6b7cb6e]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2019/1115/article/3/3) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 3(c)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/3/c)
+[^c-c2cc252d7855c7f09171b3dda6b7cb6e]: Textual amendment: Words in [art. 3(3)](https://www.legislation.gov.uk/uksi/2019/1115/article/3/3) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 3(c)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/3/c)
 
-[^key-cbb45cdaaa03d04f3a807e9edf5debed]: Commencement: Art. 4 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-cbb45cdaaa03d04f3a807e9edf5debed]: Commencement: Art. 4 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-bfc1f181c3553bd042140ee7161c0436]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2019/1115/article/4/1) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 4(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/4/a)
+[^c-bfc1f181c3553bd042140ee7161c0436]: Textual amendment: Words in [art. 4(1)](https://www.legislation.gov.uk/uksi/2019/1115/article/4/1) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 4(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/4/a)
 
-[^key-43c70650be5877b236b5a8c32808a4aa]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2019/1115/article/4/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 4(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/4/b)
+[^c-43c70650be5877b236b5a8c32808a4aa]: Textual amendment: Words in [art. 4(2)](https://www.legislation.gov.uk/uksi/2019/1115/article/4/2) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 4(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/4/b)
 
-[^key-6eac99dff0ab153be89b80c0958d2d77]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2019/1115/article/4/3) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 4(c)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/4/c)
+[^c-6eac99dff0ab153be89b80c0958d2d77]: Textual amendment: Words in [art. 4(3)](https://www.legislation.gov.uk/uksi/2019/1115/article/4/3) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 4(c)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/4/c)
 
-[^key-23ffb3eef26e02450ebbf8da56999a57]: Commencement: Art. 5 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-23ffb3eef26e02450ebbf8da56999a57]: Commencement: Art. 5 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-bf73842bc015430c0fe0f4aa6c8ab84c]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2019/1115/article/5/1) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 5(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/5/a)
+[^c-bf73842bc015430c0fe0f4aa6c8ab84c]: Textual amendment: Words in [art. 5(1)](https://www.legislation.gov.uk/uksi/2019/1115/article/5/1) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 5(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/5/a)
 
-[^key-78420d7f8300aeb2d498c166a3385401]: Textual amendment: Words in [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2019/1115/article/5/2/a) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 5(b)(i)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/5/b/i)
+[^c-78420d7f8300aeb2d498c166a3385401]: Textual amendment: Words in [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2019/1115/article/5/2/a) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 5(b)(i)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/5/b/i)
 
-[^key-ae44986f86050e3c1f1f57af9ab372eb]: Textual amendment: Word in [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2019/1115/article/5/2/a) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 5(b)(ii)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/5/b/ii)
+[^c-ae44986f86050e3c1f1f57af9ab372eb]: Textual amendment: Word in [art. 5(2)(a)](https://www.legislation.gov.uk/uksi/2019/1115/article/5/2/a) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 5(b)(ii)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/5/b/ii)
 
-[^key-4d09d011a6ce9062960d49358644c656]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2019/1115/article/5/3) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 5(c)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/5/c)
+[^c-4d09d011a6ce9062960d49358644c656]: Textual amendment: Words in [art. 5(3)](https://www.legislation.gov.uk/uksi/2019/1115/article/5/3) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 5(c)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/5/c)
 
-[^key-b11af8253d474f5c704217cfc5083ade]: Textual amendment: Words in [art. 5(4)](https://www.legislation.gov.uk/uksi/2019/1115/article/5/4) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 5(d)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/5/d)
+[^c-b11af8253d474f5c704217cfc5083ade]: Textual amendment: Words in [art. 5(4)](https://www.legislation.gov.uk/uksi/2019/1115/article/5/4) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 5(d)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/5/d)
 
 [^c23829781]: Marginal citation: OJ L 311, 25.11.2011, p.1.
 
 [^c23829791]: Marginal citation: OJ L 296, 25.10.2012, p.1.
 
-[^key-f012783846b404b8fbd45b6689717549]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/2019/1115/article/5/5) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 5(e)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/5/e)
+[^c-f012783846b404b8fbd45b6689717549]: Textual amendment: Words in [art. 5(5)](https://www.legislation.gov.uk/uksi/2019/1115/article/5/5) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 5(e)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/5/e)
 
-[^key-17be5bf707f3a8b1f625c02fd04028f1]: Commencement: Art. 6 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-17be5bf707f3a8b1f625c02fd04028f1]: Commencement: Art. 6 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-4af6f355096ea9680f704c52d82afd29]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2019/1115/article/6/1) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 6(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/6/a)
+[^c-4af6f355096ea9680f704c52d82afd29]: Textual amendment: Words in [art. 6(1)](https://www.legislation.gov.uk/uksi/2019/1115/article/6/1) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 6(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/6/a)
 
-[^key-b10a7d9c350a278422d51c609aada50c]: Textual amendment: Words in [art. 6(2)(c)](https://www.legislation.gov.uk/uksi/2019/1115/article/6/2/c) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 6(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/6/b)
+[^c-b10a7d9c350a278422d51c609aada50c]: Textual amendment: Words in [art. 6(2)(c)](https://www.legislation.gov.uk/uksi/2019/1115/article/6/2/c) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 6(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/6/b)
 
-[^key-f18ea3c2c7823200750503f30c31235e]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/uksi/2019/1115/article/6/3) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 6(c)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/6/c)
+[^c-f18ea3c2c7823200750503f30c31235e]: Textual amendment: Words in [art. 6(3)](https://www.legislation.gov.uk/uksi/2019/1115/article/6/3) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 6(c)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/6/c)
 
 [^c23829801]: Marginal citation: [S.I. 1999/3242](https://www.legislation.gov.uk/uksi/1999/3242), amended by [S.I. 2003/2457](https://www.legislation.gov.uk/uksi/2003/2457), 2005/1541, 2006/457, 2015/21, 2015/1637.
 
-[^key-b8959b5aebc3763dda75b12d78f6ca3b]: Commencement: Art. 7 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-b8959b5aebc3763dda75b12d78f6ca3b]: Commencement: Art. 7 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-893fc97c04797e6ed1a0ba3729f1fbdf]: Commencement: Art. 8 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-893fc97c04797e6ed1a0ba3729f1fbdf]: Commencement: Art. 8 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-8d1fa9fc05fa9e6629f227ee8ecaa824]: Commencement: Art. 9 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-8d1fa9fc05fa9e6629f227ee8ecaa824]: Commencement: Art. 9 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-534a4abeeda3b30aa46e1eaf64ce4533]: Commencement: Art. 10 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-534a4abeeda3b30aa46e1eaf64ce4533]: Commencement: Art. 10 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-a45d27f6260adb90b0367413bf86f45c]: Textual amendment: Words in [art. 10(1)(a)](https://www.legislation.gov.uk/uksi/2019/1115/article/10/1/a) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 7(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/7/a)
+[^c-a45d27f6260adb90b0367413bf86f45c]: Textual amendment: Words in [art. 10(1)(a)](https://www.legislation.gov.uk/uksi/2019/1115/article/10/1/a) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 7(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/7/a)
 
-[^key-1bb26a2ab4c707a906fd9ed2d31069a5]: Textual amendment: Words in [art. 10(2)(a)](https://www.legislation.gov.uk/uksi/2019/1115/article/10/2/a) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 7(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/7/b)
+[^c-1bb26a2ab4c707a906fd9ed2d31069a5]: Textual amendment: Words in [art. 10(2)(a)](https://www.legislation.gov.uk/uksi/2019/1115/article/10/2/a) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 7(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/7/b)
 
-[^key-726169224cbf1762063eb972d0131740]: Textual amendment: Words in [art. 10(2)(b)](https://www.legislation.gov.uk/uksi/2019/1115/article/10/2/b) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 7(c)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/7/c)
+[^c-726169224cbf1762063eb972d0131740]: Textual amendment: Words in [art. 10(2)(b)](https://www.legislation.gov.uk/uksi/2019/1115/article/10/2/b) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 7(c)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/7/c)
 
-[^key-7d8abb3ec2cc80ee8afa20081a9ff1a4]: Commencement: Art. 11 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-7d8abb3ec2cc80ee8afa20081a9ff1a4]: Commencement: Art. 11 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-4ff2264bb502ccfbe729fa85c22cd810]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/2019/1115/article/11/1) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/8)
+[^c-4ff2264bb502ccfbe729fa85c22cd810]: Textual amendment: Words in [art. 11(1)](https://www.legislation.gov.uk/uksi/2019/1115/article/11/1) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 8](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/8)
 
-[^key-4418935475ae2e6dff1a9d88f7593ac1]: Commencement: Art. 12 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-4418935475ae2e6dff1a9d88f7593ac1]: Commencement: Art. 12 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-0af070a79b31514085492c4eae7cdb81]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2019/1115/article/12/1) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 9(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/9/a)
+[^c-0af070a79b31514085492c4eae7cdb81]: Textual amendment: Words in [art. 12(1)](https://www.legislation.gov.uk/uksi/2019/1115/article/12/1) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 9(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/9/a)
 
-[^key-6cba9d7bab06e84ae92c3229795eab47]: Textual amendment: Words in [art. 12(3)](https://www.legislation.gov.uk/uksi/2019/1115/article/12/3) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 9(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/9/b)
+[^c-6cba9d7bab06e84ae92c3229795eab47]: Textual amendment: Words in [art. 12(3)](https://www.legislation.gov.uk/uksi/2019/1115/article/12/3) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 9(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/9/b)
 
-[^key-97a173e2605df521587a27b09abf3f69]: Commencement: Art. 13 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-97a173e2605df521587a27b09abf3f69]: Commencement: Art. 13 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-6ce32a8b5130f87f5ba234787f55a10e]: Commencement: Art. 14 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-6ce32a8b5130f87f5ba234787f55a10e]: Commencement: Art. 14 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-43e28e8813c736d8323f4ecb8da03c69]: Commencement: Art. 15 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-43e28e8813c736d8323f4ecb8da03c69]: Commencement: Art. 15 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-be5c47cc1e4b0cbe882b4bfcd92ec441]: Textual amendment: Words in [art. 15(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1115/article/15/3/b/ii) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/10)
+[^c-be5c47cc1e4b0cbe882b4bfcd92ec441]: Textual amendment: Words in [art. 15(3)(b)(ii)](https://www.legislation.gov.uk/uksi/2019/1115/article/15/3/b/ii) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 10](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/10)
 
-[^key-6b8bed13d23d99ab01a85a7a30cf3f23]: Commencement: Art. 16 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-6b8bed13d23d99ab01a85a7a30cf3f23]: Commencement: Art. 16 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-7c77017457abb18b3cd1443f5daeabd2]: Commencement: Art. 17 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-7c77017457abb18b3cd1443f5daeabd2]: Commencement: Art. 17 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-7a1fe5eb096439d326114ee2773ce42d]: Textual amendment: Words in [art. 17(3)(b)](https://www.legislation.gov.uk/uksi/2019/1115/article/17/3/b) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 11](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/11)
+[^c-7a1fe5eb096439d326114ee2773ce42d]: Textual amendment: Words in [art. 17(3)(b)](https://www.legislation.gov.uk/uksi/2019/1115/article/17/3/b) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 11](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/11)
 
-[^key-1aed3f60bc9b2ef50c50bc16185e8a6a]: Commencement: Art. 18 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-1aed3f60bc9b2ef50c50bc16185e8a6a]: Commencement: Art. 18 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-244ac7a7cd4c2037045453baae4327a2]: Textual amendment: Words in [art. 18(2)(b)](https://www.legislation.gov.uk/uksi/2019/1115/article/18/2/b) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/12)
+[^c-244ac7a7cd4c2037045453baae4327a2]: Textual amendment: Words in [art. 18(2)(b)](https://www.legislation.gov.uk/uksi/2019/1115/article/18/2/b) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 12](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/12)
 
-[^key-ddda6c7cc3a875751d71ec5f36537535]: Commencement: Art. 19 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-ddda6c7cc3a875751d71ec5f36537535]: Commencement: Art. 19 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-2bd62b455bc8e27459a7509b92520279]: Textual amendment: Words in [art. 19(5)](https://www.legislation.gov.uk/uksi/2019/1115/article/19/5) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 13](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/13)
+[^c-2bd62b455bc8e27459a7509b92520279]: Textual amendment: Words in [art. 19(5)](https://www.legislation.gov.uk/uksi/2019/1115/article/19/5) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 13](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/13)
 
-[^key-6434483aabb591a80983463c8d4f3c66]: Commencement: Art. 20 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-6434483aabb591a80983463c8d4f3c66]: Commencement: Art. 20 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-c4fc1a28b661df47390141d3ab08916e]: Commencement: Art. 21 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-c4fc1a28b661df47390141d3ab08916e]: Commencement: Art. 21 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-276e1f7df43e875a163012ff92f46fb8]: Textual amendment: [Art. 21(2)(d)](https://www.legislation.gov.uk/uksi/2019/1115/article/21/2/d) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 14(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/14/a)
+[^c-276e1f7df43e875a163012ff92f46fb8]: Textual amendment: [Art. 21(2)(d)](https://www.legislation.gov.uk/uksi/2019/1115/article/21/2/d) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 14(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/14/a)
 
-[^key-010a8ce6b22683bab4f3fb11f5265b83]: Textual amendment: [Art. 21(2)(e)](https://www.legislation.gov.uk/uksi/2019/1115/article/21/2/e) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 14(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/14/a)
+[^c-010a8ce6b22683bab4f3fb11f5265b83]: Textual amendment: [Art. 21(2)(e)](https://www.legislation.gov.uk/uksi/2019/1115/article/21/2/e) omitted (29.7.2021) by virtue of [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 14(a)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/14/a)
 
-[^key-f2d1e16124dea871b40cb639d6fbe799]: Textual amendment: Words in [art. 21(4)](https://www.legislation.gov.uk/uksi/2019/1115/article/21/4) substituted (29.7.2021) by [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 14(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/14/b)
+[^c-f2d1e16124dea871b40cb639d6fbe799]: Textual amendment: Words in [art. 21(4)](https://www.legislation.gov.uk/uksi/2019/1115/article/21/4) substituted (29.7.2021) by [The Space Industry Regulations 2021 (S.I. 2021/792)](https://www.legislation.gov.uk/uksi/2021/792), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1), [Sch. 7 para. 14(b)](https://www.legislation.gov.uk/uksi/2021/792/schedule/7/paragraph/14/b)
 
-[^key-4e247ccb8b7b1abda27a49bb28845bfd]: Commencement: Art. 22 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-4e247ccb8b7b1abda27a49bb28845bfd]: Commencement: Art. 22 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-f82f4c13d5762327b239625e1f684051]: Commencement: Art. 23 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-f82f4c13d5762327b239625e1f684051]: Commencement: Art. 23 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-5c530320fa9f428644cb35a5f84dfc8c]: Commencement: Art. 24 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-5c530320fa9f428644cb35a5f84dfc8c]: Commencement: Art. 24 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-ac193b60ebf8e60e9ce46dbf3695c7db]: Commencement: Art. 25 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-ac193b60ebf8e60e9ce46dbf3695c7db]: Commencement: Art. 25 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-9fff864452c2ff9a11a6ee07d68f9ec9]: Commencement: Art. 26 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-9fff864452c2ff9a11a6ee07d68f9ec9]: Commencement: Art. 26 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-cac30b943540bb0ab9d03fc1567b60b3]: Commencement: Art. 27 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-cac30b943540bb0ab9d03fc1567b60b3]: Commencement: Art. 27 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
-[^key-86155a86f4ce94b57aa101e7578cff32]: Commencement: Art. 28 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-86155a86f4ce94b57aa101e7578cff32]: Commencement: Art. 28 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
 [^c23829811]: Marginal citation: [S.I. 2000/1380](https://www.legislation.gov.uk/uksi/2000/1380).
 
-[^key-3cfe9745ddc62b7252cff70ff7d4c878]: Commencement: Art. 29 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-3cfe9745ddc62b7252cff70ff7d4c878]: Commencement: Art. 29 in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
 
 [^c23829821]: Marginal citation: [2015 c. 26](https://www.legislation.gov.uk/ukpga/2015/26). Section 30(3) was amended by section 19 of the [Enterprise Act 2016 (c. 12)](https://www.legislation.gov.uk/ukpga/2016/12) and paragraph 36 of Schedule 8 to the [European Union (Withdrawal) Act 2018 (c. 16)](https://www.legislation.gov.uk/ukpga/2018/16) subject to general consequential provision specified in Part 1 of Schedule 8 to that Act and transitional provisions specified in [S.I. 2015/808](https://www.legislation.gov.uk/uksi/2015/808).
 
-[^key-941642b000dc8ac421c83871cd90c204]: Commencement: Sch. in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)
+[^c-941642b000dc8ac421c83871cd90c204]: Commencement: Sch. in force at 7.8.2019, see [art. 1](https://www.legislation.gov.uk/uksi/2019/1115/article/1)

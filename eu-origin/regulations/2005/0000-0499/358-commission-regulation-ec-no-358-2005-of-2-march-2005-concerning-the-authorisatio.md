@@ -39,36 +39,36 @@ concerning the authorisations without a time limit of certain additives and the 
 
 (Text with EEA relevance) (revoked)
 
-[^key-c861157ed1552c5b18912a80992a3666]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c861157ed1552c5b18912a80992a3666]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-c861157ed1552c5b18912a80992a3666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-c861157ed1552c5b18912a80992a3666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-c861157ed1552c5b18912a80992a3666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-c861157ed1552c5b18912a80992a3666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-c861157ed1552c5b18912a80992a3666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-c861157ed1552c5b18912a80992a3666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-c861157ed1552c5b18912a80992a3666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-c861157ed1552c5b18912a80992a3666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-c861157ed1552c5b18912a80992a3666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-c861157ed1552c5b18912a80992a3666] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c861157ed1552c5b18912a80992a3666]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c861157ed1552c5b18912a80992a3666]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX I[^key-c861157ed1552c5b18912a80992a3666]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX II[^key-c861157ed1552c5b18912a80992a3666]
+## ANNEX I[^c-c861157ed1552c5b18912a80992a3666]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX III[^key-c861157ed1552c5b18912a80992a3666]
+## ANNEX II[^c-c861157ed1552c5b18912a80992a3666]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX IV[^key-c861157ed1552c5b18912a80992a3666]
+## ANNEX III[^c-c861157ed1552c5b18912a80992a3666]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX IV[^c-c861157ed1552c5b18912a80992a3666]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c861157ed1552c5b18912a80992a3666]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))
+[^c-c861157ed1552c5b18912a80992a3666]: Textual amendment: Regulation revoked (E.W.S) (1.4.2025) by [The Food and Feed (Regulated Products) (Amendment, Revocation, Consequential and Transitional Provision) Regulations 2025 (S.I. 2025/361)](https://www.legislation.gov.uk/uksi/2025/361), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2025/361/regulation/1/2)[, Sch. 5 para. 3](https://www.legislation.gov.uk/uksi/2025/361/schedule/5/paragraph/3) (with [reg. 23](https://www.legislation.gov.uk/uksi/2025/361/regulation/23))

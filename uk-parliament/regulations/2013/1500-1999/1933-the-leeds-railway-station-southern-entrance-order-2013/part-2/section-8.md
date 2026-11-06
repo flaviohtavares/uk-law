@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 8. Stopping up of streets[^key-248553c91e5d837db31fecd4ee12cfb8]
+## 8. Stopping up of streets[^c-248553c91e5d837db31fecd4ee12cfb8]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-248553c91e5d837db31fecd4ee12cfb8]: Commencement: Art. 8 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)
+[^c-248553c91e5d837db31fecd4ee12cfb8]: Commencement: Art. 8 in force at 22.8.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/1933/article/1)

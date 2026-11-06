@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Civil Evidence Act (Northern Ireland) 1971[^key-19d87a70cd7acc62206ff1c064d3b048]
+## 129. Civil Evidence Act (Northern Ireland) 1971[^c-19d87a70cd7acc62206ff1c064d3b048]
 
 *Extent: N.I.*
 
@@ -31,7 +31,7 @@ summary: ''
 
 ## Annotations
 
-[^key-19d87a70cd7acc62206ff1c064d3b048]: Commencement: Reg. 129 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-19d87a70cd7acc62206ff1c064d3b048]: Commencement: Reg. 129 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00212]: Footnote: [1971 c. 36](https://www.legislation.gov.uk/ukpga/1971/36).
 

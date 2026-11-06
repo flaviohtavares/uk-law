@@ -32,8 +32,8 @@ summary: ''
 
 (4) Subject to subsection (1), information given in compliance with section 1(1) may be given by any means which are reasonable in the circumstances.
 
-(5) Such tests of reasonable practicability as are imposed by this section are not to be construed as detracting from any duty which a person has under or by virtue of section 29 of the Equality Act 2010 (provision of services[^key-1b724dd74f1357521bd7757bdcab75d9] etc) (duty to make adjustments to practices, policies, procedures or physical features so that use of services by disabled persons is facilitated or made possible).
+(5) Such tests of reasonable practicability as are imposed by this section are not to be construed as detracting from any duty which a person has under or by virtue of section 29 of the Equality Act 2010 (provision of services[^c-1b724dd74f1357521bd7757bdcab75d9] etc) (duty to make adjustments to practices, policies, procedures or physical features so that use of services by disabled persons is facilitated or made possible).
 
 ## Annotations
 
-[^key-1b724dd74f1357521bd7757bdcab75d9]: Textual amendment: Words in s. 11(5) substituted by 2010 c. 15 Sch. 26 Pt. 2 para. 103 (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see S.I. 2010/2317, art. 2)
+[^c-1b724dd74f1357521bd7757bdcab75d9]: Textual amendment: Words in s. 11(5) substituted by 2010 c. 15 Sch. 26 Pt. 2 para. 103 (as inserted) (1.10.2010) by [The Equality Act 2010 (Consequential Amendments, Saving and Supplementary Provisions) Order 2010 (S.I. 2010/2279)](https://www.legislation.gov.uk/uksi/2010/2279), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/2279/article/1/2), [Sch. 1 para. 6](https://www.legislation.gov.uk/uksi/2010/2279/schedule/1/paragraph/6) (see S.I. 2010/2317, art. 2)

@@ -16,11 +16,11 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 165. Exceptions from application of provisions of the Order for certain classes of aircraft[^key-63322852eb7d05ce999875ac8ebaef9c]
+## 165. Exceptions from application of provisions of the Order for certain classes of aircraft[^c-63322852eb7d05ce999875ac8ebaef9c]
 
 *Extent: E+W+S+N.I.*
 
-(1)[^key-2e38d826e3db802bcaf760430441b27d] This article applies to—
+(1)[^c-2e38d826e3db802bcaf760430441b27d] This article applies to—
 
 - (a) a small balloon;
 - (b) a kite weighing not more than 2 kg; and
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-63322852eb7d05ce999875ac8ebaef9c]: Commencement: [Art. 165](https://www.legislation.gov.uk/uksi/2015/870/article/165) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
+[^c-63322852eb7d05ce999875ac8ebaef9c]: Commencement: [Art. 165](https://www.legislation.gov.uk/uksi/2015/870/article/165) in force at 1.5.2015, see [art. 1](https://www.legislation.gov.uk/uksi/2015/870/article/1)
 
-[^key-2e38d826e3db802bcaf760430441b27d]: Textual amendment: [Art. 165(1)](https://www.legislation.gov.uk/uksi/2015/870/article/165/1) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [16](https://www.legislation.gov.uk/uksi/2016/155/article/16)
+[^c-2e38d826e3db802bcaf760430441b27d]: Textual amendment: [Art. 165(1)](https://www.legislation.gov.uk/uksi/2015/870/article/165/1) substituted (1.5.2016) by [The Air Navigation (Isle of Man) (Amendment) Order 2016 (S.I. 2016/155)](https://www.legislation.gov.uk/uksi/2016/155), [arts. 1](https://www.legislation.gov.uk/uksi/2016/155/article/1), [16](https://www.legislation.gov.uk/uksi/2016/155/article/16)

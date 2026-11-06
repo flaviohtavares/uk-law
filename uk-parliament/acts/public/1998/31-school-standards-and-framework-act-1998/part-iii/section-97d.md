@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 97D. Power of Assembly to make regulations about admission of looked after children[^key-94a05a2d8ffda4aeb4610afde063592a]
+## 97D. Power of Assembly to make regulations about admission of looked after children[^c-94a05a2d8ffda4aeb4610afde063592a]
 
 *Extent: E+W*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-94a05a2d8ffda4aeb4610afde063592a]: Textual amendment: [S. 97D](https://www.legislation.gov.uk/ukpga/1998/31/section/97D) and cross-heading inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 52(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/52/1), [188(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/2)
+[^c-94a05a2d8ffda4aeb4610afde063592a]: Textual amendment: [S. 97D](https://www.legislation.gov.uk/ukpga/1998/31/section/97D) and cross-heading inserted (8.1.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [ss. 52(1)](https://www.legislation.gov.uk/ukpga/2006/40/section/52/1), [188(2)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 138A. Certain cars with a CO<sub>2</sub> emissions figure and an electric range figure[^key-e19248d947545637518083f45a3143aa]
+## 138A. Certain cars with a CO<sub>2</sub> emissions figure and an electric range figure[^c-e19248d947545637518083f45a3143aa]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e19248d947545637518083f45a3143aa]: Textual amendment: [S. 138A](https://www.legislation.gov.uk/ukpga/2003/1/section/138A) inserted (with effect in accordance with s. 19(4) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 19(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/19/3)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/19/4) (with [s. 19(5)-(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/19/5))
+[^c-e19248d947545637518083f45a3143aa]: Textual amendment: [S. 138A](https://www.legislation.gov.uk/ukpga/2003/1/section/138A) inserted (with effect in accordance with s. 19(4) of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 19(3)](https://www.legislation.gov.uk/ukpga/2026/11/section/19/3)[(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/19/4) (with [s. 19(5)-(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/19/5))

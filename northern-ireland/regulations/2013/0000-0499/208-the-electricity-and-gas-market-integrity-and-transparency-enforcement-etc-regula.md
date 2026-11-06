@@ -66,7 +66,7 @@ These Regulations may be cited as the Electricity and Gas (Market Integrity and 
 - “**investigation**” means an investigation conducted in accordance with regulation 10;
 - “**premises**” has the same meaning as in Article 25 of the Police and Criminal Evidence (Northern Ireland) Order 1989 [^c21876381];
 - “**regulated person**” has the meaning given in regulation 3;
-- “REMIT” means—[^key-360b8e5cc8f4760ddd774c99b1a5d9e3]
+- “REMIT” means—[^c-360b8e5cc8f4760ddd774c99b1a5d9e3]
   - (a) in relation to anything done before IP completion day, Regulation (EU) No 1227/2011 of the European Parliament and of the Council on wholesale energy market integrity and transparency, as it applied immediately before IP completion day;
   - (b) in relation to anything done on or after IP completion day, that Regulation as it applies in the law of Northern Ireland on or after IP completion day by virtue of section 3 of the European Union (Withdrawal) Act 2018.
 - “**REMIT requirement**” has the meaning given in regulation 4;
@@ -203,13 +203,13 @@ as it may reasonably require.
 (1) The Authority may conduct an investigation if it appears to the Authority that there are circumstances suggesting that a person—
 
 - (a) may have failed to comply with a REMIT requirement;
-- (b) may have failed to comply with a requirement imposed by or under regulation 8; [^key-b285fbd9e2e0a088539be3f10c0a59be]...
+- (b) may have failed to comply with a requirement imposed by or under regulation 8; [^c-b285fbd9e2e0a088539be3f10c0a59be]...
 - (c) may be guilty of an offence under regulation 20.
 
-  or[^key-cf6f59da596ef8999c6dc514349fbfdb]
+  or[^c-cf6f59da596ef8999c6dc514349fbfdb]
 - (d) may be guilty of an offence under the Electricity and Gas (Market Integrity and Transparency) (Criminal Sanctions) Regulations 2015.
 
-(2)[^key-fd68b53695b4922c2f9fda5d4bc19f26] For the purposes of an investigation under paragraph (1)(a),(c) or (d) GEMA">the Authority has the powers conferred by regulations 11 to 19.
+(2)[^c-fd68b53695b4922c2f9fda5d4bc19f26] For the purposes of an investigation under paragraph (1)(a),(c) or (d) GEMA">the Authority has the powers conferred by regulations 11 to 19.
 
 (3) For the purposes of an investigation under paragraph (1)(b) the Authority has the powers conferred by regulations 11 to 15.
 
@@ -1217,7 +1217,7 @@ Regulation 6
 | --- | --- |
 | Leaving the document at the proper address | The business day after the day on which it is left at the proper address |
 | Post to an address in the United Kingdom | The second business day after posting |
-| Post to an address in any EEA State [^key-e8ef64d1c5d214980fd7d9122665acfc]... | The fifth business day after posting |
+| Post to an address in any EEA State [^c-e8ef64d1c5d214980fd7d9122665acfc]... | The fifth business day after posting |
 | Fax | The business day after the day on which the document is transmitted |
 | Other electronic means of communication | The business day after the day on which the document is transmitted |
 
@@ -1322,7 +1322,7 @@ A full regulatory impact assessment has not been produced for these Regulations 
 
 [^c21876381]: Marginal citation: [S.I. 1989/1341](https://www.legislation.gov.uk/uksi/1989/1341)(N.I.12)
 
-[^key-360b8e5cc8f4760ddd774c99b1a5d9e3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2013/208/regulation/2/1) substituted (31.12.2020) by S.I. 2019/534, reg. 5(2) (as substituted by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/7/4))
+[^c-360b8e5cc8f4760ddd774c99b1a5d9e3]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/nisr/2013/208/regulation/2/1) substituted (31.12.2020) by S.I. 2019/534, reg. 5(2) (as substituted by [The Electricity and Gas etc. (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1016)](https://www.legislation.gov.uk/uksi/2020/1016), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/1/2), [7(4)](https://www.legislation.gov.uk/uksi/2020/1016/regulation/7/4))
 
 [^c21876401]: Marginal citation: 2007 Section 3 of the Tribunals, Courts and Enforcement Act 2007. c.15
 
@@ -1334,11 +1334,11 @@ A full regulatory impact assessment has not been produced for these Regulations 
 
 [^c21876441]: Marginal citation: [Section 422](https://www.legislation.gov.uk/nisr/2013/208/section/422) was amended by Schedule 3 to the [Financial Services and Markets Act 2000 (Controllers) Regulations 2009 (S.I. 2009/534)](https://www.legislation.gov.uk/uksi/2009/534).
 
-[^key-b285fbd9e2e0a088539be3f10c0a59be]: Textual amendment: Word in [reg. 10(1)(b)](https://www.legislation.gov.uk/nisr/2013/208/regulation/10/1/b) omitted (13.4.2015) by virtue of [The Electricity and Gas (Market Integrity and Transparency) (Criminal Sanctions) Regulations 2015 (S.I. 2015/979)](https://www.legislation.gov.uk/uksi/2015/979), [regs. 1](https://www.legislation.gov.uk/uksi/2015/979/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/979/regulation/6/2)
+[^c-b285fbd9e2e0a088539be3f10c0a59be]: Textual amendment: Word in [reg. 10(1)(b)](https://www.legislation.gov.uk/nisr/2013/208/regulation/10/1/b) omitted (13.4.2015) by virtue of [The Electricity and Gas (Market Integrity and Transparency) (Criminal Sanctions) Regulations 2015 (S.I. 2015/979)](https://www.legislation.gov.uk/uksi/2015/979), [regs. 1](https://www.legislation.gov.uk/uksi/2015/979/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2015/979/regulation/6/2)
 
-[^key-cf6f59da596ef8999c6dc514349fbfdb]: Textual amendment: [Reg. 10(1)(d)](https://www.legislation.gov.uk/nisr/2013/208/regulation/10/1/d) and word inserted (13.4.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Criminal Sanctions) Regulations 2015 (S.I. 2015/979)](https://www.legislation.gov.uk/uksi/2015/979), [regs. 1](https://www.legislation.gov.uk/uksi/2015/979/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2015/979/regulation/6/3)
+[^c-cf6f59da596ef8999c6dc514349fbfdb]: Textual amendment: [Reg. 10(1)(d)](https://www.legislation.gov.uk/nisr/2013/208/regulation/10/1/d) and word inserted (13.4.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Criminal Sanctions) Regulations 2015 (S.I. 2015/979)](https://www.legislation.gov.uk/uksi/2015/979), [regs. 1](https://www.legislation.gov.uk/uksi/2015/979/regulation/1), [6(3)](https://www.legislation.gov.uk/uksi/2015/979/regulation/6/3)
 
-[^key-fd68b53695b4922c2f9fda5d4bc19f26]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/nisr/2013/208/regulation/10/2) substituted (13.4.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Criminal Sanctions) Regulations 2015 (S.I. 2015/979)](https://www.legislation.gov.uk/uksi/2015/979), [regs. 1](https://www.legislation.gov.uk/uksi/2015/979/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2015/979/regulation/6/4)
+[^c-fd68b53695b4922c2f9fda5d4bc19f26]: Textual amendment: [Reg. 10(2)](https://www.legislation.gov.uk/nisr/2013/208/regulation/10/2) substituted (13.4.2015) by [The Electricity and Gas (Market Integrity and Transparency) (Criminal Sanctions) Regulations 2015 (S.I. 2015/979)](https://www.legislation.gov.uk/uksi/2015/979), [regs. 1](https://www.legislation.gov.uk/uksi/2015/979/regulation/1), [6(4)](https://www.legislation.gov.uk/uksi/2015/979/regulation/6/4)
 
 [^c21876451]: Marginal citation: [1979 No. 1714](https://www.legislation.gov.uk/ukcm/1979/1714) (N.I. 19)
 
@@ -1350,6 +1350,6 @@ A full regulatory impact assessment has not been produced for these Regulations 
 
 [^c21876491]: Marginal citation: [2000 c. 12](https://www.legislation.gov.uk/ukpga/2000/12); [section 8](https://www.legislation.gov.uk/nisr/2013/208/section/8) was amended by paragraph 4 of Schedule 3 to the [Limited Liability Partnerships (Application of Companies Act 2006) Regulations 2009 (S.I. 2009/1804)](https://www.legislation.gov.uk/uksi/2009/1804).
 
-[^key-e8ef64d1c5d214980fd7d9122665acfc]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisr/2013/208/schedule/2/paragraph/6/1) omitted (31.12.2020) by virtue of [The Electricity and Gas (Market Integrity and Transparency) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/534)](https://www.legislation.gov.uk/uksi/2019/534), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/534/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2019/534/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e8ef64d1c5d214980fd7d9122665acfc]: Textual amendment: Words in [Sch. 2 para. 6(1)](https://www.legislation.gov.uk/nisr/2013/208/schedule/2/paragraph/6/1) omitted (31.12.2020) by virtue of [The Electricity and Gas (Market Integrity and Transparency) (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/534)](https://www.legislation.gov.uk/uksi/2019/534), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/534/regulation/1/2), [5(3)](https://www.legislation.gov.uk/uksi/2019/534/regulation/5/3); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c21876501]: Marginal citation: [2003 No.419](https://www.legislation.gov.uk/ukcm/2003/419) (N.I.6)

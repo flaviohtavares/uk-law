@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 58. Reports: alternative procedure[^key-3ba7a9901381f65574afa55dc1204fdf]
+## 58. Reports: alternative procedure[^c-3ba7a9901381f65574afa55dc1204fdf]
 
 *Extent: E+W*
 
@@ -60,4 +60,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3ba7a9901381f65574afa55dc1204fdf]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2019/3/section/58) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-3ba7a9901381f65574afa55dc1204fdf]: Commencement: [S. 58](https://www.legislation.gov.uk/anaw/2019/3/section/58) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

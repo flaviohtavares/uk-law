@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 59. Exercise of maritime enforcement powers[^key-c68168617f80eddad13ea1ea56aab40e]
+## 59. Exercise of maritime enforcement powers[^c-c68168617f80eddad13ea1ea56aab40e]
 
 *Extent: E+W+S+N.I.*
 
@@ -47,4 +47,4 @@ and a ship within sub-paragraph (a), (b) or (c) is referred to in this Part as â
 
 ## Annotations
 
-[^key-c68168617f80eddad13ea1ea56aab40e]: Commencement: Reg. 59 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)
+[^c-c68168617f80eddad13ea1ea56aab40e]: Commencement: Reg. 59 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 15(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/15/2)

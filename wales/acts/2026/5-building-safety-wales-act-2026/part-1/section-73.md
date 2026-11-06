@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 73. Costs relating to enforcement etc. excluded from variable service charge[^key-21bc28251e92de4270b7c2de40c2ff9d]
+## 73. Costs relating to enforcement etc. excluded from variable service charge[^c-21bc28251e92de4270b7c2de40c2ff9d]
 
 *Extent: E+W*
 
@@ -62,4 +62,4 @@ In the Landlord and Tenant Act [1985 (c. 70)](https://www.legislation.gov.uk/ukp
 
 ## Annotations
 
-[^key-21bc28251e92de4270b7c2de40c2ff9d]: Commencement: S. 73 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-21bc28251e92de4270b7c2de40c2ff9d]: Commencement: S. 73 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

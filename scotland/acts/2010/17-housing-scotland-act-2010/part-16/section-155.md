@@ -84,10 +84,10 @@ The Housing (Scotland) Act 2001 (asp 10) is amended as follows—
   > (10) In this section, “**housing benefit**” has the same meaning as in section 123 of the Social Security Contributions and Benefits Act 1992 (c.4).
 
   , and
-- (c)[^key-db8156bef9200fdd5ac7e7e39d33169f] in section 109—
+- (c)[^c-db8156bef9200fdd5ac7e7e39d33169f] in section 109—
   - (i) in subsection (4), after “7(3)” insert “ , 14A(9) ”, and
   - (ii) in subsection (6), after second “section” insert “ 14A(9) or ”.
 
 ## Annotations
 
-[^key-db8156bef9200fdd5ac7e7e39d33169f]: Commencement: S. 155(c) in force at 22.2.2012 by [S.S.I. 2012/19](https://www.legislation.gov.uk/ssi/2012/19), [art. 2(d)](https://www.legislation.gov.uk/ssi/2012/19/article/2/d)
+[^c-db8156bef9200fdd5ac7e7e39d33169f]: Commencement: S. 155(c) in force at 22.2.2012 by [S.S.I. 2012/19](https://www.legislation.gov.uk/ssi/2012/19), [art. 2(d)](https://www.legislation.gov.uk/ssi/2012/19/article/2/d)

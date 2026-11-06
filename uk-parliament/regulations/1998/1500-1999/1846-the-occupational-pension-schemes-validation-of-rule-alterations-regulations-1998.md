@@ -30,7 +30,7 @@ summary: ''
 
 PENSIONS
 
-The Occupational Pension Schemes (Validation of Rule Alterations) Regulations 1998 (revoked)[^key-83e6e92ad5b976eee2f01c5b0edde37c]
+The Occupational Pension Schemes (Validation of Rule Alterations) Regulations 1998 (revoked)[^c-83e6e92ad5b976eee2f01c5b0edde37c]
 
 Made
 
@@ -44,24 +44,24 @@ Coming into force
 
 26th August 1998
 
-[^key-83e6e92ad5b976eee2f01c5b0edde37c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83e6e92ad5b976eee2f01c5b0edde37c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and interpretation[^key-83e6e92ad5b976eee2f01c5b0edde37c]
+## 1. Citation, commencement and interpretation[^c-83e6e92ad5b976eee2f01c5b0edde37c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Validation of rule alterations made before 6th April 1997[^key-83e6e92ad5b976eee2f01c5b0edde37c]
+## 2. Validation of rule alterations made before 6th April 1997[^c-83e6e92ad5b976eee2f01c5b0edde37c]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-83e6e92ad5b976eee2f01c5b0edde37c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83e6e92ad5b976eee2f01c5b0edde37c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-83e6e92ad5b976eee2f01c5b0edde37c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-83e6e92ad5b976eee2f01c5b0edde37c]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-83e6e92ad5b976eee2f01c5b0edde37c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/1846) revoked (6.4.2019) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2016/200/article/1/4), [33](https://www.legislation.gov.uk/uksi/2016/200/article/33)
+[^c-83e6e92ad5b976eee2f01c5b0edde37c]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/1998/1846) revoked (6.4.2019) by [The Pensions Act 2014 (Abolition of Contracting-out for Salary Related Pension Schemes) (Consequential Amendments and Savings) Order 2016 (S.I. 2016/200)](https://www.legislation.gov.uk/uksi/2016/200), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2016/200/article/1/4), [33](https://www.legislation.gov.uk/uksi/2016/200/article/33)

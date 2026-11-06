@@ -29,7 +29,7 @@ summary: ''
 
 (3) The following provisions come into force on whatever day or days the Secretary of State appoints by regulations made by statutory instrument—
 
-- (a)[^key-90016fb59aa569584d242206cf359ab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-90016fb59aa569584d242206cf359ab2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) section 22(10);
 - (c) paragraphs 12 to 14 of Schedule 5 and section 25 so far as relating to those paragraphs;
 - (d) sections 26 and 30, section 31(2) and (4) and sections 32 to 34.
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-90016fb59aa569584d242206cf359ab2]: Textual amendment: [S. 52(3)(a)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/a) repealed (30.12.2016) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2016/1233](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2016/1233/regulation/2/r)
+[^c-90016fb59aa569584d242206cf359ab2]: Textual amendment: [S. 52(3)(a)](https://www.legislation.gov.uk/ukpga/2015/6/section/52/3/a) repealed (30.12.2016) by [Investigatory Powers Act 2016 (c. 25)](https://www.legislation.gov.uk/ukpga/2016/25), [s. 272(1)](https://www.legislation.gov.uk/ukpga/2016/25/section/272/1), [Sch. 10 Pt. 8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/10/part/8) (with [Sch. 9 paras. 7](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/7), [8](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/8), [10](https://www.legislation.gov.uk/ukpga/2016/25/schedule/9/paragraph/10)); [S.I. 2016/1233](https://www.legislation.gov.uk/uksi/2016/1233), [reg. 2(r)](https://www.legislation.gov.uk/uksi/2016/1233/regulation/2/r)

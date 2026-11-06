@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 307C. Excluded activities: producing steel[^key-f6786fa824408c8bbe706a1372c6f3bb]
+## 307C. Excluded activities: producing steel[^c-f6786fa824408c8bbe706a1372c6f3bb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In section 303(1)(ic) “**steel**” means any of the steel products listed in 
 
 ## Annotations
 
-[^key-f6786fa824408c8bbe706a1372c6f3bb]: Textual amendment: Ss. 307A-307C inserted (retrospective to 6.4.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 11 paras. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/9), [10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/10) (with [Sch. 11 paras. 12](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/12), [13](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/13))
+[^c-f6786fa824408c8bbe706a1372c6f3bb]: Textual amendment: Ss. 307A-307C inserted (retrospective to 6.4.2008) by [Finance Act 2008 (c. 9)](https://www.legislation.gov.uk/ukpga/2008/9), [Sch. 11 paras. 9](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/9), [10](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/10) (with [Sch. 11 paras. 12](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/12), [13](https://www.legislation.gov.uk/ukpga/2008/9/schedule/11/paragraph/13))

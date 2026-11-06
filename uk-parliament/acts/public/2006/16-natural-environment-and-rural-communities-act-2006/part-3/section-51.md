@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Codes of practice in connection with invasive non-native species[^key-3e4d1dd88382be2fab888db2e06ff41b]
+## 51. Codes of practice in connection with invasive non-native species[^c-3e4d1dd88382be2fab888db2e06ff41b]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ After section 14ZA of the 1981 Act insert—
 
 ## Annotations
 
-[^key-3e4d1dd88382be2fab888db2e06ff41b]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2006/16/section/51) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))
+[^c-3e4d1dd88382be2fab888db2e06ff41b]: Commencement: [S. 51](https://www.legislation.gov.uk/ukpga/2006/16/section/51) in force at 1.10.2006 by [S.I. 2006/2541](https://www.legislation.gov.uk/uksi/2006/2541), [art. 2](https://www.legislation.gov.uk/uksi/2006/2541/article/2) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/2541/schedule))

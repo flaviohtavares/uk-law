@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 128V. Variation of existing JASAPS purchase upon notice by member[^key-73af1ad52439faa59a794455bec473bf]
+## 128V. Variation of existing JASAPS purchase upon notice by member[^c-73af1ad52439faa59a794455bec473bf]
 
 *Extent: E+W+S+N.I.*
 
 (1) Paragraphs (2) to (6) apply where a retired JASAPS member entered into an agreement to purchase added surviving adult’s pension before the amendment day.
 
-(2) Subject to paragraph (3), a retired JASAPS member may increase or decrease the number of units of added surviving adult’s pension that they agreed to purchase by giving notice in writing to the administrators before 1st April 2027[^key-87a099131a1e097b1000121cd9280848] (or by such later date as the administrators may agree).
+(2) Subject to paragraph (3), a retired JASAPS member may increase or decrease the number of units of added surviving adult’s pension that they agreed to purchase by giving notice in writing to the administrators before 1st April 2027[^c-87a099131a1e097b1000121cd9280848] (or by such later date as the administrators may agree).
 
 (3) A retired JASAPS member may not increase the number of units of added surviving adult’s pension that they agreed to purchase to a number that would exceed the maximum number of units set out in regulation 119(2).
 
@@ -40,7 +40,7 @@ summary: ''
 
 (7) Paragraphs (8) to (13) apply where an unretired JASAPS member entered into an agreement to purchase added surviving adult’s pension before the amendment day.
 
-(8) Subject to paragraph (9), an unretired JASAPS member may increase or decrease the number of units of added surviving adult’s pension they agreed to purchase by giving notice in writing to the administrators before 1st April 2027[^key-ee3a2b851db1536f349ef1d3e048d56b] (or by such later date as the administrators may agree).
+(8) Subject to paragraph (9), an unretired JASAPS member may increase or decrease the number of units of added surviving adult’s pension they agreed to purchase by giving notice in writing to the administrators before 1st April 2027[^c-ee3a2b851db1536f349ef1d3e048d56b] (or by such later date as the administrators may agree).
 
 (9) An unretired JASAPS member may not increase the number of units of added surviving adult’s pension that they agreed to purchase to a number that would exceed the maximum number of added units specified in regulation 123(2).
 
@@ -69,8 +69,8 @@ summary: ''
 
 ## Annotations
 
-[^key-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
+[^c-73af1ad52439faa59a794455bec473bf]: Textual amendment: [Pts. 14A](https://www.legislation.gov.uk/uksi/2017/522/part/14A), [14B](https://www.legislation.gov.uk/uksi/2017/522/part/14B) inserted (1.4.2023) by [The Judicial Pensions (Fee-Paid Judges) (Amendment) Regulations 2023 (S.I. 2023/403)](https://www.legislation.gov.uk/uksi/2023/403), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2023/403/regulation/1/1), [Sch.](https://www.legislation.gov.uk/uksi/2023/403/schedule)
 
-[^key-87a099131a1e097b1000121cd9280848]: Textual amendment: Word in [reg. 128V(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128V/2) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [36(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/36/a)
+[^c-87a099131a1e097b1000121cd9280848]: Textual amendment: Word in [reg. 128V(2)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128V/2) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [36(a)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/36/a)
 
-[^key-ee3a2b851db1536f349ef1d3e048d56b]: Textual amendment: Word in [reg. 128V(8)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128V/8) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [36(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/36/b)
+[^c-ee3a2b851db1536f349ef1d3e048d56b]: Textual amendment: Word in [reg. 128V(8)](https://www.legislation.gov.uk/uksi/2017/522/regulation/128V/8) substituted (17.12.2024) by [The Judicial Pensions (Amendment) Regulations 2024 (S.I. 2024/1358)](https://www.legislation.gov.uk/uksi/2024/1358), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/1/1), [36(b)](https://www.legislation.gov.uk/uksi/2024/1358/regulation/36/b)

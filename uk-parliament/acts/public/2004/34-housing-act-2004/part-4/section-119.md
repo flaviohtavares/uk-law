@@ -41,7 +41,7 @@ summary: ''
   - (ii) any amounts of compensation payable as mentioned in paragraph (d);
 - (h) provision as to the manner in which the authority are to pay, on the termination of the final management order, any outstanding balance of compensation payable to a third party.
 
-(4A)[^key-5f0f63cbbc7bf03ffabf04e6b269c361] Subsection (4)(f) and (g) does not apply in a case where the final management order was made under section 113(3A) or (6A).
+(4A)[^c-5f0f63cbbc7bf03ffabf04e6b269c361] Subsection (4)(f) and (g) does not apply in a case where the final management order was made under section 113(3A) or (6A).
 
 (4B) The Secretary of State may by regulations make provision about how local authorities are to deal with any surplus in a case where the final management order was made under section 113(3A) or (6A).
 
@@ -81,4 +81,4 @@ summary: ''
 
 [^c2052583]: Commencement: S. 119 wholly in force at 16.6.2006; s. 119 not in force at Royal Assent see s. 270(4)(5); s. 119 in force for E. at 6.4.2006 by [S.I. 2006/1060](https://www.legislation.gov.uk/uksi/2006/1060), [art. 2(1)(a)](https://www.legislation.gov.uk/uksi/2006/1060/article/2/1/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1060/schedule)); s. 119 in force for W. at 16.6.2006 by [S.I. 2006/1535](https://www.legislation.gov.uk/uksi/2006/1535), [art. 2(a)](https://www.legislation.gov.uk/uksi/2006/1535/article/2/a) (with [Sch.](https://www.legislation.gov.uk/uksi/2006/1535/schedule))
 
-[^key-5f0f63cbbc7bf03ffabf04e6b269c361]: Textual amendment: [S. 119(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2004/34/section/119/4A) inserted (3.11.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/9); [S.I. 2017/1052](https://www.legislation.gov.uk/uksi/2017/1052), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/1052/regulation/2/e)
+[^c-5f0f63cbbc7bf03ffabf04e6b269c361]: Textual amendment: [S. 119(4A)-(4C)](https://www.legislation.gov.uk/ukpga/2004/34/section/119/4A) inserted (3.11.2017) by [Housing and Planning Act 2016 (c. 22)](https://www.legislation.gov.uk/ukpga/2016/22), [s. 216(3)](https://www.legislation.gov.uk/ukpga/2016/22/section/216/3), [Sch. 3 para. 9](https://www.legislation.gov.uk/ukpga/2016/22/schedule/3/paragraph/9); [S.I. 2017/1052](https://www.legislation.gov.uk/uksi/2017/1052), [reg. 2(e)](https://www.legislation.gov.uk/uksi/2017/1052/regulation/2/e)

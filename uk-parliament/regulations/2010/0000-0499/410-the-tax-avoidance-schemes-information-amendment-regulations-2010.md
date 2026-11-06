@@ -32,7 +32,7 @@ summary: ''
 
 Stamp Duty Land Tax
 
-The Tax Avoidance Schemes (Information) (Amendment) Regulations 2010 (revoked)[^key-61d4b2bcd19aebc890097fcf5597571f]
+The Tax Avoidance Schemes (Information) (Amendment) Regulations 2010 (revoked)[^c-61d4b2bcd19aebc890097fcf5597571f]
 
 Made
 
@@ -46,28 +46,28 @@ Coming into force
 
 1st April 2010
 
-[^key-61d4b2bcd19aebc890097fcf5597571f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61d4b2bcd19aebc890097fcf5597571f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and Commencement[^key-61d4b2bcd19aebc890097fcf5597571f]
+## 1. Citation and Commencement[^c-61d4b2bcd19aebc890097fcf5597571f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Tax Avoidance Schemes (Information) Regulations 2004[^key-61d4b2bcd19aebc890097fcf5597571f]
+## 2. Amendment of the Tax Avoidance Schemes (Information) Regulations 2004[^c-61d4b2bcd19aebc890097fcf5597571f]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-61d4b2bcd19aebc890097fcf5597571f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-61d4b2bcd19aebc890097fcf5597571f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-61d4b2bcd19aebc890097fcf5597571f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-61d4b2bcd19aebc890097fcf5597571f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-61d4b2bcd19aebc890097fcf5597571f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61d4b2bcd19aebc890097fcf5597571f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-61d4b2bcd19aebc890097fcf5597571f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-61d4b2bcd19aebc890097fcf5597571f]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-61d4b2bcd19aebc890097fcf5597571f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/410) revoked (1.9.2012) by [The Tax Avoidance Schemes (Information) Regulations 2012 (S.I. 2012/1836)](https://www.legislation.gov.uk/uksi/2012/1836), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/1836/schedule)
+[^c-61d4b2bcd19aebc890097fcf5597571f]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/410) revoked (1.9.2012) by [The Tax Avoidance Schemes (Information) Regulations 2012 (S.I. 2012/1836)](https://www.legislation.gov.uk/uksi/2012/1836), [reg. 1](https://www.legislation.gov.uk/uksi/2012/1836/regulation/1), [Sch.](https://www.legislation.gov.uk/uksi/2012/1836/schedule)

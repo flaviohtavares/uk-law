@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 107. Paragraphs 3 to 6 (further provisions on certificates)[^key-3d0414aeef6446121e4a490f1e4f0fcb]
+## 107. Paragraphs 3 to 6 (further provisions on certificates)[^c-3d0414aeef6446121e4a490f1e4f0fcb]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ Omit paragraphs 3 to 6 [^c23658811] (further provisions on certificates).
 
 ## Annotations
 
-[^key-3d0414aeef6446121e4a490f1e4f0fcb]: Commencement: Reg. 107 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
+[^c-3d0414aeef6446121e4a490f1e4f0fcb]: Commencement: Reg. 107 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1(3)](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1/3)
 
 [^c23658811]: Marginal citation: Paragraph 3A was inserted by [S.I. 2015/575](https://www.legislation.gov.uk/uksi/2015/575); paragraph 5A was inserted by [S.I. 2007/3253](https://www.legislation.gov.uk/uksi/2007/3253).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 10. Registration of a low-risk biocidal product[^key-18c0a1e174eeb31f7d5e9f2b12a9cec9]
+## 10. Registration of a low-risk biocidal product[^c-18c0a1e174eeb31f7d5e9f2b12a9cec9]
 
 *Extent: N.I.*
 
@@ -81,4 +81,4 @@ summary: ''
 
 ## Annotations
 
-[^key-18c0a1e174eeb31f7d5e9f2b12a9cec9]: Commencement: Reg. 10 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)
+[^c-18c0a1e174eeb31f7d5e9f2b12a9cec9]: Commencement: Reg. 10 in operation at 16.1.2002, see [reg. 1](https://www.legislation.gov.uk/nisr/2001/422/regulation/1)

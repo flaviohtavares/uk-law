@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 83. Rights of audience: advocates[^key-936dd3f82f6de7e6bec31852d6778d50]
+## 83. Rights of audience: advocates[^c-936dd3f82f6de7e6bec31852d6778d50]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-936dd3f82f6de7e6bec31852d6778d50]: Commencement: S. 83 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)
+[^c-936dd3f82f6de7e6bec31852d6778d50]: Commencement: S. 83 not in force at Royal Assent, see [s. 116(2)](https://www.legislation.gov.uk/asp/2025/12/section/116/2)

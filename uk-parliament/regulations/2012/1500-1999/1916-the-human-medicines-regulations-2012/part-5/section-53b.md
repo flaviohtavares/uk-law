@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 53B. Application for UKMA(UK) relating to similar biological medicinal products[^key-edd8833ec6e4bb8a155fe551a70c374d]
+## 53B. Application for UKMA(UK) relating to similar biological medicinal products[^c-edd8833ec6e4bb8a155fe551a70c374d]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-edd8833ec6e4bb8a155fe551a70c374d]: Textual amendment: [Reg. 53B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/53B) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [42](https://www.legislation.gov.uk/uksi/2024/832/regulation/42)
+[^c-edd8833ec6e4bb8a155fe551a70c374d]: Textual amendment: [Reg. 53B](https://www.legislation.gov.uk/uksi/2012/1916/regulation/53B) substituted (1.1.2025) by [The Human Medicines (Amendments relating to the Windsor Framework) Regulations 2024 (S.I. 2024/832)](https://www.legislation.gov.uk/uksi/2024/832), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/832/regulation/1/1), [42](https://www.legislation.gov.uk/uksi/2024/832/regulation/42)

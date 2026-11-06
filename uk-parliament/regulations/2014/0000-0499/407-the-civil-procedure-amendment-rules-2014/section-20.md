@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W*
 
-**20.**[^key-cbf0c843dd565a7c8c31f0154272c176] In rule 47.4—
+**20.**[^c-cbf0c843dd565a7c8c31f0154272c176] In rule 47.4—
 
 - (a) for paragraph (3) substitute—
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cbf0c843dd565a7c8c31f0154272c176]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2014/407/rule/20) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)
+[^c-cbf0c843dd565a7c8c31f0154272c176]: Commencement: [Rule 20](https://www.legislation.gov.uk/uksi/2014/407/rule/20) in force at 22.4.2014, see [rule 2(1)](https://www.legislation.gov.uk/uksi/2014/407/rule/2/1)

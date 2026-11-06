@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Accident regulations[^key-db8f0643c84b57d86d2d2273de0ea9db]
+## 11. Accident regulations[^c-db8f0643c84b57d86d2d2273de0ea9db]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,12 +34,12 @@ summary: ''
 
 (4) The regulations may—
 
-- (a) create an offence (but not an offence punishable by a term of imprisonment exceeding the maximum term which may be imposed by a magistrates' court in accordance with section 224 of the Sentencing Code[^key-aa24dbce1ff6d183fbe46028f563af53]);
+- (a) create an offence (but not an offence punishable by a term of imprisonment exceeding the maximum term which may be imposed by a magistrates' court in accordance with section 224 of the Sentencing Code[^c-aa24dbce1ff6d183fbe46028f563af53]);
 - (b) confer a discretionary function;
 - (c) confer jurisdiction on a court or tribunal.
 
 ## Annotations
 
-[^key-db8f0643c84b57d86d2d2273de0ea9db]: Commencement: S. 11 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(xi)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/xi)
+[^c-db8f0643c84b57d86d2d2273de0ea9db]: Commencement: S. 11 in force at 17.10.2005 by [S.I. 2005/1991](https://www.legislation.gov.uk/uksi/2005/1991), [art. 2(1)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/1)[(2)(xi)](https://www.legislation.gov.uk/uksi/2005/1991/article/2/2/xi)
 
-[^key-aa24dbce1ff6d183fbe46028f563af53]: Textual amendment: Words in [s. 11(4)(a)](https://www.legislation.gov.uk/ukpga/2003/20/section/11/4/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 201](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/201) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-aa24dbce1ff6d183fbe46028f563af53]: Textual amendment: Words in [s. 11(4)(a)](https://www.legislation.gov.uk/ukpga/2003/20/section/11/4/a) substituted (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 24 para. 201](https://www.legislation.gov.uk/ukpga/2020/17/schedule/24/paragraph/201) (with [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)

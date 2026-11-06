@@ -41,7 +41,7 @@ After section 483 of the [^c13165321]Education Act 1996 there shall be inserted�
 > - (a) for making the special educational provision specified in the statement;
 > - (b) for making any non-educational provision specified in the statement.
 >
-> (5) Regulations under subsection (4) may require or authorise a local authority[^key-35207b0165f4bf8683c697e9c46b3e8b]—
+> (5) Regulations under subsection (4) may require or authorise a local authority[^c-35207b0165f4bf8683c697e9c46b3e8b]—
 >
 > - (a) to make payments to the school in respect of the child, or
 > - (b) to provide any other assistance to the school in respect of the child.
@@ -54,4 +54,4 @@ After section 483 of the [^c13165321]Education Act 1996 there shall be inserted�
 
 [^c13165321]: Marginal citation: [1996 c. 56](https://www.legislation.gov.uk/ukpga/1996/56).
 
-[^key-35207b0165f4bf8683c697e9c46b3e8b]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46/2)
+[^c-35207b0165f4bf8683c697e9c46b3e8b]: Textual amendment: Words in Act substituted (5.5.2010) by [The Local Education Authorities and Children’s Services Authorities (Integration of Functions) Order 2010 (S.I. 2010/1158)](https://www.legislation.gov.uk/uksi/2010/1158), [Sch. 2 para. 46(2)](https://www.legislation.gov.uk/uksi/2010/1158/schedule/2/paragraph/46/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 43. Publicity and availability of strategies.[^key-7fa00d6ab122c905b351b4abee98c2e5]
+## 43. Publicity and availability of strategies.[^c-7fa00d6ab122c905b351b4abee98c2e5]
 
 *Extent: E+W+S*
 
@@ -40,4 +40,4 @@ at reasonable hours.
 
 ## Annotations
 
-[^key-7fa00d6ab122c905b351b4abee98c2e5]: Modification: S. 43 applied (with modifications) (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 6(11)(e)](https://www.legislation.gov.uk/ukpga/2011/13/section/6/11/e), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 6(14)](https://www.legislation.gov.uk/ukpga/2011/13/section/6/14)); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)
+[^c-7fa00d6ab122c905b351b4abee98c2e5]: Modification: S. 43 applied (with modifications) (16.1.2012) by [Police Reform and Social Responsibility Act 2011 (c. 13)](https://www.legislation.gov.uk/ukpga/2011/13), [ss. 6(11)(e)](https://www.legislation.gov.uk/ukpga/2011/13/section/6/11/e), [157(1)](https://www.legislation.gov.uk/ukpga/2011/13/section/157/1) (with [s. 6(14)](https://www.legislation.gov.uk/ukpga/2011/13/section/6/14)); [S.I. 2011/3019](https://www.legislation.gov.uk/uksi/2011/3019), [art. 3](https://www.legislation.gov.uk/uksi/2011/3019/article/3), [Sch. 1](https://www.legislation.gov.uk/uksi/2011/3019/schedule/1)

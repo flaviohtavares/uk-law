@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Clearways[^key-0615d01b70cdb3ad7f5399efb81f066b]
+## 17. Clearways[^c-0615d01b70cdb3ad7f5399efb81f066b]
 
 *Extent: E+W+S*
 
@@ -47,7 +47,7 @@ summary: ''
 
 ## Annotations
 
-[^key-0615d01b70cdb3ad7f5399efb81f066b]: Commencement: Art. 17 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
+[^c-0615d01b70cdb3ad7f5399efb81f066b]: Commencement: Art. 17 in force at 22.12.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/1202/article/1)
 
 [^f00035]: Footnote: [1984 c. 12](https://www.legislation.gov.uk/ukpga/1984/12).
 

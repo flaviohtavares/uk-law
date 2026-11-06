@@ -31,7 +31,7 @@ summary: ''
 
 ROAD TRAFFIC AND VEHICLES
 
-Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^key-c79b0f705ec86809109024d33d4ac00b]
+Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 2001 (revoked)[^c-c79b0f705ec86809109024d33d4ac00b]
 
 Made
 
@@ -41,24 +41,24 @@ Coming into operation
 
 1st August 2001
 
-[^key-c79b0f705ec86809109024d33d4ac00b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c79b0f705ec86809109024d33d4ac00b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-c79b0f705ec86809109024d33d4ac00b]
+## 1. Citation and commencement[^c-c79b0f705ec86809109024d33d4ac00b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Public Service Vehicles Regulations (Northern Ireland) 1985[^key-c79b0f705ec86809109024d33d4ac00b]
+## 2. Amendment of the Public Service Vehicles Regulations (Northern Ireland) 1985[^c-c79b0f705ec86809109024d33d4ac00b]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-c79b0f705ec86809109024d33d4ac00b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c79b0f705ec86809109024d33d4ac00b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-c79b0f705ec86809109024d33d4ac00b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-c79b0f705ec86809109024d33d4ac00b]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c79b0f705ec86809109024d33d4ac00b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/244) revoked (1.4.2002) by [Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 2002 (S.R. 2002/49)](https://www.legislation.gov.uk/nisr/2002/49), [regs. 1](https://www.legislation.gov.uk/nisr/2002/49/regulation/1), [3](https://www.legislation.gov.uk/nisr/2002/49/regulation/3)
+[^c-c79b0f705ec86809109024d33d4ac00b]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2001/244) revoked (1.4.2002) by [Public Service Vehicles (Licence Fees) (Amendment) Regulations (Northern Ireland) 2002 (S.R. 2002/49)](https://www.legislation.gov.uk/nisr/2002/49), [regs. 1](https://www.legislation.gov.uk/nisr/2002/49/regulation/1), [3](https://www.legislation.gov.uk/nisr/2002/49/regulation/3)

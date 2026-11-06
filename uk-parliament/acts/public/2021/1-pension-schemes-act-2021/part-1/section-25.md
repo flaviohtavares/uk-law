@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 25. Transfer rights[^c24459021][^key-b976dc990002d103eb535c844c4da826]
+## 25. Transfer rights[^c24459021][^c-b976dc990002d103eb535c844c4da826]
 
 *Extent: E+W+S*
 
@@ -75,4 +75,4 @@ summary: ''
 
 [^c24459021]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2021/1/section/25) in force at Royal Assent for specified purposes, see [s. 131(3)(a)](https://www.legislation.gov.uk/ukpga/2021/1/section/131/3/a)
 
-[^key-b976dc990002d103eb535c844c4da826]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2021/1/section/25) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)
+[^c-b976dc990002d103eb535c844c4da826]: Commencement: [S. 25](https://www.legislation.gov.uk/ukpga/2021/1/section/25) in force at 1.8.2022 in so far as not already in force by [S.I. 2022/721](https://www.legislation.gov.uk/uksi/2022/721), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2022/721/regulation/3/a)

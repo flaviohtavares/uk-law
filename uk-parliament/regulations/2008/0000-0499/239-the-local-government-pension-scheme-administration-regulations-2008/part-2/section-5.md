@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 5. Employees of non-Scheme employers: community admission bodies[^key-37758307dade01e25b60b2c3a8b4ebb1]
+## 5. Employees of non-Scheme employers: community admission bodies[^c-37758307dade01e25b60b2c3a8b4ebb1]
 
 *Extent: E+W+S*
 
@@ -50,7 +50,7 @@ summary: ''
 
 ## Annotations
 
-[^key-37758307dade01e25b60b2c3a8b4ebb1]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
+[^c-37758307dade01e25b60b2c3a8b4ebb1]: Commencement: Reg. 5 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/239/regulation/1/1)
 
 [^f00005]: Footnote: [1998 c.31](https://www.legislation.gov.uk/ukpga/1998/31).
 

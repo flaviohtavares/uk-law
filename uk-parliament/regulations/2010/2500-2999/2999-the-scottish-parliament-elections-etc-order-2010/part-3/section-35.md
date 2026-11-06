@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 35. Effect of default in election agent’s appointment[^key-4449b2aa4d68536bc8e3aa02dc3d2749]
+## 35. Effect of default in election agent’s appointment[^c-4449b2aa4d68536bc8e3aa02dc3d2749]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4449b2aa4d68536bc8e3aa02dc3d2749]: Commencement: Art. 35 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)
+[^c-4449b2aa4d68536bc8e3aa02dc3d2749]: Commencement: Art. 35 in force at 30.12.2010, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2010/2999/article/1/1)

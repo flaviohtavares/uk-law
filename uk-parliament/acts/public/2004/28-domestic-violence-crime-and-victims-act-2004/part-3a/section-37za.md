@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 37ZA. Victim impact statements where restriction order made[^key-fd8752d7e20012fdcdeccb014af9aca1]
+## 37ZA. Victim impact statements where restriction order made[^c-fd8752d7e20012fdcdeccb014af9aca1]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-fd8752d7e20012fdcdeccb014af9aca1]: Textual amendment: S. 37ZA inserted (25.6.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2024/21/section/21/3), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/731](https://www.legislation.gov.uk/uksi/2025/731), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/731/regulation/2/a)
+[^c-fd8752d7e20012fdcdeccb014af9aca1]: Textual amendment: S. 37ZA inserted (25.6.2025) by [Victims and Prisoners Act 2024 (c. 21)](https://www.legislation.gov.uk/ukpga/2024/21), [ss. 21(3)](https://www.legislation.gov.uk/ukpga/2024/21/section/21/3), [81(2)](https://www.legislation.gov.uk/ukpga/2024/21/section/81/2) (with [s. 32](https://www.legislation.gov.uk/ukpga/2024/21/section/32)); [S.I. 2025/731](https://www.legislation.gov.uk/uksi/2025/731), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2025/731/regulation/2/a)

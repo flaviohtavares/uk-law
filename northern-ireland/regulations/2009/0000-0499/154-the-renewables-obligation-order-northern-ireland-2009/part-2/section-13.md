@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 13. Further provision in relation to the production of renewables obligation certificates[^key-b2945ed87b2aa487f8b4d13f3aa8c102]
+## 13. Further provision in relation to the production of renewables obligation certificates[^c-b2945ed87b2aa487f8b4d13f3aa8c102]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) A designated electricity supplier may discharge up to 25 per cent of his renewables obligation in respect of an obligation period by producing to the Authority renewables obligation certificates relating to electricity supplied in the immediately preceding obligation period.
 
-(3)[^key-c53ab4b9599820160f70e97771b5e6a8] Subject to paragraph (4), no more than 4% of a designated electricity supplier’s renewables obligation may be satisfied by the production of renewables obligation certificates issued in respect of electricity generated from bioliquid.
+(3)[^c-c53ab4b9599820160f70e97771b5e6a8] Subject to paragraph (4), no more than 4% of a designated electricity supplier’s renewables obligation may be satisfied by the production of renewables obligation certificates issued in respect of electricity generated from bioliquid.
 
 (4) The limit set out in paragraph (3) does not apply to the production of renewables obligation certificates issued in respect of electricity—
 
@@ -36,12 +36,12 @@ summary: ''
 
 (7) A designated electricity supplier must not produce to the Authority a renewables obligation certificate which has previously been or is produced to the Great Britain authority under a GBRO Order.
 
-(8)[^key-133607016ffb268b5933a0bbddf0856c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-133607016ffb268b5933a0bbddf0856c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b2945ed87b2aa487f8b4d13f3aa8c102]: Commencement: Art. 13 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
+[^c-b2945ed87b2aa487f8b4d13f3aa8c102]: Commencement: Art. 13 in operation at 1.4.2009, see [art. 1](https://www.legislation.gov.uk/nisr/2009/154/article/1)
 
-[^key-c53ab4b9599820160f70e97771b5e6a8]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/nisr/2009/154/article/13/3)[(4)](https://www.legislation.gov.uk/nisr/2009/154/article/13/4) substituted for (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2013/116/article/4/2) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-c53ab4b9599820160f70e97771b5e6a8]: Textual amendment: [Art. 13(3)](https://www.legislation.gov.uk/nisr/2009/154/article/13/3)[(4)](https://www.legislation.gov.uk/nisr/2009/154/article/13/4) substituted for (1.5.2013) by [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [4(2)](https://www.legislation.gov.uk/nisr/2013/116/article/4/2) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
 
-[^key-133607016ffb268b5933a0bbddf0856c]: Textual amendment: [Art. 13(8)](https://www.legislation.gov.uk/nisr/2009/154/article/13/8) omitted (1.5.2013) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2013/116/article/4/3) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))
+[^c-133607016ffb268b5933a0bbddf0856c]: Textual amendment: [Art. 13(8)](https://www.legislation.gov.uk/nisr/2009/154/article/13/8) omitted (1.5.2013) by virtue of [The Renewables Obligation (Amendment) Order (Northern Ireland) 2013 (S.R. 2013/116)](https://www.legislation.gov.uk/nisr/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/nisr/2013/116/article/1/1), [4(3)](https://www.legislation.gov.uk/nisr/2013/116/article/4/3) (with [art. 34](https://www.legislation.gov.uk/nisr/2013/116/article/34))

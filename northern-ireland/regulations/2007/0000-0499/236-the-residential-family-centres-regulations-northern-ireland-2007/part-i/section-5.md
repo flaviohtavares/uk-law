@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 5. Information about fees[^key-81a28fb3f430d3b1a193326ef234a630]
+## 5. Information about fees[^c-81a28fb3f430d3b1a193326ef234a630]
 
 *Extent: N.I.*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-81a28fb3f430d3b1a193326ef234a630]: Commencement: Reg. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)
+[^c-81a28fb3f430d3b1a193326ef234a630]: Commencement: Reg. 5 in operation at 30.4.2007, see [reg. 1](https://www.legislation.gov.uk/nisr/2007/236/regulation/1)

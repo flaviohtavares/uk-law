@@ -48,28 +48,28 @@ The Secretary of State makes the following Regulations in exercise of the powers
 
 ## PART 1 — Introductory
 
-### 1. Citation and commencement[^key-da74fb3b9fe5cd48c41271cc577d99fc]
+### 1. Citation and commencement[^c-da74fb3b9fe5cd48c41271cc577d99fc]
 
 These Regulations may be cited as the Employment Rights Act 1996 (Coronavirus, Calculation of a Week's Pay) Regulations 2020 and come into force on 31st July 2020.
 
-### 2. Interpretation[^key-198ad0bf94069446327c060581c13565]
+### 2. Interpretation[^c-198ad0bf94069446327c060581c13565]
 
 (1) In these Regulations—
 
 - “**the Act**” means the Employment Rights Act 1996;
-- “Coronavirus Job Retention Scheme” means the scheme of that name established by the Coronavirus Act 2020 Functions of Her Majesty’s Revenue and Customs (Coronavirus Job Retention Scheme) Direction, given by the Treasury under sections 71 and 76 of the Coronavirus Act 2020 on 15th April 2020, as modified from time to time by further Directions given by the Treasury under those sections, to provide for claims to be made in respect of E in relation to any period ending on or before[^key-0a6f1693d52bc34790b685fb16c84ba8] 30th September[^key-e7f24ec8f0f40ad58d7a3cc27e1fb4e2] 2021;
+- “Coronavirus Job Retention Scheme” means the scheme of that name established by the Coronavirus Act 2020 Functions of Her Majesty’s Revenue and Customs (Coronavirus Job Retention Scheme) Direction, given by the Treasury under sections 71 and 76 of the Coronavirus Act 2020 on 15th April 2020, as modified from time to time by further Directions given by the Treasury under those sections, to provide for claims to be made in respect of E in relation to any period ending on or before[^c-0a6f1693d52bc34790b685fb16c84ba8] 30th September[^c-e7f24ec8f0f40ad58d7a3cc27e1fb4e2] 2021;
 - “**E**” has the meaning given in regulation 3(1);
-- [^key-be25b84d213ee673133562f612120f69]...
-- “**flexibly-furloughed employee**” has the meaning given in the Coronavirus Job Retention Scheme[^key-f37b9e6eba2fdfc9f328f9d9e6a67ca9];
-- “**furloughed employee**” has the meaning given in the Coronavirus Job Retention Scheme[^key-ece727618549d5c45ba34933e00df472];
+- [^c-be25b84d213ee673133562f612120f69]...
+- “**flexibly-furloughed employee**” has the meaning given in the Coronavirus Job Retention Scheme[^c-f37b9e6eba2fdfc9f328f9d9e6a67ca9];
+- “**furloughed employee**” has the meaning given in the Coronavirus Job Retention Scheme[^c-ece727618549d5c45ba34933e00df472];
 - “**furloughed hours**”, in relation to E, means those hours that E does not work as the result of an instruction given by their employer for the purposes of the Coronavirus Job Retention Scheme;
 - “**the relevant date**”, in relation to E—
   - (a) means the calculation date [^c24254751], in any case where—
     - (i) E's working hours under their contract of employment changed, on or after the date on which E became furloughed but before the calculation date, and
     - (ii) at the time that change was made, its contractual effect was that the change in working hours was to continue when E ceased to be furloughed or flexibly-furloughed, and
   - (b) in any other case, means the date immediately before the date on which E became furloughed;
-- [^key-5c46c92330c94c5e4eb2dd0d6851cd6d]...
-- [^key-77a034261f843bdab997867ab2b2fc82]...
+- [^c-5c46c92330c94c5e4eb2dd0d6851cd6d]...
+- [^c-77a034261f843bdab997867ab2b2fc82]...
 
 (2) Except in this paragraph and paragraph (1), any reference in these Regulations to an employee who is, or has been, “furloughed” is to an employee who is, or has been, a furloughed employee or a flexibly-furloughed employee.
 
@@ -79,7 +79,7 @@ These Regulations may be cited as the Employment Rights Act 1996 (Coronavirus, C
 
 ## PART 2 — Calculation of a week's pay
 
-### 3. Calculation of a week's pay in relation to furloughed employees[^key-6bd6723779a972d5088def248e64ff91]
+### 3. Calculation of a week's pay in relation to furloughed employees[^c-6bd6723779a972d5088def248e64ff91]
 
 (1) These Regulations prescribe the manner in which the amount of a week's pay [^c24254761] is to be calculated in the case of an employee who is, or has been, furloughed (“E”), subject to paragraph (2), where—
 
@@ -93,12 +93,12 @@ These Regulations may be cited as the Employment Rights Act 1996 (Coronavirus, C
 
 (2) These Regulations only apply—
 
-- (a) in a case where regulation 4 applies, where the calculation date is on or before 30th September[^key-31cd71860e26b5e1aa69ec9ff54c95d2][^key-5616f113ddcd9524a8918ab6fd79c3db] 2021,
+- (a) in a case where regulation 4 applies, where the calculation date is on or before 30th September[^c-31cd71860e26b5e1aa69ec9ff54c95d2][^c-5616f113ddcd9524a8918ab6fd79c3db] 2021,
 - (b) in a case where regulation 5, 6 or 8 applies, where the relevant period, within the meaning given in regulation 5, 6 or 8 (as the case may be), includes a week when E was furloughed.
 
 (3) For the purposes of paragraph (1), “**the date of termination**” means the date on which termination of E's contract of employment takes effect.
 
-### 4. Normal working hours and remuneration does not vary with the amount of work done[^key-782e6742063fb66074b358f08ad4c146]
+### 4. Normal working hours and remuneration does not vary with the amount of work done[^c-782e6742063fb66074b358f08ad4c146]
 
 (1) This regulation applies where E's remuneration fell within the description in section 221(2) of the Act (remuneration for employment in normal working hours which does not vary with the amount of work done) on the relevant date.
 
@@ -109,7 +109,7 @@ These Regulations may be cited as the Employment Rights Act 1996 (Coronavirus, C
 
 (3) This regulation is subject to regulations 6, 9 and 10.
 
-### 5. Normal working hours and remuneration varies with the amount of work done[^key-6b9570d63dc6fd0d1e0e9a9c1f50ea6f]
+### 5. Normal working hours and remuneration varies with the amount of work done[^c-6b9570d63dc6fd0d1e0e9a9c1f50ea6f]
 
 (1) This regulation applies where E's remuneration fell within the description in section 221(3) of the Act (remuneration for employment in normal working hours which varies with the amount of work done) on the relevant date.
 
@@ -127,7 +127,7 @@ These Regulations may be cited as the Employment Rights Act 1996 (Coronavirus, C
 
 (5) This regulation is subject to regulations 6, 9 and 10.
 
-### 6. Normal working hours and remuneration varies according to time of work[^key-06759e519738d82d5b69e9f07cb32e95]
+### 6. Normal working hours and remuneration varies according to time of work[^c-06759e519738d82d5b69e9f07cb32e95]
 
 (1) This regulation applies where E's remuneration fell within the description in section 222(1) of the Act (remuneration for employment in normal working hours which varies according to time of work) on the relevant date.
 
@@ -148,7 +148,7 @@ These Regulations may be cited as the Employment Rights Act 1996 (Coronavirus, C
 
 (5) This regulation is subject to regulations 9 and 10.
 
-### 7. Calculation of the average hourly rate of remuneration[^key-4d67ab693dfe807678cf345ceaeb973e]
+### 7. Calculation of the average hourly rate of remuneration[^c-4d67ab693dfe807678cf345ceaeb973e]
 
 (1) This regulation applies for the purposes of determining the average hourly rate of remuneration referred to in regulations 5 and 6.
 
@@ -173,7 +173,7 @@ remuneration in earlier weeks is taken into account so as to bring up to twelve 
 
 that remuneration is taken into account as if the work had been done in such hours and the amount of that remuneration had been reduced accordingly.
 
-### 8. No normal working hours[^key-63c4ee0a4d6b2c986c0e63589491ffe6]
+### 8. No normal working hours[^c-63c4ee0a4d6b2c986c0e63589491ffe6]
 
 (1) This regulation applies where E's working hours fell within the description in section 224(1) of the Act (no normal working hours for employee under employee's contract of employment) on the relevant date.
 
@@ -194,7 +194,7 @@ that remuneration is taken into account as if the work had been done in such hou
 (4) For the purposes of paragraph (3)(b)—
 
 - (a) “**reference salary**” has the meaning given in the Coronavirus Job Retention Scheme [^c24254781], and
-- (b)[^key-7f459894f1aaf068f2dd81931097ed2e] “Scheme cap” means the amount of—
+- (b)[^c-7f459894f1aaf068f2dd81931097ed2e] “Scheme cap” means the amount of—
   - (i) £2,500 per month (or the appropriate pro-rata), or
   - (ii) £576.92 per week,
 
@@ -202,11 +202,11 @@ that remuneration is taken into account as if the work had been done in such hou
 
 (5) This regulation is subject to regulations 9 and 10.
 
-### 9. Maximum amount[^key-ca18a41a3d438b2634999a7929ce7a41]
+### 9. Maximum amount[^c-ca18a41a3d438b2634999a7929ce7a41]
 
 The amount of a week's pay calculated under this Part is subject to section 227(1) of the Act (maximum amount) [^c24254801].
 
-### 10. New employments[^key-fbbf50406df853cda643b672b58d30da]
+### 10. New employments[^c-fbbf50406df853cda643b672b58d30da]
 
 (1) In any case in which E has not been employed for a sufficient period to enable a calculation to be made under this Part, the amount of a week's pay is the amount which fairly represents a week's pay.
 
@@ -215,7 +215,7 @@ The amount of a week's pay calculated under this Part is subject to section 227(
 - (a) must apply as nearly as may be such of the preceding regulations in this Part as it considers appropriate, and
 - (b) may have regard to such of the considerations specified in section 228(3) of the Act as it thinks fit.
 
-### 11. Supplementary[^key-e9c8aab2dfe8f59eb863adc0db8f1880]
+### 11. Supplementary[^c-e9c8aab2dfe8f59eb863adc0db8f1880]
 
 (1) In determining under this Part—
 
@@ -255,52 +255,52 @@ No impact assessment has been prepared for these Regulations.
 
 [^c24254711]: Marginal citation: [1996 c. 18](https://www.legislation.gov.uk/ukpga/1996/18).
 
-[^key-da74fb3b9fe5cd48c41271cc577d99fc]: Commencement: Reg. 1 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
+[^c-da74fb3b9fe5cd48c41271cc577d99fc]: Commencement: Reg. 1 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
 
-[^key-198ad0bf94069446327c060581c13565]: Commencement: Reg. 2 in force at 31.7.2020, see reg. 1
+[^c-198ad0bf94069446327c060581c13565]: Commencement: Reg. 2 in force at 31.7.2020, see reg. 1
 
-[^key-0a6f1693d52bc34790b685fb16c84ba8]: Textual amendment: Words in reg. 2(1) substituted (18.11.2020) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/1296/regulation/3/a)
+[^c-0a6f1693d52bc34790b685fb16c84ba8]: Textual amendment: Words in reg. 2(1) substituted (18.11.2020) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [3(a)](https://www.legislation.gov.uk/uksi/2020/1296/regulation/3/a)
 
-[^key-e7f24ec8f0f40ad58d7a3cc27e1fb4e2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/814/regulation/2/1) substituted (30.4.2021) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/487)](https://www.legislation.gov.uk/uksi/2021/487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/487/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/487/regulation/3)
+[^c-e7f24ec8f0f40ad58d7a3cc27e1fb4e2]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/2020/814/regulation/2/1) substituted (30.4.2021) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/487)](https://www.legislation.gov.uk/uksi/2021/487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/487/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2021/487/regulation/3)
 
-[^key-be25b84d213ee673133562f612120f69]: Textual amendment: Words in reg. 2(1) omitted (18.11.2020) by virtue of [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/1296/regulation/3/b)
+[^c-be25b84d213ee673133562f612120f69]: Textual amendment: Words in reg. 2(1) omitted (18.11.2020) by virtue of [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [3(b)](https://www.legislation.gov.uk/uksi/2020/1296/regulation/3/b)
 
-[^key-f37b9e6eba2fdfc9f328f9d9e6a67ca9]: Textual amendment: Words in reg. 2(1) substituted (18.11.2020) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2020/1296/regulation/3/c)
+[^c-f37b9e6eba2fdfc9f328f9d9e6a67ca9]: Textual amendment: Words in reg. 2(1) substituted (18.11.2020) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [3(c)](https://www.legislation.gov.uk/uksi/2020/1296/regulation/3/c)
 
-[^key-ece727618549d5c45ba34933e00df472]: Textual amendment: Words in reg. 2(1) substituted (18.11.2020) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2020/1296/regulation/3/d)
+[^c-ece727618549d5c45ba34933e00df472]: Textual amendment: Words in reg. 2(1) substituted (18.11.2020) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [3(d)](https://www.legislation.gov.uk/uksi/2020/1296/regulation/3/d)
 
 [^c24254751]: Marginal citation: See sections 225(2) and 226 of the Act for the meaning of “the calculation date”.
 
-[^key-5c46c92330c94c5e4eb2dd0d6851cd6d]: Textual amendment: Words in reg. 2(1) omitted (18.11.2020) by virtue of [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2020/1296/regulation/3/e)
+[^c-5c46c92330c94c5e4eb2dd0d6851cd6d]: Textual amendment: Words in reg. 2(1) omitted (18.11.2020) by virtue of [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [3(e)](https://www.legislation.gov.uk/uksi/2020/1296/regulation/3/e)
 
-[^key-77a034261f843bdab997867ab2b2fc82]: Textual amendment: Words in reg. 2(1) omitted (18.11.2020) by virtue of [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [3(f)](https://www.legislation.gov.uk/uksi/2020/1296/regulation/3/f)
+[^c-77a034261f843bdab997867ab2b2fc82]: Textual amendment: Words in reg. 2(1) omitted (18.11.2020) by virtue of [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [3(f)](https://www.legislation.gov.uk/uksi/2020/1296/regulation/3/f)
 
-[^key-6bd6723779a972d5088def248e64ff91]: Commencement: Reg. 3 in force at 31.7.2020, see reg. 1
+[^c-6bd6723779a972d5088def248e64ff91]: Commencement: Reg. 3 in force at 31.7.2020, see reg. 1
 
 [^c24254761]: Marginal citation: See section 235(1) of the Act for the definition of a “week”.
 
-[^key-31cd71860e26b5e1aa69ec9ff54c95d2]: Textual amendment: Words in reg. 3(2)(a) substituted (30.4.2021) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/487)](https://www.legislation.gov.uk/uksi/2021/487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/487/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2021/487/regulation/4)
+[^c-31cd71860e26b5e1aa69ec9ff54c95d2]: Textual amendment: Words in reg. 3(2)(a) substituted (30.4.2021) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/487)](https://www.legislation.gov.uk/uksi/2021/487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/487/regulation/1/1), [4](https://www.legislation.gov.uk/uksi/2021/487/regulation/4)
 
-[^key-5616f113ddcd9524a8918ab6fd79c3db]: Textual amendment: Words in reg. 3(2)(a) substituted (18.11.2020) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1296/regulation/4)
+[^c-5616f113ddcd9524a8918ab6fd79c3db]: Textual amendment: Words in reg. 3(2)(a) substituted (18.11.2020) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Weeks Pay) (Amendment) Regulations 2020 (S.I. 2020/1296)](https://www.legislation.gov.uk/uksi/2020/1296), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1296/regulation/1), [4](https://www.legislation.gov.uk/uksi/2020/1296/regulation/4)
 
-[^key-782e6742063fb66074b358f08ad4c146]: Commencement: Reg. 4 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
+[^c-782e6742063fb66074b358f08ad4c146]: Commencement: Reg. 4 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
 
-[^key-6b9570d63dc6fd0d1e0e9a9c1f50ea6f]: Commencement: Reg. 5 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
+[^c-6b9570d63dc6fd0d1e0e9a9c1f50ea6f]: Commencement: Reg. 5 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
 
-[^key-06759e519738d82d5b69e9f07cb32e95]: Commencement: Reg. 6 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
+[^c-06759e519738d82d5b69e9f07cb32e95]: Commencement: Reg. 6 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
 
-[^key-4d67ab693dfe807678cf345ceaeb973e]: Commencement: Reg. 7 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
+[^c-4d67ab693dfe807678cf345ceaeb973e]: Commencement: Reg. 7 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
 
-[^key-63c4ee0a4d6b2c986c0e63589491ffe6]: Commencement: Reg. 8 in force at 31.7.2020, see reg. 1
+[^c-63c4ee0a4d6b2c986c0e63589491ffe6]: Commencement: Reg. 8 in force at 31.7.2020, see reg. 1
 
 [^c24254781]: Marginal citation: For an explanation of the relevant calculation of reference salary in relation to the period ending with 30th June 2020, see paragraph 7 of the Schedule to the second CJRS Direction (in particular paragraph 7.2); and in relation to the period beginning with 1st July 2020 and ending with 31st October 2020, see paragraphs 18, 19.1, and 20.1 of the Schedule to the third CJRS Direction.
 
-[^key-7f459894f1aaf068f2dd81931097ed2e]: Textual amendment: [Reg. 8(4)(b)](https://www.legislation.gov.uk/uksi/2020/814/regulation/8/4/b) substituted (30.4.2021) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/487)](https://www.legislation.gov.uk/uksi/2021/487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/487/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/487/regulation/5)
+[^c-7f459894f1aaf068f2dd81931097ed2e]: Textual amendment: [Reg. 8(4)(b)](https://www.legislation.gov.uk/uksi/2020/814/regulation/8/4/b) substituted (30.4.2021) by [The Employment Rights Act 1996 (Coronavirus, Calculation of a Week’s Pay) (Amendment) (No. 2) Regulations 2021 (S.I. 2021/487)](https://www.legislation.gov.uk/uksi/2021/487), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2021/487/regulation/1/1), [5](https://www.legislation.gov.uk/uksi/2021/487/regulation/5)
 
-[^key-ca18a41a3d438b2634999a7929ce7a41]: Commencement: Reg. 9 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
+[^c-ca18a41a3d438b2634999a7929ce7a41]: Commencement: Reg. 9 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
 
 [^c24254801]: Marginal citation: [Section 227(1)](https://www.legislation.gov.uk/uksi/2020/814/section/227/1) was amended by paragraph 47 of Schedule 7 to the [Employment Act 2002 (c. 22)](https://www.legislation.gov.uk/ukpga/2002/22), [paragraph 9](https://www.legislation.gov.uk/ukpga/2002/22/paragraph/9) of Schedule 1 to the [Apprenticeships, Skills, Children and Learning Act 2009 (c. 22)](https://www.legislation.gov.uk/ukpga/2009/22), and by [S.I. 2020/205](https://www.legislation.gov.uk/uksi/2020/205).
 
-[^key-fbbf50406df853cda643b672b58d30da]: Commencement: Reg. 10 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
+[^c-fbbf50406df853cda643b672b58d30da]: Commencement: Reg. 10 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
 
-[^key-e9c8aab2dfe8f59eb863adc0db8f1880]: Commencement: Reg. 11 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)
+[^c-e9c8aab2dfe8f59eb863adc0db8f1880]: Commencement: Reg. 11 in force at 31.7.2020, see [reg. 1](https://www.legislation.gov.uk/uksi/2020/814/regulation/1)

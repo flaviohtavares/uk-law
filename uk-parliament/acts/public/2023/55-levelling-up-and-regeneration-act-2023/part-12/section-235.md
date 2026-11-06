@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 235. Transfer of land by local authorities[^key-949dff43abd9733928634b815fd8f0e8]
+## 235. Transfer of land by local authorities[^c-949dff43abd9733928634b815fd8f0e8]
 
 *Extent: E+W*
 
@@ -76,4 +76,4 @@ summary: ''
 
 ## Annotations
 
-[^key-949dff43abd9733928634b815fd8f0e8]: Commencement: S. 235 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)
+[^c-949dff43abd9733928634b815fd8f0e8]: Commencement: S. 235 not in force at Royal Assent, see [s. 255(9)(a)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/9/a)

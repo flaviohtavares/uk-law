@@ -22,7 +22,7 @@ summary: ''
 
 (1) Any power conferred by this Act on the Scottish Ministers to make orders or regulations may be exercised to make different provision for different cases or descriptions of case or for different purposes.
 
-(2) Orders and regulations under the following provisions[^key-b8322d74eb59e2a98e6b818182927c15] are subject to the negative procedure—
+(2) Orders and regulations under the following provisions[^c-b8322d74eb59e2a98e6b818182927c15] are subject to the negative procedure—
 
 - (a) section 11(6)(b),
 - (b) section 27(6),
@@ -32,7 +32,7 @@ summary: ''
 - (f) subject to subsection (4)(a), section 100(1),
 - (g) section 115(1),
 - (h) subject to subsection (4)(b), section 117(1),
-- (i)[^key-94cd5c52743b30ab9fc6483479f873d8] paragraph 2(5) or 7(5) of schedule 1A.
+- (i)[^c-94cd5c52743b30ab9fc6483479f873d8] paragraph 2(5) or 7(5) of schedule 1A.
 
 (3) Orders and regulations under the following provisions are subject to the affirmative procedure—
 
@@ -57,6 +57,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b8322d74eb59e2a98e6b818182927c15]: Textual amendment: Word in [s. 116(2)](https://www.legislation.gov.uk/asp/2012/5/section/116/2) substituted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 8(a)](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/8/a); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-b8322d74eb59e2a98e6b818182927c15]: Textual amendment: Word in [s. 116(2)](https://www.legislation.gov.uk/asp/2012/5/section/116/2) substituted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 8(a)](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/8/a); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
 
-[^key-94cd5c52743b30ab9fc6483479f873d8]: Textual amendment: [S. 116(2)(i)](https://www.legislation.gov.uk/asp/2012/5/section/116/2/i) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 8(b)](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/8/b); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)
+[^c-94cd5c52743b30ab9fc6483479f873d8]: Textual amendment: [S. 116(2)(i)](https://www.legislation.gov.uk/asp/2012/5/section/116/2/i) inserted (5.9.2022) by [Economic Crime (Transparency and Enforcement) Act 2022 (c. 10)](https://www.legislation.gov.uk/ukpga/2022/10), [s. 69(1)](https://www.legislation.gov.uk/ukpga/2022/10/section/69/1), [Sch. 4 para. 8(b)](https://www.legislation.gov.uk/ukpga/2022/10/schedule/4/paragraph/8/b); [S.I. 2022/876](https://www.legislation.gov.uk/uksi/2022/876), [reg. 4(c)](https://www.legislation.gov.uk/uksi/2022/876/regulation/4/c)

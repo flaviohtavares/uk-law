@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Amendment of regulation 2 (application)[^key-0fdb35f13bea17ab9da5747c0907b713]
+## 69. Amendment of regulation 2 (application)[^c-0fdb35f13bea17ab9da5747c0907b713]
 
 *Extent: E+W+S+N.I.*
 
@@ -51,4 +51,4 @@ In regulation 2 (application), in paragraph (2)—
 
 ## Annotations
 
-[^key-0fdb35f13bea17ab9da5747c0907b713]: Commencement: Reg. 69 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)
+[^c-0fdb35f13bea17ab9da5747c0907b713]: Commencement: Reg. 69 in force at 16.1.2023, see [reg. 1(3)](https://www.legislation.gov.uk/uksi/2022/1382/regulation/1/3)

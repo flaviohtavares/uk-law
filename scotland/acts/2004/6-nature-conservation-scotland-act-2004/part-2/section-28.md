@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 28. Reports[^key-30c18578ae0ca691d81b1e8e7d2289b0]
+## 28. Reports[^c-30c18578ae0ca691d81b1e8e7d2289b0]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ A report submitted by SNH under section 10(2) (annual report) of the Natural Her
 
 ## Annotations
 
-[^key-30c18578ae0ca691d81b1e8e7d2289b0]: Commencement: S. 28 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)
+[^c-30c18578ae0ca691d81b1e8e7d2289b0]: Commencement: S. 28 in force at 29.11.2004 by [S.S.I. 2004/495](https://www.legislation.gov.uk/ssi/2004/495), [art. 2](https://www.legislation.gov.uk/ssi/2004/495/article/2)

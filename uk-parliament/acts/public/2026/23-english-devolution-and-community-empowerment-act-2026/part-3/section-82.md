@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 82. Enforcement officers[^key-8f51b1d0fd71b4f54279aa83decd05c7]
+## 82. Enforcement officers[^c-8f51b1d0fd71b4f54279aa83decd05c7]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8f51b1d0fd71b4f54279aa83decd05c7]: Commencement: S. 82 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)
+[^c-8f51b1d0fd71b4f54279aa83decd05c7]: Commencement: S. 82 not in force at Royal Assent, see [s. 108(2)(6)](https://www.legislation.gov.uk/ukpga/2026/23/section/108/2/6)

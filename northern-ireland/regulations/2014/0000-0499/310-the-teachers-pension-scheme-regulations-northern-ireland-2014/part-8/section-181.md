@@ -34,7 +34,7 @@ summary: ''
 (3) The offence is—
 
 - (a) an offence of treason, or
-- (b) one offence or more under the Official Secrets Acts 1911 to 1989 [^c22298861] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^key-a172948c898b88df006bf166a922d2a7] for which the person has been sentenced on the same occasion to—
+- (b) one offence or more under the Official Secrets Acts 1911 to 1989 [^c22298861] , or under section 18 of, or listed in section 33(3)(a) of, the National Security Act 2023,[^c-a172948c898b88df006bf166a922d2a7] for which the person has been sentenced on the same occasion to—
   - (i) one term of imprisonment of at least 10 years; or
   - (ii) 2 or more consecutive terms of imprisonment which add up to at least 10 years,
 
@@ -60,4 +60,4 @@ summary: ''
 
 [^c22298861]: Marginal citation: [1911 c.28](https://www.legislation.gov.uk/ukpga/1911/28), S.R. [1920 c.75](https://www.legislation.gov.uk/ukpga/1920/75), S.R. [1939 c. 21](https://www.legislation.gov.uk/ukpga/1939/21), S.R. [1989 c. 6](https://www.legislation.gov.uk/ukpga/1989/6).
 
-[^key-a172948c898b88df006bf166a922d2a7]: Textual amendment: Words in [reg. 181(3)(b)](https://www.legislation.gov.uk/nisr/2014/310/regulation/181/3/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 39](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/39)
+[^c-a172948c898b88df006bf166a922d2a7]: Textual amendment: Words in [reg. 181(3)(b)](https://www.legislation.gov.uk/nisr/2014/310/regulation/181/3/b) inserted (20.12.2023) by [The National Security Act 2023 (Consequential Amendments of Subordinate Legislation) Regulations 2023 (S.I. 2023/1267)](https://www.legislation.gov.uk/uksi/2023/1267), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1267/regulation/1/2), [Sch. para. 39](https://www.legislation.gov.uk/uksi/2023/1267/schedule/paragraph/39)

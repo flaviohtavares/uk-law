@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 39. Costs of enfranchisement and extension under the LRHUDA 1993[^key-460030630cf4fd3802f58876e5927f83]
+## 39. Costs of enfranchisement and extension under the LRHUDA 1993[^c-460030630cf4fd3802f58876e5927f83]
 
 *Extent: E+W*
 
@@ -266,4 +266,4 @@ summary: ''
 
 ## Annotations
 
-[^key-460030630cf4fd3802f58876e5927f83]: Commencement: S. 39 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)
+[^c-460030630cf4fd3802f58876e5927f83]: Commencement: S. 39 not in force at Royal Assent, see [s. 124(3)](https://www.legislation.gov.uk/ukpga/2024/22/section/124/3)

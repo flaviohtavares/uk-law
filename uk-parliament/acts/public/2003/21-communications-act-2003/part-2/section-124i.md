@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 124I. Code by OFCOM about obligations to limit internet access[^key-663f0200f2135d9b49bd5ffddbb45d1f]
+## 124I. Code by OFCOM about obligations to limit internet access[^c-663f0200f2135d9b49bd5ffddbb45d1f]
 
 *Extent: E+W+S+N.I.*
 
@@ -44,4 +44,4 @@ summary: ''
 
 ## Annotations
 
-[^key-663f0200f2135d9b49bd5ffddbb45d1f]: Textual amendment: S. 124I inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 11](https://www.legislation.gov.uk/ukpga/2010/24/section/11), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)
+[^c-663f0200f2135d9b49bd5ffddbb45d1f]: Textual amendment: S. 124I inserted (8.6.2010) by [Digital Economy Act 2010 (c. 24)](https://www.legislation.gov.uk/ukpga/2010/24), [ss. 11](https://www.legislation.gov.uk/ukpga/2010/24/section/11), [47(1)](https://www.legislation.gov.uk/ukpga/2010/24/section/47/1)

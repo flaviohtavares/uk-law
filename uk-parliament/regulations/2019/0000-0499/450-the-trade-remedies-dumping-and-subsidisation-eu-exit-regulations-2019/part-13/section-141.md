@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Modifications to Schedule 5[^key-ceb66ac4329944adc461dadfb2fc0cd6]
+## 141. Modifications to Schedule 5[^c-ceb66ac4329944adc461dadfb2fc0cd6]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ Schedule 5 (content of suspension notices) has effect as if—
 
 ## Annotations
 
-[^key-ceb66ac4329944adc461dadfb2fc0cd6]: Commencement: Reg. 141 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)
+[^c-ceb66ac4329944adc461dadfb2fc0cd6]: Commencement: Reg. 141 in force at 6.3.2019, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/450/regulation/1/2)

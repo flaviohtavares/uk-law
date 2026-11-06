@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 16. Section 55J (variation and cancellation of Part 4A permission: general)[^key-923ac0f31c1f74b78da49a14d4af2030]
+## 16. Section 55J (variation and cancellation of Part 4A permission: general)[^c-923ac0f31c1f74b78da49a14d4af2030]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,7 +26,7 @@ summary: ''
 
 - (a) in paragraph (c)—
   - (i) for the words from “provide” to “managers directive” substitute “ carry on the management of portfolios of investments in accordance with mandates given by investors on a discretionary, and client-by-client, basis ”;
-  - (ii) for “the capital requirements directive” substitute “ any enactment (as amended from time to time) that immediately before IP completion day[^key-ed6b232248f84bf85f429d58e48ab93a] implemented provisions of the capital requirements directive ”;
+  - (ii) for “the capital requirements directive” substitute “ any enactment (as amended from time to time) that immediately before IP completion day[^c-ed6b232248f84bf85f429d58e48ab93a] implemented provisions of the capital requirements directive ”;
 - (b) in paragraph (e)—
   - (i) for sub-paragraph (i) substitute—
 
@@ -52,7 +52,7 @@ summary: ''
 > - (a) an AIFMD requirement is a provision of—
 >   - (i) the Alternative Investment Fund Managers Regulations 2013,
 >   - (ii) any EU regulation, originally made under the alternative investment fund managers directive, which is retained direct EU legislation,
->   - (iii) any provision made by or under this Act that immediately before IP completion day[^key-f33d7d0b5fa08ff194bc05bdeca73c3f] implemented provisions of the alternative investment fund managers directive (as that implementing provision is amended from time to time), or
+>   - (iii) any provision made by or under this Act that immediately before IP completion day[^c-f33d7d0b5fa08ff194bc05bdeca73c3f] implemented provisions of the alternative investment fund managers directive (as that implementing provision is amended from time to time), or
 >   - (iv) any subordinate legislation (within the meaning of the Interpretation Act 1978) which is made under a power substituted for a power of an EU entity to make a directly applicable regulation under the alternative investment fund managers directive by regulations made under section 8 of the European Union (Withdrawal) Act 2018;
 > - (b) an ELTIF requirement is a provision of—
 >   - (i) Regulation (EU) No. 2015/760 of the European Parliament and of the Council of 29th April 2015 on European Long-term Investment Funds (“**the ELTIF Regulation**”),
@@ -89,7 +89,7 @@ summary: ''
 >
 > - (a) the market abuse regulation,
 > - (b) any EU regulation, originally made under the market abuse regulation, which is retained direct EU legislation, or
-> - (c) any subordinate legislation (within the meaning of the Interpretation Act 1978) made under the market abuse regulation on or after IP completion day[^key-56149d4bf8be1dcc31b595d6b4ef5202].
+> - (c) any subordinate legislation (within the meaning of the Interpretation Act 1978) made under the market abuse regulation on or after IP completion day[^c-56149d4bf8be1dcc31b595d6b4ef5202].
 
 .
 
@@ -101,12 +101,12 @@ summary: ''
 
 ## Annotations
 
-[^key-923ac0f31c1f74b78da49a14d4af2030]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
+[^c-923ac0f31c1f74b78da49a14d4af2030]: Commencement: Reg. 16 in force at 31.12.2020 on IP completion day (in accordance with [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see reg. 1(3)
 
 [^c23657431]: Marginal citation: Relevant amending instruments are [S.I. 2013/1773](https://www.legislation.gov.uk/uksi/2013/1773), [S.I](https://www.legislation.gov.uk/uksi/2013/1773/section/I). 2013/3115, [S.I. 2015/910](https://www.legislation.gov.uk/uksi/2015/910), [S.I](https://www.legislation.gov.uk/uksi/2015/910/section/I). 2015/1882 and [S.I. 2016/680](https://www.legislation.gov.uk/uksi/2016/680).
 
-[^key-ed6b232248f84bf85f429d58e48ab93a]: Textual amendment: Words in reg. 16(2)(a)(ii) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(c)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/c/i)
+[^c-ed6b232248f84bf85f429d58e48ab93a]: Textual amendment: Words in reg. 16(2)(a)(ii) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(c)(i)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/c/i)
 
-[^key-f33d7d0b5fa08ff194bc05bdeca73c3f]: Textual amendment: Words in reg. 16(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/c/ii)
+[^c-f33d7d0b5fa08ff194bc05bdeca73c3f]: Textual amendment: Words in reg. 16(3) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(c)(ii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/c/ii)
 
-[^key-56149d4bf8be1dcc31b595d6b4ef5202]: Textual amendment: Words in reg. 16(7) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/c/iii)
+[^c-56149d4bf8be1dcc31b595d6b4ef5202]: Textual amendment: Words in reg. 16(7) substituted (30.12.2020) by [The Financial Services and Economic and Monetary Policy (Consequential Amendments) (EU Exit) Regulations 2020 (S.I. 2020/1301)](https://www.legislation.gov.uk/uksi/2020/1301), [regs. 1](https://www.legislation.gov.uk/uksi/2020/1301/regulation/1), [3](https://www.legislation.gov.uk/uksi/2020/1301/regulation/3), [Sch. para. 33(c)(iii)](https://www.legislation.gov.uk/uksi/2020/1301/schedule/paragraph/33/c/iii)

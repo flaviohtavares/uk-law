@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 41. Section 40: amendments to clarify existing corresponding provisions[^key-64c45f37ef584cc7cca810fcc3e8c1d5][^key-4c81be2a44a77e47d8c422b9250eb6d8]
+## 41. Section 40: amendments to clarify existing corresponding provisions[^c-64c45f37ef584cc7cca810fcc3e8c1d5][^c-4c81be2a44a77e47d8c422b9250eb6d8]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-64c45f37ef584cc7cca810fcc3e8c1d5]: Commencement: S. 41 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
+[^c-64c45f37ef584cc7cca810fcc3e8c1d5]: Commencement: S. 41 in force at Royal Assent for specified purposes, see [s. 219(1)(2)(b)](https://www.legislation.gov.uk/ukpga/2023/56/section/219/1)
 
-[^key-4c81be2a44a77e47d8c422b9250eb6d8]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/56/section/41) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z5)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z5)
+[^c-4c81be2a44a77e47d8c422b9250eb6d8]: Commencement: [S. 41](https://www.legislation.gov.uk/ukpga/2023/56/section/41) in force at 4.3.2024 in so far as not already in force by [S.I. 2024/269](https://www.legislation.gov.uk/uksi/2024/269), [reg. 2(z5)](https://www.legislation.gov.uk/uksi/2024/269/regulation/2/z5)

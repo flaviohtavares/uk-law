@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 46. Lighting[^key-61f863e2f06ca13d012482809207e117]
+## 46. Lighting[^c-61f863e2f06ca13d012482809207e117]
 
 *Extent: E+W+S*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-61f863e2f06ca13d012482809207e117]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2014/3248/regulation/46) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)
+[^c-61f863e2f06ca13d012482809207e117]: Commencement: [Reg. 46](https://www.legislation.gov.uk/uksi/2014/3248/regulation/46) in force at 6.4.2015, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2014/3248/regulation/1/2)

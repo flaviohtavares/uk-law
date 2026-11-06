@@ -47,13 +47,13 @@ The Welsh Ministers, in exercise of powers conferred by sections 12(2), 14(1)(d)
 
 ## PART 1 — General
 
-### 1. Title, commencement and application[^key-c82aefd44f1db44c611bec16cafbb794]
+### 1. Title, commencement and application[^c-c82aefd44f1db44c611bec16cafbb794]
 
 The title of these Regulations is the Registration of Private Dentistry (Wales) Regulations 2017 and they come into force on 1 April 2017.
 
-**2.**[^key-8509b7777ed69c3a4d961abdcd22b055] These Regulations apply in relation to Wales.
+**2.**[^c-8509b7777ed69c3a4d961abdcd22b055] These Regulations apply in relation to Wales.
 
-### 3. Interpretation[^key-1cbc504907b2275dacca056f4e7d6cb5]
+### 3. Interpretation[^c-1cbc504907b2275dacca056f4e7d6cb5]
 
 (1) In these Regulations—
 
@@ -68,7 +68,7 @@ The title of these Regulations is the Registration of Private Dentistry (Wales) 
   - (b) a dental therapist; or
   - (c) a clinical dental technician;
 - “dental hygienist” (“*hylenydd deintyddol*”), “dental therapist” (“*therapydd deintyddol*”) and “clinical dental technician” (“*technegydd deintyddol clinigol*”) mean persons registered as such with the General Dental Council in the dental care professionals register established under section 36B of the Dentists Act 1984[^f00004];
-- “dental performers list” (“*rhestr perfformwyr deintyddol*”) means the list prepared by a Local Health Board or NHS England[^key-acf223b24424df772cebfb9a08fd2ced] and published pursuant to regulation 3(1)(b) of the National Health Service (Performers Lists) (Wales) Regulations 2026[^key-832250f929a6fcbee5add5e6d87e67c0] or regulations under section 106 of the National Health Service Act 2006[^f00006] as appropriate;
+- “dental performers list” (“*rhestr perfformwyr deintyddol*”) means the list prepared by a Local Health Board or NHS England[^c-acf223b24424df772cebfb9a08fd2ced] and published pursuant to regulation 3(1)(b) of the National Health Service (Performers Lists) (Wales) Regulations 2026[^c-832250f929a6fcbee5add5e6d87e67c0] or regulations under section 106 of the National Health Service Act 2006[^f00006] as appropriate;
 - “dental services” (“*gwasanaethau deintyddol*”) means dental care and treatment provided by a dentist;
 - “dentist” (“*deintydd*”) means a person registered in the dentist’s register kept in accordance with section 14 of the Dentists Act 1984;
 - “exposure-prone procedures” (“*triniaethau a all arwain at gysylltiad*”) for the purposes of these Regulations refers to invasive procedures where there is a risk that injury to the dentist or dental care professional may result in the exposure of a patient’s open tissue to the blood of the dentist or dental care professional;
@@ -106,7 +106,7 @@ The title of these Regulations is the Registration of Private Dentistry (Wales) 
 
 ## PART 2 — Applications for Registration Under Part 2 of the Act
 
-### 4. Information and documents to be provided by an applicant[^key-97dce48540fae80d076c7b6ed78523c9]
+### 4. Information and documents to be provided by an applicant[^c-97dce48540fae80d076c7b6ed78523c9]
 
 (1) An application for registration must—
 
@@ -127,22 +127,22 @@ The title of these Regulations is the Registration of Private Dentistry (Wales) 
 
 (4) If the registration authority so requests, the applicant must provide full information to the registration authority in respect of the matters listed in Part 3 of Schedule 1 in relation to any person specified for this purpose by the registration authority, who works, or intends to work, at the private dental practice.
 
-### 5. Convictions[^key-4768f3c694b3b9e9a3d821d0f9a7aeec]
+### 5. Convictions[^c-4768f3c694b3b9e9a3d821d0f9a7aeec]
 
 Where the registration authority asks the responsible person for details of any criminal convictions which are spent within the meaning of section 1 of the Rehabilitation of Offenders Act 1974[^f00012] and informs him or her at the time the question is asked that by virtue of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^f00013] spent convictions (except where they are protected convictions as described in article 2A of that Order) are to be disclosed, the responsible person must supply in writing to the registration authority details of any spent convictions that the responsible person has.
 
-### 6. Interview[^key-7344167878023b9c02967fd3620f4c3b]
+### 6. Interview[^c-7344167878023b9c02967fd3620f4c3b]
 
 If the registration authority so requests, the responsible person must attend an interview for the purpose of enabling the registration authority to determine whether the applicant is fit to carry on or manage the private dental practice in respect of which the applicant seeks to be registered[^f00014].
 
-### 7. Notice of changes[^key-7f50e4c04da62fca9e58277581d6770e]
+### 7. Notice of changes[^c-7f50e4c04da62fca9e58277581d6770e]
 
 The applicant must give notice in writing to the registration authority of any change specified below which occurs after the application for registration occurs and before it is determined—
 
 - (a) any change of the name or address of the applicant or any responsible person;
 - (b) where the applicant is an organisation, any change of director, manager, secretary or other person responsible for supervising the management of the organisation.
 
-### 8. Information as to staff engaged after application made[^key-8a0b0df44074a27300bf149b0df9f7ee]
+### 8. Information as to staff engaged after application made[^c-8a0b0df44074a27300bf149b0df9f7ee]
 
 Where the applicant applies for registration as a person who carries on a private dental practice, and before the application is determined, engages a person to work at the private dental practice, the applicant must, in respect of each person so engaged—
 
@@ -151,7 +151,7 @@ Where the applicant applies for registration as a person who carries on a privat
 
 ## PART 3 — Certificates of Registration
 
-### 9. Contents of certificate[^key-cec26aeb9bcd2f453ef2e8f32b43b001]
+### 9. Contents of certificate[^c-cec26aeb9bcd2f453ef2e8f32b43b001]
 
 A certificate of registration must contain the following particulars—
 
@@ -165,20 +165,20 @@ A certificate of registration must contain the following particulars—
 - (h) a statement that if a private dental practice is not carried on in accordance with the relevant requirements and any conditions, the registration is liable to be cancelled by the registration authority;
 - (i) a statement that the certificate relates only to the person to whom it is issued by the registration authority and is not capable of being transferred to another person.
 
-### 10. Return of certificate[^key-5cdb6b0e2dcdd535a67d7e800e2c1e70]
+### 10. Return of certificate[^c-5cdb6b0e2dcdd535a67d7e800e2c1e70]
 
 If the registration of a person in respect of a private dental practice is cancelled, that person must, not later than the day on which the decision or order cancelling the registration takes effect, return the certificate of registration to the registration authority by—
 
 - (a) delivering it to the appropriate office of the registration authority; or
 - (b) sending it to the appropriate office of registration authority by registered post or recorded delivery.
 
-### 11. Offence[^key-821d41cf21a4806bc51ee3ca7f93feb1]
+### 11. Offence[^c-821d41cf21a4806bc51ee3ca7f93feb1]
 
 A failure to comply with regulation 10 is an offence.
 
 ## PART 4 — Conditions and Reports
 
-### 12. Application for variation or removal of a condition[^key-9377680a017baaacfffad248cbd4a698]
+### 12. Application for variation or removal of a condition[^c-9377680a017baaacfffad248cbd4a698]
 
 (1) In this regulation—
 
@@ -202,19 +202,19 @@ A failure to comply with regulation 10 is an offence.
 
 (4) The registered person must provide the registration authority with any other documents or information that the registration authority may reasonably require in relation to the application.
 
-### 13. Report as to financial viability[^key-510e705290f2888f6cf2e27ed11ee546]
+### 13. Report as to financial viability[^c-510e705290f2888f6cf2e27ed11ee546]
 
 If it appears to the registered person that the private dental practice is likely to cease to be financially viable at any time within the following 6 months, the registered person must give a report to the registration authority of the relevant circumstances.
 
 ## PART 5 — Cancellation of Registration
 
-### 14. Cancellation of registration[^key-5392e20dcfc890e8a659f4bfd066362a]
+### 14. Cancellation of registration[^c-5392e20dcfc890e8a659f4bfd066362a]
 
 (1) For the purposes of section 14(1)(d) of the Act, the ground on which the registration authority may cancel the registration of a person in respect of a private dental practice is specified in paragraph (2).
 
 (2) The ground referred to in paragraph (1) is that the private dental practice has ceased to be financially viable or is likely to cease to be so at any time within the next 6 months.
 
-### 15. Application for cancellation of registration[^key-ba4b5c5ec57a357028ca6feff857b8e3]
+### 15. Application for cancellation of registration[^c-ba4b5c5ec57a357028ca6feff857b8e3]
 
 (1) In this regulation—
 
@@ -254,7 +254,7 @@ Regulations 4 and 8
 
 ### PART 1
 
-#### 1. Information about the applicant[^key-53edb80bf8878cf1bce06e0996b88a30]
+#### 1. Information about the applicant[^c-53edb80bf8878cf1bce06e0996b88a30]
 
 Where the applicant is an individual—
 
@@ -274,68 +274,68 @@ Where the applicant is an individual—
   - (ii) details of any conditions imposed on the responsible person’s professional registration or inclusion on a dental performers list;
 - (h) if the applicant intends to carry on the private dental practice in partnership with others, the information specified in sub-paragraphs (a) to (g) of this paragraph in relation to each partner of the applicant.
 
-**2.**[^key-bab680bcc1df29ea037cfdfe757af743] Where the applicant is a partnership—
+**2.**[^c-bab680bcc1df29ea037cfdfe757af743] Where the applicant is a partnership—
 
 - (a) the name and address of the partnership;
 - (b) in relation to each member of the partnership, the information specified in paragraph 1(a) to (g).
 
-**3.**[^key-9335f34ddf56ace0f0d75bd26319be81] Where the applicant is an organisation—
+**3.**[^c-9335f34ddf56ace0f0d75bd26319be81] Where the applicant is an organisation—
 
 - (a) the name of the organisation and the address of the registered office or principal office of the organisation;
 - (b) the responsible person’s full name, date of birth, current address and telephone number;
 - (c) details of the responsible person’s professional or technical qualifications and experience of carrying on a private dental practice, so far as such qualifications and experience are relevant to providing services for persons for whom services are to be provided by the private dental practice;
 - (d) if the organisation is a subsidiary of a holding company, the name and address of the registered or principal office of the holding company and of any other subsidiary of that holding company.
 
-**4.**[^key-2f31dacc2683c2c04a3109aa4b6b7014] In every case—
+**4.**[^c-2f31dacc2683c2c04a3109aa4b6b7014] In every case—
 
 - (a) a statement as to whether the responsible person has been adjudged bankrupt, is a person in respect of whom a debt relief order has been made or sequestration of his estate has been ordered, or whether the responsible person has made a composition or arrangement with, or granted a trust deed for, their creditors;
 - (b) a statement as to the applicant’s ability to ensure the financial viability of the private dental practice for the purpose of achieving the aims and objectives of the private dental practice set out in its statement of purpose.
 
 ### PART 2
 
-#### 5. Information about the private dental practice[^key-395d2367aa77f0b18b8a52a98bfd5743]
+#### 5. Information about the private dental practice[^c-395d2367aa77f0b18b8a52a98bfd5743]
 
 The name, address, telephone number, facsimile number (if any), and electronic mail address (if any) of the private dental practice.
 
-**6.**[^key-a9730a55e1a83a1338c3873ce3401702] Where the private dental practice is being operated from more than one site, the name, address, telephone number, facsimile number (if any), and electronic mail address (if any) of each site.
+**6.**[^c-a9730a55e1a83a1338c3873ce3401702] Where the private dental practice is being operated from more than one site, the name, address, telephone number, facsimile number (if any), and electronic mail address (if any) of each site.
 
-**7.**[^key-cd15a36e5cd7422cf0453e61c005a026] The description of the private dental practice in respect of which the applicant seeks to be registered.
+**7.**[^c-cd15a36e5cd7422cf0453e61c005a026] The description of the private dental practice in respect of which the applicant seeks to be registered.
 
-**8.**[^key-7f517e61f292bfa932ab4554f9f150cf] The statement of purpose of the private dental practice.
+**8.**[^c-7f517e61f292bfa932ab4554f9f150cf] The statement of purpose of the private dental practice.
 
-**9.**[^key-5634e45fd0591e50f6843b5739106884] A statement as to the facilities and services which are to be provided by the private dental practice including the extent of such facilities and services.
+**9.**[^c-5634e45fd0591e50f6843b5739106884] A statement as to the facilities and services which are to be provided by the private dental practice including the extent of such facilities and services.
 
-**10.**[^key-cf8bd0f152bea7d85cc188b1d695fbe5] The date on which the private dental practice was established or is proposed to be established.
+**10.**[^c-cf8bd0f152bea7d85cc188b1d695fbe5] The date on which the private dental practice was established or is proposed to be established.
 
-**11.**[^key-bb2f49e9e3e16e54600a171efbcda6e2] Details of indicative charges payable by the service users.
+**11.**[^c-bb2f49e9e3e16e54600a171efbcda6e2] Details of indicative charges payable by the service users.
 
-**12.**[^key-6675e65469da37b79943f5ee71ef91a3] In respect of the premises to be used by a private dental practice, a description of the premises, including a statement as to whether the premises are purpose-built or have been converted for use as a private dental practice.
+**12.**[^c-6675e65469da37b79943f5ee71ef91a3] In respect of the premises to be used by a private dental practice, a description of the premises, including a statement as to whether the premises are purpose-built or have been converted for use as a private dental practice.
 
-**13.**[^key-2e1435c285ed4f716256580a4b9f3e77] In respect of the premises to be used by a private dental practice, a statement as to whether, at the date the application is made, the premises are capable of being used for the purposes in paragraph 14 without the need for planning permission, building works, or conversion of the premises and, if the premises are not capable of such use at the date the application is made, details of the permission, works or conversion needed.
+**13.**[^c-2e1435c285ed4f716256580a4b9f3e77] In respect of the premises to be used by a private dental practice, a statement as to whether, at the date the application is made, the premises are capable of being used for the purposes in paragraph 14 without the need for planning permission, building works, or conversion of the premises and, if the premises are not capable of such use at the date the application is made, details of the permission, works or conversion needed.
 
-**14.**[^key-6fe8831a95e076cc0516c595ca0939e3] The purposes referred to in paragraph 13 are—
+**14.**[^c-6fe8831a95e076cc0516c595ca0939e3] The purposes referred to in paragraph 13 are—
 
 - (a) achieving the aims and objectives set out in the statement of purpose of the private dental practice; and
 - (b) providing facilities and services in accordance with the statement referred to in paragraph 9.
 
-**15.**[^key-1a4f17edb4d810b1cb4d511daba5573d] A statement as to the security arrangements, including arrangements for the purposes of—
+**15.**[^c-1a4f17edb4d810b1cb4d511daba5573d] A statement as to the security arrangements, including arrangements for the purposes of—
 
 - (a) safeguarding access to information held by the private dental practice; and
 - (b) restricting access from adjacent premises or, when the premises form part of a building, from other parts of the building.
 
-**16.**[^key-e381232e77c05709e3fbfd88b2442cc5] The name and address of any other private dental practice, which the applicant has or has had a business or financial interest, or at which the applicant is or has been employed, and details of such interest or employment.
+**16.**[^c-e381232e77c05709e3fbfd88b2442cc5] The name and address of any other private dental practice, which the applicant has or has had a business or financial interest, or at which the applicant is or has been employed, and details of such interest or employment.
 
-**17.**[^key-ed07201d59c0f0d986d736de03b93e8e] Whether any other business is or will be carried on in the same premises as those of the private dental practice and, if so, details of that business.
+**17.**[^c-ed07201d59c0f0d986d736de03b93e8e] Whether any other business is or will be carried on in the same premises as those of the private dental practice and, if so, details of that business.
 
-**18.**[^key-f9c97d203d4760162c752134613ae2a2] Details of any Class 3B or Class 4 laser products[^f00015] that will be used to provide dental treatment to patients including whether the required professional protocol has been drawn up and the appropriate training undertaken.
+**18.**[^c-f9c97d203d4760162c752134613ae2a2] Details of any Class 3B or Class 4 laser products[^f00015] that will be used to provide dental treatment to patients including whether the required professional protocol has been drawn up and the appropriate training undertaken.
 
-#### 19. Information about staff posts[^key-3b13e0b6a8bdd6c2be2ac3c954366c37]
+#### 19. Information about staff posts[^c-3b13e0b6a8bdd6c2be2ac3c954366c37]
 
 A list of staff posts at the private dental practice and the duties and responsibilities attaching to each post.
 
 ### PART 3
 
-#### 20. Further information about staff[^key-bf055b314f93a3743e0271ac2d606045]
+#### 20. Further information about staff[^c-bf055b314f93a3743e0271ac2d606045]
 
 In respect of any person, other than the applicant, who works at, or is intended to work at the private dental practice—
 
@@ -363,25 +363,25 @@ In respect of any person, other than the applicant, who works at, or is intended
 
 Regulations 4 and 8
 
-### 1. Documents concerning applicant[^key-ee9a72685c2caae11098679ac83603f6]
+### 1. Documents concerning applicant[^c-ee9a72685c2caae11098679ac83603f6]
 
 The responsible person’s birth certificate.
 
-**2.**[^key-ae83997db1107bca416bdb7be3f41480] Certificates or other suitable evidence relating to the responsible person’s professional or technical qualifications, so far as such qualifications are relevant to providing services for persons for whom services are to be provided at the private dental practice.
+**2.**[^c-ae83997db1107bca416bdb7be3f41480] Certificates or other suitable evidence relating to the responsible person’s professional or technical qualifications, so far as such qualifications are relevant to providing services for persons for whom services are to be provided at the private dental practice.
 
-**3.**[^key-c9eab9d9c5ec1a5c0636db224da60c50] A statement by the responsible person as to the state of their physical and mental health.
+**3.**[^c-c9eab9d9c5ec1a5c0636db224da60c50] A statement by the responsible person as to the state of their physical and mental health.
 
-**4.**[^key-fa09c03d9b2318d8e75045733019ebce] In relation to the responsible person, an enhanced criminal record certificate issued under section 113B of the Police Act 1997[^f00016] which includes, as applicable, suitability information relating to vulnerable adults (as defined in section 113BB of that Act) or suitability information relating to children (as defined in section 113BA of that Act) or both, in respect of which less than three years has lapsed.
+**4.**[^c-fa09c03d9b2318d8e75045733019ebce] In relation to the responsible person, an enhanced criminal record certificate issued under section 113B of the Police Act 1997[^f00016] which includes, as applicable, suitability information relating to vulnerable adults (as defined in section 113BB of that Act) or suitability information relating to children (as defined in section 113BA of that Act) or both, in respect of which less than three years has lapsed.
 
-**5.**[^key-01282bb0b81ae5e33f2b111040e5b089] Where the applicant is a body corporate, a copy of each of its last two annual reports.
+**5.**[^c-01282bb0b81ae5e33f2b111040e5b089] Where the applicant is a body corporate, a copy of each of its last two annual reports.
 
-**6.**[^key-2c056e1d8893d96186745cf5524133a8] Where the organisation is a subsidiary of a holding company, the name and address of the registered or principal office and the last two annual reports (if any) of the holding company and of any other subsidiary of that holding company.
+**6.**[^c-2c056e1d8893d96186745cf5524133a8] Where the organisation is a subsidiary of a holding company, the name and address of the registered or principal office and the last two annual reports (if any) of the holding company and of any other subsidiary of that holding company.
 
-**7.**[^key-3fd0bdfe580139f7546713f5e2fc9c18] The last annual accounts (if any) of the private dental practice.
+**7.**[^c-3fd0bdfe580139f7546713f5e2fc9c18] The last annual accounts (if any) of the private dental practice.
 
-**8.**[^key-1394e3a57c41cb0795b85a8de2274aa4] A certificate of insurance for the applicant in respect of liability which may be incurred by the applicant in relation to the private dental practice in respect of death, injury, public liability, damage or other loss.
+**8.**[^c-1394e3a57c41cb0795b85a8de2274aa4] A certificate of insurance for the applicant in respect of liability which may be incurred by the applicant in relation to the private dental practice in respect of death, injury, public liability, damage or other loss.
 
-### 9. Criminal record certificates in respect of staff[^key-0f19fe401a3147e14e28aa81e7ca685b]
+### 9. Criminal record certificates in respect of staff[^c-0f19fe401a3147e14e28aa81e7ca685b]
 
 (1) A statement confirming that—
 
@@ -401,19 +401,19 @@ Regulation 4
 
 ### PART 1
 
-#### 1. Information[^key-38491d6087763d6799342affdfa7b8c4]
+#### 1. Information[^c-38491d6087763d6799342affdfa7b8c4]
 
 The applicant’s full name, date of birth, current address, telephone number and electronic mail address (if any).
 
-**2.**[^key-717ff3ba86ca0cd87033ac14d53148e7] Details of the applicant’s professional or technical qualifications, and experience of managing a private dental practice, so far as such qualifications and experience are relevant to providing services for persons for whom services are to be provided at the private dental practice.
+**2.**[^c-717ff3ba86ca0cd87033ac14d53148e7] Details of the applicant’s professional or technical qualifications, and experience of managing a private dental practice, so far as such qualifications and experience are relevant to providing services for persons for whom services are to be provided at the private dental practice.
 
-**3.**[^key-072213b126fb58e3ea519581a065a07b] Details of the applicant’s professional training relevant to carrying on or managing a private dental practice.
+**3.**[^c-072213b126fb58e3ea519581a065a07b] Details of the applicant’s professional training relevant to carrying on or managing a private dental practice.
 
-**4.**[^key-29476b41f482af94fba9bece6a46e86f] Details of the applicant’s employment history, including the name and address of their present employer and of any previous employers.
+**4.**[^c-29476b41f482af94fba9bece6a46e86f] Details of the applicant’s employment history, including the name and address of their present employer and of any previous employers.
 
-**5.**[^key-886f5c00dac34a346ff94befa66dcba1] Details of any business the applicant carries on or manages or has carried on or managed.
+**5.**[^c-886f5c00dac34a346ff94befa66dcba1] Details of any business the applicant carries on or manages or has carried on or managed.
 
-**6.**[^key-826dcdbfcb033992c69f2b724c0fe2a8] (1) The name and addresses of two referees—
+**6.**[^c-826dcdbfcb033992c69f2b724c0fe2a8] (1) The name and addresses of two referees—
 
 - (a) who are not relatives of the applicant;
 - (b) each of whom is able to provide a reference as to the applicant’s competence to manage private dental practice of the same description as the private dental practice; and
@@ -421,24 +421,24 @@ The applicant’s full name, date of birth, current address, telephone number an
 
 (2) The requirement for the name and address of a referee who has employed the applicant for a period of at least 3 months must not apply where it is impracticable to obtain a reference from a person who fulfils that requirement.
 
-**7.**[^key-b65521aaf76dcf87253e35405a7865c7] The name, address, telephone number, facsimile number (if any), and electronic mail address (if any) of the private dental practice.
+**7.**[^c-b65521aaf76dcf87253e35405a7865c7] The name, address, telephone number, facsimile number (if any), and electronic mail address (if any) of the private dental practice.
 
-**8.**[^key-2f8d76e18abc45c809266417dcac9d25] If the applicant is a dentist or dental care professional—
+**8.**[^c-2f8d76e18abc45c809266417dcac9d25] If the applicant is a dentist or dental care professional—
 
 - (a) the responsible person’s professional registration number; and
 - (b) details of any conditions imposed on the responsible person’s professional registration or inclusion on a dental performers list.
 
 ### PART 2
 
-#### 9. Documents[^key-48748d28d18ce84b59622e05af525d68]
+#### 9. Documents[^c-48748d28d18ce84b59622e05af525d68]
 
 The applicant’s birth certificate.
 
-**10.**[^key-4ec12fc686a7c465758aca89dd9a99fa] Certificates or other suitable evidence relating to the applicant’s professional or technical qualifications, so far as such qualifications are relevant to providing services for persons for whom services are to be provided at the private dental practice.
+**10.**[^c-4ec12fc686a7c465758aca89dd9a99fa] Certificates or other suitable evidence relating to the applicant’s professional or technical qualifications, so far as such qualifications are relevant to providing services for persons for whom services are to be provided at the private dental practice.
 
-**11.**[^key-50be48550ef20392e174284e7d4d07ce] A statement by the applicant as to the state of their physical and mental health.
+**11.**[^c-50be48550ef20392e174284e7d4d07ce] A statement by the applicant as to the state of their physical and mental health.
 
-**12.**[^key-2bc374757433a23c0f7e5bbf30e261ca] An enhanced criminal record certificate issued under section 113B of the Police Act 1997 and, as applicable, suitability information relating to vulnerable adults (as defined in section 113BB of that Act) or suitability information relating to children (as defined in section 113BA of that Act) or both, in respect of which less than three years has lapsed.
+**12.**[^c-2bc374757433a23c0f7e5bbf30e261ca] An enhanced criminal record certificate issued under section 113B of the Police Act 1997 and, as applicable, suitability information relating to vulnerable adults (as defined in section 113BB of that Act) or suitability information relating to children (as defined in section 113BA of that Act) or both, in respect of which less than three years has lapsed.
 
 EXPLANATORY NOTE
 
@@ -480,19 +480,19 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00002]: Footnote: *See* section 121(1) of the Act for the definitions of “prescribed” and “regulations”.
 
-[^key-c82aefd44f1db44c611bec16cafbb794]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-c82aefd44f1db44c611bec16cafbb794]: Commencement: [Reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-8509b7777ed69c3a4d961abdcd22b055]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/201/regulation/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-8509b7777ed69c3a4d961abdcd22b055]: Commencement: [Reg. 2](https://www.legislation.gov.uk/wsi/2017/201/regulation/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-1cbc504907b2275dacca056f4e7d6cb5]: Commencement: Reg. 3 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-1cbc504907b2275dacca056f4e7d6cb5]: Commencement: Reg. 3 in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
 [^f00003]: Footnote: [S.I. 2017/202 (W.57)](https://www.legislation.gov.uk/wsi/2017/202)).
 
 [^f00004]: Footnote: [1984 c. 24](https://www.legislation.gov.uk/ukpga/1984/24).
 
-[^key-acf223b24424df772cebfb9a08fd2ced]: Textual amendment: Words in reg. 3(1) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [88(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/88/2)
+[^c-acf223b24424df772cebfb9a08fd2ced]: Textual amendment: Words in reg. 3(1) substituted (6.11.2023) by [The Health and Care Act 2022 (Further Consequential Amendments) (No. 2) Regulations 2023 (S.I. 2023/1071)](https://www.legislation.gov.uk/uksi/2023/1071), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/1/1), [88(2)](https://www.legislation.gov.uk/uksi/2023/1071/regulation/88/2)
 
-[^key-832250f929a6fcbee5add5e6d87e67c0]: Textual amendment: Words in reg. 3 substituted (28.3.2026) by [The National Health Service (Performers Lists) (Wales) Regulations 2026 (W.S.I. 2026/63)](https://www.legislation.gov.uk/wsi/2026/63), [reg. 1](https://www.legislation.gov.uk/wsi/2026/63/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2026/63/schedule/2/paragraph/8) (with [reg. 42](https://www.legislation.gov.uk/wsi/2026/63/regulation/42))
+[^c-832250f929a6fcbee5add5e6d87e67c0]: Textual amendment: Words in reg. 3 substituted (28.3.2026) by [The National Health Service (Performers Lists) (Wales) Regulations 2026 (W.S.I. 2026/63)](https://www.legislation.gov.uk/wsi/2026/63), [reg. 1](https://www.legislation.gov.uk/wsi/2026/63/regulation/1), [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2026/63/schedule/2/paragraph/8) (with [reg. 42](https://www.legislation.gov.uk/wsi/2026/63/regulation/42))
 
 [^f00006]: Footnote: [2006 c. 41](https://www.legislation.gov.uk/ukpga/2006/41).
 
@@ -506,118 +506,118 @@ The Welsh Ministers’ Code of Practice on the carrying out of Regulatory Impact
 
 [^f00011]: Footnote: A clinical dental technician may only provide the full range of services via direct access arrangements for edentulous patients.
 
-[^key-97dce48540fae80d076c7b6ed78523c9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/201/regulation/4) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-97dce48540fae80d076c7b6ed78523c9]: Commencement: [Reg. 4](https://www.legislation.gov.uk/wsi/2017/201/regulation/4) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-4768f3c694b3b9e9a3d821d0f9a7aeec]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/201/regulation/5) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-4768f3c694b3b9e9a3d821d0f9a7aeec]: Commencement: [Reg. 5](https://www.legislation.gov.uk/wsi/2017/201/regulation/5) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
 [^f00012]: Footnote: [1974 c. 53](https://www.legislation.gov.uk/ukpga/1974/53).
 
 [^f00013]: Footnote: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023).
 
-[^key-7344167878023b9c02967fd3620f4c3b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/201/regulation/6) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-7344167878023b9c02967fd3620f4c3b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/wsi/2017/201/regulation/6) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
 [^f00014]: Footnote: For the requirements as to fitness *see* regulations 9 and 11 of the Private Dentistry (Wales) Regulations 2017 ([S.I. 2017/202 (W.57)](https://www.legislation.gov.uk/wsi/2017/202)).
 
-[^key-7f50e4c04da62fca9e58277581d6770e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2017/201/regulation/7) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-7f50e4c04da62fca9e58277581d6770e]: Commencement: [Reg. 7](https://www.legislation.gov.uk/wsi/2017/201/regulation/7) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-8a0b0df44074a27300bf149b0df9f7ee]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2017/201/regulation/8) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-8a0b0df44074a27300bf149b0df9f7ee]: Commencement: [Reg. 8](https://www.legislation.gov.uk/wsi/2017/201/regulation/8) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-cec26aeb9bcd2f453ef2e8f32b43b001]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2017/201/regulation/9) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-cec26aeb9bcd2f453ef2e8f32b43b001]: Commencement: [Reg. 9](https://www.legislation.gov.uk/wsi/2017/201/regulation/9) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-5cdb6b0e2dcdd535a67d7e800e2c1e70]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2017/201/regulation/10) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-5cdb6b0e2dcdd535a67d7e800e2c1e70]: Commencement: [Reg. 10](https://www.legislation.gov.uk/wsi/2017/201/regulation/10) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-821d41cf21a4806bc51ee3ca7f93feb1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2017/201/regulation/11) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-821d41cf21a4806bc51ee3ca7f93feb1]: Commencement: [Reg. 11](https://www.legislation.gov.uk/wsi/2017/201/regulation/11) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-9377680a017baaacfffad248cbd4a698]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2017/201/regulation/12) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-9377680a017baaacfffad248cbd4a698]: Commencement: [Reg. 12](https://www.legislation.gov.uk/wsi/2017/201/regulation/12) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-510e705290f2888f6cf2e27ed11ee546]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2017/201/regulation/13) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-510e705290f2888f6cf2e27ed11ee546]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2017/201/regulation/13) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-5392e20dcfc890e8a659f4bfd066362a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2017/201/regulation/14) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-5392e20dcfc890e8a659f4bfd066362a]: Commencement: [Reg. 14](https://www.legislation.gov.uk/wsi/2017/201/regulation/14) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-ba4b5c5ec57a357028ca6feff857b8e3]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2017/201/regulation/15) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-ba4b5c5ec57a357028ca6feff857b8e3]: Commencement: [Reg. 15](https://www.legislation.gov.uk/wsi/2017/201/regulation/15) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-53edb80bf8878cf1bce06e0996b88a30]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-53edb80bf8878cf1bce06e0996b88a30]: Commencement: [Sch. 1 para. 1](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-bab680bcc1df29ea037cfdfe757af743]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-bab680bcc1df29ea037cfdfe757af743]: Commencement: [Sch. 1 para. 2](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-9335f34ddf56ace0f0d75bd26319be81]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/3) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-9335f34ddf56ace0f0d75bd26319be81]: Commencement: [Sch. 1 para. 3](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/3) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-2f31dacc2683c2c04a3109aa4b6b7014]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/4) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-2f31dacc2683c2c04a3109aa4b6b7014]: Commencement: [Sch. 1 para. 4](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/4) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-395d2367aa77f0b18b8a52a98bfd5743]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/5) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-395d2367aa77f0b18b8a52a98bfd5743]: Commencement: [Sch. 1 para. 5](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/5) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-a9730a55e1a83a1338c3873ce3401702]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/6) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-a9730a55e1a83a1338c3873ce3401702]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/6) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-cd15a36e5cd7422cf0453e61c005a026]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/7) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-cd15a36e5cd7422cf0453e61c005a026]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/7) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-7f517e61f292bfa932ab4554f9f150cf]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/8) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-7f517e61f292bfa932ab4554f9f150cf]: Commencement: [Sch. 1 para. 8](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/8) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-5634e45fd0591e50f6843b5739106884]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/9) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-5634e45fd0591e50f6843b5739106884]: Commencement: [Sch. 1 para. 9](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/9) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-cf8bd0f152bea7d85cc188b1d695fbe5]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/10) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-cf8bd0f152bea7d85cc188b1d695fbe5]: Commencement: [Sch. 1 para. 10](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/10) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-bb2f49e9e3e16e54600a171efbcda6e2]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/11) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-bb2f49e9e3e16e54600a171efbcda6e2]: Commencement: [Sch. 1 para. 11](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/11) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-6675e65469da37b79943f5ee71ef91a3]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/12) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-6675e65469da37b79943f5ee71ef91a3]: Commencement: [Sch. 1 para. 12](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/12) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-2e1435c285ed4f716256580a4b9f3e77]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/13) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-2e1435c285ed4f716256580a4b9f3e77]: Commencement: [Sch. 1 para. 13](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/13) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-6fe8831a95e076cc0516c595ca0939e3]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/14) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-6fe8831a95e076cc0516c595ca0939e3]: Commencement: [Sch. 1 para. 14](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/14) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-1a4f17edb4d810b1cb4d511daba5573d]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/15) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-1a4f17edb4d810b1cb4d511daba5573d]: Commencement: [Sch. 1 para. 15](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/15) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-e381232e77c05709e3fbfd88b2442cc5]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/16) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-e381232e77c05709e3fbfd88b2442cc5]: Commencement: [Sch. 1 para. 16](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/16) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-ed07201d59c0f0d986d736de03b93e8e]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/17) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-ed07201d59c0f0d986d736de03b93e8e]: Commencement: [Sch. 1 para. 17](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/17) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-f9c97d203d4760162c752134613ae2a2]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/18) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-f9c97d203d4760162c752134613ae2a2]: Commencement: [Sch. 1 para. 18](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/18) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
 [^f00015]: Footnote: For the meaning of Class 3B or Class 4 laser product *see* Part 1 of British Standard EN 60825 – 1 (Radiation safety of laser products and systems). Copies can be obtained from BS1 Customer Services, 389 Chiswick High Road, London W4 4AL.
 
-[^key-3b13e0b6a8bdd6c2be2ac3c954366c37]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/19) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-3b13e0b6a8bdd6c2be2ac3c954366c37]: Commencement: [Sch. 1 para. 19](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/19) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-bf055b314f93a3743e0271ac2d606045]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/20) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-bf055b314f93a3743e0271ac2d606045]: Commencement: [Sch. 1 para. 20](https://www.legislation.gov.uk/wsi/2017/201/schedule/1/paragraph/20) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-ee9a72685c2caae11098679ac83603f6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-ee9a72685c2caae11098679ac83603f6]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-ae83997db1107bca416bdb7be3f41480]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-ae83997db1107bca416bdb7be3f41480]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-c9eab9d9c5ec1a5c0636db224da60c50]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/3) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-c9eab9d9c5ec1a5c0636db224da60c50]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/3) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-fa09c03d9b2318d8e75045733019ebce]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/4) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-fa09c03d9b2318d8e75045733019ebce]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/4) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
 [^f00016]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
-[^key-01282bb0b81ae5e33f2b111040e5b089]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/5) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-01282bb0b81ae5e33f2b111040e5b089]: Commencement: [Sch. 2 para. 5](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/5) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-2c056e1d8893d96186745cf5524133a8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/6) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-2c056e1d8893d96186745cf5524133a8]: Commencement: [Sch. 2 para. 6](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/6) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-3fd0bdfe580139f7546713f5e2fc9c18]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/7) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-3fd0bdfe580139f7546713f5e2fc9c18]: Commencement: [Sch. 2 para. 7](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/7) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-1394e3a57c41cb0795b85a8de2274aa4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/8) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-1394e3a57c41cb0795b85a8de2274aa4]: Commencement: [Sch. 2 para. 8](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/8) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-0f19fe401a3147e14e28aa81e7ca685b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/9) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-0f19fe401a3147e14e28aa81e7ca685b]: Commencement: [Sch. 2 para. 9](https://www.legislation.gov.uk/wsi/2017/201/schedule/2/paragraph/9) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-38491d6087763d6799342affdfa7b8c4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-38491d6087763d6799342affdfa7b8c4]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/1) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-717ff3ba86ca0cd87033ac14d53148e7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-717ff3ba86ca0cd87033ac14d53148e7]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/2) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-072213b126fb58e3ea519581a065a07b]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/3) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-072213b126fb58e3ea519581a065a07b]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/3) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-29476b41f482af94fba9bece6a46e86f]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/4) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-29476b41f482af94fba9bece6a46e86f]: Commencement: [Sch. 3 para. 4](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/4) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-886f5c00dac34a346ff94befa66dcba1]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/5) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-886f5c00dac34a346ff94befa66dcba1]: Commencement: [Sch. 3 para. 5](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/5) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-826dcdbfcb033992c69f2b724c0fe2a8]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/6) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-826dcdbfcb033992c69f2b724c0fe2a8]: Commencement: [Sch. 3 para. 6](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/6) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-b65521aaf76dcf87253e35405a7865c7]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/7) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-b65521aaf76dcf87253e35405a7865c7]: Commencement: [Sch. 3 para. 7](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/7) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-2f8d76e18abc45c809266417dcac9d25]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/8) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-2f8d76e18abc45c809266417dcac9d25]: Commencement: [Sch. 3 para. 8](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/8) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-48748d28d18ce84b59622e05af525d68]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/9) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-48748d28d18ce84b59622e05af525d68]: Commencement: [Sch. 3 para. 9](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/9) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-4ec12fc686a7c465758aca89dd9a99fa]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/10) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-4ec12fc686a7c465758aca89dd9a99fa]: Commencement: [Sch. 3 para. 10](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/10) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-50be48550ef20392e174284e7d4d07ce]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/11) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-50be48550ef20392e174284e7d4d07ce]: Commencement: [Sch. 3 para. 11](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/11) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
 
-[^key-2bc374757433a23c0f7e5bbf30e261ca]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/12) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)
+[^c-2bc374757433a23c0f7e5bbf30e261ca]: Commencement: [Sch. 3 para. 12](https://www.legislation.gov.uk/wsi/2017/201/schedule/3/paragraph/12) in force at 1.4.2017, see [reg. 1](https://www.legislation.gov.uk/wsi/2017/201/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 234. Normal working hours.[^c20372971][^key-4f579fdfe9a8e3214add11573aa1083f]
+## 234. Normal working hours.[^c20372971][^c-4f579fdfe9a8e3214add11573aa1083f]
 
 *Extent: E+W+S*
 
@@ -35,4 +35,4 @@ the normal working hours are that number or minimum number of hours (and not the
 
 [^c20372971]: Modification: S. 234 applied (prosp.) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 5(5)](https://www.legislation.gov.uk/ukpga/2008/25/section/5/5), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4) (with [ss. 62(1)(5)(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/62/1/5/6), [64(1)(5)(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/64/1/5/6))
 
-[^key-4f579fdfe9a8e3214add11573aa1083f]: Modification: S. 234 applied (28.6.2013) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 5(5)](https://www.legislation.gov.uk/ukpga/2008/25/section/5/5), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4) (with [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2008/25/section/62/1)[(5)](https://www.legislation.gov.uk/ukpga/2008/25/section/62/5)[(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/62/6), [64(1)](https://www.legislation.gov.uk/ukpga/2008/25/section/64/1)[(5)](https://www.legislation.gov.uk/ukpga/2008/25/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/64/6)); [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/e)
+[^c-4f579fdfe9a8e3214add11573aa1083f]: Modification: S. 234 applied (28.6.2013) by [Education and Skills Act 2008 (c. 25)](https://www.legislation.gov.uk/ukpga/2008/25), [ss. 5(5)](https://www.legislation.gov.uk/ukpga/2008/25/section/5/5), [173(4)](https://www.legislation.gov.uk/ukpga/2008/25/section/173/4) (with [ss. 62(1)](https://www.legislation.gov.uk/ukpga/2008/25/section/62/1)[(5)](https://www.legislation.gov.uk/ukpga/2008/25/section/62/5)[(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/62/6), [64(1)](https://www.legislation.gov.uk/ukpga/2008/25/section/64/1)[(5)](https://www.legislation.gov.uk/ukpga/2008/25/section/64/5)[(6)](https://www.legislation.gov.uk/ukpga/2008/25/section/64/6)); [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/e)

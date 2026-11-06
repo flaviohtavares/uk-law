@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 42. Promotion of best practice etc.[^key-43e81e67b2c77b4c0f2ecbbd7e959c39]
+## 42. Promotion of best practice etc.[^c-43e81e67b2c77b4c0f2ecbbd7e959c39]
 
 *Extent: N.I.*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-43e81e67b2c77b4c0f2ecbbd7e959c39]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2016/4/section/42) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)
+[^c-43e81e67b2c77b4c0f2ecbbd7e959c39]: Commencement: [S. 42](https://www.legislation.gov.uk/nia/2016/4/section/42) in operation at 24.5.2021 by [S.R. 2021/113](https://www.legislation.gov.uk/nisr/2021/113), [art. 3](https://www.legislation.gov.uk/nisr/2021/113/article/3)

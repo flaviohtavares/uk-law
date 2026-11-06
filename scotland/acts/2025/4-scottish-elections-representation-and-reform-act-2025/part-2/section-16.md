@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 16. Local authorities: disqualifications for nomination, election and holding office[^key-d28ec3fa0e62cf5dafd50ff6823a42c1][^key-af9561cc9a7f31fa9c0188720376338c]
+## 16. Local authorities: disqualifications for nomination, election and holding office[^c-d28ec3fa0e62cf5dafd50ff6823a42c1][^c-af9561cc9a7f31fa9c0188720376338c]
 
 *Extent: S*
 
@@ -32,6 +32,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d28ec3fa0e62cf5dafd50ff6823a42c1]: Commencement: S. 16 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
+[^c-d28ec3fa0e62cf5dafd50ff6823a42c1]: Commencement: S. 16 not in force at Royal Assent, see [s. 73(2)](https://www.legislation.gov.uk/asp/2025/4/section/73/2)
 
-[^key-af9561cc9a7f31fa9c0188720376338c]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2025/4/section/16) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)
+[^c-af9561cc9a7f31fa9c0188720376338c]: Commencement: [S. 16](https://www.legislation.gov.uk/asp/2025/4/section/16) in force at 1.8.2025 by [S.S.I. 2025/106](https://www.legislation.gov.uk/ssi/2025/106), [reg. 2(1)(b)](https://www.legislation.gov.uk/ssi/2025/106/regulation/2/1/b), [sch. Pt. 2](https://www.legislation.gov.uk/ssi/2025/106/schedule/part/2)

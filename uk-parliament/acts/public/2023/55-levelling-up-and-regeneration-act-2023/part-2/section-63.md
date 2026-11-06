@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Functions in respect of key route network roads[^key-c6e6ca0ab62b1866017dcd1c6fa138f9]
+## 63. Functions in respect of key route network roads[^c-c6e6ca0ab62b1866017dcd1c6fa138f9]
 
 *Extent: E+W*
 
@@ -71,4 +71,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c6e6ca0ab62b1866017dcd1c6fa138f9]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2023/55/section/63) in force at 26.12.2023, see [s. 255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h)
+[^c-c6e6ca0ab62b1866017dcd1c6fa138f9]: Commencement: [S. 63](https://www.legislation.gov.uk/ukpga/2023/55/section/63) in force at 26.12.2023, see [s. 255(2)(h)](https://www.legislation.gov.uk/ukpga/2023/55/section/255/2/h)

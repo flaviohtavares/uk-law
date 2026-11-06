@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Appeals etc. in relation to notices under section 22B of the 2000 Act[^key-5c29f4f1c0c44da237d82f719085c4e8][^key-1a42db08604335e3ffa6fc3e69ae56ec]
+## 28. Appeals etc. in relation to notices under section 22B of the 2000 Act[^c-5c29f4f1c0c44da237d82f719085c4e8][^c-1a42db08604335e3ffa6fc3e69ae56ec]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-5c29f4f1c0c44da237d82f719085c4e8]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2008/23/section/28) in force at 1.4.2010 for E. by [S.I. 2009/3354](https://www.legislation.gov.uk/uksi/2009/3354), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2009/3354/article/3/2/c)
+[^c-5c29f4f1c0c44da237d82f719085c4e8]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2008/23/section/28) in force at 1.4.2010 for E. by [S.I. 2009/3354](https://www.legislation.gov.uk/uksi/2009/3354), [art. 3(2)(c)](https://www.legislation.gov.uk/uksi/2009/3354/article/3/2/c)
 
-[^key-1a42db08604335e3ffa6fc3e69ae56ec]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2008/23/section/28) in force at 26.4.2010 for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(l)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/l)
+[^c-1a42db08604335e3ffa6fc3e69ae56ec]: Commencement: [S. 28](https://www.legislation.gov.uk/ukpga/2008/23/section/28) in force at 26.4.2010 for W. by [S.I. 2010/1329](https://www.legislation.gov.uk/wsi/2010/1329), [art. 2(l)](https://www.legislation.gov.uk/wsi/2010/1329/article/2/l)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 74. Gazetting and advertisement of meetings[^key-ff8c0fc1573e797df0ef4f4f5144cbe6]
+## 74. Gazetting and advertisement of meetings[^c-ff8c0fc1573e797df0ef4f4f5144cbe6]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ff8c0fc1573e797df0ef4f4f5144cbe6]: Commencement: [Rule 74](https://www.legislation.gov.uk/uksi/2011/1301/rule/74) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-ff8c0fc1573e797df0ef4f4f5144cbe6]: Commencement: [Rule 74](https://www.legislation.gov.uk/uksi/2011/1301/rule/74) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -293,7 +293,7 @@ Section 139
   > - (da) any offence under any of the provisions of Part 1 of the Sexual Offences Act 2003 except section 64, 65, 69 or 71;
 
   ;
-- (b)[^key-0dfb447dc74ad9d0d3f9a5a5625869a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-0dfb447dc74ad9d0d3f9a5a5625869a1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (3) (Northern Ireland)—
 
@@ -381,7 +381,7 @@ Section 139
 
 (2) Omit sections 2, 2A, 2B and 3 (sex offender orders and interim orders).
 
-(3)[^key-a9464653f5b6be278dffca013452a8f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-a9464653f5b6be278dffca013452a8f5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Omit section 20.
 
@@ -448,7 +448,7 @@ Section 139
 
 **43.** (1) The Powers of Criminal Courts (Sentencing) Act 2000 is amended as follows.
 
-(2)[^key-1939b4acd7edda10bc559b3e010f1d7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-1939b4acd7edda10bc559b3e010f1d7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In section 109 (life sentence for second serious offence), in subsection (5), after paragraph (f) insert—
 
@@ -521,7 +521,7 @@ Section 139
 
 **46.** (1) The Proceeds of Crime Act 2002 is amended as follows.
 
-(2)[^key-955b897eab04959304848839291c47b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-955b897eab04959304848839291c47b2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For paragraph 8 of that Schedule substitute—
 
@@ -602,11 +602,11 @@ Section 139
 
 [^c18945191]: Textual amendment: Sch. 6 para. 28(3)(4) repealed (1.1.2006) by [Serious Organised Crime and Police Act 2005 (c. 15)](https://www.legislation.gov.uk/ukpga/2005/15), [ss. 174(2)](https://www.legislation.gov.uk/ukpga/2005/15/section/174/2), [178](https://www.legislation.gov.uk/ukpga/2005/15/section/178), [Sch. 17 Pt. 2](https://www.legislation.gov.uk/ukpga/2005/15/schedule/17/part/2); [S.I. 2005/3495](https://www.legislation.gov.uk/uksi/2005/3495), [art. 2(1)(t)(u)(lvi)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/1/t/u/lvi) (subject to [art. 2(2)](https://www.legislation.gov.uk/uksi/2005/3495/article/2/2))
 
-[^key-0dfb447dc74ad9d0d3f9a5a5625869a1]: Textual amendment: [Sch. 6 para. 31(2)(b)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/31/2/b) omitted (31.7.2015) by virtue of [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/5/4); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
+[^c-0dfb447dc74ad9d0d3f9a5a5625869a1]: Textual amendment: [Sch. 6 para. 31(2)(b)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/31/2/b) omitted (31.7.2015) by virtue of [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/5/4); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j)
 
 [^c20945971]: Textual amendment: Sch. 6 para. 33 repealed (S.) (1.12.2010) by [Sexual Offences (Scotland) Act 2009 (asp 9)](https://www.legislation.gov.uk/asp/2009/9), [ss. 61(2)](https://www.legislation.gov.uk/asp/2009/9/section/61/2), [62(2)](https://www.legislation.gov.uk/asp/2009/9/section/62/2), [Sch. 6](https://www.legislation.gov.uk/asp/2009/9/schedule/6); [S.S.I. 2010/357](https://www.legislation.gov.uk/ssi/2010/357), [art. 2(a)](https://www.legislation.gov.uk/ssi/2010/357/article/2/a)
 
-[^key-a9464653f5b6be278dffca013452a8f5]: Textual amendment: [Sch. 6 para. 38(3)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/38/3) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)
+[^c-a9464653f5b6be278dffca013452a8f5]: Textual amendment: [Sch. 6 para. 38(3)](https://www.legislation.gov.uk/ukpga/2003/42/schedule/6/paragraph/38/3) repealed (23.3.2015) by [Anti-social Behaviour, Crime and Policing Act 2014 (c. 12)](https://www.legislation.gov.uk/ukpga/2014/12), [s. 185(1)](https://www.legislation.gov.uk/ukpga/2014/12/section/185/1), [Sch. 11 para. 50](https://www.legislation.gov.uk/ukpga/2014/12/schedule/11/paragraph/50) (with [ss. 21](https://www.legislation.gov.uk/ukpga/2014/12/section/21), [33](https://www.legislation.gov.uk/ukpga/2014/12/section/33), [42](https://www.legislation.gov.uk/ukpga/2014/12/section/42), [58](https://www.legislation.gov.uk/ukpga/2014/12/section/58), [75](https://www.legislation.gov.uk/ukpga/2014/12/section/75), [93](https://www.legislation.gov.uk/ukpga/2014/12/section/93)); [S.I. 2015/373](https://www.legislation.gov.uk/uksi/2015/373), [art. 4(f)(xii)](https://www.legislation.gov.uk/uksi/2015/373/article/4/f/xii)
 
 [^c20919161]: Textual amendment: Sch. 6 para. 39 omitted (2.2.2009) by virtue of [The Sexual Offences (Northern Ireland Consequential Amendments) Order 2008 (S.I. 2008/1779)](https://www.legislation.gov.uk/uksi/2008/1779), [arts. 2(2)(a)](https://www.legislation.gov.uk/uksi/2008/1779/article/2/2/a), [15](https://www.legislation.gov.uk/uksi/2008/1779/article/15); [S.R. 2008/510](https://www.legislation.gov.uk/nisr/2008/510), [art. 2](https://www.legislation.gov.uk/nisr/2008/510/article/2)
 
@@ -614,9 +614,9 @@ Section 139
 
 [^M_F_c3e95692-814f-4d95-c390-f2eb09d42de7]: Textual amendment: Sch. 6 para. 42(3)(a) repealed (N.I.) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
 
-[^key-1939b4acd7edda10bc559b3e010f1d7c]: Textual amendment: Sch. 6 para. 43(2) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-1939b4acd7edda10bc559b3e010f1d7c]: Textual amendment: Sch. 6 para. 43(2) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-955b897eab04959304848839291c47b2]: Textual amendment: Sch. 6 para. 46(2) omitted (31.7.2015) by virtue of [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/5/4); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1476/regulation/3), [8](https://www.legislation.gov.uk/uksi/2015/1476/regulation/8))
+[^c-955b897eab04959304848839291c47b2]: Textual amendment: Sch. 6 para. 46(2) omitted (31.7.2015) by virtue of [Modern Slavery Act 2015 (c. 30)](https://www.legislation.gov.uk/ukpga/2015/30), [s. 61(1)](https://www.legislation.gov.uk/ukpga/2015/30/section/61/1), [Sch. 5 para. 5(4)](https://www.legislation.gov.uk/ukpga/2015/30/schedule/5/paragraph/5/4); [S.I. 2015/1476](https://www.legislation.gov.uk/uksi/2015/1476), [reg. 2(j)](https://www.legislation.gov.uk/uksi/2015/1476/regulation/2/j) (with [regs. 3](https://www.legislation.gov.uk/uksi/2015/1476/regulation/3), [8](https://www.legislation.gov.uk/uksi/2015/1476/regulation/8))
 
 [^M_F_4461d129-1019-4789-a854-1f70d91cd34e]: Textual amendment: Sch. 6 para 46(4) repealed (N.I.) (14.1.2015) by [Human Trafficking and Exploitation (Criminal Justice and Support for Victims) Act (Northern Ireland) 2015 (c. 2)](https://www.legislation.gov.uk/nia/2015/2), [s. 28(2)](https://www.legislation.gov.uk/nia/2015/2/section/28/2), [Sch. 5](https://www.legislation.gov.uk/nia/2015/2/schedule/5)
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 18. Immigration[^key-29bbfc6e58ba5f10c8ceb1811e0d7905]
+## 18. Immigration[^c-29bbfc6e58ba5f10c8ceb1811e0d7905]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ A person who is designated under regulation 5 for the purposes of this regulatio
 
 ## Annotations
 
-[^key-29bbfc6e58ba5f10c8ceb1811e0d7905]: Commencement: Reg. 18 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
+[^c-29bbfc6e58ba5f10c8ceb1811e0d7905]: Commencement: Reg. 18 in force at 31.12.2020 by [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 10(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/10/2)
 
 [^c24162901]: Marginal citation: [1971 c. 77](https://www.legislation.gov.uk/ukpga/1971/77). Section 8B was inserted by the [Immigration and Asylum Act 1999 (c.33)](https://www.legislation.gov.uk/ukpga/1999/33), [section 8](https://www.legislation.gov.uk/ukpga/1999/33/section/8) and amended by the [Immigration Act 2016 (c.19)](https://www.legislation.gov.uk/ukpga/2016/19), [section 76](https://www.legislation.gov.uk/ukpga/2016/19/section/76); and the Sanctions and Anti-Money Laundering Act 2018, section 59 and Schedule 3, Part 1.

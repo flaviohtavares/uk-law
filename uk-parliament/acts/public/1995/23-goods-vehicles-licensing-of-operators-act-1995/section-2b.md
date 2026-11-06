@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2B. Power to stop[^key-aad93b0d72481c5361a0bc1be7118009]
+## 2B. Power to stop[^c-aad93b0d72481c5361a0bc1be7118009]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aad93b0d72481c5361a0bc1be7118009]: Textual amendment: S. 2B inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [regs. 1](https://www.legislation.gov.uk/uksi/2011/996/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2011/996/regulation/6/2)
+[^c-aad93b0d72481c5361a0bc1be7118009]: Textual amendment: S. 2B inserted (30.3.2011) by [The Road Vehicles (Powers to Stop) Regulations 2011 (S.I. 2011/996)](https://www.legislation.gov.uk/uksi/2011/996), [regs. 1](https://www.legislation.gov.uk/uksi/2011/996/regulation/1), [6(2)](https://www.legislation.gov.uk/uksi/2011/996/regulation/6/2)

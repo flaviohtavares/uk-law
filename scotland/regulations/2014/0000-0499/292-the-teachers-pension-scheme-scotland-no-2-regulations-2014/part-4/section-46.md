@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Establishment of pension accounts: general[^key-c7bb354ecb69639ca486a5a2c3b5fca9]
+## 46. Establishment of pension accounts: general[^c-c7bb354ecb69639ca486a5a2c3b5fca9]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c7bb354ecb69639ca486a5a2c3b5fca9]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2014/292/regulation/46) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-c7bb354ecb69639ca486a5a2c3b5fca9]: Commencement: [Reg. 46](https://www.legislation.gov.uk/ssi/2014/292/regulation/46) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

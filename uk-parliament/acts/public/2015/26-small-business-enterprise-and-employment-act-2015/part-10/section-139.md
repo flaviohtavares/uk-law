@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139. Oversight of recognised professional bodies[^key-8117c44af49dd008e9c996d76b5957a6]
+## 139. Oversight of recognised professional bodies[^c-8117c44af49dd008e9c996d76b5957a6]
 
 *Extent: E+W+S+N.I.*
 
@@ -220,4 +220,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8117c44af49dd008e9c996d76b5957a6]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2015/26/section/139) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)
+[^c-8117c44af49dd008e9c996d76b5957a6]: Commencement: [S. 139](https://www.legislation.gov.uk/ukpga/2015/26/section/139) in force at 1.10.2015 immediately after 2015 c. 20, s. 17 comes into force by [S.I. 2015/1689](https://www.legislation.gov.uk/uksi/2015/1689), [reg. 3(a)](https://www.legislation.gov.uk/uksi/2015/1689/regulation/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 12. Rejection: claim form not used or failure to supply minimum information[^key-6dae4cca403b6857827845178004791b]
+## 12. Rejection: claim form not used or failure to supply minimum information[^c-6dae4cca403b6857827845178004791b]
 
 *Extent: E+W+S*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dae4cca403b6857827845178004791b]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2024/1155/rule/12) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-6dae4cca403b6857827845178004791b]: Commencement: [Rule 12](https://www.legislation.gov.uk/uksi/2024/1155/rule/12) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 43. Capability for work or work-related activity[^key-358503fe017e7a8117f578e980785a67][^key-ece60bfa3035cc0ba6031d9188803949]
+## 43. Capability for work or work-related activity[^c-358503fe017e7a8117f578e980785a67][^c-ece60bfa3035cc0ba6031d9188803949]
 
 *Extent: N.I.*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-358503fe017e7a8117f578e980785a67]: Commencement: [Art. 43](https://www.legislation.gov.uk/nisi/2015/2006/article/43) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/ii)
+[^c-358503fe017e7a8117f578e980785a67]: Commencement: [Art. 43](https://www.legislation.gov.uk/nisi/2015/2006/article/43) in operation at 2.5.2016 for specified purposes by [S.R. 2016/215](https://www.legislation.gov.uk/nisr/2016/215), [art. 2(2)(c)(ii)](https://www.legislation.gov.uk/nisr/2016/215/article/2/2/c/ii)
 
-[^key-ece60bfa3035cc0ba6031d9188803949]: Commencement: [Art. 43](https://www.legislation.gov.uk/nisi/2015/2006/article/43) in operation at 27.9.2017 in so far as not already in operation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(c)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/c)
+[^c-ece60bfa3035cc0ba6031d9188803949]: Commencement: [Art. 43](https://www.legislation.gov.uk/nisi/2015/2006/article/43) in operation at 27.9.2017 in so far as not already in operation by [S.R. 2017/190](https://www.legislation.gov.uk/nisr/2017/190), [art. 4(1)](https://www.legislation.gov.uk/nisr/2017/190/article/4/1)[(2)(c)](https://www.legislation.gov.uk/nisr/2017/190/article/4/2/c)

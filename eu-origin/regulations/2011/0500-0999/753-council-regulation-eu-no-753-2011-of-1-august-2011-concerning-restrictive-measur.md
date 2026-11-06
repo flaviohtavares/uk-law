@@ -52,51 +52,51 @@ of 1 August 2011
 
 concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan (revoked)
 
-[^key-42d8c7b14e5bf5aca7128402e3d8caa5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42d8c7b14e5bf5aca7128402e3d8caa5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 4.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 4.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 5.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 5.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 6.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 6.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 7.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 7.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 8.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 8.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 9.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 9.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 10.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 10.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 11.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 11.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 12.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 12.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 13.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 13.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 14.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 14.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 15.**[^key-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 15.**[^c-42d8c7b14e5bf5aca7128402e3d8caa5] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-42d8c7b14e5bf5aca7128402e3d8caa5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-42d8c7b14e5bf5aca7128402e3d8caa5]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX I — LIST OF NATURAL AND LEGAL PERSONS, GROUPS, UNDERTAKINGS AND ENTITIES REFERRED TO IN ARTICLE 4[^key-42d8c7b14e5bf5aca7128402e3d8caa5]
+## ANNEX I — LIST OF NATURAL AND LEGAL PERSONS, GROUPS, UNDERTAKINGS AND ENTITIES REFERRED TO IN ARTICLE 4[^c-42d8c7b14e5bf5aca7128402e3d8caa5]
 
-[^key-a2bcbccd098e1b436aaa715191a57421]A.
+[^c-a2bcbccd098e1b436aaa715191a57421]A.
 
 *Individuals associated with the Taliban*
 
-[^key-a2bcbccd098e1b436aaa715191a57421](1)
+[^c-a2bcbccd098e1b436aaa715191a57421](1)
 
 **Abdul Baqi Basir Awal Shah** ( *alias* Abdul Baqi).
 
@@ -110,7 +110,7 @@ Abdul Baqi initially served as the Governor of the provinces of Khost and Paktik
 
 During 2003, Abdul Baqi was involved in anti-government military activities in the Shinwar, Achin, Naziyan and Dur Baba Districts of the Nangarhar Province. As of 2009 he was engaged in organizing militant activities throughout the eastern region, particularly in the Nangarhar Province and Jalalabad City.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](2)
+[^c-a2bcbccd098e1b436aaa715191a57421](2)
 
 **Abdul Qadeer Basir Abdul Baseer** ( *alias* (a) Abdul Qadir, (b) Ahmad Haji, (c) Abdul Qadir Haqqani, (d) Abdul Qadir Basir).
 
@@ -122,7 +122,7 @@ During 2003, Abdul Baqi was involved in anti-government military activities in t
 
 Abdul Qadeer Abdul Baseer served as a treasurer for the Taliban in Peshawar, Pakistan, as at 2009. He was the financial advisor to the Taliban's Peshawar Military Council and the head of the Taliban's Peshawar Financial Commission as at early 2010. He personally delivers money from the Taliban's leadership shura to Taliban groups throughout Pakistan.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](3)
+[^c-a2bcbccd098e1b436aaa715191a57421](3)
 
 **Amir Abdullah** ( *alias* Amir Abdullah Sahib).
 
@@ -134,7 +134,7 @@ Abdul Qadeer Abdul Baseer served as a treasurer for the Taliban in Peshawar, Pak
 
 Amir Abdullah has served as treasurer to senior Taliban leader Abdul Ghani Baradar and was the former deputy to the Taliban governor of Kandahar Province, Afghanistan. Amir Abdullah has travelled to Kuwait, Saudi Arabia, Libya and the United Arab Emirates to raise funds for the Taliban. He has also facilitated communications for Taliban leadership and coordinated high-level meetings at the guesthouse of his residence in Pakistan. Abdullah helped many senior Taliban members who fled Afghanistan in 2001 to settle in Pakistan.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](4)
+[^c-a2bcbccd098e1b436aaa715191a57421](4)
 
 **Abdul Manan Mohammad Ishak.**
 
@@ -146,7 +146,7 @@ Amir Abdullah has served as treasurer to senior Taliban leader Abdul Ghani Barad
 
 Abdul Manan Mohammad Ishak was also First Secretary at the Taliban Embassy in Riyadh, Saudi Arabia during the Taliban regime. He later became a senior Taliban commander in Paktia, Paktika and Khost Provinces of eastern Afghanistan. He was also responsible for the movement of Taliban fighters and weapons across the Afghanistan-Pakistan border.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](5)
+[^c-a2bcbccd098e1b436aaa715191a57421](5)
 
 **Abdul Rahman Agha.**
 
@@ -154,7 +154,7 @@ Abdul Manan Mohammad Ishak was also First Secretary at the Taliban Embassy in Ri
 
 **Other information:** Believed to be in Afghanistan/Pakistan border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427565
 
-[^key-a2bcbccd098e1b436aaa715191a57421](6)
+[^c-a2bcbccd098e1b436aaa715191a57421](6)
 
 **Janan Agha** ( *alias* Abdullah Jan Agha).
 
@@ -162,7 +162,7 @@ Abdul Manan Mohammad Ishak was also First Secretary at the Taliban Embassy in Ri
 
 **Other information:** Member of Taliban Supreme Council and advisor to Mullah Mohammed Omar as at June 2010. Leads a Taliban ‘front’ (mahaz) as of mid-2013. Believed to be in Afghanistan/Pakistan border area. Belongs to Sadat ethnic group. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1428048
 
-[^key-a2bcbccd098e1b436aaa715191a57421](7)
+[^c-a2bcbccd098e1b436aaa715191a57421](7)
 
 **Sayed Mohammad Azim Agha** ( *alias* (a) Sayed Mohammad Azim Agha, (b) Agha Saheb).
 
@@ -174,7 +174,7 @@ Abdul Manan Mohammad Ishak was also First Secretary at the Taliban Embassy in Ri
 
 Sayed Mohammad Azim Agha's post as an employee of the Passport and Visa Department came under the Ministry of Interior of the Taliban regime.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](8)
+[^c-a2bcbccd098e1b436aaa715191a57421](8)
 
 **Sayyed Ghiassouddine Agha** ( *alias* (a) Sayed Ghiasuddin Sayed Ghousuddin, (b) Sayyed Ghayasudin, (c) Sayed Ghias).
 
@@ -186,7 +186,7 @@ Sayed Mohammad Azim Agha's post as an employee of the Passport and Visa Departme
 
 Sayyed Ghiassouddine Agha also served as Education Minister of the Taliban regime. He was also the Taliban member responsible for the Faryab, Jawzjan, Sari Pul and Balkh Provinces, Afghanistan, as at June 2010. He was a member of the Taliban Supreme Council and the Taliban Military Council as at December 2009. He is believed to be involved in drug trafficking.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](9)
+[^c-a2bcbccd098e1b436aaa715191a57421](9)
 
 **Mohammad Ahmadi.**
 
@@ -198,7 +198,7 @@ Sayyed Ghiassouddine Agha also served as Education Minister of the Taliban regim
 
 Mohammad Ahmadi was listed on 23 February 2001 as President of the Central Bank (Da Afghanistan Bank) under the Taliban regime so falling within the provisions of Resolutions 1267 (1999) and 1333 (2000) of the United Nations Security Council regarding acts and activities of the Taliban authorities. Mohammad Ahmadi was also Minister of Finance of the Taliban regime. He has been a member of the Taliban Supreme Council.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](10)
+[^c-a2bcbccd098e1b436aaa715191a57421](10)
 
 **Mohammad Shafiqullah Ahmadi Fatih Khan** ( *alias* (a) Mohammad Shafiq Ahmadi, (b) Mullah Shafiqullah).
 
@@ -206,7 +206,7 @@ Mohammad Ahmadi was listed on 23 February 2001 as President of the Central Bank 
 
 **Other information:** Originally from Ghazni Province, but later lived in Uruzgan. Taliban Shadow Governor for Uruzgan Province as of late 2012. Serves as a member of the Military Commission as of July 2016. Belongs to Hotak tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4706955
 
-[^key-a2bcbccd098e1b436aaa715191a57421](11)
+[^c-a2bcbccd098e1b436aaa715191a57421](11)
 
 **Abdul Bari Akhund** ( *alias* (a) Haji Mullah Sahib (b) Zakir).
 
@@ -214,7 +214,7 @@ Mohammad Ahmadi was listed on 23 February 2001 as President of the Central Bank 
 
 **Other information:** Member of the Taliban Supreme Council as of 2009. Believed to be in Afghanistan/Pakistan border area. Belongs to Alokozai tribe. Member of Taliban leadership in Helmand Province, Afghanistan. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 1 Jun. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427430
 
-[^key-a2bcbccd098e1b436aaa715191a57421](12)
+[^c-a2bcbccd098e1b436aaa715191a57421](12)
 
 **Ahmed Jan Akhundzada Wazir** ( *alias* (a) Haji Ahmad Jan, (b) Ahmed Jan Akhund).
 
@@ -222,7 +222,7 @@ Mohammad Ahmadi was listed on 23 February 2001 as President of the Central Bank 
 
 **Other information:** Member of Taliban Supreme Military Council as at 2009. Believed to be in Afghanistan/Pakistan border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4678353
 
-[^key-a2bcbccd098e1b436aaa715191a57421](13)
+[^c-a2bcbccd098e1b436aaa715191a57421](13)
 
 **Attiqullah Akhund.**
 
@@ -230,7 +230,7 @@ Mohammad Ahmadi was listed on 23 February 2001 as President of the Central Bank 
 
 **Other information:** Member of Taliban Supreme Military Council as well as Taliban Supreme Council as at June 2010. Belongs to Popalzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427204
 
-[^key-a2bcbccd098e1b436aaa715191a57421](14)
+[^c-a2bcbccd098e1b436aaa715191a57421](14)
 
 **Hamidullah Akhund Sher Mohammad** ( *alias* (a) Janat Gul (b) Hamidullah Akhund).
 
@@ -238,7 +238,7 @@ Mohammad Ahmadi was listed on 23 February 2001 as President of the Central Bank 
 
 **Other information:** Belongs to Ghilzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427570
 
-[^key-a2bcbccd098e1b436aaa715191a57421](15)
+[^c-a2bcbccd098e1b436aaa715191a57421](15)
 
 **Mohammad Hassan Akhund.**
 
@@ -252,7 +252,7 @@ Mohammad Hassan Akhund is a close associate and Political Advisor of Mohammed Om
 
 Mohammad Hassan Akhund remained an active leader of the Taliban as at mid-2009. He was a member of the Taliban Supreme Council as at December 2009. He was one of the most effective Taliban commanders as at early 2010.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](16)
+[^c-a2bcbccd098e1b436aaa715191a57421](16)
 
 **Mohammad Abbas Akhund.**
 
@@ -260,7 +260,7 @@ Mohammad Hassan Akhund remained an active leader of the Taliban as at mid-2009. 
 
 **Other information:** Member of Taliban Supreme Council in charge of the Medical Committee as of Jan. 2011. Directly supervises three medical centers caring for wounded Taliban fighters as of mid-2013. Believed to be in Afghanistan/Pakistan border area. Belongs to Barakzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427417
 
-[^key-a2bcbccd098e1b436aaa715191a57421](17)
+[^c-a2bcbccd098e1b436aaa715191a57421](17)
 
 **Mohammad Essa Akhund.**
 
@@ -268,7 +268,7 @@ Mohammad Hassan Akhund remained an active leader of the Taliban as at mid-2009. 
 
 **Other information:** Belongs to Nurzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427423
 
-[^key-a2bcbccd098e1b436aaa715191a57421](18)
+[^c-a2bcbccd098e1b436aaa715191a57421](18)
 
 **Ubaidullah Akhund Yar Mohammed Akhund** ( *alias* (a) Obaidullah Akhund, (b) Obaid Ullah Akhund).
 
@@ -276,7 +276,7 @@ Mohammad Hassan Akhund remained an active leader of the Taliban as at mid-2009. 
 
 **Other information:** He was one of the deputies of Mullah Mohammed Omar and a member of the Taliban's Supreme Council, in charge of military operations. Arrested in 2007 and was in custody in Pakistan. Confirmed deceased in March 2010 and buried in Karachi, Pakistan. Linked by marriage to Saleh Mohammad Kakar Akhtar Muhammad. Belonged to Alokozai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4678686
 
-[^key-a2bcbccd098e1b436aaa715191a57421](19)
+[^c-a2bcbccd098e1b436aaa715191a57421](19)
 
 **Ahmad Jan Akhundzada Shukoor Akhundzada** ( *alias* (a) Ahmad Jan Akhunzada, (b) Ahmad Jan Akhund Zada).
 
@@ -288,7 +288,7 @@ Mohammad Hassan Akhund remained an active leader of the Taliban as at mid-2009. 
 
 Ahmad Jan Akhunzada Shukoor Akhunzada was the Taliban member in charge of Uruzgan Province as at early 2007. He is a brother-in-law of Mullah Mohammed Omar.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](20)
+[^c-a2bcbccd098e1b436aaa715191a57421](20)
 
 **Mohammad Eshaq Akhunzada** ( *alias* Mohammad Ishaq Akhund).
 
@@ -300,7 +300,7 @@ Ahmad Jan Akhunzada Shukoor Akhunzada was the Taliban member in charge of Uruzga
 
 In 2008, Mohammad Eshaq Akhunzada was the Taliban provincial commander for Ghazni Province, Afghanistan, and he remained active in the province as at 2011.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](21)
+[^c-a2bcbccd098e1b436aaa715191a57421](21)
 
 **Abdul Habib Alizai** ( *alias* : (a) Haji Agha JanAlizai, (b) Hajji Agha Jan, (c) Agha Jan Alazai, (d) Haji Loi Lala, (e) Loi Agha, (f) Abdul Habib, (g) Agha Jan Alizai [image: see source](https://www.legislation.gov.uk/eur/2011/753/images/eur_20110753_2019-07-09_en_001) (formerly listed as)).
 
@@ -312,7 +312,7 @@ In 2008, Mohammad Eshaq Akhunzada was the Taliban provincial commander for Ghazn
 
 Agha Jan Alizai has managed one of the largest drug trafficking networks in Helmand, Afghanistan, and has provided funds to the Taliban in exchange for protection of his narco-trafficking activities. In 2008, a group of narcotics traffickers, including Alizai, agreed to pay the Taliban tax on land where opium poppy was planted in return for Taliban agreement to organize transportation for narcotics materials. The Taliban also agreed to provide security for the narco-traffickers and their storage sites, while the traffickers would provide shelter and transportation to Taliban fighters. Alizai has also been involved in the purchase of weapons for the Taliban and has travelled to Pakistan regularly to meet senior Taliban leaders. Alizai has also facilitated the procurement of fraudulent Iranian passports by Taliban members in order to travel to Iran for training. In 2009, Alizai provided a passport and funds to a Taliban commander to travel to Iran.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](22)
+[^c-a2bcbccd098e1b436aaa715191a57421](22)
 
 **Allah Dad Matin** ( *alias* (a) Allahdad, (b) Shahidwror, (c) Akhund).
 
@@ -324,7 +324,7 @@ Agha Jan Alizai has managed one of the largest drug trafficking networks in Helm
 
 Allah Dad Mati was listed on 31 January 2001 as the Minister of Urban Development of the Taliban regime so falling within the provisions of Resolutions 1267 (1999) and 1333 (2000) of the United Nations Security Council regarding acts and activities of the Taliban authorities. Allah Dad Mati, a member of the Nurzay tribe from Spin Boldak, was also President of the Central Bank of the Taliban regime (Da Afghanistan Bank) and Head of Ariana Afghan Airlines of the Taliban regime.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](23)
+[^c-a2bcbccd098e1b436aaa715191a57421](23)
 
 **Aminullah Amin Quddus** ( *alias* (a) Muhammad Yusuf, (b) Aminullah Amin).
 
@@ -332,7 +332,7 @@ Allah Dad Mati was listed on 31 January 2001 as the Minister of Urban Developmen
 
 **Other information:** Member of Taliban Supreme Council as at 2011. Belongs to Nurzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4678553
 
-[^key-a2bcbccd098e1b436aaa715191a57421](24)
+[^c-a2bcbccd098e1b436aaa715191a57421](24)
 
 **Mohammad Sadiq Amir Mohammad.**
 
@@ -344,7 +344,7 @@ Allah Dad Mati was listed on 31 January 2001 as the Minister of Urban Developmen
 
 Mohammad Sadiq Amir Mohammad was a member of the new majlis shura reportedly announced by Mohammed Omar in October 2006.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](25)
+[^c-a2bcbccd098e1b436aaa715191a57421](25)
 
 **Muhammad Taher Anwari** ( *alias* (a) Mohammad Taher Anwari, (b) Muhammad Tahir Anwari, (c) Mohammad Tahre Anwari, (d) Haji Mudir).
 
@@ -358,7 +358,7 @@ Muhammad Taher Anwari's post as Director of Administrative Affairs fell under th
 
 He was also a speech writer for Taliban Supreme Leader Mohammed Omar.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](26)
+[^c-a2bcbccd098e1b436aaa715191a57421](26)
 
 **Arefullah Aref Ghazi Mohammad** ( *alias* Arefullah Aref).
 
@@ -366,7 +366,7 @@ He was also a speech writer for Taliban Supreme Leader Mohammed Omar.
 
 **Other information:** Directs Taliban ‘front’ in Gelan District, Ghazni Province, Afghanistan as of mid-2013. Believed to be in Afghanistan/Pakistan border area. Belongs to Andar tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427419
 
-[^key-a2bcbccd098e1b436aaa715191a57421](27)
+[^c-a2bcbccd098e1b436aaa715191a57421](27)
 
 **Sayed Esmatullah Asem Abdul Quddus** ( *alias* (a) Esmatullah Asem, (b) Asmatullah Asem, (c) Sayed Esmatullah Asem).
 
@@ -382,7 +382,7 @@ Sayed Esmatullah Asem commanded a group of Taliban fighters in Chaparhar Distric
 
 In late 2008, Sayed Esmatullah Asem was in charge of a Taliban staging base in the Afghanistan/Pakistan border area.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](28)
+[^c-a2bcbccd098e1b436aaa715191a57421](28)
 
 **Atiqullah Wali Mohammad** ( *alias* Atiqullah).
 
@@ -394,7 +394,7 @@ In late 2008, Sayed Esmatullah Asem was in charge of a Taliban staging base in t
 
 After the capture of Kabul by the Taliban in 1996, Atiqullah was appointed to a position in Kandahar. In 1999 or 2000, he was appointed First Deputy Minister for Agriculture, then Deputy Minister of Public Works in the Taliban regime. After the fall of the Taliban regime, Atiqullah became Taliban operational officer in the south of Afghanistan. In 2008, he became a deputy to the Taliban Governor of Helmand Province, Afghanistan. He was a member of the Taliban Supreme Council Political Commission as at 2010.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](29)
+[^c-a2bcbccd098e1b436aaa715191a57421](29)
 
 **Azizirahman Abdul Ahad.**
 
@@ -402,7 +402,7 @@ After the capture of Kabul by the Taliban in 1996, Atiqullah was appointed to a 
 
 **Other information:** Belongs to Hotak tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4640065
 
-[^key-a2bcbccd098e1b436aaa715191a57421](30)
+[^c-a2bcbccd098e1b436aaa715191a57421](30)
 
 **Abdul Ghani Baradar Abdul Ahmad Turk** ( *alias* (a) Mullah Baradar Akhund, (b) Abdul Ghani Baradar).
 
@@ -420,7 +420,7 @@ As the Taliban Deputy Minister of Defence, he was considered to be one of Mohamm
 
 He was a key member of the Taliban network and organized Taliban operations against Afghan Government and International Security Assistance Force in close cooperation with the Taliban Minister of Defence, Ubaidullah Akhund.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](31)
+[^c-a2bcbccd098e1b436aaa715191a57421](31)
 
 **Shahabuddin Delawar.**
 
@@ -428,7 +428,7 @@ He was a key member of the Taliban network and organized Taliban operations agai
 
 **Other information:** Deputy Head of Taliban Embassy in Riyadh, Saudi Arabia until 25 Sept. 1998. Believed to be in Afghanistan/Pakistan border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. Picture available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427559
 
-[^key-a2bcbccd098e1b436aaa715191a57421](32)
+[^c-a2bcbccd098e1b436aaa715191a57421](32)
 
 **Dost Mohammad** ( *alias* Doost Mohammad).
 
@@ -442,7 +442,7 @@ Dost Mohammad was also appointed by the Taliban leadership to take charge of mil
 
 As at March 2010, Dost Mohammad was the Taliban shadow governor of Nuristan Province and the leader of a madrassa from which he recruited fighters.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](33)
+[^c-a2bcbccd098e1b436aaa715191a57421](33)
 
 **Mohammad Azam Elmi** ( *alias* Muhammad Azami).
 
@@ -450,7 +450,7 @@ As at March 2010, Dost Mohammad was the Taliban shadow governor of Nuristan Prov
 
 **Other information:** Reportedly deceased in 2005. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4665205
 
-[^key-a2bcbccd098e1b436aaa715191a57421](34)
+[^c-a2bcbccd098e1b436aaa715191a57421](34)
 
 **Faiz.**
 
@@ -458,7 +458,7 @@ As at March 2010, Dost Mohammad was the Taliban shadow governor of Nuristan Prov
 
 **Other information:** Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1493746
 
-[^key-a2bcbccd098e1b436aaa715191a57421](35)
+[^c-a2bcbccd098e1b436aaa715191a57421](35)
 
 **Rustum Hanafi Habibullah** ( *alias* (a) Rostam Nuristani, (b) Hanafi Sahib).
 
@@ -466,7 +466,7 @@ As at March 2010, Dost Mohammad was the Taliban shadow governor of Nuristan Prov
 
 **Other information** : Taliban member responsible for Nuristan Province, Afghanistan, as of May 2007. Belongs to Nuristani tribe. Reportedly deceased in early 2012. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427427
 
-[^key-a2bcbccd098e1b436aaa715191a57421](36)
+[^c-a2bcbccd098e1b436aaa715191a57421](36)
 
 **Gul Ahmad Hakimi.**
 
@@ -478,7 +478,7 @@ As at March 2010, Dost Mohammad was the Taliban shadow governor of Nuristan Prov
 
 Gul Ahmad Hakimi was also the Director-General of the Secondary Education Department of the Ministry of Education in Kabul of the Taliban regime before being posted to Karachi in 1996.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](37)
+[^c-a2bcbccd098e1b436aaa715191a57421](37)
 
 **Abdullah Hamad Mohammad Karim** ( *alias* al-Hammad).
 
@@ -486,7 +486,7 @@ Gul Ahmad Hakimi was also the Director-General of the Secondary Education Depart
 
 **Other information:** Believed to be in Afghanistan/Pakistan border area. Belongs to Baloch ethnic group. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1446048
 
-[^key-a2bcbccd098e1b436aaa715191a57421](38)
+[^c-a2bcbccd098e1b436aaa715191a57421](38)
 
 **Hamdullah Allah Noor.**
 
@@ -494,7 +494,7 @@ Gul Ahmad Hakimi was also the Director-General of the Secondary Education Depart
 
 **Other information:** Believed to be in Afghanistan/Pakistan border area. Belongs to Baloch ethnic group. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. Additional title: Hafiz. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4665093
 
-[^key-a2bcbccd098e1b436aaa715191a57421](39)
+[^c-a2bcbccd098e1b436aaa715191a57421](39)
 
 **Din Mohammad Hanif** ( *alias* (a) Qari Din Mohammad, (b) Iadena Mohammad).
 
@@ -502,7 +502,7 @@ Gul Ahmad Hakimi was also the Director-General of the Secondary Education Depart
 
 **Other information:** Member of Taliban Supreme Council responsible for Takhar and Badakhshan provinces. Believed to be in Afghanistan/Pakistan border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. Picture available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1493613
 
-[^key-a2bcbccd098e1b436aaa715191a57421](40)
+[^c-a2bcbccd098e1b436aaa715191a57421](40)
 
 **Abdul Jalil Haqqani Wali Mohammad** ( *alias* : (a) Abdul Jalil Akhund, (b) Akhter Mohmad, (c) Haji Gulab Gul, (d) Abdul Jalil Haqqani, (e) Nazar Jan).
 
@@ -514,7 +514,7 @@ Gul Ahmad Hakimi was also the Director-General of the Secondary Education Depart
 
 Abdul Jalil Haqqani Wali Mohammad was a member of the Taliban Supreme Council as of May 2007 and a member of the Financial Commission of the Taliban Council.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](41)
+[^c-a2bcbccd098e1b436aaa715191a57421](41)
 
 **Ezatullah Haqqani Khan Sayyid** ( *alias* Ezatullah Haqqani).
 
@@ -526,7 +526,7 @@ Abdul Jalil Haqqani Wali Mohammad was a member of the Taliban Supreme Council as
 
 Ezatullah Haqqani was originally listed as Maulavi Ezatullah on 23 February 2001. The addition of ‘Haqqani’ was made to the UN List on 27 September 2007. As of 2009, Ezatullah Haqqani was a member of a regional Taliban Council.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](42)
+[^c-a2bcbccd098e1b436aaa715191a57421](42)
 
 **Jalaluddin Haqqani** ( *alias* : (a) Jalaluddin Haqani, (b) Jallalouddin Haqqani, (c) Jallalouddine Haqani).
 
@@ -544,7 +544,7 @@ Haqqani has been accused of involvement in the bombing of the Indian Embassy in 
 
 Jalaluddin Haqqani is the founder of the Haqqani Network.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](43)
+[^c-a2bcbccd098e1b436aaa715191a57421](43)
 
 **Khalil Ahmed Haqqani** ( *alias* (a) Khalil Al-Rahman Haqqani, (b) Khalil ur Rahman Haqqani, (c) Khaleel Haqqani).
 
@@ -562,7 +562,7 @@ Khalil Haqqani also provides support to the Taliban and the Haqqani Network oper
 
 Khalil Haqqani has also acted on behalf of Al-Qaida and has been linked to its military operations. In 2002, Khalil Haqqani deployed men to reinforce Al-Qaida elements in Paktia Province, Afghanistan. Khalil Ahmed Haqqani is also the brother of Mohammad Ibrahim Omari and the uncle of Nasiruddin Haqqani and Badruddin Haqqani (deceased).
 
-[^key-a2bcbccd098e1b436aaa715191a57421](44)
+[^c-a2bcbccd098e1b436aaa715191a57421](44)
 
 **Mohammad Moslim Haqqani Muhammadi Gul** ( *alias* Moslim Haqqani).
 
@@ -574,7 +574,7 @@ Khalil Haqqani has also acted on behalf of Al-Qaida and has been linked to its m
 
 Mohammad Moslim Haqqani also served as Deputy Minister of Higher Education of the Taliban regime. This designation was added to the UN list on 18 July 2007.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](45)
+[^c-a2bcbccd098e1b436aaa715191a57421](45)
 
 **Mohammad Salim Haqqani.**
 
@@ -586,7 +586,7 @@ Mohammad Moslim Haqqani also served as Deputy Minister of Higher Education of th
 
 In 2006, Mohammad Salim Haqqani was a member of a Taliban council that planned attacks against Afghan government forces in Laghman Province, Afghanistan. He had been a Taliban commander for the province in late 2004. He was Deputy Commander of Ezatullah Haqqani Khan Sayyid as at March 2010 and a member of a regional Taliban Military Council as at June 2010.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](46)
+[^c-a2bcbccd098e1b436aaa715191a57421](46)
 
 **Nasiruddin Haqqani** ( *alias* : (a) Dr. Alim Ghair, (b) Naseer Haqqani, (c) Dr. Naseer Haqqani, (d) Nassir Haqqani, (e) Nashir Haqqani).
 
@@ -600,7 +600,7 @@ The Haqqani Network is a Taliban-affiliated group of militants that operates fro
 
 As of mid-2007, Haqqani reportedly had three main sources of funding: donations from the Gulf region, drug trafficking, and payments from Al-Qaida. In late 2009, Nasiruddin Haqqani received several hundred thousand dollars from Al- Qaida-associated individuals in the Arabian Peninsula to use for Haqqani Network activities. His brothers Sirajuddin Jallaloudine Haqqani and Badruddin Haqqani (deceased), and his uncles Mohammad Ibrahim Omari and Khalil Ahmed Haqqani are also listed.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](47)
+[^c-a2bcbccd098e1b436aaa715191a57421](47)
 
 **Sayyed Mohammed Haqqani** ( *alias* Sayyed Mohammad Haqqani).
 
@@ -614,7 +614,7 @@ Sayyed Mohammed Haqqani is allied with Gulbbudin Hekmatyar and has been a long-s
 
 Sayyed Mohammed Haqqani met several times with Aiman Muhammed Rabi al-Zawahiri and Farhad, Mohammed Omar's secretary, in 2003 and 2004. He opened a bookstore in Qissa Khwani's bazaar, Peshawar, Pakistan, which has been implicated in the financing of the Taliban. He was still an active Taliban insurgency leader as at March 2009. He was a member of the Taliban Supreme Council as at June 2010.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](48)
+[^c-a2bcbccd098e1b436aaa715191a57421](48)
 
 **Sirajuddin Jallaloudine Haqqani** ( *alias* (a) Siraj Haqqani, (b) Serajuddin Haqani, (c) Siraj Haqani, (d) Saraj Haqani, (e) Khalifa).
 
@@ -634,7 +634,7 @@ Sirajuddin Haqqani is actively involved in the planning and execution of attacks
 
 Sirajuddin Haqqani was involved in the suicide bombing attack against a Police Academy bus in Kabul on 18 June 2007 which killed 35 police officers. His brothers Nasiruddin Haqqani and Badruddin Haqqani (deceased), and his uncles Mohammad Ibrahim Omari and Khalil Ahmed Haqqani are also listed.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](49)
+[^c-a2bcbccd098e1b436aaa715191a57421](49)
 
 **Abdul Hai Hazem Abdul Qader** ( *alias* Abdul Hai Hazem).
 
@@ -642,7 +642,7 @@ Sirajuddin Haqqani was involved in the suicide bombing attack against a Police A
 
 **Other information:** Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1446037
 
-[^key-a2bcbccd098e1b436aaa715191a57421](50)
+[^c-a2bcbccd098e1b436aaa715191a57421](50)
 
 **Hidayatullah** ( *alias* Abu Turab).
 
@@ -650,7 +650,7 @@ Sirajuddin Haqqani was involved in the suicide bombing attack against a Police A
 
 **Other information:** Believed to be in Afghanistan/Pakistan border area. Belongs to Ghilzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1529230
 
-[^key-a2bcbccd098e1b436aaa715191a57421](51)
+[^c-a2bcbccd098e1b436aaa715191a57421](51)
 
 **Abdul Rahman Ahmad Hottak** ( *alias* Hottak Sahib).
 
@@ -658,7 +658,7 @@ Sirajuddin Haqqani was involved in the suicide bombing attack against a Police A
 
 **Other information:** Believed to be in Afghanistan/Pakistan border area. Belongs to Hotak tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1494052
 
-[^key-a2bcbccd098e1b436aaa715191a57421](52)
+[^c-a2bcbccd098e1b436aaa715191a57421](52)
 
 **Najibullah Haqqani Hidayatullah** ( *alias* Najibullah Haqani).
 
@@ -674,7 +674,7 @@ Najibullah Haqqani Hydayatullah was a member of the Taliban Council in the Kunar
 
 Najibullah Haqqani Hidayatullah was a Taliban member responsible for Laghman Province as of late 2010.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](53)
+[^c-a2bcbccd098e1b436aaa715191a57421](53)
 
 **Gul Agha Ishakzai** ( *alias* (a) Mullah Gul Agha, (b) Mullah Gul Agha Akhund (c) Hidayatullah, (d) Haji Hidayatullah, (e) Hayadatullah).
 
@@ -690,7 +690,7 @@ A childhood friend of Taliban leader Mullah Mohammad Omar, Gul Agha Ishakzai has
 
 In December 2005, Gul Agha Ishakzai facilitated the movement of people and goods to Taliban training camps; in late 2006 he travelled abroad to obtain weapon parts.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](54)
+[^c-a2bcbccd098e1b436aaa715191a57421](54)
 
 **Qudratullah Jamal** ( *alias* Haji Sahib).
 
@@ -702,7 +702,7 @@ In December 2005, Gul Agha Ishakzai facilitated the movement of people and goods
 
 In April 2009, the Taliban leadership announced the posting of Qudratullah Jamal as its Liaison Officer for its well-wishers and friends throughout the world. He was a member of the Taliban Supreme Council and member of the Taliban Cultural Commission as at 2010.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](55)
+[^c-a2bcbccd098e1b436aaa715191a57421](55)
 
 **Saleh Mohammad Kakar Akhtar Muhammad** ( *alias* Saleh Mohammad).
 
@@ -716,7 +716,7 @@ Saleh Mohammad Kakar Akhtar Muhammadis a narcotics trafficker who has run an org
 
 Saleh Mohammad Kakar Akhtar Muhammadhas has been in contact with senior Taliban leaders, collected cash on their behalf from narco-traffickers, and managed and hid money belonging to senior Taliban members. He was also responsible for facilitating tax payments to the Taliban on behalf of narco-traffickers. Saleh Mohammad Kakar Akhtar Muhammadhas owned a car dealership in Kandahar and has provided the Taliban with vehicles for use in suicide attacks.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](56)
+[^c-a2bcbccd098e1b436aaa715191a57421](56)
 
 **Rahmatullah Kakazada** ( *alias* (a) Rehmatullah, (b) Kakazada, (c) Mullah Nasir).
 
@@ -724,7 +724,7 @@ Saleh Mohammad Kakar Akhtar Muhammadhas has been in contact with senior Taliban 
 
 **Other information:** Taliban member responsible for Ghazni Province, Afghanistan, as of May 2007. Head of an intelligence network. Believed to be in Afghanistan/Pakistan border area. Belongs to Suleimankheil tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/144605
 
-[^key-a2bcbccd098e1b436aaa715191a57421](57)
+[^c-a2bcbccd098e1b436aaa715191a57421](57)
 
 **Abdul Rauf Khadem** ( *alias* Mullah Abdul Rauf Aliza).
 
@@ -738,7 +738,7 @@ The Central Corps came under the Ministry of Defence of the Taliban regime.
 
 Abdul Rauf Khadem was the Taliban member responsible for Logar Province as at 2009. Abdul Rauf Khadem has been the overall military commander of several provinces in Afghanistan. Abdul Rauf Khadem was a member of a regional Taliban Council as at 2009. He was the Taliban member responsible for Uruzgan Province, Afghanistan, as at 2011.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](58)
+[^c-a2bcbccd098e1b436aaa715191a57421](58)
 
 **Khairullah Khairkhwah** ( *alias* (a) Mullah Khairullah Khairkhwah, (b) Khirullah Said Wali Khairkhwa).
 
@@ -746,7 +746,7 @@ Abdul Rauf Khadem was the Taliban member responsible for Logar Province as at 20
 
 **Other information:** Belongs to Popalzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427436
 
-[^key-a2bcbccd098e1b436aaa715191a57421](59)
+[^c-a2bcbccd098e1b436aaa715191a57421](59)
 
 **Abdul Razaq Akhund Lala Akhund.**
 
@@ -754,7 +754,7 @@ Abdul Rauf Khadem was the Taliban member responsible for Logar Province as at 20
 
 **Other information:** Member of Taliban Supreme Council as at June 2008. Deputy of Mullah Mohammed Omar as at Mar. 2010. Member of the Supervision Commission of the Taliban as of mid-2013. Involved in drug trafficking. Believed to be in Afghanistan/Pakistan border area. Belongs to Achekzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427412
 
-[^key-a2bcbccd098e1b436aaa715191a57421](60)
+[^c-a2bcbccd098e1b436aaa715191a57421](60)
 
 **Jan Mohammad Madani Ikram.**
 
@@ -762,7 +762,7 @@ Abdul Rauf Khadem was the Taliban member responsible for Logar Province as at 20
 
 **Other information:** Believed to be in Afghanistan/Pakistan border area. Belongs to Alizai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. Picture available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5039466
 
-[^key-a2bcbccd098e1b436aaa715191a57421](61)
+[^c-a2bcbccd098e1b436aaa715191a57421](61)
 
 **Zia-ur-Rahman Madani** ( *alias* (a) Ziaurrahman Madani, (b) Zaia u Rahman Madani, (c) Madani Saheb, (d) Diya' al-Rahman Madani).
 
@@ -770,7 +770,7 @@ Abdul Rauf Khadem was the Taliban member responsible for Logar Province as at 20
 
 **Other information:** Involved in drug trafficking. Taliban member responsible for military affairs in Takhar province, Afghanistan, as of May 2007. Facilitated fund raising in the Gulf on behalf of the Taliban since 2003. Also facilitated meetings between Taliban officials and wealthy supporters and arranged for more than a dozen individuals to travel to Kabul, Afghanistan, for suicide attacks. Believed to be in the Gulf region. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1494026
 
-[^key-a2bcbccd098e1b436aaa715191a57421](62)
+[^c-a2bcbccd098e1b436aaa715191a57421](62)
 
 **Abdul Latif Mansur** ( *alias* (a) Abdul Latif Mansoor, (b) Wali Mohammad).
 
@@ -784,7 +784,7 @@ Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 J
 
 Abdul Latif Mansur was a member of the Taliban Supreme Council and Head of the Council's Political Commission as at 2009. He was the Taliban shadow governor of Nangarhar Province, Afghanistan, in 2009 and the Head of the Taliban's political commission as at mid-2009. As at May 2010, Abdul Latif Mansur was a senior Taliban commander in eastern Afghanistan.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](63)
+[^c-a2bcbccd098e1b436aaa715191a57421](63)
 
 **Mohammadullah Mati** ( *alias* Mawlawi Nanai).
 
@@ -796,7 +796,7 @@ Abdul Latif Mansur was a member of the Taliban Supreme Council and Head of the C
 
 Mohammadullah Mati also served as the Minister of Communications of the Taliban regime under the name ‘Ahmadullah Mutie’. He was the interim leader of the Taliban Supreme Council from February to April 2010.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](64)
+[^c-a2bcbccd098e1b436aaa715191a57421](64)
 
 **Matiullah.**
 
@@ -804,7 +804,7 @@ Mohammadullah Mati also served as the Minister of Communications of the Taliban 
 
 **Other information:** Works on recruitment for the Taliban movement as of mid-2013. Believed to be in Afghanistan/Pakistan border area. Belongs to Popalzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427413
 
-[^key-a2bcbccd098e1b436aaa715191a57421](65)
+[^c-a2bcbccd098e1b436aaa715191a57421](65)
 
 **Abdul Quddus Mazhari** ( *alias* Akhtar Mohammad Maz-hari).
 
@@ -812,7 +812,7 @@ Mohammadullah Mati also served as the Minister of Communications of the Taliban 
 
 **Other information:** Belongs to Popalzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1446044
 
-[^key-a2bcbccd098e1b436aaa715191a57421](66)
+[^c-a2bcbccd098e1b436aaa715191a57421](66)
 
 **Fazl Mohammad Mazloom** ( *alias* (a) Molah Fazl, (b) Fazel Mohammad Mazloom).
 
@@ -826,7 +826,7 @@ Fazl Mohammad Mazloom was a close associate of Mohammed Omar and helped him to e
 
 He was a commander of approximately 3 000 Taliban front-line troops in the Takhar Province in October 2001.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](67)
+[^c-a2bcbccd098e1b436aaa715191a57421](67)
 
 **Nazir Mohammad Abdul Basir** ( *alias* Nazar Mohammad).
 
@@ -834,7 +834,7 @@ He was a commander of approximately 3 000 Taliban front-line troops in the Takha
 
 **Other information:** Alternative title: Sar Muallim. Reconciled after the fall of the Taliban regime, and assumed duties under the new Government on district level in Kunduz Province. Confirmed assassinated by Taliban on 9 November 2008. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4665167
 
-[^key-a2bcbccd098e1b436aaa715191a57421](68)
+[^c-a2bcbccd098e1b436aaa715191a57421](68)
 
 **Mohammad Shafiq Mohammadi.**
 
@@ -842,7 +842,7 @@ He was a commander of approximately 3 000 Taliban front-line troops in the Takha
 
 **Other information:** Supervises two military training centers of the Taliban as of mid-2013. Believed to be in Afghanistan/Pakistan border area. Belongs to Hotak tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427517
 
-[^key-a2bcbccd098e1b436aaa715191a57421](69)
+[^c-a2bcbccd098e1b436aaa715191a57421](69)
 
 **Abdul Kabir Mohammad Jan** ( *alias* A. Kabir).
 
@@ -856,7 +856,7 @@ Responsible for attack on Afghan parliamentarians in November 2007 in Baghlan; o
 
 Abdul Kabir Mohammad Jan was a member of the Taliban's high leadership council as announced by Mohammed Omar in October 2006, and was appointed military commander of the eastern zone in Oct 2007. He was a member of the Taliban Supreme Council as at 2009. He collects money from drug traffickers on behalf of the Taliban.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](70)
+[^c-a2bcbccd098e1b436aaa715191a57421](70)
 
 **Mohammad Rasul Ayyub** ( *alias* Gurg).
 
@@ -864,7 +864,7 @@ Abdul Kabir Mohammad Jan was a member of the Taliban's high leadership council a
 
 **Other information:** Member of the Taliban Quetta Shura. Believed to be in Afghanistan/Pakistan border area. Belongs to Nurzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4662451
 
-[^key-a2bcbccd098e1b436aaa715191a57421](71)
+[^c-a2bcbccd098e1b436aaa715191a57421](71)
 
 **Mohammad Wali Mohammad Ewaz** ( *alias* Mohammad Wali).
 
@@ -876,7 +876,7 @@ Abdul Kabir Mohammad Jan was a member of the Taliban's high leadership council a
 
 In his position at the Ministry of Preventing Vice and Propagating Virtue under the Taliban regime, Mohammad Wali frequently used torture and other means to intimidate the population. Mohammad Wali Mohammad Ewaz remains active within the Taliban in Kandahar Province, Afghanistan, following the fall of the Taliban regime.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](72)
+[^c-a2bcbccd098e1b436aaa715191a57421](72)
 
 **Mohammad Yaqoub.**
 
@@ -888,7 +888,7 @@ In his position at the Ministry of Preventing Vice and Propagating Virtue under 
 
 As of 2009, Mohammad Yaqoub was a leading Taliban member in the Yousef Khel District of the Paktika Province. He has been a member of the Taliban Cultural Commission.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](73)
+[^c-a2bcbccd098e1b436aaa715191a57421](73)
 
 **Amir Khan Motaqi** ( *alias* Amir Khan Muttaqi).
 
@@ -902,7 +902,7 @@ Amir Khan Motaqi also served as a Taliban representative in United Nations-led t
 
 Amir Khan Motaqi is considered to be a prominent member of the Taliban and also served as Minister of Information and Culture during the Taliban regime. Amir Khan Motaqi was a member of a regional Taliban Council as at June 2007. He was a member of the Taliban Supreme Council as at June 2007.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](74)
+[^c-a2bcbccd098e1b436aaa715191a57421](74)
 
 **Abdulhai Motmaen** ( *alias* Abdul Haq son of M. Anwar Khan).
 
@@ -914,7 +914,7 @@ Amir Khan Motaqi is considered to be a prominent member of the Taliban and also 
 
 Abdulhai Motmaen was the senior spokesman for the Taliban and used to deliver Taliban foreign policy statements. He was also a close associate of Mohammed Omar. He was a member of the Taliban Supreme Council and spokesperson for Mohammed Omar as of 2007.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](75)
+[^c-a2bcbccd098e1b436aaa715191a57421](75)
 
 **Allah Dad Tayeb Wali Muhammad** ( *alias* (a) Allah Dad Tayyab, (b) Allah Dad Tabeeb).
 
@@ -922,7 +922,7 @@ Abdulhai Motmaen was the senior spokesman for the Taliban and used to deliver Ta
 
 **Other information:** Belongs to Popalzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. Photo available for inclusion in the INTERPOL-UN Security Council Special Notice. Deceased as of November 2015. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427415
 
-[^key-a2bcbccd098e1b436aaa715191a57421](76)
+[^c-a2bcbccd098e1b436aaa715191a57421](76)
 
 **Najibullah Muhammad Juma** ( *alias* Najib Ullah).
 
@@ -930,7 +930,7 @@ Abdulhai Motmaen was the senior spokesman for the Taliban and used to deliver Ta
 
 **Other information:** Member of Taliban Peshawar Military Council as at 2010. Believed to be in Afghanistan/Pakistan border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427573
 
-[^key-a2bcbccd098e1b436aaa715191a57421](77)
+[^c-a2bcbccd098e1b436aaa715191a57421](77)
 
 **Mohammad Naim Barich Khudaidad** ( *alias* (a) Mullah Naeem Barech, (b) Mullah Naeem Baraich, (c) Mullah Naimullah, (d) Mullah Naim Bareh, (e) Mohammad Naim, (f) Mullah Naim Barich, (g) Mullah Naim Barech, (h) Mullah Naim Barech Akhund, (i) Mullah Naeem Baric, (j) Naim Berich, (k) Haji Gul Mohammed Naim Barich, (l) Gul Mohammad, (m) Haji Ghul Mohammad, (n) Gul Mohammad Kamran, (o) Mawlawi Gul Mohammad, (p) Spen Zrae).
 
@@ -944,7 +944,7 @@ Believed to be in Afghanistan/Pakistan border area. Belongs to Barich tribe. Rev
 
 Mohammad Naim Barich was a member of the Taliban ‘Gerdi Jangal Council’ as of June 2008 and a member of the Taliban Military Commission as of March 2010. He has been the Taliban member responsible for Helmand Province, Afghanistan from 2008. He is the former deputy of Akhtar Mohammad Mansour Shah Mohammed, a prominent Taliban leadership board figure. Mohammad Naim Barich controls a military base in the Afghanistan/Pakistan border area.Mohammad Naim Barich provided funds through Rahat Ltd. for subordinate commanders to plan and conduct insurgent operations in southern Afghanistan.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](78)
+[^c-a2bcbccd098e1b436aaa715191a57421](78)
 
 **Nik Mohammad Dost Mohammad** ( *alias* Nik Mohammad).
 
@@ -956,7 +956,7 @@ Mohammad Naim Barich was a member of the Taliban ‘Gerdi Jangal Council’ as o
 
 Nik Mohammad was listed on 31 January 2001 as Deputy Minister of Commerce of the Taliban regime so falling within the provisions of Resolutions 1267 (1999) and 1333 (2000) of the United Nations Security Council regarding acts and activities of the Taliban authorities.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](79)
+[^c-a2bcbccd098e1b436aaa715191a57421](79)
 
 **Hamdullah Nomani.**
 
@@ -964,7 +964,7 @@ Nik Mohammad was listed on 31 January 2001 as Deputy Minister of Commerce of the
 
 **Other information:** Member of the Taliban Supreme Council. Believed to be in Afghanistan/Pakistan border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427408
 
-[^key-a2bcbccd098e1b436aaa715191a57421](80)
+[^c-a2bcbccd098e1b436aaa715191a57421](80)
 
 **Mohammad Aleem Noorani.**
 
@@ -972,7 +972,7 @@ Nik Mohammad was listed on 31 January 2001 as Deputy Minister of Commerce of the
 
 **Other information:** Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4665686
 
-[^key-a2bcbccd098e1b436aaa715191a57421](81)
+[^c-a2bcbccd098e1b436aaa715191a57421](81)
 
 **Nurullah Nuri** ( *alias* Norullah Noori).
 
@@ -980,7 +980,7 @@ Nik Mohammad was listed on 31 January 2001 as Deputy Minister of Commerce of the
 
 **Other information:** Belongs to Tokhi tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427439
 
-[^key-a2bcbccd098e1b436aaa715191a57421](82)
+[^c-a2bcbccd098e1b436aaa715191a57421](82)
 
 **Abdul Manan Nyazi** ( *alias* (a) Abdul Manan Nayazi, (b) Abdul Manan Niazi, (c) Baryaly, (d) Baryalai).
 
@@ -998,7 +998,7 @@ Abdul Manan Nyazi was a member of a regional Taliban council and appointed as th
 
 Abdul Manan Nyazi is a Taliban commander involved in transporting suicide bombers to Afghanistan.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](83)
+[^c-a2bcbccd098e1b436aaa715191a57421](83)
 
 **Mohammed Omar Ghulam Nabi.**
 
@@ -1012,7 +1012,7 @@ Mohammed Omar holds the title of ‘Commander of the Faithful of the Islamic Emi
 
 Mohammed Omar commands the allegiance of other prominent military leaders in the region, such as Jalaluddin Haqqani.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](84)
+[^c-a2bcbccd098e1b436aaa715191a57421](84)
 
 **Abdul Jabbar Omari** . ( *alias* (a) Mullah Jabar, (b) Muawin Jabbar).
 
@@ -1024,7 +1024,7 @@ Mohammed Omar commands the allegiance of other prominent military leaders in the
 
 Abdul Jabbar Omari, as at June 2008, worked as the deputy to Amir Khan Haqqani and commander of an armed group in the Siuri District of the Zabul Province. In June 2008, with a view to reinforcing their activities in the area, the Taliban leadership named him shadow Governor for the Zabul Province.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](85)
+[^c-a2bcbccd098e1b436aaa715191a57421](85)
 
 **Mohammad Ibrahim Omari** . ( *alias* Ibrahim Haqqani).
 
@@ -1038,7 +1038,7 @@ Mohammad Ibrahim Omari was listed on 23 February 2001 as Deputy Minister of Fron
 
 Mohammad Ibrahim Omari is the brother of Jalaluddin Haqqani and Khalil Ahmed Haqqani, and the uncle of Sirajuddin Jallaloudine Haqqani, Nasiruddin Haqqani and Badruddin Haqqani (deceased).
 
-[^key-a2bcbccd098e1b436aaa715191a57421](86)
+[^c-a2bcbccd098e1b436aaa715191a57421](86)
 
 **Nooruddin Turabi Muhammad Qasim** ( *alias* (a) Noor ud Din Turabi, (b) Haji Karim).
 
@@ -1050,7 +1050,7 @@ Mohammad Ibrahim Omari is the brother of Jalaluddin Haqqani and Khalil Ahmed Haq
 
 Nooruddin Turabi Muhammad Qasim was appointed as a Taliban military commander in Afghanistan as at mid-2009. He was appointed as a deputy to Taliban supreme leader Mohammed Omar and participated in Taliban shura meetings as at early 2009.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](87)
+[^c-a2bcbccd098e1b436aaa715191a57421](87)
 
 **Abdul Salam Hanafi Ali Mardan Qul** ( *alias* (a) Abdussalam Hanifi, (b) Hanafi Saheb).
 
@@ -1062,7 +1062,7 @@ Nooruddin Turabi Muhammad Qasim was appointed as a Taliban military commander in
 
 As of May 2007, the Taliban leadership placed Abdul Salam Hanafi Ali Mardan Qul in charge of The Jawzujan Province. He was also the Taliban member responsible for Jawzjan Province in Northern Afghanistan until 2008. He is believed to be involved in drug trafficking.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](88)
+[^c-a2bcbccd098e1b436aaa715191a57421](88)
 
 **Abdul Ghafar Qurishi Abdul Ghani** ( *alias* Abdul Ghaffar Qureshi).
 
@@ -1070,7 +1070,7 @@ As of May 2007, the Taliban leadership placed Abdul Salam Hanafi Ali Mardan Qul 
 
 **Other information:** Involved in drug trafficking. Belongs to Tajik ethnic group. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/5741515
 
-[^key-a2bcbccd098e1b436aaa715191a57421](89)
+[^c-a2bcbccd098e1b436aaa715191a57421](89)
 
 **Yar Mohammad Rahimi.**
 
@@ -1078,7 +1078,7 @@ As of May 2007, the Taliban leadership placed Abdul Salam Hanafi Ali Mardan Qul 
 
 **Other information:** Member of Taliban Supreme Council as at 2009. Believed to be in Afghanistan/Pakistan border area. Belongs to Nurzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427375
 
-[^key-a2bcbccd098e1b436aaa715191a57421](90)
+[^c-a2bcbccd098e1b436aaa715191a57421](90)
 
 **Mohammad Hasan Rahmani** ( *alias* Gud Mullah Mohammad Hassan).
 
@@ -1086,7 +1086,7 @@ As of May 2007, the Taliban leadership placed Abdul Salam Hanafi Ali Mardan Qul 
 
 **Other information:** Has a prosthetic right leg. Member of Taliban Supreme Council as of mid-2013, acted as deputy of Mullah Mohammed Omar in Mar. 2010. Believed to be in Afghanistan/Pakistan border area. Belongs to Achekzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. Deceased as of 9 February 2016. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427431
 
-[^key-a2bcbccd098e1b436aaa715191a57421](91)
+[^c-a2bcbccd098e1b436aaa715191a57421](91)
 
 **Habibullah Reshad.**
 
@@ -1094,7 +1094,7 @@ As of May 2007, the Taliban leadership placed Abdul Salam Hanafi Ali Mardan Qul 
 
 **Other information:** Deputy Head (Intelligence) of the Quetta Military Council as of 2009. Believed to be in Afghanistan/Pakistan border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4678333
 
-[^key-a2bcbccd098e1b436aaa715191a57421](92)
+[^c-a2bcbccd098e1b436aaa715191a57421](92)
 
 **Abdulhai Salek.**
 
@@ -1102,7 +1102,7 @@ As of May 2007, the Taliban leadership placed Abdul Salam Hanafi Ali Mardan Qul 
 
 **Other information:** Reportedly deceased in North Afghanistan in 1999. Belonged to Wardak tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4678489
 
-[^key-a2bcbccd098e1b436aaa715191a57421](93)
+[^c-a2bcbccd098e1b436aaa715191a57421](93)
 
 **Hamdullah Sunani** ( *alias* Sanani).
 
@@ -1112,7 +1112,7 @@ As of May 2007, the Taliban leadership placed Abdul Salam Hanafi Ali Mardan Qul 
 
 Hamdullah Sunani's post as the Head of Dar-ul-Efta (Fatwa Department) came under the Supreme Court of the Taliban regime.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](94)
+[^c-a2bcbccd098e1b436aaa715191a57421](94)
 
 **Noor Mohammad Saqib.**
 
@@ -1124,7 +1124,7 @@ Hamdullah Sunani's post as the Head of Dar-ul-Efta (Fatwa Department) came under
 
 Noor Mohammad Saqib is a member of the Taliban leadership and head of its Religious Committee, which acts as a judiciary branch of the Taliban.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](95)
+[^c-a2bcbccd098e1b436aaa715191a57421](95)
 
 **Ehsanullah Sarfida Hesamuddin Akhundzada** ( *alias* (a) Ehsanullah Sarfadi, (b) Ehsanullah Sarfida).
 
@@ -1138,7 +1138,7 @@ Ehsanullah Sarfida was also Chairman of the Taliban's Central Bank. Later, he wa
 
 Ehsanullah Sarfida was an Al-Qaida affiliate who provided support to the Taliban in the form of weapons and money. He was the district chief of Marja, Helmand Province, Afghanistan, as at mid-2007.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](96)
+[^c-a2bcbccd098e1b436aaa715191a57421](96)
 
 **Saduddin Sayyed** ( *alias* (a) Sadudin Sayed, (b) Sadruddin).
 
@@ -1150,7 +1150,7 @@ Ehsanullah Sarfida was an Al-Qaida affiliate who provided support to the Taliban
 
 Saduddin Sayyed also served as Vice-Minister of Work and Social Affairs of the Taliban regime. The UN list was updated on 8 March 2001 to reflect this.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](97)
+[^c-a2bcbccd098e1b436aaa715191a57421](97)
 
 **Abdul Wali Seddiqi.**
 
@@ -1158,7 +1158,7 @@ Saduddin Sayyed also served as Vice-Minister of Work and Social Affairs of the T
 
 **Other information:** Believed to be in Afghanistan/Pakistan border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1446036
 
-[^key-a2bcbccd098e1b436aaa715191a57421](98)
+[^c-a2bcbccd098e1b436aaa715191a57421](98)
 
 **Abdul Wahed Shafiq.**
 
@@ -1166,7 +1166,7 @@ Saduddin Sayyed also served as Vice-Minister of Work and Social Affairs of the T
 
 **Other information:** Review pursuant to Security Council Resolution 1822 (2008) was concluded on 27 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427520
 
-[^key-a2bcbccd098e1b436aaa715191a57421](99)
+[^c-a2bcbccd098e1b436aaa715191a57421](99)
 
 **Said Ahmed Shahidkhel.**
 
@@ -1174,7 +1174,7 @@ Saduddin Sayyed also served as Vice-Minister of Work and Social Affairs of the T
 
 **Other information:** In July 2003 he was in custody in Kabul, Afghanistan. Released from custody in 2007. Believed to be in Afghanistan/Pakistan border area. Member of the Taliban leadership council as of mid-2013. Belongs to Andar tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427378
 
-[^key-a2bcbccd098e1b436aaa715191a57421](100)
+[^c-a2bcbccd098e1b436aaa715191a57421](100)
 
 **Akhtar Mohammad Mansour Shah Mohammed** ( *alias* (a) Akhtar Mohammad Mansour Khan Muhammad, (b) Akhtar Muhammad Mansoor, (c) Akhtar Mohammad Mansoor, (d) Naib Imam).
 
@@ -1190,7 +1190,7 @@ He was actively involved in anti-governmental activity, in particular, recruitin
 
 Akhtar Mohammad Mansour Shah Mohammed was the deputy chief of the supreme Taliban shura as at mid- 2009. He serves as a member of the Taliban leadership council and was assigned to be Chief of Military Affairs of the Taliban ‘Gerdi Jangal Council’ before being appointed as a deputy to Mohammed Omar in March 2010. As at 2010 Akhtar Mohammad Mansour Shah Mohammed was directly responsible for Taliban activities in four provinces of southern Afghanistan and was appointed as the head of the Taliban civilian shura as at early 2010. Akhtar Mohammad Mansour Shah Mohammed was a deputy to Mullah Abdul Ghani Baradar Abdul Ahmad Turk in the Taliban Supreme Council as of 2009. Following the arrest of Mullah Baradar in February 2010 he was temporarily-in-charge of the Taliban Supreme Council.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](101)
+[^c-a2bcbccd098e1b436aaa715191a57421](101)
 
 **Shamsuddin** ( *alias* Pahlawan Shamsuddin).
 
@@ -1198,7 +1198,7 @@ Akhtar Mohammad Mansour Shah Mohammed was the deputy chief of the supreme Taliba
 
 **Other information:** Believed to be in Afghanistan/Pakistan/Iran border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427518
 
-[^key-a2bcbccd098e1b436aaa715191a57421](102)
+[^c-a2bcbccd098e1b436aaa715191a57421](102)
 
 **Shams Ur-Rahman Abdul Zahir** ( *alias* (a) Shamsurrahman, (b) Shams-u-Rahman, (c) Shamsurrahman Abdurahman, (d) Shams ur-Rahman Sher Alam).
 
@@ -1210,13 +1210,13 @@ Akhtar Mohammad Mansour Shah Mohammed was the deputy chief of the supreme Taliba
 
 As at June 2007, Shams ur-Rahman Sher Alam was the Taliban member responsible for the Kabul Province. He was in charge of Taliban military operations in and around Kabul and has been involved in many attacks. He has involved in drug trafficking.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](103)
+[^c-a2bcbccd098e1b436aaa715191a57421](103)
 
 Abdul Ghafar Shinwari.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421](104)
+[^c-a2bcbccd098e1b436aaa715191a57421](104)
 
 **Mohammad Sarwar Siddiqmal Mohammad Masood** ( *alias* Mohammad Sarwar Siddiqmal).
 
@@ -1224,13 +1224,13 @@ Abdul Ghafar Shinwari.
 
 **Other information:** Belongs to Mangal tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4665692
 
-[^key-a2bcbccd098e1b436aaa715191a57421](105)
+[^c-a2bcbccd098e1b436aaa715191a57421](105)
 
 Sher Mohammad Abbas Stanekzai Padshah Khan.
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421](106)
+[^c-a2bcbccd098e1b436aaa715191a57421](106)
 
 **Ahmad Taha Khalid Abdul Qadir.**
 
@@ -1242,7 +1242,7 @@ Sher Mohammad Abbas Stanekzai Padshah Khan.
 
 Taha also served under the Taliban regime as Governor of the Kunar Province at the end of 2001. He was responsible for Wardak Province for the Taliban as at September 2009. He was the Taliban member responsible for Nangarhar Province as at 2011. He is a close associate of Sirajuddin Jallaloudine Haqqani.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](107)
+[^c-a2bcbccd098e1b436aaa715191a57421](107)
 
 **Abdul Raqib Takhari.**
 
@@ -1254,7 +1254,7 @@ Taha also served under the Taliban regime as Governor of the Kunar Province at t
 
 Abdul Raqib Takhari was a member of the Taliban Supreme Council responsible for Takhar and Badakhshan Provinces as at December 2009.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](108)
+[^c-a2bcbccd098e1b436aaa715191a57421](108)
 
 **Walijan.**
 
@@ -1262,7 +1262,7 @@ Abdul Raqib Takhari was a member of the Taliban Supreme Council responsible for 
 
 **Other information:** Member of the Taliban Gerd-e-Jangal Shura and Head of the Taliban Prisoners and Refugees Committee. Belongs to Ishaqzai tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1427434
 
-[^key-a2bcbccd098e1b436aaa715191a57421](109)
+[^c-a2bcbccd098e1b436aaa715191a57421](109)
 
 **Nazirullah Hanafi Waliullah** ( *alias* Nazirullah Aanafi Waliullah).
 
@@ -1272,7 +1272,7 @@ Abdul Raqib Takhari was a member of the Taliban Supreme Council responsible for 
 
 Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1446026
 
-[^key-a2bcbccd098e1b436aaa715191a57421](110)
+[^c-a2bcbccd098e1b436aaa715191a57421](110)
 
 **Abdul-Haq Wassiq** ( *alias* : (a) Abdul-Haq Wasseq, (b) Abdul Haq Wasiq).
 
@@ -1284,7 +1284,7 @@ Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 J
 
 Abdul-Haq Wassiq is allied with Gulbuddin Hekmatyar. Under the Taliban regime, he held successive positions as local commander in Nimroz and Kandahar provinces. He then became Deputy Director- General of Intelligence, reporting to Qari Ahmadullah. In this function, he was in charge of handling relations with Al-Qaida — related foreign fighters and their training camps in Afghanistan. He was also known for his repressive methods against Taliban opponents in the South of Afghanistan.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](111)
+[^c-a2bcbccd098e1b436aaa715191a57421](111)
 
 **Mohammad Jawad Waziri.**
 
@@ -1292,7 +1292,7 @@ Abdul-Haq Wassiq is allied with Gulbuddin Hekmatyar. Under the Taliban regime, h
 
 **Other information:** Believed to be in Afghanistan/Pakistan border area. Belongs to Wazir tribe. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 23 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4678350
 
-[^key-a2bcbccd098e1b436aaa715191a57421](112)
+[^c-a2bcbccd098e1b436aaa715191a57421](112)
 
 **Abdul Rahman Zahed** ( *alias* Abdul Rehman Zahid).
 
@@ -1300,7 +1300,7 @@ Abdul-Haq Wassiq is allied with Gulbuddin Hekmatyar. Under the Taliban regime, h
 
 **Other information:** Believed to be in Afghanistan/Pakistan border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 21 Jul. 2010. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/4678501
 
-[^key-a2bcbccd098e1b436aaa715191a57421](113)
+[^c-a2bcbccd098e1b436aaa715191a57421](113)
 
 **Mohammad Zahid** ( *alias* (a) Jan Agha Ahmadzai, (b) Zahid Ahmadzai).
 
@@ -1308,7 +1308,7 @@ Abdul-Haq Wassiq is allied with Gulbuddin Hekmatyar. Under the Taliban regime, h
 
 **Other information:** Believed to be in Afghanistan/Pakistan border area. Review pursuant to Security Council Resolution 1822 (2008) was concluded on 29 Jul. 2010. Picture available for inclusion in the INTERPOL-UN Security Council Special Notice. INTERPOL-UN Security Council Special Notice web link: https://www.interpol.int/en/notice/search/un/1446039
 
-[^key-a2bcbccd098e1b436aaa715191a57421](114)
+[^c-a2bcbccd098e1b436aaa715191a57421](114)
 
 **Faizullah Khan Noorzai** ( *alias* : (a) Haji Faizullah Noor, (b) Faizullah Noorzai Akhtar Mohammed Mira Khan, (c) Hajji Faizullah Khan Noorzai; Haji Faizuulah Khan Norezai; Haji Faizullah Khan; Haji Fiazullah, (d) Haji Faizullah Noori, (e) Haji Pazullah Noorzai, (f) Haji Mullah Faizullah).
 
@@ -1324,7 +1324,7 @@ As of mid-2009, Faizullah operated a madrassa (religious school) in the Afghanis
 
 In 2010, Faizullah maintained offices and possibly owned properties, including hotels, in Dubai, the United Arab Emirates. Faizullah regularly travelled to Dubai and Japan with his brother, Malik Noorzai, to import cars, auto parts and clothing. As of early 2006, Faizullah owned businesses in Dubai and Japan.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](115)
+[^c-a2bcbccd098e1b436aaa715191a57421](115)
 
 **Malik Noorzai** ( *alias* : (a) Hajji Malik Noorzai, (b) Hajji Malak Noorzai, (c) Haji Malek Noorzai, (d) Haji Maluk, (e) Haji Aminullah, (f) Allah Muhammad).
 
@@ -1336,7 +1336,7 @@ In 2010, Faizullah maintained offices and possibly owned properties, including h
 
 Malik Noorzai is a Pakistan-based businessman who has provided financial support to the Taliban. Malik and his brother, Faizullah Noorzai Akhtar Mohammed Mira Khan, have invested millions of dollars in various businesses for the Taliban. In late 2008, Taliban representatives approached Malik as a businessman with whom to invest Taliban funds. Since at least 2005, Malik has also personally contributed tens of thousands of dollars and distributed hundreds of thousands of dollars to the Taliban, some of which was collected from donors in the Gulf region and Pakistan and some of which was Malik's own money. Malik also handled a hawala account in Pakistan that received tens of thousands of dollars transferred from the Gulf every few months to support Taliban activities. Malik has also facilitated Taliban activities. As of 2009, Malik had served for 16 years as the chief caretaker of a madrassa (religious school), in the Afghanistan/ Pakistan border region, that was used by the Taliban to indoctrinate and train recruits. Among other things, Malik delivered the funds that supported the madrassa. Malik, along with his brother, has also played a role in storing vehicles to be used in Taliban suicide bombing operations and has helped move Taliban fighters around Helmand Province, Afghanistan. Malik owns businesses in Japan and frequently visits Dubai and Japan for business. As early as 2005, Malik owned a vehicle import business in Afghanistan that imported vehicles from Dubai and Japan. He has imported cars, auto parts and clothing from Dubai and Japan for his businesses, in which two Taliban commanders have invested. In mid-2010, Malik and his brother secured the release of hundreds of cargo containers, reportedly worth millions of dollars, which Pakistani authorities seized earlier that year because they believed the recipients had a connection to terrorism.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](116)
+[^c-a2bcbccd098e1b436aaa715191a57421](116)
 
 **Abdul Aziz Abbasin** ( *alias* : Abdul Aziz Mahsud).
 
@@ -1348,7 +1348,7 @@ Malik Noorzai is a Pakistan-based businessman who has provided financial support
 
 Abdul Aziz Abbasin is a key commander in the Haqqani Network, a Taliban-affiliated group of militants that operates from Eastern Afghanistan and North Waziristan Agency in the Federally Administered Tribal Areas of Pakistan. As of early 2010, Abbasin received orders from Sirajuddin Haqqani and was appointed by him to serve as the Taliban shadow governor of Orgun District, Paktika Province, Afghanistan. Abbasin commands a group of Taliban fighters and has assisted in running a training camp for foreign fighters based in Paktika Province. Abbasin has also been involved in ambushing vehicles supplying Afghan government forces and in the transport of weapons to Afghanistan.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](117)
+[^c-a2bcbccd098e1b436aaa715191a57421](117)
 
 **Ahmad Zia Agha** ( *alias* (a) Zia Agha, (b) Noor Ahmad, (c) Noor Ahmed, (d) Sia Agha Sayeed).
 
@@ -1360,7 +1360,7 @@ Abdul Aziz Abbasin is a key commander in the Haqqani Network, a Taliban-affiliat
 
 Ahmad Zia Agha is a senior Taliban leader with military and financial responsibilities. In 2010, Ahmad Zia Agha was the leader of the Taliban's military shura (council), which directed Taliban military operations in western Afghanistan. In 2009, Ahmad Zia Agha served as a Taliban finance officer and distributed money to Taliban commanders. As part of his financial responsibilities, Ahmad Zia Agha transferred tens of thousands of dollars to Taliban shadow provincial governors; the Taliban's shura treasurer also entrusted Ahmad Zia Agha with hundreds of thousands of dollars to fund improvised explosive device (IED) operations. In 2008, Ahmad Zia Agha was involved in distributing funds to Taliban commanders in Afghanistan and transferred money to individuals associated with the Taliban outside the country. He has also facilitated communications.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](118)
+[^c-a2bcbccd098e1b436aaa715191a57421](118)
 
 **Fazl Rabi** ( *alias* (a) Fazl Rabbi, (b) Fazal Rabi, (c) Faisal Rabbi).
 
@@ -1374,7 +1374,7 @@ Fazl Rabi provides financial and logistical support to the Haqqani Network, a Ta
 
 Rabi has been involved in sending suicide bombers to Afghanistan and has coordinated the Haqqani Network's relationship with other militant groups. While serving as the top Taliban official in Konar Province during the Taliban regime, Rabi was involved in shipping illegal narcotics out of Afghanistan. Following the fall of the Taliban in late 2001, Rabi fled to the Afghanistan/Pakistan border region.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](119)
+[^c-a2bcbccd098e1b436aaa715191a57421](119)
 
 **Mohammad Aman Akhund** *(alias* (a) Mohammed Aman, (b) Mullah Mohammed Oman, (c) Mullah Mohammad Aman Ustad Noorzai, (d) Mullah Mad Aman Ustad Noorzai, (e) Sanaullah).
 
@@ -1388,7 +1388,7 @@ Mohammad Aman Akhund is a senior Taliban member who performs finance-related dut
 
 Aman Akhund has also provided logistical support to Taliban operations and has been involved in collecting money from the drug trade in order to buy weapons for the Taliban. During the Taliban regime, Aman Akhund was a member of Mullah Omar's shura.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](120)
+[^c-a2bcbccd098e1b436aaa715191a57421](120)
 
 **Ahmed Jan Wazir Akhtar Mohammad** ( *alias* : (a) Ahmed Jan Kuchi, (b) Ahmed Jan Zadran).
 
@@ -1402,7 +1402,7 @@ Ahmed Jan Wazir is a key commander in the Haqqani Network, a Taliban-affiliated 
 
 Ahmed Jan Wazir has represented the Haqqani Network at the Taliban's shura and has served as a conduit between the Haqqani Network and the Taliban in Ghazni Province, Afghanistan. In 2008, Taliban and Al-Qaida militants appointed Ahmed Jan Wazir as a Taliban commander in Ghazni Province. He has provided other Taliban commanders in Ghazni Province with money and supplies, including weapons and communications equipment. During the Taliban regime, he was employed by the Ministry of Finance.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](121)
+[^c-a2bcbccd098e1b436aaa715191a57421](121)
 
 **Abdul Samad Achekzai** ( *alias* Abdul Samad).
 
@@ -1416,7 +1416,7 @@ Abdul Samad Achekzai is a senior Taliban member involved in manufacturing improv
 
 Samad has also been involved in attacks in Afghanistan on behalf of the Taliban. As of early 2011, Samad was working with a Taliban member to assassinate an Afghan Border Police commander and had recruited a suicide bomber for the task. At that time, Samad had deployed five suicide bombers to Afghanistan to conduct attacks on International Security Assistance Force and Afghan authorities. In early 2010, Samad sent five Taliban suicide bombers to Kandahar to target Afghan authorities there.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](122)
+[^c-a2bcbccd098e1b436aaa715191a57421](122)
 
 **Bakht Gul** ( *alias* : (a) Bakhta Gul, (b) Bakht Gul Bahar, (c) Shuqib).
 
@@ -1428,7 +1428,7 @@ Samad has also been involved in attacks in Afghanistan on behalf of the Taliban.
 
 Bakht Gul has been a key Haqqani Network communications official since at least 2009, when his predecessor was arrested in Afghanistan. As of 2011, Gul continued to report directly to Badruddin Haqqani (deceased), a senior Haqqani Network leader, and has acted as an intermediary for those wishing to contact him. Gul's responsibilities include relaying reports from commanders in Afghanistan to senior Haqqani Network officials, Taliban media officials, and legitimate media outlets in Afghanistan. Gul also works with Haqqani Network officials, including Badruddin Haqqani, to coordinate the movement of Haqqani Network insurgents, foreign fighters and weapons in the Afghanistan-Pakistan border region and eastern Afghanistan. As of 2010, Gul relayed operational orders from Badruddin Haqqani to fighters in Afghanistan. In late 2009, Gul distributed money to Haqqani Network sub-commanders travelling between Miram Shah and Afghanistan.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](123)
+[^c-a2bcbccd098e1b436aaa715191a57421](123)
 
 **Abdul Satar Abdul Manan** ( *alias* (a) Haji Abdul Sattar Barakzai, (b) Haji Abdul Satar, (c) Haji Satar Barakzai, (d) Abdulasattar).
 
@@ -1440,7 +1440,7 @@ Bakht Gul has been a key Haqqani Network communications official since at least 
 
 Abdul Satar Abdul Manan is a co-owner and operator of Haji Khairullah Haji Sattar Money Exchange. Satar and Khairullah Barakzai Khudai Nazar have co-owned and jointly operated hawalas (informal money remittance services) known as HKHS throughout Afghanistan, Pakistan, and Dubai and managed an HKHS branch in the Afghanistan-Pakistan border region. As of late 2009, Satar and Khairullah had an equal partnership in HKHS. Satar founded HKHS and customers chose to use HKHS in part because of Satar's and Khairullah's well- known names. Satar has donated thousands of dollars to the Taliban to support Taliban activities in Afghanistan and has distributed funds to the Taliban using his hawala. As of 2010, Satar provided financial assistance to the Taliban, and a Taliban commander and his associates may have transferred thousands of dollars through Satar in support of the insurgency. As of late 2009, Satar hosted senior Taliban members, provided tens of thousands of dollars to aid the Taliban's fight against Coalition Forces in Marjah, Nad'Ali District, Helmand Province, Afghanistan, and helped to transport a Taliban member to Marjah. As of 2008, Satar and Khairullah collected money from donors and distributed the funds to the Taliban using their hawala.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](124)
+[^c-a2bcbccd098e1b436aaa715191a57421](124)
 
 **Khairullah Barakzai Khudai Nazar** ( *alias* (a) Haji Khairullah, (b) Haji Khair Ullah, (c) Haji Kheirullah, (d) Haji Karimullah, (e) Haji Khair Mohammad).
 
@@ -1452,7 +1452,7 @@ Abdul Satar Abdul Manan is a co-owner and operator of Haji Khairullah Haji Satta
 
 Khairullah Barakzai Khudai Nazar is a co-owner and operator of Haji Khairullah Haji Sattar Money Exchange (HKHS). As of late 2009, Khairullah and Abdul Satar Abdul Manan had an equal partnership in HKHS. They jointly operated hawalas known as HKHS throughout Afghanistan, Pakistan, and Dubai and managed an HKHS branch in the Afghanistan-Pakistan border region. As of early 2010, Khairullah was the chief of the HKHS branch in Kabul. As of 2010, Khairullah was a hawaladar for Taliban senior leadership and provided financial assistance to the Taliban. Khairullah, along with his business partner Satar, provided thousands of dollars to the Taliban to support Taliban activities in Afghanistan. As of 2008, Khairullah and Satar collected money from donors and distributed the funds to the Taliban using their hawala.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](125)
+[^c-a2bcbccd098e1b436aaa715191a57421](125)
 
 **Abdul Rauf Zakir** ( *alias* Qari Zakir).
 
@@ -1468,7 +1468,7 @@ As the chief of suicide operations, Zakir is responsible for training recruits. 
 
 Zakir has been involved in many of the Haqqani Network's high-profile suicide attacks and is partially responsible for making some of the final determinations on whether or not to proceed with large-scale attacks planned by local, district-level commanders. Attacks using personnel selected from Zakir's training programme include the June 2011 attack on the Intercontinental Hotel in Kabul, which killed 11 civilians and two Afghan policemen, and the September 2011 attack on the United States Embassy in Kabul, which killed 16 Afghans, including at least six children.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](126)
+[^c-a2bcbccd098e1b436aaa715191a57421](126)
 
 **Mohammed Qasim Mir Wali Khudai Rahim** ( *alias* (a) Muhammad Qasim, (b) Abdul Salam).
 
@@ -1484,7 +1484,7 @@ Taliban senior figures have personally met Qasim and Rahat Ltd. branch managers.
 
 Qasim has used Rahat Ltd. to provide financial services to his own and others' narcotics networks which are located in the Afghanistan/Pakistan border region and affiliated to the Taliban.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](127)
+[^c-a2bcbccd098e1b436aaa715191a57421](127)
 
 **Ahmed Shah Noorzai Obaidullah** ( *alias* : (a) Mullah Ahmed Shah Noorzai, (b) Haji Ahmad Shah, (c) Haji Mullah Ahmad Shah, (d) Maulawi Ahmed Shah, (e) Mullah Mohammed Shah).
 
@@ -1502,7 +1502,7 @@ In late 2011, Ahmed Shah consolidated hundreds of thousands of US dollars to pas
 
 Ahmed Shah would then provide the required funds through his hawala system. As of mid-2010, Ahmed Shah moved money between Pakistan and Afghanistan for Taliban commanders and for narcotics traffickers. In addition to his facilitation activities, Ahmed Shah also donated large but unspecified sums of money to the Taliban in 2011.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](128)
+[^c-a2bcbccd098e1b436aaa715191a57421](128)
 
 **Adam Khan Achekzai** ( *alias* (a) Maulavi Adam Khan, (b) Maulavi Adam).
 
@@ -1516,7 +1516,7 @@ Adam Khan Achekzai is an improvised explosive device (IED) manufacturer and faci
 
 In addition to his IED facilitation duties, Adam has filled other leadership roles for the Taliban. In mid-2010, Adam was named the Taliban head for Badghis Province, Afghanistan. Adam is also the former Taliban head for Sar-e Pul and Samangan Provinces, Afghanistan. As a Taliban military leader in Qandahar Province, Afghanistan, Adam was involved in organising suicide attacks in neighbouring provinces.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](129)
+[^c-a2bcbccd098e1b436aaa715191a57421](129)
 
 **Rahmatullah Shah Nawaz.**
 
@@ -1534,7 +1534,7 @@ Rahmat provides intelligence information to the Taliban. As of early 2013, Rahma
 
 Rahmat has also provided lethal aid, housing, and guidance to Taliban fighters. As of late 2012, Rahmat provided rocket-propelled grenades, PKM light machine guns, and AK-47 assault rifles to the Taliban. Rahmat also sheltered Taliban fighters at his guest house and provided tactical guidance to Taliban fighters during this period. As of late 2011, Rahmat had a guest house in Achin District where Taliban members often stayed.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](130)
+[^c-a2bcbccd098e1b436aaa715191a57421](130)
 
 **Qari Saifullah Tokhi** ( *alias* : (a) Qari Saifullah, (b) Qari Saifullah Al Tokhi, (c) Saifullah Tokhi, (d) Qari Sahab).
 
@@ -1554,7 +1554,7 @@ On 28 September 2011, two suicide bombers under the direction of Taliban command
 
 The Taliban, under the leadership of Qari Saifullah Tokhi, warned local mobile phone networks on 20 April 2011 to shut down their services in Zabul Province. If services were not shut down in accordance with Taliban direction, the Taliban threatened to destroy their antennas along the roads in Zabul Province. On 25 November 2010, Qari Saifullah Tokhi ordered a Taliban commander and Taliban shadow sub-Governor of Atghar District, Zabul Province, to transport light weapons to Qalat City, the capital of Zabul Province. The shipment included approximately 25 Kalashnikov rifles, 10 machine guns, five RPGs, and 20 grenades. Suicide bombers planned to use these weapons against ISAF forces and Afghan National Security Forces, specifically targeting the Second Afghan National Army Brigade and the Police Headquarters.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](131)
+[^c-a2bcbccd098e1b436aaa715191a57421](131)
 
 **Yahya Haqqani** ( *alias* : (a) Yaya, (b) Qari Sahab).
 
@@ -1574,7 +1574,7 @@ Yahya has also conducted and managed HQN and Taliban media and propaganda activi
 
 As of early 2012, Yahya travelled about twice a month, sometimes with Saidullah Jan, to meet with now-deceased HQN financial emissary Nasiruddin Haqqani.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](132)
+[^c-a2bcbccd098e1b436aaa715191a57421](132)
 
 **Saidullah Jan** ( *alias* : Abid Khan).
 
@@ -1592,7 +1592,7 @@ In late 2013, Saidullah travelled to the Gulf in the company HQN fundraisers Kha
 
 In late 2013, Saidullah reportedly was trusted by Al-Qaida members as an HQN associate who could help with any trouble, including arrest. As of early 2012, Saidullah Jan sometimes travelled with Yahya Haqqani to meet with now-deceased HQN financial emissary Nasiruddin Haqqani.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](133)
+[^c-a2bcbccd098e1b436aaa715191a57421](133)
 
 **Muhammad Omar Zadran** ( *alias* : Mohammad-Omar Jadran).
 
@@ -1608,7 +1608,7 @@ Omar has participated in the preparation and planning of attacks against Afghan 
 
 In 2010, Omar and other militant leaders in the region agreed to intensify attacks against the Afghan Government and Coalition forces, capture and control various districts, disrupt national assembly elections and road construction operations, and recruit local youths.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](134)
+[^c-a2bcbccd098e1b436aaa715191a57421](134)
 
 **Abdul Basir Noorzai** ( *alias:* (a) Haji Abdul Basir, (b) Haji 'Abd Al- Basir, (c) Haji Basir Noorzai, (d) Abdul Baseer, (e) Abdul Basir).
 
@@ -1622,7 +1622,7 @@ Haji Abdul Basir (Basir) owns and operates the Haji Basir and Zarjmil Company Ha
 
 As of 2012, Basir was considered to be the principal money exchanger for Taliban senior leadership. Also, in 2010, Basir solicited donations for the Taliban from Pakistani and Afghan expatriates living in Japan, the United Arab Emirates and Singapore.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](135)
+[^c-a2bcbccd098e1b436aaa715191a57421](135)
 
 **Torek Agha** ( *alias* : (a) Sayed Mohammed Hashan, (b) Torak Agha, (c) Toriq Agha, (d) Toriq Agha Sayed).
 
@@ -1646,11 +1646,11 @@ As of late 2009, Torek held USD 2 million from unidentified Qatar and Saudi Ara
 
 In mid-2006, Torek assigned Taliban fighters to various operational Taliban commanders. He was one of the main links between the Taliban leadership and groups of Arab fighters arriving in Pakistan and Afghanistan to fight the International Security Assistance Force (ISAF).
 
-[^key-a2bcbccd098e1b436aaa715191a57421]B.
+[^c-a2bcbccd098e1b436aaa715191a57421]B.
 
 *Entities and other groups and undertakings associated with the Taliban*
 
-[^key-a2bcbccd098e1b436aaa715191a57421](1)
+[^c-a2bcbccd098e1b436aaa715191a57421](1)
 
 **Haji Khairullah Haji Sattar money exchange** ( *alias* (a) Haji Khairullah-Haji Sattar Sarafi, (b) Haji Khairullah and Abdul Sattar and Company, (c) Haji Khairullah Money Exchange, (d) Haji Khair Ullah Money Service, (e) Haji Salam Hawala, (f) Haji Hakim Hawala, (g) Haji Alim Hawala, (h) Sarafi-yi Haji Khairullah Haji Satar Haji Esmatullah).
 
@@ -1664,7 +1664,7 @@ Associated with Abdul Sattar Abdul Manan and Khairullah Barakzai Khudai Nazar. I
 
 Haji Khairullah Haji Sattar Money Exchange (HKHS) is co-owned by Abdul Satar Abdul Manan and Khairullah Barakzai Khudai Nazar. Satar and Khairullah have jointly operated money exchanges throughout Afghanistan, Pakistan, and Dubai, the United Arab Emirates. Taliban leaders have used HKHS to disseminate money to Taliban shadow governors and commanders and to receive hawala (informal money remittance) transfers for the Taliban. As of 2011, the Taliban leadership transferred money to Taliban commanders in Afghanistan using HKHS. In late 2011, the HKHS branch in Lashkar Gah, Helmand Province, Afghanistan, was used to send money to the Taliban shadow governor for Helmand Province. In mid-2011, a Taliban commander used an HKHS branch in the Afghanistan-Pakistan border region to fund fighters and operations in Afghanistan. After the Taliban deposited a significant amount of cash monthly with this HKHS branch, Taliban commanders could access the funds from any HKHS branch. Taliban personnel used HKHS in 2010 to transfer money to hawalas in Afghanistan where operational commanders could access the funds. As of late 2009, the manager of the HKHS branch in Lashkar Gah oversaw the movement of Taliban funds through HKHS.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](2)
+[^c-a2bcbccd098e1b436aaa715191a57421](2)
 
 **Roshan money exchange** ( *alias* (a) Roshan Sarafi, (b) Roshan Trading Company, (c) Rushaan Trading Company, (d) Roshan Shirkat, (e) Maulawi Ahmed Shah Hawala, (f) Mullah Ahmed Shah Hawala, (g) Haji Ahmad Shah Hawala, (h) Ahmad Shah Hawala).
 
@@ -1678,7 +1678,7 @@ Roshan Money Exchange (RMX) stores and transfers funds to support Taliban milita
 
 The money sent to RMX originated in Iran. In 2008, a Taliban leader used RMX to transfer tens of thousands of dollars from Pakistan to Afghanistan. The Taliban also uses RMX to facilitate its role in the Afghan narcotics trade. As of 2011, Taliban officials, including the shadow governor of Helmand Province, transferred hundreds of thousands of dollars from an RMX branch in the Afghanistan-Pakistan border region to hawalas in Afghanistan for the purchase of narcotics on behalf of Taliban officials. Also in 2011, a Taliban official directed Taliban commanders in Helmand Province to transfer opium proceeds through RMX. One Taliban district chief transferred thousands of dollars from Marjah, Helmand Province, Afghanistan, to an RMX branch in the Afghanistan-Pakistan border region.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](3)
+[^c-a2bcbccd098e1b436aaa715191a57421](3)
 
 **Haqqani Network** ( *alias* HQN).
 
@@ -1694,7 +1694,7 @@ The Haqqani Network has been responsible for many of the highest-profile attacks
 
 The Haqqani Network has also been involved in a number of kidnappings, and has cooperated with the Taliban and other militant organizations in Afghanistan.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](4)
+[^c-a2bcbccd098e1b436aaa715191a57421](4)
 
 **Rahat Ltd** . ( *alias* (a) Rahat Trading Company, (b) Haji Muhammad Qasim Sarafi, (c) New Chagai Trading, (d) Musa Kalim Hawala).
 
@@ -1714,7 +1714,7 @@ Taliban senior figures have personally interacted with Rahat Ltd. branch manager
 
 Rahat Ltd. provides financial services to Taliban-affiliated narcotics networks in the Afghanistan/Pakistan border region through its branch managers' direct involvement in narcotics trafficking and their close association with senior figures within these narcotics networks.
 
-[^key-a2bcbccd098e1b436aaa715191a57421](5)
+[^c-a2bcbccd098e1b436aaa715191a57421](5)
 
 **Haji Basir and Zarjmil Company Hawala** ( *alias:* (a) Haji Bashir and Zarjmil Hawala Company, (b) Haji Abdul Basir and Zar Jameel Hawala, (c) Haji Basir Hawala, (d) Haji Baseer Hawala, (e) Haji Abdul Basir Exchange Shop, (f) Haji Basir and Zarjamil Currency Exchange, (g) Haji Zar Jamil, Haji Abdul Baseer Money Changer). **Date of UN designation:**   27.3.2015 .
 
@@ -1732,125 +1732,125 @@ The Haji Basir and Zarjmil Company Hawala (Basir Zarjmil Hawala) in Chaman, Balu
 
 In 2013, the Basir Zarjmil Hawala distributed thousands of dollars to Taliban commanders in the region, facilitating the financing of Taliban operations. In 2012, the Basir Zarjmil Hawala conducted thousands of dollars in transactions related to weapons and other operational expenses for the Taliban.
 
-## ANNEX II — LIST OF COMPETENT AUTHORITIES IN THE MEMBER STATES AND ADDRESS FOR NOTIFICATIONS TO THE EUROPEAN COMMISSION[^key-a2bcbccd098e1b436aaa715191a57421]
+## ANNEX II — LIST OF COMPETENT AUTHORITIES IN THE MEMBER STATES AND ADDRESS FOR NOTIFICATIONS TO THE EUROPEAN COMMISSION[^c-a2bcbccd098e1b436aaa715191a57421]
 
-[^key-a2bcbccd098e1b436aaa715191a57421] BELGIUM
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-a2bcbccd098e1b436aaa715191a57421] BULGARIA
+[^c-a2bcbccd098e1b436aaa715191a57421] BELGIUM
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] CZECH REPUBLIC
+[^c-a2bcbccd098e1b436aaa715191a57421] BULGARIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] DENMARK
+[^c-a2bcbccd098e1b436aaa715191a57421] CZECH REPUBLIC
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] GERMANY
+[^c-a2bcbccd098e1b436aaa715191a57421] DENMARK
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] ESTONIA
+[^c-a2bcbccd098e1b436aaa715191a57421] GERMANY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] IRELAND
+[^c-a2bcbccd098e1b436aaa715191a57421] ESTONIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] GREECE
+[^c-a2bcbccd098e1b436aaa715191a57421] IRELAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] SPAIN
+[^c-a2bcbccd098e1b436aaa715191a57421] GREECE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] FRANCE
+[^c-a2bcbccd098e1b436aaa715191a57421] SPAIN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] CROATIA
+[^c-a2bcbccd098e1b436aaa715191a57421] FRANCE
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] ITALY
+[^c-a2bcbccd098e1b436aaa715191a57421] CROATIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] CYPRUS
+[^c-a2bcbccd098e1b436aaa715191a57421] ITALY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] LATVIA
+[^c-a2bcbccd098e1b436aaa715191a57421] CYPRUS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] LITHUANIA
+[^c-a2bcbccd098e1b436aaa715191a57421] LATVIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] LUXEMBOURG
+[^c-a2bcbccd098e1b436aaa715191a57421] LITHUANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] HUNGARY
+[^c-a2bcbccd098e1b436aaa715191a57421] LUXEMBOURG
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] MALTA
+[^c-a2bcbccd098e1b436aaa715191a57421] HUNGARY
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] NETHERLANDS
+[^c-a2bcbccd098e1b436aaa715191a57421] MALTA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] AUSTRIA
+[^c-a2bcbccd098e1b436aaa715191a57421] NETHERLANDS
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] POLAND
+[^c-a2bcbccd098e1b436aaa715191a57421] AUSTRIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] PORTUGAL
+[^c-a2bcbccd098e1b436aaa715191a57421] POLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] ROMANIA
+[^c-a2bcbccd098e1b436aaa715191a57421] PORTUGAL
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] SLOVENIA
+[^c-a2bcbccd098e1b436aaa715191a57421] ROMANIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] SLOVAKIA
+[^c-a2bcbccd098e1b436aaa715191a57421] SLOVENIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] FINLAND
+[^c-a2bcbccd098e1b436aaa715191a57421] SLOVAKIA
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] SWEDEN
+[^c-a2bcbccd098e1b436aaa715191a57421] FINLAND
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421] UNITED KINGDOM
+[^c-a2bcbccd098e1b436aaa715191a57421] SWEDEN
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a2bcbccd098e1b436aaa715191a57421]
+[^c-a2bcbccd098e1b436aaa715191a57421] UNITED KINGDOM
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-a2bcbccd098e1b436aaa715191a57421]
 
 Address for notifications to the European Commission:
 
-[^key-a2bcbccd098e1b436aaa715191a57421]
+[^c-a2bcbccd098e1b436aaa715191a57421]
 
 European Commission
 
@@ -1864,6 +1864,6 @@ E-mail: relex-sanctions@ec.europa.eu
 
 ## Annotations
 
-[^key-42d8c7b14e5bf5aca7128402e3d8caa5]: Textual amendment: Regulation revoked (31.12.2020) by [The Afghanistan (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/948)](https://www.legislation.gov.uk/uksi/2020/948), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/948/regulation/1/2), [55(1)](https://www.legislation.gov.uk/uksi/2020/948/regulation/55/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 16(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/16/2)
+[^c-42d8c7b14e5bf5aca7128402e3d8caa5]: Textual amendment: Regulation revoked (31.12.2020) by [The Afghanistan (Sanctions) (EU Exit) Regulations 2020 (S.I. 2020/948)](https://www.legislation.gov.uk/uksi/2020/948), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/948/regulation/1/2), [55(1)](https://www.legislation.gov.uk/uksi/2020/948/regulation/55/1); [S.I. 2020/1514](https://www.legislation.gov.uk/uksi/2020/1514), [reg. 16(2)](https://www.legislation.gov.uk/uksi/2020/1514/regulation/16/2)
 
-[^key-a2bcbccd098e1b436aaa715191a57421]: Textual amendment: [Arts. 9-13](https://www.legislation.gov.uk/eur/2011/753/article/9) omitted (31.12.2020) by virtue of [The Sanctions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/26)](https://www.legislation.gov.uk/uksi/2019/26), [regs. 1](https://www.legislation.gov.uk/uksi/2019/26/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2019/26/regulation/9/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a2bcbccd098e1b436aaa715191a57421]: Textual amendment: [Arts. 9-13](https://www.legislation.gov.uk/eur/2011/753/article/9) omitted (31.12.2020) by virtue of [The Sanctions (Amendment) (EU Exit) Regulations 2019 (S.I. 2019/26)](https://www.legislation.gov.uk/uksi/2019/26), [regs. 1](https://www.legislation.gov.uk/uksi/2019/26/regulation/1), [9(6)](https://www.legislation.gov.uk/uksi/2019/26/regulation/9/6); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

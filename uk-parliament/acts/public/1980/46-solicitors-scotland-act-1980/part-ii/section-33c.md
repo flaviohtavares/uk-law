@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 33C. Licensed legal services providers[^key-20f2c38313e23be2c874aed27cec39d2]
+## 33C. Licensed legal services providers[^c-20f2c38313e23be2c874aed27cec39d2]
 
 *Extent: S*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-20f2c38313e23be2c874aed27cec39d2]: Textual amendment: S. 33C inserted (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 124(1)](https://www.legislation.gov.uk/asp/2010/16/section/124/1), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)
+[^c-20f2c38313e23be2c874aed27cec39d2]: Textual amendment: S. 33C inserted (2.7.2012) by [Legal Services (Scotland) Act 2010 (asp 16)](https://www.legislation.gov.uk/asp/2010/16), [ss. 124(1)](https://www.legislation.gov.uk/asp/2010/16/section/124/1), [150(2)](https://www.legislation.gov.uk/asp/2010/16/section/150/2); [S.S.I. 2012/152](https://www.legislation.gov.uk/ssi/2012/152), [art. 2](https://www.legislation.gov.uk/ssi/2012/152/article/2), [sch.](https://www.legislation.gov.uk/ssi/2012/152/schedule)

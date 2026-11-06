@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 87. The reduced annual rate condition[^key-c9c4de8210898c17a8514e7626225704]
+## 87. The reduced annual rate condition[^c-c9c4de8210898c17a8514e7626225704]
 
 *Extent: S*
 
@@ -28,4 +28,4 @@ A person (P) meets the reduced annual rate condition if—
 
 ## Annotations
 
-[^key-c9c4de8210898c17a8514e7626225704]: Commencement: [Reg. 87](https://www.legislation.gov.uk/ssi/2014/292/regulation/87) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-c9c4de8210898c17a8514e7626225704]: Commencement: [Reg. 87](https://www.legislation.gov.uk/ssi/2014/292/regulation/87) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)

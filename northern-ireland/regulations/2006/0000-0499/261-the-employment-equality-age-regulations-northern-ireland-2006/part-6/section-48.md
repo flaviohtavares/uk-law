@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 48. Period within which proceedings to be brought[^key-c028cac0fd3077a6ac761d948ae8189d]
+## 48. Period within which proceedings to be brought[^c-c028cac0fd3077a6ac761d948ae8189d]
 
 *Extent: N.I.*
 
@@ -24,7 +24,7 @@ summary: ''
 
 (2) Where the period within which a complaint must be presented in accordance with paragraph (1) is extended by regulation 15 of the Employment (Northern Ireland) Order 2003 (Dispute Resolution) Regulations (Northern Ireland) 2004[^f00037], the period within which the complaint must be presented shall be the extended period rather than the period in paragraph (1).
 
-(2A)[^key-c51a2de09021ab2083fb421ae4dd80b6] Regulation 48A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1).
+(2A)[^c-c51a2de09021ab2083fb421ae4dd80b6] Regulation 48A (extension of time limit to facilitate conciliation before institution of proceedings) applies for the purposes of paragraph (1).
 
 (3) A county court shall not consider a claim brought under regulation 44 (jurisdiction of county courts) unless proceedings in respect of the claim are instituted before the end of the period of six months beginning when the act complained of was done.
 
@@ -40,8 +40,8 @@ and in the absence of evidence establishing the contrary a person shall be taken
 
 ## Annotations
 
-[^key-c028cac0fd3077a6ac761d948ae8189d]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2006/261/regulation/48) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
+[^c-c028cac0fd3077a6ac761d948ae8189d]: Commencement: [Reg. 48](https://www.legislation.gov.uk/nisr/2006/261/regulation/48) in operation at 1.10.2006 in so far as not already in operation, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/261/regulation/1/1)
 
 [^f00037]: Footnote: [S.R. 2004 No. 521](https://www.legislation.gov.uk/nisr/2004/521)
 
-[^key-c51a2de09021ab2083fb421ae4dd80b6]: Textual amendment: [Reg. 48A](https://www.legislation.gov.uk/nisr/2006/261/regulation/48A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 39](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/39)
+[^c-c51a2de09021ab2083fb421ae4dd80b6]: Textual amendment: [Reg. 48A](https://www.legislation.gov.uk/nisr/2006/261/regulation/48A) inserted (27.1.2020) by [The Industrial Tribunals (1996 Order) (Application of Conciliation Provisions) Order (Northern Ireland) 2020 (S.R. 2020/4)](https://www.legislation.gov.uk/nisr/2020/4), [art. 1](https://www.legislation.gov.uk/nisr/2020/4/article/1), [Sch. para. 39](https://www.legislation.gov.uk/nisr/2020/4/schedule/paragraph/39)

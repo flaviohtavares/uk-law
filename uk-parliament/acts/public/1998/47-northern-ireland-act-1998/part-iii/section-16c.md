@@ -62,20 +62,20 @@ summary: ''
 
 subsection (2)(a) above shall have effect as if the number of seats in the Assembly which were held by members of the party on the day on which the Assembly first met following its election was nil.
 
-(8)[^key-af1185ba8d4a8d05d6e64d273e26d56b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-af1185ba8d4a8d05d6e64d273e26d56b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (9) Where—
 
-- (a) a person nominated by the nominating officer of a political party ceased to hold office as First Minister or deputy First Minister as a result of a resolution of the Assembly under section 30(2)[^key-f56e31383c29fee8489ced0bc9b20c70]...; and
-- (b) the party's period of exclusion under section 30(2) [^key-6697d5c2459dbc0b3b7361c56f8dc0c5]... subsequently comes to an end otherwise than by virtue of the dissolution of the Assembly,
+- (a) a person nominated by the nominating officer of a political party ceased to hold office as First Minister or deputy First Minister as a result of a resolution of the Assembly under section 30(2)[^c-f56e31383c29fee8489ced0bc9b20c70]...; and
+- (b) the party's period of exclusion under section 30(2) [^c-6697d5c2459dbc0b3b7361c56f8dc0c5]... subsequently comes to an end otherwise than by virtue of the dissolution of the Assembly,
 
-the First Minister and the deputy First Minister shall cease to hold office when the party's period of exclusion under that provision comes to an end [^key-f486e5f9b891350a2ad7723e536ad5f3]....
+the First Minister and the deputy First Minister shall cease to hold office when the party's period of exclusion under that provision comes to an end [^c-f486e5f9b891350a2ad7723e536ad5f3]....
 
-(10)[^key-5076c2e13ce8f3683c674b439d636ebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(10)[^c-5076c2e13ce8f3683c674b439d636ebd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (11) In this section “**the relevant time**” means the end of the day on which the Assembly first met following its election.
 
-(12) In this section, a reference to a period of exclusion [^key-509e2f76c870ad0988787887491d4667]... is, in the case of a period of exclusion [^key-509e2f76c870ad0988787887491d4667]... which has been extended, a reference to that period as extended.
+(12) In this section, a reference to a period of exclusion [^c-509e2f76c870ad0988787887491d4667]... is, in the case of a period of exclusion [^c-509e2f76c870ad0988787887491d4667]... which has been extended, a reference to that period as extended.
 
 (13) Standing orders may make further provision in connection with the making of nominations under sections 16A and 16B.
 
@@ -85,14 +85,14 @@ the First Minister and the deputy First Minister shall cease to hold office when
 
 [^c20123141]: Textual amendment: Ss. 16A-16C substituted (8.5.2007) for s. 16 by [Northern Ireland (St Andrews Agreement) Act 2006 (c. 53)](https://www.legislation.gov.uk/ukpga/2006/53), [ss. 8(1)](https://www.legislation.gov.uk/ukpga/2006/53/section/8/1), [27(4)(5)](https://www.legislation.gov.uk/ukpga/2006/53/section/27/4/5) (as amended by [Northern Ireland (St Andrews Agreement) Act 2007 (c. 4)](https://www.legislation.gov.uk/ukpga/2007/4), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2007/4/section/1/1)) (with s. 1(3)): [S.I. 2007/1397](https://www.legislation.gov.uk/uksi/2007/1397), [art. 2](https://www.legislation.gov.uk/uksi/2007/1397/article/2)
 
-[^key-af1185ba8d4a8d05d6e64d273e26d56b]: Textual amendment: S. 16C(8) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(a)(i)](https://www.legislation.gov.uk/uksi/2011/978/article/5/a/i)
+[^c-af1185ba8d4a8d05d6e64d273e26d56b]: Textual amendment: S. 16C(8) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(a)(i)](https://www.legislation.gov.uk/uksi/2011/978/article/5/a/i)
 
-[^key-f56e31383c29fee8489ced0bc9b20c70]: Textual amendment: Words in s. 16C(9)(a) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2011/978/article/5/a/ii)
+[^c-f56e31383c29fee8489ced0bc9b20c70]: Textual amendment: Words in s. 16C(9)(a) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(a)(ii)](https://www.legislation.gov.uk/uksi/2011/978/article/5/a/ii)
 
-[^key-6697d5c2459dbc0b3b7361c56f8dc0c5]: Textual amendment: Words in s. 16C(9)(b) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2011/978/article/5/a/iii)
+[^c-6697d5c2459dbc0b3b7361c56f8dc0c5]: Textual amendment: Words in s. 16C(9)(b) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(a)(iii)](https://www.legislation.gov.uk/uksi/2011/978/article/5/a/iii)
 
-[^key-f486e5f9b891350a2ad7723e536ad5f3]: Textual amendment: Words in s. 16C(9) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(a)(iv)](https://www.legislation.gov.uk/uksi/2011/978/article/5/a/iv)
+[^c-f486e5f9b891350a2ad7723e536ad5f3]: Textual amendment: Words in s. 16C(9) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(a)(iv)](https://www.legislation.gov.uk/uksi/2011/978/article/5/a/iv)
 
-[^key-5076c2e13ce8f3683c674b439d636ebd]: Textual amendment: S. 16C(10) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(a)(v)](https://www.legislation.gov.uk/uksi/2011/978/article/5/a/v)
+[^c-5076c2e13ce8f3683c674b439d636ebd]: Textual amendment: S. 16C(10) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(a)(v)](https://www.legislation.gov.uk/uksi/2011/978/article/5/a/v)
 
-[^key-509e2f76c870ad0988787887491d4667]: Textual amendment: Words in s. 16C(12) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(a)(vi)](https://www.legislation.gov.uk/uksi/2011/978/article/5/a/vi)
+[^c-509e2f76c870ad0988787887491d4667]: Textual amendment: Words in s. 16C(12) omitted (1.4.2011) by virtue of [Northern Ireland (Monitoring Commission etc.) Act 2003 (Cessation of Provisions) Order 2011 (S.I. 2011/978)](https://www.legislation.gov.uk/uksi/2011/978), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/978/article/1/2), [5(a)(vi)](https://www.legislation.gov.uk/uksi/2011/978/article/5/a/vi)

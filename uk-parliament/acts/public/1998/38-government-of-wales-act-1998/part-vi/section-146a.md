@@ -25,7 +25,7 @@ summary: ''
 - (a) to be exercised on their behalf by the Auditor General for Wales, or
 - (b) to be transferred to the Auditor General for Wales.
 
-(1A)[^key-532a6a2d8e67109b0e1c70677d596880] But before making an order under subsection (1), the Welsh Ministers must consult the Wales Audit Office.
+(1A)[^c-532a6a2d8e67109b0e1c70677d596880] But before making an order under subsection (1), the Welsh Ministers must consult the Wales Audit Office.
 
 (2) In this section—
 
@@ -58,7 +58,7 @@ summary: ''
 
 [^c20952001]: Textual amendment: Words in s. 146A(1) repealed (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [arts. 5](https://www.legislation.gov.uk/uksi/2010/866/article/5), [7](https://www.legislation.gov.uk/uksi/2010/866/article/7), [Sch. 2 para. 115(2)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/115/2), [Sch. 4](https://www.legislation.gov.uk/uksi/2010/866/schedule/4) (with [art. 6 Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/article/6/schedule/3))
 
-[^key-532a6a2d8e67109b0e1c70677d596880]: Textual amendment: [S. 146A(1A)](https://www.legislation.gov.uk/ukpga/1998/38/section/146A/1A) inserted (4.7.2013) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [ss. 12](https://www.legislation.gov.uk/anaw/2013/3/section/12), [35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(d)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/d)
+[^c-532a6a2d8e67109b0e1c70677d596880]: Textual amendment: [S. 146A(1A)](https://www.legislation.gov.uk/ukpga/1998/38/section/146A/1A) inserted (4.7.2013) by [Public Audit (Wales) Act 2013 (anaw 3)](https://www.legislation.gov.uk/anaw/2013/3), [ss. 12](https://www.legislation.gov.uk/anaw/2013/3/section/12), [35(2)](https://www.legislation.gov.uk/anaw/2013/3/section/35/2) (with [Sch. 3 paras. 2](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/2), [3](https://www.legislation.gov.uk/anaw/2013/3/schedule/3/paragraph/3)); [S.I. 2013/1466](https://www.legislation.gov.uk/wsi/2013/1466), [art. 2(d)](https://www.legislation.gov.uk/wsi/2013/1466/article/2/d)
 
 [^c20952021]: Textual amendment: S. 146A(2): definition of "registered social landlord" substituted (1.4.2010) by [The Housing and Regeneration Act 2008 (Consequential Provisions) Order 2010 (S.I. 2010/866)](https://www.legislation.gov.uk/uksi/2010/866), [art. 5](https://www.legislation.gov.uk/uksi/2010/866/article/5), [Sch. 2 para. 115(3)(a)](https://www.legislation.gov.uk/uksi/2010/866/schedule/2/paragraph/115/3/a) (with [art. 6 Sch. 3](https://www.legislation.gov.uk/uksi/2010/866/article/6/schedule/3))
 

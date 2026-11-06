@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 108. Authority to pilot in command or remote pilot[^key-e09cae8b1f5288193206c429dcf7a3f2]
+## 108. Authority to pilot in command or remote pilot[^c-e09cae8b1f5288193206c429dcf7a3f2]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ If the launch vehicle has a pilot in command or a remote pilot, a spaceflight op
 
 ## Annotations
 
-[^key-e09cae8b1f5288193206c429dcf7a3f2]: Commencement: Reg. 108 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)
+[^c-e09cae8b1f5288193206c429dcf7a3f2]: Commencement: Reg. 108 in force at 29.7.2021, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2021/792/regulation/1/1)

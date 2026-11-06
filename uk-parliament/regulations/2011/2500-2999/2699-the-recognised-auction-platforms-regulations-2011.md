@@ -52,7 +52,7 @@ for the purpose of the remaining regulations
 
 The Treasury are a government department designated [^c21103001] for the purposes of section 2(2) of the European Communities Act 1972 [^c21103011] in relation to measures relating to the operation of regulated markets and clearing or settlement systems and in relation to insider dealing and market manipulation.
 
-The Treasury, in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, make the following Regulations.[^key-ad2bc936086633c3a818a483240c63b7]
+The Treasury, in exercise of the powers conferred on them by section 2(2) of the European Communities Act 1972, make the following Regulations.[^c-ad2bc936086633c3a818a483240c63b7]
 
 ## PART 1 — General
 
@@ -68,25 +68,25 @@ The Treasury, in exercise of the powers conferred on them by section 2(2) of the
 (3) In these Regulations—
 
 - “**the Act**” means the Financial Services and Markets Act 2000 [^c21103021];
-- “**auction platform**” means a platform on which auctions of emissions allowances are held in accordance with the UK auctioning regulations[^key-420e939a90a07882d5395e5a2ed0f58d];
-- “auction recognition requirements” mean the requirements set out in Part 5 of these Regulations together with any requirements contained in the UK auctioning regulations[^key-04d853cd5ded426ed8f7f487d1031be4];
-- “the Authority” means the FCA;[^key-ed848e952996a38e570644fa8665df65]
+- “**auction platform**” means a platform on which auctions of emissions allowances are held in accordance with the UK auctioning regulations[^c-420e939a90a07882d5395e5a2ed0f58d];
+- “auction recognition requirements” mean the requirements set out in Part 5 of these Regulations together with any requirements contained in the UK auctioning regulations[^c-04d853cd5ded426ed8f7f487d1031be4];
+- “the Authority” means the FCA;[^c-ed848e952996a38e570644fa8665df65]
 - “**bid**” means an offer in an auction of emission allowances to acquire a given volume of allowances at a specified price;
 - “**emission allowance**” means an allowance to emit one tonne of carbon dioxide equivalent during a specified period,
-  - ((a)) [^key-970a0bc725d8c0d10f402893d39a74f2]which is valid for the purposes of meeting the requirements of the emission allowance trading directive, and which is transferable in accordance with the provisions of that directive , or[^key-1b8dc87d217d39aa177326127361704a]
+  - ((a)) [^c-970a0bc725d8c0d10f402893d39a74f2]which is valid for the purposes of meeting the requirements of the emission allowance trading directive, and which is transferable in accordance with the provisions of that directive , or[^c-1b8dc87d217d39aa177326127361704a]
   - ((b)) created under article 18 of the trading scheme order and transferable in accordance with that order;
 - “**emission allowance trading directive**” means Directive [2003/87/EC](https://www.legislation.gov.uk/european/directive/2003/0087) of the European Parliament and of the Council of 13 October 2003 establishing a scheme for greenhouse gas emission allowances trading within the Community [^c21103031];
 - “**emission allowance auctioning regulation**” means Commission Regulation (EU) No 1031/2010 of 12 November 2010 on the timing, administration and other aspects of auctioning of greenhouse gas emission allowances pursuant to the emission allowance trading directive [^c21103041];
 - “**recognised investment exchange**” means an investment exchange other than an overseas investment exchange in relation to which a recognition order has been made under section 290(1)(a);
 - “**recognised auction platform**” means a recognised investment exchange in relation to which a recognition order is in force;
 - “**recognition order**” means an order made under regulation 2;
-- “trading scheme order” means the Greenhouse Gas Emissions Trading Scheme Order 2020;[^key-6926663fc48a4fcd7c93241bd5a16024]
+- “trading scheme order” means the Greenhouse Gas Emissions Trading Scheme Order 2020;[^c-6926663fc48a4fcd7c93241bd5a16024]
 - “UK auctioning regulations” means the Greenhouse Gas Emissions Trading Scheme Auctioning Regulations 2021.
 
 (4) In these Regulations—
 
 - (a) unless the contrary intention appears, expressions which are also used in the Financial Services and Markets Act 2000 have the same meaning as in that Act;
-- (b) expressions which are also used in the trading scheme order[^key-98034171f10a2a963ea01cd3465ecb5c] or the UK auctioning regulations[^key-03d0930f67e8545f5a7458590ee889e4] have the same meaning as in that directive or regulations[^key-571d70da79f11a80439823fe36fded30]; and
+- (b) expressions which are also used in the trading scheme order[^c-98034171f10a2a963ea01cd3465ecb5c] or the UK auctioning regulations[^c-03d0930f67e8545f5a7458590ee889e4] have the same meaning as in that directive or regulations[^c-571d70da79f11a80439823fe36fded30]; and
 - (c) reference to a numbered section, unless otherwise stated, is a reference to a section in the Act.
 
 ## PART 2 — Recognised Auction Platforms
@@ -200,7 +200,7 @@ the Authority must have regard to any representations made in accordance with pa
 
 (6) When the Authority has decided whether to refuse a recognition order, give the proposed direction or make the proposed revocation order, it must—
 
-- (a) give written notice of its decision[^key-625e5bda24644ce0779b91e14d5e6e96] to the body affected by its decision;
+- (a) give written notice of its decision[^c-625e5bda24644ce0779b91e14d5e6e96] to the body affected by its decision;
 - (b) if it has decided to refuse a recognition order, give a direction or make a revocation order, take such steps as it considers reasonably practicable for bringing its decision to the attention of members of the body or of other persons who are, in the Authority's opinion, likely to be affected.
 
 (7) If the Authority considers it essential to do so, it may give a direction under regulation 3—
@@ -210,9 +210,9 @@ the Authority must have regard to any representations made in accordance with pa
 
 (8) If the Authority has, in relation to a particular matter, followed the procedure set out in paragraphs (1) to (5), it need not follow it again if, in relation to that matter, it decides to take action other than that specified in its notice under paragraph (1).
 
-### 5A. Power to impose civil penalties[^key-98886759ff6042d8a0f3a67005e5df4c]
+### 5A. Power to impose civil penalties[^c-98886759ff6042d8a0f3a67005e5df4c]
 
-(1) If the Authority considers that a recognised auction platform has contravened any requirement in regulation 17, 18(8), 19(1) or (2), or 37 of the UK auctioning regulations[^key-aa43706264772033b1f091a2a3f23c1c], it may impose upon on the auction platform a penalty of such amount as it considers appropriate, and for this purpose, “appropriate” means effective, proportionate and dissuasive.
+(1) If the Authority considers that a recognised auction platform has contravened any requirement in regulation 17, 18(8), 19(1) or (2), or 37 of the UK auctioning regulations[^c-aa43706264772033b1f091a2a3f23c1c], it may impose upon on the auction platform a penalty of such amount as it considers appropriate, and for this purpose, “appropriate” means effective, proportionate and dissuasive.
 
 (2) The Authority must not impose a penalty on a person under paragraph (1) where there are reasonable grounds for it to be satisfied that the person took all reasonable steps and exercised all due diligence to ensure that the requirement was complied with.
 
@@ -244,7 +244,7 @@ the Authority must have regard to any representations made in accordance with pa
 
 (10) Section 388 of the Act applies to notices given in accordance with this regulation and references in subsection (1)(e)(i) of that section to “any right to have a matter referred to the Tribunal which is given by this Act” shall include a right to have a matter referred to the Tribunal under this regulation.
 
-**5C.**[^key-1099b3e82151bb381d34c0447f6cae84] (1) The Authority must in respect of each of its financial years pay to the Treasury any amounts received by it during the year by way of penalties imposed under regulation 5A.
+**5C.**[^c-1099b3e82151bb381d34c0447f6cae84] (1) The Authority must in respect of each of its financial years pay to the Treasury any amounts received by it during the year by way of penalties imposed under regulation 5A.
 
 (2) The Treasury may give directions to the Authority as to how the Authority is to comply with its duty under paragraph (1).
 
@@ -255,15 +255,15 @@ the Authority must have regard to any representations made in accordance with pa
 
 (4) The Treasury must pay into the Consolidated Fund any sums received by them under this regulation.
 
-### 6. Market abuse regime applicable from July 2016 to January 2018 in relation to auctioned products other than financial instruments[^key-a6e5dfe8468ce1d889283a8ae0104fad]
+### 6. Market abuse regime applicable from July 2016 to January 2018 in relation to auctioned products other than financial instruments[^c-a6e5dfe8468ce1d889283a8ae0104fad]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### 7. Application of certain provisions of the Act with modifications
 
-In its application to a recognised investment exchange that is also a recognised auction platform, Part 18 (recognised investment exchanges clearing houses and CSDs[^key-ab7dc9cab7e93c2e0e9798e905d9624a]) of the Act, apart from Chapter 3A [^c21103061], has effect with the modifications set out in Schedule 2.
+In its application to a recognised investment exchange that is also a recognised auction platform, Part 18 (recognised investment exchanges clearing houses and CSDs[^c-ab7dc9cab7e93c2e0e9798e905d9624a]) of the Act, apart from Chapter 3A [^c21103061], has effect with the modifications set out in Schedule 2.
 
-### 8. Application of Chapter 3A of Part 18 of the Act with modifications[^key-cabbb8364fff141fc00ca1cc83db7ba5]
+### 8. Application of Chapter 3A of Part 18 of the Act with modifications[^c-cabbb8364fff141fc00ca1cc83db7ba5]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -271,7 +271,7 @@ In its application to a recognised investment exchange that is also a recognised
 
 ### 9. Functions of the Authority
 
-(1) The Authority is to have the functions conferred on it by these Regulations or by the UK auctioning regulations[^key-002cbc6d9f6d47801897fe3c3f72a821].
+(1) The Authority is to have the functions conferred on it by these Regulations or by the UK auctioning regulations[^c-002cbc6d9f6d47801897fe3c3f72a821].
 
 (2) Reference in an enactment to—
 
@@ -286,7 +286,7 @@ includes a reference to functions conferred on the Authority by these Regulation
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 11. Amendment of the Money Laundering Regulations 2007[^key-173677771c2085741f85bbb0ff2c78b3]
+### 11. Amendment of the Money Laundering Regulations 2007[^c-173677771c2085741f85bbb0ff2c78b3]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -387,24 +387,24 @@ In this Part—
 - (c) its professional standards for staff of any bidders; and
 - (d) the rules and procedures for clearing and settlement of transactions executed by bidders.
 
-(3) Rules of the auction platform about access to bid at auctions conducted by it must permit the auction platform to give access only to those persons who are eligible to be given access to bid directly in auctions under regulation 16 of the UK auctioning regulations[^key-266f1277db177f0e44261a8047db7186].
+(3) Rules of the auction platform about access to bid at auctions conducted by it must permit the auction platform to give access only to those persons who are eligible to be given access to bid directly in auctions under regulation 16 of the UK auctioning regulations[^c-266f1277db177f0e44261a8047db7186].
 
 (4) Rules under this regulation must enable—
 
-- (a)[^key-bb559177c09a717237edb7349ae55faf] investment firms [^key-e1d34163e31367015a01ee8fdfd065a9]..., which—
+- (a)[^c-bb559177c09a717237edb7349ae55faf] investment firms [^c-e1d34163e31367015a01ee8fdfd065a9]..., which—
   - (i) have permission under Part 4A of the Financial Services and Markets Act 2000 to carry on regulated activities relating to investment services and activities, bidding on their own account or on behalf of their clients; and
   - (ii) would require authorisation under [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council on markets in financial instruments if they had their head office in an EEA state;
-- (aa)[^key-2758e87044c3cfe96df04b4156d85d74] investment firms which—
+- (aa)[^c-2758e87044c3cfe96df04b4156d85d74] investment firms which—
   - (i) satisfy the condition in sub-paragraph (a)(i); and
   - (ii) are authorised under [Directive 2014/65/EU](https://www.legislation.gov.uk/european/directive/2014/0065) of the European Parliament and of the Council on markets in financial instruments as amended from time to time;
-- (b) credit institutions [^key-461bcbb37579ce9666f8986cf85b2fda]..., which—
+- (b) credit institutions [^c-461bcbb37579ce9666f8986cf85b2fda]..., which—
   - (i) have permission under Part 4A of the Financial Services and Markets Act 2000 to carry on the regulated activity of accepting deposits, bidding on their own account or on behalf of their clients; and
   - (ii) would require authorisation under [Directive 2013/36/EU](https://www.legislation.gov.uk/european/directive/2013/0036) of the European Parliament and of the Council on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms if they had their head office in an EEA state,
-- (ba)[^key-0ebb61ee1030a0a129b79310891bb3d9] credit institutions which—
+- (ba)[^c-0ebb61ee1030a0a129b79310891bb3d9] credit institutions which—
   - (i) satisfy the condition in sub-paragraph (b)(i); and
   - (ii) are authorised under [Directive 2013/36/EU](https://www.legislation.gov.uk/european/directive/2013/0036) of the European Parliament and of the Council on access to the activity of credit institutions and the prudential supervision of credit institutions and investment firms as amended from time to time;
 
-[^key-d45094d95ab3e7ea8de85c9d58f518d6]... to apply for access to bid in auctions conducted by the auction platform [^key-38e42bdcaf22fcf8519d36ec9a8f20b7]....
+[^c-d45094d95ab3e7ea8de85c9d58f518d6]... to apply for access to bid in auctions conducted by the auction platform [^c-38e42bdcaf22fcf8519d36ec9a8f20b7]....
 
 (5) The auction platform must make arrangements regularly to provide the Authority with a list of bidders.
 
@@ -470,7 +470,7 @@ or takes both of these steps.
 - (b) set out the conclusions of the review in a report, and
 - (c) publish the report.
 
-(2)[^key-cc630efbe143f22c8c2e2154553e9487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-cc630efbe143f22c8c2e2154553e9487] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) The report must in particular—
 
@@ -488,65 +488,65 @@ Brooks Newmark
 
 Two of the Lords Commissioners of Her Majesty's Treasury
 
-## SCHEDULE 1 — Modifications of the Act for the purposes of Articles 37 to 43 of the emission allowance auctioning regulation[^key-76e57657cad67679de37cd151e6be3a7]
+## SCHEDULE 1 — Modifications of the Act for the purposes of Articles 37 to 43 of the emission allowance auctioning regulation[^c-76e57657cad67679de37cd151e6be3a7]
 
 **No longer in force.**
 
 Regulation 6
 
-### 1. The Authority's powers[^key-76e57657cad67679de37cd151e6be3a7]
+### 1. The Authority's powers[^c-76e57657cad67679de37cd151e6be3a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Modifications of Part 8 of the Act[^key-76e57657cad67679de37cd151e6be3a7]
+### 2. Modifications of Part 8 of the Act[^c-76e57657cad67679de37cd151e6be3a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**5.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**8.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**9.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**11.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**12.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**14.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**15.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**15.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 16. Other modifications of the Act[^key-76e57657cad67679de37cd151e6be3a7]
+### 16. Other modifications of the Act[^c-76e57657cad67679de37cd151e6be3a7]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**22.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**23.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**24.**[^key-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-76e57657cad67679de37cd151e6be3a7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## SCHEDULE 2 — Modifications of Part 18 of the Act in relation to recognised auction platforms
 
@@ -554,7 +554,7 @@ Regulation 7
 
 **1.** In section 285(2), reference to the exchange's business as an investment exchange includes a reference to its business as an auction platform.
 
-**2.** In section 291(3), reference to the obligations to which the body is subject under or by virtue of the Act is to be read as including a reference to the obligations to which it is subject under these Regulations or under the UK auctioning regulations[^key-91c1e6c3325c4f3570ab83a3242d1f41].
+**2.** In section 291(3), reference to the obligations to which the body is subject under or by virtue of the Act is to be read as including a reference to the obligations to which it is subject under these Regulations or under the UK auctioning regulations[^c-91c1e6c3325c4f3570ab83a3242d1f41].
 
 **3.** In section 292A [^c21103141]—
 
@@ -563,7 +563,7 @@ Regulation 7
 
 **4.** In section 293, in subsection (6)(a), reference to transactions effected on the exchange is to be read as including a reference to transactions effected on the auction platform.
 
-**5.**[^key-901c19fa980b94ee410bfabab5d3fb6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-901c19fa980b94ee410bfabab5d3fb6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **6.** In section 299(2), reference to whether the body concerned should remain a recognised body is to be read as including whether it should remain a recognised auction platform.
 
@@ -574,21 +574,21 @@ Regulation 7
 
 **8.** In section 301F(4), reference to any financial market operated by the recognised investment exchange is to be read as including a reference to any auction platform operated by it.
 
-**9.** Sections 290A and 300A to 300E[^key-0f67cedd5e373424512be78b918cda9c] do not apply to a recognised investment exchange in its capacity as a recognised auction platform.
+**9.** Sections 290A and 300A to 300E[^c-0f67cedd5e373424512be78b918cda9c] do not apply to a recognised investment exchange in its capacity as a recognised auction platform.
 
-## SCHEDULE 3 — Modifications of Chapter 3A of Part 18 of the Act in relation to recognised auction platforms and EEA market operators of auction platforms[^key-a8e2f8722cb00fc0f47b86a393a56269]
+## SCHEDULE 3 — Modifications of Chapter 3A of Part 18 of the Act in relation to recognised auction platforms and EEA market operators of auction platforms[^c-a8e2f8722cb00fc0f47b86a393a56269]
 
 **No longer in force.**
 
 Regulation 8
 
-**1.**[^key-a8e2f8722cb00fc0f47b86a393a56269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-a8e2f8722cb00fc0f47b86a393a56269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-a8e2f8722cb00fc0f47b86a393a56269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-a8e2f8722cb00fc0f47b86a393a56269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-a8e2f8722cb00fc0f47b86a393a56269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-a8e2f8722cb00fc0f47b86a393a56269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-a8e2f8722cb00fc0f47b86a393a56269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-a8e2f8722cb00fc0f47b86a393a56269] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *(This note is not part of the Regulations)*
 
@@ -626,82 +626,82 @@ An Impact Assessment of the effect that these Regulations will have on the costs
 
 [^c21103011]: Marginal citation: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68). Section 2(2) was amended by section 27 of the [Legislative and Regulatory Reform Act 2006 (c.51)](https://www.legislation.gov.uk/ukpga/2006/51); and by section 3 of, and the Schedule to, the [European Union (Amendment) Act 2008 (c. 7)](https://www.legislation.gov.uk/ukpga/2008/7). By virtue of the amendment of section 1(2) made by section 1 of the [European Economic Area Act 1993 (c. 51)](https://www.legislation.gov.uk/ukpga/1993/51) regulations may be made under section 2(2) to implement obligations of the United Kingdom created by or arising under the Agreement on the European Economic Area signed at Oporto on 2nd May 1992 (Cm 2073, OJ L 1, 3.11.1994, p. 3) and the Protocol adjusting that Agreement signed at Brussels on 17th March 1993 (Cm 2183, OJ L 1, 3.1.1994, p. 572).
 
-[^key-ad2bc936086633c3a818a483240c63b7]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/2699): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-ad2bc936086633c3a818a483240c63b7]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2011/2699): power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/2); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^c21103021]: Marginal citation: [2000 c.8](https://www.legislation.gov.uk/ukpga/2000/8).
 
-[^key-420e939a90a07882d5395e5a2ed0f58d]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/i)
+[^c-420e939a90a07882d5395e5a2ed0f58d]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(i)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/i)
 
-[^key-04d853cd5ded426ed8f7f487d1031be4]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/ii)
+[^c-04d853cd5ded426ed8f7f487d1031be4]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(ii)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/ii)
 
-[^key-ed848e952996a38e570644fa8665df65]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/642/article/6/a)
+[^c-ed848e952996a38e570644fa8665df65]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) inserted (10.4.2013) by [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [6(a)](https://www.legislation.gov.uk/uksi/2013/642/article/6/a)
 
-[^key-970a0bc725d8c0d10f402893d39a74f2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) renumbered (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/iii/aa)
+[^c-970a0bc725d8c0d10f402893d39a74f2]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) renumbered (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(iii)(aa)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/iii/aa)
 
-[^key-1b8dc87d217d39aa177326127361704a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) inserted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/iii/bb)
+[^c-1b8dc87d217d39aa177326127361704a]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) inserted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(iii)(bb)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/iii/bb)
 
 [^c21103031]: Marginal citation: OJ L 275 p 32, 25.10.2003.
 
 [^c21103041]: Marginal citation: OJ L 302 p 1, 18.11.2010.
 
-[^key-6926663fc48a4fcd7c93241bd5a16024]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) inserted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/iv)
+[^c-6926663fc48a4fcd7c93241bd5a16024]: Textual amendment: Words in [reg. 1(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/3) inserted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(a)(iv)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/a/iv)
 
-[^key-98034171f10a2a963ea01cd3465ecb5c]: Textual amendment: Words in [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/4/b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/b/i)
+[^c-98034171f10a2a963ea01cd3465ecb5c]: Textual amendment: Words in [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/4/b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(b)(i)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/b/i)
 
-[^key-03d0930f67e8545f5a7458590ee889e4]: Textual amendment: Words in [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/4/b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/b/ii)
+[^c-03d0930f67e8545f5a7458590ee889e4]: Textual amendment: Words in [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/4/b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(b)(ii)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/b/ii)
 
-[^key-571d70da79f11a80439823fe36fded30]: Textual amendment: Words in [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/4/b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/b/iii)
+[^c-571d70da79f11a80439823fe36fded30]: Textual amendment: Words in [reg. 1(4)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/1/4/b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(2)(b)(iii)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/2/b/iii)
 
 [^c21103051]: Marginal citation: [1988 c. 36](https://www.legislation.gov.uk/ukpga/1988/36).
 
-[^key-625e5bda24644ce0779b91e14d5e6e96]: Textual amendment: Words in reg. 5(6)(a) substituted (20.7.2012) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2012 (S.I. 2012/1906)](https://www.legislation.gov.uk/uksi/2012/1906), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1906/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2012/1906/article/8/2)
+[^c-625e5bda24644ce0779b91e14d5e6e96]: Textual amendment: Words in reg. 5(6)(a) substituted (20.7.2012) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2012 (S.I. 2012/1906)](https://www.legislation.gov.uk/uksi/2012/1906), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1906/article/1), [8(2)](https://www.legislation.gov.uk/uksi/2012/1906/article/8/2)
 
-[^key-98886759ff6042d8a0f3a67005e5df4c]: Textual amendment: Regs. 5A, 5B inserted (20.7.2012) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2012 (S.I. 2012/1906)](https://www.legislation.gov.uk/uksi/2012/1906), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1906/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2012/1906/article/8/3)
+[^c-98886759ff6042d8a0f3a67005e5df4c]: Textual amendment: Regs. 5A, 5B inserted (20.7.2012) by [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) Order 2012 (S.I. 2012/1906)](https://www.legislation.gov.uk/uksi/2012/1906), [arts. 1](https://www.legislation.gov.uk/uksi/2012/1906/article/1), [8(3)](https://www.legislation.gov.uk/uksi/2012/1906/article/8/3)
 
-[^key-aa43706264772033b1f091a2a3f23c1c]: Textual amendment: Words in [reg. 5A(1)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/5A/1) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/3)
+[^c-aa43706264772033b1f091a2a3f23c1c]: Textual amendment: Words in [reg. 5A(1)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/5A/1) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(3)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/3)
 
-[^key-1099b3e82151bb381d34c0447f6cae84]: Textual amendment: [Reg. 5C](https://www.legislation.gov.uk/uksi/2011/2699/regulation/5C) inserted (1.4.2013) by [The Payment to Treasury of Penalties Regulations 2013 (S.I. 2013/429)](https://www.legislation.gov.uk/uksi/2013/429), [regs. 1](https://www.legislation.gov.uk/uksi/2013/429/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2013/429/regulation/2/6)
+[^c-1099b3e82151bb381d34c0447f6cae84]: Textual amendment: [Reg. 5C](https://www.legislation.gov.uk/uksi/2011/2699/regulation/5C) inserted (1.4.2013) by [The Payment to Treasury of Penalties Regulations 2013 (S.I. 2013/429)](https://www.legislation.gov.uk/uksi/2013/429), [regs. 1](https://www.legislation.gov.uk/uksi/2013/429/regulation/1), [2(6)](https://www.legislation.gov.uk/uksi/2013/429/regulation/2/6)
 
-[^key-a6e5dfe8468ce1d889283a8ae0104fad]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/2699/regulation/6) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/4)
+[^c-a6e5dfe8468ce1d889283a8ae0104fad]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2011/2699/regulation/6) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/4)
 
-[^key-ab7dc9cab7e93c2e0e9798e905d9624a]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2011/2699/regulation/7) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/37) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-ab7dc9cab7e93c2e0e9798e905d9624a]: Textual amendment: Words in [reg. 7](https://www.legislation.gov.uk/uksi/2011/2699/regulation/7) substituted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 37](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/37) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
 [^c21103061]: Marginal citation: Chapter 3A was inserted into the Act by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126).
 
-[^key-cabbb8364fff141fc00ca1cc83db7ba5]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/2699/regulation/8) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/4)
+[^c-cabbb8364fff141fc00ca1cc83db7ba5]: Textual amendment: [Reg. 8](https://www.legislation.gov.uk/uksi/2011/2699/regulation/8) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(4)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/4)
 
-[^key-002cbc6d9f6d47801897fe3c3f72a821]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2011/2699/regulation/9) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/5)
+[^c-002cbc6d9f6d47801897fe3c3f72a821]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/2011/2699/regulation/9) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(5)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/5)
 
 [^M_F_2d945647-a24c-4fe6-cf96-8207d874841f]: Textual amendment: Reg. 10 omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/6)
 
-[^key-173677771c2085741f85bbb0ff2c78b3]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2011/2699/regulation/11) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/6)
+[^c-173677771c2085741f85bbb0ff2c78b3]: Textual amendment: [Reg. 11](https://www.legislation.gov.uk/uksi/2011/2699/regulation/11) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(6)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/6)
 
-[^key-266f1277db177f0e44261a8047db7186]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/3) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(7)(a)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/7/a)
+[^c-266f1277db177f0e44261a8047db7186]: Textual amendment: Words in [reg. 20(3)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/3) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(7)(a)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/7/a)
 
-[^key-bb559177c09a717237edb7349ae55faf]: Textual amendment: [Reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/a)[(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(7)(b)(i)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/7/b/i)
+[^c-bb559177c09a717237edb7349ae55faf]: Textual amendment: [Reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/a)[(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/b) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(7)(b)(i)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/7/b/i)
 
-[^key-e1d34163e31367015a01ee8fdfd065a9]: Textual amendment: Words in [reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/a) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/a)
+[^c-e1d34163e31367015a01ee8fdfd065a9]: Textual amendment: Words in [reg. 20(4)(a)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/a) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(a)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/a)
 
-[^key-2758e87044c3cfe96df04b4156d85d74]: Textual amendment: [Reg. 20(4)(aa)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/aa) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/b)
+[^c-2758e87044c3cfe96df04b4156d85d74]: Textual amendment: [Reg. 20(4)(aa)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/aa) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(b)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/b)
 
-[^key-461bcbb37579ce9666f8986cf85b2fda]: Textual amendment: Words in [reg. 20(4)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/b) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/c)
+[^c-461bcbb37579ce9666f8986cf85b2fda]: Textual amendment: Words in [reg. 20(4)(b)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/b) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(c)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/c)
 
-[^key-0ebb61ee1030a0a129b79310891bb3d9]: Textual amendment: [Reg. 20(4)(ba)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/ba) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/d)
+[^c-0ebb61ee1030a0a129b79310891bb3d9]: Textual amendment: [Reg. 20(4)(ba)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4/ba) inserted (19.5.2021) by [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(d)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/d)
 
-[^key-d45094d95ab3e7ea8de85c9d58f518d6]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(7)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/7/b/ii/aa)
+[^c-d45094d95ab3e7ea8de85c9d58f518d6]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(7)(b)(ii)(aa)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/7/b/ii/aa)
 
-[^key-38e42bdcaf22fcf8519d36ec9a8f20b7]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/e)
+[^c-38e42bdcaf22fcf8519d36ec9a8f20b7]: Textual amendment: Words in [reg. 20(4)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/20/4) omitted (19.5.2021) by virtue of [The Recognised Auction Platforms and Greenhouse Gas Emissions Trading Scheme Auctioning (Amendment) Regulations 2021 (S.I. 2021/513)](https://www.legislation.gov.uk/uksi/2021/513), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/513/regulation/1/2), [2(2)(e)](https://www.legislation.gov.uk/uksi/2021/513/regulation/2/2/e)
 
-[^key-cc630efbe143f22c8c2e2154553e9487]: Textual amendment: [Reg. 24(2)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/24/2) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(8)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/8)
+[^c-cc630efbe143f22c8c2e2154553e9487]: Textual amendment: [Reg. 24(2)](https://www.legislation.gov.uk/uksi/2011/2699/regulation/24/2) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(8)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/8)
 
-[^key-76e57657cad67679de37cd151e6be3a7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2699/schedule/1) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(9)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/9)
+[^c-76e57657cad67679de37cd151e6be3a7]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/2699/schedule/1) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(9)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/9)
 
-[^key-91c1e6c3325c4f3570ab83a3242d1f41]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/2699/schedule/2/paragraph/2) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(10)(a)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/10/a)
+[^c-91c1e6c3325c4f3570ab83a3242d1f41]: Textual amendment: Words in [Sch. 2 para. 2](https://www.legislation.gov.uk/uksi/2011/2699/schedule/2/paragraph/2) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(10)(a)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/10/a)
 
 [^c21103141]: Marginal citation: Section 292A was inserted by [S.I. 2007/126](https://www.legislation.gov.uk/uksi/2007/126), [regulation 3(2)](https://www.legislation.gov.uk/uksi/2007/126/regulation/3/2), [Schedule 2](https://www.legislation.gov.uk/uksi/2007/126/schedule/2), [paragraphs 1](https://www.legislation.gov.uk/uksi/2007/126/paragraph/1) and 5.
 
-[^key-901c19fa980b94ee410bfabab5d3fb6b]: Textual amendment: Sch. 2 para. 5 omitted (10.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2013/642/article/6/b)
+[^c-901c19fa980b94ee410bfabab5d3fb6b]: Textual amendment: Sch. 2 para. 5 omitted (10.4.2013) by virtue of [The Financial Services Act 2012 (Consequential Amendments and Transitional Provisions) (No. 2) Order 2013 (S.I. 2013/642)](https://www.legislation.gov.uk/uksi/2013/642), [arts. 1](https://www.legislation.gov.uk/uksi/2013/642/article/1), [6(b)](https://www.legislation.gov.uk/uksi/2013/642/article/6/b)
 
-[^key-0f67cedd5e373424512be78b918cda9c]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/2699/schedule/2/paragraph/9) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(10)(b)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/10/b)
+[^c-0f67cedd5e373424512be78b918cda9c]: Textual amendment: Words in [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2011/2699/schedule/2/paragraph/9) substituted (22.4.2021) by [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(10)(b)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/10/b)
 
-[^key-a8e2f8722cb00fc0f47b86a393a56269]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2699/schedule/3) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(11)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/11)
+[^c-a8e2f8722cb00fc0f47b86a393a56269]: Textual amendment: [Sch. 3](https://www.legislation.gov.uk/uksi/2011/2699/schedule/3) omitted (22.4.2021) by virtue of [The Recognised Auction Platforms (Amendment and Miscellaneous Provisions) Regulations 2021 (S.I. 2021/494)](https://www.legislation.gov.uk/uksi/2021/494), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2021/494/regulation/1/2), [6(11)](https://www.legislation.gov.uk/uksi/2021/494/regulation/6/11)

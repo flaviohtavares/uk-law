@@ -48,7 +48,7 @@ The Lord Chancellor makes this Order in exercise of the powers conferred by sect
 
 The Lord Chancellor has consulted the General Council of the Bar and the Law Society in accordance with section 25(2) of that Act and has had regard to the matters specified in section 25(3) of that Act.
 
-## 1. Citation, commencement, application and interpretation[^key-db51b78dc5d45af3ab7a3a5c719ea461]
+## 1. Citation, commencement, application and interpretation[^c-db51b78dc5d45af3ab7a3a5c719ea461]
 
 (1) This Order may be cited as the Criminal Defence Service (Funding) (Amendment) Order 2011 and comes into force on 3rd October 2011.
 
@@ -61,13 +61,13 @@ The Lord Chancellor has consulted the General Council of the Bar and the Law Soc
 
 (4) This Order applies to proceedings in which a representation order is granted on or after 3<sup>rd </sup>October 2011.
 
-## 2. Amendments to the 2007 Order[^key-16e2638bfb305ba6a9ad441f81c0bcb9]
+## 2. Amendments to the 2007 Order[^c-16e2638bfb305ba6a9ad441f81c0bcb9]
 
 The 2007 Order is amended as follows.
 
-**3.**[^key-626b6c74dfae3e43a24610e691ba291b] In article 2, omit the definitions of “Very High Cost Case contract” and “Very High Cost Case (Crime) Panel”.
+**3.**[^c-626b6c74dfae3e43a24610e691ba291b] In article 2, omit the definitions of “Very High Cost Case contract” and “Very High Cost Case (Crime) Panel”.
 
-**4.**[^key-32854a289fbd3b5013b135850b72fa0a] In article 3—
+**4.**[^c-32854a289fbd3b5013b135850b72fa0a] In article 3—
 
 - (a) before paragraph (2), insert—
 
@@ -79,7 +79,7 @@ The 2007 Order is amended as follows.
   - (ii) omit “and paragraph 12B of Schedule 2 to this Order and the related entry in the table following paragraph 14 of that Schedule”;
 - (c) in paragraph (6A), omit “except as provided in paragraph 25 of Schedule 2”.
 
-**5.**[^key-90ec15461aed605ec98d952eed74330f] After article 4 insert—
+**5.**[^c-90ec15461aed605ec98d952eed74330f] After article 4 insert—
 
 > **4A. Funding of services in the magistrates’ court**
 >
@@ -90,9 +90,9 @@ The 2007 Order is amended as follows.
 
 .
 
-**6.**[^key-39784b2eb8ec8cc21d29eccf7de4de83] In article 14, at the beginning of paragraph (6), insert “Subject to article 15A,”.
+**6.**[^c-39784b2eb8ec8cc21d29eccf7de4de83] In article 14, at the beginning of paragraph (6), insert “Subject to article 15A,”.
 
-**7.**[^key-581e5f698917e7988a694e474838a98c] After article 15 insert—
+**7.**[^c-581e5f698917e7988a694e474838a98c] After article 15 insert—
 
 > **15A. Expert services**
 >
@@ -107,7 +107,7 @@ The 2007 Order is amended as follows.
 
 .
 
-**8.**[^key-9d55d880111f45aed2924ec6e0fadda4] In article 16, after paragraph (5) insert—
+**8.**[^c-9d55d880111f45aed2924ec6e0fadda4] In article 16, after paragraph (5) insert—
 
 > (6) Paragraph (7) applies where the Commission receives a request for funding of an expert service of a type not listed in Schedule 6.
 >
@@ -118,7 +118,7 @@ The 2007 Order is amended as follows.
 
 .
 
-**9.**[^key-d6a0e8c9fd2183cdd9a1252675a794c2] In paragraph 1 of Schedule 1—
+**9.**[^c-d6a0e8c9fd2183cdd9a1252675a794c2] In paragraph 1 of Schedule 1—
 
 - (a) in sub-paragraph (1) in the definition of “standard appearance”, after (g) insert—
 
@@ -132,7 +132,7 @@ The 2007 Order is amended as follows.
 
   .
 
-**10.**[^key-1418730aabbfc7cea63e4c5bedb41a17] In paragraph 2 of Schedule 1—
+**10.**[^c-1418730aabbfc7cea63e4c5bedb41a17] In paragraph 2 of Schedule 1—
 
 - (a) in sub-paragraph (3), for “Sub-paragraph (4) applies” substitute “Sub-paragraphs (4) and (4A) apply”;
 - (b) at the beginning of sub-paragraph (4), insert “Subject to sub-paragraph (4A),”;
@@ -158,7 +158,7 @@ The 2007 Order is amended as follows.
 
   .
 
-**11.**[^key-999761b0aba1e84fd032a441becd0625] In Part 3 of Schedule 1, before paragraph 6, insert—
+**11.**[^c-999761b0aba1e84fd032a441becd0625] In Part 3 of Schedule 1, before paragraph 6, insert—
 
 > **5A. Scope of Part 3**
 >
@@ -166,7 +166,7 @@ The 2007 Order is amended as follows.
 
 .
 
-**12.**[^key-eab65efed9cf3cddc73ffbbad24736e4] After Part 3 of Schedule 1 insert—
+**12.**[^c-eab65efed9cf3cddc73ffbbad24736e4] After Part 3 of Schedule 1 insert—
 
 > **PART 3A — Fixed fee for Guilty Pleas and Cracked Trials**
 >
@@ -180,7 +180,7 @@ The 2007 Order is amended as follows.
 
 .
 
-**13.**[^key-5bd3a548c877f64ab194043ca66c4bd5] For paragraph 8 of Schedule 1 substitute—
+**13.**[^c-5bd3a548c877f64ab194043ca66c4bd5] For paragraph 8 of Schedule 1 substitute—
 
 > **8.** (1) All work undertaken by an advocate in a case to which Part 3A applies is included within the fee set out in paragraph 7B except for attendance at a confiscation hearing to which paragraph 11 applies.
 >
@@ -192,24 +192,24 @@ The 2007 Order is amended as follows.
 
 .
 
-**14.**[^key-6f923d816c9009bc2e2c01f52e8bcdc8] For paragraph 12(1) of Schedule 1 substitute—
+**14.**[^c-6f923d816c9009bc2e2c01f52e8bcdc8] For paragraph 12(1) of Schedule 1 substitute—
 
 > (1) This paragraph applies to a sentencing hearing following a case on indictment to which this Schedule applies, where sentence has been deferred under section 1 of the Powers of Criminal Courts (Sentencing) Act 2000[^f00003] (deferment of sentence).
 
 .
 
-**15.**[^key-b7ad46554bc441135b3737f32a7f91a5] For paragraph 14(1)(c) of Schedule 1 substitute—
+**15.**[^c-b7ad46554bc441135b3737f32a7f91a5] For paragraph 14(1)(c) of Schedule 1 substitute—
 
 > - (c) any or all of the prosecution evidence as listed in paragraph 1(2)(a) to (d) is served in electronic form only, and does not fall within paragraph 1(2A), and the appropriate officer considers it reasonable to make a payment in excess of the graduated fee payable under this Schedule.
 
 .
 
-**16.**[^key-cb0841fb3477498d82bfe15554abab02] In the table following paragraph 19 of Schedule 1—
+**16.**[^c-cb0841fb3477498d82bfe15554abab02] In the table following paragraph 19 of Schedule 1—
 
 - (a) in the second column of the entry for “Deferred sentencing hearing” omit “(a)”; and
 - (b) omit the entry for “Sentencing hearing”.
 
-**17.**[^key-ec4606dd59bdc2a83a577542112c1da0] In paragraph 22 of Schedule 1—
+**17.**[^c-ec4606dd59bdc2a83a577542112c1da0] In paragraph 22 of Schedule 1—
 
 - (a) in sub-paragraph (1) omit “graduated”;
 - (b) in sub-paragraph (2)(b)(ii), after “(2)(1)(b)” insert “or paragraph 7B”;
@@ -219,9 +219,9 @@ The 2007 Order is amended as follows.
 
   .
 
-**18.**[^key-9b28e4680b8033f12e7a98666676fba6] Omit paragraph 24A of Schedule 1.
+**18.**[^c-9b28e4680b8033f12e7a98666676fba6] Omit paragraph 24A of Schedule 1.
 
-**19.**[^key-18ce4d6a798bce866b3dc9af2f06ef3e] In paragraph 1 of Schedule 2—
+**19.**[^c-18ce4d6a798bce866b3dc9af2f06ef3e] In paragraph 1 of Schedule 2—
 
 - (a) in sub-paragraph (2), after “but” insert “except as mentioned in sub-paragraph (2A)”; and
 - (b) after sub-paragraph (2) insert—
@@ -230,7 +230,7 @@ The 2007 Order is amended as follows.
 
   .
 
-**20.**[^key-4fa0f1edf3bbb1e7e27db6354529e11e] In Part 2 of Schedule 2—
+**20.**[^c-4fa0f1edf3bbb1e7e27db6354529e11e] In Part 2 of Schedule 2—
 
 - (a) before paragraph 4, insert—
 
@@ -255,7 +255,7 @@ The 2007 Order is amended as follows.
   - (ii) in the rows for class of offence J, after “J” insert “and A”;
   - (iii) in the rows for class of offence F, after “F” insert “and G”.
 
-**21.**[^key-c9f4b1c21ec85c416a7dab31a982b2a7] After the table following paragraph 8 of Schedule 2 insert—
+**21.**[^c-c9f4b1c21ec85c416a7dab31a982b2a7] After the table following paragraph 8 of Schedule 2 insert—
 
 > **PART 2A — Fixed Fee for Guilty Pleas and Cracked Trials**
 >
@@ -273,7 +273,7 @@ The 2007 Order is amended as follows.
 
 .
 
-**22.**[^key-e78aed7f1269ccc929b8d8dd4e0ec296] In paragraph 9 of Schedule 2—
+**22.**[^c-e78aed7f1269ccc929b8d8dd4e0ec296] In paragraph 9 of Schedule 2—
 
 - (a) after sub-paragraph (3)(d) insert—
 
@@ -286,7 +286,7 @@ The 2007 Order is amended as follows.
 
   .
 
-**23.**[^key-d14bf46d6ac061c6741ae89a7f4d31d5] For paragraph 10 of Schedule 2 substitute—
+**23.**[^c-d14bf46d6ac061c6741ae89a7f4d31d5] For paragraph 10 of Schedule 2 substitute—
 
 > **10. Retrials and Transfers**
 >
@@ -352,7 +352,7 @@ The 2007 Order is amended as follows.
 
 .
 
-**24.**[^key-3f4cdc0131d27b830d198b4bb4266d78] For paragraph 11 of Schedule 2 substitute—
+**24.**[^c-3f4cdc0131d27b830d198b4bb4266d78] For paragraph 11 of Schedule 2 substitute—
 
 > **11.** (1) All work undertaken by a litigator in a case to which Part 2A applies is included within the fee set out in paragraph 8B except for a defendant uplift as provided for in paragraph 17.
 >
@@ -364,15 +364,15 @@ The 2007 Order is amended as follows.
 
 .
 
-**25.**[^key-4807e45d157653503a868f4aad24c502] Omit paragraph 12B of Schedule 2 and the entry for “Committal proceedings” in the table following paragraph 14 of that Schedule.
+**25.**[^c-4807e45d157653503a868f4aad24c502] Omit paragraph 12B of Schedule 2 and the entry for “Committal proceedings” in the table following paragraph 14 of that Schedule.
 
-**26.**[^key-ea7c06c6c58f1699c128ea64bbbc9a33] For paragraph 15(1)(a) of Schedule 2 substitute—
+**26.**[^c-ea7c06c6c58f1699c128ea64bbbc9a33] For paragraph 15(1)(a) of Schedule 2 substitute—
 
 > - (a) in respect of which a fee is payable under Part 2, where any or all of the prosecution evidence, as listed in paragraph 1(2)(a) to (d) is served in electronic form only and does not fall within paragraph 1(2A);
 
 .
 
-**27.**[^key-47cf07bf70ce87ce081c6289844f682c] In paragraph 17 of Schedule 2—
+**27.**[^c-47cf07bf70ce87ce081c6289844f682c] In paragraph 17 of Schedule 2—
 
 - (a) in sub-paragraph (3)(a), after “sub-paragraph (2)” insert “of paragraph 16”.
 - (b) after sub-paragraph (3)(b) insert—
@@ -386,9 +386,9 @@ The 2007 Order is amended as follows.
 
   .
 
-**28.**[^key-a4fed45374238cf2055f1823366367d0] Omit paragraph 25 of Schedule 2 and the tables following that paragraph.
+**28.**[^c-a4fed45374238cf2055f1823366367d0] Omit paragraph 25 of Schedule 2 and the tables following that paragraph.
 
-**29.**[^key-3b077cdad578ed996cd6401a3ba04e73] (1) This article applies where a representation order is granted on or after 3rd October 2011 but before 1st April 2012.
+**29.**[^c-3b077cdad578ed996cd6401a3ba04e73] (1) This article applies where a representation order is granted on or after 3rd October 2011 but before 1st April 2012.
 
 (2) In Schedule 1—
 
@@ -397,7 +397,7 @@ The 2007 Order is amended as follows.
   - (ii) for the figures listed for payment in relation to class of offence G, substitute the figures listed for payment in relation to class of offence F;
 - (b) for Table B following paragraph 7, and the heading to that table, substitute the table and heading set out in Schedule 2 to this Order.
 
-**30.**[^key-011634e6283fd422fdeac3b883dc6a44] (1) This article applies where a representation order is granted on or after 1st April 2012.
+**30.**[^c-011634e6283fd422fdeac3b883dc6a44] (1) This article applies where a representation order is granted on or after 1st April 2012.
 
 (2) In paragraph 7B of Schedule 1, for “£203” substitute “£194”.
 
@@ -409,9 +409,9 @@ The 2007 Order is amended as follows.
 - (d) for the table following paragraph 19, and the heading to that table, substitute the table and heading in Part 4 of Schedule 3 to this Order;
 - (e) for the table following paragraph 25, and the heading to that table, substitute the table and heading in Part 5 of Schedule 3 to this Order.
 
-**31.**[^key-bffade62c6e69b5db670b5033154a66c] After Schedule 4, insert Schedules 5 and 6 set out in Schedule 4 to this Order.
+**31.**[^c-bffade62c6e69b5db670b5033154a66c] After Schedule 4, insert Schedules 5 and 6 set out in Schedule 4 to this Order.
 
-## 32. Revocation[^key-72c0a226900abe39eaf8ab6f38d6c452]
+## 32. Revocation[^c-72c0a226900abe39eaf8ab6f38d6c452]
 
 Article 8 of the Criminal Defence Service (Funding)(Amendment No.2) Order 2010 is revoked and the amendments made by that article to Schedule 1 do not have effect.
 
@@ -429,7 +429,7 @@ Ministry of Justice
 
 Article 20
 
-### PART 1[^key-ed363dced3dd36090b9ce0f02d50e88d]
+### PART 1[^c-ed363dced3dd36090b9ce0f02d50e88d]
 
 > <table>
 > <thead>
@@ -446,7 +446,7 @@ Article 20
 > </tbody>
 > </table>
 
-### PART 2[^key-3d30fd7396fd1c5c963f51a2a8eb3b6b]
+### PART 2[^c-3d30fd7396fd1c5c963f51a2a8eb3b6b]
 
 > Table of final fees in cracked trials
 >
@@ -656,7 +656,7 @@ Article 20
 > | K | 8200-9999 | 23,194.20 | 2.2779 |
 > | K | 10,000 | 27,292.10 | 0.0000 |
 
-## SCHEDULE 2[^key-483417ceddf3b51ba1c0bb4d939c2681]
+## SCHEDULE 2[^c-483417ceddf3b51ba1c0bb4d939c2681]
 
 Article 29
 
@@ -722,7 +722,7 @@ Article 29
 
 Article 30
 
-### PART 1[^key-fab2515bf0af245752c64fe0649db56d]
+### PART 1[^c-fab2515bf0af245752c64fe0649db56d]
 
 > Table of Fees and Uplifts
 >
@@ -778,7 +778,7 @@ Article 30
 > | J | 1,632 | 530 | 0.98 | 4.9 |
 > | K | 1,632 | 530 | 0.98 | 4.9 |
 
-### PART 2[^key-19999ecfbd8934de2be6cd1ef7925bac]
+### PART 2[^c-19999ecfbd8934de2be6cd1ef7925bac]
 
 > Table A—Fees and uplifts in guilty pleas and trials which crack in the first third
 >
@@ -886,7 +886,7 @@ Article 30
 > | J | 1307 | 4.52 | 2.10 | 0.69 |
 > | K | 1234 | 3.91 | 1.82 | 0.60 |
 
-### PART 3[^key-aa69799ed547a96c94b1c1b51ecc21e6]
+### PART 3[^c-aa69799ed547a96c94b1c1b51ecc21e6]
 
 > <table>
 > <tbody>
@@ -905,7 +905,7 @@ Article 30
 > </tbody>
 > </table>
 
-### PART 4[^key-0dec5fa7d7d22e4741526225782bc9d5]
+### PART 4[^c-0dec5fa7d7d22e4741526225782bc9d5]
 
 > Fixed Fees
 >
@@ -938,7 +938,7 @@ Article 30
 > | Noting brief | 19 | \- | \- | 108 per day |
 > | Cracked trial or Guilty plea (at the election of the defendant) | New | £194 per case | £194 per case | £194 per case |
 
-### PART 5[^key-3e0c9db5bdb0c2ed254419657090d8b6]
+### PART 5[^c-3e0c9db5bdb0c2ed254419657090d8b6]
 
 > Daily rates payable where a trial lasts over 40 days
 >
@@ -993,7 +993,7 @@ Article 30
 > | J | 266 | 285 |
 > | K | 266 | 285 |
 
-## SCHEDULE 4[^key-4f20e7125bde09e10a53967593386581]
+## SCHEDULE 4[^c-4f20e7125bde09e10a53967593386581]
 
 Article 31
 
@@ -1142,90 +1142,90 @@ The fees payable for murder and manslaughter cases are aligned with those payabl
 
 [^f00001]: Footnote: [1999 c.22](https://www.legislation.gov.uk/ukpga/1999/22). The reference in section 6 to the Lord Chancellor was changed to the Secretary of State by [S.I.2003/1887](https://www.legislation.gov.uk/uksi/2003/1887) and changed back to the Lord Chancellor by [S.I. 2005/3429](https://www.legislation.gov.uk/uksi/2005/3429). Section 25(8A) was inserted by section 153 of the Coroners and Justice Act [2009 (c.25)](https://www.legislation.gov.uk/ukpga/2009/25).
 
-[^key-db51b78dc5d45af3ab7a3a5c719ea461]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/2065/article/1) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-db51b78dc5d45af3ab7a3a5c719ea461]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/2065/article/1) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
 [^f00002]: Footnote: [S.I. 2007/1174](https://www.legislation.gov.uk/uksi/2007/1174), amended by [S.I. 2007/3552](https://www.legislation.gov.uk/uksi/2007/3552), [2008/957](https://www.legislation.gov.uk/uksi/2008/957) and [2930](https://www.legislation.gov.uk/uksi/2008/2930), [2009/1843](https://www.legislation.gov.uk/uksi/2009/1843) and [2086](https://www.legislation.gov.uk/uksi/2009/2086) and [2010/679](https://www.legislation.gov.uk/uksi/2010/679) and [1181](https://www.legislation.gov.uk/uksi/2010/1181). [S.I. 2010/1181](https://www.legislation.gov.uk/uksi/2010/1181) was amended by [S.I.2010/1358](https://www.legislation.gov.uk/uksi/2010/1358).
 
-[^key-16e2638bfb305ba6a9ad441f81c0bcb9]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/2065/article/2) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-16e2638bfb305ba6a9ad441f81c0bcb9]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/2065/article/2) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-626b6c74dfae3e43a24610e691ba291b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/2065/article/3) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-626b6c74dfae3e43a24610e691ba291b]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/2065/article/3) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-32854a289fbd3b5013b135850b72fa0a]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/2065/article/4) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-32854a289fbd3b5013b135850b72fa0a]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/2065/article/4) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-90ec15461aed605ec98d952eed74330f]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2011/2065/article/5) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-90ec15461aed605ec98d952eed74330f]: Commencement: [Art. 5](https://www.legislation.gov.uk/uksi/2011/2065/article/5) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-39784b2eb8ec8cc21d29eccf7de4de83]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2011/2065/article/6) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-39784b2eb8ec8cc21d29eccf7de4de83]: Commencement: [Art. 6](https://www.legislation.gov.uk/uksi/2011/2065/article/6) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-581e5f698917e7988a694e474838a98c]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2011/2065/article/7) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-581e5f698917e7988a694e474838a98c]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2011/2065/article/7) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-9d55d880111f45aed2924ec6e0fadda4]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2011/2065/article/8) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-9d55d880111f45aed2924ec6e0fadda4]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2011/2065/article/8) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-d6a0e8c9fd2183cdd9a1252675a794c2]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2011/2065/article/9) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-d6a0e8c9fd2183cdd9a1252675a794c2]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2011/2065/article/9) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-1418730aabbfc7cea63e4c5bedb41a17]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2011/2065/article/10) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-1418730aabbfc7cea63e4c5bedb41a17]: Commencement: [Art. 10](https://www.legislation.gov.uk/uksi/2011/2065/article/10) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-999761b0aba1e84fd032a441becd0625]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2011/2065/article/11) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-999761b0aba1e84fd032a441becd0625]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2011/2065/article/11) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-eab65efed9cf3cddc73ffbbad24736e4]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2011/2065/article/12) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-eab65efed9cf3cddc73ffbbad24736e4]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2011/2065/article/12) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-5bd3a548c877f64ab194043ca66c4bd5]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2011/2065/article/13) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-5bd3a548c877f64ab194043ca66c4bd5]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2011/2065/article/13) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-6f923d816c9009bc2e2c01f52e8bcdc8]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2011/2065/article/14) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-6f923d816c9009bc2e2c01f52e8bcdc8]: Commencement: [Art. 14](https://www.legislation.gov.uk/uksi/2011/2065/article/14) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
 [^f00003]: Footnote: [2000 c.6](https://www.legislation.gov.uk/ukpga/2000/6). Section 1 was substituted by section 278 of and paragraph 1 of Schedule 3 to the Criminal Justice Act [2003 (c.44)](https://www.legislation.gov.uk/ukpga/2003/44).
 
-[^key-b7ad46554bc441135b3737f32a7f91a5]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2011/2065/article/15) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-b7ad46554bc441135b3737f32a7f91a5]: Commencement: [Art. 15](https://www.legislation.gov.uk/uksi/2011/2065/article/15) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-cb0841fb3477498d82bfe15554abab02]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2011/2065/article/16) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-cb0841fb3477498d82bfe15554abab02]: Commencement: [Art. 16](https://www.legislation.gov.uk/uksi/2011/2065/article/16) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-ec4606dd59bdc2a83a577542112c1da0]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2011/2065/article/17) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-ec4606dd59bdc2a83a577542112c1da0]: Commencement: [Art. 17](https://www.legislation.gov.uk/uksi/2011/2065/article/17) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-9b28e4680b8033f12e7a98666676fba6]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2011/2065/article/18) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-9b28e4680b8033f12e7a98666676fba6]: Commencement: [Art. 18](https://www.legislation.gov.uk/uksi/2011/2065/article/18) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-18ce4d6a798bce866b3dc9af2f06ef3e]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2011/2065/article/19) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-18ce4d6a798bce866b3dc9af2f06ef3e]: Commencement: [Art. 19](https://www.legislation.gov.uk/uksi/2011/2065/article/19) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-4fa0f1edf3bbb1e7e27db6354529e11e]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2011/2065/article/20) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-4fa0f1edf3bbb1e7e27db6354529e11e]: Commencement: [Art. 20](https://www.legislation.gov.uk/uksi/2011/2065/article/20) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-c9f4b1c21ec85c416a7dab31a982b2a7]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2011/2065/article/21) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-c9f4b1c21ec85c416a7dab31a982b2a7]: Commencement: [Art. 21](https://www.legislation.gov.uk/uksi/2011/2065/article/21) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-e78aed7f1269ccc929b8d8dd4e0ec296]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2011/2065/article/22) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-e78aed7f1269ccc929b8d8dd4e0ec296]: Commencement: [Art. 22](https://www.legislation.gov.uk/uksi/2011/2065/article/22) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-d14bf46d6ac061c6741ae89a7f4d31d5]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2011/2065/article/23) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-d14bf46d6ac061c6741ae89a7f4d31d5]: Commencement: [Art. 23](https://www.legislation.gov.uk/uksi/2011/2065/article/23) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-3f4cdc0131d27b830d198b4bb4266d78]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2011/2065/article/24) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-3f4cdc0131d27b830d198b4bb4266d78]: Commencement: [Art. 24](https://www.legislation.gov.uk/uksi/2011/2065/article/24) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-4807e45d157653503a868f4aad24c502]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2011/2065/article/25) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-4807e45d157653503a868f4aad24c502]: Commencement: [Art. 25](https://www.legislation.gov.uk/uksi/2011/2065/article/25) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-ea7c06c6c58f1699c128ea64bbbc9a33]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2011/2065/article/26) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-ea7c06c6c58f1699c128ea64bbbc9a33]: Commencement: [Art. 26](https://www.legislation.gov.uk/uksi/2011/2065/article/26) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-47cf07bf70ce87ce081c6289844f682c]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2011/2065/article/27) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-47cf07bf70ce87ce081c6289844f682c]: Commencement: [Art. 27](https://www.legislation.gov.uk/uksi/2011/2065/article/27) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-a4fed45374238cf2055f1823366367d0]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2011/2065/article/28) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-a4fed45374238cf2055f1823366367d0]: Commencement: [Art. 28](https://www.legislation.gov.uk/uksi/2011/2065/article/28) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-3b077cdad578ed996cd6401a3ba04e73]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2011/2065/article/29) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-3b077cdad578ed996cd6401a3ba04e73]: Commencement: [Art. 29](https://www.legislation.gov.uk/uksi/2011/2065/article/29) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-011634e6283fd422fdeac3b883dc6a44]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2011/2065/article/30) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-011634e6283fd422fdeac3b883dc6a44]: Commencement: [Art. 30](https://www.legislation.gov.uk/uksi/2011/2065/article/30) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-bffade62c6e69b5db670b5033154a66c]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2011/2065/article/31) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-bffade62c6e69b5db670b5033154a66c]: Commencement: [Art. 31](https://www.legislation.gov.uk/uksi/2011/2065/article/31) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-72c0a226900abe39eaf8ab6f38d6c452]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2011/2065/article/32) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-72c0a226900abe39eaf8ab6f38d6c452]: Commencement: [Art. 32](https://www.legislation.gov.uk/uksi/2011/2065/article/32) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-ed363dced3dd36090b9ce0f02d50e88d]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2011/2065/schedule/1/part/1) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-ed363dced3dd36090b9ce0f02d50e88d]: Commencement: [Sch. 1 Pt. 1](https://www.legislation.gov.uk/uksi/2011/2065/schedule/1/part/1) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-3d30fd7396fd1c5c963f51a2a8eb3b6b]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2065/schedule/1/part/2) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-3d30fd7396fd1c5c963f51a2a8eb3b6b]: Commencement: [Sch. 1 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2065/schedule/1/part/2) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-483417ceddf3b51ba1c0bb4d939c2681]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2065/schedule/2) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-483417ceddf3b51ba1c0bb4d939c2681]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/2065/schedule/2) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-fab2515bf0af245752c64fe0649db56d]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2011/2065/schedule/3/part/1) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-fab2515bf0af245752c64fe0649db56d]: Commencement: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/2011/2065/schedule/3/part/1) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-19999ecfbd8934de2be6cd1ef7925bac]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2065/schedule/3/part/2) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-19999ecfbd8934de2be6cd1ef7925bac]: Commencement: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/2011/2065/schedule/3/part/2) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-aa69799ed547a96c94b1c1b51ecc21e6]: Commencement: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2011/2065/schedule/3/part/3) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-aa69799ed547a96c94b1c1b51ecc21e6]: Commencement: [Sch. 3 Pt. 3](https://www.legislation.gov.uk/uksi/2011/2065/schedule/3/part/3) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-0dec5fa7d7d22e4741526225782bc9d5]: Commencement: [Sch. 3 Pt. 4](https://www.legislation.gov.uk/uksi/2011/2065/schedule/3/part/4) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-0dec5fa7d7d22e4741526225782bc9d5]: Commencement: [Sch. 3 Pt. 4](https://www.legislation.gov.uk/uksi/2011/2065/schedule/3/part/4) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-3e0c9db5bdb0c2ed254419657090d8b6]: Commencement: [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/2011/2065/schedule/3/part/5) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-3e0c9db5bdb0c2ed254419657090d8b6]: Commencement: [Sch. 3 Pt. 5](https://www.legislation.gov.uk/uksi/2011/2065/schedule/3/part/5) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
-[^key-4f20e7125bde09e10a53967593386581]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2065/schedule/4) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
+[^c-4f20e7125bde09e10a53967593386581]: Commencement: [Sch. 4](https://www.legislation.gov.uk/uksi/2011/2065/schedule/4) in force at 3.10.2011, see [art. 1(1)](https://www.legislation.gov.uk/uksi/2011/2065/article/1/1)
 
 [^f00004]: Footnote: Published by the Commission on 15th February 2010 and available on its website at www.legalservices.gov.uk.

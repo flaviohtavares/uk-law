@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 29. Declaration of protection zones and surveillance zones on confirmation of disease in Northern Ireland[^key-36ca7e84d5350e1f006a3a53d6c09583]
+## 29. Declaration of protection zones and surveillance zones on confirmation of disease in Northern Ireland[^c-36ca7e84d5350e1f006a3a53d6c09583]
 
 *Extent: N.I.*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-36ca7e84d5350e1f006a3a53d6c09583]: Commencement: Reg. 29 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)
+[^c-36ca7e84d5350e1f006a3a53d6c09583]: Commencement: Reg. 29 in operation at 23.2.2006, see [reg. 1](https://www.legislation.gov.uk/nisr/2006/42/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 550. Forms of scheme which may be appropriate schemes[^key-cea05cd603ff915bb2e254887105aef7]
+## 550. Forms of scheme which may be appropriate schemes[^c-cea05cd603ff915bb2e254887105aef7]
 
 *Extent: E+W+S+N.I.*
 
@@ -80,6 +80,6 @@ summary: ''
 
 ## Annotations
 
-[^key-cea05cd603ff915bb2e254887105aef7]: Commencement: Art. 550 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-cea05cd603ff915bb2e254887105aef7]: Commencement: Art. 550 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
 
 [^f00348]: Footnote: Regulation 2 was amended by [S.I. 2001/943](https://www.legislation.gov.uk/uksi/2001/943).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 6. Adoption support services: duty to provide information[^key-8fb8d3b8e118a0276f1e194c887310f4]
+## 6. Adoption support services: duty to provide information[^c-8fb8d3b8e118a0276f1e194c887310f4]
 
 *Extent: N.I.*
 
@@ -37,4 +37,4 @@ summary: ''
 
 ## Annotations
 
-[^key-8fb8d3b8e118a0276f1e194c887310f4]: Commencement: S. 6 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)
+[^c-8fb8d3b8e118a0276f1e194c887310f4]: Commencement: S. 6 not in operation at Royal Assent, see [s. 160(1)](https://www.legislation.gov.uk/nia/2022/18/section/160/1)

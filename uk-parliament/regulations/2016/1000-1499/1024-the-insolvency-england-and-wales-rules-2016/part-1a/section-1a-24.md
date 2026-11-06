@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 1A.24. Debts that are to be disregarded for the purposes of section A38(1)(d) of the Act[^key-02a8ddbbe79f9845ba59d3ad2c51c222]
+## 1A.24. Debts that are to be disregarded for the purposes of section A38(1)(d) of the Act[^c-02a8ddbbe79f9845ba59d3ad2c51c222]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ For the purposes of deciding whether to bring a moratorium to an end under secti
 
 ## Annotations
 
-[^key-02a8ddbbe79f9845ba59d3ad2c51c222]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2016/1024/part/1A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [6](https://www.legislation.gov.uk/uksi/2021/1028/rule/6) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-02a8ddbbe79f9845ba59d3ad2c51c222]: Textual amendment: [Pt. 1A](https://www.legislation.gov.uk/uksi/2016/1024/part/1A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [6](https://www.legislation.gov.uk/uksi/2021/1028/rule/6) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))

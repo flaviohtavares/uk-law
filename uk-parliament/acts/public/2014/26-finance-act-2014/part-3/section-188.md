@@ -30,7 +30,7 @@ summary: ''
 - (a) “**playing a game of chance**” is to be read in accordance with section 6(3) of the Gambling Act 2005, and
 - (b) “**prize**” does not include the opportunity to play the game again.
 
-(3)[^key-68354135dea165d7978173c79d22c86c] But a game is not a “**game of chance**” for the purposes of this Part if—
+(3)[^c-68354135dea165d7978173c79d22c86c] But a game is not a “**game of chance**” for the purposes of this Part if—
 
 - (a) it can only be played with the participation of two or more persons, and
 - (b) no amounts are paid or required to be paid—
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-68354135dea165d7978173c79d22c86c]: Textual amendment: [S. 188(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/188/3) inserted (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(6)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/6)
+[^c-68354135dea165d7978173c79d22c86c]: Textual amendment: [S. 188(3)](https://www.legislation.gov.uk/ukpga/2014/26/section/188/3) inserted (with effect in accordance with s. 46(9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(6)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/6)

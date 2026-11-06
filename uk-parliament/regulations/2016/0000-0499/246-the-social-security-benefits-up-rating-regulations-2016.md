@@ -28,7 +28,7 @@ summary: ''
 
 Social Security
 
-The Social Security Benefits Up-rating Regulations 2016 (revoked)[^key-3ad88c8e3b27e48895d263603250d411]
+The Social Security Benefits Up-rating Regulations 2016 (revoked)[^c-3ad88c8e3b27e48895d263603250d411]
 
 Made
 
@@ -42,7 +42,7 @@ Coming into force
 
 11th April 2016
 
-[^key-3ad88c8e3b27e48895d263603250d411]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3ad88c8e3b27e48895d263603250d411]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## 1. Citation, commencement and interpretation
 
@@ -84,4 +84,4 @@ An impact assessment has not been published for this instrument as it has no imp
 
 ## Annotations
 
-[^key-3ad88c8e3b27e48895d263603250d411]: Textual amendment: Order revoked (10.4.2017) by [The Social Security Benefits Up-rating Regulations 2017 (S.I. 2017/349)](https://www.legislation.gov.uk/uksi/2017/349), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2017/349/regulation/5/b)
+[^c-3ad88c8e3b27e48895d263603250d411]: Textual amendment: Order revoked (10.4.2017) by [The Social Security Benefits Up-rating Regulations 2017 (S.I. 2017/349)](https://www.legislation.gov.uk/uksi/2017/349), [reg. 5(b)](https://www.legislation.gov.uk/uksi/2017/349/regulation/5/b)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 118. Distributions to Northern Ireland suppliers[^key-9e2055289f4931308038da294116008e]
+## 118. Distributions to Northern Ireland suppliers[^c-9e2055289f4931308038da294116008e]
 
 *Extent: E+W+S*
 
@@ -24,10 +24,10 @@ summary: ''
 
 > (5) The references in subsections (3) and (4) to electricity suppliers include references to persons who are Northern Ireland suppliers.
 
-(2)[^key-e8048e10d4cf2d31e1b66ab1300b79d7] The requirements of section 32(7) of the 1989 Act (consultation before making an order) may be satisfied in the case of an order containing provision made by virtue of this section by consultation that took place wholly or partly before the commencement of this section.
+(2)[^c-e8048e10d4cf2d31e1b66ab1300b79d7] The requirements of section 32(7) of the 1989 Act (consultation before making an order) may be satisfied in the case of an order containing provision made by virtue of this section by consultation that took place wholly or partly before the commencement of this section.
 
 ## Annotations
 
-[^key-9e2055289f4931308038da294116008e]: Commencement: S. 118 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
+[^c-9e2055289f4931308038da294116008e]: Commencement: S. 118 in force at 5.10.2004 by [S.I. 2004/2575](https://www.legislation.gov.uk/uksi/2004/2575), [art. 2(1)](https://www.legislation.gov.uk/uksi/2004/2575/article/2/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2004/2575/schedule/1)
 
-[^key-e8048e10d4cf2d31e1b66ab1300b79d7]: Modification: S. 118(2): transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))
+[^c-e8048e10d4cf2d31e1b66ab1300b79d7]: Modification: S. 118(2): transfer of functions (23.3.2005) by [Scotland Act 1998 (Transfer of Functions to the Scottish Ministers etc.) Order 2005 (S.I. 2005/849)](https://www.legislation.gov.uk/uksi/2005/849), [art. 1](https://www.legislation.gov.uk/uksi/2005/849/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2005/849/schedule) (with [art. 6](https://www.legislation.gov.uk/uksi/2005/849/article/6))

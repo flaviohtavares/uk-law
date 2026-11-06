@@ -31,7 +31,7 @@ summary: ''
 (3) Directions under this section—
 
 - (a) are directions making such provision as the Secretary of State thinks fit for enabling the winding up of the company to proceed as if no notice had been given under section 202(3), and
-- (b) may, in the case of an application under section 202(8)[^key-9011d444abfae125c7c549d7e9790ca9] , include a direction deferring the date at which the dissolution of the company is to take effect for such period as the Secretary of State thinks fit.
+- (b) may, in the case of an application under section 202(8)[^c-9011d444abfae125c7c549d7e9790ca9] , include a direction deferring the date at which the dissolution of the company is to take effect for such period as the Secretary of State thinks fit.
 
 (4) An appeal to the court lies from any decision of the Secretary of State on an application for directions under this section.
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c15573871]: Modification: Ss. 202, 203, 205 excluded (1.11.1994) by [S.I. 1994/2759](https://www.legislation.gov.uk/uksi/1994/2759), reg, 3, Sch. 3 para. 91A(2)
 
-[^key-9011d444abfae125c7c549d7e9790ca9]: Textual amendment: Words in s. 203(3)(b) substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/11) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3), [4](https://www.legislation.gov.uk/uksi/2017/702/regulation/4))
+[^c-9011d444abfae125c7c549d7e9790ca9]: Textual amendment: Words in s. 203(3)(b) substituted (26.6.2017) by [The Insolvency Amendment (EU 2015/848) Regulations 2017 (S.I. 2017/702)](https://www.legislation.gov.uk/uksi/2017/702), [reg. 1](https://www.legislation.gov.uk/uksi/2017/702/regulation/1), [Sch. para. 11](https://www.legislation.gov.uk/uksi/2017/702/schedule/paragraph/11) (with [regs. 3](https://www.legislation.gov.uk/uksi/2017/702/regulation/3), [4](https://www.legislation.gov.uk/uksi/2017/702/regulation/4))

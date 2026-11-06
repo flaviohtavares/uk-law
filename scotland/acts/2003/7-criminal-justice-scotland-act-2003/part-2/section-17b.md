@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 17B. Mentally-disordered offender: victim's right to make representations[^key-d32ef6fd3428532961a1b37bedfd8d70]
+## 17B. Mentally-disordered offender: victim's right to make representations[^c-d32ef6fd3428532961a1b37bedfd8d70]
 
 *Extent: S*
 
@@ -41,4 +41,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d32ef6fd3428532961a1b37bedfd8d70]: Textual amendment: Ss. 17B-17D inserted (15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 56(2)](https://www.legislation.gov.uk/asp/2015/9/section/56/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/c)[(2)(a)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/a)
+[^c-d32ef6fd3428532961a1b37bedfd8d70]: Textual amendment: Ss. 17B-17D inserted (15.9.2017 for specified purposes, 30.9.2017 in so far as not already in force) by [Mental Health (Scotland) Act 2015 (asp 9)](https://www.legislation.gov.uk/asp/2015/9), [ss. 56(2)](https://www.legislation.gov.uk/asp/2015/9/section/56/2), [61(2)](https://www.legislation.gov.uk/asp/2015/9/section/61/2); [S.S.I. 2017/234](https://www.legislation.gov.uk/ssi/2017/234), [art. 2(1)(c)](https://www.legislation.gov.uk/ssi/2017/234/article/2/1/c)[(2)(a)](https://www.legislation.gov.uk/ssi/2017/234/article/2/2/a)

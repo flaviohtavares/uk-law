@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 48. Protection of interests[^key-4b337286362563e0341f0ab6844dfddd]
+## 48. Protection of interests[^c-4b337286362563e0341f0ab6844dfddd]
 
 *Extent: E+W+S*
 
@@ -24,4 +24,4 @@ Schedule 9 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-4b337286362563e0341f0ab6844dfddd]: Commencement: Art. 48 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)
+[^c-4b337286362563e0341f0ab6844dfddd]: Commencement: Art. 48 in force at 4.11.2022, see [art. 1](https://www.legislation.gov.uk/uksi/2022/1070/article/1)

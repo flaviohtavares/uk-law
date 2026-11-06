@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 110. Seat belts: delivery drivers[^key-b321a86b2d63c9e95f6e5b7d4616c1b0]
+## 110. Seat belts: delivery drivers[^c-b321a86b2d63c9e95f6e5b7d4616c1b0]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The following shall be substituted for section 14(2)(b)(i) of the Road Traffic A
 
 ## Annotations
 
-[^key-b321a86b2d63c9e95f6e5b7d4616c1b0]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2003/20/section/110) in force at 1.3.2005 by [S.I. 2004/2759](https://www.legislation.gov.uk/uksi/2004/2759), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2759/article/2/2)
+[^c-b321a86b2d63c9e95f6e5b7d4616c1b0]: Commencement: [S. 110](https://www.legislation.gov.uk/ukpga/2003/20/section/110) in force at 1.3.2005 by [S.I. 2004/2759](https://www.legislation.gov.uk/uksi/2004/2759), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/2759/article/2/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 21. Common grazings: acquisition of shares with croft[^key-b8b9517c70ce6278c37a68217115699f]
+## 21. Common grazings: acquisition of shares with croft[^c-b8b9517c70ce6278c37a68217115699f]
 
 *Extent: S*
 
@@ -52,4 +52,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b8b9517c70ce6278c37a68217115699f]: Commencement: S. 21 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)
+[^c-b8b9517c70ce6278c37a68217115699f]: Commencement: S. 21 not in force at Royal Assent, see [s. 66(2)](https://www.legislation.gov.uk/asp/2026/17/section/66/2)

@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**30.**[^key-5706f8355d9f0c903d79b65716f58cc9] Any enactment or instrument passed or made before the coming into force of this Order shall have effect, so far as necessary or expedient in consequence of or for giving full effect to—
+**30.**[^c-5706f8355d9f0c903d79b65716f58cc9] Any enactment or instrument passed or made before the coming into force of this Order shall have effect, so far as necessary or expedient in consequence of or for giving full effect to—
 
 - (a) the transfer of a relevant function or any relevant property or liability, or
 - (b) article 28 or 29,
@@ -27,4 +27,4 @@ as if any references (including references which are to be construed as such ref
 
 ## Annotations
 
-[^key-5706f8355d9f0c903d79b65716f58cc9]: Commencement: Art. 30 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)
+[^c-5706f8355d9f0c903d79b65716f58cc9]: Commencement: Art. 30 in force at 12.4.2010, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/976/article/1/2)

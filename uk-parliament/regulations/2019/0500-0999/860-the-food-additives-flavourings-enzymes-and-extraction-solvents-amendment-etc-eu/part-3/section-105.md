@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 105.[^key-9ace1f04d4e6c471da1685743edea451]
+## 105.[^c-9ace1f04d4e6c471da1685743edea451]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,7 +30,7 @@ Insert a new Article 28A—
 >
 > - (a) so far as exercisable by a Minister of the Crown, is exercisable by statutory instrument;
 > - (b) so far as exercisable by the Welsh Ministers, is exercisable by statutory instrument;
-> - (c)[^key-d9fb3b7eb37fb21adc778c99ec9afa22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (c)[^c-d9fb3b7eb37fb21adc778c99ec9afa22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **2.**
 >
@@ -41,12 +41,12 @@ Insert a new Article 28A—
 >
 > **3.**
 >
-> Any statutory instrument or Scottish statutory instrument[^key-647668e5a718761082436f6d45474ad2] containing regulations under this Regulation is subject to annulment in pursuance of a resolution—
+> Any statutory instrument or Scottish statutory instrument[^c-647668e5a718761082436f6d45474ad2] containing regulations under this Regulation is subject to annulment in pursuance of a resolution—
 >
 > - (a) in the case of England, of either House of Parliament;
-> - (b) in the case of Wales, of Senedd Cymru[^key-86cad28cb7c5f2b0401558e75f6213f2];
+> - (b) in the case of Wales, of Senedd Cymru[^c-86cad28cb7c5f2b0401558e75f6213f2];
 > - (c) in the case of Scotland, of the Scottish Parliament;
-> - (d)[^key-2ab048fab1caa4d7a93e660c4043f38a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d)[^c-2ab048fab1caa4d7a93e660c4043f38a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
 > **4.**
 >
@@ -55,20 +55,20 @@ Insert a new Article 28A—
 > - (a) of the Secretary of State to make regulations is limited to regulations which apply in relation to England only;
 > - (b) of the Welsh Ministers to make regulations is limited to regulations which apply in relation to Wales only;
 > - (c) of the Scottish Ministers to make regulations is limited to regulations which apply in relation to Scotland only;
-> - (d)[^key-31d653b46cc84da3af0b02deac01acd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> - (d)[^c-31d653b46cc84da3af0b02deac01acd0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 .
 
 ## Annotations
 
-[^key-9ace1f04d4e6c471da1685743edea451]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-9ace1f04d4e6c471da1685743edea451]: Commencement: Reg. 105 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
 
-[^key-d9fb3b7eb37fb21adc778c99ec9afa22]: Textual amendment: Words in reg. 105 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(15)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/15/a)
+[^c-d9fb3b7eb37fb21adc778c99ec9afa22]: Textual amendment: Words in reg. 105 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(15)(a)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/15/a)
 
-[^key-647668e5a718761082436f6d45474ad2]: Textual amendment: Words in reg. 105 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(15)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/15/b/i)
+[^c-647668e5a718761082436f6d45474ad2]: Textual amendment: Words in reg. 105 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(15)(b)(i)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/15/b/i)
 
-[^key-86cad28cb7c5f2b0401558e75f6213f2]: Textual amendment: Words in reg. 105 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(15)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/15/b/ii)
+[^c-86cad28cb7c5f2b0401558e75f6213f2]: Textual amendment: Words in reg. 105 substituted (31.12.2020 immediately before IP completion day) by [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(15)(b)(ii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/15/b/ii)
 
-[^key-2ab048fab1caa4d7a93e660c4043f38a]: Textual amendment: Words in reg. 105 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(15)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/15/b/iii)
+[^c-2ab048fab1caa4d7a93e660c4043f38a]: Textual amendment: Words in reg. 105 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(15)(b)(iii)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/15/b/iii)
 
-[^key-31d653b46cc84da3af0b02deac01acd0]: Textual amendment: Words in reg. 105 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(15)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/15/c)
+[^c-31d653b46cc84da3af0b02deac01acd0]: Textual amendment: Words in reg. 105 omitted (31.12.2020 immediately before IP completion day) by virtue of [The Food and Feed Hygiene and Safety (Miscellaneous Amendments etc.) (EU Exit) Regulations 2020 (S.I. 2020/1504)](https://www.legislation.gov.uk/uksi/2020/1504), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/1/2), [18(15)(c)](https://www.legislation.gov.uk/uksi/2020/1504/regulation/18/15/c)

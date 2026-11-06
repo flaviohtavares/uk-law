@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 6. Punishment of offences[^key-59ecf2cb8ec4839a6e40e312c28272ef]
+## 6. Punishment of offences[^c-59ecf2cb8ec4839a6e40e312c28272ef]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 3 sets out the punishments for certain contraventions of these Rules.
 
 ## Annotations
 
-[^key-59ecf2cb8ec4839a6e40e312c28272ef]: Modification: [Rule 6](https://www.legislation.gov.uk/uksi/2016/1024/rule/6) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-59ecf2cb8ec4839a6e40e312c28272ef]: Modification: [Rule 6](https://www.legislation.gov.uk/uksi/2016/1024/rule/6) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))

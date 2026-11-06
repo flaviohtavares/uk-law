@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## SCHEDULE 6 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY SUSPENDED[^key-9aa888a85746aa00a271762d39e55112]
+## SCHEDULE 6 — PUBLIC RIGHTS OF WAY TO BE TEMPORARILY SUSPENDED[^c-9aa888a85746aa00a271762d39e55112]
 
 *Extent: E+W+S*
 
@@ -34,4 +34,4 @@ Article 12
 
 ## Annotations
 
-[^key-9aa888a85746aa00a271762d39e55112]: Commencement: Sch. 6 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)
+[^c-9aa888a85746aa00a271762d39e55112]: Commencement: Sch. 6 in force at 18.3.2017, see [art. 1](https://www.legislation.gov.uk/uksi/2017/215/article/1)

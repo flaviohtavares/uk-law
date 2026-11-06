@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 180. Notification of new administrator[^key-0d55b98afb64d7367890c9ea596dff3a]
+## 180. Notification of new administrator[^c-0d55b98afb64d7367890c9ea596dff3a]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0d55b98afb64d7367890c9ea596dff3a]: Commencement: Rule 180 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-0d55b98afb64d7367890c9ea596dff3a]: Commencement: Rule 180 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

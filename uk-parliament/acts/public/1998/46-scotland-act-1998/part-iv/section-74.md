@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 74. Supplemental provision with respect to resolutions.[^key-bf2244ff44e549698edab8d73a640e2f]
+## 74. Supplemental provision with respect to resolutions.[^c-bf2244ff44e549698edab8d73a640e2f]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-bf2244ff44e549698edab8d73a640e2f]: Textual amendment: Pt. IV omitted (1.7.2012 with effect in accordance with s. 44(3)(a) of the amending Act) ) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/25/2), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), [(3)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/a); [S.I. 2015/2000](https://www.legislation.gov.uk/uksi/2015/2000), [art. 2](https://www.legislation.gov.uk/uksi/2015/2000/article/2)
+[^c-bf2244ff44e549698edab8d73a640e2f]: Textual amendment: Pt. IV omitted (1.7.2012 with effect in accordance with s. 44(3)(a) of the amending Act) ) by virtue of [Scotland Act 2012 (c. 11)](https://www.legislation.gov.uk/ukpga/2012/11), [ss. 25(2)](https://www.legislation.gov.uk/ukpga/2012/11/section/25/2), [44(2)(b)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/2/b), [(3)(a)](https://www.legislation.gov.uk/ukpga/2012/11/section/44/3/a); [S.I. 2015/2000](https://www.legislation.gov.uk/uksi/2015/2000), [art. 2](https://www.legislation.gov.uk/uksi/2015/2000/article/2)

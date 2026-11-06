@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 62. Extent[^key-ffdfa455a88e2601c1e66696df54c476]
+## 62. Extent[^c-ffdfa455a88e2601c1e66696df54c476]
 
 *Extent: E+W+S+N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ffdfa455a88e2601c1e66696df54c476]: Commencement: S. 62 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)
+[^c-ffdfa455a88e2601c1e66696df54c476]: Commencement: S. 62 in force at 18.9.2023, see [s. 63(1)(a)](https://www.legislation.gov.uk/ukpga/2023/41/section/63/1/a)

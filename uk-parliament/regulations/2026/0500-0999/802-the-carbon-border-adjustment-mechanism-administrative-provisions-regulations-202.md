@@ -50,20 +50,20 @@ The Commissioners for His Majesty’s Revenue and Customs make these Regulations
 
 ## Part 1 — Introductory provisions
 
-### 1. Citation and commencement[^key-f3ab6fd311e5412f919b5cd0a9301ef2]
+### 1. Citation and commencement[^c-f3ab6fd311e5412f919b5cd0a9301ef2]
 
 (1) These Regulations may be cited as the Carbon Border Adjustment Mechanism (Administrative Provisions) Regulations 2026.
 
 (2) These Regulations come into force on 1st January 2027.
 
-### 2. Interpretation[^key-c77879141ef3fc62070b6c397795cb72]
+### 2. Interpretation[^c-c77879141ef3fc62070b6c397795cb72]
 
 In these Regulations, unless stated otherwise, references to—
 
 - (a) sections are to sections of the Finance Act 2026;
 - (b) Parts and paragraphs of Schedule 17 are to Parts and paragraphs of Schedule 17 to the Finance Act 2026.
 
-### 3. Meaning of value of CBAM goods[^key-212d9a8d9e6ada2014d01a9c3f4161cf]
+### 3. Meaning of value of CBAM goods[^c-212d9a8d9e6ada2014d01a9c3f4161cf]
 
 (1) For the purposes of Part 2 of Schedule 17, the value of a CBAM good[^f00002] is to be determined in accordance with this regulation, and references to the value of a CBAM good in regulations 5 and 7 are to be construed accordingly.
 
@@ -101,7 +101,7 @@ the value of the CBAM good is to be determined in accordance with Chapter 3 of T
 
 (8) In paragraph (3), “**presented to Customs on import**” has the meaning given by section 34 of TCTA 2018.
 
-### 4. Meaning of weight of CBAM goods[^key-d0211dd24e9e4dd151607a9680239be5]
+### 4. Meaning of weight of CBAM goods[^c-d0211dd24e9e4dd151607a9680239be5]
 
 In these Regulations, references to the weight of a CBAM good are to the weight of that good—
 
@@ -111,7 +111,7 @@ In these Regulations, references to the weight of a CBAM good are to the weight 
 
 ## Part 2 — Record-keeping
 
-### 5. Requirements to keep records[^key-b5de5a6b1473f5e09ae4d94f57ccf4fc]
+### 5. Requirements to keep records[^c-b5de5a6b1473f5e09ae4d94f57ccf4fc]
 
 A person who imports a CBAM good in the course of a business must keep a record evidencing the following for that good—
 
@@ -120,7 +120,7 @@ A person who imports a CBAM good in the course of a business must keep a record 
 - (c) the value of the good;
 - (d) the weight of the good.
 
-### 6. Preservation and form of records[^key-a15aeb1326d690ef24c6ae2fa19c8528]
+### 6. Preservation and form of records[^c-a15aeb1326d690ef24c6ae2fa19c8528]
 
 (1) This regulation applies to records required to be kept under these Regulations, excluding regulation 17.
 
@@ -132,7 +132,7 @@ A person who imports a CBAM good in the course of a business must keep a record 
 
 ## Part 3 — Registration
 
-### 7. Information to be provided on registration[^key-60460713917415fb1bb5b14b7b333bbb]
+### 7. Information to be provided on registration[^c-60460713917415fb1bb5b14b7b333bbb]
 
 (1) A person who is required to register with HMRC[^f00010] under paragraph 2(1) of Schedule 17 must provide the following information when registering—
 
@@ -151,17 +151,17 @@ A person who imports a CBAM good in the course of a business must keep a record 
 - “**EORI number**” means a valid Economic Operators' Identification Number assigned by HMRC on the registration of the applicant under [Article 9](https://www.legislation.gov.uk/eur/2013/952/article/9) of [Regulation (EU) No 952/2013 of the European Parliament and of the Council](https://www.legislation.gov.uk/eur/2013/952/contents) of 9 October 2013 laying down the Union Customs Code[^f00014], read with [Articles 5](https://www.legislation.gov.uk/eur/2015/2446/article/5) and [6](https://www.legislation.gov.uk/eur/2015/2446/article/6) of [Commission Delegated Regulation (EU) 2015/2446](https://www.legislation.gov.uk/eur/2015/2446/contents) of 28 July 2015 supplementing [Regulation (EU) No 952/2013 of the European Parliament and of the Council](https://www.legislation.gov.uk/eur/2013/952/contents) as regards detailed rules concerning certain provisions of the Union Customs Code[^f00015];
 - “**VAT registration number**” means the number allocated by the Commissioners to a person registered under the Value Added Tax Act 1994[^f00016].
 
-### 8. Record-keeping for registration[^key-4b8a469aa6834f5e577b1b23f7ea0f46]
+### 8. Record-keeping for registration[^c-4b8a469aa6834f5e577b1b23f7ea0f46]
 
 A registered person must keep records evidencing the information required to be provided under regulation 7.
 
 ## Part 4 — Returns
 
-### 9. Interpretation of this Part[^key-afddad4d70157cf782b51cd1187749c5]
+### 9. Interpretation of this Part[^c-afddad4d70157cf782b51cd1187749c5]
 
 In this Part, “the place of origin of the good” is to be determined in accordance with provision made under section 17(1) to (6) of TCTA 2018 that is applicable to the customs tariff, as defined in section 8 of TCTA 2018, as it has effect without regard to any provision made under sections 9 to 15 or 19(4) of that Act[^f00017].
 
-### 10. Information to be included in a return[^key-fc90e321d1df2c5dc5b4f278ab7d19d2]
+### 10. Information to be included in a return[^c-fc90e321d1df2c5dc5b4f278ab7d19d2]
 
 (1) Where a person is required to make a return under paragraph 7 of Schedule 17, the return must include the following information for each CBAM good imported during the accounting period in respect of which CBAM is charged—
 
@@ -174,13 +174,13 @@ In this Part, “the place of origin of the good” is to be determined in accor
 
 (3) The Commissioners may publish a notice specifying additional information which is to be included in a return.
 
-### 11. Record-keeping for returns[^key-b55b0b6ba2ee402905cd989ff85c219e]
+### 11. Record-keeping for returns[^c-b55b0b6ba2ee402905cd989ff85c219e]
 
 A person who makes a return for a CBAM good must keep records evidencing the place of origin of that good.
 
 ## Part 5 — Assessment of weight
 
-### 12. Assessment of weight by an officer of Revenue and Customs[^key-0f678ef7a4c5045df8c1bc5fceb78c8d]
+### 12. Assessment of weight by an officer of Revenue and Customs[^c-0f678ef7a4c5045df8c1bc5fceb78c8d]
 
 (1) Paragraph (2) applies where it appears to an officer of Revenue and Customs that a person has—
 
@@ -199,7 +199,7 @@ A person who makes a return for a CBAM good must keep records evidencing the pla
 
 ## Part 6 — Reimbursement arrangements
 
-### 13. Interpretation of this Part[^key-f02744ce62ccf190e79be91ebea67af4]
+### 13. Interpretation of this Part[^c-f02744ce62ccf190e79be91ebea67af4]
 
 In this Part—
 
@@ -207,14 +207,14 @@ In this Part—
 - “**claimant**” means a person who makes a claim;
 - “**relevant amount**” means that part (which may be the whole) of the amount of the claim which a claimant has reimbursed or intends to reimburse to other persons.
 
-### 14. Reimbursement arrangements: general[^key-c4798d34e12a08fadf8fc26a33c63907]
+### 14. Reimbursement arrangements: general[^c-c4798d34e12a08fadf8fc26a33c63907]
 
 For the purposes of paragraph 26(2) of Schedule 17[^f00019], reimbursement arrangements[^f00020] made by a claimant are to be disregarded except where they—
 
 - (a) include the provisions described in regulation 15, and
 - (b) are supported by the undertakings described in regulation 18.
 
-### 15. Reimbursement arrangements: provisions to be included[^key-3f7e9e95435fd615af33354a3553922f]
+### 15. Reimbursement arrangements: provisions to be included[^c-3f7e9e95435fd615af33354a3553922f]
 
 The provisions referred to in regulation 14(a) are that—
 
@@ -224,11 +224,11 @@ The provisions referred to in regulation 14(a) are that—
 - (d) any part of the relevant amount that is not reimbursed by the end of the period referred to in paragraph (a) will be repaid by a claimant to the Commissioners, and
 - (e) any interest paid by the Commissioners on any relevant amount repaid by them will also be treated by a claimant in the same way as the relevant amount falls to be treated under paragraphs (a) to (d).
 
-### 16. Reimbursement arrangements: repayments[^key-3e758f58c7a8d295bfdd1a5a64fe43bb]
+### 16. Reimbursement arrangements: repayments[^c-3e758f58c7a8d295bfdd1a5a64fe43bb]
 
 Where a claimant is required to make any repayment to the Commissioners by virtue of regulation 15(d) or (e), a claimant must, without prior demand, make this repayment within the period of 14 days beginning with the day after the day on which the period referred to in regulation 15(a) ended.
 
-### 17. Records relating to reimbursement arrangements: keeping and production[^key-1fe066e1862115887fd7ec56786a9faf]
+### 17. Records relating to reimbursement arrangements: keeping and production[^c-1fe066e1862115887fd7ec56786a9faf]
 
 (1) A claimant must keep records of the following matters—
 
@@ -251,7 +251,7 @@ Where a claimant is required to make any repayment to the Commissioners by virtu
 
 (5) All records referred to in this regulation must be kept and preserved in writing.
 
-### 18. Undertakings[^key-6df0d6296a84cc6aa252594bb79b7a02]
+### 18. Undertakings[^c-6df0d6296a84cc6aa252594bb79b7a02]
 
 (1) The undertakings referred to in regulation 14(b) must be given to the Commissioners by a claimant no later than the time at which a claimant makes the claim for which the reimbursement arrangements have been made.
 
@@ -298,11 +298,11 @@ A Tax Information and Impact Note covering this instrument was published on 26th
 
 [^f00001]: Footnote: [2026 c. 11](https://www.legislation.gov.uk/ukpga/2026/11) (“FA 2026”). In those provisions “the Commissioners” is defined, by section 155(1) of FA 2026, as the Commissioners for His Majesty’s Revenue and Customs.
 
-[^key-f3ab6fd311e5412f919b5cd0a9301ef2]: Commencement: Reg. 1 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-f3ab6fd311e5412f919b5cd0a9301ef2]: Commencement: Reg. 1 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
-[^key-c77879141ef3fc62070b6c397795cb72]: Commencement: Reg. 2 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-c77879141ef3fc62070b6c397795cb72]: Commencement: Reg. 2 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
-[^key-212d9a8d9e6ada2014d01a9c3f4161cf]: Commencement: Reg. 3 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-212d9a8d9e6ada2014d01a9c3f4161cf]: Commencement: Reg. 3 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
 [^f00002]: Footnote: “**CBAM good**” has the meaning given by section 155(1) of FA 2026.
 
@@ -314,19 +314,19 @@ A Tax Information and Impact Note covering this instrument was published on 26th
 
 [^f00006]: Footnote: “**UCC 2013**” has the meaning given by section 155(1) of FA 2026.
 
-[^key-d0211dd24e9e4dd151607a9680239be5]: Commencement: Reg. 4 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-d0211dd24e9e4dd151607a9680239be5]: Commencement: Reg. 4 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
 [^f00007]: Footnote: A CBAM good is imported into the United Kingdom for the purposes of CBAM if it meets the description in section 144 of FA 2026.
 
-[^key-b5de5a6b1473f5e09ae4d94f57ccf4fc]: Commencement: Reg. 5 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-b5de5a6b1473f5e09ae4d94f57ccf4fc]: Commencement: Reg. 5 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
 [^f00008]: Footnote: “**Commodity code**” has the meaning given by paragraph 2(1) of Schedule 16 to FA 2026.
 
-[^key-a15aeb1326d690ef24c6ae2fa19c8528]: Commencement: Reg. 6 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-a15aeb1326d690ef24c6ae2fa19c8528]: Commencement: Reg. 6 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
 [^f00009]: Footnote: Paragraph 6 of Schedule 17 to FA 2026 sets out the accounting periods that apply for the purposes of CBAM.
 
-[^key-60460713917415fb1bb5b14b7b333bbb]: Commencement: Reg. 7 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-60460713917415fb1bb5b14b7b333bbb]: Commencement: Reg. 7 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
 [^f00010]: Footnote: “**HMRC**” has the meaning given by section 155(1) of FA 2026.
 
@@ -342,34 +342,34 @@ A Tax Information and Impact Note covering this instrument was published on 26th
 
 [^f00016]: Footnote: [1994 c. 23](https://www.legislation.gov.uk/ukpga/1994/23).
 
-[^key-4b8a469aa6834f5e577b1b23f7ea0f46]: Commencement: Reg. 8 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-4b8a469aa6834f5e577b1b23f7ea0f46]: Commencement: Reg. 8 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
-[^key-afddad4d70157cf782b51cd1187749c5]: Commencement: Reg. 9 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-afddad4d70157cf782b51cd1187749c5]: Commencement: Reg. 9 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
 [^f00017]: Footnote: Relevant amendments were made by section 97 of the Finance Act [2020 (c. 14)](https://www.legislation.gov.uk/ukpga/2020/14), paragraph 15 of Schedule 19 and paragraph 1 of Schedule 20 to the Finance (No. 2) Act [2023 (c. 30)](https://www.legislation.gov.uk/ukpga/2023/30) and section 109 of FA 2026.
 
-[^key-fc90e321d1df2c5dc5b4f278ab7d19d2]: Commencement: Reg. 10 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-fc90e321d1df2c5dc5b4f278ab7d19d2]: Commencement: Reg. 10 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
 [^f00018]: Footnote: “**Carbon price**” has the meaning given by section 150(3) of FA 2026.
 
-[^key-b55b0b6ba2ee402905cd989ff85c219e]: Commencement: Reg. 11 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-b55b0b6ba2ee402905cd989ff85c219e]: Commencement: Reg. 11 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
-[^key-0f678ef7a4c5045df8c1bc5fceb78c8d]: Commencement: Reg. 12 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-0f678ef7a4c5045df8c1bc5fceb78c8d]: Commencement: Reg. 12 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
-[^key-f02744ce62ccf190e79be91ebea67af4]: Commencement: Reg. 13 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-f02744ce62ccf190e79be91ebea67af4]: Commencement: Reg. 13 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
-[^key-c4798d34e12a08fadf8fc26a33c63907]: Commencement: Reg. 14 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-c4798d34e12a08fadf8fc26a33c63907]: Commencement: Reg. 14 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
 [^f00019]: Footnote: Paragraph 26(2) of Schedule 17 to FA 2026 provides that it is a defence to a repayment claim that the repayment would unjustly enrich a claimant.
 
 [^f00020]: Footnote: “**Reimbursement arrangements**” has the meaning given by paragraph 28(2) of Schedule 17 to FA 2026.
 
-[^key-3f7e9e95435fd615af33354a3553922f]: Commencement: Reg. 15 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-3f7e9e95435fd615af33354a3553922f]: Commencement: Reg. 15 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
-[^key-3e758f58c7a8d295bfdd1a5a64fe43bb]: Commencement: Reg. 16 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-3e758f58c7a8d295bfdd1a5a64fe43bb]: Commencement: Reg. 16 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
-[^key-1fe066e1862115887fd7ec56786a9faf]: Commencement: Reg. 17 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-1fe066e1862115887fd7ec56786a9faf]: Commencement: Reg. 17 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
 
 [^f00021]: Footnote: Service of such a notice is provided for in Part 13 of Schedule 17 to FA 2026.
 
-[^key-6df0d6296a84cc6aa252594bb79b7a02]: Commencement: Reg. 18 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)
+[^c-6df0d6296a84cc6aa252594bb79b7a02]: Commencement: Reg. 18 in force at 1.1.2027, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2026/802/regulation/1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 69. Transitional provision: Treasury licences[^key-7a5a09ca931eb525967249ac15a2a77c][^key-47ae5617c0713d2eb53e6255251f0522]
+## 69. Transitional provision: Treasury licences[^c-7a5a09ca931eb525967249ac15a2a77c][^c-47ae5617c0713d2eb53e6255251f0522]
 
 *Extent: E+W+S+N.I.*
 
@@ -56,6 +56,6 @@ is to be treated on and after the relevant date as a reference to the correspond
 
 ## Annotations
 
-[^key-7a5a09ca931eb525967249ac15a2a77c]: Commencement: Reg. 69 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-7a5a09ca931eb525967249ac15a2a77c]: Commencement: Reg. 69 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-47ae5617c0713d2eb53e6255251f0522]: Commencement: Reg. 69 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-47ae5617c0713d2eb53e6255251f0522]: Commencement: Reg. 69 in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

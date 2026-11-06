@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 21CC. Section 21CA: effect on disclosures under section 21A[^key-c91e1982b9785951971377dea2f56536][^c19687001]
+## 21CC. Section 21CA: effect on disclosures under section 21A[^c-c91e1982b9785951971377dea2f56536][^c19687001]
 
 *Extent: E+W+S+N.I.*
 
@@ -78,6 +78,6 @@ If there is no nominated officer the report must be approved and signed by anoth
 
 ## Annotations
 
-[^key-c91e1982b9785951971377dea2f56536]: Textual amendment: Ss. 21CA-21CF inserted (27.4.2017 for specified purposes, 31.10.2017 for specified purposes) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 36](https://www.legislation.gov.uk/ukpga/2017/22/section/36), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/f); [S.I. 2017/1028](https://www.legislation.gov.uk/uksi/2017/1028), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1028/regulation/2/b)
+[^c-c91e1982b9785951971377dea2f56536]: Textual amendment: Ss. 21CA-21CF inserted (27.4.2017 for specified purposes, 31.10.2017 for specified purposes) by [Criminal Finances Act 2017 (c. 22)](https://www.legislation.gov.uk/ukpga/2017/22), [ss. 36](https://www.legislation.gov.uk/ukpga/2017/22/section/36), [58(1)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/1)[(6)](https://www.legislation.gov.uk/ukpga/2017/22/section/58/6); [S.I. 2017/991](https://www.legislation.gov.uk/uksi/2017/991), [reg. 2(f)](https://www.legislation.gov.uk/uksi/2017/991/regulation/2/f); [S.I. 2017/1028](https://www.legislation.gov.uk/uksi/2017/1028), [reg. 2(b)](https://www.legislation.gov.uk/uksi/2017/1028/regulation/2/b)
 
 [^c19687001]: Textual amendment: Ss. 21C-21H inserted (26.12.2007) by [The Terrorism Act 2000 and Proceeds of Crime Act 2002 (Amendment) Regulations 2007 (S.I. 2007/3398)](https://www.legislation.gov.uk/uksi/2007/3398), [reg. 2](https://www.legislation.gov.uk/uksi/2007/3398/regulation/2), [Sch. 1 para. 5](https://www.legislation.gov.uk/uksi/2007/3398/schedule/1/paragraph/5)

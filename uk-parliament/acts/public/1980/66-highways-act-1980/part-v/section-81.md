@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 81. Provision of highway boundary posts.[^key-44bcb3867c55ecee3b19ee1f69ff0219]
+## 81. Provision of highway boundary posts.[^c-44bcb3867c55ecee3b19ee1f69ff0219]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A highway authority may erect and maintain, in a highway for which they are the 
 
 ## Annotations
 
-[^key-44bcb3867c55ecee3b19ee1f69ff0219]: Modification: S. 81 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(q)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/q)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)
+[^c-44bcb3867c55ecee3b19ee1f69ff0219]: Modification: S. 81 functions made exercisable concurrently (3.3.2017) by [The Cambridgeshire and Peterborough Combined Authority Order 2017 (S.I. 2017/251)](https://www.legislation.gov.uk/uksi/2017/251), [arts. 1(2)(b)](https://www.legislation.gov.uk/uksi/2017/251/article/1/2/b), [9(2)(q)](https://www.legislation.gov.uk/uksi/2017/251/article/9/2/q)[(3)](https://www.legislation.gov.uk/uksi/2017/251/article/9/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 277. Further provision about forfeiture under section 275 or 276[^key-a0d742e0387c07d768850f382ab1042d]
+## 277. Further provision about forfeiture under section 275 or 276[^c-a0d742e0387c07d768850f382ab1042d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ Schedule 18 (which makes provision in relation to the forfeiture of property lia
 
 ## Annotations
 
-[^key-a0d742e0387c07d768850f382ab1042d]: Commencement: S. 277 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)
+[^c-a0d742e0387c07d768850f382ab1042d]: Commencement: S. 277 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 22](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/22)

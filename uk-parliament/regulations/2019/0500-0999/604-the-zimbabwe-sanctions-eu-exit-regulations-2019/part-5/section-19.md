@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 19. Definitions relating to “restricted goods” and “restricted technology”[^key-f6cdc622bba529b3c1419f4b017469c0][^key-5d42e973f966ffeca7542a88be74b6b4]
+## 19. Definitions relating to “restricted goods” and “restricted technology”[^c-f6cdc622bba529b3c1419f4b017469c0][^c-5d42e973f966ffeca7542a88be74b6b4]
 
 *Extent: E+W+S+N.I.*
 
@@ -37,8 +37,8 @@ summary: ''
 
 ## Annotations
 
-[^key-f6cdc622bba529b3c1419f4b017469c0]: Commencement: Reg. 19 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
+[^c-f6cdc622bba529b3c1419f4b017469c0]: Commencement: Reg. 19 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/604/regulation/1/2)
 
-[^key-5d42e973f966ffeca7542a88be74b6b4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/604/regulation/19) in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(1)(i)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/1/i)
+[^c-5d42e973f966ffeca7542a88be74b6b4]: Commencement: [Reg. 19](https://www.legislation.gov.uk/uksi/2019/604/regulation/19) in force at 22.3.2019 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 13(1)(i)](https://www.legislation.gov.uk/uksi/2019/627/regulation/13/1/i)
 
 [^c23947501]: Marginal citation: [S.I. 2008/3231](https://www.legislation.gov.uk/uksi/2008/3231). Schedule 2 was substituted by [S.I. 2017/85](https://www.legislation.gov.uk/uksi/2017/85) and subsequently amended by [S.I. 2017/697](https://www.legislation.gov.uk/uksi/2017/697); [S.I. 2018/165](https://www.legislation.gov.uk/uksi/2018/165); and [S.I. 2018/939](https://www.legislation.gov.uk/uksi/2018/939). There are other instruments which amend other parts of the Order, which are not relevant to these Regulations.

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Period for which local development plan has effect[^c22542681][^key-0ec9f6f580284dec91a5526a43db0926]
+## 12. Period for which local development plan has effect[^c22542681][^c-0ec9f6f580284dec91a5526a43db0926]
 
 *Extent: E+W*
 
@@ -43,4 +43,4 @@ summary: ''
 
 [^c22542681]: Commencement: S. 12 partly in force; s. 12 in force for specified purposes at 6.9.2015, see s. 58(2)(b)(4)(b)
 
-[^key-0ec9f6f580284dec91a5526a43db0926]: Commencement: S. 12 in force at 4.1.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1987/article/3/b)
+[^c-0ec9f6f580284dec91a5526a43db0926]: Commencement: S. 12 in force at 4.1.2016 in so far as not already in force by [S.I. 2015/1987](https://www.legislation.gov.uk/wsi/2015/1987), [art. 3(b)](https://www.legislation.gov.uk/wsi/2015/1987/article/3/b)

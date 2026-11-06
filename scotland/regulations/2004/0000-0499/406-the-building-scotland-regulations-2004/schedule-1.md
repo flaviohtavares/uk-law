@@ -16,13 +16,13 @@ summary: ''
 >
 > Extent: Scotland.
 
-## SCHEDULE 1 — EXEMPTED BUILDINGS AND SERVICES, FITTINGS AND EQUIPMENT[^key-aa285e4d4af6d0dcc6ab2c139fcc7dc2]
+## SCHEDULE 1 — EXEMPTED BUILDINGS AND SERVICES, FITTINGS AND EQUIPMENT[^c-aa285e4d4af6d0dcc6ab2c139fcc7dc2]
 
 *Extent: S*
 
 Regulation 3
 
-### 1. Buildings etc. controlled by other legislation[^key-9f17e2576bc63d71d7e4213b9554da89]
+### 1. Buildings etc. controlled by other legislation[^c-9f17e2576bc63d71d7e4213b9554da89]
 
 (1) Any building in which explosives are manufactured or stored under a licence granted under the Explosives Regulations 2014 where the whole building is used for that manufacture or storage.
 
@@ -98,13 +98,13 @@ A detached single storey building ancillary to and within the curtilage of a fla
 
 ### 21. Paved areas
 
-A paved area or hardstanding. **Except**–A paved area or hardstanding exceeding 50[^key-447cc0ff96a6afa6b4eb48305021b5f1] square metres in area. A paved area forming part of an access to meet a requirement of these Regulations.
+A paved area or hardstanding. **Except**–A paved area or hardstanding exceeding 50[^c-447cc0ff96a6afa6b4eb48305021b5f1] square metres in area. A paved area forming part of an access to meet a requirement of these Regulations.
 
 ## Annotations
 
-[^key-aa285e4d4af6d0dcc6ab2c139fcc7dc2]: Textual amendment: Schs. 1-6 substituted (1.5.2007) by [The Building (Scotland) Amendment Regulations 2006 (S.S.I. 2006/534)](https://www.legislation.gov.uk/ssi/2006/534), [regs. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1), [2(c)](https://www.legislation.gov.uk/ssi/2006/534/regulation/2/c), [sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) (with [regs. 3](https://www.legislation.gov.uk/ssi/2006/534/regulation/3), [4](https://www.legislation.gov.uk/ssi/2006/534/regulation/4))
+[^c-aa285e4d4af6d0dcc6ab2c139fcc7dc2]: Textual amendment: Schs. 1-6 substituted (1.5.2007) by [The Building (Scotland) Amendment Regulations 2006 (S.S.I. 2006/534)](https://www.legislation.gov.uk/ssi/2006/534), [regs. 1](https://www.legislation.gov.uk/ssi/2006/534/regulation/1), [2(c)](https://www.legislation.gov.uk/ssi/2006/534/regulation/2/c), [sch.](https://www.legislation.gov.uk/ssi/2006/534/schedule) (with [regs. 3](https://www.legislation.gov.uk/ssi/2006/534/regulation/3), [4](https://www.legislation.gov.uk/ssi/2006/534/regulation/4))
 
-[^key-9f17e2576bc63d71d7e4213b9554da89]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2004/406/schedule/1/paragraph/1) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 20](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/20)
+[^c-9f17e2576bc63d71d7e4213b9554da89]: Textual amendment: [Sch. 1 para. 1](https://www.legislation.gov.uk/ssi/2004/406/schedule/1/paragraph/1) substituted (1.10.2014) by [The Explosives Regulations 2014 (S.I. 2014/1638)](https://www.legislation.gov.uk/uksi/2014/1638), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2014/1638/regulation/1/1), [Sch. 13 para. 20](https://www.legislation.gov.uk/uksi/2014/1638/schedule/13/paragraph/20)
 
 [^M_F_f79a9c1f-6df7-41dc-9796-8743643bcb31]: Textual amendment: [1965 c. 57](https://www.legislation.gov.uk/ukpga/1965/57).
 
@@ -114,4 +114,4 @@ A paved area or hardstanding. **Except**–A paved area or hardstanding exceedin
 
 [^M_F_d5f84380-07b4-4494-b095-76c0e52f87f4]: Textual amendment: [1897 c. 38](https://www.legislation.gov.uk/ukpga/1897/38). Section 73 was amended by the [National Health Service ( Scotland) Act 1972 ( c.58)](https://www.legislation.gov.uk/ukpga/1972/58) Schedule 6, paragraph 56.
 
-[^key-447cc0ff96a6afa6b4eb48305021b5f1]: Textual amendment: Word in [sch. 1 para. 21](https://www.legislation.gov.uk/ssi/2004/406/schedule/1/paragraph/21) substituted (1.5.2009) by [The Building (Scotland) Amendment Regulations 2009 (S.S.I. 2009/119)](https://www.legislation.gov.uk/ssi/2009/119), [regs. 1](https://www.legislation.gov.uk/ssi/2009/119/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/119/regulation/2/2)
+[^c-447cc0ff96a6afa6b4eb48305021b5f1]: Textual amendment: Word in [sch. 1 para. 21](https://www.legislation.gov.uk/ssi/2004/406/schedule/1/paragraph/21) substituted (1.5.2009) by [The Building (Scotland) Amendment Regulations 2009 (S.S.I. 2009/119)](https://www.legislation.gov.uk/ssi/2009/119), [regs. 1](https://www.legislation.gov.uk/ssi/2009/119/regulation/1), [2(2)](https://www.legislation.gov.uk/ssi/2009/119/regulation/2/2)

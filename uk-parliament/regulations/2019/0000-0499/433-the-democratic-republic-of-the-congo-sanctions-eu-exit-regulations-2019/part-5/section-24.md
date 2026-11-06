@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 24. Transfer of military technology[^key-0f74c3033e7e7e9e81615c5a87ccf656][^key-b9bba9c428550b33e466ad8aa68cdac9]
+## 24. Transfer of military technology[^c-0f74c3033e7e7e9e81615c5a87ccf656][^c-b9bba9c428550b33e466ad8aa68cdac9]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,6 +28,6 @@ summary: ''
 
 ## Annotations
 
-[^key-0f74c3033e7e7e9e81615c5a87ccf656]: Commencement: Reg. 24 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
+[^c-0f74c3033e7e7e9e81615c5a87ccf656]: Commencement: Reg. 24 not in force at made date, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/433/regulation/1/2)
 
-[^key-b9bba9c428550b33e466ad8aa68cdac9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/433/regulation/24) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-b9bba9c428550b33e466ad8aa68cdac9]: Commencement: [Reg. 24](https://www.legislation.gov.uk/uksi/2019/433/regulation/24) in force at 31.12.2020 by [S.I. 2019/627](https://www.legislation.gov.uk/uksi/2019/627), [reg. 5(2)](https://www.legislation.gov.uk/uksi/2019/627/regulation/5/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

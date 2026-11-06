@@ -149,7 +149,7 @@ Regulation 156(4)
 | Statutory Maternity Pay (Compensation of Employers) and Miscellaneous Amendments Regulations 1994 | Statutory Maternity Pay (Compensation of Employers) and Miscellaneous Amendments Regulations (Northern Ireland) 1994 [^c17677661]. |  |
 | Regulation 3 | Regulation 3 |  |
 | Regulation 4 | Regulation 4 |  |
-| [^key-55a8dd2554e977ae932289b04faf4c98]. . . | [^key-b60a90f297c10032f3bf3854d8f134a1]. . . |  |
+| [^c-55a8dd2554e977ae932289b04faf4c98]. . . | [^c-b60a90f297c10032f3bf3854d8f134a1]. . . |  |
 | Article 2 | Article 2 |  |
 | Social Security (Adjudication) Regulations 1995 | Social Security (Adjudication) Regulations (Northern Ireland) 1995 [^c17677681] |  |
 | Regulation 13 | Regulation 13 [^c17677691] |  |
@@ -157,7 +157,7 @@ Regulation 156(4)
 | Regulation 3 | Regulation 3 |  |
 | Employer’s Contributions Re-imbursement Regulations 1996 | Employer’s Contributions Re-imbursement Regulations (Northern Ireland) 1996 [^c17677711] |  |
 | Regulations 5, 6 and 8 | Regulations 5, 6 and 8 respectively |  |
-| Education (Student Loans) (Repayment) Regulations 2009[^key-c2ff1b6bca1c9bf4f8566bc0d8fcf81c] | Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009[^key-a9305369ef9e6f9095e31a9f9c6de129] |  |
+| Education (Student Loans) (Repayment) Regulations 2009[^c-c2ff1b6bca1c9bf4f8566bc0d8fcf81c] | Education (Student Loans) (Repayment) Regulations (Northern Ireland) 2009[^c-a9305369ef9e6f9095e31a9f9c6de129] |  |
 | Regulation 39(1) | Regulation 39(1) |  |
 | Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations 2001 | Social Security (Crediting and Treatment of Contributions, and National Insurance Numbers) Regulations (Northern Ireland) 2001 [^c17677731] |  |
 | Regulation 4 | Regulation 4 |  |
@@ -245,9 +245,9 @@ Regulation 156(4)
 
 [^c17677661]: Textual amendment: S.R. [1994 No. 271](https://www.legislation.gov.uk/ukcm/1994/271).
 
-[^key-55a8dd2554e977ae932289b04faf4c98]: Textual amendment: [Sch. 7 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/7/part/II) entry omitted (6.10.2014) by virtue of [The Social Security (Contributions) (Amendment No. 4) Regulations 2014 (S.I. 2014/2397)](https://www.legislation.gov.uk/uksi/2014/2397), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2397/regulation/1/1), [3(10)(a)](https://www.legislation.gov.uk/uksi/2014/2397/regulation/3/10/a)
+[^c-55a8dd2554e977ae932289b04faf4c98]: Textual amendment: [Sch. 7 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/7/part/II) entry omitted (6.10.2014) by virtue of [The Social Security (Contributions) (Amendment No. 4) Regulations 2014 (S.I. 2014/2397)](https://www.legislation.gov.uk/uksi/2014/2397), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2397/regulation/1/1), [3(10)(a)](https://www.legislation.gov.uk/uksi/2014/2397/regulation/3/10/a)
 
-[^key-b60a90f297c10032f3bf3854d8f134a1]: Textual amendment: [Sch. 7 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/7/part/II) entry omitted (6.10.2014) by virtue of [The Social Security (Contributions) (Amendment No. 4) Regulations 2014 (S.I. 2014/2397)](https://www.legislation.gov.uk/uksi/2014/2397), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2397/regulation/1/1), [3(10)(b)](https://www.legislation.gov.uk/uksi/2014/2397/regulation/3/10/b)
+[^c-b60a90f297c10032f3bf3854d8f134a1]: Textual amendment: [Sch. 7 Pt. II](https://www.legislation.gov.uk/uksi/2001/1004/schedule/7/part/II) entry omitted (6.10.2014) by virtue of [The Social Security (Contributions) (Amendment No. 4) Regulations 2014 (S.I. 2014/2397)](https://www.legislation.gov.uk/uksi/2014/2397), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2014/2397/regulation/1/1), [3(10)(b)](https://www.legislation.gov.uk/uksi/2014/2397/regulation/3/10/b)
 
 [^c17677681]: Textual amendment: S.R. [1995 No. 293](https://www.legislation.gov.uk/ukcm/1995/293).
 
@@ -257,8 +257,8 @@ Regulation 156(4)
 
 [^c17677711]: Textual amendment: S.R. [1996 No. 30](https://www.legislation.gov.uk/ukcm/1996/30).
 
-[^key-c2ff1b6bca1c9bf4f8566bc0d8fcf81c]: Textual amendment: Words in Sch. 7 Pt. II substituted (6.4.2012) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2012 (S.I. 2012/821)](https://www.legislation.gov.uk/uksi/2012/821), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/821/regulation/1/1), [26(c)](https://www.legislation.gov.uk/uksi/2012/821/regulation/26/c)
+[^c-c2ff1b6bca1c9bf4f8566bc0d8fcf81c]: Textual amendment: Words in Sch. 7 Pt. II substituted (6.4.2012) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2012 (S.I. 2012/821)](https://www.legislation.gov.uk/uksi/2012/821), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/821/regulation/1/1), [26(c)](https://www.legislation.gov.uk/uksi/2012/821/regulation/26/c)
 
-[^key-a9305369ef9e6f9095e31a9f9c6de129]: Textual amendment: Words in Sch. 7 Pt. II substituted (6.4.2012) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2012 (S.I. 2012/821)](https://www.legislation.gov.uk/uksi/2012/821), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/821/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2012/821/regulation/31)
+[^c-a9305369ef9e6f9095e31a9f9c6de129]: Textual amendment: Words in Sch. 7 Pt. II substituted (6.4.2012) by [The Social Security (Contributions) (Amendment No. 3) Regulations 2012 (S.I. 2012/821)](https://www.legislation.gov.uk/uksi/2012/821), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2012/821/regulation/1/1), [31](https://www.legislation.gov.uk/uksi/2012/821/regulation/31)
 
 [^c17677731]: Textual amendment: S.R. [2001 No. 102](https://www.legislation.gov.uk/ukcm/2001/102).

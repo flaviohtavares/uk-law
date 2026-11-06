@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37. Consultation[^key-64563282a50619694e9731b472bd353a]
+## 37. Consultation[^c-64563282a50619694e9731b472bd353a]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ After section 33B of the Housing Act 1996 insert—
 
 ## Annotations
 
-[^key-64563282a50619694e9731b472bd353a]: Commencement: [S. 37](https://www.legislation.gov.uk/mwa/2011/5/section/37) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(c)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/c)
+[^c-64563282a50619694e9731b472bd353a]: Commencement: [S. 37](https://www.legislation.gov.uk/mwa/2011/5/section/37) in force at 18.10.2011 by [S.I. 2011/2475](https://www.legislation.gov.uk/wsi/2011/2475), [arts. 1(2)](https://www.legislation.gov.uk/wsi/2011/2475/article/1/2), [2(c)](https://www.legislation.gov.uk/wsi/2011/2475/article/2/c)

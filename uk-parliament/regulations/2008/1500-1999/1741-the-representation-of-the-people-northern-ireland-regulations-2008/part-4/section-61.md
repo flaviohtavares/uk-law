@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 61. Closing date for applications[^key-38122ff8539e591fa69e36d4b146d068]
+## 61. Closing date for applications[^c-38122ff8539e591fa69e36d4b146d068]
 
 *Extent: N.I.*
 
@@ -44,6 +44,6 @@ except that where, at a parliamentary general election, any proceedings are comm
 
 ## Annotations
 
-[^key-38122ff8539e591fa69e36d4b146d068]: Modification: [Reg. 61](https://www.legislation.gov.uk/uksi/2008/1741/regulation/61) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 77](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/77)
+[^c-38122ff8539e591fa69e36d4b146d068]: Modification: [Reg. 61](https://www.legislation.gov.uk/uksi/2008/1741/regulation/61) applied (with modifications) (26.2.2016) by [The European Union Referendum (Conduct) Regulations 2016 (S.I. 2016/219)](https://www.legislation.gov.uk/uksi/2016/219), [reg. 1](https://www.legislation.gov.uk/uksi/2016/219/regulation/1), [Sch. 3 para. 77](https://www.legislation.gov.uk/uksi/2016/219/schedule/3/paragraph/77)
 
 [^f00052]: Footnote: [1971 c.80](https://www.legislation.gov.uk/ukpga/1971/80).

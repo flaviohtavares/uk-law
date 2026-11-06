@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) In section 81 of the [^c19339191]Senior Courts Act 1981[^key-9101e6af7d5f50a17372fd9684ae2582] —
+(1) In section 81 of the [^c19339191]Senior Courts Act 1981[^c-9101e6af7d5f50a17372fd9684ae2582] —
 
 - (a) in subsection (1) (which lists cases in which the Crown Court may grant bail) at the end of paragraph (f) there shall be added
 
@@ -74,6 +74,6 @@ summary: ''
 
 [^c19339191]: Marginal citation: [1981 c. 54](https://www.legislation.gov.uk/ukpga/1981/54)
 
-[^key-9101e6af7d5f50a17372fd9684ae2582]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
+[^c-9101e6af7d5f50a17372fd9684ae2582]: Textual amendment: Words in Act substituted (1.10.2009) by [Constitutional Reform Act 2005 (c. 4)](https://www.legislation.gov.uk/ukpga/2005/4), [s. 148(1)](https://www.legislation.gov.uk/ukpga/2005/4/section/148/1), [Sch. 11 para. 1(2)](https://www.legislation.gov.uk/ukpga/2005/4/schedule/11/paragraph/1/2); [S.I. 2009/1604](https://www.legislation.gov.uk/uksi/2009/1604), [art. 2(d)](https://www.legislation.gov.uk/uksi/2009/1604/article/2/d)
 
 [^c19339201]: Textual amendment: S. 60(4) repealed by [Legal Aid Act 1988 (c. 34, SIF 77:1)](https://www.legislation.gov.uk/ukpga/1988/34), [s. 45](https://www.legislation.gov.uk/ukpga/1988/34/section/45), [Sch. 6](https://www.legislation.gov.uk/ukpga/1988/34/schedule/6)

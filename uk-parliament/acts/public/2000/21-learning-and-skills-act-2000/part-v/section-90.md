@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 90. Preliminary transfers: FEFC for England.[^key-f41181170b4ac52ecd43f4bf9a4ef7b3]
+## 90. Preliminary transfers: FEFC for England.[^c-f41181170b4ac52ecd43f4bf9a4ef7b3]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f41181170b4ac52ecd43f4bf9a4ef7b3]: Textual amendment: [S. 90](https://www.legislation.gov.uk/ukpga/2000/21/section/90) repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 58(a)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/58/a), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)
+[^c-f41181170b4ac52ecd43f4bf9a4ef7b3]: Textual amendment: [S. 90](https://www.legislation.gov.uk/ukpga/2000/21/section/90) repealed (1.4.2007) by [Education and Inspections Act 2006 (c. 40)](https://www.legislation.gov.uk/ukpga/2006/40), [s. 188(3)](https://www.legislation.gov.uk/ukpga/2006/40/section/188/3), [Sch. 14 para. 58(a)](https://www.legislation.gov.uk/ukpga/2006/40/schedule/14/paragraph/58/a), [Sch. 18 Pt. 5](https://www.legislation.gov.uk/ukpga/2006/40/schedule/18/part/5); [S.I. 2007/935](https://www.legislation.gov.uk/uksi/2007/935), [art. 5(gg)(ii)](https://www.legislation.gov.uk/uksi/2007/935/article/5/gg/ii)

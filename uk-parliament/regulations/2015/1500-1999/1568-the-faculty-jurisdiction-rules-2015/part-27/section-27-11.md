@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 27.11. Hearing and determination of appeals[^key-12adf8a4bb65a55c0f6b698efa6814ce]
+## 27.11. Hearing and determination of appeals[^c-12adf8a4bb65a55c0f6b698efa6814ce]
 
 *Extent: E*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-12adf8a4bb65a55c0f6b698efa6814ce]: Commencement: [Rule 27.11](https://www.legislation.gov.uk/uksi/2015/1568/article/27.11) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)
+[^c-12adf8a4bb65a55c0f6b698efa6814ce]: Commencement: [Rule 27.11](https://www.legislation.gov.uk/uksi/2015/1568/article/27.11) in force at 1.1.2016, see [rule 28.1(2)](https://www.legislation.gov.uk/uksi/2015/1568/article/28.1/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 230.[^key-ddfb953e1c62a5fa131632ee0b709980]
+## 230.[^c-ddfb953e1c62a5fa131632ee0b709980]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 5, omit “Community”.
 
 ## Annotations
 
-[^key-ddfb953e1c62a5fa131632ee0b709980]: Commencement: Reg. 230 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-ddfb953e1c62a5fa131632ee0b709980]: Commencement: Reg. 230 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

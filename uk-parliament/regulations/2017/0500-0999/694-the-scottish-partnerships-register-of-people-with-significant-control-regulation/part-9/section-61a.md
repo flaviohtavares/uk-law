@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**61A.**[^key-647f53ded6d87622abcd86d0f2d2db1a] Section 1087ZA of the Companies Act 2006 (required particulars available for public inspection for limited period) applies to eligible Scottish partnerships, modified so that it reads as follows—
+**61A.**[^c-647f53ded6d87622abcd86d0f2d2db1a] Section 1087ZA of the Companies Act 2006 (required particulars available for public inspection for limited period) applies to eligible Scottish partnerships, modified so that it reads as follows—
 
 > **1087ZA. Required particulars available for public inspection for limited period**
 >
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-647f53ded6d87622abcd86d0f2d2db1a]: Textual amendment: Reg. 61A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/20/2)
+[^c-647f53ded6d87622abcd86d0f2d2db1a]: Textual amendment: Reg. 61A inserted (10.1.2020) by [The Money Laundering and Terrorist Financing (Amendment) Regulations 2019 (S.I. 2019/1511)](https://www.legislation.gov.uk/uksi/2019/1511), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/1/2), [20(2)](https://www.legislation.gov.uk/uksi/2019/1511/regulation/20/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 44. Notification of liability and registration[^key-2a3dbc4bf6bc504c541f3ebf42b5a3d6]
+## 44. Notification of liability and registration[^c-2a3dbc4bf6bc504c541f3ebf42b5a3d6]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2a3dbc4bf6bc504c541f3ebf42b5a3d6]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2017/10/section/44) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)
+[^c-2a3dbc4bf6bc504c541f3ebf42b5a3d6]: Commencement: [S. 44](https://www.legislation.gov.uk/ukpga/2017/10/section/44) in force at 6.4.2018 by [S.I. 2018/464](https://www.legislation.gov.uk/uksi/2018/464), [art. 2(e)](https://www.legislation.gov.uk/uksi/2018/464/article/2/e)

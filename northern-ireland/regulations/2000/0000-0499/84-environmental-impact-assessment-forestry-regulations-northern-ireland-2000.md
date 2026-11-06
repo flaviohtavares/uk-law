@@ -41,11 +41,11 @@ Coming into operation
 
 The Department of Agriculture and Rural Development, being a department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to measures relating to the requirement for an assessment of the impact on the environment of projects likely to have significant effects on the environment, in exercise of the powers conferred on it by the said section 2(2) and of all other powers enabling it in that behalf, and having taken into account the selection criteria in Annex III to Council Directive [85/337/EEC](https://www.legislation.gov.uk/european/directive/1985/0337)[^f00003] as amended by Council Directive [97/11/EC](https://www.legislation.gov.uk/european/directive/1997/0011)[^f00004] hereby make the following Regulations:
 
-## 1. Citation and commencement[^key-863b4736ca5fdc1bb5f99f743ac26c55]
+## 1. Citation and commencement[^c-863b4736ca5fdc1bb5f99f743ac26c55]
 
 These Regulations may be cited as the Environmental Impact Assessment (Forestry) Regulations (Northern Ireland) 2000 and shall come into operation on 1st May 2000.
 
-## 2. Interpretation[^key-8f62faef246ca2a6a0e47d59b739893b]
+## 2. Interpretation[^c-8f62faef246ca2a6a0e47d59b739893b]
 
 (1) In these Regulations, unless the context otherwise requires—
 
@@ -74,7 +74,7 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00007] shall apply to these Regulations as it applies to an Act of the Northern Ireland Assembly.
 
-## 3. Interpretation of “relevant project”[^key-605ae1e203d1a5e6858825856f366b32]
+## 3. Interpretation of “relevant project”[^c-605ae1e203d1a5e6858825856f366b32]
 
 (1) For the purposes of these Regulations, a project is a relevant project if—
 
@@ -83,7 +83,7 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 - (c) the carrying out of the project
   - (i) does not involve development, or
   - (ii) involves development which is not mentioned in Schedule 1 to, or in column 1 of, the table in Schedule 2 to the Planning (Environmental Impact Assessment) Regulations (Northern Ireland) 1999[^f00008]; or
-  - (iii) involves development for which planning permission is granted by Part 7 of Schedule 1 [^key-1fe41223602f1dfd0cfc8fc2a3919573]... to the Planning (General Development) Order (Northern Ireland) 1993[^f00009].
+  - (iii) involves development for which planning permission is granted by Part 7 of Schedule 1 [^c-1fe41223602f1dfd0cfc8fc2a3919573]... to the Planning (General Development) Order (Northern Ireland) 1993[^f00009].
 
 (2) The types of project referred to in paragraph (1)(*a*) of this regulation are—
 
@@ -94,7 +94,7 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 
 (3) For the purposes of paragraph (1)(*b*), and subject to regulations 6(3) and 7(6), a project shall be taken not to be likely to have significant effects on the environment if the area covered, or to be covered, by the project does not exceed any relevant threshold set out in Schedule 2.
 
-## 4. Restriction on relevant projects[^key-e44292a8a0374507e29c4b5c3c2b2ae8]
+## 4. Restriction on relevant projects[^c-e44292a8a0374507e29c4b5c3c2b2ae8]
 
 (1) Subject to paragraph (2) no person shall carry out, on any land, work or operations relating to a relevant project unless—
 
@@ -107,7 +107,7 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 
 (4) No direction shall be made under paragraph (2) where it appears to the Department that the project would be likely to have significant effects on the environment in another EEA State.
 
-## 5. Application for an opinion whether a project is a relevant project[^key-a514dfca020af46cead6aa7b42fc8956]
+## 5. Application for an opinion whether a project is a relevant project[^c-a514dfca020af46cead6aa7b42fc8956]
 
 (1) The proposer may apply in writing to the Department for its opinion whether a project is a relevant project.
 
@@ -119,7 +119,7 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 
 (3) The Department shall, if it considers that it has not been provided with sufficient information to enable it to give an opinion under paragraph (1), notify the proposer in writing of the matters on which it requires further information and the proposer shall supply that further information to the Department within such period as the Department reasonably may require.
 
-## 6. Opinion of the Department[^key-6d272143b45c219f9f8061921cb8a97b]
+## 6. Opinion of the Department[^c-6d272143b45c219f9f8061921cb8a97b]
 
 (1) Where the proposer applies to the Department under regulation 5, the Department shall give to the proposer written notice of its opinion within—
 
@@ -139,7 +139,7 @@ These Regulations may be cited as the Environmental Impact Assessment (Forestry)
 
 (6) In paragraph 3, the reference to circumstances which are, in the opinion of the Department, exceptional shall be construed in accordance with paragraph 4 of Schedule 2.
 
-## 7. Request to the Department to reconsider its opinion[^key-ce9a7e3700d185d54e584db037fbb278]
+## 7. Request to the Department to reconsider its opinion[^c-ce9a7e3700d185d54e584db037fbb278]
 
 (1) The proposer may apply in writing to the Department for a reconsideration of its opinion whether a project is a relevant project where—
 
@@ -173,7 +173,7 @@ and may include such further information or representations as the proposer may 
 
 (9) In paragraph (6), the reference to circumstances which are, in the opinion of the Department, exceptional shall be construed in accordance with paragraph 4 of Schedule 2.
 
-## 8. Effect of opinions[^key-66f48d50f71f55dda54a0db91157c072]
+## 8. Effect of opinions[^c-66f48d50f71f55dda54a0db91157c072]
 
 (1) This paragraph applies to an opinion given under regulation 6 or reconsidered under regulation 7 that a project is not or would not be a relevant project.
 
@@ -190,7 +190,7 @@ and may include such further information or representations as the proposer may 
 
 (4) An opinion to which paragraph (3) applies shall have the effect of determining for the purposes of these Regulations that the project specified in the opinion is or would be a relevant project.
 
-## 9. Request as to the information to be included in an environmental statement[^key-7d701970eb798628dd753bf7a2d5df45]
+## 9. Request as to the information to be included in an environmental statement[^c-7d701970eb798628dd753bf7a2d5df45]
 
 (1) Before applying for consent to carry out work in relation to a project, a proposer may request the Department to give its opinion as to the information to be contained in the environmental statement required for that project.
 
@@ -200,7 +200,7 @@ and may include such further information or representations as the proposer may 
 
 (4) The Department shall, within a period of five weeks beginning with the date of the receipt of the request or such longer period as may be agreed in writing with the proposer, give its opinion under paragraph (1) and shall send a copy to the proposer.
 
-## 10. Applications for consent[^key-f76dde31fed9d49cdc84d08284b1ebe1]
+## 10. Applications for consent[^c-f76dde31fed9d49cdc84d08284b1ebe1]
 
 (1) An application for consent shall be made in writing to the Department and shall be accompanied by—
 
@@ -211,7 +211,7 @@ and may include such further information or representations as the proposer may 
 
 (2) An applicant for consent shall supply to the Department such number of copies of the application and the documents accompanying it as the Department reasonably may require.
 
-## 11. Provision of further information[^key-2a110a48aba5c6c6d68cd94fcd25d752]
+## 11. Provision of further information[^c-2a110a48aba5c6c6d68cd94fcd25d752]
 
 Where in the opinion of the Department—
 
@@ -220,7 +220,7 @@ Where in the opinion of the Department—
 
 the Department shall notify the applicant in writing of the matter on which it requires further information and the applicant shall provide that further information.
 
-## 12. Assistance in preparation of environmental statements[^key-d581bd4907a99ab408e7da3a9785cb38]
+## 12. Assistance in preparation of environmental statements[^c-d581bd4907a99ab408e7da3a9785cb38]
 
 (1) Subject to paragraphs (2) and (3), the Department and any local authority or other public authority which appears to the Department to have an interest in the application shall, if requested by an applicant for consent, and may without such a request, enter into consultation with an applicant for consent to determine whether it has in its possession any information which may be relevant to the preparation of the environmental statement and if it has such information, it shall make it available to the applicant.
 
@@ -228,7 +228,7 @@ the Department shall notify the applicant in writing of the matter on which it r
 
 (3) Paragraph (1) shall not prevent the Department or any local authority or other public authority which appears to the Department to have an interest in the application imposing a charge reflecting the cost of making the information available (including for the identification, preparation and copying of any information) or making the payment of such a charge a condition of providing the information.
 
-## 13. Publicity[^key-46de80c1d523634c73ec7228af299b9d]
+## 13. Publicity[^c-46de80c1d523634c73ec7228af299b9d]
 
 (1) A person who makes an application for consent under regulation 10 or who provides further information under regulation 11 shall publish a notice in accordance with paragraph (2) in at least two newspapers specified by the Department for the purposes of ensuring—
 
@@ -246,7 +246,7 @@ the Department shall notify the applicant in writing of the matter on which it r
 
 (4) In this regulation, reference to an application shall include a reference to the documents accompanying that application.
 
-## 14. Information for another EEA State[^key-bb42f02ccc3e2237931c14303f2c1750]
+## 14. Information for another EEA State[^c-bb42f02ccc3e2237931c14303f2c1750]
 
 (1) Where it appears to the Department that a project in relation to which it has received an application for consent would be likely to have significant effects on the environment of another EEA State or where another EEA State likely to be significantly affected so requests, the Department shall provide a copy of the environmental statement relating to the project to that EEA State.
 
@@ -284,7 +284,7 @@ the Department shall notify the applicant in writing of the matter on which it r
 - (b) the main reasons and considerations on which the decision is based; and
 - (c) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects of the project.
 
-## 15. Determination of applications[^key-e30b2f95327ff2d9910e646a86fb32dc]
+## 15. Determination of applications[^c-e30b2f95327ff2d9910e646a86fb32dc]
 
 (1) Where an application is made to the Department for consent, it may, subject to the provisions of this regulation—
 
@@ -295,7 +295,7 @@ the Department shall notify the applicant in writing of the matter on which it r
 
 (3) In determining an application, the Department shall take into consideration the environmental information, any representations received by it in relation to the application and any other material consideration including in particular its assessment of the direct and indirect effects of the relevant project on the environmental factors specified in Schedule 4.
 
-## 16. Notification of decisions[^key-02a00831c183ecb42c26b5a7dd66cefd]
+## 16. Notification of decisions[^c-02a00831c183ecb42c26b5a7dd66cefd]
 
 Where an application for consent has been determined by the Department it shall—
 
@@ -305,7 +305,7 @@ Where an application for consent has been determined by the Department it shall�
   - (ii) the main reasons and considerations on which the decision is based; and
   - (iii) a description, where necessary, of the main measures to avoid, reduce and if possible offset, the major adverse effects of the project.
 
-## 17. Request to the Department to reconsider its decision[^key-53058fe4bdffc68c3238209a9701ebc4]
+## 17. Request to the Department to reconsider its decision[^c-53058fe4bdffc68c3238209a9701ebc4]
 
 (1) An applicant for consent may ask the Department to reconsider its decision where the Department has—
 
@@ -335,14 +335,14 @@ Where an application for consent has been determined by the Department it shall�
   - (ii) the main reasons and considerations on which the decision is based; and
   - (iii) a description, where necessary, of the main measures to avoid, reduce and, if possible, offset the major adverse effects of the project.
 
-## 18. Conditions to be included in every consent[^key-caf1a40644a68db5bffee6201a1169c3]
+## 18. Conditions to be included in every consent[^c-caf1a40644a68db5bffee6201a1169c3]
 
 Every consent shall include conditions to the effect that—
 
 - (a) work in relation to the relevant project shall be commenced within such period (not being more than 5 years beginning with the date consent is granted) as is specified in the consent; and
 - (b) no work shall be carried out in relation to the project after the expiration of such period (not being more than 10 years beginning with the date consent is granted) as is specified in the consent.
 
-## 19. Enforcement notices[^key-ea1caf1244a571e7d4258e7914fa0e9e]
+## 19. Enforcement notices[^c-ea1caf1244a571e7d4258e7914fa0e9e]
 
 (1) Where it appears to the Department that a person is carrying out or has carried out work in relation to a relevant project—
 
@@ -386,7 +386,7 @@ the Department may serve an enforcement notice on that person.
 - (a) in the case of a body corporate, be served on the secretary or clerk of that body at the address of the registered or principal office of that body;
 - (b) in the case of a partnership, be served on a partner or person having the control or management of the partnership business.
 
-## 20. Requests to review enforcement notices[^key-23e2c47de47d348991d0e49c63564efd]
+## 20. Requests to review enforcement notices[^c-23e2c47de47d348991d0e49c63564efd]
 
 (1) Any person on whom an enforcement notice has been served may request the Department to review the enforcement notice.
 
@@ -413,16 +413,16 @@ the Department may serve an enforcement notice on that person.
 
 (9) The request to the Department to review the enforcement notice under this regulation shall have the effect of suspending the operation of any requirement in the enforcement notice to which it relates to take measures described in sub-paragraphs (*a*), (*c*) or (*d*) of regulation 19(2) until the Department has reviewed the enforcement notice or, where the request to review the enforcement notice is withdrawn, until it has been withdrawn.
 
-## 21. Penalties for non-compliance with enforcement notices[^key-741ad2b5118ce4d6b563c3431121226f]
+## 21. Penalties for non-compliance with enforcement notices[^c-741ad2b5118ce4d6b563c3431121226f]
 
 (1) Any person who carries out work in relation to a relevant project in contravention of a requirement to discontinue that work in an enforcement notice served on him in accordance with regulation 19 shall be guilty of an offence and liable—
 
 - (a) on summary conviction to a fine not exceeding the statutory maximum; or
 - (b) on conviction on indictment to a fine.
 
-(2) Any person on whom an enforcement notice has been served in accordance with regulation 19 who fails, within the period specified in the enforcement notice, to carry out any measure, other than discontinuance of the relevant project, required by the enforcement notice shall be guilty of an offence and liable on summary conviction to a fine not exceeding the level 5 on the standard scale[^key-6d16aa859e173c768dad24a485a39e1b] .
+(2) Any person on whom an enforcement notice has been served in accordance with regulation 19 who fails, within the period specified in the enforcement notice, to carry out any measure, other than discontinuance of the relevant project, required by the enforcement notice shall be guilty of an offence and liable on summary conviction to a fine not exceeding the level 5 on the standard scale[^c-6d16aa859e173c768dad24a485a39e1b] .
 
-## 22. Power of entry and default powers[^key-2780ccfca83e6a1458b8894163c299a4]
+## 22. Power of entry and default powers[^c-2780ccfca83e6a1458b8894163c299a4]
 
 (1) Subject to paragraph (2), any person duly authorised in writing by the Department may at any reasonable time enter any land on which he or the Department reasonably suspects that work in relation to a relevant project is being or has been carried out—
 
@@ -436,7 +436,7 @@ the Department may serve an enforcement notice on that person.
 
 (3) A person authorised under paragraphs (1) or (2) to enter any land shall, if so requested, produce evidence of his authority before so entering.
 
-## 23. Registers of directions, decisions and opinions etc. for public inspection[^key-591419328a64065e0dd9a402c5a03ea4]
+## 23. Registers of directions, decisions and opinions etc. for public inspection[^c-591419328a64065e0dd9a402c5a03ea4]
 
 (1) The Department shall keep a register of the following—
 
@@ -451,7 +451,7 @@ the Department may serve an enforcement notice on that person.
 
 (2) Each register kept under this regulation shall be available for inspection by the public at all reasonable hours.
 
-## 24. Revocation and transitional provisions[^key-a050a5c9f1383f2bc516a930cf33c39d]
+## 24. Revocation and transitional provisions[^c-a050a5c9f1383f2bc516a930cf33c39d]
 
 (1) The Environmental Assessment (Forestry) Regulations (Northern Ireland) 1998[^f00011] (in this regulation called “the 1998 Regulations”) are revoked.
 
@@ -510,45 +510,45 @@ Regulations 2(1)
 
 ### Part I
 
-**1.**[^key-8ecd15b5405d485871977afc15a0c9a9] A description of the project, including in particular—
+**1.**[^c-8ecd15b5405d485871977afc15a0c9a9] A description of the project, including in particular—
 
 - (a) a description of the physical characteristics of the whole project and the land-use requirements during the construction and operational phases;
 - (b) a description of the main characteristics of the production processes, for instance, nature and quantity of the materials used;
 - (c) an estimate, by type and quantity, of expected residues and emissions (water, air and soil pollution, noise, vibration, light heat, radiation etc.) resulting from the operation of the proposed project.
 
-**2.**[^key-aa01c769e06501ef61fd2ebea3cb4071] An outline of the main alternatives studied by the applicant and an indication of the main reasons for his choice, taking into account the environmental effects.
+**2.**[^c-aa01c769e06501ef61fd2ebea3cb4071] An outline of the main alternatives studied by the applicant and an indication of the main reasons for his choice, taking into account the environmental effects.
 
-**3.**[^key-1b4782a478098ec9ef1659c372e77995] A description of the aspects of the environment likely to be significantly affected by the proposed project, including, in particular, population, fauna, flora, soil, water, air, climatic factors, material assets including the architectural and archaeological heritage, landscape and the inter-relationship between the above factors.
+**3.**[^c-1b4782a478098ec9ef1659c372e77995] A description of the aspects of the environment likely to be significantly affected by the proposed project, including, in particular, population, fauna, flora, soil, water, air, climatic factors, material assets including the architectural and archaeological heritage, landscape and the inter-relationship between the above factors.
 
-**4.**[^key-a6b7bf1964928f04f36b0b217cfb280a] A description of the likely significant effects of the proposed project on the environment, which should cover the direct effects and any indirect, secondary, cumulative, short, medium and long-term, permanent and temporary, positive and negative effects of the project, resulting from—
+**4.**[^c-a6b7bf1964928f04f36b0b217cfb280a] A description of the likely significant effects of the proposed project on the environment, which should cover the direct effects and any indirect, secondary, cumulative, short, medium and long-term, permanent and temporary, positive and negative effects of the project, resulting from—
 
 - (a) the existence of the project;
 - (b) the use of natural resources;
 - (c) the emission of pollutants, the creation of nuisances, and the elimination of waste, and the description by the applicant of the forecasting methods used to assess the effects on the environment.
 
-**5.**[^key-15468a606ea93ae0b14557e2d708e20a] A description of the measures envisaged to prevent, reduce and, where possible, offset any significant adverse effects on the environment.
+**5.**[^c-15468a606ea93ae0b14557e2d708e20a] A description of the measures envisaged to prevent, reduce and, where possible, offset any significant adverse effects on the environment.
 
-**6.**[^key-b81800a30766f4f44e2ebca1bc018450] A non-technical summary of the information provided under paragraphs 1 to 5.
+**6.**[^c-b81800a30766f4f44e2ebca1bc018450] A non-technical summary of the information provided under paragraphs 1 to 5.
 
-**7.**[^key-89e2d8cab2496a285ba19a0a0f6852b5] An indication of any difficulties (technical deficiencies or lack of know-how) encountered by the applicant in compiling the required information.
+**7.**[^c-89e2d8cab2496a285ba19a0a0f6852b5] An indication of any difficulties (technical deficiencies or lack of know-how) encountered by the applicant in compiling the required information.
 
 ### Part II
 
-**1.**[^key-df12813211e3025c0fc1c845812f2375] A description of the project comprising information on the site, design and size of the project.
+**1.**[^c-df12813211e3025c0fc1c845812f2375] A description of the project comprising information on the site, design and size of the project.
 
-**2.**[^key-625e255b4ebed0aa6c81ef9e188ea908] A description of the measures envisaged in order to avoid, reduce and, if possible, remedy significant adverse effects.
+**2.**[^c-625e255b4ebed0aa6c81ef9e188ea908] A description of the measures envisaged in order to avoid, reduce and, if possible, remedy significant adverse effects.
 
-**3.**[^key-5d54e5971baa3d11066ca0a8fd9fbd46] The data required to identify and assess the main effects which the project is likely to have on the environment.
+**3.**[^c-5d54e5971baa3d11066ca0a8fd9fbd46] The data required to identify and assess the main effects which the project is likely to have on the environment.
 
-**4.**[^key-682e965303bdaeb5e414043670334edf] An outline of the main alternatives studied by the applicant and an indication of the main reasons for his choice, taking into account the environmental effects.
+**4.**[^c-682e965303bdaeb5e414043670334edf] An outline of the main alternatives studied by the applicant and an indication of the main reasons for his choice, taking into account the environmental effects.
 
-**5.**[^key-813a20f315a585a1dcde60f3e38605ee] A non-technical summary of the information provided under paragraphs 1 to 4.
+**5.**[^c-813a20f315a585a1dcde60f3e38605ee] A non-technical summary of the information provided under paragraphs 1 to 4.
 
 ## SCHEDULE 2 — Thresholds for identification of projects likely to have significant effects on the environment
 
 Regulation 3(3)
 
-### 1. Interpretation[^key-4167811a9f9a08cbf1e936fa63bec20d]
+### 1. Interpretation[^c-4167811a9f9a08cbf1e936fa63bec20d]
 
 For the purposes of this Schedule—
 
@@ -562,7 +562,7 @@ For the purposes of this Schedule—
   - (g) a European site within the meaning of regulation 9 of the Conservation (Natural Habitats etc.) Regulations (Northern Ireland) 1995[^f00016];
 - “specified threshold” means any threshold specified in hectares in Column 2 or 3 of the Table in paragraph 2.
 
-### 2. Thresholds[^key-fe94597f94736dffb7858760f5a4924e]
+### 2. Thresholds[^c-fe94597f94736dffb7858760f5a4924e]
 
 Subject to paragraph 3, for the purposes of regulation 3(3), the threshold for any project of a type specified in an entry in Column 1 in the Table is the area (if any) specified in the corresponding entry in Column 2 or 3 of the Table, whichever is appropriate to the land covered, or proposed to be covered, by that project.
 
@@ -581,7 +581,7 @@ Subject to paragraph 3, for the purposes of regulation 3(3), the threshold for a
 </tbody>
 </table>
 
-### 3. Thresholds for extending projects[^key-e63750762db6e4a49434f086bcf353f8]
+### 3. Thresholds for extending projects[^c-e63750762db6e4a49434f086bcf353f8]
 
 (1) Where the project under consideration is an extending project—
 
@@ -603,7 +603,7 @@ Subject to paragraph 3, for the purposes of regulation 3(3), the threshold for a
     - (i) whose area adjoins the material past project, or one of them; and
     - (ii) which satisfies conditions (*a*) to (*c*) in the definition of “material past project”.
 
-### 4. Consideration of thresholds in other cases where a project adjoins or is near another project[^key-15b6c19ef6705773866bd97ac2bd2303]
+### 4. Consideration of thresholds in other cases where a project adjoins or is near another project[^c-15b6c19ef6705773866bd97ac2bd2303]
 
 (1) The facts—
 
@@ -621,7 +621,7 @@ may be regarded by the Department as rendering the circumstances of that project
 
 Regulations 6(2) and 7(5)
 
-### 1. Characteristics of projects[^key-870a747f9c5e49c076c7c2564cfcb03d]
+### 1. Characteristics of projects[^c-870a747f9c5e49c076c7c2564cfcb03d]
 
 The characteristics of projects must be considered having regard, in particular, to:
 
@@ -632,7 +632,7 @@ The characteristics of projects must be considered having regard, in particular,
 - pollution and nuisances;
 - the risk of accidents, having regard in particular to substances or technologies used.
 
-### 2. Location of projects[^key-aa70970ac16aa02525eead57515e8c3c]
+### 2. Location of projects[^c-aa70970ac16aa02525eead57515e8c3c]
 
 The environmental sensitivity of geographical areas likely to be affected by projects must be considered, having regard, in particular, to:
 
@@ -648,7 +648,7 @@ The environmental sensitivity of geographical areas likely to be affected by pro
   - (g) densely populated areas;
   - (h) landscapes of historical, cultural or archaeological significance.
 
-### 3. Characteristics of the potential impact[^key-757e553b32c3c91ef5d8ebe99a0d2240]
+### 3. Characteristics of the potential impact[^c-757e553b32c3c91ef5d8ebe99a0d2240]
 
 The potential significant effects of projects must be considered in relation to criteria set out under headings 1 and 2 above, and having regard, in particular, to:
 
@@ -658,11 +658,11 @@ The potential significant effects of projects must be considered in relation to 
 - the probability of the impact;
 - the duration, frequency and reversibility of the impact.
 
-## SCHEDULE 4 — Environmental factors[^key-29a9a524cb6a1aa633ec7bcc34605ed4]
+## SCHEDULE 4 — Environmental factors[^c-29a9a524cb6a1aa633ec7bcc34605ed4]
 
 Regulations 15(3), 17(5) and 20(6)
 
-[^key-29a9a524cb6a1aa633ec7bcc34605ed4]
+[^c-29a9a524cb6a1aa633ec7bcc34605ed4]
 
 - (a) human beings, fauna and flora;
 - (b) soil, water, air, climate and the landscape;
@@ -703,9 +703,9 @@ These Regulations restate the provisions in the 1998 Regulations with revisions 
 
 [^f00004]: Footnote: O.J. No. L73, 14.3.97, p. 5
 
-[^key-863b4736ca5fdc1bb5f99f743ac26c55]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-863b4736ca5fdc1bb5f99f743ac26c55]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-8f62faef246ca2a6a0e47d59b739893b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/84/regulation/2) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-8f62faef246ca2a6a0e47d59b739893b]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2000/84/regulation/2) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
 [^f00005]: Footnote: [S.I. 1991/1220 (N.I. 11)](https://www.legislation.gov.uk/nisi/1991/1220)
 
@@ -713,89 +713,89 @@ These Regulations restate the provisions in the 1998 Regulations with revisions 
 
 [^f00007]: Footnote: [1953 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1953/33)
 
-[^key-605ae1e203d1a5e6858825856f366b32]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/84/regulation/3) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-605ae1e203d1a5e6858825856f366b32]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/2000/84/regulation/3) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
 [^f00008]: Footnote: [S.R. 1999/73](https://www.legislation.gov.uk/nisr/1999/73)
 
-[^key-1fe41223602f1dfd0cfc8fc2a3919573]: Textual amendment: Words in [reg. 3(1)(c)(iii)](https://www.legislation.gov.uk/nisr/2000/84/regulation/3/1/c/iii) omitted (27.9.2002) by virtue of [Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2002 (S.R. 2002/249)](https://www.legislation.gov.uk/nisr/2002/249), [regs. 1](https://www.legislation.gov.uk/nisr/2002/249/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2002/249/regulation/3)
+[^c-1fe41223602f1dfd0cfc8fc2a3919573]: Textual amendment: Words in [reg. 3(1)(c)(iii)](https://www.legislation.gov.uk/nisr/2000/84/regulation/3/1/c/iii) omitted (27.9.2002) by virtue of [Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2002 (S.R. 2002/249)](https://www.legislation.gov.uk/nisr/2002/249), [regs. 1](https://www.legislation.gov.uk/nisr/2002/249/regulation/1), [3(2)](https://www.legislation.gov.uk/nisr/2002/249/regulation/3)
 
 [^f00009]: Footnote: [S.R. 1993/278](https://www.legislation.gov.uk/nisr/1993/278)
 
-[^key-e44292a8a0374507e29c4b5c3c2b2ae8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/84/regulation/4) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-e44292a8a0374507e29c4b5c3c2b2ae8]: Commencement: [Reg. 4](https://www.legislation.gov.uk/nisr/2000/84/regulation/4) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-a514dfca020af46cead6aa7b42fc8956]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/84/regulation/5) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-a514dfca020af46cead6aa7b42fc8956]: Commencement: [Reg. 5](https://www.legislation.gov.uk/nisr/2000/84/regulation/5) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-6d272143b45c219f9f8061921cb8a97b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/84/regulation/6) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-6d272143b45c219f9f8061921cb8a97b]: Commencement: [Reg. 6](https://www.legislation.gov.uk/nisr/2000/84/regulation/6) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-ce9a7e3700d185d54e584db037fbb278]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/84/regulation/7) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-ce9a7e3700d185d54e584db037fbb278]: Commencement: [Reg. 7](https://www.legislation.gov.uk/nisr/2000/84/regulation/7) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-66f48d50f71f55dda54a0db91157c072]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/84/regulation/8) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-66f48d50f71f55dda54a0db91157c072]: Commencement: [Reg. 8](https://www.legislation.gov.uk/nisr/2000/84/regulation/8) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-7d701970eb798628dd753bf7a2d5df45]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/84/regulation/9) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-7d701970eb798628dd753bf7a2d5df45]: Commencement: [Reg. 9](https://www.legislation.gov.uk/nisr/2000/84/regulation/9) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-f76dde31fed9d49cdc84d08284b1ebe1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/84/regulation/10) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-f76dde31fed9d49cdc84d08284b1ebe1]: Commencement: [Reg. 10](https://www.legislation.gov.uk/nisr/2000/84/regulation/10) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-2a110a48aba5c6c6d68cd94fcd25d752]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/84/regulation/11) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-2a110a48aba5c6c6d68cd94fcd25d752]: Commencement: [Reg. 11](https://www.legislation.gov.uk/nisr/2000/84/regulation/11) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-d581bd4907a99ab408e7da3a9785cb38]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2000/84/regulation/12) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-d581bd4907a99ab408e7da3a9785cb38]: Commencement: [Reg. 12](https://www.legislation.gov.uk/nisr/2000/84/regulation/12) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
 [^f00010]: Footnote: [S.R. 1993/45](https://www.legislation.gov.uk/nisr/1993/45) as amended by [S.R. 1998/238](https://www.legislation.gov.uk/nisr/1998/238)
 
-[^key-46de80c1d523634c73ec7228af299b9d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2000/84/regulation/13) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-46de80c1d523634c73ec7228af299b9d]: Commencement: [Reg. 13](https://www.legislation.gov.uk/nisr/2000/84/regulation/13) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-bb42f02ccc3e2237931c14303f2c1750]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2000/84/regulation/14) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-bb42f02ccc3e2237931c14303f2c1750]: Commencement: [Reg. 14](https://www.legislation.gov.uk/nisr/2000/84/regulation/14) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-e30b2f95327ff2d9910e646a86fb32dc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2000/84/regulation/15) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-e30b2f95327ff2d9910e646a86fb32dc]: Commencement: [Reg. 15](https://www.legislation.gov.uk/nisr/2000/84/regulation/15) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-02a00831c183ecb42c26b5a7dd66cefd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2000/84/regulation/16) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-02a00831c183ecb42c26b5a7dd66cefd]: Commencement: [Reg. 16](https://www.legislation.gov.uk/nisr/2000/84/regulation/16) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-53058fe4bdffc68c3238209a9701ebc4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2000/84/regulation/17) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-53058fe4bdffc68c3238209a9701ebc4]: Commencement: [Reg. 17](https://www.legislation.gov.uk/nisr/2000/84/regulation/17) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-caf1a40644a68db5bffee6201a1169c3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2000/84/regulation/18) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-caf1a40644a68db5bffee6201a1169c3]: Commencement: [Reg. 18](https://www.legislation.gov.uk/nisr/2000/84/regulation/18) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-ea1caf1244a571e7d4258e7914fa0e9e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2000/84/regulation/19) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-ea1caf1244a571e7d4258e7914fa0e9e]: Commencement: [Reg. 19](https://www.legislation.gov.uk/nisr/2000/84/regulation/19) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-23e2c47de47d348991d0e49c63564efd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2000/84/regulation/20) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-23e2c47de47d348991d0e49c63564efd]: Commencement: [Reg. 20](https://www.legislation.gov.uk/nisr/2000/84/regulation/20) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-741ad2b5118ce4d6b563c3431121226f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2000/84/regulation/21) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-741ad2b5118ce4d6b563c3431121226f]: Commencement: [Reg. 21](https://www.legislation.gov.uk/nisr/2000/84/regulation/21) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-6d16aa859e173c768dad24a485a39e1b]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/nisr/2000/84/regulation/21/2) substituted (27.9.2002) by [Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2002 (S.R. 2002/249)](https://www.legislation.gov.uk/nisr/2002/249), [regs. 1](https://www.legislation.gov.uk/nisr/2002/249/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2002/249/regulation/3)
+[^c-6d16aa859e173c768dad24a485a39e1b]: Textual amendment: Words in [reg. 21(2)](https://www.legislation.gov.uk/nisr/2000/84/regulation/21/2) substituted (27.9.2002) by [Environmental Impact Assessment (Forestry) (Amendment) Regulations (Northern Ireland) 2002 (S.R. 2002/249)](https://www.legislation.gov.uk/nisr/2002/249), [regs. 1](https://www.legislation.gov.uk/nisr/2002/249/regulation/1), [3(3)](https://www.legislation.gov.uk/nisr/2002/249/regulation/3)
 
-[^key-2780ccfca83e6a1458b8894163c299a4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2000/84/regulation/22) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-2780ccfca83e6a1458b8894163c299a4]: Commencement: [Reg. 22](https://www.legislation.gov.uk/nisr/2000/84/regulation/22) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-591419328a64065e0dd9a402c5a03ea4]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2000/84/regulation/23) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-591419328a64065e0dd9a402c5a03ea4]: Commencement: [Reg. 23](https://www.legislation.gov.uk/nisr/2000/84/regulation/23) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-a050a5c9f1383f2bc516a930cf33c39d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2000/84/regulation/24) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-a050a5c9f1383f2bc516a930cf33c39d]: Commencement: [Reg. 24](https://www.legislation.gov.uk/nisr/2000/84/regulation/24) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
 [^f00011]: Footnote: [S.R. 1998 No. 437](https://www.legislation.gov.uk/nisr/1998/437)
 
 [^f00012]: Footnote: [1953 c. 2 (N.I.)](https://www.legislation.gov.uk/apni/1953/2)
 
-[^key-8ecd15b5405d485871977afc15a0c9a9]: Commencement: [Sch. 1 Pt. I para. 1](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/I/paragraph/1) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-8ecd15b5405d485871977afc15a0c9a9]: Commencement: [Sch. 1 Pt. I para. 1](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/I/paragraph/1) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-aa01c769e06501ef61fd2ebea3cb4071]: Commencement: [Sch. 1 Pt. I para. 2](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/I/paragraph/2) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-aa01c769e06501ef61fd2ebea3cb4071]: Commencement: [Sch. 1 Pt. I para. 2](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/I/paragraph/2) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-1b4782a478098ec9ef1659c372e77995]: Commencement: [Sch. 1 Pt. I para. 3](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/I/paragraph/3) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-1b4782a478098ec9ef1659c372e77995]: Commencement: [Sch. 1 Pt. I para. 3](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/I/paragraph/3) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-a6b7bf1964928f04f36b0b217cfb280a]: Commencement: [Sch. 1 Pt. I para. 4](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/I/paragraph/4) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-a6b7bf1964928f04f36b0b217cfb280a]: Commencement: [Sch. 1 Pt. I para. 4](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/I/paragraph/4) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-15468a606ea93ae0b14557e2d708e20a]: Commencement: [Sch. 1 Pt. I para. 5](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/I/paragraph/5) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-15468a606ea93ae0b14557e2d708e20a]: Commencement: [Sch. 1 Pt. I para. 5](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/I/paragraph/5) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-b81800a30766f4f44e2ebca1bc018450]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/paragraph/6) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-b81800a30766f4f44e2ebca1bc018450]: Commencement: [Sch. 1 para. 6](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/paragraph/6) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-89e2d8cab2496a285ba19a0a0f6852b5]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/paragraph/7) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-89e2d8cab2496a285ba19a0a0f6852b5]: Commencement: [Sch. 1 para. 7](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/paragraph/7) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-df12813211e3025c0fc1c845812f2375]: Commencement: [Sch. 1 Pt. II para. 1](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/II/paragraph/1) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-df12813211e3025c0fc1c845812f2375]: Commencement: [Sch. 1 Pt. II para. 1](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/II/paragraph/1) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-625e255b4ebed0aa6c81ef9e188ea908]: Commencement: [Sch. 1 Pt. II para. 2](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/II/paragraph/2) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-625e255b4ebed0aa6c81ef9e188ea908]: Commencement: [Sch. 1 Pt. II para. 2](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/II/paragraph/2) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-5d54e5971baa3d11066ca0a8fd9fbd46]: Commencement: [Sch. 1 Pt. II para. 3](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/II/paragraph/3) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-5d54e5971baa3d11066ca0a8fd9fbd46]: Commencement: [Sch. 1 Pt. II para. 3](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/II/paragraph/3) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-682e965303bdaeb5e414043670334edf]: Commencement: [Sch. 1 Pt. II para. 4](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/II/paragraph/4) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-682e965303bdaeb5e414043670334edf]: Commencement: [Sch. 1 Pt. II para. 4](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/II/paragraph/4) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-813a20f315a585a1dcde60f3e38605ee]: Commencement: [Sch. 1 Pt. II para. 5](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/II/paragraph/5) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-813a20f315a585a1dcde60f3e38605ee]: Commencement: [Sch. 1 Pt. II para. 5](https://www.legislation.gov.uk/nisr/2000/84/schedule/1/part/II/paragraph/5) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-4167811a9f9a08cbf1e936fa63bec20d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2000/84/schedule/2/paragraph/1) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-4167811a9f9a08cbf1e936fa63bec20d]: Commencement: [Sch. 2 para. 1](https://www.legislation.gov.uk/nisr/2000/84/schedule/2/paragraph/1) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
 [^f00013]: Footnote: [S.I. 1985/170 (N.I. 1)](https://www.legislation.gov.uk/nisi/1985/170)
 
@@ -805,20 +805,20 @@ These Regulations restate the provisions in the 1998 Regulations with revisions 
 
 [^f00016]: Footnote: [S.R. 1995 No. 380](https://www.legislation.gov.uk/nisr/1995/380)
 
-[^key-fe94597f94736dffb7858760f5a4924e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2000/84/schedule/2/paragraph/2) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-fe94597f94736dffb7858760f5a4924e]: Commencement: [Sch. 2 para. 2](https://www.legislation.gov.uk/nisr/2000/84/schedule/2/paragraph/2) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-e63750762db6e4a49434f086bcf353f8]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2000/84/schedule/2/paragraph/3) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-e63750762db6e4a49434f086bcf353f8]: Commencement: [Sch. 2 para. 3](https://www.legislation.gov.uk/nisr/2000/84/schedule/2/paragraph/3) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-15b6c19ef6705773866bd97ac2bd2303]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2000/84/schedule/2/paragraph/4) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-15b6c19ef6705773866bd97ac2bd2303]: Commencement: [Sch. 2 para. 4](https://www.legislation.gov.uk/nisr/2000/84/schedule/2/paragraph/4) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-870a747f9c5e49c076c7c2564cfcb03d]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2000/84/schedule/3/paragraph/1) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-870a747f9c5e49c076c7c2564cfcb03d]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/nisr/2000/84/schedule/3/paragraph/1) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-aa70970ac16aa02525eead57515e8c3c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2000/84/schedule/3/paragraph/2) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-aa70970ac16aa02525eead57515e8c3c]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/nisr/2000/84/schedule/3/paragraph/2) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
 [^f00017]: Footnote: O.J. No. L103, 25.4.79, p. 1
 
 [^f00018]: Footnote: O.J. No. L206, 22.7.92, p. 7
 
-[^key-757e553b32c3c91ef5d8ebe99a0d2240]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2000/84/schedule/3/paragraph/3) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-757e553b32c3c91ef5d8ebe99a0d2240]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/nisr/2000/84/schedule/3/paragraph/3) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
 
-[^key-29a9a524cb6a1aa633ec7bcc34605ed4]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2000/84/schedule/4) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)
+[^c-29a9a524cb6a1aa633ec7bcc34605ed4]: Commencement: [Sch. 4](https://www.legislation.gov.uk/nisr/2000/84/schedule/4) in operation at 1.5.2000, see [reg. 1](https://www.legislation.gov.uk/nisr/2000/84/regulation/1)

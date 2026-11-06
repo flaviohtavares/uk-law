@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 61. Designated persons[^key-e3d86e451cb7c46bce5e21bd7b606dd4]
+## 61. Designated persons[^c-e3d86e451cb7c46bce5e21bd7b606dd4]
 
 *Extent: E+W*
 
@@ -47,4 +47,4 @@ After section 21F of the Local Government Act 2000 insert—
 
 ## Annotations
 
-[^key-e3d86e451cb7c46bce5e21bd7b606dd4]: Commencement: [S. 61](https://www.legislation.gov.uk/mwa/2011/4/section/61) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/e)
+[^c-e3d86e451cb7c46bce5e21bd7b606dd4]: Commencement: [S. 61](https://www.legislation.gov.uk/mwa/2011/4/section/61) in force at 30.4.2012 by [S.I. 2012/1187](https://www.legislation.gov.uk/wsi/2012/1187), [art. 2(1)(e)](https://www.legislation.gov.uk/wsi/2012/1187/article/2/1/e)

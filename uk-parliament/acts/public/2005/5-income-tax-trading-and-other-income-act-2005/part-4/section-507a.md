@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 507A. Recalculating gains under section 507[^key-414fb5716c71c60331da3e2f4fe85dbf]
+## 507A. Recalculating gains under section 507[^c-414fb5716c71c60331da3e2f4fe85dbf]
 
 *Extent: E+W+S+N.I.*
 
@@ -59,4 +59,4 @@ summary: ''
 
 ## Annotations
 
-[^key-414fb5716c71c60331da3e2f4fe85dbf]: Textual amendment: [S. 507A](https://www.legislation.gov.uk/ukpga/2005/5/section/507A) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/9/2)
+[^c-414fb5716c71c60331da3e2f4fe85dbf]: Textual amendment: [S. 507A](https://www.legislation.gov.uk/ukpga/2005/5/section/507A) inserted (16.11.2017) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 9(2)](https://www.legislation.gov.uk/ukpga/2017/32/section/9/2)

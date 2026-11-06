@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## SCHEDULE 17 — REVOCATIONS[^key-e0f0a71a89d4e7bed813641aafec863b]
+## SCHEDULE 17 — REVOCATIONS[^c-e0f0a71a89d4e7bed813641aafec863b]
 
 *Extent: N.I.*
 
@@ -46,4 +46,4 @@ Table of revoked regulations
 
 ## Annotations
 
-[^key-e0f0a71a89d4e7bed813641aafec863b]: Commencement: Sch. 17 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)
+[^c-e0f0a71a89d4e7bed813641aafec863b]: Commencement: Sch. 17 in operation at 20.6.2013, see [reg. 1](https://www.legislation.gov.uk/nisr/2013/160/regulation/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 30. Temporary use of land[^key-698e04847250f8ae22de61849abb2b82]
+## 30. Temporary use of land[^c-698e04847250f8ae22de61849abb2b82]
 
 *Extent: E+W*
 
@@ -77,4 +77,4 @@ summary: ''
 
 ## Annotations
 
-[^key-698e04847250f8ae22de61849abb2b82]: Commencement: Art. 30 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)
+[^c-698e04847250f8ae22de61849abb2b82]: Commencement: Art. 30 in force at 10.8.2016, see [art. 1](https://www.legislation.gov.uk/uksi/2016/772/article/1)

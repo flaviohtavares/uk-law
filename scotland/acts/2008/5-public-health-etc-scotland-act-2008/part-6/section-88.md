@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 88. Provision of mortuaries by health boards[^key-8c12e3c795e09811e0dddde9cf45f126]
+## 88. Provision of mortuaries by health boards[^c-8c12e3c795e09811e0dddde9cf45f126]
 
 *Extent: S*
 
@@ -38,4 +38,4 @@ as it considers appropriate.
 
 ## Annotations
 
-[^key-8c12e3c795e09811e0dddde9cf45f126]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2008/5/section/88) in force at 1.4.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)
+[^c-8c12e3c795e09811e0dddde9cf45f126]: Commencement: [S. 88](https://www.legislation.gov.uk/asp/2008/5/section/88) in force at 1.4.2009 by [S.S.I. 2009/9](https://www.legislation.gov.uk/ssi/2009/9), [art. 2(b)](https://www.legislation.gov.uk/ssi/2009/9/article/2/b), [Sch. 2](https://www.legislation.gov.uk/ssi/2009/9/schedule/2)

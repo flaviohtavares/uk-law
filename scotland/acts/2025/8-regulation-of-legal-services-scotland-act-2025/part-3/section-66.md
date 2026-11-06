@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 66. Conduct or regulatory complaint raised by relevant professional organisation[^key-494db1fa16671ac017b179bd2efd0636]
+## 66. Conduct or regulatory complaint raised by relevant professional organisation[^c-494db1fa16671ac017b179bd2efd0636]
 
 *Extent: S*
 
@@ -92,4 +92,4 @@ summary: ''
 
 ## Annotations
 
-[^key-494db1fa16671ac017b179bd2efd0636]: Commencement: S. 66 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)
+[^c-494db1fa16671ac017b179bd2efd0636]: Commencement: S. 66 not in force at Royal Assent, see [s. 103(3)](https://www.legislation.gov.uk/asp/2025/8/section/103/3)

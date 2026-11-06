@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 24. Class C: persons who are not pensioners whose income is less than the applicable amount[^key-8fd9636b64f15bcc4710e363f4efca4f]
+## 24. Class C: persons who are not pensioners whose income is less than the applicable amount[^c-8fd9636b64f15bcc4710e363f4efca4f]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ On any day class C consists of any person who is not a pensioner—
 
 ## Annotations
 
-[^key-8fd9636b64f15bcc4710e363f4efca4f]: Commencement: Reg. 24 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)
+[^c-8fd9636b64f15bcc4710e363f4efca4f]: Commencement: Reg. 24 in force at 28.11.2013, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2013/3029/regulation/1/2)

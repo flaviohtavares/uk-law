@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 320C. Recommended medical treatment[^key-bc107d1cff4a08e81c1134c48d4f5c15]
+## 320C. Recommended medical treatment[^c-bc107d1cff4a08e81c1134c48d4f5c15]
 
 *Extent: E+W+S+N.I.*
 
@@ -60,4 +60,4 @@ in respect of which subsection (1) would prevent liability to income tax from ar
 
 ## Annotations
 
-[^key-bc107d1cff4a08e81c1134c48d4f5c15]: Textual amendment: S. 320C and cross-heading inserted (1.1.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/12/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/12/4); [S.I. 2014/3226](https://www.legislation.gov.uk/uksi/2014/3226), [art. 2](https://www.legislation.gov.uk/uksi/2014/3226/article/2)
+[^c-bc107d1cff4a08e81c1134c48d4f5c15]: Textual amendment: S. 320C and cross-heading inserted (1.1.2015) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 12(2)](https://www.legislation.gov.uk/ukpga/2014/26/section/12/2)[(4)](https://www.legislation.gov.uk/ukpga/2014/26/section/12/4); [S.I. 2014/3226](https://www.legislation.gov.uk/uksi/2014/3226), [art. 2](https://www.legislation.gov.uk/uksi/2014/3226/article/2)

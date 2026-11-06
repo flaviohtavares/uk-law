@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 115. Penalty for failure to supply copies of pledge agreement, etc.[^key-0c9205889542cc9393e271171d23b54d]
+## 115. Penalty for failure to supply copies of pledge agreement, etc.[^c-0c9205889542cc9393e271171d23b54d]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-0c9205889542cc9393e271171d23b54d]: Textual amendment: S. 115 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(37)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/37)
+[^c-0c9205889542cc9393e271171d23b54d]: Textual amendment: S. 115 omitted (26.7.2013 for specified purposes, 1.4.2014 in so far as not already in force) by virtue of [The Financial Services and Markets Act 2000 (Regulated Activities) (Amendment) (No.2) Order 2013 (S.I. 2013/1881)](https://www.legislation.gov.uk/uksi/2013/1881), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/2)[(6)](https://www.legislation.gov.uk/uksi/2013/1881/article/1/6), [20(37)](https://www.legislation.gov.uk/uksi/2013/1881/article/20/37)

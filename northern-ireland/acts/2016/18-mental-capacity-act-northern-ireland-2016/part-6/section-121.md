@@ -43,7 +43,7 @@ so far as the record relates to P.
 - “**court record**” means documentation held by the court relating to the proceedings mentioned in subsection (1);
 - “**relevant record**” means a record relating to P's care, treatment or personal welfare which is a record of or held by—
   - (a) an HSC trust;
-  - (b) [^key-d9bec9a671d0cb8978ccb496b19eef67]...
+  - (b) [^c-d9bec9a671d0cb8978ccb496b19eef67]...
   - (c) RQIA;
   - (d) a Northern Ireland department or its employees or agents;
   - (e) the managing authority of an independent hospital; or
@@ -51,4 +51,4 @@ so far as the record relates to P.
 
 ## Annotations
 
-[^key-d9bec9a671d0cb8978ccb496b19eef67]: Textual amendment: Words in [s. 121(6)](https://www.legislation.gov.uk/nia/2016/18/section/121/6) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 252(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)
+[^c-d9bec9a671d0cb8978ccb496b19eef67]: Textual amendment: Words in [s. 121(6)](https://www.legislation.gov.uk/nia/2016/18/section/121/6) omitted (1.4.2022) by virtue of [Health and Social Care Act (Northern Ireland) 2022 (c. 3)](https://www.legislation.gov.uk/nia/2022/3), [s. 8(1)(b)](https://www.legislation.gov.uk/nia/2022/3/section/8/1/b), [Sch. 1 para. 252(3)](https://www.legislation.gov.uk/nia/2022/3/schedule/1/paragraph/252/3); [S.R. 2022/102](https://www.legislation.gov.uk/nisr/2022/102), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/102/article/2/b)

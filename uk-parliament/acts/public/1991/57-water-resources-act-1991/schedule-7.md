@@ -38,7 +38,7 @@ but for the purposes of any such application or appeal any reference in those pa
 
 (3) For the purposes of this paragraph an application for the grant of a licence by virtue of paragraph 30 or 31 of Schedule 26 to the Water Act 1989 above shall be taken to be disposed of on (but not before) the occurrence of whichever of the following events last occurs, that is to say—
 
-- (a) the grant, on the determination of the application by the appropriate agency[^key-764aca2b77b38266efff3da786a3ccb2], of a licence the provisions of which are in accordance with the proposals contained in the application;
+- (a) the grant, on the determination of the application by the appropriate agency[^c-764aca2b77b38266efff3da786a3ccb2], of a licence the provisions of which are in accordance with the proposals contained in the application;
 - (b) the expiration, without a notice of appeal having been given, of the period (if any) within which the applicant is entitled to give notice of appeal against the decision on the application;
 - (c) the determination or withdrawal of an appeal against that decision;
 - (d) the grant, variation or revocation, in compliance with a direction given by the Secretary of State in consequence of such an appeal, of any licence;
@@ -57,7 +57,7 @@ and in this sub-paragraph any reference to a decision includes a reference to a 
 
 ### Section 60 of this Act
 
-**4.** (1) Where the plaintiff in any action brought against the appropriate agency[^key-8ae988c854f87220082307f45a6c775e] in pursuance of section 60 of this Act (liability of the appropriate agency for derogation from protected right) is entitled to a protected right for the purposes of Chapter II of Part II of this Act by reason only that he is the holder of, or has applied for, a licence of right, it shall be a defence for the appropriate agency to prove—
+**4.** (1) Where the plaintiff in any action brought against the appropriate agency[^c-8ae988c854f87220082307f45a6c775e] in pursuance of section 60 of this Act (liability of the appropriate agency for derogation from protected right) is entitled to a protected right for the purposes of Chapter II of Part II of this Act by reason only that he is the holder of, or has applied for, a licence of right, it shall be a defence for the appropriate agency to prove—
 
 - (a) that the plaintiff could have carried out permissible alterations in the means whereby he abstracted water from the source of supply in question; and
 - (b) that, if he had carried out such alterations, the abstraction or, as the case may be, the obstruction or impeding of the flow of the inland waters authorised by the licence to which the action relates would not have derogated from his protected right for the purposes of that Chapter;
@@ -94,11 +94,11 @@ and subsection (3) of that section (liability of appropriate agency for complian
 
 [^c18744851]: Marginal citation: [1965 c. 36](https://www.legislation.gov.uk/ukpga/1965/36).
 
-[^key-764aca2b77b38266efff3da786a3ccb2]: Textual amendment: Words in [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/7/paragraph/1/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 309](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/309) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-764aca2b77b38266efff3da786a3ccb2]: Textual amendment: Words in [Sch. 7 para. 1(3)](https://www.legislation.gov.uk/ukpga/1991/57/schedule/7/paragraph/1/3) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 309](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/309) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18744881]: Marginal citation: [1963 c. 38](https://www.legislation.gov.uk/ukpga/1963/38).
 
-[^key-8ae988c854f87220082307f45a6c775e]: Textual amendment: Words in [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/1991/57/schedule/7/paragraph/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 309](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/309) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-8ae988c854f87220082307f45a6c775e]: Textual amendment: Words in [Sch. 7 para. 4](https://www.legislation.gov.uk/ukpga/1991/57/schedule/7/paragraph/4) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 2 para. 309](https://www.legislation.gov.uk/wsi/2013/755/schedule/2/paragraph/309) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^c18744941]: Marginal citation: [1989 c. 15](https://www.legislation.gov.uk/ukpga/1989/15).
 

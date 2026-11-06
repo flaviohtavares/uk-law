@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 82. Provisions for payment or remission of amount recoverable under section 80.[^key-60f452272924a1d87eb096874383a4ee]
+## 82. Provisions for payment or remission of amount recoverable under section 80.[^c-60f452272924a1d87eb096874383a4ee]
 
 *Extent: S*
 
@@ -33,4 +33,4 @@ any deduction to be made under subsection (2) shall be a deduction of such amoun
 
 ## Annotations
 
-[^key-60f452272924a1d87eb096874383a4ee]: Modification: [S. 82](https://www.legislation.gov.uk/ukpga/1997/8/section/82) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 47(4)](https://www.legislation.gov.uk/ukpga/2018/5/section/47/4), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 83](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/83) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))
+[^c-60f452272924a1d87eb096874383a4ee]: Modification: [S. 82](https://www.legislation.gov.uk/ukpga/1997/8/section/82) applied (29.7.2021) by [Space Industry Act 2018 (c. 5)](https://www.legislation.gov.uk/ukpga/2018/5), [ss. 47(4)](https://www.legislation.gov.uk/ukpga/2018/5/section/47/4), [70(1)](https://www.legislation.gov.uk/ukpga/2018/5/section/70/1); [S.I. 2021/817](https://www.legislation.gov.uk/uksi/2021/817), [reg. 2](https://www.legislation.gov.uk/uksi/2021/817/regulation/2), [Sch. para. 83](https://www.legislation.gov.uk/uksi/2021/817/schedule/paragraph/83) (with [reg. 3](https://www.legislation.gov.uk/uksi/2021/817/regulation/3))

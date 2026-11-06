@@ -66,12 +66,12 @@ summary: ''
 - “woman” means a woman who has attained the age of eighteen years;
 - “young person” means a person who is over compulsory school age but has not attained the age of eighteen years.
 
-(2)[^key-550c7022afe1ee5a2079deccf1b65233] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-550c7022afe1ee5a2079deccf1b65233] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) For the purposes of this Act—
 
-- (a)[^key-ec1ad6c08d031d2a32f01a3d9231f0ed] a mine shall be treated as being worked at any time when there are persons at work below ground or plant or equipment is in operation at the mine to maintain the safety of that mine or of any other mine or the operation of driving a shaft or outlet is being undertaken at the mine.
-- (b)[^key-545e490461a1c57d297346e7f4e6c043] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (a)[^c-ec1ad6c08d031d2a32f01a3d9231f0ed] a mine shall be treated as being worked at any time when there are persons at work below ground or plant or equipment is in operation at the mine to maintain the safety of that mine or of any other mine or the operation of driving a shaft or outlet is being undertaken at the mine.
+- (b)[^c-545e490461a1c57d297346e7f4e6c043] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) References in this Act to the use of safety-lamps by way of temporary precaution shall, in relation to a mine, be construed as references to the occasional or intermittent use of locked safety-lamps by workmen employed below ground in the mine in a place in which the use of naked lights might be dangerous and, in relation to a part of a mine below ground, be construed as references to the occasional or intermittent use of locked safety-lamps by workmen employed in that part in such a place.
 
@@ -91,8 +91,8 @@ summary: ''
 
 [^c5453831]: Textual amendment: SR 1991/13
 
-[^key-550c7022afe1ee5a2079deccf1b65233]: Textual amendment: [S. 158(2)](https://www.legislation.gov.uk/apni/1969/6/section/158/2) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-550c7022afe1ee5a2079deccf1b65233]: Textual amendment: [S. 158(2)](https://www.legislation.gov.uk/apni/1969/6/section/158/2) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
 
-[^key-ec1ad6c08d031d2a32f01a3d9231f0ed]: Textual amendment: [S. 158(3)(a)](https://www.legislation.gov.uk/apni/1969/6/section/158/3/a) substituted (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 5 para. 1(b)](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/1/b)
+[^c-ec1ad6c08d031d2a32f01a3d9231f0ed]: Textual amendment: [S. 158(3)(a)](https://www.legislation.gov.uk/apni/1969/6/section/158/3/a) substituted (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 5 para. 1(b)](https://www.legislation.gov.uk/nisr/2016/427/schedule/5/paragraph/1/b)
 
-[^key-545e490461a1c57d297346e7f4e6c043]: Textual amendment: [S. 158(3)(b)](https://www.legislation.gov.uk/apni/1969/6/section/158/3/b) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)
+[^c-545e490461a1c57d297346e7f4e6c043]: Textual amendment: [S. 158(3)(b)](https://www.legislation.gov.uk/apni/1969/6/section/158/3/b) repealed (1.2.2017) by [The Mines Regulations (Northern Ireland) 2016 (S.R. 2016/427)](https://www.legislation.gov.uk/nisr/2016/427), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2016/427/regulation/1/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2016/427/schedule/3)

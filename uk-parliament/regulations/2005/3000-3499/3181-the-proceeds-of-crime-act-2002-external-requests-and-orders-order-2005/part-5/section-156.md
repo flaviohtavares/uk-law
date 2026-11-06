@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 156. Supervision of interim receiver and variation of order[^key-e20b87bc650fc38c182ac5dd1b537e56]
+## 156. Supervision of interim receiver and variation of order[^c-e20b87bc650fc38c182ac5dd1b537e56]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e20b87bc650fc38c182ac5dd1b537e56]: Commencement: [Art. 156](https://www.legislation.gov.uk/uksi/2005/3181/article/156) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)
+[^c-e20b87bc650fc38c182ac5dd1b537e56]: Commencement: [Art. 156](https://www.legislation.gov.uk/uksi/2005/3181/article/156) in force at 1.1.2006, see [art. 1](https://www.legislation.gov.uk/uksi/2005/3181/article/1)

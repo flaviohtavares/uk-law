@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 31. Descriptions of partial retirement pension[^key-bf11fb40f78f15402e9d753f0702561c]
+## 31. Descriptions of partial retirement pension[^c-bf11fb40f78f15402e9d753f0702561c]
 
 *Extent: N.I.*
 
@@ -30,4 +30,4 @@ For the purpose of these Regulations, the descriptions of partial retirement pen
 
 ## Annotations
 
-[^key-bf11fb40f78f15402e9d753f0702561c]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2014/290/regulation/31) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-bf11fb40f78f15402e9d753f0702561c]: Commencement: [Reg. 31](https://www.legislation.gov.uk/nisr/2014/290/regulation/31) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

@@ -40,17 +40,17 @@ summary: ''
 (3) In exercising the function under subsection (1) the Authority shall have regard to the desirability of consulting and cooperating with—
 
 - (a) the Secretary of State,
-- (aa)[^key-c069f0547f52fa4bcb0d00a97203d0da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (aa)[^c-c069f0547f52fa4bcb0d00a97203d0da] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (b) the British Olympic Association,
 - (c) the London Organising Committee, and
 - (d) other persons with experience or knowledge which might be useful in relation to preparing for or managing the London Olympics.
 
 (4) In exercising the function under subsection (1) the Authority shall have regard to the desirability of maximising the benefits to be derived after the London Olympics from things done in preparation for them.
 
-(5)[^key-fe34b5cab8d2083444fcdd735bdb6cb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-fe34b5cab8d2083444fcdd735bdb6cb3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-c069f0547f52fa4bcb0d00a97203d0da]: Textual amendment: S. 34(3)(aa) omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/8/2)
+[^c-c069f0547f52fa4bcb0d00a97203d0da]: Textual amendment: S. 34(3)(aa) omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 8(2)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/8/2)
 
-[^key-fe34b5cab8d2083444fcdd735bdb6cb3]: Textual amendment: [S. 34(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/34/5) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)
+[^c-fe34b5cab8d2083444fcdd735bdb6cb3]: Textual amendment: [S. 34(5)](https://www.legislation.gov.uk/ukpga/2006/12/section/34/5) repealed (31.3.2012) by [Localism Act 2011 (c. 20)](https://www.legislation.gov.uk/ukpga/2011/20), [s. 240(2)](https://www.legislation.gov.uk/ukpga/2011/20/section/240/2), [Sch. 25 Pt. 32](https://www.legislation.gov.uk/ukpga/2011/20/schedule/25/part/32); [S.I. 2012/628](https://www.legislation.gov.uk/uksi/2012/628), [art. 4(d)](https://www.legislation.gov.uk/uksi/2012/628/article/4/d)

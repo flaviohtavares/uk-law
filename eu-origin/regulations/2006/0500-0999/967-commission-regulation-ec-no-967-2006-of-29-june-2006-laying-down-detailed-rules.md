@@ -38,122 +38,122 @@ of 29 June 2006
 
 laying down detailed rules for the application of Council Regulation (EC) No 318/2006 as regards sugar production in excess of the quota (revoked)
 
-[^key-80b8a7b1cd8f8543f077b47245babbcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-80b8a7b1cd8f8543f077b47245babbcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## CHAPTER I — SCOPE AND DEFINITIONS[^key-80b8a7b1cd8f8543f077b47245babbcd]
+## CHAPTER I — SCOPE AND DEFINITIONS[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
-### Article 1. Scope[^key-80b8a7b1cd8f8543f077b47245babbcd]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### Article 2. Definitions[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 1. Scope[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER II — LEVY[^key-80b8a7b1cd8f8543f077b47245babbcd]
-
-### Article 3. Amount[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 2. Definitions[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 4. Surplus subject to levy[^key-80b8a7b1cd8f8543f077b47245babbcd]
+## CHAPTER II — LEVY[^c-80b8a7b1cd8f8543f077b47245babbcd]
+
+### Article 3. Amount[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER III — INDUSTRIAL USE[^key-80b8a7b1cd8f8543f077b47245babbcd]
-
-### Article 5. Approvals[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 4. Surplus subject to levy[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 6. Delivery contracts[^key-80b8a7b1cd8f8543f077b47245babbcd]
+## CHAPTER III — INDUSTRIAL USE[^c-80b8a7b1cd8f8543f077b47245babbcd]
+
+### Article 5. Approvals[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 7. Equivalence[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 6. Delivery contracts[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 8. Delivery of raw materials[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 7. Equivalence[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 9. Obligations on processors[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 8. Delivery of raw materials[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 10. Communications from the Member States[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 9. Obligations on processors[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 11. Processor’s records[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 10. Communications from the Member States[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 12. Checks on processors[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 11. Processor’s records[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 13. Penalties[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 12. Checks on processors[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER IV — CARRY FORWARD[^key-80b8a7b1cd8f8543f077b47245babbcd]
-
-### Article 14. Quantities carried forward[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 13. Penalties[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 15. Carry-forward of sugar[^key-80b8a7b1cd8f8543f077b47245babbcd]
+## CHAPTER IV — CARRY FORWARD[^c-80b8a7b1cd8f8543f077b47245babbcd]
+
+### Article 14. Quantities carried forward[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 16. Carry-forward of isoglucose[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 15. Carry-forward of sugar[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 17. Communications from the Member States[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 16. Carry-forward of isoglucose[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER V — SPECIFIC SUPPLY ARRANGEMENTS AND EXPORT[^key-80b8a7b1cd8f8543f077b47245babbcd]
-
-### Article 18. Outermost regions[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 17. Communications from the Member States[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 19. Export[^key-80b8a7b1cd8f8543f077b47245babbcd]
+## CHAPTER V — SPECIFIC SUPPLY ARRANGEMENTS AND EXPORT[^c-80b8a7b1cd8f8543f077b47245babbcd]
+
+### Article 18. Outermost regions[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## CHAPTER VI — GENERAL AND FINAL PROVISIONS[^key-80b8a7b1cd8f8543f077b47245babbcd]
-
-### Article 20. Exchange rate[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 19. Export[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 21. Checks and national implementing measures[^key-80b8a7b1cd8f8543f077b47245babbcd]
+## CHAPTER VI — GENERAL AND FINAL PROVISIONS[^c-80b8a7b1cd8f8543f077b47245babbcd]
+
+### Article 20. Exchange rate[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 22. Repeal[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 21. Checks and national implementing measures[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### Article 23. Entry into force[^key-80b8a7b1cd8f8543f077b47245babbcd]
+### Article 22. Repeal[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-80b8a7b1cd8f8543f077b47245babbcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+### Article 23. Entry into force[^c-80b8a7b1cd8f8543f077b47245babbcd]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-80b8a7b1cd8f8543f077b47245babbcd]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX[^key-80b8a7b1cd8f8543f077b47245babbcd]
+## ANNEX[^c-80b8a7b1cd8f8543f077b47245babbcd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-80b8a7b1cd8f8543f077b47245babbcd]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-80b8a7b1cd8f8543f077b47245babbcd]: Textual amendment: Regulation revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 2](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/2) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Minor definitions etc[^key-c12f8e1b6f7c82d59b66dbfc9305fb1b]
+## 92. Minor definitions etc[^c-c12f8e1b6f7c82d59b66dbfc9305fb1b]
 
 *Extent: E+W*
 
@@ -54,4 +54,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c12f8e1b6f7c82d59b66dbfc9305fb1b]: Commencement: S. 92 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)
+[^c-c12f8e1b6f7c82d59b66dbfc9305fb1b]: Commencement: S. 92 in force at Royal Assent, see [s. 100(2)(d)](https://www.legislation.gov.uk/ukpga/2025/21/section/100/2/d)

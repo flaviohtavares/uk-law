@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 6. Limits of variation[^key-7a33dda06d17d953d69afb8cd5e86632]
+## 6. Limits of variation[^c-7a33dda06d17d953d69afb8cd5e86632]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ For the purposes of section 74, the limits of variation in relation to any misst
 
 ## Annotations
 
-[^key-7a33dda06d17d953d69afb8cd5e86632]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1991/2197/regulation/6) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)
+[^c-7a33dda06d17d953d69afb8cd5e86632]: Commencement: [Reg. 6](https://www.legislation.gov.uk/uksi/1991/2197/regulation/6) in force at 1.11.1991, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1991/2197/regulation/1/1)

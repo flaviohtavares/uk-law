@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W*
 
-(1) Subject to subsection (2) below, where any person is liable under a special enactment or by reason of tenure, enclosure or prescription to maintain a highway, the Minister or a strategic highways company, whichever is the highway authority[^key-e2220f6e3e854eced8dbbaaade9bc9c5], in the case of a trunk road, or a local highway authority, in any other case, may agree with that person to undertake the maintenance of that highway; and where an agreement is made under this subsection the highway to which the agreement relates shall, on such date as may be specified in the agreement, become for the purposes of this Act a highway maintainable at the public expense and the liability of that person to maintain the highway shall be extinguished.
+(1) Subject to subsection (2) below, where any person is liable under a special enactment or by reason of tenure, enclosure or prescription to maintain a highway, the Minister or a strategic highways company, whichever is the highway authority[^c-e2220f6e3e854eced8dbbaaade9bc9c5], in the case of a trunk road, or a local highway authority, in any other case, may agree with that person to undertake the maintenance of that highway; and where an agreement is made under this subsection the highway to which the agreement relates shall, on such date as may be specified in the agreement, become for the purposes of this Act a highway maintainable at the public expense and the liability of that person to maintain the highway shall be extinguished.
 
 (2) A local highway authority shall not have power to make an agreement under subsection (1) above with respect to a highway with respect to which they or any other highway authority have power to make an agreement under Part V or Part XII of this Act.
 
@@ -46,7 +46,7 @@ and which the Minister proposes should become a trunk road; and where an agreeme
 
 ## Annotations
 
-[^key-e2220f6e3e854eced8dbbaaade9bc9c5]: Textual amendment: Words in [s. 38(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/38/1) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/19); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
+[^c-e2220f6e3e854eced8dbbaaade9bc9c5]: Textual amendment: Words in [s. 38(1)](https://www.legislation.gov.uk/ukpga/1980/66/section/38/1) inserted (5.3.2015) by [Infrastructure Act 2015 (c. 7)](https://www.legislation.gov.uk/ukpga/2015/7), [s. 57(1)](https://www.legislation.gov.uk/ukpga/2015/7/section/57/1), [Sch. 1 para. 19](https://www.legislation.gov.uk/ukpga/2015/7/schedule/1/paragraph/19); [S.I. 2015/481](https://www.legislation.gov.uk/uksi/2015/481), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2015/481/regulation/2/a)
 
 [^c13420361]: Textual amendment: S. 38(3)(3A) substituted (01.11.1991) for s. 38(3) by [New Roads and Street Works Act 1991 (c. 22, SIF 59, 108)](https://www.legislation.gov.uk/ukpga/1991/22), [s. 22(1)](https://www.legislation.gov.uk/ukpga/1991/22/section/22/1); [S.I. 1991/2288](https://www.legislation.gov.uk/uksi/1991/2288), [art. 3](https://www.legislation.gov.uk/uksi/1991/2288/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1991/2288/schedule)
 

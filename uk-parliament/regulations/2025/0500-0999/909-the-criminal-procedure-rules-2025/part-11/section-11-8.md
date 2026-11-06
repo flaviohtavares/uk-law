@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 11.8. Notice to discontinue prosecution[^key-2c4543cff4339a2b01abe26053865bc4]
+## 11.8. Notice to discontinue prosecution[^c-2c4543cff4339a2b01abe26053865bc4]
 
 *Extent: E+W*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2c4543cff4339a2b01abe26053865bc4]: Commencement: [Rule 11.8](https://www.legislation.gov.uk/uksi/2025/909/rule/11.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)
+[^c-2c4543cff4339a2b01abe26053865bc4]: Commencement: [Rule 11.8](https://www.legislation.gov.uk/uksi/2025/909/rule/11.8) in force at 6.10.2025, see [Preamble](https://www.legislation.gov.uk/uksi/2025/909/introduction)

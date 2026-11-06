@@ -20,7 +20,7 @@ summary: ''
 
 (2) A designated electricity supplier may discharge up to 25 per cent of its renewables obligation in respect of an obligation period by producing to the Authority renewables obligation certificates relating to electricity supplied in the immediately preceding obligation period.
 
-(3)[^key-4c881eee19b5d9a91cbf69d434a48ac4] Subject to paragraph (4), no more than 4 per cent of a designated electricity supplier’s renewables obligation may be satisfied by the production of renewables obligation certificates issued in respect of electricity generated from bioliquid.
+(3)[^c-4c881eee19b5d9a91cbf69d434a48ac4] Subject to paragraph (4), no more than 4 per cent of a designated electricity supplier’s renewables obligation may be satisfied by the production of renewables obligation certificates issued in respect of electricity generated from bioliquid.
 
 (4) The limit set out in paragraph (3) does not apply to the production of renewables obligation certificates issued in respect of electricity—
 
@@ -32,10 +32,10 @@ summary: ''
 
 (7) A designated electricity supplier must not produce to the Authority a renewables obligation certificate which has previously been or is produced to the Northern Ireland authority under a NIRO Order.
 
-(8)[^key-5cca121a30ea011ba0cdf3a565e30f1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(8)[^c-5cca121a30ea011ba0cdf3a565e30f1d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4c881eee19b5d9a91cbf69d434a48ac4]: Textual amendment: Art. 13(3)(4) substituted for art. 13(3)-(6) (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2013/116/article/5/2) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-4c881eee19b5d9a91cbf69d434a48ac4]: Textual amendment: Art. 13(3)(4) substituted for art. 13(3)-(6) (1.4.2013) by [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [5(2)](https://www.legislation.gov.uk/ssi/2013/116/article/5/2) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
 
-[^key-5cca121a30ea011ba0cdf3a565e30f1d]: Textual amendment: Art. 13(8) omitted (1.4.2013) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2013/116/article/5/3) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))
+[^c-5cca121a30ea011ba0cdf3a565e30f1d]: Textual amendment: Art. 13(8) omitted (1.4.2013) by virtue of [The Renewables Obligation (Scotland) Amendment Order 2013 (S.S.I. 2013/116)](https://www.legislation.gov.uk/ssi/2013/116), [arts. 1(1)](https://www.legislation.gov.uk/ssi/2013/116/article/1/1), [5(3)](https://www.legislation.gov.uk/ssi/2013/116/article/5/3) (with [art. 29](https://www.legislation.gov.uk/ssi/2013/116/article/29))

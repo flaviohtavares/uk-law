@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 28. Railway undertakings[^key-dba75af0e7b261c40de4a9a97be8e9e8]
+## 28. Railway undertakings[^c-dba75af0e7b261c40de4a9a97be8e9e8]
 
 *Extent: E+W+S*
 
@@ -33,4 +33,4 @@ except with the consent of the undertakers or, as the case may be, of the person
 
 ## Annotations
 
-[^key-dba75af0e7b261c40de4a9a97be8e9e8]: Commencement: Art. 28 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-dba75af0e7b261c40de4a9a97be8e9e8]: Commencement: Art. 28 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)

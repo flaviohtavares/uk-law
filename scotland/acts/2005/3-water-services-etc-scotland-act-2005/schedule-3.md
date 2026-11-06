@@ -22,7 +22,7 @@ summary: ''
 
 (introduced by section 21(6))
 
-**1.**[^key-c712db727d12fa7b81c0de4d4ad74119] (1) In this schedule, a “**relevant agreement**” is an agreement—
+**1.**[^c-c712db727d12fa7b81c0de4d4ad74119] (1) In this schedule, a “**relevant agreement**” is an agreement—
 
 - (a) between Scottish Water and another person (a “**relevant customer**”) in respect of eligible premises (within the meaning of Part 2)—
   - (i) by virtue of any of the provisions referred to in sub-paragraph (3) or otherwise; and
@@ -39,7 +39,7 @@ summary: ''
 - (a) sections 29(2)(b) and (4) and 31(6) of the 2002 Act (as they had effect immediately before their repeal by this Act);
 - (b) section 29(3)(j) of the 1968 Act (as it had effect immediately before its repeal by this Act).
 
-**2.**[^key-df2caa432e6d6cfca45a5629d46ab012] (1) Scottish Water must, within one month of the coming into force of this schedule, send to the Commission written details of every relevant agreement.
+**2.**[^c-df2caa432e6d6cfca45a5629d46ab012] (1) Scottish Water must, within one month of the coming into force of this schedule, send to the Commission written details of every relevant agreement.
 
 (2) The Commission must, following receipt of those details, in each case—
 
@@ -82,7 +82,7 @@ is to be borne by Scottish Water.
 
 to demand and recover relevant charges from the relevant customer for services provided by it to the customer.
 
-**3.**[^key-4d0119dde63e8c3dec85a01bf474e9f7] (1) A charges scheme does not apply in relation to any services to which relevant charges apply except where the relevant agreement concerned expires or is terminated.
+**3.**[^c-4d0119dde63e8c3dec85a01bf474e9f7] (1) A charges scheme does not apply in relation to any services to which relevant charges apply except where the relevant agreement concerned expires or is terminated.
 
 (2) For the purposes of sub-paragraph (1), the making of arrangements by a water services or sewerage services provider for the provision of any services to which relevant charges apply does not of itself cause the relevant agreement concerned to expire or terminate.
 
@@ -90,8 +90,8 @@ to demand and recover relevant charges from the relevant customer for services p
 
 ## Annotations
 
-[^key-c712db727d12fa7b81c0de4d4ad74119]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asp/2005/3/schedule/3/paragraph/1) in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-c712db727d12fa7b81c0de4d4ad74119]: Commencement: [Sch. 3 para. 1](https://www.legislation.gov.uk/asp/2005/3/schedule/3/paragraph/1) in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
 
-[^key-df2caa432e6d6cfca45a5629d46ab012]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2005/3/schedule/3/paragraph/2) in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-df2caa432e6d6cfca45a5629d46ab012]: Commencement: [Sch. 3 para. 2](https://www.legislation.gov.uk/asp/2005/3/schedule/3/paragraph/2) in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
 
-[^key-4d0119dde63e8c3dec85a01bf474e9f7]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2005/3/schedule/3/paragraph/3) in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)
+[^c-4d0119dde63e8c3dec85a01bf474e9f7]: Commencement: [Sch. 3 para. 3](https://www.legislation.gov.uk/asp/2005/3/schedule/3/paragraph/3) in force at 1.7.2005 by [S.S.I. 2005/351](https://www.legislation.gov.uk/ssi/2005/351), [art. 2](https://www.legislation.gov.uk/ssi/2005/351/article/2), [Sch. 2](https://www.legislation.gov.uk/ssi/2005/351/schedule/2)

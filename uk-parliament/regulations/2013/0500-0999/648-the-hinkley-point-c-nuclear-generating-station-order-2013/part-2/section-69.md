@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 69. Byelaws[^key-5c5dd52b9f5270cb328d553f40f6d501]
+## 69. Byelaws[^c-5c5dd52b9f5270cb328d553f40f6d501]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5c5dd52b9f5270cb328d553f40f6d501]: Commencement: Art. 69 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)
+[^c-5c5dd52b9f5270cb328d553f40f6d501]: Commencement: Art. 69 in force at 9.4.2013, see [art. 1](https://www.legislation.gov.uk/uksi/2013/648/article/1)

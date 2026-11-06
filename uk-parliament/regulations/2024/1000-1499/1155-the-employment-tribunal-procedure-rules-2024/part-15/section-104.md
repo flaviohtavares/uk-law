@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 104. Appeals against notices given under the Energy Act 2013[^key-837ddb2c8c1420f1f1666c90fa15d9a0]
+## 104. Appeals against notices given under the Energy Act 2013[^c-837ddb2c8c1420f1f1666c90fa15d9a0]
 
 *Extent: E+W+S*
 
@@ -29,7 +29,7 @@ summary: ''
 
 ## Annotations
 
-[^key-837ddb2c8c1420f1f1666c90fa15d9a0]: Commencement: [Rule 104](https://www.legislation.gov.uk/uksi/2024/1155/rule/104) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
+[^c-837ddb2c8c1420f1f1666c90fa15d9a0]: Commencement: [Rule 104](https://www.legislation.gov.uk/uksi/2024/1155/rule/104) in force at 6.1.2025 immediately after S.I. 2024/1156 comes into force, see [rule 1(1)](https://www.legislation.gov.uk/uksi/2024/1155/rule/1/1)
 
 [^f00047]: Footnote: Regulation 14B was inserted by [S.I. 2024/1156](https://www.legislation.gov.uk/uksi/2024/1156).
 

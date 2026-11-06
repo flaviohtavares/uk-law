@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 50. Protection of interests[^key-1cf9ce7ec37cfb0462f794222621cb24]
+## 50. Protection of interests[^c-1cf9ce7ec37cfb0462f794222621cb24]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ Schedule 14 (protective provisions) has effect.
 
 ## Annotations
 
-[^key-1cf9ce7ec37cfb0462f794222621cb24]: Commencement: Art. 50 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)
+[^c-1cf9ce7ec37cfb0462f794222621cb24]: Commencement: Art. 50 in force at 4.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/958/article/1)

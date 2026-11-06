@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 192A. Power of Bank to require FCA to refrain from specified action[^key-41a2d35a88ba7a22d48f01c7b061f499]
+## 192A. Power of Bank to require FCA to refrain from specified action[^c-41a2d35a88ba7a22d48f01c7b061f499]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41a2d35a88ba7a22d48f01c7b061f499]: Textual amendment: [S. 192A](https://www.legislation.gov.uk/ukpga/2009/1/section/192A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/20)
+[^c-41a2d35a88ba7a22d48f01c7b061f499]: Textual amendment: [S. 192A](https://www.legislation.gov.uk/ukpga/2009/1/section/192A) inserted (29.8.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [s. 86(2)(a)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/2/a), [Sch. 6 para. 20](https://www.legislation.gov.uk/ukpga/2023/29/schedule/6/paragraph/20)

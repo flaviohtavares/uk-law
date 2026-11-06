@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 60. Social Security (Northern Ireland) Act 1975[^key-02fc3de4632572a43068969359640313]
+## 60. Social Security (Northern Ireland) Act 1975[^c-02fc3de4632572a43068969359640313]
 
 *Extent: N.I.*
 
@@ -27,6 +27,6 @@ In Schedule 10 to the Social Security (Northern Ireland) Act 1975[^f00086] (supe
 
 ## Annotations
 
-[^key-02fc3de4632572a43068969359640313]: Commencement: Reg. 60 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
+[^c-02fc3de4632572a43068969359640313]: Commencement: Reg. 60 in force at 13.1.2020, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/1514/regulation/1/2)
 
 [^f00086]: Footnote: [1975 c.15](https://www.legislation.gov.uk/ukpga/1975/15). In Schedule 10, paragraph 7B was inserted by paragraph 7(4) of the Judicial Retirement and Pensions Act [1993 (c.8)](https://www.legislation.gov.uk/ukpga/1993/8).

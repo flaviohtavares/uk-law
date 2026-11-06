@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 42. Consideration of application to resume croft[^key-edaff9d57aff58882b733c26a68d476d]
+## 42. Consideration of application to resume croft[^c-edaff9d57aff58882b733c26a68d476d]
 
 *Extent: S*
 
@@ -50,4 +50,4 @@ After subsection (1A) of section 20 of the 1993 Act (resumption of croft or part
 
 ## Annotations
 
-[^key-edaff9d57aff58882b733c26a68d476d]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2010/14/section/42) in force at 1.10.2011 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))
+[^c-edaff9d57aff58882b733c26a68d476d]: Commencement: [S. 42](https://www.legislation.gov.uk/asp/2010/14/section/42) in force at 1.10.2011 by [S.S.I. 2011/334](https://www.legislation.gov.uk/ssi/2011/334), [art. 3(1)(a)](https://www.legislation.gov.uk/ssi/2011/334/article/3/1/a)[(2)](https://www.legislation.gov.uk/ssi/2011/334/article/3/2), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2011/334/schedule/part/1) (with [art. 4](https://www.legislation.gov.uk/ssi/2011/334/article/4))

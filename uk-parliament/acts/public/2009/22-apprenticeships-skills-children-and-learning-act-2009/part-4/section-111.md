@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 111. Power to confer supplementary functions on Chief Executive[^key-80ca56ceecdfc3283d4b7ee1a34b3919]
+## 111. Power to confer supplementary functions on Chief Executive[^c-80ca56ceecdfc3283d4b7ee1a34b3919]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-80ca56ceecdfc3283d4b7ee1a34b3919]: Textual amendment: S. 111 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 22](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/22)
+[^c-80ca56ceecdfc3283d4b7ee1a34b3919]: Textual amendment: S. 111 omitted (26.5.2015) by virtue of [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(3)(g)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/g), [Sch. 14 para. 22](https://www.legislation.gov.uk/ukpga/2015/20/schedule/14/paragraph/22)

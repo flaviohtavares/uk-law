@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 84. Disclosure of information for certain purposes : the Chief Inspector[^key-64829fbd29c6dffd48b648e9c6464672][^key-ebe5c04dadef06485eaba4ff258325d1][^key-f188a8d84a9005555d124a03f27dd21f]
+## 84. Disclosure of information for certain purposes : the Chief Inspector[^c-64829fbd29c6dffd48b648e9c6464672][^c-ebe5c04dadef06485eaba4ff258325d1][^c-f188a8d84a9005555d124a03f27dd21f]
 
 *Extent: E+W*
 
@@ -31,8 +31,8 @@ summary: ''
 
 ## Annotations
 
-[^key-64829fbd29c6dffd48b648e9c6464672]: Commencement: S. 84 in force at 20.12.2006 for specified purposes by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/d)
+[^c-64829fbd29c6dffd48b648e9c6464672]: Commencement: S. 84 in force at 20.12.2006 for specified purposes by [S.I. 2006/3360](https://www.legislation.gov.uk/uksi/2006/3360), [art. 2(d)](https://www.legislation.gov.uk/uksi/2006/3360/article/2/d)
 
-[^key-ebe5c04dadef06485eaba4ff258325d1]: Commencement: S. 84 in force at 6.4.2007 in so far as not already in force by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
+[^c-ebe5c04dadef06485eaba4ff258325d1]: Commencement: S. 84 in force at 6.4.2007 in so far as not already in force by [S.I. 2007/1019](https://www.legislation.gov.uk/uksi/2007/1019), [art. 4](https://www.legislation.gov.uk/uksi/2007/1019/article/4)
 
-[^key-f188a8d84a9005555d124a03f27dd21f]: Textual amendment: Words in s. 84 inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 54](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/54); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)
+[^c-f188a8d84a9005555d124a03f27dd21f]: Textual amendment: Words in s. 84 inserted (1.4.2014 for specified purposes, 1.9.2014 in so far as not already in force) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 4 para. 54](https://www.legislation.gov.uk/ukpga/2014/6/schedule/4/paragraph/54); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [arts. 3(m)](https://www.legislation.gov.uk/uksi/2014/889/article/3/m), [7(e)](https://www.legislation.gov.uk/uksi/2014/889/article/7/e)

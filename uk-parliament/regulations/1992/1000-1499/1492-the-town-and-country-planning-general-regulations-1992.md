@@ -42,20 +42,20 @@ Coming into force
 
 17th July 1992
 
-The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by sections 99(2), 107(1), 114(2), 115(2), 137(2), 144(2), 150(1), 151(1), 161(2), 162(1), 178(3), (5), 186(3), 209(3), 219(3), 250(3), 255, 316, 329(2), 333(1) and 336(1) of the Town and Country Planning Act 1990[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:[^key-eb7cf9a5a8619b17c2eeb00e1b7f46a4][^key-f39d89163ccb31f4be63f237811e0755][^key-e2f5bda15f2ab7beaa1a31a627cd8e26][^key-e48ceba3e34f33c90d2d1880d4de82ea][^key-7c8e1b441741380e161eda9f0c6798b0]
+The Secretary of State for the Environment, as respects England, and the Secretary of State for Wales, as respects Wales, in exercise of the powers conferred on them by sections 99(2), 107(1), 114(2), 115(2), 137(2), 144(2), 150(1), 151(1), 161(2), 162(1), 178(3), (5), 186(3), 209(3), 219(3), 250(3), 255, 316, 329(2), 333(1) and 336(1) of the Town and Country Planning Act 1990[^f00001], and of all other powers enabling them in that behalf, hereby make the following Regulations:[^c-eb7cf9a5a8619b17c2eeb00e1b7f46a4][^c-f39d89163ccb31f4be63f237811e0755][^c-e2f5bda15f2ab7beaa1a31a627cd8e26][^c-e48ceba3e34f33c90d2d1880d4de82ea][^c-7c8e1b441741380e161eda9f0c6798b0]
 
-## 1. Citation, commencement and interpretation[^key-0f6fed7f0b7076d4d85472cb3626a13d]
+## 1. Citation, commencement and interpretation[^c-0f6fed7f0b7076d4d85472cb3626a13d]
 
 (1) These Regulations may be cited as the Town and Country Planning General Regulations 1992 and shall come into force on 17th July 1992.
 
 (2) In these Regulations—
 
 - “the 1990 Act” means the Town and Country Planning Act 1990; and
-- “planning permission” includes permission in principle and, except in regulations 7 to 9, also includes[^key-8538b13b3e55952117afda2e9b94df33] any consent of a local planning authority required under a development order.
+- “planning permission” includes permission in principle and, except in regulations 7 to 9, also includes[^c-8538b13b3e55952117afda2e9b94df33] any consent of a local planning authority required under a development order.
 
 ## Land of interested planning authorities and development by them
 
-### 2. Application of provisions of the 1990 Act[^key-7931b5455d36dfe3a1dc839eb4c20bef]
+### 2. Application of provisions of the 1990 Act[^c-7931b5455d36dfe3a1dc839eb4c20bef]
 
 (1) Subject to paragraph (2), in relation to—
 
@@ -66,24 +66,24 @@ The Secretary of State for the Environment, as respects England, and the Secreta
   - (i) by an interested planning authority which is a non-metropolitan district council of land any part of which is in a National Park, and
   - (ii) another local planning authority of land in respect of which an urban development corporation is a local planning authority,
 
-  the provisions of Parts III VII and VIII of the 1990 Act, other than sections 76, 90(2), (5) and 223, shall apply subject to regulations 3 to 11A below[^key-3b805c7fd99af06c1f6092dd444d2286].
+  the provisions of Parts III VII and VIII of the 1990 Act, other than sections 76, 90(2), (5) and 223, shall apply subject to regulations 3 to 11A below[^c-3b805c7fd99af06c1f6092dd444d2286].
 
-(2) In the case of land falling within paragraph (1)(a)(i) the provisions of Part VIII of the 1990 Act apply subject to regulations 11 and 11A[^key-a1a95b02dc1e456fa4995fd4cc022834].
+(2) In the case of land falling within paragraph (1)(a)(i) the provisions of Part VIII of the 1990 Act apply subject to regulations 11 and 11A[^c-a1a95b02dc1e456fa4995fd4cc022834].
 
-### 3. Applications for planning permission[^key-da72db0e026454a439b243953898bef4]
+### 3. Applications for planning permission[^c-da72db0e026454a439b243953898bef4]
 
-Subject to regulations 4 and 4A *(Extent: E)*[^key-3cddc62e46837aacaf80dc3db548e023], an application for planning permission by an interested planning authority to develop any land of that authority, or for development of any land by an interested planning authority or by an interested planning authority jointly with any other person, shall be determined by the authority concerned, unless the application is referred to the Secretary of State under section 77 of the 1990 Act for determination by him.
+Subject to regulations 4 and 4A *(Extent: E)*[^c-3cddc62e46837aacaf80dc3db548e023], an application for planning permission by an interested planning authority to develop any land of that authority, or for development of any land by an interested planning authority or by an interested planning authority jointly with any other person, shall be determined by the authority concerned, unless the application is referred to the Secretary of State under section 77 of the 1990 Act for determination by him.
 
-**4.**[^key-7fe377f37b5f3efdaa4e2cf551937b52] (1) Regulation 3 does not apply in the case of an application for planning permission to develop land of an interested planning authority where—
+**4.**[^c-7fe377f37b5f3efdaa4e2cf551937b52] (1) Regulation 3 does not apply in the case of an application for planning permission to develop land of an interested planning authority where—
 
 - (a) the authority do not intend to develop the land themselves or jointly with any person, and
 - (b) if it were not such land the application would fall to be determined by another body.
 
 (2) In the case of an application to which paragraph (1) applies the application shall be determined by that other body unless the application is referred to the Secretary of State under section 77 of the 1990 Act for determination by him.
 
-### 4A. Applications for planning permission: relevant demolition[^key-8c75a9f06dc98b59cbdfd18dc39feef0]
+### 4A. Applications for planning permission: relevant demolition[^c-8c75a9f06dc98b59cbdfd18dc39feef0]
 
-(1)[^key-165c1a2105fff9e97e536f62a0fbf9e3] In relation to any application made by an interested planning authority which relates solely to development which is relevant demolition (within the meaning of section 196D of the 1990 Act), the authority shall—
+(1)[^c-165c1a2105fff9e97e536f62a0fbf9e3] In relation to any application made by an interested planning authority which relates solely to development which is relevant demolition (within the meaning of section 196D of the 1990 Act), the authority shall—
 
 - (a) publicise the application as an application made to the interested planning authority; and
 - (b) send to Historic England a notice of the application which shall contain the address or location of the proposed works, the nature of the proposed works; and the date by which any representations about the application must be made (which shall not be less than 21 days from the date of the notice).
@@ -99,19 +99,19 @@ Subject to regulations 4 and 4A *(Extent: E)*[^key-3cddc62e46837aacaf80dc3db548e
 
 (2) Any such application shall be made to the Secretary of State.
 
-(3)[^key-f280718ddf6932551dc6288582430908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-f280718ddf6932551dc6288582430908] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4) Before determining an objected application[^key-14711bb51c3c27bb40c7ebfc31306f3d] the Secretary of State shall, if the interested planning authority wishes, give them an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State for the purpose.
+(4) Before determining an objected application[^c-14711bb51c3c27bb40c7ebfc31306f3d] the Secretary of State shall, if the interested planning authority wishes, give them an opportunity of appearing before, and being heard by, a person appointed by the Secretary of State for the purpose.
 
-(5)[^key-914085f69cfb3951ab884935e82ec0dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-914085f69cfb3951ab884935e82ec0dd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6) An objected application[^key-d086f1548aaae6a543c9983ea73e2c16] by an interested planning authority to the Secretary of State [^key-f107773bbcce07363a16da4ab98d10d1]... shall be accompanied by a copy of all representations duly made in relation to the application.
+(6) An objected application[^c-d086f1548aaae6a543c9983ea73e2c16] by an interested planning authority to the Secretary of State [^c-f107773bbcce07363a16da4ab98d10d1]... shall be accompanied by a copy of all representations duly made in relation to the application.
 
-(7)[^key-3e4ad13d593d581b6f37baa0dfccca2a] An application by the county planning authority under paragraph (1) above, together with any accompanying representations required by this regulation, shall be made to the district planning authority who shall, where the conditions in paragraph (2)(a) and (b) are met, forthwith send it on the Secretary of State.
+(7)[^c-3e4ad13d593d581b6f37baa0dfccca2a] An application by the county planning authority under paragraph (1) above, together with any accompanying representations required by this regulation, shall be made to the district planning authority who shall, where the conditions in paragraph (2)(a) and (b) are met, forthwith send it on the Secretary of State.
 
 (8) The Secretary of State may serve any notice authorised to be served by an interested planning authority in relation to a building in a conservation area.
 
-### 5. Modifications and exceptions to Part III of the 1990 Act[^key-eb76202ee04ab9a3e77fa81da062e3b9]
+### 5. Modifications and exceptions to Part III of the 1990 Act[^c-eb76202ee04ab9a3e77fa81da062e3b9]
 
 (1) In the case of applications for planning permission for development to which regulation 3 applies—
 
@@ -121,56 +121,56 @@ Subject to regulations 4 and 4A *(Extent: E)*[^key-3cddc62e46837aacaf80dc3db548e
 
 (2) If an application for planning permission for development to which regulation 3 applies is referred to the Secretary of State under section 77 of the 1990 Act for determination by him that section shall have effect subject to the modification that, in subsection (5), for the words “if either the applicant or the local planning authority wish, give each of them an opportunity” substitute the words “if the interested planning authority wish, give them the opportunity”.
 
-**6.**[^key-d94235ade519101274731ca5419f57b2] In Part III of the 1990 Act any reference to “local planning authority”, in relation to development to which regulation 3 applies, is a reference to the interested planning authority concerned, and references to “the authority” (except in section 71(3)) shall be construed accordingly.
+**6.**[^c-d94235ade519101274731ca5419f57b2] In Part III of the 1990 Act any reference to “local planning authority”, in relation to development to which regulation 3 applies, is a reference to the interested planning authority concerned, and references to “the authority” (except in section 71(3)) shall be construed accordingly.
 
-### 7. Publicity[^key-6044019783ccaae6932ce4bc36db830a]
+### 7. Publicity[^c-6044019783ccaae6932ce4bc36db830a]
 
 (1) Any provision made by virtue of section 65 or 71 of the 1990 Act[^f00002] by a development order shall apply to applications for planning permission for development to which regulation 3 applies subject to the modifications prescribed in paragraph (2).
 
 (2) Any reference in such a development order to “local planning authority” is a reference to the interested planning authority concerned, and references to “the authority” shall be construed accordingly.
 
-### 8. Consultation[^key-1a344b8cf0b48d86f0ab946a21224d27]
+### 8. Consultation[^c-1a344b8cf0b48d86f0ab946a21224d27]
 
 An urban development corporation in Greater London shall, before determining an application for planning permission falling within regulation 3, consult the council of the London borough for the area in which the land which is the subject of the application, or any part of it, is situated.
 
-### 9 (Extent: E) (affected by repeal, see note). Effect of planning permission[^key-5622ee6b200dd999aca5b408b66526ce][^key-f6905df9641feb32722b296fd29fc911]
+### 9 (Extent: E) (affected by repeal, see note). Effect of planning permission[^c-5622ee6b200dd999aca5b408b66526ce][^c-f6905df9641feb32722b296fd29fc911]
 
-Any grant of planning permission by an interested planning authority for development *(Extent: E)* *(affected by repeal, see note)*[^key-f6905df9641feb32722b296fd29fc911] of any land by that interested planning authority[^key-c6dfbdec3bb94962e3500dbd55bc0972] *(Extent: E)* *(affected by repeal, see note)*[^key-f6905df9641feb32722b296fd29fc911] shall enure only for the benefit of the applicant interested planning authority, except in the case of development of any land by an interested planning authority jointly with any other person where that person is specified in the application for planning permission as a joint developer, in which case the permission shall enure for the benefit of the applicant interested planning authority and that other person. *(Extent: E)* *(affected by repeal, see note)*[^key-f6905df9641feb32722b296fd29fc911]
+Any grant of planning permission by an interested planning authority for development *(Extent: E)* *(affected by repeal, see note)*[^c-f6905df9641feb32722b296fd29fc911] of any land by that interested planning authority[^c-c6dfbdec3bb94962e3500dbd55bc0972] *(Extent: E)* *(affected by repeal, see note)*[^c-f6905df9641feb32722b296fd29fc911] shall enure only for the benefit of the applicant interested planning authority, except in the case of development of any land by an interested planning authority jointly with any other person where that person is specified in the application for planning permission as a joint developer, in which case the permission shall enure for the benefit of the applicant interested planning authority and that other person. *(Extent: E)* *(affected by repeal, see note)*[^c-f6905df9641feb32722b296fd29fc911]
 
-### 9A. Exclusion of certain authorities from regulation 9—England[^key-49f1e795390edf899953c7a1081aecdf]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### 9AA. Exclusion of interested planning authorities from regulation 9[^key-880bc56d6f5f1456a202a8e96e91fe63]
+### 9A. Exclusion of certain authorities from regulation 9—England[^c-49f1e795390edf899953c7a1081aecdf]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 9B. Exclusion of certain authorities from regulation 9—Wales[^key-184c38871a1d8db83e276c4043e7cc72]
+### 9AA. Exclusion of interested planning authorities from regulation 9[^c-880bc56d6f5f1456a202a8e96e91fe63]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 9B. Exclusion of certain authorities from regulation 9—Wales[^c-184c38871a1d8db83e276c4043e7cc72]
 
 Regulation 9 shall not apply where, in Wales, the interested planning authority is–
 
 - (a) the council of a county; or
 - (b) the council of a county borough.
 
-### 10. Arrangements for discharge of functions[^key-5e98da0da1830f5d4a54d25978ad0756]
+### 10. Arrangements for discharge of functions[^c-5e98da0da1830f5d4a54d25978ad0756]
 
 Notwithstanding anything in section 101 of the Local Government Act 1972[^f00003] (arrangements for the discharge of functions by local authorities) no application for planning permission for development to which regulation 3 applies may be determined—
 
 - (a) by a committee or sub-committee of the interested planning authority concerned if that committee or sub-committee is responsible (wholly or partly) for the management of any land or buildings to which the application relates; or
 - (b) by an officer of the interested planning authority concerned if his responsibilities include any aspect of the management of any land or buildings to which the application relates.
 
-### 11. Other consents[^key-be59b3aef28ba5111a64173cf53a585c]
+### 11. Other consents[^c-be59b3aef28ba5111a64173cf53a585c]
 
-(1)[^M_F_5064f124-914e-452e-d611-7eef2f530611] Where an interested planning authority are seeking a consent of a local planning authority under Part III, VII or VIII of the 1990 Act other than planning permission to develop land or a consent under section 90(2) or a consent to display an advertisement pursuant to regulations under section 220[^key-326ff99103539698cf6c15f07ddfa1e7] and that authority are themselves the local planning authority by whom such consent would be given, they shall , subject to paragraph (2) and regulation 11A,[^key-912cafe5f2ec793345f8f5a7cca890b0] make an application for such consent to the Secretary of State.
+(1)[^M_F_5064f124-914e-452e-d611-7eef2f530611] Where an interested planning authority are seeking a consent of a local planning authority under Part III, VII or VIII of the 1990 Act other than planning permission to develop land or a consent under section 90(2) or a consent to display an advertisement pursuant to regulations under section 220[^c-326ff99103539698cf6c15f07ddfa1e7] and that authority are themselves the local planning authority by whom such consent would be given, they shall , subject to paragraph (2) and regulation 11A,[^c-912cafe5f2ec793345f8f5a7cca890b0] make an application for such consent to the Secretary of State.
 
-(2)[^key-d294457a79126384003bd0f78d89e80c] Where the consent sought under Part VIII is under a tree preservation order, the application shall be determined by the interested planning authority.
+(2)[^c-d294457a79126384003bd0f78d89e80c] Where the consent sought under Part VIII is under a tree preservation order, the application shall be determined by the interested planning authority.
 
 (3) Notwithstanding anything in section 101 (arrangements for the discharge of functions by local authorities) of the Local Government Act 1972, no application may be determined under paragraph (2)—
 
 - (a) by a committee or sub-committee of the interested planning authority if that committee or sub-committee is responsible (wholly or partly) for the management of any land to which the application relates; or
 - (b) by an officer of the interested planning authority if his responsibilities include any aspect of the management of any land to which the application relates.
 
-### 11A. Applications by interested planning authorities under tree preservation orders[^key-e7988a7396c1d18f8fe29eb41aaf0729]
+### 11A. Applications by interested planning authorities under tree preservation orders[^c-e7988a7396c1d18f8fe29eb41aaf0729]
 
 (1) Before determining an application under regulation 11(2) the interested planning authority shall publicise it by posting a notice in at least one place on or near the land to which the application relates for not less than 21 days.
 
@@ -193,17 +193,17 @@ and shall be sited and displayed in such a way as to be easily visible and legib
 
 ## General
 
-### 12. Claims for compensation and purchase notices[^key-7ba93c624b08a99d334efcfcc4db9288]
+### 12. Claims for compensation and purchase notices[^c-7ba93c624b08a99d334efcfcc4db9288]
 
-(1) A claim for compensation made to a local planning authority under section 107 (including section 107 as applied by section 108), 114, 115, 144, 186 or 250 of the 1990 Act, or a purchase notice served on the council of a district or London borough (or county or county borough in Wales)[^key-1b997aba64726432f2b574e78b48e45b] under section 137 of that Act, shall be in writing and shall be served on that authority or council by delivering it at the offices of the authority or council, or by sending it by pre-paid post.
+(1) A claim for compensation made to a local planning authority under section 107 (including section 107 as applied by section 108), 114, 115, 144, 186 or 250 of the 1990 Act, or a purchase notice served on the council of a district or London borough (or county or county borough in Wales)[^c-1b997aba64726432f2b574e78b48e45b] under section 137 of that Act, shall be in writing and shall be served on that authority or council by delivering it at the offices of the authority or council, or by sending it by pre-paid post.
 
 (2) The time within which any such claim or notice as is mentioned in paragraph (1) is served shall be 12 months from the date of the decision in respect of which the claim or notice is made or given, or such longer period as the Secretary of State may at any time in any particular case allow.
 
-### 13. Marking of certain notices and documents[^key-febaf9f200a32e29f6cb6f9df32afad1]
+### 13. Marking of certain notices and documents[^c-febaf9f200a32e29f6cb6f9df32afad1]
 
 The manner in which any notice or document referred to in subsection (2) of section 329 of the 1990 Act shall be marked in order that it shall be taken to be duly served under paragraph (b) of that subsection shall be by inscribing clearly and legibly upon the notice or document, and upon the envelope containing it, the words “Important — This Communication affects your Property”.
 
-### 14. Application of the Public Health Act 1936 to certain notices[^key-bdc07615330db38b42f229a7a6312962]
+### 14. Application of the Public Health Act 1936 to certain notices[^c-bdc07615330db38b42f229a7a6312962]
 
 (1) The provisions of sections 276, 289 and 294 of the Public Health Act 1936[^f00004] ( “the 1936 Act”) shall apply in relation to steps required to be taken by an enforcement notice, to requirements of a notice under section 207(1) of the 1990 Act, and to steps required to be taken by a notice under section 215 of that Act, as if—
 
@@ -216,9 +216,9 @@ The manner in which any notice or document referred to in subsection (2) of sect
 
 (2) The expenses recoverable by a local planning authority under section 178(1) of the 1990 Act are, until recovered, a charge that is binding on successive owners of the land to which the enforcement notice relates and the charge shall take effect as from the date of the completion by the local planning authority of the steps required to be taken by the enforcement notice.
 
-(3)[^key-1078aa9c66f343120af32ce2d6663f20] Where a notice is served under section 215 of the 1990 Act, any expenses recoverable by a local planning authority under section 219(1) of that Act are, until recovered, a charge that is binding on successive owners of the land to which the notice relates, and the charge shall take effect as from the date of the completion by that authority of the steps required to be taken by the notice.
+(3)[^c-1078aa9c66f343120af32ce2d6663f20] Where a notice is served under section 215 of the 1990 Act, any expenses recoverable by a local planning authority under section 219(1) of that Act are, until recovered, a charge that is binding on successive owners of the land to which the notice relates, and the charge shall take effect as from the date of the completion by that authority of the steps required to be taken by the notice.
 
-### 15. Concurrent procedure for acquisition of land and extinguishment of rights of way[^key-5799ce293f879b99dc898e4a2c55e869]
+### 15. Concurrent procedure for acquisition of land and extinguishment of rights of way[^c-5799ce293f879b99dc898e4a2c55e869]
 
 (1) Where—
 
@@ -238,17 +238,17 @@ the following provisions of this regulation shall have effect to secure that pro
 - (i) no order under section 251 of the 1990 Act shall be made, and
 - (ii) no such compulsory purchase order as is referred to in paragraph (3) shall be made by the Secretary of State or confirmed.
 
-### 16. Notices and counter-notices relating to planning blight[^key-3c7ed208c39565a368e6abca35dde575][^key-805e7c04272ca174dcee58625071e448]
+### 16. Notices and counter-notices relating to planning blight[^c-3c7ed208c39565a368e6abca35dde575][^c-805e7c04272ca174dcee58625071e448]
 
 The forms set out in Schedule 2 to these Regulations or forms substantially to the like effect are the prescribed forms for blight notices and counter-notices for the purposes of sections 150(1), 151(1), 161(2) and 162(1) of the 1990 Act.
 
-### 17. Advertisement and notice of unopposed order revoking or modifying planning permission[^key-520c0f3bc38a9f15f00855fd39ed7bb8]
+### 17. Advertisement and notice of unopposed order revoking or modifying planning permission[^c-520c0f3bc38a9f15f00855fd39ed7bb8]
 
 (1) A local planning authority shall advertise the fact that an order has been made to which section 99(2) of the 1990 Act applies by publishing an advertisement in the form set out in Part 1 of Schedule 3 to these Regulations or a form substantially to the like effect in a newspaper circulating in the locality.
 
 (2) The notice a local planning authority is required to serve under section 99(3) of the 1990 Act shall be in the form contained in Part 2 of Schedule 3 to these Regulations or a form substantially to the like effect.
 
-### 18. Revocations[^key-39afbaafd211869f65825d980e1217a7]
+### 18. Revocations[^c-39afbaafd211869f65825d980e1217a7]
 
 The regulations listed in the first column of Schedule 4 to these Regulations are hereby revoked to the extent specified in the third column of that Schedule.
 
@@ -264,7 +264,7 @@ Secretary of State for Wales
 
 24th June 1992
 
-## SCHEDULE 1[^key-2f850aec0344c4091e5c382d2e909d00]
+## SCHEDULE 1[^c-2f850aec0344c4091e5c382d2e909d00]
 
 Regulation 5
 
@@ -280,7 +280,7 @@ Regulation 5
 | Section 104 | Omit subsections (3) to (7). |
 | Schedule 5 | Omit paragraph 1(6)(b). |
 
-## SCHEDULE 2[^key-0fd640642a4c90ea0bd0ad9f180f7cff][^key-d2734a046ca0c6bdf1dc7dd73f3775d8]
+## SCHEDULE 2[^c-0fd640642a4c90ea0bd0ad9f180f7cff][^c-d2734a046ca0c6bdf1dc7dd73f3775d8]
 
 Regulation 16
 
@@ -302,7 +302,7 @@ Mortgagee's Blight Notice
 
 [image: see source](https://www.legislation.gov.uk/uksi/1992/1492/images/uksi_19921492_en_006)[image: see source](https://www.legislation.gov.uk/uksi/1992/1492/images/uksi_19921492_en_007)
 
-[^key-d9ccef15039246fc0e2f00c4e3f9f6e8][^key-7079e53ae4d481157f011d664c05f800]TOWN AND COUNTRY PLANNING ACT 1990
+[^c-d9ccef15039246fc0e2f00c4e3f9f6e8][^c-7079e53ae4d481157f011d664c05f800]TOWN AND COUNTRY PLANNING ACT 1990
 
 Counter-Notice objecting to Blight Notice
 
@@ -312,7 +312,7 @@ Counter-Notice objecting to Blight Notice
 
 Regulation 17
 
-### PART 1[^key-87b3b266ed28d650c5f4dedbd4973d28][^key-80e7be87f3af3d4b5c291a9a4e44ff04]
+### PART 1[^c-87b3b266ed28d650c5f4dedbd4973d28][^c-80e7be87f3af3d4b5c291a9a4e44ff04]
 
 TOWN AND COUNTRY PLANNING ACT 1990
 
@@ -320,7 +320,7 @@ Advertisement under section 99(2) of the making of a revocation order or modific
 
 [image: see source](https://www.legislation.gov.uk/uksi/1992/1492/images/uksi_19921492_en_010)
 
-### PART 2[^key-ae44bd8a8c380b7826eb72f0c783a67a][^key-f715154c5bab75c5ca653d328ecd6d44]
+### PART 2[^c-ae44bd8a8c380b7826eb72f0c783a67a][^c-f715154c5bab75c5ca653d328ecd6d44]
 
 TOWN AND COUNTRY PLANNING ACT 1990
 
@@ -328,7 +328,7 @@ Notice under section 99(3) of the making of a revocation order or modification o
 
 [image: see source](https://www.legislation.gov.uk/uksi/1992/1492/images/uksi_19921492_en_011)[image: see source](https://www.legislation.gov.uk/uksi/1992/1492/images/uksi_19921492_en_012)
 
-## SCHEDULE 4[^key-4ccd01a8a9919ae27a763c71da9a9189]
+## SCHEDULE 4[^c-4ccd01a8a9919ae27a763c71da9a9189]
 
 Regulation 18
 
@@ -366,130 +366,130 @@ Regulation 17 and Schedule 3 set out the prescribed forms for notices and advert
 
 [^f00001]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8); section 114 was repealed in relation to applications for planning permission made on or after 16th November 1991 by section 31(2) and (7) of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34); sections 150(1), 161(2) and 162(1) were amended by paragraph 13 of Schedule 15 to the [1991 Act (c.34)](https://www.legislation.gov.uk/ukpga/1991/34); section 316 was substituted by section 20 of that Act; in section 336(1) see the definition of “prescribed”.
 
-[^key-eb7cf9a5a8619b17c2eeb00e1b7f46a4]: Modification: Regulations applied (with modifications) by [S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803), [Sch. 5 para. 17](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/17) (as added (1.4.1996) by [The National Park Authorities (Wales) (Amendment) Order 1996 (S.I. 1996/534)](https://www.legislation.gov.uk/uksi/1996/534), [art. 1](https://www.legislation.gov.uk/uksi/1996/534/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1996/534/schedule/paragraph/2))
+[^c-eb7cf9a5a8619b17c2eeb00e1b7f46a4]: Modification: Regulations applied (with modifications) by [S.I. 1995/2803](https://www.legislation.gov.uk/uksi/1995/2803), [Sch. 5 para. 17](https://www.legislation.gov.uk/uksi/1995/2803/schedule/5/paragraph/17) (as added (1.4.1996) by [The National Park Authorities (Wales) (Amendment) Order 1996 (S.I. 1996/534)](https://www.legislation.gov.uk/uksi/1996/534), [art. 1](https://www.legislation.gov.uk/uksi/1996/534/article/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/1996/534/schedule/paragraph/2))
 
-[^key-f39d89163ccb31f4be63f237811e0755]: Modification: Regulations applied (with modifications) (4.6.1996) by [The National Park Authorities (England) Order 1996 (S.I. 1996/1243)](https://www.legislation.gov.uk/uksi/1996/1243), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1243/article/1), [18](https://www.legislation.gov.uk/uksi/1996/1243/article/18), [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/1996/1243/schedule/5/paragraph/15)
+[^c-f39d89163ccb31f4be63f237811e0755]: Modification: Regulations applied (with modifications) (4.6.1996) by [The National Park Authorities (England) Order 1996 (S.I. 1996/1243)](https://www.legislation.gov.uk/uksi/1996/1243), [arts. 1](https://www.legislation.gov.uk/uksi/1996/1243/article/1), [18](https://www.legislation.gov.uk/uksi/1996/1243/article/18), [Sch. 5 para. 15](https://www.legislation.gov.uk/uksi/1996/1243/schedule/5/paragraph/15)
 
-[^key-e2f5bda15f2ab7beaa1a31a627cd8e26]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1992/1492) applied (with modifications) (24.3.2005) by [The New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [art. 1](https://www.legislation.gov.uk/uksi/2005/421/article/1), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/12)
+[^c-e2f5bda15f2ab7beaa1a31a627cd8e26]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1992/1492) applied (with modifications) (24.3.2005) by [The New Forest National Park Authority (Establishment) Order 2005 (S.I. 2005/421)](https://www.legislation.gov.uk/uksi/2005/421), [art. 1](https://www.legislation.gov.uk/uksi/2005/421/article/1), [Sch. 3 para. 12](https://www.legislation.gov.uk/uksi/2005/421/schedule/3/paragraph/12)
 
-[^key-e48ceba3e34f33c90d2d1880d4de82ea]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1992/1492) applied (with modifications) (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [art. 1](https://www.legislation.gov.uk/uksi/2010/497/article/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2010/497/schedule/3/paragraph/10)
+[^c-e48ceba3e34f33c90d2d1880d4de82ea]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1992/1492) applied (with modifications) (24.3.2010) by [The South Downs National Park Authority (Establishment) Order 2010 (S.I. 2010/497)](https://www.legislation.gov.uk/uksi/2010/497), [art. 1](https://www.legislation.gov.uk/uksi/2010/497/article/1), [Sch. 3 para. 10](https://www.legislation.gov.uk/uksi/2010/497/schedule/3/paragraph/10)
 
-[^key-7c8e1b441741380e161eda9f0c6798b0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1992/1492) applied (with modifications) (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [art. 1](https://www.legislation.gov.uk/uksi/2015/770/article/1), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2015/770/schedule/3/paragraph/11)
+[^c-7c8e1b441741380e161eda9f0c6798b0]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/1992/1492) applied (with modifications) (1.7.2015) by [The National Park Authorities (England) Order 2015 (S.I. 2015/770)](https://www.legislation.gov.uk/uksi/2015/770), [art. 1](https://www.legislation.gov.uk/uksi/2015/770/article/1), [Sch. 3 para. 11](https://www.legislation.gov.uk/uksi/2015/770/schedule/3/paragraph/11)
 
-[^key-0f6fed7f0b7076d4d85472cb3626a13d]: Commencement: Reg. 1 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-0f6fed7f0b7076d4d85472cb3626a13d]: Commencement: Reg. 1 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-8538b13b3e55952117afda2e9b94df33]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1) substituted (E.) (1.6.2018) by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [art. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/1309/schedule/2/paragraph/1/2)
+[^c-8538b13b3e55952117afda2e9b94df33]: Textual amendment: Words in [reg. 1](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1) substituted (E.) (1.6.2018) by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [art. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [Sch. 2 para. 1(2)](https://www.legislation.gov.uk/uksi/2017/1309/schedule/2/paragraph/1/2)
 
-[^key-7931b5455d36dfe3a1dc839eb4c20bef]: Commencement: Reg. 2 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-7931b5455d36dfe3a1dc839eb4c20bef]: Commencement: Reg. 2 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-3b805c7fd99af06c1f6092dd444d2286]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/2/1) substituted (2.8.1999) by [The Town and Country Planning (Trees) Regulations 1999 (S.I. 1999/1892)](https://www.legislation.gov.uk/uksi/1999/1892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/1/2), [17(a)(i)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/17/a/i)
+[^c-3b805c7fd99af06c1f6092dd444d2286]: Textual amendment: Words in [reg. 2(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/2/1) substituted (2.8.1999) by [The Town and Country Planning (Trees) Regulations 1999 (S.I. 1999/1892)](https://www.legislation.gov.uk/uksi/1999/1892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/1/2), [17(a)(i)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/17/a/i)
 
-[^key-a1a95b02dc1e456fa4995fd4cc022834]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/2/2) substituted (2.8.1999) by [The Town and Country Planning (Trees) Regulations 1999 (S.I. 1999/1892)](https://www.legislation.gov.uk/uksi/1999/1892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/1/2), [17(a)(ii)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/17/a/ii)
+[^c-a1a95b02dc1e456fa4995fd4cc022834]: Textual amendment: Words in [reg. 2(2)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/2/2) substituted (2.8.1999) by [The Town and Country Planning (Trees) Regulations 1999 (S.I. 1999/1892)](https://www.legislation.gov.uk/uksi/1999/1892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/1/2), [17(a)(ii)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/17/a/ii)
 
-[^key-da72db0e026454a439b243953898bef4]: Commencement: Reg. 3 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-da72db0e026454a439b243953898bef4]: Commencement: Reg. 3 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-3cddc62e46837aacaf80dc3db548e023]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1992/1492/regulation/3) substituted (E.) (1.10.2013) by [The Town and Country Planning General (Amendment) (England) Regulations 2013 (S.I. 2013/2145)](https://www.legislation.gov.uk/uksi/2013/2145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2145/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2145/regulation/2/2)
+[^c-3cddc62e46837aacaf80dc3db548e023]: Textual amendment: Words in [reg. 3](https://www.legislation.gov.uk/uksi/1992/1492/regulation/3) substituted (E.) (1.10.2013) by [The Town and Country Planning General (Amendment) (England) Regulations 2013 (S.I. 2013/2145)](https://www.legislation.gov.uk/uksi/2013/2145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2145/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2013/2145/regulation/2/2)
 
-[^key-7fe377f37b5f3efdaa4e2cf551937b52]: Commencement: Reg. 4 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-7fe377f37b5f3efdaa4e2cf551937b52]: Commencement: Reg. 4 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-8c75a9f06dc98b59cbdfd18dc39feef0]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A) inserted (E.) (1.10.2013) by [The Town and Country Planning General (Amendment) (England) Regulations 2013 (S.I. 2013/2145)](https://www.legislation.gov.uk/uksi/2013/2145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2145/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2145/regulation/2/3)
+[^c-8c75a9f06dc98b59cbdfd18dc39feef0]: Textual amendment: [Reg. 4A](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A) inserted (E.) (1.10.2013) by [The Town and Country Planning General (Amendment) (England) Regulations 2013 (S.I. 2013/2145)](https://www.legislation.gov.uk/uksi/2013/2145), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2013/2145/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2013/2145/regulation/2/3)
 
-[^key-165c1a2105fff9e97e536f62a0fbf9e3]: Textual amendment: [Reg. 4A(1)-(2B)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/1) substituted for [reg. 4A(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/1) (15.4.2015) by [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
+[^c-165c1a2105fff9e97e536f62a0fbf9e3]: Textual amendment: [Reg. 4A(1)-(2B)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/1) substituted for [reg. 4A(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/1) (15.4.2015) by [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(2)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/2) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
 
-[^key-f280718ddf6932551dc6288582430908]: Textual amendment: [Reg. 4A(3)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/3) omitted (15.4.2015) by virtue of [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
+[^c-f280718ddf6932551dc6288582430908]: Textual amendment: [Reg. 4A(3)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/3) omitted (15.4.2015) by virtue of [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(3)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/3) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
 
-[^key-14711bb51c3c27bb40c7ebfc31306f3d]: Textual amendment: Words in [reg. 4A(4)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/4) substituted (15.4.2015) by [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
+[^c-14711bb51c3c27bb40c7ebfc31306f3d]: Textual amendment: Words in [reg. 4A(4)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/4) substituted (15.4.2015) by [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(4)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/4) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
 
-[^key-914085f69cfb3951ab884935e82ec0dd]: Textual amendment: [Reg. 4A(5)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/5) omitted (15.4.2015) by virtue of [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
+[^c-914085f69cfb3951ab884935e82ec0dd]: Textual amendment: [Reg. 4A(5)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/5) omitted (15.4.2015) by virtue of [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(5)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/5) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
 
-[^key-d086f1548aaae6a543c9983ea73e2c16]: Textual amendment: Words in [reg. 4A(6)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/6) substituted (15.4.2015) by [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/6/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
+[^c-d086f1548aaae6a543c9983ea73e2c16]: Textual amendment: Words in [reg. 4A(6)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/6) substituted (15.4.2015) by [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(6)(a)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/6/a) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
 
-[^key-f107773bbcce07363a16da4ab98d10d1]: Textual amendment: Words in [reg. 4A(6)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/6) omitted (15.4.2015) by virtue of [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/6/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
+[^c-f107773bbcce07363a16da4ab98d10d1]: Textual amendment: Words in [reg. 4A(6)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/6) omitted (15.4.2015) by virtue of [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(6)(b)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/6/b) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
 
-[^key-3e4ad13d593d581b6f37baa0dfccca2a]: Textual amendment: [Reg. 4A(7)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/7) substituted (15.4.2015) by [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
+[^c-3e4ad13d593d581b6f37baa0dfccca2a]: Textual amendment: [Reg. 4A(7)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/4A/7) substituted (15.4.2015) by [The Town and Country Planning General (Amendment) (England) Regulations 2015 (S.I. 2015/807)](https://www.legislation.gov.uk/uksi/2015/807), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2015/807/regulation/1/1), [2(7)](https://www.legislation.gov.uk/uksi/2015/807/regulation/2/7) (with [reg. 3](https://www.legislation.gov.uk/uksi/2015/807/regulation/3))
 
-[^key-eb76202ee04ab9a3e77fa81da062e3b9]: Commencement: Reg. 5 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-eb76202ee04ab9a3e77fa81da062e3b9]: Commencement: Reg. 5 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-d94235ade519101274731ca5419f57b2]: Commencement: Reg. 6 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-d94235ade519101274731ca5419f57b2]: Commencement: Reg. 6 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-6044019783ccaae6932ce4bc36db830a]: Commencement: Reg. 7 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-6044019783ccaae6932ce4bc36db830a]: Commencement: Reg. 7 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
 [^f00002]: Footnote: Section 65 is substituted by section 16(1) of the Planning and Compensation Act [1991 (c. 34)](https://www.legislation.gov.uk/ukpga/1991/34); section 71 is amended by section 16(2) of that Act.
 
-[^key-1a344b8cf0b48d86f0ab946a21224d27]: Commencement: Reg. 8 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-1a344b8cf0b48d86f0ab946a21224d27]: Commencement: Reg. 8 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-5622ee6b200dd999aca5b408b66526ce]: Commencement: Reg. 9 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-5622ee6b200dd999aca5b408b66526ce]: Commencement: Reg. 9 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-f6905df9641feb32722b296fd29fc911]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1992/1492/regulation/9) omitted (E.) (23.2.2018) by virtue of [The Town and Country Planning General (Amendment) (England) Regulations 2018 (S.I. 2018/99)](https://www.legislation.gov.uk/uksi/2018/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/99/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/99/regulation/2/a)
+[^c-f6905df9641feb32722b296fd29fc911]: Textual amendment: [Reg. 9](https://www.legislation.gov.uk/uksi/1992/1492/regulation/9) omitted (E.) (23.2.2018) by virtue of [The Town and Country Planning General (Amendment) (England) Regulations 2018 (S.I. 2018/99)](https://www.legislation.gov.uk/uksi/2018/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/99/regulation/1/1), [2(a)](https://www.legislation.gov.uk/uksi/2018/99/regulation/2/a)
 
-[^key-c6dfbdec3bb94962e3500dbd55bc0972]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/1992/1492/regulation/9) substituted (19.8.1992) by [The Town and Country Planning General (Amendment) Regulations 1992 (S.I. 1992/1982)](https://www.legislation.gov.uk/uksi/1992/1982), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1982/regulation/1), [2](https://www.legislation.gov.uk/uksi/1992/1982/regulation/2)
+[^c-c6dfbdec3bb94962e3500dbd55bc0972]: Textual amendment: Words in [reg. 9](https://www.legislation.gov.uk/uksi/1992/1492/regulation/9) substituted (19.8.1992) by [The Town and Country Planning General (Amendment) Regulations 1992 (S.I. 1992/1982)](https://www.legislation.gov.uk/uksi/1992/1982), [regs. 1](https://www.legislation.gov.uk/uksi/1992/1982/regulation/1), [2](https://www.legislation.gov.uk/uksi/1992/1982/regulation/2)
 
-[^key-49f1e795390edf899953c7a1081aecdf]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/1992/1492/regulation/9A) omitted (23.2.2018) by virtue of [The Town and Country Planning General (Amendment) (England) Regulations 2018 (S.I. 2018/99)](https://www.legislation.gov.uk/uksi/2018/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/99/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/99/regulation/2/b)
+[^c-49f1e795390edf899953c7a1081aecdf]: Textual amendment: [Reg. 9A](https://www.legislation.gov.uk/uksi/1992/1492/regulation/9A) omitted (23.2.2018) by virtue of [The Town and Country Planning General (Amendment) (England) Regulations 2018 (S.I. 2018/99)](https://www.legislation.gov.uk/uksi/2018/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/99/regulation/1/1), [2(b)](https://www.legislation.gov.uk/uksi/2018/99/regulation/2/b)
 
-[^key-880bc56d6f5f1456a202a8e96e91fe63]: Textual amendment: [Reg. 9AA](https://www.legislation.gov.uk/uksi/1992/1492/regulation/9AA) omitted (23.2.2018) by virtue of [The Town and Country Planning General (Amendment) (England) Regulations 2018 (S.I. 2018/99)](https://www.legislation.gov.uk/uksi/2018/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/99/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2018/99/regulation/2/c)
+[^c-880bc56d6f5f1456a202a8e96e91fe63]: Textual amendment: [Reg. 9AA](https://www.legislation.gov.uk/uksi/1992/1492/regulation/9AA) omitted (23.2.2018) by virtue of [The Town and Country Planning General (Amendment) (England) Regulations 2018 (S.I. 2018/99)](https://www.legislation.gov.uk/uksi/2018/99), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/99/regulation/1/1), [2(c)](https://www.legislation.gov.uk/uksi/2018/99/regulation/2/c)
 
-[^key-184c38871a1d8db83e276c4043e7cc72]: Textual amendment: [Regs. 9A](https://www.legislation.gov.uk/uksi/1992/1492/regulation/9A), [9B](https://www.legislation.gov.uk/uksi/1992/1492/regulation/9B) inserted (15.12.1998) by [The Town and Country Planning General (Amendment) Regulations 1998 (S.I. 1998/2800)](https://www.legislation.gov.uk/uksi/1998/2800), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2800/regulation/1), [2](https://www.legislation.gov.uk/uksi/1998/2800/regulation/2)
+[^c-184c38871a1d8db83e276c4043e7cc72]: Textual amendment: [Regs. 9A](https://www.legislation.gov.uk/uksi/1992/1492/regulation/9A), [9B](https://www.legislation.gov.uk/uksi/1992/1492/regulation/9B) inserted (15.12.1998) by [The Town and Country Planning General (Amendment) Regulations 1998 (S.I. 1998/2800)](https://www.legislation.gov.uk/uksi/1998/2800), [regs. 1](https://www.legislation.gov.uk/uksi/1998/2800/regulation/1), [2](https://www.legislation.gov.uk/uksi/1998/2800/regulation/2)
 
-[^key-5e98da0da1830f5d4a54d25978ad0756]: Commencement: Reg. 10 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-5e98da0da1830f5d4a54d25978ad0756]: Commencement: Reg. 10 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
 [^f00003]: Footnote: [1972 c. 70](https://www.legislation.gov.uk/ukpga/1972/70).
 
-[^key-be59b3aef28ba5111a64173cf53a585c]: Commencement: Reg. 11 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-be59b3aef28ba5111a64173cf53a585c]: Commencement: Reg. 11 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
 [^M_F_5064f124-914e-452e-d611-7eef2f530611]: Textual amendment: Reg. 11 renumbered as reg. 11(1) (2.8.1999) by virtue of the insertion of reg. 11(2)(3) by [The Town and Country Planning (Trees) Regulations 1999 (S.I. 1999/1892)](https://www.legislation.gov.uk/uksi/1999/1892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/1/2), [17(b)(ii)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/17/b/ii)
 
-[^key-326ff99103539698cf6c15f07ddfa1e7]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1992/1492/regulation/11) added (27.7.1999) by [The Town and Country Planning (Control of Advertisements) (Amendment) Regulations 1999 (S.I. 1999/1810)](https://www.legislation.gov.uk/uksi/1999/1810), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1810/regulation/1), [6](https://www.legislation.gov.uk/uksi/1999/1810/regulation/6)
+[^c-326ff99103539698cf6c15f07ddfa1e7]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1992/1492/regulation/11) added (27.7.1999) by [The Town and Country Planning (Control of Advertisements) (Amendment) Regulations 1999 (S.I. 1999/1810)](https://www.legislation.gov.uk/uksi/1999/1810), [regs. 1](https://www.legislation.gov.uk/uksi/1999/1810/regulation/1), [6](https://www.legislation.gov.uk/uksi/1999/1810/regulation/6)
 
-[^key-912cafe5f2ec793345f8f5a7cca890b0]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1992/1492/regulation/11) inserted (2.8.1999) by [The Town and Country Planning (Trees) Regulations 1999 (S.I. 1999/1892)](https://www.legislation.gov.uk/uksi/1999/1892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/1/2), [17(b)(i)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/17/b/i)
+[^c-912cafe5f2ec793345f8f5a7cca890b0]: Textual amendment: Words in [reg. 11](https://www.legislation.gov.uk/uksi/1992/1492/regulation/11) inserted (2.8.1999) by [The Town and Country Planning (Trees) Regulations 1999 (S.I. 1999/1892)](https://www.legislation.gov.uk/uksi/1999/1892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/1/2), [17(b)(i)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/17/b/i)
 
-[^key-d294457a79126384003bd0f78d89e80c]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/11/2)[(3)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/11/3) added (2.8.1999) by [The Town and Country Planning (Trees) Regulations 1999 (S.I. 1999/1892)](https://www.legislation.gov.uk/uksi/1999/1892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/1/2), [17(b)(ii)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/17/b/ii)
+[^c-d294457a79126384003bd0f78d89e80c]: Textual amendment: [Reg. 11(2)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/11/2)[(3)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/11/3) added (2.8.1999) by [The Town and Country Planning (Trees) Regulations 1999 (S.I. 1999/1892)](https://www.legislation.gov.uk/uksi/1999/1892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/1/2), [17(b)(ii)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/17/b/ii)
 
-[^key-e7988a7396c1d18f8fe29eb41aaf0729]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/1992/1492/regulation/11A) inserted (2.8.1999) by [The Town and Country Planning (Trees) Regulations 1999 (S.I. 1999/1892)](https://www.legislation.gov.uk/uksi/1999/1892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/1/2), [17(c)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/17/c)
+[^c-e7988a7396c1d18f8fe29eb41aaf0729]: Textual amendment: [Reg. 11A](https://www.legislation.gov.uk/uksi/1992/1492/regulation/11A) inserted (2.8.1999) by [The Town and Country Planning (Trees) Regulations 1999 (S.I. 1999/1892)](https://www.legislation.gov.uk/uksi/1999/1892), [regs. 1(2)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/1/2), [17(c)](https://www.legislation.gov.uk/uksi/1999/1892/regulation/17/c)
 
-[^key-7ba93c624b08a99d334efcfcc4db9288]: Commencement: Reg. 12 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-7ba93c624b08a99d334efcfcc4db9288]: Commencement: Reg. 12 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-1b997aba64726432f2b574e78b48e45b]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/12/1) inserted (1.4.1996) by [The Local Government Reorganisation (Wales) (Consequential Amendments) Order 1996 (S.I. 1996/525)](https://www.legislation.gov.uk/uksi/1996/525), [arts. 1](https://www.legislation.gov.uk/uksi/1996/525/article/1), [3](https://www.legislation.gov.uk/uksi/1996/525/article/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/1996/525/schedule/paragraph/15)
+[^c-1b997aba64726432f2b574e78b48e45b]: Textual amendment: Words in [reg. 12(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/12/1) inserted (1.4.1996) by [The Local Government Reorganisation (Wales) (Consequential Amendments) Order 1996 (S.I. 1996/525)](https://www.legislation.gov.uk/uksi/1996/525), [arts. 1](https://www.legislation.gov.uk/uksi/1996/525/article/1), [3](https://www.legislation.gov.uk/uksi/1996/525/article/3), [Sch. para. 15](https://www.legislation.gov.uk/uksi/1996/525/schedule/paragraph/15)
 
-[^key-febaf9f200a32e29f6cb6f9df32afad1]: Commencement: Reg. 13 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-febaf9f200a32e29f6cb6f9df32afad1]: Commencement: Reg. 13 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-bdc07615330db38b42f229a7a6312962]: Commencement: Reg. 14 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-bdc07615330db38b42f229a7a6312962]: Commencement: Reg. 14 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
 [^f00004]: Footnote: [1936 c. 49](https://www.legislation.gov.uk/ukpga/1936/49).
 
-[^key-1078aa9c66f343120af32ce2d6663f20]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/14/3) inserted (8.1.1998) by [The Town and Country Planning General (Amendment) Regulations 1997 (S.I. 1997/3006)](https://www.legislation.gov.uk/uksi/1997/3006), [regs. 1](https://www.legislation.gov.uk/uksi/1997/3006/regulation/1), [2](https://www.legislation.gov.uk/uksi/1997/3006/regulation/2)
+[^c-1078aa9c66f343120af32ce2d6663f20]: Textual amendment: [Reg. 14(3)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/14/3) inserted (8.1.1998) by [The Town and Country Planning General (Amendment) Regulations 1997 (S.I. 1997/3006)](https://www.legislation.gov.uk/uksi/1997/3006), [regs. 1](https://www.legislation.gov.uk/uksi/1997/3006/regulation/1), [2](https://www.legislation.gov.uk/uksi/1997/3006/regulation/2)
 
-[^key-5799ce293f879b99dc898e4a2c55e869]: Commencement: Reg. 15 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-5799ce293f879b99dc898e4a2c55e869]: Commencement: Reg. 15 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
 [^f00005]: Footnote: [1981 c. 67](https://www.legislation.gov.uk/ukpga/1981/67).
 
-[^key-3c7ed208c39565a368e6abca35dde575]: Commencement: Reg. 16 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-3c7ed208c39565a368e6abca35dde575]: Commencement: Reg. 16 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-805e7c04272ca174dcee58625071e448]: Modification: [Reg. 16](https://www.legislation.gov.uk/uksi/1992/1492/regulation/16) applied (Crown) (7.6.2006) by [The Town and Country Planning (Application of Subordinate Legislation to the Crown) Order 2006 (S.I. 2006/1282)](https://www.legislation.gov.uk/uksi/2006/1282), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1282/article/1), [12](https://www.legislation.gov.uk/uksi/2006/1282/article/12)
+[^c-805e7c04272ca174dcee58625071e448]: Modification: [Reg. 16](https://www.legislation.gov.uk/uksi/1992/1492/regulation/16) applied (Crown) (7.6.2006) by [The Town and Country Planning (Application of Subordinate Legislation to the Crown) Order 2006 (S.I. 2006/1282)](https://www.legislation.gov.uk/uksi/2006/1282), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1282/article/1), [12](https://www.legislation.gov.uk/uksi/2006/1282/article/12)
 
-[^key-520c0f3bc38a9f15f00855fd39ed7bb8]: Commencement: Reg. 17 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-520c0f3bc38a9f15f00855fd39ed7bb8]: Commencement: Reg. 17 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-39afbaafd211869f65825d980e1217a7]: Commencement: Reg. 18 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-39afbaafd211869f65825d980e1217a7]: Commencement: Reg. 18 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-2f850aec0344c4091e5c382d2e909d00]: Commencement: Sch. 1 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-2f850aec0344c4091e5c382d2e909d00]: Commencement: Sch. 1 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-0fd640642a4c90ea0bd0ad9f180f7cff]: Commencement: Sch. 2 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-0fd640642a4c90ea0bd0ad9f180f7cff]: Commencement: Sch. 2 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-d2734a046ca0c6bdf1dc7dd73f3775d8]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/1992/1492/schedule/2) applied (Crown) (7.6.2006) by [The Town and Country Planning (Application of Subordinate Legislation to the Crown) Order 2006 (S.I. 2006/1282)](https://www.legislation.gov.uk/uksi/2006/1282), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1282/article/1), [12](https://www.legislation.gov.uk/uksi/2006/1282/article/12)
+[^c-d2734a046ca0c6bdf1dc7dd73f3775d8]: Modification: [Sch. 2](https://www.legislation.gov.uk/uksi/1992/1492/schedule/2) applied (Crown) (7.6.2006) by [The Town and Country Planning (Application of Subordinate Legislation to the Crown) Order 2006 (S.I. 2006/1282)](https://www.legislation.gov.uk/uksi/2006/1282), [arts. 1](https://www.legislation.gov.uk/uksi/2006/1282/article/1), [12](https://www.legislation.gov.uk/uksi/2006/1282/article/12)
 
-[^key-d9ccef15039246fc0e2f00c4e3f9f6e8]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1992/1492/schedule/2): in Counter-Notice objecting to Blight Notice, the words “to the Upper Tribunal” are substituted for “to the Lands Tribunal” (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 41(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/41/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-d9ccef15039246fc0e2f00c4e3f9f6e8]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1992/1492/schedule/2): in Counter-Notice objecting to Blight Notice, the words “to the Upper Tribunal” are substituted for “to the Lands Tribunal” (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 41(a)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/41/a) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-7079e53ae4d481157f011d664c05f800]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1992/1492/schedule/2): in Counter-Notice objecting to Blight Notice, the words “the Upper Tribunal” are substituted for “the Registrar, The Lands Tribunal, 48/49 Chancery Lane, London WC2A 1JR” (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 41(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/41/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
+[^c-7079e53ae4d481157f011d664c05f800]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/1992/1492/schedule/2): in Counter-Notice objecting to Blight Notice, the words “the Upper Tribunal” are substituted for “the Registrar, The Lands Tribunal, 48/49 Chancery Lane, London WC2A 1JR” (1.6.2009) by [The Transfer of Tribunal Functions (Lands Tribunal and Miscellaneous Amendments) Order 2009 (S.I. 2009/1307)](https://www.legislation.gov.uk/uksi/2009/1307), [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1), [Sch. 2 para. 41(b)](https://www.legislation.gov.uk/uksi/2009/1307/schedule/2/paragraph/41/b) (with [Sch. 5](https://www.legislation.gov.uk/uksi/2009/1307/schedule/5))
 
-[^key-87b3b266ed28d650c5f4dedbd4973d28]: Commencement: Sch. 3 Pt. 1 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-87b3b266ed28d650c5f4dedbd4973d28]: Commencement: Sch. 3 Pt. 1 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-80e7be87f3af3d4b5c291a9a4e44ff04]: Textual amendment: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/1992/1492/schedule/3/part/1): by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [art. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [Sch. 2 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2017/1309/schedule/2/paragraph/1/3/a), for the words “Planning permission for” to “(e)\]\*.” there are substituted (E.) (1.6.2018) the following words:
+[^c-80e7be87f3af3d4b5c291a9a4e44ff04]: Textual amendment: [Sch. 3 Pt. 1](https://www.legislation.gov.uk/uksi/1992/1492/schedule/3/part/1): by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [art. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [Sch. 2 para. 1(3)(a)](https://www.legislation.gov.uk/uksi/2017/1309/schedule/2/paragraph/1/3/a), for the words “Planning permission for” to “(e)\]\*.” there are substituted (E.) (1.6.2018) the following words:
 
     “\[Planning permission / Permission in principle\]\* for................................................(a) at.....................................................................................................................................(b) WE GIVE NOTICE THAT THE ...........................(c) Council have made an order under section 97 of the Town and Country Planning Act 1990 to \[revoke the above planning permission\] \[to the following extent ..........................................................................(d)\] \[revoke the above permission in principle\]\[to the following extent ...........................(d)\] \[modify the above planning permission as follows ................................................(e)\] \[modify the above permission in principle as follows .............................................(e)\]\*.”
 
-[^key-ae44bd8a8c380b7826eb72f0c783a67a]: Commencement: Sch. 3 Pt. 2 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-ae44bd8a8c380b7826eb72f0c783a67a]: Commencement: Sch. 3 Pt. 2 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
 
-[^key-f715154c5bab75c5ca653d328ecd6d44]: Textual amendment: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/1992/1492/schedule/3/part/2): by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [art. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [Sch. 2 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2017/1309/schedule/2/paragraph/1/3/b), for the words “Planning permission for” to “(e)\]\*.” there are substituted (E.) (1.6.2018) the following words:
+[^c-f715154c5bab75c5ca653d328ecd6d44]: Textual amendment: [Sch. 3 Pt. 2](https://www.legislation.gov.uk/uksi/1992/1492/schedule/3/part/2): by [The Town and Country Planning (Permission in Principle) (Amendment) Order 2017 (S.I. 2017/1309)](https://www.legislation.gov.uk/uksi/2017/1309), [art. 1](https://www.legislation.gov.uk/uksi/2017/1309/article/1), [Sch. 2 para. 1(3)(b)](https://www.legislation.gov.uk/uksi/2017/1309/schedule/2/paragraph/1/3/b), for the words “Planning permission for” to “(e)\]\*.” there are substituted (E.) (1.6.2018) the following words:
 
     “\[Planning permission / Permission in principle\]\* for.........................................................(a) at.................................................................................................................................(b) TAKE NOTICE THAT THE ............................(c) Council have made an order under section 97 of the Town and Country Planning Act 1990 to \[revoke the above planning permission\] \[to the following extent .........................................................................(d)\] \[revoke the above permission in principle\] \[to the following extent .............................(d)\] \[modify the above planning permission as follows ...............................................(e)\] \[modify the above permission in principle as follows .............................................(e)\]\*.”
 
-[^key-4ccd01a8a9919ae27a763c71da9a9189]: Commencement: Sch. 4 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)
+[^c-4ccd01a8a9919ae27a763c71da9a9189]: Commencement: Sch. 4 in force at 17.7.1992, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1992/1492/regulation/1/1)

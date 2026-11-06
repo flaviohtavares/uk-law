@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92A. Accommodation in Wales[^key-aaaf5ce570482e739d46e550108c5724]
+## 92A. Accommodation in Wales[^c-aaaf5ce570482e739d46e550108c5724]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aaaf5ce570482e739d46e550108c5724]: Textual amendment: [S. 92A](https://www.legislation.gov.uk/anaw/2014/7/section/92A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [34(11)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/34/11)
+[^c-aaaf5ce570482e739d46e550108c5724]: Textual amendment: [S. 92A](https://www.legislation.gov.uk/anaw/2014/7/section/92A) inserted (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [34(11)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/34/11)

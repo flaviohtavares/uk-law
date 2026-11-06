@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 75. Default in connection with voluntary arrangement[^key-8743830282e51bcd6f929a4a450bc185]
+## 75. Default in connection with voluntary arrangement[^c-8743830282e51bcd6f929a4a450bc185]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ In Article 250(1)(b)(ii) (default in connection with voluntary arrangement), for
 
 ## Annotations
 
-[^key-8743830282e51bcd6f929a4a450bc185]: Commencement: S. 75 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)
+[^c-8743830282e51bcd6f929a4a450bc185]: Commencement: S. 75 not in operation at Royal Assent, see [s. 120(02)](https://www.legislation.gov.uk/nia/2026/6/section/120/02)

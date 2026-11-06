@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4AA. Limited liability partnerships[^key-ad88d75459c2a16ad20bbcf00cf87c22]
+## 4AA. Limited liability partnerships[^c-ad88d75459c2a16ad20bbcf00cf87c22]
 
 *Extent: N.I.*
 
@@ -28,7 +28,7 @@ summary: ''
 - (b) prescribe how earnings in respect of E's employed earner employment with the limited liability partnership are to be determined (including what constitutes such earnings);
 - (c) provide that such earnings are to be treated as being paid to or for the benefit of E at prescribed times.
 
-(2) Regulations under subsection (1) may modify the definition of “employee” or “employer” in section 159, 167, 167ZJ , 167ZS or 167ZZ17[^key-fd582d9fda6b9923a07e53328420ce2f] below as the Treasury consider appropriate to take account of any provision falling within subsection (1)(a) to (c).
+(2) Regulations under subsection (1) may modify the definition of “employee” or “employer” in section 159, 167, 167ZJ , 167ZS or 167ZZ17[^c-fd582d9fda6b9923a07e53328420ce2f] below as the Treasury consider appropriate to take account of any provision falling within subsection (1)(a) to (c).
 
 (3) If—
 
@@ -45,6 +45,6 @@ the Treasury may by regulations make that provision.
 
 ## Annotations
 
-[^key-ad88d75459c2a16ad20bbcf00cf87c22]: Textual amendment: [S. 4AA](https://www.legislation.gov.uk/ukpga/1992/7/section/4AA) inserted (13.3.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 14(6)](https://www.legislation.gov.uk/ukpga/2014/7/section/14/6)
+[^c-ad88d75459c2a16ad20bbcf00cf87c22]: Textual amendment: [S. 4AA](https://www.legislation.gov.uk/ukpga/1992/7/section/4AA) inserted (13.3.2014) by [National Insurance Contributions Act 2014 (c. 7)](https://www.legislation.gov.uk/ukpga/2014/7), [s. 14(6)](https://www.legislation.gov.uk/ukpga/2014/7/section/14/6)
 
-[^key-fd582d9fda6b9923a07e53328420ce2f]: Textual amendment: Words in [s. 4AA(2)](https://www.legislation.gov.uk/ukpga/1992/7/section/4AA/2) substituted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 4](https://www.legislation.gov.uk/ukpga/2022/5/section/4), 5(5)(6), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2022/5/schedule/paragraph/5); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)
+[^c-fd582d9fda6b9923a07e53328420ce2f]: Textual amendment: Words in [s. 4AA(2)](https://www.legislation.gov.uk/ukpga/1992/7/section/4AA/2) substituted (23.3.2022) by [Parental Bereavement (Leave and Pay) Act (Northern Ireland) 2022 (c. 5)](https://www.legislation.gov.uk/ukpga/2022/5), [ss. 4](https://www.legislation.gov.uk/ukpga/2022/5/section/4), 5(5)(6), [Sch. para. 5](https://www.legislation.gov.uk/ukpga/2022/5/schedule/paragraph/5); [S.R. 2022/136](https://www.legislation.gov.uk/nisr/2022/136), [arts. 2](https://www.legislation.gov.uk/nisr/2022/136/article/2), [3](https://www.legislation.gov.uk/nisr/2022/136/article/3)

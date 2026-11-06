@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 51. Prohibition on improper use of the UK marking and the M marking[^M_E_cf37ac6b-54ad-4ee1-c727-6e5e34962619][^key-e28e233bc6a2ee2abbaef7abf102e087]
+## 51. Prohibition on improper use of the UK marking and the M marking[^M_E_cf37ac6b-54ad-4ee1-c727-6e5e34962619][^c-e28e233bc6a2ee2abbaef7abf102e087]
 
 *Extent: E+W+S*
 
@@ -41,6 +41,6 @@ The general principles set out in article 30 of RAMS apply to the M marking with
 
 [^M_E_cf37ac6b-54ad-4ee1-c727-6e5e34962619]: Extent: This version of this provision extends to England and Wales and Scotland only; a separate version has been created for Northern Ireland only
 
-[^key-e28e233bc6a2ee2abbaef7abf102e087]: Textual amendment: Reg. 51 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/36) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e28e233bc6a2ee2abbaef7abf102e087]: Textual amendment: Reg. 51 substituted (E.W.S.) (31.12.2020) by [The Product Safety and Metrology etc. (Amendment etc.) (EU Exit) Regulations 2019 (S.I. 2019/696)](https://www.legislation.gov.uk/uksi/2019/696), [reg. 1](https://www.legislation.gov.uk/uksi/2019/696/regulation/1), [Sch. 27 para. 36](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/36) (with [Sch. 27 para. 50(a)](https://www.legislation.gov.uk/uksi/2019/696/schedule/27/paragraph/50/a)) (as amended by [S.I. 2020/676](https://www.legislation.gov.uk/uksi/2020/676), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2020/676/regulation/1/1), [2](https://www.legislation.gov.uk/uksi/2020/676/regulation/2)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^M_E_e4b330da-4f23-4a37-87a2-ec44461322ba]: Extent: This version of this provision extends to Northern Ireland only; a separate version has been created for England and Wales and Scotland only

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 60. Redemption by energy administrator[^key-c70cb81cdf0ef015044df128c8953fd6]
+## 60. Redemption by energy administrator[^c-c70cb81cdf0ef015044df128c8953fd6]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ If the creditor re-values his security, the energy administrator may only redeem
 
 ## Annotations
 
-[^key-c70cb81cdf0ef015044df128c8953fd6]: Commencement: Rule 60 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)
+[^c-c70cb81cdf0ef015044df128c8953fd6]: Commencement: Rule 60 in force at 1.10.2005, see [rule 1](https://www.legislation.gov.uk/uksi/2005/2483/rule/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 70. Appeal and application rights[^key-142c1923e851d6fec20effc4208fd626][^key-3c5cbae852e25112aa60c40b8e516c2c]
+## 70. Appeal and application rights[^c-142c1923e851d6fec20effc4208fd626][^c-3c5cbae852e25112aa60c40b8e516c2c]
 
 *Extent: E+W*
 
@@ -53,6 +53,6 @@ summary: ''
 
 ## Annotations
 
-[^key-142c1923e851d6fec20effc4208fd626]: Commencement: S. 70 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(f)](https://www.legislation.gov.uk/wsi/2021/373/article/8/f)
+[^c-142c1923e851d6fec20effc4208fd626]: Commencement: S. 70 in force at 1.9.2021 by [S.I. 2021/373](https://www.legislation.gov.uk/wsi/2021/373), [art. 8(f)](https://www.legislation.gov.uk/wsi/2021/373/article/8/f)
 
-[^key-3c5cbae852e25112aa60c40b8e516c2c]: Modification: S. 70 modified (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2), [41](https://www.legislation.gov.uk/wsi/2021/401/regulation/41)
+[^c-3c5cbae852e25112aa60c40b8e516c2c]: Modification: S. 70 modified (1.9.2021) by [The Additional Learning Needs (Wales) Regulations 2021 (S.I. 2021/401)](https://www.legislation.gov.uk/wsi/2021/401), [regs. 1(2)](https://www.legislation.gov.uk/wsi/2021/401/regulation/1/2), [41](https://www.legislation.gov.uk/wsi/2021/401/regulation/41)

@@ -33,7 +33,7 @@ Ecclesiastical Law, England
 
 Fees
 
-The Legal Officers (Annual Fees) Order 2010 (revoked)[^key-681a4316cc861b6dce28c9e372a9a726]
+The Legal Officers (Annual Fees) Order 2010 (revoked)[^c-681a4316cc861b6dce28c9e372a9a726]
 
 Made (Approved by the General Synod)
 
@@ -47,88 +47,88 @@ Coming into force
 
 1st January 2011
 
-[^key-681a4316cc861b6dce28c9e372a9a726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-681a4316cc861b6dce28c9e372a9a726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-681a4316cc861b6dce28c9e372a9a726]
+## 1. Citation and commencement[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Establishment of fees[^key-681a4316cc861b6dce28c9e372a9a726]
+## 2. Establishment of fees[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Payment of fees[^key-681a4316cc861b6dce28c9e372a9a726]
+## 3. Payment of fees[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Revocation of 2009 Order[^key-681a4316cc861b6dce28c9e372a9a726]
+## 4. Revocation of 2009 Order[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5. Duties of the diocesan registrar[^key-681a4316cc861b6dce28c9e372a9a726]
+## 5. Duties of the diocesan registrar[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 6. Supplementary annual fee[^key-681a4316cc861b6dce28c9e372a9a726]
+## 6. Supplementary annual fee[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 7. Travel, subsistence and accommodation[^key-681a4316cc861b6dce28c9e372a9a726]
+## 7. Travel, subsistence and accommodation[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 8. Value Added Tax[^key-681a4316cc861b6dce28c9e372a9a726]
+## 8. Value Added Tax[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-681a4316cc861b6dce28c9e372a9a726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-681a4316cc861b6dce28c9e372a9a726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE 1 — FEES ESTABLISHED BY THIS ORDER[^key-681a4316cc861b6dce28c9e372a9a726]
+## SCHEDULE 1 — FEES ESTABLISHED BY THIS ORDER[^c-681a4316cc861b6dce28c9e372a9a726]
 
-### TABLE I — ANNUAL FEES PAYABLE TO DIOCESAN REGISTRARS (SUBSTITUTED FOR TABLE I OF SCHEDULE 1 TO THE LEGAL OFFICERS (ANNUAL FEES) ORDER 2009)[^key-681a4316cc861b6dce28c9e372a9a726]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-### TABLE II — FEES PAYABLE TO PROVINCIAL REGISTRARS[^key-681a4316cc861b6dce28c9e372a9a726]
-
-#### PART A — FEES PAYABLE TO THE PROVINCIAL REGISTRARS (SUBSTITUTED FOR TABLE II, PART A, OF SCHEDULE 1 TO THE LEGAL OFFICERS (ANNUAL FEES) ORDER 2009)[^key-681a4316cc861b6dce28c9e372a9a726]
+### TABLE I — ANNUAL FEES PAYABLE TO DIOCESAN REGISTRARS (SUBSTITUTED FOR TABLE I OF SCHEDULE 1 TO THE LEGAL OFFICERS (ANNUAL FEES) ORDER 2009)[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-#### PART B — DUTIES AND PROFESSIONAL SERVICES NOT FALLING WITHIN THE SCOPE OF THE ANNUAL FEE[^key-681a4316cc861b6dce28c9e372a9a726]
+### TABLE II — FEES PAYABLE TO PROVINCIAL REGISTRARS[^c-681a4316cc861b6dce28c9e372a9a726]
+
+#### PART A — FEES PAYABLE TO THE PROVINCIAL REGISTRARS (SUBSTITUTED FOR TABLE II, PART A, OF SCHEDULE 1 TO THE LEGAL OFFICERS (ANNUAL FEES) ORDER 2009)[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## SCHEDULE 2 — THE SCOPE OF THE ANNUAL FEE[^key-681a4316cc861b6dce28c9e372a9a726]
-
-### 1. Professional services to be provided by the diocesan registrar[^key-681a4316cc861b6dce28c9e372a9a726]
+#### PART B — DUTIES AND PROFESSIONAL SERVICES NOT FALLING WITHIN THE SCOPE OF THE ANNUAL FEE[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 2. Restrictions on the provisions of paragraph 1[^key-681a4316cc861b6dce28c9e372a9a726]
+## SCHEDULE 2 — THE SCOPE OF THE ANNUAL FEE[^c-681a4316cc861b6dce28c9e372a9a726]
+
+### 1. Professional services to be provided by the diocesan registrar[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 3. Advice or assistance given to the Diocesan Bishop, Suffragan Bishops or Archdeacons[^key-681a4316cc861b6dce28c9e372a9a726]
+### 2. Restrictions on the provisions of paragraph 1[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 4. Work not falling within the scope of the annual fee[^key-681a4316cc861b6dce28c9e372a9a726]
+### 3. Advice or assistance given to the Diocesan Bishop, Suffragan Bishops or Archdeacons[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Disbursements[^key-681a4316cc861b6dce28c9e372a9a726]
+### 4. Work not falling within the scope of the annual fee[^c-681a4316cc861b6dce28c9e372a9a726]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+### 5. Disbursements[^c-681a4316cc861b6dce28c9e372a9a726]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-681a4316cc861b6dce28c9e372a9a726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-681a4316cc861b6dce28c9e372a9a726]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-681a4316cc861b6dce28c9e372a9a726]: Textual amendment: Order revoked (1.1.2012) by [The Legal Officers (Annual Fees) Order 2011 (S.I. 2011/1735)](https://www.legislation.gov.uk/uksi/2011/1735), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1735/article/1/2), [4](https://www.legislation.gov.uk/uksi/2011/1735/article/4)
+[^c-681a4316cc861b6dce28c9e372a9a726]: Textual amendment: Order revoked (1.1.2012) by [The Legal Officers (Annual Fees) Order 2011 (S.I. 2011/1735)](https://www.legislation.gov.uk/uksi/2011/1735), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2011/1735/article/1/2), [4](https://www.legislation.gov.uk/uksi/2011/1735/article/4)

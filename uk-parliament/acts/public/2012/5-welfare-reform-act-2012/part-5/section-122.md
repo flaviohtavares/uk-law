@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 122. Tax credit fraud: investigation[^key-87349b31bab3a43d195a80df8eca9540]
+## 122. Tax credit fraud: investigation[^c-87349b31bab3a43d195a80df8eca9540]
 
 *Extent: E+W+S*
 
@@ -29,4 +29,4 @@ In section 109A of the Social Security Administration Act 1992 (authorisations f
 
 ## Annotations
 
-[^key-87349b31bab3a43d195a80df8eca9540]: Commencement: S. 122 in force at 6.6.2012 by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/2) (as amended (31.5.2012) by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440), art. 2)
+[^c-87349b31bab3a43d195a80df8eca9540]: Commencement: S. 122 in force at 6.6.2012 by [S.I. 2012/1246](https://www.legislation.gov.uk/uksi/2012/1246), [art. 2(2)](https://www.legislation.gov.uk/uksi/2012/1246/article/2/2) (as amended (31.5.2012) by [S.I. 2012/1440](https://www.legislation.gov.uk/uksi/2012/1440), art. 2)

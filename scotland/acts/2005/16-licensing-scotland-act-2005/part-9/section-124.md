@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 124. Exempt premises[^key-aa4fa71632cb1be24c2230f3ee0e19d1]
+## 124. Exempt premises[^c-aa4fa71632cb1be24c2230f3ee0e19d1]
 
 *Extent: S*
 
@@ -51,4 +51,4 @@ summary: ''
 
 ## Annotations
 
-[^key-aa4fa71632cb1be24c2230f3ee0e19d1]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2005/16/section/124) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)
+[^c-aa4fa71632cb1be24c2230f3ee0e19d1]: Commencement: [S. 124](https://www.legislation.gov.uk/asp/2005/16/section/124) in force at 1.9.2009 at 5.00 a.m. by [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3)

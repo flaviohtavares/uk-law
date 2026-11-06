@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 2. Minor and consequential amendments[^key-b11535e6736088fe04e9bc6cf409d252][^key-df04237ca91eac592f2c427877735e8a]
+## 2. Minor and consequential amendments[^c-b11535e6736088fe04e9bc6cf409d252][^c-df04237ca91eac592f2c427877735e8a]
 
 *Extent: E+W*
 
@@ -24,6 +24,6 @@ Part 1 of Schedule 1 makes minor and consequential amendments relating to this C
 
 ## Annotations
 
-[^key-b11535e6736088fe04e9bc6cf409d252]: Commencement: S. 2 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
+[^c-b11535e6736088fe04e9bc6cf409d252]: Commencement: S. 2 not in force at Royal Assent, see [s. 72(4)](https://www.legislation.gov.uk/asc/2024/5/section/72/4)
 
-[^key-df04237ca91eac592f2c427877735e8a]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2024/5/section/2) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)
+[^c-df04237ca91eac592f2c427877735e8a]: Commencement: [S. 2](https://www.legislation.gov.uk/asc/2024/5/section/2) in force at 1.1.2025 by [S.I. 2024/1337](https://www.legislation.gov.uk/wsi/2024/1337), [art. 2(b)](https://www.legislation.gov.uk/wsi/2024/1337/article/2/b)

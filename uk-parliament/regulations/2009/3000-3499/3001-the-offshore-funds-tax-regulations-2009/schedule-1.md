@@ -24,7 +24,7 @@ Regulation 1(3) and 13(1)
 
 **1.** In this Schedule—
 
-- “**distributing fund**” means a fund which, immediately before 1st December 2009, was a distributing fund for the purposes of Chapter 5 of Part 17 of ICTA or a fund treated as a distributing fund in accordance with paragraph 3(3A)[^key-a10ebe4cb8d6a3b35ac07b110d8d7f4e];
+- “**distributing fund**” means a fund which, immediately before 1st December 2009, was a distributing fund for the purposes of Chapter 5 of Part 17 of ICTA or a fund treated as a distributing fund in accordance with paragraph 3(3A)[^c-a10ebe4cb8d6a3b35ac07b110d8d7f4e];
 - “**existing fund**” means a fund to which, immediately before 1st December 2009, section 756A of ICTA [^c19952541] applied;
 - “**non-qualifying fund**” means a fund which, immediately before 1st December 2009, was a non-qualifying fund for the purposes of Chapter 5 of Part 17 of ICTA; the “**overlap period**” means the period of account of an existing fund which has begun, but not ended, on the day these Regulations come into force; the “**succeeding period**” means the period of account of the fund immediately following the overlap period.
 
@@ -34,15 +34,15 @@ Regulation 1(3) and 13(1)
 
 (3) An offshore income gain arising to a person on the disposal of an asset must be computed in accordance with Part 2, but is to have regard to the entirety of the period of the person's ownership of the asset.
 
-**3.** (1) This paragraph applies in the case of an existing fund and umbrella arrangements but is subject to paragraph (3B)[^key-306ceb77d32216d8a5a678326fa76ee4].
+**3.** (1) This paragraph applies in the case of an existing fund and umbrella arrangements but is subject to paragraph (3B)[^c-306ceb77d32216d8a5a678326fa76ee4].
 
-(2)[^key-d5006bd58d126ffd620e5bd59ce48c0a] The fund or any person within paragraph 18(1) of Schedule 27 to ICTA may apply in writing to HMRC for the fund to be treated as a distributing fund in respect of the overlap period or any earlier period of account.
+(2)[^c-d5006bd58d126ffd620e5bd59ce48c0a] The fund or any person within paragraph 18(1) of Schedule 27 to ICTA may apply in writing to HMRC for the fund to be treated as a distributing fund in respect of the overlap period or any earlier period of account.
 
 (3) If the fund or any person within paragraph 18(1) of Schedule 27 to ICTA has made a successful application under sub-paragraph (2), the fund or that person may apply in writing to HMRC for the fund to be continued to be treated as a distributing fund in respect of the succeeding period.
 
 (3ZA) But no application may be made under paragraph (3) if HMRC have accepted an application for Part 3 to apply to the fund.
 
-(3A)[^key-5ec9a72064f2505c525b9d83dabdea62] Where an existing fund is part of umbrella arrangements (within the meaning of section 40C of FA 2008) or is part of arrangements comprising more than one class of interest (within the meaning of section 40D of FA 2008), separate arrangements under the umbrella arrangements, and each class of interest under the main arrangements, established on or after 1st December 2009, may apply in writing to HMRC to be treated as a distributing fund in respect of a period of account if—
+(3A)[^c-5ec9a72064f2505c525b9d83dabdea62] Where an existing fund is part of umbrella arrangements (within the meaning of section 40C of FA 2008) or is part of arrangements comprising more than one class of interest (within the meaning of section 40D of FA 2008), separate arrangements under the umbrella arrangements, and each class of interest under the main arrangements, established on or after 1st December 2009, may apply in writing to HMRC to be treated as a distributing fund in respect of a period of account if—
 
 - (a) that period has the same accounting reference date as the overlap period or succeeding period of the existing fund, and
 - (b) the existing fund is treated as a distributing fund in respect of the contemporaneous overlap period or succeeding period.
@@ -51,7 +51,7 @@ Regulation 1(3) and 13(1)
 
 (4) The repeal by these Regulations of the enactments specified in Schedule 2 does not affect the continued operation of those provisions for the purposes of this paragraph.
 
-**3A.**[^key-a7db7755eec5bbac381edd350d11062c] In the case of a reporting fund which has an interest in a distributing fund, income from the distributing fund is treated as income from a reporting fund but no adjustment shall be made to that income under regulation 68 (income from other reporting funds).
+**3A.**[^c-a7db7755eec5bbac381edd350d11062c] In the case of a reporting fund which has an interest in a distributing fund, income from the distributing fund is treated as income from a reporting fund but no adjustment shall be made to that income under regulation 68 (income from other reporting funds).
 
 **3B.** (1)  This paragraph applies in the case of a distributing fund which has an interest in a reporting fund.
 
@@ -110,18 +110,18 @@ Regulation 1(3) and 13(1)
 
 ## Annotations
 
-[^key-a10ebe4cb8d6a3b35ac07b110d8d7f4e]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/3001/schedule/1/paragraph/1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/3139)](https://www.legislation.gov.uk/uksi/2009/3139), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/5/2)
+[^c-a10ebe4cb8d6a3b35ac07b110d8d7f4e]: Textual amendment: Words in [Sch. 1 para. 1](https://www.legislation.gov.uk/uksi/2009/3001/schedule/1/paragraph/1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/3139)](https://www.legislation.gov.uk/uksi/2009/3139), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/1/1), [5(2)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/5/2)
 
 [^c19952541]: Marginal citation: Section 756A was inserted by paragraph 3 of Schedule 26 to the [Finance Act 2004 (c. 12)](https://www.legislation.gov.uk/ukpga/2004/12) and amended by section 57(2) of the [Finance Act 2007 (c. 11)](https://www.legislation.gov.uk/ukpga/2007/11). Section 756A is repealed by these Regulations (see [regulation 13(2)](https://www.legislation.gov.uk/ukpga/2007/11/regulation/13/2) and Schedule 2) subject to the saving contained in paragraph 3(4) of this Schedule (see [regulation 13(3)](https://www.legislation.gov.uk/ukpga/2007/11/regulation/13/3)).
 
-[^key-306ceb77d32216d8a5a678326fa76ee4]: Textual amendment: Words in Sch. 1 para. 3(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/3139)](https://www.legislation.gov.uk/uksi/2009/3139), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/5/3/a)
+[^c-306ceb77d32216d8a5a678326fa76ee4]: Textual amendment: Words in Sch. 1 para. 3(1) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/3139)](https://www.legislation.gov.uk/uksi/2009/3139), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/1/1), [5(3)(a)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/5/3/a)
 
-[^key-d5006bd58d126ffd620e5bd59ce48c0a]: Textual amendment: Sch. 1 para. 3(2)-(3ZA) substituted for Sch. 1 para. 3(2)(3) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [42(2)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/42/2)
+[^c-d5006bd58d126ffd620e5bd59ce48c0a]: Textual amendment: Sch. 1 para. 3(2)-(3ZA) substituted for Sch. 1 para. 3(2)(3) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [42(2)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/42/2)
 
-[^key-5ec9a72064f2505c525b9d83dabdea62]: Textual amendment: Sch. 1 para. 3(3A)(3B) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/3139)](https://www.legislation.gov.uk/uksi/2009/3139), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/5/3/b)
+[^c-5ec9a72064f2505c525b9d83dabdea62]: Textual amendment: Sch. 1 para. 3(3A)(3B) inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/3139)](https://www.legislation.gov.uk/uksi/2009/3139), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/1/1), [5(3)(b)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/5/3/b)
 
 [^M_F_f70110b1-e50c-433c-8d18-42f76fe3ef72]: Textual amendment: Words in Sch. 1 para. 3(3B) substituted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2011 (S.I. 2011/1211)](https://www.legislation.gov.uk/uksi/2011/1211), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/1/1), [42(3)](https://www.legislation.gov.uk/uksi/2011/1211/regulation/42/3)
 
-[^key-a7db7755eec5bbac381edd350d11062c]: Textual amendment: Sch. 1 paras. 3A-3C inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/3139)](https://www.legislation.gov.uk/uksi/2009/3139), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/5/4)
+[^c-a7db7755eec5bbac381edd350d11062c]: Textual amendment: Sch. 1 paras. 3A-3C inserted (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Offshore Funds (Tax) (Amendment) Regulations 2009 (S.I. 2009/3139)](https://www.legislation.gov.uk/uksi/2009/3139), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/1/1), [5(4)](https://www.legislation.gov.uk/uksi/2009/3139/regulation/5/4)
 
 [^c19952551]: Marginal citation: [1998 c. 36](https://www.legislation.gov.uk/ukpga/1998/36).

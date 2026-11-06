@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 96. References by SCCRC[^key-ef4f02ba72aaeb4c2f1acc62f6136d3f]
+## 96. References by SCCRC[^c-ef4f02ba72aaeb4c2f1acc62f6136d3f]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ef4f02ba72aaeb4c2f1acc62f6136d3f]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2016/1/section/96) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)
+[^c-ef4f02ba72aaeb4c2f1acc62f6136d3f]: Commencement: [S. 96](https://www.legislation.gov.uk/asp/2016/1/section/96) in force at 17.1.2017 by [S.S.I. 2016/426](https://www.legislation.gov.uk/ssi/2016/426), [art. 2](https://www.legislation.gov.uk/ssi/2016/426/article/2), [sch.](https://www.legislation.gov.uk/ssi/2016/426/schedule)

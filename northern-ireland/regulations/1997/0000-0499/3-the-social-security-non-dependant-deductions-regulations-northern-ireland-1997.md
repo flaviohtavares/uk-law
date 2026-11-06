@@ -38,7 +38,7 @@ Coming into operation in accordance with regulation 1
 
 The Department of Health and Social Services for Northern Ireland, in exercise of the powers conferred on it by sections 122(1)(*a*) and (*d*), 129(4), 131(1) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Articles 6(5) and 36(1) and (2) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and of all other powers enabling it in that behalf, with the consent of the Department of the Environment for Northern Ireland in so far as its consent is required, and after agreement by the Social Security Advisory Committee that proposals in respect of these Regulations should not be referred to it[^f00003], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-35b786bac8f7cd0614c00f63335b1a06][^key-e479bb979e914c51252bc01561c78e6b]
+## 1. Citation, commencement and interpretation[^c-35b786bac8f7cd0614c00f63335b1a06][^c-e479bb979e914c51252bc01561c78e6b]
 
 (1) These Regulations may be cited as the Social Security (Non-Dependant Deductions) Regulations (Northern Ireland) 1997 and shall come into operation—
 
@@ -56,11 +56,11 @@ The Department of Health and Social Services for Northern Ireland, in exercise o
 
 (4) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## .... Amendment of regulation 63 of the Housing Benefit (General) Regulations[^key-c3a8f0d9a4a126f9cb1acf8a89fc7ddc][^key-5fdfc34d5ac835b01561fc006367ff07][^key-c3a8f0d9a4a126f9cb1acf8a89fc7ddc]
+## .... Amendment of regulation 63 of the Housing Benefit (General) Regulations[^c-c3a8f0d9a4a126f9cb1acf8a89fc7ddc][^c-5fdfc34d5ac835b01561fc006367ff07][^c-c3a8f0d9a4a126f9cb1acf8a89fc7ddc]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Income support and jobseeker’s allowance: changes in thresholds for, and amounts of, non-dependant deductions relating to housing costs[^key-3b0c633aca8027246816001e22a9841b]
+## 3. Income support and jobseeker’s allowance: changes in thresholds for, and amounts of, non-dependant deductions relating to housing costs[^c-3b0c633aca8027246816001e22a9841b]
 
 In both paragraph 18 of Schedule 3[^f00012] to the Income Support (General) Regulations (Northern Ireland) 1987 and paragraph 17 of Schedule 2 to the Jobseeker’s Allowance Regulations (Northern Ireland) 1996 (non-dependant deductions)—
 
@@ -110,9 +110,9 @@ In so far as these Regulations are required, for the purposes of regulation 2 to
 
 [^f00003]: Footnote: *See* section 150(1)(*b*) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-35b786bac8f7cd0614c00f63335b1a06]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/3/regulation/1) in operation at 1.4.1997 for specified purposes, see [reg. 1(1)(a)(i)](https://www.legislation.gov.uk/nisr/1997/3/regulation/1/1/a/i)
+[^c-35b786bac8f7cd0614c00f63335b1a06]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/3/regulation/1) in operation at 1.4.1997 for specified purposes, see [reg. 1(1)(a)(i)](https://www.legislation.gov.uk/nisr/1997/3/regulation/1/1/a/i)
 
-[^key-e479bb979e914c51252bc01561c78e6b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/3/regulation/1) in operation at 7.4.1997 in so far as not already in operation, see [reg. 1(1)(a)(ii)](https://www.legislation.gov.uk/nisr/1997/3/regulation/1/1/a/ii)
+[^c-e479bb979e914c51252bc01561c78e6b]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/1997/3/regulation/1) in operation at 7.4.1997 in so far as not already in operation, see [reg. 1(1)(a)(ii)](https://www.legislation.gov.uk/nisr/1997/3/regulation/1/1/a/ii)
 
 [^f00004]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); relevant amending Rules are [S.R. 1995 Nos. 301](https://www.legislation.gov.uk/nisr/1995/301) and [434](https://www.legislation.gov.uk/nisr/1995/434) and [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)
 
@@ -120,10 +120,10 @@ In so far as these Regulations are required, for the purposes of regulation 2 to
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-c3a8f0d9a4a126f9cb1acf8a89fc7ddc]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/3/regulation/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-c3a8f0d9a4a126f9cb1acf8a89fc7ddc]: Textual amendment: [Reg. 2](https://www.legislation.gov.uk/nisr/1997/3/regulation/2) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
-[^key-5fdfc34d5ac835b01561fc006367ff07]: Annotation text not found in the source document.
+[^c-5fdfc34d5ac835b01561fc006367ff07]: Annotation text not found in the source document.
 
-[^key-3b0c633aca8027246816001e22a9841b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/3/regulation/3) in operation at 6.4.1998 with effect in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1997/3/regulation/1/3)
+[^c-3b0c633aca8027246816001e22a9841b]: Commencement: [Reg. 3](https://www.legislation.gov.uk/nisr/1997/3/regulation/3) in operation at 6.4.1998 with effect in accordance with, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/1997/3/regulation/1/3)
 
 [^f00012]: Footnote: Schedule 3 was substituted by regulation 2 of [S.R. 1995 No. 301](https://www.legislation.gov.uk/nisr/1995/301) and paragraph 18(1)(*a*) and (2) were amended by regulation 2(3)(*j*)(i) and (ii) of [S.R. 1995 No. 434](https://www.legislation.gov.uk/nisr/1995/434) and Article 18(6) and (7) of [S.R. 1996 No. 73](https://www.legislation.gov.uk/nisr/1996/73)

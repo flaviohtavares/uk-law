@@ -30,7 +30,7 @@ summary: ''
 
 FOOD
 
-Meat Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^key-ab534528daac37104864adc25f87f32e]
+Meat Products (Hygiene) (Amendment) Regulations (Northern Ireland) 1999 (revoked)[^c-ab534528daac37104864adc25f87f32e]
 
 Made
 
@@ -50,24 +50,24 @@ Coming into operation—
 
 31st March 2000
 
-[^key-ab534528daac37104864adc25f87f32e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab534528daac37104864adc25f87f32e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-ab534528daac37104864adc25f87f32e]
+## 1. Citation and commencement[^c-ab534528daac37104864adc25f87f32e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendments to the Meat Products (Hygiene) Regulations (Northern Ireland) 1997[^key-ab534528daac37104864adc25f87f32e]
+## 2. Amendments to the Meat Products (Hygiene) Regulations (Northern Ireland) 1997[^c-ab534528daac37104864adc25f87f32e]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ab534528daac37104864adc25f87f32e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab534528daac37104864adc25f87f32e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-ab534528daac37104864adc25f87f32e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ab534528daac37104864adc25f87f32e]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ab534528daac37104864adc25f87f32e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/193) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)
+[^c-ab534528daac37104864adc25f87f32e]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/1999/193) revoked (11.2.2019) by [The Food (Miscellaneous Amendments and Revocations) Regulations (Northern Ireland) 2019 (S.R. 2019/5)](https://www.legislation.gov.uk/nisr/2019/5), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2019/5/regulation/1/1), [Sch. 7](https://www.legislation.gov.uk/nisr/2019/5/schedule/7)

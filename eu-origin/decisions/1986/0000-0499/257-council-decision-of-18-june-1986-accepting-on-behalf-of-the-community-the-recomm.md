@@ -35,14 +35,14 @@ accepting, on behalf of the Community, the recommendation of the Customs Coopera
 
 (86/257/EEC) (revoked)
 
-[^key-3bd44035ead906702c4bfa62c9b33090]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bd44035ead906702c4bfa62c9b33090]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 1.**[^key-3bd44035ead906702c4bfa62c9b33090] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-3bd44035ead906702c4bfa62c9b33090] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-3bd44035ead906702c4bfa62c9b33090] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-3bd44035ead906702c4bfa62c9b33090] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-3bd44035ead906702c4bfa62c9b33090]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-3bd44035ead906702c4bfa62c9b33090]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-3bd44035ead906702c4bfa62c9b33090]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-3bd44035ead906702c4bfa62c9b33090]: Textual amendment: Decision revoked (31.12.2020) by [The Customs (Revocation of Retained Direct EU Legislation, etc.) (EU Exit) Regulations 2019 (S.I. 2019/698)](https://www.legislation.gov.uk/uksi/2019/698), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2019/698/regulation/1/2), [Sch. para. 24](https://www.legislation.gov.uk/uksi/2019/698/schedule/paragraph/24); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 157. Procedure for settling list[^key-90dd87cd6039b0d750b8f7296819fb45]
+## 157. Procedure for settling list[^c-90dd87cd6039b0d750b8f7296819fb45]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.208 of the 1991 Rules.
 
 ## Annotations
 
-[^key-90dd87cd6039b0d750b8f7296819fb45]: Commencement: Rule 157 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-90dd87cd6039b0d750b8f7296819fb45]: Commencement: Rule 157 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

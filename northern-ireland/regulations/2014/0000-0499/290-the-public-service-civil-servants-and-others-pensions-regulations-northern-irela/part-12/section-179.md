@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 179. Provision of benefit information statements to members[^key-17e2fe6fc9eb1b9b2d469661b0a97064]
+## 179. Provision of benefit information statements to members[^c-17e2fe6fc9eb1b9b2d469661b0a97064]
 
 *Extent: N.I.*
 
@@ -27,4 +27,4 @@ summary: ''
 
 ## Annotations
 
-[^key-17e2fe6fc9eb1b9b2d469661b0a97064]: Commencement: [Reg. 179](https://www.legislation.gov.uk/nisr/2014/290/regulation/179) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)
+[^c-17e2fe6fc9eb1b9b2d469661b0a97064]: Commencement: [Reg. 179](https://www.legislation.gov.uk/nisr/2014/290/regulation/179) in operation at 1.4.2015, see [reg. 1(3)](https://www.legislation.gov.uk/nisr/2014/290/regulation/1/3)

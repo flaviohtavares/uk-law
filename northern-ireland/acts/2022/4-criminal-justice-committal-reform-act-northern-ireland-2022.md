@@ -38,15 +38,15 @@ BE IT ENACTED by being passed by the Northern Ireland Assembly and assented to b
 
 ## Abolition of preliminary investigations and mixed committals
 
-### 1. Abolition of preliminary investigations[^key-61a4b2d7e2a7701e7d5898518b0f9be3][^key-2e3e2598b6e6626833d3b198c5f0bd68]
+### 1. Abolition of preliminary investigations[^c-61a4b2d7e2a7701e7d5898518b0f9be3][^c-2e3e2598b6e6626833d3b198c5f0bd68]
 
 Article 30 of the Magistrates’ Courts (Northern Ireland) Order 1981 (which enables a magistrates’ court to conduct a preliminary investigation of an indictable offence) is repealed; and accordingly all committal proceedings in a magistrates’ court shall be by way of preliminary inquiry under that Order.
 
-### 2. Abolition of mixed committals: evidence on oath not to be given at preliminary inquiry[^key-3a4c881aa9feae185d5466a1e33d3308][^key-b456057a25a10f18e7b734e69ed2d720]
+### 2. Abolition of mixed committals: evidence on oath not to be given at preliminary inquiry[^c-3a4c881aa9feae185d5466a1e33d3308][^c-b456057a25a10f18e7b734e69ed2d720]
 
 Article 34(2) of the Magistrates’ Courts (Northern Ireland) Order 1981 (which enables witnesses to give evidence on oath at a preliminary inquiry) is repealed.
 
-### 3. Consequential amendments and repeals[^key-2022367ff2c6f1ecd128e06958c39507][^key-8885af5ea8af21215da0325c559ef6d9]
+### 3. Consequential amendments and repeals[^c-2022367ff2c6f1ecd128e06958c39507][^c-8885af5ea8af21215da0325c559ef6d9]
 
 The Schedule (which contains amendments and repeals consequential on sections 1 and 2) has effect.
 
@@ -54,7 +54,7 @@ The Schedule (which contains amendments and repeals consequential on sections 1 
 
 **Not yet in force.**
 
-### 4. Direct committal for trial: miscellaneous amendments[^key-06a2f68f5e50f102ff112f472d89ed16]
+### 4. Direct committal for trial: miscellaneous amendments[^c-06a2f68f5e50f102ff112f472d89ed16]
 
 (1) Chapter 2 of Part 2 of the Justice Act (Northern Ireland) 2015 (direct committal for trial) is amended as follows.
 
@@ -227,7 +227,7 @@ The Schedule (which contains amendments and repeals consequential on sections 1 
 
 ## Final provisions
 
-### 5. Commencement and transitional provisions, etc.[^key-b9918b334d0f80f6a3bb2d7b1d6d88ed]
+### 5. Commencement and transitional provisions, etc.[^c-b9918b334d0f80f6a3bb2d7b1d6d88ed]
 
 (1) This section and section 6 come into operation on the day after the day on which this Act receives Royal Assent.
 
@@ -237,7 +237,7 @@ The Schedule (which contains amendments and repeals consequential on sections 1 
 
 (4) An order under subsection (2) may contain further transitional provisions or savings.
 
-### 6. Short title[^key-f0babcf2b405346eaf36b76baeb523c6]
+### 6. Short title[^c-f0babcf2b405346eaf36b76baeb523c6]
 
 This Act may be cited as the Criminal Justice (Committal Reform) Act (Northern Ireland) 2022.
 
@@ -247,35 +247,35 @@ Section 3.
 
 ### [The Criminal Justice Act (Northern Ireland) 1945 (c. 15)](https://www.legislation.gov.uk/apni/1945/15)
 
-**1.**[^key-9981d6444d7f8d72c86a6a2d47c3bd96][^key-64a5b84d8a040bf834aad0a5d63aa5bd] In section 45(1) in the definition of “court of summary jurisdiction” for “investigation of” substitute “inquiry into”.
+**1.**[^c-9981d6444d7f8d72c86a6a2d47c3bd96][^c-64a5b84d8a040bf834aad0a5d63aa5bd] In section 45(1) in the definition of “court of summary jurisdiction” for “investigation of” substitute “inquiry into”.
 
 ### [The Electoral Law Act (Northern Ireland) 1962 (c. 14)](https://www.legislation.gov.uk/apni/1962/14)
 
-**2.**[^key-d6eb52ed9c90c5497a29a98620fd2b00][^key-9acdb34e6a0961368f09f3d3bbf37d24] In section 110(1) for “investigation of” substitute “inquiry into”.
+**2.**[^c-d6eb52ed9c90c5497a29a98620fd2b00][^c-9acdb34e6a0961368f09f3d3bbf37d24] In section 110(1) for “investigation of” substitute “inquiry into”.
 
 ### [The Costs in Criminal Cases Act (Northern Ireland) 1968 (c. 10)](https://www.legislation.gov.uk/apni/1968/10)
 
-**3.**[^key-3c1ce0bd397a7ae29d4c9a710aa254b8][^key-ff6c4e8c0f595498d9dc792107800bc5] In section 3(1) for “**investigation of**” (twice) substitute “inquiry into”.
+**3.**[^c-3c1ce0bd397a7ae29d4c9a710aa254b8][^c-ff6c4e8c0f595498d9dc792107800bc5] In section 3(1) for “**investigation of**” (twice) substitute “inquiry into”.
 
 ### [The Criminal Justice (Miscellaneous Provisions) Act (Northern Ireland) 1968 (c. 28)](https://www.legislation.gov.uk/apni/1968/28)
 
-**4.**[^key-d0e56b218bf77c3dad647e19068446d2][^key-8fc8af774e0e9bdb9e79ba2774e5d2c5] In section 1(9) for “investigation of” substitute “inquiry into”.
+**4.**[^c-d0e56b218bf77c3dad647e19068446d2][^c-8fc8af774e0e9bdb9e79ba2774e5d2c5] In section 1(9) for “investigation of” substitute “inquiry into”.
 
 ### [The Criminal Jurisdiction Act 1975 (c. 59)](https://www.legislation.gov.uk/ukpga/1975/59)
 
-**5.**[^key-6bada4e0aa56453731941483c33ddc4d][^key-959e9e5ebd7aad5b6faadf5ea36e49eb] Sections 4(3) and 10 are repealed.
+**5.**[^c-6bada4e0aa56453731941483c33ddc4d][^c-959e9e5ebd7aad5b6faadf5ea36e49eb] Sections 4(3) and 10 are repealed.
 
 ### [The Criminal Appeal (Northern Ireland) Act 1980 (c. 47)](https://www.legislation.gov.uk/ukpga/1980/47)
 
-**6.**[^key-b6e61b1f9d354d145d0739d9811ec00d][^key-ef46a85bcfee3f5d652b2e68fc4a2233] In section 41(2)(b) the words “preliminary investigation or” are repealed.
+**6.**[^c-b6e61b1f9d354d145d0739d9811ec00d][^c-ef46a85bcfee3f5d652b2e68fc4a2233] In section 41(2)(b) the words “preliminary investigation or” are repealed.
 
 ### [The Legal Aid, Advice and Assistance (Northern Ireland) Order 1981 (NI 8)](https://www.legislation.gov.uk/nisi/1981/228)
 
-**7.**[^key-23386e7f57679837d2c028de9f4914ca][^key-4a33fdea8d531946beb82d43d210e33b] In Article 29(2)(b) the words “the depositions taken at the preliminary investigation or, as the case may be,” and “, and any depositions taken,” are repealed.
+**7.**[^c-23386e7f57679837d2c028de9f4914ca][^c-4a33fdea8d531946beb82d43d210e33b] In Article 29(2)(b) the words “the depositions taken at the preliminary investigation or, as the case may be,” and “, and any depositions taken,” are repealed.
 
 ### [The Magistrates’ Courts (Northern Ireland) Order 1981 (NI 26)](https://www.legislation.gov.uk/nisi/1981/1675)
 
-**8.**[^key-7717f7471838ee531fa5871ec8f1c01e][^key-7937d2632018eb01e69fc5a1ea89ade5] (1) The following provisions are repealed—
+**8.**[^c-7717f7471838ee531fa5871ec8f1c01e][^c-7937d2632018eb01e69fc5a1ea89ade5] (1) The following provisions are repealed—
 
 - (a) in Article 2(3), in the definition of “summary proceeding”, the words “a preliminary investigation or” and “investigation or”;
 - (b) in Article 16(1)(a) the words “or a preliminary investigation”;
@@ -308,15 +308,15 @@ Section 3.
 
 ### [The Mental Health (Northern Ireland) Order 1986 (NI 4)](https://www.legislation.gov.uk/nisi/1986/595)
 
-**9.**[^key-7d377ece0e1bf0c109d0837eae08d4c0][^key-ffa6ed17f3a5e2431c5f20987fd946c0] In Article 58(7) the words “preliminary investigation or” are repealed.
+**9.**[^c-7d377ece0e1bf0c109d0837eae08d4c0][^c-ffa6ed17f3a5e2431c5f20987fd946c0] In Article 58(7) the words “preliminary investigation or” are repealed.
 
 ### [The Criminal Justice (Serious Fraud) (Northern Ireland) Order 1988 (NI 16)](https://www.legislation.gov.uk/nisi/1988/1846)
 
-**10.**[^key-e93c97f2fe1d10602cb5de5fbf5f15e3][^key-137dfbff607f2a25f1ebb8678978e9f8] Article 3(1)(c)(i) is repealed.
+**10.**[^c-e93c97f2fe1d10602cb5de5fbf5f15e3][^c-137dfbff607f2a25f1ebb8678978e9f8] Article 3(1)(c)(i) is repealed.
 
 ### [The Police and Criminal Evidence (Northern Ireland) Order 1989 (NI 12)](https://www.legislation.gov.uk/nisi/1989/1341)
 
-**11.**[^key-99bae511afe093531157e85b04e3a219][^key-1167e54d0a296add7902a979b799e808] The following provisions are repealed—
+**11.**[^c-99bae511afe093531157e85b04e3a219][^c-1167e54d0a296add7902a979b799e808] The following provisions are repealed—
 
 - (a) Article 80A(4)(a);
 - (b) in Article 81(1A)—
@@ -327,15 +327,15 @@ Section 3.
 
 ### [The Children’s Evidence (Northern Ireland) Order 1995 (NI 3)](https://www.legislation.gov.uk/nisi/1995/757)
 
-**12.**[^key-22526f044fd93aa6bd18d5c230dab717][^key-481d863870b399d238274b2415022e90] Article 4(2)(a) is repealed.
+**12.**[^c-22526f044fd93aa6bd18d5c230dab717][^c-481d863870b399d238274b2415022e90] Article 4(2)(a) is repealed.
 
 ### [The Road Traffic Offenders (Northern Ireland) Order 1996 (NI 10)](https://www.legislation.gov.uk/nisi/1996/1320)
 
-**13.**[^key-87558a18456138bd1f6c7f25613cb912][^key-917603bba13fc0b56b3e0a4a673fe6d6] In Article 9(1) the words “investigation or” are repealed.
+**13.**[^c-87558a18456138bd1f6c7f25613cb912][^c-917603bba13fc0b56b3e0a4a673fe6d6] In Article 9(1) the words “investigation or” are repealed.
 
 ### [The Criminal Justice (Children) (Northern Ireland) Order 1998 (NI 9)](https://www.legislation.gov.uk/nisi/1998/1504)
 
-**14.**[^key-f18b09ad0c84a06bb1218f760652f26f][^key-21faf947d3a85e5d4f590e951718c71a] The following provisions are repealed—
+**14.**[^c-f18b09ad0c84a06bb1218f760652f26f][^c-21faf947d3a85e5d4f590e951718c71a] The following provisions are repealed—
 
 - (a) Article 23;
 - (b) in Article 29(2)(b)(i) the words “preliminary investigation or”;
@@ -343,22 +343,22 @@ Section 3.
 
 ### [The Criminal Evidence (Northern Ireland) Order 1999 (NI 8)](https://www.legislation.gov.uk/nisi/1999/2789)
 
-**15.**[^key-c983f1907cba4bb12a15b1813bcc17ef][^key-4767eb2ab7071950f4807729194afb87] The following provisions are repealed—
+**15.**[^c-c983f1907cba4bb12a15b1813bcc17ef][^c-4767eb2ab7071950f4807729194afb87] The following provisions are repealed—
 
 - (a) Article 15(10);
 - (b) in Article 29(3)(a) the words “preliminary investigation or”.
 
 ### [The Criminal Justice (Northern Ireland) Order 2004 (NI 9)](https://www.legislation.gov.uk/nisi/2004/1500)
 
-**16.**[^key-c39c0833ff82085d01a1125e064344c5][^key-67b2dab1f680bd7e669eae9f65848443] Article 10(2)(c) is repealed.
+**16.**[^c-c39c0833ff82085d01a1125e064344c5][^c-67b2dab1f680bd7e669eae9f65848443] Article 10(2)(c) is repealed.
 
 ### [The Justice and Security (Northern Ireland) Act 2007 (c. 6)](https://www.legislation.gov.uk/ukpga/2007/6)
 
-**17.**[^key-11f64307dfb7c106104d1766fbee8b3c][^key-0de490b1ef0b2705f3102bed6a0fd9db] Section 3 is repealed.
+**17.**[^c-11f64307dfb7c106104d1766fbee8b3c][^c-0de490b1ef0b2705f3102bed6a0fd9db] Section 3 is repealed.
 
 ### [The Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9)
 
-**18.**[^key-54278fb9f30ba0f4f8cb4e81b67e6626][^key-3c9cf6e3522d7b040e95ec029051e9f6] The following provisions are repealed—
+**18.**[^c-54278fb9f30ba0f4f8cb4e81b67e6626][^c-3c9cf6e3522d7b040e95ec029051e9f6] The following provisions are repealed—
 
 - (a) Chapter 1 of Part 2;
 - (b) in section 13(3) the words “(1) or”;
@@ -367,92 +367,92 @@ Section 3.
 
 ## Annotations
 
-[^key-61a4b2d7e2a7701e7d5898518b0f9be3]: Commencement: S. 1 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-61a4b2d7e2a7701e7d5898518b0f9be3]: Commencement: S. 1 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-2e3e2598b6e6626833d3b198c5f0bd68]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/4/section/1) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
+[^c-2e3e2598b6e6626833d3b198c5f0bd68]: Commencement: [S. 1](https://www.legislation.gov.uk/nia/2022/4/section/1) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(a)](https://www.legislation.gov.uk/nisr/2022/221/article/2/a)
 
-[^key-3a4c881aa9feae185d5466a1e33d3308]: Commencement: S. 2 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-3a4c881aa9feae185d5466a1e33d3308]: Commencement: S. 2 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-b456057a25a10f18e7b734e69ed2d720]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/4/section/2) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/221/article/2/b)
+[^c-b456057a25a10f18e7b734e69ed2d720]: Commencement: [S. 2](https://www.legislation.gov.uk/nia/2022/4/section/2) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(b)](https://www.legislation.gov.uk/nisr/2022/221/article/2/b)
 
-[^key-2022367ff2c6f1ecd128e06958c39507]: Commencement: S. 3 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-2022367ff2c6f1ecd128e06958c39507]: Commencement: S. 3 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-8885af5ea8af21215da0325c559ef6d9]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/4/section/3) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/221/article/2/c)
+[^c-8885af5ea8af21215da0325c559ef6d9]: Commencement: [S. 3](https://www.legislation.gov.uk/nia/2022/4/section/3) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(c)](https://www.legislation.gov.uk/nisr/2022/221/article/2/c)
 
-[^key-06a2f68f5e50f102ff112f472d89ed16]: Commencement: S. 4 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-06a2f68f5e50f102ff112f472d89ed16]: Commencement: S. 4 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-b9918b334d0f80f6a3bb2d7b1d6d88ed]: Commencement: S. 5 in operation at 8.3.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/4/section/5/1)
+[^c-b9918b334d0f80f6a3bb2d7b1d6d88ed]: Commencement: S. 5 in operation at 8.3.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/4/section/5/1)
 
-[^key-f0babcf2b405346eaf36b76baeb523c6]: Commencement: S. 6 in operation at 8.3.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/4/section/5/1)
+[^c-f0babcf2b405346eaf36b76baeb523c6]: Commencement: S. 6 in operation at 8.3.2022, see [s. 5(1)](https://www.legislation.gov.uk/nia/2022/4/section/5/1)
 
-[^key-9981d6444d7f8d72c86a6a2d47c3bd96]: Commencement: Sch. para. 1 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-9981d6444d7f8d72c86a6a2d47c3bd96]: Commencement: Sch. para. 1 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-64a5b84d8a040bf834aad0a5d63aa5bd]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/1) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-64a5b84d8a040bf834aad0a5d63aa5bd]: Commencement: [Sch. para. 1](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/1) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-d6eb52ed9c90c5497a29a98620fd2b00]: Commencement: Sch. para. 2 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-d6eb52ed9c90c5497a29a98620fd2b00]: Commencement: Sch. para. 2 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-9acdb34e6a0961368f09f3d3bbf37d24]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/2) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-9acdb34e6a0961368f09f3d3bbf37d24]: Commencement: [Sch. para. 2](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/2) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-3c1ce0bd397a7ae29d4c9a710aa254b8]: Commencement: Sch. para. 3 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-3c1ce0bd397a7ae29d4c9a710aa254b8]: Commencement: Sch. para. 3 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-ff6c4e8c0f595498d9dc792107800bc5]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/3) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-ff6c4e8c0f595498d9dc792107800bc5]: Commencement: [Sch. para. 3](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/3) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-d0e56b218bf77c3dad647e19068446d2]: Commencement: Sch. para. 4 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-d0e56b218bf77c3dad647e19068446d2]: Commencement: Sch. para. 4 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-8fc8af774e0e9bdb9e79ba2774e5d2c5]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/4) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-8fc8af774e0e9bdb9e79ba2774e5d2c5]: Commencement: [Sch. para. 4](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/4) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-6bada4e0aa56453731941483c33ddc4d]: Commencement: Sch. para. 5 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-6bada4e0aa56453731941483c33ddc4d]: Commencement: Sch. para. 5 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-959e9e5ebd7aad5b6faadf5ea36e49eb]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/5) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-959e9e5ebd7aad5b6faadf5ea36e49eb]: Commencement: [Sch. para. 5](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/5) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-b6e61b1f9d354d145d0739d9811ec00d]: Commencement: Sch. para. 6 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-b6e61b1f9d354d145d0739d9811ec00d]: Commencement: Sch. para. 6 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-ef46a85bcfee3f5d652b2e68fc4a2233]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/6) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-ef46a85bcfee3f5d652b2e68fc4a2233]: Commencement: [Sch. para. 6](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/6) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-23386e7f57679837d2c028de9f4914ca]: Commencement: Sch. para. 7 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-23386e7f57679837d2c028de9f4914ca]: Commencement: Sch. para. 7 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-4a33fdea8d531946beb82d43d210e33b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/7) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-4a33fdea8d531946beb82d43d210e33b]: Commencement: [Sch. para. 7](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/7) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-7717f7471838ee531fa5871ec8f1c01e]: Commencement: Sch. para. 8 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-7717f7471838ee531fa5871ec8f1c01e]: Commencement: Sch. para. 8 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-7937d2632018eb01e69fc5a1ea89ade5]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-7937d2632018eb01e69fc5a1ea89ade5]: Commencement: [Sch. para. 8](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/8) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-7d377ece0e1bf0c109d0837eae08d4c0]: Commencement: Sch. para. 9 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-7d377ece0e1bf0c109d0837eae08d4c0]: Commencement: Sch. para. 9 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-ffa6ed17f3a5e2431c5f20987fd946c0]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/9) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-ffa6ed17f3a5e2431c5f20987fd946c0]: Commencement: [Sch. para. 9](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/9) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-e93c97f2fe1d10602cb5de5fbf5f15e3]: Commencement: Sch. para. 10 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-e93c97f2fe1d10602cb5de5fbf5f15e3]: Commencement: Sch. para. 10 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-137dfbff607f2a25f1ebb8678978e9f8]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/10) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-137dfbff607f2a25f1ebb8678978e9f8]: Commencement: [Sch. para. 10](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/10) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-99bae511afe093531157e85b04e3a219]: Commencement: Sch. para. 11 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-99bae511afe093531157e85b04e3a219]: Commencement: Sch. para. 11 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-1167e54d0a296add7902a979b799e808]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/11) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-1167e54d0a296add7902a979b799e808]: Commencement: [Sch. para. 11](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/11) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-22526f044fd93aa6bd18d5c230dab717]: Commencement: Sch. para. 12 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-22526f044fd93aa6bd18d5c230dab717]: Commencement: Sch. para. 12 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-481d863870b399d238274b2415022e90]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/12) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-481d863870b399d238274b2415022e90]: Commencement: [Sch. para. 12](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/12) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-87558a18456138bd1f6c7f25613cb912]: Commencement: Sch. para. 13 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-87558a18456138bd1f6c7f25613cb912]: Commencement: Sch. para. 13 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-917603bba13fc0b56b3e0a4a673fe6d6]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/13) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-917603bba13fc0b56b3e0a4a673fe6d6]: Commencement: [Sch. para. 13](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/13) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-f18b09ad0c84a06bb1218f760652f26f]: Commencement: Sch. para. 14 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-f18b09ad0c84a06bb1218f760652f26f]: Commencement: Sch. para. 14 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-21faf947d3a85e5d4f590e951718c71a]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/14) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-21faf947d3a85e5d4f590e951718c71a]: Commencement: [Sch. para. 14](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/14) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-c983f1907cba4bb12a15b1813bcc17ef]: Commencement: Sch. para. 15 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-c983f1907cba4bb12a15b1813bcc17ef]: Commencement: Sch. para. 15 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-4767eb2ab7071950f4807729194afb87]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/15) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-4767eb2ab7071950f4807729194afb87]: Commencement: [Sch. para. 15](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/15) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-c39c0833ff82085d01a1125e064344c5]: Commencement: Sch. para. 16 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-c39c0833ff82085d01a1125e064344c5]: Commencement: Sch. para. 16 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-67b2dab1f680bd7e669eae9f65848443]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/16) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-67b2dab1f680bd7e669eae9f65848443]: Commencement: [Sch. para. 16](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/16) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-11f64307dfb7c106104d1766fbee8b3c]: Commencement: Sch. para. 17 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-11f64307dfb7c106104d1766fbee8b3c]: Commencement: Sch. para. 17 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-0de490b1ef0b2705f3102bed6a0fd9db]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/17) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-0de490b1ef0b2705f3102bed6a0fd9db]: Commencement: [Sch. para. 17](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/17) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
 
-[^key-54278fb9f30ba0f4f8cb4e81b67e6626]: Commencement: Sch. para. 18 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
+[^c-54278fb9f30ba0f4f8cb4e81b67e6626]: Commencement: Sch. para. 18 not in operation at Royal Assent, see [s. 5(2)](https://www.legislation.gov.uk/nia/2022/4/section/5/2)
 
-[^key-3c9cf6e3522d7b040e95ec029051e9f6]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/18) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)
+[^c-3c9cf6e3522d7b040e95ec029051e9f6]: Commencement: [Sch. para. 18](https://www.legislation.gov.uk/nia/2022/4/schedule/paragraph/18) in operation at 17.10.2022 by [S.R. 2022/221](https://www.legislation.gov.uk/nisr/2022/221), [art. 2(d)](https://www.legislation.gov.uk/nisr/2022/221/article/2/d)

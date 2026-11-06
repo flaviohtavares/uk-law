@@ -31,7 +31,7 @@ summary: ''
   - (ii) a class of persons or area which has ceased to be suitable or appropriate, having regard to the spirit of the trust deed or other document constituting the trust, or as regards which it has ceased to be practicable to administer the property available under the trust; or
 - (d) that the purposes of the trust, whether in whole or in part, have, since the trust was constituted—
   - (i) been adequately provided for by other means; or
-  - (ii) ceased to be such as would enable the trust to be entered in the Scottish Charity Register[^key-b24ad382347b8b968325f2f3a2e12874]; or
+  - (ii) ceased to be such as would enable the trust to be entered in the Scottish Charity Register[^c-b24ad382347b8b968325f2f3a2e12874]; or
   - (iii) ceased in any other way to provide a suitable and effective method of using the property available under the trust, having regard to the spirit of the trust deed or other document constituting the trust,
 
 subsection (2) below shall apply in respect of the trust.
@@ -51,7 +51,7 @@ subsection (2) below shall apply in respect of the trust.
 - (a) where the trust purposes relate to a particular locality, to the circumstances of the locality; and
 - (b) to the extent to which it may be desirable to achieve economy by amalgamating two or more trusts.
 
-(6)[^key-ba37c5ac62c71575002960d557df831a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-ba37c5ac62c71575002960d557df831a] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) Subject to subsection (14) below, a modification of trust purposes under this section shall not have effect before the expiry of a period of two months commencing with the date on which any advertisement in pursuance of regulations made under subsection (13) below is first published.
 
@@ -60,7 +60,7 @@ subsection (2) below shall apply in respect of the trust.
 (9) Before passing a resolution under subsection (8) above, the trustees shall—
 
 - (a) where the trust purposes relate to a particular locality, have regard to the circumstances of the locality;
-- (b)[^key-718fd4855e8b55311e1295bbf1ac3173] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-718fd4855e8b55311e1295bbf1ac3173] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) ascertain that the trustees of the trust to which it is proposed to transfer the assets will consent to the transfer of the assets.
 
 (10) Where the trustees determine as mentioned in subsection (2)(c) above, they may pass a resolution that the trust be amalgamated with one or more other trusts so that the purposes of the trust constituted by such amalgamation will not be so dissimilar in character to those of the trust to which the resolution relates as to constitute an unreasonable departure from the spirit of the trust deed or other document constituting the last mentioned trust.
@@ -68,7 +68,7 @@ subsection (2) below shall apply in respect of the trust.
 (11) Before passing a resolution under subsection (10) above, the trustees shall—
 
 - (a) where the trust purposes relate to a particular locality, have regard to the circumstances of the locality;
-- (b)[^key-2d95b67c5fe979712c496456c47a1bcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-2d95b67c5fe979712c496456c47a1bcb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) ascertain that the trustees of any other trust with which it is proposed that the trust will be amalgamated will agree to such amalgamation.
 
 (12) Subject to subsection (14) below, a transfer of trust assets or an amalgamation of two or more trusts under this section shall not be effected before the expiry of a period of two months commencing with the date on which any advertisement in pursuance of regulations made under subsection (13) below is first published.
@@ -89,12 +89,12 @@ he may direct the trust not to proceed with the modification or, as the case may
 
 ## Annotations
 
-[^key-b24ad382347b8b968325f2f3a2e12874]: Textual amendment: Words in [s. 10(1)(d)(ii)](https://www.legislation.gov.uk/ukpga/1990/40/section/10/1/d/ii) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(d)(i)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/d/i); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-b24ad382347b8b968325f2f3a2e12874]: Textual amendment: Words in [s. 10(1)(d)(ii)](https://www.legislation.gov.uk/ukpga/1990/40/section/10/1/d/ii) substituted (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(d)(i)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/d/i); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
-[^key-ba37c5ac62c71575002960d557df831a]: Textual amendment: [S. 10(6)](https://www.legislation.gov.uk/ukpga/1990/40/section/10/6) repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(d)(ii)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/d/ii); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-ba37c5ac62c71575002960d557df831a]: Textual amendment: [S. 10(6)](https://www.legislation.gov.uk/ukpga/1990/40/section/10/6) repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(d)(ii)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/d/ii); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
-[^key-718fd4855e8b55311e1295bbf1ac3173]: Textual amendment: [S. 10(9)(b)](https://www.legislation.gov.uk/ukpga/1990/40/section/10/9/b) repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(d)(ii)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/d/ii); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-718fd4855e8b55311e1295bbf1ac3173]: Textual amendment: [S. 10(9)(b)](https://www.legislation.gov.uk/ukpga/1990/40/section/10/9/b) repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(d)(ii)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/d/ii); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
-[^key-2d95b67c5fe979712c496456c47a1bcb]: Textual amendment: [S. 10(11)(b)](https://www.legislation.gov.uk/ukpga/1990/40/section/10/11/b) repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(d)(ii)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/d/ii); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
+[^c-2d95b67c5fe979712c496456c47a1bcb]: Textual amendment: [S. 10(11)(b)](https://www.legislation.gov.uk/ukpga/1990/40/section/10/11/b) repealed (1.4.2006) by [Charities and Trustee Investment (Scotland) Act 2005 (asp 10)](https://www.legislation.gov.uk/asp/2005/10), [s. 107(2)](https://www.legislation.gov.uk/asp/2005/10/section/107/2), [Sch. 4 para. 7(d)(ii)](https://www.legislation.gov.uk/asp/2005/10/schedule/4/paragraph/7/d/ii); [S.S.I. 2006/189](https://www.legislation.gov.uk/ssi/2006/189), [art. 2(1)](https://www.legislation.gov.uk/ssi/2006/189/article/2/1), [Sch. Pt. 1](https://www.legislation.gov.uk/ssi/2006/189/schedule/part/1)
 
 [^c13712611]: Marginal citation: [1973 c. 65](https://www.legislation.gov.uk/ukpga/1973/65).

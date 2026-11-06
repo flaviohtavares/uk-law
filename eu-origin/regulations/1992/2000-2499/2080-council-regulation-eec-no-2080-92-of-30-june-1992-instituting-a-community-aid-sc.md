@@ -31,10 +31,10 @@ Council Regulation (EEC) No 2080/92
 
 of 30 June 1992 instituting a Community aid scheme for forestry measures in agriculture (repealed)
 
-[^key-dc313dace02e0cc47074a7f566d86106]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-dc313dace02e0cc47074a7f566d86106]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Articles.**[^key-dc313dace02e0cc47074a7f566d86106] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Articles.**[^c-dc313dace02e0cc47074a7f566d86106] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-dc313dace02e0cc47074a7f566d86106]: Textual amendment: Regulation repealed by [Council Regulation (EC) No 1257/1999 of 17 May 1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations](https://www.legislation.gov.uk/eur/1999/1257), [Arts. 55(1)](https://www.legislation.gov.uk/eur/1999/1257/article/55), [56](https://www.legislation.gov.uk/eur/1999/1257/article/56) (with [Art. 55(3))](https://www.legislation.gov.uk/eur/1999/1257/article/55)
+[^c-dc313dace02e0cc47074a7f566d86106]: Textual amendment: Regulation repealed by [Council Regulation (EC) No 1257/1999 of 17 May 1999 on support for rural development from the European Agricultural Guidance and Guarantee Fund (EAGGF) and amending and repealing certain Regulations](https://www.legislation.gov.uk/eur/1999/1257), [Arts. 55(1)](https://www.legislation.gov.uk/eur/1999/1257/article/55), [56](https://www.legislation.gov.uk/eur/1999/1257/article/56) (with [Art. 55(3))](https://www.legislation.gov.uk/eur/1999/1257/article/55)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 82. Vaping and nicotine product vending machines[^key-6715108717af6796618326d92f74e529]
+## 82. Vaping and nicotine product vending machines[^c-6715108717af6796618326d92f74e529]
 
 *Extent: N.I.*
 
@@ -39,4 +39,4 @@ After Article 4I of the Health and Personal Social Services (Northern Ireland) O
 
 ## Annotations
 
-[^key-6715108717af6796618326d92f74e529]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2026/18/section/82) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)
+[^c-6715108717af6796618326d92f74e529]: Commencement: [S. 82](https://www.legislation.gov.uk/ukpga/2026/18/section/82) in force at 29.10.2026, see [s. 175(1)](https://www.legislation.gov.uk/ukpga/2026/18/section/175/1)

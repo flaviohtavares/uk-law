@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 7. Method of dispatch and restrictions on forwarding[^key-9c958bd44423228cb894968ab3d9c391]
+## 7. Method of dispatch and restrictions on forwarding[^c-9c958bd44423228cb894968ab3d9c391]
 
 *Extent: N.I.*
 
@@ -26,4 +26,4 @@ The operator of any container, tank or vehicle which is being used for the carri
 
 ## Annotations
 
-[^key-9c958bd44423228cb894968ab3d9c391]: Commencement: Reg. 7 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)
+[^c-9c958bd44423228cb894968ab3d9c391]: Commencement: Reg. 7 in operation at 1.7.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/248/regulation/1)

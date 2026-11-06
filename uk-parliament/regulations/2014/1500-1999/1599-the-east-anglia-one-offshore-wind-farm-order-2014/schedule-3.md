@@ -22,7 +22,7 @@ summary: ''
 
 Article 9
 
-### PART 1 — Rights of way for which a replacement will be provided during stopping up[^key-59672ba64ef7fc8a591f7a58f00b9777]
+### PART 1 — Rights of way for which a replacement will be provided during stopping up[^c-59672ba64ef7fc8a591f7a58f00b9777]
 
 <table>
 <thead>
@@ -69,7 +69,7 @@ Article 9
 </tbody>
 </table>
 
-### PART 2 — Rights of way for which no replacement will be provided during the temporary stopping up[^key-a46daab2d4c9faf67c5a4616e7af2462]
+### PART 2 — Rights of way for which no replacement will be provided during the temporary stopping up[^c-a46daab2d4c9faf67c5a4616e7af2462]
 
 <table>
 <thead>
@@ -85,6 +85,6 @@ Article 9
 
 ## Annotations
 
-[^key-59672ba64ef7fc8a591f7a58f00b9777]: Commencement: Sch. 3 Pt. 1 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-59672ba64ef7fc8a591f7a58f00b9777]: Commencement: Sch. 3 Pt. 1 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
 
-[^key-a46daab2d4c9faf67c5a4616e7af2462]: Commencement: Sch. 3 Pt. 2 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)
+[^c-a46daab2d4c9faf67c5a4616e7af2462]: Commencement: Sch. 3 Pt. 2 in force at 7.7.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/1599/article/1)

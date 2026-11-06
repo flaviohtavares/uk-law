@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27. Power to charge for services[^key-a3bfb06f0977a052aee0ce886865e079]
+## 27. Power to charge for services[^c-a3bfb06f0977a052aee0ce886865e079]
 
 *Extent: E+W+S+N.I.*
 
@@ -30,14 +30,14 @@ summary: ''
 (3) For the purposes of this section, “**services**” includes, in particular, anything done under—
 
 - (a) section 2(11) (provision of copy of guidance);
-- (b) section 24(2) or[^key-7d0b79ab342ba9c9d090795ba79052b0] (2B) (making available the results of research);
-- (c) section 25(2), (3)(a) ,[^key-5abfe2f4a86be85456ed7cda1c19afcb] (3A), (4) or (5) (advice, assistance and training facilities);
+- (b) section 24(2) or[^c-7d0b79ab342ba9c9d090795ba79052b0] (2B) (making available the results of research);
+- (c) section 25(2), (3)(a) ,[^c-5abfe2f4a86be85456ed7cda1c19afcb] (3A), (4) or (5) (advice, assistance and training facilities);
 - (d) section 26 (information).
 
 ## Annotations
 
-[^key-a3bfb06f0977a052aee0ce886865e079]: Commencement: S. 27 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/4)
+[^c-a3bfb06f0977a052aee0ce886865e079]: Commencement: S. 27 in force at 12.1.2010 by [S.I. 2009/3345](https://www.legislation.gov.uk/uksi/2009/3345), [art. 2](https://www.legislation.gov.uk/uksi/2009/3345/article/2), [Sch. para. 4](https://www.legislation.gov.uk/uksi/2009/3345/schedule/paragraph/4)
 
-[^key-7d0b79ab342ba9c9d090795ba79052b0]: Textual amendment: Words in [s. 27(3)(b)](https://www.legislation.gov.uk/ukpga/2009/23/section/27/3/b) inserted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 5(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/5/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-7d0b79ab342ba9c9d090795ba79052b0]: Textual amendment: Words in [s. 27(3)(b)](https://www.legislation.gov.uk/ukpga/2009/23/section/27/3/b) inserted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 5(a)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/5/a) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
 
-[^key-5abfe2f4a86be85456ed7cda1c19afcb]: Textual amendment: Words in [s. 27(3)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/27/3/c) substituted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 5(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/5/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))
+[^c-5abfe2f4a86be85456ed7cda1c19afcb]: Textual amendment: Words in [s. 27(3)(c)](https://www.legislation.gov.uk/ukpga/2009/23/section/27/3/c) substituted (23.11.2020) by [Fisheries Act 2020 (c. 22)](https://www.legislation.gov.uk/ukpga/2020/22), [s. 54(1)(f)](https://www.legislation.gov.uk/ukpga/2020/22/section/54/1/f), [Sch. 10 para. 5(b)](https://www.legislation.gov.uk/ukpga/2020/22/schedule/10/paragraph/5/b) (with [Sch. 4 para. 31](https://www.legislation.gov.uk/ukpga/2020/22/schedule/4/paragraph/31))

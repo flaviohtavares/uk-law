@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 8. Armed forces covenant[^key-e5ff217c75aba5a689d11283a6af66ff][^key-1abdaff088244f90c85e3ee802dfbae2][^key-2d7cbf7732b4c7c37d253ee4624874f5]
+## 8. Armed forces covenant[^c-e5ff217c75aba5a689d11283a6af66ff][^c-1abdaff088244f90c85e3ee802dfbae2][^c-2d7cbf7732b4c7c37d253ee4624874f5]
 
 *Extent: E+W+S+N.I.*
 
@@ -367,8 +367,8 @@ summary: ''
 
 ## Annotations
 
-[^key-e5ff217c75aba5a689d11283a6af66ff]: Commencement: S. 8 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
+[^c-e5ff217c75aba5a689d11283a6af66ff]: Commencement: S. 8 not in force at Royal Assent, see [s. 24(1)](https://www.legislation.gov.uk/ukpga/2021/35/section/24/1)
 
-[^key-1abdaff088244f90c85e3ee802dfbae2]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/35/section/8) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 3](https://www.legislation.gov.uk/uksi/2022/471/regulation/3)
+[^c-1abdaff088244f90c85e3ee802dfbae2]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/35/section/8) in force at 1.5.2022 for specified purposes by [S.I. 2022/471](https://www.legislation.gov.uk/uksi/2022/471), [reg. 3](https://www.legislation.gov.uk/uksi/2022/471/regulation/3)
 
-[^key-2d7cbf7732b4c7c37d253ee4624874f5]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/35/section/8) in force at 22.11.2022 in so far as not already in force by [S.I. 2022/1161](https://www.legislation.gov.uk/uksi/2022/1161), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1161/regulation/3)
+[^c-2d7cbf7732b4c7c37d253ee4624874f5]: Commencement: [S. 8](https://www.legislation.gov.uk/ukpga/2021/35/section/8) in force at 22.11.2022 in so far as not already in force by [S.I. 2022/1161](https://www.legislation.gov.uk/uksi/2022/1161), [reg. 3](https://www.legislation.gov.uk/uksi/2022/1161/regulation/3)

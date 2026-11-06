@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 748. Payments by persons liable to pool betting duty[^key-681708297e839b25261c7491c46faf70]
+## 748. Payments by persons liable to pool betting duty[^c-681708297e839b25261c7491c46faf70]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-681708297e839b25261c7491c46faf70]: Textual amendment: [S. 748](https://www.legislation.gov.uk/ukpga/2005/5/section/748) repealed (with effect in accordance with Sch. 39 para. 21(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 21(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/21/1/b)
+[^c-681708297e839b25261c7491c46faf70]: Textual amendment: [S. 748](https://www.legislation.gov.uk/ukpga/2005/5/section/748) repealed (with effect in accordance with Sch. 39 para. 21(3) of the amending Act) by [Finance Act 2012 (c. 14)](https://www.legislation.gov.uk/ukpga/2012/14), [Sch. 39 para. 21(1)(b)](https://www.legislation.gov.uk/ukpga/2012/14/schedule/39/paragraph/21/1/b)

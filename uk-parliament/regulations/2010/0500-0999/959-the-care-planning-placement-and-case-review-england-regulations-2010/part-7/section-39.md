@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 39. Arrangements to be made when the responsible authority is considering ceasing to look after C[^key-66934745cc3b79c4b3aca611fc24f5b8]
+## 39. Arrangements to be made when the responsible authority is considering ceasing to look after C[^c-66934745cc3b79c4b3aca611fc24f5b8]
 
 *Extent: E+W*
 
@@ -46,4 +46,4 @@ summary: ''
 
 ## Annotations
 
-[^key-66934745cc3b79c4b3aca611fc24f5b8]: Textual amendment: Reg. 39 substituted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/495/regulation/7)
+[^c-66934745cc3b79c4b3aca611fc24f5b8]: Textual amendment: Reg. 39 substituted (1.4.2015) by [The Care Planning and Fostering (Miscellaneous Amendments) (England) Regulations 2015 (S.I. 2015/495)](https://www.legislation.gov.uk/uksi/2015/495), [regs. 1](https://www.legislation.gov.uk/uksi/2015/495/regulation/1), [7](https://www.legislation.gov.uk/uksi/2015/495/regulation/7)

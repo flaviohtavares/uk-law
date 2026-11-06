@@ -117,7 +117,7 @@ Article 32.
 
 (2) An annuity contract or policy of insurance is appropriate for the purposes of sub-paragraph (1) if, at the time it is entered into or taken out, the insurer[^c17091101] with which it is entered into or taken out—
 
-- (a) is carrying on[^c17091101]. . . long-term insurance business in the United Kingdom [^key-e1782db4467a68ab3b0a9c4109f27e00]..., and
+- (a) is carrying on[^c17091101]. . . long-term insurance business in the United Kingdom [^c-e1782db4467a68ab3b0a9c4109f27e00]..., and
 - (b) satisfies such requirements as the Department may prescribe by regulations.
 
 (3) "Insurer" and "long-term insurance business" have the meaning given in section 175A of the Pension Schemes Act.
@@ -187,7 +187,7 @@ this Schedule shall have effect as if the amount of the corresponding pension cr
 
 [^c17091101]: Textual amendment: SI 2001/3649
 
-[^key-e1782db4467a68ab3b0a9c4109f27e00]: Textual amendment: Words in [Sch. 5 para. 6(2)(a)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/5/paragraph/6/2/a) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-e1782db4467a68ab3b0a9c4109f27e00]: Textual amendment: Words in [Sch. 5 para. 6(2)(a)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/5/paragraph/6/2/a) omitted (31.12.2020) by virtue of [The Occupational and Personal Pension Schemes (Amendment etc.) (Northern Ireland) (EU Exit) Regulations 2019 (S.I. 2019/193)](https://www.legislation.gov.uk/uksi/2019/193), [regs. 1](https://www.legislation.gov.uk/uksi/2019/193/regulation/1), [4(2)](https://www.legislation.gov.uk/uksi/2019/193/regulation/4/2); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
 [^c19648541]: Textual amendment: Words in [Sch. 5 para. 7(1)](https://www.legislation.gov.uk/nisi/1999/3147/schedule/5/paragraph/7/1) substituted (6.4.2006) by [Taxation of Pension Schemes (Consequential Amendments) Order 2006 (S.I. 2006/745)](https://www.legislation.gov.uk/uksi/2006/745), [art. 16(5)(a)](https://www.legislation.gov.uk/uksi/2006/745/article/16/5/a)
 

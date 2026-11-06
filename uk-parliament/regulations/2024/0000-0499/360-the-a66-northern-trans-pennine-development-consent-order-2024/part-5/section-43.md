@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 43. Benefit of the Order[^key-67d32fc823c3f26702b1c0bedeac4932]
+## 43. Benefit of the Order[^c-67d32fc823c3f26702b1c0bedeac4932]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-67d32fc823c3f26702b1c0bedeac4932]: Commencement: Art. 43 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)
+[^c-67d32fc823c3f26702b1c0bedeac4932]: Commencement: Art. 43 in force at 28.3.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/360/article/1)

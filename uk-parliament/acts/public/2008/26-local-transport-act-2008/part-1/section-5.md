@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 5. Transitional provision for existing traffic commissioners etc[^key-6905d117d9c2f22a3c6d3c648f8da20f]
+## 5. Transitional provision for existing traffic commissioners etc[^c-6905d117d9c2f22a3c6d3c648f8da20f]
 
 *Extent: E+W+S*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6905d117d9c2f22a3c6d3c648f8da20f]: Commencement: S. 5 in force at 3.7.2013 by [S.I. 2013/685](https://www.legislation.gov.uk/uksi/2013/685), [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/685/article/3/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2013/685/article/3/2/d)
+[^c-6905d117d9c2f22a3c6d3c648f8da20f]: Commencement: S. 5 in force at 3.7.2013 by [S.I. 2013/685](https://www.legislation.gov.uk/uksi/2013/685), [art. 3(1)](https://www.legislation.gov.uk/uksi/2013/685/article/3/1)[(2)(d)](https://www.legislation.gov.uk/uksi/2013/685/article/3/2/d)

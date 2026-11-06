@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 198. Offences in connection with section 197[^key-86d2de696ce6782884ef1c63f3fdd91a][^key-af7542e1896d715ea2b5b7313c34e77a]
+## 198. Offences in connection with section 197[^c-86d2de696ce6782884ef1c63f3fdd91a][^c-af7542e1896d715ea2b5b7313c34e77a]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-86d2de696ce6782884ef1c63f3fdd91a]: Commencement: S. 198 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
+[^c-86d2de696ce6782884ef1c63f3fdd91a]: Commencement: S. 198 not in force at Royal Assent, see [s. 212](https://www.legislation.gov.uk/asc/2023/3/section/212)
 
-[^key-af7542e1896d715ea2b5b7313c34e77a]: Commencement: [S. 198](https://www.legislation.gov.uk/asc/2023/3/section/198) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)
+[^c-af7542e1896d715ea2b5b7313c34e77a]: Commencement: [S. 198](https://www.legislation.gov.uk/asc/2023/3/section/198) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(c)](https://www.legislation.gov.uk/wsi/2024/860/article/3/c)

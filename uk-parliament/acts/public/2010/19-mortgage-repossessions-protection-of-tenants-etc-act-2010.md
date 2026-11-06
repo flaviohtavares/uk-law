@@ -35,7 +35,7 @@ An Act to protect persons whose tenancies are not binding on mortgagees and to r
 
 Be it enacted by the Queen's most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—
 
-## 1. Power of court to postpone giving of possession[^key-a6a991022b8667acba3981e739568a6c]
+## 1. Power of court to postpone giving of possession[^c-a6a991022b8667acba3981e739568a6c]
 
 (1) This section applies if—
 
@@ -75,13 +75,13 @@ is not to be regarded as creating (or as evidence of the creation of) any tenanc
 
   *Extent: W*
 
-  - (ia)[^key-96da514a3c7a075126afe7b3bf8f25d5] an occupation contract (within the meaning of section 7 of the Renting Homes (Wales) Act 2016 (anaw 1)), or
+  - (ia)[^c-96da514a3c7a075126afe7b3bf8f25d5] an occupation contract (within the meaning of section 7 of the Renting Homes (Wales) Act 2016 (anaw 1)), or
   - (ii) a protected or statutory tenancy (within the meaning of the Rent Act 1977), and
 - (b) the mortgagee's interest in the property is not subject to the tenancy.
 
 (9) In this section “**the tenant**”, in relation to an unauthorised tenancy, means the person who is, as between the parties to the agreement in question (or their successors in title), the tenant under the unauthorised tenancy (or, if there is more than one tenant, any of them).
 
-## 2. Notice of execution of possession order[^key-263cd5907577058684f310a57a923501]
+## 2. Notice of execution of possession order[^c-263cd5907577058684f310a57a923501]
 
 (1) This section applies where the mortgagee under a mortgage of land which consists of or includes a dwelling-house has obtained an order for possession of the mortgaged property.
 
@@ -102,7 +102,7 @@ is not to be regarded as creating (or as evidence of the creation of) any tenanc
 
 (8) A statutory instrument containing regulations made under this section is subject to annulment in pursuance of a resolution of either House of Parliament.
 
-## 3. Interpretation[^key-03baa307817b919bc3288538b32094d4]
+## 3. Interpretation[^c-03baa307817b919bc3288538b32094d4]
 
 (1) This section applies for the purposes of this Act.
 
@@ -128,10 +128,10 @@ is not to be regarded as creating (or as evidence of the creation of) any tenanc
 
 ## Annotations
 
-[^key-a6a991022b8667acba3981e739568a6c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2010/19/section/1) in force in so far as not already in force at 1.10.2010 by [S.I. 2010/1705](https://www.legislation.gov.uk/uksi/2010/1705), [art. 2](https://www.legislation.gov.uk/uksi/2010/1705/article/2)
+[^c-a6a991022b8667acba3981e739568a6c]: Commencement: [S. 1](https://www.legislation.gov.uk/ukpga/2010/19/section/1) in force in so far as not already in force at 1.10.2010 by [S.I. 2010/1705](https://www.legislation.gov.uk/uksi/2010/1705), [art. 2](https://www.legislation.gov.uk/uksi/2010/1705/article/2)
 
-[^key-96da514a3c7a075126afe7b3bf8f25d5]: Textual amendment: [S. 1(8)(a)(ia)](https://www.legislation.gov.uk/ukpga/2010/19/section/1/8/a) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [31(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/31/2)
+[^c-96da514a3c7a075126afe7b3bf8f25d5]: Textual amendment: [S. 1(8)(a)(ia)](https://www.legislation.gov.uk/ukpga/2010/19/section/1/8/a) inserted (W.) (1.12.2022) by [The Renting Homes (Wales) Act 2016 (Consequential Amendments) Regulations 2022 (S.I. 2022/1166)](https://www.legislation.gov.uk/wsi/2022/1166), [regs. 1(1)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/1/1), [31(2)](https://www.legislation.gov.uk/wsi/2022/1166/regulation/31/2)
 
-[^key-263cd5907577058684f310a57a923501]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2010/19/section/2) in force in so far as not already in force at 1.10.2010 by [S.I. 2010/1705](https://www.legislation.gov.uk/uksi/2010/1705), [art. 2](https://www.legislation.gov.uk/uksi/2010/1705/article/2)
+[^c-263cd5907577058684f310a57a923501]: Commencement: [S. 2](https://www.legislation.gov.uk/ukpga/2010/19/section/2) in force in so far as not already in force at 1.10.2010 by [S.I. 2010/1705](https://www.legislation.gov.uk/uksi/2010/1705), [art. 2](https://www.legislation.gov.uk/uksi/2010/1705/article/2)
 
-[^key-03baa307817b919bc3288538b32094d4]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2010/19/section/3) in force in so far as not already in force at 1.10.2010 by [S.I. 2010/1705](https://www.legislation.gov.uk/uksi/2010/1705), [art. 2](https://www.legislation.gov.uk/uksi/2010/1705/article/2)
+[^c-03baa307817b919bc3288538b32094d4]: Commencement: [S. 3](https://www.legislation.gov.uk/ukpga/2010/19/section/3) in force in so far as not already in force at 1.10.2010 by [S.I. 2010/1705](https://www.legislation.gov.uk/uksi/2010/1705), [art. 2](https://www.legislation.gov.uk/uksi/2010/1705/article/2)

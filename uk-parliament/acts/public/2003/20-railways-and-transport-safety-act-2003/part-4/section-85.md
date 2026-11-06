@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 85. Arrest without warrant[^key-3db74391d7052622f933a8bd56cb0462]
+## 85. Arrest without warrant[^c-3db74391d7052622f933a8bd56cb0462]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3db74391d7052622f933a8bd56cb0462]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2003/20/section/85) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(h)](https://www.legislation.gov.uk/uksi/2004/827/article/3/h)
+[^c-3db74391d7052622f933a8bd56cb0462]: Commencement: [S. 85](https://www.legislation.gov.uk/ukpga/2003/20/section/85) in force at 30.3.2004 by [S.I. 2004/827](https://www.legislation.gov.uk/uksi/2004/827), [art. 3(h)](https://www.legislation.gov.uk/uksi/2004/827/article/3/h)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 3. Duty to arrange eye examinations[^key-a487b80e90dcffee6ada83c423d21eb1]
+## 3. Duty to arrange eye examinations[^c-a487b80e90dcffee6ada83c423d21eb1]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a487b80e90dcffee6ada83c423d21eb1]: Commencement: Reg. 3 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-a487b80e90dcffee6ada83c423d21eb1]: Commencement: Reg. 3 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

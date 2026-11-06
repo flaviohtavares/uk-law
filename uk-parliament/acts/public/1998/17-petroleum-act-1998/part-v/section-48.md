@@ -22,7 +22,7 @@ summary: ''
 
 (1) In this Act “**foreign sector of the continental shelf**” means an area within which rights are exercisable with respect to the sea bed and subsoil and their natural resources by a country or territory outside the United Kingdom.
 
-(1A)[^key-c36f89baa31f3fcf2eeee06feb8a1645] In this Act “**the OGA**” means the Oil and Gas Authority.
+(1A)[^c-c36f89baa31f3fcf2eeee06feb8a1645] In this Act “**the OGA**” means the Oil and Gas Authority.
 
 (2) Any reference in this Act to the commencement of this Act shall be construed as a reference to the commencement of this Act in accordance with section 52(4).
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-c36f89baa31f3fcf2eeee06feb8a1645]: Textual amendment: [S. 48(1A)](https://www.legislation.gov.uk/ukpga/1998/17/section/48/1A) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/31); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)
+[^c-c36f89baa31f3fcf2eeee06feb8a1645]: Textual amendment: [S. 48(1A)](https://www.legislation.gov.uk/ukpga/1998/17/section/48/1A) inserted (1.10.2016) by [Energy Act 2016 (c. 20)](https://www.legislation.gov.uk/ukpga/2016/20), [s. 84(3)](https://www.legislation.gov.uk/ukpga/2016/20/section/84/3), [Sch. 1 para. 31](https://www.legislation.gov.uk/ukpga/2016/20/schedule/1/paragraph/31); [S.I. 2016/920](https://www.legislation.gov.uk/uksi/2016/920), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2016/920/regulation/2/a)

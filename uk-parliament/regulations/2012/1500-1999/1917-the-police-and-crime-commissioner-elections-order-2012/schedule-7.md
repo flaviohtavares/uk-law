@@ -40,7 +40,7 @@ Article 50
 
 **7.** The payment of any deposit required by rule 9 of the PCC elections rules.
 
-**7A.**[^key-b67b9f938bfeb963296e60e95bd245a1] (1) Any matter that is reasonably attributable to the candidate’s disability, to the extent that the expenses in respect of the matter are reasonably incurred.
+**7A.**[^c-b67b9f938bfeb963296e60e95bd245a1] (1) Any matter that is reasonably attributable to the candidate’s disability, to the extent that the expenses in respect of the matter are reasonably incurred.
 
 (2) In this paragraph, “disability” has the same meaning as in section 6 of the Equality Act 2010.
 
@@ -68,7 +68,7 @@ Article 50
 
 (2) The provision by any other individual of computing or printing equipment which was acquired by the individual principally for the individual's own personal use if the provision is made free of charge.
 
-**14A.**[^key-0fe73709cde85ae83abc436aefac99df] The protection of persons and property, to the extent that expenses are reasonably incurred and are reasonably attributable to the protection of persons or property.
+**14A.**[^c-0fe73709cde85ae83abc436aefac99df] The protection of persons and property, to the extent that expenses are reasonably incurred and are reasonably attributable to the protection of persons or property.
 
 ### PART 3 — Supplemental
 
@@ -76,9 +76,9 @@ Article 50
 
 - (a) guidance as to the matters which do, or do not, fall within Part 1 or Part 2 of this Schedule;
 - (b) guidance (supplementing the definition in article 50) as to the cases or circumstances in which expenses are, or are not, to be regarded as incurred for the purposes of a candidate's election.
-- (c)[^key-b7421b4ab8b52f9eb49476d512cc604c] guidance relating to the application of Part 3 of this Order in relation to expenses incurred for the purposes of a candidate’s election (whether or not election expenses).
+- (c)[^c-b7421b4ab8b52f9eb49476d512cc604c] guidance relating to the application of Part 3 of this Order in relation to expenses incurred for the purposes of a candidate’s election (whether or not election expenses).
 
-(2) Once the Commission have prepared a draft code under this paragraph, they must submit it for approval to the Secretary of State[^key-720cc347cbc42038a2553594f7eeb441].
+(2) Once the Commission have prepared a draft code under this paragraph, they must submit it for approval to the Secretary of State[^c-720cc347cbc42038a2553594f7eeb441].
 
 (3) The Secretary of State may approve a draft code either without modification or with such modifications as the Secretary of State may determine.
 
@@ -96,7 +96,7 @@ before each House of Parliament.
 (7) If no such resolution is made within the 40-day period—
 
 - (a) the Secretary of State must issue the code in the form of the draft laid before Parliament, and
-- (b) the code is to come into force on such date as the Secretary of State may by order made by statutory instrument[^key-282e78ca346b28672d4b95cb5adc8b7b] appoint,
+- (b) the code is to come into force on such date as the Secretary of State may by order made by statutory instrument[^c-282e78ca346b28672d4b95cb5adc8b7b] appoint,
 
 and the Commission must arrange for it to be published in such manner as they think appropriate.
 
@@ -111,15 +111,15 @@ and the Commission must arrange for it to be published in such manner as they th
 
 (11) In this paragraph references to a draft code include a revised draft code.
 
-(12)[^key-3083504525d7776a9b6743f164e22fe1] For the purposes of section 1 of the Statutory Instruments Act 1946 (definition of “statutory instrument”), the power to make an order which is conferred by sub-paragraph (7)(b) is to be taken to be conferred by an Act of Parliament.
+(12)[^c-3083504525d7776a9b6743f164e22fe1] For the purposes of section 1 of the Statutory Instruments Act 1946 (definition of “statutory instrument”), the power to make an order which is conferred by sub-paragraph (7)(b) is to be taken to be conferred by an Act of Parliament.
 
 ##### Power to amend Parts 1 and 2
 
-**16.** (1) The Secretary of State[^key-e2441f6fc06bdf9184e49fdf145d35d4] may by order made by statutory instrument make such amendments of Part 1 or 2 of this Schedule as the Secretary of State considers appropriate.
+**16.** (1) The Secretary of State[^c-e2441f6fc06bdf9184e49fdf145d35d4] may by order made by statutory instrument make such amendments of Part 1 or 2 of this Schedule as the Secretary of State considers appropriate.
 
 (2) Any order under sub-paragraph (1) may not be made unless a draft of the order has been laid before, and approved by a resolution of, each House of Parliament.
 
-(3) The Secretary of State[^key-1691b673f2b936134c7e1877c51e8caf] may make an order under sub-paragraph (1) either—
+(3) The Secretary of State[^c-1691b673f2b936134c7e1877c51e8caf] may make an order under sub-paragraph (1) either—
 
 - (a) where the order gives effect to a recommendation of the Commission, or
 - (b) after consultation with the Commission.
@@ -128,24 +128,24 @@ and the Commission must arrange for it to be published in such manner as they th
 
 ## Annotations
 
-[^key-b67b9f938bfeb963296e60e95bd245a1]: Textual amendment: [Sch. 7 para. 7A](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/7A) inserted (28.2.2020) by [The Police and Crime Commissioner Elections (Amendment) Order 2020 (S.I. 2020/190)](https://www.legislation.gov.uk/uksi/2020/190), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/190/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/190/article/2/3)
+[^c-b67b9f938bfeb963296e60e95bd245a1]: Textual amendment: [Sch. 7 para. 7A](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/7A) inserted (28.2.2020) by [The Police and Crime Commissioner Elections (Amendment) Order 2020 (S.I. 2020/190)](https://www.legislation.gov.uk/uksi/2020/190), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2020/190/article/1/2), [2(3)](https://www.legislation.gov.uk/uksi/2020/190/article/2/3)
 
 [^c21344581]: Marginal citation: [1990 c.42](https://www.legislation.gov.uk/ukpga/1990/42).
 
 [^c21344591]: Marginal citation: [1996 c.55](https://www.legislation.gov.uk/ukpga/1996/55).
 
-[^key-0fe73709cde85ae83abc436aefac99df]: Textual amendment: [Sch. 7 para. 14A](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/14A) inserted (26.3.2024) by [The Representation of the People (Variation of Election Expenses and Exclusions) Regulations 2024 (S.I. 2024/428)](https://www.legislation.gov.uk/uksi/2024/428), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/428/regulation/1/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2024/428/regulation/4/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/428/regulation/6))
+[^c-0fe73709cde85ae83abc436aefac99df]: Textual amendment: [Sch. 7 para. 14A](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/14A) inserted (26.3.2024) by [The Representation of the People (Variation of Election Expenses and Exclusions) Regulations 2024 (S.I. 2024/428)](https://www.legislation.gov.uk/uksi/2024/428), [regs. 1(1)(b)](https://www.legislation.gov.uk/uksi/2024/428/regulation/1/1/b), [4(3)](https://www.legislation.gov.uk/uksi/2024/428/regulation/4/3) (with [reg. 6](https://www.legislation.gov.uk/uksi/2024/428/regulation/6))
 
-[^key-b7421b4ab8b52f9eb49476d512cc604c]: Textual amendment: [Sch. 7 para. 15(1)(c)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/15/1/c) inserted (6.12.2022) by [The Police and Crime Commissioner Elections (Amendment) Order 2022 (S.I. 2022/1275)](https://www.legislation.gov.uk/uksi/2022/1275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2022/1275/article/2/5/a)
+[^c-b7421b4ab8b52f9eb49476d512cc604c]: Textual amendment: [Sch. 7 para. 15(1)(c)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/15/1/c) inserted (6.12.2022) by [The Police and Crime Commissioner Elections (Amendment) Order 2022 (S.I. 2022/1275)](https://www.legislation.gov.uk/uksi/2022/1275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/1/2), [2(5)(a)](https://www.legislation.gov.uk/uksi/2022/1275/article/2/5/a)
 
-[^key-720cc347cbc42038a2553594f7eeb441]: Textual amendment: Words in [Sch. 7 para. 15(2)-(7)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/15/2) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(i)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/i) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-720cc347cbc42038a2553594f7eeb441]: Textual amendment: Words in [Sch. 7 para. 15(2)-(7)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/15/2) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(i)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/i) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-282e78ca346b28672d4b95cb5adc8b7b]: Textual amendment: Words in [Sch. 7 para. 15(7)(b)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/15/7/b) inserted (6.12.2022) by [The Police and Crime Commissioner Elections (Amendment) Order 2022 (S.I. 2022/1275)](https://www.legislation.gov.uk/uksi/2022/1275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/1275/article/2/5/b)
+[^c-282e78ca346b28672d4b95cb5adc8b7b]: Textual amendment: Words in [Sch. 7 para. 15(7)(b)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/15/7/b) inserted (6.12.2022) by [The Police and Crime Commissioner Elections (Amendment) Order 2022 (S.I. 2022/1275)](https://www.legislation.gov.uk/uksi/2022/1275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/1/2), [2(5)(b)](https://www.legislation.gov.uk/uksi/2022/1275/article/2/5/b)
 
-[^key-3083504525d7776a9b6743f164e22fe1]: Textual amendment: [Sch. 7 para. 15(12)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/15/12) inserted (6.12.2022) by [The Police and Crime Commissioner Elections (Amendment) Order 2022 (S.I. 2022/1275)](https://www.legislation.gov.uk/uksi/2022/1275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2022/1275/article/2/5/c)
+[^c-3083504525d7776a9b6743f164e22fe1]: Textual amendment: [Sch. 7 para. 15(12)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/15/12) inserted (6.12.2022) by [The Police and Crime Commissioner Elections (Amendment) Order 2022 (S.I. 2022/1275)](https://www.legislation.gov.uk/uksi/2022/1275), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2022/1275/article/1/2), [2(5)(c)](https://www.legislation.gov.uk/uksi/2022/1275/article/2/5/c)
 
-[^key-e2441f6fc06bdf9184e49fdf145d35d4]: Textual amendment: Words in [Sch. 7 para. 16(1)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/16/1) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(i)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/i) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-e2441f6fc06bdf9184e49fdf145d35d4]: Textual amendment: Words in [Sch. 7 para. 16(1)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/16/1) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(i)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/i) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
-[^key-1691b673f2b936134c7e1877c51e8caf]: Textual amendment: Words in [Sch. 7 para. 16(3)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/16/3) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(i)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/i) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
+[^c-1691b673f2b936134c7e1877c51e8caf]: Textual amendment: Words in [Sch. 7 para. 16(3)](https://www.legislation.gov.uk/uksi/2012/1917/schedule/7/paragraph/16/3) substituted (8.12.2021) by [The Transfer of Functions (Secretary of State for Levelling Up, Housing and Communities) Order 2021 (S.I. 2021/1265)](https://www.legislation.gov.uk/uksi/2021/1265), [art. 1(2)](https://www.legislation.gov.uk/uksi/2021/1265/article/1/2), [Sch. 2 para. 30(3)(i)](https://www.legislation.gov.uk/uksi/2021/1265/schedule/2/paragraph/30/3/i) (with [art. 12](https://www.legislation.gov.uk/uksi/2021/1265/article/12))
 
 [^c21344601]: Marginal citation: 1946 9&10 Geo.6 (c.36).

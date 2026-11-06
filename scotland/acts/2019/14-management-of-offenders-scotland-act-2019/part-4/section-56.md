@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 56. Co-operation between public authorities[^key-f1e522f663b111b339c5c8b4b2f44bea]
+## 56. Co-operation between public authorities[^c-f1e522f663b111b339c5c8b4b2f44bea]
 
 *Extent: S*
 
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f1e522f663b111b339c5c8b4b2f44bea]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2019/14/section/56) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-f1e522f663b111b339c5c8b4b2f44bea]: Commencement: [S. 56](https://www.legislation.gov.uk/asp/2019/14/section/56) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)

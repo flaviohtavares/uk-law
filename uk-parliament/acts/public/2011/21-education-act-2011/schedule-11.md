@@ -24,9 +24,9 @@ Section 37
 
 ### Amendments to Part 2 of EIA 2006
 
-**1.**[^key-22a0771b1962495ac869c90d103dc9fa][^key-1862d6781daba1e0c937147b0214be12] Part 2 of EIA 2006 (establishment, discontinuance and alteration of schools) is amended as follows.
+**1.**[^c-22a0771b1962495ac869c90d103dc9fa][^c-1862d6781daba1e0c937147b0214be12] Part 2 of EIA 2006 (establishment, discontinuance and alteration of schools) is amended as follows.
 
-**2.**[^key-e474a147869d2910caa6de59997726df][^key-6380bd1572f376133e142dd79a691cf1] Before section 7 insert—
+**2.**[^c-e474a147869d2910caa6de59997726df][^c-6380bd1572f376133e142dd79a691cf1] Before section 7 insert—
 
 > **6A. Requirement to seek proposals for establishment of new Academies**
 >
@@ -44,14 +44,14 @@ Section 37
 > - (a) identify a possible site for the Academy, and
 > - (b) specify such matters as may be prescribed.
 
-**3.**[^key-9350d1eba9c180f0f90121b7394cec2a] In section 7 (invitation for proposals for establishment of new schools)—
+**3.**[^c-9350d1eba9c180f0f90121b7394cec2a] In section 7 (invitation for proposals for establishment of new schools)—
 
 - (a) in subsection (1), after “may” insert “ with the consent of the Secretary of State ”;
 - (b) in subsection (5), omit paragraph (b) and the “and” immediately before it;
 - (c) omit subsection (5A);
 - (d) in subsection (6), insert “ and ” at the end of paragraph (a) and omit paragraph (c) and the “and” immediately before it.
 
-**4.**[^key-7ef11cbe99a9e60d804663864be082d9] After section 7 insert—
+**4.**[^c-7ef11cbe99a9e60d804663864be082d9] After section 7 insert—
 
 > **7A. Withdrawal of notices under section 7**
 >
@@ -62,9 +62,9 @@ Section 37
 > - (a) the local authority may withdraw it, with the consent of the Secretary of State, or
 > - (b) the Secretary of State may direct the local authority to withdraw it.
 
-**5.**[^key-5df7086bd4f4345ce869a8aa1a9b87bf] Section 8 (proposals under section 7 relating to community or community special schools) is repealed.
+**5.**[^c-5df7086bd4f4345ce869a8aa1a9b87bf] Section 8 (proposals under section 7 relating to community or community special schools) is repealed.
 
-**6.**[^key-92586e23521f41c9af3dfa9e84bad180] (1) Section 10 (publication of proposals with consent of Secretary of State) is amended as follows.
+**6.**[^c-92586e23521f41c9af3dfa9e84bad180] (1) Section 10 (publication of proposals with consent of Secretary of State) is amended as follows.
 
 (2) In subsection (1), for the words from “(otherwise” to the end substitute
 
@@ -78,7 +78,7 @@ Section 37
 - (a) after “voluntary” insert “ controlled ”;
 - (b) in paragraph (b), for “(2)(b) or (c)” substitute “ (2) ”.
 
-**7.**[^key-8a955ee938f9219c3c6b7319eea3e862] (1) Section 11 (publication of proposals to establish maintained schools: special cases) is amended as follows.
+**7.**[^c-8a955ee938f9219c3c6b7319eea3e862] (1) Section 11 (publication of proposals to establish maintained schools: special cases) is amended as follows.
 
 (2) Before subsection (1) insert—
 
@@ -129,11 +129,11 @@ Section 37
 > - “**maintained junior school**” means a maintained school that provides primary education suitable to the requirements of junior pupils who have attained the age of 7;
 > - “**non-maintained special school**” means a school which is approved under section 342 of EA 1996.
 
-**8.**[^key-088d0c2e08470aee020cf0ef71c04e84] In section 11A(1) (restriction on power of governing body to make proposals), for “11(2)” substitute “ 11(1A) or (2) ”.
+**8.**[^c-088d0c2e08470aee020cf0ef71c04e84] In section 11A(1) (restriction on power of governing body to make proposals), for “11(2)” substitute “ 11(1A) or (2) ”.
 
-**9.**[^key-b76e5615371c3dec2f18b76233a87fa4] In section 12 (establishment of school as a federated school), in subsection (1), after “new” insert “ maintained ”.
+**9.**[^c-b76e5615371c3dec2f18b76233a87fa4] In section 12 (establishment of school as a federated school), in subsection (1), after “new” insert “ maintained ”.
 
-**10.**[^key-0062652ec951fca669ef1efc4a1d072c] (1) Schedule 2 (consideration, approval and implementation of proposals for establishment or discontinuance of schools in England) is amended as follows.
+**10.**[^c-0062652ec951fca669ef1efc4a1d072c] (1) Schedule 2 (consideration, approval and implementation of proposals for establishment or discontinuance of schools in England) is amended as follows.
 
 (2) After paragraph 3 insert—
 
@@ -223,32 +223,32 @@ Section 37
 
 ### Other amendments
 
-**11.**[^key-da12805cff3ab4ead5fa7041129bb231] In Schedule 2 to AA 2010 (Academies: amendments), omit paragraph 22.
+**11.**[^c-da12805cff3ab4ead5fa7041129bb231] In Schedule 2 to AA 2010 (Academies: amendments), omit paragraph 22.
 
 ## Annotations
 
-[^key-22a0771b1962495ac869c90d103dc9fa]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/1) in force at 1.2.2012 for specified purposes by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
+[^c-22a0771b1962495ac869c90d103dc9fa]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/1) in force at 1.2.2012 for specified purposes by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
 
-[^key-1862d6781daba1e0c937147b0214be12]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/1) in force at 1.9.2012 for specified purposes by [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 2](https://www.legislation.gov.uk/uksi/2012/2213/article/2)
+[^c-1862d6781daba1e0c937147b0214be12]: Commencement: [Sch. 11 para. 1](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/1) in force at 1.9.2012 for specified purposes by [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 2](https://www.legislation.gov.uk/uksi/2012/2213/article/2)
 
-[^key-e474a147869d2910caa6de59997726df]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/2) in force at 1.2.2012 for specified purposes by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
+[^c-e474a147869d2910caa6de59997726df]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/2) in force at 1.2.2012 for specified purposes by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
 
-[^key-6380bd1572f376133e142dd79a691cf1]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/2) in force at 1.9.2012 for specified purposes by [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 2](https://www.legislation.gov.uk/uksi/2012/2213/article/2)
+[^c-6380bd1572f376133e142dd79a691cf1]: Commencement: [Sch. 11 para. 2](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/2) in force at 1.9.2012 for specified purposes by [S.I. 2012/2213](https://www.legislation.gov.uk/uksi/2012/2213), [art. 2](https://www.legislation.gov.uk/uksi/2012/2213/article/2)
 
-[^key-9350d1eba9c180f0f90121b7394cec2a]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/3) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
+[^c-9350d1eba9c180f0f90121b7394cec2a]: Commencement: [Sch. 11 para. 3](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/3) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
 
-[^key-7ef11cbe99a9e60d804663864be082d9]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/4) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
+[^c-7ef11cbe99a9e60d804663864be082d9]: Commencement: [Sch. 11 para. 4](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/4) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
 
-[^key-5df7086bd4f4345ce869a8aa1a9b87bf]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/5) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
+[^c-5df7086bd4f4345ce869a8aa1a9b87bf]: Commencement: [Sch. 11 para. 5](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/5) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
 
-[^key-92586e23521f41c9af3dfa9e84bad180]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/6) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
+[^c-92586e23521f41c9af3dfa9e84bad180]: Commencement: [Sch. 11 para. 6](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/6) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
 
-[^key-8a955ee938f9219c3c6b7319eea3e862]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/7) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
+[^c-8a955ee938f9219c3c6b7319eea3e862]: Commencement: [Sch. 11 para. 7](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/7) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
 
-[^key-088d0c2e08470aee020cf0ef71c04e84]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/8) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
+[^c-088d0c2e08470aee020cf0ef71c04e84]: Commencement: [Sch. 11 para. 8](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/8) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
 
-[^key-b76e5615371c3dec2f18b76233a87fa4]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/9) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
+[^c-b76e5615371c3dec2f18b76233a87fa4]: Commencement: [Sch. 11 para. 9](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/9) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
 
-[^key-0062652ec951fca669ef1efc4a1d072c]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/10) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
+[^c-0062652ec951fca669ef1efc4a1d072c]: Commencement: [Sch. 11 para. 10](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/10) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
 
-[^key-da12805cff3ab4ead5fa7041129bb231]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/11) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))
+[^c-da12805cff3ab4ead5fa7041129bb231]: Commencement: [Sch. 11 para. 11](https://www.legislation.gov.uk/ukpga/2011/21/schedule/11/paragraph/11) in force at 1.2.2012 by [S.I. 2012/84](https://www.legislation.gov.uk/uksi/2012/84), [art. 3](https://www.legislation.gov.uk/uksi/2012/84/article/3) (with [art. 4](https://www.legislation.gov.uk/uksi/2012/84/article/4))

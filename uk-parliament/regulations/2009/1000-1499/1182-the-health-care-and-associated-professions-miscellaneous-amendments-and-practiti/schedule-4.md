@@ -24,38 +24,38 @@ Article 4(1)
 
 ### PART 1 — Amendments relating to the introduction of statutory regulation of practitioner psychologists
 
-#### 1. Amendment of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^key-e50110f95d9e638ca439a1601fd2223b]
+#### 1. Amendment of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^c-e50110f95d9e638ca439a1601fd2223b]
 
 In Schedule 1 to the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^f00056] (excepted professions, offices, employments, work and occupations)—
 
 - (a) in Part 1 (professions), omit paragraph 13; and
 - (b) in Part 4 (interpretation), omit the definition of “chartered psychologist”.
 
-#### 2. Amendment of the Representation of the People (England and Wales) Regulations 2001[^key-13d208f385ff0742acd71a7b1ad117ea]
+#### 2. Amendment of the Representation of the People (England and Wales) Regulations 2001[^c-13d208f385ff0742acd71a7b1ad117ea]
 
 In regulation 53 of the Representation of the People (England and Wales) Regulations 2001[^f00057] (additional requirements for applications for a proxy vote for a definite or indefinite period on grounds of blindness or any other disability), in paragraph (2), omit sub-paragraph (i).
 
-#### 3. Amendment of the Representation of the People (Scotland) Regulations 2001[^key-f0c427a8a4308839b2e9b94b672cd9e3]
+#### 3. Amendment of the Representation of the People (Scotland) Regulations 2001[^c-f0c427a8a4308839b2e9b94b672cd9e3]
 
 In regulation 53 of the Representation of the People (Scotland) Regulations 2001[^f00058] (additional requirements for applications for a proxy vote for a particular or indefinite period on grounds of blindness or any other disability), in paragraph (2), omit sub-paragraph (i).
 
-#### 4. Amendment of the Care Homes Regulations 2001[^key-36920226c4c40e75d460bb2fc1bcceb9]
+#### 4. Amendment of the Care Homes Regulations 2001[^c-36920226c4c40e75d460bb2fc1bcceb9]
 
 In regulation 2 of the Care Homes Regulations 2001[^f00059] (interpretation), in paragraph (1), in the definition of “health care professional” for “clinical psychologist or” substitute “a”.
 
-#### 5. Amendment of the Private and Voluntary Health Care (England) Regulations 2001[^key-6568541a3cbc57d3091d93b7c58f84fd]
+#### 5. Amendment of the Private and Voluntary Health Care (England) Regulations 2001[^c-6568541a3cbc57d3091d93b7c58f84fd]
 
 In regulation 2 of the Private and Voluntary Health Care (England) Regulations 2001[^f00060] (interpretation), in paragraph (1), in the definition of “health care professional” omit “clinical psychologist or”.
 
-#### 6. Amendment of the Care Homes (Wales) Regulations 2002[^key-48668f09d4ef2f3cccc5c1321f4e5d33]
+#### 6. Amendment of the Care Homes (Wales) Regulations 2002[^c-48668f09d4ef2f3cccc5c1321f4e5d33]
 
 In regulation 2 of the Care Homes (Wales) Regulations 2002[^f00061] (interpretation), in paragraph (1), in the definition of “health care professional”, omit “clinical psychologist or”.
 
-#### 7. Amendment of the Private and Voluntary Health Care (Wales) Regulations 2002[^key-d714337bf2396963e06b4fbe7d3a16f6]
+#### 7. Amendment of the Private and Voluntary Health Care (Wales) Regulations 2002[^c-d714337bf2396963e06b4fbe7d3a16f6]
 
 In regulation 2 of the Private and Voluntary Health Care (Wales) Regulations 2002[^f00062] (interpretation), in paragraph (1), in the definition of “health care professional” omit “clinical psychologist or”.
 
-#### 8. Amendment of the Health Professions (Parts of and Entries in the Register) Order of Council 2003[^key-4a7fa3c5670af88748bbef716b508222]
+#### 8. Amendment of the Health Professions (Parts of and Entries in the Register) Order of Council 2003[^c-4a7fa3c5670af88748bbef716b508222]
 
 In the Health Professions (Parts of and Entries in the Register) Order of Council 2003[^f00063]—
 
@@ -70,14 +70,14 @@ In the Health Professions (Parts of and Entries in the Register) Order of Counci
   - (i) in column 1, after the entry “Part 13 – Operating Department Practitioners” add the following entry: “Part 14 – Practitioner Psychologists”, and
   - (ii) in column 2, after the entry “Operating Department Practitioner” and opposite the entry in column 1 added by paragraph (i), add the following entry: “Clinical Psychologist, Counselling Psychologist, Educational Psychologist, Forensic Psychologist, Health Psychologist, Occupational Psychologist, Practitioner Psychologist, Registered Psychologist, Sport and exercise Psychologist.”
 
-#### 9. Amendment of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^key-4a761044edcc0f5f6c63585bc15b0910]
+#### 9. Amendment of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^c-4a761044edcc0f5f6c63585bc15b0910]
 
 In Schedule 4 to the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^f00064] (excepted professions, offices, employments, and occupations)—
 
 - (a) in Part 1 (professions), omit paragraph 13; and
 - (b) in Part 4 (interpretation), omit the definition of “chartered psychologist”.
 
-#### 10. Amendment of the Health Professions Council (Registration Appeals) Rules 2003[^key-425122549c2096d1484a72f75362a10e]
+#### 10. Amendment of the Health Professions Council (Registration Appeals) Rules 2003[^c-425122549c2096d1484a72f75362a10e]
 
 In rule 9 of the Health Professions Council (Registration Appeals) Rules 2003[^f00065] (consideration by Appeal Panel), in paragraph (3), for sub-paragraph (b) substitute the following sub-paragraph—
 
@@ -85,35 +85,35 @@ In rule 9 of the Health Professions Council (Registration Appeals) Rules 2003[^f
 
 .
 
-#### 11. Amendment of the Mental Health Tribunal for Scotland (Appointment of General Members) Regulations 2004[^key-b43ee51cc4b8a7a0ec52b531bf06ef95]
+#### 11. Amendment of the Mental Health Tribunal for Scotland (Appointment of General Members) Regulations 2004[^c-b43ee51cc4b8a7a0ec52b531bf06ef95]
 
 In regulation 2(c) of the Mental Health Tribunal for Scotland (Appointment of General Members) Regulations 2004[^f00066] (general members of the Mental Health Tribunal for Scotland), for “entered on the British Psychological Society’s register of chartered psychologists” substitute “registered with the Health Professions Council”.
 
-#### 12. Amendment of the Mental Health (Advance Statements) (Prescribed Class of Persons) (Scotland) (No.2) Regulations 2004[^key-0f04a50c2baa31dd49d214d31fddb9a7]
+#### 12. Amendment of the Mental Health (Advance Statements) (Prescribed Class of Persons) (Scotland) (No.2) Regulations 2004[^c-0f04a50c2baa31dd49d214d31fddb9a7]
 
 In regulation 2 of the Mental Health (Advance Statements) (Prescribed Class of Persons) (Scotland) (No.2) Regulations 2004[^f00067] (prescribed persons), omit paragraph (a) and in paragraph (c) after “occupational therapists” insert “and registered psychologists”.
 
-#### 13. Amendment of the Mental Health (Patient Representation) (Prescribed Persons) (Scotland) (No.2) Regulations 2004[^key-2d372b0a0ad9c3ae0123ae469e3b3adf]
+#### 13. Amendment of the Mental Health (Patient Representation) (Prescribed Persons) (Scotland) (No.2) Regulations 2004[^c-2d372b0a0ad9c3ae0123ae469e3b3adf]
 
 In regulation 2 of the Mental Health (Patient Representation) (Prescribed Persons) (Scotland) (No.2) Regulations 2004[^f00068] (prescribed persons), omit paragraph (a) and in paragraph (c) after “occupational therapists” insert “and registered psychologists”.
 
-#### 14. Amendment of the Regulation of Care (Social Service Workers) (Scotland) Order 2005[^key-68067865a6b1d59f9786abd1367ce416]
+#### 14. Amendment of the Regulation of Care (Social Service Workers) (Scotland) Order 2005[^c-68067865a6b1d59f9786abd1367ce416]
 
 In article 3 of the Regulation of Care (Social Service Workers) (Scotland) Order 2005[^f00069] (excluded persons), omit paragraph (2).
 
-#### 15. Amendment of the Scottish Parliament (Elections etc.) Order 2007[^key-f587e4f144c06bf3015ddf843594900f]
+#### 15. Amendment of the Scottish Parliament (Elections etc.) Order 2007[^c-f587e4f144c06bf3015ddf843594900f]
 
 In the Scottish Parliament (Elections etc.) Order 2007[^f00070], in Schedule 3 (absent voting), in paragraph 3(2), omit paragraph (i).
 
-#### 16. Amendment of the National Assembly for Wales (Representation of the People) Order 2007[^key-cc27f7ceaeb95f6feeaab9336b6198fb]
+#### 16. Amendment of the National Assembly for Wales (Representation of the People) Order 2007[^c-cc27f7ceaeb95f6feeaab9336b6198fb]
 
 In the National Assembly for Wales (Representation of the People) Order 2007[^f00071], in Schedule 1 (absent voting at Assembly elections), in paragraph 4(2), omit paragraph (i).
 
-#### 17. Amendment of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^key-f644b85c88affdc18001497c6816b567]
+#### 17. Amendment of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^c-f644b85c88affdc18001497c6816b567]
 
 In regulation 8 of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^f00072] (additional requirements for applications for a proxy vote for a particular or indefinite period on grounds of blindness or other disability), in paragraph (2), omit paragraph (i).
 
-#### 18. Amendment of the European Communities (Recognition of Professional Qualifications) Regulations 2007[^key-46ae21f7a9d62a9cdb220eb1fdace2b9]
+#### 18. Amendment of the European Communities (Recognition of Professional Qualifications) Regulations 2007[^c-46ae21f7a9d62a9cdb220eb1fdace2b9]
 
 In the European Communities (Recognition of Professional Qualifications) Regulations 2007[^f00073]—
 
@@ -132,7 +132,7 @@ In the European Communities (Recognition of Professional Qualifications) Regulat
 
 ### PART 2 — Amendments relating to barring entries
 
-#### 19. Amendment of the General Osteopathic Council (Professional Conduct Committee) (Procedure) Rules 2000[^key-f25e8550a44f0560acc05185359caece]
+#### 19. Amendment of the General Osteopathic Council (Professional Conduct Committee) (Procedure) Rules 2000[^c-f25e8550a44f0560acc05185359caece]
 
 After rule 26 of the General Osteopathic Council (Professional Conduct Committee) (Procedure) Rules 2000[^f00074], insert the following rule—
 
@@ -168,7 +168,7 @@ After rule 26 of the General Osteopathic Council (Professional Conduct Committee
 > - (a) the Independent Barring Board including a person in a barred list (within the meaning of the Safeguarding Vulnerable Groups Act 2006 or the Safeguarding Vulnerable Groups (Northern Ireland) Order 2007); or
 > - (b) the Scottish Ministers including a person in the children’s list or the adults’ list (within the meaning of the Protection of Vulnerable Groups (Scotland) Act 2007).
 
-#### 20. Amendment of the General Chiropractic Council (Professional Conduct Committee) Rules 2000[^key-68f86037ce5d7dd6c5f0dd5e289e9477]
+#### 20. Amendment of the General Chiropractic Council (Professional Conduct Committee) Rules 2000[^c-68f86037ce5d7dd6c5f0dd5e289e9477]
 
 In rule 7 of the General Chiropractic Council (Professional Conduct Committee) Rules 2000[^f00075] (evidence), after paragraph (1) insert the following paragraphs—
 
@@ -182,7 +182,7 @@ In rule 7 of the General Chiropractic Council (Professional Conduct Committee) R
 > - (a) information provided by the Scottish Ministers under the Protection of Vulnerable Groups (Scotland) Act 2007 that attests to that inclusion shall be conclusive evidence of that inclusion, unless the respondent can prove that they are not the person referred to in the information provided; and
 > - (b) a document from the Scottish Ministers, authenticated in whatever way the General Council may approve, that provides a statement of the findings of fact made by the Scottish Ministers that led to that inclusion shall be conclusive evidence of the facts found proved by the Scottish Ministers.
 
-#### 21. Amendment of the Health Professions Council (Conduct and Competence Committee) (Procedure) Rules 2003[^key-c6248826697527026615ac1794e418b4]
+#### 21. Amendment of the Health Professions Council (Conduct and Competence Committee) (Procedure) Rules 2003[^c-c6248826697527026615ac1794e418b4]
 
 In rule 10 of the Health Professions Council (Conduct and Competence Committee) (Procedure) Rules 2003[^f00076], in paragraph (1), after sub-paragraph (d) insert the following sub-paragraphs—
 
@@ -195,7 +195,7 @@ In rule 10 of the Health Professions Council (Conduct and Competence Committee) 
 
 .
 
-#### 22. Amendment of the Nursing and Midwifery Council (Fitness to Practise) Rules 2004[^key-e9448926e1bfea0b11e261ff44a8772b]
+#### 22. Amendment of the Nursing and Midwifery Council (Fitness to Practise) Rules 2004[^c-e9448926e1bfea0b11e261ff44a8772b]
 
 In the Nursing and Midwifery Council (Fitness to Practise) Rules 2004[^f00077], in rule 31 (evidence), after paragraph (3) insert the following paragraphs—
 
@@ -209,7 +209,7 @@ In the Nursing and Midwifery Council (Fitness to Practise) Rules 2004[^f00077], 
 > - (a) information provided by the Scottish Ministers under the Protection of Vulnerable Groups (Scotland) Act 2007 that attests to that inclusion shall be conclusive proof of that inclusion, unless the registrant can prove that they are not the person referred to in the information provided; and
 > - (b) a document from the Scottish Ministers, authenticated in whatever way the Council may approve, that provides a statement of the findings of fact made by the Scottish Ministers that led to that inclusion shall be conclusive proof of the facts found proved by the Scottish Ministers.
 
-#### 23. Amendment of the General Medical Council (Fitness to Practise) Rules 2004[^key-6ea7376cce789a4e7cb4086e9a0901d7]
+#### 23. Amendment of the General Medical Council (Fitness to Practise) Rules 2004[^c-6ea7376cce789a4e7cb4086e9a0901d7]
 
 In the General Medical Council (Fitness to Practise) Rules 2004[^f00078]—
 
@@ -226,7 +226,7 @@ In the General Medical Council (Fitness to Practise) Rules 2004[^f00078]—
   > - (a) information provided by the Scottish Ministers under the Protection of Vulnerable Groups (Scotland) Act 2007 that attests to that inclusion shall be conclusive evidence of that inclusion, unless the practitioner can prove that they are not the person referred to in the information provided; and
   > - (b) a document from the Scottish Ministers, authenticated in whatever way the General Council may approve, that provides a statement of the findings of fact made by the Scottish Ministers that led to that inclusion shall be conclusive evidence of the facts found proved by the Scottish Ministers.
 
-#### 24. Amendment of the General Optical Council (Fitness to Practise) Rules 2005[^key-fc48ec03e72fef00aef55d1036ed04b6]
+#### 24. Amendment of the General Optical Council (Fitness to Practise) Rules 2005[^c-fc48ec03e72fef00aef55d1036ed04b6]
 
 After rule 38 of the General Optical Council (Fitness to Practise) Rules 2005[^f00079], insert the following rule—
 
@@ -242,7 +242,7 @@ After rule 38 of the General Optical Council (Fitness to Practise) Rules 2005[^f
 > - (a) information provided by the Scottish Ministers under the Protection of Vulnerable Groups (Scotland) Act 2007 that attests to that inclusion shall be conclusive evidence of that inclusion, unless the registrant can prove that they are not the person referred to in the information provided; and
 > - (b) a document from the Scottish Ministers, authenticated in whatever way the Council may approve, that provides a statement of the findings of fact made by the Scottish Ministers that led to that inclusion shall be conclusive evidence of the facts found proved by the Scottish Ministers.
 
-#### 25. Amendment of the General Dental Council (Fitness to Practise) Rules 2006[^key-2b0d65796ea2a981e82adaab0cbae021]
+#### 25. Amendment of the General Dental Council (Fitness to Practise) Rules 2006[^c-2b0d65796ea2a981e82adaab0cbae021]
 
 In rule 57 of the General Dental Council (Fitness to Practise) Rules 2006[^f00080] (evidence)—
 
@@ -259,11 +259,11 @@ In rule 57 of the General Dental Council (Fitness to Practise) Rules 2006[^f0008
   > - (a) information provided by the Scottish Ministers under the Protection of Vulnerable Groups (Scotland) Act 2007 that attests to that inclusion shall be conclusive proof of that inclusion, unless the respondent can prove that they are not the person referred to in the information provided; and
   > - (b) a document from the Scottish Ministers, authenticated in whatever way the Council may approve, that provides a statement of the findings of fact made by the Scottish Ministers that led to that inclusion shall be conclusive proof of the facts found proved by the Scottish Ministers.
 
-#### 26. Amendment of the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007[^key-dc7373bd1627777dcc55299b148271d6]
+#### 26. Amendment of the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007[^c-dc7373bd1627777dcc55299b148271d6]
 
 In the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007[^f00081], in rule 6 (application for registration in the register of pharmacists) in paragraph (3)(g) (in both places) for “48(1)(e) to (k)” substitute “48(1)(e) to (m)”.
 
-#### 27. Amendment of the Royal Pharmaceutical Society of Great Britain (Fitness to Practise and Disqualification etc.) Rules 2007[^key-67748b2b3bccf000c49e5d82830d1ee4]
+#### 27. Amendment of the Royal Pharmaceutical Society of Great Britain (Fitness to Practise and Disqualification etc.) Rules 2007[^c-67748b2b3bccf000c49e5d82830d1ee4]
 
 In the Royal Pharmaceutical Society of Great Britain (Fitness to Practise and Disqualification etc.) Rules 2007[^f00082], in rule 30 (evidence), after paragraph (5) insert the following paragraphs—
 
@@ -279,7 +279,7 @@ In the Royal Pharmaceutical Society of Great Britain (Fitness to Practise and Di
 
 ### PART 3 — Amendments relating to the introduction of statutory regulation of pharmacy technicians
 
-#### 28. Amendment of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^key-17becabf436167e3ee31d039ae135b6f]
+#### 28. Amendment of the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^c-17becabf436167e3ee31d039ae135b6f]
 
 In Schedule 4 to the Rehabilitation of Offenders Act 1974 (Exclusions and Exceptions) (Scotland) Order 2003[^f00083] (excepted professions, offices, employments, and occupations)—
 
@@ -294,11 +294,11 @@ In Schedule 4 to the Rehabilitation of Offenders Act 1974 (Exclusions and Except
 
   .
 
-#### 29. Amendment of the Gender Recognition (Disclosure of Information) (Scotland) Order 2005[^key-773221a601bfdae70219eb7ef60fd97f]
+#### 29. Amendment of the Gender Recognition (Disclosure of Information) (Scotland) Order 2005[^c-773221a601bfdae70219eb7ef60fd97f]
 
 In article 5 of the Gender Recognition (Disclosure of Information) (Scotland) Order 2005[^f00084] (disclosure for medical purposes), in paragraph (2)(b)(iii), for “a pharmacist registered in Part 1 or 3 of the register maintained under article 10(1) of” substitute “a pharmacist or pharmacy technician registered in Part 1 or 3 of one of the registers maintained under articles 10(1) and 21(1) of”.
 
-#### 30. Amendment of the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007[^key-3c6d49d08a678f7855a3d7c32b46b138]
+#### 30. Amendment of the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007[^c-3c6d49d08a678f7855a3d7c32b46b138]
 
 In the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007[^f00085]—
 
@@ -374,11 +374,11 @@ In the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007[^
   ; and
 - (c) in rule 12 (applications for restoration within twelve months of specified removals from the register), in paragraph (1)(a), after “article 17(2)(b)” insert “, 28(2)(b)”.
 
-#### 31. Amendment of the Royal Pharmaceutical Society of Great Britain (Fitness to Practise and Disqualification etc.) Rules 2007[^key-98d40e893f213cd2baece0e99ee69fdf]
+#### 31. Amendment of the Royal Pharmaceutical Society of Great Britain (Fitness to Practise and Disqualification etc.) Rules 2007[^c-98d40e893f213cd2baece0e99ee69fdf]
 
 In the Royal Pharmaceutical Society of Great Britain (Fitness to Practise and Disqualification etc.) Rules 2007[^f00086], in rule 2 (interpretation), omit paragraph (3).
 
-#### 32. Amendment of the Royal Pharmaceutical Society of Great Britain (Fitness to Practise and Registration Appeals Committees and their Advisers) Rules 2007[^key-7a21b6ee3660b0c664225c48b3253747]
+#### 32. Amendment of the Royal Pharmaceutical Society of Great Britain (Fitness to Practise and Registration Appeals Committees and their Advisers) Rules 2007[^c-7a21b6ee3660b0c664225c48b3253747]
 
 In the Royal Pharmaceutical Society of Great Britain (Fitness to Practise and Registration Appeals Committees and their Advisers) Rules 2007[^f00087]—
 
@@ -387,7 +387,7 @@ In the Royal Pharmaceutical Society of Great Britain (Fitness to Practise and Re
   - (i) in sub-paragraph (c), before “pharmacists” insert “registered”, and
   - (ii) in sub-paragraph (d), before “pharmacy technician” insert “registered”.
 
-#### 33. Amendment of the European Communities (Recognition of Professional Qualifications) Regulations 2007[^key-296b74a368897de9d7e15d94446149b0]
+#### 33. Amendment of the European Communities (Recognition of Professional Qualifications) Regulations 2007[^c-296b74a368897de9d7e15d94446149b0]
 
 In the European Communities (Recognition of Professional Qualifications) Regulations 2007[^f00088]—
 
@@ -398,7 +398,7 @@ In the European Communities (Recognition of Professional Qualifications) Regulat
 
 ### PART 4 — Revocations relating to constitutional changes to the General Dental Council
 
-#### 34. Revocation of the General Dental Council (Constitution) Order of Council 2006[^key-80bcb09fc6717f3681f9de19e2ed6e1a]
+#### 34. Revocation of the General Dental Council (Constitution) Order of Council 2006[^c-80bcb09fc6717f3681f9de19e2ed6e1a]
 
 (1) The General Dental Council (Constitution) Order of Council 2006[^f00089] is revoked.
 
@@ -406,13 +406,13 @@ In the European Communities (Recognition of Professional Qualifications) Regulat
 
 (3) The General Dental Council (Constitution) (Amendment) Order of Council 2008[^f00091] is revoked.
 
-#### 35. Revocation of the General Dental Council (Constitution of Committees) Order of Council 2006[^key-7c3917b528c5ca38772034e4ae2a9caa]
+#### 35. Revocation of the General Dental Council (Constitution of Committees) Order of Council 2006[^c-7c3917b528c5ca38772034e4ae2a9caa]
 
 The General Dental Council (Constitution of Committees) Order of Council 2006[^f00092] is revoked.
 
 ### PART 5 — Revocations relating to constitutional changes to the Health Professions Council
 
-#### 36. Revocation of the Health Professions Council’s Practice Committees Constitution Rules[^key-441ba3f8685ed3ece2dd1c7020f0cf55]
+#### 36. Revocation of the Health Professions Council’s Practice Committees Constitution Rules[^c-441ba3f8685ed3ece2dd1c7020f0cf55]
 
 (1) The Health Professions Council (Practice Committees) (Constitution) Rules Order of Council 2003[^f00093], and the Rules approved by that Order[^f00094], are revoked.
 
@@ -420,7 +420,7 @@ The General Dental Council (Constitution of Committees) Order of Council 2006[^f
 
 ### PART 6 — Miscellaneous updating and consequential amendments
 
-#### 37. Amendment of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^key-3330b6b88e4ae5bce68cfdf3a615a5c1]
+#### 37. Amendment of the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^c-3330b6b88e4ae5bce68cfdf3a615a5c1]
 
 In Schedule 1 to the Rehabilitation of Offenders Act 1974 (Exceptions) Order 1975[^f00096] (excepted professions, offices, employments, work and occupations)—
 
@@ -435,7 +435,7 @@ In Schedule 1 to the Rehabilitation of Offenders Act 1974 (Exceptions) Order 197
 
   .
 
-#### 38. Amendment of the Nursing and Midwifery Order 2001[^key-2f4bdcce24706b62f5ad540e30f03564]
+#### 38. Amendment of the Nursing and Midwifery Order 2001[^c-2f4bdcce24706b62f5ad540e30f03564]
 
 In the Nursing and Midwifery Order 2001[^f00097]—
 
@@ -463,7 +463,7 @@ In the Nursing and Midwifery Order 2001[^f00097]—
     , and
   - (iii) in paragraph 18, omit sub-paragraphs (4), (9) and (11).
 
-#### 39. Amendment of the Representation of the People (England and Wales) Regulations 2001[^key-8451d6c0fa57672e700fbf83698d03d1]
+#### 39. Amendment of the Representation of the People (England and Wales) Regulations 2001[^c-8451d6c0fa57672e700fbf83698d03d1]
 
 In regulation 53 of the Representation of the People (England and Wales) Regulations 2001 (additional requirements for applications for a proxy vote for a definite or indefinite period on grounds of blindness or any other disability), in paragraph (2), for sub-paragraph (e) substitute the following sub-paragraph—
 
@@ -471,7 +471,7 @@ In regulation 53 of the Representation of the People (England and Wales) Regulat
 
 .
 
-#### 40. Amendment of the Representation of the People (Scotland) Regulations 2001[^key-0878b0a0c52e00b33a4678e301eac362]
+#### 40. Amendment of the Representation of the People (Scotland) Regulations 2001[^c-0878b0a0c52e00b33a4678e301eac362]
 
 In regulation 53 of the Representation of the People (Scotland) Regulations 2001 (additional requirements for applications for a proxy vote for a particular or indefinite period on grounds of blindness or any other disability), in paragraph (2), for sub-paragraph (e) substitute the following sub-paragraph—
 
@@ -479,7 +479,7 @@ In regulation 53 of the Representation of the People (Scotland) Regulations 2001
 
 .
 
-#### 41. Amendment of the Nursing and Midwifery Council (Education, Registration and Registration Appeals) Rules 2004[^key-3e98918de2060158ef8496c7805bf837]
+#### 41. Amendment of the Nursing and Midwifery Council (Education, Registration and Registration Appeals) Rules 2004[^c-3e98918de2060158ef8496c7805bf837]
 
 In Rule 25 of the Nursing and Midwifery Council (Education, Registration and Registration Appeals) Rules 2004[^f00101] (consideration by Appeal Panel), in paragraph (3), for sub-paragraph (b) substitute the following sub-paragraph—
 
@@ -490,7 +490,7 @@ In Rule 25 of the Nursing and Midwifery Council (Education, Registration and Reg
 
 .
 
-#### 42. Amendment of the National Assembly for Wales (Representation of the People) Order 2007[^key-9f2389fbf1890f946030b389708c8f3a]
+#### 42. Amendment of the National Assembly for Wales (Representation of the People) Order 2007[^c-9f2389fbf1890f946030b389708c8f3a]
 
 In the National Assembly for Wales (Representation of the People) Order 2007, in Schedule 1 (absent voting at Assembly elections), in paragraph 4(2), for paragraph (e) substitute the following paragraph—
 
@@ -498,7 +498,7 @@ In the National Assembly for Wales (Representation of the People) Order 2007, in
 
 .
 
-#### 43. Amendment of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^key-807d0d27065f7401e18acae2d7467538]
+#### 43. Amendment of the Representation of the People (Absent Voting at Local Government Elections) (Scotland) Regulations 2007[^c-807d0d27065f7401e18acae2d7467538]
 
 In regulation 8 of the Representation of the People (Absent voting at Local Government Elections) (Scotland) Regulations 2007 (additional requirements for applications for a proxy vote for a particular or indefinite period on grounds of blindness or other disability), in paragraph (2), for sub-paragraph (e) substitute the following sub-paragraph—
 
@@ -506,7 +506,7 @@ In regulation 8 of the Representation of the People (Absent voting at Local Gove
 
 .
 
-#### 44. Amendment of the Scottish Parliament (Elections etc. Order) 2007[^key-c73fe738715bb64a70abff69488ca84c]
+#### 44. Amendment of the Scottish Parliament (Elections etc. Order) 2007[^c-c73fe738715bb64a70abff69488ca84c]
 
 In the Scottish Parliament (Elections etc. Order) 2007, in Schedule 3 (absent voting), in paragraph 3(2), for paragraph (e) substitute the following paragraph—
 
@@ -514,7 +514,7 @@ In the Scottish Parliament (Elections etc. Order) 2007, in Schedule 3 (absent vo
 
 .
 
-#### 45. Amendment of the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007[^key-a801acd61d6c1c09d5bb519dcd022b5f]
+#### 45. Amendment of the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007[^c-a801acd61d6c1c09d5bb519dcd022b5f]
 
 In the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007, in rule 6 (application for registration in the register of pharmacists)—
 
@@ -527,139 +527,139 @@ In the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007, 
 
 ## Annotations
 
-[^key-e50110f95d9e638ca439a1601fd2223b]: Commencement: Sch. 4 para. 1 comes into force in accordance with art. 1(3)(9)
+[^c-e50110f95d9e638ca439a1601fd2223b]: Commencement: Sch. 4 para. 1 comes into force in accordance with art. 1(3)(9)
 
 [^f00056]: Footnote: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023); the relevant amending instrument is [S.I. 2002/441](https://www.legislation.gov.uk/uksi/2002/441).
 
-[^key-13d208f385ff0742acd71a7b1ad117ea]: Commencement: Sch. 4 para. 2 comes into force in accordance with art. 1(3)(9)
+[^c-13d208f385ff0742acd71a7b1ad117ea]: Commencement: Sch. 4 para. 2 comes into force in accordance with art. 1(3)(9)
 
 [^f00057]: Footnote: [S.I. 2001/341](https://www.legislation.gov.uk/uksi/2001/341); the relevant amending instrument is [S.I. 2006/2910](https://www.legislation.gov.uk/uksi/2006/2910).
 
-[^key-f0c427a8a4308839b2e9b94b672cd9e3]: Commencement: Sch. 4 para. 3 comes into force in accordance with art. 1(3)(9)
+[^c-f0c427a8a4308839b2e9b94b672cd9e3]: Commencement: Sch. 4 para. 3 comes into force in accordance with art. 1(3)(9)
 
 [^f00058]: Footnote: [S.I. 2001/497](https://www.legislation.gov.uk/uksi/2001/497); the relevant amending instrument is [S.I. 2007/925](https://www.legislation.gov.uk/uksi/2007/925).
 
-[^key-36920226c4c40e75d460bb2fc1bcceb9]: Commencement: Sch. 4 para. 4 comes into force in accordance with art. 1(3)(9)
+[^c-36920226c4c40e75d460bb2fc1bcceb9]: Commencement: Sch. 4 para. 4 comes into force in accordance with art. 1(3)(9)
 
 [^f00059]: Footnote: [S.I. 2001/3965](https://www.legislation.gov.uk/uksi/2001/3965); regulation 2(1) has been amended by [S.I. 2004/664](https://www.legislation.gov.uk/uksi/2004/664), [865](https://www.legislation.gov.uk/uksi/2004/865) and [1770](https://www.legislation.gov.uk/uksi/2004/1770).
 
-[^key-6568541a3cbc57d3091d93b7c58f84fd]: Commencement: Sch. 4 para. 5 comes into force in accordance with art. 1(3)(9)
+[^c-6568541a3cbc57d3091d93b7c58f84fd]: Commencement: Sch. 4 para. 5 comes into force in accordance with art. 1(3)(9)
 
 [^f00060]: Footnote: [S.I. 2001/3968](https://www.legislation.gov.uk/uksi/2001/3968); regulation 2(1) has been amended by [S.I. 2004/664](https://www.legislation.gov.uk/uksi/2004/664) and [865](https://www.legislation.gov.uk/uksi/2004/865).
 
-[^key-48668f09d4ef2f3cccc5c1321f4e5d33]: Commencement: Sch. 4 para. 6 comes into force in accordance with art. 1(3)(9)
+[^c-48668f09d4ef2f3cccc5c1321f4e5d33]: Commencement: Sch. 4 para. 6 comes into force in accordance with art. 1(3)(9)
 
 [^f00061]: Footnote: [S.I. 2002/324](https://www.legislation.gov.uk/uksi/2002/324); the relevant amending instrument is [S.I. 2004/1314](https://www.legislation.gov.uk/uksi/2004/1314).
 
-[^key-d714337bf2396963e06b4fbe7d3a16f6]: Commencement: Sch. 4 para. 7 comes into force in accordance with art. 1(3)(9)
+[^c-d714337bf2396963e06b4fbe7d3a16f6]: Commencement: Sch. 4 para. 7 comes into force in accordance with art. 1(3)(9)
 
 [^f00062]: Footnote: [S.I. 2002/325](https://www.legislation.gov.uk/uksi/2002/325).
 
-[^key-4a7fa3c5670af88748bbef716b508222]: Commencement: Sch. 4 para. 8 comes into force in accordance with art. 1(3)(9)
+[^c-4a7fa3c5670af88748bbef716b508222]: Commencement: Sch. 4 para. 8 comes into force in accordance with art. 1(3)(9)
 
 [^f00063]: Footnote: [S.I. 2003/1571](https://www.legislation.gov.uk/uksi/2003/1571); the relevant amending instrument is [S.I. 2004/2522](https://www.legislation.gov.uk/uksi/2004/2522).
 
-[^key-4a761044edcc0f5f6c63585bc15b0910]: Commencement: Sch. 4 para. 9 comes into force in accordance with art. 1(3)(9)
+[^c-4a761044edcc0f5f6c63585bc15b0910]: Commencement: Sch. 4 para. 9 comes into force in accordance with art. 1(3)(9)
 
 [^f00064]: Footnote: [S.S.I 2003/231](https://www.legislation.gov.uk/ssi/2003/231).
 
-[^key-425122549c2096d1484a72f75362a10e]: Commencement: Sch. 4 para. 10 comes into force in accordance with art. 1(3)(9)
+[^c-425122549c2096d1484a72f75362a10e]: Commencement: Sch. 4 para. 10 comes into force in accordance with art. 1(3)(9)
 
 [^f00065]: Footnote: Scheduled to [S.I. 2003/1579](https://www.legislation.gov.uk/uksi/2003/1579).
 
-[^key-b43ee51cc4b8a7a0ec52b531bf06ef95]: Commencement: Sch. 4 para. 11 comes into force in accordance with art. 1(3)(9)
+[^c-b43ee51cc4b8a7a0ec52b531bf06ef95]: Commencement: Sch. 4 para. 11 comes into force in accordance with art. 1(3)(9)
 
 [^f00066]: Footnote: [S.S.I. 2004/375](https://www.legislation.gov.uk/ssi/2004/375).
 
-[^key-0f04a50c2baa31dd49d214d31fddb9a7]: Commencement: Sch. 4 para. 12 comes into force in accordance with art. 1(3)(9)
+[^c-0f04a50c2baa31dd49d214d31fddb9a7]: Commencement: Sch. 4 para. 12 comes into force in accordance with art. 1(3)(9)
 
 [^f00067]: Footnote: [S.S.I. 2004/429](https://www.legislation.gov.uk/ssi/2004/429).
 
-[^key-2d372b0a0ad9c3ae0123ae469e3b3adf]: Commencement: Sch. 4 para. 13 comes into force in accordance with art. 1(3)(9)
+[^c-2d372b0a0ad9c3ae0123ae469e3b3adf]: Commencement: Sch. 4 para. 13 comes into force in accordance with art. 1(3)(9)
 
 [^f00068]: Footnote: [S.S.I. 2004/430](https://www.legislation.gov.uk/ssi/2004/430).
 
-[^key-68067865a6b1d59f9786abd1367ce416]: Commencement: Sch. 4 para. 14 comes into force in accordance with art. 1(3)(9)
+[^c-68067865a6b1d59f9786abd1367ce416]: Commencement: Sch. 4 para. 14 comes into force in accordance with art. 1(3)(9)
 
 [^f00069]: Footnote: [S.S.I. 2005/318](https://www.legislation.gov.uk/ssi/2005/318).
 
-[^key-f587e4f144c06bf3015ddf843594900f]: Commencement: Sch. 4 para. 15 comes into force in accordance with art. 1(3)(9)
+[^c-f587e4f144c06bf3015ddf843594900f]: Commencement: Sch. 4 para. 15 comes into force in accordance with art. 1(3)(9)
 
 [^f00070]: Footnote: [S.I. 2007/937](https://www.legislation.gov.uk/uksi/2007/937).
 
-[^key-cc27f7ceaeb95f6feeaab9336b6198fb]: Commencement: Sch. 4 para. 16 comes into force in accordance with art. 1(3)(9)
+[^c-cc27f7ceaeb95f6feeaab9336b6198fb]: Commencement: Sch. 4 para. 16 comes into force in accordance with art. 1(3)(9)
 
 [^f00071]: Footnote: [S.I. 2007/236](https://www.legislation.gov.uk/uksi/2007/236).
 
-[^key-f644b85c88affdc18001497c6816b567]: Commencement: Sch. 4 para. 17 comes into force in accordance with art. 1(3)(9)
+[^c-f644b85c88affdc18001497c6816b567]: Commencement: Sch. 4 para. 17 comes into force in accordance with art. 1(3)(9)
 
 [^f00072]: Footnote: [S.S.I. 2007/170](https://www.legislation.gov.uk/ssi/2007/170).
 
-[^key-46ae21f7a9d62a9cdb220eb1fdace2b9]: Commencement: Sch. 4 para. 18 comes into force in accordance with art. 1(3)(9)
+[^c-46ae21f7a9d62a9cdb220eb1fdace2b9]: Commencement: Sch. 4 para. 18 comes into force in accordance with art. 1(3)(9)
 
 [^f00073]: Footnote: [S.I. 2007/2781](https://www.legislation.gov.uk/uksi/2007/2781).
 
-[^key-f25e8550a44f0560acc05185359caece]: Commencement: Sch. 4 para. 19 comes into force in accordance with art. 1(3)(6)
+[^c-f25e8550a44f0560acc05185359caece]: Commencement: Sch. 4 para. 19 comes into force in accordance with art. 1(3)(6)
 
 [^f00074]: Footnote: Scheduled to [S.I. 2000/241](https://www.legislation.gov.uk/uksi/2000/241).
 
-[^key-68f86037ce5d7dd6c5f0dd5e289e9477]: Commencement: Sch. 4 para. 20 comes into force in accordance with art. 1(3)(6)
+[^c-68f86037ce5d7dd6c5f0dd5e289e9477]: Commencement: Sch. 4 para. 20 comes into force in accordance with art. 1(3)(6)
 
 [^f00075]: Footnote: Scheduled to [S.I. 2000/3290](https://www.legislation.gov.uk/uksi/2000/3290).
 
-[^key-c6248826697527026615ac1794e418b4]: Commencement: Sch. 4 para. 21 comes into force in accordance with art. 1(3)(6)
+[^c-c6248826697527026615ac1794e418b4]: Commencement: Sch. 4 para. 21 comes into force in accordance with art. 1(3)(6)
 
 [^f00076]: Footnote: Scheduled to [S.I. 2003/1575](https://www.legislation.gov.uk/uksi/2003/1575).
 
-[^key-e9448926e1bfea0b11e261ff44a8772b]: Commencement: Sch. 4 para. 22 comes into force in accordance with art. 1(3)(6)
+[^c-e9448926e1bfea0b11e261ff44a8772b]: Commencement: Sch. 4 para. 22 comes into force in accordance with art. 1(3)(6)
 
 [^f00077]: Footnote: Scheduled to [S.I. 2004/1761](https://www.legislation.gov.uk/uksi/2004/1761).
 
-[^key-6ea7376cce789a4e7cb4086e9a0901d7]: Commencement: Sch. 4 para. 23 comes into force in accordance with art. 1(3)(6)
+[^c-6ea7376cce789a4e7cb4086e9a0901d7]: Commencement: Sch. 4 para. 23 comes into force in accordance with art. 1(3)(6)
 
 [^f00078]: Footnote: Scheduled to [S.I. 2004/2608](https://www.legislation.gov.uk/uksi/2004/2608).
 
-[^key-fc48ec03e72fef00aef55d1036ed04b6]: Commencement: Sch. 4 para. 24 comes into force in accordance with art. 1(3)(6)
+[^c-fc48ec03e72fef00aef55d1036ed04b6]: Commencement: Sch. 4 para. 24 comes into force in accordance with art. 1(3)(6)
 
 [^f00079]: Footnote: Scheduled to [S.I. 2005/1475](https://www.legislation.gov.uk/uksi/2005/1475).
 
-[^key-2b0d65796ea2a981e82adaab0cbae021]: Commencement: Sch. 4 para. 25 comes into force in accordance with art. 1(3)(6)
+[^c-2b0d65796ea2a981e82adaab0cbae021]: Commencement: Sch. 4 para. 25 comes into force in accordance with art. 1(3)(6)
 
 [^f00080]: Footnote: Scheduled to [S.I. 2006/1663](https://www.legislation.gov.uk/uksi/2006/1663).
 
-[^key-dc7373bd1627777dcc55299b148271d6]: Commencement: Sch. 4 para. 26 comes into force in accordance with art. 1(3)(6)
+[^c-dc7373bd1627777dcc55299b148271d6]: Commencement: Sch. 4 para. 26 comes into force in accordance with art. 1(3)(6)
 
 [^f00081]: Footnote: Scheduled to [S.I. 2007/441](https://www.legislation.gov.uk/uksi/2007/441).
 
-[^key-67748b2b3bccf000c49e5d82830d1ee4]: Commencement: Sch. 4 para. 27 comes into force in accordance with art. 1(3)(6)
+[^c-67748b2b3bccf000c49e5d82830d1ee4]: Commencement: Sch. 4 para. 27 comes into force in accordance with art. 1(3)(6)
 
 [^f00082]: Footnote: Scheduled to [S.I. 2007/442](https://www.legislation.gov.uk/uksi/2007/442).
 
-[^key-17becabf436167e3ee31d039ae135b6f]: Commencement: Sch. 4 para. 28 comes into force in accordance with art. 1(3)(5)
+[^c-17becabf436167e3ee31d039ae135b6f]: Commencement: Sch. 4 para. 28 comes into force in accordance with art. 1(3)(5)
 
 [^f00083]: Footnote: [S.S.I. 2003/231](https://www.legislation.gov.uk/ssi/2003/231); paragraph 8 in Part 1 was substituted by, and the definition of “registered pharmacist” in Part 4 was inserted by, [S.I. 2007/3101](https://www.legislation.gov.uk/uksi/2007/3101).
 
-[^key-773221a601bfdae70219eb7ef60fd97f]: Commencement: Sch. 4 para. 29 comes into force in accordance with art. 1(3)(5)
+[^c-773221a601bfdae70219eb7ef60fd97f]: Commencement: Sch. 4 para. 29 comes into force in accordance with art. 1(3)(5)
 
 [^f00084]: Footnote: [S.S.I. 2005/125](https://www.legislation.gov.uk/ssi/2005/125).
 
-[^key-3c6d49d08a678f7855a3d7c32b46b138]: Commencement: Sch. 4 para. 30 comes into force in accordance with art. 1(3)(5)
+[^c-3c6d49d08a678f7855a3d7c32b46b138]: Commencement: Sch. 4 para. 30 comes into force in accordance with art. 1(3)(5)
 
 [^f00085]: Footnote: Scheduled to [S.I. 2007/441](https://www.legislation.gov.uk/uksi/2007/441).
 
-[^key-98d40e893f213cd2baece0e99ee69fdf]: Commencement: Sch. 4 para. 31 comes into force in accordance with art. 1(3)(5)
+[^c-98d40e893f213cd2baece0e99ee69fdf]: Commencement: Sch. 4 para. 31 comes into force in accordance with art. 1(3)(5)
 
 [^f00086]: Footnote: Scheduled to [S.I. 2007/442](https://www.legislation.gov.uk/uksi/2007/442).
 
-[^key-7a21b6ee3660b0c664225c48b3253747]: Commencement: Sch. 4 para. 32 comes into force in accordance with art. 1(3)(5)
+[^c-7a21b6ee3660b0c664225c48b3253747]: Commencement: Sch. 4 para. 32 comes into force in accordance with art. 1(3)(5)
 
 [^f00087]: Footnote: Scheduled to [S.I. 2007/561](https://www.legislation.gov.uk/uksi/2007/561).
 
-[^key-296b74a368897de9d7e15d94446149b0]: Commencement: Sch. 4 para. 33 comes into force in accordance with art. 1(3)(5)
+[^c-296b74a368897de9d7e15d94446149b0]: Commencement: Sch. 4 para. 33 comes into force in accordance with art. 1(3)(5)
 
 [^f00088]: Footnote: [S.I. 2007/2781](https://www.legislation.gov.uk/uksi/2007/2781).
 
-[^key-80bcb09fc6717f3681f9de19e2ed6e1a]: Commencement: Sch. 4 para. 34 comes into force in accordance with art. 1(3)(9)
+[^c-80bcb09fc6717f3681f9de19e2ed6e1a]: Commencement: Sch. 4 para. 34 comes into force in accordance with art. 1(3)(9)
 
 [^f00089]: Footnote: [S.I. 2006/1666](https://www.legislation.gov.uk/uksi/2006/1666).
 
@@ -667,11 +667,11 @@ In the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007, 
 
 [^f00091]: Footnote: [S.I. 2008/3238](https://www.legislation.gov.uk/uksi/2008/3238).
 
-[^key-7c3917b528c5ca38772034e4ae2a9caa]: Commencement: Sch. 4 para. 35 comes into force in accordance with art. 1(3)(9)
+[^c-7c3917b528c5ca38772034e4ae2a9caa]: Commencement: Sch. 4 para. 35 comes into force in accordance with art. 1(3)(9)
 
 [^f00092]: Footnote: [S.I. 2006/1665](https://www.legislation.gov.uk/uksi/2006/1665).
 
-[^key-441ba3f8685ed3ece2dd1c7020f0cf55]: Commencement: Sch. 4 para. 36 comes into force in accordance with art. 1(3)(9)
+[^c-441ba3f8685ed3ece2dd1c7020f0cf55]: Commencement: Sch. 4 para. 36 comes into force in accordance with art. 1(3)(9)
 
 [^f00093]: Footnote: [S.I. 2003/1209](https://www.legislation.gov.uk/uksi/2003/1209).
 
@@ -679,11 +679,11 @@ In the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007, 
 
 [^f00095]: Footnote: [S.I. 2005/1625](https://www.legislation.gov.uk/uksi/2005/1625).
 
-[^key-3330b6b88e4ae5bce68cfdf3a615a5c1]: Commencement: Sch. 4 para. 37 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-3330b6b88e4ae5bce68cfdf3a615a5c1]: Commencement: Sch. 4 para. 37 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00096]: Footnote: [S.I. 1975/1023](https://www.legislation.gov.uk/uksi/1975/1023); the relevant amending instrument is [S.I. 2002/441](https://www.legislation.gov.uk/uksi/2002/441).
 
-[^key-2f4bdcce24706b62f5ad540e30f03564]: Commencement: Sch. 4 para. 38 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-2f4bdcce24706b62f5ad540e30f03564]: Commencement: Sch. 4 para. 38 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00097]: Footnote: [S.I. 2002/253](https://www.legislation.gov.uk/uksi/2002/253).
 
@@ -693,18 +693,18 @@ In the Royal Pharmaceutical Society of Great Britain (Registration) Rules 2007, 
 
 [^f00100]: Footnote: Relevant amendments were made by [S.I. 2008/1485](https://www.legislation.gov.uk/uksi/2008/1485).
 
-[^key-8451d6c0fa57672e700fbf83698d03d1]: Commencement: Sch. 4 para. 39 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-8451d6c0fa57672e700fbf83698d03d1]: Commencement: Sch. 4 para. 39 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-0878b0a0c52e00b33a4678e301eac362]: Commencement: Sch. 4 para. 40 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-0878b0a0c52e00b33a4678e301eac362]: Commencement: Sch. 4 para. 40 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-3e98918de2060158ef8496c7805bf837]: Commencement: Sch. 4 para. 41 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-3e98918de2060158ef8496c7805bf837]: Commencement: Sch. 4 para. 41 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
 [^f00101]: Footnote: Scheduled to [S.I. 2004/1767](https://www.legislation.gov.uk/uksi/2004/1767).
 
-[^key-9f2389fbf1890f946030b389708c8f3a]: Commencement: Sch. 4 para. 42 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-9f2389fbf1890f946030b389708c8f3a]: Commencement: Sch. 4 para. 42 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-807d0d27065f7401e18acae2d7467538]: Commencement: Sch. 4 para. 43 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-807d0d27065f7401e18acae2d7467538]: Commencement: Sch. 4 para. 43 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-c73fe738715bb64a70abff69488ca84c]: Commencement: Sch. 4 para. 44 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-c73fe738715bb64a70abff69488ca84c]: Commencement: Sch. 4 para. 44 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
 
-[^key-a801acd61d6c1c09d5bb519dcd022b5f]: Commencement: Sch. 4 para. 45 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)
+[^c-a801acd61d6c1c09d5bb519dcd022b5f]: Commencement: Sch. 4 para. 45 in force at 14.5.2009, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2009/1182/article/1/2)

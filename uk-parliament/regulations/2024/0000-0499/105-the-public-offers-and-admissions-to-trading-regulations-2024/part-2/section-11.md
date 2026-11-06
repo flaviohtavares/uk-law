@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 11. Designated activities: admissions to trading on primary MTF[^key-81c6f760eeaa927dbcdc095534a8bbae]
+## 11. Designated activities: admissions to trading on primary MTF[^c-81c6f760eeaa927dbcdc095534a8bbae]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,4 +28,4 @@ The following activities are specified under section 71K of FSMA 2000 as designa
 
 ## Annotations
 
-[^key-81c6f760eeaa927dbcdc095534a8bbae]: Commencement: Reg. 11 in force at 30.1.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/b)
+[^c-81c6f760eeaa927dbcdc095534a8bbae]: Commencement: Reg. 11 in force at 30.1.2024, see [reg. 2(1)(b)](https://www.legislation.gov.uk/uksi/2024/105/regulation/2/1/b)

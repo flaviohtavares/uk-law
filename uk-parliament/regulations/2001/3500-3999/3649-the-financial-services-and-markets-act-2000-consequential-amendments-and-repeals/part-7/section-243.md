@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 243. Exemption from obligation to disclose knowledge or suspicion of money laundering[^key-3a2fc93c4a29068966668274f4eb42e7]
+## 243. Exemption from obligation to disclose knowledge or suspicion of money laundering[^c-3a2fc93c4a29068966668274f4eb42e7]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,4 +31,4 @@ In regulation 4(1) of the Criminal Justice (Scotland) Act 1987 (Crown Servants a
 
 ## Annotations
 
-[^key-3a2fc93c4a29068966668274f4eb42e7]: Commencement: Art. 243 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)
+[^c-3a2fc93c4a29068966668274f4eb42e7]: Commencement: Art. 243 in force at 1.12.2001, see [art. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 184J. Asset subject to EU exit charge on becoming chargeable asset[^key-831389acf4999db4d1c25a8995b23357]
+## 184J. Asset subject to EU exit charge on becoming chargeable asset[^c-831389acf4999db4d1c25a8995b23357]
 
 *Extent: E+W+S+N.I.*
 
@@ -38,4 +38,4 @@ summary: ''
 
 ## Annotations
 
-[^key-831389acf4999db4d1c25a8995b23357]: Textual amendment: [S. 184J](https://www.legislation.gov.uk/ukpga/1992/12/section/184J) and cross-heading inserted (with effect in accordance with Sch. 8 para. 11(2) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 8 para. 11(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/8/paragraph/11/1)
+[^c-831389acf4999db4d1c25a8995b23357]: Textual amendment: [S. 184J](https://www.legislation.gov.uk/ukpga/1992/12/section/184J) and cross-heading inserted (with effect in accordance with Sch. 8 para. 11(2) of the amending Act) by [Finance Act 2019 (c. 1)](https://www.legislation.gov.uk/ukpga/2019/1), [Sch. 8 para. 11(1)](https://www.legislation.gov.uk/ukpga/2019/1/schedule/8/paragraph/11/1)

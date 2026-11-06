@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 80. Redemption by liquidator[^key-902217a3125b78d776578ed440aaedc6]
+## 80. Redemption by liquidator[^c-902217a3125b78d776578ed440aaedc6]
 
 *Extent: N.I.*
 
@@ -24,4 +24,4 @@ Apply rule 4.103 of the 1991 Rules.
 
 ## Annotations
 
-[^key-902217a3125b78d776578ed440aaedc6]: Commencement: Rule 80 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)
+[^c-902217a3125b78d776578ed440aaedc6]: Commencement: Rule 80 in operation at 1.4.2009, see [rule 1(1)](https://www.legislation.gov.uk/nisr/2009/122/rule/1/1)

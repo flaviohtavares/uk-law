@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 31. Requirement to notify regulator of disciplinary action[^key-7697827d0ff96d330e27cc706d4dfb9f][^key-a1d335791ab26b6198cea756edbb698f]
+## 31. Requirement to notify regulator of disciplinary action[^c-7697827d0ff96d330e27cc706d4dfb9f][^c-a1d335791ab26b6198cea756edbb698f]
 
 *Extent: E+W+S+N.I.*
 
@@ -48,6 +48,6 @@ After section 64B of FSMA 2000 (inserted by section 30 above) insert—
 
 ## Annotations
 
-[^key-7697827d0ff96d330e27cc706d4dfb9f]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2013/33/section/31) in force at 25.7.2014 for specified purposes by [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/2/d)
+[^c-7697827d0ff96d330e27cc706d4dfb9f]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2013/33/section/31) in force at 25.7.2014 for specified purposes by [S.I. 2014/1819](https://www.legislation.gov.uk/uksi/2014/1819), [art. 2(2)(d)](https://www.legislation.gov.uk/uksi/2014/1819/article/2/2/d)
 
-[^key-a1d335791ab26b6198cea756edbb698f]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2013/33/section/31) in force at 7.3.2016 in so far as not already in force by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/b) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))
+[^c-a1d335791ab26b6198cea756edbb698f]: Commencement: [S. 31](https://www.legislation.gov.uk/ukpga/2013/33/section/31) in force at 7.3.2016 in so far as not already in force by [S.I. 2015/490](https://www.legislation.gov.uk/uksi/2015/490), [art. 2(1)(b)](https://www.legislation.gov.uk/uksi/2015/490/article/2/1/b) (with savings and transitional provisions in S.I. 2015/492 (as amended by S.I. 2015/1660))

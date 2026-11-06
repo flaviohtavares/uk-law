@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 18. Time[^key-6f195174b60b12c7fa8edfd4868e588c]
+## 18. Time[^c-6f195174b60b12c7fa8edfd4868e588c]
 
 *Extent: E+W*
 
@@ -30,6 +30,6 @@ summary: ''
 
 ## Annotations
 
-[^key-6f195174b60b12c7fa8edfd4868e588c]: Commencement: Reg. 18 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
+[^c-6f195174b60b12c7fa8edfd4868e588c]: Commencement: Reg. 18 in force at 27.7.2007, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2007/2089/regulation/1/2)
 
 [^f00027]: Footnote: [1971 c. 80](https://www.legislation.gov.uk/ukpga/1971/80).

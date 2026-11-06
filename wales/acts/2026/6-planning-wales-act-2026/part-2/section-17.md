@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 17. Duty to prepare strategic development plan[^key-95670000ebf114665dcca397b306c61d]
+## 17. Duty to prepare strategic development plan[^c-95670000ebf114665dcca397b306c61d]
 
 *Extent: E+W*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95670000ebf114665dcca397b306c61d]: Commencement: S. 17 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)
+[^c-95670000ebf114665dcca397b306c61d]: Commencement: S. 17 not in force at Royal Assent, see [s. 409(2)](https://www.legislation.gov.uk/asc/2026/6/section/409/2)

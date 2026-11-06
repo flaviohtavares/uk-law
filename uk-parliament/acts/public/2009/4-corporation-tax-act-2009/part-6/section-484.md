@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) References in this Chapter to interest payable on a money debt include a reference to any amount which because of Part 4 of TIOPA 2010[^key-e002a41409869d698b059ad3e509a20f] (provision not at arm's length) falls to be treated as—
+(1) References in this Chapter to interest payable on a money debt include a reference to any amount which because of Part 4 of TIOPA 2010[^c-e002a41409869d698b059ad3e509a20f] (provision not at arm's length) falls to be treated as—
 
 - (a) interest on a money debt, or
 - (b) interest on an amount (“the notional debt”) which is treated as a money debt.
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e002a41409869d698b059ad3e509a20f]: Textual amendment: Words in s. 484(1) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 139](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/139) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))
+[^c-e002a41409869d698b059ad3e509a20f]: Textual amendment: Words in s. 484(1) substituted (with effect in accordance with s. 381(1) of the amending Act) by [Taxation (International and Other Provisions) Act 2010 (c. 8)](https://www.legislation.gov.uk/ukpga/2010/8), [s. 381(1)](https://www.legislation.gov.uk/ukpga/2010/8/section/381/1), [Sch. 8 para. 139](https://www.legislation.gov.uk/ukpga/2010/8/schedule/8/paragraph/139) (with [Sch. 9 paras. 1-9](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/1), [22](https://www.legislation.gov.uk/ukpga/2010/8/schedule/9/paragraph/22))

@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: N.I.*
 
-(1)[^key-7fa49bf5f5d37daaf1503e08c6412206] A person must not sell water which is bottled or labelled as “spring water” if it—
+(1)[^c-7fa49bf5f5d37daaf1503e08c6412206] A person must not sell water which is bottled or labelled as “spring water” if it—
 
 - (a) is bottled—
   - (i) in Northern Ireland, in contravention of regulation 14(1); or
@@ -40,4 +40,4 @@ summary: ''
 
 ## Annotations
 
-[^key-7fa49bf5f5d37daaf1503e08c6412206]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/nisr/2015/365/regulation/18/1) substituted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [7](https://www.legislation.gov.uk/nisr/2017/201/regulation/7)
+[^c-7fa49bf5f5d37daaf1503e08c6412206]: Textual amendment: [Reg. 18(1)](https://www.legislation.gov.uk/nisr/2015/365/regulation/18/1) substituted (27.10.2017) by [The Natural Mineral Water, Spring Water and Bottled Drinking Water (Amendment) Regulations (Northern Ireland) 2017 (S.R. 2017/201)](https://www.legislation.gov.uk/nisr/2017/201), [regs. 1](https://www.legislation.gov.uk/nisr/2017/201/regulation/1), [7](https://www.legislation.gov.uk/nisr/2017/201/regulation/7)

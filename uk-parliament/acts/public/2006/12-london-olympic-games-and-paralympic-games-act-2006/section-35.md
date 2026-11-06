@@ -24,7 +24,7 @@ summary: ''
 
 (2) The Greater London Authority may accept contributions towards expenditure in connection with the London Olympics.
 
-(3)[^key-2f836788ec411061f4fea1c68d288df4] The Secretary of State [^key-bba0df83736195e752802ace457da432]... may, after the conclusion of the London Olympics, repeal section 34 and this section by order made by statutory instrument; and the order may—
+(3)[^c-2f836788ec411061f4fea1c68d288df4] The Secretary of State [^c-bba0df83736195e752802ace457da432]... may, after the conclusion of the London Olympics, repeal section 34 and this section by order made by statutory instrument; and the order may—
 
 - (a) include savings (which may include provision saving, to such extent as may be specified and whether or not subject to modifications, the effect of a provision of the Greater London Authority Act 1999 or another primary or subordinate enactment in so far as it applies in relation to section 34);
 - (b) include transitional provision (which may include provision relating to the effect of a provision of an enactment in so far as it applies in relation to section 34);
@@ -38,14 +38,14 @@ summary: ''
 - (f) make provision having effect generally or only for specified cases or purposes;
 - (g) make different provision for different cases or purposes.
 
-(4)[^key-2f836788ec411061f4fea1c68d288df4] Before making an order under subsection (3) the Secretary of State [^key-bba0df83736195e752802ace457da432]... shall consult the Mayor of London.
+(4)[^c-2f836788ec411061f4fea1c68d288df4] Before making an order under subsection (3) the Secretary of State [^c-bba0df83736195e752802ace457da432]... shall consult the Mayor of London.
 
-(5)[^key-2f836788ec411061f4fea1c68d288df4] An order under subsection (3) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
+(5)[^c-2f836788ec411061f4fea1c68d288df4] An order under subsection (3) shall be subject to annulment in pursuance of a resolution of either House of Parliament.
 
 ## Annotations
 
 [^c1534203]: Commencement: S. 35 partly in force; s. 35(1)(2) in force at Royal Assent see s. 40(1)(e)
 
-[^key-2f836788ec411061f4fea1c68d288df4]: Commencement: S. 35(3)-(5) in force at 30.5.2006 by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/1118/article/2/4)
+[^c-2f836788ec411061f4fea1c68d288df4]: Commencement: S. 35(3)-(5) in force at 30.5.2006 by [S.I. 2006/1118](https://www.legislation.gov.uk/uksi/2006/1118), [art. 2(4)](https://www.legislation.gov.uk/uksi/2006/1118/article/2/4)
 
-[^key-bba0df83736195e752802ace457da432]: Textual amendment: Words in s. 35 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 8(1)(m)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/8/1/m)
+[^c-bba0df83736195e752802ace457da432]: Textual amendment: Words in s. 35 omitted (7.7.2010) by virtue of [Secretary of State for Culture, Olympics, Media and Sport Order 2010 (S.I. 2010/1551)](https://www.legislation.gov.uk/uksi/2010/1551), [art. 1(2)](https://www.legislation.gov.uk/uksi/2010/1551/article/1/2), [Sch. para. 8(1)(m)](https://www.legislation.gov.uk/uksi/2010/1551/schedule/paragraph/8/1/m)

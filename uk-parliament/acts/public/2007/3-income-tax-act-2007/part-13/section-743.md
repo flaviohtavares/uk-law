@@ -27,21 +27,21 @@ summary: ''
 - (a) in relation to such one or more of them as appears to an officer of Revenue and Customs to be just and reasonable, and
 - (b) if more than one, in such respective proportions as appears to the officer to be just and reasonable.
 
-(2A)[^key-aee9ca9853bed7b489a677b652e3420e] Subsection (2B) applies if—
+(2A)[^c-aee9ca9853bed7b489a677b652e3420e] Subsection (2B) applies if—
 
 - (a) in the case of an individual, an amount of income is taken into account in charging income tax under section 720 or 727, and
 - (b) the individual subsequently receives that income.
 
 (2B) The income received is treated as not being the individual's income for income tax purposes.
 
-(3) For the meaning of references in this section[^key-14bca788eb7870fc1891659a097bd930] to an amount of income taken into account in charging tax, see section 744.
+(3) For the meaning of references in this section[^c-14bca788eb7870fc1891659a097bd930] to an amount of income taken into account in charging tax, see section 744.
 
-(4)[^key-0a5628a203191cd4f88c646e0299d9a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-0a5628a203191cd4f88c646e0299d9a8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-aee9ca9853bed7b489a677b652e3420e]: Textual amendment: S. 743(2A)(2B) inserted (with effect in accordance with Sch. 10 para. 20 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 10 para. 16(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/10/paragraph/16/2)
+[^c-aee9ca9853bed7b489a677b652e3420e]: Textual amendment: S. 743(2A)(2B) inserted (with effect in accordance with Sch. 10 para. 20 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 10 para. 16(2)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/10/paragraph/16/2)
 
-[^key-14bca788eb7870fc1891659a097bd930]: Textual amendment: Words in s. 743(3) substituted (with effect in accordance with Sch. 10 para. 20 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 10 para. 16(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/10/paragraph/16/3)
+[^c-14bca788eb7870fc1891659a097bd930]: Textual amendment: Words in s. 743(3) substituted (with effect in accordance with Sch. 10 para. 20 of the amending Act) by [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 10 para. 16(3)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/10/paragraph/16/3)
 
-[^key-0a5628a203191cd4f88c646e0299d9a8]: Textual amendment: S. 743(4) omitted (with effect in accordance with Sch. 10 para. 20 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 10 para. 16(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/10/paragraph/16/4)
+[^c-0a5628a203191cd4f88c646e0299d9a8]: Textual amendment: S. 743(4) omitted (with effect in accordance with Sch. 10 para. 20 of the amending Act) by virtue of [Finance Act 2013 (c. 29)](https://www.legislation.gov.uk/ukpga/2013/29), [Sch. 10 para. 16(4)](https://www.legislation.gov.uk/ukpga/2013/29/schedule/10/paragraph/16/4)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 2. Interpretation[^key-76a32d8a889b8700b1e319e24249dbf3]
+## 2. Interpretation[^c-76a32d8a889b8700b1e319e24249dbf3]
 
 *Extent: E+W+S*
 
@@ -32,22 +32,22 @@ In this Order—
 - “the Commissioners” means the Poole Harbour Commissioners;
 - “general direction” means a direction given under article 12;
 - “the harbour” means Poole harbour as defined in article 4 and Schedule 1;
-- “[^key-c376ebb998a110d558e267d7f3e3fec0]**harbour facilities**” includes, but is not limited to, shipping, fisheries, marine, energy generation, energy storage, fuel and alternative power, recreational, leisure, tourism and retail facilities (including buildings);
+- “[^c-c376ebb998a110d558e267d7f3e3fec0]**harbour facilities**” includes, but is not limited to, shipping, fisheries, marine, energy generation, energy storage, fuel and alternative power, recreational, leisure, tourism and retail facilities (including buildings);
 - “the harbour map” means the map prepared in triplicate, signed by the Head of Maritime Commerce and Infrastructure Division of the Department for Transport and marked “Poole Harbour Revision Order 2012”, of which two copies have been deposited at the office of the Secretary of State for Transport and one copy has been deposited at the office of the Commissioners;
 - “the harbourmaster” means any person appointed as such by the Commissioners, and includes the deputies and assistants of the harbourmaster, and any other person for the time being authorised by the Commissioners to act, either generally or for a specific purpose, in the capacity of harbourmaster;
-- “[^key-149feb024b88ce6dadeb00aafb60a29e]**the harbour premises**” means land adjacent to the wet harbour area vested in, occupied or administered (for the time being) by the Commissioners as part of the harbour undertaking and occupied wholly or mainly for the purpose of activities there carried on, which may include docks, quays, piers, wharves, berths, locks, breakwaters, landing places, yards, roads, sheds, car parks, other buildings and all other works and conveniences, land and premises;
+- “[^c-149feb024b88ce6dadeb00aafb60a29e]**the harbour premises**” means land adjacent to the wet harbour area vested in, occupied or administered (for the time being) by the Commissioners as part of the harbour undertaking and occupied wholly or mainly for the purpose of activities there carried on, which may include docks, quays, piers, wharves, berths, locks, breakwaters, landing places, yards, roads, sheds, car parks, other buildings and all other works and conveniences, land and premises;
 - “houseboat” means any vessel or structure lying in the water or on the foreshore of the harbour all or part of which is used or capable of being used as a place of habitation (whether temporarily, intermittently or permanently), as a store or as a place for accommodating or receiving persons for the purposes of shelter, recreation, entertainment or refreshment, as club premises or as offices and includes the remains or wreckage of a vessel or structure formerly so used or capable of being so used, but does not include any ship registered under the 1995 Act or any vessel bona fide used for navigation;
 - “the level of high water” means the level of mean high water spring tides;
 - “the level of low water” means the level of mean low water spring tides;
 - “mooring” includes any buoy, pile, post, chain, pillar, pontoon or like apparatus or convenience provided or used for the mooring of vessels;
-- [^key-ecf98e00b3fab3543e366706c3592006]...
+- [^c-ecf98e00b3fab3543e366706c3592006]...
 - “special direction” means a direction given under article 14;
 - “statutory undertaker” means—
   - (a) any person who is a statutory undertaker for any of the purposes of the Town and Country Planning Act 1990[^f00008];
   - (b) a coast protection authority within the meaning of section 1 of the Coast Protection Act 1949[^f00009];
   - (c) any operator of any electronic communications apparatus within the meaning of the Communications Act 2003[^f00010];
 - “Trinity House” means the Corporation of Trinity House of Deptford Strond; and
-- “[^key-2fb8694aaba3e7b276bcbd82bb3cd785]**vessel**” includes a ship, boat, houseboat, raft or craft of any description, however propelled or moved, and includes non-displacement craft, watercraft, a hydrofoil vessel, or an amphibious vehicle and any other thing constructed or adapted for floating on or being submersed in water (whether permanently or temporarily);
+- “[^c-2fb8694aaba3e7b276bcbd82bb3cd785]**vessel**” includes a ship, boat, houseboat, raft or craft of any description, however propelled or moved, and includes non-displacement craft, watercraft, a hydrofoil vessel, or an amphibious vehicle and any other thing constructed or adapted for floating on or being submersed in water (whether permanently or temporarily);
 - “**watercraft**” means any type of craft which—
   - (a) is capable of moving under its own mechanical power;
   - (b) is used, navigated or situated wholly or partially in or on water; and
@@ -58,7 +58,7 @@ In this Order—
 
 ## Annotations
 
-[^key-76a32d8a889b8700b1e319e24249dbf3]: Commencement: Art. 2 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
+[^c-76a32d8a889b8700b1e319e24249dbf3]: Commencement: Art. 2 in force at 23.7.2012, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2012/1777/article/1/2)
 
 [^f00004]: Footnote: [1847 c.27](https://www.legislation.gov.uk/ukpga/1847/27).
 
@@ -68,11 +68,11 @@ In this Order—
 
 [^f00007]: Footnote: [2006 c.46](https://www.legislation.gov.uk/ukpga/2006/46).
 
-[^key-c376ebb998a110d558e267d7f3e3fec0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1777/article/2) inserted (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [39(2)(a)](https://www.legislation.gov.uk/uksi/2026/724/article/39/2/a) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
+[^c-c376ebb998a110d558e267d7f3e3fec0]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1777/article/2) inserted (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [39(2)(a)](https://www.legislation.gov.uk/uksi/2026/724/article/39/2/a) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
 
-[^key-149feb024b88ce6dadeb00aafb60a29e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1777/article/2) substituted (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [39(2)(d)](https://www.legislation.gov.uk/uksi/2026/724/article/39/2/d) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
+[^c-149feb024b88ce6dadeb00aafb60a29e]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1777/article/2) substituted (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [39(2)(d)](https://www.legislation.gov.uk/uksi/2026/724/article/39/2/d) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
 
-[^key-ecf98e00b3fab3543e366706c3592006]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1777/article/2) omitted (23.7.2026) by virtue of [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [39(2)(b)](https://www.legislation.gov.uk/uksi/2026/724/article/39/2/b) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
+[^c-ecf98e00b3fab3543e366706c3592006]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1777/article/2) omitted (23.7.2026) by virtue of [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), [39(2)(b)](https://www.legislation.gov.uk/uksi/2026/724/article/39/2/b) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
 
 [^f00008]: Footnote: [1990 c. 8](https://www.legislation.gov.uk/ukpga/1990/8).
 
@@ -80,4 +80,4 @@ In this Order—
 
 [^f00010]: Footnote: 2003\. c. 21.
 
-[^key-2fb8694aaba3e7b276bcbd82bb3cd785]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1777/article/2) substituted (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), 2(1), [39(2)(c)](https://www.legislation.gov.uk/uksi/2026/724/article/39/2/c) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))
+[^c-2fb8694aaba3e7b276bcbd82bb3cd785]: Textual amendment: Words in [art. 2](https://www.legislation.gov.uk/uksi/2012/1777/article/2) substituted (23.7.2026) by [The Poole Harbour Revision Order 2026 (S.I. 2026/724)](https://www.legislation.gov.uk/uksi/2026/724), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2026/724/article/1/1), 2(1), [39(2)(c)](https://www.legislation.gov.uk/uksi/2026/724/article/39/2/c) (with [arts. 19](https://www.legislation.gov.uk/uksi/2026/724/article/19), [36](https://www.legislation.gov.uk/uksi/2026/724/article/36), [37](https://www.legislation.gov.uk/uksi/2026/724/article/37))

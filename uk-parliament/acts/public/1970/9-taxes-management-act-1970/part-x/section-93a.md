@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 93A. Failure to make partnership return.[^key-e5d897113024aaac40ebed701792a933]
+## 93A. Failure to make partnership return.[^c-e5d897113024aaac40ebed701792a933]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e5d897113024aaac40ebed701792a933]: Textual amendment: S. 93A omitted (1.4.2011) by virtue of [The Finance Act 2009, Schedules 55 and 56 (Income Tax Self Assessment and Pension Schemes) (Appointed Days and Consequential and Savings Provisions) Order 2011 (S.I. 2011/702)](https://www.legislation.gov.uk/uksi/2011/702), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/702/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2011/702/article/7/b) (with [arts. 20](https://www.legislation.gov.uk/uksi/2011/702/article/20), [22](https://www.legislation.gov.uk/uksi/2011/702/article/22))
+[^c-e5d897113024aaac40ebed701792a933]: Textual amendment: S. 93A omitted (1.4.2011) by virtue of [The Finance Act 2009, Schedules 55 and 56 (Income Tax Self Assessment and Pension Schemes) (Appointed Days and Consequential and Savings Provisions) Order 2011 (S.I. 2011/702)](https://www.legislation.gov.uk/uksi/2011/702), [arts. 1(1)](https://www.legislation.gov.uk/uksi/2011/702/article/1/1), [7(b)](https://www.legislation.gov.uk/uksi/2011/702/article/7/b) (with [arts. 20](https://www.legislation.gov.uk/uksi/2011/702/article/20), [22](https://www.legislation.gov.uk/uksi/2011/702/article/22))

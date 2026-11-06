@@ -33,7 +33,7 @@ ANIMALS, WALES
 
 ANIMAL HEALTH
 
-The Animals and Animal Products (Import and Export) (Wales) Regulations 2006 (revoked)[^key-4bcb574bcebae7c113237053044b6002]
+The Animals and Animal Products (Import and Export) (Wales) Regulations 2006 (revoked)[^c-4bcb574bcebae7c113237053044b6002]
 
 Made
 
@@ -43,11 +43,11 @@ Coming into force
 
 15 June 2006
 
-[^key-4bcb574bcebae7c113237053044b6002]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bcb574bcebae7c113237053044b6002]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Contents
 
-### PART 1 — Introduction[^key-4bcb574bcebae7c113237053044b6002]
+### PART 1 — Introduction[^c-4bcb574bcebae7c113237053044b6002]
 
 **No longer in force.**
 
@@ -55,7 +55,7 @@ Coming into force
 - [Section 2 — Exception](part-1/section-2.md)
 - [Section 3 — Enforcement](part-1/section-3.md)
 
-### PART 2 — Intra-Community Trade[^key-4bcb574bcebae7c113237053044b6002]
+### PART 2 — Intra-Community Trade[^c-4bcb574bcebae7c113237053044b6002]
 
 **No longer in force.**
 
@@ -70,7 +70,7 @@ Coming into force
 - [Section 12 — Assembly centres and slaughterhouses](part-2/section-12.md)
 - [Section 13 — Illegal consignments](part-2/section-13.md)
 
-### PART 3 — Third Country Imports[^key-4bcb574bcebae7c113237053044b6002]
+### PART 3 — Third Country Imports[^c-4bcb574bcebae7c113237053044b6002]
 
 *Extent: E+W*
 
@@ -88,7 +88,7 @@ Coming into force
 - [Section 23 — Arrival at the place of destination](part-3/section-23.md)
 - [Section 24 — Post-import controls](part-3/section-24.md)
 
-### PART 4 — Imports Where Checks Have Been Carried Out in Another Member State[^key-4bcb574bcebae7c113237053044b6002]
+### PART 4 — Imports Where Checks Have Been Carried Out in Another Member State[^c-4bcb574bcebae7c113237053044b6002]
 
 *Extent: E+W*
 
@@ -98,14 +98,14 @@ Coming into force
 - [Section 26 — Imports](part-4/section-26.md)
 - [Section 27 — Import procedure](part-4/section-27.md)
 
-### PART 4A — Third Country Exports[^key-4bcb574bcebae7c113237053044b6002]
+### PART 4A — Third Country Exports[^c-4bcb574bcebae7c113237053044b6002]
 
 **No longer in force.**
 
 - [Section 27A — Application of Part 4A](part-4a/section-27a.md)
 - [Section 27B — Exports to third countries](part-4a/section-27b.md)
 
-### PART 5 — General[^key-4bcb574bcebae7c113237053044b6002]
+### PART 5 — General[^c-4bcb574bcebae7c113237053044b6002]
 
 **No longer in force.**
 
@@ -134,12 +134,12 @@ Coming into force
 
 **No longer in force.**
 
-[^key-4bcb574bcebae7c113237053044b6002]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bcb574bcebae7c113237053044b6002]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 *Extent: E+W*
 
-[^key-4bcb574bcebae7c113237053044b6002]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-4bcb574bcebae7c113237053044b6002]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-4bcb574bcebae7c113237053044b6002]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/uksi/2011/2379), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2379/regulation/1), [43(1)(d)](https://www.legislation.gov.uk/uksi/2011/2379/regulation/43/1/d)
+[^c-4bcb574bcebae7c113237053044b6002]: Textual amendment: Regulations revoked (19.10.2011) by [The Trade in Animals and Related Products (Wales) Regulations 2011 (S.I. 2011/2379)](https://www.legislation.gov.uk/uksi/2011/2379), [regs. 1](https://www.legislation.gov.uk/uksi/2011/2379/regulation/1), [43(1)(d)](https://www.legislation.gov.uk/uksi/2011/2379/regulation/43/1/d)

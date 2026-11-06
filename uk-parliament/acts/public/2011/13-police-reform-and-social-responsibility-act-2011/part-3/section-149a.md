@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 149A. Power to specify other areas as controlled areas[^key-5dabccafeb956406b7c7fc523a51fb36]
+## 149A. Power to specify other areas as controlled areas[^c-5dabccafeb956406b7c7fc523a51fb36]
 
 *Extent: E+W*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-5dabccafeb956406b7c7fc523a51fb36]: Textual amendment: [S. 149A](https://www.legislation.gov.uk/ukpga/2011/13/section/149A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 77](https://www.legislation.gov.uk/ukpga/2022/32/section/77), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)
+[^c-5dabccafeb956406b7c7fc523a51fb36]: Textual amendment: [S. 149A](https://www.legislation.gov.uk/ukpga/2011/13/section/149A) inserted (28.6.2022) by [Police, Crime, Sentencing and Courts Act 2022 (c. 32)](https://www.legislation.gov.uk/ukpga/2022/32), [ss. 77](https://www.legislation.gov.uk/ukpga/2022/32/section/77), [208(1)](https://www.legislation.gov.uk/ukpga/2022/32/section/208/1); [S.I. 2022/520](https://www.legislation.gov.uk/uksi/2022/520), [reg. 5(j)](https://www.legislation.gov.uk/uksi/2022/520/regulation/5/j)

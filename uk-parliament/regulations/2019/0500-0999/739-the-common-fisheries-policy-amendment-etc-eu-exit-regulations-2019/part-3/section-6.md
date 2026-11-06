@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 6. Council Regulation [(EC) No 1936/2001](https://www.legislation.gov.uk/european/regulation/2001/1936) laying down control measures applicable to fishing for certain stocks of highly migratory fish[^key-f6cd926b66181ffe032136b5228c1a64]
+## 6. Council Regulation [(EC) No 1936/2001](https://www.legislation.gov.uk/european/regulation/2001/1936) laying down control measures applicable to fishing for certain stocks of highly migratory fish[^c-f6cd926b66181ffe032136b5228c1a64]
 
 *Extent: E+W+S+N.I.*
 
@@ -75,4 +75,4 @@ summary: ''
 
 ## Annotations
 
-[^key-f6cd926b66181ffe032136b5228c1a64]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)
+[^c-f6cd926b66181ffe032136b5228c1a64]: Commencement: Reg. 6 in force at 31.12.2020 on IP completion day (in accordance with 2020 c. 1, Sch. 5 para. 1(1)), see [reg. 1](https://www.legislation.gov.uk/uksi/2019/739/regulation/1)

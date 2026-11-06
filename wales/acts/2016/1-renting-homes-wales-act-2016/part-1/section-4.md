@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Identifying provisions of this Act which are fundamental provisions[^key-00caf66bc9d3cc56845ddea38fc6c4b6]
+## 4. Identifying provisions of this Act which are fundamental provisions[^c-00caf66bc9d3cc56845ddea38fc6c4b6]
 
 *Extent: E+W*
 
@@ -33,4 +33,4 @@ summary: ''
 
 ## Annotations
 
-[^key-00caf66bc9d3cc56845ddea38fc6c4b6]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2016/1/section/4) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)
+[^c-00caf66bc9d3cc56845ddea38fc6c4b6]: Commencement: [S. 4](https://www.legislation.gov.uk/anaw/2016/1/section/4) in force at 1.12.2022 by [S.I. 2022/906](https://www.legislation.gov.uk/wsi/2022/906), [art. 2](https://www.legislation.gov.uk/wsi/2022/906/article/2)

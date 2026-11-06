@@ -81,19 +81,19 @@ For the purposes of its application to feeding stuffs, the Act shall be read as 
 
 ## PART 2 — Miscellaneous requirements relating to sampling and analysis
 
-### 4. Methods of sending a final sample[^key-51908f87a5342346b42311d604177cfd]
+### 4. Methods of sending a final sample[^c-51908f87a5342346b42311d604177cfd]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 5. Qualifications of analysts[^key-8d9e9a614c87a00d08130d369d9e2030]
+### 5. Qualifications of analysts[^c-8d9e9a614c87a00d08130d369d9e2030]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 6. Analysis other than in the course of official controls[^key-b0798e6178e129600b593b201eba70ac]
+### 6. Analysis other than in the course of official controls[^c-b0798e6178e129600b593b201eba70ac]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 7. Form of certificate of analysis[^key-9afd2128a8d1abd779b9cbae81dabd22]
+### 7. Form of certificate of analysis[^c-9afd2128a8d1abd779b9cbae81dabd22]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -210,15 +210,15 @@ The Act is amended or as the case may be modified in accordance with regulations
 - (a) “is specified by Regulation 152/2009 or” were inserted after “quality of any material”; and
 - (b) “the method so specified or prescribed” were substituted for “the method prescribed”.
 
-### 21. Amendment of the Feed Hygiene Regulations[^key-ffcc1529b12382f3428f4703d5dbae52]
+### 21. Amendment of the Feed Hygiene Regulations[^c-ffcc1529b12382f3428f4703d5dbae52]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 22. Amendment of the GM Feed Regulations[^key-a8b24b93c55efd3bc913c9662bcdf571]
+### 22. Amendment of the GM Feed Regulations[^c-a8b24b93c55efd3bc913c9662bcdf571]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-### 23. Amendment of the Official Feed and Food Controls (England) Regulations 2009[^key-276c80cd2abd5a87313250c441128e3d]
+### 23. Amendment of the Official Feed and Food Controls (England) Regulations 2009[^c-276c80cd2abd5a87313250c441128e3d]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
@@ -246,9 +246,9 @@ Department of Health
 
 Regulation 7
 
-[^key-90f2bdee03b9fdd0ec815bbb84dafb16]...
+[^c-90f2bdee03b9fdd0ec815bbb84dafb16]...
 
-## SCHEDULE 2 — Entries to be substituted in Chapter A of Schedule 5 to the Feeding Stuffs Regulations 2005[^key-cc49782450a0a0090a41f0abc28ad6cb]
+## SCHEDULE 2 — Entries to be substituted in Chapter A of Schedule 5 to the Feeding Stuffs Regulations 2005[^c-cc49782450a0a0090a41f0abc28ad6cb]
 
 **No longer in force.**
 
@@ -300,13 +300,13 @@ EXPLANATORY NOTE
 
 [^f00010]: Footnote: [S.I. 2004/2334](https://www.legislation.gov.uk/uksi/2004/2334), amended by [S.I. 2005/1265](https://www.legislation.gov.uk/uksi/2005/1265) and [S.I. 2007/3007](https://www.legislation.gov.uk/uksi/2007/3007).
 
-[^key-51908f87a5342346b42311d604177cfd]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2280/regulation/4) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
+[^c-51908f87a5342346b42311d604177cfd]: Textual amendment: [Reg. 4](https://www.legislation.gov.uk/uksi/2010/2280/regulation/4) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
 
-[^key-8d9e9a614c87a00d08130d369d9e2030]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/2280/regulation/5) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
+[^c-8d9e9a614c87a00d08130d369d9e2030]: Textual amendment: [Reg. 5](https://www.legislation.gov.uk/uksi/2010/2280/regulation/5) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
 
-[^key-b0798e6178e129600b593b201eba70ac]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/2280/regulation/6) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
+[^c-b0798e6178e129600b593b201eba70ac]: Textual amendment: [Reg. 6](https://www.legislation.gov.uk/uksi/2010/2280/regulation/6) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
 
-[^key-9afd2128a8d1abd779b9cbae81dabd22]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/2280/regulation/7) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
+[^c-9afd2128a8d1abd779b9cbae81dabd22]: Textual amendment: [Reg. 7](https://www.legislation.gov.uk/uksi/2010/2280/regulation/7) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
 
 [^M_F_16d57699-22dc-4b86-95cd-2925f10f933a]: Textual amendment: Reg. 11 revoked (23.11.2010) by [The Animal Feed (England) Regulations 2010 (S.I. 2010/2503)](https://www.legislation.gov.uk/uksi/2010/2503), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2503/regulation/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2010/2503/schedule/2/paragraph/9)
 
@@ -314,16 +314,16 @@ EXPLANATORY NOTE
 
 [^M_F_805431ea-95ae-45e1-a491-f164311c2110]: Textual amendment: Reg. 15 revoked (23.11.2010) by [The Animal Feed (England) Regulations 2010 (S.I. 2010/2503)](https://www.legislation.gov.uk/uksi/2010/2503), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2503/regulation/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2010/2503/schedule/2/paragraph/9)
 
-[^key-ffcc1529b12382f3428f4703d5dbae52]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2010/2280/regulation/21) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
+[^c-ffcc1529b12382f3428f4703d5dbae52]: Textual amendment: [Reg. 21](https://www.legislation.gov.uk/uksi/2010/2280/regulation/21) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
 
-[^key-a8b24b93c55efd3bc913c9662bcdf571]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/2280/regulation/22) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
+[^c-a8b24b93c55efd3bc913c9662bcdf571]: Textual amendment: [Reg. 22](https://www.legislation.gov.uk/uksi/2010/2280/regulation/22) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
 
-[^key-276c80cd2abd5a87313250c441128e3d]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2010/2280/regulation/23) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
+[^c-276c80cd2abd5a87313250c441128e3d]: Textual amendment: [Reg. 23](https://www.legislation.gov.uk/uksi/2010/2280/regulation/23) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
 
 [^f00014]: Footnote: [S.I. 1999/1663](https://www.legislation.gov.uk/uksi/1999/1663). Those Regulations were amended by [S.I. 2001/541](https://www.legislation.gov.uk/uksi/2001/541), [S.I. 2003/1296](https://www.legislation.gov.uk/uksi/2003/1296), [S.I. 2003/1503](https://www.legislation.gov.uk/uksi/2003/1503), [S.I. 2003/2912](https://www.legislation.gov.uk/uksi/2003/2912), [S.I. 2004/1301](https://www.legislation.gov.uk/uksi/2004/1301), [S.I. 2004/2146](https://www.legislation.gov.uk/uksi/2004/2146), [S.I. 2004/2688](https://www.legislation.gov.uk/uksi/2004/2688), [S.I. 2005/3281](https://www.legislation.gov.uk/uksi/2005/3281)and [S.I. 2006/113](https://www.legislation.gov.uk/uksi/2006/113).
 
 [^M_F_b2a19311-bee1-4157-f057-0c778b86c499]: Textual amendment: Reg. 25 revoked (23.11.2010) by [The Animal Feed (England) Regulations 2010 (S.I. 2010/2503)](https://www.legislation.gov.uk/uksi/2010/2503), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2503/regulation/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2010/2503/schedule/2/paragraph/9)
 
-[^key-90f2bdee03b9fdd0ec815bbb84dafb16]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2280/schedule/1) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
+[^c-90f2bdee03b9fdd0ec815bbb84dafb16]: Textual amendment: [Sch. 1](https://www.legislation.gov.uk/uksi/2010/2280/schedule/1) revoked (6.4.2015) by [The Animal Feed (Hygiene, Sampling etc. and Enforcement) (England) Regulations 2015 (S.I. 2015/454)](https://www.legislation.gov.uk/uksi/2015/454), [reg. 1](https://www.legislation.gov.uk/uksi/2015/454/regulation/1), [Sch. 5](https://www.legislation.gov.uk/uksi/2015/454/schedule/5)
 
-[^key-cc49782450a0a0090a41f0abc28ad6cb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2280/schedule/2) revoked (23.11.2010) by [The Animal Feed (England) Regulations 2010 (S.I. 2010/2503)](https://www.legislation.gov.uk/uksi/2010/2503), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2503/regulation/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2010/2503/schedule/2/paragraph/9)
+[^c-cc49782450a0a0090a41f0abc28ad6cb]: Textual amendment: [Sch. 2](https://www.legislation.gov.uk/uksi/2010/2280/schedule/2) revoked (23.11.2010) by [The Animal Feed (England) Regulations 2010 (S.I. 2010/2503)](https://www.legislation.gov.uk/uksi/2010/2503), [reg. 1](https://www.legislation.gov.uk/uksi/2010/2503/regulation/1), [Sch. 2 para. 9](https://www.legislation.gov.uk/uksi/2010/2503/schedule/2/paragraph/9)

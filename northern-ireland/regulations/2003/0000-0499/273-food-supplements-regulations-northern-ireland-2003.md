@@ -43,11 +43,11 @@ Coming into operation
 
 The Department of Health, Social Services and Public Safety[^f00001] in exercise of the powers conferred on it by Articles 15(1)(a) and (e), 16(1), 25(1)(a) and (3), 26(3) and 47(2) of the Food Safety (Northern Ireland) Order 1991[^f00002] and of all other powers enabling it in that behalf, having had regard in accordance with Article 47(3A) of the said Order to relevant advice given by the Food Standards Agency and after consultation both as required by Article 9 of Regulation [(EC) No. 178/2002](https://www.legislation.gov.uk/european/regulation/2002/0178) of the European Parliament and of the Council[^f00003] laying down the general principles and requirements of food law, establishing the European Food Safety Authority and laying down procedures in matters of food safety and in accordance with Article 47(3) and (3B) of the said Order, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-7c554e759789b6e10f93f69c7c215260]
+## 1. Citation and commencement[^c-7c554e759789b6e10f93f69c7c215260]
 
 These Regulations may be cited as the Food Supplements Regulations (Northern Ireland) 2003 and shall come into operation on 1st August 2005.
 
-## 2. Interpretation[^key-002eb590bc1d0fb78a258cb54182b0d9]
+## 2. Interpretation[^c-002eb590bc1d0fb78a258cb54182b0d9]
 
 (1) In these Regulations –
 
@@ -72,17 +72,17 @@ These Regulations may be cited as the Food Supplements Regulations (Northern Ire
 
 (3) Other expressions used both in these Regulations and in Directive 2002/46 have the same meaning in these Regulations as they have in that Directive.
 
-## 3. Scope of Regulations[^key-a6d8c1e4572f289887515f6cb3808d3a]
+## 3. Scope of Regulations[^c-a6d8c1e4572f289887515f6cb3808d3a]
 
 (1) These Regulations apply to food supplements sold as food and presented as such.
 
 (2) These Regulations do not apply to medicinal products as defined by Directive [2001/83/EC](https://www.legislation.gov.uk/european/directive/2001/0083) of the European Parliament and of the Council[^f00005] on the Community code relating to medicinal products for human use.
 
-## 4. Restriction on form in which food supplements are sold to the ultimate consumer[^key-95bdbeeeb26f452a680e7e7bc75aeadb]
+## 4. Restriction on form in which food supplements are sold to the ultimate consumer[^c-95bdbeeeb26f452a680e7e7bc75aeadb]
 
 No person shall sell any food supplement to the ultimate consumer unless it is prepacked.
 
-## 5. Prohibitions on sale relating to composition of food supplements[^key-1d8b40c1147e3aa1b0c31d385e8af9af]
+## 5. Prohibitions on sale relating to composition of food supplements[^c-1d8b40c1147e3aa1b0c31d385e8af9af]
 
 (1) Subject to paragraph (3), no person shall sell a food supplement in the manufacture of which a vitamin or mineral has been used unless that vitamin or mineral –
 
@@ -102,7 +102,7 @@ No person shall sell any food supplement to the ultimate consumer unless it is p
 - (b) a dossier supporting use of the substance in question was submitted to the Commission by the Food Standards Agency or a member State other than the United Kingdom by 12th July 2005; and
 - (c) the European Food Safety Authority has not given an unfavourable opinion in respect of the use of that substance, or its use in that form in the manufacture of food supplements.
 
-## 6. Restrictions on sale relating to labelling etc. of food supplements[^key-c97e2a67f048fb80eb1fbb706e5e5dec]
+## 6. Restrictions on sale relating to labelling etc. of food supplements[^c-c97e2a67f048fb80eb1fbb706e5e5dec]
 
 (1) No person shall sell a food supplement which is ready for delivery to the ultimate consumer or to a catering establishment unless the name under which it is sold is “food supplement”.
 
@@ -125,7 +125,7 @@ No person shall sell any food supplement to the ultimate consumer unless it is p
 
 (4) No person shall sell any food supplement which is ready for delivery to the ultimate consumer or to a catering establishment if the labelling, presentation or advertising of that food supplement includes any mention, express or implied, that a balanced and varied diet cannot provide appropriate quantities of nutrients in general.
 
-## 7. Manner of marking or labelling[^key-17fe64c7680a50f736d5438a6886592e]
+## 7. Manner of marking or labelling[^c-17fe64c7680a50f736d5438a6886592e]
 
 (1) No person shall sell any food supplement which –
 
@@ -150,22 +150,22 @@ save that where the sale is otherwise than to the ultimate consumer such particu
 
 (4) No person shall sell any food supplement which is ready for delivery to the ultimate consumer or to a catering establishment if the particulars with which it is required to be marked or labelled by virtue of regulation 6(2) are in any way hidden, obscured or interrupted by any other written or pictorial matter.
 
-## 8. Enforcement[^key-41b631878277a82ad3b93fb5a7e62858]
+## 8. Enforcement[^c-41b631878277a82ad3b93fb5a7e62858]
 
 Each district council shall enforce and execute these Regulations within its district.
 
-## 9. Offences and penalties[^key-551542b233cd3d2cb2200120a8b775ea]
+## 9. Offences and penalties[^c-551542b233cd3d2cb2200120a8b775ea]
 
 If any person contravenes regulation 4, 5, 6 or 7 he shall be guilty of an offence and liable on summary conviction to a fine not exceeding level 5 on the standard scale.
 
-## 10. Defence in relation to exports[^key-a2581f69c0a655f184945f77d363dcc9]
+## 10. Defence in relation to exports[^c-a2581f69c0a655f184945f77d363dcc9]
 
 In any proceedings for an offence under these Regulations it shall be a defence for the person charged to prove –
 
 - (a) that the food in respect of which the offence is alleged to have been committed was intended for export to a country which has legislation analogous to these Regulations and that the food complies with that legislation; and
 - (b) in the case of export to a member State, that the legislation complies with the provisions of Directive 2002/46.
 
-## 11. Application of various provisions of the Order[^key-b23c3fd57ba86aaaca390ffc8848018e]
+## 11. Application of various provisions of the Order[^c-b23c3fd57ba86aaaca390ffc8848018e]
 
 The following provisions of the Order shall apply for the purposes of these Regulations and any reference in those provisions to the Order shall be construed for the purposes of these regulations as a reference to these Regulations –
 
@@ -186,7 +186,7 @@ A Senior Officer of the
 
 Department of Health, Social Services and Public Safety
 
-## SCHEDULE 1 — VITAMINS AND MINERALS WHICH MAY BE USED IN THE MANUFACTURE OF FOOD SUPPLEMENTS[^key-b22bf664adec7612c6634fa4d24f403b]
+## SCHEDULE 1 — VITAMINS AND MINERALS WHICH MAY BE USED IN THE MANUFACTURE OF FOOD SUPPLEMENTS[^c-b22bf664adec7612c6634fa4d24f403b]
 
 Regulations 5(1) and (3) and 6(3)(b)
 
@@ -233,7 +233,7 @@ Regulations 5(1) and (3) and 6(3)(b)
 
 Regulation 5(1) and (3)
 
-### 1. A. Vitamins[^key-35345d6c5b76f122e3f7e1afc7c62d38]
+### 1. A. Vitamins[^c-35345d6c5b76f122e3f7e1afc7c62d38]
 
 VITAMIN A
 
@@ -242,12 +242,12 @@ VITAMIN A
 - (c) retinyl palmitate
 - (d) beta–carotene
 
-**2.**[^key-fb923afc9cd05f2657864bb725d99e79] VITAMIN D
+**2.**[^c-fb923afc9cd05f2657864bb725d99e79] VITAMIN D
 
 - (a) cholecalciferol
 - (b) ergocalciferol
 
-**3.**[^key-84d7eeaa0ec85d507d20bb5463f71864] VITAMIN E
+**3.**[^c-84d7eeaa0ec85d507d20bb5463f71864] VITAMIN E
 
 - (a) D–alpha–tocopherol
 - (b) DL–alpha–tocopherol
@@ -255,50 +255,50 @@ VITAMIN A
 - (d) DL–alpha–tocopheryl acetate
 - (e) D–alpha–tocopheryl acid succinate
 
-**4.**[^key-23b2dc85fd3e177e04c56134b6dd54cb] VITAMIN K
+**4.**[^c-23b2dc85fd3e177e04c56134b6dd54cb] VITAMIN K
 
 - (a) phylloquinone (phytomenadione)
 
-**5.**[^key-3ddcfeeece06e0a6b72ffdf7d7d7c494] VITAMIN B1
+**5.**[^c-3ddcfeeece06e0a6b72ffdf7d7d7c494] VITAMIN B1
 
 - (a) thiamin hydrochloride
 - (b) thiamin mononitrate
 
-**6.**[^key-cc9131e3c8f92fa24d4770b8176212d1] VITAMIN B2
+**6.**[^c-cc9131e3c8f92fa24d4770b8176212d1] VITAMIN B2
 
 - (a) riboflavin
 - (b) riboflavin 5−–phosphate, sodium
 
-**7.**[^key-4d6f3fdb0cbd394af0a52149f5df5406] NIACIN
+**7.**[^c-4d6f3fdb0cbd394af0a52149f5df5406] NIACIN
 
 - (a) nicotinic acid
 - (b) nicotinamide
 
-**8.**[^key-76afb2631e53d50fa7e16bd86df49f1c] PANTOTHENIC ACID
+**8.**[^c-76afb2631e53d50fa7e16bd86df49f1c] PANTOTHENIC ACID
 
 - (a) D–pantothenate, calcium
 - (b) D–pantothenate, sodium
 - (c) dexpanthenol
 
-**9.**[^key-8a687014c816f6a6b7277f6c8aa5324d] VITAMIN B6
+**9.**[^c-8a687014c816f6a6b7277f6c8aa5324d] VITAMIN B6
 
 - (a) pyridoxine hydrochloride
 - (b) pyridoxine 5−–phosphate
 
-**10.**[^key-bc716f1b2231e368ba1915d0dcb0f101] FOLIC ACID
+**10.**[^c-bc716f1b2231e368ba1915d0dcb0f101] FOLIC ACID
 
 - (a) pteroylmonoglutamic acid
 
-**11.**[^key-1ed49fea73123a764e2bbcbbdd84b97e] VITAMIN B12
+**11.**[^c-1ed49fea73123a764e2bbcbbdd84b97e] VITAMIN B12
 
 - (a) cyanocobalamin
 - (b) hydroxocobalamin
 
-**12.**[^key-05c123dc2edeebc8f667d2aaffe0f29a] BIOTIN
+**12.**[^c-05c123dc2edeebc8f667d2aaffe0f29a] BIOTIN
 
 - (a) D–biotin
 
-**13.**[^key-7efe87b96abf4c546f62fa5f3e125251] VITAMIN C
+**13.**[^c-7efe87b96abf4c546f62fa5f3e125251] VITAMIN C
 
 - (a) L–ascorbic acid
 - (b) sodium–L–ascorbate
@@ -420,60 +420,60 @@ The Regulations make provision as to responsibility for enforcement (regulation 
 
 [^f00003]: Footnote: O.J. No. L31, 1.2.2002, p. 1
 
-[^key-7c554e759789b6e10f93f69c7c215260]: Commencement: Reg. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-7c554e759789b6e10f93f69c7c215260]: Commencement: Reg. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-002eb590bc1d0fb78a258cb54182b0d9]: Commencement: Reg. 2 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-002eb590bc1d0fb78a258cb54182b0d9]: Commencement: Reg. 2 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
 [^f00004]: Footnote: O.J. No. L183, 12.7.2002, p. 51
 
-[^key-a6d8c1e4572f289887515f6cb3808d3a]: Commencement: Reg. 3 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-a6d8c1e4572f289887515f6cb3808d3a]: Commencement: Reg. 3 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
 [^f00005]: Footnote: O.J. No. L311, 28.11.2001, p. 67
 
-[^key-95bdbeeeb26f452a680e7e7bc75aeadb]: Commencement: Reg. 4 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-95bdbeeeb26f452a680e7e7bc75aeadb]: Commencement: Reg. 4 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-1d8b40c1147e3aa1b0c31d385e8af9af]: Commencement: Reg. 5 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-1d8b40c1147e3aa1b0c31d385e8af9af]: Commencement: Reg. 5 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-c97e2a67f048fb80eb1fbb706e5e5dec]: Commencement: Reg. 6 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-c97e2a67f048fb80eb1fbb706e5e5dec]: Commencement: Reg. 6 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
 [^f00006]: Footnote: [S.R. 1996 No. 383](https://www.legislation.gov.uk/nisr/1996/383), as amended by [S.R. 1998 Nos. 24](https://www.legislation.gov.uk/nisr/1988/24), [253](https://www.legislation.gov.uk/nisr/1988/253) and [359](https://www.legislation.gov.uk/nisr/1988/359), [S.R. 1999 Nos. 143](https://www.legislation.gov.uk/nisr/1999/143), [244](https://www.legislation.gov.uk/nisr/1999/244), [286](https://www.legislation.gov.uk/nisr/1999/286) and [301](https://www.legislation.gov.uk/nisr/1999/301), [S.R. 2000 Nos. 189](https://www.legislation.gov.uk/nisr/2000/189) and [303](https://www.legislation.gov.uk/nisr/2000/303) and [S.R. 2001 No. 45](https://www.legislation.gov.uk/nisr/2001/45)
 
 [^f00007]: Footnote: O.J. No. L276, 6.10.90, p. 40
 
-[^key-17fe64c7680a50f736d5438a6886592e]: Commencement: Reg. 7 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-17fe64c7680a50f736d5438a6886592e]: Commencement: Reg. 7 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-41b631878277a82ad3b93fb5a7e62858]: Commencement: Reg. 8 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-41b631878277a82ad3b93fb5a7e62858]: Commencement: Reg. 8 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-551542b233cd3d2cb2200120a8b775ea]: Commencement: Reg. 9 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-551542b233cd3d2cb2200120a8b775ea]: Commencement: Reg. 9 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-a2581f69c0a655f184945f77d363dcc9]: Commencement: Reg. 10 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-a2581f69c0a655f184945f77d363dcc9]: Commencement: Reg. 10 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-b23c3fd57ba86aaaca390ffc8848018e]: Commencement: Reg. 11 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-b23c3fd57ba86aaaca390ffc8848018e]: Commencement: Reg. 11 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-b22bf664adec7612c6634fa4d24f403b]: Commencement: Sch. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-b22bf664adec7612c6634fa4d24f403b]: Commencement: Sch. 1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-35345d6c5b76f122e3f7e1afc7c62d38]: Commencement: Sch. 2 para. 1n1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-35345d6c5b76f122e3f7e1afc7c62d38]: Commencement: Sch. 2 para. 1n1 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-fb923afc9cd05f2657864bb725d99e79]: Commencement: Sch. 2 para. 2 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-fb923afc9cd05f2657864bb725d99e79]: Commencement: Sch. 2 para. 2 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-84d7eeaa0ec85d507d20bb5463f71864]: Commencement: Sch. 2 para. 3 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-84d7eeaa0ec85d507d20bb5463f71864]: Commencement: Sch. 2 para. 3 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-23b2dc85fd3e177e04c56134b6dd54cb]: Commencement: Sch. 2 para. 4 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-23b2dc85fd3e177e04c56134b6dd54cb]: Commencement: Sch. 2 para. 4 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-3ddcfeeece06e0a6b72ffdf7d7d7c494]: Commencement: Sch. 2 para. 5 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-3ddcfeeece06e0a6b72ffdf7d7d7c494]: Commencement: Sch. 2 para. 5 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-cc9131e3c8f92fa24d4770b8176212d1]: Commencement: Sch. 2 para. 6 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-cc9131e3c8f92fa24d4770b8176212d1]: Commencement: Sch. 2 para. 6 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-4d6f3fdb0cbd394af0a52149f5df5406]: Commencement: Sch. 2 para. 7 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-4d6f3fdb0cbd394af0a52149f5df5406]: Commencement: Sch. 2 para. 7 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-76afb2631e53d50fa7e16bd86df49f1c]: Commencement: Sch. 2 para. 8 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-76afb2631e53d50fa7e16bd86df49f1c]: Commencement: Sch. 2 para. 8 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-8a687014c816f6a6b7277f6c8aa5324d]: Commencement: Sch. 2 para. 9 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-8a687014c816f6a6b7277f6c8aa5324d]: Commencement: Sch. 2 para. 9 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-bc716f1b2231e368ba1915d0dcb0f101]: Commencement: Sch. 2 para. 10 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-bc716f1b2231e368ba1915d0dcb0f101]: Commencement: Sch. 2 para. 10 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-1ed49fea73123a764e2bbcbbdd84b97e]: Commencement: Sch. 2 para. 11 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-1ed49fea73123a764e2bbcbbdd84b97e]: Commencement: Sch. 2 para. 11 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-05c123dc2edeebc8f667d2aaffe0f29a]: Commencement: Sch. 2 para. 12 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-05c123dc2edeebc8f667d2aaffe0f29a]: Commencement: Sch. 2 para. 12 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
 
-[^key-7efe87b96abf4c546f62fa5f3e125251]: Commencement: Sch. 2 para. 13 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)
+[^c-7efe87b96abf4c546f62fa5f3e125251]: Commencement: Sch. 2 para. 13 in operation at 1.8.2005, see [reg. 1](https://www.legislation.gov.uk/nisr/2003/273/regulation/1)

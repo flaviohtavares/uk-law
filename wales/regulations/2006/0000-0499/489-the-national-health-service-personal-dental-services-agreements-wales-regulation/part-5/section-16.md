@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 16. Domiciliary services and sedation services[^key-e942d8f4966763f8bb8200c14ac9f459]
+## 16. Domiciliary services and sedation services[^c-e942d8f4966763f8bb8200c14ac9f459]
 
 *Extent: E+W*
 
@@ -32,4 +32,4 @@ that involve the provision of domiciliary services or sedation services—
 
 ## Annotations
 
-[^key-e942d8f4966763f8bb8200c14ac9f459]: Commencement: Reg. 16 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)
+[^c-e942d8f4966763f8bb8200c14ac9f459]: Commencement: Reg. 16 in force at 1.3.2006, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2006/489/regulation/1/1)

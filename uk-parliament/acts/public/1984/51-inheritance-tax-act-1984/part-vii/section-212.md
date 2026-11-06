@@ -20,7 +20,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-(1) Where a person is liable, otherwise than as transferor, and otherwise than under section 203 above, for tax attributable to the value of any property he shall, for the purpose of paying the tax or raising the amount of it when paid, have power, whether or not the property is vested in him, to raise the amount of the tax by sale or mortgage of, or a terminable charge on, that property , any property derived from that property, or any part of that property or of property derived from it[^key-d553adf1396cae039bed328edaf35ccf].
+(1) Where a person is liable, otherwise than as transferor, and otherwise than under section 203 above, for tax attributable to the value of any property he shall, for the purpose of paying the tax or raising the amount of it when paid, have power, whether or not the property is vested in him, to raise the amount of the tax by sale or mortgage of, or a terminable charge on, that property , any property derived from that property, or any part of that property or of property derived from it[^c-d553adf1396cae039bed328edaf35ccf].
 
 (2) A person having a limited interest in any property who pays the tax attributable to the value of that property shall be entitled to the like charge as if the tax so attributable had been raised by means of a mortgage to him.
 
@@ -30,4 +30,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d553adf1396cae039bed328edaf35ccf]: Textual amendment: Words in [s. 212(1)](https://www.legislation.gov.uk/ukpga/1984/51/section/212/1) substituted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 67(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/67/4), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)
+[^c-d553adf1396cae039bed328edaf35ccf]: Textual amendment: Words in [s. 212(1)](https://www.legislation.gov.uk/ukpga/1984/51/section/212/1) substituted (with application in accordance with s. 71 of the amending Act) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [ss. 67(4)](https://www.legislation.gov.uk/ukpga/2026/11/section/67/4), [71](https://www.legislation.gov.uk/ukpga/2026/11/section/71)

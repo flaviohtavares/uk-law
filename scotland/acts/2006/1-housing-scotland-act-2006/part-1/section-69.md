@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 69. Application to non-residential premises[^key-e68fc5158327bf5f07208adbd92cecc0]
+## 69. Application to non-residential premises[^c-e68fc5158327bf5f07208adbd92cecc0]
 
 *Extent: S*
 
@@ -32,4 +32,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e68fc5158327bf5f07208adbd92cecc0]: Commencement: S. 69 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)
+[^c-e68fc5158327bf5f07208adbd92cecc0]: Commencement: S. 69 in force at 1.4.2009 by [S.S.I. 2009/122](https://www.legislation.gov.uk/ssi/2009/122), [art. 3](https://www.legislation.gov.uk/ssi/2009/122/article/3)

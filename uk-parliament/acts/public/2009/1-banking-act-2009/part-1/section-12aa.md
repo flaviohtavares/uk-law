@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 12AA. Bail-in: sequence of write-down and conversion of capital instruments and liabilities[^key-1f2a586cab80ac4cb9e5afad3d1ea0a7]
+## 12AA. Bail-in: sequence of write-down and conversion of capital instruments and liabilities[^c-1f2a586cab80ac4cb9e5afad3d1ea0a7]
 
 *Extent: E+W+S+N.I.*
 
@@ -28,18 +28,18 @@ summary: ''
 - (d) where the total of any reduction or conversion pursuant to paragraphs (b) and (c) is less than the shortfall amount, the principal amount of subordinated debt that is not within either of those paragraphs is—
   - (i) reduced or converted (directly or indirectly) into shares or other securities, or both reduced and so converted, in accordance with the hierarchy of claims in normal insolvency proceedings, by the difference or to the extent of the capacity of those instruments, whichever is lower, and
   - (ii) losses are born by the holders of shares of the bank that are not within paragraph (a), (b) or (c) in accordance with the hierarchy of claims in normal insolvency proceedings,
-- (e) where the total of any reduction or conversion pursuant to paragraphs (b), (c) and (d), and any reduction or conversion pursuant to subsection (6), is less than the shortfall amount, the principal amount of, or outstanding amount payable in respect of, the remaining bail-in[^key-016f8c91e59f91079a5c9a0cd1e5d566] liabilities is reduced or converted (directly or indirectly) into shares or other securities, or both reduced and so converted, in accordance with the hierarchy of claims in normal insolvency proceedings, by the difference or to the extent of their capacity, whichever is lower.
+- (e) where the total of any reduction or conversion pursuant to paragraphs (b), (c) and (d), and any reduction or conversion pursuant to subsection (6), is less than the shortfall amount, the principal amount of, or outstanding amount payable in respect of, the remaining bail-in[^c-016f8c91e59f91079a5c9a0cd1e5d566] liabilities is reduced or converted (directly or indirectly) into shares or other securities, or both reduced and so converted, in accordance with the hierarchy of claims in normal insolvency proceedings, by the difference or to the extent of their capacity, whichever is lower.
 
 (2) In this section—
 
-- [^key-79b76920503b6e606fb40b53b1c131b6]...
-- “the shortfall amount” means the sum of the amounts referred to in Article 47.3(b) and (c) of the resolution and recovery directive less the amount of any recapitalisation payment required under section 214E of the Financial Services and Markets Act 2000 in relation to the bank in question[^key-1afd3afbf204483380250c2666e3248d].
+- [^c-79b76920503b6e606fb40b53b1c131b6]...
+- “the shortfall amount” means the sum of the amounts referred to in Article 47.3(b) and (c) of the resolution and recovery directive less the amount of any recapitalisation payment required under section 214E of the Financial Services and Markets Act 2000 in relation to the bank in question[^c-1afd3afbf204483380250c2666e3248d].
 
 (3) Subsections (1) to (4) of section 6C apply for the purpose of this section as if references in those subsections to section 6B were references to subsection (1)(a) to (c) of this section.
 
-(4) When complying with subsection (1)(d) and (e), the Bank of England must allocate the losses represented by the shortfall amount equally between bail-in[^key-e1d2a7e79a9eb7838bce505584715cdc] liabilities of the same rank by reducing the principal amount of, or outstanding amount payable in respect of, those bail-in liabilities to the same extent in proportion to their value, except where a different allocation of losses amongst liabilities of the same rank is allowed by virtue of section 48B(10) and (11).
+(4) When complying with subsection (1)(d) and (e), the Bank of England must allocate the losses represented by the shortfall amount equally between bail-in[^c-e1d2a7e79a9eb7838bce505584715cdc] liabilities of the same rank by reducing the principal amount of, or outstanding amount payable in respect of, those bail-in liabilities to the same extent in proportion to their value, except where a different allocation of losses amongst liabilities of the same rank is allowed by virtue of section 48B(10) and (11).
 
-(5) Subsection (4) does not prevent excluded liabilities (as defined by section 48B(7A)) from receiving more favourable treatment than bail-in[^key-e8375b6575ec7c5140d59b3086398f17] liabilities which are of the same rank in normal insolvency proceedings.
+(5) Subsection (4) does not prevent excluded liabilities (as defined by section 48B(7A)) from receiving more favourable treatment than bail-in[^c-e8375b6575ec7c5140d59b3086398f17] liabilities which are of the same rank in normal insolvency proceedings.
 
 (6) The Bank may take the action required by subsection (1)(e) only if it converts or reduces the principal amount of any instruments referred to in subsection (1)(d) which contain—
 
@@ -61,14 +61,14 @@ in accordance with those terms.
 
 ## Annotations
 
-[^key-1f2a586cab80ac4cb9e5afad3d1ea0a7]: Textual amendment: S. 12AA inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [21](https://www.legislation.gov.uk/uksi/2014/3329/article/21)
+[^c-1f2a586cab80ac4cb9e5afad3d1ea0a7]: Textual amendment: S. 12AA inserted (1.1.2015) by [The Bank Recovery and Resolution Order 2014 (S.I. 2014/3329)](https://www.legislation.gov.uk/uksi/2014/3329), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2014/3329/article/1/2), [21](https://www.legislation.gov.uk/uksi/2014/3329/article/21)
 
-[^key-016f8c91e59f91079a5c9a0cd1e5d566]: Textual amendment: Word in s. 12AA(1)(e) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/9/a)
+[^c-016f8c91e59f91079a5c9a0cd1e5d566]: Textual amendment: Word in s. 12AA(1)(e) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [9(a)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/9/a)
 
-[^key-79b76920503b6e606fb40b53b1c131b6]: Textual amendment: Words in s. 12AA(2) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-79b76920503b6e606fb40b53b1c131b6]: Textual amendment: Words in s. 12AA(2) omitted (31.12.2020) by virtue of [The Bank Recovery and Resolution and Miscellaneous Provisions (Amendment) (EU Exit) Regulations 2018 (S.I. 2018/1394)](https://www.legislation.gov.uk/uksi/2018/1394), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1394/regulation/1/2), [Sch. 1 para. 16](https://www.legislation.gov.uk/uksi/2018/1394/schedule/1/paragraph/16); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
 
-[^key-1afd3afbf204483380250c2666e3248d]: Textual amendment: Words in s. 12AA(2) inserted (16.7.2025) by [Bank Resolution (Recapitalisation) Act 2025 (c. 15)](https://www.legislation.gov.uk/ukpga/2025/15), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2025/15/section/7/3), [8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2); [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/g)
+[^c-1afd3afbf204483380250c2666e3248d]: Textual amendment: Words in s. 12AA(2) inserted (16.7.2025) by [Bank Resolution (Recapitalisation) Act 2025 (c. 15)](https://www.legislation.gov.uk/ukpga/2025/15), [ss. 7(3)](https://www.legislation.gov.uk/ukpga/2025/15/section/7/3), [8(2)](https://www.legislation.gov.uk/ukpga/2025/15/section/8/2); [S.I. 2025/872](https://www.legislation.gov.uk/uksi/2025/872), [reg. 2(g)](https://www.legislation.gov.uk/uksi/2025/872/regulation/2/g)
 
-[^key-e1d2a7e79a9eb7838bce505584715cdc]: Textual amendment: Word in s. 12AA(4) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/9/b)
+[^c-e1d2a7e79a9eb7838bce505584715cdc]: Textual amendment: Word in s. 12AA(4) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [9(b)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/9/b)
 
-[^key-e8375b6575ec7c5140d59b3086398f17]: Textual amendment: Word in s. 12AA(5) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/9/c)
+[^c-e8375b6575ec7c5140d59b3086398f17]: Textual amendment: Word in s. 12AA(5) substituted (28.12.2020) by [The Bank Recovery and Resolution (Amendment) (EU Exit) Regulations 2020 (S.I. 2020/1350)](https://www.legislation.gov.uk/uksi/2020/1350), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/1/2), [9(c)](https://www.legislation.gov.uk/uksi/2020/1350/regulation/9/c)

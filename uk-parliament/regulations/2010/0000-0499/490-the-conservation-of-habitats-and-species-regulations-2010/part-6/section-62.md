@@ -14,7 +14,7 @@ summary: ''
 
 > This provision is no longer in force.
 
-## 62. Considerations of overriding public interest[^key-95b6d3824852de6ba0a4dd4ed22dc461]
+## 62. Considerations of overriding public interest[^c-95b6d3824852de6ba0a4dd4ed22dc461]
 
 **No longer in force.**
 
@@ -22,4 +22,4 @@ summary: ''
 
 ## Annotations
 
-[^key-95b6d3824852de6ba0a4dd4ed22dc461]: Textual amendment: [Regs. 23-72](https://www.legislation.gov.uk/uksi/2010/490/regulation/23) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)
+[^c-95b6d3824852de6ba0a4dd4ed22dc461]: Textual amendment: [Regs. 23-72](https://www.legislation.gov.uk/uksi/2010/490/regulation/23) revoked (30.11.2017) by [The Conservation of Habitats and Species Regulations 2017 (S.I. 2017/1012)](https://www.legislation.gov.uk/uksi/2017/1012), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2017/1012/regulation/1/2), [Sch. 7](https://www.legislation.gov.uk/uksi/2017/1012/schedule/7)

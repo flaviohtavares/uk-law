@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 172. Interest on late payment of benefits[^key-eaa727b4486474ba812e4f1e66d2a987]
+## 172. Interest on late payment of benefits[^c-eaa727b4486474ba812e4f1e66d2a987]
 
 *Extent: S*
 
@@ -52,6 +52,6 @@ summary: ''
 
 ## Annotations
 
-[^key-eaa727b4486474ba812e4f1e66d2a987]: Commencement: [Reg. 172](https://www.legislation.gov.uk/ssi/2014/292/regulation/172) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
+[^c-eaa727b4486474ba812e4f1e66d2a987]: Commencement: [Reg. 172](https://www.legislation.gov.uk/ssi/2014/292/regulation/172) in force at 1.4.2015, see [reg. 1(2)(b)](https://www.legislation.gov.uk/ssi/2014/292/regulation/1/2/b)
 
 [^f00028]: Footnote: [1998 c.11](https://www.legislation.gov.uk/ukpga/1998/11).

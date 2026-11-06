@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 4. Transfer of Rules[^key-58a1fe6d02976a880ecd4ed222022707]
+## 4. Transfer of Rules[^c-58a1fe6d02976a880ecd4ed222022707]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,6 +24,6 @@ The Lands Tribunal Rules 1996[^f00002] have effect as if they were Tribunal Proc
 
 ## Annotations
 
-[^key-58a1fe6d02976a880ecd4ed222022707]: Commencement: Art. 4 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
+[^c-58a1fe6d02976a880ecd4ed222022707]: Commencement: Art. 4 in force at 1.6.2009, see [art. 1](https://www.legislation.gov.uk/uksi/2009/1307/article/1)
 
 [^f00002]: Footnote: [1996/1022](https://www.legislation.gov.uk/uksi/1996/1022).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 41. Offence of failing to comply with enforcement notice[^key-729b5fa8de6e4e4bc3447a8d6e5fa41f][^key-b44505fb65c70f2f1068dc04d0505448]
+## 41. Offence of failing to comply with enforcement notice[^c-729b5fa8de6e4e4bc3447a8d6e5fa41f][^c-b44505fb65c70f2f1068dc04d0505448]
 
 *Extent: E+W*
 
@@ -35,6 +35,6 @@ summary: ''
 
 ## Annotations
 
-[^key-729b5fa8de6e4e4bc3447a8d6e5fa41f]: Commencement: S. 41 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
+[^c-729b5fa8de6e4e4bc3447a8d6e5fa41f]: Commencement: S. 41 not in force at Royal Assent, see [s. 212(2)](https://www.legislation.gov.uk/asc/2023/3/section/212/2)
 
-[^key-b44505fb65c70f2f1068dc04d0505448]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2023/3/section/41) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)
+[^c-b44505fb65c70f2f1068dc04d0505448]: Commencement: [S. 41](https://www.legislation.gov.uk/asc/2023/3/section/41) in force at 4.11.2024 by [S.I. 2024/860](https://www.legislation.gov.uk/wsi/2024/860), [art. 3(a)](https://www.legislation.gov.uk/wsi/2024/860/article/3/a)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 204. Class BPD warrants[^key-478516e3552acb133f2e591935954d61][^key-36615109dfdc50357e1a872c0d44e05a]
+## 204. Class BPD warrants[^c-478516e3552acb133f2e591935954d61][^c-36615109dfdc50357e1a872c0d44e05a]
 
 *Extent: E+W+S+N.I.*
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-478516e3552acb133f2e591935954d61]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2016/25/section/204) in force at 25.7.2018 for specified purposes by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/m) (with [reg. 6(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/6/b))
+[^c-478516e3552acb133f2e591935954d61]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2016/25/section/204) in force at 25.7.2018 for specified purposes by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 2(m)](https://www.legislation.gov.uk/uksi/2018/873/regulation/2/m) (with [reg. 6(b)](https://www.legislation.gov.uk/uksi/2018/873/regulation/6/b))
 
-[^key-36615109dfdc50357e1a872c0d44e05a]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2016/25/section/204) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)
+[^c-36615109dfdc50357e1a872c0d44e05a]: Commencement: [S. 204](https://www.legislation.gov.uk/ukpga/2016/25/section/204) in force at 22.8.2018 by [S.I. 2018/873](https://www.legislation.gov.uk/uksi/2018/873), [reg. 3(c)](https://www.legislation.gov.uk/uksi/2018/873/regulation/3/c)

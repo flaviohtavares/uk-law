@@ -32,7 +32,7 @@ summary: ''
 
 SEEDS, ENGLAND
 
-The Vegetable Seed (England) (Amendment) Regulations 2005 (revoked)[^key-f49a471780763f49ebc3a7816190d5cb]
+The Vegetable Seed (England) (Amendment) Regulations 2005 (revoked)[^c-f49a471780763f49ebc3a7816190d5cb]
 
 Made
 
@@ -46,24 +46,24 @@ Coming into force
 
 26th October 2005
 
-[^key-f49a471780763f49ebc3a7816190d5cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f49a471780763f49ebc3a7816190d5cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-f49a471780763f49ebc3a7816190d5cb]
+## 1. Title and commencement[^c-f49a471780763f49ebc3a7816190d5cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Vegetable Seed (England) Regulations 2002[^key-f49a471780763f49ebc3a7816190d5cb]
+## 2. Amendment of the Vegetable Seed (England) Regulations 2002[^c-f49a471780763f49ebc3a7816190d5cb]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-f49a471780763f49ebc3a7816190d5cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f49a471780763f49ebc3a7816190d5cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-f49a471780763f49ebc3a7816190d5cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-f49a471780763f49ebc3a7816190d5cb]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-f49a471780763f49ebc3a7816190d5cb]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [regs. 1, 34(r)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/r)
+[^c-f49a471780763f49ebc3a7816190d5cb]: Textual amendment: Regulations revoked (22.11.2010) by [The Seed Marketing Regulations 2010 (S.I. 2010/2605)](https://www.legislation.gov.uk/uksi/2010/2605), [regs. 1, 34(r)](https://www.legislation.gov.uk/uksi/2010/2605/regulation/34/r)

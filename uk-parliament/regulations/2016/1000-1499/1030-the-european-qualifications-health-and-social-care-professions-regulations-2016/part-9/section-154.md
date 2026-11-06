@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 154. Amendment of the European Union (Recognition of Professional Qualifications) 2015[^key-ef7567c03d2cf0eea7322eb1019ecb08]
+## 154. Amendment of the European Union (Recognition of Professional Qualifications) 2015[^c-ef7567c03d2cf0eea7322eb1019ecb08]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,6 +26,6 @@ summary: ''
 
 ## Annotations
 
-[^key-ef7567c03d2cf0eea7322eb1019ecb08]: Commencement: Reg. 154 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
+[^c-ef7567c03d2cf0eea7322eb1019ecb08]: Commencement: Reg. 154 in force at 18.11.2016, see [reg. 1](https://www.legislation.gov.uk/uksi/2016/1030/regulation/1)
 
 [^f00106]: Footnote: [S.I. 2015/2059](https://www.legislation.gov.uk/uksi/2015/2059).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 37F. Other Welsh statutory instruments to be laid before Senedd Cymru[^key-54196cdebe9860d95485aea69918ac41]
+## 37F. Other Welsh statutory instruments to be laid before Senedd Cymru[^c-54196cdebe9860d95485aea69918ac41]
 
 *Extent: E+W*
 
@@ -42,4 +42,4 @@ summary: ''
 
 ## Annotations
 
-[^key-54196cdebe9860d95485aea69918ac41]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/anaw/2019/4/part/2A) inserted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [ss. 1(2)](https://www.legislation.gov.uk/asc/2025/3/section/1/2), [9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/1)[(2)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/2))
+[^c-54196cdebe9860d95485aea69918ac41]: Textual amendment: [Pt. 2A](https://www.legislation.gov.uk/anaw/2019/4/part/2A) inserted (1.1.2026) by [Legislation (Procedure, Publication and Repeals) (Wales) Act 2025 (asc 3)](https://www.legislation.gov.uk/asc/2025/3), [ss. 1(2)](https://www.legislation.gov.uk/asc/2025/3/section/1/2), [9(4)](https://www.legislation.gov.uk/asc/2025/3/section/9/4); [S.I. 2025/1160](https://www.legislation.gov.uk/wsi/2025/1160), [art. 2(a)](https://www.legislation.gov.uk/wsi/2025/1160/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/1)[(2)](https://www.legislation.gov.uk/wsi/2025/1160/article/3/2))

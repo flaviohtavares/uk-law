@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 54. Interpretation of Part 7[^key-33a2b7a4e09b9087c48aa0bbdeeac463]
+## 54. Interpretation of Part 7[^c-33a2b7a4e09b9087c48aa0bbdeeac463]
 
 *Extent: E+W+S+N.I.*
 
@@ -25,12 +25,12 @@ summary: ''
 - (a) “owned” by a person if—
   - (i) the legal title to the ship, or to any share in the ship, is vested in that person, or in a person who is owned or controlled directly or indirectly (within the meaning of regulation 9) by that person, or
   - (ii) the person, or a person who is owned or controlled directly or indirectly (within the meaning of regulation 9) by that person, has a beneficial interest in the ship or in any share in the ship;
-- (b)[^key-b7fb0543ad8f6b8d8c6006b5a16329e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-b7fb0543ad8f6b8d8c6006b5a16329e6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) “controlled” by a person who is able to take decisions about its operation, including (but not limited to) decisions about the route the ship may take and the appointment of master or crew.
 
-(2)[^key-50c49c4a37917e590d123b6ea4867bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-50c49c4a37917e590d123b6ea4867bea] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-4e16caa9a896bb6267085c85dceee5a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-4e16caa9a896bb6267085c85dceee5a6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (4) Any reference in this Part to a legal title or other interest includes one held jointly with any other person or persons.
 
@@ -44,10 +44,10 @@ summary: ''
 
 ## Annotations
 
-[^key-33a2b7a4e09b9087c48aa0bbdeeac463]: Commencement: Reg. 54 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
+[^c-33a2b7a4e09b9087c48aa0bbdeeac463]: Commencement: Reg. 54 in force at 14.12.2023, see [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/1/2)
 
-[^key-b7fb0543ad8f6b8d8c6006b5a16329e6]: Textual amendment: [Reg. 54(1)(b)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/54/1/b) omitted (29.9.2026) by virtue of [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2026/983/regulation/22/a)
+[^c-b7fb0543ad8f6b8d8c6006b5a16329e6]: Textual amendment: [Reg. 54(1)(b)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/54/1/b) omitted (29.9.2026) by virtue of [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [22(a)](https://www.legislation.gov.uk/uksi/2026/983/regulation/22/a)
 
-[^key-50c49c4a37917e590d123b6ea4867bea]: Textual amendment: [Reg. 54(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/54/2) omitted (29.9.2026) by virtue of [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2026/983/regulation/22/b)
+[^c-50c49c4a37917e590d123b6ea4867bea]: Textual amendment: [Reg. 54(2)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/54/2) omitted (29.9.2026) by virtue of [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2026/983/regulation/22/b)
 
-[^key-4e16caa9a896bb6267085c85dceee5a6]: Textual amendment: [Reg. 54(3)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/54/3) omitted (29.9.2026) by virtue of [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2026/983/regulation/22/b)
+[^c-4e16caa9a896bb6267085c85dceee5a6]: Textual amendment: [Reg. 54(3)](https://www.legislation.gov.uk/uksi/2023/1314/regulation/54/3) omitted (29.9.2026) by virtue of [The Iran (Sanctions) (Amendment) Regulations 2026 (S.I. 2026/983)](https://www.legislation.gov.uk/uksi/2026/983), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2026/983/regulation/1/2), [22(b)](https://www.legislation.gov.uk/uksi/2026/983/regulation/22/b)

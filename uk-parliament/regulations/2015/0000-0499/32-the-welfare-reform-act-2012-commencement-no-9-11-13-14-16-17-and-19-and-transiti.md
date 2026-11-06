@@ -38,11 +38,11 @@ Made
 
 The Secretary of State for Work and Pensions makes the following Order in exercise of the powers conferred by section 150(3) and (4)(a) and (b)(i) of the Welfare Reform Act 2012[^f00001].
 
-## 1. Citation[^key-42de41689f353420bd9983a17bb628d1]
+## 1. Citation[^c-42de41689f353420bd9983a17bb628d1]
 
 This Order may be cited as the Welfare Reform Act 2012 (Commencement No. 9, 11, 13, 14, 16, 17 and 19 and Transitional and Transitory Provisions (Amendment)) Order 2015.
 
-## 2. Interpretation[^key-7ce580ba911cb8201280d52190ad6e84]
+## 2. Interpretation[^c-7ce580ba911cb8201280d52190ad6e84]
 
 (1) In this Order—
 
@@ -80,7 +80,7 @@ This Order may be cited as the Welfare Reform Act 2012 (Commencement No. 9, 11, 
 
 a claim for an employment and support allowance or a jobseeker’s allowance is treated as made at a date that is earlier than the date on which the action referred to in paragraph (4)(a) is taken, the claim is treated as made on that earlier date.
 
-## 3. Amendment of the No. 9, No. 11, No. 13, No. 14, No. 16, No. 17 and No. 19 Orders: cases to which the amendments apply[^key-5e7dfbd4839bd3b049c17552b42334fc]
+## 3. Amendment of the No. 9, No. 11, No. 13, No. 14, No. 16, No. 17 and No. 19 Orders: cases to which the amendments apply[^c-5e7dfbd4839bd3b049c17552b42334fc]
 
 (1) Articles 4, 6(1) and (2), 7, 8(1) and 9 apply in relation to a case where—
 
@@ -94,7 +94,7 @@ and the claim for universal credit, an employment and support allowance or a job
 
 (3) Articles 5 and 6(4) apply in relation to a case where a claim for universal credit, an employment and support allowance or a jobseeker’s allowance is made or treated as made on or after 6th April 2015.
 
-## 4. Amendment of the No. 9 Order[^key-f2bf57f7265439c6764c91eddcc7a551]
+## 4. Amendment of the No. 9 Order[^c-f2bf57f7265439c6764c91eddcc7a551]
 
 (1) Where this article applies, the No. 9 Order is amended as follows.
 
@@ -113,7 +113,7 @@ and the claim for universal credit, an employment and support allowance or a job
 
 (3) In article 4[^f00017] (day appointed for the abolition of income-related employment and support allowance and income-based jobseeker’s allowance), at the end add—
 
-> (9)[^key-c27fd8d3b2f9eb4e404ca698d931dae8] For the purposes of paragraph (1), the reference to the case of a claim for universal credit referred to in paragraph (2)(a) to (d) (and any award made in respect of the claim), or of an award of universal credit without a claim referred to in paragraph (2)(e) and (f), includes a reference to an old style ESA award or an old style JSA award that exists (or, as a result of an act as referred to in paragraph (10), is later found to have existed at that time) immediately before the day appointed (as referred to in paragraph (3) or (4)) in relation to that claim or award without a claim.
+> (9)[^c-c27fd8d3b2f9eb4e404ca698d931dae8] For the purposes of paragraph (1), the reference to the case of a claim for universal credit referred to in paragraph (2)(a) to (d) (and any award made in respect of the claim), or of an award of universal credit without a claim referred to in paragraph (2)(e) and (f), includes a reference to an old style ESA award or an old style JSA award that exists (or, as a result of an act as referred to in paragraph (10), is later found to have existed at that time) immediately before the day appointed (as referred to in paragraph (3) or (4)) in relation to that claim or award without a claim.
 >
 > (10) For the purposes of paragraph (9), the acts referred to are—
 >
@@ -173,7 +173,7 @@ and the claim for universal credit, an employment and support allowance or a job
 
     .
 
-## 5. Amendment of paragraphs 4 and 7 of Schedule 5 to the No. 9 Order[^key-689ab38642a777a976e300f19a2d883f]
+## 5. Amendment of paragraphs 4 and 7 of Schedule 5 to the No. 9 Order[^c-689ab38642a777a976e300f19a2d883f]
 
 Where this article applies, Schedule 5 to the No. 9 Order is amended as follows—
 
@@ -186,7 +186,7 @@ Where this article applies, Schedule 5 to the No. 9 Order is amended as follows�
 
   .
 
-## 6. References to provisions of the No. 9 Order amended by articles 4 and 5[^key-51d15fc3d9fdfbbc6c6768922537f26a]
+## 6. References to provisions of the No. 9 Order amended by articles 4 and 5[^c-51d15fc3d9fdfbbc6c6768922537f26a]
 
 (1) Where this paragraph applies, any reference in the No. 11 Order, the No. 13 Order, the No. 14 Order, the No. 16 Order, the No. 17 Order and the No. 19 Order to paragraphs (5) to (7) of article 5 of the No. 9 Order is a reference to paragraphs (5) to (7) of article 5 as substituted by article 4(4).
 
@@ -196,7 +196,7 @@ Where this article applies, Schedule 5 to the No. 9 Order is amended as follows�
 
 (4) Where this paragraph applies, any reference in the No. 11 Order, the No. 13 Order, the No. 14 Order, the No. 16 Order, the No. 17 Order or the No. 19 Order to Schedule 5 to the No. 9 Order is a reference to that Schedule as amended by articles 4(5) and 5.
 
-## 7. Amendment of the No. 11 Order – gateway conditions[^key-4a6468defba8af78233f2ead094045a3]
+## 7. Amendment of the No. 11 Order – gateway conditions[^c-4a6468defba8af78233f2ead094045a3]
 
 Where this paragraph applies, article 2[^f00028] (interpretation) of the No. 11 Order is amended as follows—
 
@@ -209,7 +209,7 @@ Where this paragraph applies, article 2[^f00028] (interpretation) of the No. 11 
   - (ii) omit the definition of “specified districts”; and
 - (b) omit paragraph (3).
 
-## 8. Amendment of the No. 17 Order – gateway conditions[^key-1eddfbca45c0521f9b1149d96e42f866]
+## 8. Amendment of the No. 17 Order – gateway conditions[^c-1eddfbca45c0521f9b1149d96e42f866]
 
 (1) Where this paragraph applies, article 2[^f00029] (interpretation) of the No. 17 Order is amended as follows—
 
@@ -240,7 +240,7 @@ Where this paragraph applies, article 2[^f00028] (interpretation) of the No. 11 
   ; and
 - (b) omit the definition of “specified districts”.
 
-## 9. Amendment of the No. 11 Order, No. 13 Order, No. 14 Order, No. 16 Order, No. 17 Order and No. 19 Order – consequential amendment[^key-1a6f3972fa8acfeb9c4230bd6fae16a3]
+## 9. Amendment of the No. 11 Order, No. 13 Order, No. 14 Order, No. 16 Order, No. 17 Order and No. 19 Order – consequential amendment[^c-1a6f3972fa8acfeb9c4230bd6fae16a3]
 
 Where this paragraph applies, in article 4(6) of the No. 11 Order, the No. 13 Order, the No. 14 Order, the No. 16 Order[^f00031], the No. 17 Order and the No. 19 Order (day appointed for the abolition of income-related employment and support allowance and income-based jobseeker’s allowance) for “(6) and (7)” substitute “(6) to (9)”.
 
@@ -545,9 +545,9 @@ The following provisions of the Welfare Reform Act [2012 (c.5)](https://www.legi
 
 [^f00001]: Footnote: [2012 c. 5](https://www.legislation.gov.uk/ukpga/2012/5).
 
-[^key-42de41689f353420bd9983a17bb628d1]: Commencement: Art. 1 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
+[^c-42de41689f353420bd9983a17bb628d1]: Commencement: Art. 1 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
 
-[^key-7ce580ba911cb8201280d52190ad6e84]: Commencement: Art. 2 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
+[^c-7ce580ba911cb8201280d52190ad6e84]: Commencement: Art. 2 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
 
 [^f00002]: Footnote: [S.I. 1987/1968](https://www.legislation.gov.uk/uksi/1987/1968).
 
@@ -575,9 +575,9 @@ The following provisions of the Welfare Reform Act [2012 (c.5)](https://www.legi
 
 [^f00014]: Footnote: Paragraphs (4ZA) to (4ZD) were inserted by [S.I. 2000/1982](https://www.legislation.gov.uk/uksi/2000/1982) and paragraph (4ZC) was amended by [S.I. 2009/1490](https://www.legislation.gov.uk/uksi/2009/1490). Paragraph (4A) was inserted by [S.I. 1996/1460](https://www.legislation.gov.uk/uksi/1996/1460), substituted by [S.I. 1997/793](https://www.legislation.gov.uk/uksi/1997/793) and amended by [S.I. 1999/3108](https://www.legislation.gov.uk/uksi/1999/3108), [2000/1982](https://www.legislation.gov.uk/uksi/2000/1982) and [2009/1490](https://www.legislation.gov.uk/uksi/2009/1490).
 
-[^key-5e7dfbd4839bd3b049c17552b42334fc]: Commencement: Art. 3 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
+[^c-5e7dfbd4839bd3b049c17552b42334fc]: Commencement: Art. 3 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
 
-[^key-f2bf57f7265439c6764c91eddcc7a551]: Commencement: Art. 4 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
+[^c-f2bf57f7265439c6764c91eddcc7a551]: Commencement: Art. 4 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
 
 [^f00015]: Footnote: Article 2 was amended by [S.I. 2014/1452 (C. 56)](https://www.legislation.gov.uk/uksi/2014/1452) and [S.I. 2014/3094 (C. 133)](https://www.legislation.gov.uk/uksi/2014/3094); there are other amendments not relevant to this Order.
 
@@ -585,7 +585,7 @@ The following provisions of the Welfare Reform Act [2012 (c.5)](https://www.legi
 
 [^f00017]: Footnote: Article 4 was substituted by [S.I. 2014/1452 (C. 56)](https://www.legislation.gov.uk/uksi/2014/1452) and amended by [S.I. 2014/1923 (C. 88)](https://www.legislation.gov.uk/uksi/2014/1923).
 
-[^key-c27fd8d3b2f9eb4e404ca698d931dae8]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/2015/32/article/4/3) amended (10.2.2015) by [The Welfare Reform Act 2012 (Commencement No. 22 and Transitional and Transitory Provisions) Order 2015 (S.I. 2015/101)](https://www.legislation.gov.uk/uksi/2015/101), [art. 7](https://www.legislation.gov.uk/uksi/2015/101/article/7)
+[^c-c27fd8d3b2f9eb4e404ca698d931dae8]: Textual amendment: [Art. 4(3)](https://www.legislation.gov.uk/uksi/2015/32/article/4/3) amended (10.2.2015) by [The Welfare Reform Act 2012 (Commencement No. 22 and Transitional and Transitory Provisions) Order 2015 (S.I. 2015/101)](https://www.legislation.gov.uk/uksi/2015/101), [art. 7](https://www.legislation.gov.uk/uksi/2015/101/article/7)
 
 [^f00018]: Footnote: Article 5 was substituted by [S.I. 2014/1452 (C. 56)](https://www.legislation.gov.uk/uksi/2014/1452) and amended by [S.I. 2014/1923 (C. 88)](https://www.legislation.gov.uk/uksi/2014/1923).
 
@@ -599,29 +599,29 @@ The following provisions of the Welfare Reform Act [2012 (c.5)](https://www.legi
 
 [^f00023]: Footnote: See regulation 2, as amended by [S.I. 2013/803](https://www.legislation.gov.uk/uksi/2013/803).
 
-[^key-689ab38642a777a976e300f19a2d883f]: Commencement: Art. 5 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
+[^c-689ab38642a777a976e300f19a2d883f]: Commencement: Art. 5 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
 
 [^f00024]: Footnote: Paragraph 4 was substituted by [S.I. 2014/1923 (C. 88)](https://www.legislation.gov.uk/uksi/2014/1923).
 
 [^f00025]: Footnote: [1979 c. 34](https://www.legislation.gov.uk/ukpga/1979/34).
 
-[^key-51d15fc3d9fdfbbc6c6768922537f26a]: Commencement: Art. 6 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
+[^c-51d15fc3d9fdfbbc6c6768922537f26a]: Commencement: Art. 6 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
 
 [^f00026]: Footnote: There is a reference to “Schedule 5 to the No. 9 Order” in the definition of “gateway conditions” as amended by article 7 of this Order.
 
 [^f00027]: Footnote: There is a reference to “Schedule 5 to the No. 9 Order” in the definition of “gateway conditions” as amended by article 8(2) of this Order.
 
-[^key-4a6468defba8af78233f2ead094045a3]: Commencement: Art. 7 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
+[^c-4a6468defba8af78233f2ead094045a3]: Commencement: Art. 7 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
 
 [^f00028]: Footnote: Article 2 was amended by [S.I. 2014/1452 (C. 56)](https://www.legislation.gov.uk/uksi/2014/1452), [S.I. 2014/1661 (C. 69)](https://www.legislation.gov.uk/uksi/2014/1661) and [S.I. 2014/3067 (C. 129)](https://www.legislation.gov.uk/uksi/2014/3067); there are other amendments not relevant to this Order.
 
-[^key-1eddfbca45c0521f9b1149d96e42f866]: Commencement: Art. 8 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
+[^c-1eddfbca45c0521f9b1149d96e42f866]: Commencement: Art. 8 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
 
 [^f00029]: Footnote: Article 2(1) was amended by [S.I. 2014/3067 (C. 129)](https://www.legislation.gov.uk/uksi/2014/3067); there are other amendments not relevant to this Order.
 
 [^f00030]: Footnote: Articles 3 and 4 were amended by [S.I. 2014/1923 (C. 88)](https://www.legislation.gov.uk/uksi/2014/1923).
 
-[^key-1a6f3972fa8acfeb9c4230bd6fae16a3]: Commencement: Art. 9 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
+[^c-1a6f3972fa8acfeb9c4230bd6fae16a3]: Commencement: Art. 9 in force at made date, see [art. 1](https://www.legislation.gov.uk/uksi/2015/32/article/1)
 
 [^f00031]: Footnote: Article 4(6) in the No. 11 Order, No. 13 Order, the No. 14 Order and the No. 16 Order was substituted by [S.I. 2014/1452 (C. 56)](https://www.legislation.gov.uk/uksi/2014/1452).
 

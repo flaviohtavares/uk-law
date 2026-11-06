@@ -46,7 +46,7 @@ Coming into force in accordance with regulation 1
 
 In accordance with section 7(5) of that Act, the Secretary of State consulted such associations of local authorities as appeared to the Secretary of State to be concerned; the local authorities with whom consultation appeared to the Secretary of State to be desirable; and such representatives of other persons likely to be affected by the Regulations as appeared to the Secretary of State to be appropriate.
 
-The Secretary of State makes the following Regulations:[^key-c497d51c28ee57bd8725279f87f8c8af][^key-c58347ac41275b4d2bcf67608ba6ff55][^key-6a8a980c313180da84fe2c1b4785f683][^key-ced37b21ef9a02670bba4b79f143b838][^key-400e735f59eac46c2185c6ab2ece9d86]
+The Secretary of State makes the following Regulations:[^c-c497d51c28ee57bd8725279f87f8c8af][^c-c58347ac41275b4d2bcf67608ba6ff55][^c-6a8a980c313180da84fe2c1b4785f683][^c-ced37b21ef9a02670bba4b79f143b838][^c-400e735f59eac46c2185c6ab2ece9d86]
 
 ## Contents
 
@@ -217,7 +217,7 @@ The Secretary of State makes the following Regulations:[^key-c497d51c28ee57bd872
 - [Section 103 — Changes of administering authority](part-2/section-103.md)
 - [Section 104 — Change of administering authority in connection with probation service arrangements](part-2/section-104.md)
 
-### PART 3 — Governance[^key-0f4ce6bfaf7a4a4386e101e3bb1df19a]
+### PART 3 — Governance[^c-0f4ce6bfaf7a4a4386e101e3bb1df19a]
 
 *Extent: E+W*
 
@@ -235,7 +235,7 @@ The Secretary of State makes the following Regulations:[^key-c497d51c28ee57bd872
 - [Section 116 — Scheme advisory board: additional functions](part-3/section-116.md)
 - [Section 116A — Independent Governance Reviews](part-3/section-116a.md)
 
-### Part 4 — Elected Members[^key-8701481b966d53af56dd7684a7d1c5ab]
+### Part 4 — Elected Members[^c-8701481b966d53af56dd7684a7d1c5ab]
 
 - [Section 117 — Elected Members](part-4/section-117.md)
 
@@ -296,16 +296,16 @@ A regulatory impact assessment has been produced for these Regulations and is av
 
 [^c21900021]: Marginal citation: [1972 c. 11](https://www.legislation.gov.uk/ukpga/1972/11); section 12 was amended by the [Pensions (Miscellaneous Provisions) Act 1990 (c. 7)](https://www.legislation.gov.uk/ukpga/1990/7).
 
-[^key-c497d51c28ee57bd8725279f87f8c8af]: Modification: Regulations modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2018/1128/regulation/12), [13](https://www.legislation.gov.uk/uksi/2018/1128/regulation/13) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
+[^c-c497d51c28ee57bd8725279f87f8c8af]: Modification: Regulations modified (26.11.2018) by [The Local Government (Boundary Changes) Regulations 2018 (S.I. 2018/1128)](https://www.legislation.gov.uk/uksi/2018/1128), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/1), [12](https://www.legislation.gov.uk/uksi/2018/1128/regulation/12), [13](https://www.legislation.gov.uk/uksi/2018/1128/regulation/13) (with [reg. 1(2)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/2)[(3)](https://www.legislation.gov.uk/uksi/2018/1128/regulation/1/3))
 
-[^key-c58347ac41275b4d2bcf67608ba6ff55]: Modification: Regulations applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (West Midlands Integrated Transport Authority Pension Fund and West Midlands Pension Fund Merger) Regulations 2019 (S.I. 2019/1351)](https://www.legislation.gov.uk/uksi/2019/1351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1351/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2019/1351/regulation/2/1)
+[^c-c58347ac41275b4d2bcf67608ba6ff55]: Modification: Regulations applied (with modifications) (with effect in accordance with reg. 1(2) of the amending S.I.) by [The Local Government Pension Scheme (West Midlands Integrated Transport Authority Pension Fund and West Midlands Pension Fund Merger) Regulations 2019 (S.I. 2019/1351)](https://www.legislation.gov.uk/uksi/2019/1351), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/1351/regulation/1/2), [2(1)](https://www.legislation.gov.uk/uksi/2019/1351/regulation/2/1)
 
-[^key-6a8a980c313180da84fe2c1b4785f683]: Modification: Regulations applied (with modifications) (3.6.2020 with effect from 1/4/2020) by [The Local Government Pension Scheme (Northumberland and Tyne and Wear Pension Fund Merger) Regulations 2020 (S.I. 2020/502)](https://www.legislation.gov.uk/uksi/2020/502), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/502/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/502/regulation/2)
+[^c-6a8a980c313180da84fe2c1b4785f683]: Modification: Regulations applied (with modifications) (3.6.2020 with effect from 1/4/2020) by [The Local Government Pension Scheme (Northumberland and Tyne and Wear Pension Fund Merger) Regulations 2020 (S.I. 2020/502)](https://www.legislation.gov.uk/uksi/2020/502), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2020/502/regulation/1/2), [2](https://www.legislation.gov.uk/uksi/2020/502/regulation/2)
 
-[^key-ced37b21ef9a02670bba4b79f143b838]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/2356) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 56](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/56)
+[^c-ced37b21ef9a02670bba4b79f143b838]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/2356) applied (with modifications) (10.5.2021) by [The West Yorkshire Combined Authority (Election of Mayor and Functions) Order 2021 (S.I. 2021/112)](https://www.legislation.gov.uk/uksi/2021/112), [arts. 1(4)](https://www.legislation.gov.uk/uksi/2021/112/article/1/4), [35(1)](https://www.legislation.gov.uk/uksi/2021/112/article/35/1)[(2)](https://www.legislation.gov.uk/uksi/2021/112/article/35/2), [Sch. 5 para. 56](https://www.legislation.gov.uk/uksi/2021/112/schedule/5/paragraph/56)
 
-[^key-400e735f59eac46c2185c6ab2ece9d86]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/2356) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/55)
+[^c-400e735f59eac46c2185c6ab2ece9d86]: Modification: [Regulations](https://www.legislation.gov.uk/uksi/2013/2356) applied (with modifications) (21.3.2024) by [The South Yorkshire Mayoral Combined Authority (Election of Mayor and Transfer of Police and Crime Commissioner Functions) Order 2024 (S.I. 2024/414)](https://www.legislation.gov.uk/uksi/2024/414), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2024/414/article/1/2), [5](https://www.legislation.gov.uk/uksi/2024/414/article/5), [Sch. 1 para. 55](https://www.legislation.gov.uk/uksi/2024/414/schedule/1/paragraph/55)
 
-[^key-0f4ce6bfaf7a4a4386e101e3bb1df19a]: Textual amendment: Pt. 3 inserted (20.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2015 (S.I. 2015/57)](https://www.legislation.gov.uk/uksi/2015/57), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/57/regulation/1/3/a)[(b)](https://www.legislation.gov.uk/uksi/2015/57/regulation/1/3/b), [9](https://www.legislation.gov.uk/uksi/2015/57/regulation/9)
+[^c-0f4ce6bfaf7a4a4386e101e3bb1df19a]: Textual amendment: Pt. 3 inserted (20.2.2015 for specified purposes, 1.4.2015 in so far as not already in force) by [The Local Government Pension Scheme (Amendment) (Governance) Regulations 2015 (S.I. 2015/57)](https://www.legislation.gov.uk/uksi/2015/57), [reg. 1(3)(a)](https://www.legislation.gov.uk/uksi/2015/57/regulation/1/3/a)[(b)](https://www.legislation.gov.uk/uksi/2015/57/regulation/1/3/b), [9](https://www.legislation.gov.uk/uksi/2015/57/regulation/9)
 
-[^key-8701481b966d53af56dd7684a7d1c5ab]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2013/2356/part/4) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/346/regulation/3)
+[^c-8701481b966d53af56dd7684a7d1c5ab]: Textual amendment: [Pt. 4](https://www.legislation.gov.uk/uksi/2013/2356/part/4) inserted (11.5.2026) by [The Local Government Pension Scheme (Amendment) (Elected Member Pensions) Regulations 2026 (S.I. 2026/346)](https://www.legislation.gov.uk/uksi/2026/346), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2026/346/regulation/1/1), [3](https://www.legislation.gov.uk/uksi/2026/346/regulation/3)

@@ -52,7 +52,7 @@ An Act to amend and clarify the law relating to the transfer of securities and t
 
 (2)[^c7223621] “Financial institution” means—
 
-- (a) a recognised clearing house or a recognised CSD[^key-948358afb5620ede5e023ba67039df69] acting in relation to a recognised investment exchange; or
+- (a) a recognised clearing house or a recognised CSD[^c-948358afb5620ede5e023ba67039df69] acting in relation to a recognised investment exchange; or
 - (b) a nominee of—
   - (i) a recognised clearing house or a recognised CSD acting in that way; or
   - (ii) a recognised investment exchange.
@@ -103,7 +103,7 @@ An Act to amend and clarify the law relating to the transfer of securities and t
 
 [^c7223621]: Textual amendment: S. 5(2)-(4) substituted (1.12.2001) for s. 5(2) by [S.I. 2001/3649](https://www.legislation.gov.uk/uksi/2001/3649), [arts. 1](https://www.legislation.gov.uk/uksi/2001/3649/article/1), [289(5)](https://www.legislation.gov.uk/uksi/2001/3649/article/289/5)
 
-[^key-948358afb5620ede5e023ba67039df69]: Textual amendment: Words in [s. 5(2)(a)](https://www.legislation.gov.uk/ukpga/1976/47/section/5/2/a)[(b)(i)](https://www.legislation.gov.uk/ukpga/1976/47/section/5/2/b/i) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
+[^c-948358afb5620ede5e023ba67039df69]: Textual amendment: Words in [s. 5(2)(a)](https://www.legislation.gov.uk/ukpga/1976/47/section/5/2/a)[(b)(i)](https://www.legislation.gov.uk/ukpga/1976/47/section/5/2/b/i) inserted (28.11.2017) by [The Central Securities Depositories Regulations 2017 (S.I. 2017/1064)](https://www.legislation.gov.uk/uksi/2017/1064), [reg. 1](https://www.legislation.gov.uk/uksi/2017/1064/regulation/1), [Sch. para. 2](https://www.legislation.gov.uk/uksi/2017/1064/schedule/paragraph/2) (with [regs. 7(4)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/7/4), [9(1)](https://www.legislation.gov.uk/uksi/2017/1064/regulation/9/1))
 
 [^c7223631]: Modification: The text of s. 6(1) is in the form in which it was originally enacted: it was not reproduced in Statutes in Force and does not reflect any amendments or repeals which may have been made prior to 1.2.1991.
 

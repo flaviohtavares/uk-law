@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Northern Ireland.
 
-## 32. Meeting to approve the revised statement of proposals[^key-03382c0e680cc27b03ad92042c205624]
+## 32. Meeting to approve the revised statement of proposals[^c-03382c0e680cc27b03ad92042c205624]
 
 *Extent: N.I.*
 
@@ -34,4 +34,4 @@ summary: ''
 
 ## Annotations
 
-[^key-03382c0e680cc27b03ad92042c205624]: Commencement: [Rule 32](https://www.legislation.gov.uk/nisr/2026/11/rule/32) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)
+[^c-03382c0e680cc27b03ad92042c205624]: Commencement: [Rule 32](https://www.legislation.gov.uk/nisr/2026/11/rule/32) in operation at 2.3.2026, see [rule 2(1)](https://www.legislation.gov.uk/nisr/2026/11/rule/2/1)

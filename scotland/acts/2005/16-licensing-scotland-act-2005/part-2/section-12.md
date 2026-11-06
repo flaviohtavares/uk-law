@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 12. Licensing Boards' duties in relation to Local Licensing Forums[^key-41a1216182fba21a57c02bc31c60f45c]
+## 12. Licensing Boards' duties in relation to Local Licensing Forums[^c-41a1216182fba21a57c02bc31c60f45c]
 
 *Extent: S*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-41a1216182fba21a57c02bc31c60f45c]: Commencement: S. 12 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)
+[^c-41a1216182fba21a57c02bc31c60f45c]: Commencement: S. 12 in force at 1.5.2007 by [S.S.I. 2007/129](https://www.legislation.gov.uk/ssi/2007/129), [art. 3](https://www.legislation.gov.uk/ssi/2007/129/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2007/129/schedule)

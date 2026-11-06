@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 141. Applications for support[^key-1dd03e6718ce5b1998dc7fc94dda543f]
+## 141. Applications for support[^c-1dd03e6718ce5b1998dc7fc94dda543f]
 
 *Extent: E+W+S+N.I.*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1dd03e6718ce5b1998dc7fc94dda543f]: Commencement: Reg. 141 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)
+[^c-1dd03e6718ce5b1998dc7fc94dda543f]: Commencement: Reg. 141 in force at 1.4.2008, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2008/529/regulation/1/1)

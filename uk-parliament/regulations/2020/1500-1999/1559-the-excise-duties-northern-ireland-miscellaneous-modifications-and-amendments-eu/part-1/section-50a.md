@@ -18,7 +18,7 @@ summary: ''
 
 *Extent: E+W+S+N.I.*
 
-**50A.**[^key-e2831b7c6a0711f38fa62355ab548791] In regulation 53, for paragraphs (2) and (3) substitute—
+**50A.**[^c-e2831b7c6a0711f38fa62355ab548791] In regulation 53, for paragraphs (2) and (3) substitute—
 
 > (2) Where the Commissioners receive an electronic administrative document from an EU Member State, the Commissioners must, using the EU computerised system, send the electronic administrative document to the consignee where the consignee is an authorised warehouse keeper or an NI registered consignee.
 >
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e2831b7c6a0711f38fa62355ab548791]: Textual amendment: Reg. 50A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/31)
+[^c-e2831b7c6a0711f38fa62355ab548791]: Textual amendment: Reg. 50A inserted (13.2.2023) by [The Excise Duties and Value Added Tax (Northern Ireland) (Miscellaneous Modifications and Amendments) Regulations 2023 (S.I. 2023/64)](https://www.legislation.gov.uk/uksi/2023/64), [reg. 1(2)](https://www.legislation.gov.uk/uksi/2023/64/regulation/1/2), [Sch. 2 para. 31](https://www.legislation.gov.uk/uksi/2023/64/schedule/2/paragraph/31)

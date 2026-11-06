@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 130. The Scottish Courts and Tribunals Service[^key-95493128164b3f84e05f88bdda17d74b][^key-726437f6f81fb2fb66b308cf651e240f]
+## 130. The Scottish Courts and Tribunals Service[^c-95493128164b3f84e05f88bdda17d74b][^c-726437f6f81fb2fb66b308cf651e240f]
 
 *Extent: S*
 
@@ -50,6 +50,6 @@ summary: ''
 
 ## Annotations
 
-[^key-95493128164b3f84e05f88bdda17d74b]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2014/18/section/130) in force at 2.2.2015 for specified purposes by [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2)
+[^c-95493128164b3f84e05f88bdda17d74b]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2014/18/section/130) in force at 2.2.2015 for specified purposes by [S.S.I. 2015/12](https://www.legislation.gov.uk/ssi/2015/12), [art. 2](https://www.legislation.gov.uk/ssi/2015/12/article/2)
 
-[^key-726437f6f81fb2fb66b308cf651e240f]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2014/18/section/130) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)
+[^c-726437f6f81fb2fb66b308cf651e240f]: Commencement: [S. 130](https://www.legislation.gov.uk/asp/2014/18/section/130) in force at 1.4.2015 in so far as not already in force by [S.S.I. 2015/77](https://www.legislation.gov.uk/ssi/2015/77), [art. 2(2)](https://www.legislation.gov.uk/ssi/2015/77/article/2/2)[(3)](https://www.legislation.gov.uk/ssi/2015/77/article/2/3), [Sch.](https://www.legislation.gov.uk/ssi/2015/77/schedule)

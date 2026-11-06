@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 55. Amendment of section 7 of the Teaching Council (Scotland) Act 1965.[^key-cf44e833f900bbce0cb5925920f9d9b5]
+## 55. Amendment of section 7 of the Teaching Council (Scotland) Act 1965.[^c-cf44e833f900bbce0cb5925920f9d9b5]
 
 *Extent: S*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-cf44e833f900bbce0cb5925920f9d9b5]: Textual amendment: S. 55 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)
+[^c-cf44e833f900bbce0cb5925920f9d9b5]: Textual amendment: S. 55 repealed (2.4.2012) by [The Public Services Reform (General Teaching Council for Scotland) Order 2011 (S.S.I. 2011/215)](https://www.legislation.gov.uk/ssi/2011/215), [art. 2](https://www.legislation.gov.uk/ssi/2011/215/article/2), [Sch. 7](https://www.legislation.gov.uk/ssi/2011/215/schedule/7)

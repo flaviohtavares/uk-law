@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 7B. Business plans[^key-ec0a89fcc3b0df26ee9325a61a4b4576]
+## 7B. Business plans[^c-ec0a89fcc3b0df26ee9325a61a4b4576]
 
 *Extent: E+W+S+N.I.*
 
@@ -39,4 +39,4 @@ summary: ''
 
 ## Annotations
 
-[^key-ec0a89fcc3b0df26ee9325a61a4b4576]: Textual amendment: S. 7B inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 112](https://www.legislation.gov.uk/ukpga/2014/6/section/112), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)
+[^c-ec0a89fcc3b0df26ee9325a61a4b4576]: Textual amendment: S. 7B inserted (1.4.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [ss. 112](https://www.legislation.gov.uk/ukpga/2014/6/section/112), [139(5)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/5)

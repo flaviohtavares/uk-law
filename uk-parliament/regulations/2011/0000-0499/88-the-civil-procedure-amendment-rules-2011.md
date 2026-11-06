@@ -46,13 +46,13 @@ Coming into force
 
 The Civil Procedure Rule Committee, in exercise of the power conferred by section 2 of the Civil Procedure Act 1997[^f00001] to make rules of court under section 1 of that Act, after consulting in accordance with section 2(6)(a) of that Act, makes the following Rules—
 
-## 1. Citation, commencement and interpretation[^key-c1a1067e22cfc23b5817a135217d6749]
+## 1. Citation, commencement and interpretation[^c-c1a1067e22cfc23b5817a135217d6749]
 
 These Rules may be cited as the Civil Procedure (Amendment) Rules 2011, and come into force on 6th April 2011.
 
-**2.**[^key-14285e76dbbb192c1e66b7d5444124ea] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Civil Procedure Rules 1998[^f00002].
+**2.**[^c-14285e76dbbb192c1e66b7d5444124ea] In these Rules, a reference to a Part or rule by number alone means the Part or rule so numbered in the Civil Procedure Rules 1998[^f00002].
 
-## 3. Amendments to the Civil Procedure Rules 1998[^key-b2342d8ca620b3dde024db4c18c84ddd]
+## 3. Amendments to the Civil Procedure Rules 1998[^c-b2342d8ca620b3dde024db4c18c84ddd]
 
 In Part 5—
 
@@ -70,22 +70,22 @@ In Part 5—
 
   .
 
-**4.**[^key-b14a66f7406fdde87effb709ff0f01e1] In Part 6—
+**4.**[^c-b14a66f7406fdde87effb709ff0f01e1] In Part 6—
 
 - (a) In the table of contents—
-  - (i)[^key-429beb4ff6a182ff53ce48426aba57c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-429beb4ff6a182ff53ce48426aba57c6] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) in the entry for the heading of rule 6.7, substitute “Service on a solicitor or European Lawyer within the United Kingdom or in any other EEA state”;
   - (iii) in the entry for the heading of rule 6.8, after “where” insert “before service”;
-  - (iv)[^key-5169c1dc9f8cf8a12a54036da7aa8a02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iv)[^c-5169c1dc9f8cf8a12a54036da7aa8a02] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (v) in the entry for the heading of rule 6.23, at end insert “to be given after proceedings are started”;
 - (b) in rule 6.2—
   - (i) at the end of sub-paragraph (c), delete “and”;
   - (ii) at the end of sub-paragraph (d), for “.” substitute “; and”; and
-  - (iii)[^key-cd3cea8475a3f7dac563ad7be91e4b5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-8f4c0d289a0c82367ae11527c5af88c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-b1566caf3462f68c968f15ff1a76e4ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-54a7105e4fb02008a03874fc2da8b715] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (f)[^key-5f912ffcba7fe7f2b0e26a1e237dcc87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (iii)[^c-cd3cea8475a3f7dac563ad7be91e4b5f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-8f4c0d289a0c82367ae11527c5af88c8] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-b1566caf3462f68c968f15ff1a76e4ef] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-54a7105e4fb02008a03874fc2da8b715] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (f)[^c-5f912ffcba7fe7f2b0e26a1e237dcc87] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (g) for rule 6.7 substitute—
 
   > **6.7. Service on a solicitor or European Lawyer within the United Kingdom or in any other EEA state**
@@ -121,7 +121,7 @@ In Part 5—
   .
 - (h) in rule 6.8—
   - (i) in the heading, after “where” insert “before service”;
-  - (ii)[^key-09b1783e79e750a75c0ceec327fc9bfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-09b1783e79e750a75c0ceec327fc9bfb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) in sub-paragraph (a), for “within the jurisdiction” substitute “at which the defendant resides or carries on business within the UK or any other EEA state and”;
   - (iv) at end insert—
 
@@ -131,16 +131,16 @@ In Part 5—
 
     ;
 - (i) in rule 6.9—
-  - (i)[^key-61153bc456c9a4a646db7cf0a35a0da7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (i)[^c-61153bc456c9a4a646db7cf0a35a0da7] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (ii) at end insert—
 
     > (For service out of the jurisdiction see rules 6.40 to 6.47.)
 
     ;
 - (j) in rule 6.14, after “A claim form served” insert “within the United Kingdom”;
-- (k)[^key-107e493908c4d95061f9cce7365d22b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (l)[^key-293873c3eaaf87b27d4983b0f6acf712] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (m)[^key-467d40f1cd08f676032625ae07666417] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (k)[^c-107e493908c4d95061f9cce7365d22b1] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (l)[^c-293873c3eaaf87b27d4983b0f6acf712] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (m)[^c-467d40f1cd08f676032625ae07666417] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (n) in rule 6.22—
   - (i) in paragraph (2)(a), after “rule 6.23” delete “(2)(a)”;
   - (ii) at end insert—
@@ -150,7 +150,7 @@ In Part 5—
     ;
 - (o) in rule 6.23—
   - (i) in the heading, at end insert “to be given after proceedings are started”;
-  - (ii)[^key-949d86cb691ef376768131229ef107b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+  - (ii)[^c-949d86cb691ef376768131229ef107b3] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
   - (iii) for paragraph (2), substitute—
 
     > (2) Except where any other rule or practice direction makes different provision, a party’s address for service must be—
@@ -182,7 +182,7 @@ In Part 5—
   - (iii) for the parentheses that follow the rule, substitute—
 
     > (The texts of the Civil Procedure Treaties which the United Kingdom has entered into may be found on the Foreign and Commonwealth Office website at http://www.fco.gov.uk/en/publications-and-documents/treaties/lists-treaties/bilateral-civil-procedure.)
-- (r)[^key-f79b779196a54399b2aae3a9f771913c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (r)[^c-f79b779196a54399b2aae3a9f771913c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (s) in rule 6.42—
   - (i) in paragraph (1)—
     - (aa) for “the claimant” substitute “a party”;
@@ -213,17 +213,17 @@ In Part 5—
     - (bb) after “Convention” insert “or Treaty”;
   - (ii) in paragraph (5), for “The claimant” substitute “A party”.
 
-**5.**[^key-b8c877ca1da88695d447fa5096adfdfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-b8c877ca1da88695d447fa5096adfdfc] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-ff52854c310685921f47b904ddc24383] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-ff52854c310685921f47b904ddc24383] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-1718191589abc9651690d76edc796df6] In rule 10.5, for the first set of parentheses that follow the rule substitute—
+**7.**[^c-1718191589abc9651690d76edc796df6] In rule 10.5, for the first set of parentheses that follow the rule substitute—
 
 > (Rule 6.23 makes provision in relation to addresses for service.)
 
 .
 
-**8.**[^key-a89615fba69b9a34c1c361c23e0076ed] In rule 16.5—
+**8.**[^c-a89615fba69b9a34c1c361c23e0076ed] In rule 16.5—
 
 - (a) in paragraph (8), for “he” substitute “the defendant”; and
 - (b) for the second set of parentheses that follow the rule substitute—
@@ -232,7 +232,7 @@ In Part 5—
 
   .
 
-**9.**[^key-250e428871943b0d6eaf700c92cea65f] In Part 31—
+**9.**[^c-250e428871943b0d6eaf700c92cea65f] In Part 31—
 
 - (a) in rule 31.3(1)—
   - (i) at the end of paragraph (b), omit “or”;
@@ -242,14 +242,14 @@ In Part 5—
     > - (d) rule 78.26 applies.
 
     .
-- (b)[^key-469a467edd77257452030ae78094b64d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (c)[^key-469a467edd77257452030ae78094b64d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (d)[^key-469a467edd77257452030ae78094b64d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-- (e)[^key-469a467edd77257452030ae78094b64d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-469a467edd77257452030ae78094b64d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (c)[^c-469a467edd77257452030ae78094b64d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (d)[^c-469a467edd77257452030ae78094b64d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (e)[^c-469a467edd77257452030ae78094b64d] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**10.**[^key-dc1200af115e442ed49d10c9eb85a5c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-dc1200af115e442ed49d10c9eb85a5c0] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**11.**[^key-a4889b8ec8c9148f036cf0db261b9fa0] In Part 45—
+**11.**[^c-a4889b8ec8c9148f036cf0db261b9fa0] In Part 45—
 
 - (a) in the table of contents, after—
 
@@ -270,7 +270,7 @@ insert—
 
 - (b) after rule 45.43 insert Section VIII (Fixed Costs: HM Revenue and Customs) as set out in Schedule 1 to these Rules.
 
-**12.**[^key-5650a311f9b256f6011fc9418178c882] In Part 78—
+**12.**[^c-5650a311f9b256f6011fc9418178c882] In Part 78—
 
 - (a) in the title to this Part omit “Order for Payment and European Small Claims”;
 - (b) in the table of contents, after—
@@ -297,7 +297,7 @@ insert—
   ; and
 - (d) after Section II, insert Section III as set out in Schedule 2 to these Rules.
 
-## 13. Transitional Provision[^key-0f8184d7de22335f6d00abeb9ee8be85]
+## 13. Transitional Provision[^c-0f8184d7de22335f6d00abeb9ee8be85]
 
 The amendments made by rule 12 of these Rules, which insert a new Section III in Part 78, apply only where the mediation of a cross-border dispute was commenced on or after 6th April 2011.
 
@@ -329,7 +329,7 @@ Ministry of Justice
 
 17th January 2011
 
-## SCHEDULE 1[^key-d113ada9174652b7c13295734a6e02a2]
+## SCHEDULE 1[^c-d113ada9174652b7c13295734a6e02a2]
 
 Rule 11(b)
 
@@ -405,7 +405,7 @@ Rule 11(b)
 >
 > the defendant is not liable for any further costs unless the court orders otherwise.
 
-## SCHEDULE 2[^key-7e234134b10af164b9e6af07d0884d21]
+## SCHEDULE 2[^c-7e234134b10af164b9e6af07d0884d21]
 
 Rule 12(d)
 
@@ -524,64 +524,64 @@ These Rules amend the Civil Procedure Rules 1998 in that they—
 
 [^f00001]: Footnote: [1997 c. 12](https://www.legislation.gov.uk/ukpga/1997/12). Section 2 was amended by the Constitutional Reform Act [2005 (c.4)](https://www.legislation.gov.uk/ukpga/2005/4), section 15(1) and Schedule 4, Part 1, paragraphs 261, 263(1) and (2).
 
-[^key-c1a1067e22cfc23b5817a135217d6749]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
+[^c-c1a1067e22cfc23b5817a135217d6749]: Commencement: [Art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
 
-[^key-14285e76dbbb192c1e66b7d5444124ea]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/88/article/2) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
+[^c-14285e76dbbb192c1e66b7d5444124ea]: Commencement: [Art. 2](https://www.legislation.gov.uk/uksi/2011/88/article/2) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
 
 [^f00002]: Footnote: [S.I. 1998/3132](https://www.legislation.gov.uk/uksi/1998/3132). There are relevant amendments in [S.I. 2000/2092](https://www.legislation.gov.uk/uksi/2000/2092), [2001/1388](https://www.legislation.gov.uk/uksi/2001/1388), [2007/3543](https://www.legislation.gov.uk/uksi/2007/3543) and [2009/2092](https://www.legislation.gov.uk/uksi/2009/2092).
 
-[^key-b2342d8ca620b3dde024db4c18c84ddd]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/88/article/3) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
+[^c-b2342d8ca620b3dde024db4c18c84ddd]: Commencement: [Art. 3](https://www.legislation.gov.uk/uksi/2011/88/article/3) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
 
-[^key-b14a66f7406fdde87effb709ff0f01e1]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/88/article/4) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
+[^c-b14a66f7406fdde87effb709ff0f01e1]: Commencement: [Art. 4](https://www.legislation.gov.uk/uksi/2011/88/article/4) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
 
-[^key-429beb4ff6a182ff53ce48426aba57c6]: Textual amendment: [Rule 4(a)(i)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/a/i) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-429beb4ff6a182ff53ce48426aba57c6]: Textual amendment: [Rule 4(a)(i)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/a/i) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-5169c1dc9f8cf8a12a54036da7aa8a02]: Textual amendment: [Rule 4(a)(iv)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/a/iv) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-5169c1dc9f8cf8a12a54036da7aa8a02]: Textual amendment: [Rule 4(a)(iv)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/a/iv) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-cd3cea8475a3f7dac563ad7be91e4b5f]: Textual amendment: [Rule 4(b)(iii)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/b/iii) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-cd3cea8475a3f7dac563ad7be91e4b5f]: Textual amendment: [Rule 4(b)(iii)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/b/iii) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-8f4c0d289a0c82367ae11527c5af88c8]: Textual amendment: [Rule 4(c)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/c) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-8f4c0d289a0c82367ae11527c5af88c8]: Textual amendment: [Rule 4(c)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/c) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-b1566caf3462f68c968f15ff1a76e4ef]: Textual amendment: [Rule 4(d)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/d) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-b1566caf3462f68c968f15ff1a76e4ef]: Textual amendment: [Rule 4(d)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/d) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-54a7105e4fb02008a03874fc2da8b715]: Textual amendment: [Rule 4(e)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/e) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-54a7105e4fb02008a03874fc2da8b715]: Textual amendment: [Rule 4(e)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/e) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-5f912ffcba7fe7f2b0e26a1e237dcc87]: Textual amendment: [Rule 4(f)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/f) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-5f912ffcba7fe7f2b0e26a1e237dcc87]: Textual amendment: [Rule 4(f)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/f) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-09b1783e79e750a75c0ceec327fc9bfb]: Textual amendment: [Rule 4(h)(ii)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/h/ii) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-09b1783e79e750a75c0ceec327fc9bfb]: Textual amendment: [Rule 4(h)(ii)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/h/ii) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-61153bc456c9a4a646db7cf0a35a0da7]: Textual amendment: [Rule 4(i)(i)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/i) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-61153bc456c9a4a646db7cf0a35a0da7]: Textual amendment: [Rule 4(i)(i)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/i) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-107e493908c4d95061f9cce7365d22b1]: Textual amendment: [Rule 4(k)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/k) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-107e493908c4d95061f9cce7365d22b1]: Textual amendment: [Rule 4(k)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/k) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-293873c3eaaf87b27d4983b0f6acf712]: Textual amendment: [Rule 4(l)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/l) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-293873c3eaaf87b27d4983b0f6acf712]: Textual amendment: [Rule 4(l)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/l) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-467d40f1cd08f676032625ae07666417]: Textual amendment: [Rule 4(m)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/m) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-467d40f1cd08f676032625ae07666417]: Textual amendment: [Rule 4(m)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/m) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-949d86cb691ef376768131229ef107b3]: Textual amendment: [Rule 4(o)(ii)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/o/ii) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-949d86cb691ef376768131229ef107b3]: Textual amendment: [Rule 4(o)(ii)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/o/ii) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-f79b779196a54399b2aae3a9f771913c]: Textual amendment: [Rule 4(r)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/r) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-f79b779196a54399b2aae3a9f771913c]: Textual amendment: [Rule 4(r)](https://www.legislation.gov.uk/uksi/2011/88/rule/4/r) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-b8c877ca1da88695d447fa5096adfdfc]: Textual amendment: [Rule 5](https://www.legislation.gov.uk/uksi/2011/88/rule/5) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-b8c877ca1da88695d447fa5096adfdfc]: Textual amendment: [Rule 5](https://www.legislation.gov.uk/uksi/2011/88/rule/5) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-ff52854c310685921f47b904ddc24383]: Textual amendment: [Rule 6](https://www.legislation.gov.uk/uksi/2011/88/rule/6) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-ff52854c310685921f47b904ddc24383]: Textual amendment: [Rule 6](https://www.legislation.gov.uk/uksi/2011/88/rule/6) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-1718191589abc9651690d76edc796df6]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2011/88/article/7) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
+[^c-1718191589abc9651690d76edc796df6]: Commencement: [Art. 7](https://www.legislation.gov.uk/uksi/2011/88/article/7) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
 
-[^key-a89615fba69b9a34c1c361c23e0076ed]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2011/88/article/8) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
+[^c-a89615fba69b9a34c1c361c23e0076ed]: Commencement: [Art. 8](https://www.legislation.gov.uk/uksi/2011/88/article/8) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
 
-[^key-250e428871943b0d6eaf700c92cea65f]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2011/88/article/9) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
+[^c-250e428871943b0d6eaf700c92cea65f]: Commencement: [Art. 9](https://www.legislation.gov.uk/uksi/2011/88/article/9) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
 
-[^key-469a467edd77257452030ae78094b64d]: Textual amendment: [Rule 9(b)-(e)](https://www.legislation.gov.uk/uksi/2011/88/rule/9/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-469a467edd77257452030ae78094b64d]: Textual amendment: [Rule 9(b)-(e)](https://www.legislation.gov.uk/uksi/2011/88/rule/9/b) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-dc1200af115e442ed49d10c9eb85a5c0]: Textual amendment: [Rule 10](https://www.legislation.gov.uk/uksi/2011/88/rule/10) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
+[^c-dc1200af115e442ed49d10c9eb85a5c0]: Textual amendment: [Rule 10](https://www.legislation.gov.uk/uksi/2011/88/rule/10) revoked (1.1.2024) by [The Retained EU Law (Revocation and Reform) Act 2023 (Revocation and Sunset Disapplication) Regulations 2023 (S.I. 2023/1143)](https://www.legislation.gov.uk/uksi/2023/1143), [reg. 2(3)](https://www.legislation.gov.uk/uksi/2023/1143/regulation/2/3), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2023/1143/schedule/2/part/1)
 
-[^key-a4889b8ec8c9148f036cf0db261b9fa0]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2011/88/article/11) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
+[^c-a4889b8ec8c9148f036cf0db261b9fa0]: Commencement: [Art. 11](https://www.legislation.gov.uk/uksi/2011/88/article/11) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
 
-[^key-5650a311f9b256f6011fc9418178c882]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2011/88/article/12) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
+[^c-5650a311f9b256f6011fc9418178c882]: Commencement: [Art. 12](https://www.legislation.gov.uk/uksi/2011/88/article/12) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
 
-[^key-0f8184d7de22335f6d00abeb9ee8be85]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2011/88/article/13) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
+[^c-0f8184d7de22335f6d00abeb9ee8be85]: Commencement: [Art. 13](https://www.legislation.gov.uk/uksi/2011/88/article/13) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
 
-[^key-d113ada9174652b7c13295734a6e02a2]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/88/schedule/1) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
+[^c-d113ada9174652b7c13295734a6e02a2]: Commencement: [Sch. 1](https://www.legislation.gov.uk/uksi/2011/88/schedule/1) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
 
-[^key-7e234134b10af164b9e6af07d0884d21]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/88/schedule/2) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)
+[^c-7e234134b10af164b9e6af07d0884d21]: Commencement: [Sch. 2](https://www.legislation.gov.uk/uksi/2011/88/schedule/2) in force at 6.4.2011, see [art. 1](https://www.legislation.gov.uk/uksi/2011/88/article/1)

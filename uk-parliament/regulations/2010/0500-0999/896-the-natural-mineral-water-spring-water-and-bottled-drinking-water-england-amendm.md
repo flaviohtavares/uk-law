@@ -34,7 +34,7 @@ This Statutory Instrument has been made in consequence of a defect in [S.I. 2010
 
 Food, England
 
-The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) (No.2) Regulations 2010 (revoked)[^key-91f1f7af4c1c6eb4b9ad8679c65629de]
+The Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) (No.2) Regulations 2010 (revoked)[^c-91f1f7af4c1c6eb4b9ad8679c65629de]
 
 Made
 
@@ -48,26 +48,26 @@ Coming into force
 
 8th April 2010
 
-[^key-91f1f7af4c1c6eb4b9ad8679c65629de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91f1f7af4c1c6eb4b9ad8679c65629de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Title and commencement[^key-91f1f7af4c1c6eb4b9ad8679c65629de]
+## 1. Title and commencement[^c-91f1f7af4c1c6eb4b9ad8679c65629de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2010[^key-91f1f7af4c1c6eb4b9ad8679c65629de]
+## 2. Amendment of the Natural Mineral Water, Spring Water and Bottled Drinking Water (England) (Amendment) Regulations 2010[^c-91f1f7af4c1c6eb4b9ad8679c65629de]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-91f1f7af4c1c6eb4b9ad8679c65629de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-91f1f7af4c1c6eb4b9ad8679c65629de] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-91f1f7af4c1c6eb4b9ad8679c65629de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91f1f7af4c1c6eb4b9ad8679c65629de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **May not be in force at this date. Check the source.**
 
-[^key-91f1f7af4c1c6eb4b9ad8679c65629de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-91f1f7af4c1c6eb4b9ad8679c65629de]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-91f1f7af4c1c6eb4b9ad8679c65629de]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/896) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)
+[^c-91f1f7af4c1c6eb4b9ad8679c65629de]: Textual amendment: [Regulations](https://www.legislation.gov.uk/uksi/2010/896) revoked (1.1.2024) by [Retained EU Law (Revocation and Reform) Act 2023 (c. 28)](https://www.legislation.gov.uk/ukpga/2023/28), [ss. 1(1)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/1), [22(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/22/3), [Sch. 1 Pt. 1](https://www.legislation.gov.uk/ukpga/2023/28/schedule/1/part/1) (with [s. 1(3)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/3)[(4)](https://www.legislation.gov.uk/ukpga/2023/28/section/1/4)); [S.I. 2023/1363](https://www.legislation.gov.uk/uksi/2023/1363), [reg. 2](https://www.legislation.gov.uk/uksi/2023/1363/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 89. Entry by duty holders for purposes of assessing and managing fire safety risks[^key-09c6551e950f6780633a0a3530826a6a]
+## 89. Entry by duty holders for purposes of assessing and managing fire safety risks[^c-09c6551e950f6780633a0a3530826a6a]
 
 *Extent: E+W*
 
@@ -58,4 +58,4 @@ summary: ''
 
 ## Annotations
 
-[^key-09c6551e950f6780633a0a3530826a6a]: Commencement: S. 89 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)
+[^c-09c6551e950f6780633a0a3530826a6a]: Commencement: S. 89 not in force at Royal Assent, see [s. 138(2)](https://www.legislation.gov.uk/asc/2026/5/section/138/2)

@@ -43,11 +43,11 @@ summary: ''
 | *Extent: E+W+S+N.I.*<br>**10.**[^M_I_5ccfa8b4-aca6-4c2d-dacd-7df23c53836f] Electrical connections: | No individual requirement |
 | *Extent: E+W+S+N.I.*<br>**11.**[^M_I_c91f8286-aebd-49de-e37c-bfad3e4f702d] Tell-tale: | No requirement |
 
-**12.**[^key-32d980f889948fd71b1e8fc85854d4f1] Other requirements–
+**12.**[^c-32d980f889948fd71b1e8fc85854d4f1] Other requirements–
 
 - Every front fog lamp shall be so constructed that the direction of the beam of light emitted therefrom can be adjusted whilst the vehicle is stationary.
 
-**13.**[^key-6fcecbc840e362292e2366b8dcafff99] Definitions–
+**13.**[^c-6fcecbc840e362292e2366b8dcafff99] Definitions–
 
 - In this Schedule “appproval mark” means either–
   - (a) a marking designated as an approval mark by regulation 5 of the Designation of Approval Marks Regulations and shown at item 19 of Schedule 4 to those Regulations; or
@@ -77,6 +77,6 @@ summary: ''
 
 [^M_I_c91f8286-aebd-49de-e37c-bfad3e4f702d]: Commencement: [Sch. 6 para. 11](https://www.legislation.gov.uk/uksi/1989/1796/schedule/5/paragraph/10) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-32d980f889948fd71b1e8fc85854d4f1]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/uksi/1989/1796/schedule/6/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-32d980f889948fd71b1e8fc85854d4f1]: Commencement: [Sch. 6 para. 12](https://www.legislation.gov.uk/uksi/1989/1796/schedule/6/paragraph/12) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
 
-[^key-6fcecbc840e362292e2366b8dcafff99]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/6/paragraph/13) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)
+[^c-6fcecbc840e362292e2366b8dcafff99]: Commencement: [Sch. 6 para. 13](https://www.legislation.gov.uk/uksi/1989/1796/schedule/6/paragraph/13) in force at 1.11.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1989/1796/regulation/1/1)

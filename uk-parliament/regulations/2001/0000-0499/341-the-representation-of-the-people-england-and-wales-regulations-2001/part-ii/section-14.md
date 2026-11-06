@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14. Qualification for Crown servant[^key-a1a9486f95cc8aea02dc20ed056e97c0]
+## 14. Qualification for Crown servant[^c-a1a9486f95cc8aea02dc20ed056e97c0]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A person (not being a member of the forces within the meaning of section 59(1) o
 
 ## Annotations
 
-[^key-a1a9486f95cc8aea02dc20ed056e97c0]: Commencement: Reg. 14 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)
+[^c-a1a9486f95cc8aea02dc20ed056e97c0]: Commencement: Reg. 14 in force at 16.2.2001, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/2001/341/regulation/1/1)

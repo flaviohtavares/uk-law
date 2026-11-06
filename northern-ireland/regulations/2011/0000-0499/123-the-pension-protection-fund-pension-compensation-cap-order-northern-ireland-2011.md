@@ -32,7 +32,7 @@ summary: ''
 
 Pensions
 
-The Pension Protection Fund (Pension Compensation Cap) Order (Northern Ireland) 2011 (revoked)[^key-b98c554334f926fffd04c8dba6bb9a55]
+The Pension Protection Fund (Pension Compensation Cap) Order (Northern Ireland) 2011 (revoked)[^c-b98c554334f926fffd04c8dba6bb9a55]
 
 Made
 
@@ -42,26 +42,26 @@ Coming into operation
 
 1st April 2011
 
-[^key-b98c554334f926fffd04c8dba6bb9a55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b98c554334f926fffd04c8dba6bb9a55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-b98c554334f926fffd04c8dba6bb9a55]
+## 1. Citation and commencement[^c-b98c554334f926fffd04c8dba6bb9a55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. The compensation cap[^key-b98c554334f926fffd04c8dba6bb9a55]
+## 2. The compensation cap[^c-b98c554334f926fffd04c8dba6bb9a55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Revocation[^key-b98c554334f926fffd04c8dba6bb9a55]
+## 3. Revocation[^c-b98c554334f926fffd04c8dba6bb9a55]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b98c554334f926fffd04c8dba6bb9a55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b98c554334f926fffd04c8dba6bb9a55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-b98c554334f926fffd04c8dba6bb9a55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-b98c554334f926fffd04c8dba6bb9a55]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-b98c554334f926fffd04c8dba6bb9a55]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2011/123) revoked (1.4.2012) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/99)](https://www.legislation.gov.uk/nisr/2012/99), [art. 4(b)](https://www.legislation.gov.uk/nisr/2012/99/article/4/b)
+[^c-b98c554334f926fffd04c8dba6bb9a55]: Textual amendment: [Order](https://www.legislation.gov.uk/nisr/2011/123) revoked (1.4.2012) by [The Pension Protection Fund and Occupational Pension Schemes (Levy Ceiling and Compensation Cap) Order (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/99)](https://www.legislation.gov.uk/nisr/2012/99), [art. 4(b)](https://www.legislation.gov.uk/nisr/2012/99/article/4/b)

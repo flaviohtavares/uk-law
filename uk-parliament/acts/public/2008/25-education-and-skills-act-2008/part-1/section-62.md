@@ -20,14 +20,14 @@ summary: ''
 
 *Extent: E+W*
 
-(1)[^key-f7e18fc900ba049f0f0d4d515a228cea] For the purposes of section 5—
+(1)[^c-f7e18fc900ba049f0f0d4d515a228cea] For the purposes of section 5—
 
 - (a) Crown employment, and
 - (b) service as a member of the armed forces of the Crown,
 
 are each to be treated as working under a contract of employment.
 
-(2)[^key-f7e18fc900ba049f0f0d4d515a228cea] Regulations may provide for Chapter 1 to have effect subject to modifications in relation to persons working in either of those ways.
+(2)[^c-f7e18fc900ba049f0f0d4d515a228cea] Regulations may provide for Chapter 1 to have effect subject to modifications in relation to persons working in either of those ways.
 
 (3) Chapter 3 applies in relation to Crown employment and persons in Crown employment as it applies in relation to other employment and other employees, but subject to subsection (4).
 
@@ -36,13 +36,13 @@ are each to be treated as working under a contract of employment.
 - (a) references to a contract of employment are to be construed, in relation to a person in Crown employment, as references to the terms and conditions under which the person works, and
 - (b) references to an employee are to be construed as references to a person in Crown employment.
 
-(5)[^key-f7e18fc900ba049f0f0d4d515a228cea] In this section, “**Crown employment**” means employment under or for the purposes of a government department or any officer or body exercising on behalf of the Crown functions conferred by statutory provision, but subject to subsection (6).
+(5)[^c-f7e18fc900ba049f0f0d4d515a228cea] In this section, “**Crown employment**” means employment under or for the purposes of a government department or any officer or body exercising on behalf of the Crown functions conferred by statutory provision, but subject to subsection (6).
 
-(6)[^key-f7e18fc900ba049f0f0d4d515a228cea] Crown employment—
+(6)[^c-f7e18fc900ba049f0f0d4d515a228cea] Crown employment—
 
 - (a) does not include service as a member of the armed forces of the Crown, but
 - (b) does include employment by an association established for the purposes of Part 11 of the Reserve Forces Act 1996 (c. 14).
 
 ## Annotations
 
-[^key-f7e18fc900ba049f0f0d4d515a228cea]: Commencement: S. 62(1)(2)(5)(6) in force at 28.6.2013 by [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(r)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/r)
+[^c-f7e18fc900ba049f0f0d4d515a228cea]: Commencement: S. 62(1)(2)(5)(6) in force at 28.6.2013 by [S.I. 2013/1204](https://www.legislation.gov.uk/uksi/2013/1204), [art. 2(r)](https://www.legislation.gov.uk/uksi/2013/1204/article/2/r)

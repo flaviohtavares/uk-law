@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 129. Failure to exercise functions[^key-d9e00b32bd04664dfbcb95c19f36e52f][^key-dc8dc0683f3b223c51a5184ca039e969]
+## 129. Failure to exercise functions[^c-d9e00b32bd04664dfbcb95c19f36e52f][^c-dc8dc0683f3b223c51a5184ca039e969]
 
 *Extent: E+W*
 
@@ -43,6 +43,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d9e00b32bd04664dfbcb95c19f36e52f]: Commencement: S. 129 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
+[^c-d9e00b32bd04664dfbcb95c19f36e52f]: Commencement: S. 129 not in force at Royal Assent, see [s. 186(6)](https://www.legislation.gov.uk/ukpga/2022/31/section/186/6)
 
-[^key-dc8dc0683f3b223c51a5184ca039e969]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2022/31/section/129) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)
+[^c-dc8dc0683f3b223c51a5184ca039e969]: Commencement: [S. 129](https://www.legislation.gov.uk/ukpga/2022/31/section/129) in force at 1.10.2023 by [S.I. 2023/1035](https://www.legislation.gov.uk/uksi/2023/1035), [reg. 2(a)](https://www.legislation.gov.uk/uksi/2023/1035/regulation/2/a)

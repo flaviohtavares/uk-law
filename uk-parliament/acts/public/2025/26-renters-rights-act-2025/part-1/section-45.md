@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 45. Amendment of short title of [Renting Homes (Fees etc.) (Wales) Act 2019](https://www.legislation.gov.uk/anaw/2019/2)[^key-4dfdbd7f64e56d9e8e8b3a3579b8bc6f][^key-b1e1725c68320f20a1d09b6dddcc9d01]
+## 45. Amendment of short title of [Renting Homes (Fees etc.) (Wales) Act 2019](https://www.legislation.gov.uk/anaw/2019/2)[^c-4dfdbd7f64e56d9e8e8b3a3579b8bc6f][^c-b1e1725c68320f20a1d09b6dddcc9d01]
 
 *Extent: E+W*
 
@@ -55,6 +55,6 @@ summary: ''
 
 ## Annotations
 
-[^key-4dfdbd7f64e56d9e8e8b3a3579b8bc6f]: Commencement: S. 45 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
+[^c-4dfdbd7f64e56d9e8e8b3a3579b8bc6f]: Commencement: S. 45 not in force at Royal Assent, see [s. 145(1)(7)](https://www.legislation.gov.uk/ukpga/2025/26/section/145/1/7)
 
-[^key-b1e1725c68320f20a1d09b6dddcc9d01]: Commencement: S. 45 in force at 1.6.2026 by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)
+[^c-b1e1725c68320f20a1d09b6dddcc9d01]: Commencement: S. 45 in force at 1.6.2026 by [W.S.I. 2026/6](https://www.legislation.gov.uk/wsi/2026/6), [art. 2(c)](https://www.legislation.gov.uk/wsi/2026/6/article/2/c)

@@ -95,9 +95,9 @@ Section 5.
 
 **7.** In section 13(2) of the Sea Fisheries Act 1968 (power to award compensation), for “£400” there shall be substituted the words “ level 5 on the standard scale ”.
 
-### ...[^key-1fb6dc907376ecf842a118db0fc4f997]
+### ...[^c-1fb6dc907376ecf842a118db0fc4f997]
 
-**8.**[^key-1fb6dc907376ecf842a118db0fc4f997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-1fb6dc907376ecf842a118db0fc4f997] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Fair Trading Act 1973 (c. 41)
 
@@ -110,7 +110,7 @@ Section 5.
 
 *Extent: S*
 
-**10.**[^key-b140ad8c20c2fafe9c5a39dbc832d316] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-b140ad8c20c2fafe9c5a39dbc832d316] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Freshwater and Salmon Fisheries (Scotland) Act 1976 (c. 22)
 
@@ -158,7 +158,7 @@ Section 5.
 
 **18.** (1) The Customs and Excise Management Act 1979 shall be amended as follows.
 
-(2)[^key-e8e2f8957c124321395a0f1fce2c2c7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-e8e2f8957c124321395a0f1fce2c2c7c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (3) of section 118C (search warrant) for the words “section 462 of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 307 of the Criminal Procedure (Scotland) Act 1995 ”.
 
@@ -346,7 +346,7 @@ Section 5.
 
 **44.** (1) The Civic Government (Scotland) Act 1982 shall be amended as follows.
 
-(2)[^key-334da921353ef66c681e3c38d825b1e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-334da921353ef66c681e3c38d825b1e2] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (3) In subsection (3) of section 52, for the words “section 289B of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 225(8) of the Criminal Procedure (Scotland) Act 1995 ”.
 
@@ -575,7 +575,7 @@ Section 5.
 
 (4) In subsection (2) of section 31 (taking account of endorsation) for the words “section 357(1) of the Criminal Procedure (Scotland) Act 1975” there shall be substituted the words “ section 166(1) to (6) of the Criminal Procedure (Scotland) Act 1995 ”.
 
-(5)[^key-eda9f27a5e08af955990b21cc34f43aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-eda9f27a5e08af955990b21cc34f43aa] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (6) After section 33 of the Road Traffic Offenders Act 1988 (fine and imprisonment), there shall be inserted the following section—
 
@@ -937,15 +937,15 @@ Section 5.
 
 **97.** (1) The Children (Scotland) Act 1995 shall be amended as follows.
 
-(2)[^key-25baf5ce076dbeef700960882cf67a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(2)[^c-25baf5ce076dbeef700960882cf67a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(3)[^key-25baf5ce076dbeef700960882cf67a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(3)[^c-25baf5ce076dbeef700960882cf67a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(4)[^key-25baf5ce076dbeef700960882cf67a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(4)[^c-25baf5ce076dbeef700960882cf67a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(5)[^key-25baf5ce076dbeef700960882cf67a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(5)[^c-25baf5ce076dbeef700960882cf67a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-(6)[^key-25baf5ce076dbeef700960882cf67a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+(6)[^c-25baf5ce076dbeef700960882cf67a75] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 (7) In section 78 (powers of arrest)—
 
@@ -973,15 +973,15 @@ are in substitution for amendments made to those enactments by section 56 of and
 
 [^c8316281]: Textual amendment: Sch. 4 para. 6(4)(a)(d) repealed (1.8.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 62(1)(2)](https://www.legislation.gov.uk/ukpga/1997/48/section/62/1/2), [Sch. 1 para. 19(3)(a)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/19/3/a), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/48/schedule/3); [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712), [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule)
 
-[^key-1fb6dc907376ecf842a118db0fc4f997]: Textual amendment: [Sch. 4 para. 8 and cross-heading](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/crossheading/european-communities-act-1972-c-68) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
+[^c-1fb6dc907376ecf842a118db0fc4f997]: Textual amendment: [Sch. 4 para. 8 and cross-heading](https://www.legislation.gov.uk/ukpga/1995/40/schedule/4/crossheading/european-communities-act-1972-c-68) repealed (31.12.2020) by [The European Union Withdrawal (Consequential Modifications) (EU Exit) Regulations 2020 (S.I. 2020/1447)](https://www.legislation.gov.uk/uksi/2020/1447), [reg. 1(3)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/1/3), [Sch.](https://www.legislation.gov.uk/uksi/2020/1447/schedule) (with [reg. 9(2)](https://www.legislation.gov.uk/uksi/2020/1447/regulation/9/2))
 
-[^key-b140ad8c20c2fafe9c5a39dbc832d316]: Textual amendment: Sch. 4 para. 10 repealed (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/6); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
+[^c-b140ad8c20c2fafe9c5a39dbc832d316]: Textual amendment: Sch. 4 para. 10 repealed (15.6.2017) by [Inquiries into Fatal Accidents and Sudden Deaths etc. (Scotland) Act 2016 (asp 2)](https://www.legislation.gov.uk/asp/2016/2), [s. 42(2)](https://www.legislation.gov.uk/asp/2016/2/section/42/2), [sch. 2 para. 6](https://www.legislation.gov.uk/asp/2016/2/schedule/2/paragraph/6); [S.S.I. 2017/155](https://www.legislation.gov.uk/ssi/2017/155), [reg. 2](https://www.legislation.gov.uk/ssi/2017/155/regulation/2) (with [regs. 4(2)](https://www.legislation.gov.uk/ssi/2017/155/regulation/4/2), [5](https://www.legislation.gov.uk/ssi/2017/155/regulation/5))
 
 [^c20986651]: Textual amendment: Sch. 4 para. 11 repealed (S.) (1.4.2005) by [Salmon and Freshwater Fisheries (Consolidation) (Scotland) Act 2003 (asp 15)](https://www.legislation.gov.uk/asp/2003/15), [ss. 70](https://www.legislation.gov.uk/asp/2003/15/section/70), [71(2)](https://www.legislation.gov.uk/asp/2003/15/section/71/2) (with [s. 71(3)(4)(6)](https://www.legislation.gov.uk/asp/2003/15/section/71/3/4/6)); [S.S.I. 2005/174](https://www.legislation.gov.uk/ssi/2005/174), [art. 2](https://www.legislation.gov.uk/ssi/2005/174/article/2)
 
 [^c8316301]: Textual amendment: Sch. 4 para. 16 repealed (1.8.1997) by [1997 c. 48](https://www.legislation.gov.uk/ukpga/1997/48), [s. 62(1)(2)](https://www.legislation.gov.uk/ukpga/1997/48/section/62/1/2), [Sch. 1 para. 19(3)(b)](https://www.legislation.gov.uk/ukpga/1997/48/schedule/1/paragraph/19/3/b), [Sch. 3](https://www.legislation.gov.uk/ukpga/1997/48/schedule/3); [S.I. 1997/1712](https://www.legislation.gov.uk/uksi/1997/1712), [art. 3](https://www.legislation.gov.uk/uksi/1997/1712/article/3), [Sch.](https://www.legislation.gov.uk/uksi/1997/1712/schedule)
 
-[^key-e8e2f8957c124321395a0f1fce2c2c7c]: Textual amendment: Sch. 4 para. 18(2) omitted (1.4.2011) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 2(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/2/b); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)
+[^c-e8e2f8957c124321395a0f1fce2c2c7c]: Textual amendment: Sch. 4 para. 18(2) omitted (1.4.2011) by virtue of [Finance (No. 3) Act 2010 (c. 33)](https://www.legislation.gov.uk/ukpga/2010/33), [s. 29(2)](https://www.legislation.gov.uk/ukpga/2010/33/section/29/2), [Sch. 13 para. 2(b)](https://www.legislation.gov.uk/ukpga/2010/33/schedule/13/paragraph/2/b); [S.I. 2011/777](https://www.legislation.gov.uk/uksi/2011/777), [art. 2](https://www.legislation.gov.uk/uksi/2011/777/article/2)
 
 [^c20988061]: Textual amendment: Sch. 4 para. 29 repealed (S.) (1.9.2009 at 5.00 a.m.) by [Licensing (Scotland) Act 2005 (asp 16)](https://www.legislation.gov.uk/asp/2005/16), [ss. 89(2)](https://www.legislation.gov.uk/asp/2005/16/section/89/2), [90](https://www.legislation.gov.uk/asp/2005/16/section/90), [Sch. 4](https://www.legislation.gov.uk/asp/2005/16/schedule/4) (with [s. 77](https://www.legislation.gov.uk/asp/2005/16/section/77)); [S.S.I. 2007/472](https://www.legislation.gov.uk/ssi/2007/472), [art. 3](https://www.legislation.gov.uk/ssi/2007/472/article/3); and Sch. 4 para. 29 repealed (E.W.) (prosp.) by [Violent Crime Reduction Act 2006 (c. 38)](https://www.legislation.gov.uk/ukpga/2006/38), [ss. 65](https://www.legislation.gov.uk/ukpga/2006/38/section/65), [66(4)](https://www.legislation.gov.uk/ukpga/2006/38/section/66/4), [Sch. 5](https://www.legislation.gov.uk/ukpga/2006/38/schedule/5)
 
@@ -989,7 +989,7 @@ are in substitution for amendments made to those enactments by section 56 of and
 
 [^c8316311]: Textual amendment: Sch. 4 para. 40 repealed (15.2.1999) by [1998 c. 17](https://www.legislation.gov.uk/ukpga/1998/17), [s. 51](https://www.legislation.gov.uk/ukpga/1998/17/section/51), [Sch. 5 Pt. I](https://www.legislation.gov.uk/ukpga/1998/17/schedule/5/part/I) (with [Sch. 3 para. 5(1)](https://www.legislation.gov.uk/ukpga/1998/17/schedule/3/paragraph/5/1)); S.I 1999/161, art. 2(1)
 
-[^key-334da921353ef66c681e3c38d825b1e2]: Textual amendment: Sch. 4 para. 44(2) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 24](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/24); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
+[^c-334da921353ef66c681e3c38d825b1e2]: Textual amendment: Sch. 4 para. 44(2) repealed (28.3.2011) by [Criminal Justice and Licensing (Scotland) Act 2010 (asp 13)](https://www.legislation.gov.uk/asp/2010/13), [s. 206(1)](https://www.legislation.gov.uk/asp/2010/13/section/206/1), [Sch. 7 para. 24](https://www.legislation.gov.uk/asp/2010/13/schedule/7/paragraph/24); [S.S.I. 2011/178](https://www.legislation.gov.uk/ssi/2011/178), [art. 2](https://www.legislation.gov.uk/ssi/2011/178/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2011/178/schedule)
 
 [^c20987271]: Textual amendment: Sch. 4 para. 46 repealed (22.7.2004) by [Statute Law (Repeals) Act 2004 (c. 14)](https://www.legislation.gov.uk/ukpga/2004/14), [s. 1(1)](https://www.legislation.gov.uk/ukpga/2004/14/section/1/1), {Sch. 1 Pt. 16 Group 2}
 
@@ -1009,7 +1009,7 @@ are in substitution for amendments made to those enactments by section 56 of and
 
 [^c20986201]: Textual amendment: Sch. 4 para. 69 repealed (24.3.2003) by [2002 c. 29](https://www.legislation.gov.uk/ukpga/2002/29), [ss. 457](https://www.legislation.gov.uk/ukpga/2002/29/section/457), [458(1)(3)](https://www.legislation.gov.uk/ukpga/2002/29/section/458/1/3), [Sch. 12](https://www.legislation.gov.uk/ukpga/2002/29/schedule/12); [S.I. 2003/333](https://www.legislation.gov.uk/uksi/2003/333), [art. 2(1)](https://www.legislation.gov.uk/uksi/2003/333/article/2/1) (subject to transitional provisions and savings in arts. 3-14 and as amended by [S.I. 2003/531](https://www.legislation.gov.uk/uksi/2003/531))
 
-[^key-eda9f27a5e08af955990b21cc34f43aa]: Textual amendment: Sch. 4 para. 71(5) repealed (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/583/schedule/1) Table 1
+[^c-eda9f27a5e08af955990b21cc34f43aa]: Textual amendment: Sch. 4 para. 71(5) repealed (8.6.2015) by [The Road Safety Act 2006 (Consequential Amendments) Order 2015 (S.I. 2015/583)](https://www.legislation.gov.uk/uksi/2015/583), [art. 1(1)](https://www.legislation.gov.uk/uksi/2015/583/article/1/1), [Sch. 1](https://www.legislation.gov.uk/uksi/2015/583/schedule/1) Table 1
 
 [^c8316351]: Textual amendment: Sch. 4 para. 72 repealed (19.2.2001) by [2000 c. 11](https://www.legislation.gov.uk/ukpga/2000/11), [s. 125](https://www.legislation.gov.uk/ukpga/2000/11/section/125), [Sch. 16 Pt. I](https://www.legislation.gov.uk/ukpga/2000/11/schedule/16/part/I); [S.I. 2001/421](https://www.legislation.gov.uk/uksi/2001/421), [art. 2](https://www.legislation.gov.uk/uksi/2001/421/article/2)
 
@@ -1031,7 +1031,7 @@ are in substitution for amendments made to those enactments by section 56 of and
 
 [^c20991611]: Textual amendment: Sch. 4 para. 96 repealed (1.8.2010) by [Public Services Reform (Scotland) Act 2010 (asp 8)](https://www.legislation.gov.uk/asp/2010/8), [ss. 29](https://www.legislation.gov.uk/asp/2010/8/section/29), [134](https://www.legislation.gov.uk/asp/2010/8/section/134), [Sch. 7 para. 2](https://www.legislation.gov.uk/asp/2010/8/schedule/7/paragraph/2): [S.S.I. 2010/221](https://www.legislation.gov.uk/ssi/2010/221), [art. 3](https://www.legislation.gov.uk/ssi/2010/221/article/3), [Sch.](https://www.legislation.gov.uk/ssi/2010/221/schedule)
 
-[^key-25baf5ce076dbeef700960882cf67a75]: Textual amendment: Sch. 4 para. 97(2)-(6) repealed (24.6.2013) by [The Childrenâ€™s Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)
+[^c-25baf5ce076dbeef700960882cf67a75]: Textual amendment: Sch. 4 para. 97(2)-(6) repealed (24.6.2013) by [The Childrenâ€™s Hearings (Scotland) Act 2011 (Modification of Primary Legislation) Order 2013 (S.S.I. 2013/211)](https://www.legislation.gov.uk/ssi/2013/211), [art. 1](https://www.legislation.gov.uk/ssi/2013/211/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2013/211/schedule/2)
 
 [^c20987291]: Textual amendment: Sch. 4 para. 98 repealed (6.4.2006) by [Pensions Act 2004 (c. 35)](https://www.legislation.gov.uk/ukpga/2004/35), [ss. 320](https://www.legislation.gov.uk/ukpga/2004/35/section/320), [322](https://www.legislation.gov.uk/ukpga/2004/35/section/322), [Sch. 13](https://www.legislation.gov.uk/ukpga/2004/35/schedule/13); [S.I. 2006/560](https://www.legislation.gov.uk/uksi/2006/560), [art. 2](https://www.legislation.gov.uk/uksi/2006/560/article/2), [Sch. Pt. 3](https://www.legislation.gov.uk/uksi/2006/560/schedule/part/3)
 

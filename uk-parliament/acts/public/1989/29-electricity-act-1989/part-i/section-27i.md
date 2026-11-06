@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 27I. Other procedural requirements in relation to consumer redress orders[^key-31495bd4070a0cbdaa07485ef1b81c6f][^key-af90c63aa7dc4d45e1cf69e5fface59f]
+## 27I. Other procedural requirements in relation to consumer redress orders[^c-31495bd4070a0cbdaa07485ef1b81c6f][^c-af90c63aa7dc4d45e1cf69e5fface59f]
 
 *Extent: E+W+S*
 
@@ -60,6 +60,6 @@ and the Authority must consider any representations or objections which are duly
 
 ## Annotations
 
-[^key-31495bd4070a0cbdaa07485ef1b81c6f]: Modification: Ss. 25-28 applied (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [74(6)](https://www.legislation.gov.uk/uksi/2015/1947/article/74/6)
+[^c-31495bd4070a0cbdaa07485ef1b81c6f]: Modification: Ss. 25-28 applied (1.12.2015) by [The Renewables Obligation Order 2015 (S.I. 2015/1947)](https://www.legislation.gov.uk/uksi/2015/1947), [arts. 1(2)](https://www.legislation.gov.uk/uksi/2015/1947/article/1/2), [74(6)](https://www.legislation.gov.uk/uksi/2015/1947/article/74/6)
 
-[^key-af90c63aa7dc4d45e1cf69e5fface59f]: Textual amendment: Ss. 27G-27O inserted (E.W.S.) (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(2)(h)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2/h), [Sch. 14 para. 2(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/14/paragraph/2/2) (with [Sch. 14 para. 2(7)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/14/paragraph/2/7))
+[^c-af90c63aa7dc4d45e1cf69e5fface59f]: Textual amendment: Ss. 27G-27O inserted (E.W.S.) (18.2.2014) by [Energy Act 2013 (c. 32)](https://www.legislation.gov.uk/ukpga/2013/32), [s. 156(2)(h)](https://www.legislation.gov.uk/ukpga/2013/32/section/156/2/h), [Sch. 14 para. 2(2)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/14/paragraph/2/2) (with [Sch. 14 para. 2(7)](https://www.legislation.gov.uk/ukpga/2013/32/schedule/14/paragraph/2/7))

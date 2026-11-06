@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 139C. Assessments under section 139A: persons educated at home[^key-69ff3bd411523fe50b569181b179178b]
+## 139C. Assessments under section 139A: persons educated at home[^c-69ff3bd411523fe50b569181b179178b]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-69ff3bd411523fe50b569181b179178b]: Textual amendment: [S. 139C](https://www.legislation.gov.uk/ukpga/2000/21/section/139C) repealed (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 74](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/74); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505))
+[^c-69ff3bd411523fe50b569181b179178b]: Textual amendment: [S. 139C](https://www.legislation.gov.uk/ukpga/2000/21/section/139C) repealed (1.9.2014) by [Children and Families Act 2014 (c. 6)](https://www.legislation.gov.uk/ukpga/2014/6), [s. 139(6)](https://www.legislation.gov.uk/ukpga/2014/6/section/139/6), [Sch. 3 para. 74](https://www.legislation.gov.uk/ukpga/2014/6/schedule/3/paragraph/74); [S.I. 2014/889](https://www.legislation.gov.uk/uksi/2014/889), [art. 7(a)](https://www.legislation.gov.uk/uksi/2014/889/article/7/a) (with savings and transitional provisions in [S.I. 2014/2270](https://www.legislation.gov.uk/uksi/2014/2270) (as amended (1.4.2015) by [S.I. 2015/505](https://www.legislation.gov.uk/uksi/2015/505))

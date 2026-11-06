@@ -111,7 +111,7 @@ In this Act—
 
 - “**articles**” includes substances;
 - “**articles required for the public service**” means—
-  - (a) articles required for the purpose of the discharge of its functions by any government department, the United Kingdom Atomic Energy Authority, the Civil Aviation Authority, United Kingdom Research and Innovation[^key-0c42bf1de4409f6a0062d9daecb2cb59], or any Research Council within the meaning of the [^c7180451]Science and Technology Act 1965;
+  - (a) articles required for the purpose of the discharge of its functions by any government department, the United Kingdom Atomic Energy Authority, the Civil Aviation Authority, United Kingdom Research and Innovation[^c-0c42bf1de4409f6a0062d9daecb2cb59], or any Research Council within the meaning of the [^c7180451]Science and Technology Act 1965;
   - (b) articles required for the defence of any part of the Commonwealth, including any territory under Her Majesty’s protection or in which She has jurisdiction, or for the maintenance or restoration of peace and security in any part of the world or for any measures arising out of a breach or apprehended breach of peace in any part of the world;
   - (c) articles required by any international organisation of which the United Kingdom is a member or (where the relevant international agreement so provides) by any other member of such an organisation;
   - (d) articles which in the opinion of the Secretary of State would be essential for the needs of the community in the event of war;
@@ -192,7 +192,7 @@ SCHEDULE 2 [image: see source](https://www.legislation.gov.uk/ukpga/1975/9/image
 
 [^c7180441]: Textual amendment: Words substituted by virtue of (E.W.) [Criminal Justice Act 1982 (c. 48, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1982/48), [ss. 38](https://www.legislation.gov.uk/ukpga/1982/48/section/38), [46](https://www.legislation.gov.uk/ukpga/1982/48/section/46) and (S.) [Criminal Procedure (Scotland) Act 1975 (c. 21, SIF 39:1)](https://www.legislation.gov.uk/ukpga/1975/21), [ss. 289F](https://www.legislation.gov.uk/ukpga/1975/21/section/289F), [289G](https://www.legislation.gov.uk/ukpga/1975/21/section/289G) and (N.I.) by 1984/703 (N.I. 3), arts. 5, 6
 
-[^key-0c42bf1de4409f6a0062d9daecb2cb59]: Textual amendment: Words in s. 7 inserted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/10); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
+[^c-0c42bf1de4409f6a0062d9daecb2cb59]: Textual amendment: Words in s. 7 inserted (1.4.2018) by [Higher Education and Research Act 2017 (c. 29)](https://www.legislation.gov.uk/ukpga/2017/29), [s. 124(5)](https://www.legislation.gov.uk/ukpga/2017/29/section/124/5), [Sch. 12 para. 10](https://www.legislation.gov.uk/ukpga/2017/29/schedule/12/paragraph/10); [S.I. 2018/241](https://www.legislation.gov.uk/uksi/2018/241), [reg. 2(t)](https://www.legislation.gov.uk/uksi/2018/241/regulation/2/t)
 
 [^c7180451]: Marginal citation: [1965 c. 4](https://www.legislation.gov.uk/ukpga/1965/4).
 

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 40. Minor and consequential amendments to secondary legislation[^key-a5240e1cc96472f8037a8ccc0f255f9d]
+## 40. Minor and consequential amendments to secondary legislation[^c-a5240e1cc96472f8037a8ccc0f255f9d]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ The provisions listed in Schedule 6 are amended in relation to Wales as set out 
 
 ## Annotations
 
-[^key-a5240e1cc96472f8037a8ccc0f255f9d]: Commencement: Reg. 40 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)
+[^c-a5240e1cc96472f8037a8ccc0f255f9d]: Commencement: Reg. 40 in force at 20.10.2023, see [reg. 1(2)](https://www.legislation.gov.uk/wsi/2023/1053/regulation/1/2)

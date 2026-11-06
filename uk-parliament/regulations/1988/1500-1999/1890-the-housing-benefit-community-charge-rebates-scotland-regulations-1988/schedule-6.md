@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 68(3)
 
-**1.**[^key-85150fe4261449e6476ffad9edaa4560] A Review Board appointed by an authority listed in column (1) of the Table below shall consist of not less than three of the persons specified in relation to that authority in column (2) of that Table.
+**1.**[^c-85150fe4261449e6476ffad9edaa4560] A Review Board appointed by an authority listed in column (1) of the Table below shall consist of not less than three of the persons specified in relation to that authority in column (2) of that Table.
 
 Table
 
@@ -40,14 +40,14 @@ Table
 
 [^M_F_611a2307-2806-4937-bee0-f59507b19820][^f00100]
 
-**2.**[^key-8001677d9fb5b9886b480f20bab82d40] The members of a Review Board shall appoint one of their number to be the Chairman.
+**2.**[^c-8001677d9fb5b9886b480f20bab82d40] The members of a Review Board shall appoint one of their number to be the Chairman.
 
 ## Annotations
 
-[^key-85150fe4261449e6476ffad9edaa4560]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/1988/1890/schedule/6/paragraph/1) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-85150fe4261449e6476ffad9edaa4560]: Commencement: [Sch. 6 para. 1](https://www.legislation.gov.uk/uksi/1988/1890/schedule/6/paragraph/1) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
 
 [^M_F_611a2307-2806-4937-bee0-f59507b19820]: Textual amendment: Words in Sch. 6 para. 1 table substituted (1.4.1989) [The Housing Benefit (Community Charge Rebates) (Scotland) Amendment Regulations 1989 (S.I. 1989/361)](https://www.legislation.gov.uk/uksi/1989/361), [regs 1(1)(b)](https://www.legislation.gov.uk/uksi/1989/361/regulation/1/1/b), [reg 21](https://www.legislation.gov.uk/uksi/1989/361/regulation/21)
 
 [^f00100]: Footnote: [1968 c. 16](https://www.legislation.gov.uk/ukpga/1968/16).
 
-[^key-8001677d9fb5b9886b480f20bab82d40]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/1988/1890/schedule/6/paragraph/2) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)
+[^c-8001677d9fb5b9886b480f20bab82d40]: Commencement: [Sch. 6 para. 2](https://www.legislation.gov.uk/uksi/1988/1890/schedule/6/paragraph/2) in force at 1.4.1989, see [reg. 1(1)](https://www.legislation.gov.uk/uksi/1988/1890/regulation/1/1)

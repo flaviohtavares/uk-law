@@ -45,11 +45,11 @@ Coming into force
 
 The Secretary of State, in exercise of the powers conferred upon him by section 27(4) of the Police and Criminal Evidence Act 1984[^f00001], hereby makes the following Regulations:
 
-**1.**[^key-7ec3f14445f104e3ba816c73738f2dff] These Regulations may be cited as the National Police Records (Recordable Offences) Regulations 2000 and shall come into force on 1st June 2000.
+**1.**[^c-7ec3f14445f104e3ba816c73738f2dff] These Regulations may be cited as the National Police Records (Recordable Offences) Regulations 2000 and shall come into force on 1st June 2000.
 
-**2.**[^key-2b2641cdbf8839cf6001e86cecdbb6fc] The National Police Records (Recordable Offences) Regulations 1985[^f00002], the National Police Records (Recordable Offences) (Amendment) Regulations 1989[^f00003] and the National Police Records (Recordable Offences) (Amendment) Regulations 1997[^f00004] are hereby revoked.
+**2.**[^c-2b2641cdbf8839cf6001e86cecdbb6fc] The National Police Records (Recordable Offences) Regulations 1985[^f00002], the National Police Records (Recordable Offences) (Amendment) Regulations 1989[^f00003] and the National Police Records (Recordable Offences) (Amendment) Regulations 1997[^f00004] are hereby revoked.
 
-**3.**[^key-d11f5d5a1cca2a28ae3e72316da1bc02] (1) There may be recorded in national police records—
+**3.**[^c-d11f5d5a1cca2a28ae3e72316da1bc02] (1) There may be recorded in national police records—
 
 - (a) convictions for; and
 - (b) cautions, reprimands and warnings given in respect of,
@@ -72,7 +72,7 @@ Home Office
 
 17th April 2000
 
-## SCHEDULE — SPECIFIED OFFENCES[^key-d93403044a333a7d36dd05177775e760][^key-c94a80744d74894bc4aaa212d97e0c25]
+## SCHEDULE — SPECIFIED OFFENCES[^c-d93403044a333a7d36dd05177775e760][^c-c94a80744d74894bc4aaa212d97e0c25]
 
 Regulation 3
 
@@ -84,17 +84,17 @@ The following offences are specified for the purposes of section 27(4) of the Po
 
 **3.** section 12 of the Children and Young Persons Act 1933 (offence of failing to provide for safety of children at entertainments)[^f00009];
 
-**3A.**[^key-14f78860ebd82c0ee3e9a2b114b9bb86] section 31(1)(c) of the Crime and Disorder Act 1998 (offence of racially or religiously aggravated harassment, alarm or distress);
+**3A.**[^c-14f78860ebd82c0ee3e9a2b114b9bb86] section 31(1)(c) of the Crime and Disorder Act 1998 (offence of racially or religiously aggravated harassment, alarm or distress);
 
 **4.** section 91 of the Criminal Justice Act 1967[^f00010] (offence of drunkenness in a public place);
 
-**5.**[^key-564b0229d997c85cc3b2a765963ecd5e] section 167 of the Criminal Justice and Public Order Act 1994 (offence of touting for hire car services);
+**5.**[^c-564b0229d997c85cc3b2a765963ecd5e] section 167 of the Criminal Justice and Public Order Act 1994 (offence of touting for hire car services);
 
 **6.** section 2 of the Crossbows Act 1987[^f00012] (offence of purchasing or hiring a crossbow or part of a crossbow by person under the age of seventeen);
 
 **7.** section 3 of the Crossbows Act 1987 (offence of possessing a crossbow or parts of a crossbow by unsupervised person under the age of seventeen);
 
-**7A.**[^key-68b58ff0509d2b2af4dcb55a16e0a2ee] section 119(6) of the Data Protection Act 2018 (offence of intentionally obstructing, or failing to assist, an inspection of personal data in accordance with international obligations);
+**7A.**[^c-68b58ff0509d2b2af4dcb55a16e0a2ee] section 119(6) of the Data Protection Act 2018 (offence of intentionally obstructing, or failing to assist, an inspection of personal data in accordance with international obligations);
 
 **7B.** section 132(3) of the Data Protection Act 2018 (offence of knowingly or recklessly disclosing information obtained in discharging the Commissioner’s functions);
 
@@ -146,7 +146,7 @@ The following offences are specified for the purposes of section 27(4) of the Po
 
 **18.** section 12 of the Licensing Act 1872[^f00017] (offence of being drunk in highway or public place);
 
-**19.**[^key-2c5445f689ec2b3680b634380cc828df] section 59(5) of the Licensing Act 2003 (offence of obstructing an authorised person inspecting premises before the grant of a licence etc.);
+**19.**[^c-2c5445f689ec2b3680b634380cc828df] section 59(5) of the Licensing Act 2003 (offence of obstructing an authorised person inspecting premises before the grant of a licence etc.);
 
 **20.** section 82(6) of the Licensing Act 2003 (offence of failing to notify change of name or alteration of rules of club);
 
@@ -194,9 +194,9 @@ The following offences are specified for the purposes of section 27(4) of the Po
 
 **25.** paragraph 21 of Schedule 3 to the Local Government (Miscellaneous Provisions) Act 1982[^f00019] (offence of making false statement in connection with an application for a sex establishment licence);
 
-**26.**[^key-236ffba9eecd7eddd728b8a2aa49dc25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**26.**[^c-236ffba9eecd7eddd728b8a2aa49dc25] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**27.**[^key-9232df341aa653de99648029b45f513c] article 44 of the Nursing and Midwifery Order 2001 (offence of falsely claiming a professional qualification etc.);
+**27.**[^c-9232df341aa653de99648029b45f513c] article 44 of the Nursing and Midwifery Order 2001 (offence of falsely claiming a professional qualification etc.);
 
 **28.** section 1 of the Night Poaching Act 1828[^f00022] (offence of taking or destroying game or rabbits by night, or entering any land for that purpose);
 
@@ -226,7 +226,7 @@ The following offences are specified for the purposes of section 27(4) of the Po
 
 **41.** section 2 of the Sexual Offences Act 1985 (offence of persistently soliciting women for the purpose of prostitution);
 
-**41A.**[^key-06a2cc28abefc2eed8b11d5da4c89e39] section 51A of the Sexual Offences Act 2003 (offence of soliciting);
+**41A.**[^c-06a2cc28abefc2eed8b11d5da4c89e39] section 51A of the Sexual Offences Act 2003 (offence of soliciting);
 
 **41B.** section 53A of the Sexual Offences Act 2003 (offence of paying for sexual services of a prostitute subjected to force etc).
 
@@ -238,21 +238,21 @@ The following offences are specified for the purposes of section 27(4) of the Po
 
 **45.** section 2(2) of the Sporting Events (Control of Alcohol Etc.) Act 1985 (offence of trying to enter designated sports ground while drunk);
 
-**46.**[^key-91a8ab627e92c22477f5ec7a2d90c502] section 166(1) of the Criminal Justice and Public Order Act 1994 (offence of unauthorised sale or disposal of tickets for a designated football match);
+**46.**[^c-91a8ab627e92c22477f5ec7a2d90c502] section 166(1) of the Criminal Justice and Public Order Act 1994 (offence of unauthorised sale or disposal of tickets for a designated football match);
 
 **47.** section 19(6) of the Football Spectators Act 1989 (offence of an individual subject to a banning order failing to comply with the requirements determined by the enforcing authority and made of him by a police officer on the individual’s initial reporting at the police station);
 
 **48.** section 20(10) of the Football Spectators Act 1989 (offence of a person subject to a banning order knowingly or recklessly providing false or misleading information in support of his application for an exemption from a reporting requirement of his banning order);
 
-**49.**[^key-cf617b57f9cd52c61110b8dcf73f708e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**49.**[^c-cf617b57f9cd52c61110b8dcf73f708e] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **50.** section 1 of the Street Offences Act 1959[^f00032] (offence of loitering or soliciting for purposes of prostitution);
 
-**51.**[^key-1faa4e43d051b21b5d9af181489fbd6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**51.**[^c-1faa4e43d051b21b5d9af181489fbd6b] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **52.** section 12(5) of the Theft Act 1968[^f00034] (offence of taking or riding a pedal cycle without owner’s consent).
 
-**53.**[^key-dace5eea8547c3c57a471a77b7bad75e] section 3 of the Vagrancy Act 1824 (offence of begging); and
+**53.**[^c-dace5eea8547c3c57a471a77b7bad75e] section 3 of the Vagrancy Act 1824 (offence of begging); and
 
 **54.** section 4 of the Vagrancy Act 1824 (offence of persistent begging).
 
@@ -269,9 +269,9 @@ The changes made by these Regulations are–
 
 [^f00001]: Footnote: [1984 c. 60](https://www.legislation.gov.uk/ukpga/1984/60); section 27 was amended by paragraph 61 of Schedule 8 to the Crime and Disorder Act [1998 (c. 37)](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-7ec3f14445f104e3ba816c73738f2dff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/1139/regulation/1) in force at 1.6.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1139/regulation/1)
+[^c-7ec3f14445f104e3ba816c73738f2dff]: Commencement: [Reg. 1](https://www.legislation.gov.uk/uksi/2000/1139/regulation/1) in force at 1.6.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1139/regulation/1)
 
-[^key-2b2641cdbf8839cf6001e86cecdbb6fc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/1139/regulation/2) in force at 1.6.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1139/regulation/1)
+[^c-2b2641cdbf8839cf6001e86cecdbb6fc]: Commencement: [Reg. 2](https://www.legislation.gov.uk/uksi/2000/1139/regulation/2) in force at 1.6.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1139/regulation/1)
 
 [^f00002]: Footnote: S.I. [1985/1941](https://www.legislation.gov.uk/uksi/1985/1941).
 
@@ -279,15 +279,15 @@ The changes made by these Regulations are–
 
 [^f00004]: Footnote: S.I. [1997/566](https://www.legislation.gov.uk/uksi/1997/566).
 
-[^key-d11f5d5a1cca2a28ae3e72316da1bc02]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/1139/regulation/3) in force at 1.6.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1139/regulation/1)
+[^c-d11f5d5a1cca2a28ae3e72316da1bc02]: Commencement: [Reg. 3](https://www.legislation.gov.uk/uksi/2000/1139/regulation/3) in force at 1.6.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1139/regulation/1)
 
 [^f00005]: Footnote: [1997 c. 50](https://www.legislation.gov.uk/ukpga/1997/50).
 
 [^f00006]: Footnote: [1998 c. 37](https://www.legislation.gov.uk/ukpga/1998/37).
 
-[^key-d93403044a333a7d36dd05177775e760]: Commencement: Sch. in force at 1.6.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1139/regulation/1)
+[^c-d93403044a333a7d36dd05177775e760]: Commencement: Sch. in force at 1.6.2000, see [reg. 1](https://www.legislation.gov.uk/uksi/2000/1139/regulation/1)
 
-[^key-c94a80744d74894bc4aaa212d97e0c25]: Modification: Sch. modified (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [ss. 199(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/199/1), [212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
+[^c-c94a80744d74894bc4aaa212d97e0c25]: Modification: Sch. modified (25.5.2018) by [Data Protection Act 2018 (c. 12)](https://www.legislation.gov.uk/ukpga/2018/12), [ss. 199(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/199/1), [212(1)](https://www.legislation.gov.uk/ukpga/2018/12/section/212/1) (with [ss. 117](https://www.legislation.gov.uk/ukpga/2018/12/section/117), [209](https://www.legislation.gov.uk/ukpga/2018/12/section/209), [210](https://www.legislation.gov.uk/ukpga/2018/12/section/210)); [S.I. 2018/625](https://www.legislation.gov.uk/uksi/2018/625), [reg. 2(1)(g)](https://www.legislation.gov.uk/uksi/2018/625/regulation/2/1/g)
 
 [^f00007]: Footnote: [1933 c. 54](https://www.legislation.gov.uk/ukpga/1933/54).
 
@@ -295,15 +295,15 @@ The changes made by these Regulations are–
 
 [^f00009]: Footnote: Section 12 was amended by the Cinemas Act [1985 (c. 13)](https://www.legislation.gov.uk/ukpga/1985/13), Schedule 2, para. 2, Schedule 3 and Schedule 8, para. 5 of the Local Government Act [1985 (c. 51)](https://www.legislation.gov.uk/ukpga/1985/51).
 
-[^key-14f78860ebd82c0ee3e9a2b114b9bb86]: Textual amendment: [Sch. para. 3A](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/3A) inserted (14.11.2016) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2016 (S.I. 2016/1006)](https://www.legislation.gov.uk/uksi/2016/1006), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1006/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1006/regulation/2/2)
+[^c-14f78860ebd82c0ee3e9a2b114b9bb86]: Textual amendment: [Sch. para. 3A](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/3A) inserted (14.11.2016) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2016 (S.I. 2016/1006)](https://www.legislation.gov.uk/uksi/2016/1006), [regs. 1](https://www.legislation.gov.uk/uksi/2016/1006/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2016/1006/regulation/2/2)
 
 [^f00010]: Footnote: [1967 c. 60](https://www.legislation.gov.uk/ukpga/1967/60).
 
-[^key-564b0229d997c85cc3b2a765963ecd5e]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/5) substituted (1.12.2003) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2003 (S.I. 2003/2823)](https://www.legislation.gov.uk/uksi/2003/2823), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2823/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/2823/regulation/2/2)
+[^c-564b0229d997c85cc3b2a765963ecd5e]: Textual amendment: [Sch. para. 5](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/5) substituted (1.12.2003) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2003 (S.I. 2003/2823)](https://www.legislation.gov.uk/uksi/2003/2823), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2823/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2003/2823/regulation/2/2)
 
 [^f00012]: Footnote: [1987 c. 32](https://www.legislation.gov.uk/ukpga/1987/32).
 
-[^key-68b58ff0509d2b2af4dcb55a16e0a2ee]: Textual amendment: [Sch. paras. 7A-7P](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/7A) inserted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/2), [4](https://www.legislation.gov.uk/uksi/2025/1331/regulation/4); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)
+[^c-68b58ff0509d2b2af4dcb55a16e0a2ee]: Textual amendment: [Sch. paras. 7A-7P](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/7A) inserted (5.2.2026) by [The Data (Use and Access) Act 2025 (Consequential and Other Amendments) Regulations 2025 (S.I. 2025/1331)](https://www.legislation.gov.uk/uksi/2025/1331), [regs. 2(2)](https://www.legislation.gov.uk/uksi/2025/1331/regulation/2/2), [4](https://www.legislation.gov.uk/uksi/2025/1331/regulation/4); [S.I. 2026/82](https://www.legislation.gov.uk/uksi/2026/82), [reg. 2(s)](https://www.legislation.gov.uk/uksi/2026/82/regulation/2/s)
 
 [^f00013]: Footnote: [1968 c. 27](https://www.legislation.gov.uk/ukpga/1968/27).
 
@@ -315,13 +315,13 @@ The changes made by these Regulations are–
 
 [^f00017]: Footnote: [35 and 36 Vict c. 94](https://www.legislation.gov.uk/ukpga/1872/94).
 
-[^key-2c5445f689ec2b3680b634380cc828df]: Textual amendment: [Sch. paras. 19-24Q](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/19) substituted for Sch. paras. 19-24 (1.12.2005) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2005 (S.I. 2005/3106)](https://www.legislation.gov.uk/uksi/2005/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3106/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/3106/regulation/2/2)
+[^c-2c5445f689ec2b3680b634380cc828df]: Textual amendment: [Sch. paras. 19-24Q](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/19) substituted for Sch. paras. 19-24 (1.12.2005) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2005 (S.I. 2005/3106)](https://www.legislation.gov.uk/uksi/2005/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3106/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2005/3106/regulation/2/2)
 
 [^f00019]: Footnote: [1982 c. 30](https://www.legislation.gov.uk/ukpga/1982/30).
 
-[^key-236ffba9eecd7eddd728b8a2aa49dc25]: Textual amendment: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/26) omitted (1.12.2003) by virtue of [The National Police Records (Recordable Offences) (Amendment) Regulations 2003 (S.I. 2003/2823)](https://www.legislation.gov.uk/uksi/2003/2823), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2823/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/2823/regulation/2/3)
+[^c-236ffba9eecd7eddd728b8a2aa49dc25]: Textual amendment: [Sch. para. 26](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/26) omitted (1.12.2003) by virtue of [The National Police Records (Recordable Offences) (Amendment) Regulations 2003 (S.I. 2003/2823)](https://www.legislation.gov.uk/uksi/2003/2823), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2823/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/2823/regulation/2/3)
 
-[^key-9232df341aa653de99648029b45f513c]: Textual amendment: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/27) substituted (1.12.2003) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2003 (S.I. 2003/2823)](https://www.legislation.gov.uk/uksi/2003/2823), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2823/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/2823/regulation/2/4)
+[^c-9232df341aa653de99648029b45f513c]: Textual amendment: [Sch. para. 27](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/27) substituted (1.12.2003) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2003 (S.I. 2003/2823)](https://www.legislation.gov.uk/uksi/2003/2823), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2823/regulation/1), [2(4)](https://www.legislation.gov.uk/uksi/2003/2823/regulation/2/4)
 
 [^f00022]: Footnote: [9 Geo 4 c. 69](https://www.legislation.gov.uk/ukpga/1828/69).
 
@@ -337,20 +337,20 @@ The changes made by these Regulations are–
 
 [^f00028]: Footnote: [1985 c. 44](https://www.legislation.gov.uk/ukpga/1985/44).
 
-[^key-06a2cc28abefc2eed8b11d5da4c89e39]: Textual amendment: [Sch. paras. 41A](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/41A), [41B](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/41B) inserted (30.7.2012) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2012 (S.I. 2012/1713)](https://www.legislation.gov.uk/uksi/2012/1713), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1713/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1713/regulation/2/2)
+[^c-06a2cc28abefc2eed8b11d5da4c89e39]: Textual amendment: [Sch. paras. 41A](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/41A), [41B](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/41B) inserted (30.7.2012) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2012 (S.I. 2012/1713)](https://www.legislation.gov.uk/uksi/2012/1713), [regs. 1](https://www.legislation.gov.uk/uksi/2012/1713/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2012/1713/regulation/2/2)
 
 [^f00029]: Footnote: [1985 c. 57](https://www.legislation.gov.uk/ukpga/1985/57).
 
 [^f00030]: Footnote: Section 1A was inserted by Schedule 1, Part 1, paras. 1 and 2 to the Public Order Act [1986 (c. 64)](https://www.legislation.gov.uk/ukpga/1986/64).
 
-[^key-91a8ab627e92c22477f5ec7a2d90c502]: Textual amendment: [Sch. paras. 46-48](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/46) inserted (18.8.2007) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2007 (S.I. 2007/2121)](https://www.legislation.gov.uk/uksi/2007/2121), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2121/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2121/regulation/2/2)
+[^c-91a8ab627e92c22477f5ec7a2d90c502]: Textual amendment: [Sch. paras. 46-48](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/46) inserted (18.8.2007) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2007 (S.I. 2007/2121)](https://www.legislation.gov.uk/uksi/2007/2121), [regs. 1](https://www.legislation.gov.uk/uksi/2007/2121/regulation/1), [2(2)](https://www.legislation.gov.uk/uksi/2007/2121/regulation/2/2)
 
-[^key-cf617b57f9cd52c61110b8dcf73f708e]: Textual amendment: [Sch. paras. 46-49](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/46) revoked (1.12.2005) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2005 (S.I. 2005/3106)](https://www.legislation.gov.uk/uksi/2005/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3106/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/3106/regulation/2/3)
+[^c-cf617b57f9cd52c61110b8dcf73f708e]: Textual amendment: [Sch. paras. 46-49](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/46) revoked (1.12.2005) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2005 (S.I. 2005/3106)](https://www.legislation.gov.uk/uksi/2005/3106), [regs. 1](https://www.legislation.gov.uk/uksi/2005/3106/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2005/3106/regulation/2/3)
 
 [^f00032]: Footnote: [1959 c. 57](https://www.legislation.gov.uk/ukpga/1959/57); section 1(2) was substituted by the Criminal Justice Act [1982 (c. 48)](https://www.legislation.gov.uk/ukpga/1982/48), section 71.
 
-[^key-1faa4e43d051b21b5d9af181489fbd6b]: Textual amendment: [Sch. para. 51](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/51) omitted (1.12.2003) by virtue of [The National Police Records (Recordable Offences) (Amendment) Regulations 2003 (S.I. 2003/2823)](https://www.legislation.gov.uk/uksi/2003/2823), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2823/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/2823/regulation/2/3)
+[^c-1faa4e43d051b21b5d9af181489fbd6b]: Textual amendment: [Sch. para. 51](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/51) omitted (1.12.2003) by virtue of [The National Police Records (Recordable Offences) (Amendment) Regulations 2003 (S.I. 2003/2823)](https://www.legislation.gov.uk/uksi/2003/2823), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2823/regulation/1), [2(3)](https://www.legislation.gov.uk/uksi/2003/2823/regulation/2/3)
 
 [^f00034]: Footnote: [1968 c. 60](https://www.legislation.gov.uk/ukpga/1968/60).
 
-[^key-dace5eea8547c3c57a471a77b7bad75e]: Textual amendment: [Sch. paras. 53](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/53), [54](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/54) inserted (1.12.2003) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2003 (S.I. 2003/2823)](https://www.legislation.gov.uk/uksi/2003/2823), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2823/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/2823/regulation/2/5)
+[^c-dace5eea8547c3c57a471a77b7bad75e]: Textual amendment: [Sch. paras. 53](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/53), [54](https://www.legislation.gov.uk/uksi/2000/1139/schedule/paragraph/54) inserted (1.12.2003) by [The National Police Records (Recordable Offences) (Amendment) Regulations 2003 (S.I. 2003/2823)](https://www.legislation.gov.uk/uksi/2003/2823), [regs. 1](https://www.legislation.gov.uk/uksi/2003/2823/regulation/1), [2(5)](https://www.legislation.gov.uk/uksi/2003/2823/regulation/2/5)

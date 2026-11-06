@@ -24,96 +24,96 @@ Section 44
 
 ### Part 1 — Community orders: punitive elements
 
-**1.**[^key-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**1.**[^c-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**2.**[^key-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**2.**[^c-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**3.**[^key-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**3.**[^c-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**4.**[^key-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**4.**[^c-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 2 — Deferring the passing of sentence to allow for restorative justice
 
-**5.**[^key-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**5.**[^c-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**6.**[^key-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**6.**[^c-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**7.**[^key-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**7.**[^c-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 3 — Removal of limits on compensation orders made against adults
 
-**8.**[^key-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**8.**[^c-e116a4095005e868a7853e41a1a7718f] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**9.**[^key-bc08f8dc3966af45eb85c42927a5c890] In section 33B(5) of the Environmental Protection Act 1990 (limit on compensation in relation to conviction for certain environmental offences) after “payable” insert “ in case of young offender ”.
+**9.**[^c-bc08f8dc3966af45eb85c42927a5c890] In section 33B(5) of the Environmental Protection Act 1990 (limit on compensation in relation to conviction for certain environmental offences) after “payable” insert “ in case of young offender ”.
 
-**10.**[^key-8c8dc3e90e699422277ac6e77ac28bdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**10.**[^c-8c8dc3e90e699422277ac6e77ac28bdb] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 4 — Electronic monitoring of offenders
 
-**11.**[^key-a632b0fd4fbbdbecb1d85cef20572dc9][^key-08d70d7a0d126b1239c8910c9488c714][^key-84fdd9be41cefa8f19c1ba985d1ef806][^M_I_bba54b35-243e-4599-bdd4-396b69c8deea][^key-f73e9b85fa636172688f1336312dd544] The Criminal Justice Act 2003 is amended as follows.
+**11.**[^c-a632b0fd4fbbdbecb1d85cef20572dc9][^c-08d70d7a0d126b1239c8910c9488c714][^c-84fdd9be41cefa8f19c1ba985d1ef806][^M_I_bba54b35-243e-4599-bdd4-396b69c8deea][^c-f73e9b85fa636172688f1336312dd544] The Criminal Justice Act 2003 is amended as follows.
 
-**12.**[^key-c75d910d3af6f83120150edbf6020e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**12.**[^c-c75d910d3af6f83120150edbf6020e5c] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**13.**[^key-25642291031365466a39b768677b0d22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**13.**[^c-25642291031365466a39b768677b0d22] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**14.**[^key-c2cae085f7f7faff397aebcd16912183][^key-bbbd1ed2d01da4aadcee1f3b5f18005a][^key-73e393646f176660f07b7ad155bb52a6][^M_I_81714e01-3bb6-4717-d881-ca33e3f383cf][^key-cdc7cace231a368dd539fd94d688eb87] In section 192(3)(b) (reviews of suspended sentence order)—
+**14.**[^c-c2cae085f7f7faff397aebcd16912183][^c-bbbd1ed2d01da4aadcee1f3b5f18005a][^c-73e393646f176660f07b7ad155bb52a6][^M_I_81714e01-3bb6-4717-d881-ca33e3f383cf][^c-cdc7cace231a368dd539fd94d688eb87] In section 192(3)(b) (reviews of suspended sentence order)—
 
 - (a) after “electronic monitoring requirement” insert “ within section 215(1)(a) ”, and
 - (b) for “190(1)” substitute “ 190(1)(a) to (l) ”.
 
-**15.**[^key-bfc521989b17e234cf0a7a2f2db946c2][^key-d1257bb047d3857f0ce7bf2de2f2fb09][^key-ebb98120214cf0ec4f5dfb8fc1052dcd][^M_I_394e204d-7e95-4392-d5b2-e12a4a595779][^key-483a496adf92e9ea9005c04b90314494] In section 197(1)(a) (meaning of “the responsible officer” where curfew or exclusion requirement imposed)—
+**15.**[^c-bfc521989b17e234cf0a7a2f2db946c2][^c-d1257bb047d3857f0ce7bf2de2f2fb09][^c-ebb98120214cf0ec4f5dfb8fc1052dcd][^M_I_394e204d-7e95-4392-d5b2-e12a4a595779][^c-483a496adf92e9ea9005c04b90314494] In section 197(1)(a) (meaning of “the responsible officer” where curfew or exclusion requirement imposed)—
 
 - (a) in sub-paragraph (i)—
   - (i) for “177(1)” substitute “ 177(1)(a) to (l) ”, and
   - (ii) for “190(1)” substitute “ 190(1)(a) to (l) ”, and
 - (b) in sub-paragraph (ii) after “requirement” insert “ within section 215(1)(a) ”.
 
-**16.**[^key-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**16.**[^c-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**17.**[^key-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**17.**[^c-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**18.**[^key-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**18.**[^c-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**19.**[^key-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**19.**[^c-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**20.**[^key-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**20.**[^c-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**21.**[^key-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**21.**[^c-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 5 — Community orders: further provision
 
 #### Breaches of community orders
 
-**22.**[^key-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**22.**[^c-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Community order not to be made in case of knife etc offence attracting minimum sentence
 
-**23.**[^key-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**23.**[^c-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ### Part 6 — Statements of assets and other financial circumstances of offenders etc
 
 #### Financial circumstances orders
 
-**24.**[^key-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**24.**[^c-9dce003534279e917bb14392661a49cd] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 #### Further amendments
 
-**25.**[^key-b116005aa01823930781d86ddd44b48f] In section 84 of the Magistrates' Courts Act 1980 (court's power to require statement of means)—
+**25.**[^c-b116005aa01823930781d86ddd44b48f] In section 84 of the Magistrates' Courts Act 1980 (court's power to require statement of means)—
 
 - (a) in subsection (1) (court may require statement of means before or on inquiring into means under section 82) for “means”, in the second place, substitute “ assets and other financial circumstances ”, and
 - (b) in the title for “means” substitute “ assets and other financial circumstances ”.
 
-**26.**[^key-f1ab18f1f18ba05f4695cf7026a6f176] In section 20A of the Criminal Justice Act 1991 (false statements as to financial circumstances)—
+**26.**[^c-f1ab18f1f18ba05f4695cf7026a6f176] In section 20A of the Criminal Justice Act 1991 (false statements as to financial circumstances)—
 
 - (a) in subsection (1) (person charged with offence commits further offence if person responds to official request by making false statement etc as to financial circumstances) for “his financial circumstances” substitute “ financial circumstances (whether a statement of assets, of other financial circumstances or of both) ”, and
 - (b) in subsection (1A) (person charged with offence commits further offence if person fails to provide statement of financial circumstances in response to official request) for “his financial circumstances in response to” substitute “ financial circumstances (whether a statement of assets, of other financial circumstances or of both) requested by ”.
 
-**27.**[^key-7a55bcdfc2e5f93dd78a4c8b5b8290a1] In section 13B of the Crime and Disorder Act 1998 (parental compensation orders: the compensation)—
+**27.**[^c-7a55bcdfc2e5f93dd78a4c8b5b8290a1] In section 13B of the Crime and Disorder Act 1998 (parental compensation orders: the compensation)—
 
 - (a) in subsection (4) (provision by parent or guardian of statement of financial circumstances) after “statement of his” insert “ assets and other ”, and
 - (b) in subsection (6) (provision of false statement) omit “of his financial circumstances”.
 
-**28.**[^key-d931c641efc3435055ef7330e7e25ff2] (1) The Courts Act 2003 is amended as follows.
+**28.**[^c-d931c641efc3435055ef7330e7e25ff2] (1) The Courts Act 2003 is amended as follows.
 
 (2) In paragraph 48 of Schedule 5 (offences relating to provision of information as to financial circumstances)—
 
@@ -130,7 +130,7 @@ Section 44
 
 #### Power to disclose information
 
-**29.**[^key-8a2b7851ce22df6a56326781f1d3f2ef] (1) The Secretary of State or a Northern Ireland Department, or a person providing services to the Secretary of State or a Northern Ireland Department, may disclose social security information to a relevant person.
+**29.**[^c-8a2b7851ce22df6a56326781f1d3f2ef] (1) The Secretary of State or a Northern Ireland Department, or a person providing services to the Secretary of State or a Northern Ireland Department, may disclose social security information to a relevant person.
 
 (2) Her Majesty's Revenue and Customs, or a person providing services to the Commissioners for Her Majesty's Revenue and Customs, may disclose finances information to a relevant person.
 
@@ -191,7 +191,7 @@ Section 44
 
 *Extent: E+W*
 
-**30.**[^key-fd5e7481572606b3179909bc32333d93] (1) It is an offence for a person to disclose or use information in contravention of paragraph 29(5).
+**30.**[^c-fd5e7481572606b3179909bc32333d93] (1) It is an offence for a person to disclose or use information in contravention of paragraph 29(5).
 
 (2) It is a defence for a person charged with an offence under sub-paragraph (1) to prove that the person reasonably believed that the disclosure or use concerned was lawful.
 
@@ -202,16 +202,16 @@ Section 44
   - (ii) to a fine, or
   - (iii) to both;
 - (b) on summary conviction—
-  - (i) to imprisonment for a period not exceeding 12 months or the general limit in a magistrates’ court[^key-942f73d15b8a016c1acd48c6a1d27857], or
+  - (i) to imprisonment for a period not exceeding 12 months or the general limit in a magistrates’ court[^c-942f73d15b8a016c1acd48c6a1d27857], or
   - (ii) to a fine not exceeding the statutory maximum, or
   - (iii) to both.
 
 (4) Sub-paragraph (3)(b) applies—
 
-- (a) in England and Wales in relation to offences committed before 2 May 2022[^key-2db143e2b84260726ec9ea98916a9afb], and
+- (a) in England and Wales in relation to offences committed before 2 May 2022[^c-2db143e2b84260726ec9ea98916a9afb], and
 - (b) in Northern Ireland,
 
-as if the reference to 12 months or the general limit in a magistrates’ court[^key-873bdc4269f4daf57a091d27ba6336f1] were a reference to 6 months.
+as if the reference to 12 months or the general limit in a magistrates’ court[^c-873bdc4269f4daf57a091d27ba6336f1] were a reference to 6 months.
 
 (5) A prosecution for an offence under sub-paragraph (1)—
 
@@ -222,11 +222,11 @@ as if the reference to 12 months or the general limit in a magistrates’ court[
 
 #### Community orders: punitive elements
 
-**31.**[^key-ccd5e43c2d33f460801aa74ce7818c12] The Armed Forces Act 2006 is amended as follows.
+**31.**[^c-ccd5e43c2d33f460801aa74ce7818c12] The Armed Forces Act 2006 is amended as follows.
 
-**32.**[^key-5acf5f2e440f4d866afe92b0a9e6774b] In section 178 (service community orders), in subsection (3) (provisions of the 2003 Act in which “**community order**” includes a service community order) for “177(3)” substitute “ 177(2A) ”.
+**32.**[^c-5acf5f2e440f4d866afe92b0a9e6774b] In section 178 (service community orders), in subsection (3) (provisions of the 2003 Act in which “**community order**” includes a service community order) for “177(3)” substitute “ 177(2A) ”.
 
-**33.**[^key-4401dd9996d57b6ae39cb8d8f33c81cf] (1) Section 182 (overseas community orders) is amended as follows.
+**33.**[^c-4401dd9996d57b6ae39cb8d8f33c81cf] (1) Section 182 (overseas community orders) is amended as follows.
 
 (2) After subsection (3) insert—
 
@@ -234,15 +234,15 @@ as if the reference to 12 months or the general limit in a magistrates’ court[
 
 (3) In subsection (5) (provisions of the 2003 Act in which “**court**” includes a relevant service court) for “those provisions” substitute “ the provisions of the 2003 Act mentioned in subsections (3A) and (4) ”.
 
-**34.**[^key-b39ea3bff74f2af5df493d64fd76a231] In section 270 (restrictions on community punishments) after subsection (2) insert—
+**34.**[^c-b39ea3bff74f2af5df493d64fd76a231] In section 270 (restrictions on community punishments) after subsection (2) insert—
 
 > (2A) Subsection (2) is subject to section 177(2A) of the 2003 Act (community orders: punitive elements) as applied by section 178(3) and section 182(3A).
 
-**35.**[^key-eabc35a4844eac7dd95d67448c4ac785] An amendment made by any of paragraphs 32 to 34 does not affect orders in respect of offences committed before the amendment comes into force.
+**35.**[^c-eabc35a4844eac7dd95d67448c4ac785] An amendment made by any of paragraphs 32 to 34 does not affect orders in respect of offences committed before the amendment comes into force.
 
 #### Removal of limits on compensation orders made against adults
 
-**36.**[^key-6f06b33b8db0fc23febfc719cf51cf12] (1) Section 284 of the Armed Forces Act 2006 (Service Civilian Court compensation orders etc: maximum amounts) is amended as follows.
+**36.**[^c-6f06b33b8db0fc23febfc719cf51cf12] (1) Section 284 of the Armed Forces Act 2006 (Service Civilian Court compensation orders etc: maximum amounts) is amended as follows.
 
 (2) After subsection (2) insert—
 
@@ -264,80 +264,80 @@ as if the reference to 12 months or the general limit in a magistrates’ court[
 
 #### Statements of assets and other financial circumstances of offenders etc
 
-**38.**[^key-fa66a685797761c819ae1490087454df] In section 266(2) of the Armed Forces Act 2006 (meaning of “financial statement order”) after “statement of his” insert “ assets and other ”.
+**38.**[^c-fa66a685797761c819ae1490087454df] In section 266(2) of the Armed Forces Act 2006 (meaning of “financial statement order”) after “statement of his” insert “ assets and other ”.
 
 ## Annotations
 
-[^key-e116a4095005e868a7853e41a1a7718f]: Textual amendment: Sch. 16 paras. 1-8 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-e116a4095005e868a7853e41a1a7718f]: Textual amendment: Sch. 16 paras. 1-8 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-bc08f8dc3966af45eb85c42927a5c890]: Commencement: Sch. 16 para. 9 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
+[^c-bc08f8dc3966af45eb85c42927a5c890]: Commencement: Sch. 16 para. 9 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
 
-[^key-8c8dc3e90e699422277ac6e77ac28bdb]: Textual amendment: Sch. 16 para. 10 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-8c8dc3e90e699422277ac6e77ac28bdb]: Textual amendment: Sch. 16 para. 10 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-a632b0fd4fbbdbecb1d85cef20572dc9]: Commencement: Sch. 16 para. 11 in force at 17.10.2016 in relation to specified local justice areas until 13.10.2017 by [S.I. 2016/962](https://www.legislation.gov.uk/uksi/2016/962), [art. 2](https://www.legislation.gov.uk/uksi/2016/962/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2016/962/article/3), [4](https://www.legislation.gov.uk/uksi/2016/962/article/4))
+[^c-a632b0fd4fbbdbecb1d85cef20572dc9]: Commencement: Sch. 16 para. 11 in force at 17.10.2016 in relation to specified local justice areas until 13.10.2017 by [S.I. 2016/962](https://www.legislation.gov.uk/uksi/2016/962), [art. 2](https://www.legislation.gov.uk/uksi/2016/962/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2016/962/article/3), [4](https://www.legislation.gov.uk/uksi/2016/962/article/4))
 
-[^key-08d70d7a0d126b1239c8910c9488c714]: Commencement: Sch. 16 para. 11: amendment to earlier commencing S.I. 2016/962, arts. 3, 4(2) to extend pilot period to 30.6.2018 (9.10.2017) by [The Crime and Courts Act 2013 (Commencement No. 15, Transitional and Savings Provisions) (Amendment) Order 2017 (S.I. 2017/976)](https://www.legislation.gov.uk/uksi/2017/976), [art. 2](https://www.legislation.gov.uk/uksi/2017/976/article/2)
+[^c-08d70d7a0d126b1239c8910c9488c714]: Commencement: Sch. 16 para. 11: amendment to earlier commencing S.I. 2016/962, arts. 3, 4(2) to extend pilot period to 30.6.2018 (9.10.2017) by [The Crime and Courts Act 2013 (Commencement No. 15, Transitional and Savings Provisions) (Amendment) Order 2017 (S.I. 2017/976)](https://www.legislation.gov.uk/uksi/2017/976), [art. 2](https://www.legislation.gov.uk/uksi/2017/976/article/2)
 
-[^key-84fdd9be41cefa8f19c1ba985d1ef806]: Commencement: Sch. 16 para. 11 in force at 13.3.2017 in relation to specified local justice areas until 12.3.2018 by [S.I. 2017/236](https://www.legislation.gov.uk/uksi/2017/236), [art. 2](https://www.legislation.gov.uk/uksi/2017/236/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2017/236/article/3), [4](https://www.legislation.gov.uk/uksi/2017/236/article/4))
+[^c-84fdd9be41cefa8f19c1ba985d1ef806]: Commencement: Sch. 16 para. 11 in force at 13.3.2017 in relation to specified local justice areas until 12.3.2018 by [S.I. 2017/236](https://www.legislation.gov.uk/uksi/2017/236), [art. 2](https://www.legislation.gov.uk/uksi/2017/236/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2017/236/article/3), [4](https://www.legislation.gov.uk/uksi/2017/236/article/4))
 
 [^M_I_bba54b35-243e-4599-bdd4-396b69c8deea]: Commencement: Sch. 16 para. 11: amendment to earlier commencing S.I. 2017/236, arts. 3, 4(2) to extend pilot period to 12.3.2019 (12.3.2018 at 10 p.m.) by [The Crime and Courts Act 2013 (Commencement No. 17, Transitional and Savings Provisions) (Amendment) Order 2018 (S.I. 2018/357)](https://www.legislation.gov.uk/uksi/2018/357), [arts. 1](https://www.legislation.gov.uk/uksi/2018/357/article/1), [2](https://www.legislation.gov.uk/uksi/2018/357/article/2)
 
-[^key-f73e9b85fa636172688f1336312dd544]: Commencement: Sch. 16 para. 11 in force at 1.4.2019 in so far as not already in force by [S.I. 2018/1423](https://www.legislation.gov.uk/uksi/2018/1423), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/1423/article/2/b)
+[^c-f73e9b85fa636172688f1336312dd544]: Commencement: Sch. 16 para. 11 in force at 1.4.2019 in so far as not already in force by [S.I. 2018/1423](https://www.legislation.gov.uk/uksi/2018/1423), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/1423/article/2/b)
 
-[^key-c75d910d3af6f83120150edbf6020e5c]: Textual amendment: [Sch. 16 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/12) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-c75d910d3af6f83120150edbf6020e5c]: Textual amendment: [Sch. 16 para. 12](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/12) repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-25642291031365466a39b768677b0d22]: Textual amendment: Sch. 16 para. 13 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-25642291031365466a39b768677b0d22]: Textual amendment: Sch. 16 para. 13 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-c2cae085f7f7faff397aebcd16912183]: Commencement: Sch. 16 para. 14 in force at 17.10.2016 in relation to specified local justice areas until 13.10.2017 by [S.I. 2016/962](https://www.legislation.gov.uk/uksi/2016/962), [art. 2](https://www.legislation.gov.uk/uksi/2016/962/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2016/962/article/3), [4](https://www.legislation.gov.uk/uksi/2016/962/article/4))
+[^c-c2cae085f7f7faff397aebcd16912183]: Commencement: Sch. 16 para. 14 in force at 17.10.2016 in relation to specified local justice areas until 13.10.2017 by [S.I. 2016/962](https://www.legislation.gov.uk/uksi/2016/962), [art. 2](https://www.legislation.gov.uk/uksi/2016/962/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2016/962/article/3), [4](https://www.legislation.gov.uk/uksi/2016/962/article/4))
 
-[^key-bbbd1ed2d01da4aadcee1f3b5f18005a]: Commencement: Sch. 16 para. 14: amendment to earlier commencing S.I. 2016/962, arts. 3, 4(2) to extend pilot period to 30.6.2018 (9.10.2017) by [The Crime and Courts Act 2013 (Commencement No. 15, Transitional and Savings Provisions) (Amendment) Order 2017 (S.I. 2017/976)](https://www.legislation.gov.uk/uksi/2017/976), [art. 2](https://www.legislation.gov.uk/uksi/2017/976/article/2)
+[^c-bbbd1ed2d01da4aadcee1f3b5f18005a]: Commencement: Sch. 16 para. 14: amendment to earlier commencing S.I. 2016/962, arts. 3, 4(2) to extend pilot period to 30.6.2018 (9.10.2017) by [The Crime and Courts Act 2013 (Commencement No. 15, Transitional and Savings Provisions) (Amendment) Order 2017 (S.I. 2017/976)](https://www.legislation.gov.uk/uksi/2017/976), [art. 2](https://www.legislation.gov.uk/uksi/2017/976/article/2)
 
-[^key-73e393646f176660f07b7ad155bb52a6]: Commencement: Sch. 16 para. 14 in force at 13.3.2017 in relation to specified local justice areas until 12.3.2018 by [S.I. 2017/236](https://www.legislation.gov.uk/uksi/2017/236), [art. 2](https://www.legislation.gov.uk/uksi/2017/236/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2017/236/article/3), [4](https://www.legislation.gov.uk/uksi/2017/236/article/4))
+[^c-73e393646f176660f07b7ad155bb52a6]: Commencement: Sch. 16 para. 14 in force at 13.3.2017 in relation to specified local justice areas until 12.3.2018 by [S.I. 2017/236](https://www.legislation.gov.uk/uksi/2017/236), [art. 2](https://www.legislation.gov.uk/uksi/2017/236/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2017/236/article/3), [4](https://www.legislation.gov.uk/uksi/2017/236/article/4))
 
 [^M_I_81714e01-3bb6-4717-d881-ca33e3f383cf]: Commencement: Sch. 16 para. 14: amendment to earlier commencing S.I. 2017/236, arts. 3, 4(2) to extend pilot period to 12.3.2019 (12.3.2018 at 10 p.m.) by [The Crime and Courts Act 2013 (Commencement No. 17, Transitional and Savings Provisions) (Amendment) Order 2018 (S.I. 2018/357)](https://www.legislation.gov.uk/uksi/2018/357), [arts. 1](https://www.legislation.gov.uk/uksi/2018/357/article/1), [2](https://www.legislation.gov.uk/uksi/2018/357/article/2)
 
-[^key-cdc7cace231a368dd539fd94d688eb87]: Commencement: Sch. 16 para. 14 in force at 1.4.2019 in so far as not already in force by [S.I. 2018/1423](https://www.legislation.gov.uk/uksi/2018/1423), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/1423/article/2/b)
+[^c-cdc7cace231a368dd539fd94d688eb87]: Commencement: Sch. 16 para. 14 in force at 1.4.2019 in so far as not already in force by [S.I. 2018/1423](https://www.legislation.gov.uk/uksi/2018/1423), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/1423/article/2/b)
 
-[^key-bfc521989b17e234cf0a7a2f2db946c2]: Commencement: Sch. 16 para. 15 in force at 17.10.2016 in relation to specified local justice areas until 13.10.2017 by [S.I. 2016/962](https://www.legislation.gov.uk/uksi/2016/962), [art. 2](https://www.legislation.gov.uk/uksi/2016/962/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2016/962/article/3), [4](https://www.legislation.gov.uk/uksi/2016/962/article/4))
+[^c-bfc521989b17e234cf0a7a2f2db946c2]: Commencement: Sch. 16 para. 15 in force at 17.10.2016 in relation to specified local justice areas until 13.10.2017 by [S.I. 2016/962](https://www.legislation.gov.uk/uksi/2016/962), [art. 2](https://www.legislation.gov.uk/uksi/2016/962/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2016/962/article/3), [4](https://www.legislation.gov.uk/uksi/2016/962/article/4))
 
-[^key-d1257bb047d3857f0ce7bf2de2f2fb09]: Commencement: Sch. 16 para. 15: amendment to earlier commencing S.I. 2016/962, arts. 3, 4(2) to extend pilot period to 30.6.2018 (9.10.2017) by [The Crime and Courts Act 2013 (Commencement No. 15, Transitional and Savings Provisions) (Amendment) Order 2017 (S.I. 2017/976)](https://www.legislation.gov.uk/uksi/2017/976), [art. 2](https://www.legislation.gov.uk/uksi/2017/976/article/2)
+[^c-d1257bb047d3857f0ce7bf2de2f2fb09]: Commencement: Sch. 16 para. 15: amendment to earlier commencing S.I. 2016/962, arts. 3, 4(2) to extend pilot period to 30.6.2018 (9.10.2017) by [The Crime and Courts Act 2013 (Commencement No. 15, Transitional and Savings Provisions) (Amendment) Order 2017 (S.I. 2017/976)](https://www.legislation.gov.uk/uksi/2017/976), [art. 2](https://www.legislation.gov.uk/uksi/2017/976/article/2)
 
-[^key-ebb98120214cf0ec4f5dfb8fc1052dcd]: Commencement: Sch. 16 para. 15 in force at 13.3.2017 in relation to specified local justice areas until 12.3.2018 by [S.I. 2017/236](https://www.legislation.gov.uk/uksi/2017/236), [art. 2](https://www.legislation.gov.uk/uksi/2017/236/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2017/236/article/3), [4](https://www.legislation.gov.uk/uksi/2017/236/article/4))
+[^c-ebb98120214cf0ec4f5dfb8fc1052dcd]: Commencement: Sch. 16 para. 15 in force at 13.3.2017 in relation to specified local justice areas until 12.3.2018 by [S.I. 2017/236](https://www.legislation.gov.uk/uksi/2017/236), [art. 2](https://www.legislation.gov.uk/uksi/2017/236/article/2) (with [arts. 3](https://www.legislation.gov.uk/uksi/2017/236/article/3), [4](https://www.legislation.gov.uk/uksi/2017/236/article/4))
 
 [^M_I_394e204d-7e95-4392-d5b2-e12a4a595779]: Commencement: Sch. 16 para. 15: amendment to earlier commencing S.I. 2017/236, arts. 3, 4(2) to extend pilot period to 12.3.2019 (12.3.2018 at 10 p.m.) by [The Crime and Courts Act 2013 (Commencement No. 17, Transitional and Savings Provisions) (Amendment) Order 2018 (S.I. 2018/357)](https://www.legislation.gov.uk/uksi/2018/357), [arts. 1](https://www.legislation.gov.uk/uksi/2018/357/article/1), [2](https://www.legislation.gov.uk/uksi/2018/357/article/2)
 
-[^key-483a496adf92e9ea9005c04b90314494]: Commencement: Sch. 16 para. 15 in force at 1.4.2019 in so far as not already in force by [S.I. 2018/1423](https://www.legislation.gov.uk/uksi/2018/1423), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/1423/article/2/b)
+[^c-483a496adf92e9ea9005c04b90314494]: Commencement: Sch. 16 para. 15 in force at 1.4.2019 in so far as not already in force by [S.I. 2018/1423](https://www.legislation.gov.uk/uksi/2018/1423), [art. 2(b)](https://www.legislation.gov.uk/uksi/2018/1423/article/2/b)
 
-[^key-9dce003534279e917bb14392661a49cd]: Textual amendment: Sch. 16 paras. 16-24 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
+[^c-9dce003534279e917bb14392661a49cd]: Textual amendment: Sch. 16 paras. 16-24 repealed (1.12.2020) by [Sentencing Act 2020 (c. 17)](https://www.legislation.gov.uk/ukpga/2020/17), [s. 416(1)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/1), [Sch. 28](https://www.legislation.gov.uk/ukpga/2020/17/schedule/28) (with [ss. 413(4)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/4)[(5)](https://www.legislation.gov.uk/ukpga/2020/17/section/413/5), [416(7)](https://www.legislation.gov.uk/ukpga/2020/17/section/416/7), [Sch. 27](https://www.legislation.gov.uk/ukpga/2020/17/schedule/27)); [S.I. 2020/1236](https://www.legislation.gov.uk/uksi/2020/1236), [reg. 2](https://www.legislation.gov.uk/uksi/2020/1236/regulation/2)
 
-[^key-b116005aa01823930781d86ddd44b48f]: Commencement: Sch. 16 para. 25 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
+[^c-b116005aa01823930781d86ddd44b48f]: Commencement: Sch. 16 para. 25 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
 
-[^key-f1ab18f1f18ba05f4695cf7026a6f176]: Commencement: Sch. 16 para. 26 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
+[^c-f1ab18f1f18ba05f4695cf7026a6f176]: Commencement: Sch. 16 para. 26 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
 
-[^key-7a55bcdfc2e5f93dd78a4c8b5b8290a1]: Commencement: Sch. 16 para. 27 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
+[^c-7a55bcdfc2e5f93dd78a4c8b5b8290a1]: Commencement: Sch. 16 para. 27 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
 
-[^key-d931c641efc3435055ef7330e7e25ff2]: Commencement: Sch. 16 para. 28 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
+[^c-d931c641efc3435055ef7330e7e25ff2]: Commencement: Sch. 16 para. 28 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
 
-[^key-8a2b7851ce22df6a56326781f1d3f2ef]: Commencement: Sch. 16 para. 29 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
+[^c-8a2b7851ce22df6a56326781f1d3f2ef]: Commencement: Sch. 16 para. 29 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
 
-[^key-fd5e7481572606b3179909bc32333d93]: Commencement: Sch. 16 para. 30 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
+[^c-fd5e7481572606b3179909bc32333d93]: Commencement: Sch. 16 para. 30 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(d)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/d)
 
-[^key-942f73d15b8a016c1acd48c6a1d27857]: Textual amendment: Words in [Sch. 16 para. 30(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/30/3/b/i) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2023/149/regulation/27/4)
+[^c-942f73d15b8a016c1acd48c6a1d27857]: Textual amendment: Words in [Sch. 16 para. 30(3)(b)(i)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/30/3/b/i) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2023/149/regulation/27/4)
 
-[^key-2db143e2b84260726ec9ea98916a9afb]: Textual amendment: Words in [Sch. 16 para. 30(4)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/30/4/a) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
+[^c-2db143e2b84260726ec9ea98916a9afb]: Textual amendment: Words in [Sch. 16 para. 30(4)(a)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/30/4/a) substituted (28.4.2022) by [The Criminal Justice Act 2003 (Commencement No. 33) and Sentencing Act 2020 (Commencement No. 2) Regulations 2022 (S.I. 2022/500)](https://www.legislation.gov.uk/uksi/2022/500), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2022/500/regulation/1/2), [5(1)](https://www.legislation.gov.uk/uksi/2022/500/regulation/5/1), [Sch. Pt. 1](https://www.legislation.gov.uk/uksi/2022/500/schedule/part/1)
 
-[^key-873bdc4269f4daf57a091d27ba6336f1]: Textual amendment: Words in [Sch. 16 para. 30(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/30/4) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2023/149/regulation/27/4)
+[^c-873bdc4269f4daf57a091d27ba6336f1]: Textual amendment: Words in [Sch. 16 para. 30(4)](https://www.legislation.gov.uk/ukpga/2013/22/schedule/16/paragraph/30/4) inserted (7.2.2023 at 12.00 p.m.) by [The Judicial Review and Courts Act 2022 (Magistrates’ Court Sentencing Powers) Regulations 2023 (S.I. 2023/149)](https://www.legislation.gov.uk/uksi/2023/149), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/149/regulation/1/2), [27(4)](https://www.legislation.gov.uk/uksi/2023/149/regulation/27/4)
 
-[^key-ccd5e43c2d33f460801aa74ce7818c12]: Commencement: Sch. 16 para. 31 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
+[^c-ccd5e43c2d33f460801aa74ce7818c12]: Commencement: Sch. 16 para. 31 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
 
-[^key-5acf5f2e440f4d866afe92b0a9e6774b]: Commencement: Sch. 16 para. 32 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
+[^c-5acf5f2e440f4d866afe92b0a9e6774b]: Commencement: Sch. 16 para. 32 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
 
-[^key-4401dd9996d57b6ae39cb8d8f33c81cf]: Commencement: Sch. 16 para. 33 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
+[^c-4401dd9996d57b6ae39cb8d8f33c81cf]: Commencement: Sch. 16 para. 33 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
 
-[^key-b39ea3bff74f2af5df493d64fd76a231]: Commencement: Sch. 16 para. 34 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
+[^c-b39ea3bff74f2af5df493d64fd76a231]: Commencement: Sch. 16 para. 34 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
 
-[^key-eabc35a4844eac7dd95d67448c4ac785]: Commencement: Sch. 16 para. 35 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
+[^c-eabc35a4844eac7dd95d67448c4ac785]: Commencement: Sch. 16 para. 35 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
 
-[^key-6f06b33b8db0fc23febfc719cf51cf12]: Commencement: Sch. 16 para. 36 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
+[^c-6f06b33b8db0fc23febfc719cf51cf12]: Commencement: Sch. 16 para. 36 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
 
-[^key-fa66a685797761c819ae1490087454df]: Commencement: Sch. 16 para. 38 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)
+[^c-fa66a685797761c819ae1490087454df]: Commencement: Sch. 16 para. 38 in force at 11.12.2013 by [S.I. 2013/2981](https://www.legislation.gov.uk/uksi/2013/2981), [art. 2(e)](https://www.legislation.gov.uk/uksi/2013/2981/article/2/e)

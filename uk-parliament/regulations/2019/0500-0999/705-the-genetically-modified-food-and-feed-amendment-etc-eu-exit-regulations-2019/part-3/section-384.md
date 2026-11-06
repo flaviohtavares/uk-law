@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 384.[^key-a2ee3c9d3b577bcf0ae9d410d11e3804]
+## 384.[^c-a2ee3c9d3b577bcf0ae9d410d11e3804]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ In Article 6, omit “Community”.
 
 ## Annotations
 
-[^key-a2ee3c9d3b577bcf0ae9d410d11e3804]: Commencement: Reg. 384 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)
+[^c-a2ee3c9d3b577bcf0ae9d410d11e3804]: Commencement: Reg. 384 in force at 31.12.2020 on IP completion day (in accordance with [2020 c.1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)), see [reg. 1](https://www.legislation.gov.uk/ukpga/2020/1/regulation/1)

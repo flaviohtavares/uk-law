@@ -44,11 +44,11 @@ Coming into operation
 
 The Department of Agriculture, being a Department designated[^f00001] for the purposes of section 2(2) of the European Communities Act 1972[^f00002] in relation to the common agricultural policy of the European Community, in exercise of the powers conferred on it by that section, and of every other power enabling it in that behalf, hereby makes the following Regulations:
 
-## 1. Citation and commencement[^key-8bc9c2122378d511a8ea4438a623990f]
+## 1. Citation and commencement[^c-8bc9c2122378d511a8ea4438a623990f]
 
 These Regulations may be cited as the Arable Area Payments Regulations (Northern Ireland) 1997 and shall come into operation on 12th December 1997.
 
-## 2. Interpretation[^key-b92762be162ca6cbacffebec345bb28a]
+## 2. Interpretation[^c-b92762be162ca6cbacffebec345bb28a]
 
 (1) In these Regulations—
 
@@ -131,7 +131,7 @@ These Regulations may be cited as the Arable Area Payments Regulations (Northern
 
 (3) The Interpretation Act (Northern Ireland) 1954[^f00017] except section 20(2) and (3), shall apply to these Regulations as it applies to a Measure of the Northern Ireland Assembly.
 
-## 3. Production regions[^key-d18ccb40ef4ec7310d2e2d2cffc626c8]
+## 3. Production regions[^c-d18ccb40ef4ec7310d2e2d2cffc626c8]
 
 (1) For the purposes of Article 3 of Council Regulation 1765/92, the production regions in Northern Ireland shall be—
 
@@ -143,17 +143,17 @@ These Regulations may be cited as the Arable Area Payments Regulations (Northern
 - (a) the adjusted average cereals yield for each production region of Northern Ireland shall be the sum of 60% of the average cereals yield for that region determined in accordance with Article 3(2) of Council Regulation 1765/92 and 40% of the average cereals yield for the United Kingdom; and
 - (b) for the purposes of sub-paragraph (*a*), the average cereals yield for the United Kingdom shall be calculated in accordance with the method set out in Article 3(2) of Council Regulation 1765/92, by treating the United Kingdom as if it were a single production region.
 
-## 4. Calculation of projected regional reference amount[^key-f9edbe403759304870d60d8fc3d6bf3e]
+## 4. Calculation of projected regional reference amount[^c-f9edbe403759304870d60d8fc3d6bf3e]
 
 For the purposes of Article 5(1)(*c*) of Council Regulation 1765/92, the projected regional reference amount shall be calculated by comparing the oilseeds yield for each production region (as specified in regulation 3(1)) with the average oilseeds yield for the Community of 2.36 tonnes per hectare.
 
-## 5. Minimum size of cultivated plot[^key-afb7675d0106a7dfdbf971391d05fdab]
+## 5. Minimum size of cultivated plot[^c-afb7675d0106a7dfdbf971391d05fdab]
 
 (1) Subject to paragraph (2), for the purposes of Article 3(1)(*d*) of Commission Regulation 658/96, the minimum size of a cultivated plot for which an arable compensatory payment may be made shall be 0.10 hectare.
 
 (2) In the case of land used for seed production or for research, the minimum size of a cultivated plot for which an arable compensatory payment may be made shall be 0.01 hectare.
 
-## 6. Exchanges of eligible and ineligible land[^key-a5bd880955f004893e95bf6c16ec67aa]
+## 6. Exchanges of eligible and ineligible land[^c-a5bd880955f004893e95bf6c16ec67aa]
 
 (1) Where a farmer believes that he is obliged to exchange ineligible land for eligible land within his holding for agronomic, phytosanitary or environmental reasons, as provided for in Article 2(5) of Commission Regulation 658/96, he may apply to the Department for approval of the exchange and paragraphs (2) to (7) shall apply in respect of his application.
 
@@ -187,11 +187,11 @@ For the purposes of Article 5(1)(*c*) of Council Regulation 1765/92, the project
 
 then the application shall for all purposes be treated as if it had never been approved.
 
-## 7. Derogations from requirement to have farmed for two years land set aside[^key-500180c33a7f5f8b36a69e4f7c06cde0]
+## 7. Derogations from requirement to have farmed for two years land set aside[^c-500180c33a7f5f8b36a69e4f7c06cde0]
 
 For the purposes of Article 3(4) of Commission Regulation 762/94, the special cases where a farmer shall be entitled to claim set-aside compensatory payment on land which he has not farmed for the two years prior to the commencement of the set-aside period shall be those specified in Schedule 1.
 
-## 8. Derogations from requirement to set land aside in the production region where the related arable land is situated[^key-c28468da9da4591ea89d26c527bc18f7]
+## 8. Derogations from requirement to set land aside in the production region where the related arable land is situated[^c-c28468da9da4591ea89d26c527bc18f7]
 
 (1) For the purposes of Article 9(3) of Commission Regulation 762/94, paragraphs (2) to (5) shall apply where a farmer farms land in more than one production region (as specified in regulation 3(1)).
 
@@ -203,7 +203,7 @@ For the purposes of Article 3(4) of Commission Regulation 762/94, the special ca
 
 (5) For the purposes of paragraph (4), the cereals yield of a production region is its adjusted average cereals yield calculated in accordance with regulation 3(2).
 
-## 9. Requirements in relation to set-aside land[^key-783a4d8ca3cfdd5cfa3300a4ea56dbc1]
+## 9. Requirements in relation to set-aside land[^c-783a4d8ca3cfdd5cfa3300a4ea56dbc1]
 
 (1) A farmer shall, subject to paragraphs (3) to (8), comply with the requirements of Schedule 2 in relation to his set-aside land, other than land which is—
 
@@ -262,7 +262,7 @@ then the Department shall so publish that exemption notice.
 - (a) “the farming press” means any publication or group of publications which in the Department’s opinion is read by sufficient of those farmers to whom the exemption applies that knowledge of it will be disseminated to substantially all of those affected farmers; and
 - (b) the “period of applicability of the exemption” means either a period of a given length commencing on a date specified in the exemption notice or the period from such a date until the occurrence of a particular event specified in the exemption notice as bringing its period of applicability to an end.
 
-## 10. Transfer of the obligation to set aside to another farmer[^key-796a4c584bbb24b15fd5b3e57d390a3f]
+## 10. Transfer of the obligation to set aside to another farmer[^c-796a4c584bbb24b15fd5b3e57d390a3f]
 
 (1) Where a farmer transfers his set-aside requirement either in whole or in part to another farmer purportedly in compliance with the plan submitted by the United Kingdom to the Commission of the European Communities pursuant to the second indent of Article 7(7) of Council Regulation 1765/92 as read with Article 10 of Commission Regulation 762/94, the Department shall accept that transfer as carried out in accordance with the plan where the transferee provides the evidence specified in the following paragraphs to the Department’s satisfaction.
 
@@ -293,7 +293,7 @@ or comprises a continuous area of land immediately adjoining an area of special 
 - (b) “the pre-preceding scheme year” means the scheme year immediately preceding the preceding scheme year; and
 - (c) “the pre-pre-preceding scheme year” means the scheme year immediately preceding the pre-preceding scheme year.
 
-## 11. Requirements in relation to rapeseed[^key-1ef7c630b1bc9f4f25c9c331f8823d1e]
+## 11. Requirements in relation to rapeseed[^c-1ef7c630b1bc9f4f25c9c331f8823d1e]
 
 (1) Subject to paragraphs (2) to (5), access to the compensatory payments in respect of rapeseed and colzaseed referred to in paragraph (3) of Article 4 of Commission Regulation 658/96 shall be permitted for each of the seed categories listed at sub-paragraphs (*a*) to (*e*) of that paragraph.
 
@@ -365,7 +365,7 @@ or comprises a continuous area of land immediately adjoining an area of special 
 - (g) “spring double zero rapeseed” and “spring high erucic acid rapeseed” mean respectively double zero rapeseed and high erucic acid rapeseed sown in the calendar year in which it is intended to harvest the crop derived from it; and
 - (h) where a farmer, or a servant or agent of a farmer, is a seed sampler, the authorisation concerned shall not be taken to include authorisation to take seed samples in respect of seed which is to be sown by that farmer.
 
-## 12. Delivery declarations for non-food raw materials[^key-dc43308c9d5cc613f65729bf07372d96]
+## 12. Delivery declarations for non-food raw materials[^c-dc43308c9d5cc613f65729bf07372d96]
 
 (1) The declaration which a farmer is required to make by Article 5(4) of Commission Regulation 1586/97 shall be made by 15th November in the scheme year in respect of which set-aside compensatory payments have been claimed in respect of the land used to grow the raw material referred to in that provision.
 
@@ -378,7 +378,7 @@ or comprises a continuous area of land immediately adjoining an area of special 
 - (a) by up to 10% if the declaration is made after, but not more than 20 working days after, the said date; or
 - (b) by up to 15% if the declaration is made more than 20 working days after the said date.
 
-## 13. Keeping and retention of records by a farmer[^key-08c08e6c98cd352375559307fb2d833f]
+## 13. Keeping and retention of records by a farmer[^c-08c08e6c98cd352375559307fb2d833f]
 
 (1) A farmer shall retain all commercial documents relating to seed sown on land in respect of which he makes an application for compensatory payment from the time at which he makes such application (or the time at which the commercial document concerned comes into his possession, if later) until the end of the fourth year following the year of harvest relating to that seed.
 
@@ -399,7 +399,7 @@ from the time at which he makes such application (or the time at which the comme
 - (b) a “commercial document” in relation to seed includes any invoice, seed label, sales note or delivery note relating to it, and (in relation to the cleaning and dressing of farm-saved seed) includes all invoices and delivery notes relating to such cleaning and dressing; and
 - (c) “farm-saved seed” is seed which is the product of a harvest on the holding on which it is sown.
 
-## 14. Keeping and retention of records by a collector and by a processor[^key-65b6f0fd0e468582b665027ac1255721]
+## 14. Keeping and retention of records by a collector and by a processor[^c-65b6f0fd0e468582b665027ac1255721]
 
 (1) This regulation applies where a farmer claims a compensatory payment in respect of land set aside for non-food purposes which is used for the production of Annex I raw materials.
 
@@ -421,7 +421,7 @@ from the time at which he makes such application (or the time at which the comme
 
 (5) A processor shall retain the records referred to in paragraph (4) for two years from the date on which he processes, destroys, sells or otherwise disposes of the Annex I raw materials to which they relate.
 
-## 15. Reduction or cancellation of compensatory payments for breach of Schedules 2 and 3[^key-dfe976ae57a4964df6e33b0a9c64cf1e]
+## 15. Reduction or cancellation of compensatory payments for breach of Schedules 2 and 3[^c-dfe976ae57a4964df6e33b0a9c64cf1e]
 
 (1) In the event of a breach by a farmer of any requirement of or prohibition imposed by Schedule 2 (other than those set out in its paragraphs 13(2)(*b*) and (*c*), 16(1) and 21) or by paragraph 2 of Schedule 3, the set-aside compensatory payment shall be reduced in relation to each part of an agricultural parcel in respect of which any such requirement or prohibition has been breached, by the greater of—
 
@@ -453,7 +453,7 @@ the set-aside compensatory payment he shall be entitled to receive shall be redu
 
 (6) Where a farmer has already been paid all or part of the compensatory payment to which he would have been entitled but for the application of this regulation, any amount by which the compensatory payment which he has received exceeds that to which, following the application of this regulation, he is entitled shall be treated as if it were a wrong payment which fell to be recovered in accordance with Article 14(1) of Commission Regulation 3887/92 and regulation 4A of the Integrated Administration and Control System Regulations 1993[^f00029].
 
-## 16. Rate of interest applicable where compensatory payments fall to be returned[^key-e9c56ed54aefe1252023efc36f67dbb7]
+## 16. Rate of interest applicable where compensatory payments fall to be returned[^c-e9c56ed54aefe1252023efc36f67dbb7]
 
 (1) This regulation applies where any compensatory payment is paid to a farmer by the Department and, by virtue of Article 14(1) of Commission Regulation 3887/92 (whether applying directly or treated by these Regulations as applying), the farmer is required to reimburse all or part of that payment.
 
@@ -463,7 +463,7 @@ the set-aside compensatory payment he shall be entitled to receive shall be redu
 
 (4) In any proceedings relating to this regulation, a certificate of the Department stating the LIBOR applicable during a period specified in it shall be conclusive evidence of the rate applicable in that period if the certificate also states that the Bank of England notified the Department of that rate.
 
-## 17. Powers of authorised persons[^key-9cdd22b3dd6dc6b76c05edf74f2c959d]
+## 17. Powers of authorised persons[^c-9cdd22b3dd6dc6b76c05edf74f2c959d]
 
 (1) An authorised person may at all reasonable hours and on producing, if so required, some duly authenticated document showing his authority, exercise the powers specified in this regulation for the purposes of—
 
@@ -486,11 +486,11 @@ the set-aside compensatory payment he shall be entitled to receive shall be redu
 
 (5) An authorised person entering any premises by virtue of this regulation may take with him such other persons as he considers necessary.
 
-## 18. Assistance to authorised persons[^key-37586e931fa3e5770c8d39abe0afd688]
+## 18. Assistance to authorised persons[^c-37586e931fa3e5770c8d39abe0afd688]
 
 A farmer, collector or processor or any employee or agent of a farmer, collector or processor shall give to an authorised person such assistance as the authorised person may reasonably request so as to enable the authorised person to exercise any power conferred upon him by regulation 17.
 
-## 19. Offences and penalties[^key-5b23cfecdd9f91f1b481b35e8a68faad]
+## 19. Offences and penalties[^c-5b23cfecdd9f91f1b481b35e8a68faad]
 
 (1) If any person fails to comply with an obligation imposed on him by regulation 13 or 14 he shall be guilty of an offence and shall be liable on summary conviction to a fine not exceeding level 3 on the standard scale.
 
@@ -515,7 +515,7 @@ he shall be guilty of an offence and shall be liable on summary conviction to a 
 
 (9) Where the affairs of a body corporate are managed by its members, the provisions of paragraph (8) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
 
-## 20. Revocation[^key-de32dcb2b65f20ba5e685716d71fc97e]
+## 20. Revocation[^c-de32dcb2b65f20ba5e685716d71fc97e]
 
 The Arable Area Payments Regulations (Northern Ireland) 1995[^f00030] are hereby revoked.
 
@@ -531,7 +531,7 @@ Assistant Secretary
 
 Regulation 7
 
-**1.**[^key-e4d91d160023a91c1d5d16b5a786fcf7] A farmer shall be entitled to claim set-aside compensatory payment on land which he has not farmed for a period of two years prior to the commencement of the set-aside period where:
+**1.**[^c-e4d91d160023a91c1d5d16b5a786fcf7] A farmer shall be entitled to claim set-aside compensatory payment on land which he has not farmed for a period of two years prior to the commencement of the set-aside period where:
 
 - (a) during the specified period, he—
   - (i) inherited the land or succeeded to a tenancy from year to year of it; or
@@ -551,7 +551,7 @@ Regulation 7
     - (bb) in more than one transaction and the land thereby acquired formed part of the same unit of agricultural land immediately prior to the first such transaction;
   - (ii) the eligible land which he farms within any particular production region (as specified in regulation 3(1)) (and which he is entitled to set aside under Article 7 of Council Regulation 1765/92 and Commission Regulation 762/94) is insufficient to be able to satisfy the set-aside requirement in respect of the total area on which he claims a compensatory payment (in which case he may set aside such additional eligible land within that production region as is necessary to enable him to comply with the set-aside requirement referred to above).
 
-**2.**[^key-93e2229b7e3e8f390d5674232f50f3c0] For the purposes of this Schedule—
+**2.**[^c-93e2229b7e3e8f390d5674232f50f3c0] For the purposes of this Schedule—
 
 - (a) a farmer has “relevant tenure” of agricultural land where he has entered into a tenancy or was granted a licence in respect of it or where he farms that land under a sharefarming agreement;
 - (b) “specified period” means the set-aside period and the period of two years prior to its commencement.
@@ -562,7 +562,7 @@ Regulation 9(1)
 
 ### Part A — Management Options for set-aside land
 
-#### 1. Management options for set-aside land[^key-94e98a0745295463cbf8dea958f0a99f]
+#### 1. Management options for set-aside land[^c-94e98a0745295463cbf8dea958f0a99f]
 
 (1) Subject to sub-paragraphs (2) to (4), in respect of each field or part field which is set-aside land in a particular scheme year, a farmer shall, during that particular scheme year, comply with the conditions applicable to a management option specified in one of the following heads as are indicated in the brackets following the description of the management option concerned—
 
@@ -592,7 +592,7 @@ the farmer, following the grant of that consent, need not comply with the condit
 - (a) the particular scheme year referred to in sub-paragraph (1) shall be known as “the current scheme year”, the set-aside period during that scheme year shall be known as “the current set-aside period”, the green cover season during that scheme year shall be known as “the current green cover season” and expressions such as “the previous scheme year” and “the following scheme year” shall be construed accordingly; and
 - (b) during the current scheme year it is to be taken to be the case that guaranteed set-aside land is to be set aside in the following scheme year.
 
-#### 2. The Grassland Option[^key-1a94c0fc6e4683f109ca1e7bb6c88bbd]
+#### 2. The Grassland Option[^c-1a94c0fc6e4683f109ca1e7bb6c88bbd]
 
 (1) In respect of each field or part field to be managed in accordance with the Grassland Option referred to in paragraph 1(1)(*a*), a farmer shall—
 
@@ -612,7 +612,7 @@ the farmer, following the grant of that consent, need not comply with the condit
 
 (3) For the purposes of sub-paragraph (2), seed is breeder's, pre-basic or basic seed if it is so classified in any Regulations made under the Seeds Act (Northern Ireland) 1965[^f00032] which are in operation at the time the seed intended to establish the green cover is sown.
 
-#### 3. The Natural Regeneration Option[^key-dd9b5eaf4a2a517bcfca3fc253703e81]
+#### 3. The Natural Regeneration Option[^c-dd9b5eaf4a2a517bcfca3fc253703e81]
 
 In each field or part field to be managed in accordance with the Natural Regeneration Option (referred to in paragraph 1(1)(*b*)), a farmer—
 
@@ -622,7 +622,7 @@ In each field or part field to be managed in accordance with the Natural Regener
   - (ii) if the field or part field is to be set aside in the following scheme year (but is not to be used as land set aside for non-food purposes), to the end of the current scheme year; and
 - (c) shall cut or destroy the green cover in accordance with paragraph 7.
 
-#### 4. The Wild Bird Cover Option[^key-3b60ecb1d0d0d4184a1adbb96d9ed5bc]
+#### 4. The Wild Bird Cover Option[^c-3b60ecb1d0d0d4184a1adbb96d9ed5bc]
 
 (1) In each field or part field to be managed in accordance with the Wild Bird Cover Option (referred to in paragraph 1(1)(*c*)), a farmer—
 
@@ -649,7 +649,7 @@ In each field or part field to be managed in accordance with the Natural Regener
 
 (2) A farmer shall ensure, when replacing the green cover pursuant to sub-paragraph (1)(*c*), (*d*) or (*e*), that the requirements of paragraph 15(1)(*a*) to (*c*) are satisfied.
 
-#### 5. The Field Margins Option[^key-5775eed43a0a8e9f7f3585ac5a208eb5]
+#### 5. The Field Margins Option[^c-5775eed43a0a8e9f7f3585ac5a208eb5]
 
 (1) In each part field to be managed in accordance with the Field Margins Option (referred to in paragraph 1(1)(*d*)), a farmer—
 
@@ -677,14 +677,14 @@ In each field or part field to be managed in accordance with the Natural Regener
 
 (3) For the purposes of sub-paragraph (2), seed is breeder's, pre-basic or basic seed if it is so classified in any Regulations made under the Seeds Act (Northern Ireland) 1965 which are in operation at the time the seed intended to establish the green cover is sown.
 
-#### 6. The Penalty Set-Aside/Existing Crop Option[^key-7c3af2ff076a313ddd17c730eed6b03c]
+#### 6. The Penalty Set-Aside/Existing Crop Option[^c-7c3af2ff076a313ddd17c730eed6b03c]
 
 In each field or part field to be managed in accordance with the Penalty Set-Aside/Existing Crop Option (referred to in paragraph 1(1)(*e*)) a farmer shall—
 
 - (a) subject to paragraphs 9, 14 and 15, maintain throughout the current green cover season any natural cover which develops on that land; and
 - (b) cut or destroy any natural cover which develops on the land in accordance with paragraph 7.
 
-#### 7. Cutting or destruction of the green cover[^key-6c4a721938e484d1c17edfb6ab7294ad]
+#### 7. Cutting or destruction of the green cover[^c-6c4a721938e484d1c17edfb6ab7294ad]
 
 (1) In each field or part field to which this paragraph is applied by virtue of any of paragraphs 2 to 6, a farmer shall either—
 
@@ -696,7 +696,7 @@ In each field or part field to be managed in accordance with the Penalty Set-Asi
 - (a) leave a strip of green cover up to 2 metres wide uncut adjacent to any hedge or woodland; and
 - (b) in the case of a field which is to be set aside in the following scheme year, leave a further 25% of the area set aside in that field uncut provided that any area left uncut in accordance with this paragraph which has also been left uncut in the previous two scheme years in accordance with this paragraph is cut in accordance with sub-paragraph (1) in the following scheme year.
 
-#### 8. Exemptions from the requirement to establish a green cover on set-aside land[^key-3e5c4024b61dbefe5566146879fa24c5]
+#### 8. Exemptions from the requirement to establish a green cover on set-aside land[^c-3e5c4024b61dbefe5566146879fa24c5]
 
 (1) In relation to each field or part field to which this paragraph is applied by virtue of any of paragraphs 2 to 6, a farmer shall by virtue of this provision be treated as having been exempted from a requirement to establish a green cover by the start of the current green cover season where he satisfies the Department that for climatic reasons it was not practicable for there to be such a green cover by that time, in which case he shall establish a green cover as soon as reasonably possible thereafter.
 
@@ -706,7 +706,7 @@ In each field or part field to be managed in accordance with the Penalty Set-Asi
 - (b) a strip of land up to 2 metres wide at the edge of land set aside, where the land set aside adjoins land planted with a seed crop; or
 - (c) a strip of land up to 5 metres wide at the edge of the land set aside in any place where vehicular access to that land from a road or track adjacent to that land may be possible, provided that the strip is ploughed and left as bare fallow.
 
-#### 9. Exemptions from the requirement to maintain a green cover on set-aside land[^key-a70dd9f611f5ec063c33196adbcb67ff]
+#### 9. Exemptions from the requirement to maintain a green cover on set-aside land[^c-a70dd9f611f5ec063c33196adbcb67ff]
 
 (1) In each field or part field to which this paragraph is applied by virtue of any of paragraphs 2 to 6, a farmer shall be exempt from a requirement to maintain a green cover on set-aside land (except for guaranteed set-aside land and environmental transferred set-aside land) where that green cover is destroyed following the application of herbicide to the land on or after 15th April in the current scheme year in accordance with paragraph 20(1), which exemption shall run from the time of the application until (where the land is to be set aside in the following scheme year but is not to be used as land set aside for non-food purposes) the commencement of the following green cover season.
 
@@ -716,19 +716,19 @@ In each field or part field to be managed in accordance with the Penalty Set-Asi
 
 ### Part B — General Management Conditions Applying to All Set-aside Land
 
-#### 10. Application of conditions to all set-aside land[^key-8a36b08b3cb2d232b871f793b534d520]
+#### 10. Application of conditions to all set-aside land[^c-8a36b08b3cb2d232b871f793b534d520]
 
 The provisions in paragraphs 11 to 21 apply to all set-aside land managed by a farmer in accordance with any of the provisions of paragraphs 1 to 9.
 
-#### 11. Restriction on cutting the green cover[^key-a9b0c8f384b3cf97f670e49f19d24513]
+#### 11. Restriction on cutting the green cover[^c-a9b0c8f384b3cf97f670e49f19d24513]
 
 Where a farmer has applied a non-selective herbicide to set-aside land during the current set-aside period but not earlier than 15th April and not later than 30th June during that period, then he shall not subsequently cut any green cover on that set-aside land before the 1st July prior to the end of that period.
 
-#### 12. Prohibition on sowing and preparation for sowing a crop on the set-aside land and cultivation of the set-aside land[^key-1704877ded5eb58303b94dfc669d97ff]
+#### 12. Prohibition on sowing and preparation for sowing a crop on the set-aside land and cultivation of the set-aside land[^c-1704877ded5eb58303b94dfc669d97ff]
 
 Subject to paragraphs 13 and 14, prior to the end of the current set-aside period, a farmer shall not sow or carry out any preparation for sowing a crop on the set-aside land concerned, nor shall he otherwise cultivate the set-aside land.
 
-#### 13. Exemptions from the prohibition on sowing and preparation for sowing a crop on the set-aside land[^key-09b46ad632276b24aa5c54052c28c7c5]
+#### 13. Exemptions from the prohibition on sowing and preparation for sowing a crop on the set-aside land[^c-09b46ad632276b24aa5c54052c28c7c5]
 
 (1) Subject to sub-paragraph (2), a farmer may make preparations for sowing and sow any arable crop, temporary grass ley, traditional forage crop or other permitted crop on or after 15th July prior to the end of the current set-aside period.
 
@@ -747,14 +747,14 @@ Subject to paragraphs 13 and 14, prior to the end of the current set-aside perio
 - (c) cane fruits; or
 - (d) strawberries.
 
-#### 14. Conditions regarding the cultivation of the set-aside land[^key-fcfd5adf5f94249985dc8626121baa4e]
+#### 14. Conditions regarding the cultivation of the set-aside land[^c-fcfd5adf5f94249985dc8626121baa4e]
 
 A farmer may cultivate the land (except where the land is guaranteed set-aside land or environmental transferred set-aside land) for the purpose of controlling weeds—
 
 - (a) where he is not an accepted organic farmer, at any time on or after 1st July prior to the end of the current set-aside period, and
 - (b) where he is an accepted organic farmer, at any time on or after 1st May prior to the end of the current set-aside period.
 
-#### 15. Replacement of the green cover and changing management options[^key-d88bf6592a755bf2e956f337640be64a]
+#### 15. Replacement of the green cover and changing management options[^c-d88bf6592a755bf2e956f337640be64a]
 
 (1) Subject to sub-paragraphs (2) and (3), in any period during which a farmer is required to maintain a green cover in a field or part field, he may nevertheless replace that green cover with another provided that—
 
@@ -781,7 +781,7 @@ except that he shall not be required to establish a green cover (as required by 
 
 (4) Where a farmer is exempted from a requirement to maintain a green cover pursuant to regulation 9, he shall (unless also exempted from the requirements of this sub-paragraph pursuant to that regulation) replace the green cover once destroyed in accordance with sub-paragraphs (1) to (3).
 
-#### 16. Use of the green cover[^key-abec4c339687b3c6bb7dfcb9ea711bf0]
+#### 16. Use of the green cover[^c-abec4c339687b3c6bb7dfcb9ea711bf0]
 
 (1) A farmer shall ensure that, subject to sub-paragraph (2), no green cover or cuttings produced by cutting any green cover are used for any commercial or agricultural purpose.
 
@@ -794,7 +794,7 @@ except that he shall not be required to establish a green cover (as required by 
 - (a) removed from the set-aside land except in accordance with sub-paragraph (2) or with the prior consent of the Department; or
 - (b) burnt on the set-aside land except with the prior consent of the Department.
 
-#### 17. Prohibition on the application of fertilisers, lime and waste to the set-aside land[^key-d4189f878a731593af194f18034f4081]
+#### 17. Prohibition on the application of fertilisers, lime and waste to the set-aside land[^c-d4189f878a731593af194f18034f4081]
 
 A farmer shall not apply any fertiliser, lime or waste to the set-aside land concerned except in accordance with—
 
@@ -802,7 +802,7 @@ A farmer shall not apply any fertiliser, lime or waste to the set-aside land con
 - (b) paragraph 23 where the land is guaranteed set-aside land; or
 - (c) paragraph 25 where the land is environmental transferred set-aside land.
 
-#### 18. Application of fertiliser, waste and lime to land which is neither guaranteed set-aside land nor environmental transferred set-aside land[^key-4f41c52ea2165617f099c132f26e0aaf]
+#### 18. Application of fertiliser, waste and lime to land which is neither guaranteed set-aside land nor environmental transferred set-aside land[^c-4f41c52ea2165617f099c132f26e0aaf]
 
 (1) A farmer may apply fertiliser to set-aside land if prior to such application he satisfies the Department that the land is situated in an area known to be used as a feeding area by geese in winter and is to be managed as such an area.
 
@@ -814,11 +814,11 @@ A farmer shall not apply any fertiliser, lime or waste to the set-aside land con
 
 (5) A farmer may apply lime to set-aside land where that land is to be cropped in the following scheme year.
 
-#### 19. Application of fungicides and insecticides to the set-aside land[^key-0706a0ebfd582eab8d91b6629cac6988]
+#### 19. Application of fungicides and insecticides to the set-aside land[^c-0706a0ebfd582eab8d91b6629cac6988]
 
 A farmer shall not apply fungicides or insecticides to the set-aside land concerned.
 
-#### 20. Application of herbicides to the set-aside land[^key-22ff652baf5a37eac2477dfbe40afec2]
+#### 20. Application of herbicides to the set-aside land[^c-22ff652baf5a37eac2477dfbe40afec2]
 
 (1) Subject to sub-paragraph (2), a farmer shall not apply herbicide to the set-aside land concerned unless—
 
@@ -833,7 +833,7 @@ A farmer shall not apply fungicides or insecticides to the set-aside land concer
 
 (2) The Department shall on application from a farmer exempt him from the restriction imposed by sub-paragraph (1) so as to permit him to apply any herbicide to set-aside land in order to create a bare fallow strip permitted by paragraph 8(2) or keep such a strip bare, where the Department is satisfied that the application of herbicides in accordance with sub-paragraph (1)(*b*)(iv) has not been effective to prevent the growth of vegetation on that strip.
 
-#### 21. Retention of features on the set-aside land[^key-fe16ee14b3c0b2133346073041f29924]
+#### 21. Retention of features on the set-aside land[^c-fe16ee14b3c0b2133346073041f29924]
 
 A farmer shall not damage, destroy or remove—
 
@@ -847,11 +847,11 @@ which is situated on or adjacent to the set-aside land concerned unless he satis
 
 ### Part C — Special conditions Applying to Guaranteed Set-aside Land
 
-#### 22. Application of conditions to guaranteed set-aside land[^key-7efc33a43cbccd60fac6d30ac178d273]
+#### 22. Application of conditions to guaranteed set-aside land[^c-7efc33a43cbccd60fac6d30ac178d273]
 
 The provisions of paragraphs 23 and 24 apply to guaranteed set-aside land.
 
-#### 23. Application of fertiliser, waste and lime to guaranteed set-aside land[^key-77ffd247f5378af494dc03bae04c035b]
+#### 23. Application of fertiliser, waste and lime to guaranteed set-aside land[^c-77ffd247f5378af494dc03bae04c035b]
 
 (1) Where guaranteed set-aside land is managed in accordance with paragraph 4, fertiliser may be applied to that land at any time between 1st March and 31st May (both dates inclusive) during the current scheme year where a green cover is to be established in accordance with that paragraph during that scheme year, provided that the total nitrogen content of all fertiliser applied to any agricultural parcel of the land during that period shall be no more than 30 kilograms per hectare of that parcel and that any fertiliser so applied contains no potassium or phosphorus in any form.
 
@@ -868,7 +868,7 @@ The provisions of paragraphs 23 and 24 apply to guaranteed set-aside land.
 
 (5) A farmer may apply lime to guaranteed set-aside land during the current scheme year where the current scheme year is the last one to which his undertaking to set aside the land (pursuant to Article 5 of Commission Regulation 762/94) is applicable and the land is to be cropped in the following scheme year.
 
-#### 24. Permitted agricultural production[^key-c30a649d6a98c02904bfd4c6b6fe413e]
+#### 24. Permitted agricultural production[^c-c30a649d6a98c02904bfd4c6b6fe413e]
 
 (1) A farmer may undertake permitted agricultural production on guaranteed set-aside land only to such extent as does not result in overgrazing of that land.
 
@@ -876,7 +876,7 @@ The provisions of paragraphs 23 and 24 apply to guaranteed set-aside land.
 
 ### Part D — Exception Relating to Environmental Transferred Set-aside Land
 
-#### 25. The application of organic waste and lime[^key-44e32bf2b807d1697ff9129ef67f2288]
+#### 25. The application of organic waste and lime[^c-44e32bf2b807d1697ff9129ef67f2288]
 
 (1) A farmer may apply organic waste to an agricultural parcel of environmental transferred set-aside land where that waste was created as a result of the maintenance of a tree, hedge, stream or ditch on or immediately adjoining that agricultural parcel.
 
@@ -886,7 +886,7 @@ The provisions of paragraphs 23 and 24 apply to guaranteed set-aside land.
 
 Regulation 9(2)
 
-### 1. Retention of features on the set-aside land[^key-48c992dbcab5bee243a42adcdc7438a2]
+### 1. Retention of features on the set-aside land[^c-48c992dbcab5bee243a42adcdc7438a2]
 
 A farmer shall not damage, destroy or remove—
 
@@ -898,11 +898,11 @@ A farmer shall not damage, destroy or remove—
 
 which is situated on or adjacent to the set-aside land concerned unless he satisfies the Department either that it should be damaged, destroyed or removed for environmental or for safety reasons or that he is obliged to do so to comply with a legal requirement.
 
-### 2. Application of fertilisers and waste to the set-aside land[^key-28d38f00988d4d3ef5b4d5933b78d9e6]
+### 2. Application of fertilisers and waste to the set-aside land[^c-28d38f00988d4d3ef5b4d5933b78d9e6]
 
 If a farmer applies any fertiliser or waste to the set-aside land he shall only do so in accordance with the needs of the specified raw materials being produced on it.
 
-### 3. Adjustment or annulment of contracts relating to the provision of specified raw materials grown on set-aside land[^key-978d5d5408bdf9799d4defd08f1948d3]
+### 3. Adjustment or annulment of contracts relating to the provision of specified raw materials grown on set-aside land[^c-978d5d5408bdf9799d4defd08f1948d3]
 
 (1) A farmer shall not adjust or annul any contract relating to set-aside land concerned, submitted to the Department in accordance with Article 4(1) of Commission Regulation 1586/97, pursuant to Article 5(2) of that Regulation, unless he has notified the Department of the proposed adjustment or annulment, and the collector or processor with whom the contract was made has similarly notified the Intervention Board for Agricultural Produce at least 10 working days before such adjustment or annulment takes effect.
 
@@ -959,9 +959,9 @@ The Regulations also—
 
 [^f00002]: Footnote: [1972 c. 68](https://www.legislation.gov.uk/ukpga/1972/68); section 2 is subject to Schedule 2 to that Act and is to be read with [S.I. 1984/703 (N.I. 3)](https://www.legislation.gov.uk/nisi/1984/703) and [S.I. 1994/2795 (N.I. 15)](https://www.legislation.gov.uk/nisi/1994/2795)
 
-[^key-8bc9c2122378d511a8ea4438a623990f]: Commencement: Reg. 1 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-8bc9c2122378d511a8ea4438a623990f]: Commencement: Reg. 1 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-b92762be162ca6cbacffebec345bb28a]: Commencement: Reg. 2 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-b92762be162ca6cbacffebec345bb28a]: Commencement: Reg. 2 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
 [^f00003]: Footnote: O.J. No. L281, 25.9.92, p. 5, repealed by Commission Regulation 658/96 (O.J. No. L91, 12.4.96, p. 46)
 
@@ -993,17 +993,17 @@ The Regulations also—
 
 [^f00017]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-d18ccb40ef4ec7310d2e2d2cffc626c8]: Commencement: Reg. 3 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-d18ccb40ef4ec7310d2e2d2cffc626c8]: Commencement: Reg. 3 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
 [^f00018]: Footnote: O.J. No. L128, 19.5.75, p. 1, as last amended by the Act concerning the conditions of accession of the Republic of Austria, the Republic of Finland and Kingdom of Sweden and the adjustments to the Treaties on which the European Union is founded
 
 [^f00019]: Footnote: O.J. No. L82, 26.3.84, p. 67, as amended by Commission Decision [91/25/EEC](https://www.legislation.gov.uk/european/decision/1991/0025) (O.J. No. L16, 22.1.91, p. 25)
 
-[^key-f9edbe403759304870d60d8fc3d6bf3e]: Commencement: Reg. 4 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-f9edbe403759304870d60d8fc3d6bf3e]: Commencement: Reg. 4 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-afb7675d0106a7dfdbf971391d05fdab]: Commencement: Reg. 5 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-afb7675d0106a7dfdbf971391d05fdab]: Commencement: Reg. 5 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-a5bd880955f004893e95bf6c16ec67aa]: Commencement: Reg. 6 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-a5bd880955f004893e95bf6c16ec67aa]: Commencement: Reg. 6 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
 [^f00020]: Footnote: [S.I. 1985/170 (N.I. 1)](https://www.legislation.gov.uk/nisi/1985/170) as amended by [S.I. 1989/492 (N.I.3)](https://www.legislation.gov.uk/nisi/1989/492)
 
@@ -1015,110 +1015,110 @@ The Regulations also—
 
 [^f00024]: Footnote: [S.I. 1995/1625 (N.I. 9)](https://www.legislation.gov.uk/nisi/1995/1625)
 
-[^key-500180c33a7f5f8b36a69e4f7c06cde0]: Commencement: Reg. 7 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-500180c33a7f5f8b36a69e4f7c06cde0]: Commencement: Reg. 7 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-c28468da9da4591ea89d26c527bc18f7]: Commencement: Reg. 8 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-c28468da9da4591ea89d26c527bc18f7]: Commencement: Reg. 8 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-783a4d8ca3cfdd5cfa3300a4ea56dbc1]: Commencement: Reg. 9 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-783a4d8ca3cfdd5cfa3300a4ea56dbc1]: Commencement: Reg. 9 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
 [^f00025]: Footnote: [1964 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1964/33)
 
 [^f00026]: Footnote: [S.I. 1977/52 (N.I. 1)](https://www.legislation.gov.uk/nisi/1977/52)
 
-[^key-796a4c584bbb24b15fd5b3e57d390a3f]: Commencement: Reg. 10 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-796a4c584bbb24b15fd5b3e57d390a3f]: Commencement: Reg. 10 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
 [^f00027]: Footnote: [S.I. 1985/170 (N.I. 1)](https://www.legislation.gov.uk/nisi/1985/170)
 
-[^key-1ef7c630b1bc9f4f25c9c331f8823d1e]: Commencement: Reg. 11 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-1ef7c630b1bc9f4f25c9c331f8823d1e]: Commencement: Reg. 11 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-dc43308c9d5cc613f65729bf07372d96]: Commencement: Reg. 12 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-dc43308c9d5cc613f65729bf07372d96]: Commencement: Reg. 12 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-08c08e6c98cd352375559307fb2d833f]: Commencement: Reg. 13 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-08c08e6c98cd352375559307fb2d833f]: Commencement: Reg. 13 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-65b6f0fd0e468582b665027ac1255721]: Commencement: Reg. 14 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-65b6f0fd0e468582b665027ac1255721]: Commencement: Reg. 14 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-dfe976ae57a4964df6e33b0a9c64cf1e]: Commencement: Reg. 15 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-dfe976ae57a4964df6e33b0a9c64cf1e]: Commencement: Reg. 15 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
 [^f00028]: Footnote: O.J. No. L391, 31.12.92, p. 36, as last amended by Commission Regulation [(EC) No. 2015/95](https://www.legislation.gov.uk/european/regulation/1995/2015) (O.J. No. L197, 22.8.95, p. 2)
 
 [^f00029]: Footnote: [S.I. 1993/1317](https://www.legislation.gov.uk/uksi/1993/1317), as amended by [S.I. 1994/1134](https://www.legislation.gov.uk/uksi/1994/1134)
 
-[^key-e9c56ed54aefe1252023efc36f67dbb7]: Commencement: Reg. 16 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-e9c56ed54aefe1252023efc36f67dbb7]: Commencement: Reg. 16 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-9cdd22b3dd6dc6b76c05edf74f2c959d]: Commencement: Reg. 17 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-9cdd22b3dd6dc6b76c05edf74f2c959d]: Commencement: Reg. 17 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-37586e931fa3e5770c8d39abe0afd688]: Commencement: Reg. 18 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-37586e931fa3e5770c8d39abe0afd688]: Commencement: Reg. 18 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-5b23cfecdd9f91f1b481b35e8a68faad]: Commencement: Reg. 19 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-5b23cfecdd9f91f1b481b35e8a68faad]: Commencement: Reg. 19 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-de32dcb2b65f20ba5e685716d71fc97e]: Commencement: Reg. 20 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-de32dcb2b65f20ba5e685716d71fc97e]: Commencement: Reg. 20 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
 [^f00030]: Footnote: [S.R. 1995/381](https://www.legislation.gov.uk/nisr/1995/381)
 
-[^key-e4d91d160023a91c1d5d16b5a786fcf7]: Commencement: Sch. 1 para. 1 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-e4d91d160023a91c1d5d16b5a786fcf7]: Commencement: Sch. 1 para. 1 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-93e2229b7e3e8f390d5674232f50f3c0]: Commencement: Sch. 1 para. 2 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-93e2229b7e3e8f390d5674232f50f3c0]: Commencement: Sch. 1 para. 2 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-94e98a0745295463cbf8dea958f0a99f]: Commencement: Sch. 2 para. 1 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-94e98a0745295463cbf8dea958f0a99f]: Commencement: Sch. 2 para. 1 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
 [^f00031]: Footnote: [S.R. 1995 No. 134](https://www.legislation.gov.uk/nisr/1995/134) as amended by [S.R. 1996 No. 608](https://www.legislation.gov.uk/nisr/1996/608)
 
-[^key-1a94c0fc6e4683f109ca1e7bb6c88bbd]: Commencement: Sch. 2 para. 2 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-1a94c0fc6e4683f109ca1e7bb6c88bbd]: Commencement: Sch. 2 para. 2 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
 [^f00032]: Footnote: [1965 c. 22 (N.I.)](https://www.legislation.gov.uk/apni/1965/22) as amended by [S.R. & O. (N.I.) 1972 No. 351](https://www.legislation.gov.uk/nisro/1972/351)
 
-[^key-dd9b5eaf4a2a517bcfca3fc253703e81]: Commencement: Sch. 2 para. 3 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-dd9b5eaf4a2a517bcfca3fc253703e81]: Commencement: Sch. 2 para. 3 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-3b60ecb1d0d0d4184a1adbb96d9ed5bc]: Commencement: Sch. 2 para. 4 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-3b60ecb1d0d0d4184a1adbb96d9ed5bc]: Commencement: Sch. 2 para. 4 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-5775eed43a0a8e9f7f3585ac5a208eb5]: Commencement: Sch. 2 para. 5 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-5775eed43a0a8e9f7f3585ac5a208eb5]: Commencement: Sch. 2 para. 5 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-7c3af2ff076a313ddd17c730eed6b03c]: Commencement: Sch. 2 para. 6 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-7c3af2ff076a313ddd17c730eed6b03c]: Commencement: Sch. 2 para. 6 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-6c4a721938e484d1c17edfb6ab7294ad]: Commencement: Sch. 2 para. 7 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-6c4a721938e484d1c17edfb6ab7294ad]: Commencement: Sch. 2 para. 7 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-3e5c4024b61dbefe5566146879fa24c5]: Commencement: Sch. 2 para. 8 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-3e5c4024b61dbefe5566146879fa24c5]: Commencement: Sch. 2 para. 8 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-a70dd9f611f5ec063c33196adbcb67ff]: Commencement: Sch. 2 para. 9 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-a70dd9f611f5ec063c33196adbcb67ff]: Commencement: Sch. 2 para. 9 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-8a36b08b3cb2d232b871f793b534d520]: Commencement: Sch. 2 para. 10 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-8a36b08b3cb2d232b871f793b534d520]: Commencement: Sch. 2 para. 10 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-a9b0c8f384b3cf97f670e49f19d24513]: Commencement: Sch. 2 para. 11 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-a9b0c8f384b3cf97f670e49f19d24513]: Commencement: Sch. 2 para. 11 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-1704877ded5eb58303b94dfc669d97ff]: Commencement: Sch. 2 para. 12 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-1704877ded5eb58303b94dfc669d97ff]: Commencement: Sch. 2 para. 12 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-09b46ad632276b24aa5c54052c28c7c5]: Commencement: Sch. 2 para. 13 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-09b46ad632276b24aa5c54052c28c7c5]: Commencement: Sch. 2 para. 13 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-fcfd5adf5f94249985dc8626121baa4e]: Commencement: Sch. 2 para. 14 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-fcfd5adf5f94249985dc8626121baa4e]: Commencement: Sch. 2 para. 14 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-d88bf6592a755bf2e956f337640be64a]: Commencement: Sch. 2 para. 15 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-d88bf6592a755bf2e956f337640be64a]: Commencement: Sch. 2 para. 15 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-abec4c339687b3c6bb7dfcb9ea711bf0]: Commencement: Sch. 2 para. 16 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-abec4c339687b3c6bb7dfcb9ea711bf0]: Commencement: Sch. 2 para. 16 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-d4189f878a731593af194f18034f4081]: Commencement: Sch. 2 para. 17 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-d4189f878a731593af194f18034f4081]: Commencement: Sch. 2 para. 17 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-4f41c52ea2165617f099c132f26e0aaf]: Commencement: Sch. 2 para. 18 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-4f41c52ea2165617f099c132f26e0aaf]: Commencement: Sch. 2 para. 18 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-0706a0ebfd582eab8d91b6629cac6988]: Commencement: Sch. 2 para. 19 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-0706a0ebfd582eab8d91b6629cac6988]: Commencement: Sch. 2 para. 19 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-22ff652baf5a37eac2477dfbe40afec2]: Commencement: Sch. 2 para. 20 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-22ff652baf5a37eac2477dfbe40afec2]: Commencement: Sch. 2 para. 20 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
 [^f00033]: Footnote: [S.R. 1987 No. 414](https://www.legislation.gov.uk/nisr/1987/414) as amended by [S.R. 1997 No. 469](https://www.legislation.gov.uk/nisr/1997/469)
 
 [^f00034]: Footnote: [S.R. 1995 No. 371](https://www.legislation.gov.uk/nisr/1995/371) as amended by [S.R. 1996 No. 456](https://www.legislation.gov.uk/nisr/1996/456) and [S.R. 1997 No. 471](https://www.legislation.gov.uk/nisr/1997/471)
 
-[^key-fe16ee14b3c0b2133346073041f29924]: Commencement: Sch. 2 para. 21 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-fe16ee14b3c0b2133346073041f29924]: Commencement: Sch. 2 para. 21 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-7efc33a43cbccd60fac6d30ac178d273]: Commencement: Sch. 2 para. 22 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-7efc33a43cbccd60fac6d30ac178d273]: Commencement: Sch. 2 para. 22 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-77ffd247f5378af494dc03bae04c035b]: Commencement: Sch. 2 para. 23 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-77ffd247f5378af494dc03bae04c035b]: Commencement: Sch. 2 para. 23 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-c30a649d6a98c02904bfd4c6b6fe413e]: Commencement: Sch. 2 para. 24 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-c30a649d6a98c02904bfd4c6b6fe413e]: Commencement: Sch. 2 para. 24 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-44e32bf2b807d1697ff9129ef67f2288]: Commencement: Sch. 2 para. 25 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-44e32bf2b807d1697ff9129ef67f2288]: Commencement: Sch. 2 para. 25 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-48c992dbcab5bee243a42adcdc7438a2]: Commencement: Sch. 3 para. 1 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-48c992dbcab5bee243a42adcdc7438a2]: Commencement: Sch. 3 para. 1 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-28d38f00988d4d3ef5b4d5933b78d9e6]: Commencement: Sch. 3 para. 2 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-28d38f00988d4d3ef5b4d5933b78d9e6]: Commencement: Sch. 3 para. 2 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
 
-[^key-978d5d5408bdf9799d4defd08f1948d3]: Commencement: Sch. 3 para. 3 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)
+[^c-978d5d5408bdf9799d4defd08f1948d3]: Commencement: Sch. 3 para. 3 in operation at 12.12.1997, see [reg. 1](https://www.legislation.gov.uk/nisr/1997/477/regulation/1)

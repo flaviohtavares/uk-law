@@ -22,7 +22,7 @@ summary: ''
 
 Regulation 21(2)
 
-### PART 1 — Notices served by the Environment Agency, the Natural Resources Body for Wales, the Scottish Environment Protection Agency or the Department of the Environment[^key-ef646756235fed913aa3bccb30404fc1]
+### PART 1 — Notices served by the Environment Agency, the Natural Resources Body for Wales, the Scottish Environment Protection Agency or the Department of the Environment[^c-ef646756235fed913aa3bccb30404fc1]
 
 **1.** The appeal body means, where the notice is served by—
 
@@ -41,29 +41,29 @@ Regulation 21(2)
 
 **6.** In relation to the making and determination of appeals under this section, the appeal body may adopt such procedures as it sees fit.
 
-**7.**[^key-ce235fd9cea940d16b6d9247e8f77d83] The appeal body may—
+**7.**[^c-ce235fd9cea940d16b6d9247e8f77d83] The appeal body may—
 
 - (a) appoint a person, with or without payment, to determine the appeal;
 - (b) refer any matter involved in the appeal to such person as that body may appoint for that purpose, with or without payment.
 
-### PART 2 — Notices served by the Health and Safety Executive, the Health and Safety Executive for Northern Ireland , the Office for Nuclear Regulation or local (health and safety) authorities[^key-fd2d504343f0907942071a405cbb91ca]
+### PART 2 — Notices served by the Health and Safety Executive, the Health and Safety Executive for Northern Ireland , the Office for Nuclear Regulation or local (health and safety) authorities[^c-fd2d504343f0907942071a405cbb91ca]
 
 **1.** An appeal may be made to a tribunal.
 
-**2.** The Employment Tribunal Procedure Rules 2024 apply[^key-140a6490b6920b30a5319fb44c4383d6] to a notice served in Great Britain by—
+**2.** The Employment Tribunal Procedure Rules 2024 apply[^c-140a6490b6920b30a5319fb44c4383d6] to a notice served in Great Britain by—
 
 - (a) the Health and Safety Executive;
 - (aa)[^M_F_2052b1f3-ad6d-4bda-a04b-0f0c912cf370] the Office for Nuclear Regulation;
 - (b) a local (health and safety) authority.
 
-**3.** Under paragraph 2, an enforcement notice is to be treated in the same way as an improvement notice for the purposes of the 2024 Rules[^key-9406b3278b96d98f3abd12cb07c17ae2] referred to.
+**3.** Under paragraph 2, an enforcement notice is to be treated in the same way as an improvement notice for the purposes of the 2024 Rules[^c-9406b3278b96d98f3abd12cb07c17ae2] referred to.
 
-**4.** Rule 102 of Schedule 1 to the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^key-c5e6e6e858ceec274a088587e58a54ec] applies to a notice served in Northern Ireland by—
+**4.** Rule 102 of Schedule 1 to the Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020[^c-c5e6e6e858ceec274a088587e58a54ec] applies to a notice served in Northern Ireland by—
 
 - (a) the Health and Safety Executive for Northern Ireland;
 - (b) a local (health and safety) authority.
 
-**5.** Under paragraph 4, an enforcement notice is to be treated in the same way as an improvement notice for the purposes of Schedule 1[^key-3eb1c5314ee33b18cb478a7e3b54ba8d] referred to.
+**5.** Under paragraph 4, an enforcement notice is to be treated in the same way as an improvement notice for the purposes of Schedule 1[^c-3eb1c5314ee33b18cb478a7e3b54ba8d] referred to.
 
 **6.** The tribunal may cancel or affirm the notice and, if it affirms it, may do so in its original form or with such modifications as the tribunal may in the circumstances see fit.
 
@@ -137,25 +137,25 @@ has the same meaning as it has in the Civil Jurisdiction (Offshore Activities) O
 
 ## Annotations
 
-[^key-ef646756235fed913aa3bccb30404fc1]: Textual amendment: Words in Sch. 8 Pt. 1 heading inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 309(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/309/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
+[^c-ef646756235fed913aa3bccb30404fc1]: Textual amendment: Words in Sch. 8 Pt. 1 heading inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 309(2)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/309/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^M_F_426fc411-c11b-447b-af4b-439c973705a6]: Textual amendment: Sch. 8 Pt. 1 para. 1(a) substituted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 309(2)(a)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/309/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
 [^M_F_30c72755-2d96-46c6-ec81-2c6407c4055d]: Textual amendment: Sch. 8 Pt. 1 para. 1(aa) inserted (1.4.2013) by [The Natural Resources Body for Wales (Functions) Order 2013 (S.I. 2013/755)](https://www.legislation.gov.uk/wsi/2013/755), [art. 1(2)](https://www.legislation.gov.uk/wsi/2013/755/article/1/2), [Sch. 4 para. 309(2)(b)](https://www.legislation.gov.uk/wsi/2013/755/schedule/4/paragraph/309/2) (with [Sch. 7](https://www.legislation.gov.uk/wsi/2013/755/schedule/7))
 
-[^key-ce235fd9cea940d16b6d9247e8f77d83]: Textual amendment: Sch. 8 Pt.1 para. 7 inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [14](https://www.legislation.gov.uk/uksi/2013/2919/regulation/14)
+[^c-ce235fd9cea940d16b6d9247e8f77d83]: Textual amendment: Sch. 8 Pt.1 para. 7 inserted (16.12.2013) by [The REACH Enforcement (Amendment) Regulations 2013 (S.I. 2013/2919)](https://www.legislation.gov.uk/uksi/2013/2919), [regs. 1(b)](https://www.legislation.gov.uk/uksi/2013/2919/regulation/1/b), [14](https://www.legislation.gov.uk/uksi/2013/2919/regulation/14)
 
-[^key-fd2d504343f0907942071a405cbb91ca]: Textual amendment: Words in Sch. 8 Pt. 2 heading inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 142(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/142/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
+[^c-fd2d504343f0907942071a405cbb91ca]: Textual amendment: Words in Sch. 8 Pt. 2 heading inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 142(2)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/142/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-140a6490b6920b30a5319fb44c4383d6]: Textual amendment: Words in [Sch. 8 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/2852/schedule/8/part/2/paragraph/2) substituted (6.1.2025) by [The Employment Tribunals (Procedure Rules) (Consequential Amendments) Regulations 2024 (S.I. 2024/1156)](https://www.legislation.gov.uk/uksi/2024/1156), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/3/2/a)
+[^c-140a6490b6920b30a5319fb44c4383d6]: Textual amendment: Words in [Sch. 8 Pt. 2 para. 2](https://www.legislation.gov.uk/uksi/2008/2852/schedule/8/part/2/paragraph/2) substituted (6.1.2025) by [The Employment Tribunals (Procedure Rules) (Consequential Amendments) Regulations 2024 (S.I. 2024/1156)](https://www.legislation.gov.uk/uksi/2024/1156), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/1/1), [3(2)(a)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/3/2/a)
 
 [^M_F_2052b1f3-ad6d-4bda-a04b-0f0c912cf370]: Textual amendment: Sch. 8 Pt. 2 para. 2(aa) inserted (1.4.2014) by [The Energy Act 2013 (Office for Nuclear Regulation) (Consequential Amendments, Transitional Provisions and Savings) Order 2014 (S.I. 2014/469)](https://www.legislation.gov.uk/uksi/2014/469), [art. 1(2)](https://www.legislation.gov.uk/uksi/2014/469/article/1/2), [Sch. 3 para. 142(3)](https://www.legislation.gov.uk/uksi/2014/469/schedule/3/paragraph/142/2) (with [Sch. 4](https://www.legislation.gov.uk/uksi/2014/469/schedule/4))
 
-[^key-9406b3278b96d98f3abd12cb07c17ae2]: Textual amendment: Words in [Sch. 8 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/2008/2852/schedule/8/part/2/paragraph/3) substituted (6.1.2025) by [The Employment Tribunals (Procedure Rules) (Consequential Amendments) Regulations 2024 (S.I. 2024/1156)](https://www.legislation.gov.uk/uksi/2024/1156), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/3/2/b)
+[^c-9406b3278b96d98f3abd12cb07c17ae2]: Textual amendment: Words in [Sch. 8 Pt. 2 para. 3](https://www.legislation.gov.uk/uksi/2008/2852/schedule/8/part/2/paragraph/3) substituted (6.1.2025) by [The Employment Tribunals (Procedure Rules) (Consequential Amendments) Regulations 2024 (S.I. 2024/1156)](https://www.legislation.gov.uk/uksi/2024/1156), [regs. 1(1)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/1/1), [3(2)(b)](https://www.legislation.gov.uk/uksi/2024/1156/regulation/3/2/b)
 
-[^key-c5e6e6e858ceec274a088587e58a54ec]: Textual amendment: Words in Sch. 8 Pt. 2 para. 4 substituted (N.I.) (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 7(a)](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/2/paragraph/7/a) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
+[^c-c5e6e6e858ceec274a088587e58a54ec]: Textual amendment: Words in Sch. 8 Pt. 2 para. 4 substituted (N.I.) (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 7(a)](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/2/paragraph/7/a) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
 
-[^key-3eb1c5314ee33b18cb478a7e3b54ba8d]: Textual amendment: Words in Sch. 8 Pt. 2 para. 5 substituted (N.I.) (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 7(b)](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/2/paragraph/7/b) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
+[^c-3eb1c5314ee33b18cb478a7e3b54ba8d]: Textual amendment: Words in Sch. 8 Pt. 2 para. 5 substituted (N.I.) (27.1.2020) by [The Industrial Tribunals and Fair Employment Tribunal (Constitution and Rules of Procedure) Regulations (Northern Ireland) 2020 (S.R. 2020/3)](https://www.legislation.gov.uk/nisr/2020/3), [reg. 1(2)](https://www.legislation.gov.uk/nisr/2020/3/regulation/1/2), [Sch. 4 Pt. 2 para. 7(b)](https://www.legislation.gov.uk/nisr/2020/3/schedule/4/part/2/paragraph/7/b) (with [reg. 18](https://www.legislation.gov.uk/nisr/2020/3/regulation/18))
 
 [^f00082]: Footnote: [1974 c.37](https://www.legislation.gov.uk/ukpga/1974/37).
 

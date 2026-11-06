@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 4. Landlord's notice under periodic standard contract: when notice may be given[^key-6c7015b25f5946b2708003cd947ab001]
+## 4. Landlord's notice under periodic standard contract: when notice may be given[^c-6c7015b25f5946b2708003cd947ab001]
 
 *Extent: E+W*
 
@@ -29,4 +29,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6c7015b25f5946b2708003cd947ab001]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2021/3/section/4) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)
+[^c-6c7015b25f5946b2708003cd947ab001]: Commencement: [S. 4](https://www.legislation.gov.uk/asc/2021/3/section/4) in force at 7.6.2021, see [s. 19(3)](https://www.legislation.gov.uk/asc/2021/3/section/19/3)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 12. Exclusion: matters not relating to Wales[^key-1df8f58df200d2e1cf7cf6c57d71fd68]
+## 12. Exclusion: matters not relating to Wales[^c-1df8f58df200d2e1cf7cf6c57d71fd68]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1df8f58df200d2e1cf7cf6c57d71fd68]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2019/3/section/12) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)
+[^c-1df8f58df200d2e1cf7cf6c57d71fd68]: Commencement: [S. 12](https://www.legislation.gov.uk/anaw/2019/3/section/12) in force at 23.7.2019 by [S.I. 2019/1096](https://www.legislation.gov.uk/wsi/2019/1096), [reg. 2](https://www.legislation.gov.uk/wsi/2019/1096/regulation/2)

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 52. Application to Accountant in Bankruptcy by trustee for a direction[^key-1a01305fdfecaf1a4fc2e588db077d98]
+## 52. Application to Accountant in Bankruptcy by trustee for a direction[^c-1a01305fdfecaf1a4fc2e588db077d98]
 
 *Extent: S*
 
@@ -43,4 +43,4 @@ summary: ''
 
 ## Annotations
 
-[^key-1a01305fdfecaf1a4fc2e588db077d98]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2016/21/section/52) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)
+[^c-1a01305fdfecaf1a4fc2e588db077d98]: Commencement: [S. 52](https://www.legislation.gov.uk/asp/2016/21/section/52) in force at 30.11.2016 by [S.S.I. 2016/294](https://www.legislation.gov.uk/ssi/2016/294), [reg. 2](https://www.legislation.gov.uk/ssi/2016/294/regulation/2)

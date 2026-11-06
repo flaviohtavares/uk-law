@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 13. Requirement to provide counselling and information for, and ascertain the wishes and feelings of, the child[^key-72d5c68508ed1745bb6efc4dbf1ade96]
+## 13. Requirement to provide counselling and information for, and ascertain the wishes and feelings of, the child[^c-72d5c68508ed1745bb6efc4dbf1ade96]
 
 *Extent: E+W*
 
@@ -31,4 +31,4 @@ summary: ''
 
 ## Annotations
 
-[^key-72d5c68508ed1745bb6efc4dbf1ade96]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2005/1313/regulation/13) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)
+[^c-72d5c68508ed1745bb6efc4dbf1ade96]: Commencement: [Reg. 13](https://www.legislation.gov.uk/wsi/2005/1313/regulation/13) in force at 30.12.2005, see [reg. 1(1)](https://www.legislation.gov.uk/wsi/2005/1313/regulation/1/1)

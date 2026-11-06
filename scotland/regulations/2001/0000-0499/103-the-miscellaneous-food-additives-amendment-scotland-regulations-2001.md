@@ -31,7 +31,7 @@ summary: ''
 
 FOOD
 
-The Miscellaneous Food Additives (Amendment) (Scotland) Regulations 2001 (revoked)[^key-ef1dfb7832285abe3e6dce62945f6a18]
+The Miscellaneous Food Additives (Amendment) (Scotland) Regulations 2001 (revoked)[^c-ef1dfb7832285abe3e6dce62945f6a18]
 
 Made
 
@@ -45,35 +45,35 @@ Coming into force
 
 31st March 2001
 
-[^key-ef1dfb7832285abe3e6dce62945f6a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef1dfb7832285abe3e6dce62945f6a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation, commencement and extent[^key-ef1dfb7832285abe3e6dce62945f6a18]
+## 1. Citation, commencement and extent[^c-ef1dfb7832285abe3e6dce62945f6a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Amendment of the Miscellaneous Food Additives Regulations 1995[^key-ef1dfb7832285abe3e6dce62945f6a18]
+## 2. Amendment of the Miscellaneous Food Additives Regulations 1995[^c-ef1dfb7832285abe3e6dce62945f6a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3.[^key-ef1dfb7832285abe3e6dce62945f6a18]
+## 3.[^c-ef1dfb7832285abe3e6dce62945f6a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4.[^key-ef1dfb7832285abe3e6dce62945f6a18]
+## 4.[^c-ef1dfb7832285abe3e6dce62945f6a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 5.[^key-ef1dfb7832285abe3e6dce62945f6a18]
+## 5.[^c-ef1dfb7832285abe3e6dce62945f6a18]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-ef1dfb7832285abe3e6dce62945f6a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef1dfb7832285abe3e6dce62945f6a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE — MISCELLANEOUS ADDITIVES FOR WHICH PURITY CRITERIA SPECIFIED OR REFERRED TO IN SCHEDULE 5 TO THE PRINCIPAL REGULATIONS ARE OMITTED[^key-ef1dfb7832285abe3e6dce62945f6a18]
+## SCHEDULE — MISCELLANEOUS ADDITIVES FOR WHICH PURITY CRITERIA SPECIFIED OR REFERRED TO IN SCHEDULE 5 TO THE PRINCIPAL REGULATIONS ARE OMITTED[^c-ef1dfb7832285abe3e6dce62945f6a18]
 
 Regulation 5
 
@@ -81,8 +81,8 @@ Regulation 5
 
 **May not be in force at this date. Check the source.**
 
-[^key-ef1dfb7832285abe3e6dce62945f6a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-ef1dfb7832285abe3e6dce62945f6a18]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-ef1dfb7832285abe3e6dce62945f6a18]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 (S.S.I. 2013/266)](https://www.legislation.gov.uk/ssi/2013/266), [reg. 1](https://www.legislation.gov.uk/ssi/2013/266/regulation/1), [Sch. 5](https://www.legislation.gov.uk/ssi/2013/266/schedule/5)
+[^c-ef1dfb7832285abe3e6dce62945f6a18]: Textual amendment: Regulations revoked (31.10.2013) by [The Food Additives, Flavourings, Enzymes and Extraction Solvents (Scotland) Regulations 2013 (S.S.I. 2013/266)](https://www.legislation.gov.uk/ssi/2013/266), [reg. 1](https://www.legislation.gov.uk/ssi/2013/266/regulation/1), [Sch. 5](https://www.legislation.gov.uk/ssi/2013/266/schedule/5)

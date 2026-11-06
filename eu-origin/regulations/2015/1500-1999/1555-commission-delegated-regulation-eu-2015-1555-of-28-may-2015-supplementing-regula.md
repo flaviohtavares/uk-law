@@ -33,7 +33,7 @@ supplementing Regulation (EU) No 575/2013 of the European Parliament and of the 
 
 (Text with EEA relevance)
 
-[^key-ad15280b967ae9d570f6e133c4e580c9][^key-2f5b0d79021dffeb10ee272a04f820ab]
+[^c-ad15280b967ae9d570f6e133c4e580c9][^c-2f5b0d79021dffeb10ee272a04f820ab]
 
 THE EUROPEAN COMMISSION,
 
@@ -87,7 +87,7 @@ HAS ADOPTED THIS REGULATION:
 
 ## Article 1. Subject matter
 
-Pursuant to Article 440 of Regulation (EU) No 575/2013, this Regulation specifies the disclosure requirements for institutions in relation to their compliance with the requirement for a countercyclical capital buffer referred to in Part 2 of the Capital Buffers and Macro-prudential Measures Regulations 2025[^key-df9983962350e662f66023fd9777d677].
+Pursuant to Article 440 of Regulation (EU) No 575/2013, this Regulation specifies the disclosure requirements for institutions in relation to their compliance with the requirement for a countercyclical capital buffer referred to in Part 2 of the Capital Buffers and Macro-prudential Measures Regulations 2025[^c-df9983962350e662f66023fd9777d677].
 
 ## Article 2. Disclosure of the geographical distribution of credit exposures
 
@@ -230,9 +230,9 @@ Institutions shall apply the instructions provided in this section in order to c
 
 ## Annotations
 
-[^key-ad15280b967ae9d570f6e133c4e580c9]: Modification: The “appropriate regulator” has power to make such provision as they consider appropriate by means of an instrument in writing to prevent, remedy or mitigate any failure of the provisions of this Regulation to operate effectively or any other deficiency arising from the withdrawal of the United Kingdom from the EU, see The Financial Regulators' Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1115/regulation/2), [3](https://www.legislation.gov.uk/uksi/2018/1115/regulation/3), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/4) (with saving on [I](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/I)P completion day by S.I. 2019/680, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
+[^c-ad15280b967ae9d570f6e133c4e580c9]: Modification: The “appropriate regulator” has power to make such provision as they consider appropriate by means of an instrument in writing to prevent, remedy or mitigate any failure of the provisions of this Regulation to operate effectively or any other deficiency arising from the withdrawal of the United Kingdom from the EU, see The Financial Regulators' Powers (Technical Standards etc.) (Amendment etc.) (EU Exit) Regulations 2018 (S.I. 2018/1115), [regs. 2](https://www.legislation.gov.uk/uksi/2018/1115/regulation/2), [3](https://www.legislation.gov.uk/uksi/2018/1115/regulation/3), [Sch. Pt. 4](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/4) (with saving on [I](https://www.legislation.gov.uk/uksi/2018/1115/schedule/part/I)P completion day by S.I. 2019/680, [regs. 1(2)](https://www.legislation.gov.uk/uksi/2019/680/regulation/1/2), [11](https://www.legislation.gov.uk/uksi/2019/680/regulation/11); 2020 c. 1, [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1))
 
-[^key-2f5b0d79021dffeb10ee272a04f820ab]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
+[^c-2f5b0d79021dffeb10ee272a04f820ab]: Modification: Regulation: power to modify conferred (11.7.2023) by [Financial Services and Markets Act 2023 (c. 29)](https://www.legislation.gov.uk/ukpga/2023/29), [ss. 3](https://www.legislation.gov.uk/ukpga/2023/29/section/3), [86(3)](https://www.legislation.gov.uk/ukpga/2023/29/section/86/3), [Sch. 1 Pts. 1](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/1), [3](https://www.legislation.gov.uk/ukpga/2023/29/schedule/1/part/3); [S.I. 2023/779](https://www.legislation.gov.uk/uksi/2023/779), [reg. 2(d)](https://www.legislation.gov.uk/uksi/2023/779/regulation/2/d)
 
 [^f00001]: Footnote: [OJ L 176, 27.6.2013, p. 1](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2013.176.01.0001.01.ENG).
 
@@ -242,4 +242,4 @@ Institutions shall apply the instructions provided in this section in order to c
 
 [^f00004]: Footnote: Regulation (EU) No 1093/2010 of the European Parliament and of the Council of 24 November 2010 establishing a European Supervisory Authority (European Banking Authority), amending Decision No 716/2009/EC and repealing Commission Decision 2009/78/EC ([OJ L 331, 15.12.2010, p. 12](https://webarchive.nationalarchives.gov.uk/eu-exit/https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2010.331.01.0012.01.ENG)).
 
-[^key-df9983962350e662f66023fd9777d677]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2015/1555/article/1) (as previously modified on IP completion day by the PRA's Technical Standards (Capital Requirements) (EU Exit) (No.3) Instrument 2019 dated 9.4.2019) substituted (30.11.2025) by [The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025 (S.I. 2025/1023)](https://www.legislation.gov.uk/uksi/2025/1023), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/1023/regulation/8)
+[^c-df9983962350e662f66023fd9777d677]: Textual amendment: Words in [Art. 1](https://www.legislation.gov.uk/eur/2015/1555/article/1) (as previously modified on IP completion day by the PRA's Technical Standards (Capital Requirements) (EU Exit) (No.3) Instrument 2019 dated 9.4.2019) substituted (30.11.2025) by [The Financial Services and Markets Act 2023 (Capital Buffers and Macro-prudential Measures) (Consequential Amendments) Regulations 2025 (S.I. 2025/1023)](https://www.legislation.gov.uk/uksi/2025/1023), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/1023/regulation/1/2), [8](https://www.legislation.gov.uk/uksi/2025/1023/regulation/8)

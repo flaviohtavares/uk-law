@@ -33,7 +33,7 @@ An Act to make provision for repeals, consequential amendments, transitional and
 
 \[24th May 1990\]
 
-[^c1048456][^c1048457][^c1048458][^c1048459][^c1048460][^c1048461]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^key-b893e5206836efa8e48df6fca5fc18bf]
+[^c1048456][^c1048457][^c1048458][^c1048459][^c1048460][^c1048461]Be it enacted by the Queen’s most Excellent Majesty, by and with the advice and consent of the Lords Spiritual and Temporal, and Commons, in this present Parliament assembled, and by the authority of the same, as follows:—[^c-b893e5206836efa8e48df6fca5fc18bf]
 
 ## Contents
 
@@ -66,4 +66,4 @@ SCHEDULES
 
 [^c1048461]: Modification: Act modified (E.W.) by [Town and Country Planning Act 1990 (c. 8, SIF 123:1)](https://www.legislation.gov.uk/ukpga/1990/8), [s. 173(8)](https://www.legislation.gov.uk/ukpga/1990/8/section/173/8)
 
-[^key-b893e5206836efa8e48df6fca5fc18bf]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/11) modified (28.9.2004 for E., 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 38](https://www.legislation.gov.uk/ukpga/2004/5/section/38) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/c); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/2847/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2005/2847/article/3/2))
+[^c-b893e5206836efa8e48df6fca5fc18bf]: Modification: [Act](https://www.legislation.gov.uk/ukpga/1990/11) modified (28.9.2004 for E., 15.10.2005 for W.) by [Planning and Compulsory Purchase Act 2004 (c. 5)](https://www.legislation.gov.uk/ukpga/2004/5), [s. 38](https://www.legislation.gov.uk/ukpga/2004/5/section/38) (with [s. 111](https://www.legislation.gov.uk/ukpga/2004/5/section/111)); [S.I. 2004/2202](https://www.legislation.gov.uk/uksi/2004/2202), [art. 2(c)](https://www.legislation.gov.uk/uksi/2004/2202/article/2/c); [S.I. 2005/2847](https://www.legislation.gov.uk/uksi/2005/2847), [art. 2(a)](https://www.legislation.gov.uk/uksi/2005/2847/article/2/a) (with [art. 3(1)](https://www.legislation.gov.uk/uksi/2005/2847/article/3/1)[(2)](https://www.legislation.gov.uk/uksi/2005/2847/article/3/2))

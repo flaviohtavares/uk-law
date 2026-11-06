@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 61. Option to commute whole of member’s accrued pensions (serious ill-health)[^key-6f308cf25a8928e0cc609e44e1c09cca]
+## 61. Option to commute whole of member’s accrued pensions (serious ill-health)[^c-6f308cf25a8928e0cc609e44e1c09cca]
 
 *Extent: E+W+S+N.I.*
 
@@ -49,4 +49,4 @@ where—
 
 ## Annotations
 
-[^key-6f308cf25a8928e0cc609e44e1c09cca]: Commencement: Reg. 61 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)
+[^c-6f308cf25a8928e0cc609e44e1c09cca]: Commencement: Reg. 61 in force at 1.4.2022, see [reg. 1(4)](https://www.legislation.gov.uk/uksi/2022/319/regulation/1/4)

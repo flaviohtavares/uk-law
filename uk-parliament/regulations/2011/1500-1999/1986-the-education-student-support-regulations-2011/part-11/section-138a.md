@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 138A. Students becoming eligible for support under Part 11B in the course of an academic year[^key-74f89b43173337bb242e8ecc4e9144bd][^key-704345cb5711fbbec645dabfd6cdfae8]
+## 138A. Students becoming eligible for support under Part 11B in the course of an academic year[^c-74f89b43173337bb242e8ecc4e9144bd][^c-704345cb5711fbbec645dabfd6cdfae8]
 
 *Extent: E+W*
 
@@ -36,6 +36,6 @@ the student may qualify for a loan for living costs in respect of all quarters o
 
 ## Annotations
 
-[^key-74f89b43173337bb242e8ecc4e9144bd]: Textual amendment: Reg. 138A inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [12](https://www.legislation.gov.uk/uksi/2018/472/regulation/12)
+[^c-74f89b43173337bb242e8ecc4e9144bd]: Textual amendment: Reg. 138A inserted (with application in accordance with reg. 1(2)(b) of the amending S.I.) by [The Education (Student Support) (Amendment) (No. 3) Regulations 2018 (S.I. 2018/472)](https://www.legislation.gov.uk/uksi/2018/472), [regs. 1(2)(a)](https://www.legislation.gov.uk/uksi/2018/472/regulation/1/2/a), [12](https://www.legislation.gov.uk/uksi/2018/472/regulation/12)
 
-[^key-704345cb5711fbbec645dabfd6cdfae8]: Textual amendment: [Reg. 138A](https://www.legislation.gov.uk/uksi/2011/1986/regulation/138A) substituted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [26](https://www.legislation.gov.uk/uksi/2023/74/regulation/26)
+[^c-704345cb5711fbbec645dabfd6cdfae8]: Textual amendment: [Reg. 138A](https://www.legislation.gov.uk/uksi/2011/1986/regulation/138A) substituted (with application in accordance with reg. 2(4)(5)(a) of the amending S.I.) by [The Education (Student Fees, Awards and Support) (Amendment) Regulations 2023 (S.I. 2023/74)](https://www.legislation.gov.uk/uksi/2023/74), [regs. 1](https://www.legislation.gov.uk/uksi/2023/74/regulation/1), [26](https://www.legislation.gov.uk/uksi/2023/74/regulation/26)

@@ -20,8 +20,8 @@ summary: ''
 
 *Extent: E+W*
 
-In this Act “**the principal regulator**”, in relation to an exempt charity, means such body or Minister of the Crown as is prescribed as its principal regulator by regulations made by the Secretary of State[^key-49ed00836180dc62d1d0b7f6f7f98303].
+In this Act “**the principal regulator**”, in relation to an exempt charity, means such body or Minister of the Crown as is prescribed as its principal regulator by regulations made by the Secretary of State[^c-49ed00836180dc62d1d0b7f6f7f98303].
 
 ## Annotations
 
-[^key-49ed00836180dc62d1d0b7f6f7f98303]: Textual amendment: Words in [s. 25](https://www.legislation.gov.uk/ukpga/2011/25/section/25) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(3)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))
+[^c-49ed00836180dc62d1d0b7f6f7f98303]: Textual amendment: Words in [s. 25](https://www.legislation.gov.uk/ukpga/2011/25/section/25) substituted (9.11.2016) by [The Transfer of Functions (Elections, Referendums, Third Sector and Information) Order 2016 (S.I. 2016/997)](https://www.legislation.gov.uk/uksi/2016/997), [art. 1(2)](https://www.legislation.gov.uk/uksi/2016/997/article/1/2), [Sch. 2 para. 25(3)](https://www.legislation.gov.uk/uksi/2016/997/schedule/2/paragraph/25/3) (with [art. 12](https://www.legislation.gov.uk/uksi/2016/997/article/12))

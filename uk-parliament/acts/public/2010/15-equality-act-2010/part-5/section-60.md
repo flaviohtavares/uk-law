@@ -64,7 +64,7 @@ summary: ''
 - (h) section 50(3)(a) or (c);
 - (i) section 51(1);
 - (j) section 55(1)(a) or (c);
-- (k)[^key-e0dafe0f59af11027010244a91d0767a] section 60A(1).
+- (k)[^c-e0dafe0f59af11027010244a91d0767a] section 60A(1).
 
 (12) An assessment is an interview or other process designed to give an indication of a person's suitability for the work concerned.
 
@@ -74,4 +74,4 @@ summary: ''
 
 ## Annotations
 
-[^key-e0dafe0f59af11027010244a91d0767a]: Textual amendment: [S. 60(11)(k)](https://www.legislation.gov.uk/ukpga/2010/15/section/60/11/k) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/3)
+[^c-e0dafe0f59af11027010244a91d0767a]: Textual amendment: [S. 60(11)(k)](https://www.legislation.gov.uk/ukpga/2010/15/section/60/11/k) inserted (1.1.2024) by [The Equality Act 2010 (Amendment) Regulations 2023 (S.I. 2023/1425)](https://www.legislation.gov.uk/uksi/2023/1425), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/1/2), [4(3)](https://www.legislation.gov.uk/uksi/2023/1425/regulation/4/3)

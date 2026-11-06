@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 39. Individually assessed payment[^key-d3747900d3522b3a7b63935f42347483]
+## 39. Individually assessed payment[^c-d3747900d3522b3a7b63935f42347483]
 
 *Extent: S*
 
@@ -53,4 +53,4 @@ summary: ''
 
 ## Annotations
 
-[^key-d3747900d3522b3a7b63935f42347483]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2021/15/section/39) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)
+[^c-d3747900d3522b3a7b63935f42347483]: Commencement: [S. 39](https://www.legislation.gov.uk/asp/2021/15/section/39) in force at 7.12.2021 by [S.S.I. 2021/419](https://www.legislation.gov.uk/ssi/2021/419), [reg. 2](https://www.legislation.gov.uk/ssi/2021/419/regulation/2)

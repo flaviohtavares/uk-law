@@ -33,15 +33,15 @@ summary: ''
 - (a) rules, practices, powers and arrangements of the body to which the requirements of Part 2 of Schedule 10 apply;
 - (b) the obligations with which paragraph 20 of that Schedule requires the body to comply;
 - (c) any guidance issued by the body;
-- (d) the obligations imposed on the body by or by virtue of this Part or by or by virtue of the Statutory Auditors and Third Country Auditors Regulations 2016;[^key-05b021c4781393b6a2b282c54471a44f]
-- (e)[^key-cb66c27ef7c0a37d839c1b13f1530f8e] the obligations imposed on the body by or by virtue of the Audit Regulation.
+- (d) the obligations imposed on the body by or by virtue of this Part or by or by virtue of the Statutory Auditors and Third Country Auditors Regulations 2016;[^c-05b021c4781393b6a2b282c54471a44f]
+- (e)[^c-cb66c27ef7c0a37d839c1b13f1530f8e] the obligations imposed on the body by or by virtue of the Audit Regulation.
 
 (4) The reference in subsection (3)(c) to guidance issued by a recognised supervisory body is a reference to any guidance or recommendation which is—
 
 - (a) issued or made by it to all or any class of its members or persons seeking to become members, and
-- (b) relevant for the purposes of this Part , the Statutory Auditors and Third Country Auditors Regulations 2016 or the[^key-bc4332c3dfa532ee3d8b717023f458a8] Audit Regulation,
+- (b) relevant for the purposes of this Part , the Statutory Auditors and Third Country Auditors Regulations 2016 or the[^c-bc4332c3dfa532ee3d8b717023f458a8] Audit Regulation,
 
-including any guidance or recommendation relating to the admission or expulsion of members of the body, so far as relevant for the purposes of this Part , the Statutory Auditors and Third Country Auditors Regulations 2016 or the[^key-f3563e669295edfbe3a532d4a70d5259] Audit Regulation.
+including any guidance or recommendation relating to the admission or expulsion of members of the body, so far as relevant for the purposes of this Part , the Statutory Auditors and Third Country Auditors Regulations 2016 or the[^c-f3563e669295edfbe3a532d4a70d5259] Audit Regulation.
 
 (5) Subsection (1) does not apply—
 
@@ -50,10 +50,10 @@ including any guidance or recommendation relating to the admission or expulsion 
 
 ## Annotations
 
-[^key-05b021c4781393b6a2b282c54471a44f]: Textual amendment: Words in s. 1218(3)(d) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 30(2)(a)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/30/2/a)
+[^c-05b021c4781393b6a2b282c54471a44f]: Textual amendment: Words in s. 1218(3)(d) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 30(2)(a)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/30/2/a)
 
-[^key-cb66c27ef7c0a37d839c1b13f1530f8e]: Textual amendment: S. 1218(3)(e) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 30(2)(b)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/30/2/b)
+[^c-cb66c27ef7c0a37d839c1b13f1530f8e]: Textual amendment: S. 1218(3)(e) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 30(2)(b)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/30/2/b)
 
-[^key-bc4332c3dfa532ee3d8b717023f458a8]: Textual amendment: Words in s. 1218(4)(b) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/30/3/a)
+[^c-bc4332c3dfa532ee3d8b717023f458a8]: Textual amendment: Words in s. 1218(4)(b) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 30(3)(a)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/30/3/a)
 
-[^key-f3563e669295edfbe3a532d4a70d5259]: Textual amendment: Words in s. 1218(4) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 30(3)(b)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/30/3/b)
+[^c-f3563e669295edfbe3a532d4a70d5259]: Textual amendment: Words in s. 1218(4) inserted (17.6.2016) by [The Statutory Auditors and Third Country Auditors Regulations 2016 (S.I. 2016/649)](https://www.legislation.gov.uk/uksi/2016/649), [reg. 1(1)(a)](https://www.legislation.gov.uk/uksi/2016/649/regulation/1/1/a), [Sch. 3 para. 30(3)(b)](https://www.legislation.gov.uk/uksi/2016/649/schedule/3/paragraph/30/3/b)

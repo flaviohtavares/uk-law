@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 14.23A. Moratoriums under Part A1 of the Act: mutual dealings and set off[^key-342b81fac3d86118a5351230f7749872][^key-503350d8495527b5991d590bb99df067]
+## 14.23A. Moratoriums under Part A1 of the Act: mutual dealings and set off[^c-342b81fac3d86118a5351230f7749872][^c-503350d8495527b5991d590bb99df067]
 
 *Extent: E+W*
 
@@ -47,6 +47,6 @@ summary: ''
 
 ## Annotations
 
-[^key-342b81fac3d86118a5351230f7749872]: Modification: [Rules 14.1-14.24](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [86-103](https://www.legislation.gov.uk/uksi/2024/229/rule/86), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
+[^c-342b81fac3d86118a5351230f7749872]: Modification: [Rules 14.1-14.24](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.1) applied (with modifications) (19.3.2024) by [The Water Industry (Special Administration) (England and Wales) Rules 2024 (S.I. 2024/229)](https://www.legislation.gov.uk/uksi/2024/229), [rules 1](https://www.legislation.gov.uk/uksi/2024/229/rule/1), [5](https://www.legislation.gov.uk/uksi/2024/229/rule/5), [86-103](https://www.legislation.gov.uk/uksi/2024/229/rule/86), [Sch.](https://www.legislation.gov.uk/uksi/2024/229/schedule) (with [rule 2(2)](https://www.legislation.gov.uk/uksi/2024/229/rule/2/2))
 
-[^key-503350d8495527b5991d590bb99df067]: Textual amendment: [Rule 14.23A](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.23A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [60](https://www.legislation.gov.uk/uksi/2021/1028/rule/60) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))
+[^c-503350d8495527b5991d590bb99df067]: Textual amendment: [Rule 14.23A](https://www.legislation.gov.uk/uksi/2016/1024/rule/14.23A) inserted (1.10.2021) by [The Insolvency (England and Wales) (No.2) (Amendment) Rules 2021 (S.I. 2021/1028)](https://www.legislation.gov.uk/uksi/2021/1028), [rules 1](https://www.legislation.gov.uk/uksi/2021/1028/rule/1), [60](https://www.legislation.gov.uk/uksi/2021/1028/rule/60) (with [rules 4](https://www.legislation.gov.uk/uksi/2021/1028/rule/4), [5](https://www.legislation.gov.uk/uksi/2021/1028/rule/5))

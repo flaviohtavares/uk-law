@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 91. Failure to notify results of third country clinical trials[^key-2b9c95eeb41cfb7d554e8c5e98dce412]
+## 91. Failure to notify results of third country clinical trials[^c-2b9c95eeb41cfb7d554e8c5e98dce412]
 
 *Extent: E+W+S+N.I.*
 
@@ -24,4 +24,4 @@ summary: ''
 
 ## Annotations
 
-[^key-2b9c95eeb41cfb7d554e8c5e98dce412]: Textual amendment: Reg. 91 omitted (31.12.2020) by virtue of [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 90B](https://www.legislation.gov.uk/uksi/2019/775/regulation/90B) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/67))
+[^c-2b9c95eeb41cfb7d554e8c5e98dce412]: Textual amendment: Reg. 91 omitted (31.12.2020) by virtue of [S.I. 2019/775](https://www.legislation.gov.uk/uksi/2019/775), [reg. 90B](https://www.legislation.gov.uk/uksi/2019/775/regulation/90B) (as substituted by [The Human Medicines (Amendment etc.) (EU Exit) Regulations 2020 (S.I. 2020/1488)](https://www.legislation.gov.uk/uksi/2020/1488), [reg. 1](https://www.legislation.gov.uk/uksi/2020/1488/regulation/1), [Sch. 2 para. 67](https://www.legislation.gov.uk/uksi/2020/1488/schedule/2/paragraph/67))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 25. Cases where powers of acquisition limited to subsoil[^key-3cf6126b3dba71a004eed045e6213499]
+## 25. Cases where powers of acquisition limited to subsoil[^c-3cf6126b3dba71a004eed045e6213499]
 
 *Extent: E+W*
 
@@ -28,4 +28,4 @@ summary: ''
 
 ## Annotations
 
-[^key-3cf6126b3dba71a004eed045e6213499]: Commencement: Art. 25 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)
+[^c-3cf6126b3dba71a004eed045e6213499]: Commencement: Art. 25 in force at 26.8.2005, see [art. 1](https://www.legislation.gov.uk/uksi/2005/2222/article/1)

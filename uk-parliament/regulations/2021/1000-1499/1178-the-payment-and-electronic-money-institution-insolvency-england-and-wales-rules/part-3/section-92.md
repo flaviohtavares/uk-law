@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 92. Retention of proxies[^key-91f776f74d0c492a40943cee3f012569]
+## 92. Retention of proxies[^c-91f776f74d0c492a40943cee3f012569]
 
 *Extent: E+W*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-91f776f74d0c492a40943cee3f012569]: Commencement: Rule 92 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)
+[^c-91f776f74d0c492a40943cee3f012569]: Commencement: Rule 92 in force at 12.11.2021, see [rule 2](https://www.legislation.gov.uk/uksi/2021/1178/rule/2)

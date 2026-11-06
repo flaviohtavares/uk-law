@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 42. Notices[^key-e0a483576acd33f99a592d8a0b3081f9]
+## 42. Notices[^c-e0a483576acd33f99a592d8a0b3081f9]
 
 *Extent: E+W*
 
@@ -49,6 +49,6 @@ summary: ''
 
 ## Annotations
 
-[^key-e0a483576acd33f99a592d8a0b3081f9]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2014/951/regulation/42) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
+[^c-e0a483576acd33f99a592d8a0b3081f9]: Commencement: [Reg. 42](https://www.legislation.gov.uk/wsi/2014/951/regulation/42) in force at 20.5.2014, see [reg. 1(c)](https://www.legislation.gov.uk/wsi/2014/951/regulation/1/c)
 
 [^f00013]: Footnote: [1978 c.30](https://www.legislation.gov.uk/ukpga/1978/30).

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales.
 
-## 318. Notifications of more than one nature[^key-6388173293955bc8ebcb105081128ae8]
+## 318. Notifications of more than one nature[^c-6388173293955bc8ebcb105081128ae8]
 
 *Extent: E+W*
 
@@ -24,4 +24,4 @@ A notification which includes a notification of more than one nature must satisf
 
 ## Annotations
 
-[^key-6388173293955bc8ebcb105081128ae8]: Commencement: [Rule 318](https://www.legislation.gov.uk/uksi/2011/1301/rule/318) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)
+[^c-6388173293955bc8ebcb105081128ae8]: Commencement: [Rule 318](https://www.legislation.gov.uk/uksi/2011/1301/rule/318) in force at 30.6.2011, see [rule 2](https://www.legislation.gov.uk/uksi/2011/1301/rule/2)

@@ -38,7 +38,7 @@ that person shall be guilty of an offence and liable, on summary conviction, to 
 - (i) in respect of the vehicle, a licence under section 37 of the [^c13372771]Town Police Clauses Act 1847 (licensing of hackney carriages) or section 48 of the [^c13372781]Local Government (Miscellaneous Provisions) Act 1976 (licensing of private hire vehicles); and
 - (ii) in respect of its driver, a licence under section 46 of the said Act of 1847 (licensing of hackney carriage drivers) or, as the case may be, section 51 of the said Act of 1976 (licensing of drivers of private hire vehicles).
 
-(3A)[^key-6767aeb59c3763268426111879f2db2d] Subsection (1)(b) above does not apply to the operation of a vehicle within an area in respect of which its operation or its driver is not licensed if there are in force—
+(3A)[^c-6767aeb59c3763268426111879f2db2d] Subsection (1)(b) above does not apply to the operation of a vehicle within an area in respect of which its operation or its driver is not licensed if there are in force—
 
 - (a) in respect of the vehicle, a licence under section 7 of the Private Hire Vehicles (London) Act 1998; and
 - (b) in respect of its driver, a licence under section 13 of that Act.
@@ -63,6 +63,6 @@ that person shall be guilty of an offence and liable, on summary conviction, to 
 
 [^c13372781]: Marginal citation: [1976 c. 57](https://www.legislation.gov.uk/ukpga/1976/57).
 
-[^key-6767aeb59c3763268426111879f2db2d]: Textual amendment: S. 21(3A) inserted (8.6.2004) by [Private Hire Vehicles (London) Act 1998 (c. 34)](https://www.legislation.gov.uk/ukpga/1998/34), [s. 40(2)](https://www.legislation.gov.uk/ukpga/1998/34/section/40/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1998/34/schedule/1/paragraph/3) (with [s. 29](https://www.legislation.gov.uk/ukpga/1998/34/section/29)); [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
+[^c-6767aeb59c3763268426111879f2db2d]: Textual amendment: S. 21(3A) inserted (8.6.2004) by [Private Hire Vehicles (London) Act 1998 (c. 34)](https://www.legislation.gov.uk/ukpga/1998/34), [s. 40(2)](https://www.legislation.gov.uk/ukpga/1998/34/section/40/2), [Sch. 1 para. 3](https://www.legislation.gov.uk/ukpga/1998/34/schedule/1/paragraph/3) (with [s. 29](https://www.legislation.gov.uk/ukpga/1998/34/section/29)); [S.I. 2004/241](https://www.legislation.gov.uk/uksi/2004/241), [art. 2(2)](https://www.legislation.gov.uk/uksi/2004/241/article/2/2)
 
 [^c13372851]: Marginal citation: [1967 c. 76](https://www.legislation.gov.uk/ukpga/1967/76).

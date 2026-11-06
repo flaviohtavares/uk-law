@@ -22,7 +22,7 @@ summary: ''
 
 (1) In forming any such opinion as is mentioned in Article 5(2) or 7(2), a court shall take into account all such information as is available to it about the circumstances of the offence or (as the case may be) of the offence and the offence or offences associated with it (including any aggravating or mitigating factors).
 
-(2) Subject to paragraph (3), a court shall obtain and consider a pre-sentence report before forming any such opinion as is mentioned in Article 5(2), 7(2), 13(1)(b) , 13A(1)(d)[^key-41c0f2e14ff23d247890d2573b453412] or 14(1)(b)(i).
+(2) Subject to paragraph (3), a court shall obtain and consider a pre-sentence report before forming any such opinion as is mentioned in Article 5(2), 7(2), 13(1)(b) , 13A(1)(d)[^c-41c0f2e14ff23d247890d2573b453412] or 14(1)(b)(i).
 
 (3) Paragraph (2) does not apply if, in the circumstances of the case, the court is of the opinion that it is unnecessary to obtain a pre-sentence report; and where the court does not obtain and consider a pre-sentence report, it shall state in open court that it is of that opinion and what the circumstances are.
 
@@ -45,4 +45,4 @@ summary: ''
 
 [^c21495531]: Commencement: [Art. 9](https://www.legislation.gov.uk/nisi/2008/1216/article/9) wholly in operation at 1.4.2009, see [art. 1(4)](https://www.legislation.gov.uk/nisi/2008/1216/article/1/4) and [S.R. 2009/120](https://www.legislation.gov.uk/nisr/2009/120), [art. 2](https://www.legislation.gov.uk/nisr/2009/120/article/2), [Sch. 1](https://www.legislation.gov.uk/nisr/2009/120/schedule/1) (subject to [Sch. 2 paras. 1(1)(2)(a)](https://www.legislation.gov.uk/nisr/2009/120/schedule/2/paragraph/1/1/2/a), [4](https://www.legislation.gov.uk/nisr/2009/120/schedule/2/paragraph/4))
 
-[^key-41c0f2e14ff23d247890d2573b453412]: Textual amendment: Word in [art. 9(2)](https://www.legislation.gov.uk/nisi/2008/1216/article/9/2) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 66(7)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/66/7)
+[^c-41c0f2e14ff23d247890d2573b453412]: Textual amendment: Word in [art. 9(2)](https://www.legislation.gov.uk/nisi/2008/1216/article/9/2) inserted (29.6.2021) by [Counter-Terrorism and Sentencing Act 2021 (c. 11)](https://www.legislation.gov.uk/ukpga/2021/11), [s. 50(2)(v)](https://www.legislation.gov.uk/ukpga/2021/11/section/50/2/v), [Sch. 13 para. 66(7)](https://www.legislation.gov.uk/ukpga/2021/11/schedule/13/paragraph/66/7)

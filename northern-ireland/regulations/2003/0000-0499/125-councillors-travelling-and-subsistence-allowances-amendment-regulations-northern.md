@@ -31,7 +31,7 @@ summary: ''
 
 LOCAL GOVERNMENT
 
-Councillors (Travelling and Subsistence Allowances) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^key-bee6c6d344df4cafb6cc40af8297c784]
+Councillors (Travelling and Subsistence Allowances) (Amendment) Regulations (Northern Ireland) 2003 (revoked)[^c-bee6c6d344df4cafb6cc40af8297c784]
 
 Made
 
@@ -41,54 +41,54 @@ Coming into operation
 
 1st April 2003
 
-[^key-bee6c6d344df4cafb6cc40af8297c784]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bee6c6d344df4cafb6cc40af8297c784]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## 1. Citation and commencement[^key-bee6c6d344df4cafb6cc40af8297c784]
+## 1. Citation and commencement[^c-bee6c6d344df4cafb6cc40af8297c784]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 2. Rules with respect to payment of travelling allowances[^key-bee6c6d344df4cafb6cc40af8297c784]
+## 2. Rules with respect to payment of travelling allowances[^c-bee6c6d344df4cafb6cc40af8297c784]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 3. Rules with respect to payment of subsistence allowances[^key-bee6c6d344df4cafb6cc40af8297c784]
+## 3. Rules with respect to payment of subsistence allowances[^c-bee6c6d344df4cafb6cc40af8297c784]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## 4. Time and manner of submission of claims[^key-bee6c6d344df4cafb6cc40af8297c784]
+## 4. Time and manner of submission of claims[^c-bee6c6d344df4cafb6cc40af8297c784]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bee6c6d344df4cafb6cc40af8297c784]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bee6c6d344df4cafb6cc40af8297c784]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## SCHEDULE[^key-bee6c6d344df4cafb6cc40af8297c784]
+## SCHEDULE[^c-bee6c6d344df4cafb6cc40af8297c784]
 
 Regulation 3
 
-> **SCHEDULE 2 — RULES WITH RESPECT TO THE PAYMENT OF SUBSISTENCE ALLOWANCES[^key-bee6c6d344df4cafb6cc40af8297c784]**
+> **SCHEDULE 2 — RULES WITH RESPECT TO THE PAYMENT OF SUBSISTENCE ALLOWANCES[^c-bee6c6d344df4cafb6cc40af8297c784]**
 >
 > Regulation 3(1)(b)
 >
-> **1.**[^key-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **1.**[^c-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **2.**[^key-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **2.**[^c-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **3.**[^key-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **3.**[^c-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **4.**[^key-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **4.**[^c-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **5.**[^key-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **5.**[^c-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **6.**[^key-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **6.**[^c-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 >
-> **7.**[^key-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+> **7.**[^c-bee6c6d344df4cafb6cc40af8297c784] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-bee6c6d344df4cafb6cc40af8297c784]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-bee6c6d344df4cafb6cc40af8297c784]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-bee6c6d344df4cafb6cc40af8297c784]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/125) repealed (1.4.2012) by [Local Government (Payments to Councillors) Regulations (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/85)](https://www.legislation.gov.uk/nisr/2012/85), [Sch. 3](https://www.legislation.gov.uk/nisr/2012/85/schedule/3)
+[^c-bee6c6d344df4cafb6cc40af8297c784]: Textual amendment: [Regulations](https://www.legislation.gov.uk/nisr/2003/125) repealed (1.4.2012) by [Local Government (Payments to Councillors) Regulations (Northern Ireland) 2012 (revoked) 2012 (S.R. 2012/85)](https://www.legislation.gov.uk/nisr/2012/85), [Sch. 3](https://www.legislation.gov.uk/nisr/2012/85/schedule/3)

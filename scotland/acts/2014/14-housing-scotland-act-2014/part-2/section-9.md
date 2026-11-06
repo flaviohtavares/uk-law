@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9. Short Scottish secure tenancy: term[^key-6dadc81508b4f3bf6be4904ff1e089a0]
+## 9. Short Scottish secure tenancy: term[^c-6dadc81508b4f3bf6be4904ff1e089a0]
 
 *Extent: S*
 
@@ -62,4 +62,4 @@ summary: ''
 
 ## Annotations
 
-[^key-6dadc81508b4f3bf6be4904ff1e089a0]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/14/section/9) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2018/153/article/3), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))
+[^c-6dadc81508b4f3bf6be4904ff1e089a0]: Commencement: [S. 9](https://www.legislation.gov.uk/asp/2014/14/section/9) in force at 1.5.2019 by [S.S.I. 2018/153](https://www.legislation.gov.uk/ssi/2018/153), [art. 2](https://www.legislation.gov.uk/ssi/2018/153/article/2), [sch.](https://www.legislation.gov.uk/ssi/2018/153/schedule) (with [arts. 3](https://www.legislation.gov.uk/ssi/2018/153/article/3), [9](https://www.legislation.gov.uk/ssi/2018/153/article/9))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 36. Power to amend Schedule 9[^key-d55369cbed087ae731ca7f7ea0c221e0][^key-d756c1b49d11dfca2ec005a9c2498691]
+## 36. Power to amend Schedule 9[^c-d55369cbed087ae731ca7f7ea0c221e0][^c-d756c1b49d11dfca2ec005a9c2498691]
 
 *Extent: E+W+S+N.I.*
 
@@ -31,6 +31,6 @@ summary: ''
 
 ## Annotations
 
-[^key-d55369cbed087ae731ca7f7ea0c221e0]: Commencement: S. 36 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
+[^c-d55369cbed087ae731ca7f7ea0c221e0]: Commencement: S. 36 not in force at Royal Assent, see [s. 67(1)](https://www.legislation.gov.uk/ukpga/2022/37/section/67/1)
 
-[^key-d756c1b49d11dfca2ec005a9c2498691]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/37/section/36) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e)
+[^c-d756c1b49d11dfca2ec005a9c2498691]: Commencement: [S. 36](https://www.legislation.gov.uk/ukpga/2022/37/section/36) in force at 1.11.2023 by [S.I. 2023/1145](https://www.legislation.gov.uk/uksi/2023/1145), [reg. 3(e)](https://www.legislation.gov.uk/uksi/2023/1145/regulation/3/e)

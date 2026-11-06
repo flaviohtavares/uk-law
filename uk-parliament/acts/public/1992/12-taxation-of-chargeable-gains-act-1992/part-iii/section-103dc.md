@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 103DC. Co-ownership schemes which are to be treated as partnerships[^key-b6f48ebd97581ab6a5a9ef5cd8cee595]
+## 103DC. Co-ownership schemes which are to be treated as partnerships[^c-b6f48ebd97581ab6a5a9ef5cd8cee595]
 
 *Extent: E+W+S+N.I.*
 
@@ -53,4 +53,4 @@ the capital allowance or renewals allowance that was given to the investor is to
 
 ## Annotations
 
-[^key-b6f48ebd97581ab6a5a9ef5cd8cee595]: Textual amendment: [S. 103DC](https://www.legislation.gov.uk/ukpga/1992/12/section/103DC) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [52(4)](https://www.legislation.gov.uk/uksi/2025/200/regulation/52/4) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))
+[^c-b6f48ebd97581ab6a5a9ef5cd8cee595]: Textual amendment: [S. 103DC](https://www.legislation.gov.uk/ukpga/1992/12/section/103DC) inserted (19.3.2025) by [The Co-ownership Contractual Schemes (Tax) Regulations 2025 (S.I. 2025/200)](https://www.legislation.gov.uk/uksi/2025/200), [regs. 1(2)](https://www.legislation.gov.uk/uksi/2025/200/regulation/1/2), [52(4)](https://www.legislation.gov.uk/uksi/2025/200/regulation/52/4) (with [reg. 63](https://www.legislation.gov.uk/uksi/2025/200/regulation/63))

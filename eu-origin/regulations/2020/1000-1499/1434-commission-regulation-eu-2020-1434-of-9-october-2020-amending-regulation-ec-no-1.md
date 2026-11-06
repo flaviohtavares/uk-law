@@ -35,74 +35,74 @@ amending Regulation (EC) No 1126/2008 adopting certain international accounting 
 
 (Text with EEA relevance) (revoked)
 
-[^key-af6f038cd5232933e5c9e0f976882286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af6f038cd5232933e5c9e0f976882286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-**Article 1.**[^key-af6f038cd5232933e5c9e0f976882286] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 1.**[^c-af6f038cd5232933e5c9e0f976882286] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 2.**[^key-af6f038cd5232933e5c9e0f976882286] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 2.**[^c-af6f038cd5232933e5c9e0f976882286] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-**Article 3.**[^key-af6f038cd5232933e5c9e0f976882286] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+**Article 3.**[^c-af6f038cd5232933e5c9e0f976882286] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af6f038cd5232933e5c9e0f976882286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-af6f038cd5232933e5c9e0f976882286]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 **No longer in force.**
 
-## ANNEX — Covid-19-Related Rent Concessions — Amendment to IFRS 16[^key-af6f038cd5232933e5c9e0f976882286]
+## ANNEX — Covid-19-Related Rent Concessions — Amendment to IFRS 16[^c-af6f038cd5232933e5c9e0f976882286]
 
-[^key-af6f038cd5232933e5c9e0f976882286]**Amendment to IFRS 16*****Leases***
+[^c-af6f038cd5232933e5c9e0f976882286]**Amendment to IFRS 16*****Leases***
 
 Paragraphs 46A, 46B, 60A, C1A, C20A and C20B are added. A new heading is added before C20A. For ease of reading these paragraphs have not been underlined.
 
-[^key-af6f038cd5232933e5c9e0f976882286]LESSEE
+[^c-af6f038cd5232933e5c9e0f976882286]LESSEE
 
-[^key-af6f038cd5232933e5c9e0f976882286]**Measurement**
+[^c-af6f038cd5232933e5c9e0f976882286]**Measurement**
 
-[^key-af6f038cd5232933e5c9e0f976882286]***Subsequent measurement***
+[^c-af6f038cd5232933e5c9e0f976882286]***Subsequent measurement***
 
-[^key-af6f038cd5232933e5c9e0f976882286]*Lease modifications*
+[^c-af6f038cd5232933e5c9e0f976882286]*Lease modifications*
 
-[^key-af6f038cd5232933e5c9e0f976882286]46A
+[^c-af6f038cd5232933e5c9e0f976882286]46A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af6f038cd5232933e5c9e0f976882286]46B
+[^c-af6f038cd5232933e5c9e0f976882286]46B
 
 The practical expedient in paragraph 46A applies only to rent concessions occurring as a direct consequence of the covid-19 pandemic and only if all of the following conditions are met:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af6f038cd5232933e5c9e0f976882286]**Disclosure**
+[^c-af6f038cd5232933e5c9e0f976882286]**Disclosure**
 
-[^key-af6f038cd5232933e5c9e0f976882286]60A
+[^c-af6f038cd5232933e5c9e0f976882286]60A
 
 If a lessee applies the practical expedient in paragraph 46A, the lessee shall disclose:
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af6f038cd5232933e5c9e0f976882286]**Appendix C**
+[^c-af6f038cd5232933e5c9e0f976882286]**Appendix C**
 
 **Effective date and transition**
 
-[^key-af6f038cd5232933e5c9e0f976882286]EFFECTIVE DATE
+[^c-af6f038cd5232933e5c9e0f976882286]EFFECTIVE DATE
 
-[^key-af6f038cd5232933e5c9e0f976882286]C1A
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-[^key-af6f038cd5232933e5c9e0f976882286]TRANSITION
-
-[^key-af6f038cd5232933e5c9e0f976882286]**Covid-19-related rent concessions for lessees**
-
-[^key-af6f038cd5232933e5c9e0f976882286]C20A
+[^c-af6f038cd5232933e5c9e0f976882286]C1A
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-af6f038cd5232933e5c9e0f976882286]C20B
+[^c-af6f038cd5232933e5c9e0f976882286]TRANSITION
+
+[^c-af6f038cd5232933e5c9e0f976882286]**Covid-19-related rent concessions for lessees**
+
+[^c-af6f038cd5232933e5c9e0f976882286]C20A
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+[^c-af6f038cd5232933e5c9e0f976882286]C20B
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-af6f038cd5232933e5c9e0f976882286]: Textual amendment: Regulation revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 2](https://www.legislation.gov.uk/uksi/2021/153/schedule) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/153/regulation/2/3))
+[^c-af6f038cd5232933e5c9e0f976882286]: Textual amendment: Regulation revoked (8.3.2021) by [The European Grouping of Territorial Cooperation and Limited Liability Partnerships etc. (Revocations and Amendments) (EU Exit) Regulations 2021 (S.I. 2021/153)](https://www.legislation.gov.uk/uksi/2021/153), [reg. 1](https://www.legislation.gov.uk/uksi/2021/153/regulation/1), [Sch. Table 2](https://www.legislation.gov.uk/uksi/2021/153/schedule) (with [reg. 2(3)](https://www.legislation.gov.uk/uksi/2021/153/regulation/2/3))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 80HA. Report by the Comptroller and Auditor General[^key-b385702a531d85b1ad4f5b613f33e3cf]
+## 80HA. Report by the Comptroller and Auditor General[^c-b385702a531d85b1ad4f5b613f33e3cf]
 
 *Extent: E+W+S+N.I.*
 
@@ -32,7 +32,7 @@ summary: ''
 (3) The “Scottish rate provisions” are—
 
 - (a) any provision made by or under this Chapter, and
-- (b) any provision made by or under the Income Tax Acts relating to a Scottish rate[^key-6cdb75857954e048190a96961f980cc0].
+- (b) any provision made by or under the Income Tax Acts relating to a Scottish rate[^c-6cdb75857954e048190a96961f980cc0].
 
 (4) A report under this section may also include an assessment of the economy, efficiency and effectiveness with which HMRC has used its resources in carrying out relevant functions.
 
@@ -46,6 +46,6 @@ summary: ''
 
 ## Annotations
 
-[^key-b385702a531d85b1ad4f5b613f33e3cf]: Textual amendment: S. 80HA inserted (17.7.2014 with effect in accordance with s. 297(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 297(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/297/1)
+[^c-b385702a531d85b1ad4f5b613f33e3cf]: Textual amendment: S. 80HA inserted (17.7.2014 with effect in accordance with s. 297(2) of the amending Act) by [Finance Act 2014 (c. 26)](https://www.legislation.gov.uk/ukpga/2014/26), [s. 297(1)](https://www.legislation.gov.uk/ukpga/2014/26/section/297/1)
 
-[^key-6cdb75857954e048190a96961f980cc0]: Textual amendment: Words in s. 80HA(3)(b) substituted (30.11.2016) (with effect in accordance with s. 13(15)(16) of the amending S.I.) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 13(13)](https://www.legislation.gov.uk/ukpga/2016/11/section/13/13)[(14)](https://www.legislation.gov.uk/ukpga/2016/11/section/13/14), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3); [S.I. 2016/1161](https://www.legislation.gov.uk/uksi/2016/1161), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1161/regulation/2)
+[^c-6cdb75857954e048190a96961f980cc0]: Textual amendment: Words in s. 80HA(3)(b) substituted (30.11.2016) (with effect in accordance with s. 13(15)(16) of the amending S.I.) by [Scotland Act 2016 (c. 11)](https://www.legislation.gov.uk/ukpga/2016/11), [ss. 13(13)](https://www.legislation.gov.uk/ukpga/2016/11/section/13/13)[(14)](https://www.legislation.gov.uk/ukpga/2016/11/section/13/14), [72(3)](https://www.legislation.gov.uk/ukpga/2016/11/section/72/3); [S.I. 2016/1161](https://www.legislation.gov.uk/uksi/2016/1161), [reg. 2](https://www.legislation.gov.uk/uksi/2016/1161/regulation/2)

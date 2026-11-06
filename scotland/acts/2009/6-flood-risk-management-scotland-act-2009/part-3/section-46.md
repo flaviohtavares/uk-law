@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 46. Power to obtain information, documents and assistance: supplementary[^key-b240d6ab0d743d87076ae7e6187b851c]
+## 46. Power to obtain information, documents and assistance: supplementary[^c-b240d6ab0d743d87076ae7e6187b851c]
 
 *Extent: S*
 
@@ -36,4 +36,4 @@ summary: ''
 
 ## Annotations
 
-[^key-b240d6ab0d743d87076ae7e6187b851c]: Commencement: S. 46 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)
+[^c-b240d6ab0d743d87076ae7e6187b851c]: Commencement: S. 46 in force at 26.11.2009 by [S.S.I. 2009/393](https://www.legislation.gov.uk/ssi/2009/393), [art. 2](https://www.legislation.gov.uk/ssi/2009/393/article/2), [Sch.](https://www.legislation.gov.uk/ssi/2009/393/schedule)

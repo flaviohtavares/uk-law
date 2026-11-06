@@ -35,38 +35,38 @@ approving the active substance imazalil, in accordance with Regulation (EC) No 1
 
 (Text with EEA relevance) (revoked)
 
-[^key-a01dccacb299b7c490bc36a7fcc293ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+[^c-a01dccacb299b7c490bc36a7fcc293ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 1. Approval of active substance[^key-a01dccacb299b7c490bc36a7fcc293ef]
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## Article 2. Re-evaluation of plant protection products[^key-a01dccacb299b7c490bc36a7fcc293ef]
+## Article 1. Approval of active substance[^c-a01dccacb299b7c490bc36a7fcc293ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 3. Amendments to Implementing Regulation (EU) No 540/2011[^key-a01dccacb299b7c490bc36a7fcc293ef]
+## Article 2. Re-evaluation of plant protection products[^c-a01dccacb299b7c490bc36a7fcc293ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 4. Repeal[^key-a01dccacb299b7c490bc36a7fcc293ef]
+## Article 3. Amendments to Implementing Regulation (EU) No 540/2011[^c-a01dccacb299b7c490bc36a7fcc293ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## Article 5. Entry into force and date of application[^key-a01dccacb299b7c490bc36a7fcc293ef]
+## Article 4. Repeal[^c-a01dccacb299b7c490bc36a7fcc293ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-[^key-a01dccacb299b7c490bc36a7fcc293ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-## ANNEX I[^key-a01dccacb299b7c490bc36a7fcc293ef]
+## Article 5. Entry into force and date of application[^c-a01dccacb299b7c490bc36a7fcc293ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-## ANNEX II[^key-a01dccacb299b7c490bc36a7fcc293ef]
+[^c-a01dccacb299b7c490bc36a7fcc293ef]. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX I[^c-a01dccacb299b7c490bc36a7fcc293ef]
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+## ANNEX II[^c-a01dccacb299b7c490bc36a7fcc293ef]
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
 ## Annotations
 
-[^key-a01dccacb299b7c490bc36a7fcc293ef]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)
+[^c-a01dccacb299b7c490bc36a7fcc293ef]: Textual amendment: Regulation revoked (31.12.2020) by [The Plant Protection Products (Miscellaneous Amendments) (EU Exit) Regulations 2019 (S.I. 2019/556)](https://www.legislation.gov.uk/uksi/2019/556), [reg. 1(1)](https://www.legislation.gov.uk/uksi/2019/556/regulation/1/1), [Sch. 2 Pt. 1](https://www.legislation.gov.uk/uksi/2019/556/schedule/2/part/1) (with [reg. 29(2)](https://www.legislation.gov.uk/uksi/2019/556/regulation/29/2)) (as amended by [S.I. 2020/1376](https://www.legislation.gov.uk/uksi/2020/1376), [regs. 1(4)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/1/4), [3(20)](https://www.legislation.gov.uk/uksi/2020/1376/regulation/3/20)); [2020 c. 1](https://www.legislation.gov.uk/ukpga/2020/1), [Sch. 5 para. 1(1)](https://www.legislation.gov.uk/ukpga/2020/1/schedule/5/paragraph/1/1)

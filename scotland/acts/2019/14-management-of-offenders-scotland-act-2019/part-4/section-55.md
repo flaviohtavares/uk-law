@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 55. Temporary release on licence under prison rules[^key-4af587d84eed1149c4528445342db524]
+## 55. Temporary release on licence under prison rules[^c-4af587d84eed1149c4528445342db524]
 
 *Extent: S*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-4af587d84eed1149c4528445342db524]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2019/14/section/55) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)
+[^c-4af587d84eed1149c4528445342db524]: Commencement: [S. 55](https://www.legislation.gov.uk/asp/2019/14/section/55) in force at 11.10.2019 by [S.S.I. 2019/309](https://www.legislation.gov.uk/ssi/2019/309), [reg. 2](https://www.legislation.gov.uk/ssi/2019/309/regulation/2), [sch.](https://www.legislation.gov.uk/ssi/2019/309/schedule)

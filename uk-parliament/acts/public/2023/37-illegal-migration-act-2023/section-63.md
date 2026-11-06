@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 63. Financial provision[^key-8ba47cee2b2d4014f0e1431dd67b3de7]
+## 63. Financial provision[^c-8ba47cee2b2d4014f0e1431dd67b3de7]
 
 *Extent: E+W+S+N.I.*
 
@@ -27,4 +27,4 @@ There is to be paid out of money provided by Parliament—
 
 ## Annotations
 
-[^key-8ba47cee2b2d4014f0e1431dd67b3de7]: Commencement: S. 63 in force at Royal Assent, see [s. 68(3)(c)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/c)
+[^c-8ba47cee2b2d4014f0e1431dd67b3de7]: Commencement: S. 63 in force at Royal Assent, see [s. 68(3)(c)](https://www.legislation.gov.uk/ukpga/2023/37/section/68/3/c)

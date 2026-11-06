@@ -24,7 +24,7 @@ Articles 2 and 30
 
 ### PART 1 — GENERAL
 
-#### 1. Interpretation[^key-768de11979c14dcc1edff2d25be7214a]
+#### 1. Interpretation[^c-768de11979c14dcc1edff2d25be7214a]
 
 (1) In this Schedule—
 
@@ -77,10 +77,10 @@ Articles 2 and 30
 - “**mean low water springs**” means the average of low water heights occurring at the time of spring tides;
 - “**the MMO**” means the Marine Management Organisation;
 - “**named vessel**” means a vessel whose name and type has been notified to the MMO in writing;
-- [^key-9769834acf1d26a0730ff7028235bb4a]...
+- [^c-9769834acf1d26a0730ff7028235bb4a]...
 - “**Notice to Mariners**” means any notice to mariners which may be issued by the Admiralty, Trinity House, the Statutory Conservancy and Navigation Authority, government departments or harbour and pilotage authorities advising mariners of important matters affecting navigational safety;
 - “**outline offshore construction environmental management plan**” means the document of that description certified under article 33 (certification of plans and documents etc.) of the Order, certified by the Secretary of State as the outline offshore construction environmental management plan for the purposes of the Order;
-- “[^key-e81d77e19e82852962c91ab5c8085f5f]**the Order**” means the Associated British Ports (Immingham Eastern Ro-Ro Terminal) Order 2024; and
+- “[^c-e81d77e19e82852962c91ab5c8085f5f]**the Order**” means the Associated British Ports (Immingham Eastern Ro-Ro Terminal) Order 2024; and
 - “**percussive piles**” means driven piles but excludes the handling, placing and vibro-driving of piles;
 - “**percussive piling**” for the purposes of this licence means the driving of piles by percussive means but does not include the handling, placing or vibro-piling of piles;
 - “**the Port of Immingham**” means the statutory port estate including the Port of Immingham statutory harbour authority area;
@@ -93,7 +93,7 @@ Articles 2 and 30
 
 (3) Tonnages of dredged materials are expressed in wet tonnes.
 
-#### 2. Contacts[^key-2992c487213b9bde2932b005f50081c1]
+#### 2. Contacts[^c-2992c487213b9bde2932b005f50081c1]
 
 (1) Unless otherwise advised in writing by the MMO, the address for postal correspondence with the MMO for the purposes of this licence is the Marine Management Organisation, Marine Licensing Team, Lancaster House, Hampshire Court, Newcastle upon Tyne NE4 7YH, telephone 0300 123 1032 and, unless otherwise advised in writing, where contact to the local MMO office (local office) is required, the following contact details must be used: Marine Management Organisation, The MMO District Office – Crosskill House, Mill Lane, Beverley, HU17 9JB, telephone 0208 720 1344, Email – beverley@marinemanagement.org.uk.
 
@@ -103,7 +103,7 @@ Articles 2 and 30
 
 (4) Unless otherwise stated in writing by the MMO, all notifications required by this licence must be sent by the undertaker to the MMO using MCMS.
 
-#### 3. Licensed marine activities[^key-38d1343f5582b0438da4586584e08005]
+#### 3. Licensed marine activities[^c-38d1343f5582b0438da4586584e08005]
 
 (1) Subject to the licence conditions in Part 2, this licence authorises the undertaker to carry out licensable marine activities under section 66(1) (licensable marine activities) of the 2009 Act which—
 
@@ -130,7 +130,7 @@ Articles 2 and 30
   - (ii) place and maintain works and structures including jetty furniture, fenders and impact protection; and
 - (c) such other incidental works as may be necessary or convenient for the purposes of, or in connection with or in consequence of, the construction, maintenance, operation or use of the authorised development, including works for the accommodation or convenience of vessels (including but not limited to berthing and mooring facilities, ladders, buoys, bollards, dolphins and fenders) and lighting.
 
-#### 4. Licence to dredge and deposit[^key-679821d6abaaef8f3a618db443f3c200]
+#### 4. Licence to dredge and deposit[^c-679821d6abaaef8f3a618db443f3c200]
 
 (1) Capital dredge – Subject to paragraph 5, the undertaker is permitted to undertake a capital dredge to a depth of -9 metres Chart Datum (with an allowance for the tolerances of the dredging equipment) of the berth pocket the grid coordinates for which are specified in paragraph 5(2) .
 
@@ -148,7 +148,7 @@ Articles 2 and 30
 - (a) The capital dredge will create arisings of glacial clay and alluvial materials which must be deposited at deposit grounds HU056 and HU060;
 - (b) The maintenance dredge will create arisings of alluvial materials which must be deposited at the licenced deposit ground HU060 in accordance with the existing marine licence.
 
-#### 5. Details of licensed marine activities[^key-802db1bbddd1dfebd2323138e8151f69]
+#### 5. Details of licensed marine activities[^c-802db1bbddd1dfebd2323138e8151f69]
 
 (1) The grid coordinates within the UK Marine Area within which the undertaker may carry out a licensed activity (save for the capital dredge and disposal) are specified below—
 
@@ -185,7 +185,7 @@ Articles 2 and 30
 
 #### Before Licensed Activities
 
-##### 6. Notifications regarding licensed activities[^key-00b59d4ad2a683d86e6d1fb60b6aa8ec]
+##### 6. Notifications regarding licensed activities[^c-00b59d4ad2a683d86e6d1fb60b6aa8ec]
 
 (1) The undertaker must inform the MMO—
 
@@ -214,13 +214,13 @@ of the commencement or the completion (as applicable).
 
 (8) The undertaker must request that the masters responsible for the named vessels that will be carrying out any licensed activity on behalf of the undertaker as notified to the MMO under condition 6(5) make a copy of this licence available for inspection on board such named vessels during the carrying out of any licensed activity.
 
-##### 7. Agents / contractors / sub-contractors[^key-455a0adcdb2fd7c63da8c16dda6b3bf3]
+##### 7. Agents / contractors / sub-contractors[^c-455a0adcdb2fd7c63da8c16dda6b3bf3]
 
 (1) The undertaker must notify the MMO in writing of any agents, contractors or sub-contractors that will carry on any licensed activity listed in paragraph 3 of this licence on behalf of the undertaker. Such notification must be received by the MMO no less than 24 hours before the commencement of the licensed activity.
 
 (2) The undertaker must ensure that a copy of this licence and any subsequent revisions or amendments has been provided to, read and understood by any agents, contractors or sub-contractors that will carry on any licensed activity listed in section 3 of this licence on behalf of the undertaker.
 
-##### 8. Cold weather construction restriction strategy[^key-d32d95f245008a00682c03cda341799a]
+##### 8. Cold weather construction restriction strategy[^c-d32d95f245008a00682c03cda341799a]
 
 No construction operations for any licensed activity are to commence until a cold weather construction restriction strategy is submitted to and agreed by the MMO in consultation with Natural England. The strategy shall include the following—
 
@@ -230,7 +230,7 @@ No construction operations for any licensed activity are to commence until a col
   - (i) after 24 hours of above freezing temperatures the restriction will be lifted on a temporary basis provided that the weather forecast relevant for the area including the Port of Immingham, (as agreed with the MMO) indicates that freezing conditions will not return within five days; and
   - (ii) after a further 5 clear days of above-freezing temperatures, the restrictions will be lifted entirely.
 
-##### 9. Marine Noise Registry[^key-fdf65f99747338b6e0675577c52d9953]
+##### 9. Marine Noise Registry[^c-fdf65f99747338b6e0675577c52d9953]
 
 (1) Only when impact driven or part-driven pile foundations are proposed to be used as part of the foundation installation the undertaker must provide the following information to the Marine Noise Registry (MNR)—
 
@@ -239,7 +239,7 @@ No construction operations for any licensed activity are to commence until a col
 
 (2) The undertaker must notify the MMO of the successful submission of Forward Look requirements.
 
-##### 10. Marine written scheme of archaeological investigation[^key-cde5c5f9491fe8aeb79d7315ef84d8a7]
+##### 10. Marine written scheme of archaeological investigation[^c-cde5c5f9491fe8aeb79d7315ef84d8a7]
 
 (1) A final version of the marine written scheme of investigation must be submitted to and approved by the MMO in writing before any works to which the final version of the marine written scheme of investigation relate commence.
 
@@ -247,7 +247,7 @@ No construction operations for any licensed activity are to commence until a col
 
 #### During Licensed Activities
 
-##### 11. Offshore Construction Environmental Management Plan[^key-5561cac068b5de4e6899274d1ee9eccd]
+##### 11. Offshore Construction Environmental Management Plan[^c-5561cac068b5de4e6899274d1ee9eccd]
 
 (1) No licensed activities shall be commenced until an offshore construction environmental management plan in relation to those activities has been submitted to and approved by the MMO following consultation with the local planning authority, the Environment Agency and Natural England on matters related to their respective functions.
 
@@ -255,7 +255,7 @@ No construction operations for any licensed activity are to commence until a col
 
 (3) The undertaker must undertake the capital dredge in accordance with the offshore construction environmental management plan approved under sub-paragraph (1).
 
-##### 12. Piling and marine construction works[^key-db10e7469a243f282c150550faeee0a4]
+##### 12. Piling and marine construction works[^c-db10e7469a243f282c150550faeee0a4]
 
 (1) Subject to sub-paragraph (2) below, the piling of marine piles in connection with the authorised development shall be subject to the following conditions—
 
@@ -301,7 +301,7 @@ No construction operations for any licensed activity are to commence until a col
 
 (14) Percussive piling must only be carried out in accordance with the cold weather construction restriction strategy.
 
-##### 13. Percussive piling reporting protocol[^key-6f8339025c244739f4a8d48eea0df999]
+##### 13. Percussive piling reporting protocol[^c-6f8339025c244739f4a8d48eea0df999]
 
 (1) The undertaker must submit weekly reports to the MMO of the duration of percussive piling that is undertaken on any given day on which piling takes place during the construction of the authorised development, unless otherwise agreed in writing with the MMO.
 
@@ -313,15 +313,15 @@ No construction operations for any licensed activity are to commence until a col
 
 (5) The contingency period must not exceed a total of 80 minutes in any given day on which percussive piling takes place.
 
-##### 14. Concrete and cement[^key-ed8bfd991f674437b8585cc8bd07c05c]
+##### 14. Concrete and cement[^c-ed8bfd991f674437b8585cc8bd07c05c]
 
 Waste concrete, slurry or wash water from concrete or cement activities must not be discharged, intentionally or unintentionally, into the marine environment. Concrete and cement mixing and washing areas must be contained and sited at least 10 metres from any water body or surface water drain.
 
-##### 15. Coatings and treatment[^key-bac80b222ed34d413d3ece8758256b50]
+##### 15. Coatings and treatment[^c-bac80b222ed34d413d3ece8758256b50]
 
 The undertaker must ensure that any coatings or treatments are suitable for use in the marine environment and are used in accordance with guidelines approved by the Health and Safety Executive and the Environment Agency Pollution Prevention Control Guidelines.
 
-##### 16. Pollution and Spills[^key-12d0a94eecfcff403464ef6e034dd7ad]
+##### 16. Pollution and Spills[^c-12d0a94eecfcff403464ef6e034dd7ad]
 
 (1) Bunding and/or storage facilities must be installed to contain and prevent the release of fuel, oils, and chemicals associated with plant, refuelling and construction equipment, into the marine environment. Secondary containment must be used with a capacity of no less than 110% of the container’s storage capacity.
 
@@ -335,7 +335,7 @@ The undertaker must ensure that any coatings or treatments are suitable for use 
 
 (4) The undertaker must comply with the existing marine pollution contingency plan in place for the Port of Immingham as detailed in the construction environmental management plan.
 
-##### 17. Disposal at Sea[^key-96591d0e7c5622a9de54fe07240d581f]
+##### 17. Disposal at Sea[^c-96591d0e7c5622a9de54fe07240d581f]
 
 (1) The undertaker must inform the MMO of the location and quantities of material deposited each month under the licence. This information must be submitted to the MMO by 15 February each year for the months August to January inclusive and by 15 August each year for the months February to July inclusive.
 
@@ -346,7 +346,7 @@ The undertaker must ensure that any coatings or treatments are suitable for use 
 
 or any other site approved in writing by the MMO.
 
-##### 18. Sediment sampling[^key-23b506be54793d667d2f074f54702814]
+##### 18. Sediment sampling[^c-23b506be54793d667d2f074f54702814]
 
 (1) Any sediment sampling analyses undertaken by a laboratory validated by the MMO and approved by the MMO as part of either the 2021 sediment sampling plan or any future sediment sampling plan is valid for a period of 3 years from the date when those analyses were undertaken.
 
@@ -354,11 +354,11 @@ or any other site approved in writing by the MMO.
 
 (3) The undertaker must undertake the capital dredge in accordance with the 2021 sediment sampling plan or the future sediment sampling plan approved under sub-paragraph (2).
 
-**19.**[^key-8fb35e19ab0fd49e50f965677fe6d2de] The material to be disposed of within the disposal sites referred to in paragraph 4(4) must be placed evenly within the boundaries of that site.
+**19.**[^c-8fb35e19ab0fd49e50f965677fe6d2de] The material to be disposed of within the disposal sites referred to in paragraph 4(4) must be placed evenly within the boundaries of that site.
 
-**20.**[^key-04dae4bcad68b0d9e0af727fa1538ffb] During the course of disposal at sea, deposited material must be distributed evenly over the disposal site.
+**20.**[^c-04dae4bcad68b0d9e0af727fa1538ffb] During the course of disposal at sea, deposited material must be distributed evenly over the disposal site.
 
-##### 21. Dropped objects[^key-d0ad8ecb9607383dd0e6e4a654bacea4]
+##### 21. Dropped objects[^c-d0ad8ecb9607383dd0e6e4a654bacea4]
 
 (1) The undertaker must report all dropped objects to the MMO using the dropped object procedure form as soon as reasonably practicable and in any event within 24 hours of becoming aware of an incident.
 
@@ -366,7 +366,7 @@ or any other site approved in writing by the MMO.
 
 (3) On receipt of such survey results, the MMO may, acting reasonably, require the undertaker to remove specific obstructions from the seabed. The undertaker must carry out removals of specific obstructions from the seabed in accordance with the MMO’s reasonable requirements and its own expense.
 
-##### 22. Notice to Mariners[^key-e2b22e15df5fcae34711777d06ed5ea4]
+##### 22. Notice to Mariners[^c-e2b22e15df5fcae34711777d06ed5ea4]
 
 (1) Local mariners, fishermen’s organisations and the UK Hydrographic Office must be notified of any licensed activity or phase of licensed activity through a local Notice to Mariners.
 
@@ -379,19 +379,19 @@ or any other site approved in writing by the MMO.
 - (c) the location of the works area, including coordinated in accordance with World Geodetic System 1984 (WGS84); and
 - (d) any markings of the works area that will be put in place.
 
-**23.**[^key-f8994ad0c36a32e1243021afe49f204e] A copy of the notice must be provided to the MMO via MCMS within 24 hours of issue of a notice under sub-paragraph (1).
+**23.**[^c-f8994ad0c36a32e1243021afe49f204e] A copy of the notice must be provided to the MMO via MCMS within 24 hours of issue of a notice under sub-paragraph (1).
 
 ### PART 3 — PROCEDURE FOR THE DISCHARGE OF CONDITIONS
 
-#### 24. Meaning of “application”[^key-d671424cfe470a330ec09014626a6e20]
+#### 24. Meaning of “application”[^c-d671424cfe470a330ec09014626a6e20]
 
 In this Part, “**application**” means a submission by the undertaker for approval by the MMO of any document, strategy, information or plan under conditions 8 (cold weather construction restriction strategy), 9 (marine noise registry), 10 (marine written scheme of investigation), 11 (construction environmental management plan) and 18 (sediment sampling).
 
-#### 25. Further information regarding application[^key-92df72fdf6ca54ed8b7a2ab62ec2e056]
+#### 25. Further information regarding application[^c-92df72fdf6ca54ed8b7a2ab62ec2e056]
 
 The MMO may request in writing such further information from the undertaker as is necessary to enable the MMO to consider an application.
 
-#### 26. Determination of application[^key-323c753e9bff29c1b0662c5edc6ceeb3]
+#### 26. Determination of application[^c-323c753e9bff29c1b0662c5edc6ceeb3]
 
 (1) In determining the application the MMO may have regard to—
 
@@ -405,7 +405,7 @@ The MMO may request in writing such further information from the undertaker as i
 - (b) grant the application subject to the conditions as the MMO thinks fit; or
 - (c) refuse the application.
 
-#### 27. Notice of determination[^key-fa1e186487c9269f6a2c70b17488fdc7]
+#### 27. Notice of determination[^c-fa1e186487c9269f6a2c70b17488fdc7]
 
 (1) Subject to sub-paragraph (2) or (3), the MMO must give notice to the undertaker of the determination of the application as soon as reasonably practicable after the application is received by the MMO.
 
@@ -415,60 +415,60 @@ The MMO may request in writing such further information from the undertaker as i
 
 ## Annotations
 
-[^key-768de11979c14dcc1edff2d25be7214a]: Commencement: Sch. 3 para. 1 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-768de11979c14dcc1edff2d25be7214a]: Commencement: Sch. 3 para. 1 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-9769834acf1d26a0730ff7028235bb4a]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2024/1014/schedule/3/paragraph/1/1) omitted (11.2.2025) by virtue of [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
+[^c-9769834acf1d26a0730ff7028235bb4a]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2024/1014/schedule/3/paragraph/1/1) omitted (11.2.2025) by virtue of [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
 
-[^key-e81d77e19e82852962c91ab5c8085f5f]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2024/1014/schedule/3/paragraph/1/1) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
+[^c-e81d77e19e82852962c91ab5c8085f5f]: Textual amendment: Words in [Sch. 3 para. 1(1)](https://www.legislation.gov.uk/uksi/2024/1014/schedule/3/paragraph/1/1) substituted (11.2.2025) by [The Associated British Ports (Immingham Eastern Ro-Ro Terminal) Development Consent (Correction) Order 2025 (S.I. 2025/143)](https://www.legislation.gov.uk/uksi/2025/143), [art. 1](https://www.legislation.gov.uk/uksi/2025/143/article/1), [Sch.](https://www.legislation.gov.uk/uksi/2025/143/schedule)
 
-[^key-2992c487213b9bde2932b005f50081c1]: Commencement: Sch. 3 para. 2 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-2992c487213b9bde2932b005f50081c1]: Commencement: Sch. 3 para. 2 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-38d1343f5582b0438da4586584e08005]: Commencement: Sch. 3 para. 3 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-38d1343f5582b0438da4586584e08005]: Commencement: Sch. 3 para. 3 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-679821d6abaaef8f3a618db443f3c200]: Commencement: Sch. 3 para. 4 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-679821d6abaaef8f3a618db443f3c200]: Commencement: Sch. 3 para. 4 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-802db1bbddd1dfebd2323138e8151f69]: Commencement: Sch. 3 para. 5 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-802db1bbddd1dfebd2323138e8151f69]: Commencement: Sch. 3 para. 5 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-00b59d4ad2a683d86e6d1fb60b6aa8ec]: Commencement: Sch. 3 para. 6 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-00b59d4ad2a683d86e6d1fb60b6aa8ec]: Commencement: Sch. 3 para. 6 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-455a0adcdb2fd7c63da8c16dda6b3bf3]: Commencement: Sch. 3 para. 7 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-455a0adcdb2fd7c63da8c16dda6b3bf3]: Commencement: Sch. 3 para. 7 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-d32d95f245008a00682c03cda341799a]: Commencement: Sch. 3 para. 8 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-d32d95f245008a00682c03cda341799a]: Commencement: Sch. 3 para. 8 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-fdf65f99747338b6e0675577c52d9953]: Commencement: Sch. 3 para. 9 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-fdf65f99747338b6e0675577c52d9953]: Commencement: Sch. 3 para. 9 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-cde5c5f9491fe8aeb79d7315ef84d8a7]: Commencement: Sch. 3 para. 10 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-cde5c5f9491fe8aeb79d7315ef84d8a7]: Commencement: Sch. 3 para. 10 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-5561cac068b5de4e6899274d1ee9eccd]: Commencement: Sch. 3 para. 11 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-5561cac068b5de4e6899274d1ee9eccd]: Commencement: Sch. 3 para. 11 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-db10e7469a243f282c150550faeee0a4]: Commencement: Sch. 3 para. 12 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-db10e7469a243f282c150550faeee0a4]: Commencement: Sch. 3 para. 12 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-6f8339025c244739f4a8d48eea0df999]: Commencement: Sch. 3 para. 13 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-6f8339025c244739f4a8d48eea0df999]: Commencement: Sch. 3 para. 13 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-ed8bfd991f674437b8585cc8bd07c05c]: Commencement: Sch. 3 para. 14 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-ed8bfd991f674437b8585cc8bd07c05c]: Commencement: Sch. 3 para. 14 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-bac80b222ed34d413d3ece8758256b50]: Commencement: Sch. 3 para. 15 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-bac80b222ed34d413d3ece8758256b50]: Commencement: Sch. 3 para. 15 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-12d0a94eecfcff403464ef6e034dd7ad]: Commencement: Sch. 3 para. 16 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-12d0a94eecfcff403464ef6e034dd7ad]: Commencement: Sch. 3 para. 16 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-96591d0e7c5622a9de54fe07240d581f]: Commencement: Sch. 3 para. 17 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-96591d0e7c5622a9de54fe07240d581f]: Commencement: Sch. 3 para. 17 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-23b506be54793d667d2f074f54702814]: Commencement: Sch. 3 para. 18 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-23b506be54793d667d2f074f54702814]: Commencement: Sch. 3 para. 18 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-8fb35e19ab0fd49e50f965677fe6d2de]: Commencement: Sch. 3 para. 19 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-8fb35e19ab0fd49e50f965677fe6d2de]: Commencement: Sch. 3 para. 19 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-04dae4bcad68b0d9e0af727fa1538ffb]: Commencement: Sch. 3 para. 20 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-04dae4bcad68b0d9e0af727fa1538ffb]: Commencement: Sch. 3 para. 20 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-d0ad8ecb9607383dd0e6e4a654bacea4]: Commencement: Sch. 3 para. 21 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-d0ad8ecb9607383dd0e6e4a654bacea4]: Commencement: Sch. 3 para. 21 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-e2b22e15df5fcae34711777d06ed5ea4]: Commencement: Sch. 3 para. 22 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-e2b22e15df5fcae34711777d06ed5ea4]: Commencement: Sch. 3 para. 22 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-f8994ad0c36a32e1243021afe49f204e]: Commencement: Sch. 3 para. 23 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-f8994ad0c36a32e1243021afe49f204e]: Commencement: Sch. 3 para. 23 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-d671424cfe470a330ec09014626a6e20]: Commencement: Sch. 3 para. 24 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-d671424cfe470a330ec09014626a6e20]: Commencement: Sch. 3 para. 24 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-92df72fdf6ca54ed8b7a2ab62ec2e056]: Commencement: Sch. 3 para. 25 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-92df72fdf6ca54ed8b7a2ab62ec2e056]: Commencement: Sch. 3 para. 25 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-323c753e9bff29c1b0662c5edc6ceeb3]: Commencement: Sch. 3 para. 26 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-323c753e9bff29c1b0662c5edc6ceeb3]: Commencement: Sch. 3 para. 26 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
 
-[^key-fa1e186487c9269f6a2c70b17488fdc7]: Commencement: Sch. 3 para. 27 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)
+[^c-fa1e186487c9269f6a2c70b17488fdc7]: Commencement: Sch. 3 para. 27 in force at 25.10.2024, see [art. 1](https://www.legislation.gov.uk/uksi/2024/1014/article/1)

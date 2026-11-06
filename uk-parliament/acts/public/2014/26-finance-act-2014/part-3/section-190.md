@@ -37,7 +37,7 @@ The Table lists the places where some of the expressions used in this Part are d
 | the Commissioners | section 189 |
 | excluded bet | section 187(2) |
 | financial spread bet | section 128(2) |
-| game of chance | section 188(1)(b) and (3)[^key-4697e387d4e055d6a7a717b02027b565] |
+| game of chance | section 188(1)(b) and (3)[^c-4697e387d4e055d6a7a717b02027b565] |
 | gaming | section 188(1)(a) |
 | gaming payment (in Chapter 3) | section 159 |
 | gaming prize fund | section 154(2) |
@@ -56,7 +56,7 @@ The Table lists the places where some of the expressions used in this Part are d
 | promoter | section 189 |
 | provision of, and expenditure on, a prize (in sections 156 and 157) | section 160 |
 | registrable person | section 170(6) |
-| remote bet[^key-b63af46e98e698d5c583d81271bc5ea4] | section 127A |
+| remote bet[^c-b63af46e98e698d5c583d81271bc5ea4] | section 127A |
 | remote gaming | section 154(1) |
 | remote operating licence | section 189 |
 | spread bet | section 128(1) |
@@ -68,6 +68,6 @@ The Table lists the places where some of the expressions used in this Part are d
 
 ## Annotations
 
-[^key-4697e387d4e055d6a7a717b02027b565]: Textual amendment: Words in [s. 190](https://www.legislation.gov.uk/ukpga/2014/26/section/190) table substituted (with effect in accordance with [s. 46(9)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(7)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/7)
+[^c-4697e387d4e055d6a7a717b02027b565]: Textual amendment: Words in [s. 190](https://www.legislation.gov.uk/ukpga/2014/26/section/190) table substituted (with effect in accordance with [s. 46(9)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/9) of the amending Act) by [Finance (No. 2) Act 2017 (c. 32)](https://www.legislation.gov.uk/ukpga/2017/32), [s. 46(7)](https://www.legislation.gov.uk/ukpga/2017/32/section/46/7)
 
-[^key-b63af46e98e698d5c583d81271bc5ea4]: Textual amendment: Words in [s. 190](https://www.legislation.gov.uk/ukpga/2014/26/section/190) table inserted (for accounting periods beginning on or after 1.4.2027) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 87(5)(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/5/7) (with [s. 87(8)(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/8/9))
+[^c-b63af46e98e698d5c583d81271bc5ea4]: Textual amendment: Words in [s. 190](https://www.legislation.gov.uk/ukpga/2014/26/section/190) table inserted (for accounting periods beginning on or after 1.4.2027) by [Finance Act 2026 (c. 11)](https://www.legislation.gov.uk/ukpga/2026/11), [s. 87(5)(7)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/5/7) (with [s. 87(8)(9)](https://www.legislation.gov.uk/ukpga/2026/11/section/87/8/9))

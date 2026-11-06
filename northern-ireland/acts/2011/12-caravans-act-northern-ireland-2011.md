@@ -189,7 +189,7 @@ the agreement has effect for the benefit of and is binding on the beneficiary of
 
 ### 6. Jurisdiction
 
-(1) The county court [^key-3cbebc4b9040d1bb1e9471d1d6bb7af8]... shall have jurisdiction—
+(1) The county court [^c-3cbebc4b9040d1bb1e9471d1d6bb7af8]... shall have jurisdiction—
 
 - (a) to determine any question arising under this Part or any residential agreement, and
 - (b) to entertain any proceedings brought under this Part or any such agreement;
@@ -274,7 +274,7 @@ the term is unenforceable by the owner.
 
 ### 10. Jurisdiction
 
-(1) The county court [^key-c492d4d0fba31075afe4bcaf879623b4]... shall have jurisdiction—
+(1) The county court [^c-c492d4d0fba31075afe4bcaf879623b4]... shall have jurisdiction—
 
 - (a) to determine any question arising under this Part or any seasonal agreement, and
 - (b) to entertain any proceedings brought under this Part or any such agreement;
@@ -422,7 +422,7 @@ but the court shall not extend the period of suspension for more than 12 months 
 
 (4) A structure which falls within subsection (2) is not excluded from being a caravan by reason only that when assembled it cannot lawfully be moved from one place to another on a road.
 
-(5)[^key-6a6d81e8d1880b5f508314f09a908d9f] The Department of the Environment may by order, after consultation with such persons or bodies as appear to it to be concerned, substitute for any figure mentioned in subsection (3) such other figure as may be specified in the order.
+(5)[^c-6a6d81e8d1880b5f508314f09a908d9f] The Department of the Environment may by order, after consultation with such persons or bodies as appear to it to be concerned, substitute for any figure mentioned in subsection (3) such other figure as may be specified in the order.
 
 (6) An order under subsection (5) is subject to negative resolution.
 
@@ -448,7 +448,7 @@ In section 25 of the Caravans Act (interpretation) for the definition of “cara
   - (b) in Part 2 has the meaning given by section 7(2);
   - (c) in Part 3 has the meaning given by section 11(2);
 - “**owner**”, in relation to a caravan site, means the person who, by virtue of an estate held by that person, is entitled to possession of the site or would be so entitled but for the rights of any persons to station caravans on land forming part of the site;
-- “**planning permission**” means planning permission under Part 3 of the Planning Act (Northern Ireland) 2011[^key-861233bed9eabcf29ad0574802a239cf];
+- “**planning permission**” means planning permission under Part 3 of the Planning Act (Northern Ireland) 2011[^c-861233bed9eabcf29ad0574802a239cf];
 - “**protected site**” means a caravan site other than a site in respect of which the relevant planning permission or site licence—
   - (a) is expressed to be granted for holiday use only; or
   - (b) is otherwise so expressed or subject to such conditions that there are times of the year when no caravan may be stationed on the land for human habitation;
@@ -809,10 +809,10 @@ the recipient owes a duty to the occupier to take such steps as are reasonable t
 
 ## Annotations
 
-[^key-3cbebc4b9040d1bb1e9471d1d6bb7af8]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/nia/2011/12/section/6/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 140(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/140/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-3cbebc4b9040d1bb1e9471d1d6bb7af8]: Textual amendment: Words in [s. 6(1)](https://www.legislation.gov.uk/nia/2011/12/section/6/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 140(1)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/140/1), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-c492d4d0fba31075afe4bcaf879623b4]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/nia/2011/12/section/10/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 140(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/140/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
+[^c-c492d4d0fba31075afe4bcaf879623b4]: Textual amendment: Words in [s. 10(1)](https://www.legislation.gov.uk/nia/2011/12/section/10/1) repealed (31.10.2016) by [Justice Act (Northern Ireland) 2015 (c. 9)](https://www.legislation.gov.uk/nia/2015/9), [s. 106(2)](https://www.legislation.gov.uk/nia/2015/9/section/106/2), [Sch. 1 para. 140(2)](https://www.legislation.gov.uk/nia/2015/9/schedule/1/paragraph/140/2), [Sch. 9 Pt. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/9/part/1) (with [Sch. 8 para. 1](https://www.legislation.gov.uk/nia/2015/9/schedule/8/paragraph/1)); [S.R. 2016/387](https://www.legislation.gov.uk/nisr/2016/387), [art. 2(k)(m)](https://www.legislation.gov.uk/nisr/2016/387/article/2/k/m) (with [art. 3](https://www.legislation.gov.uk/nisr/2016/387/article/3))
 
-[^key-6a6d81e8d1880b5f508314f09a908d9f]: Modification: [S. 15(5)](https://www.legislation.gov.uk/nia/2011/12/section/15/5): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
+[^c-6a6d81e8d1880b5f508314f09a908d9f]: Modification: [S. 15(5)](https://www.legislation.gov.uk/nia/2011/12/section/15/5): transfer of functions (8.5.2016) by [The Departments (Transfer of Functions) Order (Northern Ireland) 2016 (S.R. 2016/76)](https://www.legislation.gov.uk/nisr/2016/76), [art. 1(2)](https://www.legislation.gov.uk/nisr/2016/76/article/1/2), [Sch. 5 Pt. 2](https://www.legislation.gov.uk/nisr/2016/76/schedule/5/part/2) (with [art. 9(2)](https://www.legislation.gov.uk/nisr/2016/76/article/9/2))
 
-[^key-861233bed9eabcf29ad0574802a239cf]: Textual amendment: Words in s. 17(1) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 108](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/108) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) (as amended (16.3.2016) by S.R. 2016/159, art. 2))
+[^c-861233bed9eabcf29ad0574802a239cf]: Textual amendment: Words in s. 17(1) substituted (13.2.2015 for specified purposes, 1.4.2015 in so far as not already in operation) by [Planning Act (Northern Ireland) 2011 (c. 25)](https://www.legislation.gov.uk/nia/2011/25), [s. 254(1)](https://www.legislation.gov.uk/nia/2011/25/section/254/1)[(2)](https://www.legislation.gov.uk/nia/2011/25/section/254/2), [Sch. 6 para. 108](https://www.legislation.gov.uk/nia/2011/25/schedule/6/paragraph/108) (with [s. 211](https://www.legislation.gov.uk/nia/2011/25/section/211)); [S.R. 2015/49](https://www.legislation.gov.uk/nisr/2015/49), [arts. 2](https://www.legislation.gov.uk/nisr/2015/49/article/2), [3](https://www.legislation.gov.uk/nisr/2015/49/article/3), [Sch. 1](https://www.legislation.gov.uk/nisr/2015/49/schedule/1) (with [Sch. 2](https://www.legislation.gov.uk/nisr/2015/49/schedule/2) (as amended (16.3.2016) by S.R. 2016/159, art. 2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 58. Date on which benefit period is to end[^key-cf05c282e71c643d2dd0b5b96aab54d3]
+## 58. Date on which benefit period is to end[^c-cf05c282e71c643d2dd0b5b96aab54d3]
 
 *Extent: E+W+S*
 
@@ -28,4 +28,4 @@ The benefit period shall end with the last day of the final week of that period,
 
 ## Annotations
 
-[^key-cf05c282e71c643d2dd0b5b96aab54d3]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/1992/1814/regulation/58) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)
+[^c-cf05c282e71c643d2dd0b5b96aab54d3]: Commencement: [Reg. 58](https://www.legislation.gov.uk/uksi/1992/1814/regulation/58) in force at 1.4.1993, see [reg. 1(b)](https://www.legislation.gov.uk/uksi/1992/1814/regulation/1/b)

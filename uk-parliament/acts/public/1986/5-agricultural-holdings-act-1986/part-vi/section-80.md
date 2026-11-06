@@ -39,7 +39,7 @@ summary: ''
 
 (7) Without prejudice to the generality of subsection (6) above, where a direction relates to part only of an agricultural holding, it may, on the application of the landlord, be given subject to the condition that it shall become operative only in the event of the tenant’s consenting to the division of the holding into two parts, of which one shall be that to which the direction relates, to be held at rents settled, in default of agreement, by arbitration under this Act, but otherwise on the same terms and conditions (so far as applicable) as those on which the holding is held.
 
-(7A)[^key-22ae4040d6c1056801abde8a383b02bc] Notwithstanding the provision made by subsection (7) above for rents to be settled by arbitration, the landlord and tenant may instead refer those rents to be settled by third party determination under this Act.
+(7A)[^c-22ae4040d6c1056801abde8a383b02bc] Notwithstanding the provision made by subsection (7) above for rents to be settled by arbitration, the landlord and tenant may instead refer those rents to be settled by third party determination under this Act.
 
 (8) A new tenancy created by the acceptance of a tenant in accordance with the provisions of this section on the terms and conditions of the existing tenancy shall be deemed for the purposes of Schedule 2 to this Act not to be a new tenancy.
 
@@ -47,4 +47,4 @@ summary: ''
 
 ## Annotations
 
-[^key-22ae4040d6c1056801abde8a383b02bc]: Textual amendment: S. 80(7A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/19)
+[^c-22ae4040d6c1056801abde8a383b02bc]: Textual amendment: S. 80(7A) inserted (26.3.2015 for specified purposes, 26.5.2015 in so far as not already in force) by [Deregulation Act 2015 (c. 20)](https://www.legislation.gov.uk/ukpga/2015/20), [s. 115(2)(e)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/2/e)[(3)(a)](https://www.legislation.gov.uk/ukpga/2015/20/section/115/3/a), [Sch. 4 para. 19](https://www.legislation.gov.uk/ukpga/2015/20/schedule/4/paragraph/19)

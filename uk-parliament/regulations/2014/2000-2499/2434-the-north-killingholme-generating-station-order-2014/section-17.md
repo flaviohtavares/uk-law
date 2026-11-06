@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland.
 
-## 17. Power to override easements and other rights[^key-2daf62397c1176c3d1e9d2601df16b81]
+## 17. Power to override easements and other rights[^c-2daf62397c1176c3d1e9d2601df16b81]
 
 *Extent: E+W+S*
 
@@ -50,4 +50,4 @@ which is authorised under any other provision of this Order, and done in accorda
 
 ## Annotations
 
-[^key-2daf62397c1176c3d1e9d2601df16b81]: Commencement: Art. 17 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)
+[^c-2daf62397c1176c3d1e9d2601df16b81]: Commencement: Art. 17 in force at 2.10.2014, see [art. 1](https://www.legislation.gov.uk/uksi/2014/2434/article/1)

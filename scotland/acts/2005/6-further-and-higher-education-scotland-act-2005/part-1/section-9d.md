@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: Scotland.
 
-## 9D. Fee cap: students liable for higher education fees[^key-e77eb078013d2079c46fa88f29ab1c87]
+## 9D. Fee cap: students liable for higher education fees[^c-e77eb078013d2079c46fa88f29ab1c87]
 
 *Extent: S*
 
@@ -48,4 +48,4 @@ on the basis of the subject in which such training is given.
 
 ## Annotations
 
-[^key-e77eb078013d2079c46fa88f29ab1c87]: Textual amendment: S. 9D inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 4](https://www.legislation.gov.uk/asp/2013/12/section/4), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2014/21/article/3/2))
+[^c-e77eb078013d2079c46fa88f29ab1c87]: Textual amendment: S. 9D inserted (3.3.2014) by [Post-16 Education (Scotland) Act 2013 (asp 12)](https://www.legislation.gov.uk/asp/2013/12), [ss. 4](https://www.legislation.gov.uk/asp/2013/12/section/4), [23(2)](https://www.legislation.gov.uk/asp/2013/12/section/23/2); [S.S.I. 2014/21](https://www.legislation.gov.uk/ssi/2014/21), [art. 2](https://www.legislation.gov.uk/ssi/2014/21/article/2), [Sch. 1](https://www.legislation.gov.uk/ssi/2014/21/schedule/1) (with [art. 3(2)](https://www.legislation.gov.uk/ssi/2014/21/article/3/2))

@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England.
 
-## 32. Payments for deaconesses and licensed lay workers[^key-a74d0d5eed11549047d88e6150606d42]
+## 32. Payments for deaconesses and licensed lay workers[^c-a74d0d5eed11549047d88e6150606d42]
 
 *Extent: E*
 
@@ -35,4 +35,4 @@ summary: ''
 
 ## Annotations
 
-[^key-a74d0d5eed11549047d88e6150606d42]: Commencement: [S. 32](https://www.legislation.gov.uk/ukcm/2018/9/section/32) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)
+[^c-a74d0d5eed11549047d88e6150606d42]: Commencement: [S. 32](https://www.legislation.gov.uk/ukcm/2018/9/section/32) in force at 1.3.2019 by [S.I. 2019/98](https://www.legislation.gov.uk/uksi/2019/98), [art. 2](https://www.legislation.gov.uk/uksi/2019/98/article/2)

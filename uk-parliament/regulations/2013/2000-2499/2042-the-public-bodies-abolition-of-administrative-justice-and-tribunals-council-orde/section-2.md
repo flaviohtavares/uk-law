@@ -16,7 +16,7 @@ summary: ''
 >
 > Extent: England, Wales, Scotland, Northern Ireland.
 
-## 2. Abolition of the Administrative Justice and Tribunals Council[^key-84524951b1128d45dfa01a2001fb8ba6]
+## 2. Abolition of the Administrative Justice and Tribunals Council[^c-84524951b1128d45dfa01a2001fb8ba6]
 
 *Extent: E+W+S+N.I.*
 
@@ -26,4 +26,4 @@ summary: ''
 
 ## Annotations
 
-[^key-84524951b1128d45dfa01a2001fb8ba6]: Commencement: Art. 2 in force at 19.8.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2)
+[^c-84524951b1128d45dfa01a2001fb8ba6]: Commencement: Art. 2 in force at 19.8.2013, see [art. 1(2)](https://www.legislation.gov.uk/uksi/2013/2042/article/1/2)

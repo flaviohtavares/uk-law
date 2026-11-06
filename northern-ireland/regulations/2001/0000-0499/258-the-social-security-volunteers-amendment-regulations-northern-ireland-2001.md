@@ -41,20 +41,20 @@ Coming into operation
 
 The Department for Social Development, in exercise of the powers conferred on it by sections 122(1)(a) and (d), 132(4)(b) and 171(1) and (3) of the Social Security Contributions and Benefits (Northern Ireland) Act 1992[^f00001] and Article 14(4)(b) of the Jobseekers (Northern Ireland) Order 1995[^f00002] and now vested in it[^f00003], and of all other powers enabling it in that behalf, with the consent of the Department of Finance and Personnel[^f00004] in so far as regulation 2(2)(*b*) is concerned, and after agreement by the Social Security Advisory Committee that proposals in respect of that regulation should not be referred to it[^f00005], hereby makes the following Regulations:
 
-## 1. Citation, commencement and interpretation[^key-6db557570e9e851dc08e73d73355f769]
+## 1. Citation, commencement and interpretation[^c-6db557570e9e851dc08e73d73355f769]
 
 (1) These Regulations may be cited as the Social Security (Volunteers Amendment) Regulations (Northern Ireland) 2001 and shall come into operation on 24th September 2001.
 
 (2) The Interpretation Act (Northern Ireland) 1954[^f00006] shall apply to these Regulations as it applies to an Act of the Assembly.
 
-## 2. Income support, housing benefit and jobseeker’s allowance: disregard of expenses[^key-90a72cb6a2ea5fd2a9dea5f6fc1729f2]
+## 2. Income support, housing benefit and jobseeker’s allowance: disregard of expenses[^c-90a72cb6a2ea5fd2a9dea5f6fc1729f2]
 
 (1) In each of the provisions specified in paragraph (2), after “incurred” there shall be inserted “, or to be incurred,”.
 
 (2) The provisions specified for the purposes of paragraph (1) are—
 
 - (a) paragraph 2 of Schedule 9 to the Income Support (General) Regulations (Northern Ireland) 1987[^f00007] (sums to be disregarded in the calculation of income other than earnings);
-- (b)[^key-6c4c1005f3f8c781eb465d81ed6857ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+- (b)[^c-6c4c1005f3f8c781eb465d81ed6857ba] . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 - (c) paragraph 2 of Schedule 6 to the Jobseekers Allowance Regulations (Northern Ireland) 1996[^f00009] (sums to be disregarded in the calculation of income other than earnings).
 
 Sealed with the Official Seal of the Department for Social Development on 27th June 2001.
@@ -97,14 +97,14 @@ These Regulations do not impose any charge on business.
 
 [^f00005]: Footnote: *See* section 150(1)(b) of the Social Security Administration (Northern Ireland) Act [1992 (c. 8)](https://www.legislation.gov.uk/ukpga/1992/8)
 
-[^key-6db557570e9e851dc08e73d73355f769]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/258/regulation/1) in operation at 24.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/258/regulation/1/1)
+[^c-6db557570e9e851dc08e73d73355f769]: Commencement: [Reg. 1](https://www.legislation.gov.uk/nisr/2001/258/regulation/1) in operation at 24.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/258/regulation/1/1)
 
 [^f00006]: Footnote: [1954 c. 33 (N.I.)](https://www.legislation.gov.uk/apni/1954/33)
 
-[^key-90a72cb6a2ea5fd2a9dea5f6fc1729f2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/258/regulation/2) in operation at 24.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/258/regulation/1/1)
+[^c-90a72cb6a2ea5fd2a9dea5f6fc1729f2]: Commencement: [Reg. 2](https://www.legislation.gov.uk/nisr/2001/258/regulation/2) in operation at 24.9.2001, see [reg. 1(1)](https://www.legislation.gov.uk/nisr/2001/258/regulation/1/1)
 
 [^f00007]: Footnote: [S.R. 1987 No. 459](https://www.legislation.gov.uk/nisr/1987/459); paragraph 2 was amended by regulation 2(12)(*a*) of [S.R. 1995 No. 86](https://www.legislation.gov.uk/nisr/1995/86)
 
-[^key-6c4c1005f3f8c781eb465d81ed6857ba]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/nisr/2001/258/regulation/2/2/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
+[^c-6c4c1005f3f8c781eb465d81ed6857ba]: Textual amendment: [Reg. 2(2)(b)](https://www.legislation.gov.uk/nisr/2001/258/regulation/2/2/b) revoked (20.11.2006) by [The Housing Benefit (Consequential Provisions) Regulations (Northern Ireland) 2006 (S.R. 2006/407)](https://www.legislation.gov.uk/nisr/2006/407), [reg. 1(1)](https://www.legislation.gov.uk/nisr/2006/407/regulation/1/1), [Sch. 1](https://www.legislation.gov.uk/nisr/2006/407/schedule/1) (with [regs. 2](https://www.legislation.gov.uk/nisr/2006/407/regulation/2), [6(2)](https://www.legislation.gov.uk/nisr/2006/407/regulation/6/2), [Sch. 3](https://www.legislation.gov.uk/nisr/2006/407/schedule/3), [Sch. 4](https://www.legislation.gov.uk/nisr/2006/407/schedule/4))
 
 [^f00009]: Footnote: [S.R. 1996 No. 198](https://www.legislation.gov.uk/nisr/1996/198); to which there are amendments not relevant to these Regulations

@@ -33,13 +33,13 @@ An Act to make provision as to the erection and maintenance of omnibus shelters 
 
 \[23rd July 1958\][^c616095][^c616096][^c616097][^c616098]
 
-## 1. Provision of omnibus shelters, etc.[^key-1791488af9683dda0edd927231962438][^key-ea640aeef4e8b86a3cb4b2be42a32d7b]
+## 1. Provision of omnibus shelters, etc.[^c-1791488af9683dda0edd927231962438][^c-ea640aeef4e8b86a3cb4b2be42a32d7b]
 
 (1) Subject to the provisions of this Act a local roads authority[^c616099] may provide and maintain in any road within their area,[^c616100] which is comprised in the route of public service vehicles or on any land abutting on such a road, at stopping places on the route, shelters for the use of persons intending to travel on such vehicles and barriers or posts for controlling the movement of such persons.
 
 (2) Any local authority, or any person authorised to run public service vehicles, may enter into and carry into effect any agreement with a local authority with respect to the provision and maintenance of shelters or barriers or posts under this section by the last-mentioned authority; and any such agreement may in particular provide for the payment by the first-mentioned authority or person of the whole or any part of the cost of the provision and maintenance of the shelters or barriers or posts.
 
-## 2. Consents to exercise of powers under s. 1.[^c616102][^key-1791488af9683dda0edd927231962438][^key-ea640aeef4e8b86a3cb4b2be42a32d7b]
+## 2. Consents to exercise of powers under s. 1.[^c616102][^c-1791488af9683dda0edd927231962438][^c-ea640aeef4e8b86a3cb4b2be42a32d7b]
 
 (1) A local roads authority[^c616103] shall not have power by virtue of section one of this Act to provide a shelter or barriers or posts in any such situation or position as is described in the first column of the following Table, except with the consent of the person named in the second column of that Table:—
 
@@ -58,15 +58,15 @@ TABLE
 
 (3) Any dispute as to whether a consent required by this section is unreasonably withheld or is given subject to reasonable conditions, or as to whether the removal of any shelter or barriers or posts in accordance with any condition of the consent is reasonably required shall be determined by arbitration.
 
-## 3. Supplementary provisions as to omnibus shelters, etc.[^key-1791488af9683dda0edd927231962438][^key-ea640aeef4e8b86a3cb4b2be42a32d7b]
+## 3. Supplementary provisions as to omnibus shelters, etc.[^c-1791488af9683dda0edd927231962438][^c-ea640aeef4e8b86a3cb4b2be42a32d7b]
 
-(1) Where a shelter or barriers or posts are provided by a local roads authority[^c616118] under section one of this Act in a position obstructing access to any electronic communications apparatus[^key-74a918d460bddb829ae1ca83e07d455e][^c616119] kept installed for the purposes of an electronic communications code network[^key-f0d473eff58de6e82628aec016e33514], and the operator of that network[^key-22e46b6e01ed09111484ae8b306e73ec] notifies the local roads authority that he requires to obtain access to that apparatus, the authority shall, unless they temporarily remove the shelter, barriers or posts for the purpose of affording such access, or so much thereof as is necessary for that purpose, be liable to repay the operator of that network so much of the expenses reasonably incurred by him in obtaining such access as is attributable to the situation of the shelter or barriers or posts.
+(1) Where a shelter or barriers or posts are provided by a local roads authority[^c616118] under section one of this Act in a position obstructing access to any electronic communications apparatus[^c-74a918d460bddb829ae1ca83e07d455e][^c616119] kept installed for the purposes of an electronic communications code network[^c-f0d473eff58de6e82628aec016e33514], and the operator of that network[^c-22e46b6e01ed09111484ae8b306e73ec] notifies the local roads authority that he requires to obtain access to that apparatus, the authority shall, unless they temporarily remove the shelter, barriers or posts for the purpose of affording such access, or so much thereof as is necessary for that purpose, be liable to repay the operator of that network so much of the expenses reasonably incurred by him in obtaining such access as is attributable to the situation of the shelter or barriers or posts.
 
 (2) The provisions of the foregoing subsection shall apply in relation to any sewers, pipe-subways, pipes, wires or other apparatus belonging to or maintained by the Minister or any local authority or any gas, electricity, water, hydraulic power, tramcar or trolley vehicle undertakers, as they apply in relation to any such electronic communications apparatus[^c616121] as is therein mentioned, and as if for any reference therein to the operator of the network in question there were substituted a reference to the Minister or the local authority or the undertakers, as the case may be.
 
 (3) Any dispute as to the amount (if any) payable by a local roads authority under the foregoing provisions of this section shall be determined by arbitration.
 
-## 4. Maintenance of existing bus shelters and queue barriers. S.R. & O. 1939/927 (I p. 715).[^key-1791488af9683dda0edd927231962438][^key-ea640aeef4e8b86a3cb4b2be42a32d7b]
+## 4. Maintenance of existing bus shelters and queue barriers. S.R. & O. 1939/927 (I p. 715).[^c-1791488af9683dda0edd927231962438][^c-ea640aeef4e8b86a3cb4b2be42a32d7b]
 
 (1) Where, at any time before the commencement of this Act, a local authority, acting in the exercise of powers conferred under Regulation 54B of the Defence (General) Regulations, 1939, or without statutory powers, have provided accommodation, being any such shelter or barriers or posts as described in section one of this Act, the local roads authority[^c616123] shall have power by virtue of this section to maintain that accommodation.
 
@@ -79,7 +79,7 @@ TABLE
 - (a) any administrative expenses incurred for the purposes of this Act by the Secretary of State or the Minister; and
 - (b) any increase in the sums payable out of moneys so provided, under the [^c616124]Local Government (Financial Provisions) (Scotland) Act, 1954, as amended by the [^c616125]Valuation and Rating (Scotland) Act, 1956, which is attributable to the provisions of this Act.
 
-## 6. Arbitration.[^key-565fe3a1e8374c5846a48904283fc9d5][^key-16c730e5e4067149f19db8520908d9d6]
+## 6. Arbitration.[^c-565fe3a1e8374c5846a48904283fc9d5][^c-16c730e5e4067149f19db8520908d9d6]
 
 Any question which is required by this Act to be determined by arbitration shall be determined by a single arbiter agreed upon by the parties or, failing such agreement, appointed by the sheriff on the application of any of the parties to the question.
 
@@ -114,9 +114,9 @@ Any question which is required by this Act to be determined by arbitration shall
 
     Act amended (1.3.1996) by [1995 c. 45](https://www.legislation.gov.uk/ukpga/1995/45), [s. 16(1)](https://www.legislation.gov.uk/ukpga/1995/45/section/16/1), [Sch. 4 para. 2(2)(b)](https://www.legislation.gov.uk/ukpga/1995/45/schedule/4/paragraph/2/2/b); [S.I. 1996/218](https://www.legislation.gov.uk/uksi/1996/218), [art. 2](https://www.legislation.gov.uk/uksi/1996/218/article/2)
 
-[^key-1791488af9683dda0edd927231962438]: Modification: Ss. 1-4: functions made exercisable concurrently (1.11.2006) by [Transfer of Functions to the Shetland Transport Partnership Order 2006 (No. 527)](https://www.legislation.gov.uk/ssi/2006/527), [art. 1](https://www.legislation.gov.uk/ssi/2006/527/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/527/schedule/2)
+[^c-1791488af9683dda0edd927231962438]: Modification: Ss. 1-4: functions made exercisable concurrently (1.11.2006) by [Transfer of Functions to the Shetland Transport Partnership Order 2006 (No. 527)](https://www.legislation.gov.uk/ssi/2006/527), [art. 1](https://www.legislation.gov.uk/ssi/2006/527/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/527/schedule/2)
 
-[^key-ea640aeef4e8b86a3cb4b2be42a32d7b]: Modification: Ss. 1-4: functions made exercisable concurrently (7.11.2006) by [Transfer of Functions to the South-West of Scotland Transport Partnership Order 2006 (No. 538)](https://www.legislation.gov.uk/ssi/2006/538), [art. 1](https://www.legislation.gov.uk/ssi/2006/538/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/538/schedule/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/538/article/5))
+[^c-ea640aeef4e8b86a3cb4b2be42a32d7b]: Modification: Ss. 1-4: functions made exercisable concurrently (7.11.2006) by [Transfer of Functions to the South-West of Scotland Transport Partnership Order 2006 (No. 538)](https://www.legislation.gov.uk/ssi/2006/538), [art. 1](https://www.legislation.gov.uk/ssi/2006/538/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/538/schedule/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/538/article/5))
 
 [^c616099]: Textual amendment: Words substituted by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [s. 49](https://www.legislation.gov.uk/ukpga/1984/54/section/49)
 
@@ -134,13 +134,13 @@ Any question which is required by this Act to be determined by arbitration shall
 
 [^c616118]: Textual amendment: Words substituted by [Roads (Scotland) Act 1984 (c. 54, SIF 108)](https://www.legislation.gov.uk/ukpga/1984/54), [s. 49](https://www.legislation.gov.uk/ukpga/1984/54/section/49)
 
-[^key-74a918d460bddb829ae1ca83e07d455e]: Textual amendment: Words in s. 3 substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/3/a)
+[^c-74a918d460bddb829ae1ca83e07d455e]: Textual amendment: Words in s. 3 substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 3(a)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/3/a)
 
 [^c616119]: Textual amendment: Words substituted by [Telecommunications Act 1984 (c. 12, SIF 96)](https://www.legislation.gov.uk/ukpga/1984/12), [s. 109](https://www.legislation.gov.uk/ukpga/1984/12/section/109), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/1984/12/schedule/4/paragraph/37)(*a*), Sch. 5 para. 45
 
-[^key-f0d473eff58de6e82628aec016e33514]: Textual amendment: Words in s. 3(1) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/3/c)
+[^c-f0d473eff58de6e82628aec016e33514]: Textual amendment: Words in s. 3(1) substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 3(b)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/3/c)
 
-[^key-22e46b6e01ed09111484ae8b306e73ec]: Textual amendment: Word in s. 3 substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/3/b)
+[^c-22e46b6e01ed09111484ae8b306e73ec]: Textual amendment: Word in s. 3 substituted (17.9.2003) by [Communications Act 2003 (Consequential Amendments) Order 2003 (S.I. 2003/2155)](https://www.legislation.gov.uk/uksi/2003/2155), [art. 1(1)](https://www.legislation.gov.uk/uksi/2003/2155/article/1/1), [Sch. 1 para. 3(c)](https://www.legislation.gov.uk/uksi/2003/2155/schedule/1/paragraph/3/b)
 
 [^c616121]: Textual amendment: Words substituted by [Telecommunications Act 1984 (c. 12, SIF 96)](https://www.legislation.gov.uk/ukpga/1984/12), [s. 109](https://www.legislation.gov.uk/ukpga/1984/12/section/109), [Sch. 4 para. 37](https://www.legislation.gov.uk/ukpga/1984/12/schedule/4/paragraph/37)(*b*), Sch. 5 para. 45
 
@@ -150,9 +150,9 @@ Any question which is required by this Act to be determined by arbitration shall
 
 [^c616125]: Marginal citation: [1956 c. 60](https://www.legislation.gov.uk/ukpga/1956/60).
 
-[^key-565fe3a1e8374c5846a48904283fc9d5]: Modification: S. 6: functions made exercisable concurrently (1.11.2006) by [Transfer of Functions to the Shetland Transport Partnership Order 2006 (No. 527)](https://www.legislation.gov.uk/ssi/2006/527), [art. 1](https://www.legislation.gov.uk/ssi/2006/527/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/527/schedule/2)
+[^c-565fe3a1e8374c5846a48904283fc9d5]: Modification: S. 6: functions made exercisable concurrently (1.11.2006) by [Transfer of Functions to the Shetland Transport Partnership Order 2006 (No. 527)](https://www.legislation.gov.uk/ssi/2006/527), [art. 1](https://www.legislation.gov.uk/ssi/2006/527/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/527/schedule/2)
 
-[^key-16c730e5e4067149f19db8520908d9d6]: Modification: S. 6: functions made exercisable concurrently (7.11.2006) by [Transfer of Functions to the South-West of Scotland Transport Partnership Order 2006 (No. 538)](https://www.legislation.gov.uk/ssi/2006/538), [art. 1](https://www.legislation.gov.uk/ssi/2006/538/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/538/schedule/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/538/article/5))
+[^c-16c730e5e4067149f19db8520908d9d6]: Modification: S. 6: functions made exercisable concurrently (7.11.2006) by [Transfer of Functions to the South-West of Scotland Transport Partnership Order 2006 (No. 538)](https://www.legislation.gov.uk/ssi/2006/538), [art. 1](https://www.legislation.gov.uk/ssi/2006/538/article/1), [Sch. 2](https://www.legislation.gov.uk/ssi/2006/538/schedule/2) (with [art. 5](https://www.legislation.gov.uk/ssi/2006/538/article/5))
 
 [^c616126]: Textual amendment: Words substituted by [Local Government (Scotland) Act 1973 (c. 65)](https://www.legislation.gov.uk/ukpga/1973/65), [Sch. 18 Pt. II para. 29](https://www.legislation.gov.uk/ukpga/1973/65/schedule/18/part/II/paragraph/29)
 
